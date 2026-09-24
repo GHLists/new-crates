@@ -8,50 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-24 17:18 UTC
+## Latest list — 2026-09-24 18:20 UTC
 
-New crates published between 2026-09-24 16:20 UTC and 2026-09-24 17:18 UTC.
+New crates published between 2026-09-24 17:18 UTC and 2026-09-24 18:20 UTC.
 
-[Full CSV](data/new-crates-2026-09-24T17-18-57-936656Z.csv)
+[Full CSV](data/new-crates-2026-09-24T18-20-18-176819Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-24 16:24:23 | [bite-gp-types](https://crates.io/crates/bite-gp-types) | 1.20.203 | 0 | gpui_types — part of the bite-gpui rearchitecture of zed's gpui |
-| 2026-09-24 16:25:25 | [qir-formatter](https://crates.io/crates/qir-formatter) | 0.3.0 | 0 | Rust implementation of the QIR labeled results formatter |
-| 2026-09-24 16:26:31 | [ecat-registry](https://crates.io/crates/ecat-registry) | 3.0.3 | 0 | Service registry abstraction for e-cat |
-| 2026-09-24 16:26:46 | [concerto-asset-build](https://crates.io/crates/concerto-asset-build) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
-| 2026-09-24 16:29:55 | [oidc-client](https://crates.io/crates/oidc-client) | 4.1.0 | 0 | OpenID Connect relying-party library — maintained continuation of openidconnect |
-| 2026-09-24 16:30:03 | [cranpose-coroflow](https://crates.io/crates/cranpose-coroflow) | 0.1.163 | 0 | Runs coroflow coroutines, flows and view models inside Cranpose compositions |
-| 2026-09-24 16:31:39 | [cranpose-navigation](https://crates.io/crates/cranpose-navigation) | 0.1.163 | 0 | NavHost, a typed back stack and per-screen view models for Cranpose |
-| 2026-09-24 16:34:43 | [bite-gp-engine](https://crates.io/crates/bite-gp-engine) | 1.20.203 | 0 | gpui_engine — part of the bite-gpui rearchitecture of zed's gpui |
-| 2026-09-24 16:36:31 | [ecat-auth](https://crates.io/crates/ecat-auth) | 3.0.3 | 0 | JWT, API key, and OAuth2 authentication layers for e-cat services |
-| 2026-09-24 16:36:53 | [concerto-debug-gizmos](https://crates.io/crates/concerto-debug-gizmos) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
-| 2026-09-24 16:44:59 | [bite-gp-engine-default](https://crates.io/crates/bite-gp-engine-default) | 1.20.203 | 0 | gpui_engine_default — part of the bite-gpui rearchitecture of zed's gpui |
-| 2026-09-24 16:45:25 | [projjson](https://crates.io/crates/projjson) | 0.1.0 | 0 | Typed, lossless read/write support for PROJJSON coordinate reference system def… |
-| 2026-09-24 16:46:31 | [ecat-scheduler](https://crates.io/crates/ecat-scheduler) | 3.0.3 | 0 | Periodic and one-shot task scheduler for e-cat |
-| 2026-09-24 16:47:58 | [concerto-editor](https://crates.io/crates/concerto-editor) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
-| 2026-09-24 16:50:38 | [starve-not](https://crates.io/crates/starve-not) | 0.1.0-alpha.1 | 0 | Adaptive admission control for multi-stage pipelines: keep the bottleneck fed w… |
-| 2026-09-24 16:51:33 | [libcodrop](https://crates.io/crates/libcodrop) | 1.0.0-rc1 | 0 | Universal Adaptive Compression System Core Engine |
-| 2026-09-24 16:51:59 | [spirv-std-nightly](https://crates.io/crates/spirv-std-nightly) | 0.0.1 | 0 | Placeholder crate to setup trusted publishing |
-| 2026-09-24 16:52:05 | [rust-deflate](https://crates.io/crates/rust-deflate) | 0.1.0 | 0 | A DEFLATE (RFC 1951) decompressor written from scratch in Rust. |
-| 2026-09-24 16:55:44 | [codrop-cli](https://crates.io/crates/codrop-cli) | 1.0.0-rc1 | 0 | Universal Adaptive Compression System CLI Tool |
-| 2026-09-24 16:56:30 | [ecat-mq](https://crates.io/crates/ecat-mq) | 3.0.3 | 0 | Message queue abstraction for e-cat |
-| 2026-09-24 16:56:53 | [tauri-updater-delta-core](https://crates.io/crates/tauri-updater-delta-core) | 0.1.0 | 0 | Platform-agnostic binary delta engine: diff, apply and verify update artifacts. |
-| 2026-09-24 16:56:53 | [concerto-gltf](https://crates.io/crates/concerto-gltf) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
-| 2026-09-24 16:56:56 | [tauri-updater-delta-release](https://crates.io/crates/tauri-updater-delta-release) | 0.1.0 | 0 | Release-time tooling: generate patches, sign installers and write the update ma… |
-| 2026-09-24 16:56:59 | [tauri-plugin-updater-delta](https://crates.io/crates/tauri-plugin-updater-delta) | 0.1.0 | 0 | Binary delta updates for Tauri v2 — wraps tauri-plugin-updater to shrink the do… |
-| 2026-09-24 16:57:36 | [atomic_parser](https://crates.io/crates/atomic_parser) | 0.1.1 | 0 | A rust crate to parse a file made up of atoms |
-| 2026-09-24 16:59:38 | [bartelang](https://crates.io/crates/bartelang) | 0.1.0 | 0 | Bartelang: a 1998 Visual Basic 6 dialect with a Unix stream-processing engine |
-| 2026-09-24 17:06:32 | [ecat-errors](https://crates.io/crates/ecat-errors) | 3.0.3 | 0 | Unified error types for e-cat services |
-| 2026-09-24 17:06:51 | [concerto-obj](https://crates.io/crates/concerto-obj) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
-| 2026-09-24 17:09:03 | [honeymaker](https://crates.io/crates/honeymaker) | 0.0.1 | 0 | Unified clients for cryptocurrency exchange APIs |
-| 2026-09-24 17:15:02 | [ribergshamra-dsig](https://crates.io/crates/ribergshamra-dsig) | 0.10.0 | 0 | XML Digital Signatures for ribergshamra, the maintained fork of the bergshamra… |
-| 2026-09-24 17:15:08 | [ribergshamra-enc](https://crates.io/crates/ribergshamra-enc) | 0.10.0 | 0 | XML Encryption for ribergshamra, the maintained fork of the bergshamra XML Secu… |
-| 2026-09-24 17:15:13 | [ribergshamra](https://crates.io/crates/ribergshamra) | 0.10.0 | 0 | Maintained fork of bergshamra: pure Rust XML Security (XML-DSig, XML-Enc, C14N)… |
-| 2026-09-24 17:15:47 | [niv](https://crates.io/crates/niv) | 0.0.1 | 0 | Placeholder for niv |
-| 2026-09-24 17:15:49 | [zev](https://crates.io/crates/zev) | 0.0.1 | 0 | Placeholder for zev |
-| 2026-09-24 17:16:33 | [ecat-tracing](https://crates.io/crates/ecat-tracing) | 3.0.3 | 0 | Distributed tracing (OpenTelemetry) for e-cat |
-| 2026-09-24 17:16:54 | [concerto-import](https://crates.io/crates/concerto-import) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
+| 2026-09-24 17:19:25 | [metrale-recipes-data](https://crates.io/crates/metrale-recipes-data) | 0.1.0 | 14 | Vendored Metrale Engine recipe corpus, embedded at compile time. |
+| 2026-09-24 17:19:43 | [assess](https://crates.io/crates/assess) | 0.0.1 | 8 | Agentic evaluation library. |
+| 2026-09-24 17:20:14 | [flirc-rs](https://crates.io/crates/flirc-rs) | 0.1.0 | 9 | Native Rust tooling for Flirc USB devices |
+| 2026-09-24 17:23:49 | [zonemail](https://crates.io/crates/zonemail) | 0.1.0 | 8 | Lightweight self-contained email + DNS service: REST API, authoritative DNS, in… |
+| 2026-09-24 17:24:35 | [metralectl-protocol](https://crates.io/crates/metralectl-protocol) | 0.1.0 | 14 | Wire types shared by the metralectl agent, the CLI, and the browser client. |
+| 2026-09-24 17:26:32 | [ecat-transport](https://crates.io/crates/ecat-transport) | 3.0.3 | 11 | Transport layer abstraction for e-cat |
+| 2026-09-24 17:26:51 | [concerto-terminal-renderer](https://crates.io/crates/concerto-terminal-renderer) | 0.1.0 | 8 | A game engine for character-driven, high-fidelity cinematic games. |
+| 2026-09-24 17:29:44 | [metralectl-core](https://crates.io/crates/metralectl-core) | 0.1.0 | 13 | Recipe model and deterministic recipe-to-docker translation for metralectl. |
+| 2026-09-24 17:35:01 | [metralectl-agent](https://crates.io/crates/metralectl-agent) | 0.1.0 | 11 | Local agent that lets the Metrale Engine website launch recipes on this machine. |
+| 2026-09-24 17:35:07 | [zarpyon-support-transport-reqwest](https://crates.io/crates/zarpyon-support-transport-reqwest) | 0.0.1 | 9 | Constrained reqwest client builder for authorized Zarpyon integrations |
+| 2026-09-24 17:35:32 | [risaml](https://crates.io/crates/risaml) | 0.6.0 | 11 | Maintained fork of saml-rs: pure-Rust SAML 2.0 Service Provider and Identity Pr… |
+| 2026-09-24 17:36:30 | [ecat-middleware](https://crates.io/crates/ecat-middleware) | 3.0.3 | 8 | Tower middleware (rate limiting, timeout) for e-cat |
+| 2026-09-24 17:36:33 | [popgen](https://crates.io/crates/popgen) | 0.10.0-alpha.0 | 8 | Efficient types for population genetic analysis. |
+| 2026-09-24 17:36:53 | [concerto-ui-egui](https://crates.io/crates/concerto-ui-egui) | 0.1.0 | 8 | A game engine for character-driven, high-fidelity cinematic games. |
+| 2026-09-24 17:38:24 | [openehr-sdt](https://crates.io/crates/openehr-sdt) | 0.0.69 | 8 | openEHR Simplified Data Template formats (FLAT / STRUCTURED / Web Template / TD… |
+| 2026-09-24 17:38:32 | [zarpyon-support-webhook](https://crates.io/crates/zarpyon-support-webhook) | 0.0.1 | 9 | HMAC-SHA256 webhook signature verification for Zarpyon integrations |
+| 2026-09-24 17:39:01 | [khoj](https://crates.io/crates/khoj) | 0.1.0 | 8 | A Rust-native search and indexing engine inspired by Lucene |
+| 2026-09-24 17:40:16 | [metralectl](https://crates.io/crates/metralectl) | 0.1.0 | 9 | Launch Metrale Engine inference recipes on NVIDIA DGX Spark and other local acc… |
+| 2026-09-24 17:40:54 | [anva](https://crates.io/crates/anva) | 0.1.0 | 8 | A Rust-native search server built around the Khoj search engine |
+| 2026-09-24 17:41:28 | [distributed-typestate-macro](https://crates.io/crates/distributed-typestate-macro) | 0.1.0 | 11 | Procedural macros for the dist-typestate crate. Generates type-safe distributed… |
+| 2026-09-24 17:41:42 | [dist-typestate](https://crates.io/crates/dist-typestate) | 0.1.0 | 8 | Type-safe distributed state machines using versioned capabilities and CAS. Brin… |
+| 2026-09-24 17:46:30 | [ecat-mq-nats](https://crates.io/crates/ecat-mq-nats) | 3.0.3 | 8 | NATS message queue backend for e-cat |
+| 2026-09-24 17:50:35 | [tk-pg-canonical-form](https://crates.io/crates/tk-pg-canonical-form) | 0.1.0 | 10 | Canonical form transformations for Pauli graphs |
+| 2026-09-24 17:50:36 | [varyk-syntax](https://crates.io/crates/varyk-syntax) | 0.0.1 | 10 | Lexer, parser, and AST for the Varyk programming language |
+| 2026-09-24 17:50:43 | [tk-pg-optimize](https://crates.io/crates/tk-pg-optimize) | 0.1.0 | 12 | Optimization passes for Pauli graphs |
+| 2026-09-24 17:50:49 | [varyk](https://crates.io/crates/varyk) | 0.0.1 | 7 | Varyk: an experimental language with Rust-like safety and Go-like simplicity th… |
+| 2026-09-24 17:50:53 | [tk-pg-greedy-synth](https://crates.io/crates/tk-pg-greedy-synth) | 0.1.0 | 10 | Greedy synthesis passes for Pauli graphs |
+| 2026-09-24 17:51:03 | [tk-pg-rebase](https://crates.io/crates/tk-pg-rebase) | 0.1.0 | 10 | Rebasing passes for Pauli graphs |
+| 2026-09-24 17:52:31 | [tk-pg-libs](https://crates.io/crates/tk-pg-libs) | 0.1.0 | 8 | A toolkit for constructing, transforming, and synthesizing Pauli graphs |
+| 2026-09-24 17:53:04 | [thinkthen](https://crates.io/crates/thinkthen) | 0.0.1 | 7 | ThinkThen. This release reserves the name while the first version is finished.… |
+| 2026-09-24 17:54:23 | [tauri-plugin-direct-touch](https://crates.io/crates/tauri-plugin-direct-touch) | 0.1.0 | 7 | Enable the iOS direct touch accessibility trait in Tauri apps |
+| 2026-09-24 17:56:40 | [ecat-transport-http](https://crates.io/crates/ecat-transport-http) | 3.0.3 | 1 | HTTP/Axum transport implementation for e-cat |
+| 2026-09-24 18:06:33 | [ecat-data](https://crates.io/crates/ecat-data) | 3.0.3 | 0 | Unified data access traits (RDBMS, Cache, Graph, Search, TSDB) |
+| 2026-09-24 18:11:49 | [xoxno-contract-sdk](https://crates.io/crates/xoxno-contract-sdk) | 0.1.0 | 0 | Clients, types, WASM and a test fixture for calling XOXNO Lending from Soroban… |
+| 2026-09-24 18:13:52 | [utf_types](https://crates.io/crates/utf_types) | 0.0.0-reserved | 0 | Placeholder for: Types for UTF-8 and UTF-16 code units and code unit sequences |
+| 2026-09-24 18:16:33 | [ecat-data-influxdb](https://crates.io/crates/ecat-data-influxdb) | 3.0.3 | 0 | InfluxDB time-series database client for e-cat |
 
 ## Data source
 

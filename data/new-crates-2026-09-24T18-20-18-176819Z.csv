@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-24T17:19:25.546733Z,metrale-recipes-data,0.1.0,14,14,https://github.com/Metrale/metrale-recipes,"Vendored Metrale Engine recipe corpus, embedded at compile time."
+2026-09-24T17:19:43.683052Z,assess,0.0.1,8,8,,Agentic evaluation library.
+2026-09-24T17:20:14.632791Z,flirc-rs,0.1.0,9,9,https://github.com/EriksRemess/flirc-rs,Native Rust tooling for Flirc USB devices
+2026-09-24T17:23:49.589535Z,zonemail,0.1.0,8,8,https://github.com/afmkt/zonemail,"Lightweight self-contained email + DNS service: REST API, authoritative DNS, inbound SMTP, and outbound delivery in one Rust binary/lib"
+2026-09-24T17:24:35.921548Z,metralectl-protocol,0.1.0,14,14,https://github.com/Metrale/metrale-recipes,"Wire types shared by the metralectl agent, the CLI, and the browser client."
+2026-09-24T17:26:32.14276Z,ecat-transport,3.0.3,11,11,https://github.com/erikwang2013/e-cat,Transport layer abstraction for e-cat
+2026-09-24T17:26:51.459694Z,concerto-terminal-renderer,0.1.0,8,8,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T17:29:44.772568Z,metralectl-core,0.1.0,13,13,https://github.com/Metrale/metrale-recipes,Recipe model and deterministic recipe-to-docker translation for metralectl.
+2026-09-24T17:35:01.264659Z,metralectl-agent,0.1.0,11,11,https://github.com/Metrale/metrale-recipes,Local agent that lets the Metrale Engine website launch recipes on this machine.
+2026-09-24T17:35:07.183661Z,zarpyon-support-transport-reqwest,0.0.1,9,9,,Constrained reqwest client builder for authorized Zarpyon integrations
+2026-09-24T17:35:32.1322Z,risaml,0.6.0,11,11,https://github.com/Rhein-Industries/risaml,"Maintained fork of saml-rs: pure-Rust SAML 2.0 Service Provider and Identity Provider support, with XML security from ribergshamra."
+2026-09-24T17:36:30.58541Z,ecat-middleware,3.0.3,8,8,https://github.com/erikwang2013/e-cat,"Tower middleware (rate limiting, timeout) for e-cat"
+2026-09-24T17:36:33.935705Z,popgen,0.10.0-alpha.0,8,8,https://github.com/ThorntonLab/popgen-oxide,Efficient types for population genetic analysis.
+2026-09-24T17:36:53.840886Z,concerto-ui-egui,0.1.0,8,8,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T17:38:24.162436Z,openehr-sdt,0.0.69,8,8,https://github.com/rubentalstra/FerroEHR,"openEHR Simplified Data Template formats (FLAT / STRUCTURED / Web Template / TDD), template-independent RM-instance validation, and the SMART on openEHR scope grammar, hand-written over the openehr-i…"
+2026-09-24T17:38:32.831083Z,zarpyon-support-webhook,0.0.1,9,9,,HMAC-SHA256 webhook signature verification for Zarpyon integrations
+2026-09-24T17:39:01.983491Z,khoj,0.1.0,8,8,https://github.com/sprajosh/khoj,A Rust-native search and indexing engine inspired by Lucene
+2026-09-24T17:40:16.708741Z,metralectl,0.1.0,9,9,https://github.com/Metrale/metrale-recipes,Launch Metrale Engine inference recipes on NVIDIA DGX Spark and other local accelerators.
+2026-09-24T17:40:54.812762Z,anva,0.1.0,8,8,https://github.com/sprajosh/anva,A Rust-native search server built around the Khoj search engine
+2026-09-24T17:41:28.124519Z,distributed-typestate-macro,0.1.0,11,11,,Procedural macros for the dist-typestate crate. Generates type-safe distributed state machines.
+2026-09-24T17:41:42.860629Z,dist-typestate,0.1.0,8,8,,Type-safe distributed state machines using versioned capabilities and CAS. Bring Rust's typestate pattern to distributed systems.
+2026-09-24T17:46:30.420213Z,ecat-mq-nats,3.0.3,8,8,https://github.com/erikwang2013/e-cat,NATS message queue backend for e-cat
+2026-09-24T17:50:35.078132Z,tk-pg-canonical-form,0.1.0,10,10,https://github.com/quantinuum/tket2,Canonical form transformations for Pauli graphs
+2026-09-24T17:50:36.914602Z,varyk-syntax,0.0.1,10,10,https://github.com/Varyk-Lang/varyk,"Lexer, parser, and AST for the Varyk programming language"
+2026-09-24T17:50:43.04586Z,tk-pg-optimize,0.1.0,12,12,https://github.com/quantinuum/tket2,Optimization passes for Pauli graphs
+2026-09-24T17:50:49.300154Z,varyk,0.0.1,7,7,https://github.com/Varyk-Lang/varyk,Varyk: an experimental language with Rust-like safety and Go-like simplicity that compiles to Rust
+2026-09-24T17:50:53.517027Z,tk-pg-greedy-synth,0.1.0,10,10,https://github.com/quantinuum/tket2,Greedy synthesis passes for Pauli graphs
+2026-09-24T17:51:03.193718Z,tk-pg-rebase,0.1.0,10,10,https://github.com/quantinuum/tket2,Rebasing passes for Pauli graphs
+2026-09-24T17:52:31.541561Z,tk-pg-libs,0.1.0,8,8,https://github.com/quantinuum/tket2,"A toolkit for constructing, transforming, and synthesizing Pauli graphs"
+2026-09-24T17:53:04.242368Z,thinkthen,0.0.1,7,7,,ThinkThen. This release reserves the name while the first version is finished. See https://thinkthen.dev
+2026-09-24T17:54:23.480351Z,tauri-plugin-direct-touch,0.1.0,7,7,https://github.com/cartertemm/tauri-plugin-direct_touch,Enable the iOS direct touch accessibility trait in Tauri apps
+2026-09-24T17:56:40.679009Z,ecat-transport-http,3.0.3,1,1,https://github.com/erikwang2013/e-cat,HTTP/Axum transport implementation for e-cat
+2026-09-24T18:06:33.292989Z,ecat-data,3.0.3,0,0,https://github.com/erikwang2013/e-cat,"Unified data access traits (RDBMS, Cache, Graph, Search, TSDB)"
+2026-09-24T18:11:49.224294Z,xoxno-contract-sdk,0.1.0,0,0,https://github.com/XOXNO/xoxno-contract-sdk,"Clients, types, WASM and a test fixture for calling XOXNO Lending from Soroban contracts."
+2026-09-24T18:13:52.458732Z,utf_types,0.0.0-reserved,0,0,https://github.com/hsivonen/utf_types,Placeholder for: Types for UTF-8 and UTF-16 code units and code unit sequences
+2026-09-24T18:16:33.683337Z,ecat-data-influxdb,3.0.3,0,0,https://github.com/erikwang2013/e-cat,InfluxDB time-series database client for e-cat
