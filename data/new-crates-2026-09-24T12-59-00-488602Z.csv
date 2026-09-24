@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-24T11:54:16.158345Z,reglyco-cli,0.2.1,8,8,https://github.com/Ojas-Singh/ReGlyco,Command-line interface implementation for ReGlyco
+2026-09-24T11:56:33.20338Z,bee_tsdb,1.1.1,1,1,https://github.com/erikwang2013/bee-rust,"A production-grade web framework for Rust, inspired by Go's Beego"
+2026-09-24T12:04:18.5784Z,reglyco,0.2.2,0,0,https://github.com/Ojas-Singh/ReGlyco,Native Rust construction of glycoprotein molecular systems
+2026-09-24T12:06:35.299735Z,bee_session,1.1.1,0,0,,"A production-grade web framework for Rust, inspired by Go's Beego"
+2026-09-24T12:12:38.028209Z,parachuter,0.1.0,0,0,https://github.com/emaadparacha/parachuter,"Reliable, rate-limited file downlink over lossy unidirectional UDP links."
+2026-09-24T12:13:15.668632Z,vecdb-core,0.1.0,0,0,https://github.com/zaydmulani09/vecdb,"Core storage, indexing, and search engine for vecdb — a hybrid vector database"
+2026-09-24T12:14:19.295633Z,which_dylib,0.1.0,0,0,https://github.com/HFunction2013/which_dylib,Find which dynamic library a process/runtime is using
+2026-09-24T12:16:30.998072Z,bee_search,1.1.1,0,0,https://github.com/erikwang2013/bee-rust,"A production-grade web framework for Rust, inspired by Go's Beego"
+2026-09-24T12:19:21.348136Z,qtx_float,0.1.1,0,0,https://github.com,"A zero-allocation, high-performance fixed-point decimal library optimized for financial and high-frequency trading data."
+2026-09-24T12:20:07.256243Z,reglyco-pdf-wasm,0.1.0,0,0,https://github.com/Ojas-Singh/ReGlyco,Separately loaded browser PDF renderer for ReGlyco reports
+2026-09-24T12:27:17.418828Z,sluggrs_skylines,0.3.1,0,0,https://github.com/maxwag9/sluggrs_skylines,"A Fork of sluggrs, ported to the newest wgpu version"
+2026-09-24T12:27:39.743145Z,bee_logs,1.1.1,0,0,https://github.com/erikwang2013/bee-rust,"A production-grade web framework for Rust, inspired by Go's Beego"
+2026-09-24T12:30:40.568085Z,string-analyze,0.1.0,0,0,,Find key strings from cluttered text
+2026-09-24T12:31:33.327286Z,hk32-metapac,0.1.0,0,0,https://github.com/arvenora/hk32-metapac,Peripheral access crate for HK32 microcontrollers
+2026-09-24T12:36:18.47632Z,tree-sitter-bash-dcg,0.25.1,0,0,https://github.com/Dicklesworthstone/destructive_command_guard,"tree-sitter-bash 0.25.1 with the scanner and redirection fixes destructive_command_guard depends on (dcg #442, #461)"
+2026-09-24T12:36:34.142515Z,bee_router,1.1.1,0,0,,"A production-grade web framework for Rust, inspired by Go's Beego"
+2026-09-24T12:37:08.70774Z,quvyta-explorer,0.1.0,0,0,https://github.com/quvyta/explorer,"A file explorer for the terminal: icons for every kind of file, opening with the right program, archives extracted with a right click"
+2026-09-24T12:38:18.533486Z,pq-map,0.2.0,0,0,https://github.com/post-q/pq-map,Domain service and cryptography discovery from Certificate Transparency and DNS
+2026-09-24T12:40:35.65051Z,crp_impl,0.3.17,0,0,https://github.com/folo-rs/folo,Implementation crate for cargo-release-plan - do not reference directly
+2026-09-24T12:41:20.63569Z,ast-grep-language-dcg,0.45.3,0,0,https://github.com/Dicklesworthstone/destructive_command_guard,ast-grep-language 0.45.3 built against tree-sitter-bash-dcg (the patched Bash grammar destructive_command_guard needs); otherwise unchanged
+2026-09-24T12:43:07.624595Z,essenty-lifecycle,0.1.0,0,0,https://github.com/yet300/Essenty,"Pure Rust lifecycle abstraction: states, validated transitions, and RAII subscriptions."
+2026-09-24T12:43:21.548263Z,essenty-state-keeper,0.1.0,0,0,https://github.com/yet300/Essenty,Pure Rust state preservation: byte-oriented providers with pluggable serde codecs.
+2026-09-24T12:43:43.682088Z,essenty-instance-keeper,0.1.0,0,0,https://github.com/yet300/Essenty,Pure Rust retained-object keeper: ViewModel-like retention with deterministic Drop cleanup.
+2026-09-24T12:44:04.070207Z,essenty-back-handler,0.1.0,0,0,https://github.com/yet300/Essenty,Pure Rust back-event dispatcher with predictive gesture support.
+2026-09-24T12:44:23.757782Z,essenty-lifecycle-tokio,0.1.0,0,0,https://github.com/yet300/Essenty,Tokio integration for essenty-lifecycle: lifecycle-bound task scope and repeat-on-lifecycle.
+2026-09-24T12:46:23.469767Z,axiolid-exact,0.1.0,0,0,https://github.com/axiolid/kernel,"Filtered exact arithmetic: interval filter, dyadic big integers, a + b*sqrt(c)"
+2026-09-24T12:47:18.698369Z,kcode-k1-daemon-lib-testkit,0.1.0,0,0,,Concrete manifest verifier for kcode-k1-daemon-lib
+2026-09-24T12:47:24.539223Z,udg,0.1.0,0,0,https://github.com/randombit/udg,Documentation generator and linter for C++/C/Python libraries
+2026-09-24T12:47:52.722923Z,bee_orm_macro,1.1.1,0,0,,"A production-grade web framework for Rust, inspired by Go's Beego"
+2026-09-24T12:50:52.400391Z,kcode-k1-daemon-startup-error,0.1.0,0,0,,Secret-safe startup error rendering for the K1 daemon
+2026-09-24T12:51:13.405309Z,bonsai-rs,0.1.0,0,0,https://github.com/GregorLueg/bonsai-rs,Tree representations of high-dimensional data under Brownian motion. A clean-room Rust implementation of the Bonsai algorithm for single cell and computational biology applications.
+2026-09-24T12:54:29.454387Z,essenty-android,0.1.0,0,0,https://github.com/yet300/Essenty,"Android adapter for the Essenty Rust runtime (Activity lifecycle, saved state, back dispatch)."
+2026-09-24T12:55:29.69471Z,rs-bag,0.1.0,0,0,https://codeberg.org/jonas-sdt/rs-bag,"Read, write and modify ROS 2 rosbag2 sqlite3 (.db3) storage files"
+2026-09-24T12:55:44.704649Z,rip_templating_macro,0.1.0,0,0,,"proc_macro for rendering html, templating inside rust code use with axum and htmx support"
+2026-09-24T12:56:36.128293Z,concerto-asset-format,0.1.0,0,0,https://github.com/GuilhermeGSousa/game-engine,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T12:56:36.524284Z,concerto-color,0.1.0,0,0,https://github.com/GuilhermeGSousa/game-engine,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T12:56:36.762711Z,concerto-ecs-macros,0.1.0,0,0,https://github.com/GuilhermeGSousa/game-engine,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T12:56:36.9999Z,concerto-editable-macros,0.1.0,0,0,https://github.com/GuilhermeGSousa/game-engine,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T12:56:37.723074Z,concerto-jolt-ffi,0.1.0,0,0,https://github.com/GuilhermeGSousa/game-engine,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T12:56:50.957285Z,dirlisting,0.1.0,0,0,https://github.com/rrepo-org/dirlisting,"Passive, runtime-independent parsing of HTTP directory listings"
+2026-09-24T12:57:37.521581Z,ritsp-ltv,0.5.0,0,0,https://github.com/Rhein-Industries/ritsp-ltv,"Maintained fork of tsp-ltv: shared timestamping (RFC 3161) and long-term validation (OCSP, CRL, trust stores) infrastructure for AdES signatures, on riptering"
+2026-09-24T12:57:47.846015Z,bee_orm,1.1.1,0,0,,"A production-grade web framework for Rust, inspired by Go's Beego"
+2026-09-24T12:58:37.654973Z,rip_templating,0.1.0,0,0,,"Library for rendering html, templating inside rust code use with axum and htmx support"
