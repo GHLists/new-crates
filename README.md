@@ -8,43 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-24 16:20 UTC
+## Latest list — 2026-09-24 17:18 UTC
 
-New crates published between 2026-09-24 15:19 UTC and 2026-09-24 16:20 UTC.
+New crates published between 2026-09-24 16:20 UTC and 2026-09-24 17:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-24T16-20-35-751634Z.csv)
+[Full CSV](data/new-crates-2026-09-24T17-18-57-936656Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-24 15:20:06 | [sylphx-mcp](https://crates.io/crates/sylphx-mcp) | 0.24.1 | 0 | The Sylphx MCP server: every Sylphx API method as MCP tools, generated from the… |
-| 2026-09-24 15:22:26 | [bite-gp-gpui-util](https://crates.io/crates/bite-gp-gpui-util) | 1.20.203 | 0 | gpui_util — part of the bite-gpui rearchitecture of zed's gpui |
-| 2026-09-24 15:22:31 | [bite-gp-collections](https://crates.io/crates/bite-gp-collections) | 1.20.203 | 0 | Standard collection types used by Zed and GPUI |
-| 2026-09-24 15:22:38 | [bite-gp-derive-refineable](https://crates.io/crates/bite-gp-derive-refineable) | 1.20.203 | 0 | A derive macro for creating refinement types in Rust |
-| 2026-09-24 15:22:46 | [bite-gp-shared-string](https://crates.io/crates/bite-gp-shared-string) | 1.20.203 | 0 | gpui_shared_string — part of the bite-gpui rearchitecture of zed's gpui |
-| 2026-09-24 15:22:51 | [bite-gp-refineable](https://crates.io/crates/bite-gp-refineable) | 1.20.203 | 0 | A macro for creating 'refinement' types that can be used to partially initializ… |
-| 2026-09-24 15:25:08 | [dendroverse](https://crates.io/crates/dendroverse) | 0.1.0 | 0 | Solve computational problems on graphs using dynamic programming over tree deco… |
-| 2026-09-24 15:26:29 | [ecat-versioning](https://crates.io/crates/ecat-versioning) | 3.0.3 | 0 | API versioning (path prefix and header-based) for e-cat |
-| 2026-09-24 15:26:49 | [concerto-physics](https://crates.io/crates/concerto-physics) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
-| 2026-09-24 15:35:19 | [cargo-unique-target-names](https://crates.io/crates/cargo-unique-target-names) | 0.1.0 | 0 | A cargo subcommand that detects workspace targets which uplift to the same buil… |
-| 2026-09-24 15:35:27 | [ai-profile](https://crates.io/crates/ai-profile) | 0.1.1 | 0 | AI 模型服务配置层：provider 预置、ai.profile 互通协议、端点拼接与连通性验证 |
-| 2026-09-24 15:36:30 | [ecat-metadata](https://crates.io/crates/ecat-metadata) | 3.0.3 | 0 | Request/response metadata propagation for e-cat |
-| 2026-09-24 15:36:50 | [concerto-scene](https://crates.io/crates/concerto-scene) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
-| 2026-09-24 15:46:30 | [ecat-encoding](https://crates.io/crates/ecat-encoding) | 3.0.3 | 0 | Content encoding/decoding (JSON, Protobuf) for e-cat |
-| 2026-09-24 15:46:53 | [concerto-skybox](https://crates.io/crates/concerto-skybox) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
-| 2026-09-24 15:53:12 | [fleets](https://crates.io/crates/fleets) | 0.1.0 | 0 | A fast, mostly Ansible-compatible inventory CLI |
-| 2026-09-24 15:53:50 | [atria-render](https://crates.io/crates/atria-render) | 0.1.0 | 0 | Atria Render |
-| 2026-09-24 15:56:14 | [omp-deck](https://crates.io/crates/omp-deck) | 0.2.0 | 0 | Web dashboard listing the live omp collab sessions on this machine |
-| 2026-09-24 15:56:29 | [ecat-metrics](https://crates.io/crates/ecat-metrics) | 3.0.3 | 0 | Prometheus metrics integration for e-cat |
-| 2026-09-24 15:56:53 | [concerto-ui](https://crates.io/crates/concerto-ui) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
-| 2026-09-24 15:58:18 | [orbitflare-apex](https://crates.io/crates/orbitflare-apex) | 0.1.0 | 0 | Submit Solana transactions to OrbitFlare apex-sender over QUIC |
-| 2026-09-24 16:00:50 | [sqlcipher-amalgamation](https://crates.io/crates/sqlcipher-amalgamation) | 419.0.2+sqlcipher-4… | 0 | The SQLCipher amalgamation for native and wasm32 builds, with a libtomcrypt pro… |
-| 2026-09-24 16:03:03 | [golden-bls-jubjub](https://crates.io/crates/golden-bls-jubjub) | 0.0.0 | 0 | Placeholder crate for a Golden DKG project |
-| 2026-09-24 16:05:15 | [cpu-cli](https://crates.io/crates/cpu-cli) | 0.1.0 | 0 | A modern, pretty CPU viewer: see what silicon you are actually running |
-| 2026-09-24 16:06:30 | [ecat-client](https://crates.io/crates/ecat-client) | 3.0.3 | 0 | HTTP and gRPC service client with load balancing and service discovery |
-| 2026-09-24 16:06:51 | [concerto-world-grid](https://crates.io/crates/concerto-world-grid) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
-| 2026-09-24 16:07:25 | [agave-shred-wire-format](https://crates.io/crates/agave-shred-wire-format) | 0.0.1-reserved | 0 | reserved for future use |
-| 2026-09-24 16:16:29 | [ecat-cli](https://crates.io/crates/ecat-cli) | 3.0.3 | 0 | Command-line interface for e-cat |
-| 2026-09-24 16:16:52 | [concerto](https://crates.io/crates/concerto) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
+| 2026-09-24 16:24:23 | [bite-gp-types](https://crates.io/crates/bite-gp-types) | 1.20.203 | 0 | gpui_types — part of the bite-gpui rearchitecture of zed's gpui |
+| 2026-09-24 16:25:25 | [qir-formatter](https://crates.io/crates/qir-formatter) | 0.3.0 | 0 | Rust implementation of the QIR labeled results formatter |
+| 2026-09-24 16:26:31 | [ecat-registry](https://crates.io/crates/ecat-registry) | 3.0.3 | 0 | Service registry abstraction for e-cat |
+| 2026-09-24 16:26:46 | [concerto-asset-build](https://crates.io/crates/concerto-asset-build) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
+| 2026-09-24 16:29:55 | [oidc-client](https://crates.io/crates/oidc-client) | 4.1.0 | 0 | OpenID Connect relying-party library — maintained continuation of openidconnect |
+| 2026-09-24 16:30:03 | [cranpose-coroflow](https://crates.io/crates/cranpose-coroflow) | 0.1.163 | 0 | Runs coroflow coroutines, flows and view models inside Cranpose compositions |
+| 2026-09-24 16:31:39 | [cranpose-navigation](https://crates.io/crates/cranpose-navigation) | 0.1.163 | 0 | NavHost, a typed back stack and per-screen view models for Cranpose |
+| 2026-09-24 16:34:43 | [bite-gp-engine](https://crates.io/crates/bite-gp-engine) | 1.20.203 | 0 | gpui_engine — part of the bite-gpui rearchitecture of zed's gpui |
+| 2026-09-24 16:36:31 | [ecat-auth](https://crates.io/crates/ecat-auth) | 3.0.3 | 0 | JWT, API key, and OAuth2 authentication layers for e-cat services |
+| 2026-09-24 16:36:53 | [concerto-debug-gizmos](https://crates.io/crates/concerto-debug-gizmos) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
+| 2026-09-24 16:44:59 | [bite-gp-engine-default](https://crates.io/crates/bite-gp-engine-default) | 1.20.203 | 0 | gpui_engine_default — part of the bite-gpui rearchitecture of zed's gpui |
+| 2026-09-24 16:45:25 | [projjson](https://crates.io/crates/projjson) | 0.1.0 | 0 | Typed, lossless read/write support for PROJJSON coordinate reference system def… |
+| 2026-09-24 16:46:31 | [ecat-scheduler](https://crates.io/crates/ecat-scheduler) | 3.0.3 | 0 | Periodic and one-shot task scheduler for e-cat |
+| 2026-09-24 16:47:58 | [concerto-editor](https://crates.io/crates/concerto-editor) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
+| 2026-09-24 16:50:38 | [starve-not](https://crates.io/crates/starve-not) | 0.1.0-alpha.1 | 0 | Adaptive admission control for multi-stage pipelines: keep the bottleneck fed w… |
+| 2026-09-24 16:51:33 | [libcodrop](https://crates.io/crates/libcodrop) | 1.0.0-rc1 | 0 | Universal Adaptive Compression System Core Engine |
+| 2026-09-24 16:51:59 | [spirv-std-nightly](https://crates.io/crates/spirv-std-nightly) | 0.0.1 | 0 | Placeholder crate to setup trusted publishing |
+| 2026-09-24 16:52:05 | [rust-deflate](https://crates.io/crates/rust-deflate) | 0.1.0 | 0 | A DEFLATE (RFC 1951) decompressor written from scratch in Rust. |
+| 2026-09-24 16:55:44 | [codrop-cli](https://crates.io/crates/codrop-cli) | 1.0.0-rc1 | 0 | Universal Adaptive Compression System CLI Tool |
+| 2026-09-24 16:56:30 | [ecat-mq](https://crates.io/crates/ecat-mq) | 3.0.3 | 0 | Message queue abstraction for e-cat |
+| 2026-09-24 16:56:53 | [tauri-updater-delta-core](https://crates.io/crates/tauri-updater-delta-core) | 0.1.0 | 0 | Platform-agnostic binary delta engine: diff, apply and verify update artifacts. |
+| 2026-09-24 16:56:53 | [concerto-gltf](https://crates.io/crates/concerto-gltf) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
+| 2026-09-24 16:56:56 | [tauri-updater-delta-release](https://crates.io/crates/tauri-updater-delta-release) | 0.1.0 | 0 | Release-time tooling: generate patches, sign installers and write the update ma… |
+| 2026-09-24 16:56:59 | [tauri-plugin-updater-delta](https://crates.io/crates/tauri-plugin-updater-delta) | 0.1.0 | 0 | Binary delta updates for Tauri v2 — wraps tauri-plugin-updater to shrink the do… |
+| 2026-09-24 16:57:36 | [atomic_parser](https://crates.io/crates/atomic_parser) | 0.1.1 | 0 | A rust crate to parse a file made up of atoms |
+| 2026-09-24 16:59:38 | [bartelang](https://crates.io/crates/bartelang) | 0.1.0 | 0 | Bartelang: a 1998 Visual Basic 6 dialect with a Unix stream-processing engine |
+| 2026-09-24 17:06:32 | [ecat-errors](https://crates.io/crates/ecat-errors) | 3.0.3 | 0 | Unified error types for e-cat services |
+| 2026-09-24 17:06:51 | [concerto-obj](https://crates.io/crates/concerto-obj) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
+| 2026-09-24 17:09:03 | [honeymaker](https://crates.io/crates/honeymaker) | 0.0.1 | 0 | Unified clients for cryptocurrency exchange APIs |
+| 2026-09-24 17:15:02 | [ribergshamra-dsig](https://crates.io/crates/ribergshamra-dsig) | 0.10.0 | 0 | XML Digital Signatures for ribergshamra, the maintained fork of the bergshamra… |
+| 2026-09-24 17:15:08 | [ribergshamra-enc](https://crates.io/crates/ribergshamra-enc) | 0.10.0 | 0 | XML Encryption for ribergshamra, the maintained fork of the bergshamra XML Secu… |
+| 2026-09-24 17:15:13 | [ribergshamra](https://crates.io/crates/ribergshamra) | 0.10.0 | 0 | Maintained fork of bergshamra: pure Rust XML Security (XML-DSig, XML-Enc, C14N)… |
+| 2026-09-24 17:15:47 | [niv](https://crates.io/crates/niv) | 0.0.1 | 0 | Placeholder for niv |
+| 2026-09-24 17:15:49 | [zev](https://crates.io/crates/zev) | 0.0.1 | 0 | Placeholder for zev |
+| 2026-09-24 17:16:33 | [ecat-tracing](https://crates.io/crates/ecat-tracing) | 3.0.3 | 0 | Distributed tracing (OpenTelemetry) for e-cat |
+| 2026-09-24 17:16:54 | [concerto-import](https://crates.io/crates/concerto-import) | 0.1.0 | 0 | A game engine for character-driven, high-fidelity cinematic games. |
 
 ## Data source
 

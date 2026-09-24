@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-24T16:24:23.393485Z,bite-gp-types,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,gpui_types — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-24T16:25:25.249778Z,qir-formatter,0.3.0,0,0,https://github.com/Quantinuum/qir-formatter,Rust implementation of the QIR labeled results formatter
+2026-09-24T16:26:31.409194Z,ecat-registry,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Service registry abstraction for e-cat
+2026-09-24T16:26:46.93099Z,concerto-asset-build,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T16:29:55.529386Z,oidc-client,4.1.0,0,0,https://github.com/cleverunicornz/oidc-client,OpenID Connect relying-party library — maintained continuation of openidconnect
+2026-09-24T16:30:03.383755Z,cranpose-coroflow,0.1.163,0,0,https://github.com/samoylenkodmitry/cranpose,"Runs coroflow coroutines, flows and view models inside Cranpose compositions"
+2026-09-24T16:31:39.682717Z,cranpose-navigation,0.1.163,0,0,https://github.com/samoylenkodmitry/cranpose,"NavHost, a typed back stack and per-screen view models for Cranpose"
+2026-09-24T16:34:43.210765Z,bite-gp-engine,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,gpui_engine — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-24T16:36:31.770354Z,ecat-auth,3.0.3,0,0,https://github.com/erikwang2013/e-cat,"JWT, API key, and OAuth2 authentication layers for e-cat services"
+2026-09-24T16:36:53.160995Z,concerto-debug-gizmos,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T16:44:59.368552Z,bite-gp-engine-default,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,gpui_engine_default — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-24T16:45:25.636217Z,projjson,0.1.0,0,0,https://github.com/JosiahParry/projjson-rs,"Typed, lossless read/write support for PROJJSON coordinate reference system definitions"
+2026-09-24T16:46:31.456309Z,ecat-scheduler,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Periodic and one-shot task scheduler for e-cat
+2026-09-24T16:47:58.87477Z,concerto-editor,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T16:50:38.245594Z,starve-not,0.1.0-alpha.1,0,0,https://github.com/kingwingfly/starve-not,Adaptive admission control for multi-stage pipelines: keep the bottleneck fed while bounding work in flight
+2026-09-24T16:51:33.584286Z,libcodrop,1.0.0-rc1,0,0,https://github.com/Front-Terrain/Codrop,Universal Adaptive Compression System Core Engine
+2026-09-24T16:51:59.079917Z,spirv-std-nightly,0.0.1,0,0,https://github.com/rust-gpu/rust-gpu,Placeholder crate to setup trusted publishing
+2026-09-24T16:52:05.713944Z,rust-deflate,0.1.0,0,0,https://github.com/YohanSandun/deflate,A DEFLATE (RFC 1951) decompressor written from scratch in Rust.
+2026-09-24T16:55:44.688131Z,codrop-cli,1.0.0-rc1,0,0,https://github.com/Front-Terrain/Codrop,Universal Adaptive Compression System CLI Tool
+2026-09-24T16:56:30.65881Z,ecat-mq,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Message queue abstraction for e-cat
+2026-09-24T16:56:53.496485Z,tauri-updater-delta-core,0.1.0,0,0,https://github.com/Chahdane/tauri-updater,"Platform-agnostic binary delta engine: diff, apply and verify update artifacts."
+2026-09-24T16:56:53.745624Z,concerto-gltf,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T16:56:56.580813Z,tauri-updater-delta-release,0.1.0,0,0,https://github.com/Chahdane/tauri-updater,"Release-time tooling: generate patches, sign installers and write the update manifest."
+2026-09-24T16:56:59.481721Z,tauri-plugin-updater-delta,0.1.0,0,0,https://github.com/Chahdane/tauri-updater,Binary delta updates for Tauri v2 — wraps tauri-plugin-updater to shrink the download.
+2026-09-24T16:57:36.940072Z,atomic_parser,0.1.1,0,0,https://github.com/ACatCoder-builds/atomic-parser,A rust crate to parse a file made up of atoms
+2026-09-24T16:59:38.39005Z,bartelang,0.1.0,0,0,,Bartelang: a 1998 Visual Basic 6 dialect with a Unix stream-processing engine
+2026-09-24T17:06:32.189031Z,ecat-errors,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Unified error types for e-cat services
+2026-09-24T17:06:51.888892Z,concerto-obj,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T17:09:03.75513Z,honeymaker,0.0.1,0,0,https://github.com/deltabadger/honeymaker-rs,Unified clients for cryptocurrency exchange APIs
+2026-09-24T17:15:02.991748Z,ribergshamra-dsig,0.10.0,0,0,https://github.com/Rhein-Industries/ribergshamra,"XML Digital Signatures for ribergshamra, the maintained fork of the bergshamra XML Security library"
+2026-09-24T17:15:08.172624Z,ribergshamra-enc,0.10.0,0,0,https://github.com/Rhein-Industries/ribergshamra,"XML Encryption for ribergshamra, the maintained fork of the bergshamra XML Security library"
+2026-09-24T17:15:13.025662Z,ribergshamra,0.10.0,0,0,https://github.com/Rhein-Industries/ribergshamra,"Maintained fork of bergshamra: pure Rust XML Security (XML-DSig, XML-Enc, C14N) with selectable cryptographic providers"
+2026-09-24T17:15:47.332082Z,niv,0.0.1,0,0,,Placeholder for niv
+2026-09-24T17:15:49.860682Z,zev,0.0.1,0,0,,Placeholder for zev
+2026-09-24T17:16:33.394384Z,ecat-tracing,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Distributed tracing (OpenTelemetry) for e-cat
+2026-09-24T17:16:54.647102Z,concerto-import,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
