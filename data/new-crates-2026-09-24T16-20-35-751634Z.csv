@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-24T15:20:06.712405Z,sylphx-mcp,0.24.1,0,0,https://github.com/SylphxAI/sylphx-clients,"The Sylphx MCP server: every Sylphx API method as MCP tools, generated from the Sylphx schema registry."
+2026-09-24T15:22:26.343442Z,bite-gp-gpui-util,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,gpui_util — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-24T15:22:31.368196Z,bite-gp-collections,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,Standard collection types used by Zed and GPUI
+2026-09-24T15:22:38.520084Z,bite-gp-derive-refineable,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,A derive macro for creating refinement types in Rust
+2026-09-24T15:22:46.739258Z,bite-gp-shared-string,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,gpui_shared_string — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-24T15:22:51.183363Z,bite-gp-refineable,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,A macro for creating 'refinement' types that can be used to partially initialize or mutate a complex struct
+2026-09-24T15:25:08.634496Z,dendroverse,0.1.0,0,0,https://github.com/forallthereis/dendroverse,Solve computational problems on graphs using dynamic programming over tree decompositions.
+2026-09-24T15:26:29.804497Z,ecat-versioning,3.0.3,0,0,https://github.com/erikwang2013/e-cat,API versioning (path prefix and header-based) for e-cat
+2026-09-24T15:26:49.028511Z,concerto-physics,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T15:35:19.531907Z,cargo-unique-target-names,0.1.0,0,0,https://github.com/microsoft/ox-tools/tree/main/crates/cargo-unique-target-names,A cargo subcommand that detects workspace targets which uplift to the same build artifact
+2026-09-24T15:35:27.664377Z,ai-profile,0.1.1,0,0,https://github.com/bkywksj/ai-profile,AI 模型服务配置层：provider 预置、ai.profile 互通协议、端点拼接与连通性验证
+2026-09-24T15:36:30.713988Z,ecat-metadata,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Request/response metadata propagation for e-cat
+2026-09-24T15:36:50.144397Z,concerto-scene,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T15:46:30.246767Z,ecat-encoding,3.0.3,0,0,https://github.com/erikwang2013/e-cat,"Content encoding/decoding (JSON, Protobuf) for e-cat"
+2026-09-24T15:46:53.738457Z,concerto-skybox,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T15:53:12.186486Z,fleets,0.1.0,0,0,https://github.com/ecbaldwin/fleets,"A fast, mostly Ansible-compatible inventory CLI"
+2026-09-24T15:53:50.022611Z,atria-render,0.1.0,0,0,https://github.com/NoNameGMM/Atria,Atria Render
+2026-09-24T15:56:14.749178Z,omp-deck,0.2.0,0,0,https://github.com/yukimemi/omp-deck,Web dashboard listing the live omp collab sessions on this machine
+2026-09-24T15:56:29.965276Z,ecat-metrics,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Prometheus metrics integration for e-cat
+2026-09-24T15:56:53.3454Z,concerto-ui,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T15:58:18.545392Z,orbitflare-apex,0.1.0,0,0,https://github.com/orbitflare/orbitflare-apex-client,Submit Solana transactions to OrbitFlare apex-sender over QUIC
+2026-09-24T16:00:50.091144Z,sqlcipher-amalgamation,419.0.2+sqlcipher-4.19.0-sqlite-3.53.4-libtomcrypt-1.18.2,0,0,https://github.com/LucaCappelletti94/sqlcipher-amalgamation,"The SQLCipher amalgamation for native and wasm32 builds, with a libtomcrypt provider for targets without a system crypto library"
+2026-09-24T16:03:03.456815Z,golden-bls-jubjub,0.0.0,0,0,https://github.com/0xMiden/golden-dkg,Placeholder crate for a Golden DKG project
+2026-09-24T16:05:15.073397Z,cpu-cli,0.1.0,0,0,https://github.com/priyansh-anand/cpu-cli,"A modern, pretty CPU viewer: see what silicon you are actually running"
+2026-09-24T16:06:30.805572Z,ecat-client,3.0.3,0,0,https://github.com/erikwang2013/e-cat,HTTP and gRPC service client with load balancing and service discovery
+2026-09-24T16:06:51.287527Z,concerto-world-grid,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T16:07:25.892697Z,agave-shred-wire-format,0.0.1-reserved,0,0,https://github.com/anza-xyz/agave,reserved for future use
+2026-09-24T16:16:29.637729Z,ecat-cli,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Command-line interface for e-cat
+2026-09-24T16:16:52.903697Z,concerto,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
