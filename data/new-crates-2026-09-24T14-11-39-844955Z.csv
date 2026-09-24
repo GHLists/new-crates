@@ -1,0 +1,51 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-24T13:04:19.048085Z,essenty-apple,0.1.0,0,0,https://github.com/yet300/Essenty,"Apple-family adapter for the Essenty Rust runtime (iOS, macOS, watchOS, tvOS, visionOS, Mac Catalyst)."
+2026-09-24T13:06:45.711187Z,concerto-tasks,0.1.0,0,0,https://github.com/GuilhermeGSousa/game-engine,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T13:07:54.881758Z,bee_rust,1.1.1,0,0,https://github.com/erikwang2013/bee-rust,"A production-grade web framework for Rust, inspired by Go's Beego"
+2026-09-24T13:14:28.45822Z,essenty-web,0.1.0,0,0,https://github.com/yet300/Essenty,"Web/WASM adapter for the Essenty Rust runtime (visibility, history, storage)."
+2026-09-24T13:14:51.798044Z,atomic-integration-proxy,0.2.0,0,0,https://github.com/ontola/atomic-plugins,"OAuth/catalog integration proxy (pinned OpenAPI catalog, connections owned by Atomic agents, Atomic v2 request signatures, delegations and frame capabilities) used by Atomic Server and LocalThought"
+2026-09-24T13:16:48.640411Z,concerto-ecs,0.1.0,0,0,https://github.com/GuilhermeGSousa/game-engine,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T13:20:37.202714Z,playback-player,0.1.1,0,0,https://github.com/useless-rs/PlayBack,"A friendly, configurable media player powered by mpv."
+2026-09-24T13:21:39.981899Z,embedded-cal-testvectors,0.2.0,0,0,https://github.com/lake-rs/embedded-cal.git,Test vectors and functions for various aspects of embedded-cal
+2026-09-24T13:24:39.658205Z,essenty,0.1.0,0,0,https://github.com/yet300/Essenty,"Cross-platform application lifecycle/state runtime (Essenty-inspired, Rust-native)."
+2026-09-24T13:26:46.357439Z,concerto-editable,0.1.0,0,0,https://github.com/GuilhermeGSousa/game-engine,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T13:29:36.094215Z,strop-worker-protocol,0.35.0,0,0,,"strop worker protocol (0058 WK02): one bounded versioned wire for local/SSH/container native workers — handshake, typed families, streaming payloads, typed refusals"
+2026-09-24T13:30:23.456215Z,strop-worker,0.35.0,0,0,https://github.com/stropdev/strop,Worker-side native kernel consumers: owned execution supervision over the shared strop-fs kernel
+2026-09-24T13:30:26.467476Z,strop-worker-client,0.35.0,0,0,https://github.com/stropdev/strop,"Editor-side client of the 0058 unified worker: leased spawn of the matching executable, handshake readiness, typed failures, retirement — never a silent fallback"
+2026-09-24T13:35:42.58377Z,tfrs,0.1.0,0,0,,A thin Rust wrapper around the terraform CLI
+2026-09-24T13:36:42.46077Z,ecat-circuit-breaker,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Circuit breaker middleware for e-cat services
+2026-09-24T13:39:00.604502Z,inillucent-pool,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,"Buffer pool: frames, version latches, pointer swizzling, cooling FIFO, writeback, free map, blob extents"
+2026-09-24T13:39:01.090486Z,inillucent-sql,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,"First-party lexer, parser, AST, binder, semantic rewrites, and logical and physical plans."
+2026-09-24T13:39:01.584931Z,inillucent-storage,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,"SQLite file codec, pager, page cache, B-trees, overflow chains, freelist, and vacuum."
+2026-09-24T13:39:02.021526Z,inillucent-wal,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,"The write-ahead log: segments, the record codec, group commit, and recovery"
+2026-09-24T13:39:02.886224Z,inillucent-scalar,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,"The dialect's scalar functions, three-valued logic and value coercions, shared by both executors"
+2026-09-24T13:39:31.438625Z,chx-core,0.1.0,0,0,https://github.com/anthid-labs/chx,"ClickHouse schema migrations: ordered SQL files, checksummed history, and resumable partial runs."
+2026-09-24T13:39:33.032691Z,chx-cli,0.1.0,0,0,https://github.com/anthid-labs/chx,"Command line interface for chx: run ClickHouse schema migrations in order, with checksummed history."
+2026-09-24T13:42:52.394209Z,tapirus,1.0.0,0,0,https://github.com/tapiruslab/TapirusDB,The Safe-Rust Embedded Multi-Model Database & AI Agent Memory Engine
+2026-09-24T13:42:53.369634Z,noble,1.0.0,0,0,https://github.com/MertSoylu/noble,"NOBLE — retro-futurist HUD terminal workspace: real shells, projects, system sensors and AI quota in one cockpit"
+2026-09-24T13:44:53.095407Z,concerto-foundation-macros,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T13:46:32.549826Z,ecat-protos,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Protobuf definitions for e-cat gRPC services
+2026-09-24T13:46:49.684407Z,concerto-foundation,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T13:48:04.092659Z,inillucent-transaction,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,"Locks, autocommit, savepoints, rollback journal, WAL, checkpoints, and recovery."
+2026-09-24T13:53:23.245428Z,inillucent-tree,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,B+tree over PAX leaves: the storage layer of the rearchitected engine
+2026-09-24T13:55:05.083492Z,ribergshamra-core,0.10.0,0,0,https://github.com/Rhein-Industries/ribergshamra,"Core types and constants for ribergshamra, the maintained fork of the bergshamra XML Security library"
+2026-09-24T13:55:07.58177Z,ribergshamra-crypto,0.10.0,0,0,https://github.com/Rhein-Industries/ribergshamra,"Cryptographic algorithm implementations for ribergshamra, the maintained fork of the bergshamra XML Security library"
+2026-09-24T13:55:09.290988Z,ribergshamra-pkcs12,0.10.0,0,0,https://github.com/Rhein-Industries/ribergshamra,"PKCS#12 parser for ribergshamra, the maintained fork of the bergshamra XML Security library"
+2026-09-24T13:55:11.748026Z,ribergshamra-xml,0.10.0,0,0,https://github.com/Rhein-Industries/ribergshamra,"XML DOM abstraction for ribergshamra, the maintained fork of the bergshamra XML Security library"
+2026-09-24T13:55:16.516671Z,ribergshamra-c14n,0.10.0,0,0,https://github.com/Rhein-Industries/ribergshamra,"XML Canonicalization (C14N) for ribergshamra, the maintained fork of the bergshamra XML Security library"
+2026-09-24T13:56:48.649398Z,concerto-app,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T13:56:49.276057Z,oxilite-datalog,0.3.0,0,0,https://github.com/Volland/oxilite,"Datalog over oxilite: recursive rules with stratified negation, compiled to SQL (native and Cloudflare D1)"
+2026-09-24T13:58:44.786384Z,ecat-graphql,3.0.3,0,0,https://github.com/erikwang2013/e-cat,GraphQL integration for e-cat
+2026-09-24T13:59:44.304327Z,ribergshamra-keys,0.10.0,0,0,https://github.com/Rhein-Industries/ribergshamra,"Key management for ribergshamra, the maintained fork of the bergshamra XML Security library"
+2026-09-24T14:00:52.011108Z,rem_sv_utils,0.1.1,0,0,,utils for sending instructions to a server over ssh tunnel ws
+2026-09-24T14:01:35.515907Z,gh-wanted,0.1.1,0,0,https://github.com/cyprx/gh-wanted,A terminal watchlist for open-source contributors
+2026-09-24T14:03:23.983912Z,inillucent-catalog,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,"Schema objects, the schema loader, DDL catalog mutation, cookies, invalidation, and statistics."
+2026-09-24T14:03:58.672057Z,frus-core,0.2.1,0,0,https://github.com/KalybosPro/frus,"frus — shared foundation types (geometry, colour)"
+2026-09-24T14:03:59.573189Z,frus-l10n,0.2.1,0,0,https://github.com/KalybosPro/frus,frus — localisation (i18n/l10n): Fluent bundles + locale negotiation
+2026-09-24T14:04:01.870152Z,frus-image,0.2.1,0,0,https://github.com/KalybosPro/frus,frus — image decoding (PNG/JPEG) into ImageData
+2026-09-24T14:04:02.646078Z,frus-layout,0.2.1,0,0,https://github.com/KalybosPro/frus,frus — layout engine (flexbox) on top of taffy
+2026-09-24T14:04:05.615938Z,frus-text,0.2.1,0,0,https://github.com/KalybosPro/frus,frus — text shaping and measurement (cosmic-text)
+2026-09-24T14:06:07.792206Z,omnipaxos_runtime,0.1.0,0,0,https://github.com/haraldng/omnipaxos,Async runtime actor layer for OmniPaxos.
+2026-09-24T14:06:50.293225Z,concerto-mesh,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T14:06:53.696568Z,ecat-health,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Health check endpoint and registry for e-cat services
+2026-09-24T14:09:31.082132Z,ribergshamra-transforms,0.10.0,0,0,https://github.com/Rhein-Industries/ribergshamra,"Transform pipeline for ribergshamra, the maintained fork of the bergshamra XML Security library"
