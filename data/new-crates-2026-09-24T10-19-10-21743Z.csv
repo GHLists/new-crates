@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-24T09:20:20.451215Z,tc_stream_cipher,0.1.0,0,0,https://github.com/TomiCheng/tc_stream_cipher,"Shared initialization and keystream processing traits, errors and wiping key and IV containers for stream ciphers."
+2026-09-24T09:20:22.911292Z,tc_chacha,0.1.0,0,0,https://github.com/TomiCheng/tc_stream_cipher,"ChaCha, IETF ChaCha20 (RFC 8439) and XChaCha20 stream ciphers, with portable and RustCrypto engines."
+2026-09-24T09:22:12.371272Z,fastdb-sys,0.2.0,0,0,https://github.com/world-in-progress/fastdb,Raw Rust declarations for the FastDB portable-payload C ABI
+2026-09-24T09:22:13.303899Z,fastdb,0.2.0,0,0,https://github.com/world-in-progress/fastdb,Safe Rust projection of the FastDB portable-payload Core
+2026-09-24T09:26:30.486851Z,equs-credentials-sdk,1.0.0,0,0,https://github.com/equs-ai/equs-credentials-sdk,Rust SDK implementing multiple decentralized identity protocols
+2026-09-24T09:26:48.464762Z,no-claude-trailer,1.0.0,0,0,https://github.com/Andrew-McCall/no-claude-trailer,Strip AI attribution trailers from git commit messages. Dependency free.
+2026-09-24T09:27:41.923457Z,coldctl,0.1.0,0,0,https://github.com/coldctl/coldctl,"CLI for analyzing, archiving, and querying cold database data"
+2026-09-24T09:29:21.837112Z,ekos-sql-dialect-sdk,1.0.3,0,0,https://github.com/alexeyban/EKOS,SqlDialectParser trait — the contract a pluggable SQL dialect crate implements (RFC 0031)
+2026-09-24T09:29:26.405409Z,ekos-plugin-sql-dialect-clickhouse,1.0.3,0,0,https://github.com/alexeyban/EKOS,"ClickHouse SqlDialectParser plugin (RFC 0031 pattern, RFC 0056)"
+2026-09-24T09:29:32.105105Z,ekos-compiler-core,1.0.3,0,0,https://github.com/alexeyban/EKOS,"Compiler infrastructure: PassManager, Scheduler, Diagnostics, Config"
+2026-09-24T09:29:36.178203Z,ekos-plugin-sql-dialect-databricks,1.0.3,0,0,https://github.com/alexeyban/EKOS,Databricks (Spark SQL) SqlDialectParser plugin (RFC 0039)
+2026-09-24T09:29:39.855989Z,ekos-plugin-sql-dialect-mssql,1.0.3,0,0,https://github.com/alexeyban/EKOS,MSSQL (T-SQL) SqlDialectParser plugin (RFC 0039)
+2026-09-24T09:38:33.514943Z,ps2_bios_checksum,1.0.0,0,0,https://github.com/nbkdevs/ps2-bios-assistant,"Local PS2 BIOS checksum helpers: MD5, SHA-1, and basic dump-size checks."
+2026-09-24T09:40:25.465174Z,sanity-sc-rs,0.0.1,0,0,https://github.com/GregorLueg/sanity-sc-rs,"Bayesian inference of gene expression states from single cell UMI counts. A clean-room Rust implementation of the Sanity method, returning posterior log expression levels and their error bars."
+2026-09-24T09:49:45.862362Z,arna,0.1.0,0,0,,Collection of handmade libraries.
+2026-09-24T09:52:23.92425Z,codex-skin,0.1.0,0,0,https://github.com/xicv/codex-skin,Skin the Codex desktop app with a wallpaper and palette: generate one with Codex's image_gen or import a DreamSkin community theme.
+2026-09-24T10:04:57.469252Z,bush-maths,0.1.0,0,0,https://github.com/Bush-fi/bush-pool-factories,Exact fixed-point reference maths for Bush Protocol pools. Ported from balancer-maths (MIT).
+2026-09-24T10:07:57.4712Z,curve-abstract,0.1.0,0,0,https://github.com/taiyi-research-institute/svarog-algebra,"Common traits for elliptic curve points, scalars, and messaging."
+2026-09-24T10:07:59.235438Z,svarog-secp256k1-sys,0.1.0,0,0,https://github.com/taiyi-research-institute/svarog-algebra,"Svarog fork of secp256k1-sys with internal group, scalar, and field operations."
+2026-09-24T10:08:01.222153Z,svarog-curve25519,0.1.0,0,0,https://github.com/taiyi-research-institute/svarog-algebra,Curve25519 arithmetic implementing the curve-abstract traits.
+2026-09-24T10:08:02.063401Z,svarog-secp256k1,0.1.0,0,0,https://github.com/taiyi-research-institute/svarog-algebra,secp256k1 arithmetic with support for the identity point.
+2026-09-24T10:08:03.468765Z,svarog-lagrange,0.1.0,0,0,https://github.com/taiyi-research-institute/svarog-algebra,"Shamir secret sharing, verifiable shares, and Lagrange interpolation."
+2026-09-24T10:09:01.448142Z,mahojin,0.1.0,0,0,https://github.com/yukihirop/mahojin,Cast your everyday commands as spells: a magic circle unfolds in your terminal before each one runs
+2026-09-24T10:13:15.994557Z,pnsrouter,0.1.0,0,0,https://github.com/Tubbles/pnsrouter,"Interactive push and shove PCB router, inspired by KiCad's PNS router"
+2026-09-24T10:14:36.750044Z,tinosrse-tools,0.1.0,0,0,,TinosRSE tools is a CLI tool suite for compiling TinosRSE.
+2026-09-24T10:16:11.871217Z,apex-sender-client,0.1.0,0,0,https://github.com/orbitflare/apex-sender-client,Submit Solana transactions to OrbitFlare apex-sender over QUIC
+2026-09-24T10:16:55.078396Z,nobetci-eczane-api,1.0.0,0,0,https://github.com/mehmeterdogan/nobetci-eczane-api-rust,Official Rust SDK for Eczaneler.ORG v2 Duty Pharmacy REST API (Türkiye 81 İl ve KKTC Nöbetçi Eczaneleri)
+2026-09-24T10:18:18.603947Z,ownpg-core,0.1.0,0,0,https://github.com/devops-infinity/ownpg-releases,Core engine behind the OwnPG PostgreSQL server for AI clients
+2026-09-24T10:19:00.309383Z,ownpg,0.1.0,0,0,https://github.com/devops-infinity/ownpg-releases,"OwnPG serves PostgreSQL DBA tools to AI clients over the Model Context Protocol, one database and one schema per run"
