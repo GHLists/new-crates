@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-24T21:22:26.907527Z,kcode-k1-chat-boxes,0.1.0,0,0,,Canonical K1 chat box values and correlated tool metadata
+2026-09-24T21:22:40.686785Z,mediapulse-core,0.1.0,0,0,https://github.com/useless-rs/MediaPulse,"Shared mpv playback, command, and sidecar management for MediaPulse"
+2026-09-24T21:23:42.172875Z,mdrv-gpui-util,0.0.260925,0,0,https://github.com/gpui-ce/gpui-ce,Utility structs and functions used by gpui-ce (vendored from Zed's gpui_util).
+2026-09-24T21:24:25.628043Z,hotpath-drain-meta,0.0.2,0,0,https://github.com/pawurb/hotpath-rs,Hotpath drain meta - a version of hotpath-drain used to profile the profiler itself. Not intended for external use.
+2026-09-24T21:26:31.769692Z,ecat-transport-grpc,3.0.3,0,0,https://github.com/erikwang2013/e-cat,gRPC transport implementation for e-cat
+2026-09-24T21:26:55.963735Z,mdrv-gpui-sum-tree,0.0.260925,0,0,,Copy-on-write B+ tree with monoidal summaries for gpui-ce (vendored from Zed).
+2026-09-24T21:29:01.490099Z,bite-gp-authoring,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,Zed's declarative UI authoring layer
+2026-09-24T21:32:01.519523Z,hornguard,0.1.1,0,0,https://github.com/DataGrout/hornguard,A default-deny firewall for untrusted Prolog: judge goals and clauses before an engine runs them
+2026-09-24T21:34:58.597882Z,mediapulse,0.1.1,0,0,https://github.com/useless-rs/MediaPulse,A self-contained native media player built around mpv
+2026-09-24T21:36:33.229819Z,ecat-data-redis,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Redis cache client for e-cat
+2026-09-24T21:39:40.991457Z,bite-gp-runtime,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,Zed's process harness for starting and driving a GPUI application
+2026-09-24T21:46:32.925596Z,ecat-data-questdb,3.0.3,0,0,https://github.com/erikwang2013/e-cat,QuestDB time-series database client for e-cat
+2026-09-24T21:49:48.57348Z,bite-gp-wgpu,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,gpui_wgpu — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-24T21:49:56.910343Z,statewire,0.1.0,0,0,https://github.com/assistant-ui/statewire-rs,"Rust client for the Statewire protocol: replicated state from a host, typed commands back"
+2026-09-24T21:50:09.70525Z,harness-threads,0.1.0,0,0,https://github.com/assistant-ui/statewire-rs,Rust types for the harness-sdk thread and runs protocols over Statewire
+2026-09-24T21:51:09.317015Z,burnout-core,0.3.0,0,0,https://github.com/Stiven-Gjekaj/burnout,"The part of Burnout that no operating system changes. Burnout uses it, and its interface is not stable."
+2026-09-24T21:51:12.26616Z,burnout-iso,0.3.0,0,0,https://github.com/Stiven-Gjekaj/burnout,"Reads the image that a person gives: ISO 9660 with Joliet and Rock Ridge, and UDF. Burnout uses it, and its interface is not stable."
+2026-09-24T21:51:13.159144Z,burnout-layout,0.3.0,0,0,https://github.com/Stiven-Gjekaj/burnout,"The partition table and the file systems of a Windows installer drive. Burnout uses it, and its interface is not stable."
+2026-09-24T21:51:15.87833Z,burnout,0.3.0,0,0,https://github.com/Stiven-Gjekaj/burnout,Writes a bootable USB drive from the command line.
+2026-09-24T21:55:51.317453Z,mdrv-gpui-collections,0.0.260925,0,0,https://github.com/gpui-ce/gpui-ce,Blessed hash collections used by gpui-ce (vendored from Zed).
+2026-09-24T21:55:57.554661Z,mdrv-gpui-scheduler,0.0.260925,0,0,,Async task scheduler/executor for gpui-ce (vendored from Zed).
+2026-09-24T21:56:01.079541Z,mdrv-gpui-shared-string,0.0.260925,0,0,,Shared immutable string types for GPUI CE
+2026-09-24T21:56:34.563085Z,ecat-data-arangodb,3.0.3,0,0,https://github.com/erikwang2013/e-cat,ArangoDB graph database client for e-cat
+2026-09-24T21:57:02.076731Z,satex-analyzer,0.1.0,0,0,https://github.com/EagleoutIce/satex,"Static analyzer for TeX/LaTeX: lints, explains, slices and caches documents by interpreting the real kernel"
+2026-09-24T21:59:56.807378Z,bite-gp-web,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,gpui_web — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-24T22:01:44.833371Z,multiliquid-svm-sdk,0.1.0,0,0,https://github.com/uniformlabs/multiliquid-svm-sdk,"Unsigned transaction builders, account codecs, and quoting for Multiliquid on Solana"
+2026-09-24T22:02:07.215642Z,rs-rich-macros,0.0.1,0,0,https://github.com/buchochelliq-labs/rs-rich-cli,Compile-time checked markup and derive macros for the `rich` Rust port
+2026-09-24T22:07:15.524239Z,ecat-data-clickhouse,3.0.3,0,0,https://github.com/erikwang2013/e-cat,ClickHouse analytical database client for e-cat
+2026-09-24T22:10:05.840033Z,bite-gp-linux,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,gpui_linux — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-24T22:11:35.917594Z,google-cloud-apptopology-v1,1.0.0,0,0,https://github.com/googleapis/google-cloud-rust/tree/main,Google Cloud Client Libraries for Rust - App Topology API
+2026-09-24T22:13:39.787359Z,pg-trellis,0.1.0,0,0,https://github.com/starflower-sh/trellis,Tool to easily configure and run Postgres servers
+2026-09-24T22:16:37.853131Z,ecat,3.0.3,0,0,,Aggregate crate: batteries-included entry point for e-cat
+2026-09-24T22:17:35.527083Z,mdrv-gpui-zed-util,0.0.260925,0,0,https://github.com/gpui-ce/gpui-ce,OS/utility helpers used by gpui-ce platform backends (vendored from Zed's util).
