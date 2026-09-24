@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-24T19:20:41.633387Z,concinnity-derive,0.19.53,0,0,https://github.com/concinnitygg/concinnity,Derive macros for the Concinnity engine's authored asset schemas
+2026-09-24T19:26:23.704132Z,bite-gpui,0.0.0-reserved,0,0,https://github.com/bite-gpui/bite-gpui,Name reservation. The real bite-gpui is published at the end of the 1.20.203 release; do not depend on this version.
+2026-09-24T19:26:33.66657Z,ecat-data-iotdb,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Apache IoTDB time-series database client for e-cat
+2026-09-24T19:26:50.580691Z,bite-gp-macros,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,Macros used by gpui
+2026-09-24T19:28:30.91324Z,udpstp,0.0.0,0,0,https://github.com/pederbe/udpstp,UDP Speed Test Protocol (RFC 9946) Client and Server. Placeholder: the implementation is in development and will be published here.
+2026-09-24T19:30:29.837184Z,fastmash,0.0.0,0,0,,Placeholder: this crate name is reserved for an upcoming project.
+2026-09-24T19:30:32.4111Z,ripscope,0.0.0,0,0,,Placeholder: this crate name is reserved for an upcoming project.
+2026-09-24T19:33:19.313127Z,node-auth,0.1.0,0,0,,"Authenticate Node (npm, yarn, pnpm) to Google Artifact Registry using Google Cloud ADC"
+2026-09-24T19:33:46.368936Z,arkhe-shell,0.2.0,0,0,https://github.com/arkhe-os/arkhe-shell,"Unix-like shell with verifiable operations: fail-closed, BLAKE3 audit trail, native trash"
+2026-09-24T19:36:40.289377Z,ecat-registry-etcd,3.0.3,0,0,https://github.com/erikwang2013/e-cat,etcd service registry backend for e-cat
+2026-09-24T19:36:54.046572Z,kcode-k1-http-access-profile-presentation,0.1.0,0,0,,Authenticated HTTP orchestration for K1 access profile presentations
+2026-09-24T19:37:02.602473Z,bite-gp-scheduler,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,scheduler — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-24T19:42:30.310151Z,mq-bridge-connect,0.1.0,0,0,https://github.com/marcomq/mq-bridge-connect,Unofficial Redpanda Connect compatibility plugin for mq-bridge
+2026-09-24T19:46:31.661634Z,ecat-mq-kafka,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Kafka message queue backend for e-cat
+2026-09-24T19:47:26.567078Z,bite-gp-platform,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,gpui_platform — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-24T19:56:33.63211Z,ecat-data-tdengine,3.0.3,0,0,https://github.com/erikwang2013/e-cat,TDengine time-series database client for e-cat
+2026-09-24T19:57:02.846835Z,dustpan,0.1.0,0,0,https://github.com/cmlarsen/dustpan,"Find and clean the dev leftovers eating your Mac's disk and memory: stale worktrees, orphaned DerivedData, simulators, caches"
+2026-09-24T19:57:36.506373Z,bite-gp-perf,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,"A tool for measuring Zed test performance, with too many Clippy lints"
+2026-09-24T19:58:03.331945Z,ruff_command_line,0.0.0,0,0,https://github.com/astral-sh/ruff,Placeholder release for ruff_command_line
+2026-09-24T20:03:47.472491Z,byteslice,0.1.0,0,0,https://github.com/surrealdb/byteslice,"A thin, immutable, zero-copy 24-byte slice with Small String Optimization and prefix-accelerated comparisons"
+2026-09-24T20:06:29.642227Z,ecat-events,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Event bus abstraction for e-cat
+2026-09-24T20:06:30.889248Z,cacio-term,0.1.1,0,0,https://codeberg.org/mavu072/cacio-term.git,A TUI digital watch emulator
+2026-09-24T20:06:41.051239Z,ttdal,0.0.0,0,0,https://github.com/tenstorrent/tt-dal,Tenstorrent Device Access Library
+2026-09-24T20:07:47.209907Z,bite-gp-util-macros,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,Utility macros for Zed
+2026-09-24T20:07:50.376305Z,ttdal-sys,0.0.0,0,0,https://github.com/tenstorrent/tt-dal,FFI bindings to ttdal
+2026-09-24T20:12:39.394443Z,nibbles,0.1.0,0,0,https://github.com/arcriley/nibbles,Optimized math operations on arrays of 4-bit integers
+2026-09-24T20:12:40.394323Z,pkh,0.1.0,0,0,https://git.vhaudiquet.fr/vhaudiquet/pkh,pkh is a packaging helper for Debian/Ubuntu packages
+2026-09-24T20:15:52.5581Z,bucketlist,0.2.0,0,0,https://github.com/karchyland/bucketlist,A devastatingly simple bucket list CLI and .bucketlist file format.
+2026-09-24T20:16:30.518948Z,ecat-data-elasticsearch,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Elasticsearch search engine client for e-cat
+2026-09-24T20:16:47.743131Z,zwo-eaf-sys,0.1.0,0,0,https://github.com/ssmichael1/zwo-eaf,Raw FFI bindings to the ZWO EAF (Electronic Automatic Focuser) C SDK (v1.8.1)
+2026-09-24T20:16:50.715898Z,zwo-eaf,0.1.0,0,0,https://github.com/ssmichael1/zwo-eaf,Safe Rust wrapper for the ZWO EAF (Electronic Automatic Focuser) SDK
+2026-09-24T20:17:52.237465Z,bite-gp-path,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,path — part of the bite-gpui rearchitecture of zed's gpui

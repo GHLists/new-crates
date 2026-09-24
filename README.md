@@ -8,47 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-24 19:20 UTC
+## Latest list — 2026-09-24 20:18 UTC
 
-New crates published between 2026-09-24 18:20 UTC and 2026-09-24 19:20 UTC.
+New crates published between 2026-09-24 19:20 UTC and 2026-09-24 20:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-24T19-20-12-197446Z.csv)
+[Full CSV](data/new-crates-2026-09-24T20-18-57-723258Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-24 18:26:31 | [ecat-mq-mqtt](https://crates.io/crates/ecat-mq-mqtt) | 3.0.3 | 0 | MQTT message queue backend for e-cat |
-| 2026-09-24 18:26:43 | [vdm_fyi](https://crates.io/crates/vdm_fyi) | 0.5.0 | 0 | Vendored dependencies manager |
-| 2026-09-24 18:28:43 | [llama-harness-programmatic-sandbox](https://crates.io/crates/llama-harness-programmatic-sandbox) | 0.2.0 | 0 | Deterministic no-std program sandbox contracts for llama-harness |
-| 2026-09-24 18:33:36 | [quilt-canary](https://crates.io/crates/quilt-canary) | 0.1.0 | 0 | FNV-1a 64-bit canary in Rust |
-| 2026-09-24 18:36:31 | [ecat-registry-consul](https://crates.io/crates/ecat-registry-consul) | 3.0.3 | 0 | Consul service registry backend for e-cat |
-| 2026-09-24 18:38:21 | [sandogasa-cve](https://crates.io/crates/sandogasa-cve) | 0.25.0 | 0 | Where a CVE is fixed: NVD and GitHub advisory data, and judging a build against… |
-| 2026-09-24 18:39:34 | [nizaam-core](https://crates.io/crates/nizaam-core) | 1.0.0 | 0 | Domain-agnostic Rust infrastructure core for building secure, observable, relia… |
-| 2026-09-24 18:40:24 | [rcsa](https://crates.io/crates/rcsa) | 0.1.0 | 0 | DVB Common Scrambling Algorithm (CSA) descrambler and scrambler for MPEG-TS |
-| 2026-09-24 18:43:43 | [astli-text](https://crates.io/crates/astli-text) | 0.1.0 | 0 | Files, spans, and macro-expansion provenance for SystemVerilog tooling |
-| 2026-09-24 18:43:46 | [astli-syntax](https://crates.io/crates/astli-syntax) | 0.1.0 | 0 | Lossless syntax tree, lexer, and preprocessor for SystemVerilog |
-| 2026-09-24 18:43:48 | [astli-preproc](https://crates.io/crates/astli-preproc) | 0.1.0 | 0 | Directives, macro expansion, and `include resolution for SystemVerilog |
-| 2026-09-24 18:43:50 | [astli-diag](https://crates.io/crates/astli-diag) | 0.1.0 | 0 | Rendering a SystemVerilog diagnostic: snippets, and the chains that explain them |
-| 2026-09-24 18:43:51 | [astli-parse](https://crates.io/crates/astli-parse) | 0.1.0 | 0 | Event-based parser building a lossless SystemVerilog syntax tree |
-| 2026-09-24 18:46:32 | [ecat-data-opensearch](https://crates.io/crates/ecat-data-opensearch) | 3.0.3 | 0 | OpenSearch search engine client for e-cat |
-| 2026-09-24 18:50:14 | [jigor](https://crates.io/crates/jigor) | 0.1.0 | 0 | System One decision gateway — local von/laya ONNX backends (ort) plus the remot… |
-| 2026-09-24 18:50:27 | [jigor-cli](https://crates.io/crates/jigor-cli) | 0.1.0 | 0 | jigor CLI + HTTP gateway — serve/ask/models over the System One wire protocol (… |
-| 2026-09-24 18:51:17 | [rusting-core](https://crates.io/crates/rusting-core) | 0.1.0 | 0 | Core ECS components, transforms, hierarchy, time, input, events, and schedule s… |
-| 2026-09-24 18:51:56 | [img-fp](https://crates.io/crates/img-fp) | 0.7.0 | 0 | Finds duplicate and near-duplicate images: re-encoded, resized, cropped, rotate… |
-| 2026-09-24 18:51:58 | [mummu-mix](https://crates.io/crates/mummu-mix) | 0.4.1 | 0 | Scheduler B: per-tensor precision placement under a byte budget. |
-| 2026-09-24 18:52:03 | [mummu-schedule](https://crates.io/crates/mummu-schedule) | 0.4.1 | 0 | Scheduler A: divide work across heterogeneous devices to minimize makespan. |
-| 2026-09-24 18:53:53 | [mummu](https://crates.io/crates/mummu) | 0.4.1 | 0 | From-scratch Burn model runner: import any open model, quantize it to fit, run… |
-| 2026-09-24 18:55:28 | [astli-fmt](https://crates.io/crates/astli-fmt) | 0.1.0 | 0 | SystemVerilog formatter that leaves the preprocessed meaning unchanged |
-| 2026-09-24 18:56:30 | [ecat-transport-ws](https://crates.io/crates/ecat-transport-ws) | 3.0.3 | 0 | WebSocket transport implementation for e-cat |
-| 2026-09-24 19:03:29 | [serc](https://crates.io/crates/serc) | 0.0.0 | 0 | Placeholder release for serc |
-| 2026-09-24 19:03:39 | [aws-sdk-eventbridgev2](https://crates.io/crates/aws-sdk-eventbridgev2) | 1.0.0 | 0 | AWS SDK for Amazon EventBridgeV2 |
-| 2026-09-24 19:03:48 | [serc-cli](https://crates.io/crates/serc-cli) | 0.0.0 | 0 | Placeholder release for serc-cli |
-| 2026-09-24 19:05:35 | [astli](https://crates.io/crates/astli) | 0.1.0 | 0 | SystemVerilog language tooling: a lossless syntax tree, a preprocessor, and a f… |
-| 2026-09-24 19:06:34 | [ecat-data-mongodb](https://crates.io/crates/ecat-data-mongodb) | 3.0.3 | 0 | MongoDB document database client for e-cat |
-| 2026-09-24 19:11:39 | [echovalidum](https://crates.io/crates/echovalidum) | 0.1.0 | 0 | Lattice engine for the echovalidum brand: a cell carries trust and phase. |
-| 2026-09-24 19:15:16 | [nago-telegram](https://crates.io/crates/nago-telegram) | 0.1.0 | 0 | A Telegram Bot API client over nago-http. No tokio, no OpenSSL, no C |
-| 2026-09-24 19:15:43 | [astli-cli](https://crates.io/crates/astli-cli) | 0.1.0 | 0 | The astli command: SystemVerilog formatting, and a dump of each stage of the pi… |
-| 2026-09-24 19:16:40 | [ecat-mq-rabbitmq](https://crates.io/crates/ecat-mq-rabbitmq) | 3.0.3 | 0 | RabbitMQ message queue backend for e-cat |
-| 2026-09-24 19:18:37 | [kcode-k1-http-access-profile-presentation-representation](https://crates.io/crates/kcode-k1-http-access-profile-presentation-representation) | 0.1.0 | 0 | HTTP representation for K1 access profile presentations |
+| 2026-09-24 19:20:41 | [concinnity-derive](https://crates.io/crates/concinnity-derive) | 0.19.53 | 0 | Derive macros for the Concinnity engine's authored asset schemas |
+| 2026-09-24 19:26:23 | [bite-gpui](https://crates.io/crates/bite-gpui) | 0.0.0-reserved | 0 | Name reservation. The real bite-gpui is published at the end of the 1.20.203 re… |
+| 2026-09-24 19:26:33 | [ecat-data-iotdb](https://crates.io/crates/ecat-data-iotdb) | 3.0.3 | 0 | Apache IoTDB time-series database client for e-cat |
+| 2026-09-24 19:26:50 | [bite-gp-macros](https://crates.io/crates/bite-gp-macros) | 1.20.203 | 0 | Macros used by gpui |
+| 2026-09-24 19:28:30 | [udpstp](https://crates.io/crates/udpstp) | 0.0.0 | 0 | UDP Speed Test Protocol (RFC 9946) Client and Server. Placeholder: the implemen… |
+| 2026-09-24 19:30:29 | [fastmash](https://crates.io/crates/fastmash) | 0.0.0 | 0 | Placeholder: this crate name is reserved for an upcoming project. |
+| 2026-09-24 19:30:32 | [ripscope](https://crates.io/crates/ripscope) | 0.0.0 | 0 | Placeholder: this crate name is reserved for an upcoming project. |
+| 2026-09-24 19:33:19 | [node-auth](https://crates.io/crates/node-auth) | 0.1.0 | 0 | Authenticate Node (npm, yarn, pnpm) to Google Artifact Registry using Google Cl… |
+| 2026-09-24 19:33:46 | [arkhe-shell](https://crates.io/crates/arkhe-shell) | 0.2.0 | 0 | Unix-like shell with verifiable operations: fail-closed, BLAKE3 audit trail, na… |
+| 2026-09-24 19:36:40 | [ecat-registry-etcd](https://crates.io/crates/ecat-registry-etcd) | 3.0.3 | 0 | etcd service registry backend for e-cat |
+| 2026-09-24 19:36:54 | [kcode-k1-http-access-profile-presentation](https://crates.io/crates/kcode-k1-http-access-profile-presentation) | 0.1.0 | 0 | Authenticated HTTP orchestration for K1 access profile presentations |
+| 2026-09-24 19:37:02 | [bite-gp-scheduler](https://crates.io/crates/bite-gp-scheduler) | 1.20.203 | 0 | scheduler — part of the bite-gpui rearchitecture of zed's gpui |
+| 2026-09-24 19:42:30 | [mq-bridge-connect](https://crates.io/crates/mq-bridge-connect) | 0.1.0 | 0 | Unofficial Redpanda Connect compatibility plugin for mq-bridge |
+| 2026-09-24 19:46:31 | [ecat-mq-kafka](https://crates.io/crates/ecat-mq-kafka) | 3.0.3 | 0 | Kafka message queue backend for e-cat |
+| 2026-09-24 19:47:26 | [bite-gp-platform](https://crates.io/crates/bite-gp-platform) | 1.20.203 | 0 | gpui_platform — part of the bite-gpui rearchitecture of zed's gpui |
+| 2026-09-24 19:56:33 | [ecat-data-tdengine](https://crates.io/crates/ecat-data-tdengine) | 3.0.3 | 0 | TDengine time-series database client for e-cat |
+| 2026-09-24 19:57:02 | [dustpan](https://crates.io/crates/dustpan) | 0.1.0 | 0 | Find and clean the dev leftovers eating your Mac's disk and memory: stale workt… |
+| 2026-09-24 19:57:36 | [bite-gp-perf](https://crates.io/crates/bite-gp-perf) | 1.20.203 | 0 | A tool for measuring Zed test performance, with too many Clippy lints |
+| 2026-09-24 19:58:03 | [ruff_command_line](https://crates.io/crates/ruff_command_line) | 0.0.0 | 0 | Placeholder release for ruff_command_line |
+| 2026-09-24 20:03:47 | [byteslice](https://crates.io/crates/byteslice) | 0.1.0 | 0 | A thin, immutable, zero-copy 24-byte slice with Small String Optimization and p… |
+| 2026-09-24 20:06:29 | [ecat-events](https://crates.io/crates/ecat-events) | 3.0.3 | 0 | Event bus abstraction for e-cat |
+| 2026-09-24 20:06:30 | [cacio-term](https://crates.io/crates/cacio-term) | 0.1.1 | 0 | A TUI digital watch emulator |
+| 2026-09-24 20:06:41 | [ttdal](https://crates.io/crates/ttdal) | 0.0.0 | 0 | Tenstorrent Device Access Library |
+| 2026-09-24 20:07:47 | [bite-gp-util-macros](https://crates.io/crates/bite-gp-util-macros) | 1.20.203 | 0 | Utility macros for Zed |
+| 2026-09-24 20:07:50 | [ttdal-sys](https://crates.io/crates/ttdal-sys) | 0.0.0 | 0 | FFI bindings to ttdal |
+| 2026-09-24 20:12:39 | [nibbles](https://crates.io/crates/nibbles) | 0.1.0 | 0 | Optimized math operations on arrays of 4-bit integers |
+| 2026-09-24 20:12:40 | [pkh](https://crates.io/crates/pkh) | 0.1.0 | 0 | pkh is a packaging helper for Debian/Ubuntu packages |
+| 2026-09-24 20:15:52 | [bucketlist](https://crates.io/crates/bucketlist) | 0.2.0 | 0 | A devastatingly simple bucket list CLI and .bucketlist file format. |
+| 2026-09-24 20:16:30 | [ecat-data-elasticsearch](https://crates.io/crates/ecat-data-elasticsearch) | 3.0.3 | 0 | Elasticsearch search engine client for e-cat |
+| 2026-09-24 20:16:47 | [zwo-eaf-sys](https://crates.io/crates/zwo-eaf-sys) | 0.1.0 | 0 | Raw FFI bindings to the ZWO EAF (Electronic Automatic Focuser) C SDK (v1.8.1) |
+| 2026-09-24 20:16:50 | [zwo-eaf](https://crates.io/crates/zwo-eaf) | 0.1.0 | 0 | Safe Rust wrapper for the ZWO EAF (Electronic Automatic Focuser) SDK |
+| 2026-09-24 20:17:52 | [bite-gp-path](https://crates.io/crates/bite-gp-path) | 1.20.203 | 0 | path — part of the bite-gpui rearchitecture of zed's gpui |
 
 ## Data source
 
