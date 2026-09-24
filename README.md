@@ -8,46 +8,63 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-24 20:18 UTC
+## Latest list — 2026-09-24 21:20 UTC
 
-New crates published between 2026-09-24 19:20 UTC and 2026-09-24 20:18 UTC.
+New crates published between 2026-09-24 20:18 UTC and 2026-09-24 21:20 UTC.
 
-[Full CSV](data/new-crates-2026-09-24T20-18-57-723258Z.csv)
+[Full CSV](data/new-crates-2026-09-24T21-20-09-608675Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-24 19:20:41 | [concinnity-derive](https://crates.io/crates/concinnity-derive) | 0.19.53 | 0 | Derive macros for the Concinnity engine's authored asset schemas |
-| 2026-09-24 19:26:23 | [bite-gpui](https://crates.io/crates/bite-gpui) | 0.0.0-reserved | 0 | Name reservation. The real bite-gpui is published at the end of the 1.20.203 re… |
-| 2026-09-24 19:26:33 | [ecat-data-iotdb](https://crates.io/crates/ecat-data-iotdb) | 3.0.3 | 0 | Apache IoTDB time-series database client for e-cat |
-| 2026-09-24 19:26:50 | [bite-gp-macros](https://crates.io/crates/bite-gp-macros) | 1.20.203 | 0 | Macros used by gpui |
-| 2026-09-24 19:28:30 | [udpstp](https://crates.io/crates/udpstp) | 0.0.0 | 0 | UDP Speed Test Protocol (RFC 9946) Client and Server. Placeholder: the implemen… |
-| 2026-09-24 19:30:29 | [fastmash](https://crates.io/crates/fastmash) | 0.0.0 | 0 | Placeholder: this crate name is reserved for an upcoming project. |
-| 2026-09-24 19:30:32 | [ripscope](https://crates.io/crates/ripscope) | 0.0.0 | 0 | Placeholder: this crate name is reserved for an upcoming project. |
-| 2026-09-24 19:33:19 | [node-auth](https://crates.io/crates/node-auth) | 0.1.0 | 0 | Authenticate Node (npm, yarn, pnpm) to Google Artifact Registry using Google Cl… |
-| 2026-09-24 19:33:46 | [arkhe-shell](https://crates.io/crates/arkhe-shell) | 0.2.0 | 0 | Unix-like shell with verifiable operations: fail-closed, BLAKE3 audit trail, na… |
-| 2026-09-24 19:36:40 | [ecat-registry-etcd](https://crates.io/crates/ecat-registry-etcd) | 3.0.3 | 0 | etcd service registry backend for e-cat |
-| 2026-09-24 19:36:54 | [kcode-k1-http-access-profile-presentation](https://crates.io/crates/kcode-k1-http-access-profile-presentation) | 0.1.0 | 0 | Authenticated HTTP orchestration for K1 access profile presentations |
-| 2026-09-24 19:37:02 | [bite-gp-scheduler](https://crates.io/crates/bite-gp-scheduler) | 1.20.203 | 0 | scheduler — part of the bite-gpui rearchitecture of zed's gpui |
-| 2026-09-24 19:42:30 | [mq-bridge-connect](https://crates.io/crates/mq-bridge-connect) | 0.1.0 | 0 | Unofficial Redpanda Connect compatibility plugin for mq-bridge |
-| 2026-09-24 19:46:31 | [ecat-mq-kafka](https://crates.io/crates/ecat-mq-kafka) | 3.0.3 | 0 | Kafka message queue backend for e-cat |
-| 2026-09-24 19:47:26 | [bite-gp-platform](https://crates.io/crates/bite-gp-platform) | 1.20.203 | 0 | gpui_platform — part of the bite-gpui rearchitecture of zed's gpui |
-| 2026-09-24 19:56:33 | [ecat-data-tdengine](https://crates.io/crates/ecat-data-tdengine) | 3.0.3 | 0 | TDengine time-series database client for e-cat |
-| 2026-09-24 19:57:02 | [dustpan](https://crates.io/crates/dustpan) | 0.1.0 | 0 | Find and clean the dev leftovers eating your Mac's disk and memory: stale workt… |
-| 2026-09-24 19:57:36 | [bite-gp-perf](https://crates.io/crates/bite-gp-perf) | 1.20.203 | 0 | A tool for measuring Zed test performance, with too many Clippy lints |
-| 2026-09-24 19:58:03 | [ruff_command_line](https://crates.io/crates/ruff_command_line) | 0.0.0 | 0 | Placeholder release for ruff_command_line |
-| 2026-09-24 20:03:47 | [byteslice](https://crates.io/crates/byteslice) | 0.1.0 | 0 | A thin, immutable, zero-copy 24-byte slice with Small String Optimization and p… |
-| 2026-09-24 20:06:29 | [ecat-events](https://crates.io/crates/ecat-events) | 3.0.3 | 0 | Event bus abstraction for e-cat |
-| 2026-09-24 20:06:30 | [cacio-term](https://crates.io/crates/cacio-term) | 0.1.1 | 0 | A TUI digital watch emulator |
-| 2026-09-24 20:06:41 | [ttdal](https://crates.io/crates/ttdal) | 0.0.0 | 0 | Tenstorrent Device Access Library |
-| 2026-09-24 20:07:47 | [bite-gp-util-macros](https://crates.io/crates/bite-gp-util-macros) | 1.20.203 | 0 | Utility macros for Zed |
-| 2026-09-24 20:07:50 | [ttdal-sys](https://crates.io/crates/ttdal-sys) | 0.0.0 | 0 | FFI bindings to ttdal |
-| 2026-09-24 20:12:39 | [nibbles](https://crates.io/crates/nibbles) | 0.1.0 | 0 | Optimized math operations on arrays of 4-bit integers |
-| 2026-09-24 20:12:40 | [pkh](https://crates.io/crates/pkh) | 0.1.0 | 0 | pkh is a packaging helper for Debian/Ubuntu packages |
-| 2026-09-24 20:15:52 | [bucketlist](https://crates.io/crates/bucketlist) | 0.2.0 | 0 | A devastatingly simple bucket list CLI and .bucketlist file format. |
-| 2026-09-24 20:16:30 | [ecat-data-elasticsearch](https://crates.io/crates/ecat-data-elasticsearch) | 3.0.3 | 0 | Elasticsearch search engine client for e-cat |
-| 2026-09-24 20:16:47 | [zwo-eaf-sys](https://crates.io/crates/zwo-eaf-sys) | 0.1.0 | 0 | Raw FFI bindings to the ZWO EAF (Electronic Automatic Focuser) C SDK (v1.8.1) |
-| 2026-09-24 20:16:50 | [zwo-eaf](https://crates.io/crates/zwo-eaf) | 0.1.0 | 0 | Safe Rust wrapper for the ZWO EAF (Electronic Automatic Focuser) SDK |
-| 2026-09-24 20:17:52 | [bite-gp-path](https://crates.io/crates/bite-gp-path) | 1.20.203 | 0 | path — part of the bite-gpui rearchitecture of zed's gpui |
+| 2026-09-24 20:18:59 | [blyte](https://crates.io/crates/blyte) | 0.0.0 | 0 | Reserved for blyte, a lean coding-agent harness in Rust |
+| 2026-09-24 20:19:02 | [blyte-agent](https://crates.io/crates/blyte-agent) | 0.0.0 | 0 | Reserved for blyte, a lean coding-agent harness in Rust |
+| 2026-09-24 20:19:05 | [blyte-provider](https://crates.io/crates/blyte-provider) | 0.0.0 | 0 | Reserved for blyte, a lean coding-agent harness in Rust |
+| 2026-09-24 20:19:08 | [blyte-core](https://crates.io/crates/blyte-core) | 0.0.0 | 0 | Reserved for blyte, a lean coding-agent harness in Rust |
+| 2026-09-24 20:19:10 | [blyte-cli](https://crates.io/crates/blyte-cli) | 0.0.0 | 0 | Reserved for blyte, a lean coding-agent harness in Rust |
+| 2026-09-24 20:24:27 | [fluidattacks-gitlab-sdk-rs-domain](https://crates.io/crates/fluidattacks-gitlab-sdk-rs-domain) | 0.1.0 | 0 | GitLab SDK functional core: pure types (no I/O) |
+| 2026-09-24 20:26:30 | [ecat-data-s3](https://crates.io/crates/ecat-data-s3) | 3.0.3 | 0 | S3/MinIO object storage client for e-cat |
+| 2026-09-24 20:26:38 | [fluidattacks-gitlab-sdk-rs](https://crates.io/crates/fluidattacks-gitlab-sdk-rs) | 0.1.0 | 0 | GitLab SDK: I/O layer built on the domain types |
+| 2026-09-24 20:28:10 | [bite-gp-util](https://crates.io/crates/bite-gp-util) | 1.20.203 | 0 | A collection of utility structs and functions used by Zed and GPUI |
+| 2026-09-24 20:33:41 | [rsyncer](https://crates.io/crates/rsyncer) | 0.1.1 | 0 | Event-driven, priority-aware rsync mirroring daemon with a TOML config and heal… |
+| 2026-09-24 20:35:07 | [inertia-axum](https://crates.io/crates/inertia-axum) | 0.1.1 | 0 | Inertia.js v3 server-side protocol for axum: props, partial reloads, flash, CSR… |
+| 2026-09-24 20:35:10 | [loco-inertia](https://crates.io/crates/loco-inertia) | 0.1.1 | 0 | Inertia.js v3 adapter for Loco.rs: typed pages, forms, Vite, SSR |
+| 2026-09-24 20:35:22 | [ponyo](https://crates.io/crates/ponyo) | 0.0.1 | 0 | Still cooking. |
+| 2026-09-24 20:36:31 | [ecat-data-neo4j](https://crates.io/crates/ecat-data-neo4j) | 3.0.3 | 0 | Neo4j graph database client for e-cat |
+| 2026-09-24 20:38:22 | [bite-gp-http-client](https://crates.io/crates/bite-gp-http-client) | 1.20.203 | 0 | A HTTP client library for Zed and GPUI |
+| 2026-09-24 20:40:52 | [tview](https://crates.io/crates/tview) | 0.1.0 | 0 | A command-line CSV and tabular data viewer |
+| 2026-09-24 20:41:07 | [inillucent-driver](https://crates.io/crates/inillucent-driver) | 0.1.8 | 0 | The driver: the stable surface an application uses to talk to the inillucent re… |
+| 2026-09-24 20:41:08 | [inillucent-remote](https://crates.io/crates/inillucent-remote) | 0.1.8 | 0 | Reads a running PostgreSQL or MySQL server over its own wire protocol and migra… |
+| 2026-09-24 20:41:09 | [inillucent](https://crates.io/crates/inillucent) | 0.1.8 | 0 | Embedded SQL database with vector and keyword retrieval: the Rust API. |
+| 2026-09-24 20:41:09 | [inillucent-driver-capi](https://crates.io/crates/inillucent-driver-capi) | 0.1.8 | 0 | The C ABI over inillucent-driver: how every language that is not Rust reaches t… |
+| 2026-09-24 20:41:10 | [inillucent-migrate](https://crates.io/crates/inillucent-migrate) | 0.1.8 | 0 | Resumable copy-and-verify migration of a legacy inillucent index directory into… |
+| 2026-09-24 20:42:59 | [inillucent-cli](https://crates.io/crates/inillucent-cli) | 0.1.8 | 0 | inillucent's command surface: the sqlite3-shaped shell, the verb-shaped CLI, an… |
+| 2026-09-24 20:46:31 | [ecat-data-sqlx](https://crates.io/crates/ecat-data-sqlx) | 3.0.3 | 0 | SQLx multi-database client for e-cat |
+| 2026-09-24 20:48:29 | [bite-gp-zlog](https://crates.io/crates/bite-gp-zlog) | 1.20.203 | 0 | zlog — part of the bite-gpui rearchitecture of zed's gpui |
+| 2026-09-24 20:49:14 | [lekhani-parser](https://crates.io/crates/lekhani-parser) | 1.0.0 | 0 | Ultra-fast, zero-allocation pure Rust Bengali phonetic grammar parser and trans… |
+| 2026-09-24 20:50:46 | [lekhani-ai](https://crates.io/crates/lekhani-ai) | 1.0.0 | 0 | Pure Rust On-Device AI & Contextual Language Model for Lekhani Bengali Input Me… |
+| 2026-09-24 20:50:47 | [keb](https://crates.io/crates/keb) | 0.0.1 | 0 | Rename files to kebab case, safely and idempotently |
+| 2026-09-24 20:51:19 | [lekhani-core](https://crates.io/crates/lekhani-core) | 1.0.0 | 0 | Core typing engine for Lekhani supporting Avro Phonetic, fixed layouts, Trie di… |
+| 2026-09-24 20:56:30 | [ecat-data-memcached](https://crates.io/crates/ecat-data-memcached) | 3.0.3 | 0 | ⚠️ 内存实现，仅用于开发/测试，禁止生产使用 — Memcached-compatible in-memory (HashMap) cache client… |
+| 2026-09-24 20:56:46 | [pux](https://crates.io/crates/pux) | 0.0.2 | 0 | pux |
+| 2026-09-24 20:58:34 | [bite-gp-ztracing-macro](https://crates.io/crates/bite-gp-ztracing-macro) | 1.20.203 | 0 | ztracing_macro — part of the bite-gpui rearchitecture of zed's gpui |
+| 2026-09-24 21:02:28 | [objc2-accessory-access](https://crates.io/crates/objc2-accessory-access) | 0.0.0 | 0 | Reserved crate name for objc2 bindings to the AccessoryAccess framework |
+| 2026-09-24 21:03:46 | [objc2-state-reporting](https://crates.io/crates/objc2-state-reporting) | 0.0.0 | 0 | Reserved crate name for objc2 bindings to the StateReporting framework |
+| 2026-09-24 21:04:30 | [objc2-av-system-routing](https://crates.io/crates/objc2-av-system-routing) | 0.0.0 | 0 | Reserved crate name for objc2 bindings to the AVSystemRouting framework |
+| 2026-09-24 21:05:09 | [redis-tower-auth-aws](https://crates.io/crates/redis-tower-auth-aws) | 0.1.0 | 0 | AWS ElastiCache IAM credential provider for redis-tower |
+| 2026-09-24 21:05:49 | [redis-tower-auth-azure](https://crates.io/crates/redis-tower-auth-azure) | 0.1.0 | 0 | Microsoft Entra managed identity credential provider for redis-tower |
+| 2026-09-24 21:06:31 | [ecat-logging](https://crates.io/crates/ecat-logging) | 3.0.3 | 0 | Structured logging via tracing for e-cat |
+| 2026-09-24 21:07:11 | [soccer-cache](https://crates.io/crates/soccer-cache) | 0.1.0 | 0 | Model caching for the SOCcer ecosystem |
+| 2026-09-24 21:08:42 | [bite-gp-ztracing](https://crates.io/crates/bite-gp-ztracing) | 1.20.203 | 0 | ztracing — part of the bite-gpui rearchitecture of zed's gpui |
+| 2026-09-24 21:10:24 | [objc2-link-security](https://crates.io/crates/objc2-link-security) | 0.0.0 | 0 | Reserved crate name for objc2 bindings to the LinkSecurity framework |
+| 2026-09-24 21:12:37 | [mdrv-gpui-derive-refineable](https://crates.io/crates/mdrv-gpui-derive-refineable) | 0.0.260925 | 0 | Derive macro for gpui-ce's Refineable (vendored from Zed). |
+| 2026-09-24 21:12:41 | [mdrv-gpui-macros](https://crates.io/crates/mdrv-gpui-macros) | 0.0.260925 | 0 | Macros used by gpui |
+| 2026-09-24 21:12:44 | [mdrv-gpui-media](https://crates.io/crates/mdrv-gpui-media) | 0.0.260925 | 0 | macOS CoreMedia/CoreVideo bindings for gpui-ce (vendored from Zed). |
+| 2026-09-24 21:12:47 | [mdrv-gpui-path](https://crates.io/crates/mdrv-gpui-path) | 0.0.260925 | 0 | Relative/absolute path types used by gpui-ce (vendored from Zed's path crate). |
+| 2026-09-24 21:12:52 | [mdrv-gpui-refineable](https://crates.io/crates/mdrv-gpui-refineable) | 0.0.260925 | 0 | Refineable trait + cascade for gpui-ce (vendored from Zed). |
+| 2026-09-24 21:14:17 | [pamoja-radios](https://crates.io/crates/pamoja-radios) | 0.2.0 | 0 | LoRa radio drivers for pamoja: the Semtech SX126x command set and SX127x regist… |
+| 2026-09-24 21:14:23 | [pamoja-gateway](https://crates.io/crates/pamoja-gateway) | 0.2.0 | 0 | LoRaWAN gateway protocols for pamoja: the Semtech UDP packet forwarder protocol… |
+| 2026-09-24 21:16:31 | [ecat-data-nebulagraph](https://crates.io/crates/ecat-data-nebulagraph) | 3.0.3 | 0 | NebulaGraph graph database client for e-cat |
+| 2026-09-24 21:18:51 | [bite-gp-sum-tree](https://crates.io/crates/bite-gp-sum-tree) | 1.20.203 | 0 | A sum tree data structure, a concurrency-friendly B-tree |
 
 ## Data source
 

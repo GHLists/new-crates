@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-24T20:18:59.578653Z,blyte,0.0.0,0,0,,"Reserved for blyte, a lean coding-agent harness in Rust"
+2026-09-24T20:19:02.156797Z,blyte-agent,0.0.0,0,0,,"Reserved for blyte, a lean coding-agent harness in Rust"
+2026-09-24T20:19:05.226859Z,blyte-provider,0.0.0,0,0,,"Reserved for blyte, a lean coding-agent harness in Rust"
+2026-09-24T20:19:08.166917Z,blyte-core,0.0.0,0,0,,"Reserved for blyte, a lean coding-agent harness in Rust"
+2026-09-24T20:19:10.562408Z,blyte-cli,0.0.0,0,0,,"Reserved for blyte, a lean coding-agent harness in Rust"
+2026-09-24T20:24:27.573551Z,fluidattacks-gitlab-sdk-rs-domain,0.1.0,0,0,https://gitlab.com/fluidattacks/universe,GitLab SDK functional core: pure types (no I/O)
+2026-09-24T20:26:30.573801Z,ecat-data-s3,3.0.3,0,0,https://github.com/erikwang2013/e-cat,S3/MinIO object storage client for e-cat
+2026-09-24T20:26:38.31225Z,fluidattacks-gitlab-sdk-rs,0.1.0,0,0,https://gitlab.com/fluidattacks/universe,GitLab SDK: I/O layer built on the domain types
+2026-09-24T20:28:10.621328Z,bite-gp-util,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,A collection of utility structs and functions used by Zed and GPUI
+2026-09-24T20:33:41.473987Z,rsyncer,0.1.1,0,0,https://github.com/pilleye/rsyncer,"Event-driven, priority-aware rsync mirroring daemon with a TOML config and healthcheck pings"
+2026-09-24T20:35:07.922793Z,inertia-axum,0.1.1,0,0,https://github.com/nazrdogan/loco-inertia,"Inertia.js v3 server-side protocol for axum: props, partial reloads, flash, CSRF, SSR"
+2026-09-24T20:35:10.996043Z,loco-inertia,0.1.1,0,0,https://github.com/nazrdogan/loco-inertia,"Inertia.js v3 adapter for Loco.rs: typed pages, forms, Vite, SSR"
+2026-09-24T20:35:22.17297Z,ponyo,0.0.1,0,0,,Still cooking.
+2026-09-24T20:36:31.747797Z,ecat-data-neo4j,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Neo4j graph database client for e-cat
+2026-09-24T20:38:22.154039Z,bite-gp-http-client,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,A HTTP client library for Zed and GPUI
+2026-09-24T20:40:52.774453Z,tview,0.1.0,0,0,https://github.com/commandzero/tview,A command-line CSV and tabular data viewer
+2026-09-24T20:41:07.866175Z,inillucent-driver,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,The driver: the stable surface an application uses to talk to the inillucent relational engine.
+2026-09-24T20:41:08.498582Z,inillucent-remote,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,"Reads a running PostgreSQL or MySQL server over its own wire protocol and migrates it into an inillucent database, verified."
+2026-09-24T20:41:09.108764Z,inillucent,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,Embedded SQL database with vector and keyword retrieval: the Rust API.
+2026-09-24T20:41:09.897243Z,inillucent-driver-capi,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,The C ABI over inillucent-driver: how every language that is not Rust reaches the engine.
+2026-09-24T20:41:10.651454Z,inillucent-migrate,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,"Resumable copy-and-verify migration of a legacy inillucent index directory into a inillucent database, and the legacy direct index API over one."
+2026-09-24T20:42:59.643295Z,inillucent-cli,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,"inillucent's command surface: the sqlite3-shaped shell, the verb-shaped CLI, and the MCP server."
+2026-09-24T20:46:31.835429Z,ecat-data-sqlx,3.0.3,0,0,https://github.com/erikwang2013/e-cat,SQLx multi-database client for e-cat
+2026-09-24T20:48:29.90983Z,bite-gp-zlog,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,zlog — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-24T20:49:14.118078Z,lekhani-parser,1.0.0,0,0,https://github.com/sintaulsiam/lekhani,"Ultra-fast, zero-allocation pure Rust Bengali phonetic grammar parser and transliterator"
+2026-09-24T20:50:46.383724Z,lekhani-ai,1.0.0,0,0,https://github.com/sintaulsiam/lekhani,Pure Rust On-Device AI & Contextual Language Model for Lekhani Bengali Input Method
+2026-09-24T20:50:47.00983Z,keb,0.0.1,0,0,https://github.com/frycz/keb,"Rename files to kebab case, safely and idempotently"
+2026-09-24T20:51:19.29266Z,lekhani-core,1.0.0,0,0,https://github.com/sintaulsiam/lekhani,"Core typing engine for Lekhani supporting Avro Phonetic, fixed layouts, Trie dictionary, Bijoy converter, and autocorrect"
+2026-09-24T20:56:30.902457Z,ecat-data-memcached,3.0.3,0,0,https://github.com/erikwang2013/e-cat,⚠️ 内存实现，仅用于开发/测试，禁止生产使用 — Memcached-compatible in-memory (HashMap) cache client for e-cat; does NOT implement the memcached network protocol
+2026-09-24T20:56:46.849955Z,pux,0.0.2,0,0,,pux
+2026-09-24T20:58:34.039064Z,bite-gp-ztracing-macro,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,ztracing_macro — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-24T21:02:28.858843Z,objc2-accessory-access,0.0.0,0,0,https://github.com/madsmtm/objc2,Reserved crate name for objc2 bindings to the AccessoryAccess framework
+2026-09-24T21:03:46.381783Z,objc2-state-reporting,0.0.0,0,0,https://github.com/madsmtm/objc2,Reserved crate name for objc2 bindings to the StateReporting framework
+2026-09-24T21:04:30.715009Z,objc2-av-system-routing,0.0.0,0,0,https://github.com/madsmtm/objc2,Reserved crate name for objc2 bindings to the AVSystemRouting framework
+2026-09-24T21:05:09.913381Z,redis-tower-auth-aws,0.1.0,0,0,https://github.com/joshrotenberg/redis-tower,AWS ElastiCache IAM credential provider for redis-tower
+2026-09-24T21:05:49.904028Z,redis-tower-auth-azure,0.1.0,0,0,https://github.com/joshrotenberg/redis-tower,Microsoft Entra managed identity credential provider for redis-tower
+2026-09-24T21:06:31.353694Z,ecat-logging,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Structured logging via tracing for e-cat
+2026-09-24T21:07:11.280713Z,soccer-cache,0.1.0,0,0,https://github.com/danielruss/soccer-cache,Model caching for the SOCcer ecosystem
+2026-09-24T21:08:42.509674Z,bite-gp-ztracing,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,ztracing — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-24T21:10:24.242172Z,objc2-link-security,0.0.0,0,0,https://github.com/madsmtm/objc2,Reserved crate name for objc2 bindings to the LinkSecurity framework
+2026-09-24T21:12:37.908239Z,mdrv-gpui-derive-refineable,0.0.260925,0,0,,Derive macro for gpui-ce's Refineable (vendored from Zed).
+2026-09-24T21:12:41.639374Z,mdrv-gpui-macros,0.0.260925,0,0,,Macros used by gpui
+2026-09-24T21:12:44.776492Z,mdrv-gpui-media,0.0.260925,0,0,,macOS CoreMedia/CoreVideo bindings for gpui-ce (vendored from Zed).
+2026-09-24T21:12:47.842983Z,mdrv-gpui-path,0.0.260925,0,0,https://github.com/gpui-ce/gpui-ce,Relative/absolute path types used by gpui-ce (vendored from Zed's path crate).
+2026-09-24T21:12:52.105726Z,mdrv-gpui-refineable,0.0.260925,0,0,,Refineable trait + cascade for gpui-ce (vendored from Zed).
+2026-09-24T21:14:17.156202Z,pamoja-radios,0.2.0,0,0,https://github.com/molexxxx/pamoja,"LoRa radio drivers for pamoja: the Semtech SX126x command set and SX127x register map, their interrupt, status and packet status decoding, the frequency, modulation, packet and transmit power setting…"
+2026-09-24T21:14:23.376539Z,pamoja-gateway,0.2.0,0,0,https://github.com/molexxxx/pamoja,"LoRaWAN gateway protocols for pamoja: the Semtech UDP packet forwarder protocol and the LoRa Basics Station protocol, both sides of each, the network side of a single site that admits a join and answ…"
+2026-09-24T21:16:31.450586Z,ecat-data-nebulagraph,3.0.3,0,0,https://github.com/erikwang2013/e-cat,NebulaGraph graph database client for e-cat
+2026-09-24T21:18:51.499515Z,bite-gp-sum-tree,1.20.203,0,0,https://github.com/bite-gpui/bite-gpui,"A sum tree data structure, a concurrency-friendly B-tree"
