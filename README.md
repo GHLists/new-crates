@@ -8,47 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-24 22:19 UTC
+## Latest list — 2026-09-24 23:20 UTC
 
-New crates published between 2026-09-24 21:20 UTC and 2026-09-24 22:19 UTC.
+New crates published between 2026-09-24 22:19 UTC and 2026-09-24 23:20 UTC.
 
-[Full CSV](data/new-crates-2026-09-24T22-19-18-125467Z.csv)
+[Full CSV](data/new-crates-2026-09-24T23-20-22-883812Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-24 21:22:26 | [kcode-k1-chat-boxes](https://crates.io/crates/kcode-k1-chat-boxes) | 0.1.0 | 0 | Canonical K1 chat box values and correlated tool metadata |
-| 2026-09-24 21:22:40 | [mediapulse-core](https://crates.io/crates/mediapulse-core) | 0.1.0 | 0 | Shared mpv playback, command, and sidecar management for MediaPulse |
-| 2026-09-24 21:23:42 | [mdrv-gpui-util](https://crates.io/crates/mdrv-gpui-util) | 0.0.260925 | 0 | Utility structs and functions used by gpui-ce (vendored from Zed's gpui_util). |
-| 2026-09-24 21:24:25 | [hotpath-drain-meta](https://crates.io/crates/hotpath-drain-meta) | 0.0.2 | 0 | Hotpath drain meta - a version of hotpath-drain used to profile the profiler it… |
-| 2026-09-24 21:26:31 | [ecat-transport-grpc](https://crates.io/crates/ecat-transport-grpc) | 3.0.3 | 0 | gRPC transport implementation for e-cat |
-| 2026-09-24 21:26:55 | [mdrv-gpui-sum-tree](https://crates.io/crates/mdrv-gpui-sum-tree) | 0.0.260925 | 0 | Copy-on-write B+ tree with monoidal summaries for gpui-ce (vendored from Zed). |
-| 2026-09-24 21:29:01 | [bite-gp-authoring](https://crates.io/crates/bite-gp-authoring) | 1.20.203 | 0 | Zed's declarative UI authoring layer |
-| 2026-09-24 21:32:01 | [hornguard](https://crates.io/crates/hornguard) | 0.1.1 | 0 | A default-deny firewall for untrusted Prolog: judge goals and clauses before an… |
-| 2026-09-24 21:34:58 | [mediapulse](https://crates.io/crates/mediapulse) | 0.1.1 | 0 | A self-contained native media player built around mpv |
-| 2026-09-24 21:36:33 | [ecat-data-redis](https://crates.io/crates/ecat-data-redis) | 3.0.3 | 0 | Redis cache client for e-cat |
-| 2026-09-24 21:39:40 | [bite-gp-runtime](https://crates.io/crates/bite-gp-runtime) | 1.20.203 | 0 | Zed's process harness for starting and driving a GPUI application |
-| 2026-09-24 21:46:32 | [ecat-data-questdb](https://crates.io/crates/ecat-data-questdb) | 3.0.3 | 0 | QuestDB time-series database client for e-cat |
-| 2026-09-24 21:49:48 | [bite-gp-wgpu](https://crates.io/crates/bite-gp-wgpu) | 1.20.203 | 0 | gpui_wgpu — part of the bite-gpui rearchitecture of zed's gpui |
-| 2026-09-24 21:49:56 | [statewire](https://crates.io/crates/statewire) | 0.1.0 | 0 | Rust client for the Statewire protocol: replicated state from a host, typed com… |
-| 2026-09-24 21:50:09 | [harness-threads](https://crates.io/crates/harness-threads) | 0.1.0 | 0 | Rust types for the harness-sdk thread and runs protocols over Statewire |
-| 2026-09-24 21:51:09 | [burnout-core](https://crates.io/crates/burnout-core) | 0.3.0 | 0 | The part of Burnout that no operating system changes. Burnout uses it, and its… |
-| 2026-09-24 21:51:12 | [burnout-iso](https://crates.io/crates/burnout-iso) | 0.3.0 | 0 | Reads the image that a person gives: ISO 9660 with Joliet and Rock Ridge, and U… |
-| 2026-09-24 21:51:13 | [burnout-layout](https://crates.io/crates/burnout-layout) | 0.3.0 | 0 | The partition table and the file systems of a Windows installer drive. Burnout… |
-| 2026-09-24 21:51:15 | [burnout](https://crates.io/crates/burnout) | 0.3.0 | 0 | Writes a bootable USB drive from the command line. |
-| 2026-09-24 21:55:51 | [mdrv-gpui-collections](https://crates.io/crates/mdrv-gpui-collections) | 0.0.260925 | 0 | Blessed hash collections used by gpui-ce (vendored from Zed). |
-| 2026-09-24 21:55:57 | [mdrv-gpui-scheduler](https://crates.io/crates/mdrv-gpui-scheduler) | 0.0.260925 | 0 | Async task scheduler/executor for gpui-ce (vendored from Zed). |
-| 2026-09-24 21:56:01 | [mdrv-gpui-shared-string](https://crates.io/crates/mdrv-gpui-shared-string) | 0.0.260925 | 0 | Shared immutable string types for GPUI CE |
-| 2026-09-24 21:56:34 | [ecat-data-arangodb](https://crates.io/crates/ecat-data-arangodb) | 3.0.3 | 0 | ArangoDB graph database client for e-cat |
-| 2026-09-24 21:57:02 | [satex-analyzer](https://crates.io/crates/satex-analyzer) | 0.1.0 | 0 | Static analyzer for TeX/LaTeX: lints, explains, slices and caches documents by… |
-| 2026-09-24 21:59:56 | [bite-gp-web](https://crates.io/crates/bite-gp-web) | 1.20.203 | 0 | gpui_web — part of the bite-gpui rearchitecture of zed's gpui |
-| 2026-09-24 22:01:44 | [multiliquid-svm-sdk](https://crates.io/crates/multiliquid-svm-sdk) | 0.1.0 | 0 | Unsigned transaction builders, account codecs, and quoting for Multiliquid on S… |
-| 2026-09-24 22:02:07 | [rs-rich-macros](https://crates.io/crates/rs-rich-macros) | 0.0.1 | 0 | Compile-time checked markup and derive macros for the `rich` Rust port |
-| 2026-09-24 22:07:15 | [ecat-data-clickhouse](https://crates.io/crates/ecat-data-clickhouse) | 3.0.3 | 0 | ClickHouse analytical database client for e-cat |
-| 2026-09-24 22:10:05 | [bite-gp-linux](https://crates.io/crates/bite-gp-linux) | 1.20.203 | 0 | gpui_linux — part of the bite-gpui rearchitecture of zed's gpui |
-| 2026-09-24 22:11:35 | [google-cloud-apptopology-v1](https://crates.io/crates/google-cloud-apptopology-v1) | 1.0.0 | 0 | Google Cloud Client Libraries for Rust - App Topology API |
-| 2026-09-24 22:13:39 | [pg-trellis](https://crates.io/crates/pg-trellis) | 0.1.0 | 0 | Tool to easily configure and run Postgres servers |
-| 2026-09-24 22:16:37 | [ecat](https://crates.io/crates/ecat) | 3.0.3 | 0 | Aggregate crate: batteries-included entry point for e-cat |
-| 2026-09-24 22:17:35 | [mdrv-gpui-zed-util](https://crates.io/crates/mdrv-gpui-zed-util) | 0.0.260925 | 0 | OS/utility helpers used by gpui-ce platform backends (vendored from Zed's util). |
+| 2026-09-24 22:20:15 | [bite-gp-apple](https://crates.io/crates/bite-gp-apple) | 1.20.203 | 0 | gpui_apple — part of the bite-gpui rearchitecture of zed's gpui |
+| 2026-09-24 22:25:20 | [paganel-plugin-sdk-macros](https://crates.io/crates/paganel-plugin-sdk-macros) | 0.1.0 | 0 | Attribute macros for paganel-plugin-sdk: #[paganel_transform], #[paganel_filter… |
+| 2026-09-24 22:25:22 | [syntropctl-core](https://crates.io/crates/syntropctl-core) | 0.1.0 | 0 | Core domain types and protocol definitions for syntropctl |
+| 2026-09-24 22:25:29 | [syntrop-toold-core](https://crates.io/crates/syntrop-toold-core) | 0.2.0 | 0 | Core library and domain types for syntrop-toold |
+| 2026-09-24 22:25:33 | [syntrop-inferenced-core](https://crates.io/crates/syntrop-inferenced-core) | 0.1.0 | 0 | Core hardware discovery, leases, and topology primitives for syntrop-inferenced |
+| 2026-09-24 22:25:38 | [syntrop-modeld-core](https://crates.io/crates/syntrop-modeld-core) | 0.2.0 | 0 | Core library and cryptographic content-addressable storage for syntrop-modeld |
+| 2026-09-24 22:25:44 | [syntrop-contextd-core](https://crates.io/crates/syntrop-contextd-core) | 0.2.0 | 0 | Core library and transactional journal context store for syntrop-contextd |
+| 2026-09-24 22:26:22 | [paganel-plugin-sdk](https://crates.io/crates/paganel-plugin-sdk) | 0.1.0 | 0 | Rust SDK for Paganel plugins: transforms, filters, sources and sinks compiled t… |
+| 2026-09-24 22:30:26 | [bite-gp-media](https://crates.io/crates/bite-gp-media) | 1.20.203 | 0 | Bindings to macos media handling APIs for Zed |
+| 2026-09-24 22:35:44 | [syntrop-runtimed-core](https://crates.io/crates/syntrop-runtimed-core) | 0.1.0 | 0 | Core library and sysext/portable runtime manager for syntrop-runtimed |
+| 2026-09-24 22:39:38 | [aether-types](https://crates.io/crates/aether-types) | 1.3.0 | 0 | Core wire types, genesis, and protocol constants for Aether Protocol |
+| 2026-09-24 22:39:59 | [aether-crypto](https://crates.io/crates/aether-crypto) | 1.3.0 | 0 | BLAKE3 hashing, Ed25519 keys, and Merkle helpers for Aether Protocol |
+| 2026-09-24 22:40:14 | [aether-vm](https://crates.io/crates/aether-vm) | 1.3.0 | 0 | AetherOps prototype ISA and contract execution for Aether Protocol |
+| 2026-09-24 22:40:33 | [aether-consensus](https://crates.io/crates/aether-consensus) | 1.3.0 | 0 | AetherBFT consensus engine, votes, commits, and light headers |
+| 2026-09-24 22:40:35 | [bite-gp-macos](https://crates.io/crates/bite-gp-macos) | 1.20.203 | 0 | gpui_macos — part of the bite-gpui rearchitecture of zed's gpui |
+| 2026-09-24 22:41:01 | [aether-zk](https://crates.io/crates/aether-zk) | 1.3.0 | 0 | Poseidon CRH, Groth16 shielded notes, and rollup verifiers for Aether |
+| 2026-09-24 22:42:52 | [aether-p2p](https://crates.io/crates/aether-p2p) | 1.3.0 | 0 | Multi-validator TCP gossip mesh for Aether Protocol |
+| 2026-09-24 22:44:49 | [ztreamer-node](https://crates.io/crates/ztreamer-node) | 0.2.1 | 0 | In-process Zakura node client for Ztreamer |
+| 2026-09-24 22:44:50 | [ztreamer-protocol](https://crates.io/crates/ztreamer-protocol) | 0.2.1 | 0 | Lightwallet protocol definitions and wire encoding for Ztreamer |
+| 2026-09-24 22:44:51 | [ztreamer-indexer](https://crates.io/crates/ztreamer-indexer) | 0.2.1 | 0 | Compact block indexing and storage for Ztreamer |
+| 2026-09-24 22:44:53 | [ztreamer-service](https://crates.io/crates/ztreamer-service) | 0.2.1 | 0 | gRPC and peer-to-peer lightwallet services for Ztreamer |
+| 2026-09-24 22:44:55 | [ztreamerd](https://crates.io/crates/ztreamerd) | 0.2.1 | 0 | Zcash lightwallet server backed by an embedded Zakura node |
+| 2026-09-24 22:45:07 | [kova-primitives](https://crates.io/crates/kova-primitives) | 0.2.0 | 0 | Deterministic Kova primitives: phases, logit vectors, gate decisions, plan cons… |
+| 2026-09-24 22:45:25 | [kova-sandbox](https://crates.io/crates/kova-sandbox) | 0.2.0 | 0 | Embedded youki OCI container runner & killable process-group command manager |
+| 2026-09-24 22:45:29 | [syntrop-sentry-core](https://crates.io/crates/syntrop-sentry-core) | 0.1.0 | 0 | Core domain types, telemetry models, and error definitions for systemd-sentry |
+| 2026-09-24 22:45:47 | [kova-router](https://crates.io/crates/kova-router) | 0.2.0 | 0 | Kova model endpoints & backend routing for llama.cpp /v1 services |
+| 2026-09-24 22:46:00 | [kova-actor](https://crates.io/crates/kova-actor) | 0.2.0 | 0 | Kova actor layer: work orders & VRAM budget types for the worker pool |
+| 2026-09-24 22:46:12 | [kova-gui](https://crates.io/crates/kova-gui) | 0.2.0 | 0 | Kova embedded GUI assets served by the HTTP API |
+| 2026-09-24 22:47:45 | [mailcycle](https://crates.io/crates/mailcycle) | 0.1.0 | 0 | Rust client for the Mailcycle API. Create addresses that receive mail, read and… |
+| 2026-09-24 22:49:51 | [occupancy-map-rs](https://crates.io/crates/occupancy-map-rs) | 0.1.0 | 0 | Log-odds 2D occupancy grid mapping from metric optical-axis depth, camera intri… |
+| 2026-09-24 22:50:45 | [bite-gp-windows](https://crates.io/crates/bite-gp-windows) | 1.20.203 | 0 | gpui_windows — part of the bite-gpui rearchitecture of zed's gpui |
+| 2026-09-24 22:52:47 | [kova-api](https://crates.io/crates/kova-api) | 0.2.0 | 0 | Kova HTTP API: health probe and embedded GUI serving |
+| 2026-09-24 22:53:18 | [aether-state](https://crates.io/crates/aether-state) | 1.3.0 | 0 | Hybrid ledger, staking, bridges, governance, and execution for Aether |
+| 2026-09-24 22:54:26 | [unsynced](https://crates.io/crates/unsynced) | 0.1.0 | 0 | Crash-consistency explorer: enumerates every disk state a power loss can leave… |
+| 2026-09-24 22:55:34 | [syntrop-sentry-driver](https://crates.io/crates/syntrop-sentry-driver) | 0.1.0 | 0 | Pure Rust systemd drivers and host subsystem integrations for systemd-sentry |
+| 2026-09-24 22:57:58 | [obsidianlog-core](https://crates.io/crates/obsidianlog-core) | 0.2.0 | 0 | ObsidianLog core vocabulary: shared domain types, the canonical error, and the… |
+| 2026-09-24 23:00:27 | [consortium-integration](https://crates.io/crates/consortium-integration) | 0.2.0 | 0 | Shared integration contract for consortium: executor abstraction, fleet config,… |
+| 2026-09-24 23:00:31 | [consortium-integration-testkit](https://crates.io/crates/consortium-integration-testkit) | 0.2.0 | 0 | Abstract contract-test harness: uniform semantic contract suite for consortium… |
+| 2026-09-24 23:00:52 | [radiological-material-clearance-finder](https://crates.io/crates/radiological-material-clearance-finder) | 0.2.0 | 0 | Clearance indexes for radiological material against UK, German, US, EU and IAEA… |
+| 2026-09-24 23:01:39 | [kova-core](https://crates.io/crates/kova-core) | 0.2.0 | 0 | Kova engine binary: phase pipeline, logit gates, sandboxed checks |
+| 2026-09-24 23:03:19 | [aether-store](https://crates.io/crates/aether-store) | 1.3.0 | 0 | Sled-backed persistence and epoch snapshots for Aether Protocol |
+| 2026-09-24 23:05:33 | [syntrop-sentry-safety](https://crates.io/crates/syntrop-sentry-safety) | 0.1.0 | 0 | Deterministic zero-trust safety engine, sliding-window circuit breaker, and dro… |
+| 2026-09-24 23:09:43 | [git-custom-cli](https://crates.io/crates/git-custom-cli) | 1.0.0 | 0 | Fast, keyboard-driven terminal UI for dated Git commits |
+| 2026-09-24 23:12:33 | [whipplescript-test-executor](https://crates.io/crates/whipplescript-test-executor) | 0.6.0 | 0 | The Buck2 test executor of DR-0124 §14.5: speaks Buck2's external test-executor… |
+| 2026-09-24 23:13:12 | [whipplescript-remote-execution](https://crates.io/crates/whipplescript-remote-execution) | 0.6.0 | 0 | The remote-execution endpoint of DR-0124 §14.3–§14.4: the Remote Execution API'… |
+| 2026-09-24 23:14:23 | [aether-rpc](https://crates.io/crates/aether-rpc) | 1.3.0 | 0 | JSON-RPC and Prometheus metrics server for Aether Protocol |
+| 2026-09-24 23:15:33 | [syntrop-sentry-diagnostic](https://crates.io/crates/syntrop-sentry-diagnostic) | 0.1.0 | 0 | Diagnostic engine, LLM providers, and fallback triage for systemd-sentry |
 
 ## Data source
 
