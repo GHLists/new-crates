@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-24T10:26:05.941476Z,txwhy-verify,0.1.0,0,0,https://github.com/SUNDRAM07/txwhy,Offline verifier for TxWhy transaction repairs: proves a rebuilt Solana transaction only differs from the original in the ways a repair is allowed to.
+2026-09-24T10:31:59.556643Z,opensms,0.1.0,0,0,https://github.com/opensms-io/opensms-sdks,"Async Rust SDK for the OpenSMS prepaid SMS API (messages, batches, OTP, lookups, contacts, templates, webhooks, numbers, sender IDs, wallet, analytics)."
+2026-09-24T10:32:52.326204Z,grr-core,0.3.0,0,0,https://github.com/debanjanbasu/grr-cli,High-performance Gmail API core library with HTTP/3 and parallel batch operations
+2026-09-24T10:33:14.852585Z,grr-gmail,0.3.0,0,0,https://github.com/debanjanbasu/grr-cli,Gmail API client for the grr suite: typed endpoints over the shared HTTP/3 core
+2026-09-24T10:33:21.108713Z,grr-drive,0.3.0,0,0,https://github.com/debanjanbasu/grr-cli,Google Drive API client for the grr suite: typed endpoints over the shared HTTP/3 core
+2026-09-24T10:33:22.170782Z,svarog-ecdsa-otmta,0.4.0,0,0,https://github.com/taiyi-research-institute/svarog-ecdsa-otmta,DKLS23 threshold ECDSA with fresh oblivious transfer setup at signing time.
+2026-09-24T10:33:25.355162Z,grr-people,0.3.0,0,0,https://github.com/debanjanbasu/grr-cli,People (Contacts) API client for the grr suite: typed endpoints over the shared HTTP/3 core
+2026-09-24T10:35:30.607785Z,grr-chat,0.3.0,0,0,https://github.com/debanjanbasu/grr-cli,Google Chat API client for the grr suite: typed endpoints over the shared HTTP/3 core
+2026-09-24T10:39:49.090749Z,svarog-eddsa-sparkle,0.1.0,0,0,https://github.com/taiyi-research-institute/svarog-eddsa-sparkle,"Sparkle threshold EdDSA with distributed key generation, batch signing, and share rotation."
+2026-09-24T10:41:43.023777Z,grobid,0.1.0,0,0,https://github.com/schmettow/grobid-rs,Native Rust client for the GROBID REST API with a strongly typed TEI parser
+2026-09-24T10:49:33.620759Z,loongio,0.0.1,0,0,https://github.com/miaomiao1992,极简异步运行时库
+2026-09-24T10:53:43.371463Z,grr-forms,0.3.0,0,0,https://github.com/debanjanbasu/grr-cli,Google Forms API client for the grr suite: typed endpoints over the shared HTTP/3 core
+2026-09-24T10:59:44.690761Z,smg-rl,0.1.0,0,0,https://github.com/smg-project/smg,"RL control plane for SMG: worker discovery, engine-route passthrough, and fan-out"
+2026-09-24T11:00:28.152971Z,slideforge,0.1.1,0,0,https://github.com/WaibelJonas/slideforge,"Fast whole-slide image (WSI) tile extraction in Rust, with tissue detection, stain normalization, and TFRecord output."
+2026-09-24T11:00:47.474906Z,smg-external-router,0.1.0,0,0,https://github.com/smg-project/smg,"Routers for third-party providers behind the SMG gateway, and the contract they are built on"
+2026-09-24T11:03:43.774506Z,bonsai-lang-go,0.3.0,0,0,https://github.com/ryckakas/bonsai-lint,Go language support for bonsai-lint
+2026-09-24T11:07:07.58163Z,sqlcipher-wasm-src,419.0.0+sqlcipher-4.19.0-sqlite-3.53.4-libtomcrypt-1.18.2,0,0,https://github.com/LucaCappelletti94/sqlcipher-wasm-src,"SQLCipher with a libtomcrypt provider as C source, patched for wasm32 builds via sqlite-wasm-rs"
+2026-09-24T11:08:56.445693Z,riptering,0.6.0,0,0,https://github.com/Rhein-Industries/riptering,Maintained fork of kryptering: cryptographic operations with RustCrypto or AWS-LC software providers and PKCS#11 HSM backends
+2026-09-24T11:14:37.749107Z,steplock,0.1.0,0,0,https://github.com/polyhook/steplock,Stateful quality gate logic for steplock
+2026-09-24T11:15:07.274263Z,grr-calendar,0.3.0,0,0,https://github.com/debanjanbasu/grr-cli,Google Calendar API client for the grr suite: typed endpoints over the shared HTTP/3 core
+2026-09-24T11:19:14.82811Z,identus-derive,0.1.0-rc.1,0,0,https://github.com/hyperledger-identus/sdk-rust,Derive macros for validated Hyperledger Identus Rust SDK domain types.
+2026-09-24T11:19:19.175079Z,identus-core,0.1.0-rc.1,0,0,https://github.com/hyperledger-identus/sdk-rust,Chain-neutral core types and ports for the Hyperledger Identus Rust SDK.
+2026-09-24T11:19:36.538829Z,identus-crypto,0.1.0-rc.1,0,0,https://github.com/hyperledger-identus/sdk-rust,Reusable cryptographic primitives for Hyperledger Identus Rust SDK consumers.
+2026-09-24T11:25:23.189544Z,kcode-k1-http-audio-upload,0.1.0,0,0,,Current-only authenticated K1 audio upload submission
+2026-09-24T11:25:33.920211Z,grr-cli,0.3.0,0,0,https://github.com/debanjanbasu/grr-cli,"Google tools from the terminal, at maximum performance: zero-config Gmail, Calendar, Drive, Contacts, Chat and Forms over HTTP/3"
+2026-09-24T11:30:32.950715Z,kcode-k1-web-selection,0.1.0,0,0,,Select a frozen K1 Web dependency closure
+2026-09-24T11:33:17.031481Z,oii-derive,1.0.0,0,0,https://github.com/xyle-os/oii,derive FromNode for oii. no json needed
+2026-09-24T11:33:28.449749Z,bee_cache,1.1.1,0,0,https://github.com/erikwang2013/bee-rust,"A production-grade web framework for Rust, inspired by Go's Beego"
+2026-09-24T11:33:29.317774Z,bee_cli,1.1.1,0,0,https://github.com/erikwang2013/bee-rust,"A production-grade web framework for Rust, inspired by Go's Beego"
+2026-09-24T11:33:30.514015Z,bee_config_macro,1.1.1,0,0,,"A production-grade web framework for Rust, inspired by Go's Beego"
+2026-09-24T11:33:31.235452Z,bee_graph,1.1.1,0,0,https://github.com/erikwang2013/bee-rust,"A production-grade web framework for Rust, inspired by Go's Beego"
+2026-09-24T11:33:32.083924Z,bee_kv,1.1.1,0,0,https://github.com/erikwang2013/bee-rust,"A production-grade web framework for Rust, inspired by Go's Beego"
+2026-09-24T11:34:12.546645Z,martensite-pdf-platform,0.19.0,0,0,https://github.com/jxoesneon/martensite,OS-adjacent PDF rasterizer backends for martensite-pdf — poppler (pdftoppm/pdfinfo) and mupdf (mutool) subprocess providers.
+2026-09-24T11:35:59.773353Z,reglyco-report,0.1.0,0,0,https://github.com/Ojas-Singh/ReGlyco,Machine-readable ReGlyco workflow reports
+2026-09-24T11:36:02.542243Z,reglyco-saxs,0.1.0,0,0,https://github.com/Ojas-Singh/ReGlyco,SAXS-refinement interfaces for ReGlyco
+2026-09-24T11:36:05.828145Z,reglyco-validate,0.1.0,0,0,https://github.com/Ojas-Singh/ReGlyco,Structural validation interfaces for ReGlyco
+2026-09-24T11:36:10.114703Z,reglyco-refine,0.1.0,0,0,https://github.com/Ojas-Singh/ReGlyco,"Search, build, and relaxation orchestration for ReGlyco"
+2026-09-24T11:36:21.824038Z,reglyco-workflow,0.1.0,0,0,https://github.com/Ojas-Singh/ReGlyco,In-memory workflow orchestration and browser contracts for ReGlyco
+2026-09-24T11:36:42.112873Z,bee_config,1.1.1,0,0,,"A production-grade web framework for Rust, inspired by Go's Beego"
+2026-09-24T11:37:01.481864Z,cargo-issafe,0.1.0,0,0,https://github.com/SzilvasiPeter/cargo-issafe,Minimalist Rust CLI for detecting unsafe keyword usage in crates and dependencies
+2026-09-24T11:39:29.172879Z,playback-core,0.1.0,0,0,https://github.com/playback-rs/playback,"Core parsing, state, and media-engine abstractions for PlayBack."
+2026-09-24T11:39:41.826247Z,playback-config,0.1.0,0,0,https://github.com/playback-rs/playback,Lua configuration engine for PlayBack.
+2026-09-24T11:40:01.683145Z,playback-ui,0.1.0,0,0,https://github.com/playback-rs/playback,PlayBack's platform-neutral UI model and native integration boundary.
+2026-09-24T11:40:27.337866Z,playback-cli,0.1.0,0,0,https://github.com/playback-rs/playback,The mpv-compatible PlayBack command-line entry point.
+2026-09-24T11:41:17.464237Z,rl-pm,2.2.0,0,0,https://github.com/rl-lang/rl-lang,Package manager for the rl-lang toolchain
+2026-09-24T11:44:40.649139Z,reglyco-wasm,0.1.0,0,0,https://github.com/Ojas-Singh/ReGlyco,Browser WASM bindings for ReGlyco workflows
+2026-09-24T11:45:42.621958Z,rl-manager,2.2.0,0,0,https://github.com/rl-lang/rl-lang,"rl-lang toolchain manager - install, update, and manage rl binaries"
+2026-09-24T11:46:30.860522Z,bee_template,1.1.1,0,0,https://github.com/erikwang2013/bee-rust,"A production-grade web framework for Rust, inspired by Go's Beego"
+2026-09-24T11:47:51.981486Z,dagq,0.3.0,0,0,https://github.com/hisamekms/dagq,A dependency-aware task queue for cmux and isolated Git worktrees
