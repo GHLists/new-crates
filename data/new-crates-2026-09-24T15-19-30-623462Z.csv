@@ -1,0 +1,2 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-24T15:19:01.88315Z,chilkat,11.6.1,0,0,https://www.chilkatsoft.com/rust.asp,"The Chilkat class library for Rust: HTTP, REST, email (SMTP/POP3/IMAP), FTP, SFTP, SSH, zip, encryption, digital signatures, certificates, XML, JSON and more."
