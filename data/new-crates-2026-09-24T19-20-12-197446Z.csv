@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-24T18:26:31.103574Z,ecat-mq-mqtt,3.0.3,0,0,https://github.com/erikwang2013/e-cat,MQTT message queue backend for e-cat
+2026-09-24T18:26:43.972881Z,vdm_fyi,0.5.0,0,0,https://github.com/kossnocorp/vdm,Vendored dependencies manager
+2026-09-24T18:28:43.009977Z,llama-harness-programmatic-sandbox,0.2.0,0,0,https://github.com/tyhuang9/llama-harness,Deterministic no-std program sandbox contracts for llama-harness
+2026-09-24T18:33:36.762896Z,quilt-canary,0.1.0,0,0,,FNV-1a 64-bit canary in Rust
+2026-09-24T18:36:31.500965Z,ecat-registry-consul,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Consul service registry backend for e-cat
+2026-09-24T18:38:21.51374Z,sandogasa-cve,0.25.0,0,0,https://github.com/slopfest/sandogasa,"Where a CVE is fixed: NVD and GitHub advisory data, and judging a build against it"
+2026-09-24T18:39:34.037686Z,nizaam-core,1.0.0,0,0,https://github.com/nizaam-islamic-ecosystem/core,"Domain-agnostic Rust infrastructure core for building secure, observable, reliable, and extensible Nizaam engines."
+2026-09-24T18:40:24.488767Z,rcsa,0.1.0,0,0,https://github.com/cesbo/libcsa,DVB Common Scrambling Algorithm (CSA) descrambler and scrambler for MPEG-TS
+2026-09-24T18:43:43.79842Z,astli-text,0.1.0,0,0,https://github.com/fischeti/astli,"Files, spans, and macro-expansion provenance for SystemVerilog tooling"
+2026-09-24T18:43:46.484977Z,astli-syntax,0.1.0,0,0,https://github.com/fischeti/astli,"Lossless syntax tree, lexer, and preprocessor for SystemVerilog"
+2026-09-24T18:43:48.627855Z,astli-preproc,0.1.0,0,0,https://github.com/fischeti/astli,"Directives, macro expansion, and `include resolution for SystemVerilog"
+2026-09-24T18:43:50.588533Z,astli-diag,0.1.0,0,0,https://github.com/fischeti/astli,"Rendering a SystemVerilog diagnostic: snippets, and the chains that explain them"
+2026-09-24T18:43:51.274634Z,astli-parse,0.1.0,0,0,https://github.com/fischeti/astli,Event-based parser building a lossless SystemVerilog syntax tree
+2026-09-24T18:46:32.60556Z,ecat-data-opensearch,3.0.3,0,0,https://github.com/erikwang2013/e-cat,OpenSearch search engine client for e-cat
+2026-09-24T18:50:14.182647Z,jigor,0.1.0,0,0,https://github.com/Partysun/jigor,System One decision gateway — local von/laya ONNX backends (ort) plus the remote jev API (OpenRouter Decisions)
+2026-09-24T18:50:27.695591Z,jigor-cli,0.1.0,0,0,https://github.com/Partysun/jigor,"jigor CLI + HTTP gateway — serve/ask/models over the System One wire protocol (von/laya local ONNX, jev on OpenRouter Decisions)"
+2026-09-24T18:51:17.011076Z,rusting-core,0.1.0,0,0,https://github.com/GoingRusting/RustingEngine,"Core ECS components, transforms, hierarchy, time, input, events, and schedule stages for RustingEngine"
+2026-09-24T18:51:56.494674Z,img-fp,0.7.0,0,0,https://github.com/Danielnara24/img-fp,"Finds duplicate and near-duplicate images: re-encoded, resized, cropped, rotated, recoloured or embedded"
+2026-09-24T18:51:58.587713Z,mummu-mix,0.4.1,0,0,https://github.com/physics515/Mummu,Scheduler B: per-tensor precision placement under a byte budget.
+2026-09-24T18:52:03.582525Z,mummu-schedule,0.4.1,0,0,https://github.com/physics515/Mummu,Scheduler A: divide work across heterogeneous devices to minimize makespan.
+2026-09-24T18:53:53.902303Z,mummu,0.4.1,0,0,https://github.com/physics515/Mummu,"From-scratch Burn model runner: import any open model, quantize it to fit, run it on all the hardware you have."
+2026-09-24T18:55:28.320408Z,astli-fmt,0.1.0,0,0,https://github.com/fischeti/astli,SystemVerilog formatter that leaves the preprocessed meaning unchanged
+2026-09-24T18:56:30.459846Z,ecat-transport-ws,3.0.3,0,0,https://github.com/erikwang2013/e-cat,WebSocket transport implementation for e-cat
+2026-09-24T19:03:29.488857Z,serc,0.0.0,0,0,https://github.com/astral-sh/serc,Placeholder release for serc
+2026-09-24T19:03:39.432786Z,aws-sdk-eventbridgev2,1.0.0,0,0,https://github.com/awslabs/aws-sdk-rust,AWS SDK for Amazon EventBridgeV2
+2026-09-24T19:03:48.0687Z,serc-cli,0.0.0,0,0,https://github.com/astral-sh/serc,Placeholder release for serc-cli
+2026-09-24T19:05:35.951689Z,astli,0.1.0,0,0,https://github.com/fischeti/astli,"SystemVerilog language tooling: a lossless syntax tree, a preprocessor, and a formatter"
+2026-09-24T19:06:34.748117Z,ecat-data-mongodb,3.0.3,0,0,https://github.com/erikwang2013/e-cat,MongoDB document database client for e-cat
+2026-09-24T19:11:39.077673Z,echovalidum,0.1.0,0,0,,Lattice engine for the echovalidum brand: a cell carries trust and phase.
+2026-09-24T19:15:16.397841Z,nago-telegram,0.1.0,0,0,https://github.com/pathscale/nago-telegram,"A Telegram Bot API client over nago-http. No tokio, no OpenSSL, no C"
+2026-09-24T19:15:43.248769Z,astli-cli,0.1.0,0,0,https://github.com/fischeti/astli,"The astli command: SystemVerilog formatting, and a dump of each stage of the pipeline"
+2026-09-24T19:16:40.754072Z,ecat-mq-rabbitmq,3.0.3,0,0,https://github.com/erikwang2013/e-cat,RabbitMQ message queue backend for e-cat
+2026-09-24T19:18:37.608916Z,kcode-k1-http-access-profile-presentation-representation,0.1.0,0,0,,HTTP representation for K1 access profile presentations
