@@ -1,0 +1,60 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-24T14:13:20.422332Z,inillucent-exec,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,Push-based vectorised executor over batches that borrow from pinned pages
+2026-09-24T14:14:19.874006Z,egui_tokio_utils,0.1.1,0,0,,random utils for working with tokio and egui
+2026-09-24T14:14:27.531429Z,bevy_split_screen,0.1.0,0,0,https://github.com/snappa-app/bevy_split_screen,Automatic split screen camera viewports for local multiplayer Bevy games
+2026-09-24T14:14:41.5249Z,frus-gpu,0.2.1,0,0,https://github.com/KalybosPro/frus,frus — GPU context and 2D rendering engine (Milestone 0)
+2026-09-24T14:16:50.721341Z,concerto-animation,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T14:16:56.246048Z,ecat-lock,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Distributed lock abstraction for e-cat
+2026-09-24T14:19:20.327092Z,gdtf-share,0.1.0,0,0,https://github.com/BaukeWestendorp/gdtf-share-rs,Library for interacting with the GDTF Share API.
+2026-09-24T14:20:58.266907Z,nle-cloud-sdk,0.1.0,0,0,https://github.com/vect-maker/nle-cloud-rust-sdk,Unofficial asynchronous Rust SDK for the NLECloud (新大陆物联网云平台) IoT platform
+2026-09-24T14:21:26.645671Z,compare-json,0.1.0,0,0,https://github.com/unitstack/compare-json-rust,JSON comparison library and CLI tool
+2026-09-24T14:22:27.26402Z,martensite-pdf,0.19.0,0,0,https://github.com/jxoesneon/martensite,"PDF document/render contract — document info, page rasterization trait, and a procedural blank-document backend for tests."
+2026-09-24T14:23:23.568745Z,inillucent-ext,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,"Scalar, aggregate, and window functions, collations, virtual tables, and loadable extension policy."
+2026-09-24T14:26:01.550959Z,frus-widgets,0.2.1,0,0,https://github.com/KalybosPro/frus,frus — declarative widget tree
+2026-09-24T14:26:48.602599Z,concerto-asset-import,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T14:26:54.732364Z,ecat-tls,3.0.3,0,0,https://github.com/erikwang2013/e-cat,TLS config and certificate generation for e-cat data backends
+2026-09-24T14:32:32.156166Z,martensite-design-lint,0.19.0,0,0,https://github.com/jxoesneon/martensite,"Design-standard linting for Martensite UIs — WCAG, ISA-101, cognitive-load, and information-design rules evaluated over paint-tree scope geometry."
+2026-09-24T14:32:58.850596Z,zombie-bite-core,0.5.0,0,0,https://github.com/pepoviola/zombie-bite,Fork a live relay chain and its parachains into a local network
+2026-09-24T14:33:00.393303Z,zombie-bite,0.5.0,0,0,https://github.com/pepoviola/zombie-bite,Cli to fork a live relay chain and its parachains into a local network
+2026-09-24T14:33:24.718751Z,inillucent-search,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,"SQL virtual table and index-method bridge to the existing BM25, vector, and hybrid ranking core."
+2026-09-24T14:34:47.27216Z,frus-shell,0.2.1,0,0,https://github.com/KalybosPro/frus,frus — the platform layer: window + event loop (Milestone 0)
+2026-09-24T14:36:46.485815Z,concerto-render-macros,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T14:37:14.558645Z,zakura-pir-enhance,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-09-24T14:37:18.613483Z,zakura-pir-enhance-types,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-09-24T14:38:04.284186Z,ecat-bench,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Benchmarking utilities for e-cat services
+2026-09-24T14:38:27.595405Z,samd5-boot,1.0.0,0,0,https://github.com/QuartzShard/samd5-boot,A bank-swapping A:B bootloader for ATSAMD/E5x microcontrollers.
+2026-09-24T14:38:44.619441Z,quvyta-browser,0.1.0,0,0,https://github.com/quvyta/browser,"A real web browser inside the terminal: an unmodified Chromium draws the pages, tabs and the address bar are the terminal's own"
+2026-09-24T14:39:53.437693Z,samd5-boot-tools,0.1.0,0,0,https://github.com/QuartzShard/samd5-boot,"Bench tooling for samd5-boot: fuse provisioning, bootloader flashing and image stamping for ATSAMD/E5x parts."
+2026-09-24T14:42:44.82436Z,sond,0.1.0,0,0,https://github.com/SimonBure/sond,"Append-only research logs, stored as Markdown next to your code or your project."
+2026-09-24T14:43:15.443922Z,inillucent-sqlite-reader,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,"Read-only reader for SQLite 3 database files, for test fixtures and migration"
+2026-09-24T14:44:41.826366Z,frus-test,0.2.1,0,0,https://github.com/KalybosPro/frus,"frus test tooling: headless rendering, snapshots, goldens"
+2026-09-24T14:46:50.157888Z,concerto-window,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T14:47:06.354437Z,ecat-config,3.0.3,0,0,https://github.com/erikwang2013/e-cat,"Configuration management with file, env, and obfuscated sources"
+2026-09-24T14:49:40.851303Z,kittycad-point,0.1.0,0,0,https://github.com/KittyCAD/modeling-app,Point implementations for use at Zoo in its API
+2026-09-24T14:51:14.269731Z,gogoldmark,0.1.0,0,0,https://github.com/niklabh/mattermost-rs,"Byte-exact port of yuin/goldmark v1.8.2 (CommonMark, the HTML renderer and GFM)"
+2026-09-24T14:51:15.770246Z,gohtml,0.1.0,0,0,https://github.com/niklabh/mattermost-rs,Byte-exact port of golang.org/x/net/html's tokenizer and HTML5 tree builder
+2026-09-24T14:51:17.32412Z,gomail,0.1.0,0,0,https://github.com/niklabh/mattermost-rs,Byte-exact port of the SMTP client and MIME writer behind Mattermost's mail
+2026-09-24T14:51:18.999409Z,gotemplate,0.1.0,0,0,https://github.com/niklabh/mattermost-rs,Byte-exact port of Go's text/template and html/template contextual escaper
+2026-09-24T14:51:24.415741Z,gohtml2text,0.1.0,0,0,https://github.com/niklabh/mattermost-rs,Byte-exact port of jaytaylor/html2text as Mattermost's mail sender calls it
+2026-09-24T14:51:52.326163Z,byo-alien,0.0.1,0,0,https://github.com/sbuckfelder/byo-alien,Library for building Bring Your Own Key (BYOK) LLM applications
+2026-09-24T14:52:38.95595Z,zhc_langs_macro,0.0.0,0,0,https://github.com/zama-ai/zhc,ZHC: Dialect definition macros
+2026-09-24T14:53:11.592494Z,inillucent-txn,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,"Transactions and MVCC: snapshots, the writer slot, undo buffers, the version log, savepoints and the commit gate"
+2026-09-24T14:54:16.125449Z,mung-cnv,0.2.1,0,0,https://github.com/causalpathlab/mung-cnv,Malignancy Unmixing on Normalized Genomes with CNV estimation — inferCNV-style profiles and clone strata
+2026-09-24T14:54:42.173974Z,frus,0.2.1,0,0,https://github.com/KalybosPro/frus,frus — the facade: a single dependency to write an application (shell + widgets + one entry point).
+2026-09-24T14:56:45.300835Z,ecat-config-remote,3.0.3,0,0,https://github.com/erikwang2013/e-cat,Remote configuration source for e-cat
+2026-09-24T14:56:52.501393Z,concerto-render,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T14:57:31.997463Z,pesti-structural-tokenizer,0.1.0,0,0,https://github.com/CromboJambo/pesti,Rust structural tokenizer for LLM code understanding. encodes syntactic boundaries as token boundaries
+2026-09-24T14:59:49.12285Z,sylphx,0.2.0,0,0,https://github.com/SylphxAI/sylphx-clients,"The Sylphx SDK: one API, one key, every Sylphx service. Generated from the Sylphx schema registry."
+2026-09-24T15:03:15.588194Z,inillucent-engine,0.1.8,0,0,https://github.com/Black-Rainbow-Labs/Inillucent,"The rearchitected engine as a database: import, catalog, DDL, pragmas, statements and virtual tables over the PAX trees."
+2026-09-24T15:06:36.923577Z,tk-pg-core,0.1.0,0,0,https://github.com/quantinuum/tket2,Core types and pass interfaces for Pauli graphs
+2026-09-24T15:06:49.678799Z,concerto-director,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T15:07:32.009303Z,ecat-openapi,3.0.3,0,0,https://github.com/erikwang2013/e-cat,OpenAPI specification generation for e-cat
+2026-09-24T15:09:34.322538Z,tk-pg-utils,0.1.0,0,0,https://github.com/quantinuum/tket2,Shared utilities for the pg-libs crates
+2026-09-24T15:09:54.952658Z,tk-pg-converter,0.1.0,0,0,https://github.com/quantinuum/tket2,Conversions between Pauli graphs and serialized TKET circuits
+2026-09-24T15:10:33.712721Z,chilkat-sys,11.6.1,0,0,https://www.chilkatsoft.com/rust.asp,Raw FFI declarations for the Chilkat C API and the build script that links the Chilkat library. Application code should use the `chilkat` crate.
+2026-09-24T15:10:43.533297Z,tk-pg-bitpacked,0.1.0,0,0,https://github.com/quantinuum/tket2,Clifford conjugation kernels for packed Pauli representations
+2026-09-24T15:13:36.033199Z,tk-pg-ir-kernels,0.1.0,0,0,https://github.com/quantinuum/tket2,Rewrite operations and tableau interfaces for Pauli graphs
+2026-09-24T15:13:56.616704Z,tk-pg-qm-tableau,0.1.0,0,0,https://github.com/quantinuum/tket2,Clifford tableaux with a qubit major memory layout
+2026-09-24T15:16:31.337491Z,ecat-security,3.0.3,0,0,https://github.com/erikwang2013/e-cat,WAF/security scanning middleware for e-cat
+2026-09-24T15:16:49.472001Z,concerto-gameplay,0.1.0,0,0,https://github.com/GuilhermeGSousa/concerto,"A game engine for character-driven, high-fidelity cinematic games."
+2026-09-24T15:16:53.912777Z,biujs,0.1.0-alpha.0,0,0,https://github.com/zzzdong/biujs,"A lightweight, embeddable JavaScript engine with ES6 support"
