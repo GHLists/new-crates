@@ -1,0 +1,53 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T12:25:40.704493Z,saya-harness,0.4.1,0,0,https://github.com/databook-studio/saya-cli,"Run engine for SAYA: run directories, paths, and the single-writer lock."
+2026-09-25T12:27:44.560415Z,rudb-qc-ir,0.5.0,0,0,https://github.com/tamnd/rudb,"QIR, the flat SSA pipeline IR the query compiler's translators write and its backends read."
+2026-09-25T12:27:48.93828Z,rudb-qc-interp,0.5.0,0,0,https://github.com/tamnd/rudb,The query compiler's first tier: runs QIR pipeline functions without generating machine code.
+2026-09-25T12:27:55.563879Z,rudb-qc-rt,0.5.0,0,0,https://github.com/tamnd/rudb,"The query compiler's runtime: the pipeline ABI, strings, hash tables and the functions compiled code calls."
+2026-09-25T12:28:00.036482Z,rudb-qc-plan,0.5.0,0,0,https://github.com/tamnd/rudb,"The query compiler's physical plan: the part of an optimized plan the compiled engine runs, or why it refuses."
+2026-09-25T12:28:04.912445Z,rudb-qc-pipe,0.5.0,0,0,https://github.com/tamnd/rudb,"The query compiler's pipelines: the physical plan cut at its breakers, with each run of filters and projections folded into the pipeline it belongs to."
+2026-09-25T12:28:24.353166Z,linux-oom-parser,0.1.0,0,0,,Parse Linux OOM killer log messages into typed records using winnow
+2026-09-25T12:28:58.567383Z,tunelith-core,0.1.0,0,0,https://github.com/siketyan/tunelith,"Core types and traits of Tunelith, a tuner abstraction for Japanese digital broadcasting"
+2026-09-25T12:29:05.929153Z,tunelith,0.1.0,0,0,https://github.com/siketyan/tunelith,"Client of tunelithd, sharing Japanese digital broadcasting tuners"
+2026-09-25T12:29:09.146647Z,tunelith-driver-pt4k,0.1.0,0,0,https://github.com/siketyan/tunelith,Tunelith driver for PT4K (TBS6812)
+2026-09-25T12:29:22.447336Z,tunelith-driver-px4,0.1.0,0,0,https://github.com/siketyan/tunelith,"Tunelith driver for the PLEX PX4/PX-MLT series and their kin, run in user space over USB"
+2026-09-25T12:35:59.579442Z,kartei,0.0.0,0,0,https://github.com/espadat-studio/kartei,"Keyboard-driven TUI for vCard contacts in a vdir, with lossless round-trip edits (in development)"
+2026-09-25T12:36:34.797696Z,tunelith-cli,0.1.0,0,0,https://github.com/siketyan/tunelith,"Tunes Japanese digital broadcasts by frequency and stream id, writing the stream to stdout"
+2026-09-25T12:38:45.074223Z,tunelithd,0.1.0,0,0,https://github.com/siketyan/tunelith,Daemon sharing Japanese digital broadcasting tuners among programs
+2026-09-25T12:39:09.89936Z,rudb-qc-gen,0.5.0,0,0,https://github.com/tamnd/rudb,"The query compiler's generator: one QIR function per pipeline, with the state layout the driver sets up for it."
+2026-09-25T12:39:31.175918Z,message-template,0.1.0,0,0,https://github.com/banocean/message-template.git,"A simple templating language for generating short messages, with support for all the necessary statements and expressions."
+2026-09-25T12:40:20.795423Z,polyc-judgment,2026.9.6,0,0,https://github.com/officialunofficial/polychrome,"Provider-agnostic judgment trait: typed yes/no and choice questions over a state, answered with calibrated probabilities."
+2026-09-25T12:44:45.409583Z,dodb-core,0.1.0,0,0,https://github.com/NamseEnt/fn0,"Core types for dodb, the fn0 document database"
+2026-09-25T12:44:46.315046Z,fn0-doc-db-protocol,0.1.0,0,0,https://github.com/NamseEnt/fn0,Versioned semantic document database protocol shared by fn0 guests and hosts
+2026-09-25T12:44:47.898841Z,dodb-service,0.1.0,0,0,https://github.com/NamseEnt/fn0,"Service layer for dodb, the fn0 document database"
+2026-09-25T12:44:50.435915Z,dodb-protocol,0.1.0,0,0,https://github.com/NamseEnt/fn0,"Wire protocol for dodb, the fn0 document database"
+2026-09-25T12:44:53.016421Z,dodb-client,0.1.0,0,0,https://github.com/NamseEnt/fn0,"Client for dodb, the fn0 document database"
+2026-09-25T12:45:23.503378Z,kcode-k1-chat-chatend-testkit,0.1.0,0,0,,Concrete downstream conformance assertions for K1 Chatend
+2026-09-25T12:45:31.335067Z,nichlink-core,0.1.0,0,0,https://github.com/Nichtigott/nichlink,"Registry, transaction, contracts, grafts, and diagnostics for NichLink"
+2026-09-25T12:45:37.839202Z,nichlink-macro,0.1.0,0,0,https://github.com/Nichtigott/nichlink,Face field normalisation and diagnostics for NichLink's authoring macros
+2026-09-25T12:45:43.0991Z,nichlink-build-method,0.1.0,0,0,https://github.com/Nichtigott/nichlink,"Source discovery, manifest parsing, cache, scope, and StaticPlan generation"
+2026-09-25T12:45:44.494937Z,polyc-judgment-systemone,2026.9.6,0,0,https://github.com/officialunofficial/polychrome,"JudgmentProvider backend over the System One protocol, reached through a gateway (POST {base_url}/systemone)."
+2026-09-25T12:45:47.12342Z,nichlink-mcp,0.1.0,0,0,https://github.com/Nichtigott/nichlink,MCP stdio bridge for the five compact NichLink Rust source queries
+2026-09-25T12:45:50.115912Z,nichlink-run-method,0.1.0,0,0,https://github.com/Nichtigott/nichlink,"Runtime registry trees, transactions, tracing, plugins, and authoring for NichLink"
+2026-09-25T12:46:01.673633Z,polyc-judgment-completion,2026.9.6,0,0,https://github.com/officialunofficial/polychrome,JudgmentProvider fallback backend over any polyc-llm completion model.
+2026-09-25T12:49:54.497712Z,rudb-qc,0.5.0,0,0,https://github.com/tamnd/rudb,The compiled engine's driver: runs the generated pipelines over the first engine's scans and turns what they wrote into chunks.
+2026-09-25T12:50:32.355148Z,iso-843,0.1.0,0,0,https://github.com/misaka10987/iso-843,Rust Implementation (Lib / CLI) of the ISO 843 Greek Letter Transcription Standard.
+2026-09-25T12:51:17.510087Z,redfolder,1.0.0,0,0,https://github.com/0xbarss/redfolder,Async economic calendar client and automated trading blackout engine for algorithmic traders and prop firms
+2026-09-25T12:56:06.043909Z,encdr,0.3.3,0,0,https://github.com/RufusIbiza/Encdr,Native Instruments USB HID hardware and screen communication layer
+2026-09-25T12:56:13.788682Z,encdr-view,0.3.3,0,0,https://github.com/RufusIbiza/Encdr,WebView-based screen renderer for encdr controller screens
+2026-09-25T12:58:46.659048Z,nichlink-debug-method,0.1.0,0,0,https://github.com/Nichtigott/nichlink,"Optional MIR, CallTrace, data-flow, and graph evidence for NichLink"
+2026-09-25T12:59:08.253868Z,arora-module-macros,1.0.0,0,0,https://github.com/semio-ai/arora-sdk,"Declare an Arora module on a Rust module: #[module], #[export], #[param], declare_module!, module_from_header!."
+2026-09-25T12:59:32.296751Z,arora-module,1.0.0,0,0,https://github.com/semio-ai/arora-sdk,Write an Arora module in Rust: the declaration macros and the traits they implement.
+2026-09-25T13:04:18.737745Z,kcode-k1-chat-state-testkit,0.1.0,0,0,,Concrete downstream conformance assertions for K1 chat state
+2026-09-25T13:06:13.679214Z,rosu-pp-gemini,5.0.1,0,0,https://github.com/Raregendary/rosu-pp-gemini,Difficulty and performance calculation for osu!
+2026-09-25T13:08:50.018058Z,souls-crypt,0.0.1,0,0,https://github.com/Secure-Your-Soul/SoulsAPI,SoulsAPI Cryptography utilities
+2026-09-25T13:08:50.511079Z,souls-http,0.0.1,0,0,https://github.com/Secure-Your-Soul/SoulsAPI,SoulsAPI HTTP utilities
+2026-09-25T13:08:56.418461Z,protoc-gen-rust-aip,0.1.0,0,0,https://github.com/protoc-contrib/protoc-gen-rust-aip,"protoc plugin that emits Rust helpers for Google AIP-shaped APIs: typed resource names, create IDs, update-mask paths and the OUTPUT_ONLY clearing walk."
+2026-09-25T13:09:10.907287Z,rtosu-dataprovider,1.0.1,0,0,https://github.com/Raregendary/rtosu-dataprovider,A lightweight native Rust data provider emitting tosu-compatible v2 JSON and WebSocket feeds for osu!
+2026-09-25T13:10:46.930912Z,zopra-gpui-view,0.1.0,0,0,https://github.com/wsafight/gpui-rsx,A JSX-like macro for GPUI - simplify UI development with HTML-like syntax
+2026-09-25T13:16:24.400998Z,souls,0.0.1,0,0,https://github.com/Secure-Your-Soul/SoulsAPI,SoulsAPI (facade) for the Secure Your Soul project
+2026-09-25T13:17:52.726935Z,pipecircuit-macros,0.0.2,0,0,,Derive macros for Pipecircuit
+2026-09-25T13:19:17.446804Z,rdi-core,0.0.0,0,0,https://github.com/s0d3s/rusty-desktop-icons,Empty trusted-publishing bootstrap for rusty-desktop-icons; not the functional library.
+2026-09-25T13:19:21.581038Z,rdi-platform-stub,0.0.0,0,0,https://github.com/s0d3s/rusty-desktop-icons,Empty trusted-publishing bootstrap for rusty-desktop-icons; not the functional library.
+2026-09-25T13:19:25.940001Z,rdi-platform-macos,0.0.0,0,0,https://github.com/s0d3s/rusty-desktop-icons,Empty trusted-publishing bootstrap for rusty-desktop-icons; not the functional library.
+2026-09-25T13:19:30.135763Z,rdi-platform-windows,0.0.0,0,0,https://github.com/s0d3s/rusty-desktop-icons,Empty trusted-publishing bootstrap for rusty-desktop-icons; not the functional library.
+2026-09-25T13:19:34.538563Z,rdi-platform-linux,0.0.0,0,0,https://github.com/s0d3s/rusty-desktop-icons,Empty trusted-publishing bootstrap for rusty-desktop-icons; not the functional library.
