@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T20:22:00.950237Z,senna-rs,0.18.0,0,0,https://github.com/causalpathlab/senna-rs,Stochastic embedding with nearest-neighbourhood adjustment
+2026-09-25T20:26:34.398388Z,legume-annotate,0.0.0,0,0,https://github.com/causalpathlab/lupin-rs,"Cell-type annotation (projection, enrichment, ontology)"
+2026-09-25T20:26:54.575461Z,legume-lineage,0.0.0,0,0,https://github.com/causalpathlab/lupin-rs,"Lineage inference, pseudotime, dyn-assoc, and lineage plots"
+2026-09-25T20:27:07.767048Z,legume-gene-text,0.0.0,0,0,https://github.com/causalpathlab/lupin-rs,"Text side of the feature graph: Hugging Face encoder over gene, term and pathway descriptions, vocabulary, and gene–word edges for senna fne"
+2026-09-25T20:27:17.390109Z,lupin-rs,0.1.1,0,0,https://github.com/causalpathlab/lupin-rs,"Label, Unfold, Place, Interpret, Narrate — annotation, lineage, pseudotime, association, description, and plots"
+2026-09-25T20:33:18.337207Z,hashseek,0.1.1,0,0,https://github.com/prashantkhandelwal/hashseek,Retrieve BitTorrent metadata from an infohash without downloading content
+2026-09-25T20:48:55.375353Z,kcode-k1-chat-thread-durable-turn,0.1.0,0,0,,Synchronous durable turn owner for one K1 chat thread
+2026-09-25T20:52:23.122843Z,kcode-k1-chat-thread-durable-state,0.1.0,0,0,,Durable synchronous state transitions for one K1 chat thread
+2026-09-25T20:55:44.110822Z,chromatree,0.3.0,0,0,https://github.com/INFNYTY/ChromaTree,ChromaTree: a declarative tree-tinting language
+2026-09-25T20:56:10.366333Z,kcode-k1-chat-thread-actor-channel,0.2.0,0,0,,Concrete command channel for the K1 chat-thread session actor
+2026-09-25T21:04:48.360496Z,kcode-k1-ktool-set-launch-node,0.1.0,0,0,,Standalone SetLaunchNode Ktool operation for K1
+2026-09-25T21:05:35.999755Z,cherenkov-shader,0.0.0,0,0,https://github.com/water-rs/cherenkov,"Shader composer on naga IR, shared by Cherenkov and filtrate"
+2026-09-25T21:11:55.403629Z,math-sonify,1.4.0,0,0,https://github.com/Mattbusel/math-sonify,"Real-time procedural audio from mathematical dynamical systems (Lorenz, Rossler, Double Pendulum, and more)"
+2026-09-25T21:12:01.695214Z,commerce,0.0.1,0,0,,Shared framework for agentic commerce in Rust.
+2026-09-25T21:15:34.091623Z,chaos-rpg-core,2.2.0,0,0,https://github.com/Mattbusel/chaos-rpg,"Core game logic for CHAOS RPG: math engines, combat, characters, items, and world generation"
+2026-09-25T21:15:50.080533Z,chaos-rpg-audio,2.2.0,0,0,https://github.com/Mattbusel/chaos-rpg,Procedural audio synthesis for CHAOS RPG
+2026-09-25T21:16:14.597979Z,chaos-rpg,2.2.0,0,0,https://github.com/Mattbusel/chaos-rpg,CHAOS RPG: terminal frontend with ratatui
+2026-09-25T21:16:38.830958Z,chaos-rpg-graphical,2.2.0,0,0,https://github.com/Mattbusel/chaos-rpg,CHAOS RPG: graphical frontend with bracket-lib
+2026-09-25T21:17:39.739056Z,kcode-k1-chat-thread-provider,0.1.0,0,0,,Concrete native Codex provider-session owner for one K1 chat thread
+2026-09-25T21:18:07.388974Z,kcode-k1-chat-thread-session-actor,0.1.0,0,0,,Concrete asynchronous session actor for one durable K1 chat thread
+2026-09-25T21:18:21.162466Z,chaos-rpg-proof,2.2.0,0,0,https://github.com/Mattbusel/chaos-rpg,CHAOS RPG: proof-engine graphical frontend
+2026-09-25T21:19:09.605878Z,molframe-seq,0.1.0,0,0,https://github.com/miguelcsx/molframe,Sequence alignment and comparison for molframe
+2026-09-25T21:19:12.617753Z,molframe-mmap,0.1.0,0,0,https://github.com/miguelcsx/molframe,Audited read-only memory mapping boundary for molframe
