@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T21:19:16.86692Z,molframe-core,0.1.0,0,0,https://github.com/miguelcsx/molframe,"Core types, storage and analysis contracts for molframe"
+2026-09-25T21:19:18.809674Z,ripbi-xpress9,0.6.0,0,0,https://github.com/bgarcevic/ripbi,"Safe, statically linked XPress9 chunk decoder for Power BI ABF backups (ripbi)"
+2026-09-25T21:19:22.440833Z,molframe-engine,0.1.0,0,0,https://github.com/miguelcsx/molframe,Typed workflow compilation and deterministic execution for MolFrame
+2026-09-25T21:19:25.809041Z,molframe-audit,0.1.0,0,0,https://github.com/miguelcsx/molframe,Bounded policy-sensitivity audits for molframe analyses
+2026-09-25T21:21:56.722686Z,xlsynth-ir-value,0.72.0,0,0,https://github.com/xlsynth/xlsynth-crate,Native Rust values and types for XLS IR
+2026-09-25T21:28:31.899832Z,sponsored-logs,0.1.0,0,0,https://github.com/sponsoredlogs/sponsored-logs-rs,The world's first Log-Native Advertising Platform for Rust. Monetize your tracing exhaust.
+2026-09-25T21:30:08.762699Z,deltex-tauri-plugin-sql,2.4.1,0,0,https://github.com/tauri-apps/plugins-workspace,Interface with SQL databases.
+2026-09-25T21:32:00.55145Z,molframe-cif,0.1.0,0,0,https://github.com/miguelcsx/molframe,PDBx/mmCIF reading and writing for molframe
+2026-09-25T21:34:09.59231Z,eventful-rs-macros,0.1.0,0,0,https://github.com/DreamLogics/eventful-rs,Procedural macros for eventful-rs typed events and shard dispatch
+2026-09-25T21:34:40.344184Z,eventful-rs,0.1.0,0,0,https://github.com/DreamLogics/eventful-rs,"Thread-affine values, typed events, and asynchronous method dispatch for Rust"
+2026-09-25T21:35:18.493947Z,abi-typegen-runtime,0.6.0,0,0,https://github.com/doublesharp/abi-typegen,Shared ABI codec runtime for generated C and C++ contract bindings
+2026-09-25T21:41:10.411815Z,kcode-k1-chat-thread-main-mailbox,0.2.0,0,0,,Concrete mailbox boundary for the unified K1 chat runtime
+2026-09-25T21:53:34.454513Z,alpha2,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,"Standalone media engine for timeline composition, GPU rendering, and export."
+2026-09-25T21:56:25.333528Z,rspad,0.1.1,0,0,https://github.com/ThePratikSah/rspad,"A fast, offline Rust scratchpad and REPL daemon running locally in your browser"
+2026-09-25T21:56:59.246603Z,g3-kit-macros,0.1.0,0,0,https://github.com/g3techhq/g3-kit,Proc macros for g3-kit: `#[cache_shared]` and `#[public]`.
+2026-09-25T21:57:16.518709Z,g3-kit,0.1.0,0,0,https://github.com/g3techhq/g3-kit,"The shared core of g3 stack apps: client, server and CDN caching, and session auth, for Dioxus fullstack."
+2026-09-25T22:03:18.726549Z,tft-synapse-types,0.6.0,0,0,https://github.com/Mattbusel/tft-synapse,Shared domain types for the TFT Synapse platform
+2026-09-25T22:03:20.428573Z,tft-synapse-capture,0.6.0,0,0,https://github.com/Mattbusel/tft-synapse,Live Client API and screen capture input for TFT Synapse.
+2026-09-25T22:03:20.645944Z,tft-synapse-data,0.6.0,0,0,https://github.com/Mattbusel/tft-synapse,"Game data catalog (augments, champions, traits, items) for TFT Synapse."
+2026-09-25T22:03:21.453609Z,tft-synapse-game-state,0.6.0,0,0,https://github.com/Mattbusel/tft-synapse,Game state model for TFT Synapse.
+2026-09-25T22:05:44.955168Z,molframe-geom,0.1.0,0,0,https://github.com/miguelcsx/molframe,Geometric kernels for molframe
+2026-09-25T22:07:00.061591Z,kcode-k1-chat-thread-main-actor-test-fixture,0.1.0,0,0,,Concrete fake app-server fixture for the K1 chat-thread main-actor testkit
+2026-09-25T22:07:12.709854Z,molframe-bcif,0.1.0,0,0,https://github.com/miguelcsx/molframe,"BinaryCIF codecs, lazy document container, reader and writer for molframe"
+2026-09-25T22:07:18.042297Z,molframe-chem,0.1.0,0,0,https://github.com/miguelcsx/molframe,Deposited-component chemistry and versioned element data for molframe
+2026-09-25T22:07:43.266375Z,crypto-orderbook,0.2.0,0,0,https://github.com/Mattbusel/crypto-orderbook,"Live, correctly sequenced Binance spot order book served over HTTP, WebSocket and Prometheus"
+2026-09-25T22:09:17.53058Z,molframe-modelcif,0.1.0,0,0,https://github.com/miguelcsx/molframe,ModelCIF metadata and confidence metrics for molframe
+2026-09-25T22:12:12.904407Z,proptest-residual-risk,0.1.0,0,0,https://github.com/niMgnoeSeeL/proptest-residual-risk,"How much a passing proptest has shown: coverage, the chance of new code, and a 95% upper bound on the failure probability"
+2026-09-25T22:13:17.394663Z,kithara-derive,0.0.1-alpha5,0,0,,"kithara derive macros for configuration documents, bounded scalars, events, and event sets."
+2026-09-25T22:13:53.497464Z,kithara-devtools,0.0.1-alpha5,0,0,https://github.com/zvuk/kithara,"Reusable, config-driven xtask command core (lint, format, test, health and friends)"
+2026-09-25T22:14:19.381323Z,kithara-mp4,0.0.1-alpha5,0,0,https://github.com/zvuk/kithara,"Fragmented-mp4 box walk that reads headers and seeks over payload, yielding a fragment layout in media ticks."
+2026-09-25T22:14:43.780062Z,kithara-mpa,0.0.1-alpha5,0,0,https://github.com/zvuk/kithara,MPEG audio (MP1/MP2/MP3) demuxer with transactional packet reads over non-blocking sources.
+2026-09-25T22:15:54.705687Z,kithara-ring,0.0.1-alpha5,0,0,https://github.com/zvuk/kithara,Lock-free SPSC ring over caller-owned contiguous storage.
+2026-09-25T22:17:50.788314Z,llm_affector,0.2.0,0,0,https://github.com/Mattbusel/llm_affector,Async Rust library and CLI that uses a second LLM call to flag hallucinations and critique code
