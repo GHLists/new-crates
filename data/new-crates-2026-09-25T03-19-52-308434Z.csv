@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T02:19:21.877753Z,turbojev-wire,0.28.3,0,0,https://github.com/DestroyerDarkNess/TurboJev,Stable wire types and serialization contracts for TurboJev
+2026-09-25T02:20:32.398075Z,mdrv-ds-core,0.0.1,0,0,https://github.com/mdrv/mdrv-ds,"DualSense protocol dialect and shared helpers: report builders (0x31/0x35/0x36/0x39/0x02), CRC-32 with HIDP 0xA2 seed, media (opus/resample) and input math"
+2026-09-25T02:20:55.273668Z,mdrv-ds-shell,0.0.1,0,0,https://github.com/mdrv/mdrv-ds,"Shared plumbing for the mdrv-ds suite: suite config access, clock formatting, pad reading (evdev), proxy bridge host, focus arbitration, daemon CLI verbs"
+2026-09-25T02:22:51.10459Z,reallyme-sd-jwt,0.1.0,0,0,https://github.com/reallyme/ssi,"RFC 9901 SD-JWT issuance, presentation, and verification primitives."
+2026-09-25T02:29:20.771433Z,turbojev,0.28.3,0,0,https://github.com/DestroyerDarkNess/TurboJev,Rust-first universal open-weight typed decision runtime
+2026-09-25T02:41:02.797207Z,agnt5-eval-scorers,0.1.0,0,0,https://github.com/agnt5dev/sdk-core,Bounded deterministic scorer semantics shared by AGNT5 SDKs and runtime
+2026-09-25T02:42:19.987824Z,sbol-db-app,0.1.7,0,0,https://github.com/marpaia/sbol-db,Backend-neutral application facade for sbol-db: composes the storage trait objects and owns the identity-aware subsystems (ACL scoping) shared by every HTTP adapter.
+2026-09-25T02:48:33.469906Z,nss-rs,0.0.0,0,0,https://github.com/mozilla/nss-rs,(PLACEHOLDER) Gecko API for NSS
+2026-09-25T02:52:23.669292Z,sbol-db-backup,0.1.7,0,0,https://github.com/marpaia/sbol-db,Versioned encrypted complete-backup artifacts for the single-node sbol-db appliance.
+2026-09-25T02:56:32.795381Z,pebble-rs,0.1.0,0,0,https://github.com/Quackster/pebble-rs,Port of the external io.pebbletemplates:pebble template engine (Pebble 3.1.5)
+2026-09-25T03:01:32.545271Z,hook_macro,0.1.0,0,0,https://github.com/HFunction2013/hook_macro,Procedural macro for generating runtime hook system with before/on/after callbacks
+2026-09-25T03:02:26.478869Z,sbol-db-vector-conformance,0.1.7,0,0,https://github.com/marpaia/sbol-db,Backend-neutral conformance scenarios for sbol-db vector indexes.
+2026-09-25T03:12:17.596909Z,midici-core,0.1.0,0,0,https://github.com/sgm-audio/midici,Sans-io MIDI-CI state machines (no_std + alloc capable)
+2026-09-25T03:12:24.912685Z,midici-pe,0.1.0,0,0,https://github.com/sgm-audio/midici,"MIDI-CI Property Exchange resource model, chunker, Mcoded7, JSON codecs"
+2026-09-25T03:12:28.786133Z,sbol-db-vector-flat,0.1.7,0,0,https://github.com/marpaia/sbol-db,Deterministic exact vector-search backend for sbol-db development and evaluation.
+2026-09-25T03:12:29.339142Z,midici-responder,0.1.0,0,0,https://github.com/sgm-audio/midici,Ergonomic MIDI-CI responder façade (re-exports the PE engine; event-pump helpers land next)
+2026-09-25T03:14:55.977396Z,infinisweeper,0.1.0,0,0,https://github.com/teterw/minesweeper,An infinite Minesweeper for your terminal
+2026-09-25T03:19:38.880386Z,worktree-cli,0.1.2,0,0,https://github.com/baleen37/worktree,"A Git worktree switcher for creating, reusing, listing, and safely removing worktrees."
+2026-09-25T03:19:48.855719Z,beam-network-sdk,0.2.2,0,0,https://github.com/Beam-Network/beam-sdk-public,Rust SDK for BEAM transfer creation and management.
