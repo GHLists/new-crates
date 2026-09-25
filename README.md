@@ -8,41 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 14:19 UTC
+## Latest list — 2026-09-25 15:19 UTC
 
-New crates published between 2026-09-25 13:19 UTC and 2026-09-25 14:19 UTC.
+New crates published between 2026-09-25 14:19 UTC and 2026-09-25 15:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-25T14-19-12-821476Z.csv)
+[Full CSV](data/new-crates-2026-09-25T15-19-54-523634Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-25 13:22:23 | [sxr-core](https://crates.io/crates/sxr-core) | 0.3.0 | 0 | RealityTrace domain types, canonical JSON, CEP envelope construction and valida… |
-| 2026-09-25 13:22:44 | [sxr-git](https://crates.io/crates/sxr-git) | 0.2.1 | 0 | RealityTrace RepositoryDiscoveryPort: minted identities and evidence via git pl… |
-| 2026-09-25 13:23:03 | [sxr-ledger](https://crates.io/crates/sxr-ledger) | 0.2.1 | 0 | RealityTrace SQLite adapter: generation-local hash chains, history manifest, ou… |
-| 2026-09-25 13:23:22 | [sxr-df](https://crates.io/crates/sxr-df) | 0.2.1 | 0 | RealityTrace CliDomainForgeAdapter: SemanticSourcePort over the domainforge env… |
-| 2026-09-25 13:23:43 | [sxr-verify](https://crates.io/crates/sxr-verify) | 0.2.1 | 0 | RealityTrace VerifierPort: process runner and the cargo-test descriptor with de… |
-| 2026-09-25 13:26:06 | [gitguardian-api](https://crates.io/crates/gitguardian-api) | 0.1.0 | 0 | Request definitions and models for the GitGuardian API |
-| 2026-09-25 13:26:09 | [gitguardian-client](https://crates.io/crates/gitguardian-client) | 0.1.0 | 0 | GitGuardian API client with ureq and reqwest backends |
-| 2026-09-25 13:27:59 | [robotemkin](https://crates.io/crates/robotemkin) | 0.3.0 | 0 | Tournament assistant bot |
-| 2026-09-25 13:31:02 | [dodb-storage](https://crates.io/crates/dodb-storage) | 0.1.0 | 0 | Storage engine for dodb, the fn0 document database |
-| 2026-09-25 13:31:06 | [dodb-server](https://crates.io/crates/dodb-server) | 0.1.0 | 0 | Server for dodb, the fn0 document database |
-| 2026-09-25 13:32:51 | [kcode-k1-chat-codex-state-testkit](https://crates.io/crates/kcode-k1-chat-codex-state-testkit) | 0.1.0 | 0 | Concrete downstream conformance assertions for Codex conversation state |
-| 2026-09-25 13:35:30 | [kcode-k1-chat-persistence-values](https://crates.io/crates/kcode-k1-chat-persistence-values) | 0.1.0 | 0 | Generic value owner for K1 chat persistence |
-| 2026-09-25 13:35:36 | [rapier-cloth](https://crates.io/crates/rapier-cloth) | 0.2.0 | 0 | CPU XPBD cloth simulation with Rapier 3D integration |
-| 2026-09-25 13:36:24 | [boehm-reals](https://crates.io/crates/boehm-reals) | 0.1.0 | 0 | Exact real number arithmetic based on Hans-J. Boehm's constructive reals |
-| 2026-09-25 13:38:37 | [statime-base](https://crates.io/crates/statime-base) | 0.1.0 | 0 | Full-featured implementation of NTP with NTS support |
-| 2026-09-25 13:39:01 | [ai-duel](https://crates.io/crates/ai-duel) | 0.1.0 | 0 | Plugin d'IA de duel (approche + attaque + dégâts) pour Bevy. |
-| 2026-09-25 13:40:28 | [pylon-db-derive](https://crates.io/crates/pylon-db-derive) | 0.1.0 | 0 | #[derive(Queryable)] for the Pylon Rust client |
-| 2026-09-25 13:40:28 | [pylon-db-value](https://crates.io/crates/pylon-db-value) | 0.1.0 | 0 | Decoded PostgreSQL values, shared across the Pylon crates |
-| 2026-09-25 13:40:30 | [pylon-db-cache](https://crates.io/crates/pylon-db-cache) | 0.1.0 | 0 | LMDB read-through query cache for Pylon |
-| 2026-09-25 13:40:31 | [pylon-db-pgcon](https://crates.io/crates/pylon-db-pgcon) | 0.1.0 | 0 | PostgreSQL connection layer for Pylon: pooling, binary wire decoding, LISTEN/NO… |
-| 2026-09-25 13:40:33 | [pylon-db-core](https://crates.io/crates/pylon-db-core) | 0.1.0 | 0 | The Pylon compiler: PyQL parsing, IR, SQL emission, schema export and migration… |
-| 2026-09-25 13:51:16 | [pylon-db-client](https://crates.io/crates/pylon-db-client) | 0.1.0 | 0 | Native Rust client for Pylon: run PyQL queries against a Pylon-managed PostgreS… |
-| 2026-09-25 13:54:56 | [layered-config](https://crates.io/crates/layered-config) | 0.1.0 | 0 | A lightweight, layered configuration loader for Rust applications, inspired by… |
-| 2026-09-25 14:00:25 | [rusty-desktop-icons](https://crates.io/crates/rusty-desktop-icons) | 0.0.0 | 0 | Empty trusted-publishing bootstrap for rusty-desktop-icons; not the functional… |
-| 2026-09-25 14:00:59 | [kcode-k1-chat-persistence-jsonl](https://crates.io/crates/kcode-k1-chat-persistence-jsonl) | 0.1.0 | 0 | JSONL framing and predecessor reconciliation for K1 chat persistence |
-| 2026-09-25 14:04:21 | [kcode-k1-chat-persistence-records-testkit](https://crates.io/crates/kcode-k1-chat-persistence-records-testkit) | 0.1.0 | 0 | Conformance assertions for K1 chat persistence records |
-| 2026-09-25 14:14:58 | [claude-sync](https://crates.io/crates/claude-sync) | 0.1.0 | 0 | Sync and back up Claude Code settings, sessions, and memory across machines |
+| 2026-09-25 14:20:42 | [nichlink-plugin-host](https://crates.io/crates/nichlink-plugin-host) | 0.1.0 | 0 | Verified WASM/process plugin adapters and atomic deployment for NichLink |
+| 2026-09-25 14:20:46 | [nichlink-studio](https://crates.io/crates/nichlink-studio) | 0.1.0 | 0 | Ratatui Studio for NichLink registry authoring and diagnostics |
+| 2026-09-25 14:20:51 | [nichlink-cli](https://crates.io/crates/nichlink-cli) | 0.1.0 | 0 | NichLink command-line interface: project scaffolding, Studio, and the MCP bridge |
+| 2026-09-25 14:26:03 | [allium-inspect-model](https://crates.io/crates/allium-inspect-model) | 0.1.1 | 0 | Ingests the allium CLI's JSON output into a linked, projectable SpecGraph. Part… |
+| 2026-09-25 14:26:08 | [allium-inspect-sim](https://crates.io/crates/allium-inspect-sim) | 0.1.1 | 0 | Deterministic three-valued simulator for allium rules. Part of allium-inspect,… |
+| 2026-09-25 14:26:14 | [allium-inspect-journey](https://crates.io/crates/allium-inspect-journey) | 0.1.1 | 0 | Journeys written against an Allium spec: parsed, checked and walked. Part of al… |
+| 2026-09-25 14:27:20 | [headwater-paint](https://crates.io/crates/headwater-paint) | 0.2.0 | 0 | The terminal palette HW-DR-0045 rules on: a color mode, the semantic roles, and… |
+| 2026-09-25 14:27:53 | [headwater-vcs](https://crates.io/crates/headwater-vcs) | 0.2.0 | 0 | The one crate that shells out to git, so a change manifest can be produced by a… |
+| 2026-09-25 14:28:43 | [headwater-fetch](https://crates.io/crates/headwater-fetch) | 0.2.0 | 0 | The one crate of this engine that opens a socket: it fetches a published taxono… |
+| 2026-09-25 14:31:33 | [lvz-buildlog](https://crates.io/crates/lvz-buildlog) | 0.1.0 | 0 | gRPC build-log stream: the builder pushes lines, the agent follows them. |
+| 2026-09-25 14:41:08 | [headwater-embed](https://crates.io/crates/headwater-embed) | 0.2.0 | 0 | The offline embedding path HW-DR-0064 rules on: a pinned local model, checked b… |
+| 2026-09-25 14:42:17 | [collocate-core](https://crates.io/crates/collocate-core) | 0.1.0 | 0 | Core shared types, framing, client and common utilities for the collocate proje… |
+| 2026-09-25 14:42:22 | [collocate-sys](https://crates.io/crates/collocate-sys) | 0.1.0 | 0 | Low-level system bindings for collocate: file descriptors, sockets, processes a… |
+| 2026-09-25 14:42:43 | [a3s-effect](https://crates.io/crates/a3s-effect) | 0.1.0 | 0 | Effect-style actor runtime for projecting an A3S Code harness from an immutable… |
+| 2026-09-25 14:42:44 | [collocate-trust](https://crates.io/crates/collocate-trust) | 0.1.0 | 0 | Certificates, fingerprints, trust tokens and the trust store for remote colloca… |
+| 2026-09-25 14:43:06 | [collocate-registry](https://crates.io/crates/collocate-registry) | 0.1.0 | 0 | OCI registry client for collocate: catalogs, manifests, blobs and push/pull. |
+| 2026-09-25 14:43:30 | [collocate-image](https://crates.io/crates/collocate-image) | 0.1.0 | 0 | Image metadata, layers, snapshots and filesystem image handling for collocate. |
+| 2026-09-25 14:50:14 | [bezel-browser](https://crates.io/crates/bezel-browser) | 0.1.30 | 0 | A platform webview hosted in a gpui window |
+| 2026-09-25 14:51:03 | [bpengine](https://crates.io/crates/bpengine) | 0.3.0 | 0 | A high-performance, embeddable streaming rule engine written in Rust, with SQL-… |
+| 2026-09-25 14:52:42 | [collocate-remote](https://crates.io/crates/collocate-remote) | 0.1.0 | 0 | HTTPS transport for collocate: TLS setup, HTTP framing, remotes and the remote… |
+| 2026-09-25 14:56:39 | [settingspec](https://crates.io/crates/settingspec) | 0.1.0 | 0 | One file for all environments, all languages, all submodules. |
+| 2026-09-25 14:58:25 | [katazome](https://crates.io/crates/katazome) | 0.1.0 | 0 | Generates color theme files for terminals, editors and other tools from a theme… |
+| 2026-09-25 14:59:24 | [oj_deno_snapshots](https://crates.io/crates/oj_deno_snapshots) | 0.0.1 | 0 | Fork of deno_snapshots 0.74.0 maintained for oj: the v8 snapshot can be consume… |
+| 2026-09-25 14:59:29 | [myd-tui](https://crates.io/crates/myd-tui) | 1.8.1 | 0 | A terminal file browser with size bars, a treemap, previews, archives and SFTP |
+| 2026-09-25 15:00:19 | [kcode-k1-codex-web-search-values](https://crates.io/crates/kcode-k1-codex-web-search-values) | 0.1.0 | 0 | Concrete values for K1 Codex web search |
+| 2026-09-25 15:01:49 | [kasa-rs](https://crates.io/crates/kasa-rs) | 0.1.0 | 0 | TP-Link Kasa smart home protocol: legacy XOR TCP, KLAP HTTP/AES (v1+v2), UDP di… |
+| 2026-09-25 15:02:03 | [bulbbeat](https://crates.io/crates/bulbbeat) | 0.1.0 | 0 | Music-synced TP-Link Kasa bulb lighting: beat-reactive color from spectral anal… |
+| 2026-09-25 15:02:56 | [collocate-gateway](https://crates.io/crates/collocate-gateway) | 0.1.0 | 0 | HTTPS gateway exposing the collocate API to trusted remote clients. |
+| 2026-09-25 15:05:43 | [bili2text-downloader](https://crates.io/crates/bili2text-downloader) | 0.2.0 | 0 | Audio track fetcher wrapping yt-dlp + ffmpeg, used by bili2text |
+| 2026-09-25 15:05:51 | [bili2text-asr](https://crates.io/crates/bili2text-asr) | 0.2.0 | 0 | SenseVoice local speech-to-text engine (sherpa-rs binding) used by bili2text |
+| 2026-09-25 15:06:03 | [bili-client](https://crates.io/crates/bili-client) | 0.2.0 | 0 | Bilibili web API client: subtitle listing, QR-code login, WBI signature |
+| 2026-09-25 15:10:43 | [bili2text](https://crates.io/crates/bili2text) | 0.2.0 | 0 | Turn Bilibili videos into text: extract subtitles or transcribe locally with Se… |
 
 ## Data source
 

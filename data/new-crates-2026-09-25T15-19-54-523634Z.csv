@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T14:20:42.692401Z,nichlink-plugin-host,0.1.0,0,0,https://github.com/Nichtigott/nichlink,Verified WASM/process plugin adapters and atomic deployment for NichLink
+2026-09-25T14:20:46.717476Z,nichlink-studio,0.1.0,0,0,https://github.com/Nichtigott/nichlink,Ratatui Studio for NichLink registry authoring and diagnostics
+2026-09-25T14:20:51.155255Z,nichlink-cli,0.1.0,0,0,https://github.com/Nichtigott/nichlink,"NichLink command-line interface: project scaffolding, Studio, and the MCP bridge"
+2026-09-25T14:26:03.39634Z,allium-inspect-model,0.1.1,0,0,https://github.com/mpecan/allium-inspect,"Ingests the allium CLI's JSON output into a linked, projectable SpecGraph. Part of allium-inspect, published so the `allium-inspect` and `allium-journey` binaries can be installed from crates.io; not…"
+2026-09-25T14:26:08.768161Z,allium-inspect-sim,0.1.1,0,0,https://github.com/mpecan/allium-inspect,"Deterministic three-valued simulator for allium rules. Part of allium-inspect, published so the `allium-inspect` and `allium-journey` binaries can be installed from crates.io; not a stable API."
+2026-09-25T14:26:14.016918Z,allium-inspect-journey,0.1.1,0,0,https://github.com/mpecan/allium-inspect,"Journeys written against an Allium spec: parsed, checked and walked. Part of allium-inspect, published so the `allium-inspect` and `allium-journey` binaries can be installed from crates.io; not a sta…"
+2026-09-25T14:27:20.764748Z,headwater-paint,0.2.0,0,0,https://github.com/headwater-ai/headwater,"The terminal palette HW-DR-0045 rules on: a color mode, the semantic roles, and the pure functions every renderer of this engine applies them through"
+2026-09-25T14:27:53.421647Z,headwater-vcs,0.2.0,0,0,https://github.com/headwater-ai/headwater,"The one crate that shells out to git, so a change manifest can be produced by a verb and not only by a hook"
+2026-09-25T14:28:43.026278Z,headwater-fetch,0.2.0,0,0,https://github.com/headwater-ai/headwater,"The one crate of this engine that opens a socket: it fetches a published taxonomy artifact for `taxonomy vendor`, and only the binary links it"
+2026-09-25T14:31:33.124154Z,lvz-buildlog,0.1.0,0,0,https://github.com/DavidLee18/lavoisier,"gRPC build-log stream: the builder pushes lines, the agent follows them."
+2026-09-25T14:41:08.90994Z,headwater-embed,0.2.0,0,0,https://github.com/headwater-ai/headwater,"The offline embedding path HW-DR-0064 rules on: a pinned local model, checked by digest, run in pure Rust, with its vectors kept as a cache and never as a generated artifact"
+2026-09-25T14:42:17.200592Z,collocate-core,0.1.0,0,0,,"Core shared types, framing, client and common utilities for the collocate project."
+2026-09-25T14:42:22.538426Z,collocate-sys,0.1.0,0,0,,"Low-level system bindings for collocate: file descriptors, sockets, processes and signals."
+2026-09-25T14:42:43.774845Z,a3s-effect,0.1.0,0,0,https://github.com/A3S-Lab/Effect,Effect-style actor runtime for projecting an A3S Code harness from an immutable event log
+2026-09-25T14:42:44.358414Z,collocate-trust,0.1.0,0,0,,"Certificates, fingerprints, trust tokens and the trust store for remote collocate access."
+2026-09-25T14:43:06.55918Z,collocate-registry,0.1.0,0,0,,"OCI registry client for collocate: catalogs, manifests, blobs and push/pull."
+2026-09-25T14:43:30.262844Z,collocate-image,0.1.0,0,0,,"Image metadata, layers, snapshots and filesystem image handling for collocate."
+2026-09-25T14:50:14.213551Z,bezel-browser,0.1.30,0,0,https://github.com/crabtalk/bezel,A platform webview hosted in a gpui window
+2026-09-25T14:51:03.734555Z,bpengine,0.3.0,0,0,https://github.com/itcraft-cn/bpe,"A high-performance, embeddable streaming rule engine written in Rust, with SQL-based queries, LLVM JIT compilation."
+2026-09-25T14:52:42.738773Z,collocate-remote,0.1.0,0,0,,"HTTPS transport for collocate: TLS setup, HTTP framing, remotes and the remote API client."
+2026-09-25T14:56:39.718393Z,settingspec,0.1.0,0,0,https://github.com/sayanarijit/settingspec,"One file for all environments, all languages, all submodules."
+2026-09-25T14:58:25.532028Z,katazome,0.1.0,0,0,https://github.com/cappyzawa/katazome,"Generates color theme files for terminals, editors and other tools from a theme directory"
+2026-09-25T14:59:24.649387Z,oj_deno_snapshots,0.0.1,0,0,https://github.com/lovablelabs/oj,Fork of deno_snapshots 0.74.0 maintained for oj: the v8 snapshot can be consumed from a prebuilt per-target bundle (OJ_SNAPSHOT_ARCHIVE) for reproducible builds. Use upstream deno_snapshots unless yo…
+2026-09-25T14:59:29.423845Z,myd-tui,1.8.1,0,0,https://github.com/tachijuan/myd,"A terminal file browser with size bars, a treemap, previews, archives and SFTP"
+2026-09-25T15:00:19.939147Z,kcode-k1-codex-web-search-values,0.1.0,0,0,,Concrete values for K1 Codex web search
+2026-09-25T15:01:49.08699Z,kasa-rs,0.1.0,0,0,https://github.com/JustinWoodring/kasa-rs,"TP-Link Kasa smart home protocol: legacy XOR TCP, KLAP HTTP/AES (v1+v2), UDP discovery, and a bulb facade"
+2026-09-25T15:02:03.360366Z,bulbbeat,0.1.0,0,0,https://github.com/JustinWoodring/bulbbeat,"Music-synced TP-Link Kasa bulb lighting: beat-reactive color from spectral analysis, with a web UI"
+2026-09-25T15:02:56.183979Z,collocate-gateway,0.1.0,0,0,,HTTPS gateway exposing the collocate API to trusted remote clients.
+2026-09-25T15:05:43.266464Z,bili2text-downloader,0.2.0,0,0,https://github.com/trtyr/bili2text,"Audio track fetcher wrapping yt-dlp + ffmpeg, used by bili2text"
+2026-09-25T15:05:51.334362Z,bili2text-asr,0.2.0,0,0,https://github.com/trtyr/bili2text,SenseVoice local speech-to-text engine (sherpa-rs binding) used by bili2text
+2026-09-25T15:06:03.922385Z,bili-client,0.2.0,0,0,https://github.com/trtyr/bili2text,"Bilibili web API client: subtitle listing, QR-code login, WBI signature"
+2026-09-25T15:10:43.351882Z,bili2text,0.2.0,0,0,https://github.com/trtyr/bili2text,"Turn Bilibili videos into text: extract subtitles or transcribe locally with SenseVoice, saved as Markdown/SRT"
