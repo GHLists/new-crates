@@ -1,0 +1,14 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T11:29:20.193563Z,expandem,0.1.1,0,0,https://gitlab.com/hkoosha/expandem,Selective macro expansion powered by rust-analyzer
+2026-09-25T11:51:45.27623Z,automock_core,0.0.1,0,0,https://github.com/alordash/automock,Core of automock that handles mocking logic.
+2026-09-25T11:51:46.078529Z,automock_proc_macro,0.0.1,0,0,https://github.com/alordash/automock,automock procedural macros.
+2026-09-25T11:51:48.701257Z,automock,0.0.1,0,0,https://github.com/alordash/automock,Library for mocking.
+2026-09-25T11:52:54.572164Z,py_input,0.1.0,0,0,https://github.com/Yeonjune0408/YJ_Lab.git,A tiny Rust crate for simple typed stdin input.
+2026-09-25T11:56:21.780801Z,tiberius-macros,0.1.0,0,0,https://github.com/tiberius-rs/tiberius,Derive macros for tiberius (e.g. TableValueRow for table-valued parameters).
+2026-09-25T11:57:11.713299Z,api-crypto,0.0.0,0,0,https://github.com/Secure-Your-Soul/SoulsAPI,Cryptography utilities for SecureSouls
+2026-09-25T11:57:12.164615Z,api-http,0.0.0,0,0,https://github.com/Secure-Your-Soul/SoulsAPI,HTTP helpers for SecureSouls
+2026-09-25T11:57:14.016984Z,soulsapi,0.0.0,0,0,https://github.com/Secure-Your-Soul/SoulsAPI,SecureSouls shared API (facade)
+2026-09-25T12:10:00.54477Z,omw,0.1.1,0,0,https://github.com/haras-unicorn/omw,OMW = OpenAI + MCP + WASM
+2026-09-25T12:12:24.313023Z,omw-cli,0.1.1,0,0,https://github.com/haras-unicorn/omw,OMW = OpenAI + MCP + WASM
+2026-09-25T12:17:49.063407Z,typed-docs,0.1.0,0,0,,Machine-checked source ownership and evidence for Markdown documentation
+2026-09-25T12:18:37.241081Z,typed-docs-endpoints,0.1.0,0,0,,"Aide, Axum, and Utoipa endpoint evidence for Typed Docs"
