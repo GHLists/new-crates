@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T04:37:48.657854Z,deep_causality_tempfile,0.1.0,0,0,https://github.com/deepcausality/deep_causality.rs,"Scratch files and directories removed on drop, std only, for the deep_causality test suites."
+2026-09-25T04:42:11.71772Z,decision-core,0.1.0,0,0,https://github.com/holon-run/holon,Provider-agnostic contracts for typed decision providers
+2026-09-25T04:42:44.242006Z,decision-jev,0.1.0,0,0,https://github.com/holon-run/holon,Jev adapter for decision-core
+2026-09-25T04:43:15.998218Z,decision-openai,0.1.0,0,0,https://github.com/holon-run/holon,OpenAI-compatible adapter for decision-core
+2026-09-25T04:43:40.846509Z,decision-local-onnx,0.1.0,0,0,https://github.com/holon-run/holon,Embedded local ONNX decision provider for decision-core
+2026-09-25T04:46:37.136209Z,summa-mal,2.0.0,0,0,https://github.com/SpaceFrontiers/summa,Model Architecture Language (MAL) parser — the single source of truth for Summa model definitions
+2026-09-25T04:47:09.474869Z,summa-tokenizer,2.0.0,0,0,https://github.com/SpaceFrontiers/summa,Stable-Rust byte-level BPE tokenization for Summa
+2026-09-25T04:47:29.421093Z,claude-session-restore,0.1.2,0,0,https://github.com/ZENG3LD/session-restore,CLI tool for summarizing and restoring Claude Code sessions
+2026-09-25T04:47:46.283715Z,summa-broker,2.0.0,0,0,https://github.com/SpaceFrontiers/summa,gRPC broker routing across multiple Summa server instances
+2026-09-25T04:47:48.943923Z,summa-tool,2.0.0,0,0,https://github.com/SpaceFrontiers/summa,"CLI tools for Summa - index management, simhash, sorting, and data processing"
+2026-09-25T04:48:10.456305Z,hexgridrect,0.1.0,0,0,https://github.com/johnw42/hexgrid,A library for working with hexagonal grids in a rectangular coordinate system.
+2026-09-25T04:48:13.682113Z,neura-ir,0.2.0,0,0,https://github.com/formetaohy/Neura,Backend-independent Rust compute intermediate representation
+2026-09-25T04:48:52.741789Z,neura-macro,0.2.0,0,0,https://github.com/formetaohy/Neura,Compile-time Rust frontend for native compute kernels
+2026-09-25T04:49:38.93081Z,neura-compiler,0.2.0,0,0,https://github.com/formetaohy/Neura,"Rust compute frontend, validated device IR and native code generation"
+2026-09-25T04:50:16.64351Z,neura-op,0.2.0,0,0,https://github.com/formetaohy/Neura,Pointwise operations and differentiation rules shared by graph and shader
+2026-09-25T04:50:57.488476Z,neura-precision,0.2.0,0,0,https://github.com/formetaohy/Neura,Tensor storage precision and host packing
+2026-09-25T05:03:05.124166Z,cargo-tops,0.1.1,0,0,https://github.com/Hedronite/rust-tops,init / check / gate for the Rust-TOPS protocol. Orchestrates existing Cargo tools; does not replace them.
+2026-09-25T05:06:49.152733Z,websec-diagnostics,0.1.0,0,0,,"Source locations, severity, and machine-readable diagnostics for WEBSEC"
+2026-09-25T05:07:04.126066Z,websec-lexer,0.1.0,0,0,,WEBSEC lexer
+2026-09-25T05:07:08.104962Z,websec-ast,0.1.0,0,0,,WEBSEC generic and typed abstract syntax trees
+2026-09-25T05:07:11.878132Z,websec-parser,0.1.0,0,0,,WEBSEC recursive-descent parser
+2026-09-25T05:07:16.178268Z,websec-semantic,0.1.0,0,0,,WEBSEC semantic analysis and typed-policy lowering
+2026-09-25T05:10:34.803319Z,oppex-integration-sdk,1.0.0,0,0,https://github.com/Oppex-AI/oppex-integration,Oppex incident API client: post incidents to Oppex from Rust applications.
+2026-09-25T05:14:20.686207Z,nexuss,0.1.1,0,0,https://github.com/addy-47/nexus-rs,"High-performance, standalone search and retrieval engine for AI agents. Multi-engine fanout, SSRF-hardened page extraction, and tri-mode relevance ranking (BM25, Dense, Hybrid RRF)."
