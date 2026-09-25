@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T16:30:34.834589Z,knex,0.1.0,0,0,,"Query AST, dialect compilation, and executor traits"
+2026-09-25T16:30:47.635321Z,knex-pool,0.1.0,0,0,,Connection pool shared by rust-knex drivers
+2026-09-25T16:30:49.434141Z,pingora-proxy-router,0.1.0,0,0,https://github.com/fiadliel/pingora-proxy-delegate,Request routing and context lenses for composable Pingora ProxyHttp implementations
+2026-09-25T16:31:33.517798Z,veloxquant-models,0.3.0,0,0,https://github.com/rajveer43/veloxquant-rs,Local Hugging Face model cache management (list/pull/delete) for the VeloxQuant Rust SDK
+2026-09-25T16:31:34.457554Z,knex-driver-mysql,0.1.0,0,0,,MySQL 8.0 driver for rust-knex
+2026-09-25T16:31:55.518114Z,knex-driver-postgres,0.1.0,0,0,,PostgreSQL driver for rust-knex
+2026-09-25T16:32:05.045212Z,knex-driver-tiberius,0.1.0,0,0,,SQL Server 2008 driver for rust-knex
+2026-09-25T16:33:15.624924Z,veloxquant-rig,0.1.0,0,0,https://github.com/rajveer43/veloxquant-rs,rig-core CompletionModel adapter for the VeloxQuant Rust SDK
+2026-09-25T16:35:00.869814Z,kcode-k1-codex-web-search-protocol,0.1.0,0,0,,Concrete Codex app-server v2 wire facade for K1 one-shot web search
+2026-09-25T16:41:28.546423Z,knex-driver-oracle,0.1.0,0,0,,Oracle 11g driver for rust-knex
+2026-09-25T16:49:23.187712Z,shotori,0.5.0,0,0,https://github.com/mengh04/shotori,Shotori — Wayland-first screenshot tool built with gpui-kit
+2026-09-25T16:51:55.274915Z,thirdshift,0.1.0,0,0,https://github.com/JacobStephens2/thirdshift,"Turn a GitHub issue into a ready-for-review pull request, unattended"
+2026-09-25T16:51:56.165658Z,kcode-k1-codex-web-search-sources,0.1.0,0,0,,Deterministic source normalization for K1 Codex web search
+2026-09-25T17:00:30.061663Z,dnoise-core,0.5.0,0,0,https://github.com/pgarrett-scripps/dnoise,"Pure-Rust, in-memory timsTOF frame denoising stages of dnoise (no I/O, no native dependencies)."
+2026-09-25T17:10:24.304949Z,outdir,0.1.0,0,0,https://github.com/r41ngee/outdir,simple marcos to include files from $OUT_DIR
+2026-09-25T17:12:55.608125Z,rplay,0.0.1,0,0,https://github.com/shauder/rplay,AirPlay in rust
+2026-09-25T17:13:31.67145Z,typed-lm-common,0.1.0,0,0,https://github.com/neurono-ml/typed-lm,"Shared Jev contract, labels, prompt rendering, checkpoint detection, device/dtype policy and FP8/FP4 quantization for typed-lm."
+2026-09-25T17:13:34.805072Z,typed-lm-serve,0.1.0,0,0,https://github.com/neurono-ml/typed-lm,"Jev-compatible, single-forward-pass semantic routing server for dense decoder models, built on Candle."
+2026-09-25T17:16:19.637084Z,xj_atone,0.1.0,0,0,https://github.com/brk/xj_atone,Safe implementations of core C numeric parsing APIs
+2026-09-25T17:17:13.428207Z,seowebchecker-seoaudit-sdk,1.0.0,0,0,https://github.com/jaiganesh6999/seowebchecker-seoaudit-sdk,"Lightweight open-source client SDK and CLI tool for website SEO audits, on-page analysis, and Core Web Vitals checks by SEOWebChecker."
+2026-09-25T17:19:09.24828Z,bough-derive,0.0.1,0,0,https://github.com/bough-frp/bough,Derive macros for bough. Early development: not yet usable.
