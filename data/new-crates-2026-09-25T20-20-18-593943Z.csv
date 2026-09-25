@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T19:20:44.320906Z,llm-token-visualizer,0.2.0,0,0,https://github.com/Mattbusel/LLM-Hallucination-Detection-Script,"Flag low-confidence spans in LLM output from token logprobs, and render per-token confidence as terminal, HTML or Markdown"
+2026-09-25T19:24:40.261845Z,navcore-tracks,0.3.0,0,0,https://gitlab.com/sebastianhaas/nav-core,"The vessel's own recorded tracks: a domain type and CRUD orchestration against Signal K's own Resources API, so a client on another platform later calls the same functions this crate already implemen…"
+2026-09-25T19:25:26.114867Z,navcore-waypoints,0.3.0,0,0,https://gitlab.com/sebastianhaas/nav-core,"The mariner's own standalone waypoints: a domain type and CRUD orchestration against Signal K's own Resources API, so a client on another platform later calls the same functions this crate already im…"
+2026-09-25T19:26:29.046004Z,navcore-route-check,0.3.0,0,0,https://gitlab.com/sebastianhaas/nav-core,"Checks a whole stored route against a chart, leg by leg, each with its own corridor and safety contour."
+2026-09-25T19:29:13.672953Z,crys_bricks,0.1.0,0,0,https://github.com/Cryotheus/rust_source_sdk_2013,Utilities for build scripts and binding generation.
+2026-09-25T19:32:06.659355Z,rigbat,0.2.0,0,0,https://github.com/Skesov/rigbat,System tray battery monitor for gaming peripherals
+2026-09-25T19:33:12.4361Z,kcode-k1-codex-web-search,0.1.1,0,0,,Narrow normalized facade for K1 Codex web search
+2026-09-25T19:33:28.294045Z,source_sdk_2013_bindgen,0.1.0-alpha.1,0,0,https://github.com/Cryotheus/rust_source_sdk_2013,Binding generator for the Source SDK.
+2026-09-25T19:33:37.035261Z,navcore-route-find,0.3.0,0,0,https://gitlab.com/sebastianhaas/nav-core,Automatic route generation: the shortest path check_leg calls safe between two positions.
+2026-09-25T19:34:05.178941Z,asr6601-pac,0.1.0,0,0,,Peripheral Access Crate for ASRmicro ASR6601 series microcontroller
+2026-09-25T19:34:49.140699Z,passalong-https,0.3.0,0,0,https://github.com/joelee/passalong,passalong-server storage backend for passalong
+2026-09-25T19:37:23.716326Z,source_sdk_2013_sys,0.1.0-alpha.1,0,0,https://github.com/Cryotheus/rust_source_sdk_2013,Low-level bindings for the Source SDK.
+2026-09-25T19:37:42.986095Z,Cleaver-X,1.0.1,0,0,https://github.com/raw-lab/cleaver,"Record-aware FASTA/FASTQ/SAM/BAM toolkit: streaming split & convert, fastp-style QC, VERSE-style counting, ONT barcode demux, and a pure-Rust samtools suite."
+2026-09-25T19:38:32.659643Z,source_sdk_2013,0.1.0-alpha.1,0,0,https://github.com/Cryotheus/rust_source_sdk_2013,Higher-level bindings for the Source SDK.
+2026-09-25T19:39:02.510184Z,send_it_vm,0.1.0,0,0,https://github.com/SwishSwushPow/send_it_vm,"Light and fast per-project Debian VMs on macOS, for running coding agents without giving them the rest of the machine"
+2026-09-25T19:39:39.920646Z,software-engineering,0.1.0,0,0,https://github.com/publicprojects-io/software-engineering-rust-crate/,"Software engineering metrics models, structs, calculations, and examples."
+2026-09-25T19:44:05.515532Z,metamod_source_sys,0.1.0-alpha.1,0,0,https://github.com/Cryotheus/rust_source_sdk_2013,Low-level bindings for Metamod:Source.
+2026-09-25T19:45:42.872381Z,metamod_source,0.1.0-alpha.1,0,0,https://github.com/Cryotheus/rust_source_sdk_2013,Higher-level bindings for Metamod:Source.
+2026-09-25T19:46:19.258017Z,pgfsm-proto-codegen,0.1.0,0,0,https://github.com/pgfsm/fsm,Generated prost + tonic stubs for the pgfsm Activity Gateway and Sidecar Gateway contracts.
+2026-09-25T19:51:17.935472Z,kcode-k1-codex-web-search-testkit,0.1.0,0,0,,Downstream conformance testkit for K1 Codex web search
+2026-09-25T19:55:29.474725Z,mahabodi,0.1.0,0,0,https://github.com/mahabodi/mahabodi,MahaBodi: a System-1 engine for AI agents - fastmemory topology memory plus Laya decisions (re-exports mahabodi-core)
+2026-09-25T19:56:59.554607Z,mdpreviewer,0.1.0,0,0,https://github.com/jkellz-dev/mdpreviewer,"Live-reloading browser preview for a single Markdown file, with mermaid diagrams and cursor sync for Helix."
+2026-09-25T20:00:35.745271Z,kcode-k1-chat-thread-recovery,0.1.0,0,0,,Durable recovery for one K1 chat thread
+2026-09-25T20:08:50.005692Z,kcode-k1-chat-thread-web-search,0.1.0,0,0,,Concrete WebSearch Ktool action for K1 chat threads
+2026-09-25T20:11:39.216074Z,clairo,0.1.0,0,0,https://github.com/friendlymatthew/clairo,GPU workload benchmarking for wgpu
+2026-09-25T20:11:42.107574Z,chickpea-rs,0.4.0,0,0,https://github.com/causalpathlab/chickpea-rs,Chromatin Interactions Captured by Knitting Peaks with Expression Anchors — peak-to-gene linkage
+2026-09-25T20:12:59.851848Z,legume-plot,0.3.2,0,0,https://github.com/causalpathlab/legume-plot,2D scatter / Hinton / structure-bar plotting primitives for legume tools
+2026-09-25T20:14:31.73349Z,binlens,0.1.0,0,0,https://github.com/raidshadowmc-sudo/binlens,"Fast memory-mapped binary inspection, Shannon entropy profiling, Authenticode digest verification, YARA scanning, and security mitigation auditor for PE, ELF, and Mach-O binaries"
