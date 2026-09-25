@@ -8,47 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 22:18 UTC
+## Latest list — 2026-09-25 23:19 UTC
 
-New crates published between 2026-09-25 21:19 UTC and 2026-09-25 22:18 UTC.
+New crates published between 2026-09-25 22:18 UTC and 2026-09-25 23:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-25T22-18-53-016812Z.csv)
+[Full CSV](data/new-crates-2026-09-25T23-19-52-637249Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-25 21:19:16 | [molframe-core](https://crates.io/crates/molframe-core) | 0.1.0 | 0 | Core types, storage and analysis contracts for molframe |
-| 2026-09-25 21:19:18 | [ripbi-xpress9](https://crates.io/crates/ripbi-xpress9) | 0.6.0 | 0 | Safe, statically linked XPress9 chunk decoder for Power BI ABF backups (ripbi) |
-| 2026-09-25 21:19:22 | [molframe-engine](https://crates.io/crates/molframe-engine) | 0.1.0 | 0 | Typed workflow compilation and deterministic execution for MolFrame |
-| 2026-09-25 21:19:25 | [molframe-audit](https://crates.io/crates/molframe-audit) | 0.1.0 | 0 | Bounded policy-sensitivity audits for molframe analyses |
-| 2026-09-25 21:21:56 | [xlsynth-ir-value](https://crates.io/crates/xlsynth-ir-value) | 0.72.0 | 0 | Native Rust values and types for XLS IR |
-| 2026-09-25 21:28:31 | [sponsored-logs](https://crates.io/crates/sponsored-logs) | 0.1.0 | 0 | The world's first Log-Native Advertising Platform for Rust. Monetize your traci… |
-| 2026-09-25 21:30:08 | [deltex-tauri-plugin-sql](https://crates.io/crates/deltex-tauri-plugin-sql) | 2.4.1 | 0 | Interface with SQL databases. |
-| 2026-09-25 21:32:00 | [molframe-cif](https://crates.io/crates/molframe-cif) | 0.1.0 | 0 | PDBx/mmCIF reading and writing for molframe |
-| 2026-09-25 21:34:09 | [eventful-rs-macros](https://crates.io/crates/eventful-rs-macros) | 0.1.0 | 0 | Procedural macros for eventful-rs typed events and shard dispatch |
-| 2026-09-25 21:34:40 | [eventful-rs](https://crates.io/crates/eventful-rs) | 0.1.0 | 0 | Thread-affine values, typed events, and asynchronous method dispatch for Rust |
-| 2026-09-25 21:35:18 | [abi-typegen-runtime](https://crates.io/crates/abi-typegen-runtime) | 0.6.0 | 0 | Shared ABI codec runtime for generated C and C++ contract bindings |
-| 2026-09-25 21:41:10 | [kcode-k1-chat-thread-main-mailbox](https://crates.io/crates/kcode-k1-chat-thread-main-mailbox) | 0.2.0 | 0 | Concrete mailbox boundary for the unified K1 chat runtime |
-| 2026-09-25 21:53:34 | [alpha2](https://crates.io/crates/alpha2) | 0.0.0 | 0 | Standalone media engine for timeline composition, GPU rendering, and export. |
-| 2026-09-25 21:56:25 | [rspad](https://crates.io/crates/rspad) | 0.1.1 | 0 | A fast, offline Rust scratchpad and REPL daemon running locally in your browser |
-| 2026-09-25 21:56:59 | [g3-kit-macros](https://crates.io/crates/g3-kit-macros) | 0.1.0 | 0 | Proc macros for g3-kit: `#[cache_shared]` and `#[public]`. |
-| 2026-09-25 21:57:16 | [g3-kit](https://crates.io/crates/g3-kit) | 0.1.0 | 0 | The shared core of g3 stack apps: client, server and CDN caching, and session a… |
-| 2026-09-25 22:03:18 | [tft-synapse-types](https://crates.io/crates/tft-synapse-types) | 0.6.0 | 0 | Shared domain types for the TFT Synapse platform |
-| 2026-09-25 22:03:20 | [tft-synapse-capture](https://crates.io/crates/tft-synapse-capture) | 0.6.0 | 0 | Live Client API and screen capture input for TFT Synapse. |
-| 2026-09-25 22:03:20 | [tft-synapse-data](https://crates.io/crates/tft-synapse-data) | 0.6.0 | 0 | Game data catalog (augments, champions, traits, items) for TFT Synapse. |
-| 2026-09-25 22:03:21 | [tft-synapse-game-state](https://crates.io/crates/tft-synapse-game-state) | 0.6.0 | 0 | Game state model for TFT Synapse. |
-| 2026-09-25 22:05:44 | [molframe-geom](https://crates.io/crates/molframe-geom) | 0.1.0 | 0 | Geometric kernels for molframe |
-| 2026-09-25 22:07:00 | [kcode-k1-chat-thread-main-actor-test-fixture](https://crates.io/crates/kcode-k1-chat-thread-main-actor-test-fixture) | 0.1.0 | 0 | Concrete fake app-server fixture for the K1 chat-thread main-actor testkit |
-| 2026-09-25 22:07:12 | [molframe-bcif](https://crates.io/crates/molframe-bcif) | 0.1.0 | 0 | BinaryCIF codecs, lazy document container, reader and writer for molframe |
-| 2026-09-25 22:07:18 | [molframe-chem](https://crates.io/crates/molframe-chem) | 0.1.0 | 0 | Deposited-component chemistry and versioned element data for molframe |
-| 2026-09-25 22:07:43 | [crypto-orderbook](https://crates.io/crates/crypto-orderbook) | 0.2.0 | 0 | Live, correctly sequenced Binance spot order book served over HTTP, WebSocket a… |
-| 2026-09-25 22:09:17 | [molframe-modelcif](https://crates.io/crates/molframe-modelcif) | 0.1.0 | 0 | ModelCIF metadata and confidence metrics for molframe |
-| 2026-09-25 22:12:12 | [proptest-residual-risk](https://crates.io/crates/proptest-residual-risk) | 0.1.0 | 0 | How much a passing proptest has shown: coverage, the chance of new code, and a… |
-| 2026-09-25 22:13:17 | [kithara-derive](https://crates.io/crates/kithara-derive) | 0.0.1-alpha5 | 0 | kithara derive macros for configuration documents, bounded scalars, events, and… |
-| 2026-09-25 22:13:53 | [kithara-devtools](https://crates.io/crates/kithara-devtools) | 0.0.1-alpha5 | 0 | Reusable, config-driven xtask command core (lint, format, test, health and frie… |
-| 2026-09-25 22:14:19 | [kithara-mp4](https://crates.io/crates/kithara-mp4) | 0.0.1-alpha5 | 0 | Fragmented-mp4 box walk that reads headers and seeks over payload, yielding a f… |
-| 2026-09-25 22:14:43 | [kithara-mpa](https://crates.io/crates/kithara-mpa) | 0.0.1-alpha5 | 0 | MPEG audio (MP1/MP2/MP3) demuxer with transactional packet reads over non-block… |
-| 2026-09-25 22:15:54 | [kithara-ring](https://crates.io/crates/kithara-ring) | 0.0.1-alpha5 | 0 | Lock-free SPSC ring over caller-owned contiguous storage. |
-| 2026-09-25 22:17:50 | [llm_affector](https://crates.io/crates/llm_affector) | 0.2.0 | 0 | Async Rust library and CLI that uses a second LLM call to flag hallucinations a… |
+| 2026-09-25 22:19:18 | [molframe-pdb](https://crates.io/crates/molframe-pdb) | 0.1.0 | 0 | Legacy PDB reading and writing for molframe |
+| 2026-09-25 22:26:26 | [kithara-apple](https://crates.io/crates/kithara-apple) | 0.0.1-alpha5 | 0 | Apple platform ABI and safe wrappers shared by Kithara crates. |
+| 2026-09-25 22:26:50 | [kcode-k1-chat-thread-search-registry](https://crates.io/crates/kcode-k1-chat-thread-search-registry) | 0.1.1 | 0 | Concrete WebSearch task and epoch registry for the K1 chat runtime |
+| 2026-09-25 22:27:56 | [llm-bench](https://crates.io/crates/llm-bench) | 0.2.0 | 0 | LLM provider benchmark CLI: compare OpenAI and Anthropic on latency, cost, qual… |
+| 2026-09-25 22:29:17 | [molframe-ic](https://crates.io/crates/molframe-ic) | 0.1.0 | 0 | Internal-coordinate conversion and rebuilding for molframe |
+| 2026-09-25 22:29:33 | [age-plugin-lade](https://crates.io/crates/age-plugin-lade) | 0.19.0 | 0 | age plugin that hydrates Lade secret URIs |
+| 2026-09-25 22:36:42 | [kithara-blob](https://crates.io/crates/kithara-blob) | 0.0.1-alpha5 | 0 | Versioned little-endian byte framing for stored Kithara artifacts. |
+| 2026-09-25 22:38:08 | [tft-synapse-ml](https://crates.io/crates/tft-synapse-ml) | 0.6.0 | 0 | The learning model behind TFT Synapse recommendations. |
+| 2026-09-25 22:39:19 | [molframe-fx](https://crates.io/crates/molframe-fx) | 0.1.0 | 0 | Declarative functional-geometry evaluation for molframe |
+| 2026-09-25 22:44:48 | [artmap](https://crates.io/crates/artmap) | 0.1.0 | 0 | A concurrent in-memory Adaptive Radix Tree (ART) featuring optimistic lock coup… |
+| 2026-09-25 22:45:40 | [avrt](https://crates.io/crates/avrt) | 0.0.1 | 0 | Reserved: avrt, agent-first visual regression testing. Real releases will follo… |
+| 2026-09-25 22:47:00 | [kithara-resampler](https://crates.io/crates/kithara-resampler) | 0.0.1-alpha5 | 0 | Sample-rate resampler contracts and backend adapters. |
+| 2026-09-25 22:48:21 | [zerochannel-core](https://crates.io/crates/zerochannel-core) | 0.1.0 | 0 | no_std core of the ZeroChannel lock-free single-writer multi-reader channel |
+| 2026-09-25 22:48:22 | [tft-synapse-advisor](https://crates.io/crates/tft-synapse-advisor) | 0.6.0 | 0 | Recommendation engine for TFT Synapse. |
+| 2026-09-25 22:49:21 | [molframe-query](https://crates.io/crates/molframe-query) | 0.1.0 | 0 | Typed and textual structural selection plans for molframe |
+| 2026-09-25 22:56:34 | [win-numa-sys](https://crates.io/crates/win-numa-sys) | 0.1.0 | 0 | Memory-safe Rust over the Windows NUMA APIs: a VirtualAllocExNuma-backed buffer… |
+| 2026-09-25 22:57:34 | [kithara-ui](https://crates.io/crates/kithara-ui) | 0.0.1-alpha5 | 0 | Serializable modular UI model: layout and module documents, registries, compile… |
+| 2026-09-25 22:58:47 | [tft-synapse-ui](https://crates.io/crates/tft-synapse-ui) | 0.6.0 | 0 | egui interface for TFT Synapse. |
+| 2026-09-25 22:59:17 | [molframe-adapters](https://crates.io/crates/molframe-adapters) | 0.1.0 | 0 | Neutral topology transfer and verified byte acquisition |
+| 2026-09-25 23:07:52 | [kithara-signal](https://crates.io/crates/kithara-signal) | 0.0.1-alpha5 | 0 | Decoded-audio signal values and sample/time math for Kithara. |
+| 2026-09-25 23:09:09 | [corescout-agent-observation](https://crates.io/crates/corescout-agent-observation) | 1.1.0 | 0 | The AI operational mirror: sessions, tasks and actions as persistent entities,… |
+| 2026-09-25 23:09:18 | [molframe-spatial](https://crates.io/crates/molframe-spatial) | 0.1.0 | 0 | Deterministic spatial indices and neighbour search for molframe |
+| 2026-09-25 23:10:22 | [toil](https://crates.io/crates/toil) | 0.1.0 | 0 | Write and read tables. |
+| 2026-09-25 23:12:01 | [retiretui_engine](https://crates.io/crates/retiretui_engine) | 0.1.0 | 0 | Plan model, tax engine, and projection for RetireTui. |
+| 2026-09-25 23:12:03 | [retiretui](https://crates.io/crates/retiretui) | 0.1.0 | 0 | Retirement planning application for the terminal. |
+| 2026-09-25 23:18:09 | [kithara-android](https://crates.io/crates/kithara-android) | 0.0.1-alpha5 | 0 | Android platform ABI and safe wrappers shared by Kithara crates. |
+| 2026-09-25 23:19:16 | [molframe-surface](https://crates.io/crates/molframe-surface) | 0.1.0 | 0 | Solvent-accessible and molecular surfaces for molframe |
+| 2026-09-25 23:19:18 | [corescout-core](https://crates.io/crates/corescout-core) | 1.1.0 | 0 | Shared primitives: errors, the monotonic clock, CPU sets. |
 
 ## Data source
 

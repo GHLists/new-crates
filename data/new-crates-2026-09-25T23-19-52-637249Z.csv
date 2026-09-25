@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T22:19:18.753664Z,molframe-pdb,0.1.0,0,0,https://github.com/miguelcsx/molframe,Legacy PDB reading and writing for molframe
+2026-09-25T22:26:26.438751Z,kithara-apple,0.0.1-alpha5,0,0,https://github.com/zvuk/kithara,Apple platform ABI and safe wrappers shared by Kithara crates.
+2026-09-25T22:26:50.725263Z,kcode-k1-chat-thread-search-registry,0.1.1,0,0,,Concrete WebSearch task and epoch registry for the K1 chat runtime
+2026-09-25T22:27:56.707566Z,llm-bench,0.2.0,0,0,https://github.com/Mattbusel/llm-bench,"LLM provider benchmark CLI: compare OpenAI and Anthropic on latency, cost, quality, and throughput"
+2026-09-25T22:29:17.576718Z,molframe-ic,0.1.0,0,0,https://github.com/miguelcsx/molframe,Internal-coordinate conversion and rebuilding for molframe
+2026-09-25T22:29:33.657416Z,age-plugin-lade,0.19.0,0,0,https://github.com/zifeo/lade,age plugin that hydrates Lade secret URIs
+2026-09-25T22:36:42.943086Z,kithara-blob,0.0.1-alpha5,0,0,https://github.com/zvuk/kithara,Versioned little-endian byte framing for stored Kithara artifacts.
+2026-09-25T22:38:08.67889Z,tft-synapse-ml,0.6.0,0,0,https://github.com/Mattbusel/tft-synapse,The learning model behind TFT Synapse recommendations.
+2026-09-25T22:39:19.493323Z,molframe-fx,0.1.0,0,0,https://github.com/miguelcsx/molframe,Declarative functional-geometry evaluation for molframe
+2026-09-25T22:44:48.33194Z,artmap,0.1.0,0,0,https://github.com/surrealdb/artmap,A concurrent in-memory Adaptive Radix Tree (ART) featuring optimistic lock coupling.
+2026-09-25T22:45:40.892696Z,avrt,0.0.1,0,0,https://github.com/DanielGarcia-Carrillo/visual-regression-testing,"Reserved: avrt, agent-first visual regression testing. Real releases will follow from the linked repository."
+2026-09-25T22:47:00.998635Z,kithara-resampler,0.0.1-alpha5,0,0,https://github.com/zvuk/kithara,Sample-rate resampler contracts and backend adapters.
+2026-09-25T22:48:21.982871Z,zerochannel-core,0.1.0,0,0,https://github.com/dexman-ai/zerochannel,no_std core of the ZeroChannel lock-free single-writer multi-reader channel
+2026-09-25T22:48:22.444726Z,tft-synapse-advisor,0.6.0,0,0,https://github.com/Mattbusel/tft-synapse,Recommendation engine for TFT Synapse.
+2026-09-25T22:49:21.02021Z,molframe-query,0.1.0,0,0,https://github.com/miguelcsx/molframe,Typed and textual structural selection plans for molframe
+2026-09-25T22:56:34.905974Z,win-numa-sys,0.1.0,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"Memory-safe Rust over the Windows NUMA APIs: a VirtualAllocExNuma-backed buffer, a NumaNode newtype, and the node queries a caller needs to decide what to pass. Thin over Win32, with no policy about…"
+2026-09-25T22:57:34.608494Z,kithara-ui,0.0.1-alpha5,0,0,https://github.com/zvuk/kithara,"Serializable modular UI model: layout and module documents, registries, compiler."
+2026-09-25T22:58:47.266321Z,tft-synapse-ui,0.6.0,0,0,https://github.com/Mattbusel/tft-synapse,egui interface for TFT Synapse.
+2026-09-25T22:59:17.933463Z,molframe-adapters,0.1.0,0,0,https://github.com/miguelcsx/molframe,Neutral topology transfer and verified byte acquisition
+2026-09-25T23:07:52.248952Z,kithara-signal,0.0.1-alpha5,0,0,https://github.com/zvuk/kithara,Decoded-audio signal values and sample/time math for Kithara.
+2026-09-25T23:09:09.365973Z,corescout-agent-observation,1.1.0,0,0,https://github.com/mattbusel/corescout,"The AI operational mirror: sessions, tasks and actions as persistent entities, with reports kept separate from verification."
+2026-09-25T23:09:18.695245Z,molframe-spatial,0.1.0,0,0,https://github.com/miguelcsx/molframe,Deterministic spatial indices and neighbour search for molframe
+2026-09-25T23:10:22.280761Z,toil,0.1.0,0,0,https://github.com/jackroddy/toil,Write and read tables.
+2026-09-25T23:12:01.186573Z,retiretui_engine,0.1.0,0,0,https://github.com/kenianbei/retiretui,"Plan model, tax engine, and projection for RetireTui."
+2026-09-25T23:12:03.369504Z,retiretui,0.1.0,0,0,https://github.com/kenianbei/retiretui,Retirement planning application for the terminal.
+2026-09-25T23:18:09.667346Z,kithara-android,0.0.1-alpha5,0,0,https://github.com/zvuk/kithara,Android platform ABI and safe wrappers shared by Kithara crates.
+2026-09-25T23:19:16.670762Z,molframe-surface,0.1.0,0,0,https://github.com/miguelcsx/molframe,Solvent-accessible and molecular surfaces for molframe
+2026-09-25T23:19:18.986931Z,corescout-core,1.1.0,0,0,https://github.com/mattbusel/corescout,"Shared primitives: errors, the monotonic clock, CPU sets."
