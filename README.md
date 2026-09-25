@@ -8,46 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 15:19 UTC
+## Latest list — 2026-09-25 16:19 UTC
 
-New crates published between 2026-09-25 14:19 UTC and 2026-09-25 15:19 UTC.
+New crates published between 2026-09-25 15:19 UTC and 2026-09-25 16:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-25T15-19-54-523634Z.csv)
+[Full CSV](data/new-crates-2026-09-25T16-19-05-993447Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-25 14:20:42 | [nichlink-plugin-host](https://crates.io/crates/nichlink-plugin-host) | 0.1.0 | 0 | Verified WASM/process plugin adapters and atomic deployment for NichLink |
-| 2026-09-25 14:20:46 | [nichlink-studio](https://crates.io/crates/nichlink-studio) | 0.1.0 | 0 | Ratatui Studio for NichLink registry authoring and diagnostics |
-| 2026-09-25 14:20:51 | [nichlink-cli](https://crates.io/crates/nichlink-cli) | 0.1.0 | 0 | NichLink command-line interface: project scaffolding, Studio, and the MCP bridge |
-| 2026-09-25 14:26:03 | [allium-inspect-model](https://crates.io/crates/allium-inspect-model) | 0.1.1 | 0 | Ingests the allium CLI's JSON output into a linked, projectable SpecGraph. Part… |
-| 2026-09-25 14:26:08 | [allium-inspect-sim](https://crates.io/crates/allium-inspect-sim) | 0.1.1 | 0 | Deterministic three-valued simulator for allium rules. Part of allium-inspect,… |
-| 2026-09-25 14:26:14 | [allium-inspect-journey](https://crates.io/crates/allium-inspect-journey) | 0.1.1 | 0 | Journeys written against an Allium spec: parsed, checked and walked. Part of al… |
-| 2026-09-25 14:27:20 | [headwater-paint](https://crates.io/crates/headwater-paint) | 0.2.0 | 0 | The terminal palette HW-DR-0045 rules on: a color mode, the semantic roles, and… |
-| 2026-09-25 14:27:53 | [headwater-vcs](https://crates.io/crates/headwater-vcs) | 0.2.0 | 0 | The one crate that shells out to git, so a change manifest can be produced by a… |
-| 2026-09-25 14:28:43 | [headwater-fetch](https://crates.io/crates/headwater-fetch) | 0.2.0 | 0 | The one crate of this engine that opens a socket: it fetches a published taxono… |
-| 2026-09-25 14:31:33 | [lvz-buildlog](https://crates.io/crates/lvz-buildlog) | 0.1.0 | 0 | gRPC build-log stream: the builder pushes lines, the agent follows them. |
-| 2026-09-25 14:41:08 | [headwater-embed](https://crates.io/crates/headwater-embed) | 0.2.0 | 0 | The offline embedding path HW-DR-0064 rules on: a pinned local model, checked b… |
-| 2026-09-25 14:42:17 | [collocate-core](https://crates.io/crates/collocate-core) | 0.1.0 | 0 | Core shared types, framing, client and common utilities for the collocate proje… |
-| 2026-09-25 14:42:22 | [collocate-sys](https://crates.io/crates/collocate-sys) | 0.1.0 | 0 | Low-level system bindings for collocate: file descriptors, sockets, processes a… |
-| 2026-09-25 14:42:43 | [a3s-effect](https://crates.io/crates/a3s-effect) | 0.1.0 | 0 | Effect-style actor runtime for projecting an A3S Code harness from an immutable… |
-| 2026-09-25 14:42:44 | [collocate-trust](https://crates.io/crates/collocate-trust) | 0.1.0 | 0 | Certificates, fingerprints, trust tokens and the trust store for remote colloca… |
-| 2026-09-25 14:43:06 | [collocate-registry](https://crates.io/crates/collocate-registry) | 0.1.0 | 0 | OCI registry client for collocate: catalogs, manifests, blobs and push/pull. |
-| 2026-09-25 14:43:30 | [collocate-image](https://crates.io/crates/collocate-image) | 0.1.0 | 0 | Image metadata, layers, snapshots and filesystem image handling for collocate. |
-| 2026-09-25 14:50:14 | [bezel-browser](https://crates.io/crates/bezel-browser) | 0.1.30 | 0 | A platform webview hosted in a gpui window |
-| 2026-09-25 14:51:03 | [bpengine](https://crates.io/crates/bpengine) | 0.3.0 | 0 | A high-performance, embeddable streaming rule engine written in Rust, with SQL-… |
-| 2026-09-25 14:52:42 | [collocate-remote](https://crates.io/crates/collocate-remote) | 0.1.0 | 0 | HTTPS transport for collocate: TLS setup, HTTP framing, remotes and the remote… |
-| 2026-09-25 14:56:39 | [settingspec](https://crates.io/crates/settingspec) | 0.1.0 | 0 | One file for all environments, all languages, all submodules. |
-| 2026-09-25 14:58:25 | [katazome](https://crates.io/crates/katazome) | 0.1.0 | 0 | Generates color theme files for terminals, editors and other tools from a theme… |
-| 2026-09-25 14:59:24 | [oj_deno_snapshots](https://crates.io/crates/oj_deno_snapshots) | 0.0.1 | 0 | Fork of deno_snapshots 0.74.0 maintained for oj: the v8 snapshot can be consume… |
-| 2026-09-25 14:59:29 | [myd-tui](https://crates.io/crates/myd-tui) | 1.8.1 | 0 | A terminal file browser with size bars, a treemap, previews, archives and SFTP |
-| 2026-09-25 15:00:19 | [kcode-k1-codex-web-search-values](https://crates.io/crates/kcode-k1-codex-web-search-values) | 0.1.0 | 0 | Concrete values for K1 Codex web search |
-| 2026-09-25 15:01:49 | [kasa-rs](https://crates.io/crates/kasa-rs) | 0.1.0 | 0 | TP-Link Kasa smart home protocol: legacy XOR TCP, KLAP HTTP/AES (v1+v2), UDP di… |
-| 2026-09-25 15:02:03 | [bulbbeat](https://crates.io/crates/bulbbeat) | 0.1.0 | 0 | Music-synced TP-Link Kasa bulb lighting: beat-reactive color from spectral anal… |
-| 2026-09-25 15:02:56 | [collocate-gateway](https://crates.io/crates/collocate-gateway) | 0.1.0 | 0 | HTTPS gateway exposing the collocate API to trusted remote clients. |
-| 2026-09-25 15:05:43 | [bili2text-downloader](https://crates.io/crates/bili2text-downloader) | 0.2.0 | 0 | Audio track fetcher wrapping yt-dlp + ffmpeg, used by bili2text |
-| 2026-09-25 15:05:51 | [bili2text-asr](https://crates.io/crates/bili2text-asr) | 0.2.0 | 0 | SenseVoice local speech-to-text engine (sherpa-rs binding) used by bili2text |
-| 2026-09-25 15:06:03 | [bili-client](https://crates.io/crates/bili-client) | 0.2.0 | 0 | Bilibili web API client: subtitle listing, QR-code login, WBI signature |
-| 2026-09-25 15:10:43 | [bili2text](https://crates.io/crates/bili2text) | 0.2.0 | 0 | Turn Bilibili videos into text: extract subtitles or transcribe locally with Se… |
+| 2026-09-25 15:20:28 | [gud](https://crates.io/crates/gud) | 0.1.1 | 0 | Interactive git helper |
+| 2026-09-25 15:28:04 | [termleaf](https://crates.io/crates/termleaf) | 0.1.0 | 0 | A live-reloading PDF viewer for the terminal, built for editing LaTeX next to it |
+| 2026-09-25 15:28:19 | [linura](https://crates.io/crates/linura) | 0.0.1 | 0 | Canonical Rust entry point for Linura, the intelligent system layer for Linux. |
+| 2026-09-25 15:30:47 | [thela](https://crates.io/crates/thela) | 0.0.0 | 0 | Placeholder for Thela, an intent-driven programming language. Work in progress;… |
+| 2026-09-25 15:30:50 | [thela-cli](https://crates.io/crates/thela-cli) | 0.0.0 | 0 | Placeholder for Thela, an intent-driven programming language. Work in progress;… |
+| 2026-09-25 15:34:22 | [autolux](https://crates.io/crates/autolux) | 0.1.1 | 0 | Adaptive backlight daemon driven by an ambient light sensor |
+| 2026-09-25 15:36:39 | [carwash-core](https://crates.io/crates/carwash-core) | 0.4.0 | 0 | Engine for carwash: polyglot project discovery, artifact sizing, safe cleaning,… |
+| 2026-09-25 15:36:47 | [poe-client](https://crates.io/crates/poe-client) | 1.0.0 | 0 | Official Rust client SDK for the POE edge intelligence daemon |
+| 2026-09-25 15:39:14 | [tunelith-driver-mock](https://crates.io/crates/tunelith-driver-mock) | 0.2.0 | 0 | Tunelith driver for a device that is not there, giving out null packets, for te… |
+| 2026-09-25 15:39:16 | [tunelith-wasm](https://crates.io/crates/tunelith-wasm) | 0.2.0 | 0 | Tunelith in the browser, driving the PLEX PX4/PX-MLT series and their kin over… |
+| 2026-09-25 15:41:38 | [tc_digest](https://crates.io/crates/tc_digest) | 0.1.0 | 0 | Shared streaming message-digest and extendable-output function (XOF) traits, fa… |
+| 2026-09-25 15:41:41 | [tc_md](https://crates.io/crates/tc_md) | 0.1.0 | 0 | MD2, MD4 and MD5 message digests for legacy interoperability. |
+| 2026-09-25 15:41:42 | [tc_sha](https://crates.io/crates/tc_sha) | 0.1.0 | 0 | SHA-1 and SHA-2 (SHA-224, SHA-256, SHA-384, SHA-512, SHA-512/t) message digests. |
+| 2026-09-25 15:42:28 | [websec-policy-ir](https://crates.io/crates/websec-policy-ir) | 0.1.0 | 0 | Platform-independent WEBSEC security policy IR |
+| 2026-09-25 15:42:46 | [websec-validator](https://crates.io/crates/websec-validator) | 0.1.0 | 0 | WEBSEC policy validator (contradictions and unsafe combinations) |
+| 2026-09-25 15:42:50 | [websec-engine](https://crates.io/crates/websec-engine) | 0.1.0 | 0 | WEBSEC request normalization, rule evaluation, and simulation |
+| 2026-09-25 15:42:55 | [websec-dist](https://crates.io/crates/websec-dist) | 0.1.0 | 0 | WEBSEC policy packages, Kubernetes manifests, drift, and CI gate |
+| 2026-09-25 15:43:00 | [websec-compiler](https://crates.io/crates/websec-compiler) | 0.1.0 | 0 | WEBSEC pipeline orchestrator and HTTP-header target |
+| 2026-09-25 15:43:53 | [kcode-k1-codex-web-search-protocol-values](https://crates.io/crates/kcode-k1-codex-web-search-protocol-values) | 0.1.1 | 0 | Concrete Codex app-server WebSearch inbound protocol values for K1 |
+| 2026-09-25 15:45:58 | [fynd-test-fixtures](https://crates.io/crates/fynd-test-fixtures) | 0.110.1 | 0 | Shared types for Fynd integration test recordings and expected outputs |
+| 2026-09-25 15:46:12 | [fynd-tools-common](https://crates.io/crates/fynd-tools-common) | 0.110.1 | 0 | Shared utilities for Fynd tooling: aggregator quote model, on-chain simulation,… |
+| 2026-09-25 15:46:52 | [fynd-bench-harness](https://crates.io/crates/fynd-bench-harness) | 0.110.1 | 0 | Runs the routing algorithms over a market and writes a report |
+| 2026-09-25 15:47:29 | [websec-runtime](https://crates.io/crates/websec-runtime) | 0.1.0 | 0 | WEBSEC application runtime: sessions, CSRF, rate-limit, password login |
+| 2026-09-25 15:47:45 | [kcode-k1-codex-web-search-protocol-inbound](https://crates.io/crates/kcode-k1-codex-web-search-protocol-inbound) | 0.1.0 | 0 | Concrete inbound Codex app-server WebSearch decoder for K1 |
+| 2026-09-25 15:50:29 | [arbitrary-url](https://crates.io/crates/arbitrary-url) | 0.1.0 | 0 | A URL type that implements Arbitrary |
+| 2026-09-25 15:50:54 | [config-checker-macros](https://crates.io/crates/config-checker-macros) | 0.4.1 | 0 | Macros for the config-checker library. |
+| 2026-09-25 15:53:16 | [ic-blob-storage](https://crates.io/crates/ic-blob-storage) | 0.1.3 | 0 | Independent blob-storage service library for Internet Computer canisters |
+| 2026-09-25 15:54:09 | [agent-sessions](https://crates.io/crates/agent-sessions) | 0.2.0 | 0 | Bounded, provenance-preserving Claude Code and Codex session readers |
+| 2026-09-25 15:55:13 | [eratos](https://crates.io/crates/eratos) | 0.1.1 | 0 | A CPU benchmark built on the Sieve of Eratosthenes |
+| 2026-09-25 15:56:53 | [deordinal](https://crates.io/crates/deordinal) | 0.2.0 | 0 | Detect and remove unnecessary ordering labels in documentation and comments. |
+| 2026-09-25 16:00:15 | [texform-cli](https://crates.io/crates/texform-cli) | 0.6.0 | 0 | Command-line interface for TeXForm: parse, normalize, and tokenize LaTeX formul… |
+| 2026-09-25 16:00:23 | [peisar_frontmatter](https://crates.io/crates/peisar_frontmatter) | 0.1.0 | 0 | Parse optional YAML front matter from Markdown documents and deserialize it int… |
+| 2026-09-25 16:00:24 | [peisar_log](https://crates.io/crates/peisar_log) | 0.1.0 | 0 | Colored, formatted logging utilities for the Peisar project |
+| 2026-09-25 16:00:27 | [peisar_ast](https://crates.io/crates/peisar_ast) | 0.1.0 | 0 | A lossless Markdown AST parser with source-span tracking, GFM extensions, Kramd… |
+| 2026-09-25 16:00:29 | [peisar_fs](https://crates.io/crates/peisar_fs) | 0.1.0 | 0 | Filesystem helper for performing common file operations relative to a configure… |
+| 2026-09-25 16:00:32 | [peisar_html](https://crates.io/crates/peisar_html) | 0.1.0 | 0 | Render a peisar_ast Markdown AST into HTML |
+| 2026-09-25 16:03:12 | [config-checker](https://crates.io/crates/config-checker) | 0.4.1 | 0 | A library to check configuration structs recursively. |
+| 2026-09-25 16:05:06 | [digital-health](https://crates.io/crates/digital-health) | 0.1.0 | 0 | Digital health metrics models, structs, calculations, and examples. |
 
 ## Data source
 

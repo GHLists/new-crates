@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T15:20:28.867173Z,gud,0.1.1,0,0,https://github.com/lkurcak/gud,Interactive git helper
+2026-09-25T15:28:04.400763Z,termleaf,0.1.0,0,0,https://github.com/backyardbit/termleaf,"A live-reloading PDF viewer for the terminal, built for editing LaTeX next to it"
+2026-09-25T15:28:19.744602Z,linura,0.0.1,0,0,https://github.com/linura-org/linura,"Canonical Rust entry point for Linura, the intelligent system layer for Linux."
+2026-09-25T15:30:47.338549Z,thela,0.0.0,0,0,https://github.com/thela-lang/thela,"Placeholder for Thela, an intent-driven programming language. Work in progress; see the repository."
+2026-09-25T15:30:50.550259Z,thela-cli,0.0.0,0,0,https://github.com/thela-lang/thela,"Placeholder for Thela, an intent-driven programming language. Work in progress; see the repository."
+2026-09-25T15:34:22.966742Z,autolux,0.1.1,0,0,https://github.com/lukehsiao/autolux,Adaptive backlight daemon driven by an ambient light sensor
+2026-09-25T15:36:39.727754Z,carwash-core,0.4.0,0,0,https://github.com/epistates/carwash,"Engine for carwash: polyglot project discovery, artifact sizing, safe cleaning, dependency and task inspection"
+2026-09-25T15:36:47.093762Z,poe-client,1.0.0,0,0,,Official Rust client SDK for the POE edge intelligence daemon
+2026-09-25T15:39:14.198962Z,tunelith-driver-mock,0.2.0,0,0,https://github.com/siketyan/tunelith,"Tunelith driver for a device that is not there, giving out null packets, for tests"
+2026-09-25T15:39:16.761407Z,tunelith-wasm,0.2.0,0,0,https://github.com/siketyan/tunelith,"Tunelith in the browser, driving the PLEX PX4/PX-MLT series and their kin over WebUSB"
+2026-09-25T15:41:38.459722Z,tc_digest,0.1.0,0,0,https://github.com/TomiCheng/tc_digest,"Shared streaming message-digest and extendable-output function (XOF) traits, fallible and infallible."
+2026-09-25T15:41:41.006386Z,tc_md,0.1.0,0,0,https://github.com/TomiCheng/tc_digest,"MD2, MD4 and MD5 message digests for legacy interoperability."
+2026-09-25T15:41:42.258337Z,tc_sha,0.1.0,0,0,https://github.com/TomiCheng/tc_digest,"SHA-1 and SHA-2 (SHA-224, SHA-256, SHA-384, SHA-512, SHA-512/t) message digests."
+2026-09-25T15:42:28.230702Z,websec-policy-ir,0.1.0,0,0,,Platform-independent WEBSEC security policy IR
+2026-09-25T15:42:46.15046Z,websec-validator,0.1.0,0,0,,WEBSEC policy validator (contradictions and unsafe combinations)
+2026-09-25T15:42:50.585612Z,websec-engine,0.1.0,0,0,,"WEBSEC request normalization, rule evaluation, and simulation"
+2026-09-25T15:42:55.491404Z,websec-dist,0.1.0,0,0,,"WEBSEC policy packages, Kubernetes manifests, drift, and CI gate"
+2026-09-25T15:43:00.752524Z,websec-compiler,0.1.0,0,0,,WEBSEC pipeline orchestrator and HTTP-header target
+2026-09-25T15:43:53.416783Z,kcode-k1-codex-web-search-protocol-values,0.1.1,0,0,,Concrete Codex app-server WebSearch inbound protocol values for K1
+2026-09-25T15:45:58.076519Z,fynd-test-fixtures,0.110.1,0,0,https://github.com/propeller-heads/fynd,Shared types for Fynd integration test recordings and expected outputs
+2026-09-25T15:46:12.734164Z,fynd-tools-common,0.110.1,0,0,https://github.com/propeller-heads/fynd,"Shared utilities for Fynd tooling: aggregator quote model, on-chain simulation, BPS math"
+2026-09-25T15:46:52.930581Z,fynd-bench-harness,0.110.1,0,0,https://github.com/propeller-heads/fynd,Runs the routing algorithms over a market and writes a report
+2026-09-25T15:47:29.689765Z,websec-runtime,0.1.0,0,0,,"WEBSEC application runtime: sessions, CSRF, rate-limit, password login"
+2026-09-25T15:47:45.780349Z,kcode-k1-codex-web-search-protocol-inbound,0.1.0,0,0,,Concrete inbound Codex app-server WebSearch decoder for K1
+2026-09-25T15:50:29.004789Z,arbitrary-url,0.1.0,0,0,https://github.com/AshrafIbrahim03/arbitrary-url,A URL type that implements Arbitrary
+2026-09-25T15:50:54.954992Z,config-checker-macros,0.4.1,0,0,https://github.com/mescourrou/rust_config_checker.git,Macros for the config-checker library.
+2026-09-25T15:53:16.393359Z,ic-blob-storage,0.1.3,0,0,https://github.com/dragginzgame/ic-blob-storage,Independent blob-storage service library for Internet Computer canisters
+2026-09-25T15:54:09.205363Z,agent-sessions,0.2.0,0,0,https://github.com/majiayu000/agent-sessions,"Bounded, provenance-preserving Claude Code and Codex session readers"
+2026-09-25T15:55:13.235685Z,eratos,0.1.1,0,0,https://github.com/alexylon/eratos,A CPU benchmark built on the Sieve of Eratosthenes
+2026-09-25T15:56:53.572032Z,deordinal,0.2.0,0,0,https://github.com/iharuya/deordinal,Detect and remove unnecessary ordering labels in documentation and comments.
+2026-09-25T16:00:15.511744Z,texform-cli,0.6.0,0,0,https://github.com/texform-dev/texform,"Command-line interface for TeXForm: parse, normalize, and tokenize LaTeX formulas, and serve the normalizer protocol"
+2026-09-25T16:00:23.271221Z,peisar_frontmatter,0.1.0,0,0,https://github.com/phothinmg/peisar-core,Parse optional YAML front matter from Markdown documents and deserialize it into any serde-enabled type
+2026-09-25T16:00:24.375227Z,peisar_log,0.1.0,0,0,https://github.com/phothinmg/peisar-core,"Colored, formatted logging utilities for the Peisar project"
+2026-09-25T16:00:27.966405Z,peisar_ast,0.1.0,0,0,https://github.com/phothinmg/peisar-core,"A lossless Markdown AST parser with source-span tracking, GFM extensions, Kramdown block attributes, and a visitor-based transformation API"
+2026-09-25T16:00:29.230079Z,peisar_fs,0.1.0,0,0,https://github.com/phothinmg/peisar-core,Filesystem helper for performing common file operations relative to a configured root directory
+2026-09-25T16:00:32.575292Z,peisar_html,0.1.0,0,0,https://github.com/phothinmg/peisar-core,Render a peisar_ast Markdown AST into HTML
+2026-09-25T16:03:12.6684Z,config-checker,0.4.1,0,0,https://github.com/mescourrou/rust_config_checker.git,A library to check configuration structs recursively.
+2026-09-25T16:05:06.384571Z,digital-health,0.1.0,0,0,https://github.com/healthprojects/digital-health-rust-crate/,"Digital health metrics models, structs, calculations, and examples."
