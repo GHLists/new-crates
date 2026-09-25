@@ -8,32 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 10:19 UTC
+## Latest list — 2026-09-25 11:19 UTC
 
-New crates published between 2026-09-25 09:21 UTC and 2026-09-25 10:19 UTC.
+New crates published between 2026-09-25 10:19 UTC and 2026-09-25 11:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-25T10-19-04-480688Z.csv)
+[Full CSV](data/new-crates-2026-09-25T11-19-45-989639Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-25 09:22:49 | [kinavis-signalk](https://crates.io/crates/kinavis-signalk) | 0.1.0 | 0 | Signal K deltas in and out of the KINAVIS navigation crates: the traffic pictur… |
-| 2026-09-25 09:28:18 | [tunely](https://crates.io/crates/tunely) | 0.1.0 | 0 | WebSocket Tunnel Client — 透明反向代理隧道（Rust 版客户端，与服务端 wire 协议对齐） |
-| 2026-09-25 09:34:50 | [morphit](https://crates.io/crates/morphit) | 0.1.0 | 0 | MorphIt: approximate a triangle mesh with spheres via gradient-based optimizati… |
-| 2026-09-25 09:34:57 | [morphit-robot](https://crates.io/crates/morphit-robot) | 0.1.0 | 0 | URDF generation, robot-package inspection, per-link packing and quality metrics… |
-| 2026-09-25 09:35:04 | [morphit-capi](https://crates.io/crates/morphit-capi) | 0.1.0 | 0 | Thread-safe C API for the MorphIt sphere-packing optimizer |
-| 2026-09-25 09:35:12 | [morphit-cli](https://crates.io/crates/morphit-cli) | 0.1.0 | 0 | Command-line interface for the MorphIt sphere-packing optimizer |
-| 2026-09-25 09:35:21 | [morphit-server](https://crates.io/crates/morphit-server) | 0.1.0 | 0 | HTTP API for MorphIt, wire-compatible with the Python reference's web service |
-| 2026-09-25 09:39:05 | [dalgona](https://crates.io/crates/dalgona) | 0.0.0 | 0 | dalgon coding harness suite. Version 0.0.0, alpha testing now. |
-| 2026-09-25 09:39:08 | [dalgon](https://crates.io/crates/dalgon) | 0.0.0 | 0 | dalgon coding harness suite. Version 0.0.0, alpha testing now. |
-| 2026-09-25 09:39:11 | [dalgon-core](https://crates.io/crates/dalgon-core) | 0.0.0 | 0 | dalgon coding harness suite. Version 0.0.0, alpha testing now. |
-| 2026-09-25 09:39:13 | [dal-core](https://crates.io/crates/dal-core) | 0.0.0 | 0 | dalgon coding harness suite. Version 0.0.0, alpha testing now. |
-| 2026-09-25 09:46:46 | [kascov-decode](https://crates.io/crates/kascov-decode) | 0.1.0 | 0 | Name Kaspa covenant programs from their bytes: SilverScript and Argent builds o… |
-| 2026-09-25 09:51:35 | [argenv-resolve](https://crates.io/crates/argenv-resolve) | 0.2.0 | 0 | Resolve an argenv contract against a real invocation - argv and envp, with prec… |
-| 2026-09-25 09:56:42 | [lm15](https://crates.io/crates/lm15) | 1.0.0-rc.1 | 0 | One request and response model for every LLM provider (OpenAI, Anthropic, Gemin… |
-| 2026-09-25 10:06:53 | [typdoc-core](https://crates.io/crates/typdoc-core) | 0.3.0 | 0 | Reads a typdoc project and answers questions about it. It changes nothing. |
-| 2026-09-25 10:06:55 | [typdoc-fs](https://crates.io/crates/typdoc-fs) | 0.3.0 | 0 | File system access for typdoc: the only crate that writes files. |
-| 2026-09-25 10:06:56 | [typdoc](https://crates.io/crates/typdoc) | 0.3.0 | 0 | A CLI that treats a folder of Markdown files as typed, linked documents. |
-| 2026-09-25 10:14:06 | [snapif](https://crates.io/crates/snapif) | 0.1.0 | 0 | Snapif |
+| 2026-09-25 10:20:28 | [sch-tool](https://crates.io/crates/sch-tool) | 0.7.1 | 0 | The Schematic CLI for verifying software behavior with Pup |
+| 2026-09-25 10:25:04 | [shardline-reliability](https://crates.io/crates/shardline-reliability) | 1.11.1 | 0 | Durable lifecycle identities and compatibility boundaries for Shardline. |
+| 2026-09-25 10:26:23 | [haetae](https://crates.io/crates/haetae) | 0.0.1 | 0 | Robot safety & security stack for physical AI: a policy gate between untrusted… |
+| 2026-09-25 10:35:12 | [synapto-llm-google](https://crates.io/crates/synapto-llm-google) | 0.1.0-dev.14 | 0 | Google Gemini and Vertex AI LLM provider for the Synapto framework |
+| 2026-09-25 10:35:33 | [synapto-plugin-wayland-clipboard](https://crates.io/crates/synapto-plugin-wayland-clipboard) | 0.1.0-dev.1 | 0 | Wayland clipboard and primary selection plugin for the Synapto framework |
+| 2026-09-25 10:38:26 | [knut-wasm-host](https://crates.io/crates/knut-wasm-host) | 0.1.7 | 0 | Serve a directory of wasm-bundle bytes and a stream of data frames to a browser… |
+| 2026-09-25 10:41:53 | [unpackr](https://crates.io/crates/unpackr) | 0.1.0 | 0 | Production-quality, low-disk-space archive extraction engine with progressive i… |
+| 2026-09-25 10:57:55 | [mummu-num](https://crates.io/crates/mummu-num) | 0.5.0 | 0 | Exact, `as`-free integer/float conversions shared by every mummu crate. |
+| 2026-09-25 11:02:31 | [aip-rs](https://crates.io/crates/aip-rs) | 0.1.0 | 0 | Runtime primitives for Google API Improvement Proposals: resource names. |
+| 2026-09-25 11:09:24 | [structure-model](https://crates.io/crates/structure-model) | 0.1.0 | 0 | Provider-neutral runtime item and model request vocabulary |
+| 2026-09-25 11:09:37 | [structure-protocol](https://crates.io/crates/structure-protocol) | 0.1.0 | 0 | Canonical Command/Event protocol shared by every Structure module and UI |
+| 2026-09-25 11:10:25 | [structure-provider](https://crates.io/crates/structure-provider) | 0.1.0 | 0 | Provider-neutral model boundary and bidirectional API adapters |
+| 2026-09-25 11:10:58 | [structure-runner](https://crates.io/crates/structure-runner) | 0.1.0 | 0 | Runner environment boundary and local runner implementations |
+| 2026-09-25 11:11:51 | [structure-runtime](https://crates.io/crates/structure-runtime) | 0.1.0 | 0 | Headless Structure runtime with context management and runner output normalizat… |
+| 2026-09-25 11:15:49 | [cgconfig](https://crates.io/crates/cgconfig) | 0.1.0 | 0 | winnow parsers for libcgroup cgconfig.conf and cgrules.conf |
+| 2026-09-25 11:15:53 | [cgfs](https://crates.io/crates/cgfs) | 0.1.0 | 0 | safe cgroupfs v2 hierarchy, delegation, attachment, deletion, and control-file… |
+| 2026-09-25 11:17:09 | [ontheloop](https://crates.io/crates/ontheloop) | 0.0.0 | 0 | Reserved namespace placeholder for the On The Loop platform distribution (see @… |
+| 2026-09-25 11:17:51 | [cgcore](https://crates.io/crates/cgcore) | 0.1.0 | 0 | Identity resolution and cgroup v2 leaf application shared by cg-rs tools |
+| 2026-09-25 11:17:56 | [cgctl](https://crates.io/crates/cgctl) | 0.1.0 | 0 | busybox-style cgroup v2 CLI: config, ls, get, set, classify, exec, delete, snap… |
+| 2026-09-25 11:18:02 | [cgrulesd](https://crates.io/crates/cgrulesd) | 0.1.0 | 0 | cgrules.conf enforcement daemon for cgroup v2 (poll-based cgred successor) |
+| 2026-09-25 11:18:08 | [pam_cgroup](https://crates.io/crates/pam_cgroup) | 0.1.0 | 0 | PAM session module: place the login in a delegated cgroup v2 leaf |
+| 2026-09-25 11:18:43 | [marfa-client](https://crates.io/crates/marfa-client) | 0.0.1 | 0 | The Rust client for a Marfa instance, generated from its openapi.json. |
 
 ## Data source
 

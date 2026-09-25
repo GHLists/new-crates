@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T10:20:28.257233Z,sch-tool,0.7.1,0,0,https://github.com/schematic-tech/sch,The Schematic CLI for verifying software behavior with Pup
+2026-09-25T10:25:04.007343Z,shardline-reliability,1.11.1,0,0,https://github.com/STEXS-Technologies/shardline,Durable lifecycle identities and compatibility boundaries for Shardline.
+2026-09-25T10:26:23.081818Z,haetae,0.0.1,0,0,https://github.com/haetae-robotics/haetae,Robot safety & security stack for physical AI: a policy gate between untrusted models and actuators (pre-alpha)
+2026-09-25T10:35:12.304268Z,synapto-llm-google,0.1.0-dev.14,0,0,https://github.com/synapto-ai/synapto,Google Gemini and Vertex AI LLM provider for the Synapto framework
+2026-09-25T10:35:33.230174Z,synapto-plugin-wayland-clipboard,0.1.0-dev.1,0,0,https://github.com/synapto-ai/synapto,Wayland clipboard and primary selection plugin for the Synapto framework
+2026-09-25T10:38:26.200225Z,knut-wasm-host,0.1.7,0,0,https://github.com/rlundin/knut,"Serve a directory of wasm-bundle bytes and a stream of data frames to a browser — component-agnostic: hyper only, no web framework, no component library"
+2026-09-25T10:41:53.343328Z,unpackr,0.1.0,0,0,https://github.com/RahulKumar-007/Unpackr,"Production-quality, low-disk-space archive extraction engine with progressive in-place storage reclamation and native GUI"
+2026-09-25T10:57:55.911689Z,mummu-num,0.5.0,0,0,https://github.com/physics515/Mummu,"Exact, `as`-free integer/float conversions shared by every mummu crate."
+2026-09-25T11:02:31.220335Z,aip-rs,0.1.0,0,0,https://github.com/protoc-contrib/aip-rs,Runtime primitives for Google API Improvement Proposals: resource names.
+2026-09-25T11:09:24.03754Z,structure-model,0.1.0,0,0,,Provider-neutral runtime item and model request vocabulary
+2026-09-25T11:09:37.563657Z,structure-protocol,0.1.0,0,0,,Canonical Command/Event protocol shared by every Structure module and UI
+2026-09-25T11:10:25.752435Z,structure-provider,0.1.0,0,0,,Provider-neutral model boundary and bidirectional API adapters
+2026-09-25T11:10:58.032087Z,structure-runner,0.1.0,0,0,,Runner environment boundary and local runner implementations
+2026-09-25T11:11:51.502932Z,structure-runtime,0.1.0,0,0,,Headless Structure runtime with context management and runner output normalization
+2026-09-25T11:15:49.466847Z,cgconfig,0.1.0,0,0,https://github.com/lu_zero/cg-rs,winnow parsers for libcgroup cgconfig.conf and cgrules.conf
+2026-09-25T11:15:53.484477Z,cgfs,0.1.0,0,0,https://github.com/lu_zero/cg-rs,"safe cgroupfs v2 hierarchy, delegation, attachment, deletion, and control-file access"
+2026-09-25T11:17:09.791924Z,ontheloop,0.0.0,0,0,https://github.com/benjamin-blake/theseus,Reserved namespace placeholder for the On The Loop platform distribution (see @onthelooplabs/ontheloop and https://github.com/benjamin-blake/theseus).
+2026-09-25T11:17:51.092256Z,cgcore,0.1.0,0,0,https://github.com/lu_zero/cg-rs,Identity resolution and cgroup v2 leaf application shared by cg-rs tools
+2026-09-25T11:17:56.762166Z,cgctl,0.1.0,0,0,https://github.com/lu_zero/cg-rs,"busybox-style cgroup v2 CLI: config, ls, get, set, classify, exec, delete, snapshot"
+2026-09-25T11:18:02.975366Z,cgrulesd,0.1.0,0,0,https://github.com/lu_zero/cg-rs,cgrules.conf enforcement daemon for cgroup v2 (poll-based cgred successor)
+2026-09-25T11:18:08.610111Z,pam_cgroup,0.1.0,0,0,https://github.com/lu_zero/cg-rs,PAM session module: place the login in a delegated cgroup v2 leaf
+2026-09-25T11:18:43.424207Z,marfa-client,0.0.1,0,0,,"The Rust client for a Marfa instance, generated from its openapi.json."
