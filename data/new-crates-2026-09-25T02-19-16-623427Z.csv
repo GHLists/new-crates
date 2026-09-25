@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T01:22:50.002249Z,reallyme-vp-core,0.1.0,0,0,https://github.com/reallyme/ssi,Protocol-agnostic verifiable presentation models and holder-binding primitives.
+2026-09-25T01:24:17.307817Z,pylon-shard-guest,0.13.0,0,0,https://github.com/pylonsync/pylon,Write Pylon realtime shard logic in Rust and compile it to WebAssembly.
+2026-09-25T01:27:37.164031Z,turbojev-runtime,0.28.3,0,0,https://github.com/DestroyerDarkNess/TurboJev,Universal token-level runtime bridge for TurboJev open-weight inference
+2026-09-25T01:27:41.453424Z,turbojev-sequence,0.28.3,0,0,https://github.com/DestroyerDarkNess/TurboJev,Exact prefix-sharing candidate sequence scoring for TurboJev
+2026-09-25T01:27:47.86031Z,turbojev-runtime-conformance,0.28.3,0,0,https://github.com/DestroyerDarkNess/TurboJev,Portable conformance kit for TurboJev tokenizer and runtime adapters
+2026-09-25T01:27:51.879634Z,turbojev-runtime-projection,0.28.3,0,0,https://github.com/DestroyerDarkNess/TurboJev,Portable dense candidate-only projection runtime adapter for TurboJev
+2026-09-25T01:27:56.06304Z,turbojev-runtime-qualification,0.28.3,0,0,https://github.com/DestroyerDarkNess/TurboJev,Portable evidence contracts for qualifying TurboJev runtime capabilities
+2026-09-25T01:29:20.679825Z,turbojev-specialized,0.28.3,0,0,https://github.com/DestroyerDarkNess/TurboJev,Portable contracts and reproducibility rules for TurboJev decision-specialized models
+2026-09-25T01:29:45.799638Z,tosa,1.0.0,0,0,https://github.com/Sika-Zheng-Lab/Tosa,Fast junction and exon-intron boundary read counting from RNA-seq/scRNA-seq BAM/CRAM files
+2026-09-25T01:32:49.962491Z,reallyme-compression-brotli,0.1.0,0,0,https://github.com/reallyme/ssi,Bounded Brotli compression and decompression for untrusted byte payloads.
+2026-09-25T01:33:57.453577Z,lattica,1.0.0,0,0,https://github.com/nanithefkuc/lattica,"Shared arithmetic for point lattices, underneath lattice-based erasure codes"
+2026-09-25T01:39:20.933205Z,turbojev-training-data,0.28.3,0,0,https://github.com/DestroyerDarkNess/TurboJev,Portable semantic training datasets and deterministic materialization for TurboJev specialized models
+2026-09-25T01:40:34.916269Z,benostreamdb,0.10.0,0,0,https://github.com/benolabsai/benostreamdb,BenoStreamDB - Serverless Index-Streaming Database with Overlay Indexing and Vector Search
+2026-09-25T01:42:32.177035Z,rustopus,0.1.0,0,0,https://github.com/nimanoori22/rustopus,"Async HTTP request orchestration: per-API rate limiting, bounded concurrency, and pluggable retry policies."
+2026-09-25T01:42:50.776278Z,reallyme-ssi-proto-codec,0.1.0,0,0,https://github.com/reallyme/ssi,"Bounded, zeroizing codecs and domain conversions for ReallyMe SSI protobufs."
+2026-09-25T01:43:33.84027Z,google-shopping-merchant-lfp-v1,1.1.0,0,0,https://github.com/googleapis/google-cloud-rust/tree/main,Google Cloud Client Libraries for Rust - Shopping Merchant LFP API
+2026-09-25T01:43:52.620896Z,restie,0.1.0,0,0,https://github.com/samxxu/restie,RESTie - A transparent RESTful API client CLI
+2026-09-25T01:44:37.622596Z,google-shopping-merchant-loyaltycustomers-v1,1.0.0,0,0,https://github.com/googleapis/google-cloud-rust/tree/main,Google Cloud Client Libraries for Rust - Merchant API
+2026-09-25T01:46:45.30848Z,google-shopping-merchant-ordertracking-v1,1.1.0,0,0,https://github.com/googleapis/google-cloud-rust/tree/main,Google Cloud Client Libraries for Rust - Shopping Merchant Order Tracking API
+2026-09-25T01:47:51.339508Z,google-shopping-merchant-products-v1,1.1.0,0,0,https://github.com/googleapis/google-cloud-rust/tree/main,Google Cloud Client Libraries for Rust - Shopping Merchant Products API
+2026-09-25T01:48:55.738371Z,google-shopping-merchant-promotions-v1,1.1.0,0,0,https://github.com/googleapis/google-cloud-rust/tree/main,Google Cloud Client Libraries for Rust - Shopping Merchant Promotions API
+2026-09-25T01:49:21.317144Z,turbojev-specialized-artifact,0.28.3,0,0,https://github.com/DestroyerDarkNess/TurboJev,Portable model-bound artifact pipeline for TurboJev specialized open-weight models
+2026-09-25T01:49:59.677784Z,google-shopping-merchant-quota-v1,1.1.0,0,0,https://github.com/googleapis/google-cloud-rust/tree/main,Google Cloud Client Libraries for Rust - Shopping Merchant Quota API
+2026-09-25T01:52:50.407985Z,reallyme-disclosure-policy,0.1.0,0,0,https://github.com/reallyme/ssi,Reusable eIDAS-oriented verifiable presentation disclosure policies.
+2026-09-25T01:59:21.825169Z,turbojev-benchmark,0.28.3,0,0,https://github.com/DestroyerDarkNess/TurboJev,Portable benchmark fixture and result protocol for TurboJev runtimes
+2026-09-25T01:59:47.327251Z,google-shopping-merchant-reports-v1,1.1.0,0,0,https://github.com/googleapis/google-cloud-rust/tree/main,Google Cloud Client Libraries for Rust - Shopping Merchant Reports API
+2026-09-25T02:02:51.722221Z,reallyme-mdoc,0.1.0,0,0,https://github.com/reallyme/ssi,"ISO/IEC 18013-5 mdoc issuance, presentation, and verification primitives."
+2026-09-25T02:09:24.948846Z,turbojev-specialized-eval,0.28.3,0,0,https://github.com/DestroyerDarkNess/TurboJev,Portable generic-vs-specialized evaluation and external-run interchange for TurboJev
+2026-09-25T02:12:50.959494Z,reallyme-openid-oauth,0.1.0,0,0,https://github.com/reallyme/ssi,"OAuth substrate: PAR, DPoP, PKCE, AS metadata, and attestation-based client authentication."
+2026-09-25T02:17:04.062233Z,sbol-db-search-sdk,0.1.7,0,0,https://github.com/marpaia/sbol-db,"Stable Rust contracts for pluggable sbol-db search strategies, embeddings, and vector backends."
+2026-09-25T02:17:06.085367Z,sbol-db-embedding-fastembed,0.1.7,0,0,https://github.com/marpaia/sbol-db,Local FastEmbed/ONNX embedding provider for the sbol-db search SDK.
+2026-09-25T02:17:06.97975Z,sbol-db-search,0.1.7,0,0,https://github.com/marpaia/sbol-db,Pure ranked-search algorithms for sbol-db: PageRank and the top-level link graph.
+2026-09-25T02:17:07.335231Z,sbol-db-search-eval,0.1.7,0,0,https://github.com/marpaia/sbol-db,Offline relevance evaluation and rollout gates for sbol-db search strategies.
+2026-09-25T02:17:07.624054Z,sbol-db-search-faiss,0.1.7,0,0,https://github.com/marpaia/sbol-db,Persistent embedded FAISS vector-search backend for sbol-db.
