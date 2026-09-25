@@ -1,0 +1,8 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T06:21:21.112047Z,ghidra-decompiler,1.0.0,0,0,https://github.com/koute/ghidra-decompiler,Pure Rust port of the Ghidra decompiler
+2026-09-25T06:44:40.381459Z,keramics-encryption,0.0.1,0,0,https://github.com/keramics/keramics,Keramics encryption support
+2026-09-25T06:46:20.674287Z,par-term-mux,0.1.0,0,0,https://github.com/paulrobello/par-term,par-mux control-mode client for par-term terminal emulator
+2026-09-25T06:51:35.552596Z,qipx,0.1.0,0,0,https://github.com/royalicing/qip,"CLI to run, test, and benchmark QIP WebAssembly components"
+2026-09-25T07:05:20.116237Z,kingfisher-vectorscan-sys,0.1.0,0,0,https://github.com/micksmix/kingfisher-vectorscan,Native bindings to the Vectorscan high-performance regex library
+2026-09-25T07:08:03.519838Z,kingfisher-vectorscan,0.1.0,0,0,https://github.com/micksmix/kingfisher-vectorscan,Ergonomic bindings to the Vectorscan high-performance regex library
+2026-09-25T07:09:16.615161Z,socratic-council-engine,0.1.0,0,0,https://github.com/richer-richard/socratic-council,"The Socratic Council deliberation engine: a council of AI models (any model per seat, eight providers) deliberates in structured rounds with native tool calling and leaves a decision record."
