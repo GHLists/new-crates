@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T13:22:23.135964Z,sxr-core,0.3.0,0,0,https://github.com/GodSpeedAI/RealityTrace,"RealityTrace domain types, canonical JSON, CEP envelope construction and validation, record-kind registry, threshold evaluation. No I/O."
+2026-09-25T13:22:44.001299Z,sxr-git,0.2.1,0,0,https://github.com/GodSpeedAI/RealityTrace,RealityTrace RepositoryDiscoveryPort: minted identities and evidence via git plumbing.
+2026-09-25T13:23:03.521265Z,sxr-ledger,0.2.1,0,0,https://github.com/GodSpeedAI/RealityTrace,"RealityTrace SQLite adapter: generation-local hash chains, history manifest, outbox, writer lock, CAS/ARS."
+2026-09-25T13:23:22.149221Z,sxr-df,0.2.1,0,0,https://github.com/GodSpeedAI/RealityTrace,RealityTrace CliDomainForgeAdapter: SemanticSourcePort over the domainforge envelope CLI.
+2026-09-25T13:23:43.753235Z,sxr-verify,0.2.1,0,0,https://github.com/GodSpeedAI/RealityTrace,RealityTrace VerifierPort: process runner and the cargo-test descriptor with declared qualification rules.
+2026-09-25T13:26:06.814739Z,gitguardian-api,0.1.0,0,0,https://github.com/GitGuardian/rs-gitguardian,Request definitions and models for the GitGuardian API
+2026-09-25T13:26:09.465077Z,gitguardian-client,0.1.0,0,0,https://github.com/GitGuardian/rs-gitguardian,GitGuardian API client with ureq and reqwest backends
+2026-09-25T13:27:59.881969Z,robotemkin,0.3.0,0,0,https://g.starshard.space/steffo/robotemkin,Tournament assistant bot
+2026-09-25T13:31:02.906239Z,dodb-storage,0.1.0,0,0,https://github.com/NamseEnt/fn0,"Storage engine for dodb, the fn0 document database"
+2026-09-25T13:31:06.580316Z,dodb-server,0.1.0,0,0,https://github.com/NamseEnt/fn0,"Server for dodb, the fn0 document database"
+2026-09-25T13:32:51.509754Z,kcode-k1-chat-codex-state-testkit,0.1.0,0,0,,Concrete downstream conformance assertions for Codex conversation state
+2026-09-25T13:35:30.301396Z,kcode-k1-chat-persistence-values,0.1.0,0,0,,Generic value owner for K1 chat persistence
+2026-09-25T13:35:36.054203Z,rapier-cloth,0.2.0,0,0,https://github.com/neka-nat/rapier-cloth,CPU XPBD cloth simulation with Rapier 3D integration
+2026-09-25T13:36:24.382985Z,boehm-reals,0.1.0,0,0,https://github.com/Madhura-mb/boehm_reals,Exact real number arithmetic based on Hans-J. Boehm's constructive reals
+2026-09-25T13:38:37.010226Z,statime-base,0.1.0,0,0,https://github.com/pendulum-project/ntpd-rs,Full-featured implementation of NTP with NTS support
+2026-09-25T13:39:01.830899Z,ai-duel,0.1.0,0,0,https://github.com/jorgeandrecastro/ai-duel,Plugin d'IA de duel (approche + attaque + dégâts) pour Bevy.
+2026-09-25T13:40:28.369671Z,pylon-db-derive,0.1.0,0,0,https://github.com/jaldisdev/pylon,#[derive(Queryable)] for the Pylon Rust client
+2026-09-25T13:40:28.622339Z,pylon-db-value,0.1.0,0,0,https://github.com/jaldisdev/pylon,"Decoded PostgreSQL values, shared across the Pylon crates"
+2026-09-25T13:40:30.808254Z,pylon-db-cache,0.1.0,0,0,https://github.com/jaldisdev/pylon,LMDB read-through query cache for Pylon
+2026-09-25T13:40:31.225907Z,pylon-db-pgcon,0.1.0,0,0,https://github.com/jaldisdev/pylon,"PostgreSQL connection layer for Pylon: pooling, binary wire decoding, LISTEN/NOTIFY"
+2026-09-25T13:40:33.298103Z,pylon-db-core,0.1.0,0,0,https://github.com/jaldisdev/pylon,"The Pylon compiler: PyQL parsing, IR, SQL emission, schema export and migration diffing"
+2026-09-25T13:51:16.302098Z,pylon-db-client,0.1.0,0,0,https://github.com/jaldisdev/pylon,Native Rust client for Pylon: run PyQL queries against a Pylon-managed PostgreSQL database
+2026-09-25T13:54:56.062684Z,layered-config,0.1.0,0,0,https://codeberg.org/a_nagy/layered-config,"A lightweight, layered configuration loader for Rust applications, inspired by .NET Configuration patterns. It's built on top of the popular config crate. layered-config simplifies application setup…"
+2026-09-25T14:00:25.806773Z,rusty-desktop-icons,0.0.0,0,0,https://github.com/s0d3s/rusty-desktop-icons,Empty trusted-publishing bootstrap for rusty-desktop-icons; not the functional library.
+2026-09-25T14:00:59.829875Z,kcode-k1-chat-persistence-jsonl,0.1.0,0,0,,JSONL framing and predecessor reconciliation for K1 chat persistence
+2026-09-25T14:04:21.248112Z,kcode-k1-chat-persistence-records-testkit,0.1.0,0,0,,Conformance assertions for K1 chat persistence records
+2026-09-25T14:14:58.110966Z,claude-sync,0.1.0,0,0,https://github.com/aoprisan/ccsync,"Sync and back up Claude Code settings, sessions, and memory across machines"
