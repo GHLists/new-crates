@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T18:26:11.150276Z,mise-settings,0.0.0,0,0,https://github.com/jdx/mise,Placeholder for the mise settings crate
+2026-09-25T18:26:16.123498Z,mise-util,0.0.0,0,0,https://github.com/jdx/mise,Placeholder for the mise utility crate
+2026-09-25T18:26:48.824135Z,dogwood-local-engine,1.0.0,0,0,https://github.com/dogwood-policy/dogwood-local-engine,"A single-machine, event-sourced temporal engine for Dogwood: an incremental monitor over a durable local event log, implementing `dogwood_language::TemporalEngine`. The no-AWS counterpart to the DSQL…"
+2026-09-25T18:36:53.713369Z,ironflow-engine-macros,0.1.1,0,0,https://gitlab.com/ThomasTartrau/ironflow,Derive macros for Ironflow workflow authors (typed decision answers)
+2026-09-25T18:40:40.183329Z,kcode-k1-codex-web-search-turn,0.1.1,0,0,,Collects one scoped Codex turn for K1 web search
+2026-09-25T18:48:46.035478Z,shiftyard,0.0.1,0,0,,f200 Shiftyard: an open-source software factory for coding agents on your own machines (pre-alpha placeholder)
+2026-09-25T18:49:43.726797Z,lattice-grid,0.1.1,0,0,https://github.com/pengtor/iced_lattice,A virtualised spreadsheet grid widget for iced
+2026-09-25T18:53:48.631548Z,not-jwt,1.1.0,0,0,https://github.com/rafiibrahim8/not-jwt,"Tiny HMAC-SHA256 message signer, token-compatible with the not-jwt npm package."
+2026-09-25T18:53:56.641472Z,devset-core,0.1.2,0,0,https://github.com/atomix-labs/devset,"versioned file bundles, applied to a directory and updated without losing local edits."
+2026-09-25T18:53:58.26282Z,loopkeel,0.1.0,0,0,https://github.com/hebertcisco/loopkeel,A resilient CLI orchestrator for agentic work loops
+2026-09-25T18:53:59.38166Z,devset-cli,0.1.2,0,0,https://github.com/atomix-labs/devset,"apply versioned file bundles to a directory, and update them without losing local edits."
+2026-09-25T18:54:02.633425Z,mahabodi-core,0.1.0,0,0,https://github.com/mahabodi/mahabodi,MahaBodi: a System-1 engine for AI agents - fastmemory topology memory plus Laya decisions
+2026-09-25T18:54:22.698423Z,mahabodi-ffi,0.1.0,0,0,https://github.com/mahabodi/mahabodi,"C ABI for MahaBodi (JSON in, JSON out) - used by the Go and C#/.NET bindings"
+2026-09-25T18:56:05.770306Z,goliath-sigma,0.1.1,0,0,https://github.com/arelove/goliath-siem,Sigma detection rule parsing into a typed AST
+2026-09-25T18:56:17.221221Z,goliath-rule,0.1.0,0,0,https://github.com/arelove/goliath-siem,"Detection rules resolved to OCSF paths, shared by every execution path"
+2026-09-25T18:56:25.138689Z,goliath-match,0.1.0,0,0,https://github.com/arelove/goliath-siem,Evaluation of resolved detection rules against OCSF events
+2026-09-25T18:56:30.658379Z,goliath-ocsf,0.1.1,0,0,https://github.com/arelove/goliath-siem,"OCSF event types, validation, and observable extraction for the Goliath security platform"
+2026-09-25T18:56:37.096524Z,goliath-normalize,0.1.0,0,0,https://github.com/arelove/goliath-siem,Declarative source definitions that turn raw log records into OCSF events
+2026-09-25T18:56:48.993119Z,kuntu-scan,0.2.0,0,0,https://github.com/HuakunShen/kuntu,"Fast disk usage scanner, cleanup candidate finder, and cloud eviction planning."
+2026-09-25T18:58:56.629529Z,legume-enrichment,0.3.9,0,0,https://github.com/causalpathlab/legume-enrichment,"Gene-set enrichment, ontology scoring, and marker bootstrap for single-cell annotation"
+2026-09-25T18:59:05.303449Z,spacelens,0.2.9,0,0,https://github.com/HuakunShen/space-lens,Scan disk usage and find cleanup candidates for development projects.
+2026-09-25T19:00:34.155192Z,legume-graph-embedding,0.8.4,0,0,https://github.com/causalpathlab/legume-graph-embedding,"Count-NCE bipartite graph embedding over (cell, feature) edges"
+2026-09-25T19:03:08.846358Z,pinto-rs,0.10.6,0,0,https://github.com/causalpathlab/pinto-rs,Proximity-based Interaction Network analysis for Tissue Organization
+2026-09-25T19:13:52.936764Z,lens3329,0.1.0,0,0,https://github.com/3329lens/3329lens,"Cryptographic inventory scanner: crypto library discovery, lockfile version resolution (Cargo/npm/PyPI), offline advisory/CVE correlation, and CycloneDX CBOM / SARIF export."
+2026-09-25T19:15:08.610563Z,kcode-k1-codex-web-search-session,0.1.1,0,0,,One-shot Codex app-server session for K1 web search
+2026-09-25T19:16:23.344347Z,gdi-rs,0.1.0,0,0,https://github.com/alucryd/oxyromon,"Dreamcast GD-ROM CUE/BIN (Redump) to GDI conversion, laid out as gdidrop does"
+2026-09-25T19:16:29.063162Z,xso-rs,0.1.0,0,0,https://github.com/alucryd/oxyromon,"CSO/ZSO (compressed PSP/PS2 ISO) compression and decompression, interchangeable with maxcso"
+2026-09-25T19:16:50.517039Z,superui_css_utilities,0.3.5,0,0,https://github.com/strowk/bevy_superui,Class utilities (Tailwind-compatible) for bevy_superui: generate flair-supported CSS from utility class names

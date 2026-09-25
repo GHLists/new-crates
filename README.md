@@ -8,46 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 18:18 UTC
+## Latest list — 2026-09-25 19:18 UTC
 
-New crates published between 2026-09-25 17:19 UTC and 2026-09-25 18:18 UTC.
+New crates published between 2026-09-25 18:18 UTC and 2026-09-25 19:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-25T18-18-57-995222Z.csv)
+[Full CSV](data/new-crates-2026-09-25T19-18-55-524127Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-25 17:22:27 | [typed-lm-trainer](https://crates.io/crates/typed-lm-trainer) | 0.1.0 | 0 | LoRA/QLoRA and full fine-tuning plus FP8/FP4 post-training quantization for typ… |
-| 2026-09-25 17:22:57 | [navcore-math](https://crates.io/crates/navcore-math) | 0.3.0 | 0 | Pure navigation math: great circle and rhumb line, cross-track error, wind tria… |
-| 2026-09-25 17:24:53 | [rigorix-schemas](https://crates.io/crates/rigorix-schemas) | 0.1.0 | 0 | Canonical Rigorix contracts (JSON Schemas + conformance fixtures), embedded at… |
-| 2026-09-25 17:25:16 | [rigorix-verifier](https://crates.io/crates/rigorix-verifier) | 0.1.0 | 0 | Protocol-only verifier for Rigorix audit envelopes — HMAC integrity, JSON Schem… |
-| 2026-09-25 17:25:39 | [kr](https://crates.io/crates/kr) | 0.0.1 | 0 | Initial kr package; no public API or executable yet |
-| 2026-09-25 17:27:33 | [bonsai-lang-java](https://crates.io/crates/bonsai-lang-java) | 0.4.0 | 0 | Java language support for bonsai-lint |
-| 2026-09-25 17:31:40 | [carbonfr-sdk](https://crates.io/crates/carbonfr-sdk) | 0.1.1 | 0 | Async Rust client for the carbon-fr API — real-time and historical carbon inten… |
-| 2026-09-25 17:31:45 | [navcore-fix](https://crates.io/crates/navcore-fix) | 0.3.0 | 0 | Own-ship state: several sources ranked by freshness, and a fix assembled from w… |
-| 2026-09-25 17:32:09 | [navcore-flag-state](https://crates.io/crates/navcore-flag-state) | 0.3.0 | 0 | The ISO 3166-1 code of the country an MMSI or a call sign was issued under -- s… |
-| 2026-09-25 17:33:10 | [navcore-enc-store](https://crates.io/crates/navcore-enc-store) | 0.3.0 | 0 | Read-only queries against a chart GeoPackage: what lies in a corridor of water,… |
-| 2026-09-25 17:33:41 | [navcore-signalk](https://crates.io/crates/navcore-signalk) | 0.3.0 | 0 | Signal K as an adapter: deltas turned into the core's own units and fed to a fi… |
-| 2026-09-25 17:33:57 | [navcore-signalk-client](https://crates.io/crates/navcore-signalk-client) | 0.3.0 | 0 | The wire to a Signal K server: finding it, being let in, and keeping the stream… |
-| 2026-09-25 17:37:15 | [tcp-client-addr](https://crates.io/crates/tcp-client-addr) | 0.1.0 | 0 | Identify TCP clients directly or via trusted PROXY protocol peers |
-| 2026-09-25 17:41:19 | [dexcontrol-sys](https://crates.io/crates/dexcontrol-sys) | 0.7.6 | 0 | Public FFI bindings for the precompiled DexControl runtime |
-| 2026-09-25 17:41:23 | [dexcontrol](https://crates.io/crates/dexcontrol) | 0.7.6 | 0 | Safe Rust API for the precompiled DexControl robot runtime |
-| 2026-09-25 17:43:55 | [cocoa-rs](https://crates.io/crates/cocoa-rs) | 0.3.1 | 0 | Counterfactual Confounder Adjustment for Differential Analysis |
-| 2026-09-25 17:44:48 | [navcore-routes](https://crates.io/crates/navcore-routes) | 0.3.0 | 0 | The mariner's own routes: a domain type and CRUD orchestration against Signal K… |
-| 2026-09-25 17:47:10 | [laminio](https://crates.io/crates/laminio) | 0.1.0 | 0 | A layer-streaming tensor engine for loading massive models directly from cold s… |
-| 2026-09-25 17:48:05 | [echovalidum-memory](https://crates.io/crates/echovalidum-memory) | 0.1.0 | 0 | CHERI-flavoured capability memory over a sparse 64-bit address space, for Echov… |
-| 2026-09-25 17:51:16 | [ube-foundation](https://crates.io/crates/ube-foundation) | 0.1.0 | 0 | Universal Behavioral Engine Foundation: A Post-Quantum Cryptographic Trust Engi… |
-| 2026-09-25 17:55:32 | [simusa-com](https://crates.io/crates/simusa-com) | 1.9.1 | 0 | Communication utilities for simusa |
-| 2026-09-25 17:55:32 | [simusa-macros](https://crates.io/crates/simusa-macros) | 1.9.1 | 0 | Procedural macros for simusa |
-| 2026-09-25 17:55:35 | [simusa](https://crates.io/crates/simusa) | 1.9.1 | 0 | SiMuSA is a simulator designed to abstract sensor measurements to facilitate th… |
-| 2026-09-25 17:55:37 | [simusa-cmd](https://crates.io/crates/simusa-cmd) | 1.9.1 | 0 | Command-line interface for simusa |
-| 2026-09-25 17:55:37 | [simusa-tools](https://crates.io/crates/simusa-tools) | 1.9.1 | 0 | Generation tools for simusa |
-| 2026-09-25 17:55:59 | [huskarl-route-guard](https://crates.io/crates/huskarl-route-guard) | 0.1.0 | 0 | Path-to-rule routing with a path-confusion (parser differential) guard for auth… |
-| 2026-09-25 18:01:01 | [koth-core](https://crates.io/crates/koth-core) | 0.11.0 | 0 | Pure-Rust, in-memory LC-MS feature detection of koth: hills, isotope features a… |
-| 2026-09-25 18:01:34 | [mdlx](https://crates.io/crates/mdlx) | 0.0.0 | 0 | Unified AI model API and runtime semantics for Rust. |
-| 2026-09-25 18:06:17 | [kcode-k1-codex-web-search-process](https://crates.io/crates/kcode-k1-codex-web-search-process) | 0.1.0 | 0 | Owns the short-lived Codex app-server subprocess used by K1 web search |
-| 2026-09-25 18:07:44 | [plane-sqlx-postgres](https://crates.io/crates/plane-sqlx-postgres) | 0.1.0 | 0 | PostgreSQL-only SQLx facade, so MySQL and its RSA dependency stay out of the lo… |
-| 2026-09-25 18:08:50 | [mcp-usage-plane](https://crates.io/crates/mcp-usage-plane) | 0.1.0 | 0 | Usage and entitlement control plane for MCP servers. |
-| 2026-09-25 18:10:31 | [nova-registry](https://crates.io/crates/nova-registry) | 0.1.0 | 0 | A Rust recursive registry :3 |
+| 2026-09-25 18:26:11 | [mise-settings](https://crates.io/crates/mise-settings) | 0.0.0 | 0 | Placeholder for the mise settings crate |
+| 2026-09-25 18:26:16 | [mise-util](https://crates.io/crates/mise-util) | 0.0.0 | 0 | Placeholder for the mise utility crate |
+| 2026-09-25 18:26:48 | [dogwood-local-engine](https://crates.io/crates/dogwood-local-engine) | 1.0.0 | 0 | A single-machine, event-sourced temporal engine for Dogwood: an incremental mon… |
+| 2026-09-25 18:36:53 | [ironflow-engine-macros](https://crates.io/crates/ironflow-engine-macros) | 0.1.1 | 0 | Derive macros for Ironflow workflow authors (typed decision answers) |
+| 2026-09-25 18:40:40 | [kcode-k1-codex-web-search-turn](https://crates.io/crates/kcode-k1-codex-web-search-turn) | 0.1.1 | 0 | Collects one scoped Codex turn for K1 web search |
+| 2026-09-25 18:48:46 | [shiftyard](https://crates.io/crates/shiftyard) | 0.0.1 | 0 | f200 Shiftyard: an open-source software factory for coding agents on your own m… |
+| 2026-09-25 18:49:43 | [lattice-grid](https://crates.io/crates/lattice-grid) | 0.1.1 | 0 | A virtualised spreadsheet grid widget for iced |
+| 2026-09-25 18:53:48 | [not-jwt](https://crates.io/crates/not-jwt) | 1.1.0 | 0 | Tiny HMAC-SHA256 message signer, token-compatible with the not-jwt npm package. |
+| 2026-09-25 18:53:56 | [devset-core](https://crates.io/crates/devset-core) | 0.1.2 | 0 | versioned file bundles, applied to a directory and updated without losing local… |
+| 2026-09-25 18:53:58 | [loopkeel](https://crates.io/crates/loopkeel) | 0.1.0 | 0 | A resilient CLI orchestrator for agentic work loops |
+| 2026-09-25 18:53:59 | [devset-cli](https://crates.io/crates/devset-cli) | 0.1.2 | 0 | apply versioned file bundles to a directory, and update them without losing loc… |
+| 2026-09-25 18:54:02 | [mahabodi-core](https://crates.io/crates/mahabodi-core) | 0.1.0 | 0 | MahaBodi: a System-1 engine for AI agents - fastmemory topology memory plus Lay… |
+| 2026-09-25 18:54:22 | [mahabodi-ffi](https://crates.io/crates/mahabodi-ffi) | 0.1.0 | 0 | C ABI for MahaBodi (JSON in, JSON out) - used by the Go and C#/.NET bindings |
+| 2026-09-25 18:56:05 | [goliath-sigma](https://crates.io/crates/goliath-sigma) | 0.1.1 | 0 | Sigma detection rule parsing into a typed AST |
+| 2026-09-25 18:56:17 | [goliath-rule](https://crates.io/crates/goliath-rule) | 0.1.0 | 0 | Detection rules resolved to OCSF paths, shared by every execution path |
+| 2026-09-25 18:56:25 | [goliath-match](https://crates.io/crates/goliath-match) | 0.1.0 | 0 | Evaluation of resolved detection rules against OCSF events |
+| 2026-09-25 18:56:30 | [goliath-ocsf](https://crates.io/crates/goliath-ocsf) | 0.1.1 | 0 | OCSF event types, validation, and observable extraction for the Goliath securit… |
+| 2026-09-25 18:56:37 | [goliath-normalize](https://crates.io/crates/goliath-normalize) | 0.1.0 | 0 | Declarative source definitions that turn raw log records into OCSF events |
+| 2026-09-25 18:56:48 | [kuntu-scan](https://crates.io/crates/kuntu-scan) | 0.2.0 | 0 | Fast disk usage scanner, cleanup candidate finder, and cloud eviction planning. |
+| 2026-09-25 18:58:56 | [legume-enrichment](https://crates.io/crates/legume-enrichment) | 0.3.9 | 0 | Gene-set enrichment, ontology scoring, and marker bootstrap for single-cell ann… |
+| 2026-09-25 18:59:05 | [spacelens](https://crates.io/crates/spacelens) | 0.2.9 | 0 | Scan disk usage and find cleanup candidates for development projects. |
+| 2026-09-25 19:00:34 | [legume-graph-embedding](https://crates.io/crates/legume-graph-embedding) | 0.8.4 | 0 | Count-NCE bipartite graph embedding over (cell, feature) edges |
+| 2026-09-25 19:03:08 | [pinto-rs](https://crates.io/crates/pinto-rs) | 0.10.6 | 0 | Proximity-based Interaction Network analysis for Tissue Organization |
+| 2026-09-25 19:13:52 | [lens3329](https://crates.io/crates/lens3329) | 0.1.0 | 0 | Cryptographic inventory scanner: crypto library discovery, lockfile version res… |
+| 2026-09-25 19:15:08 | [kcode-k1-codex-web-search-session](https://crates.io/crates/kcode-k1-codex-web-search-session) | 0.1.1 | 0 | One-shot Codex app-server session for K1 web search |
+| 2026-09-25 19:16:23 | [gdi-rs](https://crates.io/crates/gdi-rs) | 0.1.0 | 0 | Dreamcast GD-ROM CUE/BIN (Redump) to GDI conversion, laid out as gdidrop does |
+| 2026-09-25 19:16:29 | [xso-rs](https://crates.io/crates/xso-rs) | 0.1.0 | 0 | CSO/ZSO (compressed PSP/PS2 ISO) compression and decompression, interchangeable… |
+| 2026-09-25 19:16:50 | [superui_css_utilities](https://crates.io/crates/superui_css_utilities) | 0.3.5 | 0 | Class utilities (Tailwind-compatible) for bevy_superui: generate flair-supporte… |
 
 ## Data source
 
