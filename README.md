@@ -8,33 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 03:19 UTC
+## Latest list — 2026-09-25 04:19 UTC
 
-New crates published between 2026-09-25 02:19 UTC and 2026-09-25 03:19 UTC.
+New crates published between 2026-09-25 03:19 UTC and 2026-09-25 04:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-25T03-19-52-308434Z.csv)
+[Full CSV](data/new-crates-2026-09-25T04-19-15-397947Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-25 02:19:21 | [turbojev-wire](https://crates.io/crates/turbojev-wire) | 0.28.3 | 0 | Stable wire types and serialization contracts for TurboJev |
-| 2026-09-25 02:20:32 | [mdrv-ds-core](https://crates.io/crates/mdrv-ds-core) | 0.0.1 | 0 | DualSense protocol dialect and shared helpers: report builders (0x31/0x35/0x36/… |
-| 2026-09-25 02:20:55 | [mdrv-ds-shell](https://crates.io/crates/mdrv-ds-shell) | 0.0.1 | 0 | Shared plumbing for the mdrv-ds suite: suite config access, clock formatting, p… |
-| 2026-09-25 02:22:51 | [reallyme-sd-jwt](https://crates.io/crates/reallyme-sd-jwt) | 0.1.0 | 0 | RFC 9901 SD-JWT issuance, presentation, and verification primitives. |
-| 2026-09-25 02:29:20 | [turbojev](https://crates.io/crates/turbojev) | 0.28.3 | 0 | Rust-first universal open-weight typed decision runtime |
-| 2026-09-25 02:41:02 | [agnt5-eval-scorers](https://crates.io/crates/agnt5-eval-scorers) | 0.1.0 | 0 | Bounded deterministic scorer semantics shared by AGNT5 SDKs and runtime |
-| 2026-09-25 02:42:19 | [sbol-db-app](https://crates.io/crates/sbol-db-app) | 0.1.7 | 0 | Backend-neutral application facade for sbol-db: composes the storage trait obje… |
-| 2026-09-25 02:48:33 | [nss-rs](https://crates.io/crates/nss-rs) | 0.0.0 | 0 | (PLACEHOLDER) Gecko API for NSS |
-| 2026-09-25 02:52:23 | [sbol-db-backup](https://crates.io/crates/sbol-db-backup) | 0.1.7 | 0 | Versioned encrypted complete-backup artifacts for the single-node sbol-db appli… |
-| 2026-09-25 02:56:32 | [pebble-rs](https://crates.io/crates/pebble-rs) | 0.1.0 | 0 | Port of the external io.pebbletemplates:pebble template engine (Pebble 3.1.5) |
-| 2026-09-25 03:01:32 | [hook_macro](https://crates.io/crates/hook_macro) | 0.1.0 | 0 | Procedural macro for generating runtime hook system with before/on/after callba… |
-| 2026-09-25 03:02:26 | [sbol-db-vector-conformance](https://crates.io/crates/sbol-db-vector-conformance) | 0.1.7 | 0 | Backend-neutral conformance scenarios for sbol-db vector indexes. |
-| 2026-09-25 03:12:17 | [midici-core](https://crates.io/crates/midici-core) | 0.1.0 | 0 | Sans-io MIDI-CI state machines (no_std + alloc capable) |
-| 2026-09-25 03:12:24 | [midici-pe](https://crates.io/crates/midici-pe) | 0.1.0 | 0 | MIDI-CI Property Exchange resource model, chunker, Mcoded7, JSON codecs |
-| 2026-09-25 03:12:28 | [sbol-db-vector-flat](https://crates.io/crates/sbol-db-vector-flat) | 0.1.7 | 0 | Deterministic exact vector-search backend for sbol-db development and evaluatio… |
-| 2026-09-25 03:12:29 | [midici-responder](https://crates.io/crates/midici-responder) | 0.1.0 | 0 | Ergonomic MIDI-CI responder façade (re-exports the PE engine; event-pump helper… |
-| 2026-09-25 03:14:55 | [infinisweeper](https://crates.io/crates/infinisweeper) | 0.1.0 | 0 | An infinite Minesweeper for your terminal |
-| 2026-09-25 03:19:38 | [worktree-cli](https://crates.io/crates/worktree-cli) | 0.1.2 | 0 | A Git worktree switcher for creating, reusing, listing, and safely removing wor… |
-| 2026-09-25 03:19:48 | [beam-network-sdk](https://crates.io/crates/beam-network-sdk) | 0.2.2 | 0 | Rust SDK for BEAM transfer creation and management. |
+| 2026-09-25 03:21:00 | [dflog](https://crates.io/crates/dflog) | 0.1.0 | 0 | ArduPilot dataflash (.bin) log parsing and indexing |
+| 2026-09-25 03:21:02 | [dflog-cli](https://crates.io/crates/dflog-cli) | 0.1.0 | 0 | ArduPilot dataflash (.bin) log tool: info, dump, convert, parquet export |
+| 2026-09-25 03:22:31 | [sbol-db-vector-qdrant](https://crates.io/crates/sbol-db-vector-qdrant) | 0.1.7 | 0 | Qdrant self-hosted and cloud vector-search backend for sbol-db. |
+| 2026-09-25 03:41:09 | [midici-transport-alsa](https://crates.io/crates/midici-transport-alsa) | 0.1.0 | 0 | ALSA UMP sequencer transport adapter for midici |
+| 2026-09-25 03:41:12 | [midici-transport-clap](https://crates.io/crates/midici-transport-clap) | 0.1.0 | 0 | CLAP plugin transport adapter with RT-safe bridge for midici |
+| 2026-09-25 03:58:36 | [heliograf-protocol](https://crates.io/crates/heliograf-protocol) | 0.1.0 | 0 | The heliograf wire protocol: tag addresses, memo formats, DM encryption, transa… |
+| 2026-09-25 03:58:38 | [heliograf](https://crates.io/crates/heliograf) | 0.1.0 | 0 | A serverless terminal chat on Solana: every message is a transaction. |
+| 2026-09-25 03:59:53 | [tinyexpression-rs](https://crates.io/crates/tinyexpression-rs) | 2.0.0 | 0 | TinyExpression without a JVM: the P4 grammar parser (generated by ubnfc), the J… |
+| 2026-09-25 04:00:00 | [makedown-cli](https://crates.io/crates/makedown-cli) | 0.1.0 | 0 | Compile Markfile specifications into staged Markdown implementation plans |
+| 2026-09-25 04:00:20 | [deep_causality_context](https://crates.io/crates/deep_causality_context) | 0.1.0 | 0 | Context hypergraph, context node types, and contextuable traits for DeepCausali… |
+| 2026-09-25 04:06:11 | [austindelic-blackhole](https://crates.io/crates/austindelic-blackhole) | 0.1.0 | 0 | Native GPU black-hole renderer with asynchronous terminal cell frames |
+| 2026-09-25 04:06:26 | [austindelic-blackhole-ratatui](https://crates.io/crates/austindelic-blackhole-ratatui) | 0.1.0 | 0 | Nonblocking Ratatui widget for completed Blackhole frames |
+| 2026-09-25 04:06:36 | [austindelic-blackhole-cli](https://crates.io/crates/austindelic-blackhole-cli) | 0.1.0 | 0 | Explore a GPU rendered black hole in your terminal |
+| 2026-09-25 04:07:08 | [disclady](https://crates.io/crates/disclady) | 0.1.0 | 0 | Pure Rust library and CLI utility for optical and storage disc image heuristics… |
+| 2026-09-25 04:07:43 | [kineti-core](https://crates.io/crates/kineti-core) | 0.3.3 | 0 | High-performance native Rust nervous system and context integrity harness |
+| 2026-09-25 04:07:55 | [kineti-reflex](https://crates.io/crates/kineti-reflex) | 0.3.3 | 0 | Sub-millisecond sensory triage, style analyzer, and reflex circuit router |
+| 2026-09-25 04:08:05 | [kineti-memory](https://crates.io/crates/kineti-memory) | 0.3.3 | 0 | Dual-substrate memory: Vector search, causal user property graph, and tombstone… |
+| 2026-09-25 04:08:16 | [kineti-connectors](https://crates.io/crates/kineti-connectors) | 0.3.3 | 0 | High-speed backend connectors: Brave Search, FLUX.1, Gmail, Notion, and WhatsAp… |
+| 2026-09-25 04:08:27 | [kineti-actions](https://crates.io/crates/kineti-actions) | 0.3.3 | 0 | Real-world actions: Headless price comparison, ticket search, and two-step conf… |
+| 2026-09-25 04:10:33 | [mahbot-probe6-nonexistent-xyz](https://crates.io/crates/mahbot-probe6-nonexistent-xyz) | 0.0.1 | 0 | probe |
+| 2026-09-25 04:12:32 | [fishtanks](https://crates.io/crates/fishtanks) | 1.0.0 | 0 | An aquarium for your terminal: ASCII fishes, fishing, a shop, mutations, heaven… |
+| 2026-09-25 04:18:08 | [frump](https://crates.io/crates/frump) | 0.1.0 | 0 | Distributed task management tool based on Git and Markdown |
 
 ## Data source
 
