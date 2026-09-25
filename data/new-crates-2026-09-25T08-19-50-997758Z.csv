@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T07:22:33.315421Z,filetas,0.4.1,0,0,https://github.com/jetsung/filetas,基于 Rust + Axum 的高性能文件加速下载服务
+2026-09-25T07:30:05.368126Z,pagur,0.0.1,0,0,https://github.com/Kamaliev/pagur,"Tiny, fast Linux VMs for containers on macOS, built directly on Apple Virtualization.framework"
+2026-09-25T07:36:34.315827Z,agentaps,0.1.0,0,0,https://github.com/domenkozar/agentaps,Desktop client for agents that speak the Agent Client Protocol
+2026-09-25T07:44:21.777445Z,den-core,0.1.0,0,0,https://github.com/guzman109/den.nvim,"The Den engine: the Markdown vault, its rules, and every change made to it."
+2026-09-25T07:44:23.434673Z,den-agent,0.1.0,0,0,https://github.com/guzman109/den.nvim,"Holds the unlocked vault key for a session, so it never sits in an editor."
+2026-09-25T07:44:23.856031Z,den-cli,0.1.0,0,0,https://github.com/guzman109/den.nvim,"The `den` command: prompt summary, capture, sync and the passphrase helper."
+2026-09-25T07:44:24.184783Z,den-mcp,0.1.0,0,0,https://github.com/guzman109/den.nvim,"Den for AI agents: an MCP server over stdio, with the engine's rules."
+2026-09-25T07:50:49.964244Z,darkbio-clock,0.1.0,0,0,https://github.com/dark-bio/clock-rs,Virtual clock for testing blocking code
+2026-09-25T07:51:48.402208Z,cap-img,0.1.0,0,0,https://github.com/z-biz-tool/z-biz-tool-capability,图片处理原语：信息/缩略图/缩放/旋转/翻转/裁剪/滤镜/编码/EXIF（路径进→路径出，无状态）
+2026-09-25T07:52:30.560425Z,gst-plugin-iceoryx2-video,0.0.3,0,0,https://github.com/nmichlo/gst-plugin-iceoryx2,GStreamer-free Rust SDK for zero-copy raw video frames over iceoryx2 shared memory (the core of gst-plugin-iceoryx2)
+2026-09-25T07:52:34.220702Z,gst-plugin-iceoryx2,0.0.3,0,0,https://github.com/nmichlo/gst-plugin-iceoryx2,GStreamer iceoryx2sink/iceoryx2src elements: zero-copy video frames through iceoryx2 shared memory
+2026-09-25T08:03:07.129254Z,sanduk-container,0.1.0,0,0,https://github.com/shakfu/sanduk-rs,"Drive a container engine's CLI: Apple's container on macOS, Docker elsewhere"
+2026-09-25T08:03:08.068242Z,sanduk-sandbox,0.1.0,0,0,https://github.com/shakfu/sanduk-rs,"Confine a child process's writes to a directory: Landlock on Linux, Seatbelt on macOS"
+2026-09-25T08:03:11.015579Z,sanduk,0.1.0,0,0,https://github.com/shakfu/sanduk-rs,"Run a coding agent in a disposable container, with the API key held on the host"
+2026-09-25T08:09:53.837484Z,rbackup-cli,0.2.0,0,0,https://gitlab.com/sudw1n/rbackup,"Declarative, content-addressed local snapshots with deduplication and GPG encryption"
+2026-09-25T08:12:49.33819Z,termhog-avt,0.18.0,0,0,https://github.com/asciinema/avt,asciinema virtual terminal
+2026-09-25T08:13:48.811948Z,reallyme-openid4vc-profiles,0.1.0,0,0,https://github.com/reallyme/ssi,Shared HAIP and EUDI profile identities for OpenID4VCI and OpenID4VP.
+2026-09-25T08:16:57.840796Z,hyperlane-type,21.5.0,0,0,https://github.com/hyperlane-dev/hyperlane.git,"A comprehensive Rust type library for HTTP operations and concurrent programming. Provides core HTTP types (Request/Response with builder patterns, Method, HttpStatus, HttpVersion, ContentType, FileE…"
+2026-09-25T08:17:00.042679Z,hyperlane-core,21.5.0,0,0,https://github.com/hyperlane-dev/hyperlane.git,"A lightweight, high-performance, and cross-platform Rust HTTP server library built on Tokio. It simplifies modern web service development by providing built-in support for middleware, WebSocket, Serv…"
+2026-09-25T08:18:55.478849Z,gpt_images_25,0.1.0,0,0,https://github.com/ryanellis42675/gpt-images-25,Official client SDK wrapper and metadata for GPT images 2.5 (https://images25.art)
