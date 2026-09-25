@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T09:22:49.459028Z,kinavis-signalk,0.1.0,0,0,https://github.com/KINAVIS/kinavis,"Signal K deltas in and out of the KINAVIS navigation crates: the traffic picture from a Signal K server, and CPA, TCPA and the COLREGs ruling for every target back as deltas and notifications."
+2026-09-25T09:28:18.69454Z,tunely,0.1.0,0,0,https://github.com/jeffkit/tunely,WebSocket Tunnel Client — 透明反向代理隧道（Rust 版客户端，与服务端 wire 协议对齐）
+2026-09-25T09:34:50.73064Z,morphit,0.1.0,0,0,https://github.com/KevinGliewe/MorphIt-rs,MorphIt: approximate a triangle mesh with spheres via gradient-based optimization
+2026-09-25T09:34:57.082705Z,morphit-robot,0.1.0,0,0,https://github.com/KevinGliewe/MorphIt-rs,"URDF generation, robot-package inspection, per-link packing and quality metrics for MorphIt"
+2026-09-25T09:35:04.426099Z,morphit-capi,0.1.0,0,0,https://github.com/KevinGliewe/MorphIt-rs,Thread-safe C API for the MorphIt sphere-packing optimizer
+2026-09-25T09:35:12.52323Z,morphit-cli,0.1.0,0,0,https://github.com/KevinGliewe/MorphIt-rs,Command-line interface for the MorphIt sphere-packing optimizer
+2026-09-25T09:35:21.586759Z,morphit-server,0.1.0,0,0,https://github.com/KevinGliewe/MorphIt-rs,"HTTP API for MorphIt, wire-compatible with the Python reference's web service"
+2026-09-25T09:39:05.925773Z,dalgona,0.0.0,0,0,https://github.com/gosuda/dalgona,"dalgon coding harness suite. Version 0.0.0, alpha testing now."
+2026-09-25T09:39:08.584443Z,dalgon,0.0.0,0,0,https://github.com/gosuda/dalgona,"dalgon coding harness suite. Version 0.0.0, alpha testing now."
+2026-09-25T09:39:11.024463Z,dalgon-core,0.0.0,0,0,https://github.com/gosuda/dalgona,"dalgon coding harness suite. Version 0.0.0, alpha testing now."
+2026-09-25T09:39:13.520206Z,dal-core,0.0.0,0,0,https://github.com/gosuda/dalgona,"dalgon coding harness suite. Version 0.0.0, alpha testing now."
+2026-09-25T09:46:46.982175Z,kascov-decode,0.1.0,0,0,https://github.com/Knitser/kascov,"Name Kaspa covenant programs from their bytes: SilverScript and Argent builds of either compiler generation, KCC-20 and KCC-0020 token cells, and the launchpad and market builds live on Kaspa. No nod…"
+2026-09-25T09:51:35.138329Z,argenv-resolve,0.2.0,0,0,https://github.com/argenv-opencommons/argenv,"Resolve an argenv contract against a real invocation - argv and envp, with precedence, defaults, and linting. Depends on argenv for the declared data; argenv depends on nothing here."
+2026-09-25T09:56:42.084364Z,lm15,1.0.0-rc.1,0,0,https://github.com/lm15-dev/lm15-rs,"One request and response model for every LLM provider (OpenAI, Anthropic, Gemini, xAI, Groq, Bedrock, Azure, Vertex, local servers), with visible adaptations. Implements the lm15 contract."
+2026-09-25T10:06:53.079927Z,typdoc-core,0.3.0,0,0,https://github.com/thaitype/typdoc,Reads a typdoc project and answers questions about it. It changes nothing.
+2026-09-25T10:06:55.04563Z,typdoc-fs,0.3.0,0,0,https://github.com/thaitype/typdoc,File system access for typdoc: the only crate that writes files.
+2026-09-25T10:06:56.560335Z,typdoc,0.3.0,0,0,https://github.com/thaitype/typdoc,"A CLI that treats a folder of Markdown files as typed, linked documents."
+2026-09-25T10:14:06.203916Z,snapif,0.1.0,0,0,https://github.com/snapif/snapif,Snapif

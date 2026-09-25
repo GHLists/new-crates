@@ -8,33 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 09:21 UTC
+## Latest list — 2026-09-25 10:19 UTC
 
-New crates published between 2026-09-25 08:19 UTC and 2026-09-25 09:21 UTC.
+New crates published between 2026-09-25 09:21 UTC and 2026-09-25 10:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-25T09-21-15-53334Z.csv)
+[Full CSV](data/new-crates-2026-09-25T10-19-04-480688Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-25 08:20:44 | [emailler](https://crates.io/crates/emailler) | 0.1.1 | 0 | Get started to use send emails with emailler. |
-| 2026-09-25 08:25:54 | [specforge-protocol-types](https://crates.io/crates/specforge-protocol-types) | 0.1.0 | 0 | Wire types for the SpecForge extension protocol: handshake, describe payloads,… |
-| 2026-09-25 08:26:09 | [specforge-extension-sdk-macros](https://crates.io/crates/specforge-extension-sdk-macros) | 0.1.0 | 0 | Attribute macro for the SpecForge extension SDK: generates the __handshake/__de… |
-| 2026-09-25 08:26:16 | [sederial](https://crates.io/crates/sederial) | 0.1.0 | 0 | A lightweight DNS forwarder for split-DNS environments |
-| 2026-09-25 08:26:51 | [specforge-extension-sdk](https://crates.io/crates/specforge-extension-sdk) | 0.1.0 | 0 | Author SpecForge extensions in Rust: typed contributions, handshake/describe pr… |
-| 2026-09-25 08:28:00 | [tree-sitter-shellspec](https://crates.io/crates/tree-sitter-shellspec) | 0.1.0 | 0 | ShellSpec grammar for tree-sitter (extends bash) |
-| 2026-09-25 08:38:15 | [const-array](https://crates.io/crates/const-array) | 0.1.0-alpha.1 | 0 | Ergonomic const generic sized arrays. |
-| 2026-09-25 08:38:57 | [nxapi](https://crates.io/crates/nxapi) | 0.2.0 | 0 | Typed Cisco NX-API enforcement SDK for OSS services |
-| 2026-09-25 08:40:58 | [vgi-cli](https://crates.io/crates/vgi-cli) | 0.4.15 | 0 | The `vgi` command: `vgi repo init` turns VGI commit trust on for a repository i… |
-| 2026-09-25 08:43:19 | [netty](https://crates.io/crates/netty) | 0.2.5 | 0 | Async network clients, down to the wire. |
-| 2026-09-25 08:52:49 | [lws](https://crates.io/crates/lws) | 0.0.1 | 0 | Modern all-safe networking library supporting h1, h2, h3, ws, wt sans-IO and wi… |
-| 2026-09-25 09:12:20 | [fabricd](https://crates.io/crates/fabricd) | 0.0.0 | 0 | Reserved name for fabricd, an agent runtime daemon with memory, wikis and jobs.… |
-| 2026-09-25 09:12:29 | [fabricd-client](https://crates.io/crates/fabricd-client) | 0.0.0 | 0 | Reserved name for the fabricd client library. The first release is in developme… |
-| 2026-09-25 09:12:40 | [zygo-core](https://crates.io/crates/zygo-core) | 0.1.0 | 0 | Daemonless, rootless, OCI-compatible warm sandbox runtime — core library |
-| 2026-09-25 09:12:41 | [md-pages](https://crates.io/crates/md-pages) | 0.0.0 | 0 | Reserved name for md-pages, a Markdown page store with revisioned changesets. T… |
-| 2026-09-25 09:12:52 | [md-search](https://crates.io/crates/md-search) | 0.0.0 | 0 | Reserved name for md-search, a Markdown search index. The first release is in d… |
-| 2026-09-25 09:13:02 | [ucci](https://crates.io/crates/ucci) | 0.1.0 | 0 | UCCI: calibrated uncertainty for cost-optimal LLM cascade routing (token-margin… |
-| 2026-09-25 09:13:03 | [knowledge-kernel](https://crates.io/crates/knowledge-kernel) | 0.0.0 | 0 | Reserved name for knowledge-kernel, a memory and knowledge library for agents.… |
-| 2026-09-25 09:13:04 | [zygo-cli](https://crates.io/crates/zygo-cli) | 0.1.0 | 0 | zygo — a daemonless, rootless warm sandbox runtime |
+| 2026-09-25 09:22:49 | [kinavis-signalk](https://crates.io/crates/kinavis-signalk) | 0.1.0 | 0 | Signal K deltas in and out of the KINAVIS navigation crates: the traffic pictur… |
+| 2026-09-25 09:28:18 | [tunely](https://crates.io/crates/tunely) | 0.1.0 | 0 | WebSocket Tunnel Client — 透明反向代理隧道（Rust 版客户端，与服务端 wire 协议对齐） |
+| 2026-09-25 09:34:50 | [morphit](https://crates.io/crates/morphit) | 0.1.0 | 0 | MorphIt: approximate a triangle mesh with spheres via gradient-based optimizati… |
+| 2026-09-25 09:34:57 | [morphit-robot](https://crates.io/crates/morphit-robot) | 0.1.0 | 0 | URDF generation, robot-package inspection, per-link packing and quality metrics… |
+| 2026-09-25 09:35:04 | [morphit-capi](https://crates.io/crates/morphit-capi) | 0.1.0 | 0 | Thread-safe C API for the MorphIt sphere-packing optimizer |
+| 2026-09-25 09:35:12 | [morphit-cli](https://crates.io/crates/morphit-cli) | 0.1.0 | 0 | Command-line interface for the MorphIt sphere-packing optimizer |
+| 2026-09-25 09:35:21 | [morphit-server](https://crates.io/crates/morphit-server) | 0.1.0 | 0 | HTTP API for MorphIt, wire-compatible with the Python reference's web service |
+| 2026-09-25 09:39:05 | [dalgona](https://crates.io/crates/dalgona) | 0.0.0 | 0 | dalgon coding harness suite. Version 0.0.0, alpha testing now. |
+| 2026-09-25 09:39:08 | [dalgon](https://crates.io/crates/dalgon) | 0.0.0 | 0 | dalgon coding harness suite. Version 0.0.0, alpha testing now. |
+| 2026-09-25 09:39:11 | [dalgon-core](https://crates.io/crates/dalgon-core) | 0.0.0 | 0 | dalgon coding harness suite. Version 0.0.0, alpha testing now. |
+| 2026-09-25 09:39:13 | [dal-core](https://crates.io/crates/dal-core) | 0.0.0 | 0 | dalgon coding harness suite. Version 0.0.0, alpha testing now. |
+| 2026-09-25 09:46:46 | [kascov-decode](https://crates.io/crates/kascov-decode) | 0.1.0 | 0 | Name Kaspa covenant programs from their bytes: SilverScript and Argent builds o… |
+| 2026-09-25 09:51:35 | [argenv-resolve](https://crates.io/crates/argenv-resolve) | 0.2.0 | 0 | Resolve an argenv contract against a real invocation - argv and envp, with prec… |
+| 2026-09-25 09:56:42 | [lm15](https://crates.io/crates/lm15) | 1.0.0-rc.1 | 0 | One request and response model for every LLM provider (OpenAI, Anthropic, Gemin… |
+| 2026-09-25 10:06:53 | [typdoc-core](https://crates.io/crates/typdoc-core) | 0.3.0 | 0 | Reads a typdoc project and answers questions about it. It changes nothing. |
+| 2026-09-25 10:06:55 | [typdoc-fs](https://crates.io/crates/typdoc-fs) | 0.3.0 | 0 | File system access for typdoc: the only crate that writes files. |
+| 2026-09-25 10:06:56 | [typdoc](https://crates.io/crates/typdoc) | 0.3.0 | 0 | A CLI that treats a folder of Markdown files as typed, linked documents. |
+| 2026-09-25 10:14:06 | [snapif](https://crates.io/crates/snapif) | 0.1.0 | 0 | Snapif |
 
 ## Data source
 
