@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-24T23:22:11.445426Z,rs-for-reals2ipc,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-for-reals2ipc,Converts the FoR encoded reals to an arrow ipc array.
+2026-09-24T23:25:29.984177Z,aether-node,1.3.0,0,0,https://github.com/theworker02/aether-protocol,Aether Protocol reference validator node binary
+2026-09-24T23:25:33.464246Z,syntrop-sentry-mcp,0.1.0,8,0,https://github.com/syntropd/sentry,Model Context Protocol (MCP) server over stdio for systemd-sentry
+2026-09-24T23:33:05.3046Z,aether-protocol-cli,1.3.0,8,0,https://github.com/theworker02/aether-protocol,Command-line wallet and operator tools for Aether Protocol
+2026-09-24T23:33:46.408247Z,bite-gp-parley,1.20.203,8,0,https://github.com/bite-gpui/bite-gpui,gpui_parley — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-24T23:33:58.510568Z,subc-os,0.1.0,13,0,https://github.com/cortexkit/subconscious,"Operating-system primitives for the subc daemon that need unsafe code, behind a safe API: per-process identity and signalling."
+2026-09-24T23:35:18.213626Z,selfhost,0.1.0,9,0,https://github.com/obiente/selfhost,Manage self-hosted projects from a local dashboard and command line
+2026-09-24T23:35:34.153152Z,syntropctl,0.1.0,8,0,https://github.com/syntropd/syntropctl,Unified administration and diagnostic CLI for the syntropd AI subsystem suite
+2026-09-24T23:45:34.670902Z,syntrop-toold,0.2.0,6,0,https://github.com/syntropd/toold,Sandboxed remediation and rollback checkpointer daemon for syntropd
+2026-09-24T23:45:36.140577Z,cstore,0.1.0,0,0,https://github.com/corbet-libs/cstore,"Versioned persistence, portable workspaces, and verified backup and restore"
+2026-09-24T23:55:36.044176Z,syntrop-inferenced,0.1.0,1,0,https://github.com/syntropd/inferenced,Heterogeneous GPU/NPU hardware arbiter and model lifecycle broker for syntropd
+2026-09-25T00:03:35.669409Z,tl-zork,0.1.0,0,0,https://github.com/zachfedor/tl-zork,A Zork-style text adventure played live as a 5-minute lightning talk at TechLancaster
+2026-09-25T00:05:15.186419Z,jiayang,0.1.0,0,0,https://github.com/ss2d22/jiayang,Verify who is calling your Jiayang Cloud app.
+2026-09-25T00:05:35.398788Z,syntrop-modeld,0.2.0,0,0,https://github.com/syntropd/modeld,Content-addressable model cache and zero-copy descriptor broker for syntropd
+2026-09-25T00:07:12.438284Z,subc-jobobject,0.1.0,0,0,,Windows job-object containment for supervised subc module children.
+2026-09-25T00:15:35.163533Z,syntrop-contextd,0.2.0,0,0,https://github.com/syntropd/contextd,Transactional system journal context and execution history engine for syntropd
