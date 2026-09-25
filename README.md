@@ -8,35 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 17:19 UTC
+## Latest list — 2026-09-25 18:18 UTC
 
-New crates published between 2026-09-25 16:19 UTC and 2026-09-25 17:19 UTC.
+New crates published between 2026-09-25 17:19 UTC and 2026-09-25 18:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-25T17-19-13-443558Z.csv)
+[Full CSV](data/new-crates-2026-09-25T18-18-57-995222Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-25 16:30:34 | [knex](https://crates.io/crates/knex) | 0.1.0 | 0 | Query AST, dialect compilation, and executor traits |
-| 2026-09-25 16:30:47 | [knex-pool](https://crates.io/crates/knex-pool) | 0.1.0 | 0 | Connection pool shared by rust-knex drivers |
-| 2026-09-25 16:30:49 | [pingora-proxy-router](https://crates.io/crates/pingora-proxy-router) | 0.1.0 | 0 | Request routing and context lenses for composable Pingora ProxyHttp implementat… |
-| 2026-09-25 16:31:33 | [veloxquant-models](https://crates.io/crates/veloxquant-models) | 0.3.0 | 0 | Local Hugging Face model cache management (list/pull/delete) for the VeloxQuant… |
-| 2026-09-25 16:31:34 | [knex-driver-mysql](https://crates.io/crates/knex-driver-mysql) | 0.1.0 | 0 | MySQL 8.0 driver for rust-knex |
-| 2026-09-25 16:31:55 | [knex-driver-postgres](https://crates.io/crates/knex-driver-postgres) | 0.1.0 | 0 | PostgreSQL driver for rust-knex |
-| 2026-09-25 16:32:05 | [knex-driver-tiberius](https://crates.io/crates/knex-driver-tiberius) | 0.1.0 | 0 | SQL Server 2008 driver for rust-knex |
-| 2026-09-25 16:33:15 | [veloxquant-rig](https://crates.io/crates/veloxquant-rig) | 0.1.0 | 0 | rig-core CompletionModel adapter for the VeloxQuant Rust SDK |
-| 2026-09-25 16:35:00 | [kcode-k1-codex-web-search-protocol](https://crates.io/crates/kcode-k1-codex-web-search-protocol) | 0.1.0 | 0 | Concrete Codex app-server v2 wire facade for K1 one-shot web search |
-| 2026-09-25 16:41:28 | [knex-driver-oracle](https://crates.io/crates/knex-driver-oracle) | 0.1.0 | 0 | Oracle 11g driver for rust-knex |
-| 2026-09-25 16:49:23 | [shotori](https://crates.io/crates/shotori) | 0.5.0 | 0 | Shotori — Wayland-first screenshot tool built with gpui-kit |
-| 2026-09-25 16:51:55 | [thirdshift](https://crates.io/crates/thirdshift) | 0.1.0 | 0 | Turn a GitHub issue into a ready-for-review pull request, unattended |
-| 2026-09-25 16:51:56 | [kcode-k1-codex-web-search-sources](https://crates.io/crates/kcode-k1-codex-web-search-sources) | 0.1.0 | 0 | Deterministic source normalization for K1 Codex web search |
-| 2026-09-25 17:00:30 | [dnoise-core](https://crates.io/crates/dnoise-core) | 0.5.0 | 0 | Pure-Rust, in-memory timsTOF frame denoising stages of dnoise (no I/O, no nativ… |
-| 2026-09-25 17:10:24 | [outdir](https://crates.io/crates/outdir) | 0.1.0 | 0 | simple marcos to include files from $OUT_DIR |
-| 2026-09-25 17:12:55 | [rplay](https://crates.io/crates/rplay) | 0.0.1 | 0 | AirPlay in rust |
-| 2026-09-25 17:13:31 | [typed-lm-common](https://crates.io/crates/typed-lm-common) | 0.1.0 | 0 | Shared Jev contract, labels, prompt rendering, checkpoint detection, device/dty… |
-| 2026-09-25 17:13:34 | [typed-lm-serve](https://crates.io/crates/typed-lm-serve) | 0.1.0 | 0 | Jev-compatible, single-forward-pass semantic routing server for dense decoder m… |
-| 2026-09-25 17:16:19 | [xj_atone](https://crates.io/crates/xj_atone) | 0.1.0 | 0 | Safe implementations of core C numeric parsing APIs |
-| 2026-09-25 17:17:13 | [seowebchecker-seoaudit-sdk](https://crates.io/crates/seowebchecker-seoaudit-sdk) | 1.0.0 | 0 | Lightweight open-source client SDK and CLI tool for website SEO audits, on-page… |
-| 2026-09-25 17:19:09 | [bough-derive](https://crates.io/crates/bough-derive) | 0.0.1 | 0 | Derive macros for bough. Early development: not yet usable. |
+| 2026-09-25 17:22:27 | [typed-lm-trainer](https://crates.io/crates/typed-lm-trainer) | 0.1.0 | 0 | LoRA/QLoRA and full fine-tuning plus FP8/FP4 post-training quantization for typ… |
+| 2026-09-25 17:22:57 | [navcore-math](https://crates.io/crates/navcore-math) | 0.3.0 | 0 | Pure navigation math: great circle and rhumb line, cross-track error, wind tria… |
+| 2026-09-25 17:24:53 | [rigorix-schemas](https://crates.io/crates/rigorix-schemas) | 0.1.0 | 0 | Canonical Rigorix contracts (JSON Schemas + conformance fixtures), embedded at… |
+| 2026-09-25 17:25:16 | [rigorix-verifier](https://crates.io/crates/rigorix-verifier) | 0.1.0 | 0 | Protocol-only verifier for Rigorix audit envelopes — HMAC integrity, JSON Schem… |
+| 2026-09-25 17:25:39 | [kr](https://crates.io/crates/kr) | 0.0.1 | 0 | Initial kr package; no public API or executable yet |
+| 2026-09-25 17:27:33 | [bonsai-lang-java](https://crates.io/crates/bonsai-lang-java) | 0.4.0 | 0 | Java language support for bonsai-lint |
+| 2026-09-25 17:31:40 | [carbonfr-sdk](https://crates.io/crates/carbonfr-sdk) | 0.1.1 | 0 | Async Rust client for the carbon-fr API — real-time and historical carbon inten… |
+| 2026-09-25 17:31:45 | [navcore-fix](https://crates.io/crates/navcore-fix) | 0.3.0 | 0 | Own-ship state: several sources ranked by freshness, and a fix assembled from w… |
+| 2026-09-25 17:32:09 | [navcore-flag-state](https://crates.io/crates/navcore-flag-state) | 0.3.0 | 0 | The ISO 3166-1 code of the country an MMSI or a call sign was issued under -- s… |
+| 2026-09-25 17:33:10 | [navcore-enc-store](https://crates.io/crates/navcore-enc-store) | 0.3.0 | 0 | Read-only queries against a chart GeoPackage: what lies in a corridor of water,… |
+| 2026-09-25 17:33:41 | [navcore-signalk](https://crates.io/crates/navcore-signalk) | 0.3.0 | 0 | Signal K as an adapter: deltas turned into the core's own units and fed to a fi… |
+| 2026-09-25 17:33:57 | [navcore-signalk-client](https://crates.io/crates/navcore-signalk-client) | 0.3.0 | 0 | The wire to a Signal K server: finding it, being let in, and keeping the stream… |
+| 2026-09-25 17:37:15 | [tcp-client-addr](https://crates.io/crates/tcp-client-addr) | 0.1.0 | 0 | Identify TCP clients directly or via trusted PROXY protocol peers |
+| 2026-09-25 17:41:19 | [dexcontrol-sys](https://crates.io/crates/dexcontrol-sys) | 0.7.6 | 0 | Public FFI bindings for the precompiled DexControl runtime |
+| 2026-09-25 17:41:23 | [dexcontrol](https://crates.io/crates/dexcontrol) | 0.7.6 | 0 | Safe Rust API for the precompiled DexControl robot runtime |
+| 2026-09-25 17:43:55 | [cocoa-rs](https://crates.io/crates/cocoa-rs) | 0.3.1 | 0 | Counterfactual Confounder Adjustment for Differential Analysis |
+| 2026-09-25 17:44:48 | [navcore-routes](https://crates.io/crates/navcore-routes) | 0.3.0 | 0 | The mariner's own routes: a domain type and CRUD orchestration against Signal K… |
+| 2026-09-25 17:47:10 | [laminio](https://crates.io/crates/laminio) | 0.1.0 | 0 | A layer-streaming tensor engine for loading massive models directly from cold s… |
+| 2026-09-25 17:48:05 | [echovalidum-memory](https://crates.io/crates/echovalidum-memory) | 0.1.0 | 0 | CHERI-flavoured capability memory over a sparse 64-bit address space, for Echov… |
+| 2026-09-25 17:51:16 | [ube-foundation](https://crates.io/crates/ube-foundation) | 0.1.0 | 0 | Universal Behavioral Engine Foundation: A Post-Quantum Cryptographic Trust Engi… |
+| 2026-09-25 17:55:32 | [simusa-com](https://crates.io/crates/simusa-com) | 1.9.1 | 0 | Communication utilities for simusa |
+| 2026-09-25 17:55:32 | [simusa-macros](https://crates.io/crates/simusa-macros) | 1.9.1 | 0 | Procedural macros for simusa |
+| 2026-09-25 17:55:35 | [simusa](https://crates.io/crates/simusa) | 1.9.1 | 0 | SiMuSA is a simulator designed to abstract sensor measurements to facilitate th… |
+| 2026-09-25 17:55:37 | [simusa-cmd](https://crates.io/crates/simusa-cmd) | 1.9.1 | 0 | Command-line interface for simusa |
+| 2026-09-25 17:55:37 | [simusa-tools](https://crates.io/crates/simusa-tools) | 1.9.1 | 0 | Generation tools for simusa |
+| 2026-09-25 17:55:59 | [huskarl-route-guard](https://crates.io/crates/huskarl-route-guard) | 0.1.0 | 0 | Path-to-rule routing with a path-confusion (parser differential) guard for auth… |
+| 2026-09-25 18:01:01 | [koth-core](https://crates.io/crates/koth-core) | 0.11.0 | 0 | Pure-Rust, in-memory LC-MS feature detection of koth: hills, isotope features a… |
+| 2026-09-25 18:01:34 | [mdlx](https://crates.io/crates/mdlx) | 0.0.0 | 0 | Unified AI model API and runtime semantics for Rust. |
+| 2026-09-25 18:06:17 | [kcode-k1-codex-web-search-process](https://crates.io/crates/kcode-k1-codex-web-search-process) | 0.1.0 | 0 | Owns the short-lived Codex app-server subprocess used by K1 web search |
+| 2026-09-25 18:07:44 | [plane-sqlx-postgres](https://crates.io/crates/plane-sqlx-postgres) | 0.1.0 | 0 | PostgreSQL-only SQLx facade, so MySQL and its RSA dependency stay out of the lo… |
+| 2026-09-25 18:08:50 | [mcp-usage-plane](https://crates.io/crates/mcp-usage-plane) | 0.1.0 | 0 | Usage and entitlement control plane for MCP servers. |
+| 2026-09-25 18:10:31 | [nova-registry](https://crates.io/crates/nova-registry) | 0.1.0 | 0 | A Rust recursive registry :3 |
 
 ## Data source
 

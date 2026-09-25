@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T17:22:27.888982Z,typed-lm-trainer,0.1.0,0,0,https://github.com/neurono-ml/typed-lm,LoRA/QLoRA and full fine-tuning plus FP8/FP4 post-training quantization for typed-lm dense decoder models.
+2026-09-25T17:22:57.37114Z,navcore-math,0.3.0,0,0,https://gitlab.com/sebastianhaas/nav-core,"Pure navigation math: great circle and rhumb line, cross-track error, wind triangle, current triangle, VMG and laylines."
+2026-09-25T17:24:53.281525Z,rigorix-schemas,0.1.0,0,0,https://github.com/arman-jalili/rigorix-sdk,"Canonical Rigorix contracts (JSON Schemas + conformance fixtures), embedded at build time and consumable by the verifier, clients, and servers — one copy, no vendoring. No rigorix-engine dependency."
+2026-09-25T17:25:16.528617Z,rigorix-verifier,0.1.0,0,0,https://github.com/arman-jalili/rigorix-sdk,"Protocol-only verifier for Rigorix audit envelopes — HMAC integrity, JSON Schema conformance, per-producer chain + anchor signatures. No rigorix-engine dependency (frozen struct copies per the SDK co…"
+2026-09-25T17:25:39.644385Z,kr,0.0.1,0,0,,Initial kr package; no public API or executable yet
+2026-09-25T17:27:33.94257Z,bonsai-lang-java,0.4.0,0,0,https://github.com/ryckakas/bonsai-lint,Java language support for bonsai-lint
+2026-09-25T17:31:40.077377Z,carbonfr-sdk,0.1.1,0,0,https://github.com/Kovelt/carbon-fr,Async Rust client for the carbon-fr API — real-time and historical carbon intensity of French electricity.
+2026-09-25T17:31:45.474015Z,navcore-fix,0.3.0,0,0,https://gitlab.com/sebastianhaas/nav-core,"Own-ship state: several sources ranked by freshness, and a fix assembled from whichever readings have arrived. No protocol, no clock, no platform -- a Signal K server, raw NMEA, or a recorded passage…"
+2026-09-25T17:32:09.926258Z,navcore-flag-state,0.3.0,0,0,https://gitlab.com/sebastianhaas/nav-core,"The ISO 3166-1 code of the country an MMSI or a call sign was issued under -- static ITU tables, nothing evaluated or fetched."
+2026-09-25T17:33:10.099038Z,navcore-enc-store,0.3.0,0,0,https://gitlab.com/sebastianhaas/nav-core,"Read-only queries against a chart GeoPackage: what lies in a corridor of water, and whether it is safe for this vessel."
+2026-09-25T17:33:41.020148Z,navcore-signalk,0.3.0,0,0,https://gitlab.com/sebastianhaas/nav-core,Signal K as an adapter: deltas turned into the core's own units and fed to a fix under construction. The only crate in the workspace that knows Signal K exists.
+2026-09-25T17:33:57.693469Z,navcore-signalk-client,0.3.0,0,0,https://gitlab.com/sebastianhaas/nav-core,"The wire to a Signal K server: finding it, being let in, and keeping the stream open."
+2026-09-25T17:37:15.860844Z,tcp-client-addr,0.1.0,0,0,https://github.com/pubky/tcp-client-addr,Identify TCP clients directly or via trusted PROXY protocol peers
+2026-09-25T17:41:19.234432Z,dexcontrol-sys,0.7.6,0,0,https://github.com/dexmate-ai/dexcontrol,Public FFI bindings for the precompiled DexControl runtime
+2026-09-25T17:41:23.349249Z,dexcontrol,0.7.6,0,0,https://github.com/dexmate-ai/dexcontrol,Safe Rust API for the precompiled DexControl robot runtime
+2026-09-25T17:43:55.757765Z,cocoa-rs,0.3.1,0,0,https://github.com/causalpathlab/cocoa-rs,Counterfactual Confounder Adjustment for Differential Analysis
+2026-09-25T17:44:48.437636Z,navcore-routes,0.3.0,0,0,https://gitlab.com/sebastianhaas/nav-core,"The mariner's own routes: a domain type and CRUD orchestration against Signal K's own Resources API, so a client on another platform later calls the same functions this crate already implements rathe…"
+2026-09-25T17:47:10.874465Z,laminio,0.1.0,0,0,https://github.com/arcriley/laminio,A layer-streaming tensor engine for loading massive models directly from cold storage.
+2026-09-25T17:48:05.80729Z,echovalidum-memory,0.1.0,0,0,,"CHERI-flavoured capability memory over a sparse 64-bit address space, for Echovalidum"
+2026-09-25T17:51:16.403539Z,ube-foundation,0.1.0,0,0,https://github.com/aiprotocol/Neutral-Trust-Infrastructure,Universal Behavioral Engine Foundation: A Post-Quantum Cryptographic Trust Engine for Autonomous AI Agents.
+2026-09-25T17:55:32.085691Z,simusa-com,1.9.1,0,0,https://gitlab.laas.fr/mescourrou/simusa.git,Communication utilities for simusa
+2026-09-25T17:55:32.635507Z,simusa-macros,1.9.1,0,0,https://gitlab.laas.fr/mescourrou/simusa.git,Procedural macros for simusa
+2026-09-25T17:55:35.334904Z,simusa,1.9.1,0,0,https://gitlab.laas.fr/mescourrou/simusa.git,"SiMuSA is a simulator designed to abstract sensor measurements to facilitate the implementation of backend fusion algorithms or servoing. The simulator supports multiple robots, and the time rate is…"
+2026-09-25T17:55:37.325077Z,simusa-cmd,1.9.1,0,0,https://gitlab.laas.fr/mescourrou/simusa.git,Command-line interface for simusa
+2026-09-25T17:55:37.756461Z,simusa-tools,1.9.1,0,0,https://gitlab.laas.fr/mescourrou/simusa.git,Generation tools for simusa
+2026-09-25T17:55:59.688658Z,huskarl-route-guard,0.1.0,0,0,https://github.com/huskarl-rs/huskarl-route-guard,Path-to-rule routing with a path-confusion (parser differential) guard for authorization layers.
+2026-09-25T18:01:01.736117Z,koth-core,0.11.0,0,0,https://github.com/pgarrett-scripps/koth,"Pure-Rust, in-memory LC-MS feature detection of koth: hills, isotope features and averagine scoring (no file I/O, no native dependencies)"
+2026-09-25T18:01:34.191224Z,mdlx,0.0.0,0,0,https://github.com/selemis-com/mdlx,Unified AI model API and runtime semantics for Rust.
+2026-09-25T18:06:17.089026Z,kcode-k1-codex-web-search-process,0.1.0,0,0,,Owns the short-lived Codex app-server subprocess used by K1 web search
+2026-09-25T18:07:44.771714Z,plane-sqlx-postgres,0.1.0,0,0,https://github.com/pokitappz/mcp-usage-plane,"PostgreSQL-only SQLx facade, so MySQL and its RSA dependency stay out of the lockfile."
+2026-09-25T18:08:50.7496Z,mcp-usage-plane,0.1.0,0,0,https://github.com/pokitappz/mcp-usage-plane,Usage and entitlement control plane for MCP servers.
+2026-09-25T18:10:31.489069Z,nova-registry,0.1.0,0,0,https://codeberg.org/NovaProto/nova-registry,A Rust recursive registry :3
