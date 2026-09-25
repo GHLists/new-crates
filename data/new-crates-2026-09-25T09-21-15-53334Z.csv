@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T08:20:44.648501Z,emailler,0.1.1,0,0,https://github.com/FishgameStudio/emailler,Get started to use send emails with emailler.
+2026-09-25T08:25:54.200594Z,specforge-protocol-types,0.1.0,0,0,https://github.com/leaderiop/SpecForge,"Wire types for the SpecForge extension protocol: handshake, describe payloads, and shared descriptors"
+2026-09-25T08:26:09.721683Z,specforge-extension-sdk-macros,0.1.0,0,0,https://github.com/leaderiop/SpecForge,Attribute macro for the SpecForge extension SDK: generates the __handshake/__describe Wasm exports from a Contributions impl
+2026-09-25T08:26:16.904858Z,sederial,0.1.0,0,0,,A lightweight DNS forwarder for split-DNS environments
+2026-09-25T08:26:51.977852Z,specforge-extension-sdk,0.1.0,0,0,https://github.com/leaderiop/SpecForge,"Author SpecForge extensions in Rust: typed contributions, handshake/describe protocol v1.0.0, and host-function bindings compiled to Wasm"
+2026-09-25T08:28:00.659322Z,tree-sitter-shellspec,0.1.0,0,0,https://github.com/ivuorinen/tree-sitter-shellspec,ShellSpec grammar for tree-sitter (extends bash)
+2026-09-25T08:38:15.439911Z,const-array,0.1.0-alpha.1,0,0,https://github.com/robinhundt/const-array/,Ergonomic const generic sized arrays.
+2026-09-25T08:38:57.233758Z,nxapi,0.2.0,0,0,,Typed Cisco NX-API enforcement SDK for OSS services
+2026-09-25T08:40:58.900319Z,vgi-cli,0.4.15,0,0,https://github.com/OpenVTC/verifiable-git-infrastructure,"The `vgi` command: `vgi repo init` turns VGI commit trust on for a repository in a manual or personal-account git namespace, acting as you through `gh` (GitHub) or your own token (Forgejo) — the same…"
+2026-09-25T08:43:19.04801Z,netty,0.2.5,0,0,https://github.com/0x676e67/netty,"Async network clients, down to the wire."
+2026-09-25T08:52:49.070242Z,lws,0.0.1,0,0,https://libwebsockets.org/git/lws-rs,"Modern all-safe networking library supporting h1, h2, h3, ws, wt sans-IO and with socket IO + tls"
+2026-09-25T09:12:20.01338Z,fabricd,0.0.0,0,0,,"Reserved name for fabricd, an agent runtime daemon with memory, wikis and jobs. The first release is in development."
+2026-09-25T09:12:29.695329Z,fabricd-client,0.0.0,0,0,,Reserved name for the fabricd client library. The first release is in development.
+2026-09-25T09:12:40.630882Z,zygo-core,0.1.0,0,0,https://github.com/mhmtskrc2/zygo,"Daemonless, rootless, OCI-compatible warm sandbox runtime — core library"
+2026-09-25T09:12:41.909208Z,md-pages,0.0.0,0,0,,"Reserved name for md-pages, a Markdown page store with revisioned changesets. The first release is in development."
+2026-09-25T09:12:52.377635Z,md-search,0.0.0,0,0,,"Reserved name for md-search, a Markdown search index. The first release is in development."
+2026-09-25T09:13:02.794616Z,ucci,0.1.0,0,0,https://github.com/varunkotte6/ucci,"UCCI: calibrated uncertainty for cost-optimal LLM cascade routing (token-margin signal, isotonic calibration, constrained threshold selection)"
+2026-09-25T09:13:03.67869Z,knowledge-kernel,0.0.0,0,0,,"Reserved name for knowledge-kernel, a memory and knowledge library for agents. The first release is in development."
+2026-09-25T09:13:04.507492Z,zygo-cli,0.1.0,0,0,https://github.com/mhmtskrc2/zygo,"zygo — a daemonless, rootless warm sandbox runtime"

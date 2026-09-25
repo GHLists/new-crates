@@ -8,34 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 08:19 UTC
+## Latest list — 2026-09-25 09:21 UTC
 
-New crates published between 2026-09-25 07:19 UTC and 2026-09-25 08:19 UTC.
+New crates published between 2026-09-25 08:19 UTC and 2026-09-25 09:21 UTC.
 
-[Full CSV](data/new-crates-2026-09-25T08-19-50-997758Z.csv)
+[Full CSV](data/new-crates-2026-09-25T09-21-15-53334Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-25 07:22:33 | [filetas](https://crates.io/crates/filetas) | 0.4.1 | 0 | 基于 Rust + Axum 的高性能文件加速下载服务 |
-| 2026-09-25 07:30:05 | [pagur](https://crates.io/crates/pagur) | 0.0.1 | 0 | Tiny, fast Linux VMs for containers on macOS, built directly on Apple Virtualiz… |
-| 2026-09-25 07:36:34 | [agentaps](https://crates.io/crates/agentaps) | 0.1.0 | 0 | Desktop client for agents that speak the Agent Client Protocol |
-| 2026-09-25 07:44:21 | [den-core](https://crates.io/crates/den-core) | 0.1.0 | 0 | The Den engine: the Markdown vault, its rules, and every change made to it. |
-| 2026-09-25 07:44:23 | [den-agent](https://crates.io/crates/den-agent) | 0.1.0 | 0 | Holds the unlocked vault key for a session, so it never sits in an editor. |
-| 2026-09-25 07:44:23 | [den-cli](https://crates.io/crates/den-cli) | 0.1.0 | 0 | The `den` command: prompt summary, capture, sync and the passphrase helper. |
-| 2026-09-25 07:44:24 | [den-mcp](https://crates.io/crates/den-mcp) | 0.1.0 | 0 | Den for AI agents: an MCP server over stdio, with the engine's rules. |
-| 2026-09-25 07:50:49 | [darkbio-clock](https://crates.io/crates/darkbio-clock) | 0.1.0 | 0 | Virtual clock for testing blocking code |
-| 2026-09-25 07:51:48 | [cap-img](https://crates.io/crates/cap-img) | 0.1.0 | 0 | 图片处理原语：信息/缩略图/缩放/旋转/翻转/裁剪/滤镜/编码/EXIF（路径进→路径出，无状态） |
-| 2026-09-25 07:52:30 | [gst-plugin-iceoryx2-video](https://crates.io/crates/gst-plugin-iceoryx2-video) | 0.0.3 | 0 | GStreamer-free Rust SDK for zero-copy raw video frames over iceoryx2 shared mem… |
-| 2026-09-25 07:52:34 | [gst-plugin-iceoryx2](https://crates.io/crates/gst-plugin-iceoryx2) | 0.0.3 | 0 | GStreamer iceoryx2sink/iceoryx2src elements: zero-copy video frames through ice… |
-| 2026-09-25 08:03:07 | [sanduk-container](https://crates.io/crates/sanduk-container) | 0.1.0 | 0 | Drive a container engine's CLI: Apple's container on macOS, Docker elsewhere |
-| 2026-09-25 08:03:08 | [sanduk-sandbox](https://crates.io/crates/sanduk-sandbox) | 0.1.0 | 0 | Confine a child process's writes to a directory: Landlock on Linux, Seatbelt on… |
-| 2026-09-25 08:03:11 | [sanduk](https://crates.io/crates/sanduk) | 0.1.0 | 0 | Run a coding agent in a disposable container, with the API key held on the host |
-| 2026-09-25 08:09:53 | [rbackup-cli](https://crates.io/crates/rbackup-cli) | 0.2.0 | 0 | Declarative, content-addressed local snapshots with deduplication and GPG encry… |
-| 2026-09-25 08:12:49 | [termhog-avt](https://crates.io/crates/termhog-avt) | 0.18.0 | 0 | asciinema virtual terminal |
-| 2026-09-25 08:13:48 | [reallyme-openid4vc-profiles](https://crates.io/crates/reallyme-openid4vc-profiles) | 0.1.0 | 0 | Shared HAIP and EUDI profile identities for OpenID4VCI and OpenID4VP. |
-| 2026-09-25 08:16:57 | [hyperlane-type](https://crates.io/crates/hyperlane-type) | 21.5.0 | 0 | A comprehensive Rust type library for HTTP operations and concurrent programmin… |
-| 2026-09-25 08:17:00 | [hyperlane-core](https://crates.io/crates/hyperlane-core) | 21.5.0 | 0 | A lightweight, high-performance, and cross-platform Rust HTTP server library bu… |
-| 2026-09-25 08:18:55 | [gpt_images_25](https://crates.io/crates/gpt_images_25) | 0.1.0 | 0 | Official client SDK wrapper and metadata for GPT images 2.5 (https://images25.a… |
+| 2026-09-25 08:20:44 | [emailler](https://crates.io/crates/emailler) | 0.1.1 | 0 | Get started to use send emails with emailler. |
+| 2026-09-25 08:25:54 | [specforge-protocol-types](https://crates.io/crates/specforge-protocol-types) | 0.1.0 | 0 | Wire types for the SpecForge extension protocol: handshake, describe payloads,… |
+| 2026-09-25 08:26:09 | [specforge-extension-sdk-macros](https://crates.io/crates/specforge-extension-sdk-macros) | 0.1.0 | 0 | Attribute macro for the SpecForge extension SDK: generates the __handshake/__de… |
+| 2026-09-25 08:26:16 | [sederial](https://crates.io/crates/sederial) | 0.1.0 | 0 | A lightweight DNS forwarder for split-DNS environments |
+| 2026-09-25 08:26:51 | [specforge-extension-sdk](https://crates.io/crates/specforge-extension-sdk) | 0.1.0 | 0 | Author SpecForge extensions in Rust: typed contributions, handshake/describe pr… |
+| 2026-09-25 08:28:00 | [tree-sitter-shellspec](https://crates.io/crates/tree-sitter-shellspec) | 0.1.0 | 0 | ShellSpec grammar for tree-sitter (extends bash) |
+| 2026-09-25 08:38:15 | [const-array](https://crates.io/crates/const-array) | 0.1.0-alpha.1 | 0 | Ergonomic const generic sized arrays. |
+| 2026-09-25 08:38:57 | [nxapi](https://crates.io/crates/nxapi) | 0.2.0 | 0 | Typed Cisco NX-API enforcement SDK for OSS services |
+| 2026-09-25 08:40:58 | [vgi-cli](https://crates.io/crates/vgi-cli) | 0.4.15 | 0 | The `vgi` command: `vgi repo init` turns VGI commit trust on for a repository i… |
+| 2026-09-25 08:43:19 | [netty](https://crates.io/crates/netty) | 0.2.5 | 0 | Async network clients, down to the wire. |
+| 2026-09-25 08:52:49 | [lws](https://crates.io/crates/lws) | 0.0.1 | 0 | Modern all-safe networking library supporting h1, h2, h3, ws, wt sans-IO and wi… |
+| 2026-09-25 09:12:20 | [fabricd](https://crates.io/crates/fabricd) | 0.0.0 | 0 | Reserved name for fabricd, an agent runtime daemon with memory, wikis and jobs.… |
+| 2026-09-25 09:12:29 | [fabricd-client](https://crates.io/crates/fabricd-client) | 0.0.0 | 0 | Reserved name for the fabricd client library. The first release is in developme… |
+| 2026-09-25 09:12:40 | [zygo-core](https://crates.io/crates/zygo-core) | 0.1.0 | 0 | Daemonless, rootless, OCI-compatible warm sandbox runtime — core library |
+| 2026-09-25 09:12:41 | [md-pages](https://crates.io/crates/md-pages) | 0.0.0 | 0 | Reserved name for md-pages, a Markdown page store with revisioned changesets. T… |
+| 2026-09-25 09:12:52 | [md-search](https://crates.io/crates/md-search) | 0.0.0 | 0 | Reserved name for md-search, a Markdown search index. The first release is in d… |
+| 2026-09-25 09:13:02 | [ucci](https://crates.io/crates/ucci) | 0.1.0 | 0 | UCCI: calibrated uncertainty for cost-optimal LLM cascade routing (token-margin… |
+| 2026-09-25 09:13:03 | [knowledge-kernel](https://crates.io/crates/knowledge-kernel) | 0.0.0 | 0 | Reserved name for knowledge-kernel, a memory and knowledge library for agents.… |
+| 2026-09-25 09:13:04 | [zygo-cli](https://crates.io/crates/zygo-cli) | 0.1.0 | 0 | zygo — a daemonless, rootless warm sandbox runtime |
 
 ## Data source
 
