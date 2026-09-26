@@ -1,0 +1,16 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T07:21:23.284811Z,solana_util,0.1.3,0,0,https://github.com/yourusername/solana_util,A short description of your Solana utility library
+2026-09-26T07:23:25.760376Z,xlr,0.0.1,0,0,https://github.com/saavylab/xlr,An opinionated CLI for letting people and AI agents control a pro audio setup.
+2026-09-26T07:25:56.888327Z,qrlkit,0.4.0,0,0,,Quick Resource Locator: open named URLs from imported TOML files
+2026-09-26T07:30:28.170346Z,puu,0.1.0,0,0,https://github.com/lusingander/puu,Render JSON Schema for humans
+2026-09-26T07:31:38.520749Z,morphir-workspace,0.2.0,0,0,https://github.com/finos/morphir-rust,"Portable, root-confined Morphir workspace discovery"
+2026-09-26T07:31:54.868629Z,morphir-core,0.2.0,0,0,https://github.com/finos/morphir-rust,Morphir core model definitions and utilities
+2026-09-26T07:33:02.4908Z,morphir-projection,0.1.0,0,0,https://github.com/finos/morphir-rust,Shared Morphir IR normalization for backend extensions
+2026-09-26T07:33:03.990002Z,morphir-extension-sdk,0.2.0,0,0,https://github.com/finos/morphir-rust,SDK for building Morphir extensions as WASM plugins
+2026-09-26T07:49:20.984782Z,xe-gmi,0.2.3,0,0,https://github.com/grainpool/xe-gmi,"GPU management CLI for Intel GPUs driven by the xe kernel driver: query, monitor, control and persist power/clock settings"
+2026-09-26T07:54:10.135845Z,rustow,0.1.0,0,0,https://github.com/lancy69/rustow,A Rust implementation of GNU Stow.
+2026-09-26T07:56:03.691297Z,tsaur-core,1.0.0-rc.1,0,0,https://github.com/iulianbondari/t-saur,"T-saur (.tsr): a content-addressed, agent-first archive format — core library"
+2026-09-26T07:56:20.202944Z,tsaur,1.0.0-rc.1,0,0,https://github.com/iulianbondari/t-saur,"T-saur (.tsr) command-line archiver: content-addressed, agent-first archives"
+2026-09-26T08:01:53.238558Z,jev-rust,0.1.0,0,0,,Typesafe AI API wrapper for Rust
+2026-09-26T08:05:34.562415Z,seeds,0.3.0,0,0,,Native Rust implementation of the seeds git-native issue-tracker format
+2026-09-26T08:11:41.19607Z,kanna-prompt,0.2.1,0,0,https://github.com/odd12258053/kanna,"A read-eval-print loop for kanna commands: one line in, the same definition parses it, your handler runs it."
