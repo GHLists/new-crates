@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T11:22:20.986561Z,fidoh-tokio,0.1.0,0,0,https://github.com/donicrosby/fidoh,Tokio adapter for fidoh: the Sleep factory plus the spawn_blocking blocking-call bridge (async-core design D2/D3/D5) — the only fidoh crate allowed to name tokio
+2026-09-26T11:22:29.074458Z,fidoh-transport-soft,0.1.0,0,0,https://github.com/donicrosby/fidoh,In-process virtual CTAP2 authenticator (ES256) — the fidoh CI harness implementing the same Transport/Device traits as hardware transports
+2026-09-26T11:22:31.168699Z,fidoh-transport-hid,0.1.0,0,0,https://github.com/donicrosby/fidoh,CTAPHID over Linux hidraw (CTAP2.1 §11.2) — the fidoh USB HID transport implementing the same Transport/Device traits as the soft token
+2026-09-26T11:22:33.70961Z,fidoh-transport-pcsc,0.1.0,0,0,https://github.com/donicrosby/fidoh,ISO 7816-4 APDU transport over PC/SC — FIDO over CCID and NFC (CTAP2.1 §11) on the shared Transport/Device traits
+2026-09-26T11:25:09.50875Z,tree-sitter-sh,0.18.0,0,0,https://github.com/konomanoasa/tree-sitter-sh,Tree-sitter grammar for POSIX sh.
+2026-09-26T11:28:03.84702Z,cogp,2.0.0,0,0,https://github.com/Kanahiro/cloud-optimized-geoparquet,Reference CLI and reader library for the Cloud Optimized GeoParquet Profile (COGP)
+2026-09-26T11:29:10.256845Z,upak,0.0.0,0,0,https://github.com/saxena-dev/upak,Asynchronous client library for Upstox developer API
+2026-09-26T11:29:12.871632Z,fidoh-cli-ui,0.1.0,0,0,https://github.com/donicrosby/fidoh,Reference caller CLI for fidoh: list / info / assert across all transports (fidoh-cli-ui openspec change) — the terminal leaf of the crate graph; nothing may depend on it
+2026-09-26T11:37:03.424603Z,fidoh,0.1.0,0,0,https://github.com/donicrosby/fidoh,Cleanroom CTAP2/WebAuthn client stack — facade crate wiring the workspace feature matrix (soft default; hid/pcsc/tokio opt-in)
+2026-09-26T11:42:19.185706Z,tree-sitter-sed,0.18.0,0,0,https://github.com/konomanoasa/tree-sitter-sed,Tree-sitter grammars for POSIX sed.
+2026-09-26T11:46:44.847192Z,dhani,0.0.0,0,0,https://github.com/saxena-dev/dhani,Asynchronous client library for DhanHQ trading API
+2026-09-26T11:57:06.726354Z,marspeak-cli,0.1.0,0,0,,marspeak 的命令行工具：中文火星文转换，可逆的单字符字形替换
+2026-09-26T11:58:19.899691Z,farhand-protocol,1.9.0,0,0,https://github.com/Rayrsn/farhand,"Wire protocol for Farhand: framing, message types, path normalization, and TLS"
+2026-09-26T11:58:28.771024Z,farhand-fileset,1.9.0,0,0,https://github.com/Rayrsn/farhand,"File scanning, ignore rules, hashing, and tar/gzip/zstd packing for Farhand"
+2026-09-26T11:58:33.815524Z,farhand-config,1.9.0,0,0,https://github.com/Rayrsn/farhand,Configuration loading and environment interpolation for Farhand's .farhand.yaml
+2026-09-26T11:58:39.388078Z,farhand-templates,1.9.0,0,0,https://github.com/Rayrsn/farhand,Pluggable build templates with project/user/builtin resolution for Farhand
+2026-09-26T11:58:44.962544Z,farhand-workspace,1.9.0,0,0,https://github.com/Rayrsn/farhand,"Agent-side workspace storage for Farhand: content-addressable store, copy-on-write cloning, locks, GC, and run history"
+2026-09-26T12:00:27.370426Z,konomanoasa-tree-sitter-regex,0.8.0,0,0,https://github.com/konomanoasa/tree-sitter-regex,"Tree-sitter grammars for JavaScript regex, Python re, and POSIX BRE/ERE."
+2026-09-26T12:14:54.526093Z,trustify-client,0.1.0,0,0,https://github.com/rh-jfuller/trustify-clients,Async Rust client for the Trustify software supply-chain security API
+2026-09-26T12:19:33.442759Z,konomanoasa-tree-sitter-query,0.1.0,0,0,https://github.com/konomanoasa/tree-sitter-query,Tree-sitter grammar for Tree-sitter Query.
