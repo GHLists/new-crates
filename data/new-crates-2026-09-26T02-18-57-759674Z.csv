@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T01:21:47.212476Z,kithara-host,0.0.1-alpha5,0,0,https://github.com/zvuk/kithara,Multi-player audio session host and output graph for Kithara.
+2026-09-26T01:27:41.423057Z,corescout-store-commerce,1.1.0,0,0,https://github.com/mattbusel/corescout,"What the Microsoft Store says this account has bought. Read-only, and absent outside a Store install."
+2026-09-26T01:28:53.098054Z,increparse,0.1.0,0,0,https://github.com/thyrgle/increparse,"A combinator-agnostic, multi-pass fixpoint parsing engine: run schedules of parser passes over a growing parse tree."
+2026-09-26T01:29:08.26255Z,increparse-lsp,0.3.0,0,0,https://github.com/thyrgle/increparse,"LSP adapter for increparse: documents, position encodings, and diagnostics bridges."
+2026-09-26T01:29:12.461143Z,increparse-nom,0.1.0,0,0,https://github.com/thyrgle/increparse,nom adapter for increparse: wrap nom parsers in passes with correct absolute-span rebasing.
+2026-09-26T01:29:19.453261Z,increparse-chumsky,0.1.0,0,0,https://github.com/thyrgle/increparse,chumsky adapter for increparse: wrap chumsky parsers in passes with correct absolute-span rebasing.
+2026-09-26T01:29:28.804658Z,increparse-lua,0.1.1,0,0,https://github.com/thyrgle/increparse,"Define an increparse language server in pure Lua: passes, diagnostics, and symbols in one Lua file."
+2026-09-26T01:37:41.341944Z,corescout-substrate,1.1.0,0,0,https://github.com/mattbusel/corescout,Linux hardware discovery and passive observation. The only crate that touches hardware.
+2026-09-26T01:59:48.076134Z,elanous,0.0.1,0,0,https://github.com/ElanvitalAI/monad,Elanous — self-observing autonomous agent runtime by Elanvital AI (formerly monad). Placeholder; the first real release follows the rename.
+2026-09-26T02:00:15.672658Z,everruns-serve-build,0.32.0,0,0,https://github.com/everruns/everruns,build.rs helper for serve (experimental): embeds agent/**/*.md and serve.toml
+2026-09-26T02:01:29.520726Z,everruns-serve-macros,0.32.0,0,0,https://github.com/everruns/everruns,"Attribute macros for serve (experimental): #[agent], #[tool], #[channel], #[schedule], #[connection], #[eval]"
+2026-09-26T02:03:31.097191Z,mecha10-job-validation,0.6.3,0,0,https://github.com/mecha10/mecha10,"Shared job/task validation rules for mecha10 train's job catalog (flow_type field requiredness + task-catalog existence checks), used by both the CLI and mecha10-api"
+2026-09-26T02:11:38.670767Z,mitsuami-macros,0.0.1,0,0,https://github.com/Roboport-Tecnologia/mitsuami,view! and #[component] for mitsuami
+2026-09-26T02:11:39.229498Z,mitsuami-reactive,0.0.1,0,0,https://github.com/Roboport-Tecnologia/mitsuami,"Fine-grained, single-threaded reactive runtime for mitsuami"
+2026-09-26T02:11:39.49649Z,mitsuami-test-macros,0.0.1,0,0,https://github.com/Roboport-Tecnologia/mitsuami,Proc macros for mitsuami-test
+2026-09-26T02:11:39.999208Z,mitsuami-core,0.0.1,0,0,https://github.com/Roboport-Tecnologia/mitsuami,"Node tree, layout, styles, units, a11y model and backend contract for mitsuami"
+2026-09-26T02:12:41.553019Z,xcal,0.1.0,0,0,https://github.com/xstarust/xcal,天文历法核心库 - 农历、节气、六十甲子、真太阳时
+2026-09-26T02:15:33.313449Z,ic-dev-kit-rs,0.4.0,0,0,https://github.com/drjesseglass/ic-dev-kit-rs,"Rust toolkit for IC development - standardizes HTTP generation, large object storage, Canister Geek integration, and common canister patterns"
+2026-09-26T02:18:31.382527Z,mitsuami-appkit,0.0.1,0,0,https://github.com/Roboport-Tecnologia/mitsuami,AppKit (macOS) backend for mitsuami
+2026-09-26T02:18:31.708941Z,mitsuami-gtk,0.0.1,0,0,https://github.com/Roboport-Tecnologia/mitsuami,GTK 4 (Linux) backend for mitsuami

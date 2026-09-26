@@ -8,45 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 01:19 UTC
+## Latest list — 2026-09-26 02:18 UTC
 
-New crates published between 2026-09-26 00:19 UTC and 2026-09-26 01:19 UTC.
+New crates published between 2026-09-26 01:19 UTC and 2026-09-26 02:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-26T01-19-10-657852Z.csv)
+[Full CSV](data/new-crates-2026-09-26T02-18-57-759674Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-26 00:19:22 | [molframe-validate](https://crates.io/crates/molframe-validate) | 0.1.0 | 0 | Geometric and completeness validation for molframe |
-| 2026-09-26 00:19:55 | [kithara-warp](https://crates.io/crates/kithara-warp) | 0.0.1-alpha5 | 0 | Beat-map geometry, alignment, and warp rendering for Kithara. |
-| 2026-09-26 00:28:33 | [corescout-permissions](https://crates.io/crates/corescout-permissions) | 1.1.0 | 1 | What CoreScout is allowed to do, and who decided: autonomy modes, authority bou… |
-| 2026-09-26 00:29:20 | [molframe](https://crates.io/crates/molframe) | 0.1.0 | 0 | A batteries-included structural bioinformatics engine |
-| 2026-09-26 00:30:13 | [kithara-encode](https://crates.io/crates/kithara-encode) | 0.0.1-alpha5 | 0 | Portable and native audio encoding with continuous and finite outputs |
-| 2026-09-26 00:38:41 | [corescout-capability-runtime](https://crates.io/crates/corescout-capability-runtime) | 1.1.0 | 0 | Learned procedures as verified, bounded, reversible capabilities, and the runti… |
-| 2026-09-26 00:39:24 | [molframe-cli](https://crates.io/crates/molframe-cli) | 0.1.0 | 0 | Command-line interface for molframe |
-| 2026-09-26 00:40:14 | [rusty-soar](https://crates.io/crates/rusty-soar) | 0.0.1 | 0 | A certifiable, zero-GC, `#![no_std]` Rust implementation of the Soar cognitive… |
-| 2026-09-26 00:40:32 | [kithara-sync](https://crates.io/crates/kithara-sync) | 0.0.1-alpha5 | 0 | Recursive synchronization-group ownership and control-plane protocol for Kithar… |
-| 2026-09-26 00:41:03 | [g3-auth-macros](https://crates.io/crates/g3-auth-macros) | 0.1.0 | 0 | Proc macros for g3-auth: `#[public]` and `#[derive(PublicRoutes)]`. |
-| 2026-09-26 00:41:07 | [crate-cli](https://crates.io/crates/crate-cli) | 0.2.4 | 0 | A command-line tool for managing Cargo package lifecycles: version bump, worksp… |
-| 2026-09-26 00:41:14 | [g3-auth](https://crates.io/crates/g3-auth) | 0.1.0 | 0 | Session auth for Dioxus fullstack apps on SurrealDB: a deny-by-default guard, #… |
-| 2026-09-26 00:41:20 | [g3-cache-macros](https://crates.io/crates/g3-cache-macros) | 0.1.0 | 0 | Proc macro support for g3-cache. |
-| 2026-09-26 00:41:33 | [g3-cache](https://crates.io/crates/g3-cache) | 0.1.0 | 0 | Client, server and CDN caching for Dioxus fullstack apps, with guards against c… |
-| 2026-09-26 00:44:03 | [execsurface-model](https://crates.io/crates/execsurface-model) | 0.1.0-alpha.2 | 0 | Raw observation model for AETHER X ExecSurface |
-| 2026-09-26 00:47:42 | [tech-oracle](https://crates.io/crates/tech-oracle) | 0.2.0 | 0 | Self-updating tech-prediction site: fetch free signals, generate dated calls by… |
-| 2026-09-26 00:50:17 | [fuxix](https://crates.io/crates/fuxix) | 0.1.0 | 0 | The system calls fux makes on Linux, Android and macOS, over libc, each safe to… |
-| 2026-09-26 00:50:49 | [kithara-broadcast](https://crates.io/crates/kithara-broadcast) | 0.0.1-alpha5 | 0 | Live HLS packaging: ADTS framing, segment rotation, and playlist window |
-| 2026-09-26 00:51:05 | [execsurface-observe](https://crates.io/crates/execsurface-observe) | 0.1.0-alpha.2 | 0 | Linux metadata-only observer for AETHER X ExecSurface |
-| 2026-09-26 00:51:08 | [execsurface-normalize](https://crates.io/crates/execsurface-normalize) | 0.1.0-alpha.2 | 0 | Deterministic canonicalization for AETHER X ExecSurface |
-| 2026-09-26 00:51:12 | [execsurface-baseline](https://crates.io/crates/execsurface-baseline) | 0.1.0-alpha.2 | 0 | Deterministic baseline lockfile for AETHER X ExecSurface |
-| 2026-09-26 00:51:16 | [execsurface-diff](https://crates.io/crates/execsurface-diff) | 0.1.0-alpha.2 | 0 | Deterministic policy-free execution-surface diff engine for AETHER X ExecSurface |
-| 2026-09-26 00:55:40 | [execsurface-policy](https://crates.io/crates/execsurface-policy) | 0.1.0-alpha.2 | 0 | Deterministic policy and verdict engine for AETHER X ExecSurface |
-| 2026-09-26 00:57:41 | [corescout-identity](https://crates.io/crates/corescout-identity) | 1.1.0 | 0 | Computational self-boundary inference from coupling and controllability. |
-| 2026-09-26 01:01:08 | [kithara-record](https://crates.io/crates/kithara-record) | 0.0.1-alpha5 | 0 | Storage-neutral master recording for Kithara. |
-| 2026-09-26 01:04:20 | [execsurface-report](https://crates.io/crates/execsurface-report) | 0.1.0-alpha.2 | 0 | Human-readable GitHub and CI reporting for AETHER X ExecSurface |
-| 2026-09-26 01:07:41 | [corescout-selfmodel](https://crates.io/crates/corescout-selfmodel) | 1.1.0 | 0 | Z(t): prediction, uncertainty and anomaly detection from the reflection alone. |
-| 2026-09-26 01:07:45 | [rs-names2stats2protobuf4du](https://crates.io/crates/rs-names2stats2protobuf4du) | 0.1.0 | 0 | Convert file names to disk usage stats in protobuf format |
-| 2026-09-26 01:11:28 | [kithara-analysis](https://crates.io/crates/kithara-analysis) | 0.0.1-alpha5 | 0 | Progressive waveform and beat-grid analysis for Kithara. |
-| 2026-09-26 01:14:24 | [execsurface](https://crates.io/crates/execsurface) | 0.1.0-alpha.2 | 0 | Runtime execution-surface drift detection for Linux CI and developer workflows |
-| 2026-09-26 01:17:41 | [corescout-storage](https://crates.io/crates/corescout-storage) | 1.1.0 | 0 | Local-first durable storage: a document store, an event log, and a bounded ring… |
+| 2026-09-26 01:21:47 | [kithara-host](https://crates.io/crates/kithara-host) | 0.0.1-alpha5 | 0 | Multi-player audio session host and output graph for Kithara. |
+| 2026-09-26 01:27:41 | [corescout-store-commerce](https://crates.io/crates/corescout-store-commerce) | 1.1.0 | 0 | What the Microsoft Store says this account has bought. Read-only, and absent ou… |
+| 2026-09-26 01:28:53 | [increparse](https://crates.io/crates/increparse) | 0.1.0 | 0 | A combinator-agnostic, multi-pass fixpoint parsing engine: run schedules of par… |
+| 2026-09-26 01:29:08 | [increparse-lsp](https://crates.io/crates/increparse-lsp) | 0.3.0 | 0 | LSP adapter for increparse: documents, position encodings, and diagnostics brid… |
+| 2026-09-26 01:29:12 | [increparse-nom](https://crates.io/crates/increparse-nom) | 0.1.0 | 0 | nom adapter for increparse: wrap nom parsers in passes with correct absolute-sp… |
+| 2026-09-26 01:29:19 | [increparse-chumsky](https://crates.io/crates/increparse-chumsky) | 0.1.0 | 0 | chumsky adapter for increparse: wrap chumsky parsers in passes with correct abs… |
+| 2026-09-26 01:29:28 | [increparse-lua](https://crates.io/crates/increparse-lua) | 0.1.1 | 0 | Define an increparse language server in pure Lua: passes, diagnostics, and symb… |
+| 2026-09-26 01:37:41 | [corescout-substrate](https://crates.io/crates/corescout-substrate) | 1.1.0 | 0 | Linux hardware discovery and passive observation. The only crate that touches h… |
+| 2026-09-26 01:59:48 | [elanous](https://crates.io/crates/elanous) | 0.0.1 | 0 | Elanous — self-observing autonomous agent runtime by Elanvital AI (formerly mon… |
+| 2026-09-26 02:00:15 | [everruns-serve-build](https://crates.io/crates/everruns-serve-build) | 0.32.0 | 0 | build.rs helper for serve (experimental): embeds agent/**/*.md and serve.toml |
+| 2026-09-26 02:01:29 | [everruns-serve-macros](https://crates.io/crates/everruns-serve-macros) | 0.32.0 | 0 | Attribute macros for serve (experimental): #[agent], #[tool], #[channel], #[sch… |
+| 2026-09-26 02:03:31 | [mecha10-job-validation](https://crates.io/crates/mecha10-job-validation) | 0.6.3 | 0 | Shared job/task validation rules for mecha10 train's job catalog (flow_type fie… |
+| 2026-09-26 02:11:38 | [mitsuami-macros](https://crates.io/crates/mitsuami-macros) | 0.0.1 | 0 | view! and #[component] for mitsuami |
+| 2026-09-26 02:11:39 | [mitsuami-reactive](https://crates.io/crates/mitsuami-reactive) | 0.0.1 | 0 | Fine-grained, single-threaded reactive runtime for mitsuami |
+| 2026-09-26 02:11:39 | [mitsuami-test-macros](https://crates.io/crates/mitsuami-test-macros) | 0.0.1 | 0 | Proc macros for mitsuami-test |
+| 2026-09-26 02:11:39 | [mitsuami-core](https://crates.io/crates/mitsuami-core) | 0.0.1 | 0 | Node tree, layout, styles, units, a11y model and backend contract for mitsuami |
+| 2026-09-26 02:12:41 | [xcal](https://crates.io/crates/xcal) | 0.1.0 | 0 | 天文历法核心库 - 农历、节气、六十甲子、真太阳时 |
+| 2026-09-26 02:15:33 | [ic-dev-kit-rs](https://crates.io/crates/ic-dev-kit-rs) | 0.4.0 | 0 | Rust toolkit for IC development - standardizes HTTP generation, large object st… |
+| 2026-09-26 02:18:31 | [mitsuami-appkit](https://crates.io/crates/mitsuami-appkit) | 0.0.1 | 0 | AppKit (macOS) backend for mitsuami |
+| 2026-09-26 02:18:31 | [mitsuami-gtk](https://crates.io/crates/mitsuami-gtk) | 0.0.1 | 0 | GTK 4 (Linux) backend for mitsuami |
 
 ## Data source
 
