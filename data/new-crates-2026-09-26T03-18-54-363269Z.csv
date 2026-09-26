@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T02:28:28.576871Z,bdwgc-alloc-sys,0.6.15-beta,0,0,https://github.com/bdwgc/bdwgc-rust,Rust bindings to the bdwgc C API
+2026-09-26T02:29:38.472152Z,mitsuami-headless,0.0.1,0,0,https://github.com/Roboport-Tecnologia/mitsuami,"In-memory mitsuami backend with deterministic measurement, for tests"
+2026-09-26T02:36:51.354358Z,relune-plugin-guest,0.1.0,0,0,,Guest bindings and helpers for Relune WebAssembly plugins
+2026-09-26T02:40:43.210841Z,mitsuami-widgets,0.0.1,0,0,https://github.com/Roboport-Tecnologia/mitsuami,Built-in widgets for mitsuami
+2026-09-26T02:40:50.979127Z,omgbase-format,0.2.0,0,0,https://github.com/omgbase/omgbase,"omgbase format layer: source files to block trees (spans, trivia, normalized text, hashes) — Rust implementation"
+2026-09-26T02:40:57.301109Z,hypersteeldb,0.1.1,0,0,https://huggingface.co/spaces/cp500/steeldb-ontology-sensing,"A database that compiles questions instead of guessing answers: typed vocabulary discovered from your documents, queries type-checked before they run, roaring-bitmap set algebra over reified hyperedg…"
+2026-09-26T02:44:09.354075Z,carmy-cli,0.1.0,0,0,https://github.com/igorvieira/Carmy,Command-line tool for Carmy applications
+2026-09-26T02:44:09.77064Z,carmy-core,0.1.0,0,0,https://github.com/igorvieira/Carmy,Agent-native execution infrastructure: core
+2026-09-26T02:44:10.463884Z,carmy-macros,0.1.0,0,0,https://github.com/igorvieira/Carmy,Agent-native execution infrastructure: macros
+2026-09-26T02:44:10.840668Z,carmy-observability,0.1.0,0,0,https://github.com/igorvieira/Carmy,Agent-native execution infrastructure: tracing setup
+2026-09-26T02:44:11.379723Z,carmy-schema,0.1.0,0,0,https://github.com/igorvieira/Carmy,Agent-native execution infrastructure: schema
+2026-09-26T02:47:52.310214Z,molgfx-gpu,0.1.0,0,0,https://github.com/miguelcsx/molgfx,"The backend-agnostic GPU hardware abstraction: device, queue, encoder and surface traits."
+2026-09-26T02:47:56.799702Z,molgfx-math,0.1.0,0,0,https://github.com/miguelcsx/molgfx,"glam-based math foundation: cameras, projections, bounds, splines, transport frames."
+2026-09-26T02:48:02.811399Z,molgfx-shaders,0.1.0,0,0,https://github.com/miguelcsx/molgfx,The shared WGSL shader library and its build-time composition and validation.
+2026-09-26T02:48:12.354658Z,molgfx-core,0.1.0,0,0,https://github.com/miguelcsx/molgfx,"The semantic scene graph: columnar tables, GPU record layouts, the borrowed coordinate seam."
+2026-09-26T02:48:20.335963Z,molgfx-geometry,0.1.0,0,0,https://github.com/miguelcsx/molgfx,"GPU geometry generation: impostor packing, cartoons, labels, bounding hierarchies."
+2026-09-26T02:49:15.880225Z,molgfx-semantic,0.1.0,0,0,https://github.com/miguelcsx/molgfx,"The semantic layer: focus and context, banding, interaction edges, label policy."
+2026-09-26T02:51:47.557238Z,mitsuami-winui,0.0.1,0,0,https://github.com/Roboport-Tecnologia/mitsuami,WinUI 3 (Windows) backend for mitsuami
+2026-09-26T02:54:26.901188Z,carmy-runtime,0.1.0,0,0,https://github.com/igorvieira/Carmy,Agent-native execution infrastructure: runtime
+2026-09-26T02:59:27.359998Z,molgfx-render,0.1.0,0,0,https://github.com/miguelcsx/molgfx,"The render graph, passes and the engine that drives a frame."
+2026-09-26T03:02:53.135956Z,mitsuami-test,0.0.1,0,0,https://github.com/Roboport-Tecnologia/mitsuami,"Integration, end-to-end and snapshot testing for mitsuami apps"
+2026-09-26T03:04:23.407187Z,carmy-http,0.1.0,0,0,https://github.com/igorvieira/Carmy,Agent-native execution infrastructure: http
+2026-09-26T03:05:08.899576Z,rudb-qc-clif,0.6.0,0,0,https://github.com/tamnd/rudb,The query compiler's second tier: lowers QIR pipeline functions to machine code through Cranelift.
+2026-09-26T03:05:09.467104Z,rudb-qc-direct,0.6.0,0,0,https://github.com/tamnd/rudb,The query compiler's single pass x86-64 backend: QIR pipeline functions to machine code with no dependencies.
+2026-09-26T03:05:48.012455Z,exarmo-core,0.1.0,0,0,,"What an ARM disassembler writes, shared by the AArch64 and AArch32 runtimes"
+2026-09-26T03:05:49.781126Z,exarmo-aarch32,0.1.0,0,0,,AArch32 (A32 and T32) instruction decoder
+2026-09-26T03:05:50.818784Z,exarmo-aarch64,0.1.0,0,0,,AArch64 disassembler library
+2026-09-26T03:05:52.040724Z,exarmo-aarch32-capi,0.1.0,0,0,,The C face of the exarmo-aarch32 disassembler
+2026-09-26T03:05:52.603973Z,exarmo-aarch64-capi,0.1.0,0,0,,The C face of the exarmo-aarch64 disassembler
+2026-09-26T03:06:50.358599Z,exarmo-cli,0.1.0,0,0,,"The exarmo command, over both instruction sets"
+2026-09-26T03:09:19.562148Z,molgfx-wgpu,0.1.0,0,0,https://github.com/miguelcsx/molgfx,"The default GPU backend, implementing the hardware abstraction over wgpu."
+2026-09-26T03:12:30.130935Z,guest-args,0.1.0,0,0,,"Tiny argv helpers for muse-riscv-os guest programs (no_std compatible, zero deps)"
+2026-09-26T03:13:07.468629Z,guest-fmt,0.1.0,0,0,,"Allocation-free decimal/hex/octal formatting for muse-riscv-os guest programs (no_std compatible, zero deps)"
+2026-09-26T03:13:55.652482Z,orchiddb,0.1.0,0,0,https://github.com/OrchidDB/OrchidDB,An embedded graph query engine written in Rust
+2026-09-26T03:13:58.074131Z,mitsuami,0.0.1,0,0,https://github.com/Roboport-Tecnologia/mitsuami,"Native, declarative, cross-platform UI for Rust"
+2026-09-26T03:14:08.050434Z,mf2-model,1.0.0,0,0,,"The Unicode MessageFormat 2 interchange data model, MsgId, the shared error kinds and the Frontend trait (no_std)."
+2026-09-26T03:14:09.803534Z,mf2-resource,1.0.0,0,0,,"The W3C Message Resource container for MessageFormat 2: parser, serializer and data model, generic over the message type (no_std)."
+2026-09-26T03:14:10.369655Z,mf2-syntax,1.0.0,0,0,,"MessageFormat 2 syntax: a lossless-CST parser with recovery, lowering to the data model, validation, serializer and analysis (no_std)."
+2026-09-26T03:14:11.256801Z,mf2-catalog,1.0.0,0,0,,"The .mf2b binary catalog: a no_std client reader and (features) the writer, the model-rebuilding decoder and the manifest file."
+2026-09-26T03:14:12.907818Z,mf2-macros,1.0.0,0,0,,The tr! proc-macro: a call site checked against the manifest at compile time and lowered to a positional description of the message.
+2026-09-26T03:14:31.069067Z,orchiddb-client,0.1.0,0,0,https://github.com/OrchidDB/OrchidDB-rust,Caller-owned Arrow execution for OrchidDB graph queries
+2026-09-26T03:15:12.396018Z,carmy-mcp,0.1.0,0,0,https://github.com/igorvieira/Carmy,Agent-native execution infrastructure: MCP adapter
+2026-09-26T03:18:15.792499Z,thermark,0.33.0,0,0,https://github.com/kahwee/thermark,"Local sticker printing for pocket thermal printers over BLE/USB — QR links, inventory tags, badges, photos; no vendor app"
