@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T20:26:07.978162Z,burn_llama,0.1.0,0,0,https://github.com/mosure/burn_human,Portable Llama 3 LLM2Vec text conditioning for ARDY using Burn
+2026-09-26T20:26:09.424454Z,burn_gemx,0.1.0,0,0,https://github.com/mosure/burn_human,Portable GEM-X image-conditioned SOMA inference on Burn
+2026-09-26T20:26:12.170817Z,kuchiyose-scale,0.1.1,0,0,https://github.com/lambdalisue/kuchiyose,kuchiyose の目盛り。語彙・重み・天井・床・帯を作る
+2026-09-26T20:28:19.91502Z,zeughaus-wezterm-char-props,0.1.3,0,0,https://github.com/tuco86/zeughaus,"wezterm-char-props from wezterm at 2658f629, published for zeughaus. Unicode and other character properties"
+2026-09-26T20:29:18.907345Z,kerosene,1.0.0-a2,0,0,https://github.com/t342guy/kerosene,"A Rust game crate for brush-built 3D games: add it, implement Game, and play. Engine and tools in one."
+2026-09-26T20:29:21.959411Z,ruvector-rabitq-wasm,0.1.0,0,0,https://github.com/ruvnet/ruvector,WASM bindings for ruvector-rabitq — 1-bit quantized vector index for browsers and edge runtimes
+2026-09-26T20:31:12.354618Z,vize_l1,0.429.0,0,0,https://github.com/ubugeeei-prod/vize,"L1 - the lossless Vue-template surface tree (codename Sinopia, Davinci P2-7)"
+2026-09-26T20:31:19.054953Z,vize_l2,0.429.0,0,0,https://github.com/ubugeeei-prod/vize,L2 - the Davinci semantic IR (codename Disegno): the neutral op family every input dialect lowers into
+2026-09-26T20:31:51.92301Z,vize_l1_to_l2,0.429.0,0,0,https://github.com/ubugeeei-prod/vize,"L1-to-L2 - the Davinci Vue template lowering (codename Ricalco, P2-8)"
+2026-09-26T20:31:57.333027Z,vize_l2_to_l3,0.429.0,0,0,https://github.com/ubugeeei-prod/vize,L2-to-L3 - the Davinci Impeto lowering and shared partition facts
+2026-09-26T20:32:08.058757Z,manteau-core,0.1.11,0,0,https://github.com/zmontgo/manteau,"Typed email construction, rendering, and transport contracts for Manteau."
+2026-09-26T20:32:48.420116Z,manteau-render,0.1.11,0,0,https://github.com/zmontgo/manteau,MJML and plaintext rendering implementation for Manteau.
+2026-09-26T20:32:54.313673Z,manteau-http,0.1.11,0,0,https://github.com/zmontgo/manteau,Bounded HTTP submission mechanism for Manteau adapters.
+2026-09-26T20:32:57.799564Z,manteau-mailjet,0.1.11,0,0,https://github.com/zmontgo/manteau,Mailjet protocol adapter for Manteau prepared emails.
+2026-09-26T20:33:01.415875Z,manteau-cloudflare,0.1.11,0,0,https://github.com/zmontgo/manteau,Cloudflare protocol adapter for Manteau prepared emails.
+2026-09-26T20:34:46.023783Z,global_witness,0.1.0,0,0,https://github.com/m-mueller678/singleton_ref,Zero sized witness-types that grant access to globals
+2026-09-26T20:36:03.63036Z,kuchiyose,0.1.1,0,0,https://github.com/lambdalisue/kuchiyose,LLM にあなたの代わりに日本語の文章を書かせ、あなたの書き方からのずれを数えて直させる
+2026-09-26T20:38:21.352072Z,zeughaus-wezterm-color-types,0.3.0,0,0,https://github.com/tuco86/zeughaus,"wezterm-color-types from wezterm at 2658f629, published for zeughaus. Types for working with colors"
+2026-09-26T20:39:27.677068Z,lumenize,0.0.0,0,0,https://github.com/claviron/lumenize.git,Safe Atomic Rust Power for PHP/Laravel applications through Claviron and Orbit.
+2026-09-26T20:40:09.454032Z,manteau-jetemail,0.1.11,0,0,https://github.com/zmontgo/manteau,JetEmail protocol adapter for Manteau prepared emails.
+2026-09-26T20:40:57.068948Z,ruvector-retrieval-receipt,0.1.0,0,0,https://github.com/ruvnet/ruvector,"Witness-chained provenance receipts for ANN retrieval results, binding query evidence to ruvector-proof-gate write history."
+2026-09-26T20:42:17.367722Z,pankhllm,0.1.1,0,0,https://github.com/singhpratech/pankhllm,"The LLM gateway that learns to skip the LLM: trains its own tiny decision model on your agent's traffic and answers repeat decisions in 0.2 ms with no LLM call. OpenAI-compatible, one Rust binary."
+2026-09-26T20:43:04.652783Z,pankhllm-client,0.1.1,0,0,https://github.com/singhpratech/pankhllm,"Client for pankhllm, the LLM gateway that learns to skip the LLM."
+2026-09-26T20:43:31.302309Z,ruvector-staged-workspace,0.1.0,0,0,https://github.com/ruvnet/ruvector,"StagedWorkspace (arXiv:2608.18050) content-hash + revision-id state binding for RuV artifacts: stale views fail closed (ADR-318, PIR WP16)"
+2026-09-26T20:43:59.752216Z,sonisub,0.2.0,0,0,https://github.com/Zelenov/sonisub,Generate .srt subtitles from video/audio files with Soniox speech-to-text
+2026-09-26T20:48:19.905289Z,zeughaus-wezterm-input-types,0.1.0,0,0,https://github.com/tuco86/zeughaus,"wezterm-input-types from wezterm at 2658f629, published for zeughaus. config serialization for wezterm via dynamic json-like data values"
+2026-09-26T20:50:03.902631Z,manteau-mock,0.1.11,0,0,https://github.com/zmontgo/manteau,Mock transport for Manteau prepared emails.
+2026-09-26T20:54:20.546601Z,reqfile,0.1.0,0,0,https://github.com/arkadia-so/reqfile,Check that a codebase meets its requirements
+2026-09-26T20:54:38.49722Z,ruvector-streaming-qng,2.3.0,0,0,https://github.com/ruvnet/ruvector,"Online reservoir-sampled product quantization for streaming ANN: three measurable variants — full-precision, static-PQ, and adaptive streaming-PQ with distribution-drift resilience"
+2026-09-26T20:58:20.644099Z,zeughaus-wezterm-escape-parser,0.1.0,0,0,https://github.com/tuco86/zeughaus,"wezterm-escape-parser from wezterm at 2658f629, published for zeughaus. Escape Sequence Parser"
+2026-09-26T21:00:16.298741Z,manteau-stdout,0.1.11,0,0,https://github.com/zmontgo/manteau,Stdout transport for Manteau prepared emails.
+2026-09-26T21:05:52.740093Z,ruvector-temporal-coherence,0.1.0,0,0,https://github.com/ruvnet/ruvector,Temporal coherence decay for agent memory retrieval — three scored variants with graph-coherence gating
+2026-09-26T21:08:20.929353Z,zeughaus-wezterm-cell,0.1.0,0,0,https://github.com/tuco86/zeughaus,"wezterm-cell from wezterm at 2658f629, published for zeughaus. Model a Cell in a Terminal display"
+2026-09-26T21:11:16.513275Z,sz-rust-distributed-tx,1.4.0,0,0,https://github.com/ljclz/sz-rust,Distributed transactions for sz-rust — Saga + TCC orchestration + compensation + state persistence
+2026-09-26T21:11:16.898074Z,agentchan,0.1.0,0,0,https://github.com/damejeras/agentchan,"MCP server that lets one coding agent talk to another: Claude Code, Codex or Grok"
+2026-09-26T21:12:48.347135Z,diskr-cli,1.0.0,0,0,https://github.com/monji024/diskr,"Save your disk space, without fear of deleting the wrong thing."
+2026-09-26T21:14:20.854029Z,sz-rust-marketplace,1.4.0,0,0,https://github.com/ljclz/sz-rust,SZ-Rust 插件市场 — 清单管理、Ed25519 签名、对象存储、审核流程、Web API、CLI 客户端
+2026-09-26T21:15:20.507731Z,sz-rust-addons-admin,1.4.0,0,0,https://github.com/ljclz/sz-rust,SZ-Rust Admin 后台管理插件：用户/角色/权限/菜单/配置/日志/仪表盘
+2026-09-26T21:17:13.557643Z,ruvector-temporal-tensor-wasm,2.3.0,0,0,https://github.com/ruvnet/ruvector,WASM bindings for temporal tensor compression
+2026-09-26T21:18:06.302883Z,photograph,0.4.1,0,0,https://github.com/divanvisagie/Photograph,Native desktop photo browser and non-destructive editor for RAW images and color grading
+2026-09-26T21:18:22.007799Z,zeughaus-wezterm-surface,0.1.0,0,0,https://github.com/tuco86/zeughaus,"wezterm-surface from wezterm at 2658f629, published for zeughaus. Surface and Line types for terminals"
