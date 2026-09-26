@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T03:19:21.640131Z,molgfx-api,0.1.0,0,0,https://github.com/miguelcsx/molgfx,The declarative MolGFX authoring and rendering contract.
+2026-09-26T03:25:15.194825Z,carmy,0.1.0,0,0,https://github.com/igorvieira/Carmy,Agent-native execution infrastructure for Rust
+2026-09-26T03:25:18.937558Z,bloq,0.0.0-reserved,0,0,https://github.com/inmzhang/bloq,"Prerelease placeholder for bloq, part of the Bloq quantum circuit compiler."
+2026-09-26T03:25:35.883162Z,bloq_circuit,0.0.0-reserved,0,0,https://github.com/inmzhang/bloq,"Prerelease placeholder for bloq_circuit, part of the Bloq quantum circuit compiler."
+2026-09-26T03:25:37.590153Z,bloq_compile,0.0.0-reserved,0,0,https://github.com/inmzhang/bloq,"Prerelease placeholder for bloq_compile, part of the Bloq quantum circuit compiler."
+2026-09-26T03:25:39.75729Z,bloq_editor,0.0.0-reserved,0,0,https://github.com/inmzhang/bloq,"Prerelease placeholder for bloq_editor, part of the Bloq quantum circuit compiler."
+2026-09-26T03:29:00.090827Z,bloq_graph,0.0.0-reserved,0,0,https://github.com/inmzhang/bloq,"Prerelease placeholder for bloq_graph, part of the Bloq quantum circuit compiler."
+2026-09-26T03:29:20.104327Z,molgfx,0.1.0,0,0,https://github.com/miguelcsx/molgfx,Curated declarative molecular-rendering API.
+2026-09-26T03:31:47.445629Z,everruns-serve,0.32.0,0,0,https://github.com/everruns/everruns,"Experimental agent framework over everruns: attribute macros, a build-time manifest, and a /v1 wire API"
+2026-09-26T03:38:44.921924Z,llmup-crossterm,0.29.0,0,0,https://github.com/shashankswe2020-ux/local-llmup,"crossterm 0.29.0 with bounded escape-sequence and bracketed-paste input parsing, used by local-llmup (see LLMUP-PATCH.md)."
+2026-09-26T03:39:02.080285Z,bloq_ir,0.0.0-reserved,0,0,https://github.com/inmzhang/bloq,"Prerelease placeholder for bloq_ir, part of the Bloq quantum circuit compiler."
+2026-09-26T03:39:16.126178Z,molgfx-wasm,0.1.0,0,0,https://github.com/miguelcsx/molgfx,Thin browser bindings for molgfx over WebGPU.
+2026-09-26T03:42:13.1671Z,poly-ring,1.0.0,0,0,https://github.com/nanithefkuc/poly-ring,"Univariate and multivariate polynomial arithmetic, evaluation, interpolation, and factorization over finite fields."
+2026-09-26T03:42:30.110057Z,user-lib,0.1.1,0,0,,"Raw syscall wrappers for muse-riscv-os guest programs (riscv64, custom ecall ABI, no_std)"
+2026-09-26T03:49:24.794147Z,mf2-runtime,1.0.0,0,0,,"The MessageFormat 2 evaluator of mf2-two: formats from a .mf2b catalog (no_std, fmt-free, panic-free): resolution, selection, fallback, bidi, parts, markup, the registry and the core functions."
+2026-09-26T03:49:26.681543Z,leptos-mf2,1.0.0,0,0,,"The call-site description of a message (Tr, TrArgs, TrRich, ArgValue) and, with the `leptos` feature, its Leptos rendering: the tachys view impls, the per-locale catalog, the node registry and the lo…"
+2026-09-26T03:49:27.288772Z,mf2-fn-datetime,1.0.0,0,0,,"The MessageFormat 2 date/time functions of mf2-two — :datetime, :date, :time and unannotated date/time values: operand and option semantics, time zones, and the backends (a neutral stub, ICU4X, the b…"
+2026-09-26T03:49:27.58739Z,mf2-host-std,1.0.0,0,0,,"The native Host of mf2-runtime (servers, tests, wasm32-wasip1): NFC through unicode-normalization, float text through ryu, time-zone offsets through jiff's bundled IANA database."
+2026-09-26T04:02:26.367388Z,llmup-core,1.0.0,0,0,https://github.com/shashankswe2020-ux/local-llmup,"Deterministic, offline hardware-fit scoring, catalog and sizing engine for local-llmup."
+2026-09-26T04:02:30.246669Z,llmup-runtime,1.0.0,0,0,https://github.com/shashankswe2020-ux/local-llmup,"Hardware detection, backend adapters, lifecycle, memory and harness runtime for local-llmup."
+2026-09-26T04:02:34.322129Z,llmup-cli,1.0.0,0,0,https://github.com/shashankswe2020-ux/local-llmup,Hardware-aware CLI that tells you which local LLMs will run (yes/slow/no + tok/s) before installing and serving them.
+2026-09-26T04:02:36.164502Z,llmup-gui,1.0.0,0,0,https://github.com/shashankswe2020-ux/local-llmup,Loopback-only local browser workspace for local-llmup (`llmup gui`).
+2026-09-26T04:09:54.569721Z,infoprober,0.1.0,0,0,https://github.com/ekahPruthvi/infoprobe,A fast and simple language (info probe) library
+2026-09-26T04:17:01.414861Z,cobble-table,0.5.0,0,0,https://github.com/cobble-project/cobble,Schema and table APIs for Cobble
