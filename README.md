@@ -8,39 +8,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 18:19 UTC
+## Latest list — 2026-09-26 19:19 UTC
 
-New crates published between 2026-09-26 17:19 UTC and 2026-09-26 18:19 UTC.
+New crates published between 2026-09-26 18:19 UTC and 2026-09-26 19:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-26T18-19-12-22526Z.csv)
+[Full CSV](data/new-crates-2026-09-26T19-19-10-171257Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-26 17:21:19 | [oxidize-webpki](https://crates.io/crates/oxidize-webpki) | 0.1.0 | 0 | RustCrypto signature verification algorithms for WebPKI |
-| 2026-09-26 17:24:11 | [ruvector-embed-core](https://crates.io/crates/ruvector-embed-core) | 2.3.0 | 0 | Sentence-embedding backends for @ruvector/typesafe: `ort` (native) and `tract`… |
-| 2026-09-26 17:27:44 | [ryzenadj-sys](https://crates.io/crates/ryzenadj-sys) | 0.1.0 | 0 | Raw FFI bindings to RyzenAdj |
-| 2026-09-26 17:28:03 | [ryzenadj](https://crates.io/crates/ryzenadj) | 0.1.0 | 0 | Safe Rust interface to RyzenAdj |
-| 2026-09-26 17:28:20 | [zeughaus-graph](https://crates.io/crates/zeughaus-graph) | 0.1.0-alpha.1 | 0 | zeughaus plugin: the Subgraph container and its Input and Output boundary nodes |
-| 2026-09-26 17:31:29 | [benthic_default_asset_converter](https://crates.io/crates/benthic_default_asset_converter) | 0.2.1 | 0 | A simple patching build script to download and convert benthic default assets t… |
-| 2026-09-26 17:34:45 | [koelu](https://crates.io/crates/koelu) | 0.6.9 | 0 | Checked coding changes, dependency reviews, and local-first agent workflows |
-| 2026-09-26 17:35:25 | [ruvector-entropy-ann](https://crates.io/crates/ruvector-entropy-ann) | 0.1.0 | 0 | Entropy-adaptive beam search for ANN: live Shannon entropy of the candidate-hea… |
-| 2026-09-26 17:35:57 | [cloud-sdk-cratesio](https://crates.io/crates/cloud-sdk-cratesio) | 1.1.0 | 0 | no_std-first crates.io provider crate for cloud-sdk. |
-| 2026-09-26 17:38:20 | [zeughaus-job](https://crates.io/crates/zeughaus-job) | 0.1.0-alpha.1 | 0 | zeughaus plugin: Job runs a process in a runner-owned terminal and keeps a log… |
-| 2026-09-26 17:43:13 | [eggsec-nse](https://crates.io/crates/eggsec-nse) | 0.1.0 | 0 | Standalone Lua-based Nmap Scripting Engine runtime |
-| 2026-09-26 17:43:27 | [metaverse_avatar](https://crates.io/crates/metaverse_avatar) | 0.2.1 | 0 | Avatar handling for the open metaverse |
-| 2026-09-26 17:45:47 | [metaverse_cache](https://crates.io/crates/metaverse_cache) | 0.2.1 | 0 | inventory and cache handling for the open metaverse |
-| 2026-09-26 17:47:22 | [ruvector-fpga-transformer-wasm](https://crates.io/crates/ruvector-fpga-transformer-wasm) | 0.1.0 | 0 | WASM bindings for FPGA Transformer backend |
-| 2026-09-26 17:48:20 | [zeughaus-link](https://crates.io/crates/zeughaus-link) | 0.1.0-alpha.1 | 0 | The zeughaus runner-to-editor protocol over weida: sample feed, events, snapsho… |
-| 2026-09-26 17:50:08 | [omgbase-sync](https://crates.io/crates/omgbase-sync) | 1.0.0 | 0 | omgbase sync: workspace discovery and repo selection, the source registry and s… |
-| 2026-09-26 17:51:32 | [metaverse_objects](https://crates.io/crates/metaverse_objects) | 0.2.1 | 0 | Metaverse objects, a crate for handling objects in Benthic |
-| 2026-09-26 17:58:20 | [zeughaus-llm](https://crates.io/crates/zeughaus-llm) | 0.1.0-alpha.1 | 0 | zeughaus plugin: conversation nodes against an LM Studio endpoint |
-| 2026-09-26 17:59:15 | [ruvector-graph-condense](https://crates.io/crates/ruvector-graph-condense) | 2.3.0 | 0 | Structure-preserving graph condensation: collapse large feature graphs into sma… |
-| 2026-09-26 18:08:19 | [zeughaus-ml](https://crates.io/crates/zeughaus-ml) | 0.1.0-alpha.1 | 0 | zeughaus plugin: Keras layers as nodes, exported as functional-API code |
-| 2026-09-26 18:09:23 | [html_docs](https://crates.io/crates/html_docs) | 0.1.0 | 0 | html docs |
-| 2026-09-26 18:10:31 | [ruvector-graph-condense-wasm](https://crates.io/crates/ruvector-graph-condense-wasm) | 2.3.0 | 0 | WASM bindings for ruvector-graph-condense: structure-preserving + differentiabl… |
-| 2026-09-26 18:11:25 | [ruvector-hnsw-repair](https://crates.io/crates/ruvector-hnsw-repair) | 2.3.0 | 0 | Online HNSW graph repair after vector deletions — three deletion strategies wit… |
-| 2026-09-26 18:14:11 | [examplify](https://crates.io/crates/examplify) | 0.1.0 | 0 | A lightweight logging UI for Rust web applications |
-| 2026-09-26 18:18:20 | [zeughaus-record](https://crates.io/crates/zeughaus-record) | 0.1.0-alpha.1 | 0 | zeughaus plugin: Recorder writes frames and values to disk, Player replays the… |
+| 2026-09-26 18:20:54 | [aptg](https://crates.io/crates/aptg) | 0.1.0 | 0 | Secure Debian mirror redirector with verification and caching |
+| 2026-09-26 18:22:31 | [ruvector-hybrid](https://crates.io/crates/ruvector-hybrid) | 0.1.0 | 0 | Hybrid sparse-dense search: BM25 + ANN + Reciprocal Rank Fusion for ruvector |
+| 2026-09-26 18:23:19 | [eck](https://crates.io/crates/eck) | 0.0.4 | 0 | A fast, simple file & folder encryption manager, written in Rust |
+| 2026-09-26 18:28:21 | [zeughaus-sync](https://crates.io/crates/zeughaus-sync) | 0.1.0-alpha.1 | 0 | SpacetimeDB client shared by the zeughaus editor and runner: bindings, store, s… |
+| 2026-09-26 18:33:42 | [ruvector-kge](https://crates.io/crates/ruvector-kge) | 2.3.0 | 0 | Holographic knowledge-graph embeddings (HolE / RotatE) for ruvector: scoring, t… |
+| 2026-09-26 18:35:10 | [renox](https://crates.io/crates/renox) | 0.0.1 | 0 | A batteries-included web framework for Rust, inspired by Laravel: Axum + HTMX +… |
+| 2026-09-26 18:35:14 | [renox-cli](https://crates.io/crates/renox-cli) | 0.0.1 | 0 | Command-line tool for the Renox web framework (like Laravel's artisan). (Early… |
+| 2026-09-26 18:35:22 | [omgbase-surface](https://crates.io/crates/omgbase-surface) | 1.0.0 | 0 | omgbase surface: the OQX query binding over the store, the document/block reads… |
+| 2026-09-26 18:35:33 | [omgbase](https://crates.io/crates/omgbase) | 0.1.0 | 0 | omgbase: a versioned, addressable graph layer over authored Markdown — the `omg… |
+| 2026-09-26 18:36:19 | [burn_human_motion](https://crates.io/crates/burn_human_motion) | 0.1.0 | 0 | Portable motion, rig, conditioning, and verified model artifact contracts |
+| 2026-09-26 18:36:21 | [burn_human_inference](https://crates.io/crates/burn_human_inference) | 0.1.0 | 0 | Verified bounded Burnpack transport and portable model tensor utilities |
+| 2026-09-26 18:36:23 | [burn_ardy](https://crates.io/crates/burn_ardy) | 0.1.0 | 0 | ARDY Core motion inference on Burn, native WGPU and WebGPU |
+| 2026-09-26 18:36:24 | [burn_mhr](https://crates.io/crates/burn_mhr) | 0.1.0 | 0 | Momentum Human Rig identity, expression, articulation and corrective evaluation… |
+| 2026-09-26 18:36:25 | [burn_ardy_text](https://crates.io/crates/burn_ardy_text) | 0.1.0 | 0 | Portable Llama 3 LLM2Vec text conditioning for ARDY using Burn |
+| 2026-09-26 18:38:24 | [zeughaus-theme](https://crates.io/crates/zeughaus-theme) | 0.1.0-alpha.1 | 0 | One theme for every surface of the editor: iced widgets, the node graph, the ta… |
+| 2026-09-26 18:38:45 | [raam](https://crates.io/crates/raam) | 0.0.0 | 0 | Turn a cheap Android photo frame into something you own: a fast, open slideshow… |
+| 2026-09-26 18:39:23 | [burn_soma](https://crates.io/crates/burn_soma) | 0.1.0 | 0 | SOMA-X parametric identity, procedural rig, correctives and skinning on Burn |
+| 2026-09-26 18:45:01 | [ruvector-kge-ffi](https://crates.io/crates/ruvector-kge-ffi) | 2.3.0 | 0 | NAPI-RS bindings for ruvector-kge (@ruvector/kge native binary) |
+| 2026-09-26 18:48:20 | [zeughaus-transform](https://crates.io/crates/zeughaus-transform) | 0.1.0-alpha.1 | 0 | zeughaus plugin: math, logic, string and trigonometry nodes, constants and Disp… |
+| 2026-09-26 18:48:35 | [burn_gem](https://crates.io/crates/burn_gem) | 0.1.0 | 0 | Portable GEM-X image-conditioned SOMA inference on Burn |
+| 2026-09-26 18:48:48 | [mise-brew-relocation](https://crates.io/crates/mise-brew-relocation) | 0.0.0 | 0 | Placeholder for mise's Homebrew bottle relocation crate |
+| 2026-09-26 18:54:46 | [skies-cli](https://crates.io/crates/skies-cli) | 5.0.0-rc.3 | 0 | The Skies convention CLI: scaffolders, doctor, and spec proofs. |
+| 2026-09-26 18:54:53 | [detect-terminal](https://crates.io/crates/detect-terminal) | 0.1.0 | 0 | Identify terminal applications and multiplexers from environment hints |
+| 2026-09-26 18:54:55 | [detect-terminal-cli](https://crates.io/crates/detect-terminal-cli) | 0.1.0 | 0 | Inspect terminal identity, multiplexer metadata, and detection evidence |
+| 2026-09-26 18:55:41 | [sz-rust-ops-api](https://crates.io/crates/sz-rust-ops-api) | 1.4.0 | 0 | Ops API for sz-rust — admin guarded operations API |
+| 2026-09-26 18:56:21 | [ruvector-kge-wasm](https://crates.io/crates/ruvector-kge-wasm) | 2.3.0 | 0 | wasm-bindgen build of ruvector-kge (@ruvector/kge WASM fallback) |
+| 2026-09-26 18:56:31 | [merkle-champ](https://crates.io/crates/merkle-champ) | 0.1.0 | 0 | Persistent CHAMP hash map and set with canonical shape, cached Merkle identitie… |
+| 2026-09-26 18:57:32 | [veridy-impact](https://crates.io/crates/veridy-impact) | 0.0.0 | 0 | 14 modules lecture-seule de preuve d'impact pour les findings de veridy_scanner… |
+| 2026-09-26 18:58:27 | [zeughaus](https://crates.io/crates/zeughaus) | 0.1.0-alpha.1 | 0 | Visual dataflow workbench on iced: the editor, which edits the node graph and s… |
+| 2026-09-26 19:00:37 | [pdfsearch](https://crates.io/crates/pdfsearch) | 0.6.0 | 0 | Recursively indexes PDFs via pdftotext, makes them full-text searchable, and se… |
+| 2026-09-26 19:01:34 | [nivra](https://crates.io/crates/nivra) | 0.1.0 | 0 | See what changed between working and broken. A local development timeline. |
+| 2026-09-26 19:07:34 | [ruvector-learning-wasm](https://crates.io/crates/ruvector-learning-wasm) | 0.1.0 | 0 | Ultra-fast MicroLoRA adaptation for WASM - rank-2 LoRA with <100us latency for… |
+| 2026-09-26 19:07:55 | [cyo-mimalloc-sys](https://crates.io/crates/cyo-mimalloc-sys) | 0.0.1 | 0 | Builds mimalloc v3 from source and declares Rust bindings to its C API. |
+| 2026-09-26 19:07:57 | [cyo-mimalloc](https://crates.io/crates/cyo-mimalloc) | 0.0.1 | 0 | Provides mimalloc v3 as a Rust global allocator, with heaps, arenas and statist… |
+| 2026-09-26 19:08:20 | [zeughaus-runtime](https://crates.io/crates/zeughaus-runtime) | 0.1.0-alpha.1 | 0 | The zeughaus graph executor: topology, node instances, edge cache, dirty set, a… |
+| 2026-09-26 19:18:20 | [zeughaus-filedescriptor](https://crates.io/crates/zeughaus-filedescriptor) | 0.8.3 | 0 | filedescriptor from wezterm at 2658f629, published for zeughaus. More ergonomic… |
+| 2026-09-26 19:18:42 | [mise-brew-metadata](https://crates.io/crates/mise-brew-metadata) | 0.0.0 | 0 | Placeholder for the mise Homebrew formula metadata crate |
 
 ## Data source
 

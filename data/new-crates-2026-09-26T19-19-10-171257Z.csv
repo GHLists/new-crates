@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T18:20:54.308478Z,aptg,0.1.0,0,0,,Secure Debian mirror redirector with verification and caching
+2026-09-26T18:22:31.128183Z,ruvector-hybrid,0.1.0,0,0,https://github.com/ruvnet/ruvector,Hybrid sparse-dense search: BM25 + ANN + Reciprocal Rank Fusion for ruvector
+2026-09-26T18:23:19.455609Z,eck,0.0.4,0,0,https://github.com/VRAM-RAM/Enkryptit,"A fast, simple file & folder encryption manager, written in Rust"
+2026-09-26T18:28:21.357087Z,zeughaus-sync,0.1.0-alpha.1,0,0,https://github.com/tuco86/zeughaus,"SpacetimeDB client shared by the zeughaus editor and runner: bindings, store, session and reducers"
+2026-09-26T18:33:42.886502Z,ruvector-kge,2.3.0,0,0,https://github.com/ruvnet/ruvector,"Holographic knowledge-graph embeddings (HolE / RotatE) for ruvector: scoring, training, evaluation, ANN candidate retrieval — one crate for native and wasm"
+2026-09-26T18:35:10.937106Z,renox,0.0.1,0,0,,"A batteries-included web framework for Rust, inspired by Laravel: Axum + HTMX + Alpine.js + SQLite. (Early placeholder, work in progress.)"
+2026-09-26T18:35:14.464141Z,renox-cli,0.0.1,0,0,,"Command-line tool for the Renox web framework (like Laravel's artisan). (Early placeholder, work in progress.)"
+2026-09-26T18:35:22.686405Z,omgbase-surface,1.0.0,0,0,https://github.com/omgbase/omgbase,"omgbase surface: the OQX query binding over the store, the document/block reads, the history reads and the MCP tool catalog as a library — Rust implementation"
+2026-09-26T18:35:33.036521Z,omgbase,0.1.0,0,0,https://github.com/omgbase/omgbase,"omgbase: a versioned, addressable graph layer over authored Markdown — the `omgbase` binary (`omgbase mcp` serves the tool catalog over MCP stdio)"
+2026-09-26T18:36:19.407774Z,burn_human_motion,0.1.0,0,0,https://github.com/mosure/burn_human,"Portable motion, rig, conditioning, and verified model artifact contracts"
+2026-09-26T18:36:21.833367Z,burn_human_inference,0.1.0,0,0,https://github.com/mosure/burn_human,Verified bounded Burnpack transport and portable model tensor utilities
+2026-09-26T18:36:23.979515Z,burn_ardy,0.1.0,0,0,https://github.com/mosure/burn_human,"ARDY Core motion inference on Burn, native WGPU and WebGPU"
+2026-09-26T18:36:24.426455Z,burn_mhr,0.1.0,0,0,https://github.com/mosure/burn_human,"Momentum Human Rig identity, expression, articulation and corrective evaluation on Burn"
+2026-09-26T18:36:25.335885Z,burn_ardy_text,0.1.0,0,0,https://github.com/mosure/burn_human,Portable Llama 3 LLM2Vec text conditioning for ARDY using Burn
+2026-09-26T18:38:24.404713Z,zeughaus-theme,0.1.0-alpha.1,0,0,https://github.com/tuco86/zeughaus,"One theme for every surface of the editor: iced widgets, the node graph, the tab bar and the terminal panes, all derived from a terminal colour scheme"
+2026-09-26T18:38:45.538705Z,raam,0.0.0,0,0,https://github.com/noctonca/raam,"Turn a cheap Android photo frame into something you own: a fast, open slideshow for your own photos, with or without Immich"
+2026-09-26T18:39:23.168843Z,burn_soma,0.1.0,0,0,https://github.com/mosure/burn_human,"SOMA-X parametric identity, procedural rig, correctives and skinning on Burn"
+2026-09-26T18:45:01.857798Z,ruvector-kge-ffi,2.3.0,0,0,https://github.com/ruvnet/ruvector,NAPI-RS bindings for ruvector-kge (@ruvector/kge native binary)
+2026-09-26T18:48:20.842836Z,zeughaus-transform,0.1.0-alpha.1,0,0,https://github.com/tuco86/zeughaus,"zeughaus plugin: math, logic, string and trigonometry nodes, constants and Display"
+2026-09-26T18:48:35.58267Z,burn_gem,0.1.0,0,0,https://github.com/mosure/burn_human,Portable GEM-X image-conditioned SOMA inference on Burn
+2026-09-26T18:48:48.451151Z,mise-brew-relocation,0.0.0,0,0,https://github.com/jdx/mise,Placeholder for mise's Homebrew bottle relocation crate
+2026-09-26T18:54:46.221622Z,skies-cli,5.0.0-rc.3,0,0,https://github.com/lucasrgt/skies,"The Skies convention CLI: scaffolders, doctor, and spec proofs."
+2026-09-26T18:54:53.733768Z,detect-terminal,0.1.0,0,0,https://github.com/joshka/detect-terminal,Identify terminal applications and multiplexers from environment hints
+2026-09-26T18:54:55.36353Z,detect-terminal-cli,0.1.0,0,0,https://github.com/joshka/detect-terminal,"Inspect terminal identity, multiplexer metadata, and detection evidence"
+2026-09-26T18:55:41.663015Z,sz-rust-ops-api,1.4.0,0,0,https://github.com/ljclz/sz-rust,Ops API for sz-rust — admin guarded operations API
+2026-09-26T18:56:21.717364Z,ruvector-kge-wasm,2.3.0,0,0,https://github.com/ruvnet/ruvector,wasm-bindgen build of ruvector-kge (@ruvector/kge WASM fallback)
+2026-09-26T18:56:31.786731Z,merkle-champ,0.1.0,0,0,https://github.com/tabcomputing/merkle-champ,"Persistent CHAMP hash map and set with canonical shape, cached Merkle identities, and structural diff"
+2026-09-26T18:57:32.67278Z,veridy-impact,0.0.0,0,0,https://github.com/DeamonDev888/veridy-scanner,"14 modules lecture-seule de preuve d'impact pour les findings de veridy_scanner (env expose, git dump, cles API, spoofing, subs, FTP, chainage auto)"
+2026-09-26T18:58:27.025663Z,zeughaus,0.1.0-alpha.1,0,0,https://github.com/tuco86/zeughaus,"Visual dataflow workbench on iced: the editor, which edits the node graph and shows what a runner reports"
+2026-09-26T19:00:37.606825Z,pdfsearch,0.6.0,0,0,,"Recursively indexes PDFs via pdftotext, makes them full-text searchable, and serves a local web GUI with inline highlighted PDF viewing."
+2026-09-26T19:01:34.86156Z,nivra,0.1.0,0,0,https://github.com/bilalyazicioglu/nivra,See what changed between working and broken. A local development timeline.
+2026-09-26T19:07:34.54683Z,ruvector-learning-wasm,0.1.0,0,0,https://github.com/ruvnet/ruvector,Ultra-fast MicroLoRA adaptation for WASM - rank-2 LoRA with <100us latency for per-operator learning
+2026-09-26T19:07:55.330343Z,cyo-mimalloc-sys,0.0.1,0,0,https://github.com/cyo-alloc/mimalloc,Builds mimalloc v3 from source and declares Rust bindings to its C API.
+2026-09-26T19:07:57.979579Z,cyo-mimalloc,0.0.1,0,0,https://github.com/cyo-alloc/mimalloc,"Provides mimalloc v3 as a Rust global allocator, with heaps, arenas and statistics."
+2026-09-26T19:08:20.030074Z,zeughaus-runtime,0.1.0-alpha.1,0,0,https://github.com/tuco86/zeughaus,"The zeughaus graph executor: topology, node instances, edge cache, dirty set, async work and node errors"
+2026-09-26T19:18:20.02554Z,zeughaus-filedescriptor,0.8.3,0,0,https://github.com/tuco86/zeughaus,"filedescriptor from wezterm at 2658f629, published for zeughaus. More ergonomic wrappers around RawFd and RawHandle"
+2026-09-26T19:18:42.071275Z,mise-brew-metadata,0.0.0,0,0,https://github.com/jdx/mise,Placeholder for the mise Homebrew formula metadata crate
