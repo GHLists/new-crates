@@ -8,51 +8,64 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 19:19 UTC
+## Latest list — 2026-09-26 20:18 UTC
 
-New crates published between 2026-09-26 18:19 UTC and 2026-09-26 19:19 UTC.
+New crates published between 2026-09-26 19:19 UTC and 2026-09-26 20:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-26T19-19-10-171257Z.csv)
+[Full CSV](data/new-crates-2026-09-26T20-18-57-308142Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-26 18:20:54 | [aptg](https://crates.io/crates/aptg) | 0.1.0 | 0 | Secure Debian mirror redirector with verification and caching |
-| 2026-09-26 18:22:31 | [ruvector-hybrid](https://crates.io/crates/ruvector-hybrid) | 0.1.0 | 0 | Hybrid sparse-dense search: BM25 + ANN + Reciprocal Rank Fusion for ruvector |
-| 2026-09-26 18:23:19 | [eck](https://crates.io/crates/eck) | 0.0.4 | 0 | A fast, simple file & folder encryption manager, written in Rust |
-| 2026-09-26 18:28:21 | [zeughaus-sync](https://crates.io/crates/zeughaus-sync) | 0.1.0-alpha.1 | 0 | SpacetimeDB client shared by the zeughaus editor and runner: bindings, store, s… |
-| 2026-09-26 18:33:42 | [ruvector-kge](https://crates.io/crates/ruvector-kge) | 2.3.0 | 0 | Holographic knowledge-graph embeddings (HolE / RotatE) for ruvector: scoring, t… |
-| 2026-09-26 18:35:10 | [renox](https://crates.io/crates/renox) | 0.0.1 | 0 | A batteries-included web framework for Rust, inspired by Laravel: Axum + HTMX +… |
-| 2026-09-26 18:35:14 | [renox-cli](https://crates.io/crates/renox-cli) | 0.0.1 | 0 | Command-line tool for the Renox web framework (like Laravel's artisan). (Early… |
-| 2026-09-26 18:35:22 | [omgbase-surface](https://crates.io/crates/omgbase-surface) | 1.0.0 | 0 | omgbase surface: the OQX query binding over the store, the document/block reads… |
-| 2026-09-26 18:35:33 | [omgbase](https://crates.io/crates/omgbase) | 0.1.0 | 0 | omgbase: a versioned, addressable graph layer over authored Markdown — the `omg… |
-| 2026-09-26 18:36:19 | [burn_human_motion](https://crates.io/crates/burn_human_motion) | 0.1.0 | 0 | Portable motion, rig, conditioning, and verified model artifact contracts |
-| 2026-09-26 18:36:21 | [burn_human_inference](https://crates.io/crates/burn_human_inference) | 0.1.0 | 0 | Verified bounded Burnpack transport and portable model tensor utilities |
-| 2026-09-26 18:36:23 | [burn_ardy](https://crates.io/crates/burn_ardy) | 0.1.0 | 0 | ARDY Core motion inference on Burn, native WGPU and WebGPU |
-| 2026-09-26 18:36:24 | [burn_mhr](https://crates.io/crates/burn_mhr) | 0.1.0 | 0 | Momentum Human Rig identity, expression, articulation and corrective evaluation… |
-| 2026-09-26 18:36:25 | [burn_ardy_text](https://crates.io/crates/burn_ardy_text) | 0.1.0 | 0 | Portable Llama 3 LLM2Vec text conditioning for ARDY using Burn |
-| 2026-09-26 18:38:24 | [zeughaus-theme](https://crates.io/crates/zeughaus-theme) | 0.1.0-alpha.1 | 0 | One theme for every surface of the editor: iced widgets, the node graph, the ta… |
-| 2026-09-26 18:38:45 | [raam](https://crates.io/crates/raam) | 0.0.0 | 0 | Turn a cheap Android photo frame into something you own: a fast, open slideshow… |
-| 2026-09-26 18:39:23 | [burn_soma](https://crates.io/crates/burn_soma) | 0.1.0 | 0 | SOMA-X parametric identity, procedural rig, correctives and skinning on Burn |
-| 2026-09-26 18:45:01 | [ruvector-kge-ffi](https://crates.io/crates/ruvector-kge-ffi) | 2.3.0 | 0 | NAPI-RS bindings for ruvector-kge (@ruvector/kge native binary) |
-| 2026-09-26 18:48:20 | [zeughaus-transform](https://crates.io/crates/zeughaus-transform) | 0.1.0-alpha.1 | 0 | zeughaus plugin: math, logic, string and trigonometry nodes, constants and Disp… |
-| 2026-09-26 18:48:35 | [burn_gem](https://crates.io/crates/burn_gem) | 0.1.0 | 0 | Portable GEM-X image-conditioned SOMA inference on Burn |
-| 2026-09-26 18:48:48 | [mise-brew-relocation](https://crates.io/crates/mise-brew-relocation) | 0.0.0 | 0 | Placeholder for mise's Homebrew bottle relocation crate |
-| 2026-09-26 18:54:46 | [skies-cli](https://crates.io/crates/skies-cli) | 5.0.0-rc.3 | 0 | The Skies convention CLI: scaffolders, doctor, and spec proofs. |
-| 2026-09-26 18:54:53 | [detect-terminal](https://crates.io/crates/detect-terminal) | 0.1.0 | 0 | Identify terminal applications and multiplexers from environment hints |
-| 2026-09-26 18:54:55 | [detect-terminal-cli](https://crates.io/crates/detect-terminal-cli) | 0.1.0 | 0 | Inspect terminal identity, multiplexer metadata, and detection evidence |
-| 2026-09-26 18:55:41 | [sz-rust-ops-api](https://crates.io/crates/sz-rust-ops-api) | 1.4.0 | 0 | Ops API for sz-rust — admin guarded operations API |
-| 2026-09-26 18:56:21 | [ruvector-kge-wasm](https://crates.io/crates/ruvector-kge-wasm) | 2.3.0 | 0 | wasm-bindgen build of ruvector-kge (@ruvector/kge WASM fallback) |
-| 2026-09-26 18:56:31 | [merkle-champ](https://crates.io/crates/merkle-champ) | 0.1.0 | 0 | Persistent CHAMP hash map and set with canonical shape, cached Merkle identitie… |
-| 2026-09-26 18:57:32 | [veridy-impact](https://crates.io/crates/veridy-impact) | 0.0.0 | 0 | 14 modules lecture-seule de preuve d'impact pour les findings de veridy_scanner… |
-| 2026-09-26 18:58:27 | [zeughaus](https://crates.io/crates/zeughaus) | 0.1.0-alpha.1 | 0 | Visual dataflow workbench on iced: the editor, which edits the node graph and s… |
-| 2026-09-26 19:00:37 | [pdfsearch](https://crates.io/crates/pdfsearch) | 0.6.0 | 0 | Recursively indexes PDFs via pdftotext, makes them full-text searchable, and se… |
-| 2026-09-26 19:01:34 | [nivra](https://crates.io/crates/nivra) | 0.1.0 | 0 | See what changed between working and broken. A local development timeline. |
-| 2026-09-26 19:07:34 | [ruvector-learning-wasm](https://crates.io/crates/ruvector-learning-wasm) | 0.1.0 | 0 | Ultra-fast MicroLoRA adaptation for WASM - rank-2 LoRA with <100us latency for… |
-| 2026-09-26 19:07:55 | [cyo-mimalloc-sys](https://crates.io/crates/cyo-mimalloc-sys) | 0.0.1 | 0 | Builds mimalloc v3 from source and declares Rust bindings to its C API. |
-| 2026-09-26 19:07:57 | [cyo-mimalloc](https://crates.io/crates/cyo-mimalloc) | 0.0.1 | 0 | Provides mimalloc v3 as a Rust global allocator, with heaps, arenas and statist… |
-| 2026-09-26 19:08:20 | [zeughaus-runtime](https://crates.io/crates/zeughaus-runtime) | 0.1.0-alpha.1 | 0 | The zeughaus graph executor: topology, node instances, edge cache, dirty set, a… |
-| 2026-09-26 19:18:20 | [zeughaus-filedescriptor](https://crates.io/crates/zeughaus-filedescriptor) | 0.8.3 | 0 | filedescriptor from wezterm at 2658f629, published for zeughaus. More ergonomic… |
-| 2026-09-26 19:18:42 | [mise-brew-metadata](https://crates.io/crates/mise-brew-metadata) | 0.0.0 | 0 | Placeholder for the mise Homebrew formula metadata crate |
+| 2026-09-26 19:19:22 | [ruvector-maxsim](https://crates.io/crates/ruvector-maxsim) | 2.3.0 | 0 | ColBERT-style multi-vector MaxSim late interaction search for ruvector: higher… |
+| 2026-09-26 19:21:48 | [flareml](https://crates.io/crates/flareml) | 0.1.0 | 0 | A finite systems modeling language and native model checker |
+| 2026-09-26 19:28:20 | [zeughaus-finl-unicode](https://crates.io/crates/zeughaus-finl-unicode) | 1.3.0 | 0 | finl_unicode from wez's finl_unicode fork at a1892f26, published for zeughaus.… |
+| 2026-09-26 19:30:34 | [ruvector-memory-admission](https://crates.io/crates/ruvector-memory-admission) | 2.3.0 | 0 | Global min-cut gated write-time cluster admission for streaming agent memory in… |
+| 2026-09-26 19:35:54 | [tano-page](https://crates.io/crates/tano-page) | 0.1.0-alpha.1 | 0 | Tano Markdown workspace protocol helpers: content hashes, short IDs and portabl… |
+| 2026-09-26 19:36:48 | [tamer](https://crates.io/crates/tamer) | 0.1.0 | 0 | Platform-agnostic, host-testable input and output primitives (debounce, presenc… |
+| 2026-09-26 19:36:57 | [tarseer-nt](https://crates.io/crates/tarseer-nt) | 0.0.1 | 0 | Reads a directory tree on Windows through the native API, opening each director… |
+| 2026-09-26 19:37:00 | [tarseer](https://crates.io/crates/tarseer) | 0.0.1 | 0 | Walks a directory tree into memory-bounded parts and writes them, with an index… |
+| 2026-09-26 19:37:02 | [tarseer-cli](https://crates.io/crates/tarseer-cli) | 0.0.1 | 0 | Walks a directory tree and prints it as JSON Lines, or writes the lines and an… |
+| 2026-09-26 19:37:30 | [borink-object-storage-crypto](https://crates.io/crates/borink-object-storage-crypto) | 0.0.2 | 0 | Implements the checksums and cryptographic primitives that borink-object-storag… |
+| 2026-09-26 19:38:19 | [zeughaus-vtparse](https://crates.io/crates/zeughaus-vtparse) | 0.7.0 | 0 | vtparse from wezterm at 2658f629, published for zeughaus. Low level escape sequ… |
+| 2026-09-26 19:38:24 | [rustyfarian-esp-hal-peripherals](https://crates.io/crates/rustyfarian-esp-hal-peripherals) | 0.1.0 | 0 | Bare-metal (esp-hal) input drivers for ESP32 — the no_std hardware tier of the… |
+| 2026-09-26 19:38:54 | [rustyfarian-esp-idf-peripherals](https://crates.io/crates/rustyfarian-esp-idf-peripherals) | 0.1.0 | 0 | ESP-IDF (std) input drivers for ESP32 — the std hardware tier of the rustyfaria… |
+| 2026-09-26 19:39:47 | [dtfmt](https://crates.io/crates/dtfmt) | 0.1.0 | 0 | Format Devicetree Source files |
+| 2026-09-26 19:42:00 | [ruvector-mincut-gated-transformer-wasm](https://crates.io/crates/ruvector-mincut-gated-transformer-wasm) | 0.1.0 | 0 | WASM bindings for mincut-gated transformer inference |
+| 2026-09-26 19:42:46 | [omo](https://crates.io/crates/omo) | 0.1.0 | 0 | A lightweight, one-mode-only terminal text editor. |
+| 2026-09-26 19:43:02 | [ruvector-namespace-merge](https://crates.io/crates/ruvector-namespace-merge) | 2.3.0 | 0 | S-T mincut namespace routing for multi-namespace agent memory vector search in… |
+| 2026-09-26 19:48:19 | [zeughaus-wezterm-dynamic-derive](https://crates.io/crates/zeughaus-wezterm-dynamic-derive) | 0.1.1 | 0 | wezterm-dynamic-derive from wezterm at 2658f629, published for zeughaus. config… |
+| 2026-09-26 19:55:09 | [zk402-core](https://crates.io/crates/zk402-core) | 0.1.0 | 0 | Core types and traits for the zk402 zero-knowledge payment protocol |
+| 2026-09-26 19:55:53 | [zk402-groth16](https://crates.io/crates/zk402-groth16) | 0.1.0 | 0 | Groth16 proof system implementation for zk402 using arkworks |
+| 2026-09-26 19:56:35 | [zk402-prover](https://crates.io/crates/zk402-prover) | 0.1.0 | 0 | Client-side proof generation for zk402 zero-knowledge payments |
+| 2026-09-26 19:58:19 | [zeughaus-wezterm-dynamic](https://crates.io/crates/zeughaus-wezterm-dynamic) | 0.2.1 | 0 | wezterm-dynamic from wezterm at 2658f629, published for zeughaus. config serial… |
+| 2026-09-26 19:59:47 | [nu-dap](https://crates.io/crates/nu-dap) | 0.116.0 | 0 | Debug Adapter Protocol server for Nushell scripts |
+| 2026-09-26 19:59:48 | [nu-tui](https://crates.io/crates/nu-tui) | 0.116.0 | 0 | Composable terminal UI commands for Nushell |
+| 2026-09-26 20:00:04 | [taumaru-microvm](https://crates.io/crates/taumaru-microvm) | 1.0.0 | 0 | Build and manage Firecracker MicroVMs on Linux. |
+| 2026-09-26 20:00:52 | [zk402-facilitator](https://crates.io/crates/zk402-facilitator) | 0.1.0 | 0 | Facilitator implementation for verifying and settling zk402 payments |
+| 2026-09-26 20:01:57 | [zk402-facilitator-http](https://crates.io/crates/zk402-facilitator-http) | 0.1.0 | 0 | HTTP/REST API service for zk402 payment verification and settlement |
+| 2026-09-26 20:02:15 | [quiesce](https://crates.io/crates/quiesce) | 0.0.1-rc.1 | 0 | A no_std mutex whose waiters sleep in the kernel instead of spinning |
+| 2026-09-26 20:02:28 | [pkcs11-abi](https://crates.io/crates/pkcs11-abi) | 0.2.0 | 0 | PKCS#11 function-table layouts, catalogs, selection, and readers |
+| 2026-09-26 20:02:28 | [pkcs11-types](https://crates.io/crates/pkcs11-types) | 0.2.0 | 0 | Shared Rust PKCS#11 data types and mechanism metadata |
+| 2026-09-26 20:02:29 | [pkcs11-module](https://crates.io/crates/pkcs11-module) | 0.2.0 | 0 | Raw pre-initialization PKCS#11 module interface acquisition |
+| 2026-09-26 20:04:15 | [h8-asm](https://crates.io/crates/h8-asm) | 0.5.0 | 0 | A Renesas H8 family (H8/300, H8/300H, H8S, H8SX) decoder, disassembler, assembl… |
+| 2026-09-26 20:06:20 | [ruvector-perception](https://crates.io/crates/ruvector-perception) | 2.3.0 | 0 | The layer under classification: physical delta -> boundary -> coherence -> proo… |
+| 2026-09-26 20:07:20 | [chipi-syntax](https://crates.io/crates/chipi-syntax) | 1.0.0 | 0 | Lexer, recursive-descent parser, AST and diagnostics for the chipi instruction-… |
+| 2026-09-26 20:07:25 | [chipi-backend-cpp](https://crates.io/crates/chipi-backend-cpp) | 1.0.0 | 0 | C++17 source emission backend for chipi. |
+| 2026-09-26 20:07:26 | [chipi-backend-python](https://crates.io/crates/chipi-backend-python) | 1.0.0 | 0 | Python source emission backend for chipi (IDA / Binary Ninja friendly). |
+| 2026-09-26 20:07:26 | [chipi-backend-rust](https://crates.io/crates/chipi-backend-rust) | 1.0.0 | 0 | Rust source emission backend for chipi. |
+| 2026-09-26 20:07:27 | [chipi-lsp](https://crates.io/crates/chipi-lsp) | 1.0.0 | 0 | Language server for the chipi instruction-set DSL. |
+| 2026-09-26 20:08:08 | [kuchiyose-doc](https://crates.io/crates/kuchiyose-doc) | 0.1.0 | 0 | kuchiyose の文書の形。node の型と、数える単位を定義する |
+| 2026-09-26 20:08:08 | [kuchiyose-prompt](https://crates.io/crates/kuchiyose-prompt) | 0.1.0 | 0 | kuchiyose の代筆のプロンプト。ペルソナを確かめ、LLM の道具に渡すプロンプトを組み立てる |
+| 2026-09-26 20:08:10 | [kuchiyose-katashiro](https://crates.io/crates/kuchiyose-katashiro) | 0.1.0 | 0 | kuchiyose の形代。書き手の統計値と調整を 1 つの容器に収める |
+| 2026-09-26 20:08:11 | [kuchiyose-normalize](https://crates.io/crates/kuchiyose-normalize) | 0.1.0 | 0 | kuchiyose の正規化。Markdown と HTML を文書の形に落とす |
+| 2026-09-26 20:08:13 | [kuchiyose-metrics](https://crates.io/crates/kuchiyose-metrics) | 0.1.0 | 0 | kuchiyose の指標。日本語の文章の書きぶりを読まずに数える登録簿と計測 |
+| 2026-09-26 20:08:20 | [zeughaus-wezterm-bidi](https://crates.io/crates/zeughaus-wezterm-bidi) | 0.2.3 | 0 | wezterm-bidi from wezterm at 2658f629, published for zeughaus. The Unicode Bidi… |
+| 2026-09-26 20:09:47 | [steamship](https://crates.io/crates/steamship) | 0.1.1 | 0 | Uploads game builds to Steam with Valve's steamcmd, set up pinned and verified,… |
+| 2026-09-26 20:14:50 | [kuchiyose-review](https://crates.io/crates/kuchiyose-review) | 0.1.0 | 0 | kuchiyose の検め。文書を目盛りに照らして判定と指摘を返す |
+| 2026-09-26 20:14:56 | [chipi-macros](https://crates.io/crates/chipi-macros) | 1.0.0 | 0 | The `isa!` procedural macro: generate a chipi decoder at compile time. |
+| 2026-09-26 20:16:37 | [pdn-aprs](https://crates.io/crates/pdn-aprs) | 0.1.0 | 0 | APRS encoder and decoder: every APRS 1.2 data type, strict or lenient decoding… |
+| 2026-09-26 20:17:58 | [ruvector-query-cache](https://crates.io/crates/ruvector-query-cache) | 2.3.0 | 0 | Semantic query cache for RuVector ANN: exact-hash, cosine-similarity, and adapt… |
+| 2026-09-26 20:18:19 | [zeughaus-wezterm-blob-leases](https://crates.io/crates/zeughaus-wezterm-blob-leases) | 0.1.1 | 0 | wezterm-blob-leases from wezterm at 2658f629, published for zeughaus. Manage im… |
 
 ## Data source
 

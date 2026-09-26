@@ -1,0 +1,51 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T19:19:22.223027Z,ruvector-maxsim,2.3.0,0,0,https://github.com/ruvnet/ruvector,ColBERT-style multi-vector MaxSim late interaction search for ruvector: higher recall for multi-facet documents without single-embedding averaging loss
+2026-09-26T19:21:48.278659Z,flareml,0.1.0,0,0,https://github.com/leostera/flareml,A finite systems modeling language and native model checker
+2026-09-26T19:28:20.696952Z,zeughaus-finl-unicode,1.3.0,0,0,https://github.com/tuco86/zeughaus,"finl_unicode from wez's finl_unicode fork at a1892f26, published for zeughaus. Library for handling Unicode functionality for finl (categories and grapheme segmentation)"
+2026-09-26T19:30:34.448691Z,ruvector-memory-admission,2.3.0,0,0,https://github.com/ruvnet/ruvector,Global min-cut gated write-time cluster admission for streaming agent memory in RuVector
+2026-09-26T19:35:54.303889Z,tano-page,0.1.0-alpha.1,0,0,,"Tano Markdown workspace protocol helpers: content hashes, short IDs and portable path classification."
+2026-09-26T19:36:48.741262Z,tamer,0.1.0,0,0,https://github.com/datenkollektiv/rustyfarian-peripherals,"Platform-agnostic, host-testable input and output primitives (debounce, presence, rotary decoding, button events, tone/duration sequencing) for embedded projects — the pure core of the rustyfarian pe…"
+2026-09-26T19:36:57.590053Z,tarseer-nt,0.0.1,0,0,https://github.com/borink-org/tarseer,"Reads a directory tree on Windows through the native API, opening each directory relative to its parent"
+2026-09-26T19:37:00.025464Z,tarseer,0.0.1,0,0,https://github.com/borink-org/tarseer,"Walks a directory tree into memory-bounded parts and writes them, with an index, as JSON Lines in a zstd file"
+2026-09-26T19:37:02.515818Z,tarseer-cli,0.0.1,0,0,https://github.com/borink-org/tarseer,"Walks a directory tree and prints it as JSON Lines, or writes the lines and an index as a zstd file"
+2026-09-26T19:37:30.341145Z,borink-object-storage-crypto,0.0.2,0,0,https://github.com/borink-org/object-storage,Implements the checksums and cryptographic primitives that borink-object-storage-proto uses
+2026-09-26T19:38:19.982595Z,zeughaus-vtparse,0.7.0,0,0,https://github.com/tuco86/zeughaus,"vtparse from wezterm at 2658f629, published for zeughaus. Low level escape sequence parser"
+2026-09-26T19:38:24.989759Z,rustyfarian-esp-hal-peripherals,0.1.0,0,0,https://github.com/datenkollektiv/rustyfarian-peripherals,Bare-metal (esp-hal) input drivers for ESP32 — the no_std hardware tier of the rustyfarian peripherals stack
+2026-09-26T19:38:54.696629Z,rustyfarian-esp-idf-peripherals,0.1.0,0,0,https://github.com/datenkollektiv/rustyfarian-peripherals,ESP-IDF (std) input drivers for ESP32 — the std hardware tier of the rustyfarian peripherals stack
+2026-09-26T19:39:47.77397Z,dtfmt,0.1.0,0,0,https://codeberg.org/whame/dtfmt,Format Devicetree Source files
+2026-09-26T19:42:00.179699Z,ruvector-mincut-gated-transformer-wasm,0.1.0,0,0,https://github.com/ruvnet/ruvector,WASM bindings for mincut-gated transformer inference
+2026-09-26T19:42:46.593163Z,omo,0.1.0,0,0,https://github.com/dctabansi/omo,"A lightweight, one-mode-only terminal text editor."
+2026-09-26T19:43:02.169Z,ruvector-namespace-merge,2.3.0,0,0,https://github.com/ruvnet/ruvector,S-T mincut namespace routing for multi-namespace agent memory vector search in RuVector
+2026-09-26T19:48:19.808654Z,zeughaus-wezterm-dynamic-derive,0.1.1,0,0,https://github.com/tuco86/zeughaus,"wezterm-dynamic-derive from wezterm at 2658f629, published for zeughaus. config serialization for wezterm via dynamic json-like data values"
+2026-09-26T19:55:09.678091Z,zk402-core,0.1.0,0,0,https://github.com/zk402/zk402,Core types and traits for the zk402 zero-knowledge payment protocol
+2026-09-26T19:55:53.042908Z,zk402-groth16,0.1.0,0,0,https://github.com/zk402/zk402,Groth16 proof system implementation for zk402 using arkworks
+2026-09-26T19:56:35.785844Z,zk402-prover,0.1.0,0,0,https://github.com/zk402/zk402,Client-side proof generation for zk402 zero-knowledge payments
+2026-09-26T19:58:19.931916Z,zeughaus-wezterm-dynamic,0.2.1,0,0,https://github.com/tuco86/zeughaus,"wezterm-dynamic from wezterm at 2658f629, published for zeughaus. config serialization for wezterm via dynamic json-like data values"
+2026-09-26T19:59:47.200871Z,nu-dap,0.116.0,0,0,https://github.com/nushell/nushell/tree/main/crates/nu-dap,Debug Adapter Protocol server for Nushell scripts
+2026-09-26T19:59:48.015875Z,nu-tui,0.116.0,0,0,https://github.com/nushell/nushell/tree/main/crates/nu-tui,Composable terminal UI commands for Nushell
+2026-09-26T20:00:04.819537Z,taumaru-microvm,1.0.0,0,0,https://github.com/Taumaru/taumaru-microvm,Build and manage Firecracker MicroVMs on Linux.
+2026-09-26T20:00:52.644751Z,zk402-facilitator,0.1.0,0,0,https://github.com/zk402/zk402,Facilitator implementation for verifying and settling zk402 payments
+2026-09-26T20:01:57.664692Z,zk402-facilitator-http,0.1.0,0,0,https://github.com/zk402/zk402,HTTP/REST API service for zk402 payment verification and settlement
+2026-09-26T20:02:15.880863Z,quiesce,0.0.1-rc.1,0,0,https://github.com/memparanoid/quiesce,A no_std mutex whose waiters sleep in the kernel instead of spinning
+2026-09-26T20:02:28.466336Z,pkcs11-abi,0.2.0,0,0,https://github.com/mingulov/pkcs11-components,"PKCS#11 function-table layouts, catalogs, selection, and readers"
+2026-09-26T20:02:28.963333Z,pkcs11-types,0.2.0,0,0,https://github.com/mingulov/pkcs11-components,Shared Rust PKCS#11 data types and mechanism metadata
+2026-09-26T20:02:29.528536Z,pkcs11-module,0.2.0,0,0,https://github.com/mingulov/pkcs11-components,Raw pre-initialization PKCS#11 module interface acquisition
+2026-09-26T20:04:15.056339Z,h8-asm,0.5.0,0,0,https://github.com/MattJackson/h8-asm,"A Renesas H8 family (H8/300, H8/300H, H8S, H8SX) decoder, disassembler, assembler and detour installer in pure safe Rust, checked against Renesas' own software manuals."
+2026-09-26T20:06:20.569348Z,ruvector-perception,2.3.0,0,0,https://github.com/ruvnet/ruvector,"The layer under classification: physical delta -> boundary -> coherence -> proof -> action. A trusted-physical-memory engine that emits structured delta witnesses, not class labels."
+2026-09-26T20:07:20.288248Z,chipi-syntax,1.0.0,0,0,https://github.com/ioncodes/chipi,"Lexer, recursive-descent parser, AST and diagnostics for the chipi instruction-set DSL."
+2026-09-26T20:07:25.414384Z,chipi-backend-cpp,1.0.0,0,0,https://github.com/ioncodes/chipi,C++17 source emission backend for chipi.
+2026-09-26T20:07:26.06611Z,chipi-backend-python,1.0.0,0,0,https://github.com/ioncodes/chipi,Python source emission backend for chipi (IDA / Binary Ninja friendly).
+2026-09-26T20:07:26.728224Z,chipi-backend-rust,1.0.0,0,0,https://github.com/ioncodes/chipi,Rust source emission backend for chipi.
+2026-09-26T20:07:27.332868Z,chipi-lsp,1.0.0,0,0,https://github.com/ioncodes/chipi,Language server for the chipi instruction-set DSL.
+2026-09-26T20:08:08.364893Z,kuchiyose-doc,0.1.0,0,0,https://github.com/lambdalisue/kuchiyose,kuchiyose の文書の形。node の型と、数える単位を定義する
+2026-09-26T20:08:08.915161Z,kuchiyose-prompt,0.1.0,0,0,https://github.com/lambdalisue/kuchiyose,kuchiyose の代筆のプロンプト。ペルソナを確かめ、LLM の道具に渡すプロンプトを組み立てる
+2026-09-26T20:08:10.92081Z,kuchiyose-katashiro,0.1.0,0,0,https://github.com/lambdalisue/kuchiyose,kuchiyose の形代。書き手の統計値と調整を 1 つの容器に収める
+2026-09-26T20:08:11.787762Z,kuchiyose-normalize,0.1.0,0,0,https://github.com/lambdalisue/kuchiyose,kuchiyose の正規化。Markdown と HTML を文書の形に落とす
+2026-09-26T20:08:13.699322Z,kuchiyose-metrics,0.1.0,0,0,https://github.com/lambdalisue/kuchiyose,kuchiyose の指標。日本語の文章の書きぶりを読まずに数える登録簿と計測
+2026-09-26T20:08:20.341016Z,zeughaus-wezterm-bidi,0.2.3,0,0,https://github.com/tuco86/zeughaus,"wezterm-bidi from wezterm at 2658f629, published for zeughaus. The Unicode Bidi Algorithm (UBA)"
+2026-09-26T20:09:47.660469Z,steamship,0.1.1,0,0,https://github.com/Aureliolo/steamship,"Uploads game builds to Steam with Valve's steamcmd, set up pinned and verified, with a clear result and no passwords."
+2026-09-26T20:14:50.242188Z,kuchiyose-review,0.1.0,0,0,https://github.com/lambdalisue/kuchiyose,kuchiyose の検め。文書を目盛りに照らして判定と指摘を返す
+2026-09-26T20:14:56.026338Z,chipi-macros,1.0.0,0,0,https://github.com/ioncodes/chipi,The `isa!` procedural macro: generate a chipi decoder at compile time.
+2026-09-26T20:16:37.315167Z,pdn-aprs,0.1.0,0,0,https://github.com/packet-net/aprs-rs,"APRS encoder and decoder: every APRS 1.2 data type, strict or lenient decoding with named tolerances, no_std + alloc"
+2026-09-26T20:17:58.798637Z,ruvector-query-cache,2.3.0,0,0,https://github.com/ruvnet/ruvector,"Semantic query cache for RuVector ANN: exact-hash, cosine-similarity, and adaptive-threshold caching for agent-memory workloads"
+2026-09-26T20:18:19.798779Z,zeughaus-wezterm-blob-leases,0.1.1,0,0,https://github.com/tuco86/zeughaus,"wezterm-blob-leases from wezterm at 2658f629, published for zeughaus. Manage image blob caching/leasing for wezterm"
