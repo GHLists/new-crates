@@ -8,38 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 04:19 UTC
+## Latest list — 2026-09-26 05:19 UTC
 
-New crates published between 2026-09-26 03:18 UTC and 2026-09-26 04:19 UTC.
+New crates published between 2026-09-26 04:19 UTC and 2026-09-26 05:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-26T04-19-40-270282Z.csv)
+[Full CSV](data/new-crates-2026-09-26T05-19-45-885693Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-26 03:19:21 | [molgfx-api](https://crates.io/crates/molgfx-api) | 0.1.0 | 0 | The declarative MolGFX authoring and rendering contract. |
-| 2026-09-26 03:25:15 | [carmy](https://crates.io/crates/carmy) | 0.1.0 | 0 | Agent-native execution infrastructure for Rust |
-| 2026-09-26 03:25:18 | [bloq](https://crates.io/crates/bloq) | 0.0.0-reserved | 0 | Prerelease placeholder for bloq, part of the Bloq quantum circuit compiler. |
-| 2026-09-26 03:25:35 | [bloq_circuit](https://crates.io/crates/bloq_circuit) | 0.0.0-reserved | 0 | Prerelease placeholder for bloq_circuit, part of the Bloq quantum circuit compi… |
-| 2026-09-26 03:25:37 | [bloq_compile](https://crates.io/crates/bloq_compile) | 0.0.0-reserved | 0 | Prerelease placeholder for bloq_compile, part of the Bloq quantum circuit compi… |
-| 2026-09-26 03:25:39 | [bloq_editor](https://crates.io/crates/bloq_editor) | 0.0.0-reserved | 0 | Prerelease placeholder for bloq_editor, part of the Bloq quantum circuit compil… |
-| 2026-09-26 03:29:00 | [bloq_graph](https://crates.io/crates/bloq_graph) | 0.0.0-reserved | 0 | Prerelease placeholder for bloq_graph, part of the Bloq quantum circuit compile… |
-| 2026-09-26 03:29:20 | [molgfx](https://crates.io/crates/molgfx) | 0.1.0 | 0 | Curated declarative molecular-rendering API. |
-| 2026-09-26 03:31:47 | [everruns-serve](https://crates.io/crates/everruns-serve) | 0.32.0 | 0 | Experimental agent framework over everruns: attribute macros, a build-time mani… |
-| 2026-09-26 03:38:44 | [llmup-crossterm](https://crates.io/crates/llmup-crossterm) | 0.29.0 | 0 | crossterm 0.29.0 with bounded escape-sequence and bracketed-paste input parsing… |
-| 2026-09-26 03:39:02 | [bloq_ir](https://crates.io/crates/bloq_ir) | 0.0.0-reserved | 0 | Prerelease placeholder for bloq_ir, part of the Bloq quantum circuit compiler. |
-| 2026-09-26 03:39:16 | [molgfx-wasm](https://crates.io/crates/molgfx-wasm) | 0.1.0 | 0 | Thin browser bindings for molgfx over WebGPU. |
-| 2026-09-26 03:42:13 | [poly-ring](https://crates.io/crates/poly-ring) | 1.0.0 | 0 | Univariate and multivariate polynomial arithmetic, evaluation, interpolation, a… |
-| 2026-09-26 03:42:30 | [user-lib](https://crates.io/crates/user-lib) | 0.1.1 | 0 | Raw syscall wrappers for muse-riscv-os guest programs (riscv64, custom ecall AB… |
-| 2026-09-26 03:49:24 | [mf2-runtime](https://crates.io/crates/mf2-runtime) | 1.0.0 | 0 | The MessageFormat 2 evaluator of mf2-two: formats from a .mf2b catalog (no_std,… |
-| 2026-09-26 03:49:26 | [leptos-mf2](https://crates.io/crates/leptos-mf2) | 1.0.0 | 0 | The call-site description of a message (Tr, TrArgs, TrRich, ArgValue) and, with… |
-| 2026-09-26 03:49:27 | [mf2-fn-datetime](https://crates.io/crates/mf2-fn-datetime) | 1.0.0 | 0 | The MessageFormat 2 date/time functions of mf2-two — :datetime, :date, :time an… |
-| 2026-09-26 03:49:27 | [mf2-host-std](https://crates.io/crates/mf2-host-std) | 1.0.0 | 0 | The native Host of mf2-runtime (servers, tests, wasm32-wasip1): NFC through uni… |
-| 2026-09-26 04:02:26 | [llmup-core](https://crates.io/crates/llmup-core) | 1.0.0 | 0 | Deterministic, offline hardware-fit scoring, catalog and sizing engine for loca… |
-| 2026-09-26 04:02:30 | [llmup-runtime](https://crates.io/crates/llmup-runtime) | 1.0.0 | 0 | Hardware detection, backend adapters, lifecycle, memory and harness runtime for… |
-| 2026-09-26 04:02:34 | [llmup-cli](https://crates.io/crates/llmup-cli) | 1.0.0 | 0 | Hardware-aware CLI that tells you which local LLMs will run (yes/slow/no + tok/… |
-| 2026-09-26 04:02:36 | [llmup-gui](https://crates.io/crates/llmup-gui) | 1.0.0 | 0 | Loopback-only local browser workspace for local-llmup (`llmup gui`). |
-| 2026-09-26 04:09:54 | [infoprober](https://crates.io/crates/infoprober) | 0.1.0 | 0 | A fast and simple language (info probe) library |
-| 2026-09-26 04:17:01 | [cobble-table](https://crates.io/crates/cobble-table) | 0.5.0 | 0 | Schema and table APIs for Cobble |
+| 2026-09-26 04:20:08 | [bloq_lassynth](https://crates.io/crates/bloq_lassynth) | 0.0.0-reserved | 0 | Prerelease placeholder for bloq_lassynth, part of the Bloq quantum circuit comp… |
+| 2026-09-26 04:20:13 | [bloq_stim](https://crates.io/crates/bloq_stim) | 0.0.0-reserved | 0 | Prerelease placeholder for bloq_stim, part of the Bloq quantum circuit compiler. |
+| 2026-09-26 04:20:17 | [bloq_utils](https://crates.io/crates/bloq_utils) | 0.0.0-reserved | 0 | Prerelease placeholder for bloq_utils, part of the Bloq quantum circuit compile… |
+| 2026-09-26 04:20:41 | [monochromatic-jsonc-edit](https://crates.io/crates/monochromatic-jsonc-edit) | 0.1.0 | 0 | Comment-preserving JSONC parse, immutable edit, and canonical emit for Rust: ev… |
+| 2026-09-26 04:21:47 | [gantz_collab_sync](https://crates.io/crates/gantz_collab_sync) | 0.0.0 | 0 | The host-agnostic sync plane for gantz collaborative sessions: join, fetch, con… |
+| 2026-09-26 04:22:07 | [mf2-host-web](https://crates.io/crates/mf2-host-web) | 1.0.0 | 0 | The browser Host of mf2-runtime: NFC through String.prototype.normalize and flo… |
+| 2026-09-26 04:22:08 | [mf2-locale-data](https://crates.io/crates/mf2-locale-data) | 1.0.0 | 0 | CLDR locale data for mf2-two catalogs (build side): all-locale plural, directio… |
+| 2026-09-26 04:22:09 | [mf2-build](https://crates.io/crates/mf2-build) | 1.0.0 | 0 | The MessageFormat 2 build pipeline: loaders, mf2.toml, the manifest, lints, per… |
+| 2026-09-26 04:25:44 | [mf2-fn-number](https://crates.io/crates/mf2-fn-number) | 1.0.0 | 0 | The localized numeric functions of mf2-two (feature fn-number): locale symbols,… |
+| 2026-09-26 04:28:14 | [bite-gp-morphorm](https://crates.io/crates/bite-gp-morphorm) | 1.21.2 | 0 | A morphorm-backed LayoutEngine for GPUI |
+| 2026-09-26 04:35:43 | [mf2](https://crates.io/crates/mf2) | 1.0.0 | 0 | Unicode MessageFormat 2 for Leptos: the one crate an application names — re-exp… |
+| 2026-09-26 04:43:13 | [cratestack-cose](https://crates.io/crates/cratestack-cose) | 0.13.0 | 0 | CrateStack's COSE envelope (ADR 0006): unary COSE_Mac0 / COSE_Sign1 over the CB… |
+| 2026-09-26 04:44:21 | [cratestack-mcp](https://crates.io/crates/cratestack-mcp) | 0.13.0 | 0 | CrateStack's MCP binding (ADR 0002): serves a schema's `@mcp(tool)` procedures… |
+| 2026-09-26 04:45:43 | [mf2-axum](https://crates.io/crates/mf2-axum) | 1.0.0 | 0 | Locale negotiation and catalog serving for an Axum + Leptos application: an ord… |
+| 2026-09-26 04:46:31 | [mcp-google-service](https://crates.io/crates/mcp-google-service) | 0.1.0 | 0 | One stdio MCP server fronting Google Cloud's per-service remote MCP endpoints:… |
+| 2026-09-26 04:51:19 | [tmf-gen](https://crates.io/crates/tmf-gen) | 0.1.0 | 0 | A tool to generate Rust code compatible with tmflib |
+| 2026-09-26 04:55:41 | [mf2-cli](https://crates.io/crates/mf2-cli) | 1.0.0 | 0 | The `mf2` command: check, compile, fmt, stats, dump, pseudo, export/import and… |
+| 2026-09-26 04:59:20 | [scytale-ring](https://crates.io/crates/scytale-ring) | 0.8.0 | 0 | ring 0.17's API, answered by scytale |
+| 2026-09-26 05:02:56 | [golden-kernel](https://crates.io/crates/golden-kernel) | 0.1.11 | 0 | Core runtime for GoldenBoot: routing, application state, request entities, and… |
+| 2026-09-26 05:03:05 | [edrv-adxl345](https://crates.io/crates/edrv-adxl345) | 0.1.0 | 0 | Driver for ADXL345, maintained by the embedded-drivers team |
+| 2026-09-26 05:03:14 | [edrv-bme280](https://crates.io/crates/edrv-bme280) | 0.1.0 | 0 | Driver for BME280 and BMP280, maintained by the embedded-drivers team |
+| 2026-09-26 05:03:23 | [edrv-sht20](https://crates.io/crates/edrv-sht20) | 0.1.0 | 0 | Driver for SHT20, maintained by the embedded-drivers team |
+| 2026-09-26 05:03:30 | [edrv-mpu6050](https://crates.io/crates/edrv-mpu6050) | 0.1.0 | 0 | Driver for MPU6050, MPU6000, MPU6500, maintained by the embedded-drivers team |
+| 2026-09-26 05:03:33 | [edrv-mhz19](https://crates.io/crates/edrv-mhz19) | 0.1.0 | 0 | Driver for the Winsen MH-Z19 / MH-Z19B NDIR CO2 sensor, maintained by the embed… |
+| 2026-09-26 05:03:35 | [golden-macros](https://crates.io/crates/golden-macros) | 0.1.11 | 0 | Procedural macros for GoldenBoot: mapping annotations, the golden_boot_applicat… |
+| 2026-09-26 05:04:03 | [wcode-harness](https://crates.io/crates/wcode-harness) | 0.2.0 | 0 | Minimal, extensible agent harness kernel: event loop, tools, hooks, JSONL sessi… |
+| 2026-09-26 05:04:10 | [wcode-protocol](https://crates.io/crates/wcode-protocol) | 0.2.0 | 0 | Wire transport for wcode sessions: NDJSON frames, a socket server and client, a… |
+| 2026-09-26 05:04:26 | [golden-boot](https://crates.io/crates/golden-boot) | 0.1.11 | 0 | An annotation-driven web framework built on Axum |
+| 2026-09-26 05:04:42 | [wcode-tui](https://crates.io/crates/wcode-tui) | 0.2.0 | 0 | Full-screen TUI for wcode — a client of the wcode-protocol Backend |
+| 2026-09-26 05:04:57 | [wcode-cli](https://crates.io/crates/wcode-cli) | 0.2.0 | 0 | Minimal coding agent CLI over OpenAI-compatible endpoints |
+| 2026-09-26 05:06:46 | [fdu-core](https://crates.io/crates/fdu-core) | 0.1.0 | 0 | The fdu engine: incremental hierarchical tallies over large directory trees |
+| 2026-09-26 05:06:50 | [fdu](https://crates.io/crates/fdu) | 0.1.0 | 0 | A fast, incremental file roll-up engine: hierarchical tallies over large direct… |
+| 2026-09-26 05:15:32 | [kt0803l](https://crates.io/crates/kt0803l) | 0.1.0 | 0 | I2C register interface for the KT0803L FM transmitter |
+| 2026-09-26 05:18:17 | [ic-auction](https://crates.io/crates/ic-auction) | 0.1.0 | 0 | Allocation mechanisms for scarce names and slots on the Internet Computer: Harb… |
+| 2026-09-26 05:18:52 | [vld-rama](https://crates.io/crates/vld-rama) | 0.4.1 | 0 | Rama integration for the vld validation library |
 
 ## Data source
 

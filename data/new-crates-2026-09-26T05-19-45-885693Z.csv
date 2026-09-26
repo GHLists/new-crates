@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T04:20:08.488395Z,bloq_lassynth,0.0.0-reserved,0,0,https://github.com/inmzhang/bloq,"Prerelease placeholder for bloq_lassynth, part of the Bloq quantum circuit compiler."
+2026-09-26T04:20:13.76567Z,bloq_stim,0.0.0-reserved,0,0,https://github.com/inmzhang/bloq,"Prerelease placeholder for bloq_stim, part of the Bloq quantum circuit compiler."
+2026-09-26T04:20:17.82039Z,bloq_utils,0.0.0-reserved,0,0,https://github.com/inmzhang/bloq,"Prerelease placeholder for bloq_utils, part of the Bloq quantum circuit compiler."
+2026-09-26T04:20:41.16672Z,monochromatic-jsonc-edit,0.1.0,0,0,https://github.com/Aquaticat/Monochromatic.git,"Comment-preserving JSONC parse, immutable edit, and canonical emit for Rust: every object key and value keeps one queryable attached comment, numbers compare by exact mathematical value while retaini…"
+2026-09-26T04:21:47.626074Z,gantz_collab_sync,0.0.0,0,0,https://github.com/nannou-org/gantz,"The host-agnostic sync plane for gantz collaborative sessions: join, fetch, converge and announce over gantz_collab."
+2026-09-26T04:22:07.554236Z,mf2-host-web,1.0.0,0,0,,"The browser Host of mf2-runtime: NFC through String.prototype.normalize and float text through String(x), via js-sys; with `datetime-intl`, dates through Intl.DateTimeFormat and time-zone offsets fro…"
+2026-09-26T04:22:08.371018Z,mf2-locale-data,1.0.0,0,0,,"CLDR locale data for mf2-two catalogs (build side): all-locale plural, direction, number, currency and unit tables and the LOCALE entries built from them."
+2026-09-26T04:22:09.866115Z,mf2-build,1.0.0,0,0,,"The MessageFormat 2 build pipeline: loaders, mf2.toml, the manifest, lints, per-locale catalogs and the generated Rust module."
+2026-09-26T04:25:44.500093Z,mf2-fn-number,1.0.0,0,0,,"The localized numeric functions of mf2-two (feature fn-number): locale symbols, grouping and numbering systems over the runtime's numeric core, and :percent, :currency, :unit (no_std, fmt-free, panic…"
+2026-09-26T04:28:14.588879Z,bite-gp-morphorm,1.21.2,0,0,https://github.com/bite-gpui/gpui_morphorm,A morphorm-backed LayoutEngine for GPUI
+2026-09-26T04:35:43.679402Z,mf2,1.0.0,0,0,,"Unicode MessageFormat 2 for Leptos: the one crate an application names — re-exports of the mf2-two crates and their feature flags, and compile_str for ad-hoc messages."
+2026-09-26T04:43:13.952188Z,cratestack-cose,0.13.0,0,0,https://github.com/cratestack/cratestack,"CrateStack's COSE envelope (ADR 0006): unary COSE_Mac0 / COSE_Sign1 over the CBOR codec's bytes, bound to the request through external AAD, with nonce replay protection and RFC 9679 thumbprint key id…"
+2026-09-26T04:44:21.640356Z,cratestack-mcp,0.13.0,0,0,https://github.com/cratestack/cratestack,"CrateStack's MCP binding (ADR 0002): serves a schema's `@mcp(tool)` procedures and `@@mcp(resource)` models (read-only) to agents over the Model Context Protocol, through the same generated policy ch…"
+2026-09-26T04:45:43.101271Z,mf2-axum,1.0.0,0,0,,"Locale negotiation and catalog serving for an Axum + Leptos application: an ordered list of typed sources and sinks, Content-Language and Vary, and /i18n/* served immutable from the catalogs embedded…"
+2026-09-26T04:46:31.23104Z,mcp-google-service,0.1.0,0,0,https://github.com/zchee/mcp-google-service,"One stdio MCP server fronting Google Cloud's per-service remote MCP endpoints: one auth model, one namespaced tool surface, enablement pruning"
+2026-09-26T04:51:19.888384Z,tmf-gen,0.1.0,0,0,https://github.com/rruckley/tmflib,A tool to generate Rust code compatible with tmflib
+2026-09-26T04:55:41.771792Z,mf2-cli,1.0.0,0,0,,"The `mf2` command: check, compile, fmt, stats, dump, pseudo, export/import and watch a MessageFormat 2 corpus."
+2026-09-26T04:59:20.727982Z,scytale-ring,0.8.0,0,0,https://github.com/MichaelPaddon/scytale,"ring 0.17's API, answered by scytale"
+2026-09-26T05:02:56.318778Z,golden-kernel,0.1.11,0,0,https://github.com/HoChienkuo/golden,"Core runtime for GoldenBoot: routing, application state, request entities, and response helpers"
+2026-09-26T05:03:05.175329Z,edrv-adxl345,0.1.0,0,0,https://github.com/embedded-drivers/embedded-drivers,"Driver for ADXL345, maintained by the embedded-drivers team"
+2026-09-26T05:03:14.541513Z,edrv-bme280,0.1.0,0,0,https://github.com/embedded-drivers/embedded-drivers,"Driver for BME280 and BMP280, maintained by the embedded-drivers team"
+2026-09-26T05:03:23.988511Z,edrv-sht20,0.1.0,0,0,https://github.com/embedded-drivers/embedded-drivers,"Driver for SHT20, maintained by the embedded-drivers team"
+2026-09-26T05:03:30.723979Z,edrv-mpu6050,0.1.0,0,0,https://github.com/embedded-drivers/embedded-drivers,"Driver for MPU6050, MPU6000, MPU6500, maintained by the embedded-drivers team"
+2026-09-26T05:03:33.807364Z,edrv-mhz19,0.1.0,0,0,https://github.com/embedded-drivers/embedded-drivers,"Driver for the Winsen MH-Z19 / MH-Z19B NDIR CO2 sensor, maintained by the embedded-drivers team"
+2026-09-26T05:03:35.474732Z,golden-macros,0.1.11,0,0,https://github.com/HoChienkuo/golden,"Procedural macros for GoldenBoot: mapping annotations, the golden_boot_application entry point, and RequestEntity derivation"
+2026-09-26T05:04:03.986152Z,wcode-harness,0.2.0,0,0,https://github.com/WeiNyn/wcode,"Minimal, extensible agent harness kernel: event loop, tools, hooks, JSONL sessions"
+2026-09-26T05:04:10.51887Z,wcode-protocol,0.2.0,0,0,https://github.com/WeiNyn/wcode,"Wire transport for wcode sessions: NDJSON frames, a socket server and client, a backend-agnostic handle"
+2026-09-26T05:04:26.647557Z,golden-boot,0.1.11,0,0,https://github.com/HoChienkuo/golden,An annotation-driven web framework built on Axum
+2026-09-26T05:04:42.923131Z,wcode-tui,0.2.0,0,0,https://github.com/WeiNyn/wcode,Full-screen TUI for wcode — a client of the wcode-protocol Backend
+2026-09-26T05:04:57.783691Z,wcode-cli,0.2.0,0,0,https://github.com/WeiNyn/wcode,Minimal coding agent CLI over OpenAI-compatible endpoints
+2026-09-26T05:06:46.745889Z,fdu-core,0.1.0,0,0,https://github.com/jlevy/fdu,The fdu engine: incremental hierarchical tallies over large directory trees
+2026-09-26T05:06:50.321539Z,fdu,0.1.0,0,0,https://github.com/jlevy/fdu,"A fast, incremental file roll-up engine: hierarchical tallies over large directory trees"
+2026-09-26T05:15:32.513809Z,kt0803l,0.1.0,0,0,,I2C register interface for the KT0803L FM transmitter
+2026-09-26T05:18:17.933011Z,ic-auction,0.1.0,0,0,https://github.com/DrJesseGlass/ic-auction,"Allocation mechanisms for scarce names and slots on the Internet Computer: Harberger tax with lazy settlement, sealed-bid second-price auctions, and an ICRC-2 cycles ledger client."
+2026-09-26T05:18:52.839273Z,vld-rama,0.4.1,0,0,https://github.com/s00d/vld,Rama integration for the vld validation library
