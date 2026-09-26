@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-25T23:28:27.717449Z,kithara-effects,0.0.1-alpha5,0,0,https://github.com/zvuk/kithara,"Channel and master audio effects for Kithara: equalisers, limiter, and their graph nodes."
+2026-09-25T23:29:17.357515Z,bunflared,0.1.1,0,0,https://github.com/mirkobozzetto/bunflared,"Share localhost on a public link, with an absurdly fun terminal show and an agent mode"
+2026-09-25T23:29:20.380395Z,molframe-traj,0.1.0,0,0,https://github.com/miguelcsx/molframe,Trajectory frames and formats for molframe
+2026-09-25T23:29:26.874472Z,corescout-mirror,1.1.0,0,0,https://github.com/mattbusel/corescout,M(t): the computational mirror and its shared-memory self-state plane.
+2026-09-25T23:31:50.663812Z,bound-format,0.1.0,0,0,https://github.com/bound-rs/bound,"The versioned on-disk format of bound artifacts: footer, manifest, payload"
+2026-09-25T23:31:51.244845Z,bound-platform,0.1.0,0,0,https://github.com/bound-rs/bound,"Narrow platform layer for bound: private directories, exclusive file creation, process launch and exit semantics"
+2026-09-25T23:31:52.853941Z,bound-runtime,0.1.0,0,0,https://github.com/bound-rs/bound,The bound launcher runtime: materializes resources and runs the bound program
+2026-09-25T23:31:54.453444Z,bound-cli,0.1.0,0,0,https://github.com/bound-rs/bound,Turn a process invocation into a program
+2026-09-25T23:37:48.001032Z,rocketsim,0.1.0,0,0,https://github.com/ZealanL/RocketSim,Simulate Rocket League games at maximum efficiency
+2026-09-25T23:38:00.4685Z,tft-synapse,0.6.0,0,0,https://github.com/Mattbusel/tft-synapse,TFT Synapse - AI-powered TFT advisor and auto-player platform
+2026-09-25T23:38:44.277909Z,kithara-output,0.0.1-alpha5,0,0,https://github.com/zvuk/kithara,Master-output and offline-rendering protocols for Kithara.
+2026-09-25T23:39:18.953092Z,molframe-xtal,0.1.0,0,0,https://github.com/miguelcsx/molframe,"Assemblies, symmetry and crystallographic transforms for molframe"
+2026-09-25T23:41:44.407316Z,oqx,0.12.0,0,0,https://github.com/omgbase/omgbase,OQX (omgbase Query eXpressions): a composable query language and engine for JSON-shaped collections — Rust implementation
+2026-09-25T23:42:54.346064Z,trellis-testkit,0.0.0,0,0,https://github.com/oats-center/trellis,Trellis integration test harness. This release reserves the crate name; the harness publishes from 0.100.0 onward.
+2026-09-25T23:44:09.705332Z,law,0.0.1,0,0,,Law as code.
+2026-09-25T23:47:54.72864Z,corescout-memory,1.1.0,0,0,https://github.com/mattbusel/corescout,"H(t): bounded snapshot history, durable recording, replay and transition extraction."
+2026-09-25T23:49:02.260163Z,kithara-stretch,0.0.1-alpha5,0,0,https://github.com/zvuk/kithara,Time-stretch DSP contracts and backend adapters.
+2026-09-25T23:49:19.235538Z,molframe-compare,0.1.0,0,0,https://github.com/miguelcsx/molframe,Structure comparison scores for molframe
+2026-09-25T23:50:14.085299Z,worker-kit,0.1.0,0,0,https://github.com/WyattAu/worker-kit,"Periodic job scheduling for Rust services — jittered intervals, graceful drain, breaker-aware failure budgets, optional leader election"
+2026-09-25T23:50:59.927456Z,kcode-k1-chat-thread-main-replies,0.1.0,0,0,,Concrete reply lifecycle owner for the K1 main chat runtime
+2026-09-25T23:51:51.505352Z,staticizer-macros,0.1.0,0,0,https://github.com/da-shalev/staticizer,Registration attribute for staticizer
+2026-09-25T23:51:53.277826Z,staticizer,0.1.0,0,0,https://github.com/da-shalev/staticizer,Cross-crate registries you can transform at compile time
+2026-09-25T23:52:31.065371Z,sylphx-mcp-kit,0.2.0,0,0,https://github.com/SylphxAI/mcp-kit,"Shared parts of Sylphx MCP servers: a stdio MCP server on rmcp, workspace roots, and `setup` for MCP clients."
+2026-09-25T23:53:10.690271Z,temperkb-principal,0.5.3,0,0,https://github.com/tasker-systems/temper,"The pure principal-admission and standing-transition machines. No I/O, no database."
+2026-09-25T23:53:15.423228Z,temperkb-auth,0.5.3,0,0,https://github.com/tasker-systems/temper,Shared OAuth2 PKCE mechanics for temper's client and server surfaces
+2026-09-25T23:53:28.307905Z,temperkb-core,0.5.3,0,0,https://github.com/tasker-systems/temper,"Shared types, traits, and models for the temper knowledge base system"
+2026-09-25T23:53:41.769619Z,temperkb-workflow,0.5.3,0,0,https://github.com/tasker-systems/temper,"Doc-type-aware workflow vocabulary for the temper knowledge base: resource rows, frontmatter, schema validation, and the operations command layer"
+2026-09-25T23:53:47.569015Z,temperkb-telemetry,0.5.3,0,0,https://github.com/tasker-systems/temper,"Shared telemetry seam for temper's deployables: logging init, inbound trace-context extraction, and the root-span field convention"
+2026-09-25T23:55:12.420844Z,temperkb-client,0.5.3,0,0,https://github.com/tasker-systems/temper,Auth-aware HTTP client for the temper cloud API
+2026-09-25T23:57:10.694596Z,java-jni-extras-proc,0.1.0,0,0,https://github.com/westbot657/java-jni-extras,A collection of helper macros for use with jni
+2026-09-25T23:58:05.27366Z,corescout-represent,1.1.0,0,0,https://github.com/mattbusel/corescout,"Normalisation, clustering and latent state discovery over mirror histories."
+2026-09-25T23:59:19.420919Z,kithara-waveform,0.0.1-alpha5,0,0,https://github.com/zvuk/kithara,"Waveform model, byte codec, and progressive band analyzer for Kithara."
+2026-09-25T23:59:22.114197Z,molframe-analysis,0.1.0,0,0,https://github.com/miguelcsx/molframe,"Contacts, interactions and secondary structure for molframe"
+2026-09-26T00:02:32.132085Z,zerochannel,0.1.2,0,0,https://github.com/dexman-ai/zerochannel,Lock-free single-writer multi-reader shared-memory channel
+2026-09-26T00:04:37.334934Z,kcode-k1-chat-thread-main-runtime,0.1.0,0,0,,Unified automatic runtime for one durable K1 chat thread
+2026-09-26T00:08:15.641806Z,corescout-science,1.1.0,0,0,https://github.com/mattbusel/corescout,"Hypothesis, experiment, falsification: the machine as scientist of itself."
+2026-09-26T00:09:20.588821Z,molframe-interop,0.1.0,0,0,https://github.com/miguelcsx/molframe,"Arrow, tensor, graph and dataset interoperability for molframe"
+2026-09-26T00:09:37.239154Z,kithara-download,0.0.1-alpha5,0,0,https://github.com/zvuk/kithara,Protocol-agnostic HTTP download scheduling and request lifecycle.
+2026-09-26T00:12:57.832598Z,tendr,0.3.0,0,0,https://github.com/grumpydevorg/tendr,"Agent process sitter — supervised runs, not processes"
+2026-09-26T00:18:13.687293Z,casita,0.0.0-placeholder,0,0,https://github.com/cachix/casita,Name reservation for the actively developed Casita object repository
+2026-09-26T00:18:25.728839Z,corescout-agent-experience,1.1.0,0,0,https://github.com/mattbusel/corescout,"Operational patterns learned from watching agents work, with association kept separate from causal evidence."
