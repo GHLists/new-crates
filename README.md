@@ -8,45 +8,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 16:18 UTC
+## Latest list — 2026-09-26 17:19 UTC
 
-New crates published between 2026-09-26 15:20 UTC and 2026-09-26 16:18 UTC.
+New crates published between 2026-09-26 16:18 UTC and 2026-09-26 17:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-26T16-18-58-711552Z.csv)
+[Full CSV](data/new-crates-2026-09-26T17-19-16-429383Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-26 15:22:49 | [kura-rs](https://crates.io/crates/kura-rs) | 0.1.0 | 0 | Copy small, verified Rust parts into your project. Installs the `kura` command. |
-| 2026-09-26 15:23:33 | [wh347](https://crates.io/crates/wh347) | 0.1.0 | 0 | Line and weekly totals for the revised U.S. DOL WH-347 certified payroll form (… |
-| 2026-09-26 15:29:55 | [arabica-cli](https://crates.io/crates/arabica-cli) | 0.1.0 | 0 | Arabica: the Structure coding agent terminal host (binary: arabica) - fullscree… |
-| 2026-09-26 15:30:00 | [mpeg-parser](https://crates.io/crates/mpeg-parser) | 0.1.0 | 0 | An expression-based parsing engine and DSL designed for code golfing. MicroPEG… |
-| 2026-09-26 15:30:08 | [ruvector-cnn-wasm](https://crates.io/crates/ruvector-cnn-wasm) | 0.1.0 | 0 | WASM bindings for ruvector-cnn - CNN feature extraction for image embeddings |
-| 2026-09-26 15:30:35 | [actor-lite](https://crates.io/crates/actor-lite) | 0.0.1 | 0 | 基于 tokio 的轻量 actor 抽象，提供命令通道、状态/进度广播和事件通知 |
-| 2026-09-26 15:31:39 | [weida-core](https://crates.io/crates/weida-core) | 0.1.0-alpha.2 | 0 | I/O-free core model for the weida QUIC-native messaging framework |
-| 2026-09-26 15:31:44 | [weida-protocol](https://crates.io/crates/weida-protocol) | 0.1.0-alpha.2 | 0 | Wire protocol codec (frames, headers, negotiation) for weida |
-| 2026-09-26 15:31:46 | [weida-winpipe](https://crates.io/crates/weida-winpipe) | 0.1.0-alpha.2 | 0 | The Win32 calls a named-pipe transport needs and nothing else: an owner-only DA… |
-| 2026-09-26 15:31:50 | [weida-runtime](https://crates.io/crates/weida-runtime) | 0.1.0-alpha.2 | 0 | Reactor ownership, the task/timer/DNS surface and the local-transport OS hygien… |
-| 2026-09-26 15:31:57 | [weida](https://crates.io/crates/weida) | 0.1.0-alpha.2 | 0 | QUIC-native messaging framework: runtime, native QUIC transport, Req/Rep, Push/… |
-| 2026-09-26 15:34:35 | [tokenjar-core](https://crates.io/crates/tokenjar-core) | 1.0.1 | 0 | High-performance AST and token optimization engine for AI coding assistants |
-| 2026-09-26 15:35:22 | [tokenjar](https://crates.io/crates/tokenjar) | 1.0.1 | 0 | Zero-cost, zero-latency token optimization engine and intelligent MCP middleware |
-| 2026-09-26 15:37:55 | [mbrotli-ffi](https://crates.io/crates/mbrotli-ffi) | 0.1.0 | 0 | C ABI for mbrotli: one-shot Brotli compression and decompression |
-| 2026-09-26 15:38:40 | [weida-raft](https://crates.io/crates/weida-raft) | 0.1.0-alpha.2 | 0 | openraft plus the I/O it deliberately leaves out: QUIC transport, TLS-proved no… |
-| 2026-09-26 15:41:31 | [ruvector-coherence-hnsw](https://crates.io/crates/ruvector-coherence-hnsw) | 2.3.0 | 0 | Coherence-gated HNSW search: traversal-direction pruning for faster beam search… |
-| 2026-09-26 15:42:31 | [ruvector-consciousness-wasm](https://crates.io/crates/ruvector-consciousness-wasm) | 2.3.0 | 0 | WASM bindings for ruvector-consciousness: IIT Φ, causal emergence, quantum coll… |
-| 2026-09-26 15:42:48 | [omgbase-graph](https://crates.io/crates/omgbase-graph) | 1.0.0 | 0 | omgbase graph: semantic node projection and authored-edge extraction over Markd… |
-| 2026-09-26 15:49:11 | [weida-broker](https://crates.io/crates/weida-broker) | 0.1.0-alpha.2 | 0 | The minimal L2 broker: queues at endpoint paths, Accepted in, nothing durable |
-| 2026-09-26 15:54:01 | [ruvector-decompiler](https://crates.io/crates/ruvector-decompiler) | 2.3.0 | 0 | SOTA JavaScript bundle decompiler using MinCut graph partitioning, self-learnin… |
-| 2026-09-26 15:54:33 | [roder-ext-codex-backend](https://crates.io/crates/roder-ext-codex-backend) | 0.1.2 | 0 | Agentic software development tools and SDKs for Roder. |
-| 2026-09-26 15:55:30 | [hyperframes](https://crates.io/crates/hyperframes) | 0.2.0 | 0 | High-performance native Rust programmatic video engine with seekable HTML/CSS/J… |
-| 2026-09-26 15:56:28 | [roder-ext-jev](https://crates.io/crates/roder-ext-jev) | 0.1.2 | 0 | Agentic software development tools and SDKs for Roder. |
-| 2026-09-26 15:59:18 | [weida-openbao](https://crates.io/crates/weida-openbao) | 0.1.0-alpha.2 | 0 | OpenBao/Vault for weida: token, AppRole and wrapped hand-off authentication, an… |
-| 2026-09-26 16:00:55 | [aws-bedrock-otel](https://crates.io/crates/aws-bedrock-otel) | 0.1.0 | 0 | OpenTelemetry GenAI instrumentation for the AWS SDK for Rust Bedrock Runtime cl… |
-| 2026-09-26 16:05:10 | [ruvector-decompiler-wasm](https://crates.io/crates/ruvector-decompiler-wasm) | 2.3.0 | 0 | WASM bindings for the RuVector JavaScript bundle decompiler (Louvain pipeline) |
-| 2026-09-26 16:08:22 | [badges-rs](https://crates.io/crates/badges-rs) | 0.1.0 | 0 | 🏷️ A highly customizable badge component for WASM frameworks like Yew, Dioxus,… |
-| 2026-09-26 16:08:29 | [weida-zmtp](https://crates.io/crates/weida-zmtp) | 0.1.0-alpha.2 | 0 | ZMTP 3.1 codec: greeting, framing, NULL handshake and commands, sans-I/O |
-| 2026-09-26 16:10:59 | [omgbase-search](https://crates.io/crates/omgbase-search) | 1.0.0 | 0 | omgbase search: FTS5 query sanitizer, embedding inputs and cache keys, block-ve… |
-| 2026-09-26 16:16:19 | [ruvector-delta-consensus](https://crates.io/crates/ruvector-delta-consensus) | 0.1.0 | 0 | Distributed delta consensus using CRDTs and causal ordering |
-| 2026-09-26 16:18:20 | [iced_tabs](https://crates.io/crates/iced_tabs) | 0.1.0-alpha.1 | 0 | The tab tree of the zeughaus editor for iced: sections, coloured groups, drag a… |
+| 2026-09-26 16:26:09 | [gws-rust](https://crates.io/crates/gws-rust) | 0.0.0 | 0 | Name reserved for https://github.com/astelmach20/gws-rust |
+| 2026-09-26 16:26:11 | [gws-rust-core](https://crates.io/crates/gws-rust-core) | 0.0.0 | 0 | Name reserved for https://github.com/astelmach20/gws-rust |
+| 2026-09-26 16:26:13 | [gwsr](https://crates.io/crates/gwsr) | 0.0.0 | 0 | Name reserved for https://github.com/astelmach20/gws-rust |
+| 2026-09-26 16:27:34 | [ruvector-delta-graph](https://crates.io/crates/ruvector-delta-graph) | 0.1.0 | 0 | Delta operations for graph structures - edge and node changes |
+| 2026-09-26 16:28:20 | [zeughaus-mux](https://crates.io/crates/zeughaus-mux) | 0.1.0-alpha.1 | 0 | Wire model of the terminal multiplexer: stable ids, workspace topology, termina… |
+| 2026-09-26 16:30:41 | [docup-lang](https://crates.io/crates/docup-lang) | 0.3.0 | 0 | DocUP compiler: compiles .du documents to standalone HTML5 |
+| 2026-09-26 16:35:58 | [baracuda-cuda-parse](https://crates.io/crates/baracuda-cuda-parse) | 0.11.0 | 0 | CUDA -> IR frontend for the neutral `unpopped` kernel generator: the tree-sitte… |
+| 2026-09-26 16:37:27 | [speechkit-cli](https://crates.io/crates/speechkit-cli) | 0.2.0 | 0 | Command-line interface for speechkit: transcribe, stream, synthesize, and serve… |
+| 2026-09-26 16:38:22 | [iced_terminal](https://crates.io/crates/iced_terminal) | 0.1.0-alpha.1 | 0 | An iced widget that draws a zeughaus_mux TerminalView with one wgpu primitive p… |
+| 2026-09-26 16:38:40 | [ruvector-delta-index](https://crates.io/crates/ruvector-delta-index) | 0.1.0 | 0 | Delta-aware HNSW index with incremental updates and repair strategies |
+| 2026-09-26 16:39:33 | [gungraun-common](https://crates.io/crates/gungraun-common) | 0.1.0 | 0 | Common library for Gungraun crates: High-precision, one-shot and consistent ben… |
+| 2026-09-26 16:47:01 | [escalation-macros](https://crates.io/crates/escalation-macros) | 0.1.0 | 0 | macro helper for escalation crate. |
+| 2026-09-26 16:48:10 | [escalation](https://crates.io/crates/escalation) | 0.1.0 | 0 | error utility crate that is used with hooq macro. |
+| 2026-09-26 16:48:19 | [zeughaus-core](https://crates.io/crates/zeughaus-core) | 0.1.0-alpha.1 | 0 | Core types of zeughaus: values, pins, the node and plugin traits, settings, sca… |
+| 2026-09-26 16:49:17 | [measurement-stats](https://crates.io/crates/measurement-stats) | 0.1.0 | 0 | Streaming signed timing statistics and bounded observation windows |
+| 2026-09-26 16:49:55 | [ruvector-delta-wasm](https://crates.io/crates/ruvector-delta-wasm) | 0.1.0 | 0 | WASM bindings for delta operations on vectors |
+| 2026-09-26 16:52:04 | [rcus-core](https://crates.io/crates/rcus-core) | 0.1.0 | 0 | Core types for rcus: retained view tree, style, input, and the host bridge prot… |
+| 2026-09-26 16:52:22 | [rcus-layout](https://crates.io/crates/rcus-layout) | 0.1.0 | 0 | Flexbox layout, hit testing, and windowed virtual rows for the rcus view tree |
+| 2026-09-26 16:53:21 | [rcus-render](https://crates.io/crates/rcus-render) | 0.1.0 | 0 | wgpu renderer for rcus: solid quads, a runtime glyph atlas, and scissored text |
+| 2026-09-26 16:53:39 | [rcus-app](https://crates.io/crates/rcus-app) | 0.1.0 | 0 | Application state for rcus: view tree, layout solving, and frame building |
+| 2026-09-26 16:54:38 | [rcus-ts](https://crates.io/crates/rcus-ts) | 0.1.0 | 0 | QuickJS-NG view runtime and host bridge for rcus |
+| 2026-09-26 16:58:11 | [etchv](https://crates.io/crates/etchv) | 1.0.0 | 0 | Official Etchv client for invisible forensic watermarking of images, PDFs and v… |
+| 2026-09-26 16:58:22 | [zeughaus-capture](https://crates.io/crates/zeughaus-capture) | 0.1.0-alpha.1 | 0 | zeughaus plugin: screen capture through xdg-desktop-portal on Wayland and scrap… |
+| 2026-09-26 17:00:33 | [rs-strip](https://crates.io/crates/rs-strip) | 0.1.0 | 0 | Strip tests, doc comments and comments from a single Rust source file, and opti… |
+| 2026-09-26 17:01:11 | [ruvector-diskann-node](https://crates.io/crates/ruvector-diskann-node) | 2.3.0 | 0 | NAPI-RS bindings for ruvector-diskann |
+| 2026-09-26 17:01:35 | [ruvector-economy-wasm](https://crates.io/crates/ruvector-economy-wasm) | 0.1.0 | 0 | CRDT-based autonomous credit economy for distributed compute networks - WASM op… |
+| 2026-09-26 17:02:11 | [omgbase-mutate](https://crates.io/crates/omgbase-mutate) | 1.0.0 | 0 | omgbase mutation kernel: the working block tree, the six ops (insert/update/mov… |
+| 2026-09-26 17:02:19 | [benthic_protocol](https://crates.io/crates/benthic_protocol) | 0.2.1 | 0 | Benthic protocol, an intermediate layer between metaverse protocols and client… |
+| 2026-09-26 17:05:15 | [everscribe](https://crates.io/crates/everscribe) | 0.1.1 | 0 | Rust SDK for the Everscribe audit-log API |
+| 2026-09-26 17:05:43 | [rcus-desktop](https://crates.io/crates/rcus-desktop) | 0.1.0 | 0 | winit window and input backend for rcus |
+| 2026-09-26 17:07:52 | [crabwall-common](https://crates.io/crates/crabwall-common) | 1.0.0 | 0 | Shared rules engine and IPC protocol for the crabwall firewall |
+| 2026-09-26 17:07:58 | [crabwall-packet](https://crates.io/crates/crabwall-packet) | 1.0.0 | 0 | Pure packet-parsing primitives for crabwall: DNS, TLS SNI, IP frames |
+| 2026-09-26 17:08:21 | [zeughaus-db](https://crates.io/crates/zeughaus-db) | 0.1.0-alpha.1 | 0 | zeughaus plugin: SQLite schemas drawn in the graph, with Database, Table, Inser… |
+| 2026-09-26 17:08:41 | [crabwall](https://crates.io/crates/crabwall) | 1.0.0 | 0 | Little Snitch for Linux: per-app firewall TUI and CLI |
+| 2026-09-26 17:08:53 | [crabwalld](https://crates.io/crates/crabwalld) | 1.0.0 | 0 | Little Snitch for Linux: per-app firewall daemon |
+| 2026-09-26 17:10:52 | [shadow-point](https://crates.io/crates/shadow-point) | 0.3.0 | 0 | Deterministic testing of concurrent Rust code — hooks at linearization points,… |
+| 2026-09-26 17:11:32 | [verseconf-toml](https://crates.io/crates/verseconf-toml) | 0.3.0 | 0 | 把编辑意图契约与写入前校验用到真实 TOML 配置上：复用 toml_edit 定位值区间，只替换目标字节 |
+| 2026-09-26 17:12:57 | [ruvector-typesafe-core](https://crates.io/crates/ruvector-typesafe-core) | 2.3.0 | 0 | Typed-decision engine (choice / score / noul) over sentence embeddings — the co… |
+| 2026-09-26 17:13:25 | [rovo-schemars-derive](https://crates.io/crates/rovo-schemars-derive) | 0.9.0 | 0 | schemars 0.9 #[derive(JsonSchema)] that resolves the crate path through rovo's… |
+| 2026-09-26 17:14:12 | [rcus](https://crates.io/crates/rcus) | 0.1.0 | 0 | A retained, GPU-rendered UI toolkit with no browser engine: wgpu drawing, winit… |
+| 2026-09-26 17:15:16 | [sz-rust-visual](https://crates.io/crates/sz-rust-visual) | 1.4.0 | 0 | SZ-Rust 可视化画布 — Tauri 2.x 桌面应用，SDD 编排 + Capability + RAG + 预览 |
+| 2026-09-26 17:15:47 | [sz-rust-config-center](https://crates.io/crates/sz-rust-config-center) | 1.4.0 | 0 | Config center for sz-rust — ConfigSource trait + Consul/Nacos + gray release +… |
+| 2026-09-26 17:15:55 | [sz-rust-service-registry](https://crates.io/crates/sz-rust-service-registry) | 1.4.0 | 0 | Service registry for sz-rust — ServiceRegistry trait + Consul/Nacos/K8s + five… |
+| 2026-09-26 17:16:21 | [sz-rust-api-gateway](https://crates.io/crates/sz-rust-api-gateway) | 1.4.0 | 0 | API gateway for sz-rust — routing + forwarding + auth + rate limit + circuit br… |
+| 2026-09-26 17:18:20 | [zeughaus-flow](https://crates.io/crates/zeughaus-flow) | 0.1.0-alpha.1 | 0 | zeughaus plugin: Hold, Button, Timer and All, the nodes that turn events into s… |
+| 2026-09-26 17:19:05 | [sz-rust-facade](https://crates.io/crates/sz-rust-facade) | 1.4.0 | 0 | Unified Facade crate — eight static facades (Cache/Db/Event/Queue/Log/Config/Re… |
 
 ## Data source
 

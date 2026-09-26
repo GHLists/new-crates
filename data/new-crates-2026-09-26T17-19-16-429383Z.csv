@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T16:26:09.324215Z,gws-rust,0.0.0,0,0,https://github.com/astelmach20/gws-rust,Name reserved for https://github.com/astelmach20/gws-rust
+2026-09-26T16:26:11.582641Z,gws-rust-core,0.0.0,0,0,https://github.com/astelmach20/gws-rust,Name reserved for https://github.com/astelmach20/gws-rust
+2026-09-26T16:26:13.850755Z,gwsr,0.0.0,0,0,https://github.com/astelmach20/gws-rust,Name reserved for https://github.com/astelmach20/gws-rust
+2026-09-26T16:27:34.192081Z,ruvector-delta-graph,0.1.0,0,0,https://github.com/ruvnet/ruvector,Delta operations for graph structures - edge and node changes
+2026-09-26T16:28:20.462611Z,zeughaus-mux,0.1.0-alpha.1,0,0,https://github.com/tuco86/zeughaus,"Wire model of the terminal multiplexer: stable ids, workspace topology, terminal rows and deltas, bounded frames"
+2026-09-26T16:30:41.92767Z,docup-lang,0.3.0,0,0,https://github.com/pbarot2009/docup,DocUP compiler: compiles .du documents to standalone HTML5
+2026-09-26T16:35:58.444162Z,baracuda-cuda-parse,0.11.0,0,0,https://github.com/ciresnave/baracuda,"CUDA -> IR frontend for the neutral `unpopped` kernel generator: the tree-sitter grammar binding (`parse_cuda`), the CUDA residue list, and the `CUDA` `Frontend` descriptor. Depends on the neutral ge…"
+2026-09-26T16:37:27.765475Z,speechkit-cli,0.2.0,0,0,https://github.com/speechkit/speechkit,"Command-line interface for speechkit: transcribe, stream, synthesize, and serve speech."
+2026-09-26T16:38:22.314841Z,iced_terminal,0.1.0-alpha.1,0,0,https://github.com/tuco86/zeughaus,An iced widget that draws a zeughaus_mux TerminalView with one wgpu primitive per surface and turns input into TerminalCommands
+2026-09-26T16:38:40.824666Z,ruvector-delta-index,0.1.0,0,0,https://github.com/ruvnet/ruvector,Delta-aware HNSW index with incremental updates and repair strategies
+2026-09-26T16:39:33.118956Z,gungraun-common,0.1.0,0,0,https://github.com/gungraun/gungraun,"Common library for Gungraun crates: High-precision, one-shot and consistent benchmarking framework for Rust. All Valgrind tools and Linux perf at your fingertips."
+2026-09-26T16:47:01.460303Z,escalation-macros,0.1.0,0,0,https://github.com/anotherhollow1125/escalation,macro helper for escalation crate.
+2026-09-26T16:48:10.035969Z,escalation,0.1.0,0,0,https://github.com/anotherhollow1125/escalation,error utility crate that is used with hooq macro.
+2026-09-26T16:48:19.835822Z,zeughaus-core,0.1.0-alpha.1,0,0,https://github.com/tuco86/zeughaus,"Core types of zeughaus: values, pins, the node and plugin traits, settings, scalar wire encoding and store rows"
+2026-09-26T16:49:17.940692Z,measurement-stats,0.1.0,0,0,https://github.com/Lochnair/measurement-stats,Streaming signed timing statistics and bounded observation windows
+2026-09-26T16:49:55.182777Z,ruvector-delta-wasm,0.1.0,0,0,https://github.com/ruvnet/ruvector,WASM bindings for delta operations on vectors
+2026-09-26T16:52:04.936088Z,rcus-core,0.1.0,0,0,https://github.com/NaveenSingh9999/rcus,"Core types for rcus: retained view tree, style, input, and the host bridge protocol"
+2026-09-26T16:52:22.278765Z,rcus-layout,0.1.0,0,0,https://github.com/NaveenSingh9999/rcus,"Flexbox layout, hit testing, and windowed virtual rows for the rcus view tree"
+2026-09-26T16:53:21.894045Z,rcus-render,0.1.0,0,0,https://github.com/NaveenSingh9999/rcus,"wgpu renderer for rcus: solid quads, a runtime glyph atlas, and scissored text"
+2026-09-26T16:53:39.915551Z,rcus-app,0.1.0,0,0,https://github.com/NaveenSingh9999/rcus,"Application state for rcus: view tree, layout solving, and frame building"
+2026-09-26T16:54:38.230997Z,rcus-ts,0.1.0,0,0,https://github.com/NaveenSingh9999/rcus,QuickJS-NG view runtime and host bridge for rcus
+2026-09-26T16:58:11.471223Z,etchv,1.0.0,0,0,https://github.com/etchv-labs/rust-sdk,"Official Etchv client for invisible forensic watermarking of images, PDFs and videos"
+2026-09-26T16:58:22.251111Z,zeughaus-capture,0.1.0-alpha.1,0,0,https://github.com/tuco86/zeughaus,zeughaus plugin: screen capture through xdg-desktop-portal on Wayland and scrap elsewhere
+2026-09-26T17:00:33.785913Z,rs-strip,0.1.0,0,0,https://github.com/cacampu/rs-strip,"Strip tests, doc comments and comments from a single Rust source file, and optionally minify it, for submission to a competitive programming judge."
+2026-09-26T17:01:11.233551Z,ruvector-diskann-node,2.3.0,0,0,https://github.com/ruvnet/ruvector,NAPI-RS bindings for ruvector-diskann
+2026-09-26T17:01:35.865671Z,ruvector-economy-wasm,0.1.0,0,0,https://github.com/ruvnet/ruvector,CRDT-based autonomous credit economy for distributed compute networks - WASM optimized
+2026-09-26T17:02:11.587743Z,omgbase-mutate,1.0.0,0,0,https://github.com/omgbase/omgbase,"omgbase mutation kernel: the working block tree, the six ops (insert/update/move/remove/split/merge) with placement addressing and CAS, the splice renderer's dirty rules, changeset placeholders, the…"
+2026-09-26T17:02:19.094186Z,benthic_protocol,0.2.1,0,0,https://github.com/benthic-mmo/metaverse_client/tree/main/crates/benthic_protocol,"Benthic protocol, an intermediate layer between metaverse protocols and client programs."
+2026-09-26T17:05:15.143922Z,everscribe,0.1.1,0,0,https://github.com/everscribe/sdk-rust,Rust SDK for the Everscribe audit-log API
+2026-09-26T17:05:43.709046Z,rcus-desktop,0.1.0,0,0,https://github.com/NaveenSingh9999/rcus,winit window and input backend for rcus
+2026-09-26T17:07:52.114423Z,crabwall-common,1.0.0,0,0,,Shared rules engine and IPC protocol for the crabwall firewall
+2026-09-26T17:07:58.163411Z,crabwall-packet,1.0.0,0,0,,"Pure packet-parsing primitives for crabwall: DNS, TLS SNI, IP frames"
+2026-09-26T17:08:21.051983Z,zeughaus-db,0.1.0-alpha.1,0,0,https://github.com/tuco86/zeughaus,"zeughaus plugin: SQLite schemas drawn in the graph, with Database, Table, Insert, Query and SQL nodes"
+2026-09-26T17:08:41.035861Z,crabwall,1.0.0,0,0,,Little Snitch for Linux: per-app firewall TUI and CLI
+2026-09-26T17:08:53.338924Z,crabwalld,1.0.0,0,0,,Little Snitch for Linux: per-app firewall daemon
+2026-09-26T17:10:52.925787Z,shadow-point,0.3.0,0,0,https://github.com/denis-protivensky/shadow-point,"Deterministic testing of concurrent Rust code — hooks at linearization points, single-threaded via guards or shared sync points across threads"
+2026-09-26T17:11:32.562389Z,verseconf-toml,0.3.0,0,0,https://github.com/Baixu22/Verse-conf,把编辑意图契约与写入前校验用到真实 TOML 配置上：复用 toml_edit 定位值区间，只替换目标字节
+2026-09-26T17:12:57.285062Z,ruvector-typesafe-core,2.3.0,0,0,https://github.com/ruvnet/ruvector,"Typed-decision engine (choice / score / noul) over sentence embeddings — the core of @ruvector/typesafe. Target-independent: no embedder backend, no I/O."
+2026-09-26T17:13:25.796693Z,rovo-schemars-derive,0.9.0,0,0,https://github.com/Arthurdw/schemars,schemars 0.9 #[derive(JsonSchema)] that resolves the crate path through rovo's re-export
+2026-09-26T17:14:12.255985Z,rcus,0.1.0,0,0,https://github.com/NaveenSingh9999/rcus,"A retained, GPU-rendered UI toolkit with no browser engine: wgpu drawing, winit windows, and a JavaScript view runtime"
+2026-09-26T17:15:16.133722Z,sz-rust-visual,1.4.0,0,0,https://github.com/ljclz/sz-rust,SZ-Rust 可视化画布 — Tauri 2.x 桌面应用，SDD 编排 + Capability + RAG + 预览
+2026-09-26T17:15:47.778299Z,sz-rust-config-center,1.4.0,0,0,https://github.com/ljclz/sz-rust,Config center for sz-rust — ConfigSource trait + Consul/Nacos + gray release + version rollback + AES-GCM encryption
+2026-09-26T17:15:55.081213Z,sz-rust-service-registry,1.4.0,0,0,https://github.com/ljclz/sz-rust,Service registry for sz-rust — ServiceRegistry trait + Consul/Nacos/K8s + five LB strategies
+2026-09-26T17:16:21.741607Z,sz-rust-api-gateway,1.4.0,0,0,https://github.com/ljclz/sz-rust,API gateway for sz-rust — routing + forwarding + auth + rate limit + circuit breaker + LB
+2026-09-26T17:18:20.91904Z,zeughaus-flow,0.1.0-alpha.1,0,0,https://github.com/tuco86/zeughaus,"zeughaus plugin: Hold, Button, Timer and All, the nodes that turn events into state and clocks into events"
+2026-09-26T17:19:05.499931Z,sz-rust-facade,1.4.0,0,0,https://github.com/ljclz/sz-rust,Unified Facade crate — eight static facades (Cache/Db/Event/Queue/Log/Config/Request/Response) with OnceCell delegation
