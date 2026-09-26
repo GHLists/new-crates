@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T15:22:49.471188Z,kura-rs,0.1.0,0,0,https://github.com/h-kurashina/kura-rs,"Copy small, verified Rust parts into your project. Installs the `kura` command."
+2026-09-26T15:23:33.792245Z,wh347,0.1.0,0,0,,"Line and weekly totals for the revised U.S. DOL WH-347 certified payroll form (Rev. January 2025): wages, fringe credit, net pay."
+2026-09-26T15:29:55.520194Z,arabica-cli,0.1.0,0,0,https://github.com/haowei2000/Arabica,"Arabica: the Structure coding agent terminal host (binary: arabica) - fullscreen TUI chat, ACP for Zed, and one-shot runs"
+2026-09-26T15:30:00.156486Z,mpeg-parser,0.1.0,0,0,https://github.com/tascord/mpeg,"An expression-based parsing engine and DSL designed for code golfing. MicroPEG compiles compact, single-string grammars into executable, AST-producing parsers."
+2026-09-26T15:30:08.268171Z,ruvector-cnn-wasm,0.1.0,0,0,https://github.com/ruvnet/ruvector,WASM bindings for ruvector-cnn - CNN feature extraction for image embeddings
+2026-09-26T15:30:35.042725Z,actor-lite,0.0.1,0,0,https://github.com/KOPZWMZ/actor_kit.git,基于 tokio 的轻量 actor 抽象，提供命令通道、状态/进度广播和事件通知
+2026-09-26T15:31:39.705464Z,weida-core,0.1.0-alpha.2,0,0,https://github.com/tuco86/weida,I/O-free core model for the weida QUIC-native messaging framework
+2026-09-26T15:31:44.168361Z,weida-protocol,0.1.0-alpha.2,0,0,https://github.com/tuco86/weida,"Wire protocol codec (frames, headers, negotiation) for weida"
+2026-09-26T15:31:46.994842Z,weida-winpipe,0.1.0-alpha.2,0,0,https://github.com/tuco86/weida,"The Win32 calls a named-pipe transport needs and nothing else: an owner-only DACL, the client's token SID, the pipe's owner SID, both process ids"
+2026-09-26T15:31:50.038887Z,weida-runtime,0.1.0-alpha.2,0,0,https://github.com/tuco86/weida,"Reactor ownership, the task/timer/DNS surface and the local-transport OS hygiene shared by weida and the standalone protocol libraries"
+2026-09-26T15:31:57.731168Z,weida,0.1.0-alpha.2,0,0,https://github.com/tuco86/weida,"QUIC-native messaging framework: runtime, native QUIC transport, Req/Rep, Push/Pull, Pub/Sub, PAIR, SURVEY and BUS"
+2026-09-26T15:34:35.27094Z,tokenjar-core,1.0.1,0,0,https://github.com/Farukes/TokenJar,High-performance AST and token optimization engine for AI coding assistants
+2026-09-26T15:35:22.553018Z,tokenjar,1.0.1,0,0,https://github.com/Farukes/TokenJar,"Zero-cost, zero-latency token optimization engine and intelligent MCP middleware"
+2026-09-26T15:37:55.000465Z,mbrotli-ffi,0.1.0,0,0,https://github.com/Mnwa/mbrotli,C ABI for mbrotli: one-shot Brotli compression and decompression
+2026-09-26T15:38:40.541731Z,weida-raft,0.1.0-alpha.2,0,0,https://github.com/tuco86/weida,"openraft plus the I/O it deliberately leaves out: QUIC transport, TLS-proved node identity and a streamed snapshot channel, so a Raft service needs only its state machine"
+2026-09-26T15:41:31.878787Z,ruvector-coherence-hnsw,2.3.0,0,0,https://github.com/ruvnet/ruvector,Coherence-gated HNSW search: traversal-direction pruning for faster beam search with maintained recall
+2026-09-26T15:42:31.153239Z,ruvector-consciousness-wasm,2.3.0,0,0,https://github.com/ruvnet/ruvector,"WASM bindings for ruvector-consciousness: IIT Φ, causal emergence, quantum collapse"
+2026-09-26T15:42:48.8324Z,omgbase-graph,1.0.0,0,0,https://github.com/omgbase/omgbase,"omgbase graph: semantic node projection and authored-edge extraction over Markdown blocks (links, wikilinks, tasks, anchors, inline fields, sections; URI normalization; path resolution) — Rust implem…"
+2026-09-26T15:49:11.457012Z,weida-broker,0.1.0-alpha.2,0,0,https://github.com/tuco86/weida,"The minimal L2 broker: queues at endpoint paths, Accepted in, nothing durable"
+2026-09-26T15:54:01.476053Z,ruvector-decompiler,2.3.0,0,0,https://github.com/ruvnet/ruvector,"SOTA JavaScript bundle decompiler using MinCut graph partitioning, self-learning name inference, and RVF witness chains"
+2026-09-26T15:54:33.458374Z,roder-ext-codex-backend,0.1.2,0,0,https://github.com/RoderAI/roder,Agentic software development tools and SDKs for Roder.
+2026-09-26T15:55:30.7583Z,hyperframes,0.2.0,0,0,https://github.com/bhubbard/hyperframes-rs,High-performance native Rust programmatic video engine with seekable HTML/CSS/JS clock protocol
+2026-09-26T15:56:28.305731Z,roder-ext-jev,0.1.2,0,0,https://github.com/RoderAI/roder,Agentic software development tools and SDKs for Roder.
+2026-09-26T15:59:18.248248Z,weida-openbao,0.1.0-alpha.2,0,0,https://github.com/tuco86/weida,"OpenBao/Vault for weida: token, AppRole and wrapped hand-off authentication, and identity sources signed by a PKI mount, anchored on its CA, or read from KV"
+2026-09-26T16:00:55.741654Z,aws-bedrock-otel,0.1.0,0,0,https://github.com/chinmaychahar/aws-bedrock-otel,OpenTelemetry GenAI instrumentation for the AWS SDK for Rust Bedrock Runtime client
+2026-09-26T16:05:10.468859Z,ruvector-decompiler-wasm,2.3.0,0,0,https://github.com/ruvnet/ruvector,WASM bindings for the RuVector JavaScript bundle decompiler (Louvain pipeline)
+2026-09-26T16:08:22.686425Z,badges-rs,0.1.0,0,0,https://github.com/opensass/badges-rs,"🏷️ A highly customizable badge component for WASM frameworks like Yew, Dioxus, and Leptos."
+2026-09-26T16:08:29.463312Z,weida-zmtp,0.1.0-alpha.2,0,0,https://github.com/tuco86/weida,"ZMTP 3.1 codec: greeting, framing, NULL handshake and commands, sans-I/O"
+2026-09-26T16:10:59.370489Z,omgbase-search,1.0.0,0,0,https://github.com/omgbase/omgbase,"omgbase search: FTS5 query sanitizer, embedding inputs and cache keys, block-vector pooling, cosine, RRF fusion with explainable boosts, and the external embedding-provider protocol — Rust implementa…"
+2026-09-26T16:16:19.275Z,ruvector-delta-consensus,0.1.0,0,0,https://github.com/ruvnet/ruvector,Distributed delta consensus using CRDTs and causal ordering
+2026-09-26T16:18:20.683757Z,iced_tabs,0.1.0-alpha.1,0,0,https://github.com/tuco86/zeughaus,"The tab tree of the zeughaus editor for iced: sections, coloured groups, drag and drop with drop markers"
