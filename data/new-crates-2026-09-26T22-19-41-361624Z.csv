@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T21:21:55.16102Z,kranz-acp,0.4.2,0,0,https://github.com/craigcode/kranz,Bounded ACP v1 protocol client without mission or process authority.
+2026-09-26T21:25:09.002483Z,peekme,0.0.1,0,0,https://github.com/GregoryBolshakov/peekme,"Select text in Codex CLI output and get a short explanation right under it, inside the terminal"
+2026-09-26T21:26:41.978428Z,brush-ocap-parser,0.5.0-rc.1,0,0,https://github.com/hartsock/brush,POSIX/bash shell tokenizer and parsers (used by brush-shell)
+2026-09-26T21:28:21.129529Z,zeughaus-termwiz,0.24.0,0,0,https://github.com/tuco86/zeughaus,"termwiz from wezterm at 2658f629, published for zeughaus. Terminal Wizardry for Unix and Windows"
+2026-09-26T21:28:47.983923Z,ruvector-turboquant,2.3.0,0,0,https://github.com/ruvnet/ruvector,Turbo4: 4-bit Lloyd-Max quantized vector datatype with deterministic Hadamard rotation and direct packed SIMD scoring (ADR-296)
+2026-09-26T21:33:23.5125Z,maincopy-diagram-renderer,0.1.0,0,0,https://github.com/tee8z/maincopy,Supervised Mermaid rendering helper and client for Maincopy
+2026-09-26T21:33:24.006267Z,maincopy-shared,0.1.0,0,0,https://github.com/tee8z/maincopy,Versioned wire contracts shared by Maincopy servers and operator clients
+2026-09-26T21:33:24.370451Z,markdown-compiler,0.1.0,0,0,https://github.com/tee8z/maincopy,"Strict Markdown content validation, asset resolution, and revision identities for Maincopy"
+2026-09-26T21:33:25.785718Z,maincopy-cli,0.1.0,0,0,https://github.com/tee8z/maincopy,Operator command-line client for the Maincopy administration API
+2026-09-26T21:33:26.498525Z,maincopy-server,0.1.0,0,0,https://github.com/tee8z/maincopy,Self-hosted publishing server with exact previews and explicit release approval
+2026-09-26T21:33:34.345577Z,rust_dns-server,0.1.0,0,0,https://github.com/lokai-kuroi/rust-dns-server,Runs a DNS server with various configurations and customizations.
+2026-09-26T21:34:50.904093Z,clipscribe,0.1.0,0,0,https://github.com/Zelenov/clipscribe,"Describe what happens in video clips, and when, with Claude: a video file (and its subtitles) in, a summary and time-ranged key moments out."
+2026-09-26T21:35:09.353215Z,serde_ucl,0.3.0,0,0,https://github.com/AnderEnder/serde_ucl,UCL (Universal Configuration Language) with serde: reads and writes UCL as libucl does
+2026-09-26T21:38:20.613629Z,zeughaus-wezterm-term,0.1.0,0,0,https://github.com/tuco86/zeughaus,"wezterm-term from wezterm at 2658f629, published for zeughaus. The Virtual Terminal Emulator core from wezterm; helpful for implementing terminal emulators"
+2026-09-26T21:40:05.252374Z,ruvector-typesafe-ffi,2.3.0,0,0,https://github.com/ruvnet/ruvector,NAPI-RS bindings for ruvector-typesafe-core (@ruvector/typesafe native binary)
+2026-09-26T21:45:41.193856Z,bnb-shell,0.1.1,0,0,https://github.com/EatSleepCode-Repeat/bnb,"A fast, polished, cross-platform terminal shell built in Rust with Powerlevel10k aesthetics."
+2026-09-26T21:48:21.127882Z,zeughaus-terminal,0.1.0-alpha.1,0,0,https://github.com/tuco86/zeughaus,"The runner's terminal engine: a PTY, a parser and a canonical screen per session, delivered as mux rows and deltas"
+2026-09-26T21:49:44.236764Z,raoh,0.1.0,0,0,https://github.com/kawasima/raoh-rust,"Decoders that turn untyped JSON into typed domain values, reporting every issue with its path"
+2026-09-26T21:50:20.779723Z,rs-fs-stats2ipc4du,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-fs-stats2ipc4du,Convert filesystem stat protobuf maps to Arrow IPC format
+2026-09-26T21:51:19.764332Z,ruvector-typesafe-wasm,2.3.0,0,0,https://github.com/ruvnet/ruvector,wasm-bindgen build of ruvector-typesafe-core (@ruvector/typesafe WASM fallback)
+2026-09-26T21:51:50.244955Z,ruvllm_retrieval_diffusion,0.1.0,0,0,https://github.com/ruvnet/RuVector,"Corpus-agnostic training-free retrieval LM and masked discrete diffusion built on ruvllm_sparse_attention. Works on any small-vocab token domain — game levels, drum patterns, configs, MIDI, visual to…"
+2026-09-26T21:52:10.487114Z,simd_tokens_macros,0.1.0,0,0,,Reserved for future use.
+2026-09-26T21:57:07.367818Z,lucida,1.1.0,0,0,https://github.com/Artificial-Humanity/Lucida,"Generate images and video with Google Gemini, Veo, Runway, Kling, a local ComfyUI, FLUX, Stability AI or OpenAI — a CLI and an MCP server"
+2026-09-26T21:58:24.013084Z,zeughaus-runner,0.1.0-alpha.1,0,0,https://github.com/tuco86/zeughaus,The headless zeughaus process that executes the node graph and owns the terminals
+2026-09-26T22:01:26.629057Z,rinx_cdecl,0.1.0,0,0,https://github.com/nachstedt/rinx,A small C declaration parser used by rinx's C domain. Internal to rinx; no stability guarantees.
+2026-09-26T22:01:26.912257Z,rinx_filter,0.1.0,0,0,https://github.com/nachstedt/rinx,The filter expression language of rinx's entity listings. Internal to rinx; no stability guarantees.
+2026-09-26T22:01:27.329857Z,rinx_inventory,0.1.0,0,0,https://github.com/nachstedt/rinx,"Reading and writing Sphinx objects.inv inventories, for rinx. Internal to rinx; no stability guarantees."
+2026-09-26T22:01:27.579334Z,rinx_template,0.1.0,0,0,https://github.com/nachstedt/rinx,"Jinja templating of reStructuredText sources, with a source line map, for rinx. Internal to rinx; no stability guarantees."
+2026-09-26T22:01:28.830287Z,rinx_ast,0.1.0,0,0,https://github.com/nachstedt/rinx,The reStructuredText document tree shared by rinx's pipeline phases. Internal to rinx; no stability guarantees.
+2026-09-26T22:03:03.028403Z,rvagent-core,0.1.0,0,0,https://github.com/ruvnet/RuVector,"rvAgent core — typed agent state, config, model resolution, agent graph"
+2026-09-26T22:03:11.465995Z,urma-names,0.2.1,0,0,https://github.com/urma-protocol/urma,URMA names registry profile URMANAM1: payload codec and deterministic registry engine
+2026-09-26T22:03:16.214312Z,urma-web,0.2.1,0,0,https://github.com/urma-protocol/urma,"URMA Web profile URMAWEB1: flat site packages with pinned objects, packing and verified store"
+2026-09-26T22:05:35.011638Z,oxirush-s1ap,0.2.0,0,0,https://github.com/linouxis9/oxirush-s1ap,LTE S1AP (S1 Application Protocol) APER codec — auto-generated from 3GPP ASN.1 definitions
+2026-09-26T22:09:29.355166Z,rinx_scope,0.1.0,0,0,https://github.com/nachstedt/rinx,Domain-object scope tracking shared by rinx's analyzer and renderer. Internal to rinx; no stability guarantees.
+2026-09-26T22:10:48.626232Z,typesafe-system-one,0.1.0,0,0,https://github.com/haileyok/typesafe-client,Unofficial async Rust client for the TypeSafe AI System One API (Jev)
+2026-09-26T22:13:26.386649Z,kiss-bench,0.0.20,0,0,https://github.com/racetozero/kiss,Shared benchmark timing support for KISS tests
+2026-09-26T22:14:22.324377Z,rvagent-backends,0.1.0,0,0,https://github.com/ruvnet/RuVector,"rvAgent backends — filesystem, shell, composite, state, store, sandbox protocols"
+2026-09-26T22:15:42.339028Z,foam,0.1.0,0,0,https://github.com/jackroddy/foam,an issue tracker and agent memory that lives on a git ref
