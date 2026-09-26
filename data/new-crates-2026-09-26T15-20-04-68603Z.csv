@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T14:19:35.369917Z,omgbase-store,13.1.0,0,0,https://github.com/omgbase/omgbase,"omgbase store: the embedded SQLite database that owns block identity, history and current state — Rust implementation"
+2026-09-26T14:28:23.315686Z,efude-comic,0.1.0,0,0,https://github.com/852wa/Efude,"Comic features for Efude: page setup and guides, panels, effect lines, text and balloons, books."
+2026-09-26T14:28:24.143686Z,efude-core,0.1.0,0,0,https://github.com/852wa/Efude,Core types of the Efude painting app: ink points and shared geometry.
+2026-09-26T14:28:25.579814Z,efude-canvas,0.1.0,0,0,https://github.com/852wa/Efude,"Canvas of the Efude painting app: tiled layers, blending, selections, history and image filters."
+2026-09-26T14:28:26.215228Z,efude-input,0.1.0,0,0,https://github.com/852wa/Efude,"Pen and tablet input for the Efude painting app: pressure, tilt, Windows Ink and WinTab samples, stroke logs."
+2026-09-26T14:28:26.61571Z,efude-stroke,0.1.0,0,0,https://github.com/852wa/Efude,"Stroke building for the Efude painting app: stabilization, spacing and tapers."
+2026-09-26T14:29:47.337647Z,latentmesh-thoughtmap,0.1.0,0,0,https://github.com/ruvnet/RuVector,"DeAR-pattern decentralized capability-grounded reasoning over a shared thought map (PIR WP23, ADR-326). First latentmesh-* crate; extended by ADR-309 WP5 transport crates."
+2026-09-26T14:30:33.021797Z,mcp-gate,0.1.0,0,0,https://github.com/ruvector/ruvector,MCP (Model Context Protocol) server for the Anytime-Valid Coherence Gate
+2026-09-26T14:30:50.671106Z,photonlayer-bench,0.1.0,0,0,https://github.com/ruvnet/ruvector,PhotonLayer reproducible benchmarks + in-Rust mask learner and digital decoder (ADR-260 Phase 4)
+2026-09-26T14:31:08.882536Z,photonlayer-ruvector,0.1.0,0,0,https://github.com/ruvnet/ruvector,"PhotonLayer experiment memory on RuVector: mask/frame embeddings, similarity recall, pass/fail boundary, coherence, RVF receipts (ADR-260 Phase 2)"
+2026-09-26T14:31:17.052565Z,photonlayer-cli,0.1.0,0,0,https://github.com/ruvnet/ruvector,"PhotonLayer command-line studio: run simulations, demos (barcode, edge, privacy gate), benchmarks, and verify receipts (ADR-260)"
+2026-09-26T14:31:25.611216Z,photonlayer-wasm,0.1.0,0,0,https://github.com/ruvnet/ruvector,PhotonLayer WASM bindings for browser optics playback and receipt verification (ADR-260 Phase 3)
+2026-09-26T14:31:35.705856Z,wordval-foxglove-protocol,1.0.3,0,0,https://github.com/codetangxin/wordval,"Foxglove WebSocket protocol v1 wire codec: JSON control messages, binary frames, CDR/ROS 2 schema decoding"
+2026-09-26T14:42:13.670386Z,arabica-model,0.1.0,0,0,,Provider-neutral runtime item and model request vocabulary
+2026-09-26T14:42:28.234934Z,arabica-protocol,0.1.0,0,0,,Canonical Command/Event protocol shared by every Structure module and UI
+2026-09-26T14:42:34.719326Z,ruvector-acorn,2.3.0,0,0,https://github.com/ruvnet/ruvector,ACORN: Predicate-Agnostic Filtered HNSW — interleaved predicate evaluation inside the graph walk for 2-1000x QPS improvement over post-filter patterns at low selectivity
+2026-09-26T14:42:44.657155Z,narraverse,0.2.0,0,0,https://codeberg.org/enmkdev/narraverse,A no-BS TUI for worldbuilding.
+2026-09-26T14:43:16.503943Z,arabica-provider,0.1.0,0,0,,Provider-neutral model boundary and bidirectional API adapters
+2026-09-26T14:43:49.015431Z,arabica-runner,0.1.0,0,0,,Runner environment boundary and local runner implementations
+2026-09-26T14:44:36.313855Z,beggar,0.0.0,0,0,,"Protocol-agnostic recovery for replicated logs: a node that fell behind asks a peer for what it missed, may be refused, retries, and falls back to a snapshot. This version reserves the name; there is…"
+2026-09-26T14:47:57.793557Z,efude-brush,0.1.0,0,0,https://github.com/852wa/Efude,"Brush engine of the Efude painting app: dabs, pressure dynamics, grain, wet mixing and brush files."
+2026-09-26T14:49:26.59615Z,efude-gpu,0.1.0,0,0,https://github.com/852wa/Efude,"GPU painting and compositing for the Efude painting app, built on wgpu."
+2026-09-26T14:54:03.617969Z,ruvector-acorn-wasm,0.1.0,0,0,https://github.com/ruvnet/ruvector,WASM bindings for ruvector-acorn — predicate-agnostic filtered HNSW for browsers and edge runtimes
+2026-09-26T14:54:51.466709Z,loopsmith-run,1.0.0,0,0,https://github.com/bitphill/loopsmith,"The loopsmith run engine: the iteration state machine, dispatch, isolation, recovery, and triggers"
+2026-09-26T14:55:04.74578Z,loopsmith-wizard,1.0.0,0,0,https://github.com/bitphill/loopsmith,"The loopsmith guided wizard: the known-CLI catalog, machine detection, and the terminal interview"
+2026-09-26T14:55:30.145682Z,loopsmith-web,1.0.0,0,0,https://github.com/bitphill/loopsmith,The loopsmith browser UI: a loopback-only axum server over the same config the CLI reads
+2026-09-26T14:56:53.665062Z,wordval-foxglove,1.0.3,0,0,https://github.com/codetangxin/wordval,"Wordval Foxglove WebSocket protocol client: high-performance, low-memory, resilient streaming for foxglove-sdk ws servers"
+2026-09-26T14:57:11.418463Z,cydonia-gui,0.1.17,0,0,https://github.com/crabtalk/cydonia,"The GPUI workspace behind cydonia: projects, boards, articles, sessions and spaces"
+2026-09-26T14:59:04.003965Z,efude-io,0.1.0,0,0,https://github.com/852wa/Efude,"File input and output for the Efude painting app: the .efude format, PSD, PNG and JPEG."
+2026-09-26T15:02:05.420237Z,forceloom,0.0.0,0,0,https://github.com/alptug/ForceLoom,Data analysis library for single-molecule force spectroscopy
+2026-09-26T15:05:49.055287Z,ruvector-agent-memory,0.1.0,0,0,https://github.com/ruvnet/ruvector,"Coherence-weighted agent memory compaction for ruvector: retain important memories using recency, frequency, and semantic coherence"
+2026-09-26T15:08:22.294574Z,hl7v2-types,0.0.0,0,0,https://github.com/rubentalstra/FerroBRIDGE,"Generated HL7 v2 message structure trees, segment field tables, data type components and message definitions"
+2026-09-26T15:10:52.74112Z,efude,0.1.0,0,0,https://github.com/852wa/Efude,"Engine of the Efude painting and manga app: brushes, canvas, input, GPU painting, files and manga tools."
+2026-09-26T15:11:56.562291Z,ferrobridge-hl7v2,0.0.0,0,0,https://github.com/rubentalstra/FerroBRIDGE,"The FerroBRIDGE HL7 v2 face: MLLP framing, MSH-18 decoding, positional parsing over the generated v2 tables, the acknowledgment, and the v2-to-FHIR ConceptMap interpreter"
+2026-09-26T15:12:32.525146Z,arabica-runtime,0.1.0,0,0,,Headless Structure runtime with context management and runner output normalization
+2026-09-26T15:12:47.192788Z,arabica-session,0.1.0,0,0,,"Session lifecycle, scheduling, and canonical event sequencing"
+2026-09-26T15:12:59.355529Z,groupoid_macros,0.1.0,0,0,https://github.com/sagi21805/groupoid,Procedural macros powering the groupoid crate
+2026-09-26T15:13:03.26103Z,groupoid,0.1.0,0,0,https://github.com/sagi21805/groupoid,Typestate based grouping types for Rust
+2026-09-26T15:13:05.170809Z,arabica-adapters,0.1.0,0,0,,Persistence adapters implementing arabica-session's observer/store ports
+2026-09-26T15:13:08.065836Z,omgbase-properties,1.0.0,0,0,https://github.com/omgbase/omgbase,"omgbase document properties: YAML frontmatter, inline `key:: value` fields and computed intrinsics as typed property rows — Rust implementation"
+2026-09-26T15:13:36.52954Z,arabica-server,0.1.0,0,0,,HTTP and SSE host for the Structure Command/Event Protocol
+2026-09-26T15:15:27.4073Z,gitwatch,0.1.0,0,0,https://github.com/0x676e67/gitwatch,Cross-platform Git watching and workspace branch backups
+2026-09-26T15:18:28.404909Z,monetize-product-guest,0.1.4,0,0,https://gunnar.rs/repo/gunnar/monetize,"What a monetize product GUEST compiles against: the op table, the wire types, the host doors (http, grpc, sign, env) and the export_product! scaffolding that turns a Guest into a signed .wasm the ope…"
+2026-09-26T15:18:46.370161Z,ruvector-cluster-rag,2.3.0,0,0,https://github.com/ruvnet/ruvector,Hierarchical cluster-summary retrieval for RuVector: RAPTOR-style two-level tree with coherence-weighted cluster scoring for agent memory RAG
