@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T12:22:18.165508Z,bonsai-lang-python,0.4.1,0,0,https://github.com/ryckakas/bonsai-lint,Python language support for bonsai-lint
+2026-09-26T12:22:22.347365Z,silicon-peek-client,0.1.1,0,0,https://github.com/teamofsilicons/silicon-peek,"Wire types, validators and a stateless HTTP client for Peek; the `runtime` feature adds the per-home store, session refresh and the peekd IPC client"
+2026-09-26T12:22:40.128767Z,silicon-peek-cli,0.1.1,0,0,https://github.com/teamofsilicons/silicon-peek,"The peek command-line interface: IAM login, positions, drawings and speak/show/ask bubbles on a Mac"
+2026-09-26T12:29:48.257471Z,farhand-agent,1.9.0,0,0,https://github.com/Rayrsn/farhand,"Farhand agent daemon: persistent workspace caching, process isolation, and build runner"
+2026-09-26T12:30:09.144259Z,farhand-cli,1.9.0,0,0,https://github.com/Rayrsn/farhand,"Farhand CLI client: offload compilation, test, and build jobs to remote machines"
+2026-09-26T12:34:37.49272Z,konomanoasa-tree-sitter-posix-awk,0.18.0,0,0,https://github.com/konomanoasa/tree-sitter-posix-awk,Tree-sitter grammar for POSIX awk.
+2026-09-26T12:34:39.757828Z,hlin-bridge,0.1.0,0,0,https://github.com/colliery-io/hlin,The Hlin module bridge on the wire: every message between a module's frame and the shell's page
+2026-09-26T12:35:33.158621Z,hlin-module,0.1.0,0,0,https://github.com/colliery-io/hlin,"The SDK for a Leptos module hosted by Hlin: the bridge to the shell, so a module does not know it is in a frame"
+2026-09-26T12:36:45.936729Z,hlin-sample-checklist,0.1.0,0,0,https://github.com/colliery-io/hlin,"A reference platform for Hlin that accepts writes: shared checklists, with rules of their own"
+2026-09-26T12:36:49.742858Z,hlin-sample-feed,0.1.0,0,0,https://github.com/colliery-io/hlin,"A reference platform for Hlin that accepts writes: a feed of posts, and who may write them"
+2026-09-26T12:39:24.588663Z,onthou,0.0.0,0,0,https://github.com/noctonca/onthou,"Onthou (on-TOH), Afrikaans for 'remember': persistent agent memory in Rust"
+2026-09-26T12:49:58.697423Z,konomanoasa-tree-sitter-gitignore,0.2.0,0,0,https://github.com/konomanoasa/tree-sitter-gitignore,Tree-sitter grammar for gitignore.
+2026-09-26T12:53:45.393305Z,unlit_ecs,0.1.0-dev.1,0,0,https://github.com/beicause/unlit3d,"A compact archetype ECS: immutable archetypes, cell-based components, behaviour components instead of systems."
+2026-09-26T12:53:59.388164Z,unlit_wgpu,0.1.0-dev.1,0,0,https://github.com/beicause/unlit3d,"A compact, opinionated WebGPU renderer for unlit draws: resource graph, vertex compression, pooled buffers and a declarative scene, with a built-in unlit pipeline and an egui backend."
+2026-09-26T12:54:27.413728Z,unlit3d,0.1.0-dev.1,0,0,https://github.com/beicause/unlit3d,"The high-level WebGPU rendering API over unlit_wgpu and unlit_ecs: ECS components, frame sources, input, UI and winit presentation."
+2026-09-26T12:58:15.778673Z,conui-cell,0.1.0,0,0,https://github.com/masterela/conui,"Grapheme-aware terminal cell buffer, colors, styles and frame differ for conui"
+2026-09-26T12:58:16.345268Z,conui-input,0.1.0,0,0,https://github.com/masterela/conui,"Incremental terminal input parser: keys, mouse, bracketed paste and focus"
+2026-09-26T12:58:17.45193Z,conui-term,0.1.0,0,0,https://github.com/masterela/conui,"Raw mode, capability detection and a minimal-escape ANSI writer for conui"
+2026-09-26T12:58:19.622467Z,conui,0.1.0,0,0,https://github.com/masterela/conui,A devkit for building console applications with a proper user interface
+2026-09-26T13:01:57.873064Z,authz-details-rs,0.3.0,0,0,https://forge.fedoraproject.org/freeipa/bac-rules,RFC 9396 OAuth 2.0 Rich Authorization Requests evaluation engine
+2026-09-26T13:02:19.341967Z,konomanoasa-tree-sitter-gitconfig,0.2.0,0,0,https://github.com/konomanoasa/tree-sitter-gitconfig,Tree-sitter grammar for gitconfig.
+2026-09-26T13:16:51.380427Z,konomanoasa-tree-sitter-gitattributes,0.1.0,0,0,https://github.com/konomanoasa/tree-sitter-gitattributes,Tree-sitter grammar for gitattributes.
+2026-09-26T13:18:48.33395Z,omgbase-reconcile,2.1.0,0,0,https://github.com/omgbase/omgbase,omgbase reconciliation: keeps block identity across edits — the matcher that decides which blocks carry an id and which are minted — Rust implementation
