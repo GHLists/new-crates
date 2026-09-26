@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T05:23:55.805352Z,active-ragdoll-rs,0.1.0,0,0,https://github.com/bhubbard/active-ragdoll-rs,A high-performance Rust port of Unity.Humanoid.ActiveRagdoll - physical animation and active ragdoll controller
+2026-09-26T05:24:01.177935Z,bullet3-rs,0.1.0,0,0,https://github.com/bhubbard/bullet3-rs,"A high-performance pure Rust port and fork of the Bullet 3 Physics SDK for real-time 3D rigid body dynamics, collision detection, and multi-body constraints"
+2026-09-26T05:25:23.011344Z,godot-core-rs,0.1.0,0,0,https://github.com/bhubbard/godot-rs,"A pure Rust port and fork of the Godot Engine architecture: Core Variant system, SceneTree, Node hierarchy, 2D/3D Math, Servers, and .tscn parser"
+2026-09-26T05:28:20.805712Z,vrobots-sdk-sys,0.1.11,0,0,https://github.com/ubicoders/vrobots-sdk,Raw FFI bindings to the VRobots SDK C library (vrobots_sdk_capi)
+2026-09-26T05:28:47.387407Z,vrobots-sdk,0.1.11,0,0,https://github.com/ubicoders/vrobots-sdk,Rust client SDK for the Ubicoders virtual robots simulator: a safe wrapper over the VRobots SDK C library
+2026-09-26T05:31:41.875596Z,rustress,0.1.0,0,0,https://github.com/addy-47/RuStress,High-performance load testing engine with an interactive terminal dashboard. Open-loop (RPS) and closed-loop (virtual users) load models with live p50/p90/p95/p99 latency telemetry.
+2026-09-26T05:32:05.034959Z,edrv-pmsx003,0.1.0,0,0,https://github.com/embedded-drivers/embedded-drivers,"Driver for Plantower PMSx003 particulate sensors (PMS1003/3003/5003/7003/9003), maintained by the embedded-drivers team"
+2026-09-26T05:32:10.936733Z,edrv-vl53l0x,0.1.0,0,0,https://github.com/embedded-drivers/embedded-drivers,"Driver for VL53L0X time-of-flight distance sensor, maintained by the embedded-drivers team"
+2026-09-26T05:34:37.223708Z,arenaskiplist,0.1.0,0,0,https://github.com/surrealdb/arenaskiplist,"A fast, lock-free, concurrent arena-backed skip list for Rust"
+2026-09-26T05:43:52.319133Z,serverust-auth,0.5.0,0,0,https://github.com/JaimeJunr/serverust,Autenticação e autorização opt-in para serverust: verificação stateless de JWT emitido por IdP externo.
+2026-09-26T05:50:54.225123Z,kornia-calib,0.1.15,0,0,https://github.com/kornia/kornia-rs,"Multi-camera extrinsic calibration: depth-free AprilTag/board bundle adjustment, multi-view feature tracks, per-camera observability, and multi-shot focal self-calibration"
+2026-09-26T05:55:55.112162Z,kanna-core,0.1.0,0,0,https://github.com/odd12258053/kanna,"Dependency-free, panic-free, non-Unicode-safe GNU/POSIX command line lexer. The core of kanna."
+2026-09-26T05:55:55.990422Z,kanna-derive,0.1.0,0,0,https://github.com/odd12258053/kanna,#[derive(Args)] and #[derive(Commands)] for kanna. Enable through kanna's `derive` feature.
+2026-09-26T05:55:58.026069Z,kanna,0.1.0,0,0,https://github.com/odd12258053/kanna,"A layered command line argument parser: a tiny GNU/POSIX-correct core with an optional declarative builder, macro DSL, help, suggestions and derive."
+2026-09-26T05:56:00.559031Z,kanna-complete,0.1.0,0,0,https://github.com/odd12258053/kanna,"Shell completion for kanna commands: static scripts for bash, zsh, fish, PowerShell and nushell, plus runtime completion of values."
+2026-09-26T05:56:01.308082Z,kanna-doc,0.1.0,0,0,https://github.com/odd12258053/kanna,"manpage (roff), Markdown and HTML documentation generated from a kanna command definition."
+2026-09-26T05:59:47.338699Z,kanna-schema,0.1.0,0,0,https://github.com/odd12258053/kanna,Machine-readable JSON description of a kanna command definition.
+2026-09-26T06:00:00.136169Z,pixquare-io,0.1.0,0,0,https://github.com/kudohamu/pixquare-io_rs,A Crate for reading/writing Pixquare files
+2026-09-26T06:02:47.46831Z,arcvec,0.0.1,0,0,,The missing ref-counted container
+2026-09-26T06:18:29.840672Z,euv-example,0.26.5,0,0,https://github.com/euv-dev/euv.git,"An example application demonstrating the euv UI framework with reactive signals, custom components, and WebAssembly."
