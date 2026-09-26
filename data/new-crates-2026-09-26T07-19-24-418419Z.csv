@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T06:24:56.194009Z,shodo,0.0.0,0,0,https://github.com/fulgur-rs/shodo,Text typesetting library for raikiri (work in progress)
+2026-09-26T06:31:30.493223Z,gdget,0.2.0,0,0,https://github.com/DevPrice/gdget,Install pinned Godot addon dependencies from a committed manifest
+2026-09-26T06:36:38.118172Z,orbyt,0.0.1,0,0,https://github.com/orbyt-sh/orbyt,Orbyt — a decision engine (Rust runtime). Coming soon: https://orbyt.sh
+2026-09-26T06:36:46.971253Z,orbyt-sh,0.0.1,0,0,https://github.com/orbyt-sh/orbyt,Alias of the orbyt crate. Use: cargo add orbyt — https://orbyt.sh
+2026-09-26T06:37:30.192774Z,jevia-core,0.1.0,0,0,https://github.com/assistant-ui/jevia,Core routing contracts and Jev client for Jevia
+2026-09-26T06:37:31.898947Z,jevia,0.1.0,0,0,https://github.com/assistant-ui/jevia,Outcome-aware model routing CLI
+2026-09-26T06:37:43.422619Z,morphir-config,0.0.1,0,0,https://github.com/finos/morphir-rust,"Portable Morphir configuration parsing, merge, and environment rules"
+2026-09-26T06:37:56.719147Z,dexbot-utils,0.2.4,0,0,https://github.com/dexmate-ai/dexbot-utils,"Canonical robot profiles, configuration resolution, and URDF metadata for Dexmate robots"
+2026-09-26T06:39:19.299514Z,pixelmap_multiview,0.1.0,0,0,https://github.com/d4per/pixelmap,"3D reconstruction from three or more photos: dense pixelmap correspondence, camera registration, bundle adjustment, depth fusion and texturing"
+2026-09-26T06:41:25.646237Z,tui2web,0.1.0,0,0,https://github.com/randymarsh77/tui2web,Run ratatui TUI applications in the browser via WebAssembly
+2026-09-26T06:45:03.202064Z,whistlr,0.0.1,0,0,https://github.com/chenweiss/whistlr,Durable agent runs and cross-provider workflows for herdr
+2026-09-26T06:56:28.46126Z,sst-link-derive,0.1.0,0,0,https://github.com/insd47/sst-link,Derive macro for sst-link
+2026-09-26T06:56:44.126155Z,sst-link,0.1.0,0,0,https://github.com/insd47/sst-link,"Load every SST link into one typed struct. Missing links fail at cold start, by name."
+2026-09-26T06:57:19.79091Z,sqlx-cloudflare-core,0.1.0,0,0,https://github.com/sqlx-contrib/sqlx-cloudflare,Shared internals of the sqlx-cloudflare drivers; use sqlx-cloudflare-d1 or sqlx-cloudflare-do
+2026-09-26T06:57:24.823853Z,sqlx-cloudflare-d1,0.1.0,0,0,https://github.com/sqlx-contrib/sqlx-cloudflare,A Cloudflare D1 driver for sqlx: an sqlx::Database over the Workers D1 binding
+2026-09-26T06:57:26.326448Z,sqlx-cloudflare-do,0.1.0,0,0,https://github.com/sqlx-contrib/sqlx-cloudflare,A Cloudflare Durable Objects driver for sqlx: an sqlx::Database over a Durable Object's SQL storage
+2026-09-26T06:58:44.654378Z,edrv-bme680,0.1.0,0,0,https://github.com/embedded-drivers/embedded-drivers,"Driver for the BME680 temperature, humidity, pressure and gas sensor, maintained by the embedded-drivers team"
+2026-09-26T06:58:48.378077Z,edrv-spl06,0.1.0,0,0,https://github.com/embedded-drivers/embedded-drivers,"Driver for the Goertek SPL06-001 and register-compatible SPL06-007 barometric pressure sensor, maintained by the embedded-drivers team"
+2026-09-26T06:59:03.354643Z,BREP_ecad_core,0.1.0,0,0,https://github.com/mmiscool/NURBS_BREP_kernel,"Schematic, wiring diagram, and board documents, symbol import, and connectivity, with no UI."
+2026-09-26T06:59:12.17456Z,BREP_script_core,0.1.0,0,0,https://github.com/mmiscool/NURBS_BREP_kernel,"The BREP script interpreter core: evaluate one JavaScript file on Boa, call one global function with one JSON argument, and return its JSON result or its refusal. Shared by the PLM server's hooks and…"
+2026-09-26T06:59:16.581439Z,BREP_docs,0.1.0,0,0,https://github.com/mmiscool/NURBS_BREP_kernel,"The static HTML help-site generator for the BREP CAD application: renders a BREP source tree's user docs, icons and licence notices into a searchable site."
+2026-09-26T07:01:19.418455Z,BREP_ecad_egui,0.1.0,0,0,https://github.com/mmiscool/NURBS_BREP_kernel,"Embeddable egui editors for schematics, wiring diagrams, boards, symbols, and pads."
+2026-09-26T07:01:35.593214Z,BREP_plm,0.1.0,0,0,https://github.com/mmiscool/NURBS_BREP_kernel,"The BREP PLM server: parts, revisions, lifecycle, checkout, BOMs and change orders over an embedded SQLite store, with a browser UI and the document API the BREP CAD app stores through."
