@@ -8,37 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 13:18 UTC
+## Latest list — 2026-09-26 14:19 UTC
 
-New crates published between 2026-09-26 12:19 UTC and 2026-09-26 13:18 UTC.
+New crates published between 2026-09-26 13:18 UTC and 2026-09-26 14:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-26T13-18-56-095733Z.csv)
+[Full CSV](data/new-crates-2026-09-26T14-19-01-756608Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-26 12:22:18 | [bonsai-lang-python](https://crates.io/crates/bonsai-lang-python) | 0.4.1 | 0 | Python language support for bonsai-lint |
-| 2026-09-26 12:22:22 | [silicon-peek-client](https://crates.io/crates/silicon-peek-client) | 0.1.1 | 0 | Wire types, validators and a stateless HTTP client for Peek; the `runtime` feat… |
-| 2026-09-26 12:22:40 | [silicon-peek-cli](https://crates.io/crates/silicon-peek-cli) | 0.1.1 | 0 | The peek command-line interface: IAM login, positions, drawings and speak/show/… |
-| 2026-09-26 12:29:48 | [farhand-agent](https://crates.io/crates/farhand-agent) | 1.9.0 | 0 | Farhand agent daemon: persistent workspace caching, process isolation, and buil… |
-| 2026-09-26 12:30:09 | [farhand-cli](https://crates.io/crates/farhand-cli) | 1.9.0 | 0 | Farhand CLI client: offload compilation, test, and build jobs to remote machines |
-| 2026-09-26 12:34:37 | [konomanoasa-tree-sitter-posix-awk](https://crates.io/crates/konomanoasa-tree-sitter-posix-awk) | 0.18.0 | 0 | Tree-sitter grammar for POSIX awk. |
-| 2026-09-26 12:34:39 | [hlin-bridge](https://crates.io/crates/hlin-bridge) | 0.1.0 | 0 | The Hlin module bridge on the wire: every message between a module's frame and… |
-| 2026-09-26 12:35:33 | [hlin-module](https://crates.io/crates/hlin-module) | 0.1.0 | 0 | The SDK for a Leptos module hosted by Hlin: the bridge to the shell, so a modul… |
-| 2026-09-26 12:36:45 | [hlin-sample-checklist](https://crates.io/crates/hlin-sample-checklist) | 0.1.0 | 0 | A reference platform for Hlin that accepts writes: shared checklists, with rule… |
-| 2026-09-26 12:36:49 | [hlin-sample-feed](https://crates.io/crates/hlin-sample-feed) | 0.1.0 | 0 | A reference platform for Hlin that accepts writes: a feed of posts, and who may… |
-| 2026-09-26 12:39:24 | [onthou](https://crates.io/crates/onthou) | 0.0.0 | 0 | Onthou (on-TOH), Afrikaans for 'remember': persistent agent memory in Rust |
-| 2026-09-26 12:49:58 | [konomanoasa-tree-sitter-gitignore](https://crates.io/crates/konomanoasa-tree-sitter-gitignore) | 0.2.0 | 0 | Tree-sitter grammar for gitignore. |
-| 2026-09-26 12:53:45 | [unlit_ecs](https://crates.io/crates/unlit_ecs) | 0.1.0-dev.1 | 0 | A compact archetype ECS: immutable archetypes, cell-based components, behaviour… |
-| 2026-09-26 12:53:59 | [unlit_wgpu](https://crates.io/crates/unlit_wgpu) | 0.1.0-dev.1 | 0 | A compact, opinionated WebGPU renderer for unlit draws: resource graph, vertex… |
-| 2026-09-26 12:54:27 | [unlit3d](https://crates.io/crates/unlit3d) | 0.1.0-dev.1 | 0 | The high-level WebGPU rendering API over unlit_wgpu and unlit_ecs: ECS componen… |
-| 2026-09-26 12:58:15 | [conui-cell](https://crates.io/crates/conui-cell) | 0.1.0 | 0 | Grapheme-aware terminal cell buffer, colors, styles and frame differ for conui |
-| 2026-09-26 12:58:16 | [conui-input](https://crates.io/crates/conui-input) | 0.1.0 | 0 | Incremental terminal input parser: keys, mouse, bracketed paste and focus |
-| 2026-09-26 12:58:17 | [conui-term](https://crates.io/crates/conui-term) | 0.1.0 | 0 | Raw mode, capability detection and a minimal-escape ANSI writer for conui |
-| 2026-09-26 12:58:19 | [conui](https://crates.io/crates/conui) | 0.1.0 | 0 | A devkit for building console applications with a proper user interface |
-| 2026-09-26 13:01:57 | [authz-details-rs](https://crates.io/crates/authz-details-rs) | 0.3.0 | 0 | RFC 9396 OAuth 2.0 Rich Authorization Requests evaluation engine |
-| 2026-09-26 13:02:19 | [konomanoasa-tree-sitter-gitconfig](https://crates.io/crates/konomanoasa-tree-sitter-gitconfig) | 0.2.0 | 0 | Tree-sitter grammar for gitconfig. |
-| 2026-09-26 13:16:51 | [konomanoasa-tree-sitter-gitattributes](https://crates.io/crates/konomanoasa-tree-sitter-gitattributes) | 0.1.0 | 0 | Tree-sitter grammar for gitattributes. |
-| 2026-09-26 13:18:48 | [omgbase-reconcile](https://crates.io/crates/omgbase-reconcile) | 2.1.0 | 0 | omgbase reconciliation: keeps block identity across edits — the matcher that de… |
+| 2026-09-26 13:22:21 | [nololib](https://crates.io/crates/nololib) | 0.1.0 | 0 | A Rust library to call functions across networked devices |
+| 2026-09-26 13:25:23 | [structure-session](https://crates.io/crates/structure-session) | 0.1.0 | 0 | Session lifecycle, scheduling, and canonical event sequencing |
+| 2026-09-26 13:25:29 | [gantz_rng](https://crates.io/crates/gantz_rng) | 0.0.0 | 0 | Seeded, stateless random numbers for gantz, as a Rust core and a Steel module. |
+| 2026-09-26 13:25:50 | [structure-adapters](https://crates.io/crates/structure-adapters) | 0.1.0 | 0 | Persistence adapters implementing structure-session's observer/store ports |
+| 2026-09-26 13:26:01 | [konomanoasa-tree-sitter-editorconfig](https://crates.io/crates/konomanoasa-tree-sitter-editorconfig) | 0.4.0 | 0 | Tree-sitter grammar for EditorConfig. |
+| 2026-09-26 13:26:22 | [structure-server](https://crates.io/crates/structure-server) | 0.1.0 | 0 | HTTP and SSE host for the Structure Command/Event Protocol |
+| 2026-09-26 13:26:49 | [arabica](https://crates.io/crates/arabica) | 0.1.0 | 0 | Arabica: the Structure coding agent terminal host - fullscreen TUI chat, ACP fo… |
+| 2026-09-26 13:30:18 | [jh-tencent-api](https://crates.io/crates/jh-tencent-api) | 0.1.0 | 0 | Tencent Cloud API client library and CLI made by Jinhui ZHANG. Currently suppor… |
+| 2026-09-26 13:31:38 | [sim-logic](https://crates.io/crates/sim-logic) | 0.1.0 | 0 | A code-first application and logic layer for Sim;Engine |
+| 2026-09-26 13:32:59 | [pgfsm-async-worker-sdk](https://crates.io/crates/pgfsm-async-worker-sdk) | 0.1.0 | 0 | Rust worker SDK for the pgfsm Activity Gateway: registers actors and serves inv… |
+| 2026-09-26 13:35:25 | [delarocha](https://crates.io/crates/delarocha) | 0.1.0 | 0 | Japanese morphological analyzer (MeCab/Vibrato-compatible tokenizer) in Rust wi… |
+| 2026-09-26 13:38:09 | [trusty-cli](https://crates.io/crates/trusty-cli) | 0.1.0 | 0 | Command-line client for Trustify |
+| 2026-09-26 13:40:41 | [transparent-wrapper-derive](https://crates.io/crates/transparent-wrapper-derive) | 0.1.0 | 0 | Implements the derive macro used by `transparent-wrapper` crate |
+| 2026-09-26 13:40:44 | [transparent-wrapper](https://crates.io/crates/transparent-wrapper) | 0.1.0 | 0 | Zero-cost conversions between transparent wrappers and their inner types, usabl… |
+| 2026-09-26 13:42:30 | [stainlib](https://crates.io/crates/stainlib) | 0.1.0 | 0 | Stain deconvolution and normalization for RGB histology images |
+| 2026-09-26 13:43:18 | [iced-cube](https://crates.io/crates/iced-cube) | 0.0.1 | 0 | Themeable application components for the iced GUI library, with Lucide icons |
+| 2026-09-26 13:43:54 | [array-reshape](https://crates.io/crates/array-reshape) | 0.1.1 | 0 | Reshape arrays by value, by reference and by mutable reference in const fn |
+| 2026-09-26 13:44:07 | [tc_aria](https://crates.io/crates/tc_aria) | 0.1.0 | 0 | ARIA-128, ARIA-192 and ARIA-256 block ciphers (RFC 5794) with table-based and R… |
+| 2026-09-26 13:44:27 | [tc_block_modes](https://crates.io/crates/tc_block_modes) | 0.1.0 | 0 | ECB, CBC, CFB, OFB and CTR block cipher modes of operation for engines implemen… |
+| 2026-09-26 13:49:55 | [l2s1-llama-sys](https://crates.io/crates/l2s1-llama-sys) | 0.1.1 | 0 | Pinned llama.cpp native backend for L2S1 |
+| 2026-09-26 13:50:04 | [l2s1](https://crates.io/crates/l2s1) | 0.1.1 | 0 | Typed decisions from local GGUF chat model logits |
+| 2026-09-26 14:08:40 | [crp_diag](https://crates.io/crates/crp_diag) | 0.4.0 | 0 | Diagnostic implementation for cargo-release-plan - do not reference directly |
+| 2026-09-26 14:08:43 | [crp_workspace](https://crates.io/crates/crp_workspace) | 0.4.0 | 0 | Workspace implementation for cargo-release-plan - do not reference directly |
+| 2026-09-26 14:08:45 | [crp_native](https://crates.io/crates/crp_native) | 0.4.0 | 0 | Native execution for cargo-release-plan - do not reference directly |
+| 2026-09-26 14:08:46 | [crp_versioning](https://crates.io/crates/crp_versioning) | 0.4.0 | 0 | Versioning implementation for cargo-release-plan - do not reference directly |
+| 2026-09-26 14:08:49 | [crp_publication](https://crates.io/crates/crp_publication) | 0.4.0 | 0 | Publication implementation for cargo-release-plan - do not reference directly |
+| 2026-09-26 14:10:41 | [avatar](https://crates.io/crates/avatar) | 0.1.0 | 0 | 👦 A highly customizable avatar component for WASM frameworks like Yew, Dioxus,… |
+| 2026-09-26 14:11:15 | [guest-host](https://crates.io/crates/guest-host) | 0.1.0 | 0 | The reusable mechanics of hosting an untrusted wasm32 guest: CPU fuel + wall-cl… |
 
 ## Data source
 
