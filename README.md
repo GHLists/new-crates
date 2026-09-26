@@ -8,30 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 10:18 UTC
+## Latest list — 2026-09-26 11:19 UTC
 
-New crates published between 2026-09-26 09:20 UTC and 2026-09-26 10:18 UTC.
+New crates published between 2026-09-26 10:18 UTC and 2026-09-26 11:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-26T10-18-56-000369Z.csv)
+[Full CSV](data/new-crates-2026-09-26T11-19-36-867194Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-26 09:37:14 | [omw-test](https://crates.io/crates/omw-test) | 0.1.2 | 0 | OMW = OpenAI + MCP + WASM |
-| 2026-09-26 09:38:26 | [roncho](https://crates.io/crates/roncho) | 1.0.0 | 0 | Rust SDK for Honcho — persistent, reasoning-based memory for agents |
-| 2026-09-26 09:41:08 | [fastmash-numeric-contract](https://crates.io/crates/fastmash-numeric-contract) | 0.0.0 | 0 | Part of Fastmash (https://fastmash.io). Reserved; the first release is 0.1.0. |
-| 2026-09-26 09:41:11 | [fastmash-conversion](https://crates.io/crates/fastmash-conversion) | 0.0.0 | 0 | Part of Fastmash (https://fastmash.io). Reserved; the first release is 0.1.0. |
-| 2026-09-26 09:41:13 | [fastmash-portable-numerics](https://crates.io/crates/fastmash-portable-numerics) | 0.0.0 | 0 | Part of Fastmash (https://fastmash.io). Reserved; the first release is 0.1.0. |
-| 2026-09-26 09:41:16 | [fastmash-sort-process](https://crates.io/crates/fastmash-sort-process) | 0.0.0 | 0 | Part of Fastmash (https://fastmash.io). Reserved; the first release is 0.1.0. |
-| 2026-09-26 09:46:41 | [taskguard](https://crates.io/crates/taskguard) | 0.1.6 | 0 | A sem that learns what each job needs: start a command only when the machine ha… |
-| 2026-09-26 09:48:01 | [rbirds](https://crates.io/crates/rbirds) | 0.1.0 | 0 | A Rust port of cbirds 1.4.0: a flock of birds in your terminal |
-| 2026-09-26 09:51:55 | [sinomo-ui-nodes](https://crates.io/crates/sinomo-ui-nodes) | 0.3.0 | 0 | Interactive node graph editor widgets for SUI. |
-| 2026-09-26 09:52:03 | [sinomo-ui-webview](https://crates.io/crates/sinomo-ui-webview) | 0.3.0 | 0 | Minimal native embedded webview support for SUI. |
-| 2026-09-26 09:52:30 | [holstered](https://crates.io/crates/holstered) | 1.0.0 | 0 | Hands your coding agent the right skill for each prompt: BM25 recall + the Jev… |
-| 2026-09-26 09:58:07 | [fluxgit-mcp-sidecar](https://crates.io/crates/fluxgit-mcp-sidecar) | 0.1.0 | 0 | Safety-first Git MCP server: rich read tools plus human-approved FluxGit operat… |
-| 2026-09-26 09:58:33 | [typex_derive](https://crates.io/crates/typex_derive) | 0.1.0 | 0 | Derive macros for runtime type introspection and structural access |
-| 2026-09-26 09:58:54 | [typex](https://crates.io/crates/typex) | 0.1.0 | 0 | Runtime reflection: inspection, traversal, equality and mutation |
-| 2026-09-26 10:00:20 | [rs-rich-plugin-api](https://crates.io/crates/rs-rich-plugin-api) | 0.0.1 | 0 | The plugin contract for the `rich` Rust port: register highlighters, themes, bo… |
-| 2026-09-26 10:02:42 | [rust_aide](https://crates.io/crates/rust_aide) | 0.1.0 | 0 | A powerful, opinionated framework for building resilient Rust backends with bui… |
+| 2026-09-26 10:21:02 | [konomanoasa-tree-sitter-yaml](https://crates.io/crates/konomanoasa-tree-sitter-yaml) | 0.2.0 | 0 | Tree-sitter grammar for YAML. |
+| 2026-09-26 10:22:10 | [rs-rich-mermaid](https://crates.io/crates/rs-rich-mermaid) | 0.0.1 | 0 | Mermaid diagrams for the `rich` Rust port: flowcharts drawn as text, and every… |
+| 2026-09-26 10:23:49 | [marustdown](https://crates.io/crates/marustdown) | 0.1.0 | 0 | A fast, configurable terminal markdown viewer with syntax highlighting, task to… |
+| 2026-09-26 10:25:13 | [rs-rich-lumis](https://crates.io/crates/rs-rich-lumis) | 0.0.1 | 0 | The lumis (tree-sitter) syntax highlighter for the `rich` Rust port, with Neovi… |
+| 2026-09-26 10:43:55 | [format198x-sinclair-zx-spectrum-bas](https://crates.io/crates/format198x-sinclair-zx-spectrum-bas) | 0.1.0 | 0 | ZX Spectrum BASIC — tokenise numbered text listings into stored program bytes,… |
+| 2026-09-26 10:44:03 | [format198x-commodore-c64-bas](https://crates.io/crates/format198x-commodore-c64-bas) | 0.1.0 | 0 | Commodore 64 BASIC V2 — tokenise numbered text listings into a PRG, and list th… |
+| 2026-09-26 10:58:02 | [rust-store-core](https://crates.io/crates/rust-store-core) | 2.1.1 | 0 | One data engine for MongoDB, MySQL, PostgreSQL and SQLite: a MongoDB-style GQL… |
+| 2026-09-26 10:58:32 | [konomanoasa-tree-sitter-toml](https://crates.io/crates/konomanoasa-tree-sitter-toml) | 0.5.0 | 0 | Tree-sitter grammar for TOML. |
+| 2026-09-26 10:59:34 | [defmt-nop](https://crates.io/crates/defmt-nop) | 0.1.0 | 0 | A logging backend for defmt that does nothing but does provide the linker symbo… |
+| 2026-09-26 10:59:37 | [fidoh-core](https://crates.io/crates/fidoh-core) | 0.1.0 | 0 | CTAP2 data model, canonical CBOR, status codes, and the async trait layer — cle… |
+| 2026-09-26 10:59:50 | [actl-core](https://crates.io/crates/actl-core) | 0.1.1 | 0 | Protocol layer: JSON envelope, error codes, ref semantics (platform-free) |
+| 2026-09-26 11:00:21 | [tempus-ddb](https://crates.io/crates/tempus-ddb) | 0.5.3 | 0 | Local-first B2A security gate with tamper-evident execution receipts |
+| 2026-09-26 11:01:39 | [actl-uia](https://crates.io/crates/actl-uia) | 0.1.1 | 0 | Windows UIA backend: the ONLY crate allowed to touch COM/unsafe |
+| 2026-09-26 11:02:10 | [actl-cli](https://crates.io/crates/actl-cli) | 0.1.1 | 0 | actl: AI-native Windows desktop control CLI for agents - UIA-precise, JSON-veri… |
+| 2026-09-26 11:05:27 | [arrix-core](https://crates.io/crates/arrix-core) | 0.0.0 | 0 | Name reserved for ArriX, a free pure-Rust parametric CAD on the Arris kernel. N… |
+| 2026-09-26 11:05:31 | [arrix-plugin-api](https://crates.io/crates/arrix-plugin-api) | 0.0.0 | 0 | Name reserved for ArriX, a free pure-Rust parametric CAD on the Arris kernel. N… |
+| 2026-09-26 11:05:33 | [arrix](https://crates.io/crates/arrix) | 0.0.0 | 0 | Name reserved for ArriX, a free pure-Rust parametric CAD on the Arris kernel. N… |
+| 2026-09-26 11:08:36 | [bootintel](https://crates.io/crates/bootintel) | 0.4.2 | 0 | Interactive UART capture + streaming boot-log analysis. Free scan + share; serv… |
+| 2026-09-26 11:14:57 | [tapedeck-cli](https://crates.io/crates/tapedeck-cli) | 0.2.0 | 0 | Script-driven dual-mode media recorder: declarative .roll scripts driving TUI (… |
 
 ## Data source
 

@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T10:21:02.041696Z,konomanoasa-tree-sitter-yaml,0.2.0,0,0,https://github.com/konomanoasa/tree-sitter-yaml,Tree-sitter grammar for YAML.
+2026-09-26T10:22:10.324891Z,rs-rich-mermaid,0.0.1,0,0,https://github.com/buchochelliq-labs/rs-rich-cli,"Mermaid diagrams for the `rich` Rust port: flowcharts drawn as text, and every diagram type through mermaid-cli"
+2026-09-26T10:23:49.389866Z,marustdown,0.1.0,0,0,https://github.com/beshralghalil/marustdown,"A fast, configurable terminal markdown viewer with syntax highlighting, task toggling and keyboard link following"
+2026-09-26T10:25:13.419002Z,rs-rich-lumis,0.0.1,0,0,https://github.com/buchochelliq-labs/rs-rich-cli,"The lumis (tree-sitter) syntax highlighter for the `rich` Rust port, with Neovim themes and ANSI themes"
+2026-09-26T10:43:55.233069Z,format198x-sinclair-zx-spectrum-bas,0.1.0,0,0,https://github.com/format198x/format198x,"ZX Spectrum BASIC — tokenise numbered text listings into stored program bytes, and list them as the ROM does."
+2026-09-26T10:44:03.822705Z,format198x-commodore-c64-bas,0.1.0,0,0,https://github.com/format198x/format198x,"Commodore 64 BASIC V2 — tokenise numbered text listings into a PRG, and list them as the machine does."
+2026-09-26T10:58:02.477603Z,rust-store-core,2.1.1,0,0,https://github.com/coenddt/rust-store,"One data engine for MongoDB, MySQL, PostgreSQL and SQLite: a MongoDB-style GQL query language, permission checks, computed columns, command planning and SQL dialect translation. Pure logic, no IO."
+2026-09-26T10:58:32.90432Z,konomanoasa-tree-sitter-toml,0.5.0,0,0,https://github.com/konomanoasa/tree-sitter-toml,Tree-sitter grammar for TOML.
+2026-09-26T10:59:34.804862Z,defmt-nop,0.1.0,0,0,https://github.com/shimunn/defmt-nop,"A logging backend for defmt that does nothing but does provide the linker symbols required by defmt, avoiding the linker error"
+2026-09-26T10:59:37.550129Z,fidoh-core,0.1.0,0,0,https://github.com/donicrosby/fidoh,"CTAP2 data model, canonical CBOR, status codes, and the async trait layer — cleanroom, no_std-friendly core of fidoh"
+2026-09-26T10:59:50.876544Z,actl-core,0.1.1,0,0,https://github.com/gqy20/actl,"Protocol layer: JSON envelope, error codes, ref semantics (platform-free)"
+2026-09-26T11:00:21.259321Z,tempus-ddb,0.5.3,0,0,https://github.com/elbuilder77/tempus-ddb,Local-first B2A security gate with tamper-evident execution receipts
+2026-09-26T11:01:39.617356Z,actl-uia,0.1.1,0,0,https://github.com/gqy20/actl,Windows UIA backend: the ONLY crate allowed to touch COM/unsafe
+2026-09-26T11:02:10.74174Z,actl-cli,0.1.1,0,0,https://github.com/gqy20/actl,"actl: AI-native Windows desktop control CLI for agents - UIA-precise, JSON-verifiable, no screenshots"
+2026-09-26T11:05:27.661868Z,arrix-core,0.0.0,0,0,https://github.com/Divelix/arrix,"Name reserved for ArriX, a free pure-Rust parametric CAD on the Arris kernel. Nothing usable yet."
+2026-09-26T11:05:31.279338Z,arrix-plugin-api,0.0.0,0,0,https://github.com/Divelix/arrix,"Name reserved for ArriX, a free pure-Rust parametric CAD on the Arris kernel. Nothing usable yet."
+2026-09-26T11:05:33.43112Z,arrix,0.0.0,0,0,https://github.com/Divelix/arrix,"Name reserved for ArriX, a free pure-Rust parametric CAD on the Arris kernel. Nothing usable yet."
+2026-09-26T11:08:36.401387Z,bootintel,0.4.2,0,0,https://github.com/bootintel/cli,Interactive UART capture + streaming boot-log analysis. Free scan + share; server-side CVE matching + exploit paths via bootintel.com API.
+2026-09-26T11:14:57.074399Z,tapedeck-cli,0.2.0,0,0,https://github.com/cawa0505/tapedeck,Script-driven dual-mode media recorder: declarative .roll scripts driving TUI (vhs) and native Wayland window recording
