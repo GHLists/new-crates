@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T08:20:52.908683Z,kern-sandbox,0.0.1,0,0,https://github.com/getkern/kern,"Name placeholder. The kern sandbox ships as kern-sandbox on PyPI and npm, and the runtime is a static binary; there is no Rust crate to install here."
+2026-09-26T08:24:13.935155Z,toyos-ld,0.2.0,0,0,https://github.com/ToyOSOrg/ToyOS,"ToyOS's linker: resolves libraries, combines object files and produces executables, for the ToyOS C toolchain and the upstream x86_64-unknown-toyos Rust target."
+2026-09-26T08:28:12.045699Z,ssh-stamp-esp32-boards,1.0.4,0,0,https://github.com/brainstorm/ssh-stamp,Board Support Package — per-PCB pin mappings for ssh-stamp-esp32
+2026-09-26T08:28:12.556955Z,ssh-stamp-hal,1.0.4,0,0,https://github.com/brainstorm/ssh-stamp,Hardware Abstraction Layer traits for ssh-stamp
+2026-09-26T08:28:14.447436Z,ssh-stamp-ota,1.0.4,0,0,https://github.com/brainstorm/ssh-stamp,SFTP-based over-the-air firmware updates for ssh-stamp
+2026-09-26T08:28:16.904774Z,ssh-stamp,1.0.4,0,0,https://github.com/brainstorm/ssh-stamp,SSH to UART bridge firmware core for microcontrollers
+2026-09-26T08:28:19.549388Z,ssh-stamp-esp32,1.0.4,0,0,https://github.com/brainstorm/ssh-stamp,ESP32 implementation of the ssh-stamp-hal traits and bootable binary for ssh-stamp
+2026-09-26T08:28:22.59203Z,rinx,0.0.1,0,0,https://github.com/nachstedt/rinx,"Placeholder; the first release, 0.1.0, is coming soon."
+2026-09-26T08:31:55.049765Z,bootintel-detectors,0.4.1,0,0,https://github.com/bootintel/cli,"Client-side boot-log detectors for BootIntel — bootloader / kernel / SoC / exposure identification. Pure regex library, no I/O."
+2026-09-26T08:32:28.811159Z,bootintel-cli,0.4.1,0,0,https://github.com/bootintel/cli,Interactive UART capture + streaming boot-log analysis. Free scan + share; server-side CVE matching + exploit paths via bootintel.com API.
+2026-09-26T08:32:29.530013Z,ssr-client-rs,0.1.0,0,0,https://github.com/liangzhaoyuan12/ssr-client-rs,"Byte-compatible ShadowsocksR (SSR-N) client library: crypto, protocol, obfs and async TCP/UDP relay, ported from ssr-n"
+2026-09-26T08:38:44.358235Z,kern-cli,0.0.1,0,0,https://github.com/getkern/kern,Name reserved for the kern CLI. kern is a rootless container runtime that installs as a static binary from getkern.dev; this crate is a placeholder until the runtime publishes here.
+2026-09-26T08:44:17.318896Z,nordisk-pairing,0.5.2,0,0,https://codeberg.org/nordisk/Skidbladnir,"The boxes of an estate find each other: a seed each box is installed with, a one-time join against the front, a tunnel (WireGuard by default) they meet inside, roles decided once, a pairing loop each…"
+2026-09-26T08:44:36.0921Z,smolvm-checkpoint,1.19.1,0,0,https://github.com/smol-machines/smolvm,Incremental checkpoint storage and portable export for SmolVM
+2026-09-26T08:59:22.249172Z,rungbot-notify,0.5.6,0,0,https://github.com/renezander030/rungbot,"Notifications for rungbot: email through the Resend HTTP API, Telegram and a webhook, with signal-notice dedupe. Holds no venue key and signs nothing."
+2026-09-26T08:59:25.181099Z,rungbot-research,0.5.6,0,0,https://github.com/renezander030/rungbot,"Weekly research for rungbot: a dislocation scan, a value index, a catalyst and survivor pass through an LLM command you name, an unlock calendar, and a regime-driven report by email. Holds no venue k…"
+2026-09-26T08:59:28.290688Z,rungbot-backtest,0.5.6,0,0,https://github.com/renezander030/rungbot,"Backtests and historical replays for the rungbot ladder: as-configured window runs, variant sweeps, a multi-window monthly verdict and cycle-top studies. Pure computation over price history."
+2026-09-26T09:00:01.772057Z,ze,0.1.0,0,0,,"Random German words: nouns with gender, adjectives, verbs, compound nouns and phrases."
+2026-09-26T09:11:00.781969Z,token-saver-core,1.0.0,0,0,https://github.com/Farukes/Token-Saver,High-performance AST and token optimization engine for AI coding assistants
+2026-09-26T09:12:43.372173Z,token-saver,1.0.0,0,0,https://github.com/Farukes/Token-Saver,"Zero-cost, zero-latency token optimization engine and intelligent MCP middleware"
+2026-09-26T09:17:29.583088Z,pastor-cli,0.5.0,0,0,https://github.com/cacarico/pastor,"Run coding agents on machines you own, through herdr"

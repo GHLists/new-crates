@@ -8,29 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 08:19 UTC
+## Latest list — 2026-09-26 09:20 UTC
 
-New crates published between 2026-09-26 07:19 UTC and 2026-09-26 08:19 UTC.
+New crates published between 2026-09-26 08:19 UTC and 2026-09-26 09:20 UTC.
 
-[Full CSV](data/new-crates-2026-09-26T08-19-01-863895Z.csv)
+[Full CSV](data/new-crates-2026-09-26T09-20-00-994384Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-26 07:21:23 | [solana_util](https://crates.io/crates/solana_util) | 0.1.3 | 0 | A short description of your Solana utility library |
-| 2026-09-26 07:23:25 | [xlr](https://crates.io/crates/xlr) | 0.0.1 | 0 | An opinionated CLI for letting people and AI agents control a pro audio setup. |
-| 2026-09-26 07:25:56 | [qrlkit](https://crates.io/crates/qrlkit) | 0.4.0 | 0 | Quick Resource Locator: open named URLs from imported TOML files |
-| 2026-09-26 07:30:28 | [puu](https://crates.io/crates/puu) | 0.1.0 | 0 | Render JSON Schema for humans |
-| 2026-09-26 07:31:38 | [morphir-workspace](https://crates.io/crates/morphir-workspace) | 0.2.0 | 0 | Portable, root-confined Morphir workspace discovery |
-| 2026-09-26 07:31:54 | [morphir-core](https://crates.io/crates/morphir-core) | 0.2.0 | 0 | Morphir core model definitions and utilities |
-| 2026-09-26 07:33:02 | [morphir-projection](https://crates.io/crates/morphir-projection) | 0.1.0 | 0 | Shared Morphir IR normalization for backend extensions |
-| 2026-09-26 07:33:03 | [morphir-extension-sdk](https://crates.io/crates/morphir-extension-sdk) | 0.2.0 | 0 | SDK for building Morphir extensions as WASM plugins |
-| 2026-09-26 07:49:20 | [xe-gmi](https://crates.io/crates/xe-gmi) | 0.2.3 | 0 | GPU management CLI for Intel GPUs driven by the xe kernel driver: query, monito… |
-| 2026-09-26 07:54:10 | [rustow](https://crates.io/crates/rustow) | 0.1.0 | 0 | A Rust implementation of GNU Stow. |
-| 2026-09-26 07:56:03 | [tsaur-core](https://crates.io/crates/tsaur-core) | 1.0.0-rc.1 | 0 | T-saur (.tsr): a content-addressed, agent-first archive format — core library |
-| 2026-09-26 07:56:20 | [tsaur](https://crates.io/crates/tsaur) | 1.0.0-rc.1 | 0 | T-saur (.tsr) command-line archiver: content-addressed, agent-first archives |
-| 2026-09-26 08:01:53 | [jev-rust](https://crates.io/crates/jev-rust) | 0.1.0 | 0 | Typesafe AI API wrapper for Rust |
-| 2026-09-26 08:05:34 | [seeds](https://crates.io/crates/seeds) | 0.3.0 | 0 | Native Rust implementation of the seeds git-native issue-tracker format |
-| 2026-09-26 08:11:41 | [kanna-prompt](https://crates.io/crates/kanna-prompt) | 0.2.1 | 0 | A read-eval-print loop for kanna commands: one line in, the same definition par… |
+| 2026-09-26 08:20:52 | [kern-sandbox](https://crates.io/crates/kern-sandbox) | 0.0.1 | 0 | Name placeholder. The kern sandbox ships as kern-sandbox on PyPI and npm, and t… |
+| 2026-09-26 08:24:13 | [toyos-ld](https://crates.io/crates/toyos-ld) | 0.2.0 | 0 | ToyOS's linker: resolves libraries, combines object files and produces executab… |
+| 2026-09-26 08:28:12 | [ssh-stamp-esp32-boards](https://crates.io/crates/ssh-stamp-esp32-boards) | 1.0.4 | 0 | Board Support Package — per-PCB pin mappings for ssh-stamp-esp32 |
+| 2026-09-26 08:28:12 | [ssh-stamp-hal](https://crates.io/crates/ssh-stamp-hal) | 1.0.4 | 0 | Hardware Abstraction Layer traits for ssh-stamp |
+| 2026-09-26 08:28:14 | [ssh-stamp-ota](https://crates.io/crates/ssh-stamp-ota) | 1.0.4 | 0 | SFTP-based over-the-air firmware updates for ssh-stamp |
+| 2026-09-26 08:28:16 | [ssh-stamp](https://crates.io/crates/ssh-stamp) | 1.0.4 | 0 | SSH to UART bridge firmware core for microcontrollers |
+| 2026-09-26 08:28:19 | [ssh-stamp-esp32](https://crates.io/crates/ssh-stamp-esp32) | 1.0.4 | 0 | ESP32 implementation of the ssh-stamp-hal traits and bootable binary for ssh-st… |
+| 2026-09-26 08:28:22 | [rinx](https://crates.io/crates/rinx) | 0.0.1 | 0 | Placeholder; the first release, 0.1.0, is coming soon. |
+| 2026-09-26 08:31:55 | [bootintel-detectors](https://crates.io/crates/bootintel-detectors) | 0.4.1 | 0 | Client-side boot-log detectors for BootIntel — bootloader / kernel / SoC / expo… |
+| 2026-09-26 08:32:28 | [bootintel-cli](https://crates.io/crates/bootintel-cli) | 0.4.1 | 0 | Interactive UART capture + streaming boot-log analysis. Free scan + share; serv… |
+| 2026-09-26 08:32:29 | [ssr-client-rs](https://crates.io/crates/ssr-client-rs) | 0.1.0 | 0 | Byte-compatible ShadowsocksR (SSR-N) client library: crypto, protocol, obfs and… |
+| 2026-09-26 08:38:44 | [kern-cli](https://crates.io/crates/kern-cli) | 0.0.1 | 0 | Name reserved for the kern CLI. kern is a rootless container runtime that insta… |
+| 2026-09-26 08:44:17 | [nordisk-pairing](https://crates.io/crates/nordisk-pairing) | 0.5.2 | 0 | The boxes of an estate find each other: a seed each box is installed with, a on… |
+| 2026-09-26 08:44:36 | [smolvm-checkpoint](https://crates.io/crates/smolvm-checkpoint) | 1.19.1 | 0 | Incremental checkpoint storage and portable export for SmolVM |
+| 2026-09-26 08:59:22 | [rungbot-notify](https://crates.io/crates/rungbot-notify) | 0.5.6 | 0 | Notifications for rungbot: email through the Resend HTTP API, Telegram and a we… |
+| 2026-09-26 08:59:25 | [rungbot-research](https://crates.io/crates/rungbot-research) | 0.5.6 | 0 | Weekly research for rungbot: a dislocation scan, a value index, a catalyst and… |
+| 2026-09-26 08:59:28 | [rungbot-backtest](https://crates.io/crates/rungbot-backtest) | 0.5.6 | 0 | Backtests and historical replays for the rungbot ladder: as-configured window r… |
+| 2026-09-26 09:00:01 | [ze](https://crates.io/crates/ze) | 0.1.0 | 0 | Random German words: nouns with gender, adjectives, verbs, compound nouns and p… |
+| 2026-09-26 09:11:00 | [token-saver-core](https://crates.io/crates/token-saver-core) | 1.0.0 | 0 | High-performance AST and token optimization engine for AI coding assistants |
+| 2026-09-26 09:12:43 | [token-saver](https://crates.io/crates/token-saver) | 1.0.0 | 0 | Zero-cost, zero-latency token optimization engine and intelligent MCP middleware |
+| 2026-09-26 09:17:29 | [pastor-cli](https://crates.io/crates/pastor-cli) | 0.5.0 | 0 | Run coding agents on machines you own, through herdr |
 
 ## Data source
 
