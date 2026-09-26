@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T09:37:14.915384Z,omw-test,0.1.2,0,0,https://github.com/haras-unicorn/omw,OMW = OpenAI + MCP + WASM
+2026-09-26T09:38:26.299346Z,roncho,1.0.0,0,0,https://github.com/kisom/roncho,"Rust SDK for Honcho — persistent, reasoning-based memory for agents"
+2026-09-26T09:41:08.892554Z,fastmash-numeric-contract,0.0.0,0,0,https://github.com/pederbe/fastmash,Part of Fastmash (https://fastmash.io). Reserved; the first release is 0.1.0.
+2026-09-26T09:41:11.212843Z,fastmash-conversion,0.0.0,0,0,https://github.com/pederbe/fastmash,Part of Fastmash (https://fastmash.io). Reserved; the first release is 0.1.0.
+2026-09-26T09:41:13.749237Z,fastmash-portable-numerics,0.0.0,0,0,https://github.com/pederbe/fastmash,Part of Fastmash (https://fastmash.io). Reserved; the first release is 0.1.0.
+2026-09-26T09:41:16.404102Z,fastmash-sort-process,0.0.0,0,0,https://github.com/pederbe/fastmash,Part of Fastmash (https://fastmash.io). Reserved; the first release is 0.1.0.
+2026-09-26T09:46:41.43262Z,taskguard,0.1.6,0,0,https://github.com/SpoBo/taskguard,A sem that learns what each job needs: start a command only when the machine has room for its CPU and memory
+2026-09-26T09:48:01.480448Z,rbirds,0.1.0,0,0,https://github.com/willibrandon/rbirds,A Rust port of cbirds 1.4.0: a flock of birds in your terminal
+2026-09-26T09:51:55.69241Z,sinomo-ui-nodes,0.3.0,0,0,https://github.com/sinomo-lab/sui,Interactive node graph editor widgets for SUI.
+2026-09-26T09:52:03.436471Z,sinomo-ui-webview,0.3.0,0,0,https://github.com/sinomo-lab/sui,Minimal native embedded webview support for SUI.
+2026-09-26T09:52:30.407527Z,holstered,1.0.0,0,0,https://github.com/tupe12334/holstered,"Hands your coding agent the right skill for each prompt: BM25 recall + the Jev decision model, over polyhook"
+2026-09-26T09:58:07.713626Z,fluxgit-mcp-sidecar,0.1.0,0,0,https://github.com/fluxgit-hq/fluxgit-mcp-server,Safety-first Git MCP server: rich read tools plus human-approved FluxGit operation proposals.
+2026-09-26T09:58:33.48138Z,typex_derive,0.1.0,0,0,https://github.com/tindzk/typex,Derive macros for runtime type introspection and structural access
+2026-09-26T09:58:54.847269Z,typex,0.1.0,0,0,https://github.com/tindzk/typex,"Runtime reflection: inspection, traversal, equality and mutation"
+2026-09-26T10:00:20.731902Z,rs-rich-plugin-api,0.0.1,0,0,https://github.com/buchochelliq-labs/rs-rich-cli,"The plugin contract for the `rich` Rust port: register highlighters, themes, box styles and renderers"
+2026-09-26T10:02:42.076365Z,rust_aide,0.1.0,0,0,https://gitlab.com/vicaniddouglas/rust_aide,"A powerful, opinionated framework for building resilient Rust backends with built-in caching, threading, and db management."
