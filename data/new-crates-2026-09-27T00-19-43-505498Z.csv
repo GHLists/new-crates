@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-26T23:22:30.729508Z,rvagent-mcp,0.1.0,0,0,https://github.com/ruvnet/RuVector,"rvAgent MCP — Model Context Protocol tools, resources, and transport layer"
+2026-09-26T23:24:43.787607Z,rinx_renderer,0.1.0,0,0,https://github.com/nachstedt/rinx,Renders rinx documents to HTML. Internal to rinx; no stability guarantees.
+2026-09-26T23:33:40.274791Z,rvagent-wasm,0.2.0,0,0,https://github.com/ruvnet/RuVector,rvAgent WASM bindings — browser and Node.js agent execution
+2026-09-26T23:36:29.374498Z,emscripten-futures,0.1.0,0,0,,A local async executor and awaitable Emscripten operations for Rust WebAssembly applications
+2026-09-26T23:42:27.613188Z,proxy-wasm-host,0.1.0,0,0,https://github.com/ethanhann/proxy-wasm-host,A Proxy-Wasm ABI v0.2.1 host library built on wasmtime
+2026-09-26T23:44:56.57085Z,rvf-forge-core,2.3.0,0,0,https://github.com/ruvnet/ruvector,"RVForge packaging and verification library: inspection-only RVF reading, Ed25519 verification, canonical build manifests, and provenance (ADR-283, ADR-290, ADR-291)"
+2026-09-26T23:47:57.47018Z,ex-command,0.1.0,0,0,https://github.com/ladvoc/ex-command-rs,Typed commands and events for the EX-CommandStation serial protocol.
+2026-09-26T23:56:10.729949Z,rvforge-registry,2.3.0,0,0,https://github.com/ruvnet/ruvector,"RVForge file-backed content-addressed release registry: typed objects, publish rules, trust levels, revocation, and an append-only Merkle transparency log (ADR-294)"
+2026-09-26T23:56:59.598382Z,winit-async,0.1.0,0,0,https://github.com/jaycefayne/winit-async,An async runtime based on the winit event loop.
+2026-09-27T00:04:55.35593Z,byteshaver,0.5.0,0,0,https://github.com/Gunzinger/byteshaver,A configurable and efficient batch image converter written in Rust.
+2026-09-27T00:05:10.563863Z,polycore,0.1.0,0,0,https://github.com/sdiehl/poly-core,"Fields, prime fields, sparse and dense polynomials, and sparse echelon forms."
+2026-09-27T00:05:19.992469Z,fpr-ff1,2.1.0-rc1,0,0,https://github.com/joelee/fpr-ff1,"NIST SP 800-38G FF1 format-preserving encryption: exact integer arithmetic, conformance-tested against the published vectors."
+2026-09-27T00:07:54.207381Z,ruvector-context,2.3.0,0,0,https://github.com/ruvnet/ruvector,Physically scope-sharded vector retrieval for governed context systems
+2026-09-27T00:11:06.606977Z,kiss-agent-ai,0.0.21,0,0,https://github.com/racetozero/kiss,Unified multi-provider LLM streaming API for the kiss coding harness
+2026-09-27T00:11:43.527726Z,kiss-agent,0.0.21,0,0,https://github.com/racetozero/kiss,Agent runtime for the kiss coding harness
+2026-09-27T00:11:52.283733Z,kiss-workflow,0.0.21,0,0,https://github.com/racetozero/kiss,Deterministic workflow orchestration scripts for KISS
+2026-09-27T00:12:34.12538Z,kiss-coding,0.0.21,0,0,https://github.com/racetozero/kiss,"Coding harness: sessions, tools, compaction, settings, skills"
+2026-09-27T00:13:54.793793Z,kiss-mcp,0.0.21,0,0,https://github.com/racetozero/kiss,First-class MCP client support for KISS
+2026-09-27T00:14:03.304232Z,ocklog,0.0.2,0,0,,A modern TUI tool for docker logs
+2026-09-27T00:14:17.388537Z,kiss-agent-sdk,0.0.21,0,0,https://github.com/racetozero/kiss,Embeddable SDK and JSON-line RPC protocol for the kiss coding agent
+2026-09-27T00:19:27.742275Z,ruvector-domain-expansion-wasm,0.1.0,0,0,https://github.com/ruvnet/ruvector,WASM bindings for the domain expansion cross-domain transfer learning engine
