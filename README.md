@@ -8,38 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 03:19 UTC
+## Latest list — 2026-09-27 04:19 UTC
 
-New crates published between 2026-09-27 02:19 UTC and 2026-09-27 03:19 UTC.
+New crates published between 2026-09-27 03:19 UTC and 2026-09-27 04:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-27T03-19-24-293013Z.csv)
+[Full CSV](data/new-crates-2026-09-27T04-19-29-423101Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-27 02:26:45 | [jotter-tui](https://crates.io/crates/jotter-tui) | 0.2.0 | 0 | jOtter — a fast Jupyter notebook TUI. The Jupyter otter. 🦦 |
-| 2026-09-27 02:35:51 | [aifuel-core](https://crates.io/crates/aifuel-core) | 0.1.0 | 0 | Stable domain types shared by aifuel services and provider adapters |
-| 2026-09-27 02:36:54 | [aifuel-app](https://crates.io/crates/aifuel-app) | 0.1.0 | 0 | Application services for aifuel: provider discovery, quota collection, and MCP… |
-| 2026-09-27 02:37:18 | [ferx-core](https://crates.io/crates/ferx-core) | 0.4.0 | 0 | Nonlinear Mixed Effects modeling engine with FOCE/FOCEI estimation |
-| 2026-09-27 02:37:21 | [ferx-tools](https://crates.io/crates/ferx-tools) | 0.4.0 | 0 | Model-development tooling on top of ferx-core: bootstrap, covariate search, cro… |
-| 2026-09-27 02:37:23 | [ferx-cli](https://crates.io/crates/ferx-cli) | 0.4.0 | 0 | Command-line interface for the ferx NLME modeling engine |
-| 2026-09-27 02:39:57 | [aifuel-providers](https://crates.io/crates/aifuel-providers) | 0.1.0 | 0 | AI coding provider integrations for aifuel: Claude Code, Codex, Copilot, Gemini… |
-| 2026-09-27 02:41:51 | [aifuel-mcp](https://crates.io/crates/aifuel-mcp) | 0.1.0 | 0 | MCP servers for aifuel: read-only status, agent execution, and gateway |
-| 2026-09-27 02:45:05 | [mystquarto-core](https://crates.io/crates/mystquarto-core) | 0.3.0 | 0 | Typed IR, readers, writers, and diagnostics powering the mystquarto MyST <-> Qu… |
-| 2026-09-27 02:45:07 | [mystquarto](https://crates.io/crates/mystquarto) | 0.3.0 | 0 | Bidirectional MyST <-> Quarto converter |
-| 2026-09-27 02:45:42 | [aifuel](https://crates.io/crates/aifuel) | 0.1.0 | 0 | Fuel gauge for AI coding subscriptions: CLI, browser dashboard, and MCP server… |
-| 2026-09-27 02:46:25 | [orchest-protocol](https://crates.io/crates/orchest-protocol) | 1.0.0-rc.1 | 0 | Shared protocol for Orchest: content model, capability traits, stream events, c… |
-| 2026-09-27 02:46:29 | [orchest-storage](https://crates.io/crates/orchest-storage) | 1.0.0-rc.1 | 0 | Unified object storage for Orchest asset persistence: Aliyun OSS and Tencent CO… |
-| 2026-09-27 02:46:34 | [orchest-provider-core](https://crates.io/crates/orchest-provider-core) | 1.0.0-rc.1 | 0 | Internal building blocks for the Orchest provider crates. Not for direct use: d… |
-| 2026-09-27 02:46:41 | [orchest-provider-http](https://crates.io/crates/orchest-provider-http) | 1.0.0-rc.1 | 0 | Internal REST/SSE provider dialects for Orchest. Not for direct use: depend on… |
-| 2026-09-27 02:46:47 | [orchest-provider-stream](https://crates.io/crates/orchest-provider-stream) | 1.0.0-rc.1 | 0 | Internal WebSocket provider dialects for Orchest. Not for direct use: depend on… |
-| 2026-09-27 02:55:52 | [fent_derive](https://crates.io/crates/fent_derive) | 0.1.0 | 0 | Provides macros for fent_ecs |
-| 2026-09-27 02:56:01 | [fent_ecs](https://crates.io/crates/fent_ecs) | 0.1.0 | 0 | Simple ECS library |
-| 2026-09-27 02:58:18 | [orchest-provider-visual](https://crates.io/crates/orchest-provider-visual) | 1.0.0-rc.1 | 0 | Internal signed/polled generation dialects for Orchest. Not for direct use: dep… |
-| 2026-09-27 03:00:16 | [hv2-sandbox](https://crates.io/crates/hv2-sandbox) | 1.1.0 | 0 | Lightweight confinement for agent workloads: OS-level process sandboxes with ho… |
-| 2026-09-27 03:03:07 | [docket-cli](https://crates.io/crates/docket-cli) | 0.1.0 | 0 | Every project and idea you have, in one list, ready to paste into any AI. Plain… |
-| 2026-09-27 03:07:44 | [orchest-provider](https://crates.io/crates/orchest-provider) | 1.0.0-rc.1 | 0 | Provider registry for Orchest: select LLM, ASR, TTS, realtime and generation pr… |
-| 2026-09-27 03:12:09 | [termhog](https://crates.io/crates/termhog) | 0.0.0 | 0 | Record terminal apps into PostHog Session Replays |
-| 2026-09-27 03:18:01 | [orchest](https://crates.io/crates/orchest) | 1.0.0-rc.1 | 0 | Skill-first agent runtime core: agent loop, state management, event streaming,… |
+| 2026-09-27 03:27:38 | [toha](https://crates.io/crates/toha) | 0.1.0 | 0 | Generate projects and files from templates through one interview for people, sc… |
+| 2026-09-27 03:43:13 | [bloq_vm](https://crates.io/crates/bloq_vm) | 0.0.0-reserved | 0 | Prerelease placeholder for bloq_vm, part of the Bloq quantum circuit compiler. |
+| 2026-09-27 03:44:14 | [velme](https://crates.io/crates/velme) | 0.0.0 | 0 | Reserved for the Velme programming language (https://github.com/velme-lang/velm… |
+| 2026-09-27 03:44:19 | [velme-cli](https://crates.io/crates/velme-cli) | 0.0.0 | 0 | Reserved for the Velme programming language (https://github.com/velme-lang/velm… |
+| 2026-09-27 03:44:24 | [velme-runtime](https://crates.io/crates/velme-runtime) | 0.0.0 | 0 | Reserved for the Velme programming language (https://github.com/velme-lang/velm… |
+| 2026-09-27 03:44:29 | [velme-syntax](https://crates.io/crates/velme-syntax) | 0.0.0 | 0 | Reserved for the Velme programming language (https://github.com/velme-lang/velm… |
+| 2026-09-27 03:44:33 | [velme-diagnostics](https://crates.io/crates/velme-diagnostics) | 0.0.0 | 0 | Reserved for the Velme programming language (https://github.com/velme-lang/velm… |
+| 2026-09-27 03:48:30 | [tau-core](https://crates.io/crates/tau-core) | 0.1.0 | 0 | Domain model, session tree, and agent loop for the tau agent harness |
+| 2026-09-27 03:48:58 | [tau-openai](https://crates.io/crates/tau-openai) | 0.1.0 | 0 | OpenAI-compatible chat-completions provider (SSE streaming, tool calls) |
+| 2026-09-27 03:49:10 | [tau-anthropic](https://crates.io/crates/tau-anthropic) | 0.1.0 | 0 | Anthropic Messages API provider (SSE streaming, tool calls, multimodal) |
+| 2026-09-27 03:49:49 | [tau-ext](https://crates.io/crates/tau-ext) | 0.1.0 | 0 | Wasm component extension host for tau (wasmtime; ambient WASI open by default,… |
+| 2026-09-27 03:50:35 | [tau-cli](https://crates.io/crates/tau-cli) | 0.1.0 | 0 | tau command line: print-mode agent with wasm extensions |
+| 2026-09-27 03:52:43 | [velme-builtins](https://crates.io/crates/velme-builtins) | 0.0.0 | 0 | Reserved for the Velme programming language (https://github.com/velme-lang/velm… |
+| 2026-09-27 03:56:20 | [hqe-core](https://crates.io/crates/hqe-core) | 0.2.0 | 0 | Core domain models for hq-engine |
+| 2026-09-27 03:59:02 | [hqe-infra](https://crates.io/crates/hqe-infra) | 0.2.0 | 0 | Infrastructure layer for hq-engine |
+| 2026-09-27 04:00:56 | [velme-sema](https://crates.io/crates/velme-sema) | 0.0.0 | 0 | Reserved for the Velme programming language (https://github.com/velme-lang/velm… |
+| 2026-09-27 04:01:42 | [belle](https://crates.io/crates/belle) | 0.0.1 | 0 | A bounded implicational fragment for Minerva's Isabelle contact |
+| 2026-09-27 04:01:52 | [issy](https://crates.io/crates/issy) | 0.0.1 | 0 | An Isabelle-like Boolean frontend for Vav-admitted Rust |
+| 2026-09-27 04:03:30 | [baffle-client](https://crates.io/crates/baffle-client) | 0.2.0 | 0 | Typed asynchronous client for the Baffle Unix control protocol |
+| 2026-09-27 04:05:32 | [baffle-proxy](https://crates.io/crates/baffle-proxy) | 0.2.0 | 0 | A standalone daemon for policy-controlled HTTP and HTTPS proxies |
+| 2026-09-27 04:11:09 | [velme-ir](https://crates.io/crates/velme-ir) | 0.0.0 | 0 | Reserved for the Velme programming language (https://github.com/velme-lang/velm… |
+| 2026-09-27 04:19:07 | [s3s-chunked](https://crates.io/crates/s3s-chunked) | 0.18.0-alpha.1 | 0 | Async streaming decoder for aws-chunked request bodies |
 
 ## Data source
 

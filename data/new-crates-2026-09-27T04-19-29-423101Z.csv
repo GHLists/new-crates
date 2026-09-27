@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T03:27:38.801254Z,toha,0.1.0,0,0,https://github.com/wyrd-company/toha,"Generate projects and files from templates through one interview for people, scripts, agents, and Rust callers."
+2026-09-27T03:43:13.805357Z,bloq_vm,0.0.0-reserved,0,0,https://github.com/inmzhang/bloq,"Prerelease placeholder for bloq_vm, part of the Bloq quantum circuit compiler."
+2026-09-27T03:44:14.212906Z,velme,0.0.0,0,0,https://github.com/velme-lang/velme,Reserved for the Velme programming language (https://github.com/velme-lang/velme).
+2026-09-27T03:44:19.951586Z,velme-cli,0.0.0,0,0,https://github.com/velme-lang/velme,Reserved for the Velme programming language (https://github.com/velme-lang/velme).
+2026-09-27T03:44:24.059922Z,velme-runtime,0.0.0,0,0,https://github.com/velme-lang/velme,Reserved for the Velme programming language (https://github.com/velme-lang/velme).
+2026-09-27T03:44:29.462052Z,velme-syntax,0.0.0,0,0,https://github.com/velme-lang/velme,Reserved for the Velme programming language (https://github.com/velme-lang/velme).
+2026-09-27T03:44:33.98215Z,velme-diagnostics,0.0.0,0,0,https://github.com/velme-lang/velme,Reserved for the Velme programming language (https://github.com/velme-lang/velme).
+2026-09-27T03:48:30.773124Z,tau-core,0.1.0,0,0,,"Domain model, session tree, and agent loop for the tau agent harness"
+2026-09-27T03:48:58.469174Z,tau-openai,0.1.0,0,0,,"OpenAI-compatible chat-completions provider (SSE streaming, tool calls)"
+2026-09-27T03:49:10.739448Z,tau-anthropic,0.1.0,0,0,,"Anthropic Messages API provider (SSE streaming, tool calls, multimodal)"
+2026-09-27T03:49:49.152159Z,tau-ext,0.1.0,0,0,,"Wasm component extension host for tau (wasmtime; ambient WASI open by default, consent-gated capabilities)"
+2026-09-27T03:50:35.257501Z,tau-cli,0.1.0,0,0,,tau command line: print-mode agent with wasm extensions
+2026-09-27T03:52:43.501779Z,velme-builtins,0.0.0,0,0,https://github.com/velme-lang/velme,Reserved for the Velme programming language (https://github.com/velme-lang/velme).
+2026-09-27T03:56:20.529762Z,hqe-core,0.2.0,0,0,https://gitee.com/oracle0326/hq-engine,Core domain models for hq-engine
+2026-09-27T03:59:02.083143Z,hqe-infra,0.2.0,0,0,https://gitee.com/oracle0326/hq-engine,Infrastructure layer for hq-engine
+2026-09-27T04:00:56.28061Z,velme-sema,0.0.0,0,0,https://github.com/velme-lang/velme,Reserved for the Velme programming language (https://github.com/velme-lang/velme).
+2026-09-27T04:01:42.061479Z,belle,0.0.1,0,0,https://github.com/OwlRoute/minerva,A bounded implicational fragment for Minerva's Isabelle contact
+2026-09-27T04:01:52.021943Z,issy,0.0.1,0,0,https://github.com/OwlRoute/minerva,An Isabelle-like Boolean frontend for Vav-admitted Rust
+2026-09-27T04:03:30.385796Z,baffle-client,0.2.0,0,0,https://github.com/dstoc/baffle,Typed asynchronous client for the Baffle Unix control protocol
+2026-09-27T04:05:32.319613Z,baffle-proxy,0.2.0,0,0,https://github.com/dstoc/baffle,A standalone daemon for policy-controlled HTTP and HTTPS proxies
+2026-09-27T04:11:09.706518Z,velme-ir,0.0.0,0,0,https://github.com/velme-lang/velme,Reserved for the Velme programming language (https://github.com/velme-lang/velme).
+2026-09-27T04:19:07.972518Z,s3s-chunked,0.18.0-alpha.1,0,0,https://github.com/Nugine/s3s,Async streaming decoder for aws-chunked request bodies
