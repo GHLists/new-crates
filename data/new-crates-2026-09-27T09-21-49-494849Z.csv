@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T08:22:47.204764Z,bliss-accesskit-xplat,0.3.0,0,0,https://github.com/nixpt/bliss-engine,"AccessKit UI accessibility infrastructure: cross-platform adapter, forked for Bliss (graceful UiKit/WinRT fallback instead of unimplemented!(), hardened Android JNI thread attach)"
+2026-09-27T08:22:47.421306Z,boombox-core,0.2.0,0,0,https://github.com/danySam/boombox,"Core of boombox: Spotify sign-in over PKCE, a Web API client, and configuration."
+2026-09-27T08:22:48.853751Z,bliss-anyrender-vello,0.3.0,0,0,https://github.com/nixpt/bliss-engine,"Vello backend for anyrender, forked for Bliss (SceneOverlay/set_scene_effects mustang hooks — see window_renderer.rs)"
+2026-09-27T08:22:57.044652Z,boombox-ipc,0.2.0,0,0,https://github.com/danySam/boombox,"Wire protocol spoken between the boombox daemon and its front ends, over a Unix socket."
+2026-09-27T08:23:29.366669Z,boombox-tui,0.2.0,0,0,https://github.com/danySam/boombox,"Terminal front end for boombox, built on ratatui."
+2026-09-27T08:23:32.248699Z,silicon-extend-protocol,1.0.0,0,0,https://github.com/teamofsilicons/silicon-extend,"Wire types shared by the Silicon Extend service, client, CLI and device agents"
+2026-09-27T08:23:35.857275Z,silicon-extend-client,1.0.0,0,0,https://github.com/teamofsilicons/silicon-extend,Official Rust client for Silicon Extend: let a Silicon use a Carbon's paired devices
+2026-09-27T08:23:39.641806Z,silicon-extend-cli,1.0.0,0,0,https://github.com/teamofsilicons/silicon-extend,The extend command: find and use the devices a Silicon has access to
+2026-09-27T08:24:26.033742Z,boombox,0.2.0,0,0,https://github.com/danySam/boombox,A Spotify client for the terminal: a TUI and a scriptable CLI over the same core.
+2026-09-27T08:29:14.466635Z,ascalon-network,0.1.0,0,0,https://github.com/valaphee/ascalon,Unofficial Guild Wars 2 network stream codecs
+2026-09-27T08:29:15.132341Z,ascalon-packfile-schema,0.1.0,0,0,https://github.com/valaphee/ascalon,Unofficial Guild Wars 2 packfile schema parser
+2026-09-27T08:29:15.683279Z,ascalon-protocol-schema,0.1.0,0,0,https://github.com/valaphee/ascalon,Unofficial Guild Wars 2 protocol schema parser
+2026-09-27T08:29:18.55809Z,ascalon-asset,0.1.0,0,0,https://github.com/valaphee/ascalon,Unofficial Guild Wars 2 asset format tools
+2026-09-27T08:29:19.159734Z,ascalon-protocol,0.1.0,0,0,https://github.com/valaphee/ascalon,Unofficial Guild Wars 2 protocol encoding primitives
+2026-09-27T08:30:42.273137Z,polyfactor,0.1.1,0,0,https://github.com/sdiehl/poly-core,"Univariate factoring over prime fields, the rationals and number fields."
+2026-09-27T08:31:59.022283Z,sethu,0.1.0,0,0,https://github.com/noemaforge/sethu,"Trace OpenAPI changes into your application, repair them, and prove it."
+2026-09-27T08:32:54.727539Z,craft-codec,0.1.1,0,0,https://github.com/theking90000/craft-codec,Cryptographic Random-Access Framing Toolkit
+2026-09-27T08:50:19.48776Z,lovyangfx-fonts-efont-cn,0.1.0,0,0,https://github.com/wangguanghua2099/lovyangfx-fonts-efont-cn,"eFont CN bitmap fonts for lovyangfx-fonts: 5 sizes x 4 styles (regular/bold/italic/bold-italic) in u8g2 wire format, LovyanGFX-compatible glyphs. CJK bold/italic is rare among embedded bitmap font se…"
+2026-09-27T08:55:30.275143Z,naming-rules-lint-arwaky,3.7.1,0,0,https://github.com/rakaarwaky/lint-arwaky,Naming-convention enforcer for AES101 and AES102.
+2026-09-27T08:55:47.298782Z,import-rules-lint-arwaky,3.7.1,0,0,https://github.com/rakaarwaky/lint-arwaky,"Import-compliance checks covering AES201–AES205: dummy/unused/forbidden/mandatory imports, layer detection, and cross-layer cycle detection."
+2026-09-27T08:56:04.05851Z,quality-rules-lint-arwaky,3.7.1,0,0,https://github.com/rakaarwaky/lint-arwaky,Code-quality analyzers covering AES301–AES305.
+2026-09-27T08:56:22.080573Z,orphan-rules-lint-arwaky,3.7.1,0,0,https://github.com/rakaarwaky/lint-arwaky,Unreachable/dead component detector covering AES501-AES506.
+2026-09-27T08:56:39.451508Z,role-rules-lint-arwaky,3.7.1,0,0,https://github.com/rakaarwaky/lint-arwaky,Architectural role-layer violation checks covering AES401–AES406.
+2026-09-27T08:57:15.354912Z,framework-datetime,26.8.145,0,0,https://github.com/lingting-projects/lingting-rust-framework,lingting framework
+2026-09-27T08:57:15.607482Z,framework-proc-core,26.8.145,0,0,https://github.com/lingting-projects/lingting-rust-framework,lingting framework
+2026-09-27T08:57:15.834905Z,framework-proc-web,26.8.145,0,0,https://github.com/lingting-projects/lingting-rust-framework,lingting framework
+2026-09-27T08:57:16.174045Z,framework-region,26.8.145,0,0,https://github.com/lingting-projects/lingting-rust-framework,lingting framework
+2026-09-27T08:57:17.032172Z,framework-proc-auto,26.8.145,0,0,https://github.com/lingting-projects/lingting-rust-framework,lingting framework
+2026-09-27T08:57:49.152966Z,auto-fix-lint-arwaky,3.7.1,0,0,,Auto-fix processor that applies mechanical corrections for AES rule violations.
+2026-09-27T08:59:14.571984Z,scytale-cli,0.9.0,0,0,https://github.com/MichaelPaddon/scytale,"The scytale cryptography library from a shell: AES, ChaCha20, AEAD, hashes, MACs, KDFs, keys, signatures, key agreement, ML-KEM"
+2026-09-27T09:06:05.380917Z,polyxor,0.1.0,0,0,https://github.com/orlp/polyxor,"A fast, 128-bit universal hashing algorithm."
+2026-09-27T09:08:08.884728Z,git-hooks-lint-arwaky,3.7.1,0,0,,Git hooks feature crate — pre-commit enforcement and diff analysis.
+2026-09-27T09:09:10.459446Z,nagrpc-build,2.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,"Reproducible protobuf/gRPC codegen with vendored protoc, descriptors, compatibility gates, and NASA adapters"
+2026-09-27T09:12:36.780566Z,flare-db-macros,0.1.0,0,0,https://github.com/getappz/agentflare,Proc-macro crate for flare-db: derives the Crud impl (list/get/create/update/delete/count) for sqlx-backed entities. Not meant to be depended on directly — use flare-db.
+2026-09-27T09:16:55.37754Z,flare-db,0.1.0,0,0,https://github.com/getappz/agentflare,"Async, sqlx-backed repository derive macro (list/get/create/update/delete/count, soft-delete, pagination, sea-query-based filtering) for Postgres and SQLite — not a full ORM."
+2026-09-27T09:19:02.335522Z,maintenance-lint-arwaky,3.7.1,0,0,,"Maintenance features: doctor, stats, clean, update, security scan, dependency report."
+2026-09-27T09:21:01.980638Z,community-databricks-core,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Runtime for the community-maintained Databricks Rust SDK: unified config, authentication, HTTP, errors, pagination and waiters"
+2026-09-27T09:21:04.126012Z,community-databricks-sdk-agentbricks,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `agentbricks` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T09:21:05.8944Z,community-databricks-sdk-aifunctions,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `aifunctions` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T09:21:07.801338Z,community-databricks-sdk-aisearch,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `aisearch` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T09:21:11.247355Z,community-databricks-sdk-apps,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `apps` API models and services (community-maintained, generated; use via community-databricks-sdk)"

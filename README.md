@@ -8,29 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 08:18 UTC
+## Latest list — 2026-09-27 09:21 UTC
 
-New crates published between 2026-09-27 07:18 UTC and 2026-09-27 08:18 UTC.
+New crates published between 2026-09-27 08:18 UTC and 2026-09-27 09:21 UTC.
 
-[Full CSV](data/new-crates-2026-09-27T08-18-57-67654Z.csv)
+[Full CSV](data/new-crates-2026-09-27T09-21-49-494849Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-27 07:19:25 | [mbop3](https://crates.io/crates/mbop3) | 0.1.0 | 0 | A small, no_std MP3 (MPEG-1/2/2.5 Layer III) decoder derived from minimp3, tune… |
-| 2026-09-27 07:21:50 | [tui-easy-barchart](https://crates.io/crates/tui-easy-barchart) | 0.3.0 | 0 | BarChart widget for ratatui, vendored from ratatui 0.30 with per-bar styling fi… |
-| 2026-09-27 07:21:52 | [tui-easy-styles](https://crates.io/crates/tui-easy-styles) | 0.3.0 | 0 | anstyle → ratatui style conversion and shared HyperlinkTarget type, borrowed fr… |
-| 2026-09-27 07:21:54 | [tui-easy-textinput](https://crates.io/crates/tui-easy-textinput) | 0.3.0 | 0 | Vendored TextArea + TextAreaState + EditBuffer from xai-ratatui-textarea (Apach… |
-| 2026-09-27 07:21:56 | [tui-easy-wrap](https://crates.io/crates/tui-easy-wrap) | 0.3.0 | 0 | textwrap word-wrap helpers over ratatui Line/Span, borrowed from xai-ratatui-te… |
-| 2026-09-27 07:21:57 | [tui-easy](https://crates.io/crates/tui-easy) | 0.3.0 | 0 | Shared terminal UI shell — terminal init, event loop, themes, widgets |
-| 2026-09-27 07:32:35 | [fakts](https://crates.io/crates/fakts) | 0.1.0 | 0 | Fakts v2 configuration discovery and OAuth2 device-code grant for Arkitekt apps |
-| 2026-09-27 07:32:44 | [arkitekt-rath](https://crates.io/crates/arkitekt-rath) | 0.1.0 | 0 | Minimal authenticated GraphQL client for Arkitekt services |
-| 2026-09-27 07:32:50 | [rekuest-macros](https://crates.io/crates/rekuest-macros) | 0.1.0 | 0 | Proc-macros for rekuest: #[action] and #[derive(Structure)] |
-| 2026-09-27 07:33:06 | [rekuest](https://crates.io/crates/rekuest) | 0.1.0 | 0 | Rekuest agent: expose typed Rust functions as Arkitekt actions |
-| 2026-09-27 07:33:11 | [arkitekt](https://crates.io/crates/arkitekt) | 0.1.0 | 0 | Build Arkitekt apps in Rust: declare an App, compose services, serve actions |
-| 2026-09-27 07:42:12 | [vsrg](https://crates.io/crates/vsrg) | 0.1.0 | 0 | Data structures for vertical scrolling rhythm games |
-| 2026-09-27 07:52:40 | [nixbox-gui](https://crates.io/crates/nixbox-gui) | 0.2.6 | 0 | Desktop front-end for nixbox, built on gpui |
-| 2026-09-27 08:10:30 | [axiolid-brep-boolean](https://crates.io/crates/axiolid-brep-boolean) | 0.1.0 | 0 | General exact B-rep booleans over analytic faces (ADR 0075) |
-| 2026-09-27 08:15:58 | [fable_3](https://crates.io/crates/fable_3) | 0.1.0 | 0 | A Rust library for parsing Fable 3 binary asset formats |
+| 2026-09-27 08:22:47 | [bliss-accesskit-xplat](https://crates.io/crates/bliss-accesskit-xplat) | 0.3.0 | 0 | AccessKit UI accessibility infrastructure: cross-platform adapter, forked for B… |
+| 2026-09-27 08:22:47 | [boombox-core](https://crates.io/crates/boombox-core) | 0.2.0 | 0 | Core of boombox: Spotify sign-in over PKCE, a Web API client, and configuration. |
+| 2026-09-27 08:22:48 | [bliss-anyrender-vello](https://crates.io/crates/bliss-anyrender-vello) | 0.3.0 | 0 | Vello backend for anyrender, forked for Bliss (SceneOverlay/set_scene_effects m… |
+| 2026-09-27 08:22:57 | [boombox-ipc](https://crates.io/crates/boombox-ipc) | 0.2.0 | 0 | Wire protocol spoken between the boombox daemon and its front ends, over a Unix… |
+| 2026-09-27 08:23:29 | [boombox-tui](https://crates.io/crates/boombox-tui) | 0.2.0 | 0 | Terminal front end for boombox, built on ratatui. |
+| 2026-09-27 08:23:32 | [silicon-extend-protocol](https://crates.io/crates/silicon-extend-protocol) | 1.0.0 | 0 | Wire types shared by the Silicon Extend service, client, CLI and device agents |
+| 2026-09-27 08:23:35 | [silicon-extend-client](https://crates.io/crates/silicon-extend-client) | 1.0.0 | 0 | Official Rust client for Silicon Extend: let a Silicon use a Carbon's paired de… |
+| 2026-09-27 08:23:39 | [silicon-extend-cli](https://crates.io/crates/silicon-extend-cli) | 1.0.0 | 0 | The extend command: find and use the devices a Silicon has access to |
+| 2026-09-27 08:24:26 | [boombox](https://crates.io/crates/boombox) | 0.2.0 | 0 | A Spotify client for the terminal: a TUI and a scriptable CLI over the same cor… |
+| 2026-09-27 08:29:14 | [ascalon-network](https://crates.io/crates/ascalon-network) | 0.1.0 | 0 | Unofficial Guild Wars 2 network stream codecs |
+| 2026-09-27 08:29:15 | [ascalon-packfile-schema](https://crates.io/crates/ascalon-packfile-schema) | 0.1.0 | 0 | Unofficial Guild Wars 2 packfile schema parser |
+| 2026-09-27 08:29:15 | [ascalon-protocol-schema](https://crates.io/crates/ascalon-protocol-schema) | 0.1.0 | 0 | Unofficial Guild Wars 2 protocol schema parser |
+| 2026-09-27 08:29:18 | [ascalon-asset](https://crates.io/crates/ascalon-asset) | 0.1.0 | 0 | Unofficial Guild Wars 2 asset format tools |
+| 2026-09-27 08:29:19 | [ascalon-protocol](https://crates.io/crates/ascalon-protocol) | 0.1.0 | 0 | Unofficial Guild Wars 2 protocol encoding primitives |
+| 2026-09-27 08:30:42 | [polyfactor](https://crates.io/crates/polyfactor) | 0.1.1 | 0 | Univariate factoring over prime fields, the rationals and number fields. |
+| 2026-09-27 08:31:59 | [sethu](https://crates.io/crates/sethu) | 0.1.0 | 0 | Trace OpenAPI changes into your application, repair them, and prove it. |
+| 2026-09-27 08:32:54 | [craft-codec](https://crates.io/crates/craft-codec) | 0.1.1 | 0 | Cryptographic Random-Access Framing Toolkit |
+| 2026-09-27 08:50:19 | [lovyangfx-fonts-efont-cn](https://crates.io/crates/lovyangfx-fonts-efont-cn) | 0.1.0 | 0 | eFont CN bitmap fonts for lovyangfx-fonts: 5 sizes x 4 styles (regular/bold/ita… |
+| 2026-09-27 08:55:30 | [naming-rules-lint-arwaky](https://crates.io/crates/naming-rules-lint-arwaky) | 3.7.1 | 0 | Naming-convention enforcer for AES101 and AES102. |
+| 2026-09-27 08:55:47 | [import-rules-lint-arwaky](https://crates.io/crates/import-rules-lint-arwaky) | 3.7.1 | 0 | Import-compliance checks covering AES201–AES205: dummy/unused/forbidden/mandato… |
+| 2026-09-27 08:56:04 | [quality-rules-lint-arwaky](https://crates.io/crates/quality-rules-lint-arwaky) | 3.7.1 | 0 | Code-quality analyzers covering AES301–AES305. |
+| 2026-09-27 08:56:22 | [orphan-rules-lint-arwaky](https://crates.io/crates/orphan-rules-lint-arwaky) | 3.7.1 | 0 | Unreachable/dead component detector covering AES501-AES506. |
+| 2026-09-27 08:56:39 | [role-rules-lint-arwaky](https://crates.io/crates/role-rules-lint-arwaky) | 3.7.1 | 0 | Architectural role-layer violation checks covering AES401–AES406. |
+| 2026-09-27 08:57:15 | [framework-datetime](https://crates.io/crates/framework-datetime) | 26.8.145 | 0 | lingting framework |
+| 2026-09-27 08:57:15 | [framework-proc-core](https://crates.io/crates/framework-proc-core) | 26.8.145 | 0 | lingting framework |
+| 2026-09-27 08:57:15 | [framework-proc-web](https://crates.io/crates/framework-proc-web) | 26.8.145 | 0 | lingting framework |
+| 2026-09-27 08:57:16 | [framework-region](https://crates.io/crates/framework-region) | 26.8.145 | 0 | lingting framework |
+| 2026-09-27 08:57:17 | [framework-proc-auto](https://crates.io/crates/framework-proc-auto) | 26.8.145 | 0 | lingting framework |
+| 2026-09-27 08:57:49 | [auto-fix-lint-arwaky](https://crates.io/crates/auto-fix-lint-arwaky) | 3.7.1 | 0 | Auto-fix processor that applies mechanical corrections for AES rule violations. |
+| 2026-09-27 08:59:14 | [scytale-cli](https://crates.io/crates/scytale-cli) | 0.9.0 | 0 | The scytale cryptography library from a shell: AES, ChaCha20, AEAD, hashes, MAC… |
+| 2026-09-27 09:06:05 | [polyxor](https://crates.io/crates/polyxor) | 0.1.0 | 0 | A fast, 128-bit universal hashing algorithm. |
+| 2026-09-27 09:08:08 | [git-hooks-lint-arwaky](https://crates.io/crates/git-hooks-lint-arwaky) | 3.7.1 | 0 | Git hooks feature crate — pre-commit enforcement and diff analysis. |
+| 2026-09-27 09:09:10 | [nagrpc-build](https://crates.io/crates/nagrpc-build) | 2.0.0 | 0 | Reproducible protobuf/gRPC codegen with vendored protoc, descriptors, compatibi… |
+| 2026-09-27 09:12:36 | [flare-db-macros](https://crates.io/crates/flare-db-macros) | 0.1.0 | 0 | Proc-macro crate for flare-db: derives the Crud impl (list/get/create/update/de… |
+| 2026-09-27 09:16:55 | [flare-db](https://crates.io/crates/flare-db) | 0.1.0 | 0 | Async, sqlx-backed repository derive macro (list/get/create/update/delete/count… |
+| 2026-09-27 09:19:02 | [maintenance-lint-arwaky](https://crates.io/crates/maintenance-lint-arwaky) | 3.7.1 | 0 | Maintenance features: doctor, stats, clean, update, security scan, dependency r… |
+| 2026-09-27 09:21:01 | [community-databricks-core](https://crates.io/crates/community-databricks-core) | 0.1.0 | 0 | Runtime for the community-maintained Databricks Rust SDK: unified config, authe… |
+| 2026-09-27 09:21:04 | [community-databricks-sdk-agentbricks](https://crates.io/crates/community-databricks-sdk-agentbricks) | 0.1.0 | 0 | Databricks `agentbricks` API models and services (community-maintained, generat… |
+| 2026-09-27 09:21:05 | [community-databricks-sdk-aifunctions](https://crates.io/crates/community-databricks-sdk-aifunctions) | 0.1.0 | 0 | Databricks `aifunctions` API models and services (community-maintained, generat… |
+| 2026-09-27 09:21:07 | [community-databricks-sdk-aisearch](https://crates.io/crates/community-databricks-sdk-aisearch) | 0.1.0 | 0 | Databricks `aisearch` API models and services (community-maintained, generated;… |
+| 2026-09-27 09:21:11 | [community-databricks-sdk-apps](https://crates.io/crates/community-databricks-sdk-apps) | 0.1.0 | 0 | Databricks `apps` API models and services (community-maintained, generated; use… |
 
 ## Data source
 
