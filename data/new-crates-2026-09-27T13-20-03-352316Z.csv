@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T12:24:55.040346Z,cargo-anodized,0.6.0,0,0,https://github.com/anodized-rs/anodized,Cargo tool integration for Anodized
+2026-09-27T12:25:57.194311Z,guinea-ratatui,0.13.5,0,0,https://github.com/uniproc-dev/guinea,"guinea on ratatui: the router and the application runtime, drawn in a terminal"
+2026-09-27T12:29:34.716273Z,better-duck-tauri,0.1.0-beta.5,0,0,https://github.com/nimdeveloper/better-duck,Tauri v2 plugin exposing better-duck (embedded DuckDB) to the webview as a local-analytics engine
+2026-09-27T12:29:50.623346Z,community-databricks-sdk-iamv2,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `iamv2` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T12:31:18.046869Z,renfs,0.1.0,0,0,https://github.com/egakareta/renfs,"Bindings for ZenFS: A filesystem, anywhere"
+2026-09-27T12:32:38.099551Z,guinea-slint,0.13.5,0,0,https://github.com/uniproc-dev/guinea,"guinea on Slint: the router and the application runtime, drawn by a Slint component tree"
+2026-09-27T12:33:20.905207Z,stagesift-git-domain,0.1.0,0,0,https://github.com/lef237/stagesift,"Pure Git domain types (status, diff, blame). No I/O, no UI types."
+2026-09-27T12:33:22.973257Z,stagesift-git-cli,0.1.0,0,0,https://github.com/lef237/stagesift,"System Git CLI backend: process runner, porcelain parsers and typed commands."
+2026-09-27T12:33:23.743601Z,stagesift-repo-watch,0.1.0,0,0,https://github.com/lef237/stagesift,"File system watcher for a Git repository: classification, ignore filtering, debouncing."
+2026-09-27T12:33:25.175521Z,stagesift-patch-engine,0.1.0,0,0,https://github.com/lef237/stagesift,Turns a line selection over a parsed diff into a patch that `git apply` can apply.
+2026-09-27T12:33:26.339995Z,stagesift-app-core,0.1.0,0,0,https://github.com/lef237/stagesift,"Application model: repository controller, operations, caches, view-model helpers. No UI framework types."
+2026-09-27T12:35:49.702257Z,stagesift-ui,0.1.0,0,0,https://github.com/lef237/stagesift,GPUI views. The only crate that depends on GPUI.
+2026-09-27T12:39:50.366471Z,community-databricks-sdk-knowledgeassistants,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `knowledgeassistants` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T12:42:00.441084Z,ntalbs-rup,0.1.0,0,0,https://github.com/ntalbs/rup,Very basic command-line static HTTP server without external dependencies.
+2026-09-27T12:42:06.918772Z,bobcat-return,0.1.1,0,0,https://github.com/fluidity-money/bobcat-return,Abstract functions for exiting the user_entrypoint Stylus entrypoint with bobcat-sdk.
+2026-09-27T12:43:11.740804Z,guinea,0.13.5,0,0,https://github.com/uniproc-dev/guinea,"Desktop applications in Rust, built from features that know what they own"
+2026-09-27T12:49:50.985028Z,community-databricks-sdk-marketplace,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `marketplace` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T12:51:29.98516Z,mmlx,0.1.0,0,0,https://github.com/h1romas4/chipstream,MML parser and compiler with soundlog.
+2026-09-27T12:54:54.505004Z,roger-protocol,0.1.2,0,0,https://github.com/origin89hq/roger,"Wire types of the Roger API: Asks, answers, traces, and errors."
+2026-09-27T12:54:56.429007Z,roger-cli,0.1.2,0,0,https://github.com/origin89hq/roger,The `roger` command: agents ask a person for a decision and read the answer.
+2026-09-27T12:59:50.415214Z,community-databricks-sdk-ml,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `ml` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T13:01:29.702896Z,pbz2-core,0.1.0,0,0,https://github.com/soof-golan/pbz2,"The no_std core of pbz2: bzip2 compression and decompression that does not allocate and does no I/O, in pieces that run on any thread"
+2026-09-27T13:01:32.623732Z,pbz2,0.1.0,0,0,https://github.com/soof-golan/pbz2,"Fast parallel bzip2 compression and decompression behind std::io::Read and Write, and a pbz2 command that replaces bzip2"
+2026-09-27T13:01:36.188316Z,arib,0.1.1,0,0,https://github.com/siketyan/arib-rs,"Parsers, demultiplexers and descramblers for the ARIB broadcasting standards"
+2026-09-27T13:01:51.960013Z,arib-cli,0.1.1,0,0,https://github.com/siketyan/arib-rs,"Reads the signalling of ARIB broadcasts and descrambles them, as an example of the arib crate"
+2026-09-27T13:03:07.508949Z,mfp-core,1.0.0,0,0,https://github.com/pivoshenko/musicforprogramming,"Shared catalog, configuration, path, and wire-protocol types for the musicforprogramming player"
+2026-09-27T13:03:46.630944Z,mfp-daemon,1.0.0,0,0,https://github.com/pivoshenko/musicforprogramming,Background player daemon for musicforprogramming.net
+2026-09-27T13:04:14.197354Z,mfp-tui,1.0.0,0,0,https://github.com/pivoshenko/musicforprogramming,Terminal interface and headless CLI for the musicforprogramming player
+2026-09-27T13:06:44.452428Z,namapper-core,2.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,"Backend-neutral mapper SQL rendering, shared cache, atomic metrics, and bounded threshold notifications"
+2026-09-27T13:06:50.163439Z,natx-core,2.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,"Backend-neutral datasource ownership, transaction outcomes, and atomic connection observability"
+2026-09-27T13:09:50.344723Z,community-databricks-sdk-networking,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `networking` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T13:16:13.700943Z,onoal-oracle,0.1.0,0,0,https://github.com/Onoal/Oracle,"Oracle computational possibility, planning, and control foundation."
+2026-09-27T13:19:50.408243Z,community-databricks-sdk-oauth2,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `oauth2` API models and services (community-maintained, generated; use via community-databricks-sdk)"
