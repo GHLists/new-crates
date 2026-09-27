@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T20:30:54.889482Z,sparse-ldlt,0.3.2,0,0,https://github.com/mageaustralia/sparse-ldlt,"Pure-Rust, dependency-free sparse symmetric-indefinite LDLᵀ factorization with signed pivots (matrix inertia) and solve."
+2026-09-27T20:31:05.641791Z,cufsm-rs,0.2.1,0,0,https://github.com/mageaustralia/cufsm-rs,"Independent, dependency-free Rust port of CUFSM: elastic buckling of thin-walled sections by the finite strip method."
+2026-09-27T20:39:24.130717Z,turbovault-vector,0.1.1,0,0,https://github.com/epistates/turbovault,"Optional hybrid (dense + lexical) semantic search engine for TurboVault, pure-Rust and CPU-only"
+2026-09-27T20:39:25.770492Z,turbovault-plugin-vector,0.1.0,0,0,https://github.com/epistates/turbovault,"Semantic vector search vertical for TurboVault, as a compiled-in plugin module"
+2026-09-27T20:44:01.338309Z,pklith,0.1.0,0,0,https://github.com/pr0d1r2/pklith,Materialize hk git hook guardrails from what a repository's files require
+2026-09-27T20:48:09.947387Z,oma,0.1.0,0,0,,"OMA binary package format for Arch-style packages: indexed headers, zstd payloads, Ed25519 signatures"
+2026-09-27T20:55:04.897032Z,hql,0.1.0,0,0,https://github.com/ewiger/hql,HQL — Hyper Query Language: an experimental typed functional language
+2026-09-27T21:01:56.538865Z,diavasi-cli,0.12.0,0,0,https://github.com/diavasis/diavasi,Diavasi administration CLI
+2026-09-27T21:07:42.566068Z,plene-gui,0.2.0,0,0,https://github.com/excelano/plene,A window showing Rust source beside its expanded transcription: the same code with abbreviations and symbols written out in words
+2026-09-27T21:11:02.754751Z,lzvolt,1.0.0,0,0,https://github.com/macstab/lzvolt,"LZ, variable. A byte-oriented LZ77 codec that chooses its token layout per value, with hand-written assembly kernels per CPU part line. Decodes 14-83% faster than LZ4 on every shape measured, packs s…"
+2026-09-27T21:11:15.464773Z,usbguard-gui,0.1.0,0,0,https://github.com/onyks-os/USBGuardGUI,Unprivileged GTK4 desktop client for managing USB device authorization policy through the USBGuard daemon.
+2026-09-27T21:12:06.77824Z,kcode-speaker-v3-classifier-testkit,0.1.0,0,0,,Downstream conformance fixtures for Speaker V3 ranking-2
+2026-09-27T21:12:18.242032Z,noir-zk-codegen,0.2.0,0,0,https://github.com/zk-experiments/noir-zk,"Build-time code generation for Noir circuits: typed inputs from nargo ABIs, and the frozen circuit registry (identities, Chonk keys, key tree)"
+2026-09-27T21:12:18.70124Z,noir-zk-core,0.2.0,0,0,https://github.com/zk-experiments/noir-zk,"Circuit seams and field codec for noir-zk: the Circuit / CircuitId identity traits, the prover and verifier seams, and how typed values fold into BN254 field elements"
+2026-09-27T21:12:20.357045Z,noir-zk-backend,0.2.0,0,0,https://github.com/zk-experiments/noir-zk,"Proving backend for Noir circuits: ACVM witness solving, barretenberg Chonk folding (prove / verify) via FFI, and hash-checked frozen registries"
+2026-09-27T21:12:21.454337Z,kante,0.0.0,0,0,,Placeholder for the upcoming kante library.
+2026-09-27T21:12:21.780936Z,noir-zk-cli,0.2.0,0,0,https://github.com/zk-experiments/noir-zk,"noir-zk freeze: mints versions of compiled Noir circuits, derives their Chonk keys and writes a registry for noir-zk-codegen"
+2026-09-27T21:12:24.438118Z,xenolith-lang-shell,0.1.0,0,0,https://github.com/pr0d1r2/xenolith,"Shell support for xenolith: the single-command classifier, bash host sinks, shell guest defaults"
+2026-09-27T21:12:25.233111Z,xenolith-lang-tcl,0.1.0,0,0,https://github.com/pr0d1r2/xenolith,"Tcl and expect support for xenolith: exec and spawn sinks, on the vendored tree-sitter-tcl grammar"
+2026-09-27T21:12:25.916729Z,xenolith-lang-xml,0.1.0,0,0,https://github.com/pr0d1r2/xenolith,XML support for xenolith: text plists whose launchd ProgramArguments hold shell
+2026-09-27T21:12:29.38353Z,xenolith,0.1.0,0,0,https://github.com/pr0d1r2/xenolith,"One language per file: find embedded foreign code, extract it, verify every load resolves"
