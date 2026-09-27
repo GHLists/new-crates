@@ -8,56 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 14:19 UTC
+## Latest list — 2026-09-27 15:19 UTC
 
-New crates published between 2026-09-27 13:20 UTC and 2026-09-27 14:19 UTC.
+New crates published between 2026-09-27 14:19 UTC and 2026-09-27 15:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-27T14-19-52-23397Z.csv)
+[Full CSV](data/new-crates-2026-09-27T15-19-41-14133Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-27 13:24:36 | [flighty-wall](https://crates.io/crates/flighty-wall) | 0.1.0 | 0 | Sync Flighty Friends flights to a FlightWall Mini |
-| 2026-09-27 13:29:50 | [community-databricks-sdk-pipelines](https://crates.io/crates/community-databricks-sdk-pipelines) | 0.1.0 | 0 | Databricks `pipelines` API models and services (community-maintained, generated… |
-| 2026-09-27 13:39:47 | [namigrate-pgsql](https://crates.io/crates/namigrate-pgsql) | 2.0.0 | 0 | PostgreSQL migration gate with session-affine advisory locking |
-| 2026-09-27 13:39:50 | [community-databricks-sdk-postgres](https://crates.io/crates/community-databricks-sdk-postgres) | 0.1.0 | 0 | Databricks `postgres` API models and services (community-maintained, generated;… |
-| 2026-09-27 13:39:57 | [nasaga-backend](https://crates.io/crates/nasaga-backend) | 2.0.0 | 0 | Provider-neutral Saga persistence models and capability contracts |
-| 2026-09-27 13:40:35 | [natx-pgsql](https://crates.io/crates/natx-pgsql) | 2.0.0 | 0 | Named ambient PostgreSQL transactions with managed datasource ownership and con… |
-| 2026-09-27 13:41:01 | [fanta-gpui-icons](https://crates.io/crates/fanta-gpui-icons) | 0.5.0 | 0 | Zed baseline icon definitions for GPUI. |
-| 2026-09-27 13:41:25 | [fanta-gpui-ui-macros](https://crates.io/crates/fanta-gpui-ui-macros) | 0.5.0 | 0 | Procedural macros for Zed baseline GPUI components. |
-| 2026-09-27 13:42:48 | [parterre-core](https://crates.io/crates/parterre-core) | 0.5.0 | 0 | Internal to parterre: repository loading, revision-graph construction and layou… |
-| 2026-09-27 13:42:51 | [parterre](https://crates.io/crates/parterre) | 0.5.0 | 0 | A standalone, TortoiseGit-style revision graph viewer for git repositories. |
-| 2026-09-27 13:46:49 | [rlmctl-common](https://crates.io/crates/rlmctl-common) | 0.2.0 | 0 | Shared limit, profile and config types for rlmctl (the rlm resource limit manag… |
-| 2026-09-27 13:47:01 | [rlmctl-core](https://crates.io/crates/rlmctl-core) | 0.2.0 | 0 | cgroup v2 limit management and the rlm-guard engine for rlmctl |
-| 2026-09-27 13:48:35 | [rlmctl](https://crates.io/crates/rlmctl) | 0.2.0 | 0 | rlm: unprivileged cgroup v2 limits for your own processes, plus rlm-guard, whic… |
-| 2026-09-27 13:49:50 | [community-databricks-sdk-provisioning](https://crates.io/crates/community-databricks-sdk-provisioning) | 0.1.0 | 0 | Databricks `provisioning` API models and services (community-maintained, genera… |
-| 2026-09-27 13:50:31 | [mathtex-editor-session](https://crates.io/crates/mathtex-editor-session) | 0.3.0 | 0 | Batteries included session for mathtex-editor: keymap, typesetting, undo, clipb… |
-| 2026-09-27 13:50:52 | [fanta-gpui-menu](https://crates.io/crates/fanta-gpui-menu) | 0.5.0 | 0 | Zed baseline menu model for GPUI. |
-| 2026-09-27 13:51:19 | [fanta-gpui-zed-ui-assets](https://crates.io/crates/fanta-gpui-zed-ui-assets) | 0.5.0 | 0 | Bundled Zed UI icons, fonts, themes, images, and asset licenses for GPUI. |
-| 2026-09-27 13:51:42 | [carmy-redis](https://crates.io/crates/carmy-redis) | 0.6.0 | 0 | Agent-native execution infrastructure: durable Redis stores for jobs and idempo… |
-| 2026-09-27 13:51:53 | [carmy-openapi](https://crates.io/crates/carmy-openapi) | 0.6.0 | 0 | Agent-native execution infrastructure: an OpenAPI description as Carmy tools |
-| 2026-09-27 13:52:19 | [fanta-gpui-syntax-theme](https://crates.io/crates/fanta-gpui-syntax-theme) | 0.5.0 | 0 | Zed syntax theme primitives for GPUI. |
-| 2026-09-27 13:52:58 | [fanta-gpui-theme](https://crates.io/crates/fanta-gpui-theme) | 0.5.0 | 0 | Zed baseline theme system for GPUI. |
-| 2026-09-27 13:53:06 | [fanta-gpui-component](https://crates.io/crates/fanta-gpui-component) | 0.5.0 | 0 | Zed baseline component preview registry for GPUI. |
-| 2026-09-27 13:55:20 | [gbz-haplotype-index](https://crates.io/crates/gbz-haplotype-index) | 0.1.0 | 0 | Writes a companion haplotype index that names every walk in a gbz-base pangenom… |
-| 2026-09-27 13:56:40 | [torrent-verify](https://crates.io/crates/torrent-verify) | 0.1.1 | 0 | A command-line tool to verify downloaded torrent data |
-| 2026-09-27 13:57:19 | [leviath-graphql-derive](https://crates.io/crates/leviath-graphql-derive) | 0.6.4 | 0 | The #[mirror] attribute: a GraphQL output type's filter input, written from the… |
-| 2026-09-27 13:59:11 | [lsm303-driver](https://crates.io/crates/lsm303-driver) | 0.1.0 | 0 | no_std driver for the ST LSM303 accelerometer + magnetometer family (GY-511) |
-| 2026-09-27 13:59:27 | [neo-gps](https://crates.io/crates/neo-gps) | 0.1.0 | 0 | Sync/async no_std driver for the u-blox NEO-xM GPS module family (NEO-6M/7M/8M/… |
-| 2026-09-27 13:59:50 | [community-databricks-sdk-qualitymonitorv2](https://crates.io/crates/community-databricks-sdk-qualitymonitorv2) | 0.1.0 | 0 | Databricks `qualitymonitorv2` API models and services (community-maintained, ge… |
-| 2026-09-27 14:01:04 | [arq-io-async](https://crates.io/crates/arq-io-async) | 0.0.1 | 0 | Asynchronous implementation of ARQ in Rust. |
-| 2026-09-27 14:02:47 | [syntrop-runtimed-gguf](https://crates.io/crates/syntrop-runtimed-gguf) | 0.4.0 | 0 | Zero-ML-dependency GGUF parser, dequantizer, and weight registry for syntrop-ru… |
-| 2026-09-27 14:03:49 | [fanta-gpui-file-icons](https://crates.io/crates/fanta-gpui-file-icons) | 0.5.0 | 0 | Zed baseline file icon lookup for GPUI. |
-| 2026-09-27 14:04:21 | [syntrop-runtimed-model](https://crates.io/crates/syntrop-runtimed-model) | 0.4.0 | 0 | Owned LLM forward pass: arch configs, candle-backed weights, generate loop |
-| 2026-09-27 14:07:08 | [csm-duckdb](https://crates.io/crates/csm-duckdb) | 0.3.8 | 0 | Optional analytics, Parquet export, and SQL inspection for chaotic_semantic_mem… |
-| 2026-09-27 14:07:46 | [naidempotency-pgsql](https://crates.io/crates/naidempotency-pgsql) | 2.0.0 | 0 | PostgreSQL idempotency store with named ambient transactions, lease fencing, an… |
-| 2026-09-27 14:07:56 | [nainbox-pgsql](https://crates.io/crates/nainbox-pgsql) | 2.0.0 | 0 | PostgreSQL Inbox backend with named ambient transactions and target-key dedupli… |
-| 2026-09-27 14:08:25 | [namapper-pgsql](https://crates.io/crates/namapper-pgsql) | 2.0.0 | 0 | Declarative PostgreSQL mapper with ambient transactions, atomic SQL metrics, an… |
-| 2026-09-27 14:08:40 | [naoutbox-pgsql](https://crates.io/crates/naoutbox-pgsql) | 2.0.0 | 0 | PostgreSQL transactional Outbox with fenced dispatch ownership, SKIP LOCKED pol… |
-| 2026-09-27 14:09:16 | [nasaga-pgsql](https://crates.io/crates/nasaga-pgsql) | 2.0.0 | 0 | Durable named-datasource PostgreSQL store for NASA Saga state, fencing, audit,… |
-| 2026-09-27 14:09:50 | [community-databricks-sdk-sandbox](https://crates.io/crates/community-databricks-sdk-sandbox) | 0.1.0 | 0 | Databricks `sandbox` API models and services (community-maintained, generated;… |
-| 2026-09-27 14:14:35 | [fanta-gpui-ui](https://crates.io/crates/fanta-gpui-ui) | 0.5.0 | 0 | Zed baseline UI components for GPUI. |
-| 2026-09-27 14:15:32 | [nasaga-runtime-core](https://crates.io/crates/nasaga-runtime-core) | 2.0.0 | 0 | Backend-neutral NASA Saga state machine and shared runtime state |
-| 2026-09-27 14:19:50 | [community-databricks-sdk-serving](https://crates.io/crates/community-databricks-sdk-serving) | 0.1.0 | 0 | Databricks `serving` API models and services (community-maintained, generated;… |
+| 2026-09-27 14:22:36 | [stagesift](https://crates.io/crates/stagesift) | 0.1.0 | 0 | A fast native app for reviewing, partially staging and committing Git changes. |
+| 2026-09-27 14:24:04 | [privatecrates-common](https://crates.io/crates/privatecrates-common) | 0.2.1 | 0 | Types and rules shared by the PrivateCrates credential provider, verifier and s… |
+| 2026-09-27 14:24:06 | [cargo-credential-privatecrates](https://crates.io/crates/cargo-credential-privatecrates) | 0.2.1 | 0 | Cargo credential provider for PrivateCrates private registries: GitHub device f… |
+| 2026-09-27 14:24:07 | [privatecrates-verify](https://crates.io/crates/privatecrates-verify) | 0.2.1 | 0 | Verifies everything PrivateCrates wrote to a storage repository: append-only in… |
+| 2026-09-27 14:24:47 | [fanta-gpui-ui-input](https://crates.io/crates/fanta-gpui-ui-input) | 0.5.0 | 0 | Zed baseline input components for GPUI. |
+| 2026-09-27 14:29:50 | [community-databricks-sdk-settingsv2](https://crates.io/crates/community-databricks-sdk-settingsv2) | 0.1.0 | 0 | Databricks `settingsv2` API models and services (community-maintained, generate… |
+| 2026-09-27 14:30:57 | [tauron-host](https://crates.io/crates/tauron-host) | 1.0.0 | 0 | tauron 宿主插件核心：manifest 校验、三档授权、生命周期状态机、注册表 |
+| 2026-09-27 14:31:02 | [tauron-acl](https://crates.io/crates/tauron-acl) | 1.0.0 | 0 | tauron 权限授予与审批（开发计划 §4.5） |
+| 2026-09-27 14:31:04 | [tauron-brand](https://crates.io/crates/tauron-brand) | 1.0.0 | 0 | §4.16 白标：品牌清单 → tauri.conf 片段合并 + 唯一性校验 + 图标管线 |
+| 2026-09-27 14:31:06 | [tauron-distribute](https://crates.io/crates/tauron-distribute) | 1.0.0 | 0 | §4.19 CI 分发运维：更新通道、灰度批次、崩溃率停发、签名校验 |
+| 2026-09-27 14:31:08 | [tauron-i18n](https://crates.io/crates/tauron-i18n) | 1.0.0 | 0 | §4.20 i18n 桥：语言状态单一来源、资源包、缺失键回落计数 |
+| 2026-09-27 14:37:46 | [seiso_config](https://crates.io/crates/seiso_config) | 0.0.0 | 0 | Configuration discovery and documentation policy resolution for seiso |
+| 2026-09-27 14:37:47 | [seiso_diagnostics](https://crates.io/crates/seiso_diagnostics) | 0.0.0 | 0 | Source locations and deterministic diagnostic rendering for seiso |
+| 2026-09-27 14:37:50 | [seiso_md](https://crates.io/crates/seiso_md) | 0.0.0 | 0 | Source-preserving Markdown document model for seiso |
+| 2026-09-27 14:37:52 | [seiso](https://crates.io/crates/seiso) | 0.0.0 | 0 | Command-line interface for seiso |
+| 2026-09-27 14:37:56 | [auv-api-proto](https://crates.io/crates/auv-api-proto) | 0.0.22 | 0 | Application Use Via... script-able OS automation library |
+| 2026-09-27 14:37:57 | [auv-cli-common-macros](https://crates.io/crates/auv-cli-common-macros) | 0.0.22 | 0 | Application Use Via... script-able OS automation library |
+| 2026-09-27 14:37:57 | [auv-cli-invoke-macros](https://crates.io/crates/auv-cli-invoke-macros) | 0.0.22 | 0 | Application Use Via... script-able OS automation library |
+| 2026-09-27 14:37:57 | [auv-driver-common](https://crates.io/crates/auv-driver-common) | 0.0.22 | 0 | Application Use Via... script-able OS automation library |
+| 2026-09-27 14:37:57 | [auv-inference-common](https://crates.io/crates/auv-inference-common) | 0.0.22 | 0 | Common inference utilities for AUV |
+| 2026-09-27 14:39:50 | [community-databricks-sdk-supervisoragents](https://crates.io/crates/community-databricks-sdk-supervisoragents) | 0.1.0 | 0 | Databricks `supervisoragents` API models and services (community-maintained, ge… |
+| 2026-09-27 14:41:26 | [arcsec-core](https://crates.io/crates/arcsec-core) | 0.1.0 | 0 | Plate-solving library behind the arcsec CLI: star detection, quad matching, bli… |
+| 2026-09-27 14:41:32 | [arcsec](https://crates.io/crates/arcsec) | 0.1.0 | 0 | Astrometric plate solver: find where a telescope was pointing from an image |
+| 2026-09-27 14:43:18 | [privatecrates-auth](https://crates.io/crates/privatecrates-auth) | 0.2.1 | 0 | Signing in to PrivateCrates with GitHub's device flow, and keeping the token in… |
+| 2026-09-27 14:43:21 | [cargo-privatecrates](https://crates.io/crates/cargo-privatecrates) | 0.2.1 | 0 | Set up PrivateCrates private registries from the command line: sign in, onboard… |
+| 2026-09-27 14:45:02 | [naaudit-pgsql](https://crates.io/crates/naaudit-pgsql) | 2.0.0 | 0 | Transactional PostgreSQL audit sink backed by a named PgOutbox datasource |
+| 2026-09-27 14:45:42 | [nasaga-runtime-pgsql](https://crates.io/crates/nasaga-runtime-pgsql) | 2.0.0 | 0 | PostgreSQL durable Saga orchestration with datasource-bound transactions, outbo… |
+| 2026-09-27 14:48:57 | [tauron-market](https://crates.io/crates/tauron-market) | 1.0.0 | 0 | §4.18 商城：索引、验签、受控解包、版本比对、审计日志 |
+| 2026-09-27 14:49:50 | [community-databricks-sdk-tags](https://crates.io/crates/community-databricks-sdk-tags) | 0.1.0 | 0 | Databricks `tags` API models and services (community-maintained, generated; use… |
+| 2026-09-27 14:50:59 | [tauron-notify](https://crates.io/crates/tauron-notify) | 1.0.0 | 0 | §4.15 通知中心：统一出口分发 + 历史持久化 + 环形裁剪 + 卸载清理 |
+| 2026-09-27 14:53:01 | [binlayout](https://crates.io/crates/binlayout) | 0.1.0 | 0 | Host-independent size, alignment, padding, and offset calculations for binary d… |
+| 2026-09-27 14:59:50 | [community-databricks-sdk-vectorsearch](https://crates.io/crates/community-databricks-sdk-vectorsearch) | 0.1.0 | 0 | Databricks `vectorsearch` API models and services (community-maintained, genera… |
+| 2026-09-27 15:00:59 | [tauron-proc](https://crates.io/crates/tauron-proc) | 1.0.0 | 0 | 进程插件 host：sidecar spawn、JSON-RPC(stdio/WS)、取消/超时/流式、心跳与崩溃检测 |
+| 2026-09-27 15:02:44 | [kuknos-soroban-builtin-sdk-macros-tmp](https://crates.io/crates/kuknos-soroban-builtin-sdk-macros-tmp) | 20.0.1 | 0 | Soroban builtin SDK macros. |
+| 2026-09-27 15:03:05 | [kuknos-soroban-env-macros-tmp](https://crates.io/crates/kuknos-soroban-env-macros-tmp) | 20.0.1 | 0 | Soroban contract environment macros. |
+| 2026-09-27 15:03:30 | [kuknos-soroban-env-common-tmp](https://crates.io/crates/kuknos-soroban-env-common-tmp) | 20.0.1 | 0 | Soroban contract environment common types and functionality. |
+| 2026-09-27 15:08:48 | [swiss_knife_utils](https://crates.io/crates/swiss_knife_utils) | 0.1.0 | 0 | A Rust library to remove some boilerplate |
+| 2026-09-27 15:09:50 | [community-databricks-sdk-workspace](https://crates.io/crates/community-databricks-sdk-workspace) | 0.1.0 | 0 | Databricks `workspace` API models and services (community-maintained, generated… |
+| 2026-09-27 15:10:59 | [tauron-recovery](https://crates.io/crates/tauron-recovery) | 1.0.0 | 0 | §4.14 崩溃恢复 + 安全模式：启动失败计数、幂等快照、恢复向导 |
+| 2026-09-27 15:11:12 | [rpi-voice](https://crates.io/crates/rpi-voice) | 0.2.0 | 0 | Voice conversation extension for rpi — offline STT + auto-TTS replies |
+| 2026-09-27 15:11:53 | [webtrans-quion](https://crates.io/crates/webtrans-quion) | 0.6.0 | 0 | Native WebTransport implementation built on top of QUIC using Quion. |
+| 2026-09-27 15:15:51 | [svg2lottie](https://crates.io/crates/svg2lottie) | 0.1.0 | 0 | SVG to Lottie JSON and Telegram TGS converter |
 
 ## Data source
 

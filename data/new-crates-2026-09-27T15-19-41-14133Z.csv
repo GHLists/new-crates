@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T14:22:36.901757Z,stagesift,0.1.0,0,0,https://github.com/lef237/stagesift,"A fast native app for reviewing, partially staging and committing Git changes."
+2026-09-27T14:24:04.136619Z,privatecrates-common,0.2.1,0,0,https://github.com/worldbuilding-dev/privatecrates.dev,"Types and rules shared by the PrivateCrates credential provider, verifier and server."
+2026-09-27T14:24:06.432276Z,cargo-credential-privatecrates,0.2.1,0,0,https://github.com/worldbuilding-dev/privatecrates.dev,"Cargo credential provider for PrivateCrates private registries: GitHub device flow on developer machines, Actions OIDC in CI."
+2026-09-27T14:24:07.140201Z,privatecrates-verify,0.2.1,0,0,https://github.com/worldbuilding-dev/privatecrates.dev,"Verifies everything PrivateCrates wrote to a storage repository: append-only index, immutable releases and GitHub-signed provenance."
+2026-09-27T14:24:47.955639Z,fanta-gpui-ui-input,0.5.0,0,0,https://github.com/squidred-dev/fanta-ui,Zed baseline input components for GPUI.
+2026-09-27T14:29:50.782151Z,community-databricks-sdk-settingsv2,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `settingsv2` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T14:30:57.599113Z,tauron-host,1.0.0,0,0,https://github.com/coeasy/tauron,tauron 宿主插件核心：manifest 校验、三档授权、生命周期状态机、注册表
+2026-09-27T14:31:02.122146Z,tauron-acl,1.0.0,0,0,https://github.com/coeasy/tauron,tauron 权限授予与审批（开发计划 §4.5）
+2026-09-27T14:31:04.584646Z,tauron-brand,1.0.0,0,0,https://github.com/coeasy/tauron,§4.16 白标：品牌清单 → tauri.conf 片段合并 + 唯一性校验 + 图标管线
+2026-09-27T14:31:06.91559Z,tauron-distribute,1.0.0,0,0,https://github.com/coeasy/tauron,§4.19 CI 分发运维：更新通道、灰度批次、崩溃率停发、签名校验
+2026-09-27T14:31:08.998487Z,tauron-i18n,1.0.0,0,0,https://github.com/coeasy/tauron,§4.20 i18n 桥：语言状态单一来源、资源包、缺失键回落计数
+2026-09-27T14:37:46.030039Z,seiso_config,0.0.0,0,0,https://github.com/scarletkc/seiso,Configuration discovery and documentation policy resolution for seiso
+2026-09-27T14:37:47.644153Z,seiso_diagnostics,0.0.0,0,0,https://github.com/scarletkc/seiso,Source locations and deterministic diagnostic rendering for seiso
+2026-09-27T14:37:50.213882Z,seiso_md,0.0.0,0,0,https://github.com/scarletkc/seiso,Source-preserving Markdown document model for seiso
+2026-09-27T14:37:52.350804Z,seiso,0.0.0,0,0,https://github.com/scarletkc/seiso,Command-line interface for seiso
+2026-09-27T14:37:56.833739Z,auv-api-proto,0.0.22,0,0,https://github.com/moeru-ai/auv,Application Use Via... script-able OS automation library
+2026-09-27T14:37:57.226001Z,auv-cli-common-macros,0.0.22,0,0,https://github.com/moeru-ai/auv,Application Use Via... script-able OS automation library
+2026-09-27T14:37:57.410726Z,auv-cli-invoke-macros,0.0.22,0,0,https://github.com/moeru-ai/auv,Application Use Via... script-able OS automation library
+2026-09-27T14:37:57.614597Z,auv-driver-common,0.0.22,0,0,https://github.com/moeru-ai/auv,Application Use Via... script-able OS automation library
+2026-09-27T14:37:57.880728Z,auv-inference-common,0.0.22,0,0,https://github.com/moeru-ai/auv,Common inference utilities for AUV
+2026-09-27T14:39:50.427937Z,community-databricks-sdk-supervisoragents,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `supervisoragents` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T14:41:26.699244Z,arcsec-core,0.1.0,0,0,https://github.com/cruzzil/arcsec,"Plate-solving library behind the arcsec CLI: star detection, quad matching, blind solving and WCS fitting"
+2026-09-27T14:41:32.067444Z,arcsec,0.1.0,0,0,https://github.com/cruzzil/arcsec,Astrometric plate solver: find where a telescope was pointing from an image
+2026-09-27T14:43:18.640284Z,privatecrates-auth,0.2.1,0,0,https://github.com/worldbuilding-dev/privatecrates.dev,"Signing in to PrivateCrates with GitHub's device flow, and keeping the token in the system keyring."
+2026-09-27T14:43:21.374181Z,cargo-privatecrates,0.2.1,0,0,https://github.com/worldbuilding-dev/privatecrates.dev,"Set up PrivateCrates private registries from the command line: sign in, onboard an organisation, configure crate repositories for trusted publishing, and check the result."
+2026-09-27T14:45:02.124212Z,naaudit-pgsql,2.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,Transactional PostgreSQL audit sink backed by a named PgOutbox datasource
+2026-09-27T14:45:42.346687Z,nasaga-runtime-pgsql,2.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,"PostgreSQL durable Saga orchestration with datasource-bound transactions, outbox recovery, and authenticated transports"
+2026-09-27T14:48:57.606478Z,tauron-market,1.0.0,0,0,https://github.com/coeasy/tauron,§4.18 商城：索引、验签、受控解包、版本比对、审计日志
+2026-09-27T14:49:50.695164Z,community-databricks-sdk-tags,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `tags` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T14:50:59.582762Z,tauron-notify,1.0.0,0,0,https://github.com/coeasy/tauron,§4.15 通知中心：统一出口分发 + 历史持久化 + 环形裁剪 + 卸载清理
+2026-09-27T14:53:01.226668Z,binlayout,0.1.0,0,0,https://github.com/LunaStev/binlayout,"Host-independent size, alignment, padding, and offset calculations for binary data models"
+2026-09-27T14:59:50.704597Z,community-databricks-sdk-vectorsearch,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `vectorsearch` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T15:00:59.801259Z,tauron-proc,1.0.0,0,0,https://github.com/coeasy/tauron,进程插件 host：sidecar spawn、JSON-RPC(stdio/WS)、取消/超时/流式、心跳与崩溃检测
+2026-09-27T15:02:44.442754Z,kuknos-soroban-builtin-sdk-macros-tmp,20.0.1,0,0,https://github.com/stellar/rs-soroban-env,Soroban builtin SDK macros.
+2026-09-27T15:03:05.161818Z,kuknos-soroban-env-macros-tmp,20.0.1,0,0,https://github.com/stellar/rs-soroban-env,Soroban contract environment macros.
+2026-09-27T15:03:30.268836Z,kuknos-soroban-env-common-tmp,20.0.1,0,0,https://github.com/stellar/rs-soroban-env,Soroban contract environment common types and functionality.
+2026-09-27T15:08:48.795414Z,swiss_knife_utils,0.1.0,0,0,https://gitlab.com/NoloxoYT/swiss_knife,A Rust library to remove some boilerplate
+2026-09-27T15:09:50.577315Z,community-databricks-sdk-workspace,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `workspace` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T15:10:59.602187Z,tauron-recovery,1.0.0,0,0,https://github.com/coeasy/tauron,§4.14 崩溃恢复 + 安全模式：启动失败计数、幂等快照、恢复向导
+2026-09-27T15:11:12.054782Z,rpi-voice,0.2.0,0,0,https://github.com/pi-rust/rpi-package,Voice conversation extension for rpi — offline STT + auto-TTS replies
+2026-09-27T15:11:53.438135Z,webtrans-quion,0.6.0,0,0,https://github.com/foctal/webtrans,Native WebTransport implementation built on top of QUIC using Quion.
+2026-09-27T15:15:51.514212Z,svg2lottie,0.1.0,0,0,https://github.com/ghotriw/svg2lottie,SVG to Lottie JSON and Telegram TGS converter
