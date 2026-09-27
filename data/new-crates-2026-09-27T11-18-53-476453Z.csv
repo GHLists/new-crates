@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T10:29:50.622205Z,community-databricks-sdk-settings,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `settings` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T10:30:52.307631Z,syncer-language,0.1.0,0,0,https://github.com/k-kinzal/syncer-rs,HCL policy language for syncer
+2026-09-27T10:30:58.028466Z,syncer-extension-sdk,0.1.0,0,0,https://github.com/k-kinzal/syncer-rs,Versioned native extension ABI for syncer
+2026-09-27T10:31:12.739034Z,syncer-core,0.1.0,0,0,https://github.com/k-kinzal/syncer-rs,"Planning, policy resolution and safe file application for syncer"
+2026-09-27T10:31:21.82932Z,syncer-cli,0.1.0,0,0,https://github.com/k-kinzal/syncer-rs,Layered file policy synchronization CLI
+2026-09-27T10:31:37.005176Z,syncer-extension-http,0.1.0,0,0,https://github.com/k-kinzal/syncer-rs,Official http extension for syncer
+2026-09-27T10:34:18.553027Z,mcp-server-lint-arwaky,3.7.1,0,0,,MCP server surface for lint-arwaky.
+2026-09-27T10:34:42.026787Z,cli-commands,3.7.1,0,0,https://github.com/rakaarwaky/lint-arwaky,"CLI command surface for lint-arwaky: scan, fix, watch, and report actions."
+2026-09-27T10:37:29.299781Z,rusty-docs,0.1.0,0,0,https://github.com/malezjaa/rusty-docs,Generate static documentation sites for Rust crates
+2026-09-27T10:38:59.653291Z,lint_arwaky-arwaky,3.7.1,0,0,https://github.com/rakaarwaky/lint-arwaky,"Autonomous code quality and architecture enforcement for AI agents and developers, enforcing 24 Agentic Engineering System (AES) rules."
+2026-09-27T10:39:50.556239Z,community-databricks-sdk-sharing,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `sharing` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T10:40:54.700199Z,syncer-extension-git,0.1.0,0,0,https://github.com/k-kinzal/syncer-rs,Official git extension for syncer
+2026-09-27T10:49:22.186137Z,xstars,0.1.0,0,0,https://github.com/xstarust/xstars,紫微斗数排盘引擎 — 紫微斗数算法库，支持多流派、多语言、运限系统
+2026-09-27T10:49:50.659696Z,community-databricks-sdk-cleanrooms,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `cleanrooms` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T10:50:55.10233Z,syncer-extension-google-drive,0.1.0,0,0,https://github.com/k-kinzal/syncer-rs,Official google-drive extension for syncer
+2026-09-27T10:51:29.539998Z,guinea-mark,0.13.2,0,0,https://github.com/uniproc-dev/guinea,Names for what tests and tools reach for on screen
+2026-09-27T10:51:32.023063Z,guinea-meta,0.13.2,0,0,https://github.com/uniproc-dev/guinea,Runtime access to the constants guinea-meta-build derives from an application's app.toml
+2026-09-27T10:51:43.977954Z,guinea-meta-build,0.13.2,0,0,https://github.com/uniproc-dev/guinea,"For build.rs: reads app.toml, embeds the executable's resources, and writes the constants guinea-meta reads"
+2026-09-27T10:51:53.190765Z,guinea-route-dsl,0.13.2,0,0,https://github.com/uniproc-dev/guinea,"The route tree `routes!` declares, parsed - shared by the macro that expands it and by build scripts that generate from it"
+2026-09-27T10:52:09.921272Z,guinea-trace,0.13.2,0,0,https://github.com/uniproc-dev/guinea,What caused what inside a guinea application
+2026-09-27T10:53:26.806699Z,better-duck-sys,0.1.0-beta.4,0,0,https://github.com/nimdeveloper/better-duck,Vendored DuckDB C API and bindings for the better-duck workspace
+2026-09-27T10:54:56.659755Z,reclean,0.5.0,0,0,https://github.com/shakfu/reclean,Safely remove files and directories matching a set of glob patterns.
+2026-09-27T10:56:17.777645Z,annodiff,0.1.0,0,0,https://github.com/MelsRoughSketch/annodiff,A terminal UI for annotating Git diffs and sending reviews to coding agents
+2026-09-27T10:59:50.789968Z,community-databricks-sdk-sql,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `sql` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T11:00:54.852463Z,syncer-extension-json,0.1.0,0,0,https://github.com/k-kinzal/syncer-rs,Official json extension for syncer
+2026-09-27T11:07:39.831837Z,audio2face3d-gui,0.2.0,0,0,https://github.com/aosoft/audio2face3d-rs,"Reusable Audio2Face-3D inspection, rendering and playback library"
+2026-09-27T11:08:14.437454Z,guinea-codegen,0.13.2,0,0,https://github.com/uniproc-dev/guinea,Build-script helpers for guinea applications: generated files written only when they change
+2026-09-27T11:09:50.388718Z,community-databricks-sdk-dashboards,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `dashboards` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T11:10:53.824471Z,guinea-slint-build,0.13.2,0,0,https://github.com/uniproc-dev/guinea,Compiles an application's .slint tree for guinea-slint
+2026-09-27T11:10:54.554231Z,syncer-extension-claude,0.1.0,0,0,https://github.com/k-kinzal/syncer-rs,Official claude extension for syncer
