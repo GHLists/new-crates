@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T16:25:55.260236Z,toolctl,0.3.0,0,0,https://github.com/syntropd/toold,Command-line control interface for syntrop-toold
+2026-09-27T16:27:06.828033Z,cargo-checkup,1.0.0,0,0,https://github.com/wakaranakattari/cargo-checkup,"Unified cargo health check: unused deps, outdated, duplicates, advisories, hygiene - one report, optional --fix"
+2026-09-27T16:27:58.811584Z,tauri-kit-fs,0.2.0,0,0,https://github.com/iyulab/tauri-kit,"Crash-safe file writes for desktop apps: write, sync, then rename into place."
+2026-09-27T16:28:03.316398Z,tauri-kit-credentials,0.2.0,0,0,https://github.com/iyulab/tauri-kit,"Secrets in the OS credential store, with test and development builds kept off the installed app's entries."
+2026-09-27T16:28:06.615386Z,tauri-kit-sidecar,0.2.0,0,0,https://github.com/iyulab/tauri-kit,"Run a bundled helper process for a desktop app: no console window, no orphans, and a readiness wait that notices a crash."
+2026-09-27T16:29:09.47769Z,reinspiring,0.1.2,0,0,https://github.com/valargroup/ipir-sp,"ReinspiRING: coefficient-domain compilation of InspiRING.Pack (eprint 2026/1934, Algorithm 2)"
+2026-09-27T16:29:18.652505Z,urtorrent-bencode,0.14.2,0,0,https://github.com/giejqf/urtorrent,"Zero-copy bencode decoding and canonical encoding for urtorrent, preserving raw info-dict bytes"
+2026-09-27T16:29:21.777873Z,urtorrent-profile,0.14.2,0,0,https://github.com/giejqf/urtorrent,"Identity and wire-shape profiles (native and qBittorrent conformance) for urtorrent, as data"
+2026-09-27T16:29:25.77504Z,urtorrent-uring,0.14.2,0,0,https://github.com/giejqf/urtorrent,"io_uring reactor, buffer pools, timers and TCP/UDP/file operations for urtorrent (the only crate with unsafe code)"
+2026-09-27T16:29:29.085771Z,urtorrent-metainfo,0.14.2,0,0,https://github.com/giejqf/urtorrent,"Torrent metainfo and magnet parsing, file tree and piece/file span mapping for urtorrent"
+2026-09-27T16:29:32.956688Z,urtorrent-utp,0.14.2,0,0,https://github.com/giejqf/urtorrent,"Sans-IO uTP (BEP 29, LEDBAT) transport state machine for urtorrent"
+2026-09-27T16:30:00.167885Z,touchstone-core,0.1.0,0,0,https://github.com/savageAZfck/touchstone,Core types and verdict rules for the touchstone personal AGI conformance spec
+2026-09-27T16:30:08.955822Z,touchstone-harness,0.1.0,0,0,https://github.com/savageAZfck/touchstone,"Conformance battery runner: adapter trait, exec protocol, scoring"
+2026-09-27T16:30:18.547053Z,touchstone-identity,0.1.0,0,0,https://github.com/savageAZfck/touchstone,Device-bound attestation signing: Secure Enclave (macOS) + Ed25519 fallback
+2026-09-27T16:30:22.84112Z,touchstone-cli,0.1.0,0,0,https://github.com/savageAZfck/touchstone,"The touchstone binary: run the conformance battery, sign and verify attestations"
+2026-09-27T16:35:18.14918Z,refinr,0.0.1,0,0,https://github.com/zcoder-run/rust-refinr,"Optimize content for AI - Fetch, sanitize, and map content to make it more useful for AI."
+2026-09-27T16:35:38.915701Z,kronecker-fri,0.4.0,0,0,https://github.com/qoosmo/kronecker-fri,Kronecker-FRI: a hash-based multilinear polynomial commitment from a coefficient-extraction identity
+2026-09-27T16:36:15.58785Z,clia_tree_arena,0.2.0,0,0,https://github.com/linebender/xilem,An arena allocated tree.
+2026-09-27T16:36:57.0772Z,clia_masonry_core,0.4.0,0,0,https://github.com/linebender/xilem,Traits and types of the Masonry toolkit.
+2026-09-27T16:37:25.201621Z,muxio-sync-rpc-server,0.17.0-alpha,0,0,https://github.com/jzombie/rust-muxio,A sync (no async runtime) Muxio RPC server over blocking byte halves.
+2026-09-27T16:37:29.490886Z,muxio-sync-rpc-client,0.17.0-alpha,0,0,https://github.com/jzombie/rust-muxio,A sync (no async runtime) Muxio RPC client over blocking byte halves.
+2026-09-27T16:37:58.062416Z,clia_masonry_winit,0.4.0,0,0,https://github.com/linebender/xilem,Data-oriented Rust UI design toolkit.
+2026-09-27T16:39:24.823901Z,urtorrent-dht,0.14.2,0,0,https://github.com/giejqf/urtorrent,"Mainline DHT (BEP 5, 42, 43, 51) node as a sans-IO state machine for urtorrent"
+2026-09-27T16:41:53.782583Z,clia_linebender_include_doc_path,0.1.0,0,0,https://github.com/linebender/xilem,Helper macro for linking to files in docs.rs.
+2026-09-27T16:42:52.646939Z,clia_masonry,0.4.0,0,0,https://github.com/linebender/xilem,Traits and types of the Masonry toolkit.
+2026-09-27T16:48:05.031552Z,compio-pool,0.0.1,0,0,,A thread-per-core connection pool for the compio runtime
+2026-09-27T16:49:26.314356Z,urtorrent-mse,0.14.2,0,0,https://github.com/giejqf/urtorrent,Sans-IO Message Stream Encryption (MSE/PE) handshake and RC4 stream for urtorrent
+2026-09-27T16:51:15.481832Z,thaler,0.1.0,0,0,,"The Thaler API: financial data from SEC filings, with the source filing for every value."
+2026-09-27T16:51:28.610424Z,cli-desktop,0.11.0,0,0,,"A text-based desktop (ASCII wallpaper, icons, taskbar, trash) using tmux as the window manager"
+2026-09-27T16:55:42.107144Z,ratatui-widgettable,0.1.0,0,0,https://github.com/gold-silver-copper/ratatui-widgettable,"A Ratatui table widget whose cells can contain any widget (Paragraph, Block, Gauge, ...)"
+2026-09-27T16:56:13.807074Z,oxpdf,0.2.0,0,0,https://github.com/isaim0011/oxpdf,"Next-generation, pure-Rust streaming PDF engine: memory-bounded, zero-copy, SIMD-accelerated, and fault-tolerant."
+2026-09-27T16:58:03.505516Z,retiretui_tui,0.2.0,0,0,https://github.com/kenianbei/retiretui,"The RetireTui planner's interface: a plurimus app over a projected retirement plan, for the terminal or the browser."
+2026-09-27T16:59:24.092087Z,urtorrent-picker,0.14.2,0,0,https://github.com/giejqf/urtorrent,"Piece picker and block request scheduling (rarest-first, priorities, sequential, end-game) for urtorrent"
+2026-09-27T16:59:54.611278Z,edge_gate,0.1.0,0,0,https://github.com/savageAZfck/edge_gate,"Local LLM edge gateway: dedup, blind, filter, meter, audit"
+2026-09-27T17:05:23.973848Z,kornia-sensors,0.1.0,0,0,https://github.com/kornia/kornia-slam,"Physical sensor processing for kornia: IMU preintegration, noise models, and calibration."
+2026-09-27T17:07:03.144634Z,kornia-slam,0.1.0,0,0,https://github.com/kornia/kornia-slam,"Real-time visual-inertial SLAM in Rust, built on kornia-rs."
+2026-09-27T17:07:06.235009Z,gitplume,0.1.1,0,0,https://github.com/LBognanni/gitplume,A fast terminal app for reviewing and staging your Git changes
+2026-09-27T17:09:13.895884Z,rig-http,0.0.0,0,0,,Placeholder crate reserved for an upcoming project.
+2026-09-27T17:09:22.856966Z,urtorrent-storage,0.14.2,0,0,https://github.com/giejqf/urtorrent,"Disk layout, preallocation, hashing pipeline and crash-safe resume data for urtorrent"
+2026-09-27T17:17:08.165983Z,respawned,0.3.0,0,0,https://github.com/savageAZfck/respawn,"Versioned respawn: content-addressed snapshots, atomic revert, drift detection, LAN sync"

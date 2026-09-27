@@ -8,51 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 16:19 UTC
+## Latest list — 2026-09-27 17:18 UTC
 
-New crates published between 2026-09-27 15:19 UTC and 2026-09-27 16:19 UTC.
+New crates published between 2026-09-27 16:19 UTC and 2026-09-27 17:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-27T16-19-54-906323Z.csv)
+[Full CSV](data/new-crates-2026-09-27T17-18-58-25524Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-27 15:19:50 | [community-databricks-sdk](https://crates.io/crates/community-databricks-sdk) | 0.1.0 | 0 | Community-maintained (unofficial) Rust SDK for the Databricks Account and Works… |
-| 2026-09-27 15:20:59 | [tauron-schema](https://crates.io/crates/tauron-schema) | 1.0.0 | 0 | tauron 设置 schema 规范化管线（计划 §4.13：$ref 展开 + enum 内部标签化 + x-tauron → uiSchema） |
-| 2026-09-27 15:22:45 | [egui_bench](https://crates.io/crates/egui_bench) | 0.1.0 | 0 | Bench-instrument theme and components for egui: chassis greys, engraved legends… |
-| 2026-09-27 15:26:24 | [qppocr-kernels](https://crates.io/crates/qppocr-kernels) | 0.2.1 | 0 | qppocr 的算子内核：唯一允许 unsafe 的 crate（AVX2/NEON/WASM SIMD） |
-| 2026-09-27 15:27:04 | [qppocr-core](https://crates.io/crates/qppocr-core) | 0.2.1 | 0 | qppocr 引擎主体：ONNX 解析、图优化、执行器、det/cls/rec 流水线 |
-| 2026-09-27 15:27:13 | [qppocr](https://crates.io/crates/qppocr) | 0.2.1 | 0 | 纯 Rust、手写内核的 PP-OCRv6 推理引擎（面向上游官方 ONNX 原件） |
-| 2026-09-27 15:30:44 | [demogod](https://crates.io/crates/demogod) | 0.0.9 | 0 | Records terminal and browser demos from a tape: GIF, MP4, WebM, PNG and asciica… |
-| 2026-09-27 15:30:59 | [tauron-settings](https://crates.io/crates/tauron-settings) | 1.0.0 | 0 | §4.12 设置中心：schema 注册表 + 四层合并 + get/set/watch + 渲染数据产出 |
-| 2026-09-27 15:36:25 | [strop-worker-deploy](https://crates.io/crates/strop-worker-deploy) | 0.36.0 | 0 | Worker artifact deployment and private-cache admission over authenticated provi… |
-| 2026-09-27 15:39:26 | [mise-bootstrap](https://crates.io/crates/mise-bootstrap) | 0.0.0 | 0 | Placeholder for the mise bootstrap resource planner |
-| 2026-09-27 15:40:03 | [diavasi](https://crates.io/crates/diavasi) | 0.12.0 | 0 | Durable consumer groups over existing database queries |
-| 2026-09-27 15:40:17 | [diavasi-adapter-postgres](https://crates.io/crates/diavasi-adapter-postgres) | 0.12.0 | 0 | PostgreSQL source adapter for Diavasi |
-| 2026-09-27 15:40:59 | [tauron-theme](https://crates.io/crates/tauron-theme) | 1.0.0 | 0 | 外观皮肤/主题插件：ThemeRegistry + 运行时切换 + CSS 变量生成 + 持久化 |
-| 2026-09-27 15:41:15 | [diavasi-adapter-mongodb](https://crates.io/crates/diavasi-adapter-mongodb) | 0.12.0 | 0 | MongoDB source adapter for Diavasi |
-| 2026-09-27 15:41:36 | [diavasi-adapter-redis](https://crates.io/crates/diavasi-adapter-redis) | 0.12.0 | 0 | Redis Streams source adapter for Diavasi |
-| 2026-09-27 15:42:20 | [diavasi-adapter-scylla](https://crates.io/crates/diavasi-adapter-scylla) | 0.12.0 | 0 | ScyllaDB source adapter for Diavasi |
-| 2026-09-27 15:48:53 | [indicatrix-dispatch](https://crates.io/crates/indicatrix-dispatch) | 0.5.0 | 0 | Sample-range scheduling for indicatrix render lanes: a shared disjoint sample c… |
-| 2026-09-27 15:50:59 | [tauron-wasm](https://crates.io/crates/tauron-wasm) | 1.0.0 | 0 | WASM supervisor：Extism 加载、host_fn 白名单、资源上限、独立子进程承载 |
-| 2026-09-27 15:52:19 | [zmij-js](https://crates.io/crates/zmij-js) | 1.0.0 | 0 | A double-to-string conversion algorithm based on Schubfach and xjb -- modified… |
-| 2026-09-27 15:52:23 | [multype2txt](https://crates.io/crates/multype2txt) | 0.1.0 | 0 | Command-line tool for converting office (doc/docx/xls/xlsx/PPT/pptx) and PDF do… |
-| 2026-09-27 15:58:33 | [runtimectl](https://crates.io/crates/runtimectl) | 0.5.0 | 0 | Admin CLI for the syntrop-runtimed inference daemon |
-| 2026-09-27 16:01:02 | [tauron-adapter](https://crates.io/crates/tauron-adapter) | 1.0.0 | 0 | Tauri 命令适配层：tauron-host → Tauri bridge（guard() 每入口） |
-| 2026-09-27 16:09:10 | [syntrop-routerd-core](https://crates.io/crates/syntrop-routerd-core) | 0.3.3 | 0 | Core routing engine, scoring formulas, telemetry, and protocol adapters for syn… |
-| 2026-09-27 16:09:30 | [gantz_cli](https://crates.io/crates/gantz_cli) | 0.0.1 | 0 | The gantz command line, as a library that apps built on gantz embed. |
-| 2026-09-27 16:10:46 | [clia_masonry_imaging](https://crates.io/crates/clia_masonry_imaging) | 0.4.0 | 0 | Backend adapters for rendering Masonry retained imaging scenes. |
-| 2026-09-27 16:10:59 | [tauron-shell](https://crates.io/crates/tauron-shell) | 1.0.0 | 0 | tauron Rust 壳层（设计文档 §1.1/§2/§3/§4/§8）：plugin_invoke handler、注册表、ACL 检查、Extism W… |
-| 2026-09-27 16:11:48 | [guatiao-derive](https://crates.io/crates/guatiao-derive) | 0.0.0-alpha.0 | 0 | `#[derive(ToValue)]` and `#[derive(FromValue)]` for guatiao -- the proc-macro h… |
-| 2026-09-27 16:11:52 | [guatiao](https://crates.io/crates/guatiao) | 0.0.0-alpha.0 | 0 | A C-struct value model, a JSON Schema that describes a value, and an envelope f… |
-| 2026-09-27 16:11:57 | [guatiao-serde](https://crates.io/crates/guatiao-serde) | 0.0.0-alpha.0 | 0 | serde for guatiao values -- one Serialize/DeserializeSeed pair, so every serde… |
-| 2026-09-27 16:12:00 | [guatiao-intake](https://crates.io/crates/guatiao-intake) | 0.0.0-alpha.0 | 0 | how a guatiao schema is shown -- sections, widget hints and conditional visibil… |
-| 2026-09-27 16:12:51 | [syntrop-routerd](https://crates.io/crates/syntrop-routerd) | 0.3.3 | 0 | Intelligent model router, difficulty-tier evaluation, and wire protocol gateway… |
-| 2026-09-27 16:13:00 | [routerctl](https://crates.io/crates/routerctl) | 0.3.3 | 0 | Command-line control interface for syntrop-routerd |
-| 2026-09-27 16:15:59 | [inferenctl](https://crates.io/crates/inferenctl) | 0.3.0 | 0 | Command-line control interface for syntrop-inferenced |
-| 2026-09-27 16:16:17 | [modelctl](https://crates.io/crates/modelctl) | 0.3.0 | 0 | Command-line control interface for syntrop-modeld |
-| 2026-09-27 16:16:35 | [contextctl](https://crates.io/crates/contextctl) | 0.3.0 | 0 | Command-line control interface for syntrop-contextd |
-| 2026-09-27 16:16:45 | [detangle](https://crates.io/crates/detangle) | 0.1.0 | 0 | Fast dependency analysis and architecture rules for JavaScript and TypeScript |
-| 2026-09-27 16:17:37 | [cortiq-decision](https://crates.io/crates/cortiq-decision) | 0.7.8 | 0 | Cortiq Decision: typed decisions (choice, score, yes/no) from one CMF file — a… |
+| 2026-09-27 16:25:55 | [toolctl](https://crates.io/crates/toolctl) | 0.3.0 | 0 | Command-line control interface for syntrop-toold |
+| 2026-09-27 16:27:06 | [cargo-checkup](https://crates.io/crates/cargo-checkup) | 1.0.0 | 0 | Unified cargo health check: unused deps, outdated, duplicates, advisories, hygi… |
+| 2026-09-27 16:27:58 | [tauri-kit-fs](https://crates.io/crates/tauri-kit-fs) | 0.2.0 | 0 | Crash-safe file writes for desktop apps: write, sync, then rename into place. |
+| 2026-09-27 16:28:03 | [tauri-kit-credentials](https://crates.io/crates/tauri-kit-credentials) | 0.2.0 | 0 | Secrets in the OS credential store, with test and development builds kept off t… |
+| 2026-09-27 16:28:06 | [tauri-kit-sidecar](https://crates.io/crates/tauri-kit-sidecar) | 0.2.0 | 0 | Run a bundled helper process for a desktop app: no console window, no orphans,… |
+| 2026-09-27 16:29:09 | [reinspiring](https://crates.io/crates/reinspiring) | 0.1.2 | 0 | ReinspiRING: coefficient-domain compilation of InspiRING.Pack (eprint 2026/1934… |
+| 2026-09-27 16:29:18 | [urtorrent-bencode](https://crates.io/crates/urtorrent-bencode) | 0.14.2 | 0 | Zero-copy bencode decoding and canonical encoding for urtorrent, preserving raw… |
+| 2026-09-27 16:29:21 | [urtorrent-profile](https://crates.io/crates/urtorrent-profile) | 0.14.2 | 0 | Identity and wire-shape profiles (native and qBittorrent conformance) for urtor… |
+| 2026-09-27 16:29:25 | [urtorrent-uring](https://crates.io/crates/urtorrent-uring) | 0.14.2 | 0 | io_uring reactor, buffer pools, timers and TCP/UDP/file operations for urtorren… |
+| 2026-09-27 16:29:29 | [urtorrent-metainfo](https://crates.io/crates/urtorrent-metainfo) | 0.14.2 | 0 | Torrent metainfo and magnet parsing, file tree and piece/file span mapping for… |
+| 2026-09-27 16:29:32 | [urtorrent-utp](https://crates.io/crates/urtorrent-utp) | 0.14.2 | 0 | Sans-IO uTP (BEP 29, LEDBAT) transport state machine for urtorrent |
+| 2026-09-27 16:30:00 | [touchstone-core](https://crates.io/crates/touchstone-core) | 0.1.0 | 0 | Core types and verdict rules for the touchstone personal AGI conformance spec |
+| 2026-09-27 16:30:08 | [touchstone-harness](https://crates.io/crates/touchstone-harness) | 0.1.0 | 0 | Conformance battery runner: adapter trait, exec protocol, scoring |
+| 2026-09-27 16:30:18 | [touchstone-identity](https://crates.io/crates/touchstone-identity) | 0.1.0 | 0 | Device-bound attestation signing: Secure Enclave (macOS) + Ed25519 fallback |
+| 2026-09-27 16:30:22 | [touchstone-cli](https://crates.io/crates/touchstone-cli) | 0.1.0 | 0 | The touchstone binary: run the conformance battery, sign and verify attestations |
+| 2026-09-27 16:35:18 | [refinr](https://crates.io/crates/refinr) | 0.0.1 | 0 | Optimize content for AI - Fetch, sanitize, and map content to make it more usef… |
+| 2026-09-27 16:35:38 | [kronecker-fri](https://crates.io/crates/kronecker-fri) | 0.4.0 | 0 | Kronecker-FRI: a hash-based multilinear polynomial commitment from a coefficien… |
+| 2026-09-27 16:36:15 | [clia_tree_arena](https://crates.io/crates/clia_tree_arena) | 0.2.0 | 0 | An arena allocated tree. |
+| 2026-09-27 16:36:57 | [clia_masonry_core](https://crates.io/crates/clia_masonry_core) | 0.4.0 | 0 | Traits and types of the Masonry toolkit. |
+| 2026-09-27 16:37:25 | [muxio-sync-rpc-server](https://crates.io/crates/muxio-sync-rpc-server) | 0.17.0-alpha | 0 | A sync (no async runtime) Muxio RPC server over blocking byte halves. |
+| 2026-09-27 16:37:29 | [muxio-sync-rpc-client](https://crates.io/crates/muxio-sync-rpc-client) | 0.17.0-alpha | 0 | A sync (no async runtime) Muxio RPC client over blocking byte halves. |
+| 2026-09-27 16:37:58 | [clia_masonry_winit](https://crates.io/crates/clia_masonry_winit) | 0.4.0 | 0 | Data-oriented Rust UI design toolkit. |
+| 2026-09-27 16:39:24 | [urtorrent-dht](https://crates.io/crates/urtorrent-dht) | 0.14.2 | 0 | Mainline DHT (BEP 5, 42, 43, 51) node as a sans-IO state machine for urtorrent |
+| 2026-09-27 16:41:53 | [clia_linebender_include_doc_path](https://crates.io/crates/clia_linebender_include_doc_path) | 0.1.0 | 0 | Helper macro for linking to files in docs.rs. |
+| 2026-09-27 16:42:52 | [clia_masonry](https://crates.io/crates/clia_masonry) | 0.4.0 | 0 | Traits and types of the Masonry toolkit. |
+| 2026-09-27 16:48:05 | [compio-pool](https://crates.io/crates/compio-pool) | 0.0.1 | 0 | A thread-per-core connection pool for the compio runtime |
+| 2026-09-27 16:49:26 | [urtorrent-mse](https://crates.io/crates/urtorrent-mse) | 0.14.2 | 0 | Sans-IO Message Stream Encryption (MSE/PE) handshake and RC4 stream for urtorre… |
+| 2026-09-27 16:51:15 | [thaler](https://crates.io/crates/thaler) | 0.1.0 | 0 | The Thaler API: financial data from SEC filings, with the source filing for eve… |
+| 2026-09-27 16:51:28 | [cli-desktop](https://crates.io/crates/cli-desktop) | 0.11.0 | 0 | A text-based desktop (ASCII wallpaper, icons, taskbar, trash) using tmux as the… |
+| 2026-09-27 16:55:42 | [ratatui-widgettable](https://crates.io/crates/ratatui-widgettable) | 0.1.0 | 0 | A Ratatui table widget whose cells can contain any widget (Paragraph, Block, Ga… |
+| 2026-09-27 16:56:13 | [oxpdf](https://crates.io/crates/oxpdf) | 0.2.0 | 0 | Next-generation, pure-Rust streaming PDF engine: memory-bounded, zero-copy, SIM… |
+| 2026-09-27 16:58:03 | [retiretui_tui](https://crates.io/crates/retiretui_tui) | 0.2.0 | 0 | The RetireTui planner's interface: a plurimus app over a projected retirement p… |
+| 2026-09-27 16:59:24 | [urtorrent-picker](https://crates.io/crates/urtorrent-picker) | 0.14.2 | 0 | Piece picker and block request scheduling (rarest-first, priorities, sequential… |
+| 2026-09-27 16:59:54 | [edge_gate](https://crates.io/crates/edge_gate) | 0.1.0 | 0 | Local LLM edge gateway: dedup, blind, filter, meter, audit |
+| 2026-09-27 17:05:23 | [kornia-sensors](https://crates.io/crates/kornia-sensors) | 0.1.0 | 0 | Physical sensor processing for kornia: IMU preintegration, noise models, and ca… |
+| 2026-09-27 17:07:03 | [kornia-slam](https://crates.io/crates/kornia-slam) | 0.1.0 | 0 | Real-time visual-inertial SLAM in Rust, built on kornia-rs. |
+| 2026-09-27 17:07:06 | [gitplume](https://crates.io/crates/gitplume) | 0.1.1 | 0 | A fast terminal app for reviewing and staging your Git changes |
+| 2026-09-27 17:09:13 | [rig-http](https://crates.io/crates/rig-http) | 0.0.0 | 0 | Placeholder crate reserved for an upcoming project. |
+| 2026-09-27 17:09:22 | [urtorrent-storage](https://crates.io/crates/urtorrent-storage) | 0.14.2 | 0 | Disk layout, preallocation, hashing pipeline and crash-safe resume data for urt… |
+| 2026-09-27 17:17:08 | [respawned](https://crates.io/crates/respawned) | 0.3.0 | 0 | Versioned respawn: content-addressed snapshots, atomic revert, drift detection,… |
 
 ## Data source
 
