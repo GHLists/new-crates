@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T22:23:44.144516Z,tauri-plugin-torchlight,1.0.11,0,0,https://github.com/lembryo/tauri-plugin-torchlight.git,"Tauri v2 plugin to control the smartphone torch on Android and iOS: on/off, brightness, availability and state queries, and system torch change events."
+2026-09-27T22:27:32.633489Z,iana-stun-parameters,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the stun-parameters family.
+2026-09-27T22:29:26.687607Z,u8-base-converter,0.1.0,0,0,https://github.com/Dmytro-Svitkin/base-str,Arbitrary-length base conversion for u8 bases.
+2026-09-27T22:29:43.758775Z,clearpath,0.1.0,0,0,https://github.com/mrorigo/clearpath,Deterministic 2D obstacle-avoidance path planning and smooth cubic Bezier fitting
+2026-09-27T22:31:08.181592Z,rlsspec,0.1.0,0,0,https://github.com/matheusspacifico/rlsspec,Check Postgres Row Level Security against a spec of expected access
+2026-09-27T22:34:57.577573Z,efreet,0.1.0,0,0,,Watch a Cardano address's UTxOs through a local node over node-to-client (N2C)
+2026-09-27T22:35:29.126679Z,capy-storage,0.10.0,0,0,https://github.com/capy-rs/capy,"Private, bounded application object storage for Capy."
+2026-09-27T22:39:30.615087Z,phantom-fractal-proto,0.0.0,0,0,https://github.com/Hedronite/phantom,"Reserved placeholder for the request/response types crate of Phantom, a Rust code-graph engine by Hedronite. No functionality yet."
+2026-09-27T22:39:32.446678Z,phantom-fractal-engine,0.0.0,0,0,https://github.com/Hedronite/phantom,"Reserved placeholder for the engine library crate of Phantom, a Rust code-graph engine by Hedronite. No functionality yet."
+2026-09-27T22:39:34.492591Z,phantom-fractal,0.0.0,0,0,https://github.com/Hedronite/phantom,"Reserved placeholder for the CLI package (binaries `phantom-fractal` and `fract`) of Phantom, a Rust code-graph engine by Hedronite. No functionality yet."
+2026-09-27T22:44:42.059193Z,sashite-sanki-sei-random-engine,0.1.0,0,0,https://github.com/sashite/sanki-sei-random-engine.rs,A complete Sashité Engine Interface (SEI) engine for Sanki that plays a random legal move — the engine to fork.
+2026-09-27T22:52:28.402525Z,rvt,0.3.0,0,0,https://github.com/DrunkOnJava/rvt-rs,"Apache-2.0 clean-room reader for Autodesk Revit files (.rvt, .rfa, .rte, .rft) without Revit: metadata, previews and the embedded schema of 2016-2026 files, and typed elements with measured geometry…"
+2026-09-27T22:52:33.138154Z,sashite-sanki-client,0.1.0,0,0,https://github.com/sashite/sanki-client.rs,"The Sanki protocol client for bots (ADR-0045 §1): the Rule System of kind 3417 loaded, verified and run under wasmi as the only rules oracle; the relay's NIP-11 information; the session assembled for…"
+2026-09-27T22:55:13.541376Z,ctt-bc7f,0.6.0,0,0,https://github.com/cwfitzgerald/ctt,Vendored BC7F bindings for BC7 texture compression
+2026-09-27T22:55:27.313364Z,openfigi,0.1.1,0,0,https://tangled.org/ljnsn.tngl.sh/openfigi-rs,A Rust client for the OpenFIGI REST API
+2026-09-27T23:11:15.220334Z,bevy_voice_chat,0.1.0,0,0,https://github.com/warmar94/bevy_voice_chat,"Game-agnostic, transport-agnostic voice chat for Bevy: capture, voice activity / push-to-talk, filter hooks, a pure-Rust codec, jitter buffers and proximity mixing."
+2026-09-27T23:13:00.21184Z,whipplescript-host-do,0.0.0,0,0,https://github.com/GaugeWright/whipplescript,Reserved name. WhippleScript's Cloudflare Durable Object host binding is not published as a crate; install whipplescript instead.
+2026-09-27T23:14:07.217075Z,iana-tls,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the tls family.
+2026-09-27T23:14:13.011872Z,iana-ice,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the ice family.
+2026-09-27T23:14:19.663644Z,iana-tcp,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the tcp family.
+2026-09-27T23:14:25.629496Z,iana-dns,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the dns family.
+2026-09-27T23:17:34.099582Z,iana-address-family-numbers,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the address-family-numbers family.

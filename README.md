@@ -8,32 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 22:20 UTC
+## Latest list — 2026-09-27 23:19 UTC
 
-New crates published between 2026-09-27 21:19 UTC and 2026-09-27 22:20 UTC.
+New crates published between 2026-09-27 22:20 UTC and 2026-09-27 23:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-27T22-20-14-693973Z.csv)
+[Full CSV](data/new-crates-2026-09-27T23-19-30-863145Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-27 21:28:41 | [memstead-projection](https://crates.io/crates/memstead-projection) | 0.21.0 | 0 | The maintenance loop for Memstead — projection briefs, findings, verify, advanc… |
-| 2026-09-27 21:40:06 | [dpc-tau-provider-grok](https://crates.io/crates/dpc-tau-provider-grok) | 0.2.0 | 0 | A minimal Unix-first coding agent. |
-| 2026-09-27 21:43:18 | [iana-gen-shared](https://crates.io/crates/iana-gen-shared) | 0.1.0 | 0 | Type-safe Rust bindings generated from IANA protocol parameter registries. |
-| 2026-09-27 21:45:22 | [iana-udp](https://crates.io/crates/iana-udp) | 0.1.0 | 0 | Generated IANA registry bindings for the udp family. |
-| 2026-09-27 21:45:32 | [iana-protocol-numbers](https://crates.io/crates/iana-protocol-numbers) | 0.1.0 | 0 | Generated IANA registry bindings for the protocol-numbers family. |
-| 2026-09-27 21:45:44 | [iana-service](https://crates.io/crates/iana-service) | 0.1.0 | 0 | Generated IANA registry bindings for the service family. |
-| 2026-09-27 21:45:55 | [iana-http](https://crates.io/crates/iana-http) | 0.1.0 | 0 | Generated IANA registry bindings for the http family. |
-| 2026-09-27 21:47:34 | [iana-media](https://crates.io/crates/iana-media) | 0.1.0 | 0 | Generated IANA registry bindings for the media family. |
-| 2026-09-27 21:49:52 | [rlviser-rocketsim](https://crates.io/crates/rlviser-rocketsim) | 0.1.0 | 0 | Stream RocketSim arena state to RLViser over UDP |
-| 2026-09-27 21:52:09 | [dream-net](https://crates.io/crates/dream-net) | 1.0.0 | 0 | Networking substrate for DreamWeave: secure UDP, reliable-ordered and unreliabl… |
-| 2026-09-27 21:57:48 | [rlbot-rocketsim](https://crates.io/crates/rlbot-rocketsim) | 0.1.0 | 0 | Conversions and stateful enrichment between RLBot packets and RocketSim |
-| 2026-09-27 21:59:41 | [canwu-movement](https://crates.io/crates/canwu-movement) | 0.13.0 | 0 | Movement lifecycle, capacity-pool allocation, and holder-relative movement repo… |
-| 2026-09-27 22:02:13 | [iana-sdp](https://crates.io/crates/iana-sdp) | 0.1.0 | 0 | Generated IANA registry bindings for the sdp family. |
-| 2026-09-27 22:02:45 | [oxdock-remote-proto](https://crates.io/crates/oxdock-remote-proto) | 0.20.0-alpha | 0 | Contract for OxDock sealed remote execution: stable muxio method names, content… |
-| 2026-09-27 22:07:40 | [iana-whip](https://crates.io/crates/iana-whip) | 0.1.0 | 0 | Generated IANA registry bindings for the whip family. |
-| 2026-09-27 22:08:02 | [lprog](https://crates.io/crates/lprog) | 0.1.0 | 0 | Minimalistic linear programming optimization library |
-| 2026-09-27 22:17:33 | [iana-rtp-parameters](https://crates.io/crates/iana-rtp-parameters) | 0.1.0 | 0 | Generated IANA registry bindings for the rtp-parameters family. |
-| 2026-09-27 22:20:07 | [satelle](https://crates.io/crates/satelle) | 0.1.15 | 0 | A self-hosted control plane for durable native Computer Use |
+| 2026-09-27 22:23:44 | [tauri-plugin-torchlight](https://crates.io/crates/tauri-plugin-torchlight) | 1.0.11 | 0 | Tauri v2 plugin to control the smartphone torch on Android and iOS: on/off, bri… |
+| 2026-09-27 22:27:32 | [iana-stun-parameters](https://crates.io/crates/iana-stun-parameters) | 0.1.0 | 0 | Generated IANA registry bindings for the stun-parameters family. |
+| 2026-09-27 22:29:26 | [u8-base-converter](https://crates.io/crates/u8-base-converter) | 0.1.0 | 0 | Arbitrary-length base conversion for u8 bases. |
+| 2026-09-27 22:29:43 | [clearpath](https://crates.io/crates/clearpath) | 0.1.0 | 0 | Deterministic 2D obstacle-avoidance path planning and smooth cubic Bezier fitti… |
+| 2026-09-27 22:31:08 | [rlsspec](https://crates.io/crates/rlsspec) | 0.1.0 | 0 | Check Postgres Row Level Security against a spec of expected access |
+| 2026-09-27 22:34:57 | [efreet](https://crates.io/crates/efreet) | 0.1.0 | 0 | Watch a Cardano address's UTxOs through a local node over node-to-client (N2C) |
+| 2026-09-27 22:35:29 | [capy-storage](https://crates.io/crates/capy-storage) | 0.10.0 | 0 | Private, bounded application object storage for Capy. |
+| 2026-09-27 22:39:30 | [phantom-fractal-proto](https://crates.io/crates/phantom-fractal-proto) | 0.0.0 | 0 | Reserved placeholder for the request/response types crate of Phantom, a Rust co… |
+| 2026-09-27 22:39:32 | [phantom-fractal-engine](https://crates.io/crates/phantom-fractal-engine) | 0.0.0 | 0 | Reserved placeholder for the engine library crate of Phantom, a Rust code-graph… |
+| 2026-09-27 22:39:34 | [phantom-fractal](https://crates.io/crates/phantom-fractal) | 0.0.0 | 0 | Reserved placeholder for the CLI package (binaries `phantom-fractal` and `fract… |
+| 2026-09-27 22:44:42 | [sashite-sanki-sei-random-engine](https://crates.io/crates/sashite-sanki-sei-random-engine) | 0.1.0 | 0 | A complete Sashité Engine Interface (SEI) engine for Sanki that plays a random… |
+| 2026-09-27 22:52:28 | [rvt](https://crates.io/crates/rvt) | 0.3.0 | 0 | Apache-2.0 clean-room reader for Autodesk Revit files (.rvt, .rfa, .rte, .rft)… |
+| 2026-09-27 22:52:33 | [sashite-sanki-client](https://crates.io/crates/sashite-sanki-client) | 0.1.0 | 0 | The Sanki protocol client for bots (ADR-0045 §1): the Rule System of kind 3417… |
+| 2026-09-27 22:55:13 | [ctt-bc7f](https://crates.io/crates/ctt-bc7f) | 0.6.0 | 0 | Vendored BC7F bindings for BC7 texture compression |
+| 2026-09-27 22:55:27 | [openfigi](https://crates.io/crates/openfigi) | 0.1.1 | 0 | A Rust client for the OpenFIGI REST API |
+| 2026-09-27 23:11:15 | [bevy_voice_chat](https://crates.io/crates/bevy_voice_chat) | 0.1.0 | 0 | Game-agnostic, transport-agnostic voice chat for Bevy: capture, voice activity… |
+| 2026-09-27 23:13:00 | [whipplescript-host-do](https://crates.io/crates/whipplescript-host-do) | 0.0.0 | 0 | Reserved name. WhippleScript's Cloudflare Durable Object host binding is not pu… |
+| 2026-09-27 23:14:07 | [iana-tls](https://crates.io/crates/iana-tls) | 0.1.0 | 0 | Generated IANA registry bindings for the tls family. |
+| 2026-09-27 23:14:13 | [iana-ice](https://crates.io/crates/iana-ice) | 0.1.0 | 0 | Generated IANA registry bindings for the ice family. |
+| 2026-09-27 23:14:19 | [iana-tcp](https://crates.io/crates/iana-tcp) | 0.1.0 | 0 | Generated IANA registry bindings for the tcp family. |
+| 2026-09-27 23:14:25 | [iana-dns](https://crates.io/crates/iana-dns) | 0.1.0 | 0 | Generated IANA registry bindings for the dns family. |
+| 2026-09-27 23:17:34 | [iana-address-family-numbers](https://crates.io/crates/iana-address-family-numbers) | 0.1.0 | 0 | Generated IANA registry bindings for the address-family-numbers family. |
 
 ## Data source
 
