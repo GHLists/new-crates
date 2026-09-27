@@ -8,56 +8,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 15:19 UTC
+## Latest list — 2026-09-27 16:19 UTC
 
-New crates published between 2026-09-27 14:19 UTC and 2026-09-27 15:19 UTC.
+New crates published between 2026-09-27 15:19 UTC and 2026-09-27 16:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-27T15-19-41-14133Z.csv)
+[Full CSV](data/new-crates-2026-09-27T16-19-54-906323Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-27 14:22:36 | [stagesift](https://crates.io/crates/stagesift) | 0.1.0 | 0 | A fast native app for reviewing, partially staging and committing Git changes. |
-| 2026-09-27 14:24:04 | [privatecrates-common](https://crates.io/crates/privatecrates-common) | 0.2.1 | 0 | Types and rules shared by the PrivateCrates credential provider, verifier and s… |
-| 2026-09-27 14:24:06 | [cargo-credential-privatecrates](https://crates.io/crates/cargo-credential-privatecrates) | 0.2.1 | 0 | Cargo credential provider for PrivateCrates private registries: GitHub device f… |
-| 2026-09-27 14:24:07 | [privatecrates-verify](https://crates.io/crates/privatecrates-verify) | 0.2.1 | 0 | Verifies everything PrivateCrates wrote to a storage repository: append-only in… |
-| 2026-09-27 14:24:47 | [fanta-gpui-ui-input](https://crates.io/crates/fanta-gpui-ui-input) | 0.5.0 | 0 | Zed baseline input components for GPUI. |
-| 2026-09-27 14:29:50 | [community-databricks-sdk-settingsv2](https://crates.io/crates/community-databricks-sdk-settingsv2) | 0.1.0 | 0 | Databricks `settingsv2` API models and services (community-maintained, generate… |
-| 2026-09-27 14:30:57 | [tauron-host](https://crates.io/crates/tauron-host) | 1.0.0 | 0 | tauron 宿主插件核心：manifest 校验、三档授权、生命周期状态机、注册表 |
-| 2026-09-27 14:31:02 | [tauron-acl](https://crates.io/crates/tauron-acl) | 1.0.0 | 0 | tauron 权限授予与审批（开发计划 §4.5） |
-| 2026-09-27 14:31:04 | [tauron-brand](https://crates.io/crates/tauron-brand) | 1.0.0 | 0 | §4.16 白标：品牌清单 → tauri.conf 片段合并 + 唯一性校验 + 图标管线 |
-| 2026-09-27 14:31:06 | [tauron-distribute](https://crates.io/crates/tauron-distribute) | 1.0.0 | 0 | §4.19 CI 分发运维：更新通道、灰度批次、崩溃率停发、签名校验 |
-| 2026-09-27 14:31:08 | [tauron-i18n](https://crates.io/crates/tauron-i18n) | 1.0.0 | 0 | §4.20 i18n 桥：语言状态单一来源、资源包、缺失键回落计数 |
-| 2026-09-27 14:37:46 | [seiso_config](https://crates.io/crates/seiso_config) | 0.0.0 | 0 | Configuration discovery and documentation policy resolution for seiso |
-| 2026-09-27 14:37:47 | [seiso_diagnostics](https://crates.io/crates/seiso_diagnostics) | 0.0.0 | 0 | Source locations and deterministic diagnostic rendering for seiso |
-| 2026-09-27 14:37:50 | [seiso_md](https://crates.io/crates/seiso_md) | 0.0.0 | 0 | Source-preserving Markdown document model for seiso |
-| 2026-09-27 14:37:52 | [seiso](https://crates.io/crates/seiso) | 0.0.0 | 0 | Command-line interface for seiso |
-| 2026-09-27 14:37:56 | [auv-api-proto](https://crates.io/crates/auv-api-proto) | 0.0.22 | 0 | Application Use Via... script-able OS automation library |
-| 2026-09-27 14:37:57 | [auv-cli-common-macros](https://crates.io/crates/auv-cli-common-macros) | 0.0.22 | 0 | Application Use Via... script-able OS automation library |
-| 2026-09-27 14:37:57 | [auv-cli-invoke-macros](https://crates.io/crates/auv-cli-invoke-macros) | 0.0.22 | 0 | Application Use Via... script-able OS automation library |
-| 2026-09-27 14:37:57 | [auv-driver-common](https://crates.io/crates/auv-driver-common) | 0.0.22 | 0 | Application Use Via... script-able OS automation library |
-| 2026-09-27 14:37:57 | [auv-inference-common](https://crates.io/crates/auv-inference-common) | 0.0.22 | 0 | Common inference utilities for AUV |
-| 2026-09-27 14:39:50 | [community-databricks-sdk-supervisoragents](https://crates.io/crates/community-databricks-sdk-supervisoragents) | 0.1.0 | 0 | Databricks `supervisoragents` API models and services (community-maintained, ge… |
-| 2026-09-27 14:41:26 | [arcsec-core](https://crates.io/crates/arcsec-core) | 0.1.0 | 0 | Plate-solving library behind the arcsec CLI: star detection, quad matching, bli… |
-| 2026-09-27 14:41:32 | [arcsec](https://crates.io/crates/arcsec) | 0.1.0 | 0 | Astrometric plate solver: find where a telescope was pointing from an image |
-| 2026-09-27 14:43:18 | [privatecrates-auth](https://crates.io/crates/privatecrates-auth) | 0.2.1 | 0 | Signing in to PrivateCrates with GitHub's device flow, and keeping the token in… |
-| 2026-09-27 14:43:21 | [cargo-privatecrates](https://crates.io/crates/cargo-privatecrates) | 0.2.1 | 0 | Set up PrivateCrates private registries from the command line: sign in, onboard… |
-| 2026-09-27 14:45:02 | [naaudit-pgsql](https://crates.io/crates/naaudit-pgsql) | 2.0.0 | 0 | Transactional PostgreSQL audit sink backed by a named PgOutbox datasource |
-| 2026-09-27 14:45:42 | [nasaga-runtime-pgsql](https://crates.io/crates/nasaga-runtime-pgsql) | 2.0.0 | 0 | PostgreSQL durable Saga orchestration with datasource-bound transactions, outbo… |
-| 2026-09-27 14:48:57 | [tauron-market](https://crates.io/crates/tauron-market) | 1.0.0 | 0 | §4.18 商城：索引、验签、受控解包、版本比对、审计日志 |
-| 2026-09-27 14:49:50 | [community-databricks-sdk-tags](https://crates.io/crates/community-databricks-sdk-tags) | 0.1.0 | 0 | Databricks `tags` API models and services (community-maintained, generated; use… |
-| 2026-09-27 14:50:59 | [tauron-notify](https://crates.io/crates/tauron-notify) | 1.0.0 | 0 | §4.15 通知中心：统一出口分发 + 历史持久化 + 环形裁剪 + 卸载清理 |
-| 2026-09-27 14:53:01 | [binlayout](https://crates.io/crates/binlayout) | 0.1.0 | 0 | Host-independent size, alignment, padding, and offset calculations for binary d… |
-| 2026-09-27 14:59:50 | [community-databricks-sdk-vectorsearch](https://crates.io/crates/community-databricks-sdk-vectorsearch) | 0.1.0 | 0 | Databricks `vectorsearch` API models and services (community-maintained, genera… |
-| 2026-09-27 15:00:59 | [tauron-proc](https://crates.io/crates/tauron-proc) | 1.0.0 | 0 | 进程插件 host：sidecar spawn、JSON-RPC(stdio/WS)、取消/超时/流式、心跳与崩溃检测 |
-| 2026-09-27 15:02:44 | [kuknos-soroban-builtin-sdk-macros-tmp](https://crates.io/crates/kuknos-soroban-builtin-sdk-macros-tmp) | 20.0.1 | 0 | Soroban builtin SDK macros. |
-| 2026-09-27 15:03:05 | [kuknos-soroban-env-macros-tmp](https://crates.io/crates/kuknos-soroban-env-macros-tmp) | 20.0.1 | 0 | Soroban contract environment macros. |
-| 2026-09-27 15:03:30 | [kuknos-soroban-env-common-tmp](https://crates.io/crates/kuknos-soroban-env-common-tmp) | 20.0.1 | 0 | Soroban contract environment common types and functionality. |
-| 2026-09-27 15:08:48 | [swiss_knife_utils](https://crates.io/crates/swiss_knife_utils) | 0.1.0 | 0 | A Rust library to remove some boilerplate |
-| 2026-09-27 15:09:50 | [community-databricks-sdk-workspace](https://crates.io/crates/community-databricks-sdk-workspace) | 0.1.0 | 0 | Databricks `workspace` API models and services (community-maintained, generated… |
-| 2026-09-27 15:10:59 | [tauron-recovery](https://crates.io/crates/tauron-recovery) | 1.0.0 | 0 | §4.14 崩溃恢复 + 安全模式：启动失败计数、幂等快照、恢复向导 |
-| 2026-09-27 15:11:12 | [rpi-voice](https://crates.io/crates/rpi-voice) | 0.2.0 | 0 | Voice conversation extension for rpi — offline STT + auto-TTS replies |
-| 2026-09-27 15:11:53 | [webtrans-quion](https://crates.io/crates/webtrans-quion) | 0.6.0 | 0 | Native WebTransport implementation built on top of QUIC using Quion. |
-| 2026-09-27 15:15:51 | [svg2lottie](https://crates.io/crates/svg2lottie) | 0.1.0 | 0 | SVG to Lottie JSON and Telegram TGS converter |
+| 2026-09-27 15:19:50 | [community-databricks-sdk](https://crates.io/crates/community-databricks-sdk) | 0.1.0 | 0 | Community-maintained (unofficial) Rust SDK for the Databricks Account and Works… |
+| 2026-09-27 15:20:59 | [tauron-schema](https://crates.io/crates/tauron-schema) | 1.0.0 | 0 | tauron 设置 schema 规范化管线（计划 §4.13：$ref 展开 + enum 内部标签化 + x-tauron → uiSchema） |
+| 2026-09-27 15:22:45 | [egui_bench](https://crates.io/crates/egui_bench) | 0.1.0 | 0 | Bench-instrument theme and components for egui: chassis greys, engraved legends… |
+| 2026-09-27 15:26:24 | [qppocr-kernels](https://crates.io/crates/qppocr-kernels) | 0.2.1 | 0 | qppocr 的算子内核：唯一允许 unsafe 的 crate（AVX2/NEON/WASM SIMD） |
+| 2026-09-27 15:27:04 | [qppocr-core](https://crates.io/crates/qppocr-core) | 0.2.1 | 0 | qppocr 引擎主体：ONNX 解析、图优化、执行器、det/cls/rec 流水线 |
+| 2026-09-27 15:27:13 | [qppocr](https://crates.io/crates/qppocr) | 0.2.1 | 0 | 纯 Rust、手写内核的 PP-OCRv6 推理引擎（面向上游官方 ONNX 原件） |
+| 2026-09-27 15:30:44 | [demogod](https://crates.io/crates/demogod) | 0.0.9 | 0 | Records terminal and browser demos from a tape: GIF, MP4, WebM, PNG and asciica… |
+| 2026-09-27 15:30:59 | [tauron-settings](https://crates.io/crates/tauron-settings) | 1.0.0 | 0 | §4.12 设置中心：schema 注册表 + 四层合并 + get/set/watch + 渲染数据产出 |
+| 2026-09-27 15:36:25 | [strop-worker-deploy](https://crates.io/crates/strop-worker-deploy) | 0.36.0 | 0 | Worker artifact deployment and private-cache admission over authenticated provi… |
+| 2026-09-27 15:39:26 | [mise-bootstrap](https://crates.io/crates/mise-bootstrap) | 0.0.0 | 0 | Placeholder for the mise bootstrap resource planner |
+| 2026-09-27 15:40:03 | [diavasi](https://crates.io/crates/diavasi) | 0.12.0 | 0 | Durable consumer groups over existing database queries |
+| 2026-09-27 15:40:17 | [diavasi-adapter-postgres](https://crates.io/crates/diavasi-adapter-postgres) | 0.12.0 | 0 | PostgreSQL source adapter for Diavasi |
+| 2026-09-27 15:40:59 | [tauron-theme](https://crates.io/crates/tauron-theme) | 1.0.0 | 0 | 外观皮肤/主题插件：ThemeRegistry + 运行时切换 + CSS 变量生成 + 持久化 |
+| 2026-09-27 15:41:15 | [diavasi-adapter-mongodb](https://crates.io/crates/diavasi-adapter-mongodb) | 0.12.0 | 0 | MongoDB source adapter for Diavasi |
+| 2026-09-27 15:41:36 | [diavasi-adapter-redis](https://crates.io/crates/diavasi-adapter-redis) | 0.12.0 | 0 | Redis Streams source adapter for Diavasi |
+| 2026-09-27 15:42:20 | [diavasi-adapter-scylla](https://crates.io/crates/diavasi-adapter-scylla) | 0.12.0 | 0 | ScyllaDB source adapter for Diavasi |
+| 2026-09-27 15:48:53 | [indicatrix-dispatch](https://crates.io/crates/indicatrix-dispatch) | 0.5.0 | 0 | Sample-range scheduling for indicatrix render lanes: a shared disjoint sample c… |
+| 2026-09-27 15:50:59 | [tauron-wasm](https://crates.io/crates/tauron-wasm) | 1.0.0 | 0 | WASM supervisor：Extism 加载、host_fn 白名单、资源上限、独立子进程承载 |
+| 2026-09-27 15:52:19 | [zmij-js](https://crates.io/crates/zmij-js) | 1.0.0 | 0 | A double-to-string conversion algorithm based on Schubfach and xjb -- modified… |
+| 2026-09-27 15:52:23 | [multype2txt](https://crates.io/crates/multype2txt) | 0.1.0 | 0 | Command-line tool for converting office (doc/docx/xls/xlsx/PPT/pptx) and PDF do… |
+| 2026-09-27 15:58:33 | [runtimectl](https://crates.io/crates/runtimectl) | 0.5.0 | 0 | Admin CLI for the syntrop-runtimed inference daemon |
+| 2026-09-27 16:01:02 | [tauron-adapter](https://crates.io/crates/tauron-adapter) | 1.0.0 | 0 | Tauri 命令适配层：tauron-host → Tauri bridge（guard() 每入口） |
+| 2026-09-27 16:09:10 | [syntrop-routerd-core](https://crates.io/crates/syntrop-routerd-core) | 0.3.3 | 0 | Core routing engine, scoring formulas, telemetry, and protocol adapters for syn… |
+| 2026-09-27 16:09:30 | [gantz_cli](https://crates.io/crates/gantz_cli) | 0.0.1 | 0 | The gantz command line, as a library that apps built on gantz embed. |
+| 2026-09-27 16:10:46 | [clia_masonry_imaging](https://crates.io/crates/clia_masonry_imaging) | 0.4.0 | 0 | Backend adapters for rendering Masonry retained imaging scenes. |
+| 2026-09-27 16:10:59 | [tauron-shell](https://crates.io/crates/tauron-shell) | 1.0.0 | 0 | tauron Rust 壳层（设计文档 §1.1/§2/§3/§4/§8）：plugin_invoke handler、注册表、ACL 检查、Extism W… |
+| 2026-09-27 16:11:48 | [guatiao-derive](https://crates.io/crates/guatiao-derive) | 0.0.0-alpha.0 | 0 | `#[derive(ToValue)]` and `#[derive(FromValue)]` for guatiao -- the proc-macro h… |
+| 2026-09-27 16:11:52 | [guatiao](https://crates.io/crates/guatiao) | 0.0.0-alpha.0 | 0 | A C-struct value model, a JSON Schema that describes a value, and an envelope f… |
+| 2026-09-27 16:11:57 | [guatiao-serde](https://crates.io/crates/guatiao-serde) | 0.0.0-alpha.0 | 0 | serde for guatiao values -- one Serialize/DeserializeSeed pair, so every serde… |
+| 2026-09-27 16:12:00 | [guatiao-intake](https://crates.io/crates/guatiao-intake) | 0.0.0-alpha.0 | 0 | how a guatiao schema is shown -- sections, widget hints and conditional visibil… |
+| 2026-09-27 16:12:51 | [syntrop-routerd](https://crates.io/crates/syntrop-routerd) | 0.3.3 | 0 | Intelligent model router, difficulty-tier evaluation, and wire protocol gateway… |
+| 2026-09-27 16:13:00 | [routerctl](https://crates.io/crates/routerctl) | 0.3.3 | 0 | Command-line control interface for syntrop-routerd |
+| 2026-09-27 16:15:59 | [inferenctl](https://crates.io/crates/inferenctl) | 0.3.0 | 0 | Command-line control interface for syntrop-inferenced |
+| 2026-09-27 16:16:17 | [modelctl](https://crates.io/crates/modelctl) | 0.3.0 | 0 | Command-line control interface for syntrop-modeld |
+| 2026-09-27 16:16:35 | [contextctl](https://crates.io/crates/contextctl) | 0.3.0 | 0 | Command-line control interface for syntrop-contextd |
+| 2026-09-27 16:16:45 | [detangle](https://crates.io/crates/detangle) | 0.1.0 | 0 | Fast dependency analysis and architecture rules for JavaScript and TypeScript |
+| 2026-09-27 16:17:37 | [cortiq-decision](https://crates.io/crates/cortiq-decision) | 0.7.8 | 0 | Cortiq Decision: typed decisions (choice, score, yes/no) from one CMF file — a… |
 
 ## Data source
 
