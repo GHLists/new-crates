@@ -8,35 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 21:19 UTC
+## Latest list — 2026-09-27 22:20 UTC
 
-New crates published between 2026-09-27 20:19 UTC and 2026-09-27 21:19 UTC.
+New crates published between 2026-09-27 21:19 UTC and 2026-09-27 22:20 UTC.
 
-[Full CSV](data/new-crates-2026-09-27T21-19-09-23043Z.csv)
+[Full CSV](data/new-crates-2026-09-27T22-20-14-693973Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-27 20:30:54 | [sparse-ldlt](https://crates.io/crates/sparse-ldlt) | 0.3.2 | 0 | Pure-Rust, dependency-free sparse symmetric-indefinite LDLᵀ factorization with… |
-| 2026-09-27 20:31:05 | [cufsm-rs](https://crates.io/crates/cufsm-rs) | 0.2.1 | 0 | Independent, dependency-free Rust port of CUFSM: elastic buckling of thin-walle… |
-| 2026-09-27 20:39:24 | [turbovault-vector](https://crates.io/crates/turbovault-vector) | 0.1.1 | 0 | Optional hybrid (dense + lexical) semantic search engine for TurboVault, pure-R… |
-| 2026-09-27 20:39:25 | [turbovault-plugin-vector](https://crates.io/crates/turbovault-plugin-vector) | 0.1.0 | 0 | Semantic vector search vertical for TurboVault, as a compiled-in plugin module |
-| 2026-09-27 20:44:01 | [pklith](https://crates.io/crates/pklith) | 0.1.0 | 0 | Materialize hk git hook guardrails from what a repository's files require |
-| 2026-09-27 20:48:09 | [oma](https://crates.io/crates/oma) | 0.1.0 | 0 | OMA binary package format for Arch-style packages: indexed headers, zstd payloa… |
-| 2026-09-27 20:55:04 | [hql](https://crates.io/crates/hql) | 0.1.0 | 0 | HQL — Hyper Query Language: an experimental typed functional language |
-| 2026-09-27 21:01:56 | [diavasi-cli](https://crates.io/crates/diavasi-cli) | 0.12.0 | 0 | Diavasi administration CLI |
-| 2026-09-27 21:07:42 | [plene-gui](https://crates.io/crates/plene-gui) | 0.2.0 | 0 | A window showing Rust source beside its expanded transcription: the same code w… |
-| 2026-09-27 21:11:02 | [lzvolt](https://crates.io/crates/lzvolt) | 1.0.0 | 0 | LZ, variable. A byte-oriented LZ77 codec that chooses its token layout per valu… |
-| 2026-09-27 21:11:15 | [usbguard-gui](https://crates.io/crates/usbguard-gui) | 0.1.0 | 0 | Unprivileged GTK4 desktop client for managing USB device authorization policy t… |
-| 2026-09-27 21:12:06 | [kcode-speaker-v3-classifier-testkit](https://crates.io/crates/kcode-speaker-v3-classifier-testkit) | 0.1.0 | 0 | Downstream conformance fixtures for Speaker V3 ranking-2 |
-| 2026-09-27 21:12:18 | [noir-zk-codegen](https://crates.io/crates/noir-zk-codegen) | 0.2.0 | 0 | Build-time code generation for Noir circuits: typed inputs from nargo ABIs, and… |
-| 2026-09-27 21:12:18 | [noir-zk-core](https://crates.io/crates/noir-zk-core) | 0.2.0 | 0 | Circuit seams and field codec for noir-zk: the Circuit / CircuitId identity tra… |
-| 2026-09-27 21:12:20 | [noir-zk-backend](https://crates.io/crates/noir-zk-backend) | 0.2.0 | 0 | Proving backend for Noir circuits: ACVM witness solving, barretenberg Chonk fol… |
-| 2026-09-27 21:12:21 | [kante](https://crates.io/crates/kante) | 0.0.0 | 0 | Placeholder for the upcoming kante library. |
-| 2026-09-27 21:12:21 | [noir-zk-cli](https://crates.io/crates/noir-zk-cli) | 0.2.0 | 0 | noir-zk freeze: mints versions of compiled Noir circuits, derives their Chonk k… |
-| 2026-09-27 21:12:24 | [xenolith-lang-shell](https://crates.io/crates/xenolith-lang-shell) | 0.1.0 | 0 | Shell support for xenolith: the single-command classifier, bash host sinks, she… |
-| 2026-09-27 21:12:25 | [xenolith-lang-tcl](https://crates.io/crates/xenolith-lang-tcl) | 0.1.0 | 0 | Tcl and expect support for xenolith: exec and spawn sinks, on the vendored tree… |
-| 2026-09-27 21:12:25 | [xenolith-lang-xml](https://crates.io/crates/xenolith-lang-xml) | 0.1.0 | 0 | XML support for xenolith: text plists whose launchd ProgramArguments hold shell |
-| 2026-09-27 21:12:29 | [xenolith](https://crates.io/crates/xenolith) | 0.1.0 | 0 | One language per file: find embedded foreign code, extract it, verify every loa… |
+| 2026-09-27 21:28:41 | [memstead-projection](https://crates.io/crates/memstead-projection) | 0.21.0 | 0 | The maintenance loop for Memstead — projection briefs, findings, verify, advanc… |
+| 2026-09-27 21:40:06 | [dpc-tau-provider-grok](https://crates.io/crates/dpc-tau-provider-grok) | 0.2.0 | 0 | A minimal Unix-first coding agent. |
+| 2026-09-27 21:43:18 | [iana-gen-shared](https://crates.io/crates/iana-gen-shared) | 0.1.0 | 0 | Type-safe Rust bindings generated from IANA protocol parameter registries. |
+| 2026-09-27 21:45:22 | [iana-udp](https://crates.io/crates/iana-udp) | 0.1.0 | 0 | Generated IANA registry bindings for the udp family. |
+| 2026-09-27 21:45:32 | [iana-protocol-numbers](https://crates.io/crates/iana-protocol-numbers) | 0.1.0 | 0 | Generated IANA registry bindings for the protocol-numbers family. |
+| 2026-09-27 21:45:44 | [iana-service](https://crates.io/crates/iana-service) | 0.1.0 | 0 | Generated IANA registry bindings for the service family. |
+| 2026-09-27 21:45:55 | [iana-http](https://crates.io/crates/iana-http) | 0.1.0 | 0 | Generated IANA registry bindings for the http family. |
+| 2026-09-27 21:47:34 | [iana-media](https://crates.io/crates/iana-media) | 0.1.0 | 0 | Generated IANA registry bindings for the media family. |
+| 2026-09-27 21:49:52 | [rlviser-rocketsim](https://crates.io/crates/rlviser-rocketsim) | 0.1.0 | 0 | Stream RocketSim arena state to RLViser over UDP |
+| 2026-09-27 21:52:09 | [dream-net](https://crates.io/crates/dream-net) | 1.0.0 | 0 | Networking substrate for DreamWeave: secure UDP, reliable-ordered and unreliabl… |
+| 2026-09-27 21:57:48 | [rlbot-rocketsim](https://crates.io/crates/rlbot-rocketsim) | 0.1.0 | 0 | Conversions and stateful enrichment between RLBot packets and RocketSim |
+| 2026-09-27 21:59:41 | [canwu-movement](https://crates.io/crates/canwu-movement) | 0.13.0 | 0 | Movement lifecycle, capacity-pool allocation, and holder-relative movement repo… |
+| 2026-09-27 22:02:13 | [iana-sdp](https://crates.io/crates/iana-sdp) | 0.1.0 | 0 | Generated IANA registry bindings for the sdp family. |
+| 2026-09-27 22:02:45 | [oxdock-remote-proto](https://crates.io/crates/oxdock-remote-proto) | 0.20.0-alpha | 0 | Contract for OxDock sealed remote execution: stable muxio method names, content… |
+| 2026-09-27 22:07:40 | [iana-whip](https://crates.io/crates/iana-whip) | 0.1.0 | 0 | Generated IANA registry bindings for the whip family. |
+| 2026-09-27 22:08:02 | [lprog](https://crates.io/crates/lprog) | 0.1.0 | 0 | Minimalistic linear programming optimization library |
+| 2026-09-27 22:17:33 | [iana-rtp-parameters](https://crates.io/crates/iana-rtp-parameters) | 0.1.0 | 0 | Generated IANA registry bindings for the rtp-parameters family. |
+| 2026-09-27 22:20:07 | [satelle](https://crates.io/crates/satelle) | 0.1.15 | 0 | A self-hosted control plane for durable native Computer Use |
 
 ## Data source
 

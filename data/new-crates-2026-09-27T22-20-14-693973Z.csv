@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T21:28:41.828236Z,memstead-projection,0.21.0,0,0,https://github.com/memstead/memstead,"The maintenance loop for Memstead — projection briefs, findings, verify, advance and prune over bound mems. Published as a dependency of the memstead-cli and memstead-mcp products, not as a supported…"
+2026-09-27T21:40:06.32494Z,dpc-tau-provider-grok,0.2.0,0,0,https://github.com/dpc/tau,A minimal Unix-first coding agent.
+2026-09-27T21:43:18.351613Z,iana-gen-shared,0.1.0,0,0,https://github.com/meowdia/iana,Type-safe Rust bindings generated from IANA protocol parameter registries.
+2026-09-27T21:45:22.668628Z,iana-udp,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the udp family.
+2026-09-27T21:45:32.626067Z,iana-protocol-numbers,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the protocol-numbers family.
+2026-09-27T21:45:44.354106Z,iana-service,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the service family.
+2026-09-27T21:45:55.986965Z,iana-http,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the http family.
+2026-09-27T21:47:34.704828Z,iana-media,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the media family.
+2026-09-27T21:49:52.608683Z,rlviser-rocketsim,0.1.0,0,0,https://github.com/VirxEC/rlviser-rocketsim,Stream RocketSim arena state to RLViser over UDP
+2026-09-27T21:52:09.92284Z,dream-net,1.0.0,0,0,https://github.com/DreamWeave-MP/dream-net,"Networking substrate for DreamWeave: secure UDP, reliable-ordered and unreliable event channels, and schema handshakes over the Más Bandwidth netcode, reliable, and serialize crates"
+2026-09-27T21:57:48.208421Z,rlbot-rocketsim,0.1.0,0,0,https://github.com/VirxEC/rlbot-rocketsim,Conversions and stateful enrichment between RLBot packets and RocketSim
+2026-09-27T21:59:41.976234Z,canwu-movement,0.13.0,0,0,https://github.com/PeiyuanQi/canwu,"Movement lifecycle, capacity-pool allocation, and holder-relative movement reports for Canwu"
+2026-09-27T22:02:13.006788Z,iana-sdp,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the sdp family.
+2026-09-27T22:02:45.195368Z,oxdock-remote-proto,0.20.0-alpha,0,0,https://github.com/jzombie/rust-oxdock,"Contract for OxDock sealed remote execution: stable muxio method names, content-derived protocol digest, handshake types, and guarded tarball pack/unpack."
+2026-09-27T22:07:40.766426Z,iana-whip,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the whip family.
+2026-09-27T22:08:02.014155Z,lprog,0.1.0,0,0,https://github.com/igankevich/lprog,Minimalistic linear programming optimization library
+2026-09-27T22:17:33.828764Z,iana-rtp-parameters,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the rtp-parameters family.
+2026-09-27T22:20:07.603832Z,satelle,0.1.15,0,0,https://github.com/Microck/satelle,A self-hosted control plane for durable native Computer Use
