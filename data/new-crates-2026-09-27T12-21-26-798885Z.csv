@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T11:19:50.379121Z,community-databricks-sdk-database,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `database` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T11:21:14.146791Z,guinea-macros,0.13.2,0,0,https://github.com/uniproc-dev/guinea,"guinea's macros: actor!, feature!, #[handler], routes! and the backends' #[page]"
+2026-09-27T11:25:17.104105Z,cargo-crates-auth-check-20260927,0.1.0,0,0,,Disposable crate used to verify crates.io publishing authentication.
+2026-09-27T11:26:40.774949Z,emscripten-futures-macros,0.1.0,0,0,https://github.com/sutajo/emscripten-async,Async test attribute for emscripten-futures
+2026-09-27T11:27:43.496448Z,n4n5-ocr,1.0.0,0,0,https://github.com/Its-Just-Nans/n4n5-crate,n4n5 ocr - photo to text
+2026-09-27T11:29:50.392269Z,community-databricks-sdk-dataclassification,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `dataclassification` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T11:31:47.369219Z,guinea-core,0.13.2,0,0,https://github.com/uniproc-dev/guinea,"guinea's core: actors, reducers, scopes and the event bus"
+2026-09-27T11:34:34.579845Z,frac,0.1.0,0,0,https://github.com/web-dev-sam/frac-term,Renders Mandelbrot in Terminal
+2026-09-27T11:34:37.351474Z,nlptoolkit-util,0.0.1,0,0,https://github.com/StarlangSoftware/Util-Rust,Simple Utils
+2026-09-27T11:35:31.203946Z,mule-cli,0.2.1,0,0,https://github.com/mu-crew/mule,Fire remote jobs down a private ssh channel nothing else can contend with.
+2026-09-27T11:35:32.982732Z,girt,0.1.0,0,0,https://github.com/joshka/girt,"An incremental, idiomatic Rust implementation of Git"
+2026-09-27T11:36:39.665403Z,decane,1.0.0,0,0,https://github.com/Korex23/decane-connect-kit,"Server-side SDK for Decane Connect Kit: verify access tokens, sign users in, per-user records and server-side wallet creation."
+2026-09-27T11:39:50.521519Z,community-databricks-sdk-dataquality,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `dataquality` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T11:41:56.195591Z,guinea-app,0.13.2,0,0,https://github.com/uniproc-dev/guinea,"The part of a guinea application with no toolkit in it: plugins, features, services, actors, timers and teardown"
+2026-09-27T11:42:47.849692Z,labeldeck,0.1.0,0,0,https://github.com/seapagan/labeldeck,"Export, diff, and safely synchronize GitHub repository labels from a canonical JSON file"
+2026-09-27T11:49:50.705266Z,community-databricks-sdk-disasterrecovery,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `disasterrecovery` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T11:51:51.391774Z,ironlab-canvas,0.10.0,0,0,https://github.com/thclark/ironlab,"The figure canvas of IronLAB: one draw list per figure, drawn by its own wgpu pipelines on screen, offscreen and into PDF rasters."
+2026-09-27T11:52:03.841769Z,guinea-router,0.13.2,0,0,https://github.com/uniproc-dev/guinea,"guinea's nested routing: typed routes, layouts, and the scopes they install and tear down"
+2026-09-27T11:53:37.587027Z,codex-color,0.6.0,0,0,https://github.com/xicv/codex-color,Skin the Codex desktop app with a wallpaper and palette: generate one with Codex's image_gen or import a DreamSkin community theme.
+2026-09-27T11:58:12.156308Z,rrule2,0.14.1,0,0,https://github.com/km0e/rust-rrule,A pure Rust implementation of recurrence rules as defined in the iCalendar RFC. Fork of the `rrule` crate with additional fixes.
+2026-09-27T11:59:51.045759Z,community-databricks-sdk-domains,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `domains` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T12:03:21.09082Z,guinea-eframe,0.13.2,0,0,https://github.com/uniproc-dev/guinea,"guinea on egui: the router and the application runtime, drawn immediately"
+2026-09-27T12:09:50.504542Z,community-databricks-sdk-environments,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `environments` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T12:10:03.980467Z,ariacompute-core,2.0.0,0,0,https://github.com/ariacompute/engine,"AFM-D shared types, System One contract, config, and packing helpers"
+2026-09-27T12:10:35.89144Z,ariacompute-de,2.0.0,0,0,https://github.com/ariacompute/engine,AFM-D Encoder (afm_de): Laya-layout DecisionModel packing + scoring
+2026-09-27T12:10:54.112165Z,ariacompute-dd,2.0.0,0,0,https://github.com/ariacompute/engine,AFM-D Decoder (afm_dd): SemIf direct + MiniCPM±LoRA mapping
+2026-09-27T12:14:24.81194Z,guinea-iced,0.13.2,0,0,https://github.com/uniproc-dev/guinea,"guinea on iced: the router and the application runtime, with Elm inside each node"
+2026-09-27T12:15:50.003262Z,mlab,1.1.0,0,0,https://github.com/mlab-sh/mlab-cli,CLI client for the mlab.sh threat intelligence and CVE APIs
+2026-09-27T12:19:50.516572Z,community-databricks-sdk-files,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `files` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T12:20:30.278049Z,linux-interceptors,0.1.0,0,0,https://gitlab.com/dzamlo/linux-interceptors,Trace and intercept Linux system calls and signals with ptrace

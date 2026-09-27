@@ -8,44 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 11:18 UTC
+## Latest list — 2026-09-27 12:21 UTC
 
-New crates published between 2026-09-27 10:19 UTC and 2026-09-27 11:18 UTC.
+New crates published between 2026-09-27 11:18 UTC and 2026-09-27 12:21 UTC.
 
-[Full CSV](data/new-crates-2026-09-27T11-18-53-476453Z.csv)
+[Full CSV](data/new-crates-2026-09-27T12-21-26-798885Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-27 10:29:50 | [community-databricks-sdk-settings](https://crates.io/crates/community-databricks-sdk-settings) | 0.1.0 | 0 | Databricks `settings` API models and services (community-maintained, generated;… |
-| 2026-09-27 10:30:52 | [syncer-language](https://crates.io/crates/syncer-language) | 0.1.0 | 0 | HCL policy language for syncer |
-| 2026-09-27 10:30:58 | [syncer-extension-sdk](https://crates.io/crates/syncer-extension-sdk) | 0.1.0 | 0 | Versioned native extension ABI for syncer |
-| 2026-09-27 10:31:12 | [syncer-core](https://crates.io/crates/syncer-core) | 0.1.0 | 0 | Planning, policy resolution and safe file application for syncer |
-| 2026-09-27 10:31:21 | [syncer-cli](https://crates.io/crates/syncer-cli) | 0.1.0 | 0 | Layered file policy synchronization CLI |
-| 2026-09-27 10:31:37 | [syncer-extension-http](https://crates.io/crates/syncer-extension-http) | 0.1.0 | 0 | Official http extension for syncer |
-| 2026-09-27 10:34:18 | [mcp-server-lint-arwaky](https://crates.io/crates/mcp-server-lint-arwaky) | 3.7.1 | 0 | MCP server surface for lint-arwaky. |
-| 2026-09-27 10:34:42 | [cli-commands](https://crates.io/crates/cli-commands) | 3.7.1 | 0 | CLI command surface for lint-arwaky: scan, fix, watch, and report actions. |
-| 2026-09-27 10:37:29 | [rusty-docs](https://crates.io/crates/rusty-docs) | 0.1.0 | 0 | Generate static documentation sites for Rust crates |
-| 2026-09-27 10:38:59 | [lint_arwaky-arwaky](https://crates.io/crates/lint_arwaky-arwaky) | 3.7.1 | 0 | Autonomous code quality and architecture enforcement for AI agents and develope… |
-| 2026-09-27 10:39:50 | [community-databricks-sdk-sharing](https://crates.io/crates/community-databricks-sdk-sharing) | 0.1.0 | 0 | Databricks `sharing` API models and services (community-maintained, generated;… |
-| 2026-09-27 10:40:54 | [syncer-extension-git](https://crates.io/crates/syncer-extension-git) | 0.1.0 | 0 | Official git extension for syncer |
-| 2026-09-27 10:49:22 | [xstars](https://crates.io/crates/xstars) | 0.1.0 | 0 | 紫微斗数排盘引擎 — 紫微斗数算法库，支持多流派、多语言、运限系统 |
-| 2026-09-27 10:49:50 | [community-databricks-sdk-cleanrooms](https://crates.io/crates/community-databricks-sdk-cleanrooms) | 0.1.0 | 0 | Databricks `cleanrooms` API models and services (community-maintained, generate… |
-| 2026-09-27 10:50:55 | [syncer-extension-google-drive](https://crates.io/crates/syncer-extension-google-drive) | 0.1.0 | 0 | Official google-drive extension for syncer |
-| 2026-09-27 10:51:29 | [guinea-mark](https://crates.io/crates/guinea-mark) | 0.13.2 | 0 | Names for what tests and tools reach for on screen |
-| 2026-09-27 10:51:32 | [guinea-meta](https://crates.io/crates/guinea-meta) | 0.13.2 | 0 | Runtime access to the constants guinea-meta-build derives from an application's… |
-| 2026-09-27 10:51:43 | [guinea-meta-build](https://crates.io/crates/guinea-meta-build) | 0.13.2 | 0 | For build.rs: reads app.toml, embeds the executable's resources, and writes the… |
-| 2026-09-27 10:51:53 | [guinea-route-dsl](https://crates.io/crates/guinea-route-dsl) | 0.13.2 | 0 | The route tree `routes!` declares, parsed - shared by the macro that expands it… |
-| 2026-09-27 10:52:09 | [guinea-trace](https://crates.io/crates/guinea-trace) | 0.13.2 | 0 | What caused what inside a guinea application |
-| 2026-09-27 10:53:26 | [better-duck-sys](https://crates.io/crates/better-duck-sys) | 0.1.0-beta.4 | 0 | Vendored DuckDB C API and bindings for the better-duck workspace |
-| 2026-09-27 10:54:56 | [reclean](https://crates.io/crates/reclean) | 0.5.0 | 0 | Safely remove files and directories matching a set of glob patterns. |
-| 2026-09-27 10:56:17 | [annodiff](https://crates.io/crates/annodiff) | 0.1.0 | 0 | A terminal UI for annotating Git diffs and sending reviews to coding agents |
-| 2026-09-27 10:59:50 | [community-databricks-sdk-sql](https://crates.io/crates/community-databricks-sdk-sql) | 0.1.0 | 0 | Databricks `sql` API models and services (community-maintained, generated; use… |
-| 2026-09-27 11:00:54 | [syncer-extension-json](https://crates.io/crates/syncer-extension-json) | 0.1.0 | 0 | Official json extension for syncer |
-| 2026-09-27 11:07:39 | [audio2face3d-gui](https://crates.io/crates/audio2face3d-gui) | 0.2.0 | 0 | Reusable Audio2Face-3D inspection, rendering and playback library |
-| 2026-09-27 11:08:14 | [guinea-codegen](https://crates.io/crates/guinea-codegen) | 0.13.2 | 0 | Build-script helpers for guinea applications: generated files written only when… |
-| 2026-09-27 11:09:50 | [community-databricks-sdk-dashboards](https://crates.io/crates/community-databricks-sdk-dashboards) | 0.1.0 | 0 | Databricks `dashboards` API models and services (community-maintained, generate… |
-| 2026-09-27 11:10:53 | [guinea-slint-build](https://crates.io/crates/guinea-slint-build) | 0.13.2 | 0 | Compiles an application's .slint tree for guinea-slint |
-| 2026-09-27 11:10:54 | [syncer-extension-claude](https://crates.io/crates/syncer-extension-claude) | 0.1.0 | 0 | Official claude extension for syncer |
+| 2026-09-27 11:19:50 | [community-databricks-sdk-database](https://crates.io/crates/community-databricks-sdk-database) | 0.1.0 | 0 | Databricks `database` API models and services (community-maintained, generated;… |
+| 2026-09-27 11:21:14 | [guinea-macros](https://crates.io/crates/guinea-macros) | 0.13.2 | 0 | guinea's macros: actor!, feature!, #[handler], routes! and the backends' #[page] |
+| 2026-09-27 11:25:17 | [cargo-crates-auth-check-20260927](https://crates.io/crates/cargo-crates-auth-check-20260927) | 0.1.0 | 0 | Disposable crate used to verify crates.io publishing authentication. |
+| 2026-09-27 11:26:40 | [emscripten-futures-macros](https://crates.io/crates/emscripten-futures-macros) | 0.1.0 | 0 | Async test attribute for emscripten-futures |
+| 2026-09-27 11:27:43 | [n4n5-ocr](https://crates.io/crates/n4n5-ocr) | 1.0.0 | 0 | n4n5 ocr - photo to text |
+| 2026-09-27 11:29:50 | [community-databricks-sdk-dataclassification](https://crates.io/crates/community-databricks-sdk-dataclassification) | 0.1.0 | 0 | Databricks `dataclassification` API models and services (community-maintained,… |
+| 2026-09-27 11:31:47 | [guinea-core](https://crates.io/crates/guinea-core) | 0.13.2 | 0 | guinea's core: actors, reducers, scopes and the event bus |
+| 2026-09-27 11:34:34 | [frac](https://crates.io/crates/frac) | 0.1.0 | 0 | Renders Mandelbrot in Terminal |
+| 2026-09-27 11:34:37 | [nlptoolkit-util](https://crates.io/crates/nlptoolkit-util) | 0.0.1 | 0 | Simple Utils |
+| 2026-09-27 11:35:31 | [mule-cli](https://crates.io/crates/mule-cli) | 0.2.1 | 0 | Fire remote jobs down a private ssh channel nothing else can contend with. |
+| 2026-09-27 11:35:32 | [girt](https://crates.io/crates/girt) | 0.1.0 | 0 | An incremental, idiomatic Rust implementation of Git |
+| 2026-09-27 11:36:39 | [decane](https://crates.io/crates/decane) | 1.0.0 | 0 | Server-side SDK for Decane Connect Kit: verify access tokens, sign users in, pe… |
+| 2026-09-27 11:39:50 | [community-databricks-sdk-dataquality](https://crates.io/crates/community-databricks-sdk-dataquality) | 0.1.0 | 0 | Databricks `dataquality` API models and services (community-maintained, generat… |
+| 2026-09-27 11:41:56 | [guinea-app](https://crates.io/crates/guinea-app) | 0.13.2 | 0 | The part of a guinea application with no toolkit in it: plugins, features, serv… |
+| 2026-09-27 11:42:47 | [labeldeck](https://crates.io/crates/labeldeck) | 0.1.0 | 0 | Export, diff, and safely synchronize GitHub repository labels from a canonical… |
+| 2026-09-27 11:49:50 | [community-databricks-sdk-disasterrecovery](https://crates.io/crates/community-databricks-sdk-disasterrecovery) | 0.1.0 | 0 | Databricks `disasterrecovery` API models and services (community-maintained, ge… |
+| 2026-09-27 11:51:51 | [ironlab-canvas](https://crates.io/crates/ironlab-canvas) | 0.10.0 | 0 | The figure canvas of IronLAB: one draw list per figure, drawn by its own wgpu p… |
+| 2026-09-27 11:52:03 | [guinea-router](https://crates.io/crates/guinea-router) | 0.13.2 | 0 | guinea's nested routing: typed routes, layouts, and the scopes they install and… |
+| 2026-09-27 11:53:37 | [codex-color](https://crates.io/crates/codex-color) | 0.6.0 | 0 | Skin the Codex desktop app with a wallpaper and palette: generate one with Code… |
+| 2026-09-27 11:58:12 | [rrule2](https://crates.io/crates/rrule2) | 0.14.1 | 0 | A pure Rust implementation of recurrence rules as defined in the iCalendar RFC.… |
+| 2026-09-27 11:59:51 | [community-databricks-sdk-domains](https://crates.io/crates/community-databricks-sdk-domains) | 0.1.0 | 0 | Databricks `domains` API models and services (community-maintained, generated;… |
+| 2026-09-27 12:03:21 | [guinea-eframe](https://crates.io/crates/guinea-eframe) | 0.13.2 | 0 | guinea on egui: the router and the application runtime, drawn immediately |
+| 2026-09-27 12:09:50 | [community-databricks-sdk-environments](https://crates.io/crates/community-databricks-sdk-environments) | 0.1.0 | 0 | Databricks `environments` API models and services (community-maintained, genera… |
+| 2026-09-27 12:10:03 | [ariacompute-core](https://crates.io/crates/ariacompute-core) | 2.0.0 | 0 | AFM-D shared types, System One contract, config, and packing helpers |
+| 2026-09-27 12:10:35 | [ariacompute-de](https://crates.io/crates/ariacompute-de) | 2.0.0 | 0 | AFM-D Encoder (afm_de): Laya-layout DecisionModel packing + scoring |
+| 2026-09-27 12:10:54 | [ariacompute-dd](https://crates.io/crates/ariacompute-dd) | 2.0.0 | 0 | AFM-D Decoder (afm_dd): SemIf direct + MiniCPM±LoRA mapping |
+| 2026-09-27 12:14:24 | [guinea-iced](https://crates.io/crates/guinea-iced) | 0.13.2 | 0 | guinea on iced: the router and the application runtime, with Elm inside each no… |
+| 2026-09-27 12:15:50 | [mlab](https://crates.io/crates/mlab) | 1.1.0 | 0 | CLI client for the mlab.sh threat intelligence and CVE APIs |
+| 2026-09-27 12:19:50 | [community-databricks-sdk-files](https://crates.io/crates/community-databricks-sdk-files) | 0.1.0 | 0 | Databricks `files` API models and services (community-maintained, generated; us… |
+| 2026-09-27 12:20:30 | [linux-interceptors](https://crates.io/crates/linux-interceptors) | 0.1.0 | 0 | Trace and intercept Linux system calls and signals with ptrace |
 
 ## Data source
 
