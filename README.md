@@ -8,47 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 13:20 UTC
+## Latest list — 2026-09-27 14:19 UTC
 
-New crates published between 2026-09-27 12:21 UTC and 2026-09-27 13:20 UTC.
+New crates published between 2026-09-27 13:20 UTC and 2026-09-27 14:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-27T13-20-03-352316Z.csv)
+[Full CSV](data/new-crates-2026-09-27T14-19-52-23397Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-27 12:24:55 | [cargo-anodized](https://crates.io/crates/cargo-anodized) | 0.6.0 | 0 | Cargo tool integration for Anodized |
-| 2026-09-27 12:25:57 | [guinea-ratatui](https://crates.io/crates/guinea-ratatui) | 0.13.5 | 0 | guinea on ratatui: the router and the application runtime, drawn in a terminal |
-| 2026-09-27 12:29:34 | [better-duck-tauri](https://crates.io/crates/better-duck-tauri) | 0.1.0-beta.5 | 0 | Tauri v2 plugin exposing better-duck (embedded DuckDB) to the webview as a loca… |
-| 2026-09-27 12:29:50 | [community-databricks-sdk-iamv2](https://crates.io/crates/community-databricks-sdk-iamv2) | 0.1.0 | 0 | Databricks `iamv2` API models and services (community-maintained, generated; us… |
-| 2026-09-27 12:31:18 | [renfs](https://crates.io/crates/renfs) | 0.1.0 | 0 | Bindings for ZenFS: A filesystem, anywhere |
-| 2026-09-27 12:32:38 | [guinea-slint](https://crates.io/crates/guinea-slint) | 0.13.5 | 0 | guinea on Slint: the router and the application runtime, drawn by a Slint compo… |
-| 2026-09-27 12:33:20 | [stagesift-git-domain](https://crates.io/crates/stagesift-git-domain) | 0.1.0 | 0 | Pure Git domain types (status, diff, blame). No I/O, no UI types. |
-| 2026-09-27 12:33:22 | [stagesift-git-cli](https://crates.io/crates/stagesift-git-cli) | 0.1.0 | 0 | System Git CLI backend: process runner, porcelain parsers and typed commands. |
-| 2026-09-27 12:33:23 | [stagesift-repo-watch](https://crates.io/crates/stagesift-repo-watch) | 0.1.0 | 0 | File system watcher for a Git repository: classification, ignore filtering, deb… |
-| 2026-09-27 12:33:25 | [stagesift-patch-engine](https://crates.io/crates/stagesift-patch-engine) | 0.1.0 | 0 | Turns a line selection over a parsed diff into a patch that `git apply` can app… |
-| 2026-09-27 12:33:26 | [stagesift-app-core](https://crates.io/crates/stagesift-app-core) | 0.1.0 | 0 | Application model: repository controller, operations, caches, view-model helper… |
-| 2026-09-27 12:35:49 | [stagesift-ui](https://crates.io/crates/stagesift-ui) | 0.1.0 | 0 | GPUI views. The only crate that depends on GPUI. |
-| 2026-09-27 12:39:50 | [community-databricks-sdk-knowledgeassistants](https://crates.io/crates/community-databricks-sdk-knowledgeassistants) | 0.1.0 | 0 | Databricks `knowledgeassistants` API models and services (community-maintained,… |
-| 2026-09-27 12:42:00 | [ntalbs-rup](https://crates.io/crates/ntalbs-rup) | 0.1.0 | 0 | Very basic command-line static HTTP server without external dependencies. |
-| 2026-09-27 12:42:06 | [bobcat-return](https://crates.io/crates/bobcat-return) | 0.1.1 | 0 | Abstract functions for exiting the user_entrypoint Stylus entrypoint with bobca… |
-| 2026-09-27 12:43:11 | [guinea](https://crates.io/crates/guinea) | 0.13.5 | 0 | Desktop applications in Rust, built from features that know what they own |
-| 2026-09-27 12:49:50 | [community-databricks-sdk-marketplace](https://crates.io/crates/community-databricks-sdk-marketplace) | 0.1.0 | 0 | Databricks `marketplace` API models and services (community-maintained, generat… |
-| 2026-09-27 12:51:29 | [mmlx](https://crates.io/crates/mmlx) | 0.1.0 | 0 | MML parser and compiler with soundlog. |
-| 2026-09-27 12:54:54 | [roger-protocol](https://crates.io/crates/roger-protocol) | 0.1.2 | 0 | Wire types of the Roger API: Asks, answers, traces, and errors. |
-| 2026-09-27 12:54:56 | [roger-cli](https://crates.io/crates/roger-cli) | 0.1.2 | 0 | The `roger` command: agents ask a person for a decision and read the answer. |
-| 2026-09-27 12:59:50 | [community-databricks-sdk-ml](https://crates.io/crates/community-databricks-sdk-ml) | 0.1.0 | 0 | Databricks `ml` API models and services (community-maintained, generated; use v… |
-| 2026-09-27 13:01:29 | [pbz2-core](https://crates.io/crates/pbz2-core) | 0.1.0 | 0 | The no_std core of pbz2: bzip2 compression and decompression that does not allo… |
-| 2026-09-27 13:01:32 | [pbz2](https://crates.io/crates/pbz2) | 0.1.0 | 0 | Fast parallel bzip2 compression and decompression behind std::io::Read and Writ… |
-| 2026-09-27 13:01:36 | [arib](https://crates.io/crates/arib) | 0.1.1 | 0 | Parsers, demultiplexers and descramblers for the ARIB broadcasting standards |
-| 2026-09-27 13:01:51 | [arib-cli](https://crates.io/crates/arib-cli) | 0.1.1 | 0 | Reads the signalling of ARIB broadcasts and descrambles them, as an example of… |
-| 2026-09-27 13:03:07 | [mfp-core](https://crates.io/crates/mfp-core) | 1.0.0 | 0 | Shared catalog, configuration, path, and wire-protocol types for the musicforpr… |
-| 2026-09-27 13:03:46 | [mfp-daemon](https://crates.io/crates/mfp-daemon) | 1.0.0 | 0 | Background player daemon for musicforprogramming.net |
-| 2026-09-27 13:04:14 | [mfp-tui](https://crates.io/crates/mfp-tui) | 1.0.0 | 0 | Terminal interface and headless CLI for the musicforprogramming player |
-| 2026-09-27 13:06:44 | [namapper-core](https://crates.io/crates/namapper-core) | 2.0.0 | 0 | Backend-neutral mapper SQL rendering, shared cache, atomic metrics, and bounded… |
-| 2026-09-27 13:06:50 | [natx-core](https://crates.io/crates/natx-core) | 2.0.0 | 0 | Backend-neutral datasource ownership, transaction outcomes, and atomic connecti… |
-| 2026-09-27 13:09:50 | [community-databricks-sdk-networking](https://crates.io/crates/community-databricks-sdk-networking) | 0.1.0 | 0 | Databricks `networking` API models and services (community-maintained, generate… |
-| 2026-09-27 13:16:13 | [onoal-oracle](https://crates.io/crates/onoal-oracle) | 0.1.0 | 0 | Oracle computational possibility, planning, and control foundation. |
-| 2026-09-27 13:19:50 | [community-databricks-sdk-oauth2](https://crates.io/crates/community-databricks-sdk-oauth2) | 0.1.0 | 0 | Databricks `oauth2` API models and services (community-maintained, generated; u… |
+| 2026-09-27 13:24:36 | [flighty-wall](https://crates.io/crates/flighty-wall) | 0.1.0 | 0 | Sync Flighty Friends flights to a FlightWall Mini |
+| 2026-09-27 13:29:50 | [community-databricks-sdk-pipelines](https://crates.io/crates/community-databricks-sdk-pipelines) | 0.1.0 | 0 | Databricks `pipelines` API models and services (community-maintained, generated… |
+| 2026-09-27 13:39:47 | [namigrate-pgsql](https://crates.io/crates/namigrate-pgsql) | 2.0.0 | 0 | PostgreSQL migration gate with session-affine advisory locking |
+| 2026-09-27 13:39:50 | [community-databricks-sdk-postgres](https://crates.io/crates/community-databricks-sdk-postgres) | 0.1.0 | 0 | Databricks `postgres` API models and services (community-maintained, generated;… |
+| 2026-09-27 13:39:57 | [nasaga-backend](https://crates.io/crates/nasaga-backend) | 2.0.0 | 0 | Provider-neutral Saga persistence models and capability contracts |
+| 2026-09-27 13:40:35 | [natx-pgsql](https://crates.io/crates/natx-pgsql) | 2.0.0 | 0 | Named ambient PostgreSQL transactions with managed datasource ownership and con… |
+| 2026-09-27 13:41:01 | [fanta-gpui-icons](https://crates.io/crates/fanta-gpui-icons) | 0.5.0 | 0 | Zed baseline icon definitions for GPUI. |
+| 2026-09-27 13:41:25 | [fanta-gpui-ui-macros](https://crates.io/crates/fanta-gpui-ui-macros) | 0.5.0 | 0 | Procedural macros for Zed baseline GPUI components. |
+| 2026-09-27 13:42:48 | [parterre-core](https://crates.io/crates/parterre-core) | 0.5.0 | 0 | Internal to parterre: repository loading, revision-graph construction and layou… |
+| 2026-09-27 13:42:51 | [parterre](https://crates.io/crates/parterre) | 0.5.0 | 0 | A standalone, TortoiseGit-style revision graph viewer for git repositories. |
+| 2026-09-27 13:46:49 | [rlmctl-common](https://crates.io/crates/rlmctl-common) | 0.2.0 | 0 | Shared limit, profile and config types for rlmctl (the rlm resource limit manag… |
+| 2026-09-27 13:47:01 | [rlmctl-core](https://crates.io/crates/rlmctl-core) | 0.2.0 | 0 | cgroup v2 limit management and the rlm-guard engine for rlmctl |
+| 2026-09-27 13:48:35 | [rlmctl](https://crates.io/crates/rlmctl) | 0.2.0 | 0 | rlm: unprivileged cgroup v2 limits for your own processes, plus rlm-guard, whic… |
+| 2026-09-27 13:49:50 | [community-databricks-sdk-provisioning](https://crates.io/crates/community-databricks-sdk-provisioning) | 0.1.0 | 0 | Databricks `provisioning` API models and services (community-maintained, genera… |
+| 2026-09-27 13:50:31 | [mathtex-editor-session](https://crates.io/crates/mathtex-editor-session) | 0.3.0 | 0 | Batteries included session for mathtex-editor: keymap, typesetting, undo, clipb… |
+| 2026-09-27 13:50:52 | [fanta-gpui-menu](https://crates.io/crates/fanta-gpui-menu) | 0.5.0 | 0 | Zed baseline menu model for GPUI. |
+| 2026-09-27 13:51:19 | [fanta-gpui-zed-ui-assets](https://crates.io/crates/fanta-gpui-zed-ui-assets) | 0.5.0 | 0 | Bundled Zed UI icons, fonts, themes, images, and asset licenses for GPUI. |
+| 2026-09-27 13:51:42 | [carmy-redis](https://crates.io/crates/carmy-redis) | 0.6.0 | 0 | Agent-native execution infrastructure: durable Redis stores for jobs and idempo… |
+| 2026-09-27 13:51:53 | [carmy-openapi](https://crates.io/crates/carmy-openapi) | 0.6.0 | 0 | Agent-native execution infrastructure: an OpenAPI description as Carmy tools |
+| 2026-09-27 13:52:19 | [fanta-gpui-syntax-theme](https://crates.io/crates/fanta-gpui-syntax-theme) | 0.5.0 | 0 | Zed syntax theme primitives for GPUI. |
+| 2026-09-27 13:52:58 | [fanta-gpui-theme](https://crates.io/crates/fanta-gpui-theme) | 0.5.0 | 0 | Zed baseline theme system for GPUI. |
+| 2026-09-27 13:53:06 | [fanta-gpui-component](https://crates.io/crates/fanta-gpui-component) | 0.5.0 | 0 | Zed baseline component preview registry for GPUI. |
+| 2026-09-27 13:55:20 | [gbz-haplotype-index](https://crates.io/crates/gbz-haplotype-index) | 0.1.0 | 0 | Writes a companion haplotype index that names every walk in a gbz-base pangenom… |
+| 2026-09-27 13:56:40 | [torrent-verify](https://crates.io/crates/torrent-verify) | 0.1.1 | 0 | A command-line tool to verify downloaded torrent data |
+| 2026-09-27 13:57:19 | [leviath-graphql-derive](https://crates.io/crates/leviath-graphql-derive) | 0.6.4 | 0 | The #[mirror] attribute: a GraphQL output type's filter input, written from the… |
+| 2026-09-27 13:59:11 | [lsm303-driver](https://crates.io/crates/lsm303-driver) | 0.1.0 | 0 | no_std driver for the ST LSM303 accelerometer + magnetometer family (GY-511) |
+| 2026-09-27 13:59:27 | [neo-gps](https://crates.io/crates/neo-gps) | 0.1.0 | 0 | Sync/async no_std driver for the u-blox NEO-xM GPS module family (NEO-6M/7M/8M/… |
+| 2026-09-27 13:59:50 | [community-databricks-sdk-qualitymonitorv2](https://crates.io/crates/community-databricks-sdk-qualitymonitorv2) | 0.1.0 | 0 | Databricks `qualitymonitorv2` API models and services (community-maintained, ge… |
+| 2026-09-27 14:01:04 | [arq-io-async](https://crates.io/crates/arq-io-async) | 0.0.1 | 0 | Asynchronous implementation of ARQ in Rust. |
+| 2026-09-27 14:02:47 | [syntrop-runtimed-gguf](https://crates.io/crates/syntrop-runtimed-gguf) | 0.4.0 | 0 | Zero-ML-dependency GGUF parser, dequantizer, and weight registry for syntrop-ru… |
+| 2026-09-27 14:03:49 | [fanta-gpui-file-icons](https://crates.io/crates/fanta-gpui-file-icons) | 0.5.0 | 0 | Zed baseline file icon lookup for GPUI. |
+| 2026-09-27 14:04:21 | [syntrop-runtimed-model](https://crates.io/crates/syntrop-runtimed-model) | 0.4.0 | 0 | Owned LLM forward pass: arch configs, candle-backed weights, generate loop |
+| 2026-09-27 14:07:08 | [csm-duckdb](https://crates.io/crates/csm-duckdb) | 0.3.8 | 0 | Optional analytics, Parquet export, and SQL inspection for chaotic_semantic_mem… |
+| 2026-09-27 14:07:46 | [naidempotency-pgsql](https://crates.io/crates/naidempotency-pgsql) | 2.0.0 | 0 | PostgreSQL idempotency store with named ambient transactions, lease fencing, an… |
+| 2026-09-27 14:07:56 | [nainbox-pgsql](https://crates.io/crates/nainbox-pgsql) | 2.0.0 | 0 | PostgreSQL Inbox backend with named ambient transactions and target-key dedupli… |
+| 2026-09-27 14:08:25 | [namapper-pgsql](https://crates.io/crates/namapper-pgsql) | 2.0.0 | 0 | Declarative PostgreSQL mapper with ambient transactions, atomic SQL metrics, an… |
+| 2026-09-27 14:08:40 | [naoutbox-pgsql](https://crates.io/crates/naoutbox-pgsql) | 2.0.0 | 0 | PostgreSQL transactional Outbox with fenced dispatch ownership, SKIP LOCKED pol… |
+| 2026-09-27 14:09:16 | [nasaga-pgsql](https://crates.io/crates/nasaga-pgsql) | 2.0.0 | 0 | Durable named-datasource PostgreSQL store for NASA Saga state, fencing, audit,… |
+| 2026-09-27 14:09:50 | [community-databricks-sdk-sandbox](https://crates.io/crates/community-databricks-sdk-sandbox) | 0.1.0 | 0 | Databricks `sandbox` API models and services (community-maintained, generated;… |
+| 2026-09-27 14:14:35 | [fanta-gpui-ui](https://crates.io/crates/fanta-gpui-ui) | 0.5.0 | 0 | Zed baseline UI components for GPUI. |
+| 2026-09-27 14:15:32 | [nasaga-runtime-core](https://crates.io/crates/nasaga-runtime-core) | 2.0.0 | 0 | Backend-neutral NASA Saga state machine and shared runtime state |
+| 2026-09-27 14:19:50 | [community-databricks-sdk-serving](https://crates.io/crates/community-databricks-sdk-serving) | 0.1.0 | 0 | Databricks `serving` API models and services (community-maintained, generated;… |
 
 ## Data source
 

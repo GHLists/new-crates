@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T13:24:36.520443Z,flighty-wall,0.1.0,0,0,https://github.com/butlerx/flighty-wall,Sync Flighty Friends flights to a FlightWall Mini
+2026-09-27T13:29:50.657622Z,community-databricks-sdk-pipelines,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `pipelines` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T13:39:47.526204Z,namigrate-pgsql,2.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,PostgreSQL migration gate with session-affine advisory locking
+2026-09-27T13:39:50.367134Z,community-databricks-sdk-postgres,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `postgres` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T13:39:57.145219Z,nasaga-backend,2.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,Provider-neutral Saga persistence models and capability contracts
+2026-09-27T13:40:35.366164Z,natx-pgsql,2.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,Named ambient PostgreSQL transactions with managed datasource ownership and connection wait observability
+2026-09-27T13:41:01.924567Z,fanta-gpui-icons,0.5.0,0,0,https://github.com/squidred-dev/fanta-ui,Zed baseline icon definitions for GPUI.
+2026-09-27T13:41:25.730905Z,fanta-gpui-ui-macros,0.5.0,0,0,https://github.com/squidred-dev/fanta-ui,Procedural macros for Zed baseline GPUI components.
+2026-09-27T13:42:48.370412Z,parterre-core,0.5.0,0,0,https://github.com/aquamoth/parterre,"Internal to parterre: repository loading, revision-graph construction and layout. No stability promises."
+2026-09-27T13:42:51.246603Z,parterre,0.5.0,0,0,https://github.com/aquamoth/parterre,"A standalone, TortoiseGit-style revision graph viewer for git repositories."
+2026-09-27T13:46:49.909913Z,rlmctl-common,0.2.0,0,0,https://github.com/jayashankarvr/rlm,"Shared limit, profile and config types for rlmctl (the rlm resource limit manager)"
+2026-09-27T13:47:01.73306Z,rlmctl-core,0.2.0,0,0,https://github.com/jayashankarvr/rlm,cgroup v2 limit management and the rlm-guard engine for rlmctl
+2026-09-27T13:48:35.086045Z,rlmctl,0.2.0,0,0,https://github.com/jayashankarvr/rlm,"rlm: unprivileged cgroup v2 limits for your own processes, plus rlm-guard, which freezes or caps a runaway app under memory pressure instead of killing it"
+2026-09-27T13:49:50.640835Z,community-databricks-sdk-provisioning,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `provisioning` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T13:50:31.85876Z,mathtex-editor-session,0.3.0,0,0,https://github.com/gabriel-nsiqueira/mathtex-editor,"Batteries included session for mathtex-editor: keymap, typesetting, undo, clipboard and host box tokens over the explicit core"
+2026-09-27T13:50:52.810431Z,fanta-gpui-menu,0.5.0,0,0,https://github.com/squidred-dev/fanta-ui,Zed baseline menu model for GPUI.
+2026-09-27T13:51:19.6643Z,fanta-gpui-zed-ui-assets,0.5.0,0,0,https://github.com/squidred-dev/fanta-ui,"Bundled Zed UI icons, fonts, themes, images, and asset licenses for GPUI."
+2026-09-27T13:51:42.753234Z,carmy-redis,0.6.0,0,0,https://github.com/igorvieira/Carmy,Agent-native execution infrastructure: durable Redis stores for jobs and idempotency
+2026-09-27T13:51:53.230352Z,carmy-openapi,0.6.0,0,0,https://github.com/igorvieira/Carmy,Agent-native execution infrastructure: an OpenAPI description as Carmy tools
+2026-09-27T13:52:19.195847Z,fanta-gpui-syntax-theme,0.5.0,0,0,https://github.com/squidred-dev/fanta-ui,Zed syntax theme primitives for GPUI.
+2026-09-27T13:52:58.758654Z,fanta-gpui-theme,0.5.0,0,0,https://github.com/squidred-dev/fanta-ui,Zed baseline theme system for GPUI.
+2026-09-27T13:53:06.639233Z,fanta-gpui-component,0.5.0,0,0,https://github.com/squidred-dev/fanta-ui,Zed baseline component preview registry for GPUI.
+2026-09-27T13:55:20.387502Z,gbz-haplotype-index,0.1.0,0,0,https://github.com/GMOD/gbz-base-js,Writes a companion haplotype index that names every walk in a gbz-base pangenome database
+2026-09-27T13:56:40.400482Z,torrent-verify,0.1.1,0,0,https://github.com/jesseschalken/torrent-verify,A command-line tool to verify downloaded torrent data
+2026-09-27T13:57:19.704709Z,leviath-graphql-derive,0.6.4,0,0,https://github.com/GEMISIS/leviath,"The #[mirror] attribute: a GraphQL output type's filter input, written from the type itself"
+2026-09-27T13:59:11.285309Z,lsm303-driver,0.1.0,0,0,https://github.com/I-Azy-I/lsm303-driver,no_std driver for the ST LSM303 accelerometer + magnetometer family (GY-511)
+2026-09-27T13:59:27.193769Z,neo-gps,0.1.0,0,0,https://github.com/I-Azy-I/neo-gps,Sync/async no_std driver for the u-blox NEO-xM GPS module family (NEO-6M/7M/8M/M9/M10)
+2026-09-27T13:59:50.323881Z,community-databricks-sdk-qualitymonitorv2,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `qualitymonitorv2` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T14:01:04.245211Z,arq-io-async,0.0.1,0,0,https://github.com/thives/arq-io-async.rs,Asynchronous implementation of ARQ in Rust.
+2026-09-27T14:02:47.976849Z,syntrop-runtimed-gguf,0.4.0,0,0,https://github.com/syntropd/runtimed,"Zero-ML-dependency GGUF parser, dequantizer, and weight registry for syntrop-runtimed"
+2026-09-27T14:03:49.812963Z,fanta-gpui-file-icons,0.5.0,0,0,https://github.com/squidred-dev/fanta-ui,Zed baseline file icon lookup for GPUI.
+2026-09-27T14:04:21.553806Z,syntrop-runtimed-model,0.4.0,0,0,https://github.com/syntropd/runtimed,"Owned LLM forward pass: arch configs, candle-backed weights, generate loop"
+2026-09-27T14:07:08.306146Z,csm-duckdb,0.3.8,0,0,https://github.com/d-o-hub/chaotic_semantic_memory,"Optional analytics, Parquet export, and SQL inspection for chaotic_semantic_memory"
+2026-09-27T14:07:46.476768Z,naidempotency-pgsql,2.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,"PostgreSQL idempotency store with named ambient transactions, lease fencing, and durable replay"
+2026-09-27T14:07:56.683664Z,nainbox-pgsql,2.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,PostgreSQL Inbox backend with named ambient transactions and target-key deduplication
+2026-09-27T14:08:25.762018Z,namapper-pgsql,2.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,"Declarative PostgreSQL mapper with ambient transactions, atomic SQL metrics, and bounded threshold notifications"
+2026-09-27T14:08:40.386273Z,naoutbox-pgsql,2.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,"PostgreSQL transactional Outbox with fenced dispatch ownership, SKIP LOCKED polling, quotas, lanes, and retention"
+2026-09-27T14:09:16.243115Z,nasaga-pgsql,2.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,"Durable named-datasource PostgreSQL store for NASA Saga state, fencing, audit, quotas and recovery"
+2026-09-27T14:09:50.529442Z,community-databricks-sdk-sandbox,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `sandbox` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T14:14:35.434198Z,fanta-gpui-ui,0.5.0,0,0,https://github.com/squidred-dev/fanta-ui,Zed baseline UI components for GPUI.
+2026-09-27T14:15:32.304016Z,nasaga-runtime-core,2.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,Backend-neutral NASA Saga state machine and shared runtime state
+2026-09-27T14:19:50.563378Z,community-databricks-sdk-serving,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `serving` API models and services (community-maintained, generated; use via community-databricks-sdk)"
