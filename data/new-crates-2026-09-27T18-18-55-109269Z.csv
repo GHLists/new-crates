@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T17:19:24.342629Z,urtorrent-tracker,0.14.2,0,0,https://github.com/giejqf/urtorrent,"Sans-IO HTTP/UDP tracker announce and scrape builders, parsers and tier/backoff state machine for urtorrent"
+2026-09-27T17:21:55.464578Z,nash-fmt,0.2.0,0,0,https://github.com/nash-script/compiler,Source formatter for Nash
+2026-09-27T17:22:19.908952Z,nash-docs,0.2.0,0,0,https://github.com/nash-script/compiler,Documentation extraction and rendering for Nash
+2026-09-27T17:24:47.708706Z,fasterhenry,0.1.0,0,0,https://github.com/2AMLogic/fasterhenry,"Clean-room PEEC inductance/resistance extraction for 3-D conductor geometries — FastHenry's problem class, none of its code"
+2026-09-27T17:25:07.9664Z,fasterhenry-cli,0.1.0,0,0,https://github.com/2AMLogic/fasterhenry,"Command-line front end for fasterhenry: FastHenry-format .inp decks (public format) and JSON in, JSON out"
+2026-09-27T17:29:24.584915Z,urtorrent-wire,0.14.2,0,0,https://github.com/giejqf/urtorrent,"Sans-IO BitTorrent peer-wire codec and per-connection state machine (BEP 3, 6, 10) for urtorrent"
+2026-09-27T17:33:42.840804Z,plene-core,0.1.0,0,0,https://github.com/excelano/plene,"Parses Rust source into per-line spans with each abbreviation and symbol token expanded into words, keyed by syntactic role"
+2026-09-27T17:33:50.634012Z,plene,0.1.0,0,0,https://github.com/excelano/plene,Shows Rust source alongside an expanded transcription: the same code with abbreviations and symbols written out in words
+2026-09-27T17:39:25.479908Z,urtorrent-session,0.14.2,0,0,https://github.com/giejqf/urtorrent,"The urtorrent engine: wires tracker, wire, picker, storage and uring together behind a tokio-native API"
+2026-09-27T17:39:44.416727Z,torvyon-core,0.1.0,0,0,https://gitlab.com/JAFF7/torvyon-sdk,"Keys, addresses, signing and transaction building for the Torvyon blockchain"
+2026-09-27T17:46:49.958597Z,heif-dl,0.1.0,0,0,https://github.com/sqzer-dev/sqzer,"libheif loaded at runtime through libloading, for sqzer's `native-heif` feature. Not a public API."
+2026-09-27T17:46:50.707837Z,heif-imageio,0.1.0,0,0,https://github.com/sqzer-dev/sqzer,"HEIC decoding through macOS ImageIO, for sqzer's `native-heif` feature. Not a public API. Empty on every other OS."
+2026-09-27T17:46:51.016296Z,heif-wic,0.1.0,0,0,https://github.com/sqzer-dev/sqzer,"HEIC decoding through the Windows Imaging Component, for sqzer's `native-heif` feature. Not a public API. Empty on every other OS."
+2026-09-27T17:46:56.325375Z,sqzer-codecs-agpl,0.1.0,0,0,https://github.com/sqzer-dev/sqzer,AGPL-licensed codec backends for sqzer (zen* family). Never a default dependency; opt in explicitly.
+2026-09-27T17:46:59.624213Z,sqzer-native-tier,0.1.0,0,0,https://github.com/sqzer-dev/sqzer,"The native tier of sqzer as its release binaries carry it, selected per target. Not public API."
+2026-09-27T17:47:26.683377Z,yoke-proto,0.1.0,0,0,https://github.com/yoke-project/yoke,"The protocol definitions of Yoke, generated for Rust"
+2026-09-27T17:49:26.574848Z,urtorrent,0.14.2,0,0,https://github.com/giejqf/urtorrent,A BitTorrent library for Linux on io_uring: downloading and seeding with IPv4/IPv6 and qBittorrent-compatible wire behaviour
+2026-09-27T17:54:37.905658Z,argui-media,0.4.0,0,0,https://github.com/ExtraBinoss/argui,Optional raster and SVG decoding with stable media asset identities for Argui
+2026-09-27T17:55:56.592571Z,argui-schema,0.4.0,0,0,https://github.com/ExtraBinoss/argui,Canonical declarative native schema and adapters for Argui
+2026-09-27T17:55:58.80304Z,argui-host,0.4.0,0,0,https://github.com/ExtraBinoss/argui,Transactional native tree host shared by JavaScript framework adapters
+2026-09-27T17:57:08.574305Z,argui-automation,0.4.0,0,0,https://github.com/ExtraBinoss/argui,Windowless Argui interaction driver and desktop process metrics
+2026-09-27T17:57:11.71536Z,argui-cli,0.4.0,0,0,https://github.com/ExtraBinoss/argui,Command line tools for native and browser Argui TSX applications
+2026-09-27T18:10:26.855991Z,weftgraph-sdk,0.1.0,0,0,https://github.com/vasylcf/gears-rust,"SDK for the graph-storage gear: client trait, transport-agnostic models, plugin contracts, GTS constants"
+2026-09-27T18:10:29.402438Z,weftgraph-onnx-embedding-plugin,0.1.0,0,0,https://github.com/vasylcf/gears-rust,In-process ONNX embedding provider for the graph-storage gear: the default of ADR-0004
+2026-09-27T18:10:30.092728Z,weftgraph-remote-embedding-plugin,0.1.0,0,0,https://github.com/vasylcf/gears-rust,"Remote embedding provider for the graph-storage gear: the alternative plugin of ADR-0004, over the OpenAI-compatible /embeddings protocol"
+2026-09-27T18:10:32.602088Z,weftgraph,0.1.0,0,0,https://github.com/vasylcf/gears-rust,"Graph Storage gear: typed, multi-tenant knowledge graph with search and traversal over a pluggable store"

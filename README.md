@@ -8,54 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 17:18 UTC
+## Latest list — 2026-09-27 18:18 UTC
 
-New crates published between 2026-09-27 16:19 UTC and 2026-09-27 17:18 UTC.
+New crates published between 2026-09-27 17:18 UTC and 2026-09-27 18:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-27T17-18-58-25524Z.csv)
+[Full CSV](data/new-crates-2026-09-27T18-18-55-109269Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-27 16:25:55 | [toolctl](https://crates.io/crates/toolctl) | 0.3.0 | 0 | Command-line control interface for syntrop-toold |
-| 2026-09-27 16:27:06 | [cargo-checkup](https://crates.io/crates/cargo-checkup) | 1.0.0 | 0 | Unified cargo health check: unused deps, outdated, duplicates, advisories, hygi… |
-| 2026-09-27 16:27:58 | [tauri-kit-fs](https://crates.io/crates/tauri-kit-fs) | 0.2.0 | 0 | Crash-safe file writes for desktop apps: write, sync, then rename into place. |
-| 2026-09-27 16:28:03 | [tauri-kit-credentials](https://crates.io/crates/tauri-kit-credentials) | 0.2.0 | 0 | Secrets in the OS credential store, with test and development builds kept off t… |
-| 2026-09-27 16:28:06 | [tauri-kit-sidecar](https://crates.io/crates/tauri-kit-sidecar) | 0.2.0 | 0 | Run a bundled helper process for a desktop app: no console window, no orphans,… |
-| 2026-09-27 16:29:09 | [reinspiring](https://crates.io/crates/reinspiring) | 0.1.2 | 0 | ReinspiRING: coefficient-domain compilation of InspiRING.Pack (eprint 2026/1934… |
-| 2026-09-27 16:29:18 | [urtorrent-bencode](https://crates.io/crates/urtorrent-bencode) | 0.14.2 | 0 | Zero-copy bencode decoding and canonical encoding for urtorrent, preserving raw… |
-| 2026-09-27 16:29:21 | [urtorrent-profile](https://crates.io/crates/urtorrent-profile) | 0.14.2 | 0 | Identity and wire-shape profiles (native and qBittorrent conformance) for urtor… |
-| 2026-09-27 16:29:25 | [urtorrent-uring](https://crates.io/crates/urtorrent-uring) | 0.14.2 | 0 | io_uring reactor, buffer pools, timers and TCP/UDP/file operations for urtorren… |
-| 2026-09-27 16:29:29 | [urtorrent-metainfo](https://crates.io/crates/urtorrent-metainfo) | 0.14.2 | 0 | Torrent metainfo and magnet parsing, file tree and piece/file span mapping for… |
-| 2026-09-27 16:29:32 | [urtorrent-utp](https://crates.io/crates/urtorrent-utp) | 0.14.2 | 0 | Sans-IO uTP (BEP 29, LEDBAT) transport state machine for urtorrent |
-| 2026-09-27 16:30:00 | [touchstone-core](https://crates.io/crates/touchstone-core) | 0.1.0 | 0 | Core types and verdict rules for the touchstone personal AGI conformance spec |
-| 2026-09-27 16:30:08 | [touchstone-harness](https://crates.io/crates/touchstone-harness) | 0.1.0 | 0 | Conformance battery runner: adapter trait, exec protocol, scoring |
-| 2026-09-27 16:30:18 | [touchstone-identity](https://crates.io/crates/touchstone-identity) | 0.1.0 | 0 | Device-bound attestation signing: Secure Enclave (macOS) + Ed25519 fallback |
-| 2026-09-27 16:30:22 | [touchstone-cli](https://crates.io/crates/touchstone-cli) | 0.1.0 | 0 | The touchstone binary: run the conformance battery, sign and verify attestations |
-| 2026-09-27 16:35:18 | [refinr](https://crates.io/crates/refinr) | 0.0.1 | 0 | Optimize content for AI - Fetch, sanitize, and map content to make it more usef… |
-| 2026-09-27 16:35:38 | [kronecker-fri](https://crates.io/crates/kronecker-fri) | 0.4.0 | 0 | Kronecker-FRI: a hash-based multilinear polynomial commitment from a coefficien… |
-| 2026-09-27 16:36:15 | [clia_tree_arena](https://crates.io/crates/clia_tree_arena) | 0.2.0 | 0 | An arena allocated tree. |
-| 2026-09-27 16:36:57 | [clia_masonry_core](https://crates.io/crates/clia_masonry_core) | 0.4.0 | 0 | Traits and types of the Masonry toolkit. |
-| 2026-09-27 16:37:25 | [muxio-sync-rpc-server](https://crates.io/crates/muxio-sync-rpc-server) | 0.17.0-alpha | 0 | A sync (no async runtime) Muxio RPC server over blocking byte halves. |
-| 2026-09-27 16:37:29 | [muxio-sync-rpc-client](https://crates.io/crates/muxio-sync-rpc-client) | 0.17.0-alpha | 0 | A sync (no async runtime) Muxio RPC client over blocking byte halves. |
-| 2026-09-27 16:37:58 | [clia_masonry_winit](https://crates.io/crates/clia_masonry_winit) | 0.4.0 | 0 | Data-oriented Rust UI design toolkit. |
-| 2026-09-27 16:39:24 | [urtorrent-dht](https://crates.io/crates/urtorrent-dht) | 0.14.2 | 0 | Mainline DHT (BEP 5, 42, 43, 51) node as a sans-IO state machine for urtorrent |
-| 2026-09-27 16:41:53 | [clia_linebender_include_doc_path](https://crates.io/crates/clia_linebender_include_doc_path) | 0.1.0 | 0 | Helper macro for linking to files in docs.rs. |
-| 2026-09-27 16:42:52 | [clia_masonry](https://crates.io/crates/clia_masonry) | 0.4.0 | 0 | Traits and types of the Masonry toolkit. |
-| 2026-09-27 16:48:05 | [compio-pool](https://crates.io/crates/compio-pool) | 0.0.1 | 0 | A thread-per-core connection pool for the compio runtime |
-| 2026-09-27 16:49:26 | [urtorrent-mse](https://crates.io/crates/urtorrent-mse) | 0.14.2 | 0 | Sans-IO Message Stream Encryption (MSE/PE) handshake and RC4 stream for urtorre… |
-| 2026-09-27 16:51:15 | [thaler](https://crates.io/crates/thaler) | 0.1.0 | 0 | The Thaler API: financial data from SEC filings, with the source filing for eve… |
-| 2026-09-27 16:51:28 | [cli-desktop](https://crates.io/crates/cli-desktop) | 0.11.0 | 0 | A text-based desktop (ASCII wallpaper, icons, taskbar, trash) using tmux as the… |
-| 2026-09-27 16:55:42 | [ratatui-widgettable](https://crates.io/crates/ratatui-widgettable) | 0.1.0 | 0 | A Ratatui table widget whose cells can contain any widget (Paragraph, Block, Ga… |
-| 2026-09-27 16:56:13 | [oxpdf](https://crates.io/crates/oxpdf) | 0.2.0 | 0 | Next-generation, pure-Rust streaming PDF engine: memory-bounded, zero-copy, SIM… |
-| 2026-09-27 16:58:03 | [retiretui_tui](https://crates.io/crates/retiretui_tui) | 0.2.0 | 0 | The RetireTui planner's interface: a plurimus app over a projected retirement p… |
-| 2026-09-27 16:59:24 | [urtorrent-picker](https://crates.io/crates/urtorrent-picker) | 0.14.2 | 0 | Piece picker and block request scheduling (rarest-first, priorities, sequential… |
-| 2026-09-27 16:59:54 | [edge_gate](https://crates.io/crates/edge_gate) | 0.1.0 | 0 | Local LLM edge gateway: dedup, blind, filter, meter, audit |
-| 2026-09-27 17:05:23 | [kornia-sensors](https://crates.io/crates/kornia-sensors) | 0.1.0 | 0 | Physical sensor processing for kornia: IMU preintegration, noise models, and ca… |
-| 2026-09-27 17:07:03 | [kornia-slam](https://crates.io/crates/kornia-slam) | 0.1.0 | 0 | Real-time visual-inertial SLAM in Rust, built on kornia-rs. |
-| 2026-09-27 17:07:06 | [gitplume](https://crates.io/crates/gitplume) | 0.1.1 | 0 | A fast terminal app for reviewing and staging your Git changes |
-| 2026-09-27 17:09:13 | [rig-http](https://crates.io/crates/rig-http) | 0.0.0 | 0 | Placeholder crate reserved for an upcoming project. |
-| 2026-09-27 17:09:22 | [urtorrent-storage](https://crates.io/crates/urtorrent-storage) | 0.14.2 | 0 | Disk layout, preallocation, hashing pipeline and crash-safe resume data for urt… |
-| 2026-09-27 17:17:08 | [respawned](https://crates.io/crates/respawned) | 0.3.0 | 0 | Versioned respawn: content-addressed snapshots, atomic revert, drift detection,… |
+| 2026-09-27 17:19:24 | [urtorrent-tracker](https://crates.io/crates/urtorrent-tracker) | 0.14.2 | 0 | Sans-IO HTTP/UDP tracker announce and scrape builders, parsers and tier/backoff… |
+| 2026-09-27 17:21:55 | [nash-fmt](https://crates.io/crates/nash-fmt) | 0.2.0 | 0 | Source formatter for Nash |
+| 2026-09-27 17:22:19 | [nash-docs](https://crates.io/crates/nash-docs) | 0.2.0 | 0 | Documentation extraction and rendering for Nash |
+| 2026-09-27 17:24:47 | [fasterhenry](https://crates.io/crates/fasterhenry) | 0.1.0 | 0 | Clean-room PEEC inductance/resistance extraction for 3-D conductor geometries —… |
+| 2026-09-27 17:25:07 | [fasterhenry-cli](https://crates.io/crates/fasterhenry-cli) | 0.1.0 | 0 | Command-line front end for fasterhenry: FastHenry-format .inp decks (public for… |
+| 2026-09-27 17:29:24 | [urtorrent-wire](https://crates.io/crates/urtorrent-wire) | 0.14.2 | 0 | Sans-IO BitTorrent peer-wire codec and per-connection state machine (BEP 3, 6,… |
+| 2026-09-27 17:33:42 | [plene-core](https://crates.io/crates/plene-core) | 0.1.0 | 0 | Parses Rust source into per-line spans with each abbreviation and symbol token… |
+| 2026-09-27 17:33:50 | [plene](https://crates.io/crates/plene) | 0.1.0 | 0 | Shows Rust source alongside an expanded transcription: the same code with abbre… |
+| 2026-09-27 17:39:25 | [urtorrent-session](https://crates.io/crates/urtorrent-session) | 0.14.2 | 0 | The urtorrent engine: wires tracker, wire, picker, storage and uring together b… |
+| 2026-09-27 17:39:44 | [torvyon-core](https://crates.io/crates/torvyon-core) | 0.1.0 | 0 | Keys, addresses, signing and transaction building for the Torvyon blockchain |
+| 2026-09-27 17:46:49 | [heif-dl](https://crates.io/crates/heif-dl) | 0.1.0 | 0 | libheif loaded at runtime through libloading, for sqzer's `native-heif` feature… |
+| 2026-09-27 17:46:50 | [heif-imageio](https://crates.io/crates/heif-imageio) | 0.1.0 | 0 | HEIC decoding through macOS ImageIO, for sqzer's `native-heif` feature. Not a p… |
+| 2026-09-27 17:46:51 | [heif-wic](https://crates.io/crates/heif-wic) | 0.1.0 | 0 | HEIC decoding through the Windows Imaging Component, for sqzer's `native-heif`… |
+| 2026-09-27 17:46:56 | [sqzer-codecs-agpl](https://crates.io/crates/sqzer-codecs-agpl) | 0.1.0 | 0 | AGPL-licensed codec backends for sqzer (zen* family). Never a default dependenc… |
+| 2026-09-27 17:46:59 | [sqzer-native-tier](https://crates.io/crates/sqzer-native-tier) | 0.1.0 | 0 | The native tier of sqzer as its release binaries carry it, selected per target.… |
+| 2026-09-27 17:47:26 | [yoke-proto](https://crates.io/crates/yoke-proto) | 0.1.0 | 0 | The protocol definitions of Yoke, generated for Rust |
+| 2026-09-27 17:49:26 | [urtorrent](https://crates.io/crates/urtorrent) | 0.14.2 | 0 | A BitTorrent library for Linux on io_uring: downloading and seeding with IPv4/I… |
+| 2026-09-27 17:54:37 | [argui-media](https://crates.io/crates/argui-media) | 0.4.0 | 0 | Optional raster and SVG decoding with stable media asset identities for Argui |
+| 2026-09-27 17:55:56 | [argui-schema](https://crates.io/crates/argui-schema) | 0.4.0 | 0 | Canonical declarative native schema and adapters for Argui |
+| 2026-09-27 17:55:58 | [argui-host](https://crates.io/crates/argui-host) | 0.4.0 | 0 | Transactional native tree host shared by JavaScript framework adapters |
+| 2026-09-27 17:57:08 | [argui-automation](https://crates.io/crates/argui-automation) | 0.4.0 | 0 | Windowless Argui interaction driver and desktop process metrics |
+| 2026-09-27 17:57:11 | [argui-cli](https://crates.io/crates/argui-cli) | 0.4.0 | 0 | Command line tools for native and browser Argui TSX applications |
+| 2026-09-27 18:10:26 | [weftgraph-sdk](https://crates.io/crates/weftgraph-sdk) | 0.1.0 | 0 | SDK for the graph-storage gear: client trait, transport-agnostic models, plugin… |
+| 2026-09-27 18:10:29 | [weftgraph-onnx-embedding-plugin](https://crates.io/crates/weftgraph-onnx-embedding-plugin) | 0.1.0 | 0 | In-process ONNX embedding provider for the graph-storage gear: the default of A… |
+| 2026-09-27 18:10:30 | [weftgraph-remote-embedding-plugin](https://crates.io/crates/weftgraph-remote-embedding-plugin) | 0.1.0 | 0 | Remote embedding provider for the graph-storage gear: the alternative plugin of… |
+| 2026-09-27 18:10:32 | [weftgraph](https://crates.io/crates/weftgraph) | 0.1.0 | 0 | Graph Storage gear: typed, multi-tenant knowledge graph with search and travers… |
 
 ## Data source
 
