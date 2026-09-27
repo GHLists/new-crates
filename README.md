@@ -8,34 +8,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 05:19 UTC
+## Latest list — 2026-09-27 06:19 UTC
 
-New crates published between 2026-09-27 04:19 UTC and 2026-09-27 05:19 UTC.
+New crates published between 2026-09-27 05:19 UTC and 2026-09-27 06:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-27T05-19-40-548904Z.csv)
+[Full CSV](data/new-crates-2026-09-27T06-19-17-679922Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-27 04:21:15 | [docxtpl-compat](https://crates.io/crates/docxtpl-compat) | 1.0.0 | 0 | Compatibility layer for upstream docxtpl 0.20.2: line-by-line port of the patch… |
-| 2026-09-27 04:21:25 | [velme-check](https://crates.io/crates/velme-check) | 0.0.0 | 0 | Reserved for the Velme programming language (https://github.com/velme-lang/velm… |
-| 2026-09-27 04:21:33 | [docxtpl-opc](https://crates.io/crates/docxtpl-opc) | 1.0.0 | 0 | OOXML/OPC package reader/writer: ZIP, parts, Content Types, relationships, and… |
-| 2026-09-27 04:21:43 | [docxtpl-rich](https://crates.io/crates/docxtpl-rich) | 1.0.0 | 0 | Rich content value types: RichText/RichTextParagraph/Listing/InlineImage and im… |
-| 2026-09-27 04:21:53 | [docxtpl-xml](https://crates.io/crates/docxtpl-xml) | 1.0.0 | 0 | Editable XML fragment layer: lenient (recovery) parsing, tree model, preserving… |
-| 2026-09-27 04:22:32 | [docxtpl-template](https://crates.io/crates/docxtpl-template) | 1.0.0 | 0 | Template rendering pipeline: patch_xml → MiniJinja rendering → resolve_listing… |
-| 2026-09-27 04:29:28 | [graphfusion](https://crates.io/crates/graphfusion) | 0.1.1 | 0 | GraphFusion graph database. |
-| 2026-09-27 04:31:38 | [velme-interp](https://crates.io/crates/velme-interp) | 0.0.0 | 0 | Reserved for the Velme programming language (https://github.com/velme-lang/velm… |
-| 2026-09-27 04:31:40 | [docxtpl-rs](https://crates.io/crates/docxtpl-rs) | 1.0.0 | 0 | Independent Rust DOCX template renderer compatible with Python docxtpl 0.20.2 |
-| 2026-09-27 04:35:02 | [tree-space](https://crates.io/crates/tree-space) | 0.1.0 | 0 | A dockable, keyboard-first file manager panel for Wayland/Hyprland |
-| 2026-09-27 04:37:28 | [zelynic](https://crates.io/crates/zelynic) | 11.0.0-beta.3 | 0 | Per-app network rate limiter and traffic monitor for Linux. Pure eBPF. Boring a… |
-| 2026-09-27 04:41:41 | [docxtpl-cli](https://crates.io/crates/docxtpl-cli) | 1.0.0 | 0 | Command-line interface for the independent docxtpl-rs renderer |
-| 2026-09-27 04:41:52 | [velme-synth](https://crates.io/crates/velme-synth) | 0.0.0 | 0 | Reserved for the Velme programming language (https://github.com/velme-lang/velm… |
-| 2026-09-27 04:41:57 | [plurimus_web](https://crates.io/crates/plurimus_web) | 0.7.2 | 0 | Browser integration for plurimus: a WebGL2 terminal canvas, browser input, and… |
-| 2026-09-27 04:46:00 | [hyprstate](https://crates.io/crates/hyprstate) | 0.1.0 | 0 | Save and restore your Hyprland desktop: snapshots, diffs and idempotent restore… |
-| 2026-09-27 04:52:06 | [velme-wasm](https://crates.io/crates/velme-wasm) | 0.0.0 | 0 | Reserved for the Velme programming language (https://github.com/velme-lang/velm… |
-| 2026-09-27 04:54:08 | [dl-cloudflare-quick-tunnel](https://crates.io/crates/dl-cloudflare-quick-tunnel) | 0.3.1 | 0 | Pure-Rust client for Cloudflare quick tunnels (https://*.trycloudflare.com) — n… |
-| 2026-09-27 04:57:37 | [card-rs](https://crates.io/crates/card-rs) | 0.1.0 | 0 | 🃏 A highly customizable card component for WASM frameworks like Yew, Dioxus, an… |
-| 2026-09-27 04:58:57 | [chathound](https://crates.io/crates/chathound) | 0.3.0 | 0 | Polite, exhaustive tap of Kalshi live-market chat: adaptive polling that hears… |
-| 2026-09-27 05:02:22 | [velme-test-support](https://crates.io/crates/velme-test-support) | 0.0.0 | 0 | Reserved for the Velme programming language (https://github.com/velme-lang/velm… |
+| 2026-09-27 05:24:23 | [jevkit-cli](https://crates.io/crates/jevkit-cli) | 0.4.1 | 0 | Fast Rust CLI for TypeSafe Jev: typed decisions, offline linting |
+| 2026-09-27 05:28:57 | [bonesremote](https://crates.io/crates/bonesremote) | 0.9.0 | 0 | Deployments with a Spine in a Barebones Framework |
+| 2026-09-27 05:34:50 | [quotop](https://crates.io/crates/quotop) | 0.1.0 | 0 | A terminal dashboard for the balances, credits and quotas of your API services… |
+| 2026-09-27 05:39:11 | [qopple](https://crates.io/crates/qopple) | 0.24.0 | 0 | Programmatic QBE IL builder for Rust: construct QBE IR, then emit assembly, obj… |
+| 2026-09-27 05:39:18 | [qopple-cli](https://crates.io/crates/qopple-cli) | 0.24.0 | 0 | Run the qbe.mbt QBE compiler executable from Rust: a pure-Rust subprocess wrapp… |
+| 2026-09-27 05:45:34 | [um982](https://crates.io/crates/um982) | 0.1.0 | 0 | no_std driver core for the Unicore UM982 dual-antenna RTK GNSS receiver (Unicor… |
+| 2026-09-27 05:46:07 | [vicon-sdk](https://crates.io/crates/vicon-sdk) | 0.1.0 | 0 | Rust bindings for the Vicon DataStream SDK |
+| 2026-09-27 05:46:09 | [cybflight-msgs](https://crates.io/crates/cybflight-msgs) | 0.2.0 | 0 | no_std wire protocol and embedded messages for Cybflight |
+| 2026-09-27 05:56:18 | [quion-proto](https://crates.io/crates/quion-proto) | 0.1.0 | 0 | Sans-IO QUIC protocol core for quion. |
+| 2026-09-27 05:56:19 | [quion-udp](https://crates.io/crates/quion-udp) | 0.1.0 | 0 | UDP socket support for quion. |
+| 2026-09-27 06:04:40 | [haste-subscription](https://crates.io/crates/haste-subscription) | 0.23.1 | 0 | The single source of truth for what each subscription tier allows. |
+| 2026-09-27 06:16:40 | [sweepers](https://crates.io/crates/sweepers) | 0.0.0 | 0 | Forthcoming master's research |
+| 2026-09-27 06:18:43 | [ticon](https://crates.io/crates/ticon) | 0.3.1 | 0 | Ikon minimalis dan flat untuk terminal, plus pustaka pemetaannya |
 
 ## Data source
 

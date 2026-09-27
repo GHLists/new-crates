@@ -1,0 +1,14 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T05:24:23.078755Z,jevkit-cli,0.4.1,0,0,https://github.com/ariel-frischer/jevkit,"Fast Rust CLI for TypeSafe Jev: typed decisions, offline linting"
+2026-09-27T05:28:57.274905Z,bonesremote,0.9.0,0,0,https://github.com/AlextheYounga/bonesdeploy,Deployments with a Spine in a Barebones Framework
+2026-09-27T05:34:50.30755Z,quotop,0.1.0,0,0,https://github.com/SyscallBrain/quotop,"A terminal dashboard for the balances, credits and quotas of your API services (OpenRouter, Claude, Tavily, ElevenLabs and 22 more)"
+2026-09-27T05:39:11.884808Z,qopple,0.24.0,0,0,https://github.com/azhzx/qbe.mbt,"Programmatic QBE IL builder for Rust: construct QBE IR, then emit assembly, objects or JIT code through the qbe.mbt C ABI"
+2026-09-27T05:39:18.472226Z,qopple-cli,0.24.0,0,0,https://github.com/azhzx/qbe.mbt,Run the qbe.mbt QBE compiler executable from Rust: a pure-Rust subprocess wrapper with no native linking
+2026-09-27T05:45:34.171995Z,um982,0.1.0,0,0,https://github.com/cybird-robotics/um982,no_std driver core for the Unicore UM982 dual-antenna RTK GNSS receiver (Unicore/NovAtel-OEM7 binary protocol: BESTNAV + UNIHEADING)
+2026-09-27T05:46:07.284873Z,vicon-sdk,0.1.0,0,0,https://github.com/cybird-robotics/vicon-sdk,Rust bindings for the Vicon DataStream SDK
+2026-09-27T05:46:09.294616Z,cybflight-msgs,0.2.0,0,0,https://github.com/cybird-robotics/cybflight-msgs,no_std wire protocol and embedded messages for Cybflight
+2026-09-27T05:56:18.359796Z,quion-proto,0.1.0,0,0,https://github.com/foctal/quion,Sans-IO QUIC protocol core for quion.
+2026-09-27T05:56:19.64893Z,quion-udp,0.1.0,0,0,https://github.com/foctal/quion,UDP socket support for quion.
+2026-09-27T06:04:40.520963Z,haste-subscription,0.23.1,0,0,,The single source of truth for what each subscription tier allows.
+2026-09-27T06:16:40.967201Z,sweepers,0.0.0,0,0,,Forthcoming master's research
+2026-09-27T06:18:43.705338Z,ticon,0.3.1,0,0,https://github.com/startupmini/Ticon,"Ikon minimalis dan flat untuk terminal, plus pustaka pemetaannya"
