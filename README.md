@@ -8,35 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 19:21 UTC
+## Latest list — 2026-09-27 20:19 UTC
 
-New crates published between 2026-09-27 18:18 UTC and 2026-09-27 19:21 UTC.
+New crates published between 2026-09-27 19:21 UTC and 2026-09-27 20:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-27T19-21-29-022185Z.csv)
+[Full CSV](data/new-crates-2026-09-27T20-19-41-781747Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-27 18:29:48 | [stackup-eda-parser](https://crates.io/crates/stackup-eda-parser) | 0.1.0 | 0 | Reads and writes stackup's KDL design format |
-| 2026-09-27 18:30:21 | [vysx_std](https://crates.io/crates/vysx_std) | 0.1.0 | 0 | vysx standard library, a set of utilities that default rust std does not have. |
-| 2026-09-27 18:30:25 | [stackup-eda](https://crates.io/crates/stackup-eda) | 0.1.1 | 0 | Elaborates a stackup design and writes what a PCB tool imports |
-| 2026-09-27 18:41:30 | [tollgate-core](https://crates.io/crates/tollgate-core) | 0.30.1 | 0 | Zero-I/O, clock-free domain layer for quota admission and accounting: cost tabl… |
-| 2026-09-27 18:41:35 | [tollgate-auth](https://crates.io/crates/tollgate-auth) | 0.30.1 | 0 | Credential verification for latency-critical services: digests at rest, and a s… |
-| 2026-09-27 18:41:44 | [tollgate-store](https://crates.io/crates/tollgate-store) | 0.30.1 | 0 | Storage abstraction for tollgate: LeaseAllocator, SnapshotSource, and UsageSink… |
-| 2026-09-27 18:41:54 | [tollgate-admission](https://crates.io/crates/tollgate-admission) | 0.30.1 | 0 | Per-request admission pipeline: snapshot lookup, permission and staleness check… |
-| 2026-09-27 18:42:23 | [tollgate-store-postgres](https://crates.io/crates/tollgate-store-postgres) | 0.30.1 | 0 | PostgreSQL backend for tollgate: transactional fenced lease allocation, idempot… |
-| 2026-09-27 18:44:58 | [tollgate-client](https://crates.io/crates/tollgate-client) | 0.30.1 | 0 | Instance-side quota runtime: background lease refill into the admission layer's… |
-| 2026-09-27 18:46:51 | [cs2-api](https://crates.io/crates/cs2-api) | 1.0.0 | 0 | CS2 API client for Rust: Counter-Strike 2 live scores, match results, player st… |
-| 2026-09-27 18:51:14 | [gorilla-rust](https://crates.io/crates/gorilla-rust) | 1.4.2 | 0 | A pixel-faithful Rust port of the 1990 QBasic GORILLAS, measured against the or… |
-| 2026-09-27 18:55:51 | [tollgate-server](https://crates.io/crates/tollgate-server) | 0.30.1 | 0 | Control-plane HTTP service: fenced lease allocation, snapshot distribution, ide… |
-| 2026-09-27 19:00:08 | [links_and_nodes_rdb](https://crates.io/crates/links_and_nodes_rdb) | 0.7.0 | 0 | Read Links and Nodes lnrecorder databases (lnrdb) in pure Rust. |
-| 2026-09-27 19:00:32 | [cexy](https://crates.io/crates/cexy) | 0.1.0-dev.1 | 0 | Official Rust SDK for the CEXY.io exchange API (REST + WebSocket) |
-| 2026-09-27 19:02:06 | [veloci](https://crates.io/crates/veloci) | 0.1.1 | 0 | Veloci Redactor: redact secrets and PII from text and structured files, with st… |
-| 2026-09-27 19:06:24 | [fontsrc](https://crates.io/crates/fontsrc) | 0.0.0 | 0 | Read and write authored font sources (UFO, Designspace, Glyphs) in Rust and Typ… |
-| 2026-09-27 19:06:29 | [orx-col-dim](https://crates.io/crates/orx-col-dim) | 0.1.0 | 0 | Dimension trait and implementations for multi-dimensional collections |
-| 2026-09-27 19:07:32 | [kbfold](https://crates.io/crates/kbfold) | 0.2.0 | 0 | KBFold: a multilinear polynomial commitment from the Boolean-kernel basis, with… |
-| 2026-09-27 19:08:10 | [riverqueue-pro](https://crates.io/crates/riverqueue-pro) | 0.0.0 | 0 | River Pro for Rust — placeholder for the forthcoming implementation. |
-| 2026-09-27 19:11:54 | [JoystickHackx](https://crates.io/crates/JoystickHackx) | 0.1.0 | 0 | Joystick driver for hackxpansion! |
-| 2026-09-27 19:18:44 | [mistralai-sdk](https://crates.io/crates/mistralai-sdk) | 0.4.0 | 0 | Unofficial Mistral AI SDK reproducibly generated from the official OpenAPI spec… |
+| 2026-09-27 19:29:39 | [alembic-adapter-sdk](https://crates.io/crates/alembic-adapter-sdk) | 0.10.0 | 0 | SDK for developing external alembic adapters. |
+| 2026-09-27 19:43:06 | [interject](https://crates.io/crates/interject) | 0.1.0 | 0 | A durable ask() primitive: stop a program, ask a human, resume. |
+| 2026-09-27 19:44:03 | [openbim-mmc](https://crates.io/crates/openbim-mmc) | 0.1.0 | 0 | Pure-Rust MMC 2.0 archive reading, validation, extraction, and writing. |
+| 2026-09-27 19:44:14 | [openbim-mvd](https://crates.io/crates/openbim-mvd) | 0.1.0 | 0 | Pure-Rust buildingSMART mvdXML 1.1 typed model, codec, rules, and validation |
+| 2026-09-27 19:46:38 | [openbim-okstra](https://crates.io/crates/openbim-okstra) | 0.1.0 | 0 | Typed foundations for OKSTRA, the German road and traffic object catalogue: rel… |
+| 2026-09-27 19:48:55 | [fleetix](https://crates.io/crates/fleetix) | 0.1.0 | 0 | Fleet topology library — typed Pkl schema, Rust bindings, Nix modules |
+| 2026-09-27 19:58:33 | [veloci-cli](https://crates.io/crates/veloci-cli) | 0.3.1 | 0 | Command-line interface for Veloci Redactor: redact secrets and PII from text an… |
+| 2026-09-27 20:01:50 | [khive-pack-tool](https://crates.io/crates/khive-pack-tool) | 0.9.0 | 0 | Tool registry pack - discover tools, skills, plugins and verbs; request and gra… |
+| 2026-09-27 20:02:07 | [khive-pack-exec](https://crates.io/crates/khive-pack-exec) | 0.9.0 | 0 | Exec pack - materialize a blob tree into a sandbox, run one registered tool und… |
+| 2026-09-27 20:03:10 | [cant](https://crates.io/crates/cant) | 0.0.0 | 0 | ECS |
+| 2026-09-27 20:04:42 | [khive-pack-telemetry](https://crates.io/crates/khive-pack-telemetry) | 0.9.0 | 0 | Configured telemetry routing and bounded rollups over existing streams |
+| 2026-09-27 20:08:31 | [khive-mounts](https://crates.io/crates/khive-mounts) | 0.9.0 | 0 | Pinned stdio MCP tool sources for the khive verb registry |
+| 2026-09-27 20:09:01 | [khive-pack-web](https://crates.io/crates/khive-pack-web) | 0.9.0 | 0 | Web pack: site/page/resource ontology and fetch/extract/ingest/search/refresh v… |
+| 2026-09-27 20:09:38 | [panschema-model](https://crates.io/crates/panschema-model) | 0.4.0 | 0 | The LinkML schema model panschema reads and writes, with its inheritance resolu… |
+| 2026-09-27 20:10:21 | [declint-core](https://crates.io/crates/declint-core) | 1.0.0 | 0 | Config and regex linting engine for declint: YAML rule files, message templates… |
+| 2026-09-27 20:10:28 | [declint-lua](https://crates.io/crates/declint-lua) | 1.0.0 | 0 | Lua match callbacks for declint: inline snippets and .lua files, compiled and s… |
+| 2026-09-27 20:11:04 | [declint-lsp](https://crates.io/crates/declint-lsp) | 1.0.0 | 0 | LSP server for declint: publishes regex rule violations as diagnostics via incr… |
+| 2026-09-27 20:11:12 | [declint](https://crates.io/crates/declint) | 1.0.0 | 0 | A YAML-configured regex linter and language server: `declint serve` in your edi… |
+| 2026-09-27 20:13:57 | [xenolith-shebang](https://crates.io/crates/xenolith-shebang) | 0.1.0 | 0 | Parse, strip and wrap shebang lines for any guest language, matching nix-shebang |
+| 2026-09-27 20:13:59 | [xenolith-lang-api](https://crates.io/crates/xenolith-lang-api) | 0.1.0 | 0 | The contract every xenolith language crate implements: Host and Guest traits, L… |
+| 2026-09-27 20:14:01 | [xenolith-lang-just](https://crates.io/crates/xenolith-lang-just) | 0.1.0 | 0 | just support for xenolith: recipe bodies holding shell, on a vendored grammar |
+| 2026-09-27 20:14:02 | [xenolith-lang-nix](https://crates.io/crates/xenolith-lang-nix) | 0.1.0 | 0 | Nix support for xenolith: rnix-based host sinks that hold shell |
+| 2026-09-27 20:14:02 | [xenolith-lang-pkl](https://crates.io/crates/xenolith-lang-pkl) | 0.1.0 | 0 | Pkl support for xenolith: hk step sinks holding shell, on the vendored tree-sit… |
+| 2026-09-27 20:16:17 | [llm-watermarking](https://crates.io/crates/llm-watermarking) | 0.1.0 | 0 | Model-independent text watermarking algorithms in Rust |
+| 2026-09-27 20:18:29 | [autoref-special](https://crates.io/crates/autoref-special) | 0.0.0 | 0 | Stable, zero-cost specialization patterns using Rust's autoref method resolutio… |
 
 ## Data source
 

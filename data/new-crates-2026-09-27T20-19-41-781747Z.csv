@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T19:29:39.706057Z,alembic-adapter-sdk,0.10.0,0,0,https://github.com/cyberwitchery/alembic,SDK for developing external alembic adapters.
+2026-09-27T19:43:06.124167Z,interject,0.1.0,0,0,https://github.com/TheJohnMatti/interject,"A durable ask() primitive: stop a program, ask a human, resume."
+2026-09-27T19:44:03.486557Z,openbim-mmc,0.1.0,0,0,https://github.com/openbimrs/mmc,"Pure-Rust MMC 2.0 archive reading, validation, extraction, and writing."
+2026-09-27T19:44:14.302299Z,openbim-mvd,0.1.0,0,0,https://github.com/openbimrs/mvd,"Pure-Rust buildingSMART mvdXML 1.1 typed model, codec, rules, and validation"
+2026-09-27T19:46:38.785824Z,openbim-okstra,0.1.0,0,0,https://github.com/openbimrs/okstra,"Typed foundations for OKSTRA, the German road and traffic object catalogue: release identifiers and schema packages"
+2026-09-27T19:48:55.369675Z,fleetix,0.1.0,0,0,https://github.com/caniko/fleetix,"Fleet topology library — typed Pkl schema, Rust bindings, Nix modules"
+2026-09-27T19:58:33.600303Z,veloci-cli,0.3.1,0,0,https://github.com/phayes/velociredactor,Command-line interface for Veloci Redactor: redact secrets and PII from text and structured files
+2026-09-27T20:01:50.852927Z,khive-pack-tool,0.9.0,0,0,https://github.com/ohdearquant/khive,"Tool registry pack - discover tools, skills, plugins and verbs; request and grant tool-use approval; tooling policy"
+2026-09-27T20:02:07.242642Z,khive-pack-exec,0.9.0,0,0,https://github.com/ohdearquant/khive,"Exec pack - materialize a blob tree into a sandbox, run one registered tool under policy, capture outputs and changed files back to blobs with a receipt"
+2026-09-27T20:03:10.465447Z,cant,0.0.0,0,0,,ECS
+2026-09-27T20:04:42.414967Z,khive-pack-telemetry,0.9.0,0,0,https://github.com/ohdearquant/khive,Configured telemetry routing and bounded rollups over existing streams
+2026-09-27T20:08:31.027006Z,khive-mounts,0.9.0,0,0,https://github.com/ohdearquant/khive,Pinned stdio MCP tool sources for the khive verb registry
+2026-09-27T20:09:01.989716Z,khive-pack-web,0.9.0,0,0,https://github.com/ohdearquant/khive,Web pack: site/page/resource ontology and fetch/extract/ingest/search/refresh verbs (ADR-191)
+2026-09-27T20:09:38.363378Z,panschema-model,0.4.0,0,0,https://github.com/padamson/panschema,"The LinkML schema model panschema reads and writes, with its inheritance resolution and YAML reader"
+2026-09-27T20:10:21.803414Z,declint-core,1.0.0,0,0,https://github.com/thyrgle/declint,"Config and regex linting engine for declint: YAML rule files, message templates, violations. No LSP dependencies."
+2026-09-27T20:10:28.937355Z,declint-lua,1.0.0,0,0,https://github.com/thyrgle/declint,"Lua match callbacks for declint: inline snippets and .lua files, compiled and sandboxed."
+2026-09-27T20:11:04.47959Z,declint-lsp,1.0.0,0,0,https://github.com/thyrgle/declint,LSP server for declint: publishes regex rule violations as diagnostics via increparse-lsp.
+2026-09-27T20:11:12.919621Z,declint,1.0.0,0,0,https://github.com/thyrgle/declint,"A YAML-configured regex linter and language server: `declint serve` in your editor, `declint check` in CI."
+2026-09-27T20:13:57.186499Z,xenolith-shebang,0.1.0,0,0,https://github.com/pr0d1r2/xenolith,"Parse, strip and wrap shebang lines for any guest language, matching nix-shebang"
+2026-09-27T20:13:59.995172Z,xenolith-lang-api,0.1.0,0,0,https://github.com/pr0d1r2/xenolith,"The contract every xenolith language crate implements: Host and Guest traits, LangId, shared types"
+2026-09-27T20:14:01.815734Z,xenolith-lang-just,0.1.0,0,0,https://github.com/pr0d1r2/xenolith,"just support for xenolith: recipe bodies holding shell, on a vendored grammar"
+2026-09-27T20:14:02.325876Z,xenolith-lang-nix,0.1.0,0,0,https://github.com/pr0d1r2/xenolith,Nix support for xenolith: rnix-based host sinks that hold shell
+2026-09-27T20:14:02.988888Z,xenolith-lang-pkl,0.1.0,0,0,https://github.com/pr0d1r2/xenolith,"Pkl support for xenolith: hk step sinks holding shell, on the vendored tree-sitter-pkl grammar"
+2026-09-27T20:16:17.716326Z,llm-watermarking,0.1.0,0,0,https://github.com/iamorlando/llm_watermarking,Model-independent text watermarking algorithms in Rust
+2026-09-27T20:18:29.39376Z,autoref-special,0.0.0,0,0,,"Stable, zero-cost specialization patterns using Rust's autoref method resolution."
