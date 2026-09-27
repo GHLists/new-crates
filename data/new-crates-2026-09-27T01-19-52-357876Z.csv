@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T00:26:46.332668Z,rch-telemetry,2.1.0,0,0,,Telemetry collection for Remote Compilation Helper workers
+2026-09-27T00:27:00.76597Z,rabs-protocol,2.1.0,0,0,https://github.com/Dicklesworthstone/remote_compilation_helper,"Stable RABS domain and wire schemas shared by wrappers, edge, coordinator, workers, gateways, and test harnesses"
+2026-09-27T00:27:20.279689Z,rabs-key,2.1.0,0,0,https://github.com/Dicklesworthstone/remote_compilation_helper,"Canonical RABS action-key construction, discovery recipes, presentation variants, and key explainability"
+2026-09-27T00:30:41.057481Z,ruvector-nervous-system-wasm,0.1.0,0,0,https://github.com/ruvnet/ruvector,WASM bindings for ruvector-nervous-system bio-inspired AI components
+2026-09-27T00:31:04.126212Z,rabs-cas,2.1.0,0,0,https://github.com/Dicklesworthstone/remote_compilation_helper,"Durable RABS content-addressed storage, action-cache indexing, object lifecycle, and publication transactions"
+2026-09-27T00:31:32.377369Z,rch-wkr,2.1.0,0,0,https://github.com/Dicklesworthstone/remote_compilation_helper,Remote Compilation Helper - Worker agent for remote execution
+2026-09-27T00:33:33.643507Z,rchd,2.1.0,0,0,https://github.com/Dicklesworthstone/remote_compilation_helper,Remote Compilation Helper - Local daemon for worker orchestration
+2026-09-27T00:35:01.01728Z,libcaca-rs,0.1.0,0,0,https://github.com/stackmator/libcaca-rs,"Pure-Rust port of libcaca, the Colour ASCII-Art library (no C dependency)"
+2026-09-27T00:41:12.211094Z,atria-physics,0.1.0,0,0,https://github.com/NoNameGMM/Atria,Physics of the Atria engine
+2026-09-27T00:43:23.113304Z,rch,2.1.0,0,0,https://github.com/Dicklesworthstone/remote_compilation_helper,Remote Compilation Helper - PreToolUse hook CLI
+2026-09-27T00:53:34.400252Z,repame-content,0.3.0,0,0,https://github.com/mlm-games/repame,"headless RON project, scene, resource, asset import, and ECS content foundation"
+2026-09-27T00:58:11.720185Z,butler-macros,0.1.0,0,0,https://github.com/penso/butler,The #[job] attribute macro for the butler background job runner
+2026-09-27T00:58:13.384236Z,butler-jobs,0.1.0,0,0,https://github.com/penso/butler,"Sidekiq-style background jobs: `.await` a #[job] function to enqueue it, and a worker runs it"
+2026-09-27T00:58:15.209615Z,butler-web,0.1.0,0,0,https://github.com/penso/butler,"Web dashboard for butler: live stats over SSE, charts, and failed-job management"
+2026-09-27T00:59:50.721405Z,lyntrap,0.1.1,0,0,https://github.com/ItsThatOneJack-Dev/lyntrap,"A full Rust API client for Lyntr, with both sync and async transports!"
+2026-09-27T01:08:15.557641Z,iced-kit,0.1.0,0,0,https://github.com/sungaoyong/iced-kit,"A shadcn/ui-flavored component library and design system for iced, porting the gpui-kit visual language"
+2026-09-27T01:13:33.683736Z,bite-gp-pass,1.21.3,0,0,https://github.com/bite-gpui/gpui_pass,"A throttling, self-accounting FramePipeline for GPUI"

@@ -8,35 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 00:19 UTC
+## Latest list — 2026-09-27 01:19 UTC
 
-New crates published between 2026-09-26 23:19 UTC and 2026-09-27 00:19 UTC.
+New crates published between 2026-09-27 00:19 UTC and 2026-09-27 01:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-27T00-19-43-505498Z.csv)
+[Full CSV](data/new-crates-2026-09-27T01-19-52-357876Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-26 23:22:30 | [rvagent-mcp](https://crates.io/crates/rvagent-mcp) | 0.1.0 | 0 | rvAgent MCP — Model Context Protocol tools, resources, and transport layer |
-| 2026-09-26 23:24:43 | [rinx_renderer](https://crates.io/crates/rinx_renderer) | 0.1.0 | 0 | Renders rinx documents to HTML. Internal to rinx; no stability guarantees. |
-| 2026-09-26 23:33:40 | [rvagent-wasm](https://crates.io/crates/rvagent-wasm) | 0.2.0 | 0 | rvAgent WASM bindings — browser and Node.js agent execution |
-| 2026-09-26 23:36:29 | [emscripten-futures](https://crates.io/crates/emscripten-futures) | 0.1.0 | 0 | A local async executor and awaitable Emscripten operations for Rust WebAssembly… |
-| 2026-09-26 23:42:27 | [proxy-wasm-host](https://crates.io/crates/proxy-wasm-host) | 0.1.0 | 0 | A Proxy-Wasm ABI v0.2.1 host library built on wasmtime |
-| 2026-09-26 23:44:56 | [rvf-forge-core](https://crates.io/crates/rvf-forge-core) | 2.3.0 | 0 | RVForge packaging and verification library: inspection-only RVF reading, Ed2551… |
-| 2026-09-26 23:47:57 | [ex-command](https://crates.io/crates/ex-command) | 0.1.0 | 0 | Typed commands and events for the EX-CommandStation serial protocol. |
-| 2026-09-26 23:56:10 | [rvforge-registry](https://crates.io/crates/rvforge-registry) | 2.3.0 | 0 | RVForge file-backed content-addressed release registry: typed objects, publish… |
-| 2026-09-26 23:56:59 | [winit-async](https://crates.io/crates/winit-async) | 0.1.0 | 0 | An async runtime based on the winit event loop. |
-| 2026-09-27 00:04:55 | [byteshaver](https://crates.io/crates/byteshaver) | 0.5.0 | 0 | A configurable and efficient batch image converter written in Rust. |
-| 2026-09-27 00:05:10 | [polycore](https://crates.io/crates/polycore) | 0.1.0 | 0 | Fields, prime fields, sparse and dense polynomials, and sparse echelon forms. |
-| 2026-09-27 00:05:19 | [fpr-ff1](https://crates.io/crates/fpr-ff1) | 2.1.0-rc1 | 0 | NIST SP 800-38G FF1 format-preserving encryption: exact integer arithmetic, con… |
-| 2026-09-27 00:07:54 | [ruvector-context](https://crates.io/crates/ruvector-context) | 2.3.0 | 0 | Physically scope-sharded vector retrieval for governed context systems |
-| 2026-09-27 00:11:06 | [kiss-agent-ai](https://crates.io/crates/kiss-agent-ai) | 0.0.21 | 0 | Unified multi-provider LLM streaming API for the kiss coding harness |
-| 2026-09-27 00:11:43 | [kiss-agent](https://crates.io/crates/kiss-agent) | 0.0.21 | 0 | Agent runtime for the kiss coding harness |
-| 2026-09-27 00:11:52 | [kiss-workflow](https://crates.io/crates/kiss-workflow) | 0.0.21 | 0 | Deterministic workflow orchestration scripts for KISS |
-| 2026-09-27 00:12:34 | [kiss-coding](https://crates.io/crates/kiss-coding) | 0.0.21 | 0 | Coding harness: sessions, tools, compaction, settings, skills |
-| 2026-09-27 00:13:54 | [kiss-mcp](https://crates.io/crates/kiss-mcp) | 0.0.21 | 0 | First-class MCP client support for KISS |
-| 2026-09-27 00:14:03 | [ocklog](https://crates.io/crates/ocklog) | 0.0.2 | 0 | A modern TUI tool for docker logs |
-| 2026-09-27 00:14:17 | [kiss-agent-sdk](https://crates.io/crates/kiss-agent-sdk) | 0.0.21 | 0 | Embeddable SDK and JSON-line RPC protocol for the kiss coding agent |
-| 2026-09-27 00:19:27 | [ruvector-domain-expansion-wasm](https://crates.io/crates/ruvector-domain-expansion-wasm) | 0.1.0 | 0 | WASM bindings for the domain expansion cross-domain transfer learning engine |
+| 2026-09-27 00:26:46 | [rch-telemetry](https://crates.io/crates/rch-telemetry) | 2.1.0 | 0 | Telemetry collection for Remote Compilation Helper workers |
+| 2026-09-27 00:27:00 | [rabs-protocol](https://crates.io/crates/rabs-protocol) | 2.1.0 | 0 | Stable RABS domain and wire schemas shared by wrappers, edge, coordinator, work… |
+| 2026-09-27 00:27:20 | [rabs-key](https://crates.io/crates/rabs-key) | 2.1.0 | 0 | Canonical RABS action-key construction, discovery recipes, presentation variant… |
+| 2026-09-27 00:30:41 | [ruvector-nervous-system-wasm](https://crates.io/crates/ruvector-nervous-system-wasm) | 0.1.0 | 0 | WASM bindings for ruvector-nervous-system bio-inspired AI components |
+| 2026-09-27 00:31:04 | [rabs-cas](https://crates.io/crates/rabs-cas) | 2.1.0 | 0 | Durable RABS content-addressed storage, action-cache indexing, object lifecycle… |
+| 2026-09-27 00:31:32 | [rch-wkr](https://crates.io/crates/rch-wkr) | 2.1.0 | 0 | Remote Compilation Helper - Worker agent for remote execution |
+| 2026-09-27 00:33:33 | [rchd](https://crates.io/crates/rchd) | 2.1.0 | 0 | Remote Compilation Helper - Local daemon for worker orchestration |
+| 2026-09-27 00:35:01 | [libcaca-rs](https://crates.io/crates/libcaca-rs) | 0.1.0 | 0 | Pure-Rust port of libcaca, the Colour ASCII-Art library (no C dependency) |
+| 2026-09-27 00:41:12 | [atria-physics](https://crates.io/crates/atria-physics) | 0.1.0 | 0 | Physics of the Atria engine |
+| 2026-09-27 00:43:23 | [rch](https://crates.io/crates/rch) | 2.1.0 | 0 | Remote Compilation Helper - PreToolUse hook CLI |
+| 2026-09-27 00:53:34 | [repame-content](https://crates.io/crates/repame-content) | 0.3.0 | 0 | headless RON project, scene, resource, asset import, and ECS content foundation |
+| 2026-09-27 00:58:11 | [butler-macros](https://crates.io/crates/butler-macros) | 0.1.0 | 0 | The #[job] attribute macro for the butler background job runner |
+| 2026-09-27 00:58:13 | [butler-jobs](https://crates.io/crates/butler-jobs) | 0.1.0 | 0 | Sidekiq-style background jobs: `.await` a #[job] function to enqueue it, and a… |
+| 2026-09-27 00:58:15 | [butler-web](https://crates.io/crates/butler-web) | 0.1.0 | 0 | Web dashboard for butler: live stats over SSE, charts, and failed-job management |
+| 2026-09-27 00:59:50 | [lyntrap](https://crates.io/crates/lyntrap) | 0.1.1 | 0 | A full Rust API client for Lyntr, with both sync and async transports! |
+| 2026-09-27 01:08:15 | [iced-kit](https://crates.io/crates/iced-kit) | 0.1.0 | 0 | A shadcn/ui-flavored component library and design system for iced, porting the… |
+| 2026-09-27 01:13:33 | [bite-gp-pass](https://crates.io/crates/bite-gp-pass) | 1.21.3 | 0 | A throttling, self-accounting FramePipeline for GPUI |
 
 ## Data source
 
