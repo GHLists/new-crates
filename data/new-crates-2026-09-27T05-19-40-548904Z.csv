@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T04:21:15.477671Z,docxtpl-compat,1.0.0,0,0,https://github.com/Huang-Vega/docxtpl-rs,Compatibility layer for upstream docxtpl 0.20.2: line-by-line port of the patch_xml regexes and replacement units
+2026-09-27T04:21:25.096814Z,velme-check,0.0.0,0,0,https://github.com/velme-lang/velme,Reserved for the Velme programming language (https://github.com/velme-lang/velme).
+2026-09-27T04:21:33.057375Z,docxtpl-opc,1.0.0,0,0,https://github.com/Huang-Vega/docxtpl-rs,"OOXML/OPC package reader/writer: ZIP, parts, Content Types, relationships, and resource limits"
+2026-09-27T04:21:43.698611Z,docxtpl-rich,1.0.0,0,0,https://github.com/Huang-Vega/docxtpl-rs,"Rich content value types: RichText/RichTextParagraph/Listing/InlineImage and image header parsing, byte-for-byte aligned with docxtpl 0.20.2 and python-docx 1.2.0"
+2026-09-27T04:21:53.920418Z,docxtpl-xml,1.0.0,0,0,https://github.com/Huang-Vega/docxtpl-rs,"Editable XML fragment layer: lenient (recovery) parsing, tree model, preserving serialization, and position tracking"
+2026-09-27T04:22:32.233736Z,docxtpl-template,1.0.0,0,0,https://github.com/Huang-Vega/docxtpl-rs,Template rendering pipeline: patch_xml → MiniJinja rendering → resolve_listing → fix_tables/fix_docpr
+2026-09-27T04:29:28.624442Z,graphfusion,0.1.1,0,0,https://github.com/GraphFusion/GraphFusion,GraphFusion graph database.
+2026-09-27T04:31:38.367988Z,velme-interp,0.0.0,0,0,https://github.com/velme-lang/velme,Reserved for the Velme programming language (https://github.com/velme-lang/velme).
+2026-09-27T04:31:40.777382Z,docxtpl-rs,1.0.0,0,0,https://github.com/Huang-Vega/docxtpl-rs,Independent Rust DOCX template renderer compatible with Python docxtpl 0.20.2
+2026-09-27T04:35:02.501672Z,tree-space,0.1.0,0,0,,"A dockable, keyboard-first file manager panel for Wayland/Hyprland"
+2026-09-27T04:37:28.890147Z,zelynic,11.0.0-beta.3,0,0,https://github.com/oxyzenQ/zelynic,Per-app network rate limiter and traffic monitor for Linux. Pure eBPF. Boring and silent but killer.
+2026-09-27T04:41:41.951899Z,docxtpl-cli,1.0.0,0,0,https://github.com/Huang-Vega/docxtpl-rs,Command-line interface for the independent docxtpl-rs renderer
+2026-09-27T04:41:52.243283Z,velme-synth,0.0.0,0,0,https://github.com/velme-lang/velme,Reserved for the Velme programming language (https://github.com/velme-lang/velme).
+2026-09-27T04:41:57.146121Z,plurimus_web,0.7.2,0,0,https://github.com/kenianbei/plurimus,"Browser integration for plurimus: a WebGL2 terminal canvas, browser input, and a requestAnimationFrame runner."
+2026-09-27T04:46:00.033926Z,hyprstate,0.1.0,0,0,https://github.com/flaviomilan/hyprstate,"Save and restore your Hyprland desktop: snapshots, diffs and idempotent restores of windows and workspaces"
+2026-09-27T04:52:06.416537Z,velme-wasm,0.0.0,0,0,https://github.com/velme-lang/velme,Reserved for the Velme programming language (https://github.com/velme-lang/velme).
+2026-09-27T04:54:08.397378Z,dl-cloudflare-quick-tunnel,0.3.1,0,0,https://github.com/shadow3aaa/cloudflare-quick-tunnel-rs,"Pure-Rust client for Cloudflare quick tunnels (https://*.trycloudflare.com) — no cloudflared subprocess. Speaks QUIC + capnp-RPC to the argotunnel edge directly. HTTP/1.1 + WebSocket Upgrade, HA pool…"
+2026-09-27T04:57:37.464584Z,card-rs,0.1.0,0,0,https://github.com/opensass/card-rs,"🃏 A highly customizable card component for WASM frameworks like Yew, Dioxus, and Leptos."
+2026-09-27T04:58:57.166424Z,chathound,0.3.0,0,0,https://github.com/copyleftdev/chathound,"Polite, exhaustive tap of Kalshi live-market chat: adaptive polling that hears the whole venue without overwhelming it."
+2026-09-27T05:02:22.493797Z,velme-test-support,0.0.0,0,0,https://github.com/velme-lang/velme,Reserved for the Velme programming language (https://github.com/velme-lang/velme).
