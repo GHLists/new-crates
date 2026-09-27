@@ -1,0 +1,16 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T07:19:25.487263Z,mbop3,0.1.0,0,0,https://github.com/boppofun/mbop3,"A small, no_std MP3 (MPEG-1/2/2.5 Layer III) decoder derived from minimp3, tuned for microcontrollers."
+2026-09-27T07:21:50.17884Z,tui-easy-barchart,0.3.0,0,0,https://github.com/nixpt/tui-easy,"BarChart widget for ratatui, vendored from ratatui 0.30 with per-bar styling fixes (part of tui-easy)"
+2026-09-27T07:21:52.299199Z,tui-easy-styles,0.3.0,0,0,https://github.com/nixpt/tui-easy,"anstyle → ratatui style conversion and shared HyperlinkTarget type, borrowed from xai-grok-markdown"
+2026-09-27T07:21:54.046927Z,tui-easy-textinput,0.3.0,0,0,https://github.com/nixpt/tui-easy,Vendored TextArea + TextAreaState + EditBuffer from xai-ratatui-textarea (Apache-2.0)
+2026-09-27T07:21:56.047611Z,tui-easy-wrap,0.3.0,0,0,https://github.com/nixpt/tui-easy,"textwrap word-wrap helpers over ratatui Line/Span, borrowed from xai-ratatui-textarea"
+2026-09-27T07:21:57.898981Z,tui-easy,0.3.0,0,0,https://github.com/nixpt/tui-easy,"Shared terminal UI shell — terminal init, event loop, themes, widgets"
+2026-09-27T07:32:35.9245Z,fakts,0.1.0,0,0,https://github.com/arkitektio/arkirust,Fakts v2 configuration discovery and OAuth2 device-code grant for Arkitekt apps
+2026-09-27T07:32:44.856018Z,arkitekt-rath,0.1.0,0,0,https://github.com/arkitektio/arkirust,Minimal authenticated GraphQL client for Arkitekt services
+2026-09-27T07:32:50.388289Z,rekuest-macros,0.1.0,0,0,https://github.com/arkitektio/arkirust,Proc-macros for rekuest: #[action] and #[derive(Structure)]
+2026-09-27T07:33:06.87503Z,rekuest,0.1.0,0,0,https://github.com/arkitektio/arkirust,Rekuest agent: expose typed Rust functions as Arkitekt actions
+2026-09-27T07:33:11.665363Z,arkitekt,0.1.0,0,0,https://github.com/arkitektio/arkirust,"Build Arkitekt apps in Rust: declare an App, compose services, serve actions"
+2026-09-27T07:42:12.741802Z,vsrg,0.1.0,0,0,https://codeberg.org/SnailBionicLab/vsrg,Data structures for vertical scrolling rhythm games
+2026-09-27T07:52:40.930775Z,nixbox-gui,0.2.6,0,0,https://github.com/SINGH-RAJVEER/nixbox,"Desktop front-end for nixbox, built on gpui"
+2026-09-27T08:10:30.947091Z,axiolid-brep-boolean,0.1.0,0,0,https://github.com/axiolid/kernel,General exact B-rep booleans over analytic faces (ADR 0075)
+2026-09-27T08:15:58.589805Z,fable_3,0.1.0,0,0,,A Rust library for parsing Fable 3 binary asset formats

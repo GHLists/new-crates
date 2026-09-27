@@ -8,31 +8,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 07:18 UTC
+## Latest list — 2026-09-27 08:18 UTC
 
-New crates published between 2026-09-27 06:19 UTC and 2026-09-27 07:18 UTC.
+New crates published between 2026-09-27 07:18 UTC and 2026-09-27 08:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-27T07-18-51-243871Z.csv)
+[Full CSV](data/new-crates-2026-09-27T08-18-57-67654Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-27 06:36:01 | [system-time](https://crates.io/crates/system-time) | 10.1.11 | 0 | A library for fetching the current time based on the system's locale settings. |
-| 2026-09-27 06:36:07 | [color-log](https://crates.io/crates/color-log) | 10.1.11 | 0 | A Rust logging library that supports both asynchronous and synchronous logging.… |
-| 2026-09-27 06:36:09 | [tokio-broadcast](https://crates.io/crates/tokio-broadcast) | 10.1.11 | 0 | tokio-broadcast is a lightweight and ergonomic wrapper over Tokio’s broadcast c… |
-| 2026-09-27 06:43:26 | [axiom-extension-abi](https://crates.io/crates/axiom-extension-abi) | 1.0.0 | 0 | Engine-neutral Axiom extension ABI v1 wire types |
-| 2026-09-27 06:43:39 | [axiom-extension-sdk-derive](https://crates.io/crates/axiom-extension-sdk-derive) | 0.1.0 | 0 | First-party canonical record derive for the Axiom extension SDK |
-| 2026-09-27 06:47:40 | [asobi-core](https://crates.io/crates/asobi-core) | 0.8.0 | 0 | Domain types, async API traits, and configuration for the Asobi knowledge graph… |
-| 2026-09-27 06:47:41 | [asobi-storage](https://crates.io/crates/asobi-storage) | 0.8.0 | 0 | The bundled SQLite provider for the Asobi knowledge graph (implementation detai… |
-| 2026-09-27 06:47:44 | [asobi-server](https://crates.io/crates/asobi-server) | 0.8.0 | 0 | The Asobi graph server: one process, named graphs, HTTP access (ADR 0005). |
-| 2026-09-27 06:51:44 | [lantern-client](https://crates.io/crates/lantern-client) | 0.1.0 | 0 | Native Rust client for the Lantern graph KVS |
-| 2026-09-27 06:54:09 | [axiom-extension-sdk](https://crates.io/crates/axiom-extension-sdk) | 0.1.0 | 0 | Rust guest SDK for Axiom extension ABI v1 |
-| 2026-09-27 07:00:18 | [caison](https://crates.io/crates/caison) | 0.1.0 | 0 | CAISON — Crush AI-native Semantic Object Notation: an AI-native config/serializ… |
-| 2026-09-27 07:01:36 | [next-web-singletons](https://crates.io/crates/next-web-singletons) | 0.1.0 | 0 | Lightweight singleton registry and lazy factory for Rust applications |
-| 2026-09-27 07:02:01 | [next-web-context](https://crates.io/crates/next-web-context) | 0.1.0 | 0 | Application context, dependency injection, event, and message-source layer for… |
-| 2026-09-27 07:06:00 | [nats-token](https://crates.io/crates/nats-token) | 0.1.0 | 0 | NATS JWT implementation using NKeys |
-| 2026-09-27 07:09:37 | [next-web-state-machine](https://crates.io/crates/next-web-state-machine) | 0.1.0 | 0 | State machine modeling and runtime support for Next Web applications |
-| 2026-09-27 07:11:57 | [walrq](https://crates.io/crates/walrq) | 0.1.0 | 0 | Distributed high-throughput message queue engine with Raft consensus and disk s… |
-| 2026-09-27 07:12:07 | [walrq-client](https://crates.io/crates/walrq-client) | 0.1.0 | 0 | Async high-performance client SDK for the walrq distributed queue engine |
+| 2026-09-27 07:19:25 | [mbop3](https://crates.io/crates/mbop3) | 0.1.0 | 0 | A small, no_std MP3 (MPEG-1/2/2.5 Layer III) decoder derived from minimp3, tune… |
+| 2026-09-27 07:21:50 | [tui-easy-barchart](https://crates.io/crates/tui-easy-barchart) | 0.3.0 | 0 | BarChart widget for ratatui, vendored from ratatui 0.30 with per-bar styling fi… |
+| 2026-09-27 07:21:52 | [tui-easy-styles](https://crates.io/crates/tui-easy-styles) | 0.3.0 | 0 | anstyle → ratatui style conversion and shared HyperlinkTarget type, borrowed fr… |
+| 2026-09-27 07:21:54 | [tui-easy-textinput](https://crates.io/crates/tui-easy-textinput) | 0.3.0 | 0 | Vendored TextArea + TextAreaState + EditBuffer from xai-ratatui-textarea (Apach… |
+| 2026-09-27 07:21:56 | [tui-easy-wrap](https://crates.io/crates/tui-easy-wrap) | 0.3.0 | 0 | textwrap word-wrap helpers over ratatui Line/Span, borrowed from xai-ratatui-te… |
+| 2026-09-27 07:21:57 | [tui-easy](https://crates.io/crates/tui-easy) | 0.3.0 | 0 | Shared terminal UI shell — terminal init, event loop, themes, widgets |
+| 2026-09-27 07:32:35 | [fakts](https://crates.io/crates/fakts) | 0.1.0 | 0 | Fakts v2 configuration discovery and OAuth2 device-code grant for Arkitekt apps |
+| 2026-09-27 07:32:44 | [arkitekt-rath](https://crates.io/crates/arkitekt-rath) | 0.1.0 | 0 | Minimal authenticated GraphQL client for Arkitekt services |
+| 2026-09-27 07:32:50 | [rekuest-macros](https://crates.io/crates/rekuest-macros) | 0.1.0 | 0 | Proc-macros for rekuest: #[action] and #[derive(Structure)] |
+| 2026-09-27 07:33:06 | [rekuest](https://crates.io/crates/rekuest) | 0.1.0 | 0 | Rekuest agent: expose typed Rust functions as Arkitekt actions |
+| 2026-09-27 07:33:11 | [arkitekt](https://crates.io/crates/arkitekt) | 0.1.0 | 0 | Build Arkitekt apps in Rust: declare an App, compose services, serve actions |
+| 2026-09-27 07:42:12 | [vsrg](https://crates.io/crates/vsrg) | 0.1.0 | 0 | Data structures for vertical scrolling rhythm games |
+| 2026-09-27 07:52:40 | [nixbox-gui](https://crates.io/crates/nixbox-gui) | 0.2.6 | 0 | Desktop front-end for nixbox, built on gpui |
+| 2026-09-27 08:10:30 | [axiolid-brep-boolean](https://crates.io/crates/axiolid-brep-boolean) | 0.1.0 | 0 | General exact B-rep booleans over analytic faces (ADR 0075) |
+| 2026-09-27 08:15:58 | [fable_3](https://crates.io/crates/fable_3) | 0.1.0 | 0 | A Rust library for parsing Fable 3 binary asset formats |
 
 ## Data source
 
