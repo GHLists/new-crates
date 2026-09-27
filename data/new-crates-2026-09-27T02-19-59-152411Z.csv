@@ -1,0 +1,12 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T01:23:00.616885Z,game-utils-repame,0.4.0,0,0,https://github.com/mlm-games/game-utils,"Repame (repose stack) game-feel utilities: sim time scales, hitstop, recoil/juice math, entity pooling, save/i18n/loading resources over repame-sim"
+2026-09-27T01:30:15.858125Z,celox-test-suite-veryl,0.8.0,0,0,https://github.com/celox-sim/celox,Reusable Veryl language tests for compiler and simulator implementations
+2026-09-27T01:30:35.168322Z,preset-compliance,0.1.0,0,0,https://github.com/preset-nz/compliance,"Records what a repo is built on, where it came from and under what terms, and checks it against one pinned policy. Licences first."
+2026-09-27T01:42:13.057744Z,volgit,0.2.0,0,0,https://github.com/KillKillaV/volgit,"A fetch-style CLI for GitHub: repo cards, profiles, contribution graphs and side-by-side comparisons, right in your terminal"
+2026-09-27T01:43:07.039606Z,readback-core,0.14.0,0,0,https://github.com/HarjjotSinghh/readback,Reliability layer for speech-to-text. Catches transcription errors that change what the speaker meant.
+2026-09-27T01:43:26.70652Z,readback-cli,0.14.0,0,0,https://github.com/HarjjotSinghh/readback,"Command-line interface for Readback: inspect, debug and tune speech-to-text reliability verdicts."
+2026-09-27T01:43:32.466546Z,readback-bench,0.14.0,0,0,https://github.com/HarjjotSinghh/readback,CriticalSpeechBench and the Critical Semantic Error Rate: measuring whether a speech-to-text stack changed what you meant.
+2026-09-27T01:44:08.66993Z,net-mesh-wire,0.37.0,0,0,https://github.com/ai-2070/net,"Net mesh wire layer: packet protocol, Noise handshake, packet AEAD, reliability, sessions and the routing envelope. tokio-free and wasm32-clean."
+2026-09-27T02:03:15.501905Z,spool-chat,0.0.0,0,0,https://git.devmail.group/grantlemons/spool,spool is a chat platform based on the veilid protocol
+2026-09-27T02:07:42.679544Z,odrive_can_driver,0.1.0,0,0,https://github.com/MRNIU/odrive-can-driver,Allocation-free ODrive CANSimple driver with shared operation tracking and optional CAN backends
+2026-09-27T02:08:30.209713Z,bones-verified,0.26.0,0,0,https://github.com/bobisme/bones,Verus-verified merge kernels for bones CRDTs
