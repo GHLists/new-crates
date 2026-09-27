@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T06:36:01.99014Z,system-time,10.1.11,0,0,https://github.com/crates-dev/ctares,A library for fetching the current time based on the system's locale settings.
+2026-09-27T06:36:07.58952Z,color-log,10.1.11,0,0,https://github.com/crates-dev/ctares,"A Rust logging library that supports both asynchronous and synchronous logging. It provides multiple log levels, such as error, info, and debug. Users can define custom log handling methods and confi…"
+2026-09-27T06:36:09.304167Z,tokio-broadcast,10.1.11,0,0,https://github.com/crates-dev/ctares,tokio-broadcast is a lightweight and ergonomic wrapper over Tokio’s broadcast channel designed for easy-to-use publish-subscribe messaging in async Rust applications. It simplifies the native Tokio b…
+2026-09-27T06:43:26.800292Z,axiom-extension-abi,1.0.0,0,0,https://github.com/AxiomCore/axiom-extension-sdk,Engine-neutral Axiom extension ABI v1 wire types
+2026-09-27T06:43:39.890065Z,axiom-extension-sdk-derive,0.1.0,0,0,https://github.com/AxiomCore/axiom-extension-sdk,First-party canonical record derive for the Axiom extension SDK
+2026-09-27T06:47:40.29023Z,asobi-core,0.8.0,0,0,https://github.com/azusachino/asobi,"Domain types, async API traits, and configuration for the Asobi knowledge graph (implementation detail of the asobi crates; no stability promise)."
+2026-09-27T06:47:41.917927Z,asobi-storage,0.8.0,0,0,https://github.com/azusachino/asobi,The bundled SQLite provider for the Asobi knowledge graph (implementation detail of the asobi crates; no stability promise).
+2026-09-27T06:47:44.152389Z,asobi-server,0.8.0,0,0,https://github.com/azusachino/asobi,"The Asobi graph server: one process, named graphs, HTTP access (ADR 0005)."
+2026-09-27T06:51:44.56355Z,lantern-client,0.1.0,0,0,https://github.com/anaregdesign/lantern,Native Rust client for the Lantern graph KVS
+2026-09-27T06:54:09.089821Z,axiom-extension-sdk,0.1.0,0,0,https://github.com/AxiomCore/axiom-extension-sdk,Rust guest SDK for Axiom extension ABI v1
+2026-09-27T07:00:18.351607Z,caison,0.1.0,0,0,https://github.com/nixpt/caison,"CAISON — Crush AI-native Semantic Object Notation: an AI-native config/serialization format (confidence, semantic keys, annotations, synthesized values)"
+2026-09-27T07:01:36.713877Z,next-web-singletons,0.1.0,0,0,https://github.com/yuenxillar/next-web,Lightweight singleton registry and lazy factory for Rust applications
+2026-09-27T07:02:01.77606Z,next-web-context,0.1.0,0,0,https://github.com/yuenxillar/next-web,"Application context, dependency injection, event, and message-source layer for Next Web"
+2026-09-27T07:06:00.239063Z,nats-token,0.1.0,0,0,https://github.com/hijriyan/nats-token,NATS JWT implementation using NKeys
+2026-09-27T07:09:37.742926Z,next-web-state-machine,0.1.0,0,0,https://github.com/yuenxillar/next-web,State machine modeling and runtime support for Next Web applications
+2026-09-27T07:11:57.20374Z,walrq,0.1.0,0,0,https://github.com/bri0/walr-queue,Distributed high-throughput message queue engine with Raft consensus and disk spilling
+2026-09-27T07:12:07.00947Z,walrq-client,0.1.0,0,0,https://github.com/bri0/walr-queue,Async high-performance client SDK for the walrq distributed queue engine
