@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T02:26:45.447923Z,jotter-tui,0.2.0,0,0,https://github.com/samox73/jotter,jOtter — a fast Jupyter notebook TUI. The Jupyter otter. 🦦
+2026-09-27T02:35:51.75396Z,aifuel-core,0.1.0,0,0,https://github.com/ducquoc97/aifuel,Stable domain types shared by aifuel services and provider adapters
+2026-09-27T02:36:54.417309Z,aifuel-app,0.1.0,0,0,https://github.com/ducquoc97/aifuel,"Application services for aifuel: provider discovery, quota collection, and MCP gateway"
+2026-09-27T02:37:18.390248Z,ferx-core,0.4.0,0,0,https://github.com/FeRx-NLME/ferx-core,Nonlinear Mixed Effects modeling engine with FOCE/FOCEI estimation
+2026-09-27T02:37:21.739259Z,ferx-tools,0.4.0,0,0,https://github.com/FeRx-NLME/ferx-core,"Model-development tooling on top of ferx-core: bootstrap, covariate search, cross-validation"
+2026-09-27T02:37:23.91723Z,ferx-cli,0.4.0,0,0,https://github.com/FeRx-NLME/ferx-core,Command-line interface for the ferx NLME modeling engine
+2026-09-27T02:39:57.296511Z,aifuel-providers,0.1.0,0,0,https://github.com/ducquoc97/aifuel,"AI coding provider integrations for aifuel: Claude Code, Codex, Copilot, Gemini, Antigravity, Devin CLI"
+2026-09-27T02:41:51.668149Z,aifuel-mcp,0.1.0,0,0,https://github.com/ducquoc97/aifuel,"MCP servers for aifuel: read-only status, agent execution, and gateway"
+2026-09-27T02:45:05.600165Z,mystquarto-core,0.3.0,0,0,https://github.com/ntluong95/myst-quarto-rustCLI,"Typed IR, readers, writers, and diagnostics powering the mystquarto MyST <-> Quarto converter"
+2026-09-27T02:45:07.755716Z,mystquarto,0.3.0,0,0,https://github.com/ntluong95/myst-quarto-rustCLI,Bidirectional MyST <-> Quarto converter
+2026-09-27T02:45:42.717254Z,aifuel,0.1.0,0,0,https://github.com/ducquoc97/aifuel,"Fuel gauge for AI coding subscriptions: CLI, browser dashboard, and MCP server showing remaining quota"
+2026-09-27T02:46:25.407905Z,orchest-protocol,1.0.0-rc.1,0,0,https://github.com/jianantian/orchest,"Shared protocol for Orchest: content model, capability traits, stream events, capability descriptors and errors."
+2026-09-27T02:46:29.572574Z,orchest-storage,1.0.0-rc.1,0,0,https://github.com/jianantian/orchest,Unified object storage for Orchest asset persistence: Aliyun OSS and Tencent COS behind one async trait.
+2026-09-27T02:46:34.658231Z,orchest-provider-core,1.0.0-rc.1,0,0,https://github.com/jianantian/orchest,Internal building blocks for the Orchest provider crates. Not for direct use: depend on orchest-provider.
+2026-09-27T02:46:41.928125Z,orchest-provider-http,1.0.0-rc.1,0,0,https://github.com/jianantian/orchest,Internal REST/SSE provider dialects for Orchest. Not for direct use: depend on orchest-provider.
+2026-09-27T02:46:47.580022Z,orchest-provider-stream,1.0.0-rc.1,0,0,https://github.com/jianantian/orchest,Internal WebSocket provider dialects for Orchest. Not for direct use: depend on orchest-provider.
+2026-09-27T02:55:52.523312Z,fent_derive,0.1.0,0,0,,Provides macros for fent_ecs
+2026-09-27T02:56:01.435135Z,fent_ecs,0.1.0,0,0,https://github.com/Revilo126/fent_ecs,Simple ECS library
+2026-09-27T02:58:18.342481Z,orchest-provider-visual,1.0.0-rc.1,0,0,https://github.com/jianantian/orchest,Internal signed/polled generation dialects for Orchest. Not for direct use: depend on orchest-provider.
+2026-09-27T03:00:16.397546Z,hv2-sandbox,1.1.0,0,0,https://github.com/nervosys/HyperMachine,Lightweight confinement for agent workloads: OS-level process sandboxes with honest capability reporting
+2026-09-27T03:03:07.406287Z,docket-cli,0.1.0,0,0,https://github.com/andrewrgarcia/docket,"Every project and idea you have, in one list, ready to paste into any AI. Plain markdown, no database, no daemon."
+2026-09-27T03:07:44.039444Z,orchest-provider,1.0.0-rc.1,0,0,https://github.com/jianantian/orchest,"Provider registry for Orchest: select LLM, ASR, TTS, realtime and generation providers by capability or identity."
+2026-09-27T03:12:09.791845Z,termhog,0.0.0,0,0,,Record terminal apps into PostHog Session Replays
+2026-09-27T03:18:01.001843Z,orchest,1.0.0-rc.1,0,0,https://github.com/jianantian/orchest,"Skill-first agent runtime core: agent loop, state management, event streaming, tool dispatch and skill loading."

@@ -8,25 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 02:19 UTC
+## Latest list — 2026-09-27 03:19 UTC
 
-New crates published between 2026-09-27 01:19 UTC and 2026-09-27 02:19 UTC.
+New crates published between 2026-09-27 02:19 UTC and 2026-09-27 03:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-27T02-19-59-152411Z.csv)
+[Full CSV](data/new-crates-2026-09-27T03-19-24-293013Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-27 01:23:00 | [game-utils-repame](https://crates.io/crates/game-utils-repame) | 0.4.0 | 0 | Repame (repose stack) game-feel utilities: sim time scales, hitstop, recoil/jui… |
-| 2026-09-27 01:30:15 | [celox-test-suite-veryl](https://crates.io/crates/celox-test-suite-veryl) | 0.8.0 | 0 | Reusable Veryl language tests for compiler and simulator implementations |
-| 2026-09-27 01:30:35 | [preset-compliance](https://crates.io/crates/preset-compliance) | 0.1.0 | 0 | Records what a repo is built on, where it came from and under what terms, and c… |
-| 2026-09-27 01:42:13 | [volgit](https://crates.io/crates/volgit) | 0.2.0 | 0 | A fetch-style CLI for GitHub: repo cards, profiles, contribution graphs and sid… |
-| 2026-09-27 01:43:07 | [readback-core](https://crates.io/crates/readback-core) | 0.14.0 | 0 | Reliability layer for speech-to-text. Catches transcription errors that change… |
-| 2026-09-27 01:43:26 | [readback-cli](https://crates.io/crates/readback-cli) | 0.14.0 | 0 | Command-line interface for Readback: inspect, debug and tune speech-to-text rel… |
-| 2026-09-27 01:43:32 | [readback-bench](https://crates.io/crates/readback-bench) | 0.14.0 | 0 | CriticalSpeechBench and the Critical Semantic Error Rate: measuring whether a s… |
-| 2026-09-27 01:44:08 | [net-mesh-wire](https://crates.io/crates/net-mesh-wire) | 0.37.0 | 0 | Net mesh wire layer: packet protocol, Noise handshake, packet AEAD, reliability… |
-| 2026-09-27 02:03:15 | [spool-chat](https://crates.io/crates/spool-chat) | 0.0.0 | 0 | spool is a chat platform based on the veilid protocol |
-| 2026-09-27 02:07:42 | [odrive_can_driver](https://crates.io/crates/odrive_can_driver) | 0.1.0 | 0 | Allocation-free ODrive CANSimple driver with shared operation tracking and opti… |
-| 2026-09-27 02:08:30 | [bones-verified](https://crates.io/crates/bones-verified) | 0.26.0 | 0 | Verus-verified merge kernels for bones CRDTs |
+| 2026-09-27 02:26:45 | [jotter-tui](https://crates.io/crates/jotter-tui) | 0.2.0 | 0 | jOtter — a fast Jupyter notebook TUI. The Jupyter otter. 🦦 |
+| 2026-09-27 02:35:51 | [aifuel-core](https://crates.io/crates/aifuel-core) | 0.1.0 | 0 | Stable domain types shared by aifuel services and provider adapters |
+| 2026-09-27 02:36:54 | [aifuel-app](https://crates.io/crates/aifuel-app) | 0.1.0 | 0 | Application services for aifuel: provider discovery, quota collection, and MCP… |
+| 2026-09-27 02:37:18 | [ferx-core](https://crates.io/crates/ferx-core) | 0.4.0 | 0 | Nonlinear Mixed Effects modeling engine with FOCE/FOCEI estimation |
+| 2026-09-27 02:37:21 | [ferx-tools](https://crates.io/crates/ferx-tools) | 0.4.0 | 0 | Model-development tooling on top of ferx-core: bootstrap, covariate search, cro… |
+| 2026-09-27 02:37:23 | [ferx-cli](https://crates.io/crates/ferx-cli) | 0.4.0 | 0 | Command-line interface for the ferx NLME modeling engine |
+| 2026-09-27 02:39:57 | [aifuel-providers](https://crates.io/crates/aifuel-providers) | 0.1.0 | 0 | AI coding provider integrations for aifuel: Claude Code, Codex, Copilot, Gemini… |
+| 2026-09-27 02:41:51 | [aifuel-mcp](https://crates.io/crates/aifuel-mcp) | 0.1.0 | 0 | MCP servers for aifuel: read-only status, agent execution, and gateway |
+| 2026-09-27 02:45:05 | [mystquarto-core](https://crates.io/crates/mystquarto-core) | 0.3.0 | 0 | Typed IR, readers, writers, and diagnostics powering the mystquarto MyST <-> Qu… |
+| 2026-09-27 02:45:07 | [mystquarto](https://crates.io/crates/mystquarto) | 0.3.0 | 0 | Bidirectional MyST <-> Quarto converter |
+| 2026-09-27 02:45:42 | [aifuel](https://crates.io/crates/aifuel) | 0.1.0 | 0 | Fuel gauge for AI coding subscriptions: CLI, browser dashboard, and MCP server… |
+| 2026-09-27 02:46:25 | [orchest-protocol](https://crates.io/crates/orchest-protocol) | 1.0.0-rc.1 | 0 | Shared protocol for Orchest: content model, capability traits, stream events, c… |
+| 2026-09-27 02:46:29 | [orchest-storage](https://crates.io/crates/orchest-storage) | 1.0.0-rc.1 | 0 | Unified object storage for Orchest asset persistence: Aliyun OSS and Tencent CO… |
+| 2026-09-27 02:46:34 | [orchest-provider-core](https://crates.io/crates/orchest-provider-core) | 1.0.0-rc.1 | 0 | Internal building blocks for the Orchest provider crates. Not for direct use: d… |
+| 2026-09-27 02:46:41 | [orchest-provider-http](https://crates.io/crates/orchest-provider-http) | 1.0.0-rc.1 | 0 | Internal REST/SSE provider dialects for Orchest. Not for direct use: depend on… |
+| 2026-09-27 02:46:47 | [orchest-provider-stream](https://crates.io/crates/orchest-provider-stream) | 1.0.0-rc.1 | 0 | Internal WebSocket provider dialects for Orchest. Not for direct use: depend on… |
+| 2026-09-27 02:55:52 | [fent_derive](https://crates.io/crates/fent_derive) | 0.1.0 | 0 | Provides macros for fent_ecs |
+| 2026-09-27 02:56:01 | [fent_ecs](https://crates.io/crates/fent_ecs) | 0.1.0 | 0 | Simple ECS library |
+| 2026-09-27 02:58:18 | [orchest-provider-visual](https://crates.io/crates/orchest-provider-visual) | 1.0.0-rc.1 | 0 | Internal signed/polled generation dialects for Orchest. Not for direct use: dep… |
+| 2026-09-27 03:00:16 | [hv2-sandbox](https://crates.io/crates/hv2-sandbox) | 1.1.0 | 0 | Lightweight confinement for agent workloads: OS-level process sandboxes with ho… |
+| 2026-09-27 03:03:07 | [docket-cli](https://crates.io/crates/docket-cli) | 0.1.0 | 0 | Every project and idea you have, in one list, ready to paste into any AI. Plain… |
+| 2026-09-27 03:07:44 | [orchest-provider](https://crates.io/crates/orchest-provider) | 1.0.0-rc.1 | 0 | Provider registry for Orchest: select LLM, ASR, TTS, realtime and generation pr… |
+| 2026-09-27 03:12:09 | [termhog](https://crates.io/crates/termhog) | 0.0.0 | 0 | Record terminal apps into PostHog Session Replays |
+| 2026-09-27 03:18:01 | [orchest](https://crates.io/crates/orchest) | 1.0.0-rc.1 | 0 | Skill-first agent runtime core: agent loop, state management, event streaming,… |
 
 ## Data source
 
