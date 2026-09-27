@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T18:29:48.780518Z,stackup-eda-parser,0.1.0,0,0,https://github.com/stackup-eda/stackup,Reads and writes stackup's KDL design format
+2026-09-27T18:30:21.363923Z,vysx_std,0.1.0,0,0,https://github.com/opkvysxct/vysx_std,"vysx standard library, a set of utilities that default rust std does not have."
+2026-09-27T18:30:25.590192Z,stackup-eda,0.1.1,0,0,https://github.com/stackup-eda/stackup,Elaborates a stackup design and writes what a PCB tool imports
+2026-09-27T18:41:30.335549Z,tollgate-core,0.30.1,0,0,https://github.com/MorphIQ-Labs/tollgate,"Zero-I/O, clock-free domain layer for quota admission and accounting: cost tables, account snapshots, fenced local leases, and the reservation state machine."
+2026-09-27T18:41:35.241676Z,tollgate-auth,0.30.1,0,0,https://github.com/MorphIQ-Labs/tollgate,"Credential verification for latency-critical services: digests at rest, and a session-scoped cache that removes the per-request digest without widening the revocation window."
+2026-09-27T18:41:44.513311Z,tollgate-store,0.30.1,0,0,https://github.com/MorphIQ-Labs/tollgate,"Storage abstraction for tollgate: LeaseAllocator, SnapshotSource, and UsageSink traits, plus the in-memory reference implementation."
+2026-09-27T18:41:54.029552Z,tollgate-admission,0.30.1,0,0,https://github.com/MorphIQ-Labs/tollgate,"Per-request admission pipeline: snapshot lookup, permission and staleness checks, weighted local rate limiting, and lease reservation — with zero inline I/O."
+2026-09-27T18:42:23.870973Z,tollgate-store-postgres,0.30.1,0,0,https://github.com/MorphIQ-Labs/tollgate,"PostgreSQL backend for tollgate: transactional fenced lease allocation, idempotent usage ingest, and snapshot storage implementing the tollgate-store traits."
+2026-09-27T18:44:58.614767Z,tollgate-client,0.30.1,0,0,https://github.com/MorphIQ-Labs/tollgate,"Instance-side quota runtime: background lease refill into the admission layer's LeaseSlot, and a bounded, batched, shed-on-overflow usage writer."
+2026-09-27T18:46:51.462259Z,cs2-api,1.0.0,0,0,https://github.com/achillesscriptsvip/cs2-api,"CS2 API client for Rust: Counter-Strike 2 live scores, match results, player stats, teams, rankings (world + VRS), events and skin prices"
+2026-09-27T18:51:14.473953Z,gorilla-rust,1.4.2,0,0,https://github.com/abedegno/gorilla-rust,"A pixel-faithful Rust port of the 1990 QBasic GORILLAS, measured against the original rather than guessed at"
+2026-09-27T18:55:51.06694Z,tollgate-server,0.30.1,0,0,https://github.com/MorphIQ-Labs/tollgate,"Control-plane HTTP service: fenced lease allocation, snapshot distribution, idempotent usage ingest, and account administration over any store backend."
+2026-09-27T19:00:08.146316Z,links_and_nodes_rdb,0.7.0,0,0,https://gitlab.com/links_and_nodes/links_and_nodes_rust,Read Links and Nodes lnrecorder databases (lnrdb) in pure Rust.
+2026-09-27T19:00:32.667855Z,cexy,0.1.0-dev.1,0,0,https://github.com/cexyio/cexy-rust,Official Rust SDK for the CEXY.io exchange API (REST + WebSocket)
+2026-09-27T19:02:06.287665Z,veloci,0.1.1,0,0,https://github.com/phayes/velociredactor,"Veloci Redactor: redact secrets and PII from text and structured files, with stable numbered redactions"
+2026-09-27T19:06:24.944029Z,fontsrc,0.0.0,0,0,https://github.com/shift-editor/fontsrc,"Read and write authored font sources (UFO, Designspace, Glyphs) in Rust and TypeScript"
+2026-09-27T19:06:29.221567Z,orx-col-dim,0.1.0,0,0,https://github.com/orxfun/orx-col-dim/,Dimension trait and implementations for multi-dimensional collections
+2026-09-27T19:07:32.664979Z,kbfold,0.2.0,0,0,https://github.com/qoosmo/kbfold,"KBFold: a multilinear polynomial commitment from the Boolean-kernel basis, with native evaluation-form FRI folding"
+2026-09-27T19:08:10.570971Z,riverqueue-pro,0.0.0,0,0,,River Pro for Rust — placeholder for the forthcoming implementation.
+2026-09-27T19:11:54.432766Z,JoystickHackx,0.1.0,0,0,,Joystick driver for hackxpansion!
+2026-09-27T19:18:44.445971Z,mistralai-sdk,0.4.0,0,0,https://github.com/adriendellagaspera/mistralai-rs,Unofficial Mistral AI SDK reproducibly generated from the official OpenAPI specification

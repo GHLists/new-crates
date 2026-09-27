@@ -8,40 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 18:18 UTC
+## Latest list — 2026-09-27 19:21 UTC
 
-New crates published between 2026-09-27 17:18 UTC and 2026-09-27 18:18 UTC.
+New crates published between 2026-09-27 18:18 UTC and 2026-09-27 19:21 UTC.
 
-[Full CSV](data/new-crates-2026-09-27T18-18-55-109269Z.csv)
+[Full CSV](data/new-crates-2026-09-27T19-21-29-022185Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-27 17:19:24 | [urtorrent-tracker](https://crates.io/crates/urtorrent-tracker) | 0.14.2 | 0 | Sans-IO HTTP/UDP tracker announce and scrape builders, parsers and tier/backoff… |
-| 2026-09-27 17:21:55 | [nash-fmt](https://crates.io/crates/nash-fmt) | 0.2.0 | 0 | Source formatter for Nash |
-| 2026-09-27 17:22:19 | [nash-docs](https://crates.io/crates/nash-docs) | 0.2.0 | 0 | Documentation extraction and rendering for Nash |
-| 2026-09-27 17:24:47 | [fasterhenry](https://crates.io/crates/fasterhenry) | 0.1.0 | 0 | Clean-room PEEC inductance/resistance extraction for 3-D conductor geometries —… |
-| 2026-09-27 17:25:07 | [fasterhenry-cli](https://crates.io/crates/fasterhenry-cli) | 0.1.0 | 0 | Command-line front end for fasterhenry: FastHenry-format .inp decks (public for… |
-| 2026-09-27 17:29:24 | [urtorrent-wire](https://crates.io/crates/urtorrent-wire) | 0.14.2 | 0 | Sans-IO BitTorrent peer-wire codec and per-connection state machine (BEP 3, 6,… |
-| 2026-09-27 17:33:42 | [plene-core](https://crates.io/crates/plene-core) | 0.1.0 | 0 | Parses Rust source into per-line spans with each abbreviation and symbol token… |
-| 2026-09-27 17:33:50 | [plene](https://crates.io/crates/plene) | 0.1.0 | 0 | Shows Rust source alongside an expanded transcription: the same code with abbre… |
-| 2026-09-27 17:39:25 | [urtorrent-session](https://crates.io/crates/urtorrent-session) | 0.14.2 | 0 | The urtorrent engine: wires tracker, wire, picker, storage and uring together b… |
-| 2026-09-27 17:39:44 | [torvyon-core](https://crates.io/crates/torvyon-core) | 0.1.0 | 0 | Keys, addresses, signing and transaction building for the Torvyon blockchain |
-| 2026-09-27 17:46:49 | [heif-dl](https://crates.io/crates/heif-dl) | 0.1.0 | 0 | libheif loaded at runtime through libloading, for sqzer's `native-heif` feature… |
-| 2026-09-27 17:46:50 | [heif-imageio](https://crates.io/crates/heif-imageio) | 0.1.0 | 0 | HEIC decoding through macOS ImageIO, for sqzer's `native-heif` feature. Not a p… |
-| 2026-09-27 17:46:51 | [heif-wic](https://crates.io/crates/heif-wic) | 0.1.0 | 0 | HEIC decoding through the Windows Imaging Component, for sqzer's `native-heif`… |
-| 2026-09-27 17:46:56 | [sqzer-codecs-agpl](https://crates.io/crates/sqzer-codecs-agpl) | 0.1.0 | 0 | AGPL-licensed codec backends for sqzer (zen* family). Never a default dependenc… |
-| 2026-09-27 17:46:59 | [sqzer-native-tier](https://crates.io/crates/sqzer-native-tier) | 0.1.0 | 0 | The native tier of sqzer as its release binaries carry it, selected per target.… |
-| 2026-09-27 17:47:26 | [yoke-proto](https://crates.io/crates/yoke-proto) | 0.1.0 | 0 | The protocol definitions of Yoke, generated for Rust |
-| 2026-09-27 17:49:26 | [urtorrent](https://crates.io/crates/urtorrent) | 0.14.2 | 0 | A BitTorrent library for Linux on io_uring: downloading and seeding with IPv4/I… |
-| 2026-09-27 17:54:37 | [argui-media](https://crates.io/crates/argui-media) | 0.4.0 | 0 | Optional raster and SVG decoding with stable media asset identities for Argui |
-| 2026-09-27 17:55:56 | [argui-schema](https://crates.io/crates/argui-schema) | 0.4.0 | 0 | Canonical declarative native schema and adapters for Argui |
-| 2026-09-27 17:55:58 | [argui-host](https://crates.io/crates/argui-host) | 0.4.0 | 0 | Transactional native tree host shared by JavaScript framework adapters |
-| 2026-09-27 17:57:08 | [argui-automation](https://crates.io/crates/argui-automation) | 0.4.0 | 0 | Windowless Argui interaction driver and desktop process metrics |
-| 2026-09-27 17:57:11 | [argui-cli](https://crates.io/crates/argui-cli) | 0.4.0 | 0 | Command line tools for native and browser Argui TSX applications |
-| 2026-09-27 18:10:26 | [weftgraph-sdk](https://crates.io/crates/weftgraph-sdk) | 0.1.0 | 0 | SDK for the graph-storage gear: client trait, transport-agnostic models, plugin… |
-| 2026-09-27 18:10:29 | [weftgraph-onnx-embedding-plugin](https://crates.io/crates/weftgraph-onnx-embedding-plugin) | 0.1.0 | 0 | In-process ONNX embedding provider for the graph-storage gear: the default of A… |
-| 2026-09-27 18:10:30 | [weftgraph-remote-embedding-plugin](https://crates.io/crates/weftgraph-remote-embedding-plugin) | 0.1.0 | 0 | Remote embedding provider for the graph-storage gear: the alternative plugin of… |
-| 2026-09-27 18:10:32 | [weftgraph](https://crates.io/crates/weftgraph) | 0.1.0 | 0 | Graph Storage gear: typed, multi-tenant knowledge graph with search and travers… |
+| 2026-09-27 18:29:48 | [stackup-eda-parser](https://crates.io/crates/stackup-eda-parser) | 0.1.0 | 0 | Reads and writes stackup's KDL design format |
+| 2026-09-27 18:30:21 | [vysx_std](https://crates.io/crates/vysx_std) | 0.1.0 | 0 | vysx standard library, a set of utilities that default rust std does not have. |
+| 2026-09-27 18:30:25 | [stackup-eda](https://crates.io/crates/stackup-eda) | 0.1.1 | 0 | Elaborates a stackup design and writes what a PCB tool imports |
+| 2026-09-27 18:41:30 | [tollgate-core](https://crates.io/crates/tollgate-core) | 0.30.1 | 0 | Zero-I/O, clock-free domain layer for quota admission and accounting: cost tabl… |
+| 2026-09-27 18:41:35 | [tollgate-auth](https://crates.io/crates/tollgate-auth) | 0.30.1 | 0 | Credential verification for latency-critical services: digests at rest, and a s… |
+| 2026-09-27 18:41:44 | [tollgate-store](https://crates.io/crates/tollgate-store) | 0.30.1 | 0 | Storage abstraction for tollgate: LeaseAllocator, SnapshotSource, and UsageSink… |
+| 2026-09-27 18:41:54 | [tollgate-admission](https://crates.io/crates/tollgate-admission) | 0.30.1 | 0 | Per-request admission pipeline: snapshot lookup, permission and staleness check… |
+| 2026-09-27 18:42:23 | [tollgate-store-postgres](https://crates.io/crates/tollgate-store-postgres) | 0.30.1 | 0 | PostgreSQL backend for tollgate: transactional fenced lease allocation, idempot… |
+| 2026-09-27 18:44:58 | [tollgate-client](https://crates.io/crates/tollgate-client) | 0.30.1 | 0 | Instance-side quota runtime: background lease refill into the admission layer's… |
+| 2026-09-27 18:46:51 | [cs2-api](https://crates.io/crates/cs2-api) | 1.0.0 | 0 | CS2 API client for Rust: Counter-Strike 2 live scores, match results, player st… |
+| 2026-09-27 18:51:14 | [gorilla-rust](https://crates.io/crates/gorilla-rust) | 1.4.2 | 0 | A pixel-faithful Rust port of the 1990 QBasic GORILLAS, measured against the or… |
+| 2026-09-27 18:55:51 | [tollgate-server](https://crates.io/crates/tollgate-server) | 0.30.1 | 0 | Control-plane HTTP service: fenced lease allocation, snapshot distribution, ide… |
+| 2026-09-27 19:00:08 | [links_and_nodes_rdb](https://crates.io/crates/links_and_nodes_rdb) | 0.7.0 | 0 | Read Links and Nodes lnrecorder databases (lnrdb) in pure Rust. |
+| 2026-09-27 19:00:32 | [cexy](https://crates.io/crates/cexy) | 0.1.0-dev.1 | 0 | Official Rust SDK for the CEXY.io exchange API (REST + WebSocket) |
+| 2026-09-27 19:02:06 | [veloci](https://crates.io/crates/veloci) | 0.1.1 | 0 | Veloci Redactor: redact secrets and PII from text and structured files, with st… |
+| 2026-09-27 19:06:24 | [fontsrc](https://crates.io/crates/fontsrc) | 0.0.0 | 0 | Read and write authored font sources (UFO, Designspace, Glyphs) in Rust and Typ… |
+| 2026-09-27 19:06:29 | [orx-col-dim](https://crates.io/crates/orx-col-dim) | 0.1.0 | 0 | Dimension trait and implementations for multi-dimensional collections |
+| 2026-09-27 19:07:32 | [kbfold](https://crates.io/crates/kbfold) | 0.2.0 | 0 | KBFold: a multilinear polynomial commitment from the Boolean-kernel basis, with… |
+| 2026-09-27 19:08:10 | [riverqueue-pro](https://crates.io/crates/riverqueue-pro) | 0.0.0 | 0 | River Pro for Rust — placeholder for the forthcoming implementation. |
+| 2026-09-27 19:11:54 | [JoystickHackx](https://crates.io/crates/JoystickHackx) | 0.1.0 | 0 | Joystick driver for hackxpansion! |
+| 2026-09-27 19:18:44 | [mistralai-sdk](https://crates.io/crates/mistralai-sdk) | 0.4.0 | 0 | Unofficial Mistral AI SDK reproducibly generated from the official OpenAPI spec… |
 
 ## Data source
 
