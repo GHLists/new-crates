@@ -8,55 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 09:21 UTC
+## Latest list — 2026-09-27 10:19 UTC
 
-New crates published between 2026-09-27 08:18 UTC and 2026-09-27 09:21 UTC.
+New crates published between 2026-09-27 09:21 UTC and 2026-09-27 10:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-27T09-21-49-494849Z.csv)
+[Full CSV](data/new-crates-2026-09-27T10-19-50-696733Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-27 08:22:47 | [bliss-accesskit-xplat](https://crates.io/crates/bliss-accesskit-xplat) | 0.3.0 | 0 | AccessKit UI accessibility infrastructure: cross-platform adapter, forked for B… |
-| 2026-09-27 08:22:47 | [boombox-core](https://crates.io/crates/boombox-core) | 0.2.0 | 0 | Core of boombox: Spotify sign-in over PKCE, a Web API client, and configuration. |
-| 2026-09-27 08:22:48 | [bliss-anyrender-vello](https://crates.io/crates/bliss-anyrender-vello) | 0.3.0 | 0 | Vello backend for anyrender, forked for Bliss (SceneOverlay/set_scene_effects m… |
-| 2026-09-27 08:22:57 | [boombox-ipc](https://crates.io/crates/boombox-ipc) | 0.2.0 | 0 | Wire protocol spoken between the boombox daemon and its front ends, over a Unix… |
-| 2026-09-27 08:23:29 | [boombox-tui](https://crates.io/crates/boombox-tui) | 0.2.0 | 0 | Terminal front end for boombox, built on ratatui. |
-| 2026-09-27 08:23:32 | [silicon-extend-protocol](https://crates.io/crates/silicon-extend-protocol) | 1.0.0 | 0 | Wire types shared by the Silicon Extend service, client, CLI and device agents |
-| 2026-09-27 08:23:35 | [silicon-extend-client](https://crates.io/crates/silicon-extend-client) | 1.0.0 | 0 | Official Rust client for Silicon Extend: let a Silicon use a Carbon's paired de… |
-| 2026-09-27 08:23:39 | [silicon-extend-cli](https://crates.io/crates/silicon-extend-cli) | 1.0.0 | 0 | The extend command: find and use the devices a Silicon has access to |
-| 2026-09-27 08:24:26 | [boombox](https://crates.io/crates/boombox) | 0.2.0 | 0 | A Spotify client for the terminal: a TUI and a scriptable CLI over the same cor… |
-| 2026-09-27 08:29:14 | [ascalon-network](https://crates.io/crates/ascalon-network) | 0.1.0 | 0 | Unofficial Guild Wars 2 network stream codecs |
-| 2026-09-27 08:29:15 | [ascalon-packfile-schema](https://crates.io/crates/ascalon-packfile-schema) | 0.1.0 | 0 | Unofficial Guild Wars 2 packfile schema parser |
-| 2026-09-27 08:29:15 | [ascalon-protocol-schema](https://crates.io/crates/ascalon-protocol-schema) | 0.1.0 | 0 | Unofficial Guild Wars 2 protocol schema parser |
-| 2026-09-27 08:29:18 | [ascalon-asset](https://crates.io/crates/ascalon-asset) | 0.1.0 | 0 | Unofficial Guild Wars 2 asset format tools |
-| 2026-09-27 08:29:19 | [ascalon-protocol](https://crates.io/crates/ascalon-protocol) | 0.1.0 | 0 | Unofficial Guild Wars 2 protocol encoding primitives |
-| 2026-09-27 08:30:42 | [polyfactor](https://crates.io/crates/polyfactor) | 0.1.1 | 0 | Univariate factoring over prime fields, the rationals and number fields. |
-| 2026-09-27 08:31:59 | [sethu](https://crates.io/crates/sethu) | 0.1.0 | 0 | Trace OpenAPI changes into your application, repair them, and prove it. |
-| 2026-09-27 08:32:54 | [craft-codec](https://crates.io/crates/craft-codec) | 0.1.1 | 0 | Cryptographic Random-Access Framing Toolkit |
-| 2026-09-27 08:50:19 | [lovyangfx-fonts-efont-cn](https://crates.io/crates/lovyangfx-fonts-efont-cn) | 0.1.0 | 0 | eFont CN bitmap fonts for lovyangfx-fonts: 5 sizes x 4 styles (regular/bold/ita… |
-| 2026-09-27 08:55:30 | [naming-rules-lint-arwaky](https://crates.io/crates/naming-rules-lint-arwaky) | 3.7.1 | 0 | Naming-convention enforcer for AES101 and AES102. |
-| 2026-09-27 08:55:47 | [import-rules-lint-arwaky](https://crates.io/crates/import-rules-lint-arwaky) | 3.7.1 | 0 | Import-compliance checks covering AES201–AES205: dummy/unused/forbidden/mandato… |
-| 2026-09-27 08:56:04 | [quality-rules-lint-arwaky](https://crates.io/crates/quality-rules-lint-arwaky) | 3.7.1 | 0 | Code-quality analyzers covering AES301–AES305. |
-| 2026-09-27 08:56:22 | [orphan-rules-lint-arwaky](https://crates.io/crates/orphan-rules-lint-arwaky) | 3.7.1 | 0 | Unreachable/dead component detector covering AES501-AES506. |
-| 2026-09-27 08:56:39 | [role-rules-lint-arwaky](https://crates.io/crates/role-rules-lint-arwaky) | 3.7.1 | 0 | Architectural role-layer violation checks covering AES401–AES406. |
-| 2026-09-27 08:57:15 | [framework-datetime](https://crates.io/crates/framework-datetime) | 26.8.145 | 0 | lingting framework |
-| 2026-09-27 08:57:15 | [framework-proc-core](https://crates.io/crates/framework-proc-core) | 26.8.145 | 0 | lingting framework |
-| 2026-09-27 08:57:15 | [framework-proc-web](https://crates.io/crates/framework-proc-web) | 26.8.145 | 0 | lingting framework |
-| 2026-09-27 08:57:16 | [framework-region](https://crates.io/crates/framework-region) | 26.8.145 | 0 | lingting framework |
-| 2026-09-27 08:57:17 | [framework-proc-auto](https://crates.io/crates/framework-proc-auto) | 26.8.145 | 0 | lingting framework |
-| 2026-09-27 08:57:49 | [auto-fix-lint-arwaky](https://crates.io/crates/auto-fix-lint-arwaky) | 3.7.1 | 0 | Auto-fix processor that applies mechanical corrections for AES rule violations. |
-| 2026-09-27 08:59:14 | [scytale-cli](https://crates.io/crates/scytale-cli) | 0.9.0 | 0 | The scytale cryptography library from a shell: AES, ChaCha20, AEAD, hashes, MAC… |
-| 2026-09-27 09:06:05 | [polyxor](https://crates.io/crates/polyxor) | 0.1.0 | 0 | A fast, 128-bit universal hashing algorithm. |
-| 2026-09-27 09:08:08 | [git-hooks-lint-arwaky](https://crates.io/crates/git-hooks-lint-arwaky) | 3.7.1 | 0 | Git hooks feature crate — pre-commit enforcement and diff analysis. |
-| 2026-09-27 09:09:10 | [nagrpc-build](https://crates.io/crates/nagrpc-build) | 2.0.0 | 0 | Reproducible protobuf/gRPC codegen with vendored protoc, descriptors, compatibi… |
-| 2026-09-27 09:12:36 | [flare-db-macros](https://crates.io/crates/flare-db-macros) | 0.1.0 | 0 | Proc-macro crate for flare-db: derives the Crud impl (list/get/create/update/de… |
-| 2026-09-27 09:16:55 | [flare-db](https://crates.io/crates/flare-db) | 0.1.0 | 0 | Async, sqlx-backed repository derive macro (list/get/create/update/delete/count… |
-| 2026-09-27 09:19:02 | [maintenance-lint-arwaky](https://crates.io/crates/maintenance-lint-arwaky) | 3.7.1 | 0 | Maintenance features: doctor, stats, clean, update, security scan, dependency r… |
-| 2026-09-27 09:21:01 | [community-databricks-core](https://crates.io/crates/community-databricks-core) | 0.1.0 | 0 | Runtime for the community-maintained Databricks Rust SDK: unified config, authe… |
-| 2026-09-27 09:21:04 | [community-databricks-sdk-agentbricks](https://crates.io/crates/community-databricks-sdk-agentbricks) | 0.1.0 | 0 | Databricks `agentbricks` API models and services (community-maintained, generat… |
-| 2026-09-27 09:21:05 | [community-databricks-sdk-aifunctions](https://crates.io/crates/community-databricks-sdk-aifunctions) | 0.1.0 | 0 | Databricks `aifunctions` API models and services (community-maintained, generat… |
-| 2026-09-27 09:21:07 | [community-databricks-sdk-aisearch](https://crates.io/crates/community-databricks-sdk-aisearch) | 0.1.0 | 0 | Databricks `aisearch` API models and services (community-maintained, generated;… |
-| 2026-09-27 09:21:11 | [community-databricks-sdk-apps](https://crates.io/crates/community-databricks-sdk-apps) | 0.1.0 | 0 | Databricks `apps` API models and services (community-maintained, generated; use… |
+| 2026-09-27 09:24:41 | [namigrate-core](https://crates.io/crates/namigrate-core) | 2.0.0 | 0 | Backend-neutral migration state comparison and failure contracts |
+| 2026-09-27 09:25:25 | [suriconf](https://crates.io/crates/suriconf) | 1.0.0-dev | 0 | A tool for automating Suricata setup and configuration. |
+| 2026-09-27 09:26:37 | [context-logger-derive](https://crates.io/crates/context-logger-derive) | 0.2.1 | 0 | Procedural macros for context-logger. |
+| 2026-09-27 09:27:52 | [tui-lint-arwaky](https://crates.io/crates/tui-lint-arwaky) | 3.7.1 | 0 | Ratatui-based interactive TUI for lint-arwaky |
+| 2026-09-27 09:29:50 | [community-databricks-sdk-compute](https://crates.io/crates/community-databricks-sdk-compute) | 0.1.0 | 0 | Databricks `compute` API models and services (community-maintained, generated;… |
+| 2026-09-27 09:30:02 | [flow-runner](https://crates.io/crates/flow-runner) | 0.1.0 | 0 | An embeddable, deterministic, sans-I/O decision engine — flows are graphs of no… |
+| 2026-09-27 09:33:32 | [wist-delivery](https://crates.io/crates/wist-delivery) | 0.1.3 | 0 | Delivery-integrity primitives for the wist data plane: gap detection, dedup, fi… |
+| 2026-09-27 09:38:07 | [framework-proc-ts](https://crates.io/crates/framework-proc-ts) | 26.8.150 | 0 | lingting framework |
+| 2026-09-27 09:38:29 | [pabal](https://crates.io/crates/pabal) | 0.1.0 | 0 | Typed hook payloads and responses for Claude Code and Codex |
+| 2026-09-27 09:38:41 | [framework-core](https://crates.io/crates/framework-core) | 26.8.150 | 0 | lingting framework |
+| 2026-09-27 09:39:48 | [framework-web](https://crates.io/crates/framework-web) | 26.8.150 | 0 | lingting framework |
+| 2026-09-27 09:39:50 | [community-databricks-sdk-billing](https://crates.io/crates/community-databricks-sdk-billing) | 0.1.0 | 0 | Databricks `billing` API models and services (community-maintained, generated;… |
+| 2026-09-27 09:40:22 | [framework-web-axum](https://crates.io/crates/framework-web-axum) | 26.8.150 | 0 | lingting framework |
+| 2026-09-27 09:42:23 | [external-lint-lint-arwaky](https://crates.io/crates/external-lint-lint-arwaky) | 3.7.1 | 0 | External linter adapters (clippy, ruff, eslint, etc.). |
+| 2026-09-27 09:44:14 | [winisland-plugin-package](https://crates.io/crates/winisland-plugin-package) | 0.8.0 | 0 | Packaging, activation, and marketplace catalog support for WinIsland plugins |
+| 2026-09-27 09:47:02 | [omgbase-fs-adapter](https://crates.io/crates/omgbase-fs-adapter) | 0.1.0 | 0 | omgbase filesystem sync adapter: walk, watch, read and write a directory tree o… |
+| 2026-09-27 09:49:50 | [community-databricks-sdk-bundledeployments](https://crates.io/crates/community-databricks-sdk-bundledeployments) | 0.1.0 | 0 | Databricks `bundledeployments` API models and services (community-maintained, g… |
+| 2026-09-27 09:52:30 | [file-watch-lint-arwaky](https://crates.io/crates/file-watch-lint-arwaky) | 3.7.1 | 0 | File-watch feature crate — real-time file change detection and incremental lint… |
+| 2026-09-27 09:59:50 | [community-databricks-sdk-catalog](https://crates.io/crates/community-databricks-sdk-catalog) | 0.1.0 | 0 | Databricks `catalog` API models and services (community-maintained, generated;… |
+| 2026-09-27 10:02:29 | [crypt_guard_core](https://crates.io/crates/crypt_guard_core) | 3.1.0 | 0 | Cryptographic core of CryptGuard (use the `crypt_guard` facade crate). CryptGua… |
+| 2026-09-27 10:02:36 | [crypt_guard_service](https://crates.io/crates/crypt_guard_service) | 3.1.0 | 0 | Typed, ownership-preserving Tower crypto/KMS service layer for CryptGuard (no H… |
+| 2026-09-27 10:02:36 | [project-setup-lint-arwaky](https://crates.io/crates/project-setup-lint-arwaky) | 3.7.1 | 0 | Project scaffolding and doctor checks. |
+| 2026-09-27 10:02:53 | [crypt_guard_hyper](https://crates.io/crates/crypt_guard_hyper) | 3.1.0 | 0 | Hyper/HTTP adapter for the CryptGuard crypto service: bounded bodies, error map… |
+| 2026-09-27 10:09:50 | [community-databricks-sdk-jobs](https://crates.io/crates/community-databricks-sdk-jobs) | 0.1.0 | 0 | Databricks `jobs` API models and services (community-maintained, generated; use… |
+| 2026-09-27 10:10:38 | [nanotify-core](https://crates.io/crates/nanotify-core) | 2.0.0 | 0 | Optional business-initialized notifications with bounded non-blocking queues an… |
+| 2026-09-27 10:19:16 | [ibis](https://crates.io/crates/ibis) | 0.1.0 | 0 | WIP |
+| 2026-09-27 10:19:50 | [community-databricks-sdk-iam](https://crates.io/crates/community-databricks-sdk-iam) | 0.1.0 | 0 | Databricks `iam` API models and services (community-maintained, generated; use… |
 
 ## Data source
 

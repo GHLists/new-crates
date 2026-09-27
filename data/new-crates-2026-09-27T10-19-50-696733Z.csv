@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T09:24:41.876816Z,namigrate-core,2.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,Backend-neutral migration state comparison and failure contracts
+2026-09-27T09:25:25.216521Z,suriconf,1.0.0-dev,0,0,https://github.com/CESNET/Suriconf,A tool for automating Suricata setup and configuration.
+2026-09-27T09:26:37.192149Z,context-logger-derive,0.2.1,0,0,https://github.com/alekseysidorov/context-logger,Procedural macros for context-logger.
+2026-09-27T09:27:52.595536Z,tui-lint-arwaky,3.7.1,0,0,,Ratatui-based interactive TUI for lint-arwaky
+2026-09-27T09:29:50.390991Z,community-databricks-sdk-compute,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `compute` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T09:30:02.542909Z,flow-runner,0.1.0,0,0,https://github.com/sinha-sahil/flow-runner,"An embeddable, deterministic, sans-I/O decision engine — flows are graphs of nodes whose expressions are temple-dsl templates"
+2026-09-27T09:33:32.276554Z,wist-delivery,0.1.3,0,0,https://github.com/dayu-sec/wist-delivery,"Delivery-integrity primitives for the wist data plane: gap detection, dedup, filtering, and end-to-end reconciliation"
+2026-09-27T09:38:07.791412Z,framework-proc-ts,26.8.150,0,0,https://github.com/lingting-projects/lingting-rust-framework,lingting framework
+2026-09-27T09:38:29.47348Z,pabal,0.1.0,0,0,https://github.com/AbysmalBiscuit/pabal,Typed hook payloads and responses for Claude Code and Codex
+2026-09-27T09:38:41.416317Z,framework-core,26.8.150,0,0,https://github.com/lingting-projects/lingting-rust-framework,lingting framework
+2026-09-27T09:39:48.086895Z,framework-web,26.8.150,0,0,https://github.com/lingting-projects/lingting-rust-framework,lingting framework
+2026-09-27T09:39:50.546104Z,community-databricks-sdk-billing,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `billing` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T09:40:22.79063Z,framework-web-axum,26.8.150,0,0,https://github.com/lingting-projects/lingting-rust-framework,lingting framework
+2026-09-27T09:42:23.532221Z,external-lint-lint-arwaky,3.7.1,0,0,https://github.com/rakaarwaky/lint-arwaky,"External linter adapters (clippy, ruff, eslint, etc.)."
+2026-09-27T09:44:14.48773Z,winisland-plugin-package,0.8.0,0,0,https://github.com/WinIslandProject/WinIsland,"Packaging, activation, and marketplace catalog support for WinIsland plugins"
+2026-09-27T09:47:02.286416Z,omgbase-fs-adapter,0.1.0,0,0,https://github.com/omgbase/omgbase,"omgbase filesystem sync adapter: walk, watch, read and write a directory tree over the stdio adapter protocol of spec/sync §5 — Rust implementation of @omgbase/fs-adapter, the `omgbase-fs-adapter` bi…"
+2026-09-27T09:49:50.423966Z,community-databricks-sdk-bundledeployments,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `bundledeployments` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T09:52:30.85168Z,file-watch-lint-arwaky,3.7.1,0,0,,File-watch feature crate — real-time file change detection and incremental lint pipeline.
+2026-09-27T09:59:50.587173Z,community-databricks-sdk-catalog,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `catalog` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T10:02:29.630663Z,crypt_guard_core,3.1.0,0,0,https://github.com/mm9942/crypt_guard,"Cryptographic core of CryptGuard (use the `crypt_guard` facade crate). CryptGuard is a post-quantum cryptography framework with NIST FIPS 203/204/205 (ML-KEM, ML-DSA, SLH-DSA) plus legacy Kyber/Falco…"
+2026-09-27T10:02:36.413114Z,crypt_guard_service,3.1.0,0,0,https://github.com/mm9942/crypt_guard,"Typed, ownership-preserving Tower crypto/KMS service layer for CryptGuard (no HTTP). Use it through the `crypt_guard` facade with `--features service`."
+2026-09-27T10:02:36.734776Z,project-setup-lint-arwaky,3.7.1,0,0,,Project scaffolding and doctor checks.
+2026-09-27T10:02:53.366879Z,crypt_guard_hyper,3.1.0,0,0,https://github.com/mm9942/crypt_guard,"Hyper/HTTP adapter for the CryptGuard crypto service: bounded bodies, error mapping and the TowerToHyperService bridge. Use it through the `crypt_guard` facade with `--features hyper`."
+2026-09-27T10:09:50.919505Z,community-databricks-sdk-jobs,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `jobs` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-09-27T10:10:38.322579Z,nanotify-core,2.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,Optional business-initialized notifications with bounded non-blocking queues and atomic delivery metrics
+2026-09-27T10:19:16.417045Z,ibis,0.1.0,0,0,,WIP
+2026-09-27T10:19:50.382109Z,community-databricks-sdk-iam,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `iam` API models and services (community-maintained, generated; use via community-databricks-sdk)"
