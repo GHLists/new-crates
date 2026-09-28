@@ -1,0 +1,10 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T16:28:54.762109Z,cratefield-adapter-workers-ai,0.2.0,0,0,https://github.com/Cratefield/harness,Classifier port over the Cloudflare Workers AI binding for the Cratefield harness
+2026-09-28T16:29:12.984778Z,cratefield-module-telemetry,0.2.0,0,0,https://github.com/Cratefield/harness,"Cratefield module: counted aggregate usage telemetry with a consent model built in — pseudonymous, with no stored link to a person"
+2026-09-28T16:38:54.438729Z,bose-bmap,0.4.1,0,0,https://github.com/aaronsb/bosectl,Control Bluetooth audio devices over the BMAP protocol
+2026-09-28T16:39:32.299536Z,flannrust,0.1.0,0,0,https://github.com/sitzikbs/flannrust,Bit-exact Rust port of nanoflann's static kd-tree (KDTreeSingleIndexAdaptor)
+2026-09-28T16:40:23.865101Z,arboresce,0.0.0,0,0,https://github.com/arboresce/arboresce,Rust SDK for the Arboresce engine
+2026-09-28T16:53:20.910117Z,cratefield-client-ts,0.2.0,0,0,https://github.com/Cratefield/harness,"The deterministic TypeScript client generator: a /__surface contract in, the files of a typed @cratefield/client package out"
+2026-09-28T16:55:22.780356Z,lenso-capability-configuration-source,0.1.0,0,0,https://github.com/LioRael/lenso,Portable bootstrap Configuration Source Capability for Lenso Hosts
+2026-09-28T16:56:35.045869Z,egui_filter_layers,0.1.0,0,0,https://github.com/Vasyanator/egui_filter_layers,"GPU filter layers for egui: redraw everything painted beneath a rect through a chain of WGSL effects (blur, colour adjustments, refraction, custom shaders) on egui_glow and egui-wgpu."
+2026-09-28T17:02:41.004878Z,souls-cli,0.0.1,0,0,https://github.com/Secure-Your-Soul/SoulsCLI,SoulsCLI for the Secure Your Soul project
