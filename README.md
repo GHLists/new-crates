@@ -8,24 +8,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 21:18 UTC
+## Latest list — 2026-09-28 22:21 UTC
 
-New crates published between 2026-09-28 20:18 UTC and 2026-09-28 21:18 UTC.
+New crates published between 2026-09-28 21:18 UTC and 2026-09-28 22:21 UTC.
 
-[Full CSV](data/new-crates-2026-09-28T21-18-55-335087Z.csv)
+[Full CSV](data/new-crates-2026-09-28T22-21-59-188802Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-28 20:20:37 | [isb](https://crates.io/crates/isb) | 0.1.1 | 0 | Declarative incus sandboxes: a library, a CLI and a compose-style YAML spec tha… |
-| 2026-09-28 20:24:16 | [vetis-rhai](https://crates.io/crates/vetis-rhai) | 0.1.0 | 0 | Very Tiny Server Flash Static Content support |
-| 2026-09-28 20:31:51 | [vetis-log](https://crates.io/crates/vetis-log) | 0.1.0-beta.1 | 0 | Very Tiny Server logging support |
-| 2026-09-28 20:41:34 | [splein](https://crates.io/crates/splein) | 0.0.1-rc.1 | 0 | Draw screen overlay |
-| 2026-09-28 20:48:44 | [srf05](https://crates.io/crates/srf05) | 1.0.0 | 0 | Driver for the SRF05 ultrasonic rangefinder: blocking and interrupt-friendly, e… |
-| 2026-09-28 20:52:45 | [asqr](https://crates.io/crates/asqr) | 0.9.0 | 0 | Answer questions an AI agent or a script prepared for you, right in your termin… |
-| 2026-09-28 20:57:23 | [axioval-bcf](https://crates.io/crates/axioval-bcf) | 0.3.0 | 0 | BCF issue archives from Axioval validation reports |
-| 2026-09-28 21:00:04 | [graphlaw-eyeron](https://crates.io/crates/graphlaw-eyeron) | 0.7.7 | 0 | Eyeron, a native Rust Notation3 reasoner, vendored for GraphLaw with a WASI clo… |
-| 2026-09-28 21:00:42 | [graphlaw](https://crates.io/crates/graphlaw) | 26.9.28 | 0 | GraphLaw: library-backed RDF law-state composition over PurRDF and Eyeron |
-| 2026-09-28 21:14:38 | [signstar-yubihsm2](https://crates.io/crates/signstar-yubihsm2) | 0.1.0 | 0 | Integration for YubiHSM2 devices as Signstar backend |
+| 2026-09-28 21:24:07 | [bank2hledger](https://crates.io/crates/bank2hledger) | 0.1.0 | 0 | Import bank transaction exports (CSV/XLS/PDF) and API fetchers into your hledge… |
+| 2026-09-28 21:24:27 | [tentzhen](https://crates.io/crates/tentzhen) | 0.0.1 | 0 | Host tools for Tentzhen, a bench of open, verifiable, low-cost electronics inst… |
+| 2026-09-28 21:30:48 | [squarkdown](https://crates.io/crates/squarkdown) | 4.0.0-alpha.0 | 0 | Markdown preprocessing for SvelteKit projects |
+| 2026-09-28 21:32:03 | [meowprint](https://crates.io/crates/meowprint) | 0.1.0 | 0 | Rust library for printing on Bluetooth cat printers |
+| 2026-09-28 21:34:56 | [dekit](https://crates.io/crates/dekit) | 0.10.0 | 0 | Process manager for dev and prod |
+| 2026-09-28 21:47:04 | [medeia](https://crates.io/crates/medeia) | 0.1.0 | 0 | move along now |
+| 2026-09-28 21:52:54 | [delink-ng](https://crates.io/crates/delink-ng) | 0.2.0 | 0 | A crypto library to decrypt various encrypted D-Link firmware images. |
+| 2026-09-28 21:53:39 | [eggup-archive](https://crates.io/crates/eggup-archive) | 0.1.2 | 0 | Bounded allowlisted local archive extraction for Eggup (no transport, authentic… |
+| 2026-09-28 22:00:01 | [audiofox](https://crates.io/crates/audiofox) | 1.0.0 | 0 | Cross platform audio capture made easy! |
+| 2026-09-28 22:15:07 | [fastshell-pymath](https://crates.io/crates/fastshell-pymath) | 0.2.100 | 0 | A binary representation compatible Rust implementation of Python's math library. |
+| 2026-09-28 22:15:48 | [zstd-rs](https://crates.io/crates/zstd-rs) | 0.1.0 | 0 | Pure-Rust, no_std, wasm32-ready Zstandard (RFC 8878) compressor and decompresso… |
+| 2026-09-28 22:15:51 | [zstd-rs-exec](https://crates.io/crates/zstd-rs-exec) | 0.1.0 | 0 | Native thread executor for zstd-rs's parallel job API |
+| 2026-09-28 22:19:04 | [fastshell-rustpython-stdlib](https://crates.io/crates/fastshell-rustpython-stdlib) | 0.5.100 | 0 | RustPython standard libraries in Rust. |
+| 2026-09-28 22:19:36 | [shipfitter](https://crates.io/crates/shipfitter) | 0.1.0 | 0 | Build and packaging helpers for Rust desktop apps: docs, installers, app bundle… |
 
 ## Data source
 

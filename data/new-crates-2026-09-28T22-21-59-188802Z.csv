@@ -1,0 +1,15 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T21:24:07.129191Z,bank2hledger,0.1.0,0,0,https://github.com/AfonsoNeto/bank2hledger,"Import bank transaction exports (CSV/XLS/PDF) and API fetchers into your hledger journal with dedup, categorization rules, and a review-before-approve workflow."
+2026-09-28T21:24:27.078576Z,tentzhen,0.0.1,0,0,https://github.com/via-balaena/tentzhen,"Host tools for Tentzhen, a bench of open, verifiable, low-cost electronics instruments (placeholder, nothing works yet)"
+2026-09-28T21:30:48.904792Z,squarkdown,4.0.0-alpha.0,0,0,https://github.com/Sup2point0/stranger-quarkdown,Markdown preprocessing for SvelteKit projects
+2026-09-28T21:32:03.975229Z,meowprint,0.1.0,0,0,,Rust library for printing on Bluetooth cat printers
+2026-09-28T21:34:56.518103Z,dekit,0.10.0,0,0,https://github.com/pvolok/dekit,Process manager for dev and prod
+2026-09-28T21:47:04.557651Z,medeia,0.1.0,0,0,,move along now
+2026-09-28T21:52:54.329639Z,delink-ng,0.2.0,0,0,https://github.com/binwalk-ng/delink-ng,A crypto library to decrypt various encrypted D-Link firmware images.
+2026-09-28T21:53:39.799017Z,eggup-archive,0.1.2,0,0,https://github.com/eggstack/eggup,"Bounded allowlisted local archive extraction for Eggup (no transport, authenticity, or live-installation policy)"
+2026-09-28T22:00:01.907056Z,audiofox,1.0.0,0,0,https://codeberg.org/foxberries/audiofox,Cross platform audio capture made easy!
+2026-09-28T22:15:07.619795Z,fastshell-pymath,0.2.100,0,0,https://github.com/kandada/fastshell,A binary representation compatible Rust implementation of Python's math library.
+2026-09-28T22:15:48.629913Z,zstd-rs,0.1.0,0,0,https://github.com/Avarok-Cybersecurity/zstd-rs,"Pure-Rust, no_std, wasm32-ready Zstandard (RFC 8878) compressor and decompressor with dictionary support; interoperates with the reference C zstd in both directions"
+2026-09-28T22:15:51.937787Z,zstd-rs-exec,0.1.0,0,0,https://github.com/Avarok-Cybersecurity/zstd-rs,Native thread executor for zstd-rs's parallel job API
+2026-09-28T22:19:04.791722Z,fastshell-rustpython-stdlib,0.5.100,0,0,https://github.com/kandada/fastshell,RustPython standard libraries in Rust.
+2026-09-28T22:19:36.67137Z,shipfitter,0.1.0,0,0,https://github.com/trypsynth/shipfitter,"Build and packaging helpers for Rust desktop apps: docs, installers, app bundles and archives"
