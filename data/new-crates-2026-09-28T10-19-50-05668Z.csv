@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T09:24:41.374007Z,slotring,0.1.0,0,0,https://github.com/birchrust/slotring,Fixed-capacity FIFO ring buffer with stable physical slots
+2026-09-28T09:26:19.11489Z,synthlite,0.4.0,0,0,https://github.com/scogo-ai/synthlite,"Prompts in, a private fine-tuning dataset out: one teacher call per prompt, no LLM judge, crash-safe resume, one static binary."
+2026-09-28T09:34:24.918829Z,hande-api,1.0.0,0,0,,"The bookmark-resolution engine behind hande: parses the bookmark DSL and knows how to open, list, delete and update bookmarks. Consumed by hande's cli and shell clients."
+2026-09-28T09:35:15.396611Z,belajar-say-hello-2,0.3.0,0,0,,This is say hello library
+2026-09-28T09:36:06.169821Z,fusion-pcu-tensor,0.0.0,0,0,https://github.com/Private-Asylum/Fusion-PCU,Experimental typed tensor dialect and deterministic CPU reference evaluator for Fusion PCU
+2026-09-28T09:37:32.760996Z,hande,1.0.0,0,0,,"HANDE, Let's Go!, is a powerful bookmark manager to keep track of your favorites both on the filesystem and the web."
+2026-09-28T09:46:15.950844Z,fusion-pcu-rocm,0.0.1,0,0,https://github.com/Private-Asylum/Fusion-PCU,ROCm compute backend for Fusion PCU on AMD GPUs
+2026-09-28T09:50:48.250273Z,banter-macros,0.1.0,0,0,https://github.com/cestef/banter,"Procedural macros for banter: command tables from impl blocks, FromArg for enums."
+2026-09-28T09:50:53.784077Z,banter,0.1.0,0,0,https://github.com/cestef/banter,"Tiny framework for line-based interactive services: one command table, served over stdio or TCP."
+2026-09-28T10:05:47.648997Z,fusion-pcu-metal,0.0.2,0,0,https://github.com/Private-Asylum/Fusion-PCU,Metal backend scaffold for Fusion PCU
+2026-09-28T10:05:48.020518Z,fusion-pcu-mlx,0.0.2,0,0,https://github.com/Private-Asylum/Fusion-PCU,MLX backend scaffold for Fusion PCU on Apple silicon
+2026-09-28T10:05:57.27618Z,omina,1.0.1,0,0,,Typed decision-model toolchain for robotics and edge systems
+2026-09-28T10:06:14.038834Z,mesh-llm-wallet,0.77.0,0,0,https://github.com/Mesh-LLM/mesh-llm,Provider-neutral Lightning wallet abstraction and the wallet.v1 plugin contract
+2026-09-28T10:07:55.374523Z,mesh-wallet-lexe,0.77.0,0,0,https://github.com/Mesh-LLM/mesh-llm,"Lexe Lightning wallet plugin for mesh-llm (wallet.v1), served as a built-in `mesh-llm --plugin wallet-lexe` process"
+2026-09-28T10:08:30.287355Z,mesh-llm-payments-types,0.77.0,0,0,https://github.com/Mesh-LLM/mesh-llm,"Pure payment data types (pricing, request terms, wire frames) shared by mesh core and mesh-llm-payments"
+2026-09-28T10:09:12.661329Z,mesh-llm-payments,0.77.0,0,0,https://github.com/Mesh-LLM/mesh-llm,"Durable inference settlement: ledger, pricing, budgets and payment gates over a pluggable wallet"
+2026-09-28T10:09:41.383094Z,icon-rs,0.1.0,0,0,https://github.com/rvdende/icon-rs,SVG icon set for CAD feature tools
+2026-09-28T10:10:46.895244Z,fastmarkdown,0.1.1,0,0,https://github.com/kandada/fastshell,Blazing fast cross-platform Markdown renderer with native object output for iOS/Android
+2026-09-28T10:11:41.582666Z,vivy-core,0.1.0,0,0,https://github.com/one2seven-oss/vivy,"Core vector index engine for Vivy — single-machine, memory-honest vector search"
+2026-09-28T10:12:01.323443Z,vivy-memory,0.1.0,0,0,https://github.com/one2seven-oss/vivy,"Local, durable, namespace-isolated long-term memory for AI agents"
+2026-09-28T10:14:45.472416Z,slipway-core,0.1.0,0,0,https://github.com/anishukserg/slipway,"Slipway: общие типы и макросы — ссылочные newtype, NonEmpty, обратимость, таксономия"
+2026-09-28T10:14:56.959275Z,slipway-journal,0.1.0,0,0,https://github.com/anishukserg/slipway,"Slipway: журнал слоя работы — формат событий, автомат переходов, свёртка"
+2026-09-28T10:15:07.235573Z,slipway-knowledge,0.1.0,0,0,https://github.com/anishukserg/slipway,"Slipway: слой знания — схема решений, спецификаций, глоссария"
+2026-09-28T10:15:16.114453Z,slipway-derive,0.1.0,0,0,https://github.com/anishukserg/slipway,Slipway: атрибут-маркер #[doc_anchor] для разметки кода
+2026-09-28T10:15:29.860471Z,slipway-scan,0.1.0,0,0,https://github.com/anishukserg/slipway,Slipway: скан реестра и порождение модулей констант для ссылок
+2026-09-28T10:17:50.491565Z,fusion-pcu-spirv,0.0.2,0,0,https://github.com/Private-Asylum/Fusion-PCU,SPIR-V lowering backend for Fusion PCU
+2026-09-28T10:19:31.528213Z,plutosdr-rs,0.1.0,0,0,https://github.com/bastibl/plutosdr-rs,Native Rust PlutoSDR IIO-over-USB driver using nusb
