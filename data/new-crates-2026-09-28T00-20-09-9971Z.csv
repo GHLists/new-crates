@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-27T23:27:35.362322Z,iana-dscp-registry,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the dscp-registry family.
+2026-09-27T23:37:32.709098Z,iana-srtp-protection,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the srtp-protection family.
+2026-09-27T23:47:36.240302Z,iana-rtcp,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the rtcp family.
+2026-09-27T23:54:27.870729Z,runner-run-core,0.27.0,0,0,https://github.com/kjanat/runner,"Core types and pipeline of runner-run. Internal, no stable API"
+2026-09-27T23:54:30.445202Z,runner-run-schemes,0.27.0,0,0,https://github.com/kjanat/runner,"Version grammars of runner-run; internal, no stable API"
+2026-09-27T23:54:33.032918Z,runner-run-providers,0.27.0,0,0,https://github.com/kjanat/runner,"Provider declarations of runner-run; internal, no stable API"
+2026-09-27T23:57:33.744111Z,iana-sctp-parameters,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the sctp-parameters family.
+2026-09-27T23:59:55.125306Z,bevy_steam_lobby,0.1.0,0,0,https://github.com/warmar94/bevy_steam_lobby,"Game-agnostic Steam lobbies for Bevy: friends-only lobbies, rich presence (""Join Game"" in the friends list), invites and friend-join requests as Bevy messages, with a fake backend for tests."
+2026-09-28T00:07:28.600527Z,snot-syntax,0.1.0,0,0,https://github.com/zjom/snot,"Parser for Simple Note Format: lines, scopes, metadata tokens and links."
+2026-09-28T00:07:31.306649Z,snot-fmt,0.1.0,0,0,https://github.com/zjom/snot,Formatter for Simple Note Format.
+2026-09-28T00:07:32.14043Z,snot-workspace,0.1.0,0,0,https://github.com/zjom/snot,"A collection of Simple Note Format notes: its root, configuration and cross-note index."
+2026-09-28T00:07:33.512397Z,iana-dcep-parameters,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the dcep-parameters family.
+2026-09-28T00:07:34.28759Z,snot-check,0.1.0,0,0,https://github.com/zjom/snot,Syntax and workspace diagnostics for Simple Note Format.
+2026-09-28T00:07:36.833407Z,snot-lsp,0.1.0,0,0,https://github.com/zjom/snot,Language server for Simple Note Format.
+2026-09-28T00:15:33.30722Z,snot,0.1.0,0,0,https://github.com/zjom/snot,"Formatter, checker and language server for Simple Note Format."
+2026-09-28T00:16:50.487737Z,fframes_native_player,1.0.0-beta.7.rc-40,0,0,https://github.com/dmtrKovalenko/fframes,"Real-time native preview window for fframes videos, rendered with Skia"
+2026-09-28T00:16:52.403308Z,cargo-fframes,1.0.0-beta.7.rc-40,0,0,https://github.com/dmtrKovalenko/fframes,Creates new fframes video projects: `cargo fframes new my-video`
+2026-09-28T00:17:32.979881Z,iana-link-relations,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the link-relations family.
