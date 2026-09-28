@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T15:24:29.608725Z,auv-driver-overlay-windows,0.0.22,0,0,https://github.com/moeru-ai/auv,Windows overlay driver for AUV
+2026-09-28T15:24:47.449288Z,dotcode-sdk,0.1.0,0,0,https://github.com/DotNetVibeCoderz/Vibe_Dev,"Rust SDK for DotCode: embed a multi-LLM coding agent (Anthropic, OpenAI, Azure, Gemini, DeepSeek, Ollama) via JSON-RPC to `dotcode serve`. By Gravicode Studios."
+2026-09-28T15:29:18.16446Z,lapilli-bundle,0.1.0,0,0,https://github.com/lapilli-project/lapilli,"Lapilli Incident Evidence Bundle (IEB): manifest, content hash tree, seal, verify, and cosign-compatible signing. No Kubernetes dependencies — shared by the controller (sealer) and the CLI (verifier)."
+2026-09-28T15:29:26.674146Z,lapilli-net,0.1.0,0,0,https://github.com/lapilli-project/lapilli,"Lapilli's outbound HTTP rules: strict endpoint parsing, no redirects, refused address ranges."
+2026-09-28T15:30:27.177056Z,lapilli-kms,0.1.0,0,0,https://github.com/lapilli-project/lapilli,"KMS-backed bundle signing for Lapilli: AWS KMS and GCP Cloud KMS, without cloud SDKs."
+2026-09-28T15:31:03.980205Z,lapilli,0.1.0,0,0,https://github.com/lapilli-project/lapilli,"Lapilli CLI: `lapilli verify` (offline bundle verification), `postmortem`, `mcp`, `demo`, `keygen` and `key fetch`."
+2026-09-28T15:31:38.855753Z,lapilli-controller,0.1.0,0,0,https://github.com/lapilli-project/lapilli,Lapilli controller: Alertmanager webhook → IncidentCapture CR → collect → seal → export.
+2026-09-28T15:31:47.325495Z,faultscope-core,0.2.11,0,0,https://github.com/yuguoshao/FaultScope,"Python-independent circuit, DEM, sampling, and decoder primitives for FaultScope"
+2026-09-28T15:33:16.944637Z,i5h,0.1.0,0,0,https://github.com/h5i-dev/i5h,Core contract between a verified i5h kernel and its untrusted shell
+2026-09-28T15:33:17.299948Z,i5h-json,0.1.0,0,0,https://github.com/h5i-dev/i5h,"JSON writer for i5h replies, extracted to Lean and proven"
+2026-09-28T15:33:17.439594Z,i5h-schema,0.1.0,0,0,https://github.com/h5i-dev/i5h,Declare kernel row types once; get the structs and their table mappings
+2026-09-28T15:33:17.597524Z,i5h-sql,0.1.0,0,0,https://github.com/h5i-dev/i5h,Pure planner from i5h write sets to keyed SQL statements; extracted to Lean and proven
+2026-09-28T15:33:17.755157Z,i5h-token,0.1.0,0,0,https://github.com/h5i-dev/i5h,"Bearer token encoding and parsing for i5h, extracted to Lean and proven"
+2026-09-28T15:34:33.552231Z,auv-task-object-detection,0.0.22,0,0,https://github.com/moeru-ai/auv,Optional object detection task implementation for AUV
+2026-09-28T15:36:40.21685Z,dream-soft-render,1.0.0,0,0,https://github.com/DreamWeave-MP/dream-soft-render,"Deterministic CPU rasterizer for 2D meshes and egui frames, writing premultiplied RGBA8"
+2026-09-28T15:37:30.032437Z,reqtk,0.1.0,0,0,https://github.com/nandee95/reqtk,"ReqTk is a requirements management toolkit built around a human-readable, git-friendly `.req` file format."
+2026-09-28T15:38:38.028565Z,hotrod-protocol,0.1.1,0,0,https://github.com/marciopaiva/infinispan-hotrod-rs,Pure Rust client for the Infinispan/Red Hat Data Grid Hot Rod binary protocol
+2026-09-28T15:39:42.940791Z,kcode-k1-access-full-audio-classifier-testkit,0.1.0,0,0,,Conformance testkit for classifier-aware access-controlled K1 full audio
+2026-09-28T15:40:26.101106Z,i5h-pgsql,0.1.0,0,0,https://github.com/h5i-dev/i5h,PostgreSQL text for i5h's planned statements; extracted to Lean and proven to mean what the planner's statements mean
+2026-09-28T15:40:53.547208Z,literium-core,0.1.0,0,0,https://gitlab.com/literium/literium-rs,"Literium's identity layer: content extraction, segmentation, and derivation of the content-addressed atom/grex objects (SPEC §3-§6)."
+2026-09-28T15:41:26.802891Z,literium,0.1.0,0,0,https://gitlab.com/literium/literium-rs,"Version control for literary texts: the atom of change is the sentence (prose) or the line (poetry), not the line of code."
+2026-09-28T15:42:51.593534Z,metriken-segment,0.1.0,0,0,https://github.com/iopsystems/metriken,The parquet segment format for metriken metrics: long layout and occupant streams
+2026-09-28T15:46:51.709868Z,reallyme-openid4vci-types,0.1.0,0,0,https://github.com/reallyme/openid4vci,OpenID4VCI 1.0 final wire types for ReallyMe issuance protocol crates.
+2026-09-28T15:46:54.44839Z,reallyme-openid4vci-proto,0.1.0,0,0,https://github.com/reallyme/openid4vci,ReallyMe OpenID4VCI protobuf messages generated with Buffa.
+2026-09-28T15:46:58.294709Z,reallyme-openid4vci-wallet,0.1.0,0,0,https://github.com/reallyme/openid4vci,Wallet-side OpenID4VCI request builders and validation helpers.
+2026-09-28T15:50:12.152292Z,i5h-pg,0.1.0,0,0,https://github.com/h5i-dev/i5h,"PostgreSQL engine for i5h: tenant-scoped snapshots, SERIALIZABLE execution with retry, idempotency"
+2026-09-28T15:50:46.121078Z,auv-driver-overlay,0.0.22,0,0,https://github.com/moeru-ai/auv,Overlay driver for AUV
+2026-09-28T15:52:13.814004Z,faultscope-collection,0.2.11,0,0,https://github.com/yuguoshao/FaultScope,Native logical error-rate collection and scheduling for FaultScope
+2026-09-28T15:54:22.182369Z,edax,0.0.0,0,0,,edax placeholder
+2026-09-28T15:54:30.505667Z,nmbrs-metricsql,0.3.0,0,0,https://github.com/nosqlbench/nmbrs,MetricsQL parser/evaluator (Rust port). Compatibility-tested against VictoriaMetrics' upstream test suite.
+2026-09-28T15:54:31.811763Z,auv-driver-macos,0.0.22,0,0,https://github.com/moeru-ai/auv,macOS driver for AUV
+2026-09-28T15:54:34.659464Z,nmbrs-optimizers,0.3.0,0,0,https://github.com/nosqlbench/nmbrs,"Standalone, runtime-free black-box (derivative-free) optimization library for nmbrs (SRD-86)"
+2026-09-28T15:54:39.32551Z,nmbrs-tui,0.3.0,0,0,https://github.com/nosqlbench/nmbrs,"Terminal UI for nmbrs: live metrics dashboard, progress, op throughput"
+2026-09-28T15:56:35.340258Z,chunkl,0.1.0,0,0,https://github.com/BigBang1112/chunkl,Parser and writer for the ChunkL language
+2026-09-28T15:57:26.671563Z,nmbrs,0.3.0,0,0,https://github.com/nosqlbench/nmbrs,Rust rewrite of nosqlbench: a pluggable workload generation and benchmarking engine
+2026-09-28T16:00:09.686655Z,tlabs-snowfall,0.0.0,0,0,https://github.com/threshold-network/snowfall,Placeholder for the Snowfall threshold signing project by Threshold Labs; not yet released.
+2026-09-28T16:00:12.909686Z,snowfall-core,0.0.0,0,0,https://github.com/threshold-network/snowfall,Placeholder for the Snowfall threshold signing project by Threshold Labs; not yet released.
+2026-09-28T16:00:15.533446Z,snowfall-backend,0.0.0,0,0,https://github.com/threshold-network/snowfall,Placeholder for the Snowfall threshold signing project by Threshold Labs; not yet released.
+2026-09-28T16:00:18.527347Z,snowfall-worker,0.0.0,0,0,https://github.com/threshold-network/snowfall,Placeholder for the Snowfall threshold signing project by Threshold Labs; not yet released.
+2026-09-28T16:00:45.663273Z,i5h-http,0.1.0,0,0,https://github.com/h5i-dev/i5h,"HTTP shell for i5h kernels: authentication and input decoding (trusted), dispatch to the engine"
+2026-09-28T16:04:34.531069Z,auv-driver-windows,0.0.22,0,0,https://github.com/moeru-ai/auv,Windows driver for AUV
+2026-09-28T16:05:37.485781Z,deckjay,2026.9.0,0,0,https://github.com/alexsavio/deckjay,"A music player with no screen: pictures on an Elgato Stream Deck, one press plays on a Chromecast, a HEOS receiver, Spotify Connect or the computer's own sound output"
+2026-09-28T16:16:49.791957Z,jammi-datafusion,0.0.0-bootstrap,0,0,https://github.com/f-inverse/jammi-ai,"Jammi's DataFusion extension: ExecutionPlan nodes, a PhysicalOptimizerRule and a wire form that run a model over a relation as a physical stage — numbered, chunked by a token budget, device-admitted,…"
+2026-09-28T16:16:56.738501Z,jammi-ballista,0.0.0-bootstrap,0,0,https://github.com/f-inverse/jammi-ai,"The Ballista compute plane: JammiCodec, JammiExecutionEngine, scheduler/executor role hosting, and the submit client"
+2026-09-28T16:17:21.238639Z,cratefield-oauth-client,0.2.0,0,0,https://github.com/Cratefield/harness,"OAuth 2.0 for the harness: authorize URLs, code exchange, refresh and revocation over the HttpClient port, PKCE, and token sealing (issue #531)"
