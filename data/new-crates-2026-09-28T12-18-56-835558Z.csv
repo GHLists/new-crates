@@ -1,0 +1,55 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T11:21:19.809651Z,target-gc,0.1.0,0,0,https://github.com/decebal/target-gc,"Evict idle Cargo build directories when the disk needs the space, never one a build, a process or a service is using. Ships a Claude Code skill."
+2026-09-28T11:21:42.926484Z,cache-pin,0.1.0,0,0,https://github.com/caniko/nix-cache-pin,Pin Nix flake inputs to revisions with full binary-cache coverage
+2026-09-28T11:23:13.786826Z,cspice-rs-sys,0.1.0,0,0,,Unsafe bindings to the NAIF CSPICE toolkit
+2026-09-28T11:23:52.518168Z,reacon-sdk,0.1.0-beta.4,0,0,https://github.com/reacon-io/reacon-rust,Official Reacon API client for Rust
+2026-09-28T11:25:02.57655Z,hydra-query,0.1.0,0,0,https://github.com/caniko/nix-cache-pin,Query Hydra build and evaluation information for Nix packages
+2026-09-28T11:26:54.093864Z,java-classfile,0.1.0,0,0,https://codeberg.org/DM-Earth/classfile,JVM classfile reader and writer
+2026-09-28T11:27:15.387133Z,cspice-rs,0.1.0,0,0,https://github.com/cislunarspace/cspice-rs,Safe wrapper around the NAIF CSPICE toolkit
+2026-09-28T11:28:56.862624Z,narinfo-check,0.1.0,0,0,https://github.com/caniko/nix-cache-pin,Check Nix binary-cache coverage through narinfo metadata
+2026-09-28T11:31:35.899255Z,alksocks,0.1.0,0,0,https://git.alk.dev/alkdev/alksocks,SOCKS5 (RFC 1928) proxy protocol over alkcall channels: targeted-forked fast-socks5 typestate core plus producer/consumer sessions. Producer/consumer protocol crate.
+2026-09-28T11:31:38.612996Z,highland-core,0.1.0,0,0,https://github.com/highland-rs/highland,"Deterministic VRRP state machines, policies, timers, and domain types for Highland."
+2026-09-28T11:31:42.575179Z,highland-vrrp,0.1.0,0,0,https://github.com/highland-rs/highland,"VRRPv3 packet encoding, decoding, and validation for Highland."
+2026-09-28T11:31:51.419345Z,nix-eval-store-path,0.1.0,0,0,https://github.com/caniko/nix-cache-pin,Evaluate Nix package store paths without building them
+2026-09-28T11:31:52.138138Z,highland-observe,0.1.0,0,0,https://github.com/highland-rs/highland,"Structured logging, metrics, and the event stream for Highland."
+2026-09-28T11:31:54.712027Z,auv-tracing,0.0.22,0,0,https://github.com/moeru-ai/auv,Optional tracing & logging for AUV
+2026-09-28T11:31:57.476069Z,highland-control,0.1.0,0,0,https://github.com/highland-rs/highland,The local administrative control API for Highland.
+2026-09-28T11:32:02.209858Z,highland-config,0.1.0,0,0,https://github.com/highland-rs/highland,"Configuration model, parser, and validation for Highland."
+2026-09-28T11:32:09.168493Z,auv-query-readiness,0.0.22,0,0,https://github.com/moeru-ai/auv,Query readiness for AUV
+2026-09-28T11:32:29.873034Z,auv-api-client,0.0.22,0,0,https://github.com/moeru-ai/auv,Transport-aware Rust client for AUV control and capability APIs
+2026-09-28T11:32:44.988172Z,auv-driver-overlay-common,0.0.22,0,0,https://github.com/moeru-ai/auv,Common overlay for AUV
+2026-09-28T11:33:06.523517Z,auv-driver-linux,0.0.22,0,0,https://github.com/moeru-ai/auv,Linux driver for AUV
+2026-09-28T11:33:09.006681Z,sliderino,0.1.0,0,0,https://github.com/tncardoso/sliderino,"Presentation editor with complete programmatic control for agents, through a CLI and an MCP server"
+2026-09-28T11:33:26.219644Z,marsrs-core,0.1.0-alpha.3,0,0,https://github.com/orangeboyChen/mars-rs,"Core byte-buffer primitives ported from mars/comm (AutoBuffer, PtrBuffer)."
+2026-09-28T11:33:29.063921Z,marsrs-comm,0.1.0-alpha.3,0,0,https://github.com/orangeboyChen/mars-rs,"Common utilities ported from mars/comm (strutil, tickcount, frequency limit, singleton)."
+2026-09-28T11:33:35.785743Z,marsrs-crypt,0.1.0-alpha.3,0,0,https://github.com/orangeboyChen/mars-rs,On-disk xlog framing + TEA/ECDH crypto ported from mars/xlog/crypt.
+2026-09-28T11:34:09.159294Z,onoal-oracle-plan,0.3.0,0,0,https://github.com/Onoal/Oracle,Complete declarative Plan satisfaction truth for Oracle.
+2026-09-28T11:34:29.950874Z,auv-media-macos,0.0.22,0,0,https://github.com/moeru-ai/auv,macOS media control driver for AUV
+2026-09-28T11:34:37.389611Z,onoal-oracle-resolution,0.3.0,0,0,https://github.com/Onoal/Oracle,Plan construction and resolution machinery for Oracle.
+2026-09-28T11:34:44.372905Z,marsrs-buffer,0.1.0-alpha.3,0,0,https://github.com/orangeboyChen/mars-rs,"The on-disk .xlog buffer of the Mars port: write, flush and read the files xlog writes"
+2026-09-28T11:37:30.620814Z,suri,0.0.0,0,0,,WIP
+2026-09-28T11:40:28.9664Z,willbooster-tree-sitter-kotlin,1.2.0,0,0,https://github.com/WillBooster/tree-sitter-kotlin,Kotlin grammar for tree-sitter
+2026-09-28T11:41:23.636253Z,forgejo-testcontainer,0.1.1,0,0,https://pubgit.blurrycat.dev/blurrycat/forgejo-testcontainer-rs,Testcontainer for Forgejo
+2026-09-28T11:47:57.207564Z,java-remapper,0.1.0,0,0,https://codeberg.org/DM-Earth/java-remapper,JVM bytecode remapper library
+2026-09-28T11:48:12.95076Z,java-remapper-cli,0.1.0,0,0,https://codeberg.org/DM-Earth/java-remapper,JVM bytecode and JAR remapper
+2026-09-28T11:48:58.816966Z,jigc-engine,0.0.0,0,0,https://github.com/gherrink/jigc,"Reserved: jigc-engine — the deterministic core of jigc, a context compiler for coding agents (schema-driven parse, byte-stable write, validation). Name reservation only; the real crate ships with jig…"
+2026-09-28T11:57:21.245105Z,warpline-core,0.1.0,0,0,https://github.com/Bunty9/warpline,"Sandboxed multi-tenant WebAssembly runtime core for warpline: wasmtime Component Model host bindings, epoch CPU and memory caps, tenant-scoped KV, allowlisted outbound HTTP, content-addressed module…"
+2026-09-28T11:57:41.282079Z,warpline-control,0.1.0,0,0,https://github.com/Bunty9/warpline,"warpline control plane: authenticated WebAssembly component uploads, compile-time import checks, content-addressed module registry and tenant/API-key administration."
+2026-09-28T11:57:52.978427Z,pallet-on-demand-para,0.0.0,0,0,,Reserved by Parity while we work on an official release
+2026-09-28T11:58:02.070379Z,warpline-host,0.1.0,0,0,https://github.com/Bunty9/warpline,"warpline invoke server: runs tenants' WebAssembly components over HTTP with per-tenant CPU, memory and egress limits, API-key auth and metering."
+2026-09-28T12:01:01.189452Z,dacc-core,0.1.0,0,0,https://github.com/anishukserg/dacc,"DACC: общие типы и макросы — ссылочные newtype, NonEmpty, обратимость, таксономия"
+2026-09-28T12:01:15.273327Z,dacc-journal,0.1.0,0,0,https://github.com/anishukserg/dacc,"DACC: журнал слоя работы — формат событий, автомат переходов, свёртка"
+2026-09-28T12:01:29.943964Z,dacc-knowledge,0.1.0,0,0,https://github.com/anishukserg/dacc,"DACC: слой знания — схема решений, спецификаций, глоссария"
+2026-09-28T12:01:49.118368Z,dacc-work,0.1.0,0,0,https://github.com/anishukserg/dacc,"DACC: слой работы — направления, срезы, единицы работы и их происхождение"
+2026-09-28T12:02:09.498443Z,dacc-derive,0.1.0,0,0,https://github.com/anishukserg/dacc,DACC: атрибут-маркер #[doc_anchor] для разметки кода
+2026-09-28T12:06:10.955206Z,dacc-scan,0.1.0,0,0,https://github.com/anishukserg/dacc,DACC: скан реестра и порождение модулей констант для ссылок
+2026-09-28T12:12:11.133146Z,pkcs11-proxy-ng-types,0.2.0,0,0,https://github.com/mingulov/pkcs11-proxy-ng,PKCS#11 data types and mechanism registry for the remote proxy
+2026-09-28T12:12:12.952066Z,pkcs11-proxy-ng-audit,0.2.0,0,0,https://github.com/mingulov/pkcs11-proxy-ng,Audit records and signing for the PKCS#11 remote proxy
+2026-09-28T12:12:14.698526Z,pkcs11-proxy-ng-proto,0.2.0,0,0,https://github.com/mingulov/pkcs11-proxy-ng,Protocol messages and gRPC code generation for the PKCS#11 remote proxy
+2026-09-28T12:12:16.634203Z,pkcs11-proxy-ng-client,0.2.0,0,0,https://github.com/mingulov/pkcs11-proxy-ng,Rust client for the PKCS#11 remote proxy
+2026-09-28T12:12:18.490844Z,pkcs11-proxy-ng-backend,0.2.0,0,0,https://github.com/mingulov/pkcs11-proxy-ng,Native PKCS#11 provider backend for the remote proxy
+2026-09-28T12:14:53.595286Z,reallyme-openid4vp-proto,0.1.0,0,0,https://github.com/reallyme/openid4vp,ReallyMe OpenID4VP protobuf bindings generated with Buffa.
+2026-09-28T12:14:56.203404Z,reallyme-openid4vp-dcql,0.1.0,0,0,https://github.com/reallyme/openid4vp,Digital Credentials Query Language model and evaluation engine.
+2026-09-28T12:14:58.772132Z,reallyme-openid4vp-types,0.1.0,0,0,https://github.com/reallyme/openid4vp,"OpenID4VP authorization request, response, metadata, and transaction data types."
+2026-09-28T12:15:14.542474Z,dacc-access,0.1.0,0,0,https://github.com/anishukserg/dacc,DACC: слой доступа — экспорт скомпилированного реестра в JSON и XML
+2026-09-28T12:18:24.040693Z,pkcs11-proxy-ng,0.2.0,0,0,https://github.com/mingulov/pkcs11-proxy-ng,PKCS#11 remote proxy daemon for Linux token providers
