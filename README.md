@@ -8,41 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 10:19 UTC
+## Latest list — 2026-09-28 11:20 UTC
 
-New crates published between 2026-09-28 09:24 UTC and 2026-09-28 10:19 UTC.
+New crates published between 2026-09-28 10:19 UTC and 2026-09-28 11:20 UTC.
 
-[Full CSV](data/new-crates-2026-09-28T10-19-50-05668Z.csv)
+[Full CSV](data/new-crates-2026-09-28T11-20-53-872214Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-28 09:24:41 | [slotring](https://crates.io/crates/slotring) | 0.1.0 | 0 | Fixed-capacity FIFO ring buffer with stable physical slots |
-| 2026-09-28 09:26:19 | [synthlite](https://crates.io/crates/synthlite) | 0.4.0 | 0 | Prompts in, a private fine-tuning dataset out: one teacher call per prompt, no… |
-| 2026-09-28 09:34:24 | [hande-api](https://crates.io/crates/hande-api) | 1.0.0 | 0 | The bookmark-resolution engine behind hande: parses the bookmark DSL and knows… |
-| 2026-09-28 09:35:15 | [belajar-say-hello-2](https://crates.io/crates/belajar-say-hello-2) | 0.3.0 | 0 | This is say hello library |
-| 2026-09-28 09:36:06 | [fusion-pcu-tensor](https://crates.io/crates/fusion-pcu-tensor) | 0.0.0 | 0 | Experimental typed tensor dialect and deterministic CPU reference evaluator for… |
-| 2026-09-28 09:37:32 | [hande](https://crates.io/crates/hande) | 1.0.0 | 0 | HANDE, Let's Go!, is a powerful bookmark manager to keep track of your favorite… |
-| 2026-09-28 09:46:15 | [fusion-pcu-rocm](https://crates.io/crates/fusion-pcu-rocm) | 0.0.1 | 0 | ROCm compute backend for Fusion PCU on AMD GPUs |
-| 2026-09-28 09:50:48 | [banter-macros](https://crates.io/crates/banter-macros) | 0.1.0 | 0 | Procedural macros for banter: command tables from impl blocks, FromArg for enum… |
-| 2026-09-28 09:50:53 | [banter](https://crates.io/crates/banter) | 0.1.0 | 0 | Tiny framework for line-based interactive services: one command table, served o… |
-| 2026-09-28 10:05:47 | [fusion-pcu-metal](https://crates.io/crates/fusion-pcu-metal) | 0.0.2 | 0 | Metal backend scaffold for Fusion PCU |
-| 2026-09-28 10:05:48 | [fusion-pcu-mlx](https://crates.io/crates/fusion-pcu-mlx) | 0.0.2 | 0 | MLX backend scaffold for Fusion PCU on Apple silicon |
-| 2026-09-28 10:05:57 | [omina](https://crates.io/crates/omina) | 1.0.1 | 0 | Typed decision-model toolchain for robotics and edge systems |
-| 2026-09-28 10:06:14 | [mesh-llm-wallet](https://crates.io/crates/mesh-llm-wallet) | 0.77.0 | 0 | Provider-neutral Lightning wallet abstraction and the wallet.v1 plugin contract |
-| 2026-09-28 10:07:55 | [mesh-wallet-lexe](https://crates.io/crates/mesh-wallet-lexe) | 0.77.0 | 0 | Lexe Lightning wallet plugin for mesh-llm (wallet.v1), served as a built-in `me… |
-| 2026-09-28 10:08:30 | [mesh-llm-payments-types](https://crates.io/crates/mesh-llm-payments-types) | 0.77.0 | 0 | Pure payment data types (pricing, request terms, wire frames) shared by mesh co… |
-| 2026-09-28 10:09:12 | [mesh-llm-payments](https://crates.io/crates/mesh-llm-payments) | 0.77.0 | 0 | Durable inference settlement: ledger, pricing, budgets and payment gates over a… |
-| 2026-09-28 10:09:41 | [icon-rs](https://crates.io/crates/icon-rs) | 0.1.0 | 0 | SVG icon set for CAD feature tools |
-| 2026-09-28 10:10:46 | [fastmarkdown](https://crates.io/crates/fastmarkdown) | 0.1.1 | 0 | Blazing fast cross-platform Markdown renderer with native object output for iOS… |
-| 2026-09-28 10:11:41 | [vivy-core](https://crates.io/crates/vivy-core) | 0.1.0 | 0 | Core vector index engine for Vivy — single-machine, memory-honest vector search |
-| 2026-09-28 10:12:01 | [vivy-memory](https://crates.io/crates/vivy-memory) | 0.1.0 | 0 | Local, durable, namespace-isolated long-term memory for AI agents |
-| 2026-09-28 10:14:45 | [slipway-core](https://crates.io/crates/slipway-core) | 0.1.0 | 0 | Slipway: общие типы и макросы — ссылочные newtype, NonEmpty, обратимость, таксо… |
-| 2026-09-28 10:14:56 | [slipway-journal](https://crates.io/crates/slipway-journal) | 0.1.0 | 0 | Slipway: журнал слоя работы — формат событий, автомат переходов, свёртка |
-| 2026-09-28 10:15:07 | [slipway-knowledge](https://crates.io/crates/slipway-knowledge) | 0.1.0 | 0 | Slipway: слой знания — схема решений, спецификаций, глоссария |
-| 2026-09-28 10:15:16 | [slipway-derive](https://crates.io/crates/slipway-derive) | 0.1.0 | 0 | Slipway: атрибут-маркер #[doc_anchor] для разметки кода |
-| 2026-09-28 10:15:29 | [slipway-scan](https://crates.io/crates/slipway-scan) | 0.1.0 | 0 | Slipway: скан реестра и порождение модулей констант для ссылок |
-| 2026-09-28 10:17:50 | [fusion-pcu-spirv](https://crates.io/crates/fusion-pcu-spirv) | 0.0.2 | 0 | SPIR-V lowering backend for Fusion PCU |
-| 2026-09-28 10:19:31 | [plutosdr-rs](https://crates.io/crates/plutosdr-rs) | 0.1.0 | 0 | Native Rust PlutoSDR IIO-over-USB driver using nusb |
+| 2026-09-28 10:25:46 | [mesh-llm-runtime-event-contracts](https://crates.io/crates/mesh-llm-runtime-event-contracts) | 0.77.0 | 0 | Dependency-leaf producer contracts for mesh-llm runtime events |
+| 2026-09-28 10:27:47 | [mesh-llm-analytics](https://crates.io/crates/mesh-llm-analytics) | 0.77.0 | 0 | Anonymous, opt-out product analytics for mesh-llm |
+| 2026-09-28 10:38:10 | [fusion-pcu-macros](https://crates.io/crates/fusion-pcu-macros) | 0.0.2 | 0 | Bounded Rust kernel frontend for Fusion PCU dispatch |
+| 2026-09-28 10:41:00 | [tin-object-storage](https://crates.io/crates/tin-object-storage) | 0.1.0 | 0 | S3 兼容对象存储客户端：双端点（对外预签名 / 对内对象操作）、对象键构造、分片上传原语 |
+| 2026-09-28 10:47:58 | [omina-client](https://crates.io/crates/omina-client) | 1.0.0 | 0 | Official Rust client SDK for the Omina edge intelligence daemon |
+| 2026-09-28 10:48:15 | [ElasticEmail](https://crates.io/crates/ElasticEmail) | 4.2.0 | 0 | Official Rust SDK for the Elastic Email REST API v4 |
+| 2026-09-28 10:48:20 | [fusion-pcu-opengl](https://crates.io/crates/fusion-pcu-opengl) | 0.0.2 | 0 | OpenGL backend scaffold for Fusion PCU |
+| 2026-09-28 10:52:13 | [perp_dex](https://crates.io/crates/perp_dex) | 0.1.0 | 0 | Stock-perp DEX venues for extrema_infra. |
+| 2026-09-28 10:58:30 | [fusion-pcu-vulkan](https://crates.io/crates/fusion-pcu-vulkan) | 0.0.2 | 0 | Vulkan backend scaffold for Fusion PCU |
+| 2026-09-28 10:59:40 | [fusion-pcu-wgpu](https://crates.io/crates/fusion-pcu-wgpu) | 0.0.2 | 0 | wgpu backend scaffold for Fusion PCU |
+| 2026-09-28 11:07:19 | [zense-module-sdk](https://crates.io/crates/zense-module-sdk) | 0.1.0 | 0 | Guest-side SDK for building zense modules against the frozen zense:cap@0.1.0 ABI |
+| 2026-09-28 11:08:11 | [syndesmos](https://crates.io/crates/syndesmos) | 0.1.0 | 0 | Sentence bonds over UAX #29: the .desm rule file and the overlay that applies i… |
+| 2026-09-28 11:12:04 | [mangel](https://crates.io/crates/mangel) | 0.1.0 | 0 | Product data normalisation: irregular fields in, regular fields out. One implem… |
+| 2026-09-28 11:15:19 | [orx-col-at](https://crates.io/crates/orx-col-at) | 0.1.0 | 0 | Indexed access abstractions over collections |
+| 2026-09-28 11:15:40 | [sough](https://crates.io/crates/sough) | 0.1.0 | 0 | A small work queue on PostgreSQL: SKIP LOCKED claims under a fenced lease, ack/… |
+| 2026-09-28 11:17:53 | [nix-cache-pin-lib](https://crates.io/crates/nix-cache-pin-lib) | 0.1.0 | 0 | Pin Nix flake inputs to revisions with full binary-cache coverage |
+| 2026-09-28 11:17:58 | [bosum-core](https://crates.io/crates/bosum-core) | 1.3.0 | 0 | Core of Bosum: config, file operations, git status and an Everything-style file… |
+| 2026-09-28 11:18:16 | [bosum](https://crates.io/crates/bosum) | 1.3.0 | 0 | Bosum: a Norton Commander style file manager for the terminal |
 
 ## Data source
 

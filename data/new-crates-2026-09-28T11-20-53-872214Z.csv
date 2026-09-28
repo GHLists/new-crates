@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T10:25:46.110712Z,mesh-llm-runtime-event-contracts,0.77.0,0,0,https://github.com/Mesh-LLM/mesh-llm,Dependency-leaf producer contracts for mesh-llm runtime events
+2026-09-28T10:27:47.088881Z,mesh-llm-analytics,0.77.0,0,0,https://github.com/Mesh-LLM/mesh-llm,"Anonymous, opt-out product analytics for mesh-llm"
+2026-09-28T10:38:10.07306Z,fusion-pcu-macros,0.0.2,0,0,https://github.com/Private-Asylum/Fusion-PCU,Bounded Rust kernel frontend for Fusion PCU dispatch
+2026-09-28T10:41:00.837439Z,tin-object-storage,0.1.0,0,0,https://github.com/JiabinTang/tin-object-storage,S3 兼容对象存储客户端：双端点（对外预签名 / 对内对象操作）、对象键构造、分片上传原语
+2026-09-28T10:47:58.572865Z,omina-client,1.0.0,0,0,,Official Rust client SDK for the Omina edge intelligence daemon
+2026-09-28T10:48:15.250481Z,ElasticEmail,4.2.0,0,0,https://github.com/ElasticEmail/elasticemail-rust,Official Rust SDK for the Elastic Email REST API v4
+2026-09-28T10:48:20.020511Z,fusion-pcu-opengl,0.0.2,0,0,https://github.com/Private-Asylum/Fusion-PCU,OpenGL backend scaffold for Fusion PCU
+2026-09-28T10:52:13.934852Z,perp_dex,0.1.0,0,0,https://github.com/Lqz13Th/perp_dex,Stock-perp DEX venues for extrema_infra.
+2026-09-28T10:58:30.165061Z,fusion-pcu-vulkan,0.0.2,0,0,https://github.com/Private-Asylum/Fusion-PCU,Vulkan backend scaffold for Fusion PCU
+2026-09-28T10:59:40.837458Z,fusion-pcu-wgpu,0.0.2,0,0,https://github.com/Private-Asylum/Fusion-PCU,wgpu backend scaffold for Fusion PCU
+2026-09-28T11:07:19.124118Z,zense-module-sdk,0.1.0,0,0,https://github.com/zurge-co/zense,Guest-side SDK for building zense modules against the frozen zense:cap@0.1.0 ABI
+2026-09-28T11:08:11.199292Z,syndesmos,0.1.0,0,0,https://gitlab.com/syndesmos/syndesmos,Sentence bonds over UAX #29: the .desm rule file and the overlay that applies it — which segments bond into one sentence
+2026-09-28T11:12:04.478901Z,mangel,0.1.0,0,0,https://github.com/mommo-codes/mangel,"Product data normalisation: irregular fields in, regular fields out. One implementation, callable from Rust, Python and TypeScript."
+2026-09-28T11:15:19.899249Z,orx-col-at,0.1.0,0,0,https://github.com/orxfun/orx-col-at/,Indexed access abstractions over collections
+2026-09-28T11:15:40.376288Z,sough,0.1.0,0,0,https://git.kjuulh.io/kjuulh/sough,"A small work queue on PostgreSQL: SKIP LOCKED claims under a fenced lease, ack/nack with jittered backoff, a dead-letter table, LISTEN/NOTIFY wake-ups with a polling fallback, and optional per-queue…"
+2026-09-28T11:17:53.800465Z,nix-cache-pin-lib,0.1.0,0,0,https://github.com/caniko/nix-cache-pin,Pin Nix flake inputs to revisions with full binary-cache coverage
+2026-09-28T11:17:58.555042Z,bosum-core,1.3.0,0,0,https://github.com/mwo-dk/bosum,"Core of Bosum: config, file operations, git status and an Everything-style file name index"
+2026-09-28T11:18:16.752721Z,bosum,1.3.0,0,0,https://github.com/mwo-dk/bosum,Bosum: a Norton Commander style file manager for the terminal
