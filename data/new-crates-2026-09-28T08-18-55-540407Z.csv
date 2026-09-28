@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T07:19:52.378929Z,hyprforge-thumbnails,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"The freedesktop thumbnail cache: find a file's thumbnail if it is still current, and store a new one as small as it can be."
+2026-09-28T07:22:31.833481Z,ferryman-edge,0.1.0,0,0,https://github.com/Bunty9/ferryman-edge,Programmable mTLS L7 reverse proxy binary — wires ferryman-edge-core behind a tokio-rustls acceptor.
+2026-09-28T07:25:22.850599Z,vlib,0.0.1,0,0,,vivid lib
+2026-09-28T07:27:08.292468Z,at-cmux,0.1.0,0,0,https://github.com/factbird/at-cmux,Multiplexes serial channels using the CMUX standard (3GPP TS 27.010)
+2026-09-28T07:27:34.136564Z,iana-tsig-algorithm-names,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the tsig-algorithm-names family.
+2026-09-28T07:29:57.671485Z,hyprforge-video,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"Plays a video into memory through libmpv (loaded at run time), and finds a video's first real frame for its thumbnail."
+2026-09-28T07:32:34.554534Z,driftdb-lsm,0.1.0,0,0,https://github.com/Bunty9/driftdb,"Embeddable LSM-tree key-value engine with WAL group-commit, MVCC snapshot reads, and leveled compaction."
+2026-09-28T07:33:20.267041Z,cqlib-core,0.1.0-beta.1,0,0,https://gitee.com/cq-lib/cqlib,The high-performance core foundation for the CQLib quantum computing ecosystem.
+2026-09-28T07:36:12.427223Z,ferriki-asset-gen,0.4.0,0,0,https://github.com/sebastian-software/ferriki,Binary asset catalog encoder and decoder for the Ferriki highlighter
+2026-09-28T07:36:12.812552Z,ferriki-textmate,0.4.0,0,0,https://github.com/sebastian-software/ferriki,TextMate grammar tokenizer and theme resolver behind Ferriki
+2026-09-28T07:36:14.532853Z,ferriki,0.4.0,0,0,https://github.com/sebastian-software/ferriki,Reusable native Rust syntax highlighter with TextMate grammars
+2026-09-28T07:37:33.387807Z,iana-sig-alg-numbers,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the sig-alg-numbers family.
+2026-09-28T07:40:04.304623Z,hyprforge-windowrules,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"Window and workspace rules: TOML storage, window-rules.lua codegen, import, and live windows and monitors to build a rule from; Hyprforge-internal, published so the suite's apps build from crates.io"
+2026-09-28T07:46:01.783244Z,lunsaran-entregar,0.1.0,0,0,https://github.com/kanutocd/lunsaran,Lunsaran resumable upload client library
+2026-09-28T07:46:16.964408Z,lunsaran-entregar-mock,0.1.0,0,0,https://github.com/kanutocd/lunsaran,Deterministic mock Lunsaran/TUS server for lunsaran-entregar tests
+2026-09-28T07:46:25.080642Z,hydra-moka,0.12.15-hydra.1,0,0,https://github.com/javaquasar/moka,"HydraCache's temporary, source-compatible Moka fork with a synchronous post-removal observer"
+2026-09-28T07:47:33.825184Z,iana-locally-served-dns-zones,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the locally-served-dns-zones family.
+2026-09-28T07:52:32.580221Z,hyprforge-clipboard,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"A Wayland clipboard library over wlr-data-control / ext-data-control, plus the hyprforge-clipd daemon that watches the compositor's clipboard and writes its history, and the hyprforge-clipmenu popup…"
+2026-09-28T07:57:32.319699Z,iana-special,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the special family.
+2026-09-28T07:59:28.85114Z,certmagic,0.1.0,0,0,https://github.com/houseme/certmagic,"Automatic TLS certificate acquisition, renewal, and maintenance for Rust servers — a faithful translation of caddyserver/certmagic"
+2026-09-28T08:00:58.344519Z,redoubt-mem-core,0.1.0-rc.15,0,0,https://github.com/memparanoid/redoubt,"The routines behind redoubt-mem, and each one's backend"
+2026-09-28T08:01:08.69266Z,redoubt-forensics-allocator,0.1.0-rc.15,0,0,https://github.com/memparanoid/redoubt,The global allocator redoubt-forensics runs its tests under
+2026-09-28T08:01:18.172251Z,redoubt-forensics-macros,0.1.0-rc.15,0,0,https://github.com/memparanoid/redoubt,The test attribute behind redoubt-forensics
+2026-09-28T08:01:21.075498Z,ferrumec,0.1.0,0,0,,"Core building blocks for event-driven Rust microservices: pluggable event streams (local or NATS), caching (Moka or Redis), and Postgres-backed infrastructure."
+2026-09-28T08:01:27.653856Z,redoubt-forensics-core,0.1.0-rc.15,0,0,https://github.com/memparanoid/redoubt,The instrument behind redoubt-forensics
+2026-09-28T08:01:53.214672Z,milsymbol,0.1.0,0,0,https://github.com/luofang34/milsymbol,Native Rust port of milsymbol.js: MIL-STD-2525 / APP-6 military symbol generation
+2026-09-28T08:02:23.376086Z,redoubt-hex,0.1.0-rc.15,0,0,https://github.com/memparanoid/redoubt,"Bytes to hex and back in constant time, leaving nothing in a register"
+2026-09-28T08:02:53.242859Z,hyprforge-tray,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"A StatusNotifierItem tray library, plus the hyprforge-trayd daemon that puts network (Wi-Fi and Ethernet), Bluetooth, keep-awake, night-light, battery/power-profile and display-layout icons in whatev…"
+2026-09-28T08:03:37.84746Z,philbin,1.0.0,0,0,https://codeberg.org/Valloric/philbin,A pure Rust AEGIS library with SIMD and runtime CPU detection
+2026-09-28T08:03:47.325693Z,pliron-circt,0.1.0,0,0,https://github.com/KwachOjunga/pliron-circt,"An MLIR-based compiler infrastructure spanning multiple abstraction levels of hardware representation, transformation, and RTL generation"
+2026-09-28T08:07:31.868917Z,iana-amtrelay-resource-record,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the amtrelay-resource-record family.
+2026-09-28T08:09:27.300713Z,encodify,1.0.0,0,0,https://github.com/stalwartlabs/encodify,"Fast Base64, Base32, Quoted-Printable, RFC 2047, UTF-7 and PEM encoding and decoding"
+2026-09-28T08:12:40.019402Z,greengrass-ipc-rust,0.1.0,0,0,,Rust port of the Greengrass IPC library
+2026-09-28T08:17:33.824011Z,iana-mls,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the mls family.
