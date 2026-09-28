@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T14:21:05.99944Z,cratefield-adapter-typesafe,0.2.0,0,0,https://github.com/Cratefield/harness,Classifier port over TypeSafe's Jev evaluation API for the Cratefield harness
+2026-09-28T14:23:05.343275Z,scyph-db,0.1.2,0,0,https://github.com/mnmustafa1109/scyph,"PgPool builder, migration runner, seed runner, transaction helpers, and dynamic query extensions"
+2026-09-28T14:24:00.228208Z,rmt-spca,0.1.0,0,0,https://github.com/btraven00/rmt-spca,"RMT-guided Sparse PCA for single-cell RNA-seq: biwhitening, Marchenko-Pastur thresholding, and FISTA sparse components"
+2026-09-28T14:26:06.140609Z,shimmify,1.1.0,0,0,https://github.com/hardliner/shimmify,"A library to simplify testing applications by making it possible to easily switch between different versions of binaries, without having to replace the original!"
+2026-09-28T14:26:30.308434Z,tf2_rs,0.1.0,0,0,https://github.com/olingo99/tf2_rs,ROS 2 TF2 bindings for Rust using cxx and rclrs
+2026-09-28T14:29:38.926231Z,blu-lang,0.1.0,0,0,https://github.com/borg-ml/blu,Embeddable Lua and Luau superset language runtime for Rust
+2026-09-28T14:32:40.433412Z,papercut-cli,0.1.0,0,0,https://github.com/nibzard/papercut,System-level friction telemetry for coding agents
+2026-09-28T14:34:01.099166Z,claude-agents,0.1.1,0,0,https://github.com/borg-ml/claude-agents,Native Rust runtime for Claude Code agent sessions
+2026-09-28T14:34:05.320127Z,scyph,0.1.2,0,0,https://github.com/mnmustafa1109/scyph,"A collection of modular, independently usable Rust crates providing cross-cutting concerns for production Axum backends (auth, RFC 7807 errors, DB, health, telemetry, and more)."
+2026-09-28T14:34:25.996232Z,cratefield-adapter-webhook-tracker,0.2.0,0,0,https://github.com/Cratefield/harness,Tracker port over a signed webhook for the Cratefield harness
+2026-09-28T14:35:30.66913Z,nmbrs-adapter-http,0.3.0,0,0,https://github.com/nosqlbench/nmbrs,HTTP adapter for nmbrs: executes workload operations as HTTP requests
+2026-09-28T14:35:53.540072Z,tome-scripts,0.12.3,0,0,https://github.com/toumorokoshi/tome,Turn directories of shell scripts into full-blown CLIs
+2026-09-28T14:36:38.868421Z,serde_state_perfect_derive_derive,1.0.0,0,0,https://github.com/Nadrieril/serde_state,Derive macros for serde_state_perfect_derive
+2026-09-28T14:36:41.386459Z,serde_state_perfect_derive,1.0.0,0,0,https://github.com/Nadrieril/serde_state,Stateful serde serialization and deserialization with perfect derive
+2026-09-28T14:40:40.674326Z,nmbrs-adapter-openapi,0.3.0,0,0,https://github.com/nosqlbench/nmbrs,OpenAPI workload-source adapter for nmbrs — synthesizes ops from OpenAPI 3.x specs
+2026-09-28T14:41:48.333296Z,nmbrs-adapter-plotter,0.3.0,0,0,https://github.com/nosqlbench/nmbrs,Plotter adapter for nmbrs: renders workload outputs as terminal plots
+2026-09-28T14:41:53.383475Z,nmbrs-adapter-stdout,0.3.0,0,0,https://github.com/nosqlbench/nmbrs,Stdout adapter for nmbrs: writes assembled ops to stdout or a file
+2026-09-28T14:41:58.784887Z,sashite-sanki-sei-player,0.1.0,0,0,https://github.com/sashite/sanki-sei-player.rs,A Sashité Engine Interface (SEI) engine for Sanki that thinks: the reference search of sashite-sanki-player under SEI's clock — the sparring partner.
+2026-09-28T14:41:59.654057Z,nmbrs-adapter-testkit,0.3.0,0,0,https://github.com/nosqlbench/nmbrs,"Testkit adapter for nmbrs: simulates operation execution with configurable results, latency, and error injection"
+2026-09-28T14:43:48.700313Z,infiltrator,1.0.1,0,0,https://github.com/aether-flux/infiltrator,"A sleek, aesthetic keyboard-driven macro overlay for Linux. Expand text, run shell snippets, and open URLs from a fullscreen ambient overlay."
+2026-09-28T14:47:41.250061Z,nmbrs-web,0.3.0,0,0,https://github.com/nosqlbench/nmbrs,Web UI for nmbrs: htmx-powered dashboard for workload monitoring and control
+2026-09-28T14:48:17.247762Z,bevy_inspector,0.0.1,0,0,https://github.com/bevyengine/bevy-crate-reservations,This crate is reserved for the Bevy Engine project
+2026-09-28T14:50:19.402057Z,kcode-k1-audio-classifier-training-testkit,0.1.0,0,0,,Conformance testkit for K1 audio classifier TrainOnce integration
+2026-09-28T14:54:03.66007Z,zarrs_jpeg,0.1.0,0,0,https://github.com/clbarnes/zarrs_jpeg,jpeg codec for zarrs
+2026-09-28T14:55:57.862352Z,sixer,0.3.0,0,0,,Hexagonal proc-macro runtime design helper
+2026-09-28T14:58:26.110493Z,orx-col-card,0.1.0,0,0,https://github.com/orxfun/orx-col-card/,Cardinality abstractions over collections
+2026-09-28T15:02:41.855383Z,bite-gp-ce-gpui-authoring,0.20260928.0,0,0,https://github.com/bite-gpui/bite-gpui,gpui_authoring — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-28T15:02:45.936171Z,risearch,3.0.0-alpha.4,0,0,https://github.com/saiden89/risearch,Fast RNA-RNA interaction search using suffix arrays and thermodynamic scoring
+2026-09-28T15:03:55.819552Z,bite-gp-ce-gpui-runtime,0.20260928.0,0,0,https://github.com/bite-gpui/bite-gpui,gpui_runtime — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-28T15:03:59.00008Z,bite-gpui-ce,0.20260928.0,0,0,https://github.com/bite-gpui/bite-gpui,A community fork of Zed's GPU-accelerated UI framework
+2026-09-28T15:04:57.277682Z,auv-tracing-otel,0.0.22,0,0,https://github.com/moeru-ai/auv,Optional OpenTelemetry adapter for tracing & logging in AUV
+2026-09-28T15:05:13.950809Z,auv-view,0.0.22,0,0,https://github.com/moeru-ai/auv,View & reconstructed representation for AUV
+2026-09-28T15:05:27.602409Z,auv-cli-common,0.0.22,0,0,https://github.com/moeru-ai/auv,Application Use Via... script-able OS automation library
+2026-09-28T15:05:43.990655Z,auv-inference-ort,0.0.22,0,0,https://github.com/moeru-ai/auv,ONNX Runtime inference backend for AUV
+2026-09-28T15:06:06.454076Z,auv-inference-ultralytics,0.0.22,0,0,https://github.com/moeru-ai/auv,Ultralytics inference backend for AUV
+2026-09-28T15:13:30.360855Z,wasm-fmt-fdk-macros,0.0.0,0,0,https://github.com/wasm-fmt/bridge,Procedural macros for the wasm-fmt Rust formatter development kit
+2026-09-28T15:14:01.617689Z,wasm-fmt-fdk,0.0.0,0,0,https://github.com/wasm-fmt/bridge,Formatter development kit for the wasm-fmt Bridge ABI
+2026-09-28T15:14:29.014526Z,auv-driver-overlay-macos,0.0.22,0,0,https://github.com/moeru-ai/auv,macOS overlay driver for AUV
+2026-09-28T15:16:27.967007Z,rsql_driver_jdbc,0.21.0,0,0,https://github.com/theseus-rs/rsql,rsql JDBC driver
+2026-09-28T15:16:40.792435Z,rsql_driver_h2,0.21.0,0,0,https://github.com/theseus-rs/rsql,rsql H2 driver
+2026-09-28T15:16:50.539643Z,vimcore,0.1.0,0,0,https://github.com/beyondlex/vimcore,"A host-agnostic Vim engine: modes, motions, operators, text objects, registers, search and marks."
