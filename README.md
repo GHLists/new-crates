@@ -8,34 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 03:19 UTC
+## Latest list — 2026-09-28 04:22 UTC
 
-New crates published between 2026-09-28 02:18 UTC and 2026-09-28 03:19 UTC.
+New crates published between 2026-09-28 03:19 UTC and 2026-09-28 04:22 UTC.
 
-[Full CSV](data/new-crates-2026-09-28T03-19-12-415939Z.csv)
+[Full CSV](data/new-crates-2026-09-28T04-22-45-730912Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-28 02:21:03 | [iana-quic](https://crates.io/crates/iana-quic) | 0.1.0 | 0 | Generated IANA registry bindings for the quic family. |
-| 2026-09-28 02:25:31 | [heraldr](https://crates.io/crates/heraldr) | 0.0.1 | 0 | Herdr tab, workspace, and agent chrome: [N] <icon> <name> labels driven by the… |
-| 2026-09-28 02:27:36 | [iana-sip](https://crates.io/crates/iana-sip) | 0.1.0 | 0 | Generated IANA registry bindings for the sip family. |
-| 2026-09-28 02:29:58 | [gpui-pre-bench-metrics](https://crates.io/crates/gpui-pre-bench-metrics) | 0.3.7 | 0 | Zed's `bench_metrics` crate (gpui-pre snapshot of zed@1a28cff) |
-| 2026-09-28 02:31:51 | [kcode-k1-codex-runtime-observations](https://crates.io/crates/kcode-k1-codex-runtime-observations) | 0.1.0 | 0 | Provider observation routing for the K1 Codex runtime actor |
-| 2026-09-28 02:35:50 | [zc-router](https://crates.io/crates/zc-router) | 0.0.3 | 0 | Core messaging contract and routing for zcoder |
-| 2026-09-28 02:35:52 | [zc-base](https://crates.io/crates/zc-base) | 0.0.3 | 0 | In-process server boundary for zcoder |
-| 2026-09-28 02:37:33 | [iana-ntp-parameters](https://crates.io/crates/iana-ntp-parameters) | 0.1.0 | 0 | Generated IANA registry bindings for the ntp-parameters family. |
-| 2026-09-28 02:45:19 | [scann-core](https://crates.io/crates/scann-core) | 0.2.0 | 0 | Rust bindings for scann-core: ScaNN's approximate nearest-neighbour vector sear… |
-| 2026-09-28 02:45:52 | [ptmp](https://crates.io/crates/ptmp) | 0.2.1 | 0 | Async client for the Packet Tracer Messaging Protocol (PTMP) and its IPC layer |
-| 2026-09-28 02:46:03 | [pktfile](https://crates.io/crates/pktfile) | 0.2.1 | 0 | Reads and writes Cisco Packet Tracer .pkt files: the encryption, obfuscation an… |
-| 2026-09-28 02:46:31 | [pktctl](https://crates.io/crates/pktctl) | 0.2.1 | 0 | MCP server that drives Cisco Packet Tracer natively over PTMP |
-| 2026-09-28 02:47:32 | [iana-character-sets](https://crates.io/crates/iana-character-sets) | 0.1.0 | 0 | Generated IANA registry bindings for the character-sets family. |
-| 2026-09-28 02:49:42 | [ain](https://crates.io/crates/ain) | 0.1.1 | 0 | Case-insensitive mirror of the `ascii` crate |
-| 2026-09-28 02:57:31 | [iana-cont-disp](https://crates.io/crates/iana-cont-disp) | 0.1.0 | 0 | Generated IANA registry bindings for the cont-disp family. |
-| 2026-09-28 03:07:31 | [iana-uri-schemes](https://crates.io/crates/iana-uri-schemes) | 0.1.0 | 0 | Generated IANA registry bindings for the uri-schemes family. |
-| 2026-09-28 03:15:00 | [cdb_migrator](https://crates.io/crates/cdb_migrator) | 0.1.0 | 0 | OGC CDB 1.x reader and 1.x-to-2.0 migrator built on opencdb |
-| 2026-09-28 03:15:06 | [sendping](https://crates.io/crates/sendping) | 1.0.0 | 0 | Official Rust SDK for the SendPing email API — send transactional and marketing… |
-| 2026-09-28 03:15:53 | [kcode-k1-chat-model-usage](https://crates.io/crates/kcode-k1-chat-model-usage) | 0.1.0 | 0 | Deterministic Codex model-usage correlation for one K1 session actor |
-| 2026-09-28 03:17:33 | [iana-tel-uri-parameters](https://crates.io/crates/iana-tel-uri-parameters) | 0.1.0 | 0 | Generated IANA registry bindings for the tel-uri-parameters family. |
+| 2026-09-28 03:19:23 | [hyprforge-paths](https://crates.io/crates/hyprforge-paths) | 0.1.0 | 0 | XDG config paths, the user's own Pictures/Downloads directories, and crash-safe… |
+| 2026-09-28 03:19:26 | [hyprforge-look](https://crates.io/crates/hyprforge-look) | 0.1.0 | 0 | The Hyprforge suite's shared Color and Theme types, with no GUI toolkit depende… |
+| 2026-09-28 03:19:28 | [hyprforge-process](https://crates.io/crates/hyprforge-process) | 0.1.0 | 0 | A bounded replacement for Command::output() so a hung subprocess like hyprctl,… |
+| 2026-09-28 03:19:31 | [hyprforge-core](https://crates.io/crates/hyprforge-core) | 0.1.0 | 0 | Hyprland config machinery: the hl.config overlay, hyprlang files, Lua quoting,… |
+| 2026-09-28 03:19:54 | [hyprforge-lua-import](https://crates.io/crates/hyprforge-lua-import) | 0.1.0 | 0 | A sandboxed mlua evaluator that runs a hand-written hyprland.lua to record its… |
+| 2026-09-28 03:22:28 | [ovfetch](https://crates.io/crates/ovfetch) | 0.1.1 | 0 | Resolve, download, and hash-verify the OpenVINO-enabled ONNX Runtime an Intel N… |
+| 2026-09-28 03:24:46 | [tree-sitter-aspx](https://crates.io/crates/tree-sitter-aspx) | 0.1.0 | 0 | Tree-sitter grammar for ASP.NET Web Forms markup |
+| 2026-09-28 03:27:32 | [iana-passport](https://crates.io/crates/iana-passport) | 0.1.0 | 0 | Generated IANA registry bindings for the passport family. |
+| 2026-09-28 03:30:36 | [neo-primitives](https://crates.io/crates/neo-primitives) | 3.4.0 | 0 | Core primitive types for Neo N3 blockchain (no_std compatible) |
+| 2026-09-28 03:32:42 | [hyprforge-appearance](https://crates.io/crates/hyprforge-appearance) | 0.1.0 | 0 | The Appearance model: the hl.config look catalog, animations, the gsettings bri… |
+| 2026-09-28 03:34:41 | [neo-protocol](https://crates.io/crates/neo-protocol) | 3.4.0 | 0 | Neo N3 protocol types: transactions, blocks, witnesses (no_std compatible) |
+| 2026-09-28 03:37:31 | [zakura-pir-native](https://crates.io/crates/zakura-pir-native) | 0.0.1-rc0 | 0 | Native two-mask InspiRING primitives shared by Zakura PIR clients |
+| 2026-09-28 03:37:33 | [iana-cdni-parameters](https://crates.io/crates/iana-cdni-parameters) | 0.1.0 | 0 | Generated IANA registry bindings for the cdni-parameters family. |
+| 2026-09-28 03:40:04 | [rusty-soar-core](https://crates.io/crates/rusty-soar-core) | 1.0.0 | 0 | Core Soar cognitive architecture engine with formal verification and AADL contr… |
+| 2026-09-28 03:41:06 | [kcode-k1-chat-model-usage-session](https://crates.io/crates/kcode-k1-chat-model-usage-session) | 0.1.0 | 0 | Manages model-usage subscriptions and durable persistence for K1 chat sessions. |
+| 2026-09-28 03:41:13 | [ydp-core](https://crates.io/crates/ydp-core) | 0.1.0-alpha.1 | 0 | A bounded, async-only runtime for Chrome DevTools Protocol communication |
+| 2026-09-28 03:41:26 | [ydp-gen](https://crates.io/crates/ydp-gen) | 0.1.0-alpha.1 | 0 | An offline, reproducible Rust code generator for CDP-compatible schemas |
+| 2026-09-28 03:42:46 | [hyprforge-secret](https://crates.io/crates/hyprforge-secret) | 0.1.0 | 0 | A Secret<T> wrapper whose Debug impl renders only a length, never the wrapped v… |
+| 2026-09-28 03:42:52 | [topcoat-cloudflare](https://crates.io/crates/topcoat-cloudflare) | 0.1.0 | 0 | Run Topcoat applications on Cloudflare Workers. |
+| 2026-09-28 03:43:33 | [formal-soar-verify](https://crates.io/crates/formal-soar-verify) | 1.0.0 | 0 | Formal verification harnesses and Kani proofs for Rusty-Soar agents and AADL AG… |
+| 2026-09-28 03:45:29 | [tree-sitter-css-strict](https://crates.io/crates/tree-sitter-css-strict) | 0.1.0 | 0 | Strict CSS grammar for tree-sitter |
+| 2026-09-28 03:45:57 | [rusty-soar-cli](https://crates.io/crates/rusty-soar-cli) | 1.0.0 | 0 | CLI tool to verify native Soar production rules against AADL AGREE contracts an… |
+| 2026-09-28 03:45:58 | [ydp](https://crates.io/crates/ydp) | 0.1.0-alpha.1 | 0 | A strongly typed, async-only Chrome DevTools Protocol client for Rust |
+| 2026-09-28 03:47:33 | [iana-aead-parameters](https://crates.io/crates/iana-aead-parameters) | 0.1.0 | 0 | Generated IANA registry bindings for the aead-parameters family. |
+| 2026-09-28 03:49:39 | [rubix-kube](https://crates.io/crates/rubix-kube) | 0.1.0 | 0 | Lightweight Kubernetes Disto |
+| 2026-09-28 03:49:48 | [yacc1101](https://crates.io/crates/yacc1101) | 0.1.0 | 0 | Async Embassy driver for the CC1101 sub-1GHz RF transceiver |
+| 2026-09-28 03:52:48 | [kcode-k1-chat-thread-web-search-tasks](https://crates.io/crates/kcode-k1-chat-thread-web-search-tasks) | 0.1.0 | 0 | Concrete WebSearch task supervision for the K1 chat-thread session actor |
+| 2026-09-28 03:52:52 | [hyprforge-archive](https://crates.io/crates/hyprforge-archive) | 0.1.0 | 0 | Reads and writes zip, tar and 7z archives: what is inside one, as a directory t… |
+| 2026-09-28 03:57:08 | [kcode-k1-chat-thread-session-view](https://crates.io/crates/kcode-k1-chat-thread-session-view) | 0.1.0 | 0 | Process-local read projection for one K1 chat-thread session actor |
+| 2026-09-28 03:57:32 | [iana-hpke](https://crates.io/crates/iana-hpke) | 0.1.0 | 0 | Generated IANA registry bindings for the hpke family. |
+| 2026-09-28 04:02:56 | [hyprforge-keys](https://crates.io/crates/hyprforge-keys) | 0.1.0 | 0 | The suite's keyboard grammar: one Combo parser, a Keymap generic over each app'… |
+| 2026-09-28 04:04:02 | [promptfirewall-cli](https://crates.io/crates/promptfirewall-cli) | 0.2.0 | 0 | CLI scanner for PII and prompt injection in source files. Powers the promptfire… |
+| 2026-09-28 04:07:33 | [iana-hash-function-text-names](https://crates.io/crates/iana-hash-function-text-names) | 0.1.0 | 0 | Generated IANA registry bindings for the hash-function-text-names family. |
+| 2026-09-28 04:13:04 | [hyprforge-ui](https://crates.io/crates/hyprforge-ui) | 0.1.0 | 0 | The iced widget layer built on hyprforge-look's shared theme, giving every Hypr… |
+| 2026-09-28 04:17:32 | [iana-pkix-parameters](https://crates.io/crates/iana-pkix-parameters) | 0.1.0 | 0 | Generated IANA registry bindings for the pkix-parameters family. |
+| 2026-09-28 04:20:16 | [typst_imaging](https://crates.io/crates/typst_imaging) | 0.0.1 | 0 | Typst frame renderer backed by the imaging crate. |
+| 2026-09-28 04:20:18 | [kanva_svg](https://crates.io/crates/kanva_svg) | 0.0.1 | 0 | Native usvg → KanvaSink renderer. |
+| 2026-09-28 04:20:21 | [kanva_typst](https://crates.io/crates/kanva_typst) | 0.0.1 | 0 | Typst frame renderer backed by KanvaSink. |
 
 ## Data source
 

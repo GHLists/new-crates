@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T03:19:23.441088Z,hyprforge-paths,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"XDG config paths, the user's own Pictures/Downloads directories, and crash-safe atomic file writes shared by every app in the Hyprforge desktop suite."
+2026-09-28T03:19:26.217386Z,hyprforge-look,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"The Hyprforge suite's shared Color and Theme types, with no GUI toolkit dependency so the lock screen and greeter can paint the same look as every iced app."
+2026-09-28T03:19:28.487307Z,hyprforge-process,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"A bounded replacement for Command::output() so a hung subprocess like hyprctl, gsettings or fc-list never blocks the caller forever."
+2026-09-28T03:19:31.286706Z,hyprforge-core,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"Hyprland config machinery: the hl.config overlay, hyprlang files, Lua quoting, require() setup and reload-or-roll-back; Hyprforge-internal, published so the suite's apps build from crates.io"
+2026-09-28T03:19:54.506287Z,hyprforge-lua-import,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"A sandboxed mlua evaluator that runs a hand-written hyprland.lua to record its hl.bind, hl.window_rule and hl.monitor calls; Hyprforge-internal, published so the suite's apps build from crates.io"
+2026-09-28T03:22:28.941116Z,ovfetch,0.1.1,0,0,https://github.com/karanshukla/ovfetch,"Resolve, download, and hash-verify the OpenVINO-enabled ONNX Runtime an Intel NPU needs"
+2026-09-28T03:24:46.329269Z,tree-sitter-aspx,0.1.0,0,0,https://github.com/meloncholera/tree-sitter-aspx.git,Tree-sitter grammar for ASP.NET Web Forms markup
+2026-09-28T03:27:32.557837Z,iana-passport,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the passport family.
+2026-09-28T03:30:36.738079Z,neo-primitives,3.4.0,0,0,https://github.com/r3e-network/neo-rust-sdk,Core primitive types for Neo N3 blockchain (no_std compatible)
+2026-09-28T03:32:42.813131Z,hyprforge-appearance,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"The Appearance model: the hl.config look catalog, animations, the gsettings bridge and look::resolve() into the shared Theme; Hyprforge-internal, published so the suite's apps build from crates.io"
+2026-09-28T03:34:41.123943Z,neo-protocol,3.4.0,0,0,https://github.com/r3e-network/neo-rust-sdk,"Neo N3 protocol types: transactions, blocks, witnesses (no_std compatible)"
+2026-09-28T03:37:31.698063Z,zakura-pir-native,0.0.1-rc0,0,0,https://github.com/zakura-core/wallet-libraries,Native two-mask InspiRING primitives shared by Zakura PIR clients
+2026-09-28T03:37:33.447815Z,iana-cdni-parameters,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the cdni-parameters family.
+2026-09-28T03:40:04.623207Z,rusty-soar-core,1.0.0,0,0,https://github.com/suave101/Rusty-Soar,Core Soar cognitive architecture engine with formal verification and AADL contract bridging.
+2026-09-28T03:41:06.157491Z,kcode-k1-chat-model-usage-session,0.1.0,0,0,,Manages model-usage subscriptions and durable persistence for K1 chat sessions.
+2026-09-28T03:41:13.263406Z,ydp-core,0.1.0-alpha.1,0,0,https://github.com/yitao2/ydp,"A bounded, async-only runtime for Chrome DevTools Protocol communication"
+2026-09-28T03:41:26.857303Z,ydp-gen,0.1.0-alpha.1,0,0,https://github.com/yitao2/ydp,"An offline, reproducible Rust code generator for CDP-compatible schemas"
+2026-09-28T03:42:46.578422Z,hyprforge-secret,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"A Secret<T> wrapper whose Debug impl renders only a length, never the wrapped value, so every place a password or passphrase is exposed is a single greppable expose() call."
+2026-09-28T03:42:52.814478Z,topcoat-cloudflare,0.1.0,0,0,https://github.com/kdcokenny/topcoat-cloudflare,Run Topcoat applications on Cloudflare Workers.
+2026-09-28T03:43:33.75178Z,formal-soar-verify,1.0.0,0,0,https://github.com/suave101/Rusty-Soar,Formal verification harnesses and Kani proofs for Rusty-Soar agents and AADL AGREE contracts.
+2026-09-28T03:45:29.691826Z,tree-sitter-css-strict,0.1.0,0,0,https://github.com/meloncholera/tree-sitter-css-strict.git,Strict CSS grammar for tree-sitter
+2026-09-28T03:45:57.790318Z,rusty-soar-cli,1.0.0,0,0,https://github.com/suave101/Rusty-Soar,CLI tool to verify native Soar production rules against AADL AGREE contracts and cross-compile verified agents.
+2026-09-28T03:45:58.39609Z,ydp,0.1.0-alpha.1,0,0,https://github.com/yitao2/ydp,"A strongly typed, async-only Chrome DevTools Protocol client for Rust"
+2026-09-28T03:47:33.809384Z,iana-aead-parameters,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the aead-parameters family.
+2026-09-28T03:49:39.369169Z,rubix-kube,0.1.0,0,0,https://github.com/geoffsee/rubix-kube,Lightweight Kubernetes Disto
+2026-09-28T03:49:48.32385Z,yacc1101,0.1.0,0,0,https://github.com/machshev/cc1101-embassy,Async Embassy driver for the CC1101 sub-1GHz RF transceiver
+2026-09-28T03:52:48.773276Z,kcode-k1-chat-thread-web-search-tasks,0.1.0,0,0,,Concrete WebSearch task supervision for the K1 chat-thread session actor
+2026-09-28T03:52:52.091859Z,hyprforge-archive,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"Reads and writes zip, tar and 7z archives: what is inside one, as a directory tree; extracting from it; and rewriting it."
+2026-09-28T03:57:08.323666Z,kcode-k1-chat-thread-session-view,0.1.0,0,0,,Process-local read projection for one K1 chat-thread session actor
+2026-09-28T03:57:32.263275Z,iana-hpke,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the hpke family.
+2026-09-28T04:02:56.208099Z,hyprforge-keys,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"The suite's keyboard grammar: one Combo parser, a Keymap generic over each app's actions, and one merge policy for user overrides, so Ctrl+Shift+N means the same thing in every Hyprforge app"
+2026-09-28T04:04:02.955364Z,promptfirewall-cli,0.2.0,0,0,https://github.com/TimurRakhmatullin86/promptfirewall,CLI scanner for PII and prompt injection in source files. Powers the promptfirewall GitHub Action.
+2026-09-28T04:07:33.394319Z,iana-hash-function-text-names,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the hash-function-text-names family.
+2026-09-28T04:13:04.171252Z,hyprforge-ui,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"The iced widget layer built on hyprforge-look's shared theme, giving every Hyprforge app the same spacing scale, palette and widgets."
+2026-09-28T04:17:32.063283Z,iana-pkix-parameters,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the pkix-parameters family.
+2026-09-28T04:20:16.255932Z,typst_imaging,0.0.1,0,0,https://github.com/voxell-tech/velyst,Typst frame renderer backed by the imaging crate.
+2026-09-28T04:20:18.567606Z,kanva_svg,0.0.1,0,0,https://github.com/voxell-tech/velyst,Native usvg → KanvaSink renderer.
+2026-09-28T04:20:21.39353Z,kanva_typst,0.0.1,0,0,https://github.com/voxell-tech/velyst,Typst frame renderer backed by KanvaSink.
