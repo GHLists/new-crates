@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T19:22:31.603869Z,sosie,0.1.0,0,0,https://github.com/mlejeunedev/sosie/,"Anonymize or pseudonymize a mysqldump dump in streaming, driven by a YAML config"
+2026-09-28T19:24:58.241183Z,sootmark-common,0.3.2,0,0,https://github.com/Sootmark/common,"Zero-dependency helpers for Sootmark forensic parsers: timestamps, bounded byte reading, UTF-16 text, Windows SIDs and GUIDs, CRC-32/32C, Adler-32, MD5, SHA-1, SHA-256, JSON and DEFLATE."
+2026-09-28T19:27:33.046408Z,sootmark-zip,0.2.1,0,0,https://github.com/Sootmark/zip,"Read-only zip archives for forensic intake: zip64, stored/DEFLATE/Deflate64, WinZip AES decryption, streaming reads with CRC-32 verification. Written from scratch; cryptography from RustCrypto."
+2026-09-28T19:27:54.061686Z,sootmark-disk,0.2.3,0,0,https://github.com/Sootmark/disk,"Disk images for forensic intake: raw and split raw images, GPT and MBR partitions, NTFS file listing and streaming reads (alternate data streams included)."
+2026-09-28T19:28:23.904977Z,sootmark-evtx,0.1.6,0,0,https://github.com/Sootmark/evtx,"Windows Event Log (.evtx) parser: file and chunk headers, BinXML, templates, typed values."
+2026-09-28T19:28:43.486605Z,sootmark-model,0.1.4,0,0,https://github.com/Sootmark/model,"The Sootmark record and event model, and the contract parser adapters implement."
+2026-09-28T19:30:01.400396Z,fsr-sdk-sys,0.1.0,0,0,https://github.com/Render-Slop-Manufactory/fsr-sdk-rs,Selected raw bindings and explicit Windows/DX12 runtime loading for AMD FSR SDK v2.3.0
+2026-09-28T19:34:03.197105Z,fsr-sdk,0.1.0,0,0,https://github.com/Render-Slop-Manufactory/fsr-sdk-rs,Engine-independent Windows/DX12 upscaling wrapper for AMD FSR SDK v2.3.0
+2026-09-28T19:35:19.380358Z,sootmark-vhdx,0.1.4,0,0,https://github.com/Sootmark/vhdx,"Read-only VHDX virtual disks (dynamic and fixed) as a Read + Seek stream, with checksum validation."
+2026-09-28T19:36:22.822507Z,rattler_conda_lock,0.1.0,0,0,https://github.com/conda/rattler,Read and write CEP-37 conda lockfiles with source-aware diagnostics
+2026-09-28T19:37:36.251361Z,baukit-egress,0.5.0,0,0,https://github.com/PatrickKoss/baukit,Guarded outbound HTTP client that pins DNS answers to public addresses.
+2026-09-28T19:40:28.830583Z,kcode-k1-http-chat-representation-testkit,0.1.0,0,0,,Target-independent conformance tests for K1 HTTP chat responses
+2026-09-28T19:41:56.245362Z,microsoft-webui-desktop-build,0.0.30,0,0,https://github.com/microsoft/webui,Build-time typed IPC bindings for the WebUI desktop SDK
+2026-09-28T19:42:15.463234Z,microsoft-webui-desktop,0.0.30,0,0,https://github.com/microsoft/webui,Configurable native desktop SDK for WebUI applications
+2026-09-28T19:42:18.147985Z,pask-wire,0.1.0,0,0,https://github.com/wilder-robotics/pask-workspace,SCITT-native COSE receipt library for Physical-Site Engagement Receipts; implements the wilder.pser/0.5 and 0.6 profiles
+2026-09-28T19:43:38.23071Z,pask-attest,0.1.0,0,0,https://github.com/wilder-robotics/pask-workspace,TEE attestation verification and typed claims for Pask receipts
+2026-09-28T19:43:41.718265Z,pask-wire-cli,0.1.0,0,0,https://github.com/wilder-robotics/pask-workspace,"Command-line conformance tool: produce, verify, and emit canonical Pask receipts"
+2026-09-28T19:45:14.935625Z,sootmark-ewf,0.1.3,0,0,https://github.com/Sootmark/ewf,"Read-only E01 (EWF) images: segments, chunk tables, zlib chunks with Adler-32 checks, embedded MD5/SHA-1 verification, acquisition metadata. Written from scratch."
+2026-09-28T19:45:24.501658Z,predicate-credential-system,0.1.0,0,0,https://github.com/OpenVTC/predicate-credential-system,"Rust implementation of the predicate credential system (PCS): sigma protocols, key-injective PRF tags, credential bases and the modular threshold construction"
+2026-09-28T19:55:14.42485Z,sootmark-conformance,0.1.5,0,0,https://github.com/Sootmark/conformance,Checks that a parser adapter keeps the Sootmark adapter contract.
+2026-09-28T19:55:28.286339Z,oauth-resource-server,0.1.0,0,0,https://github.com/St0nefish/oauth-resource-server,"OAuth 2.0 bearer-token resource server for Rust HTTP services: JWT access-token validation against a JWKS, RFC 9728 protected-resource metadata, RFC 6750 challenges, optional static API key, axum int…"
+2026-09-28T19:57:16.104496Z,io-gpeople,0.3.1,0,0,https://github.com/pimalaya/io-gpeople,Google People REST API client library for Rust
+2026-09-28T20:00:08.14381Z,ruvio-hashbrown,0.17.1,0,0,https://github.com/salihcantekin/ruvio,Ruvio fork of hashbrown. SwissTable with one empty slot in 64 so one million keys stay in 2^20 buckets.
+2026-09-28T20:03:24.329476Z,espxpansion-driver,0.1.0,0,0,https://github.com/Las-Vejas/espxpansion,ESP32 expansion module for the Hackxpansion console
+2026-09-28T20:04:41.887717Z,gb-strudel,0.1.0,0,0,https://github.com/KeeTraxx/gb-strudel,Compose Game Boy music with Strudel-style patterns and export hUGETracker .uge files for GB Studio
+2026-09-28T20:05:14.292288Z,sootmark-adapters,0.1.4,0,0,https://github.com/Sootmark/adapters,One adapter per parser dependency: the parser's native output mapped into the Sootmark model.
+2026-09-28T20:06:31.850559Z,cyclops,0.1.0,0,0,https://github.com/raw-lab/cyclops,"Cyclops — formerly EpiVirQuant. Sizes and counts viral-like particles, bacteria, archaea, and protists in epifluorescence microscopy via tunable blind deconvolution."
+2026-09-28T20:08:24.833091Z,kcode-k1-codex-websearch-tests,0.1.0,0,0,,Regression tests for kcode-k1-codex-websearch
+2026-09-28T20:14:43.63047Z,flightlog,0.2.1,0,0,https://github.com/skrcka/flightlog,"Record a coding-agent session (Claude Code, Codex, opencode, Gemini CLI, Cursor) as a portable, redacted bundle — ATIF trajectory plus the native session for resume — and bring it back."
+2026-09-28T20:15:15.065093Z,sootmark-intake,0.2.2,0,0,https://github.com/Sootmark/intake,"Evidence intake: read directories, zips and disk images (E01, VHDX, raw), recognise KAPE and Velociraptor collections, detect which parser handles each file."
