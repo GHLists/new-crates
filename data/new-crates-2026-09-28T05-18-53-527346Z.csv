@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T04:23:13.255768Z,hyprforge-authui,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"The one authentication screen the lock screen and greeter share: background, clock, prompt and a Backend seam for PAM or greetd, drawn with iced 0.14 through iced_tiny_skia"
+2026-09-28T04:24:09.951438Z,kcode-k1-chat-service-tools,0.1.0,0,0,,K1 Chat Service native tool definitions
+2026-09-28T04:27:33.211195Z,iana-acme,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the acme family.
+2026-09-28T04:29:10.424487Z,netspin-core,0.1.0,0,0,https://github.com/stealthsoftwareinc/netspin,A high-fidelity sampling-based network modeling framework
+2026-09-28T04:33:18.921282Z,hyprforge-bluetooth,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"Bluetooth adapters, devices and pairing over BlueZ, behind a backend trait with a mock so everything above the D-Bus client is testable on a machine with no adapter"
+2026-09-28T04:35:20.085797Z,todont,0.1.0,0,0,https://github.com/Danpythonman/todont,A todo list for the terminal (CLI + TUI) that syncs between devices through a self-hosted server and sends reminders to your phone via ntfy
+2026-09-28T04:37:32.850395Z,iana-oauth-parameters,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the oauth-parameters family.
+2026-09-28T04:43:24.995298Z,hyprforge-ecosystem,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"hyprpaper, hyprsunset, hypridle and portal settings: one generated hyprlang file per daemon, and how a change reaches it; Hyprforge-internal, published so the suite's apps build from crates.io"
+2026-09-28T04:47:32.035383Z,iana-jose,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the jose family.
+2026-09-28T04:48:22.528851Z,tuimon,0.1.0,0,0,https://github.com/Danpythonman/tuimon,"A terminal dashboard for CPU, memory, network, disks, processes, ports and system logs"
+2026-09-28T04:53:29.101484Z,hyprforge-emoji,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"CLDR-ordered emoji data and pure search, generated from Unicode's emoji-test.txt, for building an emoji picker."
+2026-09-28T04:57:33.703554Z,iana-jwt,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the jwt family.
+2026-09-28T05:03:02.100207Z,kcode-k1-codex-websearch,0.1.0,0,0,,Isolated one-shot Codex live-Web search runner
+2026-09-28T05:03:34.425766Z,hyprforge-fileops,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"Trash, copy, move and rename per the freedesktop specifications, aware of which filesystem a path is on, as step-driven operations with no async runtime or D-Bus"
+2026-09-28T05:03:43.68081Z,diavasi-core,0.13.0,0,0,https://github.com/diavasis/diavasi,Durable consumer groups over existing database queries
+2026-09-28T05:07:31.814004Z,iana-authentication,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the authentication family.
+2026-09-28T05:13:38.590484Z,hyprforge-image,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"Bounded, orientation-correct picture decoding: measure without decoding, decide how much may safely be decoded, decode that much, and apply EXIF orientation; no GUI toolkit"
+2026-09-28T05:15:39.459911Z,gantz_io,0.0.1,0,0,https://github.com/nannou-org/gantz,"Input and output nodes for gantz, an environment for creative systems."
+2026-09-28T05:16:30.782912Z,gliner2-candle,0.3.0,0,0,https://github.com/mrorigo/gliner2-candle,"Pure Rust implementation of GLiNER2 and GLiNER2.5 for CPU-based information extraction (entities, classifications, relations, span attributes)"
+2026-09-28T05:17:33.709521Z,iana-language,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the language family.
