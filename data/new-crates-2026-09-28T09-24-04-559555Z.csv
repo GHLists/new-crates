@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T08:20:14.154144Z,pgqueue-macros,0.1.0,0,0,https://github.com/joowani/pgqueue,Procedural macros for the pgqueue crate
+2026-09-28T08:20:16.112195Z,pgqueue,0.1.0,0,0,https://github.com/joowani/pgqueue,Background and cron job processing backed by PostgreSQL 18+
+2026-09-28T08:22:58.893807Z,etsi014,0.4.0,0,0,https://github.com/QOJena/etsi014_rs,Client for the ETSI GS QKD 014 key delivery REST API
+2026-09-28T08:27:32.150322Z,iana-webpush-parameters,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the webpush-parameters family.
+2026-09-28T08:31:42.694713Z,modern-egui,0.1.0,0,0,https://github.com/marc0x71/modern-egui,"A modern theme and UI helpers (typography, spacing, buttons) for egui"
+2026-09-28T08:35:22.568944Z,filemaid,0.1.0,0,0,https://github.com/89jobrien/maid,"A clean, fast CLI tool that organises files into subfolders by type, converts documents to markdown, and routes them to Obsidian vaults"
+2026-09-28T08:35:56.929669Z,samplekit,1.0.0-rc.1,0,0,https://github.com/zelyph/SampleKit,"Sample data in plain Markdown: computed, current, tracked"
+2026-09-28T08:41:29.99987Z,astli-index,0.2.0,0,0,https://github.com/fischeti/astli,"The top-level names SystemVerilog files declare and use, and the files a design needs"
+2026-09-28T08:42:44.732875Z,armonik-transport,3.29.3-beta-0,0,0,https://github.com/aneoconsulting/ArmoniK.Api,"Transport layer (configuration, TLS/mTLS) for the ArmoniK Rust client"
+2026-09-28T08:56:49.555269Z,onoal-oracle-core,0.2.1,0,0,https://github.com/Onoal/Oracle,Universal structural Core machinery for Oracle.
+2026-09-28T08:57:15.661851Z,onoal-oracle-definition,0.2.1,0,0,https://github.com/Onoal/Oracle,"Computational Definition identity, content, and representation machinery for Oracle."
+2026-09-28T08:57:32.171986Z,onoal-oracle-need,0.2.1,0,0,https://github.com/Onoal/Oracle,Required computational possibility truth for Oracle.
+2026-09-28T08:57:49.853327Z,onoal-oracle-provision,0.2.1,0,0,https://github.com/Onoal/Oracle,Provided computational possibility truth for Oracle.
+2026-09-28T08:58:04.502611Z,onoal-oracle-compatibility,0.2.1,0,0,https://github.com/Onoal/Oracle,Semantic compatibility assessment machinery for Oracle.
+2026-09-28T09:06:18.97103Z,chromiant,0.1.0,0,0,https://github.com/rivea0/chromiant,A library to search for colors from a curated collection of unique color names.
+2026-09-28T09:07:32.988174Z,tit,0.1.0,0,0,https://github.com/Jijjy/tit,"A minimalist, opinionated terminal UI for git"
+2026-09-28T09:11:43.787596Z,entregar-cli,0.1.0,0,0,https://github.com/kanutocd/lunsaran,Command-line client for resumable Lunsaran uploads
+2026-09-28T09:13:13.21725Z,termhog-cli,0.1.0,0,0,https://github.com/fyder-ai/termhog,Record terminal sessions as PostHog session replays
+2026-09-28T09:18:42.16375Z,henceforth,1.0.0,0,0,https://github.com/riogu/henceforth,A statically-typed stack-based programming language with an imperative twist.
+2026-09-28T09:18:58.788002Z,wordseg-rs,0.1.0,0,0,https://github.com/jwu/wordseg-rs,Re-segment concatenated English text into words (stdin/stdout filter)
+2026-09-28T09:19:23.032028Z,tin-tile-sign,0.1.0,0,0,,地图瓦片签名票据：与 nginx secure_link 对齐的规范串与 base64url 摘要
+2026-09-28T09:20:22.226896Z,cockup,0.2.0,0,0,https://github.com/huaium/cockup,Yet another backup tool for various configurations
+2026-09-28T09:21:35.64613Z,fusion-pcu,0.0.1,0,0,https://github.com/Private-Asylum/Fusion-PCU,Backend-neutral intermediate representation and execution contracts for coprocessors
+2026-09-28T09:21:37.494706Z,fusion-pcu-cpu,0.0.1,0,0,https://github.com/Private-Asylum/Fusion-PCU,Opt-in CPU execution backend for Fusion PCU
+2026-09-28T09:21:37.82113Z,fusion-pcu-cuda,0.0.1,0,0,https://github.com/Private-Asylum/Fusion-PCU,CUDA backend scaffold for Fusion PCU
+2026-09-28T09:21:38.07Z,fusion-pcu-dx12,0.0.1,0,0,https://github.com/Private-Asylum/Fusion-PCU,Direct3D 12 backend scaffold for Fusion PCU
+2026-09-28T09:21:38.36403Z,fusion-pcu-ilz,0.0.1,0,0,https://github.com/Private-Asylum/Fusion-PCU,Intel Level Zero backend scaffold for Fusion PCU
