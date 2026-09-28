@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T05:23:42.726841Z,hyprforge-listing,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"A directory listing and its order: reading, sorting and filtering behind a mockable backend, shared so the file manager and the image viewer agree which file comes next"
+2026-09-28T05:24:50.188191Z,kache-shims,0.27.0,0,0,https://github.com/kunobi-ninja/kache,"Upgrade-safe paths to an installed binary, and compiler-name shim farms that point at it."
+2026-09-28T05:27:33.271466Z,iana-uuid,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the uuid family.
+2026-09-28T05:29:41.582669Z,swiftui-native-macros,0.0.1,0,0,https://github.com/eugenehp/rswift,"The swiftui! macro — SwiftUI's declarative syntax, lowered to swiftui-native's DSL"
+2026-09-28T05:29:53.239178Z,swiftui-native,0.0.1,0,0,https://github.com/eugenehp/rswift,"SwiftUI from pure Rust — no Swift bridge, no shim, only swift-runtime calls"
+2026-09-28T05:33:50.933281Z,hyprforge-files-core,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"The model layer of the Hyprforge file manager: the Browser update/view state shared with the portal's file dialog, preferences, clipboard, drag, undo and sidebar, over iced 0.14 widgets"
+2026-09-28T05:37:33.65097Z,iana-internet-date-time-format,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the internet-date-time-format family.
+2026-09-28T05:38:28.489625Z,commonware-dkg,0.0.1,0,0,,TBA
+2026-09-28T05:43:56.405507Z,hyprforge-icons,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"Finds an icon by name the way the freedesktop icon theme specification says to: the configured theme, what it inherits, then hicolor."
+2026-09-28T05:47:32.54788Z,iana-well-known-uris,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the well-known-uris family.
+2026-09-28T05:54:02.329631Z,hyprforge-input,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"The keyboard, pointer and touchpad hl.config catalog, XKB layout discovery and the require line for the generated file; Hyprforge-internal, published so the suite's apps build from crates.io"
+2026-09-28T05:56:07.045212Z,seamark,0.1.0,0,0,https://github.com/bjornharrtell/seamark,A Rust framework for building JSON:API servers with SeaORM
+2026-09-28T05:57:32.846004Z,iana-content-security-policy-directives,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the content-security-policy-directives family.
+2026-09-28T06:00:04.188241Z,java-mapping-serde,0.1.0,0,0,https://codeberg.org/DM-Earth/mapping-serde,Java deobfuscation mapping serialization and deserialization framework
+2026-09-28T06:00:05.390331Z,java-mapping-serde-io-util,0.1.0,0,0,https://codeberg.org/DM-Earth/mapping-serde,I/O utilities for implementing mapping format readers and writers
+2026-09-28T06:02:15.158334Z,java-mapping-serde-element,0.1.0,0,0,https://codeberg.org/DM-Earth/mapping-serde,"Generalized, fully-owned in-memory representation of Java deobfuscation mappings"
+2026-09-28T06:02:16.341516Z,java-mapping-serde-proguard,0.1.0,0,0,https://codeberg.org/DM-Earth/mapping-serde,ProGuard mapping format support for java-mapping-serde (deserialize only)
+2026-09-28T06:02:17.40422Z,java-mapping-serde-tiny1,0.1.0,0,0,https://codeberg.org/DM-Earth/mapping-serde,Tiny v1 mapping format support for java-mapping-serde
+2026-09-28T06:04:06.530176Z,hyprforge-mesh,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"Loads STL, 3MF and OBJ models into a welded indexed mesh, with fstl's camera and draw modes and a CPU-drawn thumbnail — the model half of the Hyprforge media viewer, carried over from view3d."
+2026-09-28T06:06:07.143734Z,cf-gears-settings-service-sdk,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"SDK for settings-service gear: setting-key value object, models, and error definitions"
+2026-09-28T06:07:29.699637Z,ag-router,0.16.2,0,0,https://github.com/agentty-xyz/agentty,Provider-neutral structured model API router
+2026-09-28T06:07:32.92377Z,iana-cookie-attribute-names,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the cookie-attribute-names family.
+2026-09-28T06:07:38.727808Z,ag-scheduler,0.16.2,0,0,https://github.com/agentty-xyz/agentty,Shared admission and task selection for Agentty work
+2026-09-28T06:07:45.260221Z,cf-gears-settings-service,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"Settings Service gear: declaration registry, scoped value resolution, and validate-then-set writes"
+2026-09-28T06:07:52.923934Z,cant-macros,0.0.2,0,0,https://github.com/ursetek/cant,Procedural macros for cant
+2026-09-28T06:08:43.437439Z,java-mapping-serde-tiny2,0.1.0,0,0,https://codeberg.org/DM-Earth/mapping-serde,Tiny v2 mapping format support for java-mapping-serde
+2026-09-28T06:11:41.785258Z,nmbrs-cassandra-cpp,3.0.2,0,0,https://github.com/nosqlbench/nmbrs,"Rust wrapper over the Apache Cassandra C++ driver — the nmbrs fork of cassandra-cpp 3.0.2, adding server-side trace capture."
+2026-09-28T06:14:11.949176Z,hyprforge-mime,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"Reads the freedesktop shared MIME database: what type a file is by name or by its contents, which applications handle a type, which one is the default, and which icon a type has."
+2026-09-28T06:17:32.152398Z,iana-trans,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the trans family.
+2026-09-28T06:19:03.829005Z,corepc-regtest-client,0.17.0,0,0,https://git.rust-bitcoin.org/rust-bitcoin/corepc,Bitcoin Core JSON-RPC client for integration/regtest testing
+2026-09-28T06:20:07.65831Z,java-mapping-serde-util,0.1.0,0,0,https://codeberg.org/DM-Earth/mapping-serde,Utilities for transforming mappings and writing mapping-serde deserializers
