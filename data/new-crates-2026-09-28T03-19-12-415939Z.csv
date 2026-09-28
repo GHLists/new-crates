@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T02:21:03.643342Z,iana-quic,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the quic family.
+2026-09-28T02:25:31.777327Z,heraldr,0.0.1,0,0,https://github.com/gwenwindflower/heraldr,"Herdr tab, workspace, and agent chrome: [N] <icon> <name> labels driven by the live session"
+2026-09-28T02:27:36.028383Z,iana-sip,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the sip family.
+2026-09-28T02:29:58.631873Z,gpui-pre-bench-metrics,0.3.7,0,0,https://github.com/zed-industries/zed,Zed's `bench_metrics` crate (gpui-pre snapshot of zed@1a28cff)
+2026-09-28T02:31:51.627551Z,kcode-k1-codex-runtime-observations,0.1.0,0,0,,Provider observation routing for the K1 Codex runtime actor
+2026-09-28T02:35:50.43124Z,zc-router,0.0.3,0,0,https://github.com/zcoder-run/zcoder,Core messaging contract and routing for zcoder
+2026-09-28T02:35:52.20587Z,zc-base,0.0.3,0,0,https://github.com/zcoder-run/zcoder,In-process server boundary for zcoder
+2026-09-28T02:37:33.851586Z,iana-ntp-parameters,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the ntp-parameters family.
+2026-09-28T02:45:19.998661Z,scann-core,0.2.0,0,0,https://github.com/TheCleaners/scann-core,Rust bindings for scann-core: ScaNN's approximate nearest-neighbour vector search core as a standalone library (derived from Google's ScaNN; not an official Google product)
+2026-09-28T02:45:52.501174Z,ptmp,0.2.1,0,0,https://github.com/TantiE100/pktctl,Async client for the Packet Tracer Messaging Protocol (PTMP) and its IPC layer
+2026-09-28T02:46:03.163183Z,pktfile,0.2.1,0,0,https://github.com/TantiE100/pktctl,"Reads and writes Cisco Packet Tracer .pkt files: the encryption, obfuscation and compression around their XML"
+2026-09-28T02:46:31.621623Z,pktctl,0.2.1,0,0,https://github.com/TantiE100/pktctl,MCP server that drives Cisco Packet Tracer natively over PTMP
+2026-09-28T02:47:32.967337Z,iana-character-sets,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the character-sets family.
+2026-09-28T02:49:42.434453Z,ain,0.1.1,0,0,https://github.com/zstewar1/ain,Case-insensitive mirror of the `ascii` crate
+2026-09-28T02:57:31.848507Z,iana-cont-disp,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the cont-disp family.
+2026-09-28T03:07:31.79557Z,iana-uri-schemes,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the uri-schemes family.
+2026-09-28T03:15:00.371621Z,cdb_migrator,0.1.0,0,0,https://github.com/drtallman/OpenCDB,OGC CDB 1.x reader and 1.x-to-2.0 migrator built on opencdb
+2026-09-28T03:15:06.648359Z,sendping,1.0.0,0,0,https://github.com/shekhu10/sendping-sdks,Official Rust SDK for the SendPing email API — send transactional and marketing email from your own verified domain.
+2026-09-28T03:15:53.399927Z,kcode-k1-chat-model-usage,0.1.0,0,0,,Deterministic Codex model-usage correlation for one K1 session actor
+2026-09-28T03:17:33.261642Z,iana-tel-uri-parameters,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the tel-uri-parameters family.
