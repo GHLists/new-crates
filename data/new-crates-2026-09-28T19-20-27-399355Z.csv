@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T18:28:38.149489Z,walshadow,0.1.0,0,0,,Schema-only Postgres + WAL replay catalog mirror for CDC to ClickHouse
+2026-09-28T18:31:09.142897Z,solcompat-core,0.1.0,0,0,https://github.com/Memewtoo/solcompat,Compatibility data model and deterministic rule engine for SolCompat
+2026-09-28T18:31:10.686175Z,solcompat-project,0.1.0,0,0,https://github.com/Memewtoo/solcompat,Bounded Solana project discovery and evidence collection for SolCompat
+2026-09-28T18:31:12.257012Z,solcompat,0.1.0,0,0,https://github.com/Memewtoo/solcompat,Evidence-based compatibility checks for Solana programs and clients
+2026-09-28T18:41:31.336776Z,rust-ping,0.1.0,0,0,,A tiny CLI that replies with pong — useful for testing
+2026-09-28T18:44:39.568139Z,zippa-db,0.1.0,0,0,https://github.com/Alanaktion/zippa-db,"A fast, lightweight, cross-platform database client for PostgreSQL, MySQL, and SQLite."
+2026-09-28T18:46:52.213817Z,signstar-crypto,0.1.0,0,0,https://gitlab.archlinux.org/archlinux/signstar,Common types for cryptography in Signstar
+2026-09-28T18:47:41.263034Z,tauri-plugin-dotnet,0.1.1,0,0,https://github.com/samartzidis/tauri-plugin-dotnet,Tauri plugin that connects the frontend to .NET services through a typed RPC bridge.
+2026-09-28T18:48:47.149972Z,commitscape-tui,0.1.0,0,0,https://github.com/pixelactstudio/commitscape,"The terminal interface: Panels over an Index, one Window at a time."
+2026-09-28T18:48:48.94961Z,commitscape,0.1.0,0,0,https://github.com/pixelactstudio/commitscape,A terminal UI that reads a git repository and reports what changes what you do next.
+2026-09-28T19:00:20.642126Z,rpmcrab-core,0.1.0,0,0,https://github.com/plusky/rpmcrab,"Domain library for rpmcrab: RPM model, config, filters, report renderer, and checks."
+2026-09-28T19:00:55.402777Z,rpmcrab,0.1.0,0,0,https://github.com/plusky/rpmcrab,"A drop-in replacement for rpmlint, rewritten in Rust."
+2026-09-28T19:06:48.721468Z,purrassist-core,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrassist,Name reservation for PurRAssist; see 0.1.0.
+2026-09-28T19:06:51.053915Z,purrassist-syntax,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrassist,Name reservation for PurRAssist; see 0.1.0.
+2026-09-28T19:06:53.395479Z,purrassist,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrassist,Name reservation for PurRAssist; see 0.1.0.
+2026-09-28T19:06:55.439265Z,purrassist-host,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrassist,Name reservation for PurRAssist; see 0.1.0.
+2026-09-28T19:06:57.611842Z,purrassist-cli,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrassist,Name reservation for PurRAssist; see 0.1.0.
+2026-09-28T19:13:12.015511Z,bile,0.1.0,0,0,https://codeberg.org/fhupp/bile,"A simple build system, structured around Lua scripts."
+2026-09-28T19:14:41.773586Z,peisar,0.1.2,0,0,https://github.com/phothinmg/peisar,A practical Markdown parser written in Rust
+2026-09-28T19:18:45.610698Z,trellis-tui,0.1.0,0,0,https://github.com/world-build/trellis,Minimal terminal UI framework with differential rendering and synchronized output for flicker-free interactive CLIs.

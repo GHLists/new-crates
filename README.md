@@ -8,44 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 18:18 UTC
+## Latest list — 2026-09-28 19:20 UTC
 
-New crates published between 2026-09-28 17:18 UTC and 2026-09-28 18:18 UTC.
+New crates published between 2026-09-28 18:18 UTC and 2026-09-28 19:20 UTC.
 
-[Full CSV](data/new-crates-2026-09-28T18-18-56-075552Z.csv)
+[Full CSV](data/new-crates-2026-09-28T19-20-27-399355Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-28 17:24:23 | [strtotime](https://crates.io/crates/strtotime) | 0.1.0 | 0 | no_std, no-alloc parser for PHP-style date/time expressions ("next week", "+2 d… |
-| 2026-09-28 17:24:50 | [lenso-test](https://crates.io/crates/lenso-test) | 0.1.2 | 0 | Deterministic TestApp harness for native Lenso Plugins. |
-| 2026-09-28 17:24:52 | [cucco](https://crates.io/crates/cucco) | 3.4.0 | 0 | An interactive CLI for creating conventional commits, with git hooks support. |
-| 2026-09-28 17:28:20 | [axum-open-id-connect](https://crates.io/crates/axum-open-id-connect) | 0.2.0-alpha.4 | 0 | OpenID Connect helpers for Axum applications |
-| 2026-09-28 17:31:11 | [srcmetrics](https://crates.io/crates/srcmetrics) | 0.2.0 | 0 | Language-independent source code metrics (size, complexity, nesting, Halstead,… |
-| 2026-09-28 17:32:00 | [srcmetrics-cli](https://crates.io/crates/srcmetrics-cli) | 0.2.0 | 0 | Command-line tool and local HTTP API for srcmetrics: analyze source code, expor… |
-| 2026-09-28 17:38:09 | [gns-core](https://crates.io/crates/gns-core) | 0.1.1 | 0 | Core types and extension traits for the Genius Bot multi-agent SDK |
-| 2026-09-28 17:38:12 | [gns-llm](https://crates.io/crates/gns-llm) | 0.1.1 | 0 | genai-backed LLM provider (and a scripted mock) for the Genius Bot multi-agent… |
-| 2026-09-28 17:38:14 | [gns-mcp](https://crates.io/crates/gns-mcp) | 0.1.1 | 0 | Minimal Model Context Protocol client (stdio + streamable HTTP) exposing MCP to… |
-| 2026-09-28 17:38:14 | [gns-store](https://crates.io/crates/gns-store) | 0.1.1 | 0 | SQLite and file-based persistence for the Genius Bot multi-agent SDK |
-| 2026-09-28 17:38:15 | [gns-tools](https://crates.io/crates/gns-tools) | 0.1.1 | 0 | Built-in tools for the Genius Bot multi-agent SDK (messaging, state, local shel… |
-| 2026-09-28 17:46:13 | [tailite](https://crates.io/crates/tailite) | 0.1.0 | 0 | Row-level change data capture for any SQLite database, from outside the process… |
-| 2026-09-28 17:48:04 | [trove-cli](https://crates.io/crates/trove-cli) | 0.1.0 | 0 | Find and resume coding agent chats: Claude Code, Codex, OpenCode, Copilot CLI,… |
-| 2026-09-28 17:48:51 | [gns-runtime](https://crates.io/crates/gns-runtime) | 0.1.1 | 0 | Host runtime for the Genius Bot multi-agent SDK: actors, scheduling, messaging,… |
-| 2026-09-28 17:51:11 | [metriken-archive](https://crates.io/crates/metriken-archive) | 0.1.0 | 0 | Archives of metriken metrics read as one PromQL source per recording |
-| 2026-09-28 17:55:06 | [loonfs-http](https://crates.io/crates/loonfs-http) | 0.4.0 | 0 | The representative LoonFS HTTP binding. |
-| 2026-09-28 17:58:11 | [gns-cli](https://crates.io/crates/gns-cli) | 0.1.1 | 0 | REPL demo for the Genius Bot multi-agent SDK |
-| 2026-09-28 17:58:42 | [istmo-window](https://crates.io/crates/istmo-window) | 0.1.1-alpha.3 | 0 | Process-wide registry of native desktop windows shared by istmo plugins that ne… |
-| 2026-09-28 17:59:12 | [istmo-biometric](https://crates.io/crates/istmo-biometric) | 0.1.1-alpha.3 | 0 | Cross-platform biometric authentication plugin for the istmo framework — Biomet… |
-| 2026-09-28 17:59:20 | [istmo-file-picker](https://crates.io/crates/istmo-file-picker) | 0.1.1-alpha.3 | 0 | Cross-platform file-picker plugin for the istmo framework — SAF on Android, UID… |
-| 2026-09-28 17:59:45 | [istmo-share](https://crates.io/crates/istmo-share) | 0.1.1-alpha.3 | 0 | Cross-platform share plugin for the istmo framework — send and receive text, li… |
-| 2026-09-28 18:08:13 | [gns-server](https://crates.io/crates/gns-server) | 0.1.1 | 0 | HTTP API and embedded React debug console for the Genius Bot multi-agent SDK |
-| 2026-09-28 18:11:26 | [lenso-agent-tool-cli-plugin](https://crates.io/crates/lenso-agent-tool-cli-plugin) | 0.1.0 | 0 | Host-owned CLI ingress for explicitly bound Agent Tool providers |
-| 2026-09-28 18:11:57 | [docker-lens](https://crates.io/crates/docker-lens) | 0.1.0 | 0 | Bounded native Docker Engine observation and inert target planning contracts |
-| 2026-09-28 18:13:50 | [oxibrowser-credentials](https://crates.io/crates/oxibrowser-credentials) | 0.24.0 | 0 | Credential broker: keyring-backed secrets, TOTP codes, consent records, and the… |
-| 2026-09-28 18:16:16 | [commitscape-core](https://crates.io/crates/commitscape-core) | 0.1.0 | 0 | Data model shared by every commitscape layer. Contains no I/O and no git. |
-| 2026-09-28 18:16:18 | [commitscape-forge](https://crates.io/crates/commitscape-forge) | 0.1.0 | 0 | What a code host says about a repository: GitHub, through the gh CLI. |
-| 2026-09-28 18:16:18 | [commitscape-index](https://crates.io/crates/commitscape-index) | 0.1.0 | 0 | Walks a repository into an Index, and caches it. The only crate that knows git… |
-| 2026-09-28 18:16:19 | [commitscape-metrics](https://crates.io/crates/commitscape-metrics) | 0.1.0 | 0 | Pure functions over an Index. No I/O, no git, no terminal. |
-| 2026-09-28 18:16:20 | [commitscape-report](https://crates.io/crates/commitscape-report) | 0.1.0 | 0 | A repository's Report: every screen's data for every Window. |
+| 2026-09-28 18:28:38 | [walshadow](https://crates.io/crates/walshadow) | 0.1.0 | 0 | Schema-only Postgres + WAL replay catalog mirror for CDC to ClickHouse |
+| 2026-09-28 18:31:09 | [solcompat-core](https://crates.io/crates/solcompat-core) | 0.1.0 | 0 | Compatibility data model and deterministic rule engine for SolCompat |
+| 2026-09-28 18:31:10 | [solcompat-project](https://crates.io/crates/solcompat-project) | 0.1.0 | 0 | Bounded Solana project discovery and evidence collection for SolCompat |
+| 2026-09-28 18:31:12 | [solcompat](https://crates.io/crates/solcompat) | 0.1.0 | 0 | Evidence-based compatibility checks for Solana programs and clients |
+| 2026-09-28 18:41:31 | [rust-ping](https://crates.io/crates/rust-ping) | 0.1.0 | 0 | A tiny CLI that replies with pong — useful for testing |
+| 2026-09-28 18:44:39 | [zippa-db](https://crates.io/crates/zippa-db) | 0.1.0 | 0 | A fast, lightweight, cross-platform database client for PostgreSQL, MySQL, and… |
+| 2026-09-28 18:46:52 | [signstar-crypto](https://crates.io/crates/signstar-crypto) | 0.1.0 | 0 | Common types for cryptography in Signstar |
+| 2026-09-28 18:47:41 | [tauri-plugin-dotnet](https://crates.io/crates/tauri-plugin-dotnet) | 0.1.1 | 0 | Tauri plugin that connects the frontend to .NET services through a typed RPC br… |
+| 2026-09-28 18:48:47 | [commitscape-tui](https://crates.io/crates/commitscape-tui) | 0.1.0 | 0 | The terminal interface: Panels over an Index, one Window at a time. |
+| 2026-09-28 18:48:48 | [commitscape](https://crates.io/crates/commitscape) | 0.1.0 | 0 | A terminal UI that reads a git repository and reports what changes what you do… |
+| 2026-09-28 19:00:20 | [rpmcrab-core](https://crates.io/crates/rpmcrab-core) | 0.1.0 | 0 | Domain library for rpmcrab: RPM model, config, filters, report renderer, and ch… |
+| 2026-09-28 19:00:55 | [rpmcrab](https://crates.io/crates/rpmcrab) | 0.1.0 | 0 | A drop-in replacement for rpmlint, rewritten in Rust. |
+| 2026-09-28 19:06:48 | [purrassist-core](https://crates.io/crates/purrassist-core) | 0.0.0 | 0 | Name reservation for PurRAssist; see 0.1.0. |
+| 2026-09-28 19:06:51 | [purrassist-syntax](https://crates.io/crates/purrassist-syntax) | 0.0.0 | 0 | Name reservation for PurRAssist; see 0.1.0. |
+| 2026-09-28 19:06:53 | [purrassist](https://crates.io/crates/purrassist) | 0.0.0 | 0 | Name reservation for PurRAssist; see 0.1.0. |
+| 2026-09-28 19:06:55 | [purrassist-host](https://crates.io/crates/purrassist-host) | 0.0.0 | 0 | Name reservation for PurRAssist; see 0.1.0. |
+| 2026-09-28 19:06:57 | [purrassist-cli](https://crates.io/crates/purrassist-cli) | 0.0.0 | 0 | Name reservation for PurRAssist; see 0.1.0. |
+| 2026-09-28 19:13:12 | [bile](https://crates.io/crates/bile) | 0.1.0 | 0 | A simple build system, structured around Lua scripts. |
+| 2026-09-28 19:14:41 | [peisar](https://crates.io/crates/peisar) | 0.1.2 | 0 | A practical Markdown parser written in Rust |
+| 2026-09-28 19:18:45 | [trellis-tui](https://crates.io/crates/trellis-tui) | 0.1.0 | 0 | Minimal terminal UI framework with differential rendering and synchronized outp… |
 
 ## Data source
 
