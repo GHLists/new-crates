@@ -8,45 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 06:20 UTC
+## Latest list — 2026-09-28 07:18 UTC
 
-New crates published between 2026-09-28 05:18 UTC and 2026-09-28 06:20 UTC.
+New crates published between 2026-09-28 06:20 UTC and 2026-09-28 07:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-28T06-20-19-118938Z.csv)
+[Full CSV](data/new-crates-2026-09-28T07-18-55-938321Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-28 05:23:42 | [hyprforge-listing](https://crates.io/crates/hyprforge-listing) | 0.1.0 | 0 | A directory listing and its order: reading, sorting and filtering behind a mock… |
-| 2026-09-28 05:24:50 | [kache-shims](https://crates.io/crates/kache-shims) | 0.27.0 | 0 | Upgrade-safe paths to an installed binary, and compiler-name shim farms that po… |
-| 2026-09-28 05:27:33 | [iana-uuid](https://crates.io/crates/iana-uuid) | 0.1.0 | 0 | Generated IANA registry bindings for the uuid family. |
-| 2026-09-28 05:29:41 | [swiftui-native-macros](https://crates.io/crates/swiftui-native-macros) | 0.0.1 | 0 | The swiftui! macro — SwiftUI's declarative syntax, lowered to swiftui-native's… |
-| 2026-09-28 05:29:53 | [swiftui-native](https://crates.io/crates/swiftui-native) | 0.0.1 | 0 | SwiftUI from pure Rust — no Swift bridge, no shim, only swift-runtime calls |
-| 2026-09-28 05:33:50 | [hyprforge-files-core](https://crates.io/crates/hyprforge-files-core) | 0.1.0 | 0 | The model layer of the Hyprforge file manager: the Browser update/view state sh… |
-| 2026-09-28 05:37:33 | [iana-internet-date-time-format](https://crates.io/crates/iana-internet-date-time-format) | 0.1.0 | 0 | Generated IANA registry bindings for the internet-date-time-format family. |
-| 2026-09-28 05:38:28 | [commonware-dkg](https://crates.io/crates/commonware-dkg) | 0.0.1 | 0 | TBA |
-| 2026-09-28 05:43:56 | [hyprforge-icons](https://crates.io/crates/hyprforge-icons) | 0.1.0 | 0 | Finds an icon by name the way the freedesktop icon theme specification says to:… |
-| 2026-09-28 05:47:32 | [iana-well-known-uris](https://crates.io/crates/iana-well-known-uris) | 0.1.0 | 0 | Generated IANA registry bindings for the well-known-uris family. |
-| 2026-09-28 05:54:02 | [hyprforge-input](https://crates.io/crates/hyprforge-input) | 0.1.0 | 0 | The keyboard, pointer and touchpad hl.config catalog, XKB layout discovery and… |
-| 2026-09-28 05:56:07 | [seamark](https://crates.io/crates/seamark) | 0.1.0 | 0 | A Rust framework for building JSON:API servers with SeaORM |
-| 2026-09-28 05:57:32 | [iana-content-security-policy-directives](https://crates.io/crates/iana-content-security-policy-directives) | 0.1.0 | 0 | Generated IANA registry bindings for the content-security-policy-directives fam… |
-| 2026-09-28 06:00:04 | [java-mapping-serde](https://crates.io/crates/java-mapping-serde) | 0.1.0 | 0 | Java deobfuscation mapping serialization and deserialization framework |
-| 2026-09-28 06:00:05 | [java-mapping-serde-io-util](https://crates.io/crates/java-mapping-serde-io-util) | 0.1.0 | 0 | I/O utilities for implementing mapping format readers and writers |
-| 2026-09-28 06:02:15 | [java-mapping-serde-element](https://crates.io/crates/java-mapping-serde-element) | 0.1.0 | 0 | Generalized, fully-owned in-memory representation of Java deobfuscation mappings |
-| 2026-09-28 06:02:16 | [java-mapping-serde-proguard](https://crates.io/crates/java-mapping-serde-proguard) | 0.1.0 | 0 | ProGuard mapping format support for java-mapping-serde (deserialize only) |
-| 2026-09-28 06:02:17 | [java-mapping-serde-tiny1](https://crates.io/crates/java-mapping-serde-tiny1) | 0.1.0 | 0 | Tiny v1 mapping format support for java-mapping-serde |
-| 2026-09-28 06:04:06 | [hyprforge-mesh](https://crates.io/crates/hyprforge-mesh) | 0.1.0 | 0 | Loads STL, 3MF and OBJ models into a welded indexed mesh, with fstl's camera an… |
-| 2026-09-28 06:06:07 | [cf-gears-settings-service-sdk](https://crates.io/crates/cf-gears-settings-service-sdk) | 0.1.0 | 0 | SDK for settings-service gear: setting-key value object, models, and error defi… |
-| 2026-09-28 06:07:29 | [ag-router](https://crates.io/crates/ag-router) | 0.16.2 | 0 | Provider-neutral structured model API router |
-| 2026-09-28 06:07:32 | [iana-cookie-attribute-names](https://crates.io/crates/iana-cookie-attribute-names) | 0.1.0 | 0 | Generated IANA registry bindings for the cookie-attribute-names family. |
-| 2026-09-28 06:07:38 | [ag-scheduler](https://crates.io/crates/ag-scheduler) | 0.16.2 | 0 | Shared admission and task selection for Agentty work |
-| 2026-09-28 06:07:45 | [cf-gears-settings-service](https://crates.io/crates/cf-gears-settings-service) | 0.1.0 | 0 | Settings Service gear: declaration registry, scoped value resolution, and valid… |
-| 2026-09-28 06:07:52 | [cant-macros](https://crates.io/crates/cant-macros) | 0.0.2 | 0 | Procedural macros for cant |
-| 2026-09-28 06:08:43 | [java-mapping-serde-tiny2](https://crates.io/crates/java-mapping-serde-tiny2) | 0.1.0 | 0 | Tiny v2 mapping format support for java-mapping-serde |
-| 2026-09-28 06:11:41 | [nmbrs-cassandra-cpp](https://crates.io/crates/nmbrs-cassandra-cpp) | 3.0.2 | 0 | Rust wrapper over the Apache Cassandra C++ driver — the nmbrs fork of cassandra… |
-| 2026-09-28 06:14:11 | [hyprforge-mime](https://crates.io/crates/hyprforge-mime) | 0.1.0 | 0 | Reads the freedesktop shared MIME database: what type a file is by name or by i… |
-| 2026-09-28 06:17:32 | [iana-trans](https://crates.io/crates/iana-trans) | 0.1.0 | 0 | Generated IANA registry bindings for the trans family. |
-| 2026-09-28 06:19:03 | [corepc-regtest-client](https://crates.io/crates/corepc-regtest-client) | 0.17.0 | 0 | Bitcoin Core JSON-RPC client for integration/regtest testing |
-| 2026-09-28 06:20:07 | [java-mapping-serde-util](https://crates.io/crates/java-mapping-serde-util) | 0.1.0 | 0 | Utilities for transforming mappings and writing mapping-serde deserializers |
+| 2026-09-28 06:24:17 | [hyprforge-network](https://crates.io/crates/hyprforge-network) | 0.1.0 | 0 | Wi-Fi, wired status and the radio toggle over NetworkManager, behind a backend… |
+| 2026-09-28 06:24:19 | [re_workspace_hack](https://crates.io/crates/re_workspace_hack) | 0.0.0 | 0 | Unifies third-party dependency features across the workspace to avoid recompile… |
+| 2026-09-28 06:27:32 | [iana-comp-meth-ids](https://crates.io/crates/iana-comp-meth-ids) | 0.1.0 | 0 | Generated IANA registry bindings for the comp-meth-ids family. |
+| 2026-09-28 06:30:20 | [java-mapping-serde-enigma](https://crates.io/crates/java-mapping-serde-enigma) | 0.1.0 | 0 | Enigma mapping format support for java-mapping-serde |
+| 2026-09-28 06:33:51 | [terraleph](https://crates.io/crates/terraleph) | 0.1.0 | 0 | Review and apply Terraform or OpenTofu plans in your terminal |
+| 2026-09-28 06:34:24 | [hyprforge-popup](https://crates.io/crates/hyprforge-popup) | 0.1.0 | 0 | The wlr-layer-shell popup shell the clipboard, emoji and tray menus share: surf… |
+| 2026-09-28 06:35:20 | [nmbrs-metrics](https://crates.io/crates/nmbrs-metrics) | 0.3.0 | 0 | Metrics collection and reporting for nmbrs |
+| 2026-09-28 06:35:24 | [nmbrs-errorhandler](https://crates.io/crates/nmbrs-errorhandler) | 0.3.0 | 0 | Modular composable error handler for nmbrs |
+| 2026-09-28 06:35:34 | [nmbrs-rate](https://crates.io/crates/nmbrs-rate) | 0.3.0 | 0 | Rate limiter for nmbrs: token bucket with time-scaled permits and burst recovery |
+| 2026-09-28 06:36:38 | [nmbrs-workload](https://crates.io/crates/nmbrs-workload) | 0.3.0 | 0 | Uniform workload specification parsing and processing for nmbrs |
+| 2026-09-28 06:36:55 | [sashite-sanki-bot](https://crates.io/crates/sashite-sanki-bot) | 0.1.0 | 0 | A Sanki bot for Sashité (ADR-0045): one identity, one TOML configuration, one S… |
+| 2026-09-28 06:37:32 | [iana-channel-binding-types](https://crates.io/crates/iana-channel-binding-types) | 0.1.0 | 0 | Generated IANA registry bindings for the channel-binding-types family. |
+| 2026-09-28 06:37:56 | [nmbrs-runtime](https://crates.io/crates/nmbrs-runtime) | 0.3.0 | 0 | Workload execution runtime for nmbrs |
+| 2026-09-28 06:39:28 | [hyprforge-power](https://crates.io/crates/hyprforge-power) | 0.1.0 | 0 | Keep-awake inhibitors, battery state and power profiles over systemd-logind, UP… |
+| 2026-09-28 06:40:08 | [nmbrs-adapter-cql](https://crates.io/crates/nmbrs-adapter-cql) | 0.3.0 | 0 | CQL adapter for nmbrs — multi-engine: pure-Rust scylla driver (default), Apache… |
+| 2026-09-28 06:41:39 | [ekvation](https://crates.io/crates/ekvation) | 0.0.0 | 0 | Placeholder for the upcoming ekvation library. |
+| 2026-09-28 06:47:33 | [iana-ds-rr-types](https://crates.io/crates/iana-ds-rr-types) | 0.1.0 | 0 | Generated IANA registry bindings for the ds-rr-types family. |
+| 2026-09-28 06:49:37 | [hyprforge-session](https://crates.io/crates/hyprforge-session) | 0.1.0 | 0 | Autostart, environment variables, touchpad gestures and app permissions in a Hy… |
+| 2026-09-28 06:52:16 | [pricka](https://crates.io/crates/pricka) | 0.0.0 | 0 | Placeholder for the upcoming pricka library. |
+| 2026-09-28 06:52:21 | [antag](https://crates.io/crates/antag) | 0.0.0 | 0 | Placeholder for the upcoming antag library. |
+| 2026-09-28 06:57:33 | [iana-cert-rr-types](https://crates.io/crates/iana-cert-rr-types) | 0.1.0 | 0 | Generated IANA registry bindings for the cert-rr-types family. |
+| 2026-09-28 06:58:34 | [styra](https://crates.io/crates/styra) | 0.0.0 | 0 | Placeholder for the upcoming styra library. |
+| 2026-09-28 06:59:43 | [hyprforge-shortcuts](https://crates.io/crates/hyprforge-shortcuts) | 0.1.0 | 0 | Keyboard shortcuts: TOML storage, a dispatcher catalog, keybinds.lua codegen an… |
+| 2026-09-28 07:01:31 | [incident-io](https://crates.io/crates/incident-io) | 1.0.0 | 0 | Rust client for the incident.io API |
+| 2026-09-28 07:02:04 | [logstream-core](https://crates.io/crates/logstream-core) | 0.1.0 | 0 | Core types, tenant auth, OTLP mapping, and ClickHouse batcher for logstream. |
+| 2026-09-28 07:02:07 | [logstream-ingest](https://crates.io/crates/logstream-ingest) | 0.1.0 | 0 | OTLP-HTTP ingest binary for logstream — auth, bounded channel, ClickHouse batch… |
+| 2026-09-28 07:02:09 | [logstream-query](https://crates.io/crates/logstream-query) | 0.1.0 | 0 | Grafana-compatible read API for logstream — thin SELECT layer over ClickHouse. |
+| 2026-09-28 07:04:44 | [ferryman-core](https://crates.io/crates/ferryman-core) | 0.1.0 | 0 | Lock-free circuit breaker, prefix routing table, hot-reloadable TOML config and… |
+| 2026-09-28 07:04:48 | [ferryman](https://crates.io/crates/ferryman) | 0.1.0 | 0 | Small L7 reverse proxy: prefix routing, per-upstream circuit breakers, active h… |
+| 2026-09-28 07:07:33 | [iana-dane-parameters](https://crates.io/crates/iana-dane-parameters) | 0.1.0 | 0 | Generated IANA registry bindings for the dane-parameters family. |
+| 2026-09-28 07:08:49 | [zakura-pir-status](https://crates.io/crates/zakura-pir-status) | 0.0.0 | 0 | Reserved |
+| 2026-09-28 07:09:02 | [zakura-transaction-status](https://crates.io/crates/zakura-transaction-status) | 0.0.0 | 0 | Reserved |
+| 2026-09-28 07:09:48 | [hyprforge-system](https://crates.io/crates/hyprforge-system) | 0.1.0 | 0 | The behaviour and platform hl.config catalog (misc, binds, xwayland, opengl, re… |
+| 2026-09-28 07:12:42 | [ferryman-edge-core](https://crates.io/crates/ferryman-edge-core) | 0.1.0 | 0 | Core types for ferryman-edge — RouteTable, mTLS reload, JWT verifier, per-tenan… |
+| 2026-09-28 07:17:32 | [iana-ipseckey-rr-parameters](https://crates.io/crates/iana-ipseckey-rr-parameters) | 0.1.0 | 0 | Generated IANA registry bindings for the ipseckey-rr-parameters family. |
+| 2026-09-28 07:18:04 | [rust-01-hello](https://crates.io/crates/rust-01-hello) | 0.1.0 | 0 | Rust 入门基础示例：Hello World、Cargo 项目结构、注释、println! 格式化 |
 
 ## Data source
 

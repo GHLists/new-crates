@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T06:24:17.775165Z,hyprforge-network,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"Wi-Fi, wired status and the radio toggle over NetworkManager, behind a backend trait with a mock so everything above the D-Bus client is testable without an adapter or access point"
+2026-09-28T06:24:19.823296Z,re_workspace_hack,0.0.0,0,0,https://github.com/rerun-io/rerun,Unifies third-party dependency features across the workspace to avoid recompiles. Managed by cargo-hakari.
+2026-09-28T06:27:32.084488Z,iana-comp-meth-ids,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the comp-meth-ids family.
+2026-09-28T06:30:20.091279Z,java-mapping-serde-enigma,0.1.0,0,0,https://codeberg.org/DM-Earth/mapping-serde,Enigma mapping format support for java-mapping-serde
+2026-09-28T06:33:51.756418Z,terraleph,0.1.0,0,0,https://github.com/riii111/terraleph,Review and apply Terraform or OpenTofu plans in your terminal
+2026-09-28T06:34:24.788069Z,hyprforge-popup,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"The wlr-layer-shell popup shell the clipboard, emoji and tray menus share: surface, event loop, placement, single-instance lock and kit widgets, drawn with iced 0.14 on iced_tiny_skia"
+2026-09-28T06:35:20.1017Z,nmbrs-metrics,0.3.0,0,0,https://github.com/nosqlbench/nmbrs,Metrics collection and reporting for nmbrs
+2026-09-28T06:35:24.105343Z,nmbrs-errorhandler,0.3.0,0,0,https://github.com/nosqlbench/nmbrs,Modular composable error handler for nmbrs
+2026-09-28T06:35:34.752205Z,nmbrs-rate,0.3.0,0,0,https://github.com/nosqlbench/nmbrs,Rate limiter for nmbrs: token bucket with time-scaled permits and burst recovery
+2026-09-28T06:36:38.480677Z,nmbrs-workload,0.3.0,0,0,https://github.com/nosqlbench/nmbrs,Uniform workload specification parsing and processing for nmbrs
+2026-09-28T06:36:55.952704Z,sashite-sanki-bot,0.1.0,0,0,https://github.com/sashite/sanki-bot.rs,"A Sanki bot for Sashité (ADR-0045): one identity, one TOML configuration, one SEI engine as a child process per game — or random play without one. Over the Nostr protocol client `sashite-sanki-client…"
+2026-09-28T06:37:32.915695Z,iana-channel-binding-types,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the channel-binding-types family.
+2026-09-28T06:37:56.388894Z,nmbrs-runtime,0.3.0,0,0,https://github.com/nosqlbench/nmbrs,Workload execution runtime for nmbrs
+2026-09-28T06:39:28.160146Z,hyprforge-power,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"Keep-awake inhibitors, battery state and power profiles over systemd-logind, UPower and power-profiles-daemon, each behind its own backend trait with a mock"
+2026-09-28T06:40:08.485103Z,nmbrs-adapter-cql,0.3.0,0,0,https://github.com/nosqlbench/nmbrs,"CQL adapter for nmbrs — multi-engine: pure-Rust scylla driver (default), Apache Cassandra C++ driver (opt-in)"
+2026-09-28T06:41:39.006203Z,ekvation,0.0.0,0,0,,Placeholder for the upcoming ekvation library.
+2026-09-28T06:47:33.348021Z,iana-ds-rr-types,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the ds-rr-types family.
+2026-09-28T06:49:37.117185Z,hyprforge-session,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"Autostart, environment variables, touchpad gestures and app permissions in a Hyprland session, as one generated Lua file; Hyprforge-internal, published so the suite's apps build from crates.io"
+2026-09-28T06:52:16.017578Z,pricka,0.0.0,0,0,,Placeholder for the upcoming pricka library.
+2026-09-28T06:52:21.887897Z,antag,0.0.0,0,0,,Placeholder for the upcoming antag library.
+2026-09-28T06:57:33.833176Z,iana-cert-rr-types,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the cert-rr-types family.
+2026-09-28T06:58:34.400225Z,styra,0.0.0,0,0,,Placeholder for the upcoming styra library.
+2026-09-28T06:59:43.012341Z,hyprforge-shortcuts,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"Keyboard shortcuts: TOML storage, a dispatcher catalog, keybinds.lua codegen and conflict detection against hyprctl binds; Hyprforge-internal, published so the suite's apps build from crates.io"
+2026-09-28T07:01:31.073129Z,incident-io,1.0.0,0,0,https://github.com/incident-io/sdk-rust,Rust client for the incident.io API
+2026-09-28T07:02:04.834878Z,logstream-core,0.1.0,0,0,https://github.com/Bunty9/logstream,"Core types, tenant auth, OTLP mapping, and ClickHouse batcher for logstream."
+2026-09-28T07:02:07.874932Z,logstream-ingest,0.1.0,0,0,https://github.com/Bunty9/logstream,"OTLP-HTTP ingest binary for logstream — auth, bounded channel, ClickHouse batcher."
+2026-09-28T07:02:09.228442Z,logstream-query,0.1.0,0,0,https://github.com/Bunty9/logstream,Grafana-compatible read API for logstream — thin SELECT layer over ClickHouse.
+2026-09-28T07:04:44.847848Z,ferryman-core,0.1.0,0,0,https://github.com/Bunty9/ferryman,"Lock-free circuit breaker, prefix routing table, hot-reloadable TOML config and active health checks for the ferryman reverse proxy."
+2026-09-28T07:04:48.376617Z,ferryman,0.1.0,0,0,https://github.com/Bunty9/ferryman,"Small L7 reverse proxy: prefix routing, per-upstream circuit breakers, active health checks, hot-reloaded TOML config, TLS termination."
+2026-09-28T07:07:33.530713Z,iana-dane-parameters,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the dane-parameters family.
+2026-09-28T07:08:49.215166Z,zakura-pir-status,0.0.0,0,0,https://github.com/zakura-core/wallet-libraries,Reserved
+2026-09-28T07:09:02.322129Z,zakura-transaction-status,0.0.0,0,0,https://github.com/zakura-core/wallet-libraries,Reserved
+2026-09-28T07:09:48.208486Z,hyprforge-system,0.1.0,0,0,https://github.com/hyprforge-suite/hyprforge,"The behaviour and platform hl.config catalog (misc, binds, xwayland, opengl, render, quirks) and its require line; Hyprforge-internal, published so the suite's apps build from crates.io"
+2026-09-28T07:12:42.531031Z,ferryman-edge-core,0.1.0,0,0,https://github.com/Bunty9/ferryman-edge,"Core types for ferryman-edge — RouteTable, mTLS reload, JWT verifier, per-tenant rate limiter."
+2026-09-28T07:17:32.438729Z,iana-ipseckey-rr-parameters,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the ipseckey-rr-parameters family.
+2026-09-28T07:18:04.575046Z,rust-01-hello,0.1.0,0,0,https://gitee.com/ai-langue/rust-base,Rust 入门基础示例：Hello World、Cargo 项目结构、注释、println! 格式化
