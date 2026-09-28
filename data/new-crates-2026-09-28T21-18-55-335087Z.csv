@@ -1,0 +1,11 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T20:20:37.298581Z,isb,0.1.1,0,0,https://github.com/execution-associates/isb,"Declarative incus sandboxes: a library, a CLI and a compose-style YAML spec that talk to incusd over its unix socket"
+2026-09-28T20:24:16.861139Z,vetis-rhai,0.1.0,0,0,https://github.com/vetis-server/vetis-extras,Very Tiny Server Flash Static Content support
+2026-09-28T20:31:51.238639Z,vetis-log,0.1.0-beta.1,0,0,https://github.com/vetis-server/vetis-extras,Very Tiny Server logging support
+2026-09-28T20:41:34.770373Z,splein,0.0.1-rc.1,0,0,,Draw screen overlay
+2026-09-28T20:48:44.414836Z,srf05,1.0.0,0,0,https://github.com/stiiven-dev/srf05-imu-station,"Driver for the SRF05 ultrasonic rangefinder: blocking and interrupt-friendly, embedded-hal 1.0, no_std"
+2026-09-28T20:52:45.341086Z,asqr,0.9.0,0,0,https://github.com/jakobwesthoff/asqr,"Answer questions an AI agent or a script prepared for you, right in your terminal"
+2026-09-28T20:57:23.407654Z,axioval-bcf,0.3.0,0,0,https://github.com/axioval/engine,BCF issue archives from Axioval validation reports
+2026-09-28T21:00:04.239557Z,graphlaw-eyeron,0.7.7,0,0,https://github.com/seanchatmangpt/graphlaw,"Eyeron, a native Rust Notation3 reasoner, vendored for GraphLaw with a WASI clock fix"
+2026-09-28T21:00:42.592744Z,graphlaw,26.9.28,0,0,https://github.com/seanchatmangpt/graphlaw,GraphLaw: library-backed RDF law-state composition over PurRDF and Eyeron
+2026-09-28T21:14:38.383574Z,signstar-yubihsm2,0.1.0,0,0,https://gitlab.archlinux.org/archlinux/signstar,Integration for YubiHSM2 devices as Signstar backend
