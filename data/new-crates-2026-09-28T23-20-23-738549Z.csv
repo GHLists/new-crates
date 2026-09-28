@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T22:22:44.52267Z,specodelic,0.1.0,0,0,https://github.com/charly-vibes/specodelic,"Specodelic — a markdown specification format (Intent / Constraints / Model / Properties) and the `spk` CLI that lints, compiles, verifies, and refactors it"
+2026-09-28T22:28:10.058679Z,etude-bigint,0.1.0,0,0,https://github.com/camshaft/etude,Arbitrary-precision signed integers: a small no_std limb library with a canonical sign-magnitude form
+2026-09-28T22:28:12.133293Z,etude-ensure,0.1.0,0,0,https://github.com/camshaft/etude,"Small, dependency-free control-flow macros (ensure! / assume!)"
+2026-09-28T22:28:15.124057Z,etude-rational,0.1.0,0,0,https://github.com/camshaft/etude,"Exact rational numbers: a normalized (reduced, positive-denominator) num/den pair over etude-bigint's arbitrary-precision integers"
+2026-09-28T22:28:18.016765Z,etude-decimal,0.1.0,0,0,https://github.com/camshaft/etude,Exact base-10 arbitrary-precision decimal numbers (coeff * 10^exp) over etude-bigint
+2026-09-28T22:29:21.078082Z,etude-buffer,0.1.0,0,0,https://github.com/camshaft/etude,Copy-avoiding byte reader/writer buffer traits
+2026-09-28T22:40:41.861731Z,betteroffice-ooxml-diff,0.3.0,0,0,https://github.com/openooxml/betteroffice,"Bounded, dependency-free token LCS diff shared by the OOXML review and comparison features."
+2026-09-28T22:40:52.540005Z,etude-bytevec,0.1.0,0,0,https://github.com/camshaft/etude,"A chunked byte buffer backed by a relaxed-radix (RRB) rope: O(log32) offset lookup, structural sharing, zero-copy slice/concat"
+2026-09-28T22:41:04.029979Z,native-ocr,0.1.0,0,0,https://github.com/trypsynth/native-ocr,Text recognition with the OCR engine built into the operating system: Windows.Media.Ocr on Windows and Vision on macOS
+2026-09-28T22:41:41.116409Z,clockwerk-core,0.5.1,0,0,https://github.com/sorinirimies/clockwerk-sw-factory,"Clockwerk software-factory runtime: workflows, agents, gates, permissions, SQLite tracing, and dashboard services"
+2026-09-28T22:42:14.943223Z,clockwerk,0.5.1,0,0,https://github.com/sorinirimies/clockwerk-sw-factory,Clockwerk desktop software factory (Iced GUI) with built-in Rust workflow automation
+2026-09-28T22:42:49.768169Z,clockwerk-web,0.5.1,0,0,https://github.com/sorinirimies/clockwerk-sw-factory,"Clockwerk — bin: clockwerk-web, Topcoat trace+agent web dashboard over clockwerk.db"
+2026-09-28T22:43:23.454176Z,clockwerk-tui,0.5.1,0,0,https://github.com/sorinirimies/clockwerk-sw-factory,"Clockwerk — trace + agent dashboard, terminal app (Ratatui TUI)"
+2026-09-28T22:51:02.847115Z,etude-strrope,0.1.0,0,0,https://github.com/camshaft/etude,A UTF-8 string rope: a validated-UTF-8 view over the etude-bytevec byte rope
+2026-09-28T22:58:45.489938Z,etude-span,0.1.0,0,0,https://github.com/camshaft/etude,Byte-scanning primitives for copy-avoiding tokenizers over the etude byte-rope: a Span (byte range) and a chunk-streaming Cursor
+2026-09-28T23:01:49.513727Z,enki-apsu,0.1.0,0,0,https://github.com/enkiruntime/enki,Vulkan GPU memory allocator and device buffer abstractions for Enki
+2026-09-28T23:02:06.772052Z,nomic,0.1.0,0,0,https://github.com/simplebrains/nomic,Nomic Core 0.1 reference machine: a deterministic executable specification language
+2026-09-28T23:02:14.067623Z,nomic-fmt,0.1.0,0,0,https://github.com/simplebrains/nomic,Canonical formatter for Nomic models
+2026-09-28T23:02:20.475829Z,nomic-cli,0.1.0,0,0,https://github.com/simplebrains/nomic,"The `nomic` command line: check, run, explore, cite, and format Nomic models"
+2026-09-28T23:08:38.351021Z,enki-utu,0.1.0,0,0,https://github.com/enkiruntime/enki,"Vulkan abstraction layer, window surface, and swapchain presentation integration for Enki"
+2026-09-28T23:14:33.537832Z,etude-json,0.1.0,0,0,https://github.com/camshaft/etude,Copy-avoiding JSON over the etude byte-rope: a tokenizer whose tokens reference spans of the input rope rather than copying bytes
+2026-09-28T23:17:52.417026Z,yamled,0.0.0,0,0,https://github.com/victor-software-house/yamled,"Format-preserving YAML edits: change what you meant, keep every other byte"
+2026-09-28T23:19:39.379276Z,glypher,0.0.1,0,0,,A simple text shaping and texture atlas packing crate.
+2026-09-28T23:20:17.998161Z,deser-core,0.9.0,0,0,https://github.com/mitsuhiko/deser,"Core traits and types of deser, use the deser crate instead"

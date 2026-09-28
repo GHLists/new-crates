@@ -8,28 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 22:21 UTC
+## Latest list — 2026-09-28 23:20 UTC
 
-New crates published between 2026-09-28 21:18 UTC and 2026-09-28 22:21 UTC.
+New crates published between 2026-09-28 22:21 UTC and 2026-09-28 23:20 UTC.
 
-[Full CSV](data/new-crates-2026-09-28T22-21-59-188802Z.csv)
+[Full CSV](data/new-crates-2026-09-28T23-20-23-738549Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-28 21:24:07 | [bank2hledger](https://crates.io/crates/bank2hledger) | 0.1.0 | 0 | Import bank transaction exports (CSV/XLS/PDF) and API fetchers into your hledge… |
-| 2026-09-28 21:24:27 | [tentzhen](https://crates.io/crates/tentzhen) | 0.0.1 | 0 | Host tools for Tentzhen, a bench of open, verifiable, low-cost electronics inst… |
-| 2026-09-28 21:30:48 | [squarkdown](https://crates.io/crates/squarkdown) | 4.0.0-alpha.0 | 0 | Markdown preprocessing for SvelteKit projects |
-| 2026-09-28 21:32:03 | [meowprint](https://crates.io/crates/meowprint) | 0.1.0 | 0 | Rust library for printing on Bluetooth cat printers |
-| 2026-09-28 21:34:56 | [dekit](https://crates.io/crates/dekit) | 0.10.0 | 0 | Process manager for dev and prod |
-| 2026-09-28 21:47:04 | [medeia](https://crates.io/crates/medeia) | 0.1.0 | 0 | move along now |
-| 2026-09-28 21:52:54 | [delink-ng](https://crates.io/crates/delink-ng) | 0.2.0 | 0 | A crypto library to decrypt various encrypted D-Link firmware images. |
-| 2026-09-28 21:53:39 | [eggup-archive](https://crates.io/crates/eggup-archive) | 0.1.2 | 0 | Bounded allowlisted local archive extraction for Eggup (no transport, authentic… |
-| 2026-09-28 22:00:01 | [audiofox](https://crates.io/crates/audiofox) | 1.0.0 | 0 | Cross platform audio capture made easy! |
-| 2026-09-28 22:15:07 | [fastshell-pymath](https://crates.io/crates/fastshell-pymath) | 0.2.100 | 0 | A binary representation compatible Rust implementation of Python's math library. |
-| 2026-09-28 22:15:48 | [zstd-rs](https://crates.io/crates/zstd-rs) | 0.1.0 | 0 | Pure-Rust, no_std, wasm32-ready Zstandard (RFC 8878) compressor and decompresso… |
-| 2026-09-28 22:15:51 | [zstd-rs-exec](https://crates.io/crates/zstd-rs-exec) | 0.1.0 | 0 | Native thread executor for zstd-rs's parallel job API |
-| 2026-09-28 22:19:04 | [fastshell-rustpython-stdlib](https://crates.io/crates/fastshell-rustpython-stdlib) | 0.5.100 | 0 | RustPython standard libraries in Rust. |
-| 2026-09-28 22:19:36 | [shipfitter](https://crates.io/crates/shipfitter) | 0.1.0 | 0 | Build and packaging helpers for Rust desktop apps: docs, installers, app bundle… |
+| 2026-09-28 22:22:44 | [specodelic](https://crates.io/crates/specodelic) | 0.1.0 | 0 | Specodelic — a markdown specification format (Intent / Constraints / Model / Pr… |
+| 2026-09-28 22:28:10 | [etude-bigint](https://crates.io/crates/etude-bigint) | 0.1.0 | 0 | Arbitrary-precision signed integers: a small no_std limb library with a canonic… |
+| 2026-09-28 22:28:12 | [etude-ensure](https://crates.io/crates/etude-ensure) | 0.1.0 | 0 | Small, dependency-free control-flow macros (ensure! / assume!) |
+| 2026-09-28 22:28:15 | [etude-rational](https://crates.io/crates/etude-rational) | 0.1.0 | 0 | Exact rational numbers: a normalized (reduced, positive-denominator) num/den pa… |
+| 2026-09-28 22:28:18 | [etude-decimal](https://crates.io/crates/etude-decimal) | 0.1.0 | 0 | Exact base-10 arbitrary-precision decimal numbers (coeff * 10^exp) over etude-b… |
+| 2026-09-28 22:29:21 | [etude-buffer](https://crates.io/crates/etude-buffer) | 0.1.0 | 0 | Copy-avoiding byte reader/writer buffer traits |
+| 2026-09-28 22:40:41 | [betteroffice-ooxml-diff](https://crates.io/crates/betteroffice-ooxml-diff) | 0.3.0 | 0 | Bounded, dependency-free token LCS diff shared by the OOXML review and comparis… |
+| 2026-09-28 22:40:52 | [etude-bytevec](https://crates.io/crates/etude-bytevec) | 0.1.0 | 0 | A chunked byte buffer backed by a relaxed-radix (RRB) rope: O(log32) offset loo… |
+| 2026-09-28 22:41:04 | [native-ocr](https://crates.io/crates/native-ocr) | 0.1.0 | 0 | Text recognition with the OCR engine built into the operating system: Windows.M… |
+| 2026-09-28 22:41:41 | [clockwerk-core](https://crates.io/crates/clockwerk-core) | 0.5.1 | 0 | Clockwerk software-factory runtime: workflows, agents, gates, permissions, SQLi… |
+| 2026-09-28 22:42:14 | [clockwerk](https://crates.io/crates/clockwerk) | 0.5.1 | 0 | Clockwerk desktop software factory (Iced GUI) with built-in Rust workflow autom… |
+| 2026-09-28 22:42:49 | [clockwerk-web](https://crates.io/crates/clockwerk-web) | 0.5.1 | 0 | Clockwerk — bin: clockwerk-web, Topcoat trace+agent web dashboard over clockwer… |
+| 2026-09-28 22:43:23 | [clockwerk-tui](https://crates.io/crates/clockwerk-tui) | 0.5.1 | 0 | Clockwerk — trace + agent dashboard, terminal app (Ratatui TUI) |
+| 2026-09-28 22:51:02 | [etude-strrope](https://crates.io/crates/etude-strrope) | 0.1.0 | 0 | A UTF-8 string rope: a validated-UTF-8 view over the etude-bytevec byte rope |
+| 2026-09-28 22:58:45 | [etude-span](https://crates.io/crates/etude-span) | 0.1.0 | 0 | Byte-scanning primitives for copy-avoiding tokenizers over the etude byte-rope:… |
+| 2026-09-28 23:01:49 | [enki-apsu](https://crates.io/crates/enki-apsu) | 0.1.0 | 0 | Vulkan GPU memory allocator and device buffer abstractions for Enki |
+| 2026-09-28 23:02:06 | [nomic](https://crates.io/crates/nomic) | 0.1.0 | 0 | Nomic Core 0.1 reference machine: a deterministic executable specification lang… |
+| 2026-09-28 23:02:14 | [nomic-fmt](https://crates.io/crates/nomic-fmt) | 0.1.0 | 0 | Canonical formatter for Nomic models |
+| 2026-09-28 23:02:20 | [nomic-cli](https://crates.io/crates/nomic-cli) | 0.1.0 | 0 | The `nomic` command line: check, run, explore, cite, and format Nomic models |
+| 2026-09-28 23:08:38 | [enki-utu](https://crates.io/crates/enki-utu) | 0.1.0 | 0 | Vulkan abstraction layer, window surface, and swapchain presentation integratio… |
+| 2026-09-28 23:14:33 | [etude-json](https://crates.io/crates/etude-json) | 0.1.0 | 0 | Copy-avoiding JSON over the etude byte-rope: a tokenizer whose tokens reference… |
+| 2026-09-28 23:17:52 | [yamled](https://crates.io/crates/yamled) | 0.0.0 | 0 | Format-preserving YAML edits: change what you meant, keep every other byte |
+| 2026-09-28 23:19:39 | [glypher](https://crates.io/crates/glypher) | 0.0.1 | 0 | A simple text shaping and texture atlas packing crate. |
+| 2026-09-28 23:20:17 | [deser-core](https://crates.io/crates/deser-core) | 0.9.0 | 0 | Core traits and types of deser, use the deser crate instead |
 
 ## Data source
 
