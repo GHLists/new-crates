@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T01:24:15.561924Z,rhow,0.1.0,0,0,https://github.com/euzharkov/run-how,Discover how to run and operate any repository: one command lists the useful actions of a project
+2026-09-28T01:24:58.535188Z,kcode-k1-audio-classifier-format,0.1.1,0,0,,Strict V1 payload format for K1 audio classifier training
+2026-09-28T01:27:35.515306Z,iana-wave-avi-codec-registry,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the wave-avi-codec-registry family.
+2026-09-28T01:37:33.828785Z,iana-opus-channel-mapping-families,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the opus-channel-mapping-families family.
+2026-09-28T01:38:51.617621Z,bevy_headless_test,0.1.0,0,0,https://github.com/warmar94/bevy_headless_test,"A test kit for Bevy apps: a strict headless App (ambiguity detection with an allow-list, deterministic time, frame stepping), message and state assertions, UI text read-back, and replicon protocol /…"
+2026-09-28T01:39:10.812738Z,watermask,0.1.0,0,0,https://github.com/piLeoni/watermask,"Water masks, shorelines and distance-to-shore grids for any area, from OpenStreetMap vector tiles fetched on demand"
+2026-09-28T01:41:26.088598Z,davidrs,0.1.0,0,0,https://github.com/eusoumaxi/davidrs,"A small, feature-gated framework for AWS Lambda functions: one ordered pipeline per trigger, absolute invocation deadlines, bounded work and safe built-in error responses."
+2026-09-28T01:45:07.798065Z,jevvy-derive,0.1.0-alpha.1,0,0,https://github.com/zliv83/jevvy,"Derive macros for jevvy: Options, Levels and Form"
+2026-09-28T01:45:33.975459Z,jevvy,0.1.0-alpha.1,0,0,https://github.com/zliv83/jevvy,"Typed Rust client for the TypeSafe AI System One API (Jev): batch typed forms in one call, gate on confidence, keep a replayable ledger"
+2026-09-28T01:47:32.312544Z,iana-audio-telephone-event-registry,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the audio-telephone-event-registry family.
+2026-09-28T01:47:50.842014Z,bevy_display_settings,0.1.0,0,0,https://github.com/warmar94/bevy_display_settings,"UI-agnostic display and renderer settings for Bevy: DX12/Vulkan choice before startup with a restart helper, windowed/borderless/fullscreen, resolution list, vsync, a keep-or-revert countdown, a wind…"
+2026-09-28T01:49:26.684292Z,china_identification_card,10.1.11,0,0,https://github.com/crates-dev/ctares,A Rust library for validating Chinese identification card numbers based on official rules and checksums.
+2026-09-28T01:50:08.02337Z,kcode-k1-audio-classifier-projection,0.1.1,0,0,,Replayable authority-sharded K1 audio classifier datasets
+2026-09-28T01:51:04.972717Z,bevy_ui_kit,0.1.0,0,0,https://github.com/warmar94/bevy_ui_kit,"Style-free UI behaviour for Bevy: scroll areas with a draggable scrollbar, wheel scrolling and offsets kept across rebuilds, wiring for Bevy's headless Slider, motion helpers and a glyph-coverage tes…"
+2026-09-28T01:57:33.583398Z,iana-rtsp-parameters,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the rtsp-parameters family.
+2026-09-28T02:01:33.298618Z,kcode-k1-audio-classifier,0.1.0,0,0,,Raw K1 audio classifier subsystem facade
+2026-09-28T02:07:05.838623Z,kcode-k1-access-audio-classifier,0.1.0,0,0,,Access-controlled K1 audio classifier facade
+2026-09-28T02:07:33.633165Z,iana-rtspv2-parameters,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the rtspv2-parameters family.
+2026-09-28T02:17:59.69992Z,kcode-k1-access-audio-classifier-testkit,0.1.0,0,0,,Downstream conformance tests for the K1 Access audio classifier stack
+2026-09-28T02:18:08.373152Z,kcode-k1-codex-token-usage,0.1.0,0,0,,Pure decoding of Codex token-usage notifications for K1
