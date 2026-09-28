@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T17:24:23.81771Z,strtotime,0.1.0,0,0,https://github.com/KarpelesLab/strtotime-rs,"no_std, no-alloc parser for PHP-style date/time expressions (""next week"", ""+2 days"", ""2023-05-15"", ""@unixts"") into a Unix timestamp. Optional IANA timezone and std support."
+2026-09-28T17:24:50.063535Z,lenso-test,0.1.2,0,0,https://github.com/LioRael/lenso,Deterministic TestApp harness for native Lenso Plugins.
+2026-09-28T17:24:52.461107Z,cucco,3.4.0,0,0,https://github.com/veeso/cucco,"An interactive CLI for creating conventional commits, with git hooks support."
+2026-09-28T17:28:20.067258Z,axum-open-id-connect,0.2.0-alpha.4,0,0,https://gitlab.ysaf.eu/ydg/rust/axum-open-id-connect,OpenID Connect helpers for Axum applications
+2026-09-28T17:31:11.354077Z,srcmetrics,0.2.0,0,0,https://github.com/LunaInsidious/srcmetrics,"Language-independent source code metrics (size, complexity, nesting, Halstead, duplication, dependencies, documentation) for C, C++, Go, Java, JavaScript, Python, Rust and TypeScript"
+2026-09-28T17:32:00.769069Z,srcmetrics-cli,0.2.0,0,0,https://github.com/LunaInsidious/srcmetrics,"Command-line tool and local HTTP API for srcmetrics: analyze source code, export metrics as JSON/CSV, statistics and HTML reports"
+2026-09-28T17:38:09.273276Z,gns-core,0.1.1,0,0,https://github.com/sxhxliang/GeniusBot.git,Core types and extension traits for the Genius Bot multi-agent SDK
+2026-09-28T17:38:12.786989Z,gns-llm,0.1.1,0,0,https://github.com/sxhxliang/GeniusBot.git,genai-backed LLM provider (and a scripted mock) for the Genius Bot multi-agent SDK
+2026-09-28T17:38:14.121322Z,gns-mcp,0.1.1,0,0,https://github.com/sxhxliang/GeniusBot.git,Minimal Model Context Protocol client (stdio + streamable HTTP) exposing MCP tools as Genius Bot tools
+2026-09-28T17:38:14.925977Z,gns-store,0.1.1,0,0,https://github.com/sxhxliang/GeniusBot.git,SQLite and file-based persistence for the Genius Bot multi-agent SDK
+2026-09-28T17:38:15.708801Z,gns-tools,0.1.1,0,0,https://github.com/sxhxliang/GeniusBot.git,"Built-in tools for the Genius Bot multi-agent SDK (messaging, state, local shell/files)"
+2026-09-28T17:46:13.230382Z,tailite,0.1.0,0,0,https://github.com/zaydmulani09/tailite,"Row-level change data capture for any SQLite database, from outside the process: decodes the WAL, no triggers, no schema changes."
+2026-09-28T17:48:04.688979Z,trove-cli,0.1.0,0,0,https://github.com/Tankenstein/trove,"Find and resume coding agent chats: Claude Code, Codex, OpenCode, Copilot CLI, Pi and Gemini CLI"
+2026-09-28T17:48:51.248674Z,gns-runtime,0.1.1,0,0,https://github.com/sxhxliang/GeniusBot.git,"Host runtime for the Genius Bot multi-agent SDK: actors, scheduling, messaging, groups, memory, routines"
+2026-09-28T17:51:11.022456Z,metriken-archive,0.1.0,0,0,https://github.com/iopsystems/metriken,Archives of metriken metrics read as one PromQL source per recording
+2026-09-28T17:55:06.337594Z,loonfs-http,0.4.0,0,0,https://github.com/loonfs/loonfs,The representative LoonFS HTTP binding.
+2026-09-28T17:58:11.273326Z,gns-cli,0.1.1,0,0,https://github.com/sxhxliang/GeniusBot.git,REPL demo for the Genius Bot multi-agent SDK
+2026-09-28T17:58:42.637475Z,istmo-window,0.1.1-alpha.3,0,0,https://github.com/SergioRibera/istmo,Process-wide registry of native desktop windows shared by istmo plugins that need an HWND / NSView anchor.
+2026-09-28T17:59:12.609921Z,istmo-biometric,0.1.1-alpha.3,0,0,https://github.com/SergioRibera/istmo,"Cross-platform biometric authentication plugin for the istmo framework — BiometricPrompt on Android, LocalAuthentication on iOS/macOS, Windows Hello on Windows, fprintd on Linux."
+2026-09-28T17:59:20.140413Z,istmo-file-picker,0.1.1-alpha.3,0,0,https://github.com/SergioRibera/istmo,"Cross-platform file-picker plugin for the istmo framework — SAF on Android, UIDocumentPicker on iOS, NSOpenPanel on macOS, IFileOpenDialog on Windows, XDG portal on Linux."
+2026-09-28T17:59:45.466076Z,istmo-share,0.1.1-alpha.3,0,0,https://github.com/SergioRibera/istmo,"Cross-platform share plugin for the istmo framework — send and receive text, links and files through the Android chooser, UIActivityViewController, NSSharingServicePicker and Windows DataTransferMana…"
+2026-09-28T18:08:13.008353Z,gns-server,0.1.1,0,0,https://github.com/sxhxliang/GeniusBot.git,HTTP API and embedded React debug console for the Genius Bot multi-agent SDK
+2026-09-28T18:11:26.02252Z,lenso-agent-tool-cli-plugin,0.1.0,0,0,,Host-owned CLI ingress for explicitly bound Agent Tool providers
+2026-09-28T18:11:57.863801Z,docker-lens,0.1.0,0,0,https://github.com/Strukturpiloten/docker-lens,Bounded native Docker Engine observation and inert target planning contracts
+2026-09-28T18:13:50.651414Z,oxibrowser-credentials,0.24.0,0,0,https://github.com/project-oxi/oxibrowser,"Credential broker: keyring-backed secrets, TOTP codes, consent records, and the deny-first use policy"
+2026-09-28T18:16:16.590488Z,commitscape-core,0.1.0,0,0,https://github.com/pixelactstudio/commitscape,Data model shared by every commitscape layer. Contains no I/O and no git.
+2026-09-28T18:16:18.381404Z,commitscape-forge,0.1.0,0,0,https://github.com/pixelactstudio/commitscape,"What a code host says about a repository: GitHub, through the gh CLI."
+2026-09-28T18:16:18.740463Z,commitscape-index,0.1.0,0,0,https://github.com/pixelactstudio/commitscape,"Walks a repository into an Index, and caches it. The only crate that knows git exists."
+2026-09-28T18:16:19.12366Z,commitscape-metrics,0.1.0,0,0,https://github.com/pixelactstudio/commitscape,"Pure functions over an Index. No I/O, no git, no terminal."
+2026-09-28T18:16:20.455176Z,commitscape-report,0.1.0,0,0,https://github.com/pixelactstudio/commitscape,A repository's Report: every screen's data for every Window.
