@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T13:19:14.575416Z,mas-server,0.1.1,0,0,https://github.com/sxhxliang/grok-bot-0.18-reconstructed,HTTP API and embedded React debug console for the MAS multi-agent SDK
+2026-09-28T13:27:27.862545Z,bite-gp-ce-gpui-engine,0.20260928.0,0,0,https://github.com/bite-gpui/bite-gpui,gpui_engine — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-28T13:29:16.960991Z,diavasi-client,0.1.0,0,0,https://github.com/diavasis/diavasi-client,Thin client for the Diavasi data plane
+2026-09-28T13:36:38.140968Z,pomolet,0.1.2,0,0,https://github.com/fxeqxmulfx/pomolet,A minimal Pomodoro desktop timer with focus sounds
+2026-09-28T13:37:27.545348Z,bite-gp-ce-gpui-engine-default,0.20260928.0,0,0,https://github.com/bite-gpui/bite-gpui,gpui_engine_default — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-28T13:47:26.845224Z,bite-gp-ce-scheduler,0.20260928.0,0,0,https://github.com/bite-gpui/bite-gpui,Async task scheduler/executor for gpui-ce (vendored from Zed).
+2026-09-28T13:53:21.205532Z,arazzo-jrpc,0.2.0,0,0,https://github.com/YuichiKamishiro/arazzo-jrpc,"OAI Arazzo 1.1.0: model, validation against the official schema, runtime expressions, criteria, selectors and a sequential executor"
+2026-09-28T13:57:27.41138Z,bite-gp-ce-gpui-platform,0.20260928.0,0,0,https://github.com/bite-gpui/bite-gpui,gpui_platform — part of the bite-gpui rearchitecture of zed's gpui
+2026-09-28T13:57:29.528693Z,actl-flow,0.1.6,0,0,https://github.com/gqy20/actl,Validated YAML workflows and resumable execution state for actl
+2026-09-28T13:57:59.983368Z,reallyme-openid4vp-dc-api,0.1.0,0,0,https://github.com/reallyme/openid4vp,OpenID4VP over the browser Digital Credentials API.
+2026-09-28T13:58:25.424921Z,reallyme-openid4vp-formats,0.1.0,0,0,https://github.com/reallyme/openid4vp,Format-specific OpenID4VP presentation glue.
+2026-09-28T13:58:54.038483Z,reallyme-openid4vp-wallet,0.1.0,0,0,https://github.com/reallyme/openid4vp,OpenID4VP wallet-side request verification and response construction boundary.
+2026-09-28T13:59:14.294124Z,redoubt-eq,0.1.0-rc.16,0,0,https://github.com/memparanoid/redoubt,"Two runs of bytes compared in constant time, leaving nothing in a register"
+2026-09-28T14:03:26.931974Z,blu-core,0.1.0,0,0,https://github.com/borg-ml/blu,"Shared semantic profiles, source identities, spans, and diagnostics for Blu"
+2026-09-28T14:03:31.296193Z,fskit-native,0.1.0,0,0,https://github.com/cachix/casita,Filesystem contracts and lifecycle for native Rust FSKit extensions
+2026-09-28T14:03:51.290387Z,blu-bytecode,0.1.0,0,0,https://github.com/borg-ml/blu,Validated Luau bytecode decoding and disassembly for the Blu runtime
+2026-09-28T14:04:03.783762Z,cuni,0.2.0,0,0,https://github.com/ceedot-rock/cuni,"CuNi (Code:uNiTY) — one source, exact on every target or refuse; now with Solidity smart-contract seat"
+2026-09-28T14:04:14.984796Z,blu-syntax,0.1.0,0,0,https://github.com/borg-ml/blu,Byte-oriented profile-aware source syntax for Blu
+2026-09-28T14:04:39.702504Z,blu-package,0.1.0,0,0,https://github.com/borg-ml/blu,Portable validated package envelopes for Blu bytecode
+2026-09-28T14:05:06.543279Z,blu-runtime,0.1.0,0,0,https://github.com/borg-ml/blu,Embeddable Lua and Luau interpreter and virtual machine for Blu
+2026-09-28T14:07:26.698188Z,bite-gp-ce-sum-tree,0.20260928.0,0,0,https://github.com/bite-gpui/bite-gpui,Copy-on-write B+ tree with monoidal summaries for gpui-ce (vendored from Zed).
+2026-09-28T14:10:17.36251Z,whipplescript-canon,0.7.1,0,0,https://github.com/GaugeWright/whipplescript,"Syntactic declaration canonicalizers for WhippleScript's workspace VCS: Rust, TypeScript and Markdown sections"
+2026-09-28T14:11:42.401792Z,cratefield-introspect,0.2.0,0,0,https://github.com/Cratefield/harness,Reads a live database's own catalog over the Database port and speaks it in cratefield-tables' schema vocabulary — the one source the data screen renders today
+2026-09-28T14:12:06.426722Z,cratefield-adapter-anthropic,0.2.0,0,0,https://github.com/Cratefield/harness,TextModel port over the Anthropic Messages API for the Cratefield harness
+2026-09-28T14:13:10.805432Z,cratefield-module-webhooks,0.2.0,0,0,https://github.com/Cratefield/harness,"Cratefield module: outbound webhook delivery — per-subject endpoints, HMAC-signed POSTs, exponential backoff, dead letters and replay"
+2026-09-28T14:13:22.929699Z,cratefield-adapter-classifier-llm,0.2.0,0,0,https://github.com/Cratefield/harness,"Classifier port over the harness's own TextModel port, via JSON-schema structured output, for the Cratefield harness"
+2026-09-28T14:13:29.363755Z,cratefield-adapter-github-issues,0.2.0,0,0,https://github.com/Cratefield/harness,Tracker port over the GitHub Issues REST API for the Cratefield harness
+2026-09-28T14:14:04.01868Z,blu-compiler,0.1.0,0,0,https://github.com/borg-ml/blu,Blu-owned compiler slice and explicit legacy Luau compiler adapter
+2026-09-28T14:17:26.569669Z,bite-gp-ce-media,0.20260928.0,0,0,https://github.com/bite-gpui/bite-gpui,macOS CoreMedia/CoreVideo bindings for gpui-ce (vendored from Zed).
+2026-09-28T14:19:26.293152Z,scyph-auth,0.1.0,0,0,https://github.com/mnmustafa1109/scyph,"JWT extractor, Argon2 password, moka auth cache, and token blacklist for Axum"
+2026-09-28T14:19:46.674488Z,scyph-abac,0.1.0,0,0,https://github.com/mnmustafa1109/scyph,AbacPolicy trait and SQLx filter injection for scyph backends
+2026-09-28T14:20:00.161064Z,scyph-notify,0.1.0,0,0,https://github.com/mnmustafa1109/scyph,"Email (lettre/Tera), FCM push, and in-app notification traits for scyph"
+2026-09-28T14:20:09.468838Z,scyph-realtime,0.1.0,0,0,https://github.com/mnmustafa1109/scyph,Redis pub/sub broadcaster for cross-replica WebSocket fanout

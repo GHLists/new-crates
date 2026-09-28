@@ -8,45 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 13:18 UTC
+## Latest list — 2026-09-28 14:20 UTC
 
-New crates published between 2026-09-28 12:18 UTC and 2026-09-28 13:18 UTC.
+New crates published between 2026-09-28 13:18 UTC and 2026-09-28 14:20 UTC.
 
-[Full CSV](data/new-crates-2026-09-28T13-18-59-515005Z.csv)
+[Full CSV](data/new-crates-2026-09-28T14-20-46-48474Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-28 12:20:03 | [orbitmines-physics](https://crates.io/crates/orbitmines-physics) | 0.0.1-test.2 | 0 | OrbitMines: Physics Project |
-| 2026-09-28 12:22:37 | [oxilite-turso](https://crates.io/crates/oxilite-turso) | 0.8.0 | 0 | Turso backend for oxilite: SQLite rewritten in Rust, with vector search |
-| 2026-09-28 12:24:13 | [orfedit](https://crates.io/crates/orfedit) | 0.1.0 | 0 | orfedit is a command line tool for RNA-editing-aware ORF finding in plant organ… |
-| 2026-09-28 12:24:33 | [transsplice](https://crates.io/crates/transsplice) | 0.1.0 | 0 | transsplice reconstructs trans-spliced plant organellar genes (nad1, nad2, nad5… |
-| 2026-09-28 12:24:51 | [pkcs11-proxy-ng-shim](https://crates.io/crates/pkcs11-proxy-ng-shim) | 0.2.0 | 0 | PKCS#11 C ABI shim for the remote proxy |
-| 2026-09-28 12:25:35 | [dacc-cli](https://crates.io/crates/dacc-cli) | 0.1.0 | 0 | DACC: правила коммитов, калитка и хуки — команда cargo dacc |
-| 2026-09-28 12:37:20 | [pkcs11-proxy-ng-cli](https://crates.io/crates/pkcs11-proxy-ng-cli) | 0.2.0 | 0 | Command-line client for the PKCS#11 remote proxy |
-| 2026-09-28 12:39:04 | [scyph-core](https://crates.io/crates/scyph-core) | 0.1.0 | 0 | Core error types, response envelope, and base traits for scyph |
-| 2026-09-28 12:39:17 | [scyph-utils](https://crates.io/crates/scyph-utils) | 0.1.0 | 0 | HMAC webhooks, background worker task loops, cursor pagination, and Redis API i… |
-| 2026-09-28 12:39:29 | [scyph-telemetry](https://crates.io/crates/scyph-telemetry) | 0.1.0 | 0 | Tracing init, request-id middleware, and compression for scyph backends |
-| 2026-09-28 12:39:44 | [scyph-ratelimit](https://crates.io/crates/scyph-ratelimit) | 0.1.0 | 0 | tower-governor rate-limit layer builder for scyph backends |
-| 2026-09-28 12:40:03 | [bite-gp-ce-util](https://crates.io/crates/bite-gp-ce-util) | 0.20260928.0 | 0 | Utility structs and functions used by gpui-ce (vendored from Zed's gpui_util). |
-| 2026-09-28 12:40:07 | [bite-gp-ce-collections](https://crates.io/crates/bite-gp-ce-collections) | 0.20260928.0 | 0 | Blessed hash collections used by gpui-ce (vendored from Zed). |
-| 2026-09-28 12:40:10 | [scyph-extractors](https://crates.io/crates/scyph-extractors) | 0.1.0 | 0 | Validated JSON body, query, and path extractors for Axum |
-| 2026-09-28 12:40:13 | [bite-gp-ce-macros](https://crates.io/crates/bite-gp-ce-macros) | 0.20260928.0 | 0 | Macros used by gpui |
-| 2026-09-28 12:40:15 | [bite-gp-ce-derive-refineable](https://crates.io/crates/bite-gp-ce-derive-refineable) | 0.20260928.0 | 0 | Derive macro for gpui-ce's Refineable (vendored from Zed). |
-| 2026-09-28 12:40:17 | [bite-gp-ce-refineable](https://crates.io/crates/bite-gp-ce-refineable) | 0.20260928.0 | 0 | Refineable trait + cascade for gpui-ce (vendored from Zed). |
-| 2026-09-28 12:42:43 | [piment](https://crates.io/crates/piment) | 0.1.0 | 0 | A GPU backed GUI library |
-| 2026-09-28 12:45:48 | [kcode-k1-chat-thread-session-actor-tests](https://crates.io/crates/kcode-k1-chat-thread-session-actor-tests) | 0.1.0 | 0 | Downstream black-box tests for the K1 chat-thread session actor |
-| 2026-09-28 12:49:14 | [custody](https://crates.io/crates/custody) | 0.0.1 | 0 | Deterministic evidence validation for LLM summaries of PDF sources |
-| 2026-09-28 12:51:23 | [scyph-health](https://crates.io/crates/scyph-health) | 0.1.0 | 0 | Degraded-boot health registry and /healthz + /readyz routes for scyph |
-| 2026-09-28 12:55:24 | [kcode-k1-audio-classifier-projection-store](https://crates.io/crates/kcode-k1-audio-classifier-projection-store) | 0.1.0 | 0 | Derived persistence for K1 audio classifier projection datasets |
-| 2026-09-28 13:01:07 | [bite-gp-ce-gpui-types](https://crates.io/crates/bite-gp-ce-gpui-types) | 0.20260928.0 | 0 | gpui_types — part of the bite-gpui rearchitecture of zed's gpui |
-| 2026-09-28 13:01:07 | [scyph-storage](https://crates.io/crates/scyph-storage) | 0.1.0 | 0 | StorageService trait, multipart file extractor, S3 implementation, and image th… |
-| 2026-09-28 13:03:52 | [proc-gc](https://crates.io/crates/proc-gc) | 0.1.0 | 0 | Reap processes whose owner is gone and that have burned CPU for an hour, never… |
-| 2026-09-28 13:05:53 | [daedalux-core](https://crates.io/crates/daedalux-core) | 0.7.0 | 0 | daedalus core library — format, compression, runtime detection, package manager… |
-| 2026-09-28 13:07:26 | [bite-gp-ce-types](https://crates.io/crates/bite-gp-ce-types) | 0.20260928.0 | 0 | gpui_ce_types — part of the bite-gpui rearchitecture of zed's gpui |
-| 2026-09-28 13:07:30 | [daedalux](https://crates.io/crates/daedalux) | 0.7.0 | 0 | daedalus CLI — package any app into a single self-extracting binary |
-| 2026-09-28 13:16:44 | [localgroups-rs](https://crates.io/crates/localgroups-rs) | 1.0.0 | 0 | Enumerate Windows local group membership over SAMR (BUILTIN aliases) and correl… |
-| 2026-09-28 13:17:26 | [bite-gp-ce-shared-string](https://crates.io/crates/bite-gp-ce-shared-string) | 0.20260928.0 | 0 | Shared immutable string types for GPUI CE |
-| 2026-09-28 13:18:11 | [timestamp-id](https://crates.io/crates/timestamp-id) | 0.0.1 | 0 | Generate IDs based on current timestamp |
+| 2026-09-28 13:19:14 | [mas-server](https://crates.io/crates/mas-server) | 0.1.1 | 0 | HTTP API and embedded React debug console for the MAS multi-agent SDK |
+| 2026-09-28 13:27:27 | [bite-gp-ce-gpui-engine](https://crates.io/crates/bite-gp-ce-gpui-engine) | 0.20260928.0 | 0 | gpui_engine — part of the bite-gpui rearchitecture of zed's gpui |
+| 2026-09-28 13:29:16 | [diavasi-client](https://crates.io/crates/diavasi-client) | 0.1.0 | 0 | Thin client for the Diavasi data plane |
+| 2026-09-28 13:36:38 | [pomolet](https://crates.io/crates/pomolet) | 0.1.2 | 0 | A minimal Pomodoro desktop timer with focus sounds |
+| 2026-09-28 13:37:27 | [bite-gp-ce-gpui-engine-default](https://crates.io/crates/bite-gp-ce-gpui-engine-default) | 0.20260928.0 | 0 | gpui_engine_default — part of the bite-gpui rearchitecture of zed's gpui |
+| 2026-09-28 13:47:26 | [bite-gp-ce-scheduler](https://crates.io/crates/bite-gp-ce-scheduler) | 0.20260928.0 | 0 | Async task scheduler/executor for gpui-ce (vendored from Zed). |
+| 2026-09-28 13:53:21 | [arazzo-jrpc](https://crates.io/crates/arazzo-jrpc) | 0.2.0 | 0 | OAI Arazzo 1.1.0: model, validation against the official schema, runtime expres… |
+| 2026-09-28 13:57:27 | [bite-gp-ce-gpui-platform](https://crates.io/crates/bite-gp-ce-gpui-platform) | 0.20260928.0 | 0 | gpui_platform — part of the bite-gpui rearchitecture of zed's gpui |
+| 2026-09-28 13:57:29 | [actl-flow](https://crates.io/crates/actl-flow) | 0.1.6 | 0 | Validated YAML workflows and resumable execution state for actl |
+| 2026-09-28 13:57:59 | [reallyme-openid4vp-dc-api](https://crates.io/crates/reallyme-openid4vp-dc-api) | 0.1.0 | 0 | OpenID4VP over the browser Digital Credentials API. |
+| 2026-09-28 13:58:25 | [reallyme-openid4vp-formats](https://crates.io/crates/reallyme-openid4vp-formats) | 0.1.0 | 0 | Format-specific OpenID4VP presentation glue. |
+| 2026-09-28 13:58:54 | [reallyme-openid4vp-wallet](https://crates.io/crates/reallyme-openid4vp-wallet) | 0.1.0 | 0 | OpenID4VP wallet-side request verification and response construction boundary. |
+| 2026-09-28 13:59:14 | [redoubt-eq](https://crates.io/crates/redoubt-eq) | 0.1.0-rc.16 | 0 | Two runs of bytes compared in constant time, leaving nothing in a register |
+| 2026-09-28 14:03:26 | [blu-core](https://crates.io/crates/blu-core) | 0.1.0 | 0 | Shared semantic profiles, source identities, spans, and diagnostics for Blu |
+| 2026-09-28 14:03:31 | [fskit-native](https://crates.io/crates/fskit-native) | 0.1.0 | 0 | Filesystem contracts and lifecycle for native Rust FSKit extensions |
+| 2026-09-28 14:03:51 | [blu-bytecode](https://crates.io/crates/blu-bytecode) | 0.1.0 | 0 | Validated Luau bytecode decoding and disassembly for the Blu runtime |
+| 2026-09-28 14:04:03 | [cuni](https://crates.io/crates/cuni) | 0.2.0 | 0 | CuNi (Code:uNiTY) — one source, exact on every target or refuse; now with Solid… |
+| 2026-09-28 14:04:14 | [blu-syntax](https://crates.io/crates/blu-syntax) | 0.1.0 | 0 | Byte-oriented profile-aware source syntax for Blu |
+| 2026-09-28 14:04:39 | [blu-package](https://crates.io/crates/blu-package) | 0.1.0 | 0 | Portable validated package envelopes for Blu bytecode |
+| 2026-09-28 14:05:06 | [blu-runtime](https://crates.io/crates/blu-runtime) | 0.1.0 | 0 | Embeddable Lua and Luau interpreter and virtual machine for Blu |
+| 2026-09-28 14:07:26 | [bite-gp-ce-sum-tree](https://crates.io/crates/bite-gp-ce-sum-tree) | 0.20260928.0 | 0 | Copy-on-write B+ tree with monoidal summaries for gpui-ce (vendored from Zed). |
+| 2026-09-28 14:10:17 | [whipplescript-canon](https://crates.io/crates/whipplescript-canon) | 0.7.1 | 0 | Syntactic declaration canonicalizers for WhippleScript's workspace VCS: Rust, T… |
+| 2026-09-28 14:11:42 | [cratefield-introspect](https://crates.io/crates/cratefield-introspect) | 0.2.0 | 0 | Reads a live database's own catalog over the Database port and speaks it in cra… |
+| 2026-09-28 14:12:06 | [cratefield-adapter-anthropic](https://crates.io/crates/cratefield-adapter-anthropic) | 0.2.0 | 0 | TextModel port over the Anthropic Messages API for the Cratefield harness |
+| 2026-09-28 14:13:10 | [cratefield-module-webhooks](https://crates.io/crates/cratefield-module-webhooks) | 0.2.0 | 0 | Cratefield module: outbound webhook delivery — per-subject endpoints, HMAC-sign… |
+| 2026-09-28 14:13:22 | [cratefield-adapter-classifier-llm](https://crates.io/crates/cratefield-adapter-classifier-llm) | 0.2.0 | 0 | Classifier port over the harness's own TextModel port, via JSON-schema structur… |
+| 2026-09-28 14:13:29 | [cratefield-adapter-github-issues](https://crates.io/crates/cratefield-adapter-github-issues) | 0.2.0 | 0 | Tracker port over the GitHub Issues REST API for the Cratefield harness |
+| 2026-09-28 14:14:04 | [blu-compiler](https://crates.io/crates/blu-compiler) | 0.1.0 | 0 | Blu-owned compiler slice and explicit legacy Luau compiler adapter |
+| 2026-09-28 14:17:26 | [bite-gp-ce-media](https://crates.io/crates/bite-gp-ce-media) | 0.20260928.0 | 0 | macOS CoreMedia/CoreVideo bindings for gpui-ce (vendored from Zed). |
+| 2026-09-28 14:19:26 | [scyph-auth](https://crates.io/crates/scyph-auth) | 0.1.0 | 0 | JWT extractor, Argon2 password, moka auth cache, and token blacklist for Axum |
+| 2026-09-28 14:19:46 | [scyph-abac](https://crates.io/crates/scyph-abac) | 0.1.0 | 0 | AbacPolicy trait and SQLx filter injection for scyph backends |
+| 2026-09-28 14:20:00 | [scyph-notify](https://crates.io/crates/scyph-notify) | 0.1.0 | 0 | Email (lettre/Tera), FCM push, and in-app notification traits for scyph |
+| 2026-09-28 14:20:09 | [scyph-realtime](https://crates.io/crates/scyph-realtime) | 0.1.0 | 0 | Redis pub/sub broadcaster for cross-replica WebSocket fanout |
 
 ## Data source
 
