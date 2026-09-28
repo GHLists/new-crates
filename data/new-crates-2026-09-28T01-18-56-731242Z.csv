@@ -1,0 +1,9 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-28T00:27:35.459826Z,iana-websocket,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the websocket family.
+2026-09-28T00:37:33.561666Z,iana-sframe,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the sframe family.
+2026-09-28T00:47:33.354061Z,iana-top-level-media-types,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the top-level-media-types family.
+2026-09-28T00:53:51.203074Z,stillvalid,0.1.0,0,0,https://github.com/lodibrahim/stillvalid,"Checks whether open GitHub issues and pull requests are still valid against the current code, with evidence."
+2026-09-28T00:56:36.316194Z,bevy_net_session,0.1.0,0,0,https://github.com/warmar94/bevy_net_session,"Game-agnostic multiplayer sessions for Bevy on bevy_replicon + renet: host, join and leave over UDP or Steam, a version-checked join handshake with a game-provided validator, join timeouts and a clea…"
+2026-09-28T00:57:35.438136Z,iana-matroska,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the matroska family.
+2026-09-28T01:07:34.057532Z,iana-ebml,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the ebml family.
+2026-09-28T01:17:33.646897Z,iana-flac,0.1.0,0,0,https://github.com/meowdia/iana,Generated IANA registry bindings for the flac family.
