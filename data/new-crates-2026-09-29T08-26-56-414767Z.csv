@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T07:19:13.779587Z,schematic-wgpu,0.1.0,0,0,https://github.com/MCRTD/schematic-wgpu,Render and export Litematica schematics with wgpu
+2026-09-29T07:24:31.363346Z,serde_toon_format_cli,0.2.0,0,0,https://github.com/bnomei/serde_toon,Command-line interface for TOON encoding/decoding
+2026-09-29T07:27:56.247298Z,code-transpiler,0.1.0,0,0,https://github.com/tarekwasfy01/Code-Transpiler,Pure-Rust incremental port of the Code-Transpiler semantic/UAST engine
+2026-09-29T07:34:46.222508Z,tokio-tcp-pool,0.1.0,0,0,https://github.com/theking90000/tokio-tcp-pool,"Async pooled TCP/TLS connections over direct, SOCKS5 and HTTP CONNECT routes"
+2026-09-29T07:34:55.770126Z,wgame-typography,0.1.0,0,0,https://github.com/agerasev/wgame,CPU font rasterization and glyph atlases for wgame
+2026-09-29T07:46:07.616955Z,wgame-gfx-texture,0.1.0,0,0,https://github.com/agerasev/wgame,"GPU texture atlases, render textures, and readback for wgame"
+2026-09-29T07:51:26.686429Z,algocli-types,0.1.0,0,0,https://github.com/algorithco-cli/algo,"Canonical types generated from proto (algorithco_guard.v0), never hand-edit (AGENTS.md:4)"
+2026-09-29T07:51:47.721601Z,algocli-redact,0.1.0,0,0,https://github.com/algorithco-cli/algo,"Redact secrets and PII before egress (core, first Phase 1 task per waiver)"
+2026-09-29T07:52:11.002917Z,algocli-shell-analysis,0.1.0,0,0,https://github.com/algorithco-cli/algo,"Shell analysis via tree-sitter-bash (parse, facts, obfuscation)"
+2026-09-29T07:52:38.666212Z,algocli-hook-client,0.1.0,0,0,https://github.com/algorithco-cli/algo,"Hook client for algorithco guard (tiny, fail-safe, never non-zero)"
+2026-09-29T07:53:35.29456Z,algocli-backend,0.1.0,0,0,https://github.com/algorithco-cli/algo,"algorithco guard backend: Auth(device flow), Org/Team/Role, Policy sync, Audit ingest, Stats (P3-01..P3-05 MVP, in-memory scaffold)"
+2026-09-29T07:56:48.178506Z,jev-stars,0.1.0,0,0,https://github.com/AkashPriyadarshii/jev-stars,Local-first GitHub stars memory for AI coding agents
+2026-09-29T07:57:45.791382Z,wgame-utils,0.1.0,0,0,https://github.com/agerasev/wgame,Timing helpers for wgame applications
+2026-09-29T08:01:47.178367Z,fun-ci-renderer,2.0.0,0,0,https://github.com/beatmadsen/fun-ci,Terminal renderer for the fun-ci console: the dashboard of a local CI
+2026-09-29T08:09:16.083023Z,wgame-gfx-shapes,0.1.0,0,0,https://github.com/agerasev/wgame,Composable shapes and materials for wgame
+2026-09-29T08:09:58.364433Z,oinkie,0.6.0,0,0,https://github.com/tamada/oinkie,Detects software theft by comparing birthmarks extracted from binaries
+2026-09-29T08:10:21.71458Z,algocli-fingerprint,0.1.0,0,0,https://github.com/algorithco-cli/algo,"Fingerprint normalization for cache (proptest idempotence, blake3 cache_key)"
+2026-09-29T08:11:47.354604Z,fts5-cjk,0.1.0,0,0,https://github.com/nowizh/fts5-cjk,CJK normalization and literal phrase helpers for SQLite FTS5
+2026-09-29T08:15:15.647497Z,rsinit,0.1.0,0,0,https://github.com/pengutronix/rsinit,minimalistic single binary initramfs init for embedded systems
+2026-09-29T08:15:37.761228Z,mdwire-core,0.1.3,0,0,https://github.com/minjun0219/mdwire,Streaming Markdown normalizer and channel renderer. No dependencies.
+2026-09-29T08:15:45.904118Z,mdwire-cli,0.1.3,0,0,https://github.com/minjun0219/mdwire,"CLI for mdwire — stdin to stdout, one channel per invocation."
+2026-09-29T08:16:13.682541Z,algocli-policy,0.1.0,0,0,https://github.com/algorithco-cli/algo,"Policy engine: hard-deny + profiles, compile-once at load (P1-CORE-3/4)"
+2026-09-29T08:18:16.424654Z,dyn-abi-map,0.1.0,0,0,https://github.com/avx16384/dyn-abi-map,"The ABI map: compiler facts to ABI levels, two contracts (data and vtable), one axis each. Levels are painted only when a break is proven; differential probes watch the boundaries."
+2026-09-29T08:19:46.377664Z,kage-jsonrpc,0.0.0,0,0,,Bidirectional JSON-RPC 2.0 peer over newline-delimited stdio for kage.
+2026-09-29T08:19:52.586717Z,kage-loop,0.0.0,0,0,,"Synchronous, event-driven agent loop for the kage coding agent."
+2026-09-29T08:19:58.366603Z,kage-plugin,0.0.0,0,0,,Sandboxed Lua runtime and host API surface for kage plugins.
+2026-09-29T08:20:04.679092Z,kage-remote,0.0.0,0,0,,WebSocket transport that serves kage over the network.
+2026-09-29T08:20:42.780775Z,wgame-gfx-typography,0.1.0,0,0,https://github.com/agerasev/wgame,GPU text rendering for wgame
+2026-09-29T08:23:48.367313Z,algocli-audit,0.1.0,0,0,https://github.com/algorithco-cli/algo,"Audit store for algorithco guard (SQLite WAL, never raw secrets)"

@@ -8,37 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 07:18 UTC
+## Latest list — 2026-09-29 08:26 UTC
 
-New crates published between 2026-09-29 06:20 UTC and 2026-09-29 07:18 UTC.
+New crates published between 2026-09-29 07:18 UTC and 2026-09-29 08:26 UTC.
 
-[Full CSV](data/new-crates-2026-09-29T07-18-55-290739Z.csv)
+[Full CSV](data/new-crates-2026-09-29T08-26-56-414767Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-29 06:22:38 | [cellule-app](https://crates.io/crates/cellule-app) | 0.1.0 | 0 | Dependency-light author API for Cellule applications |
-| 2026-09-29 06:24:27 | [auv-cli](https://crates.io/crates/auv-cli) | 0.0.22 | 0 | AUV core command-line frontend |
-| 2026-09-29 06:27:52 | [skardi-source-pack](https://crates.io/crates/skardi-source-pack) | 0.6.0 | 0 | Executable SaaS connector runtime: requests, pagination, and response interpret… |
-| 2026-09-29 06:30:21 | [wgame-app-input](https://crates.io/crates/wgame-app-input) | 0.1.0 | 0 | Window event streams for wgame applications |
-| 2026-09-29 06:30:21 | [wgame-fs](https://crates.io/crates/wgame-fs) | 0.1.0 | 0 | Async native and browser asset loading for wgame |
-| 2026-09-29 06:30:22 | [wgame-gfx](https://crates.io/crates/wgame-gfx) | 0.1.0 | 0 | Graphics targets, cameras, and retained scenes for wgame |
-| 2026-09-29 06:30:23 | [wgame-image](https://crates.io/crates/wgame-image) | 0.1.0 | 0 | CPU images, pixel formats, and texture atlases for wgame |
-| 2026-09-29 06:30:24 | [wgame-input](https://crates.io/crates/wgame-input) | 0.1.0 | 0 | Host-independent canvas input and gesture state for wgame |
-| 2026-09-29 06:30:38 | [cellule-host](https://crates.io/crates/cellule-host) | 0.1.0 | 0 | Provider-neutral Cell node lifecycle facade |
-| 2026-09-29 06:34:41 | [wgame-app](https://crates.io/crates/wgame-app) | 0.1.0 | 0 | Cooperative window, task, and timer runtime for wgame |
-| 2026-09-29 06:40:42 | [cellule-peer-http](https://crates.io/crates/cellule-peer-http) | 0.1.0 | 0 | Authenticated HTTP transport and pinned mTLS for Cellule peers |
-| 2026-09-29 06:43:52 | [wgame-macros](https://crates.io/crates/wgame-macros) | 0.1.0 | 0 | Application and window entry point macros for wgame |
-| 2026-09-29 06:46:59 | [qqq-cli](https://crates.io/crates/qqq-cli) | 0.1.0 | 0 | Local-first task queue for coding agent sessions |
-| 2026-09-29 06:48:44 | [rage-cli](https://crates.io/crates/rage-cli) | 0.23.0 | 0 | Swiss-army CLI for RAGE game files: RPF archives, RSC7 resources, textures, ren… |
-| 2026-09-29 06:54:32 | [pageindex-pdf](https://crates.io/crates/pageindex-pdf) | 0.1.0 | 0 | Pure-Rust PDF text-span extraction (positions, fonts, sizes) and bookmark readi… |
-| 2026-09-29 06:54:36 | [pageindex-flash](https://crates.io/crates/pageindex-flash) | 0.1.0 | 0 | LLM-free document outline (table of contents) extraction from PDF layout, for p… |
-| 2026-09-29 06:54:39 | [pageindex](https://crates.io/crates/pageindex) | 0.1.0 | 0 | Local-first, vectorless, reasoning-based RAG: index documents into a tree and l… |
-| 2026-09-29 06:54:42 | [pageindex-cli](https://crates.io/crates/pageindex-cli) | 0.1.0 | 0 | Command-line interface for pageindex: index PDFs and Markdown into trees and ch… |
-| 2026-09-29 06:58:16 | [sancta](https://crates.io/crates/sancta) | 0.0.1 | 0 | WIP |
-| 2026-09-29 07:00:18 | [unity-bundle-assets](https://crates.io/crates/unity-bundle-assets) | 0.1.0 | 0 | Read Unity serialized asset files and asset bundles, and export their sprites a… |
-| 2026-09-29 07:07:03 | [wgame-shader-macros](https://crates.io/crates/wgame-shader-macros) | 0.1.0 | 0 | Shader attribute derive macros for wgame |
-| 2026-09-29 07:09:49 | [voicy-core](https://crates.io/crates/voicy-core) | 1.9.0 | 0 | voicy's speech engines as a library: Qwen3-TTS synthesis, faster-whisper recogn… |
-| 2026-09-29 07:18:27 | [wgame-shader](https://crates.io/crates/wgame-shader) | 0.1.0 | 0 | Typed shader attributes, bindings, and WGSL templates for wgame |
+| 2026-09-29 07:19:13 | [schematic-wgpu](https://crates.io/crates/schematic-wgpu) | 0.1.0 | 0 | Render and export Litematica schematics with wgpu |
+| 2026-09-29 07:24:31 | [serde_toon_format_cli](https://crates.io/crates/serde_toon_format_cli) | 0.2.0 | 0 | Command-line interface for TOON encoding/decoding |
+| 2026-09-29 07:27:56 | [code-transpiler](https://crates.io/crates/code-transpiler) | 0.1.0 | 0 | Pure-Rust incremental port of the Code-Transpiler semantic/UAST engine |
+| 2026-09-29 07:34:46 | [tokio-tcp-pool](https://crates.io/crates/tokio-tcp-pool) | 0.1.0 | 0 | Async pooled TCP/TLS connections over direct, SOCKS5 and HTTP CONNECT routes |
+| 2026-09-29 07:34:55 | [wgame-typography](https://crates.io/crates/wgame-typography) | 0.1.0 | 0 | CPU font rasterization and glyph atlases for wgame |
+| 2026-09-29 07:46:07 | [wgame-gfx-texture](https://crates.io/crates/wgame-gfx-texture) | 0.1.0 | 0 | GPU texture atlases, render textures, and readback for wgame |
+| 2026-09-29 07:51:26 | [algocli-types](https://crates.io/crates/algocli-types) | 0.1.0 | 0 | Canonical types generated from proto (algorithco_guard.v0), never hand-edit (AG… |
+| 2026-09-29 07:51:47 | [algocli-redact](https://crates.io/crates/algocli-redact) | 0.1.0 | 0 | Redact secrets and PII before egress (core, first Phase 1 task per waiver) |
+| 2026-09-29 07:52:11 | [algocli-shell-analysis](https://crates.io/crates/algocli-shell-analysis) | 0.1.0 | 0 | Shell analysis via tree-sitter-bash (parse, facts, obfuscation) |
+| 2026-09-29 07:52:38 | [algocli-hook-client](https://crates.io/crates/algocli-hook-client) | 0.1.0 | 0 | Hook client for algorithco guard (tiny, fail-safe, never non-zero) |
+| 2026-09-29 07:53:35 | [algocli-backend](https://crates.io/crates/algocli-backend) | 0.1.0 | 0 | algorithco guard backend: Auth(device flow), Org/Team/Role, Policy sync, Audit… |
+| 2026-09-29 07:56:48 | [jev-stars](https://crates.io/crates/jev-stars) | 0.1.0 | 0 | Local-first GitHub stars memory for AI coding agents |
+| 2026-09-29 07:57:45 | [wgame-utils](https://crates.io/crates/wgame-utils) | 0.1.0 | 0 | Timing helpers for wgame applications |
+| 2026-09-29 08:01:47 | [fun-ci-renderer](https://crates.io/crates/fun-ci-renderer) | 2.0.0 | 0 | Terminal renderer for the fun-ci console: the dashboard of a local CI |
+| 2026-09-29 08:09:16 | [wgame-gfx-shapes](https://crates.io/crates/wgame-gfx-shapes) | 0.1.0 | 0 | Composable shapes and materials for wgame |
+| 2026-09-29 08:09:58 | [oinkie](https://crates.io/crates/oinkie) | 0.6.0 | 0 | Detects software theft by comparing birthmarks extracted from binaries |
+| 2026-09-29 08:10:21 | [algocli-fingerprint](https://crates.io/crates/algocli-fingerprint) | 0.1.0 | 0 | Fingerprint normalization for cache (proptest idempotence, blake3 cache_key) |
+| 2026-09-29 08:11:47 | [fts5-cjk](https://crates.io/crates/fts5-cjk) | 0.1.0 | 0 | CJK normalization and literal phrase helpers for SQLite FTS5 |
+| 2026-09-29 08:15:15 | [rsinit](https://crates.io/crates/rsinit) | 0.1.0 | 0 | minimalistic single binary initramfs init for embedded systems |
+| 2026-09-29 08:15:37 | [mdwire-core](https://crates.io/crates/mdwire-core) | 0.1.3 | 0 | Streaming Markdown normalizer and channel renderer. No dependencies. |
+| 2026-09-29 08:15:45 | [mdwire-cli](https://crates.io/crates/mdwire-cli) | 0.1.3 | 0 | CLI for mdwire — stdin to stdout, one channel per invocation. |
+| 2026-09-29 08:16:13 | [algocli-policy](https://crates.io/crates/algocli-policy) | 0.1.0 | 0 | Policy engine: hard-deny + profiles, compile-once at load (P1-CORE-3/4) |
+| 2026-09-29 08:18:16 | [dyn-abi-map](https://crates.io/crates/dyn-abi-map) | 0.1.0 | 0 | The ABI map: compiler facts to ABI levels, two contracts (data and vtable), one… |
+| 2026-09-29 08:19:46 | [kage-jsonrpc](https://crates.io/crates/kage-jsonrpc) | 0.0.0 | 0 | Bidirectional JSON-RPC 2.0 peer over newline-delimited stdio for kage. |
+| 2026-09-29 08:19:52 | [kage-loop](https://crates.io/crates/kage-loop) | 0.0.0 | 0 | Synchronous, event-driven agent loop for the kage coding agent. |
+| 2026-09-29 08:19:58 | [kage-plugin](https://crates.io/crates/kage-plugin) | 0.0.0 | 0 | Sandboxed Lua runtime and host API surface for kage plugins. |
+| 2026-09-29 08:20:04 | [kage-remote](https://crates.io/crates/kage-remote) | 0.0.0 | 0 | WebSocket transport that serves kage over the network. |
+| 2026-09-29 08:20:42 | [wgame-gfx-typography](https://crates.io/crates/wgame-gfx-typography) | 0.1.0 | 0 | GPU text rendering for wgame |
+| 2026-09-29 08:23:48 | [algocli-audit](https://crates.io/crates/algocli-audit) | 0.1.0 | 0 | Audit store for algorithco guard (SQLite WAL, never raw secrets) |
 
 ## Data source
 
