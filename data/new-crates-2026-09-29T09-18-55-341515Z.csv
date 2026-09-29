@@ -1,0 +1,16 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T08:33:12.052109Z,wgame-gfx-3d,0.1.0,0,0,https://github.com/agerasev/wgame,"Solid primitives, lighting, and normal maps for wgame"
+2026-09-29T08:34:15.581239Z,algocli-provider,0.1.0,0,0,https://github.com/algorithco-cli/algo,DecisionProvider trait + mock + feature-gated Jev client (Jev OFF by default)
+2026-09-29T08:36:03.38844Z,fusion-pcu-core,0.0.3,0,0,https://github.com/Private-Asylum/Fusion-PCU,"Backend-neutral core IR, contracts, tensor semantics, and reference VM for Fusion PCU"
+2026-09-29T08:36:08.022146Z,fusion-pcu-opencl,0.0.3,0,0,https://github.com/Private-Asylum/Fusion-PCU,OpenCL backend scaffold for Fusion PCU
+2026-09-29T08:44:38.299094Z,algocli-adapter-claude,0.1.0,0,0,https://github.com/algorithco-cli/algo,"Claude adapter shell-only (P1-07) – parse PreToolUse Bash → CanonicalEvent, render Decision → hook JSON. [VERIFY] payload shapes vs Claude docs – refresh each release."
+2026-09-29T08:52:49.980359Z,yew-e2e,0.1.0,0,0,https://github.com/udoprog/yew-e2e,"Browser tests for Yew applications, and the runner that drives them."
+2026-09-29T08:54:56.656124Z,algocli-adapter-codex,0.1.0,0,0,https://github.com/algorithco-cli/algo,"Codex adapter (P4 spike): approval/sandbox/MCP, degrade gracefully, never assume block"
+2026-09-29T08:59:20.151919Z,wgame,0.1.0,0,0,https://github.com/agerasev/wgame,Modular async 2D and 3D graphics applications with winit and wgpu
+2026-09-29T09:00:44.311815Z,sandpiper,0.0.1,0,0,https://github.com/beatzball/sandpiper,Self-hosted microVM machines for AI agents and apps. Early development.
+2026-09-29T09:03:02.185203Z,tc_block_padding,0.1.0,0,0,https://github.com/TomiCheng/tc_block_cipher,"PKCS#7, ISO 7816-4, ANSI X9.23, TBC, zero-byte and ISO 10126 padding for block cipher modes."
+2026-09-29T09:05:15.29632Z,algocli-adapter-opencode,0.1.0,0,0,https://github.com/algorithco-cli/algo,"OpenCode adapter (P4 spike): plugin system, degrade gracefully"
+2026-09-29T09:09:39.172581Z,phoros,0.1.1,0,0,https://github.com/Pivius/phoros,Zero-allocation ring buffer with XOR delta encoding and state rollback
+2026-09-29T09:10:44.673675Z,wgame-egui,0.1.0,0,0,https://github.com/agerasev/wgame,An egui window host for wgame graphics applications
+2026-09-29T09:12:36.039875Z,abyss-sdk,1.0.2,0,0,https://github.com/lexmount/abyss-rs,Rust SDK for the Abyss broker REST API and plugin event stream
+2026-09-29T09:15:53.012147Z,algocli-daemon,0.1.0,0,0,https://github.com/algorithco-cli/algo,"Daemon for algorithco guard (algo.sock, pipeline L0-L4, single SQLite writer)"
