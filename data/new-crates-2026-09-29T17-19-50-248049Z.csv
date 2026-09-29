@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T16:22:06.06356Z,tabnas-markdown,0.7.6,0,0,https://github.com/tabnas/markdown,"A CommonMark 0.31.2 parser with GFM extensions for the tabnas parsing engine, into a JSON AST or HTML."
+2026-09-29T16:26:23.362688Z,baulu,0.1.0,0,0,https://github.com/mustafaelrasheid/baulu,A compiler for the programming language Baulu.
+2026-09-29T16:32:06.638039Z,overture-stac,0.0.0-reserved,0,0,,Overture Maps STAC catalog generator
+2026-09-29T16:32:54.738171Z,kingfisher-core,1.0.0,0,0,https://github.com/mongodb/kingfisher,Core types and traits for Kingfisher secret scanner
+2026-09-29T16:33:02.947179Z,kingfisher-rules,1.0.0,0,0,https://github.com/mongodb/kingfisher,Rule definitions and database for Kingfisher secret scanner
+2026-09-29T16:33:09.431057Z,kingfisher-scanner,1.0.0,0,0,https://github.com/mongodb/kingfisher,High-level scanning API for Kingfisher secret scanner
+2026-09-29T16:33:51.927839Z,kingfisher-bin,2.8.0,0,0,https://github.com/mongodb/kingfisher,MongoDB's blazingly fast and accurate secret scanning and validation tool
+2026-09-29T16:43:59.515685Z,raster-diff,0.1.0,0,0,https://github.com/codyps/zpl,Dependency-free binary raster comparison and PNG diagnostics
+2026-09-29T16:44:33.211471Z,zpl,0.1.0,0,0,https://github.com/codyps/zpl,A high accuracy ZPL renderer
+2026-09-29T16:58:46.130717Z,rollcall,0.0.1,0,0,https://github.com/smhasan94/rollcall,Reserves the rollcall crate name. The CLI is published as rollcall-cli (binary: rollcall); the library is rollcall-core.
+2026-09-29T16:58:46.322805Z,rollcall-assay,0.0.1,0,0,https://github.com/smhasan94/rollcall,Cryptographic inventory (CycloneDX CBOM) for rollcall (placeholder 0.0.1)
+2026-09-29T16:58:46.673614Z,rollcall-core,0.0.1,0,0,https://github.com/smhasan94/rollcall,Component-graph model and ingestion for rollcall (placeholder 0.0.1)
+2026-09-29T16:58:47.801871Z,rollcall-cli,0.0.1,0,0,https://github.com/smhasan94/rollcall,rollcall: CRA-grade CycloneDX SBOMs from firmware build metadata
+2026-09-29T17:06:30.168864Z,libmaxminddb-rs-derive,0.1.0,0,0,https://github.com/0x00F6/libmaxminddb-rs,Derive macros for libmaxminddb-rs
+2026-09-29T17:06:40.283246Z,libmaxminddb-rs,0.1.0,0,0,https://github.com/0x00F6/libmaxminddb-rs,Pure Rust MaxMind DB (MMDB) reader and writer with zero-copy borrowed decoding
+2026-09-29T17:10:16.451692Z,sootmark-registry,0.2.0,0,0,https://github.com/Sootmark/registry,"Windows registry hive (regf) parser: keys, values, big data, subkey indexes; ShimCache and UserAssist."
+2026-09-29T17:12:42.750227Z,tabnas-jsonic,0.7.2,0,0,https://github.com/tabnas/jsonic,The jsonic relaxed-JSON grammar plugin for the tabnas parsing engine
+2026-09-29T17:17:00.264745Z,ring_types,0.1.0,0,0,https://github.com/Wandalen/ring,"Shared ids, errors, and policy enums for the ring family — no ring logic"
