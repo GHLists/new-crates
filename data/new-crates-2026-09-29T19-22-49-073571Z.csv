@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T18:21:58.552538Z,llama-harness-ollama,0.2.0,0,0,https://github.com/tyhuang9/llama-harness,Direct loopback Ollama provider for llama-harness
+2026-09-29T18:22:03.621571Z,llama-harness-observability,0.2.0,0,0,https://github.com/tyhuang9/llama-harness,Redacted local SQLite trace persistence for llama-harness
+2026-09-29T18:22:09.18594Z,llama-harness-tauri,0.2.0,0,0,https://github.com/tyhuang9/llama-harness,Embedded Tauri helpers for llama-harness
+2026-09-29T18:22:13.647194Z,llama-harness-mcp,0.2.0,0,0,https://github.com/tyhuang9/llama-harness,Transport-neutral MCP tool adapter for llama-harness
+2026-09-29T18:24:19.478537Z,openpbr,0.1.0,0,0,https://github.com/forest-rs/openpbr,"The OpenPBR surface parameter set: typed values, spec defaults, ranges and metadata"
+2026-09-29T18:25:24.685395Z,keyed-stream-map,0.1.0,0,0,https://github.com/abhishekshree/keyed-stream-map,Keyed StreamMap with expected O(1) lookup and removal.
+2026-09-29T18:28:40.466043Z,cronwatch,0.7.0,0,0,https://github.com/phillips-jon/cronwatch,"Know when your cron jobs fail, run late or never run: the library behind cronwatch.dev, for Rust"
+2026-09-29T18:28:42.639719Z,cronwatch-apalis,0.7.0,0,0,https://github.com/phillips-jon/cronwatch,"CronWatch for apalis: each attempt of a worker's jobs recorded as a run, and apalis-cron on CronWatch's own schedules"
+2026-09-29T18:28:43.130348Z,cronwatch-sqlx,0.7.0,0,0,https://github.com/phillips-jon/cronwatch,"CronWatch's SQL store over sqlx: runs, jobs and state in the app's own database"
+2026-09-29T18:28:43.524636Z,cronwatch-tokio-cron-scheduler,0.7.0,0,0,https://github.com/phillips-jon/cronwatch,CronWatch for tokio-cron-scheduler: its jobs declared with their schedules and every run recorded
+2026-09-29T18:30:18.988924Z,tabnas-ebnf,0.1.10,0,0,https://github.com/tabnas/ebnf,"EBNF (W3C, plus the non-colliding ISO 14977 spellings) grammar front-end for the tabnas parsing engine"
+2026-09-29T18:31:56.261106Z,turnframe-provider-ollama,0.1.0,0,0,https://github.com/turnframe-rs/turnframe,"Ollama native chat-endpoint adapter for Turnframe, for local and proxied daemons"
+2026-09-29T18:36:35.221682Z,kcode-k1-launch-node-codec,0.1.0,0,0,,"Strict value, action, and projection codec for K1 launch-node assignments"
+2026-09-29T18:37:49.56437Z,ring_cursor,0.1.0,0,0,https://github.com/Wandalen/ring,"Producer and consumer sequence cursors, cache-line separated"
+2026-09-29T18:38:03.459855Z,compio-term,0.1.0,0,0,https://github.com/compio-rs/compio,Completion-based terminal support for Compio
+2026-09-29T18:38:08.734279Z,ring_store,0.1.0,0,0,https://github.com/Wandalen/ring,Power-of-two slot storage array
+2026-09-29T18:38:28.615921Z,ring_wait,0.1.0,0,0,https://github.com/Wandalen/ring,Wait strategies for space and data availability
+2026-09-29T18:42:22.881814Z,turnframe-store-postgres,0.1.0,0,0,https://github.com/turnframe-rs/turnframe,PostgreSQL reference store implementation for Turnframe
+2026-09-29T18:45:23.712829Z,kcode-k1-codex-runtime-retirement,0.1.1,0,0,,Deferred one-shot retirement state for the K1 Codex runtime
+2026-09-29T18:50:53.376661Z,tabnas-gbnf,0.1.13,0,0,https://github.com/tabnas/gbnf,"llama.cpp GBNF grammar compiler for the tabnas parsing engine: GBNF text in, tabnas GrammarSpec out, plus the inverse renderer and the gbnf-check validator"
+2026-09-29T18:52:39.31432Z,turnframe-tasks,0.1.0,0,0,https://github.com/turnframe-rs/turnframe,"Small, typed model tasks for Turnframe: per-task prompts, models and settings, budgets, repair, voting, escalation and a record of every call"
+2026-09-29T18:53:38.508031Z,binwalk-ng,4.0.0,0,0,https://github.com/binwalk-ng/binwalk-ng,Analyzes data for embedded file types
+2026-09-29T18:55:11.785244Z,cg-parser,0.1.0,0,0,https://github.com/deepusingh2530/codegrep,Tree-sitter language bindings and language detection for codegrep
+2026-09-29T18:59:35.847282Z,ykoxide,0.1.1,0,0,https://github.com/Esl1h/ykoxide,"YubiKey toolkit: age, PIV, FIDO2 and challenge-response file encryption and SSH signing in a single binary"
+2026-09-29T19:01:41.683455Z,cg-rules,0.1.0,0,0,https://github.com/deepusingh2530/codegrep,"YAML rule schema, loading and indexing for codegrep"
+2026-09-29T19:01:51.162656Z,cg-ir,0.1.0,0,0,https://github.com/deepusingh2530/codegrep,Intermediate representation (IR) for codegrep language parsers
+2026-09-29T19:02:05.371521Z,cg-taint,0.1.0,0,0,https://github.com/deepusingh2530/codegrep,Scope-aware intra-function taint analysis for codegrep
+2026-09-29T19:02:57.568606Z,turnframe-understand,0.1.0,0,0,https://github.com/turnframe-rs/turnframe,"Turn understanding for Turnframe: small verified model tasks that split, route, locate, extract and check, assembled by code into one plan"
+2026-09-29T19:03:27.55336Z,harbor-ports-cli,0.1.0,0,0,https://github.com/RedJulu/harbor-ports-cli,A minimalist and fast port managment CLI
+2026-09-29T19:04:44.962138Z,cg-matcher,0.1.0,0,0,https://github.com/deepusingh2530/codegrep,"Pattern matching engine (regex, metavariables, metavariable-regex) for codegrep"
+2026-09-29T19:05:52.654767Z,woocraft-terminal,0.6.0,0,0,https://github.com/Reverier-Xu/woocraft,"Cross-platform PTY terminal session core for the Woocraft design system, headless-friendly."
+2026-09-29T19:07:26.474609Z,llama-harness-evals,0.2.0,0,0,https://github.com/tyhuang9/llama-harness,Deterministic evaluation and replay contracts for llama-harness
+2026-09-29T19:08:05.14887Z,tabnas-csv,0.5.11,0,0,https://github.com/tabnas/csv,"CSV (RFC 4180) grammar plugin for the tabnas parsing engine, over the jsonic base grammar"
+2026-09-29T19:09:19.515554Z,highland-checks,0.1.0,0,0,https://github.com/highland-rs/highland,"Native health checks for Highland, with thresholds, weights, and bounded execution."
+2026-09-29T19:09:21.410836Z,xbpf-test,0.0.1,0,0,https://github.com/lerboe/xbpf,Checks whether the kernel BTF can be dumped in the docs.rs build environment
+2026-09-29T19:09:38.050159Z,laddu-cas-macros,0.24.0,0,0,https://github.com/denehoffman/laddu,Amplitude analysis tools for Rust
+2026-09-29T19:09:53.811052Z,highland-net,0.1.0,0,0,https://github.com/highland-rs/highland,"Linux interface, address, and socket operations for Highland, behind mockable traits."
+2026-09-29T19:10:15.122853Z,highland-daemon,0.1.0,0,0,https://github.com/highland-rs/highland,The Highland VRRP failover daemon.
+2026-09-29T19:10:36.57054Z,highland-cli,0.1.0,0,0,https://github.com/highland-rs/highland,The administrative command-line interface for Highland.
+2026-09-29T19:11:15.32384Z,kcode-k1-http-kmap-representation,0.1.0,0,0,,Strict HTTP representation for profile-backed Kmap node creation
+2026-09-29T19:13:11.913483Z,llama-harness,0.2.0,0,0,https://github.com/tyhuang9/llama-harness,Rust-native framework for building controlled agentic workflows
+2026-09-29T19:13:12.551517Z,turnframe-provider-anthropic,0.1.0,0,0,https://github.com/turnframe-rs/turnframe,Anthropic Messages API adapter for Turnframe
+2026-09-29T19:14:56.333018Z,codegrep,0.8.0,0,0,https://github.com/deepusingh2530/codegrep,Fast offline multi-language SAST scanner with 1183 MIT-original rules
+2026-09-29T19:16:17.665048Z,graphile_worker_postgres_tls,0.1.0,0,0,https://github.com/leo91000/graphile_worker_rs,Feature-selected PostgreSQL TLS connectors for graphile_worker
+2026-09-29T19:19:06.696702Z,kcode-k1-http-kmap,0.1.0,0,0,,Authenticated Axum adapter for profile-backed K1 Kmap node creation
+2026-09-29T19:19:52.759488Z,fast-talker,0.1.1,0,0,https://github.com/valstad-shipworks/fast-talker,"Real-time, low-latency networking helpers: hardware/kernel send and receive timestamps for UDP and TCP, NIC and thread tuning, and loss counters without subprocesses"

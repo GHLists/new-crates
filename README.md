@@ -8,38 +8,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 18:21 UTC
+## Latest list — 2026-09-29 19:22 UTC
 
-New crates published between 2026-09-29 17:19 UTC and 2026-09-29 18:21 UTC.
+New crates published between 2026-09-29 18:21 UTC and 2026-09-29 19:22 UTC.
 
-[Full CSV](data/new-crates-2026-09-29T18-21-45-024237Z.csv)
+[Full CSV](data/new-crates-2026-09-29T19-22-49-073571Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-29 17:20:08 | [lungo-driver](https://crates.io/crates/lungo-driver) | 1.78.3254 | 0 | The language-neutral lungo pipeline: builds a Lake project and analyses its com… |
-| 2026-09-29 17:20:13 | [lungo-cli](https://crates.io/crates/lungo-cli) | 1.78.3254 | 0 | The lungo command: generate C, Go, Python, Swift, TypeScript and Rust from Lean… |
-| 2026-09-29 17:23:00 | [llama-harness-core](https://crates.io/crates/llama-harness-core) | 0.2.0 | 0 | Embedded, provider-neutral agent runtime for llama-harness |
-| 2026-09-29 17:24:55 | [heyfoz](https://crates.io/crates/heyfoz) | 0.0.1 | 0 | Foz: a body for the agent you already use. Name reserved; first release coming… |
-| 2026-09-29 17:24:57 | [foz](https://crates.io/crates/foz) | 0.0.1 | 0 | Foz: a body for the agent you already use. Name reserved; first release coming… |
-| 2026-09-29 17:24:59 | [fozling](https://crates.io/crates/fozling) | 0.0.1 | 0 | Foz: a body for the agent you already use. Name reserved; first release coming… |
-| 2026-09-29 17:27:28 | [ring_seqno](https://crates.io/crates/ring_seqno) | 0.1.0 | 0 | Sequence numbers and their comparison across laps |
-| 2026-09-29 17:27:46 | [ring_index](https://crates.io/crates/ring_index) | 0.1.0 | 0 | Sequence-to-slot index mapping for power-of-two capacities |
-| 2026-09-29 17:28:04 | [ring_align](https://crates.io/crates/ring_align) | 0.1.0 | 0 | Cache-line padding constants and alignment wrappers |
-| 2026-09-29 17:28:24 | [ring_atomic](https://crates.io/crates/ring_atomic) | 0.1.0 | 0 | Atomic sequence helpers with explicit memory orderings |
-| 2026-09-29 17:28:43 | [ring_config](https://crates.io/crates/ring_config) | 0.1.0 | 0 | Ring construction parameters |
-| 2026-09-29 17:39:37 | [tabnas-path](https://crates.io/crates/tabnas-path) | 0.3.9 | 0 | Property-path tracking plugin for the tabnas parsing engine |
-| 2026-09-29 17:42:38 | [ring_slot](https://crates.io/crates/ring_slot) | 0.1.0 | 0 | Slot payload views — typed and raw bytes |
-| 2026-09-29 18:08:09 | [tabnas-abnf](https://crates.io/crates/tabnas-abnf) | 0.4.16 | 0 | ABNF (RFC 5234) grammar compiler for the tabnas parsing engine: ABNF text in, t… |
-| 2026-09-29 18:08:21 | [qleisli](https://crates.io/crates/qleisli) | 0.2.1 | 0 | Experimental quantum language with linear ownership, exact contracts and indepe… |
-| 2026-09-29 18:10:19 | [turnframe-core](https://crates.io/crates/turnframe-core) | 0.1.0 | 0 | Pure types and the deterministic Flow Map workflow projector for Turnframe |
-| 2026-09-29 18:10:22 | [turnframe-macros](https://crates.io/crates/turnframe-macros) | 0.1.0 | 0 | Reserved procedural-macro crate for Turnframe (no macros are shipped in 0.1 by… |
-| 2026-09-29 18:10:36 | [turnframe-provider](https://crates.io/crates/turnframe-provider) | 0.1.0 | 0 | Provider-neutral model interfaces, capability routing, fallback policy and conf… |
-| 2026-09-29 18:10:46 | [turnframe-store](https://crates.io/crates/turnframe-store) | 0.1.0 | 0 | Object-safe persistence traits and the deterministic in-memory store for Turnfr… |
-| 2026-09-29 18:10:57 | [turnframe-telemetry](https://crates.io/crates/turnframe-telemetry) | 0.1.0 | 0 | Tracing, metrics and optional OpenTelemetry helpers for Turnframe |
-| 2026-09-29 18:11:10 | [charset-norm](https://crates.io/crates/charset-norm) | 3.5.1 | 0 | Universal character encoding detector: a Rust implementation of charset_normali… |
-| 2026-09-29 18:16:11 | [turnframe-prompt](https://crates.io/crates/turnframe-prompt) | 0.1.0 | 0 | Prompt sources for Turnframe: prompts compiled in from the adopter's repository… |
-| 2026-09-29 18:17:32 | [everyport](https://crates.io/crates/everyport) | 0.0.0 | 0 | Every dev server, on every OS, on every machine. Placeholder; the first release… |
-| 2026-09-29 18:21:33 | [turnframe-provider-bedrock](https://crates.io/crates/turnframe-provider-bedrock) | 0.1.0 | 0 | AWS Bedrock Converse adapter for Turnframe |
+| 2026-09-29 18:21:58 | [llama-harness-ollama](https://crates.io/crates/llama-harness-ollama) | 0.2.0 | 0 | Direct loopback Ollama provider for llama-harness |
+| 2026-09-29 18:22:03 | [llama-harness-observability](https://crates.io/crates/llama-harness-observability) | 0.2.0 | 0 | Redacted local SQLite trace persistence for llama-harness |
+| 2026-09-29 18:22:09 | [llama-harness-tauri](https://crates.io/crates/llama-harness-tauri) | 0.2.0 | 0 | Embedded Tauri helpers for llama-harness |
+| 2026-09-29 18:22:13 | [llama-harness-mcp](https://crates.io/crates/llama-harness-mcp) | 0.2.0 | 0 | Transport-neutral MCP tool adapter for llama-harness |
+| 2026-09-29 18:24:19 | [openpbr](https://crates.io/crates/openpbr) | 0.1.0 | 0 | The OpenPBR surface parameter set: typed values, spec defaults, ranges and meta… |
+| 2026-09-29 18:25:24 | [keyed-stream-map](https://crates.io/crates/keyed-stream-map) | 0.1.0 | 0 | Keyed StreamMap with expected O(1) lookup and removal. |
+| 2026-09-29 18:28:40 | [cronwatch](https://crates.io/crates/cronwatch) | 0.7.0 | 0 | Know when your cron jobs fail, run late or never run: the library behind cronwa… |
+| 2026-09-29 18:28:42 | [cronwatch-apalis](https://crates.io/crates/cronwatch-apalis) | 0.7.0 | 0 | CronWatch for apalis: each attempt of a worker's jobs recorded as a run, and ap… |
+| 2026-09-29 18:28:43 | [cronwatch-sqlx](https://crates.io/crates/cronwatch-sqlx) | 0.7.0 | 0 | CronWatch's SQL store over sqlx: runs, jobs and state in the app's own database |
+| 2026-09-29 18:28:43 | [cronwatch-tokio-cron-scheduler](https://crates.io/crates/cronwatch-tokio-cron-scheduler) | 0.7.0 | 0 | CronWatch for tokio-cron-scheduler: its jobs declared with their schedules and… |
+| 2026-09-29 18:30:18 | [tabnas-ebnf](https://crates.io/crates/tabnas-ebnf) | 0.1.10 | 0 | EBNF (W3C, plus the non-colliding ISO 14977 spellings) grammar front-end for th… |
+| 2026-09-29 18:31:56 | [turnframe-provider-ollama](https://crates.io/crates/turnframe-provider-ollama) | 0.1.0 | 0 | Ollama native chat-endpoint adapter for Turnframe, for local and proxied daemons |
+| 2026-09-29 18:36:35 | [kcode-k1-launch-node-codec](https://crates.io/crates/kcode-k1-launch-node-codec) | 0.1.0 | 0 | Strict value, action, and projection codec for K1 launch-node assignments |
+| 2026-09-29 18:37:49 | [ring_cursor](https://crates.io/crates/ring_cursor) | 0.1.0 | 0 | Producer and consumer sequence cursors, cache-line separated |
+| 2026-09-29 18:38:03 | [compio-term](https://crates.io/crates/compio-term) | 0.1.0 | 0 | Completion-based terminal support for Compio |
+| 2026-09-29 18:38:08 | [ring_store](https://crates.io/crates/ring_store) | 0.1.0 | 0 | Power-of-two slot storage array |
+| 2026-09-29 18:38:28 | [ring_wait](https://crates.io/crates/ring_wait) | 0.1.0 | 0 | Wait strategies for space and data availability |
+| 2026-09-29 18:42:22 | [turnframe-store-postgres](https://crates.io/crates/turnframe-store-postgres) | 0.1.0 | 0 | PostgreSQL reference store implementation for Turnframe |
+| 2026-09-29 18:45:23 | [kcode-k1-codex-runtime-retirement](https://crates.io/crates/kcode-k1-codex-runtime-retirement) | 0.1.1 | 0 | Deferred one-shot retirement state for the K1 Codex runtime |
+| 2026-09-29 18:50:53 | [tabnas-gbnf](https://crates.io/crates/tabnas-gbnf) | 0.1.13 | 0 | llama.cpp GBNF grammar compiler for the tabnas parsing engine: GBNF text in, ta… |
+| 2026-09-29 18:52:39 | [turnframe-tasks](https://crates.io/crates/turnframe-tasks) | 0.1.0 | 0 | Small, typed model tasks for Turnframe: per-task prompts, models and settings,… |
+| 2026-09-29 18:53:38 | [binwalk-ng](https://crates.io/crates/binwalk-ng) | 4.0.0 | 0 | Analyzes data for embedded file types |
+| 2026-09-29 18:55:11 | [cg-parser](https://crates.io/crates/cg-parser) | 0.1.0 | 0 | Tree-sitter language bindings and language detection for codegrep |
+| 2026-09-29 18:59:35 | [ykoxide](https://crates.io/crates/ykoxide) | 0.1.1 | 0 | YubiKey toolkit: age, PIV, FIDO2 and challenge-response file encryption and SSH… |
+| 2026-09-29 19:01:41 | [cg-rules](https://crates.io/crates/cg-rules) | 0.1.0 | 0 | YAML rule schema, loading and indexing for codegrep |
+| 2026-09-29 19:01:51 | [cg-ir](https://crates.io/crates/cg-ir) | 0.1.0 | 0 | Intermediate representation (IR) for codegrep language parsers |
+| 2026-09-29 19:02:05 | [cg-taint](https://crates.io/crates/cg-taint) | 0.1.0 | 0 | Scope-aware intra-function taint analysis for codegrep |
+| 2026-09-29 19:02:57 | [turnframe-understand](https://crates.io/crates/turnframe-understand) | 0.1.0 | 0 | Turn understanding for Turnframe: small verified model tasks that split, route,… |
+| 2026-09-29 19:03:27 | [harbor-ports-cli](https://crates.io/crates/harbor-ports-cli) | 0.1.0 | 0 | A minimalist and fast port managment CLI |
+| 2026-09-29 19:04:44 | [cg-matcher](https://crates.io/crates/cg-matcher) | 0.1.0 | 0 | Pattern matching engine (regex, metavariables, metavariable-regex) for codegrep |
+| 2026-09-29 19:05:52 | [woocraft-terminal](https://crates.io/crates/woocraft-terminal) | 0.6.0 | 0 | Cross-platform PTY terminal session core for the Woocraft design system, headle… |
+| 2026-09-29 19:07:26 | [llama-harness-evals](https://crates.io/crates/llama-harness-evals) | 0.2.0 | 0 | Deterministic evaluation and replay contracts for llama-harness |
+| 2026-09-29 19:08:05 | [tabnas-csv](https://crates.io/crates/tabnas-csv) | 0.5.11 | 0 | CSV (RFC 4180) grammar plugin for the tabnas parsing engine, over the jsonic ba… |
+| 2026-09-29 19:09:19 | [highland-checks](https://crates.io/crates/highland-checks) | 0.1.0 | 0 | Native health checks for Highland, with thresholds, weights, and bounded execut… |
+| 2026-09-29 19:09:21 | [xbpf-test](https://crates.io/crates/xbpf-test) | 0.0.1 | 0 | Checks whether the kernel BTF can be dumped in the docs.rs build environment |
+| 2026-09-29 19:09:38 | [laddu-cas-macros](https://crates.io/crates/laddu-cas-macros) | 0.24.0 | 0 | Amplitude analysis tools for Rust |
+| 2026-09-29 19:09:53 | [highland-net](https://crates.io/crates/highland-net) | 0.1.0 | 0 | Linux interface, address, and socket operations for Highland, behind mockable t… |
+| 2026-09-29 19:10:15 | [highland-daemon](https://crates.io/crates/highland-daemon) | 0.1.0 | 0 | The Highland VRRP failover daemon. |
+| 2026-09-29 19:10:36 | [highland-cli](https://crates.io/crates/highland-cli) | 0.1.0 | 0 | The administrative command-line interface for Highland. |
+| 2026-09-29 19:11:15 | [kcode-k1-http-kmap-representation](https://crates.io/crates/kcode-k1-http-kmap-representation) | 0.1.0 | 0 | Strict HTTP representation for profile-backed Kmap node creation |
+| 2026-09-29 19:13:11 | [llama-harness](https://crates.io/crates/llama-harness) | 0.2.0 | 0 | Rust-native framework for building controlled agentic workflows |
+| 2026-09-29 19:13:12 | [turnframe-provider-anthropic](https://crates.io/crates/turnframe-provider-anthropic) | 0.1.0 | 0 | Anthropic Messages API adapter for Turnframe |
+| 2026-09-29 19:14:56 | [codegrep](https://crates.io/crates/codegrep) | 0.8.0 | 0 | Fast offline multi-language SAST scanner with 1183 MIT-original rules |
+| 2026-09-29 19:16:17 | [graphile_worker_postgres_tls](https://crates.io/crates/graphile_worker_postgres_tls) | 0.1.0 | 0 | Feature-selected PostgreSQL TLS connectors for graphile_worker |
+| 2026-09-29 19:19:06 | [kcode-k1-http-kmap](https://crates.io/crates/kcode-k1-http-kmap) | 0.1.0 | 0 | Authenticated Axum adapter for profile-backed K1 Kmap node creation |
+| 2026-09-29 19:19:52 | [fast-talker](https://crates.io/crates/fast-talker) | 0.1.1 | 0 | Real-time, low-latency networking helpers: hardware/kernel send and receive tim… |
 
 ## Data source
 
