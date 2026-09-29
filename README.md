@@ -8,35 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 12:21 UTC
+## Latest list — 2026-09-29 13:18 UTC
 
-New crates published between 2026-09-29 11:18 UTC and 2026-09-29 12:21 UTC.
+New crates published between 2026-09-29 12:21 UTC and 2026-09-29 13:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-29T12-21-17-662043Z.csv)
+[Full CSV](data/new-crates-2026-09-29T13-18-59-782733Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-29 11:18:58 | [egui-shader-layers](https://crates.io/crates/egui-shader-layers) | 0.2.0 | 0 | WGSL shader layers for egui: filters, stateful simulations, textures and masks… |
-| 2026-09-29 11:22:36 | [lunsaran-taytay](https://crates.io/crates/lunsaran-taytay) | 0.1.0 | 0 | Durable Linux edge bridge for resumable Lunsaran uploads |
-| 2026-09-29 11:25:08 | [bannerbobomb-parser](https://crates.io/crates/bannerbobomb-parser) | 0.1.0 | 0 | Bounds-checked parsers for Wii BRLAN, BRFNT, BRLYT, and TPL banner formats |
-| 2026-09-29 11:30:57 | [latticefoundry](https://crates.io/crates/latticefoundry) | 0.0.0 | 0 | A clean-room compiler construction framework in pure Rust |
-| 2026-09-29 11:37:08 | [terrafabric](https://crates.io/crates/terrafabric) | 0.1.0 | 0 | tfab: agent-first command line for TerraFabric (Earth observation discovery, pr… |
-| 2026-09-29 11:42:19 | [cgfx-parser](https://crates.io/crates/cgfx-parser) | 0.1.0 | 0 | Format-faithful, nom-based parsers for Nintendo 3DS CGFX and BCH files |
-| 2026-09-29 11:42:37 | [cgfx-renderer](https://crates.io/crates/cgfx-renderer) | 0.1.0 | 0 | Renderer-neutral models, textures, materials, and animations loaded from CGFX/B… |
-| 2026-09-29 11:42:50 | [cgfx-gltf](https://crates.io/crates/cgfx-gltf) | 0.1.0 | 0 | GLB exporter for renderer-neutral CGFX/BCH scenes |
-| 2026-09-29 11:43:24 | [cgfx-wgpu](https://crates.io/crates/cgfx-wgpu) | 0.1.0 | 0 | wgpu renderer for cgfx-renderer scenes |
-| 2026-09-29 11:43:35 | [cgfx](https://crates.io/crates/cgfx) | 0.1.0 | 0 | Nintendo 3DS CGFX/BCH parsing, asset loading, and wgpu rendering |
-| 2026-09-29 11:51:26 | [luggage-env](https://crates.io/crates/luggage-env) | 0.1.1 | 0 | Per-project Nix dev environments (flake + direnv) for PHP and Node, detected fr… |
-| 2026-09-29 11:53:22 | [keylaut](https://crates.io/crates/keylaut) | 0.1.0 | 0 | A tiny, native keyboard utility that makes German characters effortless on Engl… |
-| 2026-09-29 12:00:55 | [molgfx-scene](https://crates.io/crates/molgfx-scene) | 0.3.2 | 0 | Scene state: declarative specs, patches, transactions and the renderer front. |
-| 2026-09-29 12:03:16 | [typ-lsp](https://crates.io/crates/typ-lsp) | 0.3.1 | 0 | Language Server Protocol client for the TYPE terminal IDE |
-| 2026-09-29 12:07:06 | [corona-freedesktop-icons](https://crates.io/crates/corona-freedesktop-icons) | 0.1.0 | 0 | A Freedesktop Icons lookup crate |
-| 2026-09-29 12:07:27 | [arkitekt-mesh](https://crates.io/crates/arkitekt-mesh) | 0.1.0 | 0 | A Tailscale-compatible mesh client: ts2021 control, DERP, disco and WireGuard,… |
-| 2026-09-29 12:08:33 | [flick_input](https://crates.io/crates/flick_input) | 0.1.0 | 0 | smartphone as a wireless keyboard for PC |
-| 2026-09-29 12:10:02 | [signstar-download-key-certificates](https://crates.io/crates/signstar-download-key-certificates) | 0.1.0 | 0 | Signstar certificate retrieval |
-| 2026-09-29 12:13:19 | [hardstack](https://crates.io/crates/hardstack) | 0.0.1 | 0 | HardStack CLI (coming soon) |
-| 2026-09-29 12:14:46 | [cpd-semantic](https://crates.io/crates/cpd-semantic) | 0.1.0 | 0 | Semantic (Type-4) clones for cpd: functions compared by code embeddings |
-| 2026-09-29 12:15:43 | [csonpath](https://crates.io/crates/csonpath) | 0.19.0 | 0 | Partial JSONPath implementation in C with Rust bindings |
+| 2026-09-29 12:22:58 | [html_pdf](https://crates.io/crates/html_pdf) | 0.1.2 | 0 | HTML and CSS to paginated PDF, with no browser |
+| 2026-09-29 12:27:49 | [natnet_zenoh](https://crates.io/crates/natnet_zenoh) | 0.0.0-reserved | 0 | natnet_zenoh |
+| 2026-09-29 12:28:22 | [entryd](https://crates.io/crates/entryd) | 0.1.0 | 0 | An entry daemon for the user. |
+| 2026-09-29 12:30:37 | [tg_types](https://crates.io/crates/tg_types) | 0.1.0 | 0 | Telegram destination types (channel / group / forum topic) shared by tg and its… |
+| 2026-09-29 12:30:57 | [gpu-compute-derive](https://crates.io/crates/gpu-compute-derive) | 0.1.0 | 0 | `#[derive(ShaderType)]` for the `gpu-compute` crate in ferrisLM |
+| 2026-09-29 12:31:29 | [wgsl-tmpl](https://crates.io/crates/wgsl-tmpl) | 0.1.0 | 0 | Include, conditional and substitution preprocessing for WGSL shader sources, us… |
+| 2026-09-29 12:32:27 | [gpu-compute](https://crates.io/crates/gpu-compute) | 0.1.0 | 0 | Unified GPU compute abstractions and Vulkan/WebGPU backends |
+| 2026-09-29 12:33:11 | [freya-html](https://crates.io/crates/freya-html) | 0.5.0-rc.8 | 0 | HTML + CSS rendering for Freya using Blitz |
+| 2026-09-29 12:34:13 | [tabnas-parser](https://crates.io/crates/tabnas-parser) | 0.12.6 | 0 | A dynamic JSON parser that isn't strict and can be customized. |
+| 2026-09-29 12:42:02 | [him](https://crates.io/crates/him) | 0.1.0 | 0 | WIP |
+| 2026-09-29 12:42:44 | [algocli-cli](https://crates.io/crates/algocli-cli) | 0.1.0 | 0 | CLI for algorithco guard (algo init\|uninstall\|doctor\|pause\|resume\|status\|why\|lo… |
+| 2026-09-29 12:43:07 | [algocli-verifier](https://crates.io/crates/algocli-verifier) | 0.1.0 | 0 | Verifier on agent.stop (P2-06): tests run? diff matches task? Jev batched, time… |
+| 2026-09-29 12:43:27 | [algocli-loop-controller](https://crates.io/crates/algocli-loop-controller) | 0.1.0 | 0 | Loop controller (P2-07): per-session failure fingerprints, retry/stop/ask |
+| 2026-09-29 12:43:48 | [algocli-scanner](https://crates.io/crates/algocli-scanner) | 0.1.0 | 0 | Scanner (P4): tree-sitter pre-filter + Jev judge, report-only |
+| 2026-09-29 12:46:27 | [relvi](https://crates.io/crates/relvi) | 0.1.0 | 0 | A focused application launcher for Wayland |
+| 2026-09-29 12:53:48 | [algocli-tui](https://crates.io/crates/algocli-tui) | 0.1.0 | 0 | TUI for algorithco guard — live decision feed, stats, policy editor (offline-ca… |
+| 2026-09-29 12:55:33 | [ch32rv-oep](https://crates.io/crates/ch32rv-oep) | 0.11.0 | 0 | OEP v1 (Open Embedded Probe) host for the ch32rv tool suite: wire codec, transp… |
+| 2026-09-29 13:02:35 | [signstar-configure](https://crates.io/crates/signstar-configure) | 0.1.0 | 0 | Runtime configuration tool for Signstar hosts |
 
 ## Data source
 

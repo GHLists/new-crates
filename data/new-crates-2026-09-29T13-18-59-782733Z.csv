@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T12:22:58.105348Z,html_pdf,0.1.2,0,0,https://github.com/rosperitus/html-pdf,"HTML and CSS to paginated PDF, with no browser"
+2026-09-29T12:27:49.52065Z,natnet_zenoh,0.0.0-reserved,0,0,,natnet_zenoh
+2026-09-29T12:28:22.616576Z,entryd,0.1.0,0,0,https://github.com/mustafaelrasheid/entryd,An entry daemon for the user.
+2026-09-29T12:30:37.057791Z,tg_types,0.1.0,0,0,https://github.com/valeratrades/tg,Telegram destination types (channel / group / forum topic) shared by tg and its consumers
+2026-09-29T12:30:57.036008Z,gpu-compute-derive,0.1.0,0,0,https://github.com/ferrisLM-AI/ferrisLM,`#[derive(ShaderType)]` for the `gpu-compute` crate in ferrisLM
+2026-09-29T12:31:29.484883Z,wgsl-tmpl,0.1.0,0,0,https://github.com/ferrisLM-AI/ferrisLM,"Include, conditional and substitution preprocessing for WGSL shader sources, usable from build scripts"
+2026-09-29T12:32:27.684554Z,gpu-compute,0.1.0,0,0,https://github.com/ferrisLM-AI/ferrisLM,Unified GPU compute abstractions and Vulkan/WebGPU backends
+2026-09-29T12:33:11.819786Z,freya-html,0.5.0-rc.8,0,0,https://github.com/marc2332/freya,HTML + CSS rendering for Freya using Blitz
+2026-09-29T12:34:13.728664Z,tabnas-parser,0.12.6,0,0,https://github.com/tabnas/parser,A dynamic JSON parser that isn't strict and can be customized.
+2026-09-29T12:42:02.712068Z,him,0.1.0,0,0,,WIP
+2026-09-29T12:42:44.062436Z,algocli-cli,0.1.0,0,0,https://github.com/algorithco-cli/algo,CLI for algorithco guard (algo init|uninstall|doctor|pause|resume|status|why|log)
+2026-09-29T12:43:07.583857Z,algocli-verifier,0.1.0,0,0,https://github.com/algorithco-cli/algo,"Verifier on agent.stop (P2-06): tests run? diff matches task? Jev batched, timeout->ask"
+2026-09-29T12:43:27.889936Z,algocli-loop-controller,0.1.0,0,0,https://github.com/algorithco-cli/algo,"Loop controller (P2-07): per-session failure fingerprints, retry/stop/ask"
+2026-09-29T12:43:48.701129Z,algocli-scanner,0.1.0,0,0,https://github.com/algorithco-cli/algo,"Scanner (P4): tree-sitter pre-filter + Jev judge, report-only"
+2026-09-29T12:46:27.552062Z,relvi,0.1.0,0,0,https://github.com/so1ve/relvi,A focused application launcher for Wayland
+2026-09-29T12:53:48.314824Z,algocli-tui,0.1.0,0,0,https://github.com/algorithco-cli/algo,"TUI for algorithco guard — live decision feed, stats, policy editor (offline-capable, read-only audit.db)"
+2026-09-29T12:55:33.832499Z,ch32rv-oep,0.11.0,0,0,https://github.com/ch32-riscv-ug/ch32rv,"OEP v1 (Open Embedded Probe) host for the ch32rv tool suite: wire codec, transports, session"
+2026-09-29T13:02:35.306565Z,signstar-configure,0.1.0,0,0,https://gitlab.archlinux.org/archlinux/signstar,Runtime configuration tool for Signstar hosts
