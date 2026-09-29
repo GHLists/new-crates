@@ -8,38 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 23:20 UTC
+## Latest list — 2026-09-29 00:21 UTC
 
-New crates published between 2026-09-28 22:21 UTC and 2026-09-28 23:20 UTC.
+New crates published between 2026-09-28 23:20 UTC and 2026-09-29 00:21 UTC.
 
-[Full CSV](data/new-crates-2026-09-28T23-20-23-738549Z.csv)
+[Full CSV](data/new-crates-2026-09-29T00-21-00-735697Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-28 22:22:44 | [specodelic](https://crates.io/crates/specodelic) | 0.1.0 | 0 | Specodelic — a markdown specification format (Intent / Constraints / Model / Pr… |
-| 2026-09-28 22:28:10 | [etude-bigint](https://crates.io/crates/etude-bigint) | 0.1.0 | 0 | Arbitrary-precision signed integers: a small no_std limb library with a canonic… |
-| 2026-09-28 22:28:12 | [etude-ensure](https://crates.io/crates/etude-ensure) | 0.1.0 | 0 | Small, dependency-free control-flow macros (ensure! / assume!) |
-| 2026-09-28 22:28:15 | [etude-rational](https://crates.io/crates/etude-rational) | 0.1.0 | 0 | Exact rational numbers: a normalized (reduced, positive-denominator) num/den pa… |
-| 2026-09-28 22:28:18 | [etude-decimal](https://crates.io/crates/etude-decimal) | 0.1.0 | 0 | Exact base-10 arbitrary-precision decimal numbers (coeff * 10^exp) over etude-b… |
-| 2026-09-28 22:29:21 | [etude-buffer](https://crates.io/crates/etude-buffer) | 0.1.0 | 0 | Copy-avoiding byte reader/writer buffer traits |
-| 2026-09-28 22:40:41 | [betteroffice-ooxml-diff](https://crates.io/crates/betteroffice-ooxml-diff) | 0.3.0 | 0 | Bounded, dependency-free token LCS diff shared by the OOXML review and comparis… |
-| 2026-09-28 22:40:52 | [etude-bytevec](https://crates.io/crates/etude-bytevec) | 0.1.0 | 0 | A chunked byte buffer backed by a relaxed-radix (RRB) rope: O(log32) offset loo… |
-| 2026-09-28 22:41:04 | [native-ocr](https://crates.io/crates/native-ocr) | 0.1.0 | 0 | Text recognition with the OCR engine built into the operating system: Windows.M… |
-| 2026-09-28 22:41:41 | [clockwerk-core](https://crates.io/crates/clockwerk-core) | 0.5.1 | 0 | Clockwerk software-factory runtime: workflows, agents, gates, permissions, SQLi… |
-| 2026-09-28 22:42:14 | [clockwerk](https://crates.io/crates/clockwerk) | 0.5.1 | 0 | Clockwerk desktop software factory (Iced GUI) with built-in Rust workflow autom… |
-| 2026-09-28 22:42:49 | [clockwerk-web](https://crates.io/crates/clockwerk-web) | 0.5.1 | 0 | Clockwerk — bin: clockwerk-web, Topcoat trace+agent web dashboard over clockwer… |
-| 2026-09-28 22:43:23 | [clockwerk-tui](https://crates.io/crates/clockwerk-tui) | 0.5.1 | 0 | Clockwerk — trace + agent dashboard, terminal app (Ratatui TUI) |
-| 2026-09-28 22:51:02 | [etude-strrope](https://crates.io/crates/etude-strrope) | 0.1.0 | 0 | A UTF-8 string rope: a validated-UTF-8 view over the etude-bytevec byte rope |
-| 2026-09-28 22:58:45 | [etude-span](https://crates.io/crates/etude-span) | 0.1.0 | 0 | Byte-scanning primitives for copy-avoiding tokenizers over the etude byte-rope:… |
-| 2026-09-28 23:01:49 | [enki-apsu](https://crates.io/crates/enki-apsu) | 0.1.0 | 0 | Vulkan GPU memory allocator and device buffer abstractions for Enki |
-| 2026-09-28 23:02:06 | [nomic](https://crates.io/crates/nomic) | 0.1.0 | 0 | Nomic Core 0.1 reference machine: a deterministic executable specification lang… |
-| 2026-09-28 23:02:14 | [nomic-fmt](https://crates.io/crates/nomic-fmt) | 0.1.0 | 0 | Canonical formatter for Nomic models |
-| 2026-09-28 23:02:20 | [nomic-cli](https://crates.io/crates/nomic-cli) | 0.1.0 | 0 | The `nomic` command line: check, run, explore, cite, and format Nomic models |
-| 2026-09-28 23:08:38 | [enki-utu](https://crates.io/crates/enki-utu) | 0.1.0 | 0 | Vulkan abstraction layer, window surface, and swapchain presentation integratio… |
-| 2026-09-28 23:14:33 | [etude-json](https://crates.io/crates/etude-json) | 0.1.0 | 0 | Copy-avoiding JSON over the etude byte-rope: a tokenizer whose tokens reference… |
-| 2026-09-28 23:17:52 | [yamled](https://crates.io/crates/yamled) | 0.0.0 | 0 | Format-preserving YAML edits: change what you meant, keep every other byte |
-| 2026-09-28 23:19:39 | [glypher](https://crates.io/crates/glypher) | 0.0.1 | 0 | A simple text shaping and texture atlas packing crate. |
-| 2026-09-28 23:20:17 | [deser-core](https://crates.io/crates/deser-core) | 0.9.0 | 0 | Core traits and types of deser, use the deser crate instead |
+| 2026-09-28 23:20:23 | [deser-cbor](https://crates.io/crates/deser-cbor) | 0.9.0 | 0 | CBOR support for deser |
+| 2026-09-28 23:20:25 | [deser-encoding](https://crates.io/crates/deser-encoding) | 0.9.0 | 0 | Hex and base32 encodings of bytes for deser |
+| 2026-09-28 23:20:26 | [deser-location](https://crates.io/crates/deser-location) | 0.9.0 | 0 | Source location (line and column) tracking for deser |
+| 2026-09-28 23:20:27 | [deser-msgpack](https://crates.io/crates/deser-msgpack) | 0.9.0 | 0 | MessagePack support for deser |
+| 2026-09-28 23:21:04 | [reddit](https://crates.io/crates/reddit) | 0.1.0 | 0 | Reddit offline viewer: save a subreddit's posts, images and galleries as JSON +… |
+| 2026-09-28 23:22:00 | [etude-str](https://crates.io/crates/etude-str) | 0.1.0 | 0 | A cheaply-clonable, Bytes-backed UTF-8 string |
+| 2026-09-28 23:24:22 | [lsdetect](https://crates.io/crates/lsdetect) | 0.2.0 | 0 | Line segment detector (LSD) in pure Rust, with a fast perspective warp and Pyth… |
+| 2026-09-28 23:26:06 | [oxide-versioned-envelope](https://crates.io/crates/oxide-versioned-envelope) | 0.1.0 | 0 | Versioned JSON envelopes. |
+| 2026-09-28 23:26:18 | [deser-env](https://crates.io/crates/deser-env) | 0.9.0 | 0 | Environment variables for deser |
+| 2026-09-28 23:29:37 | [rillz](https://crates.io/crates/rillz) | 0.1.0 | 0 | Small-frame lossless codec for structured messages (CBOR, JSON, Yjs, markdown):… |
+| 2026-09-28 23:29:41 | [rillz-exec](https://crates.io/crates/rillz-exec) | 0.1.0 | 0 | Native thread-pool block executor for rillz (the rillz core stays no_std and si… |
+| 2026-09-28 23:32:19 | [enki-parsu](https://crates.io/crates/enki-parsu) | 0.1.0 | 0 | Hardware profiling and JIT compilation synthesis engine for Enki |
+| 2026-09-28 23:33:08 | [flight_tape](https://crates.io/crates/flight_tape) | 0.1.3 | 0 | Flight recorder for autonomous systems: bounded hash-chained decision tape, fre… |
+| 2026-09-28 23:35:52 | [enki-anu](https://crates.io/crates/enki-anu) | 0.1.0 | 0 | BorrowEngine, task recording, and pipeline synthesis for the Enki runtime |
+| 2026-09-28 23:36:25 | [deser-jsonc](https://crates.io/crates/deser-jsonc) | 0.9.0 | 0 | JSONC (JSON with comments) support for deser |
+| 2026-09-28 23:40:18 | [enki_macros](https://crates.io/crates/enki_macros) | 0.1.0 | 0 | Procedural macros for Enki GPU kernel |
+| 2026-09-28 23:40:50 | [yas-runtime-dir](https://crates.io/crates/yas-runtime-dir) | 0.4.0 | 0 | Owner-only runtime directory selection shared by yas's IPC socket and compositor |
+| 2026-09-28 23:41:14 | [yas-guest](https://crates.io/crates/yas-guest) | 0.4.0 | 0 | Guest SDK for YAS Wasmi extensions |
+| 2026-09-28 23:41:19 | [yas-git](https://crates.io/crates/yas-git) | 0.4.0 | 0 | Git introspection engine: repo state streaming, object reads, diffs and patches |
+| 2026-09-28 23:41:23 | [yas-lsp](https://crates.io/crates/yas-lsp) | 0.4.0 | 0 | Language intelligence engine: warm shared language servers projected into yas r… |
+| 2026-09-28 23:41:27 | [yas-composite-transport](https://crates.io/crates/yas-composite-transport) | 0.4.0 | 0 | Bounded local pairing for YAS reliable streams and optional datagrams |
+| 2026-09-28 23:46:11 | [openid4vci-attestation](https://crates.io/crates/openid4vci-attestation) | 0.1.1 | 0 | Key attestation and wallet attestation models for OpenID4VCI. |
+| 2026-09-28 23:46:18 | [charis-ui](https://crates.io/crates/charis-ui) | 0.1.0 | 0 | A desktop UI framework for Rust that looks like a modern web app: CSS-like styl… |
+| 2026-09-28 23:46:24 | [deser-plist](https://crates.io/crates/deser-plist) | 0.9.0 | 0 | Property list (plist) support for deser |
+| 2026-09-28 23:46:26 | [openid4vci-profiles](https://crates.io/crates/openid4vci-profiles) | 0.1.1 | 0 | OpenID4VCI profile constants and policy surfaces. |
+| 2026-09-28 23:46:47 | [openid4vci-issuer](https://crates.io/crates/openid4vci-issuer) | 0.1.1 | 0 | Transport-agnostic OpenID4VCI issuer endpoint engine. |
+| 2026-09-28 23:47:10 | [openid4vci-proto-codec](https://crates.io/crates/openid4vci-proto-codec) | 0.1.1 | 0 | Bounded protobuf codecs and typed OpenID4VCI domain conversions. |
+| 2026-09-28 23:47:25 | [openid4vci-http](https://crates.io/crates/openid4vci-http) | 0.1.1 | 0 | Feature-gated HTTP adapter boundary for OpenID4VCI. |
+| 2026-09-28 23:49:46 | [cargo-enki](https://crates.io/crates/cargo-enki) | 0.1.0 | 0 | CLI toolchain and runner for the Enki heterogeneous GPU compute platform |
+| 2026-09-28 23:50:43 | [yas-terminal-driver](https://crates.io/crates/yas-terminal-driver) | 0.4.0 | 0 | YAS driver for the vendored Alacritty terminal engine |
+| 2026-09-28 23:53:25 | [reallyme-openid4vci](https://crates.io/crates/reallyme-openid4vci) | 0.1.1 | 0 | ReallyMe OpenID4VCI protocol facade. |
+| 2026-09-28 23:56:25 | [deser-serde](https://crates.io/crates/deser-serde) | 0.9.0 | 0 | Adapters to use serde types with deser |
+| 2026-09-29 00:03:03 | [yas-webrtc-forwarder](https://crates.io/crates/yas-webrtc-forwarder) | 0.4.0 | 0 | Forward a yas server terminal over WebRTC |
+| 2026-09-29 00:03:04 | [reallyme-openid4vp-profiles](https://crates.io/crates/reallyme-openid4vp-profiles) | 0.1.1 | 0 | OpenID4VP presentation profiles. |
+| 2026-09-29 00:06:27 | [deser-tokio](https://crates.io/crates/deser-tokio) | 0.9.0 | 0 | Read and write deser values with tokio |
+| 2026-09-29 00:08:41 | [egui_richedit](https://crates.io/crates/egui_richedit) | 0.4.1 | 0 | Rich-text editing for egui over paragraphs the application lays out itself: car… |
+| 2026-09-29 00:16:30 | [deser-toml](https://crates.io/crates/deser-toml) | 0.9.0 | 0 | TOML support for deser |
+| 2026-09-29 00:17:02 | [reallyme-openid4vp-verifier](https://crates.io/crates/reallyme-openid4vp-verifier) | 0.1.1 | 0 | OpenID4VP verifier request and response validation boundary. |
 
 ## Data source
 
