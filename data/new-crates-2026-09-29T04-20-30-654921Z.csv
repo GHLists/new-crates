@@ -1,0 +1,11 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T03:24:19.41615Z,arsort,0.1.0,0,0,https://github.com/rhetro/arsort,"A zero-runtime-allocation, arithmetic routing-based sorting micro-engine optimized for L1/L2 cache-bound datasets."
+2026-09-29T03:24:54.108548Z,mvparser,0.1.0,0,0,https://github.com/marthvon/mvparser,"Incremental, mode-stack parser and interpreter for structured and semi-structured text"
+2026-09-29T03:35:13.721717Z,aerospace-responsive,0.1.0,0,0,https://github.com/noomz/aerospace-responsive,Reshape AeroSpace workspace placement and layout when displays change
+2026-09-29T03:35:25.435765Z,aescry,1.0.0,0,0,https://github.com/danielpclark/aescry,"AES encryption and decryption, including the AES Crypt file format."
+2026-09-29T03:39:05.411812Z,pmgr-rs,0.1.1,0,0,https://gitlab.com/spearman/pmgr-rs,TUI project manager
+2026-09-29T03:39:40.971839Z,axum-webtools-clickhouse-migrate,0.1.62,0,0,https://github.com/jonatansalemes/axum-webtools.git,"General purpose migrate sql for ClickHouse, part of axum-webtools."
+2026-09-29T03:46:00.19332Z,axioval-ids,0.3.0,0,0,https://github.com/axioval/engine,Axioval rule packages from buildingSMART IDS documents
+2026-09-29T03:57:31.208992Z,zakura-bento-core,0.1.0,0,0,https://github.com/zakura-core/common,Implementation crate behind the bento facade; depend on `bento` instead
+2026-09-29T03:57:32.734143Z,zakura-bento-macros,0.1.0,0,0,https://github.com/zakura-core/common,Procedural macro implementations for bento: addition chains and POD derivation
+2026-09-29T04:10:51.261177Z,cocycle,0.1.0,0,0,https://github.com/Aequiludium/cocycle-rs,Topological data analysis in pure Rust

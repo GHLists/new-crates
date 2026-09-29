@@ -8,23 +8,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 03:21 UTC
+## Latest list — 2026-09-29 04:20 UTC
 
-New crates published between 2026-09-29 02:20 UTC and 2026-09-29 03:21 UTC.
+New crates published between 2026-09-29 03:21 UTC and 2026-09-29 04:20 UTC.
 
-[Full CSV](data/new-crates-2026-09-29T03-21-03-001934Z.csv)
+[Full CSV](data/new-crates-2026-09-29T04-20-30-654921Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-29 02:28:22 | [anymd-adobe-cmap-parser](https://crates.io/crates/anymd-adobe-cmap-parser) | 0.4.1 | 0 | Fork of adobe-cmap-parser 0.4.1 for anymd: malformed CMaps no longer panic the… |
-| 2026-09-29 02:28:36 | [anymd-pdf-extract](https://crates.io/crates/anymd-pdf-extract) | 0.12.1 | 0 | Fork of pdf-extract 0.12.1 for anymd: figure text stays where it is drawn, tabl… |
-| 2026-09-29 02:28:41 | [anymd-pdf](https://crates.io/crates/anymd-pdf) | 8.1.0 | 0 | anymd PDF layout engine: glyph geometry to clean Markdown (words, columns, head… |
-| 2026-09-29 02:29:07 | [anymd-formats](https://crates.io/crates/anymd-formats) | 8.1.0 | 0 | Non-PDF format converters for anymd: DOCX, PPTX, XLSX, CSV, EPUB, HTML, images,… |
-| 2026-09-29 02:29:48 | [anymd-core](https://crates.io/crates/anymd-core) | 8.1.0 | 0 | Pure-Rust document intelligence core for anymd (read, search, document twin) |
-| 2026-09-29 02:31:08 | [ulua-capi](https://crates.io/crates/ulua-capi) | 0.1.3 | 0 | The Luau VM C ABI symbol export shell (Rust). |
-| 2026-09-29 02:57:18 | [anyangle](https://crates.io/crates/anyangle) | 0.1.0 | 0 | Any-angle pathfinding algorithms. |
-| 2026-09-29 03:04:25 | [anymd](https://crates.io/crates/anymd) | 8.1.0 | 0 | anymd: any file to clean Markdown for AI agents. Pure-Rust MCP server + CLI bin… |
-| 2026-09-29 03:05:34 | [dogwood-local-engine](https://crates.io/crates/dogwood-local-engine) | 1.0.0 | 0 | An evaluation engine for Dogwood's temporal policies. |
+| 2026-09-29 03:24:19 | [arsort](https://crates.io/crates/arsort) | 0.1.0 | 0 | A zero-runtime-allocation, arithmetic routing-based sorting micro-engine optimi… |
+| 2026-09-29 03:24:54 | [mvparser](https://crates.io/crates/mvparser) | 0.1.0 | 0 | Incremental, mode-stack parser and interpreter for structured and semi-structur… |
+| 2026-09-29 03:35:13 | [aerospace-responsive](https://crates.io/crates/aerospace-responsive) | 0.1.0 | 0 | Reshape AeroSpace workspace placement and layout when displays change |
+| 2026-09-29 03:35:25 | [aescry](https://crates.io/crates/aescry) | 1.0.0 | 0 | AES encryption and decryption, including the AES Crypt file format. |
+| 2026-09-29 03:39:05 | [pmgr-rs](https://crates.io/crates/pmgr-rs) | 0.1.1 | 0 | TUI project manager |
+| 2026-09-29 03:39:40 | [axum-webtools-clickhouse-migrate](https://crates.io/crates/axum-webtools-clickhouse-migrate) | 0.1.62 | 0 | General purpose migrate sql for ClickHouse, part of axum-webtools. |
+| 2026-09-29 03:46:00 | [axioval-ids](https://crates.io/crates/axioval-ids) | 0.3.0 | 0 | Axioval rule packages from buildingSMART IDS documents |
+| 2026-09-29 03:57:31 | [zakura-bento-core](https://crates.io/crates/zakura-bento-core) | 0.1.0 | 0 | Implementation crate behind the bento facade; depend on `bento` instead |
+| 2026-09-29 03:57:32 | [zakura-bento-macros](https://crates.io/crates/zakura-bento-macros) | 0.1.0 | 0 | Procedural macro implementations for bento: addition chains and POD derivation |
+| 2026-09-29 04:10:51 | [cocycle](https://crates.io/crates/cocycle) | 0.1.0 | 0 | Topological data analysis in pure Rust |
 
 ## Data source
 
