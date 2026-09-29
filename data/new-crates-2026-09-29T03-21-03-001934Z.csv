@@ -1,0 +1,10 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T02:28:22.252389Z,anymd-adobe-cmap-parser,0.4.1,0,0,https://github.com/SylphxAI/anymd,Fork of adobe-cmap-parser 0.4.1 for anymd: malformed CMaps no longer panic the host
+2026-09-29T02:28:36.709079Z,anymd-pdf-extract,0.12.1,0,0,https://github.com/SylphxAI/anymd,"Fork of pdf-extract 0.12.1 for anymd: figure text stays where it is drawn, table rules reach the output"
+2026-09-29T02:28:41.456361Z,anymd-pdf,8.1.0,0,0,https://github.com/SylphxAI/anymd,"anymd PDF layout engine: glyph geometry to clean Markdown (words, columns, headings, tables)"
+2026-09-29T02:29:07.321621Z,anymd-formats,8.1.0,0,0,https://github.com/SylphxAI/anymd,"Non-PDF format converters for anymd: DOCX, PPTX, XLSX, CSV, EPUB, HTML, images, and video to Markdown"
+2026-09-29T02:29:48.626275Z,anymd-core,8.1.0,0,0,https://github.com/SylphxAI/anymd,"Pure-Rust document intelligence core for anymd (read, search, document twin)"
+2026-09-29T02:31:08.706127Z,ulua-capi,0.1.3,0,0,https://github.com/webc-site/ulua,The Luau VM C ABI symbol export shell (Rust).
+2026-09-29T02:57:18.9354Z,anyangle,0.1.0,0,0,https://github.com/mikwielgus/anyangle,Any-angle pathfinding algorithms.
+2026-09-29T03:04:25.412894Z,anymd,8.1.0,0,0,https://github.com/SylphxAI/anymd,anymd: any file to clean Markdown for AI agents. Pure-Rust MCP server + CLI binary for @sylphx/anymd
+2026-09-29T03:05:34.382125Z,dogwood-local-engine,1.0.0,0,0,https://github.com/dogwood-policy/dogwood-local-engine,An evaluation engine for Dogwood's temporal policies.
