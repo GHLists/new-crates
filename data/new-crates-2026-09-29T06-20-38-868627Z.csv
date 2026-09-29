@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T05:19:41.563022Z,tbtui,0.1.0,0,0,https://github.com/paolo-moldovan/tbtui,"TensorBoard scalars in your terminal: live, interactive loss curves, local or over ssh"
+2026-09-29T05:20:11.23178Z,turbo-axum,0.3.0,0,0,https://github.com/sajuthankappan/turbo-axum-rs,Hotwire Turbo helpers for axum
+2026-09-29T05:20:19.566772Z,mmx,0.1.0,0,0,https://github.com/Eastsidegunn/mmx,Conversational diagram protocol: humans and agents talk through mermaid diffs
+2026-09-29T05:23:41.836812Z,schematic-wgpu-litematic,0.1.0,0,0,https://github.com/MCRTD/schematic-wgpu,Parser for Litematica .litematic schematic files
+2026-09-29T05:23:42.231368Z,schematic-wgpu-mc-assets,0.1.0,0,0,https://github.com/MCRTD/schematic-wgpu,"Minecraft resource pack loading: blockstates, block models and textures"
+2026-09-29T05:23:45.368422Z,schematic-wgpu-mesher,0.1.0,0,0,https://github.com/MCRTD/schematic-wgpu,Build textured meshes from Litematica schematics
+2026-09-29T05:23:47.949262Z,schematic-wgpu-viewer,0.1.0,0,0,https://github.com/MCRTD/schematic-wgpu,wgpu renderer and interactive viewer for schematic meshes
+2026-09-29T05:23:49.979405Z,schematic-wgpu-export,0.1.0,0,0,https://github.com/MCRTD/schematic-wgpu,Write meshes as glTF/GLB and OBJ
+2026-09-29T05:40:38.336079Z,pixel-change-check-client,0.1.0,0,0,https://github.com/carterlasalle/pixelchangecheck,"Replicates your screen exactly and sends only the pixels that changed, over QUIC or a relay, to a native or browser viewer."
+2026-09-29T05:41:34.81238Z,anylm-schema,0.1.0,0,0,https://github.com/fuderis/anylm-rs/blob/main/crates/schema,The IntoSchema implementation for anylm crate
+2026-09-29T05:41:46.082049Z,aliyun-log-producer,0.1.0,0,0,https://github.com/aliyun/aliyun-log-rust-sdk,Thread-safe asynchronous batching producer for Alibaba Cloud Simple Log Service
+2026-09-29T05:42:45.433855Z,runa-cli,0.3.0,0,0,https://github.com/manish-raana/runa,"A tiny, fast process supervisor: run, restart and monitor any command, with logs and port detection"
+2026-09-29T05:52:41.090746Z,enki-gpu,0.1.0,0,0,https://github.com/enkiruntime/enki,Pure Rust heterogeneous GPU compute platform with JIT compilation
+2026-09-29T06:08:21.334711Z,auv-driver,0.0.22,0,0,https://github.com/moeru-ai/auv,Application Use Via... script-able OS automation library
+2026-09-29T06:08:25.051479Z,orbit-client-pool,0.5.1,0,0,https://github.com/iadev09/orbitive,Protocol-neutral local and fleet-wide outbound client pools for Orbit process fleets.
+2026-09-29T06:08:32.349269Z,auv-core,0.0.22,0,0,https://github.com/moeru-ai/auv,Domain-facing local and remote operation interface for AUV
+2026-09-29T06:08:42.345098Z,auv-scan,0.0.22,0,0,https://github.com/moeru-ai/auv,Scroll scanning interaction implementation for AUV
+2026-09-29T06:08:52.72887Z,auv-api-server,0.0.22,0,0,https://github.com/moeru-ai/auv,Protocol adapters for AUV daemon control and capability APIs
+2026-09-29T06:09:04.104791Z,auv-cli-invoke,0.0.22,0,0,https://github.com/moeru-ai/auv,Application Use Via... script-able OS automation library
+2026-09-29T06:14:29.097587Z,auv-daemon,0.0.22,0,0,https://github.com/moeru-ai/auv,Server-side SDK for hosting an AUV daemon
+2026-09-29T06:15:11.614241Z,dacc,0.2.0,0,0,https://github.com/anishukserg/dacc,DACC: фасадный крейт — единая точка входа к методологии
+2026-09-29T06:16:28.921524Z,softcut-fx,0.1.0,0,0,https://github.com/shakfu/softcut-rs,"Built-in effects for softcut: saturation, bitcrusher, chorus, delay and reverb, as a realtime-safe chain"
+2026-09-29T06:16:30.101494Z,softcut-rs,0.1.0,0,0,https://github.com/shakfu/softcut-rs,"Rust port of monome softcut: crossfaded, resampling record/play heads over audio buffers"
+2026-09-29T06:16:32.752209Z,softcut-osc,0.1.0,0,0,https://github.com/shakfu/softcut-rs,"OSC control for the softcut crate, over softcut-lib's softcut_jack_osc protocol"
+2026-09-29T06:16:39.603074Z,nix-rs-eval-builtin-macros,0.0.1,0,0,https://github.com/SINGH-RAJVEER/nix-rs,"Procedural macros for defining nix-rs-eval builtins, derived from snix-eval-builtin-macros"
+2026-09-29T06:16:44.340545Z,nix-rs-eval,0.1.0,0,0,https://github.com/SINGH-RAJVEER/nix-rs,"Nix language parser, compiler and bytecode evaluator for nix-rs, derived from snix-eval"
+2026-09-29T06:16:50.076548Z,nix-rs-cli,0.1.0,0,0,https://github.com/SINGH-RAJVEER/nix-rs,Preview command-line entry point for the nix-rs package manager
+2026-09-29T06:18:49.771213Z,cellule-types,0.1.0,0,0,https://github.com/crabbuild/cellule,Dependency-light identities shared by Cellule storage layers
+2026-09-29T06:19:03.154747Z,credo-data-purge,0.1.0,0,0,,Askar wallet pruning for the SSI platform (Rust port of the credo-data-purge Node scripts)
+2026-09-29T06:19:26.897158Z,cellule-store,0.1.0,0,0,https://github.com/crabbuild/cellule,Provider-neutral object-store transport for Cellule.
+2026-09-29T06:19:49.071723Z,geom2,0.1.0,0,0,https://github.com/agerasev/geom2,2D geometry primitives and utilities
+2026-09-29T06:19:51.006139Z,cellule-ltx,0.1.0,0,0,https://github.com/crabbuild/cellule,"SQLite LTX capture, object-store replication, and verified recovery for Cellule"
+2026-09-29T06:20:22.714743Z,cellule-runtime,0.1.0,0,0,https://github.com/crabbuild/cellule,Embedded SQLite Cell runtime contracts for Cellule
