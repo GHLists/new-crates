@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T11:18:58.681523Z,egui-shader-layers,0.2.0,0,0,https://github.com/Vasyanator/egui-shader-layers,"WGSL shader layers for egui: filters, stateful simulations, textures and masks over everything painted beneath a shape, on egui_glow and egui-wgpu, plus offline image and video."
+2026-09-29T11:22:36.391827Z,lunsaran-taytay,0.1.0,0,0,https://github.com/kanutocd/taytay,Durable Linux edge bridge for resumable Lunsaran uploads
+2026-09-29T11:25:08.292367Z,bannerbobomb-parser,0.1.0,0,0,https://github.com/chyyran/bannerbobomb,"Bounds-checked parsers for Wii BRLAN, BRFNT, BRLYT, and TPL banner formats"
+2026-09-29T11:30:57.965854Z,latticefoundry,0.0.0,0,0,https://github.com/KarpelesLab/latticefoundry,A clean-room compiler construction framework in pure Rust
+2026-09-29T11:37:08.080306Z,terrafabric,0.1.0,0,0,https://github.com/nervosys/TerraFabricCLI,"tfab: agent-first command line for TerraFabric (Earth observation discovery, pricing, orders, C2 tasking and OSINT), with a self-describing ontology and an MCP server"
+2026-09-29T11:42:19.269725Z,cgfx-parser,0.1.0,0,0,,"Format-faithful, nom-based parsers for Nintendo 3DS CGFX and BCH files"
+2026-09-29T11:42:37.090724Z,cgfx-renderer,0.1.0,0,0,,"Renderer-neutral models, textures, materials, and animations loaded from CGFX/BCH"
+2026-09-29T11:42:50.13385Z,cgfx-gltf,0.1.0,0,0,,GLB exporter for renderer-neutral CGFX/BCH scenes
+2026-09-29T11:43:24.792212Z,cgfx-wgpu,0.1.0,0,0,,wgpu renderer for cgfx-renderer scenes
+2026-09-29T11:43:35.815983Z,cgfx,0.1.0,0,0,,"Nintendo 3DS CGFX/BCH parsing, asset loading, and wgpu rendering"
+2026-09-29T11:51:26.882779Z,luggage-env,0.1.1,0,0,https://github.com/elmar-roeser/luggage,"Per-project Nix dev environments (flake + direnv) for PHP and Node, detected from composer.json/package.json"
+2026-09-29T11:53:22.921087Z,keylaut,0.1.0,0,0,https://github.com/builtbyjonas/keylaut,"A tiny, native keyboard utility that makes German characters effortless on English keyboard layouts."
+2026-09-29T12:00:55.22234Z,molgfx-scene,0.3.2,0,0,https://github.com/miguelcsx/molgfx,"Scene state: declarative specs, patches, transactions and the renderer front."
+2026-09-29T12:03:16.551591Z,typ-lsp,0.3.1,0,0,https://github.com/Pranjal-SB/type,Language Server Protocol client for the TYPE terminal IDE
+2026-09-29T12:07:06.380007Z,corona-freedesktop-icons,0.1.0,0,0,https://github.com/pop-os/freedesktop-icons,A Freedesktop Icons lookup crate
+2026-09-29T12:07:27.792631Z,arkitekt-mesh,0.1.0,0,0,https://github.com/arkitektio/arkirust,"A Tailscale-compatible mesh client: ts2021 control, DERP, disco and WireGuard, in Rust"
+2026-09-29T12:08:33.253151Z,flick_input,0.1.0,0,0,https://github.com/ffunatsu/flick_input,smartphone as a wireless keyboard for PC
+2026-09-29T12:10:02.575694Z,signstar-download-key-certificates,0.1.0,0,0,https://gitlab.archlinux.org/archlinux/signstar,Signstar certificate retrieval
+2026-09-29T12:13:19.256537Z,hardstack,0.0.1,0,0,https://github.com/hardstackhq/hardstack,HardStack CLI (coming soon)
+2026-09-29T12:14:46.657511Z,cpd-semantic,0.1.0,0,0,https://github.com/kucherenko/jscpd,Semantic (Type-4) clones for cpd: functions compared by code embeddings
+2026-09-29T12:15:43.885633Z,csonpath,0.19.0,0,0,https://github.com/Outscale/csonpath,Partial JSONPath implementation in C with Rust bindings
