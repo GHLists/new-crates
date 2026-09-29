@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T22:23:01.667479Z,easygocryptfs,0.1.0,0,0,https://gitlab.com/safteinzz/easygocryptfs,gocryptfs without the flags - lock and unlock encrypted folders from wherever you stand
+2026-09-29T22:25:17.648854Z,tabnas-proto,0.6.2,0,0,https://github.com/tabnas/proto,"Parse Protocol Buffers .proto IDL (proto2, proto3, edition 2023/2024) into FileDescriptorProto-shaped values, using the tabnas engine and an ABNF grammar"
+2026-09-29T22:25:46.211394Z,ckb-idl-cli,0.1.0,0,0,https://github.com/ckb-idl/ckb-idl-cli,Exact-byte CKB IDL binding and verification command-line tool
+2026-09-29T22:29:04.754925Z,text_magic_robbyg,0.1.0,0,0,,A simple library for basic string functionality
+2026-09-29T22:30:14.105343Z,tauri-plugin-google-app-functions-build,0.1.0,0,0,https://github.com/NikolaKaplin/tauri-plugin-google-app-functions,build.rs helper that generates the Android AppFunctions schema for tauri-plugin-google-app-functions
+2026-09-29T22:30:14.609889Z,tauri-plugin-google-app-functions-macros,0.1.0,0,0,https://github.com/NikolaKaplin/tauri-plugin-google-app-functions,Procedural macros for tauri-plugin-google-app-functions
+2026-09-29T22:30:15.62604Z,tauri-plugin-google-app-functions,0.1.0,0,0,https://github.com/NikolaKaplin/tauri-plugin-google-app-functions,Expose Rust functions of a Tauri app as Android AppFunctions
+2026-09-29T22:31:37.625881Z,mzizi-fundi,0.1.0,0,0,https://github.com/mzizi-dev/mzizi-registry,"Mzizi N9 fundi — the self-healing rung, client side: deciding what is worth filing, shaping the issue, and learning which fixes worked."
+2026-09-29T22:32:27.96216Z,multitouch,0.1.0,0,0,,"Raw macOS multitouch, gesture recognition, device monitoring, and Force Touch haptics"
+2026-09-29T22:32:39.248089Z,radixip-config,0.1.0,0,0,https://github.com/Mwangi-Derrick/radixip,Configuration types and hot-reload loader for RadixIP middleware
+2026-09-29T22:32:41.961657Z,rustkb-core,0.1.0,0,0,https://github.com/JSBtechnologies/rustkb,"Internal data model for rustkb (docs, frontmatter, crate catalog, paths). No stability guarantees; use the `rustkb` binary."
+2026-09-29T22:32:43.692965Z,rustkb-index,0.1.0,0,0,https://github.com/JSBtechnologies/rustkb,Internal hybrid search index for rustkb (tantivy BM25 + optional model2vec embeddings). No stability guarantees; use the `rustkb` binary.
+2026-09-29T22:32:44.01415Z,rustkb-ingest,0.1.0,0,0,https://github.com/JSBtechnologies/rustkb,"Internal ingesters for rustkb (docs.rs rustdoc JSON, clippy lints, OSV advisories, release notes, crates.io). No stability guarantees; use the `rustkb` binary."
+2026-09-29T22:32:44.781528Z,rustkb,0.1.0,0,0,https://github.com/JSBtechnologies/rustkb,"Versioned Rust knowledge base for AI coding agents: an MCP server and CLI with curated best-practice guidance, docs.rs API docs, clippy lints, RustSec advisories and drift detection."
+2026-09-29T22:37:49.844601Z,xpop,0.1.0,0,0,https://gitlab.com/hkoosha/xpop,An X11 pull-down application host
+2026-09-29T22:42:41.281313Z,mzizi-docs,0.1.0,0,0,https://github.com/mzizi-dev/mzizi-registry,"Mzizi N10 documentation — the self-describing rung: AI context, docs API and routing, changelog and portal rendering for Dioxus."
+2026-09-29T22:43:40.537565Z,yatera,0.1.0,0,0,https://github.com/kossnocorp/yatera,Yet another Tera CLI
+2026-09-29T22:45:24.911757Z,tabnas-semver,0.0.5,0,0,https://github.com/tabnas/semver,"Semantic Versioning 2.0.0 (semver.org) parsing for the tabnas engine, compiled from an ABNF grammar"
+2026-09-29T22:53:44.5691Z,mzizi-discovery,0.1.0,0,0,https://github.com/mzizi-dev/mzizi-registry,Mzizi N11 discovery — the machine-visibility rung: page metadata and Schema.org JSON-LD.
+2026-09-29T23:02:23.853106Z,wc3-derive,0.1.0,0,0,https://github.com/jonathanvdc/wc3,Binary MDX and streaming MDL codec derives for wc3
+2026-09-29T23:02:41.017071Z,wc3,0.1.0,0,0,https://github.com/jonathanvdc/wc3,"Read, edit, and write Warcraft III MDX/MDL models and BLP textures"
+2026-09-29T23:04:49.819267Z,mzizi-roots,0.1.0,0,0,https://github.com/mzizi-dev/mzizi-registry,"Mzizi Roots, the UI side: one dependency for Mzizi's Dioxus components and design tokens (mzizi-tokens, mzizi-ui, mzizi-brand, mzizi-shell), each behind a feature."
+2026-09-29T23:05:54.062195Z,tabnas-multisource,0.5.9,0,0,https://github.com/tabnas/multisource,"Load partial values from multiple external sources into one parse result, as a plugin for the tabnas parsing engine"
+2026-09-29T23:06:00.386964Z,emblema,0.0.0,0,0,https://github.com/jwinarske/impeller-rs,Reserved name for a pure-Rust 2D renderer for constrained devices. Not yet released.
+2026-09-29T23:07:22.213218Z,three-rs-controls,0.1.0,0,0,https://github.com/oneilltomhq/three-rs,"A map camera over a ground with curvature, for three-rs: MapControls in the spirit of three.js' addon, damped the way camera-controls damps."
+2026-09-29T23:07:38.25077Z,bitwarden-commercial-marker,4.0.0,0,0,https://github.com/bitwarden/sdk-internal,"Internal marker crate used to detect, at compile time, whether any Bitwarden commercial (licensed) crate is present in a build. Do not use."
+2026-09-29T23:07:51.424558Z,bitwarden-logging-macro,4.0.0,0,0,https://github.com/bitwarden/sdk-internal,Internal crate for the bitwarden crate. Do not use.
+2026-09-29T23:08:15.418823Z,bitwarden-logging,4.0.0,0,0,https://github.com/bitwarden/sdk-internal,Flight Recorder infrastructure for capturing and exporting diagnostic logs. Internal crate for the bitwarden crate. Do not use.
+2026-09-29T23:08:59.513903Z,pinocchio-transfer-hook-interface,0.0.0,0,0,https://github.com/anza-xyz/pinocchio,Pinocchio helpers to invoke Token-2022 transfer hook program instructions
+2026-09-29T23:15:54.596515Z,mzizi-roots-server,0.1.0,0,0,https://github.com/mzizi-dev/mzizi-registry,"Mzizi Roots, the server side: one dependency for Mzizi's host-agnostic server components (mzizi-assurance, mzizi-fundi, mzizi-docs, mzizi-discovery), each behind a feature."
+2026-09-29T23:19:00.735874Z,niri-display-manager,0.1.0,0,0,,Terminal-first Niri display manager (TUI and CLI)
