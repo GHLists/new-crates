@@ -8,32 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 17:19 UTC
+## Latest list — 2026-09-29 18:21 UTC
 
-New crates published between 2026-09-29 16:18 UTC and 2026-09-29 17:19 UTC.
+New crates published between 2026-09-29 17:19 UTC and 2026-09-29 18:21 UTC.
 
-[Full CSV](data/new-crates-2026-09-29T17-19-50-248049Z.csv)
+[Full CSV](data/new-crates-2026-09-29T18-21-45-024237Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-29 16:22:06 | [tabnas-markdown](https://crates.io/crates/tabnas-markdown) | 0.7.6 | 0 | A CommonMark 0.31.2 parser with GFM extensions for the tabnas parsing engine, i… |
-| 2026-09-29 16:26:23 | [baulu](https://crates.io/crates/baulu) | 0.1.0 | 0 | A compiler for the programming language Baulu. |
-| 2026-09-29 16:32:06 | [overture-stac](https://crates.io/crates/overture-stac) | 0.0.0-reserved | 0 | Overture Maps STAC catalog generator |
-| 2026-09-29 16:32:54 | [kingfisher-core](https://crates.io/crates/kingfisher-core) | 1.0.0 | 0 | Core types and traits for Kingfisher secret scanner |
-| 2026-09-29 16:33:02 | [kingfisher-rules](https://crates.io/crates/kingfisher-rules) | 1.0.0 | 0 | Rule definitions and database for Kingfisher secret scanner |
-| 2026-09-29 16:33:09 | [kingfisher-scanner](https://crates.io/crates/kingfisher-scanner) | 1.0.0 | 0 | High-level scanning API for Kingfisher secret scanner |
-| 2026-09-29 16:33:51 | [kingfisher-bin](https://crates.io/crates/kingfisher-bin) | 2.8.0 | 0 | MongoDB's blazingly fast and accurate secret scanning and validation tool |
-| 2026-09-29 16:43:59 | [raster-diff](https://crates.io/crates/raster-diff) | 0.1.0 | 0 | Dependency-free binary raster comparison and PNG diagnostics |
-| 2026-09-29 16:44:33 | [zpl](https://crates.io/crates/zpl) | 0.1.0 | 0 | A high accuracy ZPL renderer |
-| 2026-09-29 16:58:46 | [rollcall](https://crates.io/crates/rollcall) | 0.0.1 | 0 | Reserves the rollcall crate name. The CLI is published as rollcall-cli (binary:… |
-| 2026-09-29 16:58:46 | [rollcall-assay](https://crates.io/crates/rollcall-assay) | 0.0.1 | 0 | Cryptographic inventory (CycloneDX CBOM) for rollcall (placeholder 0.0.1) |
-| 2026-09-29 16:58:46 | [rollcall-core](https://crates.io/crates/rollcall-core) | 0.0.1 | 0 | Component-graph model and ingestion for rollcall (placeholder 0.0.1) |
-| 2026-09-29 16:58:47 | [rollcall-cli](https://crates.io/crates/rollcall-cli) | 0.0.1 | 0 | rollcall: CRA-grade CycloneDX SBOMs from firmware build metadata |
-| 2026-09-29 17:06:30 | [libmaxminddb-rs-derive](https://crates.io/crates/libmaxminddb-rs-derive) | 0.1.0 | 0 | Derive macros for libmaxminddb-rs |
-| 2026-09-29 17:06:40 | [libmaxminddb-rs](https://crates.io/crates/libmaxminddb-rs) | 0.1.0 | 0 | Pure Rust MaxMind DB (MMDB) reader and writer with zero-copy borrowed decoding |
-| 2026-09-29 17:10:16 | [sootmark-registry](https://crates.io/crates/sootmark-registry) | 0.2.0 | 0 | Windows registry hive (regf) parser: keys, values, big data, subkey indexes; Sh… |
-| 2026-09-29 17:12:42 | [tabnas-jsonic](https://crates.io/crates/tabnas-jsonic) | 0.7.2 | 0 | The jsonic relaxed-JSON grammar plugin for the tabnas parsing engine |
-| 2026-09-29 17:17:00 | [ring_types](https://crates.io/crates/ring_types) | 0.1.0 | 0 | Shared ids, errors, and policy enums for the ring family — no ring logic |
+| 2026-09-29 17:20:08 | [lungo-driver](https://crates.io/crates/lungo-driver) | 1.78.3254 | 0 | The language-neutral lungo pipeline: builds a Lake project and analyses its com… |
+| 2026-09-29 17:20:13 | [lungo-cli](https://crates.io/crates/lungo-cli) | 1.78.3254 | 0 | The lungo command: generate C, Go, Python, Swift, TypeScript and Rust from Lean… |
+| 2026-09-29 17:23:00 | [llama-harness-core](https://crates.io/crates/llama-harness-core) | 0.2.0 | 0 | Embedded, provider-neutral agent runtime for llama-harness |
+| 2026-09-29 17:24:55 | [heyfoz](https://crates.io/crates/heyfoz) | 0.0.1 | 0 | Foz: a body for the agent you already use. Name reserved; first release coming… |
+| 2026-09-29 17:24:57 | [foz](https://crates.io/crates/foz) | 0.0.1 | 0 | Foz: a body for the agent you already use. Name reserved; first release coming… |
+| 2026-09-29 17:24:59 | [fozling](https://crates.io/crates/fozling) | 0.0.1 | 0 | Foz: a body for the agent you already use. Name reserved; first release coming… |
+| 2026-09-29 17:27:28 | [ring_seqno](https://crates.io/crates/ring_seqno) | 0.1.0 | 0 | Sequence numbers and their comparison across laps |
+| 2026-09-29 17:27:46 | [ring_index](https://crates.io/crates/ring_index) | 0.1.0 | 0 | Sequence-to-slot index mapping for power-of-two capacities |
+| 2026-09-29 17:28:04 | [ring_align](https://crates.io/crates/ring_align) | 0.1.0 | 0 | Cache-line padding constants and alignment wrappers |
+| 2026-09-29 17:28:24 | [ring_atomic](https://crates.io/crates/ring_atomic) | 0.1.0 | 0 | Atomic sequence helpers with explicit memory orderings |
+| 2026-09-29 17:28:43 | [ring_config](https://crates.io/crates/ring_config) | 0.1.0 | 0 | Ring construction parameters |
+| 2026-09-29 17:39:37 | [tabnas-path](https://crates.io/crates/tabnas-path) | 0.3.9 | 0 | Property-path tracking plugin for the tabnas parsing engine |
+| 2026-09-29 17:42:38 | [ring_slot](https://crates.io/crates/ring_slot) | 0.1.0 | 0 | Slot payload views — typed and raw bytes |
+| 2026-09-29 18:08:09 | [tabnas-abnf](https://crates.io/crates/tabnas-abnf) | 0.4.16 | 0 | ABNF (RFC 5234) grammar compiler for the tabnas parsing engine: ABNF text in, t… |
+| 2026-09-29 18:08:21 | [qleisli](https://crates.io/crates/qleisli) | 0.2.1 | 0 | Experimental quantum language with linear ownership, exact contracts and indepe… |
+| 2026-09-29 18:10:19 | [turnframe-core](https://crates.io/crates/turnframe-core) | 0.1.0 | 0 | Pure types and the deterministic Flow Map workflow projector for Turnframe |
+| 2026-09-29 18:10:22 | [turnframe-macros](https://crates.io/crates/turnframe-macros) | 0.1.0 | 0 | Reserved procedural-macro crate for Turnframe (no macros are shipped in 0.1 by… |
+| 2026-09-29 18:10:36 | [turnframe-provider](https://crates.io/crates/turnframe-provider) | 0.1.0 | 0 | Provider-neutral model interfaces, capability routing, fallback policy and conf… |
+| 2026-09-29 18:10:46 | [turnframe-store](https://crates.io/crates/turnframe-store) | 0.1.0 | 0 | Object-safe persistence traits and the deterministic in-memory store for Turnfr… |
+| 2026-09-29 18:10:57 | [turnframe-telemetry](https://crates.io/crates/turnframe-telemetry) | 0.1.0 | 0 | Tracing, metrics and optional OpenTelemetry helpers for Turnframe |
+| 2026-09-29 18:11:10 | [charset-norm](https://crates.io/crates/charset-norm) | 3.5.1 | 0 | Universal character encoding detector: a Rust implementation of charset_normali… |
+| 2026-09-29 18:16:11 | [turnframe-prompt](https://crates.io/crates/turnframe-prompt) | 0.1.0 | 0 | Prompt sources for Turnframe: prompts compiled in from the adopter's repository… |
+| 2026-09-29 18:17:32 | [everyport](https://crates.io/crates/everyport) | 0.0.0 | 0 | Every dev server, on every OS, on every machine. Placeholder; the first release… |
+| 2026-09-29 18:21:33 | [turnframe-provider-bedrock](https://crates.io/crates/turnframe-provider-bedrock) | 0.1.0 | 0 | AWS Bedrock Converse adapter for Turnframe |
 
 ## Data source
 

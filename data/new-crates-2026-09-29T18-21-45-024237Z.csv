@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T17:20:08.184654Z,lungo-driver,1.78.3254,0,0,https://github.com/machinefabric/lungo-rs,The language-neutral lungo pipeline: builds a Lake project and analyses its compiled program. An internal part of lungo: depend on `lungo` and `lungo-build`.
+2026-09-29T17:20:13.504829Z,lungo-cli,1.78.3254,0,0,https://github.com/machinefabric/lungo-rs,"The lungo command: generate C, Go, Python, Swift, TypeScript and Rust from Lean programs"
+2026-09-29T17:23:00.486534Z,llama-harness-core,0.2.0,0,0,https://github.com/tyhuang9/llama-harness,"Embedded, provider-neutral agent runtime for llama-harness"
+2026-09-29T17:24:55.598929Z,heyfoz,0.0.1,0,0,,Foz: a body for the agent you already use. Name reserved; first release coming soon.
+2026-09-29T17:24:57.651839Z,foz,0.0.1,0,0,,Foz: a body for the agent you already use. Name reserved; first release coming soon.
+2026-09-29T17:24:59.771215Z,fozling,0.0.1,0,0,,Foz: a body for the agent you already use. Name reserved; first release coming soon.
+2026-09-29T17:27:28.039472Z,ring_seqno,0.1.0,0,0,https://github.com/Wandalen/ring,Sequence numbers and their comparison across laps
+2026-09-29T17:27:46.721416Z,ring_index,0.1.0,0,0,https://github.com/Wandalen/ring,Sequence-to-slot index mapping for power-of-two capacities
+2026-09-29T17:28:04.367326Z,ring_align,0.1.0,0,0,https://github.com/Wandalen/ring,Cache-line padding constants and alignment wrappers
+2026-09-29T17:28:24.205159Z,ring_atomic,0.1.0,0,0,https://github.com/Wandalen/ring,Atomic sequence helpers with explicit memory orderings
+2026-09-29T17:28:43.366447Z,ring_config,0.1.0,0,0,https://github.com/Wandalen/ring,Ring construction parameters
+2026-09-29T17:39:37.892494Z,tabnas-path,0.3.9,0,0,https://github.com/tabnas/path,Property-path tracking plugin for the tabnas parsing engine
+2026-09-29T17:42:38.576769Z,ring_slot,0.1.0,0,0,https://github.com/Wandalen/ring,Slot payload views — typed and raw bytes
+2026-09-29T18:08:09.564713Z,tabnas-abnf,0.4.16,0,0,https://github.com/tabnas/abnf,"ABNF (RFC 5234) grammar compiler for the tabnas parsing engine: ABNF text in, tabnas GrammarSpec out"
+2026-09-29T18:08:21.795591Z,qleisli,0.2.1,0,0,https://github.com/MGYamada/Qleisli,"Experimental quantum language with linear ownership, exact contracts and independent finite IR verification"
+2026-09-29T18:10:19.759084Z,turnframe-core,0.1.0,0,0,https://github.com/turnframe-rs/turnframe,Pure types and the deterministic Flow Map workflow projector for Turnframe
+2026-09-29T18:10:22.600682Z,turnframe-macros,0.1.0,0,0,https://github.com/turnframe-rs/turnframe,Reserved procedural-macro crate for Turnframe (no macros are shipped in 0.1 by policy)
+2026-09-29T18:10:36.391748Z,turnframe-provider,0.1.0,0,0,https://github.com/turnframe-rs/turnframe,"Provider-neutral model interfaces, capability routing, fallback policy and conformance suite for Turnframe"
+2026-09-29T18:10:46.561932Z,turnframe-store,0.1.0,0,0,https://github.com/turnframe-rs/turnframe,Object-safe persistence traits and the deterministic in-memory store for Turnframe
+2026-09-29T18:10:57.111276Z,turnframe-telemetry,0.1.0,0,0,https://github.com/turnframe-rs/turnframe,"Tracing, metrics and optional OpenTelemetry helpers for Turnframe"
+2026-09-29T18:11:10.716562Z,charset-norm,3.5.1,0,0,https://github.com/RustedBytes/charset-norm,Universal character encoding detector: a Rust implementation of charset_normalizer
+2026-09-29T18:16:11.510758Z,turnframe-prompt,0.1.0,0,0,https://github.com/turnframe-rs/turnframe,"Prompt sources for Turnframe: prompts compiled in from the adopter's repository, a bounded cache, and an optional Langfuse v4 registry adapter"
+2026-09-29T18:17:32.07484Z,everyport,0.0.0,0,0,https://github.com/greenfield-inc/everyport,"Every dev server, on every OS, on every machine. Placeholder; the first release is coming soon."
+2026-09-29T18:21:33.000685Z,turnframe-provider-bedrock,0.1.0,0,0,https://github.com/turnframe-rs/turnframe,AWS Bedrock Converse adapter for Turnframe
