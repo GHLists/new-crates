@@ -8,46 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 21:18 UTC
+## Latest list — 2026-09-29 22:21 UTC
 
-New crates published between 2026-09-29 20:18 UTC and 2026-09-29 21:18 UTC.
+New crates published between 2026-09-29 21:18 UTC and 2026-09-29 22:21 UTC.
 
-[Full CSV](data/new-crates-2026-09-29T21-18-54-951568Z.csv)
+[Full CSV](data/new-crates-2026-09-29T22-21-00-509072Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-29 20:21:01 | [compair](https://crates.io/crates/compair) | 0.1.0 | 0 | Banded affine-gap pair-HMM with a pluggable, conversion-aware emission model |
-| 2026-09-29 20:21:04 | [rifi](https://crates.io/crates/rifi) | 0.1.0 | 0 | A blazing-fast, keyboard-driven Wi-Fi and network manager for Wayland and X11 |
-| 2026-09-29 20:21:27 | [ring_batch](https://crates.io/crates/ring_batch) | 0.1.0 | 0 | Batch claim objects spanning a sequence range |
-| 2026-09-29 20:21:46 | [ring_event](https://crates.io/crates/ring_event) | 0.1.0 | 0 | Slot translators that fill a claimed slot |
-| 2026-09-29 20:25:04 | [turnframe-eval](https://crates.io/crates/turnframe-eval) | 0.1.0 | 0 | Model evaluation harness for Turnframe: corpora, samples, deterministic asserti… |
-| 2026-09-29 20:25:08 | [qk-cli](https://crates.io/crates/qk-cli) | 0.0.0 | 0 | Name reservation for qk, a standalone Nx-compatible task runner under active de… |
-| 2026-09-29 20:25:14 | [turnframe](https://crates.io/crates/turnframe) | 0.1.0 | 0 | Deterministic conversational workflows for Rust, built around the Flow Map arch… |
-| 2026-09-29 20:33:04 | [tabnas-toml](https://crates.io/crates/tabnas-toml) | 0.5.9 | 0 | The TOML grammar plugin for the tabnas parsing engine |
-| 2026-09-29 20:34:38 | [rs-rich-interact](https://crates.io/crates/rs-rich-interact) | 0.0.1 | 0 | Interactive terminal components for rs-rich: event loop, viewport, item model,… |
-| 2026-09-29 20:34:47 | [alamem](https://crates.io/crates/alamem) | 0.1.5 | 0 | Approximate local alignment via MEM chaining without base-level extension |
-| 2026-09-29 20:35:40 | [rs-rich-record](https://crates.io/crates/rs-rich-record) | 0.0.1 | 0 | Record scripted terminal sessions (tapes) into screenshots, asciinema casts, GI… |
-| 2026-09-29 20:40:03 | [compio-mtproto](https://crates.io/crates/compio-mtproto) | 0.1.0 | 0 | MTProto for Compio |
-| 2026-09-29 20:42:21 | [TTKServer](https://crates.io/crates/TTKServer) | 0.18.1 | 0 | RA-TLS HTTP/3 (QUIC) server and client for TEEs (AWS Nitro, AMD SEV-SNP, Intel… |
-| 2026-09-29 20:45:36 | [praxis-policy-builtins](https://crates.io/crates/praxis-policy-builtins) | 0.4.0 | 0 | PPE bundled extensions — Cedar, CEL and OPA decision points, JWT and API-key id… |
-| 2026-09-29 20:51:18 | [audiobox](https://crates.io/crates/audiobox) | 0.1.0 | 0 | Audio decoding, editing, analysis and encoding in Rust |
-| 2026-09-29 20:57:50 | [masl-memc](https://crates.io/crates/masl-memc) | 0.1.0-alpha.0 | 0 | Common features for the MASL MEMC file format |
-| 2026-09-29 21:00:36 | [tabnas-xml](https://crates.io/crates/tabnas-xml) | 0.7.10 | 0 | XML 1.0 grammar plugin for the tabnas parsing engine, with namespaces and entit… |
-| 2026-09-29 21:03:46 | [zapd](https://crates.io/crates/zapd) | 1.1.2 | 0 | The ZAP router — embedded in every ZAP process; one per user login, elected by… |
-| 2026-09-29 21:04:33 | [jev-macros](https://crates.io/crates/jev-macros) | 0.1.0 | 0 | Proc-macros for the jev SDK: #[derive(Decision, ChoiceOptions, ScoreLevels)] |
-| 2026-09-29 21:04:35 | [jev-typed](https://crates.io/crates/jev-typed) | 0.1.0 | 0 | Typed Rust SDK for the Jev decision model: noul/choice/score primitives as type… |
-| 2026-09-29 21:05:50 | [override](https://crates.io/crates/override) | 0.1.0 | 0 | Symbol-based Rust source editing and dependency patching |
-| 2026-09-29 21:08:12 | [idn](https://crates.io/crates/idn) | 1.0.0 | 0 | Fast, small and simple IDNA implementation |
-| 2026-09-29 21:08:12 | [l3i](https://crates.io/crates/l3i) | 1.0.0 | 0 | Luau binder for DreamWeave component crates: typed function binding, tagged and… |
-| 2026-09-29 21:11:27 | [lsmd](https://crates.io/crates/lsmd) | 0.8.0 | 0 | A terminal-friendly Markdown (.md) reader built for speed and easy navigation i… |
-| 2026-09-29 21:12:44 | [rigspark-crossterm](https://crates.io/crates/rigspark-crossterm) | 0.29.0 | 0 | crossterm 0.29.0 with bounded escape-sequence and bracketed-paste input parsing… |
-| 2026-09-29 21:13:39 | [navcore-i18n](https://crates.io/crates/navcore-i18n) | 0.4.1 | 0 | A gettext-style translation catalogue for strings nav-core hands its consumers… |
-| 2026-09-29 21:13:51 | [rotulus-layout](https://crates.io/crates/rotulus-layout) | 0.1.0 | 0 | The layout engine behind the Rotulus chat view: message model, wrapping, height… |
-| 2026-09-29 21:13:53 | [rotulus-mirc](https://crates.io/crates/rotulus-mirc) | 0.1.0 | 0 | Parse IRC (mIRC) formatting codes into Rotulus styled text |
-| 2026-09-29 21:13:54 | [rotulus](https://crates.io/crates/rotulus) | 0.1.0 | 0 | A GTK4 scrollback view for text-stream chat |
-| 2026-09-29 21:14:40 | [ipsa-ibc-core](https://crates.io/crates/ipsa-ibc-core) | 0.1.0 | 0 | IBC commitment paths, the fixed-depth SMT and its ICS-23 proofs |
-| 2026-09-29 21:15:37 | [ckb-idl-types](https://crates.io/crates/ckb-idl-types) | 0.1.0 | 0 | Shared runtime schema and witness types for CKB IDL |
-| 2026-09-29 21:17:22 | [neoscad](https://crates.io/crates/neoscad) | 0.0.1 | 0 | Name reservation for NeoSCAD, an OpenSCAD-compatible programmable CAD tool (neo… |
+| 2026-09-29 21:20:33 | [tabnas-yaml](https://crates.io/crates/tabnas-yaml) | 0.5.13 | 0 | A core-subset YAML grammar plugin for the tabnas parsing engine |
+| 2026-09-29 21:22:58 | [turbojet-dictionary](https://crates.io/crates/turbojet-dictionary) | 0.1.0 | 0 | FIX data dictionaries in the QuickFIX and FIX Orchestra formats: load, validate… |
+| 2026-09-29 21:23:00 | [turbojet](https://crates.io/crates/turbojet) | 0.1.1 | 0 | Turbojet: a FIX session engine with typed messages, storage, TLS, and acceptor/… |
+| 2026-09-29 21:23:02 | [turbojet-codegen](https://crates.io/crates/turbojet-codegen) | 0.1.0 | 0 | Generates Turbojet typed FIX messages from FIX Orchestra and QuickFIX data dict… |
+| 2026-09-29 21:23:03 | [turbojet-fix42](https://crates.io/crates/turbojet-fix42) | 0.1.0 | 0 | FIX 4.2 application messages for Turbojet, generated from the official FIX Orch… |
+| 2026-09-29 21:23:03 | [turbojet-fix43](https://crates.io/crates/turbojet-fix43) | 0.1.0 | 0 | FIX 4.3 application messages for Turbojet, generated from the official FIX Unif… |
+| 2026-09-29 21:24:17 | [ckb-idl-derive](https://crates.io/crates/ckb-idl-derive) | 0.1.0 | 0 | Rust derives for CKB IDL witness schemas and decoding |
+| 2026-09-29 21:29:03 | [pipecircuit-browser](https://crates.io/crates/pipecircuit-browser) | 0.0.1 | 0 | Browser fittings and Postcard program boundaries for Pipecircuit |
+| 2026-09-29 21:31:52 | [shipslip](https://crates.io/crates/shipslip) | 0.0.1 | 0 | Deploy with a receipt. Early development. |
+| 2026-09-29 21:33:01 | [sootmark-shell](https://crates.io/crates/sootmark-shell) | 0.2.0 | 0 | Windows shell items, LNK files (MS-SHLLINK), jump lists and compound files (MS-… |
+| 2026-09-29 21:33:19 | [va_sso](https://crates.io/crates/va_sso) | 0.1.0 | 0 | The valeratrades.com sign-in cookie: its claims, minting and verification |
+| 2026-09-29 21:37:23 | [turbojet-fix44](https://crates.io/crates/turbojet-fix44) | 0.1.0 | 0 | FIX 4.4 application messages for Turbojet, generated from the official FIX Orch… |
+| 2026-09-29 21:44:41 | [turbojet-fix50sp2](https://crates.io/crates/turbojet-fix50sp2) | 0.1.0 | 0 | FIX 5.0 SP2 application messages for Turbojet, generated from the official FIX… |
+| 2026-09-29 21:44:44 | [lsnet](https://crates.io/crates/lsnet) | 0.6.1 | 0 | See what's on your local network: fast, zero-config device discovery and identi… |
+| 2026-09-29 21:45:07 | [tabnas-expr](https://crates.io/crates/tabnas-expr) | 0.5.11 | 0 | Pratt expression-operator plugin for the tabnas parsing engine, over the jsonic… |
+| 2026-09-29 21:46:17 | [fbtree](https://crates.io/crates/fbtree) | 0.0.1 | 0 | in development |
+| 2026-09-29 21:55:41 | [vivvy-core](https://crates.io/crates/vivvy-core) | 0.1.0 | 0 | Core vector index engine for Vivvy — single-machine, memory-honest vector search |
+| 2026-09-29 21:56:02 | [vivvy-memory](https://crates.io/crates/vivvy-memory) | 0.1.0 | 0 | Local, durable, namespace-isolated long-term memory for AI agents |
+| 2026-09-29 22:00:21 | [ckb-idl-export](https://crates.io/crates/ckb-idl-export) | 0.1.0 | 0 | Host-side canonical IDL exporter for CKB witness schemas |
+| 2026-09-29 22:00:59 | [aethex-state](https://crates.io/crates/aethex-state) | 0.1.0 | 0 | Merkle state trie and ledger for the Axiom Protocol |
+| 2026-09-29 22:01:12 | [aethex-network](https://crates.io/crates/aethex-network) | 0.1.0 | 0 | P2P networking layer for the Axiom Protocol |
+| 2026-09-29 22:03:56 | [surtgis-flow](https://crates.io/crates/surtgis-flow) | 1.5.1 | 0 | 2D debris-flow solver (shallow water + Voellmy rheology) for SurtGIS |
+| 2026-09-29 22:03:58 | [surtgis-server](https://crates.io/crates/surtgis-server) | 1.5.1 | 0 | SurtGIS Server — analysis-first dynamic tile server (terrain, hydrology and spe… |
+| 2026-09-29 22:06:17 | [tabnas-zon](https://crates.io/crates/tabnas-zon) | 0.5.10 | 0 | The Zig Object Notation (ZON) grammar plugin for the tabnas parsing engine |
+| 2026-09-29 22:08:36 | [rigspark-core](https://crates.io/crates/rigspark-core) | 2.0.0 | 0 | Deterministic, offline LLM memory and VRAM sizing, KV-cache estimation, hardwar… |
+| 2026-09-29 22:09:29 | [rigspark-runtime](https://crates.io/crates/rigspark-runtime) | 2.0.0 | 0 | Hardware detection, backend adapters, lifecycle, memory and harness runtime for… |
+| 2026-09-29 22:10:41 | [rigspark-gui](https://crates.io/crates/rigspark-gui) | 2.0.0 | 0 | Loopback-only local AI chat workspace for rigspark (`llmup gui`): model picker,… |
+| 2026-09-29 22:11:51 | [rigspark-cli](https://crates.io/crates/rigspark-cli) | 2.0.0 | 0 | Which local LLMs can your computer run? Hardware-aware CLI with yes/slow/no ver… |
+| 2026-09-29 22:13:30 | [esp-lcd-i8080](https://crates.io/crates/esp-lcd-i8080) | 0.1.0 | 0 | mipidsi display interface for the ESP32-S3 LCD_CAM peripheral in 8-bit i8080 mo… |
+| 2026-09-29 22:13:32 | [lilygo-t-display-s3](https://crates.io/crates/lilygo-t-display-s3) | 0.1.0 | 0 | Board support for the LILYGO T-Display-S3: ST7789 display over DMA, backlight,… |
+| 2026-09-29 22:15:36 | [ckb-idl-client](https://crates.io/crates/ckb-idl-client) | 0.1.0 | 0 | Verification, parsing, and witness encoding for CKB IDL 0.1 |
+| 2026-09-29 22:16:59 | [revivint-core](https://crates.io/crates/revivint-core) | 0.0.1 | 0 | Reserved |
+| 2026-09-29 22:18:37 | [deps-core-macros](https://crates.io/crates/deps-core-macros) | 2.0.0 | 0 | Proc-macro derives for deps-core (RedactingDebug) — not for direct use, see dep… |
+| 2026-09-29 22:20:24 | [mzizi-tokens](https://crates.io/crates/mzizi-tokens) | 0.1.0 | 0 | Mzizi N1 design tokens: the 21-family Mzizi palette (seven minerals, seven heri… |
+| 2026-09-29 22:20:27 | [mzizi-ui](https://crates.io/crates/mzizi-ui) | 0.1.0 | 0 | Mzizi N2 primitives for Dioxus: avatar, badge, button, card, chart, input, labe… |
+| 2026-09-29 22:20:29 | [mzizi-brand](https://crates.io/crates/mzizi-brand) | 0.1.0 | 0 | Mzizi N3 brand components for Dioxus: the first Mzizi Roots batch of branded ca… |
+| 2026-09-29 22:20:32 | [mzizi-shell](https://crates.io/crates/mzizi-shell) | 0.1.0 | 0 | Mzizi N7 shell for Dioxus — app chrome: bottom nav, footer, command palette, co… |
+| 2026-09-29 22:20:35 | [mzizi-assurance](https://crates.io/crates/mzizi-assurance) | 0.1.0 | 0 | Mzizi N8 assurance — the shared core: probes, telemetry and the OTLP exporter. |
 
 ## Data source
 

@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T21:20:33.6508Z,tabnas-yaml,0.5.13,0,0,https://github.com/tabnas/yaml,A core-subset YAML grammar plugin for the tabnas parsing engine
+2026-09-29T21:22:58.457618Z,turbojet-dictionary,0.1.0,0,0,https://github.com/jrogers/turbojet,"FIX data dictionaries in the QuickFIX and FIX Orchestra formats: load, validate and merge them"
+2026-09-29T21:23:00.45572Z,turbojet,0.1.1,0,0,https://github.com/jrogers/turbojet,"Turbojet: a FIX session engine with typed messages, storage, TLS, and acceptor/initiator transports"
+2026-09-29T21:23:02.673501Z,turbojet-codegen,0.1.0,0,0,https://github.com/jrogers/turbojet,Generates Turbojet typed FIX messages from FIX Orchestra and QuickFIX data dictionaries
+2026-09-29T21:23:03.059878Z,turbojet-fix42,0.1.0,0,0,https://github.com/jrogers/turbojet,"FIX 4.2 application messages for Turbojet, generated from the official FIX Orchestra repository"
+2026-09-29T21:23:03.564215Z,turbojet-fix43,0.1.0,0,0,https://github.com/jrogers/turbojet,"FIX 4.3 application messages for Turbojet, generated from the official FIX Unified Repository"
+2026-09-29T21:24:17.355493Z,ckb-idl-derive,0.1.0,0,0,https://github.com/ckb-idl/ckb-idl-derive,Rust derives for CKB IDL witness schemas and decoding
+2026-09-29T21:29:03.251208Z,pipecircuit-browser,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Browser fittings and Postcard program boundaries for Pipecircuit
+2026-09-29T21:31:52.800753Z,shipslip,0.0.1,0,0,https://github.com/impruthvi/shipslip,Deploy with a receipt. Early development.
+2026-09-29T21:33:01.990375Z,sootmark-shell,0.2.0,0,0,https://github.com/Sootmark/shell,"Windows shell items, LNK files (MS-SHLLINK), jump lists and compound files (MS-CFB), from the public documentation."
+2026-09-29T21:33:19.405189Z,va_sso,0.1.0,0,0,https://github.com/valeratrades/site,"The valeratrades.com sign-in cookie: its claims, minting and verification"
+2026-09-29T21:37:23.475812Z,turbojet-fix44,0.1.0,0,0,https://github.com/jrogers/turbojet,"FIX 4.4 application messages for Turbojet, generated from the official FIX Orchestra repository"
+2026-09-29T21:44:41.045392Z,turbojet-fix50sp2,0.1.0,0,0,https://github.com/jrogers/turbojet,"FIX 5.0 SP2 application messages for Turbojet, generated from the official FIX Unified Repository"
+2026-09-29T21:44:44.79629Z,lsnet,0.6.1,0,0,https://github.com/sanford/lsnet,"See what's on your local network: fast, zero-config device discovery and identification"
+2026-09-29T21:45:07.524309Z,tabnas-expr,0.5.11,0,0,https://github.com/tabnas/expr,"Pratt expression-operator plugin for the tabnas parsing engine, over the jsonic base grammar"
+2026-09-29T21:46:17.21793Z,fbtree,0.0.1,0,0,,in development
+2026-09-29T21:55:41.668414Z,vivvy-core,0.1.0,0,0,https://github.com/one2seven-oss/vivvy,"Core vector index engine for Vivvy — single-machine, memory-honest vector search"
+2026-09-29T21:56:02.816629Z,vivvy-memory,0.1.0,0,0,https://github.com/one2seven-oss/vivvy,"Local, durable, namespace-isolated long-term memory for AI agents"
+2026-09-29T22:00:21.644184Z,ckb-idl-export,0.1.0,0,0,https://github.com/ckb-idl/ckb-idl-derive,Host-side canonical IDL exporter for CKB witness schemas
+2026-09-29T22:00:59.228335Z,aethex-state,0.1.0,0,0,https://git.aethex.tech/AeThex-Foundation/axiom-protocol-core,Merkle state trie and ledger for the Axiom Protocol
+2026-09-29T22:01:12.425128Z,aethex-network,0.1.0,0,0,https://git.aethex.tech/AeThex-Foundation/axiom-protocol-core,P2P networking layer for the Axiom Protocol
+2026-09-29T22:03:56.336108Z,surtgis-flow,1.5.1,0,0,https://github.com/franciscoparrao/surtgis,2D debris-flow solver (shallow water + Voellmy rheology) for SurtGIS
+2026-09-29T22:03:58.292346Z,surtgis-server,1.5.1,0,0,https://github.com/franciscoparrao/surtgis,"SurtGIS Server — analysis-first dynamic tile server (terrain, hydrology and spectral formulas as tile parameters)"
+2026-09-29T22:06:17.464549Z,tabnas-zon,0.5.10,0,0,https://github.com/tabnas/zon,The Zig Object Notation (ZON) grammar plugin for the tabnas parsing engine
+2026-09-29T22:08:36.630391Z,rigspark-core,2.0.0,0,0,https://github.com/shashankswe2020-ux/rigspark,"Deterministic, offline LLM memory and VRAM sizing, KV-cache estimation, hardware-fit scoring and model catalog for rigspark."
+2026-09-29T22:09:29.70301Z,rigspark-runtime,2.0.0,0,0,https://github.com/shashankswe2020-ux/rigspark,"Hardware detection, backend adapters, lifecycle, memory and harness runtime for rigspark."
+2026-09-29T22:10:41.020552Z,rigspark-gui,2.0.0,0,0,https://github.com/shashankswe2020-ux/rigspark,"Loopback-only local AI chat workspace for rigspark (`llmup gui`): model picker, agents, skills and MCP tools."
+2026-09-29T22:11:51.442717Z,rigspark-cli,2.0.0,0,0,https://github.com/shashankswe2020-ux/rigspark,"Which local LLMs can your computer run? Hardware-aware CLI with yes/slow/no verdicts and tok/s estimates, then verified installs via Ollama, llama.cpp, MLX or LM Studio."
+2026-09-29T22:13:30.56004Z,esp-lcd-i8080,0.1.0,0,0,https://github.com/zompinc/esp-lcd-i8080,"mipidsi display interface for the ESP32-S3 LCD_CAM peripheral in 8-bit i8080 mode, with DMA double buffering"
+2026-09-29T22:13:32.384766Z,lilygo-t-display-s3,0.1.0,0,0,https://github.com/zompinc/esp-lcd-i8080,"Board support for the LILYGO T-Display-S3: ST7789 display over DMA, backlight, buttons and battery"
+2026-09-29T22:15:36.265606Z,ckb-idl-client,0.1.0,0,0,https://github.com/OWK50GA/ckb-idl-client,"Verification, parsing, and witness encoding for CKB IDL 0.1"
+2026-09-29T22:16:59.741705Z,revivint-core,0.0.1,0,0,,Reserved
+2026-09-29T22:18:37.154792Z,deps-core-macros,2.0.0,0,0,https://github.com/bug-ops/deps-lsp,"Proc-macro derives for deps-core (RedactingDebug) — not for direct use, see deps-core::redact_debug"
+2026-09-29T22:20:24.331354Z,mzizi-tokens,0.1.0,0,0,https://github.com/mzizi-dev/mzizi-registry,"Mzizi N1 design tokens: the 21-family Mzizi palette (seven minerals, seven heritage tones, seven experimental) as Rust consts, generated from one source."
+2026-09-29T22:20:27.173429Z,mzizi-ui,0.1.0,0,0,https://github.com/mzizi-dev/mzizi-registry,"Mzizi N2 primitives for Dioxus: avatar, badge, button, card, chart, input, label, progress and separator, the Rust path for the component registry."
+2026-09-29T22:20:29.974125Z,mzizi-brand,0.1.0,0,0,https://github.com/mzizi-dev/mzizi-registry,"Mzizi N3 brand components for Dioxus: the first Mzizi Roots batch of branded cards, stats, alerts and states, each with a checkable contract."
+2026-09-29T22:20:32.774569Z,mzizi-shell,0.1.0,0,0,https://github.com/mzizi-dev/mzizi-registry,"Mzizi N7 shell for Dioxus — app chrome: bottom nav, footer, command palette, connectivity, theme, toasts, deep links and lifecycle."
+2026-09-29T22:20:35.09403Z,mzizi-assurance,0.1.0,0,0,https://github.com/mzizi-dev/mzizi-registry,"Mzizi N8 assurance — the shared core: probes, telemetry and the OTLP exporter."
