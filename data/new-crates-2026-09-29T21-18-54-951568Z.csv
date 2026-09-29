@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T20:21:01.301336Z,compair,0.1.0,0,0,https://github.com/Softleif/seqair,"Banded affine-gap pair-HMM with a pluggable, conversion-aware emission model"
+2026-09-29T20:21:04.09457Z,rifi,0.1.0,0,0,https://github.com/eddraz/rifi,"A blazing-fast, keyboard-driven Wi-Fi and network manager for Wayland and X11"
+2026-09-29T20:21:27.781568Z,ring_batch,0.1.0,0,0,https://github.com/Wandalen/ring,Batch claim objects spanning a sequence range
+2026-09-29T20:21:46.559968Z,ring_event,0.1.0,0,0,https://github.com/Wandalen/ring,Slot translators that fill a claimed slot
+2026-09-29T20:25:04.287075Z,turnframe-eval,0.1.0,0,0,https://github.com/turnframe-rs/turnframe,"Model evaluation harness for Turnframe: corpora, samples, deterministic assertions and judge votes"
+2026-09-29T20:25:08.925275Z,qk-cli,0.0.0,0,0,,"Name reservation for qk, a standalone Nx-compatible task runner under active development"
+2026-09-29T20:25:14.371051Z,turnframe,0.1.0,0,0,https://github.com/turnframe-rs/turnframe,"Deterministic conversational workflows for Rust, built around the Flow Map architecture"
+2026-09-29T20:33:04.217714Z,tabnas-toml,0.5.9,0,0,https://github.com/tabnas/toml,The TOML grammar plugin for the tabnas parsing engine
+2026-09-29T20:34:38.111267Z,rs-rich-interact,0.0.1,0,0,https://github.com/buchochelliq-labs/rs-rich-cli,"Interactive terminal components for rs-rich: event loop, viewport, item model, headless testing"
+2026-09-29T20:34:47.998943Z,alamem,0.1.5,0,0,https://github.com/yunwilliamyu/alamem,Approximate local alignment via MEM chaining without base-level extension
+2026-09-29T20:35:40.732007Z,rs-rich-record,0.0.1,0,0,https://github.com/buchochelliq-labs/rs-rich-cli,"Record scripted terminal sessions (tapes) into screenshots, asciinema casts, GIF and MP4"
+2026-09-29T20:40:03.595431Z,compio-mtproto,0.1.0,0,0,https://github.com/George-Miao/intuigram,MTProto for Compio
+2026-09-29T20:42:21.792013Z,TTKServer,0.18.1,0,0,https://github.com/Lanetus/TTKServer,"RA-TLS HTTP/3 (QUIC) server and client for TEEs (AWS Nitro, AMD SEV-SNP, Intel TDX) with RFC 9711 EAT evidence"
+2026-09-29T20:45:36.009091Z,praxis-policy-builtins,0.4.0,0,0,https://github.com/praxis-proxy/policy,"PPE bundled extensions — Cedar, CEL and OPA decision points, JWT and API-key identity, OAuth delegation, CIBA elicitation, Valkey sessions, Vault secrets."
+2026-09-29T20:51:18.239762Z,audiobox,0.1.0,0,0,https://github.com/jmsansan/audiobox-rs,"Audio decoding, editing, analysis and encoding in Rust"
+2026-09-29T20:57:50.345318Z,masl-memc,0.1.0-alpha.0,0,0,https://git.cscherr.de/pelagic-games/masl-memc,Common features for the MASL MEMC file format
+2026-09-29T21:00:36.274783Z,tabnas-xml,0.7.10,0,0,https://github.com/tabnas/xml,"XML 1.0 grammar plugin for the tabnas parsing engine, with namespaces and entities"
+2026-09-29T21:03:46.717938Z,zapd,1.1.2,0,0,https://github.com/zap-proto/zapd,"The ZAP router — embedded in every ZAP process; one per user login, elected by lock"
+2026-09-29T21:04:33.861799Z,jev-macros,0.1.0,0,0,https://github.com/tyrchen/jev-typed,"Proc-macros for the jev SDK: #[derive(Decision, ChoiceOptions, ScoreLevels)]"
+2026-09-29T21:04:35.707947Z,jev-typed,0.1.0,0,0,https://github.com/tyrchen/jev-typed,Typed Rust SDK for the Jev decision model: noul/choice/score primitives as types.
+2026-09-29T21:05:50.268534Z,override,0.1.0,0,0,https://github.com/zetaloop/override,Symbol-based Rust source editing and dependency patching
+2026-09-29T21:08:12.170903Z,idn,1.0.0,0,0,,"Fast, small and simple IDNA implementation"
+2026-09-29T21:08:12.238019Z,l3i,1.0.0,0,0,https://github.com/DreamWeave-MP/l3i,"Luau binder for DreamWeave component crates: typed function binding, tagged and untagged userdata, direct userdata access, sandboxed runtimes"
+2026-09-29T21:11:27.801338Z,lsmd,0.8.0,0,0,https://github.com/sanford/lsmd,A terminal-friendly Markdown (.md) reader built for speed and easy navigation in large projects
+2026-09-29T21:12:44.292361Z,rigspark-crossterm,0.29.0,0,0,https://github.com/shashankswe2020-ux/rigspark,"crossterm 0.29.0 with bounded escape-sequence and bracketed-paste input parsing, used by rigspark (see RIGSPARK-PATCH.md)."
+2026-09-29T21:13:39.163632Z,navcore-i18n,0.4.1,0,0,https://gitlab.com/sebastianhaas/nav-core,"A gettext-style translation catalogue for strings nav-core hands its consumers verbatim -- unit symbols, AIS ship types -- shared once rather than reimplemented per app. Compiled from .po files at bu…"
+2026-09-29T21:13:51.412753Z,rotulus-layout,0.1.0,0,0,https://github.com/mishan/rotulus,"The layout engine behind the Rotulus chat view: message model, wrapping, height index, scroll anchoring"
+2026-09-29T21:13:53.010438Z,rotulus-mirc,0.1.0,0,0,https://github.com/mishan/rotulus,Parse IRC (mIRC) formatting codes into Rotulus styled text
+2026-09-29T21:13:54.618576Z,rotulus,0.1.0,0,0,https://github.com/mishan/rotulus,A GTK4 scrollback view for text-stream chat
+2026-09-29T21:14:40.976728Z,ipsa-ibc-core,0.1.0,0,0,https://github.com/ipsadev/ipsa-core,"IBC commitment paths, the fixed-depth SMT and its ICS-23 proofs"
+2026-09-29T21:15:37.471487Z,ckb-idl-types,0.1.0,0,0,https://github.com/ckb-idl/ckb-idl-derive,Shared runtime schema and witness types for CKB IDL
+2026-09-29T21:17:22.287684Z,neoscad,0.0.1,0,0,https://github.com/neoscad/neoscad,"Name reservation for NeoSCAD, an OpenSCAD-compatible programmable CAD tool (neoscad.org). The real command-line tool will be published under this name."
