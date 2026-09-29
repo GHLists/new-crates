@@ -8,29 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 09:18 UTC
+## Latest list — 2026-09-29 10:22 UTC
 
-New crates published between 2026-09-29 08:26 UTC and 2026-09-29 09:18 UTC.
+New crates published between 2026-09-29 09:18 UTC and 2026-09-29 10:22 UTC.
 
-[Full CSV](data/new-crates-2026-09-29T09-18-55-341515Z.csv)
+[Full CSV](data/new-crates-2026-09-29T10-22-54-576729Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-29 08:33:12 | [wgame-gfx-3d](https://crates.io/crates/wgame-gfx-3d) | 0.1.0 | 0 | Solid primitives, lighting, and normal maps for wgame |
-| 2026-09-29 08:34:15 | [algocli-provider](https://crates.io/crates/algocli-provider) | 0.1.0 | 0 | DecisionProvider trait + mock + feature-gated Jev client (Jev OFF by default) |
-| 2026-09-29 08:36:03 | [fusion-pcu-core](https://crates.io/crates/fusion-pcu-core) | 0.0.3 | 0 | Backend-neutral core IR, contracts, tensor semantics, and reference VM for Fusi… |
-| 2026-09-29 08:36:08 | [fusion-pcu-opencl](https://crates.io/crates/fusion-pcu-opencl) | 0.0.3 | 0 | OpenCL backend scaffold for Fusion PCU |
-| 2026-09-29 08:44:38 | [algocli-adapter-claude](https://crates.io/crates/algocli-adapter-claude) | 0.1.0 | 0 | Claude adapter shell-only (P1-07) – parse PreToolUse Bash → CanonicalEvent, ren… |
-| 2026-09-29 08:52:49 | [yew-e2e](https://crates.io/crates/yew-e2e) | 0.1.0 | 0 | Browser tests for Yew applications, and the runner that drives them. |
-| 2026-09-29 08:54:56 | [algocli-adapter-codex](https://crates.io/crates/algocli-adapter-codex) | 0.1.0 | 0 | Codex adapter (P4 spike): approval/sandbox/MCP, degrade gracefully, never assum… |
-| 2026-09-29 08:59:20 | [wgame](https://crates.io/crates/wgame) | 0.1.0 | 0 | Modular async 2D and 3D graphics applications with winit and wgpu |
-| 2026-09-29 09:00:44 | [sandpiper](https://crates.io/crates/sandpiper) | 0.0.1 | 0 | Self-hosted microVM machines for AI agents and apps. Early development. |
-| 2026-09-29 09:03:02 | [tc_block_padding](https://crates.io/crates/tc_block_padding) | 0.1.0 | 0 | PKCS#7, ISO 7816-4, ANSI X9.23, TBC, zero-byte and ISO 10126 padding for block… |
-| 2026-09-29 09:05:15 | [algocli-adapter-opencode](https://crates.io/crates/algocli-adapter-opencode) | 0.1.0 | 0 | OpenCode adapter (P4 spike): plugin system, degrade gracefully |
-| 2026-09-29 09:09:39 | [phoros](https://crates.io/crates/phoros) | 0.1.1 | 0 | Zero-allocation ring buffer with XOR delta encoding and state rollback |
-| 2026-09-29 09:10:44 | [wgame-egui](https://crates.io/crates/wgame-egui) | 0.1.0 | 0 | An egui window host for wgame graphics applications |
-| 2026-09-29 09:12:36 | [abyss-sdk](https://crates.io/crates/abyss-sdk) | 1.0.2 | 0 | Rust SDK for the Abyss broker REST API and plugin event stream |
-| 2026-09-29 09:15:53 | [algocli-daemon](https://crates.io/crates/algocli-daemon) | 0.1.0 | 0 | Daemon for algorithco guard (algo.sock, pipeline L0-L4, single SQLite writer) |
+| 2026-09-29 09:19:05 | [cdyn-loader](https://crates.io/crates/cdyn-loader) | 0.1.0 | 0 | The C interface-table layer of the dyn loading protocol: positional #[repr(C)]… |
+| 2026-09-29 09:21:15 | [dyn-support](https://crates.io/crates/dyn-support) | 0.1.0 | 0 | Build-time delivery for modules following the dyn loading protocol: read the [d… |
+| 2026-09-29 09:23:27 | [dyn-cli](https://crates.io/crates/dyn-cli) | 0.1.0 | 0 | Publishing and configuration for modules delivered over the dyn protocol. Sits… |
+| 2026-09-29 09:23:37 | [nautilus-schwab](https://crates.io/crates/nautilus-schwab) | 0.1.0 | 0 | Charles Schwab adapter for Nautilus Trader |
+| 2026-09-29 09:24:35 | [willbooster-tree-sitter](https://crates.io/crates/willbooster-tree-sitter) | 0.0.0-placeholder.0 | 0 | WillBooster's fork of the Tree-sitter parsing library, with Rust bindings |
+| 2026-09-29 09:32:46 | [willbooster-tree-sitter-rust](https://crates.io/crates/willbooster-tree-sitter-rust) | 0.0.0-placeholder.0 | 0 | Rust grammar for tree-sitter |
+| 2026-09-29 09:32:52 | [willbooster-tree-sitter-javascript](https://crates.io/crates/willbooster-tree-sitter-javascript) | 0.0.0-placeholder.0 | 0 | JavaScript grammar for tree-sitter |
+| 2026-09-29 09:32:58 | [willbooster-tree-sitter-typescript](https://crates.io/crates/willbooster-tree-sitter-typescript) | 0.0.0-placeholder.0 | 0 | TypeScript and TSX grammars for tree-sitter |
+| 2026-09-29 09:33:04 | [willbooster-tree-sitter-c](https://crates.io/crates/willbooster-tree-sitter-c) | 0.0.0-placeholder.0 | 0 | C grammar for tree-sitter |
+| 2026-09-29 09:33:10 | [willbooster-tree-sitter-cpp](https://crates.io/crates/willbooster-tree-sitter-cpp) | 0.0.0-placeholder.0 | 0 | C++ grammar for tree-sitter |
+| 2026-09-29 09:33:21 | [tomcatctl](https://crates.io/crates/tomcatctl) | 0.2.2 | 0 | Start Apache Tomcat from predefined configs instead of hand-written catalina.sh… |
+| 2026-09-29 09:39:41 | [knott_ui](https://crates.io/crates/knott_ui) | 0.1.0 | 0 | Rae: a tactile egui design system with 25 themes, accessible widgets, and deskt… |
+| 2026-09-29 09:40:33 | [willbooster-tree-sitter-c-sharp](https://crates.io/crates/willbooster-tree-sitter-c-sharp) | 0.0.0-placeholder.0 | 0 | C# grammar for tree-sitter |
+| 2026-09-29 09:45:21 | [amadeus-emote-loader](https://crates.io/crates/amadeus-emote-loader) | 0.1.0 | 0 | E-mote (EMT/PSB) model data layer: parse, adapt for the legacy runtime, and bak… |
+| 2026-09-29 09:46:41 | [iroh-services-proto](https://crates.io/crates/iroh-services-proto) | 0.1.0 | 0 | Raw wire types for iroh-services protocol implementations |
+| 2026-09-29 09:47:42 | [aradsh](https://crates.io/crates/aradsh) | 0.1.0 | 0 | A small interactive shell with compressed output mode for automation and LLM ag… |
+| 2026-09-29 09:50:23 | [havax](https://crates.io/crates/havax) | 0.1.5 | 0 | A modal, Helix-like terminal editor for Rust development |
+| 2026-09-29 09:51:59 | [socket-epoll-server](https://crates.io/crates/socket-epoll-server) | 0.1.0 | 0 | Single-threaded Unix domain socket server built on Linux epoll |
+| 2026-09-29 09:54:02 | [document_formulas_macros](https://crates.io/crates/document_formulas_macros) | 0.0.0 | 0 | Procedural macros for document_formulas: document function-body math as KaTeX f… |
+| 2026-09-29 09:54:12 | [document_formulas](https://crates.io/crates/document_formulas) | 0.2.0 | 0 | KaTeX-rendered math formulas in your rustdoc, extracted from function bodies |
+| 2026-09-29 09:57:27 | [mrledger](https://crates.io/crates/mrledger) | 1.0.1 | 0 | Somewhere to keep your secrets! |
+| 2026-09-29 10:08:59 | [argus-scanner](https://crates.io/crates/argus-scanner) | 0.2.0 | 0 | Fast supply-chain attack indicator scanner for repositories and CI workflows (l… |
+| 2026-09-29 10:22:33 | [lenso-auth-api-token-plugin](https://crates.io/crates/lenso-auth-api-token-plugin) | 0.1.2 | 0 | PostgreSQL-backed opaque API token Auth Plugin for Lenso vNext. |
 
 ## Data source
 
