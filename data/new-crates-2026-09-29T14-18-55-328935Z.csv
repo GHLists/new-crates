@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T13:19:49.908588Z,blueprint-cargo-generate,0.1.1,0,0,https://github.com/tangle-network/blueprint,Template generation library for cargo-tangle
+2026-09-29T13:24:27.352459Z,jakkals,0.0.0,0,0,https://github.com/noctonca/jakkals,"Jakkals (YAH-kuls), Afrikaans for 'jackal': a small coding agent whose every model call, tool call and limit is written down"
+2026-09-29T13:35:39.103965Z,kanatrain,0.1.1,0,0,https://github.com/varun-r-mallya/kana-trainer,Mistake-driven hiragana and katakana trainer for the terminal
+2026-09-29T13:37:40.668566Z,combinefiles,0.1.5,0,0,https://github.com/Trevrosa/combinefiles,combine files with one or many threads
+2026-09-29T13:39:44.819096Z,synalog,1.2.0,0,0,https://github.com/synalinks/synalog,Logic programming for AI agents: Datalog-family language compiling to optimized SQL
+2026-09-29T13:44:42.564195Z,spyc-vt-sys,0.1.0,0,0,https://github.com/Tripstack-Corp/spyc,Vendored FFI bindings to libghostty-vt at a spyc-owned pinned commit
+2026-09-29T13:45:05.919182Z,ptyctl,0.1.0,0,0,https://github.com/orhanbalci/ptyctl,"Keep interactive terminal sessions (REPLs, shells, kubectl exec -it) alive in the background and drive them from scripts or AI agents"
+2026-09-29T13:49:29.467351Z,kotatsu,0.1.1,0,0,https://github.com/seike460/kotatsu,Sandbox fleet control plane and session gateway core for AWS Lambda MicroVMs
+2026-09-29T13:49:31.919296Z,kotatsu-dev,0.1.1,0,0,https://github.com/seike460/kotatsu,Local AWS Lambda MicroVMs contract emulator for development (kotatsu dev)
+2026-09-29T13:49:34.456207Z,kotatsu-cli,0.1.1,0,0,https://github.com/seike460/kotatsu,CLI for the kotatsu AWS Lambda MicroVMs fleet control plane
+2026-09-29T13:49:35.551449Z,kotatsud,0.1.1,0,0,https://github.com/seike460/kotatsu,Session gateway daemon for AWS Lambda MicroVM sandboxes (kotatsu)
+2026-09-29T13:51:46.926336Z,cairo-starknet-syscalls,0.9.0-rc.8,0,0,https://github.com/starkware-libs/cairo_native,Shared StarknetSyscallHandler trait and supporting types for cairo-native and sierra-emu
+2026-09-29T13:55:09.178639Z,lelloman-simple-server,0.1.0,0,0,https://github.com/lelloman/simple-server,A modular foundation for Axum-based Rust services
+2026-09-29T14:00:22.907421Z,argus-validate,0.1.10,0,0,https://github.com/alvaropaco/argus-ai,ARGUS post-execution validator and the read-only learning pass
+2026-09-29T14:01:01.994179Z,pasteur-core,0.3.0,0,0,https://github.com/Krv-Labs/pasteur,"Clinical AI stress-testing engine: data simulators (blackout, jitter, flipper) and robustness evaluators"
+2026-09-29T14:01:02.732851Z,pasteur-hf,0.3.0,0,0,https://github.com/Krv-Labs/pasteur,"Pasteur simulation-bundle layout, Hugging Face dataset cards, and local staging cache"
+2026-09-29T14:01:03.111808Z,pasteur-model,0.3.0,0,0,https://github.com/Krv-Labs/pasteur,ONNX model loading and scoring for Pasteur evaluations
+2026-09-29T14:01:03.912923Z,pasteur-cli,0.3.0,0,0,https://github.com/Krv-Labs/pasteur,"Local CLI for Pasteur: simulate data shifts, score ONNX models, compare, and render dataset cards"
+2026-09-29T14:03:19.76774Z,cufflink-migrate,0.12.0,0,0,https://github.com/driftwerk/cufflink,"SQL migration planning for Cufflink services: checksums, history and locks compatible with refinery"
+2026-09-29T14:03:44.567227Z,cufflink-pgcodec,0.12.0,0,0,https://github.com/driftwerk/cufflink,How Cufflink renders Postgres rows as JSON and binds JSON parameters to Postgres types
+2026-09-29T14:09:04.833746Z,kcode-k1-ktool-docs,0.1.0,0,0,,Exact-name K1 Ktool contract metadata lookup
+2026-09-29T14:09:26.363102Z,jsonfix,0.1.0,0,0,https://github.com/themankindproject/jsonfix,"Repair, extract, and partially parse malformed JSON from LLMs and other unreliable sources. no_std, zero dependencies, lossless numbers."
+2026-09-29T14:10:37.537524Z,gftools,0.1.0-alpha,0,0,https://github.com/simoncozens/gftools-rust,Font manipulation library used by Google Fonts
+2026-09-29T14:13:07.801473Z,ankka,0.9.1,0,0,https://github.com/thinkmorestupidless/ankka,"Build ankka services in Rust, hosted as WebAssembly modules by the ankka runtime"
+2026-09-29T14:17:00.719011Z,tabnas-css,0.5.9,0,0,https://github.com/tabnas/css,Parse CSS into a reworkcss-style abstract syntax tree.
+2026-09-29T14:18:26.562276Z,tabnas-json,0.5.11,0,0,https://github.com/tabnas/json,Standard JSON grammar plugin for the tabnas parsing engine

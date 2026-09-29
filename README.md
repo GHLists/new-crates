@@ -8,32 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 13:18 UTC
+## Latest list — 2026-09-29 14:18 UTC
 
-New crates published between 2026-09-29 12:21 UTC and 2026-09-29 13:18 UTC.
+New crates published between 2026-09-29 13:18 UTC and 2026-09-29 14:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-29T13-18-59-782733Z.csv)
+[Full CSV](data/new-crates-2026-09-29T14-18-55-328935Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-29 12:22:58 | [html_pdf](https://crates.io/crates/html_pdf) | 0.1.2 | 0 | HTML and CSS to paginated PDF, with no browser |
-| 2026-09-29 12:27:49 | [natnet_zenoh](https://crates.io/crates/natnet_zenoh) | 0.0.0-reserved | 0 | natnet_zenoh |
-| 2026-09-29 12:28:22 | [entryd](https://crates.io/crates/entryd) | 0.1.0 | 0 | An entry daemon for the user. |
-| 2026-09-29 12:30:37 | [tg_types](https://crates.io/crates/tg_types) | 0.1.0 | 0 | Telegram destination types (channel / group / forum topic) shared by tg and its… |
-| 2026-09-29 12:30:57 | [gpu-compute-derive](https://crates.io/crates/gpu-compute-derive) | 0.1.0 | 0 | `#[derive(ShaderType)]` for the `gpu-compute` crate in ferrisLM |
-| 2026-09-29 12:31:29 | [wgsl-tmpl](https://crates.io/crates/wgsl-tmpl) | 0.1.0 | 0 | Include, conditional and substitution preprocessing for WGSL shader sources, us… |
-| 2026-09-29 12:32:27 | [gpu-compute](https://crates.io/crates/gpu-compute) | 0.1.0 | 0 | Unified GPU compute abstractions and Vulkan/WebGPU backends |
-| 2026-09-29 12:33:11 | [freya-html](https://crates.io/crates/freya-html) | 0.5.0-rc.8 | 0 | HTML + CSS rendering for Freya using Blitz |
-| 2026-09-29 12:34:13 | [tabnas-parser](https://crates.io/crates/tabnas-parser) | 0.12.6 | 0 | A dynamic JSON parser that isn't strict and can be customized. |
-| 2026-09-29 12:42:02 | [him](https://crates.io/crates/him) | 0.1.0 | 0 | WIP |
-| 2026-09-29 12:42:44 | [algocli-cli](https://crates.io/crates/algocli-cli) | 0.1.0 | 0 | CLI for algorithco guard (algo init\|uninstall\|doctor\|pause\|resume\|status\|why\|lo… |
-| 2026-09-29 12:43:07 | [algocli-verifier](https://crates.io/crates/algocli-verifier) | 0.1.0 | 0 | Verifier on agent.stop (P2-06): tests run? diff matches task? Jev batched, time… |
-| 2026-09-29 12:43:27 | [algocli-loop-controller](https://crates.io/crates/algocli-loop-controller) | 0.1.0 | 0 | Loop controller (P2-07): per-session failure fingerprints, retry/stop/ask |
-| 2026-09-29 12:43:48 | [algocli-scanner](https://crates.io/crates/algocli-scanner) | 0.1.0 | 0 | Scanner (P4): tree-sitter pre-filter + Jev judge, report-only |
-| 2026-09-29 12:46:27 | [relvi](https://crates.io/crates/relvi) | 0.1.0 | 0 | A focused application launcher for Wayland |
-| 2026-09-29 12:53:48 | [algocli-tui](https://crates.io/crates/algocli-tui) | 0.1.0 | 0 | TUI for algorithco guard — live decision feed, stats, policy editor (offline-ca… |
-| 2026-09-29 12:55:33 | [ch32rv-oep](https://crates.io/crates/ch32rv-oep) | 0.11.0 | 0 | OEP v1 (Open Embedded Probe) host for the ch32rv tool suite: wire codec, transp… |
-| 2026-09-29 13:02:35 | [signstar-configure](https://crates.io/crates/signstar-configure) | 0.1.0 | 0 | Runtime configuration tool for Signstar hosts |
+| 2026-09-29 13:19:49 | [blueprint-cargo-generate](https://crates.io/crates/blueprint-cargo-generate) | 0.1.1 | 0 | Template generation library for cargo-tangle |
+| 2026-09-29 13:24:27 | [jakkals](https://crates.io/crates/jakkals) | 0.0.0 | 0 | Jakkals (YAH-kuls), Afrikaans for 'jackal': a small coding agent whose every mo… |
+| 2026-09-29 13:35:39 | [kanatrain](https://crates.io/crates/kanatrain) | 0.1.1 | 0 | Mistake-driven hiragana and katakana trainer for the terminal |
+| 2026-09-29 13:37:40 | [combinefiles](https://crates.io/crates/combinefiles) | 0.1.5 | 0 | combine files with one or many threads |
+| 2026-09-29 13:39:44 | [synalog](https://crates.io/crates/synalog) | 1.2.0 | 0 | Logic programming for AI agents: Datalog-family language compiling to optimized… |
+| 2026-09-29 13:44:42 | [spyc-vt-sys](https://crates.io/crates/spyc-vt-sys) | 0.1.0 | 0 | Vendored FFI bindings to libghostty-vt at a spyc-owned pinned commit |
+| 2026-09-29 13:45:05 | [ptyctl](https://crates.io/crates/ptyctl) | 0.1.0 | 0 | Keep interactive terminal sessions (REPLs, shells, kubectl exec -it) alive in t… |
+| 2026-09-29 13:49:29 | [kotatsu](https://crates.io/crates/kotatsu) | 0.1.1 | 0 | Sandbox fleet control plane and session gateway core for AWS Lambda MicroVMs |
+| 2026-09-29 13:49:31 | [kotatsu-dev](https://crates.io/crates/kotatsu-dev) | 0.1.1 | 0 | Local AWS Lambda MicroVMs contract emulator for development (kotatsu dev) |
+| 2026-09-29 13:49:34 | [kotatsu-cli](https://crates.io/crates/kotatsu-cli) | 0.1.1 | 0 | CLI for the kotatsu AWS Lambda MicroVMs fleet control plane |
+| 2026-09-29 13:49:35 | [kotatsud](https://crates.io/crates/kotatsud) | 0.1.1 | 0 | Session gateway daemon for AWS Lambda MicroVM sandboxes (kotatsu) |
+| 2026-09-29 13:51:46 | [cairo-starknet-syscalls](https://crates.io/crates/cairo-starknet-syscalls) | 0.9.0-rc.8 | 0 | Shared StarknetSyscallHandler trait and supporting types for cairo-native and s… |
+| 2026-09-29 13:55:09 | [lelloman-simple-server](https://crates.io/crates/lelloman-simple-server) | 0.1.0 | 0 | A modular foundation for Axum-based Rust services |
+| 2026-09-29 14:00:22 | [argus-validate](https://crates.io/crates/argus-validate) | 0.1.10 | 0 | ARGUS post-execution validator and the read-only learning pass |
+| 2026-09-29 14:01:01 | [pasteur-core](https://crates.io/crates/pasteur-core) | 0.3.0 | 0 | Clinical AI stress-testing engine: data simulators (blackout, jitter, flipper)… |
+| 2026-09-29 14:01:02 | [pasteur-hf](https://crates.io/crates/pasteur-hf) | 0.3.0 | 0 | Pasteur simulation-bundle layout, Hugging Face dataset cards, and local staging… |
+| 2026-09-29 14:01:03 | [pasteur-model](https://crates.io/crates/pasteur-model) | 0.3.0 | 0 | ONNX model loading and scoring for Pasteur evaluations |
+| 2026-09-29 14:01:03 | [pasteur-cli](https://crates.io/crates/pasteur-cli) | 0.3.0 | 0 | Local CLI for Pasteur: simulate data shifts, score ONNX models, compare, and re… |
+| 2026-09-29 14:03:19 | [cufflink-migrate](https://crates.io/crates/cufflink-migrate) | 0.12.0 | 0 | SQL migration planning for Cufflink services: checksums, history and locks comp… |
+| 2026-09-29 14:03:44 | [cufflink-pgcodec](https://crates.io/crates/cufflink-pgcodec) | 0.12.0 | 0 | How Cufflink renders Postgres rows as JSON and binds JSON parameters to Postgre… |
+| 2026-09-29 14:09:04 | [kcode-k1-ktool-docs](https://crates.io/crates/kcode-k1-ktool-docs) | 0.1.0 | 0 | Exact-name K1 Ktool contract metadata lookup |
+| 2026-09-29 14:09:26 | [jsonfix](https://crates.io/crates/jsonfix) | 0.1.0 | 0 | Repair, extract, and partially parse malformed JSON from LLMs and other unrelia… |
+| 2026-09-29 14:10:37 | [gftools](https://crates.io/crates/gftools) | 0.1.0-alpha | 0 | Font manipulation library used by Google Fonts |
+| 2026-09-29 14:13:07 | [ankka](https://crates.io/crates/ankka) | 0.9.1 | 0 | Build ankka services in Rust, hosted as WebAssembly modules by the ankka runtime |
+| 2026-09-29 14:17:00 | [tabnas-css](https://crates.io/crates/tabnas-css) | 0.5.9 | 0 | Parse CSS into a reworkcss-style abstract syntax tree. |
+| 2026-09-29 14:18:26 | [tabnas-json](https://crates.io/crates/tabnas-json) | 0.5.11 | 0 | Standard JSON grammar plugin for the tabnas parsing engine |
 
 ## Data source
 
