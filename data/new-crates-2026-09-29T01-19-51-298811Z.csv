@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T00:23:13.685832Z,reallyme-openid4vp-http,0.1.1,0,0,https://github.com/reallyme/openid4vp,Optional OpenID4VP HTTP transport adapter traits.
+2026-09-29T00:26:14.069296Z,yas-proxy,0.4.0,0,0,https://github.com/yas-run/yas,yas connection pool and protocol-transparent proxy
+2026-09-29T00:26:28.917565Z,deser-transcode,0.9.0,0,0,https://github.com/mitsuhiko/deser,Converts values from one data format to another with deser
+2026-09-29T00:29:00.025837Z,senddart,1.0.0,0,0,https://github.com/shekhu10/senddart-sdks,Official Rust SDK for the SendDart email API — send transactional and marketing email from your own verified domain.
+2026-09-29T00:32:18.18492Z,tauri-plugin-audioplayer,0.1.0,0,0,https://gitlab.com/audioland/tauri-plugin-audioplayer,Tauri Audioplayer Plugin
+2026-09-29T00:33:40.797088Z,reallyme-openid4vp-proto-codec,0.1.1,0,0,https://github.com/reallyme/openid4vp,Buffa protobuf transport mappings for ReallyMe OpenID4VP.
+2026-09-29T00:36:32.530346Z,deser-validate,0.9.0,0,0,https://github.com/mitsuhiko/deser,Validation for deser
+2026-09-29T00:43:09.052074Z,reallyme-openid4vp-runtime,0.1.1,0,0,https://github.com/reallyme/openid4vp,Runtime protobuf operations and HTTP adapters for ReallyMe OpenID4VP.
+2026-09-29T00:45:50.238166Z,mimalloc-rich-sys,0.1.0-alpha.0+2.5.2,0,0,https://github.com/Techcable/mimalloc-rich.rs,Raw binidngs to the mimalloc library
+2026-09-29T00:45:52.590417Z,mimalloc-rich,0.1.0-alpha.0,0,0,https://github.com/Techcable/mimalloc-rich.rs,High-level bindings to the mimalloc allocator
+2026-09-29T00:46:18.620929Z,deser-yaml,0.9.0,0,0,https://github.com/mitsuhiko/deser,YAML support for deser
+2026-09-29T00:49:00.469308Z,symworx-dbsym-tui,0.5.0,0,0,https://github.com/symworx/symworx,Read-only terminal browser for dbSym catalogs (SQLite and Postgres)
+2026-09-29T00:53:35.646211Z,reallyme-openid4vp,0.1.1,0,0,https://github.com/reallyme/openid4vp,ReallyMe OpenID4VP protocol facade.
+2026-09-29T00:54:39.088928Z,undxf,0.1.0,0,0,https://github.com/iyulab/undxf,"A second, permissive DXF reader for the uncad-model entity model: ASCII DXF in, a drawing out, nothing silently dropped."
+2026-09-29T00:56:32.674429Z,deser-value,0.9.0,0,0,https://github.com/mitsuhiko/deser,A dynamic value type for deser
+2026-09-29T01:03:08.534089Z,yas-cros-codecs,0.0.6-yas.1,0,0,https://github.com/yas-run/yas,ChromeOS cros-codecs with the YAS stateless decoder changes
+2026-09-29T01:03:26.560888Z,yas-server,0.4.0,0,0,https://github.com/yas-run/yas,yas terminal multiplexer server
+2026-09-29T01:03:32.778371Z,yas-edge,0.4.0,0,0,https://github.com/yas-run/yas,YAS browser edge service
+2026-09-29T01:03:38.127646Z,yas-client,0.4.0,0,0,https://github.com/yas-run/yas,"Rust client for YAS servers: processes, files, terminals, surfaces, KV"
+2026-09-29T01:03:45.865243Z,yas-cli,0.4.0,0,0,https://github.com/yas-run/yas,yas terminal client
+2026-09-29T01:06:17.631288Z,deser-csv,0.9.0,0,0,https://github.com/mitsuhiko/deser,"CSV, TSV and other delimited text for deser"
+2026-09-29T01:08:35.90792Z,iron-pack-cad,0.1.0,0,0,https://github.com/iyulab/iron-pack-cad,"A CAD drawing as a package an LLM or a vision model can read: sized images, a tile pyramid, sheets per paper layout and exact JSON records, from the uncad-model entity model."
+2026-09-29T01:16:33.791963Z,deser-hj,0.9.0,0,0,https://github.com/mitsuhiko/deser,Hjson support for deser

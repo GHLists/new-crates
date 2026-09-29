@@ -8,52 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 00:21 UTC
+## Latest list — 2026-09-29 01:19 UTC
 
-New crates published between 2026-09-28 23:20 UTC and 2026-09-29 00:21 UTC.
+New crates published between 2026-09-29 00:21 UTC and 2026-09-29 01:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-29T00-21-00-735697Z.csv)
+[Full CSV](data/new-crates-2026-09-29T01-19-51-298811Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-28 23:20:23 | [deser-cbor](https://crates.io/crates/deser-cbor) | 0.9.0 | 0 | CBOR support for deser |
-| 2026-09-28 23:20:25 | [deser-encoding](https://crates.io/crates/deser-encoding) | 0.9.0 | 0 | Hex and base32 encodings of bytes for deser |
-| 2026-09-28 23:20:26 | [deser-location](https://crates.io/crates/deser-location) | 0.9.0 | 0 | Source location (line and column) tracking for deser |
-| 2026-09-28 23:20:27 | [deser-msgpack](https://crates.io/crates/deser-msgpack) | 0.9.0 | 0 | MessagePack support for deser |
-| 2026-09-28 23:21:04 | [reddit](https://crates.io/crates/reddit) | 0.1.0 | 0 | Reddit offline viewer: save a subreddit's posts, images and galleries as JSON +… |
-| 2026-09-28 23:22:00 | [etude-str](https://crates.io/crates/etude-str) | 0.1.0 | 0 | A cheaply-clonable, Bytes-backed UTF-8 string |
-| 2026-09-28 23:24:22 | [lsdetect](https://crates.io/crates/lsdetect) | 0.2.0 | 0 | Line segment detector (LSD) in pure Rust, with a fast perspective warp and Pyth… |
-| 2026-09-28 23:26:06 | [oxide-versioned-envelope](https://crates.io/crates/oxide-versioned-envelope) | 0.1.0 | 0 | Versioned JSON envelopes. |
-| 2026-09-28 23:26:18 | [deser-env](https://crates.io/crates/deser-env) | 0.9.0 | 0 | Environment variables for deser |
-| 2026-09-28 23:29:37 | [rillz](https://crates.io/crates/rillz) | 0.1.0 | 0 | Small-frame lossless codec for structured messages (CBOR, JSON, Yjs, markdown):… |
-| 2026-09-28 23:29:41 | [rillz-exec](https://crates.io/crates/rillz-exec) | 0.1.0 | 0 | Native thread-pool block executor for rillz (the rillz core stays no_std and si… |
-| 2026-09-28 23:32:19 | [enki-parsu](https://crates.io/crates/enki-parsu) | 0.1.0 | 0 | Hardware profiling and JIT compilation synthesis engine for Enki |
-| 2026-09-28 23:33:08 | [flight_tape](https://crates.io/crates/flight_tape) | 0.1.3 | 0 | Flight recorder for autonomous systems: bounded hash-chained decision tape, fre… |
-| 2026-09-28 23:35:52 | [enki-anu](https://crates.io/crates/enki-anu) | 0.1.0 | 0 | BorrowEngine, task recording, and pipeline synthesis for the Enki runtime |
-| 2026-09-28 23:36:25 | [deser-jsonc](https://crates.io/crates/deser-jsonc) | 0.9.0 | 0 | JSONC (JSON with comments) support for deser |
-| 2026-09-28 23:40:18 | [enki_macros](https://crates.io/crates/enki_macros) | 0.1.0 | 0 | Procedural macros for Enki GPU kernel |
-| 2026-09-28 23:40:50 | [yas-runtime-dir](https://crates.io/crates/yas-runtime-dir) | 0.4.0 | 0 | Owner-only runtime directory selection shared by yas's IPC socket and compositor |
-| 2026-09-28 23:41:14 | [yas-guest](https://crates.io/crates/yas-guest) | 0.4.0 | 0 | Guest SDK for YAS Wasmi extensions |
-| 2026-09-28 23:41:19 | [yas-git](https://crates.io/crates/yas-git) | 0.4.0 | 0 | Git introspection engine: repo state streaming, object reads, diffs and patches |
-| 2026-09-28 23:41:23 | [yas-lsp](https://crates.io/crates/yas-lsp) | 0.4.0 | 0 | Language intelligence engine: warm shared language servers projected into yas r… |
-| 2026-09-28 23:41:27 | [yas-composite-transport](https://crates.io/crates/yas-composite-transport) | 0.4.0 | 0 | Bounded local pairing for YAS reliable streams and optional datagrams |
-| 2026-09-28 23:46:11 | [openid4vci-attestation](https://crates.io/crates/openid4vci-attestation) | 0.1.1 | 0 | Key attestation and wallet attestation models for OpenID4VCI. |
-| 2026-09-28 23:46:18 | [charis-ui](https://crates.io/crates/charis-ui) | 0.1.0 | 0 | A desktop UI framework for Rust that looks like a modern web app: CSS-like styl… |
-| 2026-09-28 23:46:24 | [deser-plist](https://crates.io/crates/deser-plist) | 0.9.0 | 0 | Property list (plist) support for deser |
-| 2026-09-28 23:46:26 | [openid4vci-profiles](https://crates.io/crates/openid4vci-profiles) | 0.1.1 | 0 | OpenID4VCI profile constants and policy surfaces. |
-| 2026-09-28 23:46:47 | [openid4vci-issuer](https://crates.io/crates/openid4vci-issuer) | 0.1.1 | 0 | Transport-agnostic OpenID4VCI issuer endpoint engine. |
-| 2026-09-28 23:47:10 | [openid4vci-proto-codec](https://crates.io/crates/openid4vci-proto-codec) | 0.1.1 | 0 | Bounded protobuf codecs and typed OpenID4VCI domain conversions. |
-| 2026-09-28 23:47:25 | [openid4vci-http](https://crates.io/crates/openid4vci-http) | 0.1.1 | 0 | Feature-gated HTTP adapter boundary for OpenID4VCI. |
-| 2026-09-28 23:49:46 | [cargo-enki](https://crates.io/crates/cargo-enki) | 0.1.0 | 0 | CLI toolchain and runner for the Enki heterogeneous GPU compute platform |
-| 2026-09-28 23:50:43 | [yas-terminal-driver](https://crates.io/crates/yas-terminal-driver) | 0.4.0 | 0 | YAS driver for the vendored Alacritty terminal engine |
-| 2026-09-28 23:53:25 | [reallyme-openid4vci](https://crates.io/crates/reallyme-openid4vci) | 0.1.1 | 0 | ReallyMe OpenID4VCI protocol facade. |
-| 2026-09-28 23:56:25 | [deser-serde](https://crates.io/crates/deser-serde) | 0.9.0 | 0 | Adapters to use serde types with deser |
-| 2026-09-29 00:03:03 | [yas-webrtc-forwarder](https://crates.io/crates/yas-webrtc-forwarder) | 0.4.0 | 0 | Forward a yas server terminal over WebRTC |
-| 2026-09-29 00:03:04 | [reallyme-openid4vp-profiles](https://crates.io/crates/reallyme-openid4vp-profiles) | 0.1.1 | 0 | OpenID4VP presentation profiles. |
-| 2026-09-29 00:06:27 | [deser-tokio](https://crates.io/crates/deser-tokio) | 0.9.0 | 0 | Read and write deser values with tokio |
-| 2026-09-29 00:08:41 | [egui_richedit](https://crates.io/crates/egui_richedit) | 0.4.1 | 0 | Rich-text editing for egui over paragraphs the application lays out itself: car… |
-| 2026-09-29 00:16:30 | [deser-toml](https://crates.io/crates/deser-toml) | 0.9.0 | 0 | TOML support for deser |
-| 2026-09-29 00:17:02 | [reallyme-openid4vp-verifier](https://crates.io/crates/reallyme-openid4vp-verifier) | 0.1.1 | 0 | OpenID4VP verifier request and response validation boundary. |
+| 2026-09-29 00:23:13 | [reallyme-openid4vp-http](https://crates.io/crates/reallyme-openid4vp-http) | 0.1.1 | 0 | Optional OpenID4VP HTTP transport adapter traits. |
+| 2026-09-29 00:26:14 | [yas-proxy](https://crates.io/crates/yas-proxy) | 0.4.0 | 0 | yas connection pool and protocol-transparent proxy |
+| 2026-09-29 00:26:28 | [deser-transcode](https://crates.io/crates/deser-transcode) | 0.9.0 | 0 | Converts values from one data format to another with deser |
+| 2026-09-29 00:29:00 | [senddart](https://crates.io/crates/senddart) | 1.0.0 | 0 | Official Rust SDK for the SendDart email API — send transactional and marketing… |
+| 2026-09-29 00:32:18 | [tauri-plugin-audioplayer](https://crates.io/crates/tauri-plugin-audioplayer) | 0.1.0 | 0 | Tauri Audioplayer Plugin |
+| 2026-09-29 00:33:40 | [reallyme-openid4vp-proto-codec](https://crates.io/crates/reallyme-openid4vp-proto-codec) | 0.1.1 | 0 | Buffa protobuf transport mappings for ReallyMe OpenID4VP. |
+| 2026-09-29 00:36:32 | [deser-validate](https://crates.io/crates/deser-validate) | 0.9.0 | 0 | Validation for deser |
+| 2026-09-29 00:43:09 | [reallyme-openid4vp-runtime](https://crates.io/crates/reallyme-openid4vp-runtime) | 0.1.1 | 0 | Runtime protobuf operations and HTTP adapters for ReallyMe OpenID4VP. |
+| 2026-09-29 00:45:50 | [mimalloc-rich-sys](https://crates.io/crates/mimalloc-rich-sys) | 0.1.0-alpha.0+2.5.2 | 0 | Raw binidngs to the mimalloc library |
+| 2026-09-29 00:45:52 | [mimalloc-rich](https://crates.io/crates/mimalloc-rich) | 0.1.0-alpha.0 | 0 | High-level bindings to the mimalloc allocator |
+| 2026-09-29 00:46:18 | [deser-yaml](https://crates.io/crates/deser-yaml) | 0.9.0 | 0 | YAML support for deser |
+| 2026-09-29 00:49:00 | [symworx-dbsym-tui](https://crates.io/crates/symworx-dbsym-tui) | 0.5.0 | 0 | Read-only terminal browser for dbSym catalogs (SQLite and Postgres) |
+| 2026-09-29 00:53:35 | [reallyme-openid4vp](https://crates.io/crates/reallyme-openid4vp) | 0.1.1 | 0 | ReallyMe OpenID4VP protocol facade. |
+| 2026-09-29 00:54:39 | [undxf](https://crates.io/crates/undxf) | 0.1.0 | 0 | A second, permissive DXF reader for the uncad-model entity model: ASCII DXF in,… |
+| 2026-09-29 00:56:32 | [deser-value](https://crates.io/crates/deser-value) | 0.9.0 | 0 | A dynamic value type for deser |
+| 2026-09-29 01:03:08 | [yas-cros-codecs](https://crates.io/crates/yas-cros-codecs) | 0.0.6-yas.1 | 0 | ChromeOS cros-codecs with the YAS stateless decoder changes |
+| 2026-09-29 01:03:26 | [yas-server](https://crates.io/crates/yas-server) | 0.4.0 | 0 | yas terminal multiplexer server |
+| 2026-09-29 01:03:32 | [yas-edge](https://crates.io/crates/yas-edge) | 0.4.0 | 0 | YAS browser edge service |
+| 2026-09-29 01:03:38 | [yas-client](https://crates.io/crates/yas-client) | 0.4.0 | 0 | Rust client for YAS servers: processes, files, terminals, surfaces, KV |
+| 2026-09-29 01:03:45 | [yas-cli](https://crates.io/crates/yas-cli) | 0.4.0 | 0 | yas terminal client |
+| 2026-09-29 01:06:17 | [deser-csv](https://crates.io/crates/deser-csv) | 0.9.0 | 0 | CSV, TSV and other delimited text for deser |
+| 2026-09-29 01:08:35 | [iron-pack-cad](https://crates.io/crates/iron-pack-cad) | 0.1.0 | 0 | A CAD drawing as a package an LLM or a vision model can read: sized images, a t… |
+| 2026-09-29 01:16:33 | [deser-hj](https://crates.io/crates/deser-hj) | 0.9.0 | 0 | Hjson support for deser |
 
 ## Data source
 
