@@ -8,24 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 04:20 UTC
+## Latest list — 2026-09-29 05:18 UTC
 
-New crates published between 2026-09-29 03:21 UTC and 2026-09-29 04:20 UTC.
+New crates published between 2026-09-29 04:20 UTC and 2026-09-29 05:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-29T04-20-30-654921Z.csv)
+[Full CSV](data/new-crates-2026-09-29T05-18-58-812893Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-29 03:24:19 | [arsort](https://crates.io/crates/arsort) | 0.1.0 | 0 | A zero-runtime-allocation, arithmetic routing-based sorting micro-engine optimi… |
-| 2026-09-29 03:24:54 | [mvparser](https://crates.io/crates/mvparser) | 0.1.0 | 0 | Incremental, mode-stack parser and interpreter for structured and semi-structur… |
-| 2026-09-29 03:35:13 | [aerospace-responsive](https://crates.io/crates/aerospace-responsive) | 0.1.0 | 0 | Reshape AeroSpace workspace placement and layout when displays change |
-| 2026-09-29 03:35:25 | [aescry](https://crates.io/crates/aescry) | 1.0.0 | 0 | AES encryption and decryption, including the AES Crypt file format. |
-| 2026-09-29 03:39:05 | [pmgr-rs](https://crates.io/crates/pmgr-rs) | 0.1.1 | 0 | TUI project manager |
-| 2026-09-29 03:39:40 | [axum-webtools-clickhouse-migrate](https://crates.io/crates/axum-webtools-clickhouse-migrate) | 0.1.62 | 0 | General purpose migrate sql for ClickHouse, part of axum-webtools. |
-| 2026-09-29 03:46:00 | [axioval-ids](https://crates.io/crates/axioval-ids) | 0.3.0 | 0 | Axioval rule packages from buildingSMART IDS documents |
-| 2026-09-29 03:57:31 | [zakura-bento-core](https://crates.io/crates/zakura-bento-core) | 0.1.0 | 0 | Implementation crate behind the bento facade; depend on `bento` instead |
-| 2026-09-29 03:57:32 | [zakura-bento-macros](https://crates.io/crates/zakura-bento-macros) | 0.1.0 | 0 | Procedural macro implementations for bento: addition chains and POD derivation |
-| 2026-09-29 04:10:51 | [cocycle](https://crates.io/crates/cocycle) | 0.1.0 | 0 | Topological data analysis in pure Rust |
+| 2026-09-29 04:22:52 | [nichlink-kernel](https://crates.io/crates/nichlink-kernel) | 0.2.0 | 0 | Registry, transaction, contracts, grafts, and diagnostics for NichLink |
+| 2026-09-29 04:31:44 | [hmph](https://crates.io/crates/hmph) | 0.1.0 | 0 | how much parallelization happens: a timeline of a process tree's concurrency |
+| 2026-09-29 04:32:03 | [nichlink-toolchain](https://crates.io/crates/nichlink-toolchain) | 0.2.0 | 0 | The seven thin execution surfaces of NichLink in one crate |
+| 2026-09-29 04:33:05 | [lingara](https://crates.io/crates/lingara) | 0.0.0 | 0 | Official Rust client for the Lingara API (under development). |
+| 2026-09-29 04:37:16 | [prov-grain](https://crates.io/crates/prov-grain) | 0.16.0 | 0 | Grains for a prov workspace: how a value is cut into groups, and the chain of c… |
+| 2026-09-29 04:37:18 | [prov-filing](https://crates.io/crates/prov-filing) | 0.16.0 | 0 | Filing for a prov workspace: where a new record goes, declared as the `filing:`… |
+| 2026-09-29 04:46:41 | [mesodb-core](https://crates.io/crates/mesodb-core) | 0.1.0 | 0 | Bitemporal Datalog engine |
+| 2026-09-29 04:48:12 | [mesodb-server](https://crates.io/crates/mesodb-server) | 0.1.0 | 0 | Bitemporal Datalog engine |
+| 2026-09-29 04:48:28 | [mesodb-bench](https://crates.io/crates/mesodb-bench) | 0.1.0 | 0 | Bitemporal Datalog engine |
+| 2026-09-29 04:52:56 | [roder-ext-browser-use](https://crates.io/crates/roder-ext-browser-use) | 0.1.1 | 0 | Agentic software development tools and SDKs for Roder. |
+| 2026-09-29 04:57:33 | [ttyp-core](https://crates.io/crates/ttyp-core) | 1.1.0 | 0 | UI-free core of ttyp: typing-test engine, word generation, languages and API ty… |
+| 2026-09-29 04:57:44 | [ttyp](https://crates.io/crates/ttyp) | 1.1.0 | 0 | Minimal monkeytype-style typing test for the terminal |
+| 2026-09-29 04:57:57 | [spoiler-core](https://crates.io/crates/spoiler-core) | 0.1.0 | 0 | Deterministic recording decoding, replay compilation, and analysis validation |
+| 2026-09-29 04:58:01 | [spoiler](https://crates.io/crates/spoiler) | 0.1.0 | 0 | Headless session recording analysis with PostHog and OpenRouter |
+| 2026-09-29 05:14:43 | [ephact-domain](https://crates.io/crates/ephact-domain) | 0.4.0 | 0 | Domain layer of ephact: aggregates, entities, value objects and domain services. |
+| 2026-09-29 05:14:50 | [ephact-application](https://crates.io/crates/ephact-application) | 0.4.0 | 0 | Application layer of ephact: application services, ports and DTOs. |
+| 2026-09-29 05:15:45 | [ephact-infrastructure](https://crates.io/crates/ephact-infrastructure) | 0.4.0 | 0 | Infrastructure layer of ephact: container, workflow, persistence and messaging… |
+| 2026-09-29 05:17:24 | [ephact-presentation](https://crates.io/crates/ephact-presentation) | 0.4.0 | 0 | Presentation layer of ephact: CLI and terminal user interface. |
+| 2026-09-29 05:17:46 | [aria-router-afm-d](https://crates.io/crates/aria-router-afm-d) | 1.5.1 | 0 | AFM-D System One decisioner for aria-router |
 
 ## Data source
 

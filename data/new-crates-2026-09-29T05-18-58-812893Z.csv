@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T04:22:52.310539Z,nichlink-kernel,0.2.0,0,0,https://github.com/Nichtigott/nichlink,"Registry, transaction, contracts, grafts, and diagnostics for NichLink"
+2026-09-29T04:31:44.35376Z,hmph,0.1.0,0,0,https://github.com/jackroddy/hmph,how much parallelization happens: a timeline of a process tree's concurrency
+2026-09-29T04:32:03.155745Z,nichlink-toolchain,0.2.0,0,0,https://github.com/Nichtigott/nichlink,The seven thin execution surfaces of NichLink in one crate
+2026-09-29T04:33:05.552177Z,lingara,0.0.0,0,0,https://github.com/Spinning-Cat-Studios/lingara_api_clients,Official Rust client for the Lingara API (under development).
+2026-09-29T04:37:16.860817Z,prov-grain,0.16.0,0,0,https://github.com/diaryx-org/prov,"Grains for a prov workspace: how a value is cut into groups, and the chain of coarser cuts a filing nests through"
+2026-09-29T04:37:18.170884Z,prov-filing,0.16.0,0,0,https://github.com/diaryx-org/prov,"Filing for a prov workspace: where a new record goes, declared as the `filing:` axis"
+2026-09-29T04:46:41.429324Z,mesodb-core,0.1.0,0,0,,Bitemporal Datalog engine
+2026-09-29T04:48:12.735921Z,mesodb-server,0.1.0,0,0,,Bitemporal Datalog engine
+2026-09-29T04:48:28.251498Z,mesodb-bench,0.1.0,0,0,,Bitemporal Datalog engine
+2026-09-29T04:52:56.274426Z,roder-ext-browser-use,0.1.1,0,0,https://github.com/RoderAI/roder,Agentic software development tools and SDKs for Roder.
+2026-09-29T04:57:33.245124Z,ttyp-core,1.1.0,0,0,https://github.com/andples/tui-type,"UI-free core of ttyp: typing-test engine, word generation, languages and API types"
+2026-09-29T04:57:44.61652Z,ttyp,1.1.0,0,0,https://github.com/andples/tui-type,Minimal monkeytype-style typing test for the terminal
+2026-09-29T04:57:57.814513Z,spoiler-core,0.1.0,0,0,https://github.com/sahil-shubham/spoiler,"Deterministic recording decoding, replay compilation, and analysis validation"
+2026-09-29T04:58:01.313961Z,spoiler,0.1.0,0,0,https://github.com/sahil-shubham/spoiler,Headless session recording analysis with PostHog and OpenRouter
+2026-09-29T05:14:43.014935Z,ephact-domain,0.4.0,0,0,,"Domain layer of ephact: aggregates, entities, value objects and domain services."
+2026-09-29T05:14:50.310141Z,ephact-application,0.4.0,0,0,,"Application layer of ephact: application services, ports and DTOs."
+2026-09-29T05:15:45.394369Z,ephact-infrastructure,0.4.0,0,0,,"Infrastructure layer of ephact: container, workflow, persistence and messaging adapters."
+2026-09-29T05:17:24.711991Z,ephact-presentation,0.4.0,0,0,,Presentation layer of ephact: CLI and terminal user interface.
+2026-09-29T05:17:46.804141Z,aria-router-afm-d,1.5.1,0,0,,AFM-D System One decisioner for aria-router
