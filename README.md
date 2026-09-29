@@ -8,47 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 06:20 UTC
+## Latest list — 2026-09-29 07:18 UTC
 
-New crates published between 2026-09-29 05:18 UTC and 2026-09-29 06:20 UTC.
+New crates published between 2026-09-29 06:20 UTC and 2026-09-29 07:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-29T06-20-38-868627Z.csv)
+[Full CSV](data/new-crates-2026-09-29T07-18-55-290739Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-29 05:19:41 | [tbtui](https://crates.io/crates/tbtui) | 0.1.0 | 0 | TensorBoard scalars in your terminal: live, interactive loss curves, local or o… |
-| 2026-09-29 05:20:11 | [turbo-axum](https://crates.io/crates/turbo-axum) | 0.3.0 | 0 | Hotwire Turbo helpers for axum |
-| 2026-09-29 05:20:19 | [mmx](https://crates.io/crates/mmx) | 0.1.0 | 0 | Conversational diagram protocol: humans and agents talk through mermaid diffs |
-| 2026-09-29 05:23:41 | [schematic-wgpu-litematic](https://crates.io/crates/schematic-wgpu-litematic) | 0.1.0 | 0 | Parser for Litematica .litematic schematic files |
-| 2026-09-29 05:23:42 | [schematic-wgpu-mc-assets](https://crates.io/crates/schematic-wgpu-mc-assets) | 0.1.0 | 0 | Minecraft resource pack loading: blockstates, block models and textures |
-| 2026-09-29 05:23:45 | [schematic-wgpu-mesher](https://crates.io/crates/schematic-wgpu-mesher) | 0.1.0 | 0 | Build textured meshes from Litematica schematics |
-| 2026-09-29 05:23:47 | [schematic-wgpu-viewer](https://crates.io/crates/schematic-wgpu-viewer) | 0.1.0 | 0 | wgpu renderer and interactive viewer for schematic meshes |
-| 2026-09-29 05:23:49 | [schematic-wgpu-export](https://crates.io/crates/schematic-wgpu-export) | 0.1.0 | 0 | Write meshes as glTF/GLB and OBJ |
-| 2026-09-29 05:40:38 | [pixel-change-check-client](https://crates.io/crates/pixel-change-check-client) | 0.1.0 | 0 | Replicates your screen exactly and sends only the pixels that changed, over QUI… |
-| 2026-09-29 05:41:34 | [anylm-schema](https://crates.io/crates/anylm-schema) | 0.1.0 | 0 | The IntoSchema implementation for anylm crate |
-| 2026-09-29 05:41:46 | [aliyun-log-producer](https://crates.io/crates/aliyun-log-producer) | 0.1.0 | 0 | Thread-safe asynchronous batching producer for Alibaba Cloud Simple Log Service |
-| 2026-09-29 05:42:45 | [runa-cli](https://crates.io/crates/runa-cli) | 0.3.0 | 0 | A tiny, fast process supervisor: run, restart and monitor any command, with log… |
-| 2026-09-29 05:52:41 | [enki-gpu](https://crates.io/crates/enki-gpu) | 0.1.0 | 0 | Pure Rust heterogeneous GPU compute platform with JIT compilation |
-| 2026-09-29 06:08:21 | [auv-driver](https://crates.io/crates/auv-driver) | 0.0.22 | 0 | Application Use Via... script-able OS automation library |
-| 2026-09-29 06:08:25 | [orbit-client-pool](https://crates.io/crates/orbit-client-pool) | 0.5.1 | 0 | Protocol-neutral local and fleet-wide outbound client pools for Orbit process f… |
-| 2026-09-29 06:08:32 | [auv-core](https://crates.io/crates/auv-core) | 0.0.22 | 0 | Domain-facing local and remote operation interface for AUV |
-| 2026-09-29 06:08:42 | [auv-scan](https://crates.io/crates/auv-scan) | 0.0.22 | 0 | Scroll scanning interaction implementation for AUV |
-| 2026-09-29 06:08:52 | [auv-api-server](https://crates.io/crates/auv-api-server) | 0.0.22 | 0 | Protocol adapters for AUV daemon control and capability APIs |
-| 2026-09-29 06:09:04 | [auv-cli-invoke](https://crates.io/crates/auv-cli-invoke) | 0.0.22 | 0 | Application Use Via... script-able OS automation library |
-| 2026-09-29 06:14:29 | [auv-daemon](https://crates.io/crates/auv-daemon) | 0.0.22 | 0 | Server-side SDK for hosting an AUV daemon |
-| 2026-09-29 06:15:11 | [dacc](https://crates.io/crates/dacc) | 0.2.0 | 0 | DACC: фасадный крейт — единая точка входа к методологии |
-| 2026-09-29 06:16:28 | [softcut-fx](https://crates.io/crates/softcut-fx) | 0.1.0 | 0 | Built-in effects for softcut: saturation, bitcrusher, chorus, delay and reverb,… |
-| 2026-09-29 06:16:30 | [softcut-rs](https://crates.io/crates/softcut-rs) | 0.1.0 | 0 | Rust port of monome softcut: crossfaded, resampling record/play heads over audi… |
-| 2026-09-29 06:16:32 | [softcut-osc](https://crates.io/crates/softcut-osc) | 0.1.0 | 0 | OSC control for the softcut crate, over softcut-lib's softcut_jack_osc protocol |
-| 2026-09-29 06:16:39 | [nix-rs-eval-builtin-macros](https://crates.io/crates/nix-rs-eval-builtin-macros) | 0.0.1 | 0 | Procedural macros for defining nix-rs-eval builtins, derived from snix-eval-bui… |
-| 2026-09-29 06:16:44 | [nix-rs-eval](https://crates.io/crates/nix-rs-eval) | 0.1.0 | 0 | Nix language parser, compiler and bytecode evaluator for nix-rs, derived from s… |
-| 2026-09-29 06:16:50 | [nix-rs-cli](https://crates.io/crates/nix-rs-cli) | 0.1.0 | 0 | Preview command-line entry point for the nix-rs package manager |
-| 2026-09-29 06:18:49 | [cellule-types](https://crates.io/crates/cellule-types) | 0.1.0 | 0 | Dependency-light identities shared by Cellule storage layers |
-| 2026-09-29 06:19:03 | [credo-data-purge](https://crates.io/crates/credo-data-purge) | 0.1.0 | 0 | Askar wallet pruning for the SSI platform (Rust port of the credo-data-purge No… |
-| 2026-09-29 06:19:26 | [cellule-store](https://crates.io/crates/cellule-store) | 0.1.0 | 0 | Provider-neutral object-store transport for Cellule. |
-| 2026-09-29 06:19:49 | [geom2](https://crates.io/crates/geom2) | 0.1.0 | 0 | 2D geometry primitives and utilities |
-| 2026-09-29 06:19:51 | [cellule-ltx](https://crates.io/crates/cellule-ltx) | 0.1.0 | 0 | SQLite LTX capture, object-store replication, and verified recovery for Cellule |
-| 2026-09-29 06:20:22 | [cellule-runtime](https://crates.io/crates/cellule-runtime) | 0.1.0 | 0 | Embedded SQLite Cell runtime contracts for Cellule |
+| 2026-09-29 06:22:38 | [cellule-app](https://crates.io/crates/cellule-app) | 0.1.0 | 0 | Dependency-light author API for Cellule applications |
+| 2026-09-29 06:24:27 | [auv-cli](https://crates.io/crates/auv-cli) | 0.0.22 | 0 | AUV core command-line frontend |
+| 2026-09-29 06:27:52 | [skardi-source-pack](https://crates.io/crates/skardi-source-pack) | 0.6.0 | 0 | Executable SaaS connector runtime: requests, pagination, and response interpret… |
+| 2026-09-29 06:30:21 | [wgame-app-input](https://crates.io/crates/wgame-app-input) | 0.1.0 | 0 | Window event streams for wgame applications |
+| 2026-09-29 06:30:21 | [wgame-fs](https://crates.io/crates/wgame-fs) | 0.1.0 | 0 | Async native and browser asset loading for wgame |
+| 2026-09-29 06:30:22 | [wgame-gfx](https://crates.io/crates/wgame-gfx) | 0.1.0 | 0 | Graphics targets, cameras, and retained scenes for wgame |
+| 2026-09-29 06:30:23 | [wgame-image](https://crates.io/crates/wgame-image) | 0.1.0 | 0 | CPU images, pixel formats, and texture atlases for wgame |
+| 2026-09-29 06:30:24 | [wgame-input](https://crates.io/crates/wgame-input) | 0.1.0 | 0 | Host-independent canvas input and gesture state for wgame |
+| 2026-09-29 06:30:38 | [cellule-host](https://crates.io/crates/cellule-host) | 0.1.0 | 0 | Provider-neutral Cell node lifecycle facade |
+| 2026-09-29 06:34:41 | [wgame-app](https://crates.io/crates/wgame-app) | 0.1.0 | 0 | Cooperative window, task, and timer runtime for wgame |
+| 2026-09-29 06:40:42 | [cellule-peer-http](https://crates.io/crates/cellule-peer-http) | 0.1.0 | 0 | Authenticated HTTP transport and pinned mTLS for Cellule peers |
+| 2026-09-29 06:43:52 | [wgame-macros](https://crates.io/crates/wgame-macros) | 0.1.0 | 0 | Application and window entry point macros for wgame |
+| 2026-09-29 06:46:59 | [qqq-cli](https://crates.io/crates/qqq-cli) | 0.1.0 | 0 | Local-first task queue for coding agent sessions |
+| 2026-09-29 06:48:44 | [rage-cli](https://crates.io/crates/rage-cli) | 0.23.0 | 0 | Swiss-army CLI for RAGE game files: RPF archives, RSC7 resources, textures, ren… |
+| 2026-09-29 06:54:32 | [pageindex-pdf](https://crates.io/crates/pageindex-pdf) | 0.1.0 | 0 | Pure-Rust PDF text-span extraction (positions, fonts, sizes) and bookmark readi… |
+| 2026-09-29 06:54:36 | [pageindex-flash](https://crates.io/crates/pageindex-flash) | 0.1.0 | 0 | LLM-free document outline (table of contents) extraction from PDF layout, for p… |
+| 2026-09-29 06:54:39 | [pageindex](https://crates.io/crates/pageindex) | 0.1.0 | 0 | Local-first, vectorless, reasoning-based RAG: index documents into a tree and l… |
+| 2026-09-29 06:54:42 | [pageindex-cli](https://crates.io/crates/pageindex-cli) | 0.1.0 | 0 | Command-line interface for pageindex: index PDFs and Markdown into trees and ch… |
+| 2026-09-29 06:58:16 | [sancta](https://crates.io/crates/sancta) | 0.0.1 | 0 | WIP |
+| 2026-09-29 07:00:18 | [unity-bundle-assets](https://crates.io/crates/unity-bundle-assets) | 0.1.0 | 0 | Read Unity serialized asset files and asset bundles, and export their sprites a… |
+| 2026-09-29 07:07:03 | [wgame-shader-macros](https://crates.io/crates/wgame-shader-macros) | 0.1.0 | 0 | Shader attribute derive macros for wgame |
+| 2026-09-29 07:09:49 | [voicy-core](https://crates.io/crates/voicy-core) | 1.9.0 | 0 | voicy's speech engines as a library: Qwen3-TTS synthesis, faster-whisper recogn… |
+| 2026-09-29 07:18:27 | [wgame-shader](https://crates.io/crates/wgame-shader) | 0.1.0 | 0 | Typed shader attributes, bindings, and WGSL templates for wgame |
 
 ## Data source
 

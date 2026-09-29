@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T06:22:38.987847Z,cellule-app,0.1.0,0,0,https://github.com/crabbuild/cellule,Dependency-light author API for Cellule applications
+2026-09-29T06:24:27.699346Z,auv-cli,0.0.22,0,0,https://github.com/moeru-ai/auv,AUV core command-line frontend
+2026-09-29T06:27:52.925304Z,skardi-source-pack,0.6.0,0,0,https://github.com/SkardiLabs/skardi,"Executable SaaS connector runtime: requests, pagination, and response interpretation, shared by the engine and by cloud"
+2026-09-29T06:30:21.000124Z,wgame-app-input,0.1.0,0,0,https://github.com/agerasev/wgame,Window event streams for wgame applications
+2026-09-29T06:30:21.692343Z,wgame-fs,0.1.0,0,0,https://github.com/agerasev/wgame,Async native and browser asset loading for wgame
+2026-09-29T06:30:22.536193Z,wgame-gfx,0.1.0,0,0,https://github.com/agerasev/wgame,"Graphics targets, cameras, and retained scenes for wgame"
+2026-09-29T06:30:23.337584Z,wgame-image,0.1.0,0,0,https://github.com/agerasev/wgame,"CPU images, pixel formats, and texture atlases for wgame"
+2026-09-29T06:30:24.068977Z,wgame-input,0.1.0,0,0,https://github.com/agerasev/wgame,Host-independent canvas input and gesture state for wgame
+2026-09-29T06:30:38.094367Z,cellule-host,0.1.0,0,0,https://github.com/crabbuild/cellule,Provider-neutral Cell node lifecycle facade
+2026-09-29T06:34:41.458591Z,wgame-app,0.1.0,0,0,https://github.com/agerasev/wgame,"Cooperative window, task, and timer runtime for wgame"
+2026-09-29T06:40:42.393949Z,cellule-peer-http,0.1.0,0,0,https://github.com/crabbuild/cellule,Authenticated HTTP transport and pinned mTLS for Cellule peers
+2026-09-29T06:43:52.88479Z,wgame-macros,0.1.0,0,0,https://github.com/agerasev/wgame,Application and window entry point macros for wgame
+2026-09-29T06:46:59.296919Z,qqq-cli,0.1.0,0,0,https://github.com/hktonylee/qqq,Local-first task queue for coding agent sessions
+2026-09-29T06:48:44.97064Z,rage-cli,0.23.0,0,0,https://github.com/VIRUXE/rage-cli,"Swiss-army CLI for RAGE game files: RPF archives, RSC7 resources, textures, renders and navmeshes"
+2026-09-29T06:54:32.577159Z,pageindex-pdf,0.1.0,0,0,https://github.com/dan-garden/rust-pageindex,"Pure-Rust PDF text-span extraction (positions, fonts, sizes) and bookmark reading for pageindex"
+2026-09-29T06:54:36.520586Z,pageindex-flash,0.1.0,0,0,https://github.com/dan-garden/rust-pageindex,"LLM-free document outline (table of contents) extraction from PDF layout, for pageindex"
+2026-09-29T06:54:39.904372Z,pageindex,0.1.0,0,0,https://github.com/dan-garden/rust-pageindex,"Local-first, vectorless, reasoning-based RAG: index documents into a tree and let an LLM navigate it"
+2026-09-29T06:54:42.758494Z,pageindex-cli,0.1.0,0,0,https://github.com/dan-garden/rust-pageindex,Command-line interface for pageindex: index PDFs and Markdown into trees and chat with them
+2026-09-29T06:58:16.446836Z,sancta,0.0.1,0,0,https://github.com/enfmarinho/sancta.git,WIP
+2026-09-29T07:00:18.518703Z,unity-bundle-assets,0.1.0,0,0,https://github.com/jtk18/unity-bundle-assets,"Read Unity serialized asset files and asset bundles, and export their sprites and textures as images, in pure Rust"
+2026-09-29T07:07:03.408172Z,wgame-shader-macros,0.1.0,0,0,https://github.com/agerasev/wgame,Shader attribute derive macros for wgame
+2026-09-29T07:09:49.866529Z,voicy-core,1.9.0,0,0,https://github.com/olluorg/voicy,"voicy's speech engines as a library: Qwen3-TTS synthesis, faster-whisper recognition, voice activity and end of turn, in process"
+2026-09-29T07:18:27.743681Z,wgame-shader,0.1.0,0,0,https://github.com/agerasev/wgame,"Typed shader attributes, bindings, and WGSL templates for wgame"
