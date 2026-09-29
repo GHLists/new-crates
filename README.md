@@ -8,36 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 15:19 UTC
+## Latest list — 2026-09-29 16:18 UTC
 
-New crates published between 2026-09-29 14:18 UTC and 2026-09-29 15:19 UTC.
+New crates published between 2026-09-29 15:19 UTC and 2026-09-29 16:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-29T15-19-00-02007Z.csv)
+[Full CSV](data/new-crates-2026-09-29T16-18-59-15248Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-29 14:19:52 | [tabnas-bnf](https://crates.io/crates/tabnas-bnf) | 0.1.22 | 0 | Shared compiler for BNF-family grammar front-ends on the tabnas parser: grammar… |
-| 2026-09-29 14:20:36 | [tabnas-debug](https://crates.io/crates/tabnas-debug) | 0.3.9 | 0 | Tracing and introspection plugin for the tabnas parser engine. |
-| 2026-09-29 14:21:22 | [tabnas-directive](https://crates.io/crates/tabnas-directive) | 0.5.9 | 0 | Directive syntax plugin for the tabnas parser engine. |
-| 2026-09-29 14:21:37 | [bracco](https://crates.io/crates/bracco) | 0.2.0 | 0 | Fast fuzzy file picker: git-modified files first, respects .gitignore |
-| 2026-09-29 14:23:53 | [kcode-k1-chat-thread-ktool-docs-testkit](https://crates.io/crates/kcode-k1-chat-thread-ktool-docs-testkit) | 0.1.0 | 0 | Downstream conformance tests for K1 chat-thread KtoolDocs dispatch |
-| 2026-09-29 14:33:22 | [minifugu](https://crates.io/crates/minifugu) | 0.1.0 | 0 | A keyless local Turbopuffer API emulator with vector and BM25 search |
-| 2026-09-29 14:36:12 | [ironwork-syntax](https://crates.io/crates/ironwork-syntax) | 0.1.1 | 0 | ironwork for COBOL: fixed-format source reader, lexer and parser |
-| 2026-09-29 14:36:14 | [ironwork-zarch](https://crates.io/crates/ironwork-zarch) | 0.1.1 | 0 | ironwork for COBOL: z/Architecture data semantics: EBCDIC code pages, decimal i… |
-| 2026-09-29 14:36:16 | [ironwork-numeric](https://crates.io/crates/ironwork-numeric) | 0.1.1 | 0 | ironwork for COBOL: IBM Enterprise COBOL numeric semantics under ARITH, TRUNC,… |
-| 2026-09-29 14:36:20 | [ironwork-exec](https://crates.io/crates/ironwork-exec) | 0.1.1 | 0 | ironwork for COBOL: storage layout and an interpreter over EBCDIC storage |
-| 2026-09-29 14:36:22 | [ironwork-oracle](https://crates.io/crates/ironwork-oracle) | 0.1.1 | 0 | ironwork for COBOL: test programs whose results settle the model's assumptions… |
-| 2026-09-29 14:38:23 | [qirc-compiler](https://crates.io/crates/qirc-compiler) | 0.1.1 | 0 | Compiler and state vector simulator for QIR, the Quantum Intermediate Represent… |
-| 2026-09-29 14:43:44 | [coxswain-core](https://crates.io/crates/coxswain-core) | 1.0.0 | 0 | Core of Coxswain: config, file operations, git status and an Everything-style f… |
-| 2026-09-29 14:44:03 | [coxswain](https://crates.io/crates/coxswain) | 1.0.0 | 0 | Coxswain: a Norton Commander style file manager for the terminal |
-| 2026-09-29 14:46:43 | [ironwork](https://crates.io/crates/ironwork) | 0.1.1 | 0 | ironwork for COBOL: the compiler driver |
-| 2026-09-29 14:55:48 | [huifu-pay-sdk](https://crates.io/crates/huifu-pay-sdk) | 0.0.0 | 0 | Huifu Rust SDK for Alipay and WeChat H5/PC payments, signed notifications, quer… |
-| 2026-09-29 14:56:13 | [noir-zk-kernels](https://crates.io/crates/noir-zk-kernels) | 0.3.0 | 0 | The generic pipeline kernels of noir-zk (kernel_init, kernel_step, kernel_tail,… |
-| 2026-09-29 14:56:52 | [tabnas-chess](https://crates.io/crates/tabnas-chess) | 0.1.9 | 0 | A Tabnas grammar plugin that parses chess notation: PGN games and the SAN moves… |
-| 2026-09-29 14:58:39 | [huifu-pay](https://crates.io/crates/huifu-pay) | 0.1.0 | 0 | Huifu Rust SDK for Alipay and WeChat H5/PC payments, signed notifications, quer… |
-| 2026-09-29 15:00:58 | [codeowners-parser](https://crates.io/crates/codeowners-parser) | 0.1.0 | 0 | Parser, matcher, and validator for GitHub CODEOWNERS files. Position-aware pars… |
-| 2026-09-29 15:02:12 | [codeowners-lsp](https://crates.io/crates/codeowners-lsp) | 0.18.1 | 0 | Language server providing CODEOWNERS information via hover and inlay hints |
-| 2026-09-29 15:13:23 | [trussed-derive](https://crates.io/crates/trussed-derive) | 0.1.0 | 0 | Derive macros for the trussed crate |
+| 2026-09-29 15:21:37 | [gst-plugin-sap](https://crates.io/crates/gst-plugin-sap) | 0.0.0 | 0 | GStreamer SAP (Session Announcement Protocol) plugin (placeholder) |
+| 2026-09-29 15:32:54 | [nfc-nci](https://crates.io/crates/nfc-nci) | 0.1.0 | 0 | Host side of the NFC Forum NCI 2.x protocol on embedded-hal: packets, RF types… |
+| 2026-09-29 15:36:09 | [strangelove](https://crates.io/crates/strangelove) | 0.0.0 | 0 | Crate for the upcoming Strangelove framework. |
+| 2026-09-29 15:38:38 | [quilt-c](https://crates.io/crates/quilt-c) | 0.1.0 | 0 | The Quilt cell-fabric runtime in C99 — BIND/LINK/EFFECT/VIEW/TICK — with safe R… |
+| 2026-09-29 15:44:46 | [tabnas-hoover](https://crates.io/crates/tabnas-hoover) | 0.3.10 | 0 | Block-delimited string hoovering plugin for the tabnas parser engine. |
+| 2026-09-29 15:45:47 | [capsule-emit-evidence-request](https://crates.io/crates/capsule-emit-evidence-request) | 0.0.1 | 0 | The evidence request protocol (draft-mih-agent-evidence-request-00): parse and… |
+| 2026-09-29 15:53:52 | [mpv-wgpu](https://crates.io/crates/mpv-wgpu) | 0.1.0 | 0 | Draw caller-owned YUV or RGBA pictures into a caller-owned wgpu texture |
+| 2026-09-29 15:53:55 | [mpv-wgpu-player](https://crates.io/crates/mpv-wgpu-player) | 0.1.0 | 0 | Headless libmpv playback into a caller-owned wgpu texture |
+| 2026-09-29 15:54:00 | [oxilite-synalog](https://crates.io/crates/oxilite-synalog) | 0.9.0 | 0 | Synalog over oxilite: the agent-oriented Datalog-family language, run on the tr… |
+| 2026-09-29 16:01:01 | [checkpointed-local-log](https://crates.io/crates/checkpointed-local-log) | 0.2.0 | 0 | Checkpointed Local Log (CLL): Merkle Mountain Range, signed COSE checkpoints, p… |
+| 2026-09-29 16:03:32 | [sootmark-prefetch](https://crates.io/crates/sootmark-prefetch) | 0.1.0 | 0 | Windows Prefetch (.pf) parser, versions 17 to 31, with its own LZ77+Huffman (MS… |
+| 2026-09-29 16:08:21 | [dre-protocol](https://crates.io/crates/dre-protocol) | 0.1.0-alpha-1 | 0 | The DRE plugin protocol: frames, messages, host side, plugin SDK and conformanc… |
+| 2026-09-29 16:09:05 | [dre-core](https://crates.io/crates/dre-core) | 0.0.1-alpha-13 | 0 | DRE core engine: project parsing, validation and the run path |
+| 2026-09-29 16:09:33 | [geri-proto](https://crates.io/crates/geri-proto) | 0.1.0 | 0 | Wire protocol, value model, and batch contracts for the Géri telemetry & contro… |
+| 2026-09-29 16:09:40 | [dre-cli](https://crates.io/crates/dre-cli) | 0.0.1-alpha-13 | 0 | The dre command-line interface |
+| 2026-09-29 16:09:45 | [pipecircuit-http1](https://crates.io/crates/pipecircuit-http1) | 0.0.2 | 0 | Pure HTTP/1 state machines for Pipecircuit |
+| 2026-09-29 16:09:53 | [pipecircuit-tcp](https://crates.io/crates/pipecircuit-tcp) | 0.0.2 | 0 | Pure TCP participants for Pipecircuit |
+| 2026-09-29 16:10:06 | [dpawns](https://crates.io/crates/dpawns) | 0.1.0 | 0 | An init system meant to be simple and reliable. |
+| 2026-09-29 16:10:43 | [evidencebook](https://crates.io/crates/evidencebook) | 0.0.1 | 0 | Evidence book: records, epistemic types, typed links, retention, disclosure, in… |
+| 2026-09-29 16:12:30 | [pipecircuit-websocket](https://crates.io/crates/pipecircuit-websocket) | 0.0.1 | 0 | WebSocket opening, protocol state, and endpoint circuit for Pipecircuit |
+| 2026-09-29 16:12:40 | [pipecircuit-mio](https://crates.io/crates/pipecircuit-mio) | 0.0.1 | 0 | Mio transports and reactor integration for Pipecircuit |
+| 2026-09-29 16:12:53 | [pipecircuit-websocket-server](https://crates.io/crates/pipecircuit-websocket-server) | 0.0.1 | 0 | Pure WebSocket server state and routing for Pipecircuit |
+| 2026-09-29 16:13:41 | [pipecircuit-websocket-server-mio](https://crates.io/crates/pipecircuit-websocket-server-mio) | 0.0.1 | 0 | Ready-to-run Mio WebSocket server for Pipecircuit |
+| 2026-09-29 16:14:16 | [oj_deno_process](https://crates.io/crates/oj_deno_process) | 0.2.14 | 0 | oj's fork of deno_process: child process groups + spawn hook |
 
 ## Data source
 

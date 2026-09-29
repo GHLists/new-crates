@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T15:21:37.415328Z,gst-plugin-sap,0.0.0,0,0,https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs,GStreamer SAP (Session Announcement Protocol) plugin (placeholder)
+2026-09-29T15:32:54.419936Z,nfc-nci,0.1.0,0,0,https://github.com/georgesFoundation/nfc-nci,"Host side of the NFC Forum NCI 2.x protocol on embedded-hal: packets, RF types and the I2C link, shared by NFC controller drivers"
+2026-09-29T15:36:09.971922Z,strangelove,0.0.0,0,0,,Crate for the upcoming Strangelove framework.
+2026-09-29T15:38:38.342643Z,quilt-c,0.1.0,0,0,https://github.com/SuperInstance/quilt-c,The Quilt cell-fabric runtime in C99 — BIND/LINK/EFFECT/VIEW/TICK — with safe Rust bindings over the reference kernel.
+2026-09-29T15:44:46.101342Z,tabnas-hoover,0.3.10,0,0,https://github.com/tabnas/hoover,Block-delimited string hoovering plugin for the tabnas parser engine.
+2026-09-29T15:45:47.744733Z,capsule-emit-evidence-request,0.0.1,0,0,https://github.com/action-state-group/capsule-emit,"The evidence request protocol (draft-mih-agent-evidence-request-00): parse and digest requests, resolve them exactly, sign and verify refusals, and classify outcomes, invariance and retention."
+2026-09-29T15:53:52.237594Z,mpv-wgpu,0.1.0,0,0,https://github.com/PoHsuanLai/mpv-wgpu,Draw caller-owned YUV or RGBA pictures into a caller-owned wgpu texture
+2026-09-29T15:53:55.779236Z,mpv-wgpu-player,0.1.0,0,0,https://github.com/PoHsuanLai/mpv-wgpu,Headless libmpv playback into a caller-owned wgpu texture
+2026-09-29T15:54:00.745496Z,oxilite-synalog,0.9.0,0,0,https://github.com/Volland/oxilite,"Synalog over oxilite: the agent-oriented Datalog-family language, run on the triple store (native and Cloudflare D1)"
+2026-09-29T16:01:01.003658Z,checkpointed-local-log,0.2.0,0,0,https://github.com/action-state-group/checkpointed-local-log,"Checkpointed Local Log (CLL): Merkle Mountain Range, signed COSE checkpoints, per-record range proofs, and witness registration -- a Rust sibling of the checkpointed-local-log Python reference, shari…"
+2026-09-29T16:03:32.908179Z,sootmark-prefetch,0.1.0,0,0,https://github.com/Sootmark/prefetch,"Windows Prefetch (.pf) parser, versions 17 to 31, with its own LZ77+Huffman (MS-XCA) decompression."
+2026-09-29T16:08:21.743943Z,dre-protocol,0.1.0-alpha-1,0,0,https://github.com/allenhori/dre,"The DRE plugin protocol: frames, messages, host side, plugin SDK and conformance suite"
+2026-09-29T16:09:05.805299Z,dre-core,0.0.1-alpha-13,0,0,https://github.com/allenhori/dre,"DRE core engine: project parsing, validation and the run path"
+2026-09-29T16:09:33.279323Z,geri-proto,0.1.0,0,0,https://github.com/caneroglu/geri,"Wire protocol, value model, and batch contracts for the Géri telemetry & control plane."
+2026-09-29T16:09:40.739509Z,dre-cli,0.0.1-alpha-13,0,0,https://github.com/allenhori/dre,The dre command-line interface
+2026-09-29T16:09:45.777724Z,pipecircuit-http1,0.0.2,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Pure HTTP/1 state machines for Pipecircuit
+2026-09-29T16:09:53.415649Z,pipecircuit-tcp,0.0.2,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Pure TCP participants for Pipecircuit
+2026-09-29T16:10:06.190058Z,dpawns,0.1.0,0,0,https://github.com/mustafaelrasheid/dpawns,An init system meant to be simple and reliable.
+2026-09-29T16:10:43.876616Z,evidencebook,0.0.1,0,0,https://github.com/action-state-group/checkpointed-local-log,"Evidence book: records, epistemic types, typed links, retention, disclosure, index classes, request answers and reconcile/close over an embedded Checkpointed Local Log -- a Rust implementation of the…"
+2026-09-29T16:12:30.625317Z,pipecircuit-websocket,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,"WebSocket opening, protocol state, and endpoint circuit for Pipecircuit"
+2026-09-29T16:12:40.13115Z,pipecircuit-mio,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Mio transports and reactor integration for Pipecircuit
+2026-09-29T16:12:53.7855Z,pipecircuit-websocket-server,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Pure WebSocket server state and routing for Pipecircuit
+2026-09-29T16:13:41.460761Z,pipecircuit-websocket-server-mio,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Ready-to-run Mio WebSocket server for Pipecircuit
+2026-09-29T16:14:16.214291Z,oj_deno_process,0.2.14,0,0,https://github.com/lovablelabs/oj,oj's fork of deno_process: child process groups + spawn hook
