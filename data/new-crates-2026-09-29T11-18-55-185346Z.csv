@@ -1,0 +1,14 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T10:24:02.641235Z,bitmule,0.0.1,0,0,,Server assisted end-to-end encrypted file transfer tool
+2026-09-29T10:28:37.31283Z,more1090,0.1.0,0,0,https://github.com/daniestevez/more1090/,ADS-B receiver and Mode-S signal simulator
+2026-09-29T10:42:11.685233Z,zoomify,0.1.0-beta.1,0,0,https://github.com/iolitetech/Zoomify,"Windows screen zoom, annotation, spotlight and presentation-timer overlay"
+2026-09-29T10:47:31.492701Z,mmwave-tlv-derive,0.1.0,0,0,https://github.com/MaximFischuk/mmwave-tlv-rs,Derive macros for decoding Texas Instruments mmWave radar TLV packets with mmwave-tlv.
+2026-09-29T10:47:36.840038Z,mmwave-tlv,0.1.0,0,0,https://github.com/MaximFischuk/mmwave-tlv-rs,"A Rust library for decoding TLV (Type-Length-Value) packets of Texas Instruments' mmWave radars (IWR6843, IWR1443, etc.)."
+2026-09-29T10:56:20.180331Z,spawnfate,0.1.0,0,0,https://github.com/losewayy/spawnfate,"Predict the fate of a Windows command line before you spawn it — layered simulation of name resolution, argv serialization, cmd.exe re-parsing, and target argv parsing."
+2026-09-29T10:57:20.822392Z,orbit-auth,0.5.2,0,0,https://github.com/iadev09/orbitive,"Fleet-backed encrypted tokens, cached principals, sessions and atomic refresh/replay."
+2026-09-29T10:57:46.897962Z,sunmao-llm,0.2.0,0,0,https://github.com/losewayy/sunmao,"Provider protocol adapters for sunmao: hand-rolled SSE, OpenAI-compatible dialect first"
+2026-09-29T10:58:11.151612Z,sunmao-core,0.2.0,0,0,https://github.com/losewayy/sunmao,"sunmao kernel: event-sourced sessions, tool registry, agent loop, seams"
+2026-09-29T10:59:43.819384Z,sunmao,0.2.0,0,0,https://github.com/losewayy/sunmao,sunmao CLI — agent harness kernel frontend
+2026-09-29T11:08:52.596318Z,yamluna-scanner,0.1.1,0,0,https://github.com/fedonman/yamluna,"YAML 1.2 scanner/parser for yamluna: a fork of saphyr-parser that keeps comments, collection styles and anchor names."
+2026-09-29T11:09:06.507373Z,yamluna-core,0.1.1,0,0,https://github.com/fedonman/yamluna,"Round-trip YAML document model, loader and emitter for yamluna."
+2026-09-29T11:13:46.837248Z,lateweave,0.1.0,0,0,https://github.com/pau-mensa/lateweave,Composable candidate generation and optional late-interaction reranking

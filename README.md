@@ -8,37 +8,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 10:22 UTC
+## Latest list — 2026-09-29 11:18 UTC
 
-New crates published between 2026-09-29 09:18 UTC and 2026-09-29 10:22 UTC.
+New crates published between 2026-09-29 10:22 UTC and 2026-09-29 11:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-29T10-22-54-576729Z.csv)
+[Full CSV](data/new-crates-2026-09-29T11-18-55-185346Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-29 09:19:05 | [cdyn-loader](https://crates.io/crates/cdyn-loader) | 0.1.0 | 0 | The C interface-table layer of the dyn loading protocol: positional #[repr(C)]… |
-| 2026-09-29 09:21:15 | [dyn-support](https://crates.io/crates/dyn-support) | 0.1.0 | 0 | Build-time delivery for modules following the dyn loading protocol: read the [d… |
-| 2026-09-29 09:23:27 | [dyn-cli](https://crates.io/crates/dyn-cli) | 0.1.0 | 0 | Publishing and configuration for modules delivered over the dyn protocol. Sits… |
-| 2026-09-29 09:23:37 | [nautilus-schwab](https://crates.io/crates/nautilus-schwab) | 0.1.0 | 0 | Charles Schwab adapter for Nautilus Trader |
-| 2026-09-29 09:24:35 | [willbooster-tree-sitter](https://crates.io/crates/willbooster-tree-sitter) | 0.0.0-placeholder.0 | 0 | WillBooster's fork of the Tree-sitter parsing library, with Rust bindings |
-| 2026-09-29 09:32:46 | [willbooster-tree-sitter-rust](https://crates.io/crates/willbooster-tree-sitter-rust) | 0.0.0-placeholder.0 | 0 | Rust grammar for tree-sitter |
-| 2026-09-29 09:32:52 | [willbooster-tree-sitter-javascript](https://crates.io/crates/willbooster-tree-sitter-javascript) | 0.0.0-placeholder.0 | 0 | JavaScript grammar for tree-sitter |
-| 2026-09-29 09:32:58 | [willbooster-tree-sitter-typescript](https://crates.io/crates/willbooster-tree-sitter-typescript) | 0.0.0-placeholder.0 | 0 | TypeScript and TSX grammars for tree-sitter |
-| 2026-09-29 09:33:04 | [willbooster-tree-sitter-c](https://crates.io/crates/willbooster-tree-sitter-c) | 0.0.0-placeholder.0 | 0 | C grammar for tree-sitter |
-| 2026-09-29 09:33:10 | [willbooster-tree-sitter-cpp](https://crates.io/crates/willbooster-tree-sitter-cpp) | 0.0.0-placeholder.0 | 0 | C++ grammar for tree-sitter |
-| 2026-09-29 09:33:21 | [tomcatctl](https://crates.io/crates/tomcatctl) | 0.2.2 | 0 | Start Apache Tomcat from predefined configs instead of hand-written catalina.sh… |
-| 2026-09-29 09:39:41 | [knott_ui](https://crates.io/crates/knott_ui) | 0.1.0 | 0 | Rae: a tactile egui design system with 25 themes, accessible widgets, and deskt… |
-| 2026-09-29 09:40:33 | [willbooster-tree-sitter-c-sharp](https://crates.io/crates/willbooster-tree-sitter-c-sharp) | 0.0.0-placeholder.0 | 0 | C# grammar for tree-sitter |
-| 2026-09-29 09:45:21 | [amadeus-emote-loader](https://crates.io/crates/amadeus-emote-loader) | 0.1.0 | 0 | E-mote (EMT/PSB) model data layer: parse, adapt for the legacy runtime, and bak… |
-| 2026-09-29 09:46:41 | [iroh-services-proto](https://crates.io/crates/iroh-services-proto) | 0.1.0 | 0 | Raw wire types for iroh-services protocol implementations |
-| 2026-09-29 09:47:42 | [aradsh](https://crates.io/crates/aradsh) | 0.1.0 | 0 | A small interactive shell with compressed output mode for automation and LLM ag… |
-| 2026-09-29 09:50:23 | [havax](https://crates.io/crates/havax) | 0.1.5 | 0 | A modal, Helix-like terminal editor for Rust development |
-| 2026-09-29 09:51:59 | [socket-epoll-server](https://crates.io/crates/socket-epoll-server) | 0.1.0 | 0 | Single-threaded Unix domain socket server built on Linux epoll |
-| 2026-09-29 09:54:02 | [document_formulas_macros](https://crates.io/crates/document_formulas_macros) | 0.0.0 | 0 | Procedural macros for document_formulas: document function-body math as KaTeX f… |
-| 2026-09-29 09:54:12 | [document_formulas](https://crates.io/crates/document_formulas) | 0.2.0 | 0 | KaTeX-rendered math formulas in your rustdoc, extracted from function bodies |
-| 2026-09-29 09:57:27 | [mrledger](https://crates.io/crates/mrledger) | 1.0.1 | 0 | Somewhere to keep your secrets! |
-| 2026-09-29 10:08:59 | [argus-scanner](https://crates.io/crates/argus-scanner) | 0.2.0 | 0 | Fast supply-chain attack indicator scanner for repositories and CI workflows (l… |
-| 2026-09-29 10:22:33 | [lenso-auth-api-token-plugin](https://crates.io/crates/lenso-auth-api-token-plugin) | 0.1.2 | 0 | PostgreSQL-backed opaque API token Auth Plugin for Lenso vNext. |
+| 2026-09-29 10:24:02 | [bitmule](https://crates.io/crates/bitmule) | 0.0.1 | 0 | Server assisted end-to-end encrypted file transfer tool |
+| 2026-09-29 10:28:37 | [more1090](https://crates.io/crates/more1090) | 0.1.0 | 0 | ADS-B receiver and Mode-S signal simulator |
+| 2026-09-29 10:42:11 | [zoomify](https://crates.io/crates/zoomify) | 0.1.0-beta.1 | 0 | Windows screen zoom, annotation, spotlight and presentation-timer overlay |
+| 2026-09-29 10:47:31 | [mmwave-tlv-derive](https://crates.io/crates/mmwave-tlv-derive) | 0.1.0 | 0 | Derive macros for decoding Texas Instruments mmWave radar TLV packets with mmwa… |
+| 2026-09-29 10:47:36 | [mmwave-tlv](https://crates.io/crates/mmwave-tlv) | 0.1.0 | 0 | A Rust library for decoding TLV (Type-Length-Value) packets of Texas Instrument… |
+| 2026-09-29 10:56:20 | [spawnfate](https://crates.io/crates/spawnfate) | 0.1.0 | 0 | Predict the fate of a Windows command line before you spawn it — layered simula… |
+| 2026-09-29 10:57:20 | [orbit-auth](https://crates.io/crates/orbit-auth) | 0.5.2 | 0 | Fleet-backed encrypted tokens, cached principals, sessions and atomic refresh/r… |
+| 2026-09-29 10:57:46 | [sunmao-llm](https://crates.io/crates/sunmao-llm) | 0.2.0 | 0 | Provider protocol adapters for sunmao: hand-rolled SSE, OpenAI-compatible diale… |
+| 2026-09-29 10:58:11 | [sunmao-core](https://crates.io/crates/sunmao-core) | 0.2.0 | 0 | sunmao kernel: event-sourced sessions, tool registry, agent loop, seams |
+| 2026-09-29 10:59:43 | [sunmao](https://crates.io/crates/sunmao) | 0.2.0 | 0 | sunmao CLI — agent harness kernel frontend |
+| 2026-09-29 11:08:52 | [yamluna-scanner](https://crates.io/crates/yamluna-scanner) | 0.1.1 | 0 | YAML 1.2 scanner/parser for yamluna: a fork of saphyr-parser that keeps comment… |
+| 2026-09-29 11:09:06 | [yamluna-core](https://crates.io/crates/yamluna-core) | 0.1.1 | 0 | Round-trip YAML document model, loader and emitter for yamluna. |
+| 2026-09-29 11:13:46 | [lateweave](https://crates.io/crates/lateweave) | 0.1.0 | 0 | Composable candidate generation and optional late-interaction reranking |
 
 ## Data source
 
