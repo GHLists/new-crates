@@ -8,37 +8,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 01:19 UTC
+## Latest list — 2026-09-29 02:20 UTC
 
-New crates published between 2026-09-29 00:21 UTC and 2026-09-29 01:19 UTC.
+New crates published between 2026-09-29 01:19 UTC and 2026-09-29 02:20 UTC.
 
-[Full CSV](data/new-crates-2026-09-29T01-19-51-298811Z.csv)
+[Full CSV](data/new-crates-2026-09-29T02-20-02-888703Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-29 00:23:13 | [reallyme-openid4vp-http](https://crates.io/crates/reallyme-openid4vp-http) | 0.1.1 | 0 | Optional OpenID4VP HTTP transport adapter traits. |
-| 2026-09-29 00:26:14 | [yas-proxy](https://crates.io/crates/yas-proxy) | 0.4.0 | 0 | yas connection pool and protocol-transparent proxy |
-| 2026-09-29 00:26:28 | [deser-transcode](https://crates.io/crates/deser-transcode) | 0.9.0 | 0 | Converts values from one data format to another with deser |
-| 2026-09-29 00:29:00 | [senddart](https://crates.io/crates/senddart) | 1.0.0 | 0 | Official Rust SDK for the SendDart email API — send transactional and marketing… |
-| 2026-09-29 00:32:18 | [tauri-plugin-audioplayer](https://crates.io/crates/tauri-plugin-audioplayer) | 0.1.0 | 0 | Tauri Audioplayer Plugin |
-| 2026-09-29 00:33:40 | [reallyme-openid4vp-proto-codec](https://crates.io/crates/reallyme-openid4vp-proto-codec) | 0.1.1 | 0 | Buffa protobuf transport mappings for ReallyMe OpenID4VP. |
-| 2026-09-29 00:36:32 | [deser-validate](https://crates.io/crates/deser-validate) | 0.9.0 | 0 | Validation for deser |
-| 2026-09-29 00:43:09 | [reallyme-openid4vp-runtime](https://crates.io/crates/reallyme-openid4vp-runtime) | 0.1.1 | 0 | Runtime protobuf operations and HTTP adapters for ReallyMe OpenID4VP. |
-| 2026-09-29 00:45:50 | [mimalloc-rich-sys](https://crates.io/crates/mimalloc-rich-sys) | 0.1.0-alpha.0+2.5.2 | 0 | Raw binidngs to the mimalloc library |
-| 2026-09-29 00:45:52 | [mimalloc-rich](https://crates.io/crates/mimalloc-rich) | 0.1.0-alpha.0 | 0 | High-level bindings to the mimalloc allocator |
-| 2026-09-29 00:46:18 | [deser-yaml](https://crates.io/crates/deser-yaml) | 0.9.0 | 0 | YAML support for deser |
-| 2026-09-29 00:49:00 | [symworx-dbsym-tui](https://crates.io/crates/symworx-dbsym-tui) | 0.5.0 | 0 | Read-only terminal browser for dbSym catalogs (SQLite and Postgres) |
-| 2026-09-29 00:53:35 | [reallyme-openid4vp](https://crates.io/crates/reallyme-openid4vp) | 0.1.1 | 0 | ReallyMe OpenID4VP protocol facade. |
-| 2026-09-29 00:54:39 | [undxf](https://crates.io/crates/undxf) | 0.1.0 | 0 | A second, permissive DXF reader for the uncad-model entity model: ASCII DXF in,… |
-| 2026-09-29 00:56:32 | [deser-value](https://crates.io/crates/deser-value) | 0.9.0 | 0 | A dynamic value type for deser |
-| 2026-09-29 01:03:08 | [yas-cros-codecs](https://crates.io/crates/yas-cros-codecs) | 0.0.6-yas.1 | 0 | ChromeOS cros-codecs with the YAS stateless decoder changes |
-| 2026-09-29 01:03:26 | [yas-server](https://crates.io/crates/yas-server) | 0.4.0 | 0 | yas terminal multiplexer server |
-| 2026-09-29 01:03:32 | [yas-edge](https://crates.io/crates/yas-edge) | 0.4.0 | 0 | YAS browser edge service |
-| 2026-09-29 01:03:38 | [yas-client](https://crates.io/crates/yas-client) | 0.4.0 | 0 | Rust client for YAS servers: processes, files, terminals, surfaces, KV |
-| 2026-09-29 01:03:45 | [yas-cli](https://crates.io/crates/yas-cli) | 0.4.0 | 0 | yas terminal client |
-| 2026-09-29 01:06:17 | [deser-csv](https://crates.io/crates/deser-csv) | 0.9.0 | 0 | CSV, TSV and other delimited text for deser |
-| 2026-09-29 01:08:35 | [iron-pack-cad](https://crates.io/crates/iron-pack-cad) | 0.1.0 | 0 | A CAD drawing as a package an LLM or a vision model can read: sized images, a t… |
-| 2026-09-29 01:16:33 | [deser-hj](https://crates.io/crates/deser-hj) | 0.9.0 | 0 | Hjson support for deser |
+| 2026-09-29 01:26:15 | [deser-json5](https://crates.io/crates/deser-json5) | 0.9.0 | 0 | JSON5 support for deser |
+| 2026-09-29 01:33:11 | [portctl](https://crates.io/crates/portctl) | 0.1.1 | 0 | Cross-platform CLI to find, kill, and list processes occupying network ports (L… |
+| 2026-09-29 01:36:29 | [deser-urlencoded](https://crates.io/crates/deser-urlencoded) | 0.9.0 | 0 | Query strings and form data (application/x-www-form-urlencoded) for deser |
+| 2026-09-29 01:36:44 | [orbit-link](https://crates.io/crates/orbit-link) | 0.5.0 | 0 | Named reusable duplex sessions between members of an Orbit fleet. |
+| 2026-09-29 01:42:28 | [cqlib-tianyan](https://crates.io/crates/cqlib-tianyan) | 0.1.0-beta.1 | 0 | client for the Tianyan quantum cloud platform — authentication, device manageme… |
+| 2026-09-29 01:46:19 | [deser-xml](https://crates.io/crates/deser-xml) | 0.9.0 | 0 | XML support for deser |
+| 2026-09-29 01:52:39 | [aff4-image](https://crates.io/crates/aff4-image) | 0.1.0 | 0 | Experimental Rust reader, verifier, and writer for AFF4 evidence containers |
+| 2026-09-29 01:55:06 | [win-nightlight-lib](https://crates.io/crates/win-nightlight-lib) | 0.1.0 | 0 | Read and modify Windows 11 Night Light state and settings in the registry |
+| 2026-09-29 01:55:08 | [win-nightlight-cli](https://crates.io/crates/win-nightlight-cli) | 0.1.0 | 0 | Command-line tool to toggle and configure Windows 11 Night Light |
+| 2026-09-29 01:55:42 | [rpi-plan-mode](https://crates.io/crates/rpi-plan-mode) | 0.1.3 | 0 | CodeX-like plan mode for the rpi Rust agent |
+| 2026-09-29 02:02:46 | [acorn-cmd](https://crates.io/crates/acorn-cmd) | 0.3.2 | 0 | Command construction and execution utilities for ACORN |
+| 2026-09-29 02:02:53 | [acorn-host](https://crates.io/crates/acorn-host) | 0.3.2 | 0 | Narrow native host adapters for ACORN consumers |
+| 2026-09-29 02:06:26 | [monica_pastey](https://crates.io/crates/monica_pastey) | 0.2.4 | 0 | Macros for all your token pasting needs. Successor of paste. |
+| 2026-09-29 02:14:48 | [monica_rand_core](https://crates.io/crates/monica_rand_core) | 0.10.1 | 0 | Core random number generation traits and tools for implementation. |
+| 2026-09-29 02:18:32 | [aleo-rust-sdk](https://crates.io/crates/aleo-rust-sdk) | 0.1.0 | 0 | Rust SDK for interacting with the Aleo blockchain — accounts, programs, executi… |
 
 ## Data source
 
