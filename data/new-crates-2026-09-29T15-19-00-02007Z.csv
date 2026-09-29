@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T14:19:52.065622Z,tabnas-bnf,0.1.22,0,0,https://github.com/tabnas/bnf,"Shared compiler for BNF-family grammar front-ends on the tabnas parser: grammar IR in, tabnas GrammarSpec out"
+2026-09-29T14:20:36.769713Z,tabnas-debug,0.3.9,0,0,https://github.com/tabnas/debug,Tracing and introspection plugin for the tabnas parser engine.
+2026-09-29T14:21:22.862232Z,tabnas-directive,0.5.9,0,0,https://github.com/tabnas/directive,Directive syntax plugin for the tabnas parser engine.
+2026-09-29T14:21:37.027132Z,bracco,0.2.0,0,0,https://github.com/rawnly/bracco,"Fast fuzzy file picker: git-modified files first, respects .gitignore"
+2026-09-29T14:23:53.544682Z,kcode-k1-chat-thread-ktool-docs-testkit,0.1.0,0,0,,Downstream conformance tests for K1 chat-thread KtoolDocs dispatch
+2026-09-29T14:33:22.344989Z,minifugu,0.1.0,0,0,https://github.com/Symbolic-ai/minifugu,A keyless local Turbopuffer API emulator with vector and BM25 search
+2026-09-29T14:36:12.84798Z,ironwork-syntax,0.1.1,0,0,https://github.com/Portll/ironwork,"ironwork for COBOL: fixed-format source reader, lexer and parser"
+2026-09-29T14:36:14.161758Z,ironwork-zarch,0.1.1,0,0,https://github.com/Portll/ironwork,"ironwork for COBOL: z/Architecture data semantics: EBCDIC code pages, decimal instructions, hexadecimal floating point"
+2026-09-29T14:36:16.874522Z,ironwork-numeric,0.1.1,0,0,https://github.com/Portll/ironwork,"ironwork for COBOL: IBM Enterprise COBOL numeric semantics under ARITH, TRUNC, NUMPROC and CODEPAGE"
+2026-09-29T14:36:20.635064Z,ironwork-exec,0.1.1,0,0,https://github.com/Portll/ironwork,ironwork for COBOL: storage layout and an interpreter over EBCDIC storage
+2026-09-29T14:36:22.024399Z,ironwork-oracle,0.1.1,0,0,https://github.com/Portll/ironwork,ironwork for COBOL: test programs whose results settle the model's assumptions against a real compiler
+2026-09-29T14:38:23.512906Z,qirc-compiler,0.1.1,0,0,https://github.com/AngadBasandrai/qirc,"Compiler and state vector simulator for QIR, the Quantum Intermediate Representation"
+2026-09-29T14:43:44.51409Z,coxswain-core,1.0.0,0,0,https://github.com/mwo-dk/coxswain,"Core of Coxswain: config, file operations, git status and an Everything-style file name index"
+2026-09-29T14:44:03.447598Z,coxswain,1.0.0,0,0,https://github.com/mwo-dk/coxswain,Coxswain: a Norton Commander style file manager for the terminal
+2026-09-29T14:46:43.849224Z,ironwork,0.1.1,0,0,https://github.com/Portll/ironwork,ironwork for COBOL: the compiler driver
+2026-09-29T14:55:48.989223Z,huifu-pay-sdk,0.0.0,0,0,https://github.com/noxue/huifu-pay,"Huifu Rust SDK for Alipay and WeChat H5/PC payments, signed notifications, queries, and refunds."
+2026-09-29T14:56:13.914903Z,noir-zk-kernels,0.3.0,0,0,https://github.com/zk-experiments/noir-zk,"The generic pipeline kernels of noir-zk (kernel_init, kernel_step, kernel_tail, kernel_hiding): Noir source, frozen keys and bundled bytecode, versioned with noir-zk"
+2026-09-29T14:56:52.572547Z,tabnas-chess,0.1.9,0,0,https://github.com/tabnas/chess,A Tabnas grammar plugin that parses chess notation: PGN games and the SAN moves inside them.
+2026-09-29T14:58:39.136157Z,huifu-pay,0.1.0,0,0,https://github.com/noxue/huifu-pay,"Huifu Rust SDK for Alipay and WeChat H5/PC payments, signed notifications, queries, and refunds."
+2026-09-29T15:00:58.688837Z,codeowners-parser,0.1.0,0,0,https://github.com/radiosilence/codeowners-lsp,"Parser, matcher, and validator for GitHub CODEOWNERS files. Position-aware parsing for editor tooling, fast glob matching, and rule-subsumption analysis for dead-code detection."
+2026-09-29T15:02:12.373682Z,codeowners-lsp,0.18.1,0,0,https://github.com/radiosilence/codeowners-lsp,Language server providing CODEOWNERS information via hover and inlay hints
+2026-09-29T15:13:23.257075Z,trussed-derive,0.1.0,0,0,,Derive macros for the trussed crate
