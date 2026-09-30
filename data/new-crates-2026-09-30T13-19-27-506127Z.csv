@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T12:18:38.18711Z,cordis-pdk,0.0.1,0,0,https://github.com/dshbox/cordis-rs,Guest SDK (PDK) for authoring Cordis WASM plugins.
+2026-09-30T12:18:45.443271Z,cordis-wasm-guest,0.0.1,0,0,https://github.com/dshbox/cordis-rs,Alias/facade crate for the Cordis guest SDK.
+2026-09-30T12:19:07.613002Z,packet-dissector-gtpv1c,0.5.0,1,1,https://github.com/higebu/packet-dissector,GTPv1-C dissector for packet-dissector
+2026-09-30T12:19:10.289332Z,packet-dissector-nas-eps,0.5.0,1,1,https://github.com/higebu/packet-dissector,EPS NAS (TS 24.301) dissector for packet-dissector
+2026-09-30T12:19:12.835154Z,packet-dissector-pppoe,0.5.0,1,1,https://github.com/higebu/packet-dissector,PPPoE (RFC 2516) dissector for packet-dissector
+2026-09-30T12:20:51.671202Z,nizaam-indexing,1.0.0,0,0,https://github.com/nizaam-islamic-ecosystem/indexing-engine,Indexing and retrieval engine built on top of Nizaam Core
+2026-09-30T12:22:02.788461Z,faucet-sink-oracle,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,Oracle Database sink for the faucet-stream ecosystem
+2026-09-30T12:22:51.990826Z,faucet-source-dynamodb,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,"Amazon DynamoDB source (parallel scan, query, Streams CDC) for the faucet-stream ecosystem"
+2026-09-30T12:24:09.242283Z,faucet-source-iceberg,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,"Apache Iceberg table source for the faucet-stream ecosystem — projection, pushdown, time travel, incremental snapshot reads"
+2026-09-30T12:24:17.617288Z,faucet-source-oracle,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,Oracle Database query source for the faucet-stream ecosystem
+2026-09-30T12:24:24.448273Z,faucet-source-oracle-cdc,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,Oracle Database CDC (LogMiner) source for the faucet-stream ecosystem
+2026-09-30T12:28:20.395335Z,tabit-session,0.1.0,0,0,https://github.com/JerryAZR/tabit,Tabit session layer: persistent agent sessions over the tabit-engine outer loop.
+2026-09-30T12:32:27.319809Z,packet-dissector-eap,0.5.0,0,0,https://github.com/higebu/packet-dissector,EAP (RFC 3748) and EAPOL (IEEE 802.1X) dissector for packet-dissector
+2026-09-30T12:32:30.385272Z,packet-dissector-sgsap,0.5.0,0,0,https://github.com/higebu/packet-dissector,"SGsAP (SGs Application Part, 3GPP TS 29.118) dissector for packet-dissector"
+2026-09-30T12:37:39.004085Z,storageprims-core,0.1.2,0,0,https://github.com/3leaps/storageprims,"Core traits, error types, and URI parsing for storageprims"
+2026-09-30T12:37:40.648082Z,source_sdk_2013_declmacros,0.1.0-alpha.3,0,0,https://github.com/Cryotheus/rust_source_sdk_2013,Declarative macros re-exported by the source_sdk_2013 crate
+2026-09-30T12:38:18.673176Z,tabit-ext,0.1.0,0,0,https://github.com/JerryAZR/tabit,Tabit extension host: subprocess extensions over the frozen JSONL pipe.
+2026-09-30T12:38:53.383816Z,vd6283,0.1.0,0,0,https://github.com/ChisaJiang/vd6283-rs,no_std embedded-hal driver for the ST VD6283 color and flicker sensor
+2026-09-30T12:38:53.387954Z,storageprims-s3,0.1.2,0,0,https://github.com/3leaps/storageprims,AWS S3 and S3-compatible provider for storageprims
+2026-09-30T12:39:18.107385Z,storageprims-ops,0.1.2,0,0,https://github.com/3leaps/storageprims,Line-oriented operations built on storageprims providers
+2026-09-30T12:46:43.77486Z,vahta,0.0.0,0,0,,Encrypted secret vault and harness-boundary guard so AI agents can use credentials without ever seeing their values
+2026-09-30T12:48:19.435775Z,tabit-ext-install,0.1.0,0,0,https://github.com/JerryAZR/tabit,"Tabit extension installation: npm/git/path sources, disk as the single truth."
+2026-09-30T12:49:42.432014Z,bake-readme,0.1.0,0,0,https://github.com/socketry/bake-readme-rust,Reusable readme.md maintenance tasks for Bake
+2026-09-30T12:50:07.153631Z,burn_gekko_data,0.1.0,0,0,https://github.com/mosure/burn_gekko,"Procedural multi-view dataset contracts, geometry and immutable disk caches"
+2026-09-30T12:50:07.722106Z,burn_vjepa,0.1.0,0,0,https://github.com/mosure/burn_gekko,"V-JEPA 2.1 vision encoders, sparse tokens and audited checkpoint loading in Burn"
+2026-09-30T12:50:08.605853Z,burn_gekko_eval,0.1.0,0,0,https://github.com/mosure/burn_gekko,"Native metrics, camera protocols and single-checkpoint benchmark scoring"
+2026-09-30T12:50:09.366111Z,burn_gekko,0.1.0,0,0,https://github.com/mosure/burn_gekko,Sparse-view latent completion and multi-view fusion models in Burn
+2026-09-30T12:50:10.420156Z,burn_gekko_report,0.1.0,0,0,https://github.com/mosure/burn_gekko,"Single-experiment project pages, figures and papers from verified Burn artifacts"
+2026-09-30T12:52:40.782402Z,typedpg_pg_query,0.2.0,0,0,https://github.com/cubos/typedpg,"PostgreSQL parser bindings for typedpg, built on libpg_query"
+2026-09-30T12:54:51.663843Z,youtube-at-home,0.1.0,0,0,,"A local library of YouTube videos and watchlists: keep the links, download with yt-dlp only when you want to watch"
+2026-09-30T12:58:12.629514Z,burn_gekko_train,0.1.0,0,0,https://github.com/mosure/burn_gekko,"Bounded Burn training, checkpoint auditing and prediction exports"
+2026-09-30T12:58:19.507121Z,tabit-app,0.1.0,0,0,https://github.com/JerryAZR/tabit,"The tabit composition root: the opinionated assembly (toolset, extension world, gate, host data) as a library — the presets an embedder mounts to build their own agent app over the tabit stack."
+2026-09-30T12:58:33.622861Z,qs-risk,0.4.0,0,0,https://github.com/geminik23/quant-system,Synchronous portfolio risk policies that approve or reject new exposure
+2026-09-30T13:01:29.899216Z,packet-dissector-cdp,0.5.0,0,0,https://github.com/higebu/packet-dissector,CDP (Cisco Discovery Protocol) dissector for packet-dissector
+2026-09-30T13:01:33.480503Z,packet-dissector-aper,0.5.0,0,0,https://github.com/higebu/packet-dissector,ASN.1 ALIGNED PER (APER) decoding shared by the 3GPP application protocol dissectors of packet-dissector
+2026-09-30T13:01:36.066194Z,packet-dissector-f1ap,0.5.0,0,0,https://github.com/higebu/packet-dissector,F1AP (F1 Application Protocol) dissector for packet-dissector
+2026-09-30T13:01:38.44085Z,packet-dissector-xnap,0.5.0,0,0,https://github.com/higebu/packet-dissector,XnAP (Xn Application Protocol) dissector for packet-dissector
+2026-09-30T13:07:09.972003Z,qs-execution,0.4.0,0,0,https://github.com/geminik23/quant-system,"Broker-neutral execution preparation, approval, and report contracts"
+2026-09-30T13:08:05.04894Z,burn_gekko_capture,0.1.0,0,0,https://github.com/mosure/burn_gekko,Procedural multi-view room dataset capture using published Bevy Zeroverse packages
+2026-09-30T13:08:06.058594Z,crewtui,0.1.0,0,0,https://github.com/whoisclebs/crewtui,"A small terminal UI framework built around state, messages, update and view."
+2026-09-30T13:08:09.674601Z,crewtui-rich,0.1.0,0,0,https://github.com/whoisclebs/crewtui,"Markdown, code and diff text for CrewTUI, built on its Text and widgets."
+2026-09-30T13:08:21.417469Z,tabit-core,0.1.0,0,0,https://github.com/JerryAZR/tabit,Tabit: the headless backend (print mode + the JSON protocol edge).
+2026-09-30T13:08:59.127574Z,qs-market-loader,0.4.0,0,0,https://github.com/geminik23/quant-system,Reopenable stored-market-data streams for quant-system historical replay
+2026-09-30T13:10:11.738402Z,qs-research,0.4.0,0,0,https://github.com/geminik23/quant-system,"Parameter-family search, data windows, and comparison tables over quant-system historical replay"
+2026-09-30T13:13:14.369307Z,offlineasm-ir,0.1.0,0,0,https://codeberg.org/playxe/offlineasm,Shared mnemonic IR for the offlineasm and onlineasm assemblers
+2026-09-30T13:13:16.905131Z,offlineasm-backend,0.1.0,0,0,https://codeberg.org/playxe/offlineasm,Portable assembler for Rust (lowering backend)
+2026-09-30T13:13:17.717709Z,onlineasm-macros,0.1.0,0,0,https://codeberg.org/playxe/offlineasm,onlineasm! proc macro: offlineasm syntax over the typed mnemonic API
+2026-09-30T13:13:20.280445Z,offlineasm-macros,0.1.0,0,0,https://codeberg.org/playxe/offlineasm,Portable assembler for Rust (macros)
+2026-09-30T13:13:21.400861Z,onlineasm,0.1.0,0,0,https://codeberg.org/playxe/offlineasm,Minimal portable runtime assembler with offlineasm mnemonics
+2026-09-30T13:14:07.006919Z,packet-dissector-e1ap,0.5.0,0,0,https://github.com/higebu/packet-dissector,E1AP (E1 Application Protocol) dissector for packet-dissector
+2026-09-30T13:14:55.412475Z,packet-dissector-nsh,0.5.0,0,0,https://github.com/higebu/packet-dissector,NSH (RFC 8300) dissector for packet-dissector
