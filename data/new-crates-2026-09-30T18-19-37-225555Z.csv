@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T17:21:22.776907Z,gobstopper,0.7.5,0,0,https://github.com/hraness/gobstopper,Inspects Claude Code and Codex sessions and prepares compacted transcript copies
+2026-09-30T17:22:17.955796Z,opensysml,0.9.1,0,0,https://github.com/Open-MBEE/OpenSysML,Blocking Rust client for the OpenSysML sysml-grpc service
+2026-09-30T17:24:27.303455Z,tesserax,0.0.1,0,0,,"Back-office core library: server builder, SWC contract (commands, snapshots, events), handle. Early reservation — API under construction."
+2026-09-30T17:24:38.215126Z,tesserax-framework,0.0.1,0,0,,"Back-office framework on tesserax: single-writer kernel runtime, effect shells, node / C2 / HQ tier scaffolding. Early reservation — API under construction."
+2026-09-30T17:26:32.543131Z,extptrs,0.1.1,0,0,,Extended Pointers
+2026-09-30T17:26:37.545125Z,druid-proxy,1.2.0,0,0,https://github.com/erikwang2013/druid-rust,Database proxy layer for Druid-Rust — Filter-aware connection/statement wrappers
+2026-09-30T17:27:06.982744Z,lgwks_macros,0.1.0,0,0,https://github.com/srinji-kaggss/logicalworks-crates,"The script! orchestration language for lgwks_bot: indented, Python/AppleScript-like flows that expand to bounded, deadline-carrying, tenant-keyed async Rust and an architecture map."
+2026-09-30T17:29:55.439262Z,recovery-lab,0.1.0,0,0,https://github.com/RazieLDG/recovery-lab,Passive async health monitoring and opt-in local recovery testing
+2026-09-30T17:33:29.62692Z,wilupgu,0.4.3,0,0,https://github.com/superroket169/wilupgu,Backend-independent tensor/dispatch library for Rust: GPU math on low-end hardware (wgpu / CUDA / CPU) with no autograd and no shape system.
+2026-09-30T17:37:55.964622Z,personal-teams-assistant,0.2.0,0,0,,Core library and CLI for a personal Microsoft Teams knowledge assistant
+2026-09-30T17:39:37.38007Z,personal-teams-desktop,0.2.0,0,0,,Desktop tray app for a personal Microsoft Teams knowledge assistant
+2026-09-30T17:40:54.319074Z,zero-width,0.1.1,0,0,https://github.com/hrchlhck/zero-width.git,Zero Width steganography implementation
+2026-09-30T17:50:28.442553Z,moxy-macros,0.5.0,0,0,https://www.github.com/aacebo/moxy,Moxy procedural macros
+2026-09-30T17:52:46.780795Z,eventity_macro,0.1.0,0,0,https://github.com/navlas08/eventity,Derive macros for the Eventity request and event library
+2026-09-30T17:53:40.448144Z,eventity,0.1.0,0,0,https://github.com/navlas08/eventity,"Rust-like MediatR or Wolverine.NET PostgreSQL, RabbitMQ and transactional outbox/inbox pattern"
+2026-09-30T18:09:11.389648Z,backbone-activity,0.2.20,0,0,https://github.com/faridlab/backbone-activity,Sales activity / touchpoints + rep tasks — the substrate lead/deal sit on
+2026-09-30T18:10:18.622093Z,backbone-approvals,0.4.31,0,0,https://github.com/faridlab/backbone-approvals,"the approval spine — requests, multi-step chains, delegation, SLA"
+2026-09-30T18:10:43.866737Z,grail,0.1.0,0,0,,"Grail is a Graphics Rendering Abstraction & Implementation layer, or G.R.A.I.L. for short. It can be used for all sorts of graphical programs."
+2026-09-30T18:11:24.476443Z,backbone-attendance,0.6.38,0,0,https://github.com/faridlab/backbone-attendance,Minimal Backbone Framework module skeleton
+2026-09-30T18:12:34.67154Z,backbone-auditlog,0.1.28,0,0,https://github.com/faridlab/backbone-auditlog,Minimal Backbone Framework module skeleton
+2026-09-30T18:13:13.285227Z,noalias,1.0.0,0,0,https://github.com/maslina524/noalias,Macro crate for auto-generating type-safe wrappers fo types
+2026-09-30T18:15:08.508302Z,docuparse-cli,0.1.0,0,0,https://github.com/asincole/docuparse,"Command-line PDF text extraction, rendering, and OCR on top of docuparse"
+2026-09-30T18:15:39.162684Z,backbone-bucket,0.1.50,0,0,https://github.com/faridlab/backbone-bucket,Bucket Bounded Context: File Storage Module for Backbone Framework
+2026-09-30T18:17:27.533365Z,backbone-budget,0.2.20,0,0,https://github.com/faridlab/backbone-budget,"Budget control — plan positions (account x cost center x period), achievements from GL reads, warn/block enforcement at the posting chokepoint"
