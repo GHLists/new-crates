@@ -1,0 +1,13 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T01:27:17.660931Z,kcode-k1-daemon-web-startup,0.1.0,0,0,,Open the K1 daemon's fixed Web HTTP router
+2026-09-30T01:28:59.461897Z,emblema-text,0.0.1,0,0,https://github.com/jwinarske/emblema,Reserved name for part of the emblema renderer. Glyph atlas packing and placement; bring your own rasterizer. Not yet released.
+2026-09-30T01:30:26.782376Z,benostream-gpu-ann,0.1.0,0,0,https://github.com/benolabsai/benostreamdb,"Universal GPU-accelerated vector indexing & ANN search for Rust (CUDA, Apple Metal, WGPU/Vulkan)"
+2026-09-30T02:01:10.202526Z,fast-feign-macros,1.0.0,0,0,https://github.com/tttq/fast-feign,fast-feign 声明式客户端过程宏：#[feign_client] 与 #[get]/#[post]/#[put]/#[delete] 方法宏
+2026-09-30T02:01:12.308806Z,feign-core,1.0.0,0,0,https://github.com/tttq/fast-feign,fast-feign 核心抽象：请求/响应模型、编解码、服务发现与负载均衡 trait、中间件抽象、配置模型
+2026-09-30T02:01:13.919506Z,feign-testkit,1.0.0,0,0,https://github.com/tttq/fast-feign,fast-feign 的测试支持库：可复用的极简 HTTP/1.1 mock 服务端
+2026-09-30T02:01:18.53433Z,feign-balancer,1.0.0,0,0,https://github.com/tttq/fast-feign,fast-feign 客户端负载均衡：轮询 / 随机 / 加权轮询 / P2C
+2026-09-30T02:01:20.393519Z,feign-codec,1.0.0,0,0,https://github.com/tttq/fast-feign,fast-feign 的扩展编解码器：MessagePack
+2026-09-30T02:02:11.074045Z,polidog-jev,0.1.0,0,0,https://github.com/polidog/jev,"Unofficial, provider-neutral CLI for TypeSafe Jev"
+2026-09-30T02:03:04.923144Z,bhr,0.1.0,0,0,https://github.com/polidog/bhr,Turn Chrome history into a per-day list of pages you read (CLI/TUI)
+2026-09-30T02:12:40.218679Z,feign-auth,1.0.0,0,0,https://github.com/tttq/fast-feign,fast-feign 认证能力：Bearer / Basic / ApiKey / JWT 透传与解析
+2026-09-30T02:14:52.775372Z,mhome-os-permissions,0.1.0,0,0,https://github.com/mhome-ai/foundation,"In-process operating-system permission status, requests, and Settings links"
