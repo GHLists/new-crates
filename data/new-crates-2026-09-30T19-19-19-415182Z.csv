@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T18:20:10.79267Z,backbone-calendar,0.2.27,0,0,https://github.com/faridlab/backbone-calendar,org-scoped holiday / working-day reference
+2026-09-30T18:24:48.541077Z,withercd,0.3.0,0,0,https://github.com/Dead-Abyss/withercd,A smart directory and project jumper for the terminal
+2026-09-30T18:28:35.333034Z,brust-seq,0.2.0,1,1,https://github.com/Amekn/brust,"Sequence and quality primitives for Brust: IUPAC reverse complement and matching, codon translation, and Phred means."
+2026-09-30T18:28:51.491876Z,kcode-k1-rust-code-document,0.1.0,0,0,,Represent and chunk one authored K1 Rust code document
+2026-09-30T18:30:10.592304Z,backbone-catalog,0.6.23,0,0,https://github.com/faridlab/backbone-catalog,"Canonical product/service identity: Item, Item Group, UOM (Indonesia-first)"
+2026-09-30T18:30:13.636786Z,eggpool-wire,0.1.0,0,0,https://github.com/eggstack/eggpool,"Neutral sans-I/O wire kernel: canonical request/response/event types, protocol decoders, finite codecs, and streaming state machines"
+2026-09-30T18:30:19.698118Z,eggpool-model-routing,0.1.0,0,0,https://github.com/eggstack/eggpool,Neutral deterministic semantic model-routing policy primitives
+2026-09-30T18:30:40.684874Z,eggpool-client-config,0.1.0,0,0,https://github.com/eggstack/eggpool,Portable client-configuration policy for EggPool connection profiles and Codex/OpenCode renderers
+2026-09-30T18:31:04.007882Z,cbvault-format,0.1.0,0,0,https://github.com/itshak/cbvault,"Byte-level ChessBase formats: .cbh headers and records, plus .cbv/.cbz archives with all four block modes decoded"
+2026-09-30T18:31:10.23973Z,cbvault-chess,0.1.0,0,0,https://github.com/itshak/cbvault,"The gigachess bridge: move-token decode to moves2, replay validation and keys"
+2026-09-30T18:31:15.518874Z,cbvault,0.1.0,0,0,https://github.com/itshak/cbvault,"Read ChessBase databases as moves2 streams: Database, GameIter, PGN writer, and .cbv/.cbz archives that unarchive in full"
+2026-09-30T18:31:19.158082Z,orcher-sdk-core,0.8.0,0,0,https://github.com/orcher-io/sdk-core,"Core SDK for ORCHER orchestration platform - handles gRPC communication, state machines, and replay engine"
+2026-09-30T18:31:20.45628Z,cbvault-cli,0.1.0,0,0,https://github.com/itshak/cbvault,"The cbvault command line: info, verify, pgn, and .cbv/.cbz archive list and extract"
+2026-09-30T18:32:06.412982Z,solar-std,0.0.0-reserved,0,0,,solar-std
+2026-09-30T18:32:37.192331Z,npro-io,0.0.1,0,0,https://libwebsockets.org/git/npro,"Placeholder: the socket, tls and event loop adapter, part of npro, the safe Rust port of libwebsockets' sansIO protocols"
+2026-09-30T18:34:49.753785Z,npro-mqtt,0.0.1,0,0,https://libwebsockets.org/git/npro,"Placeholder: mqtt support, part of npro, the safe Rust port of libwebsockets' sansIO protocols"
+2026-09-30T18:35:48.002179Z,npro-http,0.0.1,0,0,https://libwebsockets.org/git/npro,"Placeholder: generic http support, part of npro, the safe Rust port of libwebsockets' sansIO protocols"
+2026-09-30T18:37:05.191571Z,forgesync-core,0.1.0,0,0,https://github.com/joshka/forgesync,"Domain identities, evidence, and outcomes for Forgesync"
+2026-09-30T18:37:06.934345Z,forgesync-github,0.1.0,0,0,https://github.com/joshka/forgesync,Typed GitHub acquisition and normalization for Forgesync
+2026-09-30T18:37:07.698141Z,forgesync-store,0.1.0,0,0,https://github.com/joshka/forgesync,SQLite archive lifecycle and persistence for Forgesync
+2026-09-30T18:37:18.895397Z,forgesync-engine,0.1.0,0,0,https://github.com/joshka/forgesync,"Acquisition, search, and triage workflows for Forgesync"
+2026-09-30T18:37:20.843859Z,forgesync-tui,0.1.0,0,0,https://github.com/joshka/forgesync,Interactive terminal browsing and local triage for Forgesync
+2026-09-30T18:38:15.069866Z,eggpool,0.8.1,0,0,https://github.com/eggstack/eggpool,A lightweight native proxy that aggregates multiple LLM provider accounts
+2026-09-30T18:40:09.825903Z,backbone-corporate,0.5.22,0,0,https://github.com/faridlab/backbone-corporate,"Reference masters: Currency + CurrencyExchange (effective-dated FX), Territory, Incoterm, TermsAndConditions — the multi-currency prerequisite (posts NO GL)"
+2026-09-30T18:40:35.675484Z,photonhq-api,0.1.0,0,0,https://github.com/photon-hq/api,Spargen-generated Photon OpenAPI 3.1 client
+2026-09-30T18:40:40.972692Z,forgesync-cli,0.1.0,0,0,https://github.com/joshka/forgesync,Command-line process interface for Forgesync
+2026-09-30T18:40:44.016724Z,druid-pool,1.3.0,0,0,https://github.com/erikwang2013/druid-rust,"Async connection pool for Druid-Rust — semaphore-based, eviction, KeepAlive, PSCache"
+2026-09-30T18:40:54.000591Z,druid-ha,1.3.0,0,0,https://github.com/erikwang2013/druid-rust,"High-availability data source for Druid-Rust — weighted round-robin, health checks"
+2026-09-30T18:42:59.413339Z,kcode-k1-web-release-gate,0.1.0,0,0,,Gate K1 Web source releases on preservation and authorization
+2026-09-30T18:44:29.551677Z,cargo-bumpp,0.2.1,0,0,https://github.com/imba97/cargo-bumpp,"Interactive version bumping for Cargo projects: bump the manifest, commit, tag, push"
+2026-09-30T18:50:09.976058Z,backbone-deal,0.3.20,0,0,https://github.com/faridlab/backbone-deal,Sales pipeline — opportunity + items + campaign attribution; posts no GL
+2026-09-30T18:50:24.962739Z,kcode-k1-rust-code-ktool-service,0.1.0,0,0,,Coordinate authenticated K1 Rust code Ktool operations
+2026-09-30T18:51:13.221493Z,forgesync,0.1.0,0,0,https://github.com/joshka/forgesync,"Local-first GitHub discussion archive, search, and triage"
+2026-09-30T18:54:11.501629Z,once-fn-macros,0.3.0,0,0,https://github.com/lxl66566/once-fn,procedural macros for the once-fn crate
+2026-09-30T18:55:01.315161Z,docker-goo,1.1.0,0,0,https://github.com/kurapikanlight/docker-goo,Linux-first Docker Engine terminal dashboard
+2026-09-30T19:00:12.771154Z,backbone-engagement,0.2.26,0,0,https://github.com/faridlab/backbone-engagement,"Engagement — the attribution floor (UTM masters, short-link tracker, deduped click ledger) plus the visitor rating substrate and the gamification family: goals, challenges, badges, and the append-onl…"
+2026-09-30T19:03:36.047214Z,kcode-k1-web-check-plan,0.1.0,0,0,,Construct pure K1 Web checker identities and inputs
+2026-09-30T19:12:10.240093Z,kcode-k1-rust-code-ktool-testkit,0.1.0,0,0,,Verify K1 Rust code Ktool service conformance
+2026-09-30T19:15:21.82582Z,actix-tera-response,0.1.1,0,0,https://codeberg.org/BezPowell/actix-tera-response,Simple utility crate to make returning Tera templates from actix-web routes more ergonomic.
+2026-09-30T19:17:47.993146Z,il2cpp-utils-macros,0.1.0,0,0,https://gitcode.com/wuyanzhiyan/menu,il2cpp_utils 的过程宏：il2cpp_class / il2cpp_struct / il2cpp_enum / il2cpp_flag / il2cpp_hook / il2cpp_static_field / il2cpp_fn
+2026-09-30T19:18:24.957891Z,il2cpp_utils,0.1.0,0,0,https://gitcode.com/wuyanzhiyan/menu,il2cpp 游戏修改器开发工具库：类/字段/方法绑定、集合镜像、hook 运行时与配套过程宏
+2026-09-30T19:19:19.099465Z,wyrd-compositor,0.1.0,0,0,https://github.com/xximxxhatedxx/wyrd-engine,"Wayland compositor integrations (Hyprland, Sway, Niri, generic fallback) for Wyrd"
