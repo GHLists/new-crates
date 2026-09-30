@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T08:19:10.101936Z,faucet-sink-rabbitmq,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,RabbitMQ (AMQP 0.9.1) sink connector for the faucet-stream ecosystem
+2026-09-30T08:19:29.599825Z,rust-redis-client,0.1.1,0,0,,"A small, dependency-free client for Redis-compatible servers over a Unix socket (RESP2)"
+2026-09-30T08:19:45.369951Z,faucet-common-dynamodb,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,Shared Amazon DynamoDB credential and client types for the faucet-stream DynamoDB connectors
+2026-09-30T08:22:21.436482Z,qk-affected,0.0.0,0,0,https://github.com/Pajn/qk,"Name reservation for qk-affected, a component of the qk task runner"
+2026-09-30T08:23:14.648817Z,redis-server,0.1.1,0,0,https://github.com/THEeLov/redis-server,Small in-memory Redis-compatible server speaking RESP2 over a Unix socket
+2026-09-30T08:27:21.654473Z,vize_l0,0.429.2,0,0,https://github.com/ubugeeei-prod/vize,"L0 - the Davinci foundation level: ids, side tables, keys, dumps, diagnostics, passes and facts"
+2026-09-30T08:27:45.33677Z,diskgraph-mcp,0.2.0,0,0,https://github.com/loong10k/diskgraph,"MCP protocol adapter for DiskGraph (stdio, Streamable HTTP, legacy SSE)"
+2026-09-30T08:27:55.822084Z,diskgraph-cli,0.2.0,0,0,https://github.com/loong10k/diskgraph,DiskGraph command line entry point
+2026-09-30T08:28:30.69814Z,faucet-common-oracle,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,"Shared Oracle Database connection, TLS and auth types for the faucet-stream Oracle connectors"
+2026-09-30T08:29:02.123262Z,diskgraph-ffi,0.2.0,0,0,https://github.com/loong10k/diskgraph,Swift and Kotlin read-only bindings for DiskGraph
+2026-09-30T08:29:49.960664Z,raddy-admin,0.1.0,0,0,https://github.com/fokx/raddy,Axum REST Admin API and zero-downtime hot reload engine for Raddy
+2026-09-30T08:29:55.006243Z,vize_l3,0.429.2,0,0,https://github.com/ubugeeei-prod/vize,L3 - the Davinci reactivity IR (codename Impeto): flat scheduled ops with explicit state and effect edges
+2026-09-30T08:32:21.704554Z,qk-history,0.0.0,0,0,https://github.com/Pajn/qk,"Name reservation for qk-history, a component of the qk task runner"
+2026-09-30T08:36:38.691522Z,raddy-server,0.1.0,0,0,https://github.com/fokx/raddy,"Fast, extensible, memory-safe web server and reverse proxy in Rust (Caddy drop-in replacement)"
+2026-09-30T08:40:34.347403Z,faucet-sink-databricks,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,"Databricks SQL warehouse sink (COPY INTO, MERGE upsert, overwrite, exactly-once) for the faucet-stream ecosystem"
+2026-09-30T08:45:28.19445Z,owpurge,0.1.2,0,0,https://github.com/salim-bt/openwallet-purge,Askar wallet pruning for multi-tenant SSI platforms: a single static binary that prunes stale exchange records straight from the wallet store
+2026-09-30T08:46:40.970131Z,jxlify,0.1.0,0,0,https://github.com/fokx/jxlify,"A next-generation on-the-fly image proxy & origin server supporting JPEG XL, AVIF, WebP, and dynamic conversion"
+2026-09-30T08:52:35.533104Z,faucet-sink-dynamodb,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,Amazon DynamoDB sink for the faucet-stream ecosystem
+2026-09-30T08:59:34.854237Z,oarust,0.0.1,0,0,https://github.com/realminc/oa,OA Rust distribution name; runtime package forthcoming
+2026-09-30T09:01:52.494589Z,snaplink-sso,0.4.0,0,0,https://github.com/yangwb1123/snaplink/tree/main/sdks/rust,Snaplink public-client hosted login SDK
+2026-09-30T09:08:49.129119Z,rekuest-protocol,0.2.0,0,0,https://github.com/arkitektio/arkirust,The rekuest agent protocol (/agi): every frame between an agent and the rekuest server
+2026-09-30T09:10:13.420397Z,arkitekt-mikro,0.2.0,0,0,https://github.com/arkitektio/arkirust,Mikro client for Arkitekt: array datasets backed by zarr on S3
+2026-09-30T09:10:17.870888Z,arkitekt-lovekit,0.2.0,0,0,https://github.com/arkitektio/arkirust,"Client for Arkitekt's lovekit service: LiveKit broadcasts and streams, reachable over the deployment's mesh"
+2026-09-30T09:10:38.881471Z,arkitekt-meshd,0.2.0,0,0,https://github.com/arkitektio/arkirust,The Arkitekt mesh sidecar: a userspace tailnet node exposing a local HTTP proxy (and a TURN relay) into a deployment's mesh
+2026-09-30T09:14:41.054308Z,urushi-derive,0.1.0,0,0,https://github.com/choplin/urushi,Derive macros for urushi component data
+2026-09-30T09:14:48.338834Z,urushi-terminal,0.1.0,0,0,https://github.com/choplin/urushi,Workspace-independent terminal contracts and inspection for the Urushi ecosystem
+2026-09-30T09:15:28.799267Z,urushi,0.1.0,0,0,https://github.com/choplin/urushi,"Composable styling, components, and terminal rendering for Rust CLIs"
+2026-09-30T09:16:11.192378Z,urushi-adapter-ratatui,0.1.0,0,0,https://github.com/choplin/urushi,Ratatui adapter for Urushi views and logical styles
+2026-09-30T09:16:14.071012Z,urushi-cli,0.1.0,0,0,https://github.com/choplin/urushi,Human-facing non-interactive CLI presentations built on urushi
+2026-09-30T09:16:39.876271Z,rensor,0.1.0,0,0,https://github.com/TETRAWasTaken/NeuralFlow,A Rust native deep learning framework specialised for CPU
