@@ -8,45 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 14:20 UTC
+## Latest list — 2026-09-30 15:19 UTC
 
-New crates published between 2026-09-30 13:19 UTC and 2026-09-30 14:20 UTC.
+New crates published between 2026-09-30 14:20 UTC and 2026-09-30 15:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-30T14-20-26-982699Z.csv)
+[Full CSV](data/new-crates-2026-09-30T15-19-00-080133Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-30 13:20:19 | [scopekit](https://crates.io/crates/scopekit) | 0.1.0 | 0 | Build ratatui viewers with a live wgpu view: in any terminal (kitty, iTerm2, si… |
-| 2026-09-30 13:31:47 | [packet-dissector-bmp](https://crates.io/crates/packet-dissector-bmp) | 0.5.0 | 0 | BMP (BGP Monitoring Protocol, RFC 7854) dissector for packet-dissector |
-| 2026-09-30 13:34:52 | [fusor-worker-macros](https://crates.io/crates/fusor-worker-macros) | 0.1.2 | 0 | Compiled task and service registration for fusor-worker |
-| 2026-09-30 13:34:58 | [fusor-worker](https://crates.io/crates/fusor-worker) | 0.1.2 | 0 | Owned background tasks and worker services for fusor |
-| 2026-09-30 13:36:38 | [udp-addr-index-proto](https://crates.io/crates/udp-addr-index-proto) | 0.1.1 | 0 | Wire protocol for opaque UDP address records |
-| 2026-09-30 13:37:19 | [natdb-sys](https://crates.io/crates/natdb-sys) | 0.1.0 | 0 | Raw FFI bindings to LMDB, built from vendored upstream sources. |
-| 2026-09-30 13:37:31 | [natdb](https://crates.io/crates/natdb) | 0.1.0 | 0 | Safe, idiomatic Rust bindings for LMDB 1.0 (maintained fork of lmdb-rkv). |
-| 2026-09-30 13:37:58 | [iroh-mainline-endpoint-discovery](https://crates.io/crates/iroh-mainline-endpoint-discovery) | 0.1.1 | 0 | Publish and discover iroh endpoints through Mainline |
-| 2026-09-30 13:38:08 | [udp-addr-index](https://crates.io/crates/udp-addr-index) | 0.1.1 | 0 | Small opaque records for verified UDP addresses |
-| 2026-09-30 13:38:21 | [iroh-link-gateway](https://crates.io/crates/iroh-link-gateway) | 0.1.1 | 0 | Local HTTP streaming gateway for BLAKE3 content discovered through Mainline |
-| 2026-09-30 13:38:30 | [packet-dissector-erspan](https://crates.io/crates/packet-dissector-erspan) | 0.5.0 | 0 | ERSPAN (Type I, II, III) dissector for packet-dissector |
-| 2026-09-30 13:41:58 | [keepword-core](https://crates.io/crates/keepword-core) | 2.0.0 | 0 | Protocol types for Keepword: attestations, signed tree heads, Merkle proofs, as… |
-| 2026-09-30 13:42:00 | [keepword-capture](https://crates.io/crates/keepword-capture) | 2.0.0 | 0 | Fetching pages as evidence: raw HTTP with TLS details, optional headless render… |
-| 2026-09-30 13:42:02 | [keepword-normalize](https://crates.io/crates/keepword-normalize) | 2.0.0 | 0 | Canonicalizer that reduces captured pages to their meaningful content, plus the… |
-| 2026-09-30 13:42:05 | [keepword-store](https://crates.io/crates/keepword-store) | 2.0.0 | 0 | Content-addressed blob store, attestation index and the node's append-only Merk… |
-| 2026-09-30 13:42:12 | [keepword](https://crates.io/crates/keepword) | 2.0.0 | 0 | The Keepword node: CLI, watch scheduler and web UI |
-| 2026-09-30 13:43:50 | [kcode-k1-ktool-social](https://crates.io/crates/kcode-k1-ktool-social) | 0.1.0 | 0 | Read-only model-facing K1 social Ktools |
-| 2026-09-30 13:46:16 | [packet-dissector-ieee80211](https://crates.io/crates/packet-dissector-ieee80211) | 0.5.0 | 0 | IEEE 802.11 (Wi-Fi) MAC frame dissector for packet-dissector |
-| 2026-09-30 13:47:46 | [zisk-setup](https://crates.io/crates/zisk-setup) | 1.3.1-alpha | 0 | Version of the ZisK proving key (setup) a build proves against |
-| 2026-09-30 13:52:10 | [netdb-observability](https://crates.io/crates/netdb-observability) | 0.1.0 | 0 | Shared OpenTelemetry, logging, health and request-id wiring for Netdb's Rust se… |
-| 2026-09-30 13:53:04 | [socketry-project](https://crates.io/crates/socketry-project) | 0.1.1 | 0 | Shared project conventions and development tasks for Socketry Rust crates |
-| 2026-09-30 13:56:18 | [miden-usdcx](https://crates.io/crates/miden-usdcx) | 0.0.0 | 0 | Placeholder crate for a Miden protocol project |
-| 2026-09-30 13:58:09 | [offlineasm](https://crates.io/crates/offlineasm) | 0.1.0 | 0 | Portable assembler for Rust |
-| 2026-09-30 13:59:44 | [wt_overlay_linux](https://crates.io/crates/wt_overlay_linux) | 0.1.0 | 0 | A scriptable Wayland HUD overlay for War Thunder telemetry |
-| 2026-09-30 14:00:00 | [polyoxide-perps](https://crates.io/crates/polyoxide-perps) | 0.34.0 | 0 | Rust client library for the Polymarket Perps API |
-| 2026-09-30 14:00:02 | [sss-scene-capture-lib](https://crates.io/crates/sss-scene-capture-lib) | 0.1.0 | 0 | Capture a screenshot and system sound on Windows, as a CLI, a Rust library, and… |
-| 2026-09-30 14:01:32 | [packet-dissector-m3ua](https://crates.io/crates/packet-dissector-m3ua) | 0.5.0 | 0 | M3UA (RFC 4666, SS7 MTP3-User Adaptation Layer) dissector for packet-dissector |
-| 2026-09-30 14:01:50 | [litestd](https://crates.io/crates/litestd) | 1.24.0-alpha1 | 0 | std's OS-dependent API (sync, thread, time, io, fs, net) for no_std crates, bui… |
-| 2026-09-30 14:11:30 | [reactive-scope](https://crates.io/crates/reactive-scope) | 0.1.0 | 0 | A fine-grained reactive scope. |
-| 2026-09-30 14:13:33 | [kcode-k1-ktool-social-testkit](https://crates.io/crates/kcode-k1-ktool-social-testkit) | 0.1.0 | 0 | Downstream real-stack conformance tests for K1 social Ktools |
-| 2026-09-30 14:15:34 | [sl-real](https://crates.io/crates/sl-real) | 0.1.0 | 0 | 端末を走る 3D 蒸気機関車。sl をソフトウェアラスタライザで本気にしたもの |
+| 2026-09-30 14:21:52 | [euphorium-rodio](https://crates.io/crates/euphorium-rodio) | 0.22.2 | 0 | Audio playback and recording library |
+| 2026-09-30 14:22:11 | [maillon](https://crates.io/crates/maillon) | 0.1.0 | 0 | A concurrent intrusive list for building synchronization primitives. |
+| 2026-09-30 14:24:09 | [packet-dissector-ipfix](https://crates.io/crates/packet-dissector-ipfix) | 0.5.0 | 0 | IPFIX (RFC 7011) and NetFlow v5/v9 dissector for packet-dissector |
+| 2026-09-30 14:24:12 | [packet-dissector-tcap](https://crates.io/crates/packet-dissector-tcap) | 0.5.0 | 0 | TCAP (ITU-T Q.773, Transaction Capabilities Application Part) dissector for pac… |
+| 2026-09-30 14:26:22 | [kcode-k1-web-code-document](https://crates.io/crates/kcode-k1-web-code-document) | 0.1.0 | 0 | Represent and chunk one authored K1 Web code document |
+| 2026-09-30 14:28:58 | [kcode-k1-chat-thread-ktools](https://crates.io/crates/kcode-k1-chat-thread-ktools) | 0.1.0 | 0 | Synchronous Ktool dispatch for one K1 chat thread |
+| 2026-09-30 14:29:41 | [packet-dissector-map](https://crates.io/crates/packet-dissector-map) | 0.5.0 | 0 | MAP (3GPP TS 29.002, Mobile Application Part) dissector for packet-dissector |
+| 2026-09-30 14:33:27 | [pulsar-monitor-core](https://crates.io/crates/pulsar-monitor-core) | 0.1.0 | 0 | Sampling, history, layout and settings for the Pulsar taskbar monitor. |
+| 2026-09-30 14:34:05 | [pulsar-monitor](https://crates.io/crates/pulsar-monitor) | 0.1.0 | 0 | A lightweight Windows 11 taskbar monitor for CPU, memory, disk, network, GPU an… |
+| 2026-09-30 14:34:53 | [stylus-merkle-proof-verifier](https://crates.io/crates/stylus-merkle-proof-verifier) | 0.1.0 | 0 | Fork of OpenZeppelin's Merkle verification code without the dependency tree. |
+| 2026-09-30 14:35:36 | [backbone-authorization](https://crates.io/crates/backbone-authorization) | 2.7.35 | 0 | Backbone Framework Authorization - Centralized RBAC authorization service |
+| 2026-09-30 14:35:41 | [backbone-cache](https://crates.io/crates/backbone-cache) | 2.7.35 | 0 | Backbone Framework Cache Module - Redis and Memory caching support |
+| 2026-09-30 14:35:45 | [backbone-email](https://crates.io/crates/backbone-email) | 2.7.35 | 0 | Backbone Framework Email Module - SMTP support |
+| 2026-09-30 14:35:50 | [backbone-gl-posting](https://crates.io/crates/backbone-gl-posting) | 2.7.35 | 0 | Wire contracts shared across Backbone producers: the GL-posting envelope + sink… |
+| 2026-09-30 14:35:54 | [backbone-graphql](https://crates.io/crates/backbone-graphql) | 2.7.35 | 0 | GraphQL runtime support for the Backbone Framework |
+| 2026-09-30 14:38:48 | [heirloom-client](https://crates.io/crates/heirloom-client) | 0.1.2 | 0 | Heirloom client generated with Codama. |
+| 2026-09-30 14:40:39 | [backbone-health](https://crates.io/crates/backbone-health) | 2.7.35 | 0 | Backbone Framework Health Check Module - Production monitoring and health endpo… |
+| 2026-09-30 14:48:09 | [packet-dissector-pim](https://crates.io/crates/packet-dissector-pim) | 0.5.0 | 0 | PIM (Protocol Independent Multicast, RFC 7761) dissector for packet-dissector |
+| 2026-09-30 14:48:12 | [packet-dissector-radiotap](https://crates.io/crates/packet-dissector-radiotap) | 0.5.0 | 0 | Radiotap header (LINKTYPE_IEEE802_11_RADIOTAP) dissector for packet-dissector |
+| 2026-09-30 14:50:05 | [backbone-maintenance](https://crates.io/crates/backbone-maintenance) | 2.7.35 | 0 | Backbone Framework Maintenance Mode — toggleable 503 gate with admin endpoint,… |
+| 2026-09-30 14:52:17 | [raddyserver](https://crates.io/crates/raddyserver) | 0.2.0 | 0 | Alias and wrapper for raddy-server, the fast, extensible web server in Rust (Ca… |
+| 2026-09-30 14:54:26 | [pathstr](https://crates.io/crates/pathstr) | 0.1.0 | 0 | PathBuf wrapper type with ergonomic conversion to/from various string types |
+| 2026-09-30 14:56:18 | [eigentrust](https://crates.io/crates/eigentrust) | 0.2.0 | 0 | EigenTrust reputation algorithm: global trust scores for peer-to-peer networks… |
+| 2026-09-30 14:56:30 | [eigentrust-cli](https://crates.io/crates/eigentrust-cli) | 0.2.0 | 0 | Command-line EigenTrust: rank peers from CSV trust statements |
+| 2026-09-30 14:56:58 | [tollgate-axum](https://crates.io/crates/tollgate-axum) | 0.32.2 | 0 | Axum integration for Tollgate's local quota admission and usage accounting. |
+| 2026-09-30 14:58:53 | [sb-core](https://crates.io/crates/sb-core) | 0.2.0 | 0 | S&B Core — Unified Domain Types, IPC DTOs, Path Manager & Ports Topology |
+| 2026-09-30 15:00:09 | [sb-code](https://crates.io/crates/sb-code) | 0.1.0 | 0 | S&B Code — Sovereign Unified Code Engine: AST Scopes, Live Swarm & BLAKE3 Merkl… |
+| 2026-09-30 15:01:03 | [backbone-messaging](https://crates.io/crates/backbone-messaging) | 2.7.35 | 0 | Event-driven messaging infrastructure for Backbone Framework |
+| 2026-09-30 15:06:43 | [btt-cli](https://crates.io/crates/btt-cli) | 0.2.0 | 0 | Branch tree testing for any language: check and scaffold test suites from bullo… |
+| 2026-09-30 15:10:03 | [backbone-observability](https://crates.io/crates/backbone-observability) | 2.7.35 | 0 | Backbone Framework Observability - Tracing, logging, and metrics |
+| 2026-09-30 15:16:55 | [packet-dissector-ldp](https://crates.io/crates/packet-dissector-ldp) | 0.5.0 | 0 | LDP (Label Distribution Protocol, RFC 5036) dissector for packet-dissector |
+| 2026-09-30 15:16:58 | [packet-dissector-rsvp](https://crates.io/crates/packet-dissector-rsvp) | 0.5.0 | 0 | RSVP and RSVP-TE (RFC 2205, RFC 3209) dissector for packet-dissector |
+| 2026-09-30 15:17:01 | [packet-dissector-sccp](https://crates.io/crates/packet-dissector-sccp) | 0.5.0 | 0 | SCCP (ITU-T Q.713, Signalling Connection Control Part) dissector for packet-dis… |
+| 2026-09-30 15:17:23 | [atman-macros](https://crates.io/crates/atman-macros) | 1.14.0 | 0 | Tool binding macros for Atman hosts |
+| 2026-09-30 15:18:16 | [atman-rt](https://crates.io/crates/atman-rt) | 1.14.0 | 0 | Embeddable Atman language virtual machine |
 
 ## Data source
 

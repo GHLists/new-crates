@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T14:21:52.890399Z,euphorium-rodio,0.22.2,0,0,https://github.com/egakareta/rodio,Audio playback and recording library
+2026-09-30T14:22:11.182642Z,maillon,0.1.0,0,0,https://github.com/wyfo/maillon,A concurrent intrusive list for building synchronization primitives.
+2026-09-30T14:24:09.593142Z,packet-dissector-ipfix,0.5.0,0,0,https://github.com/higebu/packet-dissector,IPFIX (RFC 7011) and NetFlow v5/v9 dissector for packet-dissector
+2026-09-30T14:24:12.454893Z,packet-dissector-tcap,0.5.0,0,0,https://github.com/higebu/packet-dissector,"TCAP (ITU-T Q.773, Transaction Capabilities Application Part) dissector for packet-dissector"
+2026-09-30T14:26:22.345562Z,kcode-k1-web-code-document,0.1.0,0,0,,Represent and chunk one authored K1 Web code document
+2026-09-30T14:28:58.171957Z,kcode-k1-chat-thread-ktools,0.1.0,0,0,,Synchronous Ktool dispatch for one K1 chat thread
+2026-09-30T14:29:41.61527Z,packet-dissector-map,0.5.0,0,0,https://github.com/higebu/packet-dissector,"MAP (3GPP TS 29.002, Mobile Application Part) dissector for packet-dissector"
+2026-09-30T14:33:27.826214Z,pulsar-monitor-core,0.1.0,0,0,https://github.com/oMaN-Rod/Pulsar,"Sampling, history, layout and settings for the Pulsar taskbar monitor."
+2026-09-30T14:34:05.423649Z,pulsar-monitor,0.1.0,0,0,https://github.com/oMaN-Rod/Pulsar,"A lightweight Windows 11 taskbar monitor for CPU, memory, disk, network, GPU and ping."
+2026-09-30T14:34:53.621982Z,stylus-merkle-proof-verifier,0.1.0,0,0,https://github.com/fluidity-money/stylus-merkle-proof-verifier,Fork of OpenZeppelin's Merkle verification code without the dependency tree.
+2026-09-30T14:35:36.6579Z,backbone-authorization,2.7.35,0,0,https://github.com/faridlab/backbone-framework,Backbone Framework Authorization - Centralized RBAC authorization service
+2026-09-30T14:35:41.250124Z,backbone-cache,2.7.35,0,0,https://github.com/faridlab/backbone-framework,Backbone Framework Cache Module - Redis and Memory caching support
+2026-09-30T14:35:45.642416Z,backbone-email,2.7.35,0,0,https://github.com/faridlab/backbone-framework,Backbone Framework Email Module - SMTP support
+2026-09-30T14:35:50.354521Z,backbone-gl-posting,2.7.35,0,0,https://github.com/faridlab/backbone-framework,"Wire contracts shared across Backbone producers: the GL-posting envelope + sink port, and the reconciliation edge port."
+2026-09-30T14:35:54.19781Z,backbone-graphql,2.7.35,0,0,https://github.com/faridlab/backbone-framework,GraphQL runtime support for the Backbone Framework
+2026-09-30T14:38:48.96026Z,heirloom-client,0.1.2,0,0,https://github.com/historiah/heirloom-app,Heirloom client generated with Codama.
+2026-09-30T14:40:39.879981Z,backbone-health,2.7.35,0,0,https://github.com/faridlab/backbone-framework,Backbone Framework Health Check Module - Production monitoring and health endpoints
+2026-09-30T14:48:09.973648Z,packet-dissector-pim,0.5.0,0,0,https://github.com/higebu/packet-dissector,"PIM (Protocol Independent Multicast, RFC 7761) dissector for packet-dissector"
+2026-09-30T14:48:12.847767Z,packet-dissector-radiotap,0.5.0,0,0,https://github.com/higebu/packet-dissector,Radiotap header (LINKTYPE_IEEE802_11_RADIOTAP) dissector for packet-dissector
+2026-09-30T14:50:05.070314Z,backbone-maintenance,2.7.35,0,0,https://github.com/faridlab/backbone-framework,"Backbone Framework Maintenance Mode — toggleable 503 gate with admin endpoint, RFC 7231 Retry-After, and allow-path bypass"
+2026-09-30T14:52:17.314258Z,raddyserver,0.2.0,0,0,https://github.com/fokx/raddy,"Alias and wrapper for raddy-server, the fast, extensible web server in Rust (Caddy drop-in replacement)"
+2026-09-30T14:54:26.055314Z,pathstr,0.1.0,0,0,,PathBuf wrapper type with ergonomic conversion to/from various string types
+2026-09-30T14:56:18.738116Z,eigentrust,0.2.0,0,0,https://github.com/hypnagonia/eigentrust-rust,"EigenTrust reputation algorithm: global trust scores for peer-to-peer networks and social graphs, with Sybil resistance"
+2026-09-30T14:56:30.973851Z,eigentrust-cli,0.2.0,0,0,https://github.com/hypnagonia/eigentrust-rust,Command-line EigenTrust: rank peers from CSV trust statements
+2026-09-30T14:56:58.960117Z,tollgate-axum,0.32.2,0,0,https://github.com/MorphIQ-Labs/tollgate,Axum integration for Tollgate's local quota admission and usage accounting.
+2026-09-30T14:58:53.72392Z,sb-core,0.2.0,0,0,https://github.com/skulls-and-bones/sb,"S&B Core — Unified Domain Types, IPC DTOs, Path Manager & Ports Topology"
+2026-09-30T15:00:09.855831Z,sb-code,0.1.0,0,0,https://github.com/skulls-and-bones/sb-code,"S&B Code — Sovereign Unified Code Engine: AST Scopes, Live Swarm & BLAKE3 Merkle VCS"
+2026-09-30T15:01:03.881914Z,backbone-messaging,2.7.35,0,0,https://github.com/faridlab/backbone-framework,Event-driven messaging infrastructure for Backbone Framework
+2026-09-30T15:06:43.276015Z,btt-cli,0.2.0,0,0,https://github.com/Maddiaa0/btt,Branch tree testing for any language: check and scaffold test suites from bulloak-style .tree specs
+2026-09-30T15:10:03.885366Z,backbone-observability,2.7.35,0,0,https://github.com/faridlab/backbone-framework,"Backbone Framework Observability - Tracing, logging, and metrics"
+2026-09-30T15:16:55.980549Z,packet-dissector-ldp,0.5.0,0,0,https://github.com/higebu/packet-dissector,"LDP (Label Distribution Protocol, RFC 5036) dissector for packet-dissector"
+2026-09-30T15:16:58.751077Z,packet-dissector-rsvp,0.5.0,0,0,https://github.com/higebu/packet-dissector,"RSVP and RSVP-TE (RFC 2205, RFC 3209) dissector for packet-dissector"
+2026-09-30T15:17:01.482251Z,packet-dissector-sccp,0.5.0,0,0,https://github.com/higebu/packet-dissector,"SCCP (ITU-T Q.713, Signalling Connection Control Part) dissector for packet-dissector"
+2026-09-30T15:17:23.894177Z,atman-macros,1.14.0,0,0,https://github.com/W-Mai/atman,Tool binding macros for Atman hosts
+2026-09-30T15:18:16.154985Z,atman-rt,1.14.0,0,0,https://github.com/W-Mai/atman,Embeddable Atman language virtual machine
