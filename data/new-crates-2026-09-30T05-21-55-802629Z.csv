@@ -1,0 +1,14 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T04:25:01.786093Z,kcode-k1-rust-package-contract-tests,0.1.0,0,0,,Downstream conformance tests for kcode-k1-rust-package
+2026-09-30T04:26:43.31712Z,glassworks-envelope,0.2.0,0,0,https://github.com/kingb/glassworks-envelope,"The bus wire envelope: typed events and commands, generated from schema/envelope.schema.json."
+2026-09-30T04:33:57.013824Z,qargo,0.1.1,0,0,https://github.com/MGYamada/qargo,"Local Qleisli qrate orchestration with standard lint, format, and documentation tools"
+2026-09-30T04:40:07.086382Z,arcbox-vm-driver,0.8.0,0,0,https://github.com/arcboxlabs/arcbox,"The VM driver port: the vocabulary of a VM on this host — spec, driver/handle traits, capabilities, guest-network port — that VMM adapters implement and orchestrators consume."
+2026-09-30T04:40:07.439391Z,arcbox-vm-proto,0.8.0,0,0,https://github.com/arcboxlabs/arcbox,"Wire vocabulary shared by the arcbox-computer-runtime sandbox manager and the in-sandbox vm-agent init: boot parameters, exec-channel frames, file-channel frames."
+2026-09-30T04:40:14.340676Z,arcbox-fc-driver,0.8.0,0,0,https://github.com/arcboxlabs/arcbox,"The Firecracker adapter for the arcbox-vm-driver port: renders a VmSpec into Firecracker API payloads and jailer-relative paths, owns the VMM process, and serves vsock, checkpoints, prepare, and adop…"
+2026-09-30T04:40:15.979846Z,arcbox-local-ca,0.8.0,0,0,https://github.com/arcboxlabs/arcbox,The name-constrained local CA behind HTTPS for ArcBox container domains
+2026-09-30T04:40:17.227825Z,arcbox-tap-net,0.8.0,0,0,https://github.com/arcboxlabs/arcbox,"The Linux TAP guest network: address pool, TAP devices, identity-invariant NAT (eBPF TCX or iptables), and the quarantine ledger behind arcbox-vm-driver's GuestNetwork port."
+2026-09-30T04:44:35.745389Z,tau-tools,0.7.0,0,0,https://github.com/gqf2008/tau,Built-in native tools for the tau agent harness (read/write/edit/grep/find/ls/bash/powershell)
+2026-09-30T04:47:07.502269Z,arcbox-computer-runtime,0.8.0,0,0,https://github.com/arcboxlabs/arcbox,"Sandbox orchestration over nested microVMs behind the arcbox-vm-driver port: boot, exec, files, checkpoints, warm pools. The in-sandbox init is arcbox-vm-agent; the wire vocabulary is arcbox-vm-proto."
+2026-09-30T04:57:08.351662Z,arcbox-vm-agent,0.8.0,0,0,https://github.com/arcboxlabs/arcbox,"The vm-agent init that runs as PID 1 inside every ArcBox sandbox microVM: exec/file service over vsock, plus its guest-side helpers."
+2026-09-30T04:59:53.211815Z,orcher-proto,0.1.0,0,0,https://github.com/orcher-io/protos,Protocol definitions for ORCHER orchestration platform
+2026-09-30T05:06:59.748985Z,arcbox-ssh,0.8.0,0,0,https://github.com/arcboxlabs/arcbox,The ArcBox SSH server: `ssh <machine>@arcbox` into Linux machines over the machine exec path.
