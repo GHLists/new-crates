@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T09:26:17.772319Z,singularitycli,0.1.0,0,0,https://github.com/h4nxxlmao/singularity-cli,Universal project command runner. One set of commands for every project type.
+2026-09-30T09:27:25.724531Z,urushi-graphics,0.1.0,0,0,https://github.com/choplin/urushi,Image components and terminal graphics adapters for urushi
+2026-09-30T09:28:22.015788Z,webmcp-conduit,0.2.2,0,0,https://github.com/Dhananjay-JSR/webmcp-conduit,Turn any WebMCP-enabled website into a standard MCP server. No browser required.
+2026-09-30T09:30:57.235733Z,bake-license,0.1.0,0,0,https://github.com/socketry/bake-license-rust,License and copyright maintenance tasks for Bake
+2026-09-30T09:31:10.271572Z,bake-cargo,0.2.0,0,0,https://github.com/socketry/bake-cargo-rust,Cargo project and release automation tasks for Bake
+2026-09-30T09:32:26.341065Z,tc_key_wrap,0.1.0,0,0,https://github.com/TomiCheng/tc_key_wrap,"RFC 3394, RFC 5649 and RFC 3211 key wrapping over block ciphers, with shared key-wrap traits."
+2026-09-30T09:34:58.984581Z,claudash,0.2.0,0,0,https://github.com/jguajardo/claudash,"Unofficial terminal dashboard for Claude Code: sessions, plan and context usage, MCP health, instructions, skills and plugins"
+2026-09-30T09:35:20.49747Z,urushi-prompt,0.1.0,0,0,https://github.com/choplin/urushi,Interactive terminal prompts styled with urushi
+2026-09-30T09:39:51.373898Z,pallet-robonomics-cps-runtime-api,1.0.0,0,0,https://github.com/airalab/robonomics,Runtime API for CPS pallet
+2026-09-30T09:45:18.034042Z,urushi-tui,0.1.0,0,0,https://github.com/choplin/urushi,Synchronous full-screen presentation for Urushi
+2026-09-30T09:49:19.644477Z,robonomics-runtime-metadata,51.0.0,0,0,https://github.com/airalab/robonomics,"Robonomics runtime SCALE-encoded metadata, extraction and validation."
+2026-09-30T09:53:15.974697Z,unllm-core,0.0.1,0,0,,"Protocol-neutral request, response, streaming, and conversion types for unllm"
+2026-09-30T09:53:21.700285Z,unllm-openai,0.0.1,0,0,,"OpenAI Chat Completions, Responses, Embeddings, and Images codecs for unllm"
+2026-09-30T09:53:24.724126Z,unllm-anthropic,0.0.1,0,0,,Anthropic Messages codecs for unllm
+2026-09-30T09:53:28.189768Z,unllm-gemini,0.0.1,0,0,,Google Gemini generateContent and embedding codecs for unllm
+2026-09-30T09:53:33.292973Z,unllm,0.0.1,0,0,,A protocol-neutral model and gateway for large language model APIs
+2026-09-30T09:54:34.3271Z,tc_rc2_wrap,0.1.0,0,0,https://github.com/TomiCheng/tc_key_wrap,"CMS RC2 key wrapping (RFC 3217) with SHA-1 integrity, over tc_rc_cipher."
+2026-09-30T09:55:27.193433Z,simpletaskmgr,1.0.0-beta.3,0,0,https://github.com/paulez/simpletaskmgr,"A simple GTK4 task manager: CPU/Mem/Disk graphs, a process list, and Terminate/Kill (SIGTERM/SIGKILL) from the detail pane"
+2026-09-30T09:55:55.432459Z,urushi-tui-app,0.1.0,0,0,https://github.com/choplin/urushi,TEA application framework for Urushi full-screen terminal interfaces
+2026-09-30T10:03:35.847925Z,mimalloc-rich-src-build,0.1.0-alpha.1,0,0,https://github.com/Techcable/mimalloc-rich.rs,"Build code for vendored mimalloc, shared across all versions"
+2026-09-30T10:03:37.811139Z,mimalloc-rich-src-v2,1.5.200,0,0,https://github.com/Techcable/mimalloc-rich.rs,Builds mimalloc v2 from vendored source code
+2026-09-30T10:03:38.471996Z,mimalloc-rich-src-v3,1.5.300,0,0,https://github.com/Techcable/mimalloc-rich.rs,Builds mimalloc v3 from vendored source code
+2026-09-30T10:09:38.545155Z,tabnas-alchemy,0.1.1,0,0,https://github.com/tabnas/alchemy,The alchemy grammar plugin and language for the tabnas parsing engine: declarative streaming transducers and renderers.
+2026-09-30T10:12:06.052121Z,fraiseql-guard,2.15.0,0,0,https://github.com/fraiseql/fraiseql,The single outbound-address SSRF guard shared by every FraiseQL crate that makes network requests
+2026-09-30T10:13:17.472494Z,fraiseql-kafka,2.15.0,0,0,https://github.com/fraiseql/fraiseql,The single Kafka egress shared by FraiseQL's CDC outbox sink and its subscription transport
+2026-09-30T10:14:26.929175Z,fraiseql-jwks,2.15.0,0,0,https://github.com/fraiseql/fraiseql,The single bounded JWKS client shared by every FraiseQL crate that verifies a JWT against a published key set
+2026-09-30T10:15:06.797404Z,wz-editor,0.0.1,0,0,,冒险岛wz素材浏览编辑器
+2026-09-30T10:17:12.443545Z,packet-dissector-null,0.5.0,0,0,https://github.com/higebu/packet-dissector,BSD loopback (LINKTYPE_NULL / LINKTYPE_LOOP) dissector for packet-dissector
+2026-09-30T10:17:15.552626Z,packet-dissector-raw-ip,0.5.0,0,0,https://github.com/higebu/packet-dissector,Raw IP (LINKTYPE_RAW / LINKTYPE_IPV4 / LINKTYPE_IPV6) link-type dispatcher for packet-dissector
+2026-09-30T10:19:58.613395Z,fraiseql-cdc-sinks,2.15.0,0,0,https://github.com/fraiseql/fraiseql,Outbound change-data-capture: drains the FraiseQL change-log outbox to external brokers (#382)
+2026-09-30T10:20:13.583335Z,gasm-sdk,0.2.0,0,0,https://github.com/emdzej/gasm,"Write games for gasm, a portable game runtime on WebAssembly: bindings for the gasm ABI (video, audio, input, WebGPU, network, storage) plus a Game trait"
