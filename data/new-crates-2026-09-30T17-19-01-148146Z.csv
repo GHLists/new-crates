@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T16:22:23.075584Z,beatnet-rs,0.1.0,0,0,https://github.com/coral/beatnet-rs,Synchronous streaming BeatNet beat and downbeat tracking
+2026-09-30T16:23:22.158036Z,peer-pressure-derive,0.1.0,0,0,https://github.com/monotonic-tech/peer-pressure,Stupidly simple derivations for a stupidly simple validation library
+2026-09-30T16:23:24.827256Z,peer-pressure,0.1.0,0,0,https://github.com/monotonic-tech/peer-pressure,Stupidly simple validation library
+2026-09-30T16:23:24.859142Z,annex-server,0.2.0,0,0,https://github.com/rosharma719/annex,Reference HTTP servers on top of annex (dense single-vector) and annex-multivector (late-interaction).
+2026-09-30T16:23:27.844669Z,annex-multivector,0.2.0,0,0,https://github.com/rosharma719/annex,"Late-interaction retrieval built on annex: MUVERA fixed-dimensional candidate generation, packed 2-bit residuals, ColBERT MaxSim rescoring."
+2026-09-30T16:25:17.694508Z,pictogram-core,0.4.0,0,0,https://github.com/tdymel/pictogram,Framework independent svg icon data model for pictogram.
+2026-09-30T16:26:58.366833Z,war3-archive,0.0.2,0,0,https://github.com/w3wright/w3wright,"MPQ container reading: hash and block tables, sector decompression, member enumeration."
+2026-09-30T16:27:11.061519Z,war3-meta,0.0.2,0,0,https://github.com/w3wright/w3wright,"Object field metadata and trigger definitions (SYLK / INI / TXT), split into a mechanical and an expressive layer."
+2026-09-30T16:27:16.824524Z,war3-map,0.0.2,0,0,https://github.com/w3wright/w3wright,Map composition model and metadata-class file parsing (w3i / wts / imp). Excludes terrain and object data.
+2026-09-30T16:27:24.38521Z,war3-cli,0.0.2,0,0,https://github.com/w3wright/w3wright,CLI umbrella crate providing the `war3` binary. Depends on every other crate; none depends on it.
+2026-09-30T16:28:04.283044Z,aerostream-client,0.1.0,0,0,https://github.com/gradientgeeks/aerostream-sdk,Official production-grade Rust client SDK for the AeroStream native binary protocol
+2026-09-30T16:30:47.420605Z,backbone-core,2.7.35,0,0,https://github.com/faridlab/backbone-framework,Backbone Framework Core - Foundation for generic CRUD system
+2026-09-30T16:33:05.803711Z,gatekv,0.1.0,0,0,https://github.com/whispem/gatekv,A Raft-replicated key-value store in under 1000 lines of Rust and x86-64 assembly
+2026-09-30T16:38:35.503894Z,lombokalgoritma,0.2.0,0,0,https://github.com/LombokEcosystem/LombokAlgoritma,"LombokAlgoritma — deterministic, zero-dependency algorithm library (sort, search, math, strings, hashes, data structures, graphs, ML, geometry, compression, PRNG); no_std + alloc"
+2026-09-30T16:38:38.428931Z,lombokalgoritma-capi,0.2.0,0,0,https://github.com/LombokEcosystem/LombokAlgoritma,C ABI for LombokAlgoritma (cdylib + staticlib); header in include/lombokalgoritma.h
+2026-09-30T16:38:41.04088Z,lombokalgoritma-wasm,0.2.0,0,0,https://github.com/LombokEcosystem/LombokAlgoritma,WebAssembly bindings (wasm-bindgen) for LombokAlgoritma
+2026-09-30T16:38:48.296321Z,proc-suite,0.1.0,0,0,https://github.com/auguth/rust-suite.git,Rust's procedural macro building suite with utilities for framework-level macros
+2026-09-30T16:39:44.22876Z,ai-workspace,0.2.1,0,0,https://github.com/drmartinwimmer/aiw,"An easy to use, opinionated tool for creating sandboxed AI workspaces"
+2026-09-30T16:40:07.119396Z,wbindkeys,0.1.0,0,0,https://github.com/divanvisagie/wbindkeys,"A Wayland replacement for xbindkeys: bind keys, mouse buttons and scroll events to commands with a Lua config"
+2026-09-30T16:41:11.726447Z,backbone-jobs,2.7.35,0,0,https://github.com/faridlab/backbone-framework,Job scheduling and cron management for the Backbone Framework
+2026-09-30T16:42:10.334885Z,instances-macros,0.1.0,0,0,https://github.com/auguth/rust-suite.git,The Instance Macros Core Proc Macros Crate (only use via `instances` crate)
+2026-09-30T16:43:45.576883Z,instances,0.1.0,0,0,https://github.com/auguth/rust-suite.git,The Instance Macros Access Crate (Low-Level)
+2026-09-30T16:45:06.251543Z,inst-macros,0.1.0,0,0,https://github.com/auguth/rust-suite.git,The Inst Macros Proc Macros Crate (only use via `inst` crate)
+2026-09-30T16:45:17.131248Z,power-openapi-models,0.1.0,0,0,https://github.com/Sienna-Platform/power-openapi-models,Typed Rust models for the Sienna power system data format
+2026-09-30T16:46:51.811333Z,kcode-k1-web-code-ktool-protocol,0.1.0,0,0,,Strict model-call protocol for K1 Web code Ktools
+2026-09-30T16:50:10.158001Z,packet-dissector-llmnr,0.5.0,0,0,https://github.com/higebu/packet-dissector,LLMNR (RFC 4795) dissector for packet-dissector
+2026-09-30T16:50:59.857481Z,backbone-tenant,2.7.35,0,0,https://github.com/faridlab/backbone-framework,"Per-tenant runtime registry: resolve a request to its tenant's runtime (pool + built modules), building each tenant once and caching it (ADR-0006)."
+2026-09-30T16:51:07.622849Z,nanomp3-core,0.2.0,0,0,https://github.com/robbie01/nanomp3,"The no_std, allocation-free MPEG audio decoder behind nanomp3 (a bit-exact, safe Rust port of minimp3)"
+2026-09-30T16:57:41.002009Z,seedtest,0.1.0,0,0,https://codeberg.org/YGGverse/seedtest,Simple Web application to check Bittorrent seed connectivity
+2026-09-30T16:58:38.04356Z,druid-core,1.2.0,0,0,https://github.com/erikwang2013/druid-rust,"Core types and config for Druid-Rust — DruidConfig, DruidError, DbType"
+2026-09-30T16:58:54.267073Z,druid-util,1.2.0,0,0,https://github.com/erikwang2013/druid-rust,"Utility library for Druid-Rust — SQL detection, string helpers, crypto, time"
+2026-09-30T16:59:07.44309Z,druid-sql,1.2.0,0,0,https://github.com/erikwang2013/druid-rust,"SQL parser and AST for Druid-Rust — lexer, parser, formatter, schema visitor"
+2026-09-30T16:59:21.76688Z,msucat,0.1.0,0,0,https://github.com/raidshadowmc-sudo/msucat,"Fast, cross-platform CLI and library for searching, inspecting, and downloading from Microsoft Update Catalog"
+2026-09-30T17:00:39.230557Z,backbone-accounting,0.9.27,0,0,https://github.com/faridlab/backbone-accounting,"GL, journals, ledger, reconciliation (extracted from bersihir)"
+2026-09-30T17:01:07.336142Z,druid-filter,1.2.0,0,0,https://github.com/erikwang2013/druid-rust,Filter chain architecture for Druid-Rust — pluggable lifecycle hooks
+2026-09-30T17:01:21.085726Z,apple-foundation,0.2.0,0,0,https://github.com/hraness/apple-foundation,"Rust client and Swift bridge for Apple's on-device Foundation Models, with schema-guided JSON output and one request at a time"
+2026-09-30T17:03:21.454599Z,hraness-cli-kit,1.1.2,0,0,https://github.com/hraness/desktop-foundation,"Shared words and rules for Hraness command-line tools: who is reading, macOS permission notices, and output style"
+2026-09-30T17:05:21.93147Z,gobstopper-core,0.7.5,0,0,https://github.com/hraness/gobstopper,Provider-neutral transcript model and compaction strategy engine
+2026-09-30T17:05:48.279355Z,storm-engine,0.1.0,0,0,https://github.com/andraaal/storm,A rules engien for MTG
+2026-09-30T17:06:41.561493Z,druid-stat,1.2.0,0,0,https://github.com/erikwang2013/druid-rust,"SQL monitoring and statistics for Druid-Rust — slow SQL detection, PoolMetrics"
+2026-09-30T17:10:03.358871Z,backbone-asset,0.5.21,0,0,https://github.com/faridlab/backbone-asset,Minimal Backbone Framework module skeleton
+2026-09-30T17:11:30.103061Z,cortex-domain,0.1.0,0,0,https://github.com/sergii-ziborov/cortex-loom,Transport-independent typed process-graph schema with structural validation invariants.
+2026-09-30T17:11:38.665418Z,cortex-context,0.1.0,0,0,https://github.com/sergii-ziborov/cortex-loom,"Deterministic, budget-bounded evidence selection and retrieval ranking for LLM context packets."
+2026-09-30T17:11:46.690434Z,cortex-router,0.1.0,0,0,https://github.com/sergii-ziborov/cortex-loom,"Fail-closed, model-free routing policy that decides between deterministic tools, local models, and an upstream agent."
+2026-09-30T17:11:54.302856Z,cortex-skills,0.1.0,0,0,https://github.com/sergii-ziborov/cortex-loom,Round-trip compiler between readable SKILL.md Markdown workflows and typed process graphs.
+2026-09-30T17:16:38.41735Z,druid-wall,1.2.0,0,0,https://github.com/erikwang2013/druid-rust,"SQL firewall for Druid-Rust — AST-level security checks, deny functions/operations"
+2026-09-30T17:16:48.337942Z,gobstopper-adapters,0.7.5,0,0,https://github.com/hraness/gobstopper,Session discovery and transcript adapters for Claude Code and Codex
