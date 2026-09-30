@@ -8,32 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 06:19 UTC
+## Latest list — 2026-09-30 07:21 UTC
 
-New crates published between 2026-09-30 05:21 UTC and 2026-09-30 06:19 UTC.
+New crates published between 2026-09-30 06:19 UTC and 2026-09-30 07:21 UTC.
 
-[Full CSV](data/new-crates-2026-09-30T06-19-18-286555Z.csv)
+[Full CSV](data/new-crates-2026-09-30T07-21-43-365697Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-30 05:30:15 | [kcode-k1-audio-classification-engine](https://crates.io/crates/kcode-k1-audio-classification-engine) | 0.1.0 | 0 | Single-job execution for K1 Audio V1 classification |
-| 2026-09-30 05:38:52 | [abnegate-http](https://crates.io/crates/abnegate-http) | 0.1.0 | 0 | An HTTP client abstraction, SSRF-guarded outbound fetches, keyed rate limiting,… |
-| 2026-09-30 05:38:53 | [abnegate-secret](https://crates.io/crates/abnegate-secret) | 0.1.0 | 0 | Secret values that zeroize on drop, redact in Debug and logs, and encrypt at re… |
-| 2026-09-30 05:38:55 | [abnegate-vision](https://crates.io/crates/abnegate-vision) | 0.1.0 | 0 | Subject-aware image cropping: decode JPEG, PNG and WebP, locate the salient sub… |
-| 2026-09-30 05:38:58 | [abnegate-config](https://crates.io/crates/abnegate-config) | 0.1.0 | 0 | Typed TOML configuration for command line applications: a generic file loader t… |
-| 2026-09-30 05:39:00 | [abnegate-exec](https://crates.io/crates/abnegate-exec) | 0.1.0 | 0 | Sandboxed command execution with streaming output: seatbelt on macOS, bubblewra… |
-| 2026-09-30 05:48:39 | [penfill](https://crates.io/crates/penfill) | 0.1.0 | 0 | Fills and hatches for pen plotters: zigzag, spiral, lattices, stipple, gravel,… |
-| 2026-09-30 05:49:25 | [abnegate-llm](https://crates.io/crates/abnegate-llm) | 0.1.0 | 0 | OpenAI-compatible chat completions with SSE streaming and weighted provider rou… |
-| 2026-09-30 05:54:34 | [stranger-strings](https://crates.io/crates/stranger-strings) | 0.3.1 | 0 | Extract human-readable strings from binary files using trigram-based scoring |
-| 2026-09-30 05:57:00 | [appleseed-proto](https://crates.io/crates/appleseed-proto) | 0.2.1 | 0 | Shared API types and websocket messages for Appleseed |
-| 2026-09-30 05:57:56 | [appleseed-server](https://crates.io/crates/appleseed-server) | 0.2.1 | 0 | Appleseed server: self-hosted pastebin for HTML and Markdown with an agent back… |
-| 2026-09-30 05:58:09 | [appleseed](https://crates.io/crates/appleseed) | 0.2.1 | 0 | Appleseed CLI: publish Markdown and HTML, and hear back from the page |
-| 2026-09-30 05:59:45 | [abnegate-notify](https://crates.io/crates/abnegate-notify) | 0.1.0 | 0 | One notification delivered to every channel at once, with per-channel isolation… |
-| 2026-09-30 06:05:19 | [hakocluster](https://crates.io/crates/hakocluster) | 0.2.0 | 0 | In-process dispatcher over N hakodb instances: reads fan out, writes route, soc… |
-| 2026-09-30 06:06:03 | [vers-like-specifier](https://crates.io/crates/vers-like-specifier) | 0.1.0 | 0 | vls (vers-like specifier) parser |
-| 2026-09-30 06:08:14 | [canix-toolbelt](https://crates.io/crates/canix-toolbelt) | 0.1.0 | 0 | Reusable runtime-manifest library and CLI for Canix-style architectures |
-| 2026-09-30 06:09:13 | [axwatch](https://crates.io/crates/axwatch) | 0.1.0 | 0 | Watch the macOS Accessibility grant: the two undocumented notifications that fi… |
-| 2026-09-30 06:10:08 | [abnegate-search](https://crates.io/crates/abnegate-search) | 0.1.0 | 0 | SearXNG metasearch client with a web-search intent heuristic and prompt-ready r… |
+| 2026-09-30 06:20:37 | [abnegate-vcs](https://crates.io/crates/abnegate-vcs) | 0.1.0 | 0 | Git operations over the git command line: branches, worktrees, merge-conflict r… |
+| 2026-09-30 06:24:08 | [regain-transport](https://crates.io/crates/regain-transport) | 0.5.1 | 0 | Bounded serial I/O and USB recovery shared by vendor protocols |
+| 2026-09-30 06:24:09 | [regain-worker](https://crates.io/crates/regain-worker) | 0.5.1 | 0 | Bounded JSON-line IPC shared by accessory workers |
+| 2026-09-30 06:24:10 | [regain-core](https://crates.io/crates/regain-core) | 0.5.1 | 0 | Camera worker supervision and capture recovery for PulsarFab regain |
+| 2026-09-30 06:24:10 | [regain-deepskydad](https://crates.io/crates/regain-deepskydad) | 0.5.1 | 0 | SDK-free Deep Sky Dad OFP2 flat panel protocol |
+| 2026-09-30 06:24:11 | [regain-pegasus](https://crates.io/crates/regain-pegasus) | 0.5.1 | 0 | SDK-free Pegasus Astro FocusCube3 focuser protocol |
+| 2026-09-30 06:28:23 | [regain-wanderer](https://crates.io/crates/regain-wanderer) | 0.5.1 | 0 | SDK-free Wanderer Astro ETA tilt and back-focus protocol |
+| 2026-09-30 06:31:14 | [abnegate-agent-cli](https://crates.io/crates/abnegate-agent-cli) | 0.1.0 | 0 | Coding agent CLIs (Claude Code, Codex) driven as child processes behind the abn… |
+| 2026-09-30 06:38:45 | [regain-zwo](https://crates.io/crates/regain-zwo) | 0.5.1 | 0 | ZWO camera, rotator, filter wheel and focuser protocols |
+| 2026-09-30 06:42:08 | [abnegate-agent](https://crates.io/crates/abnegate-agent) | 0.1.0 | 0 | A ReAct agent loop with a sandbox-aware tool registry, background jobs, token-a… |
+| 2026-09-30 06:42:59 | [flags-local](https://crates.io/crates/flags-local) | 1.0.0 | 0 | High-performance Rust client SDK for flags-local feature flag management |
+| 2026-09-30 06:44:12 | [tc_dstu7624](https://crates.io/crates/tc_dstu7624) | 0.1.0 | 0 | DSTU 7624:2014 (Kalyna) block cipher with 128-, 256- and 512-bit blocks. |
+| 2026-09-30 06:48:00 | [regain-device](https://crates.io/crates/regain-device) | 0.5.1 | 0 | Unified hardware worker and diagnostic CLI for PulsarFab regain |
+| 2026-09-30 06:52:32 | [abnegate-comfy](https://crates.io/crates/abnegate-comfy) | 0.1.0 | 0 | ComfyUI image, video, and audio generation, model inventory, and LoRA training |
+| 2026-09-30 06:55:57 | [taconite-qwen35](https://crates.io/crates/taconite-qwen35) | 0.1.0 | 0 | Qwen3.5-2B chat about text and images (hybrid Gated DeltaNet / attention LLM +… |
+| 2026-09-30 06:58:26 | [regain-alpaca](https://crates.io/crates/regain-alpaca) | 0.5.1 | 0 | Alpaca server for cameras, rotators, filter wheels, focusers and flat panels, w… |
+| 2026-09-30 06:59:12 | [ebctl](https://crates.io/crates/ebctl) | 0.1.0 | 0 | An Event Driven Framework - operator CLI for the event_base gRPC control plane |
+| 2026-09-30 07:18:29 | [faucet-common-singer](https://crates.io/crates/faucet-common-singer) | 1.0.0 | 0 | Shared Singer protocol types (messages, encoding, redaction, private config fil… |
+| 2026-09-30 07:18:51 | [faucet-sink-singer](https://crates.io/crates/faucet-sink-singer) | 1.0.0 | 0 | Singer target bridge sink for the faucet-stream ecosystem — run any Singer targ… |
+| 2026-09-30 07:19:03 | [pinakes](https://crates.io/crates/pinakes) | 0.0.0 | 0 | A self-hosted knowledge service: an LLM-maintained wiki with fast, LLM-free rea… |
+| 2026-09-30 07:20:33 | [lstm-shapecalc](https://crates.io/crates/lstm-shapecalc) | 0.1.0 | 0 | LSTM layer parameter-count and output-shape math matching PyTorch nn.LSTM |
+| 2026-09-30 07:20:57 | [ai-mention-rs](https://crates.io/crates/ai-mention-rs) | 0.1.0 | 0 | Detect brand mentions and sentence-level citations in AI-generated answer text |
 
 ## Data source
 

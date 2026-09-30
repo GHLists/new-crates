@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T06:20:37.458477Z,abnegate-vcs,0.1.0,0,0,https://github.com/abnegate/crates,"Git operations over the git command line: branches, worktrees, merge-conflict reproduction, dependency discovery and GitHub pull requests"
+2026-09-30T06:24:08.80104Z,regain-transport,0.5.1,0,0,https://github.com/pulsarfab/regain,Bounded serial I/O and USB recovery shared by vendor protocols
+2026-09-30T06:24:09.30112Z,regain-worker,0.5.1,0,0,https://github.com/pulsarfab/regain,Bounded JSON-line IPC shared by accessory workers
+2026-09-30T06:24:10.022061Z,regain-core,0.5.1,0,0,https://github.com/pulsarfab/regain,Camera worker supervision and capture recovery for PulsarFab regain
+2026-09-30T06:24:10.729123Z,regain-deepskydad,0.5.1,0,0,https://github.com/pulsarfab/regain,SDK-free Deep Sky Dad OFP2 flat panel protocol
+2026-09-30T06:24:11.254161Z,regain-pegasus,0.5.1,0,0,https://github.com/pulsarfab/regain,SDK-free Pegasus Astro FocusCube3 focuser protocol
+2026-09-30T06:28:23.634931Z,regain-wanderer,0.5.1,0,0,https://github.com/pulsarfab/regain,SDK-free Wanderer Astro ETA tilt and back-focus protocol
+2026-09-30T06:31:14.27516Z,abnegate-agent-cli,0.1.0,0,0,https://github.com/abnegate/crates,"Coding agent CLIs (Claude Code, Codex) driven as child processes behind the abnegate-llm completion provider contract, with bounded NDJSON framing, stream parsers, MCP attachment and execution logs"
+2026-09-30T06:38:45.962747Z,regain-zwo,0.5.1,0,0,https://github.com/pulsarfab/regain,"ZWO camera, rotator, filter wheel and focuser protocols"
+2026-09-30T06:42:08.930824Z,abnegate-agent,0.1.0,0,0,https://github.com/abnegate/crates,"A ReAct agent loop with a sandbox-aware tool registry, background jobs, token-aware context compaction, chat history storage, session persistence, prompt templates and an optional MCP client"
+2026-09-30T06:42:59.381133Z,flags-local,1.0.0,0,0,https://github.com/authoritydmc/flags-local,High-performance Rust client SDK for flags-local feature flag management
+2026-09-30T06:44:12.820924Z,tc_dstu7624,0.1.0,0,0,https://github.com/TomiCheng/tc_block_cipher,"DSTU 7624:2014 (Kalyna) block cipher with 128-, 256- and 512-bit blocks."
+2026-09-30T06:48:00.026635Z,regain-device,0.5.1,0,0,https://github.com/pulsarfab/regain,Unified hardware worker and diagnostic CLI for PulsarFab regain
+2026-09-30T06:52:32.445709Z,abnegate-comfy,0.1.0,0,0,https://github.com/abnegate/crates,"ComfyUI image, video, and audio generation, model inventory, and LoRA training"
+2026-09-30T06:55:57.501146Z,taconite-qwen35,0.1.0,0,0,https://github.com/Brishen/taconite,Qwen3.5-2B chat about text and images (hybrid Gated DeltaNet / attention LLM + ViT) on an AMD XDNA NPU: IRON kernels replayed through XRT or directly through the amdxdna driver
+2026-09-30T06:58:26.336973Z,regain-alpaca,0.5.1,0,0,https://github.com/pulsarfab/regain,"Alpaca server for cameras, rotators, filter wheels, focusers and flat panels, with camera download recovery"
+2026-09-30T06:59:12.730302Z,ebctl,0.1.0,0,0,https://github.com/RedElectricity/event_base,An Event Driven Framework - operator CLI for the event_base gRPC control plane
+2026-09-30T07:18:29.100962Z,faucet-common-singer,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,"Shared Singer protocol types (messages, encoding, redaction, private config files) for the faucet-stream Singer tap and target bridges"
+2026-09-30T07:18:51.270777Z,faucet-sink-singer,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,Singer target bridge sink for the faucet-stream ecosystem — run any Singer target as a faucet sink
+2026-09-30T07:19:03.483439Z,pinakes,0.0.0,0,0,,"A self-hosted knowledge service: an LLM-maintained wiki with fast, LLM-free reads for agents. Under development; this release only reserves the name."
+2026-09-30T07:20:33.651801Z,lstm-shapecalc,0.1.0,0,0,https://github.com/theluckystrike/lstm-shapecalc,LSTM layer parameter-count and output-shape math matching PyTorch nn.LSTM
+2026-09-30T07:20:57.754331Z,ai-mention-rs,0.1.0,0,0,https://github.com/theluckystrike/ai-mention-rs,Detect brand mentions and sentence-level citations in AI-generated answer text
