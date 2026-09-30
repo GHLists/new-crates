@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T00:20:45.27776Z,furious-qr,3.0.0,0,0,https://github.com/zhengkyl/furious-qr/tree/main/rust,A small and hackable QR code generator
+2026-09-30T00:26:45.939715Z,emblema-present-drm,0.0.0,0,0,https://github.com/jwinarske/impeller-rs,Reserved name for part of the emblema renderer. DRM/KMS direct-scanout presentation target. Not yet released.
+2026-09-30T00:29:08.043272Z,socketry-executor,0.1.0,1,1,https://github.com/socketry/socketry-rust,Owned asynchronous tasks and a work-stealing future scheduler
+2026-09-30T00:29:21.731985Z,socketry,0.1.0,0,0,https://github.com/socketry/socketry-rust,Foundational concurrency APIs for Socketry
+2026-09-30T00:36:34.844569Z,tabnas-transduce,0.1.0,0,0,https://github.com/tabnas/transduce,"Streaming transducers over any tabnas parser: source events, selectors, bounded captures and the table protocol."
+2026-09-30T00:37:08.232433Z,emblema-present-egl,0.0.0,0,0,https://github.com/jwinarske/impeller-rs,Reserved name for part of the emblema renderer. EGL window-surface presentation target. Not yet released.
+2026-09-30T00:37:36.04423Z,lshn,0.3.0,0,0,https://github.com/sanford/lshn,"A terminal Hacker News reader built for speed: stories, articles and comments on one screen"
+2026-09-30T00:38:04.033806Z,seat,0.1.1,0,0,https://github.com/diegonetto/memo,Offline agent-to-agent mail plus a tmux supervisor for each agent's stored command
+2026-09-30T00:42:07.218612Z,bingekit-episode,0.1.0,0,0,https://github.com/benashby/bingekit,"Episode information from media filenames (general and anime release names), and a viewing order for a folder of them"
+2026-09-30T00:44:33.188319Z,bingekit-library,0.2.0,0,0,https://github.com/benashby/bingekit,"Find the video files in a folder, work out which language each audio and subtitle track is in, and pick tracks for every file from ranked language pairings"
+2026-09-30T00:47:30.520753Z,emblema-present-vk,0.0.0,0,0,https://github.com/jwinarske/impeller-rs,Reserved name for part of the emblema renderer. Vulkan WSI swapchain presentation target. Not yet released.
+2026-09-30T00:53:13.849869Z,tabnas-render,0.1.0,0,0,https://github.com/tabnas/render,Renderers for the tabnas transducer protocols: incremental CSV and JSON text from streamed tables and events.
+2026-09-30T00:57:52.890614Z,emblema-renderer,0.0.0,0,0,https://github.com/jwinarske/impeller-rs,"Reserved name for part of the emblema renderer. Render pass encoding, generic over the rendering HAL. Not yet released."
+2026-09-30T01:08:15.213341Z,emblema-shaders,0.0.0,0,0,https://github.com/jwinarske/impeller-rs,"Reserved name for part of the emblema renderer. WGSL shader sources, translated at build time by naga. Not yet released."
+2026-09-30T01:10:21.915429Z,sootmark-ad1,0.1.0,0,0,https://github.com/Sootmark/ad1,"AccessData AD1 logical images (FTK Imager custom content images): items, metadata, streamed content, segments."
+2026-09-30T01:14:40.597112Z,trex-re,0.1.0,0,0,https://github.com/Variably-Constant/trex,"Token-Regular EXpression: a regex-shaped pattern language over typed tokens, evaluated by derivatives with long-distance binding and no catastrophic backtracking."
+2026-09-30T01:18:37.209394Z,emblema-testkit,0.0.0,0,0,https://github.com/jwinarske/impeller-rs,Reserved name for part of the emblema renderer. Shared test harness: scene corpus and cross-backend comparison. Not yet released.
