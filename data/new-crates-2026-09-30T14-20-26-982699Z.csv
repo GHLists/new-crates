@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T13:20:19.420091Z,scopekit,0.1.0,0,0,https://github.com/holg/scopekit,"Build ratatui viewers with a live wgpu view: in any terminal (kitty, iTerm2, sixel or half blocks) or in their own window with the view composited at full resolution"
+2026-09-30T13:31:47.719656Z,packet-dissector-bmp,0.5.0,0,0,https://github.com/higebu/packet-dissector,"BMP (BGP Monitoring Protocol, RFC 7854) dissector for packet-dissector"
+2026-09-30T13:34:52.011983Z,fusor-worker-macros,0.1.2,0,0,https://github.com/fusor-rs/fusor,Compiled task and service registration for fusor-worker
+2026-09-30T13:34:58.933571Z,fusor-worker,0.1.2,0,0,https://github.com/fusor-rs/fusor,Owned background tasks and worker services for fusor
+2026-09-30T13:36:38.310458Z,udp-addr-index-proto,0.1.1,0,0,https://github.com/n0-computer/iroh-content-discovery,Wire protocol for opaque UDP address records
+2026-09-30T13:37:19.173567Z,natdb-sys,0.1.0,0,0,https://github.com/JhonaCodes/natdb,"Raw FFI bindings to LMDB, built from vendored upstream sources."
+2026-09-30T13:37:31.131273Z,natdb,0.1.0,0,0,https://github.com/JhonaCodes/natdb,"Safe, idiomatic Rust bindings for LMDB 1.0 (maintained fork of lmdb-rkv)."
+2026-09-30T13:37:58.136937Z,iroh-mainline-endpoint-discovery,0.1.1,0,0,https://github.com/n0-computer/iroh-content-discovery,Publish and discover iroh endpoints through Mainline
+2026-09-30T13:38:08.224237Z,udp-addr-index,0.1.1,0,0,https://github.com/n0-computer/iroh-content-discovery,Small opaque records for verified UDP addresses
+2026-09-30T13:38:21.929402Z,iroh-link-gateway,0.1.1,0,0,https://github.com/n0-computer/iroh-content-discovery,Local HTTP streaming gateway for BLAKE3 content discovered through Mainline
+2026-09-30T13:38:30.722986Z,packet-dissector-erspan,0.5.0,0,0,https://github.com/higebu/packet-dissector,"ERSPAN (Type I, II, III) dissector for packet-dissector"
+2026-09-30T13:41:58.064294Z,keepword-core,2.0.0,0,0,https://github.com/keepword-net/keepword,"Protocol types for Keepword: attestations, signed tree heads, Merkle proofs, assignment and quorum rules"
+2026-09-30T13:42:00.332154Z,keepword-capture,2.0.0,0,0,https://github.com/keepword-net/keepword,"Fetching pages as evidence: raw HTTP with TLS details, optional headless rendering, WARC export"
+2026-09-30T13:42:02.722234Z,keepword-normalize,2.0.0,0,0,https://github.com/keepword-net/keepword,"Canonicalizer that reduces captured pages to their meaningful content, plus the edit diff engine"
+2026-09-30T13:42:05.284913Z,keepword-store,2.0.0,0,0,https://github.com/keepword-net/keepword,"Content-addressed blob store, attestation index and the node's append-only Merkle log"
+2026-09-30T13:42:12.296357Z,keepword,2.0.0,0,0,https://github.com/keepword-net/keepword,"The Keepword node: CLI, watch scheduler and web UI"
+2026-09-30T13:43:50.906184Z,kcode-k1-ktool-social,0.1.0,0,0,,Read-only model-facing K1 social Ktools
+2026-09-30T13:46:16.462654Z,packet-dissector-ieee80211,0.5.0,0,0,https://github.com/higebu/packet-dissector,IEEE 802.11 (Wi-Fi) MAC frame dissector for packet-dissector
+2026-09-30T13:47:46.382421Z,zisk-setup,1.3.1-alpha,0,0,https://github.com/0xPolygonHermez/zisk,Version of the ZisK proving key (setup) a build proves against
+2026-09-30T13:52:10.779795Z,netdb-observability,0.1.0,0,0,https://github.com/Netflix-Database/otel-instrumentation-rust,"Shared OpenTelemetry, logging, health and request-id wiring for Netdb's Rust services"
+2026-09-30T13:53:04.191927Z,socketry-project,0.1.1,0,0,https://github.com/socketry/socketry-project-rust,Shared project conventions and development tasks for Socketry Rust crates
+2026-09-30T13:56:18.28595Z,miden-usdcx,0.0.0,0,0,https://github.com/0xMiden/protocol,Placeholder crate for a Miden protocol project
+2026-09-30T13:58:09.910862Z,offlineasm,0.1.0,0,0,https://codeberg.org/playxe/offlineasm,Portable assembler for Rust
+2026-09-30T13:59:44.854171Z,wt_overlay_linux,0.1.0,0,0,https://github.com/Sanceilaks/wt_overlay_linux,A scriptable Wayland HUD overlay for War Thunder telemetry
+2026-09-30T14:00:00.616361Z,polyoxide-perps,0.34.0,0,0,https://github.com/dilettante-trading/polyoxide,Rust client library for the Polymarket Perps API
+2026-09-30T14:00:02.865005Z,sss-scene-capture-lib,0.1.0,0,0,https://github.com/sosuisen/sss-scene-capture-lib,"Capture a screenshot and system sound on Windows, as a CLI, a Rust library, and a C ABI DLL"
+2026-09-30T14:01:32.828871Z,packet-dissector-m3ua,0.5.0,0,0,https://github.com/higebu/packet-dissector,"M3UA (RFC 4666, SS7 MTP3-User Adaptation Layer) dissector for packet-dissector"
+2026-09-30T14:01:50.009907Z,litestd,1.24.0-alpha1,0,0,https://github.com/fereidani/litestd,"std's OS-dependent API (sync, thread, time, io, fs, net) for no_std crates, built directly on OS primitives"
+2026-09-30T14:11:30.914715Z,reactive-scope,0.1.0,0,0,https://github.com/jaycefayne/reactive-scope,A fine-grained reactive scope.
+2026-09-30T14:13:33.393918Z,kcode-k1-ktool-social-testkit,0.1.0,0,0,,Downstream real-stack conformance tests for K1 social Ktools
+2026-09-30T14:15:34.7173Z,sl-real,0.1.0,0,0,https://github.com/polidog/sl-real,端末を走る 3D 蒸気機関車。sl をソフトウェアラスタライザで本気にしたもの
