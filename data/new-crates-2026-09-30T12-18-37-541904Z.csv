@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T11:24:48.820349Z,zincite,0.0.0-pre,0,0,https://github.com/zayenz/zincite,MiniZinc development tools (placeholder)
+2026-09-30T11:24:55.240445Z,zincite-syntax,0.0.0-pre,0,0,https://github.com/zayenz/zincite,Source-preserving MiniZinc syntax for Zincite tooling (placeholder)
+2026-09-30T11:25:01.867436Z,zincite-fmt,0.0.0-pre,0,0,https://github.com/zayenz/zincite,MiniZinc source formatter (placeholder)
+2026-09-30T11:25:07.165053Z,zincite-lint,0.0.0-pre,0,0,https://github.com/zayenz/zincite,MiniZinc source lint advice (placeholder)
+2026-09-30T11:25:32.275281Z,unllm-gateway,0.0.1,0,0,,A multi-protocol HTTP gateway for unllm
+2026-09-30T11:25:40.080145Z,ironwork-jcl,0.1.2,0,0,https://github.com/Portll/ironwork,ironwork for COBOL: a reader for z/OS job control language
+2026-09-30T11:25:49.997086Z,ironwork-rt,0.1.2,0,0,https://github.com/Portll/ironwork,"ironwork for COBOL: the runtime a compiled program links, under the runtime exception"
+2026-09-30T11:27:54.515938Z,tabit-derive,0.1.0,0,0,https://github.com/JerryAZR/tabit,tabit's #[rig_tool] procedural macro (vendored from rig 0.41.0).
+2026-09-30T11:28:09.749919Z,tabit-protocol,0.1.0,0,0,https://github.com/JerryAZR/tabit,"The tabit frontend protocol vocabulary: commands, stamped events, and the handshake — shared by every transport and frontend."
+2026-09-30T11:28:17.599239Z,tabit-gate,0.1.0,0,0,https://github.com/JerryAZR/tabit,"The default permission gate: pi-sanity's policy ported to Rust (static, heuristic, allow-when-unsure)."
+2026-09-30T11:28:49.526045Z,tabit-providers,0.1.0,0,0,https://github.com/JerryAZR/tabit,"tabit's provider layer: Anthropic + OpenAI wire clients, streaming, and the portable completion/tool contracts (vendored from rig 0.41.0)."
+2026-09-30T11:29:04.186991Z,tabit-log,0.1.0,0,0,https://github.com/JerryAZR/tabit,"The durable conversation: tree, records, context manager, write buffer — agent-agnostic."
+2026-09-30T11:36:07.738401Z,huskarl-apple,0.1.0,0,0,https://github.com/huskarl-rs/huskarl-apple,macOS/iOS Keychain secrets and Secure Enclave cryptography for the huskarl ecosystem.
+2026-09-30T11:38:56.869713Z,asset-transform-geometry,0.6.4,0,0,https://github.com/gridhra/atx-mcp,Geometry detection for deterministic image transforms: scan tilt (Hough) and document quadrilateral detection. Part of the atx-mcp MCP server.
+2026-09-30T11:39:00.215914Z,tabit-config,0.1.0,0,0,https://github.com/JerryAZR/tabit,"Tabit provider/model configuration: schema, loading, validation."
+2026-09-30T11:39:08.216504Z,asset-transform-core,0.6.4,0,0,https://github.com/gridhra/atx-mcp,"Deterministic, non-generative image transform engine: pure recipe DSL (crop, resize, rotate, tone, LUT, mask, layers) with byte-identical output. Core of the atx-mcp MCP server."
+2026-09-30T11:39:17.23529Z,asset-transform-store,0.6.4,0,0,https://github.com/gridhra/atx-mcp,"Content-addressed, append-only asset store for deterministic image transforms: immutable revisions with recipe lineage. Part of the atx-mcp MCP server."
+2026-09-30T11:40:11.551432Z,atx-mcp,0.6.4,0,0,https://github.com/gridhra/atx-mcp,"Deterministic (non-generative) asset transformation MCP server: immutable, content-addressed image transforms for AI agents."
+2026-09-30T11:46:51.966502Z,smart-command-runner,1.0.1,0,0,https://github.com/smartlegionlab/smart-command-runner-rs,"Run grouped shell commands from a TOML file with blocks, confirmation modes, and logging"
+2026-09-30T11:47:57.844084Z,certmagic,0.1.0,0,0,https://github.com/houseme/certmagic,"Automatic TLS certificate acquisition, renewal, and maintenance for Rust servers"
+2026-09-30T11:48:18.61308Z,tabit-engine,0.1.0,0,0,https://github.com/JerryAZR/tabit,"tabit's agent engine: the turn loop, hooks, tool runtime, and streaming substrate (vendored from rig 0.41.0)."
+2026-09-30T11:48:40.933513Z,mdterm-core,0.3.0,0,0,https://github.com/yfyang86/mdterm,"Transcript model, discovery, watch and parse for mdterm"
+2026-09-30T11:48:54.574851Z,mdterm-pty,0.3.0,0,0,https://github.com/yfyang86/mdterm,Byte-transparent PTY proxy with hotkey interception for mdterm
+2026-09-30T11:49:02.198999Z,mdterm-render,0.3.0,0,0,https://github.com/yfyang86/mdterm,Terminal ANSI renderer (markdown + math + images) for mdterm
+2026-09-30T11:49:56.983342Z,mdterm-viewer,0.3.0,0,0,https://github.com/yfyang86/mdterm,HTML viewer server (axum + SSE) for mdterm
+2026-09-30T11:50:30.685813Z,mdterm-cli,0.3.0,0,0,https://github.com/yfyang86/mdterm,mdterm binary: PTY-proxy wrapper + markdown render surfaces
+2026-09-30T11:51:36.985122Z,ktrs-syntax,0.1.0,0,0,https://github.com/Hexay/ktrs,"Kotlin syntax kinds and lossless syntax tree, shaped like the Kotlin compiler's PSI"
+2026-09-30T11:51:39.434585Z,ktrs-lexer,0.1.0,0,0,https://github.com/Hexay/ktrs,"Kotlin and KDoc lexers, ported from the Kotlin compiler's JFlex specs"
+2026-09-30T11:51:41.772766Z,ktrs-parser,0.1.0,0,0,https://github.com/Hexay/ktrs,"Kotlin parser producing PSI-identical lossless trees, ported from the Kotlin compiler"
+2026-09-30T11:51:43.957934Z,ktrs-psi,0.1.0,0,0,https://github.com/Hexay/ktrs,"Typed Kotlin PSI accessors over the ktrs syntax tree, mirroring the compiler's psi-impl"
+2026-09-30T11:51:46.395692Z,ktrs-fmt,0.1.0,0,0,https://github.com/Hexay/ktrs,Kotlin formatter producing byte-identical output to ktfmt
+2026-09-30T11:58:18.251568Z,tabit-wire,0.1.0,0,0,https://github.com/JerryAZR/tabit,"The frozen wire's client role and the child-process substrate: spawn a tabit-core child, speak the frontend protocol to it."
+2026-09-30T12:01:09.362006Z,clipfetch,0.1.0,0,0,https://github.com/aureliothuerch/clip-fetch,"Download TikTok, Instagram and YouTube videos from the terminal, with quality selection up to 4K"
+2026-09-30T12:02:43.904637Z,ktrs-cli,0.1.0,0,0,https://github.com/Hexay/ktrs,Command-line front ends: `ktrs` and a flag-compatible `ktfmt` (binaries: the root `ktrs` package)
+2026-09-30T12:06:43.854492Z,smart-file-duplicate-manager,1.1.0,0,0,https://github.com/smartlegionlab/smart-file-duplicate-manager-rs,"Safe and fast duplicate file manager: multi-stage detection, dry-run, XDG trash, interactive review, reusable reports"
+2026-09-30T12:08:18.86637Z,tabit-rig,0.1.0,0,0,https://github.com/JerryAZR/tabit,One-dependency facade over tabit-providers + tabit-engine + tabit-derive; hosts the provider cassette test harness.
+2026-09-30T12:12:20.410541Z,ktrs,0.1.0,0,0,https://github.com/Hexay/ktrs,"Fast Kotlin tooling: a ktfmt-identical formatter (`ktrs fmt`, drop-in `ktfmt`)"
+2026-09-30T12:18:13.773836Z,cordis-wasm,0.0.1,0,0,https://github.com/dshbox/cordis-rs,Host-side WASM adapter for the Cordis plugin runtime.
+2026-09-30T12:18:18.438379Z,tabit-tools,0.1.0,0,0,https://github.com/JerryAZR/tabit,Tabit coding tools: file reading and shell execution as PortableTools.
+2026-09-30T12:18:22.001657Z,cordis-wasm-runner,0.0.1,0,0,https://github.com/dshbox/cordis-rs,Loader and validator for Cordis WASM plugins.
+2026-09-30T12:18:30.225891Z,cordis-wit,0.0.1,0,0,https://github.com/dshbox/cordis-rs,Versioned WIT contract definitions (worlds/interfaces) for Cordis.
