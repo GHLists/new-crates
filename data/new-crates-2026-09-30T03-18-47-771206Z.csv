@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T02:20:23.928186Z,ring_spsc,0.1.0,0,0,https://github.com/Wandalen/ring,Single-producer single-consumer ring API
+2026-09-30T02:20:43.451292Z,ring_mpsc,0.1.0,0,0,https://github.com/Wandalen/ring,Multi-producer single-consumer ring API
+2026-09-30T02:21:04.430017Z,ring_core,0.1.0,0,0,https://github.com/Wandalen/ring,"Composed ring over an SPSC, MPSC, or crossbeam backend behind one surface"
+2026-09-30T02:21:49.495811Z,gluonscan-core,0.0.1-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,Core domain types and adapter ports for gluonscan: the read + normalize contract.
+2026-09-30T02:21:57.543443Z,gluonscan-testing,0.0.1-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,"Contract-based mock transports for gluonscan: replay recorded request/response contracts (HTTP/GraphQL, on-chain RPC; gRPC-ready) matched by filters."
+2026-09-30T02:22:02.09635Z,gluonscan-math,0.0.1-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,"Exact-integer DeFi math for gluonscan (Uniswap V3 Q64.96 tick math, etc.). No floats."
+2026-09-30T02:22:10.986574Z,gluonscan-evm,0.0.1-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,"EVM on-chain helpers for gluonscan: eth_call over an injected ChainProvider, minimal ABI encode/decode."
+2026-09-30T02:22:20.800407Z,gluonscan-solana,0.0.1-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,"Solana on-chain helpers for gluonscan: RPC over an injected ChainProvider, base58 pubkeys, program-derived addresses."
+2026-09-30T02:22:50.143246Z,feign-discovery,1.0.0,0,0,https://github.com/tttq/fast-feign,fast-feign 服务发现实现：静态配置 / 配置文件 / Nacos / Consul / etcd / Kubernetes
+2026-09-30T02:24:26.389924Z,mori-cli,0.1.0,0,0,,mori — the git for cognition. Compile context with the Locus SDK and keep it in a per-repo SurrealKV file.
+2026-09-30T02:32:49.868659Z,gluonscan-aave,0.0.1-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,Aave V3 protocol adapter for gluonscan (HTTP API backend).
+2026-09-30T02:32:58.66545Z,feign-elastic,1.0.0,0,0,https://github.com/tttq/fast-feign,fast-feign 弹性容错：超时 / 指数退避重试 / 熔断器 / 降级兜底
+2026-09-30T02:39:21.594621Z,nats-lens,0.1.2,0,0,https://github.com/biplabku/nats-lens,NATS JetStream delivery guarantee violation detector
+2026-09-30T02:43:06.836779Z,feign-observability,1.0.0,0,0,https://github.com/tttq/fast-feign,fast-feign 可观测性：W3C TraceContext 注入/提取、tracing 链路、OTLP 导出
+2026-09-30T02:43:21.272329Z,gluonscan-uniswap,0.0.1-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,Uniswap V3 protocol adapter for gluonscan (subgraph discovery + on-chain uncollected fees).
+2026-09-30T02:45:14.96997Z,crystal-lattice,0.1.0,0,0,https://github.com/SuperInstance/crystal-lattice,"Crystallographic data structures with unit cells, Bravais lattices, Miller indices, defects, and symmetry operations"
+2026-09-30T02:53:16.805392Z,feign-transport-reqwest,1.0.0,0,0,https://github.com/tttq/fast-feign,fast-feign 的 reqwest 传输层实现
+2026-09-30T02:53:55.605446Z,gluonscan-pendle,0.0.1-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,Pendle protocol adapter for gluonscan (market catalog via HTTP + on-chain PT/YT balances).
+2026-09-30T03:02:13.001334Z,wgsl-rs-ir,0.1.0-beta.1,0,0,https://github.com/schell/wgsl-rs,"The owned IR for the wgsl-rs transpiler: module, type, expression and statement items, WGSL rendering, and type substitution."
+2026-09-30T03:03:19.810378Z,const-bool,0.1.0,0,0,https://github.com/Alpha-Qian/rust-crates/tree/main/const-bool,"Type-level booleans to bypass 'where A::Flag == B::Flag' limitations in const generics. provide the 'std::conditional_t<B, T, E>‘ in cpp"
+2026-09-30T03:03:26.079407Z,feign-governance,1.0.0,0,0,https://github.com/tttq/fast-feign,fast-feign 治理能力：舱壁隔离、令牌桶限流、灰度标签路由、就近路由
+2026-09-30T03:03:37.127166Z,wgsl-rs-macros,0.1.0-beta.1,0,0,https://github.com/schell/wgsl-rs,Procedural macro support for wgsl-rs: the #[wgsl] module macro.
+2026-09-30T03:04:12.96865Z,wgsl-rs-layout-macros,0.1.0-beta.1,0,0,https://github.com/schell/wgsl-rs,Procedural macro support for wgsl-rs-layout: #[derive(Layout)].
+2026-09-30T03:04:34.520176Z,gluonscan-kamino,0.0.1-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,Kamino protocol adapter for gluonscan (Solana lending via the Kamino HTTP API).
+2026-09-30T03:07:15.377347Z,wgsl-rs-layout,0.1.0-beta.1,0,0,https://github.com/schell/wgsl-rs,WGSL memory layout for wgsl-rs: WgslLayout and #[derive(Layout)] so CPU structs match GPU buffer layouts.
+2026-09-30T03:13:37.128148Z,feign-transport-hyper,1.0.0,0,0,https://github.com/tttq/fast-feign,fast-feign 的 hyper 传输层实现（验证传输层可插拔：只支持明文 HTTP/1.1）
+2026-09-30T03:14:56.593372Z,sidewinder-core,0.1.0,0,0,https://github.com/richdrich/sidewinder,"Core of the Sidewinder sidechain library: the pipeline, authenticated store, the Operation and BlockchainInterface traits, and the node Instance."
+2026-09-30T03:14:58.299313Z,sidewinder-membership,0.1.0,0,0,https://github.com/richdrich/sidewinder,"Monotonic, node-free authorization for epic #240: a preloaded membership cache maintained by an incremental blockchain scan, serving the sw_identity_tls verifiers' MembershipAuthority seam with no al…"
+2026-09-30T03:15:01.023877Z,sidewinder-api,0.1.0,0,0,https://github.com/richdrich/sidewinder,The client-facing API for a Sidewinder node: the pipeline-backed Api implementation and the bridge that fronts the single-threaded consensus node.
+2026-09-30T03:15:02.683989Z,sidewinder-chain,0.1.0,0,0,https://github.com/richdrich/sidewinder,Algorand parent-chain binding for Sidewinder (LocalNet in v0).
+2026-09-30T03:15:03.825845Z,sidewinder-op,0.1.0,0,0,https://github.com/richdrich/sidewinder,"Built-in Sidewinder operations, including the Slot reference operation."
+2026-09-30T03:15:07.799609Z,gluonscan-raydium,0.0.1-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,Raydium CLMM protocol adapter for gluonscan (Solana on-chain position reads).
+2026-09-30T03:16:23.582877Z,quilt-vm-wasm,0.1.0,0,0,,Layer 1 of the polyformalism — the 5 opcodes (BIND/LINK/EFFECT/VIEW/TICK) as a WASM library. The substrate compiled to the web.
