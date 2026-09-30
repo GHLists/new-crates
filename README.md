@@ -8,56 +8,78 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 19:19 UTC
+## Latest list — 2026-09-30 20:20 UTC
 
-New crates published between 2026-09-30 18:19 UTC and 2026-09-30 19:19 UTC.
+New crates published between 2026-09-30 19:19 UTC and 2026-09-30 20:20 UTC.
 
-[Full CSV](data/new-crates-2026-09-30T19-19-19-415182Z.csv)
+[Full CSV](data/new-crates-2026-09-30T20-20-08-909072Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-30 18:20:10 | [backbone-calendar](https://crates.io/crates/backbone-calendar) | 0.2.27 | 0 | org-scoped holiday / working-day reference |
-| 2026-09-30 18:24:48 | [withercd](https://crates.io/crates/withercd) | 0.3.0 | 0 | A smart directory and project jumper for the terminal |
-| 2026-09-30 18:28:35 | [brust-seq](https://crates.io/crates/brust-seq) | 0.2.0 | 1 | Sequence and quality primitives for Brust: IUPAC reverse complement and matchin… |
-| 2026-09-30 18:28:51 | [kcode-k1-rust-code-document](https://crates.io/crates/kcode-k1-rust-code-document) | 0.1.0 | 0 | Represent and chunk one authored K1 Rust code document |
-| 2026-09-30 18:30:10 | [backbone-catalog](https://crates.io/crates/backbone-catalog) | 0.6.23 | 0 | Canonical product/service identity: Item, Item Group, UOM (Indonesia-first) |
-| 2026-09-30 18:30:13 | [eggpool-wire](https://crates.io/crates/eggpool-wire) | 0.1.0 | 0 | Neutral sans-I/O wire kernel: canonical request/response/event types, protocol… |
-| 2026-09-30 18:30:19 | [eggpool-model-routing](https://crates.io/crates/eggpool-model-routing) | 0.1.0 | 0 | Neutral deterministic semantic model-routing policy primitives |
-| 2026-09-30 18:30:40 | [eggpool-client-config](https://crates.io/crates/eggpool-client-config) | 0.1.0 | 0 | Portable client-configuration policy for EggPool connection profiles and Codex/… |
-| 2026-09-30 18:31:04 | [cbvault-format](https://crates.io/crates/cbvault-format) | 0.1.0 | 0 | Byte-level ChessBase formats: .cbh headers and records, plus .cbv/.cbz archives… |
-| 2026-09-30 18:31:10 | [cbvault-chess](https://crates.io/crates/cbvault-chess) | 0.1.0 | 0 | The gigachess bridge: move-token decode to moves2, replay validation and keys |
-| 2026-09-30 18:31:15 | [cbvault](https://crates.io/crates/cbvault) | 0.1.0 | 0 | Read ChessBase databases as moves2 streams: Database, GameIter, PGN writer, and… |
-| 2026-09-30 18:31:19 | [orcher-sdk-core](https://crates.io/crates/orcher-sdk-core) | 0.8.0 | 0 | Core SDK for ORCHER orchestration platform - handles gRPC communication, state… |
-| 2026-09-30 18:31:20 | [cbvault-cli](https://crates.io/crates/cbvault-cli) | 0.1.0 | 0 | The cbvault command line: info, verify, pgn, and .cbv/.cbz archive list and ext… |
-| 2026-09-30 18:32:06 | [solar-std](https://crates.io/crates/solar-std) | 0.0.0-reserved | 0 | solar-std |
-| 2026-09-30 18:32:37 | [npro-io](https://crates.io/crates/npro-io) | 0.0.1 | 0 | Placeholder: the socket, tls and event loop adapter, part of npro, the safe Rus… |
-| 2026-09-30 18:34:49 | [npro-mqtt](https://crates.io/crates/npro-mqtt) | 0.0.1 | 0 | Placeholder: mqtt support, part of npro, the safe Rust port of libwebsockets' s… |
-| 2026-09-30 18:35:48 | [npro-http](https://crates.io/crates/npro-http) | 0.0.1 | 0 | Placeholder: generic http support, part of npro, the safe Rust port of libwebso… |
-| 2026-09-30 18:37:05 | [forgesync-core](https://crates.io/crates/forgesync-core) | 0.1.0 | 0 | Domain identities, evidence, and outcomes for Forgesync |
-| 2026-09-30 18:37:06 | [forgesync-github](https://crates.io/crates/forgesync-github) | 0.1.0 | 0 | Typed GitHub acquisition and normalization for Forgesync |
-| 2026-09-30 18:37:07 | [forgesync-store](https://crates.io/crates/forgesync-store) | 0.1.0 | 0 | SQLite archive lifecycle and persistence for Forgesync |
-| 2026-09-30 18:37:18 | [forgesync-engine](https://crates.io/crates/forgesync-engine) | 0.1.0 | 0 | Acquisition, search, and triage workflows for Forgesync |
-| 2026-09-30 18:37:20 | [forgesync-tui](https://crates.io/crates/forgesync-tui) | 0.1.0 | 0 | Interactive terminal browsing and local triage for Forgesync |
-| 2026-09-30 18:38:15 | [eggpool](https://crates.io/crates/eggpool) | 0.8.1 | 0 | A lightweight native proxy that aggregates multiple LLM provider accounts |
-| 2026-09-30 18:40:09 | [backbone-corporate](https://crates.io/crates/backbone-corporate) | 0.5.22 | 0 | Reference masters: Currency + CurrencyExchange (effective-dated FX), Territory,… |
-| 2026-09-30 18:40:35 | [photonhq-api](https://crates.io/crates/photonhq-api) | 0.1.0 | 0 | Spargen-generated Photon OpenAPI 3.1 client |
-| 2026-09-30 18:40:40 | [forgesync-cli](https://crates.io/crates/forgesync-cli) | 0.1.0 | 0 | Command-line process interface for Forgesync |
-| 2026-09-30 18:40:44 | [druid-pool](https://crates.io/crates/druid-pool) | 1.3.0 | 0 | Async connection pool for Druid-Rust — semaphore-based, eviction, KeepAlive, PS… |
-| 2026-09-30 18:40:54 | [druid-ha](https://crates.io/crates/druid-ha) | 1.3.0 | 0 | High-availability data source for Druid-Rust — weighted round-robin, health che… |
-| 2026-09-30 18:42:59 | [kcode-k1-web-release-gate](https://crates.io/crates/kcode-k1-web-release-gate) | 0.1.0 | 0 | Gate K1 Web source releases on preservation and authorization |
-| 2026-09-30 18:44:29 | [cargo-bumpp](https://crates.io/crates/cargo-bumpp) | 0.2.1 | 0 | Interactive version bumping for Cargo projects: bump the manifest, commit, tag,… |
-| 2026-09-30 18:50:09 | [backbone-deal](https://crates.io/crates/backbone-deal) | 0.3.20 | 0 | Sales pipeline — opportunity + items + campaign attribution; posts no GL |
-| 2026-09-30 18:50:24 | [kcode-k1-rust-code-ktool-service](https://crates.io/crates/kcode-k1-rust-code-ktool-service) | 0.1.0 | 0 | Coordinate authenticated K1 Rust code Ktool operations |
-| 2026-09-30 18:51:13 | [forgesync](https://crates.io/crates/forgesync) | 0.1.0 | 0 | Local-first GitHub discussion archive, search, and triage |
-| 2026-09-30 18:54:11 | [once-fn-macros](https://crates.io/crates/once-fn-macros) | 0.3.0 | 0 | procedural macros for the once-fn crate |
-| 2026-09-30 18:55:01 | [docker-goo](https://crates.io/crates/docker-goo) | 1.1.0 | 0 | Linux-first Docker Engine terminal dashboard |
-| 2026-09-30 19:00:12 | [backbone-engagement](https://crates.io/crates/backbone-engagement) | 0.2.26 | 0 | Engagement — the attribution floor (UTM masters, short-link tracker, deduped cl… |
-| 2026-09-30 19:03:36 | [kcode-k1-web-check-plan](https://crates.io/crates/kcode-k1-web-check-plan) | 0.1.0 | 0 | Construct pure K1 Web checker identities and inputs |
-| 2026-09-30 19:12:10 | [kcode-k1-rust-code-ktool-testkit](https://crates.io/crates/kcode-k1-rust-code-ktool-testkit) | 0.1.0 | 0 | Verify K1 Rust code Ktool service conformance |
-| 2026-09-30 19:15:21 | [actix-tera-response](https://crates.io/crates/actix-tera-response) | 0.1.1 | 0 | Simple utility crate to make returning Tera templates from actix-web routes mor… |
-| 2026-09-30 19:17:47 | [il2cpp-utils-macros](https://crates.io/crates/il2cpp-utils-macros) | 0.1.0 | 0 | il2cpp_utils 的过程宏：il2cpp_class / il2cpp_struct / il2cpp_enum / il2cpp_flag / il… |
-| 2026-09-30 19:18:24 | [il2cpp_utils](https://crates.io/crates/il2cpp_utils) | 0.1.0 | 0 | il2cpp 游戏修改器开发工具库：类/字段/方法绑定、集合镜像、hook 运行时与配套过程宏 |
-| 2026-09-30 19:19:19 | [wyrd-compositor](https://crates.io/crates/wyrd-compositor) | 0.1.0 | 0 | Wayland compositor integrations (Hyprland, Sway, Niri, generic fallback) for Wy… |
+| 2026-09-30 19:19:19 | [wyrd-graphics](https://crates.io/crates/wyrd-graphics) | 0.1.0 | 0 | 2D rendering, scene graph, text shaping, icons, event bus, and spring animation… |
+| 2026-09-30 19:19:19 | [wyrd-script](https://crates.io/crates/wyrd-script) | 0.1.0 | 0 | Lua 5.4 scripting runtime, host extension trait, and hot-reload watcher for Wyrd |
+| 2026-09-30 19:19:20 | [wyrd-state](https://crates.io/crates/wyrd-state) | 0.1.0 | 0 | Cross-process atomic state file serialization for Wyrd (theme.toml, wallpaper.t… |
+| 2026-09-30 19:19:23 | [wyrd-wasm](https://crates.io/crates/wyrd-wasm) | 0.1.0 | 0 | Sandboxed WebAssembly module host and supervisor for Wyrd |
+| 2026-09-30 19:22:12 | [triad-harness](https://crates.io/crates/triad-harness) | 0.1.2 | 0 | Subscription-backed frontier-model MapReduce code review harness |
+| 2026-09-30 19:24:17 | [druid-console](https://crates.io/crates/druid-console) | 1.3.1 | 0 | Web monitoring console for Druid-Rust — axum-based HTTP stats dashboard |
+| 2026-09-30 19:24:33 | [menu-ui](https://crates.io/crates/menu-ui) | 0.1.2 | 0 | Android egui 内置菜单框架：EGL/GL 渲染、JNI 输入桥接、原生文本编辑框与图片选择 |
+| 2026-09-30 19:24:54 | [wyrd-widgets](https://crates.io/crates/wyrd-widgets) | 0.1.0 | 0 | Declarative widget tree, Flexbox/Grid/Absolute layout engine, data binding, and… |
+| 2026-09-30 19:25:46 | [backbone-equity](https://crates.io/crates/backbone-equity) | 0.6.21 | 0 | Cap table + equity accounting: shareholders, share classes, share transactions,… |
+| 2026-09-30 19:28:58 | [blm](https://crates.io/crates/blm) | 1.6.4 | 0 | A lightweight, minimalist build system for Java written in Rust. |
+| 2026-09-30 19:29:08 | [pretrust-core](https://crates.io/crates/pretrust-core) | 0.1.3 | 0 | Static analysis and environment hardening engine behind pretrust: detects repos… |
+| 2026-09-30 19:29:12 | [menu-utils](https://crates.io/crates/menu-utils) | 0.1.2 | 0 | Scaffold CLI for Android game-mod menu projects: unpacks an APK into a Gradle t… |
+| 2026-09-30 19:29:24 | [pretrust](https://crates.io/crates/pretrust) | 0.1.3 | 0 | Check what an AI coding agent is about to execute from a repository, before it… |
+| 2026-09-30 19:29:32 | [remus-core](https://crates.io/crates/remus-core) | 0.1.1 | 0 | Schema model and emitters for remus. No I/O: every output is a pure function of… |
+| 2026-09-30 19:29:33 | [remus-dbml](https://crates.io/crates/remus-dbml) | 0.1.1 | 0 | DBML output for a remus schema model. |
+| 2026-09-30 19:29:34 | [remus-mermaid](https://crates.io/crates/remus-mermaid) | 0.1.1 | 0 | Mermaid `erDiagram` output for a remus schema model. |
+| 2026-09-30 19:29:34 | [remus-sql](https://crates.io/crates/remus-sql) | 0.1.1 | 0 | PostgreSQL DDL output for a remus schema model. |
+| 2026-09-30 19:29:36 | [remus](https://crates.io/crates/remus) | 0.1.1 | 0 | Export a PostgreSQL schema as JSON, Mermaid, DBML or SQL DDL |
+| 2026-09-30 19:30:41 | [bloomery](https://crates.io/crates/bloomery) | 1.6.4 | 0 | A lightweight, minimalist build system for Java written in Rust. |
+| 2026-09-30 19:32:10 | [wyrd-wayland](https://crates.io/crates/wyrd-wayland) | 0.1.0 | 0 | Wayland wlr-layer-shell surfaces, shm buffer pools, seat input, and surface reg… |
+| 2026-09-30 19:33:24 | [kcode-k1-web-code-authority](https://crates.io/crates/kcode-k1-web-code-authority) | 0.1.0 | 0 | Authorize current workspace access to K1 Web families |
+| 2026-09-30 19:34:56 | [kcode-k1-chat-service-actor-opening](https://crates.io/crates/kcode-k1-chat-service-actor-opening) | 0.1.0 | 0 | Concrete lazy actor-opening composition for K1 Chat Service |
+| 2026-09-30 19:40:35 | [fern_local_cli_test_jacob_rothfus_rust](https://crates.io/crates/fern_local_cli_test_jacob_rothfus_rust) | 1.2.8 | 0 | Rust SDK for fern_local_cli_test_jacob_rothfus_rust generated by Fern |
+| 2026-09-30 19:42:47 | [backbone-expenses](https://crates.io/crates/backbone-expenses) | 0.2.25 | 0 | Employee expense claims — categories, tax overlay, GL posting + reimbursement s… |
+| 2026-09-30 19:44:05 | [backbone-foundation-ext](https://crates.io/crates/backbone-foundation-ext) | 0.1.24 | 0 | Declarative automations as a REACTION layer over the staged outbox — rules subs… |
+| 2026-09-30 19:45:14 | [backbone-geo](https://crates.io/crates/backbone-geo) | 0.4.25 | 0 | Indonesia administrative geography: Country, Province, City, District, Subdistr… |
+| 2026-09-30 19:47:35 | [vaatun-vantage](https://crates.io/crates/vaatun-vantage) | 0.1.0 | 0 | Generated Rust SDK for the Vantage insurance ERP and CRM REST API |
+| 2026-09-30 19:48:26 | [qwinn](https://crates.io/crates/qwinn) | 0.0.1-reserved | 0 | reserved for future use |
+| 2026-09-30 19:48:32 | [qwinn-proto](https://crates.io/crates/qwinn-proto) | 0.0.1-reserved | 0 | reserved for future use |
+| 2026-09-30 19:48:37 | [qwinn-udp](https://crates.io/crates/qwinn-udp) | 0.0.1-reserved | 0 | reserved for future use |
+| 2026-09-30 19:49:02 | [warren-arrow](https://crates.io/crates/warren-arrow) | 0.1.0 | 0 | Write a layout's tables to Parquet in key order, each certified against its sou… |
+| 2026-09-30 19:49:17 | [rustmaninoff-ir](https://crates.io/crates/rustmaninoff-ir) | 0.1.0 | 0 | Normalized resource model for Rustmaninoff |
+| 2026-09-30 19:49:30 | [rustmaninoff-engine](https://crates.io/crates/rustmaninoff-engine) | 0.1.0 | 0 | Checkov-compatible attribute policy engine |
+| 2026-09-30 19:49:42 | [rustmaninoff-parser-terraform](https://crates.io/crates/rustmaninoff-parser-terraform) | 0.1.0 | 0 | Terraform HCL and JSON parser for Rustmaninoff |
+| 2026-09-30 19:49:46 | [rustmaninoff-parser-cfn](https://crates.io/crates/rustmaninoff-parser-cfn) | 0.1.0 | 0 | CloudFormation YAML and JSON parser for Rustmaninoff |
+| 2026-09-30 19:49:49 | [rustmaninoff-parser-k8s](https://crates.io/crates/rustmaninoff-parser-k8s) | 0.1.0 | 0 | Kubernetes manifest parser for Rustmaninoff |
+| 2026-09-30 19:50:17 | [backbone-inventory](https://crates.io/crates/backbone-inventory) | 0.9.29 | 0 | Inventory: stock ledger of record (SLE) + moving-average valuation; emits COGS/… |
+| 2026-09-30 19:51:20 | [cufflink-nats](https://crates.io/crates/cufflink-nats) | 0.1.0 | 0 | NATS connections for Cufflink components: server lists, credentials and connect… |
+| 2026-09-30 19:51:37 | [wyrd-config](https://crates.io/crates/wyrd-config) | 0.1.0 | 0 | Typed shell configuration, surface/widget/layout/style Lua parsers, and config… |
+| 2026-09-30 19:51:47 | [cufflink-native](https://crates.io/crates/cufflink-native) | 0.1.0 | 0 | Write native Cufflink extensions in Rust, served to a runner's Unix socket or s… |
+| 2026-09-30 19:52:37 | [kcode-k1-web-code-session](https://crates.io/crates/kcode-k1-web-code-session) | 0.1.0 | 0 | Own pure session-bound Web-code handles and document preparation |
+| 2026-09-30 19:54:27 | [tilt-ui-core](https://crates.io/crates/tilt-ui-core) | 0.1.0-rc.1 | 0 | Core types and data structures for TiltUI |
+| 2026-09-30 19:54:27 | [oc2](https://crates.io/crates/oc2) | 0.0.1 | 0 | Bootstrap release of oc2, a native Rust coding agent under active development |
+| 2026-09-30 19:54:29 | [tilt-ui-html](https://crates.io/crates/tilt-ui-html) | 0.1.0-rc.1 | 0 | HTML template parser for TiltUI |
+| 2026-09-30 19:54:32 | [tilt-ui-css](https://crates.io/crates/tilt-ui-css) | 0.1.0-rc.1 | 0 | CSS parser and styling engine for TiltUI |
+| 2026-09-30 19:54:34 | [tilt-ui-icons](https://crates.io/crates/tilt-ui-icons) | 0.1.0-rc.1 | 0 | Optional built-in SVG icon catalog for TiltUI |
+| 2026-09-30 19:54:36 | [tilt-ui-macros](https://crates.io/crates/tilt-ui-macros) | 0.1.0-rc.1 | 0 | Procedural macros for TiltUI |
+| 2026-09-30 19:58:24 | [tart-catalogue-core](https://crates.io/crates/tart-catalogue-core) | 0.1.0 | 0 | TLE propagation and coordinate transforms for the TART catalogue (pure computat… |
+| 2026-09-30 20:00:07 | [backbone-l10n](https://crates.io/crates/backbone-l10n) | 0.1.33 | 0 | Indonesian localization datasets: SAK chart of accounts + starter tax templates |
+| 2026-09-30 20:05:01 | [kcode-k1-web-code-runtime](https://crates.io/crates/kcode-k1-web-code-runtime) | 0.1.0 | 0 | Own independently locked per-user K1 Web coding runtimes |
+| 2026-09-30 20:05:51 | [xca](https://crates.io/crates/xca) | 0.12.2 | 0 | Embeddable adaptive lossless compression library and CLI |
+| 2026-09-30 20:06:09 | [glassvm_normalizer_contract](https://crates.io/crates/glassvm_normalizer_contract) | 0.1.0 | 0 | Machine-independent normalizer and capability contracts for GlassVM. |
+| 2026-09-30 20:06:21 | [glassvm_core](https://crates.io/crates/glassvm_core) | 0.1.0 | 0 | Core execution, input, observation, and evidence contracts for GlassVM. |
+| 2026-09-30 20:06:33 | [glassvm_recorder](https://crates.io/crates/glassvm_recorder) | 0.1.0 | 0 | Bounded file-backed evidence recording and publication for GlassVM. |
+| 2026-09-30 20:06:41 | [glassvm_query](https://crates.io/crates/glassvm_query) | 0.1.0 | 0 | Caller-owned querying over selected GlassVM execution-event projections. |
+| 2026-09-30 20:06:50 | [glassvm_registry](https://crates.io/crates/glassvm_registry) | 0.1.0 | 0 | Machine and bundle registration contracts for GlassVM. |
+| 2026-09-30 20:10:05 | [hopf-amqp1](https://crates.io/crates/hopf-amqp1) | 0.4.0 | 0 | AMQP 1.0 async client for Hopf (RabbitMQ 4 native AMQP 1.0, ActiveMQ Artemis) |
+| 2026-09-30 20:10:09 | [backbone-lead](https://crates.io/crates/backbone-lead) | 0.3.20 | 0 | Lead capture + qualification + conversion ACL — WhatsApp-first; posts no GL |
+| 2026-09-30 20:13:41 | [dynamo-multimodal](https://crates.io/crates/dynamo-multimodal) | 0.1.0 | 0 | Shared multimodal input processing, prompt geometry, token accounting, and cont… |
+| 2026-09-30 20:13:50 | [kcode-k1-web-code-ktool-service](https://crates.io/crates/kcode-k1-web-code-ktool-service) | 0.1.0 | 0 | Own per-user K1 Web coding services for Web-code Ktools |
+| 2026-09-30 20:18:03 | [perspica-core](https://crates.io/crates/perspica-core) | 0.1.0 | 0 | Semantic diff engine: AST-aware change classification, noise detection, reading… |
+| 2026-09-30 20:18:24 | [perspica](https://crates.io/crates/perspica) | 0.1.0 | 0 | Review code changes by what they do: semantic diff, noise hiding, reading order… |
+| 2026-09-30 20:19:11 | [io-mbox](https://crates.io/crates/io-mbox) | 0.1.0 | 0 | mbox client library for Rust |
+| 2026-09-30 20:19:17 | [agent-supervisor](https://crates.io/crates/agent-supervisor) | 0.1.1 | 0 | Policy-driven process isolation and supervision for RooAGI runtimes |
 
 ## Data source
 
