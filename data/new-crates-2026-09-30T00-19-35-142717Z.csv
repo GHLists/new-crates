@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-29T23:20:47.626273Z,bevy_steam_kit,0.1.0,0,0,https://github.com/warmar94/bevy_steam_kit,"Steam for Bevy as opt-in features around one shared callback pump: lobbies, rich presence and friend-join requests (feature `lobby`), stats and achievements (feature `stats`), leaderboards (feature `…"
+2026-09-29T23:25:00.130595Z,bao-stylo-atoms,0.20.1,0,0,https://github.com/servo/stylo,Interned string type for the Servo and Stylo projects
+2026-09-29T23:25:44.084104Z,bitwarden-random,4.0.0,0,0,https://github.com/bitwarden/sdk-internal,Internal crate for the bitwarden crate. Do not use.
+2026-09-29T23:25:59.244314Z,bitwarden-managed-settings-types,4.0.0,0,0,https://github.com/bitwarden/sdk-internal,"Shared data types for managed settings, the configuration an organization's IT administrators enforce through the host operating system's Unified Endpoint Management (UEM) channel. Internal crate for…"
+2026-09-29T23:28:05.366841Z,auto-ascii-eval,0.3.0,0,0,https://github.com/andmckay01/auto-ascii,"auto-ascii eval harness: ink-coverage rasterizer, downscale-SSIM, flicker score, damage/stage metrics, versioned JSON reports, baseline compare"
+2026-09-29T23:28:13.331284Z,auto-ascii-factory,0.3.0,0,0,https://github.com/andmckay01/auto-ascii,auto-ascii offline factory library: ffmpeg ingest -> feature planes -> .ascii asset
+2026-09-29T23:30:31.942331Z,kcode-k1-web-http,0.1.0,0,0,,Serve canonical K1 Web package routes through Axum
+2026-09-29T23:35:21.841972Z,tabnas-ini,0.5.12,0,0,https://github.com/tabnas/ini,INI syntax plugin for the tabnas parser engine.
+2026-09-29T23:45:09.933268Z,emblema-capi,0.0.0,0,0,https://github.com/jwinarske/impeller-rs,"Reserved name for part of the emblema renderer. C API, ABI-compatible with the Flutter Engine's libimpeller. Not yet released."
+2026-09-29T23:45:11.661588Z,emblema-core,0.0.0,0,0,https://github.com/jwinarske/impeller-rs,"Reserved name for part of the emblema renderer. Drawing API: Canvas, Paint, Color, recording and execution. Not yet released."
+2026-09-29T23:45:13.482193Z,emblema-entity,0.0.0,0,0,https://github.com/jwinarske/impeller-rs,Reserved name for part of the emblema renderer. Entity and contents layer: coverage computation for culling and offscreen sizing. Not yet released.
+2026-09-29T23:45:15.24084Z,emblema-geometry,0.0.0,0,0,https://github.com/jwinarske/impeller-rs,"Reserved name for part of the emblema renderer. Path types, flattening, tessellation, stroking and dashing. Not yet released."
+2026-09-29T23:45:17.070419Z,emblema-hal,0.0.0,0,0,https://github.com/jwinarske/impeller-rs,Reserved name for part of the emblema renderer. Rendering hardware abstraction layer. Not yet released.
+2026-09-29T23:52:26.823723Z,nats-lens-core,0.1.0,0,0,https://github.com/biplabku/nats-lens,Detection engine for NATS JetStream delivery guarantee violations
+2026-09-29T23:55:39.153244Z,emblema-hal-gles,0.0.0,0,0,https://github.com/jwinarske/impeller-rs,Reserved name for part of the emblema renderer. GLES 3.0 rendering backend. Not yet released.
+2026-09-29T23:59:17.878093Z,tabnas-feed,0.6.10,0,0,https://github.com/tabnas/feed,"RSS and Atom feed plugin for the tabnas parsing engine, normalising every dialect to an Atom shape"
+2026-09-30T00:06:01.395955Z,emblema-hal-vulkan,0.0.0,0,0,https://github.com/jwinarske/impeller-rs,Reserved name for part of the emblema renderer. Vulkan rendering backend. Not yet released.
+2026-09-30T00:13:10.522105Z,homeport,0.1.0,0,0,https://github.com/trypsynth/homeport,"Finds where a desktop app keeps its config and resources, whether it runs portable, installed, from a macOS app bundle, or from an AppImage."
+2026-09-30T00:13:40.66253Z,foresight,0.7.1,0,0,https://github.com/milkway/foresight,"Time series forecasting with out-of-sample model selection, empirical prediction intervals and no dependencies"
+2026-09-30T00:15:43.645371Z,tabnas-c,0.5.9,0,0,https://github.com/tabnas/c,"C23 concrete-syntax-tree grammar plugin for the tabnas parsing engine, over the jsonic base grammar and the expr operator plugin"
+2026-09-30T00:16:23.785056Z,emblema-present,0.0.0,0,0,https://github.com/jwinarske/impeller-rs,Reserved name for part of the emblema renderer. Presentation target trait and format negotiation. Not yet released.
