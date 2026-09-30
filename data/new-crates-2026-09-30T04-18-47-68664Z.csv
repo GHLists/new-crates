@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T03:21:14.689488Z,qtool,0.1.1,0,0,https://github.com/xncz/qtool,A simple analysis toolbox for quantum computation.
+2026-09-30T03:23:48.581611Z,sidewinder-node,0.1.0,0,0,https://github.com/richdrich/sidewinder,The sw-node binary: the composition root that assembles and runs a Sidewinder node.
+2026-09-30T03:23:51.434371Z,fast-feign,1.0.0,0,0,https://github.com/tttq/fast-feign,像调用本地方法一样调用远程 HTTP 服务：Rust 版 OpenFeign（门面 crate，一个依赖获得全部能力）
+2026-09-30T03:25:44.549311Z,gluonscan-sources,0.0.1-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,"Price sources for gluonscan (CoinGecko, CoinMarketCap) implementing the PriceSource port."
+2026-09-30T03:30:35.91788Z,polln,0.1.0,0,0,https://github.com/casey-digennaro/polln,A Rust library for Polln
+2026-09-30T03:32:19.319395Z,fuzzy-decision,0.1.0,0,0,https://github.com/richardanaya/fuzzy-decision,"Typed decisions (choice, score, noul) scored on Burn's WGPU backend."
+2026-09-30T03:34:01.266577Z,feign-openapi,1.0.0,0,0,https://github.com/tttq/fast-feign,fast-feign 的 OpenAPI 3 代码生成器：从 OpenAPI 规范生成声明式客户端 trait 与 DTO
+2026-09-30T03:35:37.621836Z,lmfit_derive,0.1.0,0,0,https://github.com/XNCZ/lmfit,Derive macro for lmfit curve models
+2026-09-30T03:36:01.3004Z,kio-lang,0.1.0,0,0,https://github.com/jdevuyst/kio,Rust implementation of Kio — compiler and CLI.
+2026-09-30T03:36:18.374108Z,gluonscan-wallet,0.0.1-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,Wallet contents readers for gluonscan: idle token balances and NFTs (Protocol::Wallet / Nfts).
+2026-09-30T03:38:50.693085Z,lamco-data-control,1.0.0,0,0,https://github.com/lamco-admin/xdg-desktop-portal-generic,Wayland data-control clipboard client (ext-data-control-v1 and wlr-data-control) with on-demand pastes
+2026-09-30T03:45:45.774451Z,lmfit,0.1.0,0,0,https://github.com/XNCZ/lmfit,"Arbitrary curve fitting, modelled on Python's lmfit"
+2026-09-30T03:47:02.547002Z,gluonscan,0.0.1-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,"Multi-chain read + normalize engine for DeFi portfolios. Reads chains & protocols, returns one normalized ledger. Stateless."
+2026-09-30T03:54:12.096429Z,justsftp,0.1.0,0,0,https://github.com/kihyun1998/justsftp,"An SFTP v3 client over any async byte stream, where a path is bytes, never a String."
+2026-09-30T03:59:42.769446Z,hedronos-cli,0.0.1,0,0,,Reserved name for HedronOS. No implementation.
+2026-09-30T03:59:44.742731Z,hedronos-ir,0.0.1,0,0,,Reserved name for HedronOS. No implementation.
+2026-09-30T03:59:46.55607Z,hedronos-eval,0.0.1,0,0,,Reserved name for HedronOS. No implementation.
+2026-09-30T03:59:48.425919Z,hedronos-render,0.0.1,0,0,,Reserved name for HedronOS. No implementation.
+2026-09-30T03:59:50.255988Z,hedronos-import,0.0.1,0,0,,Reserved name for HedronOS. No implementation.
+2026-09-30T04:02:10.872709Z,agent-mesh-transport-ssh,0.7.0,0,0,https://github.com/Gilamonster-Foundation/agent-mesh,AgentKey-authenticated Agent Mesh sessions carried over OpenSSH.
+2026-09-30T04:06:01.946355Z,clear-config-derive,0.1.0,0,0,https://github.com/japgolly/clear-config-rs,Derive macros for clear-config
+2026-09-30T04:08:11.45164Z,clear-config,0.1.0,0,0,https://github.com/japgolly/clear-config-rs,ClearConfig for Rust
+2026-09-30T04:11:11.571843Z,tc_rc_cipher,0.1.0,0,0,https://github.com/TomiCheng/tc_block_cipher,"RC2, RC5 and RC6 block ciphers for legacy interoperability, with an optional RustCrypto RC2 engine."
+2026-09-30T04:13:07.422923Z,stripe-pay-core,10.2.2,0,0,https://github.com/crates-dev/ctares,"Shared Stripe domain types for the Stripe payment SDK: money, identifiers, payment intents, charges, refunds, and form encoding."
+2026-09-30T04:13:09.132736Z,stripe-pay-server,10.2.2,0,0,https://github.com/crates-dev/ctares,Server-side transport for the Stripe payment SDK: signed webhook verification with constant-time comparison.
+2026-09-30T04:13:15.67021Z,stripe-pay-client,10.2.2,0,0,https://github.com/crates-dev/ctares,WebAssembly client for the Stripe payment SDK: renders Stripe payment element configuration and forwards it to the server transport.

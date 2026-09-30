@@ -8,47 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 03:18 UTC
+## Latest list — 2026-09-30 04:18 UTC
 
-New crates published between 2026-09-30 02:20 UTC and 2026-09-30 03:18 UTC.
+New crates published between 2026-09-30 03:18 UTC and 2026-09-30 04:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-30T03-18-47-771206Z.csv)
+[Full CSV](data/new-crates-2026-09-30T04-18-47-68664Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-30 02:20:23 | [ring_spsc](https://crates.io/crates/ring_spsc) | 0.1.0 | 0 | Single-producer single-consumer ring API |
-| 2026-09-30 02:20:43 | [ring_mpsc](https://crates.io/crates/ring_mpsc) | 0.1.0 | 0 | Multi-producer single-consumer ring API |
-| 2026-09-30 02:21:04 | [ring_core](https://crates.io/crates/ring_core) | 0.1.0 | 0 | Composed ring over an SPSC, MPSC, or crossbeam backend behind one surface |
-| 2026-09-30 02:21:49 | [gluonscan-core](https://crates.io/crates/gluonscan-core) | 0.0.1-beta.1 | 0 | Core domain types and adapter ports for gluonscan: the read + normalize contrac… |
-| 2026-09-30 02:21:57 | [gluonscan-testing](https://crates.io/crates/gluonscan-testing) | 0.0.1-beta.1 | 0 | Contract-based mock transports for gluonscan: replay recorded request/response… |
-| 2026-09-30 02:22:02 | [gluonscan-math](https://crates.io/crates/gluonscan-math) | 0.0.1-beta.1 | 0 | Exact-integer DeFi math for gluonscan (Uniswap V3 Q64.96 tick math, etc.). No f… |
-| 2026-09-30 02:22:10 | [gluonscan-evm](https://crates.io/crates/gluonscan-evm) | 0.0.1-beta.1 | 0 | EVM on-chain helpers for gluonscan: eth_call over an injected ChainProvider, mi… |
-| 2026-09-30 02:22:20 | [gluonscan-solana](https://crates.io/crates/gluonscan-solana) | 0.0.1-beta.1 | 0 | Solana on-chain helpers for gluonscan: RPC over an injected ChainProvider, base… |
-| 2026-09-30 02:22:50 | [feign-discovery](https://crates.io/crates/feign-discovery) | 1.0.0 | 0 | fast-feign 服务发现实现：静态配置 / 配置文件 / Nacos / Consul / etcd / Kubernetes |
-| 2026-09-30 02:24:26 | [mori-cli](https://crates.io/crates/mori-cli) | 0.1.0 | 0 | mori — the git for cognition. Compile context with the Locus SDK and keep it in… |
-| 2026-09-30 02:32:49 | [gluonscan-aave](https://crates.io/crates/gluonscan-aave) | 0.0.1-beta.1 | 0 | Aave V3 protocol adapter for gluonscan (HTTP API backend). |
-| 2026-09-30 02:32:58 | [feign-elastic](https://crates.io/crates/feign-elastic) | 1.0.0 | 0 | fast-feign 弹性容错：超时 / 指数退避重试 / 熔断器 / 降级兜底 |
-| 2026-09-30 02:39:21 | [nats-lens](https://crates.io/crates/nats-lens) | 0.1.2 | 0 | NATS JetStream delivery guarantee violation detector |
-| 2026-09-30 02:43:06 | [feign-observability](https://crates.io/crates/feign-observability) | 1.0.0 | 0 | fast-feign 可观测性：W3C TraceContext 注入/提取、tracing 链路、OTLP 导出 |
-| 2026-09-30 02:43:21 | [gluonscan-uniswap](https://crates.io/crates/gluonscan-uniswap) | 0.0.1-beta.1 | 0 | Uniswap V3 protocol adapter for gluonscan (subgraph discovery + on-chain uncoll… |
-| 2026-09-30 02:45:14 | [crystal-lattice](https://crates.io/crates/crystal-lattice) | 0.1.0 | 0 | Crystallographic data structures with unit cells, Bravais lattices, Miller indi… |
-| 2026-09-30 02:53:16 | [feign-transport-reqwest](https://crates.io/crates/feign-transport-reqwest) | 1.0.0 | 0 | fast-feign 的 reqwest 传输层实现 |
-| 2026-09-30 02:53:55 | [gluonscan-pendle](https://crates.io/crates/gluonscan-pendle) | 0.0.1-beta.1 | 0 | Pendle protocol adapter for gluonscan (market catalog via HTTP + on-chain PT/YT… |
-| 2026-09-30 03:02:13 | [wgsl-rs-ir](https://crates.io/crates/wgsl-rs-ir) | 0.1.0-beta.1 | 0 | The owned IR for the wgsl-rs transpiler: module, type, expression and statement… |
-| 2026-09-30 03:03:19 | [const-bool](https://crates.io/crates/const-bool) | 0.1.0 | 0 | Type-level booleans to bypass 'where A::Flag == B::Flag' limitations in const g… |
-| 2026-09-30 03:03:26 | [feign-governance](https://crates.io/crates/feign-governance) | 1.0.0 | 0 | fast-feign 治理能力：舱壁隔离、令牌桶限流、灰度标签路由、就近路由 |
-| 2026-09-30 03:03:37 | [wgsl-rs-macros](https://crates.io/crates/wgsl-rs-macros) | 0.1.0-beta.1 | 0 | Procedural macro support for wgsl-rs: the #[wgsl] module macro. |
-| 2026-09-30 03:04:12 | [wgsl-rs-layout-macros](https://crates.io/crates/wgsl-rs-layout-macros) | 0.1.0-beta.1 | 0 | Procedural macro support for wgsl-rs-layout: #[derive(Layout)]. |
-| 2026-09-30 03:04:34 | [gluonscan-kamino](https://crates.io/crates/gluonscan-kamino) | 0.0.1-beta.1 | 0 | Kamino protocol adapter for gluonscan (Solana lending via the Kamino HTTP API). |
-| 2026-09-30 03:07:15 | [wgsl-rs-layout](https://crates.io/crates/wgsl-rs-layout) | 0.1.0-beta.1 | 0 | WGSL memory layout for wgsl-rs: WgslLayout and #[derive(Layout)] so CPU structs… |
-| 2026-09-30 03:13:37 | [feign-transport-hyper](https://crates.io/crates/feign-transport-hyper) | 1.0.0 | 0 | fast-feign 的 hyper 传输层实现（验证传输层可插拔：只支持明文 HTTP/1.1） |
-| 2026-09-30 03:14:56 | [sidewinder-core](https://crates.io/crates/sidewinder-core) | 0.1.0 | 0 | Core of the Sidewinder sidechain library: the pipeline, authenticated store, th… |
-| 2026-09-30 03:14:58 | [sidewinder-membership](https://crates.io/crates/sidewinder-membership) | 0.1.0 | 0 | Monotonic, node-free authorization for epic #240: a preloaded membership cache… |
-| 2026-09-30 03:15:01 | [sidewinder-api](https://crates.io/crates/sidewinder-api) | 0.1.0 | 0 | The client-facing API for a Sidewinder node: the pipeline-backed Api implementa… |
-| 2026-09-30 03:15:02 | [sidewinder-chain](https://crates.io/crates/sidewinder-chain) | 0.1.0 | 0 | Algorand parent-chain binding for Sidewinder (LocalNet in v0). |
-| 2026-09-30 03:15:03 | [sidewinder-op](https://crates.io/crates/sidewinder-op) | 0.1.0 | 0 | Built-in Sidewinder operations, including the Slot reference operation. |
-| 2026-09-30 03:15:07 | [gluonscan-raydium](https://crates.io/crates/gluonscan-raydium) | 0.0.1-beta.1 | 0 | Raydium CLMM protocol adapter for gluonscan (Solana on-chain position reads). |
-| 2026-09-30 03:16:23 | [quilt-vm-wasm](https://crates.io/crates/quilt-vm-wasm) | 0.1.0 | 0 | Layer 1 of the polyformalism — the 5 opcodes (BIND/LINK/EFFECT/VIEW/TICK) as a… |
+| 2026-09-30 03:21:14 | [qtool](https://crates.io/crates/qtool) | 0.1.1 | 0 | A simple analysis toolbox for quantum computation. |
+| 2026-09-30 03:23:48 | [sidewinder-node](https://crates.io/crates/sidewinder-node) | 0.1.0 | 0 | The sw-node binary: the composition root that assembles and runs a Sidewinder n… |
+| 2026-09-30 03:23:51 | [fast-feign](https://crates.io/crates/fast-feign) | 1.0.0 | 0 | 像调用本地方法一样调用远程 HTTP 服务：Rust 版 OpenFeign（门面 crate，一个依赖获得全部能力） |
+| 2026-09-30 03:25:44 | [gluonscan-sources](https://crates.io/crates/gluonscan-sources) | 0.0.1-beta.1 | 0 | Price sources for gluonscan (CoinGecko, CoinMarketCap) implementing the PriceSo… |
+| 2026-09-30 03:30:35 | [polln](https://crates.io/crates/polln) | 0.1.0 | 0 | A Rust library for Polln |
+| 2026-09-30 03:32:19 | [fuzzy-decision](https://crates.io/crates/fuzzy-decision) | 0.1.0 | 0 | Typed decisions (choice, score, noul) scored on Burn's WGPU backend. |
+| 2026-09-30 03:34:01 | [feign-openapi](https://crates.io/crates/feign-openapi) | 1.0.0 | 0 | fast-feign 的 OpenAPI 3 代码生成器：从 OpenAPI 规范生成声明式客户端 trait 与 DTO |
+| 2026-09-30 03:35:37 | [lmfit_derive](https://crates.io/crates/lmfit_derive) | 0.1.0 | 0 | Derive macro for lmfit curve models |
+| 2026-09-30 03:36:01 | [kio-lang](https://crates.io/crates/kio-lang) | 0.1.0 | 0 | Rust implementation of Kio — compiler and CLI. |
+| 2026-09-30 03:36:18 | [gluonscan-wallet](https://crates.io/crates/gluonscan-wallet) | 0.0.1-beta.1 | 0 | Wallet contents readers for gluonscan: idle token balances and NFTs (Protocol::… |
+| 2026-09-30 03:38:50 | [lamco-data-control](https://crates.io/crates/lamco-data-control) | 1.0.0 | 0 | Wayland data-control clipboard client (ext-data-control-v1 and wlr-data-control… |
+| 2026-09-30 03:45:45 | [lmfit](https://crates.io/crates/lmfit) | 0.1.0 | 0 | Arbitrary curve fitting, modelled on Python's lmfit |
+| 2026-09-30 03:47:02 | [gluonscan](https://crates.io/crates/gluonscan) | 0.0.1-beta.1 | 0 | Multi-chain read + normalize engine for DeFi portfolios. Reads chains & protoco… |
+| 2026-09-30 03:54:12 | [justsftp](https://crates.io/crates/justsftp) | 0.1.0 | 0 | An SFTP v3 client over any async byte stream, where a path is bytes, never a St… |
+| 2026-09-30 03:59:42 | [hedronos-cli](https://crates.io/crates/hedronos-cli) | 0.0.1 | 0 | Reserved name for HedronOS. No implementation. |
+| 2026-09-30 03:59:44 | [hedronos-ir](https://crates.io/crates/hedronos-ir) | 0.0.1 | 0 | Reserved name for HedronOS. No implementation. |
+| 2026-09-30 03:59:46 | [hedronos-eval](https://crates.io/crates/hedronos-eval) | 0.0.1 | 0 | Reserved name for HedronOS. No implementation. |
+| 2026-09-30 03:59:48 | [hedronos-render](https://crates.io/crates/hedronos-render) | 0.0.1 | 0 | Reserved name for HedronOS. No implementation. |
+| 2026-09-30 03:59:50 | [hedronos-import](https://crates.io/crates/hedronos-import) | 0.0.1 | 0 | Reserved name for HedronOS. No implementation. |
+| 2026-09-30 04:02:10 | [agent-mesh-transport-ssh](https://crates.io/crates/agent-mesh-transport-ssh) | 0.7.0 | 0 | AgentKey-authenticated Agent Mesh sessions carried over OpenSSH. |
+| 2026-09-30 04:06:01 | [clear-config-derive](https://crates.io/crates/clear-config-derive) | 0.1.0 | 0 | Derive macros for clear-config |
+| 2026-09-30 04:08:11 | [clear-config](https://crates.io/crates/clear-config) | 0.1.0 | 0 | ClearConfig for Rust |
+| 2026-09-30 04:11:11 | [tc_rc_cipher](https://crates.io/crates/tc_rc_cipher) | 0.1.0 | 0 | RC2, RC5 and RC6 block ciphers for legacy interoperability, with an optional Ru… |
+| 2026-09-30 04:13:07 | [stripe-pay-core](https://crates.io/crates/stripe-pay-core) | 10.2.2 | 0 | Shared Stripe domain types for the Stripe payment SDK: money, identifiers, paym… |
+| 2026-09-30 04:13:09 | [stripe-pay-server](https://crates.io/crates/stripe-pay-server) | 10.2.2 | 0 | Server-side transport for the Stripe payment SDK: signed webhook verification w… |
+| 2026-09-30 04:13:15 | [stripe-pay-client](https://crates.io/crates/stripe-pay-client) | 10.2.2 | 0 | WebAssembly client for the Stripe payment SDK: renders Stripe payment element c… |
 
 ## Data source
 
