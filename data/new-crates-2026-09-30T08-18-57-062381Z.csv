@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T07:21:54.075528Z,glab-feed,0.2.0,0,0,https://github.com/timosaikkonen/glab-feed,Live-updating TUI for GitLab merge requests via the glab CLI
+2026-09-30T07:24:42.903479Z,bake-macros,0.1.0,0,0,https://github.com/socketry/bake-rust,Function task descriptors for Bake
+2026-09-30T07:24:43.404586Z,socketry-cargo-bake,0.1.0,0,0,https://github.com/socketry/bake-rust,Cargo launcher for project-local Bake tasks
+2026-09-30T07:24:45.795758Z,socketry-bake,0.1.0,0,0,https://github.com/socketry/bake-rust,"Composable, typed development tasks for Rust projects"
+2026-09-30T07:25:16.838816Z,bake-releases,0.1.0,0,0,https://github.com/socketry/bake-releases-rust,Reusable releases.md tasks for Bake
+2026-09-30T07:25:24.223056Z,bake-releases-cargo,0.1.0,0,0,https://github.com/socketry/bake-releases-cargo-rust,Cargo and GitHub release automation tasks for Bake
+2026-09-30T07:28:05.08785Z,faucet-common-file,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,"Shared config types and the file-writing layer (formats, compression, encryption, rollover, overwrite staging over a storage backend) for faucet-stream file sinks"
+2026-09-30T07:28:21.952736Z,faucet-source-file,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,"Local file source (JSONL, JSON, CSV, Excel, XML, Parquet, Avro, ORC; path, directory, glob or URL) for the faucet-stream ecosystem"
+2026-09-30T07:29:42.945026Z,faucet-sink-file,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,"Local file sink (JSONL, JSON, CSV, XML, Excel, Avro, Parquet; rollover, atomic finalisation) for the faucet-stream ecosystem"
+2026-09-30T07:31:15.276698Z,faucet-common-databricks,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,Shared Databricks SQL warehouse connection and auth types for the faucet-stream Databricks connectors
+2026-09-30T07:31:44.468551Z,blinkterm,0.2.0,0,0,https://github.com/m96-chan/blinkterm,A real browser in a terminal pane: headless Chromium over the Kitty graphics protocol
+2026-09-30T07:32:21.811944Z,diskgraph-disktree-core,0.1.0,0,0,,Filesystem scanning and treemap layout for disktree (vendored into DiskGraph from tobi/disktree; see VENDORED.md)
+2026-09-30T07:32:29.508809Z,diskgraph-core,0.1.0,0,0,https://github.com/loong10k/diskgraph,Platform-neutral disk snapshot and evidence query model
+2026-09-30T07:32:39.629881Z,aria-agent-browser,1.1.1,0,0,,"Browser capability for the agent platform: pluggable engine (servo/obscura/chromium/gosub/camoufox/lightpanda), a browser Sandbox backend, and a browser tool family."
+2026-09-30T07:32:50.176405Z,diskgraph-store,0.1.0,0,0,https://github.com/loong10k/diskgraph,Immutable SQLite snapshots for DiskGraph
+2026-09-30T07:32:55.936946Z,diskgraph-disktree,0.1.0,0,0,https://github.com/loong10k/diskgraph,Read-only DiskTree scanner adapter for DiskGraph
+2026-09-30T07:35:20.012625Z,tuxctl,0.3.3,0,0,https://github.com/Seqat/tuxctl,"A lightweight, keyboard-first Linux TUI for system monitoring and management."
+2026-09-30T07:37:21.887841Z,plughost-core,0.0.2,0,0,https://github.com/emulette/plughost,Shared types and offline render rules for plughost
+2026-09-30T07:37:42.746113Z,plughost-formats,0.0.2,0,0,https://github.com/emulette/plughost,"In-process VST3, Audio Unit, and CLAP hosting for plughost"
+2026-09-30T07:38:04.645706Z,plughost-helper,0.0.2,0,0,https://github.com/emulette/plughost,Helper process that loads and runs plugins for plughost
+2026-09-30T07:38:16.439591Z,plughost,0.0.2,0,0,https://github.com/emulette/plughost,"Load and run VST3, Audio Unit, and CLAP plugins from Rust, isolated in helper processes"
+2026-09-30T07:38:30.388621Z,stef,0.1.0,0,0,https://git.mig5.net/mig5/stef,Standalone SOPS-aware grep with encrypted match history
+2026-09-30T07:42:19.405928Z,godur,0.1.0,0,0,https://codeberg.org/Hanyu/godur,"Utilities for working with durations in Rust, inspired by Go's time package."
+2026-09-30T07:43:19.979526Z,agent-toolbox,0.1.0,0,0,https://github.com/Luolc/agent-toolbox,Command-line tools for running and operating AI coding agents
+2026-09-30T07:44:49.734253Z,macos-privacy,0.1.0,0,0,https://github.com/nyssance/macos-privacy,"Query, request and observe macOS privacy (TCC) permissions: accessibility, screen recording, input monitoring, full disk access, camera and microphone"
+2026-09-30T07:47:49.891412Z,faucet-common-iceberg,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,Shared Apache Iceberg catalog and storage types for the faucet-stream Iceberg connectors
+2026-09-30T07:55:02.269923Z,diskgraph-testkit,0.1.0,0,0,https://github.com/loong10k/diskgraph,Isolated filesystem fixtures and cross-language test support
+2026-09-30T07:55:16.545349Z,diskgraph-engine,0.1.0,0,0,https://github.com/loong10k/diskgraph,"Job orchestration, staging, and authorized scope services for DiskGraph"
+2026-09-30T07:56:31.285775Z,qk-config,0.0.0,0,0,https://github.com/Pajn/qk,"Name reservation for qk-config, a component of the qk task runner"
+2026-09-30T07:56:45.565343Z,qk-graph,0.0.0,0,0,https://github.com/Pajn/qk,"Name reservation for qk-graph, a component of the qk task runner"
+2026-09-30T07:57:00.592244Z,qk-taskgraph,0.0.0,0,0,https://github.com/Pajn/qk,"Name reservation for qk-taskgraph, a component of the qk task runner"
+2026-09-30T07:57:03.020086Z,qk-executor,0.0.0,0,0,https://github.com/Pajn/qk,"Name reservation for qk-executor, a component of the qk task runner"
+2026-09-30T07:57:05.431392Z,qk-runner,0.0.0,0,0,https://github.com/Pajn/qk,"Name reservation for qk-runner, a component of the qk task runner"
+2026-09-30T08:02:30.403271Z,qk-cache,0.0.0,0,0,https://github.com/Pajn/qk,"Name reservation for qk-cache, a component of the qk task runner"
+2026-09-30T08:07:01.617502Z,faucet-common-rabbitmq,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,Shared RabbitMQ (AMQP 0.9.1) config types and connection builder for the faucet-stream source and sink
+2026-09-30T08:07:19.181959Z,faucet-source-rabbitmq,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,RabbitMQ (AMQP 0.9.1) source connector for the faucet-stream ecosystem
+2026-09-30T08:12:21.447225Z,qk-lockfile,0.0.0,0,0,https://github.com/Pajn/qk,"Name reservation for qk-lockfile, a component of the qk task runner"
+2026-09-30T08:12:27.062849Z,clingox-sys,508.2.0-beta.2,0,0,https://github.com/papilionem/clingox,"Raw FFI bindings to clingo 5.8 and its vendored build, the low-level crate behind clingox"
+2026-09-30T08:12:35.687547Z,clingox-derive,508.2.0-beta.2,0,0,https://github.com/papilionem/clingox,"Procedural macros for clingox: derive ToSymbol and FromSymbol, and sym!"
+2026-09-30T08:13:39.714113Z,clingox,508.2.0-beta.2,0,0,https://github.com/papilionem/clingox,"Safe Rust bindings to clingo, the answer set programming system"
+2026-09-30T08:14:48.968479Z,diskgraph-ops,0.1.0,0,0,https://github.com/loong10k/diskgraph,"Plan, approve, and execute reversible file operations for DiskGraph"
+2026-09-30T08:16:27.527827Z,raddy-core,0.1.0,0,0,https://github.com/fokx/raddy,"Core runtime, configuration schemas, matchers, and handler interfaces for Raddy"
+2026-09-30T08:17:02.435357Z,raddy-tls,0.1.0,0,0,https://github.com/fokx/raddy,"Automated TLS, ACME client, local CA PKI, and SNI resolution for Raddy"
+2026-09-30T08:17:14.130167Z,raddy-caddyfile,0.1.0,0,0,https://github.com/fokx/raddy,"Caddyfile lexer, parser, preprocessor, and JSON adapter for Raddy"
+2026-09-30T08:17:36.494386Z,raddy-proxy,0.1.0,0,0,https://github.com/fokx/raddy,"Reverse proxy, load balancers, health checks, and forward proxy for Raddy"
+2026-09-30T08:17:55.626767Z,patois-translate,0.1.0,0,0,,"Machine translation of gettext catalogs and Markdown readmes through the Claude API, for patois apps."
+2026-09-30T08:17:58.476588Z,raddy-http,0.1.0,0,0,https://github.com/fokx/raddy,"HTTP/1.1, HTTP/2, HTTP/3 QUIC servers, routing engine, and directives for Raddy"
