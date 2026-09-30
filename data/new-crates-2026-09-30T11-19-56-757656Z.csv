@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T10:20:39.031248Z,gasm-host,0.2.0,0,0,https://github.com/emdzej/gasm,"Native host for gasm games (a portable game runtime on WebAssembly): wasmtime, WebGPU via wgpu, audio, gamepads, WebSocket networking and storage. Includes the gasm-run runner and gasm-relay"
+2026-09-30T10:29:56.694432Z,hammerkop,0.0.1,0,0,https://codeberg.org/heiko/hammerkop,hkpv2 OpenPGP keyserver client library
+2026-09-30T10:33:33.491103Z,fraiseql-saga,2.15.0,0,0,https://github.com/fraiseql/fraiseql,"Distributed saga orchestration for FraiseQL — forward execution, compensation and crash recovery over the mutation chokepoint"
+2026-09-30T10:34:19.932289Z,axman,0.1.1,0,0,https://github.com/exlee/axman,Terminal man pager with outline detection and extended navigation
+2026-09-30T10:44:22.21262Z,tm-core,0.1.0,0,0,https://github.com/Volland/tiramemsu,"Tiramemsu core: ObjectId codec, term dictionary, storage format, transaction engine and temporal views"
+2026-09-30T10:44:24.667925Z,tm-ir,0.1.0,0,0,https://github.com/Volland/tiramemsu,"Tiramemsu logical query IR: operators, views, semantic flags and validation"
+2026-09-30T10:44:25.04642Z,tm-rusqlite,0.1.0,0,0,https://github.com/Volland/tiramemsu,Tiramemsu executor host on rusqlite with bundled SQLite
+2026-09-30T10:44:29.017895Z,tm-cypher,0.1.0,0,0,https://github.com/Volland/tiramemsu,"Tiramemsu Cypher front end: parser adapter, semantic analysis and lowering to the query IR"
+2026-09-30T10:44:29.649501Z,tm-exec,0.1.0,0,0,https://github.com/Volland/tiramemsu,"Tiramemsu query executor: planner, router, SQL codegen, decoding and the native-operator interface"
+2026-09-30T10:48:30.704108Z,tm-sparql,0.1.0,0,0,https://github.com/Volland/tiramemsu,"Tiramemsu SPARQL 1.1/1.2 front end: parsing, lowering to the query IR, updates and result serialisation"
+2026-09-30T10:49:35.087815Z,volt-core,0.1.0,0,0,https://github.com/FQ-studio/volt-core,"Sovereign, cross-platform compiler core engine built in Rust."
+2026-09-30T10:54:19.79389Z,bitwarden-sensitive-value,4.0.0,0,0,https://github.com/bitwarden/sdk-internal,Internal crate for the bitwarden crate. Do not use.
+2026-09-30T10:57:59.404933Z,tiramemsu,0.1.0,0,0,https://github.com/Volland/tiramemsu,"Tiramemsu: a bitemporal, never-forget triple store on SQLite"
+2026-09-30T10:58:39.503636Z,binfence,0.1.3,0,0,https://github.com/raidshadowmc-sudo/binfence,Binary release security gate & regression auditor for CI/CD pipelines
+2026-09-30T11:00:59.435946Z,egui-large-image,0.1.0,0,0,https://github.com/Vasyanator/egui-large-image,"Draw images larger than the GPU texture limit in egui: a tile grid, worker-thread splitting, budgeted and dirty-aware texture uploads, and culled painting."
+2026-09-30T11:04:47.887871Z,gftools-builder,3.0.0-alpha,0,0,https://github.com/simoncozens/gftools-rust,A tool to build and fix fonts for Google Fonts
+2026-09-30T11:08:01.66852Z,bake-agent-context,0.1.0,0,0,https://github.com/socketry/bake-agent-context-rust,Install context files from Cargo dependencies for coding agents
+2026-09-30T11:14:23.801468Z,protolink,0.0.1,0,0,https://github.com/thives/protolink.rs,"Protolink is a gRPC framework that unifies embedded transports, framing, reliability, HTTP/2, gRPC bridging, and code generation."
+2026-09-30T11:18:33.918099Z,rscode,1.1.0,0,0,https://github.com/Cryotheus/rscode,"Viewing, searching, and editing Rust source files by item path"
+2026-09-30T11:19:00.840573Z,cargo-rscode,1.1.0,0,0,https://github.com/Cryotheus/rscode,"Cargo subcommand (and MCP server) for viewing, searching, and editing Rust source files by item path"
