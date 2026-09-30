@@ -8,41 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 22:18 UTC
+## Latest list — 2026-09-30 23:19 UTC
 
-New crates published between 2026-09-30 21:19 UTC and 2026-09-30 22:18 UTC.
+New crates published between 2026-09-30 22:18 UTC and 2026-09-30 23:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-30T22-18-50-226341Z.csv)
+[Full CSV](data/new-crates-2026-09-30T23-19-48-87137Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-30 21:20:10 | [backbone-performance](https://crates.io/crates/backbone-performance) | 0.2.17 | 0 | Minimal Backbone Framework module skeleton |
-| 2026-09-30 21:35:27 | [rvoip-audio-send-queue](https://crates.io/crates/rvoip-audio-send-queue) | 0.3.11 | 0 | Bounded generation-aware outbound audio queue for rvoip transports |
-| 2026-09-30 21:36:31 | [kcode-k1-objects-testkit](https://crates.io/crates/kcode-k1-objects-testkit) | 0.1.0 | 0 | Downstream conformance testkit for Kennedy K1 Objects |
-| 2026-09-30 21:38:50 | [agent-change-control](https://crates.io/crates/agent-change-control) | 0.5.2 | 0 | Deterministic change control for software written with coding agents |
-| 2026-09-30 21:38:50 | [fideslang-cli](https://crates.io/crates/fideslang-cli) | 0.1.1 | 0 | fl — a command-line toolbox for Fideslang privacy taxonomies and Fides manifest… |
-| 2026-09-30 21:39:14 | [windows-reactor-pre](https://crates.io/crates/windows-reactor-pre) | 0.100.0 | 0 | windows-reactor from microsoft/windows-rs at c14074c45, published for guinea un… |
-| 2026-09-30 21:39:19 | [windows-canvas-pre](https://crates.io/crates/windows-canvas-pre) | 0.100.0 | 0 | windows-canvas from microsoft/windows-rs at c14074c45, on windows-reactor-pre,… |
-| 2026-09-30 21:40:15 | [cleep](https://crates.io/crates/cleep) | 0.1.0 | 0 | Clocksweep Cache implementation in Rust |
-| 2026-09-30 21:41:30 | [backbone-sapiens](https://crates.io/crates/backbone-sapiens) | 0.4.27 | 0 | Sapiens Bounded Context: User Management Module for Backbone Framework |
-| 2026-09-30 21:42:45 | [backbone-schedule](https://crates.io/crates/backbone-schedule) | 0.2.15 | 0 | shift / roster definitions and assignment |
-| 2026-09-30 21:47:50 | [guinea-winui](https://crates.io/crates/guinea-winui) | 0.16.0 | 0 | guinea on WinUI through windows-reactor: the router and the application runtime… |
-| 2026-09-30 21:48:04 | [ailake-secrets](https://crates.io/crates/ailake-secrets) | 0.1.14 | 0 | Secret providers and rotating credentials for AI-Lake |
-| 2026-09-30 21:49:01 | [ailake-cache](https://crates.io/crates/ailake-cache) | 0.1.14 | 0 | Local and Redis/Valkey cache for AI-Lake metadata, queries and index reads |
-| 2026-09-30 21:50:11 | [backbone-survey](https://crates.io/crates/backbone-survey) | 0.1.25 | 0 | Surveys & live sessions — survey/question composition, token-gated attempts wit… |
-| 2026-09-30 21:51:12 | [kcode-k1-chat-thread-rust-code-tasks](https://crates.io/crates/kcode-k1-chat-thread-rust-code-tasks) | 0.1.0 | 0 | Own per-conversation K1 Rust code Ktool tasks |
-| 2026-09-30 21:53:54 | [whoop-mcp](https://crates.io/crates/whoop-mcp) | 0.1.0 | 0 | Read-only WHOOP MCP server for recovery, sleep, HRV, strain, workouts, and pers… |
-| 2026-09-30 21:53:59 | [ntalbs-lsr](https://crates.io/crates/ntalbs-lsr) | 0.1.0 | 0 | Very basic ls clone |
-| 2026-09-30 21:59:56 | [webcanvas](https://crates.io/crates/webcanvas) | 0.1.0 | 0 | Standalone, embeddable Canvas 2D renderer for Rust applications |
-| 2026-09-30 22:00:11 | [backbone-tax](https://crates.io/crates/backbone-tax) | 0.6.19 | 0 | Tax engine (region-neutral): categories, templates, effective-dated rates, with… |
-| 2026-09-30 22:07:42 | [termos](https://crates.io/crates/termos) | 0.1.2 | 0 | Terminal user interface for Azure Cosmos DB |
-| 2026-09-30 22:10:09 | [backbone-telephony](https://crates.io/crates/backbone-telephony) | 0.5.15 | 0 | Minimal Backbone Framework module skeleton |
-| 2026-09-30 22:13:22 | [serverless-agents-types](https://crates.io/crates/serverless-agents-types) | 0.1.0 | 0 | Public types and validation for Serverless Agents |
-| 2026-09-30 22:13:35 | [serverless-agents-protocol](https://crates.io/crates/serverless-agents-protocol) | 0.1.0 | 0 | Wire contracts used by the Serverless Agents SDK and native runtime |
-| 2026-09-30 22:13:51 | [serverless-agents-service-support](https://crates.io/crates/serverless-agents-service-support) | 0.1.0 | 0 | Configuration and telemetry support for the Serverless Agents native runtime |
-| 2026-09-30 22:14:02 | [serverless-agents-harness-sdk](https://crates.io/crates/serverless-agents-harness-sdk) | 0.1.0 | 0 | Rust SDK for authoring durable Serverless Agents harnesses |
-| 2026-09-30 22:14:11 | [serverless-agents-runtime](https://crates.io/crates/serverless-agents-runtime) | 0.1.0 | 0 | Native execution entry point for Serverless Agents Rust harnesses |
-| 2026-09-30 22:16:31 | [matriochka](https://crates.io/crates/matriochka) | 0.1.0 | 0 | Error wrapping and aggregation with typed runtime context and diagnostic chains |
+| 2026-09-30 22:19:09 | [rustmaninoff-report](https://crates.io/crates/rustmaninoff-report) | 0.1.0 | 0 | Text, JSON, SARIF, and JUnit renderers for Rustmaninoff |
+| 2026-09-30 22:19:22 | [rustmaninoff](https://crates.io/crates/rustmaninoff) | 0.1.0 | 0 | Fast IaC security scanner with Checkov-compatible policies |
+| 2026-09-30 22:20:10 | [backbone-timeoff](https://crates.io/crates/backbone-timeoff) | 0.4.33 | 0 | leave / absence: types, requests, balances (+ drawdown invariant) |
+| 2026-09-30 22:20:12 | [packet-dissector-s1ap](https://crates.io/crates/packet-dissector-s1ap) | 0.5.0 | 0 | S1AP (S1 Application Protocol) dissector for packet-dissector |
+| 2026-09-30 22:22:35 | [bake-test-rust](https://crates.io/crates/bake-test-rust) | 0.1.1 | 0 | Reusable Rust test tasks for Bake |
+| 2026-09-30 22:24:22 | [kcode-k1-chat-web-code-output](https://crates.io/crates/kcode-k1-chat-web-code-output) | 0.1.0 | 0 | Pure model-facing outputs for K1 Chat Web-code tasks |
+| 2026-09-30 22:30:09 | [backbone-timesheet](https://crates.io/crates/backbone-timesheet) | 0.4.32 | 0 | Minimal Backbone Framework module skeleton |
+| 2026-09-30 22:34:23 | [slussa](https://crates.io/crates/slussa) | 0.1.1 | 0 | A terminal UI for pull requests on GitHub and Bitbucket Data Center |
+| 2026-09-30 22:39:47 | [gdship](https://crates.io/crates/gdship) | 0.1.0 | 0 | Export a Godot 4 project and push each build to itch.io with butler |
+| 2026-09-30 22:40:09 | [backbone-bulkops](https://crates.io/crates/backbone-bulkops) | 0.6.21 | 0 | Audited, idempotent batch operations that drive each module's write path throug… |
+| 2026-09-30 22:40:27 | [lumos-macros](https://crates.io/crates/lumos-macros) | 0.1.1 | 0 | Compile-time codegen for Lumos: controllers, models, resources |
+| 2026-09-30 22:40:45 | [bevy_net_backend](https://crates.io/crates/bevy_net_backend) | 0.1.0 | 0 | Talk to your game's own backend from Bevy: HTTPS JSON requests, (feature `ws`)… |
+| 2026-09-30 22:42:18 | [kcode-k1-chat-thread-rust-code-history](https://crates.io/crates/kcode-k1-chat-thread-rust-code-history) | 0.1.0 | 0 | Recover one validated Rust code task snapshot from canonical K1 chat history |
+| 2026-09-30 22:47:41 | [kcode-k1-chat-thread-web-code-open-targets](https://crates.io/crates/kcode-k1-chat-thread-web-code-open-targets) | 0.1.0 | 0 | Pure Open presentation and target classification for K1 Chat Web-code |
+| 2026-09-30 22:51:30 | [private-fs](https://crates.io/crates/private-fs) | 0.1.0 | 0 | Handle-oriented private filesystem capabilities and atomic publication |
+| 2026-09-30 22:54:58 | [tree-sitter-ruby-sqry](https://crates.io/crates/tree-sitter-ruby-sqry) | 32.0.1 | 0 | Tree-sitter grammar for Ruby (sqry fork) |
+| 2026-09-30 22:57:13 | [warren-mysql-speller](https://crates.io/crates/warren-mysql-speller) | 0.1.0 | 0 | MySQL statements respelled to read less and return the same rows: a join taken… |
+| 2026-09-30 22:57:41 | [backbone-buying](https://crates.io/crates/backbone-buying) | 0.6.24 | 0 | Buying: Material Request -> RFQ -> Supplier Quotation -> Purchase Order; drives… |
+| 2026-09-30 22:58:42 | [kcode-k1-chat-thread-web-code-check-state](https://crates.io/crates/kcode-k1-chat-thread-web-code-check-state) | 0.1.0 | 0 | Pure conversation-local latest-check state for K1 Chat Web-code tasks |
+| 2026-09-30 22:59:14 | [warren-pg-speller](https://crates.io/crates/warren-pg-speller) | 0.1.0 | 0 | A PostgreSQL planner hook that respells a SELECT through three identities of re… |
+| 2026-09-30 22:59:53 | [pg_warrendex](https://crates.io/crates/pg_warrendex) | 0.1.0 | 0 | The warrendex, an index access method for PostgreSQL |
+| 2026-09-30 23:00:07 | [mysql-warren](https://crates.io/crates/mysql-warren) | 0.1.0 | 0 | A warren on MySQL: InnoDB tables and keys from a layout file, and statements re… |
+| 2026-09-30 23:00:09 | [backbone-payment-gateway](https://crates.io/crates/backbone-payment-gateway) | 0.4.28 | 0 | External payment-gateway boundary: provider abstraction, transaction record, fe… |
+| 2026-09-30 23:03:53 | [smugmug-cli](https://crates.io/crates/smugmug-cli) | 0.4.0 | 0 | A command-line tool for uploading photos to SmugMug with deduplication |
+| 2026-09-30 23:04:26 | [sidestr-hitch](https://crates.io/crates/sidestr-hitch) | 0.1.0 | 0 | Hitch-compatible payment-channel kernel for Bitcoin BLAKE2b testnet4 |
+| 2026-09-30 23:06:58 | [kcode-k1-chat-thread-web-code-errors](https://crates.io/crates/kcode-k1-chat-thread-web-code-errors) | 0.1.0 | 0 | Pure model-facing error outputs for K1 Chat Web-code tasks |
+| 2026-09-30 23:10:11 | [backbone-payroll](https://crates.io/crates/backbone-payroll) | 0.3.46 | 0 | Minimal Backbone Framework module skeleton |
+| 2026-09-30 23:16:11 | [rusticate](https://crates.io/crates/rusticate) | 0.1.1 | 0 | Rusticate: Eloquent-inspired ORM for Rust (usable with or without Lumos) |
 
 ## Data source
 

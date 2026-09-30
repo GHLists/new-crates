@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T22:19:09.443181Z,rustmaninoff-report,0.1.0,0,0,,"Text, JSON, SARIF, and JUnit renderers for Rustmaninoff"
+2026-09-30T22:19:22.964521Z,rustmaninoff,0.1.0,0,0,,Fast IaC security scanner with Checkov-compatible policies
+2026-09-30T22:20:10.736783Z,backbone-timeoff,0.4.33,0,0,https://github.com/faridlab/backbone-timeoff,"leave / absence: types, requests, balances (+ drawdown invariant)"
+2026-09-30T22:20:12.036061Z,packet-dissector-s1ap,0.5.0,0,0,https://github.com/higebu/packet-dissector,S1AP (S1 Application Protocol) dissector for packet-dissector
+2026-09-30T22:22:35.844521Z,bake-test-rust,0.1.1,0,0,https://github.com/socketry/bake-test-rust,Reusable Rust test tasks for Bake
+2026-09-30T22:24:22.62065Z,kcode-k1-chat-web-code-output,0.1.0,0,0,,Pure model-facing outputs for K1 Chat Web-code tasks
+2026-09-30T22:30:09.842608Z,backbone-timesheet,0.4.32,0,0,https://github.com/faridlab/backbone-timesheet,Minimal Backbone Framework module skeleton
+2026-09-30T22:34:23.333161Z,slussa,0.1.1,0,0,https://github.com/albinlju/slussa,A terminal UI for pull requests on GitHub and Bitbucket Data Center
+2026-09-30T22:39:47.894267Z,gdship,0.1.0,0,0,https://github.com/DevPrice/gdship,Export a Godot 4 project and push each build to itch.io with butler
+2026-09-30T22:40:09.891216Z,backbone-bulkops,0.6.21,0,0,https://github.com/faridlab/backbone-bulkops,"Audited, idempotent batch operations that drive each module's write path through a port seam"
+2026-09-30T22:40:27.302536Z,lumos-macros,0.1.1,0,0,https://github.com/iamahless/lumos,"Compile-time codegen for Lumos: controllers, models, resources"
+2026-09-30T22:40:45.685402Z,bevy_net_backend,0.1.0,0,0,https://github.com/warmar94/bevy_net_backend,"Talk to your game's own backend from Bevy: HTTPS JSON requests, (feature `ws`) named WebSocket connections and (feature `ssh`, admin tools) SSH commands and SFTP, typed answers as Bevy messages, exac…"
+2026-09-30T22:42:18.374224Z,kcode-k1-chat-thread-rust-code-history,0.1.0,0,0,,Recover one validated Rust code task snapshot from canonical K1 chat history
+2026-09-30T22:47:41.756279Z,kcode-k1-chat-thread-web-code-open-targets,0.1.0,0,0,,Pure Open presentation and target classification for K1 Chat Web-code
+2026-09-30T22:51:30.633462Z,private-fs,0.1.0,0,0,https://github.com/orielhaim/private-fs,Handle-oriented private filesystem capabilities and atomic publication
+2026-09-30T22:54:58.221695Z,tree-sitter-ruby-sqry,32.0.1,0,0,https://github.com/verivus-oss/sqry,Tree-sitter grammar for Ruby (sqry fork)
+2026-09-30T22:57:13.698369Z,warren-mysql-speller,0.1.0,0,0,https://github.com/soulstompp/warren-mysql-speller,"MySQL statements respelled to read less and return the same rows: a join taken out of a UNION ALL, a grouping taken to each side of a join, each side kept to the keys the other holds"
+2026-09-30T22:57:41.552627Z,backbone-buying,0.6.24,0,0,https://github.com/faridlab/backbone-buying,"Buying: Material Request -> RFQ -> Supplier Quotation -> Purchase Order; drives inventory Purchase Receipt via ReceiptExpected (procure-to-pay intent, 3-way-match watermarks)"
+2026-09-30T22:58:42.464305Z,kcode-k1-chat-thread-web-code-check-state,0.1.0,0,0,,Pure conversation-local latest-check state for K1 Chat Web-code tasks
+2026-09-30T22:59:14.400664Z,warren-pg-speller,0.1.0,0,0,https://github.com/soulstompp/warren-pg-speller,A PostgreSQL planner hook that respells a SELECT through three identities of relational algebra before it is planned
+2026-09-30T22:59:53.12512Z,pg_warrendex,0.1.0,0,0,https://github.com/soulstompp/pg-warren,"The warrendex, an index access method for PostgreSQL"
+2026-09-30T23:00:07.461145Z,mysql-warren,0.1.0,0,0,https://github.com/soulstompp/mysql-warren,"A warren on MySQL: InnoDB tables and keys from a layout file, and statements respelled against its keys"
+2026-09-30T23:00:09.218581Z,backbone-payment-gateway,0.4.28,0,0,https://github.com/faridlab/backbone-payment-gateway,"External payment-gateway boundary: provider abstraction, transaction record, fee line, settlement seam into payment"
+2026-09-30T23:03:53.729896Z,smugmug-cli,0.4.0,0,0,https://github.com/jhofker/smugmug-cli,A command-line tool for uploading photos to SmugMug with deduplication
+2026-09-30T23:04:26.825686Z,sidestr-hitch,0.1.0,0,0,https://github.com/DreamLab-AI/sidestr-rs,Hitch-compatible payment-channel kernel for Bitcoin BLAKE2b testnet4
+2026-09-30T23:06:58.529565Z,kcode-k1-chat-thread-web-code-errors,0.1.0,0,0,,Pure model-facing error outputs for K1 Chat Web-code tasks
+2026-09-30T23:10:11.39418Z,backbone-payroll,0.3.46,0,0,https://github.com/faridlab/backbone-payroll,Minimal Backbone Framework module skeleton
+2026-09-30T23:16:11.598764Z,rusticate,0.1.1,0,0,https://github.com/iamahless/lumos,Rusticate: Eloquent-inspired ORM for Rust (usable with or without Lumos)
