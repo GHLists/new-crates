@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T15:19:38.557593Z,merman-doc,0.8.0-alpha.7,0,0,https://github.com/Latias94/merman,Shared Markdown and HTML integration for Merman rustdoc diagrams.
+2026-09-30T15:19:55.152423Z,kcode-k1-chat-service-selection,0.1.0,0,0,,Concrete conversation selection and key semantics for K1 Chat Service
+2026-09-30T15:21:16.585167Z,backbone-orm,2.7.35,0,0,https://github.com/faridlab/backbone-framework,Backbone Framework ORM - Database layer with PostgreSQL support
+2026-09-30T15:22:15.182074Z,paper-headless,0.1.1,0,0,https://github.com/Maddiaa0/paper-headless,Run Paper Desktop on a headless Linux server so its local MCP server is available to agents
+2026-09-30T15:26:30.257556Z,svir,0.1.0,0,0,https://github.com/RomanEmreis/svir,"A small, composable SDK for talking to large language models"
+2026-09-30T15:28:36.604892Z,npro,0.0.1,0,0,https://libwebsockets.org/git/npro,"Placeholder: the npro facade, part of npro, the safe Rust port of libwebsockets' sansIO protocols"
+2026-09-30T15:28:38.990746Z,npro-core,0.0.1,0,0,https://libwebsockets.org/git/npro,"Placeholder: the sansIO connection core, part of npro, the safe Rust port of libwebsockets' sansIO protocols"
+2026-09-30T15:28:41.78101Z,npro-h1,0.0.1,0,0,https://libwebsockets.org/git/npro,"Placeholder: HTTP/1.1, part of npro, the safe Rust port of libwebsockets' sansIO protocols"
+2026-09-30T15:28:44.499289Z,npro-ws,0.0.1,0,0,https://libwebsockets.org/git/npro,"Placeholder: WebSocket, part of npro, the safe Rust port of libwebsockets' sansIO protocols"
+2026-09-30T15:28:47.162386Z,npro-h2,0.0.1,0,0,https://libwebsockets.org/git/npro,"Placeholder: HTTP/2, part of npro, the safe Rust port of libwebsockets' sansIO protocols"
+2026-09-30T15:30:46.688831Z,backbone-outbox,2.7.35,0,0,https://github.com/faridlab/backbone-framework,Durable transactional-outbox + inbox + relay primitives for go-live exactly-once event delivery over Postgres.
+2026-09-30T15:34:07.088441Z,kcode-k1-daemon-audio-lifetime,0.1.0,0,0,,Daemon lifetime guard for K1 Audio classification
+2026-09-30T15:35:39.222135Z,npro-h3,0.0.1,0,0,https://libwebsockets.org/git/npro,"Placeholder: HTTP/3, part of npro, the safe Rust port of libwebsockets' sansIO protocols"
+2026-09-30T15:36:04.525953Z,joule-proxy,0.7.0,0,0,https://github.com/wuisabel-gif/Joule,Energy-aware optimization middleware for LLM inference.
+2026-09-30T15:40:33.797203Z,backbone-queue,2.7.35,0,0,https://github.com/faridlab/backbone-framework,"Backbone Framework Queue Module - Redis, SQS, and RabbitMQ support"
+2026-09-30T15:44:36.896982Z,elephant-rs,0.1.0,0,0,https://github.com/mbr/elephant-rs,Unofficial Rust SDK for Absurd durable workflows
+2026-09-30T15:44:39.760534Z,npro-quic,0.0.1,0,0,https://libwebsockets.org/git/npro,"Placeholder: QUIC, part of npro, the safe Rust port of libwebsockets' sansIO protocols"
+2026-09-30T15:50:02.073897Z,backbone-rate-limit,2.7.35,0,0,https://github.com/faridlab/backbone-framework,Backbone Framework Rate Limiting Module - Rate limiting middleware for Axum
+2026-09-30T15:53:28.249323Z,npro-wt,0.0.1,0,0,https://libwebsockets.org/git/npro,"Placeholder: WebTransport, part of npro, the safe Rust port of libwebsockets' sansIO protocols"
+2026-09-30T15:56:51.273085Z,rs4dggs,0.1.0,0,0,https://github.com/terraops-org/rs4dggs,"Pure Rust port of py4dggs: DGGAL's discrete global grid systems IGEO7, IVEA7H, RTEA7H, ISEA3H, IVEA3H and RTEA3H"
+2026-09-30T15:56:57.237707Z,ikigai-diagram,0.1.0,0,0,https://github.com/ikigai-rs/ikigai-diagram,"A kernel's arrangement as a picture: urn:diagram:* renders the resolution topology (urn:kernel:topology, or any declaration of a space) as an accessible, deterministic SVG of nested boxes."
+2026-09-30T15:57:00.771376Z,rs4dggs-cli,0.1.0,0,0,https://github.com/terraops-org/rs4dggs,"A command-line tool over rs4dggs: DGGAL's discrete global grids IGEO7, IVEA7H, RTEA7H, ISEA3H, IVEA3H and RTEA3H"
+2026-09-30T15:57:17.041859Z,artil,0.0.1,0,0,,"Artil, coming soon"
+2026-09-30T15:58:22.903494Z,artil-ai,0.0.1,0,0,,"Artil, coming soon"
+2026-09-30T15:59:59.67238Z,snug,0.0.0,0,0,,Make every item in your Rust workspace as private as it can be
+2026-09-30T16:01:11.516507Z,backbone-search,2.7.35,0,0,https://github.com/faridlab/backbone-framework,Backbone Framework Search Module - Elasticsearch and Algolia support
+2026-09-30T16:04:04.726168Z,packet-dissector-rtcp,0.5.0,0,0,https://github.com/higebu/packet-dissector,RTCP (RFC 3550) dissector for packet-dissector
+2026-09-30T16:04:07.769364Z,packet-dissector-snmp,0.5.0,0,0,https://github.com/higebu/packet-dissector,SNMP (RFC 3416) dissector for packet-dissector
+2026-09-30T16:09:58.828048Z,neurafly,0.2.0,0,0,https://github.com/emiliano-go/neurafly,"Real audio in, real neurons firing, real time. A terminal audio visualizer driven by a FlyWire connectome."
+2026-09-30T16:10:51.760331Z,backbone-storage,2.7.35,0,0,https://github.com/faridlab/backbone-framework,Backbone Framework Storage Module - Local file system support
+2026-09-30T16:14:09.26692Z,war3-core,0.0.1,0,0,https://github.com/w3wright/w3wright,"Shared core types: FourCC, Vec3, diagnostics and errors. No format-specific code."
+2026-09-30T16:14:19.224427Z,war3-terrain,0.0.1,0,0,https://github.com/w3wright/w3wright,".w3e terrain parsing and serialisation, in both the v11 seven-byte and v12 eight-byte layouts."
+2026-09-30T16:15:20.399391Z,i8051-script,0.25.0,0,0,https://github.com/mmastrac/i8051,The DSL value model shared by the i8051 disassembler and its macros.
+2026-09-30T16:15:20.632865Z,m6805,0.25.0,0,0,https://github.com/mmastrac/i8051,A decoder/disassembler for the Motorola 6805 (M68HC05) 8-bit MCU.
+2026-09-30T16:18:58.285526Z,mos-6502,0.25.0,0,0,https://github.com/mmastrac/i8051,A decoder/disassembler for the MOS 6502 (NMOS) 8-bit CPU.
+2026-09-30T16:19:01.755682Z,i8051-disassembler-service,0.25.0,0,0,https://github.com/mmastrac/i8051,Reusable session and query layer over the i8051 disassembler.
+2026-09-30T16:19:03.341429Z,i8051-repl,0.25.0,0,0,https://github.com/mmastrac/i8051,An interactive DSL REPL for the i8051 disassembler.
+2026-09-30T16:19:33.805581Z,bailiff,0.0.0,0,0,,Solver-verified spec gate for coding agents.
+2026-09-30T16:19:50.508761Z,pulseweave,0.1.0,0,0,https://github.com/coral/pulseweave,"Synchronous streaming bar, beat, and tatum analysis for mono audio"
+2026-09-30T16:20:42.679776Z,backbone-auth,2.7.35,0,0,https://github.com/faridlab/backbone-framework,Backbone Framework Auth - Authentication and authorization system

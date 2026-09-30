@@ -8,49 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 15:19 UTC
+## Latest list — 2026-09-30 16:21 UTC
 
-New crates published between 2026-09-30 14:20 UTC and 2026-09-30 15:19 UTC.
+New crates published between 2026-09-30 15:19 UTC and 2026-09-30 16:21 UTC.
 
-[Full CSV](data/new-crates-2026-09-30T15-19-00-080133Z.csv)
+[Full CSV](data/new-crates-2026-09-30T16-21-53-116532Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-30 14:21:52 | [euphorium-rodio](https://crates.io/crates/euphorium-rodio) | 0.22.2 | 0 | Audio playback and recording library |
-| 2026-09-30 14:22:11 | [maillon](https://crates.io/crates/maillon) | 0.1.0 | 0 | A concurrent intrusive list for building synchronization primitives. |
-| 2026-09-30 14:24:09 | [packet-dissector-ipfix](https://crates.io/crates/packet-dissector-ipfix) | 0.5.0 | 0 | IPFIX (RFC 7011) and NetFlow v5/v9 dissector for packet-dissector |
-| 2026-09-30 14:24:12 | [packet-dissector-tcap](https://crates.io/crates/packet-dissector-tcap) | 0.5.0 | 0 | TCAP (ITU-T Q.773, Transaction Capabilities Application Part) dissector for pac… |
-| 2026-09-30 14:26:22 | [kcode-k1-web-code-document](https://crates.io/crates/kcode-k1-web-code-document) | 0.1.0 | 0 | Represent and chunk one authored K1 Web code document |
-| 2026-09-30 14:28:58 | [kcode-k1-chat-thread-ktools](https://crates.io/crates/kcode-k1-chat-thread-ktools) | 0.1.0 | 0 | Synchronous Ktool dispatch for one K1 chat thread |
-| 2026-09-30 14:29:41 | [packet-dissector-map](https://crates.io/crates/packet-dissector-map) | 0.5.0 | 0 | MAP (3GPP TS 29.002, Mobile Application Part) dissector for packet-dissector |
-| 2026-09-30 14:33:27 | [pulsar-monitor-core](https://crates.io/crates/pulsar-monitor-core) | 0.1.0 | 0 | Sampling, history, layout and settings for the Pulsar taskbar monitor. |
-| 2026-09-30 14:34:05 | [pulsar-monitor](https://crates.io/crates/pulsar-monitor) | 0.1.0 | 0 | A lightweight Windows 11 taskbar monitor for CPU, memory, disk, network, GPU an… |
-| 2026-09-30 14:34:53 | [stylus-merkle-proof-verifier](https://crates.io/crates/stylus-merkle-proof-verifier) | 0.1.0 | 0 | Fork of OpenZeppelin's Merkle verification code without the dependency tree. |
-| 2026-09-30 14:35:36 | [backbone-authorization](https://crates.io/crates/backbone-authorization) | 2.7.35 | 0 | Backbone Framework Authorization - Centralized RBAC authorization service |
-| 2026-09-30 14:35:41 | [backbone-cache](https://crates.io/crates/backbone-cache) | 2.7.35 | 0 | Backbone Framework Cache Module - Redis and Memory caching support |
-| 2026-09-30 14:35:45 | [backbone-email](https://crates.io/crates/backbone-email) | 2.7.35 | 0 | Backbone Framework Email Module - SMTP support |
-| 2026-09-30 14:35:50 | [backbone-gl-posting](https://crates.io/crates/backbone-gl-posting) | 2.7.35 | 0 | Wire contracts shared across Backbone producers: the GL-posting envelope + sink… |
-| 2026-09-30 14:35:54 | [backbone-graphql](https://crates.io/crates/backbone-graphql) | 2.7.35 | 0 | GraphQL runtime support for the Backbone Framework |
-| 2026-09-30 14:38:48 | [heirloom-client](https://crates.io/crates/heirloom-client) | 0.1.2 | 0 | Heirloom client generated with Codama. |
-| 2026-09-30 14:40:39 | [backbone-health](https://crates.io/crates/backbone-health) | 2.7.35 | 0 | Backbone Framework Health Check Module - Production monitoring and health endpo… |
-| 2026-09-30 14:48:09 | [packet-dissector-pim](https://crates.io/crates/packet-dissector-pim) | 0.5.0 | 0 | PIM (Protocol Independent Multicast, RFC 7761) dissector for packet-dissector |
-| 2026-09-30 14:48:12 | [packet-dissector-radiotap](https://crates.io/crates/packet-dissector-radiotap) | 0.5.0 | 0 | Radiotap header (LINKTYPE_IEEE802_11_RADIOTAP) dissector for packet-dissector |
-| 2026-09-30 14:50:05 | [backbone-maintenance](https://crates.io/crates/backbone-maintenance) | 2.7.35 | 0 | Backbone Framework Maintenance Mode — toggleable 503 gate with admin endpoint,… |
-| 2026-09-30 14:52:17 | [raddyserver](https://crates.io/crates/raddyserver) | 0.2.0 | 0 | Alias and wrapper for raddy-server, the fast, extensible web server in Rust (Ca… |
-| 2026-09-30 14:54:26 | [pathstr](https://crates.io/crates/pathstr) | 0.1.0 | 0 | PathBuf wrapper type with ergonomic conversion to/from various string types |
-| 2026-09-30 14:56:18 | [eigentrust](https://crates.io/crates/eigentrust) | 0.2.0 | 0 | EigenTrust reputation algorithm: global trust scores for peer-to-peer networks… |
-| 2026-09-30 14:56:30 | [eigentrust-cli](https://crates.io/crates/eigentrust-cli) | 0.2.0 | 0 | Command-line EigenTrust: rank peers from CSV trust statements |
-| 2026-09-30 14:56:58 | [tollgate-axum](https://crates.io/crates/tollgate-axum) | 0.32.2 | 0 | Axum integration for Tollgate's local quota admission and usage accounting. |
-| 2026-09-30 14:58:53 | [sb-core](https://crates.io/crates/sb-core) | 0.2.0 | 0 | S&B Core — Unified Domain Types, IPC DTOs, Path Manager & Ports Topology |
-| 2026-09-30 15:00:09 | [sb-code](https://crates.io/crates/sb-code) | 0.1.0 | 0 | S&B Code — Sovereign Unified Code Engine: AST Scopes, Live Swarm & BLAKE3 Merkl… |
-| 2026-09-30 15:01:03 | [backbone-messaging](https://crates.io/crates/backbone-messaging) | 2.7.35 | 0 | Event-driven messaging infrastructure for Backbone Framework |
-| 2026-09-30 15:06:43 | [btt-cli](https://crates.io/crates/btt-cli) | 0.2.0 | 0 | Branch tree testing for any language: check and scaffold test suites from bullo… |
-| 2026-09-30 15:10:03 | [backbone-observability](https://crates.io/crates/backbone-observability) | 2.7.35 | 0 | Backbone Framework Observability - Tracing, logging, and metrics |
-| 2026-09-30 15:16:55 | [packet-dissector-ldp](https://crates.io/crates/packet-dissector-ldp) | 0.5.0 | 0 | LDP (Label Distribution Protocol, RFC 5036) dissector for packet-dissector |
-| 2026-09-30 15:16:58 | [packet-dissector-rsvp](https://crates.io/crates/packet-dissector-rsvp) | 0.5.0 | 0 | RSVP and RSVP-TE (RFC 2205, RFC 3209) dissector for packet-dissector |
-| 2026-09-30 15:17:01 | [packet-dissector-sccp](https://crates.io/crates/packet-dissector-sccp) | 0.5.0 | 0 | SCCP (ITU-T Q.713, Signalling Connection Control Part) dissector for packet-dis… |
-| 2026-09-30 15:17:23 | [atman-macros](https://crates.io/crates/atman-macros) | 1.14.0 | 0 | Tool binding macros for Atman hosts |
-| 2026-09-30 15:18:16 | [atman-rt](https://crates.io/crates/atman-rt) | 1.14.0 | 0 | Embeddable Atman language virtual machine |
+| 2026-09-30 15:19:38 | [merman-doc](https://crates.io/crates/merman-doc) | 0.8.0-alpha.7 | 0 | Shared Markdown and HTML integration for Merman rustdoc diagrams. |
+| 2026-09-30 15:19:55 | [kcode-k1-chat-service-selection](https://crates.io/crates/kcode-k1-chat-service-selection) | 0.1.0 | 0 | Concrete conversation selection and key semantics for K1 Chat Service |
+| 2026-09-30 15:21:16 | [backbone-orm](https://crates.io/crates/backbone-orm) | 2.7.35 | 0 | Backbone Framework ORM - Database layer with PostgreSQL support |
+| 2026-09-30 15:22:15 | [paper-headless](https://crates.io/crates/paper-headless) | 0.1.1 | 0 | Run Paper Desktop on a headless Linux server so its local MCP server is availab… |
+| 2026-09-30 15:26:30 | [svir](https://crates.io/crates/svir) | 0.1.0 | 0 | A small, composable SDK for talking to large language models |
+| 2026-09-30 15:28:36 | [npro](https://crates.io/crates/npro) | 0.0.1 | 0 | Placeholder: the npro facade, part of npro, the safe Rust port of libwebsockets… |
+| 2026-09-30 15:28:38 | [npro-core](https://crates.io/crates/npro-core) | 0.0.1 | 0 | Placeholder: the sansIO connection core, part of npro, the safe Rust port of li… |
+| 2026-09-30 15:28:41 | [npro-h1](https://crates.io/crates/npro-h1) | 0.0.1 | 0 | Placeholder: HTTP/1.1, part of npro, the safe Rust port of libwebsockets' sansI… |
+| 2026-09-30 15:28:44 | [npro-ws](https://crates.io/crates/npro-ws) | 0.0.1 | 0 | Placeholder: WebSocket, part of npro, the safe Rust port of libwebsockets' sans… |
+| 2026-09-30 15:28:47 | [npro-h2](https://crates.io/crates/npro-h2) | 0.0.1 | 0 | Placeholder: HTTP/2, part of npro, the safe Rust port of libwebsockets' sansIO… |
+| 2026-09-30 15:30:46 | [backbone-outbox](https://crates.io/crates/backbone-outbox) | 2.7.35 | 0 | Durable transactional-outbox + inbox + relay primitives for go-live exactly-onc… |
+| 2026-09-30 15:34:07 | [kcode-k1-daemon-audio-lifetime](https://crates.io/crates/kcode-k1-daemon-audio-lifetime) | 0.1.0 | 0 | Daemon lifetime guard for K1 Audio classification |
+| 2026-09-30 15:35:39 | [npro-h3](https://crates.io/crates/npro-h3) | 0.0.1 | 0 | Placeholder: HTTP/3, part of npro, the safe Rust port of libwebsockets' sansIO… |
+| 2026-09-30 15:36:04 | [joule-proxy](https://crates.io/crates/joule-proxy) | 0.7.0 | 0 | Energy-aware optimization middleware for LLM inference. |
+| 2026-09-30 15:40:33 | [backbone-queue](https://crates.io/crates/backbone-queue) | 2.7.35 | 0 | Backbone Framework Queue Module - Redis, SQS, and RabbitMQ support |
+| 2026-09-30 15:44:36 | [elephant-rs](https://crates.io/crates/elephant-rs) | 0.1.0 | 0 | Unofficial Rust SDK for Absurd durable workflows |
+| 2026-09-30 15:44:39 | [npro-quic](https://crates.io/crates/npro-quic) | 0.0.1 | 0 | Placeholder: QUIC, part of npro, the safe Rust port of libwebsockets' sansIO pr… |
+| 2026-09-30 15:50:02 | [backbone-rate-limit](https://crates.io/crates/backbone-rate-limit) | 2.7.35 | 0 | Backbone Framework Rate Limiting Module - Rate limiting middleware for Axum |
+| 2026-09-30 15:53:28 | [npro-wt](https://crates.io/crates/npro-wt) | 0.0.1 | 0 | Placeholder: WebTransport, part of npro, the safe Rust port of libwebsockets' s… |
+| 2026-09-30 15:56:51 | [rs4dggs](https://crates.io/crates/rs4dggs) | 0.1.0 | 0 | Pure Rust port of py4dggs: DGGAL's discrete global grid systems IGEO7, IVEA7H,… |
+| 2026-09-30 15:56:57 | [ikigai-diagram](https://crates.io/crates/ikigai-diagram) | 0.1.0 | 0 | A kernel's arrangement as a picture: urn:diagram:* renders the resolution topol… |
+| 2026-09-30 15:57:00 | [rs4dggs-cli](https://crates.io/crates/rs4dggs-cli) | 0.1.0 | 0 | A command-line tool over rs4dggs: DGGAL's discrete global grids IGEO7, IVEA7H,… |
+| 2026-09-30 15:57:17 | [artil](https://crates.io/crates/artil) | 0.0.1 | 0 | Artil, coming soon |
+| 2026-09-30 15:58:22 | [artil-ai](https://crates.io/crates/artil-ai) | 0.0.1 | 0 | Artil, coming soon |
+| 2026-09-30 15:59:59 | [snug](https://crates.io/crates/snug) | 0.0.0 | 0 | Make every item in your Rust workspace as private as it can be |
+| 2026-09-30 16:01:11 | [backbone-search](https://crates.io/crates/backbone-search) | 2.7.35 | 0 | Backbone Framework Search Module - Elasticsearch and Algolia support |
+| 2026-09-30 16:04:04 | [packet-dissector-rtcp](https://crates.io/crates/packet-dissector-rtcp) | 0.5.0 | 0 | RTCP (RFC 3550) dissector for packet-dissector |
+| 2026-09-30 16:04:07 | [packet-dissector-snmp](https://crates.io/crates/packet-dissector-snmp) | 0.5.0 | 0 | SNMP (RFC 3416) dissector for packet-dissector |
+| 2026-09-30 16:09:58 | [neurafly](https://crates.io/crates/neurafly) | 0.2.0 | 0 | Real audio in, real neurons firing, real time. A terminal audio visualizer driv… |
+| 2026-09-30 16:10:51 | [backbone-storage](https://crates.io/crates/backbone-storage) | 2.7.35 | 0 | Backbone Framework Storage Module - Local file system support |
+| 2026-09-30 16:14:09 | [war3-core](https://crates.io/crates/war3-core) | 0.0.1 | 0 | Shared core types: FourCC, Vec3, diagnostics and errors. No format-specific cod… |
+| 2026-09-30 16:14:19 | [war3-terrain](https://crates.io/crates/war3-terrain) | 0.0.1 | 0 | .w3e terrain parsing and serialisation, in both the v11 seven-byte and v12 eigh… |
+| 2026-09-30 16:15:20 | [i8051-script](https://crates.io/crates/i8051-script) | 0.25.0 | 0 | The DSL value model shared by the i8051 disassembler and its macros. |
+| 2026-09-30 16:15:20 | [m6805](https://crates.io/crates/m6805) | 0.25.0 | 0 | A decoder/disassembler for the Motorola 6805 (M68HC05) 8-bit MCU. |
+| 2026-09-30 16:18:58 | [mos-6502](https://crates.io/crates/mos-6502) | 0.25.0 | 0 | A decoder/disassembler for the MOS 6502 (NMOS) 8-bit CPU. |
+| 2026-09-30 16:19:01 | [i8051-disassembler-service](https://crates.io/crates/i8051-disassembler-service) | 0.25.0 | 0 | Reusable session and query layer over the i8051 disassembler. |
+| 2026-09-30 16:19:03 | [i8051-repl](https://crates.io/crates/i8051-repl) | 0.25.0 | 0 | An interactive DSL REPL for the i8051 disassembler. |
+| 2026-09-30 16:19:33 | [bailiff](https://crates.io/crates/bailiff) | 0.0.0 | 0 | Solver-verified spec gate for coding agents. |
+| 2026-09-30 16:19:50 | [pulseweave](https://crates.io/crates/pulseweave) | 0.1.0 | 0 | Synchronous streaming bar, beat, and tatum analysis for mono audio |
+| 2026-09-30 16:20:42 | [backbone-auth](https://crates.io/crates/backbone-auth) | 2.7.35 | 0 | Backbone Framework Auth - Authentication and authorization system |
 
 ## Data source
 
