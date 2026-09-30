@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T20:20:09.864562Z,backbone-learning,0.2.20,0,0,https://github.com/faridlab/backbone-learning,"learning & development — courses, enrollments, competencies, skills"
+2026-09-30T20:21:04.912943Z,asbuilt-core,0.1.0,0,0,https://github.com/padamson/asbuilt,"Language-agnostic architecture model, LikeC4 emitter, config and drift check for asbuilt"
+2026-09-30T20:21:20.489516Z,asbuilt-rust,0.1.0,0,0,https://github.com/padamson/asbuilt,"Rust front-end for asbuilt: crates as containers, modules as components, references as relations"
+2026-09-30T20:22:50.780881Z,asbuilt,0.1.0,0,0,https://github.com/padamson/asbuilt,Survey a code base into a LikeC4 architecture model and fail CI when the committed model drifts
+2026-09-30T20:23:58.514112Z,ftms,0.1.0,0,0,https://github.com/deancochran/ftms,Allocation-free no_std codecs for Bluetooth Fitness Machine Service data
+2026-09-30T20:24:49.047534Z,prv-optimizer,0.2.1,0,0,https://github.com/Metis-Avionics/economic-prv,Deterministic constrained trajectory optimization for the prv workspace
+2026-09-30T20:26:55.089432Z,wyrd-engine,0.1.0,0,0,https://github.com/xximxxhatedxx/wyrd-engine,"Core Wayland, Lua, WASM and rendering engine facade for the Wyrd ecosystem"
+2026-09-30T20:28:30.904297Z,kcode-k1-web-code-ktool-service-fixture,0.1.0,0,0,,Real-state downstream fixture for K1 Web code Ktool service tests
+2026-09-30T20:29:28.702084Z,ruff_unicode_names2,0.0.0,0,0,https://github.com/astral-sh/ruff,Placeholder release for ruff_unicode_names2
+2026-09-30T20:29:40.727089Z,confluent-kafka,0.1.0-alpha.0,0,0,https://github.com/confluentinc/kafka-clients/rust,"Confluent Rust implementation of the Kafka client, translated from the Apache Kafka Java client."
+2026-09-30T20:29:46.86861Z,ruff_unicode_names2_generator,0.0.0,0,0,https://github.com/astral-sh/ruff,Placeholder release for ruff_unicode_names2_generator
+2026-09-30T20:30:17.431036Z,backbone-mail,0.2.32,0,0,https://github.com/faridlab/backbone-mail,Odoo mail core port — message/notification/followers/activity/alias/sms queue (schema: messaging)
+2026-09-30T20:33:45.402419Z,openintents,0.1.1,0,0,https://github.com/tinyhumansai/openintents,Rust SDK for OpenIntents: let your agents buy anything
+2026-09-30T20:38:13.583546Z,uniscript,1.0.0,0,0,https://github.com/pannous/uniscript,"Uniscript: ASCII names for Unicode text (<:alpha> → α, <:fracture A> → 𝔄) and back"
+2026-09-30T20:40:13.380299Z,backbone-manufacturing,0.5.25,0,0,https://github.com/faridlab/backbone-manufacturing,"Manufacturing module: BOM/product definition (versioned, typed normal/kit/subcontract) and work-order execution (hybrid 6-state lifecycle, WIP job-order costing through the inventory/GL ports, unbuil…"
+2026-09-30T20:44:33.417775Z,kcode-k1-web-code-ktool-testkit,0.1.0,0,0,,Destructive downstream conformance verifier for the K1 Web code Ktool service
+2026-09-30T20:45:38.309567Z,tabnas-support,0.3.5,0,0,https://github.com/tabnas/support,"Shared test-support utilities for the tabnas parser system: the TSV fixture loader, the escape codec, the expectation helpers, the runner, the divergence register and the code census."
+2026-09-30T20:45:55.393882Z,finny_inspect_web,0.3.0,0,0,https://github.com/hashmismatch/finny.rs,"A web inspector for the Finny state machines: a live statechart, the history of the dispatched events and the values of the states."
+2026-09-30T20:50:06.600826Z,backbone-orders,0.1.15,0,0,https://github.com/faridlab/backbone-orders,"Order workflow with pickups, deliveries, status timeline (extracted from bersihir)"
+2026-09-30T20:55:00.148284Z,ktav-lsp,0.8.0,0,0,https://github.com/ktav-lang/editor,LSP server for the Ktav configuration format
+2026-09-30T20:57:31.627672Z,nestfix,0.1.0,0,0,https://github.com/aneek0/nestfix,An automatic window switcher for Hyprland (fork of hypr-nest)
+2026-09-30T21:00:13.453291Z,backbone-organization,0.4.30,0,0,https://github.com/faridlab/backbone-organization,"Foundation org structure: Company, Branch, Department (Indonesia-first, schema-per-tenant)"
+2026-09-30T21:01:36.511566Z,tabnas-railroad,0.3.8,0,0,https://github.com/tabnas/railroad,"Railroad (syntax) diagram renderer for the tabnas parser: introspects a live grammar and emits a JSON model, a vertical-flow SVG and an ASCII diagram."
+2026-09-30T21:02:51.537034Z,kcode-k1-web-source-object,0.1.0,0,0,,Preserve and capture canonical K1 Web source-package objects
+2026-09-30T21:10:10.328874Z,backbone-party,0.5.21,0,0,https://github.com/faridlab/backbone-party,Canonical party identity (person/organization) + multi-channel address book; Customer/Supplier/Employee are projections
+2026-09-30T21:18:13.419299Z,tabnas-lsp,0.1.3,0,0,https://github.com/tabnas/lsp,"The tabnas language server in Rust: diagnostics, outline, semantic tokens, hover and completion for every tabnas grammar, as a library for Rust hosts and a stdio server"
