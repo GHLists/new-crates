@@ -8,40 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 21:19 UTC
+## Latest list — 2026-09-30 22:18 UTC
 
-New crates published between 2026-09-30 20:20 UTC and 2026-09-30 21:19 UTC.
+New crates published between 2026-09-30 21:19 UTC and 2026-09-30 22:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-30T21-19-03-791003Z.csv)
+[Full CSV](data/new-crates-2026-09-30T22-18-50-226341Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-30 20:20:09 | [backbone-learning](https://crates.io/crates/backbone-learning) | 0.2.20 | 0 | learning & development — courses, enrollments, competencies, skills |
-| 2026-09-30 20:21:04 | [asbuilt-core](https://crates.io/crates/asbuilt-core) | 0.1.0 | 0 | Language-agnostic architecture model, LikeC4 emitter, config and drift check fo… |
-| 2026-09-30 20:21:20 | [asbuilt-rust](https://crates.io/crates/asbuilt-rust) | 0.1.0 | 0 | Rust front-end for asbuilt: crates as containers, modules as components, refere… |
-| 2026-09-30 20:22:50 | [asbuilt](https://crates.io/crates/asbuilt) | 0.1.0 | 0 | Survey a code base into a LikeC4 architecture model and fail CI when the commit… |
-| 2026-09-30 20:23:58 | [ftms](https://crates.io/crates/ftms) | 0.1.0 | 0 | Allocation-free no_std codecs for Bluetooth Fitness Machine Service data |
-| 2026-09-30 20:24:49 | [prv-optimizer](https://crates.io/crates/prv-optimizer) | 0.2.1 | 0 | Deterministic constrained trajectory optimization for the prv workspace |
-| 2026-09-30 20:26:55 | [wyrd-engine](https://crates.io/crates/wyrd-engine) | 0.1.0 | 0 | Core Wayland, Lua, WASM and rendering engine facade for the Wyrd ecosystem |
-| 2026-09-30 20:28:30 | [kcode-k1-web-code-ktool-service-fixture](https://crates.io/crates/kcode-k1-web-code-ktool-service-fixture) | 0.1.0 | 0 | Real-state downstream fixture for K1 Web code Ktool service tests |
-| 2026-09-30 20:29:28 | [ruff_unicode_names2](https://crates.io/crates/ruff_unicode_names2) | 0.0.0 | 0 | Placeholder release for ruff_unicode_names2 |
-| 2026-09-30 20:29:40 | [confluent-kafka](https://crates.io/crates/confluent-kafka) | 0.1.0-alpha.0 | 0 | Confluent Rust implementation of the Kafka client, translated from the Apache K… |
-| 2026-09-30 20:29:46 | [ruff_unicode_names2_generator](https://crates.io/crates/ruff_unicode_names2_generator) | 0.0.0 | 0 | Placeholder release for ruff_unicode_names2_generator |
-| 2026-09-30 20:30:17 | [backbone-mail](https://crates.io/crates/backbone-mail) | 0.2.32 | 0 | Odoo mail core port — message/notification/followers/activity/alias/sms queue (… |
-| 2026-09-30 20:33:45 | [openintents](https://crates.io/crates/openintents) | 0.1.1 | 0 | Rust SDK for OpenIntents: let your agents buy anything |
-| 2026-09-30 20:38:13 | [uniscript](https://crates.io/crates/uniscript) | 1.0.0 | 0 | Uniscript: ASCII names for Unicode text (<:alpha> → α, <:fracture A> → 𝔄) and b… |
-| 2026-09-30 20:40:13 | [backbone-manufacturing](https://crates.io/crates/backbone-manufacturing) | 0.5.25 | 0 | Manufacturing module: BOM/product definition (versioned, typed normal/kit/subco… |
-| 2026-09-30 20:44:33 | [kcode-k1-web-code-ktool-testkit](https://crates.io/crates/kcode-k1-web-code-ktool-testkit) | 0.1.0 | 0 | Destructive downstream conformance verifier for the K1 Web code Ktool service |
-| 2026-09-30 20:45:38 | [tabnas-support](https://crates.io/crates/tabnas-support) | 0.3.5 | 0 | Shared test-support utilities for the tabnas parser system: the TSV fixture loa… |
-| 2026-09-30 20:45:55 | [finny_inspect_web](https://crates.io/crates/finny_inspect_web) | 0.3.0 | 0 | A web inspector for the Finny state machines: a live statechart, the history of… |
-| 2026-09-30 20:50:06 | [backbone-orders](https://crates.io/crates/backbone-orders) | 0.1.15 | 0 | Order workflow with pickups, deliveries, status timeline (extracted from bersih… |
-| 2026-09-30 20:55:00 | [ktav-lsp](https://crates.io/crates/ktav-lsp) | 0.8.0 | 0 | LSP server for the Ktav configuration format |
-| 2026-09-30 20:57:31 | [nestfix](https://crates.io/crates/nestfix) | 0.1.0 | 0 | An automatic window switcher for Hyprland (fork of hypr-nest) |
-| 2026-09-30 21:00:13 | [backbone-organization](https://crates.io/crates/backbone-organization) | 0.4.30 | 0 | Foundation org structure: Company, Branch, Department (Indonesia-first, schema-… |
-| 2026-09-30 21:01:36 | [tabnas-railroad](https://crates.io/crates/tabnas-railroad) | 0.3.8 | 0 | Railroad (syntax) diagram renderer for the tabnas parser: introspects a live gr… |
-| 2026-09-30 21:02:51 | [kcode-k1-web-source-object](https://crates.io/crates/kcode-k1-web-source-object) | 0.1.0 | 0 | Preserve and capture canonical K1 Web source-package objects |
-| 2026-09-30 21:10:10 | [backbone-party](https://crates.io/crates/backbone-party) | 0.5.21 | 0 | Canonical party identity (person/organization) + multi-channel address book; Cu… |
-| 2026-09-30 21:18:13 | [tabnas-lsp](https://crates.io/crates/tabnas-lsp) | 0.1.3 | 0 | The tabnas language server in Rust: diagnostics, outline, semantic tokens, hove… |
+| 2026-09-30 21:20:10 | [backbone-performance](https://crates.io/crates/backbone-performance) | 0.2.17 | 0 | Minimal Backbone Framework module skeleton |
+| 2026-09-30 21:35:27 | [rvoip-audio-send-queue](https://crates.io/crates/rvoip-audio-send-queue) | 0.3.11 | 0 | Bounded generation-aware outbound audio queue for rvoip transports |
+| 2026-09-30 21:36:31 | [kcode-k1-objects-testkit](https://crates.io/crates/kcode-k1-objects-testkit) | 0.1.0 | 0 | Downstream conformance testkit for Kennedy K1 Objects |
+| 2026-09-30 21:38:50 | [agent-change-control](https://crates.io/crates/agent-change-control) | 0.5.2 | 0 | Deterministic change control for software written with coding agents |
+| 2026-09-30 21:38:50 | [fideslang-cli](https://crates.io/crates/fideslang-cli) | 0.1.1 | 0 | fl — a command-line toolbox for Fideslang privacy taxonomies and Fides manifest… |
+| 2026-09-30 21:39:14 | [windows-reactor-pre](https://crates.io/crates/windows-reactor-pre) | 0.100.0 | 0 | windows-reactor from microsoft/windows-rs at c14074c45, published for guinea un… |
+| 2026-09-30 21:39:19 | [windows-canvas-pre](https://crates.io/crates/windows-canvas-pre) | 0.100.0 | 0 | windows-canvas from microsoft/windows-rs at c14074c45, on windows-reactor-pre,… |
+| 2026-09-30 21:40:15 | [cleep](https://crates.io/crates/cleep) | 0.1.0 | 0 | Clocksweep Cache implementation in Rust |
+| 2026-09-30 21:41:30 | [backbone-sapiens](https://crates.io/crates/backbone-sapiens) | 0.4.27 | 0 | Sapiens Bounded Context: User Management Module for Backbone Framework |
+| 2026-09-30 21:42:45 | [backbone-schedule](https://crates.io/crates/backbone-schedule) | 0.2.15 | 0 | shift / roster definitions and assignment |
+| 2026-09-30 21:47:50 | [guinea-winui](https://crates.io/crates/guinea-winui) | 0.16.0 | 0 | guinea on WinUI through windows-reactor: the router and the application runtime… |
+| 2026-09-30 21:48:04 | [ailake-secrets](https://crates.io/crates/ailake-secrets) | 0.1.14 | 0 | Secret providers and rotating credentials for AI-Lake |
+| 2026-09-30 21:49:01 | [ailake-cache](https://crates.io/crates/ailake-cache) | 0.1.14 | 0 | Local and Redis/Valkey cache for AI-Lake metadata, queries and index reads |
+| 2026-09-30 21:50:11 | [backbone-survey](https://crates.io/crates/backbone-survey) | 0.1.25 | 0 | Surveys & live sessions — survey/question composition, token-gated attempts wit… |
+| 2026-09-30 21:51:12 | [kcode-k1-chat-thread-rust-code-tasks](https://crates.io/crates/kcode-k1-chat-thread-rust-code-tasks) | 0.1.0 | 0 | Own per-conversation K1 Rust code Ktool tasks |
+| 2026-09-30 21:53:54 | [whoop-mcp](https://crates.io/crates/whoop-mcp) | 0.1.0 | 0 | Read-only WHOOP MCP server for recovery, sleep, HRV, strain, workouts, and pers… |
+| 2026-09-30 21:53:59 | [ntalbs-lsr](https://crates.io/crates/ntalbs-lsr) | 0.1.0 | 0 | Very basic ls clone |
+| 2026-09-30 21:59:56 | [webcanvas](https://crates.io/crates/webcanvas) | 0.1.0 | 0 | Standalone, embeddable Canvas 2D renderer for Rust applications |
+| 2026-09-30 22:00:11 | [backbone-tax](https://crates.io/crates/backbone-tax) | 0.6.19 | 0 | Tax engine (region-neutral): categories, templates, effective-dated rates, with… |
+| 2026-09-30 22:07:42 | [termos](https://crates.io/crates/termos) | 0.1.2 | 0 | Terminal user interface for Azure Cosmos DB |
+| 2026-09-30 22:10:09 | [backbone-telephony](https://crates.io/crates/backbone-telephony) | 0.5.15 | 0 | Minimal Backbone Framework module skeleton |
+| 2026-09-30 22:13:22 | [serverless-agents-types](https://crates.io/crates/serverless-agents-types) | 0.1.0 | 0 | Public types and validation for Serverless Agents |
+| 2026-09-30 22:13:35 | [serverless-agents-protocol](https://crates.io/crates/serverless-agents-protocol) | 0.1.0 | 0 | Wire contracts used by the Serverless Agents SDK and native runtime |
+| 2026-09-30 22:13:51 | [serverless-agents-service-support](https://crates.io/crates/serverless-agents-service-support) | 0.1.0 | 0 | Configuration and telemetry support for the Serverless Agents native runtime |
+| 2026-09-30 22:14:02 | [serverless-agents-harness-sdk](https://crates.io/crates/serverless-agents-harness-sdk) | 0.1.0 | 0 | Rust SDK for authoring durable Serverless Agents harnesses |
+| 2026-09-30 22:14:11 | [serverless-agents-runtime](https://crates.io/crates/serverless-agents-runtime) | 0.1.0 | 0 | Native execution entry point for Serverless Agents Rust harnesses |
+| 2026-09-30 22:16:31 | [matriochka](https://crates.io/crates/matriochka) | 0.1.0 | 0 | Error wrapping and aggregation with typed runtime context and diagnostic chains |
 
 ## Data source
 

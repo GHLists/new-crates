@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T21:20:10.388333Z,backbone-performance,0.2.17,0,0,https://github.com/faridlab/backbone-performance,Minimal Backbone Framework module skeleton
+2026-09-30T21:35:27.82901Z,rvoip-audio-send-queue,0.3.11,0,0,https://github.com/eisenzopf/rvoip,Bounded generation-aware outbound audio queue for rvoip transports
+2026-09-30T21:36:31.545387Z,kcode-k1-objects-testkit,0.1.0,0,0,,Downstream conformance testkit for Kennedy K1 Objects
+2026-09-30T21:38:50.135381Z,agent-change-control,0.5.2,0,0,https://github.com/noru-tech/agent-change-control,Deterministic change control for software written with coding agents
+2026-09-30T21:38:50.751606Z,fideslang-cli,0.1.1,0,0,https://github.com/noru-tech/fideslang-tools,"fl — a command-line toolbox for Fideslang privacy taxonomies and Fides manifests: browse, visualize, convert, merge, validate"
+2026-09-30T21:39:14.722556Z,windows-reactor-pre,0.100.0,0,0,https://github.com/guinea-rs/guinea,"windows-reactor from microsoft/windows-rs at c14074c45, published for guinea until windows-rs releases it"
+2026-09-30T21:39:19.022979Z,windows-canvas-pre,0.100.0,0,0,https://github.com/guinea-rs/guinea,"windows-canvas from microsoft/windows-rs at c14074c45, on windows-reactor-pre, published for guinea until windows-rs releases it"
+2026-09-30T21:40:15.241334Z,cleep,0.1.0,0,0,https://github.com/mirrajabi/cleep,Clocksweep Cache implementation in Rust
+2026-09-30T21:41:30.962501Z,backbone-sapiens,0.4.27,0,0,https://github.com/faridlab/backbone-sapiens,Sapiens Bounded Context: User Management Module for Backbone Framework
+2026-09-30T21:42:45.507Z,backbone-schedule,0.2.15,0,0,https://github.com/faridlab/backbone-schedule,shift / roster definitions and assignment
+2026-09-30T21:47:50.801463Z,guinea-winui,0.16.0,0,0,https://github.com/guinea-rs/guinea,"guinea on WinUI through windows-reactor: the router and the application runtime, with Elm inside each node"
+2026-09-30T21:48:04.170402Z,ailake-secrets,0.1.14,0,0,https://github.com/ThiagoLange/ai-lakehouse,Secret providers and rotating credentials for AI-Lake
+2026-09-30T21:49:01.823779Z,ailake-cache,0.1.14,0,0,https://github.com/ThiagoLange/ai-lakehouse,"Local and Redis/Valkey cache for AI-Lake metadata, queries and index reads"
+2026-09-30T21:50:11.171055Z,backbone-survey,0.1.25,0,0,https://github.com/faridlab/backbone-survey,"Surveys & live sessions — survey/question composition, token-gated attempts with the frozen scoring denominator, the speed-rating engine, session codes with lockout, and the certification event contr…"
+2026-09-30T21:51:12.499996Z,kcode-k1-chat-thread-rust-code-tasks,0.1.0,0,0,,Own per-conversation K1 Rust code Ktool tasks
+2026-09-30T21:53:54.841182Z,whoop-mcp,0.1.0,0,0,https://github.com/shashankswe2020-ux/whoop-mcp-rs,"Read-only WHOOP MCP server for recovery, sleep, HRV, strain, workouts, and personal health analytics in AI assistants (Rust port of whoop-ai-mcp)"
+2026-09-30T21:53:59.536956Z,ntalbs-lsr,0.1.0,0,0,https://github.com/ntalbs/lsr,Very basic ls clone
+2026-09-30T21:59:56.43141Z,webcanvas,0.1.0,0,0,https://github.com/opensitez/webcanvas,"Standalone, embeddable Canvas 2D renderer for Rust applications"
+2026-09-30T22:00:11.93873Z,backbone-tax,0.6.19,0,0,https://github.com/faridlab/backbone-tax,"Tax engine (region-neutral): categories, templates, effective-dated rates, withholding. Computes tax lines; Indonesia rules deferred"
+2026-09-30T22:07:42.18234Z,termos,0.1.2,0,0,https://github.com/christianhelle/termos,Terminal user interface for Azure Cosmos DB
+2026-09-30T22:10:09.901474Z,backbone-telephony,0.5.15,0,0,https://github.com/faridlab/backbone-telephony,Minimal Backbone Framework module skeleton
+2026-09-30T22:13:22.414593Z,serverless-agents-types,0.1.0,0,0,,Public types and validation for Serverless Agents
+2026-09-30T22:13:35.004313Z,serverless-agents-protocol,0.1.0,0,0,,Wire contracts used by the Serverless Agents SDK and native runtime
+2026-09-30T22:13:51.270666Z,serverless-agents-service-support,0.1.0,0,0,,Configuration and telemetry support for the Serverless Agents native runtime
+2026-09-30T22:14:02.249474Z,serverless-agents-harness-sdk,0.1.0,0,0,,Rust SDK for authoring durable Serverless Agents harnesses
+2026-09-30T22:14:11.95444Z,serverless-agents-runtime,0.1.0,0,0,,Native execution entry point for Serverless Agents Rust harnesses
+2026-09-30T22:16:31.009349Z,matriochka,0.1.0,0,0,https://github.com/xelis-project/matriochka,Error wrapping and aggregation with typed runtime context and diagnostic chains
