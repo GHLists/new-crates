@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T05:30:15.617669Z,kcode-k1-audio-classification-engine,0.1.0,0,0,,Single-job execution for K1 Audio V1 classification
+2026-09-30T05:38:52.618806Z,abnegate-http,0.1.0,0,0,https://github.com/abnegate/crates,"An HTTP client abstraction, SSRF-guarded outbound fetches, keyed rate limiting, exponential backoff and failure classification"
+2026-09-30T05:38:53.94281Z,abnegate-secret,0.1.0,0,0,https://github.com/abnegate/crates,"Secret values that zeroize on drop, redact in Debug and logs, and encrypt at rest with an AES-256-GCM envelope"
+2026-09-30T05:38:55.342205Z,abnegate-vision,0.1.0,0,0,https://github.com/abnegate/crates,"Subject-aware image cropping: decode JPEG, PNG and WebP, locate the salient subject with U2-Net on ONNX Runtime, and render the crop in a single resampling pass"
+2026-09-30T05:38:58.614874Z,abnegate-config,0.1.0,0,0,https://github.com/abnegate/crates,"Typed TOML configuration for command line applications: a generic file loader that transparently decrypts sealed values, an OS keyring token store, and idempotent .env updates"
+2026-09-30T05:39:00.164808Z,abnegate-exec,0.1.0,0,0,https://github.com/abnegate/crates,"Sandboxed command execution with streaming output: seatbelt on macOS, bubblewrap on Linux, process-group cancellation and an NDJSON job protocol"
+2026-09-30T05:48:39.689775Z,penfill,0.1.0,0,0,https://github.com/pleoni/penfill,"Fills and hatches for pen plotters: zigzag, spiral, lattices, stipple, gravel, marble, CAD .pat patterns, your own functions and SVG tiles."
+2026-09-30T05:49:25.253979Z,abnegate-llm,0.1.0,0,0,https://github.com/abnegate/crates,"OpenAI-compatible chat completions with SSE streaming and weighted provider routing, modality-axis provider traits, cost estimation, local hardware profiling and model catalogue browsing"
+2026-09-30T05:54:34.600713Z,stranger-strings,0.3.1,0,0,https://github.com/closed-systems/stranger-strings,Extract human-readable strings from binary files using trigram-based scoring
+2026-09-30T05:57:00.479199Z,appleseed-proto,0.2.1,0,0,https://github.com/streppa/appleseed,Shared API types and websocket messages for Appleseed
+2026-09-30T05:57:56.252465Z,appleseed-server,0.2.1,0,0,https://github.com/streppa/appleseed,Appleseed server: self-hosted pastebin for HTML and Markdown with an agent back-channel
+2026-09-30T05:58:09.931418Z,appleseed,0.2.1,0,0,https://github.com/streppa/appleseed,"Appleseed CLI: publish Markdown and HTML, and hear back from the page"
+2026-09-30T05:59:45.585024Z,abnegate-notify,0.1.0,0,0,https://github.com/abnegate/crates,"One notification delivered to every channel at once, with per-channel isolation and SSRF-guarded webhooks"
+2026-09-30T06:05:19.422331Z,hakocluster,0.2.0,0,0,https://github.com/hakodb/hakocluster,"In-process dispatcher over N hakodb instances: reads fan out, writes route, socket_sync keeps replicas identical"
+2026-09-30T06:06:03.185056Z,vers-like-specifier,0.1.0,0,0,https://github.com/csaf-rs/vls,vls (vers-like specifier) parser
+2026-09-30T06:08:14.626531Z,canix-toolbelt,0.1.0,0,0,https://github.com/caniko/canix-toolbelt,Reusable runtime-manifest library and CLI for Canix-style architectures
+2026-09-30T06:09:13.215066Z,axwatch,0.1.0,0,0,https://github.com/AprilNEA/axwatch,"Watch the macOS Accessibility grant: the two undocumented notifications that fire when the Accessibility list is edited, a heartbeat backstop, and typed trust reads."
+2026-09-30T06:10:08.950743Z,abnegate-search,0.1.0,0,0,https://github.com/abnegate/crates,SearXNG metasearch client with a web-search intent heuristic and prompt-ready result formatting

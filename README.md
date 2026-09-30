@@ -8,27 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 05:21 UTC
+## Latest list — 2026-09-30 06:19 UTC
 
-New crates published between 2026-09-30 04:18 UTC and 2026-09-30 05:21 UTC.
+New crates published between 2026-09-30 05:21 UTC and 2026-09-30 06:19 UTC.
 
-[Full CSV](data/new-crates-2026-09-30T05-21-55-802629Z.csv)
+[Full CSV](data/new-crates-2026-09-30T06-19-18-286555Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-30 04:25:01 | [kcode-k1-rust-package-contract-tests](https://crates.io/crates/kcode-k1-rust-package-contract-tests) | 0.1.0 | 0 | Downstream conformance tests for kcode-k1-rust-package |
-| 2026-09-30 04:26:43 | [glassworks-envelope](https://crates.io/crates/glassworks-envelope) | 0.2.0 | 0 | The bus wire envelope: typed events and commands, generated from schema/envelop… |
-| 2026-09-30 04:33:57 | [qargo](https://crates.io/crates/qargo) | 0.1.1 | 0 | Local Qleisli qrate orchestration with standard lint, format, and documentation… |
-| 2026-09-30 04:40:07 | [arcbox-vm-driver](https://crates.io/crates/arcbox-vm-driver) | 0.8.0 | 0 | The VM driver port: the vocabulary of a VM on this host — spec, driver/handle t… |
-| 2026-09-30 04:40:07 | [arcbox-vm-proto](https://crates.io/crates/arcbox-vm-proto) | 0.8.0 | 0 | Wire vocabulary shared by the arcbox-computer-runtime sandbox manager and the i… |
-| 2026-09-30 04:40:14 | [arcbox-fc-driver](https://crates.io/crates/arcbox-fc-driver) | 0.8.0 | 0 | The Firecracker adapter for the arcbox-vm-driver port: renders a VmSpec into Fi… |
-| 2026-09-30 04:40:15 | [arcbox-local-ca](https://crates.io/crates/arcbox-local-ca) | 0.8.0 | 0 | The name-constrained local CA behind HTTPS for ArcBox container domains |
-| 2026-09-30 04:40:17 | [arcbox-tap-net](https://crates.io/crates/arcbox-tap-net) | 0.8.0 | 0 | The Linux TAP guest network: address pool, TAP devices, identity-invariant NAT… |
-| 2026-09-30 04:44:35 | [tau-tools](https://crates.io/crates/tau-tools) | 0.7.0 | 0 | Built-in native tools for the tau agent harness (read/write/edit/grep/find/ls/b… |
-| 2026-09-30 04:47:07 | [arcbox-computer-runtime](https://crates.io/crates/arcbox-computer-runtime) | 0.8.0 | 0 | Sandbox orchestration over nested microVMs behind the arcbox-vm-driver port: bo… |
-| 2026-09-30 04:57:08 | [arcbox-vm-agent](https://crates.io/crates/arcbox-vm-agent) | 0.8.0 | 0 | The vm-agent init that runs as PID 1 inside every ArcBox sandbox microVM: exec/… |
-| 2026-09-30 04:59:53 | [orcher-proto](https://crates.io/crates/orcher-proto) | 0.1.0 | 0 | Protocol definitions for ORCHER orchestration platform |
-| 2026-09-30 05:06:59 | [arcbox-ssh](https://crates.io/crates/arcbox-ssh) | 0.8.0 | 0 | The ArcBox SSH server: `ssh <machine>@arcbox` into Linux machines over the mach… |
+| 2026-09-30 05:30:15 | [kcode-k1-audio-classification-engine](https://crates.io/crates/kcode-k1-audio-classification-engine) | 0.1.0 | 0 | Single-job execution for K1 Audio V1 classification |
+| 2026-09-30 05:38:52 | [abnegate-http](https://crates.io/crates/abnegate-http) | 0.1.0 | 0 | An HTTP client abstraction, SSRF-guarded outbound fetches, keyed rate limiting,… |
+| 2026-09-30 05:38:53 | [abnegate-secret](https://crates.io/crates/abnegate-secret) | 0.1.0 | 0 | Secret values that zeroize on drop, redact in Debug and logs, and encrypt at re… |
+| 2026-09-30 05:38:55 | [abnegate-vision](https://crates.io/crates/abnegate-vision) | 0.1.0 | 0 | Subject-aware image cropping: decode JPEG, PNG and WebP, locate the salient sub… |
+| 2026-09-30 05:38:58 | [abnegate-config](https://crates.io/crates/abnegate-config) | 0.1.0 | 0 | Typed TOML configuration for command line applications: a generic file loader t… |
+| 2026-09-30 05:39:00 | [abnegate-exec](https://crates.io/crates/abnegate-exec) | 0.1.0 | 0 | Sandboxed command execution with streaming output: seatbelt on macOS, bubblewra… |
+| 2026-09-30 05:48:39 | [penfill](https://crates.io/crates/penfill) | 0.1.0 | 0 | Fills and hatches for pen plotters: zigzag, spiral, lattices, stipple, gravel,… |
+| 2026-09-30 05:49:25 | [abnegate-llm](https://crates.io/crates/abnegate-llm) | 0.1.0 | 0 | OpenAI-compatible chat completions with SSE streaming and weighted provider rou… |
+| 2026-09-30 05:54:34 | [stranger-strings](https://crates.io/crates/stranger-strings) | 0.3.1 | 0 | Extract human-readable strings from binary files using trigram-based scoring |
+| 2026-09-30 05:57:00 | [appleseed-proto](https://crates.io/crates/appleseed-proto) | 0.2.1 | 0 | Shared API types and websocket messages for Appleseed |
+| 2026-09-30 05:57:56 | [appleseed-server](https://crates.io/crates/appleseed-server) | 0.2.1 | 0 | Appleseed server: self-hosted pastebin for HTML and Markdown with an agent back… |
+| 2026-09-30 05:58:09 | [appleseed](https://crates.io/crates/appleseed) | 0.2.1 | 0 | Appleseed CLI: publish Markdown and HTML, and hear back from the page |
+| 2026-09-30 05:59:45 | [abnegate-notify](https://crates.io/crates/abnegate-notify) | 0.1.0 | 0 | One notification delivered to every channel at once, with per-channel isolation… |
+| 2026-09-30 06:05:19 | [hakocluster](https://crates.io/crates/hakocluster) | 0.2.0 | 0 | In-process dispatcher over N hakodb instances: reads fan out, writes route, soc… |
+| 2026-09-30 06:06:03 | [vers-like-specifier](https://crates.io/crates/vers-like-specifier) | 0.1.0 | 0 | vls (vers-like specifier) parser |
+| 2026-09-30 06:08:14 | [canix-toolbelt](https://crates.io/crates/canix-toolbelt) | 0.1.0 | 0 | Reusable runtime-manifest library and CLI for Canix-style architectures |
+| 2026-09-30 06:09:13 | [axwatch](https://crates.io/crates/axwatch) | 0.1.0 | 0 | Watch the macOS Accessibility grant: the two undocumented notifications that fi… |
+| 2026-09-30 06:10:08 | [abnegate-search](https://crates.io/crates/abnegate-search) | 0.1.0 | 0 | SearXNG metasearch client with a web-search intent heuristic and prompt-ready r… |
 
 ## Data source
 
