@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T01:29:26.249204Z,sap2b,0.0.1,0,0,https://github.com/SAP2B/sap2b,..
+2026-10-01T01:32:10.098825Z,tc_des_wrap,0.1.0,0,0,https://github.com/TomiCheng/tc_key_wrap,"CMS Triple-DES key wrapping (RFC 3217) with SHA-1 integrity, over tc_des."
+2026-10-01T01:40:42.468094Z,jpegli-rust,0.1.1,0,0,https://github.com/oximg/jpegli-rust,Rust API for Google's jpegli encoder with checked RGB rows and contained native errors
+2026-10-01T01:46:48.021491Z,h3-forked,0.0.1,0,0,https://github.com/iadev09/h3,An independently published fork of the h3 async HTTP/3 implementation.
+2026-10-01T01:47:16.260463Z,h3-datagram-forked,0.0.1,0,0,https://github.com/iadev09/h3,HTTP Datagram extension for h3-forked.
+2026-10-01T01:47:25.880365Z,h3-quinn-forked,0.0.1,0,0,https://github.com/iadev09/h3,Quinn transport integration for h3-forked.
+2026-10-01T01:47:33.488447Z,h3-webtransport-forked,0.0.1,0,0,https://github.com/iadev09/h3,WebTransport extension for h3-forked.
+2026-10-01T01:47:59.691765Z,tc_dstu7624_wrap,0.1.0,0,0,https://github.com/TomiCheng/tc_key_wrap,DSTU 7624:2014 (Kalyna) key wrapping over tc_dstu7624.
+2026-10-01T01:51:30.223352Z,kcode-k1-chat-thread-session-provider,0.1.0,0,0,,Provider execution owner for one K1 chat-thread session actor
+2026-10-01T01:57:00.323847Z,entitler,0.0.1,0,0,https://github.com/entitlerhq/entitler-rust,Official Entitler SDK for Rust (not yet available)
+2026-10-01T02:02:14.474157Z,socketry-markdown,0.1.0,0,0,https://github.com/socketry/socketry-markdown-rust,CommonMark compliant markdown parser in Rust with ASTs and extensions
+2026-10-01T02:08:37.944958Z,kevy-crypto,7.0.0,0,0,https://github.com/goliajp/kevy,"ChaCha20-Poly1305, X25519, BLAKE2s and Noise's HMAC/HKDF in pure Rust with no dependencies."
+2026-10-01T02:08:40.009273Z,kevy-noise,7.0.0,0,0,https://github.com/goliajp/kevy,"The Noise IK handshake and transport (Noise_IK_25519_ChaChaPoly_BLAKE2s) without I/O, on kevy-crypto."
+2026-10-01T02:12:29.265756Z,iron-monitor,7.0.0,0,0,https://github.com/nervosys/IronMonitor,"IronMonitor: hardware monitoring for CPUs, GPUs, NPUs, memory, I/O and network silicon on Linux, Windows and macOS, which reports what it cannot read as well as what it can"
+2026-10-01T02:12:53.642767Z,kcode-k1-chat-thread-session-web-code-runtime,0.1.0,0,0,,Conversation-local WebCode lane runtime for one K1 chat thread
+2026-10-01T02:16:46.809374Z,fridica-slack,0.1.0,0,0,https://github.com/chengcli/fridica-slack,"Durable Slack transport for user-token agents: Socket Mode with commit-before-ack, a recorded Web API client on slack-morphism, and event normalization"
+2026-10-01T02:17:25.570939Z,tauri-kit-watch,0.6.0,0,0,https://github.com/iyulab/tauri-kit,"Watch a folder for changes made by other programs: debounced, resolved to what is on disk, with the app's own writes left out."
+2026-10-01T02:18:50.150685Z,kevy-verbs,7.0.0,0,0,https://github.com/goliajp/kevy,"The single-shard command layer kevy's server and embedded engine share — argv parsing, reply wording, execution against one keyspace."

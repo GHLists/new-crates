@@ -8,41 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 01:18 UTC
+## Latest list — 2026-10-01 02:19 UTC
 
-New crates published between 2026-10-01 00:18 UTC and 2026-10-01 01:18 UTC.
+New crates published between 2026-10-01 01:18 UTC and 2026-10-01 02:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-01T01-18-47-39619Z.csv)
+[Full CSV](data/new-crates-2026-10-01T02-19-22-557061Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-01 00:20:12 | [backbone-mailing](https://crates.io/crates/backbone-mailing) | 0.3.30 | 0 | Email marketing — mass-mail engine: audiences, subscriptions, hand-set mailing… |
-| 2026-10-01 00:20:17 | [scratch-probe](https://crates.io/crates/scratch-probe) | 0.1.0 | 0 | Measure how fast a directory's storage absorbs and returns a stream, and classi… |
-| 2026-10-01 00:27:41 | [hws](https://crates.io/crates/hws) | 0.1.1 | 0 | Client library and kubectl-shaped CLI for the app-lb admin API |
-| 2026-10-01 00:30:09 | [backbone-notification](https://crates.io/crates/backbone-notification) | 0.5.24 | 0 | Notification delivery and user preferences |
-| 2026-10-01 00:30:46 | [kcode-k1-chat-thread-web-code-tasks-fixture](https://crates.io/crates/kcode-k1-chat-thread-web-code-tasks-fixture) | 0.1.0 | 0 | Deterministic Chat-history harness for K1 Web-code tasks |
-| 2026-10-01 00:33:09 | [rowing-machine](https://crates.io/crates/rowing-machine) | 0.0.1 | 0 | Deterministic synthetic data generator for SQL training and analytics demos |
-| 2026-10-01 00:34:52 | [fusiform-protocol](https://crates.io/crates/fusiform-protocol) | 0.27.2 | 0 | Request and response types for the fusiform model-catalog daemon's tools. Types… |
-| 2026-10-01 00:40:12 | [backbone-portal](https://crates.io/crates/backbone-portal) | 0.2.30 | 0 | Customer self-service portal identity — portal principals, invitation-only acce… |
-| 2026-10-01 00:40:37 | [kcode-k1-chat-thread-web-code-evidence-testkit](https://crates.io/crates/kcode-k1-chat-thread-web-code-evidence-testkit) | 0.1.2 | 0 | Evidence and publication conformance verification for K1 Chat Web-code tasks |
-| 2026-10-01 00:50:14 | [backbone-website](https://crates.io/crates/backbone-website) | 0.3.37 | 0 | Headless website engine — per-website pages/menus with ONE generic-vs-specific… |
-| 2026-10-01 00:50:20 | [kcode-k1-chat-thread-rust-code-session](https://crates.io/crates/kcode-k1-chat-thread-rust-code-session) | 0.1.0 | 0 | Own one K1 chat thread's Rust code integration session |
-| 2026-10-01 00:55:48 | [yatzy-solver](https://crates.io/crates/yatzy-solver) | 1.0.0 | 0 | Exact solver, rules engine and notation for Scandinavian Yatzy and American rul… |
-| 2026-10-01 00:56:27 | [yatzy-solver-cli](https://crates.io/crates/yatzy-solver-cli) | 1.0.0 | 0 | Command-line interface for yatzy-solver: build tables, query situations, verify… |
-| 2026-10-01 00:57:18 | [realitytrace](https://crates.io/crates/realitytrace) | 0.3.0 | 0 | The RealityTrace CLI: lifecycle commands, JSON output, and durability reporting. |
-| 2026-10-01 00:58:52 | [acre](https://crates.io/crates/acre) | 0.1.0 | 0 | animation creation and rendering engine: renders animations written in its own… |
-| 2026-10-01 01:00:13 | [backbone-blog](https://crates.io/crates/backbone-blog) | 0.2.36 | 0 | The blog module (Odoo website blog port) — blogs/posts/tags as a tenant-agnosti… |
-| 2026-10-01 01:01:06 | [kcode-k1-chat-thread-web-code-tasks-testkit](https://crates.io/crates/kcode-k1-chat-thread-web-code-tasks-testkit) | 0.1.0 | 0 | Downstream conformance verification for K1 Chat thread Web-code tasks |
-| 2026-10-01 01:02:12 | [fridica-agent](https://crates.io/crates/fridica-agent) | 0.1.0 | 0 | Drive Claude Code (stream-json) and Codex (app-server) sessions: approvals, int… |
-| 2026-10-01 01:07:11 | [buildah-ffi](https://crates.io/crates/buildah-ffi) | 0.1.0 | 0 | Embed Buildah in Rust through a stable C ABI and a statically linked Go shim |
-| 2026-10-01 01:07:12 | [oci-builder](https://crates.io/crates/oci-builder) | 0.1.0 | 0 | CLI for building and pushing OCI images with embedded Buildah |
-| 2026-10-01 01:10:14 | [rocketmq-model](https://crates.io/crates/rocketmq-model) | 1.0.0 | 0 | Runtime-neutral RocketMQ domain models |
-| 2026-10-01 01:10:22 | [rocketmq-security-api](https://crates.io/crates/rocketmq-security-api) | 1.0.0 | 0 | Runtime-neutral RocketMQ security contracts |
-| 2026-10-01 01:10:24 | [rocketmq-observability](https://crates.io/crates/rocketmq-observability) | 1.0.0 | 0 | Observability support for rocketmq-rust |
-| 2026-10-01 01:10:24 | [rocketmq-protocol](https://crates.io/crates/rocketmq-protocol) | 1.0.0 | 0 | Runtime-neutral RocketMQ wire protocol contracts |
-| 2026-10-01 01:10:25 | [rocketmq-store-api](https://crates.io/crates/rocketmq-store-api) | 1.0.0 | 0 | Runtime-neutral RocketMQ storage capability contracts |
-| 2026-10-01 01:13:03 | [teal](https://crates.io/crates/teal) | 0.1.0 | 0 | teal explores architectural layout |
-| 2026-10-01 01:15:33 | [wuapi](https://crates.io/crates/wuapi) | 0.5.0 | 0 | Rust SDK for wuapi, a WhatsApp API for developers. Link numbers by QR or pairin… |
+| 2026-10-01 01:29:26 | [sap2b](https://crates.io/crates/sap2b) | 0.0.1 | 0 | .. |
+| 2026-10-01 01:32:10 | [tc_des_wrap](https://crates.io/crates/tc_des_wrap) | 0.1.0 | 0 | CMS Triple-DES key wrapping (RFC 3217) with SHA-1 integrity, over tc_des. |
+| 2026-10-01 01:40:42 | [jpegli-rust](https://crates.io/crates/jpegli-rust) | 0.1.1 | 0 | Rust API for Google's jpegli encoder with checked RGB rows and contained native… |
+| 2026-10-01 01:46:48 | [h3-forked](https://crates.io/crates/h3-forked) | 0.0.1 | 0 | An independently published fork of the h3 async HTTP/3 implementation. |
+| 2026-10-01 01:47:16 | [h3-datagram-forked](https://crates.io/crates/h3-datagram-forked) | 0.0.1 | 0 | HTTP Datagram extension for h3-forked. |
+| 2026-10-01 01:47:25 | [h3-quinn-forked](https://crates.io/crates/h3-quinn-forked) | 0.0.1 | 0 | Quinn transport integration for h3-forked. |
+| 2026-10-01 01:47:33 | [h3-webtransport-forked](https://crates.io/crates/h3-webtransport-forked) | 0.0.1 | 0 | WebTransport extension for h3-forked. |
+| 2026-10-01 01:47:59 | [tc_dstu7624_wrap](https://crates.io/crates/tc_dstu7624_wrap) | 0.1.0 | 0 | DSTU 7624:2014 (Kalyna) key wrapping over tc_dstu7624. |
+| 2026-10-01 01:51:30 | [kcode-k1-chat-thread-session-provider](https://crates.io/crates/kcode-k1-chat-thread-session-provider) | 0.1.0 | 0 | Provider execution owner for one K1 chat-thread session actor |
+| 2026-10-01 01:57:00 | [entitler](https://crates.io/crates/entitler) | 0.0.1 | 0 | Official Entitler SDK for Rust (not yet available) |
+| 2026-10-01 02:02:14 | [socketry-markdown](https://crates.io/crates/socketry-markdown) | 0.1.0 | 0 | CommonMark compliant markdown parser in Rust with ASTs and extensions |
+| 2026-10-01 02:08:37 | [kevy-crypto](https://crates.io/crates/kevy-crypto) | 7.0.0 | 0 | ChaCha20-Poly1305, X25519, BLAKE2s and Noise's HMAC/HKDF in pure Rust with no d… |
+| 2026-10-01 02:08:40 | [kevy-noise](https://crates.io/crates/kevy-noise) | 7.0.0 | 0 | The Noise IK handshake and transport (Noise_IK_25519_ChaChaPoly_BLAKE2s) withou… |
+| 2026-10-01 02:12:29 | [iron-monitor](https://crates.io/crates/iron-monitor) | 7.0.0 | 0 | IronMonitor: hardware monitoring for CPUs, GPUs, NPUs, memory, I/O and network… |
+| 2026-10-01 02:12:53 | [kcode-k1-chat-thread-session-web-code-runtime](https://crates.io/crates/kcode-k1-chat-thread-session-web-code-runtime) | 0.1.0 | 0 | Conversation-local WebCode lane runtime for one K1 chat thread |
+| 2026-10-01 02:16:46 | [fridica-slack](https://crates.io/crates/fridica-slack) | 0.1.0 | 0 | Durable Slack transport for user-token agents: Socket Mode with commit-before-a… |
+| 2026-10-01 02:17:25 | [tauri-kit-watch](https://crates.io/crates/tauri-kit-watch) | 0.6.0 | 0 | Watch a folder for changes made by other programs: debounced, resolved to what… |
+| 2026-10-01 02:18:50 | [kevy-verbs](https://crates.io/crates/kevy-verbs) | 7.0.0 | 0 | The single-shard command layer kevy's server and embedded engine share — argv p… |
 
 ## Data source
 
