@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T12:23:26.423535Z,kova-native-widgets,0.1.0,0,0,https://github.com/v3nn7/Kova-native,"Element tree, styling, event dispatch and built-in widgets for Kova Native."
+2026-10-01T12:24:50.510344Z,arct-vt,0.0.1,0,0,,Pure Rust virtual terminal engine
+2026-10-01T12:27:37.044531Z,schemagen,0.1.0,0,0,https://github.com/LcBert/schemagen,"A fast and flexible fake/mock data generator library for Rust with JSON, JSONL, and CSV export support."
+2026-10-01T12:30:28.056146Z,spechtlabs-sigil,0.6.3,0,0,https://github.com/SpechtLabs/sigil,"Embed Sigil, a typed policy language, in Rust: the Go engine as a WebAssembly module on wasmtime"
+2026-10-01T12:33:15.708068Z,kova-native,0.1.1,0,0,https://github.com/v3nn7/Kova-native,"Kova Native: a GPU-accelerated, Rust-first native GUI framework."
+2026-10-01T12:36:17.197324Z,lieui-geom,0.0.1,0,0,https://github.com/zzzdong/lieui,lieui 的基础几何与颜色类型（零依赖）
+2026-10-01T12:37:27.891974Z,lieui-text,0.0.1,0,0,https://github.com/zzzdong/lieui,lieui 的文本测度与排版（parley 封装 + 缓存）
+2026-10-01T12:38:06.251451Z,lieui-layout,0.0.1,0,0,https://github.com/zzzdong/lieui,lieui 的 Taitank 风格 Flexbox 布局引擎
+2026-10-01T12:46:46.091028Z,openehr-federation,0.0.0,0,0,https://github.com/rubentalstra/FerroFED,"The openEHR Federation Tier with AQL specification in Rust: the federation wire types, the AQL rewrite and the federated result merge."
+2026-10-01T12:46:51.781737Z,ihe-iti,0.0.0,0,0,https://github.com/rubentalstra/FerroFED,"IHE IT Infrastructure (ITI) profiles in Rust: PIXm, PDQm, mCSD, PMIR and XCPD transactions, one feature per profile."
+2026-10-01T12:46:57.43135Z,nl-generic-functions,0.0.0,0,0,https://github.com/rubentalstra/FerroFED,"The Dutch Generic Functions for health data exchange in Rust: localization, addressing, consent and authentication clients."
+2026-10-01T12:52:11.680839Z,emergent-cognitive-model,0.1.0,0,0,https://github.com/Regen-Corp/Emergent-Cognitive-Model,"Emergent Cognitive Model (ECM): A pure-Rust, dependency-free architecture for incremental relational knowledge formation from observations."
+2026-10-01T12:59:52.451119Z,cf-gears-clickhouse-usage-collector-plugin,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,ClickHouse Usage Collector storage backend plugin
+2026-10-01T13:00:22.191185Z,imhm,0.1.0,0,0,https://github.com/estokes/imhm,A fast immutable hashmap
+2026-10-01T13:02:37.461897Z,bevy_pixquare_ultra,0.1.0,0,0,https://github.com/kudohamu/bevy_pixquare_ultra,A bevy plugin to load and render artwork data of Pixquare
+2026-10-01T13:06:14.259469Z,knex-derive,0.2.0,0,0,https://gitee.com/meatou/knexrs,Derive macros for rust-knex: FromRow and DeriveEntityModel
