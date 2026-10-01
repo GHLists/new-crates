@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T17:26:05.287219Z,talli,0.0.1,0,0,https://github.com/wong-aka-albert/talli,"Placeholder: name reserved for talli, a Rust agent host where models, tools, plugins and frontends are all swappable."
+2026-10-01T17:26:29.342645Z,talli-protocol,0.0.1,0,0,https://github.com/wong-aka-albert/talli,"Placeholder: name reserved for talli, a Rust agent host where models, tools, plugins and frontends are all swappable."
+2026-10-01T17:26:53.752769Z,talli-runtime,0.0.1,0,0,https://github.com/wong-aka-albert/talli,"Placeholder: name reserved for talli, a Rust agent host where models, tools, plugins and frontends are all swappable."
+2026-10-01T17:27:13.315423Z,carpathia-templates,0.1.0,0,0,https://github.com/sdoerig/carpathia,Template files for Carpathia projects
+2026-10-01T17:27:16.497547Z,talli-loader,0.0.1,0,0,https://github.com/wong-aka-albert/talli,"Placeholder: name reserved for talli, a Rust agent host where models, tools, plugins and frontends are all swappable."
+2026-10-01T17:27:44.19301Z,carpathia-adr,0.1.0,0,0,https://github.com/sdoerig/carpathia,Database schema abstract database representation (ADR)
+2026-10-01T17:28:16.969958Z,carpathia-core,0.3.0,0,0,https://github.com/sdoerig/carpathia,Database schema parser and language agnostic generator
+2026-10-01T17:33:39.107411Z,what-stack,0.1.0,0,0,https://github.com/ehsan18t/what-stack,"Detect project roots and technology stacks from container image names, project config files, and process names"
+2026-10-01T17:43:35.396364Z,aktor-macros,0.0.1,0,0,https://github.com/Viterkim/aktor,Macros for aktor
+2026-10-01T17:43:39.502386Z,aktor,0.0.1,0,0,https://github.com/Viterkim/aktor,Actors with normal typed functions
+2026-10-01T17:46:50.366861Z,lenso-engine-web,0.1.0,0,0,,Optional configurable Engine support for Rust HTTP route authoring
+2026-10-01T17:47:08.41418Z,cirrocast,1.0.0,0,0,https://github.com/YangtseSu/cirrocast,Terminal weather client with pluggable backends and wttr.in-style output
+2026-10-01T17:47:14.289387Z,fshell-hash,0.2.0,0,0,https://github.com/FraSharp/fshell,Universal sponge-based hash provider for fshell
+2026-10-01T17:47:15.45175Z,fshell-tty,0.2.0,0,0,https://github.com/FraSharp/fshell,"Unix terminal primitives for fshell: input decoding, raw mode, and ANSI output"
+2026-10-01T17:47:18.18607Z,fshell-archive,0.2.0,0,0,https://github.com/FraSharp/fshell,"Bounded, capability-relative archive extraction for fshell"
+2026-10-01T17:47:19.337243Z,fshell-core,0.2.0,0,0,https://github.com/FraSharp/fshell,"Core parser, AST and types for fshell"
+2026-10-01T17:47:20.203203Z,fshell-git,0.2.0,0,0,https://github.com/FraSharp/fshell,Git integration for fshell — native index inspection without git subprocess
+2026-10-01T17:47:55.810747Z,buffa-proto-options,0.0.0,0,0,https://github.com/anthropics/buffa,Placeholder for the Rust types of buffa's custom protobuf options. This version is empty.
+2026-10-01T17:48:12.465735Z,lenso-engine-contracts,0.1.0,0,0,,Optional configurable Engine support for Capability contract projections
+2026-10-01T17:49:21.509998Z,noida-db,0.1.0,0,0,https://github.com/its-banana-coder/noida-db,"One tiny local binary that speaks Postgres, MySQL, Redis, Kafka, Elasticsearch and ClickHouse."
+2026-10-01T18:00:11.452785Z,indicatrix-solid,0.6.0,0,0,https://github.com/suitable-name/indicatrix,"Pure-CPU solid rasterizer and 2D faceting diagram for a design's SolidMesh: raster, diagram2d, facet_map, mesh_cache, edges_layer, pixel_font, and the pure replan planner. No GUI toolkit, no threads,…"
+2026-10-01T18:00:14.030514Z,indicatrix-editor,0.6.0,0,0,https://github.com/suitable-name/indicatrix,"GUI-free faceting-design editor logic shared by the desktop editor and the wasm web app: the EditorSession (design, undo/redo with caller-supplied coalescing timestamps, selection, dirty tracking), t…"
+2026-10-01T18:00:21.200968Z,indicatrix-web-core,0.6.0,0,0,https://github.com/suitable-name/indicatrix,"The compute side of the indicatrix browser app with no DOM or Slint in it: the Web Worker protocol, the scene spec that builds the desktop's exact render scene, the CPU chunk tracer, pass accumulatio…"
+2026-10-01T18:00:24.743621Z,indicatrix-web-compute,0.6.0,0,0,https://github.com/suitable-name/indicatrix,"The Web Worker entry point of the indicatrix browser app: decodes a message, runs indicatrix-web-core's handler, posts the reply. Built by Trunk as a worker next to apps/indicatrix-web."
+2026-10-01T18:02:33.549762Z,ironflow-auth-proxy,0.1.0,0,0,https://gitlab.com/ThomasTartrau/ironflow,Auth proxy for ironflow agent pods: swaps an opaque per-step token for the real Claude credential
+2026-10-01T18:04:14.240208Z,fshell-capabilities,0.2.0,0,0,https://github.com/FraSharp/fshell,Capability tokens for fshell
+2026-10-01T18:06:46.487327Z,kcode-k1-rust-worktree,0.1.0,0,0,,Represent K1 Rust unpublished worktrees and source selectors
+2026-10-01T18:07:17.513287Z,portlens,0.2.0,0,0,https://github.com/ehsan18t/portlens,PortLens is a cross-platform CLI tool that lists open network ports and their associated processes
+2026-10-01T18:12:59.064911Z,kcode-k1-web-bootstrap-converter,0.1.0,0,0,,Combine existing Kennedy Web libraries into K1 Web Code documents
+2026-10-01T18:14:05.295506Z,orcher-sdk-macros,0.5.0,0,0,https://github.com/orcher-io/sdk-rust,Procedural macros for the Orcher Rust SDK; use them through the orcher-sdk crate
+2026-10-01T18:14:46.028396Z,orcher-sdk,0.5.0,0,0,https://github.com/orcher-io/sdk-rust,"Rust SDK for Orcher, a durable workflow engine: workflows, tasks, actors, workers and a client"
+2026-10-01T18:14:57.985346Z,finger_vec,0.1.0,0,0,https://github.com/calcit-lang/finger-vec.rs,Persistent vector for the Calcit runtime: chunked relaxed B-tree with front and back buffers
+2026-10-01T18:16:14.32002Z,eujev,0.1.0,0,0,https://github.com/Raezil/rs-eujev,A typed Rust SDK for the eu/jev System One API
+2026-10-01T18:16:38.596094Z,kcode-k1-rust-projection-files,0.1.0,0,0,,Materialize derived K1 Rust published and unpublished source
