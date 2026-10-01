@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T09:19:27.506146Z,nexus-raw,0.1.0,0,0,https://github.com/Lipen/nexus-raw,"nxr: CLI for Nexus raw storage — claim, sha-siblings, symmetric diff, resume"
+2026-10-01T09:19:35.199487Z,backbone-edi,0.7.21,0,0,https://github.com/faridlab/backbone-edi,Backbone Framework EDI module — B2B document interchange (trading partners and EDI documents)
+2026-10-01T09:21:01.313656Z,hoff,0.0.1,0,0,,"Hoff Research namespace. Placeholder crate, the real thing lands here later."
+2026-10-01T09:21:03.324267Z,hoffresearch,0.0.1,0,0,,"Hoff Research namespace. Placeholder crate, the real thing lands here later."
+2026-10-01T09:21:05.452317Z,brenner,0.0.1,0,0,,"Brenner Cruvinel namespace. Placeholder crate, the real thing lands here later."
+2026-10-01T09:21:08.543308Z,brennercruvinel,0.0.1,0,0,,"Brenner Cruvinel namespace. Placeholder crate, the real thing lands here later."
+2026-10-01T09:21:17.817848Z,skilj-bridge,0.0.9,0,0,https://codeberg.org/gklijs/SkilJ,"The skilj REST client side the message-broker bridges (skilj-kafka/skilj-amqp/skilj-nats) share: consuming and acknowledging events, recording or triggering from inbound messages, reporting parked de…"
+2026-10-01T09:21:43.077667Z,backbone-subscription,0.3.26,0,0,https://github.com/faridlab/backbone-subscription,"Recurring/subscription billing: owns subscription plans, recurrence schedules, and cadence-driven generation of Sales Invoices into backbone-billing. The subscription counterpart to billing's spot in…"
+2026-10-01T09:22:42.105745Z,logdelta,0.2.1,0,0,https://github.com/antonsoo/logdelta,"Diff logs by meaning, not by bytes. See what's new in the failing run."
+2026-10-01T09:23:22.195229Z,backbone-announcements,0.1.6,0,0,https://github.com/faridlab/backbone-announcements,"HR broadcast announcements with audience targeting, publish window and read tracking"
+2026-10-01T09:45:19.187434Z,tokio-rustls-jls,0.1.0,0,0,https://github.com/rustls/tokio-rustls,Asynchronous TLS/SSL streams for Tokio using Rustls.
+2026-10-01T09:51:45.498468Z,zk-encryption,0.1.5,0,0,https://github.com/zk-experiments/zk-encryption,"Post-quantum encrypted channel for ZK pipelines, the wallet side: the receiver's keys, bundle and scan, the sender's handshake and ratchet, payload sealing and opening, the lattice encryption and the…"
+2026-10-01T09:56:06.009735Z,broccoli-rs,2.0.1,0,0,https://github.com/rderelle/Broccoli,Orthology inference combining phylogenies and network analysis
+2026-10-01T10:00:41.253503Z,virtx,0.1.0,0,0,https://github.com/brekkylab/virtx,Run tasks in disposable Linux VMs from your own code: the environment an agent works in.
+2026-10-01T10:00:43.989278Z,tauri-kit-webview,0.8.0,0,0,https://github.com/iyulab/tauri-kit,"The web view runtime under a desktop app's window: say in the person's language when WebView2 is missing, and keep form entries out of the web view's profile."
+2026-10-01T10:07:24.016557Z,termpane,0.1.0,0,0,https://github.com/tailrocks/termpane,"Deterministic terminal screen-state emulator: a VT-parsed cell grid with typed attributes, scrollback, snapshots, and damage tracking."
+2026-10-01T10:08:35.347823Z,inorbithr,0.0.0,0,0,https://github.com/inorbithr/sdk,Reserved for the official InOrbit SDK. Not released yet; contains no code.
+2026-10-01T10:08:48.660933Z,sqzer-rav1d,0.1.0,0,0,https://github.com/sqzer-dev/rav1d,"rav1d, the Rust port of the dav1d AV1 decoder, at upstream main d3d1cd6 with its Rust API, plus what it takes to build for wasm32-unknown-unknown"
+2026-10-01T10:08:55.878542Z,zk-encryption-circuits,0.1.5,0,0,https://github.com/zk-experiments/zk-encryption,"Post-quantum encrypted channel for ZK pipelines, the circuit layer: the session and envelope apps frozen as a noir-zk registry (channel/session, channel/envelope, channel/note_envelope) with their by…"
