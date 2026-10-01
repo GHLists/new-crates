@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T02:19:28.857683Z,kcode-k1-chat-thread-session-code-runtime,0.1.1,0,0,,Concrete RustCode and WebCode lane runtime for one K1 chat thread
+2026-10-01T02:26:28.984607Z,kcode-k1-chat-thread-session-stage-runtime,0.1.1,0,0,,Concrete Stage and asynchronous tool runtime for one K1 chat thread
+2026-10-01T02:32:45.246251Z,wtherdr,0.0.2,0,0,https://github.com/gwenwindflower/wtherdr,"A fast, light herdr-worktrunk integration that is actually good"
+2026-10-01T02:34:03.139963Z,kcode-k1-chat-thread-session-inference-settlement,0.1.0,0,0,,One-shot provider inference settlement for the K1 chat-thread session actor
+2026-10-01T02:35:49.589301Z,onlyne-wire,2.0.0,0,0,https://github.com/dbydd/onlyne,Onlyne wire seam: length-prefixed JSON frames and the local socket endpoint
+2026-10-01T02:36:54.9075Z,typelisp-mem,0.1.0,0,0,https://github.com/JunSuzukiJapan/typelisp,Cons heap and garbage collector of typelisp. Internal crate of typelisp; not meant to be used directly.
+2026-10-01T02:36:57.105489Z,typelisp-abi,0.1.0,0,0,https://github.com/JunSuzukiJapan/typelisp,Calling convention shared by typelisp's compiled code and its runtime. Internal crate of typelisp; not meant to be used directly.
+2026-10-01T02:36:59.437241Z,typelisp-print,0.1.0,0,0,https://github.com/JunSuzukiJapan/typelisp,Common Lisp style printer (format directives and pretty printer) of typelisp. Internal crate of typelisp; not meant to be used directly.
+2026-10-01T02:37:00.465656Z,typelisp-read,0.1.0,0,0,https://github.com/JunSuzukiJapan/typelisp,Common Lisp style reader of typelisp. Internal crate of typelisp; not meant to be used directly.
+2026-10-01T02:37:02.762546Z,typelisp-rt,0.1.0,0,0,https://github.com/JunSuzukiJapan/typelisp,Runtime library that typelisp's compiled programs link. Internal crate of typelisp; not meant to be used directly.
+2026-10-01T02:40:46.740524Z,typelisp-front,0.1.0,0,0,https://github.com/JunSuzukiJapan/typelisp,"Type checker, interpreter, module loader and standard library of typelisp. Internal crate of typelisp; not meant to be used directly."
+2026-10-01T02:43:09.993138Z,nago-acme,0.1.0,0,0,https://github.com/pathscale/nago-acme,DNS-01 ACME certificates over nagoya and nago-http
+2026-10-01T02:45:03.061615Z,kcode-k1-chat-thread-session-actor-runtime,0.1.0,0,0,,Concrete event-loop runtime for one K1 chat-thread session actor
+2026-10-01T02:51:07.79986Z,typelisp,0.1.0,0,0,https://github.com/JunSuzukiJapan/typelisp,A statically typed Lisp with an interpreter and a compiler to native executables (LLVM)
+2026-10-01T02:51:37.715288Z,cortexkit-role-harness,0.1.0,0,0,https://github.com/cortexkit/commons,"Crash-cut harness trait shared by CortexKit role conformance suites: spawn on a state root, kill at a named durable point, restart on the same root, and a ledger that fails a run with no real process…"
+2026-10-01T02:54:12.759973Z,january-ai,0.1.0,0,0,https://github.com/n3mu3lw/january-ai,Unofficial Rust SDK for January AI
+2026-10-01T02:55:57.666719Z,kcode-k1-chat-service-actor-registry,0.1.0,0,0,,Conversation actor registry for K1 Chat Service
+2026-10-01T02:56:47.948478Z,cortexkit-role-tool-provider,0.3.0,0,0,https://github.com/cortexkit/commons,"Wire contract of the CortexKit tool-provider/v1 role: role.describe, tool.catalog, call_key, tool.withdraw and late-result names."
+2026-10-01T03:00:41.264344Z,cortexkit-role-tool-provider-conformance,0.2.0,0,0,https://github.com/cortexkit/commons,Conformance runner for the CortexKit tool-provider/v1 role: drives a live provider through its crash-cut harness and checks it against the role's vectors.
+2026-10-01T03:07:17.8788Z,rocketmq-proxy-core,1.0.0,0,0,https://github.com/mxsm/rocketmq-rust,Runtime-neutral RocketMQ Proxy contracts and ingress state
+2026-10-01T03:07:18.45809Z,rocketmq-store-local,1.0.0,0,0,https://github.com/mxsm/rocketmq-rust,Local storage primitives for Apache RocketMQ in Rust.
+2026-10-01T03:07:18.93367Z,rocketmq-store-rocksdb,1.0.0,0,0,https://github.com/mxsm/rocketmq-rust,RocksDB storage foundation for Apache RocketMQ in Rust.
+2026-10-01T03:07:19.879539Z,rocketmq-transport,1.0.0,0,0,https://github.com/mxsm/rocketmq-rust,Bounded TCP/TLS transport for RocketMQ Rust
+2026-10-01T03:07:35.724447Z,rocketmq-proxy-cluster,1.0.0,0,0,https://github.com/mxsm/rocketmq-rust,Client-backed cluster adapter for RocketMQ Proxy
+2026-10-01T03:16:26.978276Z,rocketmq-proxy-local,1.0.0,0,0,https://github.com/mxsm/rocketmq-rust,Embedded Broker-backed local adapter for RocketMQ Proxy
