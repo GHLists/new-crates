@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T20:22:42.738549Z,zellij-plugin-snapshot,0.2.1,0,0,https://github.com/fulldecent/zellij-plugin-snapshot,"Headless Zellij plugin host: load a .wasm, mock host commands, drive events, capture exact render output"
+2026-10-01T20:24:36.636402Z,datalove-datafun-cranelift-aot,0.1.0,0,0,https://github.com/brson/datalove,The datafun ahead-of-time Cranelift backend.
+2026-10-01T20:24:39.06273Z,lite-ekf-rs,0.1.0,0,0,https://github.com/jorgeandrecastro/lite-ekf-rs,Portage Rust 'no_std' ultra-léger et générique du filtre de Kalman étendu TinyEKF pour systèmes embarqués.
+2026-10-01T20:26:26.995825Z,colls,0.0.1,0,0,https://github.com/Viterkim/colls,Shared state and maps through small closures
+2026-10-01T20:28:20.438149Z,vector-calls,0.1.0,0,0,https://github.com/VectorPrivacy/Vector,"The platform-free half of Vector's calls: wire format, jitter buffer, rate control."
+2026-10-01T20:34:18.633837Z,move-diff,0.1.0,0,0,https://gitlab.com/loikki/move-diff,Render a git diff with extra markers for moved and reformatted code
+2026-10-01T20:34:35.430347Z,datalove-datafun-inline,0.1.0,0,0,https://github.com/brson/datalove,Function inlining over datafun IR.
+2026-10-01T20:35:29.582478Z,zstdx-ffi,0.2.0,0,0,https://github.com/lxl66566/zstdx,libzstd-compatible C ABI (drop-in `libzstd`) over the zstdx codec
+2026-10-01T20:35:34.164384Z,cadkit-core,0.2.0,0,0,https://github.com/TNYCL/cadkit,"Format-neutral CAD drawing model, bounded binary readers and SVG export for cadkit."
+2026-10-01T20:35:35.97452Z,cadkit-dgn,0.2.0,0,0,https://github.com/TNYCL/cadkit,Clean-room DGN V7 and V8 reader and seed-based DGN V8 writer.
+2026-10-01T20:35:36.591216Z,cadkit-dxf,0.2.0,0,0,https://github.com/TNYCL/cadkit,DXF (ASCII and binary) reader and ASCII DXF writer for the cadkit drawing model.
+2026-10-01T20:35:37.202711Z,cadkit-gml,0.2.0,0,0,https://github.com/TNYCL/cadkit,"Bounded CityGML 2.0 reader, writer and neutral geometry bridge."
+2026-10-01T20:35:38.324308Z,cadkit-dwg,0.2.0,0,0,https://github.com/TNYCL/cadkit,Clean-room DWG reader (R14 through 2018).
+2026-10-01T20:36:53.847699Z,kcode-k1-web-bootstrap-resources,0.1.1,0,0,,Embed legacy Kennedy Web package resources for K1 bootstrap conversion
+2026-10-01T20:43:20.709761Z,resocks5-net,0.2.0,0,0,https://github.com/PHPCraftdream/resocks5,"Reusable proxy networking toolkit: SOCKS5/HTTP/HTTPS upstream connectors, a pre-connect TCP pool, a sand-rating soft-weight rotator with exponential decay, and TLS ClientHello fragmentation."
+2026-10-01T20:45:08.977593Z,rutcpduplex,0.1.0,0,0,https://github.com/hdmain/rutcpduplex,"Native Rust port of tcpduplex: encrypted full-duplex messaging over TCP (X25519 ECDH, AES-256-GCM)"
+2026-10-01T20:53:05.024975Z,silicate-core,1.1.0,0,0,https://github.com/pure-sagacity/silicate,Core business logic for Silicate password manager
+2026-10-01T20:55:01.347715Z,vectrize,0.2.0,0,0,https://github.com/pablofrr/vectrize,"Local semantic search over folders of Markdown documents, for the terminal and AI agents"
+2026-10-01T20:55:07.775099Z,faculties-framed-stream,0.1.0,0,0,,"The framed-stream convention: content-typed, continuity-checked records carrying a modality over an ordinary pipe, in either direction."
+2026-10-01T20:55:08.51993Z,lissajous-macros,0.10.0,0,0,https://github.com/erlkonig-ai/lissajous,Procedural macros for the Lissajous notebook library.
+2026-10-01T20:55:09.284215Z,maryml-burn-derive,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Derive crate for the Burn framework
+2026-10-01T20:55:09.847432Z,maryml-burn-tensor-testgen,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Test generation crate for burn-tensor
+2026-10-01T20:55:10.680234Z,maryml-cubecl-macros,0.10.0,0,0,https://github.com/erlkonig-ai/cubecl,Procedural macros for CubeCL
+2026-10-01T20:57:24.747816Z,cadkit,0.2.0,0,0,https://github.com/TNYCL/cadkit,"Read DWG, DGN, DXF and CityGML into one format-neutral model; write DXF, DGN V8 and CityGML. Pure Rust, no vendor SDK."
+2026-10-01T20:57:26.299285Z,cadkit-cli,0.2.0,0,0,https://github.com/TNYCL/cadkit,"Command-line tool to inspect and convert DWG, DGN, DXF and CityGML files."
+2026-10-01T21:03:00.608097Z,componentized-constants,0.1.0-dev,0,0,https://github.com/componentized/constants,Create custom wasm components that export constant values
+2026-10-01T21:03:02.532937Z,componentized-constants-cli,0.1.0-dev,0,0,https://github.com/componentized/constants,"Create custom wasm components that export constant values, from the command line"
+2026-10-01T21:03:28.713792Z,sparkwatch,0.1.0,0,0,https://github.com/VishnuRaman/sparkwatch,Terminal monitor for Apache Spark applications: a Spark UI you can use over SSH
+2026-10-01T21:04:23.553461Z,datalove-datafun-interp,0.1.0,0,0,https://github.com/brson/datalove,An interpreter for datafun IR.
+2026-10-01T21:04:24.345416Z,datalove-datafun-parser,0.1.0,0,0,https://github.com/brson/datalove,A parser for datafun.
+2026-10-01T21:04:24.800952Z,datalove-datafun-sema,0.1.0,0,0,https://github.com/brson/datalove,Semantic types shared by ownership analysis and lowering.
+2026-10-01T21:06:51.656919Z,maryml-cubecl-runtime,0.10.0,0,0,https://github.com/erlkonig-ai/cubecl,Crate that helps creating high performance async runtimes for CubeCL.
+2026-10-01T21:08:05.653637Z,loglog2,0.2.0,0,0,https://github.com/wutterfly/loglog2,"A flexible logging library with multiple targets, custom encoders, and blocking or threaded dispatching."
+2026-10-01T21:10:39.160994Z,native-theme-egui,0.6.0,0,0,https://github.com/tiborgats/native-theme,egui toolkit connector for native-theme
+2026-10-01T21:11:27.651982Z,native-theme-egui-widgets,0.6.0,0,0,https://github.com/tiborgats/native-theme,"egui widgets the native-theme-egui connector cannot give egui's own: a switch, a slider knob, a spinner stroke, a segmented control, links, a drop-down, a radio dot, a progress-bar outline and an exp…"
+2026-10-01T21:14:37.160281Z,datalove-datafun-cranelift-jit,0.1.0,0,0,https://github.com/brson/datalove,A per-function tracing JIT for the datafun interpreter.
+2026-10-01T21:18:02.665567Z,docsgpt,0.1.0,0,0,https://github.com/arc53/docsgpt-rs,"Rust client for the DocsGPT API: streaming answers, attachments, speech, artifacts and feedback"
+2026-10-01T21:18:04.491762Z,docsgpt-bot,0.1.0,0,0,https://github.com/arc53/docsgpt-rs,"Shared plumbing for chat bots on DocsGPT agents: config, agent routing, storage and a platform-neutral answer loop"
+2026-10-01T21:18:16.919837Z,maryml-cubecl-core,0.10.0,0,0,https://github.com/erlkonig-ai/cubecl,CubeCL core create
