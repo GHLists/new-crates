@@ -8,42 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 23:19 UTC
+## Latest list — 2026-10-01 00:18 UTC
 
-New crates published between 2026-09-30 22:18 UTC and 2026-09-30 23:19 UTC.
+New crates published between 2026-09-30 23:19 UTC and 2026-10-01 00:18 UTC.
 
-[Full CSV](data/new-crates-2026-09-30T23-19-48-87137Z.csv)
+[Full CSV](data/new-crates-2026-10-01T00-18-39-583822Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-09-30 22:19:09 | [rustmaninoff-report](https://crates.io/crates/rustmaninoff-report) | 0.1.0 | 0 | Text, JSON, SARIF, and JUnit renderers for Rustmaninoff |
-| 2026-09-30 22:19:22 | [rustmaninoff](https://crates.io/crates/rustmaninoff) | 0.1.0 | 0 | Fast IaC security scanner with Checkov-compatible policies |
-| 2026-09-30 22:20:10 | [backbone-timeoff](https://crates.io/crates/backbone-timeoff) | 0.4.33 | 0 | leave / absence: types, requests, balances (+ drawdown invariant) |
-| 2026-09-30 22:20:12 | [packet-dissector-s1ap](https://crates.io/crates/packet-dissector-s1ap) | 0.5.0 | 0 | S1AP (S1 Application Protocol) dissector for packet-dissector |
-| 2026-09-30 22:22:35 | [bake-test-rust](https://crates.io/crates/bake-test-rust) | 0.1.1 | 0 | Reusable Rust test tasks for Bake |
-| 2026-09-30 22:24:22 | [kcode-k1-chat-web-code-output](https://crates.io/crates/kcode-k1-chat-web-code-output) | 0.1.0 | 0 | Pure model-facing outputs for K1 Chat Web-code tasks |
-| 2026-09-30 22:30:09 | [backbone-timesheet](https://crates.io/crates/backbone-timesheet) | 0.4.32 | 0 | Minimal Backbone Framework module skeleton |
-| 2026-09-30 22:34:23 | [slussa](https://crates.io/crates/slussa) | 0.1.1 | 0 | A terminal UI for pull requests on GitHub and Bitbucket Data Center |
-| 2026-09-30 22:39:47 | [gdship](https://crates.io/crates/gdship) | 0.1.0 | 0 | Export a Godot 4 project and push each build to itch.io with butler |
-| 2026-09-30 22:40:09 | [backbone-bulkops](https://crates.io/crates/backbone-bulkops) | 0.6.21 | 0 | Audited, idempotent batch operations that drive each module's write path throug… |
-| 2026-09-30 22:40:27 | [lumos-macros](https://crates.io/crates/lumos-macros) | 0.1.1 | 0 | Compile-time codegen for Lumos: controllers, models, resources |
-| 2026-09-30 22:40:45 | [bevy_net_backend](https://crates.io/crates/bevy_net_backend) | 0.1.0 | 0 | Talk to your game's own backend from Bevy: HTTPS JSON requests, (feature `ws`)… |
-| 2026-09-30 22:42:18 | [kcode-k1-chat-thread-rust-code-history](https://crates.io/crates/kcode-k1-chat-thread-rust-code-history) | 0.1.0 | 0 | Recover one validated Rust code task snapshot from canonical K1 chat history |
-| 2026-09-30 22:47:41 | [kcode-k1-chat-thread-web-code-open-targets](https://crates.io/crates/kcode-k1-chat-thread-web-code-open-targets) | 0.1.0 | 0 | Pure Open presentation and target classification for K1 Chat Web-code |
-| 2026-09-30 22:51:30 | [private-fs](https://crates.io/crates/private-fs) | 0.1.0 | 0 | Handle-oriented private filesystem capabilities and atomic publication |
-| 2026-09-30 22:54:58 | [tree-sitter-ruby-sqry](https://crates.io/crates/tree-sitter-ruby-sqry) | 32.0.1 | 0 | Tree-sitter grammar for Ruby (sqry fork) |
-| 2026-09-30 22:57:13 | [warren-mysql-speller](https://crates.io/crates/warren-mysql-speller) | 0.1.0 | 0 | MySQL statements respelled to read less and return the same rows: a join taken… |
-| 2026-09-30 22:57:41 | [backbone-buying](https://crates.io/crates/backbone-buying) | 0.6.24 | 0 | Buying: Material Request -> RFQ -> Supplier Quotation -> Purchase Order; drives… |
-| 2026-09-30 22:58:42 | [kcode-k1-chat-thread-web-code-check-state](https://crates.io/crates/kcode-k1-chat-thread-web-code-check-state) | 0.1.0 | 0 | Pure conversation-local latest-check state for K1 Chat Web-code tasks |
-| 2026-09-30 22:59:14 | [warren-pg-speller](https://crates.io/crates/warren-pg-speller) | 0.1.0 | 0 | A PostgreSQL planner hook that respells a SELECT through three identities of re… |
-| 2026-09-30 22:59:53 | [pg_warrendex](https://crates.io/crates/pg_warrendex) | 0.1.0 | 0 | The warrendex, an index access method for PostgreSQL |
-| 2026-09-30 23:00:07 | [mysql-warren](https://crates.io/crates/mysql-warren) | 0.1.0 | 0 | A warren on MySQL: InnoDB tables and keys from a layout file, and statements re… |
-| 2026-09-30 23:00:09 | [backbone-payment-gateway](https://crates.io/crates/backbone-payment-gateway) | 0.4.28 | 0 | External payment-gateway boundary: provider abstraction, transaction record, fe… |
-| 2026-09-30 23:03:53 | [smugmug-cli](https://crates.io/crates/smugmug-cli) | 0.4.0 | 0 | A command-line tool for uploading photos to SmugMug with deduplication |
-| 2026-09-30 23:04:26 | [sidestr-hitch](https://crates.io/crates/sidestr-hitch) | 0.1.0 | 0 | Hitch-compatible payment-channel kernel for Bitcoin BLAKE2b testnet4 |
-| 2026-09-30 23:06:58 | [kcode-k1-chat-thread-web-code-errors](https://crates.io/crates/kcode-k1-chat-thread-web-code-errors) | 0.1.0 | 0 | Pure model-facing error outputs for K1 Chat Web-code tasks |
-| 2026-09-30 23:10:11 | [backbone-payroll](https://crates.io/crates/backbone-payroll) | 0.3.46 | 0 | Minimal Backbone Framework module skeleton |
-| 2026-09-30 23:16:11 | [rusticate](https://crates.io/crates/rusticate) | 0.1.1 | 0 | Rusticate: Eloquent-inspired ORM for Rust (usable with or without Lumos) |
+| 2026-09-30 23:20:11 | [backbone-quality](https://crates.io/crates/backbone-quality) | 0.6.25 | 0 | Minimal Backbone Framework module skeleton |
+| 2026-09-30 23:21:22 | [kcode-k1-chat-thread-rust-code-lane](https://crates.io/crates/kcode-k1-chat-thread-rust-code-lane) | 0.1.0 | 0 | Own one K1 conversation's FIFO Rust code execution lane |
+| 2026-09-30 23:26:36 | [cordis-hub](https://crates.io/crates/cordis-hub) | 0.0.1 | 0 | Marketplace catalog and index for Cordis plugins. |
+| 2026-09-30 23:26:45 | [cordis-manifest](https://crates.io/crates/cordis-manifest) | 0.0.1 | 0 | Manifest schema and parsing for Cordis plugins. |
+| 2026-09-30 23:30:11 | [backbone-recruitment](https://crates.io/crates/backbone-recruitment) | 0.3.30 | 0 | Minimal Backbone Framework module skeleton |
+| 2026-09-30 23:40:10 | [backbone-support](https://crates.io/crates/backbone-support) | 0.6.15 | 0 | Minimal Backbone Framework module skeleton |
+| 2026-09-30 23:40:41 | [benchly](https://crates.io/crates/benchly) | 0.0.0 | 0 | Benchly |
+| 2026-09-30 23:42:41 | [kcode-k1-chat-thread-web-code-call-preparation](https://crates.io/crates/kcode-k1-chat-thread-web-code-call-preparation) | 0.1.0 | 0 | Pure call preparation for K1 Chat Web-code tasks |
+| 2026-09-30 23:43:35 | [plint-lang](https://crates.io/crates/plint-lang) | 0.1.0 | 0 | A linter language for plint |
+| 2026-09-30 23:45:19 | [plint-linter](https://crates.io/crates/plint-linter) | 0.1.0 | 0 | The core feature of the linter for plint |
+| 2026-09-30 23:46:02 | [plint](https://crates.io/crates/plint) | 0.1.0 | 0 | A linter for text files |
+| 2026-09-30 23:49:17 | [rust-jexl3](https://crates.io/crates/rust-jexl3) | 0.1.0 | 0 | A faithful Rust port of Apache Commons JEXL 3.2.1, behaviorally compatible with… |
+| 2026-09-30 23:50:11 | [backbone-digest](https://crates.io/crates/backbone-digest) | 0.2.24 | 0 | KPI digests — the periodic KPI-email engine: a declarative name-keyed KPI regis… |
+| 2026-09-30 23:53:34 | [lumos-rs-macros](https://crates.io/crates/lumos-rs-macros) | 0.1.3 | 0 | Compile-time codegen for Lumos: controllers, models, resources |
+| 2026-09-30 23:54:10 | [lumos-rs-rusticate](https://crates.io/crates/lumos-rs-rusticate) | 0.1.3 | 0 | Rusticate: Eloquent-inspired ORM for Rust (usable with or without Lumos) |
+| 2026-09-30 23:54:27 | [lumos-rs-core](https://crates.io/crates/lumos-rs-core) | 0.1.3 | 0 | Lumos kernel: routing, HTTP primitives, service container, config, errors, midd… |
+| 2026-09-30 23:54:29 | [lumos-rs-jsonapi](https://crates.io/crates/lumos-rs-jsonapi) | 0.1.3 | 0 | JSON:API v1.1 serialization and content negotiation for Lumos |
+| 2026-09-30 23:54:46 | [lumos-rs-testing](https://crates.io/crates/lumos-rs-testing) | 0.1.3 | 0 | Test helpers for Lumos applications: test DBs, HTTP client, response assertions |
+| 2026-09-30 23:58:51 | [lingara-apps](https://crates.io/crates/lingara-apps) | 0.0.0 | 0 | Official Rust SDK for building Lingara apps (under development). |
+| 2026-10-01 00:00:15 | [backbone-events](https://crates.io/crates/backbone-events) | 0.3.30 | 0 | Events core + the sale/booth/crm/sms/desk overlay — registrations under one aut… |
+| 2026-10-01 00:01:46 | [lumos-rs-cli](https://crates.io/crates/lumos-rs-cli) | 0.1.3 | 0 | Artisan-like developer CLI for Lumos: generators, migrations, dev server |
+| 2026-10-01 00:02:44 | [kcode-k1-chat-thread-web-code-service-execution](https://crates.io/crates/kcode-k1-chat-thread-web-code-service-execution) | 0.1.0 | 0 | Stateless blocking service execution for K1 Chat Web-code tasks |
+| 2026-10-01 00:09:51 | [kcode-k1-chat-thread-web-code-tasks](https://crates.io/crates/kcode-k1-chat-thread-web-code-tasks) | 0.1.0 | 0 | Conversation-local ordered K1 Chat Web-code tasks |
+| 2026-10-01 00:11:26 | [peat](https://crates.io/crates/peat) | 0.1.0 | 0 | A cli tool for working with paired-end alignments in sam or bam format. |
+| 2026-10-01 00:15:55 | [backbone-livechat](https://crates.io/crates/backbone-livechat) | 0.3.25 | 0 | The livechat module (Odoo im_livechat + website_livechat port) — the determinis… |
 
 ## Data source
 

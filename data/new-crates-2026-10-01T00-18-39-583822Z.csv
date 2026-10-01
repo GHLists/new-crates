@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-09-30T23:20:11.19641Z,backbone-quality,0.6.25,0,0,https://github.com/faridlab/backbone-quality,Minimal Backbone Framework module skeleton
+2026-09-30T23:21:22.429703Z,kcode-k1-chat-thread-rust-code-lane,0.1.0,0,0,,Own one K1 conversation's FIFO Rust code execution lane
+2026-09-30T23:26:36.46166Z,cordis-hub,0.0.1,0,0,https://github.com/dshbox/cordis-rs,Marketplace catalog and index for Cordis plugins.
+2026-09-30T23:26:45.052454Z,cordis-manifest,0.0.1,0,0,https://github.com/dshbox/cordis-rs,Manifest schema and parsing for Cordis plugins.
+2026-09-30T23:30:11.840838Z,backbone-recruitment,0.3.30,0,0,https://github.com/faridlab/backbone-recruitment,Minimal Backbone Framework module skeleton
+2026-09-30T23:40:10.413803Z,backbone-support,0.6.15,0,0,https://github.com/faridlab/backbone-support,Minimal Backbone Framework module skeleton
+2026-09-30T23:40:41.757715Z,benchly,0.0.0,0,0,,Benchly
+2026-09-30T23:42:41.068109Z,kcode-k1-chat-thread-web-code-call-preparation,0.1.0,0,0,,Pure call preparation for K1 Chat Web-code tasks
+2026-09-30T23:43:35.696694Z,plint-lang,0.1.0,0,0,https://github.com/hatya-mouse/plint,A linter language for plint
+2026-09-30T23:45:19.672696Z,plint-linter,0.1.0,0,0,https://github.com/hatya-mouse/plint,The core feature of the linter for plint
+2026-09-30T23:46:02.345668Z,plint,0.1.0,0,0,https://github.com/hatya-mouse/plint,A linter for text files
+2026-09-30T23:49:17.957904Z,rust-jexl3,0.1.0,0,0,https://github.com/Junsung-Kim/rust-jexl3,"A faithful Rust port of Apache Commons JEXL 3.2.1, behaviorally compatible with the Java library"
+2026-09-30T23:50:11.907083Z,backbone-digest,0.2.24,0,0,https://github.com/faridlab/backbone-digest,"KPI digests — the periodic KPI-email engine: a declarative name-keyed KPI registry other modules extend, per-recipient fenced rendering with declared (never row-count) KPI drops, the anti-spam slowdo…"
+2026-09-30T23:53:34.046313Z,lumos-rs-macros,0.1.3,0,0,https://github.com/iamahless/lumos,"Compile-time codegen for Lumos: controllers, models, resources"
+2026-09-30T23:54:10.017011Z,lumos-rs-rusticate,0.1.3,0,0,https://github.com/iamahless/lumos,Rusticate: Eloquent-inspired ORM for Rust (usable with or without Lumos)
+2026-09-30T23:54:27.006304Z,lumos-rs-core,0.1.3,0,0,https://github.com/iamahless/lumos,"Lumos kernel: routing, HTTP primitives, service container, config, errors, middleware"
+2026-09-30T23:54:29.964471Z,lumos-rs-jsonapi,0.1.3,0,0,https://github.com/iamahless/lumos,JSON:API v1.1 serialization and content negotiation for Lumos
+2026-09-30T23:54:46.53491Z,lumos-rs-testing,0.1.3,0,0,https://github.com/iamahless/lumos,"Test helpers for Lumos applications: test DBs, HTTP client, response assertions"
+2026-09-30T23:58:51.904575Z,lingara-apps,0.0.0,0,0,https://github.com/Spinning-Cat-Studios/lingara_app_framework_sdk,Official Rust SDK for building Lingara apps (under development).
+2026-10-01T00:00:15.330616Z,backbone-events,0.3.30,0,0,https://github.com/faridlab/backbone-events,"Events core + the sale/booth/crm/sms/desk overlay — registrations under one authoritative seat counter, the sale seam (order-minted registrations, forward-only paid heal, SO-cancel mirror cascade), b…"
+2026-10-01T00:01:46.666402Z,lumos-rs-cli,0.1.3,0,0,https://github.com/iamahless/lumos,"Artisan-like developer CLI for Lumos: generators, migrations, dev server"
+2026-10-01T00:02:44.713737Z,kcode-k1-chat-thread-web-code-service-execution,0.1.0,0,0,,Stateless blocking service execution for K1 Chat Web-code tasks
+2026-10-01T00:09:51.209624Z,kcode-k1-chat-thread-web-code-tasks,0.1.0,0,0,,Conversation-local ordered K1 Chat Web-code tasks
+2026-10-01T00:11:26.940567Z,peat,0.1.0,0,0,,A cli tool for working with paired-end alignments in sam or bam format.
+2026-10-01T00:15:55.854919Z,backbone-livechat,0.3.25,0,0,https://github.com/faridlab/backbone-livechat,"The livechat module (Odoo im_livechat + website_livechat port) — the deterministic operator-selection ladder (capacity, the 120s anti-burst buffer on every path, the one 30-minute ongoing window, tot…"
