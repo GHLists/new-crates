@@ -8,35 +8,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 07:19 UTC
+## Latest list — 2026-10-01 08:18 UTC
 
-New crates published between 2026-10-01 06:20 UTC and 2026-10-01 07:19 UTC.
+New crates published between 2026-10-01 07:19 UTC and 2026-10-01 08:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-01T07-19-32-199762Z.csv)
+[Full CSV](data/new-crates-2026-10-01T08-18-58-821926Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-01 06:23:21 | [zenoh-web-rtc-sctp](https://crates.io/crates/zenoh-web-rtc-sctp) | 0.21.0-zw.1 | 0 | Fork of rtc-sctp 0.21.0 with fixes for zenoh-web (see PATCHES.md) |
-| 2026-10-01 06:23:29 | [zenoh-web-rtc-datachannel](https://crates.io/crates/zenoh-web-rtc-datachannel) | 0.21.0-zw.1 | 0 | Fork of rtc-datachannel 0.21.0 with fixes for zenoh-web (see PATCHES.md) |
-| 2026-10-01 06:23:53 | [zenoh-web-rtc](https://crates.io/crates/zenoh-web-rtc) | 0.21.0-zw.1 | 0 | Fork of rtc 0.21.0 with fixes for zenoh-web (see PATCHES.md) |
-| 2026-10-01 06:24:18 | [zenoh-web-webrtc](https://crates.io/crates/zenoh-web-webrtc) | 0.21.0-zw.1 | 0 | Fork of webrtc 0.21.0 with fixes for zenoh-web (see PATCHES.md) |
-| 2026-10-01 06:29:30 | [zudb-corpus](https://crates.io/crates/zudb-corpus) | 0.0.1 | 0 | The cross-client conformance corpus and its Rust runner |
-| 2026-10-01 06:39:47 | [zudb-cli](https://crates.io/crates/zudb-cli) | 0.0.1 | 0 | Command-line interface for zu |
-| 2026-10-01 06:40:45 | [critpath-libdeflate](https://crates.io/crates/critpath-libdeflate) | 0.1.0 | 0 | Instrumented libdeflate 1.25 (gzip decode) carrying the gzippy critpath region… |
-| 2026-10-01 06:41:27 | [fulcrum](https://crates.io/crates/fulcrum) | 0.3.0 | 0 | Causal-mechanistic pipeline profiler: finds the highest-leverage region to opti… |
-| 2026-10-01 06:43:47 | [ispeach](https://crates.io/crates/ispeach) | 0.1.0 | 0 | Detect whether an image is Peach, a cute little kitten. Model weights embedded. |
-| 2026-10-01 06:52:26 | [euka-shell](https://crates.io/crates/euka-shell) | 0.1.0 | 0 | A small shared shell for humans and coding agents |
-| 2026-10-01 06:53:56 | [stile-protocol](https://crates.io/crates/stile-protocol) | 0.1.0 | 0 | Wire protocol between stile and stile-brokerd. Contains no operation capable of… |
-| 2026-10-01 06:54:04 | [stile-core](https://crates.io/crates/stile-core) | 0.1.0 | 0 | Secret machinery: registry, generation, SOPS backend, consumer deployment, veri… |
-| 2026-10-01 06:54:08 | [stile-brokerd](https://crates.io/crates/stile-brokerd) | 0.1.0 | 0 | Privileged secret lifecycle broker. The only component that ever holds secret b… |
-| 2026-10-01 06:54:14 | [stile](https://crates.io/crates/stile) | 0.1.0 | 0 | Unprivileged CLI for requesting allowlisted secret lifecycle operations. Never… |
-| 2026-10-01 07:13:38 | [morpheme](https://crates.io/crates/morpheme) | 0.1.0 | 0 | Fast, pure-Rust subword tokenization (BPE, WordPiece, Unigram) compatible with… |
-| 2026-10-01 07:14:04 | [morpheme-cli](https://crates.io/crates/morpheme-cli) | 0.1.0 | 0 | Command-line tool to train, inspect and run Hugging Face-compatible tokenizers… |
-| 2026-10-01 07:14:39 | [pictogram-icons-lobe](https://crates.io/crates/pictogram-icons-lobe) | 0.4.0 | 0 | Lobe icons export for pictogram |
-| 2026-10-01 07:15:19 | [varyk-std](https://crates.io/crates/varyk-std) | 0.3.0 | 0 | The runtime that programs written in Varyk, a language for backend services tha… |
-| 2026-10-01 07:15:56 | [lumos-rs](https://crates.io/crates/lumos-rs) | 0.1.3 | 0 | Lumos web framework: MVC, batteries-included, feature-flag driven |
-| 2026-10-01 07:18:06 | [super-types](https://crates.io/crates/super-types) | 0.9.0 | 0 | Types for the Super API |
-| 2026-10-01 07:18:22 | [super-tool](https://crates.io/crates/super-tool) | 0.9.0 | 0 | The Super CLI for verifying software behavior |
+| 2026-10-01 07:21:43 | [marc21-parser](https://crates.io/crates/marc21-parser) | 0.1.0 | 0 | A parser for MARC21 Format for Bibliographic Data that is lazy, zero-copy, zero… |
+| 2026-10-01 07:22:42 | [miden-usdcx-genesis](https://crates.io/crates/miden-usdcx-genesis) | 0.0.0 | 0 | Placeholder crate for a Miden node project |
+| 2026-10-01 07:23:44 | [ripmarc](https://crates.io/crates/ripmarc) | 0.1.0 | 0 | CLI MARC21 File Reader |
+| 2026-10-01 07:44:22 | [wasmer-package-sdk](https://crates.io/crates/wasmer-package-sdk) | 7.5.0-rc.2 | 0 | The Wasmer Package SDK - provides Wasmer and Wasmer Edge related functionality. |
+| 2026-10-01 07:45:20 | [miden-node-persistence](https://crates.io/crates/miden-node-persistence) | 0.17.0-rc.4 | 0 | Protobuf persistence codecs for Miden node |
+| 2026-10-01 07:52:20 | [tuff-console](https://crates.io/crates/tuff-console) | 0.14.0 | 0 | Console server for Tuff: stores project reports in SQLite and serves them over… |
+| 2026-10-01 07:59:42 | [slot-list](https://crates.io/crates/slot-list) | 0.1.0 | 0 | A doubly linked list over a contiguous slot arena, with stable O(1) slot handle… |
+| 2026-10-01 08:00:08 | [mcp-aegis](https://crates.io/crates/mcp-aegis) | 0.1.0 | 0 | Information-flow firewall for AI agent tool calls (MCP proxy with taint trackin… |
+| 2026-10-01 08:12:00 | [purrdf-hash](https://crates.io/crates/purrdf-hash) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-hash; use the functional release |
+| 2026-10-01 08:12:02 | [purrdf-stack](https://crates.io/crates/purrdf-stack) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-stack; use the functional release |
+| 2026-10-01 08:12:04 | [purrdf-lex](https://crates.io/crates/purrdf-lex) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-lex; use the functional release |
+| 2026-10-01 08:12:06 | [purrdf-jsonschema](https://crates.io/crates/purrdf-jsonschema) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-jsonschema; use the functional release |
+| 2026-10-01 08:12:08 | [purrdf-deflate](https://crates.io/crates/purrdf-deflate) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-deflate; use the functional release |
+| 2026-10-01 08:17:05 | [purrdf-ed25519](https://crates.io/crates/purrdf-ed25519) | 0.0.0 | 0 | Empty registry bootstrap for purrdf-ed25519; use the functional release |
 
 ## Data source
 

@@ -1,0 +1,15 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T07:21:43.660498Z,marc21-parser,0.1.0,0,0,,"A parser for MARC21 Format for Bibliographic Data that is lazy, zero-copy, zero-allocation and const"
+2026-10-01T07:22:42.022432Z,miden-usdcx-genesis,0.0.0,0,0,https://github.com/0xMiden/node,Placeholder crate for a Miden node project
+2026-10-01T07:23:44.667519Z,ripmarc,0.1.0,0,0,,CLI MARC21 File Reader
+2026-10-01T07:44:22.171005Z,wasmer-package-sdk,7.5.0-rc.2,0,0,https://github.com/wasmerio/wasmer,The Wasmer Package SDK - provides Wasmer and Wasmer Edge related functionality.
+2026-10-01T07:45:20.881401Z,miden-node-persistence,0.17.0-rc.4,0,0,https://github.com/0xMiden/node,Protobuf persistence codecs for Miden node
+2026-10-01T07:52:20.660671Z,tuff-console,0.14.0,0,0,https://github.com/kannandreams/tuff,Console server for Tuff: stores project reports in SQLite and serves them over HTTP.
+2026-10-01T07:59:42.71429Z,slot-list,0.1.0,0,0,https://github.com/ccicnce113424/slot-list,"A doubly linked list over a contiguous slot arena, with stable O(1) slot handles, element-level cursors, three configurable memory layouts, and no_std support."
+2026-10-01T08:00:08.68357Z,mcp-aegis,0.1.0,0,0,https://github.com/rasmsnall/aegis,Information-flow firewall for AI agent tool calls (MCP proxy with taint tracking)
+2026-10-01T08:12:00.132857Z,purrdf-hash,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrdf,Empty registry bootstrap for purrdf-hash; use the functional release
+2026-10-01T08:12:02.418599Z,purrdf-stack,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrdf,Empty registry bootstrap for purrdf-stack; use the functional release
+2026-10-01T08:12:04.406521Z,purrdf-lex,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrdf,Empty registry bootstrap for purrdf-lex; use the functional release
+2026-10-01T08:12:06.609937Z,purrdf-jsonschema,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrdf,Empty registry bootstrap for purrdf-jsonschema; use the functional release
+2026-10-01T08:12:08.814141Z,purrdf-deflate,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrdf,Empty registry bootstrap for purrdf-deflate; use the functional release
+2026-10-01T08:17:05.35691Z,purrdf-ed25519,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrdf,Empty registry bootstrap for purrdf-ed25519; use the functional release
