@@ -1,0 +1,55 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T21:24:31.559485Z,datalove-datafun-lower,0.1.0,0,0,https://github.com/brson/datalove,Lowering datafun syntax to SSA IR.
+2026-10-01T21:29:40.300607Z,maryml-cubecl-opt,0.10.0,0,0,https://github.com/erlkonig-ai/cubecl,Compiler optimizations for CubeCL
+2026-10-01T21:34:01.222624Z,secantus-mdb,0.0.0,0,0,https://github.com/jdrumgoole/SecantusDB,Reserved for SecantusDB: the SecantusDB Rust MongoDB server (library + the secantusd-rs binary). Not yet released; see the repository.
+2026-10-01T21:34:04.532558Z,secantus-pg,0.0.0,0,0,https://github.com/jdrumgoole/SecantusDB,Reserved for SecantusDB: the SecantusDB Rust PostgreSQL server (library + the secantusd-pg binary). Not yet released; see the repository.
+2026-10-01T21:34:07.830136Z,secantus-wiredtiger-sys,0.0.0,0,0,https://github.com/jdrumgoole/SecantusDB,Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not yet released; see the repository.
+2026-10-01T21:34:11.033024Z,secantus-wt,0.0.0,0,0,https://github.com/jdrumgoole/SecantusDB,Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not yet released; see the repository.
+2026-10-01T21:34:12.54738Z,secantus-core,0.0.0,0,0,https://github.com/jdrumgoole/SecantusDB,Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not yet released; see the repository.
+2026-10-01T21:34:34.384119Z,datalove-datafun-ownership,0.1.0,0,0,https://github.com/brson/datalove,Ownership and liveness analysis for datafun.
+2026-10-01T21:35:41.707617Z,fshell-ls,0.2.0,0,0,https://github.com/FraSharp/fshell,Git-aware ls library for fshell
+2026-10-01T21:35:42.778989Z,fshell-render,0.2.0,0,0,https://github.com/FraSharp/fshell,Miette-based error rendering for fshell
+2026-10-01T21:35:44.182309Z,fshell-terminal,0.2.0,0,0,https://github.com/FraSharp/fshell,Terminal runtime boundary for fshell interactive interfaces
+2026-10-01T21:35:48.123913Z,fshell-engine,0.2.0,0,0,https://github.com/FraSharp/fshell,Evaluator and pipeline executor for fshell
+2026-10-01T21:35:50.582609Z,fshell-posix,0.2.0,0,0,https://github.com/FraSharp/fshell,POSIX compatibility engine for fshell — polyglot substrate with dual-stream execution
+2026-10-01T21:36:26.059354Z,loqui-audio,0.1.0,0,0,https://github.com/Awakened-Labs/loqui,"Audio for loqui: WAV, FLAC, Ogg Opus and raw PCM out (MP3 behind a feature); common containers in, resampled for Whisper. Pure Rust."
+2026-10-01T21:36:28.653451Z,loqui-g2p,0.1.0,0,0,https://github.com/Awakened-Labs/loqui,GPL-free English grapheme-to-phoneme for Kokoro: misaki lexicons plus an embedded neural fallback.
+2026-10-01T21:36:29.901424Z,loqui-whisper,0.1.0,0,0,https://github.com/Awakened-Labs/loqui,"Whisper speech-to-text for loqui, on whisper.cpp."
+2026-10-01T21:36:30.607908Z,loqui-kokoro,0.1.0,0,0,https://github.com/Awakened-Labs/loqui,"Kokoro-82M text-to-speech on ONNX Runtime, fed by loqui-g2p. GPL-free."
+2026-10-01T21:36:31.220685Z,loqui,0.1.0,0,0,https://github.com/Awakened-Labs/loqui,"Local speech for Rust: Kokoro text-to-speech and Whisper speech-to-text, in process, with no network listener."
+2026-10-01T21:36:38.599259Z,xpathify,0.1.0-a1,0,0,,CSS selector to XPath 1.0 converter.
+2026-10-01T21:40:32.26538Z,santati,0.1.0,0,0,https://github.com/jamescarr/santati-sdks,Official Rust SDK for the Santati audit-log API
+2026-10-01T21:41:03.918724Z,maryml-cubecl-cpp,0.10.0,0,0,https://github.com/erlkonig-ai/cubecl,CPP transpiler for CubeCL
+2026-10-01T21:44:25.953244Z,secantus-auth,0.0.0,0,0,https://github.com/jdrumgoole/SecantusDB,Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not yet released; see the repository.
+2026-10-01T21:44:30.346697Z,datalove-datafun-resolve,0.1.0,0,0,https://github.com/brson/datalove,Name resolution for datafun.
+2026-10-01T21:44:32.943613Z,loqui-server,0.1.0,0,0,https://github.com/Awakened-Labs/loqui,"A safe-by-default OpenAI-compatible speech server for loqui: Unix socket first, tokens always, no browsers."
+2026-10-01T21:44:33.487334Z,typptx,0.1.0,0,0,https://github.com/rice8y/typptx,Export Typst documents to structurally editable PowerPoint presentations
+2026-10-01T21:48:21.592406Z,kcode-k1-chat-thread-rust-code-state,0.1.0,0,0,,Encode durable selector state for K1 chat RustCode
+2026-10-01T21:52:43.539136Z,maryml-cubecl-spirv,0.10.0,0,0,https://github.com/erlkonig-ai/cubecl,SPIR-V compiler for CubeCL
+2026-10-01T21:52:44.615617Z,maryml-cubecl-std,0.10.0,0,0,https://github.com/erlkonig-ai/cubecl,CubeCL Standard Library.
+2026-10-01T21:54:31.393098Z,datalove-datafun-tycheck,0.1.0,0,0,https://github.com/brson/datalove,A typechecker for datafun.
+2026-10-01T21:54:39.483712Z,secantus-wire,0.0.0,0,0,https://github.com/jdrumgoole/SecantusDB,Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not yet released; see the repository.
+2026-10-01T21:55:22.425872Z,loqui-cli,0.1.0,0,0,https://github.com/Awakened-Labs/loqui,"The loqui command: serve, speak, transcribe, manage tokens, check exposure."
+2026-10-01T21:56:36.382815Z,bluepencil-core,0.1.0,0,0,https://github.com/writerslogic/bluepencil,"Text analysis engine for bluepencil, the prose toolkit for writers"
+2026-10-01T22:04:04.810106Z,maryml-cubecl-cpu,0.10.0,0,0,https://github.com/erlkonig-ai/cubecl,CPU runtime for CubeCL
+2026-10-01T22:04:53.087532Z,secantus-commands,0.0.0,0,0,https://github.com/jdrumgoole/SecantusDB,Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not yet released; see the repository.
+2026-10-01T22:04:59.674352Z,bluepencil,0.1.0,0,0,https://github.com/writerslogic/bluepencil,"Prose analysis for writers: echoes, repeats, rhythm, dialogue, readability, and more"
+2026-10-01T22:05:15.078469Z,morphing-string,0.1.0,0,0,https://github.com/goodhoko/morphing-string,"Morph one string into another, one edit at a time."
+2026-10-01T22:05:43.917685Z,orig,0.0.0,0,0,https://github.com/kossnocorp/orig,Orig CLI
+2026-10-01T22:07:52.104402Z,bluepencil-lsp,0.1.0,0,0,https://github.com/writerslogic/bluepencil,"Language server for bluepencil: echoes, passive voice, clichés, and more as editor diagnostics"
+2026-10-01T22:09:43.118439Z,fNET,0.1.0,0,0,https://github.com/valeria-org/fNET,"An allocation-free, iced-style .NET CIL and Mono extension disassembler"
+2026-10-01T22:10:34.994754Z,rust-ascend-compiler,0.1.0,0,0,https://github.com/shuqi2077/rust-ascend,Common Rust kernel IR to Ascend CCE compiler
+2026-10-01T22:10:48.40366Z,rust-ascend-kernels,0.1.0,0,0,https://github.com/shuqi2077/rust-ascend,Rust-authored Ascend BF16 device programs and instruction lowering
+2026-10-01T22:10:53.926652Z,rust-ascend-driver,0.1.0,0,0,https://github.com/shuqi2077/rust-ascend,Dynamically loaded AscendCL and ACLNN interfaces with native kernel execution
+2026-10-01T22:11:01.756978Z,rust-ascend,0.1.0,0,0,https://github.com/shuqi2077/rust-ascend,"Rust Ascend CANN runtime, common-IR compiler and device kernels"
+2026-10-01T22:12:43.062557Z,glide-logger,0.1.0,0,0,,Logging for Valkey GLIDE. This crate isn't intended to be used directly.
+2026-10-01T22:14:09.974062Z,kcode-k1-web-code-source-selection,0.1.0,0,0,,Select published and unpublished K1 Web code sources
+2026-10-01T22:15:06.605072Z,secantus-server,0.0.0,0,0,https://github.com/jdrumgoole/SecantusDB,Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not yet released; see the repository.
+2026-10-01T22:15:33.453384Z,maryml-cubecl-cuda,0.10.0,0,0,https://github.com/erlkonig-ai/cubecl,CUDA runtime for CubeCL
+2026-10-01T22:16:48.436648Z,ocre,0.1.0,0,0,https://github.com/tgeselle/ocre.rs,"Rails-like Rust web framework for Cloudflare Workers, deployable on the free plan."
+2026-10-01T22:16:50.786318Z,ocre-cli,0.1.0,0,0,https://github.com/tgeselle/ocre.rs,"Command-line tool for Ocre: create, generate, migrate, run and deploy apps."
+2026-10-01T22:18:02.766661Z,groundstation-schema,0.1.2,0,0,https://github.com/groundstationhq/groundstation,"groundstation.telemetry.v0: event types, attribute names and the adapter trait"
+2026-10-01T22:18:04.880827Z,groundstation-hooks-json,0.1.2,0,0,https://github.com/groundstationhq/groundstation,Edits agent hook configs in the hooks.json shape shared by Claude Code and Codex
+2026-10-01T22:18:07.980921Z,groundstation-adapter-claude-code,0.1.2,0,0,https://github.com/groundstationhq/groundstation,Ground Station adapter for Claude Code: hook installation and telemetry normalization
+2026-10-01T22:18:10.161687Z,groundstation-adapter-codex,0.1.2,0,0,https://github.com/groundstationhq/groundstation,Ground Station adapter for OpenAI Codex: hook installation and telemetry normalization
+2026-10-01T22:18:11.389269Z,groundstation-adapter-opencode,0.1.2,0,0,https://github.com/groundstationhq/groundstation,Ground Station adapter for OpenCode v2: plugin installation and event normalization
