@@ -8,33 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 10:19 UTC
+## Latest list — 2026-10-01 11:20 UTC
 
-New crates published between 2026-10-01 09:19 UTC and 2026-10-01 10:19 UTC.
+New crates published between 2026-10-01 10:19 UTC and 2026-10-01 11:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-01T10-19-39-83645Z.csv)
+[Full CSV](data/new-crates-2026-10-01T11-20-06-140158Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-01 09:19:27 | [nexus-raw](https://crates.io/crates/nexus-raw) | 0.1.0 | 0 | nxr: CLI for Nexus raw storage — claim, sha-siblings, symmetric diff, resume |
-| 2026-10-01 09:19:35 | [backbone-edi](https://crates.io/crates/backbone-edi) | 0.7.21 | 0 | Backbone Framework EDI module — B2B document interchange (trading partners and… |
-| 2026-10-01 09:21:01 | [hoff](https://crates.io/crates/hoff) | 0.0.1 | 0 | Hoff Research namespace. Placeholder crate, the real thing lands here later. |
-| 2026-10-01 09:21:03 | [hoffresearch](https://crates.io/crates/hoffresearch) | 0.0.1 | 0 | Hoff Research namespace. Placeholder crate, the real thing lands here later. |
-| 2026-10-01 09:21:05 | [brenner](https://crates.io/crates/brenner) | 0.0.1 | 0 | Brenner Cruvinel namespace. Placeholder crate, the real thing lands here later. |
-| 2026-10-01 09:21:08 | [brennercruvinel](https://crates.io/crates/brennercruvinel) | 0.0.1 | 0 | Brenner Cruvinel namespace. Placeholder crate, the real thing lands here later. |
-| 2026-10-01 09:21:17 | [skilj-bridge](https://crates.io/crates/skilj-bridge) | 0.0.9 | 0 | The skilj REST client side the message-broker bridges (skilj-kafka/skilj-amqp/s… |
-| 2026-10-01 09:21:43 | [backbone-subscription](https://crates.io/crates/backbone-subscription) | 0.3.26 | 0 | Recurring/subscription billing: owns subscription plans, recurrence schedules,… |
-| 2026-10-01 09:22:42 | [logdelta](https://crates.io/crates/logdelta) | 0.2.1 | 0 | Diff logs by meaning, not by bytes. See what's new in the failing run. |
-| 2026-10-01 09:23:22 | [backbone-announcements](https://crates.io/crates/backbone-announcements) | 0.1.6 | 0 | HR broadcast announcements with audience targeting, publish window and read tra… |
-| 2026-10-01 09:45:19 | [tokio-rustls-jls](https://crates.io/crates/tokio-rustls-jls) | 0.1.0 | 0 | Asynchronous TLS/SSL streams for Tokio using Rustls. |
-| 2026-10-01 09:51:45 | [zk-encryption](https://crates.io/crates/zk-encryption) | 0.1.5 | 0 | Post-quantum encrypted channel for ZK pipelines, the wallet side: the receiver'… |
-| 2026-10-01 09:56:06 | [broccoli-rs](https://crates.io/crates/broccoli-rs) | 2.0.1 | 0 | Orthology inference combining phylogenies and network analysis |
-| 2026-10-01 10:00:41 | [virtx](https://crates.io/crates/virtx) | 0.1.0 | 0 | Run tasks in disposable Linux VMs from your own code: the environment an agent… |
-| 2026-10-01 10:00:43 | [tauri-kit-webview](https://crates.io/crates/tauri-kit-webview) | 0.8.0 | 0 | The web view runtime under a desktop app's window: say in the person's language… |
-| 2026-10-01 10:07:24 | [termpane](https://crates.io/crates/termpane) | 0.1.0 | 0 | Deterministic terminal screen-state emulator: a VT-parsed cell grid with typed… |
-| 2026-10-01 10:08:35 | [inorbithr](https://crates.io/crates/inorbithr) | 0.0.0 | 0 | Reserved for the official InOrbit SDK. Not released yet; contains no code. |
-| 2026-10-01 10:08:48 | [sqzer-rav1d](https://crates.io/crates/sqzer-rav1d) | 0.1.0 | 0 | rav1d, the Rust port of the dav1d AV1 decoder, at upstream main d3d1cd6 with it… |
-| 2026-10-01 10:08:55 | [zk-encryption-circuits](https://crates.io/crates/zk-encryption-circuits) | 0.1.5 | 0 | Post-quantum encrypted channel for ZK pipelines, the circuit layer: the session… |
+| 2026-10-01 10:22:13 | [ring_handle](https://crates.io/crates/ring_handle) | 0.1.0 | 0 | Shareable producer and consumer ends |
+| 2026-10-01 10:22:33 | [ring_tls](https://crates.io/crates/ring_tls) | 0.1.0 | 0 | Thread-local staging buffers ahead of a ring flush |
+| 2026-10-01 10:22:53 | [ring_flush](https://crates.io/crates/ring_flush) | 0.1.0 | 0 | Flush policies deciding when thread-local staging reaches the ring |
+| 2026-10-01 10:27:19 | [rs-chaos](https://crates.io/crates/rs-chaos) | 0.1.0 | 0 | Async fault-injection testing middleware for reqwest clients |
+| 2026-10-01 10:37:34 | [eid-circuits](https://crates.io/crates/eid-circuits) | 0.8.3 | 0 | The identity layer for noir-zk pipelines: eid-circuits' frozen DSC, SOD and doc… |
+| 2026-10-01 10:42:30 | [kcode-k1-daemon-code-services](https://crates.io/crates/kcode-k1-daemon-code-services) | 0.1.0 | 0 | Open the daemon's process-owned RustCode and WebCode services |
+| 2026-10-01 10:50:35 | [silence-split](https://crates.io/crates/silence-split) | 0.1.0 | 0 | Split long PCM audio into pieces at silence without exceeding a maximum length |
+| 2026-10-01 10:52:38 | [zerocbor_derive](https://crates.io/crates/zerocbor_derive) | 0.1.0 | 0 | proc-macro crate for zerocbor |
+| 2026-10-01 10:52:41 | [zerocbor](https://crates.io/crates/zerocbor) | 0.1.0 | 0 | A zero-copy, zero-dependency, no_std-compatible, extremely fast CBOR (RFC 8949)… |
+| 2026-10-01 10:55:00 | [typr-graph](https://crates.io/crates/typr-graph) | 0.6.0 | 0 | Builds a hierarchical block-graph view of a TypR program (see visualization_gra… |
+| 2026-10-01 10:55:14 | [bobr-bundle-launcher](https://crates.io/crates/bobr-bundle-launcher) | 0.1.10 | 0 | Static launcher for programs packaged in a bobr HostBundle. |
+| 2026-10-01 10:55:34 | [emit-protocol](https://crates.io/crates/emit-protocol) | 0.1.0 | 0 | The Emit V2 protocol's values: the 32-byte commitments, the note math (commitme… |
+| 2026-10-01 10:56:12 | [emit-protocol-abi](https://crates.io/crates/emit-protocol-abi) | 0.1.0 | 0 | The Emit V2 pool contract for alloy: EmitV2Pool's bindings (calls, events, depl… |
+| 2026-10-01 10:56:54 | [emit-circuits](https://crates.io/crates/emit-circuits) | 0.1.0 | 0 | The Emit V2 protocol's circuits: its emit and identity-cache apps frozen as a n… |
+| 2026-10-01 10:57:38 | [one-byte-card](https://crates.io/crates/one-byte-card) | 0.0.1 | 0 | Compact playing-card encoding in one byte with a 2-bit state |
+| 2026-10-01 10:57:49 | [bobr-repo](https://crates.io/crates/bobr-repo) | 0.1.10 | 0 | Remote repository format, client, and publisher for bobr. |
+| 2026-10-01 10:58:17 | [backbone-billing](https://crates.io/crates/backbone-billing) | 0.8.25 | 0 | Billing: region-neutral AR/AP invoicing (Sales + Purchase Invoice) -> Accountin… |
+| 2026-10-01 10:59:01 | [backbone-communication](https://crates.io/crates/backbone-communication) | 0.5.16 | 0 | Threaded internal messaging: message threads and messages |
+| 2026-10-01 10:59:34 | [backbone-corpus](https://crates.io/crates/backbone-corpus) | 0.2.15 | 0 | Support-anchored knowledge base: Article + ArticleCategory + ArticleLink (polym… |
+| 2026-10-01 11:00:36 | [pictogram-icons-iconoir](https://crates.io/crates/pictogram-icons-iconoir) | 0.4.0 | 0 | Iconoir icons export for pictogram |
+| 2026-10-01 11:00:40 | [pictogram-icons-phosphor](https://crates.io/crates/pictogram-icons-phosphor) | 0.4.0 | 0 | Phosphor icons export for pictogram |
+| 2026-10-01 11:01:15 | [backbone-employee](https://crates.io/crates/backbone-employee) | 0.2.45 | 0 | the people master — identity, employment lifecycle, payroll identity, dependents |
+| 2026-10-01 11:02:04 | [backbone-cmms](https://crates.io/crates/backbone-cmms) | 0.7.22 | 0 | Maintenance management (CMMS): maintenance requests and stages, preventive sche… |
+| 2026-10-01 11:03:31 | [bobr-vm](https://crates.io/crates/bobr-vm) | 0.0.1 | 0 | Early executable placeholder for Bobr virtual-machine support. |
+| 2026-10-01 11:03:37 | [backbone-payment](https://crates.io/crates/backbone-payment) | 0.11.29 | 0 | Settlement & reconciliation — payment entries, allocation, modes of payment; 4t… |
+| 2026-10-01 11:09:23 | [http1_kyber1024](https://crates.io/crates/http1_kyber1024) | 1.0.0 | 0 | HTTP1.1 proxy of Kyber1024 and 3-AES-256 to mitigate replay attack |
+| 2026-10-01 11:10:12 | [backbone-banking](https://crates.io/crates/backbone-banking) | 0.6.23 | 0 | Cash & bank — bank/account master, statement import, reconciliation, and cleari… |
+| 2026-10-01 11:10:53 | [anymd-oar-ocr-vl](https://crates.io/crates/anymd-oar-ocr-vl) | 0.9.2 | 0 | OAR OCR VL with bounded decoding and experimental CPU quantization for anymd |
+| 2026-10-01 11:13:33 | [anymd-ocr-vlm](https://crates.io/crates/anymd-ocr-vlm) | 8.3.0 | 0 | Local document OCR with PaddleOCR-VL and PP-DocLayout on Candle |
 
 ## Data source
 

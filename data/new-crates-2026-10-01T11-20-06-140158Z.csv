@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T10:22:13.766598Z,ring_handle,0.1.0,0,0,https://github.com/Wandalen/ring,Shareable producer and consumer ends
+2026-10-01T10:22:33.233924Z,ring_tls,0.1.0,0,0,https://github.com/Wandalen/ring,Thread-local staging buffers ahead of a ring flush
+2026-10-01T10:22:53.025059Z,ring_flush,0.1.0,0,0,https://github.com/Wandalen/ring,Flush policies deciding when thread-local staging reaches the ring
+2026-10-01T10:27:19.836483Z,rs-chaos,0.1.0,0,0,https://github.com/sodrooome/rs-chaos,Async fault-injection testing middleware for reqwest clients
+2026-10-01T10:37:34.617542Z,eid-circuits,0.8.3,0,0,https://github.com/zk-experiments/eid-circuits,"The identity layer for noir-zk pipelines: eid-circuits' frozen DSC, SOD and document steps as a layered registry (families eid/dsc, eid/sod, eid/document with their roots and typed bindings), proven…"
+2026-10-01T10:42:30.606439Z,kcode-k1-daemon-code-services,0.1.0,0,0,,Open the daemon's process-owned RustCode and WebCode services
+2026-10-01T10:50:35.486435Z,silence-split,0.1.0,0,0,https://github.com/emulette/silence-split,Split long PCM audio into pieces at silence without exceeding a maximum length
+2026-10-01T10:52:38.976433Z,zerocbor_derive,0.1.0,0,0,https://github.com/nuskey8/zerocbor,proc-macro crate for zerocbor
+2026-10-01T10:52:41.370172Z,zerocbor,0.1.0,0,0,https://github.com/nuskey8/zerocbor,"A zero-copy, zero-dependency, no_std-compatible, extremely fast CBOR (RFC 8949) serializer for Rust."
+2026-10-01T10:55:00.088024Z,typr-graph,0.6.0,0,0,https://github.com/we-data-ch/typr,Builds a hierarchical block-graph view of a TypR program (see visualization_graph_v2.md)
+2026-10-01T10:55:14.911351Z,bobr-bundle-launcher,0.1.10,0,0,https://github.com/aleksey-makarov/bobr,Static launcher for programs packaged in a bobr HostBundle.
+2026-10-01T10:55:34.275093Z,emit-protocol,0.1.0,0,0,https://github.com/zk-experiments/emit-protocol,"The Emit V2 protocol's values: the 32-byte commitments, the note math (commitments, the refund note, the resolve), the off-chain envelope and its env_commit, and the escrow events — what a wallet, a…"
+2026-10-01T10:56:12.92375Z,emit-protocol-abi,0.1.0,0,0,https://github.com/zk-experiments/emit-protocol,"The Emit V2 pool contract for alloy: EmitV2Pool's bindings (calls, events, deploy from its bytecode) generated from the forge artifact of emit-protocol's contracts, and its escrow events as emit-prot…"
+2026-10-01T10:56:54.132726Z,emit-circuits,0.1.0,0,0,https://github.com/zk-experiments/emit-protocol,"The Emit V2 protocol's circuits: its emit and identity-cache apps frozen as a noir-zk registry (emit-protocol), eid-circuits' identity layer and zk-encryption's channel layer wrapped, the pipelines,…"
+2026-10-01T10:57:38.988004Z,one-byte-card,0.0.1,0,0,https://github.com/rostislavnagimov/one-byte-card,Compact playing-card encoding in one byte with a 2-bit state
+2026-10-01T10:57:49.712385Z,bobr-repo,0.1.10,0,0,https://github.com/aleksey-makarov/bobr,"Remote repository format, client, and publisher for bobr."
+2026-10-01T10:58:17.816513Z,backbone-billing,0.8.25,0,0,https://github.com/faridlab/backbone-billing,Billing: region-neutral AR/AP invoicing (Sales + Purchase Invoice) -> AccountingPost; tax via removable overlay; drives buying.mark_billed via PurchaseInvoicePosted
+2026-10-01T10:59:01.03673Z,backbone-communication,0.5.16,0,0,https://github.com/faridlab/backbone-communication,Threaded internal messaging: message threads and messages
+2026-10-01T10:59:34.651292Z,backbone-corpus,0.2.15,0,0,https://github.com/faridlab/backbone-corpus,Support-anchored knowledge base: Article + ArticleCategory + ArticleLink (polymorphic) + ArticleFeedback — the deflection surface for support/portal
+2026-10-01T11:00:36.496543Z,pictogram-icons-iconoir,0.4.0,0,0,https://github.com/tdymel/pictogram,Iconoir icons export for pictogram
+2026-10-01T11:00:40.044334Z,pictogram-icons-phosphor,0.4.0,0,0,https://github.com/tdymel/pictogram,Phosphor icons export for pictogram
+2026-10-01T11:01:15.268584Z,backbone-employee,0.2.45,0,0,https://github.com/faridlab/backbone-employee,"the people master — identity, employment lifecycle, payroll identity, dependents"
+2026-10-01T11:02:04.802363Z,backbone-cmms,0.7.22,0,0,https://github.com/faridlab/backbone-maintenance,"Maintenance management (CMMS): maintenance requests and stages, preventive schedules and maintenance visits"
+2026-10-01T11:03:31.604288Z,bobr-vm,0.0.1,0,0,https://github.com/aleksey-makarov/bobr-vm,Early executable placeholder for Bobr virtual-machine support.
+2026-10-01T11:03:37.356594Z,backbone-payment,0.11.29,0,0,https://github.com/faridlab/backbone-payment,"Settlement & reconciliation — payment entries, allocation, modes of payment; 4th GL producer (Dr Bank·Cr A/R / Dr A/P·Cr Bank)"
+2026-10-01T11:09:23.281807Z,http1_kyber1024,1.0.0,0,0,,HTTP1.1 proxy of Kyber1024 and 3-AES-256 to mitigate replay attack
+2026-10-01T11:10:12.564869Z,backbone-banking,0.6.23,0,0,https://github.com/faridlab/backbone-banking,"Cash & bank — bank/account master, statement import, reconciliation, and clearing postings (5th GL producer)"
+2026-10-01T11:10:53.73828Z,anymd-oar-ocr-vl,0.9.2,0,0,https://github.com/SylphxAI/anymd,OAR OCR VL with bounded decoding and experimental CPU quantization for anymd
+2026-10-01T11:13:33.16396Z,anymd-ocr-vlm,8.3.0,0,0,https://github.com/SylphxAI/anymd,Local document OCR with PaddleOCR-VL and PP-DocLayout on Candle
