@@ -1,0 +1,58 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T22:19:53.963516Z,gregg-host,1.0.15,0,0,https://github.com/eggstack/gregg,"Native host telemetry acquisition for Gregg: Linux, macOS, Windows, and FreeBSD CPU, memory, drives, disk-I/O, and network with explicit warmup/reset semantics. Runtime-neutral and protocol-neutral."
+2026-10-01T22:20:00.678127Z,kcode-k1-web-code-service-errors,0.1.0,0,0,,Own K1 WebCode service error classification
+2026-10-01T22:25:19.598977Z,secantus-storage,0.0.0,0,0,https://github.com/jdrumgoole/SecantusDB,Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not yet released; see the repository.
+2026-10-01T22:26:47.268997Z,couture,0.0.2,0,0,,Tailored presentations and surfaces.
+2026-10-01T22:26:55.252194Z,maryml-cubecl-hip,0.10.0,0,0,https://github.com/erlkonig-ai/cubecl,AMD ROCm HIP runtime for CubeCL
+2026-10-01T22:27:15.382665Z,dbx-tools-service,0.9.8,0,0,https://github.com/reggie-db/dbx-tools,"Reusable per-user service lifecycle, SQLite state, and companion autostart"
+2026-10-01T22:28:47.343845Z,groundstation-adapter-pi,0.1.2,0,0,https://github.com/groundstationhq/groundstation,Ground Station adapter for pi (pi.dev): extension installation and event normalization
+2026-10-01T22:29:44.603523Z,browserman,0.1.0-a1,0,0,,Cross-platform browser detection and launcher. A Rust port of the Python library pybrowsers.
+2026-10-01T22:30:42.052212Z,eggchaos-experiment,0.2.0,0,0,https://github.com/eggstack/eggchaos,Consumer-neutral deterministic experiment harness for eggchaos
+2026-10-01T22:31:54.61936Z,eggchaos-protocol,0.2.0,0,0,https://github.com/eggstack/eggchaos,Stable native /v1 wire contract for eggchaos (no runtime)
+2026-10-01T22:32:55.206359Z,mof,1.0.2+spec-2.1,0,0,https://gitlab.wasp.best/my-awesome-group/mof-rs,reference implementation of the modular object format
+2026-10-01T22:34:51.422145Z,eggchaos-embed,0.2.0,0,0,https://github.com/eggstack/eggchaos,Safe coarse embedding facade over the eggchaos runtime authorities
+2026-10-01T22:35:33.177637Z,secantus-storage-adapter,0.0.0,0,0,https://github.com/jdrumgoole/SecantusDB,Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not yet released; see the repository.
+2026-10-01T22:36:50.791255Z,datalove-datafun-compiler,0.1.0,0,0,https://github.com/brson/datalove,"The datafun compiler, as one crate over its passes."
+2026-10-01T22:36:51.584857Z,datalove-rider-sys-std,0.1.0,0,0,https://github.com/brson/datalove,Native functions for the datalove sys/std package.
+2026-10-01T22:36:52.792044Z,datalove-datafun,0.1.0,0,0,https://github.com/brson/datalove,The datafun language: compiling and running it.
+2026-10-01T22:36:55.105505Z,datalove-sys-packages,0.1.0,0,0,https://github.com/brson/datalove,"The datalove system package library, carried inside the binary."
+2026-10-01T22:37:15.051571Z,kcode-k1-chat-thread-rust-code-history-testkit,0.1.0,0,0,,Acceptance fixtures for selector-aware K1 RustCode history recovery
+2026-10-01T22:38:23.325707Z,maryml-cubecl-wgpu,0.10.0,0,0,https://github.com/erlkonig-ai/cubecl,WGPU runtime for the CubeCL
+2026-10-01T22:39:10.201843Z,gsd,0.1.2,0,0,https://github.com/groundstationhq/groundstation,"Ground Station local daemon: ingests, redacts, stores and serves agent telemetry"
+2026-10-01T22:41:06.833636Z,fshell-sandbox,0.2.0,0,0,https://github.com/FraSharp/fshell,Landlock and SBPL sandboxing for fshell
+2026-10-01T22:41:08.121716Z,fshell-semantic,0.2.0,0,0,https://github.com/FraSharp/fshell,Shell-independent semantic action layer for fshell
+2026-10-01T22:41:10.906886Z,fshell-bridge,0.2.0,0,0,https://github.com/FraSharp/fshell,External process fallback and glob for fshell
+2026-10-01T22:41:12.570604Z,fshell-builtins,0.2.0,0,0,https://github.com/FraSharp/fshell,Builtins for fshell (~117 commands)
+2026-10-01T22:41:15.85944Z,fshell-repl,0.2.0,0,0,https://github.com/FraSharp/fshell,Native FTUI REPL for fshell
+2026-10-01T22:43:03.569451Z,skia-engine-core,0.1.1,0,0,https://github.com/dip-land/skia-engine,Core crate for skia-engine
+2026-10-01T22:43:05.420278Z,skia-engine-macro,0.1.1,0,0,https://github.com/dip-land/skia-engine,Macros for skia-engine
+2026-10-01T22:43:07.110429Z,skia-engine,0.1.1,0,0,https://github.com/dip-land/skia-engine,Easier Skia manipulation in rust
+2026-10-01T22:44:23.481039Z,datalove-repl,0.1.0,0,0,https://github.com/brson/datalove,The datalove REPL evaluation engine.
+2026-10-01T22:44:44.438107Z,spr-reader,0.2.0,0,0,https://github.com/Javier-Romario/SPR-Reader,Terminal speed reader with Spritz-style focus point highlighting
+2026-10-01T22:45:47.715193Z,secantus-pgcatalog,0.0.0,0,0,https://github.com/jdrumgoole/SecantusDB,Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not yet released; see the repository.
+2026-10-01T22:49:30.417404Z,groundstation,0.1.2,0,0,https://github.com/groundstationhq/groundstation,"Ground Station CLI: connect agents, run the local daemon, inspect trajectories"
+2026-10-01T22:49:54.35302Z,maryml-cubecl,0.10.0,0,0,https://github.com/erlkonig-ai/cubecl,Multi-platform high-performance compute language extension for Rust.
+2026-10-01T22:53:14.732129Z,speedticket,0.1.0,0,0,https://github.com/wcgw/speedticket,"A sharded, finite-budget semaphore: per-thread shards with lock-free, bounded stealing"
+2026-10-01T22:54:25.809015Z,datalove-repl-rat,0.1.0,0,0,https://github.com/brson/datalove,"A terminal REPL for datalove, in Ratatui."
+2026-10-01T22:55:21.14708Z,kcode-k1-web-code-service-testkit,0.1.0,0,0,,Stateful conformance for the persistent K1 WebCode service
+2026-10-01T22:56:02.15958Z,secantus-pgplan,0.0.0,0,0,https://github.com/jdrumgoole/SecantusDB,Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not yet released; see the repository.
+2026-10-01T22:59:11.645936Z,fshell,0.2.0,0,0,https://github.com/FraSharp/fshell,A modern shell
+2026-10-01T23:00:13.371317Z,rob-proto,0.1.2,0,0,https://github.com/geoffsee/oci-builder,Length-prefixed frames between a macOS host and the Linux oci-builder guest
+2026-10-01T23:01:32.73949Z,maryml-burn-std,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Core types and utilities shared across the Burn ecosystem.
+2026-10-01T23:01:44.827191Z,cargo-dbapp,0.1.0,0,0,https://github.com/AronDerenyi/cargo-dbapp,builds and bundles the project as databricks app
+2026-10-01T23:04:26.033657Z,datalove-worldgen,0.1.0,0,0,https://github.com/brson/datalove,A worldfile generator for datafun.
+2026-10-01T23:04:47.335733Z,scalevec,0.1.0,0,0,https://github.com/samgwise/scalevec-rs,"A flexible music representation system: scales, chords and rhythms as period-wrapping numeric vectors, with Scala .scl import/export support"
+2026-10-01T23:06:16.415843Z,secantus-pgserver,0.0.0,0,0,https://github.com/jdrumgoole/SecantusDB,Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not yet released; see the repository.
+2026-10-01T23:07:00.270806Z,warren-container,0.2.1,0,0,https://github.com/pyrevoid15/warren,A data structure made for fast reuse of space and fast iteration over active entries.
+2026-10-01T23:07:53.200193Z,zfvm,0.1.0,0,0,https://gitlab.com/zillowe/zillowex/akuolwa/zfvm,A Rust implementation of the Zillowe Foundation Versioning Method (ZFVM).
+2026-10-01T23:07:55.494674Z,zfvm-cli,0.1.0,0,0,https://gitlab.com/zillowe/zillowex/akuolwa/zfvm,Command line tool for the Zillowe Foundation Versioning Method
+2026-10-01T23:12:59.743162Z,maryml-burn-backend,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Core backend interfaces and data structures for executing tensor operations in Burn.
+2026-10-01T23:13:01.056939Z,maryml-burn-dataset,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Library with simple dataset APIs for creating ML data pipelines
+2026-10-01T23:14:21.383795Z,ttk-core,2.1.0,0,0,https://github.com/Lanetus/TTKServer,"RA-TLS HTTP/3 (QUIC) attested server library for TEEs (AWS Nitro, AMD SEV-SNP, Intel TDX) with RFC 9711 EAT evidence"
+2026-10-01T23:14:23.360468Z,ttk-client,2.1.0,0,0,https://github.com/Lanetus/TTKServer,"RA-TLS HTTP/3 (QUIC) client and TEE evidence verifier for TTKServer nodes, with onion-sealed /faf requests"
+2026-10-01T23:14:25.249175Z,ttk-relay,2.1.0,0,0,https://github.com/Lanetus/TTKServer,"TTKServer relay node: an attested enclave server forwarding onion-routed /faf requests, plus the parent-instance vsock proxy"
+2026-10-01T23:14:25.672126Z,ttk-terminal,2.1.0,0,0,https://github.com/Lanetus/TTKServer,TTKServer terminal node: an attested enclave server that is the last hop of onion-routed /faf requests
+2026-10-01T23:16:30.772574Z,secantus-pgwire,0.0.0,0,0,https://github.com/jdrumgoole/SecantusDB,Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not yet released; see the repository.
+2026-10-01T23:18:58.640167Z,source_sdk_2013_raw,0.1.0-alpha.4,0,0,https://github.com/Cryotheus/rust_source_sdk_2013,Low-level module inspection utilities for Source engine integrations.
+2026-10-01T23:18:59.369878Z,source_sdk_2013_sys_x64_linux,0.1.0-alpha.4,0,0,https://github.com/Cryotheus/rust_source_sdk_2013,Low-level bindings for the Source SDK on x86-64 Linux.
+2026-10-01T23:19:00.384029Z,source_sdk_2013_sys_x64_windows,0.1.0-alpha.4,0,0,https://github.com/Cryotheus/rust_source_sdk_2013,Low-level bindings for the Source SDK on x86-64 Windows.

@@ -8,68 +8,71 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 22:18 UTC
+## Latest list — 2026-10-01 23:19 UTC
 
-New crates published between 2026-10-01 21:21 UTC and 2026-10-01 22:18 UTC.
+New crates published between 2026-10-01 22:18 UTC and 2026-10-01 23:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-01T22-18-35-4816Z.csv)
+[Full CSV](data/new-crates-2026-10-01T23-19-39-364243Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-01 21:24:31 | [datalove-datafun-lower](https://crates.io/crates/datalove-datafun-lower) | 0.1.0 | 0 | Lowering datafun syntax to SSA IR. |
-| 2026-10-01 21:29:40 | [maryml-cubecl-opt](https://crates.io/crates/maryml-cubecl-opt) | 0.10.0 | 0 | Compiler optimizations for CubeCL |
-| 2026-10-01 21:34:01 | [secantus-mdb](https://crates.io/crates/secantus-mdb) | 0.0.0 | 0 | Reserved for SecantusDB: the SecantusDB Rust MongoDB server (library + the seca… |
-| 2026-10-01 21:34:04 | [secantus-pg](https://crates.io/crates/secantus-pg) | 0.0.0 | 0 | Reserved for SecantusDB: the SecantusDB Rust PostgreSQL server (library + the s… |
-| 2026-10-01 21:34:07 | [secantus-wiredtiger-sys](https://crates.io/crates/secantus-wiredtiger-sys) | 0.0.0 | 0 | Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not… |
-| 2026-10-01 21:34:11 | [secantus-wt](https://crates.io/crates/secantus-wt) | 0.0.0 | 0 | Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not… |
-| 2026-10-01 21:34:12 | [secantus-core](https://crates.io/crates/secantus-core) | 0.0.0 | 0 | Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not… |
-| 2026-10-01 21:34:34 | [datalove-datafun-ownership](https://crates.io/crates/datalove-datafun-ownership) | 0.1.0 | 0 | Ownership and liveness analysis for datafun. |
-| 2026-10-01 21:35:41 | [fshell-ls](https://crates.io/crates/fshell-ls) | 0.2.0 | 0 | Git-aware ls library for fshell |
-| 2026-10-01 21:35:42 | [fshell-render](https://crates.io/crates/fshell-render) | 0.2.0 | 0 | Miette-based error rendering for fshell |
-| 2026-10-01 21:35:44 | [fshell-terminal](https://crates.io/crates/fshell-terminal) | 0.2.0 | 0 | Terminal runtime boundary for fshell interactive interfaces |
-| 2026-10-01 21:35:48 | [fshell-engine](https://crates.io/crates/fshell-engine) | 0.2.0 | 0 | Evaluator and pipeline executor for fshell |
-| 2026-10-01 21:35:50 | [fshell-posix](https://crates.io/crates/fshell-posix) | 0.2.0 | 0 | POSIX compatibility engine for fshell — polyglot substrate with dual-stream exe… |
-| 2026-10-01 21:36:26 | [loqui-audio](https://crates.io/crates/loqui-audio) | 0.1.0 | 0 | Audio for loqui: WAV, FLAC, Ogg Opus and raw PCM out (MP3 behind a feature); co… |
-| 2026-10-01 21:36:28 | [loqui-g2p](https://crates.io/crates/loqui-g2p) | 0.1.0 | 0 | GPL-free English grapheme-to-phoneme for Kokoro: misaki lexicons plus an embedd… |
-| 2026-10-01 21:36:29 | [loqui-whisper](https://crates.io/crates/loqui-whisper) | 0.1.0 | 0 | Whisper speech-to-text for loqui, on whisper.cpp. |
-| 2026-10-01 21:36:30 | [loqui-kokoro](https://crates.io/crates/loqui-kokoro) | 0.1.0 | 0 | Kokoro-82M text-to-speech on ONNX Runtime, fed by loqui-g2p. GPL-free. |
-| 2026-10-01 21:36:31 | [loqui](https://crates.io/crates/loqui) | 0.1.0 | 0 | Local speech for Rust: Kokoro text-to-speech and Whisper speech-to-text, in pro… |
-| 2026-10-01 21:36:38 | [xpathify](https://crates.io/crates/xpathify) | 0.1.0-a1 | 0 | CSS selector to XPath 1.0 converter. |
-| 2026-10-01 21:40:32 | [santati](https://crates.io/crates/santati) | 0.1.0 | 0 | Official Rust SDK for the Santati audit-log API |
-| 2026-10-01 21:41:03 | [maryml-cubecl-cpp](https://crates.io/crates/maryml-cubecl-cpp) | 0.10.0 | 0 | CPP transpiler for CubeCL |
-| 2026-10-01 21:44:25 | [secantus-auth](https://crates.io/crates/secantus-auth) | 0.0.0 | 0 | Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not… |
-| 2026-10-01 21:44:30 | [datalove-datafun-resolve](https://crates.io/crates/datalove-datafun-resolve) | 0.1.0 | 0 | Name resolution for datafun. |
-| 2026-10-01 21:44:32 | [loqui-server](https://crates.io/crates/loqui-server) | 0.1.0 | 0 | A safe-by-default OpenAI-compatible speech server for loqui: Unix socket first,… |
-| 2026-10-01 21:44:33 | [typptx](https://crates.io/crates/typptx) | 0.1.0 | 0 | Export Typst documents to structurally editable PowerPoint presentations |
-| 2026-10-01 21:48:21 | [kcode-k1-chat-thread-rust-code-state](https://crates.io/crates/kcode-k1-chat-thread-rust-code-state) | 0.1.0 | 0 | Encode durable selector state for K1 chat RustCode |
-| 2026-10-01 21:52:43 | [maryml-cubecl-spirv](https://crates.io/crates/maryml-cubecl-spirv) | 0.10.0 | 0 | SPIR-V compiler for CubeCL |
-| 2026-10-01 21:52:44 | [maryml-cubecl-std](https://crates.io/crates/maryml-cubecl-std) | 0.10.0 | 0 | CubeCL Standard Library. |
-| 2026-10-01 21:54:31 | [datalove-datafun-tycheck](https://crates.io/crates/datalove-datafun-tycheck) | 0.1.0 | 0 | A typechecker for datafun. |
-| 2026-10-01 21:54:39 | [secantus-wire](https://crates.io/crates/secantus-wire) | 0.0.0 | 0 | Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not… |
-| 2026-10-01 21:55:22 | [loqui-cli](https://crates.io/crates/loqui-cli) | 0.1.0 | 0 | The loqui command: serve, speak, transcribe, manage tokens, check exposure. |
-| 2026-10-01 21:56:36 | [bluepencil-core](https://crates.io/crates/bluepencil-core) | 0.1.0 | 0 | Text analysis engine for bluepencil, the prose toolkit for writers |
-| 2026-10-01 22:04:04 | [maryml-cubecl-cpu](https://crates.io/crates/maryml-cubecl-cpu) | 0.10.0 | 0 | CPU runtime for CubeCL |
-| 2026-10-01 22:04:53 | [secantus-commands](https://crates.io/crates/secantus-commands) | 0.0.0 | 0 | Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not… |
-| 2026-10-01 22:04:59 | [bluepencil](https://crates.io/crates/bluepencil) | 0.1.0 | 0 | Prose analysis for writers: echoes, repeats, rhythm, dialogue, readability, and… |
-| 2026-10-01 22:05:15 | [morphing-string](https://crates.io/crates/morphing-string) | 0.1.0 | 0 | Morph one string into another, one edit at a time. |
-| 2026-10-01 22:05:43 | [orig](https://crates.io/crates/orig) | 0.0.0 | 0 | Orig CLI |
-| 2026-10-01 22:07:52 | [bluepencil-lsp](https://crates.io/crates/bluepencil-lsp) | 0.1.0 | 0 | Language server for bluepencil: echoes, passive voice, clichés, and more as edi… |
-| 2026-10-01 22:09:43 | [fNET](https://crates.io/crates/fNET) | 0.1.0 | 0 | An allocation-free, iced-style .NET CIL and Mono extension disassembler |
-| 2026-10-01 22:10:34 | [rust-ascend-compiler](https://crates.io/crates/rust-ascend-compiler) | 0.1.0 | 0 | Common Rust kernel IR to Ascend CCE compiler |
-| 2026-10-01 22:10:48 | [rust-ascend-kernels](https://crates.io/crates/rust-ascend-kernels) | 0.1.0 | 0 | Rust-authored Ascend BF16 device programs and instruction lowering |
-| 2026-10-01 22:10:53 | [rust-ascend-driver](https://crates.io/crates/rust-ascend-driver) | 0.1.0 | 0 | Dynamically loaded AscendCL and ACLNN interfaces with native kernel execution |
-| 2026-10-01 22:11:01 | [rust-ascend](https://crates.io/crates/rust-ascend) | 0.1.0 | 0 | Rust Ascend CANN runtime, common-IR compiler and device kernels |
-| 2026-10-01 22:12:43 | [glide-logger](https://crates.io/crates/glide-logger) | 0.1.0 | 0 | Logging for Valkey GLIDE. This crate isn't intended to be used directly. |
-| 2026-10-01 22:14:09 | [kcode-k1-web-code-source-selection](https://crates.io/crates/kcode-k1-web-code-source-selection) | 0.1.0 | 0 | Select published and unpublished K1 Web code sources |
-| 2026-10-01 22:15:06 | [secantus-server](https://crates.io/crates/secantus-server) | 0.0.0 | 0 | Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not… |
-| 2026-10-01 22:15:33 | [maryml-cubecl-cuda](https://crates.io/crates/maryml-cubecl-cuda) | 0.10.0 | 0 | CUDA runtime for CubeCL |
-| 2026-10-01 22:16:48 | [ocre](https://crates.io/crates/ocre) | 0.1.0 | 0 | Rails-like Rust web framework for Cloudflare Workers, deployable on the free pl… |
-| 2026-10-01 22:16:50 | [ocre-cli](https://crates.io/crates/ocre-cli) | 0.1.0 | 0 | Command-line tool for Ocre: create, generate, migrate, run and deploy apps. |
-| 2026-10-01 22:18:02 | [groundstation-schema](https://crates.io/crates/groundstation-schema) | 0.1.2 | 0 | groundstation.telemetry.v0: event types, attribute names and the adapter trait |
-| 2026-10-01 22:18:04 | [groundstation-hooks-json](https://crates.io/crates/groundstation-hooks-json) | 0.1.2 | 0 | Edits agent hook configs in the hooks.json shape shared by Claude Code and Codex |
-| 2026-10-01 22:18:07 | [groundstation-adapter-claude-code](https://crates.io/crates/groundstation-adapter-claude-code) | 0.1.2 | 0 | Ground Station adapter for Claude Code: hook installation and telemetry normali… |
-| 2026-10-01 22:18:10 | [groundstation-adapter-codex](https://crates.io/crates/groundstation-adapter-codex) | 0.1.2 | 0 | Ground Station adapter for OpenAI Codex: hook installation and telemetry normal… |
-| 2026-10-01 22:18:11 | [groundstation-adapter-opencode](https://crates.io/crates/groundstation-adapter-opencode) | 0.1.2 | 0 | Ground Station adapter for OpenCode v2: plugin installation and event normaliza… |
+| 2026-10-01 22:19:53 | [gregg-host](https://crates.io/crates/gregg-host) | 1.0.15 | 0 | Native host telemetry acquisition for Gregg: Linux, macOS, Windows, and FreeBSD… |
+| 2026-10-01 22:20:00 | [kcode-k1-web-code-service-errors](https://crates.io/crates/kcode-k1-web-code-service-errors) | 0.1.0 | 0 | Own K1 WebCode service error classification |
+| 2026-10-01 22:25:19 | [secantus-storage](https://crates.io/crates/secantus-storage) | 0.0.0 | 0 | Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not… |
+| 2026-10-01 22:26:47 | [couture](https://crates.io/crates/couture) | 0.0.2 | 0 | Tailored presentations and surfaces. |
+| 2026-10-01 22:26:55 | [maryml-cubecl-hip](https://crates.io/crates/maryml-cubecl-hip) | 0.10.0 | 0 | AMD ROCm HIP runtime for CubeCL |
+| 2026-10-01 22:27:15 | [dbx-tools-service](https://crates.io/crates/dbx-tools-service) | 0.9.8 | 0 | Reusable per-user service lifecycle, SQLite state, and companion autostart |
+| 2026-10-01 22:28:47 | [groundstation-adapter-pi](https://crates.io/crates/groundstation-adapter-pi) | 0.1.2 | 0 | Ground Station adapter for pi (pi.dev): extension installation and event normal… |
+| 2026-10-01 22:29:44 | [browserman](https://crates.io/crates/browserman) | 0.1.0-a1 | 0 | Cross-platform browser detection and launcher. A Rust port of the Python librar… |
+| 2026-10-01 22:30:42 | [eggchaos-experiment](https://crates.io/crates/eggchaos-experiment) | 0.2.0 | 0 | Consumer-neutral deterministic experiment harness for eggchaos |
+| 2026-10-01 22:31:54 | [eggchaos-protocol](https://crates.io/crates/eggchaos-protocol) | 0.2.0 | 0 | Stable native /v1 wire contract for eggchaos (no runtime) |
+| 2026-10-01 22:32:55 | [mof](https://crates.io/crates/mof) | 1.0.2+spec-2.1 | 0 | reference implementation of the modular object format |
+| 2026-10-01 22:34:51 | [eggchaos-embed](https://crates.io/crates/eggchaos-embed) | 0.2.0 | 0 | Safe coarse embedding facade over the eggchaos runtime authorities |
+| 2026-10-01 22:35:33 | [secantus-storage-adapter](https://crates.io/crates/secantus-storage-adapter) | 0.0.0 | 0 | Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not… |
+| 2026-10-01 22:36:50 | [datalove-datafun-compiler](https://crates.io/crates/datalove-datafun-compiler) | 0.1.0 | 0 | The datafun compiler, as one crate over its passes. |
+| 2026-10-01 22:36:51 | [datalove-rider-sys-std](https://crates.io/crates/datalove-rider-sys-std) | 0.1.0 | 0 | Native functions for the datalove sys/std package. |
+| 2026-10-01 22:36:52 | [datalove-datafun](https://crates.io/crates/datalove-datafun) | 0.1.0 | 0 | The datafun language: compiling and running it. |
+| 2026-10-01 22:36:55 | [datalove-sys-packages](https://crates.io/crates/datalove-sys-packages) | 0.1.0 | 0 | The datalove system package library, carried inside the binary. |
+| 2026-10-01 22:37:15 | [kcode-k1-chat-thread-rust-code-history-testkit](https://crates.io/crates/kcode-k1-chat-thread-rust-code-history-testkit) | 0.1.0 | 0 | Acceptance fixtures for selector-aware K1 RustCode history recovery |
+| 2026-10-01 22:38:23 | [maryml-cubecl-wgpu](https://crates.io/crates/maryml-cubecl-wgpu) | 0.10.0 | 0 | WGPU runtime for the CubeCL |
+| 2026-10-01 22:39:10 | [gsd](https://crates.io/crates/gsd) | 0.1.2 | 0 | Ground Station local daemon: ingests, redacts, stores and serves agent telemetry |
+| 2026-10-01 22:41:06 | [fshell-sandbox](https://crates.io/crates/fshell-sandbox) | 0.2.0 | 0 | Landlock and SBPL sandboxing for fshell |
+| 2026-10-01 22:41:08 | [fshell-semantic](https://crates.io/crates/fshell-semantic) | 0.2.0 | 0 | Shell-independent semantic action layer for fshell |
+| 2026-10-01 22:41:10 | [fshell-bridge](https://crates.io/crates/fshell-bridge) | 0.2.0 | 0 | External process fallback and glob for fshell |
+| 2026-10-01 22:41:12 | [fshell-builtins](https://crates.io/crates/fshell-builtins) | 0.2.0 | 0 | Builtins for fshell (~117 commands) |
+| 2026-10-01 22:41:15 | [fshell-repl](https://crates.io/crates/fshell-repl) | 0.2.0 | 0 | Native FTUI REPL for fshell |
+| 2026-10-01 22:43:03 | [skia-engine-core](https://crates.io/crates/skia-engine-core) | 0.1.1 | 0 | Core crate for skia-engine |
+| 2026-10-01 22:43:05 | [skia-engine-macro](https://crates.io/crates/skia-engine-macro) | 0.1.1 | 0 | Macros for skia-engine |
+| 2026-10-01 22:43:07 | [skia-engine](https://crates.io/crates/skia-engine) | 0.1.1 | 0 | Easier Skia manipulation in rust |
+| 2026-10-01 22:44:23 | [datalove-repl](https://crates.io/crates/datalove-repl) | 0.1.0 | 0 | The datalove REPL evaluation engine. |
+| 2026-10-01 22:44:44 | [spr-reader](https://crates.io/crates/spr-reader) | 0.2.0 | 0 | Terminal speed reader with Spritz-style focus point highlighting |
+| 2026-10-01 22:45:47 | [secantus-pgcatalog](https://crates.io/crates/secantus-pgcatalog) | 0.0.0 | 0 | Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not… |
+| 2026-10-01 22:49:30 | [groundstation](https://crates.io/crates/groundstation) | 0.1.2 | 0 | Ground Station CLI: connect agents, run the local daemon, inspect trajectories |
+| 2026-10-01 22:49:54 | [maryml-cubecl](https://crates.io/crates/maryml-cubecl) | 0.10.0 | 0 | Multi-platform high-performance compute language extension for Rust. |
+| 2026-10-01 22:53:14 | [speedticket](https://crates.io/crates/speedticket) | 0.1.0 | 0 | A sharded, finite-budget semaphore: per-thread shards with lock-free, bounded s… |
+| 2026-10-01 22:54:25 | [datalove-repl-rat](https://crates.io/crates/datalove-repl-rat) | 0.1.0 | 0 | A terminal REPL for datalove, in Ratatui. |
+| 2026-10-01 22:55:21 | [kcode-k1-web-code-service-testkit](https://crates.io/crates/kcode-k1-web-code-service-testkit) | 0.1.0 | 0 | Stateful conformance for the persistent K1 WebCode service |
+| 2026-10-01 22:56:02 | [secantus-pgplan](https://crates.io/crates/secantus-pgplan) | 0.0.0 | 0 | Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not… |
+| 2026-10-01 22:59:11 | [fshell](https://crates.io/crates/fshell) | 0.2.0 | 0 | A modern shell |
+| 2026-10-01 23:00:13 | [rob-proto](https://crates.io/crates/rob-proto) | 0.1.2 | 0 | Length-prefixed frames between a macOS host and the Linux oci-builder guest |
+| 2026-10-01 23:01:32 | [maryml-burn-std](https://crates.io/crates/maryml-burn-std) | 0.21.0 | 0 | MaryML fork of Burn: Core types and utilities shared across the Burn ecosystem. |
+| 2026-10-01 23:01:44 | [cargo-dbapp](https://crates.io/crates/cargo-dbapp) | 0.1.0 | 0 | builds and bundles the project as databricks app |
+| 2026-10-01 23:04:26 | [datalove-worldgen](https://crates.io/crates/datalove-worldgen) | 0.1.0 | 0 | A worldfile generator for datafun. |
+| 2026-10-01 23:04:47 | [scalevec](https://crates.io/crates/scalevec) | 0.1.0 | 0 | A flexible music representation system: scales, chords and rhythms as period-wr… |
+| 2026-10-01 23:06:16 | [secantus-pgserver](https://crates.io/crates/secantus-pgserver) | 0.0.0 | 0 | Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not… |
+| 2026-10-01 23:07:00 | [warren-container](https://crates.io/crates/warren-container) | 0.2.1 | 0 | A data structure made for fast reuse of space and fast iteration over active en… |
+| 2026-10-01 23:07:53 | [zfvm](https://crates.io/crates/zfvm) | 0.1.0 | 0 | A Rust implementation of the Zillowe Foundation Versioning Method (ZFVM). |
+| 2026-10-01 23:07:55 | [zfvm-cli](https://crates.io/crates/zfvm-cli) | 0.1.0 | 0 | Command line tool for the Zillowe Foundation Versioning Method |
+| 2026-10-01 23:12:59 | [maryml-burn-backend](https://crates.io/crates/maryml-burn-backend) | 0.21.0 | 0 | MaryML fork of Burn: Core backend interfaces and data structures for executing… |
+| 2026-10-01 23:13:01 | [maryml-burn-dataset](https://crates.io/crates/maryml-burn-dataset) | 0.21.0 | 0 | MaryML fork of Burn: Library with simple dataset APIs for creating ML data pipe… |
+| 2026-10-01 23:14:21 | [ttk-core](https://crates.io/crates/ttk-core) | 2.1.0 | 0 | RA-TLS HTTP/3 (QUIC) attested server library for TEEs (AWS Nitro, AMD SEV-SNP,… |
+| 2026-10-01 23:14:23 | [ttk-client](https://crates.io/crates/ttk-client) | 2.1.0 | 0 | RA-TLS HTTP/3 (QUIC) client and TEE evidence verifier for TTKServer nodes, with… |
+| 2026-10-01 23:14:25 | [ttk-relay](https://crates.io/crates/ttk-relay) | 2.1.0 | 0 | TTKServer relay node: an attested enclave server forwarding onion-routed /faf r… |
+| 2026-10-01 23:14:25 | [ttk-terminal](https://crates.io/crates/ttk-terminal) | 2.1.0 | 0 | TTKServer terminal node: an attested enclave server that is the last hop of oni… |
+| 2026-10-01 23:16:30 | [secantus-pgwire](https://crates.io/crates/secantus-pgwire) | 0.0.0 | 0 | Reserved for SecantusDB: an internal crate of the SecantusDB Rust servers. Not… |
+| 2026-10-01 23:18:58 | [source_sdk_2013_raw](https://crates.io/crates/source_sdk_2013_raw) | 0.1.0-alpha.4 | 0 | Low-level module inspection utilities for Source engine integrations. |
+| 2026-10-01 23:18:59 | [source_sdk_2013_sys_x64_linux](https://crates.io/crates/source_sdk_2013_sys_x64_linux) | 0.1.0-alpha.4 | 0 | Low-level bindings for the Source SDK on x86-64 Linux. |
+| 2026-10-01 23:19:00 | [source_sdk_2013_sys_x64_windows](https://crates.io/crates/source_sdk_2013_sys_x64_windows) | 0.1.0-alpha.4 | 0 | Low-level bindings for the Source SDK on x86-64 Windows. |
 
 ## Data source
 
