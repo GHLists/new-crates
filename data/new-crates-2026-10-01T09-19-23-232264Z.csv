@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T08:19:44.461055Z,discord-webhook-storage,0.1.0,0,0,https://github.com/theking90000/discord-webhook-storage,Stream file uploads to Discord webhooks over async I/O
+2026-10-01T08:24:00.255881Z,nix-rs-compat-derive,0.1.0,0,0,https://github.com/SINGH-RAJVEER/nix-rs,"Procedural macros for nix-rs Nix protocol serialization, derived from Snix"
+2026-10-01T08:24:04.129876Z,nix-rs-flakeref,0.1.0,0,0,https://github.com/SINGH-RAJVEER/nix-rs,Nix flake reference parser and formatter
+2026-10-01T08:24:05.615944Z,nix-rs-hash,0.1.0,0,0,https://github.com/SINGH-RAJVEER/nix-rs,Nix hash formats and Nix base32 encoding
+2026-10-01T08:24:11.825421Z,nix-rs-compat,0.1.0,0,0,https://github.com/SINGH-RAJVEER/nix-rs,"Nix formats and protocol codecs for nix-rs, derived from Snix nix-compat"
+2026-10-01T08:24:13.79396Z,nix-rs-serde,0.1.0,0,0,https://github.com/SINGH-RAJVEER/nix-rs,"Serialize and deserialize Nix values with serde, derived from Snix serde"
+2026-10-01T08:26:34.906018Z,purrdf-hnsw,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrdf,Empty registry bootstrap for purrdf-hnsw; use the functional release
+2026-10-01T08:27:03.284818Z,nix-rs-glue,0.1.0,0,0,https://github.com/SINGH-RAJVEER/nix-rs,"Store-aware builtins for the nix-rs evaluator, derived from Snix's glue crates"
+2026-10-01T08:36:26.445275Z,purrdf-retrieval,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrdf,Empty registry bootstrap for purrdf-retrieval; use the functional release
+2026-10-01T08:37:04.784654Z,nix-rs-commands,0.1.0,0,0,https://github.com/SINGH-RAJVEER/nix-rs,CppNix-compatible command implementations for nix-rs
+2026-10-01T09:03:37.235958Z,pegada-term,0.1.0,0,0,https://github.com/GreenSeal-dev/pegada-term,"Shows the energy used by every command you run in the terminal, using EnergiBridge as the sensor."
+2026-10-01T09:04:19.965325Z,paletti,0.1.0,0,0,https://github.com/YOUR_NAME/YOUR_REPOSITORY,Lightweight RGB and hexadecimal colors with linear RGB gradients
+2026-10-01T09:09:43.625646Z,corvus-json-schema,0.1.0,0,0,https://github.com/corvus-dotnet/Corvus.JsonSchema,"A high-performance JSON Schema evaluator (draft 4 to 2020-12) with results collection and annotations, ported from the Corvus.Text.Json V5 runtime evaluator."
+2026-10-01T09:11:25.456213Z,palim,0.1.0,0,0,https://github.com/majiayu000/palim,"Reversible JSON diff and patch for Rust, with array moves, text deltas, JSON Patch and Merge Patch"
+2026-10-01T09:15:51.964756Z,backbone-pos,0.5.32,0,0,https://github.com/faridlab/backbone-pos,"Point of sale — cashier session, ticket + multi-tender; orchestrates billing (revenue) + payment (settlement), posts no GL directly"
+2026-10-01T09:15:59.827125Z,backbone-project,0.5.22,0,0,https://github.com/faridlab/backbone-project,Projects: project and task masters with templates and activity types; logged effort rolls up from timesheet rows
+2026-10-01T09:18:45.559152Z,nexus-raw-core,0.1.0,0,0,https://github.com/Lipen/nexus-raw,"Protocol core for nexus-raw: claim, sha-siblings, symmetric diff, resumable up/down against Nexus raw storage"
+2026-10-01T09:19:20.247297Z,mock-nexus,0.1.0,0,0,https://github.com/Lipen/nexus-raw,Mock Sonatype Nexus raw server with a failure-scenario table for conformance tests
