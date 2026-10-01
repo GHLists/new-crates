@@ -8,48 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 15:21 UTC
+## Latest list — 2026-10-01 16:18 UTC
 
-New crates published between 2026-10-01 14:20 UTC and 2026-10-01 15:21 UTC.
+New crates published between 2026-10-01 15:21 UTC and 2026-10-01 16:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-01T15-21-54-43385Z.csv)
+[Full CSV](data/new-crates-2026-10-01T16-18-53-950682Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-01 14:21:00 | [czar](https://crates.io/crates/czar) | 0.0.0 | 0 | A lightweight workflow orchestrator (in development; first release coming soon) |
-| 2026-10-01 14:23:07 | [atep-core](https://crates.io/crates/atep-core) | 0.0.1 | 0 | Name reserved for the ATEP core library (Autonomy Trust Envelope Protocol). Pla… |
-| 2026-10-01 14:23:17 | [atep-cli](https://crates.io/crates/atep-cli) | 0.0.1 | 0 | Name reserved for the ATEP command line tool (Autonomy Trust Envelope Protocol)… |
-| 2026-10-01 14:23:20 | [tlop](https://crates.io/crates/tlop) | 0.1.0 | 0 | High-performance, single-threated event loop |
-| 2026-10-01 14:23:27 | [atep](https://crates.io/crates/atep) | 0.0.1 | 0 | Name reserved for ATEP, the Autonomy Trust Envelope Protocol (open, post-quantu… |
-| 2026-10-01 14:24:29 | [rscc](https://crates.io/crates/rscc) | 0.1.0 | 0 | A fast and modular C compiler written in Rust targeting AArch64 |
-| 2026-10-01 14:29:42 | [remoted](https://crates.io/crates/remoted) | 0.2.0 | 0 | High-Performance Rust Remote Gateway (RDP, VNC, SSH) with Multi-Pane HTML5 Canv… |
-| 2026-10-01 14:36:22 | [brokk-tree-sitter-cpp](https://crates.io/crates/brokk-tree-sitter-cpp) | 0.23.5 | 0 | Brokk-maintained C++ grammar for the tree-sitter parsing library |
-| 2026-10-01 14:36:45 | [openbnct-avify](https://crates.io/crates/openbnct-avify) | 0.3.0 | 0 | Connector surface for the separately licensed Avify Dose engine — voxel-plan ex… |
-| 2026-10-01 14:39:10 | [orx-parallel-wasm-allocator](https://crates.io/crates/orx-parallel-wasm-allocator) | 0.1.0 | 0 | Allocator specialized for parallel computaitons in WASM |
-| 2026-10-01 14:40:58 | [security-client-rs](https://crates.io/crates/security-client-rs) | 0.1.0 | 0 | Async Kibana client for security operations and Fleet management |
-| 2026-10-01 14:41:30 | [pipecircuit-visualization](https://crates.io/crates/pipecircuit-visualization) | 0.0.1 | 0 | Code-derived architectural visualizations for Pipecircuit programs |
-| 2026-10-01 14:41:46 | [pipecircuit-cli](https://crates.io/crates/pipecircuit-cli) | 0.0.1 | 0 | Command-line architectural tools for Pipecircuit programs |
-| 2026-10-01 14:42:00 | [easeo-core](https://crates.io/crates/easeo-core) | 0.1.0 | 0 | Deterministic SEO payload generation for content platforms |
-| 2026-10-01 14:42:09 | [gproxy-cache](https://crates.io/crates/gproxy-cache) | 4.0.0 | 0 | TTL state, atomic coordination and invalidation notifications for GPROXY |
-| 2026-10-01 14:42:09 | [gproxy-file](https://crates.io/crates/gproxy-file) | 4.0.0 | 0 | Optional local filesystem and S3/R2 storage for GPROXY, powered by OpenDAL |
-| 2026-10-01 14:42:10 | [gproxy-seaorm](https://crates.io/crates/gproxy-seaorm) | 4.0.0 | 0 | SeaORM 2 batch operations and Cloudflare D1 adapter with schema sync and migrat… |
-| 2026-10-01 14:42:10 | [gproxy-tokenizer](https://crates.io/crates/gproxy-tokenizer) | 4.0.0 | 0 | Runtime-independent local token counting for GPROXY |
-| 2026-10-01 14:42:15 | [gproxy-client](https://crates.io/crates/gproxy-client) | 4.0.0 | 0 | Reusable outbound reqwest and wreq clients for GPROXY |
-| 2026-10-01 14:49:27 | [nrem](https://crates.io/crates/nrem) | 0.0.0 | 0 | A system that evaluates/parses memories |
-| 2026-10-01 14:51:16 | [conora-core](https://crates.io/crates/conora-core) | 0.2.0 | 0 | Firmware resource inspection, image conversion and CRPack building for Conora |
-| 2026-10-01 14:51:43 | [conora](https://crates.io/crates/conora) | 0.2.0 | 0 | Build icon themes for multiple watch firmwares as CRPack resource packs |
-| 2026-10-01 14:55:38 | [restate-system1](https://crates.io/crates/restate-system1) | 0.0.0 | 0 | Restate integration for system1 |
-| 2026-10-01 14:55:47 | [system1](https://crates.io/crates/system1) | 0.0.0 | 0 | System1 |
-| 2026-10-01 14:55:59 | [system1-derive](https://crates.io/crates/system1-derive) | 0.0.0 | 0 | Derive macros for system1 |
-| 2026-10-01 14:56:19 | [system1-macros](https://crates.io/crates/system1-macros) | 0.0.0 | 0 | Procedural macros for system1 |
-| 2026-10-01 14:56:43 | [system1-typesafe](https://crates.io/crates/system1-typesafe) | 0.0.0 | 0 | Type-safe APIs for system1 |
-| 2026-10-01 15:10:55 | [qql-protocol](https://crates.io/crates/qql-protocol) | 0.5.0 | 0 | Qdrant REST protocol surface for QQL: closed result IR, strict OpenAPI response… |
-| 2026-10-01 15:14:55 | [rypipe-python](https://crates.io/crates/rypipe-python) | 0.5.0 | 0 | PyO3 bindings over the rypipe-core ingestion framework |
-| 2026-10-01 15:16:18 | [srdtpn-base](https://crates.io/crates/srdtpn-base) | 2.0.0-alpha.20260715 | 0 | Full-featured implementation of NTP with NTS support |
-| 2026-10-01 15:16:57 | [srdtpn-algo](https://crates.io/crates/srdtpn-algo) | 2.0.0-alpha.20260715 | 0 | Full-featured implementation of NTP with NTS support |
-| 2026-10-01 15:17:18 | [semora-proto](https://crates.io/crates/semora-proto) | 0.3.0 | 0 | Shared API types and websocket messages for Semora |
-| 2026-10-01 15:18:14 | [semora-server](https://crates.io/crates/semora-server) | 0.3.0 | 0 | Semora server: self-hosted pastebin for HTML and Markdown with an agent back-ch… |
-| 2026-10-01 15:18:27 | [semora-cli](https://crates.io/crates/semora-cli) | 0.3.0 | 0 | Semora CLI: publish Markdown and HTML, and hear back from the page |
+| 2026-10-01 15:23:24 | [graphcal-ast-derive](https://crates.io/crates/graphcal-ast-derive) | 0.0.1-alpha.32 | 0 | Type-safe, unit-aware, Git-friendly reactive programming language for engineeri… |
+| 2026-10-01 15:23:38 | [graphcal-ratio](https://crates.io/crates/graphcal-ratio) | 0.0.1-alpha.32 | 0 | Reduced fixed-width rational numbers for Graphcal dimension exponents |
+| 2026-10-01 15:23:50 | [graphcal-project](https://crates.io/crates/graphcal-project) | 0.0.1-alpha.32 | 0 | Type-safe, unit-aware, Git-friendly reactive programming language for engineeri… |
+| 2026-10-01 15:24:56 | [neet-core](https://crates.io/crates/neet-core) | 0.1.0 | 0 | The scanner, cleanup rules, safety checks, and Trash moves behind the neet disk… |
+| 2026-10-01 15:25:13 | [neet](https://crates.io/crates/neet) | 0.1.0 | 0 | See what fills your Mac's disk, and safely move files apps can make again to th… |
+| 2026-10-01 15:32:36 | [tc_aead_cipher](https://crates.io/crates/tc_aead_cipher) | 0.1.0 | 0 | AEAD contracts and the GCM, GCM-SIV, CCM, KCCM, EAX and OCB modes over any tc_b… |
+| 2026-10-01 15:32:39 | [tc_ascon_aead](https://crates.io/crates/tc_ascon_aead) | 0.1.0 | 0 | Ascon-AEAD128 (NIST SP 800-232) and the Ascon v1.2 AEAD variants, on the tc_aea… |
+| 2026-10-01 15:32:40 | [tc_grain128_aead](https://crates.io/crates/tc_grain128_aead) | 0.1.0 | 0 | Grain-128AEAD authenticated encryption on the tc_aead_cipher contracts. |
+| 2026-10-01 15:32:41 | [tc_sparkle_aead](https://crates.io/crates/tc_sparkle_aead) | 0.1.0 | 0 | SCHWAEMM authenticated encryption on the SPARKLE permutation, on the tc_aead_ci… |
+| 2026-10-01 15:34:04 | [witness-controller](https://crates.io/crates/witness-controller) | 0.1.0 | 0 | Bit-exact Q8.24 PID and discrete LQR for Loop Timing Witness |
+| 2026-10-01 15:37:05 | [oxpdf-cli](https://crates.io/crates/oxpdf-cli) | 1.0.1 | 0 | High-performance command-line interface for the oxpdf PDF engine |
+| 2026-10-01 15:39:27 | [just-right-rust](https://crates.io/crates/just-right-rust) | 0.1.1 | 0 | Opinionated Rust recommendations and hooks for Symposium |
+| 2026-10-01 15:40:05 | [oxpdf-wasm](https://crates.io/crates/oxpdf-wasm) | 1.0.1 | 0 | WebAssembly bindings for oxpdf, high-performance streaming PDF parser |
+| 2026-10-01 15:48:08 | [pm_ahamot_direct_publishing_test](https://crates.io/crates/pm_ahamot_direct_publishing_test) | 0.0.1-beta.20261001… | 0 | Rust SDK for pm_ahamot_direct_publishing_test generated by Fern |
+| 2026-10-01 15:53:09 | [sqlx-turso-driver](https://crates.io/crates/sqlx-turso-driver) | 0.0.1 | 0 | An asynchronous SQLx driver for embedded Turso databases |
+| 2026-10-01 15:55:58 | [rapier-rope](https://crates.io/crates/rapier-rope) | 0.1.0 | 0 | Validated Rapier rope and tree-harness construction, attachments and diagnostics |
+| 2026-10-01 16:04:15 | [ktrs-editorconfig](https://crates.io/crates/ktrs-editorconfig) | 0.3.0 | 0 | Port of ec4j-core 1.2.0 (the EditorConfig library ktlint and ktfmt use): parser… |
+| 2026-10-01 16:04:24 | [ktrs-ast](https://crates.io/crates/ktrs-ast) | 0.3.0 | 0 | Mutable Kotlin AST with IntelliJ TreeElement semantics, seeded from the ktrs sy… |
+| 2026-10-01 16:04:27 | [ktrs-lint](https://crates.io/crates/ktrs-lint) | 0.3.0 | 0 | Port of the ktlint 2.0 rule engine and standard rules over the ktrs mutable AST |
+| 2026-10-01 16:09:16 | [jevtest](https://crates.io/crates/jevtest) | 0.1.0 | 0 | Run only the Rust tests your change can break: crate reach, syn test discovery… |
+| 2026-10-01 16:15:38 | [pocketstation-webrtc-audio-processing-sys](https://crates.io/crates/pocketstation-webrtc-audio-processing-sys) | 2.1.1 | 0 | A wrapper for WebRTC's AudioProcessing module. |
+| 2026-10-01 16:16:20 | [masl-as](https://crates.io/crates/masl-as) | 0.1.0-alpha.1 | 0 | Common features for the MASL MEMC file format |
 
 ## Data source
 
