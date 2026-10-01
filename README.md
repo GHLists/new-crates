@@ -8,30 +8,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 13:18 UTC
+## Latest list — 2026-10-01 14:20 UTC
 
-New crates published between 2026-10-01 12:21 UTC and 2026-10-01 13:18 UTC.
+New crates published between 2026-10-01 13:18 UTC and 2026-10-01 14:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-01T13-18-39-402386Z.csv)
+[Full CSV](data/new-crates-2026-10-01T14-20-01-167102Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-01 12:23:26 | [kova-native-widgets](https://crates.io/crates/kova-native-widgets) | 0.1.0 | 0 | Element tree, styling, event dispatch and built-in widgets for Kova Native. |
-| 2026-10-01 12:24:50 | [arct-vt](https://crates.io/crates/arct-vt) | 0.0.1 | 0 | Pure Rust virtual terminal engine |
-| 2026-10-01 12:27:37 | [schemagen](https://crates.io/crates/schemagen) | 0.1.0 | 0 | A fast and flexible fake/mock data generator library for Rust with JSON, JSONL,… |
-| 2026-10-01 12:30:28 | [spechtlabs-sigil](https://crates.io/crates/spechtlabs-sigil) | 0.6.3 | 0 | Embed Sigil, a typed policy language, in Rust: the Go engine as a WebAssembly m… |
-| 2026-10-01 12:33:15 | [kova-native](https://crates.io/crates/kova-native) | 0.1.1 | 0 | Kova Native: a GPU-accelerated, Rust-first native GUI framework. |
-| 2026-10-01 12:36:17 | [lieui-geom](https://crates.io/crates/lieui-geom) | 0.0.1 | 0 | lieui 的基础几何与颜色类型（零依赖） |
-| 2026-10-01 12:37:27 | [lieui-text](https://crates.io/crates/lieui-text) | 0.0.1 | 0 | lieui 的文本测度与排版（parley 封装 + 缓存） |
-| 2026-10-01 12:38:06 | [lieui-layout](https://crates.io/crates/lieui-layout) | 0.0.1 | 0 | lieui 的 Taitank 风格 Flexbox 布局引擎 |
-| 2026-10-01 12:46:46 | [openehr-federation](https://crates.io/crates/openehr-federation) | 0.0.0 | 0 | The openEHR Federation Tier with AQL specification in Rust: the federation wire… |
-| 2026-10-01 12:46:51 | [ihe-iti](https://crates.io/crates/ihe-iti) | 0.0.0 | 0 | IHE IT Infrastructure (ITI) profiles in Rust: PIXm, PDQm, mCSD, PMIR and XCPD t… |
-| 2026-10-01 12:46:57 | [nl-generic-functions](https://crates.io/crates/nl-generic-functions) | 0.0.0 | 0 | The Dutch Generic Functions for health data exchange in Rust: localization, add… |
-| 2026-10-01 12:52:11 | [emergent-cognitive-model](https://crates.io/crates/emergent-cognitive-model) | 0.1.0 | 0 | Emergent Cognitive Model (ECM): A pure-Rust, dependency-free architecture for i… |
-| 2026-10-01 12:59:52 | [cf-gears-clickhouse-usage-collector-plugin](https://crates.io/crates/cf-gears-clickhouse-usage-collector-plugin) | 0.1.0 | 0 | ClickHouse Usage Collector storage backend plugin |
-| 2026-10-01 13:00:22 | [imhm](https://crates.io/crates/imhm) | 0.1.0 | 0 | A fast immutable hashmap |
-| 2026-10-01 13:02:37 | [bevy_pixquare_ultra](https://crates.io/crates/bevy_pixquare_ultra) | 0.1.0 | 0 | A bevy plugin to load and render artwork data of Pixquare |
-| 2026-10-01 13:06:14 | [knex-derive](https://crates.io/crates/knex-derive) | 0.2.0 | 0 | Derive macros for rust-knex: FromRow and DeriveEntityModel |
+| 2026-10-01 13:26:05 | [piolet](https://crates.io/crates/piolet) | 0.0.0 | 0 | A simple coding agent. Built with iced. |
+| 2026-10-01 13:37:42 | [photonoxide](https://crates.io/crates/photonoxide) | 0.1.1 | 0 | Validated, fabrication-ready photonics for Rust: mode solvers, FDFD, FDTD, inve… |
+| 2026-10-01 13:44:06 | [dresser](https://crates.io/crates/dresser) | 0.0.1 | 0 | Dress better. |
+| 2026-10-01 13:48:03 | [tortank-wasm](https://crates.io/crates/tortank-wasm) | 0.31.0 | 0 | Turtle/N triples parser |
+| 2026-10-01 13:50:07 | [leptos_nav](https://crates.io/crates/leptos_nav) | 0.1.0 | 0 | Leptos utilities for making navigation menus |
+| 2026-10-01 13:52:39 | [backbone-storefront](https://crates.io/crates/backbone-storefront) | 0.2.76 | 0 | Server-authoritative eCommerce core: identity-bound carts, per-website listings… |
+| 2026-10-01 13:54:32 | [agentkit-acp-schema](https://crates.io/crates/agentkit-acp-schema) | 1.9.1 | 0 | Agent Client Protocol schema fork used by agentkit, adding unstable v2 session… |
+| 2026-10-01 14:00:15 | [agentkit-acp-sdk](https://crates.io/crates/agentkit-acp-sdk) | 2.2.0 | 0 | Agent Client Protocol SDK fork used by agentkit, adding unstable v2 session inj… |
+| 2026-10-01 14:00:21 | [agentkit-acp-http](https://crates.io/crates/agentkit-acp-http) | 2.2.0 | 0 | Agent Client Protocol HTTP and WebSocket transport fork used by agentkit, addin… |
+| 2026-10-01 14:08:21 | [iroh-lighthouse-protocol](https://crates.io/crates/iroh-lighthouse-protocol) | 0.1.1 | 0 | Wire protocol and topic keys shared by the iroh-lighthouse server and client |
+| 2026-10-01 14:08:24 | [iroh-lighthouse-client](https://crates.io/crates/iroh-lighthouse-client) | 0.1.1 | 0 | Client for iroh-lighthouse: topic rendezvous and address lookup for iroh nodes,… |
+| 2026-10-01 14:08:27 | [iroh-lighthouse](https://crates.io/crates/iroh-lighthouse) | 0.1.1 | 0 | Topic rendezvous and address lookup server for iroh nodes: HTTP and iroh carrie… |
+| 2026-10-01 14:09:33 | [typestate-groups-macros](https://crates.io/crates/typestate-groups-macros) | 0.1.2 | 0 | Procedural macros powering the typestate-groups crate |
+| 2026-10-01 14:09:37 | [typestate-groups](https://crates.io/crates/typestate-groups) | 0.2.0 | 0 | Typestate based grouping types for Rust |
+| 2026-10-01 14:10:31 | [castellum-interface](https://crates.io/crates/castellum-interface) | 0.1.0 | 0 | Castellum interface required to implement modules |
 
 ## Data source
 

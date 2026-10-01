@@ -1,0 +1,16 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T13:26:05.100379Z,piolet,0.0.0,0,0,https://github.com/hecrj/piolet,A simple coding agent. Built with iced.
+2026-10-01T13:37:42.671886Z,photonoxide,0.1.1,0,0,https://github.com/tachsin/photonoxide,"Validated, fabrication-ready photonics for Rust: mode solvers, FDFD, FDTD, inverse design, layout and PDKs, with a live studio"
+2026-10-01T13:44:06.521651Z,dresser,0.0.1,0,0,,Dress better.
+2026-10-01T13:48:03.56052Z,tortank-wasm,0.31.0,0,0,https://github.com/nbittich/tortank,Turtle/N triples parser
+2026-10-01T13:50:07.870561Z,leptos_nav,0.1.0,0,0,,Leptos utilities for making navigation menus
+2026-10-01T13:52:39.264214Z,backbone-storefront,0.2.76,0,0,https://github.com/faridlab/backbone-storefront,"Server-authoritative eCommerce core: identity-bound carts, per-website listings and prices, locked checkout through the payment gateway, Click & Collect, wishlists, comparisons and back-in-stock requ…"
+2026-10-01T13:54:32.798387Z,agentkit-acp-schema,1.9.1,0,0,https://github.com/danielkov/agent-client-protocol,"Agent Client Protocol schema fork used by agentkit, adding unstable v2 session injection"
+2026-10-01T14:00:15.556411Z,agentkit-acp-sdk,2.2.0,0,0,https://github.com/danielkov/rust-sdk,"Agent Client Protocol SDK fork used by agentkit, adding unstable v2 session injection, tracked response receipts and bounded transports"
+2026-10-01T14:00:21.011422Z,agentkit-acp-http,2.2.0,0,0,https://github.com/danielkov/rust-sdk,"Agent Client Protocol HTTP and WebSocket transport fork used by agentkit, adding bounded admission"
+2026-10-01T14:08:21.72624Z,iroh-lighthouse-protocol,0.1.1,0,0,https://github.com/Jezza/iroh-lighthouse,Wire protocol and topic keys shared by the iroh-lighthouse server and client
+2026-10-01T14:08:24.418621Z,iroh-lighthouse-client,0.1.1,0,0,https://github.com/Jezza/iroh-lighthouse,"Client for iroh-lighthouse: topic rendezvous and address lookup for iroh nodes, by URL or over iroh"
+2026-10-01T14:08:27.576292Z,iroh-lighthouse,0.1.1,0,0,https://github.com/Jezza/iroh-lighthouse,Topic rendezvous and address lookup server for iroh nodes: HTTP and iroh carriers over one protocol
+2026-10-01T14:09:33.018566Z,typestate-groups-macros,0.1.2,0,0,https://github.com/sagi21805/groupoid,Procedural macros powering the typestate-groups crate
+2026-10-01T14:09:37.164579Z,typestate-groups,0.2.0,0,0,https://github.com/sagi21805/groupoid,Typestate based grouping types for Rust
+2026-10-01T14:10:31.233469Z,castellum-interface,0.1.0,0,0,,Castellum interface required to implement modules
