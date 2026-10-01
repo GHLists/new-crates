@@ -1,0 +1,12 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T03:21:38.706238Z,rocketmq-proxy,1.0.0,0,0,https://github.com/mxsm/rocketmq-rust,RocketMQ Proxy Module - gRPC proxy runtime for the Rust implementation
+2026-10-01T03:27:52.943216Z,skeletons,0.1.0,0,0,https://github.com/hexlace/skeletons,Skeletons — keep your repos from drifting apart. A ritual bundle: it mounts in your project's ritual command line.
+2026-10-01T03:40:24.955883Z,mf2-leptos-ui-0-8,2.0.0,0,0,https://github.com/EvanCarroll/rust-mf2,"The built-in Leptos 0.8 components of Rust MF2: the locale switcher and its options, the catalog preload and links, the hreflang block and the islands gate. Applications name `mf2`, whose `mf2::lepto…"
+2026-10-01T03:40:25.535649Z,mf2-leptos-ui-0-9,2.0.0,0,0,https://github.com/EvanCarroll/rust-mf2,"The built-in Leptos 0.9 components of Rust MF2: the locale switcher and its options, the catalog preload and links, the hreflang block and the islands gate. Applications name `mf2`, whose `mf2::lepto…"
+2026-10-01T03:48:30.242968Z,ankusa,0.3.0,0,0,https://github.com/jamescarr/ankusa,"Client SDK for Ankusa, the self-hosted webhook receiver: claim-check redemption, webhook header parsing, and the route-management and operator APIs."
+2026-10-01T03:49:07.20271Z,mel-tui,0.2.0,0,0,https://github.com/zendotexe/mel,A kew-style terminal remote for the Spotify desktop app
+2026-10-01T03:56:09.245382Z,ag-telemetry,0.16.4,0,0,https://github.com/agentty-xyz/agentty,Content-free tracing contexts and lifecycle guards for agent execution
+2026-10-01T03:59:59.114985Z,lingara-embed,0.0.1,0,0,,Official Rust SDK for embedding Lingara in games and other platforms (under development).
+2026-10-01T04:03:41.879126Z,bevy_lingara,0.0.0,0,0,,Official Bevy plugin for embedding Lingara in games (under development).
+2026-10-01T04:03:50.568129Z,octosense-app-contract,1.0.0,0,0,https://github.com/OctoSense-org/OctoSense-App-Hub,"The OctoSense app contract: app manifests, the policy an app gets, package integrity and running a package"
+2026-10-01T04:20:25.093206Z,sockudo-mcp,5.1.0,0,0,https://github.com/sockudo/sockudo,Model Context Protocol (MCP) server for Sockudo realtime infrastructure
