@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T16:19:03.576313Z,spine_runtime,0.2.0,0,0,https://github.com/dead-money/spine_runtime,Unofficial native Rust port of the Spine 4.3 runtime. Renderer-agnostic.
+2026-10-01T16:21:36.47275Z,tracing-anyhow,0.1.0,0,0,https://github.com/aecsocket/conch,Easy tracing spans and error messages for any function
+2026-10-01T16:23:15.722562Z,spine_bevy,0.2.0,0,0,https://github.com/dead-money/spine_bevy,"Bevy 0.19 plugin for the unofficial spine_runtime port: load, animate, and draw Spine 4.3 skeletons."
+2026-10-01T16:26:22.97933Z,yman-tracker,0.5.0,0,0,https://github.com/BrilllianD/yman-tracker,"Git-native task tracker: tasks live in a ref outside refs/heads, travel through the project's own remote, never show up in git branch"
+2026-10-01T16:27:37.385655Z,tk-pg-t-optimize,0.1.1,0,0,https://github.com/quantinuum/tket2,T-count optimization passes for Pauli graphs
+2026-10-01T16:31:28.523089Z,tramaj-rs,0.1.0,0,0,https://github.com/lucasdicioccio/tramaj,"Rust parser/AST/evaluator for the Tramaj language (specs/reference.md), a hand-written port kept in agreement with tramaj/ and tramaj-hs/ via the shared corpus/ conformance suite."
+2026-10-01T16:31:37.763426Z,tramaj-cli-rs,0.1.0,0,0,https://github.com/lucasdicioccio/tramaj,Standalone CLI over the tramaj-rs crate's parser/eval/analysis core. Rust port of tramaj-cli's Main.purs.
+2026-10-01T16:39:50.62957Z,tairu,0.1.0,0,0,https://github.com/calebbuffa/tairu,"3D Tiles 1.0/1.1 data model, reader, and writer"
+2026-10-01T16:40:34.334127Z,ipatool-kit-core,0.2.1,0,0,https://github.com/ipatool-kit/ipatool-kit,"App Store auth, purchase, and download core used by ipatool-kit (SAP + Configurator flow)"
+2026-10-01T16:40:51.532089Z,ipatool-kit,1.1.2,0,0,https://github.com/ipatool-kit/ipatool-kit,App Store IPA toolkit — library + interactive TUI for owned IPA downloads
+2026-10-01T16:41:27.402003Z,i3s,0.1.0,0,0,https://github.com/calebbuffa/i3s,Esri Indexed 3D Scene Layers (I3S).
+2026-10-01T16:50:24.806438Z,yellowstone-account-sync-proto,0.1.0,0,0,https://github.com/rpcpool/triton-rust-sdk,Protocol definitions for Yellowstone account sync
+2026-10-01T16:51:42.551065Z,axocoatl-exec,1.1.0,0,0,https://github.com/axocoatl/axocoatl,Owned command supervision and bounded execution protocol for Axocoatl sandboxes
+2026-10-01T16:54:42.287841Z,triton-sdk,0.1.0,0,0,https://github.com/rpcpool/triton-rust-sdk,Rust SDK for Triton One RPC and streaming services.
+2026-10-01T17:01:39.901514Z,cargo-xmake,0.1.0,0,0,https://github.com/lilyco-42/rust-build-optimization,"A cargo subcommand that gives debug builds C/xmake-like speed and size, and keeps release at full static-dispatch performance."
+2026-10-01T17:08:16.805197Z,o41-training-data,0.1.0,0,0,https://github.com/SyvainTech/syvain,"Deterministic, resumable training batch streams over Parquet shards and data manifests, with a C API"
+2026-10-01T17:08:19.680604Z,o41-metrics-collector,0.1.0,0,0,https://github.com/SyvainTech/syvain,"Background metrics delivery to 041 Metrics, with a C API"
