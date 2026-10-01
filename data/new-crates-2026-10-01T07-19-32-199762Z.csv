@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T06:23:21.502Z,zenoh-web-rtc-sctp,0.21.0-zw.1,0,0,https://github.com/jeff-hykin/zenoh-web,Fork of rtc-sctp 0.21.0 with fixes for zenoh-web (see PATCHES.md)
+2026-10-01T06:23:29.421541Z,zenoh-web-rtc-datachannel,0.21.0-zw.1,0,0,https://github.com/jeff-hykin/zenoh-web,Fork of rtc-datachannel 0.21.0 with fixes for zenoh-web (see PATCHES.md)
+2026-10-01T06:23:53.945879Z,zenoh-web-rtc,0.21.0-zw.1,0,0,https://github.com/jeff-hykin/zenoh-web,Fork of rtc 0.21.0 with fixes for zenoh-web (see PATCHES.md)
+2026-10-01T06:24:18.281132Z,zenoh-web-webrtc,0.21.0-zw.1,0,0,https://github.com/jeff-hykin/zenoh-web,Fork of webrtc 0.21.0 with fixes for zenoh-web (see PATCHES.md)
+2026-10-01T06:29:30.113532Z,zudb-corpus,0.0.1,0,0,https://github.com/tamnd/zu,The cross-client conformance corpus and its Rust runner
+2026-10-01T06:39:47.903891Z,zudb-cli,0.0.1,0,0,https://github.com/tamnd/zu,Command-line interface for zu
+2026-10-01T06:40:45.743903Z,critpath-libdeflate,0.1.0,0,0,,"Instrumented libdeflate 1.25 (gzip decode) carrying the gzippy critpath region markers, for fulcrum's differential kernel localizer. The C is byte-for-byte vendored libdeflate 1.25 plus CNTVCT region…"
+2026-10-01T06:41:27.89339Z,fulcrum,0.3.0,0,0,https://github.com/JackDanger/fulcrum,Causal-mechanistic pipeline profiler: finds the highest-leverage region to optimize by measuring wall-elasticity (Coz-style virtual speedup) fused with critical-path reconstruction and perf/PEBS mech…
+2026-10-01T06:43:47.281069Z,ispeach,0.1.0,0,0,https://github.com/Hamster5295/ispeach,"Detect whether an image is Peach, a cute little kitten. Model weights embedded."
+2026-10-01T06:52:26.37174Z,euka-shell,0.1.0,0,0,https://github.com/patrickgwsmith/euka,A small shared shell for humans and coding agents
+2026-10-01T06:53:56.675555Z,stile-protocol,0.1.0,0,0,,Wire protocol between stile and stile-brokerd. Contains no operation capable of returning secret material.
+2026-10-01T06:54:04.107234Z,stile-core,0.1.0,0,0,,"Secret machinery: registry, generation, SOPS backend, consumer deployment, verification, audit. Only the broker links this crate."
+2026-10-01T06:54:08.068697Z,stile-brokerd,0.1.0,0,0,,Privileged secret lifecycle broker. The only component that ever holds secret bytes.
+2026-10-01T06:54:14.958083Z,stile,0.1.0,0,0,,Unprivileged CLI for requesting allowlisted secret lifecycle operations. Never receives secret material.
+2026-10-01T07:13:38.124966Z,morpheme,0.1.0,0,0,https://github.com/sourceblender/morpheme,"Fast, pure-Rust subword tokenization (BPE, WordPiece, Unigram) compatible with Hugging Face tokenizers."
+2026-10-01T07:14:04.985405Z,morpheme-cli,0.1.0,0,0,https://github.com/sourceblender/morpheme,"Command-line tool to train, inspect and run Hugging Face-compatible tokenizers with morpheme."
+2026-10-01T07:14:39.6473Z,pictogram-icons-lobe,0.4.0,0,0,https://github.com/tdymel/pictogram,Lobe icons export for pictogram
+2026-10-01T07:15:19.51273Z,varyk-std,0.3.0,0,0,https://github.com/Varyk-Lang/varyk,"The runtime that programs written in Varyk, a language for backend services that compiles to Rust, call into: errors, JSON, configuration, and logging"
+2026-10-01T07:15:56.029906Z,lumos-rs,0.1.3,0,0,https://github.com/iamahless/lumos,"Lumos web framework: MVC, batteries-included, feature-flag driven"
+2026-10-01T07:18:06.180377Z,super-types,0.9.0,0,0,https://github.com/schematic-tech/super,Types for the Super API
+2026-10-01T07:18:22.305474Z,super-tool,0.9.0,0,0,https://github.com/schematic-tech/super,The Super CLI for verifying software behavior

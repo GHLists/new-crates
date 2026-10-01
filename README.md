@@ -8,30 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 06:20 UTC
+## Latest list — 2026-10-01 07:19 UTC
 
-New crates published between 2026-10-01 05:18 UTC and 2026-10-01 06:20 UTC.
+New crates published between 2026-10-01 06:20 UTC and 2026-10-01 07:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-01T06-20-12-460815Z.csv)
+[Full CSV](data/new-crates-2026-10-01T07-19-32-199762Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-01 05:25:09 | [evorule-discipline](https://crates.io/crates/evorule-discipline) | 0.8.0 | 0 | EvoRule L2 规则集形态纪律门禁 —— 机制侧遍历/事实标注 + 内核求值（纪律数据 SSOT 在 evorule-tcb） |
-| 2026-10-01 05:27:30 | [zudb-exec](https://crates.io/crates/zudb-exec) | 0.0.1 | 0 | Push-based morsel-parallel pipeline executor for zu |
-| 2026-10-01 05:30:22 | [tauri-kit-diagnostics](https://crates.io/crates/tauri-kit-diagnostics) | 0.7.0 | 0 | Content-free error reports for desktop apps: built from an allowlist, never fro… |
-| 2026-10-01 05:37:07 | [deadlywp](https://crates.io/crates/deadlywp) | 0.0.7 | 0 | Deadly Wallpaper: live wallpapers for Linux, macOS and Windows |
-| 2026-10-01 05:37:50 | [zudb-s3](https://crates.io/crates/zudb-s3) | 0.0.1 | 0 | Object-storage-native engine for zu with fixed-cost batching |
-| 2026-10-01 05:48:09 | [zudb-sqlite](https://crates.io/crates/zudb-sqlite) | 0.0.1 | 0 | SQLite-backed storage engine for zu |
-| 2026-10-01 05:57:06 | [lnurlcash-core](https://crates.io/crates/lnurlcash-core) | 0.2.0 | 0 | LNURLcash (LUD-25) bearer notes - the money-critical logic, with bindings for o… |
-| 2026-10-01 05:58:28 | [zudb-zu1](https://crates.io/crates/zudb-zu1) | 0.0.1 | 0 | Native single-file columnar storage engine for zu |
-| 2026-10-01 05:58:31 | [lnurlcash-kernel](https://crates.io/crates/lnurlcash-kernel) | 0.2.2 | 0 | Verify LUD-25 note spends with Bitcoin Core's own script interpreter (libbitcoi… |
-| 2026-10-01 06:01:38 | [parlar](https://crates.io/crates/parlar) | 0.1.0 | 0 | Voice conversation mode for coding-agent harnesses |
-| 2026-10-01 06:01:41 | [parlar-moonshine](https://crates.io/crates/parlar-moonshine) | 0.1.0 | 0 | Run-time loaded bindings to libmoonshine for Kokoro text to speech |
-| 2026-10-01 06:02:03 | [parlard](https://crates.io/crates/parlard) | 0.1.0 | 0 | parlar daemon: audio in and out, speech models, conversation state |
-| 2026-10-01 06:06:47 | [aproxy-envelope](https://crates.io/crates/aproxy-envelope) | 0.1.0 | 0 | Transform envelope contract shared by aproxy and aproxy-format |
-| 2026-10-01 06:07:08 | [aproxy-format](https://crates.io/crates/aproxy-format) | 0.1.0 | 0 | Official example format program for aproxy: protocol conversion, key rotation,… |
-| 2026-10-01 06:08:53 | [zudb](https://crates.io/crates/zudb) | 0.0.1 | 0 | Embedded property-graph database: columnar, factorized, three storage engines |
-| 2026-10-01 06:19:12 | [zudb-arrow](https://crates.io/crates/zudb-arrow) | 0.0.1 | 0 | A zu result as Arrow arrays, off the buffers the engine already filled |
+| 2026-10-01 06:23:21 | [zenoh-web-rtc-sctp](https://crates.io/crates/zenoh-web-rtc-sctp) | 0.21.0-zw.1 | 0 | Fork of rtc-sctp 0.21.0 with fixes for zenoh-web (see PATCHES.md) |
+| 2026-10-01 06:23:29 | [zenoh-web-rtc-datachannel](https://crates.io/crates/zenoh-web-rtc-datachannel) | 0.21.0-zw.1 | 0 | Fork of rtc-datachannel 0.21.0 with fixes for zenoh-web (see PATCHES.md) |
+| 2026-10-01 06:23:53 | [zenoh-web-rtc](https://crates.io/crates/zenoh-web-rtc) | 0.21.0-zw.1 | 0 | Fork of rtc 0.21.0 with fixes for zenoh-web (see PATCHES.md) |
+| 2026-10-01 06:24:18 | [zenoh-web-webrtc](https://crates.io/crates/zenoh-web-webrtc) | 0.21.0-zw.1 | 0 | Fork of webrtc 0.21.0 with fixes for zenoh-web (see PATCHES.md) |
+| 2026-10-01 06:29:30 | [zudb-corpus](https://crates.io/crates/zudb-corpus) | 0.0.1 | 0 | The cross-client conformance corpus and its Rust runner |
+| 2026-10-01 06:39:47 | [zudb-cli](https://crates.io/crates/zudb-cli) | 0.0.1 | 0 | Command-line interface for zu |
+| 2026-10-01 06:40:45 | [critpath-libdeflate](https://crates.io/crates/critpath-libdeflate) | 0.1.0 | 0 | Instrumented libdeflate 1.25 (gzip decode) carrying the gzippy critpath region… |
+| 2026-10-01 06:41:27 | [fulcrum](https://crates.io/crates/fulcrum) | 0.3.0 | 0 | Causal-mechanistic pipeline profiler: finds the highest-leverage region to opti… |
+| 2026-10-01 06:43:47 | [ispeach](https://crates.io/crates/ispeach) | 0.1.0 | 0 | Detect whether an image is Peach, a cute little kitten. Model weights embedded. |
+| 2026-10-01 06:52:26 | [euka-shell](https://crates.io/crates/euka-shell) | 0.1.0 | 0 | A small shared shell for humans and coding agents |
+| 2026-10-01 06:53:56 | [stile-protocol](https://crates.io/crates/stile-protocol) | 0.1.0 | 0 | Wire protocol between stile and stile-brokerd. Contains no operation capable of… |
+| 2026-10-01 06:54:04 | [stile-core](https://crates.io/crates/stile-core) | 0.1.0 | 0 | Secret machinery: registry, generation, SOPS backend, consumer deployment, veri… |
+| 2026-10-01 06:54:08 | [stile-brokerd](https://crates.io/crates/stile-brokerd) | 0.1.0 | 0 | Privileged secret lifecycle broker. The only component that ever holds secret b… |
+| 2026-10-01 06:54:14 | [stile](https://crates.io/crates/stile) | 0.1.0 | 0 | Unprivileged CLI for requesting allowlisted secret lifecycle operations. Never… |
+| 2026-10-01 07:13:38 | [morpheme](https://crates.io/crates/morpheme) | 0.1.0 | 0 | Fast, pure-Rust subword tokenization (BPE, WordPiece, Unigram) compatible with… |
+| 2026-10-01 07:14:04 | [morpheme-cli](https://crates.io/crates/morpheme-cli) | 0.1.0 | 0 | Command-line tool to train, inspect and run Hugging Face-compatible tokenizers… |
+| 2026-10-01 07:14:39 | [pictogram-icons-lobe](https://crates.io/crates/pictogram-icons-lobe) | 0.4.0 | 0 | Lobe icons export for pictogram |
+| 2026-10-01 07:15:19 | [varyk-std](https://crates.io/crates/varyk-std) | 0.3.0 | 0 | The runtime that programs written in Varyk, a language for backend services tha… |
+| 2026-10-01 07:15:56 | [lumos-rs](https://crates.io/crates/lumos-rs) | 0.1.3 | 0 | Lumos web framework: MVC, batteries-included, feature-flag driven |
+| 2026-10-01 07:18:06 | [super-types](https://crates.io/crates/super-types) | 0.9.0 | 0 | Types for the Super API |
+| 2026-10-01 07:18:22 | [super-tool](https://crates.io/crates/super-tool) | 0.9.0 | 0 | The Super CLI for verifying software behavior |
 
 ## Data source
 
