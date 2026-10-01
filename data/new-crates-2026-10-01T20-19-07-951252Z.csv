@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T19:23:59.304559Z,aws-sdk-endusermessaging,1.0.0,0,0,https://github.com/awslabs/aws-sdk-rust,AWS SDK for AWS End User Messaging
+2026-10-01T19:24:38.930891Z,datalove-datafun-ast,0.1.0,0,0,https://github.com/brson/datalove,Abstract syntax for datafun.
+2026-10-01T19:25:17.395142Z,kcode-k1-web-code-workspace-testkit,0.1.0,0,0,,Conformance tests for K1 Web code workspace drivers
+2026-10-01T19:26:54.488114Z,zng-l10n-translator-local,0.1.1,0,0,https://github.com/zng-ui/zng,Local LLM plugin for `cargo zng l10n --translate`.
+2026-10-01T19:29:12.165983Z,niles,1.0.0,0,0,https://github.com/Rhovian/niles,A Rust CLI orchestration harness for coordinating agent CLIs.
+2026-10-01T19:30:39.370188Z,aws-sdk-lambdaweb,1.0.0,0,0,https://github.com/awslabs/aws-sdk-rust,AWS SDK for Lambda Web
+2026-10-01T19:33:16.085754Z,kcode-k1-rust-bootstrap-package,0.1.1,0,0,,Convert existing K-code Rust libraries into three-file bootstrap packages
+2026-10-01T19:34:07.568256Z,passkey-crypto,0.1.0,0,0,https://github.com/1Password/passkey-rs,Generic cryptographic backend for the passkey-rs crates
+2026-10-01T19:34:30.668679Z,datalove-datafun-common,0.1.0,0,0,https://github.com/brson/datalove,Type definitions shared across the datafun compiler.
+2026-10-01T19:37:03.003923Z,gpui-luma,0.1.2,0,0,https://github.com/scottcg/gpui-luma,"GPUI-Luma foundation: controls, layouts, themes, and shared look contracts"
+2026-10-01T19:37:04.737555Z,gpui-luma-color,0.1.2,0,0,https://github.com/scottcg/gpui-luma,Color primitives and interactive color controls for GPUI-Luma
+2026-10-01T19:37:05.270842Z,gpui-luma-look-radix,0.1.2,0,0,https://github.com/scottcg/gpui-luma,"Radix themes, color scales, and styled controls for GPUI-Luma"
+2026-10-01T19:37:06.905115Z,gpui-luma-look-shadcn,0.1.2,0,0,https://github.com/scottcg/gpui-luma,"Shadcn themes, CSS tokens, and styled controls for GPUI-Luma"
+2026-10-01T19:41:07.552228Z,varde,0.0.1,0,0,,placeholder
+2026-10-01T19:41:39.134119Z,actix-tera-response,0.1.0,0,0,https://codeberg.org/BezPowell/actix-tera-response,Simple utility crate to make returning Tera templates from actix-web routes more ergonomic.
+2026-10-01T19:43:04.03885Z,kcode-k1-web-code-workspace,0.1.0,0,0,,KTO-backed unpublished K1 Web code workspaces
+2026-10-01T19:43:30.121648Z,kcode-k1-rust-bootstrap-manifest,0.1.1,0,0,,Inspect and normalize legacy K-code Rust manifests for K1 bootstrap
+2026-10-01T19:44:37.918191Z,datalove-datafun-ir,0.1.0,0,0,https://github.com/brson/datalove,An SSA intermediate representation for datafun.
+2026-10-01T19:49:31.699771Z,apted,0.1.1,0,0,https://github.com/mike-weinberg/apted-rs,"Rust port of APTED, the tree edit distance algorithm by Pawlik and Augsten"
+2026-10-01T19:52:14.065031Z,ruda-ascend-kernels,0.1.0,0,0,,Rust-authored Ascend BF16 device programs and instruction lowering
+2026-10-01T19:53:47.532002Z,zenoh-web,0.3.0,0,0,https://github.com/jeff-hykin/zenoh-web,"View and drive a zenoh system from a browser over WebRTC (data channels, H.264 video, bandwidth allocation, deadmen): an embeddable server with pluggable codecs"
+2026-10-01T19:54:36.211488Z,datalove-datafun-c-aot,0.1.0,0,0,https://github.com/brson/datalove,The datafun C code generation backend.
+2026-10-01T19:54:49.124351Z,zenoh-dimos-codecs,0.1.0,0,0,https://github.com/jeff-hykin/zenoh-dimos-codecs,"zenoh-web codecs for ROS 2 and dimos images, depth and point clouds"
+2026-10-01T19:56:00.315209Z,zenoh-web-cli,0.3.0,0,0,https://github.com/jeff-hykin/zenoh-web-cli,The zenoh-web command: zenoh-web with the ROS 2 / dimos codecs
+2026-10-01T20:04:37.850624Z,datalove-datafun-const,0.1.0,0,0,https://github.com/brson/datalove,Compile-time constant handling for datafun.
+2026-10-01T20:05:14.765948Z,omnidiff,0.2.0,0,0,https://github.com/ivankovic/omnidiff,"Fast, robust, syntax-aware code diffing using tree-sitter ASTs"
+2026-10-01T20:14:38.569493Z,datalove-datafun-cranelift,0.1.0,0,0,https://github.com/brson/datalove,Cranelift codegen shared by the datafun backends.
+2026-10-01T20:16:06.954073Z,ironmonitor,7.0.1,0,0,https://github.com/nervosys/IronMonitor,"IronMonitor: hardware monitoring for CPUs, GPUs, NPUs, memory, I/O and network silicon on Linux, Windows and macOS, which reports what it cannot read as well as what it can"
+2026-10-01T20:19:07.14897Z,bajan,0.1.0,0,0,https://github.com/charly-vibes/bajan,"Spec-driven knowledge-graph pipeline CLI — ingest sources, extract claims, query the graph"
