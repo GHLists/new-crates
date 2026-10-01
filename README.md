@@ -8,43 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 11:20 UTC
+## Latest list — 2026-10-01 12:21 UTC
 
-New crates published between 2026-10-01 10:19 UTC and 2026-10-01 11:20 UTC.
+New crates published between 2026-10-01 11:20 UTC and 2026-10-01 12:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-01T11-20-06-140158Z.csv)
+[Full CSV](data/new-crates-2026-10-01T12-21-03-110136Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-01 10:22:13 | [ring_handle](https://crates.io/crates/ring_handle) | 0.1.0 | 0 | Shareable producer and consumer ends |
-| 2026-10-01 10:22:33 | [ring_tls](https://crates.io/crates/ring_tls) | 0.1.0 | 0 | Thread-local staging buffers ahead of a ring flush |
-| 2026-10-01 10:22:53 | [ring_flush](https://crates.io/crates/ring_flush) | 0.1.0 | 0 | Flush policies deciding when thread-local staging reaches the ring |
-| 2026-10-01 10:27:19 | [rs-chaos](https://crates.io/crates/rs-chaos) | 0.1.0 | 0 | Async fault-injection testing middleware for reqwest clients |
-| 2026-10-01 10:37:34 | [eid-circuits](https://crates.io/crates/eid-circuits) | 0.8.3 | 0 | The identity layer for noir-zk pipelines: eid-circuits' frozen DSC, SOD and doc… |
-| 2026-10-01 10:42:30 | [kcode-k1-daemon-code-services](https://crates.io/crates/kcode-k1-daemon-code-services) | 0.1.0 | 0 | Open the daemon's process-owned RustCode and WebCode services |
-| 2026-10-01 10:50:35 | [silence-split](https://crates.io/crates/silence-split) | 0.1.0 | 0 | Split long PCM audio into pieces at silence without exceeding a maximum length |
-| 2026-10-01 10:52:38 | [zerocbor_derive](https://crates.io/crates/zerocbor_derive) | 0.1.0 | 0 | proc-macro crate for zerocbor |
-| 2026-10-01 10:52:41 | [zerocbor](https://crates.io/crates/zerocbor) | 0.1.0 | 0 | A zero-copy, zero-dependency, no_std-compatible, extremely fast CBOR (RFC 8949)… |
-| 2026-10-01 10:55:00 | [typr-graph](https://crates.io/crates/typr-graph) | 0.6.0 | 0 | Builds a hierarchical block-graph view of a TypR program (see visualization_gra… |
-| 2026-10-01 10:55:14 | [bobr-bundle-launcher](https://crates.io/crates/bobr-bundle-launcher) | 0.1.10 | 0 | Static launcher for programs packaged in a bobr HostBundle. |
-| 2026-10-01 10:55:34 | [emit-protocol](https://crates.io/crates/emit-protocol) | 0.1.0 | 0 | The Emit V2 protocol's values: the 32-byte commitments, the note math (commitme… |
-| 2026-10-01 10:56:12 | [emit-protocol-abi](https://crates.io/crates/emit-protocol-abi) | 0.1.0 | 0 | The Emit V2 pool contract for alloy: EmitV2Pool's bindings (calls, events, depl… |
-| 2026-10-01 10:56:54 | [emit-circuits](https://crates.io/crates/emit-circuits) | 0.1.0 | 0 | The Emit V2 protocol's circuits: its emit and identity-cache apps frozen as a n… |
-| 2026-10-01 10:57:38 | [one-byte-card](https://crates.io/crates/one-byte-card) | 0.0.1 | 0 | Compact playing-card encoding in one byte with a 2-bit state |
-| 2026-10-01 10:57:49 | [bobr-repo](https://crates.io/crates/bobr-repo) | 0.1.10 | 0 | Remote repository format, client, and publisher for bobr. |
-| 2026-10-01 10:58:17 | [backbone-billing](https://crates.io/crates/backbone-billing) | 0.8.25 | 0 | Billing: region-neutral AR/AP invoicing (Sales + Purchase Invoice) -> Accountin… |
-| 2026-10-01 10:59:01 | [backbone-communication](https://crates.io/crates/backbone-communication) | 0.5.16 | 0 | Threaded internal messaging: message threads and messages |
-| 2026-10-01 10:59:34 | [backbone-corpus](https://crates.io/crates/backbone-corpus) | 0.2.15 | 0 | Support-anchored knowledge base: Article + ArticleCategory + ArticleLink (polym… |
-| 2026-10-01 11:00:36 | [pictogram-icons-iconoir](https://crates.io/crates/pictogram-icons-iconoir) | 0.4.0 | 0 | Iconoir icons export for pictogram |
-| 2026-10-01 11:00:40 | [pictogram-icons-phosphor](https://crates.io/crates/pictogram-icons-phosphor) | 0.4.0 | 0 | Phosphor icons export for pictogram |
-| 2026-10-01 11:01:15 | [backbone-employee](https://crates.io/crates/backbone-employee) | 0.2.45 | 0 | the people master — identity, employment lifecycle, payroll identity, dependents |
-| 2026-10-01 11:02:04 | [backbone-cmms](https://crates.io/crates/backbone-cmms) | 0.7.22 | 0 | Maintenance management (CMMS): maintenance requests and stages, preventive sche… |
-| 2026-10-01 11:03:31 | [bobr-vm](https://crates.io/crates/bobr-vm) | 0.0.1 | 0 | Early executable placeholder for Bobr virtual-machine support. |
-| 2026-10-01 11:03:37 | [backbone-payment](https://crates.io/crates/backbone-payment) | 0.11.29 | 0 | Settlement & reconciliation — payment entries, allocation, modes of payment; 4t… |
-| 2026-10-01 11:09:23 | [http1_kyber1024](https://crates.io/crates/http1_kyber1024) | 1.0.0 | 0 | HTTP1.1 proxy of Kyber1024 and 3-AES-256 to mitigate replay attack |
-| 2026-10-01 11:10:12 | [backbone-banking](https://crates.io/crates/backbone-banking) | 0.6.23 | 0 | Cash & bank — bank/account master, statement import, reconciliation, and cleari… |
-| 2026-10-01 11:10:53 | [anymd-oar-ocr-vl](https://crates.io/crates/anymd-oar-ocr-vl) | 0.9.2 | 0 | OAR OCR VL with bounded decoding and experimental CPU quantization for anymd |
-| 2026-10-01 11:13:33 | [anymd-ocr-vlm](https://crates.io/crates/anymd-ocr-vlm) | 8.3.0 | 0 | Local document OCR with PaddleOCR-VL and PP-DocLayout on Candle |
+| 2026-10-01 11:20:12 | [backbone-integrations](https://crates.io/crates/backbone-integrations) | 0.5.21 | 0 | Integration registry: connectors, integration accounts and an idempotent inboun… |
+| 2026-10-01 11:26:50 | [tilt-ui-build](https://crates.io/crates/tilt-ui-build) | 0.1.0-rc.2 | 0 | Build-time tooling and component discovery for TiltUI |
+| 2026-10-01 11:26:54 | [tilt-ui-runtime](https://crates.io/crates/tilt-ui-runtime) | 0.1.0-rc.2 | 0 | Bevy runtime integration for TiltUI |
+| 2026-10-01 11:26:57 | [tilt-ui](https://crates.io/crates/tilt-ui) | 0.1.0-rc.2 | 0 | A component-based HTML and CSS UI framework for Bevy |
+| 2026-10-01 11:30:14 | [backbone-lifecycle](https://crates.io/crates/backbone-lifecycle) | 0.3.43 | 0 | Employee lifecycle: onboarding and offboarding with templates and tasks, contra… |
+| 2026-10-01 11:34:56 | [nihilurk-particle-core](https://crates.io/crates/nihilurk-particle-core) | 0.1.0 | 0 | The arithmetic half of nihilurk's particle layer for a terminal roguelike. `no_… |
+| 2026-10-01 11:34:57 | [nihilurk-strings](https://crates.io/crates/nihilurk-strings) | 0.1.0 | 0 | Every player-facing sentence of nihilurk, a terminal roguelike, in English, Por… |
+| 2026-10-01 11:35:00 | [nihilurk-models](https://crates.io/crates/nihilurk-models) | 0.1.2 | 0 | The rules of nihilurk, a terminal roguelike: bevy_ecs components, monsters, ite… |
+| 2026-10-01 11:35:03 | [nihilurk](https://crates.io/crates/nihilurk) | 0.1.2 | 0 | A Rogue-like dungeon crawler for the terminal: descend thirteen floors, take th… |
+| 2026-10-01 11:35:21 | [bekoedit-paste](https://crates.io/crates/bekoedit-paste) | 0.17.0 | 0 | Clipboard HTML to Markdown for bekoedit's paste path: a pure converter with siz… |
+| 2026-10-01 11:40:12 | [backbone-selling](https://crates.io/crates/backbone-selling) | 0.13.19 | 0 | Selling: Quotation -> Sales Order -> Sales Invoice; emits revenue AccountingPos… |
+| 2026-10-01 11:43:06 | [kova-native-core](https://crates.io/crates/kova-native-core) | 0.1.0 | 0 | Foundation types for Kova Native: geometry, color, ids, reactive signals and in… |
+| 2026-10-01 11:43:09 | [kova-native-animation](https://crates.io/crates/kova-native-animation) | 0.1.0 | 0 | Tweens, easing curves, springs and transitions for Kova Native. |
+| 2026-10-01 11:43:09 | [kova-native-assets](https://crates.io/crates/kova-native-assets) | 0.1.0 | 0 | Image and SVG asset loading and caching for Kova Native. |
+| 2026-10-01 11:43:10 | [kova-native-input](https://crates.io/crates/kova-native-input) | 0.1.0 | 0 | Input event model, keystrokes, keymaps and propagation for Kova Native. |
+| 2026-10-01 11:43:11 | [kova-native-layout](https://crates.io/crates/kova-native-layout) | 0.1.0 | 0 | Flexbox/grid layout engine for Kova Native built on taffy. |
+| 2026-10-01 11:47:37 | [xmacros](https://crates.io/crates/xmacros) | 0.1.0 | 0 | Dependency-injection and Axum route macros for Xecute applications |
+| 2026-10-01 11:49:21 | [arm-firme](https://crates.io/crates/arm-firme) | 0.1.0 | 0 | Arm Firmware Interfaces for Realm Management Extension |
+| 2026-10-01 11:50:12 | [backbone-promo](https://crates.io/crates/backbone-promo) | 0.4.24 | 0 | Advertisements, promo campaigns, banners (extracted from bersihir) |
+| 2026-10-01 11:50:52 | [xecute](https://crates.io/crates/xecute) | 0.1.0 | 0 | Nest-style modules and dependency injection for Axum |
+| 2026-10-01 11:51:05 | [xecute-cli](https://crates.io/crates/xecute-cli) | 0.1.1 | 0 | NestJS-style project and resource generator for Xecute |
+| 2026-10-01 11:51:14 | [cf-gears-toolkit-trace-context](https://crates.io/crates/cf-gears-toolkit-trace-context) | 0.1.0 | 0 | W3C Trace Context propagation (parse, seed span parent, inject) shared by CF/Ge… |
+| 2026-10-01 11:53:14 | [kova-native-platform](https://crates.io/crates/kova-native-platform) | 0.1.0 | 0 | Windowing, event loop and OS integration for Kova Native. |
+| 2026-10-01 11:53:48 | [symposium-install](https://crates.io/crates/symposium-install) | 0.1.0 | 0 | Acquisition and caching of tool binaries for symposium plugins |
+| 2026-10-01 12:03:11 | [kova-native-text](https://crates.io/crates/kova-native-text) | 0.1.0 | 0 | Text shaping, layout, font fallback and glyph rasterization for Kova Native. |
+| 2026-10-01 12:03:43 | [thrl](https://crates.io/crates/thrl) | 0.2.2 | 0 | The Touhou Reinforcement Learning Project |
+| 2026-10-01 12:06:36 | [ruda-runtime](https://crates.io/crates/ruda-runtime) | 0.1.0 | 0 | Ruda portable host runtime. |
+| 2026-10-01 12:07:17 | [ace-sys](https://crates.io/crates/ace-sys) | 0.1.0 | 0 | FFI bindings to the ACE (PACE) interatomic-potential evaluator (evaluation only… |
+| 2026-10-01 12:08:50 | [dftd3-sys](https://crates.io/crates/dftd3-sys) | 0.1.0 | 0 | Pinned static build of the simple-dftd3 (s-dftd3) Fortran library for the `dftd… |
+| 2026-10-01 12:08:55 | [thmp](https://crates.io/crates/thmp) | 0.1.0 | 0 | Map viewer for thrl project |
+| 2026-10-01 12:09:46 | [dftd4-sys](https://crates.io/crates/dftd4-sys) | 0.1.0 | 0 | Raw FFI bindings to the DFT-D4 dispersion correction library (libdftd4 C API) |
+| 2026-10-01 12:13:13 | [kova-native-render](https://crates.io/crates/kova-native-render) | 0.1.0 | 0 | GPU scene renderer for Kova Native (wgpu). |
+| 2026-10-01 12:15:32 | [symposium-sdk](https://crates.io/crates/symposium-sdk) | 0.1.0 | 0 | SDK for writing symposium plugins (hooks, custom predicates, subcommands) |
+| 2026-10-01 12:16:26 | [ring_shutdown](https://crates.io/crates/ring_shutdown) | 0.1.0 | 0 | Publisher stop, drain, and waiter join |
+| 2026-10-01 12:16:45 | [ring_poll](https://crates.io/crates/ring_poll) | 0.1.0 | 0 | Non-blocking progress helpers |
+| 2026-10-01 12:17:04 | [ring_registry](https://crates.io/crates/ring_registry) | 0.1.0 | 0 | Named ring registry |
 
 ## Data source
 
