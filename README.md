@@ -8,31 +8,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 05:18 UTC
+## Latest list — 2026-10-01 06:20 UTC
 
-New crates published between 2026-10-01 04:20 UTC and 2026-10-01 05:18 UTC.
+New crates published between 2026-10-01 05:18 UTC and 2026-10-01 06:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-01T05-18-39-33444Z.csv)
+[Full CSV](data/new-crates-2026-10-01T06-20-12-460815Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-01 04:30:53 | [typdiff-git](https://crates.io/crates/typdiff-git) | 0.7.4 | 0 | Generate one visual Typst revision PDF from all .typ files changed between two… |
-| 2026-10-01 04:31:21 | [jevc](https://crates.io/crates/jevc) | 0.1.0 | 0 | LLM-first CLI for JEV |
-| 2026-10-01 04:42:08 | [abnegate-learn](https://crates.io/crates/abnegate-learn) | 0.1.0 | 0 | In-memory trial memory: record attempts, retrieve similar outcomes, and turn fa… |
-| 2026-10-01 04:49:16 | [chdlady-physical](https://crates.io/crates/chdlady-physical) | 0.1.0 | 0 | SCSI/MMC physical optical media reader (CD/DVD) for direct CHD conversion |
-| 2026-10-01 04:50:07 | [mads-testing](https://crates.io/crates/mads-testing) | 0.9.2 | 0 | Focused in-process test fixtures for MADS.rs |
-| 2026-10-01 04:53:01 | [cwist-sys](https://crates.io/crates/cwist-sys) | 0.1.0 | 0 | Raw FFI bindings to libcwist, the CWIST C web framework |
-| 2026-10-01 04:53:22 | [cwist](https://crates.io/crates/cwist) | 0.1.0 | 0 | Safe Rust API for CWIST, the C web framework |
-| 2026-10-01 04:55:04 | [openworldformat](https://crates.io/crates/openworldformat) | 0.1.0 | 0 | The Open World Format Rust reference: the world document, the session fold (log… |
-| 2026-10-01 04:56:37 | [graphrag-search](https://crates.io/crates/graphrag-search) | 0.2.11 | 0 | GraphRAG — Hybrid search engine: vector embeddings + knowledge graph over Markd… |
-| 2026-10-01 05:06:27 | [zudb-common](https://crates.io/crates/zudb-common) | 0.0.1 | 0 | Shared identifiers, errors, and constants for zu |
-| 2026-10-01 05:06:28 | [zudb-json](https://crates.io/crates/zudb-json) | 0.0.1 | 0 | A small JSON reader and writer, shared by the CLI and the codegen tools |
-| 2026-10-01 05:06:29 | [zudb-encoding](https://crates.io/crates/zudb-encoding) | 0.0.1 | 0 | Lightweight columnar encodings for zu (FastLanes, ALP, FSST, cascades) |
-| 2026-10-01 05:06:30 | [zudb-storage](https://crates.io/crates/zudb-storage) | 0.0.1 | 0 | Storage engine trait and shared segment types for zu |
-| 2026-10-01 05:06:31 | [zudb-vector](https://crates.io/crates/zudb-vector) | 0.0.1 | 0 | Typed columnar vectors, selection, and expression kernels for zu |
-| 2026-10-01 05:12:08 | [clean-skills](https://crates.io/crates/clean-skills) | 0.1.0 | 0 | Install the clean-refactoring and deliberate-delegate-verify Agent Skills for C… |
-| 2026-10-01 05:14:54 | [ohmyXJTU](https://crates.io/crates/ohmyXJTU) | 0.1.1-beta.1 | 0 | A TUI tool for XJTU students |
-| 2026-10-01 05:17:03 | [zudb-query](https://crates.io/crates/zudb-query) | 0.0.1 | 0 | Parser, planner, and factorized vectorized executor for zu |
+| 2026-10-01 05:25:09 | [evorule-discipline](https://crates.io/crates/evorule-discipline) | 0.8.0 | 0 | EvoRule L2 规则集形态纪律门禁 —— 机制侧遍历/事实标注 + 内核求值（纪律数据 SSOT 在 evorule-tcb） |
+| 2026-10-01 05:27:30 | [zudb-exec](https://crates.io/crates/zudb-exec) | 0.0.1 | 0 | Push-based morsel-parallel pipeline executor for zu |
+| 2026-10-01 05:30:22 | [tauri-kit-diagnostics](https://crates.io/crates/tauri-kit-diagnostics) | 0.7.0 | 0 | Content-free error reports for desktop apps: built from an allowlist, never fro… |
+| 2026-10-01 05:37:07 | [deadlywp](https://crates.io/crates/deadlywp) | 0.0.7 | 0 | Deadly Wallpaper: live wallpapers for Linux, macOS and Windows |
+| 2026-10-01 05:37:50 | [zudb-s3](https://crates.io/crates/zudb-s3) | 0.0.1 | 0 | Object-storage-native engine for zu with fixed-cost batching |
+| 2026-10-01 05:48:09 | [zudb-sqlite](https://crates.io/crates/zudb-sqlite) | 0.0.1 | 0 | SQLite-backed storage engine for zu |
+| 2026-10-01 05:57:06 | [lnurlcash-core](https://crates.io/crates/lnurlcash-core) | 0.2.0 | 0 | LNURLcash (LUD-25) bearer notes - the money-critical logic, with bindings for o… |
+| 2026-10-01 05:58:28 | [zudb-zu1](https://crates.io/crates/zudb-zu1) | 0.0.1 | 0 | Native single-file columnar storage engine for zu |
+| 2026-10-01 05:58:31 | [lnurlcash-kernel](https://crates.io/crates/lnurlcash-kernel) | 0.2.2 | 0 | Verify LUD-25 note spends with Bitcoin Core's own script interpreter (libbitcoi… |
+| 2026-10-01 06:01:38 | [parlar](https://crates.io/crates/parlar) | 0.1.0 | 0 | Voice conversation mode for coding-agent harnesses |
+| 2026-10-01 06:01:41 | [parlar-moonshine](https://crates.io/crates/parlar-moonshine) | 0.1.0 | 0 | Run-time loaded bindings to libmoonshine for Kokoro text to speech |
+| 2026-10-01 06:02:03 | [parlard](https://crates.io/crates/parlard) | 0.1.0 | 0 | parlar daemon: audio in and out, speech models, conversation state |
+| 2026-10-01 06:06:47 | [aproxy-envelope](https://crates.io/crates/aproxy-envelope) | 0.1.0 | 0 | Transform envelope contract shared by aproxy and aproxy-format |
+| 2026-10-01 06:07:08 | [aproxy-format](https://crates.io/crates/aproxy-format) | 0.1.0 | 0 | Official example format program for aproxy: protocol conversion, key rotation,… |
+| 2026-10-01 06:08:53 | [zudb](https://crates.io/crates/zudb) | 0.0.1 | 0 | Embedded property-graph database: columnar, factorized, three storage engines |
+| 2026-10-01 06:19:12 | [zudb-arrow](https://crates.io/crates/zudb-arrow) | 0.0.1 | 0 | A zu result as Arrow arrays, off the buffers the engine already filled |
 
 ## Data source
 

@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T05:25:09.781379Z,evorule-discipline,0.8.0,0,0,https://gitee.com/evorule/evorule,EvoRule L2 规则集形态纪律门禁 —— 机制侧遍历/事实标注 + 内核求值（纪律数据 SSOT 在 evorule-tcb）
+2026-10-01T05:27:30.898609Z,zudb-exec,0.0.1,0,0,https://github.com/tamnd/zu,Push-based morsel-parallel pipeline executor for zu
+2026-10-01T05:30:22.05907Z,tauri-kit-diagnostics,0.7.0,0,0,https://github.com/iyulab/tauri-kit,"Content-free error reports for desktop apps: built from an allowlist, never from messages, queued on disk, optionally sent to Application Insights."
+2026-10-01T05:37:07.729603Z,deadlywp,0.0.7,0,0,https://github.com/nickheyer/deadlywallpaper,"Deadly Wallpaper: live wallpapers for Linux, macOS and Windows"
+2026-10-01T05:37:50.69658Z,zudb-s3,0.0.1,0,0,https://github.com/tamnd/zu,Object-storage-native engine for zu with fixed-cost batching
+2026-10-01T05:48:09.480551Z,zudb-sqlite,0.0.1,0,0,https://github.com/tamnd/zu,SQLite-backed storage engine for zu
+2026-10-01T05:57:06.888558Z,lnurlcash-core,0.2.0,0,0,https://github.com/lnurlcash/lnurlcash-core,"LNURLcash (LUD-25) bearer notes - the money-critical logic, with bindings for other languages"
+2026-10-01T05:58:28.43037Z,zudb-zu1,0.0.1,0,0,https://github.com/tamnd/zu,Native single-file columnar storage engine for zu
+2026-10-01T05:58:31.26482Z,lnurlcash-kernel,0.2.2,0,0,https://github.com/lnurlcash/kernel,"Verify LUD-25 note spends with Bitcoin Core's own script interpreter (libbitcoinkernel, statically linked, unmodified)"
+2026-10-01T06:01:38.275722Z,parlar,0.1.0,0,0,https://github.com/avifenesh/parlar,Voice conversation mode for coding-agent harnesses
+2026-10-01T06:01:41.494772Z,parlar-moonshine,0.1.0,0,0,https://github.com/avifenesh/parlar,Run-time loaded bindings to libmoonshine for Kokoro text to speech
+2026-10-01T06:02:03.347363Z,parlard,0.1.0,0,0,https://github.com/avifenesh/parlar,"parlar daemon: audio in and out, speech models, conversation state"
+2026-10-01T06:06:47.174879Z,aproxy-envelope,0.1.0,0,0,https://github.com/MoYeRanqianzhi/aProxy,Transform envelope contract shared by aproxy and aproxy-format
+2026-10-01T06:07:08.537211Z,aproxy-format,0.1.0,0,0,https://github.com/MoYeRanqianzhi/aProxy,"Official example format program for aproxy: protocol conversion, key rotation, and multi-channel aggregation"
+2026-10-01T06:08:53.06182Z,zudb,0.0.1,0,0,https://github.com/tamnd/zu,"Embedded property-graph database: columnar, factorized, three storage engines"
+2026-10-01T06:19:12.533973Z,zudb-arrow,0.0.1,0,0,https://github.com/tamnd/zu,"A zu result as Arrow arrays, off the buffers the engine already filled"
