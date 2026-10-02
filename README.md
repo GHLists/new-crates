@@ -8,52 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 08:22 UTC
+## Latest list — 2026-10-02 09:19 UTC
 
-New crates published between 2026-10-02 07:18 UTC and 2026-10-02 08:22 UTC.
+New crates published between 2026-10-02 08:22 UTC and 2026-10-02 09:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-02T08-22-05-631057Z.csv)
+[Full CSV](data/new-crates-2026-10-02T09-19-30-382906Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-02 07:19:10 | [secure_stream_auth](https://crates.io/crates/secure_stream_auth) | 0.1.1 | 0 | Access guard: HMAC tokens and signed paths for secure_stream delivery layer |
-| 2026-10-02 07:20:12 | [secure_stream_packager](https://crates.io/crates/secure_stream_packager) | 0.1.1 | 0 | ffmpeg-based encrypted multi-bitrate HLS packaging for secure_stream |
-| 2026-10-02 07:20:18 | [secure_stream_manifest](https://crates.io/crates/secure_stream_manifest) | 0.1.1 | 0 | HLS m3u8 manifest generators (master + media playlists) for secure_stream |
-| 2026-10-02 07:21:03 | [laya-rs2](https://crates.io/crates/laya-rs2) | 0.3.1 | 0 | Rust (candle) inference for Laya's typed-decision (choice/score/noul) decision… |
-| 2026-10-02 07:21:16 | [secure_stream](https://crates.io/crates/secure_stream) | 0.1.1 | 0 | Server-side protected adaptive streaming library (encrypted multi-bitrate HLS) |
-| 2026-10-02 07:40:10 | [stucco-theme](https://crates.io/crates/stucco-theme) | 0.1.0 | 0 | Theme engine for stucco: OKLCH scales, semantic roles, presets and contrast val… |
-| 2026-10-02 07:40:32 | [stucco-core](https://crates.io/crates/stucco-core) | 0.1.0 | 0 | Rendering core for stucco: safe markup, identity, assets, pages and fragments. |
-| 2026-10-02 07:40:35 | [stucco-ui](https://crates.io/crates/stucco-ui) | 0.1.0 | 0 | Semantic UI components for stucco: layouts, forms, tables, collections, applica… |
-| 2026-10-02 07:40:38 | [stucco-tower](https://crates.io/crates/stucco-tower) | 0.1.0 | 0 | Tower integration for stucco: asset serving, page/fragment responses, negotiati… |
-| 2026-10-02 07:40:40 | [stucco-redb](https://crates.io/crates/stucco-redb) | 0.1.0 | 0 | Typed embedded storage and collection sources for stucco. |
-| 2026-10-02 07:40:43 | [stucco](https://crates.io/crates/stucco) | 0.1.0 | 0 | Server-rendered, themeable, accessible UI components for Rust. |
-| 2026-10-02 07:51:40 | [nuotc](https://crates.io/crates/nuotc) | 0.0.1 | 0 | High-performance retained-mode terminal canvas and diff rendering engine |
-| 2026-10-02 07:51:55 | [tc_buffered_cipher](https://crates.io/crates/tc_buffered_cipher) | 0.1.0 | 0 | One buffered interface over block modes with or without padding, stream ciphers… |
-| 2026-10-02 07:57:19 | [tomoz-dicom](https://crates.io/crates/tomoz-dicom) | 0.1.0 | 0 | Robust DICOM Part 10 parsing, pixel data extraction and byte-exact reassembly f… |
-| 2026-10-02 07:57:20 | [tomoz-entropy](https://crates.io/crates/tomoz-entropy) | 0.1.0 | 0 | Range coder with adaptive multi-symbol and binary models, bit-exact on every pl… |
-| 2026-10-02 07:57:21 | [tomoz-nn](https://crates.io/crates/tomoz-nn) | 0.1.0 | 0 | Integer neural network runtime with exact results across scalar, NEON, AVX2 and… |
-| 2026-10-02 07:57:23 | [tomoz-codec](https://crates.io/crates/tomoz-codec) | 0.1.0 | 0 | Learned, deterministic lossless codec for medical image volumes |
-| 2026-10-02 07:57:26 | [tomoz-archive](https://crates.io/crates/tomoz-archive) | 0.1.0 | 0 | Byte-exact DICOM archives with Tomoz-coded pixel data |
-| 2026-10-02 07:58:55 | [taktora-executor-sys](https://crates.io/crates/taktora-executor-sys) | 0.1.0 | 0 | Audited unsafe primitives for taktora-executor: OS FFI, iceoryx2 port Send wrap… |
-| 2026-10-02 08:00:39 | [scout_lib](https://crates.io/crates/scout_lib) | 0.6.0 | 0 | ScoutAPM API client library |
-| 2026-10-02 08:03:25 | [merge-safetensors](https://crates.io/crates/merge-safetensors) | 0.2.2 | 0 | Merge sharded .safetensors files into one, driven by a *.safetensors.index.json |
-| 2026-10-02 08:06:04 | [rutis-interop](https://crates.io/crates/rutis-interop) | 0.1.0 | 0 | Mount published Cordis (Node) plugins in rutis applications, with Rust bindings… |
-| 2026-10-02 08:08:05 | [waybill](https://crates.io/crates/waybill) | 0.1.0 | 0 | Reliable bidirectional delivery between local files and cloud storage: resumabl… |
-| 2026-10-02 08:08:07 | [waybill-service-fs](https://crates.io/crates/waybill-service-fs) | 0.1.0 | 0 | Native stable file sources, durable checkpoints, and the local download target… |
-| 2026-10-02 08:08:09 | [waybill-service-gdrive](https://crates.io/crates/waybill-service-gdrive) | 0.1.0 | 0 | Google Drive resumable upload service for waybill |
-| 2026-10-02 08:08:09 | [waybill-service-opendal](https://crates.io/crates/waybill-service-opendal) | 0.1.0 | 0 | Object storage access and delivery through Apache OpenDAL |
-| 2026-10-02 08:08:10 | [waybill-service-webdav](https://crates.io/crates/waybill-service-webdav) | 0.1.0 | 0 | WebDAV object access and recoverable file delivery for waybill |
-| 2026-10-02 08:08:17 | [opendlss-nr](https://crates.io/crates/opendlss-nr) | 0.1.2 | 0 | Linux Rust host and model validator for the OpenDLSS-NR Vulkan implementation |
-| 2026-10-02 08:08:57 | [protolink-grpc-gen](https://crates.io/crates/protolink-grpc-gen) | 0.0.2 | 0 | Generates protolink gRPC service traits, servers and clients for micropb messag… |
-| 2026-10-02 08:08:57 | [protolink-http2](https://crates.io/crates/protolink-http2) | 0.0.2 | 0 | Sans-IO, no_std + alloc HTTP/2 connection state machine used by protolink. |
-| 2026-10-02 08:08:58 | [protolink-grpc](https://crates.io/crates/protolink-grpc) | 0.0.2 | 0 | Sans-IO, no_std + alloc unary gRPC server/client core with micropb codec suppor… |
-| 2026-10-02 08:09:50 | [gemini-adk](https://crates.io/crates/gemini-adk) | 4.0.0 | 0 | Build Gemini agents in Rust — text, streaming, typed output, tools, governed fl… |
-| 2026-10-02 08:12:38 | [hurray-core](https://crates.io/crates/hurray-core) | 0.1.0 | 0 | Core types, tensor descriptor, buffer handle, and quantization descriptors for… |
-| 2026-10-02 08:13:01 | [hurray-io](https://crates.io/crates/hurray-io) | 0.1.0 | 0 | Async streaming and file format read/write for the hurray tensor interchange fo… |
-| 2026-10-02 08:13:13 | [hurray-ffi](https://crates.io/crates/hurray-ffi) | 0.1.0 | 0 | C ABI layer for hurray language bindings — opaque handles, function table, buff… |
-| 2026-10-02 08:13:26 | [hurray-inspect](https://crates.io/crates/hurray-inspect) | 0.1.0 | 0 | CLI tool to inspect Hurray binary tensor descriptor files as a human-readable h… |
-| 2026-10-02 08:15:37 | [julia1](https://crates.io/crates/julia1) | 0.1.2 | 0 | Rust CPU/CUDA inference runtime for the Supersonic Labs Julia-1 decision model |
-| 2026-10-02 08:19:10 | [waybill-cli](https://crates.io/crates/waybill-cli) | 0.1.0 | 0 | 运单命令行工具：可恢复的云端投递 |
+| 2026-10-02 08:22:14 | [brokk-tree-sitter-scala](https://crates.io/crates/brokk-tree-sitter-scala) | 0.26.3 | 0 | Brokk-maintained Scala grammar for tree-sitter |
+| 2026-10-02 08:26:49 | [locate-anything](https://crates.io/crates/locate-anything) | 0.1.2 | 0 | Rust (candle) inference for nvidia/LocateAnything-3B (MoonViT + Qwen2.5 with Pa… |
+| 2026-10-02 08:27:16 | [cf-gears-service-discovery](https://crates.io/crates/cf-gears-service-discovery) | 0.2.3 | 0 | Service Discovery - system gear for service discovery and module management |
+| 2026-10-02 08:27:27 | [talmaci-struct-fragments-rs](https://crates.io/crates/talmaci-struct-fragments-rs) | 0.1.0 | 0 | Compile-time reusable struct field composition for Rust |
+| 2026-10-02 08:39:33 | [scoutapm-cli](https://crates.io/crates/scoutapm-cli) | 0.6.1 | 0 | ScoutAPM CLI - query apps, endpoints, traces, and metrics |
+| 2026-10-02 08:43:24 | [handy-cpal](https://crates.io/crates/handy-cpal) | 0.18.2 | 0 | cpal 0.18.2 with a PulseAudio record-stream fix (RustAudio/cpal#1387). Temporar… |
+| 2026-10-02 08:50:33 | [nix-rs-store](https://crates.io/crates/nix-rs-store) | 0.1.0 | 0 | A local Nix store compatible with CppNix's on-disk format |
+| 2026-10-02 08:50:42 | [nix-rs-build](https://crates.io/crates/nix-rs-build) | 0.1.0 | 0 | Derivation builds for the nix-rs engine, compatible with CppNix's sandbox |
+| 2026-10-02 08:52:00 | [azuredevopstui](https://crates.io/crates/azuredevopstui) | 0.1.0 | 0 | Terminal UI for your Azure DevOps pull requests, work items and sprint board |
+| 2026-10-02 08:55:07 | [phonon-rs](https://crates.io/crates/phonon-rs) | 0.1.2 | 0 | Phonon-2 speech-to-text CLI (candle, CPU or CUDA) |
+| 2026-10-02 08:55:44 | [lintent](https://crates.io/crates/lintent) | 0.1.1 | 0 | Plain-language lint rules judged by a model (Jev, by TypeSafe), scoped with tre… |
+| 2026-10-02 08:56:34 | [handy-recorder](https://crates.io/crates/handy-recorder) | 0.1.0 | 0 | Cross-platform microphone capture: exact, ordered, framed audio on an ordinary… |
+| 2026-10-02 08:59:52 | [turso-sql](https://crates.io/crates/turso-sql) | 0.1.0 | 0 | SQL AST and query builder for the Turso / SQLite dialect |
+| 2026-10-02 09:00:58 | [ljos-hud](https://crates.io/crates/ljos-hud) | 0.22.0 | 0 | Summonable icedtea pane over due reviews, live claims, and trust. |
+| 2026-10-02 09:01:45 | [turso-orm-driver](https://crates.io/crates/turso-orm-driver) | 0.1.0 | 0 | Connection pool, transactions and typed rows for the Turso database |
+| 2026-10-02 09:05:45 | [zk402-wasm](https://crates.io/crates/zk402-wasm) | 0.1.0 | 0 | WebAssembly bindings for zk402 client-side proof generation |
+| 2026-10-02 09:06:47 | [turso-orm-macros](https://crates.io/crates/turso-orm-macros) | 0.1.0 | 0 | Derive macros for turso-orm |
+| 2026-10-02 09:08:39 | [turso-orm](https://crates.io/crates/turso-orm) | 0.1.0 | 0 | An async ORM dedicated to the Turso database, with a typed entity API |
+| 2026-10-02 09:09:23 | [turso-orm-migration](https://crates.io/crates/turso-orm-migration) | 0.1.0 | 0 | Schema migrations for turso-orm |
+| 2026-10-02 09:12:30 | [stories-rs](https://crates.io/crates/stories-rs) | 0.0.2 | 0 | specification [rules+schema] for questionable [w/quests] videogame storylines [… |
+| 2026-10-02 09:15:18 | [refresh-godev](https://crates.io/crates/refresh-godev) | 0.1.0 | 0 | Updates go module at pkg.go.dev |
+| 2026-10-02 09:19:14 | [an5-adapters](https://crates.io/crates/an5-adapters) | 0.1.0 | 0 | Standalone database adapter runtime for AN5 ORM (Rust) — connection handling, d… |
 
 ## Data source
 

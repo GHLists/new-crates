@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T08:22:14.0271Z,brokk-tree-sitter-scala,0.26.3,0,0,https://github.com/BrokkAi/tree-sitter-scala,Brokk-maintained Scala grammar for tree-sitter
+2026-10-02T08:26:49.204557Z,locate-anything,0.1.2,0,0,https://github.com/apiplant/locate-anything-rs,Rust (candle) inference for nvidia/LocateAnything-3B (MoonViT + Qwen2.5 with Parallel Box Decoding)
+2026-10-02T08:27:16.139237Z,cf-gears-service-discovery,0.2.3,0,0,https://github.com/constructorfabric/gears-rust,Service Discovery - system gear for service discovery and module management
+2026-10-02T08:27:27.074916Z,talmaci-struct-fragments-rs,0.1.0,0,0,https://github.com/Talmaci/talmaci-struct-fragments-rs,Compile-time reusable struct field composition for Rust
+2026-10-02T08:39:33.508486Z,scoutapm-cli,0.6.1,0,0,https://github.com/amkisko/scout-cli.rs,"ScoutAPM CLI - query apps, endpoints, traces, and metrics"
+2026-10-02T08:43:24.769645Z,handy-cpal,0.18.2,0,0,https://github.com/handy-computer/cpal,cpal 0.18.2 with a PulseAudio record-stream fix (RustAudio/cpal#1387). Temporary; use cpal once it ships.
+2026-10-02T08:50:33.49992Z,nix-rs-store,0.1.0,0,0,https://github.com/SINGH-RAJVEER/nix-rs,A local Nix store compatible with CppNix's on-disk format
+2026-10-02T08:50:42.242223Z,nix-rs-build,0.1.0,0,0,https://github.com/SINGH-RAJVEER/nix-rs,"Derivation builds for the nix-rs engine, compatible with CppNix's sandbox"
+2026-10-02T08:52:00.054059Z,azuredevopstui,0.1.0,0,0,https://github.com/ferenyl/azuredevopstui,"Terminal UI for your Azure DevOps pull requests, work items and sprint board"
+2026-10-02T08:55:07.418134Z,phonon-rs,0.1.2,0,0,https://github.com/apiplant/phonon-rs,"Phonon-2 speech-to-text CLI (candle, CPU or CUDA)"
+2026-10-02T08:55:44.25622Z,lintent,0.1.1,0,0,https://github.com/pietervp/lintent,"Plain-language lint rules judged by a model (Jev, by TypeSafe), scoped with tree-sitter"
+2026-10-02T08:56:34.809361Z,handy-recorder,0.1.0,0,0,https://github.com/handy-computer/handy-recorder,"Cross-platform microphone capture: exact, ordered, framed audio on an ordinary thread."
+2026-10-02T08:59:52.372656Z,turso-sql,0.1.0,0,0,https://github.com/aartintelligent/turso-orm,SQL AST and query builder for the Turso / SQLite dialect
+2026-10-02T09:00:58.982138Z,ljos-hud,0.22.0,0,0,https://github.com/leidarljos/ljos,"Summonable icedtea pane over due reviews, live claims, and trust."
+2026-10-02T09:01:45.264502Z,turso-orm-driver,0.1.0,0,0,https://github.com/aartintelligent/turso-orm,"Connection pool, transactions and typed rows for the Turso database"
+2026-10-02T09:05:45.826056Z,zk402-wasm,0.1.0,0,0,https://github.com/ronykris/zk402,WebAssembly bindings for zk402 client-side proof generation
+2026-10-02T09:06:47.107663Z,turso-orm-macros,0.1.0,0,0,https://github.com/aartintelligent/turso-orm,Derive macros for turso-orm
+2026-10-02T09:08:39.890381Z,turso-orm,0.1.0,0,0,https://github.com/aartintelligent/turso-orm,"An async ORM dedicated to the Turso database, with a typed entity API"
+2026-10-02T09:09:23.502508Z,turso-orm-migration,0.1.0,0,0,https://github.com/aartintelligent/turso-orm,Schema migrations for turso-orm
+2026-10-02T09:12:30.655765Z,stories-rs,0.0.2,0,0,https://codeberg.org/itsvivi/stories.git,specification [rules+schema] for questionable [w/quests] videogame storylines [;)] rs: the Rust implementation
+2026-10-02T09:15:18.164183Z,refresh-godev,0.1.0,0,0,https://gitlab.com/hsn10/refresh-godev.git,Updates go module at pkg.go.dev
+2026-10-02T09:19:14.846579Z,an5-adapters,0.1.0,0,0,https://github.com/an5ORM/an5Adapters,"Standalone database adapter runtime for AN5 ORM (Rust) — connection handling, dialect-aware CRUD, aggregates and vector search."
