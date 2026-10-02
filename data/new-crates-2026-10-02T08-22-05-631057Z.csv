@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T07:19:10.055293Z,secure_stream_auth,0.1.1,0,0,https://github.com/oytaer/secure_stream,Access guard: HMAC tokens and signed paths for secure_stream delivery layer
+2026-10-02T07:20:12.179828Z,secure_stream_packager,0.1.1,0,0,https://github.com/oytaer/secure_stream,ffmpeg-based encrypted multi-bitrate HLS packaging for secure_stream
+2026-10-02T07:20:18.555739Z,secure_stream_manifest,0.1.1,0,0,https://github.com/oytaer/secure_stream,HLS m3u8 manifest generators (master + media playlists) for secure_stream
+2026-10-02T07:21:03.86431Z,laya-rs2,0.3.1,0,0,https://github.com/apiplant/laya-rs,Rust (candle) inference for Laya's typed-decision (choice/score/noul) decision engine
+2026-10-02T07:21:16.64367Z,secure_stream,0.1.1,0,0,https://github.com/oytaer/secure_stream,Server-side protected adaptive streaming library (encrypted multi-bitrate HLS)
+2026-10-02T07:40:10.785973Z,stucco-theme,0.1.0,0,0,https://github.com/mcaveniathor/stucco,"Theme engine for stucco: OKLCH scales, semantic roles, presets and contrast validation."
+2026-10-02T07:40:32.240802Z,stucco-core,0.1.0,0,0,https://github.com/mcaveniathor/stucco,"Rendering core for stucco: safe markup, identity, assets, pages and fragments."
+2026-10-02T07:40:35.272024Z,stucco-ui,0.1.0,0,0,https://github.com/mcaveniathor/stucco,"Semantic UI components for stucco: layouts, forms, tables, collections, application shells and icons."
+2026-10-02T07:40:38.22012Z,stucco-tower,0.1.0,0,0,https://github.com/mcaveniathor/stucco,"Tower integration for stucco: asset serving, page/fragment responses, negotiation and standard layers."
+2026-10-02T07:40:40.559609Z,stucco-redb,0.1.0,0,0,https://github.com/mcaveniathor/stucco,Typed embedded storage and collection sources for stucco.
+2026-10-02T07:40:43.240452Z,stucco,0.1.0,0,0,https://github.com/mcaveniathor/stucco,"Server-rendered, themeable, accessible UI components for Rust."
+2026-10-02T07:51:40.956742Z,nuotc,0.0.1,0,0,https://github.com/ming2k/nuotc,High-performance retained-mode terminal canvas and diff rendering engine
+2026-10-02T07:51:55.63648Z,tc_buffered_cipher,0.1.0,0,0,https://github.com/TomiCheng/tc_crypto,"One buffered interface over block modes with or without padding, stream ciphers and AEADs, after Bouncy Castle's IBufferedCipher."
+2026-10-02T07:57:19.380528Z,tomoz-dicom,0.1.0,0,0,https://github.com/ZeroXShot/tomoz,"Robust DICOM Part 10 parsing, pixel data extraction and byte-exact reassembly for Tomoz"
+2026-10-02T07:57:20.207585Z,tomoz-entropy,0.1.0,0,0,https://github.com/ZeroXShot/tomoz,"Range coder with adaptive multi-symbol and binary models, bit-exact on every platform"
+2026-10-02T07:57:21.055582Z,tomoz-nn,0.1.0,0,0,https://github.com/ZeroXShot/tomoz,"Integer neural network runtime with exact results across scalar, NEON, AVX2 and WebAssembly SIMD kernels"
+2026-10-02T07:57:23.658216Z,tomoz-codec,0.1.0,0,0,https://github.com/ZeroXShot/tomoz,"Learned, deterministic lossless codec for medical image volumes"
+2026-10-02T07:57:26.01079Z,tomoz-archive,0.1.0,0,0,https://github.com/ZeroXShot/tomoz,Byte-exact DICOM archives with Tomoz-coded pixel data
+2026-10-02T07:58:55.227352Z,taktora-executor-sys,0.1.0,0,0,https://github.com/patdhlk/taktora,"Audited unsafe primitives for taktora-executor: OS FFI, iceoryx2 port Send wrappers, and borrowed dispatch pointers behind safe APIs."
+2026-10-02T08:00:39.050432Z,scout_lib,0.6.0,0,0,https://github.com/amkisko/scout-cli.rs,ScoutAPM API client library
+2026-10-02T08:03:25.887055Z,merge-safetensors,0.2.2,0,0,https://github.com/apiplant/merge-safetensors-rs,"Merge sharded .safetensors files into one, driven by a *.safetensors.index.json"
+2026-10-02T08:06:04.290656Z,rutis-interop,0.1.0,0,0,https://github.com/arcships/rutis,"Mount published Cordis (Node) plugins in rutis applications, with Rust bindings generated from their type declarations"
+2026-10-02T08:08:05.560904Z,waybill,0.1.0,0,0,https://github.com/yexiyue/waybill,Reliable bidirectional delivery between local files and cloud storage: resumable transfers with receipts
+2026-10-02T08:08:07.360034Z,waybill-service-fs,0.1.0,0,0,https://github.com/yexiyue/waybill,"Native stable file sources, durable checkpoints, and the local download target for waybill"
+2026-10-02T08:08:09.111382Z,waybill-service-gdrive,0.1.0,0,0,https://github.com/yexiyue/waybill,Google Drive resumable upload service for waybill
+2026-10-02T08:08:09.475223Z,waybill-service-opendal,0.1.0,0,0,https://github.com/yexiyue/waybill,Object storage access and delivery through Apache OpenDAL
+2026-10-02T08:08:10.009951Z,waybill-service-webdav,0.1.0,0,0,https://github.com/yexiyue/waybill,WebDAV object access and recoverable file delivery for waybill
+2026-10-02T08:08:17.571319Z,opendlss-nr,0.1.2,0,0,https://github.com/apiplant/opendlss-rs,Linux Rust host and model validator for the OpenDLSS-NR Vulkan implementation
+2026-10-02T08:08:57.553989Z,protolink-grpc-gen,0.0.2,0,0,https://github.com/thives/protolink.rs,"Generates protolink gRPC service traits, servers and clients for micropb messages."
+2026-10-02T08:08:57.858492Z,protolink-http2,0.0.2,0,0,https://github.com/thives/protolink.rs,"Sans-IO, no_std + alloc HTTP/2 connection state machine used by protolink."
+2026-10-02T08:08:58.661919Z,protolink-grpc,0.0.2,0,0,https://github.com/thives/protolink.rs,"Sans-IO, no_std + alloc unary gRPC server/client core with micropb codec support."
+2026-10-02T08:09:50.987887Z,gemini-adk,4.0.0,0,0,https://github.com/vamsiramakrishnan/gemini-rs,"Build Gemini agents in Rust — text, streaming, typed output, tools, governed flows and live voice — from one crate"
+2026-10-02T08:12:38.740391Z,hurray-core,0.1.0,0,0,https://github.com/pgillet/hurray,"Core types, tensor descriptor, buffer handle, and quantization descriptors for the hurray format. No I/O, no async."
+2026-10-02T08:13:01.215597Z,hurray-io,0.1.0,0,0,https://github.com/pgillet/hurray,Async streaming and file format read/write for the hurray tensor interchange format.
+2026-10-02T08:13:13.270505Z,hurray-ffi,0.1.0,0,0,https://github.com/pgillet/hurray,"C ABI layer for hurray language bindings — opaque handles, function table, buffer release callbacks."
+2026-10-02T08:13:26.3763Z,hurray-inspect,0.1.0,0,0,https://github.com/pgillet/hurray,CLI tool to inspect Hurray binary tensor descriptor files as a human-readable hex table.
+2026-10-02T08:15:37.35068Z,julia1,0.1.2,0,0,https://github.com/apiplant/julia1-rs,Rust CPU/CUDA inference runtime for the Supersonic Labs Julia-1 decision model
+2026-10-02T08:19:10.353286Z,waybill-cli,0.1.0,0,0,https://github.com/yexiyue/waybill,运单命令行工具：可恢复的云端投递
