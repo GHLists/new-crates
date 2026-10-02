@@ -8,53 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 11:21 UTC
+## Latest list — 2026-10-02 12:18 UTC
 
-New crates published between 2026-10-02 10:19 UTC and 2026-10-02 11:21 UTC.
+New crates published between 2026-10-02 11:21 UTC and 2026-10-02 12:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-02T11-21-09-700281Z.csv)
+[Full CSV](data/new-crates-2026-10-02T12-18-38-495807Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-02 10:19:57 | [asimov-telemetry](https://crates.io/crates/asimov-telemetry) | 25.6.1 | 0 | ASIMOV Software Development Kit (SDK) for Rust |
-| 2026-10-02 10:24:58 | [vygr-core](https://crates.io/crates/vygr-core) | 0.4.0 | 0 | voyager core: shared types, provider traits, configuration and error contract |
-| 2026-10-02 10:25:15 | [vygr-providers](https://crates.io/crates/vygr-providers) | 0.4.0 | 0 | voyager search and fetch providers |
-| 2026-10-02 10:25:19 | [vygr-llm](https://crates.io/crates/vygr-llm) | 0.4.0 | 0 | voyager LLM backends: OpenAI-compatible, Ollama, harness shell-out, models.dev… |
-| 2026-10-02 10:25:34 | [vygr-research](https://crates.io/crates/vygr-research) | 0.4.0 | 0 | voyager research engine: plan-then-execute loop, scoring, run artifacts |
-| 2026-10-02 10:25:41 | [vygr](https://crates.io/crates/vygr) | 0.4.0 | 0 | vygr — voyager deep research CLI |
-| 2026-10-02 10:27:20 | [iswebclientrunning-rs](https://crates.io/crates/iswebclientrunning-rs) | 1.0.0 | 0 | WebClient/WebDAV service probe (IsWebClientRunning) for BloodHound Community Ed… |
-| 2026-10-02 10:32:53 | [dotloom-constraints](https://crates.io/crates/dotloom-constraints) | 1.1.0 | 0 | Dotloom constraint solver: linear (Cassowary/kasuari) and sparse sequential-qua… |
-| 2026-10-02 10:32:54 | [dotloom-geometry](https://crates.io/crates/dotloom-geometry) | 1.1.0 | 0 | Dotloom 2D geometry: f64 primitives, transforms, intersections, editing operati… |
-| 2026-10-02 10:32:55 | [dotloom-document](https://crates.io/crates/dotloom-document) | 1.1.0 | 0 | Dotloom document model: stable IDs, typed entities, layers, groups, constraints… |
-| 2026-10-02 10:32:55 | [dotloom-scene](https://crates.io/crates/dotloom-scene) | 1.1.0 | 0 | Dotloom scene contract: world-space display items, overlays and a compact binar… |
-| 2026-10-02 10:32:57 | [dotloom-engine](https://crates.io/crates/dotloom-engine) | 1.1.0 | 0 | Headless Dotloom engine: transactions, constraint solving, history, plugins, qu… |
-| 2026-10-02 10:36:03 | [podpis-rs](https://crates.io/crates/podpis-rs) | 0.1.1 | 0 | Validate XAdES-BES enveloping XML signatures (podpis.gov.pl style) |
-| 2026-10-02 10:43:49 | [respire_protocol](https://crates.io/crates/respire_protocol) | 1.0.0 | 0 | respire wire protocol and serde-only domain types |
-| 2026-10-02 10:46:37 | [axiolid-constraint2d](https://crates.io/crates/axiolid-constraint2d) | 0.1.0 | 0 | Apollonius and tangent-circle constructions: circles tangent to three points, l… |
-| 2026-10-02 10:47:17 | [dotloom-io](https://crates.io/crates/dotloom-io) | 1.1.0 | 0 | Dotloom file formats: .dotl project container, SVG and ASCII DXF import/export… |
-| 2026-10-02 10:47:20 | [dotloom-render](https://crates.io/crates/dotloom-render) | 1.1.0 | 0 | wgpu renderer for Dotloom scenes (WebGPU, WebGL2 and native backends) |
-| 2026-10-02 10:48:59 | [tomoz-gateway](https://crates.io/crates/tomoz-gateway) | 0.1.0 | 0 | S3-compatible storage gateway that compacts DICOM series into Tomoz archives |
-| 2026-10-02 10:49:18 | [tomoz-cli](https://crates.io/crates/tomoz-cli) | 0.1.0 | 0 | Command-line interface of Tomoz, the learned lossless codec for medical image v… |
-| 2026-10-02 10:51:13 | [nowpayments-rust](https://crates.io/crates/nowpayments-rust) | 1.0.5 | 0 | Full-featured Rust SDK for NOWPayments cryptocurrency payment API |
-| 2026-10-02 10:51:56 | [hello-world-crate](https://crates.io/crates/hello-world-crate) | 0.1.0 | 0 | A minimal greeting library for learning how to publish a Rust crate. |
-| 2026-10-02 10:55:35 | [ds2-protocol](https://crates.io/crates/ds2-protocol) | 0.1.1 | 0 | no_std implementation of BMW's DS2 diagnostic protocol |
-| 2026-10-02 10:55:46 | [attested-request](https://crates.io/crates/attested-request) | 0.1.0 | 0 | Sign and verify World App attested-key canonical requests (TFH RFC 9421 integri… |
-| 2026-10-02 10:55:49 | [attested-request-tower](https://crates.io/crates/attested-request-tower) | 0.1.0 | 0 | tower and axum middleware that verifies World App attested-key canonical reques… |
-| 2026-10-02 11:00:15 | [dotloom-cli](https://crates.io/crates/dotloom-cli) | 1.1.0 | 0 | Dotloom command-line tool: inspect, validate and convert .dotl, SVG and DXF fil… |
-| 2026-10-02 11:00:48 | [axiolid-tetrahedralize](https://crates.io/crates/axiolid-tetrahedralize) | 0.1.0 | 0 | Exact 3D Delaunay tetrahedralization with symbolic perturbation |
-| 2026-10-02 11:02:33 | [reports-web](https://crates.io/crates/reports-web) | 1.0.0 | 0 | Reports.Web for Rust: build PREPEJ print data from .prepdj report definitions a… |
-| 2026-10-02 11:03:06 | [rushls-common](https://crates.io/crates/rushls-common) | 0.1.0 | 0 | Configuration, outbound HTTP, lifecycle hooks, rotating TLS, and listener helpe… |
-| 2026-10-02 11:03:08 | [rushls](https://crates.io/crates/rushls) | 0.1.0 | 0 | A low-latency HLS origin with RTMP, SRT, and Media over QUIC ingest |
-| 2026-10-02 11:05:38 | [ailoy](https://crates.io/crates/ailoy) | 0.3.0 | 0 | Agents that drive a language model through tool-augmented turns, in a virtx con… |
-| 2026-10-02 11:11:37 | [ctmux-core](https://crates.io/crates/ctmux-core) | 0.1.0 | 0 | Session and terminal view model for ctmux |
-| 2026-10-02 11:11:38 | [ctmux-ipc](https://crates.io/crates/ctmux-ipc) | 0.1.0 | 0 | Local IPC and daemon lifecycle management for ctmux |
-| 2026-10-02 11:11:40 | [ctl-client](https://crates.io/crates/ctl-client) | 0.1.0 | 0 | Client transports, SSH connections, and remote component management for ctl |
-| 2026-10-02 11:11:41 | [ctmuxd](https://crates.io/crates/ctmuxd) | 0.1.0 | 0 | Daemon for persistent ctmux terminal sessions and shared views |
-| 2026-10-02 11:11:44 | [ctl-taskd](https://crates.io/crates/ctl-taskd) | 0.1.0 | 0 | Daemon for persistent ctl background tasks |
-| 2026-10-02 11:19:43 | [cf-gears-graph-storage-sdk](https://crates.io/crates/cf-gears-graph-storage-sdk) | 0.1.1 | 0 | SDK for the graph-storage gear: client trait, transport-agnostic models, plugin… |
-| 2026-10-02 11:19:56 | [cf-gears-toolkit-onnx-runtime](https://crates.io/crates/cf-gears-toolkit-onnx-runtime) | 0.1.0 | 0 | ToolKit ONNX Runtime support: one pinned `ort`, a session opened on an abandona… |
-| 2026-10-02 11:20:19 | [cf-gears-graph-storage-onnx-embedding-plugin](https://crates.io/crates/cf-gears-graph-storage-onnx-embedding-plugin) | 0.1.0 | 0 | In-process ONNX embedding provider for the graph-storage gear: the default of A… |
-| 2026-10-02 11:21:00 | [cf-gears-graph-storage-remote-embedding-plugin](https://crates.io/crates/cf-gears-graph-storage-remote-embedding-plugin) | 0.1.0 | 0 | Remote embedding provider for the graph-storage gear: the alternative plugin of… |
+| 2026-10-02 11:21:45 | [nginxui-plugin-sdk](https://crates.io/crates/nginxui-plugin-sdk) | 0.1.0 | 0 | Rust SDK for writing NGINX UI plugins |
+| 2026-10-02 11:23:20 | [cf-gears-graph-storage](https://crates.io/crates/cf-gears-graph-storage) | 0.1.4 | 0 | Graph Storage gear: typed, multi-tenant knowledge graph with search and travers… |
+| 2026-10-02 11:30:16 | [crolib](https://crates.io/crates/crolib) | 0.1.0 | 0 | Generalizability theory: crossed-design reliability and D-study projections |
+| 2026-10-02 11:51:55 | [coremlit](https://crates.io/crates/coremlit) | 0.1.0 | 0 | Safe, synchronous CoreML runtime for macOS (CPU/GPU/Neural Engine) with opt-in… |
+| 2026-10-02 12:06:30 | [tiny-wasm-runtime-macros](https://crates.io/crates/tiny-wasm-runtime-macros) | 0.1.0 | 0 | Proc macros for tiny-wasm-runtime: export a WASI 0.3 wasi:cli/run entrypoint wi… |
+| 2026-10-02 12:06:56 | [tcc-ir](https://crates.io/crates/tcc-ir) | 26.10.0 | 0 | TCC program representation, artifact envelope, and validation |
+| 2026-10-02 12:06:58 | [tcc-state](https://crates.io/crates/tcc-state) | 26.10.0 | 0 | TCC values, frames, and continuation encoding |
+| 2026-10-02 12:07:00 | [tiny-wasm-runtime](https://crates.io/crates/tiny-wasm-runtime) | 0.1.1 | 0 | A minimal, single-threaded async runtime for WASI Preview 3 components |
+| 2026-10-02 12:07:01 | [tcc-core](https://crates.io/crates/tcc-core) | 26.10.0 | 0 | TCC execution and durable-operation semantics |
+| 2026-10-02 12:07:47 | [rok-ui-hooks](https://crates.io/crates/rok-ui-hooks) | 0.2.0 | 0 | Fine-grained reactivity for Rust with a React-flavoured API: signals, effects,… |
+| 2026-10-02 12:07:49 | [lipl-gatt-zbus](https://crates.io/crates/lipl-gatt-zbus) | 0.4.8 | 0 | Receiving Gatt Characteristics writes |
+| 2026-10-02 12:08:04 | [tcc-host](https://crates.io/crates/tcc-host) | 26.10.0 | 0 | TCC host protocol driver and Host trait |
+| 2026-10-02 12:08:18 | [tcc-host-sqlite](https://crates.io/crates/tcc-host-sqlite) | 26.10.0 | 0 | SQLite host for TCC executions |
+| 2026-10-02 12:12:17 | [knowledge-architect-agent-skills](https://crates.io/crates/knowledge-architect-agent-skills) | 0.1.0 | 0 | The agent skills, subagent definitions and primer that knowledge-architect inst… |
+| 2026-10-02 12:12:18 | [knowledge-architect-gates](https://crates.io/crates/knowledge-architect-gates) | 0.1.0 | 0 | Runs a project's merge gates as one command: complete logs, distilled failures,… |
+| 2026-10-02 12:12:20 | [knowledge-architect](https://crates.io/crates/knowledge-architect) | 0.1.0 | 0 | Keeps the design record of a project's documentation consistent with its code:… |
+| 2026-10-02 12:13:07 | [rok-ui-macros](https://crates.io/crates/rok-ui-macros) | 0.1.0 | 0 | Procedural macros for rok-ui: the #[component] attribute. |
+| 2026-10-02 12:13:32 | [ruxen](https://crates.io/crates/ruxen) | 0.1.0 | 0 | Experimental nginx-compatible HTTP server and reverse proxy for Linux, written… |
+| 2026-10-02 12:13:32 | [rok-ui](https://crates.io/crates/rok-ui) | 0.1.0 | 0 | shadcn/ui-style component system for GPUI desktop apps, with a React-like devel… |
+| 2026-10-02 12:17:35 | [ctl-agent](https://crates.io/crates/ctl-agent) | 0.1.0 | 0 | SSH gateway for remote ctl terminal sessions and managed tasks |
+| 2026-10-02 12:17:36 | [ctmux-tui](https://crates.io/crates/ctmux-tui) | 0.1.0 | 0 | Interactive terminal UI for persistent ctmux sessions and shared views |
+| 2026-10-02 12:17:38 | [ctmux-cli](https://crates.io/crates/ctmux-cli) | 0.1.0 | 0 | Command-line client and terminal UI for persistent ctmux sessions |
+| 2026-10-02 12:17:41 | [ctl-task-cli](https://crates.io/crates/ctl-task-cli) | 0.1.0 | 0 | Task command implementation for the ctl CLI |
+| 2026-10-02 12:17:44 | [ctl-cli](https://crates.io/crates/ctl-cli) | 0.1.0 | 0 | CLI for local and remote terminal sessions, tasks, SSH, and VPN connections |
 
 ## Data source
 

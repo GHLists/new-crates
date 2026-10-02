@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T11:21:45.68382Z,nginxui-plugin-sdk,0.1.0,0,0,https://github.com/nginxui/plugin-sdk-rust,Rust SDK for writing NGINX UI plugins
+2026-10-02T11:23:20.143968Z,cf-gears-graph-storage,0.1.4,0,0,https://github.com/constructorfabric/gears-rust,"Graph Storage gear: typed, multi-tenant knowledge graph with search and traversal over a pluggable store"
+2026-10-02T11:30:16.099142Z,crolib,0.1.0,0,0,https://github.com/antimemeai/crolib,Generalizability theory: crossed-design reliability and D-study projections
+2026-10-02T11:51:55.01736Z,coremlit,0.1.0,0,0,https://github.com/findit-studio/coremlit,"Safe, synchronous CoreML runtime for macOS (CPU/GPU/Neural Engine) with opt-in on-device multimodal pipelines: speech (Whisper STT, forced alignment, speaker diarization, Silero VAD), AudioSet sound-…"
+2026-10-02T12:06:30.670143Z,tiny-wasm-runtime-macros,0.1.0,0,0,https://github.com/StaticallyTypedAnxiety/tiny-async-runtime,Proc macros for tiny-wasm-runtime: export a WASI 0.3 wasi:cli/run entrypoint without hand-writing the Guest impl
+2026-10-02T12:06:56.264173Z,tcc-ir,26.10.0,0,0,https://github.com/trigora-dev/tcc-engine,"TCC program representation, artifact envelope, and validation"
+2026-10-02T12:06:58.880239Z,tcc-state,26.10.0,0,0,https://github.com/trigora-dev/tcc-engine,"TCC values, frames, and continuation encoding"
+2026-10-02T12:07:00.383177Z,tiny-wasm-runtime,0.1.1,0,0,https://github.com/StaticallyTypedAnxiety/tiny-async-runtime,"A minimal, single-threaded async runtime for WASI Preview 3 components"
+2026-10-02T12:07:01.988121Z,tcc-core,26.10.0,0,0,https://github.com/trigora-dev/tcc-engine,TCC execution and durable-operation semantics
+2026-10-02T12:07:47.921758Z,rok-ui-hooks,0.2.0,0,0,https://github.com/ateeq1999/rok-ui-hooks,"Fine-grained reactivity for Rust with a React-flavoured API: signals, effects, memos, context, stores, ownership and async resources."
+2026-10-02T12:07:49.217121Z,lipl-gatt-zbus,0.4.8,0,0,https://github.com/paulusminus/lipl-display/,Receiving Gatt Characteristics writes
+2026-10-02T12:08:04.39989Z,tcc-host,26.10.0,0,0,https://github.com/trigora-dev/tcc-engine,TCC host protocol driver and Host trait
+2026-10-02T12:08:18.488127Z,tcc-host-sqlite,26.10.0,0,0,https://github.com/trigora-dev/tcc-engine,SQLite host for TCC executions
+2026-10-02T12:12:17.835732Z,knowledge-architect-agent-skills,0.1.0,0,0,https://github.com/tellurium-monoxide/knowledge-architect,"The agent skills, subagent definitions and primer that knowledge-architect installs into a project."
+2026-10-02T12:12:18.72555Z,knowledge-architect-gates,0.1.0,0,0,https://github.com/tellurium-monoxide/knowledge-architect,"Runs a project's merge gates as one command: complete logs, distilled failures, one verdict from exit codes."
+2026-10-02T12:12:20.892429Z,knowledge-architect,0.1.0,0,0,https://github.com/tellurium-monoxide/knowledge-architect,"Keeps the design record of a project's documentation consistent with its code: the walk, the entity table, references, registers and generated indexes."
+2026-10-02T12:13:07.68532Z,rok-ui-macros,0.1.0,0,0,https://github.com/ateeq1999/rok-ui,Procedural macros for rok-ui: the #[component] attribute.
+2026-10-02T12:13:32.424261Z,ruxen,0.1.0,0,0,https://github.com/gvozdetsky/ruxen,"Experimental nginx-compatible HTTP server and reverse proxy for Linux, written in Rust on io_uring"
+2026-10-02T12:13:32.69902Z,rok-ui,0.1.0,0,0,https://github.com/ateeq1999/rok-ui,"shadcn/ui-style component system for GPUI desktop apps, with a React-like developer experience."
+2026-10-02T12:17:35.123241Z,ctl-agent,0.1.0,0,0,https://github.com/tokn-ai/ctl,SSH gateway for remote ctl terminal sessions and managed tasks
+2026-10-02T12:17:36.050711Z,ctmux-tui,0.1.0,0,0,https://github.com/tokn-ai/ctl,Interactive terminal UI for persistent ctmux sessions and shared views
+2026-10-02T12:17:38.500122Z,ctmux-cli,0.1.0,0,0,https://github.com/tokn-ai/ctl,Command-line client and terminal UI for persistent ctmux sessions
+2026-10-02T12:17:41.030241Z,ctl-task-cli,0.1.0,0,0,https://github.com/tokn-ai/ctl,Task command implementation for the ctl CLI
+2026-10-02T12:17:44.04917Z,ctl-cli,0.1.0,0,0,https://github.com/tokn-ai/ctl,"CLI for local and remote terminal sessions, tasks, SSH, and VPN connections"
