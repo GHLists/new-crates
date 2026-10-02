@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T03:22:36.825322Z,cortenforge-scan-prep-core,0.9.0,0,0,https://github.com/via-balaena/CortenForge,"Headless, Bevy-free mesh-editing core for scan preprocessing — the scan repair / cap / centerline / trim / reconstruct algorithms + the .prep.toml schema"
+2026-10-02T03:24:26.053037Z,maryml-burn-cpu,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: MLIR based CPU backend for the Burn framework
+2026-10-02T03:32:23.242915Z,cortenforge-sim-mjcf,0.9.0,0,0,https://github.com/via-balaena/CortenForge,MJCF (MuJoCo XML Format) model loader for physics simulation
+2026-10-02T03:35:44.818528Z,maryml-burn-cuda,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: CUDA backend for the Burn framework
+2026-10-02T03:36:16.036288Z,mwpf,0.2.16,0,0,https://github.com/yuewuo/mwpf,Hypergraph Minimum-Weight Parity Factor (MWPF) Solver for Quantum LDPC Codes
+2026-10-02T03:40:43.703799Z,kage-acp-wire,0.0.0,0,0,https://github.com/QaidVoid/kage,"Agent Client Protocol wire schema for kage, shared by native and wasm clients."
+2026-10-02T03:42:16.801524Z,cortenforge-sim-ml-chassis,0.9.0,0,0,https://github.com/via-balaena/CortenForge,"Algorithm chassis: traits, primitives, Competition runner — the foundation every CortenForge algorithm crate bolts onto"
+2026-10-02T03:42:52.812619Z,kcode-k1-rust-bootstrap-validation,0.1.0,0,0,,Validate a normalized K1 Rust bootstrap package closure
+2026-10-02T03:45:54.417383Z,nktnet-curl-sys,0.4.91-nktnet.1+curl-8.22.0,0,0,https://github.com/nktnet1/curl-rust,Native bindings to the libcurl library
+2026-10-02T03:47:07.897115Z,maryml-burn-rocm,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: ROCm HIP backend for the Burn framework
+2026-10-02T03:52:10.641564Z,cortenforge-sim-rl,0.9.0,0,0,https://github.com/via-balaena/CortenForge,"Generic RL baselines (CEM, REINFORCE, PPO, TD3, SAC)"
+2026-10-02T03:54:38.864802Z,hugr-lightr-cri-backend,0.1.1,0,0,https://github.com/HumanGuardrail/hugr-lightr,CRI backend seam (transcribed CriBackend trait + vocab) and the LightrBackend impl over the hugr-lightr crates.
+2026-10-02T03:55:05.717243Z,hugr-lightr,0.1.1,0,0,https://github.com/HumanGuardrail/hugr-lightr,Command-line interface for the Lightr daemonless container runtime.
+2026-10-02T03:58:32.053264Z,maryml-burn-wgpu,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: WGPU backend for the Burn framework
+2026-10-02T04:02:13.507399Z,cortenforge-sim-soft,0.9.0,0,0,https://github.com/via-balaena/CortenForge,"Backward-Euler soft-body FEM: hyperelastic materials (Neo-Hookean, Yeoh) on tetrahedral meshes, SDF-to-tet meshing, bonded multi-material, and penalty and IPC contact with friction"
+2026-10-02T04:09:48.699017Z,maryml-burn-collective,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Backend extension for collective calculations.
+2026-10-02T04:12:02.867819Z,cortenforge-sim-coupling,0.9.0,0,0,https://github.com/via-balaena/CortenForge,Staggered forward soft↔rigid coupling between sim-soft (FEM) and sim-core (rigid). Exchanges rigid pose (→ soft contact) and the soft contact reaction (→ rigid xfrc) once per lockstep step.
+2026-10-02T04:18:09.579847Z,terramask,0.1.2,0,0,https://github.com/piLeoni/terramask,"Masks, outlines, polygons and distance grids of water, land, forests, parks or any OpenStreetMap layer, for any area, from vector tiles fetched on demand; depth and height bands from terrain tiles"
