@@ -8,44 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 18:18 UTC
+## Latest list — 2026-10-02 19:18 UTC
 
-New crates published between 2026-10-02 17:18 UTC and 2026-10-02 18:18 UTC.
+New crates published between 2026-10-02 18:18 UTC and 2026-10-02 19:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-02T18-18-45-58569Z.csv)
+[Full CSV](data/new-crates-2026-10-02T19-18-49-894012Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-02 17:20:45 | [dc_rulekit](https://crates.io/crates/dc_rulekit) | 0.1.0 | 0 | Business-agnostic on-device rules engine with host-supplied plugins |
-| 2026-10-02 17:26:15 | [bevy_zeroverse_capture](https://crates.io/crates/bevy_zeroverse_capture) | 0.1.0 | 0 | Shared capture identity and annotation contracts for bevy_zeroverse |
-| 2026-10-02 17:26:29 | [niri-punto](https://crates.io/crates/niri-punto) | 0.3.9 | 0 | Keyboard layout corrector for the niri Wayland compositor |
-| 2026-10-02 17:26:48 | [sprawling](https://crates.io/crates/sprawling) | 0.0.8 | 0 | Run many agents on one machine as a city: one binary, a browser client it serve… |
-| 2026-10-02 17:26:50 | [bevy_zeroverse_publication](https://crates.io/crates/bevy_zeroverse_publication) | 0.1.0 | 0 | Validated Rust project-page and whitepaper pipeline for bevy_zeroverse |
-| 2026-10-02 17:50:09 | [forma-ui](https://crates.io/crates/forma-ui) | 0.1.0 | 0 | A retained GUI framework: widget arena, taffy layout, cosmic-text, draw-list ou… |
-| 2026-10-02 17:51:05 | [grebe-syntax](https://crates.io/crates/grebe-syntax) | 0.4.0 | 0 | DuckDB SQL parser built from DuckDB's own PEG grammar: tokenizer, packrat match… |
-| 2026-10-02 17:51:07 | [grebe-format](https://crates.io/crates/grebe-format) | 0.4.0 | 0 | Formatter for DuckDB SQL, built on grebe-syntax's lossless CST. |
-| 2026-10-02 17:51:07 | [grebe-rules](https://crates.io/crates/grebe-rules) | 0.4.0 | 0 | Lint rules, autofixes and configuration for the grebe DuckDB SQL linter. |
-| 2026-10-02 17:51:09 | [grebe-lsp](https://crates.io/crates/grebe-lsp) | 0.4.0 | 0 | Language server for DuckDB SQL: diagnostics, quick fixes, formatting and semant… |
-| 2026-10-02 17:51:10 | [grebe](https://crates.io/crates/grebe) | 0.4.0 | 0 | A fast DuckDB SQL formatter and linter in one static binary. |
-| 2026-10-02 17:51:16 | [forma-wgpu](https://crates.io/crates/forma-wgpu) | 0.1.0 | 0 | A wgpu renderer for forma draw lists. |
-| 2026-10-02 17:51:30 | [forma-winit](https://crates.io/crates/forma-winit) | 0.1.0 | 0 | Connects forma to winit: input translation, cursor icons, IME placement, the OS… |
-| 2026-10-02 17:53:01 | [kcode-k1-rust-bootstrap-launcher](https://crates.io/crates/kcode-k1-rust-bootstrap-launcher) | 0.1.0 | 0 | Create the fixed Loom bootstrap launcher package |
-| 2026-10-02 17:55:54 | [kcode-k1-rust-bootstrap-archive](https://crates.io/crates/kcode-k1-rust-bootstrap-archive) | 0.1.0 | 0 | Read and write the exact Loom Rust bootstrap ZIP format |
-| 2026-10-02 17:57:54 | [netshell](https://crates.io/crates/netshell) | 0.1.0 | 0 | netmiko-style SSH shell driver for network devices: Arista EOS, Cisco IOS/NX-OS… |
-| 2026-10-02 17:58:52 | [mw-check](https://crates.io/crates/mw-check) | 0.1.0 | 0 | Maintenance window check: capture network device state before and after a chang… |
-| 2026-10-02 17:59:50 | [harte](https://crates.io/crates/harte) | 0.1.0 | 0 | Harte chord notation, read into music21-rs chords |
-| 2026-10-02 18:00:25 | [datafusion-arrowmetal](https://crates.io/crates/datafusion-arrowmetal) | 0.4.1 | 0 | A DataFusion 55.1 physical optimizer rule that runs full sorts, and count(*), D… |
-| 2026-10-02 18:10:06 | [nu_plugin_jev](https://crates.io/crates/nu_plugin_jev) | 0.1.0 | 0 | Nushell plugin for TypeSafe Jev structured decisions |
-| 2026-10-02 18:10:32 | [jj-fork](https://crates.io/crates/jj-fork) | 0.1.0 | 0 | Maintain a fork as jj series and glues on top of upstream, and keep them current |
-| 2026-10-02 18:12:46 | [furnace-rs-core-macros](https://crates.io/crates/furnace-rs-core-macros) | 1.0.0 | 0 | Procedural macros for the framework-neutral furnace-rs core |
-| 2026-10-02 18:12:51 | [furnace-rs-common-macros](https://crates.io/crates/furnace-rs-common-macros) | 1.0.0 | 0 | HTTP, controller, Passport, and route procedural macros for furnace-rs |
-| 2026-10-02 18:12:59 | [furnace-rs-core](https://crates.io/crates/furnace-rs-core) | 1.0.0 | 0 | Framework-neutral dependency injection, configuration, and lifecycle core for f… |
-| 2026-10-02 18:13:03 | [furnace-rs-extra](https://crates.io/crates/furnace-rs-extra) | 1.0.0 | 0 | Extension boundary for optional furnace-rs framework capabilities |
-| 2026-10-02 18:13:22 | [furnace-rs-common](https://crates.io/crates/furnace-rs-common) | 1.0.0 | 0 | HTTP, JWT, cookies, and Passport integrations for furnace-rs |
-| 2026-10-02 18:15:57 | [thesportsdb](https://crates.io/crates/thesportsdb) | 0.1.0 | 0 | Unofficial typed async client for the TheSportsDB v1 and v2 JSON APIs |
-| 2026-10-02 18:16:12 | [awaseru-core](https://crates.io/crates/awaseru-core) | 0.0.0 | 0 | awaseru's platform-independent half: the state model, the execution primitive a… |
-| 2026-10-02 18:16:18 | [awaseru-snes](https://crates.io/crates/awaseru-snes) | 0.0.0 | 0 | awaseru's first platform backend. |
-| 2026-10-02 18:16:25 | [awaseru](https://crates.io/crates/awaseru) | 0.0.0 | 0 | Verified reimplementation harness: runs a reference emulator alongside a reimpl… |
+| 2026-10-02 18:25:05 | [furnace-rs-testing](https://crates.io/crates/furnace-rs-testing) | 1.0.0 | 0 | Focused in-process test fixtures for furnace-rs |
+| 2026-10-02 18:25:12 | [ros-madair-handlers](https://crates.io/crates/ros-madair-handlers) | 0.1.0-alpha.16 | 0 | The single source of the Rós Madair extension-type registry: handler declaratio… |
+| 2026-10-02 18:25:22 | [kcode-k1-chat-thread-rust-code-build-task](https://crates.io/crates/kcode-k1-chat-thread-rust-code-build-task) | 0.1.0 | 0 | Own the exact RustCodeBuild model task |
+| 2026-10-02 18:25:39 | [ros-madair-query](https://crates.io/crates/ros-madair-query) | 0.1.0-alpha.16 | 0 | Schema-validated query IR + SQL compiler against the Rós Madair static-assets h… |
+| 2026-10-02 18:26:17 | [ros-madair-format](https://crates.io/crates/ros-madair-format) | 0.1.0-alpha.16 | 0 | The Rós Madair static-artifact FORMAT: manifest contract types + attestation ve… |
+| 2026-10-02 18:32:58 | [standard-plugin-manifest](https://crates.io/crates/standard-plugin-manifest) | 0.1.0 | 0 | The standard-plugin.json manifest and grant model shared by the Standard Code p… |
+| 2026-10-02 18:33:00 | [standard-plugin-macros](https://crates.io/crates/standard-plugin-macros) | 0.1.0 | 0 | Attribute macros that export a Standard Code plugin type as a wasm component (u… |
+| 2026-10-02 18:33:13 | [standard-plugin-sdk](https://crates.io/crates/standard-plugin-sdk) | 0.1.0 | 0 | Write Standard Code plugins in Rust: wasm components against standard:plugin@2.… |
+| 2026-10-02 18:33:28 | [standard-plugin-cli](https://crates.io/crates/standard-plugin-cli) | 0.1.0 | 0 | standard-plugin: scaffold, build, check and pack Standard Code plugins |
+| 2026-10-02 18:37:02 | [ros-madair-emit](https://crates.io/crates/ros-madair-emit) | 0.1.0-alpha.16 | 0 | Compile alizarin-governed data into the Rós Madair DuckDB+Parquet substrate (ti… |
+| 2026-10-02 18:39:17 | [fridica-core](https://crates.io/crates/fridica-core) | 0.1.0 | 0 | Fridica's domain: threads, parent decisions and delegation, workers, machines a… |
+| 2026-10-02 18:46:30 | [eider](https://crates.io/crates/eider) | 0.1.0 | 0 | A declarative pipeline compiler for DuckDB: plain SELECT models, enforced layer… |
+| 2026-10-02 18:47:06 | [ros-madair-duck](https://crates.io/crates/ros-madair-duck) | 0.1.0-alpha.16 | 0 | Slice 2 of the DuckDB+Parquet substrate: the shared structured read path — comp… |
+| 2026-10-02 18:49:31 | [n3v3-common](https://crates.io/crates/n3v3-common) | 5.0.0 | 0 | Common utilities and data structures for n3v3 |
+| 2026-10-02 18:50:09 | [n3v3-derive](https://crates.io/crates/n3v3-derive) | 5.0.0 | 0 | Derivation model for n3v3 package management |
+| 2026-10-02 18:50:18 | [n3v3-diagnostic](https://crates.io/crates/n3v3-diagnostic) | 5.0.0 | 0 | Diagnostic and error reporting for n3v3 |
+| 2026-10-02 18:50:26 | [n3v3-syntax](https://crates.io/crates/n3v3-syntax) | 5.0.0 | 0 | AST and syntax definitions for n3v3 |
+| 2026-10-02 18:51:06 | [n3v3-fetch](https://crates.io/crates/n3v3-fetch) | 5.0.0 | 0 | Source fetching for the n3v3 package system |
+| 2026-10-02 18:59:21 | [lumenkit-core](https://crates.io/crates/lumenkit-core) | 0.1.0 | 0 | Toolkit-free core of lumenkit, a generative UI kit: the A2UI card format, strea… |
+| 2026-10-02 18:59:22 | [lumenkit-shaders](https://crates.io/crates/lumenkit-shaders) | 0.1.0 | 0 | Glass shaders for lumenkit: WGSL, translated to Metal, HLSL and SPIR-V at build… |
+| 2026-10-02 18:59:23 | [lumenkit-conformance](https://crates.io/crates/lumenkit-conformance) | 0.1.0 | 0 | Conformance fixtures for lumenkit adapters: one card payload, canonical semanti… |
+| 2026-10-02 19:02:32 | [tabular-center](https://crates.io/crates/tabular-center) | 0.1.1 | 0 | Transition-matrix state machines whose completeness is enforced by the compiler |
+| 2026-10-02 19:06:05 | [datewise](https://crates.io/crates/datewise) | 0.1.1 | 0 | Small, panic-free parser for English date and time phrases with time zone and D… |
+| 2026-10-02 19:08:32 | [lumenkit](https://crates.io/crates/lumenkit) | 0.1.0 | 0 | A Rust kit for user interfaces that an AI composes at runtime: streamed A2UI ca… |
+| 2026-10-02 19:09:08 | [pczt_ledger](https://crates.io/crates/pczt_ledger) | 0.1.0-pre.0 | 0 | Transport-agnostic APDU engine for signing Zcash PCZTs with Ledger hardware wal… |
+| 2026-10-02 19:15:56 | [kcode-k1-bootstrap-identity](https://crates.io/crates/kcode-k1-bootstrap-identity) | 0.1.0 | 0 | Browser-identical first-run Loom password identity |
 
 ## Data source
 

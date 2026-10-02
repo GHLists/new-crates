@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T18:25:05.304021Z,furnace-rs-testing,1.0.0,0,0,https://github.com/Adriannathan89/furnace-rs,Focused in-process test fixtures for furnace-rs
+2026-10-02T18:25:12.383499Z,ros-madair-handlers,0.1.0-alpha.16,0,0,https://github.com/flaxandteal/ros-madair,The single source of the Rós Madair extension-type registry: handler declarations shared by emitter and query side (WASM-buildable)
+2026-10-02T18:25:22.403387Z,kcode-k1-chat-thread-rust-code-build-task,0.1.0,0,0,,Own the exact RustCodeBuild model task
+2026-10-02T18:25:39.580168Z,ros-madair-query,0.1.0-alpha.16,0,0,https://github.com/flaxandteal/ros-madair,Schema-validated query IR + SQL compiler against the Rós Madair static-assets head schema
+2026-10-02T18:26:17.811572Z,ros-madair-format,0.1.0-alpha.16,0,0,https://github.com/flaxandteal/ros-madair,"The Rós Madair static-artifact FORMAT: manifest contract types + attestation verify, shared by the writer and readers (WASM-buildable)"
+2026-10-02T18:32:58.027621Z,standard-plugin-manifest,0.1.0,0,0,https://github.com/standardagents/code-rs,"The standard-plugin.json manifest and grant model shared by the Standard Code plugin host, SDK and CLI"
+2026-10-02T18:33:00.390032Z,standard-plugin-macros,0.1.0,0,0,https://github.com/standardagents/code-rs,Attribute macros that export a Standard Code plugin type as a wasm component (use through standard-plugin-sdk)
+2026-10-02T18:33:13.92295Z,standard-plugin-sdk,0.1.0,0,0,https://github.com/standardagents/code-rs,Write Standard Code plugins in Rust: wasm components against standard:plugin@2.0.0
+2026-10-02T18:33:28.174475Z,standard-plugin-cli,0.1.0,0,0,https://github.com/standardagents/code-rs,"standard-plugin: scaffold, build, check and pack Standard Code plugins"
+2026-10-02T18:37:02.252729Z,ros-madair-emit,0.1.0-alpha.16,0,0,https://github.com/flaxandteal/ros-madair,"Compile alizarin-governed data into the Rós Madair DuckDB+Parquet substrate (tile-row + edge Parquet, concept catalog, manifest)"
+2026-10-02T18:39:17.760231Z,fridica-core,0.1.0,0,0,https://github.com/chengcli/fridica-core,"Fridica's domain: threads, parent decisions and delegation, workers, machines and placement, delivery outcomes and attention policy"
+2026-10-02T18:46:30.707693Z,eider,0.1.0,0,0,https://github.com/ncrzw9/eider,"A declarative pipeline compiler for DuckDB: plain SELECT models, enforced layer contracts."
+2026-10-02T18:47:06.911075Z,ros-madair-duck,0.1.0-alpha.16,0,0,https://github.com/flaxandteal/ros-madair,"Slice 2 of the DuckDB+Parquet substrate: the shared structured read path — compile the Rós Madair Query IR to DuckDB SQL over tile-row Parquet, with exact spatial."
+2026-10-02T18:49:31.345139Z,n3v3-common,5.0.0,0,0,https://github.com/MCB-SMART-BOY/n3v3,Common utilities and data structures for n3v3
+2026-10-02T18:50:09.907782Z,n3v3-derive,5.0.0,0,0,https://github.com/MCB-SMART-BOY/n3v3,Derivation model for n3v3 package management
+2026-10-02T18:50:18.770226Z,n3v3-diagnostic,5.0.0,0,0,https://github.com/MCB-SMART-BOY/n3v3,Diagnostic and error reporting for n3v3
+2026-10-02T18:50:26.096706Z,n3v3-syntax,5.0.0,0,0,https://github.com/MCB-SMART-BOY/n3v3,AST and syntax definitions for n3v3
+2026-10-02T18:51:06.493891Z,n3v3-fetch,5.0.0,0,0,https://github.com/MCB-SMART-BOY/n3v3,Source fetching for the n3v3 package system
+2026-10-02T18:59:21.861981Z,lumenkit-core,0.1.0,0,0,https://github.com/plainote/vesper,"Toolkit-free core of lumenkit, a generative UI kit: the A2UI card format, streaming, component behaviour, tokens, motion and accessibility semantics."
+2026-10-02T18:59:22.863675Z,lumenkit-shaders,0.1.0,0,0,https://github.com/plainote/vesper,"Glass shaders for lumenkit: WGSL, translated to Metal, HLSL and SPIR-V at build time."
+2026-10-02T18:59:23.780986Z,lumenkit-conformance,0.1.0,0,0,https://github.com/plainote/vesper,"Conformance fixtures for lumenkit adapters: one card payload, canonical semantics compared exactly, layout within a tolerance."
+2026-10-02T19:02:32.036973Z,tabular-center,0.1.1,0,0,https://github.com/tabula-center/tabular-center,Transition-matrix state machines whose completeness is enforced by the compiler
+2026-10-02T19:06:05.708765Z,datewise,0.1.1,0,0,https://github.com/LostWarrior/Datewise,"Small, panic-free parser for English date and time phrases with time zone and DST handling"
+2026-10-02T19:08:32.339785Z,lumenkit,0.1.0,0,0,https://github.com/plainote/vesper,"A Rust kit for user interfaces that an AI composes at runtime: streamed A2UI cards, validated and compiled toolkit-free, drawn by thin adapters."
+2026-10-02T19:09:08.434319Z,pczt_ledger,0.1.0-pre.0,0,0,https://github.com/zodl-inc/pczt-ledger,Transport-agnostic APDU engine for signing Zcash PCZTs with Ledger hardware wallets
+2026-10-02T19:15:56.926279Z,kcode-k1-bootstrap-identity,0.1.0,0,0,,Browser-identical first-run Loom password identity
