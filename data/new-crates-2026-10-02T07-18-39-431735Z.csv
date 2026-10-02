@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T06:22:24.103194Z,faculties-secrets,0.1.0,0,0,https://github.com/triblespace/faculties,Per-version encrypted secrets for capability-governed TribleSpace collections.
+2026-10-02T06:23:50.086794Z,sipral,0.0.1,0,0,https://github.com/SIPRAL/sipral,Sipral (Session Initiation Protocol Rust Audio Layer): a memory-safe SIP client stack. This release only reserves the name; the library is published from the repository below.
+2026-10-02T06:27:08.067557Z,ferroxl,0.1.5,0,0,https://github.com/SV-stark/ferroxl,ferroxl: read and write Excel 2007 xlsx/xlsm files with an openpyxl-compatible API
+2026-10-02T06:27:49.255586Z,ferroxl-mcp,0.1.5,0,0,https://github.com/SV-stark/ferroxl,ferroxl-mcp: a Model Context Protocol server exposing ferroxl spreadsheet tools to AI agents
+2026-10-02T06:32:32.810317Z,lissajous,0.19.0,0,0,https://github.com/erlkonig-ai/lissajous,A minimalist native notebook library for Rust.
+2026-10-02T06:34:41.225727Z,iced_impeccable,0.1.1,0,0,https://github.com/tuco86/iced_impeccable,"Headless remote control for iced applications: offscreen rendering, input injection, widget inventory and screenshots over a local socket"
+2026-10-02T06:36:55.44704Z,nu_plugin_charton,0.7.1,0,0,https://github.com/wangjiawen2013/charton,Nushell plugin for charton: turn pipeline tables into charts
+2026-10-02T06:41:37.31309Z,superstac-geoparquet,0.3.0,0,0,https://github.com/spatialnode/superstac,"Scoped STAC GeoParquet ingestion, search, and dataset maintenance for SuperSTAC"
+2026-10-02T06:42:28.923653Z,maryml,0.1.0,0,0,https://github.com/erlkonig-ai/maryml,Neural-network models as content-addressed graphs in TribleSpace. A tensor is a self-describing typed leaf; a module is an entity; composition is role-edges. Named for Mary — both Mary Wollstonecraft…
+2026-10-02T06:47:32.251244Z,corona-core,0.2.2,0,0,https://github.com/leset0ng/Conora-editor,"Firmware resource inspection, image conversion and CRPack building for Corona"
+2026-10-02T06:47:57.605684Z,corona-cli,0.2.2,0,0,https://github.com/leset0ng/Conora-editor,Build icon themes for multiple watch firmwares as CRPack resource packs
+2026-10-02T06:49:03.426649Z,colander,0.1.0,0,0,https://github.com/ailuracollective/colander,"Domain-neutral form core: compile triples, evaluate rules, validate responses (C ABI)"
+2026-10-02T06:50:00.913586Z,tv-extensions,0.2.0,0,0,https://github.com/aovestdipaperino/tv-extensions,"Extensions for turbo-vision: host-driven applications, ScrollPane, popup menus, a CSV editor, a logging window, Kitty/ANSI graphics, remote input, and SSH"
+2026-10-02T06:52:25.134117Z,faculties-migrations,0.1.0,0,0,https://github.com/triblespace/faculties,One-shot migrations for the current Faculties storage epoch.
+2026-10-02T06:53:12.576467Z,synapto-prompt-embedded,0.1.0-dev.15,0,0,https://github.com/synapto-ai/synapto,Embedded prompt provider for the Synapto framework
+2026-10-02T06:58:39.828221Z,net_backend_protocol,0.1.0,0,0,https://github.com/warmar94/net_backend,"Shared message types for net_backend_server: plain Rust + serde, usable from any Rust client."
+2026-10-02T06:59:39.613288Z,net_backend_server,0.1.0,0,0,https://github.com/warmar94/net_backend,"A framework for game backend servers: tokio + axum, modules with hooks, MySQL / PostgreSQL / SQLite, migrations, OpenAPI."
+2026-10-02T06:59:54.05429Z,net_backend_client,0.1.0,0,0,https://github.com/warmar94/net_backend,"A Rust client for net_backend_server: typed HTTP calls with automatic token refresh, a reconnecting WebSocket, SSH / SFTP to the server machine, async (tokio) or blocking."
+2026-10-02T07:18:04.277734Z,secure_stream_core,0.1.0,0,0,https://github.com/oytaer/secure_stream,"Core types, crypto helpers, and key manager for secure_stream"
