@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T21:29:38.14315Z,everruns-drivers,0.34.1,0,0,https://github.com/everruns/everruns,OpenAI-compatible model vendor drivers for Everruns
+2026-10-02T21:41:27.585211Z,kcode-k1-loom-bootstrap-topology,0.1.0,0,0,,"Fixed first-run user, development-group, Kmap-root, and launch-node topology for Loom"
+2026-10-02T21:43:14.013026Z,amethystate-guinea,0.23.1,0,0,https://github.com/guinea-rs/amethystate,Lets a guinea timer's period follow a value held by an amethystate store
+2026-10-02T21:43:23.175298Z,everruns-ag-ui,0.34.1,0,0,https://github.com/everruns/everruns,"AG-UI 1.0 protocol types (events, run input, interrupts, capabilities)"
+2026-10-02T21:44:48.578611Z,dlep-router,0.2.0,0,0,https://github.com/asmie/dlep,DLEP (RFC 8175) router-side daemon binary
+2026-10-02T21:44:59.499757Z,dlep-modem,0.2.0,0,0,https://github.com/asmie/dlep,DLEP (RFC 8175) modem-side daemon binary
+2026-10-02T21:45:38.236235Z,vortex-uuid,0.87.0,0,0,https://github.com/vortex-data/vortex,Vortex UUID extension type
+2026-10-02T21:46:35.073096Z,kcode-k1-loom-bootstrap-manifest,0.1.0,0,0,,Derived five-launch-node UI bootstrap manifest for Loom
+2026-10-02T21:47:35.631648Z,everruns-durable,0.34.1,0,0,https://github.com/everruns/everruns,"PostgreSQL-backed durable execution for Everruns: event-sourced workflows, task queue, retries and schedules"
+2026-10-02T22:01:06.503953Z,avila-account,0.1.0,0,0,https://github.com/AvilaLabs/avila-account,Avila Labs account sign-in and tool launcher for egui apps (browser and desktop)
+2026-10-02T22:06:07.502855Z,retiretui_client,0.3.0,0,0,https://github.com/kenianbei/retiretui,"What every RetireTui interface shares over the engine: its words, forms, documents and store. Internal; no stable API."
+2026-10-02T22:06:08.54611Z,retiretui_cli,0.3.0,0,0,https://github.com/kenianbei/retiretui,"RetireTui's command line: plans validated, projected, compared, searched and run through markets. Internal; no stable API."
+2026-10-02T22:06:09.059916Z,retiretui_mcp,0.3.0,0,0,https://github.com/kenianbei/retiretui,RetireTui's Model Context Protocol server: plan files served to AI agents over stdio. Internal; no stable API.
+2026-10-02T22:07:13.490842Z,ledger-kit,0.1.0,0,0,https://github.com/WyattAu/ledger-kit,"Double-entry ledger for Rust — decimal-money postings, outbox-backed durable journal, idempotent posting, tamper-evident history"
+2026-10-02T22:13:19.759128Z,decimix,0.1.0,0,0,https://github.com/puremourning/decimix,Fixed-point decimal arithmetic: i128 at 19 decimal places
+2026-10-02T22:13:22.324508Z,decimix-finance,0.1.0,0,0,https://github.com/puremourning/decimix,"Price, quantity and notional types built on decimix"
+2026-10-02T22:13:59.419775Z,furnace-rs,1.0.0,0,0,https://github.com/Adriannathan89/furnace-rs,Modular Rust application framework with Axum and Passport integrations
+2026-10-02T22:14:06.774343Z,furnace-rs-persistence,1.0.0,0,0,https://github.com/Adriannathan89/furnace-rs,Native persistence connectors for furnace-rs applications
+2026-10-02T22:14:26.177727Z,furnace-rs-cli,1.0.0,0,0,https://github.com/Adriannathan89/furnace-rs,Command-line tools for furnace-rs applications
+2026-10-02T22:16:00.510813Z,ratidal,0.1.0,0,0,https://github.com/ColinTenaguillo/ratidal,"A terminal client for TIDAL, with hi-res playback"
+2026-10-02T22:17:20.259223Z,babelfix-repo,0.1.0,0,0,https://github.com/puremourning/babelfix,FIX repository and Orchestra XML parsing for the babelfix FIX protocol implementation
+2026-10-02T22:17:23.584787Z,babelfix-core,0.1.0,0,0,https://github.com/puremourning/babelfix,"Sans-io core of the babelfix FIX engine: messages, codec and session state machine"
+2026-10-02T22:17:25.493241Z,ng-postcode,0.1.0,0,0,https://github.com/Adeniyikayodee/ng-postcode,"Nigeria's National Digital Alphanumeric Postcode: offline parsing and validation, plus an API client. Unofficial."
+2026-10-02T22:17:25.927251Z,babelfix-schema,0.1.0,0,0,https://github.com/puremourning/babelfix,"Typed FIX field, message-type and codeset definitions for babelfix, generated from FIX Orchestra"

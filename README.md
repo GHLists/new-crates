@@ -8,36 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 21:18 UTC
+## Latest list — 2026-10-02 22:19 UTC
 
-New crates published between 2026-10-02 20:18 UTC and 2026-10-02 21:18 UTC.
+New crates published between 2026-10-02 21:18 UTC and 2026-10-02 22:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-02T21-18-46-378753Z.csv)
+[Full CSV](data/new-crates-2026-10-02T22-19-26-998187Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-02 20:23:34 | [hank-tui](https://crates.io/crates/hank-tui) | 0.1.0 | 0 | Hank: a read-only terminal UI over a bd multi-repo hub — one cross-repo ready-w… |
-| 2026-10-02 20:26:48 | [scanward](https://crates.io/crates/scanward) | 0.13.0 | 0 | Fast offline multi-language SAST scanner with a curated, original rule corpus |
-| 2026-10-02 20:27:03 | [tilcayo](https://crates.io/crates/tilcayo) | 0.1.0 | 0 | A damage-aware framebuffer presentation pipeline for the Kitty graphics protocol |
-| 2026-10-02 20:30:04 | [tatolab-stream](https://crates.io/crates/tatolab-stream) | 0.0.0 | 0 | Held for the Tatolab project; not released yet. See https://github.com/tatolab/… |
-| 2026-10-02 20:30:29 | [chine](https://crates.io/crates/chine) | 0.2.0 | 0 | A pure-Rust Spine 4.3 skeletal animation runtime (renderer-agnostic). |
-| 2026-10-02 20:32:57 | [v8-taktcode](https://crates.io/crates/v8-taktcode) | 145.0.2 | 0 | Rust bindings to V8 - TaktCode fork of rusty_v8 (fixes Windows CRT linkage) |
-| 2026-10-02 20:40:45 | [tree-sitter-playground](https://crates.io/crates/tree-sitter-playground) | 0.1.0 | 0 | Web playground for exploring Tree-sitter syntax trees |
-| 2026-10-02 20:41:48 | [webledgers-teller](https://crates.io/crates/webledgers-teller) | 0.1.0 | 0 | A teller for Web Ledgers on txbt4: did:nostr accounts, a ledger identified by t… |
-| 2026-10-02 20:45:56 | [pixels-util](https://crates.io/crates/pixels-util) | 0.0.1 | 0 | Simple helper for the pixels crate. |
-| 2026-10-02 20:45:58 | [tree-sitter-wesl](https://crates.io/crates/tree-sitter-wesl) | 0.1.0 | 0 | Wesl grammar for tree-sitter |
-| 2026-10-02 20:49:31 | [dom_query_xpath](https://crates.io/crates/dom_query_xpath) | 3.0.0-alpha1 | 0 | XPath 1.0 evaluator for dom_query documents |
-| 2026-10-02 20:52:58 | [dlep-core](https://crates.io/crates/dlep-core) | 0.2.0 | 0 | DLEP (RFC 8175) wire types, data items and codec |
-| 2026-10-02 20:53:00 | [dlep-ext](https://crates.io/crates/dlep-ext) | 0.2.0 | 0 | DLEP (RFC 8175) extension plug-in trait and registry |
-| 2026-10-02 20:53:01 | [dlep-fsm](https://crates.io/crates/dlep-fsm) | 0.2.0 | 0 | DLEP (RFC 8175) state machines — discovery and session, router and modem sides |
-| 2026-10-02 20:53:01 | [dlep-net](https://crates.io/crates/dlep-net) | 0.2.0 | 0 | DLEP (RFC 8175) transport: UDP multicast discovery, TCP, TLS, GTSM |
-| 2026-10-02 20:53:04 | [dlep-daemon](https://crates.io/crates/dlep-daemon) | 0.2.0 | 0 | DLEP (RFC 8175) daemon runtime — wires codec, state machine and transport |
-| 2026-10-02 20:55:45 | [mkit-server](https://crates.io/crates/mkit-server) | 0.5.0 | 0 | Runtime-agnostic core of the mkit server: operation model, errors, runtime and… |
-| 2026-10-02 21:03:30 | [ferrox-database-dynamo](https://crates.io/crates/ferrox-database-dynamo) | 0.8.0 | 0 | DynamoDB NoSQL repository connector for Ferrox ecosystem. |
-| 2026-10-02 21:03:35 | [ferrox-database-firebase](https://crates.io/crates/ferrox-database-firebase) | 0.8.0 | 0 | Firebase Firestore/RealtimeDB repository connector for Ferrox ecosystem. |
-| 2026-10-02 21:11:02 | [c3mesh](https://crates.io/crates/c3mesh) | 0.2.0 | 0 | Deterministic discrete-event simulation for fixed and mobile communication netw… |
-| 2026-10-02 21:13:36 | [eggpack-manifest](https://crates.io/crates/eggpack-manifest) | 0.1.0 | 0 | Bounded schema-v1 evidence for finalized Eggpack release bytes |
-| 2026-10-02 21:18:00 | [qk-input-analysis](https://crates.io/crates/qk-input-analysis) | 0.0.0 | 0 | Name reservation for qk-input-analysis, a component of the qk task runner |
+| 2026-10-02 21:29:38 | [everruns-drivers](https://crates.io/crates/everruns-drivers) | 0.34.1 | 0 | OpenAI-compatible model vendor drivers for Everruns |
+| 2026-10-02 21:41:27 | [kcode-k1-loom-bootstrap-topology](https://crates.io/crates/kcode-k1-loom-bootstrap-topology) | 0.1.0 | 0 | Fixed first-run user, development-group, Kmap-root, and launch-node topology fo… |
+| 2026-10-02 21:43:14 | [amethystate-guinea](https://crates.io/crates/amethystate-guinea) | 0.23.1 | 0 | Lets a guinea timer's period follow a value held by an amethystate store |
+| 2026-10-02 21:43:23 | [everruns-ag-ui](https://crates.io/crates/everruns-ag-ui) | 0.34.1 | 0 | AG-UI 1.0 protocol types (events, run input, interrupts, capabilities) |
+| 2026-10-02 21:44:48 | [dlep-router](https://crates.io/crates/dlep-router) | 0.2.0 | 0 | DLEP (RFC 8175) router-side daemon binary |
+| 2026-10-02 21:44:59 | [dlep-modem](https://crates.io/crates/dlep-modem) | 0.2.0 | 0 | DLEP (RFC 8175) modem-side daemon binary |
+| 2026-10-02 21:45:38 | [vortex-uuid](https://crates.io/crates/vortex-uuid) | 0.87.0 | 0 | Vortex UUID extension type |
+| 2026-10-02 21:46:35 | [kcode-k1-loom-bootstrap-manifest](https://crates.io/crates/kcode-k1-loom-bootstrap-manifest) | 0.1.0 | 0 | Derived five-launch-node UI bootstrap manifest for Loom |
+| 2026-10-02 21:47:35 | [everruns-durable](https://crates.io/crates/everruns-durable) | 0.34.1 | 0 | PostgreSQL-backed durable execution for Everruns: event-sourced workflows, task… |
+| 2026-10-02 22:01:06 | [avila-account](https://crates.io/crates/avila-account) | 0.1.0 | 0 | Avila Labs account sign-in and tool launcher for egui apps (browser and desktop) |
+| 2026-10-02 22:06:07 | [retiretui_client](https://crates.io/crates/retiretui_client) | 0.3.0 | 0 | What every RetireTui interface shares over the engine: its words, forms, docume… |
+| 2026-10-02 22:06:08 | [retiretui_cli](https://crates.io/crates/retiretui_cli) | 0.3.0 | 0 | RetireTui's command line: plans validated, projected, compared, searched and ru… |
+| 2026-10-02 22:06:09 | [retiretui_mcp](https://crates.io/crates/retiretui_mcp) | 0.3.0 | 0 | RetireTui's Model Context Protocol server: plan files served to AI agents over… |
+| 2026-10-02 22:07:13 | [ledger-kit](https://crates.io/crates/ledger-kit) | 0.1.0 | 0 | Double-entry ledger for Rust — decimal-money postings, outbox-backed durable jo… |
+| 2026-10-02 22:13:19 | [decimix](https://crates.io/crates/decimix) | 0.1.0 | 0 | Fixed-point decimal arithmetic: i128 at 19 decimal places |
+| 2026-10-02 22:13:22 | [decimix-finance](https://crates.io/crates/decimix-finance) | 0.1.0 | 0 | Price, quantity and notional types built on decimix |
+| 2026-10-02 22:13:59 | [furnace-rs](https://crates.io/crates/furnace-rs) | 1.0.0 | 0 | Modular Rust application framework with Axum and Passport integrations |
+| 2026-10-02 22:14:06 | [furnace-rs-persistence](https://crates.io/crates/furnace-rs-persistence) | 1.0.0 | 0 | Native persistence connectors for furnace-rs applications |
+| 2026-10-02 22:14:26 | [furnace-rs-cli](https://crates.io/crates/furnace-rs-cli) | 1.0.0 | 0 | Command-line tools for furnace-rs applications |
+| 2026-10-02 22:16:00 | [ratidal](https://crates.io/crates/ratidal) | 0.1.0 | 0 | A terminal client for TIDAL, with hi-res playback |
+| 2026-10-02 22:17:20 | [babelfix-repo](https://crates.io/crates/babelfix-repo) | 0.1.0 | 0 | FIX repository and Orchestra XML parsing for the babelfix FIX protocol implemen… |
+| 2026-10-02 22:17:23 | [babelfix-core](https://crates.io/crates/babelfix-core) | 0.1.0 | 0 | Sans-io core of the babelfix FIX engine: messages, codec and session state mach… |
+| 2026-10-02 22:17:25 | [ng-postcode](https://crates.io/crates/ng-postcode) | 0.1.0 | 0 | Nigeria's National Digital Alphanumeric Postcode: offline parsing and validatio… |
+| 2026-10-02 22:17:25 | [babelfix-schema](https://crates.io/crates/babelfix-schema) | 0.1.0 | 0 | Typed FIX field, message-type and codeset definitions for babelfix, generated f… |
 
 ## Data source
 
