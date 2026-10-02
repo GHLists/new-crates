@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T12:22:41.375376Z,tcc-rust-frontend,26.10.0,0,0,https://github.com/trigora-dev/tcc-engine,Rust subset frontend.
+2026-10-02T12:36:13.066709Z,miden-client-proto,0.0.0,0,0,https://github.com/0xMiden/rust-sdk,Placeholder crate for a Miden client project
+2026-10-02T12:40:30.761679Z,ltk_hashdb,0.1.0,0,0,https://github.com/LeagueToolkit/mimir,"The .hashdb binary format: a read-only table mapping integer hashes to strings, with a reader and a writer"
+2026-10-02T12:40:39.854946Z,ltk_mimir_cache,0.1.0,0,0,https://github.com/LeagueToolkit/mimir,"Shared, versioned on-disk cache and updater for League Toolkit .lhdb hash tables"
+2026-10-02T12:44:40.710397Z,floravox-wasm,0.1.1,0,0,,The floravox engine in the browser: async synthesis on onnxruntime-web (wasm32)
+2026-10-02T12:47:26.390396Z,hexscope-inflate,0.1.0,0,0,https://github.com/MykytaStel/hexscope,"DEFLATE and zlib decoded step by step, each step explainable"
+2026-10-02T12:47:43.082513Z,hexscope-core,0.1.0,0,0,https://github.com/MykytaStel/hexscope,Parses binary files into a structure tree with byte ranges
+2026-10-02T12:48:09.304847Z,hexscope-cli,0.1.0,0,0,https://github.com/MykytaStel/hexscope,"Checks files for what they give away — locations, serial numbers, authors, black boxes that hide nothing — and cleans or repairs them"
+2026-10-02T12:53:42.93075Z,tree-sitter-mcp,0.1.0,0,0,https://github.com/joowani/tree-sitter-mcp,MCP server that parses code into Tree-sitter ASTs
+2026-10-02T12:54:14.458958Z,phoenixsemanticrelease,5.0.0,0,0,https://gitlab.in2p3.fr/CTA-LAPP/PHOENIX_LIBS2/CIToolkit/PhoenixSemanticRelease,Automatize release based on a commit convention
+2026-10-02T12:59:39.481366Z,star-forge,0.1.1,0,0,https://github.com/SkeLLLa/star-forge,"Daemon and tiny client that cache statusline badges for starship, tmux and other prompts"
+2026-10-02T13:00:08.723796Z,privacy-flow,0.1.0,0,0,https://github.com/noru-tech/privacy-flow,"Deterministic, offline static analysis of where personal data goes: logs, third-party SDKs, LLM providers and outbound HTTP. Cited file:line flow paths, SARIF, canonical JSON and Fides egress."
+2026-10-02T13:01:56.129885Z,wip-protocol,0.1.0,0,0,https://gitea.hareworks.net/Hare/wip-rs,Transport-independent logical model and validation for WIP
+2026-10-02T13:02:05.000829Z,wip-interface-macros,0.1.0,0,0,https://gitea.hareworks.net/Hare/wip-rs,Procedural macros for WIP interface declarations and DTO codecs
+2026-10-02T13:02:24.953913Z,wip-interface,0.1.0,0,0,https://gitea.hareworks.net/Hare/wip-rs,Public Rust authoring API for WIP interfaces and operation value codecs
+2026-10-02T13:02:30.336971Z,wip-http,0.1.0,0,0,https://gitea.hareworks.net/Hare/wip-rs,Framework-independent standard WIP over HTTP v1 binding
+2026-10-02T13:02:37.131932Z,wip-host,0.1.0,0,0,https://gitea.hareworks.net/Hare/wip-rs,Host-side object publication and operation dispatch for WIP
+2026-10-02T13:06:59.905531Z,clawback,0.2.1,0,0,https://github.com/Azazel-Labs/Clawback,"Fast, cross-platform disk space visualizer with a treemap desktop app and terminal mode"
+2026-10-02T13:07:36.604853Z,marcasite-core,0.1.0,0,0,https://github.com/harrydayexe/marcasite,"Shared transport, configuration and error types for marcasite"
+2026-10-02T13:07:38.269983Z,marcasite,0.1.0,0,0,https://github.com/harrydayexe/marcasite,Unofficial Rust SDK for the Polymarket Predictions APIs
+2026-10-02T13:08:34.637061Z,wip-client,0.1.0,0,0,https://gitea.hareworks.net/Hare/wip-rs,Presentation-independent stateful WIP client runtime
