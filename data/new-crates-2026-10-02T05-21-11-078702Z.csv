@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T04:21:15.460655Z,maryml-burn-dispatch,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Backend dispatch for the Burn framework
+2026-10-02T04:21:50.854957Z,cortenforge-sim-thermostat,0.9.0,0,0,https://github.com/via-balaena/CortenForge,Langevin thermostat + passive-component framework for thermodynamic computing on CortenForge
+2026-10-02T04:27:43.792714Z,myelin-accelerator,0.2.0,0,0,https://github.com/Limen-Neural/myelin-accelerator,Rust/CUDA acceleration primitives for spiking neural networks and neuromorphic workloads
+2026-10-02T04:31:49.398866Z,cortenforge-sim-opt,0.9.0,0,0,https://github.com/via-balaena/CortenForge,"Gradient-free optimizers (simulated annealing, parallel tempering) and bootstrap statistics for comparing two training algorithms"
+2026-10-02T04:32:31.642983Z,maryml-burn-router,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Multi-backend router decorator for the Burn framework
+2026-10-02T04:32:36.660546Z,maryml-burn-remote,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Backend router decorator over the network.
+2026-10-02T04:34:37.259064Z,sartorial-core,0.5.0,0,0,https://github.com/matthewjameswatkins1978-cyber/Sartorial,"Deterministic semantic presentation for Rust CLIs: Document, themes, presets, and terminal/plain/Markdown rendering."
+2026-10-02T04:36:06.058883Z,sartorial,0.5.0,0,0,https://github.com/matthewjameswatkins1978-cyber/Sartorial,"An opinionated Rust CLI presentation toolkit for humans and agents, built on sartorial-core."
+2026-10-02T04:37:21.17561Z,modelname,0.1.0,0,0,https://github.com/BoNour/modelname-rs,"Parse AI model names like claude-sonnet-4-5 or gemini-2.5-flash into vendor, family and version"
+2026-10-02T04:41:43.288579Z,cortenforge-sim-therm-env,0.9.0,0,0,https://github.com/via-balaena/CortenForge,ThermCircuitEnv: typed builder producing SimEnv/VecEnv from thermodynamic circuit descriptions
+2026-10-02T04:43:50.303346Z,maryml-burn-core,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Flexible and Comprehensive Deep Learning Framework in Rust
+2026-10-02T04:44:33.557553Z,mkpar,0.1.0,0,0,https://github.com/DenisGorbachev/mkpar,Create missing parent directories for a path
+2026-10-02T04:44:49.499571Z,herdfold,0.1.0,0,0,https://github.com/azihsoyn/herdfold,"Long text, laid out as facing pages you turn: a book reader across two herdr panes, with bookmarks, notes and an agent to ask"
+2026-10-02T04:46:18.922164Z,grimble,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for grimble, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-02T04:46:25.975786Z,crunk,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for crunk, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-02T04:46:33.350629Z,gob-rules,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-rules, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-02T04:46:40.696355Z,gob-syntax,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-syntax, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-02T04:46:48.03522Z,gob-macros,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-macros, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-02T04:51:07.746703Z,nacre-exact,0.0.1,0,0,https://github.com/elgar328/nacre,"Exact arithmetic for the nacre CAD kernel — rationals, quadratic irrationals, exact geometric definitions and the sign predicates over them"
+2026-10-02T04:51:11.764924Z,nacre-math,0.0.1,0,0,https://github.com/elgar328/nacre,"f64 linear algebra for the nacre CAD kernel, with points and vectors kept distinct in the type system"
+2026-10-02T04:51:14.964079Z,nacre-predicates,0.0.1,0,0,https://github.com/elgar328/nacre,"Exact geometric predicates for the nacre CAD kernel — sign decisions on points defined as surface intersections, without constructing their coordinates"
+2026-10-02T04:51:18.167658Z,nacre-store,0.0.1,0,0,https://github.com/elgar328/nacre,Append-only typed storage for the nacre CAD kernel — every object is written once and referenced by an integer handle
+2026-10-02T04:51:23.540263Z,nacre-geom,0.0.1,0,0,https://github.com/elgar328/nacre,Analytic curves and surfaces for the nacre CAD kernel — closed-form f64 evaluation of the exact definitions kept in nacre-topo
+2026-10-02T04:51:37.701806Z,cortenforge-sim-urdf,0.9.0,0,0,https://github.com/via-balaena/CortenForge,URDF robot description parser for physics simulation
+2026-10-02T04:55:00.262561Z,rusty_rtos_port-esp-radio,0.3.0,0,0,https://github.com/Remade-With-Rust/rusty_rtos_port,"esp-radio on a Kairos kernel: the five esp-radio-rtos-driver implementations, as a crate rather than glue inside one firmware"
+2026-10-02T04:55:05.236008Z,maryml-burn-nn,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Neural network building blocks for the Burn deep learning framework
+2026-10-02T05:01:28.668292Z,cortenforge-sim,0.9.0,0,0,https://github.com/via-balaena/CortenForge,"Headless simulation & differentiable co-design toolkit: rigid + soft-FEM physics, soft↔rigid coupling, model I/O, and the RL/optimization stack"
+2026-10-02T05:01:32.409543Z,nacre-judge,0.0.1,0,0,https://github.com/elgar328/nacre,Proved sign decisions for the nacre CAD kernel where coordinates are irrational — an f64 filter that escalates to arbitrary precision and never returns a wrong sign
+2026-10-02T05:06:09.715472Z,maryml-burn-optim,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Optimizer building blocks for the Burn deep learning framework
+2026-10-02T05:11:19.323969Z,cortenforge-spatial,0.9.0,0,0,https://github.com/via-balaena/CortenForge,"Spatial data structures for CortenForge: VoxelGrid, OccupancyMap, raycasting"
+2026-10-02T05:11:42.120243Z,nacre-topo,0.0.1,0,0,https://github.com/elgar328/nacre,"B-rep topology for the nacre CAD kernel — half-edge solids and the model holding the exact definition of every vertex, edge and face"
+2026-10-02T05:11:54.445649Z,abnegate-index,0.1.0,0,0,https://github.com/abnegate/crates,Overlapping-window source chunking and host-owned semantic code search
+2026-10-02T05:15:49.473816Z,linlua,0.1.0,0,0,https://github.com/thyrgle/linlua,"A Luau-flavored Lua subset on the linjs engine architecture: gradual types, gradual linear memory (--@own), and a strict-dialect WASM backend."
+2026-10-02T05:16:21.055116Z,linjs,0.1.0,0,0,https://github.com/thyrgle/linjs,"A JavaScript-subset pilot on increparse: incremental parsing, closures, a tree-walking interpreter, and a JS transpiler — the proving ground for gradual memory semantics."
+2026-10-02T05:18:33.567559Z,lopi-ssh,0.3.0,0,0,https://github.com/hmrnsp/lopi,"Open SSH connections from saved profiles with one short command, in any shell on Windows, macOS and Linux"
