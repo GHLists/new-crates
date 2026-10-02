@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T10:19:57.79239Z,asimov-telemetry,25.6.1,0,0,https://github.com/asimov-platform/asimov.rs,ASIMOV Software Development Kit (SDK) for Rust
+2026-10-02T10:24:58.042573Z,vygr-core,0.4.0,0,0,,"voyager core: shared types, provider traits, configuration and error contract"
+2026-10-02T10:25:15.683342Z,vygr-providers,0.4.0,0,0,,voyager search and fetch providers
+2026-10-02T10:25:19.406387Z,vygr-llm,0.4.0,0,0,,"voyager LLM backends: OpenAI-compatible, Ollama, harness shell-out, models.dev catalog"
+2026-10-02T10:25:34.465193Z,vygr-research,0.4.0,0,0,,"voyager research engine: plan-then-execute loop, scoring, run artifacts"
+2026-10-02T10:25:41.79093Z,vygr,0.4.0,0,0,,vygr — voyager deep research CLI
+2026-10-02T10:27:20.700075Z,iswebclientrunning-rs,1.0.0,0,0,https://github.com/g0h4n/IsWebClientRunning-rs,"WebClient/WebDAV service probe (IsWebClientRunning) for BloodHound Community Edition, written in Rust."
+2026-10-02T10:32:53.660115Z,dotloom-constraints,1.1.0,0,0,https://github.com/TNYCL/dotloom,"Dotloom constraint solver: linear (Cassowary/kasuari) and sparse sequential-quadratic-programming backends with exact hard rules, weighted preferences, diagnostics and budgeted cancellation"
+2026-10-02T10:32:54.460169Z,dotloom-geometry,1.1.0,0,0,https://github.com/TNYCL/dotloom,"Dotloom 2D geometry: f64 primitives, transforms, intersections, editing operations, units and spatial index"
+2026-10-02T10:32:55.176212Z,dotloom-document,1.1.0,0,0,https://github.com/TNYCL/dotloom,"Dotloom document model: stable IDs, typed entities, layers, groups, constraints, validation, canonical hashing and migrations"
+2026-10-02T10:32:55.627403Z,dotloom-scene,1.1.0,0,0,https://github.com/TNYCL/dotloom,"Dotloom scene contract: world-space display items, overlays and a compact binary delta encoding shared by the engine and renderers"
+2026-10-02T10:32:57.33111Z,dotloom-engine,1.1.0,0,0,https://github.com/TNYCL/dotloom,"Headless Dotloom engine: transactions, constraint solving, history, plugins, queries, drags and scene output"
+2026-10-02T10:36:03.110552Z,podpis-rs,0.1.1,0,0,https://github.com/blelump/podpis-rs,Validate XAdES-BES enveloping XML signatures (podpis.gov.pl style)
+2026-10-02T10:43:49.436536Z,respire_protocol,1.0.0,0,0,https://github.com/risense-ai/respire-cli,respire wire protocol and serde-only domain types
+2026-10-02T10:46:37.206496Z,axiolid-constraint2d,0.1.0,0,0,https://github.com/axiolid/kernel,"Apollonius and tangent-circle constructions: circles tangent to three points, lines or circles in any combination"
+2026-10-02T10:47:17.839534Z,dotloom-io,1.1.0,0,0,https://github.com/TNYCL/dotloom,"Dotloom file formats: .dotl project container, SVG and ASCII DXF import/export with loss reports"
+2026-10-02T10:47:20.970442Z,dotloom-render,1.1.0,0,0,https://github.com/TNYCL/dotloom,"wgpu renderer for Dotloom scenes (WebGPU, WebGL2 and native backends)"
+2026-10-02T10:48:59.594293Z,tomoz-gateway,0.1.0,0,0,https://github.com/ZeroXShot/tomoz,S3-compatible storage gateway that compacts DICOM series into Tomoz archives
+2026-10-02T10:49:18.397926Z,tomoz-cli,0.1.0,0,0,https://github.com/ZeroXShot/tomoz,"Command-line interface of Tomoz, the learned lossless codec for medical image volumes"
+2026-10-02T10:51:13.821563Z,nowpayments-rust,1.0.5,0,0,https://github.com/foisalislambd/nowpayments-package,Full-featured Rust SDK for NOWPayments cryptocurrency payment API
+2026-10-02T10:51:56.397223Z,hello-world-crate,0.1.0,0,0,https://github.com/olegpulatov/hello-world-crate,A minimal greeting library for learning how to publish a Rust crate.
+2026-10-02T10:55:35.643983Z,ds2-protocol,0.1.1,0,0,https://github.com/opetany93/ds2-protocol,no_std implementation of BMW's DS2 diagnostic protocol
+2026-10-02T10:55:46.395252Z,attested-request,0.1.0,0,0,https://github.com/worldcoin/attested-proxy,Sign and verify World App attested-key canonical requests (TFH RFC 9421 integrity profile).
+2026-10-02T10:55:49.201802Z,attested-request-tower,0.1.0,0,0,https://github.com/worldcoin/attested-proxy,tower and axum middleware that verifies World App attested-key canonical requests.
+2026-10-02T11:00:15.500513Z,dotloom-cli,1.1.0,0,0,https://github.com/TNYCL/dotloom,"Dotloom command-line tool: inspect, validate and convert .dotl, SVG and DXF files"
+2026-10-02T11:00:48.594257Z,axiolid-tetrahedralize,0.1.0,0,0,https://github.com/axiolid/kernel,Exact 3D Delaunay tetrahedralization with symbolic perturbation
+2026-10-02T11:02:33.805486Z,reports-web,1.0.0,0,0,https://github.com/ReportsWeb/wasm-rust,"Reports.Web for Rust: build PREPEJ print data from .prepdj report definitions and render PDF with the Reports.Web engine (C++ WebAssembly). Japanese business forms: invoices, estimates, labels. Trial…"
+2026-10-02T11:03:06.057925Z,rushls-common,0.1.0,0,0,https://github.com/darfink/rushls,"Configuration, outbound HTTP, lifecycle hooks, rotating TLS, and listener helpers shared by Rushls services"
+2026-10-02T11:03:08.336696Z,rushls,0.1.0,0,0,https://github.com/darfink/rushls,"A low-latency HLS origin with RTMP, SRT, and Media over QUIC ingest"
+2026-10-02T11:05:38.531312Z,ailoy,0.3.0,0,0,https://github.com/brekkylab/ailoy,"Agents that drive a language model through tool-augmented turns, in a virtx console."
+2026-10-02T11:11:37.492521Z,ctmux-core,0.1.0,0,0,https://github.com/tokn-ai/ctl,Session and terminal view model for ctmux
+2026-10-02T11:11:38.260653Z,ctmux-ipc,0.1.0,0,0,https://github.com/tokn-ai/ctl,Local IPC and daemon lifecycle management for ctmux
+2026-10-02T11:11:40.750238Z,ctl-client,0.1.0,0,0,https://github.com/tokn-ai/ctl,"Client transports, SSH connections, and remote component management for ctl"
+2026-10-02T11:11:41.879567Z,ctmuxd,0.1.0,0,0,https://github.com/tokn-ai/ctl,Daemon for persistent ctmux terminal sessions and shared views
+2026-10-02T11:11:44.246846Z,ctl-taskd,0.1.0,0,0,https://github.com/tokn-ai/ctl,Daemon for persistent ctl background tasks
+2026-10-02T11:19:43.599117Z,cf-gears-graph-storage-sdk,0.1.1,0,0,https://github.com/constructorfabric/gears-rust,"SDK for the graph-storage gear: client trait, transport-agnostic models, plugin contracts, GTS constants"
+2026-10-02T11:19:56.010291Z,cf-gears-toolkit-onnx-runtime,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"ToolKit ONNX Runtime support: one pinned `ort`, a session opened on an abandonable thread under a deadline, and inference that does not stall the async runtime"
+2026-10-02T11:20:19.509617Z,cf-gears-graph-storage-onnx-embedding-plugin,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,In-process ONNX embedding provider for the graph-storage gear: the default of ADR-0004
+2026-10-02T11:21:00.875531Z,cf-gears-graph-storage-remote-embedding-plugin,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"Remote embedding provider for the graph-storage gear: the alternative plugin of ADR-0004, over the OpenAI-compatible /embeddings protocol"
