@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T14:30:16.13115Z,errlanes-derive,0.15.0,0,0,https://github.com/GaloyMoney/es-entity,"Derive macros for errlanes (Rejection, Lift, Failure)"
+2026-10-02T14:30:18.073756Z,errlanes,0.15.0,0,0,https://github.com/GaloyMoney/es-entity,"Four error lanes (Rejected/Denied/Transient/Fatal) carried in the type, not re-derived at every layer"
+2026-10-02T14:47:03.187668Z,hd-calculator,0.1.0,0,0,,"A really fast, accurate and optimized large number calculator"
+2026-10-02T14:47:11.300654Z,gate4agent-build-stamp,0.4.2,0,0,,"One content-hash build stamp for gate4agent binaries -- computed by git at build time from the working tree, carried by every wire handshake that used to carry a hand-typed protocol version number"
+2026-10-02T14:50:28.186174Z,gate4agent-engine,0.4.1,0,0,,Deterministic single-writer agent-session engine for gate4agent
+2026-10-02T14:51:42.531654Z,rayengine-cli,0.0.1,0,0,https://github.com/nayupls1/rayengine,Project tools for rayengine games
+2026-10-02T14:51:43.044125Z,rayengine-core,0.0.1,0,0,https://github.com/nayupls1/rayengine,Display-independent game primitives for rayengine
+2026-10-02T14:51:44.064202Z,rayengine,0.0.1,0,0,https://github.com/nayupls1/rayengine,A small Linux-first Rust game SDK over raylib
+2026-10-02T14:51:45.701354Z,rayengine-voxel,0.0.1,0,0,https://github.com/nayupls1/rayengine,"Voxel storage, queries, CPU meshing and optional raylib rendering for rayengine"
+2026-10-02T14:55:46.635671Z,shortneer,0.1.0,0,0,https://github.com/crows7781-glitch/shortneer.git,The shortneer project is a cross-platform stealer.
+2026-10-02T14:57:51.270862Z,gate4agent-node-protocol,0.4.1,0,0,,"Bounded wire contract for the local gate4agent node (inventory, spawn, sessions, worktrees, delivery)"
+2026-10-02T14:58:31.150638Z,gate4agent-tool-protocol,0.4.1,0,0,,Pure capability authority and provider contracts for gate4agent
+2026-10-02T14:59:48.303559Z,gate4agent-testkit,0.4.1,0,0,,Authentication-free provider fixtures and the Windows headless test supervisor for gate4agent
+2026-10-02T15:00:31.459503Z,util-how,1.0.2,0,0,https://gitea.com/DreamerTheBurp22nd/How,A program that takes your input and then goes through 4 sources to find quick help about usage.
+2026-10-02T15:00:34.597836Z,gate4agent-c2-protocol,0.4.1,0,0,,"Stable, serde-only inventory and control wire contract for gate4agent C2 relays and clients"
+2026-10-02T15:03:38.588261Z,n3,0.0.1,0,0,https://github.com/gridaco/n3,Reserved by Grida for future development.
+2026-10-02T15:04:45.221462Z,temper-domain,0.0.0,0,0,https://github.com/Wet-Ink-Corporation/temper,"Part of temper, the rust-craft Rust standard enforced for coding agents (Wet Ink Corporation). Name reserved; the first release is temper 2.0."
+2026-10-02T15:04:47.373664Z,temper-app,0.0.0,0,0,https://github.com/Wet-Ink-Corporation/temper,"Part of temper, the rust-craft Rust standard enforced for coding agents (Wet Ink Corporation). Name reserved; the first release is temper 2.0."
+2026-10-02T15:04:49.455793Z,temper-host,0.0.0,0,0,https://github.com/Wet-Ink-Corporation/temper,"Part of temper, the rust-craft Rust standard enforced for coding agents (Wet Ink Corporation). Name reserved; the first release is temper 2.0."
+2026-10-02T15:04:51.614413Z,temper-cli,0.0.0,0,0,https://github.com/Wet-Ink-Corporation/temper,"Part of temper, the rust-craft Rust standard enforced for coding agents (Wet Ink Corporation). Name reserved; the first release is temper 2.0."
+2026-10-02T15:07:44.822559Z,gate4agent-node-wire,0.4.1,0,0,,"Reusable local wire client, transport, and authentication primitives for gate4agent nodes"
+2026-10-02T15:08:03.114339Z,gnode,0.0.0,0,0,https://github.com/softmarshmallow/stage-gen,Reserved for future development of stage-gen.
+2026-10-02T15:12:39.593216Z,tiercache,0.1.0,0,0,https://github.com/Lsh0x/tiercache,"A key-value cache over an ordered list of stores you bring: memory, Redis, a database. Reads fall through and fill the nearer levels; writes and deletes reach every level."
+2026-10-02T15:15:57.617038Z,gate4agent-tool-engine,0.4.1,0,0,,Deterministic bounded capability authority engine for gate4agent
+2026-10-02T15:18:53.947229Z,cargo-kcfg,0.0.1,0,0,,Cargo subcommand bringing Linux/Zephyr-style Kconfig support to Rust projects
+2026-10-02T15:19:01.262795Z,cargo-kcfg-macros,0.0.1,0,0,,Proc-macro include for cargo-kcfg generated CONFIG_* constants
+2026-10-02T15:19:23.019229Z,cpex-pdp-opa,0.2.3,0,0,https://github.com/contextforge-org/cpex,CPEX PDP — embedded OPA/Rego policy evaluation via regorus.
+2026-10-02T15:20:20.314745Z,cpex-hosts-python,0.2.3,0,0,https://github.com/contextforge-org/cpex,CPEX host — runs Python plugins out-of-process in isolated virtualenvs.
