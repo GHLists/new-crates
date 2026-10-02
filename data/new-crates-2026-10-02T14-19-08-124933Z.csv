@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T13:20:25.193449Z,blazing-smtlib,0.0.0,0,0,,Name reserved for a fast streaming SMT-LIB parser under development.
+2026-10-02T13:29:25.714739Z,clean-signals,0.1.0,0,0,https://github.com/f0x-it-llc/clean-signals-rs,"Clean-architecture framework for Leptos apps: use cases, controllers, retry, failures-as-events — built on reactive_graph"
+2026-10-02T13:29:29.948873Z,authplane-sdk,0.1.0,0,0,https://github.com/AuthPlane/rust-sdk,Authplane Rust SDK core primitives.
+2026-10-02T13:29:31.520141Z,clean-signals-leptos,0.1.0,0,0,https://github.com/f0x-it-llc/clean-signals-rs,"Leptos 0.8 integration for clean-signals: component-scoped controllers, AsyncView, failure listeners, safe polling"
+2026-10-02T13:30:01.903636Z,authplane-mcp,0.1.0,0,0,https://github.com/AuthPlane/rust-sdk,Authplane adapter helpers for the official Rust MCP SDK.
+2026-10-02T13:30:14.103382Z,authplane-fastmcp,0.1.0,0,0,https://github.com/AuthPlane/rust-sdk,Authplane adapter helpers for fastmcp-rust (stdio + HTTP).
+2026-10-02T13:30:46.969235Z,beavers,0.0.1,0,0,https://github.com/cafeal/beave-rs,"Typed message processing for Kafka, Pulsar, RabbitMQ, and HTTP with explicit delivery semantics"
+2026-10-02T13:48:23.414997Z,velyst_motiongfx,0.4.0,0,0,https://github.com/voxell-tech/motiongfx,Velyst typesetting support for the Bevy MotionGfx framework.
+2026-10-02T13:51:34.356446Z,respire_core_sdk,1.0.1,0,0,https://github.com/risense-ai/respire-cli,Safe Rust binding to the separately distributed Respire Core SDK
+2026-10-02T13:55:12.536006Z,inoticed,0.8.0,0,0,https://codeberg.org/randomDuderus/inoticed,File monitoring with grouped mail reports
+2026-10-02T14:01:05.763015Z,rdf-fusion-sparql-parser,0.3.0,0,0,,RDF Fusion SPARQL Parser Framework
+2026-10-02T14:04:28.698581Z,apiman,0.1.0,0,0,https://github.com/l3wi/apiman,A Trackman compatible CLI & MCP client
+2026-10-02T14:07:14.063221Z,pulio,0.1.0,0,0,https://codeberg.org/raffaeleragni/pulio,Pool mechanism
+2026-10-02T14:10:11.04327Z,rdf-fusion-wasm,0.3.0,0,0,,JavaScript and WebAssembly bindings for RDF Fusion
+2026-10-02T14:17:53.766786Z,retro-image,0.0.1,0,0,https://github.com/emoon/retro-image,Decoder for image formats of retro computers
+2026-10-02T14:17:56.61034Z,retro-image-cli,0.0.1,0,0,https://github.com/emoon/retro-image,Convert retro computer images to PNG
