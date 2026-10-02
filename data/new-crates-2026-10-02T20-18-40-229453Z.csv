@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T19:21:58.792515Z,kcode-k1-bootstrap-state,0.1.0,0,0,,Canonical first-run Loom bootstrap state
+2026-10-02T19:24:16.376983Z,xmd,0.0.0,0,0,https://github.com/drbh/xmd,Markdown notes that know what they say. Placeholder: install from https://github.com/drbh/xmd for now.
+2026-10-02T19:27:16.746403Z,policy-kit,0.1.0,0,0,https://github.com/WyattAu/policy-kit,"Fail-closed Rego policy evaluation for Rust — bundle loading, v0/v1 dialect auto-detect, typed verdicts"
+2026-10-02T19:27:44.956432Z,kcode-k1-rust-bootstrap-import,0.1.0,0,0,,Authority rewrite and exact KTO import for Loom Rust bootstrap source
+2026-10-02T19:32:39.636077Z,rpi-kickstart,0.1.0,0,0,https://github.com/joeferner/rpi-kickstart,"Application scaffolding for bare-metal Raspberry Pi boards: console, config, storage, web and the rest of the bring-up that is the same on every board, on top of rpi-hal"
+2026-10-02T19:35:50.021458Z,kcode-k1-loom-bootstrap,0.1.0,0,0,,"First-run Loom administrator, public group, root, and Rust source bootstrap"
+2026-10-02T19:42:10.585885Z,bedrock-skin,0.2.0,0,0,https://github.com/THEBOSS9345/bedrock-skin-rs,"Render Minecraft Bedrock skins to PNG and GIF: 3D models, capes, custom geometry, persona skins, Blockbench animations and invisible-skin detection"
+2026-10-02T19:46:27.534696Z,uring-kit,0.1.0,0,0,https://github.com/WyattAu/uring-kit,"Reusable io_uring socket substrate — ring lifecycle, registered buffers, zero-copy ops, extracted from the vane edge proxy"
+2026-10-02T19:48:14.292217Z,vello_gpu_shaders,0.3.0,0,0,https://github.com/linebender/vello,Provide WESL shaders linked to WGSL and GLSL for the `vello_gpu` backends.
+2026-10-02T19:53:02.941832Z,railhead,0.0.0,0,0,,Railhead: Git hosting and coordination for many concurrent coding agents. Placeholder release; the CLI ships here.
+2026-10-02T19:53:14.407736Z,jujutsu-mcp,0.1.1,0,0,https://github.com/LLawli/jujutsu-mcp,"MCP server that lets Claude Code, Codex and Antigravity use jj (Jujutsu) without a shell"
+2026-10-02T19:55:18.367945Z,markout-app,1.0.0,0,0,https://github.com/0xbarss/markout,"Interactive financial time-series visualizer, session replay engine and live trading monitor"
+2026-10-02T20:04:36.303187Z,viz-shell,0.1.0,0,0,https://github.com/jan-blomquist/viz-shell,One shell for every repo
+2026-10-02T20:05:23.567252Z,alternator-client,1.0.0,0,0,https://github.com/scylladb/alternator-client-rust,Rust DynamoDB client wrapper for ScyllaDB Alternator with client-side load balancing.
+2026-10-02T20:06:51.964707Z,gir,0.2.1,0,0,https://github.com/flatrick/git-it-right,"Keeps git usage honest: Conventional Commits lint + autofix, fixup workflow, repo hygiene doctor"
+2026-10-02T20:08:42.624999Z,polars-cypher,0.1.0,0,0,https://github.com/c-fraser/polars-cypher.git,Cypher graph query engine built on Polars
+2026-10-02T20:08:44.497122Z,polars-cypher-cli,0.1.0,0,0,https://github.com/c-fraser/polars-cypher.git,Command-line interface for polars-cypher
+2026-10-02T20:11:21.702298Z,tree-sitter-mcp-server,0.1.0,0,0,https://github.com/joowani/tree-sitter-mcp-server,MCP server that parses code into Tree-sitter ASTs

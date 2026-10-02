@@ -8,40 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 19:18 UTC
+## Latest list — 2026-10-02 20:18 UTC
 
-New crates published between 2026-10-02 18:18 UTC and 2026-10-02 19:18 UTC.
+New crates published between 2026-10-02 19:18 UTC and 2026-10-02 20:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-02T19-18-49-894012Z.csv)
+[Full CSV](data/new-crates-2026-10-02T20-18-40-229453Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-02 18:25:05 | [furnace-rs-testing](https://crates.io/crates/furnace-rs-testing) | 1.0.0 | 0 | Focused in-process test fixtures for furnace-rs |
-| 2026-10-02 18:25:12 | [ros-madair-handlers](https://crates.io/crates/ros-madair-handlers) | 0.1.0-alpha.16 | 0 | The single source of the Rós Madair extension-type registry: handler declaratio… |
-| 2026-10-02 18:25:22 | [kcode-k1-chat-thread-rust-code-build-task](https://crates.io/crates/kcode-k1-chat-thread-rust-code-build-task) | 0.1.0 | 0 | Own the exact RustCodeBuild model task |
-| 2026-10-02 18:25:39 | [ros-madair-query](https://crates.io/crates/ros-madair-query) | 0.1.0-alpha.16 | 0 | Schema-validated query IR + SQL compiler against the Rós Madair static-assets h… |
-| 2026-10-02 18:26:17 | [ros-madair-format](https://crates.io/crates/ros-madair-format) | 0.1.0-alpha.16 | 0 | The Rós Madair static-artifact FORMAT: manifest contract types + attestation ve… |
-| 2026-10-02 18:32:58 | [standard-plugin-manifest](https://crates.io/crates/standard-plugin-manifest) | 0.1.0 | 0 | The standard-plugin.json manifest and grant model shared by the Standard Code p… |
-| 2026-10-02 18:33:00 | [standard-plugin-macros](https://crates.io/crates/standard-plugin-macros) | 0.1.0 | 0 | Attribute macros that export a Standard Code plugin type as a wasm component (u… |
-| 2026-10-02 18:33:13 | [standard-plugin-sdk](https://crates.io/crates/standard-plugin-sdk) | 0.1.0 | 0 | Write Standard Code plugins in Rust: wasm components against standard:plugin@2.… |
-| 2026-10-02 18:33:28 | [standard-plugin-cli](https://crates.io/crates/standard-plugin-cli) | 0.1.0 | 0 | standard-plugin: scaffold, build, check and pack Standard Code plugins |
-| 2026-10-02 18:37:02 | [ros-madair-emit](https://crates.io/crates/ros-madair-emit) | 0.1.0-alpha.16 | 0 | Compile alizarin-governed data into the Rós Madair DuckDB+Parquet substrate (ti… |
-| 2026-10-02 18:39:17 | [fridica-core](https://crates.io/crates/fridica-core) | 0.1.0 | 0 | Fridica's domain: threads, parent decisions and delegation, workers, machines a… |
-| 2026-10-02 18:46:30 | [eider](https://crates.io/crates/eider) | 0.1.0 | 0 | A declarative pipeline compiler for DuckDB: plain SELECT models, enforced layer… |
-| 2026-10-02 18:47:06 | [ros-madair-duck](https://crates.io/crates/ros-madair-duck) | 0.1.0-alpha.16 | 0 | Slice 2 of the DuckDB+Parquet substrate: the shared structured read path — comp… |
-| 2026-10-02 18:49:31 | [n3v3-common](https://crates.io/crates/n3v3-common) | 5.0.0 | 0 | Common utilities and data structures for n3v3 |
-| 2026-10-02 18:50:09 | [n3v3-derive](https://crates.io/crates/n3v3-derive) | 5.0.0 | 0 | Derivation model for n3v3 package management |
-| 2026-10-02 18:50:18 | [n3v3-diagnostic](https://crates.io/crates/n3v3-diagnostic) | 5.0.0 | 0 | Diagnostic and error reporting for n3v3 |
-| 2026-10-02 18:50:26 | [n3v3-syntax](https://crates.io/crates/n3v3-syntax) | 5.0.0 | 0 | AST and syntax definitions for n3v3 |
-| 2026-10-02 18:51:06 | [n3v3-fetch](https://crates.io/crates/n3v3-fetch) | 5.0.0 | 0 | Source fetching for the n3v3 package system |
-| 2026-10-02 18:59:21 | [lumenkit-core](https://crates.io/crates/lumenkit-core) | 0.1.0 | 0 | Toolkit-free core of lumenkit, a generative UI kit: the A2UI card format, strea… |
-| 2026-10-02 18:59:22 | [lumenkit-shaders](https://crates.io/crates/lumenkit-shaders) | 0.1.0 | 0 | Glass shaders for lumenkit: WGSL, translated to Metal, HLSL and SPIR-V at build… |
-| 2026-10-02 18:59:23 | [lumenkit-conformance](https://crates.io/crates/lumenkit-conformance) | 0.1.0 | 0 | Conformance fixtures for lumenkit adapters: one card payload, canonical semanti… |
-| 2026-10-02 19:02:32 | [tabular-center](https://crates.io/crates/tabular-center) | 0.1.1 | 0 | Transition-matrix state machines whose completeness is enforced by the compiler |
-| 2026-10-02 19:06:05 | [datewise](https://crates.io/crates/datewise) | 0.1.1 | 0 | Small, panic-free parser for English date and time phrases with time zone and D… |
-| 2026-10-02 19:08:32 | [lumenkit](https://crates.io/crates/lumenkit) | 0.1.0 | 0 | A Rust kit for user interfaces that an AI composes at runtime: streamed A2UI ca… |
-| 2026-10-02 19:09:08 | [pczt_ledger](https://crates.io/crates/pczt_ledger) | 0.1.0-pre.0 | 0 | Transport-agnostic APDU engine for signing Zcash PCZTs with Ledger hardware wal… |
-| 2026-10-02 19:15:56 | [kcode-k1-bootstrap-identity](https://crates.io/crates/kcode-k1-bootstrap-identity) | 0.1.0 | 0 | Browser-identical first-run Loom password identity |
+| 2026-10-02 19:21:58 | [kcode-k1-bootstrap-state](https://crates.io/crates/kcode-k1-bootstrap-state) | 0.1.0 | 0 | Canonical first-run Loom bootstrap state |
+| 2026-10-02 19:24:16 | [xmd](https://crates.io/crates/xmd) | 0.0.0 | 0 | Markdown notes that know what they say. Placeholder: install from https://githu… |
+| 2026-10-02 19:27:16 | [policy-kit](https://crates.io/crates/policy-kit) | 0.1.0 | 0 | Fail-closed Rego policy evaluation for Rust — bundle loading, v0/v1 dialect aut… |
+| 2026-10-02 19:27:44 | [kcode-k1-rust-bootstrap-import](https://crates.io/crates/kcode-k1-rust-bootstrap-import) | 0.1.0 | 0 | Authority rewrite and exact KTO import for Loom Rust bootstrap source |
+| 2026-10-02 19:32:39 | [rpi-kickstart](https://crates.io/crates/rpi-kickstart) | 0.1.0 | 0 | Application scaffolding for bare-metal Raspberry Pi boards: console, config, st… |
+| 2026-10-02 19:35:50 | [kcode-k1-loom-bootstrap](https://crates.io/crates/kcode-k1-loom-bootstrap) | 0.1.0 | 0 | First-run Loom administrator, public group, root, and Rust source bootstrap |
+| 2026-10-02 19:42:10 | [bedrock-skin](https://crates.io/crates/bedrock-skin) | 0.2.0 | 0 | Render Minecraft Bedrock skins to PNG and GIF: 3D models, capes, custom geometr… |
+| 2026-10-02 19:46:27 | [uring-kit](https://crates.io/crates/uring-kit) | 0.1.0 | 0 | Reusable io_uring socket substrate — ring lifecycle, registered buffers, zero-c… |
+| 2026-10-02 19:48:14 | [vello_gpu_shaders](https://crates.io/crates/vello_gpu_shaders) | 0.3.0 | 0 | Provide WESL shaders linked to WGSL and GLSL for the `vello_gpu` backends. |
+| 2026-10-02 19:53:02 | [railhead](https://crates.io/crates/railhead) | 0.0.0 | 0 | Railhead: Git hosting and coordination for many concurrent coding agents. Place… |
+| 2026-10-02 19:53:14 | [jujutsu-mcp](https://crates.io/crates/jujutsu-mcp) | 0.1.1 | 0 | MCP server that lets Claude Code, Codex and Antigravity use jj (Jujutsu) withou… |
+| 2026-10-02 19:55:18 | [markout-app](https://crates.io/crates/markout-app) | 1.0.0 | 0 | Interactive financial time-series visualizer, session replay engine and live tr… |
+| 2026-10-02 20:04:36 | [viz-shell](https://crates.io/crates/viz-shell) | 0.1.0 | 0 | One shell for every repo |
+| 2026-10-02 20:05:23 | [alternator-client](https://crates.io/crates/alternator-client) | 1.0.0 | 0 | Rust DynamoDB client wrapper for ScyllaDB Alternator with client-side load bala… |
+| 2026-10-02 20:06:51 | [gir](https://crates.io/crates/gir) | 0.2.1 | 0 | Keeps git usage honest: Conventional Commits lint + autofix, fixup workflow, re… |
+| 2026-10-02 20:08:42 | [polars-cypher](https://crates.io/crates/polars-cypher) | 0.1.0 | 0 | Cypher graph query engine built on Polars |
+| 2026-10-02 20:08:44 | [polars-cypher-cli](https://crates.io/crates/polars-cypher-cli) | 0.1.0 | 0 | Command-line interface for polars-cypher |
+| 2026-10-02 20:11:21 | [tree-sitter-mcp-server](https://crates.io/crates/tree-sitter-mcp-server) | 0.1.0 | 0 | MCP server that parses code into Tree-sitter ASTs |
 
 ## Data source
 
