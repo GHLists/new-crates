@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T00:20:02.115446Z,noesis_wgpu,0.2.1,0,0,https://github.com/dead-money/noesis_wgpu,A wgpu render device for the Noesis GUI Native SDK: draws Noesis's batches on a wgpu device and queue you provide.
+2026-10-02T00:20:23.206082Z,flip-rs,0.1.2,0,0,https://github.com/Tavrin/flip-rs,"Rust port of NVIDIA FLIP v1.7, a perceptual image-difference metric for LDR and HDR images"
+2026-10-02T00:21:54.791702Z,maryml-burn-tch,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: LibTorch backend for the Burn framework using the tch bindings.
+2026-10-02T00:23:07.863283Z,ctl-component-info,0.1.0,0,0,https://github.com/tokn-ai/ctl,Build identity and executable metadata shared by ctl and ctmux components
+2026-10-02T00:23:08.469755Z,ctl-keychain-client,0.1.0,0,0,https://github.com/tokn-ai/ctl,Owned macOS Keychain interfaces for ctl credential storage
+2026-10-02T00:23:09.882739Z,ctmux-process-info,0.1.0,0,0,https://github.com/tokn-ai/ctl,"Best-effort, read-only inspection of a known shell and its foreground job"
+2026-10-02T00:23:14.063015Z,ctl-proto,0.1.0,0,0,https://github.com/tokn-ai/ctl,Remote identity and maintenance protocols for ctl agents
+2026-10-02T00:23:14.735731Z,ctl-task-proto,0.1.0,0,0,https://github.com/tokn-ai/ctl,Wire protocol for ctl managed tasks
+2026-10-02T00:30:36.873812Z,ctl-ipc,0.1.0,0,0,https://github.com/tokn-ai/ctl,Local connection broker protocol and lifecycle management for ctld
+2026-10-02T00:33:22.637416Z,maryml-burn-candle,0.21.0,0,0,https://github.com/erlkonig-ai/burn,"MaryML fork of Burn: [Deprecated] Candle backend for the Burn framework - use burn-cubecl, burn-ndarray, or burn-tch instead"
+2026-10-02T00:33:23.806299Z,maryml-burn-tensor,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Tensor library with user-friendly APIs and automatic differentiation support
+2026-10-02T00:37:53.930715Z,ck,0.1.0,0,0,https://github.com/gold-silver-copper/ck,"A read-only terminal imageboard browser for 4chan, vichan, LynxChan, jschan and FoolFuuka archives"
+2026-10-02T00:39:53.520655Z,ctl-task-ipc,0.1.0,0,0,https://github.com/tokn-ai/ctl,Local IPC and daemon lifecycle management for ctl tasks
+2026-10-02T00:44:54.54374Z,maryml-burn-communication,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Abstractions for network communication for Burn
+2026-10-02T00:48:21.500068Z,clawback-core,0.2.0,0,0,https://github.com/Azazel-Labs/Clawback,"Filesystem scanner, size tree and treemap layout behind Clawback. Depends only on std."
+2026-10-02T00:49:17.579673Z,tauri-kit-state,0.11.0,0,0,https://github.com/iyulab/tauri-kit,"Per-folder app state kept outside the folder: a stable key, a format version that older releases leave alone, and writes kept until they land."
+2026-10-02T00:50:26.463402Z,pgsqlfmt,0.2.2,0,0,https://github.com/aoyagikouhei/pgsqlfmt,A formatter for PostgreSQL SQL / PL/pgSQL
+2026-10-02T00:53:36.123455Z,meowdia,0.1.0,0,0,,A work-in-progress media server
+2026-10-02T00:53:42.020188Z,kcode-k1-chat-thread-rust-code-editor-state,0.1.0,0,0,,Encode exact selector and revision metadata for K1 chat RustCode editors
+2026-10-02T00:56:10.429057Z,maryml-cubek-quant,0.2.0,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-quant,CubeK: Quantization Library
+2026-10-02T00:58:23.211741Z,h5i-app-core,0.1.0,0,0,https://github.com/h5i-dev/h5i,Core contract between a verified h5i-app kernel and its untrusted shell
+2026-10-02T00:58:23.538443Z,h5i-app-json,0.1.0,0,0,https://github.com/h5i-dev/h5i,"JSON writer for h5i-app replies, extracted to Lean and proven"
+2026-10-02T00:58:23.752478Z,h5i-app-schema,0.1.0,0,0,https://github.com/h5i-dev/h5i,Declare kernel row types once; get the structs and their table mappings
+2026-10-02T00:58:23.931249Z,h5i-app-sql,0.1.0,0,0,https://github.com/h5i-dev/h5i,Pure planner from h5i-app write sets to keyed SQL statements; extracted to Lean and proven
+2026-10-02T00:58:24.290956Z,h5i-app-token,0.1.0,0,0,https://github.com/h5i-dev/h5i,"Bearer token encoding and parsing for h5i-app, extracted to Lean and proven"
+2026-10-02T00:58:35.651951Z,trunk-recorder-plugin,0.1.0,0,0,https://github.com/TrunkRecorder/trunk-recorder-pro,"Plugins for Trunk Recorder Pro: the wire protocol between the recorder and a plugin process, and an SDK for writing plugins in Rust."
+2026-10-02T01:00:07.350207Z,h5i-app-pgsql,0.1.0,0,0,https://github.com/h5i-dev/h5i,PostgreSQL text for h5i-app's planned statements; extracted to Lean and proven to mean what the planner's statements mean
+2026-10-02T01:00:57.574846Z,cortenforge-geometry,0.9.0,0,0,https://github.com/via-balaena/CortenForge,Shared geometric kernel for CortenForge
+2026-10-02T01:00:58.361716Z,cortenforge-sim-soft-explicit,0.9.0,0,0,https://github.com/via-balaena/CortenForge,"Explicit hyperelastic soft-body solver core: the shared CPU/GPU physics, written once, and the lowered model layout"
+2026-10-02T01:00:58.819528Z,cortenforge-sim-types,0.9.0,0,0,https://github.com/via-balaena/CortenForge,"Foundation types for sim-core: body identity, pose, simulation configuration"
+2026-10-02T01:01:00.295687Z,cortenforge-mesh-select,0.9.0,0,0,https://github.com/via-balaena/CortenForge,"Brush-based face selection primitive — precompute per-face centroids + normals, then query the set of faces a round surface brush covers (with an optional normal-similarity filter)"
+2026-10-02T01:01:00.787459Z,cortenforge-mesh-types,0.9.0,0,0,https://github.com/via-balaena/CortenForge,"Core mesh types for CortenForge: IndexedMesh, AttributedMesh, Triangle, Aabb"
+2026-10-02T01:07:34.626391Z,maryml-cubek-random,0.2.0,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-random,CubeK: Random Number Generation
+2026-10-02T01:09:53.136063Z,tauri-plugin-silent-mode,0.1.0-alpha.1,0,0,https://github.com/hoangmirs/tauri-plugins,"Tauri plugin that tells an app whether the phone is set to silent or vibrate, and when that changes"
+2026-10-02T01:10:10.030708Z,h5i-app-pg,0.1.0,0,0,https://github.com/h5i-dev/h5i,"PostgreSQL engine for h5i-app: tenant-scoped snapshots, SERIALIZABLE execution with retry, idempotency"
+2026-10-02T01:13:32.679556Z,cortenforge-cap-planes,0.9.0,0,0,https://github.com/via-balaena/CortenForge,"Cap-plane parsing for cleaned scans: reads a .prep.toml [caps] block and strips cap-polygon faces from the scan, so consumers can build cap-stripped (dome-wall-only) signed-distance fields"
