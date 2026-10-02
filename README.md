@@ -8,47 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 17:18 UTC
+## Latest list — 2026-10-02 18:18 UTC
 
-New crates published between 2026-10-02 16:18 UTC and 2026-10-02 17:18 UTC.
+New crates published between 2026-10-02 17:18 UTC and 2026-10-02 18:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-02T17-18-36-938167Z.csv)
+[Full CSV](data/new-crates-2026-10-02T18-18-45-58569Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-02 16:19:18 | [lithair-postgres](https://crates.io/crates/lithair-postgres) | 0.1.0 | 0 | Experimental opt-in PostgreSQL document storage for Lithair models |
-| 2026-10-02 16:26:11 | [gate4agent-handle](https://crates.io/crates/gate4agent-handle) | 0.4.1 | 0 | Bounded dispatch, snapshot, and event port for gate4agent |
-| 2026-10-02 16:26:45 | [sprawling-agent-protocols](https://crates.io/crates/sprawling-agent-protocols) | 0.0.8 | 0 | MCP out to a server, ACP in from an editor and ACP out to a harness, as a spraw… |
-| 2026-10-02 16:27:47 | [r0z-sys](https://crates.io/crates/r0z-sys) | 0.1.0 | 0 | Native ZeroMQ (libzmq) build and FFI bindings |
-| 2026-10-02 16:27:49 | [r0z](https://crates.io/crates/r0z) | 0.1.0 | 0 | Safe Rust bindings to native ZeroMQ (libzmq) |
-| 2026-10-02 16:27:51 | [r0z-async](https://crates.io/crates/r0z-async) | 0.1.0 | 0 | Async bindings to native ZeroMQ (libzmq), with optional runtime adapters |
-| 2026-10-02 16:29:31 | [gsichtl](https://crates.io/crates/gsichtl) | 0.1.1 | 0 | Deterministic pixel-art avatars from any seed: monsters, nerdy faces and crests |
-| 2026-10-02 16:35:47 | [golem-schema-derive](https://crates.io/crates/golem-schema-derive) | 1.6.0-dev.2 | 0 | Derive macros for the Golem schema model |
-| 2026-10-02 16:36:01 | [gate4agent-shell-native](https://crates.io/crates/gate4agent-shell-native) | 0.4.1 | 0 | Native effect execution (PTY, pipe, ACP) for gate4agent control-plane sessions |
-| 2026-10-02 16:36:21 | [golem-schema](https://crates.io/crates/golem-schema) | 1.6.0-dev.2 | 0 | Golem schema and value model |
-| 2026-10-02 16:36:43 | [sprawling-collab](https://crates.io/crates/sprawling-collab) | 0.0.8 | 0 | Several residents of a sprawling city working in one building without stepping… |
-| 2026-10-02 16:36:48 | [golem-tool-metadata](https://crates.io/crates/golem-tool-metadata) | 1.6.0-dev.2 | 0 | Tool metadata model for Golem agents |
-| 2026-10-02 16:37:50 | [pipecircuit-postcard-bindgen-core](https://crates.io/crates/pipecircuit-postcard-bindgen-core) | 0.0.1 | 0 | Pinned Postcard binding generator with Result and lossless integer support for… |
-| 2026-10-02 16:37:50 | [pipecircuit-postcard-bindgen-derive](https://crates.io/crates/pipecircuit-postcard-bindgen-derive) | 0.0.1 | 0 | Postcard binding derivation with recursive inventory for Pipecircuit |
-| 2026-10-02 16:39:10 | [pipecircuit-postcard-bindgen](https://crates.io/crates/pipecircuit-postcard-bindgen) | 0.0.1 | 0 | Pinned Postcard binding generator facade for Pipecircuit browser pipes |
-| 2026-10-02 16:43:29 | [normalizer-tr](https://crates.io/crates/normalizer-tr) | 0.3.0 | 0 | Bounded Turkish text-to-speech normalization with original-source diagnostics |
-| 2026-10-02 16:46:03 | [gate4agent-runtime-native](https://crates.io/crates/gate4agent-runtime-native) | 0.4.1 | 0 | Tick-driven native runtime that embeds the gate4agent provider stack in an owni… |
-| 2026-10-02 16:46:51 | [sprawling-runtime](https://crates.io/crates/sprawling-runtime) | 0.0.8 | 0 | One run of a sprawling resident, from dispatch to freeze: turns, tools, replay… |
-| 2026-10-02 16:50:07 | [terse-ltx](https://crates.io/crates/terse-ltx) | 0.1.0 | 0 | LTX encoding, decoding, and streaming compaction |
-| 2026-10-02 16:56:22 | [gate4agent-node](https://crates.io/crates/gate4agent-node) | 0.4.1 | 0 | Native gate4agent node server: wraps providers and owns PTY/inline sessions, th… |
-| 2026-10-02 16:56:46 | [sprawling-wire](https://crates.io/crates/sprawling-wire) | 0.0.8 | 0 | The process boundary of a sprawling city: the frames its clients speak, and the… |
-| 2026-10-02 17:01:26 | [my_little_fs](https://crates.io/crates/my_little_fs) | 0.1.0 | 0 | 内容寻址文件系统：CDC 分块 + blake3 寻址 + zstd 压缩 + redb 元数据 |
-| 2026-10-02 17:06:07 | [gate4agent-c2](https://crates.io/crates/gate4agent-c2) | 0.4.1 | 0 | Relay daemon that aggregates gate4agent node state/events and routes commands d… |
-| 2026-10-02 17:06:48 | [sprawling-accounting](https://crates.io/crates/sprawling-accounting) | 0.0.8 | 0 | The one writer of a sprawling city's Ledger, the views every page is answered f… |
-| 2026-10-02 17:11:55 | [atunex](https://crates.io/crates/atunex) | 0.1.0 | 0 | A rustic cli tool for experimenting with automatic pid tuning. |
-| 2026-10-02 17:14:03 | [montagent-render](https://crates.io/crates/montagent-render) | 0.1.2 | 0 | Montagent's rasterizer and encode path: frames in, video out. |
-| 2026-10-02 17:14:04 | [montagent-text](https://crates.io/crates/montagent-text) | 0.1.2 | 0 | Montagent's text stack: shaping, line partitioning, break opportunities and ext… |
-| 2026-10-02 17:14:05 | [montagent-core](https://crates.io/crates/montagent-core) | 0.1.2 | 0 | The Montagent core library: parsing, the finding type, the check registry and t… |
-| 2026-10-02 17:14:07 | [montagent](https://crates.io/crates/montagent) | 0.1.2 | 0 | A video editor whose project format is authored by an AI agent: one binary, a C… |
-| 2026-10-02 17:14:20 | [typedlm-macros](https://crates.io/crates/typedlm-macros) | 0.1.0 | 0 | Derive macros for typedlm |
-| 2026-10-02 17:14:23 | [typedlm](https://crates.io/crates/typedlm) | 0.1.0 | 0 | Typed, testable LLM programs for Rust |
-| 2026-10-02 17:14:26 | [typedlm-cli](https://crates.io/crates/typedlm-cli) | 0.1.0 | 0 | Command line for TypedLM evaluations: run programs across models, compare with… |
-| 2026-10-02 17:16:46 | [sprawling-desktop](https://crates.io/crates/sprawling-desktop) | 0.0.8 | 0 | An MCP server that gives an agent eyes and hands on this Windows desktop. |
+| 2026-10-02 17:20:45 | [dc_rulekit](https://crates.io/crates/dc_rulekit) | 0.1.0 | 0 | Business-agnostic on-device rules engine with host-supplied plugins |
+| 2026-10-02 17:26:15 | [bevy_zeroverse_capture](https://crates.io/crates/bevy_zeroverse_capture) | 0.1.0 | 0 | Shared capture identity and annotation contracts for bevy_zeroverse |
+| 2026-10-02 17:26:29 | [niri-punto](https://crates.io/crates/niri-punto) | 0.3.9 | 0 | Keyboard layout corrector for the niri Wayland compositor |
+| 2026-10-02 17:26:48 | [sprawling](https://crates.io/crates/sprawling) | 0.0.8 | 0 | Run many agents on one machine as a city: one binary, a browser client it serve… |
+| 2026-10-02 17:26:50 | [bevy_zeroverse_publication](https://crates.io/crates/bevy_zeroverse_publication) | 0.1.0 | 0 | Validated Rust project-page and whitepaper pipeline for bevy_zeroverse |
+| 2026-10-02 17:50:09 | [forma-ui](https://crates.io/crates/forma-ui) | 0.1.0 | 0 | A retained GUI framework: widget arena, taffy layout, cosmic-text, draw-list ou… |
+| 2026-10-02 17:51:05 | [grebe-syntax](https://crates.io/crates/grebe-syntax) | 0.4.0 | 0 | DuckDB SQL parser built from DuckDB's own PEG grammar: tokenizer, packrat match… |
+| 2026-10-02 17:51:07 | [grebe-format](https://crates.io/crates/grebe-format) | 0.4.0 | 0 | Formatter for DuckDB SQL, built on grebe-syntax's lossless CST. |
+| 2026-10-02 17:51:07 | [grebe-rules](https://crates.io/crates/grebe-rules) | 0.4.0 | 0 | Lint rules, autofixes and configuration for the grebe DuckDB SQL linter. |
+| 2026-10-02 17:51:09 | [grebe-lsp](https://crates.io/crates/grebe-lsp) | 0.4.0 | 0 | Language server for DuckDB SQL: diagnostics, quick fixes, formatting and semant… |
+| 2026-10-02 17:51:10 | [grebe](https://crates.io/crates/grebe) | 0.4.0 | 0 | A fast DuckDB SQL formatter and linter in one static binary. |
+| 2026-10-02 17:51:16 | [forma-wgpu](https://crates.io/crates/forma-wgpu) | 0.1.0 | 0 | A wgpu renderer for forma draw lists. |
+| 2026-10-02 17:51:30 | [forma-winit](https://crates.io/crates/forma-winit) | 0.1.0 | 0 | Connects forma to winit: input translation, cursor icons, IME placement, the OS… |
+| 2026-10-02 17:53:01 | [kcode-k1-rust-bootstrap-launcher](https://crates.io/crates/kcode-k1-rust-bootstrap-launcher) | 0.1.0 | 0 | Create the fixed Loom bootstrap launcher package |
+| 2026-10-02 17:55:54 | [kcode-k1-rust-bootstrap-archive](https://crates.io/crates/kcode-k1-rust-bootstrap-archive) | 0.1.0 | 0 | Read and write the exact Loom Rust bootstrap ZIP format |
+| 2026-10-02 17:57:54 | [netshell](https://crates.io/crates/netshell) | 0.1.0 | 0 | netmiko-style SSH shell driver for network devices: Arista EOS, Cisco IOS/NX-OS… |
+| 2026-10-02 17:58:52 | [mw-check](https://crates.io/crates/mw-check) | 0.1.0 | 0 | Maintenance window check: capture network device state before and after a chang… |
+| 2026-10-02 17:59:50 | [harte](https://crates.io/crates/harte) | 0.1.0 | 0 | Harte chord notation, read into music21-rs chords |
+| 2026-10-02 18:00:25 | [datafusion-arrowmetal](https://crates.io/crates/datafusion-arrowmetal) | 0.4.1 | 0 | A DataFusion 55.1 physical optimizer rule that runs full sorts, and count(*), D… |
+| 2026-10-02 18:10:06 | [nu_plugin_jev](https://crates.io/crates/nu_plugin_jev) | 0.1.0 | 0 | Nushell plugin for TypeSafe Jev structured decisions |
+| 2026-10-02 18:10:32 | [jj-fork](https://crates.io/crates/jj-fork) | 0.1.0 | 0 | Maintain a fork as jj series and glues on top of upstream, and keep them current |
+| 2026-10-02 18:12:46 | [furnace-rs-core-macros](https://crates.io/crates/furnace-rs-core-macros) | 1.0.0 | 0 | Procedural macros for the framework-neutral furnace-rs core |
+| 2026-10-02 18:12:51 | [furnace-rs-common-macros](https://crates.io/crates/furnace-rs-common-macros) | 1.0.0 | 0 | HTTP, controller, Passport, and route procedural macros for furnace-rs |
+| 2026-10-02 18:12:59 | [furnace-rs-core](https://crates.io/crates/furnace-rs-core) | 1.0.0 | 0 | Framework-neutral dependency injection, configuration, and lifecycle core for f… |
+| 2026-10-02 18:13:03 | [furnace-rs-extra](https://crates.io/crates/furnace-rs-extra) | 1.0.0 | 0 | Extension boundary for optional furnace-rs framework capabilities |
+| 2026-10-02 18:13:22 | [furnace-rs-common](https://crates.io/crates/furnace-rs-common) | 1.0.0 | 0 | HTTP, JWT, cookies, and Passport integrations for furnace-rs |
+| 2026-10-02 18:15:57 | [thesportsdb](https://crates.io/crates/thesportsdb) | 0.1.0 | 0 | Unofficial typed async client for the TheSportsDB v1 and v2 JSON APIs |
+| 2026-10-02 18:16:12 | [awaseru-core](https://crates.io/crates/awaseru-core) | 0.0.0 | 0 | awaseru's platform-independent half: the state model, the execution primitive a… |
+| 2026-10-02 18:16:18 | [awaseru-snes](https://crates.io/crates/awaseru-snes) | 0.0.0 | 0 | awaseru's first platform backend. |
+| 2026-10-02 18:16:25 | [awaseru](https://crates.io/crates/awaseru) | 0.0.0 | 0 | Verified reimplementation harness: runs a reference emulator alongside a reimpl… |
 
 ## Data source
 
