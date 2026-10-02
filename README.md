@@ -8,49 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 05:21 UTC
+## Latest list — 2026-10-02 06:19 UTC
 
-New crates published between 2026-10-02 04:20 UTC and 2026-10-02 05:21 UTC.
+New crates published between 2026-10-02 05:21 UTC and 2026-10-02 06:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-02T05-21-11-078702Z.csv)
+[Full CSV](data/new-crates-2026-10-02T06-19-41-036007Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-02 04:21:15 | [maryml-burn-dispatch](https://crates.io/crates/maryml-burn-dispatch) | 0.21.0 | 0 | MaryML fork of Burn: Backend dispatch for the Burn framework |
-| 2026-10-02 04:21:50 | [cortenforge-sim-thermostat](https://crates.io/crates/cortenforge-sim-thermostat) | 0.9.0 | 0 | Langevin thermostat + passive-component framework for thermodynamic computing o… |
-| 2026-10-02 04:27:43 | [myelin-accelerator](https://crates.io/crates/myelin-accelerator) | 0.2.0 | 0 | Rust/CUDA acceleration primitives for spiking neural networks and neuromorphic… |
-| 2026-10-02 04:31:49 | [cortenforge-sim-opt](https://crates.io/crates/cortenforge-sim-opt) | 0.9.0 | 0 | Gradient-free optimizers (simulated annealing, parallel tempering) and bootstra… |
-| 2026-10-02 04:32:31 | [maryml-burn-router](https://crates.io/crates/maryml-burn-router) | 0.21.0 | 0 | MaryML fork of Burn: Multi-backend router decorator for the Burn framework |
-| 2026-10-02 04:32:36 | [maryml-burn-remote](https://crates.io/crates/maryml-burn-remote) | 0.21.0 | 0 | MaryML fork of Burn: Backend router decorator over the network. |
-| 2026-10-02 04:34:37 | [sartorial-core](https://crates.io/crates/sartorial-core) | 0.5.0 | 0 | Deterministic semantic presentation for Rust CLIs: Document, themes, presets, a… |
-| 2026-10-02 04:36:06 | [sartorial](https://crates.io/crates/sartorial) | 0.5.0 | 0 | An opinionated Rust CLI presentation toolkit for humans and agents, built on sa… |
-| 2026-10-02 04:37:21 | [modelname](https://crates.io/crates/modelname) | 0.1.0 | 0 | Parse AI model names like claude-sonnet-4-5 or gemini-2.5-flash into vendor, fa… |
-| 2026-10-02 04:41:43 | [cortenforge-sim-therm-env](https://crates.io/crates/cortenforge-sim-therm-env) | 0.9.0 | 0 | ThermCircuitEnv: typed builder producing SimEnv/VecEnv from thermodynamic circu… |
-| 2026-10-02 04:43:50 | [maryml-burn-core](https://crates.io/crates/maryml-burn-core) | 0.21.0 | 0 | MaryML fork of Burn: Flexible and Comprehensive Deep Learning Framework in Rust |
-| 2026-10-02 04:44:33 | [mkpar](https://crates.io/crates/mkpar) | 0.1.0 | 0 | Create missing parent directories for a path |
-| 2026-10-02 04:44:49 | [herdfold](https://crates.io/crates/herdfold) | 0.1.0 | 0 | Long text, laid out as facing pages you turn: a book reader across two herdr pa… |
-| 2026-10-02 04:46:18 | [grimble](https://crates.io/crates/grimble) | 0.0.0 | 0 | Name reservation for grimble, part of the frob workspace (Rust rewrite in progr… |
-| 2026-10-02 04:46:25 | [crunk](https://crates.io/crates/crunk) | 0.0.0 | 0 | Name reservation for crunk, part of the frob workspace (Rust rewrite in progres… |
-| 2026-10-02 04:46:33 | [gob-rules](https://crates.io/crates/gob-rules) | 0.0.0 | 0 | Name reservation for gob-rules, part of the frob workspace (Rust rewrite in pro… |
-| 2026-10-02 04:46:40 | [gob-syntax](https://crates.io/crates/gob-syntax) | 0.0.0 | 0 | Name reservation for gob-syntax, part of the frob workspace (Rust rewrite in pr… |
-| 2026-10-02 04:46:48 | [gob-macros](https://crates.io/crates/gob-macros) | 0.0.0 | 0 | Name reservation for gob-macros, part of the frob workspace (Rust rewrite in pr… |
-| 2026-10-02 04:51:07 | [nacre-exact](https://crates.io/crates/nacre-exact) | 0.0.1 | 0 | Exact arithmetic for the nacre CAD kernel — rationals, quadratic irrationals, e… |
-| 2026-10-02 04:51:11 | [nacre-math](https://crates.io/crates/nacre-math) | 0.0.1 | 0 | f64 linear algebra for the nacre CAD kernel, with points and vectors kept disti… |
-| 2026-10-02 04:51:14 | [nacre-predicates](https://crates.io/crates/nacre-predicates) | 0.0.1 | 0 | Exact geometric predicates for the nacre CAD kernel — sign decisions on points… |
-| 2026-10-02 04:51:18 | [nacre-store](https://crates.io/crates/nacre-store) | 0.0.1 | 0 | Append-only typed storage for the nacre CAD kernel — every object is written on… |
-| 2026-10-02 04:51:23 | [nacre-geom](https://crates.io/crates/nacre-geom) | 0.0.1 | 0 | Analytic curves and surfaces for the nacre CAD kernel — closed-form f64 evaluat… |
-| 2026-10-02 04:51:37 | [cortenforge-sim-urdf](https://crates.io/crates/cortenforge-sim-urdf) | 0.9.0 | 0 | URDF robot description parser for physics simulation |
-| 2026-10-02 04:55:00 | [rusty_rtos_port-esp-radio](https://crates.io/crates/rusty_rtos_port-esp-radio) | 0.3.0 | 0 | esp-radio on a Kairos kernel: the five esp-radio-rtos-driver implementations, a… |
-| 2026-10-02 04:55:05 | [maryml-burn-nn](https://crates.io/crates/maryml-burn-nn) | 0.21.0 | 0 | MaryML fork of Burn: Neural network building blocks for the Burn deep learning… |
-| 2026-10-02 05:01:28 | [cortenforge-sim](https://crates.io/crates/cortenforge-sim) | 0.9.0 | 0 | Headless simulation & differentiable co-design toolkit: rigid + soft-FEM physic… |
-| 2026-10-02 05:01:32 | [nacre-judge](https://crates.io/crates/nacre-judge) | 0.0.1 | 0 | Proved sign decisions for the nacre CAD kernel where coordinates are irrational… |
-| 2026-10-02 05:06:09 | [maryml-burn-optim](https://crates.io/crates/maryml-burn-optim) | 0.21.0 | 0 | MaryML fork of Burn: Optimizer building blocks for the Burn deep learning frame… |
-| 2026-10-02 05:11:19 | [cortenforge-spatial](https://crates.io/crates/cortenforge-spatial) | 0.9.0 | 0 | Spatial data structures for CortenForge: VoxelGrid, OccupancyMap, raycasting |
-| 2026-10-02 05:11:42 | [nacre-topo](https://crates.io/crates/nacre-topo) | 0.0.1 | 0 | B-rep topology for the nacre CAD kernel — half-edge solids and the model holdin… |
-| 2026-10-02 05:11:54 | [abnegate-index](https://crates.io/crates/abnegate-index) | 0.1.0 | 0 | Overlapping-window source chunking and host-owned semantic code search |
-| 2026-10-02 05:15:49 | [linlua](https://crates.io/crates/linlua) | 0.1.0 | 0 | A Luau-flavored Lua subset on the linjs engine architecture: gradual types, gra… |
-| 2026-10-02 05:16:21 | [linjs](https://crates.io/crates/linjs) | 0.1.0 | 0 | A JavaScript-subset pilot on increparse: incremental parsing, closures, a tree-… |
-| 2026-10-02 05:18:33 | [lopi-ssh](https://crates.io/crates/lopi-ssh) | 0.3.0 | 0 | Open SSH connections from saved profiles with one short command, in any shell o… |
+| 2026-10-02 05:21:56 | [nacre-ops](https://crates.io/crates/nacre-ops) | 0.0.1 | 0 | Modeling operations for the nacre CAD kernel — sketch-based features, booleans… |
+| 2026-10-02 05:23:39 | [maryml-burn-rl](https://crates.io/crates/maryml-burn-rl) | 0.21.0 | 0 | MaryML fork of Burn: RL crate for the Burn framework |
+| 2026-10-02 05:24:40 | [ls-lr-analyzer](https://crates.io/crates/ls-lr-analyzer) | 0.1.0 | 0 | Analyze ls -lR text snapshots and compare directory sizes, file counts, and gro… |
+| 2026-10-02 05:24:51 | [maryml-burn-store](https://crates.io/crates/maryml-burn-store) | 0.21.0 | 0 | MaryML fork of Burn: Storage and serialization infrastructure for Burn |
+| 2026-10-02 05:26:40 | [ironwork-compile](https://crates.io/crates/ironwork-compile) | 0.2.0 | 0 | ironwork for COBOL: the compiler that checks a parsed program and lays out its… |
+| 2026-10-02 05:29:03 | [hal-dat-raw](https://crates.io/crates/hal-dat-raw) | 0.1.0 | 0 | Bounded raw HSD DAT archive parser |
+| 2026-10-02 05:29:06 | [gx-texture](https://crates.io/crates/gx-texture) | 0.1.0 | 0 | GameCube GX texture codec: decode and encode texel data, palettes, and CMPR |
+| 2026-10-02 05:29:08 | [gc-iso](https://crates.io/crates/gc-iso) | 0.1.0 | 0 | Read GameCube (GCM) disc images a file at a time, and replace one file in place |
+| 2026-10-02 05:29:12 | [dat-parser](https://crates.io/crates/dat-parser) | 0.1.0 | 0 | HAL's HSD DAT format: descriptors, GX geometry and textures, scenes, draw evalu… |
+| 2026-10-02 05:29:15 | [melee-dat](https://crates.io/crates/melee-dat) | 0.1.0 | 0 | Super Smash Bros. Melee on top of dat-parser: fighters, stages, their animation… |
+| 2026-10-02 05:32:04 | [nacre-props](https://crates.io/crates/nacre-props) | 0.0.1 | 0 | Exact mass properties for the nacre CAD kernel — volume, area and centroid comp… |
+| 2026-10-02 05:32:43 | [maryml-burn-train](https://crates.io/crates/maryml-burn-train) | 0.21.0 | 0 | MaryML fork of Burn: Training crate for the Burn framework |
+| 2026-10-02 05:33:32 | [dat-edit](https://crates.io/crates/dat-edit) | 0.1.0 | 0 | In-place edits to HSD DAT archives |
+| 2026-10-02 05:42:16 | [nacre-step](https://crates.io/crates/nacre-step) | 0.0.1 | 0 | Compact, shape-only STEP (AP242) export for the nacre CAD kernel |
+| 2026-10-02 05:42:24 | [maryml-burn-vision](https://crates.io/crates/maryml-burn-vision) | 0.21.0 | 0 | MaryML fork of Burn: Vision processing operations for burn tensors |
+| 2026-10-02 05:43:43 | [hsd-render](https://crates.io/crates/hsd-render) | 0.1.0 | 0 | wgpu renderer for dat-parser's evaluated HSD draw work |
+| 2026-10-02 05:47:16 | [rustploy-shared](https://crates.io/crates/rustploy-shared) | 0.1.0 | 0 | Shared types and protocol definitions for the Rustploy PaaS platform |
+| 2026-10-02 05:52:27 | [maryml-burn](https://crates.io/crates/maryml-burn) | 0.21.0 | 0 | MaryML fork of Burn: Flexible and Comprehensive Deep Learning Framework in Rust |
+| 2026-10-02 05:52:30 | [nacre-tess](https://crates.io/crates/nacre-tess) | 0.0.1 | 0 | Tessellation for the nacre CAD kernel — crack-free meshes derived from the exac… |
+| 2026-10-02 06:02:24 | [triblespace-gpu](https://crates.io/crates/triblespace-gpu) | 0.47.0 | 0 | Opt-in GPU acceleration backends for TribleSpace |
+| 2026-10-02 06:02:40 | [nacre-validate](https://crates.io/crates/nacre-validate) | 0.0.1 | 0 | B-rep invariant checker for the nacre CAD kernel — reference integrity, closure… |
+| 2026-10-02 06:12:21 | [triblespace-paths](https://crates.io/crates/triblespace-paths) | 0.47.0 | 0 | Exact regular-path indexes for TribleSpace. |
+| 2026-10-02 06:12:36 | [kugou-tui](https://crates.io/crates/kugou-tui) | 0.4.7 | 0 | 轻量级酷狗音乐命令行 TUI 播放器（首次运行自动准备接口服务，需 Node.js） |
+| 2026-10-02 06:15:31 | [nacre-kit](https://crates.io/crates/nacre-kit) | 0.0.1 | 0 | Convenience layer over the nacre CAD kernel: reusable values, n-ary booleans an… |
 
 ## Data source
 

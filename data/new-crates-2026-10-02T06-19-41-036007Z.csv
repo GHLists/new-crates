@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T05:21:56.172999Z,nacre-ops,0.0.1,0,0,https://github.com/elgar328/nacre,"Modeling operations for the nacre CAD kernel — sketch-based features, booleans and transforms, recorded in a replayable operation log"
+2026-10-02T05:23:39.218171Z,maryml-burn-rl,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: RL crate for the Burn framework
+2026-10-02T05:24:40.840709Z,ls-lr-analyzer,0.1.0,0,0,https://github.com/widehyo1/ls-lr-analyzer,"Analyze ls -lR text snapshots and compare directory sizes, file counts, and growth."
+2026-10-02T05:24:51.840281Z,maryml-burn-store,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Storage and serialization infrastructure for Burn
+2026-10-02T05:26:40.811947Z,ironwork-compile,0.2.0,0,0,https://github.com/Portll/ironwork,ironwork for COBOL: the compiler that checks a parsed program and lays out its storage as IBM does
+2026-10-02T05:29:03.853965Z,hal-dat-raw,0.1.0,0,0,https://github.com/texturesgg/texturesgg,Bounded raw HSD DAT archive parser
+2026-10-02T05:29:06.248722Z,gx-texture,0.1.0,0,0,https://github.com/texturesgg/texturesgg,"GameCube GX texture codec: decode and encode texel data, palettes, and CMPR"
+2026-10-02T05:29:08.488027Z,gc-iso,0.1.0,0,0,https://github.com/texturesgg/texturesgg,"Read GameCube (GCM) disc images a file at a time, and replace one file in place"
+2026-10-02T05:29:12.102797Z,dat-parser,0.1.0,0,0,https://github.com/texturesgg/texturesgg,"HAL's HSD DAT format: descriptors, GX geometry and textures, scenes, draw evaluation, and animation"
+2026-10-02T05:29:15.58708Z,melee-dat,0.1.0,0,0,https://github.com/texturesgg/texturesgg,"Super Smash Bros. Melee on top of dat-parser: fighters, stages, their animations, and the vanilla file table"
+2026-10-02T05:32:04.714697Z,nacre-props,0.0.1,0,0,https://github.com/elgar328/nacre,"Exact mass properties for the nacre CAD kernel — volume, area and centroid computed on the exact geometry, not on a mesh"
+2026-10-02T05:32:43.269722Z,maryml-burn-train,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Training crate for the Burn framework
+2026-10-02T05:33:32.121956Z,dat-edit,0.1.0,0,0,https://github.com/texturesgg/texturesgg,In-place edits to HSD DAT archives
+2026-10-02T05:42:16.309111Z,nacre-step,0.0.1,0,0,https://github.com/elgar328/nacre,"Compact, shape-only STEP (AP242) export for the nacre CAD kernel"
+2026-10-02T05:42:24.058204Z,maryml-burn-vision,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Vision processing operations for burn tensors
+2026-10-02T05:43:43.176934Z,hsd-render,0.1.0,0,0,https://github.com/texturesgg/texturesgg,wgpu renderer for dat-parser's evaluated HSD draw work
+2026-10-02T05:47:16.953237Z,rustploy-shared,0.1.0,0,0,https://github.com/antoniofernandodj/rustploy-shared,Shared types and protocol definitions for the Rustploy PaaS platform
+2026-10-02T05:52:27.938222Z,maryml-burn,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Flexible and Comprehensive Deep Learning Framework in Rust
+2026-10-02T05:52:30.40742Z,nacre-tess,0.0.1,0,0,https://github.com/elgar328/nacre,"Tessellation for the nacre CAD kernel — crack-free meshes derived from the exact b-rep, each mesh vertex tagged with its origin"
+2026-10-02T06:02:24.305943Z,triblespace-gpu,0.47.0,0,0,https://github.com/triblespace/triblespace-rs,Opt-in GPU acceleration backends for TribleSpace
+2026-10-02T06:02:40.514092Z,nacre-validate,0.0.1,0,0,https://github.com/elgar328/nacre,"B-rep invariant checker for the nacre CAD kernel — reference integrity, closure, manifoldness, orientation, incidence and Euler–Poincaré"
+2026-10-02T06:12:21.55133Z,triblespace-paths,0.47.0,0,0,https://github.com/triblespace/triblespace-rs,Exact regular-path indexes for TribleSpace.
+2026-10-02T06:12:36.942019Z,kugou-tui,0.4.7,0,0,https://github.com/sijin-xb/kugou-tui,轻量级酷狗音乐命令行 TUI 播放器（首次运行自动准备接口服务，需 Node.js）
+2026-10-02T06:15:31.237327Z,nacre-kit,0.0.1,0,0,https://github.com/elgar328/nacre-kit,"Convenience layer over the nacre CAD kernel: reusable values, n-ary booleans and sketch helpers, built from kernel operations"
