@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T01:19:14.475425Z,maryml-cubek-test-utils,0.2.0,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-test-utils,CubeK: Test Utils
+2026-10-02T01:20:07.596624Z,h5i-app-http,0.1.0,0,0,https://github.com/h5i-dev/h5i,"HTTP shell for h5i-app kernels: authentication and input decoding (trusted), dispatch to the engine"
+2026-10-02T01:23:29.914753Z,cortenforge-device-types,0.9.0,0,0,https://github.com/via-balaena/CortenForge,"Shared device-design domain types: cavity and layer-stack state, scan resources, centerline, sim-design projection and Smooth-On Slacker curve data"
+2026-10-02T01:23:59.306254Z,sz-rust-testkit,1.6.0,0,0,https://github.com/ljclz/sz-rust,Test toolkit for sz-rust — TestCase + HttpClient + ModelFactory + Fixture + Mock
+2026-10-02T01:25:14.660637Z,colorvideovdp,0.1.0,0,0,https://github.com/Tavrin/colorvideovdp-rs,Pure-Rust port of the ColorVideoVDP (cvvdp) image and video quality metric
+2026-10-02T01:27:34.360187Z,tree-sitter-rake,0.4.0-beta,0,0,https://github.com/rakelang/tree-sitter-rake,"Tree-sitter grammar for Rake, a vector-first SIMD language"
+2026-10-02T01:29:31.062933Z,rustpython-host_env,0.6.0,0,0,https://github.com/RustPython/RustPython,Host OS API abstractions for RustPython
+2026-10-02T01:29:34.439292Z,rustpython-unicode,0.6.0,0,0,https://github.com/RustPython/RustPython,Runtime-independent CPython-compatible Unicode semantics and data for RustPython and related Python tooling.
+2026-10-02T01:30:09.433567Z,rustpython-capi,0.6.0,0,0,https://github.com/RustPython/RustPython,Minimal CPython C-API compatibility exports for RustPython
+2026-10-02T01:30:09.89362Z,h5i-app,0.1.0,0,0,https://github.com/h5i-dev/h5i,The Axum-based application framework for h5i. Write application logic in Rust and prove its properties in Lean 4.
+2026-10-02T01:30:28.846277Z,maryml-cubek-fft,0.2.0,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-fft,CubeK: Fast Fourier Transform
+2026-10-02T01:32:43.434129Z,sz-rust-codegen-loop,1.6.0,0,0,https://github.com/ljclz/sz-rust,AIGC code generation loop for sz-rust — requirement parsing + AI generation + security scan + compile validation + iterative loop
+2026-10-02T01:33:16.531335Z,cortenforge-mesh-io,0.9.0,0,0,https://github.com/via-balaena/CortenForge,"Mesh file I/O: STL, OBJ and PLY loading and saving, with 3MF and STEP behind features"
+2026-10-02T01:41:55.187482Z,maryml-cubek-interpolate,0.2.0,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-interpolate,CubeK: Interpolation
+2026-10-02T01:42:27.018863Z,kvasir-audio,0.1.0,0,0,https://github.com/soulwax/kvasir,Bounded audio format detection and normalized music metadata.
+2026-10-02T01:42:48.896111Z,kvasir-deezer,0.1.0,0,0,https://github.com/soulwax/kvasir,"Deezer catalogue, download, decrypt, and MP3/FLAC tagging."
+2026-10-02T01:43:08.465743Z,cortenforge-mesh-measure,0.9.0,0,0,https://github.com/via-balaena/CortenForge,Measurement and dimensioning tools for 3D meshes
+2026-10-02T01:43:17.246387Z,kvasir-core,0.1.0,0,0,https://github.com/soulwax/kvasir,"Acquire a track, inspect the bytes, and reconcile them with the catalogue."
+2026-10-02T01:44:37.393686Z,kvasir-cli,0.1.1,0,0,https://github.com/soulwax/kvasir-cli,Command-line client for the kvasir music library.
+2026-10-02T01:45:05.116775Z,zenoh-web-relay,0.1.1,0,0,https://github.com/jeff-hykin/zenoh-web-relay,"Fan one zenoh-web backend out to many browsers: the backend dials out over zenoh, sends each camera once at best quality, and the relay re-encodes per viewer"
+2026-10-02T01:50:55.244015Z,stabilizer_qec,0.7.0,0,0,https://github.com/Jaspersands/quantum-simulator-qec,"Quantum error-correction simulation and decoding: Stim-format circuits and error models, a bit-parallel sampler, sparse-blossom, correlated and belief matching, BP+OSD, window decoders, bivariate bic…"
+2026-10-02T01:53:08.62661Z,cortenforge-mesh-repair,0.9.0,0,0,https://github.com/via-balaena/CortenForge,"Mesh repair operations: validation, welding, degenerate removal, hole filling, winding correction, component analysis, self-intersection detection"
+2026-10-02T01:53:14.24016Z,maryml-cubek-std,0.2.0,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-std,CubeK: Standard Library
+2026-10-02T01:53:15.004245Z,soma-client,0.1.0,0,0,,Shared client contracts for Soma's framed microphone capture and drained streaming playback.
+2026-10-02T02:02:53.851606Z,cortenforge-mesh-loft,0.9.0,0,0,https://github.com/via-balaena/CortenForge,"Join two painted contact patches into one closed, watertight bushing (extract patch + rim, stitch the perimeter wall, assemble, and smooth only the free wall)"
+2026-10-02T02:04:31.330138Z,maryml-cubek-matmul,0.2.0,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-matmul,CubeK: Matrix Multiplication Kernels
+2026-10-02T02:10:15.270246Z,tree-sitter-kt,0.1.0,0,0,https://github.com/joowani/tree-sitter-kotlin,Kotlin grammar for tree-sitter
+2026-10-02T02:13:00.440994Z,cortenforge-mesh-printability,0.9.0,0,0,https://github.com/via-balaena/CortenForge,Print validation and manufacturing analysis for triangle meshes
+2026-10-02T02:15:50.345334Z,maryml-cubek-attention,0.2.0,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-attention,CubeK: Attention Kernels
+2026-10-02T02:17:10.581988Z,aiusg,0.5.0,0,0,https://github.com/abnegate/aiusg,One place to see usage limits and reset times across all your AI provider accounts
+2026-10-02T02:17:16.255133Z,librepaper,0.0.15,0,0,https://github.com/LibrePaper/librepaper,A local-first collaborative paper editor and document server
