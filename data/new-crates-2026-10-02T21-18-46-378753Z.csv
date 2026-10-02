@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T20:23:34.685621Z,hank-tui,0.1.0,0,0,https://github.com/brian-bell/hank,"Hank: a read-only terminal UI over a bd multi-repo hub — one cross-repo ready-work list, detail pane, search, and copy-context."
+2026-10-02T20:26:48.164565Z,scanward,0.13.0,0,0,https://github.com/deepusingh2530/scanward,"Fast offline multi-language SAST scanner with a curated, original rule corpus"
+2026-10-02T20:27:03.957668Z,tilcayo,0.1.0,0,0,https://github.com/pgavlin/tilcayo,A damage-aware framebuffer presentation pipeline for the Kitty graphics protocol
+2026-10-02T20:30:04.883746Z,tatolab-stream,0.0.0,0,0,https://github.com/tatolab/streamlib,Held for the Tatolab project; not released yet. See https://github.com/tatolab/streamlib
+2026-10-02T20:30:29.901053Z,chine,0.2.0,0,0,https://github.com/Oneiriq/chine,A pure-Rust Spine 4.3 skeletal animation runtime (renderer-agnostic).
+2026-10-02T20:32:57.182526Z,v8-taktcode,145.0.2,0,0,https://github.com/taktmind/rusty_v8,Rust bindings to V8 - TaktCode fork of rusty_v8 (fixes Windows CRT linkage)
+2026-10-02T20:40:45.944846Z,tree-sitter-playground,0.1.0,0,0,https://github.com/joowani/tree-sitter-playground,Web playground for exploring Tree-sitter syntax trees
+2026-10-02T20:41:48.472267Z,webledgers-teller,0.1.0,0,0,https://github.com/DreamLab-AI/sidestr-rs,"A teller for Web Ledgers on txbt4: did:nostr accounts, a ledger identified by the hash of its genesis, one taproot deposit address per account by additive tweak of the operator's key, signed join/wit…"
+2026-10-02T20:45:56.581223Z,pixels-util,0.0.1,0,0,,Simple helper for the pixels crate.
+2026-10-02T20:45:58.753096Z,tree-sitter-wesl,0.1.0,0,0,https://github.com/tree-sitter/tree-sitter-wesl,Wesl grammar for tree-sitter
+2026-10-02T20:49:31.736776Z,dom_query_xpath,3.0.0-alpha1,0,0,https://gitlab.com/news-flash/article_scraper,XPath 1.0 evaluator for dom_query documents
+2026-10-02T20:52:58.094952Z,dlep-core,0.2.0,0,0,https://github.com/asmie/dlep,"DLEP (RFC 8175) wire types, data items and codec"
+2026-10-02T20:53:00.473145Z,dlep-ext,0.2.0,0,0,https://github.com/asmie/dlep,DLEP (RFC 8175) extension plug-in trait and registry
+2026-10-02T20:53:01.002597Z,dlep-fsm,0.2.0,0,0,https://github.com/asmie/dlep,"DLEP (RFC 8175) state machines — discovery and session, router and modem sides"
+2026-10-02T20:53:01.623046Z,dlep-net,0.2.0,0,0,https://github.com/asmie/dlep,"DLEP (RFC 8175) transport: UDP multicast discovery, TCP, TLS, GTSM"
+2026-10-02T20:53:04.838141Z,dlep-daemon,0.2.0,0,0,https://github.com/asmie/dlep,"DLEP (RFC 8175) daemon runtime — wires codec, state machine and transport"
+2026-10-02T20:55:45.782563Z,mkit-server,0.5.0,0,0,https://github.com/officialunofficial/mkit,"Runtime-agnostic core of the mkit server: operation model, errors, runtime and telemetry vocabulary"
+2026-10-02T21:03:30.457193Z,ferrox-database-dynamo,0.8.0,0,0,https://github.com/AI-Autistic-Intelligence/Ferrox,DynamoDB NoSQL repository connector for Ferrox ecosystem.
+2026-10-02T21:03:35.721934Z,ferrox-database-firebase,0.8.0,0,0,https://github.com/AI-Autistic-Intelligence/Ferrox,Firebase Firestore/RealtimeDB repository connector for Ferrox ecosystem.
+2026-10-02T21:11:02.225398Z,c3mesh,0.2.0,0,0,,Deterministic discrete-event simulation for fixed and mobile communication networks
+2026-10-02T21:13:36.087273Z,eggpack-manifest,0.1.0,0,0,https://github.com/eggstack/eggpack,Bounded schema-v1 evidence for finalized Eggpack release bytes
+2026-10-02T21:18:00.945755Z,qk-input-analysis,0.0.0,0,0,https://github.com/Pajn/qk,"Name reservation for qk-input-analysis, a component of the qk task runner"
