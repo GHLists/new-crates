@@ -8,38 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 22:19 UTC
+## Latest list — 2026-10-02 23:19 UTC
 
-New crates published between 2026-10-02 21:18 UTC and 2026-10-02 22:19 UTC.
+New crates published between 2026-10-02 22:19 UTC and 2026-10-02 23:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-02T22-19-26-998187Z.csv)
+[Full CSV](data/new-crates-2026-10-02T23-19-12-905844Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-02 21:29:38 | [everruns-drivers](https://crates.io/crates/everruns-drivers) | 0.34.1 | 0 | OpenAI-compatible model vendor drivers for Everruns |
-| 2026-10-02 21:41:27 | [kcode-k1-loom-bootstrap-topology](https://crates.io/crates/kcode-k1-loom-bootstrap-topology) | 0.1.0 | 0 | Fixed first-run user, development-group, Kmap-root, and launch-node topology fo… |
-| 2026-10-02 21:43:14 | [amethystate-guinea](https://crates.io/crates/amethystate-guinea) | 0.23.1 | 0 | Lets a guinea timer's period follow a value held by an amethystate store |
-| 2026-10-02 21:43:23 | [everruns-ag-ui](https://crates.io/crates/everruns-ag-ui) | 0.34.1 | 0 | AG-UI 1.0 protocol types (events, run input, interrupts, capabilities) |
-| 2026-10-02 21:44:48 | [dlep-router](https://crates.io/crates/dlep-router) | 0.2.0 | 0 | DLEP (RFC 8175) router-side daemon binary |
-| 2026-10-02 21:44:59 | [dlep-modem](https://crates.io/crates/dlep-modem) | 0.2.0 | 0 | DLEP (RFC 8175) modem-side daemon binary |
-| 2026-10-02 21:45:38 | [vortex-uuid](https://crates.io/crates/vortex-uuid) | 0.87.0 | 0 | Vortex UUID extension type |
-| 2026-10-02 21:46:35 | [kcode-k1-loom-bootstrap-manifest](https://crates.io/crates/kcode-k1-loom-bootstrap-manifest) | 0.1.0 | 0 | Derived five-launch-node UI bootstrap manifest for Loom |
-| 2026-10-02 21:47:35 | [everruns-durable](https://crates.io/crates/everruns-durable) | 0.34.1 | 0 | PostgreSQL-backed durable execution for Everruns: event-sourced workflows, task… |
-| 2026-10-02 22:01:06 | [avila-account](https://crates.io/crates/avila-account) | 0.1.0 | 0 | Avila Labs account sign-in and tool launcher for egui apps (browser and desktop) |
-| 2026-10-02 22:06:07 | [retiretui_client](https://crates.io/crates/retiretui_client) | 0.3.0 | 0 | What every RetireTui interface shares over the engine: its words, forms, docume… |
-| 2026-10-02 22:06:08 | [retiretui_cli](https://crates.io/crates/retiretui_cli) | 0.3.0 | 0 | RetireTui's command line: plans validated, projected, compared, searched and ru… |
-| 2026-10-02 22:06:09 | [retiretui_mcp](https://crates.io/crates/retiretui_mcp) | 0.3.0 | 0 | RetireTui's Model Context Protocol server: plan files served to AI agents over… |
-| 2026-10-02 22:07:13 | [ledger-kit](https://crates.io/crates/ledger-kit) | 0.1.0 | 0 | Double-entry ledger for Rust — decimal-money postings, outbox-backed durable jo… |
-| 2026-10-02 22:13:19 | [decimix](https://crates.io/crates/decimix) | 0.1.0 | 0 | Fixed-point decimal arithmetic: i128 at 19 decimal places |
-| 2026-10-02 22:13:22 | [decimix-finance](https://crates.io/crates/decimix-finance) | 0.1.0 | 0 | Price, quantity and notional types built on decimix |
-| 2026-10-02 22:13:59 | [furnace-rs](https://crates.io/crates/furnace-rs) | 1.0.0 | 0 | Modular Rust application framework with Axum and Passport integrations |
-| 2026-10-02 22:14:06 | [furnace-rs-persistence](https://crates.io/crates/furnace-rs-persistence) | 1.0.0 | 0 | Native persistence connectors for furnace-rs applications |
-| 2026-10-02 22:14:26 | [furnace-rs-cli](https://crates.io/crates/furnace-rs-cli) | 1.0.0 | 0 | Command-line tools for furnace-rs applications |
-| 2026-10-02 22:16:00 | [ratidal](https://crates.io/crates/ratidal) | 0.1.0 | 0 | A terminal client for TIDAL, with hi-res playback |
-| 2026-10-02 22:17:20 | [babelfix-repo](https://crates.io/crates/babelfix-repo) | 0.1.0 | 0 | FIX repository and Orchestra XML parsing for the babelfix FIX protocol implemen… |
-| 2026-10-02 22:17:23 | [babelfix-core](https://crates.io/crates/babelfix-core) | 0.1.0 | 0 | Sans-io core of the babelfix FIX engine: messages, codec and session state mach… |
-| 2026-10-02 22:17:25 | [ng-postcode](https://crates.io/crates/ng-postcode) | 0.1.0 | 0 | Nigeria's National Digital Alphanumeric Postcode: offline parsing and validatio… |
-| 2026-10-02 22:17:25 | [babelfix-schema](https://crates.io/crates/babelfix-schema) | 0.1.0 | 0 | Typed FIX field, message-type and codeset definitions for babelfix, generated f… |
+| 2026-10-02 22:28:04 | [babelfix-tokio](https://crates.io/crates/babelfix-tokio) | 0.1.0 | 0 | Tokio driver for the babelfix FIX engine: TCP transport, timers and session tas… |
+| 2026-10-02 22:29:18 | [babelfix](https://crates.io/crates/babelfix) | 0.1.0 | 0 | A production-grade FIX protocol implementation in Rust |
+| 2026-10-02 22:29:19 | [kcode-k1-ese-format](https://crates.io/crates/kcode-k1-ese-format) | 0.1.0 | 0 | Strict wire types and codec for the K1 External Subsystem Enabler |
+| 2026-10-02 22:34:10 | [oneiriq-kayak](https://crates.io/crates/oneiriq-kayak) | 0.1.0 | 0 | Contract layer for SurrealDB-backed APIs: one serializable IR over surql-rs sch… |
+| 2026-10-02 22:48:01 | [nrlmsise00](https://crates.io/crates/nrlmsise00) | 0.1.0 | 0 | NRLMSISE-00 atmosphere model, generic over its scalar type so density can be di… |
+| 2026-10-02 22:51:33 | [jev-driver-macros](https://crates.io/crates/jev-driver-macros) | 0.1.0 | 0 | Derive macros for jev-driver (JevChoice, JevScore, JevNoul, JevQuestions, JevSt… |
+| 2026-10-02 22:52:02 | [jev-driver](https://crates.io/crates/jev-driver) | 0.1.0 | 0 | Typed Rust driver for TypeSafe AI's Jev (System One) decision model |
+| 2026-10-02 22:59:27 | [epoch-journal](https://crates.io/crates/epoch-journal) | 0.1.0 | 0 | Event sourcing with deciders and pluggable event repositories |
+| 2026-10-02 23:01:59 | [kcode-k1-ese-store](https://crates.io/crates/kcode-k1-ese-store) | 0.1.0 | 0 | Append-only derived projection for K1 external subsystems |
+| 2026-10-02 23:04:15 | [kcode-k1-ese-driver-state](https://crates.io/crates/kcode-k1-ese-driver-state) | 0.1.0 | 0 | Concurrent pending-operation owner for K1 external subsystems |
+| 2026-10-02 23:05:56 | [splatter-sc](https://crates.io/crates/splatter-sc) | 0.1.0 | 0 | A streaming Rust port of the Splat single-cell RNA-seq simulator from splatter. |
+| 2026-10-02 23:06:06 | [sigilbuzz](https://crates.io/crates/sigilbuzz) | 0.22.0 | 0 | Pure-Rust, clean-room text shaping engine with a HarfBuzz-style API. No runtime… |
+| 2026-10-02 23:06:09 | [sigilbuzz-gpu](https://crates.io/crates/sigilbuzz-gpu) | 0.1.1 | 0 | GPU outline encoder for sigilbuzz, packing glyph outlines into Slug-algorithm b… |
+| 2026-10-02 23:06:09 | [sigilbuzz-paint](https://crates.io/crates/sigilbuzz-paint) | 0.2.0 | 0 | COLRv1 paint evaluator for sigilbuzz: walks the paint tree and emits a flat Dra… |
+| 2026-10-02 23:06:09 | [sigilbuzz-pdf](https://crates.io/crates/sigilbuzz-pdf) | 0.2.2 | 0 | PDF font emitters (Type 1, Type 3, OTF/TrueType-embedded) for sigilbuzz glyph o… |
+| 2026-10-02 23:06:10 | [sigilbuzz-subset](https://crates.io/crates/sigilbuzz-subset) | 0.12.0 | 0 | Font subsetter and variable-font instancer for sigilbuzz. Produces a smaller fo… |
+| 2026-10-02 23:06:55 | [kcode-k1-ese-testkit](https://crates.io/crates/kcode-k1-ese-testkit) | 0.1.0 | 0 | Real-stack conformance suite for K1 external subsystem services |
+| 2026-10-02 23:10:06 | [kcode-k1-ese](https://crates.io/crates/kcode-k1-ese) | 0.1.0 | 0 | Authority-scoped External Subsystem Enabler for Kennedy K1 |
+| 2026-10-02 23:13:45 | [lockdocs-core](https://crates.io/crates/lockdocs-core) | 0.6.0 | 0 | Lockfile resolution, local doc sources, symbol extraction and BM25 search for l… |
+| 2026-10-02 23:13:46 | [lockdocs](https://crates.io/crates/lockdocs) | 0.6.0 | 0 | Exact-version library docs from your lockfile — local, offline, no rate limits. |
+| 2026-10-02 23:15:15 | [kcode-k1-http-ese-representation](https://crates.io/crates/kcode-k1-http-ese-representation) | 0.1.0 | 0 | Strict HTTP representation for K1 external subsystems |
+| 2026-10-02 23:17:22 | [sigilbuzz-capi](https://crates.io/crates/sigilbuzz-capi) | 0.3.0 | 0 | HarfBuzz-symbol-compatible C API for sigilbuzz. Drop-in -lharfbuzz replacement. |
+| 2026-10-02 23:18:01 | [kcode-k1-http-ese-testkit](https://crates.io/crates/kcode-k1-http-ese-testkit) | 0.1.0 | 0 | Signed HTTP conformance suite for K1 external subsystems |
+| 2026-10-02 23:18:06 | [passbox](https://crates.io/crates/passbox) | 0.13.37 | 0 | A password store for agents, where a fingerprint releases one secret into one p… |
 
 ## Data source
 

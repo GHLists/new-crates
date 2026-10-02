@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T22:28:04.915812Z,babelfix-tokio,0.1.0,0,0,https://github.com/puremourning/babelfix,"Tokio driver for the babelfix FIX engine: TCP transport, timers and session tasks"
+2026-10-02T22:29:18.342714Z,babelfix,0.1.0,0,0,https://github.com/puremourning/babelfix,A production-grade FIX protocol implementation in Rust
+2026-10-02T22:29:19.326563Z,kcode-k1-ese-format,0.1.0,0,0,,Strict wire types and codec for the K1 External Subsystem Enabler
+2026-10-02T22:34:10.580143Z,oneiriq-kayak,0.1.0,0,0,https://github.com/Oneiriq/kayak,"Contract layer for SurrealDB-backed APIs: one serializable IR over surql-rs schema definitions, validated against real indexes, generating every API surface."
+2026-10-02T22:48:01.823036Z,nrlmsise00,0.1.0,0,0,https://git.rcjohnstone.com/connor/nrlmsise00,"NRLMSISE-00 atmosphere model, generic over its scalar type so density can be differentiated"
+2026-10-02T22:51:33.836229Z,jev-driver-macros,0.1.0,0,0,https://github.com/Shearerbeard/jev-driver,"Derive macros for jev-driver (JevChoice, JevScore, JevNoul, JevQuestions, JevState, JevInstructions)"
+2026-10-02T22:52:02.612275Z,jev-driver,0.1.0,0,0,https://github.com/Shearerbeard/jev-driver,Typed Rust driver for TypeSafe AI's Jev (System One) decision model
+2026-10-02T22:59:27.533706Z,epoch-journal,0.1.0,0,0,https://github.com/Shearerbeard/Epoch,Event sourcing with deciders and pluggable event repositories
+2026-10-02T23:01:59.279483Z,kcode-k1-ese-store,0.1.0,0,0,,Append-only derived projection for K1 external subsystems
+2026-10-02T23:04:15.697472Z,kcode-k1-ese-driver-state,0.1.0,0,0,,Concurrent pending-operation owner for K1 external subsystems
+2026-10-02T23:05:56.419979Z,splatter-sc,0.1.0,0,0,https://github.com/GregorLueg/splatter-sc,A streaming Rust port of the Splat single-cell RNA-seq simulator from splatter.
+2026-10-02T23:06:06.824363Z,sigilbuzz,0.22.0,0,0,https://github.com/Oneiriq/sigilbuzz,"Pure-Rust, clean-room text shaping engine with a HarfBuzz-style API. No runtime dependencies, works in no_std."
+2026-10-02T23:06:09.213333Z,sigilbuzz-gpu,0.1.1,0,0,https://github.com/Oneiriq/sigilbuzz,"GPU outline encoder for sigilbuzz, packing glyph outlines into Slug-algorithm band/segment buffers for fragment-shader coverage."
+2026-10-02T23:06:09.447606Z,sigilbuzz-paint,0.2.0,0,0,https://github.com/Oneiriq/sigilbuzz,COLRv1 paint evaluator for sigilbuzz: walks the paint tree and emits a flat DrawCmd stream for renderers.
+2026-10-02T23:06:09.663819Z,sigilbuzz-pdf,0.2.2,0,0,https://github.com/Oneiriq/sigilbuzz,"PDF font emitters (Type 1, Type 3, OTF/TrueType-embedded) for sigilbuzz glyph outlines."
+2026-10-02T23:06:10.110133Z,sigilbuzz-subset,0.12.0,0,0,https://github.com/Oneiriq/sigilbuzz,Font subsetter and variable-font instancer for sigilbuzz. Produces a smaller font containing only the glyphs you keep.
+2026-10-02T23:06:55.561346Z,kcode-k1-ese-testkit,0.1.0,0,0,,Real-stack conformance suite for K1 external subsystem services
+2026-10-02T23:10:06.35107Z,kcode-k1-ese,0.1.0,0,0,,Authority-scoped External Subsystem Enabler for Kennedy K1
+2026-10-02T23:13:45.045457Z,lockdocs-core,0.6.0,0,0,https://github.com/SylphxAI/lockdocs,"Lockfile resolution, local doc sources, symbol extraction and BM25 search for lockdocs."
+2026-10-02T23:13:46.870829Z,lockdocs,0.6.0,0,0,https://github.com/SylphxAI/lockdocs,"Exact-version library docs from your lockfile — local, offline, no rate limits."
+2026-10-02T23:15:15.708225Z,kcode-k1-http-ese-representation,0.1.0,0,0,,Strict HTTP representation for K1 external subsystems
+2026-10-02T23:17:22.4703Z,sigilbuzz-capi,0.3.0,0,0,https://github.com/Oneiriq/sigilbuzz,HarfBuzz-symbol-compatible C API for sigilbuzz. Drop-in -lharfbuzz replacement.
+2026-10-02T23:18:01.112254Z,kcode-k1-http-ese-testkit,0.1.0,0,0,,Signed HTTP conformance suite for K1 external subsystems
+2026-10-02T23:18:06.893377Z,passbox,0.13.37,0,0,https://github.com/gabrielkoerich/passbox,"A password store for agents, where a fingerprint releases one secret into one process"
