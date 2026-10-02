@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T15:22:45.056307Z,cpex-python,0.2.3,0,0,,PyO3 bindings for the CPEX plugin runtime
+2026-10-02T15:25:58.258284Z,gate4agent-provider-ports,0.4.1,0,0,,Shell-neutral history and resume authority ports for gate4agent
+2026-10-02T15:26:26.829841Z,auv-device-helper-macos,0.0.23,0,0,https://github.com/moeru-ai/auv,Signed macOS graphical helper for existing-session Device entry
+2026-10-02T15:36:00.058126Z,gate4agent-shell-capabilities,0.4.1,0,0,,"Native, bounded execution authority for gate4agent capability-probe plans"
+2026-10-02T15:45:58.796432Z,gate4agent-c2-client,0.4.1,0,0,,Typed client library and CLI (gate4agent-c2ctl) for the gate4agent C2 control and observer APIs
+2026-10-02T15:46:07.150881Z,sprawling-desktop-ffi,0.0.8,0,0,https://github.com/2youg1/sprawling-agents,"The Zig leaf behind the desktop server's one FFI seam, offered as safe functions."
+2026-10-02T15:46:16.071143Z,sprawling-kernel,0.0.8,0,0,https://github.com/2youg1/sprawling-agents,"Every decision of a sprawling city - addresses, events, gates, plans and errors - with nothing that touches a disk."
+2026-10-02T15:46:31.923101Z,sprawling-browser,0.0.8,0,0,https://github.com/2youg1/sprawling-agents,"A browser a sprawling city drives over WebDriver BiDi, and what a model may see of a page and do to it."
+2026-10-02T15:46:44.742279Z,sprawling-city,0.0.8,0,0,https://github.com/2youg1/sprawling-agents,"The space and identity of a sprawling city: buildings, rooms, rules, configuration layers and the documents a building keeps."
+2026-10-02T15:47:00.020642Z,sprawling-documents,0.0.8,0,0,https://github.com/2youg1/sprawling-agents,"The rules of a document a person reads and edits through a sprawling city's page: versions, characters, windows and saves."
+2026-10-02T15:50:11.178783Z,stucco-macros,0.2.0,0,0,https://github.com/mcaveniathor/stucco,Derive macros for stucco: table columns from a struct's fields.
+2026-10-02T15:50:13.242403Z,stucco-cli,0.2.0,0,0,https://github.com/mcaveniathor/stucco,"The stucco command-line tool: generate, inspect and export stucco themes."
+2026-10-02T15:53:57.938526Z,discipline,0.16.0,0,0,https://github.com/orieg/discipline,Universal CI/CD gatekeeper and AI coding agent diff sentinel
+2026-10-02T15:55:56.926324Z,gate4agent-kernel,0.4.1,0,0,,Deterministic host kernel for gate4agent engines
+2026-10-02T15:56:47.332015Z,sprawling-gateway,0.0.8,0,0,https://github.com/2youg1/sprawling-agents,"Everything between a sprawling city's decision to call a model and the bytes on the wire, and the vault for its credentials."
+2026-10-02T15:59:00.249612Z,hurray,0.1.0,0,0,https://github.com/pgillet/hurray,"Umbrella name for the Hurray tensor interchange format. Depend on hurray-core, hurray-io, or hurray-ffi — this crate holds the name and points at them."
+2026-10-02T16:05:58.173533Z,gate4agent-shell-one-shot,0.4.1,0,0,,Bounded native process authority for provider-owned gate4agent one-shot runs
+2026-10-02T16:06:50.734757Z,sprawling-remote-access,0.0.8,0,0,https://github.com/2youg1/sprawling-agents,"The remote door of a sprawling city: pairing, key exchange, and the routes that carry its bytes and decide nothing."
+2026-10-02T16:06:53.754447Z,xixwisexix_art,0.1.0,0,0,,A crate where you can mix primary colors
+2026-10-02T16:16:02.101089Z,gate4agent-shell-history,0.4.1,0,0,,Bounded native filesystem authority for gate4agent history
+2026-10-02T16:16:44.121439Z,sprawling-storage,0.0.8,0,0,https://github.com/2youg1/sprawling-agents,"The append-only, hash-chained Ledger of a sprawling city, its content store, checkpoints and worktrees."
