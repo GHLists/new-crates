@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T02:21:08.955346Z,whisker-firebase-core,0.1.0,0,0,https://github.com/whiskerrs/whisker,Firebase application initialization for Whisker
+2026-10-02T02:21:10.263652Z,whisker-firebase-analytics,0.1.0,0,0,https://github.com/whiskerrs/whisker,Firebase Analytics for Whisker
+2026-10-02T02:21:10.745651Z,whisker-firebase-auth,0.1.0,0,0,https://github.com/whiskerrs/whisker,Firebase Authentication for Whisker
+2026-10-02T02:21:11.207097Z,whisker-firebase-crashlytics,0.1.0,0,0,https://github.com/whiskerrs/whisker,Firebase Crashlytics for Whisker
+2026-10-02T02:21:11.756879Z,whisker-firebase-firestore,0.1.0,0,0,https://github.com/whiskerrs/whisker,Cloud Firestore for Whisker
+2026-10-02T02:22:52.792672Z,cortenforge-mesh-sdf,0.9.0,0,0,https://github.com/via-balaena/CortenForge,Signed distance field computation for triangle meshes
+2026-10-02T02:25:38.584204Z,sparse-ir-core,0.11.0,0,0,https://github.com/SpM-lab/sparse-ir-rs,"Core of sparse-ir: statistics, errors, GEMM, fitters, the Basis trait and sparse sampling"
+2026-10-02T02:25:42.810279Z,sparse-ir-dlr,0.11.0,0,0,https://github.com/SpM-lab/sparse-ir-rs,Discrete Lehmann representation for sparse-ir
+2026-10-02T02:25:46.919631Z,sparse-ir-minipole,0.11.0,0,0,https://github.com/SpM-lab/sparse-ir-rs,ESPRIT and minimal pole representations for sparse-ir
+2026-10-02T02:25:58.450338Z,sparse-ir-basis,0.11.0,0,0,https://github.com/SpM-lab/sparse-ir-rs,"The IR basis of sparse-ir: kernels, the singular value expansion and FiniteTempBasis"
+2026-10-02T02:26:05.095215Z,wayseeker,0.2.0,0,0,https://github.com/sage-ice-cream/wayseeker-rs,Route-finding for OpenStreetMaps
+2026-10-02T02:27:17.666653Z,maryml-cubek-convolution,0.2.0,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-convolution,CubeK: Convolution Kernels
+2026-10-02T02:31:00.226739Z,whisker-firebase-messaging,0.1.0,0,0,https://github.com/whiskerrs/whisker,Firebase Cloud Messaging for Whisker
+2026-10-02T02:32:49.509909Z,cortenforge-design,0.9.0,0,0,https://github.com/via-balaena/CortenForge,Implicit surface design kernel for CortenForge
+2026-10-02T02:37:22.391363Z,agentsam-machine-core,0.1.0,0,0,https://github.com/SamPrimeaux/agentsam-sdk,Deterministic repository and asset perception primitives for AgentSam.
+2026-10-02T02:38:43.551534Z,maryml-cubek-reduce,0.2.0,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-reduce,CubeK: Reduce Kernels
+2026-10-02T02:39:40.093339Z,agentsam-machine-cli,0.1.0,0,0,https://github.com/SamPrimeaux/agentsam-sdk,Deterministic native repository inspection CLI for AgentSam.
+2026-10-02T02:40:36.876303Z,whisker-firebase-storage,0.1.0,0,0,https://github.com/whiskerrs/whisker,Cloud Storage for Firebase for Whisker
+2026-10-02T02:42:52.999394Z,cortenforge-mesh-offset,0.9.0,0,0,https://github.com/via-balaena/CortenForge,Mesh offset operations using signed distance fields
+2026-10-02T02:49:58.300686Z,tailtalk-core,0.12.0,0,0,https://github.com/feralfirmware/tailtalk,"Sans-io AppleTalk protocol state machines, shared by the desktop stack and embedded firmware"
+2026-10-02T02:50:02.562424Z,tailtalk-daemon,0.12.0,0,0,https://github.com/feralfirmware/tailtalk,AppleTalk underlay daemon (AARP/DDP) serving the TailTalk protobuf API
+2026-10-02T02:50:02.777553Z,maryml-cubek,0.2.0,0,0,https://github.com/tracel-ai/cubek,CubeK: CubeCL Kernels
+2026-10-02T02:50:03.3202Z,tailtalk-net,0.12.0,0,0,https://github.com/feralfirmware/tailtalk,"Async AppleTalk sockets over tailtalk-core's sans-io state machines, for any executor"
+2026-10-02T02:50:33.183614Z,whisker-firebase,0.1.0,0,0,https://github.com/whiskerrs/whisker,Firebase integration and project configuration for Whisker
+2026-10-02T02:52:09.160972Z,ciel-sdk,0.1.0,0,0,https://github.com/SpCoGov/ciel-sdk-rust,Async Rust SDK for the CIEL service protocol
+2026-10-02T02:52:43.839565Z,cortenforge-mesh-lattice,0.9.0,0,0,https://github.com/via-balaena/CortenForge,Lattice structure and infill pattern generation for 3D printing
+2026-10-02T02:56:26.565634Z,cargo-remote-3000,0.4.0,0,0,https://github.com/Apothic-AI/cargo-remote-3000,Cargo subcommand to build Rust projects on a remote build server over SSH
+2026-10-02T02:59:09.439129Z,wenmar-vin,0.1.0,0,0,https://github.com/wenmar-pro/wenmar-open,"VIN decoding for auto repair shops: validation, check digit, model year, and pattern matching over NHTSA vPIC data."
+2026-10-02T02:59:11.150137Z,wenmar-vehicles,0.1.0,0,0,https://github.com/wenmar-pro/wenmar-open,"The vehicle catalog of a Wenmar Open data file: years, makes, models, trims and engines, free-text search, and stable vehicle ids."
+2026-10-02T02:59:12.992496Z,wenmar-open-turso,0.1.0,0,0,https://github.com/wenmar-pro/wenmar-open,"Reads a Wenmar Open data file through the turso crate: VIN decoding and the vehicle catalog in-process, read-only, from async code."
+2026-10-02T03:01:22.737175Z,maryml-burn-cubecl-fusion,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Provide optimizations that can be used with cubecl based backends.
+2026-10-02T03:02:42.10148Z,cortenforge-mesh-shell,0.9.0,0,0,https://github.com/via-balaena/CortenForge,Generate printable shells around 3D meshes
+2026-10-02T03:07:34.599061Z,wslcsdk-sys,3.0.1,0,0,https://github.com/mangerle/wslcsdk-rs,Raw FFI bindings for Microsoft.WSL.Containers (WSLC) SDK 3.0.1
+2026-10-02T03:08:19.702358Z,wslcsdk,0.1.0,0,0,https://github.com/mangerle/wslcsdk-rs,"Idiomatic, safe, and asynchronous Rust SDK for Microsoft WSL Containers (WSLC)"
+2026-10-02T03:12:37.254056Z,cortenforge-mesh,0.9.0,0,0,https://github.com/via-balaena/CortenForge,"Complete mesh processing toolkit for 3D printing, CAD, and scan processing"
+2026-10-02T03:12:44.254751Z,maryml-burn-cubecl,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Generic backend that can be compiled just-in-time to any shader language target
+2026-10-02T03:12:45.461583Z,triblespace-gossip,0.101.0,0,0,https://github.com/erlkonig-ai/triblespace,TribleSpace ordered-stream fork of iroh-gossip; gossip messages over broadcast trees
+2026-10-02T03:16:47.634016Z,flotilla-raft,0.1.0,0,0,https://github.com/chadahoochie/flotilla,"High-Throughput, Low-Latency Sans-I/O Raft in Safe Rust (Rust 1.98+ / Edition 2024)"
+2026-10-02T03:18:30.833483Z,kcode-k1-code-tool-image,0.1.0,0,0,,Resolve and provision the shared K1 code-tool container image

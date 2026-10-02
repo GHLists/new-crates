@@ -8,45 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 02:18 UTC
+## Latest list — 2026-10-02 03:19 UTC
 
-New crates published between 2026-10-02 01:19 UTC and 2026-10-02 02:18 UTC.
+New crates published between 2026-10-02 02:18 UTC and 2026-10-02 03:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-02T02-18-38-323913Z.csv)
+[Full CSV](data/new-crates-2026-10-02T03-19-26-5819Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-02 01:19:14 | [maryml-cubek-test-utils](https://crates.io/crates/maryml-cubek-test-utils) | 0.2.0 | 0 | CubeK: Test Utils |
-| 2026-10-02 01:20:07 | [h5i-app-http](https://crates.io/crates/h5i-app-http) | 0.1.0 | 0 | HTTP shell for h5i-app kernels: authentication and input decoding (trusted), di… |
-| 2026-10-02 01:23:29 | [cortenforge-device-types](https://crates.io/crates/cortenforge-device-types) | 0.9.0 | 0 | Shared device-design domain types: cavity and layer-stack state, scan resources… |
-| 2026-10-02 01:23:59 | [sz-rust-testkit](https://crates.io/crates/sz-rust-testkit) | 1.6.0 | 0 | Test toolkit for sz-rust — TestCase + HttpClient + ModelFactory + Fixture + Mock |
-| 2026-10-02 01:25:14 | [colorvideovdp](https://crates.io/crates/colorvideovdp) | 0.1.0 | 0 | Pure-Rust port of the ColorVideoVDP (cvvdp) image and video quality metric |
-| 2026-10-02 01:27:34 | [tree-sitter-rake](https://crates.io/crates/tree-sitter-rake) | 0.4.0-beta | 0 | Tree-sitter grammar for Rake, a vector-first SIMD language |
-| 2026-10-02 01:29:31 | [rustpython-host_env](https://crates.io/crates/rustpython-host_env) | 0.6.0 | 0 | Host OS API abstractions for RustPython |
-| 2026-10-02 01:29:34 | [rustpython-unicode](https://crates.io/crates/rustpython-unicode) | 0.6.0 | 0 | Runtime-independent CPython-compatible Unicode semantics and data for RustPytho… |
-| 2026-10-02 01:30:09 | [rustpython-capi](https://crates.io/crates/rustpython-capi) | 0.6.0 | 0 | Minimal CPython C-API compatibility exports for RustPython |
-| 2026-10-02 01:30:09 | [h5i-app](https://crates.io/crates/h5i-app) | 0.1.0 | 0 | The Axum-based application framework for h5i. Write application logic in Rust a… |
-| 2026-10-02 01:30:28 | [maryml-cubek-fft](https://crates.io/crates/maryml-cubek-fft) | 0.2.0 | 0 | CubeK: Fast Fourier Transform |
-| 2026-10-02 01:32:43 | [sz-rust-codegen-loop](https://crates.io/crates/sz-rust-codegen-loop) | 1.6.0 | 0 | AIGC code generation loop for sz-rust — requirement parsing + AI generation + s… |
-| 2026-10-02 01:33:16 | [cortenforge-mesh-io](https://crates.io/crates/cortenforge-mesh-io) | 0.9.0 | 0 | Mesh file I/O: STL, OBJ and PLY loading and saving, with 3MF and STEP behind fe… |
-| 2026-10-02 01:41:55 | [maryml-cubek-interpolate](https://crates.io/crates/maryml-cubek-interpolate) | 0.2.0 | 0 | CubeK: Interpolation |
-| 2026-10-02 01:42:27 | [kvasir-audio](https://crates.io/crates/kvasir-audio) | 0.1.0 | 0 | Bounded audio format detection and normalized music metadata. |
-| 2026-10-02 01:42:48 | [kvasir-deezer](https://crates.io/crates/kvasir-deezer) | 0.1.0 | 0 | Deezer catalogue, download, decrypt, and MP3/FLAC tagging. |
-| 2026-10-02 01:43:08 | [cortenforge-mesh-measure](https://crates.io/crates/cortenforge-mesh-measure) | 0.9.0 | 0 | Measurement and dimensioning tools for 3D meshes |
-| 2026-10-02 01:43:17 | [kvasir-core](https://crates.io/crates/kvasir-core) | 0.1.0 | 0 | Acquire a track, inspect the bytes, and reconcile them with the catalogue. |
-| 2026-10-02 01:44:37 | [kvasir-cli](https://crates.io/crates/kvasir-cli) | 0.1.1 | 0 | Command-line client for the kvasir music library. |
-| 2026-10-02 01:45:05 | [zenoh-web-relay](https://crates.io/crates/zenoh-web-relay) | 0.1.1 | 0 | Fan one zenoh-web backend out to many browsers: the backend dials out over zeno… |
-| 2026-10-02 01:50:55 | [stabilizer_qec](https://crates.io/crates/stabilizer_qec) | 0.7.0 | 0 | Quantum error-correction simulation and decoding: Stim-format circuits and erro… |
-| 2026-10-02 01:53:08 | [cortenforge-mesh-repair](https://crates.io/crates/cortenforge-mesh-repair) | 0.9.0 | 0 | Mesh repair operations: validation, welding, degenerate removal, hole filling,… |
-| 2026-10-02 01:53:14 | [maryml-cubek-std](https://crates.io/crates/maryml-cubek-std) | 0.2.0 | 0 | CubeK: Standard Library |
-| 2026-10-02 01:53:15 | [soma-client](https://crates.io/crates/soma-client) | 0.1.0 | 0 | Shared client contracts for Soma's framed microphone capture and drained stream… |
-| 2026-10-02 02:02:53 | [cortenforge-mesh-loft](https://crates.io/crates/cortenforge-mesh-loft) | 0.9.0 | 0 | Join two painted contact patches into one closed, watertight bushing (extract p… |
-| 2026-10-02 02:04:31 | [maryml-cubek-matmul](https://crates.io/crates/maryml-cubek-matmul) | 0.2.0 | 0 | CubeK: Matrix Multiplication Kernels |
-| 2026-10-02 02:10:15 | [tree-sitter-kt](https://crates.io/crates/tree-sitter-kt) | 0.1.0 | 0 | Kotlin grammar for tree-sitter |
-| 2026-10-02 02:13:00 | [cortenforge-mesh-printability](https://crates.io/crates/cortenforge-mesh-printability) | 0.9.0 | 0 | Print validation and manufacturing analysis for triangle meshes |
-| 2026-10-02 02:15:50 | [maryml-cubek-attention](https://crates.io/crates/maryml-cubek-attention) | 0.2.0 | 0 | CubeK: Attention Kernels |
-| 2026-10-02 02:17:10 | [aiusg](https://crates.io/crates/aiusg) | 0.5.0 | 0 | One place to see usage limits and reset times across all your AI provider accou… |
-| 2026-10-02 02:17:16 | [librepaper](https://crates.io/crates/librepaper) | 0.0.15 | 0 | A local-first collaborative paper editor and document server |
+| 2026-10-02 02:21:08 | [whisker-firebase-core](https://crates.io/crates/whisker-firebase-core) | 0.1.0 | 0 | Firebase application initialization for Whisker |
+| 2026-10-02 02:21:10 | [whisker-firebase-analytics](https://crates.io/crates/whisker-firebase-analytics) | 0.1.0 | 0 | Firebase Analytics for Whisker |
+| 2026-10-02 02:21:10 | [whisker-firebase-auth](https://crates.io/crates/whisker-firebase-auth) | 0.1.0 | 0 | Firebase Authentication for Whisker |
+| 2026-10-02 02:21:11 | [whisker-firebase-crashlytics](https://crates.io/crates/whisker-firebase-crashlytics) | 0.1.0 | 0 | Firebase Crashlytics for Whisker |
+| 2026-10-02 02:21:11 | [whisker-firebase-firestore](https://crates.io/crates/whisker-firebase-firestore) | 0.1.0 | 0 | Cloud Firestore for Whisker |
+| 2026-10-02 02:22:52 | [cortenforge-mesh-sdf](https://crates.io/crates/cortenforge-mesh-sdf) | 0.9.0 | 0 | Signed distance field computation for triangle meshes |
+| 2026-10-02 02:25:38 | [sparse-ir-core](https://crates.io/crates/sparse-ir-core) | 0.11.0 | 0 | Core of sparse-ir: statistics, errors, GEMM, fitters, the Basis trait and spars… |
+| 2026-10-02 02:25:42 | [sparse-ir-dlr](https://crates.io/crates/sparse-ir-dlr) | 0.11.0 | 0 | Discrete Lehmann representation for sparse-ir |
+| 2026-10-02 02:25:46 | [sparse-ir-minipole](https://crates.io/crates/sparse-ir-minipole) | 0.11.0 | 0 | ESPRIT and minimal pole representations for sparse-ir |
+| 2026-10-02 02:25:58 | [sparse-ir-basis](https://crates.io/crates/sparse-ir-basis) | 0.11.0 | 0 | The IR basis of sparse-ir: kernels, the singular value expansion and FiniteTemp… |
+| 2026-10-02 02:26:05 | [wayseeker](https://crates.io/crates/wayseeker) | 0.2.0 | 0 | Route-finding for OpenStreetMaps |
+| 2026-10-02 02:27:17 | [maryml-cubek-convolution](https://crates.io/crates/maryml-cubek-convolution) | 0.2.0 | 0 | CubeK: Convolution Kernels |
+| 2026-10-02 02:31:00 | [whisker-firebase-messaging](https://crates.io/crates/whisker-firebase-messaging) | 0.1.0 | 0 | Firebase Cloud Messaging for Whisker |
+| 2026-10-02 02:32:49 | [cortenforge-design](https://crates.io/crates/cortenforge-design) | 0.9.0 | 0 | Implicit surface design kernel for CortenForge |
+| 2026-10-02 02:37:22 | [agentsam-machine-core](https://crates.io/crates/agentsam-machine-core) | 0.1.0 | 0 | Deterministic repository and asset perception primitives for AgentSam. |
+| 2026-10-02 02:38:43 | [maryml-cubek-reduce](https://crates.io/crates/maryml-cubek-reduce) | 0.2.0 | 0 | CubeK: Reduce Kernels |
+| 2026-10-02 02:39:40 | [agentsam-machine-cli](https://crates.io/crates/agentsam-machine-cli) | 0.1.0 | 0 | Deterministic native repository inspection CLI for AgentSam. |
+| 2026-10-02 02:40:36 | [whisker-firebase-storage](https://crates.io/crates/whisker-firebase-storage) | 0.1.0 | 0 | Cloud Storage for Firebase for Whisker |
+| 2026-10-02 02:42:52 | [cortenforge-mesh-offset](https://crates.io/crates/cortenforge-mesh-offset) | 0.9.0 | 0 | Mesh offset operations using signed distance fields |
+| 2026-10-02 02:49:58 | [tailtalk-core](https://crates.io/crates/tailtalk-core) | 0.12.0 | 0 | Sans-io AppleTalk protocol state machines, shared by the desktop stack and embe… |
+| 2026-10-02 02:50:02 | [tailtalk-daemon](https://crates.io/crates/tailtalk-daemon) | 0.12.0 | 0 | AppleTalk underlay daemon (AARP/DDP) serving the TailTalk protobuf API |
+| 2026-10-02 02:50:02 | [maryml-cubek](https://crates.io/crates/maryml-cubek) | 0.2.0 | 0 | CubeK: CubeCL Kernels |
+| 2026-10-02 02:50:03 | [tailtalk-net](https://crates.io/crates/tailtalk-net) | 0.12.0 | 0 | Async AppleTalk sockets over tailtalk-core's sans-io state machines, for any ex… |
+| 2026-10-02 02:50:33 | [whisker-firebase](https://crates.io/crates/whisker-firebase) | 0.1.0 | 0 | Firebase integration and project configuration for Whisker |
+| 2026-10-02 02:52:09 | [ciel-sdk](https://crates.io/crates/ciel-sdk) | 0.1.0 | 0 | Async Rust SDK for the CIEL service protocol |
+| 2026-10-02 02:52:43 | [cortenforge-mesh-lattice](https://crates.io/crates/cortenforge-mesh-lattice) | 0.9.0 | 0 | Lattice structure and infill pattern generation for 3D printing |
+| 2026-10-02 02:56:26 | [cargo-remote-3000](https://crates.io/crates/cargo-remote-3000) | 0.4.0 | 0 | Cargo subcommand to build Rust projects on a remote build server over SSH |
+| 2026-10-02 02:59:09 | [wenmar-vin](https://crates.io/crates/wenmar-vin) | 0.1.0 | 0 | VIN decoding for auto repair shops: validation, check digit, model year, and pa… |
+| 2026-10-02 02:59:11 | [wenmar-vehicles](https://crates.io/crates/wenmar-vehicles) | 0.1.0 | 0 | The vehicle catalog of a Wenmar Open data file: years, makes, models, trims and… |
+| 2026-10-02 02:59:12 | [wenmar-open-turso](https://crates.io/crates/wenmar-open-turso) | 0.1.0 | 0 | Reads a Wenmar Open data file through the turso crate: VIN decoding and the veh… |
+| 2026-10-02 03:01:22 | [maryml-burn-cubecl-fusion](https://crates.io/crates/maryml-burn-cubecl-fusion) | 0.21.0 | 0 | MaryML fork of Burn: Provide optimizations that can be used with cubecl based b… |
+| 2026-10-02 03:02:42 | [cortenforge-mesh-shell](https://crates.io/crates/cortenforge-mesh-shell) | 0.9.0 | 0 | Generate printable shells around 3D meshes |
+| 2026-10-02 03:07:34 | [wslcsdk-sys](https://crates.io/crates/wslcsdk-sys) | 3.0.1 | 0 | Raw FFI bindings for Microsoft.WSL.Containers (WSLC) SDK 3.0.1 |
+| 2026-10-02 03:08:19 | [wslcsdk](https://crates.io/crates/wslcsdk) | 0.1.0 | 0 | Idiomatic, safe, and asynchronous Rust SDK for Microsoft WSL Containers (WSLC) |
+| 2026-10-02 03:12:37 | [cortenforge-mesh](https://crates.io/crates/cortenforge-mesh) | 0.9.0 | 0 | Complete mesh processing toolkit for 3D printing, CAD, and scan processing |
+| 2026-10-02 03:12:44 | [maryml-burn-cubecl](https://crates.io/crates/maryml-burn-cubecl) | 0.21.0 | 0 | MaryML fork of Burn: Generic backend that can be compiled just-in-time to any s… |
+| 2026-10-02 03:12:45 | [triblespace-gossip](https://crates.io/crates/triblespace-gossip) | 0.101.0 | 0 | TribleSpace ordered-stream fork of iroh-gossip; gossip messages over broadcast… |
+| 2026-10-02 03:16:47 | [flotilla-raft](https://crates.io/crates/flotilla-raft) | 0.1.0 | 0 | High-Throughput, Low-Latency Sans-I/O Raft in Safe Rust (Rust 1.98+ / Edition 2… |
+| 2026-10-02 03:18:30 | [kcode-k1-code-tool-image](https://crates.io/crates/kcode-k1-code-tool-image) | 0.1.0 | 0 | Resolve and provision the shared K1 code-tool container image |
 
 ## Data source
 
