@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T09:33:21.57054Z,axiolid-numeric,0.1.0,0,0,https://github.com/axiolid/kernel,"Numeric substrate: bracketed and polynomial root finding, adaptive quadrature, dense least squares, and minimisation, each with error estimates"
+2026-10-02T09:39:27.630559Z,gsc-agentfs,0.1.0,0,0,https://github.com/putao520/gsc-agentfs,"Pure-Rust copy-on-write directory workspaces with snapshots, watches and deterministic N-way merge"
+2026-10-02T09:41:23.634176Z,gridsift-core,0.1.0,0,0,https://github.com/uky007/GridSift,"Core engine of gridsift: bounded-memory, quote-aware access to very large CSV evidence"
+2026-10-02T09:41:26.545029Z,gridsift,0.1.0,0,0,https://github.com/uky007/GridSift,"Offline, evidence-safe workbench for very large CSV security data: desktop application and command-line tool"
+2026-10-02T09:41:39.953724Z,ipv6addr,0.1.0,0,0,https://github.com/MichelBoucey/ipv6addr-rs,"A library to deal with IPv6 address text representations, canonization and manipulations."
+2026-10-02T09:49:26.707141Z,ctl-task-client,0.1.0,0,0,https://github.com/tokn-ai/ctl,Client library for ctl managed tasks
+2026-10-02T09:49:28.001815Z,ctl-task-store,0.1.0,0,0,https://github.com/tokn-ai/ctl,Local storage for reusable ctl task definitions
+2026-10-02T09:49:29.191329Z,ctld,0.1.0,0,0,https://github.com/tokn-ai/ctl,Per-user SSH connection and credential broker for ctl
+2026-10-02T09:49:30.672784Z,ctmux-proto,0.1.0,0,0,https://github.com/tokn-ai/ctl,Wire protocol for ctmux terminal sessions and shared views
+2026-10-02T09:49:34.276782Z,ctmux-client,0.1.0,0,0,https://github.com/tokn-ai/ctl,Client library for persistent ctmux terminal sessions and views
+2026-10-02T09:53:55.829586Z,sweep-dev-cleaner,0.1.0,0,0,https://github.com/Anyesh/sweep,Scan and delete regenerable development directories
+2026-10-02T09:58:45.78692Z,octopux-cli,0.18.3,0,0,https://github.com/ctaque/octopux,CLI to generate base models for octopux
+2026-10-02T09:58:46.794546Z,octopux-derive,0.18.3,0,0,https://github.com/ctaque/octopux,Derive and procedural macros for octopux
+2026-10-02T09:58:49.057663Z,octopux,0.18.3,0,0,https://github.com/ctaque/octopux,Generate JSON REST APIs for Actix with minimal boilerplate
+2026-10-02T10:02:00.51305Z,ordair,0.1.0,0,0,,"Parallel map on a rayon pool whose results are consumed in input order, with a hard bound on how far the workers run ahead"
+2026-10-02T10:08:52.935156Z,qrsend-core,0.1.0,0,0,https://github.com/igarinpiano/qrsend,Protocol core of QRSend: send any data through a stream of QR codes
+2026-10-02T10:09:27.850988Z,qrsend,0.1.0,0,0,https://github.com/igarinpiano/qrsend,"Send any data — text, files, folders — through a stream of QR codes"
