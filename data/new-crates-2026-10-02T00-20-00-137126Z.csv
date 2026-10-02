@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-01T23:20:56.911489Z,dexcontrol,0.7.7-rc.4,0,0,https://github.com/dexmate-ai/dexcontrol,Safe Rust API for the precompiled DexControl robot runtime
+2026-10-01T23:24:34.839577Z,maryml-burn-autodiff,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Automatic differentiation backend for the Burn framework
+2026-10-01T23:26:44.590855Z,cosh-sdk,0.1.0,0,0,https://github.com/DiegoZaluski/co-sh,SDK crate for cosh - coding agent for the terminal
+2026-10-01T23:26:50.658453Z,cosh-recall,0.1.0,0,0,https://github.com/DiegoZaluski/co-sh,Memory/recall crate for cosh - coding agent for the terminal
+2026-10-01T23:28:22.885606Z,cosh-tools,0.1.0,0,0,https://github.com/DiegoZaluski/co-sh,Tools crate for cosh - coding agent for the terminal
+2026-10-01T23:28:47.902099Z,cosh-tui,0.1.0,0,0,https://github.com/DiegoZaluski/co-sh,TUI crate for cosh - coding agent for the terminal
+2026-10-01T23:30:13.434013Z,svm-replay-protocol,0.1.0,0,0,https://github.com/xternet/svm-replay,"Typed requests, runtime identities and evidence contracts for SVM Replay"
+2026-10-01T23:30:16.406569Z,svm-replay-store,0.1.0,0,0,https://github.com/xternet/svm-replay,Content-addressed local cache and durable receipts for SVM Replay
+2026-10-01T23:30:21.620985Z,svm-replay-engine,0.1.0,0,0,https://github.com/xternet/svm-replay,"Historical Solana reconstruction, simulation and verification engine"
+2026-10-01T23:30:27.026834Z,svm-replay,0.1.0,0,0,https://github.com/xternet/svm-replay,Historical Solana simulation with pinned runtimes and evidence receipts
+2026-10-01T23:33:51.257841Z,gliwy,0.1.0-preview.1,0,0,https://github.com/Gliwy/Gliwy,Experimental Gliwy portable Bevy composition and optional browser/native hosts
+2026-10-01T23:36:00.421226Z,maryml-burn-ir,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Intermediate representation for the Burn framework
+2026-10-01T23:42:43.908276Z,devplan,0.6.1,0,0,https://github.com/hglcode/devplan,Project dev plan / todo / done / decision tracker
+2026-10-01T23:47:39.83989Z,maryml-burn-flex,0.21.0,0,0,https://github.com/erlkonig-ai/burn,"MaryML fork of Burn: A fast, portable CPU backend for the Burn framework"
+2026-10-01T23:50:50.77648Z,soothsay,0.1.0,0,0,https://github.com/rijuld/soothsay,"Read the omens before you `curl | sh`: explains what a shell install script will do to your machine, before it does it."
+2026-10-01T23:59:03.9567Z,maryml-burn-fusion,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Kernel fusion backend decorator for the Burn framework
+2026-10-02T00:00:25.286875Z,paircomp-core,1.0.0,0,0,https://github.com/justinrdonnelly/paircomp,File inspection and comparison logic for Paircomp
+2026-10-02T00:01:29.624984Z,paircomp,1.0.0,0,0,https://github.com/justinrdonnelly/paircomp,Compare files on separate systems and find their first differing line or byte
+2026-10-02T00:10:20.922288Z,maryml-burn-ndarray,0.21.0,0,0,https://github.com/erlkonig-ai/burn,MaryML fork of Burn: Ndarray backend for the Burn framework
+2026-10-02T00:13:30.581257Z,cella_lib,1.0.0,0,0,https://github.com/wcole3/cella,A library for 1D and 2D cellular automata
+2026-10-02T00:14:37.117307Z,cella_gui,1.0.0,0,0,https://github.com/wcole3/cella,A GUI for the Cella cellular automata library
