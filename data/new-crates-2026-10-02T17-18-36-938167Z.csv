@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-02T16:19:18.98924Z,lithair-postgres,0.1.0,0,0,https://github.com/lithair/lithair,Experimental opt-in PostgreSQL document storage for Lithair models
+2026-10-02T16:26:11.618259Z,gate4agent-handle,0.4.1,0,0,,"Bounded dispatch, snapshot, and event port for gate4agent"
+2026-10-02T16:26:45.300989Z,sprawling-agent-protocols,0.0.8,0,0,https://github.com/2youg1/sprawling-agents,"MCP out to a server, ACP in from an editor and ACP out to a harness, as a sprawling city speaks them."
+2026-10-02T16:27:47.304536Z,r0z-sys,0.1.0,0,0,https://github.com/rdaum/r0z,Native ZeroMQ (libzmq) build and FFI bindings
+2026-10-02T16:27:49.216628Z,r0z,0.1.0,0,0,https://github.com/rdaum/r0z,Safe Rust bindings to native ZeroMQ (libzmq)
+2026-10-02T16:27:51.068442Z,r0z-async,0.1.0,0,0,https://github.com/rdaum/r0z,"Async bindings to native ZeroMQ (libzmq), with optional runtime adapters"
+2026-10-02T16:29:31.601245Z,gsichtl,0.1.1,0,0,https://github.com/cebor/gsichtl,"Deterministic pixel-art avatars from any seed: monsters, nerdy faces and crests"
+2026-10-02T16:35:47.564928Z,golem-schema-derive,1.6.0-dev.2,0,0,https://github.com/golemcloud/golem,Derive macros for the Golem schema model
+2026-10-02T16:36:01.617838Z,gate4agent-shell-native,0.4.1,0,0,,"Native effect execution (PTY, pipe, ACP) for gate4agent control-plane sessions"
+2026-10-02T16:36:21.90495Z,golem-schema,1.6.0-dev.2,0,0,https://github.com/golemcloud/golem,Golem schema and value model
+2026-10-02T16:36:43.699258Z,sprawling-collab,0.0.8,0,0,https://github.com/2youg1/sprawling-agents,"Several residents of a sprawling city working in one building without stepping on each other: plans, claims and signals."
+2026-10-02T16:36:48.797198Z,golem-tool-metadata,1.6.0-dev.2,0,0,https://github.com/golemcloud/golem,Tool metadata model for Golem agents
+2026-10-02T16:37:50.254196Z,pipecircuit-postcard-bindgen-core,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Pinned Postcard binding generator with Result and lossless integer support for Pipecircuit
+2026-10-02T16:37:50.861764Z,pipecircuit-postcard-bindgen-derive,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Postcard binding derivation with recursive inventory for Pipecircuit
+2026-10-02T16:39:10.147177Z,pipecircuit-postcard-bindgen,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Pinned Postcard binding generator facade for Pipecircuit browser pipes
+2026-10-02T16:43:29.435864Z,normalizer-tr,0.3.0,0,0,https://github.com/erdemtuna/normalizer-tr,Bounded Turkish text-to-speech normalization with original-source diagnostics
+2026-10-02T16:46:03.67924Z,gate4agent-runtime-native,0.4.1,0,0,,Tick-driven native runtime that embeds the gate4agent provider stack in an owning app core
+2026-10-02T16:46:51.990189Z,sprawling-runtime,0.0.8,0,0,https://github.com/2youg1/sprawling-agents,"One run of a sprawling resident, from dispatch to freeze: turns, tools, replay and the sandbox that executes code."
+2026-10-02T16:50:07.609408Z,terse-ltx,0.1.0,0,0,https://github.com/TerseAI/terse-ltx,"LTX encoding, decoding, and streaming compaction"
+2026-10-02T16:56:22.863583Z,gate4agent-node,0.4.1,0,0,,"Native gate4agent node server: wraps providers and owns PTY/inline sessions, the file browser, local git, and worktrees for its machine"
+2026-10-02T16:56:46.504858Z,sprawling-wire,0.0.8,0,0,https://github.com/2youg1/sprawling-agents,"The process boundary of a sprawling city: the frames its clients speak, and the server that answers them."
+2026-10-02T17:01:26.621999Z,my_little_fs,0.1.0,0,0,https://github.com/ywnh1/my_little_fs,内容寻址文件系统：CDC 分块 + blake3 寻址 + zstd 压缩 + redb 元数据
+2026-10-02T17:06:07.336216Z,gate4agent-c2,0.4.1,0,0,,Relay daemon that aggregates gate4agent node state/events and routes commands down to attached nodes
+2026-10-02T17:06:48.612746Z,sprawling-accounting,0.0.8,0,0,https://github.com/2youg1/sprawling-agents,"The one writer of a sprawling city's Ledger, the views every page is answered from, and the ports it reaches outside through."
+2026-10-02T17:11:55.060176Z,atunex,0.1.0,0,0,https://github.com/erox-02/AtuneX,A rustic cli tool for experimenting with automatic pid tuning.
+2026-10-02T17:14:03.555121Z,montagent-render,0.1.2,0,0,https://github.com/MBehtemam/Montagent,"Montagent's rasterizer and encode path: frames in, video out."
+2026-10-02T17:14:04.173353Z,montagent-text,0.1.2,0,0,https://github.com/MBehtemam/Montagent,"Montagent's text stack: shaping, line partitioning, break opportunities and extents."
+2026-10-02T17:14:05.458669Z,montagent-core,0.1.2,0,0,https://github.com/MBehtemam/Montagent,"The Montagent core library: parsing, the finding type, the check registry and the report surface."
+2026-10-02T17:14:07.553934Z,montagent,0.1.2,0,0,https://github.com/MBehtemam/Montagent,"A video editor whose project format is authored by an AI agent: one binary, a CLI and an MCP server."
+2026-10-02T17:14:20.708952Z,typedlm-macros,0.1.0,0,0,https://github.com/casoon/typedlm,Derive macros for typedlm
+2026-10-02T17:14:23.451396Z,typedlm,0.1.0,0,0,https://github.com/casoon/typedlm,"Typed, testable LLM programs for Rust"
+2026-10-02T17:14:26.078343Z,typedlm-cli,0.1.0,0,0,https://github.com/casoon/typedlm,"Command line for TypedLM evaluations: run programs across models, compare with earlier runs, show history"
+2026-10-02T17:16:46.544749Z,sprawling-desktop,0.0.8,0,0,https://github.com/2youg1/sprawling-agents,An MCP server that gives an agent eyes and hands on this Windows desktop.
