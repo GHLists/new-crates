@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T04:22:20.745254Z,openreadout-signal,0.1.0,0,0,https://github.com/openreadout/openreadout,"Signal processing for OpenReadout: NMR processing and peak picking, and electrophysiology feature and spike analysis"
+2026-10-03T04:32:19.963509Z,openreadout-spikeglx,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for SpikeGLX recordings, part of OpenReadout"
+2026-10-03T04:33:46.715006Z,js-protocol-macros,0.1.6,0,0,https://github.com/AzzoDude/js-protocol,Derive macros for js-protocol (CDP builder and getter generation)
+2026-10-03T04:40:16.512102Z,mathsolver-help,0.2.0,0,0,https://github.com/aiPublicProject/mathsolver-rust,"BYOK AI math solver with execution-based verification (PAL-style) — bring your own OpenAI-compatible API key; the answer is computed locally by executing a model-generated program, never taken from a…"
+2026-10-03T04:42:19.166392Z,openreadout-thermal,0.1.0,0,0,https://github.com/openreadout/openreadout,"Readers for thermal-analysis and rheology files, part of OpenReadout"
+2026-10-03T04:47:16.60669Z,xahc,1.12.0,0,0,https://github.com/Hugegreencandle/xahc,"Xahau Hooks, Checked: build, clean, lint and simulate Xahau C Hooks (C -> WASM), with embedded safe headers"
+2026-10-03T04:52:19.681201Z,openreadout-thermo,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Thermo Fisher .raw mass-spectrometry files, part of OpenReadout"
+2026-10-03T05:00:59.269201Z,gripsack-buildkit,0.43.0,0,0,https://github.com/gripsack-dev/gripsack,"Gripsack-owned BuildKit adapter: bounded bridge protocol, worker lease policy and LLB validation (Epic B)"
+2026-10-03T05:01:40.751664Z,ipg-cng,0.1.1,0,0,https://github.com/nervosys/IronPrivacyGuard,Minimal safe wrapper over Windows CNG and TPM Base Services (IronPrivacyGuard)
+2026-10-03T05:02:19.269743Z,openreadout-waters,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Waters MassLynx .raw mass-spectrometry directories, part of OpenReadout"
+2026-10-03T05:03:03.448537Z,tuigram-cli,0.1.0,0,0,https://github.com/erictran308/tuigram,"Telegram in your terminal: a fast, vim-style Telegram client built on TDLib"
+2026-10-03T05:03:13.826389Z,iron-privacy-guard,0.1.1,0,0,https://github.com/nervosys/IronPrivacyGuard,Agent-first privacy CLI and discoverable cryptographic workflows on IronCrypto
+2026-10-03T05:03:41.817522Z,cntrl-protocol,0.0.0,0,0,https://github.com/azaek/cntrl,Wire protocol types for the cntrl agent (placeholder; in development).
+2026-10-03T05:03:45.649053Z,cntrl-host,0.0.0,0,0,https://github.com/azaek/cntrl,"Host capabilities (stats, processes, power, services) for the cntrl agent (placeholder; in development)."
+2026-10-03T05:03:49.443729Z,cntrl-agent,0.0.0,0,0,https://github.com/azaek/cntrl,The cntrl server-management agent (placeholder; in development).
+2026-10-03T05:06:24.71035Z,xlgrep,0.1.0,0,0,https://github.com/DavisMcCracken/xlgrep,grep for spreadsheets: search cell values and formulas across .xlsx/.xlsm/.xlsb/.xls/.ods files
+2026-10-03T05:11:37.176321Z,eazyreport,1.0.0,0,0,https://github.com/ashiq-kodali/eazyreport-rs,Enterprise report generation engine for Rust supporting visual .rtpl templates designed at eazyreport.in
+2026-10-03T05:12:19.397687Z,openreadout-xrd,0.1.0,0,0,https://github.com/openreadout/openreadout,"Readers for X-ray diffraction scan files, part of OpenReadout"
+2026-10-03T05:14:32.710815Z,weaveffi-model,0.24.0,0,0,https://github.com/weavefoundry/weaveffi,"IR, parsers, Rust extractor, validation, and the resolved binding model for WeaveFFI API definitions"
+2026-10-03T05:16:22.417004Z,watermelon-testkit,0.1.0,0,0,https://github.com/M4SS-Code/watermelon,"Run tests against isolated, disposable nats-server instances"
