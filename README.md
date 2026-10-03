@@ -8,50 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 19:18 UTC
+## Latest list — 2026-10-03 20:20 UTC
 
-New crates published between 2026-10-03 18:20 UTC and 2026-10-03 19:18 UTC.
+New crates published between 2026-10-03 19:18 UTC and 2026-10-03 20:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-03T19-18-52-898031Z.csv)
+[Full CSV](data/new-crates-2026-10-03T20-20-12-223056Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-03 18:21:32 | [frust-i18n](https://crates.io/crates/frust-i18n) | 0.5.0 | 0 | Fluent Project and ICU4X internationalization with compile-time bundle loading,… |
-| 2026-10-03 18:21:48 | [rs4dggs-ogc](https://crates.io/crates/rs4dggs-ogc) | 0.2.0 | 0 | The encodings of OGC API - DGGS over rs4dggs: zone lists, DGGS-JSON, DGGS-UBJSO… |
-| 2026-10-03 18:25:59 | [renox-macros](https://crates.io/crates/renox-macros) | 1.0.0-rc.1 | 0 | Procedural macros for the Renox web framework: derive Model, FromRow and DbEnum… |
-| 2026-10-03 18:26:15 | [keyspoor](https://crates.io/crates/keyspoor) | 0.1.1 | 0 | Offline secret scanner and Rust library for Git, CI and AI agents, with MCP, JS… |
-| 2026-10-03 18:26:50 | [renox-core](https://crates.io/crates/renox-core) | 1.0.0-rc.1 | 0 | Runtime of the Renox web framework: routing, views, database and models, valida… |
-| 2026-10-03 18:27:59 | [quat_llm](https://crates.io/crates/quat_llm) | 0.1.1 | 0 | A high-performance, lightweight 2-bit quantized LLM inference engine in Rust |
-| 2026-10-03 18:32:28 | [frust-material](https://crates.io/crates/frust-material) | 0.5.0 | 0 | Material 3 (Expressive) design-system catalog for Frust: HCT seed-color tokens,… |
-| 2026-10-03 18:38:21 | [gpui-alloy-smol](https://crates.io/crates/gpui-alloy-smol) | 0.1.0 | 0 | A small and fast async runtime |
-| 2026-10-03 18:40:15 | [frust-native-widgets](https://crates.io/crates/frust-native-widgets) | 0.5.0 | 0 | Real native controls (Android Views, UIKit, AppKit) for Frust apps, written fro… |
-| 2026-10-03 18:41:10 | [tsr_fswatch](https://crates.io/crates/tsr_fswatch) | 0.2.0 | 0 | Native filesystem watcher backends (FSEvents, inotify, fanotify, kqueue) for tsr |
-| 2026-10-03 18:42:09 | [tsr_jsonrpc](https://crates.io/crates/tsr_jsonrpc) | 0.2.0 | 0 | JSON-RPC 2.0 messages and Content-Length framing for tsr |
-| 2026-10-03 18:42:14 | [tsr_sourcemap](https://crates.io/crates/tsr_sourcemap) | 0.2.0 | 0 | Source map generation, mapping decoding and document position mapping for tsr |
-| 2026-10-03 18:42:45 | [ohp](https://crates.io/crates/ohp) | 0.1.0 | 0 | Present beamer PDF slides, and markdown, in the terminal over the kitty graphic… |
-| 2026-10-03 18:42:46 | [tsr_ipc](https://crates.io/crates/tsr_ipc) | 0.2.0 | 0 | Bidirectional JSON-RPC connections for tsr |
-| 2026-10-03 18:43:46 | [tsr_contentmapper](https://crates.io/crates/tsr_contentmapper) | 0.2.0 | 0 | The content-mapper host for tsr: external content transformed into virtual Type… |
-| 2026-10-03 18:45:02 | [tsr_tracing](https://crates.io/crates/tsr_tracing) | 0.2.0 | 0 | Compiler trace sessions (--generateTrace) and their file serialization for tsr |
-| 2026-10-03 18:45:51 | [tesserax-auth](https://crates.io/crates/tesserax-auth) | 0.1.0 | 0 | Authentication for tesserax servers: doors with path policies, hashed key ring,… |
-| 2026-10-03 18:45:58 | [tesserax-secrets](https://crates.io/crates/tesserax-secrets) | 0.1.0 | 0 | Secrets at rest and signing for tesserax services: host-bound sealing, daemon i… |
-| 2026-10-03 18:46:03 | [tesserax-store](https://crates.io/crates/tesserax-store) | 0.1.0 | 0 | SQLite persistence for tesserax services: one writer, bounded read pool, batch… |
-| 2026-10-03 18:46:20 | [tesserax-http](https://crates.io/crates/tesserax-http) | 0.1.0 | 0 | HTTP surface for tesserax servers: self-describing routes, OpenAPI from the rou… |
-| 2026-10-03 18:46:29 | [tesserax-transport](https://crates.io/crates/tesserax-transport) | 0.1.0 | 0 | Link IO for tesserax services: owner-only local sockets and pipes, a mutual lin… |
-| 2026-10-03 18:50:53 | [frust-shadcn](https://crates.io/crates/frust-shadcn) | 0.5.0 | 0 | shadcn/ui design-system catalog for Frust: a port of shadcn/ui v4 with its toke… |
-| 2026-10-03 18:53:19 | [subduction_object_storage](https://crates.io/crates/subduction_object_storage) | 0.1.0 | 0 | Object storage (S3-compatible) backend for Sedimentree |
-| 2026-10-03 18:53:40 | [quvyta-music](https://crates.io/crates/quvyta-music) | 0.1.1 | 0 | A music player for the terminal: your own library, gapless playback, album art… |
-| 2026-10-03 18:55:31 | [claude-status-line](https://crates.io/crates/claude-status-line) | 1.0.0 | 0 | Claude status line that displays the model, effort, context, and cost. |
-| 2026-10-03 18:58:21 | [gpui-alloy-perf](https://crates.io/crates/gpui-alloy-perf) | 0.1.0 | 0 | A tool for measuring Zed test performance, with too many Clippy lints |
-| 2026-10-03 19:00:44 | [frust-video-player](https://crates.io/crates/frust-video-player) | 0.5.0 | 0 | Video playback for Frust apps over Media3 ExoPlayer on Android and AVFoundation… |
-| 2026-10-03 19:05:23 | [lite-config](https://crates.io/crates/lite-config) | 0.1.0 | 0 | Simple config file management |
-| 2026-10-03 19:06:04 | [autogen-customerio](https://crates.io/crates/autogen-customerio) | 0.1.0 | 0 | Auto-generated, strongly-typed Rust client for the Customer.io APIs (Track, App… |
-| 2026-10-03 19:07:34 | [gpui-alloy-zlog](https://crates.io/crates/gpui-alloy-zlog) | 0.1.0 | 0 | GPUI Alloy distribution of zlog |
-| 2026-10-03 19:07:36 | [yardmaster](https://crates.io/crates/yardmaster) | 0.0.0 | 0 | A daemon that starts, supervises and coordinates agents across machines. Name r… |
-| 2026-10-03 19:10:16 | [clean-signals-frust](https://crates.io/crates/clean-signals-frust) | 0.5.0 | 0 | Frust integration for clean-signals: component-scoped controllers and failure l… |
-| 2026-10-03 19:13:20 | [tsr_incremental](https://crates.io/crates/tsr_incremental) | 0.2.0 | 0 | The incremental program and its build info (tsBuildInfo) for tsr |
-| 2026-10-03 19:13:30 | [tsr_transpile](https://crates.io/crates/tsr_transpile) | 0.2.0 | 0 | Single-file JavaScript and declaration emit (transpileModule, transpileDeclarat… |
-| 2026-10-03 19:13:55 | [tsr_tsc](https://crates.io/crates/tsr_tsc) | 0.2.0 | 0 | Shared command-line contracts, reporting, help and watch management for the tsr… |
-| 2026-10-03 19:14:43 | [crawlberg-robots](https://crates.io/crates/crawlberg-robots) | 1.9.0 | 0 | The robots.txt parser shared by the crawlberg crawler and its headless-browser… |
+| 2026-10-03 19:19:49 | [gpui-alloy-util-macros](https://crates.io/crates/gpui-alloy-util-macros) | 0.1.0 | 0 | Utility macros for Zed |
+| 2026-10-03 19:20:25 | [tesserax-mcp](https://crates.io/crates/tesserax-mcp) | 0.1.0 | 0 | MCP (Model Context Protocol) JSON-RPC 2.0 server for tesserax: stateless tool d… |
+| 2026-10-03 19:22:20 | [diskuse](https://crates.io/crates/diskuse) | 0.0.0 | 0 | Read-only disk usage browser for macOS and Linux, built for speed |
+| 2026-10-03 19:25:46 | [nameof2](https://crates.io/crates/nameof2) | 1.4.0 | 0 | Provides a Rust macro to determine the string name of a binding, type, const, f… |
+| 2026-10-03 19:26:28 | [tsr_build](https://crates.io/crates/tsr_build) | 0.2.0 | 0 | Project-reference build orchestration (tsc -b) for tsr |
+| 2026-10-03 19:28:29 | [gpui-alloy-ztracing](https://crates.io/crates/gpui-alloy-ztracing) | 0.1.0 | 0 | GPUI Alloy distribution of ztracing |
+| 2026-10-03 19:32:03 | [tsr_execute](https://crates.io/crates/tsr_execute) | 0.2.0 | 0 | The tsr compiler's command-line driver: compilation, incremental builds and wat… |
+| 2026-10-03 19:38:45 | [gpui-alloy-zed-util](https://crates.io/crates/gpui-alloy-zed-util) | 0.1.0 | 0 | A collection of utility structs and functions used by Zed and GPUI |
+| 2026-10-03 19:43:45 | [dogma-path](https://crates.io/crates/dogma-path) | 0.3.0 | 0 | Ancestor paths and path conversion errors. |
+| 2026-10-03 19:43:52 | [dogma-traits](https://crates.io/crates/dogma-traits) | 0.3.0 | 0 | General-purpose naming, labeling, counting, and collection traits. |
+| 2026-10-03 19:43:59 | [dogma-uri](https://crates.io/crates/dogma-uri) | 0.3.0 | 0 | Validated URI and IRI types, authorities, and conversions. |
+| 2026-10-03 19:44:07 | [dogma-uuid](https://crates.io/crates/dogma-uuid) | 0.3.0 | 0 | Universally unique identifiers and lossless byte conversions. |
+| 2026-10-03 19:46:02 | [rustxform-validate](https://crates.io/crates/rustxform-validate) | 0.1.0 | 0 | Form validations for rustxform, added from Phase 7. |
+| 2026-10-03 19:47:24 | [rustxform](https://crates.io/crates/rustxform) | 0.1.0 | 0 | XLSForm → XForm compiler: end-to-end facade. |
+| 2026-10-03 19:48:46 | [gpui-alloy-sum-tree](https://crates.io/crates/gpui-alloy-sum-tree) | 0.1.0 | 0 | A sum tree data structure, a concurrency-friendly B-tree |
+| 2026-10-03 19:49:53 | [rustxform-cli](https://crates.io/crates/rustxform-cli) | 0.1.0 | 0 | Command-line interface for rustxform (XLSForm → XForm). |
+| 2026-10-03 19:53:02 | [rustxform-xform2json](https://crates.io/crates/rustxform-xform2json) | 0.1.0 | 0 | Reverse direction: parse an XForm back into the rustxform survey model. |
+| 2026-10-03 19:59:36 | [gpui-alloy-http-client](https://crates.io/crates/gpui-alloy-http-client) | 0.1.0 | 0 | A HTTP client library for Zed and GPUI |
+| 2026-10-03 19:59:52 | [openvtc-vetting-pcs](https://crates.io/crates/openvtc-vetting-pcs) | 0.3.1 | 0 | Hidden-vetter admission (ZKP) for OpenVTC: the Predicate Credential System behi… |
+| 2026-10-03 19:59:55 | [openvtc-core](https://crates.io/crates/openvtc-core) | 0.3.1 | 0 | OpenVTC Core Library |
+| 2026-10-03 19:59:58 | [openvtc](https://crates.io/crates/openvtc) | 0.3.1 | 0 | OpenVTC CLI Tool |
+| 2026-10-03 20:03:35 | [can-core](https://crates.io/crates/can-core) | 0.1.0 | 0 | CAN 2.0 and CAN FD frame codec — identifier parsing, DLC handling, bit-timing c… |
+| 2026-10-03 20:06:44 | [fegrid-iec60870-core](https://crates.io/crates/fegrid-iec60870-core) | 0.1.0 | 0 | Shared no_std primitives for fegrid-iec60870 |
+| 2026-10-03 20:06:48 | [fegrid-iec60870-asdu](https://crates.io/crates/fegrid-iec60870-asdu) | 0.1.0 | 0 | Typed IEC 60870-5 ASDU codec |
+| 2026-10-03 20:06:50 | [fegrid-iec60870-cs101](https://crates.io/crates/fegrid-iec60870-cs101) | 0.1.0 | 0 | IEC 60870-5-101 FT 1.2 link layer codec |
+| 2026-10-03 20:06:52 | [fegrid-iec60870-cs104](https://crates.io/crates/fegrid-iec60870-cs104) | 0.1.0 | 0 | IEC 60870-5-104 APCI engine + typestate connection states |
+| 2026-10-03 20:06:54 | [fegrid-iec60870-secauth](https://crates.io/crates/fegrid-iec60870-secauth) | 0.1.0 | 0 | IEC 62351-5 secure-authentication scaffolding for IEC 60870-5-7. |
+| 2026-10-03 20:10:00 | [gpui-alloy](https://crates.io/crates/gpui-alloy) | 0.1.0 | 0 | Zed's GPU-accelerated UI framework |
+| 2026-10-03 20:11:07 | [fegrid-iec60870-file](https://crates.io/crates/fegrid-iec60870-file) | 0.1.0 | 0 | File-transfer service layer (F_FR_NA_1 + F_SG_NA_1 + F_DR_TA_1) for IEC 60870-5. |
+| 2026-10-03 20:13:45 | [stylesheet-parse](https://crates.io/crates/stylesheet-parse) | 0.1.0 | 0 | A CSS stylesheet parser (CSS Syntax Level 3 parsing, CSS Nesting): rules, at-ru… |
+| 2026-10-03 20:15:52 | [babeldb](https://crates.io/crates/babeldb) | 0.1.1 | 0 | Embedded key-value store inspired by the Library of Babel: reversible addressin… |
+| 2026-10-03 20:16:30 | [platega-io-sdk](https://crates.io/crates/platega-io-sdk) | 0.1.0 | 0 | Unofficial Rust SDK for the Platega.io payment system (port of platega-sdk-pyth… |
+| 2026-10-03 20:19:02 | [gpui-alloy-reqwest-client](https://crates.io/crates/gpui-alloy-reqwest-client) | 0.1.0 | 0 | GPUI Alloy distribution of reqwest_client |
 
 ## Data source
 

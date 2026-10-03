@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T19:19:49.240017Z,gpui-alloy-util-macros,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,Utility macros for Zed
+2026-10-03T19:20:25.143246Z,tesserax-mcp,0.1.0,0,0,https://github.com/ZENG3LD/tesserax,"MCP (Model Context Protocol) JSON-RPC 2.0 server for tesserax: stateless tool dispatch with compact, byte-capped results, a tools/list size budget, self-described tiered routes and the admitted calle…"
+2026-10-03T19:22:20.838028Z,diskuse,0.0.0,0,0,https://github.com/nmichlo/diskuse,"Read-only disk usage browser for macOS and Linux, built for speed"
+2026-10-03T19:25:46.63872Z,nameof2,1.4.0,0,0,https://codeberg.org/bannmann/nameof2.git,"Provides a Rust macro to determine the string name of a binding, type, const, function or enum variant."
+2026-10-03T19:26:28.58346Z,tsr_build,0.2.0,0,0,https://github.com/ferrotype/tsr,Project-reference build orchestration (tsc -b) for tsr
+2026-10-03T19:28:29.415069Z,gpui-alloy-ztracing,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,GPUI Alloy distribution of ztracing
+2026-10-03T19:32:03.167824Z,tsr_execute,0.2.0,0,0,https://github.com/ferrotype/tsr,"The tsr compiler's command-line driver: compilation, incremental builds and watch mode"
+2026-10-03T19:38:45.450317Z,gpui-alloy-zed-util,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,A collection of utility structs and functions used by Zed and GPUI
+2026-10-03T19:43:45.476168Z,dogma-path,0.3.0,0,0,https://github.com/dogmatists/dogma.rs,Ancestor paths and path conversion errors.
+2026-10-03T19:43:52.688212Z,dogma-traits,0.3.0,0,0,https://github.com/dogmatists/dogma.rs,"General-purpose naming, labeling, counting, and collection traits."
+2026-10-03T19:43:59.981892Z,dogma-uri,0.3.0,0,0,https://github.com/dogmatists/dogma.rs,"Validated URI and IRI types, authorities, and conversions."
+2026-10-03T19:44:07.168248Z,dogma-uuid,0.3.0,0,0,https://github.com/dogmatists/dogma.rs,Universally unique identifiers and lossless byte conversions.
+2026-10-03T19:46:02.7888Z,rustxform-validate,0.1.0,0,0,https://github.com/horacioskrp/rustxform,"Form validations for rustxform, added from Phase 7."
+2026-10-03T19:47:24.070621Z,rustxform,0.1.0,0,0,https://github.com/horacioskrp/rustxform,XLSForm → XForm compiler: end-to-end facade.
+2026-10-03T19:48:46.234084Z,gpui-alloy-sum-tree,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,"A sum tree data structure, a concurrency-friendly B-tree"
+2026-10-03T19:49:53.678285Z,rustxform-cli,0.1.0,0,0,https://github.com/horacioskrp/rustxform,Command-line interface for rustxform (XLSForm → XForm).
+2026-10-03T19:53:02.447781Z,rustxform-xform2json,0.1.0,0,0,https://github.com/horacioskrp/rustxform,Reverse direction: parse an XForm back into the rustxform survey model.
+2026-10-03T19:59:36.714044Z,gpui-alloy-http-client,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,A HTTP client library for Zed and GPUI
+2026-10-03T19:59:52.606018Z,openvtc-vetting-pcs,0.3.1,0,0,https://github.com/OpenVTC/openvtc,Hidden-vetter admission (ZKP) for OpenVTC: the Predicate Credential System behind the vetting flow
+2026-10-03T19:59:55.582864Z,openvtc-core,0.3.1,0,0,https://github.com/OpenVTC/openvtc,OpenVTC Core Library
+2026-10-03T19:59:58.917515Z,openvtc,0.3.1,0,0,https://github.com/OpenVTC/openvtc,OpenVTC CLI Tool
+2026-10-03T20:03:35.271728Z,can-core,0.1.0,0,0,https://github.com/WyattAu/can-core,"CAN 2.0 and CAN FD frame codec — identifier parsing, DLC handling, bit-timing calculation"
+2026-10-03T20:06:44.788735Z,fegrid-iec60870-core,0.1.0,0,0,https://github.com/fegrid/iec60870,Shared no_std primitives for fegrid-iec60870
+2026-10-03T20:06:48.091277Z,fegrid-iec60870-asdu,0.1.0,0,0,https://github.com/fegrid/iec60870,Typed IEC 60870-5 ASDU codec
+2026-10-03T20:06:50.662473Z,fegrid-iec60870-cs101,0.1.0,0,0,https://github.com/fegrid/iec60870,IEC 60870-5-101 FT 1.2 link layer codec
+2026-10-03T20:06:52.785026Z,fegrid-iec60870-cs104,0.1.0,0,0,https://github.com/fegrid/iec60870,IEC 60870-5-104 APCI engine + typestate connection states
+2026-10-03T20:06:54.774998Z,fegrid-iec60870-secauth,0.1.0,0,0,https://github.com/fegrid/iec60870,IEC 62351-5 secure-authentication scaffolding for IEC 60870-5-7.
+2026-10-03T20:10:00.5145Z,gpui-alloy,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,Zed's GPU-accelerated UI framework
+2026-10-03T20:11:07.163112Z,fegrid-iec60870-file,0.1.0,0,0,https://github.com/fegrid/iec60870,File-transfer service layer (F_FR_NA_1 + F_SG_NA_1 + F_DR_TA_1) for IEC 60870-5.
+2026-10-03T20:13:45.988563Z,stylesheet-parse,0.1.0,0,0,https://github.com/casoon/barrierlab,"A CSS stylesheet parser (CSS Syntax Level 3 parsing, CSS Nesting): rules, at-rules and declarations, flattened with their @media context. Takes text, fetches nothing."
+2026-10-03T20:15:52.360405Z,babeldb,0.1.1,0,0,https://github.com/q6r/babeldb,Embedded key-value store inspired by the Library of Babel: reversible addressing (BabelPure) vs exact adaptive representations (Adaptive)
+2026-10-03T20:16:30.987798Z,platega-io-sdk,0.1.0,0,0,https://github.com/ByFox213/platega-io-sdk,Unofficial Rust SDK for the Platega.io payment system (port of platega-sdk-python)
+2026-10-03T20:19:02.981948Z,gpui-alloy-reqwest-client,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,GPUI Alloy distribution of reqwest_client
