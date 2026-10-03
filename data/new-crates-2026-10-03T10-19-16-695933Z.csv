@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T09:22:25.831413Z,openreadout,0.1.0,0,0,https://github.com/openreadout/openreadout,"One binary that reads raw lab-instrument files, prints JSON, exports to open formats and runs as an MCP server"
+2026-10-03T09:29:53.718434Z,vox-trust-core,0.6.0,0,0,https://github.com/vox-trust/vox-trust,"Seal real voices, verify them anywhere: reference implementation of the Vox Trust protocol (sealed WAV files with HMAC-SHA-256 or Ed25519, tamper localization, trust policy). Pre-1.0, not audited."
+2026-10-03T09:30:02.493236Z,vox-trust-carrier,0.6.0,0,0,https://github.com/vox-trust/vox-trust,"Experimental in-band audio watermark for Vox Trust seals (stdm-2: spread-transform dither modulation on log-spectral tiles). Measured, research only, not audited."
+2026-10-03T09:30:06.613184Z,vox-trust-cli,0.6.0,0,0,https://github.com/vox-trust/vox-trust,Command-line tool to seal and verify WAV files with the Vox Trust protocol (file mode)
+2026-10-03T09:35:41.68169Z,kcode-codex-terra-jsonrpc,0.1.0,0,0,,Codex Terra-specific header-omitted JSON-RPC values and parsing.
+2026-10-03T09:37:50.411252Z,velox-core,0.1.0,0,0,https://github.com/fahimaloy/velox,Core reactive primitives for the Velox UI framework
+2026-10-03T09:38:08.061187Z,kcode-codex-terra-stdio,0.1.0,0,0,,Codex Terra-specific asynchronous header-omitted JSON-RPC transport over child-process JSONL stdio.
+2026-10-03T09:38:25.022371Z,velox-sfc,0.1.0,0,0,https://github.com/fahimaloy/velox,Single-file component compiler for the Velox UI framework
+2026-10-03T09:40:12.448122Z,velox-dom,0.1.0,0,0,https://github.com/fahimaloy/velox,Virtual DOM and layout engine for the Velox UI framework
+2026-10-03T09:40:47.425961Z,velox-style,0.1.0,0,0,https://github.com/fahimaloy/velox,CSS parsing and styling for the Velox UI framework
+2026-10-03T09:41:06.315662Z,velox-renderer,0.1.0,0,0,https://github.com/fahimaloy/velox,Rendering backends (Skia) for the Velox UI framework
+2026-10-03T09:42:42.425234Z,vantage-memory,1.0.0,0,0,https://github.com/romaninsh/vantage,"Fast in-memory datasource for Vantage: typed tables, Vista shells and live change events"
+2026-10-03T09:44:55.21816Z,t2t-core,0.1.0,0,0,https://github.com/atomix-labs/t2t,"time values: points on the wall and monotonic clocks, counter readings, and the spans between them."
+2026-10-03T09:44:57.751889Z,t2t-clock,0.1.0,0,0,https://github.com/atomix-labs/t2t,"clocks that read the time: the OS's wall and monotonic clocks, the CPU's counter, and clocks set by hand."
+2026-10-03T09:44:59.56445Z,t2t,0.1.0,0,0,https://github.com/atomix-labs/t2t,"time values and the clocks that read them, for code where a nanosecond counts."
+2026-10-03T09:47:45.015622Z,anti-dbg-macros,0.1.0,0,0,https://github.com/ZEROLINGG/anti-dbg,anti-dbg 的过程宏实现：函数级检测注入属性宏
+2026-10-03T09:48:06.461747Z,anti-dbg,0.1.0,0,0,https://github.com/ZEROLINGG/anti-dbg,反调试检测库：环境检查、时钟混淆与编译期检测注入
+2026-10-03T09:59:15.57548Z,macro-kwargs-derive,0.3.3,0,0,https://github.com/Techcable/macro-kwargs.rs,Procedural derive for macro-kwargs
+2026-10-03T09:59:17.329021Z,macro-kwargs,0.3.3,0,0,https://github.com/Techcable/macro-kwargs.rs,Keyword argument parsing for function-like proc-macros
+2026-10-03T10:03:33.271491Z,terminal221b-tui,0.1.0,0,0,https://github.com/BoozeLee/terminal221b,An original local-first Rust TUI for Terminal221b
+2026-10-03T10:09:35.976352Z,cratefield-adapter-cloudflare-saas,0.1.0,0,0,https://github.com/Cratefield/harness,CustomHostnames port over the Cloudflare for SaaS custom-hostnames API for the Cratefield harness
+2026-10-03T10:10:03.51512Z,cratefield-adapter-github-app,0.1.0,0,0,https://github.com/Cratefield/harness,"GitHub App auth for the Cratefield harness: RS256 app JWTs, installation tokens and the user-to-server code exchange"
+2026-10-03T10:10:20.929283Z,cratefield-adapter-jira,0.1.0,0,0,https://github.com/Cratefield/harness,Tracker port over the Jira Cloud REST API for the Cratefield harness
+2026-10-03T10:10:29.659531Z,cratefield-adapter-openai-compatible,0.1.0,0,0,https://github.com/Cratefield/harness,"TextModel port over the OpenAI chat-completions wire, at any base URL, for the Cratefield harness"
+2026-10-03T10:10:29.788318Z,keldra-errors,0.19.0,0,0,,Stable machine-readable error contract for Keldra components and clients
+2026-10-03T10:10:37.776834Z,cratefield-adapter-owlpost,0.1.0,0,0,https://github.com/Cratefield/harness,Mailer port over the Owlpost REST API for the Cratefield harness
+2026-10-03T10:10:47.584518Z,cratefield-adapter-polar,0.1.0,0,0,https://github.com/Cratefield/harness,"Payments port over Polar, a Merchant of Record, for the Cratefield harness"
+2026-10-03T10:12:02.315028Z,monkeyc,0.1.2,0,0,https://github.com/shahzerbaig/monkeyc,A Monkey programming language implementation in Rust
+2026-10-03T10:15:10.181244Z,candle-fused-attn,0.0.1,0,0,https://github.com/mi-for-the-rust-of-us/candle-fused-attn,"Name reservation for a fused fp32 scaled-dot-product attention for candle (forward AND backward, bit-reproducible backward). No functionality yet: the first functional release is 0.2.0."
