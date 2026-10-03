@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T00:22:31.550894Z,botspy,0.1.0,0,0,https://github.com/AnthusAI/BotSpy,"Pop open the conversation history of any coding agent: one adapter per agent, one normalized schema, one unified agent-session history."
+2026-10-03T00:24:13.753011Z,flagsamurai,0.1.4,0,0,https://github.com/mpampuch/FlagSamurai,Inspect and manipulate SAM-style bit flags (SAM/BAM/CRAM)
+2026-10-03T00:24:59.723555Z,kcode-k1-daemon-http-composition,0.1.1,0,0,,Concrete authenticated HTTP and public-boundary composition for the K1 daemon
+2026-10-03T00:35:52.979911Z,hatchery-harness-protocol,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,"Bounded, privacy-minimized domain contract (tasks, runs, deliveries) for the hatchery harness kernel"
+2026-10-03T00:35:55.715526Z,hatchery-harness-delivery,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,"Pure, reviewed-source compiler for staged hatchery harness delivery bundles (skills, plugins, MCP config, files)"
+2026-10-03T00:35:59.304292Z,hatchery-observation-protocol,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,"Dependency-light, versioned observation wire contract for gate4agent provider-session monitoring"
+2026-10-03T00:36:12.42255Z,hatchery-harness-api,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,Read and operator wire contract for the hatchery harness localhost hosts: grant-filtered reads plus the operator credential/action/session-verb set
+2026-10-03T00:36:16.718891Z,hatchery-harness-engine,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,"Pure, prepare-then-accept state machine for the hatchery harness task/run/delivery kernel"
+2026-10-03T00:38:52.562652Z,kcode-k1-chat-thread-preflight-runtime,0.1.0,0,0,,Focused preflight gate for one K1 chat thread
+2026-10-03T00:41:36.036756Z,copal-cli,0.1.0,0,0,,copalctl: the Copal service from a terminal.
+2026-10-03T00:41:36.597198Z,copal-core,0.1.0,0,0,https://github.com/Oneiriq/copal,"Copal domain types: ids, digests, the file state machine. Pure, no IO."
+2026-10-03T00:42:04.576429Z,openreadout-core,0.1.0,0,0,https://github.com/openreadout/openreadout,"Core traits, normalized metadata model, provenance tags, JSON output and exit codes for OpenReadout"
+2026-10-03T00:42:37.655687Z,openreadout-jpegxr,0.1.0,0,0,https://github.com/openreadout/openreadout,"Memory-safe JPEG XR decoder in Rust, bit-exact with jxrlib"
+2026-10-03T00:43:17.229391Z,openreadout-abf,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Axon Binary Format (ABF) electrophysiology files, part of OpenReadout"
+2026-10-03T00:44:09.09101Z,openreadout-arrow,0.1.0,0,0,https://github.com/openreadout/openreadout,"Parquet and Arrow IPC export of OpenReadout tables, traces and spectra, verified by read-back"
+2026-10-03T00:44:43.576614Z,openreadout-biophys,0.1.0,0,0,https://github.com/openreadout/openreadout,"Readers for biophysics bench instruments such as ITC, surface plasmon resonance and Seahorse XF, part of OpenReadout"
+2026-10-03T00:46:28.719529Z,hatchery-observation-api,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,Read-only monitoring domain contract built from bounded gate4agent observation facts
+2026-10-03T00:49:39.643134Z,kcode-k1-daemon-public-config,0.1.0,0,0,,"Validated public origin, config, and readiness representation for the K1 daemon"
+2026-10-03T00:50:47.96294Z,bevy_noodle,0.1.0,0,0,https://github.com/gold-silver-copper/bevy_noodle,"A generic, typed node graph editor for Bevy UI, in the spirit of egui_node_graph2."
+2026-10-03T00:52:20.064873Z,openreadout-blackrock,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Blackrock NSx and NEV electrophysiology files, part of OpenReadout"
+2026-10-03T00:53:11.578926Z,copal-blob,0.1.0,0,0,https://github.com/Oneiriq/copal,"Copal blob plane: content-addressed storage behind one port, OpenDAL backends."
+2026-10-03T00:53:12.112285Z,copal-sign,0.1.0,0,0,https://github.com/Oneiriq/copal,"Copal grant tokens: minting, parsing, and verification for signed URLs."
+2026-10-03T00:53:40.613293Z,dexrust,0.2.0,0,0,https://github.com/DanielCarmingham/dexrust,"A Rust drop-in for the dex task CLI: same store, config, GitHub and Shortcut sync, and MCP server, with concurrent-safe writes"
+2026-10-03T00:54:43.634812Z,lumen-codegen,0.5.0,0,0,https://github.com/alliecatowo/lumen,Lumen native code generation via Cranelift
+2026-10-03T00:54:45.282084Z,lumen-tensor,0.5.0,0,0,https://github.com/alliecatowo/lumen,First-class tensor type with automatic differentiation for Lumen
+2026-10-03T00:55:14.738243Z,filepack-derive,0.0.1,0,0,https://github.com/casey/filepack,encode and decode derive macros for filepack
+2026-10-03T00:56:44.176902Z,hatchery-harness-client,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,Typed localhost client and CLI (hatchery-harnessctl) for the hatchery harness read and operator hosts
+2026-10-03T01:01:24.37709Z,qleisliup,0.1.1,0,0,https://github.com/MGYamada/qleisliup,"Explicit, authenticated Qleisli toolchain lifecycle management"
+2026-10-03T01:02:20.390158Z,openreadout-codecs,0.1.0,0,0,https://github.com/openreadout/openreadout,Pure-Rust image and data decoders used by the OpenReadout format readers
+2026-10-03T01:02:29.979028Z,glam_rect,0.1.0,0,0,https://github.com/HappySunChild/glam-rect,A rectangle extension crate for `glam-rs`
+2026-10-03T01:02:58.87695Z,oliphaunt-seed-native-windows-x64-msvc-standard,0.2.2,0,0,https://github.com/f0rr0/oliphaunt,PostgreSQL native standard cluster seed for windows-x64-msvc.
+2026-10-03T01:03:01.064206Z,oliphaunt-seed-wasix-standard,0.2.2,0,0,https://github.com/f0rr0/oliphaunt,PostgreSQL wasix standard cluster seed for portable.
+2026-10-03T01:03:02.973622Z,liboliphaunt-native-bindings,0.2.0,0,0,https://github.com/f0rr0/oliphaunt,Rust bindings and database resource management for native liboliphaunt.
+2026-10-03T01:03:22.249836Z,oliphaunt-query,0.1.1,0,0,https://github.com/f0rr0/oliphaunt,"PostgreSQL query encoding, result decoding and shared types for Oliphaunt SDKs."
+2026-10-03T01:03:32.399981Z,oliphaunt-seed-native-android-datum64-icu,0.2.2,0,0,https://github.com/f0rr0/oliphaunt,PostgreSQL native icu cluster seed for android-datum64.
+2026-10-03T01:04:38.515628Z,copal-store,0.1.0,0,0,https://github.com/Oneiriq/copal,Copal metadata plane: SurrealDB schema-as-code and repositories via surql-rs.
+2026-10-03T01:07:02.868768Z,hatchery-observation-engine,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,Bounded in-memory reducer projecting gate4agent observation ingress into session state
+2026-10-03T01:12:19.115401Z,openreadout-dcimg,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Hamamatsu DCIMG camera streams, part of OpenReadout"
+2026-10-03T01:16:07.887373Z,copal-flow,0.1.0,0,0,https://github.com/Oneiriq/copal,Copal durable execution: activity registry and the journaled pipeline engine.
+2026-10-03T01:17:15.658506Z,hatchery-observation-store,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,"SQLite durability for validated, monitoring-only gate4agent observation operations"
