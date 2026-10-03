@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T01:22:20.132964Z,openreadout-echem,0.1.0,0,0,https://github.com/openreadout/openreadout,"Readers for electrochemistry and battery-cycler files, part of OpenReadout"
+2026-10-03T01:23:18.814505Z,dace-rs,0.1.0,0,0,https://github.com/cislunarspace/dace-rs,"Pure Rust implementation of DACE, the Differential Algebra Computational Toolbox"
+2026-10-03T01:26:56.338058Z,cppu,1.2.0,0,0,https://github.com/voximir-p/cppu,"A C/C++ utility tool for competitive programming. It can compile your code, read input from a file, write output to another file, and amalgamate local #includes into a single self-contained source."
+2026-10-03T01:27:21.45906Z,hatchery-observation-service,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,Single-writer durable authority combining the gate4agent observation engine and SQLite store
+2026-10-03T01:27:28.79495Z,copal-server,0.1.0,0,0,https://github.com/Oneiriq/copal,Copal HTTP API: the axum serving layer over the store and blob planes.
+2026-10-03T01:32:21.057468Z,openreadout-em,0.1.0,0,0,https://github.com/openreadout/openreadout,"Readers for electron-microscopy files, part of OpenReadout"
+2026-10-03T01:36:02.826147Z,mpris-lyrics,0.1.0,0,0,https://codeberg.org/AMA147000/mpris-lyrics,A simple Linux CLI that displays synced lyrics from the MPRIS `xesam:asText` property
+2026-10-03T01:38:01.79234Z,hatchery-harness-service,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,Single-writer SQLite authority and operator host for the hatchery harness kernel (bin hatchery-harness)
+2026-10-03T01:38:15.699344Z,everruns-serve-agentcore,0.34.2,0,0,https://github.com/everruns/everruns,"Run a serve app (experimental) on Amazon Bedrock AgentCore Runtime: /ping, /invocations, port 8080"
+2026-10-03T01:40:49.293869Z,dregs,0.1.0,0,0,https://github.com/dregs-sdk/dregs-sdk-rust,"The official Rust client for Dregs, which scores the users of your application for fraud and abuse."
+2026-10-03T01:41:51.777602Z,everruns-serve-celld,0.34.2,0,0,https://github.com/everruns/everruns,"Run a serve app (experimental) durably on celld: a container whose state a Durable Object snapshots, restores and replays"
+2026-10-03T01:42:20.954504Z,openreadout-ephys,0.1.0,0,0,https://github.com/openreadout/openreadout,"Readers for electrophysiology recorders without a crate of their own, part of OpenReadout"
+2026-10-03T01:43:31.506137Z,vanitty,26.10.0,0,0,https://github.com/stasadance/vanitty,"A fast, native terminal built with Rust and Tauri"
+2026-10-03T01:48:16.833005Z,hatchery-harness-light,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,"Stateless in-process light harness: serves the same operator wire as hatchery-harness-service, backed directly by C2 instead of the SWC task kernel"
+2026-10-03T01:52:04.570784Z,oliphaunt-seed-native-ios-datum64-icu,0.2.2,0,0,https://github.com/f0rr0/oliphaunt,PostgreSQL native icu cluster seed for ios-datum64.
+2026-10-03T01:52:07.070753Z,oliphaunt-seed-native-linux-arm64-gnu-icu,0.2.2,0,0,https://github.com/f0rr0/oliphaunt,PostgreSQL native icu cluster seed for linux-arm64-gnu.
+2026-10-03T01:52:09.455481Z,oliphaunt-seed-native-linux-x64-gnu-icu,0.2.2,0,0,https://github.com/f0rr0/oliphaunt,PostgreSQL native icu cluster seed for linux-x64-gnu.
+2026-10-03T01:52:11.773828Z,oliphaunt-seed-native-macos-arm64-icu,0.2.2,0,0,https://github.com/f0rr0/oliphaunt,PostgreSQL native icu cluster seed for macos-arm64.
+2026-10-03T01:52:13.78164Z,oliphaunt-seed-native-windows-x64-msvc-icu,0.2.2,0,0,https://github.com/f0rr0/oliphaunt,PostgreSQL native icu cluster seed for windows-x64-msvc.
+2026-10-03T01:52:19.154084Z,openreadout-epr,0.1.0,0,0,https://github.com/openreadout/openreadout,"Readers for Bruker electron paramagnetic resonance (EPR) files, part of OpenReadout"
+2026-10-03T01:58:39.320147Z,hatchery-harness-mcp,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,MCP stdio adapter exposing the grant-filtered hatchery harness read API to MCP clients
+2026-10-03T01:59:50.107322Z,stegobench-core,1.0.0,0,0,https://github.com/elementmerc/stegobench,"Result, run and manifest schemas, and the corpus model, for stegobench"
+2026-10-03T01:59:51.398187Z,stegobench-metrics,1.0.0,0,0,https://github.com/elementmerc/stegobench,"ROC AUC, detection at a fixed false-alarm rate, and confusion counts"
+2026-10-03T01:59:54.24277Z,stegobench-plugin,1.0.0,0,0,https://github.com/elementmerc/stegobench,The plugin protocol and the host that runs plugins
+2026-10-03T01:59:56.713502Z,stegobench-cli,1.0.0,0,0,https://github.com/elementmerc/stegobench,The stegobench command
+2026-10-03T02:00:12.39927Z,solana-attestation,0.0.0,0,0,,A short description to release a future version of solana-attestation
+2026-10-03T02:00:24.330514Z,oliphaunt-seed-wasix-icu,0.2.2,0,0,https://github.com/f0rr0/oliphaunt,PostgreSQL wasix icu cluster seed for portable.
+2026-10-03T02:02:21.004639Z,openreadout-fcs,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for FCS (Flow Cytometry Standard) files, part of OpenReadout"
+2026-10-03T02:05:09.835194Z,treewalker-gbdt,1.0.0,0,0,https://github.com/Shopify/treewalker,Grouped tree-ensemble inference via recursive partial evaluation
+2026-10-03T02:08:44.622458Z,hatchery-arcade-engine,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,Deterministic mini-game engine and multi-tier terminal renderer.
+2026-10-03T02:12:19.429402Z,openreadout-fplc,0.1.0,0,0,https://github.com/openreadout/openreadout,"Readers for Cytiva ÄKTA/UNICORN protein-purification results, part of OpenReadout"
+2026-10-03T02:18:50.842406Z,hatchery-arcade-pet-bastion,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,Pet Bastion: Night Garden -- a deterministic tower-defense run.
+2026-10-03T02:20:25.350102Z,oliphaunt-broker,0.3.0,0,0,https://github.com/f0rr0/oliphaunt,Oliphaunt broker helper process for process-isolated embedded PostgreSQL.
