@@ -1,0 +1,58 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T06:22:21.077116Z,openreadout-hdf5,0.1.0,0,0,https://github.com/openreadout/openreadout,"Pure-Rust readers for HDF5-based formats such as Imaris IMS and NWB, part of OpenReadout"
+2026-10-03T06:22:50.288417Z,glovebox,0.0.1,0,0,https://github.com/jon-atkinson/glovebox,Sandboxed Claude Code environments driven from zellij (name reserved; under development)
+2026-10-03T06:23:09.127776Z,mlmf-core,0.5.8,0,0,https://github.com/CireSnave/mlmf,"Vocabulary and traits for machine learning model files. No I/O, no tensor types, no backend."
+2026-10-03T06:23:09.925553Z,mlmf-exl2,0.5.8,0,0,https://github.com/CireSnave/mlmf,EXL2 detection and refusal. Not a geometry crate -- see docs/superpowers/specs/2026-10-01-quantized-safetensors-formats-design.md §1.3/§3.3 for why.
+2026-10-03T06:23:11.033018Z,mlmf-awq,0.5.8,0,0,https://github.com/CireSnave/mlmf,"AWQ quantization geometry: locate packed linear layers in a safetensors container and parse both real quant_config.json conventions. No I/O, no dequantization."
+2026-10-03T06:23:11.546274Z,mlmf-ggml,0.5.8,0,0,https://github.com/CireSnave/mlmf,"Geometry of ggml quantization types. No I/O, no dequantization."
+2026-10-03T06:23:12.515915Z,mlmf-gptq,0.5.8,0,0,https://github.com/CireSnave/mlmf,"GPTQ quantization geometry: locate packed linear layers in a safetensors container and parse quantize_config.json. No I/O, no dequantization."
+2026-10-03T06:24:16.924939Z,clock-kit,0.1.0,0,0,https://github.com/WyattAu/clock-kit,"Time-source abstraction for Rust — monotonic/wall separation, TSC calibration, PTP quality detection, deterministic test clock"
+2026-10-03T06:26:24.09953Z,shielded-bitcoin,0.0.1,0,0,,Shielded Bitcoin — Rust library under development
+2026-10-03T06:26:38.211341Z,n3v3-typeck,5.0.1,0,0,https://github.com/MCB-SMART-BOY/n3v3,Type checking for n3v3
+2026-10-03T06:27:04.780174Z,clawlog,0.1.0,0,0,https://github.com/saefstroem/clawlog,Log every prompt and response that is sent in-between you and your LLM of choice.
+2026-10-03T06:27:37.050734Z,mlmf-hf-layout,0.5.8,0,0,https://github.com/CireSnave/mlmf,HuggingFace shard index: where each tensor lives. Bytes to structure; no I/O.
+2026-10-03T06:32:20.487912Z,openreadout-nd2,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Nikon ND2 microscopy files, part of OpenReadout"
+2026-10-03T06:35:43.279798Z,xcelerate-stealth,1.0.7,0,0,https://github.com/AzzoDude/xcelerate,Stealth helpers (binary patching and detached process management) for xcelerate.
+2026-10-03T06:36:27.883238Z,nostr-pubsub-reconcile,0.1.0,0,0,https://github.com/mmalmi/nostr-pubsub,"Bounded, transport-independent Negentropy reconciliation for native and browser clients"
+2026-10-03T06:36:40.760453Z,xcelerate-core,1.0.7,0,0,https://github.com/AzzoDude/xcelerate,Transport and typed command layer for xcelerate (Chrome DevTools Protocol).
+2026-10-03T06:36:41.796415Z,n3v3-eval,5.0.1,0,0,https://github.com/MCB-SMART-BOY/n3v3,Interpreter/evaluator for n3v3
+2026-10-03T06:37:38.694709Z,mlmf-meta,0.5.8,0,0,https://github.com/CireSnave/mlmf,"Canonical key vocabulary and declared-metadata extraction. Structure to structure; no I/O, no format knowledge."
+2026-10-03T06:38:20.733077Z,aphrody-wii,0.1.1,0,0,,Portable Wii executable loading and Broadway branch execution
+2026-10-03T06:38:26.873929Z,aphrody-aarch64,0.1.1,0,0,,Portable AArch64 decoder and bounded interpreter extracted from rdynarmic
+2026-10-03T06:39:29.34838Z,kcode-k1-text-inference,0.1.0,0,0,,Generic one-round Codex text inference for K1
+2026-10-03T06:40:00.745485Z,kcode-k1-http-text-inference-representation,0.1.0,0,0,,Strict HTTP representation for generic K1 text inference
+2026-10-03T06:41:27.658469Z,kcode-k1-http-text-inference-testkit,0.1.0,0,0,,Provider-free signed HTTP conformance for K1 text inference
+2026-10-03T06:42:20.848368Z,openreadout-quant,0.1.0,0,0,https://github.com/openreadout/openreadout,Chromatogram extraction and peak integration for OpenReadout
+2026-10-03T06:42:38.341562Z,bb-helper,0.1.0,0,0,https://github.com/beagleboard/bb-imager-rs,Small helper utilities shared across the BeagleBoard.org imaging tools
+2026-10-03T06:42:42.616932Z,kcode-k1-http-text-inference,0.1.0,0,0,,Authenticated HTTP adapter for generic K1 text inference
+2026-10-03T06:43:19.581803Z,wire-kit,0.1.0,0,0,https://github.com/WyattAu/wire-kit,"Zero-copy binary wire codecs — SBE block encoding/decoding and FIX 4.4 tag=value, bounds-checked, allocation-free decode"
+2026-10-03T06:46:40.362081Z,n3v3-frontend,5.0.1,0,0,https://github.com/MCB-SMART-BOY/n3v3,Frontend analysis pipeline for n3v3 (parse + lower + type check)
+2026-10-03T06:47:27.780137Z,hex-proto,0.1.1,0,0,https://github.com/k4black/hex,"Internal crate of hex: versioned control protocol (events, commands, capabilities). No stable API; install hex-cli instead."
+2026-10-03T06:47:31.270533Z,hex-kernel,0.1.1,0,0,https://github.com/k4black/hex,"Internal crate of hex: pure deterministic kernel (graph IR, journal, reduce + schedule). No stable API; install hex-cli instead."
+2026-10-03T06:47:35.845122Z,hex-worker,0.1.1,0,0,https://github.com/k4black/hex,Internal crate of hex: Worker trait and agent CLI adapters. No stable API; install hex-cli instead.
+2026-10-03T06:47:36.916024Z,mlmf-source-file,0.5.8,0,0,https://github.com/CireSnave/mlmf,"Opens local files as mlmf-core byte sources. I/O only, no format knowledge."
+2026-10-03T06:47:45.179875Z,hex-runtime,0.1.1,0,0,https://github.com/k4black/hex,"Internal crate of hex: drive loop, effect execution, journal writer, run supervision. No stable API; install hex-cli instead."
+2026-10-03T06:48:02.802138Z,hex-cli,0.1.1,0,0,https://github.com/k4black/hex,"hex: a thin, deterministic control plane that runs agent CLIs (Claude Code, Codex, Pi, opencode) over a bounded, journaled graph"
+2026-10-03T06:52:21.86046Z,openreadout-spectro,0.1.0,0,0,https://github.com/openreadout/openreadout,"Readers for IR, Raman and UV-Vis spectroscopy files, part of OpenReadout"
+2026-10-03T06:53:07.778055Z,cbox-tui,0.1.0,0,0,https://github.com/mukh4w/cbox,"A tiny Rust TUI launcher for saving, fuzzy-finding, and injecting project-local shell commands. (Command Box)"
+2026-10-03T06:53:22.351315Z,lib-unknown,0.1.0,0,0,https://github.com/ZEROLINGG/lib-unknown,一个神秘的共享库
+2026-10-03T06:56:43.665217Z,n3v3-std,5.0.1,0,0,https://github.com/MCB-SMART-BOY/n3v3,Standard library for n3v3
+2026-10-03T06:57:36.048689Z,mlmf-source-hub,0.5.8,0,0,https://github.com/CireSnave/mlmf,"HuggingFace Hub fetch + cache. I/O only, no format knowledge. The only crate in this workspace with a TLS edge (spec §3.2)."
+2026-10-03T07:02:22.037262Z,openreadout-tiff,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for TIFF-based microscopy and whole-slide formats, part of OpenReadout"
+2026-10-03T07:03:44.637804Z,sd2dinit,0.2.0,0,0,https://gitlab.cherkaoui.ch/HadiCherkaoui/sd2dinit,Convert systemd .service unit files to dinit service files
+2026-10-03T07:06:34.529216Z,griffin-macros,0.0.0,0,0,https://github.com/joeteerawit/griffin,"Griffin web framework: procedural macros (html!, routes!, derives). Placeholder release while the framework is being designed."
+2026-10-03T07:06:38.122773Z,griffin-domain,0.0.0,0,0,https://github.com/joeteerawit/griffin,"Griffin web framework: changesets and input parsing for domain crates, with no HTTP dependency. Placeholder release while the framework is being designed."
+2026-10-03T07:06:41.510098Z,griffin-web,0.0.0,0,0,https://github.com/joeteerawit/griffin,"Griffin web framework: router, LiveView, templates and controllers on axum, inspired by Phoenix. Placeholder release while the framework is being designed."
+2026-10-03T07:06:45.171198Z,cargo-griffin,0.0.0,0,0,https://github.com/joeteerawit/griffin,"Griffin web framework: the cargo griffin command (new, dev, gen, db). Placeholder release while the framework is being designed."
+2026-10-03T07:06:46.393197Z,n3v3-config,5.0.1,0,0,https://github.com/MCB-SMART-BOY/n3v3,System configuration and generation management for n3v3
+2026-10-03T07:07:38.102707Z,mlmf-gguf,0.5.8,0,0,https://github.com/CireSnave/mlmf,"Reads GGUF metadata. No I/O, no interpretation."
+2026-10-03T07:12:04.881809Z,perspicax-node,0.1.0,0,0,https://github.com/Awakened-Labs/Perspicax,"The node schema: AccessKit's types, plus the two things only a compositor can supply -- where a node came from, and whether it can actually be seen."
+2026-10-03T07:12:11.947761Z,perspicax-policy,0.1.0,0,0,https://github.com/Awakened-Labs/Perspicax,"Window-management decisions as data: which window gets focus, what gets raised, which chord means what. No Smithay; the compositor executes what this decides."
+2026-10-03T07:12:12.979491Z,perspicax-config,0.1.0,0,0,https://github.com/Awakened-Labs/Perspicax,"config.toml: the schema, the classic and minimal profiles, and the check that a key names something this build has. Pure; the compositor applies what it returns."
+2026-10-03T07:12:13.621629Z,perspicax-index,0.1.0,0,0,https://github.com/Awakened-Labs/Perspicax,"The semantic index: node cache, stable ids, and the refusal gate. Portable by construction -- neither Wayland nor D-Bus appears in its dependency graph."
+2026-10-03T07:12:17.68433Z,perspicax-atspi,0.1.0,0,0,https://github.com/Awakened-Labs/Perspicax,"impl Ingest over AT-SPI2. Reads stock GTK and Qt with no patched toolkit build -- slow, and deliberately first."
+2026-10-03T07:12:19.813332Z,openreadout-vsi,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Olympus/Evident cellSens VSI files, part of OpenReadout"
+2026-10-03T07:14:20.695321Z,perspicax-compositor,0.1.0,0,0,https://github.com/Awakened-Labs/Perspicax,"impl HostView on Smithay: outputs, xdg-shell, seat, and the damage feed that drives invalidation."
+2026-10-03T07:16:55.54576Z,freyacn_macros,0.0.0,0,0,https://github.com/brightmadueke/freyacn-macros,Helper macros for freyacn
+2026-10-03T07:16:57.340778Z,n3v3-lsp,5.0.1,0,0,https://github.com/MCB-SMART-BOY/n3v3,Language Server Protocol implementation for n3v3
+2026-10-03T07:17:37.291064Z,mlmf-safetensors,0.5.8,0,0,https://github.com/CireSnave/mlmf,"Reads safetensors headers and tensor directories. No I/O, no interpretation."
