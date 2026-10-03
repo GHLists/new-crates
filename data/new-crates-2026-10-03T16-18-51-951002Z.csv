@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T15:21:17.974721Z,frust-theme,0.5.0,0,0,https://github.com/frust-rs/frust,"Design-token crate for Frust: the Theme aggregate, token tables, and the builder and extension seams a design system composes."
+2026-10-03T15:25:04.470024Z,gpui-alloy-async-process,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,Async interface for working with processes
+2026-10-03T15:25:05.507531Z,gpui-alloy-async-tar,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,"A Rust implementation of an async TAR file reader and writer. This library does not currently handle compression, but it is abstract over all I/O readers and writers. Additionally, great lengths are…"
+2026-10-03T15:25:06.950604Z,gpui-alloy-derive-refineable,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,A derive macro for creating refinement types in Rust
+2026-10-03T15:25:08.58286Z,gpui-alloy-font-kit,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,A cross-platform font loading library
+2026-10-03T15:25:09.9401Z,gpui-alloy-http-client-tls,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,GPUI Alloy distribution of http_client_tls
+2026-10-03T15:28:24.68038Z,gpui-alloy-macros,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,Macros used by gpui
+2026-10-03T15:31:22.980004Z,frust-shell-common,0.5.0,0,0,https://github.com/frust-rs/frust,"Platform-agnostic shell plumbing shared by the Frust platform shells: app-tree erasure, FFI guards, window metrics and insets."
+2026-10-03T15:41:15.683101Z,frust-shell-desktop,0.5.0,0,0,https://github.com/frust-rs/frust,"Desktop shell for Frust: winit window and event loop, input, rendering and the extension seam used by the per-OS desktop shells."
+2026-10-03T15:43:14.940922Z,tickerapp,0.1.0,0,0,,Unofficial typed async client for the Ticker.app market data API
+2026-10-03T15:50:11.406313Z,wakuwaku-proof,0.1.0,0,0,https://github.com/suitsu31-club/wakuwaku,Proof-carrying validation for wakuwaku
+2026-10-03T15:51:17.096613Z,frust-shell-linux,0.5.0,0,0,https://github.com/frust-rs/frust,"Linux desktop shell for Frust: Wayland app_id, X11 WM_CLASS and window icon on top of frust-shell-desktop."
+2026-10-03T15:51:20.368116Z,ffrm,0.1.0,0,0,https://github.com/gaoyia/ffrm,查看谁占用了本地文件，解除占用，并删除文件
+2026-10-03T15:51:23.578174Z,gpui-alloy-util,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,GPUI Alloy distribution of gpui_util
+2026-10-03T15:59:15.535318Z,gpui-alloy-shared-string,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,GPUI Alloy distribution of gpui_shared_string
+2026-10-03T16:00:55.580763Z,frust-shell-macos,0.5.0,0,0,https://github.com/frust-rs/frust,macOS desktop shell for Frust: native AppKit menu bar and platform integration on top of frust-shell-desktop.
+2026-10-03T16:02:40.094211Z,overdosecd,0.1.0,0,0,https://github.com/Dead-Abyss/overdosecd,A smart directory and project jumper for the terminal
+2026-10-03T16:04:16.252726Z,rutis-loader,0.1.0,0,0,https://github.com/arcships/rutis,"Data-driven plugin management for rutis: layered desired state, reconcile, editable layer and persistence hook"
+2026-10-03T16:04:23.681749Z,invx,0.1.0,0,0,https://github.com/5n00py/invx,"Semantic e-invoice parsing, validation, conversion and comparison for Rust"
+2026-10-03T16:04:59.720489Z,syn-canon,0.1.0,0,0,https://github.com/LucaCappelletti94/cargo-dejadoc,"Canonical form of a syn file, equal across formatting drift and local binder names"
+2026-10-03T16:07:35.219311Z,tma-plugin-sdk,0.1.0,0,0,,"Tag My Audio plugin SDK, ABI types, macros, and signed package tooling"
+2026-10-03T16:07:47.99706Z,tma-plugin-dev,0.1.0,0,0,,Tag My Audio plugin development CLI: ed25519 keygen/pubkey and .tmap pack
+2026-10-03T16:08:37.170562Z,expat-rs,0.2.0,0,0,https://github.com/Gordion-Solutions/expat-rs,"Memory-safe XML 1.0 parser: streaming, namespaces, hardened against hostile input; aims for libexpat-level conformance"
+2026-10-03T16:10:24.894856Z,gpui-alloy-scheduler,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,GPUI Alloy distribution of scheduler
+2026-10-03T16:11:38.389192Z,frust-shell-web,0.5.0,0,0,https://github.com/frust-rs/frust,Browser shell for Frust: runs a Frust app on a canvas in the browser via winit and WebAssembly.
