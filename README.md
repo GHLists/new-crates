@@ -8,42 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 08:19 UTC
+## Latest list — 2026-10-03 09:20 UTC
 
-New crates published between 2026-10-03 07:18 UTC and 2026-10-03 08:19 UTC.
+New crates published between 2026-10-03 08:19 UTC and 2026-10-03 09:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-03T08-19-15-778309Z.csv)
+[Full CSV](data/new-crates-2026-10-03T09-20-00-837736Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-03 07:22:07 | [ash-fsm](https://crates.io/crates/ash-fsm) | 0.1.0 | 0 | A configurable finite state machine library for Rust, inspired by AshStateMachi… |
-| 2026-10-03 07:22:19 | [openreadout-wsi](https://crates.io/crates/openreadout-wsi) | 0.1.0 | 0 | Readers for multi-file whole-slide formats such as 3DHISTECH MIRAX, part of Ope… |
-| 2026-10-03 07:24:20 | [perspicax-mcp](https://crates.io/crates/perspicax-mcp) | 0.1.0 | 0 | The agent interface: an MCP server over stdio. Tools, DTOs, and receipts. |
-| 2026-10-03 07:25:13 | [ash-log](https://crates.io/crates/ash-log) | 0.1.0 | 0 | Security audit logging for the ash-rpc ecosystem |
-| 2026-10-03 07:26:22 | [ash-jsonschema](https://crates.io/crates/ash-jsonschema) | 0.1.0 | 0 | A typed builder for JSON Schema 2020-12 — chain the keywords, call .build(), ge… |
-| 2026-10-03 07:26:54 | [ash-lock](https://crates.io/crates/ash-lock) | 0.1.0 | 0 | Distributed coordination / locking for the ash-* ecosystem (etcd-backed; in-mem… |
-| 2026-10-03 07:28:03 | [manza](https://crates.io/crates/manza) | 1.0.0 | 0 | Rust SDK for the Manza API |
-| 2026-10-03 07:32:18 | [syd-format](https://crates.io/crates/syd-format) | 0.1.3 | 0 | binary format for chess game tree |
-| 2026-10-03 07:32:20 | [openreadout-hcs](https://crates.io/crates/openreadout-hcs) | 0.1.0 | 0 | Readers for high-content screening plates, part of OpenReadout |
-| 2026-10-03 07:34:23 | [perspicax](https://crates.io/crates/perspicax) | 0.1.0 | 0 | An agent-native Wayland compositor: everything on screen as a typed, addressabl… |
-| 2026-10-03 07:40:08 | [gns3fy-rs](https://crates.io/crates/gns3fy-rs) | 0.1.0 | 0 | Rust wrapper around the GNS3 server REST API (port of the Python gns3fy library) |
-| 2026-10-03 07:42:20 | [openreadout-lif](https://crates.io/crates/openreadout-lif) | 0.1.0 | 0 | Reader for Leica LIF microscopy files, part of OpenReadout |
-| 2026-10-03 07:42:37 | [ash-domain-macros](https://crates.io/crates/ash-domain-macros) | 0.1.0 | 0 | Derive macros for ash-domain: #[derive(Resource)] and friends |
-| 2026-10-03 07:42:49 | [ash-domain](https://crates.io/crates/ash-domain) | 0.1.0 | 0 | Declarative, resource-oriented application core for Rust — model your domain, d… |
-| 2026-10-03 07:44:06 | [wintun-rs](https://crates.io/crates/wintun-rs) | 0.0.4 | 0 | Native Safe Rust library and userspace bindings for Wintun (WireGuard) TUN devi… |
-| 2026-10-03 07:44:22 | [perspicax-probe](https://crates.io/crates/perspicax-probe) | 0.1.0 | 0 | Dev CLI: dump a semantic tree, time a read, explain a refusal. The tool that ma… |
-| 2026-10-03 07:46:33 | [ash-jsonapi](https://crates.io/crates/ash-jsonapi) | 0.1.0 | 0 | JSON:API adapter for ash-domain, served over axum. |
-| 2026-10-03 07:50:30 | [rungui](https://crates.io/crates/rungui) | 0.1.0 | 0 | Small portable native GUI library: a thin layer over GTK3, Win32 and AppKit wit… |
-| 2026-10-03 07:52:20 | [openreadout-mzml](https://crates.io/crates/openreadout-mzml) | 0.1.0 | 0 | Streaming readers for the open mass-spectrometry formats mzML and mzXML, part o… |
-| 2026-10-03 07:52:39 | [intyga-verify](https://crates.io/crates/intyga-verify) | 0.0.0 | 0 | Placeholder that only reserves this name for the INTYGA release workflow. It co… |
-| 2026-10-03 07:52:53 | [intyga-sdk](https://crates.io/crates/intyga-sdk) | 0.0.0 | 0 | Placeholder that only reserves this name for the INTYGA release workflow. It co… |
-| 2026-10-03 07:56:11 | [pgcel](https://crates.io/crates/pgcel) | 0.1.0 | 0 | PostgreSQL plugin to provide Google's Common Expression Language in queries |
-| 2026-10-03 08:02:19 | [openreadout-oif](https://crates.io/crates/openreadout-oif) | 0.1.0 | 0 | Reader for Olympus FluoView OIF and OIB microscopy data sets, part of OpenReado… |
-| 2026-10-03 08:12:20 | [openreadout-ometiff](https://crates.io/crates/openreadout-ometiff) | 0.1.0 | 0 | OME-TIFF writer for OpenReadout exports |
-| 2026-10-03 08:18:49 | [taulerbox](https://crates.io/crates/taulerbox) | 0.6.0 | 0 | A native window that shows a tauler layout's Panels as pixel buffers, alongside… |
-| 2026-10-03 08:19:05 | [nibblit](https://crates.io/crates/nibblit) | 0.1.0 | 0 | Check equality for nibble literals and bit literals. |
-| 2026-10-03 08:19:07 | [clickless-core](https://crates.io/crates/clickless-core) | 0.1.0 | 0 | Platform-independent state machine for Clickless keyboard pointer control |
-| 2026-10-03 08:19:14 | [clickless-backend-api](https://crates.io/crates/clickless-backend-api) | 0.1.0 | 0 | Backend contracts and grid rendering for Clickless |
+| 2026-10-03 08:19:26 | [clickless-config](https://crates.io/crates/clickless-config) | 0.1.0 | 0 | Validated TOML configuration for Clickless |
+| 2026-10-03 08:19:42 | [clickless-output-enigo](https://crates.io/crates/clickless-output-enigo) | 0.1.0 | 0 | Enigo pointer output adapter for Clickless |
+| 2026-10-03 08:19:50 | [clickless-linux](https://crates.io/crates/clickless-linux) | 0.1.0 | 0 | Experimental Linux input and X11 overlays for Clickless |
+| 2026-10-03 08:22:20 | [openreadout-zarr](https://crates.io/crates/openreadout-zarr) | 0.1.0 | 0 | Reader for OME-Zarr images and plates, part of OpenReadout |
+| 2026-10-03 08:32:10 | [book-kit](https://crates.io/crates/book-kit) | 0.1.0 | 0 | Lock-free limit order book — price-time priority, single-writer/multi-reader sn… |
+| 2026-10-03 08:32:21 | [openreadout-omezarr](https://crates.io/crates/openreadout-omezarr) | 0.1.0 | 0 | OME-Zarr writer for OpenReadout exports |
+| 2026-10-03 08:32:31 | [zaxis-emoji](https://crates.io/crates/zaxis-emoji) | 0.0.1 | 0 | Bundled Noto Color Emoji font data for zaxis |
+| 2026-10-03 08:32:35 | [zaxis](https://crates.io/crates/zaxis) | 0.0.1 | 0 | An event-driven immediate mode GUI for desktop tools |
+| 2026-10-03 08:34:33 | [modem-device](https://crates.io/crates/modem-device) | 0.2.0 | 0 | The seam between the zenoh-modem driver and a physical or simulated medium |
+| 2026-10-03 08:34:49 | [modem-contract](https://crates.io/crates/modem-contract) | 0.2.0 | 0 | The management-plane contract of zenoh-modem: the registry, its payload types a… |
+| 2026-10-03 08:35:55 | [modem-mgmt](https://crates.io/crates/modem-mgmt) | 0.2.0 | 0 | The management plane of zenoh-modem as a library: serve every device on a host… |
+| 2026-10-03 08:42:20 | [obfstr2-macros](https://crates.io/crates/obfstr2-macros) | 0.1.1 | 0 | obfstr2 的过程宏实现：字符串/字节/文件编译期混淆入口 |
+| 2026-10-03 08:42:23 | [openreadout-index](https://crates.io/crates/openreadout-index) | 0.1.0 | 0 | Headers-only catalog of a lab file share, stored as Parquet, for search and sto… |
+| 2026-10-03 08:42:29 | [obfstr2](https://crates.io/crates/obfstr2) | 0.1.1 | 0 | 高度多态化的编译期字符串/字节/文件混淆库（no_std 兼容） |
+| 2026-10-03 08:47:19 | [hadris-apfs](https://crates.io/crates/hadris-apfs) | 2.5.0 | 0 | An experimental, read-only APFS container and filesystem reader |
+| 2026-10-03 08:48:18 | [hadris-apfs-cli](https://crates.io/crates/hadris-apfs-cli) | 2.5.0 | 0 | CLI for inspecting APFS containers with the experimental hadris-apfs reader |
+| 2026-10-03 08:48:29 | [crontext](https://crates.io/crates/crontext) | 1.0.0 | 0 | Human-friendly schedule parser for cron |
+| 2026-10-03 08:52:20 | [openreadout-live](https://crates.io/crates/openreadout-live) | 0.1.0 | 0 | Reading files while instruments still write them: a directory watcher and live… |
+| 2026-10-03 08:53:28 | [hoist-cli](https://crates.io/crates/hoist-cli) | 0.1.1 | 0 | Upload and download files to cloud storage from the terminal |
+| 2026-10-03 08:57:51 | [enable-ansi](https://crates.io/crates/enable-ansi) | 0.1.1 | 0 | tiny helper function to enable virtual terminal processing (ansii colors) in bu… |
+| 2026-10-03 08:58:34 | [dekopon-model-token-governor](https://crates.io/crates/dekopon-model-token-governor) | 0.31.0 | 0 | In-memory token budgets and per-call metering for Dekopon model traffic |
+| 2026-10-03 08:58:39 | [llmuxer-agent](https://crates.io/crates/llmuxer-agent) | 0.1.0 | 0 | Minimal agent loop for llmuxer: attach MCP servers and let any provider call th… |
+| 2026-10-03 09:02:10 | [lotus-lantern](https://crates.io/crates/lotus-lantern) | 0.1.0 | 0 | Async Rust client for Lotus Lantern / BLEDOM BLE LED-strip controllers (ELK-BLE… |
+| 2026-10-03 09:02:23 | [openreadout-batch](https://crates.io/crates/openreadout-batch) | 0.1.0 | 0 | Measurements across many instrument files as one table, with sample-sheet joins… |
+| 2026-10-03 09:05:36 | [dekopon-model-proxy](https://crates.io/crates/dekopon-model-proxy) | 0.31.0 | 0 | Metered model API proxy for Dekopon guest VMs |
+| 2026-10-03 09:11:46 | [fandhe-ai-onnx-interop](https://crates.io/crates/fandhe-ai-onnx-interop) | 0.10.0 | 0 | ONNX and safetensors interoperability (hand-written prost decoding, graph inter… |
+| 2026-10-03 09:12:14 | [godmode-core](https://crates.io/crates/godmode-core) | 0.8.0 | 0 | Core library for godmode: task graphs, session state, dispatch, and Claude Code… |
+| 2026-10-03 09:12:23 | [openreadout-mcp](https://crates.io/crates/openreadout-mcp) | 0.1.0 | 0 | MCP (Model Context Protocol) server that exposes OpenReadout operations as agen… |
 
 ## Data source
 
