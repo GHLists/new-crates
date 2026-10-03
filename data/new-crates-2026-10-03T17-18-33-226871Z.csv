@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T16:19:09.370733Z,gpui-alloy-path,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,GPUI Alloy distribution of path
+2026-10-03T16:20:52.037165Z,frust-shell-windows,0.5.0,0,0,https://github.com/frust-rs/frust,"Windows desktop shell for Frust: native Win32 menu bar, window icons and app identity on top of frust-shell-desktop."
+2026-10-03T16:21:19.298903Z,rapidapi-insightsentry,0.1.0,0,0,,Unofficial typed async client for InsightSentry through RapidAPI
+2026-10-03T16:24:04.121399Z,insightsentry,0.1.0,0,0,,Unofficial typed async client for the direct InsightSentry API
+2026-10-03T16:24:21.357819Z,arcsec-io,0.5.0,0,0,https://github.com/cruzzil/arcsec,"Image readers for the arcsec plate solver: FITS, XISF and ASDF pixels and pointing metadata"
+2026-10-03T16:24:33.215738Z,libarcsec,0.5.0,0,0,https://github.com/cruzzil/arcsec,C library interface to the arcsec plate solver (libarcsec)
+2026-10-03T16:28:01.018497Z,atrius-index,0.1.0,0,0,https://github.com/Black-Rainbow-Labs/atrius-index,"A code search index: ripgrep's exact results from a trigram index, definitions and uses, fragments and outlines, and plain English passage search, kept fresh by a file watcher in one Inillucent file…"
+2026-10-03T16:28:40.140204Z,gpui-alloy-reqwest,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,higher level HTTP client library
+2026-10-03T16:31:03.833977Z,atrius-cli,0.1.0,0,0,https://github.com/Black-Rainbow-Labs/atrius-index,"The atrius command line and the atrius-mcp server for the Atrius code index: ripgrep's exact results from an index, definitions, uses, fragments, outlines and plain English search."
+2026-10-03T16:31:04.56453Z,frust-tui,0.5.0,0,0,https://github.com/frust-rs/frust,"Mouse-first terminal workbench for scaffolding, running and debugging Frust apps, built on ratatui."
+2026-10-03T16:38:19.183824Z,gpui-alloy-ztracing-macro,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,GPUI Alloy distribution of ztracing_macro
+2026-10-03T16:40:56.826105Z,qiongli-bounded-alloc,2.2.0,0,0,https://github.com/jxpeng98/qiongli,Small allocation boundary for isolated native document workers
+2026-10-03T16:40:57.399847Z,frust-cli,0.5.0,0,0,https://github.com/frust-rs/frust,"The `frust` command-line tool: scaffold, run, build and diagnose Frust apps on desktop, Android and iOS, or open the terminal workbench."
+2026-10-03T16:41:06.594914Z,judgment,0.3.0,0,0,https://github.com/chussenot/judgment,"Typed, calibrated judgments from TypeSafe System One models (Jev) and compatible backends: questions with typed handles, validated probabilities, SDK-default retries, differences stated"
+2026-10-03T16:47:26.377103Z,furcule-core,0.1.0,0,0,https://github.com/y0sif/furcule,"Graph model, propagation, branching and checks for Furcule, the assumption-first reasoning graph"
+2026-10-03T16:47:28.555405Z,furcule-mcp,0.1.0,0,0,https://github.com/y0sif/furcule,MCP server exposing Furcule reasoning graphs to coding agents and chat apps
+2026-10-03T16:47:30.818299Z,furcule-server,0.1.0,0,0,https://github.com/y0sif/furcule,Local HTTP server that serves the Furcule viewer and a small REST and SSE API
+2026-10-03T16:47:33.656449Z,furcule,0.1.0,0,0,https://github.com/y0sif/furcule,"Assumption-first reasoning graph. Turn any text into facts, assumptions and conclusions, negate an assumption and watch what falls, branch and diff"
+2026-10-03T16:49:38.055796Z,webmedia,0.1.0,0,0,,Standalone raster image and streaming video decoders for Rust applications
+2026-10-03T16:50:25.902377Z,gpui-alloy-collections,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,Standard collection types used by Zed and GPUI
+2026-10-03T16:51:04.645756Z,frust-url-launcher,0.5.0,0,0,https://github.com/frust-rs/frust,"URL launcher plugin for Frust apps: opens an http or https URL in the default external handler on Android, iOS, macOS, Linux and Windows."
+2026-10-03T16:52:37.522088Z,ipg,0.1.1,0,0,https://github.com/nervosys/IronPrivacyGuard,Agent-first privacy CLI and discoverable cryptographic workflows on IronCrypto
+2026-10-03T17:02:14.945071Z,frust-auth-session,0.5.0,0,0,https://github.com/frust-rs/frust,"In-app browser authentication sessions for Frust apps: Android Custom Tabs, Apple ASWebAuthenticationSession, and a desktop loopback listener."
+2026-10-03T17:02:18.725858Z,nim,0.0.0,0,0,https://github.com/aacebo/nim,placeholder
+2026-10-03T17:03:32.452092Z,libcrew,0.1.0,0,0,https://github.com/StGerman/crewd,The snapshot types and ops-API client shared by crewd and crewctl.
+2026-10-03T17:03:34.270328Z,crewctl,0.1.0,0,0,https://github.com/StGerman/crewd,Client for crewd: reads what a running daemon is doing over its ops API.
+2026-10-03T17:03:35.067457Z,crewd,0.1.0,0,0,https://github.com/StGerman/crewd,"Tracker-driven orchestrator for Claude Code agents: a worktree, a session and a pull request per issue. The `crew` library inside is internal, with no API promise."
+2026-10-03T17:04:24.218212Z,rustic_trees,0.1.0,0,0,https://github.com/JustJazzFR/rustic_trees,Tree library (contianing Binary and N-ary trees) made in C and Rust
+2026-10-03T17:06:56.834332Z,gpui-alloy-refineable,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,A macro for creating 'refinement' types that can be used to partially initialize or mutate a complex struct
+2026-10-03T17:09:54.397492Z,coopgame,0.1.0,0,0,https://github.com/matsu7874/coopgame,TU協力ゲームの仁・プレ仁・カーネル・プレカーネルの計算と検証
+2026-10-03T17:10:23.384629Z,frust-widgets,0.5.0,0,0,https://github.com/frust-rs/frust,"Baseline widget set for Frust: text, buttons, images, flex, stack and scroll containers, and the authoring helpers for custom widgets."

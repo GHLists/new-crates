@@ -8,39 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 16:18 UTC
+## Latest list — 2026-10-03 17:18 UTC
 
-New crates published between 2026-10-03 15:18 UTC and 2026-10-03 16:18 UTC.
+New crates published between 2026-10-03 16:18 UTC and 2026-10-03 17:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-03T16-18-51-951002Z.csv)
+[Full CSV](data/new-crates-2026-10-03T17-18-33-226871Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-03 15:21:17 | [frust-theme](https://crates.io/crates/frust-theme) | 0.5.0 | 0 | Design-token crate for Frust: the Theme aggregate, token tables, and the builde… |
-| 2026-10-03 15:25:04 | [gpui-alloy-async-process](https://crates.io/crates/gpui-alloy-async-process) | 0.1.0 | 0 | Async interface for working with processes |
-| 2026-10-03 15:25:05 | [gpui-alloy-async-tar](https://crates.io/crates/gpui-alloy-async-tar) | 0.1.0 | 0 | A Rust implementation of an async TAR file reader and writer. This library does… |
-| 2026-10-03 15:25:06 | [gpui-alloy-derive-refineable](https://crates.io/crates/gpui-alloy-derive-refineable) | 0.1.0 | 0 | A derive macro for creating refinement types in Rust |
-| 2026-10-03 15:25:08 | [gpui-alloy-font-kit](https://crates.io/crates/gpui-alloy-font-kit) | 0.1.0 | 0 | A cross-platform font loading library |
-| 2026-10-03 15:25:09 | [gpui-alloy-http-client-tls](https://crates.io/crates/gpui-alloy-http-client-tls) | 0.1.0 | 0 | GPUI Alloy distribution of http_client_tls |
-| 2026-10-03 15:28:24 | [gpui-alloy-macros](https://crates.io/crates/gpui-alloy-macros) | 0.1.0 | 0 | Macros used by gpui |
-| 2026-10-03 15:31:22 | [frust-shell-common](https://crates.io/crates/frust-shell-common) | 0.5.0 | 0 | Platform-agnostic shell plumbing shared by the Frust platform shells: app-tree… |
-| 2026-10-03 15:41:15 | [frust-shell-desktop](https://crates.io/crates/frust-shell-desktop) | 0.5.0 | 0 | Desktop shell for Frust: winit window and event loop, input, rendering and the… |
-| 2026-10-03 15:43:14 | [tickerapp](https://crates.io/crates/tickerapp) | 0.1.0 | 0 | Unofficial typed async client for the Ticker.app market data API |
-| 2026-10-03 15:50:11 | [wakuwaku-proof](https://crates.io/crates/wakuwaku-proof) | 0.1.0 | 0 | Proof-carrying validation for wakuwaku |
-| 2026-10-03 15:51:17 | [frust-shell-linux](https://crates.io/crates/frust-shell-linux) | 0.5.0 | 0 | Linux desktop shell for Frust: Wayland app_id, X11 WM_CLASS and window icon on… |
-| 2026-10-03 15:51:20 | [ffrm](https://crates.io/crates/ffrm) | 0.1.0 | 0 | 查看谁占用了本地文件，解除占用，并删除文件 |
-| 2026-10-03 15:51:23 | [gpui-alloy-util](https://crates.io/crates/gpui-alloy-util) | 0.1.0 | 0 | GPUI Alloy distribution of gpui_util |
-| 2026-10-03 15:59:15 | [gpui-alloy-shared-string](https://crates.io/crates/gpui-alloy-shared-string) | 0.1.0 | 0 | GPUI Alloy distribution of gpui_shared_string |
-| 2026-10-03 16:00:55 | [frust-shell-macos](https://crates.io/crates/frust-shell-macos) | 0.5.0 | 0 | macOS desktop shell for Frust: native AppKit menu bar and platform integration… |
-| 2026-10-03 16:02:40 | [overdosecd](https://crates.io/crates/overdosecd) | 0.1.0 | 0 | A smart directory and project jumper for the terminal |
-| 2026-10-03 16:04:16 | [rutis-loader](https://crates.io/crates/rutis-loader) | 0.1.0 | 0 | Data-driven plugin management for rutis: layered desired state, reconcile, edit… |
-| 2026-10-03 16:04:23 | [invx](https://crates.io/crates/invx) | 0.1.0 | 0 | Semantic e-invoice parsing, validation, conversion and comparison for Rust |
-| 2026-10-03 16:04:59 | [syn-canon](https://crates.io/crates/syn-canon) | 0.1.0 | 0 | Canonical form of a syn file, equal across formatting drift and local binder na… |
-| 2026-10-03 16:07:35 | [tma-plugin-sdk](https://crates.io/crates/tma-plugin-sdk) | 0.1.0 | 0 | Tag My Audio plugin SDK, ABI types, macros, and signed package tooling |
-| 2026-10-03 16:07:47 | [tma-plugin-dev](https://crates.io/crates/tma-plugin-dev) | 0.1.0 | 0 | Tag My Audio plugin development CLI: ed25519 keygen/pubkey and .tmap pack |
-| 2026-10-03 16:08:37 | [expat-rs](https://crates.io/crates/expat-rs) | 0.2.0 | 0 | Memory-safe XML 1.0 parser: streaming, namespaces, hardened against hostile inp… |
-| 2026-10-03 16:10:24 | [gpui-alloy-scheduler](https://crates.io/crates/gpui-alloy-scheduler) | 0.1.0 | 0 | GPUI Alloy distribution of scheduler |
-| 2026-10-03 16:11:38 | [frust-shell-web](https://crates.io/crates/frust-shell-web) | 0.5.0 | 0 | Browser shell for Frust: runs a Frust app on a canvas in the browser via winit… |
+| 2026-10-03 16:19:09 | [gpui-alloy-path](https://crates.io/crates/gpui-alloy-path) | 0.1.0 | 0 | GPUI Alloy distribution of path |
+| 2026-10-03 16:20:52 | [frust-shell-windows](https://crates.io/crates/frust-shell-windows) | 0.5.0 | 0 | Windows desktop shell for Frust: native Win32 menu bar, window icons and app id… |
+| 2026-10-03 16:21:19 | [rapidapi-insightsentry](https://crates.io/crates/rapidapi-insightsentry) | 0.1.0 | 0 | Unofficial typed async client for InsightSentry through RapidAPI |
+| 2026-10-03 16:24:04 | [insightsentry](https://crates.io/crates/insightsentry) | 0.1.0 | 0 | Unofficial typed async client for the direct InsightSentry API |
+| 2026-10-03 16:24:21 | [arcsec-io](https://crates.io/crates/arcsec-io) | 0.5.0 | 0 | Image readers for the arcsec plate solver: FITS, XISF and ASDF pixels and point… |
+| 2026-10-03 16:24:33 | [libarcsec](https://crates.io/crates/libarcsec) | 0.5.0 | 0 | C library interface to the arcsec plate solver (libarcsec) |
+| 2026-10-03 16:28:01 | [atrius-index](https://crates.io/crates/atrius-index) | 0.1.0 | 0 | A code search index: ripgrep's exact results from a trigram index, definitions… |
+| 2026-10-03 16:28:40 | [gpui-alloy-reqwest](https://crates.io/crates/gpui-alloy-reqwest) | 0.1.0 | 0 | higher level HTTP client library |
+| 2026-10-03 16:31:03 | [atrius-cli](https://crates.io/crates/atrius-cli) | 0.1.0 | 0 | The atrius command line and the atrius-mcp server for the Atrius code index: ri… |
+| 2026-10-03 16:31:04 | [frust-tui](https://crates.io/crates/frust-tui) | 0.5.0 | 0 | Mouse-first terminal workbench for scaffolding, running and debugging Frust app… |
+| 2026-10-03 16:38:19 | [gpui-alloy-ztracing-macro](https://crates.io/crates/gpui-alloy-ztracing-macro) | 0.1.0 | 0 | GPUI Alloy distribution of ztracing_macro |
+| 2026-10-03 16:40:56 | [qiongli-bounded-alloc](https://crates.io/crates/qiongli-bounded-alloc) | 2.2.0 | 0 | Small allocation boundary for isolated native document workers |
+| 2026-10-03 16:40:57 | [frust-cli](https://crates.io/crates/frust-cli) | 0.5.0 | 0 | The `frust` command-line tool: scaffold, run, build and diagnose Frust apps on… |
+| 2026-10-03 16:41:06 | [judgment](https://crates.io/crates/judgment) | 0.3.0 | 0 | Typed, calibrated judgments from TypeSafe System One models (Jev) and compatibl… |
+| 2026-10-03 16:47:26 | [furcule-core](https://crates.io/crates/furcule-core) | 0.1.0 | 0 | Graph model, propagation, branching and checks for Furcule, the assumption-firs… |
+| 2026-10-03 16:47:28 | [furcule-mcp](https://crates.io/crates/furcule-mcp) | 0.1.0 | 0 | MCP server exposing Furcule reasoning graphs to coding agents and chat apps |
+| 2026-10-03 16:47:30 | [furcule-server](https://crates.io/crates/furcule-server) | 0.1.0 | 0 | Local HTTP server that serves the Furcule viewer and a small REST and SSE API |
+| 2026-10-03 16:47:33 | [furcule](https://crates.io/crates/furcule) | 0.1.0 | 0 | Assumption-first reasoning graph. Turn any text into facts, assumptions and con… |
+| 2026-10-03 16:49:38 | [webmedia](https://crates.io/crates/webmedia) | 0.1.0 | 0 | Standalone raster image and streaming video decoders for Rust applications |
+| 2026-10-03 16:50:25 | [gpui-alloy-collections](https://crates.io/crates/gpui-alloy-collections) | 0.1.0 | 0 | Standard collection types used by Zed and GPUI |
+| 2026-10-03 16:51:04 | [frust-url-launcher](https://crates.io/crates/frust-url-launcher) | 0.5.0 | 0 | URL launcher plugin for Frust apps: opens an http or https URL in the default e… |
+| 2026-10-03 16:52:37 | [ipg](https://crates.io/crates/ipg) | 0.1.1 | 0 | Agent-first privacy CLI and discoverable cryptographic workflows on IronCrypto |
+| 2026-10-03 17:02:14 | [frust-auth-session](https://crates.io/crates/frust-auth-session) | 0.5.0 | 0 | In-app browser authentication sessions for Frust apps: Android Custom Tabs, App… |
+| 2026-10-03 17:02:18 | [nim](https://crates.io/crates/nim) | 0.0.0 | 0 | placeholder |
+| 2026-10-03 17:03:32 | [libcrew](https://crates.io/crates/libcrew) | 0.1.0 | 0 | The snapshot types and ops-API client shared by crewd and crewctl. |
+| 2026-10-03 17:03:34 | [crewctl](https://crates.io/crates/crewctl) | 0.1.0 | 0 | Client for crewd: reads what a running daemon is doing over its ops API. |
+| 2026-10-03 17:03:35 | [crewd](https://crates.io/crates/crewd) | 0.1.0 | 0 | Tracker-driven orchestrator for Claude Code agents: a worktree, a session and a… |
+| 2026-10-03 17:04:24 | [rustic_trees](https://crates.io/crates/rustic_trees) | 0.1.0 | 0 | Tree library (contianing Binary and N-ary trees) made in C and Rust |
+| 2026-10-03 17:06:56 | [gpui-alloy-refineable](https://crates.io/crates/gpui-alloy-refineable) | 0.1.0 | 0 | A macro for creating 'refinement' types that can be used to partially initializ… |
+| 2026-10-03 17:09:54 | [coopgame](https://crates.io/crates/coopgame) | 0.1.0 | 0 | TU協力ゲームの仁・プレ仁・カーネル・プレカーネルの計算と検証 |
+| 2026-10-03 17:10:23 | [frust-widgets](https://crates.io/crates/frust-widgets) | 0.5.0 | 0 | Baseline widget set for Frust: text, buttons, images, flex, stack and scroll co… |
 
 ## Data source
 
