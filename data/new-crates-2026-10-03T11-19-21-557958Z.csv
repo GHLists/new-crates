@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T10:20:47.044099Z,cratefield-module-device-auth,0.2.0,0,0,https://github.com/Cratefield/harness,"Cratefield module: the OAuth 2.0 device authorization grant (RFC 8628) — a client shows a code, a signed-in person approves it, and the venture's issuer mints the credential"
+2026-10-03T10:30:23.389278Z,totp-lite_,2.1.0,0,0,https://github.com/pepa65/totp-lite,"A simple, correct TOTP library."
+2026-10-03T10:30:44.183355Z,fzfx,0.1.0,0,0,https://github.com/aether-flux/fzfx,"Fast, semantic CLI command finder powered by local embeddings."
+2026-10-03T10:33:43.743191Z,cratefield-module-connections,0.1.0,0,0,https://github.com/Cratefield/harness,"Cratefield module: per-subject third-party OAuth connections — authorize, sealed tokens, refresh, revoke, over the `HttpClient` port"
+2026-10-03T10:33:43.783534Z,archer-sdk,0.2.0,0,0,https://github.com/ballista-tech/archer-sdk,"Rust SDK for the Archer Protocol — account layouts, instruction builders and quoting math"
+2026-10-03T10:59:25.395954Z,htmlbars,0.2.1,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,HTMLbars parser
+2026-10-03T11:11:06.10943Z,pagoda,0.1.0,0,0,https://github.com/quantz8a/pagoda,"Zero-dependency LLM inference runtime in pure-std Rust: radix/block prefix cache, continuous batching, KV checkpoint, single-binary offline deploy"
+2026-10-03T11:12:18.907576Z,oliphaunt-pgwire-server,0.2.0,0,0,https://github.com/f0rr0/oliphaunt,PostgreSQL socket server and CLI for embedded Oliphaunt databases.
+2026-10-03T11:14:55.244032Z,sz-rust-security-headers,1.7.0,0,0,https://github.com/ljclz/sz-rust,SZ-Rust 安全头中间件
+2026-10-03T11:14:55.329968Z,sz-rust-websocket,1.7.0,0,0,https://github.com/ljclz/sz-rust,SZ-Rust WebSocket 长连接
+2026-10-03T11:15:43.396563Z,pagoda-hf,0.1.0,0,0,,Real HuggingFace tokenizer and Candle weight backends for pagoda
+2026-10-03T11:17:14.537838Z,sz-rust-data-mask,1.7.0,0,0,https://github.com/ljclz/sz-rust,SZ-Rust 数据脱敏
+2026-10-03T11:17:14.724835Z,sz-rust-admin-ui,1.7.0,0,0,https://github.com/ljclz/sz-rust,SZ-Rust 管理后台 UI 后端 API
+2026-10-03T11:17:14.907868Z,sz-rust-codegen-ui,1.7.0,0,0,https://github.com/ljclz/sz-rust,SZ-Rust 代码生成器 UI
+2026-10-03T11:18:20.756961Z,s3s-time,0.18.0-alpha.1,0,0,https://github.com/Nugine/s3s,Date and time wire formats for the S3 API
+2026-10-03T11:18:27.311333Z,vps-rankings,0.1.0,0,0,https://github.com/cash602-cmd/vps-bench,"Lightweight CLI client for inspecting real-world cloud VPS benchmarks, network latency, and hosting comparisons from vpsrankings.com."
