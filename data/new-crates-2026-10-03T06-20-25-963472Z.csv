@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T05:19:57.997933Z,ipmax,0.1.0,0,0,https://github.com/IPMaxxing/rust-sdk,Async client for the IP-Max GeoIP and IP intelligence API
+2026-10-03T05:22:19.630591Z,openreadout-zvi,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Zeiss AxioVision ZVI files, part of OpenReadout"
+2026-10-03T05:28:51.789723Z,xodr,0.5.0,0,0,https://github.com/jakeaboganda/xodr,"Pure-Rust OpenDRIVE (.xodr) importer: bakes a road network into polylines, a lane graph, and a surface mesh."
+2026-10-03T05:31:14.625492Z,leptris,1.4.0,0,0,https://github.com/leptris/leptris,"Rust bindings for libleptris — fast XML 1.0 parsing, XPath 1.0, SAX"
+2026-10-03T05:32:20.369575Z,openreadout-agilent-ms,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Agilent MassHunter .d mass-spectrometry directories, part of OpenReadout"
+2026-10-03T05:40:15.190886Z,puml,0.2.2,0,0,https://github.com/alliecatowo/puml,"Fast, no-Java PlantUML-compatible diagram rendering as a Rust CLI and library."
+2026-10-03T05:42:21.440337Z,openreadout-assay,0.1.0,0,0,https://github.com/openreadout/openreadout,"Plate-reader assay analysis for OpenReadout: plate layouts, standard curves, dose-response fits and assay quality"
+2026-10-03T05:46:22.754991Z,libresoda-fork,0.1.0,0,0,,"Fork of sodahub-org/libresoda (f02497e, AGPL-3.0-or-later), vendored for kugou-tui. Rust port of music-lib's soda (汽水音乐 / Soda Music) implementation: search, playlists, albums, lyrics, VIP-aware stre…"
+2026-10-03T05:47:16.514432Z,compose-rust,0.0.0,0,0,https://github.com/DarkPyonix/compose-rust,"Declarative UI in Rust, rendered by an AOT-compiled Compose Multiplatform engine."
+2026-10-03T05:47:47.874423Z,zizmor-dev,1.30.1,0,0,https://github.com/zizmorcore/zizmor/tree/main/crates/zizmor-dev,Shared helpers for zizmor's tests and benchmarks
+2026-10-03T05:52:20.328126Z,openreadout-bruker-tims,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Bruker timsTOF .d directories, part of OpenReadout"
+2026-10-03T05:57:02.794393Z,entz,0.9.0,0,0,https://github.com/TheUltDev/entz,Rust client for entz: Loro CRDT documents synced through SpacetimeDB; native and wasm32
+2026-10-03T06:01:25.115744Z,blazar-core,0.19.0,0,0,https://github.com/santanu20/blazar,"Blazar pure domain core: config, store, catalog, gguf, profile compiler"
+2026-10-03T06:02:21.695976Z,openreadout-chrom,0.1.0,0,0,https://github.com/openreadout/openreadout,"Readers for chromatography data files, part of OpenReadout"
+2026-10-03T06:03:01.307791Z,blazar-runtime,0.19.0,0,0,https://github.com/santanu20/blazar,"Blazar runtime: engine installer, HF client, process supervisor, event bus, bench runner"
+2026-10-03T06:03:04.569395Z,hw-kit,0.1.0,0,0,https://github.com/WyattAu/hw-kit,"Hardware topology and control for Rust — CPU/NUMA discovery, core pinning, NUMA binding, hugepage reservation (Linux)"
+2026-10-03T06:04:54.771656Z,blazar-gateway,0.19.0,0,0,https://github.com/santanu20/blazar,"Blazar gateway: OpenAI + ollama-compat APIs, metrics aggregation, priority queue, SSE"
+2026-10-03T06:06:43.837814Z,blazar,0.19.0,0,0,https://github.com/santanu20/blazar,"Multi-engine local inference platform: one `blazar` binary serving llama.cpp, mistral.rs, SGLang, and MLX through OpenAI- and ollama-compatible APIs"
+2026-10-03T06:09:55.14288Z,n3v3-store,5.0.1,0,0,https://github.com/MCB-SMART-BOY/n3v3,Content-addressed store for n3v3
+2026-10-03T06:10:16.887459Z,n3v3-lexer,5.0.1,0,0,https://github.com/MCB-SMART-BOY/n3v3,Lexical analysis for n3v3
+2026-10-03T06:11:04.243396Z,n3v3-builder,5.0.1,0,0,https://github.com/MCB-SMART-BOY/n3v3,Sandbox build system for the n3v3 language
+2026-10-03T06:12:15.755718Z,n3v3-parser,5.0.1,0,0,https://github.com/MCB-SMART-BOY/n3v3,Parser for n3v3
+2026-10-03T06:12:21.219971Z,openreadout-czi,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Zeiss CZI microscopy files, part of OpenReadout"
+2026-10-03T06:12:26.508123Z,n3v3-fmt,5.0.1,0,0,https://github.com/MCB-SMART-BOY/n3v3,Code formatter for the n3v3 language
+2026-10-03T06:12:32.752115Z,weaveffi-gen,0.24.0,0,0,https://github.com/weavefoundry/weaveffi,Code-generation orchestrator and the eleven language generators for WeaveFFI
+2026-10-03T06:15:17.217401Z,cybercore-vdb,0.1.0-alpha.1,0,0,https://github.com/cybercore-tech/vdb-rs,"Embedded, crash-safe, Rust-native vector database (LMDB metadata + mmap'd vectors/HNSW index)"
+2026-10-03T06:17:12.390837Z,n3v3-hir,5.0.1,0,0,https://github.com/MCB-SMART-BOY/n3v3,High-level Intermediate Representation for n3v3

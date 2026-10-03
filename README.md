@@ -8,34 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 05:19 UTC
+## Latest list — 2026-10-03 06:20 UTC
 
-New crates published between 2026-10-03 04:18 UTC and 2026-10-03 05:19 UTC.
+New crates published between 2026-10-03 05:19 UTC and 2026-10-03 06:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-03T05-19-16-13299Z.csv)
+[Full CSV](data/new-crates-2026-10-03T06-20-25-963472Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-03 04:22:20 | [openreadout-signal](https://crates.io/crates/openreadout-signal) | 0.1.0 | 0 | Signal processing for OpenReadout: NMR processing and peak picking, and electro… |
-| 2026-10-03 04:32:19 | [openreadout-spikeglx](https://crates.io/crates/openreadout-spikeglx) | 0.1.0 | 0 | Reader for SpikeGLX recordings, part of OpenReadout |
-| 2026-10-03 04:33:46 | [js-protocol-macros](https://crates.io/crates/js-protocol-macros) | 0.1.6 | 0 | Derive macros for js-protocol (CDP builder and getter generation) |
-| 2026-10-03 04:40:16 | [mathsolver-help](https://crates.io/crates/mathsolver-help) | 0.2.0 | 0 | BYOK AI math solver with execution-based verification (PAL-style) — bring your… |
-| 2026-10-03 04:42:19 | [openreadout-thermal](https://crates.io/crates/openreadout-thermal) | 0.1.0 | 0 | Readers for thermal-analysis and rheology files, part of OpenReadout |
-| 2026-10-03 04:47:16 | [xahc](https://crates.io/crates/xahc) | 1.12.0 | 0 | Xahau Hooks, Checked: build, clean, lint and simulate Xahau C Hooks (C -> WASM)… |
-| 2026-10-03 04:52:19 | [openreadout-thermo](https://crates.io/crates/openreadout-thermo) | 0.1.0 | 0 | Reader for Thermo Fisher .raw mass-spectrometry files, part of OpenReadout |
-| 2026-10-03 05:00:59 | [gripsack-buildkit](https://crates.io/crates/gripsack-buildkit) | 0.43.0 | 0 | Gripsack-owned BuildKit adapter: bounded bridge protocol, worker lease policy a… |
-| 2026-10-03 05:01:40 | [ipg-cng](https://crates.io/crates/ipg-cng) | 0.1.1 | 0 | Minimal safe wrapper over Windows CNG and TPM Base Services (IronPrivacyGuard) |
-| 2026-10-03 05:02:19 | [openreadout-waters](https://crates.io/crates/openreadout-waters) | 0.1.0 | 0 | Reader for Waters MassLynx .raw mass-spectrometry directories, part of OpenRead… |
-| 2026-10-03 05:03:03 | [tuigram-cli](https://crates.io/crates/tuigram-cli) | 0.1.0 | 0 | Telegram in your terminal: a fast, vim-style Telegram client built on TDLib |
-| 2026-10-03 05:03:13 | [iron-privacy-guard](https://crates.io/crates/iron-privacy-guard) | 0.1.1 | 0 | Agent-first privacy CLI and discoverable cryptographic workflows on IronCrypto |
-| 2026-10-03 05:03:41 | [cntrl-protocol](https://crates.io/crates/cntrl-protocol) | 0.0.0 | 0 | Wire protocol types for the cntrl agent (placeholder; in development). |
-| 2026-10-03 05:03:45 | [cntrl-host](https://crates.io/crates/cntrl-host) | 0.0.0 | 0 | Host capabilities (stats, processes, power, services) for the cntrl agent (plac… |
-| 2026-10-03 05:03:49 | [cntrl-agent](https://crates.io/crates/cntrl-agent) | 0.0.0 | 0 | The cntrl server-management agent (placeholder; in development). |
-| 2026-10-03 05:06:24 | [xlgrep](https://crates.io/crates/xlgrep) | 0.1.0 | 0 | grep for spreadsheets: search cell values and formulas across .xlsx/.xlsm/.xlsb… |
-| 2026-10-03 05:11:37 | [eazyreport](https://crates.io/crates/eazyreport) | 1.0.0 | 0 | Enterprise report generation engine for Rust supporting visual .rtpl templates… |
-| 2026-10-03 05:12:19 | [openreadout-xrd](https://crates.io/crates/openreadout-xrd) | 0.1.0 | 0 | Readers for X-ray diffraction scan files, part of OpenReadout |
-| 2026-10-03 05:14:32 | [weaveffi-model](https://crates.io/crates/weaveffi-model) | 0.24.0 | 0 | IR, parsers, Rust extractor, validation, and the resolved binding model for Wea… |
-| 2026-10-03 05:16:22 | [watermelon-testkit](https://crates.io/crates/watermelon-testkit) | 0.1.0 | 0 | Run tests against isolated, disposable nats-server instances |
+| 2026-10-03 05:19:57 | [ipmax](https://crates.io/crates/ipmax) | 0.1.0 | 0 | Async client for the IP-Max GeoIP and IP intelligence API |
+| 2026-10-03 05:22:19 | [openreadout-zvi](https://crates.io/crates/openreadout-zvi) | 0.1.0 | 0 | Reader for Zeiss AxioVision ZVI files, part of OpenReadout |
+| 2026-10-03 05:28:51 | [xodr](https://crates.io/crates/xodr) | 0.5.0 | 0 | Pure-Rust OpenDRIVE (.xodr) importer: bakes a road network into polylines, a la… |
+| 2026-10-03 05:31:14 | [leptris](https://crates.io/crates/leptris) | 1.4.0 | 0 | Rust bindings for libleptris — fast XML 1.0 parsing, XPath 1.0, SAX |
+| 2026-10-03 05:32:20 | [openreadout-agilent-ms](https://crates.io/crates/openreadout-agilent-ms) | 0.1.0 | 0 | Reader for Agilent MassHunter .d mass-spectrometry directories, part of OpenRea… |
+| 2026-10-03 05:40:15 | [puml](https://crates.io/crates/puml) | 0.2.2 | 0 | Fast, no-Java PlantUML-compatible diagram rendering as a Rust CLI and library. |
+| 2026-10-03 05:42:21 | [openreadout-assay](https://crates.io/crates/openreadout-assay) | 0.1.0 | 0 | Plate-reader assay analysis for OpenReadout: plate layouts, standard curves, do… |
+| 2026-10-03 05:46:22 | [libresoda-fork](https://crates.io/crates/libresoda-fork) | 0.1.0 | 0 | Fork of sodahub-org/libresoda (f02497e, AGPL-3.0-or-later), vendored for kugou-… |
+| 2026-10-03 05:47:16 | [compose-rust](https://crates.io/crates/compose-rust) | 0.0.0 | 0 | Declarative UI in Rust, rendered by an AOT-compiled Compose Multiplatform engin… |
+| 2026-10-03 05:47:47 | [zizmor-dev](https://crates.io/crates/zizmor-dev) | 1.30.1 | 0 | Shared helpers for zizmor's tests and benchmarks |
+| 2026-10-03 05:52:20 | [openreadout-bruker-tims](https://crates.io/crates/openreadout-bruker-tims) | 0.1.0 | 0 | Reader for Bruker timsTOF .d directories, part of OpenReadout |
+| 2026-10-03 05:57:02 | [entz](https://crates.io/crates/entz) | 0.9.0 | 0 | Rust client for entz: Loro CRDT documents synced through SpacetimeDB; native an… |
+| 2026-10-03 06:01:25 | [blazar-core](https://crates.io/crates/blazar-core) | 0.19.0 | 0 | Blazar pure domain core: config, store, catalog, gguf, profile compiler |
+| 2026-10-03 06:02:21 | [openreadout-chrom](https://crates.io/crates/openreadout-chrom) | 0.1.0 | 0 | Readers for chromatography data files, part of OpenReadout |
+| 2026-10-03 06:03:01 | [blazar-runtime](https://crates.io/crates/blazar-runtime) | 0.19.0 | 0 | Blazar runtime: engine installer, HF client, process supervisor, event bus, ben… |
+| 2026-10-03 06:03:04 | [hw-kit](https://crates.io/crates/hw-kit) | 0.1.0 | 0 | Hardware topology and control for Rust — CPU/NUMA discovery, core pinning, NUMA… |
+| 2026-10-03 06:04:54 | [blazar-gateway](https://crates.io/crates/blazar-gateway) | 0.19.0 | 0 | Blazar gateway: OpenAI + ollama-compat APIs, metrics aggregation, priority queu… |
+| 2026-10-03 06:06:43 | [blazar](https://crates.io/crates/blazar) | 0.19.0 | 0 | Multi-engine local inference platform: one `blazar` binary serving llama.cpp, m… |
+| 2026-10-03 06:09:55 | [n3v3-store](https://crates.io/crates/n3v3-store) | 5.0.1 | 0 | Content-addressed store for n3v3 |
+| 2026-10-03 06:10:16 | [n3v3-lexer](https://crates.io/crates/n3v3-lexer) | 5.0.1 | 0 | Lexical analysis for n3v3 |
+| 2026-10-03 06:11:04 | [n3v3-builder](https://crates.io/crates/n3v3-builder) | 5.0.1 | 0 | Sandbox build system for the n3v3 language |
+| 2026-10-03 06:12:15 | [n3v3-parser](https://crates.io/crates/n3v3-parser) | 5.0.1 | 0 | Parser for n3v3 |
+| 2026-10-03 06:12:21 | [openreadout-czi](https://crates.io/crates/openreadout-czi) | 0.1.0 | 0 | Reader for Zeiss CZI microscopy files, part of OpenReadout |
+| 2026-10-03 06:12:26 | [n3v3-fmt](https://crates.io/crates/n3v3-fmt) | 5.0.1 | 0 | Code formatter for the n3v3 language |
+| 2026-10-03 06:12:32 | [weaveffi-gen](https://crates.io/crates/weaveffi-gen) | 0.24.0 | 0 | Code-generation orchestrator and the eleven language generators for WeaveFFI |
+| 2026-10-03 06:15:17 | [cybercore-vdb](https://crates.io/crates/cybercore-vdb) | 0.1.0-alpha.1 | 0 | Embedded, crash-safe, Rust-native vector database (LMDB metadata + mmap'd vecto… |
+| 2026-10-03 06:17:12 | [n3v3-hir](https://crates.io/crates/n3v3-hir) | 5.0.1 | 0 | High-level Intermediate Representation for n3v3 |
 
 ## Data source
 
