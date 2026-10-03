@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T22:19:56.800151Z,veloxc,0.1.0,0,0,https://github.com/fahimaloy/velox,CLI tools for building Velox applications
+2026-10-03T22:28:34.033775Z,manitou,0.1.0,0,0,https://github.com/savageAZfck/manitou,"Weight provenance: per-file SHA-256 manifests of model weights, signed brain_manifest records on every load/swap, and drift verification — which manitou was in the body when the words came out, named…"
+2026-10-03T22:31:44.940657Z,everruns-contracts,0.37.0,0,0,https://github.com/everruns/everruns,"Shared runtime, provider, capability, and model profile contracts for Everruns"
+2026-10-03T22:33:21.56796Z,capnp-newtype,0.27.2,0,0,https://github.com/puremourning/capnproto-rust,runtime library for Cap'n Proto data encoding with newtype support
+2026-10-03T22:33:24.275151Z,capnpc-newtype,0.27.0,0,0,https://github.com/puremourning/capnproto-rust,Cap'n Proto code generation with newtype support
+2026-10-03T22:37:03.140044Z,linux-kernel-panic-parser,0.1.1,0,0,https://github.com/adamflott/linux-kernel-panic-parser,"Lossless, architecture-neutral parsing of Linux kernel panic logs"
+2026-10-03T22:37:17.05464Z,launchpad-mini-mk3,0.1.0,0,0,https://github.com/anfeket/launchpad-mini-mk3,A lightweight Rust library for controlling Novation Launchpad Mini MK3 devices over MIDI SysEx
+2026-10-03T22:40:16.413286Z,openkind-core,0.1.0,0,0,https://github.com/whit3rabbit/openkind,"Phase 0: Jev-compatible schema, validation, and JSON schemas for openkind."
+2026-10-03T22:40:37.530483Z,capnp-json-newtype,0.3.2,0,0,https://github.com/puremourning/capnp-json,Cap'n Proto JSON codec for capnp-newtype
+2026-10-03T22:46:31.431403Z,sio-cli,0.1.0,0,0,https://github.com/sioworker/sio-cli,CLI for submitting to OIOIOI (sio2) instances
+2026-10-03T22:50:56.615133Z,openkind-datasets,0.1.0,0,0,https://github.com/whit3rabbit/openkind,"Pinned, verified local evaluation-dataset installations for OpenKind benchmarking"
+2026-10-03T23:00:10.991666Z,openkind-model-store,0.1.0,0,0,https://github.com/whit3rabbit/openkind,"Curated, verified local model installations for OpenKind"
+2026-10-03T23:06:18.911953Z,cdgen,0.1.0,0,0,https://codeberg.org/BlueBix/codegen,BlueBix Codegen - Minimal Git Platform in Rust
+2026-10-03T23:08:39.918323Z,frob-cli,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for frob-cli, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-03T23:08:47.884605Z,frob-ack,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for frob-ack, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-03T23:08:54.239817Z,tm-wasm,0.3.0,0,0,https://github.com/Volland/tiramemsu,"Tiramemsu executor host for SQLite compiled to WebAssembly, with memory and OPFS storage"
+2026-10-03T23:08:56.5441Z,frob-check,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for frob-check, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-03T23:09:00.440833Z,tiramemsu-json,0.3.0,0,0,https://github.com/Volland/tiramemsu,"The JSON bridge of tiramemsu: one call per operation, shared by the Node.js and Python bindings and the MCP server"
+2026-10-03T23:09:05.086758Z,frob-evidence,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for frob-evidence, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-03T23:09:05.992766Z,tiramemsu-mcp,0.3.0,0,0,https://github.com/Volland/tiramemsu,A local stdio MCP server exposing a tiramemsu memory file as typed agent tools
+2026-10-03T23:09:12.208693Z,frob-land,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for frob-land, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-03T23:10:28.366681Z,openkind-proto,0.1.0,0,0,https://github.com/whit3rabbit/openkind,Phase 1: gRPC/Protobuf wire types for openkind.
+2026-10-03T23:15:28.701684Z,atlasauth,0.1.0,0,0,https://github.com/alphajew420/ssoly,"Official Atlas backend verification crate: local RS256 session-token verification against a cached JWKS, plus API-key verification. The Rust peer of @atlasauth/backend, atlas-go, and the Ruby SDK."
+2026-10-03T23:16:58.228162Z,frob-lease,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for frob-lease, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-03T23:17:32.30177Z,squeeze-lib,0.5.0,0,0,https://github.com/aymericbeaumet/squeeze,"Finders for URLs, emails, IPs, hashes, TODOs, and more in free-form text"
+2026-10-03T23:17:44.675003Z,pluralkit,0.1.0,0,0,https://github.com/WebbiiiCC/pluralkit-rs,A simple async client for the PluralKit Api
+2026-10-03T23:17:54.280119Z,squeeze-cli,0.5.0,0,0,https://github.com/aymericbeaumet/squeeze,"Extract URLs, emails, IPs, hashes, TODOs, and more from any text"
