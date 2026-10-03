@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T20:21:07.728963Z,fegrid-iec60870-tokio,0.1.0,0,0,https://github.com/fegrid/iec60870,Async tokio transport for IEC 60870-5-101/104
+2026-10-03T20:22:53.079986Z,hypercmd,0.1.0,0,0,https://github.com/fusor-rs/hypercmd,Retained terminal interfaces authored in HTML and Rust
+2026-10-03T20:22:53.583878Z,hypercmd-build,0.1.0,0,0,https://github.com/fusor-rs/hypercmd,Compile fusor HTML components for Hypercmd terminals
+2026-10-03T20:22:54.40001Z,hypercmd-cli,0.1.0,0,0,https://github.com/fusor-rs/hypercmd,"The hypercmd command-line tool: create, check, run and build terminal apps"
+2026-10-03T20:27:11.754981Z,cargo-kcfg,0.0.1,0,0,,Cargo subcommand bringing Linux/Zephyr-style Kconfig support to Rust projects
+2026-10-03T20:28:34.353539Z,gpui-alloy-apple,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,GPUI Alloy distribution of gpui_apple
+2026-10-03T20:31:06.900637Z,fegrid-iec60870,0.1.0,0,0,https://github.com/fegrid/iec60870,"Pure IEC 60870-5 (IEC 870) implementation in Rust - typed ASDU codec, sans-IO master/outstation, CS 101/104 framing, APCI engine, file-transfer service, IEC 62351-5 secure-auth. Umbrella re-export wi…"
+2026-10-03T20:35:44.821229Z,winnow-args-derive,0.1.0,0,0,https://github.com/lu-zero/winnow-args,Derive macro for winnow-args
+2026-10-03T20:35:55.909603Z,winnow-args,0.1.0,0,0,https://github.com/lu-zero/winnow-args,Command line argument parsing built from winnow parsers
+2026-10-03T20:36:24.099393Z,cdt-search,0.1.1,0,0,https://github.com/ro80t/cdtui,"File-name and full-text search for the cdt directory picker, both backed by ripgrep."
+2026-10-03T20:36:24.863636Z,cdt-tree,0.1.1,0,0,https://github.com/ro80t/cdtui,"Flat, lazily-expanded directory tree model for the cdt directory picker."
+2026-10-03T20:36:26.284118Z,cdt-view,0.1.1,0,0,https://github.com/ro80t/cdtui,ratatui view and key loop for the cdt directory picker.
+2026-10-03T20:36:28.237907Z,cdtui,0.1.1,0,0,https://github.com/ro80t/cdtui,"A neo-tree style terminal UI for cd-ing around a directory tree, with ripgrep search."
+2026-10-03T20:38:33.106754Z,gpui-alloy-wgpu,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,GPUI Alloy distribution of gpui_wgpu
+2026-10-03T20:38:49.488939Z,diskann-vamana-viz-top1,0.0.0,0,0,,diskANN Vamana graph visualization
+2026-10-03T20:39:17.337206Z,ferromark-transforms,3.1.0,0,0,https://github.com/sebastian-software/ferromark,Optional native transform pipeline for Ferromark Markdown ASTs
+2026-10-03T20:39:20.847616Z,dbc-parse,0.1.0,0,0,https://github.com/WyattAu/dbc-parse,"DBC file parser — CAN message definitions, signal layout (bit-offset/length/endianness/scaling), value tables, extended multiplexing"
+2026-10-03T20:39:50.839043Z,tabnas-jsonic-cli,0.5.10,0,0,https://github.com/tabnas/jsonic-cli,"Command-line interface for the jsonic relaxed-JSON parser: reads relaxed JSON from arguments, files or standard input and prints standard JSON."
+2026-10-03T20:39:57.621583Z,diskann-vamana-viz,0.1.1,0,0,,diskANN Vamana graph visualization
+2026-10-03T20:43:21.960106Z,dialer-tor,0.1.0,0,0,https://github.com/alvorado-lab/zec-wallet,"Standalone Tor dialer over arti: host:port to a duplex byte stream, with per-key circuit isolation and no clearnet path."
+2026-10-03T20:44:41.956467Z,clickless-macos,0.1.1,0,0,https://github.com/smresponsibilities/clickless,Experimental macOS input and overlays for Clickless
+2026-10-03T20:45:00.049391Z,clickless-windows,0.1.1,0,0,https://github.com/smresponsibilities/clickless,"Windows input, overlays, and native UI for Clickless"
+2026-10-03T20:45:27.965437Z,moochy-keylog,0.1.0,0,0,https://github.com/moochy-dev/moochy-cli,"Moochy key log verifier: tlog proofs, signed checkpoints, C2SP tiles, mirror, monitor rules"
+2026-10-03T20:45:28.672676Z,moochy-proto,0.1.0,0,0,https://github.com/moochy-dev/moochy-cli,"Moochy wire protocol: encodings, frames, messages, envelopes, signatures, money math"
+2026-10-03T20:45:29.415884Z,moochy-sandbox,0.1.0,0,0,https://github.com/moochy-dev/moochy-cli,Moochy sandbox: maintainer-side `moochy run` jail (Linux namespaces + Landlock + seccomp; macOS Seatbelt) and donor-side Worker privilege separation (CONTRACT §15)
+2026-10-03T20:45:30.02418Z,moochy-tui,0.1.0,0,0,https://github.com/moochy-dev/moochy-cli,moochy tui: the terminal dashboard (CONTRACT §20)
+2026-10-03T20:45:30.869681Z,moochy-worker,0.1.0,0,0,https://github.com/moochy-dev/moochy-cli,"Moochy worker: provider firewall, safe mutations, adapters, SSE/usage parsing, tool-call inspection, outbox"
+2026-10-03T20:46:16.522302Z,clickless,0.1.1,0,0,https://github.com/smresponsibilities/clickless,Keyboard-driven pointer control with native Windows UI and experimental Linux/macOS backends
+2026-10-03T20:50:52.198094Z,ontogen-jsonapi,0.1.0,0,0,https://github.com/sksizer/rust-ontogen,"Runtime for ontogen's generated JSON:API HTTP server: documents, links, error documents, media-type negotiation and Axum extractors"
+2026-10-03T20:51:04.55686Z,inflow-core,0.1.0,0,0,https://github.com/inflowpayai/inflow-rust,Shared InFlow environment and client configuration.
+2026-10-03T20:51:10.301451Z,inflow-mpp,0.1.0,0,0,https://github.com/inflowpayai/inflow-rust,InFlow integration with the Machine Payments Protocol.
+2026-10-03T20:51:13.962544Z,inflow-mpp-buyer,0.1.0,0,0,https://github.com/inflowpayai/inflow-rust,Buyer integration for InFlow MPP payments.
+2026-10-03T20:51:18.158353Z,inflow-mpp-seller,0.1.0,0,0,https://github.com/inflowpayai/inflow-rust,Seller integration for InFlow MPP payments.
+2026-10-03T20:51:23.539095Z,inflow-x402,0.1.0,0,0,https://github.com/inflowpayai/inflow-rust,InFlow integration with the x402 protocol.
+2026-10-03T20:56:07.010973Z,sootmark-usn,0.1.0,0,0,https://github.com/Sootmark/usn,"NTFS USN change journal ($UsnJrnl:$J): every V2, V3 and V4 record, read straight through sparse zeros and damage, with reasons, references and names."
+2026-10-03T20:57:00.077998Z,moochy,0.1.0,0,0,https://github.com/moochy-dev/moochy-cli,"Moochy node: gateway (API + MCP doors), worker, relay link"
+2026-10-03T20:57:30.327492Z,inflow-x402-buyer,0.1.0,0,0,https://github.com/inflowpayai/inflow-rust,Buyer integration for InFlow x402 payments.
+2026-10-03T21:00:56.566972Z,openbim-ifcx,0.1.0,0,0,https://github.com/openbimrs/ifcx,"Lossless reader and writer for IFC5 / IFCX files, the layered JSON model."
+2026-10-03T21:04:32.380989Z,ktrs-compose,0.4.0,0,0,https://github.com/Hexay/ktrs,Port of mrmans0n/compose-rules (the ktlint rule set `compose`) over the ktrs-lint engine
+2026-10-03T21:05:23.206663Z,dsp-core,0.1.0,0,0,https://github.com/WyattAu/dsp-core,"Foundational audio DSP primitives — biquad filters, FFT, convolution, windowing, dynamics, oscillators — allocation-free process paths"
+2026-10-03T21:05:47.60685Z,brokk-tree-sitter-php,0.24.3,0,0,https://github.com/BrokkAi/tree-sitter-php,Brokk-maintained PHP grammars for tree-sitter
+2026-10-03T21:06:50.43018Z,bevy-mpq,0.2.0,0,0,https://github.com/jonathanvdc/wc3,Caller-configured MPQ asset sources for Bevy
+2026-10-03T21:07:26.217541Z,bevy-wc3,0.2.0,0,0,https://github.com/jonathanvdc/wc3,Bevy renderer for Warcraft III models
+2026-10-03T21:07:30.418906Z,inflow-x402-seller,0.1.0,0,0,https://github.com/inflowpayai/inflow-rust,Seller integration for InFlow x402 payments.
+2026-10-03T21:14:56.022354Z,sootmark-audit,0.1.0,0,0,https://github.com/Sootmark/audit,"Linux audit logs (auditd's audit.log, raw or enriched): records gathered into events, values decoded, command lines, system calls and socket addresses, and the logins, sudo commands, account changes…"
+2026-10-03T21:16:01.500152Z,relaxed-ref,0.1.0,0,0,https://github.com/mdjpoppe/relaxed-ref,"Reference types that don't require `T: 'a` to be well-formed, with the bound statically checked at the use site. Useful in GAT-based type families and similar contexts."
+2026-10-03T21:17:29.985483Z,inflow-x402-axum,0.1.0,0,0,https://github.com/inflowpayai/inflow-rust,Axum and Tower integration for InFlow x402 Seller routes.
