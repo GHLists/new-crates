@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T14:21:36.040987Z,frust-core,0.5.0,0,0,https://github.com/frust-rs/frust,"Frust's declarative View API, retained Widget tree, box-constraint layout and rebuild/layout/paint pass."
+2026-10-03T14:21:50.439606Z,acacia-client,0.1.0,0,0,https://github.com/acacia-rs/acacia,Async Minecraft: Bedrock Edition client over RakNet and NetherNet
+2026-10-03T14:25:56.749782Z,rustclean,0.1.0,0,0,https://github.com/hzrbasaran/rustClean,"Fast terminal disk usage analyzer and cleaner: reports, duplicates, app leftovers, developer caches, treemap"
+2026-10-03T14:26:42.254342Z,theroma,0.1.0,0,0,https://github.com/TheAhumMaitra/Roma,A Catholic Bible Reader app
+2026-10-03T14:27:31.873073Z,taladb,0.12.0,0,0,https://github.com/taladb/taladb,"Embedded, local-first document and vector database: serde documents, JSON filters, vector, full-text and hybrid search, live queries"
+2026-10-03T14:31:48.19123Z,frust-engine,0.5.0,0,0,https://github.com/frust-rs/frust,Sparse-strip GPU render pipeline for Frust: compiles a scene display list into strips and records the draw passes on wgpu.
+2026-10-03T14:33:03.527827Z,acacia-bot,0.1.0,0,0,https://github.com/acacia-rs/acacia,High-level Minecraft: Bedrock Edition bot built on acacia-client
+2026-10-03T14:34:07.87192Z,polyclip,0.0.0,0,0,https://github.com/KarpelesLab/polyclip,"Exact integer 2D polygon geometry: booleans, offsetting, arcs, distance queries, fracture, triangulation."
+2026-10-03T14:36:06.632985Z,workbench-api,0.1.0,0,0,https://github.com/cad-rs/workbench-rs,"GUI-agnostic platform contracts for workbench-rs: commands, tasks, documents, workspace/Ribbon model, painting abstraction"
+2026-10-03T14:38:25.695543Z,consortium-ipc-transport-fdcan,0.4.0,0,0,https://github.com/consortium-rs/consortium,Segmenting FDCAN IPC transport for Consortium
+2026-10-03T14:40:17.668727Z,consortium-ipc-transport-fdcan-embedded,0.4.0,0,0,https://github.com/consortium-rs/consortium,Firmware-side glue for the Consortium FDCAN IPC transport
+2026-10-03T14:40:47.052521Z,frust-render,0.5.0,0,0,https://github.com/frust-rs/frust,GPU backend for Frust: renders a frust-scene display list into a window surface through the frust-engine strip pipeline on wgpu.
+2026-10-03T14:42:07.328578Z,metalpriceapi,0.1.0,0,0,,Unofficial typed async client for MetalpriceAPI rates and OHLC
+2026-10-03T14:42:10.682877Z,acacia-mitm,0.1.0,0,0,https://github.com/acacia-rs/acacia,Recording proxy for Minecraft: Bedrock Edition vanilla-client captures over RakNet or NetherNet
+2026-10-03T14:43:57.553194Z,workbench-core,0.1.0,0,0,https://github.com/cad-rs/workbench-rs,"Platform runtime for workbench-rs: product assembly, command dispatch, task pump, autosave/crash recovery, layout persistence"
+2026-10-03T14:45:40.813847Z,workbench-python,0.1.0,0,0,https://github.com/cad-rs/workbench-rs,"Python plugin host for workbench-rs: manifest discovery, API version check, Host API v1 (pyo3)"
+2026-10-03T14:46:07.775185Z,workbench-example,0.1.0,0,0,https://github.com/cad-rs/workbench-rs,"Example Workbench module for workbench-rs: commands, panels, views, document type (depends only on workbench-api)"
+2026-10-03T14:47:21.648743Z,rhash-sys,1.4.6,0,0,,FFI bindings for librhash
+2026-10-03T14:47:53.643602Z,workbench-ui-egui,0.1.0,0,0,https://github.com/cad-rs/workbench-rs,egui frontend adapter for workbench-rs (eframe glow backend + egui_tiles docking)
+2026-10-03T14:47:54.543552Z,fleuron-markdown,0.20.0,0,0,https://github.com/zachhannum/fleuron,"Markdown frontend for fleuron: source text in, content tree out, with the constructs the vocabulary cannot express reported rather than dropped"
+2026-10-03T14:47:56.389467Z,fleuron-epub,0.20.0,0,0,https://github.com/zachhannum/fleuron,"Reflowable EPUB for fleuron: a content tree and its stylesheets in, an EPUB 3 out, with nothing laid out on the way"
+2026-10-03T14:47:57.457731Z,fleuron-cli,0.20.0,0,0,https://github.com/zachhannum/fleuron,"The fleuron binary: markdown and CSS in, a typeset PDF or a reflowable EPUB out"
+2026-10-03T14:47:58.01407Z,fleuron-wasm,0.20.0,0,0,https://github.com/zachhannum/fleuron,"WebAssembly bindings for fleuron: layout in a worker, display structure, PDF and EPUB bytes out"
+2026-10-03T14:50:59.584112Z,frust-secure-storage,0.5.0,0,0,https://github.com/frust-rs/frust,"Secure key-value storage for Frust apps: Keychain on Apple, Keystore on Android, the keyring stack on Linux and Windows, with an optional biometric gate."
+2026-10-03T14:53:36.018704Z,workbench-ui-gpui,0.1.0,0,0,https://github.com/cad-rs/workbench-rs,gpui frontend adapter for workbench-rs (gpui-ce + gpui component library)
+2026-10-03T14:58:16.966714Z,rhash-rs,0.1.0,0,0,https://codeberg.org/wreedb/rhash-rs,"Bindings to the librhash API, at a higher level"
+2026-10-03T15:00:21.149764Z,maploom-filter-fast-mvt,0.1.0,0,0,https://gitlab.com/yamaura/timezone-map,fast-mvt feature adapters for Maploom filters
+2026-10-03T15:00:34.460734Z,paasers,0.1.0,0,0,https://github.com/s-ted/paasers,PaaS edge gateway & ingress proxy
+2026-10-03T15:01:02.803739Z,harbor,0.0.0,0,0,https://github.com/example-org/harbor,"Release orchestration for Cargo workspaces: compute what publishes in what order, preflight a tag, and drive the registry."
+2026-10-03T15:02:43.974399Z,frust-shared-preferences,0.5.0,0,0,https://github.com/frust-rs/frust,"Synchronous typed key-value preferences for Frust apps: NSUserDefaults on Apple, SharedPreferences on Android, a JSON file on Linux and Windows."
+2026-10-03T15:07:16.499036Z,crossmool,1.3.1,0,0,https://gitee.com/iilic/crossmool,Rust utilities for SM2/SM3/SM4 compatible with 8-languages-implementation.
+2026-10-03T15:10:31.219458Z,frust-text,0.5.0,0,0,https://github.com/frust-rs/frust,"Text pipeline for Frust: font matching, shaping and layout over parley, with renderer-agnostic styles and glyph runs."
+2026-10-03T15:13:38.898091Z,ztap,0.0.1,0,0,https://github.com/efuhzho/Ztap,Ztap: a plugin-based test automation engine in Rust (name reserved; see repository)
+2026-10-03T15:13:45.343209Z,ztap-plugin-sdk,0.0.1,0,0,https://github.com/efuhzho/Ztap,Ztap plugin SDK: traits and derive macros for test step / resource / result listener plugins (name reserved)
+2026-10-03T15:13:48.859526Z,ztap-schema,0.0.1,0,0,https://github.com/efuhzho/Ztap,"Ztap schema types: Value, Verdict and plugin metadata (name reserved)"
+2026-10-03T15:13:56.329516Z,ztap-macros,0.0.1,0,0,https://github.com/efuhzho/Ztap,Ztap proc-macros: derive macros for the Ztap plugin SDK (name reserved)

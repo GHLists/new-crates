@@ -8,46 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 14:18 UTC
+## Latest list — 2026-10-03 15:18 UTC
 
-New crates published between 2026-10-03 13:18 UTC and 2026-10-03 14:18 UTC.
+New crates published between 2026-10-03 14:18 UTC and 2026-10-03 15:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-03T14-18-38-33516Z.csv)
+[Full CSV](data/new-crates-2026-10-03T15-18-38-885367Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-03 13:19:41 | [energistics](https://crates.io/crates/energistics) | 0.1.0 | 0 | ... |
-| 2026-10-03 13:21:41 | [frust-camera](https://crates.io/crates/frust-camera) | 0.5.0 | 0 | Camera plugin for Frust apps: permission, live preview, still capture, image an… |
-| 2026-10-03 13:29:54 | [chloroplast-ir](https://crates.io/crates/chloroplast-ir) | 0.1.0 | 0 | Detect inverted repeats (IRa/IRb) in an assembled chloroplast genome and re-emi… |
-| 2026-10-03 13:30:36 | [betula-schema](https://crates.io/crates/betula-schema) | 0.6.0 | 0 | Rust types and validating parsers for the betula bioinformatics JSON schemas |
-| 2026-10-03 13:32:05 | [frust-clipboard](https://crates.io/crates/frust-clipboard) | 0.5.0 | 0 | Synchronous plain-text clipboard for Frust apps: Android ClipboardManager, iOS… |
-| 2026-10-03 13:34:42 | [witsml](https://crates.io/crates/witsml) | 0.1.0 | 0 | Rust implementation of the WITSML (Wellsite Information Transfer Standard Marku… |
-| 2026-10-03 13:34:55 | [resqml](https://crates.io/crates/resqml) | 0.1.0 | 0 | Rust implementation of the RESQML (Reservoir Characterization Markup Language)… |
-| 2026-10-03 13:35:09 | [prodml](https://crates.io/crates/prodml) | 0.1.0 | 0 | Rust implementation of the PRODML (Production Markup Language) standard from En… |
-| 2026-10-03 13:35:38 | [watfaq-netstack](https://crates.io/crates/watfaq-netstack) | 0.1.0 | 0 | Async userspace TCP/IP network stack based on smoltcp for TUN interfaces. |
-| 2026-10-03 13:37:32 | [xray-rs](https://crates.io/crates/xray-rs) | 1.0.1 | 0 | High-performance Rust implementation of Xray-core with XTLS Vision, Reality, an… |
-| 2026-10-03 13:42:13 | [frust-haptics](https://crates.io/crates/frust-haptics) | 0.5.0 | 0 | Haptic feedback plugin for Frust apps: Android Vibrator and iOS feedback genera… |
-| 2026-10-03 13:44:30 | [goldapi](https://crates.io/crates/goldapi) | 0.1.1 | 0 | Unofficial typed async client for the GoldAPI.io precious metals API |
-| 2026-10-03 13:46:13 | [sootmark-history](https://crates.io/crates/sootmark-history) | 0.1.0 | 0 | Unix shell history files (bash, zsh, fish): every command, with its time, durat… |
-| 2026-10-03 13:51:49 | [decision-model-sdk-macros](https://crates.io/crates/decision-model-sdk-macros) | 0.1.0 | 0 | #[derive(QuestionSet)] for decision-model-sdk: decision model questions seriali… |
-| 2026-10-03 13:52:15 | [frust-iap](https://crates.io/crates/frust-iap) | 0.5.0 | 0 | In-app purchases for Frust apps over Android Play Billing and iOS StoreKit, usi… |
-| 2026-10-03 13:53:48 | [decision-model-sdk](https://crates.io/crates/decision-model-sdk) | 0.1.0 | 0 | Async Rust SDK for decision models served through the System One API |
-| 2026-10-03 13:54:57 | [decision-model-adapter](https://crates.io/crates/decision-model-adapter) | 0.1.0 | 0 | Ask System One questions of an OpenAI, Anthropic or Gemini model instead of a d… |
-| 2026-10-03 13:55:36 | [acacia-auth](https://crates.io/crates/acacia-auth) | 0.1.0 | 0 | Minecraft: Bedrock Edition authentication: login payload, Xbox Live and PlayFab… |
-| 2026-10-03 13:55:37 | [acacia-nethernet](https://crates.io/crates/acacia-nethernet) | 0.1.0 | 0 | Network-free NetherNet (WebRTC) transport for Minecraft: Bedrock Edition |
-| 2026-10-03 13:55:38 | [acacia-physics](https://crates.io/crates/acacia-physics) | 0.1.0 | 0 | Minecraft: Bedrock Edition player movement simulation |
-| 2026-10-03 13:55:39 | [acacia-proto](https://crates.io/crates/acacia-proto) | 0.1.0 | 0 | Minecraft: Bedrock Edition packet definitions |
-| 2026-10-03 13:55:40 | [acacia-raknet](https://crates.io/crates/acacia-raknet) | 0.1.0 | 0 | Network-free RakNet for Minecraft: Bedrock Edition |
-| 2026-10-03 13:57:04 | [meshchat-api](https://crates.io/crates/meshchat-api) | 0.13.0 | 0 | MeshChat HTTP and WebSocket compatibility surface for reticulumd. |
-| 2026-10-03 13:58:39 | [geoserde-fgb](https://crates.io/crates/geoserde-fgb) | 0.1.0-beta.1 | 0 | serde-based API for reading and writing the FlatGeobuf format |
-| 2026-10-03 13:59:25 | [xsolla](https://crates.io/crates/xsolla) | 0.0.0 | 0 | xsolla |
-| 2026-10-03 13:59:48 | [clocx](https://crates.io/crates/clocx) | 0.1.0 | 0 | Count lines of code and watch where work is happening, across git worktrees |
-| 2026-10-03 14:02:05 | [acacia-world](https://crates.io/crates/acacia-world) | 0.1.0 | 0 | Network-free Minecraft: Bedrock Edition world state: block registry and chunks |
-| 2026-10-03 14:02:25 | [frust-reactive](https://crates.io/crates/frust-reactive) | 0.5.0 | 0 | Reactive substrate for Frust: process-wide runtime, async executor, frame waker… |
-| 2026-10-03 14:09:47 | [sootmark-journal](https://crates.io/crates/sootmark-journal) | 0.1.0 | 0 | systemd journal files (.journal, .journal~): entries and their fields, regular… |
-| 2026-10-03 14:10:45 | [frust-scene](https://crates.io/crates/frust-scene) | 0.5.0 | 0 | Renderer-agnostic vector scene and display list builder used between Frust widg… |
-| 2026-10-03 14:12:38 | [acacia-session](https://crates.io/crates/acacia-session) | 0.1.0 | 0 | Network-free Minecraft: Bedrock Edition session layer: batching, compression, e… |
-| 2026-10-03 14:15:34 | [kcode-k1-web-bootstrap-preflight](https://crates.io/crates/kcode-k1-web-bootstrap-preflight) | 0.1.0 | 0 | Warning-only whole-archive planning for Loom Web bootstrap |
+| 2026-10-03 14:21:36 | [frust-core](https://crates.io/crates/frust-core) | 0.5.0 | 0 | Frust's declarative View API, retained Widget tree, box-constraint layout and r… |
+| 2026-10-03 14:21:50 | [acacia-client](https://crates.io/crates/acacia-client) | 0.1.0 | 0 | Async Minecraft: Bedrock Edition client over RakNet and NetherNet |
+| 2026-10-03 14:25:56 | [rustclean](https://crates.io/crates/rustclean) | 0.1.0 | 0 | Fast terminal disk usage analyzer and cleaner: reports, duplicates, app leftove… |
+| 2026-10-03 14:26:42 | [theroma](https://crates.io/crates/theroma) | 0.1.0 | 0 | A Catholic Bible Reader app |
+| 2026-10-03 14:27:31 | [taladb](https://crates.io/crates/taladb) | 0.12.0 | 0 | Embedded, local-first document and vector database: serde documents, JSON filte… |
+| 2026-10-03 14:31:48 | [frust-engine](https://crates.io/crates/frust-engine) | 0.5.0 | 0 | Sparse-strip GPU render pipeline for Frust: compiles a scene display list into… |
+| 2026-10-03 14:33:03 | [acacia-bot](https://crates.io/crates/acacia-bot) | 0.1.0 | 0 | High-level Minecraft: Bedrock Edition bot built on acacia-client |
+| 2026-10-03 14:34:07 | [polyclip](https://crates.io/crates/polyclip) | 0.0.0 | 0 | Exact integer 2D polygon geometry: booleans, offsetting, arcs, distance queries… |
+| 2026-10-03 14:36:06 | [workbench-api](https://crates.io/crates/workbench-api) | 0.1.0 | 0 | GUI-agnostic platform contracts for workbench-rs: commands, tasks, documents, w… |
+| 2026-10-03 14:38:25 | [consortium-ipc-transport-fdcan](https://crates.io/crates/consortium-ipc-transport-fdcan) | 0.4.0 | 0 | Segmenting FDCAN IPC transport for Consortium |
+| 2026-10-03 14:40:17 | [consortium-ipc-transport-fdcan-embedded](https://crates.io/crates/consortium-ipc-transport-fdcan-embedded) | 0.4.0 | 0 | Firmware-side glue for the Consortium FDCAN IPC transport |
+| 2026-10-03 14:40:47 | [frust-render](https://crates.io/crates/frust-render) | 0.5.0 | 0 | GPU backend for Frust: renders a frust-scene display list into a window surface… |
+| 2026-10-03 14:42:07 | [metalpriceapi](https://crates.io/crates/metalpriceapi) | 0.1.0 | 0 | Unofficial typed async client for MetalpriceAPI rates and OHLC |
+| 2026-10-03 14:42:10 | [acacia-mitm](https://crates.io/crates/acacia-mitm) | 0.1.0 | 0 | Recording proxy for Minecraft: Bedrock Edition vanilla-client captures over Rak… |
+| 2026-10-03 14:43:57 | [workbench-core](https://crates.io/crates/workbench-core) | 0.1.0 | 0 | Platform runtime for workbench-rs: product assembly, command dispatch, task pum… |
+| 2026-10-03 14:45:40 | [workbench-python](https://crates.io/crates/workbench-python) | 0.1.0 | 0 | Python plugin host for workbench-rs: manifest discovery, API version check, Hos… |
+| 2026-10-03 14:46:07 | [workbench-example](https://crates.io/crates/workbench-example) | 0.1.0 | 0 | Example Workbench module for workbench-rs: commands, panels, views, document ty… |
+| 2026-10-03 14:47:21 | [rhash-sys](https://crates.io/crates/rhash-sys) | 1.4.6 | 0 | FFI bindings for librhash |
+| 2026-10-03 14:47:53 | [workbench-ui-egui](https://crates.io/crates/workbench-ui-egui) | 0.1.0 | 0 | egui frontend adapter for workbench-rs (eframe glow backend + egui_tiles dockin… |
+| 2026-10-03 14:47:54 | [fleuron-markdown](https://crates.io/crates/fleuron-markdown) | 0.20.0 | 0 | Markdown frontend for fleuron: source text in, content tree out, with the const… |
+| 2026-10-03 14:47:56 | [fleuron-epub](https://crates.io/crates/fleuron-epub) | 0.20.0 | 0 | Reflowable EPUB for fleuron: a content tree and its stylesheets in, an EPUB 3 o… |
+| 2026-10-03 14:47:57 | [fleuron-cli](https://crates.io/crates/fleuron-cli) | 0.20.0 | 0 | The fleuron binary: markdown and CSS in, a typeset PDF or a reflowable EPUB out |
+| 2026-10-03 14:47:58 | [fleuron-wasm](https://crates.io/crates/fleuron-wasm) | 0.20.0 | 0 | WebAssembly bindings for fleuron: layout in a worker, display structure, PDF an… |
+| 2026-10-03 14:50:59 | [frust-secure-storage](https://crates.io/crates/frust-secure-storage) | 0.5.0 | 0 | Secure key-value storage for Frust apps: Keychain on Apple, Keystore on Android… |
+| 2026-10-03 14:53:36 | [workbench-ui-gpui](https://crates.io/crates/workbench-ui-gpui) | 0.1.0 | 0 | gpui frontend adapter for workbench-rs (gpui-ce + gpui component library) |
+| 2026-10-03 14:58:16 | [rhash-rs](https://crates.io/crates/rhash-rs) | 0.1.0 | 0 | Bindings to the librhash API, at a higher level |
+| 2026-10-03 15:00:21 | [maploom-filter-fast-mvt](https://crates.io/crates/maploom-filter-fast-mvt) | 0.1.0 | 0 | fast-mvt feature adapters for Maploom filters |
+| 2026-10-03 15:00:34 | [paasers](https://crates.io/crates/paasers) | 0.1.0 | 0 | PaaS edge gateway & ingress proxy |
+| 2026-10-03 15:01:02 | [harbor](https://crates.io/crates/harbor) | 0.0.0 | 0 | Release orchestration for Cargo workspaces: compute what publishes in what orde… |
+| 2026-10-03 15:02:43 | [frust-shared-preferences](https://crates.io/crates/frust-shared-preferences) | 0.5.0 | 0 | Synchronous typed key-value preferences for Frust apps: NSUserDefaults on Apple… |
+| 2026-10-03 15:07:16 | [crossmool](https://crates.io/crates/crossmool) | 1.3.1 | 0 | Rust utilities for SM2/SM3/SM4 compatible with 8-languages-implementation. |
+| 2026-10-03 15:10:31 | [frust-text](https://crates.io/crates/frust-text) | 0.5.0 | 0 | Text pipeline for Frust: font matching, shaping and layout over parley, with re… |
+| 2026-10-03 15:13:38 | [ztap](https://crates.io/crates/ztap) | 0.0.1 | 0 | Ztap: a plugin-based test automation engine in Rust (name reserved; see reposit… |
+| 2026-10-03 15:13:45 | [ztap-plugin-sdk](https://crates.io/crates/ztap-plugin-sdk) | 0.0.1 | 0 | Ztap plugin SDK: traits and derive macros for test step / resource / result lis… |
+| 2026-10-03 15:13:48 | [ztap-schema](https://crates.io/crates/ztap-schema) | 0.0.1 | 0 | Ztap schema types: Value, Verdict and plugin metadata (name reserved) |
+| 2026-10-03 15:13:56 | [ztap-macros](https://crates.io/crates/ztap-macros) | 0.0.1 | 0 | Ztap proc-macros: derive macros for the Ztap plugin SDK (name reserved) |
 
 ## Data source
 
