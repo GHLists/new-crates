@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T13:19:41.18321Z,energistics,0.1.0,0,0,https://cnb.cool/FishOrCat/energistics,...
+2026-10-03T13:21:41.169556Z,frust-camera,0.5.0,0,0,https://github.com/frust-rs/frust,"Camera plugin for Frust apps: permission, live preview, still capture, image and barcode streams on Android (CameraX) and iOS (AVFoundation)."
+2026-10-03T13:29:54.634789Z,chloroplast-ir,0.1.0,0,0,https://github.com/rustcodepro/chloromapper,"Detect inverted repeats (IRa/IRb) in an assembled chloroplast genome and re-emit it in canonical LSC-IRB-SSC-IRA end-to-end order, filling N where the assembly leaves a gap."
+2026-10-03T13:30:36.649988Z,betula-schema,0.6.0,0,0,https://github.com/holmrenser/betula,Rust types and validating parsers for the betula bioinformatics JSON schemas
+2026-10-03T13:32:05.138374Z,frust-clipboard,0.5.0,0,0,https://github.com/frust-rs/frust,"Synchronous plain-text clipboard for Frust apps: Android ClipboardManager, iOS UIPasteboard, and macOS, Linux and Windows through arboard."
+2026-10-03T13:34:42.752645Z,witsml,0.1.0,0,0,https://cnb.cool/FishOrCat/energistics,Rust implementation of the WITSML (Wellsite Information Transfer Standard Markup Language) standard from Energistics
+2026-10-03T13:34:55.800877Z,resqml,0.1.0,0,0,https://cnb.cool/FishOrCat/energistics,Rust implementation of the RESQML (Reservoir Characterization Markup Language) standard from Energistics
+2026-10-03T13:35:09.644457Z,prodml,0.1.0,0,0,https://cnb.cool/FishOrCat/energistics,Rust implementation of the PRODML (Production Markup Language) standard from Energistics
+2026-10-03T13:35:38.769994Z,watfaq-netstack,0.1.0,0,0,https://github.com/abc15018045126/xray-rs,Async userspace TCP/IP network stack based on smoltcp for TUN interfaces.
+2026-10-03T13:37:32.00988Z,xray-rs,1.0.1,0,0,https://github.com/abc15018045126/xray-rs,"High-performance Rust implementation of Xray-core with XTLS Vision, Reality, and TUN support."
+2026-10-03T13:42:13.395817Z,frust-haptics,0.5.0,0,0,https://github.com/frust-rs/frust,Haptic feedback plugin for Frust apps: Android Vibrator and iOS feedback generators; a silent no-op on desktop.
+2026-10-03T13:44:30.821906Z,goldapi,0.1.1,0,0,https://github.com/gilesw/goldapi-rs,Unofficial typed async client for the GoldAPI.io precious metals API
+2026-10-03T13:46:13.996963Z,sootmark-history,0.1.0,0,0,https://github.com/Sootmark/history,"Unix shell history files (bash, zsh, fish): every command, with its time, duration and paths when the shell wrote them."
+2026-10-03T13:51:49.78828Z,decision-model-sdk-macros,0.1.0,0,0,https://github.com/zchee/decision-model-sdk-rust,#[derive(QuestionSet)] for decision-model-sdk: decision model questions serialized at compile time
+2026-10-03T13:52:15.798491Z,frust-iap,0.5.0,0,0,https://github.com/frust-rs/frust,"In-app purchases for Frust apps over Android Play Billing and iOS StoreKit, using the OpenIAP 3.0.1 wire protocol."
+2026-10-03T13:53:48.343772Z,decision-model-sdk,0.1.0,0,0,https://github.com/zchee/decision-model-sdk-rust,Async Rust SDK for decision models served through the System One API
+2026-10-03T13:54:57.10146Z,decision-model-adapter,0.1.0,0,0,https://github.com/zchee/decision-model-sdk-rust,"Ask System One questions of an OpenAI, Anthropic or Gemini model instead of a decision model"
+2026-10-03T13:55:36.865299Z,acacia-auth,0.1.0,0,0,https://github.com/acacia-rs/acacia,"Minecraft: Bedrock Edition authentication: login payload, Xbox Live and PlayFab sign-in"
+2026-10-03T13:55:37.917797Z,acacia-nethernet,0.1.0,0,0,https://github.com/acacia-rs/acacia,Network-free NetherNet (WebRTC) transport for Minecraft: Bedrock Edition
+2026-10-03T13:55:38.664266Z,acacia-physics,0.1.0,0,0,https://github.com/acacia-rs/acacia,Minecraft: Bedrock Edition player movement simulation
+2026-10-03T13:55:39.595951Z,acacia-proto,0.1.0,0,0,https://github.com/acacia-rs/acacia,Minecraft: Bedrock Edition packet definitions
+2026-10-03T13:55:40.415467Z,acacia-raknet,0.1.0,0,0,https://github.com/acacia-rs/acacia,Network-free RakNet for Minecraft: Bedrock Edition
+2026-10-03T13:57:04.971439Z,meshchat-api,0.13.0,0,0,https://github.com/FreeTAKTeam/LXMF-rs,MeshChat HTTP and WebSocket compatibility surface for reticulumd.
+2026-10-03T13:58:39.928216Z,geoserde-fgb,0.1.0-beta.1,0,0,https://github.com/p4ken/geoserde,serde-based API for reading and writing the FlatGeobuf format
+2026-10-03T13:59:25.644848Z,xsolla,0.0.0,0,0,,xsolla
+2026-10-03T13:59:48.46404Z,clocx,0.1.0,0,0,https://github.com/lognd/clocx,"Count lines of code and watch where work is happening, across git worktrees"
+2026-10-03T14:02:05.278253Z,acacia-world,0.1.0,0,0,https://github.com/acacia-rs/acacia,Network-free Minecraft: Bedrock Edition world state: block registry and chunks
+2026-10-03T14:02:25.579904Z,frust-reactive,0.5.0,0,0,https://github.com/frust-rs/frust,"Reactive substrate for Frust: process-wide runtime, async executor, frame waker and shell event sources."
+2026-10-03T14:09:47.839635Z,sootmark-journal,0.1.0,0,0,https://github.com/Sootmark/journal,"systemd journal files (.journal, .journal~): entries and their fields, regular and compact, LZ4 decoded, damaged and online files read as far as they go."
+2026-10-03T14:10:45.095584Z,frust-scene,0.5.0,0,0,https://github.com/frust-rs/frust,Renderer-agnostic vector scene and display list builder used between Frust widgets and the GPU backend.
+2026-10-03T14:12:38.691278Z,acacia-session,0.1.0,0,0,https://github.com/acacia-rs/acacia,"Network-free Minecraft: Bedrock Edition session layer: batching, compression, encryption, login"
+2026-10-03T14:15:34.419953Z,kcode-k1-web-bootstrap-preflight,0.1.0,0,0,,Warning-only whole-archive planning for Loom Web bootstrap
