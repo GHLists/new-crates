@@ -8,47 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 18:20 UTC
+## Latest list — 2026-10-03 19:18 UTC
 
-New crates published between 2026-10-03 17:18 UTC and 2026-10-03 18:20 UTC.
+New crates published between 2026-10-03 18:20 UTC and 2026-10-03 19:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-03T18-20-42-538295Z.csv)
+[Full CSV](data/new-crates-2026-10-03T19-18-52-898031Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-03 17:20:55 | [frust-shell-android](https://crates.io/crates/frust-shell-android) | 0.5.0 | 0 | Android shell for Frust apps: the Rust half of the JNI bridge, with the android… |
-| 2026-10-03 17:22:10 | [war3-game](https://crates.io/crates/war3-game) | 0.0.6 | 0 | The user's Warcraft III installation: where its data lives, and the object name… |
-| 2026-10-03 17:22:12 | [war3-object](https://crates.io/crates/war3-object) | 0.0.6 | 0 | Warcraft III object data (.w3u and the other object files) |
-| 2026-10-03 17:22:14 | [war3-project](https://crates.io/crates/war3-project) | 0.0.6 | 0 | Source project (extract/build): each archive member becomes text, decoded binar… |
-| 2026-10-03 17:23:26 | [characterminator](https://crates.io/crates/characterminator) | 0.1.0 | 0 | find and eliminate characters outside an allowed set, per file type and per fil… |
-| 2026-10-03 17:26:29 | [cg-deps](https://crates.io/crates/cg-deps) | 0.1.0 | 0 | Dependency manifest inventory for scanward (Cargo, npm, PyPI, Go, Composer, Rub… |
-| 2026-10-03 17:29:13 | [spotter-tui](https://crates.io/crates/spotter-tui) | 0.1.0 | 0 | A live, read-only terminal view of what changed on your branch, built for revie… |
-| 2026-10-03 17:30:55 | [frust-shell-ios](https://crates.io/crates/frust-shell-ios) | 0.5.0 | 0 | iOS shell for Frust apps: the Rust half of the C-ABI bridge, with the ios_app!… |
-| 2026-10-03 17:37:34 | [mcpspan](https://crates.io/crates/mcpspan) | 0.1.0 | 0 | Self-hosted analytics for MCP servers: which tools, resources and prompts get u… |
-| 2026-10-03 17:40:26 | [frust-ui](https://crates.io/crates/frust-ui) | 0.5.0 | 0 | Frust: a Rust-native, mobile-first declarative UI framework; the facade crate a… |
-| 2026-10-03 17:44:53 | [hanzo-learn](https://crates.io/crates/hanzo-learn) | 0.1.0 | 0 | Statistical learning as values: fit is a transformation, a model is a value, pr… |
-| 2026-10-03 17:45:20 | [hanzo-train](https://crates.io/crates/hanzo-train) | 0.11.20 | 0 | Training on hanzo-ml: one model across heterogeneous machines (DiLoCo local SGD… |
-| 2026-10-03 17:49:23 | [eunomia-derive](https://crates.io/crates/eunomia-derive) | 0.9.0 | 0 | Derive macros for Eunomia byte-layout marker traits |
-| 2026-10-03 17:50:34 | [frust-beui](https://crates.io/crates/frust-beui) | 0.5.0 | 0 | beUI design-system catalog for Frust: a port of beUI v2 with its tokens, glass… |
-| 2026-10-03 17:55:56 | [dmml](https://crates.io/crates/dmml) | 0.1.0 | 0 | Rust implementation of the DMML (Drilling and Measurement Markup Language) stan… |
-| 2026-10-03 17:57:12 | [rustxform-core](https://crates.io/crates/rustxform-core) | 0.1.0 | 0 | Core data model (Survey, Question, Settings) for rustxform. |
-| 2026-10-03 17:57:13 | [rustxform-expr](https://crates.io/crates/rustxform-expr) | 0.1.0 | 0 | Tokenize XLSForm expressions and rewrite ${ref} into XPath. |
-| 2026-10-03 17:57:15 | [rustxform-reader](https://crates.io/crates/rustxform-reader) | 0.1.0 | 0 | Workbook readers (Markdown first; XLSX/XLS/CSV later) for rustxform. |
-| 2026-10-03 17:57:19 | [rustxform-parse](https://crates.io/crates/rustxform-parse) | 0.1.0 | 0 | Normalize a raw workbook into the rustxform survey model. |
-| 2026-10-03 17:57:21 | [rustxform-xform](https://crates.io/crates/rustxform-xform) | 0.1.0 | 0 | Emit XForm XML from the rustxform survey model. |
-| 2026-10-03 18:00:28 | [frust-cupertino](https://crates.io/crates/frust-cupertino) | 0.5.0 | 0 | Cupertino (iOS-styled) design-system catalog for Frust: nav bar, tab bar, switc… |
-| 2026-10-03 18:01:03 | [candding](https://crates.io/crates/candding) | 0.1.0 | 0 | Pure candle embeddings for Rust with no ONNX: dense, sparse, multi-vector and r… |
-| 2026-10-03 18:03:43 | [git-amaga-core](https://crates.io/crates/git-amaga-core) | 0.2.0 | 0 | Library behind git-amaga: encrypted secret files in Git, shared through age or… |
-| 2026-10-03 18:03:46 | [git-amaga](https://crates.io/crates/git-amaga) | 0.2.0 | 0 | Encrypted secret files in Git, shared with a team through age or GPG keys |
-| 2026-10-03 18:05:53 | [seneschal](https://crates.io/crates/seneschal) | 0.1.0 | 0 | Lets a controller manage a remote radio board safely: the signed control reques… |
-| 2026-10-03 18:06:19 | [uzor-vision](https://crates.io/crates/uzor-vision) | 1.5.3 | 0 | GPU-first computer vision frontend (uzor). Denoise + superpixels; CPU fallback.… |
-| 2026-10-03 18:06:49 | [uzor-vectorize](https://crates.io/crates/uzor-vectorize) | 1.5.3 | 0 | PNG/JPEG → SVG tracer for flat-color graphics (uzor). Inverse of uzor-icon. |
-| 2026-10-03 18:07:15 | [uzor-typography](https://crates.io/crates/uzor-typography) | 1.5.3 | 0 | Markdown-subset typography: pages and slides to PDF, PNG, DOCX, and PPTX. |
-| 2026-10-03 18:11:21 | [frust-glyph](https://crates.io/crates/frust-glyph) | 0.5.0 | 0 | Glyph design-system catalog for Frust: a terminal-native, dark-first, monospace… |
-| 2026-10-03 18:13:47 | [disksweep](https://crates.io/crates/disksweep) | 0.0.0 | 0 | Read-only disk usage browser for macOS and Linux, built for speed |
-| 2026-10-03 18:16:49 | [wm-gen3-core](https://crates.io/crates/wm-gen3-core) | 10.0.0-alpha | 0 | WhiteMagic Gen3 — minimal substrate skeleton (Phase 1 first slice) |
-| 2026-10-03 18:17:23 | [vsh-execution](https://crates.io/crates/vsh-execution) | 0.6.0 | 0 | Shared policy-aware execution boundary for VSH guest adapters |
-| 2026-10-03 18:17:26 | [vsh-bash](https://crates.io/crates/vsh-bash) | 0.6.0 | 0 | Isolated Bashkit execution against VSH's policy-aware filesystem authority |
+| 2026-10-03 18:21:32 | [frust-i18n](https://crates.io/crates/frust-i18n) | 0.5.0 | 0 | Fluent Project and ICU4X internationalization with compile-time bundle loading,… |
+| 2026-10-03 18:21:48 | [rs4dggs-ogc](https://crates.io/crates/rs4dggs-ogc) | 0.2.0 | 0 | The encodings of OGC API - DGGS over rs4dggs: zone lists, DGGS-JSON, DGGS-UBJSO… |
+| 2026-10-03 18:25:59 | [renox-macros](https://crates.io/crates/renox-macros) | 1.0.0-rc.1 | 0 | Procedural macros for the Renox web framework: derive Model, FromRow and DbEnum… |
+| 2026-10-03 18:26:15 | [keyspoor](https://crates.io/crates/keyspoor) | 0.1.1 | 0 | Offline secret scanner and Rust library for Git, CI and AI agents, with MCP, JS… |
+| 2026-10-03 18:26:50 | [renox-core](https://crates.io/crates/renox-core) | 1.0.0-rc.1 | 0 | Runtime of the Renox web framework: routing, views, database and models, valida… |
+| 2026-10-03 18:27:59 | [quat_llm](https://crates.io/crates/quat_llm) | 0.1.1 | 0 | A high-performance, lightweight 2-bit quantized LLM inference engine in Rust |
+| 2026-10-03 18:32:28 | [frust-material](https://crates.io/crates/frust-material) | 0.5.0 | 0 | Material 3 (Expressive) design-system catalog for Frust: HCT seed-color tokens,… |
+| 2026-10-03 18:38:21 | [gpui-alloy-smol](https://crates.io/crates/gpui-alloy-smol) | 0.1.0 | 0 | A small and fast async runtime |
+| 2026-10-03 18:40:15 | [frust-native-widgets](https://crates.io/crates/frust-native-widgets) | 0.5.0 | 0 | Real native controls (Android Views, UIKit, AppKit) for Frust apps, written fro… |
+| 2026-10-03 18:41:10 | [tsr_fswatch](https://crates.io/crates/tsr_fswatch) | 0.2.0 | 0 | Native filesystem watcher backends (FSEvents, inotify, fanotify, kqueue) for tsr |
+| 2026-10-03 18:42:09 | [tsr_jsonrpc](https://crates.io/crates/tsr_jsonrpc) | 0.2.0 | 0 | JSON-RPC 2.0 messages and Content-Length framing for tsr |
+| 2026-10-03 18:42:14 | [tsr_sourcemap](https://crates.io/crates/tsr_sourcemap) | 0.2.0 | 0 | Source map generation, mapping decoding and document position mapping for tsr |
+| 2026-10-03 18:42:45 | [ohp](https://crates.io/crates/ohp) | 0.1.0 | 0 | Present beamer PDF slides, and markdown, in the terminal over the kitty graphic… |
+| 2026-10-03 18:42:46 | [tsr_ipc](https://crates.io/crates/tsr_ipc) | 0.2.0 | 0 | Bidirectional JSON-RPC connections for tsr |
+| 2026-10-03 18:43:46 | [tsr_contentmapper](https://crates.io/crates/tsr_contentmapper) | 0.2.0 | 0 | The content-mapper host for tsr: external content transformed into virtual Type… |
+| 2026-10-03 18:45:02 | [tsr_tracing](https://crates.io/crates/tsr_tracing) | 0.2.0 | 0 | Compiler trace sessions (--generateTrace) and their file serialization for tsr |
+| 2026-10-03 18:45:51 | [tesserax-auth](https://crates.io/crates/tesserax-auth) | 0.1.0 | 0 | Authentication for tesserax servers: doors with path policies, hashed key ring,… |
+| 2026-10-03 18:45:58 | [tesserax-secrets](https://crates.io/crates/tesserax-secrets) | 0.1.0 | 0 | Secrets at rest and signing for tesserax services: host-bound sealing, daemon i… |
+| 2026-10-03 18:46:03 | [tesserax-store](https://crates.io/crates/tesserax-store) | 0.1.0 | 0 | SQLite persistence for tesserax services: one writer, bounded read pool, batch… |
+| 2026-10-03 18:46:20 | [tesserax-http](https://crates.io/crates/tesserax-http) | 0.1.0 | 0 | HTTP surface for tesserax servers: self-describing routes, OpenAPI from the rou… |
+| 2026-10-03 18:46:29 | [tesserax-transport](https://crates.io/crates/tesserax-transport) | 0.1.0 | 0 | Link IO for tesserax services: owner-only local sockets and pipes, a mutual lin… |
+| 2026-10-03 18:50:53 | [frust-shadcn](https://crates.io/crates/frust-shadcn) | 0.5.0 | 0 | shadcn/ui design-system catalog for Frust: a port of shadcn/ui v4 with its toke… |
+| 2026-10-03 18:53:19 | [subduction_object_storage](https://crates.io/crates/subduction_object_storage) | 0.1.0 | 0 | Object storage (S3-compatible) backend for Sedimentree |
+| 2026-10-03 18:53:40 | [quvyta-music](https://crates.io/crates/quvyta-music) | 0.1.1 | 0 | A music player for the terminal: your own library, gapless playback, album art… |
+| 2026-10-03 18:55:31 | [claude-status-line](https://crates.io/crates/claude-status-line) | 1.0.0 | 0 | Claude status line that displays the model, effort, context, and cost. |
+| 2026-10-03 18:58:21 | [gpui-alloy-perf](https://crates.io/crates/gpui-alloy-perf) | 0.1.0 | 0 | A tool for measuring Zed test performance, with too many Clippy lints |
+| 2026-10-03 19:00:44 | [frust-video-player](https://crates.io/crates/frust-video-player) | 0.5.0 | 0 | Video playback for Frust apps over Media3 ExoPlayer on Android and AVFoundation… |
+| 2026-10-03 19:05:23 | [lite-config](https://crates.io/crates/lite-config) | 0.1.0 | 0 | Simple config file management |
+| 2026-10-03 19:06:04 | [autogen-customerio](https://crates.io/crates/autogen-customerio) | 0.1.0 | 0 | Auto-generated, strongly-typed Rust client for the Customer.io APIs (Track, App… |
+| 2026-10-03 19:07:34 | [gpui-alloy-zlog](https://crates.io/crates/gpui-alloy-zlog) | 0.1.0 | 0 | GPUI Alloy distribution of zlog |
+| 2026-10-03 19:07:36 | [yardmaster](https://crates.io/crates/yardmaster) | 0.0.0 | 0 | A daemon that starts, supervises and coordinates agents across machines. Name r… |
+| 2026-10-03 19:10:16 | [clean-signals-frust](https://crates.io/crates/clean-signals-frust) | 0.5.0 | 0 | Frust integration for clean-signals: component-scoped controllers and failure l… |
+| 2026-10-03 19:13:20 | [tsr_incremental](https://crates.io/crates/tsr_incremental) | 0.2.0 | 0 | The incremental program and its build info (tsBuildInfo) for tsr |
+| 2026-10-03 19:13:30 | [tsr_transpile](https://crates.io/crates/tsr_transpile) | 0.2.0 | 0 | Single-file JavaScript and declaration emit (transpileModule, transpileDeclarat… |
+| 2026-10-03 19:13:55 | [tsr_tsc](https://crates.io/crates/tsr_tsc) | 0.2.0 | 0 | Shared command-line contracts, reporting, help and watch management for the tsr… |
+| 2026-10-03 19:14:43 | [crawlberg-robots](https://crates.io/crates/crawlberg-robots) | 1.9.0 | 0 | The robots.txt parser shared by the crawlberg crawler and its headless-browser… |
 
 ## Data source
 

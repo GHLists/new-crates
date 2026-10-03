@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T18:21:32.09063Z,frust-i18n,0.5.0,0,0,https://github.com/frust-rs/frust,"Fluent Project and ICU4X internationalization with compile-time bundle loading, system locale detection, and formatting."
+2026-10-03T18:21:48.968949Z,rs4dggs-ogc,0.2.0,0,0,https://github.com/terraops-org/rs4dggs,"The encodings of OGC API - DGGS over rs4dggs: zone lists, DGGS-JSON, DGGS-UBJSON, GeoJSON and the definitions of six DGGAL grids"
+2026-10-03T18:25:59.701004Z,renox-macros,1.0.0-rc.1,0,0,https://github.com/arif-rachim/renox,"Procedural macros for the Renox web framework: derive Model, FromRow and DbEnum, migrations!(), embedded!() and #[renox::test]."
+2026-10-03T18:26:15.643275Z,keyspoor,0.1.1,0,0,https://github.com/majiayu000/keyspoor,"Offline secret scanner and Rust library for Git, CI and AI agents, with MCP, JSONL and SARIF"
+2026-10-03T18:26:50.173304Z,renox-core,1.0.0-rc.1,0,0,https://github.com/arif-rachim/renox,"Runtime of the Renox web framework: routing, views, database and models, validation, auth, queue, scheduler, mail, storage. Use it through the `renox` crate."
+2026-10-03T18:27:59.606861Z,quat_llm,0.1.1,0,0,https://github.com/strahinjastojanovic826-code/quat_llm,"A high-performance, lightweight 2-bit quantized LLM inference engine in Rust"
+2026-10-03T18:32:28.244262Z,frust-material,0.5.0,0,0,https://github.com/frust-rs/frust,"Material 3 (Expressive) design-system catalog for Frust: HCT seed-color tokens, shape morphing, icons, widgets and bundled Roboto fonts."
+2026-10-03T18:38:21.152082Z,gpui-alloy-smol,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,A small and fast async runtime
+2026-10-03T18:40:15.175638Z,frust-native-widgets,0.5.0,0,0,https://github.com/frust-rs/frust,"Real native controls (Android Views, UIKit, AppKit) for Frust apps, written from pure Rust and hosted as platform views."
+2026-10-03T18:41:10.233734Z,tsr_fswatch,0.2.0,0,0,https://github.com/ferrotype/tsr,"Native filesystem watcher backends (FSEvents, inotify, fanotify, kqueue) for tsr"
+2026-10-03T18:42:09.143275Z,tsr_jsonrpc,0.2.0,0,0,https://github.com/ferrotype/tsr,JSON-RPC 2.0 messages and Content-Length framing for tsr
+2026-10-03T18:42:14.798754Z,tsr_sourcemap,0.2.0,0,0,https://github.com/ferrotype/tsr,"Source map generation, mapping decoding and document position mapping for tsr"
+2026-10-03T18:42:45.144403Z,ohp,0.1.0,0,0,https://github.com/YPARK/ohp,"Present beamer PDF slides, and markdown, in the terminal over the kitty graphics protocol"
+2026-10-03T18:42:46.467136Z,tsr_ipc,0.2.0,0,0,https://github.com/ferrotype/tsr,Bidirectional JSON-RPC connections for tsr
+2026-10-03T18:43:46.196887Z,tsr_contentmapper,0.2.0,0,0,https://github.com/ferrotype/tsr,The content-mapper host for tsr: external content transformed into virtual TypeScript
+2026-10-03T18:45:02.608584Z,tsr_tracing,0.2.0,0,0,https://github.com/ferrotype/tsr,Compiler trace sessions (--generateTrace) and their file serialization for tsr
+2026-10-03T18:45:51.692243Z,tesserax-auth,0.1.0,0,0,https://github.com/ZENG3LD/tesserax,"Authentication for tesserax servers: doors with path policies, hashed key ring, constant-time compare, HMAC-SHA256, derived tokens, auth ban."
+2026-10-03T18:45:58.423874Z,tesserax-secrets,0.1.0,0,0,https://github.com/ZENG3LD/tesserax,"Secrets at rest and signing for tesserax services: host-bound sealing, daemon identity, signed operator commands, Shamir sharing, tripwire, key sources."
+2026-10-03T18:46:03.716119Z,tesserax-store,0.1.0,0,0,https://github.com/ZENG3LD/tesserax,"SQLite persistence for tesserax services: one writer, bounded read pool, batch writer, checkpointer, migrations, hash-chained audit log, atomic files, optional encryption and an embedded time-series…"
+2026-10-03T18:46:20.872396Z,tesserax-http,0.1.0,0,0,https://github.com/ZENG3LD/tesserax,"HTTP surface for tesserax servers: self-describing routes, OpenAPI from the route table, SSE / WebSocket hubs with resume, security guards, caching and tracing middleware, static assets, optional COR…"
+2026-10-03T18:46:29.230974Z,tesserax-transport,0.1.0,0,0,https://github.com/ZENG3LD/tesserax,"Link IO for tesserax services: owner-only local sockets and pipes, a mutual link proof bound to a caller context, a call-home preface, the Ipc and TLS accept loops of a tesserax server, SPKI pins, an…"
+2026-10-03T18:50:53.401432Z,frust-shadcn,0.5.0,0,0,https://github.com/frust-rs/frust,"shadcn/ui design-system catalog for Frust: a port of shadcn/ui v4 with its token presets, overlay seam, widgets and bundled Inter and JetBrains Mono."
+2026-10-03T18:53:19.285335Z,subduction_object_storage,0.1.0,0,0,https://github.com/chee/galaxy.observer,Object storage (S3-compatible) backend for Sedimentree
+2026-10-03T18:53:40.340997Z,quvyta-music,0.1.1,0,0,https://github.com/quvyta/music,"A music player for the terminal: your own library, gapless playback, album art and a visualizer drawn from the sound itself"
+2026-10-03T18:55:31.303726Z,claude-status-line,1.0.0,0,0,,"Claude status line that displays the model, effort, context, and cost."
+2026-10-03T18:58:21.618562Z,gpui-alloy-perf,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,"A tool for measuring Zed test performance, with too many Clippy lints"
+2026-10-03T19:00:44.673068Z,frust-video-player,0.5.0,0,0,https://github.com/frust-rs/frust,"Video playback for Frust apps over Media3 ExoPlayer on Android and AVFoundation on iOS and macOS, hosted in a native platform view."
+2026-10-03T19:05:23.700357Z,lite-config,0.1.0,0,0,https://github.com/tangge233/PCL-Anywhere,Simple config file management
+2026-10-03T19:06:04.500458Z,autogen-customerio,0.1.0,0,0,https://github.com/steventhanna/autogen-customerio,"Auto-generated, strongly-typed Rust client for the Customer.io APIs (Track, App, Pipelines)"
+2026-10-03T19:07:34.216398Z,gpui-alloy-zlog,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,GPUI Alloy distribution of zlog
+2026-10-03T19:07:36.215873Z,yardmaster,0.0.0,0,0,,"A daemon that starts, supervises and coordinates agents across machines. Name reserved; not yet released."
+2026-10-03T19:10:16.373173Z,clean-signals-frust,0.5.0,0,0,https://github.com/frust-rs/frust,Frust integration for clean-signals: component-scoped controllers and failure listeners
+2026-10-03T19:13:20.002445Z,tsr_incremental,0.2.0,0,0,https://github.com/ferrotype/tsr,The incremental program and its build info (tsBuildInfo) for tsr
+2026-10-03T19:13:30.484367Z,tsr_transpile,0.2.0,0,0,https://github.com/ferrotype/tsr,"Single-file JavaScript and declaration emit (transpileModule, transpileDeclaration) for tsr"
+2026-10-03T19:13:55.50329Z,tsr_tsc,0.2.0,0,0,https://github.com/ferrotype/tsr,"Shared command-line contracts, reporting, help and watch management for the tsr compiler"
+2026-10-03T19:14:43.971207Z,crawlberg-robots,1.9.0,0,0,https://github.com/xberg-io/crawlberg,The robots.txt parser shared by the crawlberg crawler and its headless-browser fallback.
