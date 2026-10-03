@@ -8,47 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 12:22 UTC
+## Latest list — 2026-10-03 13:18 UTC
 
-New crates published between 2026-10-03 11:19 UTC and 2026-10-03 12:22 UTC.
+New crates published between 2026-10-03 12:22 UTC and 2026-10-03 13:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-03T12-22-14-924616Z.csv)
+[Full CSV](data/new-crates-2026-10-03T13-18-31-975378Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-03 11:19:56 | [configfs-derive](https://crates.io/crates/configfs-derive) | 0.1.0 | 0 | Derive macro for the configfs crate |
-| 2026-10-03 11:21:07 | [sz-rust-key-rotation](https://crates.io/crates/sz-rust-key-rotation) | 1.7.0 | 0 | SZ-Rust 密钥轮换 |
-| 2026-10-03 11:24:02 | [maploom-core](https://crates.io/crates/maploom-core) | 0.1.0 | 0 | Typed map layers and backend-independent filter expressions |
-| 2026-10-03 11:25:18 | [dbvh](https://crates.io/crates/dbvh) | 0.1.1 | 0 | A dynamic bvh using generic bounding volume with 0 dependencies |
-| 2026-10-03 11:25:28 | [mlmf-hf-tokenizer](https://crates.io/crates/mlmf-hf-tokenizer) | 0.5.10 | 0 | tokenizer.json vocab+merges reader for the BPE model type. No I/O, no tokenizat… |
-| 2026-10-03 11:32:22 | [sz-rust-i18n](https://crates.io/crates/sz-rust-i18n) | 1.7.0 | 0 | SZ-Rust 多语言 i18n 支持 |
-| 2026-10-03 11:35:08 | [rok-db-core](https://crates.io/crates/rok-db-core) | 0.1.0 | 0 | Core runtime for rok-db: models, query builder, values and connection handling |
-| 2026-10-03 11:35:10 | [rok-db-macros](https://crates.io/crates/rok-db-macros) | 0.1.0 | 0 | Derive macros for rok-db |
-| 2026-10-03 11:35:15 | [rok-db](https://crates.io/crates/rok-db) | 0.1.0 | 0 | An ergonomic, type-safe async ORM for PostgreSQL built on sqlx |
-| 2026-10-03 11:40:00 | [sootmark-utmp](https://crates.io/crates/sootmark-utmp) | 0.1.1 | 0 | Linux login records (utmp, wtmp, btmp): glibc's struct utmp in its 384- and 400… |
-| 2026-10-03 11:40:02 | [tibba-rbac](https://crates.io/crates/tibba-rbac) | 0.3.0 | 0 | rbac middleware for tibba |
-| 2026-10-03 11:47:15 | [sz-rust-zerocopy](https://crates.io/crates/sz-rust-zerocopy) | 1.7.0 | 0 | SZ-Rust 零拷贝序列化 — rkyv/zerocopy 集成 + 跨序列化器互操作 |
-| 2026-10-03 11:49:36 | [vize_oxc_parser](https://crates.io/crates/vize_oxc_parser) | 0.430.1 | 0 | Vize's fork of the Oxc parser with admission and observation APIs. |
-| 2026-10-03 11:49:45 | [vize_l0_derive](https://crates.io/crates/vize_l0_derive) | 0.430.1 | 0 | Davinci - #[derive(Folio)] for the stage-dump contract (host build dependency;… |
-| 2026-10-03 11:51:18 | [vize_l4](https://crates.io/crates/vize_l4) | 0.430.1 | 0 | L4 - the Davinci emission level (codename Stesura): writer, expression rewritin… |
-| 2026-10-03 11:55:13 | [lesto-cli](https://crates.io/crates/lesto-cli) | 0.1.0 | 0 | `lesto dev`: run a lesto application, rebuild and restart it on change, keep th… |
-| 2026-10-03 11:55:14 | [lesto-macros](https://crates.io/crates/lesto-macros) | 0.1.0 | 0 | Attribute and derive macros for lesto: #[lesto::get], #[lesto::model], #[lesto:… |
-| 2026-10-03 11:55:17 | [lesto](https://crates.io/crates/lesto) | 0.1.0 | 0 | FastAPI-like web framework on top of axum: garde validation, OpenAPI from types… |
-| 2026-10-03 11:57:25 | [voe-plugin-sdk](https://crates.io/crates/voe-plugin-sdk) | 0.1.0 | 0 | Plugin SDK wire types for Voe plugins — host <-> wasm JSON protocol definitions… |
-| 2026-10-03 11:58:37 | [wherewasi](https://crates.io/crates/wherewasi) | 1.0.0 | 0 | A simple CLI tool to remember what you were doing while you were away. |
-| 2026-10-03 11:58:39 | [sz-rust-pipeline](https://crates.io/crates/sz-rust-pipeline) | 1.7.0 | 0 | SZ-Rust 异步流水线 — 阶段并行 + 背压控制 + 阶段取消 |
-| 2026-10-03 11:59:37 | [sz-rust-benchmark-suite](https://crates.io/crates/sz-rust-benchmark-suite) | 1.7.0 | 0 | SZ-Rust 基准压测套件 |
-| 2026-10-03 12:03:15 | [ssh-copy-id](https://crates.io/crates/ssh-copy-id) | 0.0.0 | 0 | ssh-copy-id for Windows: installs an SSH public key on a remote account through… |
-| 2026-10-03 12:03:16 | [wallet-library](https://crates.io/crates/wallet-library) | 0.1.0 | 0 | A small BDK-based Bitcoin wallet library: mnemonic/descriptor wallets, sync thr… |
-| 2026-10-03 12:03:35 | [wickra-simd](https://crates.io/crates/wickra-simd) | 1.0.7 | 0 | Runtime SIMD dispatch for the Wickra technical indicators core: runs a kernel w… |
-| 2026-10-03 12:13:48 | [tc_macs](https://crates.io/crates/tc_macs) | 0.1.0 | 0 | Message authentication codes over block ciphers and digests: CBC-MAC, CFB-MAC,… |
-| 2026-10-03 12:13:51 | [tc_poly1305](https://crates.io/crates/tc_poly1305) | 0.1.0 | 0 | The Poly1305 one-time message authentication code (RFC 8439), constant time, ov… |
-| 2026-10-03 12:13:54 | [sz-rust-alert-engine](https://crates.io/crates/sz-rust-alert-engine) | 1.7.0 | 0 | SZ-Rust 告警规则引擎 |
-| 2026-10-03 12:14:31 | [frust-devtools-protocol](https://crates.io/crates/frust-devtools-protocol) | 0.5.0 | 0 | Wire contract between the Frust in-app debug service and external tooling: JSON… |
-| 2026-10-03 12:14:33 | [frust-gpu](https://crates.io/crates/frust-gpu) | 0.5.0 | 0 | wgpu adapter, device and surface foundation for Frust: capability probing, surf… |
-| 2026-10-03 12:14:35 | [frust-i18n-macros](https://crates.io/crates/frust-i18n-macros) | 0.5.0 | 0 | Compile-time Fluent message bundle loader proc macro for frust-i18n. |
-| 2026-10-03 12:14:36 | [frust-oauth-native](https://crates.io/crates/frust-oauth-native) | 0.5.0 | 0 | Protocol half of an RFC 8252 OAuth 2.0 native-app sign-in for Frust: PKCE, stat… |
-| 2026-10-03 12:14:37 | [frust-paths](https://crates.io/crates/frust-paths) | 0.5.0 | 0 | Platform directory resolution and atomic file-write helpers shared by Frust she… |
+| 2026-10-03 12:23:29 | [sootmark-syslog](https://crates.io/crates/sootmark-syslog) | 0.1.0 | 0 | Linux syslog files (classic, RFC 3339 and RFC 5424 lines): entries with honest… |
+| 2026-10-03 12:26:24 | [sz-rust-log-aggregator](https://crates.io/crates/sz-rust-log-aggregator) | 1.7.0 | 0 | SZ-Rust 日志聚合 |
+| 2026-10-03 12:27:50 | [frust-database](https://crates.io/crates/frust-database) | 0.5.0 | 0 | Synchronous local SQL database for Frust apps, backed by SQLite (default) or th… |
+| 2026-10-03 12:29:38 | [frust-devtools](https://crates.io/crates/frust-devtools) | 0.5.0 | 0 | In-app debug service for Frust apps: a loopback, token-authenticated NDJSON JSO… |
+| 2026-10-03 12:35:36 | [pickcat-api-collection](https://crates.io/crates/pickcat-api-collection) | 0.1.4 | 0 | PickcatAPI合集 |
+| 2026-10-03 12:36:13 | [mcplsb](https://crates.io/crates/mcplsb) | 0.1.0 | 0 | Local read-only language intelligence for MCP agents |
+| 2026-10-03 12:38:11 | [sz-rust-plugin-sdk](https://crates.io/crates/sz-rust-plugin-sdk) | 1.7.0 | 0 | SZ-Rust 插件 SDK — 生命周期钩子 + API 稳定性 + 版本兼容声明 |
+| 2026-10-03 12:38:24 | [phyevkit](https://crates.io/crates/phyevkit) | 0.7.0 | 0 | evolutionary genomics |
+| 2026-10-03 12:41:10 | [ml-split](https://crates.io/crates/ml-split) | 0.2.0 | 0 | Random and stratified train/test splitting for X/y data, framework-agnostic and… |
+| 2026-10-03 12:42:09 | [frust-drive](https://crates.io/crates/frust-drive) | 0.5.0 | 0 | Shared drive logic behind the Frust tools: project scaffolding, environment doc… |
+| 2026-10-03 12:43:04 | [pyrrhus](https://crates.io/crates/pyrrhus) | 0.1.0 | 0 | Pyrrhus interpreter |
+| 2026-10-03 12:43:05 | [pyrrhus_parser](https://crates.io/crates/pyrrhus_parser) | 0.1.0 | 0 | Pyrrhus parser |
+| 2026-10-03 12:44:06 | [ic-delegated-auth](https://crates.io/crates/ic-delegated-auth) | 0.1.4 | 0 | Delegated application authentication for Internet Computer canisters |
+| 2026-10-03 12:49:29 | [sz-rust-monitor-panel](https://crates.io/crates/sz-rust-monitor-panel) | 1.7.0 | 0 | SZ-Rust 可视化监控面板 |
+| 2026-10-03 12:49:41 | [nannyml_metrics](https://crates.io/crates/nannyml_metrics) | 0.1.0 | 0 | Rust reimplementation of NannyML's univariate drift and performance-estimation… |
+| 2026-10-03 12:50:37 | [frust-mcp](https://crates.io/crates/frust-mcp) | 0.5.0 | 0 | MCP server that lets AI agents launch, drive and diagnose Frust app sessions ov… |
+| 2026-10-03 12:51:16 | [acs-solver](https://crates.io/crates/acs-solver) | 0.1.5 | 0 | A geometric constraint solver written in Rust with WebAssembly bindings for web… |
+| 2026-10-03 12:54:48 | [shadrs](https://crates.io/crates/shadrs) | 0.1.0 | 0 | shadcn/ui 风格的 iced 组件体系：设计令牌 + 可复制到项目中的组件源码 |
+| 2026-10-03 12:55:50 | [shadrs-cli](https://crates.io/crates/shadrs-cli) | 0.1.0 | 0 | shadrs CLI：shadrs new / init / add / list —— 把组件源码交付到你的 iced 项目中 |
+| 2026-10-03 12:56:57 | [sz-rust-upload](https://crates.io/crates/sz-rust-upload) | 1.7.0 | 0 | SZ-Rust 文件上传/分片 |
+| 2026-10-03 12:57:38 | [chessigma](https://crates.io/crates/chessigma) | 0.1.0 | 0 | Typed Rust client for the Chessigma public chess API: daily puzzles, Elo and ga… |
+| 2026-10-03 13:01:59 | [frust-dap](https://crates.io/crates/frust-dap) | 0.5.0 | 0 | Debug Adapter Protocol server for Frust, embedded in its host and sharing the h… |
+| 2026-10-03 13:07:08 | [viroencoder](https://crates.io/crates/viroencoder) | 0.1.0 | 0 | virus anamoly detection |
+| 2026-10-03 13:11:29 | [bacircos](https://crates.io/crates/bacircos) | 0.1.0 | 0 | Circos-style circular genome plots for bacterial genomes and metagenomes |
+| 2026-10-03 13:12:08 | [frust-plugin](https://crates.io/crates/frust-plugin) | 0.5.0 | 0 | Substrate for Frust plugins: Android platform handles and the desktop native-vi… |
 
 ## Data source
 

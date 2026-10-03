@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T12:23:29.618716Z,sootmark-syslog,0.1.0,0,0,https://github.com/Sootmark/syslog,"Linux syslog files (classic, RFC 3339 and RFC 5424 lines): entries with honest times (years inferred and marked), and what sshd, sudo, cron and account tools recorded."
+2026-10-03T12:26:24.496494Z,sz-rust-log-aggregator,1.7.0,0,0,https://github.com/ljclz/sz-rust,SZ-Rust 日志聚合
+2026-10-03T12:27:50.143541Z,frust-database,0.5.0,0,0,https://github.com/frust-rs/frust,"Synchronous local SQL database for Frust apps, backed by SQLite (default) or the optional turso engine."
+2026-10-03T12:29:38.526697Z,frust-devtools,0.5.0,0,0,https://github.com/frust-rs/frust,"In-app debug service for Frust apps: a loopback, token-authenticated NDJSON JSON-RPC server backed by a shell-supplied trait."
+2026-10-03T12:35:36.294205Z,pickcat-api-collection,0.1.4,0,0,,PickcatAPI合集
+2026-10-03T12:36:13.886545Z,mcplsb,0.1.0,0,0,https://github.com/dev-camo/mcplsb,Local read-only language intelligence for MCP agents
+2026-10-03T12:38:11.899611Z,sz-rust-plugin-sdk,1.7.0,0,0,https://github.com/ljclz/sz-rust,SZ-Rust 插件 SDK — 生命周期钩子 + API 稳定性 + 版本兼容声明
+2026-10-03T12:38:24.413453Z,phyevkit,0.7.0,0,0,https://codeberg.org/gsablok/phyevkit,evolutionary genomics
+2026-10-03T12:41:10.01233Z,ml-split,0.2.0,0,0,https://codeberg.org/gsablok/mlsplit,"Random and stratified train/test splitting for X/y data, framework-agnostic and usable with any Rust ML crate (ndarray, nalgebra, linfa, smartcore, plain Vec, ...)."
+2026-10-03T12:42:09.458958Z,frust-drive,0.5.0,0,0,https://github.com/frust-rs/frust,"Shared drive logic behind the Frust tools: project scaffolding, environment doctor, device discovery and run/build pipelines."
+2026-10-03T12:43:04.679877Z,pyrrhus,0.1.0,0,0,https://github.com/cloone8/Pyrrhus,Pyrrhus interpreter
+2026-10-03T12:43:05.335477Z,pyrrhus_parser,0.1.0,0,0,https://github.com/cloone8/Pyrrhus,Pyrrhus parser
+2026-10-03T12:44:06.0438Z,ic-delegated-auth,0.1.4,0,0,https://github.com/dragginzgame/ic-delegated-auth,Delegated application authentication for Internet Computer canisters
+2026-10-03T12:49:29.219728Z,sz-rust-monitor-panel,1.7.0,0,0,https://github.com/ljclz/sz-rust,SZ-Rust 可视化监控面板
+2026-10-03T12:49:41.497772Z,nannyml_metrics,0.1.0,0,0,https://codeberg.org/gsablok/nannyrust,Rust reimplementation of NannyML's univariate drift and performance-estimation metrics
+2026-10-03T12:50:37.408087Z,frust-mcp,0.5.0,0,0,https://github.com/frust-rs/frust,"MCP server that lets AI agents launch, drive and diagnose Frust app sessions over loopback Streamable HTTP."
+2026-10-03T12:51:16.21067Z,acs-solver,0.1.5,0,0,https://github.com/angelobartolome/acs,A geometric constraint solver written in Rust with WebAssembly bindings for web applications.
+2026-10-03T12:54:48.60527Z,shadrs,0.1.0,0,0,https://cnb.cool/FishOrCat/shadrs,shadcn/ui 风格的 iced 组件体系：设计令牌 + 可复制到项目中的组件源码
+2026-10-03T12:55:50.632938Z,shadrs-cli,0.1.0,0,0,https://cnb.cool/FishOrCat/shadrs,shadrs CLI：shadrs new / init / add / list —— 把组件源码交付到你的 iced 项目中
+2026-10-03T12:56:57.861462Z,sz-rust-upload,1.7.0,0,0,https://github.com/ljclz/sz-rust,SZ-Rust 文件上传/分片
+2026-10-03T12:57:38.436274Z,chessigma,0.1.0,0,0,https://github.com/mehdi-bh/chessigma-rust,"Typed Rust client for the Chessigma public chess API: daily puzzles, Elo and game submissions"
+2026-10-03T13:01:59.27045Z,frust-dap,0.5.0,0,0,https://github.com/frust-rs/frust,"Debug Adapter Protocol server for Frust, embedded in its host and sharing the host's app sessions."
+2026-10-03T13:07:08.437157Z,viroencoder,0.1.0,0,0,https://codeberg.org/gsablok/viroencoder,virus anamoly detection
+2026-10-03T13:11:29.062994Z,bacircos,0.1.0,0,0,https://codeberg.org/gsablok/bacircos,Circos-style circular genome plots for bacterial genomes and metagenomes
+2026-10-03T13:12:08.15977Z,frust-plugin,0.5.0,0,0,https://github.com/frust-rs/frust,Substrate for Frust plugins: Android platform handles and the desktop native-view factory registry.
