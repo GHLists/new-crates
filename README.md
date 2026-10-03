@@ -8,47 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 02:20 UTC
+## Latest list — 2026-10-03 03:18 UTC
 
-New crates published between 2026-10-03 01:20 UTC and 2026-10-03 02:20 UTC.
+New crates published between 2026-10-03 02:20 UTC and 2026-10-03 03:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-03T02-20-58-029218Z.csv)
+[Full CSV](data/new-crates-2026-10-03T03-18-36-639702Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-03 01:22:20 | [openreadout-echem](https://crates.io/crates/openreadout-echem) | 0.1.0 | 0 | Readers for electrochemistry and battery-cycler files, part of OpenReadout |
-| 2026-10-03 01:23:18 | [dace-rs](https://crates.io/crates/dace-rs) | 0.1.0 | 0 | Pure Rust implementation of DACE, the Differential Algebra Computational Toolbox |
-| 2026-10-03 01:26:56 | [cppu](https://crates.io/crates/cppu) | 1.2.0 | 0 | A C/C++ utility tool for competitive programming. It can compile your code, rea… |
-| 2026-10-03 01:27:21 | [hatchery-observation-service](https://crates.io/crates/hatchery-observation-service) | 0.1.0 | 0 | Single-writer durable authority combining the gate4agent observation engine and… |
-| 2026-10-03 01:27:28 | [copal-server](https://crates.io/crates/copal-server) | 0.1.0 | 0 | Copal HTTP API: the axum serving layer over the store and blob planes. |
-| 2026-10-03 01:32:21 | [openreadout-em](https://crates.io/crates/openreadout-em) | 0.1.0 | 0 | Readers for electron-microscopy files, part of OpenReadout |
-| 2026-10-03 01:36:02 | [mpris-lyrics](https://crates.io/crates/mpris-lyrics) | 0.1.0 | 0 | A simple Linux CLI that displays synced lyrics from the MPRIS `xesam:asText` pr… |
-| 2026-10-03 01:38:01 | [hatchery-harness-service](https://crates.io/crates/hatchery-harness-service) | 0.1.0 | 0 | Single-writer SQLite authority and operator host for the hatchery harness kerne… |
-| 2026-10-03 01:38:15 | [everruns-serve-agentcore](https://crates.io/crates/everruns-serve-agentcore) | 0.34.2 | 0 | Run a serve app (experimental) on Amazon Bedrock AgentCore Runtime: /ping, /inv… |
-| 2026-10-03 01:40:49 | [dregs](https://crates.io/crates/dregs) | 0.1.0 | 0 | The official Rust client for Dregs, which scores the users of your application… |
-| 2026-10-03 01:41:51 | [everruns-serve-celld](https://crates.io/crates/everruns-serve-celld) | 0.34.2 | 0 | Run a serve app (experimental) durably on celld: a container whose state a Dura… |
-| 2026-10-03 01:42:20 | [openreadout-ephys](https://crates.io/crates/openreadout-ephys) | 0.1.0 | 0 | Readers for electrophysiology recorders without a crate of their own, part of O… |
-| 2026-10-03 01:43:31 | [vanitty](https://crates.io/crates/vanitty) | 26.10.0 | 0 | A fast, native terminal built with Rust and Tauri |
-| 2026-10-03 01:48:16 | [hatchery-harness-light](https://crates.io/crates/hatchery-harness-light) | 0.1.0 | 0 | Stateless in-process light harness: serves the same operator wire as hatchery-h… |
-| 2026-10-03 01:52:04 | [oliphaunt-seed-native-ios-datum64-icu](https://crates.io/crates/oliphaunt-seed-native-ios-datum64-icu) | 0.2.2 | 0 | PostgreSQL native icu cluster seed for ios-datum64. |
-| 2026-10-03 01:52:07 | [oliphaunt-seed-native-linux-arm64-gnu-icu](https://crates.io/crates/oliphaunt-seed-native-linux-arm64-gnu-icu) | 0.2.2 | 0 | PostgreSQL native icu cluster seed for linux-arm64-gnu. |
-| 2026-10-03 01:52:09 | [oliphaunt-seed-native-linux-x64-gnu-icu](https://crates.io/crates/oliphaunt-seed-native-linux-x64-gnu-icu) | 0.2.2 | 0 | PostgreSQL native icu cluster seed for linux-x64-gnu. |
-| 2026-10-03 01:52:11 | [oliphaunt-seed-native-macos-arm64-icu](https://crates.io/crates/oliphaunt-seed-native-macos-arm64-icu) | 0.2.2 | 0 | PostgreSQL native icu cluster seed for macos-arm64. |
-| 2026-10-03 01:52:13 | [oliphaunt-seed-native-windows-x64-msvc-icu](https://crates.io/crates/oliphaunt-seed-native-windows-x64-msvc-icu) | 0.2.2 | 0 | PostgreSQL native icu cluster seed for windows-x64-msvc. |
-| 2026-10-03 01:52:19 | [openreadout-epr](https://crates.io/crates/openreadout-epr) | 0.1.0 | 0 | Readers for Bruker electron paramagnetic resonance (EPR) files, part of OpenRea… |
-| 2026-10-03 01:58:39 | [hatchery-harness-mcp](https://crates.io/crates/hatchery-harness-mcp) | 0.1.0 | 0 | MCP stdio adapter exposing the grant-filtered hatchery harness read API to MCP… |
-| 2026-10-03 01:59:50 | [stegobench-core](https://crates.io/crates/stegobench-core) | 1.0.0 | 0 | Result, run and manifest schemas, and the corpus model, for stegobench |
-| 2026-10-03 01:59:51 | [stegobench-metrics](https://crates.io/crates/stegobench-metrics) | 1.0.0 | 0 | ROC AUC, detection at a fixed false-alarm rate, and confusion counts |
-| 2026-10-03 01:59:54 | [stegobench-plugin](https://crates.io/crates/stegobench-plugin) | 1.0.0 | 0 | The plugin protocol and the host that runs plugins |
-| 2026-10-03 01:59:56 | [stegobench-cli](https://crates.io/crates/stegobench-cli) | 1.0.0 | 0 | The stegobench command |
-| 2026-10-03 02:00:12 | [solana-attestation](https://crates.io/crates/solana-attestation) | 0.0.0 | 0 | A short description to release a future version of solana-attestation |
-| 2026-10-03 02:00:24 | [oliphaunt-seed-wasix-icu](https://crates.io/crates/oliphaunt-seed-wasix-icu) | 0.2.2 | 0 | PostgreSQL wasix icu cluster seed for portable. |
-| 2026-10-03 02:02:21 | [openreadout-fcs](https://crates.io/crates/openreadout-fcs) | 0.1.0 | 0 | Reader for FCS (Flow Cytometry Standard) files, part of OpenReadout |
-| 2026-10-03 02:05:09 | [treewalker-gbdt](https://crates.io/crates/treewalker-gbdt) | 1.0.0 | 0 | Grouped tree-ensemble inference via recursive partial evaluation |
-| 2026-10-03 02:08:44 | [hatchery-arcade-engine](https://crates.io/crates/hatchery-arcade-engine) | 0.1.0 | 0 | Deterministic mini-game engine and multi-tier terminal renderer. |
-| 2026-10-03 02:12:19 | [openreadout-fplc](https://crates.io/crates/openreadout-fplc) | 0.1.0 | 0 | Readers for Cytiva ÄKTA/UNICORN protein-purification results, part of OpenReado… |
-| 2026-10-03 02:18:50 | [hatchery-arcade-pet-bastion](https://crates.io/crates/hatchery-arcade-pet-bastion) | 0.1.0 | 0 | Pet Bastion: Night Garden -- a deterministic tower-defense run. |
-| 2026-10-03 02:20:25 | [oliphaunt-broker](https://crates.io/crates/oliphaunt-broker) | 0.3.0 | 0 | Oliphaunt broker helper process for process-isolated embedded PostgreSQL. |
+| 2026-10-03 02:22:19 | [openreadout-gel](https://crates.io/crates/openreadout-gel) | 0.1.0 | 0 | Reader for Bio-Rad Image Lab gel and blot images, part of OpenReadout |
+| 2026-10-03 02:29:15 | [hatchery-arcade-pet-bastion-render](https://crates.io/crates/hatchery-arcade-pet-bastion-render) | 0.1.0 | 0 | Pet Bastion snapshot -> engine Surface adapter and tile catalog mapping. See sr… |
+| 2026-10-03 02:32:19 | [openreadout-intan](https://crates.io/crates/openreadout-intan) | 0.1.0 | 0 | Reader for Intan RHD and RHS electrophysiology files, part of OpenReadout |
+| 2026-10-03 02:39:22 | [hatchery-arcade-sweep](https://crates.io/crates/hatchery-arcade-sweep) | 0.1.0 | 0 | Headless balance sweep. Never depends on a terminal. |
+| 2026-10-03 02:39:29 | [eggup-eggpack](https://crates.io/crates/eggup-eggpack) | 0.1.2 | 0 | Optional Eggpack ReleaseManifest adapter for Eggup deployment inputs (no releas… |
+| 2026-10-03 02:40:17 | [glide-core-engine](https://crates.io/crates/glide-core-engine) | 0.1.0 | 0 | Core engine for Valkey GLIDE. This crate isn't intended to be used directly. |
+| 2026-10-03 02:41:04 | [dlib-rs-core](https://crates.io/crates/dlib-rs-core) | 0.1.0 | 0 | Core layer of dlib-rs: matrix linear algebra, geometry, rand, binary serializat… |
+| 2026-10-03 02:41:15 | [dlib-rs-ml](https://crates.io/crates/dlib-rs-ml) | 0.1.0 | 0 | Machine learning layer of dlib-rs: optimizers (BFGS/L-BFGS/CG/BOBYQA), SVM, clu… |
+| 2026-10-03 02:41:42 | [dlib-rs-image](https://crates.io/crates/dlib-rs-image) | 0.1.0 | 0 | Image layer of dlib-rs: pixels, codecs, transforms, FHOG/HOG/SURF keypoints (po… |
+| 2026-10-03 02:42:02 | [rust-ft8](https://crates.io/crates/rust-ft8) | 0.1.0 | 0 | A pure-Rust FT8 physical layer codec and demodulator library |
+| 2026-10-03 02:42:07 | [dlib-rs](https://crates.io/crates/dlib-rs) | 0.1.0 | 0 | Pure-Rust port of the core of dlib (matrix, images, ML, face detection & landma… |
+| 2026-10-03 02:42:19 | [openreadout-mzml-writer](https://crates.io/crates/openreadout-mzml-writer) | 0.1.0 | 0 | Indexed mzML writer for OpenReadout mass-spectrometry exports |
+| 2026-10-03 02:49:30 | [hatchery-arcade-bench](https://crates.io/crates/hatchery-arcade-bench) | 0.1.0 | 0 | Disposable measurement tool: answers 'can icy_sixel + Windows Terminal push a g… |
+| 2026-10-03 02:52:20 | [openreadout-neuralynx](https://crates.io/crates/openreadout-neuralynx) | 0.1.0 | 0 | Reader for Neuralynx electrophysiology files, part of OpenReadout |
+| 2026-10-03 02:55:09 | [lsty](https://crates.io/crates/lsty) | 0.0.1 | 0 | An AI-native todo.txt CLI replacement / extension with vim-styled human TUI. |
+| 2026-10-03 02:57:33 | [azar](https://crates.io/crates/azar) | 0.1.0 | 0 | Random identifier generator: bech32m (BIP-350), base58, base64, hex |
+| 2026-10-03 02:57:52 | [gantz_store](https://crates.io/crates/gantz_store) | 0.0.1 | 0 | Storage of the gantz registry over key-value stores. |
+| 2026-10-03 03:00:41 | [hatchery-tui](https://crates.io/crates/hatchery-tui) | 0.1.0 | 0 | Terminal client for hatchery: both hatchery-tui and hatchery-tui-light speak on… |
+| 2026-10-03 03:02:21 | [openreadout-nmr](https://crates.io/crates/openreadout-nmr) | 0.1.0 | 0 | Readers for NMR data files, part of OpenReadout |
+| 2026-10-03 03:12:19 | [openreadout-oir](https://crates.io/crates/openreadout-oir) | 0.1.0 | 0 | Reader for Olympus/Evident OIR microscopy files, part of OpenReadout |
+| 2026-10-03 03:12:22 | [browser-protocol-macros](https://crates.io/crates/browser-protocol-macros) | 0.1.6 | 0 | Derive macros for browser-protocol (CDP builder and getter generation) |
+| 2026-10-03 03:14:11 | [phylax-core](https://crates.io/crates/phylax-core) | 0.1.1 | 0 | OAuth, JWT, PKCE, and refresh-token primitives. |
+| 2026-10-03 03:15:29 | [phylax-oidc](https://crates.io/crates/phylax-oidc) | 0.1.0 | 0 | OpenID Connect provider integration for Phylax. |
+| 2026-10-03 03:15:56 | [arche-firestore](https://crates.io/crates/arche-firestore) | 0.1.0 | 0 | Firestore connections and typed document helpers. |
+| 2026-10-03 03:16:23 | [phylax-gcp](https://crates.io/crates/phylax-gcp) | 0.1.0 | 0 | Firestore authentication and identity stores for Phylax. |
+| 2026-10-03 03:16:43 | [arche-web](https://crates.io/crates/arche-web) | 0.1.0 | 0 | HTTP serving, forwarding, and errors for Axum services. |
+| 2026-10-03 03:17:58 | [hippo-cli](https://crates.io/crates/hippo-cli) | 0.0.1 | 0 | Hippo personal memory CLI. The command is `hippo`. |
 
 ## Data source
 

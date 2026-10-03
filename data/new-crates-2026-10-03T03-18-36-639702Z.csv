@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T02:22:19.382557Z,openreadout-gel,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Bio-Rad Image Lab gel and blot images, part of OpenReadout"
+2026-10-03T02:29:15.904669Z,hatchery-arcade-pet-bastion-render,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,Pet Bastion snapshot -> engine Surface adapter and tile catalog mapping. See src/lib.rs for why this lives in its own crate rather than inside either pet-bastion or the engine.
+2026-10-03T02:32:19.548651Z,openreadout-intan,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Intan RHD and RHS electrophysiology files, part of OpenReadout"
+2026-10-03T02:39:22.091401Z,hatchery-arcade-sweep,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,Headless balance sweep. Never depends on a terminal.
+2026-10-03T02:39:29.522676Z,eggup-eggpack,0.1.2,0,0,https://github.com/eggstack/eggup,"Optional Eggpack ReleaseManifest adapter for Eggup deployment inputs (no release policy, authenticity, or destination selection)"
+2026-10-03T02:40:17.237375Z,glide-core-engine,0.1.0,0,0,,Core engine for Valkey GLIDE. This crate isn't intended to be used directly.
+2026-10-03T02:41:04.050848Z,dlib-rs-core,0.1.0,0,0,https://github.com/cislunarspace/dlib-rs,"Core layer of dlib-rs: matrix linear algebra, geometry, rand, binary serialization (port of dlib)"
+2026-10-03T02:41:15.584509Z,dlib-rs-ml,0.1.0,0,0,https://github.com/cislunarspace/dlib-rs,"Machine learning layer of dlib-rs: optimizers (BFGS/L-BFGS/CG/BOBYQA), SVM, clustering, statistics (port of dlib)"
+2026-10-03T02:41:42.25225Z,dlib-rs-image,0.1.0,0,0,https://github.com/cislunarspace/dlib-rs,"Image layer of dlib-rs: pixels, codecs, transforms, FHOG/HOG/SURF keypoints (port of dlib)"
+2026-10-03T02:42:02.730261Z,rust-ft8,0.1.0,0,0,https://github.com/siuze/Rust_FT8_codec,A pure-Rust FT8 physical layer codec and demodulator library
+2026-10-03T02:42:07.708969Z,dlib-rs,0.1.0,0,0,https://github.com/cislunarspace/dlib-rs,"Pure-Rust port of the core of dlib (matrix, images, ML, face detection & landmarks)"
+2026-10-03T02:42:19.839834Z,openreadout-mzml-writer,0.1.0,0,0,https://github.com/openreadout/openreadout,Indexed mzML writer for OpenReadout mass-spectrometry exports
+2026-10-03T02:49:30.938775Z,hatchery-arcade-bench,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,"Disposable measurement tool: answers 'can icy_sixel + Windows Terminal push a game board at 60fps' with real numbers (encode microseconds, bytes/frame, live-terminal round-trip fps). NOT part of the…"
+2026-10-03T02:52:20.004572Z,openreadout-neuralynx,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Neuralynx electrophysiology files, part of OpenReadout"
+2026-10-03T02:55:09.809166Z,lsty,0.0.1,0,0,,An AI-native todo.txt CLI replacement / extension with vim-styled human TUI.
+2026-10-03T02:57:33.260579Z,azar,0.1.0,0,0,https://github.com/aficiomaquinas/azar,"Random identifier generator: bech32m (BIP-350), base58, base64, hex"
+2026-10-03T02:57:52.658312Z,gantz_store,0.0.1,0,0,https://github.com/nannou-org/gantz,Storage of the gantz registry over key-value stores.
+2026-10-03T03:00:41.42322Z,hatchery-tui,0.1.0,0,0,https://github.com/ZENG3LD/hatchery,Terminal client for hatchery: both hatchery-tui and hatchery-tui-light speak only the harness operator wire -- light hosts hatchery-harness-light in-process over c2 instead of a durable task kernel
+2026-10-03T03:02:21.585997Z,openreadout-nmr,0.1.0,0,0,https://github.com/openreadout/openreadout,"Readers for NMR data files, part of OpenReadout"
+2026-10-03T03:12:19.941728Z,openreadout-oir,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Olympus/Evident OIR microscopy files, part of OpenReadout"
+2026-10-03T03:12:22.74387Z,browser-protocol-macros,0.1.6,0,0,https://github.com/AzzoDude/browser-protocol,Derive macros for browser-protocol (CDP builder and getter generation)
+2026-10-03T03:14:11.900681Z,phylax-core,0.1.1,0,0,https://github.com/khoek/rete,"OAuth, JWT, PKCE, and refresh-token primitives."
+2026-10-03T03:15:29.774512Z,phylax-oidc,0.1.0,0,0,https://github.com/khoek/rete,OpenID Connect provider integration for Phylax.
+2026-10-03T03:15:56.130952Z,arche-firestore,0.1.0,0,0,https://github.com/khoek/rete,Firestore connections and typed document helpers.
+2026-10-03T03:16:23.677688Z,phylax-gcp,0.1.0,0,0,https://github.com/khoek/rete,Firestore authentication and identity stores for Phylax.
+2026-10-03T03:16:43.105995Z,arche-web,0.1.0,0,0,https://github.com/khoek/rete,"HTTP serving, forwarding, and errors for Axum services."
+2026-10-03T03:17:58.615878Z,hippo-cli,0.0.1,0,0,https://github.com/joey-lou/hippo-cli,Hippo personal memory CLI. The command is `hippo`.
