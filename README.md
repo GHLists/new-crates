@@ -8,41 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 03:18 UTC
+## Latest list — 2026-10-03 04:18 UTC
 
-New crates published between 2026-10-03 02:20 UTC and 2026-10-03 03:18 UTC.
+New crates published between 2026-10-03 03:18 UTC and 2026-10-03 04:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-03T03-18-36-639702Z.csv)
+[Full CSV](data/new-crates-2026-10-03T04-18-36-45875Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-03 02:22:19 | [openreadout-gel](https://crates.io/crates/openreadout-gel) | 0.1.0 | 0 | Reader for Bio-Rad Image Lab gel and blot images, part of OpenReadout |
-| 2026-10-03 02:29:15 | [hatchery-arcade-pet-bastion-render](https://crates.io/crates/hatchery-arcade-pet-bastion-render) | 0.1.0 | 0 | Pet Bastion snapshot -> engine Surface adapter and tile catalog mapping. See sr… |
-| 2026-10-03 02:32:19 | [openreadout-intan](https://crates.io/crates/openreadout-intan) | 0.1.0 | 0 | Reader for Intan RHD and RHS electrophysiology files, part of OpenReadout |
-| 2026-10-03 02:39:22 | [hatchery-arcade-sweep](https://crates.io/crates/hatchery-arcade-sweep) | 0.1.0 | 0 | Headless balance sweep. Never depends on a terminal. |
-| 2026-10-03 02:39:29 | [eggup-eggpack](https://crates.io/crates/eggup-eggpack) | 0.1.2 | 0 | Optional Eggpack ReleaseManifest adapter for Eggup deployment inputs (no releas… |
-| 2026-10-03 02:40:17 | [glide-core-engine](https://crates.io/crates/glide-core-engine) | 0.1.0 | 0 | Core engine for Valkey GLIDE. This crate isn't intended to be used directly. |
-| 2026-10-03 02:41:04 | [dlib-rs-core](https://crates.io/crates/dlib-rs-core) | 0.1.0 | 0 | Core layer of dlib-rs: matrix linear algebra, geometry, rand, binary serializat… |
-| 2026-10-03 02:41:15 | [dlib-rs-ml](https://crates.io/crates/dlib-rs-ml) | 0.1.0 | 0 | Machine learning layer of dlib-rs: optimizers (BFGS/L-BFGS/CG/BOBYQA), SVM, clu… |
-| 2026-10-03 02:41:42 | [dlib-rs-image](https://crates.io/crates/dlib-rs-image) | 0.1.0 | 0 | Image layer of dlib-rs: pixels, codecs, transforms, FHOG/HOG/SURF keypoints (po… |
-| 2026-10-03 02:42:02 | [rust-ft8](https://crates.io/crates/rust-ft8) | 0.1.0 | 0 | A pure-Rust FT8 physical layer codec and demodulator library |
-| 2026-10-03 02:42:07 | [dlib-rs](https://crates.io/crates/dlib-rs) | 0.1.0 | 0 | Pure-Rust port of the core of dlib (matrix, images, ML, face detection & landma… |
-| 2026-10-03 02:42:19 | [openreadout-mzml-writer](https://crates.io/crates/openreadout-mzml-writer) | 0.1.0 | 0 | Indexed mzML writer for OpenReadout mass-spectrometry exports |
-| 2026-10-03 02:49:30 | [hatchery-arcade-bench](https://crates.io/crates/hatchery-arcade-bench) | 0.1.0 | 0 | Disposable measurement tool: answers 'can icy_sixel + Windows Terminal push a g… |
-| 2026-10-03 02:52:20 | [openreadout-neuralynx](https://crates.io/crates/openreadout-neuralynx) | 0.1.0 | 0 | Reader for Neuralynx electrophysiology files, part of OpenReadout |
-| 2026-10-03 02:55:09 | [lsty](https://crates.io/crates/lsty) | 0.0.1 | 0 | An AI-native todo.txt CLI replacement / extension with vim-styled human TUI. |
-| 2026-10-03 02:57:33 | [azar](https://crates.io/crates/azar) | 0.1.0 | 0 | Random identifier generator: bech32m (BIP-350), base58, base64, hex |
-| 2026-10-03 02:57:52 | [gantz_store](https://crates.io/crates/gantz_store) | 0.0.1 | 0 | Storage of the gantz registry over key-value stores. |
-| 2026-10-03 03:00:41 | [hatchery-tui](https://crates.io/crates/hatchery-tui) | 0.1.0 | 0 | Terminal client for hatchery: both hatchery-tui and hatchery-tui-light speak on… |
-| 2026-10-03 03:02:21 | [openreadout-nmr](https://crates.io/crates/openreadout-nmr) | 0.1.0 | 0 | Readers for NMR data files, part of OpenReadout |
-| 2026-10-03 03:12:19 | [openreadout-oir](https://crates.io/crates/openreadout-oir) | 0.1.0 | 0 | Reader for Olympus/Evident OIR microscopy files, part of OpenReadout |
-| 2026-10-03 03:12:22 | [browser-protocol-macros](https://crates.io/crates/browser-protocol-macros) | 0.1.6 | 0 | Derive macros for browser-protocol (CDP builder and getter generation) |
-| 2026-10-03 03:14:11 | [phylax-core](https://crates.io/crates/phylax-core) | 0.1.1 | 0 | OAuth, JWT, PKCE, and refresh-token primitives. |
-| 2026-10-03 03:15:29 | [phylax-oidc](https://crates.io/crates/phylax-oidc) | 0.1.0 | 0 | OpenID Connect provider integration for Phylax. |
-| 2026-10-03 03:15:56 | [arche-firestore](https://crates.io/crates/arche-firestore) | 0.1.0 | 0 | Firestore connections and typed document helpers. |
-| 2026-10-03 03:16:23 | [phylax-gcp](https://crates.io/crates/phylax-gcp) | 0.1.0 | 0 | Firestore authentication and identity stores for Phylax. |
-| 2026-10-03 03:16:43 | [arche-web](https://crates.io/crates/arche-web) | 0.1.0 | 0 | HTTP serving, forwarding, and errors for Axum services. |
-| 2026-10-03 03:17:58 | [hippo-cli](https://crates.io/crates/hippo-cli) | 0.0.1 | 0 | Hippo personal memory CLI. The command is `hippo`. |
+| 2026-10-03 03:22:19 | [openreadout-ops](https://crates.io/crates/openreadout-ops) | 0.1.0 | 0 | Command-level operations over OpenReadout datasets: file comparison, plain-Engl… |
+| 2026-10-03 03:23:55 | [aegis-dto](https://crates.io/crates/aegis-dto) | 0.2.2 | 0 | Enrollment and runtime primitives for Aegis managed hosts. |
+| 2026-10-03 03:25:25 | [aegis-api](https://crates.io/crates/aegis-api) | 0.2.2 | 0 | Independent Aegis fleet control plane HTTP service. |
+| 2026-10-03 03:28:04 | [sysd-manager-buildtool](https://crates.io/crates/sysd-manager-buildtool) | 2.23.0 | 0 | Building tools for sysd-manager. |
+| 2026-10-03 03:28:18 | [sql-fun-collector](https://crates.io/crates/sql-fun-collector) | 0.1.1-snapshot3 | 0 | Sorted collections and key traits for collecting SQL query results |
+| 2026-10-03 03:29:46 | [sql-fun-codegen](https://crates.io/crates/sql-fun-codegen) | 0.1.1-snapshot3 | 0 | proc-macro helper objects for sql-fun |
+| 2026-10-03 03:30:26 | [tokenfold-adapters](https://crates.io/crates/tokenfold-adapters) | 0.5.1 | 0 | Explicit, model-free provider observation adapters for Tokenfold. |
+| 2026-10-03 03:30:29 | [tokenfold-rag](https://crates.io/crates/tokenfold-rag) | 0.5.1 | 0 | Bounded BM25 search over authorized Tokenfold evidence. |
+| 2026-10-03 03:32:22 | [openreadout-plate](https://crates.io/crates/openreadout-plate) | 0.1.0 | 0 | Reader for microplate-reader exports, with Allotrope ASM output, part of OpenRe… |
+| 2026-10-03 03:34:19 | [aegis-tool](https://crates.io/crates/aegis-tool) | 0.2.2 | 0 | Aegis SSH client and managed host agent. |
+| 2026-10-03 03:41:27 | [cargo-strata](https://crates.io/crates/cargo-strata) | 0.1.0 | 0 | Enforce crate and module dependency rules in a Cargo workspace, with optional V… |
+| 2026-10-03 03:42:19 | [openreadout-plexon](https://crates.io/crates/openreadout-plexon) | 0.1.0 | 0 | Reader for Plexon PLX and PL2 electrophysiology files, part of OpenReadout |
+| 2026-10-03 03:45:02 | [aegis-admin-tool](https://crates.io/crates/aegis-admin-tool) | 0.2.2 | 0 | Deploy and administer an Aegis installation with local GCP credentials. |
+| 2026-10-03 03:52:20 | [openreadout-preview](https://crates.io/crates/openreadout-preview) | 0.1.0 | 0 | PNG and JPEG previews of OpenReadout datasets |
+| 2026-10-03 04:02:22 | [openreadout-qpcr](https://crates.io/crates/openreadout-qpcr) | 0.1.0 | 0 | Readers for real-time PCR (qPCR) files and an RDML writer, part of OpenReadout |
+| 2026-10-03 04:04:17 | [min-mcp](https://crates.io/crates/min-mcp) | 0.2.1 | 0 | Minify your MCPs — a minifying, scope-aware proxy for MCP servers |
+| 2026-10-03 04:05:53 | [actl-browser](https://crates.io/crates/actl-browser) | 0.2.0 | 0 | actl CDP channel: minimal synchronous Chrome DevTools Protocol client for actl-… |
+| 2026-10-03 04:12:20 | [openreadout-sciex](https://crates.io/crates/openreadout-sciex) | 0.1.0 | 0 | Reader for Sciex .wiff mass-spectrometry files, part of OpenReadout |
+| 2026-10-03 04:13:29 | [marksentinel](https://crates.io/crates/marksentinel) | 0.1.0 | 0 | A mechanical conformance checker for Markdown documentation. |
 
 ## Data source
 

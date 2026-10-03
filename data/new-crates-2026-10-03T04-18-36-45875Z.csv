@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T03:22:19.733569Z,openreadout-ops,0.1.0,0,0,https://github.com/openreadout/openreadout,"Command-level operations over OpenReadout datasets: file comparison, plain-English explanations, attachment extraction and JSON projection"
+2026-10-03T03:23:55.78888Z,aegis-dto,0.2.2,0,0,https://github.com/khoek/aegis,Enrollment and runtime primitives for Aegis managed hosts.
+2026-10-03T03:25:25.926138Z,aegis-api,0.2.2,0,0,https://github.com/khoek/aegis,Independent Aegis fleet control plane HTTP service.
+2026-10-03T03:28:04.112992Z,sysd-manager-buildtool,2.23.0,0,0,https://github.com/plrigaux/sysd-manager,Building tools for sysd-manager.
+2026-10-03T03:28:18.850655Z,sql-fun-collector,0.1.1-snapshot3,0,0,https://github.com/kazuk/sql-fun/,Sorted collections and key traits for collecting SQL query results
+2026-10-03T03:29:46.460102Z,sql-fun-codegen,0.1.1-snapshot3,0,0,https://github.com/kazuk/sql-fun/,proc-macro helper objects for sql-fun
+2026-10-03T03:30:26.920127Z,tokenfold-adapters,0.5.1,0,0,https://github.com/snchimata/tokenfold,"Explicit, model-free provider observation adapters for Tokenfold."
+2026-10-03T03:30:29.647957Z,tokenfold-rag,0.5.1,0,0,https://github.com/snchimata/tokenfold,Bounded BM25 search over authorized Tokenfold evidence.
+2026-10-03T03:32:22.011605Z,openreadout-plate,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for microplate-reader exports, with Allotrope ASM output, part of OpenReadout"
+2026-10-03T03:34:19.845981Z,aegis-tool,0.2.2,0,0,https://github.com/khoek/aegis,Aegis SSH client and managed host agent.
+2026-10-03T03:41:27.424387Z,cargo-strata,0.1.0,0,0,https://github.com/uw-syfi/cargo-strata,"Enforce crate and module dependency rules in a Cargo workspace, with optional Verus support"
+2026-10-03T03:42:19.606066Z,openreadout-plexon,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Plexon PLX and PL2 electrophysiology files, part of OpenReadout"
+2026-10-03T03:45:02.60418Z,aegis-admin-tool,0.2.2,0,0,https://github.com/khoek/aegis,Deploy and administer an Aegis installation with local GCP credentials.
+2026-10-03T03:52:20.009373Z,openreadout-preview,0.1.0,0,0,https://github.com/openreadout/openreadout,PNG and JPEG previews of OpenReadout datasets
+2026-10-03T04:02:22.487102Z,openreadout-qpcr,0.1.0,0,0,https://github.com/openreadout/openreadout,"Readers for real-time PCR (qPCR) files and an RDML writer, part of OpenReadout"
+2026-10-03T04:04:17.076658Z,min-mcp,0.2.1,0,0,https://github.com/andrewgoodchild/min-mcp,"Minify your MCPs — a minifying, scope-aware proxy for MCP servers"
+2026-10-03T04:05:53.719183Z,actl-browser,0.2.0,0,0,https://github.com/gqy20/actl,actl CDP channel: minimal synchronous Chrome DevTools Protocol client for actl-owned browser sessions
+2026-10-03T04:12:20.122378Z,openreadout-sciex,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Sciex .wiff mass-spectrometry files, part of OpenReadout"
+2026-10-03T04:13:29.667443Z,marksentinel,0.1.0,0,0,https://github.com/ebh/marksentinel,A mechanical conformance checker for Markdown documentation.
