@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T07:22:07.925334Z,ash-fsm,0.1.0,0,0,https://github.com/ashforge-rs/ash-fsm,"A configurable finite state machine library for Rust, inspired by AshStateMachine"
+2026-10-03T07:22:19.734562Z,openreadout-wsi,0.1.0,0,0,https://github.com/openreadout/openreadout,"Readers for multi-file whole-slide formats such as 3DHISTECH MIRAX, part of OpenReadout"
+2026-10-03T07:24:20.872868Z,perspicax-mcp,0.1.0,0,0,https://github.com/Awakened-Labs/Perspicax,"The agent interface: an MCP server over stdio. Tools, DTOs, and receipts."
+2026-10-03T07:25:13.08538Z,ash-log,0.1.0,0,0,https://github.com/ashforge-rs/ash-log,Security audit logging for the ash-rpc ecosystem
+2026-10-03T07:26:22.911504Z,ash-jsonschema,0.1.0,0,0,https://github.com/ashforge-rs/ash-jsonschema,"A typed builder for JSON Schema 2020-12 — chain the keywords, call .build(), get a schema."
+2026-10-03T07:26:54.247333Z,ash-lock,0.1.0,0,0,https://github.com/ashforge-rs/ash-lock,Distributed coordination / locking for the ash-* ecosystem (etcd-backed; in-memory by default)
+2026-10-03T07:28:03.239751Z,manza,1.0.0,0,0,https://github.com/getmanza/manza-rust,Rust SDK for the Manza API
+2026-10-03T07:32:18.978859Z,syd-format,0.1.3,0,0,https://gitlab.com/jbn1729/syd-format,binary format for chess game tree
+2026-10-03T07:32:20.768366Z,openreadout-hcs,0.1.0,0,0,https://github.com/openreadout/openreadout,"Readers for high-content screening plates, part of OpenReadout"
+2026-10-03T07:34:23.583097Z,perspicax,0.1.0,0,0,https://github.com/Awakened-Labs/Perspicax,"An agent-native Wayland compositor: everything on screen as a typed, addressable API, served to agents over MCP."
+2026-10-03T07:40:08.672935Z,gns3fy-rs,0.1.0,0,0,,Rust wrapper around the GNS3 server REST API (port of the Python gns3fy library)
+2026-10-03T07:42:20.058405Z,openreadout-lif,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Leica LIF microscopy files, part of OpenReadout"
+2026-10-03T07:42:37.900886Z,ash-domain-macros,0.1.0,0,0,https://github.com/ashforge-rs/ash-domain,Derive macros for ash-domain: #[derive(Resource)] and friends
+2026-10-03T07:42:49.434205Z,ash-domain,0.1.0,0,0,https://github.com/ashforge-rs/ash-domain,"Declarative, resource-oriented application core for Rust — model your domain, derive the rest. The keystone of the ash-* ecosystem."
+2026-10-03T07:44:06.475695Z,wintun-rs,0.0.4,0,0,https://github.com/abc15018045126/wintun-rs,Native Safe Rust library and userspace bindings for Wintun (WireGuard) TUN devices on Windows.
+2026-10-03T07:44:22.914066Z,perspicax-probe,0.1.0,0,0,https://github.com/Awakened-Labs/Perspicax,"Dev CLI: dump a semantic tree, time a read, explain a refusal. The tool that makes each milestone demonstrable rather than merely tested."
+2026-10-03T07:46:33.381212Z,ash-jsonapi,0.1.0,0,0,https://github.com/ashforge-rs/ash-jsonapi,"JSON:API adapter for ash-domain, served over axum."
+2026-10-03T07:50:30.277886Z,rungui,0.1.0,0,0,https://github.com/graydon/rungui,"Small portable native GUI library: a thin layer over GTK3, Win32 and AppKit with hand-declared FFI"
+2026-10-03T07:52:20.618561Z,openreadout-mzml,0.1.0,0,0,https://github.com/openreadout/openreadout,"Streaming readers for the open mass-spectrometry formats mzML and mzXML, part of OpenReadout"
+2026-10-03T07:52:39.502078Z,intyga-verify,0.0.0,0,0,,Placeholder that only reserves this name for the INTYGA release workflow. It contains no code.
+2026-10-03T07:52:53.756505Z,intyga-sdk,0.0.0,0,0,,Placeholder that only reserves this name for the INTYGA release workflow. It contains no code.
+2026-10-03T07:56:11.096397Z,pgcel,0.1.0,0,0,,PostgreSQL plugin to provide Google's Common Expression Language in queries
+2026-10-03T08:02:19.77435Z,openreadout-oif,0.1.0,0,0,https://github.com/openreadout/openreadout,"Reader for Olympus FluoView OIF and OIB microscopy data sets, part of OpenReadout"
+2026-10-03T08:12:20.409333Z,openreadout-ometiff,0.1.0,0,0,https://github.com/openreadout/openreadout,OME-TIFF writer for OpenReadout exports
+2026-10-03T08:18:49.621204Z,taulerbox,0.6.0,0,0,https://github.com/kantord/tauler,"A native window that shows a tauler layout's Panels as pixel buffers, alongside a microVM compartment (issue #582)"
+2026-10-03T08:19:05.767409Z,nibblit,0.1.0,0,0,https://github.com/shanecelis/nibblit,Check equality for nibble literals and bit literals.
+2026-10-03T08:19:07.062578Z,clickless-core,0.1.0,0,0,https://github.com/smresponsibilities/clickless,Platform-independent state machine for Clickless keyboard pointer control
+2026-10-03T08:19:14.165132Z,clickless-backend-api,0.1.0,0,0,https://github.com/smresponsibilities/clickless,Backend contracts and grid rendering for Clickless
