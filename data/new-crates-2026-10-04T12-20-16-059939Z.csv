@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T11:21:45.060089Z,sootmark-srum,0.1.0,0,0,https://github.com/Sootmark/srum,"Windows System Resource Usage Monitor (SRUM, SRUDB.dat) for forensics: network usage, application resource usage and network connectivity per program and user, read with sootmark-ese."
+2026-10-04T11:21:53.676915Z,ch-seal-tui,0.1.0,0,0,https://github.com/CheetahDoesStuff/Seal/,A tiny CLI for testing and writing REGEX queries
+2026-10-04T11:29:44.842586Z,corescout-intent,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,"Machine-readable statements of desired outcome, independent of mechanism."
+2026-10-04T11:29:52.274878Z,corescout-agency,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,"Bounded, audited actuators: the only path from software back to the machine."
+2026-10-04T11:30:01.568039Z,corescout-experiment,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,"Deliberate perturbation: benchmarks, probes and the experiment harness."
+2026-10-04T11:30:06.221319Z,corescout-analysis,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,Value judgements over observations: the original CoreScout rankings.
+2026-10-04T11:30:22.08898Z,corescout-concept,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,"Concepts the machine coined about itself, and the virtual resources built from them."
+2026-10-04T11:32:57.111326Z,sheet-core,0.1.0,0,0,https://github.com/WyattAu/sheet-core,"Spreadsheet data model — sparse cell storage, dependency DAG, topological evaluation order, formula reference extraction"
+2026-10-04T11:35:31.548979Z,tauri-plugin-mdns,0.2.1,0,0,https://github.com/hrzlgnm/tauri-plugin-mdns,"mDNS service discovery (browse) for Tauri apps, with Android local-network permission handling"
+2026-10-04T11:37:10.017001Z,ic-backup,0.1.1,0,0,https://github.com/dragginzgame/ic-backup,Host-side snapshot backup and same-release recovery for Internet Computer canisters
+2026-10-04T11:39:43.672921Z,litematica,0.1.0,0,0,https://github.com/Conflux-Union/litematica-rust,"Streaming, low-memory parser for Minecraft .litematic schematic files"
+2026-10-04T11:40:31.074454Z,corescout-counterfactual,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,Action-conditioned prediction: what would happen if I did this.
+2026-10-04T11:50:39.261392Z,corescout-observer,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,A consumer that knows the machine only through its reflection.
+2026-10-04T11:52:09.532839Z,gnitz-foundation,0.1.0,0,0,https://github.com/Ed-von-Schleck/gnitz,"Process and OS primitives shared by the gnitz crates: logging, environment overrides, fault injection and syscall helpers"
+2026-10-04T11:52:10.363862Z,gnitz-wire,0.1.0,0,0,https://github.com/Ed-von-Schleck/gnitz,"Wire-protocol constants, codecs and the circuit graph shared by gnitz clients and the gnitz engine"
+2026-10-04T11:52:12.631166Z,gnitz-expr,0.1.0,0,0,https://github.com/Ed-von-Schleck/gnitz,The expression evaluator of the gnitz database
+2026-10-04T11:52:15.137739Z,gnitz-core,0.1.0,0,0,https://github.com/Ed-von-Schleck/gnitz,"Client core for the gnitz database: connection, protocol, client-side schema and batches"
+2026-10-04T11:52:16.522921Z,gnitz-zset,0.1.0,0,0,https://github.com/Ed-von-Schleck/gnitz,"The Z-set kernel of the gnitz database: schema, columnar batches, cursors and operators"
+2026-10-04T11:55:23.405169Z,whereabouts,1.0.0,0,0,https://github.com/canmi21/lib,"Where something is, offline: a position to a place name, an IP address to a location"
+2026-10-04T11:56:57.92818Z,cargo-kcfg-macros,0.0.1,0,0,,Proc-macro include for cargo-kcfg generated CONFIG_* constants
+2026-10-04T11:57:52.131492Z,pmpx-plugin-pnpm,0.1.0,0,0,https://github.com/pmpx-rs/pmpx-plugin-pnpm,Maps pmpx verbs onto pnpm commands.
+2026-10-04T12:00:45.587958Z,corescout-autonomy,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,"Policy, planning and safeguards for the autonomous control loop."
+2026-10-04T12:01:47.645807Z,cppu,1.2.1,0,0,https://github.com/voximir-p/cppu,"A C/C++ utility tool for competitive programming. It can compile your code, read input from a file, write output to another file, and amalgamate local #includes into a single self-contained source."
+2026-10-04T12:02:11.409761Z,pmpx-plugin-npm,0.1.0,0,0,https://github.com/pmpx-rs/pmpx-plugin-npm,Maps pmpx verbs onto npm commands.
+2026-10-04T12:03:20.903365Z,gnitz-sql,0.1.0,0,0,https://github.com/Ed-von-Schleck/gnitz,"SQL front end for the gnitz database: parser, binder and query planner"
+2026-10-04T12:03:43.996016Z,sheet-xlsx,0.1.0,0,0,https://github.com/WyattAu/sheet-xlsx,"XLSX codec — workbook, worksheets, shared strings, styles, calc chain"
+2026-10-04T12:04:11.721644Z,pmpx-plugin-yarn,0.1.0,0,0,https://github.com/pmpx-rs/pmpx-plugin-yarn,Maps pmpx verbs onto yarn commands.
+2026-10-04T12:05:39.276601Z,pmpx-plugin-bun,0.1.0,0,0,https://github.com/pmpx-rs/pmpx-plugin-bun,Maps pmpx verbs onto bun commands.
+2026-10-04T12:10:50.062113Z,corescout-human,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,Human-facing projections of machine-native state. Debugging infrastructure.
+2026-10-04T12:10:53.652366Z,tempoch-py,0.2.0,0,0,https://github.com/Siderust/tempoch-py,Python bindings for tempoch astronomical time primitives
+2026-10-04T12:11:49.813408Z,crunk-values,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for crunk-values, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T12:11:57.423182Z,crunk-check,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for crunk-check, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T12:12:05.857057Z,crunk-tailwind,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for crunk-tailwind, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T12:13:45.852572Z,gnitz-store,0.1.0,0,0,https://github.com/Ed-von-Schleck/gnitz,"The Z-set store of the gnitz database: LSM storage, relation registry and read executor"
+2026-10-04T12:14:41.43992Z,rigexpert,0.1.0,0,0,,RigExpert AA-650 ZOOM BLE library and terminal analyzer
+2026-10-04T12:17:25.323859Z,siderust-py,0.2.0,0,0,https://github.com/Siderust/siderust-py,Python bindings for siderust astrometry and astrodynamics
