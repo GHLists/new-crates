@@ -8,35 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 15:18 UTC
+## Latest list — 2026-10-04 16:21 UTC
 
-New crates published between 2026-10-04 14:19 UTC and 2026-10-04 15:18 UTC.
+New crates published between 2026-10-04 15:18 UTC and 2026-10-04 16:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-04T15-18-33-105639Z.csv)
+[Full CSV](data/new-crates-2026-10-04T16-21-47-955786Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-04 14:21:44 | [crunk-spec](https://crates.io/crates/crunk-spec) | 0.0.0 | 0 | Name reservation for crunk-spec, part of the frob workspace (Rust rewrite in pr… |
-| 2026-10-04 14:25:23 | [latent-tools](https://crates.io/crates/latent-tools) | 0.1.0 | 0 | Built-in coding tools (read/bash/edit/write/grep/find/ls) with unified output t… |
-| 2026-10-04 14:31:21 | [hoodrich](https://crates.io/crates/hoodrich) | 0.1.0 | 0 | Render markdown and source code as styled ratatui Text, with concealed/raw mode… |
-| 2026-10-04 14:34:54 | [latent-web](https://crates.io/crates/latent-web) | 0.1.0 | 0 | Web search and fetch tools with multi-engine routing, bounded output and SSRF g… |
-| 2026-10-04 14:38:50 | [honk-me](https://crates.io/crates/honk-me) | 0.1.0 | 0 | Official Rust client for Honk (honk-me.app): send events from apps, jobs and CI… |
-| 2026-10-04 14:44:59 | [easy_callback_core](https://crates.io/crates/easy_callback_core) | 1.0.0 | 0 | Internal implementation crate for easy_callback |
-| 2026-10-04 14:45:17 | [latent-core](https://crates.io/crates/latent-core) | 0.1.0 | 0 | Business core for the latent coding agent: session, permissions, MCP extensions… |
-| 2026-10-04 14:48:35 | [sootmark-packages](https://crates.io/crates/sootmark-packages) | 0.2.0 | 0 | Linux package-manager logs (dpkg.log, apt history.log, dnf.rpm.log, yum.log) an… |
-| 2026-10-04 14:49:02 | [bcrypt-rust](https://crates.io/crates/bcrypt-rust) | 0.1.0 | 0 | Pure-Rust bcrypt with runtime-dispatched SIMD backends for batch hashing |
-| 2026-10-04 14:50:15 | [easy_callback_derive](https://crates.io/crates/easy_callback_derive) | 1.0.0 | 0 | Internal implementation crate for easy_callback |
-| 2026-10-04 14:50:25 | [easy_callback](https://crates.io/crates/easy_callback) | 1.0.0 | 0 | Automatic callback data encoding for teloxide |
-| 2026-10-04 14:55:35 | [latent](https://crates.io/crates/latent) | 0.1.0 | 0 | Terminal AI coding agent (the `latent` binary): streaming LLM, parallel tools,… |
-| 2026-10-04 14:55:54 | [qleany-naming](https://crates.io/crates/qleany-naming) | 2.0.0 | 0 | English pluralization for Qleany's generated identifiers |
-| 2026-10-04 14:58:52 | [qleany-frontend](https://crates.io/crates/qleany-frontend) | 2.0.0 | 0 | Frontend integration for Qleany |
-| 2026-10-04 15:02:37 | [cli-minigrep](https://crates.io/crates/cli-minigrep) | 0.1.0 | 0 | CLI tool for searching patterns within files |
-| 2026-10-04 15:08:49 | [knishio-kcore](https://crates.io/crates/knishio-kcore) | 0.1.0 | 0 | Static FFI binding of KnishIO-Crypto-Core 0.1.0 (WOTS+ chains and address) for… |
-| 2026-10-04 15:18:07 | [glacier-inflect](https://crates.io/crates/glacier-inflect) | 0.1.0 | 0 | English inflection (pluralize, singularize, cases) shared by Glacier's crates. |
-| 2026-10-04 15:18:09 | [glacier-dialect](https://crates.io/crates/glacier-dialect) | 0.1.0 | 0 | The .glacier dialect: an Elixir-flavoured syntax that compiles, line for line,… |
-| 2026-10-04 15:18:10 | [glacier-macros](https://crates.io/crates/glacier-macros) | 0.1.0 | 0 | Procedural macros for the Glacier web framework. |
-| 2026-10-04 15:18:12 | [glacier-web](https://crates.io/crates/glacier-web) | 0.1.0 | 0 | A batteries-included web framework for Rust, inspired by Rails, Phoenix and Lar… |
-| 2026-10-04 15:18:13 | [glacier-web-cli](https://crates.io/crates/glacier-web-cli) | 0.1.0 | 0 | Command-line tool for creating and running Glacier applications. |
+| 2026-10-04 15:21:15 | [urly](https://crates.io/crates/urly) | 0.1.0 | 0 | Yet another URL library |
+| 2026-10-04 15:26:01 | [sootmark-macos](https://crates.io/crates/sootmark-macos) | 0.1.0 | 0 | macOS artifacts kept in SQLite databases, for forensics: where downloaded files… |
+| 2026-10-04 15:29:22 | [glacier-otel](https://crates.io/crates/glacier-otel) | 0.1.0 | 0 | OpenTelemetry export for Glacier apps: request, query and error traces over OTL… |
+| 2026-10-04 15:35:03 | [shuvarie-decision](https://crates.io/crates/shuvarie-decision) | 0.3.0 | 0 | Blazingly fast AI coding TUI for chivalrous people (decision module) |
+| 2026-10-04 15:35:03 | [shuvarie-doc](https://crates.io/crates/shuvarie-doc) | 0.3.0 | 0 | Blazingly fast AI coding TUI for chivalrous people (document conversion module) |
+| 2026-10-04 15:43:34 | [ferrovue](https://crates.io/crates/ferrovue) | 0.1.0 | 0 | Vue templates compiled to Rust render functions: server-side rendering with no… |
+| 2026-10-04 15:45:22 | [iceberg-property-macro-arrow59](https://crates.io/crates/iceberg-property-macro-arrow59) | 0.11.0 | 0 | Apache Iceberg Rust property macros (apache/iceberg-rust main e9c22bf), interna… |
+| 2026-10-04 15:46:08 | [navette-browser](https://crates.io/crates/navette-browser) | 1.4.0 | 0 | The browser for agents — one tiny binary driving the WebView your OS already sh… |
+| 2026-10-04 15:48:21 | [skade-katalog-grpc](https://crates.io/crates/skade-katalog-grpc) | 0.1.0 | 0 | Native gRPC (tonic) front over skade-katalog's embedded RedbCatalog — the fast… |
+| 2026-10-04 16:09:34 | [hoon-lint-hatch](https://crates.io/crates/hoon-lint-hatch) | 0.1.0 | 0 | Hoon 135 parser and AST for hoon-lint, based on Hatch |
+| 2026-10-04 16:09:37 | [hoon-lint](https://crates.io/crates/hoon-lint) | 0.1.0 | 0 | Urbit Hoon 135 parsing, formatting, and semantic analysis |
+| 2026-10-04 16:10:05 | [qppocr-gpu](https://crates.io/crates/qppocr-gpu) | 0.3.1 | 0 | qppocr 的 GPU 设备后端（Vulkan 计算先行；CUDA 枚举级预留） |
+| 2026-10-04 16:11:00 | [skade-flight](https://crates.io/crates/skade-flight) | 0.1.0 | 0 | Apache Arrow Flight SQL server over a skade Iceberg warehouse — DataFusion SQL… |
+| 2026-10-04 16:11:34 | [skade-katalog-rest](https://crates.io/crates/skade-katalog-rest) | 0.1.0 | 0 | Iceberg-REST (OpenAPI) front over skade-katalog's embedded RedbCatalog — one ca… |
+| 2026-10-04 16:12:19 | [skade-katalog-serve](https://crates.io/crates/skade-katalog-serve) | 0.1.0 | 0 | The `skade-katalog serve` binary: one lock-owning RedbCatalog fronted over REST… |
+| 2026-10-04 16:12:50 | [kanata-cli](https://crates.io/crates/kanata-cli) | 1.0.0 | 0 | Share local files |
+| 2026-10-04 16:17:47 | [znippy-plugin-elf](https://crates.io/crates/znippy-plugin-elf) | 0.1.0 | 0 | ELF binary provenance metadata plugin for znippy (native builtin — no WASM) |
 
 ## Data source
 

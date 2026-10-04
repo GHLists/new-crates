@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T15:21:15.903408Z,urly,0.1.0,0,0,https://github.com/ntex-rs/ntex.git,Yet another URL library
+2026-10-04T15:26:01.022731Z,sootmark-macos,0.1.0,0,0,https://github.com/Sootmark/macos,"macOS artifacts kept in SQLite databases, for forensics: where downloaded files came from (QuarantineEventsV2), which apps were granted the camera, screen or disk (TCC.db), and app usage and device e…"
+2026-10-04T15:29:22.159927Z,glacier-otel,0.1.0,0,0,https://github.com/glacierlabsltd/glacier,"OpenTelemetry export for Glacier apps: request, query and error traces over OTLP."
+2026-10-04T15:35:03.18117Z,shuvarie-decision,0.3.0,0,0,https://github.com/shuvarie/shuvarie.git,Blazingly fast AI coding TUI for chivalrous people (decision module)
+2026-10-04T15:35:03.553221Z,shuvarie-doc,0.3.0,0,0,https://github.com/shuvarie/shuvarie.git,Blazingly fast AI coding TUI for chivalrous people (document conversion module)
+2026-10-04T15:43:34.22534Z,ferrovue,0.1.0,0,0,https://github.com/Kinsmir/ferrovue,Vue templates compiled to Rust render functions: server-side rendering with no JavaScript at run time
+2026-10-04T15:45:22.554426Z,iceberg-property-macro-arrow59,0.11.0,0,0,https://codeberg.org/nordisk/skade,"Apache Iceberg Rust property macros (apache/iceberg-rust main e9c22bf), internal to iceberg-arrow59; vendored because the crates.io name holds only a placeholder."
+2026-10-04T15:46:08.887471Z,navette-browser,1.4.0,0,0,https://github.com/slabbdev/navette,The browser for agents — one tiny binary driving the WebView your OS already ships.
+2026-10-04T15:48:21.109487Z,skade-katalog-grpc,0.1.0,0,0,https://codeberg.org/nordisk/skade,Native gRPC (tonic) front over skade-katalog's embedded RedbCatalog — the fast wire for the nordisk Rust mesh.
+2026-10-04T16:09:34.788023Z,hoon-lint-hatch,0.1.0,0,0,https://github.com/yapishu/hoon-lint,"Hoon 135 parser and AST for hoon-lint, based on Hatch"
+2026-10-04T16:09:37.010268Z,hoon-lint,0.1.0,0,0,https://github.com/yapishu/hoon-lint,"Urbit Hoon 135 parsing, formatting, and semantic analysis"
+2026-10-04T16:10:05.516537Z,qppocr-gpu,0.3.1,0,0,https://github.com/qinwenhui/qppocr,qppocr 的 GPU 设备后端（Vulkan 计算先行；CUDA 枚举级预留）
+2026-10-04T16:11:00.260556Z,skade-flight,0.1.0,0,0,https://codeberg.org/nordisk/skade,"Apache Arrow Flight SQL server over a skade Iceberg warehouse — DataFusion SQL in, streamed Arrow out. The door Power BI / ODBC / ADBC clients connect to (skade remote)."
+2026-10-04T16:11:34.722777Z,skade-katalog-rest,0.1.0,0,0,https://codeberg.org/nordisk/skade,"Iceberg-REST (OpenAPI) front over skade-katalog's embedded RedbCatalog — one catalog, served on the interop wire."
+2026-10-04T16:12:19.546653Z,skade-katalog-serve,0.1.0,0,0,https://codeberg.org/nordisk/skade,The `skade-katalog serve` binary: one lock-owning RedbCatalog fronted over REST and/or gRPC (the ONE live catalog).
+2026-10-04T16:12:50.090637Z,kanata-cli,1.0.0,0,0,,Share local files
+2026-10-04T16:17:47.89854Z,znippy-plugin-elf,0.1.0,0,0,https://codeberg.org/nordisk/znippy,ELF binary provenance metadata plugin for znippy (native builtin — no WASM)
