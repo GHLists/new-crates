@@ -8,43 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 18:19 UTC
+## Latest list — 2026-10-04 19:20 UTC
 
-New crates published between 2026-10-04 17:19 UTC and 2026-10-04 18:19 UTC.
+New crates published between 2026-10-04 18:19 UTC and 2026-10-04 19:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-04T18-19-05-998676Z.csv)
+[Full CSV](data/new-crates-2026-10-04T19-20-56-674407Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-04 17:23:32 | [sil-rlm](https://crates.io/crates/sil-rlm) | 0.6.0 | 0 | Closed-tool recursive language model scaffold for silc assist (ADR-008) |
-| 2026-10-04 17:27:02 | [blockle](https://crates.io/crates/blockle) | 0.1.0 | 0 | Blockle AutoPool — the universal deployment system for PoW mining pools: point… |
-| 2026-10-04 17:29:09 | [ordning-core](https://crates.io/crates/ordning-core) | 0.1.0 | 0 | ordning — the domain kernel shared by the dev-tracker and the planner (part of… |
-| 2026-10-04 17:29:26 | [ordning-funnel](https://crates.io/crates/ordning-funnel) | 0.1.0 | 0 | ordning — the idea funnel and its graduation into the plan (part of the nordisk… |
-| 2026-10-04 17:29:47 | [ordning-gui](https://crates.io/crates/ordning-gui) | 0.1.0 | 0 | ordning — the planning UI built from facett facets/egui (part of the nordisk co… |
-| 2026-10-04 17:29:52 | [ordning-store](https://crates.io/crates/ordning-store) | 0.1.0 | 0 | ordning — durable persistence for ordning's system of record (part of the nordi… |
-| 2026-10-04 17:31:44 | [crossterm-tilcayo](https://crates.io/crates/crossterm-tilcayo) | 0.29.0-tilcayo.1 | 0 | A crossplatform terminal library for manipulating terminals. |
-| 2026-10-04 17:34:12 | [silc](https://crates.io/crates/silc) | 0.6.0 | 0 | ThoughtPivot Silc compiler CLI |
-| 2026-10-04 17:37:04 | [phoxal-supervisor](https://crates.io/crates/phoxal-supervisor) | 0.1.0 | 0 | The Phoxal Framework execution supervisor. |
-| 2026-10-04 17:37:14 | [phoxal-service-kinematics](https://crates.io/crates/phoxal-service-kinematics) | 0.0.0-dev.8 | 0 | Phoxal kinematics service executable and packaged API. |
-| 2026-10-04 17:37:47 | [phoxal-component-bno085](https://crates.io/crates/phoxal-component-bno085) | 0.0.0-dev.8 | 0 | Phoxal official driver: bno085 - IMU. |
-| 2026-10-04 17:39:58 | [phoxal-service-motion](https://crates.io/crates/phoxal-service-motion) | 0.0.0-dev.8 | 0 | Motion service executable for Phoxal. |
-| 2026-10-04 17:40:45 | [jscd](https://crates.io/crates/jscd) | 0.1.0 | 0 | Reverse bytenode-compiled .jsc (V8 code cache) back to JavaScript |
-| 2026-10-04 17:41:13 | [phoxal-component-ddsm115](https://crates.io/crates/phoxal-component-ddsm115) | 0.0.0-dev.8 | 0 | Phoxal official driver: ddsm115 - wheel hub motor. |
-| 2026-10-04 17:42:54 | [cloudcover-aws-sdk-js-v3](https://crates.io/crates/cloudcover-aws-sdk-js-v3) | 0.1.7 | 0 | AWS SDK for JavaScript v3 method mappings for CloudCover |
-| 2026-10-04 17:43:02 | [cloudcover-javascript](https://crates.io/crates/cloudcover-javascript) | 0.1.6 | 0 | JavaScript and TypeScript source analyzer for CloudCover |
-| 2026-10-04 17:43:25 | [phoxal-service-navigation](https://crates.io/crates/phoxal-service-navigation) | 0.0.0-dev.8 | 0 | Phoxal navigation service executable and packaged API. |
-| 2026-10-04 17:47:10 | [ferrocad_core](https://crates.io/crates/ferrocad_core) | 0.1.0 | 0 | FerroCAD core: quantities, properties, documents, recompute DAG |
-| 2026-10-04 17:47:32 | [ferrocad_widgets](https://crates.io/crates/ferrocad_widgets) | 0.1.0 | 0 | Reusable bite-gpui widgets for FerroCAD: window chrome, editable field, console… |
-| 2026-10-04 17:48:13 | [d2s](https://crates.io/crates/d2s) | 0.1.0 | 0 | Read and write Diablo 2 save files (.d2s character saves and .d2i shared stash… |
-| 2026-10-04 17:49:48 | [celox-test-suite](https://crates.io/crates/celox-test-suite) | 0.0.0 | 0 | Trusted Publishing bootstrap placeholder for the Celox simulator |
-| 2026-10-04 17:56:03 | [kola-witness](https://crates.io/crates/kola-witness) | 0.1.0 | 0 | Cross-organism witnessing: sovereign agents mutually notarize each other's hash… |
-| 2026-10-04 17:57:18 | [cargo-phoxal](https://crates.io/crates/cargo-phoxal) | 0.1.0 | 0 | The Phoxal project compiler and Cargo source-development command. |
-| 2026-10-04 18:00:22 | [sootmark-plist](https://crates.io/crates/sootmark-plist) | 0.1.0 | 0 | Reader of Apple property lists for forensics: binary (bplist00) and XML, every… |
-| 2026-10-04 18:06:15 | [bicameral](https://crates.io/crates/bicameral) | 0.1.0 | 0 | Bicameral minds: consequential decisions require signed concurrence from indepe… |
-| 2026-10-04 18:07:55 | [ferrocad](https://crates.io/crates/ferrocad) | 0.0.0 | 0 | FerroCAD: a Rust reimplementation of FreeCAD's App core, exposed as the FreeCAD… |
-| 2026-10-04 18:13:47 | [phoxal-simulator](https://crates.io/crates/phoxal-simulator) | 0.1.0 | 0 | Independent Phoxal MuJoCo simulator application. |
-| 2026-10-04 18:16:15 | [axon-reflex](https://crates.io/crates/axon-reflex) | 0.1.0 | 0 | Audited reflex arc for autonomous agents: hard-bounded, sub-deliberative trigge… |
-| 2026-10-04 18:16:27 | [phoxal-component-oak_d_lite](https://crates.io/crates/phoxal-component-oak_d_lite) | 0.0.0-dev.8 | 0 | Phoxal official driver: oak_d_lite - camera/depth/IMU. |
+| 2026-10-04 18:21:37 | [eggup-curl](https://crates.io/crates/eggup-curl) | 0.1.2 | 0 | External curl acquisition adapter for Eggup (bounded, no release policy) |
+| 2026-10-04 18:25:20 | [phoxal-component-vl53l1x](https://crates.io/crates/phoxal-component-vl53l1x) | 0.0.0-dev.8 | 0 | Phoxal official driver: vl53l1x - range/time-of-flight. |
+| 2026-10-04 18:25:22 | [loqui-speaker](https://crates.io/crates/loqui-speaker) | 0.3.0 | 0 | Speaker embeddings for voice similarity: Kaldi fbank in Rust and WeSpeaker on O… |
+| 2026-10-04 18:26:08 | [tree-sitter-scss-modern](https://crates.io/crates/tree-sitter-scss-modern) | 0.1.0 | 0 | Tree-sitter grammar for current SCSS syntax (module system, maps, control flow) |
+| 2026-10-04 18:26:15 | [nagual](https://crates.io/crates/nagual) | 0.1.0 | 0 | Adaptive immune system for autonomous agents: attack signatures become signed,… |
+| 2026-10-04 18:26:28 | [phos-core](https://crates.io/crates/phos-core) | 0.0.0 | 0 | Placeholder for phos-core, the Rust crate of phos-core, the ELE Optics optical… |
+| 2026-10-04 18:26:44 | [phos-tools](https://crates.io/crates/phos-tools) | 0.0.0 | 0 | Placeholder for phos-tools, part of phos-core, the ELE Optics optical physics e… |
+| 2026-10-04 18:26:57 | [phos-materials](https://crates.io/crates/phos-materials) | 0.0.0 | 0 | Placeholder for phos-materials, part of phos-core, the ELE Optics optical physi… |
+| 2026-10-04 18:27:19 | [phos-components](https://crates.io/crates/phos-components) | 0.0.0 | 0 | Placeholder for phos-components, part of phos-core, the ELE Optics optical phys… |
+| 2026-10-04 18:27:43 | [phos-propagation](https://crates.io/crates/phos-propagation) | 0.0.0 | 0 | Placeholder for phos-propagation, part of phos-core, the ELE Optics optical phy… |
+| 2026-10-04 18:29:10 | [tree-sitter-razor-modern](https://crates.io/crates/tree-sitter-razor-modern) | 0.1.0 | 0 | Tree-sitter grammar for ASP.NET Core Razor markup (.cshtml and .razor) |
+| 2026-10-04 18:32:01 | [bevy_replicon_iroh](https://crates.io/crates/bevy_replicon_iroh) | 0.0.1 | 0 | Minimal iroh backend for bevy_replicon |
+| 2026-10-04 18:32:45 | [pioneer-optical](https://crates.io/crates/pioneer-optical) | 0.5.0 | 0 | Vendor SCSI command catalogue for Pioneer optical (BD/DVD) drives: named, docum… |
+| 2026-10-04 18:36:02 | [phoxal-service-safety](https://crates.io/crates/phoxal-service-safety) | 0.0.0-dev.8 | 0 | Public safety assessment contract and private safety service executable for Pho… |
+| 2026-10-04 18:36:16 | [gpui-kumo](https://crates.io/crates/gpui-kumo) | 0.1.0-rc.1 | 0 | A native Kumo design system for GPUI with typed components, themes, and accessi… |
+| 2026-10-04 18:36:16 | [eidolon-replay](https://crates.io/crates/eidolon-replay) | 0.1.0 | 0 | Counterfactual replay for audited agents: fork a hash-chained history, replay i… |
+| 2026-10-04 18:45:19 | [phoxal-component-zed_f9p](https://crates.io/crates/phoxal-component-zed_f9p) | 0.0.0-dev.8 | 0 | Phoxal official driver: zed_f9p - GNSS. |
+| 2026-10-04 18:46:16 | [sibyl-gate](https://crates.io/crates/sibyl-gate) | 0.1.0 | 0 | Oracle-gated memory: secrets sealed behind events — an organism physically cann… |
+| 2026-10-04 18:54:11 | [twelvedata-api](https://crates.io/crates/twelvedata-api) | 0.1.1 | 0 | Unofficial typed async client for the Twelve Data market data API |
+| 2026-10-04 18:56:07 | [biometric-engines-protocol](https://crates.io/crates/biometric-engines-protocol) | 0.1.0 | 0 | Protobuf messages, codecs and stream framing for biometric engine workers |
+| 2026-10-04 18:56:15 | [mictlan](https://crates.io/crates/mictlan) | 0.1.0 | 0 | Posthumous agency for sovereign organisms: owner-signed standing orders that ex… |
+| 2026-10-04 18:56:22 | [phoxal-service-world](https://crates.io/crates/phoxal-service-world) | 0.0.0-dev.8 | 0 | Phoxal world estimation service executable and packaged API. |
+| 2026-10-04 18:57:51 | [terse-litestream](https://crates.io/crates/terse-litestream) | 0.1.0 | 0 | Embedded SQLite WAL capture and Litestream-compatible replication |
+| 2026-10-04 18:59:39 | [safevalue-derive](https://crates.io/crates/safevalue-derive) | 0.4.0 | 0 | Derive macros for safevalue. Use them through the safevalue crate. |
+| 2026-10-04 19:06:16 | [germline](https://crates.io/crates/germline) | 0.1.0 | 0 | Organism reproduction: a sovereign mind forks a child with a signed genesis blo… |
+| 2026-10-04 19:08:51 | [sootmark-recyclebin](https://crates.io/crates/sootmark-recyclebin) | 0.1.0 | 0 | The Windows Recycle Bin for forensics: $I files (Vista to Windows 11) and XP's… |
+| 2026-10-04 19:10:39 | [xcp-core](https://crates.io/crates/xcp-core) | 0.1.0 | 0 | XCP on CAN — Universal Measurement and Calibration Protocol: commands, response… |
+| 2026-10-04 19:10:39 | [a2l-parse](https://crates.io/crates/a2l-parse) | 0.1.0 | 0 | ASAP2/A2L ECU description parser — PROJECT/MODULE/CHARACTERISTIC/MEASUREMENT/RE… |
+| 2026-10-04 19:14:38 | [sheet-engine](https://crates.io/crates/sheet-engine) | 0.1.0 | 0 | Spreadsheet calculation engine — dependency-driven incremental recalculation, E… |
+| 2026-10-04 19:15:33 | [camlet](https://crates.io/crates/camlet) | 1.0.0 | 0 | Library for writing plug-ins for the camlet webcam application |
+| 2026-10-04 19:16:16 | [tabula-rasa](https://crates.io/crates/tabula-rasa) | 0.1.0 | 0 | Proof of non-knowledge: signed certificates that a datum never occurred in an a… |
 
 ## Data source
 

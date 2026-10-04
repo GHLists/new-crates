@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T18:21:37.642594Z,eggup-curl,0.1.2,0,0,https://github.com/eggstack/eggup,"External curl acquisition adapter for Eggup (bounded, no release policy)"
+2026-10-04T18:25:20.667644Z,phoxal-component-vl53l1x,0.0.0-dev.8,0,0,https://github.com/phoxal/components,Phoxal official driver: vl53l1x - range/time-of-flight.
+2026-10-04T18:25:22.953473Z,loqui-speaker,0.3.0,0,0,https://github.com/Awakened-Labs/loqui,Speaker embeddings for voice similarity: Kaldi fbank in Rust and WeSpeaker on ONNX Runtime.
+2026-10-04T18:26:08.573401Z,tree-sitter-scss-modern,0.1.0,0,0,https://github.com/meloncholera/tree-sitter-scss-modern.git,"Tree-sitter grammar for current SCSS syntax (module system, maps, control flow)"
+2026-10-04T18:26:15.865021Z,nagual,0.1.0,0,0,https://github.com/savageAZfck/nagual,"Adaptive immune system for autonomous agents: attack signatures become signed, lineage-tracked antibodies shared as vaccines across the mesh — herd immunity for a federation of organisms — named for…"
+2026-10-04T18:26:28.372111Z,phos-core,0.0.0,0,0,https://github.com/ELEOptics/phos-core,"Placeholder for phos-core, the Rust crate of phos-core, the ELE Optics optical physics engine. No code yet."
+2026-10-04T18:26:44.819156Z,phos-tools,0.0.0,0,0,https://github.com/ELEOptics/phos-core,"Placeholder for phos-tools, part of phos-core, the ELE Optics optical physics engine. No code yet."
+2026-10-04T18:26:57.600821Z,phos-materials,0.0.0,0,0,https://github.com/ELEOptics/phos-core,"Placeholder for phos-materials, part of phos-core, the ELE Optics optical physics engine. No code yet."
+2026-10-04T18:27:19.121327Z,phos-components,0.0.0,0,0,https://github.com/ELEOptics/phos-core,"Placeholder for phos-components, part of phos-core, the ELE Optics optical physics engine. No code yet."
+2026-10-04T18:27:43.544228Z,phos-propagation,0.0.0,0,0,https://github.com/ELEOptics/phos-core,"Placeholder for phos-propagation, part of phos-core, the ELE Optics optical physics engine. No code yet."
+2026-10-04T18:29:10.171049Z,tree-sitter-razor-modern,0.1.0,0,0,https://github.com/meloncholera/tree-sitter-razor-modern.git,Tree-sitter grammar for ASP.NET Core Razor markup (.cshtml and .razor)
+2026-10-04T18:32:01.958343Z,bevy_replicon_iroh,0.0.1,0,0,https://git.home.arpa/mitchty/bevy_replicon_iroh,Minimal iroh backend for bevy_replicon
+2026-10-04T18:32:45.125795Z,pioneer-optical,0.5.0,0,0,https://github.com/MattJackson/pioneer-optical,"Vendor SCSI command catalogue for Pioneer optical (BD/DVD) drives: named, documented CDB constructors for identity, gated memory reads, the read-unlock knock, the OEM update sequence, and the kernel-…"
+2026-10-04T18:36:02.191524Z,phoxal-service-safety,0.0.0-dev.8,0,0,https://github.com/phoxal/services,Public safety assessment contract and private safety service executable for Phoxal.
+2026-10-04T18:36:16.107055Z,gpui-kumo,0.1.0-rc.1,0,0,https://github.com/msmps/gpui-kumo,"A native Kumo design system for GPUI with typed components, themes, and accessibility support."
+2026-10-04T18:36:16.362399Z,eidolon-replay,0.1.0,0,0,https://github.com/savageAZfck/eidolon,"Counterfactual replay for audited agents: fork a hash-chained history, replay it under an alternate policy, and sign the divergence — provable what-would-have-happened for sovereign organisms"
+2026-10-04T18:45:19.98706Z,phoxal-component-zed_f9p,0.0.0-dev.8,0,0,https://github.com/phoxal/components,Phoxal official driver: zed_f9p - GNSS.
+2026-10-04T18:46:16.058997Z,sibyl-gate,0.1.0,0,0,https://github.com/savageAZfck/sibyl,"Oracle-gated memory: secrets sealed behind events — an organism physically cannot recall them until a designated oracle produces a signed claim and the custody share — named for the Sibyl, who spoke…"
+2026-10-04T18:54:11.729554Z,twelvedata-api,0.1.1,0,0,https://github.com/gilesw/twelvedata-rs,Unofficial typed async client for the Twelve Data market data API
+2026-10-04T18:56:07.728967Z,biometric-engines-protocol,0.1.0,0,0,,"Protobuf messages, codecs and stream framing for biometric engine workers"
+2026-10-04T18:56:15.743499Z,mictlan,0.1.0,0,0,https://github.com/savageAZfck/mictlan,"Posthumous agency for sovereign organisms: owner-signed standing orders that execute only after a cryptographically-proven death — every posthumous act in scope, on chain, and bounded — named for Mic…"
+2026-10-04T18:56:22.625928Z,phoxal-service-world,0.0.0-dev.8,0,0,https://github.com/phoxal/services,Phoxal world estimation service executable and packaged API.
+2026-10-04T18:57:51.395176Z,terse-litestream,0.1.0,0,0,https://github.com/TerseAI/terse-litestream,Embedded SQLite WAL capture and Litestream-compatible replication
+2026-10-04T18:59:39.91573Z,safevalue-derive,0.4.0,0,0,https://github.com/Fice/safevalue,Derive macros for safevalue. Use them through the safevalue crate.
+2026-10-04T19:06:16.288584Z,germline,0.1.0,0,0,https://github.com/savageAZfck/germline,"Organism reproduction: a sovereign mind forks a child with a signed genesis block, bequested memories, and a Merkle genealogy — provable descent without identity confusion"
+2026-10-04T19:08:51.515396Z,sootmark-recyclebin,0.1.0,0,0,https://github.com/Sootmark/recyclebin,"The Windows Recycle Bin for forensics: $I files (Vista to Windows 11) and XP's INFO2, each deleted file's original path, size and deletion time."
+2026-10-04T19:10:39.377446Z,xcp-core,0.1.0,0,0,https://github.com/WyattAu/xcp-core,"XCP on CAN — Universal Measurement and Calibration Protocol: commands, responses, DAQ lists"
+2026-10-04T19:10:39.381621Z,a2l-parse,0.1.0,0,0,https://github.com/WyattAu/a2l-parse,"ASAP2/A2L ECU description parser — PROJECT/MODULE/CHARACTERISTIC/MEASUREMENT/RECORD_LAYOUT/COMPU_METHOD, calibration data model"
+2026-10-04T19:14:38.816797Z,sheet-engine,0.1.0,0,0,https://github.com/WyattAu/sheet-engine,"Spreadsheet calculation engine — dependency-driven incremental recalculation, Excel-compatible semantics, volatile function tracking"
+2026-10-04T19:15:33.98118Z,camlet,1.0.0,0,0,https://github.com/pommicket/camlet,Library for writing plug-ins for the camlet webcam application
+2026-10-04T19:16:16.688418Z,tabula-rasa,0.1.0,0,0,https://github.com/savageAZfck/tabula,"Proof of non-knowledge: signed certificates that a datum never occurred in an append-only hash-chained history — committed scans replayable offline, false proofs refused at the API — the blank slate,…"
