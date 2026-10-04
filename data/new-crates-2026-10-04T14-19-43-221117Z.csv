@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T13:21:55.269858Z,hyprforge-volumes,0.1.6,0,0,https://github.com/hyprforge-suite/hyprforge,"Drives over UDisks2 and network shares over gvfs and the mount table: what is plugged in, mounting, unmounting and ejecting it, and connecting to a server, behind backend traits with a mock"
+2026-10-04T13:22:18.635219Z,corescout-mcp-server,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,CoreScout as a Model Context Protocol server: the tool table and the stdio protocol.
+2026-10-04T13:22:52.526868Z,ffpsd,0.0.1,0,0,https://github.com/EnergyFlexus/ffpsd,Read and write Photoshop PSD and PSB files; Rust bindings to the ffpsd library are on the way
+2026-10-04T13:22:55.750198Z,ffpsd-sys,0.0.1,0,0,https://github.com/EnergyFlexus/ffpsd,"Raw bindings to the C API of ffpsd, a PSD and PSB library; the bindings are on the way"
+2026-10-04T13:24:42.004743Z,rdsh,0.1.1,0,0,,"Rust port/shim for dsh: fast launcher, token saver, zero behavior breakage via passthrough"
+2026-10-04T13:32:25.110816Z,corescout-mcp,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,"CoreScout as a Model Context Protocol server, so any compatible AI can use what this computer has learned."
+2026-10-04T13:39:27.570192Z,prochist-tui,0.1.0,0,0,,phi - interactive TUI for the process tree around a PID
+2026-10-04T13:40:24.05234Z,celluloid-view,0.1.0,0,0,https://github.com/careyi3/celluloid,egui viewer for Celluloid animations
+2026-10-04T13:40:26.617167Z,celluloid,0.1.0,0,0,https://github.com/careyi3/celluloid,Viewer for Celluloid animations
+2026-10-04T13:42:31.179353Z,corescout-mirror-tools,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,"Programs that know a machine only through its mirror, and cannot reach hardware."
+2026-10-04T13:47:26.569715Z,libnotify-rs,1.0.0,0,0,https://github.com/szymon-jozef/libnotify-rs,Rust bindings for libnotify
+2026-10-04T13:52:37.568417Z,corescout-service,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,"The CoreScout background service: observes the machine, learns, and answers the local API."
+2026-10-04T13:53:03.371949Z,ruvoraq-config,0.1.0,0,0,https://github.com/babar-xagi/Ruvoraq,Typed environment and dotenv configuration for Ruvoraq applications
+2026-10-04T13:53:05.03468Z,ruvoraq-db,0.1.0,0,0,https://github.com/babar-xagi/Ruvoraq,Optional SQLite and PostgreSQL adapters with checked transactional migrations for Ruvoraq
+2026-10-04T13:53:06.500538Z,ruvoraq-macros,0.1.0,0,0,https://github.com/babar-xagi/Ruvoraq,"Route attributes, schema metadata and application bootstrap macros for Ruvoraq"
+2026-10-04T13:53:10.807419Z,ruvoraq-cli,0.1.0,0,0,https://github.com/babar-xagi/Ruvoraq,"Create, organize, run and migrate Ruvoraq Rust backend applications"
+2026-10-04T13:53:17.854179Z,ruvoraq-web,0.1.0,0,0,https://github.com/babar-xagi/Ruvoraq,"HTTP routing, typed requests, shared services and offline Swagger UI for Ruvoraq"
+2026-10-04T13:57:11.345731Z,rust_local_ai,0.1.0,0,0,https://github.com/kekko7072/rust_local_ai,A unified Rust interface to AI capabilities provided or managed by the operating system
+2026-10-04T14:03:13.615807Z,ruvoraq,0.1.0,0,0,https://github.com/babar-xagi/Ruvoraq,A modular Rust backend framework with typed APIs and automatic OpenAPI documentation
+2026-10-04T14:03:16.304239Z,fridica-store-sqlite,0.1.0,0,0,https://github.com/chengcli/fridica-store-sqlite,"Fridica's state on SQLite: the store thread, schema and migrations, weekly archives and the replay ledger"
+2026-10-04T14:05:17.573915Z,nautilus-macros,0.0.0,0,0,https://github.com/nautechsystems/nautilus_trader,Official NautilusTrader procedural macros crate bootstrap
+2026-10-04T14:05:19.265323Z,gwz-sspi,0.0.0-bootstrap.1,0,0,https://github.com/owebeeone/gwz-sspi,Bootstrap prerelease for the actively developed gwz-sspi crate; no implementation included.
+2026-10-04T14:05:24.778065Z,nautilus-uniswap,0.0.0,0,0,https://github.com/nautechsystems/nautilus_trader,Official NautilusTrader Uniswap adapter crate bootstrap
+2026-10-04T14:06:12.31552Z,login-poweroff-reboot-zbus,0.4.8,0,0,https://github.com/paulusminus/lipl-display/,Poweroff or reboot machine using dbus interface logind
+2026-10-04T14:08:58.063293Z,gfa-to-pairwise-paf,1.0.0,0,0,https://github.com/cmdcolin/gfa-to-pairwise-paf-rs,"Unpacks pairwise alignments, as PAF, from a pangenome graph's GFA"
+2026-10-04T14:13:26.713008Z,wolakota,0.1.0,0,0,https://github.com/savageAZfck/wolakota,"Inter-organism treaties: cross-owner consent contracts between sovereign agents — dual-signed scopes, hash-chained treaty book, unilateral revocation — named for Lakota wolakota, peace between nations"
+2026-10-04T14:13:55.616856Z,nagi-escrow,0.1.0,0,0,https://github.com/savageAZfck/nagi,"Dead-man memory escrow: Shamir-split secrets across owned custodians with signed shards, quorum or timed recovery, and recovery certificates — named for the Lakota nagi, the spirit that survives the…"
+2026-10-04T14:14:36.79717Z,latent-ai,0.1.0,0,0,https://github.com/hellolio/latent,"Unified multi-provider LLM streaming API: types, provider registry, protocol adapters, retry and overflow detection"
+2026-10-04T14:15:28.326942Z,mzizi-activitypub,0.1.0,0,0,https://github.com/mzizi-dev/mzizi-registry,"Mzizi ActivityPub: the sans-IO documents a read-only ActivityPub host serves (actors' context, content negotiation, WebFinger, host-meta, NodeInfo, outbox collections), shared by Mukoko's circles and…"
+2026-10-04T14:15:39.151433Z,latent-agent,0.1.0,0,0,https://github.com/hellolio/latent,"Agent main loop with parallel tool execution, steering/follow-up injection and budget guardrails, built on latent-ai"
+2026-10-04T14:15:53.202843Z,latent-tui,0.1.0,0,0,https://github.com/hellolio/latent,"Terminal UI for the latent coding agent: full-frame diff rendering, multi-line editor, markdown and themes"
+2026-10-04T14:16:12.736848Z,latent-sandbox,0.1.0,0,0,https://github.com/hellolio/latent,"Command sandboxing backends (macOS Seatbelt, Linux bubblewrap/Landlock) for the latent agent"
+2026-10-04T14:16:29.474559Z,latent-session,0.1.0,0,0,https://github.com/hellolio/latent,"Append-only JSONL session tree with branching, context projection and auto-compaction"
