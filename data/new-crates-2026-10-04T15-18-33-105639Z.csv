@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T14:21:44.109785Z,crunk-spec,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for crunk-spec, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T14:25:23.811401Z,latent-tools,0.1.0,0,0,https://github.com/hellolio/latent,Built-in coding tools (read/bash/edit/write/grep/find/ls) with unified output truncation
+2026-10-04T14:31:21.544572Z,hoodrich,0.1.0,0,0,https://github.com/kloki/hoodrich,"Render markdown and source code as styled ratatui Text, with concealed/raw modes, diffs and Dracula code highlighting"
+2026-10-04T14:34:54.976079Z,latent-web,0.1.0,0,0,https://github.com/hellolio/latent,"Web search and fetch tools with multi-engine routing, bounded output and SSRF guards"
+2026-10-04T14:38:50.656248Z,honk-me,0.1.0,0,0,https://github.com/honk-me/honk-rust,"Official Rust client for Honk (honk-me.app): send events from apps, jobs and CI to your phone, with retries and idempotency built in."
+2026-10-04T14:44:59.74333Z,easy_callback_core,1.0.0,0,0,https://github.com/ZenKerr/easy_callback,Internal implementation crate for easy_callback
+2026-10-04T14:45:17.439379Z,latent-core,0.1.0,0,0,https://github.com/hellolio/latent,"Business core for the latent coding agent: session, permissions, MCP extensions, subagents and skills"
+2026-10-04T14:48:35.907807Z,sootmark-packages,0.2.0,0,0,https://github.com/Sootmark/packages,"Linux package-manager logs (dpkg.log, apt history.log, dnf.rpm.log, yum.log) and dnf's history database: what was installed, upgraded and removed, when, and by whom, with honest times."
+2026-10-04T14:49:02.013703Z,bcrypt-rust,0.1.0,0,0,https://github.com/Brooooooklyn/bcrypt-rust,Pure-Rust bcrypt with runtime-dispatched SIMD backends for batch hashing
+2026-10-04T14:50:15.001553Z,easy_callback_derive,1.0.0,0,0,https://github.com/ZenKerr/easy_callback,Internal implementation crate for easy_callback
+2026-10-04T14:50:25.678889Z,easy_callback,1.0.0,0,0,https://github.com/ZenKerr/easy_callback,Automatic callback data encoding for teloxide
+2026-10-04T14:55:35.348939Z,latent,0.1.0,0,0,https://github.com/hellolio/latent,"Terminal AI coding agent (the `latent` binary): streaming LLM, parallel tools, sessions, MCP extensions, permissions and sandbox"
+2026-10-04T14:55:54.803195Z,qleany-naming,2.0.0,0,0,https://github.com/ferntech-eu/qleany,English pluralization for Qleany's generated identifiers
+2026-10-04T14:58:52.784291Z,qleany-frontend,2.0.0,0,0,https://github.com/ferntech-eu/qleany,Frontend integration for Qleany
+2026-10-04T15:02:37.114159Z,cli-minigrep,0.1.0,0,0,,CLI tool for searching patterns within files
+2026-10-04T15:08:49.385217Z,knishio-kcore,0.1.0,0,0,https://github.com/WishKnish/KnishIO-Client-Rust,Static FFI binding of KnishIO-Crypto-Core 0.1.0 (WOTS+ chains and address) for the Knish.IO Rust SDK.
+2026-10-04T15:18:07.007219Z,glacier-inflect,0.1.0,0,0,https://github.com/glacierlabsltd/glacier,"English inflection (pluralize, singularize, cases) shared by Glacier's crates."
+2026-10-04T15:18:09.568207Z,glacier-dialect,0.1.0,0,0,https://github.com/glacierlabsltd/glacier,"The .glacier dialect: an Elixir-flavoured syntax that compiles, line for line, to Glacier Rust."
+2026-10-04T15:18:10.361629Z,glacier-macros,0.1.0,0,0,https://github.com/glacierlabsltd/glacier,Procedural macros for the Glacier web framework.
+2026-10-04T15:18:12.65507Z,glacier-web,0.1.0,0,0,https://github.com/glacierlabsltd/glacier,"A batteries-included web framework for Rust, inspired by Rails, Phoenix and Laravel."
+2026-10-04T15:18:13.800364Z,glacier-web-cli,0.1.0,0,0,https://github.com/glacierlabsltd/glacier,Command-line tool for creating and running Glacier applications.
