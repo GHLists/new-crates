@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T21:25:45.379706Z,lamprey-markdown,0.1.4,0,0,https://git.celery.eu.org/lamprey/lamprey,yet another chat thing?
+2026-10-04T21:36:12.067964Z,ramenv,1.0.0,0,0,https://github.com/lczerniawski/ramenv,Encrypted environment variable manager with optional validation and monorepo support
+2026-10-04T21:36:51.744395Z,sdfcore,0.2.0,0,0,https://github.com/tyleo/tyt,Core types for signed distance field models.
+2026-10-04T21:36:54.228311Z,sdfj,0.2.0,0,0,https://github.com/tyleo/tyt,Core types for the SDF Json (.sdfj) format.
+2026-10-04T21:36:57.383074Z,sdfj-codec,0.2.0,0,0,https://github.com/tyleo/tyt,Encodes sdfj types into .sdfj documents.
+2026-10-04T21:36:59.908231Z,sdfj-sdfcore,0.2.0,0,0,https://github.com/tyleo/tyt,Converts between SDF Json documents and the sdfcore state.
+2026-10-04T21:37:02.405151Z,sdfconv,0.2.0,0,0,https://github.com/tyleo/tyt,Reads and writes SDF file formats through the sdfcore state.
+2026-10-04T21:37:56.336773Z,turbojev-runtime-llamacpp,0.29.2,0,0,https://github.com/DestroyerDarkNess/TurboJev,Optional cross-platform llama.cpp/GGUF reference runtime adapter for TurboJev
+2026-10-04T21:38:03.640197Z,turbojev-host-native,0.29.2,0,0,https://github.com/DestroyerDarkNess/TurboJev,Shared native host/session layer for TurboJev language bindings
+2026-10-04T21:38:40.649175Z,frdt,0.2.0,0,0,,Edit and inspect Resonite FrDT (.brson) documents without expanding them to JSON
+2026-10-04T21:39:16.775561Z,sdfj-builder,0.2.0,0,0,https://github.com/tyleo/tyt,The TypeScript builder that records voxel models as SDF Json (.sdfj) documents.
+2026-10-04T21:41:13.013398Z,mesh-llm-moa-plugin,0.78.0,0,0,https://github.com/Mesh-LLM/mesh-llm,Built-in virtual-model plugin for mesh mixture-of-agents
+2026-10-04T21:44:13.552115Z,meshoptimizer-rs,0.1.0,0,0,https://github.com/Tavrin/meshoptimizer-rs,"Pure safe Rust port of meshoptimizer 1.3 with byte-identical output. Covers mesh simplification, vertex cache, overdraw and fetch optimization, meshlet building and vertex/index compression."
+2026-10-04T21:46:23.682775Z,trigora-local,1.0.0,0,0,https://github.com/trigora-dev/trigora,Local Trigora runtime over the SQLite TCC host
+2026-10-04T21:46:42.838719Z,trigora-cli,1.0.0,0,0,https://github.com/trigora-dev/trigora,Trigora command line
+2026-10-04T21:58:34.84777Z,tocsin,0.1.0,0,0,https://github.com/zbl1998-sdjn/tocsin,Send one notification to many services from a single URL. Reads Apprise notification URLs.
+2026-10-04T22:02:48.466012Z,prettyplease-any,0.1.0,0,0,https://github.com/Techcable/prettyplease-any.rs,"Pretty print individual items and expressions, using the prettyplease crate underneath"
+2026-10-04T22:04:34.39256Z,completr,0.1.0,0,0,https://github.com/sayef/completr,"Serverless autocompletion engine for Rust and Python: exact, prefix, infix, abbreviation, spelling-tolerant, word-decomposing and semantic completions from object storage"
+2026-10-04T22:05:53.271307Z,completr-cli,0.1.0,0,0,https://github.com/sayef/completr,"Command-line tool for completr databases: inspect, import, complete, compact, clean up and ingest"
+2026-10-04T22:07:36.298681Z,tocsin-cli,0.1.0,0,0,https://github.com/zbl1998-sdjn/tocsin,The tocsin command line: send a notification to many services from Apprise-style URLs.

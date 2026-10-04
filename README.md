@@ -8,32 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 21:18 UTC
+## Latest list — 2026-10-04 22:19 UTC
 
-New crates published between 2026-10-04 20:18 UTC and 2026-10-04 21:18 UTC.
+New crates published between 2026-10-04 21:18 UTC and 2026-10-04 22:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-04T21-18-40-826223Z.csv)
+[Full CSV](data/new-crates-2026-10-04T22-19-28-820627Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-04 20:21:10 | [cargo-cleanme](https://crates.io/crates/cargo-cleanme) | 0.1.1 | 0 | Find inactive Cargo artifacts and safely preview their cleanup |
-| 2026-10-04 20:26:40 | [ferrocad_gpui](https://crates.io/crates/ferrocad_gpui) | 0.1.0 | 0 | FerroCAD's bite-gpui application shell: boots CPython and provides the window,… |
-| 2026-10-04 20:29:56 | [hyprforge-setup](https://crates.io/crates/hyprforge-setup) | 0.1.8 | 0 | The steps that finish a Hyprforge install — services, keybinds, idle lock, noti… |
-| 2026-10-04 20:45:21 | [silc-frontend](https://crates.io/crates/silc-frontend) | 0.1.0 | 0 | Frontend for SIL (Semantic Intention Language) - CNL parser + SMT verification |
-| 2026-10-04 20:45:28 | [caexfer](https://crates.io/crates/caexfer) | 0.1.0 | 0 | Exchange linear finite-element meshes and results across CAE formats |
-| 2026-10-04 20:48:08 | [parterre-util](https://crates.io/crates/parterre-util) | 0.6.0 | 0 | Internal to parterre: the cancellation handles for its child processes. No stab… |
-| 2026-10-04 20:48:12 | [parterre-highlight](https://crates.io/crates/parterre-highlight) | 0.6.0 | 0 | Internal to parterre: syntax colour for the diff and blame windows, through tre… |
-| 2026-10-04 20:48:14 | [parterre-forge](https://crates.io/crates/parterre-forge) | 0.6.0 | 0 | Internal to parterre: open pull requests from GitHub, shown on their head commi… |
-| 2026-10-04 20:48:51 | [tesserax-wireguard](https://crates.io/crates/tesserax-wireguard) | 0.1.1 | 0 | kernel WireGuard link for tesserax, brought up with ip and wg. No userspace UDP… |
-| 2026-10-04 20:49:59 | [silc-causal-ir](https://crates.io/crates/silc-causal-ir) | 0.1.0 | 0 | SIL Causal Intermediate Representation - SSA-based IR with arena allocation and… |
-| 2026-10-04 20:55:20 | [silc-backend](https://crates.io/crates/silc-backend) | 0.1.0 | 0 | SIL Backend - C99 and WebAssembly code generation with SMT-verifiable invariants |
-| 2026-10-04 20:57:54 | [computer-protocol](https://crates.io/crates/computer-protocol) | 0.3.0 | 0 | Types shared by the host MCP server and the in-container daemon. |
-| 2026-10-04 20:58:09 | [computer-transfer](https://crates.io/crates/computer-transfer) | 0.3.0 | 0 | Packs and unpacks file trees for transfers between the host and the computer. |
-| 2026-10-04 21:00:03 | [computer-use-mcp](https://crates.io/crates/computer-use-mcp) | 0.3.0 | 0 | MCP server that gives AI agents a shared, persistent Linux desktop running in D… |
-| 2026-10-04 21:02:29 | [rust_llm](https://crates.io/crates/rust_llm) | 2.0.0 | 0 | A 1:1 Rust port of RubyLLM 2.0: one API for chat, tools, agents, and embeddings… |
-| 2026-10-04 21:02:55 | [rust_llm_loco](https://crates.io/crates/rust_llm_loco) | 2.0.0 | 0 | RubyLLM's acts_as_chat for Loco: persist chats, messages, tool calls, and usage… |
-| 2026-10-04 21:03:05 | [rust_llm_cli](https://crates.io/crates/rust_llm_cli) | 2.0.0 | 0 | RubyLLM's Rails generators as a CLI for Loco + Inertia + React apps: install, t… |
-| 2026-10-04 21:15:25 | [lib_poster](https://crates.io/crates/lib_poster) | 0.1.0 | 0 | OAuth and Facebook publishing clients for poster applications |
+| 2026-10-04 21:25:45 | [lamprey-markdown](https://crates.io/crates/lamprey-markdown) | 0.1.4 | 0 | yet another chat thing? |
+| 2026-10-04 21:36:12 | [ramenv](https://crates.io/crates/ramenv) | 1.0.0 | 0 | Encrypted environment variable manager with optional validation and monorepo su… |
+| 2026-10-04 21:36:51 | [sdfcore](https://crates.io/crates/sdfcore) | 0.2.0 | 0 | Core types for signed distance field models. |
+| 2026-10-04 21:36:54 | [sdfj](https://crates.io/crates/sdfj) | 0.2.0 | 0 | Core types for the SDF Json (.sdfj) format. |
+| 2026-10-04 21:36:57 | [sdfj-codec](https://crates.io/crates/sdfj-codec) | 0.2.0 | 0 | Encodes sdfj types into .sdfj documents. |
+| 2026-10-04 21:36:59 | [sdfj-sdfcore](https://crates.io/crates/sdfj-sdfcore) | 0.2.0 | 0 | Converts between SDF Json documents and the sdfcore state. |
+| 2026-10-04 21:37:02 | [sdfconv](https://crates.io/crates/sdfconv) | 0.2.0 | 0 | Reads and writes SDF file formats through the sdfcore state. |
+| 2026-10-04 21:37:56 | [turbojev-runtime-llamacpp](https://crates.io/crates/turbojev-runtime-llamacpp) | 0.29.2 | 0 | Optional cross-platform llama.cpp/GGUF reference runtime adapter for TurboJev |
+| 2026-10-04 21:38:03 | [turbojev-host-native](https://crates.io/crates/turbojev-host-native) | 0.29.2 | 0 | Shared native host/session layer for TurboJev language bindings |
+| 2026-10-04 21:38:40 | [frdt](https://crates.io/crates/frdt) | 0.2.0 | 0 | Edit and inspect Resonite FrDT (.brson) documents without expanding them to JSON |
+| 2026-10-04 21:39:16 | [sdfj-builder](https://crates.io/crates/sdfj-builder) | 0.2.0 | 0 | The TypeScript builder that records voxel models as SDF Json (.sdfj) documents. |
+| 2026-10-04 21:41:13 | [mesh-llm-moa-plugin](https://crates.io/crates/mesh-llm-moa-plugin) | 0.78.0 | 0 | Built-in virtual-model plugin for mesh mixture-of-agents |
+| 2026-10-04 21:44:13 | [meshoptimizer-rs](https://crates.io/crates/meshoptimizer-rs) | 0.1.0 | 0 | Pure safe Rust port of meshoptimizer 1.3 with byte-identical output. Covers mes… |
+| 2026-10-04 21:46:23 | [trigora-local](https://crates.io/crates/trigora-local) | 1.0.0 | 0 | Local Trigora runtime over the SQLite TCC host |
+| 2026-10-04 21:46:42 | [trigora-cli](https://crates.io/crates/trigora-cli) | 1.0.0 | 0 | Trigora command line |
+| 2026-10-04 21:58:34 | [tocsin](https://crates.io/crates/tocsin) | 0.1.0 | 0 | Send one notification to many services from a single URL. Reads Apprise notific… |
+| 2026-10-04 22:02:48 | [prettyplease-any](https://crates.io/crates/prettyplease-any) | 0.1.0 | 0 | Pretty print individual items and expressions, using the prettyplease crate und… |
+| 2026-10-04 22:04:34 | [completr](https://crates.io/crates/completr) | 0.1.0 | 0 | Serverless autocompletion engine for Rust and Python: exact, prefix, infix, abb… |
+| 2026-10-04 22:05:53 | [completr-cli](https://crates.io/crates/completr-cli) | 0.1.0 | 0 | Command-line tool for completr databases: inspect, import, complete, compact, c… |
+| 2026-10-04 22:07:36 | [tocsin-cli](https://crates.io/crates/tocsin-cli) | 0.1.0 | 0 | The tocsin command line: send a notification to many services from Apprise-styl… |
 
 ## Data source
 
