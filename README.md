@@ -8,25 +8,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 09:18 UTC
+## Latest list — 2026-10-04 10:18 UTC
 
-New crates published between 2026-10-04 08:19 UTC and 2026-10-04 09:18 UTC.
+New crates published between 2026-10-04 09:18 UTC and 2026-10-04 10:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-04T09-18-50-045584Z.csv)
+[Full CSV](data/new-crates-2026-10-04T10-18-34-121805Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-04 08:21:41 | [xrat-sdk](https://crates.io/crates/xrat-sdk) | 0.21.0 | 0 | Stable public facade for embedding xrat proxy-management logic |
-| 2026-10-04 08:22:40 | [sootmark-sqlite](https://crates.io/crates/sootmark-sqlite) | 0.1.1 | 0 | Read-only reader of SQLite database files for forensics: header, b-trees, overf… |
-| 2026-10-04 08:24:19 | [rediakit-bitstream](https://crates.io/crates/rediakit-bitstream) | 0.1.1 | 0 | Config record parsing, NAL framing and keyframe detection shared across rediakit |
-| 2026-10-04 08:24:22 | [ocio](https://crates.io/crates/ocio) | 0.1.0 | 0 | A pure Rust port of OpenColorIO, the color management framework for visual effe… |
-| 2026-10-04 08:34:45 | [reverie-sabre-stats](https://crates.io/crates/reverie-sabre-stats) | 0.4.0 | 0 | Shared SaBRe patch-shape and slow-path statistics ABI. |
-| 2026-10-04 08:40:50 | [did0](https://crates.io/crates/did0) | 0.1.0 | 0 | Zero-Allocation W3C DID, Substrate SCALE Codec & DePIN Cryptographic Engine |
-| 2026-10-04 08:51:13 | [coders](https://crates.io/crates/coders) | 0.1.0 | 0 | 💻 A highly customizable inline code and code block component for WASM framework… |
-| 2026-10-04 08:52:48 | [hermit-test-workdir](https://crates.io/crates/hermit-test-workdir) | 0.4.0 | 0 | Per-run filesystem isolation for Hermit tests inside the pinned root. |
-| 2026-10-04 09:14:25 | [pmpx-plugin](https://crates.io/crates/pmpx-plugin) | 0.0.0 | 0 | Plugin contract for pmpx: the PackageManager trait and the stable C ABI that ca… |
-| 2026-10-04 09:14:27 | [pmpx](https://crates.io/crates/pmpx) | 0.0.0 | 0 | One command surface for a project's package managers. Detects the project type,… |
-| 2026-10-04 09:15:42 | [as-vim](https://crates.io/crates/as-vim) | 0.1.0 | 0 | A minimal, fast, vim-inspired terminal text editor in a single static binary |
+| 2026-10-04 09:24:29 | [cadlab](https://crates.io/crates/cadlab) | 0.0.1 | 0 | Headless electronics CAD for programs and AI agents: parts, circuits, boards, r… |
+| 2026-10-04 09:26:54 | [cryptors](https://crates.io/crates/cryptors) | 0.1.0 | 0 | All-in-one cryptographic Rust library supporting AES, DES, DSA, ECDH, ECDSA, Ed… |
+| 2026-10-04 09:32:31 | [vgi-bridge](https://crates.io/crates/vgi-bridge) | 0.16.0 | 0 | The per-community VGI bridge: holds the community's forge credentials, takes gi… |
+| 2026-10-04 09:35:33 | [shirley-agent-sdk-macros](https://crates.io/crates/shirley-agent-sdk-macros) | 0.0.1 | 0 | Procedural macros for shirley-agent-sdk (the #[tool] attribute) |
+| 2026-10-04 09:36:02 | [shirley-agent-sdk](https://crates.io/crates/shirley-agent-sdk) | 0.0.1 | 0 | Agent SDK for building LLM agents: messages, tools, protocol adapters, ReAct ru… |
+| 2026-10-04 09:39:43 | [method_name_proc_macro](https://crates.io/crates/method_name_proc_macro) | 0.3.1 | 0 | macro that expands to the name of the annotated function |
+| 2026-10-04 09:39:55 | [method_name](https://crates.io/crates/method_name) | 0.3.1 | 0 | macro that expands to the name of the annotated function |
+| 2026-10-04 09:40:45 | [prochist-core](https://crates.io/crates/prochist-core) | 0.1.0 | 0 | Process snapshot model, provider trait, and tree building for prochist |
+| 2026-10-04 09:40:55 | [prochist-cli](https://crates.io/crates/prochist-cli) | 0.1.0 | 0 | ph - print the process tree around a PID |
+| 2026-10-04 09:42:25 | [sootmark-browser](https://crates.io/crates/sootmark-browser) | 0.1.0 | 0 | Browser history for forensics: visits and downloads from Chromium-family Histor… |
+| 2026-10-04 09:50:41 | [varyk-sql](https://crates.io/crates/varyk-sql) | 0.1.0 | 0 | The SQL package for Varyk, a language for backend services that compiles to Rus… |
+| 2026-10-04 10:10:01 | [fawk](https://crates.io/crates/fawk) | 0.0.0 | 0 | functional awk |
 
 ## Data source
 

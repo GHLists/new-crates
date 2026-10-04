@@ -1,0 +1,13 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T09:24:29.558923Z,cadlab,0.0.1,0,0,https://github.com/KarpelesLab/cadlab,"Headless electronics CAD for programs and AI agents: parts, circuits, boards, routing, fab outputs."
+2026-10-04T09:26:54.856393Z,cryptors,0.1.0,0,0,https://github.com/matteobovetti/cryptors,"All-in-one cryptographic Rust library supporting AES, DES, DSA, ECDH, ECDSA, Ed25519, Elliptic Curves, HKDF, HMAC, HPKE, MD5, ML-DSA, ML-KEM, PBKDF2, RC4, RSA, SHA-1, SHA-256, SHA-3, and SHA-512"
+2026-10-04T09:32:31.495087Z,vgi-bridge,0.16.0,0,0,https://github.com/OpenVTC/verifiable-git-infrastructure,"The per-community VGI bridge: holds the community's forge credentials, takes git-ns/bridge jobs from its VTC over TSP or DIDComm, runs the forge adapters, reports results, events and drift, and posts…"
+2026-10-04T09:35:33.566838Z,shirley-agent-sdk-macros,0.0.1,0,0,https://github.com/Seann0824/Shirley,Procedural macros for shirley-agent-sdk (the #[tool] attribute)
+2026-10-04T09:36:02.370408Z,shirley-agent-sdk,0.0.1,0,0,https://github.com/Seann0824/Shirley,"Agent SDK for building LLM agents: messages, tools, protocol adapters, ReAct runtime, sandbox and workspace"
+2026-10-04T09:39:43.21863Z,method_name_proc_macro,0.3.1,0,0,https://github.com/ssrlive/method_name,macro that expands to the name of the annotated function
+2026-10-04T09:39:55.600623Z,method_name,0.3.1,0,0,https://github.com/ssrlive/method_name,macro that expands to the name of the annotated function
+2026-10-04T09:40:45.440434Z,prochist-core,0.1.0,0,0,,"Process snapshot model, provider trait, and tree building for prochist"
+2026-10-04T09:40:55.52541Z,prochist-cli,0.1.0,0,0,,ph - print the process tree around a PID
+2026-10-04T09:42:25.460966Z,sootmark-browser,0.1.0,0,0,https://github.com/Sootmark/browser,"Browser history for forensics: visits and downloads from Chromium-family History databases (Chrome, Edge, Brave, Opera, Vivaldi) and Firefox places.sqlite, read without SQLite, damage reported rather…"
+2026-10-04T09:50:41.531344Z,varyk-sql,0.1.0,0,0,https://github.com/Varyk-Lang/varyk-sql,"The SQL package for Varyk, a language for backend services that compiles to Rust: SQLite, Postgres, and MySQL through sqlx"
+2026-10-04T10:10:01.870488Z,fawk,0.0.0,0,0,https://github.com/zjom/fawk,functional awk
