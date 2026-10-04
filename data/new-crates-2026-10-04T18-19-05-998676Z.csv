@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T17:23:32.534955Z,sil-rlm,0.6.0,0,0,https://github.com/thoughtpivot/silc,Closed-tool recursive language model scaffold for silc assist (ADR-008)
+2026-10-04T17:27:02.204268Z,blockle,0.1.0,0,0,https://github.com/blocklechain/blockle,"Blockle AutoPool — the universal deployment system for PoW mining pools: point it at a chain, get a pool"
+2026-10-04T17:29:09.575828Z,ordning-core,0.1.0,0,0,https://codeberg.org/mikronova/ordning,ordning — the domain kernel shared by the dev-tracker and the planner (part of the nordisk constellation).
+2026-10-04T17:29:26.757549Z,ordning-funnel,0.1.0,0,0,https://codeberg.org/mikronova/ordning,ordning — the idea funnel and its graduation into the plan (part of the nordisk constellation).
+2026-10-04T17:29:47.492525Z,ordning-gui,0.1.0,0,0,https://codeberg.org/mikronova/ordning,ordning — the planning UI built from facett facets/egui (part of the nordisk constellation).
+2026-10-04T17:29:52.241617Z,ordning-store,0.1.0,0,0,https://codeberg.org/mikronova/ordning,ordning — durable persistence for ordning's system of record (part of the nordisk constellation).
+2026-10-04T17:31:44.901398Z,crossterm-tilcayo,0.29.0-tilcayo.1,0,0,https://github.com/pgavlin/crossterm,A crossplatform terminal library for manipulating terminals.
+2026-10-04T17:34:12.663015Z,silc,0.6.0,0,0,https://github.com/thoughtpivot/silc,ThoughtPivot Silc compiler CLI
+2026-10-04T17:37:04.927229Z,phoxal-supervisor,0.1.0,0,0,https://github.com/phoxal/supervisor,The Phoxal Framework execution supervisor.
+2026-10-04T17:37:14.089282Z,phoxal-service-kinematics,0.0.0-dev.8,0,0,https://github.com/phoxal/services,Phoxal kinematics service executable and packaged API.
+2026-10-04T17:37:47.551889Z,phoxal-component-bno085,0.0.0-dev.8,0,0,https://github.com/phoxal/components,Phoxal official driver: bno085 - IMU.
+2026-10-04T17:39:58.816432Z,phoxal-service-motion,0.0.0-dev.8,0,0,https://github.com/phoxal/services,Motion service executable for Phoxal.
+2026-10-04T17:40:45.618234Z,jscd,0.1.0,0,0,https://github.com/ejfkdev/jscd,Reverse bytenode-compiled .jsc (V8 code cache) back to JavaScript
+2026-10-04T17:41:13.759891Z,phoxal-component-ddsm115,0.0.0-dev.8,0,0,https://github.com/phoxal/components,Phoxal official driver: ddsm115 - wheel hub motor.
+2026-10-04T17:42:54.165534Z,cloudcover-aws-sdk-js-v3,0.1.7,0,0,https://github.com/cyruscook/cloudcover,AWS SDK for JavaScript v3 method mappings for CloudCover
+2026-10-04T17:43:02.575878Z,cloudcover-javascript,0.1.6,0,0,https://github.com/cyruscook/cloudcover,JavaScript and TypeScript source analyzer for CloudCover
+2026-10-04T17:43:25.757056Z,phoxal-service-navigation,0.0.0-dev.8,0,0,https://github.com/phoxal/services,Phoxal navigation service executable and packaged API.
+2026-10-04T17:47:10.002349Z,ferrocad_core,0.1.0,0,0,https://github.com/ferrocad/ferrocad,"FerroCAD core: quantities, properties, documents, recompute DAG"
+2026-10-04T17:47:32.055774Z,ferrocad_widgets,0.1.0,0,0,https://github.com/ferrocad/ferrocad,"Reusable bite-gpui widgets for FerroCAD: window chrome, editable field, console text area"
+2026-10-04T17:48:13.12271Z,d2s,0.1.0,0,0,https://github.com/ResurrectedTrader/d2s-rs,Read and write Diablo 2 save files (.d2s character saves and .d2i shared stash files). Supports D2 LOD (version 96) and D2 Resurrected (version 97-105) formats.
+2026-10-04T17:49:48.774467Z,celox-test-suite,0.0.0,0,0,https://github.com/celox-sim/celox,Trusted Publishing bootstrap placeholder for the Celox simulator
+2026-10-04T17:56:03.864068Z,kola-witness,0.1.0,0,0,https://github.com/savageAZfck/kola,"Cross-organism witnessing: sovereign agents mutually notarize each other's hash-chained ledgers so neither side — not even its own owner — can rewrite attested history — named for Lakota kola, a swor…"
+2026-10-04T17:57:18.935889Z,cargo-phoxal,0.1.0,0,0,https://github.com/phoxal/cargo,The Phoxal project compiler and Cargo source-development command.
+2026-10-04T18:00:22.155527Z,sootmark-plist,0.1.0,0,0,https://github.com/Sootmark/plist,"Reader of Apple property lists for forensics: binary (bplist00) and XML, every object type, NSKeyedArchiver archives resolved, damage reported rather than fatal."
+2026-10-04T18:06:15.833585Z,bicameral,0.1.0,0,0,https://github.com/savageAZfck/bicameral,Bicameral minds: consequential decisions require signed concurrence from independent reasoning chambers — GPU brain and ANE brain — with dissent preserved in a hash-chained hansard
+2026-10-04T18:07:55.814409Z,ferrocad,0.0.0,0,0,https://github.com/ferrocad/ferrocad,"FerroCAD: a Rust reimplementation of FreeCAD's App core, exposed as the FreeCAD Python package"
+2026-10-04T18:13:47.946474Z,phoxal-simulator,0.1.0,0,0,https://github.com/phoxal/simulator,Independent Phoxal MuJoCo simulator application.
+2026-10-04T18:16:15.577191Z,axon-reflex,0.1.0,0,0,https://github.com/savageAZfck/axon,"Audited reflex arc for autonomous agents: hard-bounded, sub-deliberative triggers that can brake, alert, or quarantine — but can never steer — every firing on its own hash-chained log"
+2026-10-04T18:16:27.6038Z,phoxal-component-oak_d_lite,0.0.0-dev.8,0,0,https://github.com/phoxal/components,Phoxal official driver: oak_d_lite - camera/depth/IMU.
