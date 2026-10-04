@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T06:22:38.602035Z,max,0.0.1,0,0,https://github.com/OwlRoute/minerva,Checked conservative currents and low-induction electromagnetic accounting
+2026-10-04T06:22:41.6132Z,chorrent,0.5.1,0,0,https://github.com/mrsarthi/Chorrent,"Peer-to-peer and swarm file transfer over Iroh/QUIC with verified, chunked downloads"
+2026-10-04T06:25:34.43147Z,felix-gateway,0.1.0,0,0,https://github.com/GetFelix/felix-gateway,"A WebSocket gateway between browsers and Felix, with sign-in narrowed to one room or match"
+2026-10-04T06:31:49.253505Z,dpc-tau-crossterm,0.28.1,0,0,,Tau's crossterm 0.28.1 fork with opt-in Unix terminal response events.
+2026-10-04T06:39:26.005201Z,everruns-capabilities,0.39.0,0,0,https://github.com/everruns/everruns,Hosted capabilities and sandbox orchestration for Everruns
+2026-10-04T06:50:17.651017Z,oxideav-render-vulkan,0.0.0,0,0,https://github.com/OxideAV/oxideav-render-vulkan,"GPU-accelerated 3D-scene renderer for the oxideav framework — wgpu (Vulkan / Metal / DX12 / GL, runtime-loaded drivers) backend implementing oxideav-render's Renderer trait"
+2026-10-04T06:50:29.637582Z,oxideav-step,0.0.0,0,0,https://github.com/OxideAV/oxideav-step,"Pure-Rust STEP (ISO 10303-21 / AP242 / AP214 / AP203) B-rep CAD reader — tessellates to an oxideav-mesh3d Scene3D, reusing oxideav-ifc's physical-file and EXPRESS layers"
+2026-10-04T06:50:34.734348Z,oxideav-vrml,0.0.0,0,0,https://github.com/OxideAV/oxideav-vrml,Pure-Rust VRML97 (ISO/IEC 14772) reader/writer — implements oxideav-mesh3d's Decoder/Encoder traits
+2026-10-04T06:50:43.80554Z,oxideav-x3d,0.0.0,0,0,https://github.com/OxideAV/oxideav-x3d,Pure-Rust X3D (ISO/IEC 19775-1; XML and ClassicVRML encodings) reader/writer — implements oxideav-mesh3d's Decoder/Encoder traits
+2026-10-04T06:52:50.967175Z,smpte-timecode,0.1.0,0,0,https://github.com/emulette/smpte-timecode,"SMPTE timecode arithmetic with exact drop-frame handling, and a MIDI Time Code decoder and encoder"
+2026-10-04T06:53:42.966197Z,rust-claude-sdk,0.2.0,0,0,https://github.com/aoprisan/rust-claude-sdk,"A small typed client for Anthropic's Messages API: citations, prompt caching, refusal fallbacks, server tools, retries, streaming, batches, files and models."
+2026-10-04T06:55:58.877141Z,free-edu-email-generator,0.1.0,0,0,https://github.com/leehua11/free-edu-email-generator,A lightweight Rust helper for UES (free disposable .edu.pl educational email generator to unlock student developer perks).
+2026-10-04T06:56:23.484358Z,ratagrid,0.1.0,0,0,https://github.com/kahwee/ratagrid,A mouse-first interactive data grid for Ratatui
+2026-10-04T07:03:38.50977Z,isb-core,1.0.0,0,0,https://github.com/execution-associates/isb,"isb's foundation: the incus client, the sandbox spec and planner, compose projects, stacks, orgs, the registry and ingress. Use the `isb` crate."
+2026-10-04T07:03:40.881773Z,isb-apps,1.0.0,0,0,https://github.com/execution-associates/isb,"isb's apps over stacks: deployments, builds, jobs, backups, templates and notifications. Use the `isb` crate."
+2026-10-04T07:03:41.629262Z,isb-egress,1.0.0,0,0,https://github.com/execution-associates/isb,isb's per-sandbox egress proxy: hostname allowlists and secrets that never enter the guest. Use the `isb` crate.
+2026-10-04T07:03:42.5531Z,isb-server,1.0.0,0,0,https://github.com/execution-associates/isb,"isb serve's HTTP side: users and sessions, the audit log, history, the MCP and REST server, fleet servers and the embedded web UI. Use the `isb` crate."
+2026-10-04T07:03:43.454516Z,isb-tui,1.0.0,0,0,https://github.com/execution-associates/isb,"isb tui, the live dashboard. Use the `isb` crate."
+2026-10-04T07:05:42.656047Z,isb-daemon,1.0.0,0,0,https://github.com/execution-associates/isb,"The isb serve daemon: the tools behind its API, MCP server and web UI. Use the `isb` crate."
