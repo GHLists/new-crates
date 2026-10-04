@@ -8,45 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 19:20 UTC
+## Latest list — 2026-10-04 20:18 UTC
 
-New crates published between 2026-10-04 18:19 UTC and 2026-10-04 19:20 UTC.
+New crates published between 2026-10-04 19:20 UTC and 2026-10-04 20:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-04T19-20-56-674407Z.csv)
+[Full CSV](data/new-crates-2026-10-04T20-18-36-062331Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-04 18:21:37 | [eggup-curl](https://crates.io/crates/eggup-curl) | 0.1.2 | 0 | External curl acquisition adapter for Eggup (bounded, no release policy) |
-| 2026-10-04 18:25:20 | [phoxal-component-vl53l1x](https://crates.io/crates/phoxal-component-vl53l1x) | 0.0.0-dev.8 | 0 | Phoxal official driver: vl53l1x - range/time-of-flight. |
-| 2026-10-04 18:25:22 | [loqui-speaker](https://crates.io/crates/loqui-speaker) | 0.3.0 | 0 | Speaker embeddings for voice similarity: Kaldi fbank in Rust and WeSpeaker on O… |
-| 2026-10-04 18:26:08 | [tree-sitter-scss-modern](https://crates.io/crates/tree-sitter-scss-modern) | 0.1.0 | 0 | Tree-sitter grammar for current SCSS syntax (module system, maps, control flow) |
-| 2026-10-04 18:26:15 | [nagual](https://crates.io/crates/nagual) | 0.1.0 | 0 | Adaptive immune system for autonomous agents: attack signatures become signed,… |
-| 2026-10-04 18:26:28 | [phos-core](https://crates.io/crates/phos-core) | 0.0.0 | 0 | Placeholder for phos-core, the Rust crate of phos-core, the ELE Optics optical… |
-| 2026-10-04 18:26:44 | [phos-tools](https://crates.io/crates/phos-tools) | 0.0.0 | 0 | Placeholder for phos-tools, part of phos-core, the ELE Optics optical physics e… |
-| 2026-10-04 18:26:57 | [phos-materials](https://crates.io/crates/phos-materials) | 0.0.0 | 0 | Placeholder for phos-materials, part of phos-core, the ELE Optics optical physi… |
-| 2026-10-04 18:27:19 | [phos-components](https://crates.io/crates/phos-components) | 0.0.0 | 0 | Placeholder for phos-components, part of phos-core, the ELE Optics optical phys… |
-| 2026-10-04 18:27:43 | [phos-propagation](https://crates.io/crates/phos-propagation) | 0.0.0 | 0 | Placeholder for phos-propagation, part of phos-core, the ELE Optics optical phy… |
-| 2026-10-04 18:29:10 | [tree-sitter-razor-modern](https://crates.io/crates/tree-sitter-razor-modern) | 0.1.0 | 0 | Tree-sitter grammar for ASP.NET Core Razor markup (.cshtml and .razor) |
-| 2026-10-04 18:32:01 | [bevy_replicon_iroh](https://crates.io/crates/bevy_replicon_iroh) | 0.0.1 | 0 | Minimal iroh backend for bevy_replicon |
-| 2026-10-04 18:32:45 | [pioneer-optical](https://crates.io/crates/pioneer-optical) | 0.5.0 | 0 | Vendor SCSI command catalogue for Pioneer optical (BD/DVD) drives: named, docum… |
-| 2026-10-04 18:36:02 | [phoxal-service-safety](https://crates.io/crates/phoxal-service-safety) | 0.0.0-dev.8 | 0 | Public safety assessment contract and private safety service executable for Pho… |
-| 2026-10-04 18:36:16 | [gpui-kumo](https://crates.io/crates/gpui-kumo) | 0.1.0-rc.1 | 0 | A native Kumo design system for GPUI with typed components, themes, and accessi… |
-| 2026-10-04 18:36:16 | [eidolon-replay](https://crates.io/crates/eidolon-replay) | 0.1.0 | 0 | Counterfactual replay for audited agents: fork a hash-chained history, replay i… |
-| 2026-10-04 18:45:19 | [phoxal-component-zed_f9p](https://crates.io/crates/phoxal-component-zed_f9p) | 0.0.0-dev.8 | 0 | Phoxal official driver: zed_f9p - GNSS. |
-| 2026-10-04 18:46:16 | [sibyl-gate](https://crates.io/crates/sibyl-gate) | 0.1.0 | 0 | Oracle-gated memory: secrets sealed behind events — an organism physically cann… |
-| 2026-10-04 18:54:11 | [twelvedata-api](https://crates.io/crates/twelvedata-api) | 0.1.1 | 0 | Unofficial typed async client for the Twelve Data market data API |
-| 2026-10-04 18:56:07 | [biometric-engines-protocol](https://crates.io/crates/biometric-engines-protocol) | 0.1.0 | 0 | Protobuf messages, codecs and stream framing for biometric engine workers |
-| 2026-10-04 18:56:15 | [mictlan](https://crates.io/crates/mictlan) | 0.1.0 | 0 | Posthumous agency for sovereign organisms: owner-signed standing orders that ex… |
-| 2026-10-04 18:56:22 | [phoxal-service-world](https://crates.io/crates/phoxal-service-world) | 0.0.0-dev.8 | 0 | Phoxal world estimation service executable and packaged API. |
-| 2026-10-04 18:57:51 | [terse-litestream](https://crates.io/crates/terse-litestream) | 0.1.0 | 0 | Embedded SQLite WAL capture and Litestream-compatible replication |
-| 2026-10-04 18:59:39 | [safevalue-derive](https://crates.io/crates/safevalue-derive) | 0.4.0 | 0 | Derive macros for safevalue. Use them through the safevalue crate. |
-| 2026-10-04 19:06:16 | [germline](https://crates.io/crates/germline) | 0.1.0 | 0 | Organism reproduction: a sovereign mind forks a child with a signed genesis blo… |
-| 2026-10-04 19:08:51 | [sootmark-recyclebin](https://crates.io/crates/sootmark-recyclebin) | 0.1.0 | 0 | The Windows Recycle Bin for forensics: $I files (Vista to Windows 11) and XP's… |
-| 2026-10-04 19:10:39 | [xcp-core](https://crates.io/crates/xcp-core) | 0.1.0 | 0 | XCP on CAN — Universal Measurement and Calibration Protocol: commands, response… |
-| 2026-10-04 19:10:39 | [a2l-parse](https://crates.io/crates/a2l-parse) | 0.1.0 | 0 | ASAP2/A2L ECU description parser — PROJECT/MODULE/CHARACTERISTIC/MEASUREMENT/RE… |
-| 2026-10-04 19:14:38 | [sheet-engine](https://crates.io/crates/sheet-engine) | 0.1.0 | 0 | Spreadsheet calculation engine — dependency-driven incremental recalculation, E… |
-| 2026-10-04 19:15:33 | [camlet](https://crates.io/crates/camlet) | 1.0.0 | 0 | Library for writing plug-ins for the camlet webcam application |
-| 2026-10-04 19:16:16 | [tabula-rasa](https://crates.io/crates/tabula-rasa) | 0.1.0 | 0 | Proof of non-knowledge: signed certificates that a datum never occurred in an a… |
+| 2026-10-04 19:22:57 | [oxijolt-sys](https://crates.io/crates/oxijolt-sys) | 0.4.0+jolt-5.6.0 | 0 | Unsafe bindings to Jolt Physics through the joltc C wrapper |
+| 2026-10-04 19:22:59 | [oxijolt](https://crates.io/crates/oxijolt) | 0.4.0+jolt-5.6.0 | 0 | Safe Rust API for Jolt Physics |
+| 2026-10-04 19:23:11 | [shielded-bitcoin](https://crates.io/crates/shielded-bitcoin) | 0.0.2 | 0 | Under development. |
+| 2026-10-04 19:26:16 | [potlatch](https://crates.io/crates/potlatch) | 0.1.0 | 0 | Mind economy: signed compute IOUs between sovereign organisms, settled against… |
+| 2026-10-04 19:31:52 | [tauri-plugin-gau](https://crates.io/crates/tauri-plugin-gau) | 1.7.0 | 0 | Native ChatGPT account connections for Gau and Tauri |
+| 2026-10-04 19:33:24 | [pathway-fs-core](https://crates.io/crates/pathway-fs-core) | 0.1.0 | 0 | Native filesystem core: fused walk, hashing, atomic ops, serde codecs |
+| 2026-10-04 19:33:31 | [pathway-fs](https://crates.io/crates/pathway-fs) | 0.1.0 | 0 | pathlib's convenience + ripgrep's walker: ergonomic paths, fused walk, hashing,… |
+| 2026-10-04 19:33:55 | [sootmark-wintimeline](https://crates.io/crates/sootmark-wintimeline) | 0.1.0 | 0 | Windows 10 Timeline (ActivitiesCache.db) for forensics: apps opened and in focu… |
+| 2026-10-04 19:35:25 | [whiskerfetch](https://crates.io/crates/whiskerfetch) | 0.1.0 | 0 | A very fast sysfetch that works mainly via C extern functions |
+| 2026-10-04 19:40:56 | [kaspa-build-info](https://crates.io/crates/kaspa-build-info) | 2.1.0 | 0 | Compile-time git/build information embedded via build script |
+| 2026-10-04 19:43:42 | [kaspa-system-info](https://crates.io/crates/kaspa-system-info) | 2.1.0 | 0 | Runtime system information (CPU, memory, fd limit, machine id) |
+| 2026-10-04 19:44:58 | [kaspa-smt](https://crates.io/crates/kaspa-smt) | 2.1.0 | 0 | 256-bit Sparse Merkle Tree for Kaspa |
+| 2026-10-04 19:45:12 | [ce-stream-mysql-binlog](https://crates.io/crates/ce-stream-mysql-binlog) | 0.1.0 | 0 | MySQL binlog connector fork for ce-stream. SHOW BINARY LOG STATUS for MySQL 8.4… |
+| 2026-10-04 19:45:22 | [blockreader](https://crates.io/crates/blockreader) | 0.1.0 | 0 | A minimal, zero-dependency, read-only random-access byte source for forensic di… |
+| 2026-10-04 19:45:30 | [ce-stream-core](https://crates.io/crates/ce-stream-core) | 0.4.0 | 0 | CloudEvents model, checkpoints, and source/sink traits for ce-stream |
+| 2026-10-04 19:45:52 | [kaspa-seq-commit](https://crates.io/crates/kaspa-seq-commit) | 2.1.0 | 0 | Sequencing commitment types and hashing |
+| 2026-10-04 19:46:20 | [ce-stream-mysql](https://crates.io/crates/ce-stream-mysql) | 0.4.0 | 0 | MySQL 9.x ROW binlog change source for ce-stream |
+| 2026-10-04 19:47:12 | [ce-stream-mongo](https://crates.io/crates/ce-stream-mongo) | 0.4.0 | 0 | MongoDB 8.0+ change stream source for ce-stream |
+| 2026-10-04 19:47:13 | [rahad-all-downloader](https://crates.io/crates/rahad-all-downloader) | 1.0.0 | 0 | Download videos from TikTok, Instagram, Facebook, YouTube, X and 8 more platfor… |
+| 2026-10-04 19:47:13 | [kaspa-smt-store](https://crates.io/crates/kaspa-smt-store) | 2.1.0 | 0 | SMT versioned store — persistent fork-aware DB layer |
+| 2026-10-04 19:48:16 | [ce-stream-cli](https://crates.io/crates/ce-stream-cli) | 0.4.0 | 0 | ce-stream command-line runner |
+| 2026-10-04 19:49:16 | [kaspa-txscript-zk-sdk](https://crates.io/crates/kaspa-txscript-zk-sdk) | 2.1.0 | 0 | Kaspa txscript ZK SDK |
+| 2026-10-04 19:51:36 | [chunked-deque](https://crates.io/crates/chunked-deque) | 0.1.1 | 0 | Similar c++ std::deque, like VecDeque<Box<[T; N]>> |
+| 2026-10-04 19:53:22 | [aff4tools](https://crates.io/crates/aff4tools) | 0.1.0 | 0 | Rust implementation for access to AFF4 and AFF4-L evidence files |
+| 2026-10-04 19:58:55 | [plaid-client-rs](https://crates.io/crates/plaid-client-rs) | 0.1.0 | 0 | A modern, async Rust client for the Plaid API |
+| 2026-10-04 19:59:02 | [aff4-blockreader](https://crates.io/crates/aff4-blockreader) | 0.1.0 | 0 | Reads AFF4 evidence containers through the blockreader trait |
+| 2026-10-04 19:59:57 | [kaspa-p2p-mining](https://crates.io/crates/kaspa-p2p-mining) | 2.1.0 | 0 | Kaspa p2p mining |
+| 2026-10-04 20:03:11 | [gripsack-conda](https://crates.io/crates/gripsack-conda) | 0.44.1 | 0 | Canonical Conda lock admission and helper protocol |
+| 2026-10-04 20:06:32 | [neat-receipts](https://crates.io/crates/neat-receipts) | 0.1.0 | 0 | Scan receipts and documents on Linux with the NeatReceipts NM-1000 |
+| 2026-10-04 20:10:02 | [kaspa-stratum-bridge](https://crates.io/crates/kaspa-stratum-bridge) | 2.1.0 | 0 | Kaspa Stratum Bridge - Mining connectivity for Kaspa Stratum miners |
+| 2026-10-04 20:18:12 | [vector-trading-sdk](https://crates.io/crates/vector-trading-sdk) | 0.1.1 | 0 | Typed Vector Trading REST clients and strategy signal builders |
 
 ## Data source
 

@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T19:22:57.138723Z,oxijolt-sys,0.4.0+jolt-5.6.0,0,0,https://github.com/pockerhead/oxijolt,Unsafe bindings to Jolt Physics through the joltc C wrapper
+2026-10-04T19:22:59.466501Z,oxijolt,0.4.0+jolt-5.6.0,0,0,https://github.com/pockerhead/oxijolt,Safe Rust API for Jolt Physics
+2026-10-04T19:23:11.902624Z,shielded-bitcoin,0.0.2,0,0,,Under development.
+2026-10-04T19:26:16.086988Z,potlatch,0.1.0,0,0,https://github.com/savageAZfck/potlatch,"Mind economy: signed compute IOUs between sovereign organisms, settled against real invocation records on a hash-chained book — balances derived from history, defaults permanent — named for the gift…"
+2026-10-04T19:31:52.862455Z,tauri-plugin-gau,1.7.0,0,0,https://github.com/Rettend/gau,Native ChatGPT account connections for Gau and Tauri
+2026-10-04T19:33:24.807982Z,pathway-fs-core,0.1.0,0,0,https://github.com/Archont561/pathway,"Native filesystem core: fused walk, hashing, atomic ops, serde codecs"
+2026-10-04T19:33:31.335955Z,pathway-fs,0.1.0,0,0,https://github.com/Archont561/pathway,"pathlib's convenience + ripgrep's walker: ergonomic paths, fused walk, hashing, typed serde I/O"
+2026-10-04T19:33:55.154253Z,sootmark-wintimeline,0.1.0,0,0,https://github.com/Sootmark/wintimeline,"Windows 10 Timeline (ActivitiesCache.db) for forensics: apps opened and in focus, for how long, files and URLs, clipboard text, pending uploads, read with sootmark-sqlite."
+2026-10-04T19:35:25.800726Z,whiskerfetch,0.1.0,0,0,https://github.com/skoshic/wfetch,A very fast sysfetch that works mainly via C extern functions
+2026-10-04T19:40:56.477151Z,kaspa-build-info,2.1.0,0,0,https://github.com/kaspanet/rusty-kaspa,Compile-time git/build information embedded via build script
+2026-10-04T19:43:42.106661Z,kaspa-system-info,2.1.0,0,0,https://github.com/kaspanet/rusty-kaspa,"Runtime system information (CPU, memory, fd limit, machine id)"
+2026-10-04T19:44:58.063735Z,kaspa-smt,2.1.0,0,0,https://github.com/kaspanet/rusty-kaspa,256-bit Sparse Merkle Tree for Kaspa
+2026-10-04T19:45:12.13766Z,ce-stream-mysql-binlog,0.1.0,0,0,https://github.com/AxialDB/ce-stream,MySQL binlog connector fork for ce-stream. SHOW BINARY LOG STATUS for MySQL 8.4+ and 9.x. Based on apecloud/mysql-binlog-connector-rust.
+2026-10-04T19:45:22.214527Z,blockreader,0.1.0,0,0,https://github.com/jbolas/blockreader,"A minimal, zero-dependency, read-only random-access byte source for forensic disk images."
+2026-10-04T19:45:30.810218Z,ce-stream-core,0.4.0,0,0,https://github.com/AxialDB/ce-stream,"CloudEvents model, checkpoints, and source/sink traits for ce-stream"
+2026-10-04T19:45:52.152095Z,kaspa-seq-commit,2.1.0,0,0,https://github.com/kaspanet/rusty-kaspa,Sequencing commitment types and hashing
+2026-10-04T19:46:20.846616Z,ce-stream-mysql,0.4.0,0,0,https://github.com/AxialDB/ce-stream,MySQL 9.x ROW binlog change source for ce-stream
+2026-10-04T19:47:12.269262Z,ce-stream-mongo,0.4.0,0,0,https://github.com/AxialDB/ce-stream,MongoDB 8.0+ change stream source for ce-stream
+2026-10-04T19:47:13.330203Z,rahad-all-downloader,1.0.0,0,0,https://github.com/MR-RAHAD/rahad-all-downloader-rust,"Download videos from TikTok, Instagram, Facebook, YouTube, X and 8 more platforms — Rust client"
+2026-10-04T19:47:13.699517Z,kaspa-smt-store,2.1.0,0,0,https://github.com/kaspanet/rusty-kaspa,SMT versioned store — persistent fork-aware DB layer
+2026-10-04T19:48:16.204318Z,ce-stream-cli,0.4.0,0,0,https://github.com/AxialDB/ce-stream,ce-stream command-line runner
+2026-10-04T19:49:16.460167Z,kaspa-txscript-zk-sdk,2.1.0,0,0,https://github.com/kaspanet/rusty-kaspa,Kaspa txscript ZK SDK
+2026-10-04T19:51:36.233624Z,chunked-deque,0.1.1,0,0,https://github.com/A4-Tacks/chunked-deque-rs,"Similar c++ std::deque, like VecDeque<Box<[T; N]>>"
+2026-10-04T19:53:22.572751Z,aff4tools,0.1.0,0,0,https://github.com/jbolas/aff4tools,Rust implementation for access to AFF4 and AFF4-L evidence files
+2026-10-04T19:58:55.264213Z,plaid-client-rs,0.1.0,0,0,https://github.com/johnathonfox/plaid-client-rs,"A modern, async Rust client for the Plaid API"
+2026-10-04T19:59:02.29464Z,aff4-blockreader,0.1.0,0,0,https://github.com/jbolas/blockreader-adapters,Reads AFF4 evidence containers through the blockreader trait
+2026-10-04T19:59:57.425226Z,kaspa-p2p-mining,2.1.0,0,0,https://github.com/kaspanet/rusty-kaspa,Kaspa p2p mining
+2026-10-04T20:03:11.418958Z,gripsack-conda,0.44.1,0,0,https://github.com/gripsack-dev/gripsack,Canonical Conda lock admission and helper protocol
+2026-10-04T20:06:32.47248Z,neat-receipts,0.1.0,0,0,,Scan receipts and documents on Linux with the NeatReceipts NM-1000
+2026-10-04T20:10:02.360576Z,kaspa-stratum-bridge,2.1.0,0,0,https://github.com/kaspanet/rusty-kaspa,Kaspa Stratum Bridge - Mining connectivity for Kaspa Stratum miners
+2026-10-04T20:18:12.644902Z,vector-trading-sdk,0.1.1,0,0,https://github.com/Vector-Trading/vector-trading-sdk,Typed Vector Trading REST clients and strategy signal builders
