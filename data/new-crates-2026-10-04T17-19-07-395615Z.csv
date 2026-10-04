@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T16:24:41.313709Z,skyplug-core,0.1.0,0,0,https://github.com/divanvisagie/skyplug,"Skyrim Special Edition install discovery, Plugins.txt and .ess save parsing"
+2026-10-04T16:24:43.518083Z,skyplug,0.1.0,0,0,https://github.com/divanvisagie/skyplug,Scan and toggle Skyrim Special Edition plugins (Plugins.txt) on Linux/Steam
+2026-10-04T16:25:03.111316Z,satva-types,0.1.0,0,0,https://github.com/harbhim/satvars,"Records, values, and schemas for Satva data pipelines"
+2026-10-04T16:25:14.832402Z,satva-expr,0.1.0,0,0,https://github.com/harbhim/satvars,Expression builders and evaluation for Satva data pipelines
+2026-10-04T16:25:22.359066Z,satva-parser,0.1.0,0,0,https://github.com/harbhim/satvars,Parser for the Satva pipeline expression language
+2026-10-04T16:25:28.891745Z,satva-arrow,0.1.0,0,0,https://github.com/harbhim/satvars,Columnar batches and vectorized kernels for Satva pipelines
+2026-10-04T16:25:38.876538Z,satva-core,0.1.0,0,0,https://github.com/harbhim/satvars,Pipeline orchestration and built-in stages for Satva
+2026-10-04T16:26:53.810102Z,zada-xor,0.0.0,0,0,https://github.com/lcalzada-xor/zada-xor,"Zero-dependency Windows NT internals: manual PE/PEB parsing, dynamic SSN extraction (Hell's Gate), indirect syscalls, and synthetic call stack spoofing in pure Rust."
+2026-10-04T16:27:44.373606Z,roadshield,0.1.0,0,0,https://github.com/luofang34/roadshield,Data-driven road shield generation compatible with OSM Americana ShieldJSON
+2026-10-04T16:35:29.525471Z,satva-io,0.1.0,0,0,https://github.com/harbhim/satvars,"CSV, TSV, JSON, Parquet, and Excel readers and writers for Satva"
+2026-10-04T16:39:31.279578Z,cargo-copyright,1.0.0-beta.0,0,0,https://github.com/UxuginPython/cargo-copyright,A small Cargo plugin for managing licensing information.
+2026-10-04T16:47:50.701907Z,strmaid,0.1.0,0,0,https://github.com/ebedy/strmaid,High-performance streaming Markdown parser and native Mermaid diagram renderer for modern terminals
+2026-10-04T16:49:22.937558Z,mise-dotenv,0.0.0,0,0,https://github.com/jdx/mise,Reserved placeholder for the mise-dotenv crate
+2026-10-04T16:49:58.027897Z,facett-flow,0.2.0,0,0,https://codeberg.org/nordisk/facett,"facett — Falsett: animated directed flow graph component (resident GPU curves and packets, bounded CPU preview)"
+2026-10-04T16:50:31.391906Z,rs-rich-micro,0.0.1,0,0,https://github.com/buchochelliq-labs/rs-rich-cli,"Micro assets for rs-rich: emoji-sized inline images, packages, a layered registry and :micro: markup"
+2026-10-04T16:52:21.387025Z,sil-core,0.6.0,0,0,https://github.com/thoughtpivot/silc,Subject-oriented semantic model for ThoughtPivot Silc
+2026-10-04T16:52:29.096444Z,sil-lexer,0.6.0,0,0,https://github.com/thoughtpivot/silc,Silc lexical analysis (Raku-inspired surface)
+2026-10-04T16:52:30.955284Z,sil-ipc,0.6.0,0,0,https://github.com/thoughtpivot/silc,Silc Shared Buffer ABI and UDS signaling
+2026-10-04T16:52:37.48332Z,sil-parser,0.6.0,0,0,https://github.com/thoughtpivot/silc,Silc parser (syntax → sil-core subjects)
+2026-10-04T16:52:39.839876Z,sil-router,0.6.0,0,0,https://github.com/thoughtpivot/silc,Silc semantic router (Go / Python / Bun-TypeScript) — stub
+2026-10-04T16:59:25.908587Z,capnp-decimix,0.1.1,0,0,https://github.com/puremourning/decimix,Cap'n Proto serialization for decimix
+2026-10-04T17:01:32.145221Z,uniflo-schema,0.1.1,0,0,https://github.com/Crosery/uniflo,"Uniflo wire schema: normalized sessions, events and stream envelopes"
+2026-10-04T17:02:24.59142Z,uniflo-core,0.1.1,0,0,https://github.com/Crosery/uniflo,"Uniflo engine: adapter contract, incremental readers, status machine, live index and event bus"
+2026-10-04T17:02:41.246264Z,uniflo-search,0.1.1,0,0,https://github.com/Crosery/uniflo,Uniflo session search: fd-style filters + fzf-style fuzzy ranking
+2026-10-04T17:03:12.498044Z,uniflo-adapters,0.1.1,0,0,https://github.com/Crosery/uniflo,"Uniflo harness adapters (one module per agent harness, each behind a cargo feature)"
+2026-10-04T17:03:24.165516Z,facett-dbexplorer,0.2.0,0,0,https://codeberg.org/nordisk/facett,"facett — a DataGrip-style database explorer: one navigator tree over every connection (warehouse tables AND graph labels — a graph is just another kind of database), a query editor with history and C…"
+2026-10-04T17:04:07.766276Z,phoxal-build,0.69.0,0,0,https://github.com/phoxal/framework,Build-time Protobuf contract and typed port generation for Phoxal.
+2026-10-04T17:04:32.746676Z,sil-codegen,0.6.0,0,0,https://github.com/thoughtpivot/silc,Silc target code generation (Go / Python / Bun-TypeScript)
+2026-10-04T17:04:48.766722Z,facett-graphgen,0.2.0,0,0,https://codeberg.org/nordisk/facett,"facett — the size + generator control for graph panes, as a library: one generated graph (facett-graphview's seeded generators + knut-popsim's population) lowered to every graph component's model, th…"
+2026-10-04T17:05:32.453756Z,uniflo-gateway,0.1.1,0,0,https://github.com/Crosery/uniflo,Uniflo HTTP gateway: REST + SSE + NDJSON + WebSocket over the live index
+2026-10-04T17:06:21.007524Z,satva-execution,0.1.0,0,0,https://github.com/harbhim/satvars,Parallel batch execution for Satva pipelines
+2026-10-04T17:07:05.18289Z,satva-runner,0.1.0,0,0,https://github.com/harbhim/satvars,Load and run Satva pipelines from YAML
+2026-10-04T17:07:26.180644Z,satva-cli,0.1.0,0,0,https://github.com/harbhim/satvars,Command-line interface for Satva data pipelines
+2026-10-04T17:14:05.006759Z,sil-training,0.6.0,0,0,https://github.com/thoughtpivot/silc,Provider-neutral silclm prompt generation and compiler-backed dataset banking
+2026-10-04T17:14:59.58409Z,univdreams,0.4.0,0,0,https://github.com/KarpelesLab/univdreams,"Byte-identical binary <-> source round-tripping: binary formats, multi-arch decode/encode, a .ud decompiler/compiler, and an x86 emulator with Win16/Win32/Linux hosts."
+2026-10-04T17:15:44.673621Z,uniflo,0.1.1,0,0,https://github.com/Crosery/uniflo,uniflo: daemon + command line for the unified agent-harness session gateway
+2026-10-04T17:16:50.119489Z,sootmark-search,0.1.0,0,0,https://github.com/Sootmark/search,"Windows Search index (Windows.edb) for forensics: every indexed file, folder, e-mail and browsing item with its path, size, times, owner and text snippet, and the gatherer's list of items with their…"
