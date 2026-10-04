@@ -8,33 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 07:18 UTC
+## Latest list — 2026-10-04 08:19 UTC
 
-New crates published between 2026-10-04 06:18 UTC and 2026-10-04 07:18 UTC.
+New crates published between 2026-10-04 07:18 UTC and 2026-10-04 08:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-04T07-18-36-147984Z.csv)
+[Full CSV](data/new-crates-2026-10-04T08-19-34-514403Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-04 06:22:38 | [max](https://crates.io/crates/max) | 0.0.1 | 0 | Checked conservative currents and low-induction electromagnetic accounting |
-| 2026-10-04 06:22:41 | [chorrent](https://crates.io/crates/chorrent) | 0.5.1 | 0 | Peer-to-peer and swarm file transfer over Iroh/QUIC with verified, chunked down… |
-| 2026-10-04 06:25:34 | [felix-gateway](https://crates.io/crates/felix-gateway) | 0.1.0 | 0 | A WebSocket gateway between browsers and Felix, with sign-in narrowed to one ro… |
-| 2026-10-04 06:31:49 | [dpc-tau-crossterm](https://crates.io/crates/dpc-tau-crossterm) | 0.28.1 | 0 | Tau's crossterm 0.28.1 fork with opt-in Unix terminal response events. |
-| 2026-10-04 06:39:26 | [everruns-capabilities](https://crates.io/crates/everruns-capabilities) | 0.39.0 | 0 | Hosted capabilities and sandbox orchestration for Everruns |
-| 2026-10-04 06:50:17 | [oxideav-render-vulkan](https://crates.io/crates/oxideav-render-vulkan) | 0.0.0 | 0 | GPU-accelerated 3D-scene renderer for the oxideav framework — wgpu (Vulkan / Me… |
-| 2026-10-04 06:50:29 | [oxideav-step](https://crates.io/crates/oxideav-step) | 0.0.0 | 0 | Pure-Rust STEP (ISO 10303-21 / AP242 / AP214 / AP203) B-rep CAD reader — tessel… |
-| 2026-10-04 06:50:34 | [oxideav-vrml](https://crates.io/crates/oxideav-vrml) | 0.0.0 | 0 | Pure-Rust VRML97 (ISO/IEC 14772) reader/writer — implements oxideav-mesh3d's De… |
-| 2026-10-04 06:50:43 | [oxideav-x3d](https://crates.io/crates/oxideav-x3d) | 0.0.0 | 0 | Pure-Rust X3D (ISO/IEC 19775-1; XML and ClassicVRML encodings) reader/writer —… |
-| 2026-10-04 06:52:50 | [smpte-timecode](https://crates.io/crates/smpte-timecode) | 0.1.0 | 0 | SMPTE timecode arithmetic with exact drop-frame handling, and a MIDI Time Code… |
-| 2026-10-04 06:53:42 | [rust-claude-sdk](https://crates.io/crates/rust-claude-sdk) | 0.2.0 | 0 | A small typed client for Anthropic's Messages API: citations, prompt caching, r… |
-| 2026-10-04 06:55:58 | [free-edu-email-generator](https://crates.io/crates/free-edu-email-generator) | 0.1.0 | 0 | A lightweight Rust helper for UES (free disposable .edu.pl educational email ge… |
-| 2026-10-04 06:56:23 | [ratagrid](https://crates.io/crates/ratagrid) | 0.1.0 | 0 | A mouse-first interactive data grid for Ratatui |
-| 2026-10-04 07:03:38 | [isb-core](https://crates.io/crates/isb-core) | 1.0.0 | 0 | isb's foundation: the incus client, the sandbox spec and planner, compose proje… |
-| 2026-10-04 07:03:40 | [isb-apps](https://crates.io/crates/isb-apps) | 1.0.0 | 0 | isb's apps over stacks: deployments, builds, jobs, backups, templates and notif… |
-| 2026-10-04 07:03:41 | [isb-egress](https://crates.io/crates/isb-egress) | 1.0.0 | 0 | isb's per-sandbox egress proxy: hostname allowlists and secrets that never ente… |
-| 2026-10-04 07:03:42 | [isb-server](https://crates.io/crates/isb-server) | 1.0.0 | 0 | isb serve's HTTP side: users and sessions, the audit log, history, the MCP and… |
-| 2026-10-04 07:03:43 | [isb-tui](https://crates.io/crates/isb-tui) | 1.0.0 | 0 | isb tui, the live dashboard. Use the `isb` crate. |
-| 2026-10-04 07:05:42 | [isb-daemon](https://crates.io/crates/isb-daemon) | 1.0.0 | 0 | The isb serve daemon: the tools behind its API, MCP server and web UI. Use the… |
+| 2026-10-04 07:20:06 | [pc-cli](https://crates.io/crates/pc-cli) | 0.1.1 | 0 | ProductClient CLI — ship releases from the terminal |
+| 2026-10-04 07:23:10 | [crate-plugin-kit](https://crates.io/crates/crate-plugin-kit) | 0.1.1 | 0 | A cargo-based plugin system: install cdylib plugins from crates.io and load the… |
+| 2026-10-04 07:27:10 | [kite-live-dns-axum](https://crates.io/crates/kite-live-dns-axum) | 0.1.1 | 0 | Kite x402 v2 paid reverse proxy for Axum |
+| 2026-10-04 07:37:43 | [nlcalc](https://crates.io/crates/nlcalc) | 0.1.0 | 0 | Plugin-based natural language calculator for Rust and the command line |
+| 2026-10-04 07:38:39 | [zerogit-remote](https://crates.io/crates/zerogit-remote) | 0.1.0 | 0 | Remote operations (fetch, push, clone) for zerogit: Git protocol v2, smart HTTP… |
+| 2026-10-04 07:40:07 | [cargo-esp32p4-pre-v3](https://crates.io/crates/cargo-esp32p4-pre-v3) | 0.1.0 | 0 | Cargo subcommand to prepare pinned esp-hal sources for pre-v3 ESP32-P4 silicon |
+| 2026-10-04 07:45:42 | [suriconf](https://crates.io/crates/suriconf) | 1.1.0-dev.2 | 0 | A tool for automating Suricata setup and configuration. |
+| 2026-10-04 07:46:31 | [daqmx](https://crates.io/crates/daqmx) | 0.0.1 | 0 | NI DAQmx driver API |
+| 2026-10-04 07:48:36 | [f5a](https://crates.io/crates/f5a) | 0.0.1 | 0 | A k9s-style interactive terminal console for Feldera |
+| 2026-10-04 07:50:09 | [pmgr-core](https://crates.io/crates/pmgr-core) | 0.3.0 | 0 | Work item data and ordering shared by the pmgr tools |
+| 2026-10-04 07:50:12 | [pmgr-todo](https://crates.io/crates/pmgr-todo) | 0.3.0 | 0 | Todo schedule across pmgr projects |
+| 2026-10-04 07:50:48 | [sdrfun](https://crates.io/crates/sdrfun) | 0.1.0 | 0 | Listen to AM airband voice on an RTL-SDR, clean it up, play and record it |
+| 2026-10-04 07:51:22 | [inflow-tap-seller](https://crates.io/crates/inflow-tap-seller) | 0.2.0 | 0 | Trusted Agent Protocol request verification for Sellers. |
+| 2026-10-04 07:54:02 | [xrat-model](https://crates.io/crates/xrat-model) | 0.21.0 | 0 | Shared domain types for xrat |
+| 2026-10-04 07:54:48 | [xrat-support](https://crates.io/crates/xrat-support) | 0.21.0 | 0 | Shared support helpers for xrat (decode, GeoIP, network, platform) |
+| 2026-10-04 07:54:58 | [xrat-config](https://crates.io/crates/xrat-config) | 0.21.0 | 0 | Subscription import and protocol link parsing for xrat |
+| 2026-10-04 07:55:17 | [xrat-engines](https://crates.io/crates/xrat-engines) | 0.21.0 | 0 | Xray and sing-box config parsing and runtime config generation |
+| 2026-10-04 07:55:54 | [xrat-db](https://crates.io/crates/xrat-db) | 0.21.0 | 0 | Database connection, records, and repositories for xrat |
+| 2026-10-04 07:59:09 | [form-rs](https://crates.io/crates/form-rs) | 0.1.0 | 0 | 📋 A highly customizable, accessible form component library for WASM frameworks… |
+| 2026-10-04 07:59:17 | [minase-core](https://crates.io/crates/minase-core) | 0.1.0 | 0 | A chu shogi library providing boards, pieces, legal move generation, rule sets,… |
+| 2026-10-04 07:59:21 | [dirlook](https://crates.io/crates/dirlook) | 0.3.0 | 0 | A fast, zero-dependency terminal disk usage analyzer with a tree view and a tre… |
+| 2026-10-04 07:59:26 | [minase](https://crates.io/crates/minase) | 2.0.0 | 0 | A USI/CECP chu shogi engine with search and evaluation built on minase-core. |
+| 2026-10-04 08:01:47 | [xrat-prober](https://crates.io/crates/xrat-prober) | 0.21.0 | 0 | TCP, ICMP, download, upload, and real-delay probing for xrat |
+| 2026-10-04 08:02:25 | [dash-mpd-core](https://crates.io/crates/dash-mpd-core) | 0.1.0 | 0 | Parse and serialize MPD manifests for MPEG-DASH or WebM-DASH media streaming |
+| 2026-10-04 08:11:23 | [dnsbox](https://crates.io/crates/dnsbox) | 0.0.1 | 0 | High-performance, zero-copy DNS message parsing and building for requests and r… |
+| 2026-10-04 08:13:03 | [sh_macros](https://crates.io/crates/sh_macros) | 0.1.0 | 0 | Procedural macros that compile shell-style command scripts into a typed command… |
+| 2026-10-04 08:13:04 | [xrat-app](https://crates.io/crates/xrat-app) | 0.21.0 | 0 | Application, CLI, TUI, and HTTP layers for xrat |
+| 2026-10-04 08:13:07 | [auto_grpc_macros](https://crates.io/crates/auto_grpc_macros) | 0.1.0 | 0 | Procedural macros for auto_grpc: #[service] and #[middleware] expansion |
+| 2026-10-04 08:13:13 | [sqlite_realtime](https://crates.io/crates/sqlite_realtime) | 0.1.0 | 0 | Change-notify bridge between SQLite databases and async Rust consumers |
+| 2026-10-04 08:13:37 | [auto_grpc](https://crates.io/crates/auto_grpc) | 0.1.0 | 0 | auto-di powered gRPC service registration and routing for tonic and connectrpc |
+| 2026-10-04 08:14:13 | [oxos](https://crates.io/crates/oxos) | 0.1.0 | 0 | System operations toolkit: local and remote command execution, Docker/Git/rsync… |
+| 2026-10-04 08:14:21 | [rhetoric](https://crates.io/crates/rhetoric) | 0.1.0 | 0 | Rust client for the Rhetoric efiling service. |
+| 2026-10-04 08:14:37 | [sift-music](https://crates.io/crates/sift-music) | 0.4.0 | 0 | Music tagger and library organiser: MusicBrainz matching, tag writing, cover ar… |
 
 ## Data source
 

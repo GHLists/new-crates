@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T07:20:06.606277Z,pc-cli,0.1.1,0,0,https://github.com/Kimenzo2/P-Landing-page,ProductClient CLI — ship releases from the terminal
+2026-10-04T07:23:10.409029Z,crate-plugin-kit,0.1.1,0,0,https://github.com/imba97/crate-plugin-kit,A cargo-based plugin system: install cdylib plugins from crates.io and load them at runtime.
+2026-10-04T07:27:10.728731Z,kite-live-dns-axum,0.1.1,0,0,https://github.com/Bystander2/kite-live-dns,Kite x402 v2 paid reverse proxy for Axum
+2026-10-04T07:37:43.935907Z,nlcalc,0.1.0,0,0,https://github.com/SethBurkart123/NLCalc,Plugin-based natural language calculator for Rust and the command line
+2026-10-04T07:38:39.079229Z,zerogit-remote,0.1.0,0,0,https://github.com/siska-tech/zerogit,"Remote operations (fetch, push, clone) for zerogit: Git protocol v2, smart HTTP(S), SSH and local transports"
+2026-10-04T07:40:07.30191Z,cargo-esp32p4-pre-v3,0.1.0,0,0,https://github.com/naoNao89/esp32p4-pre-v3-kit,Cargo subcommand to prepare pinned esp-hal sources for pre-v3 ESP32-P4 silicon
+2026-10-04T07:45:42.054104Z,suriconf,1.1.0-dev.2,0,0,https://github.com/CESNET/Suriconf,A tool for automating Suricata setup and configuration.
+2026-10-04T07:46:31.276986Z,daqmx,0.0.1,0,0,https://github.com/WiresmithTech/daqmx-rs,NI DAQmx driver API
+2026-10-04T07:48:36.657918Z,f5a,0.0.1,0,0,https://github.com/feldera/feldera,A k9s-style interactive terminal console for Feldera
+2026-10-04T07:50:09.620324Z,pmgr-core,0.3.0,0,0,https://gitlab.com/spearman/pmgr-rs,Work item data and ordering shared by the pmgr tools
+2026-10-04T07:50:12.928761Z,pmgr-todo,0.3.0,0,0,https://gitlab.com/spearman/pmgr-rs,Todo schedule across pmgr projects
+2026-10-04T07:50:48.83318Z,sdrfun,0.1.0,0,0,https://github.com/kushaldas/sdrfun,"Listen to AM airband voice on an RTL-SDR, clean it up, play and record it"
+2026-10-04T07:51:22.77225Z,inflow-tap-seller,0.2.0,0,0,https://github.com/inflowpayai/inflow-rust,Trusted Agent Protocol request verification for Sellers.
+2026-10-04T07:54:02.132566Z,xrat-model,0.21.0,0,0,,Shared domain types for xrat
+2026-10-04T07:54:48.522566Z,xrat-support,0.21.0,0,0,,"Shared support helpers for xrat (decode, GeoIP, network, platform)"
+2026-10-04T07:54:58.846243Z,xrat-config,0.21.0,0,0,,Subscription import and protocol link parsing for xrat
+2026-10-04T07:55:17.588528Z,xrat-engines,0.21.0,0,0,,Xray and sing-box config parsing and runtime config generation
+2026-10-04T07:55:54.789514Z,xrat-db,0.21.0,0,0,,"Database connection, records, and repositories for xrat"
+2026-10-04T07:59:09.260601Z,form-rs,0.1.0,0,0,https://github.com/opensass/form-rs,"📋 A highly customizable, accessible form component library for WASM frameworks like Yew, Dioxus, and Leptos."
+2026-10-04T07:59:17.037417Z,minase-core,0.1.0,0,0,https://github.com/stepney141/minase,"A chu shogi library providing boards, pieces, legal move generation, rule sets, and SFEN/USI/CECP notation."
+2026-10-04T07:59:21.946665Z,dirlook,0.3.0,0,0,https://github.com/magni2de/dirlook,"A fast, zero-dependency terminal disk usage analyzer with a tree view and a treemap, written in Rust."
+2026-10-04T07:59:26.49031Z,minase,2.0.0,0,0,https://github.com/stepney141/minase,A USI/CECP chu shogi engine with search and evaluation built on minase-core.
+2026-10-04T08:01:47.628606Z,xrat-prober,0.21.0,0,0,,"TCP, ICMP, download, upload, and real-delay probing for xrat"
+2026-10-04T08:02:25.119846Z,dash-mpd-core,0.1.0,0,0,https://github.com/emarsden/dash-mpd-core,Parse and serialize MPD manifests for MPEG-DASH or WebM-DASH media streaming
+2026-10-04T08:11:23.133089Z,dnsbox,0.0.1,0,0,https://github.com/KarpelesLab/dnsbox,"High-performance, zero-copy DNS message parsing and building for requests and responses, with broad RFC extension coverage."
+2026-10-04T08:13:03.88557Z,sh_macros,0.1.0,0,0,,Procedural macros that compile shell-style command scripts into a typed command IR
+2026-10-04T08:13:04.140295Z,xrat-app,0.21.0,0,0,,"Application, CLI, TUI, and HTTP layers for xrat"
+2026-10-04T08:13:07.54448Z,auto_grpc_macros,0.1.0,0,0,,Procedural macros for auto_grpc: #[service] and #[middleware] expansion
+2026-10-04T08:13:13.844026Z,sqlite_realtime,0.1.0,0,0,,Change-notify bridge between SQLite databases and async Rust consumers
+2026-10-04T08:13:37.798417Z,auto_grpc,0.1.0,0,0,,auto-di powered gRPC service registration and routing for tonic and connectrpc
+2026-10-04T08:14:13.365484Z,oxos,0.1.0,0,0,,"System operations toolkit: local and remote command execution, Docker/Git/rsync/rclone drivers, archives, SSH and network configuration"
+2026-10-04T08:14:21.015519Z,rhetoric,0.1.0,0,0,,Rust client for the Rhetoric efiling service.
+2026-10-04T08:14:37.189069Z,sift-music,0.4.0,0,0,https://github.com/radiosilence/sift,"Music tagger and library organiser: MusicBrainz matching, tag writing, cover art, fb2k-style paths"
