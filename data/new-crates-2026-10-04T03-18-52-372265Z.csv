@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T02:26:13.323016Z,arcsec-catalogue,0.5.1,0,0,https://github.com/cruzzil/arcsec,"Catalogue management for the arcsec plate solver: which star databases and blind indexes exist, where they live, downloading them and building the blind index"
+2026-10-04T02:27:04.10079Z,gob-plan,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-plan, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T02:30:30.664235Z,voxsurface,0.2.0,0,0,https://github.com/tyleo/tyt,The boundary of a voxel grid: its faces meshed and the occlusion at their corners.
+2026-10-04T02:30:33.438992Z,voxrender,0.2.0,0,0,https://github.com/tyleo/tyt,The render contract for voxel scenes and its CPU reference renderer.
+2026-10-04T02:37:07.248599Z,gob-symbols,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-symbols, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T02:37:42.939901Z,cev-rs,0.1.0,0,0,https://github.com/CarterCole/rust-cev,cev (Calibrated Enum Verdicts): typed System One decisions in Rust. Match on an enum the model picked.
+2026-10-04T02:47:07.541895Z,gob-text,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-text, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T02:48:21.814422Z,cranpose-wgpu-hal,30.0.1,0,0,https://github.com/samoylenkodmitry/Cranpose,"Cranpose's patched fork of wgpu-hal 30.0.1 (forks/README.md in the Cranpose repository). Hardware abstraction layer for wgpu, the cross-platform, safe, pure-rust graphics API"
+2026-10-04T02:48:34.802408Z,cranpose-wgpu-core-deps-apple,30.0.1,0,0,https://github.com/samoylenkodmitry/Cranpose,Cranpose's patched fork of wgpu-core-deps-apple 30.0.1 (forks/README.md in the Cranpose repository). Feature unification helper crate for Apple platforms
+2026-10-04T02:48:39.734589Z,cranpose-wgpu-core-deps-emscripten,30.0.1,0,0,https://github.com/samoylenkodmitry/Cranpose,Cranpose's patched fork of wgpu-core-deps-emscripten 30.0.1 (forks/README.md in the Cranpose repository). Feature unification helper crate for the Emscripten platform
+2026-10-04T02:48:44.847235Z,cranpose-wgpu-core-deps-wasm,30.0.1,0,0,https://github.com/samoylenkodmitry/Cranpose,Cranpose's patched fork of wgpu-core-deps-wasm 30.0.1 (forks/README.md in the Cranpose repository). Feature unification helper crate for the WebAssembly platform
+2026-10-04T02:48:48.959436Z,cranpose-wgpu-core-deps-windows-linux-android,30.0.1,0,0,https://github.com/samoylenkodmitry/Cranpose,Cranpose's patched fork of wgpu-core-deps-windows-linux-android 30.0.1 (forks/README.md in the Cranpose repository). Feature unification helper crate for the Windows/Linux/Android platforms
+2026-10-04T02:50:18.698071Z,deadline-bbs,1.0.0,0,0,https://github.com/pinkpixel-dev/deadline,A haunted late-90s BBS text adventure for your terminal
+2026-10-04T02:51:42.233288Z,sparsley-diagram,0.1.0,0,0,https://github.com/LilDojd/sparsley,Proc macros drawing memory diagrams of sparsley operations for rustdoc
+2026-10-04T02:51:53.154126Z,sparsley,0.1.0,0,0,https://github.com/LilDojd/sparsley,"Sparse set with packed, contiguous values and lazily zeroed sparse storage"
+2026-10-04T02:52:56.585093Z,cranpose-wgpu-core,30.0.1,0,0,https://github.com/samoylenkodmitry/Cranpose,"Cranpose's patched fork of wgpu-core 30.0.1 (forks/README.md in the Cranpose repository). Core implementation logic of wgpu, the cross-platform, safe, pure-rust graphics API"
+2026-10-04T02:57:04.554518Z,gob-trust,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-trust, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T03:01:21.115402Z,cranpose-wgpu,30.0.1,0,0,https://github.com/samoylenkodmitry/Cranpose,"Cranpose's patched fork of wgpu 30.0.1 (forks/README.md in the Cranpose repository). Cross-platform, safe, pure-rust graphics API"
+2026-10-04T03:03:30.423141Z,stack-encrypt-derive,0.1.0,0,0,https://github.com/cipherstash/stack,Derive macros for stack-encrypt's target-directed encryption
+2026-10-04T03:04:33.309808Z,stack-kms,0.1.0,0,0,https://github.com/cipherstash/stack,Standalone client for ZeroKMS key generation and retrieval
+2026-10-04T03:06:21.154413Z,turbojet-config,0.2.0,0,0,https://github.com/jrogers/turbojet,"Session configuration files for Turbojet: an acceptor, its counterparties and stores from TOML, reloaded while running"
+2026-10-04T03:06:27.276285Z,turbojet-sql,0.2.0,0,0,https://github.com/jrogers/turbojet,"SQL session storage for Turbojet: SQLite and PostgreSQL through sqlx, with leases so one gateway runs each session"
+2026-10-04T03:07:07.40251Z,gob-walk,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-walk, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T03:07:43.818489Z,stack-encrypt,0.1.0,0,0,https://github.com/cipherstash/stack,Encrypt Rust values under per-value ZeroKMS data keys via the vitaminc cipher traits
+2026-10-04T03:11:01.987214Z,duv,0.1.0,0,0,https://github.com/nkien0204/duv,A fast terminal UI for finding and cleaning up what's using your disk space
+2026-10-04T03:17:06.298824Z,grimble-bind,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for grimble-bind, part of the frob workspace (Rust rewrite in progress; real releases follow)."

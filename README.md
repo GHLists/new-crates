@@ -8,36 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 02:20 UTC
+## Latest list — 2026-10-04 03:18 UTC
 
-New crates published between 2026-10-04 01:18 UTC and 2026-10-04 02:20 UTC.
+New crates published between 2026-10-04 02:20 UTC and 2026-10-04 03:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-04T02-20-08-142225Z.csv)
+[Full CSV](data/new-crates-2026-10-04T03-18-52-372265Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-04 01:21:33 | [slate-parser](https://crates.io/crates/slate-parser) | 0.1.0 | 0 | C preprocessor, parser, semantic analysis, and typed IR for Slate |
-| 2026-10-04 01:21:35 | [slate-sysroots](https://crates.io/crates/slate-sysroots) | 0.1.0 | 0 | Install per-target C headers and compiler headers for Slate |
-| 2026-10-04 01:22:51 | [slate-c2rust](https://crates.io/crates/slate-c2rust) | 0.1.0 | 0 | A C to Rust transpiler with a built-in C frontend |
-| 2026-10-04 01:27:03 | [gob-exec](https://crates.io/crates/gob-exec) | 0.0.0 | 0 | Name reservation for gob-exec, part of the frob workspace (Rust rewrite in prog… |
-| 2026-10-04 01:28:14 | [acorn-diff](https://crates.io/crates/acorn-diff) | 0.3.4 | 0 | Portable unified and JSON Patch diff primitives for ACORN |
-| 2026-10-04 01:31:03 | [deltapatcher-macros](https://crates.io/crates/deltapatcher-macros) | 0.1.1 | 0 | Procedural macros for the deltapatcher crate. |
-| 2026-10-04 01:31:25 | [deltapatcher](https://crates.io/crates/deltapatcher) | 0.1.1 | 0 | Compute, aggregate, and patch typed deltas between states with timelines, cachi… |
-| 2026-10-04 01:31:57 | [sootmark-age](https://crates.io/crates/sootmark-age) | 0.2.0 | 0 | Streaming encryption and decryption in the age v1 file format, to X25519 recipi… |
-| 2026-10-04 01:37:01 | [gob-git](https://crates.io/crates/gob-git) | 0.0.0 | 0 | Name reservation for gob-git, part of the frob workspace (Rust rewrite in progr… |
-| 2026-10-04 01:37:56 | [xlsynth-aug-opt](https://crates.io/crates/xlsynth-aug-opt) | 0.74.0 | 0 | Augmented XLS IR optimization with g8r gate costs |
-| 2026-10-04 01:47:04 | [gob-ir](https://crates.io/crates/gob-ir) | 0.0.0 | 0 | Name reservation for gob-ir, part of the frob workspace (Rust rewrite in progre… |
-| 2026-10-04 01:57:03 | [gob-languages](https://crates.io/crates/gob-languages) | 0.0.0 | 0 | Name reservation for gob-languages, part of the frob workspace (Rust rewrite in… |
-| 2026-10-04 01:57:55 | [sp-fidelity](https://crates.io/crates/sp-fidelity) | 0.1.0 | 0 | Unofficial Rust and WGSL port of AMD FidelityFX FSR2 and its SDK support code |
-| 2026-10-04 01:57:58 | [sp-fidelity-wgpu](https://crates.io/crates/sp-fidelity-wgpu) | 0.1.0 | 0 | wgpu implementation of the FidelityFX SDK backend interface (FfxInterface) |
-| 2026-10-04 02:07:03 | [gob-lock](https://crates.io/crates/gob-lock) | 0.0.0 | 0 | Name reservation for gob-lock, part of the frob workspace (Rust rewrite in prog… |
-| 2026-10-04 02:07:43 | [delta-gitu](https://crates.io/crates/delta-gitu) | 0.1.1 | 0 | An experimental fork of gitu (a git client inspired by Magit), published as a l… |
-| 2026-10-04 02:15:35 | [cev-core](https://crates.io/crates/cev-core) | 0.1.0 | 0 | Wire types, prompt compiler and answer math for cev (Calibrated Enum Verdicts)… |
-| 2026-10-04 02:15:35 | [cev-derive](https://crates.io/crates/cev-derive) | 0.1.0 | 0 | #[derive(Choice)] for cev (Calibrated Enum Verdicts), the typed-decision SDK. |
-| 2026-10-04 02:15:36 | [cev-model](https://crates.io/crates/cev-model) | 0.1.0 | 0 | Neural backend for cev (Calibrated Enum Verdicts): a prefill-only Qwen3 decoder… |
-| 2026-10-04 02:15:37 | [cev-runtime](https://crates.io/crates/cev-runtime) | 0.1.0 | 0 | The cev (Calibrated Enum Verdicts) decision service: a durable decision and fee… |
-| 2026-10-04 02:15:37 | [cev-server](https://crates.io/crates/cev-server) | 0.1.0 | 0 | The cev (Calibrated Enum Verdicts) server: Jev-compatible REST and GraphQL for… |
-| 2026-10-04 02:17:04 | [gob-log](https://crates.io/crates/gob-log) | 0.0.0 | 0 | Name reservation for gob-log, part of the frob workspace (Rust rewrite in progr… |
+| 2026-10-04 02:26:13 | [arcsec-catalogue](https://crates.io/crates/arcsec-catalogue) | 0.5.1 | 0 | Catalogue management for the arcsec plate solver: which star databases and blin… |
+| 2026-10-04 02:27:04 | [gob-plan](https://crates.io/crates/gob-plan) | 0.0.0 | 0 | Name reservation for gob-plan, part of the frob workspace (Rust rewrite in prog… |
+| 2026-10-04 02:30:30 | [voxsurface](https://crates.io/crates/voxsurface) | 0.2.0 | 0 | The boundary of a voxel grid: its faces meshed and the occlusion at their corne… |
+| 2026-10-04 02:30:33 | [voxrender](https://crates.io/crates/voxrender) | 0.2.0 | 0 | The render contract for voxel scenes and its CPU reference renderer. |
+| 2026-10-04 02:37:07 | [gob-symbols](https://crates.io/crates/gob-symbols) | 0.0.0 | 0 | Name reservation for gob-symbols, part of the frob workspace (Rust rewrite in p… |
+| 2026-10-04 02:37:42 | [cev-rs](https://crates.io/crates/cev-rs) | 0.1.0 | 0 | cev (Calibrated Enum Verdicts): typed System One decisions in Rust. Match on an… |
+| 2026-10-04 02:47:07 | [gob-text](https://crates.io/crates/gob-text) | 0.0.0 | 0 | Name reservation for gob-text, part of the frob workspace (Rust rewrite in prog… |
+| 2026-10-04 02:48:21 | [cranpose-wgpu-hal](https://crates.io/crates/cranpose-wgpu-hal) | 30.0.1 | 0 | Cranpose's patched fork of wgpu-hal 30.0.1 (forks/README.md in the Cranpose rep… |
+| 2026-10-04 02:48:34 | [cranpose-wgpu-core-deps-apple](https://crates.io/crates/cranpose-wgpu-core-deps-apple) | 30.0.1 | 0 | Cranpose's patched fork of wgpu-core-deps-apple 30.0.1 (forks/README.md in the… |
+| 2026-10-04 02:48:39 | [cranpose-wgpu-core-deps-emscripten](https://crates.io/crates/cranpose-wgpu-core-deps-emscripten) | 30.0.1 | 0 | Cranpose's patched fork of wgpu-core-deps-emscripten 30.0.1 (forks/README.md in… |
+| 2026-10-04 02:48:44 | [cranpose-wgpu-core-deps-wasm](https://crates.io/crates/cranpose-wgpu-core-deps-wasm) | 30.0.1 | 0 | Cranpose's patched fork of wgpu-core-deps-wasm 30.0.1 (forks/README.md in the C… |
+| 2026-10-04 02:48:48 | [cranpose-wgpu-core-deps-windows-linux-android](https://crates.io/crates/cranpose-wgpu-core-deps-windows-linux-android) | 30.0.1 | 0 | Cranpose's patched fork of wgpu-core-deps-windows-linux-android 30.0.1 (forks/R… |
+| 2026-10-04 02:50:18 | [deadline-bbs](https://crates.io/crates/deadline-bbs) | 1.0.0 | 0 | A haunted late-90s BBS text adventure for your terminal |
+| 2026-10-04 02:51:42 | [sparsley-diagram](https://crates.io/crates/sparsley-diagram) | 0.1.0 | 0 | Proc macros drawing memory diagrams of sparsley operations for rustdoc |
+| 2026-10-04 02:51:53 | [sparsley](https://crates.io/crates/sparsley) | 0.1.0 | 0 | Sparse set with packed, contiguous values and lazily zeroed sparse storage |
+| 2026-10-04 02:52:56 | [cranpose-wgpu-core](https://crates.io/crates/cranpose-wgpu-core) | 30.0.1 | 0 | Cranpose's patched fork of wgpu-core 30.0.1 (forks/README.md in the Cranpose re… |
+| 2026-10-04 02:57:04 | [gob-trust](https://crates.io/crates/gob-trust) | 0.0.0 | 0 | Name reservation for gob-trust, part of the frob workspace (Rust rewrite in pro… |
+| 2026-10-04 03:01:21 | [cranpose-wgpu](https://crates.io/crates/cranpose-wgpu) | 30.0.1 | 0 | Cranpose's patched fork of wgpu 30.0.1 (forks/README.md in the Cranpose reposit… |
+| 2026-10-04 03:03:30 | [stack-encrypt-derive](https://crates.io/crates/stack-encrypt-derive) | 0.1.0 | 0 | Derive macros for stack-encrypt's target-directed encryption |
+| 2026-10-04 03:04:33 | [stack-kms](https://crates.io/crates/stack-kms) | 0.1.0 | 0 | Standalone client for ZeroKMS key generation and retrieval |
+| 2026-10-04 03:06:21 | [turbojet-config](https://crates.io/crates/turbojet-config) | 0.2.0 | 0 | Session configuration files for Turbojet: an acceptor, its counterparties and s… |
+| 2026-10-04 03:06:27 | [turbojet-sql](https://crates.io/crates/turbojet-sql) | 0.2.0 | 0 | SQL session storage for Turbojet: SQLite and PostgreSQL through sqlx, with leas… |
+| 2026-10-04 03:07:07 | [gob-walk](https://crates.io/crates/gob-walk) | 0.0.0 | 0 | Name reservation for gob-walk, part of the frob workspace (Rust rewrite in prog… |
+| 2026-10-04 03:07:43 | [stack-encrypt](https://crates.io/crates/stack-encrypt) | 0.1.0 | 0 | Encrypt Rust values under per-value ZeroKMS data keys via the vitaminc cipher t… |
+| 2026-10-04 03:11:01 | [duv](https://crates.io/crates/duv) | 0.1.0 | 0 | A fast terminal UI for finding and cleaning up what's using your disk space |
+| 2026-10-04 03:17:06 | [grimble-bind](https://crates.io/crates/grimble-bind) | 0.0.0 | 0 | Name reservation for grimble-bind, part of the frob workspace (Rust rewrite in… |
 
 ## Data source
 
