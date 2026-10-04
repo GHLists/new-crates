@@ -8,42 +8,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 05:19 UTC
+## Latest list — 2026-10-04 06:18 UTC
 
-New crates published between 2026-10-04 04:19 UTC and 2026-10-04 05:19 UTC.
+New crates published between 2026-10-04 05:19 UTC and 2026-10-04 06:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-04T05-19-12-790855Z.csv)
+[Full CSV](data/new-crates-2026-10-04T06-18-42-587523Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-04 04:29:23 | [actix-trypema](https://crates.io/crates/actix-trypema) | 0.1.0 | 0 | actix-web middleware for the trypema sliding-window rate limiter |
-| 2026-10-04 04:33:27 | [semiont-codegen](https://crates.io/crates/semiont-codegen) | 0.6.9 | 0 | Build-time generation from specs/: the bundled spec documents and the Rust type… |
-| 2026-10-04 04:33:36 | [semiont](https://crates.io/crates/semiont) | 0.6.9 | 0 | Semiont's Rust SDK: the protocol's types, the transport contract and a client o… |
-| 2026-10-04 04:33:49 | [semiont-telemetry](https://crates.io/crates/semiont-telemetry) | 0.6.9 | 0 | The telemetry a Semiont transport and a Semiont service share: the spans and th… |
-| 2026-10-04 04:34:01 | [semiont-http-transport](https://crates.io/crates/semiont-http-transport) | 0.6.9 | 0 | Semiont's HTTP transport, in Rust: a knowledge base's bus over its gateway, as… |
-| 2026-10-04 04:38:13 | [codoseo-core](https://crates.io/crates/codoseo-core) | 0.0.1 | 0 | Shared types for CodoSEO, the open-source SEO crawler and monitor. |
-| 2026-10-04 04:38:34 | [codoseo-crawler](https://crates.io/crates/codoseo-crawler) | 0.0.1 | 0 | The CodoSEO crawler: fetching, robots.txt, sitemaps and streaming field extract… |
-| 2026-10-04 04:38:42 | [codoseo-checks](https://crates.io/crates/codoseo-checks) | 0.0.1 | 0 | The CodoSEO check registry and SEO checks. |
-| 2026-10-04 04:38:49 | [codoseo-diff](https://crates.io/crates/codoseo-diff) | 0.0.1 | 0 | Change detection between two CodoSEO crawl snapshots. |
-| 2026-10-04 04:39:08 | [codoseo](https://crates.io/crates/codoseo) | 0.0.1 | 0 | CodoSEO: a fast, polite SEO crawler and site auditor for the command line. |
-| 2026-10-04 04:40:45 | [omw-output](https://crates.io/crates/omw-output) | 0.1.6 | 0 | OMW = OpenAI + MCP + WASM |
-| 2026-10-04 04:56:16 | [yunpao](https://crates.io/crates/yunpao) | 0.1.0 | 0 | Remote Session and Task Manager |
-| 2026-10-04 04:56:27 | [sgl-core](https://crates.io/crates/sgl-core) | 0.1.0 | 0 | Deterministic timing, grids, hashing, animation, and collision for SGL games |
-| 2026-10-04 04:56:28 | [sgl-input](https://crates.io/crates/sgl-input) | 0.1.0 | 0 | Caller-polled controller discovery, events, and held state for SGL games |
-| 2026-10-04 04:56:30 | [sgl-net](https://crates.io/crates/sgl-net) | 0.1.0 | 0 | Opaque-payload UDP, WebSocket, and in-memory game transports |
-| 2026-10-04 04:56:32 | [sgl-post-fx](https://crates.io/crates/sgl-post-fx) | 0.1.0 | 0 | SGL wgpu post-processing effects: screen-space reflections and temporal anti-al… |
-| 2026-10-04 04:56:36 | [sgl-2d](https://crates.io/crates/sgl-2d) | 0.1.0 | 0 | Caller-driven 2D rendering, assets, text, lighting, and immediate UI for SGL ga… |
-| 2026-10-04 05:02:37 | [gob-packs](https://crates.io/crates/gob-packs) | 0.0.0 | 0 | Name reservation for gob-packs, part of the frob workspace (Rust rewrite in pro… |
-| 2026-10-04 05:02:41 | [bevy_agent_core](https://crates.io/crates/bevy_agent_core) | 0.0.1 | 0 | Core schedules, actions, observations, deterministic clock, and plugin types fo… |
-| 2026-10-04 05:05:24 | [sgl-3d](https://crates.io/crates/sgl-3d) | 0.1.0 | 0 | Caller-driven 3D rendering for SGL games, native and in the browser (WebGPU) |
-| 2026-10-04 05:07:33 | [baukit-erasure](https://crates.io/crates/baukit-erasure) | 0.7.0 | 0 | Transactional profile erasure with durable identity account deletion. |
-| 2026-10-04 05:07:42 | [bevy_agent_snapshot](https://crates.io/crates/bevy_agent_snapshot) | 0.0.1 | 0 | Snapshot and restore support for controllable Bevy agent simulations. |
-| 2026-10-04 05:10:00 | [etherbird](https://crates.io/crates/etherbird) | 0.1.0 | 0 | Supervised asynchronous resources with automatic recovery |
-| 2026-10-04 05:12:34 | [bevy_agent_replay](https://crates.io/crates/bevy_agent_replay) | 0.0.1 | 0 | Replay logs and timeline branches for controllable Bevy agent simulations. |
-| 2026-10-04 05:13:14 | [bevy_agent_runner](https://crates.io/crates/bevy_agent_runner) | 0.0.1 | 0 | Runner API that owns and steps controllable Bevy agent simulation apps. |
-| 2026-10-04 05:14:08 | [bevy_agent_remote](https://crates.io/crates/bevy_agent_remote) | 0.0.1 | 0 | JSON-RPC, HTTP, WebSocket, and stdio remote-control bridge for Bevy agent. |
-| 2026-10-04 05:14:58 | [bevy_agent_cli](https://crates.io/crates/bevy_agent_cli) | 0.0.1 | 0 | Command-line JSON-RPC client for Bevy agent environments. |
-| 2026-10-04 05:17:38 | [dir2web](https://crates.io/crates/dir2web) | 0.1.0 | 0 | Serve a directory tree over HTTP with Apache-style indices, video thumbnails an… |
+| 2026-10-04 05:19:48 | [db-collation](https://crates.io/crates/db-collation) | 0.1.0 | 0 | Offline, exact comparison of strings using an explicitly identified database co… |
+| 2026-10-04 05:22:53 | [pi-rs](https://crates.io/crates/pi-rs) | 0.2.2 | 0 | Rust port of the pi coding agent (earendil-works/pi): CLI/TUI agent with multi-… |
+| 2026-10-04 05:37:40 | [loan-risk-engine](https://crates.io/crates/loan-risk-engine) | 0.1.0 | 0 | Loan risk-tier microservice (Axum + ZEN decision tables + Jev signals) for loan… |
+| 2026-10-04 05:49:27 | [otprs](https://crates.io/crates/otprs) | 0.1.0 | 0 | 🔐 A highly customizable OTP input component for WASM frameworks like Yew, Dioxu… |
+| 2026-10-04 05:53:53 | [oxpdf-mcp](https://crates.io/crates/oxpdf-mcp) | 1.1.0 | 0 | Model Context Protocol (MCP) stdio server for oxpdf: high-performance PDF inspe… |
+| 2026-10-04 05:59:58 | [sootmark-persistence](https://crates.io/crates/sootmark-persistence) | 0.1.0 | 0 | Where Linux and Unix attackers keep access: crontabs, systemd units, SSH author… |
+| 2026-10-04 06:03:18 | [gangway](https://crates.io/crates/gangway) | 0.1.0 | 0 | It's like playing telephone — but with one person, repeatedly. |
+| 2026-10-04 06:03:27 | [edgextract](https://crates.io/crates/edgextract) | 0.1.0 | 0 | Turn markdown into a knowledge graph with an ontology you write and a cutoff yo… |
+| 2026-10-04 06:04:33 | [mcport-core](https://crates.io/crates/mcport-core) | 0.1.0 | 0 | Shared protocol models for Silicon MCPort |
+| 2026-10-04 06:04:58 | [mcport-mcp](https://crates.io/crates/mcport-mcp) | 0.1.0 | 0 | Bounded MCP transports and execution for Silicon MCPort |
+| 2026-10-04 06:05:17 | [mcport-api](https://crates.io/crates/mcport-api) | 0.1.0 | 0 | Stateless HTTP transport and wire API for Silicon MCPort |
+| 2026-10-04 06:05:39 | [mcport-daemon](https://crates.io/crates/mcport-daemon) | 0.1.0 | 0 | Outbound local MCP host connector for Silicon MCPort |
+| 2026-10-04 06:05:56 | [mcport-client](https://crates.io/crates/mcport-client) | 0.1.0 | 0 | Primary Rust interface for Silicon MCPort, with explicit local host support |
+| 2026-10-04 06:06:32 | [mcport-cli](https://crates.io/crates/mcport-cli) | 0.1.0 | 0 | CLI for Silicon MCPort |
 
 ## Data source
 

@@ -1,0 +1,15 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T05:19:48.069465Z,db-collation,0.1.0,0,0,https://github.com/tuantran0910/db-collation,"Offline, exact comparison of strings using an explicitly identified database collation and version."
+2026-10-04T05:22:53.112605Z,pi-rs,0.2.2,0,0,https://github.com/xiaotubaobiu/pi-rust,"Rust port of the pi coding agent (earendil-works/pi): CLI/TUI agent with multi-provider LLM support, tools, MCP, sessions, and oracle-verified behavioral parity with upstream."
+2026-10-04T05:37:40.099191Z,loan-risk-engine,0.1.0,0,0,https://github.com/bunyawats/loan-risk-engine,Loan risk-tier microservice (Axum + ZEN decision tables + Jev signals) for loan-onboarding-poc
+2026-10-04T05:49:27.931203Z,otprs,0.1.0,0,0,https://github.com/opensass/otprs,"🔐 A highly customizable OTP input component for WASM frameworks like Yew, Dioxus, and Leptos."
+2026-10-04T05:53:53.44872Z,oxpdf-mcp,1.1.0,0,0,https://github.com/isaim0011/oxpdf,"Model Context Protocol (MCP) stdio server for oxpdf: high-performance PDF inspection, layout-aware Markdown, and image extraction"
+2026-10-04T05:59:58.868652Z,sootmark-persistence,0.1.0,0,0,https://github.com/Sootmark/persistence,"Where Linux and Unix attackers keep access: crontabs, systemd units, SSH authorized keys, rc.local and shell start-up files, ld.so.preload and sudoers, read into entries with what runs, as whom and w…"
+2026-10-04T06:03:18.650187Z,gangway,0.1.0,0,0,https://github.com/terranesoftware/gangway,"It's like playing telephone — but with one person, repeatedly."
+2026-10-04T06:03:27.805155Z,edgextract,0.1.0,0,0,https://github.com/raphaelmansuy/edgextract,Turn markdown into a knowledge graph with an ontology you write and a cutoff you own.
+2026-10-04T06:04:33.281985Z,mcport-core,0.1.0,0,0,https://github.com/teamofsilicons/silicon-mcport,Shared protocol models for Silicon MCPort
+2026-10-04T06:04:58.877624Z,mcport-mcp,0.1.0,0,0,https://github.com/teamofsilicons/silicon-mcport,Bounded MCP transports and execution for Silicon MCPort
+2026-10-04T06:05:17.251315Z,mcport-api,0.1.0,0,0,https://github.com/teamofsilicons/silicon-mcport,Stateless HTTP transport and wire API for Silicon MCPort
+2026-10-04T06:05:39.438574Z,mcport-daemon,0.1.0,0,0,https://github.com/teamofsilicons/silicon-mcport,Outbound local MCP host connector for Silicon MCPort
+2026-10-04T06:05:56.955856Z,mcport-client,0.1.0,0,0,https://github.com/teamofsilicons/silicon-mcport,"Primary Rust interface for Silicon MCPort, with explicit local host support"
+2026-10-04T06:06:32.805592Z,mcport-cli,0.1.0,0,0,https://github.com/teamofsilicons/silicon-mcport,CLI for Silicon MCPort
