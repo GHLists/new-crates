@@ -1,0 +1,10 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T03:27:04.509403Z,grimble-check,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for grimble-check, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T03:29:29.049586Z,oidc-relying-party,0.1.0,0,0,https://github.com/franzos/oidc-relying-party,"OpenID Connect relying-party layer on top of openidconnect: JWKS cache and key rules, ID-token checks, back-channel logout tokens, end-session URLs, revocation"
+2026-10-04T03:37:16.373883Z,grimble-model,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for grimble-model, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T03:41:05.300397Z,kcode-k1-chat-thread-launch-node-testkit,0.1.0,0,0,,Real-stack conformance tests for K1 Chat launch-node Ktools
+2026-10-04T03:55:53.912849Z,cratefield-import-supabase,0.1.0,0,0,https://github.com/Cratefield/harness,Read-only inspection of a Supabase project and the migration report the Supabase importer is planned from (ADR 0026)
+2026-10-04T03:55:55.499562Z,cratefield-mail-templates,0.1.0,0,0,https://github.com/Cratefield/harness,"Branded, email-client-safe HTML and plain-text mail for Cratefield ventures, themed with each venture's own website style"
+2026-10-04T03:57:30.441361Z,cratefield-module-orgs,0.1.0,0,0,https://github.com/Cratefield/harness,"Cratefield module: organizations, memberships, roles and email invitations"
+2026-10-04T04:01:02.005564Z,potentia,0.0.1,0,0,https://github.com/OwlRoute/minerva,Finite quivers and admitted free paths for directed semantics
+2026-10-04T04:15:12.023172Z,shoal-sh,0.1.5,0,0,https://github.com/alliecatowo/shoal,"A typed, journaled, capability-leashed shell with first-class values, structured pipelines and an agent (MCP) kernel"
