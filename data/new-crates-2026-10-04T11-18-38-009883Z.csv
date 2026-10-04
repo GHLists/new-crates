@@ -1,0 +1,16 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T10:24:07.977267Z,pmpx-plugin-cargo,0.0.0,0,0,https://github.com/pmpx-rs/pmpx-plugin-cargo,cargo backend for pmpx: maps its verbs onto cargo commands.
+2026-10-04T10:27:01.017804Z,olean-export,0.1.0,0,0,https://github.com/sdiehl/olean-export,Optimized library for reading Lean .olean files directly emitting lean4export-compatible NDJSON for external kernel checkers.
+2026-10-04T10:34:20.475423Z,wm-gen3-systemone,10.2.0-alpha,0,0,,WhiteMagic Gen3 — optional System One typed-decision organ (local Laya inference)
+2026-10-04T10:34:33.503314Z,wm-gen3-zeropointfive,10.2.0-alpha,0,0,,"WhiteMagic Gen3 — System 0.5 retrieval organ (static embeddings, local-only)"
+2026-10-04T10:34:59.973244Z,wm-gen3-harness,10.2.0-alpha,0,0,,WhiteMagic Gen3 — stdio JSON-RPC adapter (plumbing only; experiment harness)
+2026-10-04T10:37:12.482034Z,diffrail,0.2.1,0,0,https://github.com/beriktassuly/diffrail,Keep repository changes inside explicit file boundaries.
+2026-10-04T10:41:10.07728Z,spake2plus,0.1.0,0,0,https://github.com/zavan/spake2plus,"SPAKE2+ (RFC 9383), the augmented password-authenticated key exchange: prover and verifier, no_std"
+2026-10-04T10:43:29.445431Z,truman-core,0.1.0,0,0,https://github.com/freakynit/truman,"Core types, filters, and parallel scanner for Truman secret detection"
+2026-10-04T10:43:41.84694Z,truman-detectors,0.1.0,0,0,https://github.com/freakynit/truman,"140 secret detectors for Truman — AWS, Stripe, GitHub, high-entropy, and more"
+2026-10-04T10:43:52.139677Z,truman,0.1.0,0,0,https://github.com/freakynit/truman,Truman secret scanner facade — Rust library re-exporting core and detectors with collect and streaming APIs
+2026-10-04T10:44:03.489374Z,truman-cli,0.1.0,0,0,https://github.com/freakynit/truman,"Truman CLI — fast secret scanner binary (truman scan, --list-detectors)"
+2026-10-04T10:50:54.255912Z,net_backend,0.2.0,0,0,https://github.com/warmar94/net_backend,"The net_backend installer: `net-backend new <name>` asks a few questions (client, database, modules, demo) and writes a game backend that runs at once: a net_backend_server, a client and an optional…"
+2026-10-04T10:58:53.630346Z,canmi,2026.10.4,0,0,https://github.com/canmi21/lib,The author's own facts for Rust: their sites' addresses and the world's
+2026-10-04T11:03:38.917402Z,sql-semantic-protocol,1.0.0,0,0,https://github.com/phdah/sql-semantic-protocol,Parser-independent semantic protocol and analyzer for SQL queries
+2026-10-04T11:15:41.306845Z,sootmark-ese,0.1.0,0,0,https://github.com/Sootmark/ese,"Read-only reader of Microsoft ESE (JET Blue) database files for forensics (SRUM, WebCache, Windows Search, NTDS): header, checksums, B+-trees, the catalog, records, long values and compressed values,…"

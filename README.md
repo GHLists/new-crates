@@ -8,26 +8,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 10:18 UTC
+## Latest list — 2026-10-04 11:18 UTC
 
-New crates published between 2026-10-04 09:18 UTC and 2026-10-04 10:18 UTC.
+New crates published between 2026-10-04 10:18 UTC and 2026-10-04 11:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-04T10-18-34-121805Z.csv)
+[Full CSV](data/new-crates-2026-10-04T11-18-38-009883Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-04 09:24:29 | [cadlab](https://crates.io/crates/cadlab) | 0.0.1 | 0 | Headless electronics CAD for programs and AI agents: parts, circuits, boards, r… |
-| 2026-10-04 09:26:54 | [cryptors](https://crates.io/crates/cryptors) | 0.1.0 | 0 | All-in-one cryptographic Rust library supporting AES, DES, DSA, ECDH, ECDSA, Ed… |
-| 2026-10-04 09:32:31 | [vgi-bridge](https://crates.io/crates/vgi-bridge) | 0.16.0 | 0 | The per-community VGI bridge: holds the community's forge credentials, takes gi… |
-| 2026-10-04 09:35:33 | [shirley-agent-sdk-macros](https://crates.io/crates/shirley-agent-sdk-macros) | 0.0.1 | 0 | Procedural macros for shirley-agent-sdk (the #[tool] attribute) |
-| 2026-10-04 09:36:02 | [shirley-agent-sdk](https://crates.io/crates/shirley-agent-sdk) | 0.0.1 | 0 | Agent SDK for building LLM agents: messages, tools, protocol adapters, ReAct ru… |
-| 2026-10-04 09:39:43 | [method_name_proc_macro](https://crates.io/crates/method_name_proc_macro) | 0.3.1 | 0 | macro that expands to the name of the annotated function |
-| 2026-10-04 09:39:55 | [method_name](https://crates.io/crates/method_name) | 0.3.1 | 0 | macro that expands to the name of the annotated function |
-| 2026-10-04 09:40:45 | [prochist-core](https://crates.io/crates/prochist-core) | 0.1.0 | 0 | Process snapshot model, provider trait, and tree building for prochist |
-| 2026-10-04 09:40:55 | [prochist-cli](https://crates.io/crates/prochist-cli) | 0.1.0 | 0 | ph - print the process tree around a PID |
-| 2026-10-04 09:42:25 | [sootmark-browser](https://crates.io/crates/sootmark-browser) | 0.1.0 | 0 | Browser history for forensics: visits and downloads from Chromium-family Histor… |
-| 2026-10-04 09:50:41 | [varyk-sql](https://crates.io/crates/varyk-sql) | 0.1.0 | 0 | The SQL package for Varyk, a language for backend services that compiles to Rus… |
-| 2026-10-04 10:10:01 | [fawk](https://crates.io/crates/fawk) | 0.0.0 | 0 | functional awk |
+| 2026-10-04 10:24:07 | [pmpx-plugin-cargo](https://crates.io/crates/pmpx-plugin-cargo) | 0.0.0 | 0 | cargo backend for pmpx: maps its verbs onto cargo commands. |
+| 2026-10-04 10:27:01 | [olean-export](https://crates.io/crates/olean-export) | 0.1.0 | 0 | Optimized library for reading Lean .olean files directly emitting lean4export-c… |
+| 2026-10-04 10:34:20 | [wm-gen3-systemone](https://crates.io/crates/wm-gen3-systemone) | 10.2.0-alpha | 0 | WhiteMagic Gen3 — optional System One typed-decision organ (local Laya inferenc… |
+| 2026-10-04 10:34:33 | [wm-gen3-zeropointfive](https://crates.io/crates/wm-gen3-zeropointfive) | 10.2.0-alpha | 0 | WhiteMagic Gen3 — System 0.5 retrieval organ (static embeddings, local-only) |
+| 2026-10-04 10:34:59 | [wm-gen3-harness](https://crates.io/crates/wm-gen3-harness) | 10.2.0-alpha | 0 | WhiteMagic Gen3 — stdio JSON-RPC adapter (plumbing only; experiment harness) |
+| 2026-10-04 10:37:12 | [diffrail](https://crates.io/crates/diffrail) | 0.2.1 | 0 | Keep repository changes inside explicit file boundaries. |
+| 2026-10-04 10:41:10 | [spake2plus](https://crates.io/crates/spake2plus) | 0.1.0 | 0 | SPAKE2+ (RFC 9383), the augmented password-authenticated key exchange: prover a… |
+| 2026-10-04 10:43:29 | [truman-core](https://crates.io/crates/truman-core) | 0.1.0 | 0 | Core types, filters, and parallel scanner for Truman secret detection |
+| 2026-10-04 10:43:41 | [truman-detectors](https://crates.io/crates/truman-detectors) | 0.1.0 | 0 | 140 secret detectors for Truman — AWS, Stripe, GitHub, high-entropy, and more |
+| 2026-10-04 10:43:52 | [truman](https://crates.io/crates/truman) | 0.1.0 | 0 | Truman secret scanner facade — Rust library re-exporting core and detectors wit… |
+| 2026-10-04 10:44:03 | [truman-cli](https://crates.io/crates/truman-cli) | 0.1.0 | 0 | Truman CLI — fast secret scanner binary (truman scan, --list-detectors) |
+| 2026-10-04 10:50:54 | [net_backend](https://crates.io/crates/net_backend) | 0.2.0 | 0 | The net_backend installer: `net-backend new <name>` asks a few questions (clien… |
+| 2026-10-04 10:58:53 | [canmi](https://crates.io/crates/canmi) | 2026.10.4 | 0 | The author's own facts for Rust: their sites' addresses and the world's |
+| 2026-10-04 11:03:38 | [sql-semantic-protocol](https://crates.io/crates/sql-semantic-protocol) | 1.0.0 | 0 | Parser-independent semantic protocol and analyzer for SQL queries |
+| 2026-10-04 11:15:41 | [sootmark-ese](https://crates.io/crates/sootmark-ese) | 0.1.0 | 0 | Read-only reader of Microsoft ESE (JET Blue) database files for forensics (SRUM… |
 
 ## Data source
 
