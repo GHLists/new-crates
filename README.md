@@ -8,34 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 22:19 UTC
+## Latest list — 2026-10-04 23:19 UTC
 
-New crates published between 2026-10-04 21:18 UTC and 2026-10-04 22:19 UTC.
+New crates published between 2026-10-04 22:19 UTC and 2026-10-04 23:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-04T22-19-28-820627Z.csv)
+[Full CSV](data/new-crates-2026-10-04T23-19-14-451819Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-04 21:25:45 | [lamprey-markdown](https://crates.io/crates/lamprey-markdown) | 0.1.4 | 0 | yet another chat thing? |
-| 2026-10-04 21:36:12 | [ramenv](https://crates.io/crates/ramenv) | 1.0.0 | 0 | Encrypted environment variable manager with optional validation and monorepo su… |
-| 2026-10-04 21:36:51 | [sdfcore](https://crates.io/crates/sdfcore) | 0.2.0 | 0 | Core types for signed distance field models. |
-| 2026-10-04 21:36:54 | [sdfj](https://crates.io/crates/sdfj) | 0.2.0 | 0 | Core types for the SDF Json (.sdfj) format. |
-| 2026-10-04 21:36:57 | [sdfj-codec](https://crates.io/crates/sdfj-codec) | 0.2.0 | 0 | Encodes sdfj types into .sdfj documents. |
-| 2026-10-04 21:36:59 | [sdfj-sdfcore](https://crates.io/crates/sdfj-sdfcore) | 0.2.0 | 0 | Converts between SDF Json documents and the sdfcore state. |
-| 2026-10-04 21:37:02 | [sdfconv](https://crates.io/crates/sdfconv) | 0.2.0 | 0 | Reads and writes SDF file formats through the sdfcore state. |
-| 2026-10-04 21:37:56 | [turbojev-runtime-llamacpp](https://crates.io/crates/turbojev-runtime-llamacpp) | 0.29.2 | 0 | Optional cross-platform llama.cpp/GGUF reference runtime adapter for TurboJev |
-| 2026-10-04 21:38:03 | [turbojev-host-native](https://crates.io/crates/turbojev-host-native) | 0.29.2 | 0 | Shared native host/session layer for TurboJev language bindings |
-| 2026-10-04 21:38:40 | [frdt](https://crates.io/crates/frdt) | 0.2.0 | 0 | Edit and inspect Resonite FrDT (.brson) documents without expanding them to JSON |
-| 2026-10-04 21:39:16 | [sdfj-builder](https://crates.io/crates/sdfj-builder) | 0.2.0 | 0 | The TypeScript builder that records voxel models as SDF Json (.sdfj) documents. |
-| 2026-10-04 21:41:13 | [mesh-llm-moa-plugin](https://crates.io/crates/mesh-llm-moa-plugin) | 0.78.0 | 0 | Built-in virtual-model plugin for mesh mixture-of-agents |
-| 2026-10-04 21:44:13 | [meshoptimizer-rs](https://crates.io/crates/meshoptimizer-rs) | 0.1.0 | 0 | Pure safe Rust port of meshoptimizer 1.3 with byte-identical output. Covers mes… |
-| 2026-10-04 21:46:23 | [trigora-local](https://crates.io/crates/trigora-local) | 1.0.0 | 0 | Local Trigora runtime over the SQLite TCC host |
-| 2026-10-04 21:46:42 | [trigora-cli](https://crates.io/crates/trigora-cli) | 1.0.0 | 0 | Trigora command line |
-| 2026-10-04 21:58:34 | [tocsin](https://crates.io/crates/tocsin) | 0.1.0 | 0 | Send one notification to many services from a single URL. Reads Apprise notific… |
-| 2026-10-04 22:02:48 | [prettyplease-any](https://crates.io/crates/prettyplease-any) | 0.1.0 | 0 | Pretty print individual items and expressions, using the prettyplease crate und… |
-| 2026-10-04 22:04:34 | [completr](https://crates.io/crates/completr) | 0.1.0 | 0 | Serverless autocompletion engine for Rust and Python: exact, prefix, infix, abb… |
-| 2026-10-04 22:05:53 | [completr-cli](https://crates.io/crates/completr-cli) | 0.1.0 | 0 | Command-line tool for completr databases: inspect, import, complete, compact, c… |
-| 2026-10-04 22:07:36 | [tocsin-cli](https://crates.io/crates/tocsin-cli) | 0.1.0 | 0 | The tocsin command line: send a notification to many services from Apprise-styl… |
+| 2026-10-04 22:20:53 | [gluonscan-lido](https://crates.io/crates/gluonscan-lido) | 0.2.0-beta.1 | 0 | Lido liquid-staking adapter for gluonscan (stETH / wstETH on-chain balances). |
+| 2026-10-04 22:21:07 | [gluonscan-morpho](https://crates.io/crates/gluonscan-morpho) | 0.2.0-beta.1 | 0 | Morpho Blue lending adapter for gluonscan (GraphQL API; isolated markets, per-m… |
+| 2026-10-04 22:21:17 | [gluonscan-etherfi](https://crates.io/crates/gluonscan-etherfi) | 0.2.0-beta.1 | 0 | ether.fi liquid-restaking adapter for gluonscan (weETH / eETH on-chain balances… |
+| 2026-10-04 22:21:25 | [gluonscan-ethena](https://crates.io/crates/gluonscan-ethena) | 0.2.0-beta.1 | 0 | Ethena staked-USDe adapter for gluonscan (sUSDe on-chain balance). |
+| 2026-10-04 22:21:34 | [gluonscan-hyperliquid](https://crates.io/crates/gluonscan-hyperliquid) | 0.2.0-beta.1 | 0 | Hyperliquid perpetuals adapter for gluonscan (clearinghouseState info API). |
+| 2026-10-04 22:21:44 | [gob-fs](https://crates.io/crates/gob-fs) | 0.0.0 | 0 | Name reservation for gob-fs, part of the frob workspace (Rust rewrite in progre… |
+| 2026-10-04 22:23:45 | [argument-completions](https://crates.io/crates/argument-completions) | 0.1.0 | 0 | Shell completion script generation for the argument crate |
+| 2026-10-04 22:23:48 | [argument-mangen](https://crates.io/crates/argument-mangen) | 0.1.0 | 0 | Man page generation for the argument crate |
+| 2026-10-04 22:26:30 | [deser-php](https://crates.io/crates/deser-php) | 0.10.0 | 0 | PHP serialize format support for deser |
+| 2026-10-04 22:26:30 | [deser-pickle](https://crates.io/crates/deser-pickle) | 0.10.0 | 0 | Python pickle format support for deser |
+| 2026-10-04 22:26:59 | [deser-ini](https://crates.io/crates/deser-ini) | 0.10.0 | 0 | INI files (and git's config files) for deser |
+| 2026-10-04 22:28:39 | [pwf-nvim](https://crates.io/crates/pwf-nvim) | 0.4.0 | 0 | Neovim plugin child process for pwf |
+| 2026-10-04 22:28:40 | [pwf-tui](https://crates.io/crates/pwf-tui) | 0.4.0 | 0 | Keyboard-driven task and note frontend for pwf |
+| 2026-10-04 22:44:16 | [termoEventos](https://crates.io/crates/termoEventos) | 0.1.0 | 0 | Contratos tipados dos eventos do TermoWebhook, gerados a partir dos esquemas ca… |
+| 2026-10-04 22:45:00 | [silc-runtime](https://crates.io/crates/silc-runtime) | 0.1.0 | 0 | Runtim-e/support library for SIL language components |
+| 2026-10-04 22:55:21 | [cargo-formal](https://crates.io/crates/cargo-formal) | 0.0.1 | 0 | Placeholder that reserves the cargo-formal name. Proprietary software of COOLJA… |
+| 2026-10-04 23:06:56 | [motder](https://crates.io/crates/motder) | 1.0.0 | 0 | Add, list and dismiss your own messages in Ubuntu's dynamic message of the day… |
+| 2026-10-04 23:07:52 | [problems-derive](https://crates.io/crates/problems-derive) | 0.1.0 | 0 | Derive typed problem metadata and formatted public detail. |
+| 2026-10-04 23:07:55 | [problems](https://crates.io/crates/problems) | 0.1.0 | 0 | Typed HTTP problem declarations with optional RFC 9457 reporting. |
+| 2026-10-04 23:13:06 | [dfitsort-core](https://crates.io/crates/dfitsort-core) | 0.2.2 | 0 | FITS header reading library behind the dfitsort CLI |
+| 2026-10-04 23:13:08 | [dfitsort](https://crates.io/crates/dfitsort) | 0.2.2 | 0 | Fast FITS header listing and keyword tables, after ESO dfits/fitsort |
+| 2026-10-04 23:16:50 | [miniline](https://crates.io/crates/miniline) | 0.1.0 | 0 | A dependency free, minimal readline implementation derived from rustyline |
 
 ## Data source
 

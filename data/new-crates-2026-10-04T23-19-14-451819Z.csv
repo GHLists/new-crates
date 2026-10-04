@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T22:20:53.324958Z,gluonscan-lido,0.2.0-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,Lido liquid-staking adapter for gluonscan (stETH / wstETH on-chain balances).
+2026-10-04T22:21:07.842194Z,gluonscan-morpho,0.2.0-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,"Morpho Blue lending adapter for gluonscan (GraphQL API; isolated markets, per-market health factor)."
+2026-10-04T22:21:17.099494Z,gluonscan-etherfi,0.2.0-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,ether.fi liquid-restaking adapter for gluonscan (weETH / eETH on-chain balances).
+2026-10-04T22:21:25.433323Z,gluonscan-ethena,0.2.0-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,Ethena staked-USDe adapter for gluonscan (sUSDe on-chain balance).
+2026-10-04T22:21:34.157952Z,gluonscan-hyperliquid,0.2.0-beta.1,0,0,https://github.com/ovictormagalhaes/gluonscan,Hyperliquid perpetuals adapter for gluonscan (clearinghouseState info API).
+2026-10-04T22:21:44.006766Z,gob-fs,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-fs, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T22:23:45.168315Z,argument-completions,0.1.0,0,0,https://github.com/mitsuhiko/argument,Shell completion script generation for the argument crate
+2026-10-04T22:23:48.634888Z,argument-mangen,0.1.0,0,0,https://github.com/mitsuhiko/argument,Man page generation for the argument crate
+2026-10-04T22:26:30.003799Z,deser-php,0.10.0,0,0,https://github.com/mitsuhiko/deser,PHP serialize format support for deser
+2026-10-04T22:26:30.848996Z,deser-pickle,0.10.0,0,0,https://github.com/mitsuhiko/deser,Python pickle format support for deser
+2026-10-04T22:26:59.091074Z,deser-ini,0.10.0,0,0,https://github.com/mitsuhiko/deser,INI files (and git's config files) for deser
+2026-10-04T22:28:39.160863Z,pwf-nvim,0.4.0,0,0,https://github.com/matheusb432/pwf,Neovim plugin child process for pwf
+2026-10-04T22:28:40.211107Z,pwf-tui,0.4.0,0,0,https://github.com/matheusb432/pwf,Keyboard-driven task and note frontend for pwf
+2026-10-04T22:44:16.474233Z,termoEventos,0.1.0,0,0,https://github.com/OrgTermotubos/TermoWebhook,"Contratos tipados dos eventos do TermoWebhook, gerados a partir dos esquemas cadastrados no hub."
+2026-10-04T22:45:00.828803Z,silc-runtime,0.1.0,0,0,https://github.com/DevPlusBTC/sil,Runtim-e/support library for SIL language components
+2026-10-04T22:55:21.617651Z,cargo-formal,0.0.1,0,0,,Placeholder that reserves the cargo-formal name. Proprietary software of COOLJAPAN OU; this release has no functionality.
+2026-10-04T23:06:56.182504Z,motder,1.0.0,0,0,https://github.com/Yzen90/motder,"Add, list and dismiss your own messages in Ubuntu's dynamic message of the day (update-motd)"
+2026-10-04T23:07:52.929727Z,problems-derive,0.1.0,0,0,https://github.com/shorwood/problems,Derive typed problem metadata and formatted public detail.
+2026-10-04T23:07:55.397152Z,problems,0.1.0,0,0,https://github.com/shorwood/problems,Typed HTTP problem declarations with optional RFC 9457 reporting.
+2026-10-04T23:13:06.730298Z,dfitsort-core,0.2.2,0,0,https://github.com/monodera/dfitsort,FITS header reading library behind the dfitsort CLI
+2026-10-04T23:13:08.991032Z,dfitsort,0.2.2,0,0,https://github.com/monodera/dfitsort,"Fast FITS header listing and keyword tables, after ESO dfits/fitsort"
+2026-10-04T23:16:50.590677Z,miniline,0.1.0,0,0,https://github.com/mitsuhiko/miniline,"A dependency free, minimal readline implementation derived from rustyline"
