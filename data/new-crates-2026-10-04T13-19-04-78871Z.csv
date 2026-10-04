@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T12:20:56.438617Z,corescout-report,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,"Human and JSON reports of benchmarks, topology and rankings."
+2026-10-04T12:22:19.963767Z,gnitz-tokio,0.1.0,0,0,https://github.com/Ed-von-Schleck/gnitz,"Async Rust client for the gnitz database, on tokio"
+2026-10-04T12:27:10.113777Z,z-icons,0.0.1,0,0,https://github.com/nihmadev/zaxis,Bundled Lucide icon set (SVG data) for zaxis
+2026-10-04T12:31:04.588392Z,corescout,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,"A computational mirror: what this machine physically is, right now."
+2026-10-04T12:33:13.785846Z,gnitz-mirror,0.1.0,0,0,https://github.com/Ed-von-Schleck/gnitz,Local mirror store for gnitz views: a copy fed by a view's delta feed and read in the client's process
+2026-10-04T12:39:01.179078Z,fugo-sass-compiler,0.14.0,0,0,https://github.com/getfugo/fugo-sass,"The compiler behind fugo-sass, a Sass compiler written in Rust: its internals, with frequent breaking changes"
+2026-10-04T12:39:04.739407Z,fugo-sass-macro,0.14.0,0,0,https://github.com/getfugo/fugo-sass,The proc macro behind fugo_sass::include!
+2026-10-04T12:39:08.041241Z,fugo-sass,0.14.0,0,0,https://github.com/getfugo/fugo-sass,A Sass compiler written purely in Rust
+2026-10-04T12:41:18.403139Z,corescout-capability,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,"Capabilities the machine mined from itself: reachability, composition, and the accounting that decides what counts as capital."
+2026-10-04T12:43:40.712056Z,gnitz-server,0.0.0,0,0,https://github.com/Ed-von-Schleck/gnitz,"The gnitz database server: SQL with incrementally maintained materialized views, implementing DBSP"
+2026-10-04T12:44:33.05975Z,ddx-ad,0.1.0,0,0,https://github.com/xqlsystems/ddx,Query-level reverse-mode AD for ddx (v2): vjp over Substrait plans.
+2026-10-04T12:51:54.864069Z,corescout-product-api,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,"The product engine: everything CoreScout knows, the local API over it, and the client that speaks to it."
+2026-10-04T12:53:01.925077Z,formula-lang,0.1.0,0,0,https://github.com/WyattAu/formula-lang,"Spreadsheet formula language — tokenizer, Pratt parser, AST, evaluator core. Excel-compatible function semantics."
+2026-10-04T13:00:37.269071Z,yoagent-workers,0.1.0,0,0,https://github.com/yologdev/yoagent,Run yoagent on Cloudflare Workers through the Worker's own bindings: Workers AI decision models (Clef) via env.AI
+2026-10-04T13:02:04.306216Z,corescout-cli,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,The CoreScout command line.
+2026-10-04T13:06:19.05717Z,axmg,0.1.0,0,0,https://github.com/dchrnv/axmg,Deterministic Merkle DAG associative memory engine
+2026-10-04T13:12:11.374955Z,corescout-lineage,1.2.0,0,0,https://gitlab.com/mattbusel/corescout,"Productivity accounting for a lineage of self-modified runtimes: useful work per scarce physical input, honestly."
+2026-10-04T13:15:44.981623Z,gnitz,0.1.0,0,0,https://github.com/Ed-von-Schleck/gnitz,"The gnitz database server: SQL with incrementally maintained materialized views, implementing DBSP"
+2026-10-04T13:17:50.309648Z,easy-docker,0.1.0,0,0,https://github.com/brunopassosaun/easy-docker,"A fast, lightweight, and modern TUI for managing Docker containers, images, volumes, and networks built in Rust."
