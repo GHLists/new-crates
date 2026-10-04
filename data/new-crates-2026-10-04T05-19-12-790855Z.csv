@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T04:29:23.399433Z,actix-trypema,0.1.0,0,0,https://github.com/dev-davexoyinbo/actix-trypema,actix-web middleware for the trypema sliding-window rate limiter
+2026-10-04T04:33:27.962456Z,semiont-codegen,0.6.9,0,0,https://github.com/The-AI-Alliance/semiont,Build-time generation from specs/: the bundled spec documents and the Rust types of their component schemas. A build dependency of semiont and semiont-core; no binary links it.
+2026-10-04T04:33:36.258073Z,semiont,0.6.9,0,0,https://github.com/The-AI-Alliance/semiont,"Semiont's Rust SDK: the protocol's types, the transport contract and a client of the bus over it, and what a client needs to name its principals and hold its roles, as specs/ states it."
+2026-10-04T04:33:49.473056Z,semiont-telemetry,0.6.9,0,0,https://github.com/The-AI-Alliance/semiont,"The telemetry a Semiont transport and a Semiont service share: the spans and the count of the SDK telemetry table, and the trace context they travel in, reported to whatever OpenTelemetry the process…"
+2026-10-04T04:34:01.953772Z,semiont-http-transport,0.6.9,0,0,https://github.com/The-AI-Alliance/semiont,"Semiont's HTTP transport, in Rust: a knowledge base's bus over its gateway, as semiont's Transport, and the sign-in that reaches it."
+2026-10-04T04:38:13.48445Z,codoseo-core,0.0.1,0,0,https://github.com/SafrowLabs/codoSEO,"Shared types for CodoSEO, the open-source SEO crawler and monitor."
+2026-10-04T04:38:34.985753Z,codoseo-crawler,0.0.1,0,0,https://github.com/SafrowLabs/codoSEO,"The CodoSEO crawler: fetching, robots.txt, sitemaps and streaming field extraction."
+2026-10-04T04:38:42.019738Z,codoseo-checks,0.0.1,0,0,https://github.com/SafrowLabs/codoSEO,The CodoSEO check registry and SEO checks.
+2026-10-04T04:38:49.058521Z,codoseo-diff,0.0.1,0,0,https://github.com/SafrowLabs/codoSEO,Change detection between two CodoSEO crawl snapshots.
+2026-10-04T04:39:08.263688Z,codoseo,0.0.1,0,0,https://github.com/SafrowLabs/codoSEO,"CodoSEO: a fast, polite SEO crawler and site auditor for the command line."
+2026-10-04T04:40:45.234255Z,omw-output,0.1.6,0,0,https://github.com/haras-unicorn/omw,OMW = OpenAI + MCP + WASM
+2026-10-04T04:56:16.452856Z,yunpao,0.1.0,0,0,https://github.com/alex-karev/yunpao,Remote Session and Task Manager
+2026-10-04T04:56:27.212107Z,sgl-core,0.1.0,0,0,https://github.com/stevepryde/sgl,"Deterministic timing, grids, hashing, animation, and collision for SGL games"
+2026-10-04T04:56:28.779162Z,sgl-input,0.1.0,0,0,https://github.com/stevepryde/sgl,"Caller-polled controller discovery, events, and held state for SGL games"
+2026-10-04T04:56:30.749051Z,sgl-net,0.1.0,0,0,https://github.com/stevepryde/sgl,"Opaque-payload UDP, WebSocket, and in-memory game transports"
+2026-10-04T04:56:32.239248Z,sgl-post-fx,0.1.0,0,0,https://github.com/stevepryde/sgl,SGL wgpu post-processing effects: screen-space reflections and temporal anti-aliasing derived from DiligentFX
+2026-10-04T04:56:36.848922Z,sgl-2d,0.1.0,0,0,https://github.com/stevepryde/sgl,"Caller-driven 2D rendering, assets, text, lighting, and immediate UI for SGL games"
+2026-10-04T05:02:37.262451Z,gob-packs,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-packs, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T05:02:41.441899Z,bevy_agent_core,0.0.1,0,0,https://github.com/briansunter/bevy-agent,"Core schedules, actions, observations, deterministic clock, and plugin types for controllable Bevy simulations."
+2026-10-04T05:05:24.973262Z,sgl-3d,0.1.0,0,0,https://github.com/stevepryde/sgl,"Caller-driven 3D rendering for SGL games, native and in the browser (WebGPU)"
+2026-10-04T05:07:33.050471Z,baukit-erasure,0.7.0,0,0,https://github.com/PatrickKoss/baukit,Transactional profile erasure with durable identity account deletion.
+2026-10-04T05:07:42.270608Z,bevy_agent_snapshot,0.0.1,0,0,https://github.com/briansunter/bevy-agent,Snapshot and restore support for controllable Bevy agent simulations.
+2026-10-04T05:10:00.361023Z,etherbird,0.1.0,0,0,,Supervised asynchronous resources with automatic recovery
+2026-10-04T05:12:34.769532Z,bevy_agent_replay,0.0.1,0,0,https://github.com/briansunter/bevy-agent,Replay logs and timeline branches for controllable Bevy agent simulations.
+2026-10-04T05:13:14.06064Z,bevy_agent_runner,0.0.1,0,0,https://github.com/briansunter/bevy-agent,Runner API that owns and steps controllable Bevy agent simulation apps.
+2026-10-04T05:14:08.974108Z,bevy_agent_remote,0.0.1,0,0,https://github.com/briansunter/bevy-agent,"JSON-RPC, HTTP, WebSocket, and stdio remote-control bridge for Bevy agent."
+2026-10-04T05:14:58.843908Z,bevy_agent_cli,0.0.1,0,0,https://github.com/briansunter/bevy-agent,Command-line JSON-RPC client for Bevy agent environments.
+2026-10-04T05:17:38.404229Z,dir2web,0.1.0,0,0,https://github.com/astraw/dir2web,"Serve a directory tree over HTTP with Apache-style indices, video thumbnails and instant transcoded HLS previews"
