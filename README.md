@@ -8,34 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 01:18 UTC
+## Latest list — 2026-10-04 02:20 UTC
 
-New crates published between 2026-10-04 00:19 UTC and 2026-10-04 01:18 UTC.
+New crates published between 2026-10-04 01:18 UTC and 2026-10-04 02:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-04T01-18-54-134659Z.csv)
+[Full CSV](data/new-crates-2026-10-04T02-20-08-142225Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-04 00:19:12 | [tcslog](https://crates.io/crates/tcslog) | 0.2.2 | 0 | Onboard telemetry logging into segment files, with recovery from lost or damage… |
-| 2026-10-04 00:20:16 | [openkind-client](https://crates.io/crates/openkind-client) | 0.1.0 | 0 | Async Rust client for the openkind / TypeSafe Jev SystemOne HTTP API. |
-| 2026-10-04 00:27:03 | [gob-cache](https://crates.io/crates/gob-cache) | 0.0.0 | 0 | Name reservation for gob-cache, part of the frob workspace (Rust rewrite in pro… |
-| 2026-10-04 00:31:04 | [openkind-server](https://crates.io/crates/openkind-server) | 0.1.0 | 0 | Phase 1: openkindd — the daemon combining HTTP, gRPC, config, tracing, and grac… |
-| 2026-10-04 00:31:15 | [tjcli](https://crates.io/crates/tjcli) | 0.1.2 | 0 | A lightning-fast CLI scaffolding tool to instantly generate Spring Boot 4 + Thy… |
-| 2026-10-04 00:32:48 | [godmode-cli](https://crates.io/crates/godmode-cli) | 0.8.1 | 0 | CLI for godmode: task graph management, parallel agent dispatch, session handof… |
-| 2026-10-04 00:33:07 | [tcslog-tools](https://crates.io/crates/tcslog-tools) | 0.1.1 | 0 | Command-line tools for inspecting tcslog segment files: tcslog-dump and tcslog-… |
-| 2026-10-04 00:35:34 | [sootmark-collector](https://crates.io/crates/sootmark-collector) | 0.1.1 | 0 | A forensic triage collector for Windows: reads NTFS raw (locked files, $MFT, $U… |
-| 2026-10-04 00:36:55 | [rok-ui-build](https://crates.io/crates/rok-ui-build) | 0.7.0 | 0 | Build-script support for rok-ui: file-based routes generated from src/routes. |
-| 2026-10-04 00:36:56 | [rok-ui-grammar](https://crates.io/crates/rok-ui-grammar) | 0.7.0 | 0 | Parsing and code generation behind rok-ui's macros, as a testable library. |
-| 2026-10-04 00:37:00 | [rok-ui-cli](https://crates.io/crates/rok-ui-cli) | 0.7.0 | 0 | cargo rok-ui: create rok-ui apps, vendor components and write route trees. |
-| 2026-10-04 00:37:06 | [gob-check](https://crates.io/crates/gob-check) | 0.0.0 | 0 | Name reservation for gob-check, part of the frob workspace (Rust rewrite in pro… |
-| 2026-10-04 00:38:22 | [tuassiff](https://crates.io/crates/tuassiff) | 0.1.0 | 0 | Tuassiff is a bespoke, unoptimized, custom binary image serialization file form… |
-| 2026-10-04 00:47:04 | [gob-cli](https://crates.io/crates/gob-cli) | 0.0.0 | 0 | Name reservation for gob-cli, part of the frob workspace (Rust rewrite in progr… |
-| 2026-10-04 00:52:09 | [lumenkit-match](https://crates.io/crates/lumenkit-match) | 0.1.0 | 0 | Fuzzy text matching with pinyin for lumenkit and Vesper: 'wx', 'weixin' and '微x… |
-| 2026-10-04 00:55:38 | [diescope](https://crates.io/crates/diescope) | 0.0.1 | 0 | See what your silicon is actually doing. Chip-level utilization for GPUs, CPUs,… |
-| 2026-10-04 00:57:06 | [gob-config](https://crates.io/crates/gob-config) | 0.0.0 | 0 | Name reservation for gob-config, part of the frob workspace (Rust rewrite in pr… |
-| 2026-10-04 01:07:06 | [gob-diagnostics](https://crates.io/crates/gob-diagnostics) | 0.0.0 | 0 | Name reservation for gob-diagnostics, part of the frob workspace (Rust rewrite… |
-| 2026-10-04 01:10:17 | [nonlinear-filters](https://crates.io/crates/nonlinear-filters) | 0.1.0 | 0 | Sigma-point nonlinear filters with adaptive, gating, consider-covariance and mu… |
-| 2026-10-04 01:17:03 | [gob-directives](https://crates.io/crates/gob-directives) | 0.0.0 | 0 | Name reservation for gob-directives, part of the frob workspace (Rust rewrite i… |
+| 2026-10-04 01:21:33 | [slate-parser](https://crates.io/crates/slate-parser) | 0.1.0 | 0 | C preprocessor, parser, semantic analysis, and typed IR for Slate |
+| 2026-10-04 01:21:35 | [slate-sysroots](https://crates.io/crates/slate-sysroots) | 0.1.0 | 0 | Install per-target C headers and compiler headers for Slate |
+| 2026-10-04 01:22:51 | [slate-c2rust](https://crates.io/crates/slate-c2rust) | 0.1.0 | 0 | A C to Rust transpiler with a built-in C frontend |
+| 2026-10-04 01:27:03 | [gob-exec](https://crates.io/crates/gob-exec) | 0.0.0 | 0 | Name reservation for gob-exec, part of the frob workspace (Rust rewrite in prog… |
+| 2026-10-04 01:28:14 | [acorn-diff](https://crates.io/crates/acorn-diff) | 0.3.4 | 0 | Portable unified and JSON Patch diff primitives for ACORN |
+| 2026-10-04 01:31:03 | [deltapatcher-macros](https://crates.io/crates/deltapatcher-macros) | 0.1.1 | 0 | Procedural macros for the deltapatcher crate. |
+| 2026-10-04 01:31:25 | [deltapatcher](https://crates.io/crates/deltapatcher) | 0.1.1 | 0 | Compute, aggregate, and patch typed deltas between states with timelines, cachi… |
+| 2026-10-04 01:31:57 | [sootmark-age](https://crates.io/crates/sootmark-age) | 0.2.0 | 0 | Streaming encryption and decryption in the age v1 file format, to X25519 recipi… |
+| 2026-10-04 01:37:01 | [gob-git](https://crates.io/crates/gob-git) | 0.0.0 | 0 | Name reservation for gob-git, part of the frob workspace (Rust rewrite in progr… |
+| 2026-10-04 01:37:56 | [xlsynth-aug-opt](https://crates.io/crates/xlsynth-aug-opt) | 0.74.0 | 0 | Augmented XLS IR optimization with g8r gate costs |
+| 2026-10-04 01:47:04 | [gob-ir](https://crates.io/crates/gob-ir) | 0.0.0 | 0 | Name reservation for gob-ir, part of the frob workspace (Rust rewrite in progre… |
+| 2026-10-04 01:57:03 | [gob-languages](https://crates.io/crates/gob-languages) | 0.0.0 | 0 | Name reservation for gob-languages, part of the frob workspace (Rust rewrite in… |
+| 2026-10-04 01:57:55 | [sp-fidelity](https://crates.io/crates/sp-fidelity) | 0.1.0 | 0 | Unofficial Rust and WGSL port of AMD FidelityFX FSR2 and its SDK support code |
+| 2026-10-04 01:57:58 | [sp-fidelity-wgpu](https://crates.io/crates/sp-fidelity-wgpu) | 0.1.0 | 0 | wgpu implementation of the FidelityFX SDK backend interface (FfxInterface) |
+| 2026-10-04 02:07:03 | [gob-lock](https://crates.io/crates/gob-lock) | 0.0.0 | 0 | Name reservation for gob-lock, part of the frob workspace (Rust rewrite in prog… |
+| 2026-10-04 02:07:43 | [delta-gitu](https://crates.io/crates/delta-gitu) | 0.1.1 | 0 | An experimental fork of gitu (a git client inspired by Magit), published as a l… |
+| 2026-10-04 02:15:35 | [cev-core](https://crates.io/crates/cev-core) | 0.1.0 | 0 | Wire types, prompt compiler and answer math for cev (Calibrated Enum Verdicts)… |
+| 2026-10-04 02:15:35 | [cev-derive](https://crates.io/crates/cev-derive) | 0.1.0 | 0 | #[derive(Choice)] for cev (Calibrated Enum Verdicts), the typed-decision SDK. |
+| 2026-10-04 02:15:36 | [cev-model](https://crates.io/crates/cev-model) | 0.1.0 | 0 | Neural backend for cev (Calibrated Enum Verdicts): a prefill-only Qwen3 decoder… |
+| 2026-10-04 02:15:37 | [cev-runtime](https://crates.io/crates/cev-runtime) | 0.1.0 | 0 | The cev (Calibrated Enum Verdicts) decision service: a durable decision and fee… |
+| 2026-10-04 02:15:37 | [cev-server](https://crates.io/crates/cev-server) | 0.1.0 | 0 | The cev (Calibrated Enum Verdicts) server: Jev-compatible REST and GraphQL for… |
+| 2026-10-04 02:17:04 | [gob-log](https://crates.io/crates/gob-log) | 0.0.0 | 0 | Name reservation for gob-log, part of the frob workspace (Rust rewrite in progr… |
 
 ## Data source
 

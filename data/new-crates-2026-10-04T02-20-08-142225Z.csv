@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T01:21:33.110982Z,slate-parser,0.1.0,0,0,https://github.com/Takashiidobe/slate,"C preprocessor, parser, semantic analysis, and typed IR for Slate"
+2026-10-04T01:21:35.846131Z,slate-sysroots,0.1.0,0,0,https://github.com/Takashiidobe/slate,Install per-target C headers and compiler headers for Slate
+2026-10-04T01:22:51.067464Z,slate-c2rust,0.1.0,0,0,https://github.com/Takashiidobe/slate,A C to Rust transpiler with a built-in C frontend
+2026-10-04T01:27:03.902814Z,gob-exec,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-exec, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T01:28:14.843744Z,acorn-diff,0.3.4,0,0,https://code.ornl.gov/research-enablement/acorn,Portable unified and JSON Patch diff primitives for ACORN
+2026-10-04T01:31:03.762284Z,deltapatcher-macros,0.1.1,0,0,https://github.com/HyperCodec/deltapatcher,Procedural macros for the deltapatcher crate.
+2026-10-04T01:31:25.429155Z,deltapatcher,0.1.1,0,0,https://github.com/HyperCodec/deltapatcher,"Compute, aggregate, and patch typed deltas between states with timelines, caching, and efficient bidirectional seeking."
+2026-10-04T01:31:57.477738Z,sootmark-age,0.2.0,0,0,https://github.com/Sootmark/age,"Streaming encryption and decryption in the age v1 file format, to X25519 recipients: the format written here, the cryptography from RustCrypto and dalek."
+2026-10-04T01:37:01.539051Z,gob-git,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-git, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T01:37:56.263868Z,xlsynth-aug-opt,0.74.0,0,0,https://github.com/xlsynth/xlsynth-crate,Augmented XLS IR optimization with g8r gate costs
+2026-10-04T01:47:04.966559Z,gob-ir,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-ir, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T01:57:03.895997Z,gob-languages,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-languages, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T01:57:55.304502Z,sp-fidelity,0.1.0,0,0,https://github.com/stevepryde/sp-fidelity,Unofficial Rust and WGSL port of AMD FidelityFX FSR2 and its SDK support code
+2026-10-04T01:57:58.691751Z,sp-fidelity-wgpu,0.1.0,0,0,https://github.com/stevepryde/sp-fidelity,wgpu implementation of the FidelityFX SDK backend interface (FfxInterface)
+2026-10-04T02:07:03.017468Z,gob-lock,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-lock, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T02:07:43.763849Z,delta-gitu,0.1.1,0,0,https://github.com/dandavison/gitu,"An experimental fork of gitu (a git client inspired by Magit), published as a library for delta to embed"
+2026-10-04T02:15:35.109741Z,cev-core,0.1.0,0,0,https://github.com/CarterCole/rust-cev,"Wire types, prompt compiler and answer math for cev (Calibrated Enum Verdicts) typed decisions, plus the Backend trait and a mock."
+2026-10-04T02:15:35.459886Z,cev-derive,0.1.0,0,0,https://github.com/CarterCole/rust-cev,"#[derive(Choice)] for cev (Calibrated Enum Verdicts), the typed-decision SDK."
+2026-10-04T02:15:36.491327Z,cev-model,0.1.0,0,0,https://github.com/CarterCole/rust-cev,Neural backend for cev (Calibrated Enum Verdicts): a prefill-only Qwen3 decoder in candle that reads typed answers from option-code logits.
+2026-10-04T02:15:37.075964Z,cev-runtime,0.1.0,0,0,https://github.com/CarterCole/rust-cev,"The cev (Calibrated Enum Verdicts) decision service: a durable decision and feedback log, online adapters and training export."
+2026-10-04T02:15:37.952761Z,cev-server,0.1.0,0,0,https://github.com/CarterCole/rust-cev,The cev (Calibrated Enum Verdicts) server: Jev-compatible REST and GraphQL for typed decisions with feedback and online learning.
+2026-10-04T02:17:04.039706Z,gob-log,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-log, part of the frob workspace (Rust rewrite in progress; real releases follow)."
