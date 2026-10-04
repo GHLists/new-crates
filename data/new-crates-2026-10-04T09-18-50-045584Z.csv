@@ -1,0 +1,12 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T08:21:41.889683Z,xrat-sdk,0.21.0,0,0,https://github.com/mhyrzt/xrat,Stable public facade for embedding xrat proxy-management logic
+2026-10-04T08:22:40.312759Z,sootmark-sqlite,0.1.1,0,0,https://github.com/Sootmark/sqlite,"Read-only reader of SQLite database files for forensics: header, b-trees, overflow chains, records, the schema, and committed frames of a write-ahead log, damage reported rather than fatal."
+2026-10-04T08:24:19.549784Z,rediakit-bitstream,0.1.1,0,0,https://github.com/mlm-games/rediakit,"Config record parsing, NAL framing and keyframe detection shared across rediakit"
+2026-10-04T08:24:22.94287Z,ocio,0.1.0,0,0,https://github.com/doubleailes/ocio-rs,"A pure Rust port of OpenColorIO, the color management framework for visual effects and animation."
+2026-10-04T08:34:45.232335Z,reverie-sabre-stats,0.4.0,0,0,https://github.com/facebookexperimental/reverie,Shared SaBRe patch-shape and slow-path statistics ABI.
+2026-10-04T08:40:50.253988Z,did0,0.1.0,0,0,https://github.com/did0-project/did0,"Zero-Allocation W3C DID, Substrate SCALE Codec & DePIN Cryptographic Engine"
+2026-10-04T08:51:13.710098Z,coders,0.1.0,0,0,https://github.com/opensass/coders,"💻 A highly customizable inline code and code block component for WASM frameworks like Yew, Dioxus, and Leptos."
+2026-10-04T08:52:48.7175Z,hermit-test-workdir,0.4.0,0,0,https://github.com/facebookexperimental/hermit,Per-run filesystem isolation for Hermit tests inside the pinned root.
+2026-10-04T09:14:25.552066Z,pmpx-plugin,0.0.0,0,0,https://github.com/pmpx-rs/pmpx,Plugin contract for pmpx: the PackageManager trait and the stable C ABI that carries it across dlopen.
+2026-10-04T09:14:27.734077Z,pmpx,0.0.0,0,0,https://github.com/pmpx-rs/pmpx,"One command surface for a project's package managers. Detects the project type, routes the verb, and spawns the real tool (cargo, pnpm, ...)."
+2026-10-04T09:15:42.981266Z,as-vim,0.1.0,0,0,https://github.com/ashusevim/as-vim,"A minimal, fast, vim-inspired terminal text editor in a single static binary"
