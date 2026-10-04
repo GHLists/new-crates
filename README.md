@@ -8,41 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 23:18 UTC
+## Latest list — 2026-10-04 00:19 UTC
 
-New crates published between 2026-10-03 22:19 UTC and 2026-10-03 23:18 UTC.
+New crates published between 2026-10-03 23:18 UTC and 2026-10-04 00:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-03T23-18-45-77705Z.csv)
+[Full CSV](data/new-crates-2026-10-04T00-19-06-613805Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-03 22:19:56 | [veloxc](https://crates.io/crates/veloxc) | 0.1.0 | 0 | CLI tools for building Velox applications |
-| 2026-10-03 22:28:34 | [manitou](https://crates.io/crates/manitou) | 0.1.0 | 0 | Weight provenance: per-file SHA-256 manifests of model weights, signed brain_ma… |
-| 2026-10-03 22:31:44 | [everruns-contracts](https://crates.io/crates/everruns-contracts) | 0.37.0 | 0 | Shared runtime, provider, capability, and model profile contracts for Everruns |
-| 2026-10-03 22:33:21 | [capnp-newtype](https://crates.io/crates/capnp-newtype) | 0.27.2 | 0 | runtime library for Cap'n Proto data encoding with newtype support |
-| 2026-10-03 22:33:24 | [capnpc-newtype](https://crates.io/crates/capnpc-newtype) | 0.27.0 | 0 | Cap'n Proto code generation with newtype support |
-| 2026-10-03 22:37:03 | [linux-kernel-panic-parser](https://crates.io/crates/linux-kernel-panic-parser) | 0.1.1 | 0 | Lossless, architecture-neutral parsing of Linux kernel panic logs |
-| 2026-10-03 22:37:17 | [launchpad-mini-mk3](https://crates.io/crates/launchpad-mini-mk3) | 0.1.0 | 0 | A lightweight Rust library for controlling Novation Launchpad Mini MK3 devices… |
-| 2026-10-03 22:40:16 | [openkind-core](https://crates.io/crates/openkind-core) | 0.1.0 | 0 | Phase 0: Jev-compatible schema, validation, and JSON schemas for openkind. |
-| 2026-10-03 22:40:37 | [capnp-json-newtype](https://crates.io/crates/capnp-json-newtype) | 0.3.2 | 0 | Cap'n Proto JSON codec for capnp-newtype |
-| 2026-10-03 22:46:31 | [sio-cli](https://crates.io/crates/sio-cli) | 0.1.0 | 0 | CLI for submitting to OIOIOI (sio2) instances |
-| 2026-10-03 22:50:56 | [openkind-datasets](https://crates.io/crates/openkind-datasets) | 0.1.0 | 0 | Pinned, verified local evaluation-dataset installations for OpenKind benchmarki… |
-| 2026-10-03 23:00:10 | [openkind-model-store](https://crates.io/crates/openkind-model-store) | 0.1.0 | 0 | Curated, verified local model installations for OpenKind |
-| 2026-10-03 23:06:18 | [cdgen](https://crates.io/crates/cdgen) | 0.1.0 | 0 | BlueBix Codegen - Minimal Git Platform in Rust |
-| 2026-10-03 23:08:39 | [frob-cli](https://crates.io/crates/frob-cli) | 0.0.0 | 0 | Name reservation for frob-cli, part of the frob workspace (Rust rewrite in prog… |
-| 2026-10-03 23:08:47 | [frob-ack](https://crates.io/crates/frob-ack) | 0.0.0 | 0 | Name reservation for frob-ack, part of the frob workspace (Rust rewrite in prog… |
-| 2026-10-03 23:08:54 | [tm-wasm](https://crates.io/crates/tm-wasm) | 0.3.0 | 0 | Tiramemsu executor host for SQLite compiled to WebAssembly, with memory and OPF… |
-| 2026-10-03 23:08:56 | [frob-check](https://crates.io/crates/frob-check) | 0.0.0 | 0 | Name reservation for frob-check, part of the frob workspace (Rust rewrite in pr… |
-| 2026-10-03 23:09:00 | [tiramemsu-json](https://crates.io/crates/tiramemsu-json) | 0.3.0 | 0 | The JSON bridge of tiramemsu: one call per operation, shared by the Node.js and… |
-| 2026-10-03 23:09:05 | [frob-evidence](https://crates.io/crates/frob-evidence) | 0.0.0 | 0 | Name reservation for frob-evidence, part of the frob workspace (Rust rewrite in… |
-| 2026-10-03 23:09:05 | [tiramemsu-mcp](https://crates.io/crates/tiramemsu-mcp) | 0.3.0 | 0 | A local stdio MCP server exposing a tiramemsu memory file as typed agent tools |
-| 2026-10-03 23:09:12 | [frob-land](https://crates.io/crates/frob-land) | 0.0.0 | 0 | Name reservation for frob-land, part of the frob workspace (Rust rewrite in pro… |
-| 2026-10-03 23:10:28 | [openkind-proto](https://crates.io/crates/openkind-proto) | 0.1.0 | 0 | Phase 1: gRPC/Protobuf wire types for openkind. |
-| 2026-10-03 23:15:28 | [atlasauth](https://crates.io/crates/atlasauth) | 0.1.0 | 0 | Official Atlas backend verification crate: local RS256 session-token verificati… |
-| 2026-10-03 23:16:58 | [frob-lease](https://crates.io/crates/frob-lease) | 0.0.0 | 0 | Name reservation for frob-lease, part of the frob workspace (Rust rewrite in pr… |
-| 2026-10-03 23:17:32 | [squeeze-lib](https://crates.io/crates/squeeze-lib) | 0.5.0 | 0 | Finders for URLs, emails, IPs, hashes, TODOs, and more in free-form text |
-| 2026-10-03 23:17:44 | [pluralkit](https://crates.io/crates/pluralkit) | 0.1.0 | 0 | A simple async client for the PluralKit Api |
-| 2026-10-03 23:17:54 | [squeeze-cli](https://crates.io/crates/squeeze-cli) | 0.5.0 | 0 | Extract URLs, emails, IPs, hashes, TODOs, and more from any text |
+| 2026-10-03 23:20:15 | [openkind-engine](https://crates.io/crates/openkind-engine) | 0.1.0 | 0 | DecisionEngine dispatch, mock inference, and immutable execution-profile contra… |
+| 2026-10-03 23:27:04 | [frob-ledger](https://crates.io/crates/frob-ledger) | 0.0.0 | 0 | Name reservation for frob-ledger, part of the frob workspace (Rust rewrite in p… |
+| 2026-10-03 23:27:54 | [maploom-maplibre](https://crates.io/crates/maploom-maplibre) | 0.1.0 | 0 | MapLibre layer and filter JSON adapters for Maploom |
+| 2026-10-03 23:28:05 | [maploom-pdf](https://crates.io/crates/maploom-pdf) | 0.1.0 | 0 | Render vector tiles to PDF using typed Maploom drawing rules |
+| 2026-10-03 23:30:16 | [openkind-runtime](https://crates.io/crates/openkind-runtime) | 0.1.0 | 0 | Hardware discovery, execution limits, and backend-neutral branch-state runtime. |
+| 2026-10-03 23:31:37 | [fig-sys-ios-arm64](https://crates.io/crates/fig-sys-ios-arm64) | 5.2.0 | 0 | Prebuilt libfig.a (default features) for aarch64-apple-ios. Support crate for f… |
+| 2026-10-03 23:31:40 | [fig-sys-ios-arm64-sim](https://crates.io/crates/fig-sys-ios-arm64-sim) | 5.2.0 | 0 | Prebuilt libfig.a (default features) for aarch64-apple-ios-sim. Support crate f… |
+| 2026-10-03 23:37:04 | [frob-obligations](https://crates.io/crates/frob-obligations) | 0.0.0 | 0 | Name reservation for frob-obligations, part of the frob workspace (Rust rewrite… |
+| 2026-10-03 23:40:31 | [openkind-api](https://crates.io/crates/openkind-api) | 0.1.0 | 0 | Phase 1: HTTP (axum) and gRPC (tonic) protocol layer for openkind. |
+| 2026-10-03 23:44:53 | [luma_layout](https://crates.io/crates/luma_layout) | 0.1.0 | 0 | Pure, standalone, high-performance layout engine supporting CSS Grid, Flexbox,… |
+| 2026-10-03 23:45:36 | [luma_style](https://crates.io/crates/luma_style) | 0.1.0 | 0 | Theme, embedded typography, vector icons, gradients, and shadows for Luma. |
+| 2026-10-03 23:46:13 | [luma_engine](https://crates.io/crates/luma_engine) | 0.1.0 | 0 | Layout and SDF render engine for Luma. |
+| 2026-10-03 23:46:55 | [luma_interaction](https://crates.io/crates/luma_interaction) | 0.1.0 | 0 | Interaction, spatial focus, and picking backend for Luma. |
+| 2026-10-03 23:47:05 | [frob-pm](https://crates.io/crates/frob-pm) | 0.0.0 | 0 | Name reservation for frob-pm, part of the frob workspace (Rust rewrite in progr… |
+| 2026-10-03 23:47:57 | [bevy_luma](https://crates.io/crates/bevy_luma) | 0.1.0 | 0 | A high-performance, SDF-based hybrid world-space UI framework for the Bevy game… |
+| 2026-10-03 23:51:11 | [openkind-backends](https://crates.io/crates/openkind-backends) | 0.1.0 | 0 | Native model backends and parity-checked decision readouts for OpenKind. |
+| 2026-10-03 23:57:02 | [frob-release](https://crates.io/crates/frob-release) | 0.0.0 | 0 | Name reservation for frob-release, part of the frob workspace (Rust rewrite in… |
+| 2026-10-04 00:00:31 | [openkind-cli](https://crates.io/crates/openkind-cli) | 0.1.0 | 0 | Phase 1: `openkind` command-line tool — serve, evaluate, inspect, version. |
+| 2026-10-04 00:07:05 | [frob-tests](https://crates.io/crates/frob-tests) | 0.0.0 | 0 | Name reservation for frob-tests, part of the frob workspace (Rust rewrite in pr… |
+| 2026-10-04 00:11:00 | [openkind-bench](https://crates.io/crates/openkind-bench) | 0.1.0 | 0 | Offline scoring and timing benchmark harness for openkind engines. |
+| 2026-10-04 00:13:20 | [domhringr](https://crates.io/crates/domhringr) | 0.0.0 | 0 | Driver for the domhringr factory toolchain |
+| 2026-10-04 00:15:52 | [aprender-update](https://crates.io/crates/aprender-update) | 0.70.1 | 0 | Update check and self-update for sovereign binaries: newer of release and green… |
+| 2026-10-04 00:16:32 | [aprender-build-sha](https://crates.io/crates/aprender-build-sha) | 0.70.1 | 0 | Build-script helper that stamps APR_GIT_SHA into every aprender binary's --vers… |
+| 2026-10-04 00:17:09 | [frob-worktree](https://crates.io/crates/frob-worktree) | 0.0.0 | 0 | Name reservation for frob-worktree, part of the frob workspace (Rust rewrite in… |
 
 ## Data source
 

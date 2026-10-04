@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-03T23:20:15.315101Z,openkind-engine,0.1.0,0,0,https://github.com/whit3rabbit/openkind,"DecisionEngine dispatch, mock inference, and immutable execution-profile contracts."
+2026-10-03T23:27:04.317087Z,frob-ledger,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for frob-ledger, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-03T23:27:54.240997Z,maploom-maplibre,0.1.0,0,0,https://gitlab.com/yamaura/timezone-map,MapLibre layer and filter JSON adapters for Maploom
+2026-10-03T23:28:05.838245Z,maploom-pdf,0.1.0,0,0,https://gitlab.com/yamaura/timezone-map,Render vector tiles to PDF using typed Maploom drawing rules
+2026-10-03T23:30:16.496554Z,openkind-runtime,0.1.0,0,0,https://github.com/whit3rabbit/openkind,"Hardware discovery, execution limits, and backend-neutral branch-state runtime."
+2026-10-03T23:31:37.805647Z,fig-sys-ios-arm64,5.2.0,0,0,https://github.com/diaryx-org/fig,Prebuilt libfig.a (default features) for aarch64-apple-ios. Support crate for fig-sys; not for direct use.
+2026-10-03T23:31:40.622372Z,fig-sys-ios-arm64-sim,5.2.0,0,0,https://github.com/diaryx-org/fig,Prebuilt libfig.a (default features) for aarch64-apple-ios-sim. Support crate for fig-sys; not for direct use.
+2026-10-03T23:37:04.757366Z,frob-obligations,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for frob-obligations, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-03T23:40:31.989486Z,openkind-api,0.1.0,0,0,https://github.com/whit3rabbit/openkind,Phase 1: HTTP (axum) and gRPC (tonic) protocol layer for openkind.
+2026-10-03T23:44:53.828152Z,luma_layout,0.1.0,0,0,https://github.com/Abdellah-Haffout/bevy_luma,"Pure, standalone, high-performance layout engine supporting CSS Grid, Flexbox, and Radial layouts for Luma."
+2026-10-03T23:45:36.982186Z,luma_style,0.1.0,0,0,https://github.com/Abdellah-Haffout/bevy_luma,"Theme, embedded typography, vector icons, gradients, and shadows for Luma."
+2026-10-03T23:46:13.818241Z,luma_engine,0.1.0,0,0,https://github.com/Abdellah-Haffout/bevy_luma,Layout and SDF render engine for Luma.
+2026-10-03T23:46:55.404099Z,luma_interaction,0.1.0,0,0,https://github.com/Abdellah-Haffout/bevy_luma,"Interaction, spatial focus, and picking backend for Luma."
+2026-10-03T23:47:05.694862Z,frob-pm,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for frob-pm, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-03T23:47:57.809273Z,bevy_luma,0.1.0,0,0,https://github.com/Abdellah-Haffout/bevy_luma,"A high-performance, SDF-based hybrid world-space UI framework for the Bevy game engine."
+2026-10-03T23:51:11.623758Z,openkind-backends,0.1.0,0,0,https://github.com/whit3rabbit/openkind,Native model backends and parity-checked decision readouts for OpenKind.
+2026-10-03T23:57:02.642942Z,frob-release,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for frob-release, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T00:00:31.963064Z,openkind-cli,0.1.0,0,0,https://github.com/whit3rabbit/openkind,"Phase 1: `openkind` command-line tool — serve, evaluate, inspect, version."
+2026-10-04T00:07:05.477155Z,frob-tests,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for frob-tests, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T00:11:00.973844Z,openkind-bench,0.1.0,0,0,https://github.com/whit3rabbit/openkind,Offline scoring and timing benchmark harness for openkind engines.
+2026-10-04T00:13:20.542422Z,domhringr,0.0.0,0,0,,Driver for the domhringr factory toolchain
+2026-10-04T00:15:52.116402Z,aprender-update,0.70.1,0,0,https://github.com/paiml/aprender,"Update check and self-update for sovereign binaries: newer of release and green nightly, sha256-verified, atomic swap"
+2026-10-04T00:16:32.099463Z,aprender-build-sha,0.70.1,0,0,https://github.com/paiml/aprender,Build-script helper that stamps APR_GIT_SHA into every aprender binary's --version
+2026-10-04T00:17:09.145701Z,frob-worktree,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for frob-worktree, part of the frob workspace (Rust rewrite in progress; real releases follow)."
