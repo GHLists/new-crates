@@ -8,38 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 00:19 UTC
+## Latest list — 2026-10-04 01:18 UTC
 
-New crates published between 2026-10-03 23:18 UTC and 2026-10-04 00:19 UTC.
+New crates published between 2026-10-04 00:19 UTC and 2026-10-04 01:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-04T00-19-06-613805Z.csv)
+[Full CSV](data/new-crates-2026-10-04T01-18-54-134659Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-03 23:20:15 | [openkind-engine](https://crates.io/crates/openkind-engine) | 0.1.0 | 0 | DecisionEngine dispatch, mock inference, and immutable execution-profile contra… |
-| 2026-10-03 23:27:04 | [frob-ledger](https://crates.io/crates/frob-ledger) | 0.0.0 | 0 | Name reservation for frob-ledger, part of the frob workspace (Rust rewrite in p… |
-| 2026-10-03 23:27:54 | [maploom-maplibre](https://crates.io/crates/maploom-maplibre) | 0.1.0 | 0 | MapLibre layer and filter JSON adapters for Maploom |
-| 2026-10-03 23:28:05 | [maploom-pdf](https://crates.io/crates/maploom-pdf) | 0.1.0 | 0 | Render vector tiles to PDF using typed Maploom drawing rules |
-| 2026-10-03 23:30:16 | [openkind-runtime](https://crates.io/crates/openkind-runtime) | 0.1.0 | 0 | Hardware discovery, execution limits, and backend-neutral branch-state runtime. |
-| 2026-10-03 23:31:37 | [fig-sys-ios-arm64](https://crates.io/crates/fig-sys-ios-arm64) | 5.2.0 | 0 | Prebuilt libfig.a (default features) for aarch64-apple-ios. Support crate for f… |
-| 2026-10-03 23:31:40 | [fig-sys-ios-arm64-sim](https://crates.io/crates/fig-sys-ios-arm64-sim) | 5.2.0 | 0 | Prebuilt libfig.a (default features) for aarch64-apple-ios-sim. Support crate f… |
-| 2026-10-03 23:37:04 | [frob-obligations](https://crates.io/crates/frob-obligations) | 0.0.0 | 0 | Name reservation for frob-obligations, part of the frob workspace (Rust rewrite… |
-| 2026-10-03 23:40:31 | [openkind-api](https://crates.io/crates/openkind-api) | 0.1.0 | 0 | Phase 1: HTTP (axum) and gRPC (tonic) protocol layer for openkind. |
-| 2026-10-03 23:44:53 | [luma_layout](https://crates.io/crates/luma_layout) | 0.1.0 | 0 | Pure, standalone, high-performance layout engine supporting CSS Grid, Flexbox,… |
-| 2026-10-03 23:45:36 | [luma_style](https://crates.io/crates/luma_style) | 0.1.0 | 0 | Theme, embedded typography, vector icons, gradients, and shadows for Luma. |
-| 2026-10-03 23:46:13 | [luma_engine](https://crates.io/crates/luma_engine) | 0.1.0 | 0 | Layout and SDF render engine for Luma. |
-| 2026-10-03 23:46:55 | [luma_interaction](https://crates.io/crates/luma_interaction) | 0.1.0 | 0 | Interaction, spatial focus, and picking backend for Luma. |
-| 2026-10-03 23:47:05 | [frob-pm](https://crates.io/crates/frob-pm) | 0.0.0 | 0 | Name reservation for frob-pm, part of the frob workspace (Rust rewrite in progr… |
-| 2026-10-03 23:47:57 | [bevy_luma](https://crates.io/crates/bevy_luma) | 0.1.0 | 0 | A high-performance, SDF-based hybrid world-space UI framework for the Bevy game… |
-| 2026-10-03 23:51:11 | [openkind-backends](https://crates.io/crates/openkind-backends) | 0.1.0 | 0 | Native model backends and parity-checked decision readouts for OpenKind. |
-| 2026-10-03 23:57:02 | [frob-release](https://crates.io/crates/frob-release) | 0.0.0 | 0 | Name reservation for frob-release, part of the frob workspace (Rust rewrite in… |
-| 2026-10-04 00:00:31 | [openkind-cli](https://crates.io/crates/openkind-cli) | 0.1.0 | 0 | Phase 1: `openkind` command-line tool — serve, evaluate, inspect, version. |
-| 2026-10-04 00:07:05 | [frob-tests](https://crates.io/crates/frob-tests) | 0.0.0 | 0 | Name reservation for frob-tests, part of the frob workspace (Rust rewrite in pr… |
-| 2026-10-04 00:11:00 | [openkind-bench](https://crates.io/crates/openkind-bench) | 0.1.0 | 0 | Offline scoring and timing benchmark harness for openkind engines. |
-| 2026-10-04 00:13:20 | [domhringr](https://crates.io/crates/domhringr) | 0.0.0 | 0 | Driver for the domhringr factory toolchain |
-| 2026-10-04 00:15:52 | [aprender-update](https://crates.io/crates/aprender-update) | 0.70.1 | 0 | Update check and self-update for sovereign binaries: newer of release and green… |
-| 2026-10-04 00:16:32 | [aprender-build-sha](https://crates.io/crates/aprender-build-sha) | 0.70.1 | 0 | Build-script helper that stamps APR_GIT_SHA into every aprender binary's --vers… |
-| 2026-10-04 00:17:09 | [frob-worktree](https://crates.io/crates/frob-worktree) | 0.0.0 | 0 | Name reservation for frob-worktree, part of the frob workspace (Rust rewrite in… |
+| 2026-10-04 00:19:12 | [tcslog](https://crates.io/crates/tcslog) | 0.2.2 | 0 | Onboard telemetry logging into segment files, with recovery from lost or damage… |
+| 2026-10-04 00:20:16 | [openkind-client](https://crates.io/crates/openkind-client) | 0.1.0 | 0 | Async Rust client for the openkind / TypeSafe Jev SystemOne HTTP API. |
+| 2026-10-04 00:27:03 | [gob-cache](https://crates.io/crates/gob-cache) | 0.0.0 | 0 | Name reservation for gob-cache, part of the frob workspace (Rust rewrite in pro… |
+| 2026-10-04 00:31:04 | [openkind-server](https://crates.io/crates/openkind-server) | 0.1.0 | 0 | Phase 1: openkindd — the daemon combining HTTP, gRPC, config, tracing, and grac… |
+| 2026-10-04 00:31:15 | [tjcli](https://crates.io/crates/tjcli) | 0.1.2 | 0 | A lightning-fast CLI scaffolding tool to instantly generate Spring Boot 4 + Thy… |
+| 2026-10-04 00:32:48 | [godmode-cli](https://crates.io/crates/godmode-cli) | 0.8.1 | 0 | CLI for godmode: task graph management, parallel agent dispatch, session handof… |
+| 2026-10-04 00:33:07 | [tcslog-tools](https://crates.io/crates/tcslog-tools) | 0.1.1 | 0 | Command-line tools for inspecting tcslog segment files: tcslog-dump and tcslog-… |
+| 2026-10-04 00:35:34 | [sootmark-collector](https://crates.io/crates/sootmark-collector) | 0.1.1 | 0 | A forensic triage collector for Windows: reads NTFS raw (locked files, $MFT, $U… |
+| 2026-10-04 00:36:55 | [rok-ui-build](https://crates.io/crates/rok-ui-build) | 0.7.0 | 0 | Build-script support for rok-ui: file-based routes generated from src/routes. |
+| 2026-10-04 00:36:56 | [rok-ui-grammar](https://crates.io/crates/rok-ui-grammar) | 0.7.0 | 0 | Parsing and code generation behind rok-ui's macros, as a testable library. |
+| 2026-10-04 00:37:00 | [rok-ui-cli](https://crates.io/crates/rok-ui-cli) | 0.7.0 | 0 | cargo rok-ui: create rok-ui apps, vendor components and write route trees. |
+| 2026-10-04 00:37:06 | [gob-check](https://crates.io/crates/gob-check) | 0.0.0 | 0 | Name reservation for gob-check, part of the frob workspace (Rust rewrite in pro… |
+| 2026-10-04 00:38:22 | [tuassiff](https://crates.io/crates/tuassiff) | 0.1.0 | 0 | Tuassiff is a bespoke, unoptimized, custom binary image serialization file form… |
+| 2026-10-04 00:47:04 | [gob-cli](https://crates.io/crates/gob-cli) | 0.0.0 | 0 | Name reservation for gob-cli, part of the frob workspace (Rust rewrite in progr… |
+| 2026-10-04 00:52:09 | [lumenkit-match](https://crates.io/crates/lumenkit-match) | 0.1.0 | 0 | Fuzzy text matching with pinyin for lumenkit and Vesper: 'wx', 'weixin' and '微x… |
+| 2026-10-04 00:55:38 | [diescope](https://crates.io/crates/diescope) | 0.0.1 | 0 | See what your silicon is actually doing. Chip-level utilization for GPUs, CPUs,… |
+| 2026-10-04 00:57:06 | [gob-config](https://crates.io/crates/gob-config) | 0.0.0 | 0 | Name reservation for gob-config, part of the frob workspace (Rust rewrite in pr… |
+| 2026-10-04 01:07:06 | [gob-diagnostics](https://crates.io/crates/gob-diagnostics) | 0.0.0 | 0 | Name reservation for gob-diagnostics, part of the frob workspace (Rust rewrite… |
+| 2026-10-04 01:10:17 | [nonlinear-filters](https://crates.io/crates/nonlinear-filters) | 0.1.0 | 0 | Sigma-point nonlinear filters with adaptive, gating, consider-covariance and mu… |
+| 2026-10-04 01:17:03 | [gob-directives](https://crates.io/crates/gob-directives) | 0.0.0 | 0 | Name reservation for gob-directives, part of the frob workspace (Rust rewrite i… |
 
 ## Data source
 

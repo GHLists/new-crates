@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T00:19:12.940909Z,tcslog,0.2.2,0,0,https://github.com/vomlehn/tcslog,"Onboard telemetry logging into segment files, with recovery from lost or damaged segments: for spacecraft, autonomous underwater vehicles, buoys, balloons, and other vehicles whose contact is intermi…"
+2026-10-04T00:20:16.171283Z,openkind-client,0.1.0,0,0,https://github.com/whit3rabbit/openkind,Async Rust client for the openkind / TypeSafe Jev SystemOne HTTP API.
+2026-10-04T00:27:03.039761Z,gob-cache,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-cache, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T00:31:04.819157Z,openkind-server,0.1.0,0,0,https://github.com/whit3rabbit/openkind,"Phase 1: openkindd — the daemon combining HTTP, gRPC, config, tracing, and graceful shutdown."
+2026-10-04T00:31:15.854581Z,tjcli,0.1.2,0,0,https://github.com,A lightning-fast CLI scaffolding tool to instantly generate Spring Boot 4 + Thymeleaf + Tailwind CSS v4 + Vite + TypeScript projects.
+2026-10-04T00:32:48.696703Z,godmode-cli,0.8.1,0,0,https://github.com/89jobrien/godmode,"CLI for godmode: task graph management, parallel agent dispatch, session handoff, and release automation."
+2026-10-04T00:33:07.725603Z,tcslog-tools,0.1.1,0,0,https://github.com/vomlehn/tcslog-tools,Command-line tools for inspecting tcslog segment files: tcslog-dump and tcslog-dumphdr
+2026-10-04T00:35:34.187385Z,sootmark-collector,0.1.1,0,0,https://github.com/Sootmark/collector,"A forensic triage collector for Windows: reads NTFS raw (locked files, $MFT, $UsnJrnl, hives with their logs) and streams what a plan names into one zip with a hashed manifest. Open source, so what r…"
+2026-10-04T00:36:55.213265Z,rok-ui-build,0.7.0,0,0,https://github.com/ateeq1999/rok-ui,Build-script support for rok-ui: file-based routes generated from src/routes.
+2026-10-04T00:36:56.846789Z,rok-ui-grammar,0.7.0,0,0,https://github.com/ateeq1999/rok-ui,"Parsing and code generation behind rok-ui's macros, as a testable library."
+2026-10-04T00:37:00.915247Z,rok-ui-cli,0.7.0,0,0,https://github.com/ateeq1999/rok-ui,"cargo rok-ui: create rok-ui apps, vendor components and write route trees."
+2026-10-04T00:37:06.060723Z,gob-check,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-check, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T00:38:22.679192Z,tuassiff,0.1.0,0,0,https://github.com/TaXi0k/tuassiff,"Tuassiff is a bespoke, unoptimized, custom binary image serialization file format."
+2026-10-04T00:47:04.67176Z,gob-cli,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-cli, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T00:52:09.252901Z,lumenkit-match,0.1.0,0,0,https://github.com/plainote/vesper,"Fuzzy text matching with pinyin for lumenkit and Vesper: 'wx', 'weixin' and '微xin' all find 微信. No UI toolkit, no I/O."
+2026-10-04T00:55:38.541277Z,diescope,0.0.1,0,0,https://github.com/diescope/diescope,"See what your silicon is actually doing. Chip-level utilization for GPUs, CPUs, and Apple silicon."
+2026-10-04T00:57:06.792152Z,gob-config,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-config, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T01:07:06.433108Z,gob-diagnostics,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-diagnostics, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-04T01:10:17.72917Z,nonlinear-filters,0.1.0,0,0,https://git.rcjohnstone.com/connor/nonlinear-filters,"Sigma-point nonlinear filters with adaptive, gating, consider-covariance and multiple-model variants, plus consistency diagnostics."
+2026-10-04T01:17:03.831579Z,gob-directives,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-directives, part of the frob workspace (Rust rewrite in progress; real releases follow)."
