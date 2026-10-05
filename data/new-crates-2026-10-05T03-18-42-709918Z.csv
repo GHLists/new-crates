@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T02:32:16.039245Z,urna-engine,0.5.4,0,0,https://github.com/hoffresearch/urna,"Memory-mapped search engine of the Urna vector database: SIMD exact search, HNSW, BM25, graph and hybrid search with a mandatory exact rerank"
+2026-10-05T02:38:02.074389Z,bpm-key,0.1.0,0,0,https://github.com/RootInit/bpm-key,"Tempo (BPM) and musical key detection for audio, with loudness and timbre descriptors, in pure Rust"
+2026-10-05T02:39:18.450985Z,oxideav-image,0.0.1,0,0,https://github.com/OxideAV/oxideav-image,"Image gateway for the oxideav framework — open, decode, convert and save still images and image sequences through the registered format crates, raw RGB / RGBA Vec<u8> in and out"
+2026-10-05T02:45:55.509677Z,tauri-plugin-window-integration,0.1.1,0,0,https://github.com/NickvisionApps/tauri-plugin-window-integration,"Native window-chrome integration (accent color, vibrancy, Windows 11 snap layout, Linux titlebar buttons) for Tauri 2 desktop apps."
+2026-10-05T02:49:22.671739Z,ntcp,0.0.1,0,0,https://github.com/minhuw/ntcp,"A standards-first, event-driven TCP stack in Rust (early development; not yet implemented)"
+2026-10-05T02:49:29.104785Z,darudb-derive,1.0.0,0,0,https://github.com/jooy2/darudb,"The derive macros of DaruDB, `#[derive(Object)]` and `#[derive(Embedded)]`, which the `darudb` crate re-exports with its `derive` feature."
+2026-10-05T02:49:30.978745Z,darudb,1.0.0,0,0,https://github.com/jooy2/darudb,An embedded database that keeps an application's data in one local file.
+2026-10-05T02:49:52.352643Z,nagoya-kotsu-cli,0.1.0,0,0,https://github.com/suzuuuuu09/nagoya-kotsu-cli,名古屋市交通局の市バス・地下鉄情報を取得するCLI
+2026-10-05T02:55:21.946977Z,dig2browser-core,0.5.3,0,0,https://github.com/ZENG3LD/dig2browser,Runtime capability truth and negotiation for dig2browser
+2026-10-05T02:55:32.545727Z,dig2browser-protocol,0.5.3,0,0,https://github.com/ZENG3LD/dig2browser,Lightweight versioned IPC contract for dig2browser services
+2026-10-05T02:55:57.103283Z,dig2browser-probe,0.5.3,0,0,https://github.com/ZENG3LD/dig2browser,Controlled-origin browser persona observation transcript contract
+2026-10-05T02:56:12.331174Z,dig2browser-shape,0.5.3,0,0,https://github.com/ZENG3LD/dig2browser,"Declarative output-shaping extractor engine for dig2browser (Phase C, axis 7)"
+2026-10-05T02:56:19.293564Z,dig2browser-trace,0.5.3,0,0,https://github.com/ZENG3LD/dig2browser,Crash-safe trace and artifact ledger for dig2browser collections
+2026-10-05T03:05:54.271094Z,dig2browser-client,0.5.3,0,0,https://github.com/ZENG3LD/dig2browser,Versioned local IPC client for dig2browser-station
+2026-10-05T03:08:09.967347Z,lightningcss-compact,0.1.0,0,0,https://github.com/eng-manager-xyz/lightningcss-compact,"Cascade-preserving, compression-driven class and declaration factoring for Lightning CSS"
+2026-10-05T03:15:57.344495Z,dig2browser-runtime-lightweight,0.5.3,0,0,https://github.com/ZENG3LD/dig2browser,Bounded static-document runtime for dig2browser
