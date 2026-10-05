@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T21:27:03.096606Z,gametorch,0.1.1,0,0,https://github.com/gametorch/gametorch-rs,"Official async Rust SDK for the GameTorch API: generate game-ready sprites, sound effects and animations."
+2026-10-05T21:28:48.674037Z,ironcrypto,0.2.8,0,0,https://github.com/nervosys/IronCrypto,"Agentic-first, FIPS-oriented, pure-Rust cryptography with a machine-readable ontology"
+2026-10-05T21:32:59.59131Z,gametorch-cli,0.1.0,0,0,https://github.com/gametorch/gametorch-rs,"Command-line interface for GameTorch, wrapping the official Rust SDK."
+2026-10-05T21:33:05.320508Z,gtor-macro,0.1.0,0,0,https://github.com/knonderful/gtor,Ergonomic stackless generators in stable Rust.
+2026-10-05T21:33:07.51453Z,gtor,0.1.0,0,0,https://github.com/knonderful/gtor,Ergonomic stackless generators in stable Rust.
+2026-10-05T21:39:57.85714Z,leviathan-index,0.1.0,0,0,https://github.com/elstongun/leviathan,"Deep memory for agents over large datasets: index JSONL, CSV, SQLite or any database export once, answer with a few ranked, cited records in about five hundred tokens. CLI + MCP server."
+2026-10-05T21:40:15.308222Z,cgs,0.1.1,0,0,,a ui library for macos
+2026-10-05T21:50:43.593764Z,veks-simd,2.3.0,0,0,https://github.com/nosqlbench/vectordata-rs,"Pure-Rust SIMD distance, query-batch and f16 conversion kernels for vectordata and veks, with runtime ISA dispatch"
+2026-10-05T21:53:09.563464Z,onebudgetspec-core,0.1.0,0,0,https://github.com/nickderobertis/onebudgetspec,"Register measurable budgets in YAML and gate on them: load, discover, select, measure and report."
+2026-10-05T21:53:19.255663Z,onebudgetspec,0.1.0,0,0,https://github.com/nickderobertis/onebudgetspec,"The onebudgetspec command line: check, validate and list the budgets registered in budgets.yaml files."
+2026-10-05T21:58:28.225121Z,zerodb-core,0.2.0,0,0,https://github.com/qdequele/ZeroDB,"ZeroDB engine core: copy-on-write B+tree pages, MVCC transactions, free-page GC and a lock-free reader table. No I/O policy."
+2026-10-05T21:58:30.245556Z,zerodb-io,0.2.0,0,0,https://github.com/qdequele/ZeroDB,"ZeroDB I/O layer: memory-mapped reads, pwrite/pwritev commit backends and fsync strategies."
+2026-10-05T21:58:31.750049Z,zerodb,0.2.0,0,0,https://github.com/qdequele/ZeroDB,"A pure-Rust, transactional, memory-mapped key-value engine with LMDB parity behind the heed API and no C dependency."
+2026-10-05T21:58:33.649469Z,zerodb-tools,0.2.0,0,0,https://github.com/qdequele/ZeroDB,"Offline utilities for ZeroDB environments: stat, dump, load, check and migrate-from-lmdb."
+2026-10-05T22:00:06.806585Z,mcpmem-extractor,3.0.0,0,0,https://github.com/abankowski/mcpmem,Durable attachment extraction worker for the mcpmem MCP server: UTF-8 text decoding and Poppler-rendered PDF OCR through a vision endpoint.
+2026-10-05T22:00:34.324528Z,smeltery-mold,0.1.0,0,0,https://github.com/smelteryworks/smeltery,"Mold, the template engine of the Smeltery framework: `@`-directive templates with layouts, components and hot reload."
+2026-10-05T22:00:49.221497Z,smeltery-mold-macros,0.1.0,0,0,https://github.com/smelteryworks/smeltery,The #[derive(Mold)] macro of the Smeltery framework: compiles Mold templates to Rust at build time.
+2026-10-05T22:01:08.854682Z,smeltery-macros,0.1.0,0,0,https://github.com/smelteryworks/smeltery,"Derive macros of the Smeltery framework: #[derive(Validate)] for form validation, #[derive(Spark)] and #[actions] for Sparks live components, #[derive(Alloy)] for Alloy (Inertia) pages, #[derive(Broa…"
+2026-10-05T22:01:50.035278Z,smeltery-core,0.1.0,0,0,https://github.com/smelteryworks/smeltery,"The kernel of the Smeltery framework: routing, config, the app container, errors, the database layer (models, migrations, seeders, factories) and the console kernel."
+2026-10-05T22:02:53.777972Z,fabrial,0.1.0,0,0,https://opendev.org/inaugust/fabrial,A Rust-based automation tool.
+2026-10-05T22:03:11.410011Z,smeltery-temper,0.1.0,0,0,https://github.com/smelteryworks/smeltery,"Temper, the authentication flows of the Smeltery framework: login, logout, registration, password reset, email verification, password confirmation and profile and password updates as routes, with app…"
+2026-10-05T22:05:31.833974Z,warp-rs,0.1.0,0,0,https://github.com/jjcfrancisco/warp-rs,"Raster warping and resampling in Rust. Arrays in, arrays out."
+2026-10-05T22:08:50.048446Z,argv-todo,0.1.0,0,0,https://github.com/argv-tech/argv-todo,"A Vim-style terminal todo manager with nested tasks, priorities, search, and local SQLite storage"
+2026-10-05T22:12:31.729266Z,stellar-agent-soroban-auth,0.1.0-alpha.10,0,0,https://github.com/Soneso/stellar-agent-wallet,CAP-71 Soroban authorization-entry preimage builder and signature-payload hashing for the Stellar agent wallet. Internal to the stellar-agent workspace; no API stability promise.
+2026-10-05T22:14:03.278979Z,tectonic_markdown,0.1.0,0,0,https://github.com/cpmech/tectonic-markdown,"Compile Markdown documents containing TeX math, citations, and cross-references to PDF, using the Tectonic engine as a library."
+2026-10-05T22:15:43.009935Z,smeltery-mail,0.1.0,0,0,https://github.com/smelteryworks/smeltery,"Mail for the Smeltery framework: mail classes with Mold templates, an SMTP transport (lettre, rustls), a log transport and a fake for tests."
+2026-10-05T22:16:47.42533Z,muman,0.1.1,0,0,https://github.com/jeggao/muman,"Keep a music library in step with a song list, each song made from the best of its sources."

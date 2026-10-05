@@ -8,35 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 21:18 UTC
+## Latest list — 2026-10-05 22:18 UTC
 
-New crates published between 2026-10-05 20:18 UTC and 2026-10-05 21:18 UTC.
+New crates published between 2026-10-05 21:18 UTC and 2026-10-05 22:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-05T21-18-54-519877Z.csv)
+[Full CSV](data/new-crates-2026-10-05T22-18-39-45364Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-05 20:27:36 | [discord_intl_database_core](https://crates.io/crates/discord_intl_database_core) | 0.33.0 | 0 | A core database for managing intl messages, supporting CRUD for messages with a… |
-| 2026-10-05 20:44:13 | [arete-solana-contracts](https://crates.io/crates/arete-solana-contracts) | 0.2.0 | 0 | Versioned managed Solana read and discovery contracts |
-| 2026-10-05 20:47:03 | [ipbus](https://crates.io/crates/ipbus) | 0.4.0 | 0 | Ipbus hardware IO access library |
-| 2026-10-05 20:51:49 | [embedded-invsqrt-f32](https://crates.io/crates/embedded-invsqrt-f32) | 0.1.0 | 0 | Inverse de racine carrée f32 rapide pour no_std embarqué, testée sur Cortex-M33… |
-| 2026-10-05 20:54:22 | [servo-script-embedder](https://crates.io/crates/servo-script-embedder) | 0.7.0 | 0 | A component of the servo web-engine. |
-| 2026-10-05 21:01:34 | [keyless_json](https://crates.io/crates/keyless_json) | 0.33.0 | 0 | A Serde serializer that allows well-structured JSON to be minified into keyless… |
-| 2026-10-05 21:01:36 | [discord_intl_database_service](https://crates.io/crates/discord_intl_database_service) | 0.33.0 | 0 | Trait definition for services that operate on discord_intl_message_database ins… |
-| 2026-10-05 21:01:38 | [discord_intl_database_exporter](https://crates.io/crates/discord_intl_database_exporter) | 0.33.0 | 0 | Serialization utilities for exporting message database contents to other system… |
-| 2026-10-05 21:02:20 | [sedona-catalog](https://crates.io/crates/sedona-catalog) | 0.5.0 | 0 | Asynchronous catalog interfaces for Apache SedonaDB |
-| 2026-10-05 21:04:47 | [hopla](https://crates.io/crates/hopla) | 0.1.0 | 0 | A palette for your GitHub accounts and secrets, with a bunny in a top hat |
-| 2026-10-05 21:09:43 | [oneyaml-core](https://crates.io/crates/oneyaml-core) | 1.0.0 | 0 | Stable vocabulary of oneyaml (YAML 1.2): spans, diagnostic codes, diagnostics,… |
-| 2026-10-05 21:09:48 | [oneyaml-syntax](https://crates.io/crates/oneyaml-syntax) | 0.1.0 | 0 | Lossless YAML 1.2 decoder, parser, event stream, and syntax tree underneath one… |
-| 2026-10-05 21:09:57 | [oneyaml](https://crates.io/crates/oneyaml) | 1.0.0 | 0 | oneyaml — one core, one interpretation: serde + lossless editing for YAML 1.2. |
-| 2026-10-05 21:10:46 | [engram-parser](https://crates.io/crates/engram-parser) | 0.3.0 | 0 | Pure-Rust GGUF + Safetensors checkpoint/tensor substrate: format-independent te… |
-| 2026-10-05 21:12:27 | [blockle-core](https://crates.io/crates/blockle-core) | 0.1.0 | 0 | Core data structures for the Blockle blockchain: blocks, transactions, keys, ad… |
-| 2026-10-05 21:12:59 | [blockle-pow](https://crates.io/crates/blockle-pow) | 0.1.0 | 0 | Equihash proof-of-work and difficulty adjustment for the Blockle blockchain |
-| 2026-10-05 21:13:19 | [blockle-zk](https://crates.io/crates/blockle-zk) | 0.1.0 | 0 | Blockle shielded pool: STARK spend proofs (winterfell), Rescue note commitments… |
-| 2026-10-05 21:13:28 | [blockle-vm](https://crates.io/crates/blockle-vm) | 0.1.0 | 0 | Blockle VM scaffold: deterministic, gas-metered contract execution (milestone 2) |
-| 2026-10-05 21:14:11 | [blockle-chain](https://crates.io/crates/blockle-chain) | 0.1.0 | 0 | Consensus rules, chain state, and mining for the Blockle blockchain |
-| 2026-10-05 21:17:24 | [blockle-node](https://crates.io/crates/blockle-node) | 0.1.0 | 0 | Blockle node CLI: wallet, miner, and chain management |
-| 2026-10-05 21:17:45 | [sampo-forgejo-action](https://crates.io/crates/sampo-forgejo-action) | 0.1.0 | 0 | Forgejo Action runner for Sampo CLI (release/publish orchestrator) |
+| 2026-10-05 21:27:03 | [gametorch](https://crates.io/crates/gametorch) | 0.1.1 | 0 | Official async Rust SDK for the GameTorch API: generate game-ready sprites, sou… |
+| 2026-10-05 21:28:48 | [ironcrypto](https://crates.io/crates/ironcrypto) | 0.2.8 | 0 | Agentic-first, FIPS-oriented, pure-Rust cryptography with a machine-readable on… |
+| 2026-10-05 21:32:59 | [gametorch-cli](https://crates.io/crates/gametorch-cli) | 0.1.0 | 0 | Command-line interface for GameTorch, wrapping the official Rust SDK. |
+| 2026-10-05 21:33:05 | [gtor-macro](https://crates.io/crates/gtor-macro) | 0.1.0 | 0 | Ergonomic stackless generators in stable Rust. |
+| 2026-10-05 21:33:07 | [gtor](https://crates.io/crates/gtor) | 0.1.0 | 0 | Ergonomic stackless generators in stable Rust. |
+| 2026-10-05 21:39:57 | [leviathan-index](https://crates.io/crates/leviathan-index) | 0.1.0 | 0 | Deep memory for agents over large datasets: index JSONL, CSV, SQLite or any dat… |
+| 2026-10-05 21:40:15 | [cgs](https://crates.io/crates/cgs) | 0.1.1 | 0 | a ui library for macos |
+| 2026-10-05 21:50:43 | [veks-simd](https://crates.io/crates/veks-simd) | 2.3.0 | 0 | Pure-Rust SIMD distance, query-batch and f16 conversion kernels for vectordata… |
+| 2026-10-05 21:53:09 | [onebudgetspec-core](https://crates.io/crates/onebudgetspec-core) | 0.1.0 | 0 | Register measurable budgets in YAML and gate on them: load, discover, select, m… |
+| 2026-10-05 21:53:19 | [onebudgetspec](https://crates.io/crates/onebudgetspec) | 0.1.0 | 0 | The onebudgetspec command line: check, validate and list the budgets registered… |
+| 2026-10-05 21:58:28 | [zerodb-core](https://crates.io/crates/zerodb-core) | 0.2.0 | 0 | ZeroDB engine core: copy-on-write B+tree pages, MVCC transactions, free-page GC… |
+| 2026-10-05 21:58:30 | [zerodb-io](https://crates.io/crates/zerodb-io) | 0.2.0 | 0 | ZeroDB I/O layer: memory-mapped reads, pwrite/pwritev commit backends and fsync… |
+| 2026-10-05 21:58:31 | [zerodb](https://crates.io/crates/zerodb) | 0.2.0 | 0 | A pure-Rust, transactional, memory-mapped key-value engine with LMDB parity beh… |
+| 2026-10-05 21:58:33 | [zerodb-tools](https://crates.io/crates/zerodb-tools) | 0.2.0 | 0 | Offline utilities for ZeroDB environments: stat, dump, load, check and migrate-… |
+| 2026-10-05 22:00:06 | [mcpmem-extractor](https://crates.io/crates/mcpmem-extractor) | 3.0.0 | 0 | Durable attachment extraction worker for the mcpmem MCP server: UTF-8 text deco… |
+| 2026-10-05 22:00:34 | [smeltery-mold](https://crates.io/crates/smeltery-mold) | 0.1.0 | 0 | Mold, the template engine of the Smeltery framework: `@`-directive templates wi… |
+| 2026-10-05 22:00:49 | [smeltery-mold-macros](https://crates.io/crates/smeltery-mold-macros) | 0.1.0 | 0 | The #[derive(Mold)] macro of the Smeltery framework: compiles Mold templates to… |
+| 2026-10-05 22:01:08 | [smeltery-macros](https://crates.io/crates/smeltery-macros) | 0.1.0 | 0 | Derive macros of the Smeltery framework: #[derive(Validate)] for form validatio… |
+| 2026-10-05 22:01:50 | [smeltery-core](https://crates.io/crates/smeltery-core) | 0.1.0 | 0 | The kernel of the Smeltery framework: routing, config, the app container, error… |
+| 2026-10-05 22:02:53 | [fabrial](https://crates.io/crates/fabrial) | 0.1.0 | 0 | A Rust-based automation tool. |
+| 2026-10-05 22:03:11 | [smeltery-temper](https://crates.io/crates/smeltery-temper) | 0.1.0 | 0 | Temper, the authentication flows of the Smeltery framework: login, logout, regi… |
+| 2026-10-05 22:05:31 | [warp-rs](https://crates.io/crates/warp-rs) | 0.1.0 | 0 | Raster warping and resampling in Rust. Arrays in, arrays out. |
+| 2026-10-05 22:08:50 | [argv-todo](https://crates.io/crates/argv-todo) | 0.1.0 | 0 | A Vim-style terminal todo manager with nested tasks, priorities, search, and lo… |
+| 2026-10-05 22:12:31 | [stellar-agent-soroban-auth](https://crates.io/crates/stellar-agent-soroban-auth) | 0.1.0-alpha.10 | 0 | CAP-71 Soroban authorization-entry preimage builder and signature-payload hashi… |
+| 2026-10-05 22:14:03 | [tectonic_markdown](https://crates.io/crates/tectonic_markdown) | 0.1.0 | 0 | Compile Markdown documents containing TeX math, citations, and cross-references… |
+| 2026-10-05 22:15:43 | [smeltery-mail](https://crates.io/crates/smeltery-mail) | 0.1.0 | 0 | Mail for the Smeltery framework: mail classes with Mold templates, an SMTP tran… |
+| 2026-10-05 22:16:47 | [muman](https://crates.io/crates/muman) | 0.1.1 | 0 | Keep a music library in step with a song list, each song made from the best of… |
 
 ## Data source
 
