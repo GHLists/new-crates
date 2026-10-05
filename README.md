@@ -8,26 +8,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 08:19 UTC
+## Latest list — 2026-10-05 09:19 UTC
 
-New crates published between 2026-10-05 07:20 UTC and 2026-10-05 08:19 UTC.
+New crates published between 2026-10-05 08:19 UTC and 2026-10-05 09:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-05T08-19-51-310859Z.csv)
+[Full CSV](data/new-crates-2026-10-05T09-19-27-115881Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-05 07:25:22 | [parsyng-fallback](https://crates.io/crates/parsyng-fallback) | 0.1.0 | 0 | A pure-Rust implementation of the `proc_macro` token types, used by `parsyng` o… |
-| 2026-10-05 07:25:22 | [parsyng-proc-macros](https://crates.io/crates/parsyng-proc-macros) | 0.1.0 | 0 | Procedural macros used in `parsyng` |
-| 2026-10-05 07:25:22 | [parsyng-quote-macros](https://crates.io/crates/parsyng-quote-macros) | 0.1.0 | 0 | Quote macros used in `parsyng` |
-| 2026-10-05 07:32:41 | [parsyng-core](https://crates.io/crates/parsyng-core) | 0.1.0 | 0 | Core components of `parsyng` |
-| 2026-10-05 07:32:43 | [parsyng](https://crates.io/crates/parsyng) | 0.1.1 | 0 | An easy-to-use, fast-compiling replacement for `syn` + `quote` for writing proc… |
-| 2026-10-05 07:34:08 | [tc_chacha_aead](https://crates.io/crates/tc_chacha_aead) | 0.1.0 | 0 | ChaCha20-Poly1305 (RFC 8439) and XChaCha20-Poly1305 authenticated encryption, o… |
-| 2026-10-05 07:47:16 | [mppi-provider](https://crates.io/crates/mppi-provider) | 0.1.0 | 0 | MPPI provider payment runtime, protocol services and integration interfaces |
-| 2026-10-05 07:50:08 | [laser_tele](https://crates.io/crates/laser_tele) | 2.1.0 | 0 | Telegram Bot API library with async and blocking API: updates, messages, keyboa… |
-| 2026-10-05 08:03:02 | [arachne-kv-seam](https://crates.io/crates/arachne-kv-seam) | 0.1.0 | 0 | Arachne seam: the leaf crate holding the core value types and the injectable se… |
-| 2026-10-05 08:04:53 | [arachne-kv-transport-tonic](https://crates.io/crates/arachne-kv-transport-tonic) | 0.1.0 | 0 | Arachne tonic/rustls transport — the ONLY crate allowed to reference tonic/rust… |
-| 2026-10-05 08:05:43 | [arachne-kv](https://crates.io/crates/arachne-kv) | 0.1.0 | 0 | Arachne: transport-agnostic product core (consensus, WAL storage, KV state mach… |
-| 2026-10-05 08:16:01 | [multicriteria-dijkstra](https://crates.io/crates/multicriteria-dijkstra) | 0.1.0 | 0 | A generic multicriteria Dijkstra. |
+| 2026-10-05 08:20:11 | [furca-release](https://crates.io/crates/furca-release) | 0.3.0 | 0 | The release engine behind furca: reads release.toml and says what to release an… |
+| 2026-10-05 08:20:49 | [bake-markdown](https://crates.io/crates/bake-markdown) | 0.1.0 | 0 | Markdown normalization tasks for Bake |
+| 2026-10-05 08:47:53 | [bagger-hash](https://crates.io/crates/bagger-hash) | 0.1.0-beta.8 | 0 | Hashing library for bagger (scoop-rs) |
+| 2026-10-05 08:48:23 | [scoop-rs](https://crates.io/crates/scoop-rs) | 0.1.0-beta.8 | 0 | Rust library implementation of Scoop |
+| 2026-10-05 08:48:46 | [bagger](https://crates.io/crates/bagger) | 0.1.0-beta.8 | 0 | Bagger is a CLI implementation of Scoop in Rust |
+| 2026-10-05 08:54:18 | [esp-hal-procmacros-p4-pre-v3](https://crates.io/crates/esp-hal-procmacros-p4-pre-v3) | 0.22.0-p4v13.1 | 0 | Procedural macros for esp-hal |
+| 2026-10-05 08:55:49 | [esp-metadata-generated-p4-pre-v3](https://crates.io/crates/esp-metadata-generated-p4-pre-v3) | 0.4.0-p4v13.1 | 0 | Generated metadata for Espressif devices |
+| 2026-10-05 08:56:48 | [esp-riscv-rt-p4-pre-v3](https://crates.io/crates/esp-riscv-rt-p4-pre-v3) | 0.14.0-p4v13.1 | 0 | Minimal runtime / startup for RISC-V CPUs from Espressif |
+| 2026-10-05 08:59:35 | [esp-sync-p4-pre-v3](https://crates.io/crates/esp-sync-p4-pre-v3) | 0.2.1-p4v13.1 | 0 | Synchronization primitives for Espressif devices |
+| 2026-10-05 09:00:02 | [esp32-p4-pre-v3](https://crates.io/crates/esp32-p4-pre-v3) | 0.40.2-p4v13.1 | 0 | Peripheral access crate for the ESP32 |
+| 2026-10-05 09:02:34 | [inductive_miner](https://crates.io/crates/inductive_miner) | 0.1.0 | 0 | This is the implementation of Inductive Miner framework |
+| 2026-10-05 09:10:32 | [esp32p4-p4-pre-v3-5a07030](https://crates.io/crates/esp32p4-p4-pre-v3-5a07030) | 0.2.0-p4v13.1 | 0 | Peripheral access crate for the ESP32-P4 |
+| 2026-10-05 09:16:49 | [bloomrepo](https://crates.io/crates/bloomrepo) | 3.0.0 | 0 | Security-first repository discovery, monitoring, and authorized local static an… |
 
 ## Data source
 

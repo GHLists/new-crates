@@ -1,0 +1,14 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T08:20:11.804598Z,furca-release,0.3.0,0,0,https://github.com/lacodda/furca,The release engine behind furca: reads release.toml and says what to release and what stands in the way.
+2026-10-05T08:20:49.253398Z,bake-markdown,0.1.0,0,0,https://github.com/socketry/bake-markdown-rust,Markdown normalization tasks for Bake
+2026-10-05T08:47:53.651948Z,bagger-hash,0.1.0-beta.8,0,0,https://github.com/vincentmathis/bagger,Hashing library for bagger (scoop-rs)
+2026-10-05T08:48:23.772327Z,scoop-rs,0.1.0-beta.8,0,0,https://github.com/vincentmathis/bagger,Rust library implementation of Scoop
+2026-10-05T08:48:46.371507Z,bagger,0.1.0-beta.8,0,0,https://github.com/vincentmathis/bagger,Bagger is a CLI implementation of Scoop in Rust
+2026-10-05T08:54:18.981545Z,esp-hal-procmacros-p4-pre-v3,0.22.0-p4v13.1,0,0,https://github.com/esp-rs/esp-hal,Procedural macros for esp-hal
+2026-10-05T08:55:49.446924Z,esp-metadata-generated-p4-pre-v3,0.4.0-p4v13.1,0,0,https://github.com/esp-rs/esp-hal,Generated metadata for Espressif devices
+2026-10-05T08:56:48.703907Z,esp-riscv-rt-p4-pre-v3,0.14.0-p4v13.1,0,0,https://github.com/esp-rs/esp-hal,Minimal runtime / startup for RISC-V CPUs from Espressif
+2026-10-05T08:59:35.354565Z,esp-sync-p4-pre-v3,0.2.1-p4v13.1,0,0,https://github.com/esp-rs/esp-hal,Synchronization primitives for Espressif devices
+2026-10-05T09:00:02.277394Z,esp32-p4-pre-v3,0.40.2-p4v13.1,0,0,https://github.com/esp-rs/esp-pacs,Peripheral access crate for the ESP32
+2026-10-05T09:02:34.505629Z,inductive_miner,0.1.0,0,0,https://github.com/Agil1604/Inductive_miner,This is the implementation of Inductive Miner framework
+2026-10-05T09:10:32.890874Z,esp32p4-p4-pre-v3-5a07030,0.2.0-p4v13.1,0,0,https://github.com/esp-rs/esp-pacs,Peripheral access crate for the ESP32-P4
+2026-10-05T09:16:49.873145Z,bloomrepo,3.0.0,0,0,https://github.com/okba14/BloomRepo,"Security-first repository discovery, monitoring, and authorized local static analysis"
