@@ -1,0 +1,15 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T03:26:04.194711Z,dig2browser-station,0.5.3,0,0,https://github.com/ZENG3LD/dig2browser,Central resource owner and consumer facade for dig2browser runtimes
+2026-10-05T03:28:54.219606Z,debugslip,0.1.0,0,0,https://github.com/jay-tank/debugslip,"Flags a #[derive(Debug)] struct/enum with a sensitive-named field (password, secret, token, api_key, ssn, credit_card, ...) typed as a plain String/&str/Vec<u8> instead of a redacting wrapper — deriv…"
+2026-10-05T03:30:33.585941Z,space_vacant,0.0.0,0,0,,Reserved for future use.
+2026-10-05T03:30:36.538075Z,intomind-model,1.4.0,0,0,https://github.com/intomind/sdk,"The IntoMind on-device encoder, as a library: the device's arithmetic, exactly. The encoder's weights are not published."
+2026-10-05T03:30:37.032465Z,intomind-protocol,1.4.0,0,0,https://github.com/intomind/sdk,"The IntoMind BLE protocol: the wire format as code. no_std, no dependencies."
+2026-10-05T03:30:38.282926Z,intomind-capture,1.4.0,0,0,https://github.com/intomind/sdk,"The IntoMind capture format: what a recording is on disk, written so it can be read in fifty years."
+2026-10-05T03:30:38.777558Z,intomind-pipeline,1.4.0,0,0,https://github.com/intomind/sdk,"The IntoMind device's processing chain, as a library: the stage catalog, the rules a chain must meet at a rate, the filter design, and the per-sample run, from the same code the device runs."
+2026-10-05T03:30:39.99207Z,intomind,1.4.0,0,0,https://github.com/intomind/sdk,"The IntoMind instrument client: the protocol, the timebase, and the capture format, over any transport you already have."
+2026-10-05T03:40:28.87169Z,litevs-hnsw,0.1.0,0,0,,"HNSW vector index with generic IDs, filtered search, and parallel construction"
+2026-10-05T03:43:33.364581Z,phosphene,0.0.0,0,0,,"A real-time audio visualizer in pixel-perfect style, for the desktop and the browser. This release reserves the name."
+2026-10-05T04:02:14.079309Z,schemair,0.1.0,0,0,https://github.com/schemair/schemair,Rust implementation of the language-independent SchemaIR protocol
+2026-10-05T04:02:18.083786Z,rtmd,0.0.1,0,0,,...
+2026-10-05T04:18:33.192612Z,win-custody,0.1.0,0,0,https://github.com/115dkk/Win-Custody.rs,"Take custody of Windows child processes: exact handle inheritance, kill-on-close jobs, launches into another session's token, and SDDL-secured pipes. Not a sandbox."
+2026-10-05T04:20:02.821988Z,phos-models,0.0.0,0,0,https://github.com/ELEOptics/phos-core,"Placeholder for phos-models, part of phos-core, the ELE Optics optical physics engine. No code yet."
