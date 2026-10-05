@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T09:20:50.548965Z,esp32p4-p4-pre-v3-fc3e6d4,0.2.0-p4v13.1,0,0,https://github.com/esp-rs/esp-pacs,Peripheral access crate for the ESP32-P4
+2026-10-05T09:21:32.251583Z,artifactize,0.5.0,0,0,https://github.com/lhj6102/artifactize,"Declare Artifacts and the evals that review them (tests, LLM reviews, human sign-offs), and reuse every verdict while its fingerprints are unchanged."
+2026-10-05T09:27:27.252669Z,katana-render-runtime-assets,0.4.23,0,0,https://github.com/HiroyukiFuruno/katana-render-runtime,Static assets for the KatanA diagram render runtime.
+2026-10-05T09:31:15.594313Z,notation199x,0.2.0,0,0,https://github.com/raoh-project/notation-199x,"The rules for reading text that Raoh and Souther share: Unicode 18.0.0 case conversion and normalization, White_Space, order and length in scalar values, temporal text, and the pattern language"
+2026-10-05T09:34:45.159546Z,sping,1.5.4,0,0,https://github.com/LambdaBytes/sping,Terminal-native real-time connectivity monitor with network context diagnostics
+2026-10-05T09:34:58.758865Z,esp32s3-p4-pre-v3,0.35.2-p4v13.1,0,0,https://github.com/esp-rs/esp-pacs,Peripheral access crate for the ESP32-S3
+2026-10-05T09:38:29.308076Z,pdfops,0.2.0,0,0,https://github.com/KayZedd/pdfops,"Fast PDF operations with JSON output for AI agents: CLI, MCP server and library"
+2026-10-05T09:39:46.243883Z,rscsi-core,0.0.1,0,0,https://github.com/rscsi/rscsi,rscsi - core component
+2026-10-05T09:39:46.946338Z,rscsi-multipath,0.0.1,0,0,https://github.com/rscsi/rscsi,rscsi - multipath component
+2026-10-05T09:39:47.64874Z,rscsi-sbc,0.0.1,0,0,https://github.com/rscsi/rscsi,rscsi - SBC component
+2026-10-05T09:39:48.3533Z,rscsi-spc,0.0.1,0,0,https://github.com/rscsi/rscsi,rscsi - SPC component
+2026-10-05T09:39:49.206449Z,rscsi-transport,0.0.1,0,0,https://github.com/rscsi/rscsi,rscsi - generic transport component
+2026-10-05T09:41:35.656141Z,esp-config-p4-pre-v3,0.7.0-p4v13.1,0,0,https://github.com/esp-rs/esp-hal,Configure projects using esp-hal and related packages
+2026-10-05T09:42:03.747496Z,rscsi-util,0.0.1,0,0,https://github.com/rscsi/rscsi,rscsi - helper traits and utilities component
+2026-10-05T09:48:34.468245Z,simulcrypt,0.1.0,0,0,https://github.com/cesbo/simulcrypt,"DVB SimulCrypt (ETSI TS 103 197) head-end protocol: ECMG client, EMMG server, control words"
+2026-10-05T09:49:35.464948Z,esp-rom-sys-p4-pre-v3,0.1.4-p4v13.1,0,0,https://github.com/esp-rs/esp-hal,ROM code support
+2026-10-05T09:51:24.287696Z,rscsi-transport-iscsi,0.0.1,0,0,https://github.com/rscsi/rscsi,rscsi - iSCSI transport component
+2026-10-05T09:54:03.875167Z,bitspark-deixis-core,0.6.0,0,0,,deixis/core: the finite keyed tree Node(T) = T × (Bytes ⇀ Node(T)). The payload carries no bounds; equality is supplied at the call site.
+2026-10-05T09:54:06.199503Z,bitspark-deixis-pos,0.6.0,0,0,,"deixis-pos-v1: the spelling κ : ℕ → Bytes of positions into deixis keys — injective, prefix-free, order-preserving. A reading above the floor; depends on nothing, not even deixis-core."
+2026-10-05T10:01:07.035938Z,esp32s2-p4-pre-v3,0.31.2-p4v13.1,0,0,https://github.com/esp-rs/esp-pacs,Peripheral access crate for the ESP32-S2
+2026-10-05T10:02:35.39819Z,smplx-sdk-test,0.0.12,0,0,https://github.com/ikripaka/smplx,Simplex sdk to simplify the development with simplicity
+2026-10-05T10:02:47.763751Z,smplx-build-test,0.0.12,0,0,https://github.com/ikripaka/smplx,Simplex build command internal implementation
+2026-10-05T10:03:20.638727Z,smplx-regtest-test,0.0.12,0,0,https://github.com/ikripaka/smplx,Simplex regtest command internal implementation
+2026-10-05T10:03:56.806001Z,smplx-test-test,0.0.12,0,0,https://github.com/ikripaka/smplx,Simplex test command internal implementation
+2026-10-05T10:04:26.237825Z,smplx-macros-test,0.0.12,0,0,https://github.com/ikripaka/smplx,Simplex macros re-export package
+2026-10-05T10:09:12.955523Z,smplx-std-test,0.0.12,0,0,https://github.com/ikripaka/smplx,"A blazingly-fast, ux-first simplicity development framework"
+2026-10-05T10:09:27.773747Z,rscsi,0.0.1,0,0,https://github.com/rscsi/rscsi,rscsi - Rust SCSI framework
+2026-10-05T10:12:57.723772Z,esp-hal-p4-pre-v3,1.1.0-p4v13.1,0,0,https://github.com/esp-rs/esp-hal,Bare-metal HAL for Espressif devices
