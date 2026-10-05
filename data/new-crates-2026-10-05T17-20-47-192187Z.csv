@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T16:19:24.488523Z,zixcel-mcp-gateway,0.1.0,0,0,https://github.com/zixcel/zixcel-mcp-gateway,"Product-neutral, read-only stdio MCP runtime for approved public metadata"
+2026-10-05T16:20:15.881101Z,ihat-identity-assertion-contracts,0.10.0,0,0,https://github.com/hathq/ihat-identity-assertion-contracts,Closed device identity assertion contracts shared by iHAT consumers
+2026-10-05T16:20:18.659047Z,french-amount-words,0.1.0,0,0,https://github.com/prygrn/french-amount-words,"Écriture en toutes lettres des nombres et des montants en euros, en français (graphie traditionnelle)"
+2026-10-05T16:21:20.740688Z,basable-pubsub,0.1.0,0,0,https://github.com/basable/basable-rust-libs,"Cross-replica publish/subscribe over Postgres LISTEN/NOTIFY for basable nanoservices: one Bus per process multiplexes every logical channel over one listen connection, stamps each payload with its or…"
+2026-10-05T16:25:08.531145Z,fission-devtools,0.15.1,0,0,https://github.com/fission-ui/fission,Development-worker SDK for running Fission applications in Fission Developer
+2026-10-05T16:28:59.417473Z,dolfin-query,0.1.10,0,0,https://github.com/dolfin-team/dolfin-query,Translate Dolfin query definitions to SPARQL 1.1 SELECT
+2026-10-05T16:34:42.143419Z,autumn-plugin-svelte,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-svelte,Autumn plugin: Svelte 5 islands in Maud + htmx pages.
+2026-10-05T16:35:24.148477Z,bb-flasher-mspm0,0.1.0,0,0,https://github.com/beagleboard/bb-imager-rs,A library to flash the MSPM0 co-processor over its UART/I2C bootloader (BSL)
+2026-10-05T16:36:18.484718Z,warren-bench,0.1.0,0,0,https://github.com/soulstompp/warren-surveyor,"Runs a declared set of questions against PostgreSQL targets and records each one's pages, time and plan, and whether its answer is right"
+2026-10-05T16:36:24.06289Z,warren-surveyor-pg,0.1.0,0,0,https://github.com/soulstompp/warren-surveyor,"The surveyor for PostgreSQL, an index access method: it measures without digging"
+2026-10-05T16:37:26.585702Z,desktop-agent-windows,0.1.0,0,0,https://github.com/nouverse/desktop-agent-windows,Windows GUI automation daemon and Win32 FFI desktop control agent by Nouverse Technologies.
+2026-10-05T16:38:35.79949Z,desktop-agent-mac,0.1.0,0,0,https://github.com/nouverse,"macOS desktop automation daemon, Accessibility API bridge, and computer-use agent."
+2026-10-05T16:39:44.389166Z,desktop-agent-macos,0.1.0,0,0,https://github.com/nouverse,"macOS desktop automation daemon, Accessibility API bridge, and computer-use agent."
+2026-10-05T16:39:45.198015Z,grobid-bibtex,0.1.1,0,0,https://github.com/schmettow/grobid-bibtex,BibTeX and BibLaTeX bibliography management built on GROBID
+2026-10-05T16:43:25.629517Z,ic-host-tools,0.1.3,0,0,https://github.com/dragginzgame/ic-host-tools,Shared Internet Computer host artifact tooling
+2026-10-05T16:44:17.895696Z,pallet-validator-collators,0.0.0,0,0,,Reserved by Parity while we work on an official release
+2026-10-05T16:44:19.364219Z,pallet-validator-set-announcer,0.0.0,0,0,,Reserved by Parity while we work on an official release
+2026-10-05T16:44:46.334468Z,repox-core,0.1.0,0,0,https://github.com/WVDYC/repOx,"Core library for repox: repository traversal, filtering, token counting, and formatting"
+2026-10-05T16:45:11.195881Z,repox-tui,0.1.0,0,0,https://github.com/WVDYC/repOx,Interactive terminal UI for repox: lazygit-style file picker with live token metrics
+2026-10-05T16:45:42.498978Z,repox-cli,0.1.0,0,0,https://github.com/WVDYC/repOx,High-performance CLI & TUI to pack repositories into LLM context prompts in milliseconds
+2026-10-05T16:48:37.464422Z,ump-stream,0.1.0,0,0,https://github.com/ZmoleCristian/ump-stream,"Universal Media Protocol: protobuf requests, chunked UMP part streams, server-driven ABR sessions"
+2026-10-05T16:48:44.437413Z,crowsi-auth-routing,0.1.0,0,0,https://github.com/crowsi-net/crowsi-auth-routing,Transport-neutral authentication route and authorization contracts
+2026-10-05T16:52:27.132162Z,basable-connect,0.1.0,0,0,https://github.com/basable/basable-rust-libs,"The glue between a basable nanoservice project and connectrpc: a ConnectRouter that mounts generated services into the app's axum router, the AppError to ConnectError mapping (the sixteen codes one t…"
+2026-10-05T16:52:35.696612Z,basable-app,0.1.0,0,0,https://github.com/basable/basable-rust-libs,"The runtime a basable nanoservice binary is assembled on: typed configuration from the environment, the boot sequence (the app pool with a bounded wait, the migration-ledger gate, one NanoPool per st…"
+2026-10-05T16:53:55.264796Z,dgproto,0.1.0,0,0,https://github.com/datagram-messenger/dgproto-rs,Rust client library for the DGProto v1 secure transport protocol
+2026-10-05T16:55:18.367853Z,nerpa-proto,0.3.0,0,0,https://github.com/nerpa-run/nerpa,The wire between the engine and an executor on a machine
+2026-10-05T16:55:34.701519Z,nerpa-core,0.3.0,0,0,https://github.com/nerpa-run/nerpa,"Resource model, planner and state for Nerpa"
+2026-10-05T16:55:42.360702Z,ipc-com,0.1.0,0,0,https://github.com/CosmicalBit/Ipc-com,Simple shared-memory IPC for Rust
+2026-10-05T16:55:52.591314Z,nerpa-executor,0.3.0,0,0,https://github.com/nerpa-run/nerpa,"The program that acts on one machine, and the only thing that does"
+2026-10-05T16:56:13.031215Z,nerpa-config,0.3.0,0,0,https://github.com/nerpa-run/nerpa,Evaluates a Starlark program into a Nerpa resource graph
+2026-10-05T16:56:27.842067Z,nerpa-import,0.3.0,0,0,https://github.com/nerpa-run/nerpa,"A Terraform state, read into nerpa"
+2026-10-05T16:58:30.2174Z,tunly,0.3.1,0,0,https://github.com/0xReLogic/Tunly,"A lightweight, self-hosted HTTP tunnel for exposing local applications to the internet."
+2026-10-05T17:02:04.862699Z,bezel-canvas-core,0.2.9,0,0,https://github.com/crabtalk/bezel,"The bezel canvas document — JSON Canvas and more — its layouts and edits, and a read-only painter"
+2026-10-05T17:04:30.524372Z,autumn-plugin-kubernetes,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-kubernetes,"Kubernetes plugin for autumn-web: pod identity, Lease leader election, live ConfigMaps, Events, health, metrics, and manifests"
+2026-10-05T17:05:55.657404Z,nerpa-provider-yandex,0.3.0,0,0,https://github.com/nerpa-run/nerpa,"Instances, networks and subnets on Yandex Cloud, over its REST API"
+2026-10-05T17:10:09.684868Z,tabnas-alchemy-cli,0.1.0,0,0,https://github.com/tabnas/alchemy-cli,"The alchemy command: runs programs in the alchemy streaming language over JSON documents, composing tabnas-alchemy, tabnas-transduce and tabnas-render."
+2026-10-05T17:12:50.150402Z,autumn-plugin-rocksdb,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-rocksdb,"Autumn plugin: a RocksDB key-value store, cache and session store for Autumn apps."
+2026-10-05T17:12:57.18896Z,irukame,0.1.10,0,0,https://github.com/dolfin-team/irukame,"Turtle/OWL/N3 code generation for dolfin, plus the DolfinPlugin trait for annotation-driven generators"
+2026-10-05T17:14:45.401546Z,astral-html,0.0.0,0,0,https://github.com/astral-sh/astral-html,Placeholder release for astral-html
+2026-10-05T17:15:00.780798Z,leadline,0.1.0,0,0,https://github.com/apognu/leadline,Scripted mock database for testing SeaORM

@@ -8,38 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 16:19 UTC
+## Latest list — 2026-10-05 17:20 UTC
 
-New crates published between 2026-10-05 15:21 UTC and 2026-10-05 16:19 UTC.
+New crates published between 2026-10-05 16:19 UTC and 2026-10-05 17:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-05T16-19-10-003818Z.csv)
+[Full CSV](data/new-crates-2026-10-05T17-20-47-192187Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-05 15:31:24 | [basable-processingobject](https://crates.io/crates/basable-processingobject) | 0.1.0 | 0 | The declarative reconciliation framework for basable nanoservices: typed spec a… |
-| 2026-10-05 15:41:22 | [basable-processingobject-testkit](https://crates.io/crates/basable-processingobject-testkit) | 0.1.0 | 0 | Conformance substrate for basable-processingobject: the reserved conformance ty… |
-| 2026-10-05 15:44:25 | [renox-2fa](https://crates.io/crates/renox-2fa) | 1.0.0-rc.5 | 0 | Two-factor authentication (TOTP and recovery codes) for Renox apps. |
-| 2026-10-05 15:45:16 | [renox-editors](https://crates.io/crates/renox-editors) | 1.0.0-rc.5 | 0 | Rich text, Markdown and code editor fields, and a code entry, for Renox apps. |
-| 2026-10-05 15:45:34 | [renox-oauth](https://crates.io/crates/renox-oauth) | 1.0.0-rc.5 | 0 | Social login (Sign in with Google, GitHub, …) linked to the users of a Renox ap… |
-| 2026-10-05 15:46:06 | [renox-admin](https://crates.io/crates/renox-admin) | 1.0.0-rc.5 | 0 | An admin panel generated from a Renox app's models: lists, forms, filters, bulk… |
-| 2026-10-05 15:46:25 | [renox-billing](https://crates.io/crates/renox-billing) | 1.0.0-rc.5 | 0 | Subscriptions for Renox apps (plans, trials, upgrades, cancellations) with Stri… |
-| 2026-10-05 15:46:40 | [haps](https://crates.io/crates/haps) | 0.1.0 | 0 | Hashtree Package System: signed packages, content-addressed distribution, socia… |
-| 2026-10-05 15:50:23 | [netconf](https://crates.io/crates/netconf) | 0.6.0 | 0 | Pre-release (beta). Narrow asynchronous NETCONF client for Junos: RFC 6241/6242… |
-| 2026-10-05 15:51:23 | [basable-effecttest](https://crates.io/crates/basable-effecttest) | 0.1.0 | 0 | The per-adapter audit for basable-externaleffect: a component's test builds a H… |
-| 2026-10-05 15:53:04 | [autumn-plugin-aws-athena](https://crates.io/crates/autumn-plugin-aws-athena) | 0.1.0 | 0 | Autumn plugin: run Amazon Athena SQL queries from Autumn handlers. |
-| 2026-10-05 15:56:09 | [autumn-plugin-aws-lambda](https://crates.io/crates/autumn-plugin-aws-lambda) | 0.1.0 | 0 | Run an autumn-web application on AWS Lambda |
-| 2026-10-05 15:57:13 | [bobcat-units](https://crates.io/crates/bobcat-units) | 0.1.1 | 0 | Helpers for bobcat-sdk and the common EVM unsigned integer types. |
-| 2026-10-05 15:57:40 | [autumn-plugin-aws-sqs](https://crates.io/crates/autumn-plugin-aws-sqs) | 0.1.0 | 0 | Amazon SQS plugin for autumn-web: job transport, queue consumers, and producer |
-| 2026-10-05 15:58:33 | [hurl-test](https://crates.io/crates/hurl-test) | 0.1.0 | 0 | Run Hurl fixtures from Rust integration tests. |
-| 2026-10-05 16:01:03 | [format-png](https://crates.io/crates/format-png) | 0.1.0 | 0 | A PNG decoder and encoder in pure Rust: every color type, bit depth and interla… |
-| 2026-10-05 16:01:22 | [basable-config](https://crates.io/crates/basable-config) | 0.1.0 | 0 | The declarative configuration framework for basable nanoservices: temporal conf… |
-| 2026-10-05 16:04:57 | [autumn-plugin-vanilla](https://crates.io/crates/autumn-plugin-vanilla) | 0.1.0 | 0 | Autumn plugin: declarative vanilla JS behaviors for Maud + htmx apps. No npm, n… |
-| 2026-10-05 16:10:50 | [sip-header-catalog](https://crates.io/crates/sip-header-catalog) | 1.0.0-rc.1 | 0 | IANA SIP header name catalog with compact forms, and the raw header-row lookup… |
-| 2026-10-05 16:11:23 | [basable-messenger-gen](https://crates.io/crates/basable-messenger-gen) | 0.1.0 | 0 | The basable messenger code generator: generates the interfaces and messenger cr… |
-| 2026-10-05 16:13:00 | [explainsql-core](https://crates.io/crates/explainsql-core) | 0.1.0 | 0 | Plan IR, plan parsers, metrics, rules and index advisor for ExplainSQL. Perform… |
-| 2026-10-05 16:13:03 | [explainsql-db](https://crates.io/crates/explainsql-db) | 0.1.0 | 0 | Connected mode for ExplainSQL: safe EXPLAIN execution, catalog reads and index… |
-| 2026-10-05 16:13:04 | [explainsql-tui](https://crates.io/crates/explainsql-tui) | 0.1.0 | 0 | Terminal user interface for ExplainSQL. |
-| 2026-10-05 16:13:06 | [explainsql](https://crates.io/crates/explainsql) | 0.1.0 | 0 | Find out why a PostgreSQL query is slow, get a fix, and prove it works, without… |
+| 2026-10-05 16:19:24 | [zixcel-mcp-gateway](https://crates.io/crates/zixcel-mcp-gateway) | 0.1.0 | 0 | Product-neutral, read-only stdio MCP runtime for approved public metadata |
+| 2026-10-05 16:20:15 | [ihat-identity-assertion-contracts](https://crates.io/crates/ihat-identity-assertion-contracts) | 0.10.0 | 0 | Closed device identity assertion contracts shared by iHAT consumers |
+| 2026-10-05 16:20:18 | [french-amount-words](https://crates.io/crates/french-amount-words) | 0.1.0 | 0 | Écriture en toutes lettres des nombres et des montants en euros, en français (g… |
+| 2026-10-05 16:21:20 | [basable-pubsub](https://crates.io/crates/basable-pubsub) | 0.1.0 | 0 | Cross-replica publish/subscribe over Postgres LISTEN/NOTIFY for basable nanoser… |
+| 2026-10-05 16:25:08 | [fission-devtools](https://crates.io/crates/fission-devtools) | 0.15.1 | 0 | Development-worker SDK for running Fission applications in Fission Developer |
+| 2026-10-05 16:28:59 | [dolfin-query](https://crates.io/crates/dolfin-query) | 0.1.10 | 0 | Translate Dolfin query definitions to SPARQL 1.1 SELECT |
+| 2026-10-05 16:34:42 | [autumn-plugin-svelte](https://crates.io/crates/autumn-plugin-svelte) | 0.1.0 | 0 | Autumn plugin: Svelte 5 islands in Maud + htmx pages. |
+| 2026-10-05 16:35:24 | [bb-flasher-mspm0](https://crates.io/crates/bb-flasher-mspm0) | 0.1.0 | 0 | A library to flash the MSPM0 co-processor over its UART/I2C bootloader (BSL) |
+| 2026-10-05 16:36:18 | [warren-bench](https://crates.io/crates/warren-bench) | 0.1.0 | 0 | Runs a declared set of questions against PostgreSQL targets and records each on… |
+| 2026-10-05 16:36:24 | [warren-surveyor-pg](https://crates.io/crates/warren-surveyor-pg) | 0.1.0 | 0 | The surveyor for PostgreSQL, an index access method: it measures without digging |
+| 2026-10-05 16:37:26 | [desktop-agent-windows](https://crates.io/crates/desktop-agent-windows) | 0.1.0 | 0 | Windows GUI automation daemon and Win32 FFI desktop control agent by Nouverse T… |
+| 2026-10-05 16:38:35 | [desktop-agent-mac](https://crates.io/crates/desktop-agent-mac) | 0.1.0 | 0 | macOS desktop automation daemon, Accessibility API bridge, and computer-use age… |
+| 2026-10-05 16:39:44 | [desktop-agent-macos](https://crates.io/crates/desktop-agent-macos) | 0.1.0 | 0 | macOS desktop automation daemon, Accessibility API bridge, and computer-use age… |
+| 2026-10-05 16:39:45 | [grobid-bibtex](https://crates.io/crates/grobid-bibtex) | 0.1.1 | 0 | BibTeX and BibLaTeX bibliography management built on GROBID |
+| 2026-10-05 16:43:25 | [ic-host-tools](https://crates.io/crates/ic-host-tools) | 0.1.3 | 0 | Shared Internet Computer host artifact tooling |
+| 2026-10-05 16:44:17 | [pallet-validator-collators](https://crates.io/crates/pallet-validator-collators) | 0.0.0 | 0 | Reserved by Parity while we work on an official release |
+| 2026-10-05 16:44:19 | [pallet-validator-set-announcer](https://crates.io/crates/pallet-validator-set-announcer) | 0.0.0 | 0 | Reserved by Parity while we work on an official release |
+| 2026-10-05 16:44:46 | [repox-core](https://crates.io/crates/repox-core) | 0.1.0 | 0 | Core library for repox: repository traversal, filtering, token counting, and fo… |
+| 2026-10-05 16:45:11 | [repox-tui](https://crates.io/crates/repox-tui) | 0.1.0 | 0 | Interactive terminal UI for repox: lazygit-style file picker with live token me… |
+| 2026-10-05 16:45:42 | [repox-cli](https://crates.io/crates/repox-cli) | 0.1.0 | 0 | High-performance CLI & TUI to pack repositories into LLM context prompts in mil… |
+| 2026-10-05 16:48:37 | [ump-stream](https://crates.io/crates/ump-stream) | 0.1.0 | 0 | Universal Media Protocol: protobuf requests, chunked UMP part streams, server-d… |
+| 2026-10-05 16:48:44 | [crowsi-auth-routing](https://crates.io/crates/crowsi-auth-routing) | 0.1.0 | 0 | Transport-neutral authentication route and authorization contracts |
+| 2026-10-05 16:52:27 | [basable-connect](https://crates.io/crates/basable-connect) | 0.1.0 | 0 | The glue between a basable nanoservice project and connectrpc: a ConnectRouter… |
+| 2026-10-05 16:52:35 | [basable-app](https://crates.io/crates/basable-app) | 0.1.0 | 0 | The runtime a basable nanoservice binary is assembled on: typed configuration f… |
+| 2026-10-05 16:53:55 | [dgproto](https://crates.io/crates/dgproto) | 0.1.0 | 0 | Rust client library for the DGProto v1 secure transport protocol |
+| 2026-10-05 16:55:18 | [nerpa-proto](https://crates.io/crates/nerpa-proto) | 0.3.0 | 0 | The wire between the engine and an executor on a machine |
+| 2026-10-05 16:55:34 | [nerpa-core](https://crates.io/crates/nerpa-core) | 0.3.0 | 0 | Resource model, planner and state for Nerpa |
+| 2026-10-05 16:55:42 | [ipc-com](https://crates.io/crates/ipc-com) | 0.1.0 | 0 | Simple shared-memory IPC for Rust |
+| 2026-10-05 16:55:52 | [nerpa-executor](https://crates.io/crates/nerpa-executor) | 0.3.0 | 0 | The program that acts on one machine, and the only thing that does |
+| 2026-10-05 16:56:13 | [nerpa-config](https://crates.io/crates/nerpa-config) | 0.3.0 | 0 | Evaluates a Starlark program into a Nerpa resource graph |
+| 2026-10-05 16:56:27 | [nerpa-import](https://crates.io/crates/nerpa-import) | 0.3.0 | 0 | A Terraform state, read into nerpa |
+| 2026-10-05 16:58:30 | [tunly](https://crates.io/crates/tunly) | 0.3.1 | 0 | A lightweight, self-hosted HTTP tunnel for exposing local applications to the i… |
+| 2026-10-05 17:02:04 | [bezel-canvas-core](https://crates.io/crates/bezel-canvas-core) | 0.2.9 | 0 | The bezel canvas document — JSON Canvas and more — its layouts and edits, and a… |
+| 2026-10-05 17:04:30 | [autumn-plugin-kubernetes](https://crates.io/crates/autumn-plugin-kubernetes) | 0.1.0 | 0 | Kubernetes plugin for autumn-web: pod identity, Lease leader election, live Con… |
+| 2026-10-05 17:05:55 | [nerpa-provider-yandex](https://crates.io/crates/nerpa-provider-yandex) | 0.3.0 | 0 | Instances, networks and subnets on Yandex Cloud, over its REST API |
+| 2026-10-05 17:10:09 | [tabnas-alchemy-cli](https://crates.io/crates/tabnas-alchemy-cli) | 0.1.0 | 0 | The alchemy command: runs programs in the alchemy streaming language over JSON… |
+| 2026-10-05 17:12:50 | [autumn-plugin-rocksdb](https://crates.io/crates/autumn-plugin-rocksdb) | 0.1.0 | 0 | Autumn plugin: a RocksDB key-value store, cache and session store for Autumn ap… |
+| 2026-10-05 17:12:57 | [irukame](https://crates.io/crates/irukame) | 0.1.10 | 0 | Turtle/OWL/N3 code generation for dolfin, plus the DolfinPlugin trait for annot… |
+| 2026-10-05 17:14:45 | [astral-html](https://crates.io/crates/astral-html) | 0.0.0 | 0 | Placeholder release for astral-html |
+| 2026-10-05 17:15:00 | [leadline](https://crates.io/crates/leadline) | 0.1.0 | 0 | Scripted mock database for testing SeaORM |
 
 ## Data source
 
