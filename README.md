@@ -8,35 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 20:18 UTC
+## Latest list — 2026-10-05 21:18 UTC
 
-New crates published between 2026-10-05 19:20 UTC and 2026-10-05 20:18 UTC.
+New crates published between 2026-10-05 20:18 UTC and 2026-10-05 21:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-05T20-18-40-730002Z.csv)
+[Full CSV](data/new-crates-2026-10-05T21-18-54-519877Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-05 19:23:54 | [degine](https://crates.io/crates/degine) | 0.1.0 | 0 | Command line client for a degine argument library |
-| 2026-10-05 19:33:18 | [splimes](https://crates.io/crates/splimes) | 0.1.0 | 0 | Spline interpolation over irregularly sampled time series, on SIMD/parallel CPU… |
-| 2026-10-05 19:33:50 | [sealmap-model](https://crates.io/crates/sealmap-model) | 0.1.0 | 0 | Language-neutral, deterministic code model (files, symbols, relations) for code… |
-| 2026-10-05 19:33:52 | [sealmap-mermaid](https://crates.io/crates/sealmap-mermaid) | 0.1.0 | 0 | Typed, deterministic Mermaid writers (sequence, class, ER, flowchart) with safe… |
-| 2026-10-05 19:33:58 | [sealmap-frontend](https://crates.io/crates/sealmap-frontend) | 0.1.0 | 0 | Language-neutral frontend core for sealmap: raw flow IR, flow lowering, call ag… |
-| 2026-10-05 19:34:04 | [sealmap-rust](https://crates.io/crates/sealmap-rust) | 0.1.0 | 0 | Pure-Rust (syn) frontend for sealmap: extracts symbols, relations and ordered c… |
-| 2026-10-05 19:34:09 | [sealmap-corpus](https://crates.io/crates/sealmap-corpus) | 0.1.0 | 0 | Projects a sealmap Codebase into a contract-enforced 1:1 corpus of dense Mermai… |
-| 2026-10-05 19:37:25 | [sessiongrep](https://crates.io/crates/sessiongrep) | 0.1.0 | 0 | Local-first memory layer for CLI agents: search, inspect, export, and resume Cl… |
-| 2026-10-05 19:37:57 | [bibleit](https://crates.io/crates/bibleit) | 0.0.1 | 0 | A fast, keyboard-first Bible reader for the terminal. |
-| 2026-10-05 19:43:54 | [sealmap](https://crates.io/crates/sealmap) | 0.1.0 | 0 | Deterministic, dense codebase-to-Mermaid generation for LLM agents: sequence, c… |
-| 2026-10-05 19:52:38 | [polydeukes-sdk](https://crates.io/crates/polydeukes-sdk) | 0.13.0 | 0 | Polydeukes SDK for Rust — hands a covenant input to `pdks covenant check` and r… |
-| 2026-10-05 19:55:21 | [tnoodle-rs](https://crates.io/crates/tnoodle-rs) | 0.1.0 | 0 | A faithful Rust port of TNoodle, the official World Cube Association scramble p… |
-| 2026-10-05 20:09:02 | [httpdir-tui](https://crates.io/crates/httpdir-tui) | 0.1.1 | 0 | A very simple terminal browser for HTTP directory indexes, with background down… |
-| 2026-10-05 20:09:11 | [familiar-ai](https://crates.io/crates/familiar-ai) | 0.0.0 | 0 | Proof that an AI coding agent's work is done: each requirement has a test that… |
-| 2026-10-05 20:09:41 | [lattice-db-client](https://crates.io/crates/lattice-db-client) | 1.11.1 | 0 | Typed Rust client SDK for lattice-db — wraps the NATS request/reply protocol |
-| 2026-10-05 20:11:02 | [tsrc](https://crates.io/crates/tsrc) | 0.0.0 | 0 | Name reserved for tsrc, part of the tsr TypeScript compiler project (ferrotype)… |
-| 2026-10-05 20:14:00 | [discord_intl_allocator](https://crates.io/crates/discord_intl_allocator) | 0.33.0 | 0 | Global allocator configuration for Discord's intl* crates |
-| 2026-10-05 20:14:03 | [discord_intl_markdown_macros](https://crates.io/crates/discord_intl_markdown_macros) | 0.33.0 | 0 | Procedural macros for discord_intl_markdown |
-| 2026-10-05 20:14:05 | [discord_intl_markdown_syntax](https://crates.io/crates/discord_intl_markdown_syntax) | 0.33.0 | 0 | Generated AST Syntax definition for discord_intl's custom ICU+Markdown message… |
-| 2026-10-05 20:14:09 | [discord_intl_markdown](https://crates.io/crates/discord_intl_markdown) | 0.33.0 | 0 | A combination Markdown and ICU messageformat parser for i18n messages. |
-| 2026-10-05 20:14:11 | [discord_intl_message_utils](https://crates.io/crates/discord_intl_message_utils) | 0.33.0 | 0 | Utilities used across different crates in the intl package. |
+| 2026-10-05 20:27:36 | [discord_intl_database_core](https://crates.io/crates/discord_intl_database_core) | 0.33.0 | 0 | A core database for managing intl messages, supporting CRUD for messages with a… |
+| 2026-10-05 20:44:13 | [arete-solana-contracts](https://crates.io/crates/arete-solana-contracts) | 0.2.0 | 0 | Versioned managed Solana read and discovery contracts |
+| 2026-10-05 20:47:03 | [ipbus](https://crates.io/crates/ipbus) | 0.4.0 | 0 | Ipbus hardware IO access library |
+| 2026-10-05 20:51:49 | [embedded-invsqrt-f32](https://crates.io/crates/embedded-invsqrt-f32) | 0.1.0 | 0 | Inverse de racine carrée f32 rapide pour no_std embarqué, testée sur Cortex-M33… |
+| 2026-10-05 20:54:22 | [servo-script-embedder](https://crates.io/crates/servo-script-embedder) | 0.7.0 | 0 | A component of the servo web-engine. |
+| 2026-10-05 21:01:34 | [keyless_json](https://crates.io/crates/keyless_json) | 0.33.0 | 0 | A Serde serializer that allows well-structured JSON to be minified into keyless… |
+| 2026-10-05 21:01:36 | [discord_intl_database_service](https://crates.io/crates/discord_intl_database_service) | 0.33.0 | 0 | Trait definition for services that operate on discord_intl_message_database ins… |
+| 2026-10-05 21:01:38 | [discord_intl_database_exporter](https://crates.io/crates/discord_intl_database_exporter) | 0.33.0 | 0 | Serialization utilities for exporting message database contents to other system… |
+| 2026-10-05 21:02:20 | [sedona-catalog](https://crates.io/crates/sedona-catalog) | 0.5.0 | 0 | Asynchronous catalog interfaces for Apache SedonaDB |
+| 2026-10-05 21:04:47 | [hopla](https://crates.io/crates/hopla) | 0.1.0 | 0 | A palette for your GitHub accounts and secrets, with a bunny in a top hat |
+| 2026-10-05 21:09:43 | [oneyaml-core](https://crates.io/crates/oneyaml-core) | 1.0.0 | 0 | Stable vocabulary of oneyaml (YAML 1.2): spans, diagnostic codes, diagnostics,… |
+| 2026-10-05 21:09:48 | [oneyaml-syntax](https://crates.io/crates/oneyaml-syntax) | 0.1.0 | 0 | Lossless YAML 1.2 decoder, parser, event stream, and syntax tree underneath one… |
+| 2026-10-05 21:09:57 | [oneyaml](https://crates.io/crates/oneyaml) | 1.0.0 | 0 | oneyaml — one core, one interpretation: serde + lossless editing for YAML 1.2. |
+| 2026-10-05 21:10:46 | [engram-parser](https://crates.io/crates/engram-parser) | 0.3.0 | 0 | Pure-Rust GGUF + Safetensors checkpoint/tensor substrate: format-independent te… |
+| 2026-10-05 21:12:27 | [blockle-core](https://crates.io/crates/blockle-core) | 0.1.0 | 0 | Core data structures for the Blockle blockchain: blocks, transactions, keys, ad… |
+| 2026-10-05 21:12:59 | [blockle-pow](https://crates.io/crates/blockle-pow) | 0.1.0 | 0 | Equihash proof-of-work and difficulty adjustment for the Blockle blockchain |
+| 2026-10-05 21:13:19 | [blockle-zk](https://crates.io/crates/blockle-zk) | 0.1.0 | 0 | Blockle shielded pool: STARK spend proofs (winterfell), Rescue note commitments… |
+| 2026-10-05 21:13:28 | [blockle-vm](https://crates.io/crates/blockle-vm) | 0.1.0 | 0 | Blockle VM scaffold: deterministic, gas-metered contract execution (milestone 2) |
+| 2026-10-05 21:14:11 | [blockle-chain](https://crates.io/crates/blockle-chain) | 0.1.0 | 0 | Consensus rules, chain state, and mining for the Blockle blockchain |
+| 2026-10-05 21:17:24 | [blockle-node](https://crates.io/crates/blockle-node) | 0.1.0 | 0 | Blockle node CLI: wallet, miner, and chain management |
+| 2026-10-05 21:17:45 | [sampo-forgejo-action](https://crates.io/crates/sampo-forgejo-action) | 0.1.0 | 0 | Forgejo Action runner for Sampo CLI (release/publish orchestrator) |
 
 ## Data source
 

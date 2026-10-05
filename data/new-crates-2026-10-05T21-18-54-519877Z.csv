@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T20:27:36.516977Z,discord_intl_database_core,0.33.0,0,0,https://github.com/discord/discord-intl,"A core database for managing intl messages, supporting CRUD for messages with attribution to their source files."
+2026-10-05T20:44:13.118766Z,arete-solana-contracts,0.2.0,0,0,https://github.com/AreteA4/arete.git,Versioned managed Solana read and discovery contracts
+2026-10-05T20:47:03.743049Z,ipbus,0.4.0,0,0,https://git.inflames.cc/corigan01/ipbus,Ipbus hardware IO access library
+2026-10-05T20:51:49.915014Z,embedded-invsqrt-f32,0.1.0,0,0,https://github.com/jorgeandrecastro/embedded-invsqrt-f32,"Inverse de racine carrée f32 rapide pour no_std embarqué, testée sur Cortex-M33/M4F"
+2026-10-05T20:54:22.098566Z,servo-script-embedder,0.7.0,0,0,https://github.com/servo/servo,A component of the servo web-engine.
+2026-10-05T21:01:34.530132Z,keyless_json,0.33.0,0,0,https://github.com/discord/discord-intl,A Serde serializer that allows well-structured JSON to be minified into keyless arrays of elements.
+2026-10-05T21:01:36.49765Z,discord_intl_database_service,0.33.0,0,0,https://github.com/discord/discord-intl,Trait definition for services that operate on discord_intl_message_database instances
+2026-10-05T21:01:38.929244Z,discord_intl_database_exporter,0.33.0,0,0,https://github.com/discord/discord-intl,Serialization utilities for exporting message database contents to other systems and general formats
+2026-10-05T21:02:20.095356Z,sedona-catalog,0.5.0,0,0,https://github.com/apache/sedona-db,Asynchronous catalog interfaces for Apache SedonaDB
+2026-10-05T21:04:47.143161Z,hopla,0.1.0,0,0,https://github.com/mirkobozzetto/hopla,"A palette for your GitHub accounts and secrets, with a bunny in a top hat"
+2026-10-05T21:09:43.715107Z,oneyaml-core,1.0.0,0,0,https://github.com/recursive-ai-oss/oneyaml-rust,"Stable vocabulary of oneyaml (YAML 1.2): spans, diagnostic codes, diagnostics, paths, settings, and limits."
+2026-10-05T21:09:48.992603Z,oneyaml-syntax,0.1.0,0,0,https://github.com/recursive-ai-oss/oneyaml-rust,"Lossless YAML 1.2 decoder, parser, event stream, and syntax tree underneath oneyaml."
+2026-10-05T21:09:57.992696Z,oneyaml,1.0.0,0,0,https://github.com/recursive-ai-oss/oneyaml-rust,"oneyaml — one core, one interpretation: serde + lossless editing for YAML 1.2."
+2026-10-05T21:10:46.226991Z,engram-parser,0.3.0,0,0,https://github.com/rmems/engram-parser,"Pure-Rust GGUF + Safetensors checkpoint/tensor substrate: format-independent tensor inventory, metadata, and raw payload access for ANN/SNN research. Default builds are zero-dependency (`fs::read` in…"
+2026-10-05T21:12:27.036073Z,blockle-core,0.1.0,0,0,,"Core data structures for the Blockle blockchain: blocks, transactions, keys, addresses"
+2026-10-05T21:12:59.313858Z,blockle-pow,0.1.0,0,0,,Equihash proof-of-work and difficulty adjustment for the Blockle blockchain
+2026-10-05T21:13:19.672815Z,blockle-zk,0.1.0,0,0,,"Blockle shielded pool: STARK spend proofs (winterfell), Rescue note commitments, note tree"
+2026-10-05T21:13:28.492524Z,blockle-vm,0.1.0,0,0,,"Blockle VM scaffold: deterministic, gas-metered contract execution (milestone 2)"
+2026-10-05T21:14:11.876043Z,blockle-chain,0.1.0,0,0,,"Consensus rules, chain state, and mining for the Blockle blockchain"
+2026-10-05T21:17:24.583208Z,blockle-node,0.1.0,0,0,,"Blockle node CLI: wallet, miner, and chain management"
+2026-10-05T21:17:45.67682Z,sampo-forgejo-action,0.1.0,0,0,https://codeberg.org/Trombach/sampo-forgejo-action,Forgejo Action runner for Sampo CLI (release/publish orchestrator)
