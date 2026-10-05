@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T13:18:56.614197Z,mcphive,0.1.0,0,0,https://github.com/zbl1998-sdjn/mcphive,Run each MCP server once and share it between all your AI agents.
+2026-10-05T13:22:23.439769Z,reallyme-zk-api,0.1.0,0,0,https://github.com/reallyme/zk,ReallyMe proof-system-agnostic ZK circuit registry and prover/verifier traits.
+2026-10-05T13:22:36.723623Z,st2022,0.1.0,0,0,https://github.com/fishloa/rust-broadcast,SMPTE ST 2022-6 HBRMT (SDI-over-IP) RTP payload header parser
+2026-10-05T13:23:00.836967Z,aiumi-os,0.0.1,0,0,,Work in progress
+2026-10-05T13:23:04.746859Z,aiumitan-os,0.0.1,0,0,,Work in progress
+2026-10-05T13:23:07.933426Z,fixed-alloc,0.0.1,0,0,,Work in progress
+2026-10-05T13:24:37.323352Z,reactor-webrtc-dc-chunking,0.19.0,0,0,https://github.com/reactor-team/reactor-webrtc,"Sans-I/O chunking, reassembly and send pacing for WebRTC data channels, shared by reactor-webrtc and reactor-wasm."
+2026-10-05T13:25:04.234541Z,gpui-x-linux,0.1.0,0,0,,Linux (X11/Wayland) backend for the gpui-x distribution
+2026-10-05T13:30:53.984356Z,fission-vello-gpu,0.2.0-fission.1,0,0,https://github.com/worka-ai/vello,A GPU renderer for Vello with CPU-side preprocessing.
+2026-10-05T13:34:42.42353Z,gpui-x-web,0.1.0,0,0,,Web (wasm) backend for the gpui-x distribution
+2026-10-05T13:35:24.024743Z,kflight,0.1.0-alpha.1,0,0,https://github.com/kflight-dev/kflight,Pre-flight checks for Linux kernel reboots
+2026-10-05T13:39:11.315407Z,fmite-derive,0.1.0,0,0,https://github.com/astra-laboratories/fmite,Derives for fmite: Variables and Enumeration
+2026-10-05T13:39:25.498356Z,fmite,0.1.0,0,0,https://github.com/astra-laboratories/fmite,An FMI 3.0 standard in Rust
+2026-10-05T13:40:42.133906Z,wist-api,0.1.1,0,0,https://github.com/dayu-sec/wist-api,Cross-process API seam messages for the wist control plane (edge <-> gateway <-> center).
+2026-10-05T13:42:40.639463Z,spacelens-discovery,0.3.1,0,0,https://github.com/HuakunShen/space-lens,"Read-only discovery of large files, developer caches, and gitignored paths."
+2026-10-05T13:44:39.872842Z,gpui-x-macos,0.1.0,0,0,,macOS backend for the gpui-x distribution
+2026-10-05T13:45:34.289521Z,libqi-macros-vibe,0.1.0,0,0,https://github.com/victorpaleologue/libqi-rs-vibe,Procedural macros of the qi framework: #[qi::object] and the value derives
+2026-10-05T13:45:37.230619Z,libqi-vibe,0.1.0,0,0,https://github.com/victorpaleologue/libqi-rs-vibe,"The qi framework of NAOqi robots (libqi, qimessaging) in Rust: sessions, services, objects, signals and properties, byte-compatible with the C++ implementation"
+2026-10-05T13:54:37.201218Z,gpui-x-platform,0.1.0,0,0,,Platform facade aggregating the gpui-x backends behind one entry point
+2026-10-05T14:01:14.033764Z,glide-core,0.1.0,0,0,,Core for Valkey GLIDE. This crate isn't intended to be used directly.
+2026-10-05T14:04:04.395327Z,gpui-vim-x,0.1.1,0,0,https://github.com/beyondlex/gpui_vim,gpui integration for the vimcore engine: keystroke interception and mode UI state.
+2026-10-05T14:07:58.327885Z,open_perception_kit,0.1.1,0,0,,Generated open_perception_kit Rust SDK
+2026-10-05T14:13:00.844827Z,pax-core-papers,1.1.0,0,0,https://github.com/pax-project/pax-core,"Discover, declare, manage, and reproducibly acquire academic papers, using Nix as the artifact backend."
+2026-10-05T14:13:29.314798Z,webdriver-bidi-macros,0.1.0,0,0,https://github.com/AzzoDude/webdriver-bidi,"Derive macros for webdriver-bidi (builder, command and event generation)"
+2026-10-05T14:13:44.726117Z,webdriver-bidi,0.1.0,0,0,https://github.com/AzzoDude/webdriver-bidi,Generated Rust types and commands for the W3C WebDriver BiDi protocol
+2026-10-05T14:18:17.357877Z,tree-sitter-quirrel,4.43.0,0,0,https://github.com/GaijinEntertainment/tree-sitter-quirrel,Dagor Quirrel grammar for tree-sitter
