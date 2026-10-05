@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T00:26:17.400393Z,formal-oxilean,0.0.1,0,0,,Placeholder that reserves the formal-oxilean name (part of cargo-formal). Proprietary software of COOLJAPAN OU; this release has no functionality.
+2026-10-05T00:28:07.794863Z,saccade-core,0.1.0,0,0,https://github.com/Tavrin/saccade,NVIDIA FLIP image comparison and the report model behind the saccade CLI
+2026-10-05T00:28:27.112606Z,autumn-macros-support,0.8.0,0,0,https://github.com/autumn-foundation/autumn,Shared implementation helpers for Autumn's proc-macro crates (not a proc-macro crate itself)
+2026-10-05T00:28:29.874673Z,autumn-macros-model,0.8.0,0,0,https://github.com/autumn-foundation/autumn,"Database-model proc macros for the Autumn web framework (#[model], #[service]); split from autumn-macros so DB codegen only compiles when the db feature is enabled"
+2026-10-05T00:28:30.644865Z,autumn-macros-repository,0.8.0,0,0,https://github.com/autumn-foundation/autumn,Repository proc macros for the Autumn web framework (#[repository]); split from autumn-macros so DB codegen only compiles when the db feature is enabled
+2026-10-05T00:28:40.01259Z,autumn-billing,0.8.0,0,0,https://github.com/autumn-foundation/autumn,"Subscription billing plugin (Stripe checkout, portal, webhook mirror, dunning) for autumn-web applications"
+2026-10-05T00:28:51.273015Z,saccade,0.1.0,0,0,https://github.com/Tavrin/saccade,"Visual-regression CLI for renderers and graphics code, built on NVIDIA FLIP"
+2026-10-05T00:29:33.083769Z,ferrocad_py,0.1.0,0,0,https://github.com/ferrocad/ferrocad,PyO3 bindings exposing ferrocad_core to Python (importable as `ferrocad`)
+2026-10-05T00:33:04.39316Z,shrivel,0.1.0,0,0,https://github.com/xarxsos/shrivel,Cross-platform FFmpeg orchestrator that batch re-encodes videos to H.265/HEVC
+2026-10-05T00:34:18.872002Z,bevy_markup,0.2.0,0,0,https://github.com/nchashch/bevy_markup,"HTML templates (Tera), CSS and Fluent localization as native Bevy UI"
+2026-10-05T00:36:44.500131Z,formal-report,0.0.1,0,0,,Placeholder that reserves the formal-report name (part of cargo-formal). Proprietary software of COOLJAPAN OU; this release has no functionality.
+2026-10-05T00:42:45.607208Z,gob-time,0.0.0,0,0,https://github.com/lognd/frob,"Name reservation for gob-time, part of the frob workspace (Rust rewrite in progress; real releases follow)."
+2026-10-05T00:47:10.468418Z,formal-conformance,0.0.1,0,0,,Placeholder that reserves the formal-conformance name (part of cargo-formal). Proprietary software of COOLJAPAN OU; this release has no functionality.
+2026-10-05T00:57:37.774019Z,formal-driver,0.0.1,0,0,,Placeholder that reserves the formal-driver name (part of cargo-formal). Proprietary software of COOLJAPAN OU; this release has no functionality.
+2026-10-05T01:09:28.598039Z,incurs-app-gpui,0.6.0,0,0,https://github.com/douglance/incurs,"Native desktop application surface for incurs command graphs, built on GPUI"
+2026-10-05T01:18:19.475786Z,griffin-rs,0.0.0,0,0,https://github.com/griffin-rs/griffin,Name reserved for the Griffin web framework.
