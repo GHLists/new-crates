@@ -1,0 +1,16 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T17:29:55.110503Z,fnox-client,0.0.0,0,0,https://github.com/jdx/fnox,Reserved nonfunctional placeholder for a future fnox-client release
+2026-10-05T17:30:05.352518Z,ycode-project,0.1.1,0,0,https://github.com/marcprux/ycode,Rust models and comment-preserving editing for Xcode JSON5 project.xcproj files
+2026-10-05T17:30:07.41871Z,ycode-cli,0.1.1,0,0,https://github.com/marcprux/ycode,Inspect and edit Xcode JSON5 projects while preserving comments and formatting
+2026-10-05T17:31:13.274263Z,autumn-plugin-duckdb,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-duckdb,Autumn plugin: run DuckDB SQL queries from Autumn handlers.
+2026-10-05T17:32:38.142818Z,dotfiles-cli,0.1.0,0,0,https://github.com/urmzd/dotfiles-cli,"Manage urmzd/dotfiles: pick optional packages, run setup, apply, and update"
+2026-10-05T17:35:01.251768Z,wm-gen3-vault,10.2.0-alpha.3,0,0,,WhiteMagic Gen3 — Tacit Continuity Vault Miner (DIR-08)
+2026-10-05T17:35:47.374616Z,autumn-plugin-pingora,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-pingora,"Pingora reverse proxy for Autumn: routes, load balancing, health checks, app fallback, metrics and graceful drain"
+2026-10-05T17:39:41.144136Z,autumn-plugin-react,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-react,Autumn plugin: React islands in Maud + htmx pages.
+2026-10-05T17:39:46.467352Z,hussh-rustcrypto-ssh-key,0.7.0,0,0,https://github.com/kpcyrd/hussh-rustcrypto-ssh-key,Fork of ssh-key compatible with latest RustCrypto ecosystem
+2026-10-05T17:41:07.893272Z,mid-sovereign-signup,0.1.0,0,0,https://github.com/Remade-With-Rust/mid,"Headless email + one-time-code sign-up/sign-in for Rust services — the open sibling of mid-signin for users who do not (yet) hold a MATA DID. A pure core: HMAC-committed six-digit codes, attempt/TTL/…"
+2026-10-05T17:50:18.005011Z,ic-metrics,0.1.4,0,0,https://github.com/dragginzgame/ic-metrics,Allocation-free saturating measurement arithmetic for Internet Computer crates
+2026-10-05T17:53:05.797647Z,palrup-io,0.1.0,0,0,https://github.com/simonwuelker/masterarbeit,Utilities for reading and writing PalRUP files
+2026-10-05T17:53:35.992311Z,nvidia-smi-rt,0.1.0,0,0,https://github.com/jtstogner/nvidia-smi-rt,A real-time NVIDIA GPU telemetry terminal dashboard and process manager
+2026-10-05T18:17:57.35975Z,wdb-witch,1.0.0,0,0,https://github.com/tclarke/wdb,GDB-style debugger and simulator for the WITCH computer (1951)
+2026-10-05T18:18:06.320544Z,rust-swisseph-bindings,1.0.0,0,0,https://github.com/g-battaglia/rust-swisseph-bindings,Minimal Rust bindings to the original Swiss Ephemeris C library
