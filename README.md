@@ -8,40 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 14:18 UTC
+## Latest list — 2026-10-05 15:21 UTC
 
-New crates published between 2026-10-05 13:18 UTC and 2026-10-05 14:18 UTC.
+New crates published between 2026-10-05 14:18 UTC and 2026-10-05 15:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-05T14-18-34-22979Z.csv)
+[Full CSV](data/new-crates-2026-10-05T15-21-43-341413Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-05 13:18:56 | [mcphive](https://crates.io/crates/mcphive) | 0.1.0 | 0 | Run each MCP server once and share it between all your AI agents. |
-| 2026-10-05 13:22:23 | [reallyme-zk-api](https://crates.io/crates/reallyme-zk-api) | 0.1.0 | 0 | ReallyMe proof-system-agnostic ZK circuit registry and prover/verifier traits. |
-| 2026-10-05 13:22:36 | [st2022](https://crates.io/crates/st2022) | 0.1.0 | 0 | SMPTE ST 2022-6 HBRMT (SDI-over-IP) RTP payload header parser |
-| 2026-10-05 13:23:00 | [aiumi-os](https://crates.io/crates/aiumi-os) | 0.0.1 | 0 | Work in progress |
-| 2026-10-05 13:23:04 | [aiumitan-os](https://crates.io/crates/aiumitan-os) | 0.0.1 | 0 | Work in progress |
-| 2026-10-05 13:23:07 | [fixed-alloc](https://crates.io/crates/fixed-alloc) | 0.0.1 | 0 | Work in progress |
-| 2026-10-05 13:24:37 | [reactor-webrtc-dc-chunking](https://crates.io/crates/reactor-webrtc-dc-chunking) | 0.19.0 | 0 | Sans-I/O chunking, reassembly and send pacing for WebRTC data channels, shared… |
-| 2026-10-05 13:25:04 | [gpui-x-linux](https://crates.io/crates/gpui-x-linux) | 0.1.0 | 0 | Linux (X11/Wayland) backend for the gpui-x distribution |
-| 2026-10-05 13:30:53 | [fission-vello-gpu](https://crates.io/crates/fission-vello-gpu) | 0.2.0-fission.1 | 0 | A GPU renderer for Vello with CPU-side preprocessing. |
-| 2026-10-05 13:34:42 | [gpui-x-web](https://crates.io/crates/gpui-x-web) | 0.1.0 | 0 | Web (wasm) backend for the gpui-x distribution |
-| 2026-10-05 13:35:24 | [kflight](https://crates.io/crates/kflight) | 0.1.0-alpha.1 | 0 | Pre-flight checks for Linux kernel reboots |
-| 2026-10-05 13:39:11 | [fmite-derive](https://crates.io/crates/fmite-derive) | 0.1.0 | 0 | Derives for fmite: Variables and Enumeration |
-| 2026-10-05 13:39:25 | [fmite](https://crates.io/crates/fmite) | 0.1.0 | 0 | An FMI 3.0 standard in Rust |
-| 2026-10-05 13:40:42 | [wist-api](https://crates.io/crates/wist-api) | 0.1.1 | 0 | Cross-process API seam messages for the wist control plane (edge <-> gateway <-… |
-| 2026-10-05 13:42:40 | [spacelens-discovery](https://crates.io/crates/spacelens-discovery) | 0.3.1 | 0 | Read-only discovery of large files, developer caches, and gitignored paths. |
-| 2026-10-05 13:44:39 | [gpui-x-macos](https://crates.io/crates/gpui-x-macos) | 0.1.0 | 0 | macOS backend for the gpui-x distribution |
-| 2026-10-05 13:45:34 | [libqi-macros-vibe](https://crates.io/crates/libqi-macros-vibe) | 0.1.0 | 0 | Procedural macros of the qi framework: #[qi::object] and the value derives |
-| 2026-10-05 13:45:37 | [libqi-vibe](https://crates.io/crates/libqi-vibe) | 0.1.0 | 0 | The qi framework of NAOqi robots (libqi, qimessaging) in Rust: sessions, servic… |
-| 2026-10-05 13:54:37 | [gpui-x-platform](https://crates.io/crates/gpui-x-platform) | 0.1.0 | 0 | Platform facade aggregating the gpui-x backends behind one entry point |
-| 2026-10-05 14:01:14 | [glide-core](https://crates.io/crates/glide-core) | 0.1.0 | 0 | Core for Valkey GLIDE. This crate isn't intended to be used directly. |
-| 2026-10-05 14:04:04 | [gpui-vim-x](https://crates.io/crates/gpui-vim-x) | 0.1.1 | 0 | gpui integration for the vimcore engine: keystroke interception and mode UI sta… |
-| 2026-10-05 14:07:58 | [open_perception_kit](https://crates.io/crates/open_perception_kit) | 0.1.1 | 0 | Generated open_perception_kit Rust SDK |
-| 2026-10-05 14:13:00 | [pax-core-papers](https://crates.io/crates/pax-core-papers) | 1.1.0 | 0 | Discover, declare, manage, and reproducibly acquire academic papers, using Nix… |
-| 2026-10-05 14:13:29 | [webdriver-bidi-macros](https://crates.io/crates/webdriver-bidi-macros) | 0.1.0 | 0 | Derive macros for webdriver-bidi (builder, command and event generation) |
-| 2026-10-05 14:13:44 | [webdriver-bidi](https://crates.io/crates/webdriver-bidi) | 0.1.0 | 0 | Generated Rust types and commands for the W3C WebDriver BiDi protocol |
-| 2026-10-05 14:18:17 | [tree-sitter-quirrel](https://crates.io/crates/tree-sitter-quirrel) | 4.43.0 | 0 | Dagor Quirrel grammar for tree-sitter |
+| 2026-10-05 14:26:34 | [nouride](https://crates.io/crates/nouride) | 0.1.0 | 0 | Ultra-lightweight multi-agent AI engine in a single binary daemon by Nouverse T… |
+| 2026-10-05 14:27:03 | [nouverse](https://crates.io/crates/nouverse) | 0.1.0 | 0 | Official developer umbrella package and portal for Nouverse Technologies. |
+| 2026-10-05 14:27:06 | [nougate](https://crates.io/crates/nougate) | 0.1.0 | 0 | Modular LLM routing gateway, reverse proxy, and model virtualization layer. |
+| 2026-10-05 14:27:10 | [nouclip](https://crates.io/crates/nouclip) | 0.1.0 | 0 | High-performance AI video clipper & auto-shorts generator powered by Whisper &… |
+| 2026-10-05 14:27:14 | [noumind](https://crates.io/crates/noumind) | 0.1.0 | 0 | Hybrid memory engine, MCP context server, and knowledge retrieval architecture. |
+| 2026-10-05 14:30:30 | [autumn-plugin-kafka](https://crates.io/crates/autumn-plugin-kafka) | 0.1.0 | 0 | Kafka producer and consumer plugin for autumn-web applications |
+| 2026-10-05 14:34:56 | [taskcraft](https://crates.io/crates/taskcraft) | 0.0.0 | 0 | Background task queue for Rust on tokio: three-way source polling, retries as d… |
+| 2026-10-05 14:41:05 | [basable-core](https://crates.io/crates/basable-core) | 0.1.0 | 0 | Leaf types every basable framework crate shares: naming rules, labels, the two-… |
+| 2026-10-05 14:41:06 | [basable-messenger](https://crates.io/crates/basable-messenger) | 0.1.0 | 0 | The runtime half of the basable messenger: the Route trait the generated crates… |
+| 2026-10-05 14:41:06 | [basable-messenger-codegen](https://crates.io/crates/basable-messenger-codegen) | 0.1.0 | 0 | The basable messenger code generator as a library: parses and validates routing… |
+| 2026-10-05 14:41:07 | [basable-protoc-gen-buffa](https://crates.io/crates/basable-protoc-gen-buffa) | 0.1.0 | 0 | The protoc plugin a basable nanoservice project's build runs for its message ty… |
+| 2026-10-05 14:41:10 | [basable-auth](https://crates.io/crates/basable-auth) | 0.1.0 | 0 | Ory Kratos session validation for a basable nanoservice project: a Validator th… |
+| 2026-10-05 14:43:11 | [omnifetch-rs](https://crates.io/crates/omnifetch-rs) | 0.1.0 | 0 | A blazing-fast, lightweight system info fetch tool written in Rust |
+| 2026-10-05 14:45:28 | [nouva](https://crates.io/crates/nouva) | 0.1.0 | 0 | Personal assistant and lead coordinator AI agent for Nouverse Technologies. |
+| 2026-10-05 14:46:47 | [desktop-agent](https://crates.io/crates/desktop-agent) | 0.1.0 | 0 | Cross-platform desktop automation daemon and OS-level control layer. |
+| 2026-10-05 14:47:50 | [wordval-bus](https://crates.io/crates/wordval-bus) | 1.0.4 | 0 | Wordval event bus: unified in-process pub/sub and NATS fan-out behind one API (… |
+| 2026-10-05 14:49:57 | [depends-rs-core](https://crates.io/crates/depends-rs-core) | 0.1.0 | 0 | Syntax, shape metadata, and expansion planning for depends-rs |
+| 2026-10-05 14:50:29 | [depends-rs](https://crates.io/crates/depends-rs) | 0.1.0 | 0 | Dependency-oriented lifetime elaboration for Rust |
+| 2026-10-05 14:51:22 | [basable-db](https://crates.io/crates/basable-db) | 0.1.0 | 0 | Postgres for basable nanoservices: the Nanoservice and Stateful markers, one Na… |
+| 2026-10-05 14:51:31 | [octopux-reverse](https://crates.io/crates/octopux-reverse) | 0.20.1 | 0 | Reverse engineers a database into octopux models and relations, by piping its s… |
+| 2026-10-05 14:56:45 | [voice-compute](https://crates.io/crates/voice-compute) | 0.1.0 | 0 | Local GPU-accelerated voice processing stack (Faster-Whisper, RVC, Edge-TTS). |
+| 2026-10-05 15:01:20 | [basable-publicid](https://crates.io/crates/basable-publicid) | 0.1.0 | 0 | Public, base62, type-prefixed ids from UUIDs (proj_3kFz…), with an explicit boo… |
+| 2026-10-05 15:07:01 | [betacalendars-papergrid](https://crates.io/crates/betacalendars-papergrid) | 0.1.0 | 0 | Deterministic printable calendar sheet layouts with SVG and JSON output. |
+| 2026-10-05 15:07:04 | [nouride-box](https://crates.io/crates/nouride-box) | 0.1.0 | 0 | Hardware AI server appliance distribution and configuration for Nouride daemon. |
+| 2026-10-05 15:09:34 | [gcua](https://crates.io/crates/gcua) | 0.1.0 | 0 | GCUA: General Codon Usage Analysis |
+| 2026-10-05 15:11:23 | [basable-testkit](https://crates.io/crates/basable-testkit) | 0.1.0 | 0 | Test harness for basable nanoservices: a database per test from TEST_DATABASE_U… |
+| 2026-10-05 15:15:16 | [bactviz](https://crates.io/crates/bactviz) | 0.2.0 | 0 | Linear genome alignment maps for bacterial genomes: MUMmer collinear blocks + a… |
+| 2026-10-05 15:16:19 | [fission-command-process](https://crates.io/crates/fission-command-process) | 0.15.0 | 0 | Owned child-process supervision for Fission CLI commands |
+| 2026-10-05 15:17:22 | [noubox](https://crates.io/crates/noubox) | 0.1.0 | 0 | Low-power hardware AI appliance distribution and firmware utilities. |
+| 2026-10-05 15:21:22 | [basable-externaleffect](https://crates.io/crates/basable-externaleffect) | 0.1.0 | 0 | Typed building blocks for the external-API effect calls a basable reconciler ma… |
 
 ## Data source
 

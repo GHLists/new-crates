@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T14:26:34.834459Z,nouride,0.1.0,0,0,https://github.com/nouverse/nouride-releases,Ultra-lightweight multi-agent AI engine in a single binary daemon by Nouverse Technologies.
+2026-10-05T14:27:03.373467Z,nouverse,0.1.0,0,0,https://github.com/nouverse,Official developer umbrella package and portal for Nouverse Technologies.
+2026-10-05T14:27:06.878205Z,nougate,0.1.0,0,0,https://github.com/nouverse/nougate,"Modular LLM routing gateway, reverse proxy, and model virtualization layer."
+2026-10-05T14:27:10.612271Z,nouclip,0.1.0,0,0,https://github.com/nouverse/nouclip,High-performance AI video clipper & auto-shorts generator powered by Whisper & FFmpeg.
+2026-10-05T14:27:14.742426Z,noumind,0.1.0,0,0,https://github.com/nouverse,"Hybrid memory engine, MCP context server, and knowledge retrieval architecture."
+2026-10-05T14:30:30.116155Z,autumn-plugin-kafka,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-kafka,Kafka producer and consumer plugin for autumn-web applications
+2026-10-05T14:34:56.333738Z,taskcraft,0.0.0,0,0,https://github.com/Sebkd/taskcraft,"Background task queue for Rust on tokio: three-way source polling, retries as data, resource pools, graceful shutdown"
+2026-10-05T14:41:05.365319Z,basable-core,0.1.0,0,0,https://github.com/basable/basable-rust-libs,"Leaf types every basable framework crate shares: naming rules, labels, the two-clock Deadline, BoxError, AppError with the Connect codes, and the request Ctx."
+2026-10-05T14:41:06.068055Z,basable-messenger,0.1.0,0,0,https://github.com/basable/basable-rust-libs,"The runtime half of the basable messenger: the Route trait the generated crates implement (one impl per declared (source, message) pair on the concrete router) and the boxing helper the generator use…"
+2026-10-05T14:41:06.641579Z,basable-messenger-codegen,0.1.0,0,0,https://github.com/basable/basable-rust-libs,"The basable messenger code generator as a library: parses and validates routing.yaml (JSON Schema plus the coded semantic rules, every diagnostic with its YAML line), analyses the route graph (boxing…"
+2026-10-05T14:41:07.213627Z,basable-protoc-gen-buffa,0.1.0,0,0,https://github.com/basable/basable-rust-libs,"The protoc plugin a basable nanoservice project's build runs for its message types: buffa-codegen with the platform's fixed output shape (owned types, zero-copy views, JSON, one file per package). A…"
+2026-10-05T14:41:10.510462Z,basable-auth,0.1.0,0,0,https://github.com/basable/basable-rust-libs,"Ory Kratos session validation for a basable nanoservice project: a Validator that checks the request's cookie against /sessions/whoami, public-path allow-lists, a session hook for first-touch provisi…"
+2026-10-05T14:43:11.191155Z,omnifetch-rs,0.1.0,0,0,https://github.com/byindex/omnifetch,"A blazing-fast, lightweight system info fetch tool written in Rust"
+2026-10-05T14:45:28.916395Z,nouva,0.1.0,0,0,https://github.com/nouverse,Personal assistant and lead coordinator AI agent for Nouverse Technologies.
+2026-10-05T14:46:47.697587Z,desktop-agent,0.1.0,0,0,https://github.com/nouverse/desktop-agent-windows,Cross-platform desktop automation daemon and OS-level control layer.
+2026-10-05T14:47:50.540325Z,wordval-bus,1.0.4,0,0,https://github.com/codetangxin/wordval,Wordval event bus: unified in-process pub/sub and NATS fan-out behind one API (at-most-once)
+2026-10-05T14:49:57.202537Z,depends-rs-core,0.1.0,0,0,https://github.com/yuygfgg/depends-rs,"Syntax, shape metadata, and expansion planning for depends-rs"
+2026-10-05T14:50:29.373025Z,depends-rs,0.1.0,0,0,https://github.com/yuygfgg/depends-rs,Dependency-oriented lifetime elaboration for Rust
+2026-10-05T14:51:22.143482Z,basable-db,0.1.0,0,0,https://github.com/basable/basable-rust-libs,"Postgres for basable nanoservices: the Nanoservice and Stateful markers, one NanoPool per stateful nanoservice (SET ROLE and search_path pinned per connection), the MigratorPool, the dbmate-format mi…"
+2026-10-05T14:51:31.997178Z,octopux-reverse,0.20.1,0,0,https://github.com/ctaque/octopux,"Reverse engineers a database into octopux models and relations, by piping its schema to the octopux CLI"
+2026-10-05T14:56:45.890463Z,voice-compute,0.1.0,0,0,https://github.com/nouverse,"Local GPU-accelerated voice processing stack (Faster-Whisper, RVC, Edge-TTS)."
+2026-10-05T15:01:20.717613Z,basable-publicid,0.1.0,0,0,https://github.com/basable/basable-rust-libs,"Public, base62, type-prefixed ids from UUIDs (proj_3kFz…), with an explicit boot-time registry of resource types. A port of the basable monorepo's golang/lib/publicid."
+2026-10-05T15:07:01.336067Z,betacalendars-papergrid,0.1.0,0,0,https://github.com/mateopedersen/betacalendars-papergrid,Deterministic printable calendar sheet layouts with SVG and JSON output.
+2026-10-05T15:07:04.190637Z,nouride-box,0.1.0,0,0,https://github.com/nouverse/nouride-releases,Hardware AI server appliance distribution and configuration for Nouride daemon.
+2026-10-05T15:09:34.505035Z,gcua,0.1.0,0,0,https://codeberg.org/gsablok/gcuars,GCUA: General Codon Usage Analysis
+2026-10-05T15:11:23.561386Z,basable-testkit,0.1.0,0,0,https://github.com/basable/basable-rust-libs,"Test harness for basable nanoservices: a database per test from TEST_DATABASE_URL with the tenant's migrations applied as the app login, a NanoPool per nanoservice, and the CommitFaultProxy that drop…"
+2026-10-05T15:15:16.832963Z,bactviz,0.2.0,0,0,https://codeberg.org/gsablok/bactviz,"Linear genome alignment maps for bacterial genomes: MUMmer collinear blocks + all genes with names, SVG output"
+2026-10-05T15:16:19.257872Z,fission-command-process,0.15.0,0,0,https://github.com/fission-ui/fission,Owned child-process supervision for Fission CLI commands
+2026-10-05T15:17:22.496401Z,noubox,0.1.0,0,0,https://github.com/nouverse/nouride-releases,Low-power hardware AI appliance distribution and firmware utilities.
+2026-10-05T15:21:22.258661Z,basable-externaleffect,0.1.0,0,0,https://github.com/basable/basable-rust-libs,"Typed building blocks for the external-API effect calls a basable reconciler makes: one validated Adapter per call names what makes a retry of it safe (the sealed strategy sum), and Call is the only…"
