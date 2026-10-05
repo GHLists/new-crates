@@ -1,0 +1,13 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T07:25:22.650514Z,parsyng-fallback,0.1.0,0,0,https://github.com/supersurviveur/parsyng,"A pure-Rust implementation of the `proc_macro` token types, used by `parsyng` outside of macro expansion"
+2026-10-05T07:25:22.814719Z,parsyng-proc-macros,0.1.0,0,0,https://github.com/supersurviveur/parsyng,Procedural macros used in `parsyng`
+2026-10-05T07:25:22.970638Z,parsyng-quote-macros,0.1.0,0,0,https://github.com/supersurviveur/parsyng,Quote macros used in `parsyng`
+2026-10-05T07:32:41.763406Z,parsyng-core,0.1.0,0,0,https://github.com/supersurviveur/parsyng,Core components of `parsyng`
+2026-10-05T07:32:43.535603Z,parsyng,0.1.1,0,0,https://github.com/jthillard/parsyng,"An easy-to-use, fast-compiling replacement for `syn` + `quote` for writing procedural macros"
+2026-10-05T07:34:08.132759Z,tc_chacha_aead,0.1.0,0,0,https://github.com/TomiCheng/tc_aead_cipher,"ChaCha20-Poly1305 (RFC 8439) and XChaCha20-Poly1305 authenticated encryption, on the tc_aead_cipher contracts."
+2026-10-05T07:47:16.343244Z,mppi-provider,0.1.0,0,0,,"MPPI provider payment runtime, protocol services and integration interfaces"
+2026-10-05T07:50:08.66691Z,laser_tele,2.1.0,0,0,https://github.com/NikolayUvarov/laser_tele_rs,"Telegram Bot API library with async and blocking API: updates, messages, keyboards, files, polls, inline mode, payments, games, reactions"
+2026-10-05T08:03:02.005804Z,arachne-kv-seam,0.1.0,0,0,https://github.com/xrays-tech/arachne,Arachne seam: the leaf crate holding the core value types and the injectable seam traits
+2026-10-05T08:04:53.297591Z,arachne-kv-transport-tonic,0.1.0,0,0,https://github.com/xrays-tech/arachne,Arachne tonic/rustls transport — the ONLY crate allowed to reference tonic/rustls types
+2026-10-05T08:05:43.47143Z,arachne-kv,0.1.0,0,0,https://github.com/xrays-tech/arachne,"Arachne: transport-agnostic product core (consensus, WAL storage, KV state machine)"
+2026-10-05T08:16:01.652501Z,multicriteria-dijkstra,0.1.0,0,0,https://github.com/sebschmi/multicriteria-dijkstra,A generic multicriteria Dijkstra.

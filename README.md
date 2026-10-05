@@ -8,32 +8,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 07:20 UTC
+## Latest list — 2026-10-05 08:19 UTC
 
-New crates published between 2026-10-05 06:19 UTC and 2026-10-05 07:20 UTC.
+New crates published between 2026-10-05 07:20 UTC and 2026-10-05 08:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-05T07-20-56-843105Z.csv)
+[Full CSV](data/new-crates-2026-10-05T08-19-51-310859Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-05 06:28:27 | [tocsin-reqwest](https://crates.io/crates/tocsin-reqwest) | 0.2.0 | 0 | A non-blocking reqwest transport for tocsin: send Apprise-style notifications f… |
-| 2026-10-05 06:29:37 | [tsr_lsproto](https://crates.io/crates/tsr_lsproto) | 0.3.0 | 0 | Pinned language server protocol types and wire codecs for tsr |
-| 2026-10-05 06:34:39 | [tsr_autoimport](https://crates.io/crates/tsr_autoimport) | 0.3.0 | 0 | Auto-import indexes and import edits for tsr |
-| 2026-10-05 06:35:04 | [tsr_ls](https://crates.io/crates/tsr_ls) | 0.3.0 | 0 | Language service conversions and queries for tsr |
-| 2026-10-05 06:35:36 | [tsr_lsp](https://crates.io/crates/tsr_lsp) | 0.3.0 | 0 | Language server session and project dispatch for tsr |
-| 2026-10-05 06:45:32 | [goway-journal](https://crates.io/crates/goway-journal) | 0.1.0 | 0 | Write-ahead change journal whose replay provably inverts an install. |
-| 2026-10-05 06:45:34 | [goway](https://crates.io/crates/goway) | 0.1.0 | 0 | Run a command on the least-loaded machine of a pool, natively, from the current… |
-| 2026-10-05 06:46:40 | [mvs-sdk-sys](https://crates.io/crates/mvs-sdk-sys) | 0.1.0 | 0 | Unofficial raw FFI bindings for the Hikrobot MVS industrial camera SDK (MvCamer… |
-| 2026-10-05 06:46:43 | [mvs-sdk](https://crates.io/crates/mvs-sdk) | 0.1.0 | 0 | Unofficial safe Rust wrapper for the Hikrobot MVS industrial camera SDK (MvCame… |
-| 2026-10-05 06:46:54 | [mv3d-lp-sys](https://crates.io/crates/mv3d-lp-sys) | 0.1.0 | 0 | Unofficial raw FFI bindings for the Hikrobot 3DMVS laser profiler SDK (Mv3dLp). |
-| 2026-10-05 06:46:56 | [mv3d-lp](https://crates.io/crates/mv3d-lp) | 0.1.0 | 0 | Unofficial safe Rust wrapper for the Hikrobot 3DMVS laser profiler SDK (Mv3dLp). |
-| 2026-10-05 06:53:51 | [diskuse-core](https://crates.io/crates/diskuse-core) | 0.2.0 | 0 | Read-only disk usage scanning for macOS and Linux: the library of diskuse |
-| 2026-10-05 06:54:34 | [vole-document](https://crates.io/crates/vole-document) | 0.1.0-alpha.1 | 0 | Byte-exact procedural document storage: deterministic reconstruction state, typ… |
-| 2026-10-05 07:00:32 | [sel-lang](https://crates.io/crates/sel-lang) | 0.10.0 | 0 | A small expression language for business rules: exact decimals, strict UTF-8, t… |
-| 2026-10-05 07:08:09 | [codesleuth](https://crates.io/crates/codesleuth) | 0.1.0 | 0 | Read-only codebase scout agent: a complete agent-harness CLI that searches code… |
-| 2026-10-05 07:14:23 | [zabamqtt](https://crates.io/crates/zabamqtt) | 0.1.0 | 0 | A MQTT client fully implemented in rust with 0 dependencies |
-| 2026-10-05 07:15:45 | [trigora-client](https://crates.io/crates/trigora-client) | 1.0.0 | 0 | Rust client for starting and controlling Trigora durable executions. |
-| 2026-10-05 07:15:48 | [trigora](https://crates.io/crates/trigora) | 1.0.0 | 0 | Rust authoring SDK for Trigora durable programs. |
+| 2026-10-05 07:25:22 | [parsyng-fallback](https://crates.io/crates/parsyng-fallback) | 0.1.0 | 0 | A pure-Rust implementation of the `proc_macro` token types, used by `parsyng` o… |
+| 2026-10-05 07:25:22 | [parsyng-proc-macros](https://crates.io/crates/parsyng-proc-macros) | 0.1.0 | 0 | Procedural macros used in `parsyng` |
+| 2026-10-05 07:25:22 | [parsyng-quote-macros](https://crates.io/crates/parsyng-quote-macros) | 0.1.0 | 0 | Quote macros used in `parsyng` |
+| 2026-10-05 07:32:41 | [parsyng-core](https://crates.io/crates/parsyng-core) | 0.1.0 | 0 | Core components of `parsyng` |
+| 2026-10-05 07:32:43 | [parsyng](https://crates.io/crates/parsyng) | 0.1.1 | 0 | An easy-to-use, fast-compiling replacement for `syn` + `quote` for writing proc… |
+| 2026-10-05 07:34:08 | [tc_chacha_aead](https://crates.io/crates/tc_chacha_aead) | 0.1.0 | 0 | ChaCha20-Poly1305 (RFC 8439) and XChaCha20-Poly1305 authenticated encryption, o… |
+| 2026-10-05 07:47:16 | [mppi-provider](https://crates.io/crates/mppi-provider) | 0.1.0 | 0 | MPPI provider payment runtime, protocol services and integration interfaces |
+| 2026-10-05 07:50:08 | [laser_tele](https://crates.io/crates/laser_tele) | 2.1.0 | 0 | Telegram Bot API library with async and blocking API: updates, messages, keyboa… |
+| 2026-10-05 08:03:02 | [arachne-kv-seam](https://crates.io/crates/arachne-kv-seam) | 0.1.0 | 0 | Arachne seam: the leaf crate holding the core value types and the injectable se… |
+| 2026-10-05 08:04:53 | [arachne-kv-transport-tonic](https://crates.io/crates/arachne-kv-transport-tonic) | 0.1.0 | 0 | Arachne tonic/rustls transport — the ONLY crate allowed to reference tonic/rust… |
+| 2026-10-05 08:05:43 | [arachne-kv](https://crates.io/crates/arachne-kv) | 0.1.0 | 0 | Arachne: transport-agnostic product core (consensus, WAL storage, KV state mach… |
+| 2026-10-05 08:16:01 | [multicriteria-dijkstra](https://crates.io/crates/multicriteria-dijkstra) | 0.1.0 | 0 | A generic multicriteria Dijkstra. |
 
 ## Data source
 
