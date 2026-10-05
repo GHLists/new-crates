@@ -8,42 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 10:18 UTC
+## Latest list — 2026-10-05 11:18 UTC
 
-New crates published between 2026-10-05 09:19 UTC and 2026-10-05 10:18 UTC.
+New crates published between 2026-10-05 10:18 UTC and 2026-10-05 11:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-05T10-18-33-925967Z.csv)
+[Full CSV](data/new-crates-2026-10-05T11-18-33-610823Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-05 09:20:50 | [esp32p4-p4-pre-v3-fc3e6d4](https://crates.io/crates/esp32p4-p4-pre-v3-fc3e6d4) | 0.2.0-p4v13.1 | 0 | Peripheral access crate for the ESP32-P4 |
-| 2026-10-05 09:21:32 | [artifactize](https://crates.io/crates/artifactize) | 0.5.0 | 0 | Declare Artifacts and the evals that review them (tests, LLM reviews, human sig… |
-| 2026-10-05 09:27:27 | [katana-render-runtime-assets](https://crates.io/crates/katana-render-runtime-assets) | 0.4.23 | 0 | Static assets for the KatanA diagram render runtime. |
-| 2026-10-05 09:31:15 | [notation199x](https://crates.io/crates/notation199x) | 0.2.0 | 0 | The rules for reading text that Raoh and Souther share: Unicode 18.0.0 case con… |
-| 2026-10-05 09:34:45 | [sping](https://crates.io/crates/sping) | 1.5.4 | 0 | Terminal-native real-time connectivity monitor with network context diagnostics |
-| 2026-10-05 09:34:58 | [esp32s3-p4-pre-v3](https://crates.io/crates/esp32s3-p4-pre-v3) | 0.35.2-p4v13.1 | 0 | Peripheral access crate for the ESP32-S3 |
-| 2026-10-05 09:38:29 | [pdfops](https://crates.io/crates/pdfops) | 0.2.0 | 0 | Fast PDF operations with JSON output for AI agents: CLI, MCP server and library |
-| 2026-10-05 09:39:46 | [rscsi-core](https://crates.io/crates/rscsi-core) | 0.0.1 | 0 | rscsi - core component |
-| 2026-10-05 09:39:46 | [rscsi-multipath](https://crates.io/crates/rscsi-multipath) | 0.0.1 | 0 | rscsi - multipath component |
-| 2026-10-05 09:39:47 | [rscsi-sbc](https://crates.io/crates/rscsi-sbc) | 0.0.1 | 0 | rscsi - SBC component |
-| 2026-10-05 09:39:48 | [rscsi-spc](https://crates.io/crates/rscsi-spc) | 0.0.1 | 0 | rscsi - SPC component |
-| 2026-10-05 09:39:49 | [rscsi-transport](https://crates.io/crates/rscsi-transport) | 0.0.1 | 0 | rscsi - generic transport component |
-| 2026-10-05 09:41:35 | [esp-config-p4-pre-v3](https://crates.io/crates/esp-config-p4-pre-v3) | 0.7.0-p4v13.1 | 0 | Configure projects using esp-hal and related packages |
-| 2026-10-05 09:42:03 | [rscsi-util](https://crates.io/crates/rscsi-util) | 0.0.1 | 0 | rscsi - helper traits and utilities component |
-| 2026-10-05 09:48:34 | [simulcrypt](https://crates.io/crates/simulcrypt) | 0.1.0 | 0 | DVB SimulCrypt (ETSI TS 103 197) head-end protocol: ECMG client, EMMG server, c… |
-| 2026-10-05 09:49:35 | [esp-rom-sys-p4-pre-v3](https://crates.io/crates/esp-rom-sys-p4-pre-v3) | 0.1.4-p4v13.1 | 0 | ROM code support |
-| 2026-10-05 09:51:24 | [rscsi-transport-iscsi](https://crates.io/crates/rscsi-transport-iscsi) | 0.0.1 | 0 | rscsi - iSCSI transport component |
-| 2026-10-05 09:54:03 | [bitspark-deixis-core](https://crates.io/crates/bitspark-deixis-core) | 0.6.0 | 0 | deixis/core: the finite keyed tree Node(T) = T × (Bytes ⇀ Node(T)). The payload… |
-| 2026-10-05 09:54:06 | [bitspark-deixis-pos](https://crates.io/crates/bitspark-deixis-pos) | 0.6.0 | 0 | deixis-pos-v1: the spelling κ : ℕ → Bytes of positions into deixis keys — injec… |
-| 2026-10-05 10:01:07 | [esp32s2-p4-pre-v3](https://crates.io/crates/esp32s2-p4-pre-v3) | 0.31.2-p4v13.1 | 0 | Peripheral access crate for the ESP32-S2 |
-| 2026-10-05 10:02:35 | [smplx-sdk-test](https://crates.io/crates/smplx-sdk-test) | 0.0.12 | 0 | Simplex sdk to simplify the development with simplicity |
-| 2026-10-05 10:02:47 | [smplx-build-test](https://crates.io/crates/smplx-build-test) | 0.0.12 | 0 | Simplex build command internal implementation |
-| 2026-10-05 10:03:20 | [smplx-regtest-test](https://crates.io/crates/smplx-regtest-test) | 0.0.12 | 0 | Simplex regtest command internal implementation |
-| 2026-10-05 10:03:56 | [smplx-test-test](https://crates.io/crates/smplx-test-test) | 0.0.12 | 0 | Simplex test command internal implementation |
-| 2026-10-05 10:04:26 | [smplx-macros-test](https://crates.io/crates/smplx-macros-test) | 0.0.12 | 0 | Simplex macros re-export package |
-| 2026-10-05 10:09:12 | [smplx-std-test](https://crates.io/crates/smplx-std-test) | 0.0.12 | 0 | A blazingly-fast, ux-first simplicity development framework |
-| 2026-10-05 10:09:27 | [rscsi](https://crates.io/crates/rscsi) | 0.0.1 | 0 | rscsi - Rust SCSI framework |
-| 2026-10-05 10:12:57 | [esp-hal-p4-pre-v3](https://crates.io/crates/esp-hal-p4-pre-v3) | 1.1.0-p4v13.1 | 0 | Bare-metal HAL for Espressif devices |
+| 2026-10-05 10:20:53 | [bitspark-ontos-core](https://crates.io/crates/bitspark-ontos-core) | 0.13.0 | 0 | ontos/core (L0): the Atom(Bytes) \| Tuple(Value*) value model and structural ide… |
+| 2026-10-05 10:20:54 | [bitspark-ontos-codec](https://crates.io/crates/bitspark-ontos-codec) | 0.13.0 | 0 | ontos canonical binary codec (ontos-codec-v1, frozen). Depends on ontos-core. |
+| 2026-10-05 10:20:56 | [bitspark-ontos-data](https://crates.io/crates/bitspark-ontos-data) | 0.13.0 | 0 | ontos/data (L2) canonical embeddings (ontos-data-v1: int, utf8-text, bool, list… |
+| 2026-10-05 10:20:57 | [bitspark-ontos-data-json](https://crates.io/crates/bitspark-ontos-data-json) | 0.13.0 | 0 | ontos-data-json/1 — the named, total projection of a domain-JSON document to an… |
+| 2026-10-05 10:33:15 | [mho](https://crates.io/crates/mho) | 0.1.0 | 0 | A Rust port of ShellCrash - A tool for managing proxy cores like Clash/Mihomo/S… |
+| 2026-10-05 10:33:45 | [bb-flasher-pb2-mspm0](https://crates.io/crates/bb-flasher-pb2-mspm0) | 0.1.0 | 0 | A library to flash MSPM0 co-processor in PocketBeagle 2 |
+| 2026-10-05 10:34:59 | [jftag](https://crates.io/crates/jftag) | 1.0.0 | 0 | CLI and library to encode JSON into a short, URL-safe text string and decode it… |
+| 2026-10-05 10:35:54 | [altopelago-sansa-runtime](https://crates.io/crates/altopelago-sansa-runtime) | 0.12.0 | 0 | Host-neutral Rust runtime for SANSA Address, Resolve, and shared AEON value sem… |
+| 2026-10-05 10:44:14 | [gpui-x-ztracing-macro](https://crates.io/crates/gpui-x-ztracing-macro) | 0.1.0 | 0 | Tracing proc-macros for the gpui-x distribution |
+| 2026-10-05 10:47:55 | [gpui-x-gpui-util](https://crates.io/crates/gpui-x-gpui-util) | 0.1.0 | 0 | Utility routines for the gpui-x distribution |
+| 2026-10-05 10:48:00 | [gpui-x-derive-refineable](https://crates.io/crates/gpui-x-derive-refineable) | 0.1.0 | 0 | A derive macro for creating refinement types in Rust |
+| 2026-10-05 10:48:06 | [gpui-x-refineable](https://crates.io/crates/gpui-x-refineable) | 0.1.0 | 0 | A macro for creating 'refinement' types that can be used to partially initializ… |
+| 2026-10-05 10:48:37 | [async-ceph](https://crates.io/crates/async-ceph) | 0.0.0 | 0 | Async Rust bindings for Ceph's RADOS, RBD and CephFS libraries |
+| 2026-10-05 10:48:38 | [ceph-bindings-gen](https://crates.io/crates/ceph-bindings-gen) | 0.0.0 | 0 | Rust bindings generator for the rados-sys, rbd-sys and cephfs-sys crates |
+| 2026-10-05 10:48:38 | [cephfs-sys](https://crates.io/crates/cephfs-sys) | 0.0.0 | 0 | Low-level FFI bindings to Ceph's libcephfs |
+| 2026-10-05 10:48:39 | [rados-sys](https://crates.io/crates/rados-sys) | 0.0.0 | 0 | Low-level FFI bindings to Ceph's librados |
+| 2026-10-05 10:48:40 | [rbd-sys](https://crates.io/crates/rbd-sys) | 0.0.0 | 0 | Low-level FFI bindings to Ceph's librbd |
+| 2026-10-05 10:55:28 | [gpui-x-scheduler](https://crates.io/crates/gpui-x-scheduler) | 0.1.0 | 0 | Foreground/background scheduler for the gpui-x distribution |
+| 2026-10-05 10:55:36 | [gpui-x-shared-string](https://crates.io/crates/gpui-x-shared-string) | 0.1.0 | 0 | Shared string type for the gpui-x distribution |
+| 2026-10-05 10:58:23 | [dlens-domain](https://crates.io/crates/dlens-domain) | 0.1.0 | 0 | Internal to the dlens crate (domain types, ports and errors); depend on `dlens`… |
+| 2026-10-05 10:58:26 | [dlens-analysis](https://crates.io/crates/dlens-analysis) | 0.1.0 | 0 | Internal to the dlens crate (scoring, prompt rendering and Python-parity helper… |
+| 2026-10-05 10:58:26 | [dlens-config](https://crates.io/crates/dlens-config) | 0.1.0 | 0 | Internal to the dlens crate (configuration, supplied once by the host at init);… |
+| 2026-10-05 10:58:27 | [dlens-llm](https://crates.io/crates/dlens-llm) | 0.1.0 | 0 | Internal to the dlens crate (model client and embeddings); depend on `dlens` in… |
+| 2026-10-05 10:58:28 | [dlens-rerank](https://crates.io/crates/dlens-rerank) | 0.1.0 | 0 | Internal to the dlens crate (ONNX cross-encoder reranker); depend on `dlens` in… |
+| 2026-10-05 11:13:07 | [dlens-db](https://crates.io/crates/dlens-db) | 0.1.0 | 0 | Internal to the dlens crate (persistence and declarative schema reconciliation)… |
+| 2026-10-05 11:13:27 | [dioxus-shadcn-core](https://crates.io/crates/dioxus-shadcn-core) | 0.1.0 | 0 | Core utilities and shared conventions for dioxus-shadcn. |
+| 2026-10-05 11:13:29 | [dioxus-shadcn-cli](https://crates.io/crates/dioxus-shadcn-cli) | 0.1.0 | 0 | Command-line tool for adding dioxus-shadcn components to Dioxus projects. |
+| 2026-10-05 11:13:31 | [dioxus-shadcn-primitives](https://crates.io/crates/dioxus-shadcn-primitives) | 0.1.0 | 0 | Unstyled primitive state and accessibility helpers for dioxus-shadcn. |
+| 2026-10-05 11:13:34 | [dioxus-shadcn](https://crates.io/crates/dioxus-shadcn) | 0.1.0 | 0 | Tailwind-styled Dioxus UI components with source-copy friendly APIs. |
+| 2026-10-05 11:14:59 | [gpui-x-collections](https://crates.io/crates/gpui-x-collections) | 0.1.0 | 0 | Standard collection types used by Zed and GPUI |
+| 2026-10-05 11:15:25 | [raft-seedable](https://crates.io/crates/raft-seedable) | 0.7.0 | 0 | Arachne-maintained fork of tikv/raft-rs 0.7.0 adding a thread-local, seedable e… |
 
 ## Data source
 

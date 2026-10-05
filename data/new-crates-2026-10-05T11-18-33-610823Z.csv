@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T10:20:53.004032Z,bitspark-ontos-core,0.13.0,0,0,https://github.com/Bitspark/ontos,"ontos/core (L0): the Atom(Bytes) | Tuple(Value*) value model and structural identity. No codec, no interpretation."
+2026-10-05T10:20:54.508166Z,bitspark-ontos-codec,0.13.0,0,0,https://github.com/Bitspark/ontos,"ontos canonical binary codec (ontos-codec-v1, frozen). Depends on ontos-core."
+2026-10-05T10:20:56.13329Z,bitspark-ontos-data,0.13.0,0,0,https://github.com/Bitspark/ontos,"ontos/data (L2) canonical embeddings (ontos-data-v1: int, utf8-text, bool, list, map, set, decimal, null). Depends on ontos-core and ontos-codec (map/set element order)."
+2026-10-05T10:20:57.563261Z,bitspark-ontos-data-json,0.13.0,0,0,https://github.com/Bitspark/ontos,"ontos-data-json/1 — the named, total projection of a domain-JSON document to an ontos/data value. Rust peer of data/json/go and data/json/ts. Depends on ontos-core and ontos-data."
+2026-10-05T10:33:15.394964Z,mho,0.1.0,0,0,https://github.com/ahaoboy/mho,A Rust port of ShellCrash - A tool for managing proxy cores like Clash/Mihomo/SingBox
+2026-10-05T10:33:45.122838Z,bb-flasher-pb2-mspm0,0.1.0,0,0,https://github.com/beagleboard/bb-imager-rs,A library to flash MSPM0 co-processor in PocketBeagle 2
+2026-10-05T10:34:59.245607Z,jftag,1.0.0,0,0,https://github.com/hardliner66/jftag,"CLI and library to encode JSON into a short, URL-safe text string and decode it back"
+2026-10-05T10:35:54.807167Z,altopelago-sansa-runtime,0.12.0,0,0,https://github.com/AltoPelago/sansa,"Host-neutral Rust runtime for SANSA Address, Resolve, and shared AEON value semantics."
+2026-10-05T10:44:14.739702Z,gpui-x-ztracing-macro,0.1.0,0,0,,Tracing proc-macros for the gpui-x distribution
+2026-10-05T10:47:55.290505Z,gpui-x-gpui-util,0.1.0,0,0,,Utility routines for the gpui-x distribution
+2026-10-05T10:48:00.851829Z,gpui-x-derive-refineable,0.1.0,0,0,,A derive macro for creating refinement types in Rust
+2026-10-05T10:48:06.91824Z,gpui-x-refineable,0.1.0,0,0,,A macro for creating 'refinement' types that can be used to partially initialize or mutate a complex struct
+2026-10-05T10:48:37.780848Z,async-ceph,0.0.0,0,0,https://github.com/steliaai/async-ceph,"Async Rust bindings for Ceph's RADOS, RBD and CephFS libraries"
+2026-10-05T10:48:38.416102Z,ceph-bindings-gen,0.0.0,0,0,https://github.com/steliaai/async-ceph,"Rust bindings generator for the rados-sys, rbd-sys and cephfs-sys crates"
+2026-10-05T10:48:38.89673Z,cephfs-sys,0.0.0,0,0,https://github.com/steliaai/async-ceph,Low-level FFI bindings to Ceph's libcephfs
+2026-10-05T10:48:39.546195Z,rados-sys,0.0.0,0,0,https://github.com/steliaai/async-ceph,Low-level FFI bindings to Ceph's librados
+2026-10-05T10:48:40.043265Z,rbd-sys,0.0.0,0,0,https://github.com/steliaai/async-ceph,Low-level FFI bindings to Ceph's librbd
+2026-10-05T10:55:28.838234Z,gpui-x-scheduler,0.1.0,0,0,,Foreground/background scheduler for the gpui-x distribution
+2026-10-05T10:55:36.730564Z,gpui-x-shared-string,0.1.0,0,0,,Shared string type for the gpui-x distribution
+2026-10-05T10:58:23.022266Z,dlens-domain,0.1.0,0,0,https://github.com/dview-io/dlens,"Internal to the dlens crate (domain types, ports and errors); depend on `dlens` instead, this has no stability guarantee."
+2026-10-05T10:58:26.25073Z,dlens-analysis,0.1.0,0,0,https://github.com/dview-io/dlens,"Internal to the dlens crate (scoring, prompt rendering and Python-parity helpers); depend on `dlens` instead, this has no stability guarantee."
+2026-10-05T10:58:26.709789Z,dlens-config,0.1.0,0,0,https://github.com/dview-io/dlens,"Internal to the dlens crate (configuration, supplied once by the host at init); depend on `dlens` instead, this has no stability guarantee."
+2026-10-05T10:58:27.809477Z,dlens-llm,0.1.0,0,0,https://github.com/dview-io/dlens,"Internal to the dlens crate (model client and embeddings); depend on `dlens` instead, this has no stability guarantee."
+2026-10-05T10:58:28.304525Z,dlens-rerank,0.1.0,0,0,https://github.com/dview-io/dlens,"Internal to the dlens crate (ONNX cross-encoder reranker); depend on `dlens` instead, this has no stability guarantee."
+2026-10-05T11:13:07.308847Z,dlens-db,0.1.0,0,0,https://github.com/dview-io/dlens,"Internal to the dlens crate (persistence and declarative schema reconciliation); depend on `dlens` instead, this has no stability guarantee."
+2026-10-05T11:13:27.431909Z,dioxus-shadcn-core,0.1.0,0,0,https://github.com/yuxuetr/dioxus-ui,Core utilities and shared conventions for dioxus-shadcn.
+2026-10-05T11:13:29.95679Z,dioxus-shadcn-cli,0.1.0,0,0,https://github.com/yuxuetr/dioxus-ui,Command-line tool for adding dioxus-shadcn components to Dioxus projects.
+2026-10-05T11:13:31.276994Z,dioxus-shadcn-primitives,0.1.0,0,0,https://github.com/yuxuetr/dioxus-ui,Unstyled primitive state and accessibility helpers for dioxus-shadcn.
+2026-10-05T11:13:34.697048Z,dioxus-shadcn,0.1.0,0,0,https://github.com/yuxuetr/dioxus-ui,Tailwind-styled Dioxus UI components with source-copy friendly APIs.
+2026-10-05T11:14:59.298961Z,gpui-x-collections,0.1.0,0,0,,Standard collection types used by Zed and GPUI
+2026-10-05T11:15:25.13132Z,raft-seedable,0.7.0,0,0,https://github.com/xrays-tech/arachne,"Arachne-maintained fork of tikv/raft-rs 0.7.0 adding a thread-local, seedable election-RNG hook (set_election_rng_seed / clear_election_rng_seed) for deterministic distributed testing; unseeded behav…"
