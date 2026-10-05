@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T22:23:51.01926Z,agent-top-store,0.23.0,0,0,https://github.com/kannandreams/agent-top,"The local SQLite store behind `agent-top sync`: sessions, spans and MCP calls kept after a harness deletes its transcripts."
+2026-10-05T22:36:04.283314Z,discord_intl_database_js_source,0.33.0,0,0,https://github.com/discord/discord-intl,discord_intl Source implementation for JS messages files.
+2026-10-05T22:36:07.032228Z,discord_intl_flat_json_parser,0.33.0,0,0,https://github.com/discord/discord-intl,"Purpose-built, limited JSON parser with positional information for discord_intl"
+2026-10-05T22:36:11.169714Z,discord_intl_database_json_source,0.33.0,0,0,https://github.com/discord/discord-intl,discord_intl Source implemention for JSON messages files
+2026-10-05T22:36:15.379473Z,discord_intl_database_types_generator,0.33.0,0,0,https://github.com/discord/discord-intl,TypeScript declaration file generation for discord_intl projects.
+2026-10-05T22:36:18.076794Z,discord_intl_validator,0.33.0,0,0,https://github.com/discord/discord-intl,Validation utilities for both individual message values and aggregate messages across an entire database
+2026-10-05T22:41:37.450618Z,mawaqit-api,0.4.3,0,0,https://github.com/Bilel-Eljaamii/mawaqit-api,"Privacy-first Rust client for Mawaqit prayer times and mosque data. No API key required, no personal data stored or sent. Includes offline disk caching, full iqama calendar resolution, adhan voice do…"
+2026-10-05T22:51:04.294564Z,swarmfile-chunker,0.3.5,0,0,,Byte-identical FastCDC content chunker + manifest format for Swarmfile — shared by the mount engine and the git-LFS transfer agent so the two can never chunk differently.
+2026-10-05T22:53:25.333851Z,swarmfile-lfs-transfer,0.3.5,0,0,,"Swarmfile git-LFS custom transfer agent — pushes/pulls large files to a Swarmfile git-LFS server past the ~100 MB single-request edge limit, chunking client-side with the same FastCDC the mount uses."
+2026-10-05T22:53:30.668221Z,smeltery-sparks,0.1.0,0,0,https://github.com/smelteryworks/smeltery,"Sparks, the live components of the Smeltery framework: Rust state and actions with a Mold view, kept in sync with the browser by a small client runtime, with server push and file uploads."
+2026-10-05T22:53:43.497926Z,smeltery-alloy,0.1.0,0,0,https://github.com/smelteryworks/smeltery,"Alloy, the React and Vue bridge of the Smeltery framework: the server side of the Inertia protocol (v3), Vite asset tags and test helpers."
+2026-10-05T22:54:07.330198Z,smeltery-anvil,0.1.0,0,0,https://github.com/smelteryworks/smeltery,"Anvil, the real-time layer of the Smeltery framework: a WebSocket server speaking the Pusher Channels protocol 7, broadcasting from handlers, jobs and agents, and channel authorization."
+2026-10-05T22:54:19.299598Z,ipg-derive,0.1.0,0,0,https://github.com/nervosys/IronPrivacyGuard,Dependency-free typed JSON contract derives for IronPrivacyGuard
+2026-10-05T22:54:19.971321Z,ipg-pkcs11,0.1.0,0,0,https://github.com/nervosys/IronPrivacyGuard,Native PKCS#11 boundary for IronPrivacyGuard
+2026-10-05T22:54:21.432681Z,ipg-json,0.1.0,0,0,https://github.com/nervosys/IronPrivacyGuard,Native bounded JSON and typed contracts for IronPrivacyGuard
+2026-10-05T22:54:31.00808Z,smeltery-hallmark,0.1.0,0,0,https://github.com/smelteryworks/smeltery,"Hallmark, the API tokens of the Smeltery framework: personal access tokens with abilities, the `hallmark` bearer guard, token management and revocation events."
+2026-10-05T22:59:52.484006Z,kuberic-runtime,0.0.1,0,0,https://github.com/youyuanwu/kuberic,Independent level-triggered application and replication runtime for Kuberic
+2026-10-05T23:00:49.122614Z,kuberic-controller,0.0.1,0,0,https://github.com/youyuanwu/kuberic,Level-triggered Kubernetes controller for Kuberic
+2026-10-05T23:04:56.364146Z,discord_intl_message_database,0.33.0,0,0,https://github.com/discord/discord-intl,"An intl message management databae, supporting CRUD for messages with attribution to their source files, validation, type generation, exporting, and more"
+2026-10-05T23:05:43.141832Z,tern-sdk,0.1.0,0,0,https://github.com/stencil-hq/tern-sdk,"Talk to Tern over the Tern Surface Protocol: typed node builders, diffing with derived ids, flow control, event routing, print/ask helpers and a plain-text fallback."
+2026-10-05T23:12:20.124136Z,antfly-sdk,0.0.0,0,0,https://github.com/antflydb/antfly,Name reservation for the forthcoming Antfly Rust API client
+2026-10-05T23:13:08.162885Z,antfly-embedded-sys,0.0.0,0,0,https://github.com/antflydb/antfly,Name reservation for the forthcoming Antfly embedded C ABI crate
+2026-10-05T23:13:40.208607Z,antfly-embedded,0.0.0,0,0,https://github.com/antflydb/antfly,Name reservation for the forthcoming Antfly embedded Rust binding
+2026-10-05T23:13:41.943858Z,antfly-postgres,0.0.0,0,0,https://github.com/antflydb/antfly,Name reservation for the forthcoming Antfly PostgreSQL extension
+2026-10-05T23:16:27.023306Z,tablo-macros,0.1.0,0,0,,Procedural macros for Tablo.
+2026-10-05T23:16:58.899894Z,tablo-ui,0.1.0,0,0,,Beautiful Topcoat UI primitives for Tablo — owned library over topcoat-ui-registry.
+2026-10-05T23:17:30.627544Z,tishlang_ffi_guest,3.15.0,0,0,https://github.com/tishlang/tish,"Module-side half of the tish FFI ABI v2: deep-converts between the host's opaque handles (through the TishHostApi table) and the module's own tishlang_core values, including functions in both directi…"
+2026-10-05T23:20:36.632524Z,inq-lang,0.2.0-rc.1,0,0,https://github.com/funnyboy-roks/inq,Language implementation for the inq crate

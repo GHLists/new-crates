@@ -8,41 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 22:18 UTC
+## Latest list — 2026-10-05 23:21 UTC
 
-New crates published between 2026-10-05 21:18 UTC and 2026-10-05 22:18 UTC.
+New crates published between 2026-10-05 22:18 UTC and 2026-10-05 23:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-05T22-18-39-45364Z.csv)
+[Full CSV](data/new-crates-2026-10-05T23-21-06-253453Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-05 21:27:03 | [gametorch](https://crates.io/crates/gametorch) | 0.1.1 | 0 | Official async Rust SDK for the GameTorch API: generate game-ready sprites, sou… |
-| 2026-10-05 21:28:48 | [ironcrypto](https://crates.io/crates/ironcrypto) | 0.2.8 | 0 | Agentic-first, FIPS-oriented, pure-Rust cryptography with a machine-readable on… |
-| 2026-10-05 21:32:59 | [gametorch-cli](https://crates.io/crates/gametorch-cli) | 0.1.0 | 0 | Command-line interface for GameTorch, wrapping the official Rust SDK. |
-| 2026-10-05 21:33:05 | [gtor-macro](https://crates.io/crates/gtor-macro) | 0.1.0 | 0 | Ergonomic stackless generators in stable Rust. |
-| 2026-10-05 21:33:07 | [gtor](https://crates.io/crates/gtor) | 0.1.0 | 0 | Ergonomic stackless generators in stable Rust. |
-| 2026-10-05 21:39:57 | [leviathan-index](https://crates.io/crates/leviathan-index) | 0.1.0 | 0 | Deep memory for agents over large datasets: index JSONL, CSV, SQLite or any dat… |
-| 2026-10-05 21:40:15 | [cgs](https://crates.io/crates/cgs) | 0.1.1 | 0 | a ui library for macos |
-| 2026-10-05 21:50:43 | [veks-simd](https://crates.io/crates/veks-simd) | 2.3.0 | 0 | Pure-Rust SIMD distance, query-batch and f16 conversion kernels for vectordata… |
-| 2026-10-05 21:53:09 | [onebudgetspec-core](https://crates.io/crates/onebudgetspec-core) | 0.1.0 | 0 | Register measurable budgets in YAML and gate on them: load, discover, select, m… |
-| 2026-10-05 21:53:19 | [onebudgetspec](https://crates.io/crates/onebudgetspec) | 0.1.0 | 0 | The onebudgetspec command line: check, validate and list the budgets registered… |
-| 2026-10-05 21:58:28 | [zerodb-core](https://crates.io/crates/zerodb-core) | 0.2.0 | 0 | ZeroDB engine core: copy-on-write B+tree pages, MVCC transactions, free-page GC… |
-| 2026-10-05 21:58:30 | [zerodb-io](https://crates.io/crates/zerodb-io) | 0.2.0 | 0 | ZeroDB I/O layer: memory-mapped reads, pwrite/pwritev commit backends and fsync… |
-| 2026-10-05 21:58:31 | [zerodb](https://crates.io/crates/zerodb) | 0.2.0 | 0 | A pure-Rust, transactional, memory-mapped key-value engine with LMDB parity beh… |
-| 2026-10-05 21:58:33 | [zerodb-tools](https://crates.io/crates/zerodb-tools) | 0.2.0 | 0 | Offline utilities for ZeroDB environments: stat, dump, load, check and migrate-… |
-| 2026-10-05 22:00:06 | [mcpmem-extractor](https://crates.io/crates/mcpmem-extractor) | 3.0.0 | 0 | Durable attachment extraction worker for the mcpmem MCP server: UTF-8 text deco… |
-| 2026-10-05 22:00:34 | [smeltery-mold](https://crates.io/crates/smeltery-mold) | 0.1.0 | 0 | Mold, the template engine of the Smeltery framework: `@`-directive templates wi… |
-| 2026-10-05 22:00:49 | [smeltery-mold-macros](https://crates.io/crates/smeltery-mold-macros) | 0.1.0 | 0 | The #[derive(Mold)] macro of the Smeltery framework: compiles Mold templates to… |
-| 2026-10-05 22:01:08 | [smeltery-macros](https://crates.io/crates/smeltery-macros) | 0.1.0 | 0 | Derive macros of the Smeltery framework: #[derive(Validate)] for form validatio… |
-| 2026-10-05 22:01:50 | [smeltery-core](https://crates.io/crates/smeltery-core) | 0.1.0 | 0 | The kernel of the Smeltery framework: routing, config, the app container, error… |
-| 2026-10-05 22:02:53 | [fabrial](https://crates.io/crates/fabrial) | 0.1.0 | 0 | A Rust-based automation tool. |
-| 2026-10-05 22:03:11 | [smeltery-temper](https://crates.io/crates/smeltery-temper) | 0.1.0 | 0 | Temper, the authentication flows of the Smeltery framework: login, logout, regi… |
-| 2026-10-05 22:05:31 | [warp-rs](https://crates.io/crates/warp-rs) | 0.1.0 | 0 | Raster warping and resampling in Rust. Arrays in, arrays out. |
-| 2026-10-05 22:08:50 | [argv-todo](https://crates.io/crates/argv-todo) | 0.1.0 | 0 | A Vim-style terminal todo manager with nested tasks, priorities, search, and lo… |
-| 2026-10-05 22:12:31 | [stellar-agent-soroban-auth](https://crates.io/crates/stellar-agent-soroban-auth) | 0.1.0-alpha.10 | 0 | CAP-71 Soroban authorization-entry preimage builder and signature-payload hashi… |
-| 2026-10-05 22:14:03 | [tectonic_markdown](https://crates.io/crates/tectonic_markdown) | 0.1.0 | 0 | Compile Markdown documents containing TeX math, citations, and cross-references… |
-| 2026-10-05 22:15:43 | [smeltery-mail](https://crates.io/crates/smeltery-mail) | 0.1.0 | 0 | Mail for the Smeltery framework: mail classes with Mold templates, an SMTP tran… |
-| 2026-10-05 22:16:47 | [muman](https://crates.io/crates/muman) | 0.1.1 | 0 | Keep a music library in step with a song list, each song made from the best of… |
+| 2026-10-05 22:23:51 | [agent-top-store](https://crates.io/crates/agent-top-store) | 0.23.0 | 0 | The local SQLite store behind `agent-top sync`: sessions, spans and MCP calls k… |
+| 2026-10-05 22:36:04 | [discord_intl_database_js_source](https://crates.io/crates/discord_intl_database_js_source) | 0.33.0 | 0 | discord_intl Source implementation for JS messages files. |
+| 2026-10-05 22:36:07 | [discord_intl_flat_json_parser](https://crates.io/crates/discord_intl_flat_json_parser) | 0.33.0 | 0 | Purpose-built, limited JSON parser with positional information for discord_intl |
+| 2026-10-05 22:36:11 | [discord_intl_database_json_source](https://crates.io/crates/discord_intl_database_json_source) | 0.33.0 | 0 | discord_intl Source implemention for JSON messages files |
+| 2026-10-05 22:36:15 | [discord_intl_database_types_generator](https://crates.io/crates/discord_intl_database_types_generator) | 0.33.0 | 0 | TypeScript declaration file generation for discord_intl projects. |
+| 2026-10-05 22:36:18 | [discord_intl_validator](https://crates.io/crates/discord_intl_validator) | 0.33.0 | 0 | Validation utilities for both individual message values and aggregate messages… |
+| 2026-10-05 22:41:37 | [mawaqit-api](https://crates.io/crates/mawaqit-api) | 0.4.3 | 0 | Privacy-first Rust client for Mawaqit prayer times and mosque data. No API key… |
+| 2026-10-05 22:51:04 | [swarmfile-chunker](https://crates.io/crates/swarmfile-chunker) | 0.3.5 | 0 | Byte-identical FastCDC content chunker + manifest format for Swarmfile — shared… |
+| 2026-10-05 22:53:25 | [swarmfile-lfs-transfer](https://crates.io/crates/swarmfile-lfs-transfer) | 0.3.5 | 0 | Swarmfile git-LFS custom transfer agent — pushes/pulls large files to a Swarmfi… |
+| 2026-10-05 22:53:30 | [smeltery-sparks](https://crates.io/crates/smeltery-sparks) | 0.1.0 | 0 | Sparks, the live components of the Smeltery framework: Rust state and actions w… |
+| 2026-10-05 22:53:43 | [smeltery-alloy](https://crates.io/crates/smeltery-alloy) | 0.1.0 | 0 | Alloy, the React and Vue bridge of the Smeltery framework: the server side of t… |
+| 2026-10-05 22:54:07 | [smeltery-anvil](https://crates.io/crates/smeltery-anvil) | 0.1.0 | 0 | Anvil, the real-time layer of the Smeltery framework: a WebSocket server speaki… |
+| 2026-10-05 22:54:19 | [ipg-derive](https://crates.io/crates/ipg-derive) | 0.1.0 | 0 | Dependency-free typed JSON contract derives for IronPrivacyGuard |
+| 2026-10-05 22:54:19 | [ipg-pkcs11](https://crates.io/crates/ipg-pkcs11) | 0.1.0 | 0 | Native PKCS#11 boundary for IronPrivacyGuard |
+| 2026-10-05 22:54:21 | [ipg-json](https://crates.io/crates/ipg-json) | 0.1.0 | 0 | Native bounded JSON and typed contracts for IronPrivacyGuard |
+| 2026-10-05 22:54:31 | [smeltery-hallmark](https://crates.io/crates/smeltery-hallmark) | 0.1.0 | 0 | Hallmark, the API tokens of the Smeltery framework: personal access tokens with… |
+| 2026-10-05 22:59:52 | [kuberic-runtime](https://crates.io/crates/kuberic-runtime) | 0.0.1 | 0 | Independent level-triggered application and replication runtime for Kuberic |
+| 2026-10-05 23:00:49 | [kuberic-controller](https://crates.io/crates/kuberic-controller) | 0.0.1 | 0 | Level-triggered Kubernetes controller for Kuberic |
+| 2026-10-05 23:04:56 | [discord_intl_message_database](https://crates.io/crates/discord_intl_message_database) | 0.33.0 | 0 | An intl message management databae, supporting CRUD for messages with attributi… |
+| 2026-10-05 23:05:43 | [tern-sdk](https://crates.io/crates/tern-sdk) | 0.1.0 | 0 | Talk to Tern over the Tern Surface Protocol: typed node builders, diffing with… |
+| 2026-10-05 23:12:20 | [antfly-sdk](https://crates.io/crates/antfly-sdk) | 0.0.0 | 0 | Name reservation for the forthcoming Antfly Rust API client |
+| 2026-10-05 23:13:08 | [antfly-embedded-sys](https://crates.io/crates/antfly-embedded-sys) | 0.0.0 | 0 | Name reservation for the forthcoming Antfly embedded C ABI crate |
+| 2026-10-05 23:13:40 | [antfly-embedded](https://crates.io/crates/antfly-embedded) | 0.0.0 | 0 | Name reservation for the forthcoming Antfly embedded Rust binding |
+| 2026-10-05 23:13:41 | [antfly-postgres](https://crates.io/crates/antfly-postgres) | 0.0.0 | 0 | Name reservation for the forthcoming Antfly PostgreSQL extension |
+| 2026-10-05 23:16:27 | [tablo-macros](https://crates.io/crates/tablo-macros) | 0.1.0 | 0 | Procedural macros for Tablo. |
+| 2026-10-05 23:16:58 | [tablo-ui](https://crates.io/crates/tablo-ui) | 0.1.0 | 0 | Beautiful Topcoat UI primitives for Tablo — owned library over topcoat-ui-regis… |
+| 2026-10-05 23:17:30 | [tishlang_ffi_guest](https://crates.io/crates/tishlang_ffi_guest) | 3.15.0 | 0 | Module-side half of the tish FFI ABI v2: deep-converts between the host's opaqu… |
+| 2026-10-05 23:20:36 | [inq-lang](https://crates.io/crates/inq-lang) | 0.2.0-rc.1 | 0 | Language implementation for the inq crate |
 
 ## Data source
 
