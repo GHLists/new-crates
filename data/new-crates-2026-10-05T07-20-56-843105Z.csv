@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T06:28:27.346555Z,tocsin-reqwest,0.2.0,0,0,https://github.com/zbl1998-sdjn/tocsin,A non-blocking reqwest transport for tocsin: send Apprise-style notifications from async code.
+2026-10-05T06:29:37.785089Z,tsr_lsproto,0.3.0,0,0,https://github.com/ferrotype/tsr,Pinned language server protocol types and wire codecs for tsr
+2026-10-05T06:34:39.839489Z,tsr_autoimport,0.3.0,0,0,https://github.com/ferrotype/tsr,Auto-import indexes and import edits for tsr
+2026-10-05T06:35:04.806313Z,tsr_ls,0.3.0,0,0,https://github.com/ferrotype/tsr,Language service conversions and queries for tsr
+2026-10-05T06:35:36.948593Z,tsr_lsp,0.3.0,0,0,https://github.com/ferrotype/tsr,Language server session and project dispatch for tsr
+2026-10-05T06:45:32.367264Z,goway-journal,0.1.0,0,0,https://github.com/lognd/goway,Write-ahead change journal whose replay provably inverts an install.
+2026-10-05T06:45:34.021474Z,goway,0.1.0,0,0,https://github.com/lognd/goway,"Run a command on the least-loaded machine of a pool, natively, from the current git work tree."
+2026-10-05T06:46:40.971104Z,mvs-sdk-sys,0.1.0,0,0,https://github.com/JSB-Unscarred/mvs-sdk-rs,Unofficial raw FFI bindings for the Hikrobot MVS industrial camera SDK (MvCameraControl).
+2026-10-05T06:46:43.199975Z,mvs-sdk,0.1.0,0,0,https://github.com/JSB-Unscarred/mvs-sdk-rs,Unofficial safe Rust wrapper for the Hikrobot MVS industrial camera SDK (MvCameraControl).
+2026-10-05T06:46:54.179515Z,mv3d-lp-sys,0.1.0,0,0,https://github.com/JSB-Unscarred/3dmvs-sdk-rs,Unofficial raw FFI bindings for the Hikrobot 3DMVS laser profiler SDK (Mv3dLp).
+2026-10-05T06:46:56.99221Z,mv3d-lp,0.1.0,0,0,https://github.com/JSB-Unscarred/3dmvs-sdk-rs,Unofficial safe Rust wrapper for the Hikrobot 3DMVS laser profiler SDK (Mv3dLp).
+2026-10-05T06:53:51.232742Z,diskuse-core,0.2.0,0,0,https://github.com/nmichlo/diskuse,Read-only disk usage scanning for macOS and Linux: the library of diskuse
+2026-10-05T06:54:34.742313Z,vole-document,0.1.0-alpha.1,0,0,https://github.com/infinityabundance/vole-document,"Byte-exact procedural document storage: deterministic reconstruction state, typed residuals, and entropy-coded channels that materialize the exact original document bytes."
+2026-10-05T07:00:32.603985Z,sel-lang,0.10.0,0,0,https://github.com/nathanjel/sel,"A small expression language for business rules: exact decimals, strict UTF-8, the same answer in seven languages, and a translator to SQL."
+2026-10-05T07:08:09.275482Z,codesleuth,0.1.0,0,0,https://github.com/trtyr/codesleuth,Read-only codebase scout agent: a complete agent-harness CLI that searches codebases and returns evidence-backed reports
+2026-10-05T07:14:23.347184Z,zabamqtt,0.1.0,0,0,https://github.com/Skyfrei/zabamqtt,A MQTT client fully implemented in rust with 0 dependencies
+2026-10-05T07:15:45.932595Z,trigora-client,1.0.0,0,0,https://github.com/trigora-dev/trigora-rust,Rust client for starting and controlling Trigora durable executions.
+2026-10-05T07:15:48.081799Z,trigora,1.0.0,0,0,https://github.com/trigora-dev/trigora-rust,Rust authoring SDK for Trigora durable programs.
