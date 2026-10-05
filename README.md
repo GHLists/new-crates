@@ -8,29 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 18:18 UTC
+## Latest list — 2026-10-05 19:20 UTC
 
-New crates published between 2026-10-05 17:20 UTC and 2026-10-05 18:18 UTC.
+New crates published between 2026-10-05 18:18 UTC and 2026-10-05 19:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-05T18-18-38-496984Z.csv)
+[Full CSV](data/new-crates-2026-10-05T19-20-31-798952Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-05 17:29:55 | [fnox-client](https://crates.io/crates/fnox-client) | 0.0.0 | 0 | Reserved nonfunctional placeholder for a future fnox-client release |
-| 2026-10-05 17:30:05 | [ycode-project](https://crates.io/crates/ycode-project) | 0.1.1 | 0 | Rust models and comment-preserving editing for Xcode JSON5 project.xcproj files |
-| 2026-10-05 17:30:07 | [ycode-cli](https://crates.io/crates/ycode-cli) | 0.1.1 | 0 | Inspect and edit Xcode JSON5 projects while preserving comments and formatting |
-| 2026-10-05 17:31:13 | [autumn-plugin-duckdb](https://crates.io/crates/autumn-plugin-duckdb) | 0.1.0 | 0 | Autumn plugin: run DuckDB SQL queries from Autumn handlers. |
-| 2026-10-05 17:32:38 | [dotfiles-cli](https://crates.io/crates/dotfiles-cli) | 0.1.0 | 0 | Manage urmzd/dotfiles: pick optional packages, run setup, apply, and update |
-| 2026-10-05 17:35:01 | [wm-gen3-vault](https://crates.io/crates/wm-gen3-vault) | 10.2.0-alpha.3 | 0 | WhiteMagic Gen3 — Tacit Continuity Vault Miner (DIR-08) |
-| 2026-10-05 17:35:47 | [autumn-plugin-pingora](https://crates.io/crates/autumn-plugin-pingora) | 0.1.0 | 0 | Pingora reverse proxy for Autumn: routes, load balancing, health checks, app fa… |
-| 2026-10-05 17:39:41 | [autumn-plugin-react](https://crates.io/crates/autumn-plugin-react) | 0.1.0 | 0 | Autumn plugin: React islands in Maud + htmx pages. |
-| 2026-10-05 17:39:46 | [hussh-rustcrypto-ssh-key](https://crates.io/crates/hussh-rustcrypto-ssh-key) | 0.7.0 | 0 | Fork of ssh-key compatible with latest RustCrypto ecosystem |
-| 2026-10-05 17:41:07 | [mid-sovereign-signup](https://crates.io/crates/mid-sovereign-signup) | 0.1.0 | 0 | Headless email + one-time-code sign-up/sign-in for Rust services — the open sib… |
-| 2026-10-05 17:50:18 | [ic-metrics](https://crates.io/crates/ic-metrics) | 0.1.4 | 0 | Allocation-free saturating measurement arithmetic for Internet Computer crates |
-| 2026-10-05 17:53:05 | [palrup-io](https://crates.io/crates/palrup-io) | 0.1.0 | 0 | Utilities for reading and writing PalRUP files |
-| 2026-10-05 17:53:35 | [nvidia-smi-rt](https://crates.io/crates/nvidia-smi-rt) | 0.1.0 | 0 | A real-time NVIDIA GPU telemetry terminal dashboard and process manager |
-| 2026-10-05 18:17:57 | [wdb-witch](https://crates.io/crates/wdb-witch) | 1.0.0 | 0 | GDB-style debugger and simulator for the WITCH computer (1951) |
-| 2026-10-05 18:18:06 | [rust-swisseph-bindings](https://crates.io/crates/rust-swisseph-bindings) | 1.0.0 | 0 | Minimal Rust bindings to the original Swiss Ephemeris C library |
+| 2026-10-05 18:25:02 | [eve-sde](https://crates.io/crates/eve-sde) | 0.1.0 | 0 | Load, search and update EVE Online's Static Data Export (SDE) |
+| 2026-10-05 18:30:24 | [dscan-core](https://crates.io/crates/dscan-core) | 0.3.1 | 0 | High-throughput kernel directory traversal and disk space accounting engine |
+| 2026-10-05 18:34:59 | [torresmo](https://crates.io/crates/torresmo) | 1.0.0 | 0 | Dead simple and minimal TUI client for the Transmission daemon |
+| 2026-10-05 18:35:09 | [udpstp-wire](https://crates.io/crates/udpstp-wire) | 0.0.0 | 0 | UDPSTP (RFC 9946) PDU layouts and codecs. Placeholder: the implementation is in… |
+| 2026-10-05 18:35:11 | [udpstp-core](https://crates.io/crates/udpstp-core) | 0.0.0 | 0 | Sans-IO UDPSTP (RFC 9946) protocol core. Placeholder: the implementation is in… |
+| 2026-10-05 18:35:14 | [udpstp-runtime](https://crates.io/crates/udpstp-runtime) | 0.0.0 | 0 | I/O for udpstp's protocol core: sockets, clocks and the Control Phase. Placehol… |
+| 2026-10-05 18:41:39 | [agent-talk](https://crates.io/crates/agent-talk) | 0.1.0 | 0 | Send messages to other agent sessions (Codex, Claude Code, OpenCode, Grok CLI,… |
+| 2026-10-05 18:49:38 | [brap-macros](https://crates.io/crates/brap-macros) | 0.1.0 | 0 | Procedural macros for brap |
+| 2026-10-05 18:49:40 | [brap](https://crates.io/crates/brap) | 0.1.0 | 0 | Low-overhead latency telemetry for hot code paths: compile-time registered cycl… |
+| 2026-10-05 18:51:24 | [cityhash-sys-port](https://crates.io/crates/cityhash-sys-port) | 1.0.7-port | 0 | Rust binding of Google CityHash algorithm, ported to the latest rust nightly ve… |
+| 2026-10-05 18:56:15 | [autumn-plugin-grpc](https://crates.io/crates/autumn-plugin-grpc) | 0.1.0 | 0 | gRPC for Autumn: serve tonic services with health, reflection, metrics, gracefu… |
+| 2026-10-05 19:02:11 | [evac_interner](https://crates.io/crates/evac_interner) | 0.1.0 | 0 | A crate designed to implement a value interner, used by the Eva programming lan… |
+| 2026-10-05 19:07:04 | [mnw-tagtree](https://crates.io/crates/mnw-tagtree) | 0.4.4 | 0 | Hierarchical dot-notation tags: validation, tree operations, subtree selections… |
+| 2026-10-05 19:09:47 | [mogh_supporter](https://crates.io/crates/mogh_supporter) | 1.0.1 | 0 | Mogh Supporter schema, client, and embedded API |
+| 2026-10-05 19:17:41 | [gitty-core](https://crates.io/crates/gitty-core) | 0.1.2 | 0 | Git engine behind gitty: history walk, diffs, status, staging and network jobs |
+| 2026-10-05 19:17:42 | [gitty-highlight](https://crates.io/crates/gitty-highlight) | 0.1.2 | 0 | Syntax highlighting for gitty: tree-sitter grammars with a syntect fallback |
+| 2026-10-05 19:17:46 | [gitty-cli](https://crates.io/crates/gitty-cli) | 0.1.2 | 0 | A fast terminal git client with the GitHub Desktop experience |
+| 2026-10-05 19:18:23 | [fakecloud-servicequotas](https://crates.io/crates/fakecloud-servicequotas) | 0.48.1 | 0 | Service Quotas (servicequotas) implementation for FakeCloud |
+| 2026-10-05 19:18:53 | [rs-rich-diagram](https://crates.io/crates/rs-rich-diagram) | 0.0.1 | 0 | Graph diagrams for rs-rich: a graph model, a layered layout, and box-drawing re… |
+| 2026-10-05 19:19:37 | [cf-gears-github-mirror-sdk](https://crates.io/crates/cf-gears-github-mirror-sdk) | 0.1.0 | 0 | SDK for github-mirror gear: API trait, types, and error definitions |
 
 ## Data source
 

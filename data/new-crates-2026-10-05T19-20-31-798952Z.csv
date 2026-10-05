@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T18:25:02.984854Z,eve-sde,0.1.0,0,0,https://github.com/h0lylag/eve-sde-rs,"Load, search and update EVE Online's Static Data Export (SDE)"
+2026-10-05T18:30:24.726146Z,dscan-core,0.3.1,0,0,https://github.com/AhooraZen/dscan,High-throughput kernel directory traversal and disk space accounting engine
+2026-10-05T18:34:59.161734Z,torresmo,1.0.0,0,0,https://git.sr.ht/~paemuri/torresmo,Dead simple and minimal TUI client for the Transmission daemon
+2026-10-05T18:35:09.454802Z,udpstp-wire,0.0.0,0,0,https://github.com/pederbe/udpstp,UDPSTP (RFC 9946) PDU layouts and codecs. Placeholder: the implementation is in development and will be published here.
+2026-10-05T18:35:11.996509Z,udpstp-core,0.0.0,0,0,https://github.com/pederbe/udpstp,Sans-IO UDPSTP (RFC 9946) protocol core. Placeholder: the implementation is in development and will be published here.
+2026-10-05T18:35:14.386533Z,udpstp-runtime,0.0.0,0,0,https://github.com/pederbe/udpstp,"I/O for udpstp's protocol core: sockets, clocks and the Control Phase. Placeholder: the implementation is in development and will be published here."
+2026-10-05T18:41:39.12035Z,agent-talk,0.1.0,0,0,https://github.com/legibet/agent-talk,"Send messages to other agent sessions (Codex, Claude Code, OpenCode, Grok CLI, Antigravity CLI) through their official interfaces, from a shell or over MCP"
+2026-10-05T18:49:38.40849Z,brap-macros,0.1.0,0,0,https://github.com/Rubenduburck/brap,Procedural macros for brap
+2026-10-05T18:49:40.877584Z,brap,0.1.0,0,0,https://github.com/Rubenduburck/brap,Low-overhead latency telemetry for hot code paths: compile-time registered cycle histograms and counters
+2026-10-05T18:51:24.283034Z,cityhash-sys-port,1.0.7-port,0,0,https://github.com/HUD-Software/cityhash-sys,"Rust binding of Google CityHash algorithm, ported to the latest rust nightly version."
+2026-10-05T18:56:15.453979Z,autumn-plugin-grpc,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-grpc,"gRPC for Autumn: serve tonic services with health, reflection, metrics, graceful drain and layered configuration"
+2026-10-05T19:02:11.784287Z,evac_interner,0.1.0,0,0,https://git.gay/Zepalesque/evac_interner,"A crate designed to implement a value interner, used by the Eva programming language's compiler"
+2026-10-05T19:07:04.523873Z,mnw-tagtree,0.4.4,0,0,https://makenot.work/git/max/makenotwork,"Hierarchical dot-notation tags: validation, tree operations, subtree selections, count rollups and SQL helpers"
+2026-10-05T19:09:47.035064Z,mogh_supporter,1.0.1,0,0,https://github.com/moghtech/lib,"Mogh Supporter schema, client, and embedded API"
+2026-10-05T19:17:41.567825Z,gitty-core,0.1.2,0,0,https://github.com/VedangP57/gitty,"Git engine behind gitty: history walk, diffs, status, staging and network jobs"
+2026-10-05T19:17:42.914855Z,gitty-highlight,0.1.2,0,0,https://github.com/VedangP57/gitty,Syntax highlighting for gitty: tree-sitter grammars with a syntect fallback
+2026-10-05T19:17:46.760623Z,gitty-cli,0.1.2,0,0,https://github.com/VedangP57/gitty,A fast terminal git client with the GitHub Desktop experience
+2026-10-05T19:18:23.463523Z,fakecloud-servicequotas,0.48.1,0,0,https://github.com/faiscadev/fakecloud,Service Quotas (servicequotas) implementation for FakeCloud
+2026-10-05T19:18:53.53636Z,rs-rich-diagram,0.0.1,0,0,https://github.com/buchochelliq-labs/rs-rich-cli,"Graph diagrams for rs-rich: a graph model, a layered layout, and box-drawing rendering with an ASCII fallback"
+2026-10-05T19:19:37.780226Z,cf-gears-github-mirror-sdk,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"SDK for github-mirror gear: API trait, types, and error definitions"
