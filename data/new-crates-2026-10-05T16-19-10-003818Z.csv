@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T15:31:24.335607Z,basable-processingobject,0.1.0,0,0,https://github.com/basable/basable-rust-libs,"The declarative reconciliation framework for basable nanoservices: typed spec and status rows under a generic envelope, reconciled by claimed, fenced attempts. This release ships the store, the claim…"
+2026-10-05T15:41:22.562407Z,basable-processingobject-testkit,0.1.0,0,0,https://github.com/basable/basable-rust-libs,"Conformance substrate for basable-processingobject: the reserved conformance type (key 32000, prefix ek) with its nanoservice, migrations and adapter, the WidgetSim provider simulator, and the harnes…"
+2026-10-05T15:44:25.449473Z,renox-2fa,1.0.0-rc.5,0,0,https://github.com/arif-rachim/renox,Two-factor authentication (TOTP and recovery codes) for Renox apps.
+2026-10-05T15:45:16.423783Z,renox-editors,1.0.0-rc.5,0,0,https://github.com/arif-rachim/renox,"Rich text, Markdown and code editor fields, and a code entry, for Renox apps."
+2026-10-05T15:45:34.248811Z,renox-oauth,1.0.0-rc.5,0,0,https://github.com/arif-rachim/renox,"Social login (Sign in with Google, GitHub, …) linked to the users of a Renox app."
+2026-10-05T15:46:06.555452Z,renox-admin,1.0.0-rc.5,0,0,https://github.com/arif-rachim/renox,"An admin panel generated from a Renox app's models: lists, forms, filters, bulk actions and exports."
+2026-10-05T15:46:25.507819Z,renox-billing,1.0.0-rc.5,0,0,https://github.com/arif-rachim/renox,"Subscriptions for Renox apps (plans, trials, upgrades, cancellations) with Stripe and Xendit."
+2026-10-05T15:46:40.764118Z,haps,0.1.0,0,0,https://github.com/mmalmi/haps,"Hashtree Package System: signed packages, content-addressed distribution, social discovery"
+2026-10-05T15:50:23.58157Z,netconf,0.6.0,0,0,https://github.com/rjorgensen123/netconf,"Pre-release (beta). Narrow asynchronous NETCONF client for Junos: RFC 6241/6242 framing, a pluggable transport, a default-deny configuration filter with read redaction, and atomic compare-then-commit."
+2026-10-05T15:51:23.381758Z,basable-effecttest,0.1.0,0,0,https://github.com/basable/basable-rust-libs,"The per-adapter audit for basable-externaleffect: a component's test builds a Harness over its own simulator and runs the probe suite that proves the admission evidence its adapter declares, plus Ack…"
+2026-10-05T15:53:04.006864Z,autumn-plugin-aws-athena,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-aws-athena,Autumn plugin: run Amazon Athena SQL queries from Autumn handlers.
+2026-10-05T15:56:09.426444Z,autumn-plugin-aws-lambda,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-aws-lambda,Run an autumn-web application on AWS Lambda
+2026-10-05T15:57:13.954322Z,bobcat-units,0.1.1,0,0,https://github.com/fluidity-money/bobcat-units,Helpers for bobcat-sdk and the common EVM unsigned integer types.
+2026-10-05T15:57:40.95062Z,autumn-plugin-aws-sqs,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-aws-sqs,"Amazon SQS plugin for autumn-web: job transport, queue consumers, and producer"
+2026-10-05T15:58:33.362016Z,hurl-test,0.1.0,0,0,https://github.com/shorwood/hurl-test,Run Hurl fixtures from Rust integration tests.
+2026-10-05T16:01:03.592074Z,format-png,0.1.0,0,0,https://github.com/YohanSandun/format-png-rust,"A PNG decoder and encoder in pure Rust: every color type, bit depth and interlacing, metadata, raw chunk access, and smaller files."
+2026-10-05T16:01:22.932499Z,basable-config,0.1.0,0,0,https://github.com/basable/basable-rust-libs,"The declarative configuration framework for basable nanoservices: temporal config objects with one binder per type, seed JSON under config/base/ loaded in one transaction with cross-references resolv…"
+2026-10-05T16:04:57.221013Z,autumn-plugin-vanilla,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-vanilla,"Autumn plugin: declarative vanilla JS behaviors for Maud + htmx apps. No npm, no bundler."
+2026-10-05T16:10:50.596546Z,sip-header-catalog,1.0.0-rc.1,0,0,https://github.com/voip-rs/sip-header,"IANA SIP header name catalog with compact forms, and the raw header-row lookup trait"
+2026-10-05T16:11:23.465584Z,basable-messenger-gen,0.1.0,0,0,https://github.com/basable/basable-rust-libs,"The basable messenger code generator: generates the interfaces and messenger crates of a nanoservice project from routing.yaml, validates the file with line-numbered diagnostics, renders the topology…"
+2026-10-05T16:13:00.661551Z,explainsql-core,0.1.0,0,0,https://github.com/onplt/explain-sql,"Plan IR, plan parsers, metrics, rules and index advisor for ExplainSQL. Performs no I/O."
+2026-10-05T16:13:03.209944Z,explainsql-db,0.1.0,0,0,https://github.com/onplt/explain-sql,"Connected mode for ExplainSQL: safe EXPLAIN execution, catalog reads and index verification."
+2026-10-05T16:13:04.005731Z,explainsql-tui,0.1.0,0,0,https://github.com/onplt/explain-sql,Terminal user interface for ExplainSQL.
+2026-10-05T16:13:06.200149Z,explainsql,0.1.0,0,0,https://github.com/onplt/explain-sql,"Find out why a PostgreSQL query is slow, get a fix, and prove it works, without leaving the terminal."

@@ -8,44 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 15:21 UTC
+## Latest list — 2026-10-05 16:19 UTC
 
-New crates published between 2026-10-05 14:18 UTC and 2026-10-05 15:21 UTC.
+New crates published between 2026-10-05 15:21 UTC and 2026-10-05 16:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-05T15-21-43-341413Z.csv)
+[Full CSV](data/new-crates-2026-10-05T16-19-10-003818Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-05 14:26:34 | [nouride](https://crates.io/crates/nouride) | 0.1.0 | 0 | Ultra-lightweight multi-agent AI engine in a single binary daemon by Nouverse T… |
-| 2026-10-05 14:27:03 | [nouverse](https://crates.io/crates/nouverse) | 0.1.0 | 0 | Official developer umbrella package and portal for Nouverse Technologies. |
-| 2026-10-05 14:27:06 | [nougate](https://crates.io/crates/nougate) | 0.1.0 | 0 | Modular LLM routing gateway, reverse proxy, and model virtualization layer. |
-| 2026-10-05 14:27:10 | [nouclip](https://crates.io/crates/nouclip) | 0.1.0 | 0 | High-performance AI video clipper & auto-shorts generator powered by Whisper &… |
-| 2026-10-05 14:27:14 | [noumind](https://crates.io/crates/noumind) | 0.1.0 | 0 | Hybrid memory engine, MCP context server, and knowledge retrieval architecture. |
-| 2026-10-05 14:30:30 | [autumn-plugin-kafka](https://crates.io/crates/autumn-plugin-kafka) | 0.1.0 | 0 | Kafka producer and consumer plugin for autumn-web applications |
-| 2026-10-05 14:34:56 | [taskcraft](https://crates.io/crates/taskcraft) | 0.0.0 | 0 | Background task queue for Rust on tokio: three-way source polling, retries as d… |
-| 2026-10-05 14:41:05 | [basable-core](https://crates.io/crates/basable-core) | 0.1.0 | 0 | Leaf types every basable framework crate shares: naming rules, labels, the two-… |
-| 2026-10-05 14:41:06 | [basable-messenger](https://crates.io/crates/basable-messenger) | 0.1.0 | 0 | The runtime half of the basable messenger: the Route trait the generated crates… |
-| 2026-10-05 14:41:06 | [basable-messenger-codegen](https://crates.io/crates/basable-messenger-codegen) | 0.1.0 | 0 | The basable messenger code generator as a library: parses and validates routing… |
-| 2026-10-05 14:41:07 | [basable-protoc-gen-buffa](https://crates.io/crates/basable-protoc-gen-buffa) | 0.1.0 | 0 | The protoc plugin a basable nanoservice project's build runs for its message ty… |
-| 2026-10-05 14:41:10 | [basable-auth](https://crates.io/crates/basable-auth) | 0.1.0 | 0 | Ory Kratos session validation for a basable nanoservice project: a Validator th… |
-| 2026-10-05 14:43:11 | [omnifetch-rs](https://crates.io/crates/omnifetch-rs) | 0.1.0 | 0 | A blazing-fast, lightweight system info fetch tool written in Rust |
-| 2026-10-05 14:45:28 | [nouva](https://crates.io/crates/nouva) | 0.1.0 | 0 | Personal assistant and lead coordinator AI agent for Nouverse Technologies. |
-| 2026-10-05 14:46:47 | [desktop-agent](https://crates.io/crates/desktop-agent) | 0.1.0 | 0 | Cross-platform desktop automation daemon and OS-level control layer. |
-| 2026-10-05 14:47:50 | [wordval-bus](https://crates.io/crates/wordval-bus) | 1.0.4 | 0 | Wordval event bus: unified in-process pub/sub and NATS fan-out behind one API (… |
-| 2026-10-05 14:49:57 | [depends-rs-core](https://crates.io/crates/depends-rs-core) | 0.1.0 | 0 | Syntax, shape metadata, and expansion planning for depends-rs |
-| 2026-10-05 14:50:29 | [depends-rs](https://crates.io/crates/depends-rs) | 0.1.0 | 0 | Dependency-oriented lifetime elaboration for Rust |
-| 2026-10-05 14:51:22 | [basable-db](https://crates.io/crates/basable-db) | 0.1.0 | 0 | Postgres for basable nanoservices: the Nanoservice and Stateful markers, one Na… |
-| 2026-10-05 14:51:31 | [octopux-reverse](https://crates.io/crates/octopux-reverse) | 0.20.1 | 0 | Reverse engineers a database into octopux models and relations, by piping its s… |
-| 2026-10-05 14:56:45 | [voice-compute](https://crates.io/crates/voice-compute) | 0.1.0 | 0 | Local GPU-accelerated voice processing stack (Faster-Whisper, RVC, Edge-TTS). |
-| 2026-10-05 15:01:20 | [basable-publicid](https://crates.io/crates/basable-publicid) | 0.1.0 | 0 | Public, base62, type-prefixed ids from UUIDs (proj_3kFz…), with an explicit boo… |
-| 2026-10-05 15:07:01 | [betacalendars-papergrid](https://crates.io/crates/betacalendars-papergrid) | 0.1.0 | 0 | Deterministic printable calendar sheet layouts with SVG and JSON output. |
-| 2026-10-05 15:07:04 | [nouride-box](https://crates.io/crates/nouride-box) | 0.1.0 | 0 | Hardware AI server appliance distribution and configuration for Nouride daemon. |
-| 2026-10-05 15:09:34 | [gcua](https://crates.io/crates/gcua) | 0.1.0 | 0 | GCUA: General Codon Usage Analysis |
-| 2026-10-05 15:11:23 | [basable-testkit](https://crates.io/crates/basable-testkit) | 0.1.0 | 0 | Test harness for basable nanoservices: a database per test from TEST_DATABASE_U… |
-| 2026-10-05 15:15:16 | [bactviz](https://crates.io/crates/bactviz) | 0.2.0 | 0 | Linear genome alignment maps for bacterial genomes: MUMmer collinear blocks + a… |
-| 2026-10-05 15:16:19 | [fission-command-process](https://crates.io/crates/fission-command-process) | 0.15.0 | 0 | Owned child-process supervision for Fission CLI commands |
-| 2026-10-05 15:17:22 | [noubox](https://crates.io/crates/noubox) | 0.1.0 | 0 | Low-power hardware AI appliance distribution and firmware utilities. |
-| 2026-10-05 15:21:22 | [basable-externaleffect](https://crates.io/crates/basable-externaleffect) | 0.1.0 | 0 | Typed building blocks for the external-API effect calls a basable reconciler ma… |
+| 2026-10-05 15:31:24 | [basable-processingobject](https://crates.io/crates/basable-processingobject) | 0.1.0 | 0 | The declarative reconciliation framework for basable nanoservices: typed spec a… |
+| 2026-10-05 15:41:22 | [basable-processingobject-testkit](https://crates.io/crates/basable-processingobject-testkit) | 0.1.0 | 0 | Conformance substrate for basable-processingobject: the reserved conformance ty… |
+| 2026-10-05 15:44:25 | [renox-2fa](https://crates.io/crates/renox-2fa) | 1.0.0-rc.5 | 0 | Two-factor authentication (TOTP and recovery codes) for Renox apps. |
+| 2026-10-05 15:45:16 | [renox-editors](https://crates.io/crates/renox-editors) | 1.0.0-rc.5 | 0 | Rich text, Markdown and code editor fields, and a code entry, for Renox apps. |
+| 2026-10-05 15:45:34 | [renox-oauth](https://crates.io/crates/renox-oauth) | 1.0.0-rc.5 | 0 | Social login (Sign in with Google, GitHub, …) linked to the users of a Renox ap… |
+| 2026-10-05 15:46:06 | [renox-admin](https://crates.io/crates/renox-admin) | 1.0.0-rc.5 | 0 | An admin panel generated from a Renox app's models: lists, forms, filters, bulk… |
+| 2026-10-05 15:46:25 | [renox-billing](https://crates.io/crates/renox-billing) | 1.0.0-rc.5 | 0 | Subscriptions for Renox apps (plans, trials, upgrades, cancellations) with Stri… |
+| 2026-10-05 15:46:40 | [haps](https://crates.io/crates/haps) | 0.1.0 | 0 | Hashtree Package System: signed packages, content-addressed distribution, socia… |
+| 2026-10-05 15:50:23 | [netconf](https://crates.io/crates/netconf) | 0.6.0 | 0 | Pre-release (beta). Narrow asynchronous NETCONF client for Junos: RFC 6241/6242… |
+| 2026-10-05 15:51:23 | [basable-effecttest](https://crates.io/crates/basable-effecttest) | 0.1.0 | 0 | The per-adapter audit for basable-externaleffect: a component's test builds a H… |
+| 2026-10-05 15:53:04 | [autumn-plugin-aws-athena](https://crates.io/crates/autumn-plugin-aws-athena) | 0.1.0 | 0 | Autumn plugin: run Amazon Athena SQL queries from Autumn handlers. |
+| 2026-10-05 15:56:09 | [autumn-plugin-aws-lambda](https://crates.io/crates/autumn-plugin-aws-lambda) | 0.1.0 | 0 | Run an autumn-web application on AWS Lambda |
+| 2026-10-05 15:57:13 | [bobcat-units](https://crates.io/crates/bobcat-units) | 0.1.1 | 0 | Helpers for bobcat-sdk and the common EVM unsigned integer types. |
+| 2026-10-05 15:57:40 | [autumn-plugin-aws-sqs](https://crates.io/crates/autumn-plugin-aws-sqs) | 0.1.0 | 0 | Amazon SQS plugin for autumn-web: job transport, queue consumers, and producer |
+| 2026-10-05 15:58:33 | [hurl-test](https://crates.io/crates/hurl-test) | 0.1.0 | 0 | Run Hurl fixtures from Rust integration tests. |
+| 2026-10-05 16:01:03 | [format-png](https://crates.io/crates/format-png) | 0.1.0 | 0 | A PNG decoder and encoder in pure Rust: every color type, bit depth and interla… |
+| 2026-10-05 16:01:22 | [basable-config](https://crates.io/crates/basable-config) | 0.1.0 | 0 | The declarative configuration framework for basable nanoservices: temporal conf… |
+| 2026-10-05 16:04:57 | [autumn-plugin-vanilla](https://crates.io/crates/autumn-plugin-vanilla) | 0.1.0 | 0 | Autumn plugin: declarative vanilla JS behaviors for Maud + htmx apps. No npm, n… |
+| 2026-10-05 16:10:50 | [sip-header-catalog](https://crates.io/crates/sip-header-catalog) | 1.0.0-rc.1 | 0 | IANA SIP header name catalog with compact forms, and the raw header-row lookup… |
+| 2026-10-05 16:11:23 | [basable-messenger-gen](https://crates.io/crates/basable-messenger-gen) | 0.1.0 | 0 | The basable messenger code generator: generates the interfaces and messenger cr… |
+| 2026-10-05 16:13:00 | [explainsql-core](https://crates.io/crates/explainsql-core) | 0.1.0 | 0 | Plan IR, plan parsers, metrics, rules and index advisor for ExplainSQL. Perform… |
+| 2026-10-05 16:13:03 | [explainsql-db](https://crates.io/crates/explainsql-db) | 0.1.0 | 0 | Connected mode for ExplainSQL: safe EXPLAIN execution, catalog reads and index… |
+| 2026-10-05 16:13:04 | [explainsql-tui](https://crates.io/crates/explainsql-tui) | 0.1.0 | 0 | Terminal user interface for ExplainSQL. |
+| 2026-10-05 16:13:06 | [explainsql](https://crates.io/crates/explainsql) | 0.1.0 | 0 | Find out why a PostgreSQL query is slow, get a fix, and prove it works, without… |
 
 ## Data source
 
