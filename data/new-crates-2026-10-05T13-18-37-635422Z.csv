@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T12:19:35.085894Z,veida,0.1.0,0,0,https://github.com/hanshs474/veida-rs,"Generate images from Rust with no API key and no account, via the free tier of veida.ai"
+2026-10-05T12:20:20.841909Z,veriguild,0.0.1,0,0,,Veriguild: protocol for software built and governed by untrusted AI agents (design phase; constants only)
+2026-10-05T12:20:54.610836Z,pg-bus,20261005.0.0,0,0,https://github.com/ducks/pg-bus,"A message bus on PostgreSQL: publish inside your transaction, resume from a cursor, deliver over SSE."
+2026-10-05T12:22:03.24912Z,fission-vello-cpu,0.2.0-fission.1,0,0,https://github.com/worka-ai/vello,"A CPU-based renderer for Vello, optimized for SIMD and multithreaded execution."
+2026-10-05T12:28:58.697851Z,rumpeg,0.1.1,0,0,https://github.com/hdmain/rumpeg,High-performance multimedia framework in Rust — FFmpeg-inspired library crate
+2026-10-05T12:30:06.511898Z,gpui-x-util,0.1.0,0,0,,A collection of utility structs and functions used by Zed and GPUI
+2026-10-05T12:31:09.020268Z,double-entry,0.1.0,0,0,https://github.com/WyattAu/double-entry,"Immutable double-entry accounting core — append-only journals, balanced posting, period close, and reversal by counter-entry"
+2026-10-05T12:32:21.889336Z,omniroute-zed,0.2.0,0,0,https://github.com/deuriib/omniroute-zed,Syncs OmniRoute's OpenAI-compatible models into Zed settings.json and registers the OmniRoute MCP server
+2026-10-05T12:32:36.883242Z,gpui-x-http-client,0.1.0,0,0,,A HTTP client library for Zed and GPUI
+2026-10-05T12:32:49.133645Z,keri-keyprovider,0.18.0,0,0,https://github.com/THCLab/keriox,Decoupled cryptographic key provider interface for KERI and beyond
+2026-10-05T12:38:49.205372Z,saymaker,0.1.0,0,0,https://github.com/hanshs474/saymaker-rs,"Generate images and video from Rust on SayMaker: Veo 3.1, Kling 3.0, Seedance 2.0, Nano Banana 2, GPT Image 2.5 and more with one API key"
+2026-10-05T12:39:31.813971Z,rumpeg-cli,0.1.1,0,0,https://github.com/hdmain/rumpeg,Command-line tools for Rumpeg (ffmpeg/ffprobe-style)
+2026-10-05T12:41:20.325449Z,jot-proto,1.0.0,0,0,https://github.com/judge-master/JOT-Proto,Protobuf types and gRPC bindings for JOT protocols
+2026-10-05T12:41:45.957277Z,oci-runner,0.1.0,0,0,,A tiny foreground libcontainer runtime and CLI
+2026-10-05T12:46:18.718265Z,gpui-x,0.2.2,0,0,https://github.com/zed-industries/zed,Zed's GPU-accelerated UI framework
+2026-10-05T12:47:18.809375Z,optimizers,0.0.0,0,0,,Algorithms for numerical optimization
+2026-10-05T12:48:59.34071Z,autumn-plugin-motion,0.2.0,0,0,https://github.com/madmax983/autumn-plugin-motion,Autumn plugin: Motion (motion.dev) animations with Maud + htmx ergonomics.
+2026-10-05T12:56:28.684631Z,autumn-plugin-graphql,0.1.0,0,0,https://github.com/autumn-foundation/autumn-graphql-plugin,"Production-grade GraphQL for Autumn: mount any async-graphql schema with query limits, persisted queries, subscriptions, observability and error masking"
+2026-10-05T12:58:27.157286Z,reallyme-trust,0.4.1,0,0,https://github.com/reallyme/ssi,Public trust decisions and verification interfaces for ReallyMe services.
+2026-10-05T12:58:44.637543Z,gpui-x-apple,0.1.0,0,0,,Metal backend for the gpui-x distribution (Apple platforms)
+2026-10-05T13:01:19.167632Z,vmx1,0.1.0,0,0,https://github.com/MikanseiLaboratory/vmx-rs,Pure Rust VMX1 video codec
+2026-10-05T13:02:29.304417Z,gpui-x-wgpu,0.1.0,0,0,,wgpu-based renderer for the gpui-x distribution
+2026-10-05T13:06:03.655783Z,bitspark-ontos-deixis-projection,0.14.0,0,0,https://github.com/Bitspark/ontos,"ontos-over-deixis-v1: the total projection P and exact partial recognizer R between ontos values and Node[Option[Bytes]], on the deixis-pos-v1 position spelling. Additive; the one place in ontos that…"
+2026-10-05T13:07:23.400714Z,openmediatransport,0.1.0,0,0,https://github.com/MikanseiLaboratory/openmediatransport-rs,Pure Rust Open Media Transport (OMT) protocol implementation
+2026-10-05T13:08:46.402473Z,cargo-mitsuami,1.0.0,0,0,https://github.com/Roboport-Tecnologia/mitsuami,"The mitsuami CLI: run, review and accept visual baselines"
+2026-10-05T13:08:50.624814Z,mitsuami-linux,1.0.0,0,0,https://github.com/Roboport-Tecnologia/mitsuami,"GpuSurface on Linux for mitsuami's GTK and Kirigami backends: a Wayland subsurface or an X11 child window, pointer locks and a shortcuts inhibitor"
+2026-10-05T13:08:52.604629Z,mitsuami-kirigami,1.0.0,0,0,https://github.com/Roboport-Tecnologia/mitsuami,Qt Quick and Kirigami (KDE Plasma) backend for mitsuami
+2026-10-05T13:12:15.495422Z,gpui-x-windows,0.1.0,0,0,,Windows backend for the gpui-x distribution
