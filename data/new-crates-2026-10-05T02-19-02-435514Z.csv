@@ -1,0 +1,8 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T01:24:05.086Z,gorgo,0.1.0,0,0,https://codeberg.org/brettchalupa/gorgo,"A zero-dependency, multi-threaded Spartan protocol server library and CLI"
+2026-10-05T01:38:59.560254Z,alguna,0.1.0,0,0,https://github.com/alguna-io/alguna-rust,Rust SDK for the Alguna billing API
+2026-10-05T01:49:56.358106Z,markhaus,0.1.0,0,0,,An on-demand Markdown reader with Bauhaus-inspired styling
+2026-10-05T02:00:23.257328Z,pci-ids-rs,0.3.0,0,0,https://github.com/auyer/pci-ids.rs,Rust wrappers for the PCI ID Repository
+2026-10-05T02:00:51.841448Z,uefi-wm,0.1.0,0,0,https://github.com/ldmsys/uefi-wm.git,A tiny no_std window manager for UEFI graphics environments
+2026-10-05T02:14:12.312783Z,sql-bomb-completion,0.1.0,0,0,https://github.com/fusor-rs/sql-bomb,SQL table and column completion from cursor position and catalog metadata
+2026-10-05T02:14:14.075405Z,sql-bomb,0.1.0,0,0,https://github.com/fusor-rs/sql-bomb,A terminal workspace for SQL queries and streaming results

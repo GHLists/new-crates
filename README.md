@@ -8,30 +8,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 01:18 UTC
+## Latest list — 2026-10-05 02:19 UTC
 
-New crates published between 2026-10-05 00:21 UTC and 2026-10-05 01:18 UTC.
+New crates published between 2026-10-05 01:18 UTC and 2026-10-05 02:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-05T01-18-52-393636Z.csv)
+[Full CSV](data/new-crates-2026-10-05T02-19-02-435514Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-05 00:26:17 | [formal-oxilean](https://crates.io/crates/formal-oxilean) | 0.0.1 | 0 | Placeholder that reserves the formal-oxilean name (part of cargo-formal). Propr… |
-| 2026-10-05 00:28:07 | [saccade-core](https://crates.io/crates/saccade-core) | 0.1.0 | 0 | NVIDIA FLIP image comparison and the report model behind the saccade CLI |
-| 2026-10-05 00:28:27 | [autumn-macros-support](https://crates.io/crates/autumn-macros-support) | 0.8.0 | 0 | Shared implementation helpers for Autumn's proc-macro crates (not a proc-macro… |
-| 2026-10-05 00:28:29 | [autumn-macros-model](https://crates.io/crates/autumn-macros-model) | 0.8.0 | 0 | Database-model proc macros for the Autumn web framework (#[model], #[service]);… |
-| 2026-10-05 00:28:30 | [autumn-macros-repository](https://crates.io/crates/autumn-macros-repository) | 0.8.0 | 0 | Repository proc macros for the Autumn web framework (#[repository]); split from… |
-| 2026-10-05 00:28:40 | [autumn-billing](https://crates.io/crates/autumn-billing) | 0.8.0 | 0 | Subscription billing plugin (Stripe checkout, portal, webhook mirror, dunning)… |
-| 2026-10-05 00:28:51 | [saccade](https://crates.io/crates/saccade) | 0.1.0 | 0 | Visual-regression CLI for renderers and graphics code, built on NVIDIA FLIP |
-| 2026-10-05 00:29:33 | [ferrocad_py](https://crates.io/crates/ferrocad_py) | 0.1.0 | 0 | PyO3 bindings exposing ferrocad_core to Python (importable as `ferrocad`) |
-| 2026-10-05 00:33:04 | [shrivel](https://crates.io/crates/shrivel) | 0.1.0 | 0 | Cross-platform FFmpeg orchestrator that batch re-encodes videos to H.265/HEVC |
-| 2026-10-05 00:34:18 | [bevy_markup](https://crates.io/crates/bevy_markup) | 0.2.0 | 0 | HTML templates (Tera), CSS and Fluent localization as native Bevy UI |
-| 2026-10-05 00:36:44 | [formal-report](https://crates.io/crates/formal-report) | 0.0.1 | 0 | Placeholder that reserves the formal-report name (part of cargo-formal). Propri… |
-| 2026-10-05 00:42:45 | [gob-time](https://crates.io/crates/gob-time) | 0.0.0 | 0 | Name reservation for gob-time, part of the frob workspace (Rust rewrite in prog… |
-| 2026-10-05 00:47:10 | [formal-conformance](https://crates.io/crates/formal-conformance) | 0.0.1 | 0 | Placeholder that reserves the formal-conformance name (part of cargo-formal). P… |
-| 2026-10-05 00:57:37 | [formal-driver](https://crates.io/crates/formal-driver) | 0.0.1 | 0 | Placeholder that reserves the formal-driver name (part of cargo-formal). Propri… |
-| 2026-10-05 01:09:28 | [incurs-app-gpui](https://crates.io/crates/incurs-app-gpui) | 0.6.0 | 0 | Native desktop application surface for incurs command graphs, built on GPUI |
-| 2026-10-05 01:18:19 | [griffin-rs](https://crates.io/crates/griffin-rs) | 0.0.0 | 0 | Name reserved for the Griffin web framework. |
+| 2026-10-05 01:24:05 | [gorgo](https://crates.io/crates/gorgo) | 0.1.0 | 0 | A zero-dependency, multi-threaded Spartan protocol server library and CLI |
+| 2026-10-05 01:38:59 | [alguna](https://crates.io/crates/alguna) | 0.1.0 | 0 | Rust SDK for the Alguna billing API |
+| 2026-10-05 01:49:56 | [markhaus](https://crates.io/crates/markhaus) | 0.1.0 | 0 | An on-demand Markdown reader with Bauhaus-inspired styling |
+| 2026-10-05 02:00:23 | [pci-ids-rs](https://crates.io/crates/pci-ids-rs) | 0.3.0 | 0 | Rust wrappers for the PCI ID Repository |
+| 2026-10-05 02:00:51 | [uefi-wm](https://crates.io/crates/uefi-wm) | 0.1.0 | 0 | A tiny no_std window manager for UEFI graphics environments |
+| 2026-10-05 02:14:12 | [sql-bomb-completion](https://crates.io/crates/sql-bomb-completion) | 0.1.0 | 0 | SQL table and column completion from cursor position and catalog metadata |
+| 2026-10-05 02:14:14 | [sql-bomb](https://crates.io/crates/sql-bomb) | 0.1.0 | 0 | A terminal workspace for SQL queries and streaming results |
 
 ## Data source
 
