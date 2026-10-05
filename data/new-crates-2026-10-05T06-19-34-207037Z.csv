@@ -1,0 +1,13 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T05:20:07.371512Z,dungeon-delve,0.1.0,0,0,https://github.com/Rishi2600/delve,"A terminal roguelike that turns a directory into a dungeon: folders are rooms, files are monsters, and it never writes to disk"
+2026-10-05T05:22:07.825786Z,gpui-alloy-web,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,GPUI Alloy distribution of gpui_web
+2026-10-05T05:26:41.899474Z,dekopon-gatewayd,0.34.0,0,0,https://github.com/dekopon-agents/dekopon,"Unprivileged Dekopon chat gateway daemon: transports, routing, and bounded agent sessions"
+2026-10-05T05:29:34.292953Z,apollo-dctdst-core,0.16.0,0,0,https://github.com/ryancinsight/apollo,Direct scalar DCT-III kernels
+2026-10-05T05:31:33.267759Z,auto_ptr,0.1.2,0,0,https://github.com/Alpha-Qian/rust-crates/tree/main/auto-ptr,"The ultimate RAII smart pointer for Rust. Bringing the proven, elegant memory management philosophy of C++98 to the modern era with Zero-Cost Ownership Transfer™."
+2026-10-05T05:42:20.502202Z,gpui-alloy-platform,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,GPUI Alloy distribution of gpui_platform
+2026-10-05T05:46:06.376753Z,cortexkit-exec-remote-types,0.1.0,0,0,https://github.com/cortexkit/commons,Caller-facing types and golden vectors for the CortexKit exec-remote/v1 capability.
+2026-10-05T06:08:16.271052Z,sdave-derive,0.2.1,0,0,https://github.com/Prohect/SDAVE,Native Serialize and Deserialize derives for SDAVE.
+2026-10-05T06:08:59.077482Z,fusion-nav,0.1.0,0,0,https://github.com/wboayue/fusion-nav/,"A no_std, allocation-free 15-state error-state Kalman filter for inertial navigation. Fuses IMU with GNSS position, velocity, dual-antenna heading and course, barometric altitude, and magnetometer he…"
+2026-10-05T06:10:17.203744Z,typedflake-macros,0.2.0,0,0,https://github.com/pokedotdev/typedflake,Procedural macros for TypedFlake ID declarations
+2026-10-05T06:11:20.550552Z,jwtf-proto,0.0.1-alpha.1,0,0,,"The sans-IO core of jwtf: OpenID Connect and OAuth 2.0 discovery, provider keys, JWT verification, relying parties, OAuth clients and client credentials"
+2026-10-05T06:11:23.528328Z,jwtf,0.0.1-alpha.1,0,0,,"OpenID Connect and OAuth 2.0 on reqwest: discovery, JWT verification with a shared key cache, relying parties, OAuth clients and client credentials"
