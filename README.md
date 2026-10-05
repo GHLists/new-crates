@@ -8,34 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 19:20 UTC
+## Latest list — 2026-10-05 20:18 UTC
 
-New crates published between 2026-10-05 18:18 UTC and 2026-10-05 19:20 UTC.
+New crates published between 2026-10-05 19:20 UTC and 2026-10-05 20:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-05T19-20-31-798952Z.csv)
+[Full CSV](data/new-crates-2026-10-05T20-18-40-730002Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-05 18:25:02 | [eve-sde](https://crates.io/crates/eve-sde) | 0.1.0 | 0 | Load, search and update EVE Online's Static Data Export (SDE) |
-| 2026-10-05 18:30:24 | [dscan-core](https://crates.io/crates/dscan-core) | 0.3.1 | 0 | High-throughput kernel directory traversal and disk space accounting engine |
-| 2026-10-05 18:34:59 | [torresmo](https://crates.io/crates/torresmo) | 1.0.0 | 0 | Dead simple and minimal TUI client for the Transmission daemon |
-| 2026-10-05 18:35:09 | [udpstp-wire](https://crates.io/crates/udpstp-wire) | 0.0.0 | 0 | UDPSTP (RFC 9946) PDU layouts and codecs. Placeholder: the implementation is in… |
-| 2026-10-05 18:35:11 | [udpstp-core](https://crates.io/crates/udpstp-core) | 0.0.0 | 0 | Sans-IO UDPSTP (RFC 9946) protocol core. Placeholder: the implementation is in… |
-| 2026-10-05 18:35:14 | [udpstp-runtime](https://crates.io/crates/udpstp-runtime) | 0.0.0 | 0 | I/O for udpstp's protocol core: sockets, clocks and the Control Phase. Placehol… |
-| 2026-10-05 18:41:39 | [agent-talk](https://crates.io/crates/agent-talk) | 0.1.0 | 0 | Send messages to other agent sessions (Codex, Claude Code, OpenCode, Grok CLI,… |
-| 2026-10-05 18:49:38 | [brap-macros](https://crates.io/crates/brap-macros) | 0.1.0 | 0 | Procedural macros for brap |
-| 2026-10-05 18:49:40 | [brap](https://crates.io/crates/brap) | 0.1.0 | 0 | Low-overhead latency telemetry for hot code paths: compile-time registered cycl… |
-| 2026-10-05 18:51:24 | [cityhash-sys-port](https://crates.io/crates/cityhash-sys-port) | 1.0.7-port | 0 | Rust binding of Google CityHash algorithm, ported to the latest rust nightly ve… |
-| 2026-10-05 18:56:15 | [autumn-plugin-grpc](https://crates.io/crates/autumn-plugin-grpc) | 0.1.0 | 0 | gRPC for Autumn: serve tonic services with health, reflection, metrics, gracefu… |
-| 2026-10-05 19:02:11 | [evac_interner](https://crates.io/crates/evac_interner) | 0.1.0 | 0 | A crate designed to implement a value interner, used by the Eva programming lan… |
-| 2026-10-05 19:07:04 | [mnw-tagtree](https://crates.io/crates/mnw-tagtree) | 0.4.4 | 0 | Hierarchical dot-notation tags: validation, tree operations, subtree selections… |
-| 2026-10-05 19:09:47 | [mogh_supporter](https://crates.io/crates/mogh_supporter) | 1.0.1 | 0 | Mogh Supporter schema, client, and embedded API |
-| 2026-10-05 19:17:41 | [gitty-core](https://crates.io/crates/gitty-core) | 0.1.2 | 0 | Git engine behind gitty: history walk, diffs, status, staging and network jobs |
-| 2026-10-05 19:17:42 | [gitty-highlight](https://crates.io/crates/gitty-highlight) | 0.1.2 | 0 | Syntax highlighting for gitty: tree-sitter grammars with a syntect fallback |
-| 2026-10-05 19:17:46 | [gitty-cli](https://crates.io/crates/gitty-cli) | 0.1.2 | 0 | A fast terminal git client with the GitHub Desktop experience |
-| 2026-10-05 19:18:23 | [fakecloud-servicequotas](https://crates.io/crates/fakecloud-servicequotas) | 0.48.1 | 0 | Service Quotas (servicequotas) implementation for FakeCloud |
-| 2026-10-05 19:18:53 | [rs-rich-diagram](https://crates.io/crates/rs-rich-diagram) | 0.0.1 | 0 | Graph diagrams for rs-rich: a graph model, a layered layout, and box-drawing re… |
-| 2026-10-05 19:19:37 | [cf-gears-github-mirror-sdk](https://crates.io/crates/cf-gears-github-mirror-sdk) | 0.1.0 | 0 | SDK for github-mirror gear: API trait, types, and error definitions |
+| 2026-10-05 19:23:54 | [degine](https://crates.io/crates/degine) | 0.1.0 | 0 | Command line client for a degine argument library |
+| 2026-10-05 19:33:18 | [splimes](https://crates.io/crates/splimes) | 0.1.0 | 0 | Spline interpolation over irregularly sampled time series, on SIMD/parallel CPU… |
+| 2026-10-05 19:33:50 | [sealmap-model](https://crates.io/crates/sealmap-model) | 0.1.0 | 0 | Language-neutral, deterministic code model (files, symbols, relations) for code… |
+| 2026-10-05 19:33:52 | [sealmap-mermaid](https://crates.io/crates/sealmap-mermaid) | 0.1.0 | 0 | Typed, deterministic Mermaid writers (sequence, class, ER, flowchart) with safe… |
+| 2026-10-05 19:33:58 | [sealmap-frontend](https://crates.io/crates/sealmap-frontend) | 0.1.0 | 0 | Language-neutral frontend core for sealmap: raw flow IR, flow lowering, call ag… |
+| 2026-10-05 19:34:04 | [sealmap-rust](https://crates.io/crates/sealmap-rust) | 0.1.0 | 0 | Pure-Rust (syn) frontend for sealmap: extracts symbols, relations and ordered c… |
+| 2026-10-05 19:34:09 | [sealmap-corpus](https://crates.io/crates/sealmap-corpus) | 0.1.0 | 0 | Projects a sealmap Codebase into a contract-enforced 1:1 corpus of dense Mermai… |
+| 2026-10-05 19:37:25 | [sessiongrep](https://crates.io/crates/sessiongrep) | 0.1.0 | 0 | Local-first memory layer for CLI agents: search, inspect, export, and resume Cl… |
+| 2026-10-05 19:37:57 | [bibleit](https://crates.io/crates/bibleit) | 0.0.1 | 0 | A fast, keyboard-first Bible reader for the terminal. |
+| 2026-10-05 19:43:54 | [sealmap](https://crates.io/crates/sealmap) | 0.1.0 | 0 | Deterministic, dense codebase-to-Mermaid generation for LLM agents: sequence, c… |
+| 2026-10-05 19:52:38 | [polydeukes-sdk](https://crates.io/crates/polydeukes-sdk) | 0.13.0 | 0 | Polydeukes SDK for Rust — hands a covenant input to `pdks covenant check` and r… |
+| 2026-10-05 19:55:21 | [tnoodle-rs](https://crates.io/crates/tnoodle-rs) | 0.1.0 | 0 | A faithful Rust port of TNoodle, the official World Cube Association scramble p… |
+| 2026-10-05 20:09:02 | [httpdir-tui](https://crates.io/crates/httpdir-tui) | 0.1.1 | 0 | A very simple terminal browser for HTTP directory indexes, with background down… |
+| 2026-10-05 20:09:11 | [familiar-ai](https://crates.io/crates/familiar-ai) | 0.0.0 | 0 | Proof that an AI coding agent's work is done: each requirement has a test that… |
+| 2026-10-05 20:09:41 | [lattice-db-client](https://crates.io/crates/lattice-db-client) | 1.11.1 | 0 | Typed Rust client SDK for lattice-db — wraps the NATS request/reply protocol |
+| 2026-10-05 20:11:02 | [tsrc](https://crates.io/crates/tsrc) | 0.0.0 | 0 | Name reserved for tsrc, part of the tsr TypeScript compiler project (ferrotype)… |
+| 2026-10-05 20:14:00 | [discord_intl_allocator](https://crates.io/crates/discord_intl_allocator) | 0.33.0 | 0 | Global allocator configuration for Discord's intl* crates |
+| 2026-10-05 20:14:03 | [discord_intl_markdown_macros](https://crates.io/crates/discord_intl_markdown_macros) | 0.33.0 | 0 | Procedural macros for discord_intl_markdown |
+| 2026-10-05 20:14:05 | [discord_intl_markdown_syntax](https://crates.io/crates/discord_intl_markdown_syntax) | 0.33.0 | 0 | Generated AST Syntax definition for discord_intl's custom ICU+Markdown message… |
+| 2026-10-05 20:14:09 | [discord_intl_markdown](https://crates.io/crates/discord_intl_markdown) | 0.33.0 | 0 | A combination Markdown and ICU messageformat parser for i18n messages. |
+| 2026-10-05 20:14:11 | [discord_intl_message_utils](https://crates.io/crates/discord_intl_message_utils) | 0.33.0 | 0 | Utilities used across different crates in the intl package. |
 
 ## Data source
 

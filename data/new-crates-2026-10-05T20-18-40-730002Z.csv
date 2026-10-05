@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T19:23:54.58085Z,degine,0.1.0,0,0,https://github.com/hiibolt/degine,Command line client for a degine argument library
+2026-10-05T19:33:18.946713Z,splimes,0.1.0,0,0,https://github.com/basic-automation/splimes,"Spline interpolation over irregularly sampled time series, on SIMD/parallel CPU or GPU (wgpu), with BigDecimal values."
+2026-10-05T19:33:50.022596Z,sealmap-model,0.1.0,0,0,https://github.com/DreamLab-AI/sealmap,"Language-neutral, deterministic code model (files, symbols, relations) for codebase-to-Mermaid generation"
+2026-10-05T19:33:52.931099Z,sealmap-mermaid,0.1.0,0,0,https://github.com/DreamLab-AI/sealmap,"Typed, deterministic Mermaid writers (sequence, class, ER, flowchart) with safe escaping and injective ids; no dependencies"
+2026-10-05T19:33:58.160606Z,sealmap-frontend,0.1.0,0,0,https://github.com/DreamLab-AI/sealmap,"Language-neutral frontend core for sealmap: raw flow IR, flow lowering, call aggregation, confidence policy, label rules, symbol-id builder and panic-isolated collection"
+2026-10-05T19:34:04.145675Z,sealmap-rust,0.1.0,0,0,https://github.com/DreamLab-AI/sealmap,"Pure-Rust (syn) frontend for sealmap: extracts symbols, relations and ordered call flows from Rust workspaces"
+2026-10-05T19:34:09.106635Z,sealmap-corpus,0.1.0,0,0,https://github.com/DreamLab-AI/sealmap,Projects a sealmap Codebase into a contract-enforced 1:1 corpus of dense Mermaid diagrams with LLM-ready metadata
+2026-10-05T19:37:25.752265Z,sessiongrep,0.1.0,0,0,https://github.com/braincompany/sessiongrep,"Local-first memory layer for CLI agents: search, inspect, export, and resume Claude Code, Codex CLI, Cursor, Antigravity, and Pi sessions, with an MCP server for agent-driven recall."
+2026-10-05T19:37:57.548377Z,bibleit,0.0.1,0,0,https://github.com/mittel-labs/bibleit,"A fast, keyboard-first Bible reader for the terminal."
+2026-10-05T19:43:54.383747Z,sealmap,0.1.0,0,0,https://github.com/DreamLab-AI/sealmap,"Deterministic, dense codebase-to-Mermaid generation for LLM agents: sequence, class, ER and dependency diagrams in a contract-enforced 1:1 corpus"
+2026-10-05T19:52:38.177202Z,polydeukes-sdk,0.13.0,0,0,https://github.com/huskyhoochu/polydeukes,Polydeukes SDK for Rust — hands a covenant input to `pdks covenant check` and returns the verdict as a value.
+2026-10-05T19:55:21.801036Z,tnoodle-rs,0.1.0,0,0,https://github.com/enekocm7/cube-tui,"A faithful Rust port of TNoodle, the official World Cube Association scramble program library."
+2026-10-05T20:09:02.079843Z,httpdir-tui,0.1.1,0,0,https://github.com/dupgit/httpdir-tui,"A very simple terminal browser for HTTP directory indexes, with background downloads that can be resumed."
+2026-10-05T20:09:11.991525Z,familiar-ai,0.0.0,0,0,https://github.com/familiar-ai-oss/familiar-ai,"Proof that an AI coding agent's work is done: each requirement has a test that failed first, was not changed, and passes. In development; this release holds the name."
+2026-10-05T20:09:41.063823Z,lattice-db-client,1.11.1,0,0,https://github.com/Taika-3D-Oy/lattice-db,Typed Rust client SDK for lattice-db — wraps the NATS request/reply protocol
+2026-10-05T20:11:02.609791Z,tsrc,0.0.0,0,0,https://github.com/ferrotype/tsr,"Name reserved for tsrc, part of the tsr TypeScript compiler project (ferrotype). No code yet."
+2026-10-05T20:14:00.3192Z,discord_intl_allocator,0.33.0,0,0,https://github.com/discord/discord-intl,Global allocator configuration for Discord's intl* crates
+2026-10-05T20:14:03.800572Z,discord_intl_markdown_macros,0.33.0,0,0,https://github.com/discord/discord-intl,Procedural macros for discord_intl_markdown
+2026-10-05T20:14:05.874582Z,discord_intl_markdown_syntax,0.33.0,0,0,https://github.com/discord/discord-intl,Generated AST Syntax definition for discord_intl's custom ICU+Markdown message syntax
+2026-10-05T20:14:09.063883Z,discord_intl_markdown,0.33.0,0,0,https://github.com/discord/discord-intl,A combination Markdown and ICU messageformat parser for i18n messages.
+2026-10-05T20:14:11.428851Z,discord_intl_message_utils,0.33.0,0,0,https://github.com/discord/discord-intl,Utilities used across different crates in the intl package.
