@@ -1,0 +1,9 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-04T23:24:42.744606Z,sqlc-brickgen,0.0.1,0,0,https://github.com/soulstompp/sql-composer,"Generates a large LEGO-style catalogue, with builders' collections and purchase logs, and loads it into Postgres in hierarchical waves"
+2026-10-04T23:54:38.800131Z,oxiformal,0.0.1,0,0,,Placeholder that reserves the oxiformal name (part of cargo-formal). Proprietary software of COOLJAPAN OU; this release has no functionality.
+2026-10-04T23:54:44.3547Z,oxiformal-macros,0.0.1,0,0,,Placeholder that reserves the oxiformal-macros name (part of cargo-formal). Proprietary software of COOLJAPAN OU; this release has no functionality.
+2026-10-04T23:54:49.04798Z,formal-ir,0.0.1,0,0,,Placeholder that reserves the formal-ir name (part of cargo-formal). Proprietary software of COOLJAPAN OU; this release has no functionality.
+2026-10-04T23:54:53.268832Z,formal-config,0.0.1,0,0,,Placeholder that reserves the formal-config name (part of cargo-formal). Proprietary software of COOLJAPAN OU; this release has no functionality.
+2026-10-04T23:54:57.730166Z,formal-extract,0.0.1,0,0,,Placeholder that reserves the formal-extract name (part of cargo-formal). Proprietary software of COOLJAPAN OU; this release has no functionality.
+2026-10-05T00:05:24.638793Z,formal-vcgen,0.0.1,0,0,,Placeholder that reserves the formal-vcgen name (part of cargo-formal). Proprietary software of COOLJAPAN OU; this release has no functionality.
+2026-10-05T00:15:51.223459Z,formal-oxiz,0.0.1,0,0,,Placeholder that reserves the formal-oxiz name (part of cargo-formal). Proprietary software of COOLJAPAN OU; this release has no functionality.
