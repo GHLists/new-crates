@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T04:20:18.364034Z,phos-analyses,0.0.0,0,0,https://github.com/ELEOptics/phos-core,"Placeholder for phos-analyses, part of phos-core, the ELE Optics optical physics engine. No code yet."
+2026-10-05T04:20:29.137337Z,phos-optimization,0.0.0,0,0,https://github.com/ELEOptics/phos-core,"Placeholder for phos-optimization, part of phos-core, the ELE Optics optical physics engine. No code yet."
+2026-10-05T04:22:56.475339Z,octa-cli,0.1.0,0,0,https://github.com/choplin/octa,Local Issue collaboration for developers and AI agents
+2026-10-05T04:25:56.895475Z,gpui-alloy-windows,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,GPUI Alloy distribution of gpui_windows
+2026-10-05T04:29:36.998543Z,mp3dec,0.1.0,0,0,https://github.com/raphlinus/mp3dec,"mp3 decoder written in safe Rust, ported from minimp3"
+2026-10-05T04:37:19.312119Z,rollcall-identifiers,1.0.0,0,0,https://github.com/smhasan94/rollcall,"rollcall's identifier database: Zephyr module -> upstream project, purl, CPE and version"
+2026-10-05T04:41:29.954455Z,gpui-alloy-macos,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,GPUI Alloy distribution of gpui_macos
+2026-10-05T04:42:34.97485Z,dscan,0.1.6,0,0,https://github.com/parchlinux/dscan,"Ultra-fast, multi-threaded recursive disk space analyzer with a sleek neon TUI"
+2026-10-05T04:45:50.938714Z,crabxl-core,0.1.0-alpha.1,0,0,https://github.com/crabxl/crabxl,Shared spreadsheet types and resource limits for crabxl
+2026-10-05T04:46:01.289103Z,crabxl-xlsx,0.1.0-alpha.1,0,0,https://github.com/crabxl/crabxl,Bounded streaming XLSX processing for crabxl
+2026-10-05T04:46:05.300041Z,crabxl,0.1.0-alpha.1,0,0,https://github.com/crabxl/crabxl,A Rust spreadsheet library with bounded streaming XLSX reads
+2026-10-05T04:47:26.054111Z,luma-flash-attn,0.3.0,0,0,https://github.com/MoleSir/luma.git,luma flash attn
+2026-10-05T04:48:10.547502Z,luma-onnx,0.3.0,0,0,https://github.com/MoleSir/luma.git,onnx export / parse in luma
+2026-10-05T04:49:46.758323Z,serde-mihomo,0.1.0,0,0,,Typed Rust model and Serde (de)serialization for the mihomo / Clash.Meta configuration file
+2026-10-05T04:50:56.53043Z,seed-guardian,0.1.0,0,0,https://github.com/carterlasalle/seed-harness,"Seed immutable trusted evaluator daemon: JSON-RPC guardian with SQLite WAL store, gates, Pareto archive, champion pointer"
+2026-10-05T04:57:08.974965Z,chardet-rs,0.1.0,0,0,https://github.com/thanatosmoe/chardet-rs,Universal character encoding detector — Rust port of chardet 7
+2026-10-05T05:01:38.407827Z,gpui-alloy-linux,0.1.0,0,0,https://github.com/AprilNEA/gpui-alloy,GPUI Alloy distribution of gpui_linux
+2026-10-05T05:05:13.199281Z,cargo-snare,2.0.0,0,0,https://github.com/valstad-shipworks/snare,Cargo subcommand that runs a crate's #[cfg(snare)] tests under the snare interposer with the syscall shims patched in
+2026-10-05T05:05:14.116896Z,snare-interpose,2.0.0,0,0,https://github.com/valstad-shipworks/snare,"Redirects a program's calls into the operating system to pluggable layers, per thread"
+2026-10-05T05:09:52.129255Z,buse,0.0.0,0,0,,Create block devices in userspace
+2026-10-05T05:15:00.044095Z,lattice-sketch,0.0.0,0,0,https://github.com/jeffparsons/lattice-sketch,"Space-efficient sketches of lattice-valued functions, generalising the Bloom filter"
