@@ -8,40 +8,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 11:18 UTC
+## Latest list — 2026-10-06 12:20 UTC
 
-New crates published between 2026-10-06 10:19 UTC and 2026-10-06 11:18 UTC.
+New crates published between 2026-10-06 11:18 UTC and 2026-10-06 12:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-06T11-18-38-301175Z.csv)
+[Full CSV](data/new-crates-2026-10-06T12-20-04-229394Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 10:21:58 | [pretty_table_rs](https://crates.io/crates/pretty_table_rs) | 0.1.1 | 0 | Typed, Unicode-aware tables inspired by Python PrettyTable |
-| 2026-10-06 10:22:46 | [blastguard](https://crates.io/crates/blastguard) | 0.1.2 | 0 | A local command-policy and ephemeral Git worktree safety tool for AI coding age… |
-| 2026-10-06 10:23:45 | [dots-ui](https://crates.io/crates/dots-ui) | 0.1.0 | 0 | Leptos components for the dots design system: monochrome, monospace, dense. |
-| 2026-10-06 10:24:16 | [tree-sitter-blk](https://crates.io/crates/tree-sitter-blk) | 1.0.0 | 0 | Dagor BLK (DataBlock) text format grammar for tree-sitter |
-| 2026-10-06 10:28:06 | [sway-panorama](https://crates.io/crates/sway-panorama) | 0.1.0 | 0 | A live overview of Sway workspaces in one Wayland window |
-| 2026-10-06 10:29:20 | [concierge_iam_derive](https://crates.io/crates/concierge_iam_derive) | 0.1.0 | 0 | #[derive(Permission)] for concierge_iam |
-| 2026-10-06 10:29:55 | [concierge_iam](https://crates.io/crates/concierge_iam) | 0.1.0 | 0 | Permission scopes of the EV identity plane: derived catalogs, concrete permissi… |
-| 2026-10-06 10:30:23 | [easy-peasy-rust](https://crates.io/crates/easy-peasy-rust) | 1.99.1 | 0 | Opinionated clippy and rustc lint preset in the spirit of wemake-python-stylegu… |
-| 2026-10-06 10:37:14 | [price-feed-twap](https://crates.io/crates/price-feed-twap) | 0.1.0 | 0 | Rust integration tests for the price-feed TWAP contract. |
-| 2026-10-06 10:37:17 | [price-feed-twap-fuel](https://crates.io/crates/price-feed-twap-fuel) | 0.1.0 | 0 | Rust integration tests for the FUEL/stFUEL price-feed TWAP contract. |
-| 2026-10-06 10:39:43 | [rust-fs-squashfs](https://crates.io/crates/rust-fs-squashfs) | 0.4.0 | 0 | Pure-Rust SquashFS (read-only) filesystem driver. Clean-room implementation; re… |
-| 2026-10-06 10:42:27 | [youpipe-crossfire](https://crates.io/crates/youpipe-crossfire) | 0.6.0 | 0 | channels for async and threads (youpipe fork) |
-| 2026-10-06 10:42:29 | [youpipe-hotpath](https://crates.io/crates/youpipe-hotpath) | 0.6.0 | 0 | youpipe fork of the hotpath profiler (lib only) |
-| 2026-10-06 10:43:08 | [noun](https://crates.io/crates/noun) | 0.1.0 | 0 | Content-addressable 32-byte identifiers for immutable Merkle proofs |
-| 2026-10-06 10:43:22 | [rust-fs-ntfs](https://crates.io/crates/rust-fs-ntfs) | 0.9.0 | 0 | Pure-Rust NTFS filesystem driver. Exposes a C ABI (fs_ntfs_*) suitable for FFI… |
-| 2026-10-06 10:45:40 | [rskrb5-patched](https://crates.io/crates/rskrb5-patched) | 0.2.1 | 0 | Temporary patched fork of rskrb5: upstream main at 6f4abc9 plus the fixes await… |
-| 2026-10-06 10:49:38 | [cratefield-adapter-colonizer](https://crates.io/crates/cratefield-adapter-colonizer) | 0.1.0 | 0 | HTTP client for the Colonizer mothership API, for the Cratefield harness |
-| 2026-10-06 10:49:43 | [cratefield-module-crm](https://crates.io/crates/cratefield-module-crm) | 0.1.0 | 0 | Cratefield module: contacts, organisations and tags, with an idempotent upsert… |
-| 2026-10-06 10:51:30 | [keria-types](https://crates.io/crates/keria-types) | 0.1.0 | 0 | KERIA agent API record types |
-| 2026-10-06 11:07:35 | [hybrid-format-impls](https://crates.io/crates/hybrid-format-impls) | 0.1.0 | 0 | Use the hybrid-format crate. |
-| 2026-10-06 11:07:36 | [hybrid-format-macros](https://crates.io/crates/hybrid-format-macros) | 0.1.0 | 0 | Use the hybrid-format crate. |
-| 2026-10-06 11:07:37 | [hybrid-format](https://crates.io/crates/hybrid-format) | 0.1.0 | 0 | A hybrid format! alternative that formats constants at compile-time and everyth… |
-| 2026-10-06 11:08:35 | [oox-tui](https://crates.io/crates/oox-tui) | 0.2.0 | 0 | A terminal UI for inspecting Office Open XML documents |
-| 2026-10-06 11:10:06 | [dbnexus-limiter-port](https://crates.io/crates/dbnexus-limiter-port) | 0.6.0-rc.6 | 0 | Rate limiter port (trait Limiter) shared by dbnexus and limiteron; only depende… |
-| 2026-10-06 11:16:18 | [plans](https://crates.io/crates/plans) | 0.1.0 | 0 | Process manifest: defines layers and capabilities for sandboxed runs |
-| 2026-10-06 11:16:41 | [rust-fs-btrfs](https://crates.io/crates/rust-fs-btrfs) | 0.10.0 | 0 | Pure-Rust Btrfs filesystem driver. Exposes a C ABI (fs_btrfs_*) suitable for FF… |
+| 2026-10-06 11:28:56 | [gr-perpl-utils](https://crates.io/crates/gr-perpl-utils) | 0.1.0 | 0 | Logic for working with Perpl DEX |
+| 2026-10-06 11:35:51 | [itofin-optimize](https://crates.io/crates/itofin-optimize) | 0.36.0 | 0 | SciPy-inspired numerical optimization in Rust: a finance-independent minimize o… |
+| 2026-10-06 11:41:13 | [onerom-metadata-gen](https://crates.io/crates/onerom-metadata-gen) | 0.1.0 | 0 | Code generator behind One ROM's metadata crates - C headers and Rust source fro… |
+| 2026-10-06 11:41:20 | [onerom-lab-metadata](https://crates.io/crates/onerom-lab-metadata) | 0.1.0 | 0 | One ROM Lab metadata handling |
+| 2026-10-06 11:41:28 | [onerom-lab-parser](https://crates.io/crates/onerom-lab-parser) | 0.1.0 | 0 | One ROM Lab parser |
+| 2026-10-06 11:58:02 | [rust-fs-ext4](https://crates.io/crates/rust-fs-ext4) | 0.8.0 | 0 | Pure-Rust ext4 filesystem driver. Exposes a C ABI (fs_ext4_*) suitable for FFI… |
+| 2026-10-06 12:03:10 | [rfluence-convert](https://crates.io/crates/rfluence-convert) | 0.1.0 | 0 | Markdown <-> Confluence ADF conversion that round-trips: the converter behind r… |
+| 2026-10-06 12:03:12 | [rfluence-client](https://crates.io/crates/rfluence-client) | 0.1.0 | 0 | Confluence Cloud API client and credentials: the client behind rfluence |
+| 2026-10-06 12:03:14 | [rfluence](https://crates.io/crates/rfluence) | 0.1.0 | 0 | Confluence pages as markdown, both ways: fetch, search, edit and upload pages w… |
+| 2026-10-06 12:06:21 | [tronzap-sdk](https://crates.io/crates/tronzap-sdk) | 1.0.0 | 0 | Official Rust SDK for the TronZap API: buy TRON energy and bandwidth to cut USD… |
+| 2026-10-06 12:16:07 | [eehrxf](https://crates.io/crates/eehrxf) | 0.0.0 | 0 | The European interoperability software component of an EHR system under Regulat… |
+| 2026-10-06 12:16:23 | [diesel-aip-160-derive](https://crates.io/crates/diesel-aip-160-derive) | 0.1.0-beta.1 | 0 | Derive macros for AIP-160 filtering with Diesel |
+| 2026-10-06 12:16:25 | [diesel-aip-160](https://crates.io/crates/diesel-aip-160) | 0.1.0-beta.1 | 0 | Parse AIP-160 filters and compile typed, parameterized Diesel predicates |
+| 2026-10-06 12:19:58 | [maaty](https://crates.io/crates/maaty) | 0.1.0 | 0 | init of dualys os |
 
 ## Data source
 

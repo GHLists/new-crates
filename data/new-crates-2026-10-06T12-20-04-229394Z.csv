@@ -1,0 +1,15 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T11:28:56.503452Z,gr-perpl-utils,0.1.0,0,0,https://github.com/graniteriver/gr-perpl-utils,Logic for working with Perpl DEX
+2026-10-06T11:35:51.865955Z,itofin-optimize,0.36.0,0,0,https://github.com/benbenbang/libitofin,SciPy-inspired numerical optimization in Rust: a finance-independent minimize over plain float slices.
+2026-10-06T11:41:13.832837Z,onerom-metadata-gen,0.1.0,0,0,https://github.com/piersfinlayson/one-rom,Code generator behind One ROM's metadata crates - C headers and Rust source from a TOML schema
+2026-10-06T11:41:20.819996Z,onerom-lab-metadata,0.1.0,0,0,https://github.com/piersfinlayson/one-rom,One ROM Lab metadata handling
+2026-10-06T11:41:28.380753Z,onerom-lab-parser,0.1.0,0,0,https://github.com/piersfinlayson/one-rom,One ROM Lab parser
+2026-10-06T11:58:02.015405Z,rust-fs-ext4,0.8.0,0,0,https://github.com/antimatter-studios/rust-fs-ext4,Pure-Rust ext4 filesystem driver. Exposes a C ABI (fs_ext4_*) suitable for FFI from C/C++/Go/etc.
+2026-10-06T12:03:10.975647Z,rfluence-convert,0.1.0,0,0,https://github.com/ckedwards/rfluence,Markdown <-> Confluence ADF conversion that round-trips: the converter behind rfluence
+2026-10-06T12:03:12.690465Z,rfluence-client,0.1.0,0,0,https://github.com/ckedwards/rfluence,Confluence Cloud API client and credentials: the client behind rfluence
+2026-10-06T12:03:14.371542Z,rfluence,0.1.0,0,0,https://github.com/ckedwards/rfluence,"Confluence pages as markdown, both ways: fetch, search, edit and upload pages without losing content"
+2026-10-06T12:06:21.815703Z,tronzap-sdk,1.0.0,0,0,https://github.com/tron-energy-market/tronzap-sdk-rust,Official Rust SDK for the TronZap API: buy TRON energy and bandwidth to cut USDT (TRC20) transfer fees
+2026-10-06T12:16:07.611126Z,eehrxf,0.0.0,0,0,https://github.com/FerroHEALTH/FerroFED,"The European interoperability software component of an EHR system under Regulation (EU) 2025/327: the format-neutral dataset model of the priority categories read from the Xt-EHR EHDS logical models,…"
+2026-10-06T12:16:23.352411Z,diesel-aip-160-derive,0.1.0-beta.1,0,0,https://github.com/comradesharf/diesel-aip-160,Derive macros for AIP-160 filtering with Diesel
+2026-10-06T12:16:25.897091Z,diesel-aip-160,0.1.0-beta.1,0,0,https://github.com/comradesharf/diesel-aip-160,"Parse AIP-160 filters and compile typed, parameterized Diesel predicates"
+2026-10-06T12:19:58.028609Z,maaty,0.1.0,0,0,https://github.com/dualys/maat,init of dualys os
