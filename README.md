@@ -8,31 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 19:20 UTC
+## Latest list — 2026-10-06 20:18 UTC
 
-New crates published between 2026-10-06 18:18 UTC and 2026-10-06 19:20 UTC.
+New crates published between 2026-10-06 19:20 UTC and 2026-10-06 20:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-06T19-20-37-947552Z.csv)
+[Full CSV](data/new-crates-2026-10-06T20-18-55-13331Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 18:23:02 | [ensemble-reaper](https://crates.io/crates/ensemble-reaper) | 0.1.0 | 0 | REAPER OSC bridge for Ensemble — exposes REAPER transport, tracks and FX parame… |
-| 2026-10-06 18:23:36 | [momento-functions-spawn](https://crates.io/crates/momento-functions-spawn) | 0.26.1 | 0 | Host interfaces for spawning Momento Functions |
-| 2026-10-06 18:38:47 | [catacombs](https://crates.io/crates/catacombs) | 0.2.0 | 0 | Catacombs is a simple Discord oauth2 library with user management and subscript… |
-| 2026-10-06 18:40:44 | [rvllm](https://crates.io/crates/rvllm) | 0.1.0 | 0 | Small LLM inference engine in Rust: paged KV cache, continuous batching, CPU an… |
-| 2026-10-06 18:40:54 | [conpty-assets](https://crates.io/crates/conpty-assets) | 0.1.1 | 0 | Redistributable Microsoft ConPTY DLL and OpenConsole host as embedded byte slic… |
-| 2026-10-06 18:42:56 | [symbi-sandbox-guest](https://crates.io/crates/symbi-sandbox-guest) | 1.21.0 | 0 | Versioned guest command transport for Symbiont microVMs |
-| 2026-10-06 18:43:03 | [symbi-sandbox-supervisor](https://crates.io/crates/symbi-sandbox-supervisor) | 1.21.0 | 0 | Independent container lifetime and recovery supervisor for Symbiont |
-| 2026-10-06 18:56:48 | [h3wire](https://crates.io/crates/h3wire) | 0.1.0 | 0 | Sans-I/O HTTP/3 (RFC 9114) and QPACK (RFC 9204) engine |
-| 2026-10-06 19:07:21 | [forma-proc-macro](https://crates.io/crates/forma-proc-macro) | 0.1.0 | 0 | Formatier API proc macro |
-| 2026-10-06 19:15:07 | [marbots-sdk](https://crates.io/crates/marbots-sdk) | 0.1.0 | 0 | Typed Rust SDK for Marbots, the multi-agent collaboration platform (Boss Man or… |
-| 2026-10-06 19:15:37 | [bevy_react_core](https://crates.io/crates/bevy_react_core) | 0.7.0 | 0 | The core bridge of bevy-react (drive bevy_ui from React over an embedded V8 run… |
-| 2026-10-06 19:15:39 | [bevy_react_anchor](https://crates.io/crates/bevy_react_anchor) | 0.7.0 | 0 | The <anchor> element: world-anchored UI overlays for bevy_react_core. |
-| 2026-10-06 19:15:40 | [bevy_react_canvas](https://crates.io/crates/bevy_react_canvas) | 0.7.0 | 0 | The <canvas> element: a retained CPU-rastered drawing surface for bevy_react_co… |
-| 2026-10-06 19:15:41 | [bevy_react_portal](https://crates.io/crates/bevy_react_portal) | 0.7.0 | 0 | The <portal> element: render-target views for bevy_react_core. |
-| 2026-10-06 19:15:41 | [bevy_react_surface](https://crates.io/crates/bevy_react_surface) | 0.7.0 | 0 | The <surface> element: React UI rendered into offscreen textures for bevy_react… |
-| 2026-10-06 19:17:28 | [ecat-orm-derive](https://crates.io/crates/ecat-orm-derive) | 4.1.0 | 0 | Derive macros for ecat-orm (#[derive(Entity)]) |
-| 2026-10-06 19:18:09 | [bevy_react_svg](https://crates.io/crates/bevy_react_svg) | 0.7.0 | 0 | The JSX <svg> element and shape intrinsics for bevy_react_core. |
+| 2026-10-06 19:25:01 | [iterable_assertions](https://crates.io/crates/iterable_assertions) | 0.1.0 | 0 | Assertions for iterable collections |
+| 2026-10-06 19:40:39 | [functora-core](https://crates.io/crates/functora-core) | 0.1.0 | 0 | Pure Rust core logic: crypto, archives, encoding, i18n, and utilities. |
+| 2026-10-06 19:48:35 | [meteroid](https://crates.io/crates/meteroid) | 0.0.1 | 0 | Meteroid, open-source billing and pricing infrastructure. The Rust SDK is publi… |
+| 2026-10-06 19:49:29 | [nix-manager-core](https://crates.io/crates/nix-manager-core) | 0.3.0 | 0 | Support library for manager-flake Rust projects: ui, exec, repo, age, forge, he… |
+| 2026-10-06 19:51:42 | [functora-egui](https://crates.io/crates/functora-egui) | 0.1.0 | 0 | shadcn/ui-inspired widget library for egui - buttons, inputs, selects, dialogs,… |
+| 2026-10-06 19:52:49 | [functora-egui-winit](https://crates.io/crates/functora-egui-winit) | 0.36.2 | 0 | Bindings for using egui with winit (functora fork with Android IME fix) |
+| 2026-10-06 19:59:02 | [pethost](https://crates.io/crates/pethost) | 0.0.0 | 0 | Client for the API of Pethost, managed hosting for Docker Compose projects: dep… |
+| 2026-10-06 20:00:59 | [macro-schema-core](https://crates.io/crates/macro-schema-core) | 0.1.0 | 0 | The implementation of macro-schema over proc_macro2, testable without the compi… |
+| 2026-10-06 20:01:09 | [llvm-amdgpu-types](https://crates.io/crates/llvm-amdgpu-types) | 0.1.1 | 0 | Typed AMDGPU instruction families generated from LLVM TableGen |
+| 2026-10-06 20:01:22 | [macro-schema-derive](https://crates.io/crates/macro-schema-derive) | 0.1.0 | 0 | Procedural macro entry points for macro-schema; the logic lives in macro-schema… |
+| 2026-10-06 20:01:39 | [macro-schema](https://crates.io/crates/macro-schema) | 0.1.0 | 0 | Define Rust declaration macros from a schema, which sets their syntax, and a te… |
+| 2026-10-06 20:04:39 | [sigma-dock-core](https://crates.io/crates/sigma-dock-core) | 0.1.0 | 0 | Domain model and local IPC for SigmaDock agent workspaces |
+| 2026-10-06 20:04:40 | [sigma-dock-ports](https://crates.io/crates/sigma-dock-ports) | 0.1.0 | 0 | Local development port leases for SigmaDock workers |
+| 2026-10-06 20:04:40 | [sigma-dock-agents](https://crates.io/crates/sigma-dock-agents) | 0.1.0 | 0 | CLI harness adapters and MCP configuration for SigmaDock |
+| 2026-10-06 20:04:40 | [sigma-dock-cli](https://crates.io/crates/sigma-dock-cli) | 0.1.0 | 0 | Command-line client for the SigmaDock local daemon |
+| 2026-10-06 20:04:41 | [sigma-dock-forge](https://crates.io/crates/sigma-dock-forge) | 0.1.0 | 0 | GitHub and Forgejo facts and feedback for SigmaDock |
+| 2026-10-06 20:06:47 | [rmcp-apps](https://crates.io/crates/rmcp-apps) | 0.1.0 | 0 | Typed MCP Apps extension (io.modelcontextprotocol/ui, 2026-01-26) over rmcp |
+| 2026-10-06 20:08:18 | [huskarl-axum](https://crates.io/crates/huskarl-axum) | 0.1.0 | 0 | Axum middleware and extractors for the huskarl OAuth2 ecosystem. |
+| 2026-10-06 20:15:03 | [probl-number](https://crates.io/crates/probl-number) | 0.1.0 | 0 | Internal to Probl, with no stable API: exact integers shared by its syntax and… |
+| 2026-10-06 20:15:05 | [probl-syntax](https://crates.io/crates/probl-syntax) | 0.1.0 | 0 | Internal to Probl, with no stable API: its lexer, parser, AST and diagnostics.… |
+| 2026-10-06 20:15:08 | [probl-sema](https://crates.io/crates/probl-sema) | 0.1.0 | 0 | Internal to Probl, with no stable API: name resolution, lowering to IR and live… |
+| 2026-10-06 20:15:10 | [probl-engine](https://crates.io/crates/probl-engine) | 0.1.0 | 0 | Internal to Probl, with no stable API: values, distributions and the world-set… |
+| 2026-10-06 20:15:12 | [probl](https://crates.io/crates/probl) | 0.1.0 | 0 | Compile and run Probl programs from Rust: a language where conditions are proba… |
+| 2026-10-06 20:15:26 | [sigma-dock-git](https://crates.io/crates/sigma-dock-git) | 0.1.0 | 0 | Safe isolated git worktrees for SigmaDock workers |
+| 2026-10-06 20:16:34 | [ecat-orm](https://crates.io/crates/ecat-orm) | 4.1.0 | 0 | ORM for e-cat: entity derive, query builder, migrations |
+| 2026-10-06 20:17:22 | [valkey-glide](https://crates.io/crates/valkey-glide) | 0.1.0 | 0 | Valkey GLIDE — native Rust client for Valkey and Redis OSS, built on glide-core. |
 
 ## Data source
 

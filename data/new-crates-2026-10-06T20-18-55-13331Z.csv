@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T19:25:01.357127Z,iterable_assertions,0.1.0,0,0,https://github.com/johnw42/iterable_assertions,Assertions for iterable collections
+2026-10-06T19:40:39.71622Z,functora-core,0.1.0,0,0,https://github.com/functora/functora.github.io/tree/master/rust/functora-core,"Pure Rust core logic: crypto, archives, encoding, i18n, and utilities."
+2026-10-06T19:48:35.530773Z,meteroid,0.0.1,0,0,https://github.com/meteroid-oss/meteroid,"Meteroid, open-source billing and pricing infrastructure. The Rust SDK is published as `meteroid-rs`."
+2026-10-06T19:49:29.094257Z,nix-manager-core,0.3.0,0,0,https://github.com/caniko/nix-manager-core,"Support library for manager-flake Rust projects: ui, exec, repo, age, forge, health, parallel, build, user"
+2026-10-06T19:51:42.635043Z,functora-egui,0.1.0,0,0,https://github.com/functora/functora.github.io/tree/master/rust/functora-egui,"shadcn/ui-inspired widget library for egui - buttons, inputs, selects, dialogs, and 70+ more components with light/dark theming"
+2026-10-06T19:52:49.4022Z,functora-egui-winit,0.36.2,0,0,https://github.com/functora/functora.github.io/tree/master/rust/functora-egui-winit,Bindings for using egui with winit (functora fork with Android IME fix)
+2026-10-06T19:59:02.084788Z,pethost,0.0.0,0,0,https://github.com/pethost-dev/sdk,"Client for the API of Pethost, managed hosting for Docker Compose projects: deploy, logs, HTTP traffic, files"
+2026-10-06T20:00:59.882256Z,macro-schema-core,0.1.0,0,0,https://github.com/CarlKCarlK/macro-schema,"The implementation of macro-schema over proc_macro2, testable without the compiler's macro expander."
+2026-10-06T20:01:09.302944Z,llvm-amdgpu-types,0.1.1,0,0,https://github.com/takashiidobe/llvm-amdgpu-types,Typed AMDGPU instruction families generated from LLVM TableGen
+2026-10-06T20:01:22.912922Z,macro-schema-derive,0.1.0,0,0,https://github.com/CarlKCarlK/macro-schema,Procedural macro entry points for macro-schema; the logic lives in macro-schema-core.
+2026-10-06T20:01:39.504414Z,macro-schema,0.1.0,0,0,https://github.com/CarlKCarlK/macro-schema,"Define Rust declaration macros from a schema, which sets their syntax, and a template, which sets their output."
+2026-10-06T20:04:39.721148Z,sigma-dock-core,0.1.0,0,0,https://github.com/SigmaUno/sigma-dock,Domain model and local IPC for SigmaDock agent workspaces
+2026-10-06T20:04:40.258838Z,sigma-dock-ports,0.1.0,0,0,https://github.com/SigmaUno/sigma-dock,Local development port leases for SigmaDock workers
+2026-10-06T20:04:40.528603Z,sigma-dock-agents,0.1.0,0,0,https://github.com/SigmaUno/sigma-dock,CLI harness adapters and MCP configuration for SigmaDock
+2026-10-06T20:04:40.87663Z,sigma-dock-cli,0.1.0,0,0,https://github.com/SigmaUno/sigma-dock,Command-line client for the SigmaDock local daemon
+2026-10-06T20:04:41.107011Z,sigma-dock-forge,0.1.0,0,0,https://github.com/SigmaUno/sigma-dock,GitHub and Forgejo facts and feedback for SigmaDock
+2026-10-06T20:06:47.508486Z,rmcp-apps,0.1.0,0,0,https://gitlab.com/lx-industries/rmcp-apps,"Typed MCP Apps extension (io.modelcontextprotocol/ui, 2026-01-26) over rmcp"
+2026-10-06T20:08:18.176985Z,huskarl-axum,0.1.0,0,0,https://github.com/huskarl-rs/huskarl-axum,Axum middleware and extractors for the huskarl OAuth2 ecosystem.
+2026-10-06T20:15:03.542025Z,probl-number,0.1.0,0,0,https://github.com/garlab/probl,"Internal to Probl, with no stable API: exact integers shared by its syntax and runtime. Use the `probl` crate."
+2026-10-06T20:15:05.917236Z,probl-syntax,0.1.0,0,0,https://github.com/garlab/probl,"Internal to Probl, with no stable API: its lexer, parser, AST and diagnostics. Use the `probl` crate."
+2026-10-06T20:15:08.331036Z,probl-sema,0.1.0,0,0,https://github.com/garlab/probl,"Internal to Probl, with no stable API: name resolution, lowering to IR and liveness analysis. Use the `probl` crate."
+2026-10-06T20:15:10.339797Z,probl-engine,0.1.0,0,0,https://github.com/garlab/probl,"Internal to Probl, with no stable API: values, distributions and the world-set interpreter. Use the `probl` crate."
+2026-10-06T20:15:12.736742Z,probl,0.1.0,0,0,https://github.com/garlab/probl,Compile and run Probl programs from Rust: a language where conditions are probabilities
+2026-10-06T20:15:26.366456Z,sigma-dock-git,0.1.0,0,0,https://github.com/SigmaUno/sigma-dock,Safe isolated git worktrees for SigmaDock workers
+2026-10-06T20:16:34.268414Z,ecat-orm,4.1.0,0,0,https://github.com/erikwang2013/e-cat,"ORM for e-cat: entity derive, query builder, migrations"
+2026-10-06T20:17:22.848604Z,valkey-glide,0.1.0,0,0,https://github.com/valkey-io/valkey-glide,"Valkey GLIDE — native Rust client for Valkey and Redis OSS, built on glide-core."
