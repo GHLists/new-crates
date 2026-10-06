@@ -8,48 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 17:18 UTC
+## Latest list — 2026-10-06 18:18 UTC
 
-New crates published between 2026-10-06 16:18 UTC and 2026-10-06 17:18 UTC.
+New crates published between 2026-10-06 17:18 UTC and 2026-10-06 18:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-06T17-18-42-650471Z.csv)
+[Full CSV](data/new-crates-2026-10-06T18-18-54-856737Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 16:19:42 | [project-hub](https://crates.io/crates/project-hub) | 0.21.1 | 0 | Coordinate features that span several git repositories |
-| 2026-10-06 16:19:59 | [sideport-macos](https://crates.io/crates/sideport-macos) | 1.0.0 | 0 | macOS integration: in-process local anisette, Mac provisioning UDID and system… |
-| 2026-10-06 16:26:28 | [konomanoasa-tree-sitter-mailmap](https://crates.io/crates/konomanoasa-tree-sitter-mailmap) | 0.2.0 | 0 | Tree-sitter grammar for mailmap. |
-| 2026-10-06 16:29:53 | [sideport-testkit](https://crates.io/crates/sideport-testkit) | 1.0.0 | 0 | Test-only fixtures: generated PKI, signed provisioning profiles and a stateful… |
-| 2026-10-06 16:33:02 | [nativeclick_derive](https://crates.io/crates/nativeclick_derive) | 0.26.9 | 0 | proc-macro crate for nativeclick |
-| 2026-10-06 16:33:04 | [nativeclick](https://crates.io/crates/nativeclick) | 0.26.9 | 0 | Nativeclick is a pure Rust SDK for working with Clickhouse with the native prot… |
-| 2026-10-06 16:35:05 | [harnessbox-core](https://crates.io/crates/harnessbox-core) | 0.1.0 | 0 | Docs-first gate core: exact checks over layered codebases |
-| 2026-10-06 16:35:15 | [harnessbox-cli](https://crates.io/crates/harnessbox-cli) | 0.1.0 | 0 | harness check: tsc-like docs-first gate, no daemon |
-| 2026-10-06 16:37:55 | [hifumi](https://crates.io/crates/hifumi) | 0.2.0 | 0 | A serialization library for migrating data between different versions |
-| 2026-10-06 16:38:21 | [tear-makimono](https://crates.io/crates/tear-makimono) | 0.1.29 | 0 | makimono (巻物, the scroll) — tear's durable session store: an append-only, bound… |
-| 2026-10-06 16:38:23 | [tear-tamotsu](https://crates.io/crates/tear-tamotsu) | 0.1.29 | 0 | tamotsu (保つ, to keep) — the per-pane PTY holder for tear: a small process outsi… |
-| 2026-10-06 16:39:55 | [sideport-engine](https://crates.io/crates/sideport-engine) | 1.0.0 | 0 | Sideport engine: job pipeline, provisioning policy, install orchestration, pers… |
-| 2026-10-06 16:44:25 | [konomanoasa-tree-sitter-json](https://crates.io/crates/konomanoasa-tree-sitter-json) | 0.2.0 | 0 | Tree-sitter grammars for JSON and JSONC. |
-| 2026-10-06 16:49:56 | [sideport-cli](https://crates.io/crates/sideport-cli) | 1.0.0 | 0 | Sideport command-line interface |
-| 2026-10-06 16:55:47 | [ic-host-artifacts](https://crates.io/crates/ic-host-artifacts) | 0.3.0 | 0 | Bounded host artifact streams, identities, archives and Wasm inspection |
-| 2026-10-06 16:55:49 | [ic-host-fs](https://crates.io/crates/ic-host-fs) | 0.3.0 | 0 | Local host filesystem reads, durable publication and file locking |
-| 2026-10-06 16:55:52 | [ic-host-process](https://crates.io/crates/ic-host-process) | 0.3.0 | 0 | Admitted host executable resolution, bounded execution and Git observations |
-| 2026-10-06 16:59:56 | [sideport-tray](https://crates.io/crates/sideport-tray) | 1.0.0 | 0 | Sideport's menu-bar refresh daemon |
-| 2026-10-06 17:02:22 | [ipscanner-io](https://crates.io/crates/ipscanner-io) | 0.1.0 | 0 | Official Rust client for the IPScanner API: IP lookups, bulk checks, Agentscan… |
-| 2026-10-06 17:03:09 | [tableflow-cli](https://crates.io/crates/tableflow-cli) | 0.1.3 | 0 | Command-line interface for tableflow (submissions → tabular exports). |
-| 2026-10-06 17:03:12 | [tree-sitter-fsharp-mangel](https://crates.io/crates/tree-sitter-fsharp-mangel) | 0.2.1 | 0 | F# grammar for tree-sitter |
-| 2026-10-06 17:08:17 | [hashids-rust](https://crates.io/crates/hashids-rust) | 1.0.7 | 0 | Hashids for Rust: native implementation plus multi-framework integration (Axum,… |
-| 2026-10-06 17:08:30 | [stdio2http](https://crates.io/crates/stdio2http) | 0.1.0 | 0 | MCP stdio -> Streamable HTTP proxy |
-| 2026-10-06 17:09:09 | [starbloom-derive](https://crates.io/crates/starbloom-derive) | 0.5.40 | 0 | A sub package for starbloom |
-| 2026-10-06 17:10:00 | [sideport-app](https://crates.io/crates/sideport-app) | 1.0.0 | 0 | Sideport desktop app (gpui) |
-| 2026-10-06 17:12:13 | [catpaw-dom](https://crates.io/crates/catpaw-dom) | 0.0.1 | 0 | Arena DOM and html5ever integration for the CatPaw browser |
-| 2026-10-06 17:12:14 | [catpaw-net](https://crates.io/crates/catpaw-net) | 0.0.1 | 0 | HTTP client for the CatPaw browser: hyper + rustls, cookies, redirects, content… |
-| 2026-10-06 17:12:16 | [catpaw-agent](https://crates.io/crates/catpaw-agent) | 0.0.1 | 0 | Agent-facing page views for the CatPaw browser: accessibility snapshots with st… |
-| 2026-10-06 17:12:17 | [catpaw-fetch](https://crates.io/crates/catpaw-fetch) | 0.0.1 | 0 | Document fetching and HTML encoding sniffing for the CatPaw browser |
-| 2026-10-06 17:12:17 | [catpaw-style](https://crates.io/crates/catpaw-style) | 0.0.1 | 0 | Stylo style resolution over the CatPaw arena DOM |
-| 2026-10-06 17:14:40 | [catpaw](https://crates.io/crates/catpaw) | 0.0.1 | 0 | CatPaw: a headless-first browser for AI agents |
-| 2026-10-06 17:16:45 | [topos-bible](https://crates.io/crates/topos-bible) | 0.3.0 | 0 | Find, parse, and autocomplete Bible references in text, with exact locations |
-| 2026-10-06 17:16:47 | [topos-bible-formats](https://crates.io/crates/topos-bible-formats) | 0.3.0 | 0 | Find Bible references in HTML, subtitles, EPUB, and PDF, with format-specific l… |
-| 2026-10-06 17:16:49 | [topos-bible-cli](https://crates.io/crates/topos-bible-cli) | 0.3.0 | 0 | Find Bible references in files, like ripgrep |
+| 2026-10-06 17:20:52 | [bevy-neura](https://crates.io/crates/bevy-neura) | 0.5.0 | 0 | Neura integration for Bevy |
+| 2026-10-06 17:24:50 | [encryption-rust](https://crates.io/crates/encryption-rust) | 1.0.1 | 0 | 可插拔密码学组件库的 Rust 实现：在统一契约下提供对称加密、非对称加密、哈希与密钥派生（HKDF / PBKDF2），包含 AES/Sodium 与国密… |
+| 2026-10-06 17:26:51 | [nosqlite](https://crates.io/crates/nosqlite) | 0.2.1 | 0 | MongoDB-inspired document database backed by SQLite JSONB, with BSON, aggregati… |
+| 2026-10-06 17:27:30 | [tiri](https://crates.io/crates/tiri) | 0.1.0 | 0 | niri inspired terminal multiplexer |
+| 2026-10-06 17:29:31 | [docket-rs-macros](https://crates.io/crates/docket-rs-macros) | 0.1.0 | 0 | The #[derive(Task)] macro for docket-rs |
+| 2026-10-06 17:30:02 | [docket-rs](https://crates.io/crates/docket-rs) | 0.1.0 | 0 | A distributed background task system for Rust, backed by Redis |
+| 2026-10-06 17:33:12 | [componentized-static-config](https://crates.io/crates/componentized-static-config) | 0.3.0-dev | 0 | Create custom wasi:config components with static values |
+| 2026-10-06 17:33:14 | [componentized-static-config-cli](https://crates.io/crates/componentized-static-config-cli) | 0.3.0-dev | 0 | Create custom wasi:config components with static values, from the command line |
+| 2026-10-06 17:33:34 | [snowflake-id-rust](https://crates.io/crates/snowflake-id-rust) | 1.1.0 | 0 | 基于 Twitter Snowflake 算法的分布式唯一 ID 生成器：64 位、k-ordered、全局唯一，Rust 移植自 PHP 包 erikwan… |
+| 2026-10-06 17:39:56 | [encryptable-rust](https://crates.io/crates/encryptable-rust) | 1.1.0 | 0 | 为敏感字段提供「可检索的匿名化 / 加密」能力：写入数据库前加密，读出时解密，并可生成与 MySQL / PostgreSQL 兼容的 SQL 片段 |
+| 2026-10-06 17:50:40 | [baijimu-content-contract](https://crates.io/crates/baijimu-content-contract) | 1.0.0 | 0 | Baijimu ordered multimedia content parts and validation |
+| 2026-10-06 17:51:17 | [postbode](https://crates.io/crates/postbode) | 0.1.0 | 0 | A fast, simple mail client with automatic mailbox rules |
+| 2026-10-06 17:52:19 | [rscloc-cli](https://crates.io/crates/rscloc-cli) | 0.1.0 | 0 | A blazingly-fast parallel source line counter and statistics tool rewritten in… |
+| 2026-10-06 17:53:07 | [zpl-bitmap-fonts](https://crates.io/crates/zpl-bitmap-fonts) | 0.0.0 | 0 | Placeholder for embedded ZPL bitmap fonts |
+| 2026-10-06 17:55:02 | [mdgrid](https://crates.io/crates/mdgrid) | 0.1.0 | 0 | Browse and edit Markdown frontmatter as a table in the terminal |
+| 2026-10-06 17:59:35 | [tmux-companion](https://crates.io/crates/tmux-companion) | 0.8.0 | 0 | A tmux companion: one daemon draws the status bar, and one binary does projects… |
+| 2026-10-06 18:00:11 | [disc-v](https://crates.io/crates/disc-v) | 0.1.0 | 0 | A RISC-V disassembler |
+| 2026-10-06 18:07:01 | [taskcraft-kafka](https://crates.io/crates/taskcraft-kafka) | 0.1.0 | 0 | Kafka source for taskcraft: offsets committed by the commit boundary, ids from… |
+| 2026-10-06 18:07:05 | [taskcraft-postgres](https://crates.io/crates/taskcraft-postgres) | 0.1.0 | 0 | PostgreSQL task store for taskcraft: push, status and history, deferred redeliv… |
+| 2026-10-06 18:07:48 | [fibre-gateway-client](https://crates.io/crates/fibre-gateway-client) | 0.1.0 | 0 | Receipt types, commitment verification and an optional HTTP client for the Fibr… |
+| 2026-10-06 18:09:21 | [wlr-config](https://crates.io/crates/wlr-config) | 1.11.0 | 0 | The configuration of the wlr-utils tools: one config.toml, its themes, and the… |
+| 2026-10-06 18:12:07 | [aetherupload-rust](https://crates.io/crates/aetherupload-rust) | 1.0.0 | 0 | AetherUpload for Rust：前端切片、后端追加落盘 —— 上传 / 断线续传 / 秒传 / 去重 / 完整性校验共用同一套机制；内核与宿主框架… |
+| 2026-10-06 18:12:54 | [oxdock-markdown-plugin](https://crates.io/crates/oxdock-markdown-plugin) | 0.21.0-alpha | 0 | Markdown rendering for OxDock scripts through the Engine facade: MAP to table c… |
+| 2026-10-06 18:15:44 | [htn](https://crates.io/crates/htn) | 0.2.0 | 0 | Hierarchical Task Network for Game AI |
+| 2026-10-06 18:17:28 | [frameassembly](https://crates.io/crates/frameassembly) | 0.9.0 | 0 | A Domain-Specific Language (DSL) for writing deterministic network traffic to .… |
 
 ## Data source
 

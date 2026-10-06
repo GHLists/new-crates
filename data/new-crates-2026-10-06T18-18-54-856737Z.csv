@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T17:20:52.401745Z,bevy-neura,0.5.0,0,0,https://github.com/formetaohy/bevy-neura,Neura integration for Bevy
+2026-10-06T17:24:50.171971Z,encryption-rust,1.0.1,0,0,https://github.com/erikwang2013/encryption-rust,可插拔密码学组件库的 Rust 实现：在统一契约下提供对称加密、非对称加密、哈希与密钥派生（HKDF / PBKDF2），包含 AES/Sodium 与国密 SM2/SM3/SM4/ZUC 等实现
+2026-10-06T17:26:51.068716Z,nosqlite,0.2.1,0,0,https://github.com/AmeenAhmed/NoSqlite-rs,"MongoDB-inspired document database backed by SQLite JSONB, with BSON, aggregation, indexes, change streams, and a MongoDB command adapter."
+2026-10-06T17:27:30.598793Z,tiri,0.1.0,0,0,https://github.com/papertigers/tiri,niri inspired terminal multiplexer
+2026-10-06T17:29:31.069049Z,docket-rs-macros,0.1.0,0,0,https://github.com/chrisguidry/docket,The #[derive(Task)] macro for docket-rs
+2026-10-06T17:30:02.390241Z,docket-rs,0.1.0,0,0,https://github.com/chrisguidry/docket,"A distributed background task system for Rust, backed by Redis"
+2026-10-06T17:33:12.690799Z,componentized-static-config,0.3.0-dev,0,0,https://github.com/componentized/static-config,Create custom wasi:config components with static values
+2026-10-06T17:33:14.515511Z,componentized-static-config-cli,0.3.0-dev,0,0,https://github.com/componentized/static-config,"Create custom wasi:config components with static values, from the command line"
+2026-10-06T17:33:34.985956Z,snowflake-id-rust,1.1.0,0,0,https://github.com/erikwang2013/snowflake-rust,基于 Twitter Snowflake 算法的分布式唯一 ID 生成器：64 位、k-ordered、全局唯一，Rust 移植自 PHP 包 erikwang2013/snowflake-php，纯 std 零依赖
+2026-10-06T17:39:56.474285Z,encryptable-rust,1.1.0,0,0,https://github.com/erikwang2013/encryptable-rust,为敏感字段提供「可检索的匿名化 / 加密」能力：写入数据库前加密，读出时解密，并可生成与 MySQL / PostgreSQL 兼容的 SQL 片段
+2026-10-06T17:50:40.943534Z,baijimu-content-contract,1.0.0,0,0,https://gitee.com/zxflimit_admin/baijimu-contracts,Baijimu ordered multimedia content parts and validation
+2026-10-06T17:51:17.711809Z,postbode,0.1.0,0,0,https://github.com/pataar/postbode,"A fast, simple mail client with automatic mailbox rules"
+2026-10-06T17:52:19.667413Z,rscloc-cli,0.1.0,0,0,https://github.com/aditya-gupta-dev/rscloc,A blazingly-fast parallel source line counter and statistics tool rewritten in Rust
+2026-10-06T17:53:07.305327Z,zpl-bitmap-fonts,0.0.0,0,0,https://github.com/codyps/zpl,Placeholder for embedded ZPL bitmap fonts
+2026-10-06T17:55:02.623259Z,mdgrid,0.1.0,0,0,https://github.com/S6U5/mdgrid,Browse and edit Markdown frontmatter as a table in the terminal
+2026-10-06T17:59:35.129617Z,tmux-companion,0.8.0,0,0,https://github.com/lonkar-org/tmux-companion,"A tmux companion: one daemon draws the status bar, and one binary does projects, snapshots and restore, pickers and a flash-style jump. Also a library for its daemon client, git and tmux-format parsi…"
+2026-10-06T18:00:11.897195Z,disc-v,0.1.0,0,0,https://github.com/swenson/disc-v,A RISC-V disassembler
+2026-10-06T18:07:01.679479Z,taskcraft-kafka,0.1.0,0,0,https://github.com/Sebkd/taskcraft,"Kafka source for taskcraft: offsets committed by the commit boundary, ids from message keys, metadata from headers"
+2026-10-06T18:07:05.417918Z,taskcraft-postgres,0.1.0,0,0,https://github.com/Sebkd/taskcraft,"PostgreSQL task store for taskcraft: push, status and history, deferred redelivery, leases"
+2026-10-06T18:07:48.753709Z,fibre-gateway-client,0.1.0,0,0,,"Receipt types, commitment verification and an optional HTTP client for the Fibre gateway"
+2026-10-06T18:09:21.456855Z,wlr-config,1.11.0,0,0,https://github.com/sjourdois/wlr-utils,"The configuration of the wlr-utils tools: one config.toml, its themes, and the migration from the old files."
+2026-10-06T18:12:07.135673Z,aetherupload-rust,1.0.0,0,0,https://github.com/erikwang2013/aetherupload-rust,AetherUpload for Rust：前端切片、后端追加落盘 —— 上传 / 断线续传 / 秒传 / 去重 / 完整性校验共用同一套机制；内核与宿主框架解耦（原生 Guard + Axum、Actix Web、Rocket、Poem、Salvo、Warp、bee-rust、e-cat），默认 feature 零第三方依赖
+2026-10-06T18:12:54.110581Z,oxdock-markdown-plugin,0.21.0-alpha,0,0,https://github.com/jzombie/rust-oxdock,Markdown rendering for OxDock scripts through the Engine facade: MAP to table conversion callable as a DSL statement or inside placeholders.
+2026-10-06T18:15:44.776508Z,htn,0.2.0,0,0,https://github.com/joescodeshack/htn,Hierarchical Task Network for Game AI
+2026-10-06T18:17:28.98641Z,frameassembly,0.9.0,0,0,https://github.com/stevewinschel/frameassembly,A Domain-Specific Language (DSL) for writing deterministic network traffic to .pcap files.
