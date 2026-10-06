@@ -8,48 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 13:18 UTC
+## Latest list — 2026-10-06 14:19 UTC
 
-New crates published between 2026-10-06 12:20 UTC and 2026-10-06 13:18 UTC.
+New crates published between 2026-10-06 13:18 UTC and 2026-10-06 14:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-06T13-18-45-269837Z.csv)
+[Full CSV](data/new-crates-2026-10-06T14-19-40-69164Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 12:20:28 | [qtcloud-meta-cli](https://crates.io/crates/qtcloud-meta-cli) | 0.1.0-alpha.1 | 0 | 量潮元数据命令行：把本体装进范畴做结构分析，出范畴内与范畴间两份报告 |
-| 2026-10-06 12:20:32 | [pack02](https://crates.io/crates/pack02) | 0.1.0 | 0 | A high-performance Scratch (.sb3) obfuscator: renames sprites, costumes, variab… |
-| 2026-10-06 12:20:41 | [create-scratch-extension](https://crates.io/crates/create-scratch-extension) | 0.1.0 | 0 | Interactively scaffold a ready-to-build Scratch extension project with a TypeSc… |
-| 2026-10-06 12:23:52 | [slide-editor](https://crates.io/crates/slide-editor) | 0.3.0 | 0 | Typora-style live preview WYSIWYG editor for Typst presentations and documents |
-| 2026-10-06 12:26:20 | [altopelago-aeon-document](https://crates.io/crates/altopelago-aeon-document) | 0.14.0 | 0 | Immutable, capability-aware document graph for AEON. |
-| 2026-10-06 12:27:38 | [tsnmp](https://crates.io/crates/tsnmp) | 0.1.1 | 0 | Alias crate: tsnmp and trishul-snmp are the same Rust SNMP toolkit (manager v1/… |
-| 2026-10-06 12:32:50 | [kpasswd-rs](https://crates.io/crates/kpasswd-rs) | 0.1.0 | 0 | Kerberos password change and administrative set over RFC 3244 kpasswd. Tells yo… |
-| 2026-10-06 12:38:58 | [silverscript-abi](https://crates.io/crates/silverscript-abi) | 1.0.1 | 0 | Portable ABI types and codecs for SilverScript contracts |
-| 2026-10-06 12:39:46 | [tree-sitter-silverscript](https://crates.io/crates/tree-sitter-silverscript) | 1.0.1 | 0 | Kaspa SilverScript Lang |
-| 2026-10-06 12:42:16 | [silverscript-lang](https://crates.io/crates/silverscript-lang) | 1.0.1 | 0 | SilverScript language parser and compiler for Kaspa scripts |
-| 2026-10-06 12:44:11 | [rmpx](https://crates.io/crates/rmpx) | 1.0.0 | 0 | Pure Rust MessagePack: serde support, a dynamic Value type and a low-level no_s… |
-| 2026-10-06 12:44:28 | [silverscript-debug-artifact](https://crates.io/crates/silverscript-debug-artifact) | 1.0.1 | 0 | Portable SilverScript ABI artifacts with compiler debug information |
-| 2026-10-06 12:51:30 | [chock](https://crates.io/crates/chock) | 0.1.0 | 0 | Quality gates for Rust: new code must be clean, and existing debt can only go d… |
-| 2026-10-06 12:54:19 | [kylig-style](https://crates.io/crates/kylig-style) | 0.1.0 | 0 | Declarative TOML style sheets for egui |
-| 2026-10-06 12:54:21 | [kylig-fx](https://crates.io/crates/kylig-fx) | 0.1.0 | 0 | Animated effects and transitions for egui, themable with kylig-style |
-| 2026-10-06 12:54:22 | [kylig-images](https://crates.io/crates/kylig-images) | 0.1.0 | 0 | An image loader for egui: downloads and decodes on a background runtime, within… |
-| 2026-10-06 12:54:23 | [kylig-icons](https://crates.io/crates/kylig-icons) | 0.1.0 | 0 | Phosphor icons for egui, themable with kylig-style and animated with kylig-fx |
-| 2026-10-06 12:54:25 | [kylig-ui](https://crates.io/crates/kylig-ui) | 0.1.0 | 0 | Animated components for egui, built on kylig-fx and themable with kylig-style |
-| 2026-10-06 12:54:28 | [urng_core](https://crates.io/crates/urng_core) | 0.1.0 | 0 | A minimal rng core library |
-| 2026-10-06 12:54:43 | [debugger-session](https://crates.io/crates/debugger-session) | 1.0.1 | 0 | Debug sessions and test execution for SilverScript contracts |
-| 2026-10-06 12:54:43 | [eternal-core](https://crates.io/crates/eternal-core) | 1.0.0 | 0 | Audio analysis and branching playback engine for Eternal Jukebox |
-| 2026-10-06 12:56:27 | [eternal-tui](https://crates.io/crates/eternal-tui) | 1.0.0 | 0 | Terminal player for Eternal Jukebox |
-| 2026-10-06 12:56:45 | [morsh-core](https://crates.io/crates/morsh-core) | 0.1.0 | 0 | Core protocol framing, binary codecs, and wire definitions for morsh |
-| 2026-10-06 12:57:06 | [morsh-transport](https://crates.io/crates/morsh-transport) | 0.1.0 | 0 | Multiplexed QUIC and TCP transport layer for morsh |
-| 2026-10-06 12:57:13 | [morsh-predict](https://crates.io/crates/morsh-predict) | 0.1.0 | 0 | Predictive local echo and speculative UI engine for morsh |
-| 2026-10-06 12:57:20 | [morsh-auth](https://crates.io/crates/morsh-auth) | 0.1.0 | 0 | Authentication, SSH key parsing, and stealth knock verification for morsh |
-| 2026-10-06 12:57:27 | [morsh-term](https://crates.io/crates/morsh-term) | 0.1.0 | 0 | PTY supervisor, raw mode management, and virtual terminal state for morsh |
-| 2026-10-06 13:04:42 | [tova](https://crates.io/crates/tova) | 0.0.0 | 0 | Holds the name for tova, a Rust tool from Outpost that is in development. This… |
-| 2026-10-06 13:04:46 | [cli-debugger](https://crates.io/crates/cli-debugger) | 1.0.1 | 0 | Command-line debugger for SilverScript contracts |
-| 2026-10-06 13:06:39 | [morsh-tunnel](https://crates.io/crates/morsh-tunnel) | 0.1.0 | 0 | Port forwarding (local/remote TCP), SOCKS5 proxy, and UDP tunnel engine for mor… |
-| 2026-10-06 13:11:12 | [kylig](https://crates.io/crates/kylig) | 0.1.0 | 0 | Component library and fx for egui, focused on animations and visually appealing… |
-| 2026-10-06 13:17:06 | [morshd](https://crates.io/crates/morshd) | 0.1.0 | 0 | Next-generation remote terminal daemon over QUIC and TLS 1.3 |
-| 2026-10-06 13:17:22 | [slog-cloud](https://crates.io/crates/slog-cloud) | 0.1.0 | 0 | This is an unofficial crate for cloud-based drains for the slog logging infrast… |
-| 2026-10-06 13:17:36 | [ebeepf](https://crates.io/crates/ebeepf) | 0.1.0 | 0 | A pure Rust, safe and idiomatic eBPF loader and runtime |
+| 2026-10-06 13:21:11 | [tokwc](https://crates.io/crates/tokwc) | 0.1.0 | 0 | local wc-style token counter for OpenAI and Claude models |
+| 2026-10-06 13:21:58 | [rust-fs-xfs](https://crates.io/crates/rust-fs-xfs) | 0.12.0 | 0 | Pure-Rust XFS filesystem driver. Exposes a C ABI (fs_xfs_*) suitable for FFI fr… |
+| 2026-10-06 13:27:41 | [morsh](https://crates.io/crates/morsh) | 0.1.0 | 0 | Next-generation remote terminal client over QUIC and TLS 1.3 |
+| 2026-10-06 13:28:59 | [marcr](https://crates.io/crates/marcr) | 0.1.0 | 0 | Read and write MARC bibliographic records in ISO 2709, MARCXML and text formats |
+| 2026-10-06 13:36:48 | [quicproxy](https://crates.io/crates/quicproxy) | 0.1.0 | 0 | High-performance, censorship-resistant QUIC and TCP fallback proxy with SOCKS5… |
+| 2026-10-06 13:37:04 | [rovenue-funnel-core](https://crates.io/crates/rovenue-funnel-core) | 0.16.0 | 0 | Rovenue Funnels — the pure funnel document resolver and validator shared by the… |
+| 2026-10-06 13:40:24 | [librovenue](https://crates.io/crates/librovenue) | 0.16.0 | 0 | Rovenue SDK core — shared business logic for Swift, Kotlin, React Native |
+| 2026-10-06 13:41:38 | [drawnui-skia-bindings](https://crates.io/crates/drawnui-skia-bindings) | 0.153.4 | 0 | Skia Bindings for Rust (rust-skia skia-bindings 0.153.3) with SkMesh, for Drawn… |
+| 2026-10-06 13:41:53 | [drawnui-skia-safe](https://crates.io/crates/drawnui-skia-safe) | 0.153.4 | 0 | Safe Skia Bindings for Rust (rust-skia skia-safe 0.153.3) with SkMesh, for Draw… |
+| 2026-10-06 13:44:22 | [diplodocus](https://crates.io/crates/diplodocus) | 0.1.0 | 0 | Build coherent documentation websites for polyglot software projects. |
+| 2026-10-06 13:45:37 | [kpasswd-rs-keytab-vault](https://crates.io/crates/kpasswd-rs-keytab-vault) | 0.1.0 | 0 | Encrypted keytabs at rest: XChaCha20-Poly1305 envelopes with Argon2id passphras… |
+| 2026-10-06 13:46:29 | [rutis-bridge](https://crates.io/crates/rutis-bridge) | 0.7.0 | 0 | Connect rutis to other processes, languages and machines: plugins in Node and P… |
+| 2026-10-06 13:46:42 | [rutis-host](https://crates.io/crates/rutis-host) | 0.7.0 | 0 | A rutis host that needs no Rust: run plugins written in TypeScript, JavaScript… |
+| 2026-10-06 13:49:17 | [tokenburn-core](https://crates.io/crates/tokenburn-core) | 0.1.4 | 0 | Shared core logic for TokenBurn — log collectors, aggregation and reports for p… |
+| 2026-10-06 13:49:18 | [ohos-transient-task-sys](https://crates.io/crates/ohos-transient-task-sys) | 0.1.0 | 0 | Raw bindings to the transient task API of OpenHarmony |
+| 2026-10-06 13:49:53 | [tokenburn](https://crates.io/crates/tokenburn) | 0.1.4 | 0 | TokenBurn — local AI token/cost usage report for pi, Zed, Claude Code, Codex &… |
+| 2026-10-06 13:50:42 | [tokenburn-gui](https://crates.io/crates/tokenburn-gui) | 0.1.4 | 0 | TokenBurn — local AI token/cost usage desktop application (Iced GUI) |
+| 2026-10-06 13:50:47 | [drawnui](https://crates.io/crates/drawnui) | 0.1.0-preview.1 | 0 | DrawnUI for Rust: a Skia-drawn UI engine, the same controls and contract as Dra… |
+| 2026-10-06 13:51:21 | [tokenburn-web](https://crates.io/crates/tokenburn-web) | 0.1.4 | 0 | TokenBurn — local AI token/cost usage web dashboard (Topcoat) |
+| 2026-10-06 13:51:49 | [tokenburn-tui](https://crates.io/crates/tokenburn-tui) | 0.1.4 | 0 | TokenBurn — local AI token/cost usage terminal application (Ratatui TUI) |
+| 2026-10-06 13:52:49 | [mcptk](https://crates.io/crates/mcptk) | 0.1.0 | 0 | MCP Toolkit: build Model Context Protocol servers over stdio, Streamable HTTP a… |
+| 2026-10-06 13:55:59 | [light-stripe](https://crates.io/crates/light-stripe) | 0.1.1 | 0 | Local-dev TUI/CLI monitor for ports, processes, and Docker |
+| 2026-10-06 14:00:29 | [instatt-rs](https://crates.io/crates/instatt-rs) | 0.1.0 | 0 | Unofficial Rust client for the UNM Instatt attendance backend. |
+| 2026-10-06 14:03:42 | [autumn-plugin-otel](https://crates.io/crates/autumn-plugin-otel) | 0.1.0 | 0 | Autumn plugin: OpenTelemetry traces, metrics and logs export over OTLP. |
+| 2026-10-06 14:05:04 | [arc-malachitebft-engine-byzantine](https://crates.io/crates/arc-malachitebft-engine-byzantine) | 0.8.1 | 0 | Byzantine behavior support for the Malachite BFT consensus engine |
+| 2026-10-06 14:08:20 | [zen-do](https://crates.io/crates/zen-do) | 0.12.2 | 0 | Zenodo tasks from the command-line |
+| 2026-10-06 14:10:24 | [npro-json](https://crates.io/crates/npro-json) | 0.0.1 | 0 | Placeholder: the streaming JSON parser, part of npro, the safe Rust port of lib… |
+| 2026-10-06 14:10:51 | [pipecircuit-http1-mio](https://crates.io/crates/pipecircuit-http1-mio) | 0.0.1 | 0 | Mio HTTP/1 connection ownership for Pipecircuit |
+| 2026-10-06 14:12:06 | [deserialize-lines](https://crates.io/crates/deserialize-lines) | 0.1.0 | 0 | read from file or string and parse as JSON lines |
+| 2026-10-06 14:14:01 | [lucene-rs](https://crates.io/crates/lucene-rs) | 0.1.0 | 0 | A Rust port of Apache Lucene's core: Lucene104 postings, BM25, block-max top-k… |
+| 2026-10-06 14:15:11 | [npro-ss](https://crates.io/crates/npro-ss) | 0.0.1 | 0 | Placeholder: Secure Streams, the high-level client and server API, part of npro |
+| 2026-10-06 14:18:04 | [sard](https://crates.io/crates/sard) | 0.1.1 | 0 | sard 3D Engine |
 
 ## Data source
 

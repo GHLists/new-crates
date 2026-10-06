@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T13:21:11.537934Z,tokwc,0.1.0,0,0,https://github.com/hourianto/tokwc,local wc-style token counter for OpenAI and Claude models
+2026-10-06T13:21:58.632953Z,rust-fs-xfs,0.12.0,0,0,https://github.com/antimatter-studios/rust-fs-xfs,Pure-Rust XFS filesystem driver. Exposes a C ABI (fs_xfs_*) suitable for FFI from C/C++/Swift/Go.
+2026-10-06T13:27:41.238596Z,morsh,0.1.0,0,0,https://github.com/fokx/morsh,Next-generation remote terminal client over QUIC and TLS 1.3
+2026-10-06T13:28:59.319667Z,marcr,0.1.0,0,0,https://github.com/fredericd/marcr,"Read and write MARC bibliographic records in ISO 2709, MARCXML and text formats"
+2026-10-06T13:36:48.217053Z,quicproxy,0.1.0,0,0,https://github.com/fokx/quicproxy,"High-performance, censorship-resistant QUIC and TCP fallback proxy with SOCKS5 interface"
+2026-10-06T13:37:04.510618Z,rovenue-funnel-core,0.16.0,0,0,,Rovenue Funnels — the pure funnel document resolver and validator shared by the Rovenue SDK core (uniffi) and the dashboard (wasm)
+2026-10-06T13:40:24.759411Z,librovenue,0.16.0,0,0,,"Rovenue SDK core — shared business logic for Swift, Kotlin, React Native"
+2026-10-06T13:41:38.657822Z,drawnui-skia-bindings,0.153.4,0,0,https://github.com/DrawnUi/rust-skia,"Skia Bindings for Rust (rust-skia skia-bindings 0.153.3) with SkMesh, for DrawnUI for Rust until upstream has it"
+2026-10-06T13:41:53.752958Z,drawnui-skia-safe,0.153.4,0,0,https://github.com/DrawnUi/rust-skia,"Safe Skia Bindings for Rust (rust-skia skia-safe 0.153.3) with SkMesh, for DrawnUI for Rust until upstream has it"
+2026-10-06T13:44:22.905066Z,diplodocus,0.1.0,0,0,https://github.com/jolars/diplodocus,Build coherent documentation websites for polyglot software projects.
+2026-10-06T13:45:37.058722Z,kpasswd-rs-keytab-vault,0.1.0,0,0,https://github.com/andrico21/kpasswd-rs-keytab-vault,"Encrypted keytabs at rest: XChaCha20-Poly1305 envelopes with Argon2id passphrases, slots and rotation"
+2026-10-06T13:46:29.507329Z,rutis-bridge,0.7.0,0,0,https://github.com/arcships/rutis,"Connect rutis to other processes, languages and machines: plugins in Node and Python, links between rutis nodes, Cordis plugins mounted with Rust bindings"
+2026-10-06T13:46:42.249715Z,rutis-host,0.7.0,0,0,https://github.com/arcships/rutis,"A rutis host that needs no Rust: run plugins written in TypeScript, JavaScript and Python from a rutis.json, develop them with live reload, link machines"
+2026-10-06T13:49:17.049862Z,tokenburn-core,0.1.4,0,0,https://github.com/sorinirimies/tokenburn,"Shared core logic for TokenBurn — log collectors, aggregation and reports for pi, Zed, Claude Code, Codex, Copilot CLI, Gemini CLI, OpenCode and Amp"
+2026-10-06T13:49:18.953341Z,ohos-transient-task-sys,0.1.0,0,0,https://github.com/openharmony-rs/ohos-sys,Raw bindings to the transient task API of OpenHarmony
+2026-10-06T13:49:53.964842Z,tokenburn,0.1.4,0,0,https://github.com/sorinirimies/tokenburn,"TokenBurn — local AI token/cost usage report for pi, Zed, Claude Code, Codex & more (clap CLI)"
+2026-10-06T13:50:42.741156Z,tokenburn-gui,0.1.4,0,0,https://github.com/sorinirimies/tokenburn,TokenBurn — local AI token/cost usage desktop application (Iced GUI)
+2026-10-06T13:50:47.762139Z,drawnui,0.1.0-preview.1,0,0,https://github.com/DrawnUi/DrawnUi.Rust,"DrawnUI for Rust: a Skia-drawn UI engine, the same controls and contract as DrawnUI for .NET and React, on the desktop, mobile and the web."
+2026-10-06T13:51:21.179593Z,tokenburn-web,0.1.4,0,0,https://github.com/sorinirimies/tokenburn,TokenBurn — local AI token/cost usage web dashboard (Topcoat)
+2026-10-06T13:51:49.158823Z,tokenburn-tui,0.1.4,0,0,https://github.com/sorinirimies/tokenburn,TokenBurn — local AI token/cost usage terminal application (Ratatui TUI)
+2026-10-06T13:52:49.514172Z,mcptk,0.1.0,0,0,https://github.com/KarpelesLab/mcptk,"MCP Toolkit: build Model Context Protocol servers over stdio, Streamable HTTP and more, with support for newer features such as Claude Code channels."
+2026-10-06T13:55:59.912133Z,light-stripe,0.1.1,0,0,https://github.com/bazuly/light-stripe,"Local-dev TUI/CLI monitor for ports, processes, and Docker"
+2026-10-06T14:00:29.579023Z,instatt-rs,0.1.0,0,0,https://github.com/Aliorpse/instatt-rs,Unofficial Rust client for the UNM Instatt attendance backend.
+2026-10-06T14:03:42.661661Z,autumn-plugin-otel,0.1.0,0,0,https://github.com/madmax983/autumn-plugin-otel,"Autumn plugin: OpenTelemetry traces, metrics and logs export over OTLP."
+2026-10-06T14:05:04.655113Z,arc-malachitebft-engine-byzantine,0.8.1,0,0,https://github.com/circlefin/malachite,Byzantine behavior support for the Malachite BFT consensus engine
+2026-10-06T14:08:20.377162Z,zen-do,0.12.2,0,0,https://github.com/seedcase-project/zen-do,Zenodo tasks from the command-line
+2026-10-06T14:10:24.088358Z,npro-json,0.0.1,0,0,https://libwebsockets.org/git/npro,"Placeholder: the streaming JSON parser, part of npro, the safe Rust port of libwebsockets' sansIO protocols"
+2026-10-06T14:10:51.447223Z,pipecircuit-http1-mio,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Mio HTTP/1 connection ownership for Pipecircuit
+2026-10-06T14:12:06.927958Z,deserialize-lines,0.1.0,0,0,https://github.com/paulusminus/json-lines,read from file or string and parse as JSON lines
+2026-10-06T14:14:01.295672Z,lucene-rs,0.1.0,0,0,https://github.com/pc-style/lucene-rs,"A Rust port of Apache Lucene's core: Lucene104 postings, BM25, block-max top-k search (MaxScore, block-max conjunction), segments, merges, analyzers and a query parser"
+2026-10-06T14:15:11.604083Z,npro-ss,0.0.1,0,0,https://npro.rs/git/npro,"Placeholder: Secure Streams, the high-level client and server API, part of npro"
+2026-10-06T14:18:04.35553Z,sard,0.1.1,0,0,https://github.com/MechanicalGirlDev/sard,sard 3D Engine
