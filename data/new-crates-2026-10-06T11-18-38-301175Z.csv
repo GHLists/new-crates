@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T10:21:58.175355Z,pretty_table_rs,0.1.1,0,0,https://github.com/younisshah/pretty_table,"Typed, Unicode-aware tables inspired by Python PrettyTable"
+2026-10-06T10:22:46.274708Z,blastguard,0.1.2,0,0,https://github.com/Vansh0Sharma/blastguard,A local command-policy and ephemeral Git worktree safety tool for AI coding agents
+2026-10-06T10:23:45.244473Z,dots-ui,0.1.0,0,0,https://github.com/samintejas/dots-ui,"Leptos components for the dots design system: monochrome, monospace, dense."
+2026-10-06T10:24:16.717581Z,tree-sitter-blk,1.0.0,0,0,https://github.com/GaijinEntertainment/tree-sitter-blk,Dagor BLK (DataBlock) text format grammar for tree-sitter
+2026-10-06T10:28:06.831904Z,sway-panorama,0.1.0,0,0,https://github.com/marsavic/sway-panorama,A live overview of Sway workspaces in one Wayland window
+2026-10-06T10:29:20.788296Z,concierge_iam_derive,0.1.0,0,0,https://github.com/EV-invest/concierge,#[derive(Permission)] for concierge_iam
+2026-10-06T10:29:55.086948Z,concierge_iam,0.1.0,0,0,https://github.com/EV-invest/concierge,"Permission scopes of the EV identity plane: derived catalogs, concrete permission sets, patterns"
+2026-10-06T10:30:23.540951Z,easy-peasy-rust,1.99.1,0,0,https://github.com/skatromb/easy-peasy-rust,Opinionated clippy and rustc lint preset in the spirit of wemake-python-styleguide
+2026-10-06T10:37:14.75837Z,price-feed-twap,0.1.0,0,0,,Rust integration tests for the price-feed TWAP contract.
+2026-10-06T10:37:17.272651Z,price-feed-twap-fuel,0.1.0,0,0,,Rust integration tests for the FUEL/stFUEL price-feed TWAP contract.
+2026-10-06T10:39:43.484085Z,rust-fs-squashfs,0.4.0,0,0,https://github.com/antimatter-studios/rust-fs-squashfs,"Pure-Rust SquashFS (read-only) filesystem driver. Clean-room implementation; reads SquashFS 4.0 images with every standard compressor (gzip, xz, lz4, zstd, lzo). Exposes a C ABI (fs_squashfs_*) suita…"
+2026-10-06T10:42:27.327235Z,youpipe-crossfire,0.6.0,0,0,https://github.com/lxl66566/youpipe,channels for async and threads (youpipe fork)
+2026-10-06T10:42:29.314301Z,youpipe-hotpath,0.6.0,0,0,https://github.com/lxl66566/youpipe,youpipe fork of the hotpath profiler (lib only)
+2026-10-06T10:43:08.063034Z,noun,0.1.0,0,0,https://github.com/dualys/noun,Content-addressable 32-byte identifiers for immutable Merkle proofs
+2026-10-06T10:43:22.353107Z,rust-fs-ntfs,0.9.0,0,0,https://github.com/antimatter-studios/rust-fs-ntfs,Pure-Rust NTFS filesystem driver. Exposes a C ABI (fs_ntfs_*) suitable for FFI from C/C++/Go/etc.
+2026-10-06T10:45:40.518799Z,rskrb5-patched,0.2.1,0,0,https://github.com/andrico21/rskrb5,"Temporary patched fork of rskrb5: upstream main at 6f4abc9 plus the fixes awaiting upstream (see FORK-NOTES.md) - verbatim result bytes, environment-free config, include/includedir, TGS FAST subkey,…"
+2026-10-06T10:49:38.511959Z,cratefield-adapter-colonizer,0.1.0,0,0,https://github.com/Cratefield/harness,"HTTP client for the Colonizer mothership API, for the Cratefield harness"
+2026-10-06T10:49:43.77614Z,cratefield-module-crm,0.1.0,0,0,https://github.com/Cratefield/harness,"Cratefield module: contacts, organisations and tags, with an idempotent upsert API other modules can call"
+2026-10-06T10:51:30.986887Z,keria-types,0.1.0,0,0,https://github.com/AABelkhiria/keria-types,KERIA agent API record types
+2026-10-06T11:07:35.448971Z,hybrid-format-impls,0.1.0,0,0,https://github.com/horacehoff/hybrid-format,Use the hybrid-format crate.
+2026-10-06T11:07:36.1357Z,hybrid-format-macros,0.1.0,0,0,https://github.com/horacehoff/hybrid-format,Use the hybrid-format crate.
+2026-10-06T11:07:37.880918Z,hybrid-format,0.1.0,0,0,https://github.com/horacehoff/hybrid-format,A hybrid format! alternative that formats constants at compile-time and everything else much faster at runtime with a single allocation. Extensible with your own types and no_std.
+2026-10-06T11:08:35.883948Z,oox-tui,0.2.0,0,0,https://github.com/sergey-tihon/oox,A terminal UI for inspecting Office Open XML documents
+2026-10-06T11:10:06.540794Z,dbnexus-limiter-port,0.6.0-rc.6,0,0,https://github.com/Kirky-X/dbnexus,Rate limiter port (trait Limiter) shared by dbnexus and limiteron; only dependency is async-trait
+2026-10-06T11:16:18.050444Z,plans,0.1.0,0,0,https://github.com/dualys/plan,Process manifest: defines layers and capabilities for sandboxed runs
+2026-10-06T11:16:41.108701Z,rust-fs-btrfs,0.10.0,0,0,https://github.com/antimatter-studios/rust-fs-btrfs,Pure-Rust Btrfs filesystem driver. Exposes a C ABI (fs_btrfs_*) suitable for FFI from C/C++/Swift/Go.

@@ -8,30 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 10:19 UTC
+## Latest list — 2026-10-06 11:18 UTC
 
-New crates published between 2026-10-06 09:19 UTC and 2026-10-06 10:19 UTC.
+New crates published between 2026-10-06 10:19 UTC and 2026-10-06 11:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-06T10-19-07-092386Z.csv)
+[Full CSV](data/new-crates-2026-10-06T11-18-38-301175Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 09:19:38 | [mold-mimalloc-sys](https://crates.io/crates/mold-mimalloc-sys) | 0.1.49 | 0 | Fork of libmimalloc-sys that bundles mimalloc 3.5.3, for the mold linker |
-| 2026-10-06 09:19:40 | [mold-mimalloc](https://crates.io/crates/mold-mimalloc) | 0.1.52 | 0 | Fork of the mimalloc crate that bundles mimalloc 3.5.3, for the mold linker |
-| 2026-10-06 09:32:06 | [cargo-oil](https://crates.io/crates/cargo-oil) | 0.1.0 | 0 | Oak Oil: the WD-40 for Rust builds. A Cargo-compatible build executor and conte… |
-| 2026-10-06 09:40:55 | [rust-disk-partitions](https://crates.io/crates/rust-disk-partitions) | 0.6.0 | 0 | Pure-Rust partition-table probe (GPT/MBR) and filesystem-magic sniffer. |
-| 2026-10-06 09:50:51 | [rust-img-qcow2](https://crates.io/crates/rust-img-qcow2) | 0.6.0 | 0 | Pure-Rust QCOW2 reader. Exposes a Rust API and a C ABI suitable for FFI from C/… |
-| 2026-10-06 09:51:35 | [patchcov](https://crates.io/crates/patchcov) | 0.1.0 | 0 | Patch coverage for git diffs: attribute lcov, llvm-cov, Cobertura, Go and JaCoC… |
-| 2026-10-06 09:59:20 | [socai-core](https://crates.io/crates/socai-core) | 0.6.3 | 0 | Shared browser automation and social research runtime for socai |
-| 2026-10-06 09:59:58 | [wint](https://crates.io/crates/wint) | 0.1.0 | 0 | Deterministic, explainable engine that finds the time windows when a job can ru… |
-| 2026-10-06 10:00:15 | [sqz](https://crates.io/crates/sqz) | 0.1.0 | 0 | A high-Level library for Sequoia PGP |
-| 2026-10-06 10:01:13 | [socai-session-worker](https://crates.io/crates/socai-session-worker) | 0.1.0 | 0 | Isolated Rust session runtime for socai Agent Lab |
-| 2026-10-06 10:09:38 | [radiust-cli](https://crates.io/crates/radiust-cli) | 0.1.1 | 0 | Native command-line interface for radiust |
-| 2026-10-06 10:11:21 | [kpack](https://crates.io/crates/kpack) | 0.0.0 | 0 | Delta-compression engine for immutable patching and image assembly |
-| 2026-10-06 10:12:22 | [material-color-utilities-rust](https://crates.io/crates/material-color-utilities-rust) | 0.1.0 | 0 | A Rust implementation of Google's Material Color Utilities for Material 3 dynam… |
-| 2026-10-06 10:13:23 | [wist-artifact](https://crates.io/crates/wist-artifact) | 0.1.0 | 0 | wist 制品的传输与校验口径：读来源（本机 / URL，带限大小）、摘要、版本比较、命名与寻址。不含发布计划与包身份解析。 |
-| 2026-10-06 10:14:47 | [kuknos-soroban-env-guest-tmp](https://crates.io/crates/kuknos-soroban-env-guest-tmp) | 20.0.4 | 0 | Soroban contract guest environment. |
-| 2026-10-06 10:17:56 | [rust-fs-erofs](https://crates.io/crates/rust-fs-erofs) | 0.4.0 | 0 | Pure-Rust EROFS (Enhanced Read-Only File System) reader and writer. Clean-room… |
+| 2026-10-06 10:21:58 | [pretty_table_rs](https://crates.io/crates/pretty_table_rs) | 0.1.1 | 0 | Typed, Unicode-aware tables inspired by Python PrettyTable |
+| 2026-10-06 10:22:46 | [blastguard](https://crates.io/crates/blastguard) | 0.1.2 | 0 | A local command-policy and ephemeral Git worktree safety tool for AI coding age… |
+| 2026-10-06 10:23:45 | [dots-ui](https://crates.io/crates/dots-ui) | 0.1.0 | 0 | Leptos components for the dots design system: monochrome, monospace, dense. |
+| 2026-10-06 10:24:16 | [tree-sitter-blk](https://crates.io/crates/tree-sitter-blk) | 1.0.0 | 0 | Dagor BLK (DataBlock) text format grammar for tree-sitter |
+| 2026-10-06 10:28:06 | [sway-panorama](https://crates.io/crates/sway-panorama) | 0.1.0 | 0 | A live overview of Sway workspaces in one Wayland window |
+| 2026-10-06 10:29:20 | [concierge_iam_derive](https://crates.io/crates/concierge_iam_derive) | 0.1.0 | 0 | #[derive(Permission)] for concierge_iam |
+| 2026-10-06 10:29:55 | [concierge_iam](https://crates.io/crates/concierge_iam) | 0.1.0 | 0 | Permission scopes of the EV identity plane: derived catalogs, concrete permissi… |
+| 2026-10-06 10:30:23 | [easy-peasy-rust](https://crates.io/crates/easy-peasy-rust) | 1.99.1 | 0 | Opinionated clippy and rustc lint preset in the spirit of wemake-python-stylegu… |
+| 2026-10-06 10:37:14 | [price-feed-twap](https://crates.io/crates/price-feed-twap) | 0.1.0 | 0 | Rust integration tests for the price-feed TWAP contract. |
+| 2026-10-06 10:37:17 | [price-feed-twap-fuel](https://crates.io/crates/price-feed-twap-fuel) | 0.1.0 | 0 | Rust integration tests for the FUEL/stFUEL price-feed TWAP contract. |
+| 2026-10-06 10:39:43 | [rust-fs-squashfs](https://crates.io/crates/rust-fs-squashfs) | 0.4.0 | 0 | Pure-Rust SquashFS (read-only) filesystem driver. Clean-room implementation; re… |
+| 2026-10-06 10:42:27 | [youpipe-crossfire](https://crates.io/crates/youpipe-crossfire) | 0.6.0 | 0 | channels for async and threads (youpipe fork) |
+| 2026-10-06 10:42:29 | [youpipe-hotpath](https://crates.io/crates/youpipe-hotpath) | 0.6.0 | 0 | youpipe fork of the hotpath profiler (lib only) |
+| 2026-10-06 10:43:08 | [noun](https://crates.io/crates/noun) | 0.1.0 | 0 | Content-addressable 32-byte identifiers for immutable Merkle proofs |
+| 2026-10-06 10:43:22 | [rust-fs-ntfs](https://crates.io/crates/rust-fs-ntfs) | 0.9.0 | 0 | Pure-Rust NTFS filesystem driver. Exposes a C ABI (fs_ntfs_*) suitable for FFI… |
+| 2026-10-06 10:45:40 | [rskrb5-patched](https://crates.io/crates/rskrb5-patched) | 0.2.1 | 0 | Temporary patched fork of rskrb5: upstream main at 6f4abc9 plus the fixes await… |
+| 2026-10-06 10:49:38 | [cratefield-adapter-colonizer](https://crates.io/crates/cratefield-adapter-colonizer) | 0.1.0 | 0 | HTTP client for the Colonizer mothership API, for the Cratefield harness |
+| 2026-10-06 10:49:43 | [cratefield-module-crm](https://crates.io/crates/cratefield-module-crm) | 0.1.0 | 0 | Cratefield module: contacts, organisations and tags, with an idempotent upsert… |
+| 2026-10-06 10:51:30 | [keria-types](https://crates.io/crates/keria-types) | 0.1.0 | 0 | KERIA agent API record types |
+| 2026-10-06 11:07:35 | [hybrid-format-impls](https://crates.io/crates/hybrid-format-impls) | 0.1.0 | 0 | Use the hybrid-format crate. |
+| 2026-10-06 11:07:36 | [hybrid-format-macros](https://crates.io/crates/hybrid-format-macros) | 0.1.0 | 0 | Use the hybrid-format crate. |
+| 2026-10-06 11:07:37 | [hybrid-format](https://crates.io/crates/hybrid-format) | 0.1.0 | 0 | A hybrid format! alternative that formats constants at compile-time and everyth… |
+| 2026-10-06 11:08:35 | [oox-tui](https://crates.io/crates/oox-tui) | 0.2.0 | 0 | A terminal UI for inspecting Office Open XML documents |
+| 2026-10-06 11:10:06 | [dbnexus-limiter-port](https://crates.io/crates/dbnexus-limiter-port) | 0.6.0-rc.6 | 0 | Rate limiter port (trait Limiter) shared by dbnexus and limiteron; only depende… |
+| 2026-10-06 11:16:18 | [plans](https://crates.io/crates/plans) | 0.1.0 | 0 | Process manifest: defines layers and capabilities for sandboxed runs |
+| 2026-10-06 11:16:41 | [rust-fs-btrfs](https://crates.io/crates/rust-fs-btrfs) | 0.10.0 | 0 | Pure-Rust Btrfs filesystem driver. Exposes a C ABI (fs_btrfs_*) suitable for FF… |
 
 ## Data source
 
