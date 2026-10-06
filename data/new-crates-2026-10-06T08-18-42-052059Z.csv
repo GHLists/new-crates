@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T07:21:24.286937Z,termzzz,0.0.2,0,0,https://github.com/JavohirMX/termzzz,Screen savers and visual effects for terminal
+2026-10-06T07:23:37.720641Z,grannom-lease,0.0.0-reserved,0,0,https://github.com/grannom/grannom,"Name reservation for grannom-lease, GPU-pool slot leases over an append-only journal. Part of Grannom (formerly caddis), a conscience for coding agents. The real crate ships with grannom 0.4.0; this…"
+2026-10-06T07:24:33.20035Z,tableflow-autoreport,0.1.1,0,0,https://github.com/horacioskrp/tableflow,"Per-field summary report (counts, frequencies, percentages) for tableflow."
+2026-10-06T07:26:29.589645Z,preset-app-kit,0.1.1,0,0,https://github.com/preset-nz/app-kit,"The behaviour of a preset.nz desktop app: one command table feeding the native menu and the toolbar, Undo and Redo that say what they undo, text-field undo routing, and saving with the unsaved mark a…"
+2026-10-06T07:26:45.177716Z,mollusk-svm-account,0.0.0,0,0,https://github.com/anza-xyz/mollusk,Account setup helpers for the Mollusk SVM harness.
+2026-10-06T07:27:25.975731Z,mollusk-svm-account-derive,0.0.0,0,0,https://github.com/anza-xyz/mollusk,Account setup helpers for the Mollusk SVM harness.
+2026-10-06T07:33:39.075285Z,grannom-hand,0.0.0-reserved,0,0,https://github.com/grannom/grannom,"Name reservation for grannom-hand, the voice-command router that maps a spoken request to a registered verb. Part of Grannom (formerly caddis), a conscience for coding agents. The real crate ships wi…"
+2026-10-06T07:35:37.246212Z,tableflow,0.1.1,0,0,https://github.com/horacioskrp/tableflow,"Turn form submissions into tabular exports (CSV, XLSX, GeoJSON) — end-to-end facade."
+2026-10-06T07:48:16.561404Z,bb-flasher,0.1.0,0,0,https://github.com/beagleboard/bb-imager-rs,Library providing flashing capabilities for BeagleBoard.org boards
+2026-10-06T08:01:30.691042Z,trishul-snmp,0.1.0,0,0,https://github.com/tosumitdhaka/trishul-snmp-rust,"Async SNMP toolkit: manager, notifications, read-only responder, MIB enrichment"
+2026-10-06T08:04:13.835452Z,rattler_boot_id,0.1.0,0,0,https://github.com/conda/rattler,Identify the current machine boot session
+2026-10-06T08:05:06.312592Z,rattler_environment_digest,0.1.0,0,0,https://github.com/conda/rattler,Stable fingerprints of resolved Conda environments
+2026-10-06T08:05:43.563615Z,mxc-sdk,1.0.0,0,0,https://github.com/microsoft/mxc,"Importable library for starting MXC sandboxes in-process, with streaming stdio."
+2026-10-06T08:05:53.749592Z,rust-fs-core,0.3.0,0,0,https://github.com/antimatter-studios/rust-fs-core,Pure-Rust block-device framework — BlockRead/BlockDevice traits + FileDevice + CallbackDevice + LRU cache. Foundation crate for the rust-fs-* drivers and rust-img-* containers.
+2026-10-06T08:07:09.814842Z,rattler_virtual_package_detectors,0.1.0,0,0,https://github.com/conda/rattler,Run channel-registered virtual package detectors following the detector protocol CEP
+2026-10-06T08:12:09.828049Z,appcore-transfer,0.1.0-beta.1,0,0,https://github.com/dnettoRaw/app-core-public,Bounded resumable multi-source transfer of verified opaque objects
+2026-10-06T08:18:36.385552Z,editCLI,0.1.0,0,0,,A fun game where you guess what number the computer has chosen.

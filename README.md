@@ -8,37 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 07:20 UTC
+## Latest list — 2026-10-06 08:18 UTC
 
-New crates published between 2026-10-06 06:19 UTC and 2026-10-06 07:20 UTC.
+New crates published between 2026-10-06 07:20 UTC and 2026-10-06 08:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-06T07-20-15-205223Z.csv)
+[Full CSV](data/new-crates-2026-10-06T08-18-42-052059Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 06:21:49 | [ecat-data-mssql](https://crates.io/crates/ecat-data-mssql) | 4.0.0 | 0 | Microsoft SQL Server client for e-cat (tiberius-ng + deadpool) |
-| 2026-10-06 06:22:25 | [bb-flasher-dfu](https://crates.io/crates/bb-flasher-dfu) | 0.1.0 | 0 | A library to flash BeagleBoard devices over USB DFU |
-| 2026-10-06 06:28:20 | [aveon](https://crates.io/crates/aveon) | 0.0.1 | 0 | Work in progress |
-| 2026-10-06 06:31:42 | [verge-core](https://crates.io/crates/verge-core) | 0.3.0 | 0 | Engine of the Verge versioned database: storage, commit graph, query, merge |
-| 2026-10-06 06:32:32 | [decision-openai-decisions](https://crates.io/crates/decision-openai-decisions) | 0.1.0 | 0 | OpenAI Decisions API adapter for decision-core |
-| 2026-10-06 06:32:46 | [hashtree-client](https://crates.io/crates/hashtree-client) | 0.1.2 | 0 | Verified Hashtree reads through a local daemon or standalone Nostr and Blossom… |
-| 2026-10-06 06:58:04 | [emu198x-esp-at-modem](https://crates.io/crates/emu198x-esp-at-modem) | 0.27.0 | 0 | Cycle-accurate ESP-AT WiFi modem on a bit-banged 8N1 serial line, for 8-bit emu… |
-| 2026-10-06 07:07:51 | [preset-math](https://crates.io/crates/preset-math) | 0.1.0 | 0 | Value shaping for the preset.nz desktop apps: fit, lerp, smooth, bias, gain and… |
-| 2026-10-06 07:07:55 | [grannom-core](https://crates.io/crates/grannom-core) | 0.0.0-reserved | 0 | Name reservation for grannom-core, the nervous kernel: envelope, policy, idempo… |
-| 2026-10-06 07:08:05 | [grannom-card](https://crates.io/crates/grannom-card) | 0.0.0-reserved | 0 | Name reservation for grannom-card, the card schema and parser (frontmatter, sec… |
-| 2026-10-06 07:08:13 | [grannom-eye](https://crates.io/crates/grannom-eye) | 0.0.0-reserved | 0 | Name reservation for grannom-eye, the lens that detects defects in AI-written c… |
-| 2026-10-06 07:08:16 | [tableflow-core](https://crates.io/crates/tableflow-core) | 0.1.1 | 0 | Core data model (FormPack, Version, Section, Field, Submission) for tableflow. |
-| 2026-10-06 07:08:19 | [tableflow-schema](https://crates.io/crates/tableflow-schema) | 0.1.1 | 0 | Field type system: format submission values into export cells for tableflow. |
-| 2026-10-06 07:08:21 | [tableflow-export](https://crates.io/crates/tableflow-export) | 0.1.1 | 0 | Export engine: field canvas, repeat flattening, translations and serialization… |
-| 2026-10-06 07:08:23 | [grannom-tree](https://crates.io/crates/grannom-tree) | 0.0.0-reserved | 0 | Name reservation for grannom-tree, the goal-tree state organ: append-only event… |
-| 2026-10-06 07:08:24 | [tableflow-xlsx](https://crates.io/crates/tableflow-xlsx) | 0.1.1 | 0 | XLSX serializer for tableflow: one worksheet per exported table. |
-| 2026-10-06 07:08:26 | [tableflow-geojson](https://crates.io/crates/tableflow-geojson) | 0.1.1 | 0 | GeoJSON serializer for tableflow: geo responses to a FeatureCollection. |
-| 2026-10-06 07:08:33 | [grannom-warden](https://crates.io/crates/grannom-warden) | 0.0.0-reserved | 0 | Name reservation for grannom-warden, the law engine that judges each agent tool… |
-| 2026-10-06 07:10:01 | [rhizome-core](https://crates.io/crates/rhizome-core) | 0.1.4 | 0 | The node API the preset.nz desktop apps share: paths, node types, values, refer… |
-| 2026-10-06 07:10:05 | [rhizome-pom](https://crates.io/crates/rhizome-pom) | 0.1.4 | 0 | POM, the Preset Object Model: the app-unaware base every app's object model is… |
-| 2026-10-06 07:10:07 | [rhizome-pom-tauri](https://crates.io/crates/rhizome-pom-tauri) | 0.1.4 | 0 | POM over Tauri: one open document as app-level commands and events, and the ope… |
-| 2026-10-06 07:13:20 | [typed-kalman](https://crates.io/crates/typed-kalman) | 0.1.0 | 0 | Type-safe, no_std Kalman filters: KF, EKF, UKF and smoothers |
-| 2026-10-06 07:13:46 | [grannom-organs](https://crates.io/crates/grannom-organs) | 0.0.0-reserved | 0 | Name reservation for grannom-organs, the self-heal, self-test and self-undo org… |
+| 2026-10-06 07:21:24 | [termzzz](https://crates.io/crates/termzzz) | 0.0.2 | 0 | Screen savers and visual effects for terminal |
+| 2026-10-06 07:23:37 | [grannom-lease](https://crates.io/crates/grannom-lease) | 0.0.0-reserved | 0 | Name reservation for grannom-lease, GPU-pool slot leases over an append-only jo… |
+| 2026-10-06 07:24:33 | [tableflow-autoreport](https://crates.io/crates/tableflow-autoreport) | 0.1.1 | 0 | Per-field summary report (counts, frequencies, percentages) for tableflow. |
+| 2026-10-06 07:26:29 | [preset-app-kit](https://crates.io/crates/preset-app-kit) | 0.1.1 | 0 | The behaviour of a preset.nz desktop app: one command table feeding the native… |
+| 2026-10-06 07:26:45 | [mollusk-svm-account](https://crates.io/crates/mollusk-svm-account) | 0.0.0 | 0 | Account setup helpers for the Mollusk SVM harness. |
+| 2026-10-06 07:27:25 | [mollusk-svm-account-derive](https://crates.io/crates/mollusk-svm-account-derive) | 0.0.0 | 0 | Account setup helpers for the Mollusk SVM harness. |
+| 2026-10-06 07:33:39 | [grannom-hand](https://crates.io/crates/grannom-hand) | 0.0.0-reserved | 0 | Name reservation for grannom-hand, the voice-command router that maps a spoken… |
+| 2026-10-06 07:35:37 | [tableflow](https://crates.io/crates/tableflow) | 0.1.1 | 0 | Turn form submissions into tabular exports (CSV, XLSX, GeoJSON) — end-to-end fa… |
+| 2026-10-06 07:48:16 | [bb-flasher](https://crates.io/crates/bb-flasher) | 0.1.0 | 0 | Library providing flashing capabilities for BeagleBoard.org boards |
+| 2026-10-06 08:01:30 | [trishul-snmp](https://crates.io/crates/trishul-snmp) | 0.1.0 | 0 | Async SNMP toolkit: manager, notifications, read-only responder, MIB enrichment |
+| 2026-10-06 08:04:13 | [rattler_boot_id](https://crates.io/crates/rattler_boot_id) | 0.1.0 | 0 | Identify the current machine boot session |
+| 2026-10-06 08:05:06 | [rattler_environment_digest](https://crates.io/crates/rattler_environment_digest) | 0.1.0 | 0 | Stable fingerprints of resolved Conda environments |
+| 2026-10-06 08:05:43 | [mxc-sdk](https://crates.io/crates/mxc-sdk) | 1.0.0 | 0 | Importable library for starting MXC sandboxes in-process, with streaming stdio. |
+| 2026-10-06 08:05:53 | [rust-fs-core](https://crates.io/crates/rust-fs-core) | 0.3.0 | 0 | Pure-Rust block-device framework — BlockRead/BlockDevice traits + FileDevice +… |
+| 2026-10-06 08:07:09 | [rattler_virtual_package_detectors](https://crates.io/crates/rattler_virtual_package_detectors) | 0.1.0 | 0 | Run channel-registered virtual package detectors following the detector protoco… |
+| 2026-10-06 08:12:09 | [appcore-transfer](https://crates.io/crates/appcore-transfer) | 0.1.0-beta.1 | 0 | Bounded resumable multi-source transfer of verified opaque objects |
+| 2026-10-06 08:18:36 | [editCLI](https://crates.io/crates/editCLI) | 0.1.0 | 0 | A fun game where you guess what number the computer has chosen. |
 
 ## Data source
 
