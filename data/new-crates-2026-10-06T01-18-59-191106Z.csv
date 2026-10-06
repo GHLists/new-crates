@@ -1,0 +1,8 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T00:27:20.494569Z,halley-ui,0.1.2,0,0,https://github.com/saltnpepper97/halley-ui,"Shared widgets, Taffy layout, text, and rendering for the Halley ecosystem"
+2026-10-06T00:32:25.594565Z,nomba-rs,0.2.0,0,0,https://github.com/RightFix/nomba-rust,Unofficial Rust SDK for the Nomba payments API
+2026-10-06T00:48:28.45809Z,cadspec,0.1.0-beta.4,0,0,https://github.com/UniverLab/cadspec,CAD as code — deterministic geometry engine for reproducible CAD drawings
+2026-10-06T00:49:09.86369Z,txstr-server,0.1.0,0,0,https://github.com/andunieee/txstr-server,personal (+ friends) self-hosted server companion to txstr
+2026-10-06T00:49:17.632567Z,txstr,0.1.0,0,0,https://github.com/andunieee/txstr,"decentralised, minimalist microblogging for hackers"
+2026-10-06T00:49:29.267483Z,dsp-spectral,0.1.0,0,0,https://github.com/WyattAu/dsp-spectral,"Spectral audio analysis and restoration — STFT/ISTFT, mel/MFCC features, spectral gating, HPSS source separation"
+2026-10-06T01:08:33.89617Z,voxgrid,0.1.0,0,0,https://github.com/maiteko/voxgrid.git,Voxel coordinate and bounding-box math with log-scaled voxel-tree addressing
