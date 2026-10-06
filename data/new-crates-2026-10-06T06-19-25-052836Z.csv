@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T05:27:35.243546Z,nerpa-transport,0.3.0,0,0,https://github.com/nerpa-run/nerpa,"Carrying the wire to a machine, and knowing nothing about what it says"
+2026-10-06T05:27:44.668963Z,nerpa-provider-os,0.3.0,0,0,https://github.com/nerpa-run/nerpa,Files and directories on the machine Nerpa is running on
+2026-10-06T05:28:22.708709Z,nerpa,0.3.0,0,0,https://github.com/nerpa-run/nerpa,The nerpa command
+2026-10-06T05:28:32.323271Z,wx-rust-store,0.1.5,0,0,https://github.com/easy-4-rust/WxRust,WxRust 微信小店模块（对应 weixin-java-store）
+2026-10-06T05:34:57.967743Z,gpui-fast-windows,0.1.0,0,0,https://github.com/longbridge/gpui-fast,gpui_windows: GPUI with gpui-fast rendering and layout optimizations
+2026-10-06T05:35:00.163384Z,gpui-fast-web,0.1.0,0,0,https://github.com/longbridge/gpui-fast,gpui_web: GPUI with gpui-fast rendering and layout optimizations
+2026-10-06T05:35:20.357466Z,datafmts_derive,0.1.1,0,0,,derive macros for datafmts core (host-side only)
+2026-10-06T05:35:47.08595Z,gpui-fast-platform,0.1.0,0,0,https://github.com/longbridge/gpui-fast,gpui_platform: GPUI with gpui-fast rendering and layout optimizations
+2026-10-06T05:36:22.673531Z,datafmts,0.1.1,0,0,,modular no_std library for serializing/deserializing multiple file format
+2026-10-06T05:48:47.434234Z,lsty-core,0.0.1,0,0,,"The todo list model, file I/O and operations of lsty (placeholder release)"
+2026-10-06T05:48:50.416899Z,lsty-cli,0.0.1,0,0,,"The command line of lsty: arguments, commands and output (placeholder release)"
+2026-10-06T05:48:52.607417Z,lsty-tui,0.0.1,0,0,,The terminal interface of lsty (placeholder release)
+2026-10-06T05:49:02.483201Z,sim-doctor,0.1.0,0,0,https://github.com/Vaibhav91one/sim-doctor,CLI-first SIM/UICC/eUICC security testing tool: scans a card over PC/SC and reports findings as a table or one stable JSON envelope
+2026-10-06T05:49:08.388071Z,android-doctor,0.1.0,0,0,https://github.com/Vaibhav91one/android-doctor,"Extract and audit Android OTA and firmware images (payload.bin, super.img, ext4, erofs) without running them"
+2026-10-06T05:58:02.529292Z,fragment-donor-sdk,0.1.0,0,0,https://github.com/usnuz/fragment-donor-sdk,Independent server-side no-service-auth Fragment Donor API SDK
+2026-10-06T06:03:23.764939Z,libmold,0.0.0,0,0,https://github.com/rui314/mold,Reserved for the library version of the mold linker
+2026-10-06T06:03:54.043669Z,keygrant,0.1.0,0,0,,"KeyGrant licensing for Tauri and native Rust desktop apps: signed leases verified offline, failing in favour of the paying customer."
+2026-10-06T06:09:04.356276Z,decision-clef,0.1.0,0,0,https://github.com/holon-run/holon,Cloudflare Clef adapter for decision-core
+2026-10-06T06:11:44.838838Z,diffr-grammars,0.1.12,0,0,https://github.com/devdotfast/diffr,"Tree-sitter grammars for diffr, with their largest parse tables stored compressed."
+2026-10-06T06:11:47.959285Z,diffr-core,0.1.12,0,0,https://github.com/devdotfast/diffr,"The diffr engine: parsing, structural diffing, configuration and the plugin cursor."

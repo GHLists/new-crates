@@ -8,37 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 05:18 UTC
+## Latest list — 2026-10-06 06:19 UTC
 
-New crates published between 2026-10-06 04:22 UTC and 2026-10-06 05:18 UTC.
+New crates published between 2026-10-06 05:18 UTC and 2026-10-06 06:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-06T05-18-34-515162Z.csv)
+[Full CSV](data/new-crates-2026-10-06T06-19-25-052836Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 04:26:46 | [bckw](https://crates.io/crates/bckw) | 0.1.1 | 0 | A no_std zero-dependency stack machine for Curry's B, C, K, W combinators with… |
-| 2026-10-06 04:27:51 | [breaker-panel](https://crates.io/crates/breaker-panel) | 0.1.0 | 0 | Embedded hierarchical kill switches: a local TOML file, hot reload and cascadin… |
-| 2026-10-06 04:34:57 | [xprof-rs](https://crates.io/crates/xprof-rs) | 0.1.0 | 0 | Fast Rust backend for the XProf trace viewer. Its output is the same as the out… |
-| 2026-10-06 04:40:25 | [miden-note-codec-wit](https://crates.io/crates/miden-note-codec-wit) | 0.15.0 | 0 | Canonical WIT contract for Miden note codecs |
-| 2026-10-06 04:43:08 | [nexus-raw-tui](https://crates.io/crates/nexus-raw-tui) | 0.5.0 | 0 | A terminal browser over Nexus raw repositories: tabs, presets, filters and down… |
-| 2026-10-06 04:46:42 | [neura-ast](https://crates.io/crates/neura-ast) | 0.5.0 | 0 | The abstract syntax tree of the Rust device DSL |
-| 2026-10-06 04:47:57 | [neura-pointwise](https://crates.io/crates/neura-pointwise) | 0.5.0 | 0 | Pointwise operations and their differentiation rules |
-| 2026-10-06 04:49:46 | [bose-connect](https://crates.io/crates/bose-connect) | 0.2.0 | 0 | Rust library and CLI for controlling Bose Bluetooth headphones over RFCOMM (Bos… |
-| 2026-10-06 04:50:15 | [neura-plan](https://crates.io/crates/neura-plan) | 0.5.0 | 0 | Graph lowering, wave scheduling and device plan encoding |
-| 2026-10-06 04:51:04 | [cratefield-tables-api](https://crates.io/crates/cratefield-tables-api) | 0.1.0 | 0 | The HTTP API over a venture's declared tables: who may reach which rows, and th… |
-| 2026-10-06 04:51:48 | [miden-note-schema](https://crates.io/crates/miden-note-schema) | 0.15.0 | 0 | Host-side reader and codec registry for Miden note storage schemas |
-| 2026-10-06 04:53:01 | [miden-note-schema-codegen](https://crates.io/crates/miden-note-schema-codegen) | 0.15.0 | 0 | Rust code generator for Miden note storage schemas |
-| 2026-10-06 04:54:39 | [miden-note-codec-macros](https://crates.io/crates/miden-note-codec-macros) | 0.15.0 | 0 | Procedural macros for author-side Miden note codecs |
-| 2026-10-06 04:56:11 | [miden-note-codec](https://crates.io/crates/miden-note-codec) | 0.15.0 | 0 | Author-side codecs for typed Miden note storage |
-| 2026-10-06 04:57:06 | [miden-note-bindings-macros](https://crates.io/crates/miden-note-bindings-macros) | 0.15.0 | 0 | Procedural macros for typed Miden note storage bindings |
-| 2026-10-06 04:57:56 | [miden-note-bindings](https://crates.io/crates/miden-note-bindings) | 0.15.0 | 0 | Typed host bindings for Miden note storage schemas |
-| 2026-10-06 04:59:04 | [parkring](https://crates.io/crates/parkring) | 0.4.0 | 0 | Bounded MPMC queues (Vyukov and SCQ), a Chase-Lev work-stealing deque and a wor… |
-| 2026-10-06 05:07:28 | [colonizer-redact](https://crates.io/crates/colonizer-redact) | 0.2.8 | 0 | Secret redaction for Colonizer logs, shared by the harness and its observabilit… |
-| 2026-10-06 05:16:52 | [fbui-platform](https://crates.io/crates/fbui-platform) | 0.3.0 | 0 | fbui platform layer: a display-server-free foundation for Linux framebuffer UIs… |
-| 2026-10-06 05:16:53 | [fbui-testkit](https://crates.io/crates/fbui-testkit) | 0.3.0 | 0 | fbui test harness: golden-image snapshot assertions for the software renderer.… |
-| 2026-10-06 05:16:55 | [fbui-render](https://crates.io/crates/fbui-render) | 0.3.0 | 0 | fbui rendering layer: a headless, CPU software renderer for Linux framebuffer U… |
-| 2026-10-06 05:16:57 | [fbui-widgets](https://crates.io/crates/fbui-widgets) | 0.3.0 | 0 | fbui widget toolkit: a retained widget tree with an Elm-ish update(msg) -> stat… |
-| 2026-10-06 05:16:59 | [fbui](https://crates.io/crates/fbui) | 0.3.0 | 0 | fbui: a framework for building UIs that draw straight to the Linux framebuffer/… |
+| 2026-10-06 05:27:35 | [nerpa-transport](https://crates.io/crates/nerpa-transport) | 0.3.0 | 0 | Carrying the wire to a machine, and knowing nothing about what it says |
+| 2026-10-06 05:27:44 | [nerpa-provider-os](https://crates.io/crates/nerpa-provider-os) | 0.3.0 | 0 | Files and directories on the machine Nerpa is running on |
+| 2026-10-06 05:28:22 | [nerpa](https://crates.io/crates/nerpa) | 0.3.0 | 0 | The nerpa command |
+| 2026-10-06 05:28:32 | [wx-rust-store](https://crates.io/crates/wx-rust-store) | 0.1.5 | 0 | WxRust 微信小店模块（对应 weixin-java-store） |
+| 2026-10-06 05:34:57 | [gpui-fast-windows](https://crates.io/crates/gpui-fast-windows) | 0.1.0 | 0 | gpui_windows: GPUI with gpui-fast rendering and layout optimizations |
+| 2026-10-06 05:35:00 | [gpui-fast-web](https://crates.io/crates/gpui-fast-web) | 0.1.0 | 0 | gpui_web: GPUI with gpui-fast rendering and layout optimizations |
+| 2026-10-06 05:35:20 | [datafmts_derive](https://crates.io/crates/datafmts_derive) | 0.1.1 | 0 | derive macros for datafmts core (host-side only) |
+| 2026-10-06 05:35:47 | [gpui-fast-platform](https://crates.io/crates/gpui-fast-platform) | 0.1.0 | 0 | gpui_platform: GPUI with gpui-fast rendering and layout optimizations |
+| 2026-10-06 05:36:22 | [datafmts](https://crates.io/crates/datafmts) | 0.1.1 | 0 | modular no_std library for serializing/deserializing multiple file format |
+| 2026-10-06 05:48:47 | [lsty-core](https://crates.io/crates/lsty-core) | 0.0.1 | 0 | The todo list model, file I/O and operations of lsty (placeholder release) |
+| 2026-10-06 05:48:50 | [lsty-cli](https://crates.io/crates/lsty-cli) | 0.0.1 | 0 | The command line of lsty: arguments, commands and output (placeholder release) |
+| 2026-10-06 05:48:52 | [lsty-tui](https://crates.io/crates/lsty-tui) | 0.0.1 | 0 | The terminal interface of lsty (placeholder release) |
+| 2026-10-06 05:49:02 | [sim-doctor](https://crates.io/crates/sim-doctor) | 0.1.0 | 0 | CLI-first SIM/UICC/eUICC security testing tool: scans a card over PC/SC and rep… |
+| 2026-10-06 05:49:08 | [android-doctor](https://crates.io/crates/android-doctor) | 0.1.0 | 0 | Extract and audit Android OTA and firmware images (payload.bin, super.img, ext4… |
+| 2026-10-06 05:58:02 | [fragment-donor-sdk](https://crates.io/crates/fragment-donor-sdk) | 0.1.0 | 0 | Independent server-side no-service-auth Fragment Donor API SDK |
+| 2026-10-06 06:03:23 | [libmold](https://crates.io/crates/libmold) | 0.0.0 | 0 | Reserved for the library version of the mold linker |
+| 2026-10-06 06:03:54 | [keygrant](https://crates.io/crates/keygrant) | 0.1.0 | 0 | KeyGrant licensing for Tauri and native Rust desktop apps: signed leases verifi… |
+| 2026-10-06 06:09:04 | [decision-clef](https://crates.io/crates/decision-clef) | 0.1.0 | 0 | Cloudflare Clef adapter for decision-core |
+| 2026-10-06 06:11:44 | [diffr-grammars](https://crates.io/crates/diffr-grammars) | 0.1.12 | 0 | Tree-sitter grammars for diffr, with their largest parse tables stored compress… |
+| 2026-10-06 06:11:47 | [diffr-core](https://crates.io/crates/diffr-core) | 0.1.12 | 0 | The diffr engine: parsing, structural diffing, configuration and the plugin cur… |
 
 ## Data source
 
