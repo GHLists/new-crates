@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T04:26:46.145286Z,bckw,0.1.1,0,0,https://github.com/DaBigBlob/bckw,"A no_std zero-dependency stack machine for Curry's B, C, K, W combinators with support for external effects."
+2026-10-06T04:27:51.305387Z,breaker-panel,0.1.0,0,0,https://github.com/AlexxcelerateDev/breaker-panel,"Embedded hierarchical kill switches: a local TOML file, hot reload and cascading by key prefix, no external service."
+2026-10-06T04:34:57.587331Z,xprof-rs,0.1.0,0,0,https://github.com/Locamage/xprof-rs,Fast Rust backend for the XProf trace viewer. Its output is the same as the output of XProf 2.23.2.
+2026-10-06T04:40:25.911159Z,miden-note-codec-wit,0.15.0,0,0,https://github.com/0xMiden/compiler,Canonical WIT contract for Miden note codecs
+2026-10-06T04:43:08.880539Z,nexus-raw-tui,0.5.0,0,0,https://github.com/Lipen/nexus-raw,"A terminal browser over Nexus raw repositories: tabs, presets, filters and downloads"
+2026-10-06T04:46:42.960247Z,neura-ast,0.5.0,0,0,https://github.com/formetaohy/Neura,The abstract syntax tree of the Rust device DSL
+2026-10-06T04:47:57.229546Z,neura-pointwise,0.5.0,0,0,https://github.com/formetaohy/Neura,Pointwise operations and their differentiation rules
+2026-10-06T04:49:46.538892Z,bose-connect,0.2.0,0,0,https://github.com/airvzxf/bose-connect-app-linux,Rust library and CLI for controlling Bose Bluetooth headphones over RFCOMM (Bose Connect protocol).
+2026-10-06T04:50:15.146822Z,neura-plan,0.5.0,0,0,https://github.com/formetaohy/Neura,"Graph lowering, wave scheduling and device plan encoding"
+2026-10-06T04:51:04.076238Z,cratefield-tables-api,0.1.0,0,0,https://github.com/Cratefield/harness,"The HTTP API over a venture's declared tables: who may reach which rows, and the routes that serve them"
+2026-10-06T04:51:48.43151Z,miden-note-schema,0.15.0,0,0,https://github.com/0xMiden/compiler,Host-side reader and codec registry for Miden note storage schemas
+2026-10-06T04:53:01.120424Z,miden-note-schema-codegen,0.15.0,0,0,https://github.com/0xMiden/compiler,Rust code generator for Miden note storage schemas
+2026-10-06T04:54:39.904324Z,miden-note-codec-macros,0.15.0,0,0,https://github.com/0xMiden/compiler,Procedural macros for author-side Miden note codecs
+2026-10-06T04:56:11.081762Z,miden-note-codec,0.15.0,0,0,https://github.com/0xMiden/compiler,Author-side codecs for typed Miden note storage
+2026-10-06T04:57:06.857485Z,miden-note-bindings-macros,0.15.0,0,0,https://github.com/0xMiden/compiler,Procedural macros for typed Miden note storage bindings
+2026-10-06T04:57:56.149913Z,miden-note-bindings,0.15.0,0,0,https://github.com/0xMiden/compiler,Typed host bindings for Miden note storage schemas
+2026-10-06T04:59:04.840282Z,parkring,0.4.0,0,0,https://github.com/anmol0b/parkring,"Bounded MPMC queues (Vyukov and SCQ), a Chase-Lev work-stealing deque and a work-stealing thread pool, with futex-based parking, verified with loom and Miri."
+2026-10-06T05:07:28.623731Z,colonizer-redact,0.2.8,0,0,https://github.com/Colonizer-dev/harness,"Secret redaction for Colonizer logs, shared by the harness and its observability add-on"
+2026-10-06T05:16:52.671802Z,fbui-platform,0.3.0,0,0,https://github.com/aoprisan/fbui,"fbui platform layer: a display-server-free foundation for Linux framebuffer UIs. Display backends (DRM/KMS dumb buffers + legacy fbdev) behind one trait, normalized input, seat/VT session lifecycle,…"
+2026-10-06T05:16:53.399301Z,fbui-testkit,0.3.0,0,0,https://github.com/aoprisan/fbui,"fbui test harness: golden-image snapshot assertions for the software renderer. Compares a tiny-skia Pixmap against a committed PNG with a per-pixel tolerance, writes an `.actual.png` + a side-by-side…"
+2026-10-06T05:16:55.23824Z,fbui-render,0.3.0,0,0,https://github.com/aoprisan/fbui,"fbui rendering layer: a headless, CPU software renderer for Linux framebuffer UIs. A tiny-skia painter (rects, paths, gradients, clipping, opacity groups, image blit), cosmic-text/swash text with a b…"
+2026-10-06T05:16:57.495573Z,fbui-widgets,0.3.0,0,0,https://github.com/aoprisan/fbui,"fbui widget toolkit: a retained widget tree with an Elm-ish update(msg) -> state -> damage -> paint loop, taffy flexbox/grid layout, and a software-rendered widget set (Label, Button, Checkbox, Slide…"
+2026-10-06T05:16:59.207298Z,fbui,0.3.0,0,0,https://github.com/aoprisan/fbui,"fbui: a framework for building UIs that draw straight to the Linux framebuffer/DRM — no X11, no Wayland. Umbrella crate re-exporting the render layer and widget toolkit, plus an app runner that drive…"

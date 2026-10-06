@@ -8,31 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 04:22 UTC
+## Latest list — 2026-10-06 05:18 UTC
 
-New crates published between 2026-10-06 03:18 UTC and 2026-10-06 04:22 UTC.
+New crates published between 2026-10-06 04:22 UTC and 2026-10-06 05:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-06T04-22-12-982645Z.csv)
+[Full CSV](data/new-crates-2026-10-06T05-18-34-515162Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 03:23:24 | [rigless-rtos](https://crates.io/crates/rigless-rtos) | 0.1.0 | 0 | A firmware kernel's threads as a debugger shows them: ChibiOS/RT and FreeRTOS o… |
-| 2026-10-06 03:30:38 | [command-view](https://crates.io/crates/command-view) | 1.0.0 | 0 | A Command-line terminal multiplexer |
-| 2026-10-06 03:31:55 | [sails-cmd-awk](https://crates.io/crates/sails-cmd-awk) | 0.1.0 | 0 | awk command for the Sails shell |
-| 2026-10-06 03:37:39 | [sails-cmd-base64](https://crates.io/crates/sails-cmd-base64) | 0.1.0 | 0 | base64 command for the Sails shell |
-| 2026-10-06 03:40:01 | [keysafe](https://crates.io/crates/keysafe) | 0.2.0 | 0 | Load 1Password secrets into your shell: cached in the system keychain, exported… |
-| 2026-10-06 03:41:32 | [s3s-compiler](https://crates.io/crates/s3s-compiler) | 0.18.0-alpha.1 | 0 | Compiler for S3 API definitions |
-| 2026-10-06 03:47:39 | [sails-cmd-basename](https://crates.io/crates/sails-cmd-basename) | 0.1.0 | 0 | basename command for the Sails shell |
-| 2026-10-06 03:57:39 | [sails-cmd-bash](https://crates.io/crates/sails-cmd-bash) | 0.1.0 | 0 | bash command for the Sails shell |
-| 2026-10-06 04:00:33 | [isl-ontology](https://crates.io/crates/isl-ontology) | 0.1.0 | 0 | The IronSocketLayer ontology: TLS 1.3 and QUIC protocol knowledge as closed-voc… |
-| 2026-10-06 04:00:50 | [ironsocketlayer](https://crates.io/crates/ironsocketlayer) | 0.1.0 | 0 | Agentic-first TLS 1.3 and QUIC-TLS in pure Rust over IronCrypto, with a machine… |
-| 2026-10-06 04:01:08 | [isl-cli](https://crates.io/crates/isl-cli) | 0.1.0 | 0 | isl: the IronSocketLayer command line and MCP server |
-| 2026-10-06 04:06:10 | [mdp-explainer](https://crates.io/crates/mdp-explainer) | 0.1.1 | 0 | Markov Decision Process solver |
-| 2026-10-06 04:06:55 | [smtc2web-dev](https://crates.io/crates/smtc2web-dev) | 0.1.0 | 0 | Command-line web preview server for smtc2web themes |
-| 2026-10-06 04:07:39 | [sails-cmd-bc](https://crates.io/crates/sails-cmd-bc) | 0.1.0 | 0 | bc command for the Sails shell |
-| 2026-10-06 04:10:20 | [teshr](https://crates.io/crates/teshr) | 0.0.4 | 0 | A text-shaping tool for quick variable changes in an IDE or editor |
-| 2026-10-06 04:17:30 | [font-shape](https://crates.io/crates/font-shape) | 0.1.0 | 0 | Glyph rasterization and text measurement: exact-coverage scanline fill, stroke… |
-| 2026-10-06 04:17:38 | [sails-cmd-bracket](https://crates.io/crates/sails-cmd-bracket) | 0.1.0 | 0 | bracket command for the Sails shell |
+| 2026-10-06 04:26:46 | [bckw](https://crates.io/crates/bckw) | 0.1.1 | 0 | A no_std zero-dependency stack machine for Curry's B, C, K, W combinators with… |
+| 2026-10-06 04:27:51 | [breaker-panel](https://crates.io/crates/breaker-panel) | 0.1.0 | 0 | Embedded hierarchical kill switches: a local TOML file, hot reload and cascadin… |
+| 2026-10-06 04:34:57 | [xprof-rs](https://crates.io/crates/xprof-rs) | 0.1.0 | 0 | Fast Rust backend for the XProf trace viewer. Its output is the same as the out… |
+| 2026-10-06 04:40:25 | [miden-note-codec-wit](https://crates.io/crates/miden-note-codec-wit) | 0.15.0 | 0 | Canonical WIT contract for Miden note codecs |
+| 2026-10-06 04:43:08 | [nexus-raw-tui](https://crates.io/crates/nexus-raw-tui) | 0.5.0 | 0 | A terminal browser over Nexus raw repositories: tabs, presets, filters and down… |
+| 2026-10-06 04:46:42 | [neura-ast](https://crates.io/crates/neura-ast) | 0.5.0 | 0 | The abstract syntax tree of the Rust device DSL |
+| 2026-10-06 04:47:57 | [neura-pointwise](https://crates.io/crates/neura-pointwise) | 0.5.0 | 0 | Pointwise operations and their differentiation rules |
+| 2026-10-06 04:49:46 | [bose-connect](https://crates.io/crates/bose-connect) | 0.2.0 | 0 | Rust library and CLI for controlling Bose Bluetooth headphones over RFCOMM (Bos… |
+| 2026-10-06 04:50:15 | [neura-plan](https://crates.io/crates/neura-plan) | 0.5.0 | 0 | Graph lowering, wave scheduling and device plan encoding |
+| 2026-10-06 04:51:04 | [cratefield-tables-api](https://crates.io/crates/cratefield-tables-api) | 0.1.0 | 0 | The HTTP API over a venture's declared tables: who may reach which rows, and th… |
+| 2026-10-06 04:51:48 | [miden-note-schema](https://crates.io/crates/miden-note-schema) | 0.15.0 | 0 | Host-side reader and codec registry for Miden note storage schemas |
+| 2026-10-06 04:53:01 | [miden-note-schema-codegen](https://crates.io/crates/miden-note-schema-codegen) | 0.15.0 | 0 | Rust code generator for Miden note storage schemas |
+| 2026-10-06 04:54:39 | [miden-note-codec-macros](https://crates.io/crates/miden-note-codec-macros) | 0.15.0 | 0 | Procedural macros for author-side Miden note codecs |
+| 2026-10-06 04:56:11 | [miden-note-codec](https://crates.io/crates/miden-note-codec) | 0.15.0 | 0 | Author-side codecs for typed Miden note storage |
+| 2026-10-06 04:57:06 | [miden-note-bindings-macros](https://crates.io/crates/miden-note-bindings-macros) | 0.15.0 | 0 | Procedural macros for typed Miden note storage bindings |
+| 2026-10-06 04:57:56 | [miden-note-bindings](https://crates.io/crates/miden-note-bindings) | 0.15.0 | 0 | Typed host bindings for Miden note storage schemas |
+| 2026-10-06 04:59:04 | [parkring](https://crates.io/crates/parkring) | 0.4.0 | 0 | Bounded MPMC queues (Vyukov and SCQ), a Chase-Lev work-stealing deque and a wor… |
+| 2026-10-06 05:07:28 | [colonizer-redact](https://crates.io/crates/colonizer-redact) | 0.2.8 | 0 | Secret redaction for Colonizer logs, shared by the harness and its observabilit… |
+| 2026-10-06 05:16:52 | [fbui-platform](https://crates.io/crates/fbui-platform) | 0.3.0 | 0 | fbui platform layer: a display-server-free foundation for Linux framebuffer UIs… |
+| 2026-10-06 05:16:53 | [fbui-testkit](https://crates.io/crates/fbui-testkit) | 0.3.0 | 0 | fbui test harness: golden-image snapshot assertions for the software renderer.… |
+| 2026-10-06 05:16:55 | [fbui-render](https://crates.io/crates/fbui-render) | 0.3.0 | 0 | fbui rendering layer: a headless, CPU software renderer for Linux framebuffer U… |
+| 2026-10-06 05:16:57 | [fbui-widgets](https://crates.io/crates/fbui-widgets) | 0.3.0 | 0 | fbui widget toolkit: a retained widget tree with an Elm-ish update(msg) -> stat… |
+| 2026-10-06 05:16:59 | [fbui](https://crates.io/crates/fbui) | 0.3.0 | 0 | fbui: a framework for building UIs that draw straight to the Linux framebuffer/… |
 
 ## Data source
 
