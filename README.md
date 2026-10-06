@@ -8,34 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 06:19 UTC
+## Latest list — 2026-10-06 07:20 UTC
 
-New crates published between 2026-10-06 05:18 UTC and 2026-10-06 06:19 UTC.
+New crates published between 2026-10-06 06:19 UTC and 2026-10-06 07:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-06T06-19-25-052836Z.csv)
+[Full CSV](data/new-crates-2026-10-06T07-20-15-205223Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 05:27:35 | [nerpa-transport](https://crates.io/crates/nerpa-transport) | 0.3.0 | 0 | Carrying the wire to a machine, and knowing nothing about what it says |
-| 2026-10-06 05:27:44 | [nerpa-provider-os](https://crates.io/crates/nerpa-provider-os) | 0.3.0 | 0 | Files and directories on the machine Nerpa is running on |
-| 2026-10-06 05:28:22 | [nerpa](https://crates.io/crates/nerpa) | 0.3.0 | 0 | The nerpa command |
-| 2026-10-06 05:28:32 | [wx-rust-store](https://crates.io/crates/wx-rust-store) | 0.1.5 | 0 | WxRust 微信小店模块（对应 weixin-java-store） |
-| 2026-10-06 05:34:57 | [gpui-fast-windows](https://crates.io/crates/gpui-fast-windows) | 0.1.0 | 0 | gpui_windows: GPUI with gpui-fast rendering and layout optimizations |
-| 2026-10-06 05:35:00 | [gpui-fast-web](https://crates.io/crates/gpui-fast-web) | 0.1.0 | 0 | gpui_web: GPUI with gpui-fast rendering and layout optimizations |
-| 2026-10-06 05:35:20 | [datafmts_derive](https://crates.io/crates/datafmts_derive) | 0.1.1 | 0 | derive macros for datafmts core (host-side only) |
-| 2026-10-06 05:35:47 | [gpui-fast-platform](https://crates.io/crates/gpui-fast-platform) | 0.1.0 | 0 | gpui_platform: GPUI with gpui-fast rendering and layout optimizations |
-| 2026-10-06 05:36:22 | [datafmts](https://crates.io/crates/datafmts) | 0.1.1 | 0 | modular no_std library for serializing/deserializing multiple file format |
-| 2026-10-06 05:48:47 | [lsty-core](https://crates.io/crates/lsty-core) | 0.0.1 | 0 | The todo list model, file I/O and operations of lsty (placeholder release) |
-| 2026-10-06 05:48:50 | [lsty-cli](https://crates.io/crates/lsty-cli) | 0.0.1 | 0 | The command line of lsty: arguments, commands and output (placeholder release) |
-| 2026-10-06 05:48:52 | [lsty-tui](https://crates.io/crates/lsty-tui) | 0.0.1 | 0 | The terminal interface of lsty (placeholder release) |
-| 2026-10-06 05:49:02 | [sim-doctor](https://crates.io/crates/sim-doctor) | 0.1.0 | 0 | CLI-first SIM/UICC/eUICC security testing tool: scans a card over PC/SC and rep… |
-| 2026-10-06 05:49:08 | [android-doctor](https://crates.io/crates/android-doctor) | 0.1.0 | 0 | Extract and audit Android OTA and firmware images (payload.bin, super.img, ext4… |
-| 2026-10-06 05:58:02 | [fragment-donor-sdk](https://crates.io/crates/fragment-donor-sdk) | 0.1.0 | 0 | Independent server-side no-service-auth Fragment Donor API SDK |
-| 2026-10-06 06:03:23 | [libmold](https://crates.io/crates/libmold) | 0.0.0 | 0 | Reserved for the library version of the mold linker |
-| 2026-10-06 06:03:54 | [keygrant](https://crates.io/crates/keygrant) | 0.1.0 | 0 | KeyGrant licensing for Tauri and native Rust desktop apps: signed leases verifi… |
-| 2026-10-06 06:09:04 | [decision-clef](https://crates.io/crates/decision-clef) | 0.1.0 | 0 | Cloudflare Clef adapter for decision-core |
-| 2026-10-06 06:11:44 | [diffr-grammars](https://crates.io/crates/diffr-grammars) | 0.1.12 | 0 | Tree-sitter grammars for diffr, with their largest parse tables stored compress… |
-| 2026-10-06 06:11:47 | [diffr-core](https://crates.io/crates/diffr-core) | 0.1.12 | 0 | The diffr engine: parsing, structural diffing, configuration and the plugin cur… |
+| 2026-10-06 06:21:49 | [ecat-data-mssql](https://crates.io/crates/ecat-data-mssql) | 4.0.0 | 0 | Microsoft SQL Server client for e-cat (tiberius-ng + deadpool) |
+| 2026-10-06 06:22:25 | [bb-flasher-dfu](https://crates.io/crates/bb-flasher-dfu) | 0.1.0 | 0 | A library to flash BeagleBoard devices over USB DFU |
+| 2026-10-06 06:28:20 | [aveon](https://crates.io/crates/aveon) | 0.0.1 | 0 | Work in progress |
+| 2026-10-06 06:31:42 | [verge-core](https://crates.io/crates/verge-core) | 0.3.0 | 0 | Engine of the Verge versioned database: storage, commit graph, query, merge |
+| 2026-10-06 06:32:32 | [decision-openai-decisions](https://crates.io/crates/decision-openai-decisions) | 0.1.0 | 0 | OpenAI Decisions API adapter for decision-core |
+| 2026-10-06 06:32:46 | [hashtree-client](https://crates.io/crates/hashtree-client) | 0.1.2 | 0 | Verified Hashtree reads through a local daemon or standalone Nostr and Blossom… |
+| 2026-10-06 06:58:04 | [emu198x-esp-at-modem](https://crates.io/crates/emu198x-esp-at-modem) | 0.27.0 | 0 | Cycle-accurate ESP-AT WiFi modem on a bit-banged 8N1 serial line, for 8-bit emu… |
+| 2026-10-06 07:07:51 | [preset-math](https://crates.io/crates/preset-math) | 0.1.0 | 0 | Value shaping for the preset.nz desktop apps: fit, lerp, smooth, bias, gain and… |
+| 2026-10-06 07:07:55 | [grannom-core](https://crates.io/crates/grannom-core) | 0.0.0-reserved | 0 | Name reservation for grannom-core, the nervous kernel: envelope, policy, idempo… |
+| 2026-10-06 07:08:05 | [grannom-card](https://crates.io/crates/grannom-card) | 0.0.0-reserved | 0 | Name reservation for grannom-card, the card schema and parser (frontmatter, sec… |
+| 2026-10-06 07:08:13 | [grannom-eye](https://crates.io/crates/grannom-eye) | 0.0.0-reserved | 0 | Name reservation for grannom-eye, the lens that detects defects in AI-written c… |
+| 2026-10-06 07:08:16 | [tableflow-core](https://crates.io/crates/tableflow-core) | 0.1.1 | 0 | Core data model (FormPack, Version, Section, Field, Submission) for tableflow. |
+| 2026-10-06 07:08:19 | [tableflow-schema](https://crates.io/crates/tableflow-schema) | 0.1.1 | 0 | Field type system: format submission values into export cells for tableflow. |
+| 2026-10-06 07:08:21 | [tableflow-export](https://crates.io/crates/tableflow-export) | 0.1.1 | 0 | Export engine: field canvas, repeat flattening, translations and serialization… |
+| 2026-10-06 07:08:23 | [grannom-tree](https://crates.io/crates/grannom-tree) | 0.0.0-reserved | 0 | Name reservation for grannom-tree, the goal-tree state organ: append-only event… |
+| 2026-10-06 07:08:24 | [tableflow-xlsx](https://crates.io/crates/tableflow-xlsx) | 0.1.1 | 0 | XLSX serializer for tableflow: one worksheet per exported table. |
+| 2026-10-06 07:08:26 | [tableflow-geojson](https://crates.io/crates/tableflow-geojson) | 0.1.1 | 0 | GeoJSON serializer for tableflow: geo responses to a FeatureCollection. |
+| 2026-10-06 07:08:33 | [grannom-warden](https://crates.io/crates/grannom-warden) | 0.0.0-reserved | 0 | Name reservation for grannom-warden, the law engine that judges each agent tool… |
+| 2026-10-06 07:10:01 | [rhizome-core](https://crates.io/crates/rhizome-core) | 0.1.4 | 0 | The node API the preset.nz desktop apps share: paths, node types, values, refer… |
+| 2026-10-06 07:10:05 | [rhizome-pom](https://crates.io/crates/rhizome-pom) | 0.1.4 | 0 | POM, the Preset Object Model: the app-unaware base every app's object model is… |
+| 2026-10-06 07:10:07 | [rhizome-pom-tauri](https://crates.io/crates/rhizome-pom-tauri) | 0.1.4 | 0 | POM over Tauri: one open document as app-level commands and events, and the ope… |
+| 2026-10-06 07:13:20 | [typed-kalman](https://crates.io/crates/typed-kalman) | 0.1.0 | 0 | Type-safe, no_std Kalman filters: KF, EKF, UKF and smoothers |
+| 2026-10-06 07:13:46 | [grannom-organs](https://crates.io/crates/grannom-organs) | 0.0.0-reserved | 0 | Name reservation for grannom-organs, the self-heal, self-test and self-undo org… |
 
 ## Data source
 

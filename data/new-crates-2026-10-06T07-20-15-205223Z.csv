@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T06:21:49.033447Z,ecat-data-mssql,4.0.0,0,0,https://github.com/erikwang2013/e-cat,Microsoft SQL Server client for e-cat (tiberius-ng + deadpool)
+2026-10-06T06:22:25.660977Z,bb-flasher-dfu,0.1.0,0,0,https://github.com/beagleboard/bb-imager-rs,A library to flash BeagleBoard devices over USB DFU
+2026-10-06T06:28:20.529531Z,aveon,0.0.1,0,0,,Work in progress
+2026-10-06T06:31:42.181909Z,verge-core,0.3.0,0,0,https://github.com/Miruameli/verge,"Engine of the Verge versioned database: storage, commit graph, query, merge"
+2026-10-06T06:32:32.299858Z,decision-openai-decisions,0.1.0,0,0,https://github.com/holon-run/holon,OpenAI Decisions API adapter for decision-core
+2026-10-06T06:32:46.833339Z,hashtree-client,0.1.2,0,0,https://git.iris.to/#/npub1xdhnr9mrv47kkrn95k6cwecearydeh8e895990n3acntwvmgk2dsdeeycm/hashtree,Verified Hashtree reads through a local daemon or standalone Nostr and Blossom clients
+2026-10-06T06:58:04.680357Z,emu198x-esp-at-modem,0.27.0,0,0,https://github.com/emu198x/emu198x,"Cycle-accurate ESP-AT WiFi modem on a bit-banged 8N1 serial line, for 8-bit emulators"
+2026-10-06T07:07:51.368962Z,preset-math,0.1.0,0,0,https://github.com/preset-nz/math,"Value shaping for the preset.nz desktop apps: fit, lerp, smooth, bias, gain and one curve that evaluates identically in Rust and TypeScript."
+2026-10-06T07:07:55.423404Z,grannom-core,0.0.0-reserved,0,0,https://github.com/grannom/grannom,"Name reservation for grannom-core, the nervous kernel: envelope, policy, idempotency, ledger. Part of Grannom (formerly caddis), a conscience for coding agents. The real crate ships with grannom 0.4.…"
+2026-10-06T07:08:05.099584Z,grannom-card,0.0.0-reserved,0,0,https://github.com/grannom/grannom,"Name reservation for grannom-card, the card schema and parser (frontmatter, sections, anchors). Part of Grannom (formerly caddis), a conscience for coding agents. The real crate ships with grannom 0.…"
+2026-10-06T07:08:13.994369Z,grannom-eye,0.0.0-reserved,0,0,https://github.com/grannom/grannom,"Name reservation for grannom-eye, the lens that detects defects in AI-written code and reports them. Part of Grannom (formerly caddis), a conscience for coding agents. The real crate ships with grann…"
+2026-10-06T07:08:16.883187Z,tableflow-core,0.1.1,0,0,https://github.com/horacioskrp/tableflow,"Core data model (FormPack, Version, Section, Field, Submission) for tableflow."
+2026-10-06T07:08:19.1178Z,tableflow-schema,0.1.1,0,0,https://github.com/horacioskrp/tableflow,Field type system: format submission values into export cells for tableflow.
+2026-10-06T07:08:21.614008Z,tableflow-export,0.1.1,0,0,https://github.com/horacioskrp/tableflow,"Export engine: field canvas, repeat flattening, translations and serialization for tableflow."
+2026-10-06T07:08:23.219515Z,grannom-tree,0.0.0-reserved,0,0,https://github.com/grannom/grannom,"Name reservation for grannom-tree, the goal-tree state organ: append-only event log, walker, plan gates. Part of Grannom (formerly caddis), a conscience for coding agents. The real crate ships with g…"
+2026-10-06T07:08:24.589188Z,tableflow-xlsx,0.1.1,0,0,https://github.com/horacioskrp/tableflow,XLSX serializer for tableflow: one worksheet per exported table.
+2026-10-06T07:08:26.491497Z,tableflow-geojson,0.1.1,0,0,https://github.com/horacioskrp/tableflow,GeoJSON serializer for tableflow: geo responses to a FeatureCollection.
+2026-10-06T07:08:33.185485Z,grannom-warden,0.0.0-reserved,0,0,https://github.com/grannom/grannom,"Name reservation for grannom-warden, the law engine that judges each agent tool call (allow, steer, deny). Part of Grannom (formerly caddis), a conscience for coding agents. The real crate ships with…"
+2026-10-06T07:10:01.862831Z,rhizome-core,0.1.4,0,0,https://github.com/preset-nz/rhizome,"The node API the preset.nz desktop apps share: paths, node types, values, references, groups, bindings, orders, edits with undo, diff and a file format."
+2026-10-06T07:10:05.228609Z,rhizome-pom,0.1.4,0,0,https://github.com/preset-nz/rhizome,"POM, the Preset Object Model: the app-unaware base every app's object model is built on. Documents, kinds and their policy, presets, commands, projections."
+2026-10-06T07:10:07.559828Z,rhizome-pom-tauri,0.1.4,0,0,https://github.com/preset-nz/rhizome,"POM over Tauri: one open document as app-level commands and events, and the opened-from-Finder hand-off. Commands only; the webview never writes the tree."
+2026-10-06T07:13:20.933802Z,typed-kalman,0.1.0,0,0,https://github.com/joslo2345/typed-kalman,"Type-safe, no_std Kalman filters: KF, EKF, UKF and smoothers"
+2026-10-06T07:13:46.640157Z,grannom-organs,0.0.0-reserved,0,0,https://github.com/grannom/grannom,"Name reservation for grannom-organs, the self-heal, self-test and self-undo organs. Part of Grannom (formerly caddis), a conscience for coding agents. The real crate ships with grannom 0.4.0; this st…"
