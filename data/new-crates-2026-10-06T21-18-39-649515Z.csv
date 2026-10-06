@@ -1,0 +1,14 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T20:21:01.716445Z,h5i-app-std,0.1.1,0,0,https://github.com/h5i-dev/h5i,"Byte strings, sets and maps for h5i-app kernels, extracted to Lean and proven"
+2026-10-06T20:24:48.643574Z,primitive_operators_macros,0.1.0,0,0,https://github.com/AshrafIbrahim03/primitive-operators-macros,Operator macros for constraining arbitrary types.
+2026-10-06T20:25:33.698772Z,embedded-fsm,0.2.0,0,0,https://github.com/jorge-andre-castro/embedded-fsm,"Machine à états finis (FSM) synchrone, ultra-légère et sans allocation (no_std) pour systèmes embarqués."
+2026-10-06T20:27:28.488348Z,probl-cli,0.1.0,0,0,https://github.com/garlab/probl,The probl command-line tool
+2026-10-06T20:28:28.084181Z,primitive_operators,0.1.0,0,0,https://github.com/AshrafIbrahim03/primitive-operators,Operators for constraining arbitrary types.
+2026-10-06T20:35:04.955997Z,sigma-dock-mcp,0.1.0,0,0,https://github.com/SigmaUno/sigma-dock,Project-scoped local MCP tools for SigmaDock
+2026-10-06T20:35:05.413179Z,sigma-dock-pty,0.1.0,0,0,https://github.com/SigmaUno/sigma-dock,Persistent local PTY sessions and replay for SigmaDock
+2026-10-06T20:45:06.524419Z,sigma-dock-store,0.1.0,0,0,https://github.com/SigmaUno/sigma-dock,SQLite metadata and planning notes for SigmaDock
+2026-10-06T20:49:18.574965Z,nsis-plugin,0.1.0,0,0,https://github.com/idleberg/nsis-plugin,"Write NSIS plug-ins in Rust, correct across every NSIS build variant"
+2026-10-06T20:54:54.553022Z,sigma-dock-ui,0.1.0,0,0,https://github.com/SigmaUno/sigma-dock,Native GPUI workspace for supervising local coding agents
+2026-10-06T21:04:48.187794Z,sigma-dockerd,0.1.0,0,0,https://github.com/SigmaUno/sigma-dock,Local supervisor daemon for SigmaDock coding agents
+2026-10-06T21:10:34.23933Z,atif-arrow,0.1.0,0,0,https://github.com/dentiny/atif-arrow,An Arrow schema and conversion library for ATIF agent trajectories
+2026-10-06T21:12:27.26149Z,mido-guard,0.1.0,0,0,,Guardrails runner: the six-gate verification ladder described by .mido.toml

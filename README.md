@@ -8,40 +8,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 20:18 UTC
+## Latest list — 2026-10-06 21:18 UTC
 
-New crates published between 2026-10-06 19:20 UTC and 2026-10-06 20:18 UTC.
+New crates published between 2026-10-06 20:18 UTC and 2026-10-06 21:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-06T20-18-55-13331Z.csv)
+[Full CSV](data/new-crates-2026-10-06T21-18-39-649515Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 19:25:01 | [iterable_assertions](https://crates.io/crates/iterable_assertions) | 0.1.0 | 0 | Assertions for iterable collections |
-| 2026-10-06 19:40:39 | [functora-core](https://crates.io/crates/functora-core) | 0.1.0 | 0 | Pure Rust core logic: crypto, archives, encoding, i18n, and utilities. |
-| 2026-10-06 19:48:35 | [meteroid](https://crates.io/crates/meteroid) | 0.0.1 | 0 | Meteroid, open-source billing and pricing infrastructure. The Rust SDK is publi… |
-| 2026-10-06 19:49:29 | [nix-manager-core](https://crates.io/crates/nix-manager-core) | 0.3.0 | 0 | Support library for manager-flake Rust projects: ui, exec, repo, age, forge, he… |
-| 2026-10-06 19:51:42 | [functora-egui](https://crates.io/crates/functora-egui) | 0.1.0 | 0 | shadcn/ui-inspired widget library for egui - buttons, inputs, selects, dialogs,… |
-| 2026-10-06 19:52:49 | [functora-egui-winit](https://crates.io/crates/functora-egui-winit) | 0.36.2 | 0 | Bindings for using egui with winit (functora fork with Android IME fix) |
-| 2026-10-06 19:59:02 | [pethost](https://crates.io/crates/pethost) | 0.0.0 | 0 | Client for the API of Pethost, managed hosting for Docker Compose projects: dep… |
-| 2026-10-06 20:00:59 | [macro-schema-core](https://crates.io/crates/macro-schema-core) | 0.1.0 | 0 | The implementation of macro-schema over proc_macro2, testable without the compi… |
-| 2026-10-06 20:01:09 | [llvm-amdgpu-types](https://crates.io/crates/llvm-amdgpu-types) | 0.1.1 | 0 | Typed AMDGPU instruction families generated from LLVM TableGen |
-| 2026-10-06 20:01:22 | [macro-schema-derive](https://crates.io/crates/macro-schema-derive) | 0.1.0 | 0 | Procedural macro entry points for macro-schema; the logic lives in macro-schema… |
-| 2026-10-06 20:01:39 | [macro-schema](https://crates.io/crates/macro-schema) | 0.1.0 | 0 | Define Rust declaration macros from a schema, which sets their syntax, and a te… |
-| 2026-10-06 20:04:39 | [sigma-dock-core](https://crates.io/crates/sigma-dock-core) | 0.1.0 | 0 | Domain model and local IPC for SigmaDock agent workspaces |
-| 2026-10-06 20:04:40 | [sigma-dock-ports](https://crates.io/crates/sigma-dock-ports) | 0.1.0 | 0 | Local development port leases for SigmaDock workers |
-| 2026-10-06 20:04:40 | [sigma-dock-agents](https://crates.io/crates/sigma-dock-agents) | 0.1.0 | 0 | CLI harness adapters and MCP configuration for SigmaDock |
-| 2026-10-06 20:04:40 | [sigma-dock-cli](https://crates.io/crates/sigma-dock-cli) | 0.1.0 | 0 | Command-line client for the SigmaDock local daemon |
-| 2026-10-06 20:04:41 | [sigma-dock-forge](https://crates.io/crates/sigma-dock-forge) | 0.1.0 | 0 | GitHub and Forgejo facts and feedback for SigmaDock |
-| 2026-10-06 20:06:47 | [rmcp-apps](https://crates.io/crates/rmcp-apps) | 0.1.0 | 0 | Typed MCP Apps extension (io.modelcontextprotocol/ui, 2026-01-26) over rmcp |
-| 2026-10-06 20:08:18 | [huskarl-axum](https://crates.io/crates/huskarl-axum) | 0.1.0 | 0 | Axum middleware and extractors for the huskarl OAuth2 ecosystem. |
-| 2026-10-06 20:15:03 | [probl-number](https://crates.io/crates/probl-number) | 0.1.0 | 0 | Internal to Probl, with no stable API: exact integers shared by its syntax and… |
-| 2026-10-06 20:15:05 | [probl-syntax](https://crates.io/crates/probl-syntax) | 0.1.0 | 0 | Internal to Probl, with no stable API: its lexer, parser, AST and diagnostics.… |
-| 2026-10-06 20:15:08 | [probl-sema](https://crates.io/crates/probl-sema) | 0.1.0 | 0 | Internal to Probl, with no stable API: name resolution, lowering to IR and live… |
-| 2026-10-06 20:15:10 | [probl-engine](https://crates.io/crates/probl-engine) | 0.1.0 | 0 | Internal to Probl, with no stable API: values, distributions and the world-set… |
-| 2026-10-06 20:15:12 | [probl](https://crates.io/crates/probl) | 0.1.0 | 0 | Compile and run Probl programs from Rust: a language where conditions are proba… |
-| 2026-10-06 20:15:26 | [sigma-dock-git](https://crates.io/crates/sigma-dock-git) | 0.1.0 | 0 | Safe isolated git worktrees for SigmaDock workers |
-| 2026-10-06 20:16:34 | [ecat-orm](https://crates.io/crates/ecat-orm) | 4.1.0 | 0 | ORM for e-cat: entity derive, query builder, migrations |
-| 2026-10-06 20:17:22 | [valkey-glide](https://crates.io/crates/valkey-glide) | 0.1.0 | 0 | Valkey GLIDE — native Rust client for Valkey and Redis OSS, built on glide-core. |
+| 2026-10-06 20:21:01 | [h5i-app-std](https://crates.io/crates/h5i-app-std) | 0.1.1 | 0 | Byte strings, sets and maps for h5i-app kernels, extracted to Lean and proven |
+| 2026-10-06 20:24:48 | [primitive_operators_macros](https://crates.io/crates/primitive_operators_macros) | 0.1.0 | 0 | Operator macros for constraining arbitrary types. |
+| 2026-10-06 20:25:33 | [embedded-fsm](https://crates.io/crates/embedded-fsm) | 0.2.0 | 0 | Machine à états finis (FSM) synchrone, ultra-légère et sans allocation (no_std)… |
+| 2026-10-06 20:27:28 | [probl-cli](https://crates.io/crates/probl-cli) | 0.1.0 | 0 | The probl command-line tool |
+| 2026-10-06 20:28:28 | [primitive_operators](https://crates.io/crates/primitive_operators) | 0.1.0 | 0 | Operators for constraining arbitrary types. |
+| 2026-10-06 20:35:04 | [sigma-dock-mcp](https://crates.io/crates/sigma-dock-mcp) | 0.1.0 | 0 | Project-scoped local MCP tools for SigmaDock |
+| 2026-10-06 20:35:05 | [sigma-dock-pty](https://crates.io/crates/sigma-dock-pty) | 0.1.0 | 0 | Persistent local PTY sessions and replay for SigmaDock |
+| 2026-10-06 20:45:06 | [sigma-dock-store](https://crates.io/crates/sigma-dock-store) | 0.1.0 | 0 | SQLite metadata and planning notes for SigmaDock |
+| 2026-10-06 20:49:18 | [nsis-plugin](https://crates.io/crates/nsis-plugin) | 0.1.0 | 0 | Write NSIS plug-ins in Rust, correct across every NSIS build variant |
+| 2026-10-06 20:54:54 | [sigma-dock-ui](https://crates.io/crates/sigma-dock-ui) | 0.1.0 | 0 | Native GPUI workspace for supervising local coding agents |
+| 2026-10-06 21:04:48 | [sigma-dockerd](https://crates.io/crates/sigma-dockerd) | 0.1.0 | 0 | Local supervisor daemon for SigmaDock coding agents |
+| 2026-10-06 21:10:34 | [atif-arrow](https://crates.io/crates/atif-arrow) | 0.1.0 | 0 | An Arrow schema and conversion library for ATIF agent trajectories |
+| 2026-10-06 21:12:27 | [mido-guard](https://crates.io/crates/mido-guard) | 0.1.0 | 0 | Guardrails runner: the six-gate verification ladder described by .mido.toml |
 
 ## Data source
 
