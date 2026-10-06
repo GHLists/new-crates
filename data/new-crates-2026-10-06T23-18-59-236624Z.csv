@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T22:20:06.111322Z,jackdaw_snap,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Engine-agnostic snapping math for the jackdaw editor
+2026-10-06T22:20:22.499475Z,tauri-plugin-display-manager,2.0.0,0,0,https://github.com/Vasak-OS/tauri-plugin-display-manager,"A Tauri plugin for per-monitor brightness (backlight through sysfs and logind, external screens through DDC/CI) and night light settings on Linux."
+2026-10-06T22:26:41.448585Z,fx2la,0.1.0,0,0,https://github.com/kevinmehall/nusb-fx2la,Driver for FX2-based fx2lafw logic analyzers with nusb
+2026-10-06T22:30:16.345172Z,jackdaw_widgets_runtime,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Load-time defaults and value behaviour for authored Bevy UI widgets
+2026-10-06T22:40:36.379047Z,adya,0.1.0,0,0,https://github.com/zaydmulani09/adya,"Black-box transactional isolation checker: finds G0, G1, G-single, G2 and friends in database histories. A native, JVM-free take on Jepsen's Elle."
+2026-10-06T22:40:46.828133Z,jackdaw_bsn,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Internal crate for the jackdaw editor
+2026-10-06T22:45:08.603532Z,taconite-embeddinggemma2,0.1.0,0,0,https://github.com/Brishen/taconite,EmbeddingGemma 2 image embeddings on an AMD XDNA NPU: IRON kernels replayed through XRT or directly through the amdxdna driver
+2026-10-06T22:48:03.270226Z,tauri-plugin-power-profiles,2.0.0,0,0,https://github.com/Vasak-OS/tauri-plugin-power-profiles,A Tauri plugin to read and change the power profile (power-profiles-daemon) over D-Bus on Linux.
+2026-10-06T22:49:27.41353Z,lumia,0.0.0,0,0,,Batteries-included REST API framework for Rust.
+2026-10-06T22:51:10.886796Z,jackdaw_hull,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,"Engine-agnostic convex-hull math (triangle merging, brush rebuild, planar hull) for the jackdaw editor"
+2026-10-06T22:53:43.65424Z,fileroom,0.1.0,0,0,https://github.com/excelano/fileroom,"Read and verify records under the Slipcase Records Profile: records, hold matters, aggregations, the disposition register, and the retention schedule"
+2026-10-06T22:56:18.923952Z,slipcase-query,0.3.0,0,0,https://github.com/excelano/slipcase-query,Query a directory of Slipcase containers by their flyleaf and look at what comes back
+2026-10-06T22:59:31.91019Z,jackdaw_mcp,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Model Context Protocol server for driving the Jackdaw editor
+2026-10-06T22:59:43.033963Z,trusty-secrets,0.1.0,0,0,https://github.com/bobmatnyc/trusty-tools,"Project- and owner-scoped secret storage for the trusty-* tools: key, scope and reference types, a names-only index, and an OS Keychain backend (DOC-74 §15)."
+2026-10-06T23:00:01.848405Z,wiki-reader-core,0.1.11,0,0,https://github.com/luckgrid/wiki-reader,"Terminal-free index, nav, and content core for wiki-reader"
+2026-10-06T23:00:04.103973Z,wiki-reader-media,0.1.11,0,0,https://github.com/luckgrid/wiki-reader,Image decode and Mermaid/SVG rasterisation for wiki-reader
+2026-10-06T23:00:06.36186Z,wiki-reader-render,0.1.11,0,0,https://github.com/luckgrid/wiki-reader,Markdown to RenderedDoc for wiki-reader
+2026-10-06T23:00:08.423278Z,wiki-reader-tui,0.1.11,0,0,https://github.com/luckgrid/wiki-reader,Terminal wiki reader for markdown collections
+2026-10-06T23:03:27.57176Z,sudo-agent,0.1.0,0,0,https://github.com/juusolatva/sudo-agent,"A lightweight, PAM-aware SSH agent daemon for time-bound sudo authentication."
+2026-10-06T23:05:00.867497Z,ballista-api-types,55.0.0,0,0,https://github.com/apache/datafusion-ballista,Wire types for the Ballista scheduler REST API
+2026-10-06T23:05:20.961148Z,ballista-history,55.0.0,0,0,https://github.com/apache/datafusion-ballista,"Event-log schema, writer, and reader for the Ballista history server"
+2026-10-06T23:05:57.850304Z,clearhead,0.3.1,0,0,https://github.com/ClearHeadToDo-Devs/clearhead-core,A CLI tool and library for working with the clearhead framework
+2026-10-06T23:08:46.364313Z,ballista-flight-sql,55.0.0,0,0,https://github.com/apache/datafusion-ballista,Ballista Distributed Compute - Arrow Flight SQL frontend
+2026-10-06T23:09:35.010558Z,varynth,0.1.0,0,0,https://github.com/ZuziaDev/varynth,Varynth CLI — OpenClaw-style coding agent with a local dashboard
+2026-10-06T23:09:50.834414Z,jackdaw_pick,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,"Engine-agnostic picking queries (ray-vs-face, point-in-polygon) for the jackdaw editor"
+2026-10-06T23:10:17.139681Z,gpui-query-http,0.1.0,0,0,https://github.com/freeoxide/gpui-query,HTTP cache-header helpers for gpui-query (server-wins CachePolicy + HttpCache)
+2026-10-06T23:12:10.11109Z,gpui-query-persist,0.1.0,0,0,https://github.com/freeoxide/gpui-query,Reference disk-based persistence adapter (FilePersister) for gpui-query
+2026-10-06T23:16:07.309476Z,rs-floats2tdigest,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-floats2tdigest,CLI for computing t-digest from floats.

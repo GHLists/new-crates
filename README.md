@@ -8,45 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 22:18 UTC
+## Latest list — 2026-10-06 23:18 UTC
 
-New crates published between 2026-10-06 21:18 UTC and 2026-10-06 22:18 UTC.
+New crates published between 2026-10-06 22:18 UTC and 2026-10-06 23:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-06T22-18-55-319179Z.csv)
+[Full CSV](data/new-crates-2026-10-06T23-18-59-236624Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 21:23:25 | [waytime](https://crates.io/crates/waytime) | 0.2.0 | 0 | Lightweight screen time and application usage tracker for Wayland |
-| 2026-10-06 21:27:36 | [tank-clickhouse](https://crates.io/crates/tank-clickhouse) | 0.44.0 | 0 | ClickHouse driver implementation for Tank: the Rust data layer |
-| 2026-10-06 21:28:13 | [tank-chdb](https://crates.io/crates/tank-chdb) | 0.44.0 | 0 | chDB driver implementation for Tank: the Rust data layer |
-| 2026-10-06 21:34:31 | [kkhay](https://crates.io/crates/kkhay) | 1.0.0 | 0 | Official Rust SDK for K Khay Sovereign Crypto Payment Gateway |
-| 2026-10-06 21:36:35 | [tectonic-finality-grandpa](https://crates.io/crates/tectonic-finality-grandpa) | 0.16.3 | 0 | Tectonic-maintained GRANDPA finality gadget for blockchains |
-| 2026-10-06 21:39:23 | [cubefs](https://crates.io/crates/cubefs) | 0.1.1 | 0 | Content-addressed filesystem via KPACK recipes |
-| 2026-10-06 21:44:52 | [commutative_hasher](https://crates.io/crates/commutative_hasher) | 0.1.0 | 0 | Hashing function that supports processing data out-of-order |
-| 2026-10-06 21:57:16 | [openhub-bo-core](https://crates.io/crates/openhub-bo-core) | 0.1.0 | 0 | Sans-IO core for the Red Enlace (ATC) OpenHub payment APIs in Bolivia |
-| 2026-10-06 21:57:19 | [zunesha](https://crates.io/crates/zunesha) | 0.1.0 | 0 | Shared GPU device substrate — device, queues, and buffer allocation for the Ind… |
-| 2026-10-06 21:57:21 | [openhub-bo-qr](https://crates.io/crates/openhub-bo-qr) | 0.1.0 | 0 | QR Simple / QR MLD-BCB collections for the Red Enlace (ATC) OpenHub APIs |
-| 2026-10-06 21:57:23 | [openhub-bo-fx](https://crates.io/crates/openhub-bo-fx) | 0.1.0 | 0 | PIX, virtual-asset (Koibanx) and Binance QR collections for the Red Enlace (ATC… |
-| 2026-10-06 21:57:26 | [openhub-bo-accounts](https://crates.io/crates/openhub-bo-accounts) | 0.1.0 | 0 | Merchant accounts, balances and movements for the Red Enlace (ATC) OpenHub APIs |
-| 2026-10-06 21:57:29 | [inwere-catsay](https://crates.io/crates/inwere-catsay) | 0.1.1 | 0 | My Practical Rust Project chapter 1, follow through. |
-| 2026-10-06 21:57:29 | [openhub-bo-payouts](https://crates.io/crates/openhub-bo-payouts) | 0.1.0 | 0 | QR and ACH batch payouts for the Red Enlace (ATC) OpenHub APIs |
-| 2026-10-06 21:58:43 | [varyk-http](https://crates.io/crates/varyk-http) | 0.1.0 | 0 | The HTTP package for Varyk, a language for backend services that compiles to Ru… |
-| 2026-10-06 21:59:07 | [sylphx-build-lease](https://crates.io/crates/sylphx-build-lease) | 0.1.0 | 0 | Sylphx Build's build lease: the Sandboxes lease request of a build, waiting for… |
-| 2026-10-06 22:00:04 | [printcad-kernel-api](https://crates.io/crates/printcad-kernel-api) | 0.1.0 | 0 | printCAD's geometry interface: meshes, profiles and solid operations as plain d… |
-| 2026-10-06 22:00:12 | [printcad-bench-api](https://crates.io/crates/printcad-bench-api) | 0.1.0 | 0 | The data a printCAD workbench package and the app exchange, and the WIT world t… |
-| 2026-10-06 22:00:22 | [printcad-bench-sdk](https://crates.io/crates/printcad-bench-sdk) | 0.1.0 | 0 | Write printCAD workbenches as WebAssembly components |
-| 2026-10-06 22:05:21 | [bevy_window_chrome](https://crates.io/crates/bevy_window_chrome) | 0.19.0-rc.0 | 0 | Native-looking custom window chrome (borderless title bars, caption buttons, re… |
-| 2026-10-06 22:05:26 | [jackdaw_bind](https://crates.io/crates/jackdaw_bind) | 0.19.0-rc.0 | 0 | Declarative UI bindings on Bevy reflection |
-| 2026-10-06 22:05:36 | [jackdaw_env](https://crates.io/crates/jackdaw_env) | 0.19.0-rc.0 | 0 | Development environment functionality for Jackdaw |
-| 2026-10-06 22:05:46 | [jackdaw_localization](https://crates.io/crates/jackdaw_localization) | 0.19.0-rc.0 | 0 | Internal crate for Jackdaw localization |
-| 2026-10-06 22:05:49 | [jackdaw_material](https://crates.io/crates/jackdaw_material) | 0.19.0-rc.0 | 0 | Engine-agnostic PBR texture-set detection (filename grouping into material role… |
-| 2026-10-06 22:09:55 | [jackdaw_pie_protocol](https://crates.io/crates/jackdaw_pie_protocol) | 0.19.0-rc.0 | 0 | Transport-agnostic play-in-editor protocol for the Jackdaw 3D level editor |
-| 2026-10-06 22:10:49 | [robius-speech](https://crates.io/crates/robius-speech) | 0.3.1 | 0 | Native streaming speech-to-text input and microphone capture for Rust apps |
-| 2026-10-06 22:12:12 | [lingara-cli](https://crates.io/crates/lingara-cli) | 0.0.0 | 0 | The official Lingara command-line tool (under development). |
-| 2026-10-06 22:15:38 | [playastation](https://crates.io/crates/playastation) | 0.1.0 | 0 | A PlayStation emulator core written in Rust |
-| 2026-10-06 22:15:41 | [brain-db-sdk](https://crates.io/crates/brain-db-sdk) | 0.0.1 | 0 | Rust client SDK for the Brain memory database. Speaks Brain's BRN0 wire protoco… |
-| 2026-10-06 22:15:56 | [ximenes](https://crates.io/crates/ximenes) | 0.1.0 | 0 | Builds a themed 7x7 cryptic crossword from a seed, then explains every clue |
-| 2026-10-06 22:17:20 | [pages-cli](https://crates.io/crates/pages-cli) | 0.1.1 | 0 | Render Apple Pages documents in the terminal |
+| 2026-10-06 22:20:06 | [jackdaw_snap](https://crates.io/crates/jackdaw_snap) | 0.19.0-rc.0 | 0 | Engine-agnostic snapping math for the jackdaw editor |
+| 2026-10-06 22:20:22 | [tauri-plugin-display-manager](https://crates.io/crates/tauri-plugin-display-manager) | 2.0.0 | 0 | A Tauri plugin for per-monitor brightness (backlight through sysfs and logind,… |
+| 2026-10-06 22:26:41 | [fx2la](https://crates.io/crates/fx2la) | 0.1.0 | 0 | Driver for FX2-based fx2lafw logic analyzers with nusb |
+| 2026-10-06 22:30:16 | [jackdaw_widgets_runtime](https://crates.io/crates/jackdaw_widgets_runtime) | 0.19.0-rc.0 | 0 | Load-time defaults and value behaviour for authored Bevy UI widgets |
+| 2026-10-06 22:40:36 | [adya](https://crates.io/crates/adya) | 0.1.0 | 0 | Black-box transactional isolation checker: finds G0, G1, G-single, G2 and frien… |
+| 2026-10-06 22:40:46 | [jackdaw_bsn](https://crates.io/crates/jackdaw_bsn) | 0.19.0-rc.0 | 0 | Internal crate for the jackdaw editor |
+| 2026-10-06 22:45:08 | [taconite-embeddinggemma2](https://crates.io/crates/taconite-embeddinggemma2) | 0.1.0 | 0 | EmbeddingGemma 2 image embeddings on an AMD XDNA NPU: IRON kernels replayed thr… |
+| 2026-10-06 22:48:03 | [tauri-plugin-power-profiles](https://crates.io/crates/tauri-plugin-power-profiles) | 2.0.0 | 0 | A Tauri plugin to read and change the power profile (power-profiles-daemon) ove… |
+| 2026-10-06 22:49:27 | [lumia](https://crates.io/crates/lumia) | 0.0.0 | 0 | Batteries-included REST API framework for Rust. |
+| 2026-10-06 22:51:10 | [jackdaw_hull](https://crates.io/crates/jackdaw_hull) | 0.19.0-rc.0 | 0 | Engine-agnostic convex-hull math (triangle merging, brush rebuild, planar hull)… |
+| 2026-10-06 22:53:43 | [fileroom](https://crates.io/crates/fileroom) | 0.1.0 | 0 | Read and verify records under the Slipcase Records Profile: records, hold matte… |
+| 2026-10-06 22:56:18 | [slipcase-query](https://crates.io/crates/slipcase-query) | 0.3.0 | 0 | Query a directory of Slipcase containers by their flyleaf and look at what come… |
+| 2026-10-06 22:59:31 | [jackdaw_mcp](https://crates.io/crates/jackdaw_mcp) | 0.19.0-rc.0 | 0 | Model Context Protocol server for driving the Jackdaw editor |
+| 2026-10-06 22:59:43 | [trusty-secrets](https://crates.io/crates/trusty-secrets) | 0.1.0 | 0 | Project- and owner-scoped secret storage for the trusty-* tools: key, scope and… |
+| 2026-10-06 23:00:01 | [wiki-reader-core](https://crates.io/crates/wiki-reader-core) | 0.1.11 | 0 | Terminal-free index, nav, and content core for wiki-reader |
+| 2026-10-06 23:00:04 | [wiki-reader-media](https://crates.io/crates/wiki-reader-media) | 0.1.11 | 0 | Image decode and Mermaid/SVG rasterisation for wiki-reader |
+| 2026-10-06 23:00:06 | [wiki-reader-render](https://crates.io/crates/wiki-reader-render) | 0.1.11 | 0 | Markdown to RenderedDoc for wiki-reader |
+| 2026-10-06 23:00:08 | [wiki-reader-tui](https://crates.io/crates/wiki-reader-tui) | 0.1.11 | 0 | Terminal wiki reader for markdown collections |
+| 2026-10-06 23:03:27 | [sudo-agent](https://crates.io/crates/sudo-agent) | 0.1.0 | 0 | A lightweight, PAM-aware SSH agent daemon for time-bound sudo authentication. |
+| 2026-10-06 23:05:00 | [ballista-api-types](https://crates.io/crates/ballista-api-types) | 55.0.0 | 0 | Wire types for the Ballista scheduler REST API |
+| 2026-10-06 23:05:20 | [ballista-history](https://crates.io/crates/ballista-history) | 55.0.0 | 0 | Event-log schema, writer, and reader for the Ballista history server |
+| 2026-10-06 23:05:57 | [clearhead](https://crates.io/crates/clearhead) | 0.3.1 | 0 | A CLI tool and library for working with the clearhead framework |
+| 2026-10-06 23:08:46 | [ballista-flight-sql](https://crates.io/crates/ballista-flight-sql) | 55.0.0 | 0 | Ballista Distributed Compute - Arrow Flight SQL frontend |
+| 2026-10-06 23:09:35 | [varynth](https://crates.io/crates/varynth) | 0.1.0 | 0 | Varynth CLI — OpenClaw-style coding agent with a local dashboard |
+| 2026-10-06 23:09:50 | [jackdaw_pick](https://crates.io/crates/jackdaw_pick) | 0.19.0-rc.0 | 0 | Engine-agnostic picking queries (ray-vs-face, point-in-polygon) for the jackdaw… |
+| 2026-10-06 23:10:17 | [gpui-query-http](https://crates.io/crates/gpui-query-http) | 0.1.0 | 0 | HTTP cache-header helpers for gpui-query (server-wins CachePolicy + HttpCache) |
+| 2026-10-06 23:12:10 | [gpui-query-persist](https://crates.io/crates/gpui-query-persist) | 0.1.0 | 0 | Reference disk-based persistence adapter (FilePersister) for gpui-query |
+| 2026-10-06 23:16:07 | [rs-floats2tdigest](https://crates.io/crates/rs-floats2tdigest) | 0.1.0 | 0 | CLI for computing t-digest from floats. |
 
 ## Data source
 
