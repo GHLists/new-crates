@@ -1,0 +1,14 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T01:48:31.782346Z,tinytrader-dbn,0.1.0,0,0,,tinytrader's extensions to Databento's DBN format: records the official dbn crate doesn't define yet
+2026-10-06T01:48:36.500458Z,tinytrader,0.1.0,0,0,,"Simple tools for trading on financial markets, built on Databento's DBN format"
+2026-10-06T01:49:40.779312Z,moonseed,0.1.0,0,0,https://github.com/Tavrin/moonseed,"Deterministic, checkpointable Lua 5.4 runtime in safe Rust"
+2026-10-06T01:57:22.363824Z,tauri-brightness-core,0.1.0,0,0,https://github.com/marrionesa/tauri-plugin-brightness,"Cross-platform display brightness control: DDC/CI monitors, ddcutil and Linux backlight."
+2026-10-06T01:57:47.532564Z,tauri-plugin-brightness,0.1.0,0,0,https://github.com/marrionesa/tauri-plugin-brightness,Control display brightness from a Tauri application.
+2026-10-06T01:59:58.199585Z,teetra,0.0.1,0,0,,Official Teetra SDK (early release): get paid when AI uses your API.
+2026-10-06T02:00:25.611765Z,gbin,0.1.0,0,0,https://codeberg.org/Stack-Syndicate/gbin,A suite of Linux utilities and programs.
+2026-10-06T02:02:48.350727Z,rucc-legalize,0.24.5,0,0,https://github.com/tamnd/rucc,IR to IR rewrites into the operations that a back end has.
+2026-10-06T02:06:38.117717Z,rucc-wasm,0.24.5,0,0,https://github.com/tamnd/rucc,"The WebAssembly back end: selection, structured control flow and the object."
+2026-10-06T02:07:14.981817Z,xyz-rust-macros,0.4.3,0,0,https://github.com/ejfkdev/xyz-rust,Derive macros for xyz-rust（XyzArgs / XyzScalar / XyzOutput）
+2026-10-06T02:07:59.23386Z,xyz-rust,0.4.3,0,0,https://github.com/ejfkdev/xyz-rust,"One definition, three interfaces（CLI / HTTP / MCP）— a command toolkit for Rust"
+2026-10-06T02:09:05.712768Z,temperkb-mcp,0.6.0,0,0,https://github.com/tasker-systems/temper,"Temper's MCP tool layer: every temper knowledge-base tool, served by any host over a host-supplied identity"
+2026-10-06T02:14:54.690331Z,mutil-ai,0.3.0,0,0,https://github.com/QAQTam/mutil-ai,"A beginner-friendly, provider-neutral Rust AI SDK with a strict normalization layer."

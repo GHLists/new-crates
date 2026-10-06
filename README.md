@@ -8,21 +8,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 01:18 UTC
+## Latest list — 2026-10-06 02:18 UTC
 
-New crates published between 2026-10-06 00:18 UTC and 2026-10-06 01:18 UTC.
+New crates published between 2026-10-06 01:18 UTC and 2026-10-06 02:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-06T01-18-59-191106Z.csv)
+[Full CSV](data/new-crates-2026-10-06T02-18-43-089427Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 00:27:20 | [halley-ui](https://crates.io/crates/halley-ui) | 0.1.2 | 0 | Shared widgets, Taffy layout, text, and rendering for the Halley ecosystem |
-| 2026-10-06 00:32:25 | [nomba-rs](https://crates.io/crates/nomba-rs) | 0.2.0 | 0 | Unofficial Rust SDK for the Nomba payments API |
-| 2026-10-06 00:48:28 | [cadspec](https://crates.io/crates/cadspec) | 0.1.0-beta.4 | 0 | CAD as code — deterministic geometry engine for reproducible CAD drawings |
-| 2026-10-06 00:49:09 | [txstr-server](https://crates.io/crates/txstr-server) | 0.1.0 | 0 | personal (+ friends) self-hosted server companion to txstr |
-| 2026-10-06 00:49:17 | [txstr](https://crates.io/crates/txstr) | 0.1.0 | 0 | decentralised, minimalist microblogging for hackers |
-| 2026-10-06 00:49:29 | [dsp-spectral](https://crates.io/crates/dsp-spectral) | 0.1.0 | 0 | Spectral audio analysis and restoration — STFT/ISTFT, mel/MFCC features, spectr… |
-| 2026-10-06 01:08:33 | [voxgrid](https://crates.io/crates/voxgrid) | 0.1.0 | 0 | Voxel coordinate and bounding-box math with log-scaled voxel-tree addressing |
+| 2026-10-06 01:48:31 | [tinytrader-dbn](https://crates.io/crates/tinytrader-dbn) | 0.1.0 | 0 | tinytrader's extensions to Databento's DBN format: records the official dbn cra… |
+| 2026-10-06 01:48:36 | [tinytrader](https://crates.io/crates/tinytrader) | 0.1.0 | 0 | Simple tools for trading on financial markets, built on Databento's DBN format |
+| 2026-10-06 01:49:40 | [moonseed](https://crates.io/crates/moonseed) | 0.1.0 | 0 | Deterministic, checkpointable Lua 5.4 runtime in safe Rust |
+| 2026-10-06 01:57:22 | [tauri-brightness-core](https://crates.io/crates/tauri-brightness-core) | 0.1.0 | 0 | Cross-platform display brightness control: DDC/CI monitors, ddcutil and Linux b… |
+| 2026-10-06 01:57:47 | [tauri-plugin-brightness](https://crates.io/crates/tauri-plugin-brightness) | 0.1.0 | 0 | Control display brightness from a Tauri application. |
+| 2026-10-06 01:59:58 | [teetra](https://crates.io/crates/teetra) | 0.0.1 | 0 | Official Teetra SDK (early release): get paid when AI uses your API. |
+| 2026-10-06 02:00:25 | [gbin](https://crates.io/crates/gbin) | 0.1.0 | 0 | A suite of Linux utilities and programs. |
+| 2026-10-06 02:02:48 | [rucc-legalize](https://crates.io/crates/rucc-legalize) | 0.24.5 | 0 | IR to IR rewrites into the operations that a back end has. |
+| 2026-10-06 02:06:38 | [rucc-wasm](https://crates.io/crates/rucc-wasm) | 0.24.5 | 0 | The WebAssembly back end: selection, structured control flow and the object. |
+| 2026-10-06 02:07:14 | [xyz-rust-macros](https://crates.io/crates/xyz-rust-macros) | 0.4.3 | 0 | Derive macros for xyz-rust（XyzArgs / XyzScalar / XyzOutput） |
+| 2026-10-06 02:07:59 | [xyz-rust](https://crates.io/crates/xyz-rust) | 0.4.3 | 0 | One definition, three interfaces（CLI / HTTP / MCP）— a command toolkit for Rust |
+| 2026-10-06 02:09:05 | [temperkb-mcp](https://crates.io/crates/temperkb-mcp) | 0.6.0 | 0 | Temper's MCP tool layer: every temper knowledge-base tool, served by any host o… |
+| 2026-10-06 02:14:54 | [mutil-ai](https://crates.io/crates/mutil-ai) | 0.3.0 | 0 | A beginner-friendly, provider-neutral Rust AI SDK with a strict normalization l… |
 
 ## Data source
 
