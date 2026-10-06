@@ -8,31 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 08:18 UTC
+## Latest list — 2026-10-06 09:19 UTC
 
-New crates published between 2026-10-06 07:20 UTC and 2026-10-06 08:18 UTC.
+New crates published between 2026-10-06 08:18 UTC and 2026-10-06 09:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-06T08-18-42-052059Z.csv)
+[Full CSV](data/new-crates-2026-10-06T09-19-30-891577Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 07:21:24 | [termzzz](https://crates.io/crates/termzzz) | 0.0.2 | 0 | Screen savers and visual effects for terminal |
-| 2026-10-06 07:23:37 | [grannom-lease](https://crates.io/crates/grannom-lease) | 0.0.0-reserved | 0 | Name reservation for grannom-lease, GPU-pool slot leases over an append-only jo… |
-| 2026-10-06 07:24:33 | [tableflow-autoreport](https://crates.io/crates/tableflow-autoreport) | 0.1.1 | 0 | Per-field summary report (counts, frequencies, percentages) for tableflow. |
-| 2026-10-06 07:26:29 | [preset-app-kit](https://crates.io/crates/preset-app-kit) | 0.1.1 | 0 | The behaviour of a preset.nz desktop app: one command table feeding the native… |
-| 2026-10-06 07:26:45 | [mollusk-svm-account](https://crates.io/crates/mollusk-svm-account) | 0.0.0 | 0 | Account setup helpers for the Mollusk SVM harness. |
-| 2026-10-06 07:27:25 | [mollusk-svm-account-derive](https://crates.io/crates/mollusk-svm-account-derive) | 0.0.0 | 0 | Account setup helpers for the Mollusk SVM harness. |
-| 2026-10-06 07:33:39 | [grannom-hand](https://crates.io/crates/grannom-hand) | 0.0.0-reserved | 0 | Name reservation for grannom-hand, the voice-command router that maps a spoken… |
-| 2026-10-06 07:35:37 | [tableflow](https://crates.io/crates/tableflow) | 0.1.1 | 0 | Turn form submissions into tabular exports (CSV, XLSX, GeoJSON) — end-to-end fa… |
-| 2026-10-06 07:48:16 | [bb-flasher](https://crates.io/crates/bb-flasher) | 0.1.0 | 0 | Library providing flashing capabilities for BeagleBoard.org boards |
-| 2026-10-06 08:01:30 | [trishul-snmp](https://crates.io/crates/trishul-snmp) | 0.1.0 | 0 | Async SNMP toolkit: manager, notifications, read-only responder, MIB enrichment |
-| 2026-10-06 08:04:13 | [rattler_boot_id](https://crates.io/crates/rattler_boot_id) | 0.1.0 | 0 | Identify the current machine boot session |
-| 2026-10-06 08:05:06 | [rattler_environment_digest](https://crates.io/crates/rattler_environment_digest) | 0.1.0 | 0 | Stable fingerprints of resolved Conda environments |
-| 2026-10-06 08:05:43 | [mxc-sdk](https://crates.io/crates/mxc-sdk) | 1.0.0 | 0 | Importable library for starting MXC sandboxes in-process, with streaming stdio. |
-| 2026-10-06 08:05:53 | [rust-fs-core](https://crates.io/crates/rust-fs-core) | 0.3.0 | 0 | Pure-Rust block-device framework — BlockRead/BlockDevice traits + FileDevice +… |
-| 2026-10-06 08:07:09 | [rattler_virtual_package_detectors](https://crates.io/crates/rattler_virtual_package_detectors) | 0.1.0 | 0 | Run channel-registered virtual package detectors following the detector protoco… |
-| 2026-10-06 08:12:09 | [appcore-transfer](https://crates.io/crates/appcore-transfer) | 0.1.0-beta.1 | 0 | Bounded resumable multi-source transfer of verified opaque objects |
-| 2026-10-06 08:18:36 | [editCLI](https://crates.io/crates/editCLI) | 0.1.0 | 0 | A fun game where you guess what number the computer has chosen. |
+| 2026-10-06 08:25:10 | [rp-supabase-codegen](https://crates.io/crates/rp-supabase-codegen) | 0.6.0 | 0 | Build-script-first Rust bindings for PostgreSQL and Supabase schemas |
+| 2026-10-06 08:25:50 | [revia](https://crates.io/crates/revia) | 0.1.0 | 0 | An interactive terminal UI for reviewing Git diffs |
+| 2026-10-06 08:26:32 | [mcp-trace-capture](https://crates.io/crates/mcp-trace-capture) | 0.6.0 | 0 | Record any Model Context Protocol session as a validator-ready trace: a transpa… |
+| 2026-10-06 08:29:49 | [tmux-pomodoro](https://crates.io/crates/tmux-pomodoro) | 0.6.3 | 0 | A Pomodoro timer CLI that persists sessions in SQLite, with a tmux status-bar p… |
+| 2026-10-06 08:33:40 | [teptris-descriptor](https://crates.io/crates/teptris-descriptor) | 0.1.0 | 0 | Shared descriptor-plan ABI for the leptris engine family (leptris, yeptris, tep… |
+| 2026-10-06 08:34:09 | [teptris](https://crates.io/crates/teptris) | 0.1.0 | 0 | Rust bindings for libteptris — TOML 1.1 at C speed, no fallback |
+| 2026-10-06 08:44:49 | [fltk-kit](https://crates.io/crates/fltk-kit) | 0.1.0 | 0 | Common utilities for fltk-rs applications |
+| 2026-10-06 08:46:18 | [brgr-protocol](https://crates.io/crates/brgr-protocol) | 2.13.4 | 0 | Versioned wire types for brgr. Internal to the brgr CLI. |
+| 2026-10-06 08:46:19 | [brgr-runner](https://crates.io/crates/brgr-runner) | 2.13.4 | 0 | Shell-free process execution for brgr. Internal to the brgr CLI. |
+| 2026-10-06 08:46:20 | [brgr-store](https://crates.io/crates/brgr-store) | 2.13.4 | 0 | SQLite store and sealed artifacts for brgr. Internal to the brgr CLI. |
+| 2026-10-06 08:46:22 | [brgr-core](https://crates.io/crates/brgr-core) | 2.13.4 | 0 | Task state and supervision for brgr. Internal to the brgr CLI. |
+| 2026-10-06 08:46:22 | [brgr-registry](https://crates.io/crates/brgr-registry) | 2.13.4 | 0 | Harness registration and recipes for brgr. Internal to the brgr CLI. |
+| 2026-10-06 08:48:39 | [brgr-cli](https://crates.io/crates/brgr-cli) | 2.13.4 | 0 | Let Codex or Claude Code hand work to other coding agents, each in its own Herd… |
+| 2026-10-06 08:48:44 | [bb-imager-cli](https://crates.io/crates/bb-imager-cli) | 1.0.19 | 0 | A streamlined tool for creating, flashing, and managing OS images for BeagleBoa… |
+| 2026-10-06 08:50:06 | [riga-kernel](https://crates.io/crates/riga-kernel) | 0.1.0 | 0 | Transport-free RIGA coding-agent kernel |
+| 2026-10-06 08:55:24 | [riga-server](https://crates.io/crates/riga-server) | 0.1.0 | 0 | RIGA authenticated HTTP adapter |
+| 2026-10-06 08:55:50 | [riga-cli](https://crates.io/crates/riga-cli) | 0.1.0 | 0 | RIGA command-line adapter |
+| 2026-10-06 08:56:03 | [radeau-plugin](https://crates.io/crates/radeau-plugin) | 0.1.10 | 0 | Protocol shared by radeau and its radeau-* plugins |
+| 2026-10-06 08:58:52 | [class-warfare](https://crates.io/crates/class-warfare) | 0.1.0 | 0 | Dependency-free, no_std class! macro for inheritance-style syntax through safe… |
+| 2026-10-06 09:02:27 | [wist-release](https://crates.io/crates/wist-release) | 0.1.0 | 0 | wist 发布域纯逻辑：安装包内核（来源/摘要/身份/命名）+ 发布计划灰度阶梯。不含存储、端点、鉴权。 |
+| 2026-10-06 09:02:41 | [radeau](https://crates.io/crates/radeau) | 0.1.10 | 0 | command-line interface for working with Dolfin ontology files. It provides tool… |
+| 2026-10-06 09:02:57 | [verge-cli](https://crates.io/crates/verge-cli) | 0.4.0 | 0 | Command-line interface for the Verge versioned database |
+| 2026-10-06 09:08:49 | [auth_service_netra_mac](https://crates.io/crates/auth_service_netra_mac) | 0.1.0 | 0 | Example auth services |
+| 2026-10-06 09:09:37 | [zalo-rs](https://crates.io/crates/zalo-rs) | 0.1.0 | 0 | Unofficial async Rust client for Zalo's internal web APIs, ported from zca-js |
+| 2026-10-06 09:12:08 | [rust-img-vhd](https://crates.io/crates/rust-img-vhd) | 0.6.0 | 0 | Pure-Rust VHD (Microsoft Virtual Hard Disk) reader. Fixed, dynamic, and differe… |
+| 2026-10-06 09:13:11 | [rust-img-vhdx](https://crates.io/crates/rust-img-vhdx) | 0.6.0 | 0 | Pure-Rust VHDX (Microsoft VHD's modern successor) reader. Used by Hyper-V and W… |
+| 2026-10-06 09:13:20 | [rust-img-vmdk](https://crates.io/crates/rust-img-vmdk) | 0.5.0 | 0 | Pure-Rust VMDK (VMware Virtual Machine Disk) read+write driver. Monolithic spar… |
+| 2026-10-06 09:13:30 | [rust-lzo1x](https://crates.io/crates/rust-lzo1x) | 0.4.0 | 0 | Pure-Rust LZO1X compressor and decompressor. Implemented from the published str… |
 
 ## Data source
 

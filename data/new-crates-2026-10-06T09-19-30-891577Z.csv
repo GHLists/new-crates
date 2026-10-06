@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T08:25:10.947818Z,rp-supabase-codegen,0.6.0,0,0,https://github.com/roberts-pumpurs/supabase-rs-utils,Build-script-first Rust bindings for PostgreSQL and Supabase schemas
+2026-10-06T08:25:50.018342Z,revia,0.1.0,0,0,https://github.com/choplin/revia,An interactive terminal UI for reviewing Git diffs
+2026-10-06T08:26:32.61853Z,mcp-trace-capture,0.6.0,0,0,https://github.com/tomtom215/mcp-conformance,Record any Model Context Protocol session as a validator-ready trace: a transparent stdio wrapper and HTTP reverse proxy that forward bytes unchanged
+2026-10-06T08:29:49.296513Z,tmux-pomodoro,0.6.3,0,0,https://github.com/tmux-contrib/tmux-pomodoro,"A Pomodoro timer CLI that persists sessions in SQLite, with a tmux status-bar plugin"
+2026-10-06T08:33:40.996576Z,teptris-descriptor,0.1.0,0,0,https://github.com/leptris/teptris-rs,"Shared descriptor-plan ABI for the leptris engine family (leptris, yeptris, teptris) — repr(C) mirrors of the tree-shaped descriptor plan records"
+2026-10-06T08:34:09.845024Z,teptris,0.1.0,0,0,https://github.com/leptris/teptris-rs,"Rust bindings for libteptris — TOML 1.1 at C speed, no fallback"
+2026-10-06T08:44:49.67309Z,fltk-kit,0.1.0,0,0,https://github.com/huanghu578/fltk-kit,Common utilities for fltk-rs applications
+2026-10-06T08:46:18.251088Z,brgr-protocol,2.13.4,0,0,https://github.com/justn-hyeok/brgr,Versioned wire types for brgr. Internal to the brgr CLI.
+2026-10-06T08:46:19.85178Z,brgr-runner,2.13.4,0,0,https://github.com/justn-hyeok/brgr,Shell-free process execution for brgr. Internal to the brgr CLI.
+2026-10-06T08:46:20.442366Z,brgr-store,2.13.4,0,0,https://github.com/justn-hyeok/brgr,SQLite store and sealed artifacts for brgr. Internal to the brgr CLI.
+2026-10-06T08:46:22.177713Z,brgr-core,2.13.4,0,0,https://github.com/justn-hyeok/brgr,Task state and supervision for brgr. Internal to the brgr CLI.
+2026-10-06T08:46:22.702988Z,brgr-registry,2.13.4,0,0,https://github.com/justn-hyeok/brgr,Harness registration and recipes for brgr. Internal to the brgr CLI.
+2026-10-06T08:48:39.502494Z,brgr-cli,2.13.4,0,0,https://github.com/justn-hyeok/brgr,"Let Codex or Claude Code hand work to other coding agents, each in its own Herdr pane: the brgr CLI and Herdr plugin."
+2026-10-06T08:48:44.905041Z,bb-imager-cli,1.0.19,0,0,https://github.com/beagleboard/bb-imager-rs,"A streamlined tool for creating, flashing, and managing OS images for BeagleBoard devices."
+2026-10-06T08:50:06.187706Z,riga-kernel,0.1.0,0,0,https://github.com/haymant/riga,Transport-free RIGA coding-agent kernel
+2026-10-06T08:55:24.152042Z,riga-server,0.1.0,0,0,https://github.com/haymant/riga,RIGA authenticated HTTP adapter
+2026-10-06T08:55:50.286504Z,riga-cli,0.1.0,0,0,https://github.com/haymant/riga,RIGA command-line adapter
+2026-10-06T08:56:03.004686Z,radeau-plugin,0.1.10,0,0,https://github.com/dolfin-team/raft,Protocol shared by radeau and its radeau-* plugins
+2026-10-06T08:58:52.60203Z,class-warfare,0.1.0,0,0,https://github.com/mirged/class-warfare,"Dependency-free, no_std class! macro for inheritance-style syntax through safe Rust composition and parent delegation."
+2026-10-06T09:02:27.559812Z,wist-release,0.1.0,0,0,https://github.com/dayu-sec/wist-release,wist 发布域纯逻辑：安装包内核（来源/摘要/身份/命名）+ 发布计划灰度阶梯。不含存储、端点、鉴权。
+2026-10-06T09:02:41.164331Z,radeau,0.1.10,0,0,https://github.com/dolfin-team/raft,"command-line interface for working with Dolfin ontology files. It provides tools for linting, formatting, building, and managing Dolfin packages (`.dlf` files)."
+2026-10-06T09:02:57.210497Z,verge-cli,0.4.0,0,0,https://github.com/Miruameli/verge,Command-line interface for the Verge versioned database
+2026-10-06T09:08:49.707536Z,auth_service_netra_mac,0.1.0,0,0,,Example auth services
+2026-10-06T09:09:37.234029Z,zalo-rs,0.1.0,0,0,https://github.com/lengoclongk59/zalo-rs,"Unofficial async Rust client for Zalo's internal web APIs, ported from zca-js"
+2026-10-06T09:12:08.436241Z,rust-img-vhd,0.6.0,0,0,https://github.com/antimatter-studios/rust-img-vhd,"Pure-Rust VHD (Microsoft Virtual Hard Disk) reader. Fixed, dynamic, and differencing variants. Exposes a Rust API and a C ABI suitable for FFI from C/C++/Go/Swift."
+2026-10-06T09:13:11.075806Z,rust-img-vhdx,0.6.0,0,0,https://github.com/antimatter-studios/rust-img-vhdx,Pure-Rust VHDX (Microsoft VHD's modern successor) reader. Used by Hyper-V and WSL2. Exposes a Rust API and a C ABI suitable for FFI from C/C++/Go/Swift.
+2026-10-06T09:13:20.231495Z,rust-img-vmdk,0.5.0,0,0,https://github.com/antimatter-studios/rust-img-vmdk,"Pure-Rust VMDK (VMware Virtual Machine Disk) read+write driver. Monolithic sparse variant, BlockDevice-backed. Exposes a Rust API and a C ABI."
+2026-10-06T09:13:30.140058Z,rust-lzo1x,0.4.0,0,0,https://github.com/antimatter-studios/rust-lzo1x,"Pure-Rust LZO1X compressor and decompressor. Implemented from the published stream grammar; no C bindings, no unsafe, no dependencies."
