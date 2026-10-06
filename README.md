@@ -8,39 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 18:18 UTC
+## Latest list — 2026-10-06 19:20 UTC
 
-New crates published between 2026-10-06 17:18 UTC and 2026-10-06 18:18 UTC.
+New crates published between 2026-10-06 18:18 UTC and 2026-10-06 19:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-06T18-18-54-856737Z.csv)
+[Full CSV](data/new-crates-2026-10-06T19-20-37-947552Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 17:20:52 | [bevy-neura](https://crates.io/crates/bevy-neura) | 0.5.0 | 0 | Neura integration for Bevy |
-| 2026-10-06 17:24:50 | [encryption-rust](https://crates.io/crates/encryption-rust) | 1.0.1 | 0 | 可插拔密码学组件库的 Rust 实现：在统一契约下提供对称加密、非对称加密、哈希与密钥派生（HKDF / PBKDF2），包含 AES/Sodium 与国密… |
-| 2026-10-06 17:26:51 | [nosqlite](https://crates.io/crates/nosqlite) | 0.2.1 | 0 | MongoDB-inspired document database backed by SQLite JSONB, with BSON, aggregati… |
-| 2026-10-06 17:27:30 | [tiri](https://crates.io/crates/tiri) | 0.1.0 | 0 | niri inspired terminal multiplexer |
-| 2026-10-06 17:29:31 | [docket-rs-macros](https://crates.io/crates/docket-rs-macros) | 0.1.0 | 0 | The #[derive(Task)] macro for docket-rs |
-| 2026-10-06 17:30:02 | [docket-rs](https://crates.io/crates/docket-rs) | 0.1.0 | 0 | A distributed background task system for Rust, backed by Redis |
-| 2026-10-06 17:33:12 | [componentized-static-config](https://crates.io/crates/componentized-static-config) | 0.3.0-dev | 0 | Create custom wasi:config components with static values |
-| 2026-10-06 17:33:14 | [componentized-static-config-cli](https://crates.io/crates/componentized-static-config-cli) | 0.3.0-dev | 0 | Create custom wasi:config components with static values, from the command line |
-| 2026-10-06 17:33:34 | [snowflake-id-rust](https://crates.io/crates/snowflake-id-rust) | 1.1.0 | 0 | 基于 Twitter Snowflake 算法的分布式唯一 ID 生成器：64 位、k-ordered、全局唯一，Rust 移植自 PHP 包 erikwan… |
-| 2026-10-06 17:39:56 | [encryptable-rust](https://crates.io/crates/encryptable-rust) | 1.1.0 | 0 | 为敏感字段提供「可检索的匿名化 / 加密」能力：写入数据库前加密，读出时解密，并可生成与 MySQL / PostgreSQL 兼容的 SQL 片段 |
-| 2026-10-06 17:50:40 | [baijimu-content-contract](https://crates.io/crates/baijimu-content-contract) | 1.0.0 | 0 | Baijimu ordered multimedia content parts and validation |
-| 2026-10-06 17:51:17 | [postbode](https://crates.io/crates/postbode) | 0.1.0 | 0 | A fast, simple mail client with automatic mailbox rules |
-| 2026-10-06 17:52:19 | [rscloc-cli](https://crates.io/crates/rscloc-cli) | 0.1.0 | 0 | A blazingly-fast parallel source line counter and statistics tool rewritten in… |
-| 2026-10-06 17:53:07 | [zpl-bitmap-fonts](https://crates.io/crates/zpl-bitmap-fonts) | 0.0.0 | 0 | Placeholder for embedded ZPL bitmap fonts |
-| 2026-10-06 17:55:02 | [mdgrid](https://crates.io/crates/mdgrid) | 0.1.0 | 0 | Browse and edit Markdown frontmatter as a table in the terminal |
-| 2026-10-06 17:59:35 | [tmux-companion](https://crates.io/crates/tmux-companion) | 0.8.0 | 0 | A tmux companion: one daemon draws the status bar, and one binary does projects… |
-| 2026-10-06 18:00:11 | [disc-v](https://crates.io/crates/disc-v) | 0.1.0 | 0 | A RISC-V disassembler |
-| 2026-10-06 18:07:01 | [taskcraft-kafka](https://crates.io/crates/taskcraft-kafka) | 0.1.0 | 0 | Kafka source for taskcraft: offsets committed by the commit boundary, ids from… |
-| 2026-10-06 18:07:05 | [taskcraft-postgres](https://crates.io/crates/taskcraft-postgres) | 0.1.0 | 0 | PostgreSQL task store for taskcraft: push, status and history, deferred redeliv… |
-| 2026-10-06 18:07:48 | [fibre-gateway-client](https://crates.io/crates/fibre-gateway-client) | 0.1.0 | 0 | Receipt types, commitment verification and an optional HTTP client for the Fibr… |
-| 2026-10-06 18:09:21 | [wlr-config](https://crates.io/crates/wlr-config) | 1.11.0 | 0 | The configuration of the wlr-utils tools: one config.toml, its themes, and the… |
-| 2026-10-06 18:12:07 | [aetherupload-rust](https://crates.io/crates/aetherupload-rust) | 1.0.0 | 0 | AetherUpload for Rust：前端切片、后端追加落盘 —— 上传 / 断线续传 / 秒传 / 去重 / 完整性校验共用同一套机制；内核与宿主框架… |
-| 2026-10-06 18:12:54 | [oxdock-markdown-plugin](https://crates.io/crates/oxdock-markdown-plugin) | 0.21.0-alpha | 0 | Markdown rendering for OxDock scripts through the Engine facade: MAP to table c… |
-| 2026-10-06 18:15:44 | [htn](https://crates.io/crates/htn) | 0.2.0 | 0 | Hierarchical Task Network for Game AI |
-| 2026-10-06 18:17:28 | [frameassembly](https://crates.io/crates/frameassembly) | 0.9.0 | 0 | A Domain-Specific Language (DSL) for writing deterministic network traffic to .… |
+| 2026-10-06 18:23:02 | [ensemble-reaper](https://crates.io/crates/ensemble-reaper) | 0.1.0 | 0 | REAPER OSC bridge for Ensemble — exposes REAPER transport, tracks and FX parame… |
+| 2026-10-06 18:23:36 | [momento-functions-spawn](https://crates.io/crates/momento-functions-spawn) | 0.26.1 | 0 | Host interfaces for spawning Momento Functions |
+| 2026-10-06 18:38:47 | [catacombs](https://crates.io/crates/catacombs) | 0.2.0 | 0 | Catacombs is a simple Discord oauth2 library with user management and subscript… |
+| 2026-10-06 18:40:44 | [rvllm](https://crates.io/crates/rvllm) | 0.1.0 | 0 | Small LLM inference engine in Rust: paged KV cache, continuous batching, CPU an… |
+| 2026-10-06 18:40:54 | [conpty-assets](https://crates.io/crates/conpty-assets) | 0.1.1 | 0 | Redistributable Microsoft ConPTY DLL and OpenConsole host as embedded byte slic… |
+| 2026-10-06 18:42:56 | [symbi-sandbox-guest](https://crates.io/crates/symbi-sandbox-guest) | 1.21.0 | 0 | Versioned guest command transport for Symbiont microVMs |
+| 2026-10-06 18:43:03 | [symbi-sandbox-supervisor](https://crates.io/crates/symbi-sandbox-supervisor) | 1.21.0 | 0 | Independent container lifetime and recovery supervisor for Symbiont |
+| 2026-10-06 18:56:48 | [h3wire](https://crates.io/crates/h3wire) | 0.1.0 | 0 | Sans-I/O HTTP/3 (RFC 9114) and QPACK (RFC 9204) engine |
+| 2026-10-06 19:07:21 | [forma-proc-macro](https://crates.io/crates/forma-proc-macro) | 0.1.0 | 0 | Formatier API proc macro |
+| 2026-10-06 19:15:07 | [marbots-sdk](https://crates.io/crates/marbots-sdk) | 0.1.0 | 0 | Typed Rust SDK for Marbots, the multi-agent collaboration platform (Boss Man or… |
+| 2026-10-06 19:15:37 | [bevy_react_core](https://crates.io/crates/bevy_react_core) | 0.7.0 | 0 | The core bridge of bevy-react (drive bevy_ui from React over an embedded V8 run… |
+| 2026-10-06 19:15:39 | [bevy_react_anchor](https://crates.io/crates/bevy_react_anchor) | 0.7.0 | 0 | The <anchor> element: world-anchored UI overlays for bevy_react_core. |
+| 2026-10-06 19:15:40 | [bevy_react_canvas](https://crates.io/crates/bevy_react_canvas) | 0.7.0 | 0 | The <canvas> element: a retained CPU-rastered drawing surface for bevy_react_co… |
+| 2026-10-06 19:15:41 | [bevy_react_portal](https://crates.io/crates/bevy_react_portal) | 0.7.0 | 0 | The <portal> element: render-target views for bevy_react_core. |
+| 2026-10-06 19:15:41 | [bevy_react_surface](https://crates.io/crates/bevy_react_surface) | 0.7.0 | 0 | The <surface> element: React UI rendered into offscreen textures for bevy_react… |
+| 2026-10-06 19:17:28 | [ecat-orm-derive](https://crates.io/crates/ecat-orm-derive) | 4.1.0 | 0 | Derive macros for ecat-orm (#[derive(Entity)]) |
+| 2026-10-06 19:18:09 | [bevy_react_svg](https://crates.io/crates/bevy_react_svg) | 0.7.0 | 0 | The JSX <svg> element and shape intrinsics for bevy_react_core. |
 
 ## Data source
 

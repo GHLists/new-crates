@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T18:23:02.069013Z,ensemble-reaper,0.1.0,0,0,https://github.com/samgwise/ensemble-reaper,"REAPER OSC bridge for Ensemble — exposes REAPER transport, tracks and FX parameters as Ensemble actions"
+2026-10-06T18:23:36.290986Z,momento-functions-spawn,0.26.1,0,0,https://github.com/momentohq/functions,Host interfaces for spawning Momento Functions
+2026-10-06T18:38:47.347733Z,catacombs,0.2.0,0,0,https://github.com/cycle-five/catacombs,"Catacombs is a simple Discord oauth2 library with user management and subscription support, uses Axum, SQLx, Tokio, Rustls by default."
+2026-10-06T18:40:44.75971Z,rvllm,0.1.0,0,0,https://github.com/ermolushka/rvllm,"Small LLM inference engine in Rust: paged KV cache, continuous batching, CPU and CUDA backends, GGUF loading"
+2026-10-06T18:40:54.54666Z,conpty-assets,0.1.1,0,0,https://github.com/aannoo/conpty-assets,Redistributable Microsoft ConPTY DLL and OpenConsole host as embedded byte slices
+2026-10-06T18:42:56.081524Z,symbi-sandbox-guest,1.21.0,0,0,https://github.com/thirdkeyai/symbiont,Versioned guest command transport for Symbiont microVMs
+2026-10-06T18:43:03.799595Z,symbi-sandbox-supervisor,1.21.0,0,0,https://github.com/thirdkeyai/symbiont,Independent container lifetime and recovery supervisor for Symbiont
+2026-10-06T18:56:48.009366Z,h3wire,0.1.0,0,0,https://github.com/mp0rta/h3wire,Sans-I/O HTTP/3 (RFC 9114) and QPACK (RFC 9204) engine
+2026-10-06T19:07:21.893311Z,forma-proc-macro,0.1.0,0,0,,Formatier API proc macro
+2026-10-06T19:15:07.472524Z,marbots-sdk,0.1.0,0,0,https://github.com/DotNetVibeCoderz/Vibe_Dev,"Typed Rust SDK for Marbots, the multi-agent collaboration platform (Boss Man orchestration, per-bot models, skills, MCP, A2A). By Gravicode Studios."
+2026-10-06T19:15:37.428965Z,bevy_react_core,0.7.0,0,0,https://github.com/tulustul/bevy-react,The core bridge of bevy-react (drive bevy_ui from React over an embedded V8 runtime). Apps depend on the `bevy-react` crate.
+2026-10-06T19:15:39.799919Z,bevy_react_anchor,0.7.0,0,0,https://github.com/tulustul/bevy-react,The <anchor> element: world-anchored UI overlays for bevy_react_core.
+2026-10-06T19:15:40.725937Z,bevy_react_canvas,0.7.0,0,0,https://github.com/tulustul/bevy-react,The <canvas> element: a retained CPU-rastered drawing surface for bevy_react_core.
+2026-10-06T19:15:41.284288Z,bevy_react_portal,0.7.0,0,0,https://github.com/tulustul/bevy-react,The <portal> element: render-target views for bevy_react_core.
+2026-10-06T19:15:41.692079Z,bevy_react_surface,0.7.0,0,0,https://github.com/tulustul/bevy-react,The <surface> element: React UI rendered into offscreen textures for bevy_react_core.
+2026-10-06T19:17:28.141807Z,ecat-orm-derive,4.1.0,0,0,https://github.com/erikwang2013/e-cat,Derive macros for ecat-orm (#[derive(Entity)])
+2026-10-06T19:18:09.968513Z,bevy_react_svg,0.7.0,0,0,https://github.com/tulustul/bevy-react,The JSX <svg> element and shape intrinsics for bevy_react_core.
