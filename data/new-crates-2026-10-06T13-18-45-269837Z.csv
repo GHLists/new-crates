@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T12:20:28.824975Z,qtcloud-meta-cli,0.1.0-alpha.1,0,0,https://github.com/quanttide/qtcloud-meta,量潮元数据命令行：把本体装进范畴做结构分析，出范畴内与范畴间两份报告
+2026-10-06T12:20:32.60045Z,pack02,0.1.0,0,0,https://github.com/kms413/pack02,"A high-performance Scratch (.sb3) obfuscator: renames sprites, costumes, variables and lists while keeping every reference valid."
+2026-10-06T12:20:41.48264Z,create-scratch-extension,0.1.0,0,0,https://github.com/kms413/create-scratch-extension,Interactively scaffold a ready-to-build Scratch extension project with a TypeScript source tree and a Rolldown bundler config.
+2026-10-06T12:23:52.870156Z,slide-editor,0.3.0,0,0,https://github.com/Apich-Organization/cargo-slide,Typora-style live preview WYSIWYG editor for Typst presentations and documents
+2026-10-06T12:26:20.907646Z,altopelago-aeon-document,0.14.0,0,0,https://github.com/AltoPelago/aeon,"Immutable, capability-aware document graph for AEON."
+2026-10-06T12:27:38.275886Z,tsnmp,0.1.1,0,0,https://github.com/tosumitdhaka/trishul-snmp-rust,"Alias crate: tsnmp and trishul-snmp are the same Rust SNMP toolkit (manager v1/v2c/v3, notifications, responder, MIB, CLI)"
+2026-10-06T12:32:50.611246Z,kpasswd-rs,0.1.0,0,0,https://github.com/andrico21/kpasswd-rs,Kerberos password change and administrative set over RFC 3244 kpasswd. Tells you whether it applied.
+2026-10-06T12:38:58.978542Z,silverscript-abi,1.0.1,0,0,,Portable ABI types and codecs for SilverScript contracts
+2026-10-06T12:39:46.945516Z,tree-sitter-silverscript,1.0.1,0,0,https://github.com/tree-sitter/tree-sitter-silverscript,Kaspa SilverScript Lang
+2026-10-06T12:42:16.631572Z,silverscript-lang,1.0.1,0,0,https://github.com/kaspanet/silverscript,SilverScript language parser and compiler for Kaspa scripts
+2026-10-06T12:44:11.998462Z,rmpx,1.0.0,0,0,https://github.com/alfatm/rmpx,"Pure Rust MessagePack: serde support, a dynamic Value type and a low-level no_std API in one crate"
+2026-10-06T12:44:28.02333Z,silverscript-debug-artifact,1.0.1,0,0,https://github.com/kaspanet/silverscript,Portable SilverScript ABI artifacts with compiler debug information
+2026-10-06T12:51:30.763272Z,chock,0.1.0,0,0,https://github.com/outpostHQ/chock,"Quality gates for Rust: new code must be clean, and existing debt can only go down. 53 checks, one exit code, JSON for agents."
+2026-10-06T12:54:19.364058Z,kylig-style,0.1.0,0,0,https://github.com/tulios/kylig,Declarative TOML style sheets for egui
+2026-10-06T12:54:21.648243Z,kylig-fx,0.1.0,0,0,https://github.com/tulios/kylig,"Animated effects and transitions for egui, themable with kylig-style"
+2026-10-06T12:54:22.174804Z,kylig-images,0.1.0,0,0,https://github.com/tulios/kylig,"An image loader for egui: downloads and decodes on a background runtime, within limits, with texture caches"
+2026-10-06T12:54:23.978402Z,kylig-icons,0.1.0,0,0,https://github.com/tulios/kylig,"Phosphor icons for egui, themable with kylig-style and animated with kylig-fx"
+2026-10-06T12:54:25.868765Z,kylig-ui,0.1.0,0,0,https://github.com/tulios/kylig,"Animated components for egui, built on kylig-fx and themable with kylig-style"
+2026-10-06T12:54:28.775301Z,urng_core,0.1.0,0,0,https://github.com/cet-t/urng_core,A minimal rng core library
+2026-10-06T12:54:43.011114Z,debugger-session,1.0.1,0,0,https://github.com/kaspanet/silverscript,Debug sessions and test execution for SilverScript contracts
+2026-10-06T12:54:43.786512Z,eternal-core,1.0.0,0,0,https://github.com/404Simon/eternal-jukebox-rs,Audio analysis and branching playback engine for Eternal Jukebox
+2026-10-06T12:56:27.130641Z,eternal-tui,1.0.0,0,0,https://github.com/404Simon/eternal-jukebox-rs,Terminal player for Eternal Jukebox
+2026-10-06T12:56:45.085172Z,morsh-core,0.1.0,0,0,https://github.com/fokx/morsh,"Core protocol framing, binary codecs, and wire definitions for morsh"
+2026-10-06T12:57:06.124983Z,morsh-transport,0.1.0,0,0,https://github.com/fokx/morsh,Multiplexed QUIC and TCP transport layer for morsh
+2026-10-06T12:57:13.023124Z,morsh-predict,0.1.0,0,0,https://github.com/fokx/morsh,Predictive local echo and speculative UI engine for morsh
+2026-10-06T12:57:20.829586Z,morsh-auth,0.1.0,0,0,https://github.com/fokx/morsh,"Authentication, SSH key parsing, and stealth knock verification for morsh"
+2026-10-06T12:57:27.48498Z,morsh-term,0.1.0,0,0,https://github.com/fokx/morsh,"PTY supervisor, raw mode management, and virtual terminal state for morsh"
+2026-10-06T13:04:42.023929Z,tova,0.0.0,0,0,,"Holds the name for tova, a Rust tool from Outpost that is in development. This version has no functionality."
+2026-10-06T13:04:46.157931Z,cli-debugger,1.0.1,0,0,https://github.com/kaspanet/silverscript,Command-line debugger for SilverScript contracts
+2026-10-06T13:06:39.926036Z,morsh-tunnel,0.1.0,0,0,https://github.com/fokx/morsh,"Port forwarding (local/remote TCP), SOCKS5 proxy, and UDP tunnel engine for morsh"
+2026-10-06T13:11:12.851003Z,kylig,0.1.0,0,0,https://github.com/tulios/kylig,"Component library and fx for egui, focused on animations and visually appealing effects"
+2026-10-06T13:17:06.345268Z,morshd,0.1.0,0,0,https://github.com/fokx/morsh,Next-generation remote terminal daemon over QUIC and TLS 1.3
+2026-10-06T13:17:22.604033Z,slog-cloud,0.1.0,0,0,https://github.com/angelcam/rust-slog-cloud,This is an unofficial crate for cloud-based drains for the slog logging infrastructure in Rust.
+2026-10-06T13:17:36.395522Z,ebeepf,0.1.0,0,0,https://github.com/kxxt/ebeepf,"A pure Rust, safe and idiomatic eBPF loader and runtime"
