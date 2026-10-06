@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T16:19:42.249123Z,project-hub,0.21.1,0,0,https://github.com/ewellinger/project-hub,Coordinate features that span several git repositories
+2026-10-06T16:19:59.692223Z,sideport-macos,1.0.0,0,0,,"macOS integration: in-process local anisette, Mac provisioning UDID and system identity"
+2026-10-06T16:26:28.50346Z,konomanoasa-tree-sitter-mailmap,0.2.0,0,0,https://github.com/konomanoasa/tree-sitter-mailmap,Tree-sitter grammar for mailmap.
+2026-10-06T16:29:53.857839Z,sideport-testkit,1.0.0,0,0,,"Test-only fixtures: generated PKI, signed provisioning profiles and a stateful developer-portal fake"
+2026-10-06T16:33:02.556739Z,nativeclick_derive,0.26.9,0,0,https://github.com/Sn0wAlice/nativeclick,proc-macro crate for nativeclick
+2026-10-06T16:33:04.363328Z,nativeclick,0.26.9,0,0,https://github.com/Sn0wAlice/nativeclick,Nativeclick is a pure Rust SDK for working with Clickhouse with the native protocol in async environments with minimal boilerplate and maximal performance.
+2026-10-06T16:35:05.4579Z,harnessbox-core,0.1.0,0,0,https://github.com/aAndy03/harness,Docs-first gate core: exact checks over layered codebases
+2026-10-06T16:35:15.365599Z,harnessbox-cli,0.1.0,0,0,https://github.com/aAndy03/harness,"harness check: tsc-like docs-first gate, no daemon"
+2026-10-06T16:37:55.459945Z,hifumi,0.2.0,0,0,https://github.com/celestia-island/hifumi,A serialization library for migrating data between different versions
+2026-10-06T16:38:21.465929Z,tear-makimono,0.1.29,0,0,https://github.com/pleme-io/tear,"makimono (巻物, the scroll) — tear's durable session store: an append-only, bounded raw-byte journal per pane, the session document, and the typed tombstone that is the only record of a session ending."
+2026-10-06T16:38:23.350548Z,tear-tamotsu,0.1.29,0,0,https://github.com/pleme-io/tear,"tamotsu (保つ, to keep) — the per-pane PTY holder for tear: a small process outside the daemon that owns one pane's PTY and child, journals every byte to makimono, and lets a restarted daemon re-adopt…"
+2026-10-06T16:39:55.892455Z,sideport-engine,1.0.0,0,0,,"Sideport engine: job pipeline, provisioning policy, install orchestration, persistence, refresh"
+2026-10-06T16:44:25.856121Z,konomanoasa-tree-sitter-json,0.2.0,0,0,https://github.com/konomanoasa/tree-sitter-json,Tree-sitter grammars for JSON and JSONC.
+2026-10-06T16:49:56.932775Z,sideport-cli,1.0.0,0,0,,Sideport command-line interface
+2026-10-06T16:55:47.498544Z,ic-host-artifacts,0.3.0,0,0,https://github.com/dragginzgame/ic-host-tooling,"Bounded host artifact streams, identities, archives and Wasm inspection"
+2026-10-06T16:55:49.997661Z,ic-host-fs,0.3.0,0,0,https://github.com/dragginzgame/ic-host-tooling,"Local host filesystem reads, durable publication and file locking"
+2026-10-06T16:55:52.48151Z,ic-host-process,0.3.0,0,0,https://github.com/dragginzgame/ic-host-tooling,"Admitted host executable resolution, bounded execution and Git observations"
+2026-10-06T16:59:56.886729Z,sideport-tray,1.0.0,0,0,,Sideport's menu-bar refresh daemon
+2026-10-06T17:02:22.406252Z,ipscanner-io,0.1.0,0,0,https://github.com/ipscanner/ipscanner-rust,"Official Rust client for the IPScanner API: IP lookups, bulk checks, Agentscan and provenance."
+2026-10-06T17:03:09.549407Z,tableflow-cli,0.1.3,0,0,https://github.com/horacioskrp/tableflow,Command-line interface for tableflow (submissions → tabular exports).
+2026-10-06T17:03:12.672427Z,tree-sitter-fsharp-mangel,0.2.1,0,0,https://github.com/MangelMaxime/tree-sitter-fsharp,F# grammar for tree-sitter
+2026-10-06T17:08:17.194253Z,hashids-rust,1.0.7,0,0,https://github.com/erikwang2013/hashids-rust,"Hashids for Rust: native implementation plus multi-framework integration (Axum, Actix Web, Rocket, Poem, Salvo, Warp, Bee, e-cat), API aligned with vinkla/hashids (multi-connection Manager + Factory)."
+2026-10-06T17:08:30.564947Z,stdio2http,0.1.0,0,0,https://github.com/mimi1vx/stdio2http,MCP stdio -> Streamable HTTP proxy
+2026-10-06T17:09:09.210147Z,starbloom-derive,0.5.40,0,0,,A sub package for starbloom
+2026-10-06T17:10:00.620362Z,sideport-app,1.0.0,0,0,,Sideport desktop app (gpui)
+2026-10-06T17:12:13.014498Z,catpaw-dom,0.0.1,0,0,https://github.com/KernelErr/CatPaw,Arena DOM and html5ever integration for the CatPaw browser
+2026-10-06T17:12:14.131476Z,catpaw-net,0.0.1,0,0,https://github.com/KernelErr/CatPaw,"HTTP client for the CatPaw browser: hyper + rustls, cookies, redirects, content decoding, Web Bot Auth (RFC 9421) request signing"
+2026-10-06T17:12:16.527556Z,catpaw-agent,0.0.1,0,0,https://github.com/KernelErr/CatPaw,"Agent-facing page views for the CatPaw browser: accessibility snapshots with stable refs, markdown, links and forms"
+2026-10-06T17:12:17.008832Z,catpaw-fetch,0.0.1,0,0,https://github.com/KernelErr/CatPaw,Document fetching and HTML encoding sniffing for the CatPaw browser
+2026-10-06T17:12:17.930669Z,catpaw-style,0.0.1,0,0,https://github.com/KernelErr/CatPaw,Stylo style resolution over the CatPaw arena DOM
+2026-10-06T17:14:40.102746Z,catpaw,0.0.1,0,0,https://github.com/KernelErr/CatPaw,CatPaw: a headless-first browser for AI agents
+2026-10-06T17:16:45.946657Z,topos-bible,0.3.0,0,0,https://github.com/MasterTemple/topos-bible,"Find, parse, and autocomplete Bible references in text, with exact locations"
+2026-10-06T17:16:47.693337Z,topos-bible-formats,0.3.0,0,0,https://github.com/MasterTemple/topos-bible,"Find Bible references in HTML, subtitles, EPUB, and PDF, with format-specific locations"
+2026-10-06T17:16:49.389752Z,topos-bible-cli,0.3.0,0,0,https://github.com/MasterTemple/topos-bible,"Find Bible references in files, like ripgrep"

@@ -8,44 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 16:18 UTC
+## Latest list — 2026-10-06 17:18 UTC
 
-New crates published between 2026-10-06 15:20 UTC and 2026-10-06 16:18 UTC.
+New crates published between 2026-10-06 16:18 UTC and 2026-10-06 17:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-06T16-18-36-813041Z.csv)
+[Full CSV](data/new-crates-2026-10-06T17-18-42-650471Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 15:29:38 | [moorings](https://crates.io/crates/moorings) | 0.0.0 | 0 | Generational handle tables for no_std: stable, unique keys with fallible alloca… |
-| 2026-10-06 15:31:17 | [snapfire_media](https://crates.io/crates/snapfire_media) | 0.1.0 | 0 | What an image or a font file says about itself: a header's displayed size and o… |
-| 2026-10-06 15:31:19 | [ppktstore](https://crates.io/crates/ppktstore) | 0.1.0 | 0 | A storage interface for Phenopackets. |
-| 2026-10-06 15:31:59 | [typed-docs-migrations](https://crates.io/crates/typed-docs-migrations) | 0.1.2 | 0 | Migration hash evidence for Typed Docs |
-| 2026-10-06 15:33:07 | [libcrux-p384](https://crates.io/crates/libcrux-p384) | 0.0.1-pre.1 | 0 | Libcrux P-384 implementation |
-| 2026-10-06 15:33:36 | [snapfire_fsr_assets](https://crates.io/crates/snapfire_fsr_assets) | 0.1.1 | 0 | What FSR derives from an image or a font: resized and re-encoded variants under… |
-| 2026-10-06 15:33:43 | [libcrux-nist-kdf](https://crates.io/crates/libcrux-nist-kdf) | 0.0.1-pre.1 | 0 | Libcrux NIST KDF implementations. |
-| 2026-10-06 15:38:48 | [fathom-charts](https://crates.io/crates/fathom-charts) | 0.2.0 | 0 | Fathom Charts client: real-time order-flow indicator streams (WebSocket) and hi… |
-| 2026-10-06 15:40:08 | [cubecl-monitoring](https://crates.io/crates/cubecl-monitoring) | 0.11.0 | 0 | How busy a CubeCL device is, by the counter its card's driver or its platform k… |
-| 2026-10-06 15:40:51 | [verus-lint](https://crates.io/crates/verus-lint) | 0.1.1 | 0 | Lint and analysis for Verus codebases, from Verus VIR logs and verification rep… |
-| 2026-10-06 15:44:36 | [atep-profile-r](https://crates.io/crates/atep-profile-r) | 0.1.0-alpha.6 | 0 | ATEP-R, the robotics profile of ATEP: command classes, claims and fail-closed r… |
-| 2026-10-06 15:47:18 | [rp-supabase-client-macros](https://crates.io/crates/rp-supabase-client-macros) | 0.9.0 | 0 | Constructor-checked query-local selections for rp-supabase-client |
-| 2026-10-06 15:52:20 | [familiar-ai-facts](https://crates.io/crates/familiar-ai-facts) | 0.1.0 | 0 | The 22 fact kinds and their forms, and the record. |
-| 2026-10-06 15:52:20 | [familiar-ai-run](https://crates.io/crates/familiar-ai-run) | 0.1.0 | 0 | Runs the announced test_command; the result is passed or failed. |
-| 2026-10-06 15:52:21 | [familiar-ai-git](https://crates.io/crates/familiar-ai-git) | 0.1.0 | 0 | Git reads: commits seen, changed lines, a file at a sha. |
-| 2026-10-06 15:52:21 | [familiar-ai-plan](https://crates.io/crates/familiar-ai-plan) | 0.1.0 | 0 | Reads and writes the plan file under .familiar/. |
-| 2026-10-06 15:52:21 | [familiar-ai-rules](https://crates.io/crates/familiar-ai-rules) | 0.1.0 | 0 | Pure rules: planning, criterion states, holds, hook decisions, terminal text. N… |
-| 2026-10-06 16:02:54 | [sideport-macho](https://crates.io/crates/sideport-macho) | 1.0.0 | 0 | Mach-O and fat-binary parsing and load-command editing |
-| 2026-10-06 16:03:58 | [pmpx-detect](https://crates.io/crates/pmpx-detect) | 0.3.0 | 0 | Decides which installed plugin a project belongs to, from evidence that is alre… |
-| 2026-10-06 16:04:00 | [pmpx-plugin-abi](https://crates.io/crates/pmpx-plugin-abi) | 0.3.0 | 0 | The raw C ABI between pmpx and a plugin: #[repr(C)] data, keys and capabilities. |
-| 2026-10-06 16:04:11 | [pmpx-project](https://crates.io/crates/pmpx-project) | 0.3.0 | 0 | Reads, merges and writes pmpx's own configuration files. |
-| 2026-10-06 16:04:14 | [pmpx-loader](https://crates.io/crates/pmpx-loader) | 0.3.0 | 0 | Loads a pmpx plugin and calls it across the C ABI: the host side of the contrac… |
-| 2026-10-06 16:04:19 | [pmpx-engine](https://crates.io/crates/pmpx-engine) | 0.3.0 | 0 | Runs what a plugin answers: resolving the program, starting it, and reporting w… |
-| 2026-10-06 16:04:23 | [pmpx-testkit](https://crates.io/crates/pmpx-testkit) | 0.3.0 | 0 | Test helpers for plugin authors: build the context a host would hand over, and… |
-| 2026-10-06 16:04:31 | [sideport-apple](https://crates.io/crates/sideport-apple) | 1.0.0 | 0 | Apple ID (GrandSlam SRP + 2FA), anisette providers and developerservices2 client |
-| 2026-10-06 16:04:43 | [sideport-device](https://crates.io/crates/sideport-device) | 1.0.0 | 0 | iOS device access (usbmuxd, lockdown, AFC, installation_proxy, misagent) built… |
-| 2026-10-06 16:04:53 | [sideport-acquire](https://crates.io/crates/sideport-acquire) | 1.0.0 | 0 | Acquisition channels: sideport links, resumable IPA downloads and IPA enrichment |
-| 2026-10-06 16:05:01 | [sideport-codesign](https://crates.io/crates/sideport-codesign) | 1.0.0 | 0 | Apple code-signature generation: CodeDirectory, requirements, entitlements, CMS… |
-| 2026-10-06 16:09:52 | [sideport-bundle](https://crates.io/crates/sideport-bundle) | 1.0.0 | 0 | IPA/app-bundle handling: parallel unpack, patching, deep signing, deterministic… |
-| 2026-10-06 16:10:07 | [ty-clap](https://crates.io/crates/ty-clap) | 0.1.0 | 0 | Shared clap commands for command-line binaries, such as shell completions. |
+| 2026-10-06 16:19:42 | [project-hub](https://crates.io/crates/project-hub) | 0.21.1 | 0 | Coordinate features that span several git repositories |
+| 2026-10-06 16:19:59 | [sideport-macos](https://crates.io/crates/sideport-macos) | 1.0.0 | 0 | macOS integration: in-process local anisette, Mac provisioning UDID and system… |
+| 2026-10-06 16:26:28 | [konomanoasa-tree-sitter-mailmap](https://crates.io/crates/konomanoasa-tree-sitter-mailmap) | 0.2.0 | 0 | Tree-sitter grammar for mailmap. |
+| 2026-10-06 16:29:53 | [sideport-testkit](https://crates.io/crates/sideport-testkit) | 1.0.0 | 0 | Test-only fixtures: generated PKI, signed provisioning profiles and a stateful… |
+| 2026-10-06 16:33:02 | [nativeclick_derive](https://crates.io/crates/nativeclick_derive) | 0.26.9 | 0 | proc-macro crate for nativeclick |
+| 2026-10-06 16:33:04 | [nativeclick](https://crates.io/crates/nativeclick) | 0.26.9 | 0 | Nativeclick is a pure Rust SDK for working with Clickhouse with the native prot… |
+| 2026-10-06 16:35:05 | [harnessbox-core](https://crates.io/crates/harnessbox-core) | 0.1.0 | 0 | Docs-first gate core: exact checks over layered codebases |
+| 2026-10-06 16:35:15 | [harnessbox-cli](https://crates.io/crates/harnessbox-cli) | 0.1.0 | 0 | harness check: tsc-like docs-first gate, no daemon |
+| 2026-10-06 16:37:55 | [hifumi](https://crates.io/crates/hifumi) | 0.2.0 | 0 | A serialization library for migrating data between different versions |
+| 2026-10-06 16:38:21 | [tear-makimono](https://crates.io/crates/tear-makimono) | 0.1.29 | 0 | makimono (巻物, the scroll) — tear's durable session store: an append-only, bound… |
+| 2026-10-06 16:38:23 | [tear-tamotsu](https://crates.io/crates/tear-tamotsu) | 0.1.29 | 0 | tamotsu (保つ, to keep) — the per-pane PTY holder for tear: a small process outsi… |
+| 2026-10-06 16:39:55 | [sideport-engine](https://crates.io/crates/sideport-engine) | 1.0.0 | 0 | Sideport engine: job pipeline, provisioning policy, install orchestration, pers… |
+| 2026-10-06 16:44:25 | [konomanoasa-tree-sitter-json](https://crates.io/crates/konomanoasa-tree-sitter-json) | 0.2.0 | 0 | Tree-sitter grammars for JSON and JSONC. |
+| 2026-10-06 16:49:56 | [sideport-cli](https://crates.io/crates/sideport-cli) | 1.0.0 | 0 | Sideport command-line interface |
+| 2026-10-06 16:55:47 | [ic-host-artifacts](https://crates.io/crates/ic-host-artifacts) | 0.3.0 | 0 | Bounded host artifact streams, identities, archives and Wasm inspection |
+| 2026-10-06 16:55:49 | [ic-host-fs](https://crates.io/crates/ic-host-fs) | 0.3.0 | 0 | Local host filesystem reads, durable publication and file locking |
+| 2026-10-06 16:55:52 | [ic-host-process](https://crates.io/crates/ic-host-process) | 0.3.0 | 0 | Admitted host executable resolution, bounded execution and Git observations |
+| 2026-10-06 16:59:56 | [sideport-tray](https://crates.io/crates/sideport-tray) | 1.0.0 | 0 | Sideport's menu-bar refresh daemon |
+| 2026-10-06 17:02:22 | [ipscanner-io](https://crates.io/crates/ipscanner-io) | 0.1.0 | 0 | Official Rust client for the IPScanner API: IP lookups, bulk checks, Agentscan… |
+| 2026-10-06 17:03:09 | [tableflow-cli](https://crates.io/crates/tableflow-cli) | 0.1.3 | 0 | Command-line interface for tableflow (submissions → tabular exports). |
+| 2026-10-06 17:03:12 | [tree-sitter-fsharp-mangel](https://crates.io/crates/tree-sitter-fsharp-mangel) | 0.2.1 | 0 | F# grammar for tree-sitter |
+| 2026-10-06 17:08:17 | [hashids-rust](https://crates.io/crates/hashids-rust) | 1.0.7 | 0 | Hashids for Rust: native implementation plus multi-framework integration (Axum,… |
+| 2026-10-06 17:08:30 | [stdio2http](https://crates.io/crates/stdio2http) | 0.1.0 | 0 | MCP stdio -> Streamable HTTP proxy |
+| 2026-10-06 17:09:09 | [starbloom-derive](https://crates.io/crates/starbloom-derive) | 0.5.40 | 0 | A sub package for starbloom |
+| 2026-10-06 17:10:00 | [sideport-app](https://crates.io/crates/sideport-app) | 1.0.0 | 0 | Sideport desktop app (gpui) |
+| 2026-10-06 17:12:13 | [catpaw-dom](https://crates.io/crates/catpaw-dom) | 0.0.1 | 0 | Arena DOM and html5ever integration for the CatPaw browser |
+| 2026-10-06 17:12:14 | [catpaw-net](https://crates.io/crates/catpaw-net) | 0.0.1 | 0 | HTTP client for the CatPaw browser: hyper + rustls, cookies, redirects, content… |
+| 2026-10-06 17:12:16 | [catpaw-agent](https://crates.io/crates/catpaw-agent) | 0.0.1 | 0 | Agent-facing page views for the CatPaw browser: accessibility snapshots with st… |
+| 2026-10-06 17:12:17 | [catpaw-fetch](https://crates.io/crates/catpaw-fetch) | 0.0.1 | 0 | Document fetching and HTML encoding sniffing for the CatPaw browser |
+| 2026-10-06 17:12:17 | [catpaw-style](https://crates.io/crates/catpaw-style) | 0.0.1 | 0 | Stylo style resolution over the CatPaw arena DOM |
+| 2026-10-06 17:14:40 | [catpaw](https://crates.io/crates/catpaw) | 0.0.1 | 0 | CatPaw: a headless-first browser for AI agents |
+| 2026-10-06 17:16:45 | [topos-bible](https://crates.io/crates/topos-bible) | 0.3.0 | 0 | Find, parse, and autocomplete Bible references in text, with exact locations |
+| 2026-10-06 17:16:47 | [topos-bible-formats](https://crates.io/crates/topos-bible-formats) | 0.3.0 | 0 | Find Bible references in HTML, subtitles, EPUB, and PDF, with format-specific l… |
+| 2026-10-06 17:16:49 | [topos-bible-cli](https://crates.io/crates/topos-bible-cli) | 0.3.0 | 0 | Find Bible references in files, like ripgrep |
 
 ## Data source
 
