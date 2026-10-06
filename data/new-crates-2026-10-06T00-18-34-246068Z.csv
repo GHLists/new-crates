@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-05T23:21:56.660299Z,tablo-core,0.1.0,0,0,,"The core toolkit types for Tablo, a server-rendered admin toolkit on Topcoat and Toasty."
+2026-10-05T23:22:14.697447Z,tablo-test,0.1.0,0,0,,"In-memory HTTP test client for Tablo panels, re-exported as `tablo::testing`."
+2026-10-05T23:24:03.435737Z,tablo-build,0.1.0,0,0,,Build-script helpers for Tablo apps: the Tailwind build that scans Tablo's own sources.
+2026-10-05T23:26:30.952261Z,tablo,0.1.0,0,0,,"Admin toolkit for Rust, server-rendered on Topcoat and persisted with Toasty."
+2026-10-05T23:30:09.510058Z,eclipse-rs,0.1.0,0,0,,Eclipse RS: a Rust crate published as eclipse-rs.
+2026-10-05T23:30:22.37499Z,agentsam-rapid-rust,0.1.0,0,0,https://github.com/SamPrimeaux/agentsam-sdk,AgentSam native scaffolder and lifecycle CLI for Cloudflare Rust/Wasm Workers
+2026-10-05T23:37:00.474939Z,sealmap-extract,0.2.0,0,0,https://github.com/DreamLab-AI/sealmap,"Language-neutral extraction core for sealmap language adapters: raw flow IR, flow lowering, call aggregation, confidence policy, label rules, sym: id builder, token-stream fingerprints and panic-isol…"
+2026-10-05T23:37:11.752004Z,sealmap-dense,0.2.0,0,0,https://github.com/DreamLab-AI/sealmap,"Compact, deterministic agent projection of a sealmap code model: Rust-like skeletons with line spans, indented call trees, a short-name index and budgeted slices"
+2026-10-05T23:41:53.456112Z,astral-mail-headers,0.0.0,0,0,https://github.com/astral-sh/astral-mail-headers,Placeholder release for astral-mail-headers
+2026-10-05T23:47:12.285135Z,bacnet-cli,0.12.0,0,0,https://github.com/jscott3201/rusty-bacnet,"BACnet command-line tool for device discovery, reading, and writing"
+2026-10-05T23:47:12.979041Z,bacnet-endpoint,0.12.0,0,0,https://github.com/jscott3201/rusty-bacnet,BACnet endpoint that owns one transport and runs client and server roles through it
+2026-10-05T23:47:31.362683Z,auv-auto-loop,0.0.29,0,0,https://github.com/moeru-ai/auv,"AUV auto-loop v0.1: trajectory compiler, compilation gates, fast loop scheduler, and runtime auto-isolation"
+2026-10-05T23:47:45.576644Z,auv-device-helper-windows,0.0.29,0,0,https://github.com/moeru-ai/auv,LocalSystem Windows Helper Host for existing-session Device entry
+2026-10-05T23:49:13.058511Z,bckwe,0.1.0,0,0,https://github.com/DaBigBlob/bckwe,"A no_std zero-dependency stack machine for B, C, K, W combinators with external effects."
+2026-10-06T00:05:46.992978Z,cal-model,0.1.0,0,0,https://github.com/WyattAu/cal-model,"A2L calibration data model and session layer — characteristic binding, COMPU_METHOD conversions, limit validation, curve calibration"
+2026-10-06T00:06:29.906469Z,smeltery-prospect,0.1.0,0,0,https://github.com/smelteryworks/smeltery,"Prospect, the full-text search of the Smeltery framework: searchable models, the database driver (SQLite FTS5, PostgreSQL tsvector, MySQL FULLTEXT), ranking, highlights, scopes and pagination."
+2026-10-06T00:07:00.18598Z,smeltery-watchfire,0.1.0,0,0,https://github.com/smelteryworks/smeltery,"Watchfire, the agent runtime of the Smeltery framework: supervised long-running agents, background jobs with a database queue, and a scheduler, on one Tokio runtime."
+2026-10-06T00:07:56.012603Z,smeltery-bellows,0.1.0,0,0,https://github.com/smelteryworks/smeltery,"Bellows, the AI-agent support of the Smeltery framework: an MCP server inside the app (routes, schema, config keys, errors, docs, generators, tests, agents)."
+2026-10-06T00:08:27.102924Z,smeltery-cli,0.1.0,0,0,https://github.com/smelteryworks/smeltery,"The smeltery command of the Smeltery framework: new, serve, build, test, key:generate, storage:link and app command delegation."
+2026-10-06T00:09:11.456531Z,smeltery,0.1.0,0,0,https://github.com/smelteryworks/smeltery,"Batteries-included full-stack Rust: routing, typed config from .env, an app container, Mold templates and the smeltery CLI."
+2026-10-06T00:12:14.965997Z,hitman-sat,0.1.0,0,0,https://github.com/JaimeCuartas/hitman-sat,SAT-based hitting set solver
+2026-10-06T00:12:58.578694Z,pollardai,0.1.0,0,0,https://github.com/jemsbhai/pollard,Experimental native Rust core for Pollard governed execution trees and verified replay
