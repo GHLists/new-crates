@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T14:23:17.398274Z,son,0.0.0,0,0,https://git.tudbut.de/tudbut/son,"[not done yet] Semityped object notation: Reading/Writing JSON, TOML, and TCN"
+2026-10-06T14:29:10.364479Z,edgefirst-v4l2,0.1.0,0,0,https://github.com/EdgeFirstAI/v4l2-rs,"Video4Linux2 UAPI definitions, ioctl wrappers, buffer queues, controls and enumeration"
+2026-10-06T14:30:12.679479Z,poprf-ristretto-wasm,0.2.0,0,0,https://github.com/brave/poprf-ristretto,wasm-bindgen bindings for poprf-ristretto (RFC 9497 POPRF / ristretto255-SHA512)
+2026-10-06T14:33:52.54824Z,edgehog-device-runtime-config,0.0.0,0,0,https://github.com/edgehog-device-manager/edgehog-device-runtime,"Edgehog Device Runtime is a portable middleware, that enables remote device management on Linux-based systems."
+2026-10-06T14:35:17.491179Z,canix-toolbelt-roborev-worker,0.1.0,0,0,https://github.com/caniko/canix-toolbelt,"Bounded Linux preparation, admission and offline execution for Roborev controllers"
+2026-10-06T14:37:58.249059Z,gprx,0.1.0,0,0,https://github.com/YUKIKEDA/gprx,"Gaussian process regression in Rust: exact GPR, sparse GPR (VFE), and SVGP."
+2026-10-06T14:38:36.647417Z,ehds-logging,0.0.0,0,0,https://github.com/FerroHEALTH/FerroFED,"The European logging software component of an EHR system under Regulation (EU) 2025/327: the Annex II 3.2 access record, the Article 14(1) categories and the map that classifies an access, and the re…"
+2026-10-06T14:40:55.082825Z,argus-anomaly,0.2.0,0,0,https://github.com/alvaropaco/argus-ai,"ARGUS anomaly detection: operational baselines, deviation detection, and restart-loop detection"
+2026-10-06T14:41:27.277912Z,argus-container,0.2.0,0,0,https://github.com/alvaropaco/argus-ai,ARGUS container adapter: observe container state and restart counts over the Docker socket
+2026-10-06T14:41:40.092721Z,argus-correlate,0.2.0,0,0,https://github.com/alvaropaco/argus-ai,ARGUS correlation: the operational environment graph and event-to-situation correlation
+2026-10-06T14:42:32.872268Z,argus-incidents,0.2.0,0,0,https://github.com/alvaropaco/argus-ai,ARGUS incident management: lifecycle with deduplication (CAP-10)
+2026-10-06T14:42:33.233755Z,reiny-ffi,0.7.0,0,0,https://github.com/MechanicalGirlDev/reiny,UniFFI and C bindings for reiny's multilingual pub/sub API
+2026-10-06T14:42:45.434086Z,argus-investigate,0.2.0,0,0,https://github.com/alvaropaco/argus-ai,"ARGUS investigation engine: hypothesis-driven root-cause analysis (CAP-8/9, ADR-0034)"
+2026-10-06T14:46:32.056181Z,z-emoji,0.0.1,0,0,https://github.com/nihmadev/zaxis,Bundled Noto Color Emoji font data for zaxis
+2026-10-06T14:47:21.152921Z,rustyweb,0.1.0,0,0,https://github.com/raksbisht/rustyweb,"A minimal, Express-style web framework: simple routing, simple middleware."
+2026-10-06T15:02:44.448333Z,quicksearch-cli,0.1.1,0,0,https://github.com/pragundamani/quicksearch,Fast terminal lookups for code and everything else
+2026-10-06T15:02:45.19492Z,streampile,0.0.1,0,0,https://github.com/clintval/streampile,Forward-only pileups streamed from coordinate-sorted BAM records
+2026-10-06T15:12:25.760645Z,hadris-fs,3.0.0-rc.1,0,0,https://github.com/hxyulin/hadris,"Shared filesystem vocabulary and the FileSystem trait for the Hadris crates: names, times, metadata, errors, volumes and handles"
+2026-10-06T15:12:28.334402Z,hadris-fat-raw,0.1.0,0,0,https://github.com/hxyulin/hadris,FAT12/16/32 and exFAT on-disk layouts and I/O-free codecs for Hadris and custom drivers
+2026-10-06T15:14:36.258327Z,xchonnect-core,0.1.0-rc.2,0,0,https://github.com/xchonnect/xchonnect,"Xchonnect protocol core: canonical CBOR, envelopes, pairing and sessions."
+2026-10-06T15:14:42.758119Z,xchonnect-wallet-kit,0.1.0-rc.2,0,0,https://github.com/xchonnect/xchonnect,"Wallet-side signing safety for Xchonnect wallets on Chia: simulation, net effect, signature policy, permissions."
+2026-10-06T15:17:06.714192Z,re_dump_puffin,0.39.0-alpha.1,0,0,https://github.com/rerun-io/rerun,Convert puffin profiler recordings (.puffin files) into JSON for analysis
+2026-10-06T15:17:43.411762Z,namegender,0.1.0,0,0,https://github.com/anpekesen/namegender-rust,"Client for the NameGender API: gender from names, email addresses and usernames, with the probability and sample size behind each answer."

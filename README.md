@@ -8,46 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 14:19 UTC
+## Latest list — 2026-10-06 15:20 UTC
 
-New crates published between 2026-10-06 13:18 UTC and 2026-10-06 14:19 UTC.
+New crates published between 2026-10-06 14:19 UTC and 2026-10-06 15:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-06T14-19-40-69164Z.csv)
+[Full CSV](data/new-crates-2026-10-06T15-20-31-696086Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 13:21:11 | [tokwc](https://crates.io/crates/tokwc) | 0.1.0 | 0 | local wc-style token counter for OpenAI and Claude models |
-| 2026-10-06 13:21:58 | [rust-fs-xfs](https://crates.io/crates/rust-fs-xfs) | 0.12.0 | 0 | Pure-Rust XFS filesystem driver. Exposes a C ABI (fs_xfs_*) suitable for FFI fr… |
-| 2026-10-06 13:27:41 | [morsh](https://crates.io/crates/morsh) | 0.1.0 | 0 | Next-generation remote terminal client over QUIC and TLS 1.3 |
-| 2026-10-06 13:28:59 | [marcr](https://crates.io/crates/marcr) | 0.1.0 | 0 | Read and write MARC bibliographic records in ISO 2709, MARCXML and text formats |
-| 2026-10-06 13:36:48 | [quicproxy](https://crates.io/crates/quicproxy) | 0.1.0 | 0 | High-performance, censorship-resistant QUIC and TCP fallback proxy with SOCKS5… |
-| 2026-10-06 13:37:04 | [rovenue-funnel-core](https://crates.io/crates/rovenue-funnel-core) | 0.16.0 | 0 | Rovenue Funnels — the pure funnel document resolver and validator shared by the… |
-| 2026-10-06 13:40:24 | [librovenue](https://crates.io/crates/librovenue) | 0.16.0 | 0 | Rovenue SDK core — shared business logic for Swift, Kotlin, React Native |
-| 2026-10-06 13:41:38 | [drawnui-skia-bindings](https://crates.io/crates/drawnui-skia-bindings) | 0.153.4 | 0 | Skia Bindings for Rust (rust-skia skia-bindings 0.153.3) with SkMesh, for Drawn… |
-| 2026-10-06 13:41:53 | [drawnui-skia-safe](https://crates.io/crates/drawnui-skia-safe) | 0.153.4 | 0 | Safe Skia Bindings for Rust (rust-skia skia-safe 0.153.3) with SkMesh, for Draw… |
-| 2026-10-06 13:44:22 | [diplodocus](https://crates.io/crates/diplodocus) | 0.1.0 | 0 | Build coherent documentation websites for polyglot software projects. |
-| 2026-10-06 13:45:37 | [kpasswd-rs-keytab-vault](https://crates.io/crates/kpasswd-rs-keytab-vault) | 0.1.0 | 0 | Encrypted keytabs at rest: XChaCha20-Poly1305 envelopes with Argon2id passphras… |
-| 2026-10-06 13:46:29 | [rutis-bridge](https://crates.io/crates/rutis-bridge) | 0.7.0 | 0 | Connect rutis to other processes, languages and machines: plugins in Node and P… |
-| 2026-10-06 13:46:42 | [rutis-host](https://crates.io/crates/rutis-host) | 0.7.0 | 0 | A rutis host that needs no Rust: run plugins written in TypeScript, JavaScript… |
-| 2026-10-06 13:49:17 | [tokenburn-core](https://crates.io/crates/tokenburn-core) | 0.1.4 | 0 | Shared core logic for TokenBurn — log collectors, aggregation and reports for p… |
-| 2026-10-06 13:49:18 | [ohos-transient-task-sys](https://crates.io/crates/ohos-transient-task-sys) | 0.1.0 | 0 | Raw bindings to the transient task API of OpenHarmony |
-| 2026-10-06 13:49:53 | [tokenburn](https://crates.io/crates/tokenburn) | 0.1.4 | 0 | TokenBurn — local AI token/cost usage report for pi, Zed, Claude Code, Codex &… |
-| 2026-10-06 13:50:42 | [tokenburn-gui](https://crates.io/crates/tokenburn-gui) | 0.1.4 | 0 | TokenBurn — local AI token/cost usage desktop application (Iced GUI) |
-| 2026-10-06 13:50:47 | [drawnui](https://crates.io/crates/drawnui) | 0.1.0-preview.1 | 0 | DrawnUI for Rust: a Skia-drawn UI engine, the same controls and contract as Dra… |
-| 2026-10-06 13:51:21 | [tokenburn-web](https://crates.io/crates/tokenburn-web) | 0.1.4 | 0 | TokenBurn — local AI token/cost usage web dashboard (Topcoat) |
-| 2026-10-06 13:51:49 | [tokenburn-tui](https://crates.io/crates/tokenburn-tui) | 0.1.4 | 0 | TokenBurn — local AI token/cost usage terminal application (Ratatui TUI) |
-| 2026-10-06 13:52:49 | [mcptk](https://crates.io/crates/mcptk) | 0.1.0 | 0 | MCP Toolkit: build Model Context Protocol servers over stdio, Streamable HTTP a… |
-| 2026-10-06 13:55:59 | [light-stripe](https://crates.io/crates/light-stripe) | 0.1.1 | 0 | Local-dev TUI/CLI monitor for ports, processes, and Docker |
-| 2026-10-06 14:00:29 | [instatt-rs](https://crates.io/crates/instatt-rs) | 0.1.0 | 0 | Unofficial Rust client for the UNM Instatt attendance backend. |
-| 2026-10-06 14:03:42 | [autumn-plugin-otel](https://crates.io/crates/autumn-plugin-otel) | 0.1.0 | 0 | Autumn plugin: OpenTelemetry traces, metrics and logs export over OTLP. |
-| 2026-10-06 14:05:04 | [arc-malachitebft-engine-byzantine](https://crates.io/crates/arc-malachitebft-engine-byzantine) | 0.8.1 | 0 | Byzantine behavior support for the Malachite BFT consensus engine |
-| 2026-10-06 14:08:20 | [zen-do](https://crates.io/crates/zen-do) | 0.12.2 | 0 | Zenodo tasks from the command-line |
-| 2026-10-06 14:10:24 | [npro-json](https://crates.io/crates/npro-json) | 0.0.1 | 0 | Placeholder: the streaming JSON parser, part of npro, the safe Rust port of lib… |
-| 2026-10-06 14:10:51 | [pipecircuit-http1-mio](https://crates.io/crates/pipecircuit-http1-mio) | 0.0.1 | 0 | Mio HTTP/1 connection ownership for Pipecircuit |
-| 2026-10-06 14:12:06 | [deserialize-lines](https://crates.io/crates/deserialize-lines) | 0.1.0 | 0 | read from file or string and parse as JSON lines |
-| 2026-10-06 14:14:01 | [lucene-rs](https://crates.io/crates/lucene-rs) | 0.1.0 | 0 | A Rust port of Apache Lucene's core: Lucene104 postings, BM25, block-max top-k… |
-| 2026-10-06 14:15:11 | [npro-ss](https://crates.io/crates/npro-ss) | 0.0.1 | 0 | Placeholder: Secure Streams, the high-level client and server API, part of npro |
-| 2026-10-06 14:18:04 | [sard](https://crates.io/crates/sard) | 0.1.1 | 0 | sard 3D Engine |
+| 2026-10-06 14:23:17 | [son](https://crates.io/crates/son) | 0.0.0 | 0 | [not done yet] Semityped object notation: Reading/Writing JSON, TOML, and TCN |
+| 2026-10-06 14:29:10 | [edgefirst-v4l2](https://crates.io/crates/edgefirst-v4l2) | 0.1.0 | 0 | Video4Linux2 UAPI definitions, ioctl wrappers, buffer queues, controls and enum… |
+| 2026-10-06 14:30:12 | [poprf-ristretto-wasm](https://crates.io/crates/poprf-ristretto-wasm) | 0.2.0 | 0 | wasm-bindgen bindings for poprf-ristretto (RFC 9497 POPRF / ristretto255-SHA512) |
+| 2026-10-06 14:33:52 | [edgehog-device-runtime-config](https://crates.io/crates/edgehog-device-runtime-config) | 0.0.0 | 0 | Edgehog Device Runtime is a portable middleware, that enables remote device man… |
+| 2026-10-06 14:35:17 | [canix-toolbelt-roborev-worker](https://crates.io/crates/canix-toolbelt-roborev-worker) | 0.1.0 | 0 | Bounded Linux preparation, admission and offline execution for Roborev controll… |
+| 2026-10-06 14:37:58 | [gprx](https://crates.io/crates/gprx) | 0.1.0 | 0 | Gaussian process regression in Rust: exact GPR, sparse GPR (VFE), and SVGP. |
+| 2026-10-06 14:38:36 | [ehds-logging](https://crates.io/crates/ehds-logging) | 0.0.0 | 0 | The European logging software component of an EHR system under Regulation (EU)… |
+| 2026-10-06 14:40:55 | [argus-anomaly](https://crates.io/crates/argus-anomaly) | 0.2.0 | 0 | ARGUS anomaly detection: operational baselines, deviation detection, and restar… |
+| 2026-10-06 14:41:27 | [argus-container](https://crates.io/crates/argus-container) | 0.2.0 | 0 | ARGUS container adapter: observe container state and restart counts over the Do… |
+| 2026-10-06 14:41:40 | [argus-correlate](https://crates.io/crates/argus-correlate) | 0.2.0 | 0 | ARGUS correlation: the operational environment graph and event-to-situation cor… |
+| 2026-10-06 14:42:32 | [argus-incidents](https://crates.io/crates/argus-incidents) | 0.2.0 | 0 | ARGUS incident management: lifecycle with deduplication (CAP-10) |
+| 2026-10-06 14:42:33 | [reiny-ffi](https://crates.io/crates/reiny-ffi) | 0.7.0 | 0 | UniFFI and C bindings for reiny's multilingual pub/sub API |
+| 2026-10-06 14:42:45 | [argus-investigate](https://crates.io/crates/argus-investigate) | 0.2.0 | 0 | ARGUS investigation engine: hypothesis-driven root-cause analysis (CAP-8/9, ADR… |
+| 2026-10-06 14:46:32 | [z-emoji](https://crates.io/crates/z-emoji) | 0.0.1 | 0 | Bundled Noto Color Emoji font data for zaxis |
+| 2026-10-06 14:47:21 | [rustyweb](https://crates.io/crates/rustyweb) | 0.1.0 | 0 | A minimal, Express-style web framework: simple routing, simple middleware. |
+| 2026-10-06 15:02:44 | [quicksearch-cli](https://crates.io/crates/quicksearch-cli) | 0.1.1 | 0 | Fast terminal lookups for code and everything else |
+| 2026-10-06 15:02:45 | [streampile](https://crates.io/crates/streampile) | 0.0.1 | 0 | Forward-only pileups streamed from coordinate-sorted BAM records |
+| 2026-10-06 15:12:25 | [hadris-fs](https://crates.io/crates/hadris-fs) | 3.0.0-rc.1 | 0 | Shared filesystem vocabulary and the FileSystem trait for the Hadris crates: na… |
+| 2026-10-06 15:12:28 | [hadris-fat-raw](https://crates.io/crates/hadris-fat-raw) | 0.1.0 | 0 | FAT12/16/32 and exFAT on-disk layouts and I/O-free codecs for Hadris and custom… |
+| 2026-10-06 15:14:36 | [xchonnect-core](https://crates.io/crates/xchonnect-core) | 0.1.0-rc.2 | 0 | Xchonnect protocol core: canonical CBOR, envelopes, pairing and sessions. |
+| 2026-10-06 15:14:42 | [xchonnect-wallet-kit](https://crates.io/crates/xchonnect-wallet-kit) | 0.1.0-rc.2 | 0 | Wallet-side signing safety for Xchonnect wallets on Chia: simulation, net effec… |
+| 2026-10-06 15:17:06 | [re_dump_puffin](https://crates.io/crates/re_dump_puffin) | 0.39.0-alpha.1 | 0 | Convert puffin profiler recordings (.puffin files) into JSON for analysis |
+| 2026-10-06 15:17:43 | [namegender](https://crates.io/crates/namegender) | 0.1.0 | 0 | Client for the NameGender API: gender from names, email addresses and usernames… |
 
 ## Data source
 
