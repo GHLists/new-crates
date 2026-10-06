@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T21:23:25.821984Z,waytime,0.2.0,0,0,https://github.com/nxoji/waytime,Lightweight screen time and application usage tracker for Wayland
+2026-10-06T21:27:36.78187Z,tank-clickhouse,0.44.0,0,0,https://github.com/TankHQ/tank,ClickHouse driver implementation for Tank: the Rust data layer
+2026-10-06T21:28:13.603024Z,tank-chdb,0.44.0,0,0,https://github.com/TankHQ/tank,chDB driver implementation for Tank: the Rust data layer
+2026-10-06T21:34:31.145364Z,kkhay,1.0.0,0,0,https://github.com/boboaungdev/kkhay-rust,Official Rust SDK for K Khay Sovereign Crypto Payment Gateway
+2026-10-06T21:36:35.818408Z,tectonic-finality-grandpa,0.16.3,0,0,https://gitlab.tectonic.xyz/tectonic-labs-oss/finality-grandpa,Tectonic-maintained GRANDPA finality gadget for blockchains
+2026-10-06T21:39:23.895316Z,cubefs,0.1.1,0,0,https://github.com/dualys/cubefs,Content-addressed filesystem via KPACK recipes
+2026-10-06T21:44:52.702947Z,commutative_hasher,0.1.0,0,0,https://github.com/github/rust-gems,Hashing function that supports processing data out-of-order
+2026-10-06T21:57:16.951176Z,openhub-bo-core,0.1.0,0,0,https://github.com/drkpkg/openhub-bo-integration,Sans-IO core for the Red Enlace (ATC) OpenHub payment APIs in Bolivia
+2026-10-06T21:57:19.246014Z,zunesha,0.1.0,0,0,https://github.com/industrial-algebra/Zunesha,"Shared GPU device substrate — device, queues, and buffer allocation for the Industrial Algebra ecosystem (consumed by Borsalino and Goldenweek)"
+2026-10-06T21:57:21.114265Z,openhub-bo-qr,0.1.0,0,0,https://github.com/drkpkg/openhub-bo-integration,QR Simple / QR MLD-BCB collections for the Red Enlace (ATC) OpenHub APIs
+2026-10-06T21:57:23.578547Z,openhub-bo-fx,0.1.0,0,0,https://github.com/drkpkg/openhub-bo-integration,"PIX, virtual-asset (Koibanx) and Binance QR collections for the Red Enlace (ATC) OpenHub APIs"
+2026-10-06T21:57:26.503637Z,openhub-bo-accounts,0.1.0,0,0,https://github.com/drkpkg/openhub-bo-integration,"Merchant accounts, balances and movements for the Red Enlace (ATC) OpenHub APIs"
+2026-10-06T21:57:29.30576Z,inwere-catsay,0.1.1,0,0,https://github.com/Inwerejosic/real-rust-project-ch_1,"My Practical Rust Project chapter 1, follow through."
+2026-10-06T21:57:29.415825Z,openhub-bo-payouts,0.1.0,0,0,https://github.com/drkpkg/openhub-bo-integration,QR and ACH batch payouts for the Red Enlace (ATC) OpenHub APIs
+2026-10-06T21:58:43.634745Z,varyk-http,0.1.0,0,0,https://github.com/Varyk-Lang/varyk-http,"The HTTP package for Varyk, a language for backend services that compiles to Rust: a server on axum and tower-http, and a client on reqwest"
+2026-10-06T21:59:07.047509Z,sylphx-build-lease,0.1.0,0,0,https://github.com/SylphxAI/sylphx-clients,"Sylphx Build's build lease: the Sandboxes lease request of a build, waiting for the machine, the guest daemon's process stream, and how a fault is judged. Shared by the CLI and the Build service."
+2026-10-06T22:00:04.756414Z,printcad-kernel-api,0.1.0,0,0,https://github.com/gilbertorconde/printCAD,"printCAD's geometry interface: meshes, profiles and solid operations as plain data"
+2026-10-06T22:00:12.029568Z,printcad-bench-api,0.1.0,0,0,https://github.com/gilbertorconde/printCAD,"The data a printCAD workbench package and the app exchange, and the WIT world that carries it"
+2026-10-06T22:00:22.288859Z,printcad-bench-sdk,0.1.0,0,0,https://github.com/gilbertorconde/printCAD,Write printCAD workbenches as WebAssembly components
+2026-10-06T22:05:21.437025Z,bevy_window_chrome,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,"Native-looking custom window chrome (borderless title bars, caption buttons, resize handles) for Bevy apps"
+2026-10-06T22:05:26.608134Z,jackdaw_bind,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Declarative UI bindings on Bevy reflection
+2026-10-06T22:05:36.020565Z,jackdaw_env,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Development environment functionality for Jackdaw
+2026-10-06T22:05:46.375466Z,jackdaw_localization,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Internal crate for Jackdaw localization
+2026-10-06T22:05:49.028037Z,jackdaw_material,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Engine-agnostic PBR texture-set detection (filename grouping into material roles) for the jackdaw editor
+2026-10-06T22:09:55.579805Z,jackdaw_pie_protocol,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Transport-agnostic play-in-editor protocol for the Jackdaw 3D level editor
+2026-10-06T22:10:49.894082Z,robius-speech,0.3.1,0,0,https://github.com/project-robius/robius,Native streaming speech-to-text input and microphone capture for Rust apps
+2026-10-06T22:12:12.358783Z,lingara-cli,0.0.0,0,0,https://github.com/Spinning-Cat-Studios/lingara_cli,The official Lingara command-line tool (under development).
+2026-10-06T22:15:38.861654Z,playastation,0.1.0,0,0,https://github.com/r4v3n6101/playastation,A PlayStation emulator core written in Rust
+2026-10-06T22:15:41.783401Z,brain-db-sdk,0.0.1,0,0,https://github.com/arc-labs-ai/brain-sdk,Rust client SDK for the Brain memory database. Speaks Brain's BRN0 wire protocol directly over TCP.
+2026-10-06T22:15:56.983928Z,ximenes,0.1.0,0,0,https://github.com/saedarm/ximenes,"Builds a themed 7x7 cryptic crossword from a seed, then explains every clue"
+2026-10-06T22:17:20.200797Z,pages-cli,0.1.1,0,0,https://github.com/crsves/pages,Render Apple Pages documents in the terminal
