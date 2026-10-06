@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T09:19:38.822588Z,mold-mimalloc-sys,0.1.49,0,0,https://github.com/rui314/mimalloc_rust,"Fork of libmimalloc-sys that bundles mimalloc 3.5.3, for the mold linker"
+2026-10-06T09:19:40.481867Z,mold-mimalloc,0.1.52,0,0,https://github.com/rui314/mimalloc_rust,"Fork of the mimalloc crate that bundles mimalloc 3.5.3, for the mold linker"
+2026-10-06T09:32:06.610499Z,cargo-oil,0.1.0,0,0,https://github.com/oakoliver/oak-oil,"Oak Oil: the WD-40 for Rust builds. A Cargo-compatible build executor and content store, with verified cleanup of build residue."
+2026-10-06T09:40:55.258353Z,rust-disk-partitions,0.6.0,0,0,https://github.com/antimatter-studios/rust-disk-partitions,Pure-Rust partition-table probe (GPT/MBR) and filesystem-magic sniffer.
+2026-10-06T09:50:51.754965Z,rust-img-qcow2,0.6.0,0,0,https://github.com/antimatter-studios/rust-img-qcow2,Pure-Rust QCOW2 reader. Exposes a Rust API and a C ABI suitable for FFI from C/C++/Go/Swift.
+2026-10-06T09:51:35.233137Z,patchcov,0.1.0,0,0,https://github.com/rust-works/patchcov,"Patch coverage for git diffs: attribute lcov, llvm-cov, Cobertura, Go and JaCoCo reports to a diff and gate on it."
+2026-10-06T09:59:20.368683Z,socai-core,0.6.3,0,0,https://github.com/socai-io/socai,Shared browser automation and social research runtime for socai
+2026-10-06T09:59:58.331745Z,wint,0.1.0,0,0,https://github.com/aunai-org/wint,"Deterministic, explainable engine that finds the time windows when a job can run within the limits you set"
+2026-10-06T10:00:15.233729Z,sqz,0.1.0,0,0,https://gitlab.com/sequoia-pgp/sequoia-sq,A high-Level library for Sequoia PGP
+2026-10-06T10:01:13.791154Z,socai-session-worker,0.1.0,0,0,https://github.com/socai-io/socai-agent-lab,Isolated Rust session runtime for socai Agent Lab
+2026-10-06T10:09:38.949668Z,radiust-cli,0.1.1,0,0,https://github.com/chorust/radiust,Native command-line interface for radiust
+2026-10-06T10:11:21.100611Z,kpack,0.0.0,0,0,,Delta-compression engine for immutable patching and image assembly
+2026-10-06T10:12:22.872112Z,material-color-utilities-rust,0.1.0,0,0,https://github.com/SaKongA/material-color-utilities-rust,A Rust implementation of Google's Material Color Utilities for Material 3 dynamic color and color science
+2026-10-06T10:13:23.476424Z,wist-artifact,0.1.0,0,0,https://github.com/dayu-sec/wist-artifact,wist 制品的传输与校验口径：读来源（本机 / URL，带限大小）、摘要、版本比较、命名与寻址。不含发布计划与包身份解析。
+2026-10-06T10:14:47.678987Z,kuknos-soroban-env-guest-tmp,20.0.4,0,0,https://github.com/stellar/rs-soroban-env,Soroban contract guest environment.
+2026-10-06T10:17:56.920216Z,rust-fs-erofs,0.4.0,0,0,https://github.com/antimatter-studios/rust-fs-erofs,"Pure-Rust EROFS (Enhanced Read-Only File System) reader and writer. Clean-room implementation; reads mkfs.erofs 1.9 images (LZ4/LZMA/DEFLATE/ZSTD, compacted-2B, ztailpacking, fragments, dedupe, big_p…"
