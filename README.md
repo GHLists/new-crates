@@ -8,27 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 02:18 UTC
+## Latest list — 2026-10-06 03:18 UTC
 
-New crates published between 2026-10-06 01:18 UTC and 2026-10-06 02:18 UTC.
+New crates published between 2026-10-06 02:18 UTC and 2026-10-06 03:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-06T02-18-43-089427Z.csv)
+[Full CSV](data/new-crates-2026-10-06T03-18-38-636039Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 01:48:31 | [tinytrader-dbn](https://crates.io/crates/tinytrader-dbn) | 0.1.0 | 0 | tinytrader's extensions to Databento's DBN format: records the official dbn cra… |
-| 2026-10-06 01:48:36 | [tinytrader](https://crates.io/crates/tinytrader) | 0.1.0 | 0 | Simple tools for trading on financial markets, built on Databento's DBN format |
-| 2026-10-06 01:49:40 | [moonseed](https://crates.io/crates/moonseed) | 0.1.0 | 0 | Deterministic, checkpointable Lua 5.4 runtime in safe Rust |
-| 2026-10-06 01:57:22 | [tauri-brightness-core](https://crates.io/crates/tauri-brightness-core) | 0.1.0 | 0 | Cross-platform display brightness control: DDC/CI monitors, ddcutil and Linux b… |
-| 2026-10-06 01:57:47 | [tauri-plugin-brightness](https://crates.io/crates/tauri-plugin-brightness) | 0.1.0 | 0 | Control display brightness from a Tauri application. |
-| 2026-10-06 01:59:58 | [teetra](https://crates.io/crates/teetra) | 0.0.1 | 0 | Official Teetra SDK (early release): get paid when AI uses your API. |
-| 2026-10-06 02:00:25 | [gbin](https://crates.io/crates/gbin) | 0.1.0 | 0 | A suite of Linux utilities and programs. |
-| 2026-10-06 02:02:48 | [rucc-legalize](https://crates.io/crates/rucc-legalize) | 0.24.5 | 0 | IR to IR rewrites into the operations that a back end has. |
-| 2026-10-06 02:06:38 | [rucc-wasm](https://crates.io/crates/rucc-wasm) | 0.24.5 | 0 | The WebAssembly back end: selection, structured control flow and the object. |
-| 2026-10-06 02:07:14 | [xyz-rust-macros](https://crates.io/crates/xyz-rust-macros) | 0.4.3 | 0 | Derive macros for xyz-rust（XyzArgs / XyzScalar / XyzOutput） |
-| 2026-10-06 02:07:59 | [xyz-rust](https://crates.io/crates/xyz-rust) | 0.4.3 | 0 | One definition, three interfaces（CLI / HTTP / MCP）— a command toolkit for Rust |
-| 2026-10-06 02:09:05 | [temperkb-mcp](https://crates.io/crates/temperkb-mcp) | 0.6.0 | 0 | Temper's MCP tool layer: every temper knowledge-base tool, served by any host o… |
-| 2026-10-06 02:14:54 | [mutil-ai](https://crates.io/crates/mutil-ai) | 0.3.0 | 0 | A beginner-friendly, provider-neutral Rust AI SDK with a strict normalization l… |
+| 2026-10-06 02:31:50 | [vecnook](https://crates.io/crates/vecnook) | 0.3.0-beta.2 | 0 | A vector database with a from-scratch HNSW index and durable storage |
+| 2026-10-06 02:36:05 | [vp9-mt](https://crates.io/crates/vp9-mt) | 0.1.0 | 0 | Multi-threaded pure-Rust VP9 decoder: a fork of rusty_vp9 with tile-column thre… |
+| 2026-10-06 02:36:09 | [video-core](https://crates.io/crates/video-core) | 0.1.0 | 0 | Pluggable video decoding pipeline (sources, demuxers, decoders, clock) with no… |
+| 2026-10-06 02:36:12 | [gpui-video](https://crates.io/crates/gpui-video) | 0.1.0 | 0 | Video player element for GPUI, built on video-core |
+| 2026-10-06 02:37:15 | [halberd](https://crates.io/crates/halberd) | 0.0.0 | 0 | Placeholder for future SDK |
+| 2026-10-06 02:42:11 | [taskdaemon-handler](https://crates.io/crates/taskdaemon-handler) | 0.1.2 | 0 | TaskDaemon handler SDK for Rust |
+| 2026-10-06 02:43:17 | [font-model](https://crates.io/crates/font-model) | 0.1.0 | 0 | Editable in-memory font model — glyph outlines, cmap formats 4 and 12, metrics,… |
+| 2026-10-06 02:43:28 | [myous](https://crates.io/crates/myous) | 0.0.1 | 0 | Reserved name. myoushq clients are distributed as source only; see https://gith… |
+| 2026-10-06 02:43:37 | [myoushq](https://crates.io/crates/myoushq) | 0.0.1 | 0 | Reserved name. myoushq clients are distributed as source only; see https://gith… |
+| 2026-10-06 02:48:44 | [gpui-fast-macros](https://crates.io/crates/gpui-fast-macros) | 0.1.0 | 0 | gpui_macros: GPUI with gpui-fast rendering and layout optimizations |
+| 2026-10-06 02:49:35 | [gpui-fast](https://crates.io/crates/gpui-fast) | 0.1.0 | 0 | gpui: GPUI with gpui-fast rendering and layout optimizations |
+| 2026-10-06 02:49:51 | [gpui-fast-apple](https://crates.io/crates/gpui-fast-apple) | 0.1.0 | 0 | gpui_apple: GPUI with gpui-fast rendering and layout optimizations |
+| 2026-10-06 02:50:39 | [gpui-fast-wgpu](https://crates.io/crates/gpui-fast-wgpu) | 0.1.0 | 0 | gpui_wgpu: GPUI with gpui-fast rendering and layout optimizations |
+| 2026-10-06 02:50:55 | [gpui-fast-macos](https://crates.io/crates/gpui-fast-macos) | 0.1.0 | 0 | gpui_macos: GPUI with gpui-fast rendering and layout optimizations |
+| 2026-10-06 02:52:05 | [ic-hpke](https://crates.io/crates/ic-hpke) | 0.2.11 | 0 | HPKE (RFC 9180) base mode with DHKEM(X25519, HKDF-SHA256) for IronCrypto |
+| 2026-10-06 02:52:08 | [gpui-fast-linux](https://crates.io/crates/gpui-fast-linux) | 0.1.0 | 0 | gpui_linux: GPUI with gpui-fast rendering and layout optimizations |
+| 2026-10-06 02:54:30 | [ferrocad_types](https://crates.io/crates/ferrocad_types) | 0.1.2 | 0 | FerroCAD base value types: quantities, units, and geometry (Vector3, Matrix4, R… |
+| 2026-10-06 02:54:36 | [ferrocad_geom](https://crates.io/crates/ferrocad_geom) | 0.1.2 | 0 | FerroCAD geometry seam: an opaque Shape handle, history/element-map types, and… |
+| 2026-10-06 02:55:13 | [ferrocad_occt](https://crates.io/crates/ferrocad_occt) | 0.1.2 | 0 | OCCT geometry backend for FerroCAD: implements the ferrocad_geom GeometryBackend |
+| 2026-10-06 02:55:17 | [ferrocad_part](https://crates.io/crates/ferrocad_part) | 0.1.2 | 0 | FerroCAD Part workbench: Part::Feature and Part::PropertyPartShape over the OCC… |
+| 2026-10-06 02:55:58 | [ferrocad_part_py](https://crates.io/crates/ferrocad_part_py) | 0.1.2 | 0 | The Part workbench Python module (importable as `Part`) over ferrocad_part |
+| 2026-10-06 03:05:02 | [tauri-plugin-beep](https://crates.io/crates/tauri-plugin-beep) | 0.1.0 | 0 | Play the system alert sound (Win32 MessageBeep / macOS afplay / Linux paplay) f… |
+| 2026-10-06 03:05:03 | [tauri-plugin-hash](https://crates.io/crates/tauri-plugin-hash) | 0.1.0 | 0 | Compute SHA-256, SHA-512, and MD5 hashes of strings and files from Rust for Tau… |
+| 2026-10-06 03:05:04 | [tauri-plugin-hostname](https://crates.io/crates/tauri-plugin-hostname) | 0.1.0 | 0 | Read the system hostname and the current username from Rust for Tauri apps. |
+| 2026-10-06 03:05:05 | [tauri-plugin-mimetype](https://crates.io/crates/tauri-plugin-mimetype) | 0.1.0 | 0 | Map file extensions and paths to MIME types from Rust for Tauri apps. |
+| 2026-10-06 03:05:06 | [tauri-plugin-timezone](https://crates.io/crates/tauri-plugin-timezone) | 0.1.0 | 0 | Read the system IANA timezone and UTC offset from Rust for Tauri apps. |
+| 2026-10-06 03:06:28 | [cask-sdk-core](https://crates.io/crates/cask-sdk-core) | 0.0.1 | 0 | Cask SDK |
+| 2026-10-06 03:06:30 | [cask-sdk](https://crates.io/crates/cask-sdk) | 0.0.1 | 0 | Cask SDK |
+| 2026-10-06 03:07:19 | [sails-ast](https://crates.io/crates/sails-ast) | 0.1.0 | 0 | Library used by the Sails local shell |
+| 2026-10-06 03:07:21 | [sails-parser](https://crates.io/crates/sails-parser) | 0.1.0 | 0 | Library used by the Sails local shell |
+| 2026-10-06 03:07:23 | [sails-query-engine](https://crates.io/crates/sails-query-engine) | 0.1.0 | 0 | Library used by the Sails local shell |
+| 2026-10-06 03:12:22 | [aleo-cli](https://crates.io/crates/aleo-cli) | 0.1.0 | 0 | CLI tool for Aleo blockchain — balance, transfer, deploy, execute, local provin… |
+| 2026-10-06 03:16:33 | [sails-vfs](https://crates.io/crates/sails-vfs) | 0.1.0 | 0 | Library used by the Sails local shell |
+| 2026-10-06 03:16:35 | [sails-commands-core](https://crates.io/crates/sails-commands-core) | 0.1.0 | 0 | Library used by the Sails local shell |
+| 2026-10-06 03:18:09 | [sails-browse](https://crates.io/crates/sails-browse) | 0.1.0 | 0 | Library used by the Sails local shell |
+| 2026-10-06 03:18:29 | [tauri-plugin-uuid](https://crates.io/crates/tauri-plugin-uuid) | 0.1.0 | 0 | Generate v4 and v7 UUIDs natively from Rust for Tauri apps. |
 
 ## Data source
 

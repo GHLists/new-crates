@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T02:31:50.076365Z,vecnook,0.3.0-beta.2,0,0,https://github.com/gay00ung/vecnook,A vector database with a from-scratch HNSW index and durable storage
+2026-10-06T02:36:05.840439Z,vp9-mt,0.1.0,0,0,https://github.com/mavun17/gpui-native-video-player,Multi-threaded pure-Rust VP9 decoder: a fork of rusty_vp9 with tile-column threading
+2026-10-06T02:36:09.184902Z,video-core,0.1.0,0,0,https://github.com/mavun17/gpui-native-video-player,"Pluggable video decoding pipeline (sources, demuxers, decoders, clock) with no UI dependency"
+2026-10-06T02:36:12.107673Z,gpui-video,0.1.0,0,0,https://github.com/mavun17/gpui-native-video-player,"Video player element for GPUI, built on video-core"
+2026-10-06T02:37:15.700546Z,halberd,0.0.0,0,0,,Placeholder for future SDK
+2026-10-06T02:42:11.397529Z,taskdaemon-handler,0.1.2,0,0,https://github.com/jona62/TaskDaemon-Handlers,TaskDaemon handler SDK for Rust
+2026-10-06T02:43:17.137282Z,font-model,0.1.0,0,0,https://github.com/WyattAu/font-model,"Editable in-memory font model — glyph outlines, cmap formats 4 and 12, metrics, validation, subsetting"
+2026-10-06T02:43:28.362387Z,myous,0.0.1,0,0,https://github.com/myoushq/myoushq-client,Reserved name. myoushq clients are distributed as source only; see https://github.com/myoushq/myoushq-client
+2026-10-06T02:43:37.853116Z,myoushq,0.0.1,0,0,https://github.com/myoushq/myoushq-client,Reserved name. myoushq clients are distributed as source only; see https://github.com/myoushq/myoushq-client
+2026-10-06T02:48:44.533136Z,gpui-fast-macros,0.1.0,0,0,https://github.com/longbridge/gpui-fast,gpui_macros: GPUI with gpui-fast rendering and layout optimizations
+2026-10-06T02:49:35.072119Z,gpui-fast,0.1.0,0,0,https://github.com/longbridge/gpui-fast,gpui: GPUI with gpui-fast rendering and layout optimizations
+2026-10-06T02:49:51.14544Z,gpui-fast-apple,0.1.0,0,0,https://github.com/longbridge/gpui-fast,gpui_apple: GPUI with gpui-fast rendering and layout optimizations
+2026-10-06T02:50:39.991357Z,gpui-fast-wgpu,0.1.0,0,0,https://github.com/longbridge/gpui-fast,gpui_wgpu: GPUI with gpui-fast rendering and layout optimizations
+2026-10-06T02:50:55.490926Z,gpui-fast-macos,0.1.0,0,0,https://github.com/longbridge/gpui-fast,gpui_macos: GPUI with gpui-fast rendering and layout optimizations
+2026-10-06T02:52:05.227271Z,ic-hpke,0.2.11,0,0,https://github.com/nervosys/IronCrypto,"HPKE (RFC 9180) base mode with DHKEM(X25519, HKDF-SHA256) for IronCrypto"
+2026-10-06T02:52:08.264283Z,gpui-fast-linux,0.1.0,0,0,https://github.com/longbridge/gpui-fast,gpui_linux: GPUI with gpui-fast rendering and layout optimizations
+2026-10-06T02:54:30.593943Z,ferrocad_types,0.1.2,0,0,https://github.com/ferrocad/ferrocad,"FerroCAD base value types: quantities, units, and geometry (Vector3, Matrix4, Rotation, Placement)"
+2026-10-06T02:54:36.913972Z,ferrocad_geom,0.1.2,0,0,https://github.com/ferrocad/ferrocad,"FerroCAD geometry seam: an opaque Shape handle, history/element-map types, and the GeometryBackend trait"
+2026-10-06T02:55:13.591353Z,ferrocad_occt,0.1.2,0,0,https://github.com/ferrocad/ferrocad,OCCT geometry backend for FerroCAD: implements the ferrocad_geom GeometryBackend
+2026-10-06T02:55:17.727283Z,ferrocad_part,0.1.2,0,0,https://github.com/ferrocad/ferrocad,FerroCAD Part workbench: Part::Feature and Part::PropertyPartShape over the OCCT backend
+2026-10-06T02:55:58.999437Z,ferrocad_part_py,0.1.2,0,0,https://github.com/ferrocad/ferrocad,The Part workbench Python module (importable as `Part`) over ferrocad_part
+2026-10-06T03:05:02.033004Z,tauri-plugin-beep,0.1.0,0,0,https://github.com/marrionesa/tauri-plugins,Play the system alert sound (Win32 MessageBeep / macOS afplay / Linux paplay) from Rust for Tauri apps.
+2026-10-06T03:05:03.388574Z,tauri-plugin-hash,0.1.0,0,0,https://github.com/marrionesa/tauri-plugins,"Compute SHA-256, SHA-512, and MD5 hashes of strings and files from Rust for Tauri apps."
+2026-10-06T03:05:04.490332Z,tauri-plugin-hostname,0.1.0,0,0,https://github.com/marrionesa/tauri-plugins,Read the system hostname and the current username from Rust for Tauri apps.
+2026-10-06T03:05:05.736158Z,tauri-plugin-mimetype,0.1.0,0,0,https://github.com/marrionesa/tauri-plugins,Map file extensions and paths to MIME types from Rust for Tauri apps.
+2026-10-06T03:05:06.859483Z,tauri-plugin-timezone,0.1.0,0,0,https://github.com/marrionesa/tauri-plugins,Read the system IANA timezone and UTC offset from Rust for Tauri apps.
+2026-10-06T03:06:28.857356Z,cask-sdk-core,0.0.1,0,0,https://github.com/caskfinance/cask-sdk,Cask SDK
+2026-10-06T03:06:30.846454Z,cask-sdk,0.0.1,0,0,https://github.com/caskfinance/cask-sdk,Cask SDK
+2026-10-06T03:07:19.11566Z,sails-ast,0.1.0,0,0,https://github.com/ryanallred/rust-sails,Library used by the Sails local shell
+2026-10-06T03:07:21.328998Z,sails-parser,0.1.0,0,0,https://github.com/ryanallred/rust-sails,Library used by the Sails local shell
+2026-10-06T03:07:23.590323Z,sails-query-engine,0.1.0,0,0,https://github.com/ryanallred/rust-sails,Library used by the Sails local shell
+2026-10-06T03:12:22.439528Z,aleo-cli,0.1.0,0,0,https://github.com/qiaopengjun5162/aleo-cli,"CLI tool for Aleo blockchain — balance, transfer, deploy, execute, local proving, ZK verification"
+2026-10-06T03:16:33.673097Z,sails-vfs,0.1.0,0,0,https://github.com/ryanallred/rust-sails,Library used by the Sails local shell
+2026-10-06T03:16:35.897222Z,sails-commands-core,0.1.0,0,0,https://github.com/ryanallred/rust-sails,Library used by the Sails local shell
+2026-10-06T03:18:09.422702Z,sails-browse,0.1.0,0,0,https://github.com/ryanallred/rust-sails,Library used by the Sails local shell
+2026-10-06T03:18:29.789277Z,tauri-plugin-uuid,0.1.0,0,0,https://github.com/marrionesa/tauri-plugins,Generate v4 and v7 UUIDs natively from Rust for Tauri apps.
