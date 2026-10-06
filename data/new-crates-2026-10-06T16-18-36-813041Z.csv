@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T15:29:38.610995Z,moorings,0.0.0,0,0,https://github.com/aqu-os/aquos,"Generational handle tables for no_std: stable, unique keys with fallible allocation. Parked for now."
+2026-10-06T15:31:17.921686Z,snapfire_media,0.1.0,0,0,https://github.com/excsn/snapfire,"What an image or a font file says about itself: a header's displayed size and orientation, a face's family, weight, style and metrics"
+2026-10-06T15:31:19.670995Z,ppktstore,0.1.0,0,0,https://github.com/P2GX/phenopacket-store-rs,A storage interface for Phenopackets.
+2026-10-06T15:31:59.492828Z,typed-docs-migrations,0.1.2,0,0,,Migration hash evidence for Typed Docs
+2026-10-06T15:33:07.43751Z,libcrux-p384,0.0.1-pre.1,0,0,https://github.com/cryspen/libcrux,Libcrux P-384 implementation
+2026-10-06T15:33:36.955499Z,snapfire_fsr_assets,0.1.1,0,0,https://github.com/excsn/snapfire,"What FSR derives from an image or a font: resized and re-encoded variants under one policy, a face's metrics and the fallback that matches them"
+2026-10-06T15:33:43.171392Z,libcrux-nist-kdf,0.0.1-pre.1,0,0,https://github.com/cryspen/libcrux,Libcrux NIST KDF implementations.
+2026-10-06T15:38:48.24239Z,fathom-charts,0.2.0,0,0,,"Fathom Charts client: real-time order-flow indicator streams (WebSocket) and history (REST), for Rust (tokio)."
+2026-10-06T15:40:08.539443Z,cubecl-monitoring,0.11.0,0,0,,"How busy a CubeCL device is, by the counter its card's driver or its platform keeps."
+2026-10-06T15:40:51.034657Z,verus-lint,0.1.1,0,0,https://github.com/uw-syfi/verus-lint,"Lint and analysis for Verus codebases, from Verus VIR logs and verification reports"
+2026-10-06T15:44:36.305142Z,atep-profile-r,0.1.0-alpha.6,0,0,https://github.com/atepdev/atep,"ATEP-R, the robotics profile of ATEP: command classes, claims and fail-closed rules on top of atep-core (experimental alpha, working documents of Draft 10)"
+2026-10-06T15:47:18.001984Z,rp-supabase-client-macros,0.9.0,0,0,https://github.com/roberts-pumpurs/supabase-rs-utils,Constructor-checked query-local selections for rp-supabase-client
+2026-10-06T15:52:20.5296Z,familiar-ai-facts,0.1.0,0,0,https://github.com/familiar-ai-oss/familiar-ai,"The 22 fact kinds and their forms, and the record."
+2026-10-06T15:52:20.77231Z,familiar-ai-run,0.1.0,0,0,https://github.com/familiar-ai-oss/familiar-ai,Runs the announced test_command; the result is passed or failed.
+2026-10-06T15:52:21.252407Z,familiar-ai-git,0.1.0,0,0,https://github.com/familiar-ai-oss/familiar-ai,"Git reads: commits seen, changed lines, a file at a sha."
+2026-10-06T15:52:21.470766Z,familiar-ai-plan,0.1.0,0,0,https://github.com/familiar-ai-oss/familiar-ai,Reads and writes the plan file under .familiar/.
+2026-10-06T15:52:21.788623Z,familiar-ai-rules,0.1.0,0,0,https://github.com/familiar-ai-oss/familiar-ai,"Pure rules: planning, criterion states, holds, hook decisions, terminal text. No IO, no clock, no git."
+2026-10-06T16:02:54.404391Z,sideport-macho,1.0.0,0,0,,Mach-O and fat-binary parsing and load-command editing
+2026-10-06T16:03:58.531985Z,pmpx-detect,0.3.0,0,0,https://github.com/pmpx-rs/pmpx,"Decides which installed plugin a project belongs to, from evidence that is already data."
+2026-10-06T16:04:00.98293Z,pmpx-plugin-abi,0.3.0,0,0,https://github.com/pmpx-rs/pmpx,"The raw C ABI between pmpx and a plugin: #[repr(C)] data, keys and capabilities."
+2026-10-06T16:04:11.704743Z,pmpx-project,0.3.0,0,0,https://github.com/pmpx-rs/pmpx,"Reads, merges and writes pmpx's own configuration files."
+2026-10-06T16:04:14.148358Z,pmpx-loader,0.3.0,0,0,https://github.com/pmpx-rs/pmpx,Loads a pmpx plugin and calls it across the C ABI: the host side of the contract.
+2026-10-06T16:04:19.455389Z,pmpx-engine,0.3.0,0,0,https://github.com/pmpx-rs/pmpx,"Runs what a plugin answers: resolving the program, starting it, and reporting what happened."
+2026-10-06T16:04:23.162797Z,pmpx-testkit,0.3.0,0,0,https://github.com/pmpx-rs/pmpx,"Test helpers for plugin authors: build the context a host would hand over, and capture what the plugin says."
+2026-10-06T16:04:31.82534Z,sideport-apple,1.0.0,0,0,,"Apple ID (GrandSlam SRP + 2FA), anisette providers and developerservices2 client"
+2026-10-06T16:04:43.243182Z,sideport-device,1.0.0,0,0,,"iOS device access (usbmuxd, lockdown, AFC, installation_proxy, misagent) built on `idevice`"
+2026-10-06T16:04:53.864059Z,sideport-acquire,1.0.0,0,0,,"Acquisition channels: sideport links, resumable IPA downloads and IPA enrichment"
+2026-10-06T16:05:01.929131Z,sideport-codesign,1.0.0,0,0,,"Apple code-signature generation: CodeDirectory, requirements, entitlements, CMS, CodeResources"
+2026-10-06T16:09:52.992333Z,sideport-bundle,1.0.0,0,0,,"IPA/app-bundle handling: parallel unpack, patching, deep signing, deterministic repacking"
+2026-10-06T16:10:07.630138Z,ty-clap,0.1.0,0,0,https://github.com/tyleo/tyt,"Shared clap commands for command-line binaries, such as shell completions."
