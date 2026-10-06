@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T03:23:24.99369Z,rigless-rtos,0.1.0,0,0,https://gitlab.com/rigless-labs/rigless-rtos,"A firmware kernel's threads as a debugger shows them: ChibiOS/RT and FreeRTOS on ARMv7-M, walked through memory reads alone"
+2026-10-06T03:30:38.967409Z,command-view,1.0.0,0,0,,A Command-line terminal multiplexer
+2026-10-06T03:31:55.984527Z,sails-cmd-awk,0.1.0,0,0,https://github.com/ryanallred/rust-sails,awk command for the Sails shell
+2026-10-06T03:37:39.19867Z,sails-cmd-base64,0.1.0,0,0,https://github.com/ryanallred/rust-sails,base64 command for the Sails shell
+2026-10-06T03:40:01.902583Z,keysafe,0.2.0,0,0,https://github.com/keysafe-dev/keysafe,"Load 1Password secrets into your shell: cached in the system keychain, exported as environment variables or files, and added to ssh-agent"
+2026-10-06T03:41:32.746417Z,s3s-compiler,0.18.0-alpha.1,0,0,https://github.com/Nugine/s3s,Compiler for S3 API definitions
+2026-10-06T03:47:39.684445Z,sails-cmd-basename,0.1.0,0,0,https://github.com/ryanallred/rust-sails,basename command for the Sails shell
+2026-10-06T03:57:39.200498Z,sails-cmd-bash,0.1.0,0,0,https://github.com/ryanallred/rust-sails,bash command for the Sails shell
+2026-10-06T04:00:33.288851Z,isl-ontology,0.1.0,0,0,https://github.com/nervosys/IronSocketLayer,The IronSocketLayer ontology: TLS 1.3 and QUIC protocol knowledge as closed-vocabulary data for agents
+2026-10-06T04:00:50.674532Z,ironsocketlayer,0.1.0,0,0,https://github.com/nervosys/IronSocketLayer,"Agentic-first TLS 1.3 and QUIC-TLS in pure Rust over IronCrypto, with a machine-readable ontology"
+2026-10-06T04:01:08.291057Z,isl-cli,0.1.0,0,0,https://github.com/nervosys/IronSocketLayer,isl: the IronSocketLayer command line and MCP server
+2026-10-06T04:06:10.67715Z,mdp-explainer,0.1.1,0,0,https://github.com/JaimeCuartas/mdp-explainer-core,Markov Decision Process solver
+2026-10-06T04:06:55.042691Z,smtc2web-dev,0.1.0,0,0,,Command-line web preview server for smtc2web themes
+2026-10-06T04:07:39.049858Z,sails-cmd-bc,0.1.0,0,0,https://github.com/ryanallred/rust-sails,bc command for the Sails shell
+2026-10-06T04:10:20.013585Z,teshr,0.0.4,0,0,https://codeberg.org/humble_proton/teshr,A text-shaping tool for quick variable changes in an IDE or editor
+2026-10-06T04:17:30.87357Z,font-shape,0.1.0,0,0,https://github.com/WyattAu/font-shape,"Glyph rasterization and text measurement: exact-coverage scanline fill, stroke expansion, advance/kerning layout, and bidirectional reordering"
+2026-10-06T04:17:38.802841Z,sails-cmd-bracket,0.1.0,0,0,https://github.com/ryanallred/rust-sails,bracket command for the Sails shell
