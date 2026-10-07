@@ -1,0 +1,53 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T01:20:14.824921Z,jackdaw_cli_internal,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Internal command implementations shared by jd and Jackdaw release tooling
+2026-10-07T01:23:12.75604Z,td0-core,0.1.0,0,0,https://github.com/natepugh/libtd0,"Base types and functionality for td0, a parsing and editing library for the .TD0 e-kit/sample pad backup file format. Use the `td0` crate rather than using this crate directly."
+2026-10-07T01:23:14.648649Z,td0-derive,0.1.0,0,0,https://github.com/natepugh/libtd0,"Derive macros for internal use in td0, a parsing and editing library for the .TD0 e-kit/sample pad backup file format. Use the `td0` crate rather than using this crate directly."
+2026-10-07T01:23:16.397108Z,td0-model-ssxp,0.1.0,0,0,https://github.com/natepugh/libtd0,"SPD-SX Pro model implementation for td0, a parsing and editing library for the .TD0 e-kit/sample pad backup file format. Rather than using this crate directly, use the `td0` crate with the `model-spd…"
+2026-10-07T01:23:18.058299Z,td0,0.1.0,0,0,https://github.com/natepugh/libtd0,A parsing and editing library for the .TD0 e-kit/sample pad backup file format.
+2026-10-07T01:25:44.911396Z,fontwich,0.0.0,0,0,,A font sandwich
+2026-10-07T01:25:48.236227Z,mold-elf,0.0.0,0,0,https://github.com/rui314/mold,Reserved for the mold linker
+2026-10-07T01:25:50.891474Z,mold-coff,0.0.0,0,0,https://github.com/rui314/mold,Reserved for the mold linker
+2026-10-07T01:25:54.576117Z,mold-macho,0.0.0,0,0,https://github.com/rui314/mold,Reserved for the mold linker
+2026-10-07T01:26:58.647123Z,eensh,0.1.0,0,0,https://github.com/eensh-project/eensh,"Fast, deterministic X11 screenshot capture utility designed for software agents"
+2026-10-07T01:28:21.343378Z,playr-dsp,0.18.0,0,0,https://github.com/shakfu/playr,"Ramps, filters and interpolation shared by playr's looper and DJ decks"
+2026-10-07T01:28:24.808522Z,playr-dj,0.18.0,0,0,https://github.com/shakfu/playr,"Two beat-matched decks and a mixer with a split headphone cue, for playr"
+2026-10-07T01:28:25.819955Z,playr-looper,0.18.0,0,0,https://github.com/shakfu/playr,"A three-voice tape looper that rewrites its own loop, for playr"
+2026-10-07T01:28:39.089636Z,dnsproxy,0.1.0,0,0,https://github.com/fokx/dnsproxy,"A high-performance, resilient DNS proxy server supporting DNS-over-HTTPS (DoH), parallel querying, connection pooling, SOCKS5 proxies, caching, and IPv6 filtering."
+2026-10-07T01:30:21.050601Z,td0-cli,0.1.0,0,0,https://github.com/natepugh/libtd0,CLI utility for viewing and editing .TD0 e-kit/sample pad backup files.
+2026-10-07T01:30:55.383258Z,jackdaw_extension,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Focused authoring interface for Jackdaw editor extensions
+2026-10-07T01:31:00.842525Z,rightkit-fs,0.1.0,0,0,https://github.com/bogusyogi/claude,"Safe state directories, atomic writes, cross-process locks, owner-only files, and stable file identity for Right Suite apps."
+2026-10-07T01:31:22.899766Z,rightkit-framed-sidecar,0.1.0,0,0,https://github.com/bogusyogi/claude,Bounded JSON-lines transport primitives for Right Suite sidecars.
+2026-10-07T01:32:38.434983Z,rightkit-cache,0.1.0,0,0,https://github.com/bogusyogi/claude,"Disk cache primitive with a hard size cap, LRU eviction that survives restarts, atomic writes and group invalidation, plus stable-prefix prompt-cache keys."
+2026-10-07T01:33:03.241035Z,rightkit-pdf,0.1.0,0,0,https://github.com/bogusyogi/claude,"Product-neutral PDF engine: inspect, compose (source-text replace / add text / OCR correction), font subsetting, staged atomic save, plus optional page merge/select and text extraction"
+2026-10-07T01:33:30.091261Z,rightkit-search,0.1.0,0,0,https://github.com/bogusyogi/claude,"Product-neutral search query language: lexer, AST, operator values, SQL/FTS5 predicate compiler, snippets, and an in-memory filename index."
+2026-10-07T01:35:03.363803Z,krabka-units,0.5.1,0,0,https://github.com/krabka-io/krabka-protocol,"Dimensioned quantities (byte counts, byte rates, durations) for Krabka, built on `uom`"
+2026-10-07T01:35:05.341336Z,krabka-ids,0.5.1,0,0,https://github.com/krabka-io/krabka-protocol,"Canonical newtypes for Krabka's cross-crate Kafka identifiers (offset, partition index, …)"
+2026-10-07T01:35:07.358015Z,krabka-voters,0.5.1,0,0,https://github.com/krabka-io/krabka-protocol,"KIP-853 voter-set value types for Krabka (id, directory-id, endpoints, kraft.version)"
+2026-10-07T01:35:09.275163Z,krabka-trace-context,0.5.1,0,0,https://github.com/krabka-io/krabka-protocol,W3C Trace Context propagation helpers shared by Krabka's wire-protocol crates
+2026-10-07T01:35:11.377773Z,krabka-compression,0.5.1,0,0,https://github.com/krabka-io/krabka-protocol,Kafka wire-protocol compression codecs for Rust
+2026-10-07T01:39:03.471114Z,rightkit-db,0.1.0,0,0,https://github.com/bogusyogi/claude,Correct-by-default SQLite and SQLCipher connection bootstrap for Right Suite apps.
+2026-10-07T01:41:16.901415Z,jackdaw_multiplayer_editor,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Editor extension that surfaces Jackdaw's networking proxy components in the inspector. No networking runtime.
+2026-10-07T01:45:14.076803Z,krabka-hlc,0.5.1,0,0,https://github.com/krabka-io/krabka-protocol,"Hybrid logical clock stamps that ride on Kafka record headers, with a clock-skew observation seam"
+2026-10-07T01:47:42.44163Z,rightkit-browser,0.1.0,0,0,https://github.com/bogusyogi/claude,"Shared Chrome DevTools Protocol browser runtime for Right Suite: multi-page sessions, named profiles, real CDP input, observations with stale-ref checks."
+2026-10-07T01:49:11.173768Z,azterm-parser,0.1.0,0,0,https://github.com/AZBrand/AZTerm-Parser,Terminal parser and emulation library extracted from Alacritty.
+2026-10-07T01:49:59.875629Z,jackdaw_editor,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Composable standalone editor library for Jackdaw
+2026-10-07T01:55:17.945854Z,krabka-protocol,0.5.1,0,0,https://github.com/krabka-io/krabka-protocol,"Apache Kafka wire-protocol codec (4.3.0), with typed RecordBatch and zero-copy borrowed decode"
+2026-10-07T01:57:19.869291Z,rightkit-crash,0.1.0,0,0,https://github.com/bogusyogi/claude,"Privacy-first panic capture, redacted crash reports, native dumps and support bundles for Right Suite apps."
+2026-10-07T02:00:01.635117Z,skia-rust,0.0.0,0,0,https://github.com/CoolBeansStudioOfficial/skia-rust,"Placeholder for skia-rust, a faithful port of Skia to safe Rust. Not usable yet."
+2026-10-07T02:00:03.771431Z,skia-rust-simd,0.0.0,0,0,https://github.com/CoolBeansStudioOfficial/skia-rust,"Placeholder for skia-rust, a faithful port of Skia to safe Rust. Not usable yet."
+2026-10-07T02:00:06.241937Z,skia-rust-core,0.0.0,0,0,https://github.com/CoolBeansStudioOfficial/skia-rust,"Placeholder for skia-rust, a faithful port of Skia to safe Rust. Not usable yet."
+2026-10-07T02:00:08.276536Z,skia-rust-raster,0.0.0,0,0,https://github.com/CoolBeansStudioOfficial/skia-rust,"Placeholder for skia-rust, a faithful port of Skia to safe Rust. Not usable yet."
+2026-10-07T02:00:10.524604Z,skia-rust-skcms,0.0.0,0,0,https://github.com/CoolBeansStudioOfficial/skia-rust,"Placeholder for skia-rust, a faithful port of Skia to safe Rust. Not usable yet."
+2026-10-07T02:00:23.724804Z,nanocodex-oai-tools-macros,0.6.7,0,0,https://github.com/gakonst/nanocodex,Procedural macro implementation for nanocodex-oai-tools
+2026-10-07T02:01:29.97219Z,nanocodex-oai-tools,0.6.7,0,0,https://github.com/gakonst/nanocodex,"OpenAI Responses tool catalog, Code Mode and execution runtime for Nanocodex"
+2026-10-07T02:02:15.469653Z,nanocodex-claude-tools,0.6.7,0,0,,Independent Claude-native host-authorized tool adapters
+2026-10-07T02:02:36.449344Z,nanocodex-claude,0.6.7,0,0,,Typed Anthropic Messages protocol and streaming transport
+2026-10-07T02:07:41.920899Z,everruns-integrations,0.42.0,0,0,https://github.com/everruns/everruns,"Everruns agent integrations, one feature per vendor"
+2026-10-07T02:08:31.927944Z,everruns-integrations-experimental,0.42.0,0,0,https://github.com/everruns/everruns,Experimental Everruns agent integrations
+2026-10-07T02:09:15.137552Z,td0-python,0.1.0,0,0,https://github.com/natepugh/libtd0,"Python3 bindings for td0, a parsing and editing library for the .TD0 e-kit/sample pad backup file format."
+2026-10-07T02:09:47.807936Z,rightkit-media,0.1.0,0,0,https://github.com/bogusyogi/claude,Verified FFmpeg artifact and lifecycle primitives for Right Suite media pipelines.
+2026-10-07T02:10:20.777629Z,agentrun,1.0.0,0,0,https://github.com/yhnocoder/agentrun,"Run claude-code, codex and pi in a sandbox with one command, on macOS, Linux, cloud containers and docker."
+2026-10-07T02:10:41.574093Z,skia-rust-effects,0.0.0,0,0,https://github.com/CoolBeansStudioOfficial/skia-rust,"Placeholder for skia-rust, a faithful port of Skia to safe Rust. Not usable yet."
+2026-10-07T02:13:29.580867Z,token_location,0.1.0,0,0,https://github.com/facebookexperimental/rust-shed,Byte-range source locations for parsed nodes
+2026-10-07T02:14:59.818924Z,mold-common,0.0.0,0,0,https://github.com/rui314/mold,Reserved for the mold linker
+2026-10-07T02:15:52.266572Z,everruns-durable-engine,0.42.0,0,0,https://github.com/everruns/everruns,"Durable turn backend for Everruns: agent turns as queued, checkpointed steps on everruns-durable behind core's TurnBackend"
