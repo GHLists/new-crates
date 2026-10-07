@@ -1,0 +1,14 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T06:20:16.701302Z,virtdisk,0.1.0,0,0,https://github.com/CaddyGlow/virtdisk,Bounded read-only virtual disk access for raw and QCOW2 images with parser budgets
+2026-10-07T06:20:26.33767Z,caddy-ntfs,0.4.1,0,0,https://github.com/CaddyGlow/caddy-ntfs,Fork of the ntfs low-level NTFS filesystem library with error-handling fixes
+2026-10-07T06:23:53.198054Z,partmgr,0.1.0,0,0,https://github.com/CaddyGlow/partmgr,Strict read-only GPT and MBR partition table parsing over virtdisk readers
+2026-10-07T06:27:25.841483Z,polyoxide-sports,0.36.0,0,0,https://github.com/dilettante-trading/polyoxide,Rust client for Polymarket's live sports score WebSocket
+2026-10-07T06:27:46.251502Z,nullroute,0.1.0,0,0,https://github.com/benmckibben/nullroute,Lightweight network isolation and domain filtering sandbox for Linux
+2026-10-07T06:32:49.64708Z,disk-capture,0.1.0,0,0,https://github.com/CaddyGlow/disk-capture,Read-only offline NTFS metadata and logical-stream capture over virtdisk readers
+2026-10-07T06:42:49.34951Z,cpcopy,0.1.0,0,0,https://github.com/CaddyGlow/cpcopy,Independent Rust cp engine with a library and CLI
+2026-10-07T06:55:43.553068Z,baukit-mcp,0.8.0,0,0,https://github.com/PatrickKoss/baukit,OAuth-protected Streamable HTTP MCP transport and scoped service ports for Baukit products.
+2026-10-07T06:56:52.115583Z,leogui,0.6.0,0,0,https://github.com/shakfu/leo-rs,"A desktop front end for leolib, drawn with egui."
+2026-10-07T07:05:13.703446Z,bob-json-parser,0.1.1,0,0,https://github.com/bbelderbos/json_parser,"A hand-written JSON tokenizer and recursive-descent parser, with optional Python bindings"
+2026-10-07T07:10:23.080855Z,rs-rich-data,0.0.1,0,0,https://github.com/buchochelliq-labs/rs-rich-cli,"Tabular data for rs-rich: CSV, TSV, JSONL, serde and Arrow row sources, type inference, column statistics, profiles and data-quality reports"
+2026-10-07T07:14:39.571281Z,wim,0.1.2,0,0,https://github.com/CaddyGlow/wim-rs,Windows Imaging (WIM) archive reader and writer
+2026-10-07T07:17:17.856296Z,aliyunpan,1.0.0,0,0,,Unofficial async Rust SDK for the Aliyun Drive (alipan.com) web API
