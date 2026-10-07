@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T02:20:44.572393Z,skia-rust-sksl,0.0.0,0,0,https://github.com/CoolBeansStudioOfficial/skia-rust,"Placeholder for skia-rust, a faithful port of Skia to safe Rust. Not usable yet."
+2026-10-07T02:24:50.958023Z,rightkit-playback,0.1.0,0,0,https://github.com/bogusyogi/claude,Source-preserving FFmpeg compatibility playback preparation for Right Suite media apps.
+2026-10-07T02:30:47.629467Z,skia-rust-pathops,0.0.0,0,0,https://github.com/CoolBeansStudioOfficial/skia-rust,"Placeholder for skia-rust, a faithful port of Skia to safe Rust. Not usable yet."
+2026-10-07T02:32:30.728506Z,narjar,0.1.0,0,0,https://github.com/mjc/narjar,A filesystem-backed Nix binary cache
+2026-10-07T02:40:50.423302Z,skia-rust-text,0.0.0,0,0,https://github.com/CoolBeansStudioOfficial/skia-rust,"Placeholder for skia-rust, a faithful port of Skia to safe Rust. Not usable yet."
+2026-10-07T02:44:30.869498Z,hawdb-plan-cypher,0.4.0,0,0,https://github.com/nowledge-co/hawdb,An embedded Rust graph database for local data-plane workloads
+2026-10-07T02:45:04.892032Z,kovan-literature,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,KOVAN nuclear-engineering knowledge archive: PDF → Markdown → KovanDocument → BibTeX.
+2026-10-07T02:46:41.649996Z,kovan-semantics,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"KOVAN repository-understanding engine — ripgrep-first, escalating to language-native tooling."
+2026-10-07T02:48:19.155765Z,kovan-metrics,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"KOVAN repository accounting — per-commit API-token trailers and historian reports, read from git and the Claude Code session transcripts."
+2026-10-07T02:48:35.861535Z,rightkit-audio,0.1.0,0,0,https://github.com/bogusyogi/claude,"Shared audio for Right Suite apps: typed FFmpeg filter graphs, loudness gates, room tone, ducking, WAV I/O, and cpal capture with resample/downmix/recovery."
+2026-10-07T02:50:25.937942Z,rustango-cms-macros,0.1.0,0,0,https://github.com/ujeenet/rustango-cms,Derive macros for rustango-cms: #[derive(PageType)] and #[derive(Block)]
+2026-10-07T02:50:29.933354Z,rustango-cms,0.1.0,0,0,https://github.com/ujeenet/rustango-cms,"A page-tree content management system for Rust, built on rustango"
+2026-10-07T02:50:53.258832Z,skia-rust-codec,0.0.0,0,0,https://github.com/CoolBeansStudioOfficial/skia-rust,"Placeholder for skia-rust, a faithful port of Skia to safe Rust. Not usable yet."
+2026-10-07T02:50:57.508178Z,knowledge-oriented-vv-analysis-for-nuclear-sciences-kovan,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"KOVAN (Knowledge Oriented V&V Analysis for Nuclear Sciences): CLI (agent-facing), TUI and GUI (human-facing) front ends over the KOVAN knowledge layer."
+2026-10-07T02:52:44.720453Z,kovan-web,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"KOVAN-WEB — web-kovan, the read-only Code Review UI (code map, crate module trees, module function rings, source panel, review bar) in egui, built for the browser (wasm32) and natively."
+2026-10-07T02:53:28.842146Z,nichlink-kernel,0.2.0,0,0,https://github.com/Nichtigott/nichlink,"Registry, transaction, contracts, grafts, and diagnostics for NichLink"
+2026-10-07T02:53:37.143256Z,nichlink-macro,0.2.0,0,0,https://github.com/Nichtigott/nichlink,Face field normalisation and diagnostics for NichLink's authoring macros
+2026-10-07T03:00:44.806987Z,jwt-rust,1.0.0,0,0,https://github.com/erikwang2013/jwt-rust,"A framework-agnostic JWT plugin for plain Rust and axum, actix-web, rocket, poem, salvo, warp, bee-rust, e-cat: one core, a request guard or eight native adapters, pluggable blacklist storage (redis…"
+2026-10-07T03:00:56.266401Z,skia-rust-gpu,0.0.0,0,0,https://github.com/CoolBeansStudioOfficial/skia-rust,"Placeholder for skia-rust, a faithful port of Skia to safe Rust. Not usable yet."
+2026-10-07T03:09:30.717316Z,mellow,0.2.0,0,0,https://github.com/ritru-labs/mellow,"A calm, modern terminal editor by Ritru Labs. No modes, no manual: just start typing."
+2026-10-07T03:10:59.191878Z,skia-rust-shaper,0.0.0,0,0,https://github.com/CoolBeansStudioOfficial/skia-rust,"Placeholder for skia-rust, a faithful port of Skia to safe Rust. Not usable yet."
+2026-10-07T03:13:10.166132Z,nichlink-toolchain,0.2.0,0,0,https://github.com/Nichtigott/nichlink,The seven thin execution surfaces of NichLink in one crate
+2026-10-07T03:16:42.973142Z,vat-rules,0.1.0,0,0,https://github.com/WyattAu/vat-rules,"Tax categories, exemption codes and rounding regimes shared by the AR and AP sides of an accounting ledger"
+2026-10-07T03:17:52.08296Z,wuu,0.1.0,0,0,https://github.com/dualys/wuu,Ui library for dualys
