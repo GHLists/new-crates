@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T16:21:29.633883Z,ltk_ritobin_derive,0.1.0,0,0,,Derive macros for ltk_ritobin
+2026-10-07T16:21:58.254325Z,midi-auto-connector,0.1.0,0,0,https://github.com/rickprice/midi-auto-connector,"A daemon that auto-connects ALSA and PipeWire MIDI ports based on regex rules, with optional Lua hooks on connect/disconnect."
+2026-10-07T16:22:07.010222Z,jett,0.1.3,0,0,https://github.com/sdkks/jett,Terminal disk space navigator — jettison the junk
+2026-10-07T16:34:28.861777Z,zvidlib-build,0.4.0,0,0,https://github.com/lsegal/zvidlib,Build-script helper that gives zvidlib's macOS targets their Swift runtime search path
+2026-10-07T16:34:29.555656Z,zvidlib-core,0.4.0,0,0,https://github.com/lsegal/zvidlib,"Shared types, I/O, codec traits and the SIMD override for zvidlib"
+2026-10-07T16:34:30.498458Z,zvidlib-hevc-syntax,0.4.0,0,0,https://github.com/lsegal/zvidlib,"HEVC bitstream reading and writing, parameter sets and slice headers for zvidlib"
+2026-10-07T16:34:31.336221Z,zvidlib-aac-encoder,0.4.0,0,0,https://github.com/lsegal/zvidlib,"Platform AAC encoding (AudioToolbox, Media Foundation) for zvidlib"
+2026-10-07T16:34:31.855505Z,zvidlib-av1-syntax,0.4.0,0,0,https://github.com/lsegal/zvidlib,AV1 OBU and codec configuration record parsing for zvidlib
+2026-10-07T16:40:58.583033Z,zvidlib-color,0.4.0,0,0,https://github.com/lsegal/zvidlib,YUV/RGBA color conversion shared by zvidlib's video codecs
+2026-10-07T16:46:17.873043Z,rs-rich-ratatui,0.0.1,0,0,https://github.com/buchochelliq-labs/rs-rich-cli,"ratatui interop for rs-rich: rich renderables as ratatui widgets, buffers as rich lines, and ratatui widgets as rs-rich-interact components"
+2026-10-07T16:48:46.794244Z,redact-pdf,0.0.1,0,0,https://github.com/stabrise/redact-pdf,"Redact PDFs from the command line: AI detection of personal data, OCR, permanent removal of text and metadata (early preview)"
+2026-10-07T16:50:44.923163Z,zvidlib-av1,0.4.0,0,0,https://github.com/lsegal/zvidlib,AV1 coding tools shared by zvidlib's AV1 encoder and reference decoders
+2026-10-07T16:51:35.703334Z,acton-service-core,0.47.0,0,0,https://github.com/Govcraft/acton-service,Independent core contracts and implementation for acton-service
+2026-10-07T16:51:36.315648Z,acton-service-audit,0.47.0,0,0,https://github.com/Govcraft/acton-service,Independent audit contracts and implementation for acton-service
+2026-10-07T16:51:37.991239Z,acton-service-clickhouse,0.47.0,0,0,https://github.com/Govcraft/acton-service,Independent clickhouse contracts and implementation for acton-service
+2026-10-07T16:51:38.522928Z,acton-service-mssql,0.47.0,0,0,https://github.com/Govcraft/acton-service,Independent mssql contracts and implementation for acton-service
+2026-10-07T16:51:38.856093Z,acton-service-postgres,0.47.0,0,0,https://github.com/Govcraft/acton-service,Independent postgres contracts and implementation for acton-service
+2026-10-07T16:52:22.49805Z,pdf-redaction,0.0.1,0,0,https://github.com/stabrise/redact-pdf,Alias for redact-pdf: redact PDFs from the command line (early preview)
+2026-10-07T16:52:48.005215Z,redact-pdf-cli,0.0.1,0,0,https://github.com/stabrise/redact-pdf,Alias for redact-pdf: redact PDFs from the command line (early preview)
+2026-10-07T17:03:04.899937Z,srvm,0.1.0-rc.1,0,0,https://github.com/thecont1/srvm,Zero-config universal app launcher
+2026-10-07T17:03:31.508262Z,acton-service-surrealdb,0.47.0,0,0,https://github.com/Govcraft/acton-service,Independent surrealdb contracts and implementation for acton-service
+2026-10-07T17:05:51.360546Z,rs-rich-intuituive,0.0.1,0,0,https://github.com/buchochelliq-labs/rs-rich-cli,"intuiTUIve: a reactive, retained terminal UI framework built on rs-rich"
+2026-10-07T17:07:29.384731Z,winnow-token-stream,0.1.0,0,0,https://github.com/facebookexperimental/rust-shed,"A winnow stream of tokens, lexed on demand by a tokenizer function"
+2026-10-07T17:07:56.428163Z,anyoauth-sdk,0.1.0,0,0,,AnyOAuth confidential backend SDK
+2026-10-07T17:08:51.226272Z,win-shared-os-owned-handle,0.1.0,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"A shared owner of a Windows handle: std's OwnedHandle behind a reference count, cheap to clone, lending its handle, and giving it back to the last holder. No unsafe code and no native API surface."
+2026-10-07T17:09:45.403639Z,acton-service-turso,0.47.0,0,0,https://github.com/Govcraft/acton-service,Independent turso contracts and implementation for acton-service
+2026-10-07T17:09:52.588392Z,howl-reasoner,0.1.0,0,0,https://github.com/Trivyn/howl,Rust bindings for the HOWL consequence-based description-logic reasoner
+2026-10-07T17:10:33.023965Z,attestcoin-abi-encoding,0.7.0,0,0,https://github.com/gluwa/attestcoin-sdk-rs,Ethereum ABI encoding library. Used for the encoding of transactions and proof submission in the Attestcoin protocol.
+2026-10-07T17:13:27.280178Z,car-commons,0.56.1,0,0,https://github.com/Parslee-ai/car,"Shared append-only contribution graph — durable attempts, evidence, and a diversity-aware frontier for agents that never meet"
+2026-10-07T17:14:20.719303Z,car-context,0.56.1,0,0,https://github.com/Parslee-ai/car,Immutable authority/account/organization routing context for CAR work.
+2026-10-07T17:14:25.041027Z,attestcoin-query-builder,0.9.0,0,0,https://github.com/gluwa/attestcoin-sdk-rs,Query builder library. Used for the construction of Attestcoin proving queries.
+2026-10-07T17:15:30.987746Z,zvidlib-av1-decoder,0.4.0,0,0,https://github.com/lsegal/zvidlib,Pure-Rust AV1 software decoder for zvidlib
+2026-10-07T17:15:31.823463Z,zvidlib-av1-encoder,0.4.0,0,0,https://github.com/lsegal/zvidlib,Pure-Rust AV1 software encoder for zvidlib
