@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T12:24:33.654921Z,astli-sema,0.3.0,0,0,https://github.com/fischeti/astli,"Semantic analysis of SystemVerilog: its HIR, names and meaning"
+2026-10-07T12:24:37.525385Z,astli-lint,0.3.0,0,0,https://github.com/fischeti/astli,SystemVerilog lint rules over astli's syntax tree
+2026-10-07T12:26:15.036246Z,fieldkin,0.1.0,0,0,https://github.com/limadog9/fieldkin,Experimental field correspondence suggestions for flat schemas
+2026-10-07T12:30:48.231321Z,wadah-repo,0.1.0,0,0,https://github.com/techwadah-web/wadah-engine,Deterministic local Git repository analysis and knowledge store behind the wadah CLI and MCP server. Internal crate; no stability guarantee.
+2026-10-07T12:30:48.685977Z,wadah-spec,0.1.0,0,0,https://github.com/techwadah-web/wadah-engine,WadahSpec manifest types and validation for Wadah agent packages. Internal crate of the wadah CLI; no stability guarantee.
+2026-10-07T12:30:49.051675Z,wadah-trace,0.1.0,0,0,https://github.com/techwadah-web/wadah-engine,OpenAgentTrace (OAT) trace format used by the wadah CLI. Internal crate; no stability guarantee.
+2026-10-07T12:30:50.097922Z,wadah-oci,0.1.0,0,0,https://github.com/techwadah-web/wadah-engine,OCI registry push and pull for Wadah agent packages. Internal crate of the wadah CLI; no stability guarantee.
+2026-10-07T12:30:50.353702Z,wadah-pack,0.1.0,0,0,https://github.com/techwadah-web/wadah-engine,"Builder, extractor and integrity checks for .wpkg Wadah agent packages. Internal crate of the wadah CLI; no stability guarantee."
+2026-10-07T12:34:43.393664Z,tpt-kinetix-demux,0.1.1,0,0,https://github.com/tpt-solutions/tpt-kinetix,Container demuxers for the TPT Kinetix media processing engine
+2026-10-07T12:47:00.245087Z,fakeable_impl,0.2.0,0,0,https://github.com/microsoft/oxidizer/tree/main/crates/fakeable_impl,Implementation details for the fakeable procedural macros.
+2026-10-07T12:51:03.001064Z,av-core,0.1.0,0,0,https://github.com/syntropika/agents-vault,"Project configuration, credential policy, and encrypted storage for Agents Vault"
+2026-10-07T12:51:03.882069Z,av-proxy,0.1.0,0,0,https://github.com/syntropika/agents-vault,Bounded HTTPS credential injection proxy for Agents Vault
+2026-10-07T12:51:04.442102Z,av-runner,0.1.0,0,0,https://github.com/syntropika/agents-vault,Experimental Linux network-isolated CLI runner primitive
+2026-10-07T12:51:05.130019Z,av-vmm,0.1.0,0,0,https://github.com/syntropika/agents-vault,macOS guest supervision and task isolation primitives for Agents Vault
+2026-10-07T12:51:08.899134Z,avd,0.1.0,0,0,https://github.com/syntropika/agents-vault,"Credential broker, local operator console, and approval services for Agents Vault"
+2026-10-07T12:57:06.866175Z,wadah-runtime,0.1.0,0,0,https://github.com/techwadah-web/wadah-engine,Experimental agent runtime and model adapters for the wadah CLI. Internal crate; no stability guarantee.
+2026-10-07T12:57:26.050822Z,fakeable,0.2.0,0,0,https://github.com/microsoft/oxidizer/tree/main/crates/fakeable,Procedural macros for switching concrete types between real and fake implementations.
+2026-10-07T12:58:05.019445Z,agents-vault,0.1.0,0,0,https://github.com/syntropika/agents-vault,"Local project configuration, encrypted credentials, and reviewed CLI actions"
+2026-10-07T12:58:14.869947Z,wadah-cli,0.1.0,0,0,https://github.com/techwadah-web/wadah-engine,Local knowledge store and read-only MCP server that gives AI coding assistants a commit-pinned map of your codebase. Installs the `wadah` command.
+2026-10-07T13:02:32.643005Z,rossiwm,0.0.0,0,0,https://github.com/so1ve/rossi,Placeholder for the Rossi Wayland compositor; implementation under development
+2026-10-07T13:02:36.681636Z,rossi-core,0.0.0,0,0,https://github.com/so1ve/rossi,Placeholder for Rossi's compositor core; implementation under development
+2026-10-07T13:02:39.580138Z,rossi-backend-winit,0.0.0,0,0,https://github.com/so1ve/rossi,Placeholder for Rossi's nested Winit backend; implementation under development
+2026-10-07T13:02:41.677868Z,rossi-backend-drm,0.0.0,0,0,https://github.com/so1ve/rossi,Placeholder for Rossi's DRM backend; implementation under development
+2026-10-07T13:02:44.34783Z,rossi-reactive,0.0.0,0,0,https://github.com/so1ve/rossi,Placeholder for Rossi's reactive state library; implementation under development
+2026-10-07T13:05:37.642674Z,av-mcp,0.1.0,0,0,https://github.com/syntropika/agents-vault,MCP Apps approval adapter for Agents Vault
+2026-10-07T13:15:01.854886Z,vellev-core,0.1.0,0,0,https://github.com/driftwerk/vellev,"Shared types of the vellev vector database: ids, schemas, objects and values"
+2026-10-07T13:15:09.430455Z,vellev-index,0.1.0,0,0,https://github.com/driftwerk/vellev,"Vector, keyword and filter indexes of the vellev vector database"
+2026-10-07T13:15:13.220224Z,vellev-api,0.1.0,0,0,https://github.com/driftwerk/vellev,The HTTP API types of the vellev vector database
+2026-10-07T13:15:49.751407Z,vellev-client,0.1.0,0,0,https://github.com/driftwerk/vellev,A client for the vellev vector database's HTTP API
