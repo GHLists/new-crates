@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T21:20:00.651114Z,ktrs-project,0.5.0,0,0,https://github.com/Hexay/ktrs,Best-effort detection of the Kotlin formatter and linter a Gradle or Maven build configures
+2026-10-07T21:20:13.727687Z,ktrs-lsp,0.5.0,0,0,https://github.com/Hexay/ktrs,"Language server for Kotlin formatting and linting: ktlint diagnostics, fixes and suppressions, ktfmt or ktlint formatting"
+2026-10-07T21:21:22.324596Z,proofchain,0.1.0,0,0,https://github.com/LATTIX-IO/proofchain,proofchain library for the proofchain project.
+2026-10-07T21:24:10.585062Z,intr_gen,0.1.0,0,0,https://github.com/bobbothe2nd/x86_intr,Additional x86_64 intrinsics
+2026-10-07T21:31:39.177794Z,lumia-core,0.0.0,0,0,,Batteries-included REST API framework for Rust.
+2026-10-07T21:32:10.22286Z,lumia-macros,0.0.0,0,0,,Batteries-included REST API framework for Rust.
+2026-10-07T21:33:03.582824Z,lumia-openapi,0.0.0,0,0,,Batteries-included REST API framework for Rust.
+2026-10-07T21:33:21.476052Z,lumia-telemetry,0.0.0,0,0,,Batteries-included REST API framework for Rust.
+2026-10-07T21:46:51.388447Z,yoke-sdk,0.3.0,0,0,https://github.com/yoke-project/yoke-sdk-rust,"The Rust libraries of Yoke: the base, and the library a Plugin unit is written with"
+2026-10-07T21:46:56.306211Z,cortexkit-bus-trait,0.2.0,0,0,https://github.com/cortexkit/commons,NATS-shaped message-plane traits and backend conformance contract
+2026-10-07T21:46:59.952476Z,cortexkit-bus-naming,0.2.0,0,0,https://github.com/cortexkit/commons,"Subject, stream, bucket, consumer and grant naming rules for the CortexKit message plane"
+2026-10-07T21:48:07.783713Z,cortexkit-bus-nats,0.2.0,0,0,https://github.com/cortexkit/commons,async-nats backend for the CortexKit message-plane traits
+2026-10-07T21:48:15.387807Z,cortexkit-bus-inmemory,0.2.0,0,0,https://github.com/cortexkit/commons,Deterministic in-memory backend for the CortexKit NATS-shaped bus traits
+2026-10-07T21:50:12.666878Z,shelly-shell,0.1.0,0,0,https://github.com/cstrainge/shelly,A Rust based Unix style shell with a typed and structured language syntax.
+2026-10-07T21:51:54.312139Z,clicat,0.1.0,0,0,,A command line utility for the DataCat API.
+2026-10-07T22:04:08.31005Z,bryl-pattern,0.1.0,0,0,https://github.com/lendsimple/bryl-rs,Date/time pattern tokens shared by bryl and bryl-derive
+2026-10-07T22:04:09.941815Z,bryl-derive,0.1.0,0,0,https://github.com/lendsimple/bryl-rs,Derive macros for bryl fixed-width records
+2026-10-07T22:04:11.394416Z,bryl,0.1.0,0,0,https://github.com/lendsimple/bryl-rs,Declarative fixed-width record encoding and decoding
+2026-10-07T22:04:13.066877Z,bryl-metro2,0.1.0,0,0,https://github.com/lendsimple/bryl-rs,Metro 2 credit reporting file reading and writing
+2026-10-07T22:04:13.474122Z,bryl-nacha,0.1.0,0,0,https://github.com/lendsimple/bryl-rs,NACHA ACH file reading and writing
+2026-10-07T22:05:00.356018Z,rff-format-mjpeg,0.2.2,0,0,https://github.com/Remade-With-Rust/remade_ffmpeg_rs,"Remade FFmpeg (Rust): Motion JPEG containers — raw concatenated JPEG streams (mjpeg) and MJPEG over HTTP, multipart/x-mixed-replace (mpjpeg)."
+2026-10-07T22:05:05.062397Z,rff-format-rtp,0.2.2,0,0,https://github.com/Remade-With-Rust/remade_ffmpeg_rs,"Remade FFmpeg (Rust): timed H.264 / JPEG frames as received over rtp:// (RFC 6184, RFC 2435)."
+2026-10-07T22:06:29.90528Z,zvidlib-opus-syntax,0.4.1,0,0,https://github.com/lsegal/zvidlib,Opus configuration records and packet timing shared by zvidlib's containers and Opus codec
+2026-10-07T22:06:31.620512Z,zvidlib-vorbis-syntax,0.4.1,0,0,https://github.com/lsegal/zvidlib,Vorbis header parsing and packet timing shared by zvidlib's containers and Vorbis codecs
+2026-10-07T22:06:33.15511Z,zvidlib-container,0.4.1,0,0,https://github.com/lsegal/zvidlib,MP4 and WebM muxing and demuxing for zvidlib
+2026-10-07T22:06:41.744902Z,zvidlib-vp9-syntax,0.4.1,0,0,https://github.com/lsegal/zvidlib,"VP9 frame inspection, picture output and level selection shared by zvidlib's VP9 codecs and hardware backends"
+2026-10-07T22:06:43.288692Z,zvidlib-hardware,0.4.1,0,0,https://github.com/lsegal/zvidlib,"Platform hardware video backends (NVDEC, Media Foundation, VideoToolbox) for zvidlib"
+2026-10-07T22:14:25.910859Z,macro-lang,1.0.0,0,0,https://github.com/jamesgober/macro-lang,Hygienic macro expansion: pattern match + template substitution.
+2026-10-07T22:14:36.704866Z,lint-lang,1.0.0,0,0,https://github.com/jamesgober/lint-lang,Lint framework: configurable rules over an AST that emit diagnostics.
+2026-10-07T22:15:17.104906Z,repl-lang,1.0.0,0,0,https://github.com/jamesgober/repl-lang,"Read-eval-print loop scaffolding: line editing, session state, and incremental input feed."
+2026-10-07T22:15:50.082709Z,incremental-lang,1.0.0,0,0,https://github.com/jamesgober/incremental-lang,Incremental reparsing for editor tooling: reparse only the region an edit touched.
+2026-10-07T22:16:31.830296Z,zvidlib-hevc,0.4.1,0,0,https://github.com/lsegal/zvidlib,HEVC coding tools shared by zvidlib's HEVC decoder and encoder
+2026-10-07T22:17:33.265828Z,treesitter-lang,1.0.0,0,0,https://github.com/jamesgober/treesitter-lang,Generate Tree-sitter grammars (grammar.js and grammar.json) and corpus tests from Rust.

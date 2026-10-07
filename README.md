@@ -8,51 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 21:18 UTC
+## Latest list — 2026-10-07 22:19 UTC
 
-New crates published between 2026-10-07 20:21 UTC and 2026-10-07 21:18 UTC.
+New crates published between 2026-10-07 21:18 UTC and 2026-10-07 22:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-07T21-18-39-029886Z.csv)
+[Full CSV](data/new-crates-2026-10-07T22-19-31-826363Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-07 20:21:21 | [crush-lang-js](https://crates.io/crates/crush-lang-js) | 0.3.9 | 0 | JavaScript/TypeScript language support for Crush — dual-backend JS/TS frontend… |
-| 2026-10-07 20:21:22 | [crush-lang-python](https://crates.io/crates/crush-lang-python) | 0.3.9 | 0 | Python language support for Crush — parser + CAST lowering backed by rustpython… |
-| 2026-10-07 20:21:54 | [scafra-macros](https://crates.io/crates/scafra-macros) | 0.1.0-snapshot.1 | 0 | Procedural macros for the Scafra web framework |
-| 2026-10-07 20:29:02 | [ssh-sentinel-agent](https://crates.io/crates/ssh-sentinel-agent) | 0.7.4 | 0 | SSH Sentinel log shipper. Tails the auth log and pushes to central. |
-| 2026-10-07 20:29:17 | [ssh-sentinel](https://crates.io/crates/ssh-sentinel) | 0.7.4 | 0 | SSH Sentinel central. Serves the SSH attack intel API plus UI. |
-| 2026-10-07 20:30:37 | [reason-runtime](https://crates.io/crates/reason-runtime) | 0.1.0 | 0 | reason-runtime library for the reason-runtime project. |
-| 2026-10-07 20:33:27 | [agent-harness-adapter-core](https://crates.io/crates/agent-harness-adapter-core) | 0.1.0 | 0 | Plug a CLI into LLM agent harnesses (Claude Code, Codex, Gemini CLI, Copilot, C… |
-| 2026-10-07 20:33:29 | [agent-harness-adapter](https://crates.io/crates/agent-harness-adapter) | 0.1.0 | 0 | agent-harness-adapter: install a tool's integration into LLM agent harnesses (C… |
-| 2026-10-07 20:38:44 | [alibi-seaorm-macros](https://crates.io/crates/alibi-seaorm-macros) | 0.1.1 | 0 | SeaORM proc macros for Alibi |
-| 2026-10-07 20:38:45 | [alibi-sqlx-macros](https://crates.io/crates/alibi-sqlx-macros) | 0.1.1 | 0 | SQLx proc macros for Alibi |
-| 2026-10-07 20:38:47 | [alibi-seaorm](https://crates.io/crates/alibi-seaorm) | 0.1.1 | 0 | SeaORM integration for Alibi |
-| 2026-10-07 20:38:48 | [alibi-sqlx](https://crates.io/crates/alibi-sqlx) | 0.1.1 | 0 | SQLx integration for Alibi |
-| 2026-10-07 20:38:50 | [alibi](https://crates.io/crates/alibi) | 0.1.1 | 0 | Authentication for Rust, compatible with Better Auth’s TypeScript client |
-| 2026-10-07 20:41:46 | [reasonbench](https://crates.io/crates/reasonbench) | 0.1.0 | 0 | reasonbench library for the reason-runtime project. |
-| 2026-10-07 20:45:38 | [wsr-client](https://crates.io/crates/wsr-client) | 0.0.3 | 0 | HTTP client for fetching actions and Wasm components, with SHA pinning |
-| 2026-10-07 20:45:43 | [wsr-cache](https://crates.io/crates/wsr-cache) | 0.0.3 | 0 | Content-addressed Wasm module cache keyed by SHA-256 digest |
-| 2026-10-07 20:47:28 | [autumn-plugin-meta-pixel](https://crates.io/crates/autumn-plugin-meta-pixel) | 0.1.0 | 0 | Meta Pixel plugin for autumn-web: consent-gated, CSP-safe pixel loader served a… |
-| 2026-10-07 20:47:55 | [reasonflow](https://crates.io/crates/reasonflow) | 0.1.0 | 0 | reasonflow library for the reason-runtime project. |
-| 2026-10-07 20:49:53 | [wsr-shell](https://crates.io/crates/wsr-shell) | 0.0.3 | 0 | Shell step executor for run: directives (bash, sh, pwsh) within the wsr sandbox |
-| 2026-10-07 20:51:04 | [scafra-config](https://crates.io/crates/scafra-config) | 0.1.0-snapshot.1 | 0 | Typed configuration primitives for Scafra applications |
-| 2026-10-07 20:51:09 | [scafra-web](https://crates.io/crates/scafra-web) | 0.1.0-snapshot.1 | 0 | Axum and Tokio integration for Scafra |
-| 2026-10-07 20:51:19 | [scafra-build](https://crates.io/crates/scafra-build) | 0.1.0-snapshot.1 | 0 | Compile-time source discovery support for Scafra applications |
-| 2026-10-07 20:52:34 | [ecsterm](https://crates.io/crates/ecsterm) | 0.1.1 | 0 | TUI to browse ECS clusters, services, containers and tasks and run the matching… |
-| 2026-10-07 20:53:37 | [rightkit-qts-ggml-sys](https://crates.io/crates/rightkit-qts-ggml-sys) | 0.1.0 | 0 | Low-level FFI bindings to ggml (CPU, Metal, Vulkan, BLAS) for rightkit-qts, ven… |
-| 2026-10-07 20:54:26 | [autumn-plugin-leptos](https://crates.io/crates/autumn-plugin-leptos) | 0.1.0 | 0 | Autumn plugin: Leptos (wasm) islands in Maud + htmx pages. |
-| 2026-10-07 20:56:23 | [rightkit-qts-ggml](https://crates.io/crates/rightkit-qts-ggml) | 0.1.0 | 0 | Thin safe wrappers over rightkit-qts-ggml-sys for rightkit-qts, vendored from y… |
-| 2026-10-07 20:57:14 | [wsr-gha](https://crates.io/crates/wsr-gha) | 0.0.3 | 0 | GitHub Actions provider adapter: YAML parser, context builder, and trigger mapp… |
-| 2026-10-07 20:58:02 | [rightkit-qts](https://crates.io/crates/rightkit-qts) | 0.1.1 | 0 | Qwen3 TTS inference (GGUF + GGML), vendored from yet-another-ai/qts v0.2.0 for… |
-| 2026-10-07 20:59:04 | [reasontest](https://crates.io/crates/reasontest) | 0.1.0 | 0 | reasontest library for the reason-runtime project. |
-| 2026-10-07 21:00:08 | [review-queue](https://crates.io/crates/review-queue) | 0.1.0 | 0 | Track reviews across Phabricator, GitHub, and other sources; check them out loc… |
-| 2026-10-07 21:02:37 | [migratr-format](https://crates.io/crates/migratr-format) | 0.1.0 | 0 | The migratr migration file format: types, parser and checksum. |
-| 2026-10-07 21:02:39 | [migratr-macros](https://crates.io/crates/migratr-macros) | 0.1.0 | 0 | The embed! macro for migratr: validates and embeds a migrations directory at co… |
-| 2026-10-07 21:02:41 | [migratr](https://crates.io/crates/migratr) | 0.1.0 | 0 | Schema migrations for SQLite: JSON migration files, safe table rebuilds, revers… |
-| 2026-10-07 21:02:43 | [migratr-cli](https://crates.io/crates/migratr-cli) | 0.1.0 | 0 | The migratr command line: new, up, down, status, plan and restore for SQLite sc… |
-| 2026-10-07 21:04:45 | [garage49-tui-iocraft](https://crates.io/crates/garage49-tui-iocraft) | 0.1.0 | 0 | garage49 TUI design system for Rust: OpenCode's look and feel as iocraft compon… |
-| 2026-10-07 21:10:13 | [grounder](https://crates.io/crates/grounder) | 0.1.0 | 0 | grounder library for the grounder project. |
-| 2026-10-07 21:13:41 | [alink](https://crates.io/crates/alink) | 0.1.0 | 0 | Encrypted, asynchronous agent-to-agent messaging over iroh |
+| 2026-10-07 21:20:00 | [ktrs-project](https://crates.io/crates/ktrs-project) | 0.5.0 | 0 | Best-effort detection of the Kotlin formatter and linter a Gradle or Maven buil… |
+| 2026-10-07 21:20:13 | [ktrs-lsp](https://crates.io/crates/ktrs-lsp) | 0.5.0 | 0 | Language server for Kotlin formatting and linting: ktlint diagnostics, fixes an… |
+| 2026-10-07 21:21:22 | [proofchain](https://crates.io/crates/proofchain) | 0.1.0 | 0 | proofchain library for the proofchain project. |
+| 2026-10-07 21:24:10 | [intr_gen](https://crates.io/crates/intr_gen) | 0.1.0 | 0 | Additional x86_64 intrinsics |
+| 2026-10-07 21:31:39 | [lumia-core](https://crates.io/crates/lumia-core) | 0.0.0 | 0 | Batteries-included REST API framework for Rust. |
+| 2026-10-07 21:32:10 | [lumia-macros](https://crates.io/crates/lumia-macros) | 0.0.0 | 0 | Batteries-included REST API framework for Rust. |
+| 2026-10-07 21:33:03 | [lumia-openapi](https://crates.io/crates/lumia-openapi) | 0.0.0 | 0 | Batteries-included REST API framework for Rust. |
+| 2026-10-07 21:33:21 | [lumia-telemetry](https://crates.io/crates/lumia-telemetry) | 0.0.0 | 0 | Batteries-included REST API framework for Rust. |
+| 2026-10-07 21:46:51 | [yoke-sdk](https://crates.io/crates/yoke-sdk) | 0.3.0 | 0 | The Rust libraries of Yoke: the base, and the library a Plugin unit is written… |
+| 2026-10-07 21:46:56 | [cortexkit-bus-trait](https://crates.io/crates/cortexkit-bus-trait) | 0.2.0 | 0 | NATS-shaped message-plane traits and backend conformance contract |
+| 2026-10-07 21:46:59 | [cortexkit-bus-naming](https://crates.io/crates/cortexkit-bus-naming) | 0.2.0 | 0 | Subject, stream, bucket, consumer and grant naming rules for the CortexKit mess… |
+| 2026-10-07 21:48:07 | [cortexkit-bus-nats](https://crates.io/crates/cortexkit-bus-nats) | 0.2.0 | 0 | async-nats backend for the CortexKit message-plane traits |
+| 2026-10-07 21:48:15 | [cortexkit-bus-inmemory](https://crates.io/crates/cortexkit-bus-inmemory) | 0.2.0 | 0 | Deterministic in-memory backend for the CortexKit NATS-shaped bus traits |
+| 2026-10-07 21:50:12 | [shelly-shell](https://crates.io/crates/shelly-shell) | 0.1.0 | 0 | A Rust based Unix style shell with a typed and structured language syntax. |
+| 2026-10-07 21:51:54 | [clicat](https://crates.io/crates/clicat) | 0.1.0 | 0 | A command line utility for the DataCat API. |
+| 2026-10-07 22:04:08 | [bryl-pattern](https://crates.io/crates/bryl-pattern) | 0.1.0 | 0 | Date/time pattern tokens shared by bryl and bryl-derive |
+| 2026-10-07 22:04:09 | [bryl-derive](https://crates.io/crates/bryl-derive) | 0.1.0 | 0 | Derive macros for bryl fixed-width records |
+| 2026-10-07 22:04:11 | [bryl](https://crates.io/crates/bryl) | 0.1.0 | 0 | Declarative fixed-width record encoding and decoding |
+| 2026-10-07 22:04:13 | [bryl-metro2](https://crates.io/crates/bryl-metro2) | 0.1.0 | 0 | Metro 2 credit reporting file reading and writing |
+| 2026-10-07 22:04:13 | [bryl-nacha](https://crates.io/crates/bryl-nacha) | 0.1.0 | 0 | NACHA ACH file reading and writing |
+| 2026-10-07 22:05:00 | [rff-format-mjpeg](https://crates.io/crates/rff-format-mjpeg) | 0.2.2 | 0 | Remade FFmpeg (Rust): Motion JPEG containers — raw concatenated JPEG streams (m… |
+| 2026-10-07 22:05:05 | [rff-format-rtp](https://crates.io/crates/rff-format-rtp) | 0.2.2 | 0 | Remade FFmpeg (Rust): timed H.264 / JPEG frames as received over rtp:// (RFC 61… |
+| 2026-10-07 22:06:29 | [zvidlib-opus-syntax](https://crates.io/crates/zvidlib-opus-syntax) | 0.4.1 | 0 | Opus configuration records and packet timing shared by zvidlib's containers and… |
+| 2026-10-07 22:06:31 | [zvidlib-vorbis-syntax](https://crates.io/crates/zvidlib-vorbis-syntax) | 0.4.1 | 0 | Vorbis header parsing and packet timing shared by zvidlib's containers and Vorb… |
+| 2026-10-07 22:06:33 | [zvidlib-container](https://crates.io/crates/zvidlib-container) | 0.4.1 | 0 | MP4 and WebM muxing and demuxing for zvidlib |
+| 2026-10-07 22:06:41 | [zvidlib-vp9-syntax](https://crates.io/crates/zvidlib-vp9-syntax) | 0.4.1 | 0 | VP9 frame inspection, picture output and level selection shared by zvidlib's VP… |
+| 2026-10-07 22:06:43 | [zvidlib-hardware](https://crates.io/crates/zvidlib-hardware) | 0.4.1 | 0 | Platform hardware video backends (NVDEC, Media Foundation, VideoToolbox) for zv… |
+| 2026-10-07 22:14:25 | [macro-lang](https://crates.io/crates/macro-lang) | 1.0.0 | 0 | Hygienic macro expansion: pattern match + template substitution. |
+| 2026-10-07 22:14:36 | [lint-lang](https://crates.io/crates/lint-lang) | 1.0.0 | 0 | Lint framework: configurable rules over an AST that emit diagnostics. |
+| 2026-10-07 22:15:17 | [repl-lang](https://crates.io/crates/repl-lang) | 1.0.0 | 0 | Read-eval-print loop scaffolding: line editing, session state, and incremental… |
+| 2026-10-07 22:15:50 | [incremental-lang](https://crates.io/crates/incremental-lang) | 1.0.0 | 0 | Incremental reparsing for editor tooling: reparse only the region an edit touch… |
+| 2026-10-07 22:16:31 | [zvidlib-hevc](https://crates.io/crates/zvidlib-hevc) | 0.4.1 | 0 | HEVC coding tools shared by zvidlib's HEVC decoder and encoder |
+| 2026-10-07 22:17:33 | [treesitter-lang](https://crates.io/crates/treesitter-lang) | 1.0.0 | 0 | Generate Tree-sitter grammars (grammar.js and grammar.json) and corpus tests fr… |
 
 ## Data source
 
