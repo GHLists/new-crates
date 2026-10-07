@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T13:28:31.500577Z,rustploy,0.1.0,0,0,https://github.com/antoniofernandodj/rustploy-daemon,Rustploy PaaS daemon — lightweight self-hosted deployment platform
+2026-10-07T13:29:25.518099Z,pg_fake_sqlparser_derive,0.6.0,0,0,https://github.com/myxo/datafusion-sqlparser-rs,Procedural macros for the pg_fake_sqlparser fork
+2026-10-07T13:29:50.649555Z,regit-web3,1.0.1,0,0,https://github.com/org-regit-io/regit-web3,"Modular Web3 primitives for exact values, chain and provider reads, swap quotes, and transaction preparation"
+2026-10-07T13:30:04.056893Z,pg_fake_sqlparser,0.63.0,0,0,https://github.com/myxo/datafusion-sqlparser-rs,SQL lexer and parser fork maintained for pg_fake
+2026-10-07T13:30:12.013772Z,sitrephq,0.1.0,0,0,https://github.com/lamplitkeep/sitrephq,A self-hosted status dashboard with flexibility
+2026-10-07T13:30:15.000774Z,rustploy-gui,0.1.1,0,0,https://github.com/antoniofernandodj/rustploy-gui,Rustploy — desktop client (glacier-ui) for the Rustploy PaaS daemon
+2026-10-07T13:33:37.22098Z,bobcat-entrypoints,0.1.1,0,0,https://github.com/fluidity-money/bobcat-entrypoints,Entrypoint helper types for Stylus entrypoint code.
+2026-10-07T13:36:15.699932Z,mnemex,0.1.1,0,0,https://github.com/mhalder/mnemex,Authors and validates notes in a governed markdown vault
+2026-10-07T13:36:34.672839Z,maps-engine-rust,0.1.0,0,0,,"Zero-dependency map engine core in Rust — Web Mercator projection, tiles, geofencing, clustering, navigation math."
+2026-10-07T13:43:28.305907Z,caretline-cli,0.2.1,0,0,https://github.com/brancusi/thought-control,"caretline: a terminal text editor on the caretline engine, with state snapshots and exact replay"
+2026-10-07T13:43:49.49354Z,microvms-domain,0.0.0,0,0,https://github.com/laithalsaadoon/microvms-agentd,Reserved for microvms-agentd: the first release is 0.11.0
+2026-10-07T13:43:51.205476Z,microvms-app,0.0.0,0,0,https://github.com/laithalsaadoon/microvms-agentd,Reserved for microvms-agentd: the first release is 0.11.0
+2026-10-07T13:43:52.901274Z,microvms-edges,0.0.0,0,0,https://github.com/laithalsaadoon/microvms-agentd,Reserved for microvms-agentd: the first release is 0.11.0
+2026-10-07T13:51:44.426656Z,bnv,0.1.0,0,0,https://github.com/slimreaper35/bnv,"A beautiful, modern environment variable explorer"
+2026-10-07T14:00:39.24099Z,mpeg2-systems,0.0.0,0,0,https://gitlab.freedesktop.org/bilboed/mpeg2-systems.git,MPEG-2 Systems (ISO/IEC 13818-1 / ITU-T H.222.0) parsing and demultiplexing
+2026-10-07T14:02:07.687009Z,tracel-datasets,0.11.0,0,0,https://github.com/tracel-ai/tracel,Backend-agnostic dataset domain and capability for Tracel.
+2026-10-07T14:04:22.749295Z,axum-ipware,0.1.0,0,0,https://github.com/orhanbalci/axum-ipware,"Client IP extraction and IP allow/block filtering middleware for axum, powered by ipware"
+2026-10-07T14:04:41.966997Z,tracel-models,0.11.0,0,0,https://github.com/tracel-ai/tracel,Backend-agnostic model domain and capability for Tracel.
+2026-10-07T14:06:19.617407Z,tracel-experiment-remote,0.11.0,0,0,https://github.com/tracel-ai/tracel,Websocket-backed ExperimentSession shared by every backend that speaks the Tracel remote experiment protocol.
+2026-10-07T14:07:53.844328Z,tracel-console,0.11.0,0,0,https://github.com/tracel-ai/tracel,Burn-free SDK for the Tracel console domain.
+2026-10-07T14:08:23.138386Z,tracel-station,0.11.0,0,0,https://github.com/tracel-ai/tracel,Burn-free client for a Tracel Station.
+2026-10-07T14:13:00.640617Z,a2acli-transport-slimrpc,0.1.0,0,0,https://github.com/a2aproject/a2a-rs,SLIMRPC transport plugin for a2a-cli — implements the pluggable transport contract
