@@ -8,47 +8,57 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 22:19 UTC
+## Latest list — 2026-10-07 23:18 UTC
 
-New crates published between 2026-10-07 21:18 UTC and 2026-10-07 22:19 UTC.
+New crates published between 2026-10-07 22:19 UTC and 2026-10-07 23:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-07T22-19-31-826363Z.csv)
+[Full CSV](data/new-crates-2026-10-07T23-18-37-439134Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-07 21:20:00 | [ktrs-project](https://crates.io/crates/ktrs-project) | 0.5.0 | 0 | Best-effort detection of the Kotlin formatter and linter a Gradle or Maven buil… |
-| 2026-10-07 21:20:13 | [ktrs-lsp](https://crates.io/crates/ktrs-lsp) | 0.5.0 | 0 | Language server for Kotlin formatting and linting: ktlint diagnostics, fixes an… |
-| 2026-10-07 21:21:22 | [proofchain](https://crates.io/crates/proofchain) | 0.1.0 | 0 | proofchain library for the proofchain project. |
-| 2026-10-07 21:24:10 | [intr_gen](https://crates.io/crates/intr_gen) | 0.1.0 | 0 | Additional x86_64 intrinsics |
-| 2026-10-07 21:31:39 | [lumia-core](https://crates.io/crates/lumia-core) | 0.0.0 | 0 | Batteries-included REST API framework for Rust. |
-| 2026-10-07 21:32:10 | [lumia-macros](https://crates.io/crates/lumia-macros) | 0.0.0 | 0 | Batteries-included REST API framework for Rust. |
-| 2026-10-07 21:33:03 | [lumia-openapi](https://crates.io/crates/lumia-openapi) | 0.0.0 | 0 | Batteries-included REST API framework for Rust. |
-| 2026-10-07 21:33:21 | [lumia-telemetry](https://crates.io/crates/lumia-telemetry) | 0.0.0 | 0 | Batteries-included REST API framework for Rust. |
-| 2026-10-07 21:46:51 | [yoke-sdk](https://crates.io/crates/yoke-sdk) | 0.3.0 | 0 | The Rust libraries of Yoke: the base, and the library a Plugin unit is written… |
-| 2026-10-07 21:46:56 | [cortexkit-bus-trait](https://crates.io/crates/cortexkit-bus-trait) | 0.2.0 | 0 | NATS-shaped message-plane traits and backend conformance contract |
-| 2026-10-07 21:46:59 | [cortexkit-bus-naming](https://crates.io/crates/cortexkit-bus-naming) | 0.2.0 | 0 | Subject, stream, bucket, consumer and grant naming rules for the CortexKit mess… |
-| 2026-10-07 21:48:07 | [cortexkit-bus-nats](https://crates.io/crates/cortexkit-bus-nats) | 0.2.0 | 0 | async-nats backend for the CortexKit message-plane traits |
-| 2026-10-07 21:48:15 | [cortexkit-bus-inmemory](https://crates.io/crates/cortexkit-bus-inmemory) | 0.2.0 | 0 | Deterministic in-memory backend for the CortexKit NATS-shaped bus traits |
-| 2026-10-07 21:50:12 | [shelly-shell](https://crates.io/crates/shelly-shell) | 0.1.0 | 0 | A Rust based Unix style shell with a typed and structured language syntax. |
-| 2026-10-07 21:51:54 | [clicat](https://crates.io/crates/clicat) | 0.1.0 | 0 | A command line utility for the DataCat API. |
-| 2026-10-07 22:04:08 | [bryl-pattern](https://crates.io/crates/bryl-pattern) | 0.1.0 | 0 | Date/time pattern tokens shared by bryl and bryl-derive |
-| 2026-10-07 22:04:09 | [bryl-derive](https://crates.io/crates/bryl-derive) | 0.1.0 | 0 | Derive macros for bryl fixed-width records |
-| 2026-10-07 22:04:11 | [bryl](https://crates.io/crates/bryl) | 0.1.0 | 0 | Declarative fixed-width record encoding and decoding |
-| 2026-10-07 22:04:13 | [bryl-metro2](https://crates.io/crates/bryl-metro2) | 0.1.0 | 0 | Metro 2 credit reporting file reading and writing |
-| 2026-10-07 22:04:13 | [bryl-nacha](https://crates.io/crates/bryl-nacha) | 0.1.0 | 0 | NACHA ACH file reading and writing |
-| 2026-10-07 22:05:00 | [rff-format-mjpeg](https://crates.io/crates/rff-format-mjpeg) | 0.2.2 | 0 | Remade FFmpeg (Rust): Motion JPEG containers — raw concatenated JPEG streams (m… |
-| 2026-10-07 22:05:05 | [rff-format-rtp](https://crates.io/crates/rff-format-rtp) | 0.2.2 | 0 | Remade FFmpeg (Rust): timed H.264 / JPEG frames as received over rtp:// (RFC 61… |
-| 2026-10-07 22:06:29 | [zvidlib-opus-syntax](https://crates.io/crates/zvidlib-opus-syntax) | 0.4.1 | 0 | Opus configuration records and packet timing shared by zvidlib's containers and… |
-| 2026-10-07 22:06:31 | [zvidlib-vorbis-syntax](https://crates.io/crates/zvidlib-vorbis-syntax) | 0.4.1 | 0 | Vorbis header parsing and packet timing shared by zvidlib's containers and Vorb… |
-| 2026-10-07 22:06:33 | [zvidlib-container](https://crates.io/crates/zvidlib-container) | 0.4.1 | 0 | MP4 and WebM muxing and demuxing for zvidlib |
-| 2026-10-07 22:06:41 | [zvidlib-vp9-syntax](https://crates.io/crates/zvidlib-vp9-syntax) | 0.4.1 | 0 | VP9 frame inspection, picture output and level selection shared by zvidlib's VP… |
-| 2026-10-07 22:06:43 | [zvidlib-hardware](https://crates.io/crates/zvidlib-hardware) | 0.4.1 | 0 | Platform hardware video backends (NVDEC, Media Foundation, VideoToolbox) for zv… |
-| 2026-10-07 22:14:25 | [macro-lang](https://crates.io/crates/macro-lang) | 1.0.0 | 0 | Hygienic macro expansion: pattern match + template substitution. |
-| 2026-10-07 22:14:36 | [lint-lang](https://crates.io/crates/lint-lang) | 1.0.0 | 0 | Lint framework: configurable rules over an AST that emit diagnostics. |
-| 2026-10-07 22:15:17 | [repl-lang](https://crates.io/crates/repl-lang) | 1.0.0 | 0 | Read-eval-print loop scaffolding: line editing, session state, and incremental… |
-| 2026-10-07 22:15:50 | [incremental-lang](https://crates.io/crates/incremental-lang) | 1.0.0 | 0 | Incremental reparsing for editor tooling: reparse only the region an edit touch… |
-| 2026-10-07 22:16:31 | [zvidlib-hevc](https://crates.io/crates/zvidlib-hevc) | 0.4.1 | 0 | HEVC coding tools shared by zvidlib's HEVC decoder and encoder |
-| 2026-10-07 22:17:33 | [treesitter-lang](https://crates.io/crates/treesitter-lang) | 1.0.0 | 0 | Generate Tree-sitter grammars (grammar.js and grammar.json) and corpus tests fr… |
+| 2026-10-07 22:20:26 | [lsp-lang](https://crates.io/crates/lsp-lang) | 1.0.0 | 0 | Language Server Protocol scaffolding: JSON-RPC transport, server lifecycle, inc… |
+| 2026-10-07 22:20:36 | [pymab](https://crates.io/crates/pymab) | 2.0.1 | 0 | Reliable, reproducible multi-armed bandit policies and experiments. |
+| 2026-10-07 22:20:42 | [gfa-to-tabix](https://crates.io/crates/gfa-to-tabix) | 0.1.0 | 0 | Indexes a pangenome graph's GFA by genome coordinate, as two Tabix-indexed BED… |
+| 2026-10-07 22:21:53 | [scryer-db](https://crates.io/crates/scryer-db) | 0.1.0 | 0 | Database models and Turso/SQLite storage layer for Scryer code intelligence |
+| 2026-10-07 22:22:13 | [scryer-engine](https://crates.io/crates/scryer-engine) | 0.1.0 | 0 | Tree-sitter and stack-graphs AST indexing engine for Scryer code intelligence |
+| 2026-10-07 22:22:43 | [scryer-mcp](https://crates.io/crates/scryer-mcp) | 0.1.0 | 0 | Model Context Protocol (MCP) server for Scryer code intelligence |
+| 2026-10-07 22:23:08 | [scryer-cli](https://crates.io/crates/scryer-cli) | 0.1.0 | 0 | CLI tool and shared daemon runner for Scryer code intelligence |
+| 2026-10-07 22:24:41 | [autumn-plugin-three](https://crates.io/crates/autumn-plugin-three) | 0.1.0 | 0 | Autumn plugin: Three.js 3D scenes with Maud + htmx ergonomics. |
+| 2026-10-07 22:29:34 | [aveecare](https://crates.io/crates/aveecare) | 0.1.0 | 0 | Official Rust library for the AveeCare API: patients, visits, caregivers and bi… |
+| 2026-10-07 22:30:19 | [zvidlib-hevc-decoder](https://crates.io/crates/zvidlib-hevc-decoder) | 0.4.1 | 0 | Pure-Rust HEVC software decoder for zvidlib |
+| 2026-10-07 22:30:21 | [zvidlib-hevc-encoder](https://crates.io/crates/zvidlib-hevc-encoder) | 0.4.1 | 0 | Pure-Rust HEVC software encoder for zvidlib |
+| 2026-10-07 22:31:21 | [zoreal-oauth2](https://crates.io/crates/zoreal-oauth2) | 0.1.1 | 0 | Sign in with ZOREAL for Rust backends: OAuth 2.0 / OpenID Connect relying-party… |
+| 2026-10-07 22:37:39 | [zvidlib-vp9-decoder](https://crates.io/crates/zvidlib-vp9-decoder) | 0.4.1 | 0 | Pure-Rust VP9 software decoder for zvidlib |
+| 2026-10-07 22:38:07 | [purist](https://crates.io/crates/purist) | 0.4.0 | 0 | Fast purist AST linter for enforcing strict Rust code hygiene |
+| 2026-10-07 22:40:23 | [renyi_json](https://crates.io/crates/renyi_json) | 0.1.0 | 0 | JSON as a value, with the reader and the writer the Renyi toolchain shares |
+| 2026-10-07 22:40:29 | [renyi_syntax](https://crates.io/crates/renyi_syntax) | 0.1.0 | 0 | Lexer, parser and formatter for the Renyi programming language |
+| 2026-10-07 22:40:36 | [renyi_package](https://crates.io/crates/renyi_package) | 0.1.0 | 0 | Packages of Renyi programs: the manifest, the lockfile, versions, the registry… |
+| 2026-10-07 22:40:45 | [renyi_check](https://crates.io/crates/renyi_check) | 0.1.0 | 0 | Name resolution, type checking and effect checking for Renyi programs |
+| 2026-10-07 22:40:52 | [renyi_index](https://crates.io/crates/renyi_index) | 0.1.0 | 0 | The project map of a Renyi project: one record per definition with signature, p… |
+| 2026-10-07 22:43:08 | [ozzy-config](https://crates.io/crates/ozzy-config) | 0.1.0 | 0 | Validated deployment configuration and persistent identity for Ozzy. |
+| 2026-10-07 22:43:09 | [ozzy-io](https://crates.io/crates/ozzy-io) | 0.1.0 | 0 | Owned asynchronous file operations and resource contracts for Ozzy |
+| 2026-10-07 22:43:10 | [ozzy-proto](https://crates.io/crates/ozzy-proto) | 0.1.0 | 0 | Sans-I/O application protocol and message types for Ozzy. |
+| 2026-10-07 22:43:13 | [ozzy-io-pool](https://crates.io/crates/ozzy-io-pool) | 0.1.0 | 0 | Explicit bounded file workers for Ozzy |
+| 2026-10-07 22:43:14 | [ozzy-journal](https://crates.io/crates/ozzy-journal) | 0.1.0 | 0 | Journal contracts and local durability evidence for Ozzy. |
+| 2026-10-07 22:43:16 | [ozzy-io-aio](https://crates.io/crates/ozzy-io-aio) | 0.1.0 | 0 | Backend-owned Linux AIO execution for Ozzy |
+| 2026-10-07 22:44:32 | [odoo-lint](https://crates.io/crates/odoo-lint) | 0.1.0-alpha.1 | 0 | Blazing fast Rust-native linter for Odoo modules |
+| 2026-10-07 22:46:16 | [renyi_vm](https://crates.io/crates/renyi_vm) | 0.1.0 | 0 | The Renyi virtual machine: bytecode, values, the library primitives and the run… |
+| 2026-10-07 22:47:39 | [zvidlib-vorbis-decoder](https://crates.io/crates/zvidlib-vorbis-decoder) | 0.4.1 | 0 | Pure-Rust Vorbis decoder for zvidlib |
+| 2026-10-07 22:48:37 | [brep-to-step](https://crates.io/crates/brep-to-step) | 0.1.0 | 0 | A minimal STEP AP242 exporter for B-rep CAD kernels. |
+| 2026-10-07 22:53:19 | [ozzy-core](https://crates.io/crates/ozzy-core) | 0.1.0 | 0 | Deterministic owner state for Ozzy. |
+| 2026-10-07 22:56:17 | [renyi](https://crates.io/crates/renyi) | 0.1.0 | 0 | The Renyi toolchain: one binary for checking, formatting, running, testing and… |
+| 2026-10-07 22:57:40 | [zvidlib-vorbis-encoder](https://crates.io/crates/zvidlib-vorbis-encoder) | 0.4.1 | 0 | Pure-Rust Vorbis encoder for zvidlib |
+| 2026-10-07 23:02:42 | [wsr-git](https://crates.io/crates/wsr-git) | 0.0.3 | 0 | Git hook management, shim installation, and stateless hook reconciliation for w… |
+| 2026-10-07 23:02:48 | [wsr-resolver](https://crates.io/crates/wsr-resolver) | 0.0.3 | 0 | Action reference resolver: maps uses: refs to Wasm components and assigns execu… |
+| 2026-10-07 23:02:53 | [wsr-sandbox](https://crates.io/crates/wsr-sandbox) | 0.0.3 | 0 | Tier 1 sandbox: Wasmtime + WASI Preview 3, one isolated instance per step |
+| 2026-10-07 23:03:00 | [wsr-wasix](https://crates.io/crates/wsr-wasix) | 0.0.3 | 0 | Tier 2 sandbox: Wasmer + WASIX for POSIX-compatible workloads (transitional lay… |
+| 2026-10-07 23:03:07 | [wsr-engine](https://crates.io/crates/wsr-engine) | 0.0.3 | 0 | Job DAG scheduler, step orchestrator, matrix expansion, and outputs propagation |
+| 2026-10-07 23:03:36 | [ozzy-journal-segment](https://crates.io/crates/ozzy-journal-segment) | 0.1.0 | 0 | Segmented append-only journal implementation for Ozzy. |
+| 2026-10-07 23:07:38 | [golf](https://crates.io/crates/golf) | 0.1.0 | 0 | An open source CAD kernel |
+| 2026-10-07 23:07:39 | [zvidlib-vp8](https://crates.io/crates/zvidlib-vp8) | 0.4.1 | 0 | Pure-Rust VP8 decoder and encoder for zvidlib |
+| 2026-10-07 23:09:54 | [debug-tracer](https://crates.io/crates/debug-tracer) | 0.1.0 | 0 | a simple debuging tracing tool for runtime error |
+| 2026-10-07 23:13:44 | [ozzy-replication](https://crates.io/crates/ozzy-replication) | 0.1.0 | 0 | Deterministic replication state for Ozzy. |
+| 2026-10-07 23:17:39 | [zvidlib-vp9-encoder](https://crates.io/crates/zvidlib-vp9-encoder) | 0.4.1 | 0 | Pure-Rust VP9 software encoder for zvidlib |
 
 ## Data source
 

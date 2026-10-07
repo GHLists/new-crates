@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T22:20:26.083698Z,lsp-lang,1.0.0,0,0,https://github.com/jamesgober/lsp-lang,"Language Server Protocol scaffolding: JSON-RPC transport, server lifecycle, incremental document sync, and diagnostics publishing."
+2026-10-07T22:20:36.941804Z,pymab,2.0.1,0,0,https://github.com/danielaLopes/pymab,"Reliable, reproducible multi-armed bandit policies and experiments."
+2026-10-07T22:20:42.718582Z,gfa-to-tabix,0.1.0,0,0,https://github.com/GMOD/gfa-to-tabix,"Indexes a pangenome graph's GFA by genome coordinate, as two Tabix-indexed BED files"
+2026-10-07T22:21:53.136804Z,scryer-db,0.1.0,0,0,https://github.com/Knight-Ops/scryer-mcp,Database models and Turso/SQLite storage layer for Scryer code intelligence
+2026-10-07T22:22:13.720291Z,scryer-engine,0.1.0,0,0,https://github.com/Knight-Ops/scryer-mcp,Tree-sitter and stack-graphs AST indexing engine for Scryer code intelligence
+2026-10-07T22:22:43.650705Z,scryer-mcp,0.1.0,0,0,https://github.com/Knight-Ops/scryer-mcp,Model Context Protocol (MCP) server for Scryer code intelligence
+2026-10-07T22:23:08.203938Z,scryer-cli,0.1.0,0,0,https://github.com/Knight-Ops/scryer-mcp,CLI tool and shared daemon runner for Scryer code intelligence
+2026-10-07T22:24:41.711881Z,autumn-plugin-three,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-three,Autumn plugin: Three.js 3D scenes with Maud + htmx ergonomics.
+2026-10-07T22:29:34.472289Z,aveecare,0.1.0,0,0,https://github.com/aveecare/aveecare-rust,"Official Rust library for the AveeCare API: patients, visits, caregivers and billing for home care agencies."
+2026-10-07T22:30:19.405471Z,zvidlib-hevc-decoder,0.4.1,0,0,https://github.com/lsegal/zvidlib,Pure-Rust HEVC software decoder for zvidlib
+2026-10-07T22:30:21.683934Z,zvidlib-hevc-encoder,0.4.1,0,0,https://github.com/lsegal/zvidlib,Pure-Rust HEVC software encoder for zvidlib
+2026-10-07T22:31:21.427169Z,zoreal-oauth2,0.1.1,0,0,https://github.com/Bynn-Intelligence/zoreal-oauth2-rust,Sign in with ZOREAL for Rust backends: OAuth 2.0 / OpenID Connect relying-party SDK
+2026-10-07T22:37:39.854979Z,zvidlib-vp9-decoder,0.4.1,0,0,https://github.com/lsegal/zvidlib,Pure-Rust VP9 software decoder for zvidlib
+2026-10-07T22:38:07.742828Z,purist,0.4.0,0,0,https://github.com/drmartinwimmer/purist,Fast purist AST linter for enforcing strict Rust code hygiene
+2026-10-07T22:40:23.932648Z,renyi_json,0.1.0,0,0,https://github.com/renyi-lang/renyi,"JSON as a value, with the reader and the writer the Renyi toolchain shares"
+2026-10-07T22:40:29.943006Z,renyi_syntax,0.1.0,0,0,https://github.com/renyi-lang/renyi,"Lexer, parser and formatter for the Renyi programming language"
+2026-10-07T22:40:36.756439Z,renyi_package,0.1.0,0,0,https://github.com/renyi-lang/renyi,"Packages of Renyi programs: the manifest, the lockfile, versions, the registry layout and the resolution of imports (decision AC1)"
+2026-10-07T22:40:45.340791Z,renyi_check,0.1.0,0,0,https://github.com/renyi-lang/renyi,"Name resolution, type checking and effect checking for Renyi programs"
+2026-10-07T22:40:52.655022Z,renyi_index,0.1.0,0,0,https://github.com/renyi-lang/renyi,"The project map of a Renyi project: one record per definition with signature, purpose, effects, edges, metrics and content hash"
+2026-10-07T22:43:08.79586Z,ozzy-config,0.1.0,0,0,https://github.com/paddor/ozzy,Validated deployment configuration and persistent identity for Ozzy.
+2026-10-07T22:43:09.802749Z,ozzy-io,0.1.0,0,0,https://github.com/paddor/ozzy,Owned asynchronous file operations and resource contracts for Ozzy
+2026-10-07T22:43:10.686469Z,ozzy-proto,0.1.0,0,0,https://github.com/paddor/ozzy,Sans-I/O application protocol and message types for Ozzy.
+2026-10-07T22:43:13.818435Z,ozzy-io-pool,0.1.0,0,0,https://github.com/paddor/ozzy,Explicit bounded file workers for Ozzy
+2026-10-07T22:43:14.709385Z,ozzy-journal,0.1.0,0,0,https://github.com/paddor/ozzy,Journal contracts and local durability evidence for Ozzy.
+2026-10-07T22:43:16.202682Z,ozzy-io-aio,0.1.0,0,0,https://github.com/paddor/ozzy,Backend-owned Linux AIO execution for Ozzy
+2026-10-07T22:44:32.367287Z,odoo-lint,0.1.0-alpha.1,0,0,https://github.com/bosd/odoo-lint,Blazing fast Rust-native linter for Odoo modules
+2026-10-07T22:46:16.525379Z,renyi_vm,0.1.0,0,0,https://github.com/renyi-lang/renyi,"The Renyi virtual machine: bytecode, values, the library primitives and the runner (milestone M3)"
+2026-10-07T22:47:39.659104Z,zvidlib-vorbis-decoder,0.4.1,0,0,https://github.com/lsegal/zvidlib,Pure-Rust Vorbis decoder for zvidlib
+2026-10-07T22:48:37.589919Z,brep-to-step,0.1.0,0,0,https://github.com/elgar328/brep-to-step,A minimal STEP AP242 exporter for B-rep CAD kernels.
+2026-10-07T22:53:19.846756Z,ozzy-core,0.1.0,0,0,https://github.com/paddor/ozzy,Deterministic owner state for Ozzy.
+2026-10-07T22:56:17.987074Z,renyi,0.1.0,0,0,https://github.com/renyi-lang/renyi,"The Renyi toolchain: one binary for checking, formatting, running, testing and indexing Renyi programs"
+2026-10-07T22:57:40.00757Z,zvidlib-vorbis-encoder,0.4.1,0,0,https://github.com/lsegal/zvidlib,Pure-Rust Vorbis encoder for zvidlib
+2026-10-07T23:02:42.524208Z,wsr-git,0.0.3,0,0,https://github.com/ectorial/wsr,"Git hook management, shim installation, and stateless hook reconciliation for wsr"
+2026-10-07T23:02:48.046977Z,wsr-resolver,0.0.3,0,0,https://github.com/ectorial/wsr,Action reference resolver: maps uses: refs to Wasm components and assigns execution tier
+2026-10-07T23:02:53.075304Z,wsr-sandbox,0.0.3,0,0,https://github.com/ectorial/wsr,"Tier 1 sandbox: Wasmtime + WASI Preview 3, one isolated instance per step"
+2026-10-07T23:03:00.303699Z,wsr-wasix,0.0.3,0,0,https://github.com/ectorial/wsr,Tier 2 sandbox: Wasmer + WASIX for POSIX-compatible workloads (transitional layer)
+2026-10-07T23:03:07.117756Z,wsr-engine,0.0.3,0,0,https://github.com/ectorial/wsr,"Job DAG scheduler, step orchestrator, matrix expansion, and outputs propagation"
+2026-10-07T23:03:36.865638Z,ozzy-journal-segment,0.1.0,0,0,https://github.com/paddor/ozzy,Segmented append-only journal implementation for Ozzy.
+2026-10-07T23:07:38.095246Z,golf,0.1.0,0,0,https://github.com/designonce/golf,An open source CAD kernel
+2026-10-07T23:07:39.586587Z,zvidlib-vp8,0.4.1,0,0,https://github.com/lsegal/zvidlib,Pure-Rust VP8 decoder and encoder for zvidlib
+2026-10-07T23:09:54.291795Z,debug-tracer,0.1.0,0,0,,a simple debuging tracing tool for runtime error
+2026-10-07T23:13:44.106034Z,ozzy-replication,0.1.0,0,0,https://github.com/paddor/ozzy,Deterministic replication state for Ozzy.
+2026-10-07T23:17:39.937741Z,zvidlib-vp9-encoder,0.4.1,0,0,https://github.com/lsegal/zvidlib,Pure-Rust VP9 software encoder for zvidlib
