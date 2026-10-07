@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T04:24:34.335579Z,gnux,0.1.0,0,0,,Clean interfaces to GNU/Linux facilities
+2026-10-07T04:28:55.331151Z,stoolap-jemalloc,0.1.2,0,0,https://github.com/stoolap/stoolap-jemalloc,"A jemalloc-style memory allocator written in pure Rust, with a built-in pprof heap profiler"
+2026-10-07T04:29:21.351757Z,stree,0.1.0,0,0,,"A directory hierarchy mapping format, similar to mtree"
+2026-10-07T04:40:54.274357Z,myyazi,26.9.1,0,0,https://github.com/ironyman/yazi,"Installer for myyazi, my fork of the Yazi terminal file manager"
+2026-10-07T04:45:26.06917Z,haem-frames,0.1.0,0,0,https://github.com/ablative-io/haematite,Shared framing and embedding messages for isolated workers
+2026-10-07T04:47:11.10597Z,json-traits,0.1.0,0,0,https://github.com/stewie1570/JsonTraits,"Server-side helper for leaf-validator style PATCH updates: flatten JSON, diff documents, and match dotted paths"
+2026-10-07T04:52:27.724249Z,dogdns,0.7.12,0,0,https://github.com/l1a/dog,"A command-line DNS client, like dig but friendlier: colourful output, simple arguments, DNS-over-TLS, DNS-over-HTTPS, JSON output and 35 record types"
+2026-10-07T04:56:42.997418Z,ms-compress,0.1.2,0,0,https://github.com/CaddyGlow/ms-compress,"Native Rust Microsoft compression codecs: LZNT1, XPRESS, LZX, LZMS, Quantum, DEFLATE, and LZMA"
+2026-10-07T04:58:51.349074Z,luna-vdb,1.0.0,0,0,https://github.com/ChatLunaLab/luna-vdb,"Lightweight local vector database: IVF search with SIMD kernels, for native Rust and WebAssembly (Node.js and the browser)"
+2026-10-07T05:01:23.880065Z,wim-types,0.1.0,0,0,https://github.com/CaddyGlow/wim-rs,Portable Windows Imaging Format types
+2026-10-07T05:01:31.594134Z,wim-format,0.1.0,0,0,https://github.com/CaddyGlow/wim-rs,Portable WIM and ESD archive readers and writers
+2026-10-07T05:01:37.126047Z,wsus-protocol,0.1.0,0,0,https://github.com/CaddyGlow/wsus-rs,"WSUS protocol types, SOAP codecs and metadata parsing (no I/O)"
+2026-10-07T05:12:12.729512Z,ms-cabinet,0.1.2,0,0,https://github.com/CaddyGlow/ms-cabinet,Read and write Microsoft Cabinet archives
+2026-10-07T05:13:58.006405Z,caddy-archive-core,0.1.0,0,0,https://github.com/CaddyGlow/caddy-archive,"Portable archive parsing, extraction and integrity validation"
+2026-10-07T05:14:01.780104Z,caddy-archive-fs,0.1.0,0,0,https://github.com/CaddyGlow/caddy-archive,Filesystem extraction for caddy-archive
+2026-10-07T05:19:15.923792Z,uzgeocoder,0.1.0,0,0,https://github.com/inventor97/uzgeocoder,"Offline reverse geocoder for Uzbekistan: (lat, lon) -> region (viloyat) and district (tuman)"
