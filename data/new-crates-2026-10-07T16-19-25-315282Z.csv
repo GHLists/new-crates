@@ -1,0 +1,74 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T14:20:30.527419Z,quicless,0.1.0,0,0,https://github.com/jellytera/quicless.rs,Suites for QUIC transmission as an alternative to SCTP.
+2026-10-07T14:24:35.300167Z,day-script-proto,0.5.0,0,0,https://github.com/daybrite/day,Shared dayscript wire protocol and YAML format for Day
+2026-10-07T14:26:34.828466Z,restate-drand,0.2.0,0,0,https://github.com/sagikazarmark/drand-rs,"drand randomness in Restate handlers: commit to a future round, wait durably, fetch and verify the beacon"
+2026-10-07T14:26:52.871648Z,krite-core,0.1.0,0,0,https://github.com/skyoo2003/krite,Krite Protocol v1 types and validation (no ML dependencies)
+2026-10-07T14:26:55.496044Z,krite-runtime,0.1.0,0,0,https://github.com/skyoo2003/krite,"Krite request pipeline: Backend trait, cross-request state cache, calibration"
+2026-10-07T14:26:58.018988Z,krite-candle,0.1.0,0,0,https://github.com/skyoo2003/krite,Krite Candle backend: mmBERT-small state encoder on Metal/CPU
+2026-10-07T14:26:58.431124Z,krite-server,0.1.0,0,0,https://github.com/skyoo2003/krite,Krite HTTP server: POST /v1/systemone (Protocol v1)
+2026-10-07T14:27:00.518036Z,krite-cli,0.1.0,0,0,https://github.com/skyoo2003/krite,"krite command line: serve Protocol v1, time the encoder"
+2026-10-07T14:27:32.658254Z,smackdebt-analysis,0.2.0,0,0,https://github.com/bosun-ai/smackdebt,"Measurements, debt policy, comparisons, and report values for Smackdebt"
+2026-10-07T14:27:50.651978Z,smackdebt-languages,0.2.0,0,0,https://github.com/bosun-ai/smackdebt,Compiled language analyzers for Smackdebt
+2026-10-07T14:28:01.929785Z,smackdebt-discovery,0.2.0,0,0,https://github.com/bosun-ai/smackdebt,Source inventory and package discovery for Smackdebt
+2026-10-07T14:28:04.753715Z,smackdebt-git,0.2.0,0,0,https://github.com/bosun-ai/smackdebt,"Git history, references, and object reads for Smackdebt"
+2026-10-07T14:28:19.562123Z,smackdebt-project,0.2.0,0,0,https://github.com/bosun-ai/smackdebt,Codebase and diff analysis use cases for Smackdebt
+2026-10-07T14:35:18.692916Z,shop,0.1.1,0,0,,"A tiny terminal shop: browse a bundled catalog, fill your cart and check out — with a full-screen TUI and a scriptable JSON CLI."
+2026-10-07T14:35:37.223609Z,texo-flow,0.0.0,0,0,https://github.com/fabrica-eda/texo,Trusted Publishing bootstrap placeholder for Texo
+2026-10-07T14:35:44.058025Z,texo-cli,0.0.0,0,0,https://github.com/fabrica-eda/texo,Trusted Publishing bootstrap placeholder for Texo
+2026-10-07T14:38:59.6202Z,rpi-run-stats,0.1.0,0,0,https://github.com/pi-rust/rpi-package,Live runtime monitoring panel for the rpi agent
+2026-10-07T14:39:15.802679Z,cosmolkit-reaction,0.5.0-rc.12,0,0,https://github.com/cosmol-studio/COSMolKit,Detached source-backed reaction templates and execution
+2026-10-07T14:43:30.088627Z,opentunnel,0.1.0,0,0,https://github.com/anomalyco/opentunnel,Client for OpenTunnel blind TLS tunnels
+2026-10-07T14:43:35.54472Z,opentunnel-cli,0.1.0,0,0,https://github.com/anomalyco/opentunnel,The opentunnel CLI and background service
+2026-10-07T14:51:36.887821Z,gcs-rust-fs,0.1.0,0,0,https://github.com/raj-prince/gcs-rust-fs,"Non-POSIX, pure-Rust file-system primitives for Google Cloud Storage built on the official Rust storage SDK."
+2026-10-07T14:51:37.267206Z,liquid-rust,0.1.1,0,0,https://github.com/al1h3n/liquid-rust,"Apple-style Liquid Glass for wgpu: SDF glass groups, refraction, frost, rim light, analytic springs. Native and WebGPU."
+2026-10-07T14:52:08.572854Z,ffrt-macros,0.1.0,0,0,,Attribute macros for the OpenHarmony FFRT async runtime
+2026-10-07T14:52:09.839813Z,ffrt-sys,0.1.0,0,0,,FFRT system bindings
+2026-10-07T14:52:10.263522Z,napi-ffrt-ext-macro,0.1.0,0,0,,FFRT napi macro for ohos-rs
+2026-10-07T14:52:14.161035Z,ffrt,0.1.0,0,0,,FFRT async runtime bindings
+2026-10-07T14:52:16.443274Z,napi-ffrt-ext,0.1.0,0,0,,FFRT napi extension for ohos-rs
+2026-10-07T14:52:49.274151Z,tonic-decl,0.0.1,0,0,https://github.com/zkonge/tonic-decl,"Declare tonic gRPC client and server stubs with macro_rules, without build scripts or protoc"
+2026-10-07T14:58:08.885015Z,mkpassphrase-core,0.1.0,0,0,https://codeberg.org/raniz/mkpassphrase,Passphrase generator library that can use aspell for wordlists
+2026-10-07T14:58:10.806701Z,mkpassphrase,0.1.0,0,0,https://codeberg.org/raniz/mkpassphrase,Powerful passphrase generator for the command line that can use aspell for wordlists
+2026-10-07T15:02:21.65307Z,kermit-proto,0.1.0,0,0,https://github.com/ractive/hptx,Sans-IO Kermit client (user Kermit) for the Kermit servers of HP 48 and 49 calculators
+2026-10-07T15:02:23.983127Z,xmodem-proto,0.1.0,0,0,https://github.com/ractive/hptx,"Sans-IO XModem sender and receiver (checksum, CRC-16, HP's CRC, 1k blocks) for HP 48 and 49 calculators"
+2026-10-07T15:03:00.40202Z,agentos-build01,0.10.3,0,0,https://github.com/vikasdeshmukh63/AgentOS,"AgentOS: a local AI workbench. Plan, queue, route, validate, and hand off long-running work using your already-installed Codex and Claude Code CLIs as hidden workers."
+2026-10-07T15:06:05.787624Z,crates_sample,0.1.0,0,0,,Test Sample
+2026-10-07T15:08:59.488542Z,glbscope,0.1.0,0,0,https://github.com/M1chlCZ/glbscope,Fast GLB inspector and asset budget linter for CI.
+2026-10-07T15:09:11.243815Z,qrplatba,0.1.0,0,0,https://github.com/M1chlCZ/qrplatba,Czech QR payment (SPAYD/SPD) string and QR image generator.
+2026-10-07T15:09:20.180612Z,feedforge,0.1.0,0,0,https://github.com/M1chlCZ/feedforge,"Streaming product feed generator for Heureka, Zbozi.cz and Google Merchant."
+2026-10-07T15:12:45.39371Z,rust-oleum,0.1.1,0,0,https://github.com/AgentWorkforce/rust-oleum,"A protective coating for your codebase: a code-quality ratchet gate for Rust — complexity, coverage, CRAP, mutants, dead code — enforced in CI with a shrinking baseline."
+2026-10-07T15:18:51.306648Z,cookielessaudiences,0.1.1,0,0,https://github.com/explainableaixai/cookielessaudiences-rust,"Rust client for the Cookieless Audiences API: page-level audience segmentation and IAB content categorization for any URL, with no cookies and no PII"
+2026-10-07T15:19:05.253453Z,resumereaderapi,0.1.1,0,0,https://github.com/explainableaixai/resumereaderapi-rust,"Rust client for the Resume Reader API: parse PDF, DOCX and scanned resumes into 114 structured JSON fields, and normalize job titles, skills and locations"
+2026-10-07T15:19:13.327235Z,acquisitionuniverse,0.1.1,0,0,https://github.com/explainableaixai/acquisitionuniverse-rust,"Toolkit for acquisition target screening in Rust: thesis briefs, a weighted composite score that zeroes out group-owned targets, ranking and signal coverage"
+2026-10-07T15:39:27.296934Z,moddef-core,0.1.1,0,0,https://github.com/ModDefOrg/moddef-rs,"ModDef runtime: no_std-friendly Modbus codec, transport trait, document layer and device facade (spec v0.4)."
+2026-10-07T15:39:29.407313Z,moddef-codegen,0.1.1,0,0,https://github.com/ModDefOrg/moddef-rs,Generate typed Rust device clients from ModDef documents
+2026-10-07T15:39:30.262015Z,moddef-tokio-modbus,0.1.1,0,0,https://github.com/ModDefOrg/moddef-rs,tokio-modbus Transport adapter for moddef-core
+2026-10-07T15:47:29.881075Z,yk-core,0.1.0,0,0,https://github.com/chandlerok/yk,The agent loop and the vocabulary every other crate speaks
+2026-10-07T15:47:32.838704Z,yk-context,0.1.0,0,0,https://github.com/chandlerok/yk,System prompt assembly and context file discovery
+2026-10-07T15:48:11.927419Z,yk-lua,0.1.0,0,0,https://github.com/chandlerok/yk,"Extensions written in Lua, running in an embedded Luau VM"
+2026-10-07T15:48:33.278507Z,aws-nitro-enclaves-driver-bindings,0.0.0,0,0,https://github.com/aws/aws-nitro-enclaves-cli,Rust FFI bindings to the Linux Nitro Enclaves driver. Name reserved for aws/aws-nitro-enclaves-cli; releases start at 0.1.x.
+2026-10-07T15:48:46.630738Z,aws-nitro-enclaves-eif-loader,0.0.0,0,0,https://github.com/aws/aws-nitro-enclaves-cli,Loads an Enclave Image File (EIF) into a Nitro Enclave over vsock. Name reserved for aws/aws-nitro-enclaves-cli; releases start at 0.1.x.
+2026-10-07T15:48:46.954633Z,yk-provider,0.1.0,0,0,https://github.com/chandlerok/yk,"One OpenAI-shaped streaming client, base URL in config"
+2026-10-07T15:48:48.913156Z,aws-nitro-enclaves-enclave-build,0.0.0,0,0,https://github.com/aws/aws-nitro-enclaves-cli,Builds an Enclave Image File (EIF) from a Docker image. Name reserved for aws/aws-nitro-enclaves-cli; releases start at 0.1.x.
+2026-10-07T15:48:50.104484Z,yk-session,0.1.0,0,0,https://github.com/chandlerok/yk,Append-only JSONL sessions as a tree of entries
+2026-10-07T15:50:54.833049Z,mahi,0.0.0,0,0,https://github.com/yamafaktory/mahi,"Real-time collaboration for terminal coding agents, in a sandbox and a git worktree of their own. Distributed as a binary: see the repository."
+2026-10-07T15:51:00.901089Z,lumi-host,0.0.1,0,0,https://codeberg.org/LumiTelligence/lumi,Thin WASM host library for Lumi: loads the closed component and provides the host-side services
+2026-10-07T15:51:22.367479Z,zig-std,0.1.1,0,0,https://github.com/meadowsys/zig-std-rs,"Bindings to Zig `std`, with optional Rust `std` features"
+2026-10-07T15:51:34.599857Z,lumi-cli,0.0.1,0,0,https://codeberg.org/LumiTelligence/lumi,Lumi teleop console and headless recorder (thin host over the closed WASM component)
+2026-10-07T15:51:38.355253Z,lumi-gui,0.0.1,0,0,https://codeberg.org/LumiTelligence/lumi,Lumi graphical teleop console (thin host over the closed WASM component)
+2026-10-07T15:56:33.250521Z,polyoxide-binance,0.37.0,0,0,https://github.com/dilettante-trading/polyoxide,Rust client library for Binance USDⓈ-M futures market data and streams
+2026-10-07T15:57:01.805896Z,smackdebt-output,0.2.0,0,0,https://github.com/bosun-ai/smackdebt,Terminal and JSON report writers for Smackdebt
+2026-10-07T15:57:35.08565Z,smackdebt,0.2.0,0,0,https://github.com/bosun-ai/smackdebt,Find costly code debt and see whether your changes make it better
+2026-10-07T15:57:51.482605Z,yk-tools,0.1.0,0,0,https://github.com/chandlerok/yk,"The built-in tools, hardcoded rather than loaded"
+2026-10-07T15:58:36.024249Z,agent-effects-store,0.1.0,0,0,https://github.com/akosidencio/agent-effects,"Storage contract for agent-effects: effect records, leases, the state machine and a backend conformance suite"
+2026-10-07T15:58:38.801176Z,agent-effects-memory,0.1.0,0,0,https://github.com/akosidencio/agent-effects,"In-memory store for agent-effects, for tests, examples and development"
+2026-10-07T15:58:47.118388Z,agent-effects,0.1.0,0,0,https://github.com/akosidencio/agent-effects,Reliable side-effect execution for AI agents and autonomous applications
+2026-10-07T15:58:50.526525Z,agent-effects-otel,0.1.0,0,0,https://github.com/akosidencio/agent-effects,OpenTelemetry metrics for agent-effects
+2026-10-07T15:59:02.070053Z,agent-effects-http,0.1.0,0,0,https://github.com/akosidencio/agent-effects,"HTTP effects for agent-effects: reqwest failures classified, Idempotency-Key sent"
+2026-10-07T16:00:59.945345Z,tauri-plugin-discordrpc,0.1.0,0,0,https://gitlab.com/audioland/tauri-plugin-discordrpc,Tauri Discord Rich Presence Plugin
+2026-10-07T16:03:39.946413Z,monbcon,0.1.0,0,0,https://github.com/csjune/monbcon,Windows and Linux monitor discovery and brightness control
+2026-10-07T16:03:56.607522Z,agent-effects-sqlite,0.1.0,0,0,https://github.com/akosidencio/agent-effects,SQLite store for agent-effects
+2026-10-07T16:08:15.651933Z,yk-tui,0.1.0,0,0,https://github.com/chandlerok/yk,The terminal interface: one select loop over the agent
+2026-10-07T16:08:55.676585Z,dagnabit,0.0.0,0,0,,DAGnabit is a crate and application for building and orchestrating workflows
+2026-10-07T16:18:45.589538Z,agent-effects-postgres,0.1.0,0,0,https://github.com/akosidencio/agent-effects,"PostgreSQL store for agent-effects: database-clock leases, many workers on one database"
+2026-10-07T16:18:49.959898Z,yk,0.1.0,0,0,https://github.com/chandlerok/yk,An AI coding agent for the terminal
