@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T05:22:51.726782Z,caddy-hexspell,1.1.0,0,0,https://github.com/M3str3/HexSpell,"Dependency-free Rust library for parsing and patching PE, ELF, and Mach-O executables with a 1:1 on-disk API"
+2026-10-07T05:31:00.956971Z,stardust-xr-panels,0.53.0-rc.1,0,0,https://github.com/StardustXR/panel-item/,General 2D compatibility protocol and library with hotswappable shells
+2026-10-07T05:31:03.473007Z,stardust-xr-panels-asteroids,0.53.0-rc.1,0,0,https://github.com/StardustXR/panel-item/,Asteroids declarative UI for panel shells
+2026-10-07T05:33:42.84087Z,ms-package,0.1.0,0,0,https://github.com/CaddyGlow/ms-package,Portable read-only Windows package inspection and payload validation
+2026-10-07T05:43:29.052158Z,rightkit-service,0.1.0,0,0,https://github.com/bogusyogi/claude,"One discovery/auth convention for Right Suite local services: service.json, ranking and takeover, current-user-only Unix socket / named pipe, per-app request allowlist."
+2026-10-07T05:44:28.244755Z,vfft,0.0.1,0,0,https://git.yummers.dev/gpu_fft.git/,A very fast fourier transform.
+2026-10-07T05:45:32.065971Z,caddy-archive-wasm,0.1.0,0,0,https://github.com/CaddyGlow/caddy-archive,Browser WebAssembly bindings for caddy-archive
+2026-10-07T05:45:45.915586Z,rustycraft-lib,0.0.1,0,0,https://minijo.minipandi.net/minipandi/rustycraft.git,Just another rust implementation of the minecraft protocol
+2026-10-07T05:46:00.072673Z,rightkit-control,0.1.1,0,0,https://github.com/bogusyogi/claude,"Background native input, accessibility reads, and a WebDriver bridge for driving real desktop apps without stealing focus."
+2026-10-07T05:50:29.913181Z,rightkit-jobs,0.1.0,0,0,https://github.com/bogusyogi/claude,"Persistent job store, runner, and stdio/CLI command contract for Right Suite engines."
+2026-10-07T05:52:01.315648Z,rightkit-qa,0.1.0,0,0,https://github.com/bogusyogi/claude,"Rust QA harness for Right Suite apps: engine black-box scenarios, hidden native UI driving through rightkit-control, run lock, isolated profiles, orphan sweep, hashed evidence."
+2026-10-07T05:52:51.028442Z,caddy-archive-cli,0.1.0,0,0,https://github.com/CaddyGlow/caddy-archive,Archive inspection and extraction command line
+2026-10-07T05:53:18.317579Z,rightkit-sandbox,0.1.0,0,0,https://github.com/bogusyogi/claude,"Shared OS sandbox, PTY lease, process-tree, and reserve-before-spawn resource authority for Right Suite apps."
+2026-10-07T05:55:16.73774Z,cranpose-localization,0.9.8,0,0,https://github.com/samoylenkodmitry/cranpose,Scoped Fluent catalogs and localization tooling for Cranpose
+2026-10-07T05:55:22.767482Z,cranpose-fonts-cjk-data-1,0.9.8,0,0,,Private font data chunk for cranpose-fonts
+2026-10-07T05:55:29.203622Z,cranpose-fonts-cjk-data-2,0.9.8,0,0,,Private font data chunk for cranpose-fonts
+2026-10-07T05:55:36.401559Z,cranpose-fonts-cjk-data-3,0.9.8,0,0,,Private font data chunk for cranpose-fonts
+2026-10-07T05:56:16.23485Z,cranpose-fonts,0.9.8,0,0,https://github.com/samoylenkodmitry/cranpose,Optional multilingual variable font packs for Cranpose applications
+2026-10-07T05:57:12.163442Z,wordglide,0.3.1,0,0,https://github.com/starfield17/wordglide,Offline incremental English dictionary with immediate definition preview
+2026-10-07T05:57:15.630578Z,rightkit-watch,0.1.0,0,0,https://github.com/bogusyogi/claude,"Filesystem watching for Right Suite apps: ref-counted async subscribers, debounced file-set and directory watchers, and rename-storm coalescing."
+2026-10-07T06:10:17.929964Z,frazaro-core,0.8.0,0,0,https://github.com/Spreadsheet-Company/Frazaro,"The Frazaro language, host-free: sentences in, spreadsheets out"
+2026-10-07T06:10:20.350971Z,frazaro,0.8.0,0,0,https://github.com/Spreadsheet-Company/Frazaro,The command-line door to frazaro-core
