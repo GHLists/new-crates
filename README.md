@@ -8,49 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 11:20 UTC
+## Latest list — 2026-10-07 12:19 UTC
 
-New crates published between 2026-10-07 10:20 UTC and 2026-10-07 11:20 UTC.
+New crates published between 2026-10-07 11:20 UTC and 2026-10-07 12:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-07T11-20-17-057903Z.csv)
+[Full CSV](data/new-crates-2026-10-07T12-19-22-90873Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-07 10:20:25 | [replane](https://crates.io/crates/replane) | 0.1.0 | 0 | Rust SDK for Replane - dynamic configuration with real-time updates |
-| 2026-10-07 10:26:47 | [sigmadock-core](https://crates.io/crates/sigmadock-core) | 0.1.2 | 0 | Domain model and local IPC for SigmaDock agent workspaces |
-| 2026-10-07 10:26:48 | [sigmadock-ports](https://crates.io/crates/sigmadock-ports) | 0.1.2 | 0 | Local development port leases for SigmaDock workers |
-| 2026-10-07 10:26:48 | [sigmadock-terminal](https://crates.io/crates/sigmadock-terminal) | 0.1.2 | 0 | Alacritty-backed GPUI terminal with live appearance settings for SigmaDock |
-| 2026-10-07 10:26:49 | [sigmadock-agents](https://crates.io/crates/sigmadock-agents) | 0.1.2 | 0 | CLI harness adapters and MCP configuration for SigmaDock |
-| 2026-10-07 10:26:49 | [sigmadock-forge](https://crates.io/crates/sigmadock-forge) | 0.1.2 | 0 | GitHub and Forgejo facts and feedback for SigmaDock |
-| 2026-10-07 10:32:37 | [caretline](https://crates.io/crates/caretline) | 0.1.0 | 0 | A replayable, drivable text-editing engine: Helix's editing model in a pure Elm… |
-| 2026-10-07 10:35:01 | [sigmadock-cli](https://crates.io/crates/sigmadock-cli) | 0.1.2 | 0 | Command-line client for the SigmaDock local daemon |
-| 2026-10-07 10:35:10 | [gpu-handle-types](https://crates.io/crates/gpu-handle-types) | 0.1.0 | 0 | Typed, owned native GPU resource handles (Vulkan, D3D11/12, Metal, OpenGL, CUDA… |
-| 2026-10-07 10:35:11 | [mini-cuda](https://crates.io/crates/mini-cuda) | 0.1.0 | 0 | Minimal hand-written CUDA driver, runtime and NVRTC bindings, loaded at run tim… |
-| 2026-10-07 10:35:13 | [mini-nvcodec](https://crates.io/crates/mini-nvcodec) | 0.1.0 | 0 | Minimal hand-written NVDEC (nvcuvid) and NVENC (nvEncodeAPI) bindings for NVIDI… |
-| 2026-10-07 10:36:40 | [dog-queue](https://crates.io/crates/dog-queue) | 0.2.0 | 0 | Tenant-scoped jobs with durable ledgers, lease-based processing, and broker int… |
-| 2026-10-07 10:38:17 | [dog-transport](https://crates.io/crates/dog-transport) | 0.2.0 | 0 | HTTP, gRPC, CLI and Iroh transports for DogRS |
-| 2026-10-07 10:43:03 | [balikobot](https://crates.io/crates/balikobot) | 0.1.0 | 0 | A Rust client for the Balikobot shipping API v2: packages, labels, tracking, pi… |
-| 2026-10-07 10:45:01 | [sigmadock-git](https://crates.io/crates/sigmadock-git) | 0.1.2 | 0 | Safe isolated git worktrees for SigmaDock workers |
-| 2026-10-07 10:45:27 | [hyprcwd](https://crates.io/crates/hyprcwd) | 0.4.0 | 0 | Outputs the working directory of the currently active window in the hyprland wi… |
-| 2026-10-07 10:46:14 | [rondorust](https://crates.io/crates/rondorust) | 0.1.0 | 0 | Native Rust rondocode synthesis and pattern rendering, with Bevy audio assets |
-| 2026-10-07 10:49:00 | [rightkit-models](https://crates.io/crates/rightkit-models) | 0.1.0 | 0 | Shared local-model manifest and installer for Right Suite apps: revisions and q… |
-| 2026-10-07 10:51:18 | [material-iced](https://crates.io/crates/material-iced) | 0.1.1 | 0 | Material Design 3 widgets and theming for Iced |
-| 2026-10-07 10:52:16 | [otf-pixels-compress](https://crates.io/crates/otf-pixels-compress) | 0.1.0 | 0 | Compression and checksum primitives for otf-pixels codecs. |
-| 2026-10-07 10:52:21 | [rightkit-speech-client](https://crates.io/crates/rightkit-speech-client) | 0.1.0 | 0 | Client and contract for the Orthic Labs shared speech service (one resident eng… |
-| 2026-10-07 10:52:22 | [otf-pixels-core](https://crates.io/crates/otf-pixels-core) | 0.1.0 | 0 | Core engine for otf-pixels: op graph, descriptors, tiles, codec traits, evaluat… |
-| 2026-10-07 10:52:30 | [otf-pixels-codec-avif](https://crates.io/crates/otf-pixels-codec-avif) | 0.1.0 | 0 | AVIF codec for otf-pixels, implemented from scratch. |
-| 2026-10-07 10:52:36 | [otf-pixels-codec-gif](https://crates.io/crates/otf-pixels-codec-gif) | 0.1.0 | 0 | GIF codec for otf-pixels, implemented from scratch. |
-| 2026-10-07 10:52:42 | [otf-pixels-codec-jpeg](https://crates.io/crates/otf-pixels-codec-jpeg) | 0.1.0 | 0 | Baseline JPEG codec for otf-pixels, implemented from scratch. |
-| 2026-10-07 10:54:55 | [sigmadock-mcp](https://crates.io/crates/sigmadock-mcp) | 0.1.2 | 0 | Project-scoped local MCP tools for SigmaDock |
-| 2026-10-07 10:55:37 | [jinshu](https://crates.io/crates/jinshu) | 0.1.0 | 0 | Merkle-backed storage engine and Noun graph database on NVMe |
-| 2026-10-07 11:00:41 | [ridl-descriptor](https://crates.io/crates/ridl-descriptor) | 0.6.0 | 0 | The catalog descriptor an engine reads: schema, generated accessors, verifier |
-| 2026-10-07 11:02:21 | [otf-pixels-codec-png](https://crates.io/crates/otf-pixels-codec-png) | 0.1.0 | 0 | PNG codec for otf-pixels, implemented from scratch including DEFLATE. |
-| 2026-10-07 11:04:59 | [sigmadock-pty](https://crates.io/crates/sigmadock-pty) | 0.1.2 | 0 | Persistent local PTY sessions and replay for SigmaDock |
-| 2026-10-07 11:12:22 | [otf-pixels-codec-raw](https://crates.io/crates/otf-pixels-codec-raw) | 0.1.0 | 0 | Raw (uncompressed) pixel codec for otf-pixels. |
-| 2026-10-07 11:14:57 | [sigmadock-store](https://crates.io/crates/sigmadock-store) | 0.1.2 | 0 | SQLite metadata and planning notes for SigmaDock |
-| 2026-10-07 11:16:53 | [banana_img](https://crates.io/crates/banana_img) | 0.1.0 | 0 | Official client SDK wrapper and metadata for Banana Img (https://banana-img.com) |
-| 2026-10-07 11:17:03 | [libscsi](https://crates.io/crates/libscsi) | 0.0.1 | 0 | Cross-platform SCSI intermediate layer. |
-| 2026-10-07 11:19:49 | [arhanpassant](https://crates.io/crates/arhanpassant) | 0.13.0 | 0 | A UCI chess engine and chess library: magic-bitboard move generation, NNUE eval… |
+| 2026-10-07 11:22:22 | [otf-pixels-codec-tiff](https://crates.io/crates/otf-pixels-codec-tiff) | 0.1.0 | 0 | TIFF codec for otf-pixels, implemented from scratch. |
+| 2026-10-07 11:24:54 | [sigmadock-ui](https://crates.io/crates/sigmadock-ui) | 0.1.2 | 0 | Native GPUI workspace for supervising local coding agents |
+| 2026-10-07 11:25:03 | [lzallright](https://crates.io/crates/lzallright) | 0.1.0 | 0 | LZO compression in safe Rust, ported from LZ👌 (lzokay) |
+| 2026-10-07 11:25:14 | [codoseo-mcp](https://crates.io/crates/codoseo-mcp) | 0.1.0-rc.1 | 0 | CodoSEO's local MCP server: audit and inspection tools over stdio, no database. |
+| 2026-10-07 11:25:16 | [codoseo-notify](https://crates.io/crates/codoseo-notify) | 0.1.0-rc.1 | 0 | CodoSEO's outgoing messages: SMTP email, Slack, Discord and signed webhooks, pl… |
+| 2026-10-07 11:25:19 | [codoseo-store](https://crates.io/crates/codoseo-store) | 0.1.0-rc.1 | 0 | Postgres storage for CodoSEO: migrations, crawl queue and jobs queue. |
+| 2026-10-07 11:25:23 | [codoseo-web](https://crates.io/crates/codoseo-web) | 0.1.0-rc.1 | 0 | The CodoSEO web app: axum routes, askama templates and htmx partials. |
+| 2026-10-07 11:28:32 | [cordium](https://crates.io/crates/cordium) | 0.2.0 | 0 | An ergonomic async Rust SDK for Cordium workspaces, execution, terminals, and s… |
+| 2026-10-07 11:30:56 | [formualizer-cli](https://crates.io/crates/formualizer-cli) | 0.11.0 | 0 | Source-preserving XLSX formula-cache recalculation command |
+| 2026-10-07 11:32:23 | [otf-pixels-codec-webp](https://crates.io/crates/otf-pixels-codec-webp) | 0.1.0 | 0 | WebP codec for otf-pixels, lossy and lossless, implemented from scratch. |
+| 2026-10-07 11:34:37 | [p4rust-resources-aarch64-apple-darwin](https://crates.io/crates/p4rust-resources-aarch64-apple-darwin) | 0.1.0 | 0 | Precompiled Perforce C ABI resources for aarch64-apple-darwin |
+| 2026-10-07 11:34:42 | [p4rust-resources-aarch64-pc-windows-msvc](https://crates.io/crates/p4rust-resources-aarch64-pc-windows-msvc) | 0.1.0 | 0 | Precompiled Perforce C ABI resources for aarch64-pc-windows-msvc |
+| 2026-10-07 11:34:48 | [sigmadockd](https://crates.io/crates/sigmadockd) | 0.1.2 | 0 | Local supervisor daemon for SigmaDock coding agents |
+| 2026-10-07 11:34:48 | [p4rust-resources-aarch64-unknown-linux-gnu](https://crates.io/crates/p4rust-resources-aarch64-unknown-linux-gnu) | 0.1.0 | 0 | Precompiled Perforce C ABI resources for aarch64-unknown-linux-gnu |
+| 2026-10-07 11:34:50 | [p4rust-resources-x86_64-apple-darwin](https://crates.io/crates/p4rust-resources-x86_64-apple-darwin) | 0.1.0 | 0 | Precompiled Perforce C ABI resources for x86_64-apple-darwin |
+| 2026-10-07 11:34:55 | [p4rust-resources-x86_64-pc-windows-msvc](https://crates.io/crates/p4rust-resources-x86_64-pc-windows-msvc) | 0.1.0 | 0 | Precompiled Perforce C ABI resources for x86_64-pc-windows-msvc |
+| 2026-10-07 11:39:00 | [p4rust-resources-x86_64-unknown-linux-gnu](https://crates.io/crates/p4rust-resources-x86_64-unknown-linux-gnu) | 0.1.0 | 0 | Precompiled Perforce C ABI resources for x86_64-unknown-linux-gnu |
+| 2026-10-07 11:40:56 | [polywan](https://crates.io/crates/polywan) | 2.0.0 | 0 | Multi-uplink policy routing daemon for Linux routers |
+| 2026-10-07 11:42:22 | [otf-pixels-ops](https://crates.io/crates/otf-pixels-ops) | 0.1.0 | 0 | Operation kernels for otf-pixels. |
+| 2026-10-07 11:48:59 | [p4rust](https://crates.io/crates/p4rust) | 0.1.0 | 0 | Safe Rust bindings to the official Perforce C++ client API |
+| 2026-10-07 11:50:03 | [oxidase-floating-ui](https://crates.io/crates/oxidase-floating-ui) | 0.1.10 | 0 | Pure Rust geometric engine and positioning substrate for Oxidase (Floating UI p… |
+| 2026-10-07 11:51:57 | [chicago-charter-bus-rental](https://crates.io/crates/chicago-charter-bus-rental) | 1.0.0 | 0 | Constants linking to Chicago Charter Bus Rental for group travel in Chicago. |
+| 2026-10-07 11:52:22 | [otf-pixels](https://crates.io/crates/otf-pixels) | 0.1.0 | 0 | A streaming, demand-driven image processing engine. |
+| 2026-10-07 11:55:22 | [fc-blackbox-patched](https://crates.io/crates/fc-blackbox-patched) | 0.2.1 | 0 | Parser for flight controllers' blackbox logs. Fork of fc-blackbox with fixes no… |
+| 2026-10-07 11:55:29 | [mp4parse-patched](https://crates.io/crates/mp4parse-patched) | 0.17.1 | 0 | Parser for ISO base media file format (mp4). Fork of mp4parse with fixes not re… |
+| 2026-10-07 11:55:39 | [refs-cli](https://crates.io/crates/refs-cli) | 0.1.0 | 0 | Pinned, sparse checkouts of your dependencies' source and docs for coding agent… |
+| 2026-10-07 11:58:29 | [otto](https://crates.io/crates/otto) | 0.1.0 | 0 | Release Rust crates with Otto from the terminal |
+| 2026-10-07 11:58:34 | [otto-core](https://crates.io/crates/otto-core) | 0.1.0 | 0 | Automated release process for Rust crates |
+| 2026-10-07 12:07:17 | [multihull](https://crates.io/crates/multihull) | 0.0.1 | 0 | Stateless request router for multi-provider GPU inference with automatic failov… |
+| 2026-10-07 12:08:48 | [cleansys-web](https://crates.io/crates/cleansys-web) | 0.7.7 | 0 | CleanSys — local web UI for system cleanup (Topcoat): the same cleaners, sizes,… |
+| 2026-10-07 12:10:57 | [cgp-fork-async-macro](https://crates.io/crates/cgp-fork-async-macro) | 0.9.0 | 0 | CGP async_trait macro that desugars async functions in traits. |
+| 2026-10-07 12:10:58 | [cgp-fork-base-types](https://crates.io/crates/cgp-fork-base-types) | 0.9.0 | 0 | CGP base types: type-level Cons, Nil, Symbol, and path concatenation. |
+| 2026-10-07 12:11:00 | [cgp-fork-component](https://crates.io/crates/cgp-fork-component) | 0.9.0 | 0 | CGP component wiring: DelegateComponent, IsProviderFor, and delegation provider… |
+| 2026-10-07 12:11:01 | [cgp-fork-macro-core](https://crates.io/crates/cgp-fork-macro-core) | 0.9.0 | 0 | CGP macro parsers, AST types, and code generation. |
+| 2026-10-07 12:11:06 | [cgp-fork-extra-macro-core](https://crates.io/crates/cgp-fork-extra-macro-core) | 0.9.0 | 0 | CGP parsing and code generation for the computer, producer, and auto-dispatch m… |
+| 2026-10-07 12:14:20 | [rsh-parser](https://crates.io/crates/rsh-parser) | 0.1.0 | 0 | A simple parser for rsh-crate |
 
 ## Data source
 

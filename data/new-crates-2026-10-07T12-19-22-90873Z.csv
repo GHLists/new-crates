@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T11:22:22.08717Z,otf-pixels-codec-tiff,0.1.0,0,0,https://github.com/Open-Tech-Foundation/Pixels,"TIFF codec for otf-pixels, implemented from scratch."
+2026-10-07T11:24:54.159008Z,sigmadock-ui,0.1.2,0,0,https://github.com/SigmaUno/sigma-dock,Native GPUI workspace for supervising local coding agents
+2026-10-07T11:25:03.587712Z,lzallright,0.1.0,0,0,https://github.com/vlaci/lzallright,"LZO compression in safe Rust, ported from LZ👌 (lzokay)"
+2026-10-07T11:25:14.981083Z,codoseo-mcp,0.1.0-rc.1,0,0,https://github.com/SafrowLabs/CodoSEO,"CodoSEO's local MCP server: audit and inspection tools over stdio, no database."
+2026-10-07T11:25:16.432389Z,codoseo-notify,0.1.0-rc.1,0,0,https://github.com/SafrowLabs/CodoSEO,"CodoSEO's outgoing messages: SMTP email, Slack, Discord and signed webhooks, plus channel-target encryption."
+2026-10-07T11:25:19.869539Z,codoseo-store,0.1.0-rc.1,0,0,https://github.com/SafrowLabs/CodoSEO,"Postgres storage for CodoSEO: migrations, crawl queue and jobs queue."
+2026-10-07T11:25:23.822772Z,codoseo-web,0.1.0-rc.1,0,0,https://github.com/SafrowLabs/CodoSEO,"The CodoSEO web app: axum routes, askama templates and htmx partials."
+2026-10-07T11:28:32.325663Z,cordium,0.2.0,0,0,https://github.com/octelium/sdk-rust,"An ergonomic async Rust SDK for Cordium workspaces, execution, terminals, and storage"
+2026-10-07T11:30:56.239704Z,formualizer-cli,0.11.0,0,0,https://github.com/psu3d0/formualizer,Source-preserving XLSX formula-cache recalculation command
+2026-10-07T11:32:23.695685Z,otf-pixels-codec-webp,0.1.0,0,0,https://github.com/Open-Tech-Foundation/Pixels,"WebP codec for otf-pixels, lossy and lossless, implemented from scratch."
+2026-10-07T11:34:37.346775Z,p4rust-resources-aarch64-apple-darwin,0.1.0,0,0,https://github.com/CatScarf/P4Rust,Precompiled Perforce C ABI resources for aarch64-apple-darwin
+2026-10-07T11:34:42.225623Z,p4rust-resources-aarch64-pc-windows-msvc,0.1.0,0,0,https://github.com/CatScarf/P4Rust,Precompiled Perforce C ABI resources for aarch64-pc-windows-msvc
+2026-10-07T11:34:48.303792Z,sigmadockd,0.1.2,0,0,https://github.com/SigmaUno/sigma-dock,Local supervisor daemon for SigmaDock coding agents
+2026-10-07T11:34:48.43366Z,p4rust-resources-aarch64-unknown-linux-gnu,0.1.0,0,0,https://github.com/CatScarf/P4Rust,Precompiled Perforce C ABI resources for aarch64-unknown-linux-gnu
+2026-10-07T11:34:50.675478Z,p4rust-resources-x86_64-apple-darwin,0.1.0,0,0,https://github.com/CatScarf/P4Rust,Precompiled Perforce C ABI resources for x86_64-apple-darwin
+2026-10-07T11:34:55.098755Z,p4rust-resources-x86_64-pc-windows-msvc,0.1.0,0,0,https://github.com/CatScarf/P4Rust,Precompiled Perforce C ABI resources for x86_64-pc-windows-msvc
+2026-10-07T11:39:00.46225Z,p4rust-resources-x86_64-unknown-linux-gnu,0.1.0,0,0,https://github.com/CatScarf/P4Rust,Precompiled Perforce C ABI resources for x86_64-unknown-linux-gnu
+2026-10-07T11:40:56.498412Z,polywan,2.0.0,0,0,https://github.com/drsound/polywan,Multi-uplink policy routing daemon for Linux routers
+2026-10-07T11:42:22.977703Z,otf-pixels-ops,0.1.0,0,0,https://github.com/Open-Tech-Foundation/Pixels,Operation kernels for otf-pixels.
+2026-10-07T11:48:59.702193Z,p4rust,0.1.0,0,0,https://github.com/CatScarf/P4Rust,Safe Rust bindings to the official Perforce C++ client API
+2026-10-07T11:50:03.445148Z,oxidase-floating-ui,0.1.10,0,0,https://github.com/techton7/oxidase,Pure Rust geometric engine and positioning substrate for Oxidase (Floating UI port)
+2026-10-07T11:51:57.583684Z,chicago-charter-bus-rental,1.0.0,0,0,https://chicagosupercoachbus.com/,Constants linking to Chicago Charter Bus Rental for group travel in Chicago.
+2026-10-07T11:52:22.816128Z,otf-pixels,0.1.0,0,0,https://github.com/Open-Tech-Foundation/Pixels,"A streaming, demand-driven image processing engine."
+2026-10-07T11:55:22.003603Z,fc-blackbox-patched,0.2.1,0,0,https://github.com/AdrianEddy/fc-blackbox,Parser for flight controllers' blackbox logs. Fork of fc-blackbox with fixes not released on crates.io
+2026-10-07T11:55:29.779295Z,mp4parse-patched,0.17.1,0,0,https://github.com/AdrianEddy/mp4parse-rust,Parser for ISO base media file format (mp4). Fork of mp4parse with fixes not released on crates.io
+2026-10-07T11:55:39.305233Z,refs-cli,0.1.0,0,0,https://github.com/lukaprsina/refs-cli,"Pinned, sparse checkouts of your dependencies' source and docs for coding agents, plus an AGENTS.md block that points to them"
+2026-10-07T11:58:29.973251Z,otto,0.1.0,0,0,https://github.com/aonyx-ai/otto,Release Rust crates with Otto from the terminal
+2026-10-07T11:58:34.051209Z,otto-core,0.1.0,0,0,https://github.com/aonyx-ai/otto,Automated release process for Rust crates
+2026-10-07T12:07:17.616633Z,multihull,0.0.1,0,0,https://github.com/mishraprafful/multihull,Stateless request router for multi-provider GPU inference with automatic failover.
+2026-10-07T12:08:48.968879Z,cleansys-web,0.7.7,0,0,https://github.com/sorinirimies/cleansys,"CleanSys — local web UI for system cleanup (Topcoat): the same cleaners, sizes, scheduler and safety rules as the TUI and GUI"
+2026-10-07T12:10:57.274394Z,cgp-fork-async-macro,0.9.0,0,0,https://github.com/Just-Replicant/cgp-fork,CGP async_trait macro that desugars async functions in traits.
+2026-10-07T12:10:58.649586Z,cgp-fork-base-types,0.9.0,0,0,https://github.com/Just-Replicant/cgp-fork,"CGP base types: type-level Cons, Nil, Symbol, and path concatenation."
+2026-10-07T12:11:00.076875Z,cgp-fork-component,0.9.0,0,0,https://github.com/Just-Replicant/cgp-fork,"CGP component wiring: DelegateComponent, IsProviderFor, and delegation providers."
+2026-10-07T12:11:01.601588Z,cgp-fork-macro-core,0.9.0,0,0,https://github.com/Just-Replicant/cgp-fork,"CGP macro parsers, AST types, and code generation."
+2026-10-07T12:11:06.326755Z,cgp-fork-extra-macro-core,0.9.0,0,0,https://github.com/Just-Replicant/cgp-fork,"CGP parsing and code generation for the computer, producer, and auto-dispatch macros."
+2026-10-07T12:14:20.637263Z,rsh-parser,0.1.0,0,0,https://github.com/Nattakit92/rsh-parsing,A simple parser for rsh-crate
