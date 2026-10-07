@@ -8,47 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 17:19 UTC
+## Latest list — 2026-10-07 18:18 UTC
 
-New crates published between 2026-10-07 16:19 UTC and 2026-10-07 17:19 UTC.
+New crates published between 2026-10-07 17:19 UTC and 2026-10-07 18:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-07T17-19-06-049713Z.csv)
+[Full CSV](data/new-crates-2026-10-07T18-18-38-023479Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-07 16:21:29 | [ltk_ritobin_derive](https://crates.io/crates/ltk_ritobin_derive) | 0.1.0 | 0 | Derive macros for ltk_ritobin |
-| 2026-10-07 16:21:58 | [midi-auto-connector](https://crates.io/crates/midi-auto-connector) | 0.1.0 | 0 | A daemon that auto-connects ALSA and PipeWire MIDI ports based on regex rules,… |
-| 2026-10-07 16:22:07 | [jett](https://crates.io/crates/jett) | 0.1.3 | 0 | Terminal disk space navigator — jettison the junk |
-| 2026-10-07 16:34:28 | [zvidlib-build](https://crates.io/crates/zvidlib-build) | 0.4.0 | 0 | Build-script helper that gives zvidlib's macOS targets their Swift runtime sear… |
-| 2026-10-07 16:34:29 | [zvidlib-core](https://crates.io/crates/zvidlib-core) | 0.4.0 | 0 | Shared types, I/O, codec traits and the SIMD override for zvidlib |
-| 2026-10-07 16:34:30 | [zvidlib-hevc-syntax](https://crates.io/crates/zvidlib-hevc-syntax) | 0.4.0 | 0 | HEVC bitstream reading and writing, parameter sets and slice headers for zvidlib |
-| 2026-10-07 16:34:31 | [zvidlib-aac-encoder](https://crates.io/crates/zvidlib-aac-encoder) | 0.4.0 | 0 | Platform AAC encoding (AudioToolbox, Media Foundation) for zvidlib |
-| 2026-10-07 16:34:31 | [zvidlib-av1-syntax](https://crates.io/crates/zvidlib-av1-syntax) | 0.4.0 | 0 | AV1 OBU and codec configuration record parsing for zvidlib |
-| 2026-10-07 16:40:58 | [zvidlib-color](https://crates.io/crates/zvidlib-color) | 0.4.0 | 0 | YUV/RGBA color conversion shared by zvidlib's video codecs |
-| 2026-10-07 16:46:17 | [rs-rich-ratatui](https://crates.io/crates/rs-rich-ratatui) | 0.0.1 | 0 | ratatui interop for rs-rich: rich renderables as ratatui widgets, buffers as ri… |
-| 2026-10-07 16:48:46 | [redact-pdf](https://crates.io/crates/redact-pdf) | 0.0.1 | 0 | Redact PDFs from the command line: AI detection of personal data, OCR, permanen… |
-| 2026-10-07 16:50:44 | [zvidlib-av1](https://crates.io/crates/zvidlib-av1) | 0.4.0 | 0 | AV1 coding tools shared by zvidlib's AV1 encoder and reference decoders |
-| 2026-10-07 16:51:35 | [acton-service-core](https://crates.io/crates/acton-service-core) | 0.47.0 | 0 | Independent core contracts and implementation for acton-service |
-| 2026-10-07 16:51:36 | [acton-service-audit](https://crates.io/crates/acton-service-audit) | 0.47.0 | 0 | Independent audit contracts and implementation for acton-service |
-| 2026-10-07 16:51:37 | [acton-service-clickhouse](https://crates.io/crates/acton-service-clickhouse) | 0.47.0 | 0 | Independent clickhouse contracts and implementation for acton-service |
-| 2026-10-07 16:51:38 | [acton-service-mssql](https://crates.io/crates/acton-service-mssql) | 0.47.0 | 0 | Independent mssql contracts and implementation for acton-service |
-| 2026-10-07 16:51:38 | [acton-service-postgres](https://crates.io/crates/acton-service-postgres) | 0.47.0 | 0 | Independent postgres contracts and implementation for acton-service |
-| 2026-10-07 16:52:22 | [pdf-redaction](https://crates.io/crates/pdf-redaction) | 0.0.1 | 0 | Alias for redact-pdf: redact PDFs from the command line (early preview) |
-| 2026-10-07 16:52:48 | [redact-pdf-cli](https://crates.io/crates/redact-pdf-cli) | 0.0.1 | 0 | Alias for redact-pdf: redact PDFs from the command line (early preview) |
-| 2026-10-07 17:03:04 | [srvm](https://crates.io/crates/srvm) | 0.1.0-rc.1 | 0 | Zero-config universal app launcher |
-| 2026-10-07 17:03:31 | [acton-service-surrealdb](https://crates.io/crates/acton-service-surrealdb) | 0.47.0 | 0 | Independent surrealdb contracts and implementation for acton-service |
-| 2026-10-07 17:05:51 | [rs-rich-intuituive](https://crates.io/crates/rs-rich-intuituive) | 0.0.1 | 0 | intuiTUIve: a reactive, retained terminal UI framework built on rs-rich |
-| 2026-10-07 17:07:29 | [winnow-token-stream](https://crates.io/crates/winnow-token-stream) | 0.1.0 | 0 | A winnow stream of tokens, lexed on demand by a tokenizer function |
-| 2026-10-07 17:07:56 | [anyoauth-sdk](https://crates.io/crates/anyoauth-sdk) | 0.1.0 | 0 | AnyOAuth confidential backend SDK |
-| 2026-10-07 17:08:51 | [win-shared-os-owned-handle](https://crates.io/crates/win-shared-os-owned-handle) | 0.1.0 | 0 | A shared owner of a Windows handle: std's OwnedHandle behind a reference count,… |
-| 2026-10-07 17:09:45 | [acton-service-turso](https://crates.io/crates/acton-service-turso) | 0.47.0 | 0 | Independent turso contracts and implementation for acton-service |
-| 2026-10-07 17:09:52 | [howl-reasoner](https://crates.io/crates/howl-reasoner) | 0.1.0 | 0 | Rust bindings for the HOWL consequence-based description-logic reasoner |
-| 2026-10-07 17:10:33 | [attestcoin-abi-encoding](https://crates.io/crates/attestcoin-abi-encoding) | 0.7.0 | 0 | Ethereum ABI encoding library. Used for the encoding of transactions and proof… |
-| 2026-10-07 17:13:27 | [car-commons](https://crates.io/crates/car-commons) | 0.56.1 | 0 | Shared append-only contribution graph — durable attempts, evidence, and a diver… |
-| 2026-10-07 17:14:20 | [car-context](https://crates.io/crates/car-context) | 0.56.1 | 0 | Immutable authority/account/organization routing context for CAR work. |
-| 2026-10-07 17:14:25 | [attestcoin-query-builder](https://crates.io/crates/attestcoin-query-builder) | 0.9.0 | 0 | Query builder library. Used for the construction of Attestcoin proving queries. |
-| 2026-10-07 17:15:30 | [zvidlib-av1-decoder](https://crates.io/crates/zvidlib-av1-decoder) | 0.4.0 | 0 | Pure-Rust AV1 software decoder for zvidlib |
-| 2026-10-07 17:15:31 | [zvidlib-av1-encoder](https://crates.io/crates/zvidlib-av1-encoder) | 0.4.0 | 0 | Pure-Rust AV1 software encoder for zvidlib |
+| 2026-10-07 17:22:46 | [zvidlib-opus](https://crates.io/crates/zvidlib-opus) | 0.4.0 | 0 | Opus decoding and encoding for zvidlib |
+| 2026-10-07 17:22:50 | [codevideorenderer](https://crates.io/crates/codevideorenderer) | 0.1.0 | 0 | Render dynamic "typing" code videos — a Rust reimplementation of CodeVideoRende… |
+| 2026-10-07 17:23:14 | [autumn-plugin-discord](https://crates.io/crates/autumn-plugin-discord) | 0.1.0 | 0 | Autumn plugin: a Discord bot framework — slash commands as Autumn routes, signe… |
+| 2026-10-07 17:25:32 | [rituals-core-import](https://crates.io/crates/rituals-core-import) | 0.2.0 | 0 | Ritual — import a task crate from a registry, git or a path, and regenerate. |
+| 2026-10-07 17:25:34 | [rituals-core-remove](https://crates.io/crates/rituals-core-remove) | 0.2.0 | 0 | Ritual — take a task out of this project, in the order that keeps it building. |
+| 2026-10-07 17:25:36 | [rituals-core-migrate](https://crates.io/crates/rituals-core-migrate) | 0.2.0 | 0 | Ritual — bring this project up to the layout of the ritual it runs. |
+| 2026-10-07 17:27:13 | [cryptomap](https://crates.io/crates/cryptomap) | 0.1.0 | 0 | cryptomap library for the cryptomap project. |
+| 2026-10-07 17:27:20 | [cryptopolicy](https://crates.io/crates/cryptopolicy) | 0.1.0 | 0 | cryptopolicy library for the cryptopolicy project. |
+| 2026-10-07 17:27:27 | [pqc-cose](https://crates.io/crates/pqc-cose) | 0.1.0 | 0 | pqc-cose library for the cryptopolicy project. |
+| 2026-10-07 17:27:35 | [pqc-jose](https://crates.io/crates/pqc-jose) | 0.1.0 | 0 | pqc-jose library for the cryptopolicy project. |
+| 2026-10-07 17:27:41 | [pqc-kit](https://crates.io/crates/pqc-kit) | 0.1.0 | 0 | pqc-kit library for the cryptopolicy project. |
+| 2026-10-07 17:28:50 | [autumn-plugin-surrealdb](https://crates.io/crates/autumn-plugin-surrealdb) | 0.1.0 | 0 | Autumn plugin: a SurrealDB client for Autumn apps — documents, key-value and gr… |
+| 2026-10-07 17:31:12 | [pqc-x509](https://crates.io/crates/pqc-x509) | 0.1.0 | 0 | pqc-x509 library for the cryptopolicy project. |
+| 2026-10-07 17:32:34 | [fiki](https://crates.io/crates/fiki) | 0.0.1 | 0 | Name reserved for fiki (RFC 9421 HTTP message signatures). Empty placeholder; s… |
+| 2026-10-07 17:35:18 | [autumn-plugin-agent](https://crates.io/crates/autumn-plugin-agent) | 0.2.0 | 0 | Autumn plugin: provider-agnostic, always-on LLM agent harness (tool calling, se… |
+| 2026-10-07 17:41:06 | [cryptoshift](https://crates.io/crates/cryptoshift) | 0.1.0 | 0 | cryptoshift library for the cryptoshift project. |
+| 2026-10-07 17:42:59 | [statelessness](https://crates.io/crates/statelessness) | 0.1.0 | 0 | Dependency-free state-machine checking, exploration, and replay |
+| 2026-10-07 17:46:20 | [dataseek](https://crates.io/crates/dataseek) | 0.8.0 | 0 | Search for datasets from the terminal |
+| 2026-10-07 17:50:47 | [indicatrix-render-jobs](https://crates.io/crates/indicatrix-render-jobs) | 0.7.0 | 0 | Render jobs for Indicatrix: the frozen job file (scene, material, lighting, cam… |
+| 2026-10-07 17:51:01 | [indicatrix-cli](https://crates.io/crates/indicatrix-cli) | 0.7.0 | 0 | Headless command-line tool for Indicatrix faceting designs: info, solve, metric… |
+| 2026-10-07 17:52:15 | [keymesh](https://crates.io/crates/keymesh) | 0.1.0 | 0 | keymesh library for the keymesh project. |
+| 2026-10-07 17:57:20 | [alibi-macros](https://crates.io/crates/alibi-macros) | 0.1.1 | 0 | Proc macros used internally by the Alibi workspace |
+| 2026-10-07 17:57:20 | [alibi-schema-registry](https://crates.io/crates/alibi-schema-registry) | 0.1.1 | 0 | Authoritative field registry for Alibi entity schemas |
+| 2026-10-07 17:57:22 | [alibi-cli](https://crates.io/crates/alibi-cli) | 0.1.1 | 0 | Schema generator for Alibi authentication |
+| 2026-10-07 17:57:23 | [alibi-core](https://crates.io/crates/alibi-core) | 0.1.1 | 0 | Shared authentication contracts and backend-independent services for Alibi |
+| 2026-10-07 17:57:24 | [alibi-entity-codegen](https://crates.io/crates/alibi-entity-codegen) | 0.1.1 | 0 | Shared code generation for the Alibi entity derives |
+| 2026-10-07 17:58:23 | [fhebench](https://crates.io/crates/fhebench) | 0.1.0 | 0 | fhebench library for the fhekit project. |
+| 2026-10-07 17:58:39 | [pina_amm_cli](https://crates.io/crates/pina_amm_cli) | 0.0.0 | 0 | Command-line interface for the Pina AMM: create tiers and pools, quote and swap… |
+| 2026-10-07 17:58:42 | [pina_amm_client](https://crates.io/crates/pina_amm_client) | 0.0.0 | 0 | Rust client for the Pina AMM: instruction builders, account decoders, PDAs, eve… |
+| 2026-10-07 17:58:49 | [pina_amm_cpi](https://crates.io/crates/pina_amm_cpi) | 0.0.0 | 0 | no_std CPI client for calling the Pina AMM from other on-chain Solana programs |
+| 2026-10-07 17:59:04 | [pina_bonding_curve_cli](https://crates.io/crates/pina_bonding_curve_cli) | 0.0.0 | 0 | Command-line interface for the Pina Bonding Curve: design curves, run launchpad… |
+| 2026-10-07 17:59:05 | [pina_bonding_curve_client](https://crates.io/crates/pina_bonding_curve_client) | 0.0.0 | 0 | Rust client for the Pina Bonding Curve: instruction builders, account decoders,… |
+| 2026-10-07 17:59:11 | [pina_bonding_curve_cpi](https://crates.io/crates/pina_bonding_curve_cpi) | 0.0.0 | 0 | no_std CPI client for calling the Pina Bonding Curve from other on-chain Solana… |
+| 2026-10-07 17:59:15 | [partyline](https://crates.io/crates/partyline) | 0.2.0 | 0 | Sequenced, resumable server-to-client events: protocol types, sans-IO client st… |
+| 2026-10-07 17:59:17 | [partyline-client](https://crates.io/crates/partyline-client) | 0.2.0 | 0 | partyline client: WebSocket transports and a runtime-agnostic driver for web (w… |
+| 2026-10-07 17:59:18 | [partyline-worker](https://crates.io/crates/partyline-worker) | 0.2.0 | 0 | Cloudflare Durable Object hub for partyline: sequenced, resumable WebSocket eve… |
+| 2026-10-07 17:59:20 | [partyline-dioxus](https://crates.io/crates/partyline-dioxus) | 0.2.0 | 0 | Dioxus hooks for partyline: sequenced, resumable server events with status as a… |
+| 2026-10-07 18:01:52 | [crownset](https://crates.io/crates/crownset) | 0.0.1 | 0 | Crownset — desktop tools that run on your computer, keep your files there, and… |
+| 2026-10-07 18:09:32 | [fhebridge](https://crates.io/crates/fhebridge) | 0.1.0 | 0 | fhebridge library for the fhekit project. |
+| 2026-10-07 18:10:46 | [alibi-api](https://crates.io/crates/alibi-api) | 0.1.1 | 0 | Built-in authentication plugins and API metadata for Alibi |
+| 2026-10-07 18:16:15 | [chpath](https://crates.io/crates/chpath) | 0.1.0 | 0 | a CLI tool to manage the modification of the Unix environment variable PATH |
 
 ## Data source
 

@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T17:22:46.534179Z,zvidlib-opus,0.4.0,0,0,https://github.com/lsegal/zvidlib,Opus decoding and encoding for zvidlib
+2026-10-07T17:22:50.872747Z,codevideorenderer,0.1.0,0,0,https://github.com/Goway-Hui/codevideorenderer-rs,"Render dynamic ""typing"" code videos — a Rust reimplementation of CodeVideoRenderer"
+2026-10-07T17:23:14.946112Z,autumn-plugin-discord,0.1.0,0,0,https://github.com/madmax983/autumn-plugin-discord,"Autumn plugin: a Discord bot framework — slash commands as Autumn routes, signed interaction webhooks, REST client, and a minimal gateway client."
+2026-10-07T17:25:32.19633Z,rituals-core-import,0.2.0,0,0,https://github.com/hexlace/ritual,"Ritual — import a task crate from a registry, git or a path, and regenerate."
+2026-10-07T17:25:34.880861Z,rituals-core-remove,0.2.0,0,0,https://github.com/hexlace/ritual,"Ritual — take a task out of this project, in the order that keeps it building."
+2026-10-07T17:25:36.534032Z,rituals-core-migrate,0.2.0,0,0,https://github.com/hexlace/ritual,Ritual — bring this project up to the layout of the ritual it runs.
+2026-10-07T17:27:13.567925Z,cryptomap,0.1.0,0,0,https://github.com/LATTIX-IO/cryptomap,cryptomap library for the cryptomap project.
+2026-10-07T17:27:20.640139Z,cryptopolicy,0.1.0,0,0,https://github.com/LATTIX-IO/cryptopolicy,cryptopolicy library for the cryptopolicy project.
+2026-10-07T17:27:27.816604Z,pqc-cose,0.1.0,0,0,https://github.com/LATTIX-IO/cryptopolicy,pqc-cose library for the cryptopolicy project.
+2026-10-07T17:27:35.011627Z,pqc-jose,0.1.0,0,0,https://github.com/LATTIX-IO/cryptopolicy,pqc-jose library for the cryptopolicy project.
+2026-10-07T17:27:41.946355Z,pqc-kit,0.1.0,0,0,https://github.com/LATTIX-IO/cryptopolicy,pqc-kit library for the cryptopolicy project.
+2026-10-07T17:28:50.109233Z,autumn-plugin-surrealdb,0.1.0,0,0,https://github.com/madmax983/autumn-plugin-surrealdb,"Autumn plugin: a SurrealDB client for Autumn apps — documents, key-value and graph queries."
+2026-10-07T17:31:12.267516Z,pqc-x509,0.1.0,0,0,https://github.com/LATTIX-IO/cryptopolicy,pqc-x509 library for the cryptopolicy project.
+2026-10-07T17:32:34.978038Z,fiki,0.0.1,0,0,https://github.com/bakobo/fiki,Name reserved for fiki (RFC 9421 HTTP message signatures). Empty placeholder; see the repository.
+2026-10-07T17:35:18.237214Z,autumn-plugin-agent,0.2.0,0,0,https://github.com/madmax983/autumn-plugin-agent,"Autumn plugin: provider-agnostic, always-on LLM agent harness (tool calling, sessions, memory, approvals, heartbeats) for OpenAI-compatible and Anthropic APIs."
+2026-10-07T17:41:06.888035Z,cryptoshift,0.1.0,0,0,https://github.com/LATTIX-IO/cryptoshift,cryptoshift library for the cryptoshift project.
+2026-10-07T17:42:59.174114Z,statelessness,0.1.0,0,0,https://github.com/Jagalite/stateless,"Dependency-free state-machine checking, exploration, and replay"
+2026-10-07T17:46:20.131534Z,dataseek,0.8.0,0,0,https://github.com/lmarkmann/dataseek,Search for datasets from the terminal
+2026-10-07T17:50:47.761734Z,indicatrix-render-jobs,0.7.0,0,0,https://github.com/suitable-name/indicatrix,"Render jobs for Indicatrix: the frozen job file (scene, material, lighting, camera and export settings) shared by the desktop render queue and the command-line renderer, the job state machine, queue…"
+2026-10-07T17:51:01.80951Z,indicatrix-cli,0.7.0,0,0,https://github.com/suitable-name/indicatrix,"Headless command-line tool for Indicatrix faceting designs: info, solve, metrics, validate, optimize, retarget, sweep and export from scripts, with no window. Reads .indicatrix, .asc, .gem and .gcs;…"
+2026-10-07T17:52:15.28177Z,keymesh,0.1.0,0,0,https://github.com/LATTIX-IO/keymesh,keymesh library for the keymesh project.
+2026-10-07T17:57:20.12523Z,alibi-macros,0.1.1,0,0,https://github.com/cschmatzler/better-auth-rs,Proc macros used internally by the Alibi workspace
+2026-10-07T17:57:20.880845Z,alibi-schema-registry,0.1.1,0,0,https://github.com/cschmatzler/better-auth-rs,Authoritative field registry for Alibi entity schemas
+2026-10-07T17:57:22.556919Z,alibi-cli,0.1.1,0,0,https://github.com/cschmatzler/better-auth-rs,Schema generator for Alibi authentication
+2026-10-07T17:57:23.511644Z,alibi-core,0.1.1,0,0,https://github.com/cschmatzler/better-auth-rs,Shared authentication contracts and backend-independent services for Alibi
+2026-10-07T17:57:24.306953Z,alibi-entity-codegen,0.1.1,0,0,https://github.com/cschmatzler/better-auth-rs,Shared code generation for the Alibi entity derives
+2026-10-07T17:58:23.51083Z,fhebench,0.1.0,0,0,https://github.com/LATTIX-IO/fhekit,fhebench library for the fhekit project.
+2026-10-07T17:58:39.38116Z,pina_amm_cli,0.0.0,0,0,https://github.com/pina-rs/amm/tree/main/crates/pina_amm_cli,"Command-line interface for the Pina AMM: create tiers and pools, quote and swap, manage liquidity, and collect fees"
+2026-10-07T17:58:42.412646Z,pina_amm_client,0.0.0,0,0,https://github.com/pina-rs/amm/tree/main/clients/rust/pina_amm,"Rust client for the Pina AMM: instruction builders, account decoders, PDAs, events, and errors"
+2026-10-07T17:58:49.355314Z,pina_amm_cpi,0.0.0,0,0,https://github.com/pina-rs/amm/tree/main/clients/cpi/pina_amm,no_std CPI client for calling the Pina AMM from other on-chain Solana programs
+2026-10-07T17:59:04.342705Z,pina_bonding_curve_cli,0.0.0,0,0,https://github.com/pina-rs/bonding_curve/tree/main/crates/pina_bonding_curve_cli,"Command-line interface for the Pina Bonding Curve: design curves, run launchpads, launch tokens, trade, graduate, and claim"
+2026-10-07T17:59:05.950007Z,pina_bonding_curve_client,0.0.0,0,0,https://github.com/pina-rs/bonding_curve/tree/main/clients/rust/pina_bonding_curve,"Rust client for the Pina Bonding Curve: instruction builders, account decoders, PDAs, events, and errors"
+2026-10-07T17:59:11.766541Z,pina_bonding_curve_cpi,0.0.0,0,0,https://github.com/pina-rs/bonding_curve/tree/main/clients/cpi/pina_bonding_curve,no_std CPI client for calling the Pina Bonding Curve from other on-chain Solana programs
+2026-10-07T17:59:15.079024Z,partyline,0.2.0,0,0,https://github.com/sagikazarmark/partyline,"Sequenced, resumable server-to-client events: protocol types, sans-IO client state machine, and replay rules"
+2026-10-07T17:59:17.605398Z,partyline-client,0.2.0,0,0,https://github.com/sagikazarmark/partyline,partyline client: WebSocket transports and a runtime-agnostic driver for web (wasm) and native
+2026-10-07T17:59:18.050015Z,partyline-worker,0.2.0,0,0,https://github.com/sagikazarmark/partyline,"Cloudflare Durable Object hub for partyline: sequenced, resumable WebSocket events"
+2026-10-07T17:59:20.530148Z,partyline-dioxus,0.2.0,0,0,https://github.com/sagikazarmark/partyline,"Dioxus hooks for partyline: sequenced, resumable server events with status as a signal"
+2026-10-07T18:01:52.434382Z,crownset,0.0.1,0,0,https://github.com/Crownsetapp,"Crownset — desktop tools that run on your computer, keep your files there, and work without an account. Name reserved for the Crownset project; see https://crownset.app"
+2026-10-07T18:09:32.299977Z,fhebridge,0.1.0,0,0,https://github.com/LATTIX-IO/fhekit,fhebridge library for the fhekit project.
+2026-10-07T18:10:46.126044Z,alibi-api,0.1.1,0,0,https://github.com/cschmatzler/better-auth-rs,Built-in authentication plugins and API metadata for Alibi
+2026-10-07T18:16:15.820758Z,chpath,0.1.0,0,0,https://github.com/MichelBoucey/chpath,a CLI tool to manage the modification of the Unix environment variable PATH
