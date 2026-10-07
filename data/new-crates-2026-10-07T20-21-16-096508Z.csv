@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T19:22:36.19621Z,fhetensor,0.1.0,0,0,https://github.com/LATTIX-IO/fhetensor,fhetensor library for the fhetensor project.
+2026-10-07T19:25:07.661729Z,disrupt-bigfile-filelists-wd1,0.1.0,0,0,https://github.com/hashadex/disrupt-bigfile,Watch Dogs 1 filelist package for disrupt-bigfile
+2026-10-07T19:25:10.181867Z,disrupt-bigfile-filelists-wd2,0.1.0,0,0,https://github.com/hashadex/disrupt-bigfile,Watch Dogs 2 filelist package for disrupt-bigfile
+2026-10-07T19:25:12.341276Z,disrupt-bigfile-filelists-wdl,0.1.0,0,0,https://github.com/hashadex/disrupt-bigfile,Watch Dogs: Legion filelist package for disrupt-bigfile
+2026-10-07T19:25:17.111287Z,disrupt-bigfile,1.0.0,0,0,https://github.com/hashadex/disrupt-bigfile,Unofficial tool for manipulating Ubisoft BigFile archives
+2026-10-07T19:27:19.760865Z,smelly,0.1.0,0,0,https://github.com/p-sira/smelly,"Performant Kalman filter implementation and its variants, like Extended Kalman (EKF) and Unscented Kalman Filters (UKF)."
+2026-10-07T19:28:44.568311Z,fhewasm,0.1.0,0,0,https://github.com/LATTIX-IO/fhewasm,fhewasm library for the fhewasm project.
+2026-10-07T19:34:32.576536Z,arcbox-storage,0.9.0,0,0,https://github.com/arcboxlabs/arcbox,Persistent identity and initialization authority for ArcBox runtime volumes
+2026-10-07T19:38:25.277159Z,degenbot-substrate,0.6.0-alpha.14,0,0,https://github.com/BowTiedDevil/degenbot,"The strategy substrate: BotState (the live state owner), the planning workspace, pool ingress, the connector index, and executor hop views."
+2026-10-07T19:38:33.60843Z,degenbot-batch-executor,0.6.0-alpha.14,0,0,https://github.com/BowTiedDevil/degenbot,"Core batch executor: the per-batch dispatch choreography — assembly, payload merge, and the ordered sim-submit lane — as one value-configured engine module."
+2026-10-07T19:39:53.642751Z,beliefstate,0.1.0,0,0,https://github.com/LATTIX-IO/reasonir,belief library for the reasonir project.
+2026-10-07T19:41:59.56759Z,normfs-time,0.4.0,0,0,https://github.com/norma-core/normfs,"The monotonic, wall-clock and process-start stamps NormFS and station records carry"
+2026-10-07T19:42:02.705568Z,normfs-fs,0.4.0,0,0,https://github.com/norma-core/normfs,Filesystem layer for NormFS: proved protocol planner and bounded thread-pool executor
+2026-10-07T19:51:02.504552Z,reasonir,0.1.0,0,0,https://github.com/LATTIX-IO/reasonir,reasonir library for the reasonir project.
+2026-10-07T20:02:11.384792Z,contradict,0.1.0,0,0,https://github.com/LATTIX-IO/reason-runtime,contradict library for the reason-runtime project.
+2026-10-07T20:03:57.95341Z,scafra-foundation,0.1.0-snapshot.1,0,0,https://github.com/Scafra/Scafra,"Shared logging, diagnostics, and cross-cutting foundations for Scafra"
+2026-10-07T20:04:01.102291Z,scafra-core,0.1.0-snapshot.1,0,0,https://github.com/Scafra/Scafra,Framework-neutral lifecycle and application abstractions for Scafra
+2026-10-07T20:04:10.81348Z,scafra-actuator,0.1.0-snapshot.1,0,0,https://github.com/Scafra/Scafra,Spring Boot-style operational endpoints for Scafra
+2026-10-07T20:04:16.306515Z,scafra-scheduler,0.1.0-snapshot.1,0,0,https://github.com/Scafra/Scafra,Configurable scheduled tasks for Scafra applications
+2026-10-07T20:04:31.762103Z,scafra-security,0.1.0-snapshot.1,0,0,https://github.com/Scafra/Scafra,Configurable HTTP security defaults for Scafra applications
+2026-10-07T20:06:59.376458Z,tinywasm-c-api,0.1.0,0,0,,placeholder package to set up trusted publishing
+2026-10-07T20:07:10.673932Z,liwan-api,0.1.0,0,0,,placeholder package to set up trusted publishing
+2026-10-07T20:08:20.124893Z,logicbridge,0.1.0,0,0,https://github.com/LATTIX-IO/reason-runtime,logicbridge library for the reason-runtime project.
+2026-10-07T20:08:59.297574Z,vtube-trackers,1.0.1,0,0,https://codeberg.org/MyriadMinds/vtube-trackers,Collection of ML models useful for developing VTuber trackers
+2026-10-07T20:19:21.541882Z,wsr-types,0.0.3,0,0,https://github.com/ectorial/wsr,"Shared types, traits, and error definitions for wsr"
+2026-10-07T20:19:25.50399Z,wsr-tracing,0.0.3,0,0,https://github.com/ectorial/wsr,Structured logging and output formatting for wsr (human + GHA annotations)
+2026-10-07T20:19:28.947822Z,neuralpred,0.1.0,0,0,https://github.com/LATTIX-IO/reason-runtime,neuralpred library for the reason-runtime project.
+2026-10-07T20:19:30.142402Z,wsr-cli,0.0.3,0,0,https://github.com/ectorial/wsr,Command-line interface types and argument definitions for wsr (clap v4)
+2026-10-07T20:19:33.989627Z,wsr-expr,0.0.3,0,0,https://github.com/ectorial/wsr,Provider-agnostic ${{ }} expression evaluator for wsr workflow definitions
+2026-10-07T20:19:38.461927Z,wsr-fs,0.0.3,0,0,https://github.com/ectorial/wsr,"Filesystem utilities, VFS abstraction, and atomic write helpers for wsr"

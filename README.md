@@ -8,48 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 19:19 UTC
+## Latest list — 2026-10-07 20:21 UTC
 
-New crates published between 2026-10-07 18:18 UTC and 2026-10-07 19:19 UTC.
+New crates published between 2026-10-07 19:19 UTC and 2026-10-07 20:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-07T19-19-30-089616Z.csv)
+[Full CSV](data/new-crates-2026-10-07T20-21-16-096508Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-07 18:19:16 | [sid-ids](https://crates.io/crates/sid-ids) | 0.1.0 | 0 | StructuredID validated identifiers: UUIDv7 newtypes (ProfileId, DeviceId, Sessi… |
-| 2026-10-07 18:19:33 | [sid-ids-proto](https://crates.io/crates/sid-ids-proto) | 0.1.0 | 0 | StructuredID identifier protobuf messages (sid.v1.ids) with validated conversio… |
-| 2026-10-07 18:20:42 | [fhekit](https://crates.io/crates/fhekit) | 0.1.0 | 0 | fhekit library for the fhekit project. |
-| 2026-10-07 18:21:18 | [agentpools](https://crates.io/crates/agentpools) | 0.1.10 | 0 | Bounded agent session pools with exclusive worker leases |
-| 2026-10-07 18:21:24 | [agentpools-transport](https://crates.io/crates/agentpools-transport) | 0.1.10 | 0 | Cross-platform stdio process transport and JSON stream parsing for agentpools |
-| 2026-10-07 18:21:27 | [agentpools-acp](https://crates.io/crates/agentpools-acp) | 0.1.10 | 0 | ACP stdio adapter for agentpools |
-| 2026-10-07 18:21:29 | [agentpools-codex](https://crates.io/crates/agentpools-codex) | 0.1.10 | 0 | Codex app-server adapter for agentpools with standalone, shared multiplexing, a… |
-| 2026-10-07 18:21:32 | [agentpools-runtime](https://crates.io/crates/agentpools-runtime) | 0.1.10 | 0 | Runtime adapters and versioned binding configuration for agentpools |
-| 2026-10-07 18:30:13 | [agenthooksprotocol](https://crates.io/crates/agenthooksprotocol) | 0.0.0 | 0 | Official non-normative Rust SDK for the Agent Hooks Protocol |
-| 2026-10-07 18:31:01 | [autumn-plugin-topcoat](https://crates.io/crates/autumn-plugin-topcoat) | 0.1.0 | 0 | Autumn plugin: Autumn serves the backend, Topcoat renders the frontend. |
-| 2026-10-07 18:31:32 | [hyperminhash-rs](https://crates.io/crates/hyperminhash-rs) | 0.1.0 | 0 | Heap-backed HyperMinHash with configurable precision and set comparison |
-| 2026-10-07 18:31:51 | [fheplan](https://crates.io/crates/fheplan) | 0.1.0 | 0 | fheplan library for the fhekit project. |
-| 2026-10-07 18:32:58 | [themql-desktop](https://crates.io/crates/themql-desktop) | 0.2.0 | 0 | Native Rust message-query runtime for desktop, distributed, telemetry, analysis… |
-| 2026-10-07 18:33:32 | [themql-embedded](https://crates.io/crates/themql-embedded) | 0.2.0 | 0 | Native Rust message-query runtime for desktop, distributed, telemetry, analysis… |
-| 2026-10-07 18:35:46 | [tla-mc](https://crates.io/crates/tla-mc) | 0.1.0 | 0 | A fast TLA+ model checker: compiles a spec into a native, parallel checker; sta… |
-| 2026-10-07 18:37:04 | [apimail](https://crates.io/crates/apimail) | 0.1.0 | 0 | API HTTP en Rust (Axum) para gestionar una cuenta de correo vía IMAP y SMTP |
-| 2026-10-07 18:37:52 | [openhandle](https://crates.io/crates/openhandle) | 1.2.6 | 0 | Official Rust SDK for the Openhandle social data API |
-| 2026-10-07 18:38:00 | [fhetest](https://crates.io/crates/fhetest) | 0.1.0 | 0 | fhetest library for the fhekit project. |
-| 2026-10-07 18:41:34 | [autumn-plugin-clickhouse](https://crates.io/crates/autumn-plugin-clickhouse) | 0.1.0 | 0 | Autumn plugin: a ClickHouse OLAP client with batch inserts, typed queries, and… |
-| 2026-10-07 18:43:32 | [autumn-plugin-slack](https://crates.io/crates/autumn-plugin-slack) | 0.1.0 | 0 | Slack plugin for autumn-web: verified Events API, slash commands, interactivity… |
-| 2026-10-07 18:44:34 | [sketch-solver](https://crates.io/crates/sketch-solver) | 0.1.0 | 0 | A deterministic 2D geometric constraint solver for CAD sketches: points, lines,… |
-| 2026-10-07 18:48:23 | [ffrp](https://crates.io/crates/ffrp) | 0.1.0 | 0 | A simple interactive media compression CLI powered by FFmpeg |
-| 2026-10-07 18:49:09 | [fheflow](https://crates.io/crates/fheflow) | 0.1.0 | 0 | fheflow library for the fheflow project. |
-| 2026-10-07 18:53:59 | [EngineLib](https://crates.io/crates/EngineLib) | 0.1.1 | 0 | ... |
-| 2026-10-07 19:00:18 | [fherun](https://crates.io/crates/fherun) | 0.1.0 | 0 | fherun library for the fherun project. |
-| 2026-10-07 19:03:51 | [const-trust-anchor](https://crates.io/crates/const-trust-anchor) | 0.0.1 | 0 | Converting X.509 certificates to the TrustAnchor in rustls-pki-types at compile… |
-| 2026-10-07 19:05:31 | [requests-native](https://crates.io/crates/requests-native) | 1.0.0 | 0 | Native HTTP transport for the unofficial Requests Native rewrite |
-| 2026-10-07 19:08:31 | [rylv-pool](https://crates.io/crates/rylv-pool) | 0.1.0 | 0 | Generic pooling with pluggable providers and thread-local storage |
-| 2026-10-07 19:08:48 | [rusteero](https://crates.io/crates/rusteero) | 2.0.0 | 0 | Async Rust client for the Eero (Amazon) mesh Wi-Fi cloud API — a port of the Py… |
-| 2026-10-07 19:11:27 | [fheshare](https://crates.io/crates/fheshare) | 0.1.0 | 0 | fheshare library for the fherun project. |
-| 2026-10-07 19:14:25 | [tayna](https://crates.io/crates/tayna) | 0.1.0 | 0 | Policy-driven password generation library, with an optional CLI. |
-| 2026-10-07 19:15:48 | [cargo-llvm-cov-ignore](https://crates.io/crates/cargo-llvm-cov-ignore) | 0.1.0 | 0 | Run `cargo llvm-cov` with ignore capabilities and simple report |
-| 2026-10-07 19:18:24 | [fleetix-sidecar](https://crates.io/crates/fleetix-sidecar) | 0.6.0 | 0 | Standalone Pkl-to-Nix sidecar generator and reusable Fleetix library |
-| 2026-10-07 19:18:26 | [mothwing](https://crates.io/crates/mothwing) | 1.0.0 | 0 | Animated braille moths for your terminal |
+| 2026-10-07 19:22:36 | [fhetensor](https://crates.io/crates/fhetensor) | 0.1.0 | 0 | fhetensor library for the fhetensor project. |
+| 2026-10-07 19:25:07 | [disrupt-bigfile-filelists-wd1](https://crates.io/crates/disrupt-bigfile-filelists-wd1) | 0.1.0 | 0 | Watch Dogs 1 filelist package for disrupt-bigfile |
+| 2026-10-07 19:25:10 | [disrupt-bigfile-filelists-wd2](https://crates.io/crates/disrupt-bigfile-filelists-wd2) | 0.1.0 | 0 | Watch Dogs 2 filelist package for disrupt-bigfile |
+| 2026-10-07 19:25:12 | [disrupt-bigfile-filelists-wdl](https://crates.io/crates/disrupt-bigfile-filelists-wdl) | 0.1.0 | 0 | Watch Dogs: Legion filelist package for disrupt-bigfile |
+| 2026-10-07 19:25:17 | [disrupt-bigfile](https://crates.io/crates/disrupt-bigfile) | 1.0.0 | 0 | Unofficial tool for manipulating Ubisoft BigFile archives |
+| 2026-10-07 19:27:19 | [smelly](https://crates.io/crates/smelly) | 0.1.0 | 0 | Performant Kalman filter implementation and its variants, like Extended Kalman… |
+| 2026-10-07 19:28:44 | [fhewasm](https://crates.io/crates/fhewasm) | 0.1.0 | 0 | fhewasm library for the fhewasm project. |
+| 2026-10-07 19:34:32 | [arcbox-storage](https://crates.io/crates/arcbox-storage) | 0.9.0 | 0 | Persistent identity and initialization authority for ArcBox runtime volumes |
+| 2026-10-07 19:38:25 | [degenbot-substrate](https://crates.io/crates/degenbot-substrate) | 0.6.0-alpha.14 | 0 | The strategy substrate: BotState (the live state owner), the planning workspace… |
+| 2026-10-07 19:38:33 | [degenbot-batch-executor](https://crates.io/crates/degenbot-batch-executor) | 0.6.0-alpha.14 | 0 | Core batch executor: the per-batch dispatch choreography — assembly, payload me… |
+| 2026-10-07 19:39:53 | [beliefstate](https://crates.io/crates/beliefstate) | 0.1.0 | 0 | belief library for the reasonir project. |
+| 2026-10-07 19:41:59 | [normfs-time](https://crates.io/crates/normfs-time) | 0.4.0 | 0 | The monotonic, wall-clock and process-start stamps NormFS and station records c… |
+| 2026-10-07 19:42:02 | [normfs-fs](https://crates.io/crates/normfs-fs) | 0.4.0 | 0 | Filesystem layer for NormFS: proved protocol planner and bounded thread-pool ex… |
+| 2026-10-07 19:51:02 | [reasonir](https://crates.io/crates/reasonir) | 0.1.0 | 0 | reasonir library for the reasonir project. |
+| 2026-10-07 20:02:11 | [contradict](https://crates.io/crates/contradict) | 0.1.0 | 0 | contradict library for the reason-runtime project. |
+| 2026-10-07 20:03:57 | [scafra-foundation](https://crates.io/crates/scafra-foundation) | 0.1.0-snapshot.1 | 0 | Shared logging, diagnostics, and cross-cutting foundations for Scafra |
+| 2026-10-07 20:04:01 | [scafra-core](https://crates.io/crates/scafra-core) | 0.1.0-snapshot.1 | 0 | Framework-neutral lifecycle and application abstractions for Scafra |
+| 2026-10-07 20:04:10 | [scafra-actuator](https://crates.io/crates/scafra-actuator) | 0.1.0-snapshot.1 | 0 | Spring Boot-style operational endpoints for Scafra |
+| 2026-10-07 20:04:16 | [scafra-scheduler](https://crates.io/crates/scafra-scheduler) | 0.1.0-snapshot.1 | 0 | Configurable scheduled tasks for Scafra applications |
+| 2026-10-07 20:04:31 | [scafra-security](https://crates.io/crates/scafra-security) | 0.1.0-snapshot.1 | 0 | Configurable HTTP security defaults for Scafra applications |
+| 2026-10-07 20:06:59 | [tinywasm-c-api](https://crates.io/crates/tinywasm-c-api) | 0.1.0 | 0 | placeholder package to set up trusted publishing |
+| 2026-10-07 20:07:10 | [liwan-api](https://crates.io/crates/liwan-api) | 0.1.0 | 0 | placeholder package to set up trusted publishing |
+| 2026-10-07 20:08:20 | [logicbridge](https://crates.io/crates/logicbridge) | 0.1.0 | 0 | logicbridge library for the reason-runtime project. |
+| 2026-10-07 20:08:59 | [vtube-trackers](https://crates.io/crates/vtube-trackers) | 1.0.1 | 0 | Collection of ML models useful for developing VTuber trackers |
+| 2026-10-07 20:19:21 | [wsr-types](https://crates.io/crates/wsr-types) | 0.0.3 | 0 | Shared types, traits, and error definitions for wsr |
+| 2026-10-07 20:19:25 | [wsr-tracing](https://crates.io/crates/wsr-tracing) | 0.0.3 | 0 | Structured logging and output formatting for wsr (human + GHA annotations) |
+| 2026-10-07 20:19:28 | [neuralpred](https://crates.io/crates/neuralpred) | 0.1.0 | 0 | neuralpred library for the reason-runtime project. |
+| 2026-10-07 20:19:30 | [wsr-cli](https://crates.io/crates/wsr-cli) | 0.0.3 | 0 | Command-line interface types and argument definitions for wsr (clap v4) |
+| 2026-10-07 20:19:33 | [wsr-expr](https://crates.io/crates/wsr-expr) | 0.0.3 | 0 | Provider-agnostic ${{ }} expression evaluator for wsr workflow definitions |
+| 2026-10-07 20:19:38 | [wsr-fs](https://crates.io/crates/wsr-fs) | 0.0.3 | 0 | Filesystem utilities, VFS abstraction, and atomic write helpers for wsr |
 
 ## Data source
 
