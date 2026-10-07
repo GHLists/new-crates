@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T07:41:23.271983Z,tmux-run,0.1.1,0,0,https://github.com/mhalder/tmux-run,"Run a command in a detached tmux session, log its output, and collect its exit status later"
+2026-10-07T07:44:41.6797Z,orgchart,0.1.0,0,0,https://github.com/igbanam/orgchart,Render ASCII org charts from an indentation-based DSL
+2026-10-07T07:45:19.072658Z,mindx,0.1.0,0,0,https://github.com/0xhappyboy/mindx,"An experimental brain-inspired associative memory system, All knowledge develops solely from input, No pretrained human knowledge of any kind."
+2026-10-07T07:45:31.578826Z,er-unsync,0.7.0,0,0,https://github.com/Viterkim/er,Er with Rc sharing and errors without Send/Sync requirements
+2026-10-07T07:45:39.261181Z,texo-model,0.0.0,0,0,https://github.com/fabrica-eda/texo,Trusted Publishing bootstrap placeholder for Texo
+2026-10-07T07:45:44.811424Z,texo-pnr,0.0.0,0,0,https://github.com/fabrica-eda/texo,Trusted Publishing bootstrap placeholder for Texo
+2026-10-07T07:45:51.45492Z,texo-timing,0.0.0,0,0,https://github.com/fabrica-eda/texo,Trusted Publishing bootstrap placeholder for Texo
+2026-10-07T07:45:57.851865Z,texo-struo,0.0.0,0,0,https://github.com/fabrica-eda/texo,Trusted Publishing bootstrap placeholder for Texo
+2026-10-07T07:46:04.632066Z,texo-target-ecp5,0.0.0,0,0,https://github.com/fabrica-eda/texo,Trusted Publishing bootstrap placeholder for Texo
+2026-10-07T07:49:16.247033Z,phimint,0.1.0,0,0,https://github.com/hibuka-labs/phimint,"phimint — an AI coding agent built on phi-agent, used to stress-test the framework by writing code."
+2026-10-07T07:50:30.111128Z,netindex,0.1.0,0,0,https://github.com/0xARYA/netindex,Immutable IP range and ASN indexes with opaque borrowed payloads
+2026-10-07T07:55:02.673194Z,pruning_radix_trie_rs,0.1.0,0,0,https://github.com/wolfgarbe/pruning_radix_trie_rs,"Pruning Radix Trie: top-k prefix completion over a term-frequency dictionary, with early termination"
+2026-10-07T07:56:40.512236Z,nlr-plot,1.3.0,0,0,https://github.com/CropCoder/FastNLR,PNG statistics plots for FastNLR
+2026-10-07T07:57:01.292218Z,fastnlr,1.3.0,0,0,https://github.com/CropCoder/FastNLR,"FastNLR: high-speed, accurate NLR immune-receptor locus annotation for plant genomes"
+2026-10-07T07:58:19.568897Z,rangoli-macros,0.1.0,0,0,https://github.com/Harshil-Jani/rangoli-rs,Derive macros for the Rangoli web framework
+2026-10-07T07:58:46.499479Z,rangoli,0.1.0,0,0,https://github.com/Harshil-Jani/rangoli-rs,"A batteries-included, Django-style web framework for Rust: typed ORM, migrations, admin, auth"
+2026-10-07T07:59:56.735775Z,declutter-diff,0.1.0,0,0,https://github.com/NikolajMosbaek/declutter-diff,"Review AI-generated diffs with comments, tests, imports, logging and formatting toggled in and out"
+2026-10-07T08:01:50.158578Z,solti-cron,0.0.7,0,0,https://github.com/soltiHQ/sdk,IANA timezone cron schedules and recurring Taskvisor tasks for the Solti SDK.
+2026-10-07T08:04:31.825959Z,syntropika-stargate-ui,0.1.0,0,0,https://github.com/syntropika/stargate,Embedded account UI assets for Stargate
+2026-10-07T08:04:38.586204Z,syntropika-stargate-storage,0.1.0,0,0,https://github.com/syntropika/stargate,Storage contracts and embedded Turso adapter for Stargate
+2026-10-07T08:05:06.712962Z,syntropika-stargate-core,0.1.0,0,0,https://github.com/syntropika/stargate,"OIDC, sessions, API keys and authorization for Stargate"
+2026-10-07T08:05:09.53173Z,syntropika-stargate-http,0.1.0,0,0,https://github.com/syntropika/stargate,HTTP routing and security for the Stargate authentication runtime
+2026-10-07T08:06:27.280318Z,syntropika-stargate,0.1.0,0,0,https://github.com/syntropika/stargate,"Embedded authentication for Axum: OIDC, sessions, API keys and account UI"
