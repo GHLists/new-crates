@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T09:19:49.009524Z,chemrust-geometry,0.1.0,0,0,https://github.com/TonyWu20/chemrust,"Crystal geometry toolkit for computational materials science — Structure, lattice vectors, transforms, and slab generation."
+2026-10-07T09:23:19.634944Z,rightkit-embed,0.2.0,0,0,https://github.com/bogusyogi/claude,Product-neutral local text embeddings and persistent cosine vector store.
+2026-10-07T09:25:27.602932Z,petir,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"PETIR — Polynomials, Equations, Transforms, Integration and Roots. A no_std, dependency-lean core numerics library ported from the GNU Scientific Library. Independent port, not affiliated with or end…"
+2026-10-07T09:29:48.892813Z,farrer-park,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"FARRER PARK — Finite-element Analysis for Reactor Reliability, Engineering Response, Plasticity And Risk. Pure-Rust FEM structural mechanics (small-strain elasticity and J2 plasticity) on the OUTRAM-…"
+2026-10-07T09:30:15.080462Z,laravel-facade-macros,0.1.1,0,0,https://github.com/mpyw/laravel-facade-rs,Procedural macros for laravel-facade.
+2026-10-07T09:30:17.768224Z,laravel-facade,0.1.1,0,0,https://github.com/mpyw/laravel-facade-rs,"Laravel-style facades for the shaku DI container. Cache::get(""key"") in Rust."
+2026-10-07T09:34:59.72629Z,outram-foam-mesh,0.1.0,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"OpenFOAM mesh generation & conversion utilities translated to Rust (blockMesh, snappyHexMesh, ideasUnvToFoam, polyDualMesh) -- an independent OUTRAM PARK fork, not the official OpenFOAM software"
+2026-10-07T09:39:19.147311Z,raffles,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"RAFFLES — Risk Analysis Framework For Learning & Ensemble Simulation. Independent pure-Rust port of the uncertainty-quantification / risk-analysis core of RAVEN (Apache-2.0, Idaho National Laboratory…"
+2026-10-07T09:39:56.886355Z,video-types,0.1.0,0,0,https://github.com/AdrianEddy/wgpu-interop,"What a video's pixels mean: colour, HDR and per-frame metadata, and 360°/stereo geometry descriptors. A dependency-light leaf shared by parsers, GPU processing crates and media backends."
+2026-10-07T09:44:31.173768Z,sigma-dock-terminal,0.1.1,0,0,https://github.com/SigmaUno/sigma-dock,Alacritty-backed GPUI terminal with live appearance settings for SigmaDock
+2026-10-07T09:46:04.202538Z,outram-park-fork-liggghts,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"Pure-Rust granular-DEM library for OUTRAM PARK (particles, contact mechanics, thermal DEM, pebble/packed-bed physics), porting/reimplementing LIGGGHTS/LAMMPS-granular algorithms. LIGGGHTS-PUBLIC is G…"
+2026-10-07T09:48:05.465467Z,rightkit-mcp,0.1.1,0,0,https://github.com/bogusyogi/claude,"Shared MCP client (stdio + streamable HTTP, trust gate, pool, OAuth hook) and server host (stdio + loopback HTTP, per-tool admission) for Right Suite apps."
+2026-10-07T09:57:52.011718Z,windows-common-dialog,0.1.0,0,0,https://github.com/mimimishkin/windows-common-dialog,Wrapper for Windows file chooser dialog with files&folders mode
+2026-10-07T09:59:44.95802Z,json2md,0.1.0,0,0,https://github.com/sformisano/json2md,Validate JSON with JSON Schema and render it as Markdown
+2026-10-07T09:59:47.028397Z,json2md-cli,0.1.0,0,0,https://github.com/sformisano/json2md,Render validated JSON as Markdown from files
+2026-10-07T10:06:35.949562Z,saccade-geo,0.2.8,0,0,https://github.com/Tavrin/saccade,Native multichannel raster and tile-set comparison for Saccade
+2026-10-07T10:10:31.646258Z,wasm-dbms-sql,0.10.0,0,0,https://github.com/veeso/wasm-dbms,"SQL front-end (parser, planner, executor) for the wasm-dbms DBMS engine"
+2026-10-07T10:19:02.291773Z,traceprism,0.1.0-preview.1,0,0,https://github.com/manabeai/algo-vis,Record typed algorithm state for the TracePrism local visualizer
