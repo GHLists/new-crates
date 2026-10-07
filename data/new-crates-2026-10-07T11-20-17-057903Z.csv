@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T10:20:25.595656Z,replane,0.1.0,0,0,https://github.com/replane-dev/replane-rust,Rust SDK for Replane - dynamic configuration with real-time updates
+2026-10-07T10:26:47.813267Z,sigmadock-core,0.1.2,0,0,https://github.com/SigmaUno/sigma-dock,Domain model and local IPC for SigmaDock agent workspaces
+2026-10-07T10:26:48.366757Z,sigmadock-ports,0.1.2,0,0,https://github.com/SigmaUno/sigma-dock,Local development port leases for SigmaDock workers
+2026-10-07T10:26:48.899484Z,sigmadock-terminal,0.1.2,0,0,https://github.com/SigmaUno/sigma-dock,Alacritty-backed GPUI terminal with live appearance settings for SigmaDock
+2026-10-07T10:26:49.395326Z,sigmadock-agents,0.1.2,0,0,https://github.com/SigmaUno/sigma-dock,CLI harness adapters and MCP configuration for SigmaDock
+2026-10-07T10:26:49.81184Z,sigmadock-forge,0.1.2,0,0,https://github.com/SigmaUno/sigma-dock,GitHub and Forgejo facts and feedback for SigmaDock
+2026-10-07T10:32:37.805355Z,caretline,0.1.0,0,0,https://github.com/brancusi/thought-control,"A replayable, drivable text-editing engine: Helix's editing model in a pure Elm architecture. The whole editor is one serializable state; every input is a message."
+2026-10-07T10:35:01.581689Z,sigmadock-cli,0.1.2,0,0,https://github.com/SigmaUno/sigma-dock,Command-line client for the SigmaDock local daemon
+2026-10-07T10:35:10.359759Z,gpu-handle-types,0.1.0,0,0,https://github.com/AdrianEddy/wgpu-interop,"Typed, owned native GPU resource handles (Vulkan, D3D11/12, Metal, OpenGL, CUDA, OpenCL, DMA-BUF, IOSurface, AHardwareBuffer, WebGPU, ...), cross-API sync points and video pixel formats, for passing…"
+2026-10-07T10:35:11.429492Z,mini-cuda,0.1.0,0,0,https://github.com/AdrianEddy/wgpu-interop,"Minimal hand-written CUDA driver, runtime and NVRTC bindings, loaded at run time — no CUDA Toolkit needed to build, and a driver-only install is enough to run."
+2026-10-07T10:35:13.509407Z,mini-nvcodec,0.1.0,0,0,https://github.com/AdrianEddy/wgpu-interop,"Minimal hand-written NVDEC (nvcuvid) and NVENC (nvEncodeAPI) bindings for NVIDIA Video Codec SDK 13.1, loaded at run time — no SDK needed to build."
+2026-10-07T10:36:40.271946Z,dog-queue,0.2.0,0,0,https://github.com/Jitpomi/dogrs,"Tenant-scoped jobs with durable ledgers, lease-based processing, and broker integrations"
+2026-10-07T10:38:17.111155Z,dog-transport,0.2.0,0,0,https://github.com/Jitpomi/dogrs,"HTTP, gRPC, CLI and Iroh transports for DogRS"
+2026-10-07T10:43:03.780612Z,balikobot,0.1.0,0,0,https://github.com/M1chlCZ/balikobot-rs,"A Rust client for the Balikobot shipping API v2: packages, labels, tracking, pickups, and carrier capabilities."
+2026-10-07T10:45:01.415327Z,sigmadock-git,0.1.2,0,0,https://github.com/SigmaUno/sigma-dock,Safe isolated git worktrees for SigmaDock workers
+2026-10-07T10:45:27.667267Z,hyprcwd,0.4.0,0,0,https://github.com/JonnieCache/hyprcwd-rs,Outputs the working directory of the currently active window in the hyprland window manager.
+2026-10-07T10:46:14.966233Z,rondorust,0.1.0,0,0,https://github.com/clone1018/rondorust,"Native Rust rondocode synthesis and pattern rendering, with Bevy audio assets"
+2026-10-07T10:49:00.668947Z,rightkit-models,0.1.0,0,0,https://github.com/bogusyogi/claude,"Shared local-model manifest and installer for Right Suite apps: revisions and quantizations, resumable verified downloads, archive extraction, atomic activation, rollback, and hardware fit."
+2026-10-07T10:51:18.630916Z,material-iced,0.1.1,0,0,https://git.nuros.org/iced_material/iced_material,Material Design 3 widgets and theming for Iced
+2026-10-07T10:52:16.286166Z,otf-pixels-compress,0.1.0,0,0,https://github.com/Open-Tech-Foundation/Pixels,Compression and checksum primitives for otf-pixels codecs.
+2026-10-07T10:52:21.356405Z,rightkit-speech-client,0.1.0,0,0,https://github.com/bogusyogi/claude,"Client and contract for the Orthic Labs shared speech service (one resident engine per machine), built on rightkit-service. Wire-compatible with HeardRight's v1 host."
+2026-10-07T10:52:22.850219Z,otf-pixels-core,0.1.0,0,0,https://github.com/Open-Tech-Foundation/Pixels,"Core engine for otf-pixels: op graph, descriptors, tiles, codec traits, evaluator."
+2026-10-07T10:52:30.584432Z,otf-pixels-codec-avif,0.1.0,0,0,https://github.com/Open-Tech-Foundation/Pixels,"AVIF codec for otf-pixels, implemented from scratch."
+2026-10-07T10:52:36.114662Z,otf-pixels-codec-gif,0.1.0,0,0,https://github.com/Open-Tech-Foundation/Pixels,"GIF codec for otf-pixels, implemented from scratch."
+2026-10-07T10:52:42.127258Z,otf-pixels-codec-jpeg,0.1.0,0,0,https://github.com/Open-Tech-Foundation/Pixels,"Baseline JPEG codec for otf-pixels, implemented from scratch."
+2026-10-07T10:54:55.235048Z,sigmadock-mcp,0.1.2,0,0,https://github.com/SigmaUno/sigma-dock,Project-scoped local MCP tools for SigmaDock
+2026-10-07T10:55:37.954309Z,jinshu,0.1.0,0,0,https://github.com/dualys/jinshu,Merkle-backed storage engine and Noun graph database on NVMe
+2026-10-07T11:00:41.367722Z,ridl-descriptor,0.6.0,0,0,https://github.com/driftsys/ridl,"The catalog descriptor an engine reads: schema, generated accessors, verifier"
+2026-10-07T11:02:21.672254Z,otf-pixels-codec-png,0.1.0,0,0,https://github.com/Open-Tech-Foundation/Pixels,"PNG codec for otf-pixels, implemented from scratch including DEFLATE."
+2026-10-07T11:04:59.562447Z,sigmadock-pty,0.1.2,0,0,https://github.com/SigmaUno/sigma-dock,Persistent local PTY sessions and replay for SigmaDock
+2026-10-07T11:12:22.475687Z,otf-pixels-codec-raw,0.1.0,0,0,https://github.com/Open-Tech-Foundation/Pixels,Raw (uncompressed) pixel codec for otf-pixels.
+2026-10-07T11:14:57.707487Z,sigmadock-store,0.1.2,0,0,https://github.com/SigmaUno/sigma-dock,SQLite metadata and planning notes for SigmaDock
+2026-10-07T11:16:53.613206Z,banana_img,0.1.0,0,0,https://github.com/ryanellis42675/banana-img,Official client SDK wrapper and metadata for Banana Img (https://banana-img.com)
+2026-10-07T11:17:03.454397Z,libscsi,0.0.1,0,0,https://github.com/Chacka-Lab/libscsi,Cross-platform SCSI intermediate layer.
+2026-10-07T11:19:49.050091Z,arhanpassant,0.13.0,0,0,https://github.com/arhancanli/arhanpassant,"A UCI chess engine and chess library: magic-bitboard move generation, NNUE evaluation, and a self-improvement loop that keeps making it stronger."
