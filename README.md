@@ -8,28 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 00:19 UTC
+## Latest list — 2026-10-07 01:18 UTC
 
-New crates published between 2026-10-06 23:18 UTC and 2026-10-07 00:19 UTC.
+New crates published between 2026-10-07 00:19 UTC and 2026-10-07 01:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-07T00-19-20-687794Z.csv)
+[Full CSV](data/new-crates-2026-10-07T01-18-35-305103Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-06 23:20:35 | [jackdaw_scene_types](https://crates.io/crates/jackdaw_scene_types) | 0.19.0-rc.0 | 0 | Internal crate for the jackdaw editor |
-| 2026-10-06 23:30:59 | [jackdaw_select](https://crates.io/crates/jackdaw_select) | 0.19.0-rc.0 | 0 | Engine-agnostic half-edge selection traversal for the jackdaw editor |
-| 2026-10-06 23:41:12 | [jackdaw_uv](https://crates.io/crates/jackdaw_uv) | 0.19.0-rc.0 | 0 | Engine-agnostic UV projection math for the jackdaw editor |
-| 2026-10-06 23:42:04 | [ikigai-markdown](https://crates.io/crates/ikigai-markdown) | 0.1.0 | 0 | Markdown as a graph for ikigai: urn:markdown:lift — one generic structural lift… |
-| 2026-10-06 23:49:40 | [jackdaw_animation_runtime](https://crates.io/crates/jackdaw_animation_runtime) | 0.19.0-rc.0 | 0 | Binds authored animation sets to their glTF skeletons and plays the state they… |
-| 2026-10-06 23:51:24 | [taconite-sapiens2](https://crates.io/crates/taconite-sapiens2) | 0.1.0 | 0 | Sapiens2-Pose (308 whole-body keypoints) on an AMD XDNA NPU: IRON kernels repla… |
-| 2026-10-06 23:53:39 | [cargo-debuggable](https://crates.io/crates/cargo-debuggable) | 0.1.0 | 0 | Sets up GDB, LLDB and VS Code (CodeLLDB) for the `debuggable` crate, and checks… |
-| 2026-10-06 23:53:40 | [debuggable-derive](https://crates.io/crates/debuggable-derive) | 0.1.0 | 0 | Implementation detail of the `debuggable` crate; use that crate instead |
-| 2026-10-06 23:53:42 | [debuggable](https://crates.io/crates/debuggable) | 0.1.0 | 0 | Derive macro that makes your types readable in GDB, LLDB and VS Code (CodeLLDB) |
-| 2026-10-07 00:00:12 | [jackdaw_camera_rig](https://crates.io/crates/jackdaw_camera_rig) | 0.19.0-rc.0 | 0 | Authorable third/first-person camera-rig components + runtime driver for Jackda… |
-| 2026-10-07 00:06:24 | [hoppy](https://crates.io/crates/hoppy) | 0.1.0 | 0 | A friendlier ifconfig, netstat, and ping. See which adapter is on which network… |
-| 2026-10-07 00:08:40 | [invoice-kit](https://crates.io/crates/invoice-kit) | 0.1.0 | 0 | Accounts-receivable invoicing for an SME ledger — three orthogonal document sta… |
-| 2026-10-07 00:10:36 | [jackdaw_csg](https://crates.io/crates/jackdaw_csg) | 0.19.0-rc.0 | 0 | Mesh-CSG glue between jackdaw brushes and the manifold3d kernel |
-| 2026-10-07 00:12:09 | [crc-turbo](https://crates.io/crates/crc-turbo) | 0.0.0 | 0 | Placeholder, do not depend on this version: name reserved for a maintained fork… |
+| 2026-10-07 00:21:15 | [jackdaw_multiplayer](https://crates.io/crates/jackdaw_multiplayer) | 0.19.0-rc.0 | 0 | Backend-agnostic networking proxy components for Jackdaw scenes. Authored in th… |
+| 2026-10-07 00:22:26 | [vlmcsd-protocol](https://crates.io/crates/vlmcsd-protocol) | 0.1.0 | 0 | no_std KMS V4/V5/V6 codecs and crypto with alloc |
+| 2026-10-07 00:22:27 | [vlmcsd](https://crates.io/crates/vlmcsd) | 0.1.0 | 0 | Async and blocking KMS V4/V5/V6 server |
+| 2026-10-07 00:22:30 | [vlmcs](https://crates.io/crates/vlmcs) | 0.1.0 | 0 | Async and blocking KMS V4/V5/V6 clients |
+| 2026-10-07 00:23:13 | [zenoh-gateway](https://crates.io/crates/zenoh-gateway) | 0.5.0 | 0 | View and drive a zenoh system from a browser over WebRTC (data channels, H.264… |
+| 2026-10-07 00:23:23 | [zit](https://crates.io/crates/zit) | 0.1.1 | 0 | A git extension for many developers and coding agents changing one repository a… |
+| 2026-10-07 00:26:06 | [zenoh-gateway-cli](https://crates.io/crates/zenoh-gateway-cli) | 0.5.0 | 0 | The zenoh-gateway command: zenoh-gateway with the ROS 2 / dimos codecs |
+| 2026-10-07 00:28:05 | [zenoh-gateway-relay](https://crates.io/crates/zenoh-gateway-relay) | 0.2.0 | 0 | Fan one zenoh-gateway backend out to many browsers: the backend dials out over… |
+| 2026-10-07 00:29:31 | [jackdaw_prefab](https://crates.io/crates/jackdaw_prefab) | 0.19.0-rc.0 | 0 | Prefab instancing for jackdaw scenes: the IsA vocabulary and its resolver |
+| 2026-10-07 00:37:47 | [ms-compress-ruzstd](https://crates.io/crates/ms-compress-ruzstd) | 0.9.1 | 0 | Patched ruzstd with safe decoder storage, internal XXH64, and retained-output d… |
+| 2026-10-07 00:40:02 | [jackdaw_schema](https://crates.io/crates/jackdaw_schema) | 0.19.0-rc.0 | 0 | Project type schema wire format shared by the Jackdaw editor and the games it b… |
+| 2026-10-07 00:40:50 | [brain-edge](https://crates.io/crates/brain-edge) | 0.0.1 | 0 | The HTTP/JSON edge for the Brain memory database — a self-hostable binary and a… |
+| 2026-10-07 00:46:11 | [reinhardt-query-sqlx](https://crates.io/crates/reinhardt-query-sqlx) | 0.4.0-alpha.20 | 0 | Owned SQLx arguments for reinhardt-query statements |
+| 2026-10-07 00:50:26 | [jackdaw_surface](https://crates.io/crates/jackdaw_surface) | 0.19.0-rc.0 | 0 | Internal crate for the jackdaw editor |
+| 2026-10-07 00:59:44 | [caddy-msi](https://crates.io/crates/caddy-msi) | 0.10.0 | 0 | Read/write Windows Installer (MSI) files with hardened schema metadata parsing |
+| 2026-10-07 01:01:09 | [jackdaw_multiplayer_lightyear](https://crates.io/crates/jackdaw_multiplayer_lightyear) | 0.19.0-rc.0 | 0 | Default lightyear backend for Jackdaw networking: translates proxy components i… |
+| 2026-10-07 01:09:43 | [jackdaw_project_build](https://crates.io/crates/jackdaw_project_build) | 0.19.0-rc.0 | 0 | Editor-independent project build pipeline for the Jackdaw 3D level editor: game… |
+| 2026-10-07 01:16:39 | [playgraph-core](https://crates.io/crates/playgraph-core) | 0.1.0 | 0 | Data model and code generation for rust-playgraph |
+| 2026-10-07 01:16:46 | [playgraph-backend](https://crates.io/crates/playgraph-backend) | 0.1.0 | 0 | Compile-and-run service for rust-playgraph |
+| 2026-10-07 01:17:01 | [rust-playgraph](https://crates.io/crates/rust-playgraph) | 0.1.0 | 0 | Visual playground for composing directed graphs in the browser |
+| 2026-10-07 01:18:23 | [dnsproxy-rs](https://crates.io/crates/dnsproxy-rs) | 0.1.0 | 0 | A high-performance, resilient DNS proxy server supporting DNS-over-HTTPS (DoH),… |
 
 ## Data source
 

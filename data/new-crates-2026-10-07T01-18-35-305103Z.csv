@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T00:21:15.315608Z,jackdaw_multiplayer,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Backend-agnostic networking proxy components for Jackdaw scenes. Authored in the editor; translated to a concrete backend (e.g. lightyear) at runtime.
+2026-10-07T00:22:26.018961Z,vlmcsd-protocol,0.1.0,0,0,https://github.com/CaddyGlow/vlmcsd-rs,no_std KMS V4/V5/V6 codecs and crypto with alloc
+2026-10-07T00:22:27.930942Z,vlmcsd,0.1.0,0,0,https://github.com/CaddyGlow/vlmcsd-rs,Async and blocking KMS V4/V5/V6 server
+2026-10-07T00:22:30.103892Z,vlmcs,0.1.0,0,0,https://github.com/CaddyGlow/vlmcsd-rs,Async and blocking KMS V4/V5/V6 clients
+2026-10-07T00:23:13.833398Z,zenoh-gateway,0.5.0,0,0,https://github.com/jeff-hykin/zenoh-gateway,"View and drive a zenoh system from a browser over WebRTC (data channels, H.264 video, bandwidth allocation, deadmen): an embeddable server with pluggable codecs"
+2026-10-07T00:23:23.715635Z,zit,0.1.1,0,0,https://github.com/autohandai/getzit,"A git extension for many developers and coding agents changing one repository at once: copy-on-write workspaces, changes checked against what they read and wrote, and every change's reason kept."
+2026-10-07T00:26:06.215311Z,zenoh-gateway-cli,0.5.0,0,0,https://github.com/jeff-hykin/zenoh-gateway-cli,The zenoh-gateway command: zenoh-gateway with the ROS 2 / dimos codecs
+2026-10-07T00:28:05.896051Z,zenoh-gateway-relay,0.2.0,0,0,https://github.com/jeff-hykin/zenoh-gateway-relay,"Fan one zenoh-gateway backend out to many browsers: the backend dials out over zenoh, sends each camera once at best quality, and the relay re-encodes per viewer"
+2026-10-07T00:29:31.62819Z,jackdaw_prefab,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Prefab instancing for jackdaw scenes: the IsA vocabulary and its resolver
+2026-10-07T00:37:47.73597Z,ms-compress-ruzstd,0.9.1,0,0,https://github.com/CaddyGlow/zstd-rs,"Patched ruzstd with safe decoder storage, internal XXH64, and retained-output decoding"
+2026-10-07T00:40:02.080588Z,jackdaw_schema,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Project type schema wire format shared by the Jackdaw editor and the games it builds
+2026-10-07T00:40:50.211826Z,brain-edge,0.0.1,0,0,https://github.com/arc-labs-ai/brain-edge,The HTTP/JSON edge for the Brain memory database — a self-hostable binary and an embeddable library that speaks the same API the Arc cloud hosts.
+2026-10-07T00:46:11.805598Z,reinhardt-query-sqlx,0.4.0-alpha.20,0,0,https://github.com/kent8192/reinhardt-web,Owned SQLx arguments for reinhardt-query statements
+2026-10-07T00:50:26.486366Z,jackdaw_surface,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Internal crate for the jackdaw editor
+2026-10-07T00:59:44.85756Z,caddy-msi,0.10.0,0,0,https://github.com/CaddyGlow/rust-msi,Read/write Windows Installer (MSI) files with hardened schema metadata parsing
+2026-10-07T01:01:09.969187Z,jackdaw_multiplayer_lightyear,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Default lightyear backend for Jackdaw networking: translates proxy components into real lightyear replication at runtime.
+2026-10-07T01:09:43.037666Z,jackdaw_project_build,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,"Editor-independent project build pipeline for the Jackdaw 3D level editor: game binaries with schema extraction, plus SDK-linked extension dylibs"
+2026-10-07T01:16:39.684526Z,playgraph-core,0.1.0,0,0,https://github.com/Eolu/rust-playgraph,Data model and code generation for rust-playgraph
+2026-10-07T01:16:46.95586Z,playgraph-backend,0.1.0,0,0,https://github.com/Eolu/rust-playgraph,Compile-and-run service for rust-playgraph
+2026-10-07T01:17:01.15553Z,rust-playgraph,0.1.0,0,0,https://github.com/Eolu/rust-playgraph,Visual playground for composing directed graphs in the browser
+2026-10-07T01:18:23.54925Z,dnsproxy-rs,0.1.0,0,0,https://github.com/fokx/dnsproxy-rs,"A high-performance, resilient DNS proxy server supporting DNS-over-HTTPS (DoH), parallel querying, connection pooling, SOCKS5 proxies, caching, and IPv6 filtering."
