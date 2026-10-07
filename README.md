@@ -8,44 +8,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 20:21 UTC
+## Latest list — 2026-10-07 21:18 UTC
 
-New crates published between 2026-10-07 19:19 UTC and 2026-10-07 20:21 UTC.
+New crates published between 2026-10-07 20:21 UTC and 2026-10-07 21:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-07T20-21-16-096508Z.csv)
+[Full CSV](data/new-crates-2026-10-07T21-18-39-029886Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-07 19:22:36 | [fhetensor](https://crates.io/crates/fhetensor) | 0.1.0 | 0 | fhetensor library for the fhetensor project. |
-| 2026-10-07 19:25:07 | [disrupt-bigfile-filelists-wd1](https://crates.io/crates/disrupt-bigfile-filelists-wd1) | 0.1.0 | 0 | Watch Dogs 1 filelist package for disrupt-bigfile |
-| 2026-10-07 19:25:10 | [disrupt-bigfile-filelists-wd2](https://crates.io/crates/disrupt-bigfile-filelists-wd2) | 0.1.0 | 0 | Watch Dogs 2 filelist package for disrupt-bigfile |
-| 2026-10-07 19:25:12 | [disrupt-bigfile-filelists-wdl](https://crates.io/crates/disrupt-bigfile-filelists-wdl) | 0.1.0 | 0 | Watch Dogs: Legion filelist package for disrupt-bigfile |
-| 2026-10-07 19:25:17 | [disrupt-bigfile](https://crates.io/crates/disrupt-bigfile) | 1.0.0 | 0 | Unofficial tool for manipulating Ubisoft BigFile archives |
-| 2026-10-07 19:27:19 | [smelly](https://crates.io/crates/smelly) | 0.1.0 | 0 | Performant Kalman filter implementation and its variants, like Extended Kalman… |
-| 2026-10-07 19:28:44 | [fhewasm](https://crates.io/crates/fhewasm) | 0.1.0 | 0 | fhewasm library for the fhewasm project. |
-| 2026-10-07 19:34:32 | [arcbox-storage](https://crates.io/crates/arcbox-storage) | 0.9.0 | 0 | Persistent identity and initialization authority for ArcBox runtime volumes |
-| 2026-10-07 19:38:25 | [degenbot-substrate](https://crates.io/crates/degenbot-substrate) | 0.6.0-alpha.14 | 0 | The strategy substrate: BotState (the live state owner), the planning workspace… |
-| 2026-10-07 19:38:33 | [degenbot-batch-executor](https://crates.io/crates/degenbot-batch-executor) | 0.6.0-alpha.14 | 0 | Core batch executor: the per-batch dispatch choreography — assembly, payload me… |
-| 2026-10-07 19:39:53 | [beliefstate](https://crates.io/crates/beliefstate) | 0.1.0 | 0 | belief library for the reasonir project. |
-| 2026-10-07 19:41:59 | [normfs-time](https://crates.io/crates/normfs-time) | 0.4.0 | 0 | The monotonic, wall-clock and process-start stamps NormFS and station records c… |
-| 2026-10-07 19:42:02 | [normfs-fs](https://crates.io/crates/normfs-fs) | 0.4.0 | 0 | Filesystem layer for NormFS: proved protocol planner and bounded thread-pool ex… |
-| 2026-10-07 19:51:02 | [reasonir](https://crates.io/crates/reasonir) | 0.1.0 | 0 | reasonir library for the reasonir project. |
-| 2026-10-07 20:02:11 | [contradict](https://crates.io/crates/contradict) | 0.1.0 | 0 | contradict library for the reason-runtime project. |
-| 2026-10-07 20:03:57 | [scafra-foundation](https://crates.io/crates/scafra-foundation) | 0.1.0-snapshot.1 | 0 | Shared logging, diagnostics, and cross-cutting foundations for Scafra |
-| 2026-10-07 20:04:01 | [scafra-core](https://crates.io/crates/scafra-core) | 0.1.0-snapshot.1 | 0 | Framework-neutral lifecycle and application abstractions for Scafra |
-| 2026-10-07 20:04:10 | [scafra-actuator](https://crates.io/crates/scafra-actuator) | 0.1.0-snapshot.1 | 0 | Spring Boot-style operational endpoints for Scafra |
-| 2026-10-07 20:04:16 | [scafra-scheduler](https://crates.io/crates/scafra-scheduler) | 0.1.0-snapshot.1 | 0 | Configurable scheduled tasks for Scafra applications |
-| 2026-10-07 20:04:31 | [scafra-security](https://crates.io/crates/scafra-security) | 0.1.0-snapshot.1 | 0 | Configurable HTTP security defaults for Scafra applications |
-| 2026-10-07 20:06:59 | [tinywasm-c-api](https://crates.io/crates/tinywasm-c-api) | 0.1.0 | 0 | placeholder package to set up trusted publishing |
-| 2026-10-07 20:07:10 | [liwan-api](https://crates.io/crates/liwan-api) | 0.1.0 | 0 | placeholder package to set up trusted publishing |
-| 2026-10-07 20:08:20 | [logicbridge](https://crates.io/crates/logicbridge) | 0.1.0 | 0 | logicbridge library for the reason-runtime project. |
-| 2026-10-07 20:08:59 | [vtube-trackers](https://crates.io/crates/vtube-trackers) | 1.0.1 | 0 | Collection of ML models useful for developing VTuber trackers |
-| 2026-10-07 20:19:21 | [wsr-types](https://crates.io/crates/wsr-types) | 0.0.3 | 0 | Shared types, traits, and error definitions for wsr |
-| 2026-10-07 20:19:25 | [wsr-tracing](https://crates.io/crates/wsr-tracing) | 0.0.3 | 0 | Structured logging and output formatting for wsr (human + GHA annotations) |
-| 2026-10-07 20:19:28 | [neuralpred](https://crates.io/crates/neuralpred) | 0.1.0 | 0 | neuralpred library for the reason-runtime project. |
-| 2026-10-07 20:19:30 | [wsr-cli](https://crates.io/crates/wsr-cli) | 0.0.3 | 0 | Command-line interface types and argument definitions for wsr (clap v4) |
-| 2026-10-07 20:19:33 | [wsr-expr](https://crates.io/crates/wsr-expr) | 0.0.3 | 0 | Provider-agnostic ${{ }} expression evaluator for wsr workflow definitions |
-| 2026-10-07 20:19:38 | [wsr-fs](https://crates.io/crates/wsr-fs) | 0.0.3 | 0 | Filesystem utilities, VFS abstraction, and atomic write helpers for wsr |
+| 2026-10-07 20:21:21 | [crush-lang-js](https://crates.io/crates/crush-lang-js) | 0.3.9 | 0 | JavaScript/TypeScript language support for Crush — dual-backend JS/TS frontend… |
+| 2026-10-07 20:21:22 | [crush-lang-python](https://crates.io/crates/crush-lang-python) | 0.3.9 | 0 | Python language support for Crush — parser + CAST lowering backed by rustpython… |
+| 2026-10-07 20:21:54 | [scafra-macros](https://crates.io/crates/scafra-macros) | 0.1.0-snapshot.1 | 0 | Procedural macros for the Scafra web framework |
+| 2026-10-07 20:29:02 | [ssh-sentinel-agent](https://crates.io/crates/ssh-sentinel-agent) | 0.7.4 | 0 | SSH Sentinel log shipper. Tails the auth log and pushes to central. |
+| 2026-10-07 20:29:17 | [ssh-sentinel](https://crates.io/crates/ssh-sentinel) | 0.7.4 | 0 | SSH Sentinel central. Serves the SSH attack intel API plus UI. |
+| 2026-10-07 20:30:37 | [reason-runtime](https://crates.io/crates/reason-runtime) | 0.1.0 | 0 | reason-runtime library for the reason-runtime project. |
+| 2026-10-07 20:33:27 | [agent-harness-adapter-core](https://crates.io/crates/agent-harness-adapter-core) | 0.1.0 | 0 | Plug a CLI into LLM agent harnesses (Claude Code, Codex, Gemini CLI, Copilot, C… |
+| 2026-10-07 20:33:29 | [agent-harness-adapter](https://crates.io/crates/agent-harness-adapter) | 0.1.0 | 0 | agent-harness-adapter: install a tool's integration into LLM agent harnesses (C… |
+| 2026-10-07 20:38:44 | [alibi-seaorm-macros](https://crates.io/crates/alibi-seaorm-macros) | 0.1.1 | 0 | SeaORM proc macros for Alibi |
+| 2026-10-07 20:38:45 | [alibi-sqlx-macros](https://crates.io/crates/alibi-sqlx-macros) | 0.1.1 | 0 | SQLx proc macros for Alibi |
+| 2026-10-07 20:38:47 | [alibi-seaorm](https://crates.io/crates/alibi-seaorm) | 0.1.1 | 0 | SeaORM integration for Alibi |
+| 2026-10-07 20:38:48 | [alibi-sqlx](https://crates.io/crates/alibi-sqlx) | 0.1.1 | 0 | SQLx integration for Alibi |
+| 2026-10-07 20:38:50 | [alibi](https://crates.io/crates/alibi) | 0.1.1 | 0 | Authentication for Rust, compatible with Better Auth’s TypeScript client |
+| 2026-10-07 20:41:46 | [reasonbench](https://crates.io/crates/reasonbench) | 0.1.0 | 0 | reasonbench library for the reason-runtime project. |
+| 2026-10-07 20:45:38 | [wsr-client](https://crates.io/crates/wsr-client) | 0.0.3 | 0 | HTTP client for fetching actions and Wasm components, with SHA pinning |
+| 2026-10-07 20:45:43 | [wsr-cache](https://crates.io/crates/wsr-cache) | 0.0.3 | 0 | Content-addressed Wasm module cache keyed by SHA-256 digest |
+| 2026-10-07 20:47:28 | [autumn-plugin-meta-pixel](https://crates.io/crates/autumn-plugin-meta-pixel) | 0.1.0 | 0 | Meta Pixel plugin for autumn-web: consent-gated, CSP-safe pixel loader served a… |
+| 2026-10-07 20:47:55 | [reasonflow](https://crates.io/crates/reasonflow) | 0.1.0 | 0 | reasonflow library for the reason-runtime project. |
+| 2026-10-07 20:49:53 | [wsr-shell](https://crates.io/crates/wsr-shell) | 0.0.3 | 0 | Shell step executor for run: directives (bash, sh, pwsh) within the wsr sandbox |
+| 2026-10-07 20:51:04 | [scafra-config](https://crates.io/crates/scafra-config) | 0.1.0-snapshot.1 | 0 | Typed configuration primitives for Scafra applications |
+| 2026-10-07 20:51:09 | [scafra-web](https://crates.io/crates/scafra-web) | 0.1.0-snapshot.1 | 0 | Axum and Tokio integration for Scafra |
+| 2026-10-07 20:51:19 | [scafra-build](https://crates.io/crates/scafra-build) | 0.1.0-snapshot.1 | 0 | Compile-time source discovery support for Scafra applications |
+| 2026-10-07 20:52:34 | [ecsterm](https://crates.io/crates/ecsterm) | 0.1.1 | 0 | TUI to browse ECS clusters, services, containers and tasks and run the matching… |
+| 2026-10-07 20:53:37 | [rightkit-qts-ggml-sys](https://crates.io/crates/rightkit-qts-ggml-sys) | 0.1.0 | 0 | Low-level FFI bindings to ggml (CPU, Metal, Vulkan, BLAS) for rightkit-qts, ven… |
+| 2026-10-07 20:54:26 | [autumn-plugin-leptos](https://crates.io/crates/autumn-plugin-leptos) | 0.1.0 | 0 | Autumn plugin: Leptos (wasm) islands in Maud + htmx pages. |
+| 2026-10-07 20:56:23 | [rightkit-qts-ggml](https://crates.io/crates/rightkit-qts-ggml) | 0.1.0 | 0 | Thin safe wrappers over rightkit-qts-ggml-sys for rightkit-qts, vendored from y… |
+| 2026-10-07 20:57:14 | [wsr-gha](https://crates.io/crates/wsr-gha) | 0.0.3 | 0 | GitHub Actions provider adapter: YAML parser, context builder, and trigger mapp… |
+| 2026-10-07 20:58:02 | [rightkit-qts](https://crates.io/crates/rightkit-qts) | 0.1.1 | 0 | Qwen3 TTS inference (GGUF + GGML), vendored from yet-another-ai/qts v0.2.0 for… |
+| 2026-10-07 20:59:04 | [reasontest](https://crates.io/crates/reasontest) | 0.1.0 | 0 | reasontest library for the reason-runtime project. |
+| 2026-10-07 21:00:08 | [review-queue](https://crates.io/crates/review-queue) | 0.1.0 | 0 | Track reviews across Phabricator, GitHub, and other sources; check them out loc… |
+| 2026-10-07 21:02:37 | [migratr-format](https://crates.io/crates/migratr-format) | 0.1.0 | 0 | The migratr migration file format: types, parser and checksum. |
+| 2026-10-07 21:02:39 | [migratr-macros](https://crates.io/crates/migratr-macros) | 0.1.0 | 0 | The embed! macro for migratr: validates and embeds a migrations directory at co… |
+| 2026-10-07 21:02:41 | [migratr](https://crates.io/crates/migratr) | 0.1.0 | 0 | Schema migrations for SQLite: JSON migration files, safe table rebuilds, revers… |
+| 2026-10-07 21:02:43 | [migratr-cli](https://crates.io/crates/migratr-cli) | 0.1.0 | 0 | The migratr command line: new, up, down, status, plan and restore for SQLite sc… |
+| 2026-10-07 21:04:45 | [garage49-tui-iocraft](https://crates.io/crates/garage49-tui-iocraft) | 0.1.0 | 0 | garage49 TUI design system for Rust: OpenCode's look and feel as iocraft compon… |
+| 2026-10-07 21:10:13 | [grounder](https://crates.io/crates/grounder) | 0.1.0 | 0 | grounder library for the grounder project. |
+| 2026-10-07 21:13:41 | [alink](https://crates.io/crates/alink) | 0.1.0 | 0 | Encrypted, asynchronous agent-to-agent messaging over iroh |
 
 ## Data source
 
