@@ -1,0 +1,15 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-06T23:20:35.230273Z,jackdaw_scene_types,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Internal crate for the jackdaw editor
+2026-10-06T23:30:59.867809Z,jackdaw_select,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Engine-agnostic half-edge selection traversal for the jackdaw editor
+2026-10-06T23:41:12.016917Z,jackdaw_uv,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Engine-agnostic UV projection math for the jackdaw editor
+2026-10-06T23:42:04.773072Z,ikigai-markdown,0.1.0,0,0,https://github.com/ikigai-rs/ikigai-markdown,"Markdown as a graph for ikigai: urn:markdown:lift — one generic structural lift (frontmatter, sections, lists, links, code) plus a mapping resource (a lift profile and SPARQL CONSTRUCTs) that turns t…"
+2026-10-06T23:49:40.625036Z,jackdaw_animation_runtime,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Binds authored animation sets to their glTF skeletons and plays the state they ask for
+2026-10-06T23:51:24.423934Z,taconite-sapiens2,0.1.0,0,0,https://github.com/Brishen/taconite,Sapiens2-Pose (308 whole-body keypoints) on an AMD XDNA NPU: IRON kernels replayed through XRT or directly through the amdxdna driver
+2026-10-06T23:53:39.696711Z,cargo-debuggable,0.1.0,0,0,https://github.com/tommantonclery/debuggable,"Sets up GDB, LLDB and VS Code (CodeLLDB) for the `debuggable` crate, and checks binaries"
+2026-10-06T23:53:40.4379Z,debuggable-derive,0.1.0,0,0,https://github.com/tommantonclery/debuggable,Implementation detail of the `debuggable` crate; use that crate instead
+2026-10-06T23:53:42.169725Z,debuggable,0.1.0,0,0,https://github.com/tommantonclery/debuggable,"Derive macro that makes your types readable in GDB, LLDB and VS Code (CodeLLDB)"
+2026-10-07T00:00:12.96867Z,jackdaw_camera_rig,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Authorable third/first-person camera-rig components + runtime driver for Jackdaw scenes.
+2026-10-07T00:06:24.365594Z,hoppy,0.1.0,0,0,https://github.com/rjcuff/hoppy,"A friendlier ifconfig, netstat, and ping. See which adapter is on which network, what's listening, and where your connection is broken."
+2026-10-07T00:08:40.16747Z,invoice-kit,0.1.0,0,0,https://github.com/WyattAu/invoice-kit,"Accounts-receivable invoicing for an SME ledger — three orthogonal document states, Peppol/EN 16931 arithmetic, and per-jurisdiction rounding policy"
+2026-10-07T00:10:36.840438Z,jackdaw_csg,0.19.0-rc.0,0,0,https://github.com/jbuehler23/jackdaw,Mesh-CSG glue between jackdaw brushes and the manifold3d kernel
+2026-10-07T00:12:09.581338Z,crc-turbo,0.0.0,0,0,https://github.com/scryer-media/crc-turbo,"Placeholder, do not depend on this version: name reserved for a maintained fork of crc-fast, publishing after 2026-10-20 (see awesomized/crc-fast-rust#62)"
