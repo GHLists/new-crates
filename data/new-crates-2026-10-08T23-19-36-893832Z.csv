@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T22:20:36.700896Z,poolster-core,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Language-neutral OpenAPI code generation primitives
+2026-10-08T22:20:43.632506Z,poolster-plugin-csharp,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Native C#/.NET SDK generator for Poolster
+2026-10-08T22:20:49.168828Z,poolster-plugin-dotnet,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Deprecated compatibility facade for Poolster's C# SDK generator
+2026-10-08T22:20:53.529966Z,poolster-plugin-elixir,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Native Elixir SDK generator for Poolster
+2026-10-08T22:20:58.340688Z,poolster-plugin-go,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Native Go SDK generator for Poolster
+2026-10-08T22:21:20.987327Z,playdash,0.1.0,0,0,https://github.com/phayes/playdash,Parse MPEG-DASH manifests and set them up for progressive streaming playback
+2026-10-08T22:22:59.952673Z,kosmonaut,0.0.1-rc1,0,0,https://codeberg.org/kosmonaut/kosmonaut,A modern NetworkManager TUI written in Rust
+2026-10-08T22:30:45.955483Z,poolster-plugin-java,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Native Java SDK generator for Poolster
+2026-10-08T22:40:03.688441Z,algorand-falcon,0.1.0,0,0,https://github.com/joe-p/algorand-falcon-rs,Rust bindings for deterministic Falcon-1024 post-quantum signatures
+2026-10-08T22:40:45.468278Z,poolster-plugin-php,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,PHP 8.2+ SDK generator for Poolster
+2026-10-08T22:45:22.043376Z,aphrody-n2b-types,0.7.0,0,0,https://github.com/aphrody-labs/bun,N2B shared types and the versioned JSON report schema.
+2026-10-08T22:45:23.672383Z,aphrody-n2b-registry,0.7.0,0,0,https://github.com/aphrody-labs/bun,"N2B data-driven Node-to-Bun migration rule registry, embedded TOML validated at first use."
+2026-10-08T22:45:25.384256Z,aphrody-n2b-core,0.7.0,0,0,https://github.com/aphrody-labs/bun,"N2B engine: rules, scanners, reports, audit, run orchestration, manifest handling, report card and llms.txt generation."
+2026-10-08T22:45:27.249735Z,aphrody-n2b,0.7.0,0,0,https://github.com/aphrody-labs/bun,Node.js to Bun migration analyzer and codemod (the n2b CLI).
+2026-10-08T22:46:16.535549Z,aphrody-oxc-bridge,0.2.0,0,0,https://github.com/aphrody-labs/bun,"In-process Oxc bridge: transform, minify, format, lint and analyze JS/TS, with a stable C ABI."
+2026-10-08T22:47:35.404576Z,runique_dsl,0.1.0,0,0,https://github.com/seb-alliot/runique,"Parser for the Runique model!{} and extend!{} DSL, shared by the derive_form macros and the runique CLI"
+2026-10-08T22:48:27.787659Z,textmate-lang,0.2.0,0,0,https://github.com/jamesgober/textmate-lang,TextMate grammar and semantic-token legend generation for editors without tree-sitter.
+2026-10-08T22:50:45.047948Z,poolster-plugin-postman,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Portable Postman Collection 2.1 generator for Poolster
+2026-10-08T22:54:31.628906Z,psychowl,0.1.0,0,0,https://github.com/seuros/psychowl,Natural language and script detection. It knows what language you speak.
+2026-10-08T22:55:23.309545Z,silicon-accounts-cli,0.3.0,0,0,https://github.com/teamofsilicons/silicon-accounts,"The `silicon-accounts` command line for Silicon Accounts: sign Carbons and Silicons in, manage accounts, Silicons and apps"
+2026-10-08T22:57:51.278769Z,kftray-telemetry,0.30.0,0,0,https://github.com/hcavarsan/kftray,Opt-in crash reporting shared by the kftray desktop app and kftui
+2026-10-08T22:59:21.091655Z,termdoc-read-code,0.2.0,0,0,https://github.com/marturojt/termdoc,Syntax highlighting for termdoc: source files and fenced code blocks
+2026-10-08T22:59:21.480641Z,termdoc-read-data,0.2.0,0,0,https://github.com/marturojt/termdoc,"Structured data readers for termdoc: JSON, YAML, TOML, XML and CSV"
+2026-10-08T22:59:58.358417Z,object-lang,0.2.0,0,0,https://github.com/jamesgober/object-lang,"Writes and reads object files and executables: ELF64 for x86-64 and AArch64 from a format-neutral model, with no linker or assembler involved."
+2026-10-08T23:00:47.059888Z,poolster-plugin-python,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Native Python SDK generator for Poolster
+2026-10-08T23:06:01.640061Z,isa-lang,0.2.0,0,0,https://github.com/jamesgober/isa-lang,"Instruction encoders, decoders, and assemblers for x86-64 and AArch64, generated from target descriptions."
+2026-10-08T23:10:47.994048Z,poolster-plugin-ruby,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Native Ruby SDK generator for Poolster
+2026-10-08T23:13:32.824395Z,hir-lang,0.2.0,0,0,https://github.com/jamesgober/hir-lang,"High-level IR for LexerSketch: the structured, typed-optional core every forged language lowers into."
+2026-10-08T23:13:54.695163Z,match-lang,0.2.0,0,0,https://github.com/jamesgober/match-lang,"Exhaustiveness and usefulness checking for pattern matching, generic over a language's constructors."
