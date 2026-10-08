@@ -1,0 +1,10 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T02:29:03.339404Z,textloom,0.1.0,0,0,https://github.com/Cameron-Lyons/textloom,"A reusable native rich-text editing core with optional egui, winit, and AccessKit adapters"
+2026-10-08T02:41:30.697331Z,autumn-plugin-markstream,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-markstream,"Autumn plugin: markstream (streaming Markdown) with Maud, htmx and SSE."
+2026-10-08T02:56:11.715825Z,silc-std,0.1.0,0,0,https://github.com/DevPlusBTC/sil,Standard library prelude for SIL language
+2026-10-08T03:07:18.996538Z,cctop-core,0.28.3,0,0,https://github.com/flolep2607/cctop,"Internal to cctop: sessions and their parsers, the cache, pricing, config, hooks, the shim, and the conversation model both faces share. No stable API; use the cctop binary."
+2026-10-08T03:07:21.436512Z,cctop-serve,0.28.3,0,0,https://github.com/flolep2607/cctop,Internal to cctop: the web server. No stable API; use the cctop binary.
+2026-10-08T03:07:22.430609Z,cctop-ui,0.28.3,0,0,https://github.com/flolep2607/cctop,Internal to cctop: the terminal dashboard. No stable API; use the cctop binary.
+2026-10-08T03:11:03.349474Z,knos-oidc-interface,0.3.14,0,0,https://github.com/drexthealpha/Knos,Read a GitHub Actions or GitLab CI OIDC token that the knos-oidc program verified on Solana. No dependencies.
+2026-10-08T03:13:24.26954Z,knos-pay-interface,0.3.14,0,0,https://github.com/drexthealpha/Knos,"Fund, top up, refund and read a Knos work order from another Solana program: ids, addresses, instruction builders, the Order reader."
+2026-10-08T03:17:12.637647Z,mil_machines,0.1.0,0,0,https://github.com/savageAZfck/mil_spec,"Non-neural state machines compiled to stateful MIL programs: Aho-Corasick automata, EWMA scorers, mutable memory banks. Silicon a regex can live on."
