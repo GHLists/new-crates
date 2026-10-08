@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T05:23:51.009021Z,fandhe-db-engine,0.2.0,0,0,https://github.com/Fandhe-AI/fandhe-db,"Local-first vector query database engine: search kernels, RLS-style tenant boundary, redb persistence"
+2026-10-08T05:23:53.229101Z,fandhe-db-wire-server,0.2.0,0,0,https://github.com/Fandhe-AI/fandhe-db,PostgreSQL wire protocol v3 compatible server for the fandhe-db engine
+2026-10-08T05:23:55.134984Z,dexily-core,0.3.5,0,0,https://github.com/HADO564/project-indexer,"The shared core of Project Indexer and dexily: projects, groups, trackers and their SQLite store"
+2026-10-08T05:23:57.979116Z,dexily,0.1.0,0,0,https://github.com/HADO564/project-indexer,Track your projects from the terminal: the command line for Project Indexer
+2026-10-08T05:24:09.516663Z,pigeonhole-cache,0.1.0,0,0,https://github.com/CodingAnarchy/pigeonhole,"Block and row caches with pinned, ref-counted handles for Pigeonhole."
+2026-10-08T05:27:14.192059Z,game_fs,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,"Game file access: std::fs on native targets, the launcher's file index on the web"
+2026-10-08T05:27:28.504939Z,na_mpeg2_decoder,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,Rust MPEG-1/2 video decoder
+2026-10-08T05:27:43.465965Z,wmv-decoder,0.2.0,0,0,https://github.com/xmoezzz/siglus_rs,Pure-Rust WMV/WMA video and audio decoder
+2026-10-08T05:27:57.586522Z,shion-xfile,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,DirectX .x 3D model file format parser in Rust
+2026-10-08T05:28:12.15441Z,siglus_cfx_decompiler,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,SiglusEngine CFX bytecode effect/shader decompiler
+2026-10-08T05:28:45.075256Z,krabka-client-core,0.6.0,0,0,https://github.com/krabka-io/krabka-client-rs,Connection management and request dispatch for Apache Kafka in Rust
+2026-10-08T05:28:48.129486Z,krabka-client-consumer,0.6.0,0,0,https://github.com/krabka-io/krabka-client-rs,Subscribe-style consumer client for Apache Kafka in Rust
+2026-10-08T05:28:54.512859Z,krabka-client-producer,0.6.0,0,0,https://github.com/krabka-io/krabka-client-rs,Idempotent producer client for Apache Kafka in Rust
+2026-10-08T05:28:57.155792Z,krabka-client-admin,0.6.0,0,0,https://github.com/krabka-io/krabka-client-rs,Operator-side admin client for Krabka clusters
+2026-10-08T05:31:19.097478Z,sootmark-eventtranscript,0.1.1,0,0,https://github.com/Sootmark/eventtranscript,"Windows diagnostic data (EventTranscript.db) for forensics: telemetry events with their time, program, producer, tags and payload: browsing, app use, installs, devices."
+2026-10-08T05:31:28.855352Z,autumn-plugin-univer,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-univer,Autumn plugin: Univer spreadsheets with Maud + htmx ergonomics and typed workbook data.
+2026-10-08T05:31:38.575925Z,axiom_mesh_core,0.1.0,0,0,https://github.com/fernandogarzaaa/AXIOM-AETHER,Kinetic Neural Mesh (KNM) and Intent-Driven Convergence (IDC) primitives for AXIOM
+2026-10-08T05:32:35.037395Z,rrand,0.1.0,0,0,https://github.com/sivarajd/rrand,A versatile random generator CLI and library inspired by random.org and openssl rand
+2026-10-08T05:34:08.543784Z,pigeonhole-runtime,0.1.0,0,0,https://github.com/CodingAnarchy/pigeonhole,Thread-per-core shard runtime for Pigeonhole.
+2026-10-08T05:34:09.755826Z,theora-rs,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,Rust library-focused rewrite of the libtheora 1.2.0
+2026-10-08T05:35:18.435935Z,quarb-text-djvu,0.33.0,0,0,https://gitlab.com/quarb/engine,"DjVu reader's-model adapter for Quarb: the text layer's declared zones under the outline's sections, with geometry — no OCR, no guessed structure"
+2026-10-08T05:35:23.764588Z,quarb-text-doc,0.33.0,0,0,https://gitlab.com/quarb/engine,"Legacy Word (.doc, Word 97–2003) producer for the Quarb text level: the text stream from the piece table"
+2026-10-08T05:37:14.717576Z,quarb-text-odt,0.33.0,0,0,https://gitlab.com/quarb/engine,"OpenDocument Text (.odt, .fodt, .sxw) producer for the Quarb text level: the reader's model from declared ODF structure"
+2026-10-08T05:37:18.359811Z,mcss-core,1.2.0,0,0,https://minijo.minipandi.net/minipandi/mcss,A core for the mcss project.
+2026-10-08T05:39:39.789862Z,mcss,1.1.0,0,0,https://minijo.minipandi.net/minipandi/mcss,A cli tool to check the status of a minecraft server.
+2026-10-08T05:44:08.793818Z,pigeonhole-shm,0.1.0,0,0,https://github.com/CodingAnarchy/pigeonhole,Shared-memory region and multi-process reader protocol for Pigeonhole.
+2026-10-08T05:54:05.228999Z,uk2,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,UK2 Visual Novel engine reimplementation in Rust
+2026-10-08T05:54:09.108564Z,pigeonhole-sst,0.1.0,0,0,https://github.com/CodingAnarchy/pigeonhole,"Sorted string tables for Pigeonhole: blocks, filters, partitioned index, filtered iteration."
+2026-10-08T05:54:20.679772Z,engine-detect,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,"Identifies which engine (SiglusEngine, RealLive, AVG32 or UK2) a game directory uses"
+2026-10-08T05:56:11.740398Z,aegisvision-core,0.2.0,0,0,https://github.com/javpower/aegis-vision,AegisVision 公共抽象层：六大核心 trait、配置 schema、几何工具、插件注册表
+2026-10-08T05:56:37.006568Z,sootmark-bsm,0.1.0,0,0,https://github.com/Sootmark/bsm,"macOS and FreeBSD audit trails (BSM, OpenBSM) for forensics: every audited event with its subject, paths, arguments, sockets and return, read without libbsm."
+2026-10-08T05:58:12.204446Z,aegisvision-tasks,0.2.0,0,0,https://github.com/javpower/aegis-vision,AegisVision 五任务内置实现：classify / detect / obb / seg / keypoint
+2026-10-08T05:59:01.307032Z,aegisvision-plugins,0.2.0,0,0,https://github.com/javpower/aegis-vision,AegisVision 插件机制与内置扩展（跨模态 / 规则引擎 / 选型器 / 蒸馏 / 少样本）
+2026-10-08T05:59:24.306992Z,aegisvision-pretrain,0.2.0,0,0,https://github.com/javpower/aegis-vision,AegisVision 预训练权重层：原生权重格式（哈希校验+元信息）与外部 PyTorch safetensors 导入适配
+2026-10-08T06:01:46.13202Z,aegisvision-runtime,0.2.0,0,0,https://github.com/javpower/aegis-vision,AegisVision 训练/推理引擎、CLI 与观测面板
+2026-10-08T06:04:09.488456Z,pigeonhole-compaction,0.1.0,0,0,https://github.com/CodingAnarchy/pigeonhole,"Compaction pickers, jobs, merge operators and GC for Pigeonhole."
+2026-10-08T06:06:00.760066Z,siglus_assets,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,SiglusEngine asset archive (.pck/.dbs) reader and extractor
+2026-10-08T06:14:10.356019Z,pigeonhole-engine,0.1.0,0,0,https://github.com/CodingAnarchy/pigeonhole,"The Pigeonhole storage engine: tablets, shards, MVCC, WAL, flush, compaction."
+2026-10-08T06:15:09.4515Z,temper-hid,1.0.0,0,0,https://github.com/charlieh0tel/temper,Read a PCsensor TEMPerGold USB thermometer or TEMPerHUM thermometer and hygrometer over Linux hidraw
+2026-10-08T06:15:12.285224Z,temper-hid-cli,1.0.0,0,0,https://github.com/charlieh0tel/temper,"Command-line tool for PCsensor TEMPerGold and TEMPerHUM USB sticks: read, info, and a JSON Lines log"
+2026-10-08T06:15:27.960497Z,structured-webauthn,0.1.0,0,0,https://github.com/structured-world/structured-webauthn,"Server-side Web Authentication (WebAuthn) Relying Party (RP) API in pure Rust: registration and authentication ceremonies, passkeys, no OpenSSL."
