@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T21:22:55.950243Z,allcrypt,0.1.0,0,0,https://github.com/gitallcrypt/allcrypt,"Common and uncommon cryptographic algorithms in pure Rust, old and broken ones included, with Python and C bindings."
+2026-10-08T21:25:46.358905Z,energija,0.0.1,0,0,https://codeberg.org/kosmonaut/energija,Strongly typed NetworkManager settings for nmrs
+2026-10-08T21:27:08.382563Z,acme-proxy-server,0.6.0,0,0,https://github.com/acme-proxy/acme-proxy,"The runtime of acme-proxy: role processes, listeners, configuration reload and logging (internal crate, no semver promise)"
+2026-10-08T21:27:34.010582Z,store-io,0.1.0,0,0,https://github.com/jamesgober/store-io,"Durable storage I/O for Rust databases: evidence-based durability classes, unforgeable receipts, direct I/O, io_uring and IOCP."
+2026-10-08T21:30:22.582326Z,lost,0.1.0,0,0,,Local Offline Search Tool
+2026-10-08T21:31:25.740361Z,repos-manager,1.0.0,0,0,https://github.com/Dxsk/repos-manager,"One CLI to sync them all: clone and update Git repos from GitHub, GitLab, Forgejo, Bitbucket and Radicle"
+2026-10-08T21:35:50.51Z,tuisv,0.1.0,0,0,https://github.com/mevanlc/tuisv,"A small, read-only CSV and TSV viewer for the terminal"
+2026-10-08T21:38:55.737174Z,climate-indices,0.0.0,0,0,https://github.com/monocongo/climate_indices,"Pure-Rust numerical kernels for climate indices (SPI, SPEI, PET, EDDI, Palmer, fire weather). Placeholder release reserving the name."
+2026-10-08T21:41:11.961575Z,pollux-polyglot-native-bridge,0.1.0,0,0,https://github.com/sxnnyside-project/pollux-polyglot-native-bridge,Public Rust FFI/ABI bridge between Pollux Core and external runtimes.
+2026-10-08T21:44:14.437894Z,detamu-rpc,0.2.0,0,0,https://github.com/EntasisLabs/detamu,JSON-RPC handler for Detamu code queries and language-server registration
+2026-10-08T21:46:26.955517Z,masl-device,0.1.2,0,0,https://github.com/PlexSheep/masl,common functionalities for all devices in a logical circuit
+2026-10-08T21:46:38.011473Z,masl-periphery,0.1.2,0,0,https://github.com/PlexSheep/masl,"many devices that can be placed in a circuit, such as a buzzer or lamp"
+2026-10-08T21:46:42.413025Z,masl-grid,0.1.2,0,0,https://github.com/PlexSheep/masl,common logical functionalities for all devices in a grid
+2026-10-08T21:58:24.677965Z,ed-acp-testkit,1.1.0,0,0,https://github.com/ondeinference/ed,"Test kit for Onde ACP agents: a mock Onde Cloud endpoint, a raw JSON-RPC client for the agent binary, a test MCP server, the ACP registry probe and the ACP v1 conformance suite."
+2026-10-08T21:58:40.4689Z,ed-acp-tui,1.1.0,0,0,https://github.com/ondeinference/ed,A ratatui terminal UI for any Agent Client Protocol (ACP) agent: launches the agent as a subprocess and drives one session over stdio.
+2026-10-08T22:12:28.198001Z,crawlberg-chromiumoxide,0.9.1,0,0,https://github.com/xberg-io/crawlberg,"Crawlberg's security-hardened Chromium CDP client, forked from chromiumoxide"

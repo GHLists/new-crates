@@ -8,45 +8,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 21:18 UTC
+## Latest list — 2026-10-08 22:19 UTC
 
-New crates published between 2026-10-08 20:22 UTC and 2026-10-08 21:18 UTC.
+New crates published between 2026-10-08 21:18 UTC and 2026-10-08 22:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-08T21-18-36-38022Z.csv)
+[Full CSV](data/new-crates-2026-10-08T22-19-44-375014Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-08 20:23:38 | [omwei-iot](https://crates.io/crates/omwei-iot) | 0.1.0 | 0 | Semantic interoperability primitives for heterogeneous IoT systems |
-| 2026-10-08 20:24:12 | [ring_factory](https://crates.io/crates/ring_factory) | 0.1.0 | 0 | Ring Factory is a lock-free write path that lets many concurrent producer threa… |
-| 2026-10-08 20:24:37 | [bsv-middleware-core](https://crates.io/crates/bsv-middleware-core) | 0.1.0 | 0 | Runtime-free BSV BRC-103/104 authentication and BRC-29 payment verification: th… |
-| 2026-10-08 20:26:34 | [nblean](https://crates.io/crates/nblean) | 0.2.0 | 0 | Token-lean Jupyter notebook access for coding agents: outlines, clipped outputs… |
-| 2026-10-08 20:27:22 | [crush-caison](https://crates.io/crates/crush-caison) | 0.4.0 | 0 | Crush VM host capability for CAISON (formerly CSON) parsing — the format types/… |
-| 2026-10-08 20:27:51 | [authorizenet-derive](https://crates.io/crates/authorizenet-derive) | 0.1.0 | 0 | Derive macros for the authorizenet crate (XML mapping). |
-| 2026-10-08 20:27:53 | [authorizenet](https://crates.io/crates/authorizenet) | 0.1.0 | 0 | A typed Authorize.Net API client with async and blocking support. |
-| 2026-10-08 20:34:33 | [plast](https://crates.io/crates/plast) | 0.1.0 | 0 | A high-performance data pipeline designed to pretokenize datasets and stream th… |
-| 2026-10-08 20:40:42 | [vim-digraph](https://crates.io/crates/vim-digraph) | 0.1.0 | 0 | Library and CLI for expanding Vim digraphs to Unicode characters |
-| 2026-10-08 20:40:42 | [crush-pkg](https://crates.io/crates/crush-pkg) | 0.4.0 | 0 | Crush language package manager — cargo-like build tool for Crush programs |
-| 2026-10-08 20:42:44 | [git-identity-manager](https://crates.io/crates/git-identity-manager) | 1.2.1 | 0 | Switch between Git identities per repository |
-| 2026-10-08 20:45:31 | [kal-fs-watch](https://crates.io/crates/kal-fs-watch) | 0.1.0 | 0 | Watch one file for content changes, surviving editor atomic saves, with a trail… |
-| 2026-10-08 20:45:59 | [kal-sse](https://crates.io/crates/kal-sse) | 0.1.0 | 0 | Resilient Server-Sent Events: snapshot + cursor data channels with gap-free rec… |
-| 2026-10-08 20:47:23 | [acme-proxy-core](https://crates.io/crates/acme-proxy-core) | 0.6.0 | 0 | Configuration, ACME wire types and shared vocabulary for acme-proxy (internal c… |
-| 2026-10-08 20:47:25 | [acme-proxy-net](https://crates.io/crates/acme-proxy-net) | 0.6.0 | 0 | DNS, outbound HTTP, proxies, TLS, listeners and the ACME challenge validators o… |
-| 2026-10-08 20:47:26 | [acme-proxy-store](https://crates.io/crates/acme-proxy-store) | 0.6.0 | 0 | The SQLite storage layer of acme-proxy, one module per table (internal crate, n… |
-| 2026-10-08 20:47:28 | [acme-proxy-jobs](https://crates.io/crates/acme-proxy-jobs) | 0.6.0 | 0 | The durable job queue, notifications, audit writer and metrics of acme-proxy (i… |
-| 2026-10-08 20:47:29 | [acme-proxy-policy](https://crates.io/crates/acme-proxy-policy) | 0.6.0 | 0 | The access policy engine and IPAM inventories of acme-proxy (internal crate, no… |
-| 2026-10-08 20:53:34 | [aphrody-bun-macro](https://crates.io/crates/aphrody-bun-macro) | 0.1.0 | 0 | Proc macros for writing Bun native bundler plugins in Rust (Aphrody fork of ove… |
-| 2026-10-08 20:53:36 | [aphrody-bun-native-plugin](https://crates.io/crates/aphrody-bun-native-plugin) | 0.2.0 | 0 | Rust SDK for writing native bundler plugins for Bun (Aphrody fork of oven-sh/bu… |
-| 2026-10-08 20:58:41 | [acme-proxy-signer](https://crates.io/crates/acme-proxy-signer) | 0.6.0 | 0 | The signing backends of acme-proxy: local CA, relay to an upstream ACME server,… |
-| 2026-10-08 20:59:04 | [rp-supabase-functions](https://crates.io/crates/rp-supabase-functions) | 0.1.0 | 0 | Client for invoking Supabase Edge Functions |
-| 2026-10-08 20:59:21 | [rp-supabase-storage](https://crates.io/crates/rp-supabase-storage) | 0.1.0 | 0 | Async client for the Supabase Storage API: buckets, objects, and signed URLs |
-| 2026-10-08 20:59:29 | [supabase-rp](https://crates.io/crates/supabase-rp) | 0.1.0 | 0 | One entry point for Supabase from Rust: REST, auth, storage, functions, and rea… |
-| 2026-10-08 21:00:46 | [nullroute](https://crates.io/crates/nullroute) | 0.0.0 | 0 | Name reserved: network isolation and domain filtering sandbox for Linux, under… |
-| 2026-10-08 21:00:51 | [cloakenv](https://crates.io/crates/cloakenv) | 0.0.0 | 0 | Name reserved: encrypted local secret vault and process environment injector, u… |
-| 2026-10-08 21:01:46 | [ppmd-turbo](https://crates.io/crates/ppmd-turbo) | 0.0.0 | 0 | PPMd variant H (Ppmd7) compression and decompression, bit-exact with 7-Zip and… |
-| 2026-10-08 21:07:13 | [acme-proxy-protocol](https://crates.io/crates/acme-proxy-protocol) | 0.6.0 | 0 | The ACME (RFC 8555) services, extractors, handlers and routers of acme-proxy (i… |
-| 2026-10-08 21:08:29 | [bitpac](https://crates.io/crates/bitpac) | 0.0.1 | 0 | 🦀 BitPAC is an inference runtime BitLinear models. |
-| 2026-10-08 21:16:52 | [tachikoma](https://crates.io/crates/tachikoma) | 0.1.0 | 0 | Space Packet Library |
-| 2026-10-08 21:18:14 | [acme-proxy-admin](https://crates.io/crates/acme-proxy-admin) | 0.6.0 | 0 | The operation layer and web admin panel of acme-proxy (internal crate, no semve… |
+| 2026-10-08 21:22:55 | [allcrypt](https://crates.io/crates/allcrypt) | 0.1.0 | 0 | Common and uncommon cryptographic algorithms in pure Rust, old and broken ones… |
+| 2026-10-08 21:25:46 | [energija](https://crates.io/crates/energija) | 0.0.1 | 0 | Strongly typed NetworkManager settings for nmrs |
+| 2026-10-08 21:27:08 | [acme-proxy-server](https://crates.io/crates/acme-proxy-server) | 0.6.0 | 0 | The runtime of acme-proxy: role processes, listeners, configuration reload and… |
+| 2026-10-08 21:27:34 | [store-io](https://crates.io/crates/store-io) | 0.1.0 | 0 | Durable storage I/O for Rust databases: evidence-based durability classes, unfo… |
+| 2026-10-08 21:30:22 | [lost](https://crates.io/crates/lost) | 0.1.0 | 0 | Local Offline Search Tool |
+| 2026-10-08 21:31:25 | [repos-manager](https://crates.io/crates/repos-manager) | 1.0.0 | 0 | One CLI to sync them all: clone and update Git repos from GitHub, GitLab, Forge… |
+| 2026-10-08 21:35:50 | [tuisv](https://crates.io/crates/tuisv) | 0.1.0 | 0 | A small, read-only CSV and TSV viewer for the terminal |
+| 2026-10-08 21:38:55 | [climate-indices](https://crates.io/crates/climate-indices) | 0.0.0 | 0 | Pure-Rust numerical kernels for climate indices (SPI, SPEI, PET, EDDI, Palmer,… |
+| 2026-10-08 21:41:11 | [pollux-polyglot-native-bridge](https://crates.io/crates/pollux-polyglot-native-bridge) | 0.1.0 | 0 | Public Rust FFI/ABI bridge between Pollux Core and external runtimes. |
+| 2026-10-08 21:44:14 | [detamu-rpc](https://crates.io/crates/detamu-rpc) | 0.2.0 | 0 | JSON-RPC handler for Detamu code queries and language-server registration |
+| 2026-10-08 21:46:26 | [masl-device](https://crates.io/crates/masl-device) | 0.1.2 | 0 | common functionalities for all devices in a logical circuit |
+| 2026-10-08 21:46:38 | [masl-periphery](https://crates.io/crates/masl-periphery) | 0.1.2 | 0 | many devices that can be placed in a circuit, such as a buzzer or lamp |
+| 2026-10-08 21:46:42 | [masl-grid](https://crates.io/crates/masl-grid) | 0.1.2 | 0 | common logical functionalities for all devices in a grid |
+| 2026-10-08 21:58:24 | [ed-acp-testkit](https://crates.io/crates/ed-acp-testkit) | 1.1.0 | 0 | Test kit for Onde ACP agents: a mock Onde Cloud endpoint, a raw JSON-RPC client… |
+| 2026-10-08 21:58:40 | [ed-acp-tui](https://crates.io/crates/ed-acp-tui) | 1.1.0 | 0 | A ratatui terminal UI for any Agent Client Protocol (ACP) agent: launches the a… |
+| 2026-10-08 22:12:28 | [crawlberg-chromiumoxide](https://crates.io/crates/crawlberg-chromiumoxide) | 0.9.1 | 0 | Crawlberg's security-hardened Chromium CDP client, forked from chromiumoxide |
 
 ## Data source
 
