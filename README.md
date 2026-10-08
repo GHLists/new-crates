@@ -8,61 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 13:18 UTC
+## Latest list — 2026-10-08 14:19 UTC
 
-New crates published between 2026-10-08 12:20 UTC and 2026-10-08 13:18 UTC.
+New crates published between 2026-10-08 13:18 UTC and 2026-10-08 14:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-08T13-18-34-477033Z.csv)
+[Full CSV](data/new-crates-2026-10-08T14-19-40-230373Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-08 12:21:00 | [meshbrep](https://crates.io/crates/meshbrep) | 0.1.0 | 0 | Rebuild an exact B-rep (planes, cylinders, cones, spheres, tori) from a triangl… |
-| 2026-10-08 12:21:07 | [oxpdf-render](https://crates.io/crates/oxpdf-render) | 1.3.0 | 0 | Pure-Rust high-fidelity 2D rasterizer for oxpdf powered by tiny-skia (#![forbid… |
-| 2026-10-08 12:21:53 | [oxpdf-gen](https://crates.io/crates/oxpdf-gen) | 1.3.0 | 0 | Next-generation generative PDF authoring engine featuring the Knuth-Plass optim… |
-| 2026-10-08 12:23:44 | [toride-ssh-agent](https://crates.io/crates/toride-ssh-agent) | 0.1.0 | 0 | SSH agent management: listing, adding, and removing keys |
-| 2026-10-08 12:23:49 | [redissun](https://crates.io/crates/redissun) | 0.1.0 | 0 | Distributed objects on Redis for Rust, inspired by Redisson: Map, Bucket, reent… |
-| 2026-10-08 12:25:38 | [ic-blob-storage-contracts](https://crates.io/crates/ic-blob-storage-contracts) | 0.18.4 | 0 | Runtime-free wire contracts and content verification for IC Blob Storage |
-| 2026-10-08 12:27:14 | [rsonist](https://crates.io/crates/rsonist) | 0.1.2 | 0 | A small, zero-dep JSON library |
-| 2026-10-08 12:33:44 | [toride-ssh-authorized-keys](https://crates.io/crates/toride-ssh-authorized-keys) | 0.1.0 | 0 | authorized_keys file management: listing, adding, removing, and querying entries |
-| 2026-10-08 12:33:55 | [ic-backup-agent](https://crates.io/crates/ic-backup-agent) | 0.8.0 | 0 | Bounded single-update ic-agent transport for ic-backup |
-| 2026-10-08 12:38:38 | [hashconsing-derive](https://crates.io/crates/hashconsing-derive) | 1.8.0 | 0 | Provides derive features for the hashconsing crate. |
-| 2026-10-08 12:39:38 | [zil](https://crates.io/crates/zil) | 0.2.0 | 0 | An expression calculator and scripting language with units, dates, exact fracti… |
-| 2026-10-08 12:40:53 | [ishou-pente](https://crates.io/crates/ishou-pente) | 0.1.20 | 0 | pente (the loom's reed) — the fleet's typed visual spine: a closed Origin/Ramp/… |
-| 2026-10-08 12:40:55 | [ishou-batente](https://crates.io/crates/ishou-batente) | 0.1.20 | 0 | batente (the loom's beater) — the fleet's typed motion spine: a closed Beat/Cad… |
-| 2026-10-08 12:42:18 | [silicon-accounts-client](https://crates.io/crates/silicon-accounts-client) | 0.1.0 | 0 | Stateless Rust client for Silicon Accounts: sign Carbons and Silicons in, excha… |
-| 2026-10-08 12:42:59 | [silicon-apps-package](https://crates.io/crates/silicon-apps-package) | 0.1.2 | 0 | Safe package manifest validation, packing and extraction for Silicon Apps |
-| 2026-10-08 12:43:30 | [silicon-apps-client](https://crates.io/crates/silicon-apps-client) | 0.1.2 | 0 | Stateless primary Silicon Apps API, authentication and local installation libra… |
-| 2026-10-08 12:43:41 | [silicon-apps-cli](https://crates.io/crates/silicon-apps-cli) | 0.1.3 | 0 | Create, publish, discover and install Silicon Apps |
-| 2026-10-08 12:43:44 | [toride-ssh-certificate](https://crates.io/crates/toride-ssh-certificate) | 0.1.0 | 0 | SSH certificate authority and key revocation list (KRL) inspection |
-| 2026-10-08 12:46:01 | [dme](https://crates.io/crates/dme) | 0.0.5 | 0 | Dialogue Move Engine |
-| 2026-10-08 12:46:32 | [heifer-isobmff](https://crates.io/crates/heifer-isobmff) | 0.1.0 | 0 | ISOBMFF / HEIF container reading and writing (ISO/IEC 14496-12, 23008-12) |
-| 2026-10-08 12:46:35 | [heifer-hevc-dec](https://crates.io/crates/heifer-hevc-dec) | 0.1.0 | 0 | Pure-Rust HEVC (H.265) intra decoder for still images |
-| 2026-10-08 12:46:37 | [heifer-hevc-enc](https://crates.io/crates/heifer-hevc-enc) | 0.1.0 | 0 | Pure-Rust HEVC (H.265) intra encoder for still images |
-| 2026-10-08 12:46:39 | [heifer](https://crates.io/crates/heifer) | 0.1.0 | 0 | Pure-Rust HEIF/HEIC image decoder: no C dependencies, no unsafe code |
-| 2026-10-08 12:49:51 | [pyferrite](https://crates.io/crates/pyferrite) | 0.0.1 | 0 | Pure-Rust reader/writer for Python ML artefacts (npy, npz, pickle, pt, joblib,… |
-| 2026-10-08 12:50:10 | [sid-voprf](https://crates.io/crates/sid-voprf) | 0.6.0 | 0 | Verifiable oblivious pseudorandom functions (RFC 9497), vendored from facebook/… |
-| 2026-10-08 12:50:33 | [sid-opaque-ke](https://crates.io/crates/sid-opaque-ke) | 4.1.0 | 0 | The OPAQUE password-authenticated key exchange (RFC 9807), vendored from facebo… |
-| 2026-10-08 12:50:52 | [hls-engine](https://crates.io/crates/hls-engine) | 1.0.0 | 0 | HLS media engine for Rust: shared native/WASM decryption, timelines, multi-trac… |
-| 2026-10-08 12:51:48 | [pointblitz-io](https://crates.io/crates/pointblitz-io) | 0.1.0 | 0 | PLY stream parser and GPU-ready chunk format for PointBlitz |
-| 2026-10-08 12:51:50 | [pointblitz-core](https://crates.io/crates/pointblitz-core) | 0.1.0 | 0 | PointBlitz render core: scene, chunk store, GPU buffers, point pipeline, headle… |
-| 2026-10-08 12:51:52 | [pointblitz](https://crates.io/crates/pointblitz) | 0.1.0 | 0 | Point clouds at GPU speed: one Rust/wgpu core for browser (wasm), native and se… |
-| 2026-10-08 12:51:52 | [pointblitz-native](https://crates.io/crates/pointblitz-native) | 0.1.0 | 0 | PointBlitz native window target |
-| 2026-10-08 12:51:53 | [pointblitz-server](https://crates.io/crates/pointblitz-server) | 0.1.0 | 0 | PointBlitz server target: headless render and video streaming |
-| 2026-10-08 12:53:44 | [toride-ssh-config](https://crates.io/crates/toride-ssh-config) | 0.1.0 | 0 | SSH config file parsing, editing, and host resolution via a lossless AST |
-| 2026-10-08 12:53:49 | [minifix](https://crates.io/crates/minifix) | 0.3.0 | 0 | A bare essentials library for Financial Information Exchange (FIX) |
-| 2026-10-08 12:56:09 | [wakuwaku-iggy](https://crates.io/crates/wakuwaku-iggy) | 0.1.0 | 0 | Partition, consumer, routing and message traits for Apache Iggy |
-| 2026-10-08 12:59:36 | [qexed_nbt](https://crates.io/crates/qexed_nbt) | 0.1.0 | 0 | Minecraft Java Edition NBT (Named Binary Tag) tree model with big-endian codecs… |
-| 2026-10-08 13:01:16 | [agentsql](https://crates.io/crates/agentsql) | 0.2.0 | 0 | Interface for agent sql persistence |
-| 2026-10-08 13:01:26 | [gf-core](https://crates.io/crates/gf-core) | 0.3.0 | 0 | Rust runtime for Grammatical Framework. |
-| 2026-10-08 13:02:10 | [agentfs](https://crates.io/crates/agentfs) | 0.2.0 | 0 | Agent Persistence |
-| 2026-10-08 13:03:44 | [toride-ssh-forward](https://crates.io/crates/toride-ssh-forward) | 0.1.0 | 0 | Port forwarding management via SSH ControlMaster sessions |
-| 2026-10-08 13:03:48 | [cccc-cs](https://crates.io/crates/cccc-cs) | 1.8.0 | 0 | C# (tree-sitter) adapter that lowers source into the cccc-core complexity IR |
-| 2026-10-08 13:04:13 | [pointblitz-web](https://crates.io/crates/pointblitz-web) | 0.1.0 | 0 | PointBlitz browser target (wasm) |
-| 2026-10-08 13:05:05 | [cccc-vb](https://crates.io/crates/cccc-vb) | 1.8.0 | 0 | Visual Basic .NET adapter that lowers source into the cccc-core complexity IR |
-| 2026-10-08 13:09:28 | [alarm](https://crates.io/crates/alarm) | 0.0.5 | 0 | A type system and procedural macros for alarm system functionality, based on th… |
-| 2026-10-08 13:09:28 | [camilladsp-schema](https://crates.io/crates/camilladsp-schema) | 5.0.0-beta.1 | 0 | Config and websocket protocol types, config validation and coefficient file rea… |
-| 2026-10-08 13:09:30 | [camilladsp](https://crates.io/crates/camilladsp) | 5.0.0-beta.1 | 0 | A flexible tool for processing audio |
-| 2026-10-08 13:13:44 | [toride-ssh-known-hosts](https://crates.io/crates/toride-ssh-known-hosts) | 0.1.0 | 0 | Known-hosts file parsing and host-key change detection |
+| 2026-10-08 13:19:43 | [putnam](https://crates.io/crates/putnam) | 0.1.0 | 0 | Utilities for agentic autonomous solving of putnam problems |
+| 2026-10-08 13:22:30 | [creamui-router](https://crates.io/crates/creamui-router) | 0.2.0 | 0 | Declarative reactive routing for CreamUI, with browser and memory history |
+| 2026-10-08 13:23:44 | [toride-tailscale](https://crates.io/crates/toride-tailscale) | 0.1.0 | 0 | Tailscale mesh VPN management via HTTP API |
+| 2026-10-08 13:29:59 | [fem](https://crates.io/crates/fem) | 0.1.0 | 0 | fem is a Finite Element Analysis tool. |
+| 2026-10-08 13:31:49 | [wintrust](https://crates.io/crates/wintrust) | 0.1.0 | 0 | Portable Rust catalog trust with Windows API name aliases |
+| 2026-10-08 13:31:51 | [subc-presence](https://crates.io/crates/subc-presence) | 0.1.0 | 0 | Operating-system operator authentication prompts for the subc daemon. |
+| 2026-10-08 13:33:44 | [toride-updates](https://crates.io/crates/toride-updates) | 0.1.0 | 0 | Automatic security update management for Linux VPS hosts |
+| 2026-10-08 13:40:35 | [renox-blocks](https://crates.io/crates/renox-blocks) | 1.0.0 | 0 | Interactive UI blocks for Renox apps: a stepper, a two-handle range, a keypad,… |
+| 2026-10-08 13:43:45 | [toride-users](https://crates.io/crates/toride-users) | 0.1.0 | 0 | OS-level user, sudo, PAM, and 2FA management |
+| 2026-10-08 13:47:04 | [qexed_toml](https://crates.io/crates/qexed_toml) | 0.1.0 | 0 | TOML utilities on top of toml_edit: format-preserving deep merge, document-leve… |
+| 2026-10-08 13:47:08 | [simwatch](https://crates.io/crates/simwatch) | 1.0.0 | 0 | A TUI to watch HPC simulation progress |
+| 2026-10-08 13:50:04 | [astral-ini](https://crates.io/crates/astral-ini) | 0.0.0 | 0 | Placeholder release for astral-ini |
+| 2026-10-08 13:50:19 | [o41-checkpoint](https://crates.io/crates/o41-checkpoint) | 0.1.0 | 0 | Save and resume training checkpoints in a directory, a bucket, or 041 Artifacts |
+| 2026-10-08 13:53:44 | [toride-wireguard](https://crates.io/crates/toride-wireguard) | 0.1.0 | 0 | WireGuard VPN tunnel management |
+| 2026-10-08 13:57:17 | [sootmark-imagecache](https://crates.io/crates/sootmark-imagecache) | 0.1.0 | 0 | Windows image caches for forensics: Explorer's thumbcache and iconcache databas… |
+| 2026-10-08 14:01:24 | [talechime-protocol](https://crates.io/crates/talechime-protocol) | 0.1.0 | 0 | Process protocol for TRNovel listening clients |
+| 2026-10-08 14:01:58 | [cctop-rmux-types](https://crates.io/crates/cctop-rmux-types) | 0.10.0 | 0 | cctop's fork of rmux-types. Shared platform-neutral value types for the RMUX te… |
+| 2026-10-08 14:01:59 | [cctop-rmux-os](https://crates.io/crates/cctop-rmux-os) | 0.10.0 | 0 | cctop's fork of rmux-os. Small OS abstraction layer used by RMUX IPC and termin… |
+| 2026-10-08 14:02:00 | [cctop-rmux-proto](https://crates.io/crates/cctop-rmux-proto) | 0.10.0 | 0 | cctop's fork of rmux-proto. RMUX detached IPC protocol DTOs, framing, and wire-… |
+| 2026-10-08 14:02:00 | [cctop-rmux-ipc](https://crates.io/crates/cctop-rmux-ipc) | 0.10.0 | 0 | cctop's fork of rmux-ipc. Local IPC endpoint and transport primitives for the R… |
+| 2026-10-08 14:02:02 | [cctop-rmux-sdk](https://crates.io/crates/cctop-rmux-sdk) | 0.10.0 | 0 | cctop's fork of rmux-sdk. Public, daemon-backed Rust SDK for the RMUX terminal… |
+| 2026-10-08 14:03:45 | [ufw-kit](https://crates.io/crates/ufw-kit) | 0.1.0 | 0 | Safely manage, inspect, validate, and diagnose UFW firewall installations |
+| 2026-10-08 14:04:58 | [kiln-ci](https://crates.io/crates/kiln-ci) | 0.2.5 | 0 | Self-hosted CI: a fresh rootless KVM virtual machine per GitHub Actions job, on… |
+| 2026-10-08 14:09:41 | [rocsteady](https://crates.io/crates/rocsteady) | 0.1.0-alpha.1 | 0 | A Rust client for Emerson ROC Plus devices with automatic reconnection and sess… |
+| 2026-10-08 14:13:45 | [toride-ssh-doctor](https://crates.io/crates/toride-ssh-doctor) | 0.1.0 | 0 | SSH environment diagnostics: local and remote doctor checks for permissions, ke… |
 
 ## Data source
 

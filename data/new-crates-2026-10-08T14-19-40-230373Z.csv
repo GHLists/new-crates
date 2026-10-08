@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T13:19:43.927752Z,putnam,0.1.0,0,0,https://github.com/cryptopatrick/putnam,Utilities for agentic autonomous solving of putnam problems
+2026-10-08T13:22:30.521729Z,creamui-router,0.2.0,0,0,https://github.com/sammwyy/creamui,"Declarative reactive routing for CreamUI, with browser and memory history"
+2026-10-08T13:23:44.494214Z,toride-tailscale,0.1.0,0,0,https://github.com/freeoxide/toride,Tailscale mesh VPN management via HTTP API
+2026-10-08T13:29:59.593842Z,fem,0.1.0,0,0,https://github.com/cryptopatrick/fearsome,fem is a Finite Element Analysis tool.
+2026-10-08T13:31:49.41718Z,wintrust,0.1.0,0,0,https://github.com/CaddyGlow/wintrust-rs,Portable Rust catalog trust with Windows API name aliases
+2026-10-08T13:31:51.503403Z,subc-presence,0.1.0,0,0,https://github.com/cortexkit/subconscious,Operating-system operator authentication prompts for the subc daemon.
+2026-10-08T13:33:44.335913Z,toride-updates,0.1.0,0,0,https://github.com/freeoxide/toride,Automatic security update management for Linux VPS hosts
+2026-10-08T13:40:35.993641Z,renox-blocks,1.0.0,0,0,https://github.com/arif-rachim/renox,"Interactive UI blocks for Renox apps: a stepper, a two-handle range, a keypad, swatches, a date and time range, a gallery, a timeline, a plan comparison, a month calendar, an availability grid and a…"
+2026-10-08T13:43:45.131957Z,toride-users,0.1.0,0,0,https://github.com/freeoxide/toride,"OS-level user, sudo, PAM, and 2FA management"
+2026-10-08T13:47:04.746727Z,qexed_toml,0.1.0,0,0,https://github.com/qexed/Qexed,"TOML utilities on top of toml_edit: format-preserving deep merge, document-level serde, and secret field splitting (main file for git, secrets in .secrets/)."
+2026-10-08T13:47:08.253149Z,simwatch,1.0.0,0,0,https://github.com/eschnett/simwatch,A TUI to watch HPC simulation progress
+2026-10-08T13:50:04.975828Z,astral-ini,0.0.0,0,0,https://github.com/astral-sh/astral-ini,Placeholder release for astral-ini
+2026-10-08T13:50:19.623079Z,o41-checkpoint,0.1.0,0,0,,"Save and resume training checkpoints in a directory, a bucket, or 041 Artifacts"
+2026-10-08T13:53:44.110468Z,toride-wireguard,0.1.0,0,0,https://github.com/freeoxide/toride,WireGuard VPN tunnel management
+2026-10-08T13:57:17.052998Z,sootmark-imagecache,0.1.0,0,0,https://github.com/Sootmark/imagecache,"Windows image caches for forensics: Explorer's thumbcache and iconcache databases (every thumbnail with its cache id, checksums and image bytes) and the RDP bitmap cache (every tile as BGRA pixels)."
+2026-10-08T14:01:24.769407Z,talechime-protocol,0.1.0,0,0,https://github.com/yexiyue/talechime,Process protocol for TRNovel listening clients
+2026-10-08T14:01:58.110297Z,cctop-rmux-types,0.10.0,0,0,https://github.com/flolep2607/rmux,cctop's fork of rmux-types. Shared platform-neutral value types for the RMUX terminal multiplexer workspace.
+2026-10-08T14:01:59.596075Z,cctop-rmux-os,0.10.0,0,0,https://github.com/flolep2607/rmux,cctop's fork of rmux-os. Small OS abstraction layer used by RMUX IPC and terminal integrations.
+2026-10-08T14:02:00.328122Z,cctop-rmux-proto,0.10.0,0,0,https://github.com/flolep2607/rmux,"cctop's fork of rmux-proto. RMUX detached IPC protocol DTOs, framing, and wire-safe error types."
+2026-10-08T14:02:00.889001Z,cctop-rmux-ipc,0.10.0,0,0,https://github.com/flolep2607/rmux,cctop's fork of rmux-ipc. Local IPC endpoint and transport primitives for the RMUX terminal multiplexer.
+2026-10-08T14:02:02.784514Z,cctop-rmux-sdk,0.10.0,0,0,https://github.com/flolep2607/rmux,"cctop's fork of rmux-sdk. Public, daemon-backed Rust SDK for the RMUX terminal multiplexer (facade, ensure-session, snapshots, events, detach helpers)."
+2026-10-08T14:03:45.533264Z,ufw-kit,0.1.0,0,0,https://github.com/freeoxide/toride,"Safely manage, inspect, validate, and diagnose UFW firewall installations"
+2026-10-08T14:04:58.188086Z,kiln-ci,0.2.5,0,0,https://github.com/Bunty9/kiln,"Self-hosted CI: a fresh rootless KVM virtual machine per GitHub Actions job, on hardware you own"
+2026-10-08T14:09:41.393944Z,rocsteady,0.1.0-alpha.1,0,0,https://github.com/fhenskens/rocsteady,A Rust client for Emerson ROC Plus devices with automatic reconnection and session recovery
+2026-10-08T14:13:45.650294Z,toride-ssh-doctor,0.1.0,0,0,https://github.com/freeoxide/toride,"SSH environment diagnostics: local and remote doctor checks for permissions, keys, agent, config, and connectivity"
