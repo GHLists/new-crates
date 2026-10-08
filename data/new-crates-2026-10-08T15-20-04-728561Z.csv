@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T14:20:19.901205Z,qexed_config,0.1.0,0,0,https://github.com/qexed/Qexed,"Trait-based TOML configuration framework: implement one trait to get create/load/save with default merging, unknown-field preservation, and automatic secret splitting into .secrets/."
+2026-10-08T14:21:46.684598Z,baseRT-sys,0.3.0,0,0,https://github.com/basecompute/baseRT,Raw FFI bindings for the BaseRT LLM inference engine
+2026-10-08T14:21:47.203889Z,superfluid-fingerprint,0.1.1,0,0,https://github.com/basecompute/superfluid,"The §4 identity contracts as one typed, pinned definition: materialization compatibility, provenance lineage, generation behavior"
+2026-10-08T14:21:47.633784Z,superfluid-proto,0.1.1,0,0,https://github.com/basecompute/superfluid,"IPC frame envelope + Link W / Link F message catalogs and protocol state helpers for superfluid (schema draft 7, §4). Pure protocol crate: no I/O, no sockets."
+2026-10-08T14:21:48.185036Z,superfluid-abi,0.1.1,0,0,https://github.com/basecompute/superfluid,"Rust mirror of the superfluid engine ABI (baseRT_tick.h, schema draft 7): repr(C) types, normative BaseRTArray decode rules, arena writers"
+2026-10-08T14:21:48.715258Z,superfluid-linkf,0.1.1,0,0,https://github.com/basecompute/superfluid,"Link F session layer: head-daemon and node-agent endpoints — epochs, leases, command idempotency, per-generation watermarks, reconcile (schema §4.2/§4.4)"
+2026-10-08T14:23:45.685928Z,toride-ssh-key,0.1.0,0,0,https://github.com/freeoxide/toride,"SSH key lifecycle management: generation, inventory, installation, and repair"
+2026-10-08T14:28:15.292069Z,rutis-dylib-meta,0.8.0,0,0,https://github.com/arcships/rutis,Read the identity and dependencies of a rutis dylib plugin without loading it
+2026-10-08T14:28:21.067575Z,rutis-sdk,0.8.0,0,0,https://github.com/arcships/rutis,Shared Rust ABI and metadata for trusted rutis dylib plugins
+2026-10-08T14:28:39.366487Z,rutis-dylib,0.8.0,0,0,https://github.com/arcships/rutis,Optional loader for trusted rutis dylib plugins
+2026-10-08T14:28:55.293172Z,rutis-dylib-launcher,0.8.0,0,0,https://github.com/arcships/rutis,Pre-execution artifact verifier for a rutis dylib host bundle
+2026-10-08T14:33:43.922163Z,ufw-kit-test-support,0.1.0,0,0,https://github.com/freeoxide/toride,Test utilities for ufw-kit
+2026-10-08T14:36:21.818285Z,sootmark-unifiedlog,0.1.0,0,0,https://github.com/Sootmark/unifiedlog,"macOS Unified Logs (tracev3, timesync, uuidtext and shared cache strings) for forensics: every log entry with its time, process, subsystem, format string and message, read without Apple's tools."
+2026-10-08T14:36:52.521606Z,publicworks-runtime,0.1.0,0,0,https://github.com/claytercek/publicworks,Executor-neutral durable task and conversation runtime
+2026-10-08T14:37:11.068748Z,publicworks-storage-sqlite,0.1.0,0,0,https://github.com/claytercek/publicworks,SQLite storage adapter for the Public Works runtime
+2026-10-08T14:37:20.057678Z,publicworks-agent,0.1.0,0,0,https://github.com/claytercek/publicworks,Provider-neutral durable agent turns and extension hooks
+2026-10-08T14:37:44.255957Z,publicworks-provider-openai,0.1.0,0,0,https://github.com/claytercek/publicworks,OpenAI Responses adapter for Public Works agents
+2026-10-08T14:38:51.72079Z,topos-bible-index,0.5.0,0,0,https://github.com/MasterTemple/topos-bible,"A compact, persistent index of the Bible references in many files, with filtered and sorted queries"
+2026-10-08T14:42:17.896878Z,stm32wb-catalog,0.1.0,0,0,https://github.com/OueslatiGhaith/stm32wb-hci,Normalized STM32WB and STM32WBA wireless-interface catalogs shared by stm32wb-hci tooling
+2026-10-08T14:42:19.626378Z,stm32wb-hci-macros,0.1.0,0,0,https://github.com/OueslatiGhaith/stm32wb-hci,Procedural macros deriving stm32wb-hci declarations from the STM32WB and STM32WBA catalogs
+2026-10-08T14:43:23.904971Z,honk-core,0.1.0,0,0,https://github.com/mklab-se/honk,Core types and sound synthesis for honk
+2026-10-08T14:43:37.575374Z,deepmonkey-geometry,0.1.0,0,0,https://github.com/fatasia/DeepMonkey-Studio,Offline meshlet-DAG compiler (Nanite M2): mesh -> clusters -> hierarchical DAG -> .dgc stream format
+2026-10-08T14:43:44.281853Z,toride-ssh,0.1.0,0,0,https://github.com/freeoxide/toride,"Async SSH manager library: a unified facade over the toride-ssh key, config, agent, known-hosts, authorized-keys, doctor, forward, and certificate sub-crates"
+2026-10-08T14:44:53.849751Z,honk,0.1.0,0,0,https://github.com/mklab-se/honk,"Make your computer honk like an old-school car. Honk, honk!"
+2026-10-08T14:45:28.81182Z,qexed_config_macros,0.1.0,0,0,https://github.com/qexed/Qexed,"Proc-macro attribute #[app_config(PATH, NAME)] that implements qexed_config::Config for a struct, deriving SECRETS from <Secret>/<Secrets> autodoc tags."
+2026-10-08T14:53:54.557917Z,toride,0.1.0,0,0,https://github.com/freeoxide/toride,Terminal user interface (TUI) for hardened Linux host management
+2026-10-08T14:53:59.714841Z,deepmonkey-native,0.2.0,0,0,https://github.com/fatasia/DeepMonkey-Studio,Native winit + wgpu viewer bootstrap for Deep Engine
+2026-10-08T14:57:15.399452Z,novomodelo-core,0.18.0,0,0,https://github.com/ons-ccee-epe/novomodelo,"Power system data model — buses, branches, generators, loads, and network topology"
+2026-10-08T14:57:58.292787Z,novomodelo-stochastic,0.18.0,0,0,https://github.com/ons-ccee-epe/novomodelo,"Stochastic process models for power systems — PAR(p), scenario generation, correlated sampling"
+2026-10-08T15:00:10.300046Z,novomodelo-solver,0.18.0,0,0,https://github.com/ons-ccee-epe/novomodelo,LP/MIP solver abstraction layer with HiGHS backend for power system optimization
+2026-10-08T15:00:13.514777Z,novomodelo-comm,0.18.0,0,0,https://github.com/ons-ccee-epe/novomodelo,"Pluggable communication backend abstraction for the Novomodelo ecosystem (MPI, TCP, shared-memory, local)"
+2026-10-08T15:00:50.170055Z,superfluid-engine,0.1.1,0,0,https://github.com/basecompute/superfluid,Engine trait over the draft-7 ABI plus MockEngine: a pure-Rust engine implementing every tick/state-op/registration semantic for tests and the worker skeleton
+2026-10-08T15:00:54.034853Z,superfluid-executor,0.1.1,0,0,https://github.com/basecompute/superfluid,"The generic executor: the Engine tick contract implemented once over a runtime's RuntimePrimitives (batch step, sequences, state export), so an adapter supplies only what its runtime does"
+2026-10-08T15:00:57.897778Z,superfluid-shm,0.1.1,0,0,https://github.com/basecompute/superfluid,"Link W local-adapter mechanics: POSIX shared-memory segments, SCM_RIGHTS fd passing, and the token/logits ring layout shared by worker and node-agent"
+2026-10-08T15:01:16.696271Z,bloq-cli,0.1.0,0,0,https://github.com/inmzhang/bloq,Block graph compiler for fault-tolerant quantum circuits: command-line interface.
+2026-10-08T15:01:36.851013Z,novomodelo-io,0.18.0,0,0,https://github.com/ons-ccee-epe/novomodelo,Case directory loading and validation for the Novomodelo power systems ecosystem
+2026-10-08T15:10:18.4597Z,ocserve-metrics,0.1.0,0,0,https://github.com/alderpath/ocserve,"SRE metric registry (metric-per-KPI, bounded labels, Prometheus text)"
+2026-10-08T15:10:30.576782Z,ocserve-store,0.1.0,0,0,https://github.com/alderpath/ocserve,"SQLite + chunked blob store: pragmas, schema, single-writer, FTS5"
+2026-10-08T15:10:43.175047Z,ocserve-tools,0.1.0,0,0,https://github.com/alderpath/ocserve,"bash, read, write, edit, glob, grep, webfetch, task, question, todowrite"
+2026-10-08T15:11:17.744839Z,ocserve-llm,0.1.0,0,0,https://github.com/alderpath/ocserve,Provider clients: openai-compatible first; stream assembly + fuzz corpus
+2026-10-08T15:11:37.714528Z,ocserve-mcp,0.1.0,0,0,https://github.com/alderpath/ocserve,MCP client: stdio + StreamableHTTP + legacy SSE; OAuth token store
+2026-10-08T15:12:28.158182Z,novomodelo-sddp,0.18.0,0,0,https://github.com/ons-ccee-epe/novomodelo,Stochastic Dual Dynamic Programming (SDDP) for hydrothermal dispatch and energy planning
+2026-10-08T15:12:58.736573Z,cctop-rmux-core,0.10.0,0,0,https://github.com/flolep2607/rmux,"cctop's fork of rmux-core. Core session, pane, layout, format, hook, and buffer model for the RMUX terminal multiplexer."
+2026-10-08T15:12:59.5694Z,cctop-rmux-pty,0.10.0,0,0,https://github.com/flolep2607/rmux,"cctop's fork of rmux-pty. PTY allocation, resize, and child-process control for the RMUX terminal multiplexer."
+2026-10-08T15:13:00.687443Z,cctop-rmux-web-crypto,0.10.0,0,0,https://github.com/flolep2607/rmux,"cctop's fork of rmux-web-crypto. rmux web-share E2EE core: X25519 + ML-KEM-768 hybrid sessions, ChaCha20-Poly1305 records, and WASM bindings."
+2026-10-08T15:13:02.156721Z,cctop-rmux-server,0.10.0,0,0,https://github.com/flolep2607/rmux,cctop's fork of rmux-server. Tokio daemon and request dispatcher for the RMUX terminal multiplexer.
+2026-10-08T15:13:04.38284Z,cctop-rmux-client,0.10.0,0,0,https://github.com/flolep2607/rmux,cctop's fork of rmux-client. Blocking local client and attach-mode plumbing for the RMUX terminal multiplexer.
+2026-10-08T15:13:33.672564Z,superfluid-worker,0.1.1,0,0,https://github.com/basecompute/superfluid,"Engine-worker skeleton: Link W server materializing serialized tick plans into the draft-7 ABI against an Engine (mock now, FFI later)"
+2026-10-08T15:13:36.252976Z,superfluid-adapter-kit,0.1.1,0,0,https://github.com/basecompute/superfluid,"What every superfluid runtime adapter is built from: the Runtime trait, the worker executable's main, the check report, installing a runtime from its own project, and the conformance checks each adap…"
+2026-10-08T15:13:53.664924Z,ocserve-plugin,0.1.0,0,0,https://github.com/alderpath/ocserve,opencode plugin host: hook dispatcher with full upstream name table
+2026-10-08T15:20:01.891814Z,probation,0.1.0,0,0,https://github.com/postfix/probation,A filtering proxy for npm and PyPI that withholds packages until they are eligible.
