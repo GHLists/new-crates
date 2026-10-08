@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T03:25:47.250946Z,bevy_mcp_harness,0.1.0,0,0,https://github.com/nchashch/bevy_mcp_harness,Localhost MCP + BRP tool surface for agent-driven QA playtesting of Bevy apps
+2026-10-08T03:28:21.792705Z,tansr-sdk,0.1.0,0,0,https://github.com/tansrai/tansr-rust,Native Rust client for Tansr Serve unified API
+2026-10-08T03:30:45.86888Z,hud,0.0.0,0,0,https://github.com/daviguides/hud,"Functional terminal UX for Rust: styled output, tables, panels, progress. Pre-alpha."
+2026-10-08T03:31:22.992482Z,rstsr-cpu-dlpack,0.10.0-alpha.1,0,0,https://github.com/RESTGroup/rstsr,"DLPack interchange for rstsr CPU tensors (pure Rust, no Python bindings)"
+2026-10-08T03:32:21.520455Z,tansr-sdk-demo,0.1.0,0,0,https://github.com/tansrai/tansr-rust,Native Rust examples for Tansr Serve
+2026-10-08T03:38:00.128952Z,krabka-sspi,0.23.0,0,0,https://github.com/krabka-io/sspi-rs,"Temporary fork of the sspi crate (Devolutions' Rust SSPI implementation) carrying MIT Kerberos interoperability fixes, published for krabka; it will be deprecated once an upstream sspi release contai…"
+2026-10-08T03:38:38.836962Z,roclint,0.0.1,0,0,https://github.com/roclint/roclint,The Rock-Solid Intent Linter for AI Coding Agents.
+2026-10-08T03:42:43.019494Z,helicoid-linalg,0.0.1,0,0,https://github.com/NoeFontana/helicoid,"Scalar model and fixed-size linear algebra under helicoid: no_std, no alloc, no unsafe."
+2026-10-08T03:42:55.55092Z,helicoid,0.0.1,0,0,https://github.com/NoeFontana/helicoid,"Lie groups for robotics perception with structured Jacobians, charts and geodesics: no_std, no alloc, no unsafe."
+2026-10-08T03:59:35.176706Z,configulator-cli,0.2.0,0,0,https://github.com/USA-RedDragon/configulator-rs,Emit JSON Schema and sample configs for configulator-rs #[derive(Config)] structs
+2026-10-08T04:00:32.655952Z,scafra-bootui,0.1.0-snapshot.1,0,0,https://github.com/Scafra/Scafra,Optional local Scafra operations dashboard
+2026-10-08T04:00:40.135386Z,scafra-cli,0.1.0-snapshot.1,0,0,https://github.com/Scafra/Scafra,Command-line tooling for Scafra applications
+2026-10-08T04:00:52.010714Z,scafra,0.1.0-snapshot.1,0,0,https://github.com/Scafra/Scafra,Batteries-included web application framework for Rust
+2026-10-08T04:01:50.576933Z,colgrep-agent,1.8.0,0,0,https://github.com/lightonai/next-plaid,Small read-only code-localization agent that searches a repository with colgrep
+2026-10-08T04:03:52.741619Z,sootmark-avlogs,0.1.1,0,0,https://github.com/Sootmark/avlogs,"Antivirus logs for forensics: McAfee access protection, Symantec scan logs, Sophos SAV.txt, Trend Micro virus detection and web reputation, read into detections and events."
+2026-10-08T04:09:03.472045Z,baukit-suite,0.10.0,0,0,https://github.com/PatrickKoss/baukit,"Peer linking, signed suite event delivery and transactional ingestion."
+2026-10-08T04:09:50.119678Z,ghostty-vt-sys,0.0.1,0,0,https://github.com/prabirshrestha/gpui-cn,Temporary bootstrap package for ghostty-vt-sys
+2026-10-08T04:09:58.651625Z,ghostty-vt,0.0.1,0,0,https://github.com/prabirshrestha/gpui-cn,Temporary bootstrap package for ghostty-vt
+2026-10-08T04:19:07.268942Z,visorsearch,0.0.0,0,0,,"Visor, an open-source search engine. Name reserved; the first release is in development."
