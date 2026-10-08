@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T01:22:20.908578Z,khive-fs,0.10.0,0,0,https://github.com/ohdearquant/khive,Descriptor-relative filesystem primitives and thread errno access shared by khive crates.
+2026-10-08T01:24:16.511941Z,lang-forge,1.0.0,0,0,https://github.com/jamesgober/lang-forge,"LexerSketch: forge a working language front end - lexer, parser, and lossless syntax tree - from a .lsf schematic."
+2026-10-08T01:26:14.197154Z,cerne,0.1.0,0,0,https://github.com/ecdesa-labs/cerne,Event Storming building blocks for Domain-Driven Design in Rust
+2026-10-08T01:26:47.256412Z,strudio,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,"Strudel CLI: MIDI conversion, audio playback, and TUI REPL"
+2026-10-08T01:26:54.015276Z,cerne-cli,0.1.0,0,0,https://github.com/ecdesa-labs/cerne,The cerne command: creates a project laid out like the Event Storming board and generates its post-its
+2026-10-08T01:27:35.264819Z,cursor-session,0.2.0,0,0,https://github.com/julio-romero/cursor-session-rs,"List, show, and export Cursor IDE and Agent CLI chat sessions"
+2026-10-08T01:28:09.082576Z,autumn-plugin-d3,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-d3,Autumn plugin: D3.js charts with Maud + htmx ergonomics.
+2026-10-08T01:33:57.668502Z,reverse-tunnel-e2e,0.1.0,0,0,,A vibe code of tunnel
+2026-10-08T01:36:17.637132Z,oas-rs-macros,0.1.0,0,0,https://github.com/sevlumen/rust-openapi,Derive macros for oas-rs
+2026-10-08T01:36:20.971226Z,oas-rs,0.1.0,0,0,https://github.com/sevlumen/rust-openapi,"A small, typed OpenAPI-first HTTP framework on Hyper and Tokio"
+2026-10-08T01:37:07.540381Z,gcr-top,1.0.0,0,0,https://github.com/struyf/gcr-top,A blazingly fast htop-like TUI monitor for Google Cloud Run services
+2026-10-08T01:38:36.27522Z,sootmark-tasks,0.1.0,0,0,https://github.com/Sootmark/tasks,"Windows scheduled tasks for forensics: the task XML files of System32\Tasks and the .job files of older Windows (what runs, as whom, when, hidden or not)."
+2026-10-08T01:38:59.545597Z,big-code-analysis-ast,2.3.0,0,0,https://github.com/dekobon/big-code-analysis,"Parse and classification layer behind big-code-analysis (internal, version-locked)"
+2026-10-08T01:39:49.572597Z,supatui,0.1.0,0,0,https://github.com/fusor-rs/supabase-tui,"A Supabase console for the terminal, written in HTML with Hypercmd"
+2026-10-08T01:40:29.887505Z,mil_lint,0.1.0,0,0,https://github.com/savageAZfck/mil_spec,Static ANE-placement analysis for MIL graphs: predicts per-op execution unit (ANE/GPU/CPU) before compile.
+2026-10-08T01:40:32.580328Z,mil_passes,0.1.1,0,0,https://github.com/savageAZfck/mil_spec,"Optimization passes over mil_spec Blocks: const dedup, folding, dead code, no-op elimination. Deterministic, in-order, diffable."
+2026-10-08T01:40:35.083728Z,mil_compile,0.1.0,0,0,https://github.com/savageAZfck/mil_spec,Compile .mlpackage specs to .mlmodelc: coremlc driver with structured errors; in-process CoreML.framework compile on macOS.
+2026-10-08T01:40:39.06176Z,mil_infer,0.1.0,0,0,https://github.com/savageAZfck/mil_spec,"Run compiled CoreML models in-process: MLModel predict via the Objective-C runtime, MLMultiArray marshalling, stateful KV. macOS only."
+2026-10-08T01:40:42.685283Z,mil_convert,0.1.0,0,0,https://github.com/savageAZfck/mil_spec,"safetensors → MIL: config-driven transformer graph generation (Qwen-class) into .mlpackage. No Python, no coremltools."
+2026-10-08T01:46:39.681781Z,mil_verify,0.1.0,0,0,https://github.com/savageAZfck/mil_spec,"Spec inspection, deterministic protobuf diff, and a conformance battery for MIL graphs — with planted controls."
+2026-10-08T01:46:41.77493Z,reverse-tunnel-core,0.1.0,0,0,,Transport-independent forwarding primitives for reverse tunnels.
+2026-10-08T01:47:01.366862Z,reverse-tunnel-relay,0.1.1,0,0,,TLS relay binary for authenticated reverse TCP tunnels.
+2026-10-08T01:47:15.781269Z,reverse-tunnel-client,0.1.1,0,0,,Client binary for establishing authenticated reverse TCP tunnels.
+2026-10-08T01:47:37.777078Z,p2p-node,0.1.1,0,0,,Direct libp2p TCP forwarding node for peer-to-peer tunnels.
+2026-10-08T01:48:09.976742Z,p2p-gdextension,0.1.1,0,0,,Godot extension providing libp2p peer-to-peer networking.
+2026-10-08T01:53:35.411962Z,ghist,0.20261007.3,0,0,https://github.com/shields/ghist,An opinionated git log replacement with a Unicode graph
+2026-10-08T01:55:51.809528Z,quadraui,0.1.0,0,0,https://github.com/JDonaghy/quadraui,"Cross-platform Rust UI toolkit: write one AppLogic and run it unmodified on TUI, GTK4 (Linux), macOS, and Windows backends"
+2026-10-08T01:56:50.395096Z,jj-diff,0.1.0,0,0,https://github.com/hewigovens/jayjay,"Fast diff engine with Histogram line diff, syntax highlighting, and context collapsing"
+2026-10-08T01:57:30.019016Z,mallow-sweepstake-client,0.2.0,0,0,https://github.com/mallow-labs/mallow-program-library,Codama-generated Rust client for the mallow_sweepstake Anchor program.
+2026-10-08T01:57:34.532879Z,milc,0.1.0,0,0,https://github.com/savageAZfck/mil_spec,"CLI for the mil_spec toolchain: convert, lint, inspect, diff, compile, verify — the whole MIL pipeline in one binary."
+2026-10-08T02:01:17.20676Z,yoagent-rutis,0.1.0,0,0,https://github.com/yologdev/yoagent,"Extend yoagent agents at runtime with rutis plugins, as one yoagent Extension: tools, tool policy, output filters, turn notes, input checks, verifiers and events"
+2026-10-08T02:02:36.291843Z,sootmark-weblogs,0.1.0,0,0,https://github.com/Sootmark/weblogs,"Web server access logs for forensics: Apache and nginx (common, combined, virtual host), Jira, Confluence and Bitbucket, read into requests with their client, user, time and status."
+2026-10-08T02:07:45.330932Z,vtty,0.0.0,0,0,,VT
+2026-10-08T02:14:08.30284Z,smtlite,0.1.0,0,0,https://github.com/Sing-Security/smtlite,"A small, pure-Rust QF_BV SMT solver: bitvector expressions bit-blasted to CNF and solved by a self-contained DPLL core."
+2026-10-08T02:16:44.421293Z,cordial-protocol,0.1.0,0,0,https://github.com/luohoa97/cordial,"The wire protocol between the Cordial launcher and a Roblox runtime: JSON-line framing, handshake, typed messages, runtime manifest and conformance vectors"
+2026-10-08T02:20:22.959708Z,sootmark-cloudlogs,0.1.0,0,0,https://github.com/Sootmark/cloudlogs,"Cloud and SaaS audit logs for forensics: AWS CloudTrail, the Microsoft 365 unified audit log, Entra ID sign-ins and audits, Azure activity, Google Cloud audit logs; as exported (JSON, JSON lines, CSV…"
