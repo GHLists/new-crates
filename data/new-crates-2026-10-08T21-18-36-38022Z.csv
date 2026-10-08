@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T20:23:38.260464Z,omwei-iot,0.1.0,0,0,https://github.com/Equinibrium/omwei_iot,Semantic interoperability primitives for heterogeneous IoT systems
+2026-10-08T20:24:12.873746Z,ring_factory,0.1.0,0,0,https://github.com/Wandalen/ring,"Ring Factory is a lock-free write path that lets many concurrent producer threads submit work to a single ordered consumer without contending on a shared lock, eliminating the lock-convoy jitter that…"
+2026-10-08T20:24:37.654331Z,bsv-middleware-core,0.1.0,0,0,https://github.com/Calhooon/bsv-middleware-cloudflare,Runtime-free BSV BRC-103/104 authentication and BRC-29 payment verification: the pure rules behind bsv-middleware-cloudflare
+2026-10-08T20:26:34.593763Z,nblean,0.2.0,0,0,https://github.com/kaanrkaraman/nblean,"Token-lean Jupyter notebook access for coding agents: outlines, clipped outputs, images as files, a persistent kernel."
+2026-10-08T20:27:22.225412Z,crush-caison,0.4.0,0,0,https://github.com/nixpt/crush-ast,Crush VM host capability for CAISON (formerly CSON) parsing — the format types/parser/printer now live in the standalone `caison` crate; this crate keeps only the `cson.parse` capability and re-expor…
+2026-10-08T20:27:51.858443Z,authorizenet-derive,0.1.0,0,0,https://github.com/lendsimple/authorizenet-rs,Derive macros for the authorizenet crate (XML mapping).
+2026-10-08T20:27:53.561529Z,authorizenet,0.1.0,0,0,https://github.com/lendsimple/authorizenet-rs,A typed Authorize.Net API client with async and blocking support.
+2026-10-08T20:34:33.593618Z,plast,0.1.0,0,0,https://github.com/jsonmen/plast,A high-performance data pipeline designed to pretokenize datasets and stream them directly to your training loop with zero-copy memory mapping.
+2026-10-08T20:40:42.424704Z,vim-digraph,0.1.0,0,0,https://github.com/jeffs/vim-digraph,Library and CLI for expanding Vim digraphs to Unicode characters
+2026-10-08T20:40:42.713117Z,crush-pkg,0.4.0,0,0,https://github.com/nixpt/crush-ast,Crush language package manager — cargo-like build tool for Crush programs
+2026-10-08T20:42:44.438902Z,git-identity-manager,1.2.1,0,0,https://github.com/Dxsk/git-identity-manager,Switch between Git identities per repository
+2026-10-08T20:45:31.917479Z,kal-fs-watch,0.1.0,0,0,https://github.com/0k/kal-fs-watch,"Watch one file for content changes, surviving editor atomic saves, with a trailing debounce"
+2026-10-08T20:45:59.209893Z,kal-sse,0.1.0,0,0,https://github.com/0k/kal-sse,Resilient Server-Sent Events: snapshot + cursor data channels with gap-free reconnect
+2026-10-08T20:47:23.585522Z,acme-proxy-core,0.6.0,0,0,https://github.com/acme-proxy/acme-proxy,"Configuration, ACME wire types and shared vocabulary for acme-proxy (internal crate, no semver promise)"
+2026-10-08T20:47:25.370269Z,acme-proxy-net,0.6.0,0,0,https://github.com/acme-proxy/acme-proxy,"DNS, outbound HTTP, proxies, TLS, listeners and the ACME challenge validators of acme-proxy (internal crate, no semver promise)"
+2026-10-08T20:47:26.068245Z,acme-proxy-store,0.6.0,0,0,https://github.com/acme-proxy/acme-proxy,"The SQLite storage layer of acme-proxy, one module per table (internal crate, no semver promise)"
+2026-10-08T20:47:28.17919Z,acme-proxy-jobs,0.6.0,0,0,https://github.com/acme-proxy/acme-proxy,"The durable job queue, notifications, audit writer and metrics of acme-proxy (internal crate, no semver promise)"
+2026-10-08T20:47:29.147886Z,acme-proxy-policy,0.6.0,0,0,https://github.com/acme-proxy/acme-proxy,"The access policy engine and IPAM inventories of acme-proxy (internal crate, no semver promise)"
+2026-10-08T20:53:34.310563Z,aphrody-bun-macro,0.1.0,0,0,https://github.com/aphrody-labs/bun,Proc macros for writing Bun native bundler plugins in Rust (Aphrody fork of oven-sh/bun's bun-macro).
+2026-10-08T20:53:36.938675Z,aphrody-bun-native-plugin,0.2.0,0,0,https://github.com/aphrody-labs/bun,Rust SDK for writing native bundler plugins for Bun (Aphrody fork of oven-sh/bun's bun-native-plugin).
+2026-10-08T20:58:41.340579Z,acme-proxy-signer,0.6.0,0,0,https://github.com/acme-proxy/acme-proxy,"The signing backends of acme-proxy: local CA, relay to an upstream ACME server, script (internal crate, no semver promise)"
+2026-10-08T20:59:04.741864Z,rp-supabase-functions,0.1.0,0,0,https://github.com/roberts-pumpurs/supabase-rs-rp,Client for invoking Supabase Edge Functions
+2026-10-08T20:59:21.793669Z,rp-supabase-storage,0.1.0,0,0,https://github.com/roberts-pumpurs/supabase-rs-rp,"Async client for the Supabase Storage API: buckets, objects, and signed URLs"
+2026-10-08T20:59:29.554647Z,supabase-rp,0.1.0,0,0,https://github.com/roberts-pumpurs/supabase-rs-rp,"One entry point for Supabase from Rust: REST, auth, storage, functions, and realtime"
+2026-10-08T21:00:46.584247Z,nullroute,0.0.0,0,0,https://github.com/benmckibben/nullroute,"Name reserved: network isolation and domain filtering sandbox for Linux, under development. This placeholder has no functionality."
+2026-10-08T21:00:51.236376Z,cloakenv,0.0.0,0,0,https://github.com/benmckibben/cloakenv,"Name reserved: encrypted local secret vault and process environment injector, under development. This placeholder has no functionality."
+2026-10-08T21:01:46.880008Z,ppmd-turbo,0.0.0,0,0,https://github.com/scryer-media/ppmd-turbo,"PPMd variant H (Ppmd7) compression and decompression, bit-exact with 7-Zip and RAR, performance-first"
+2026-10-08T21:07:13.699765Z,acme-proxy-protocol,0.6.0,0,0,https://github.com/acme-proxy/acme-proxy,"The ACME (RFC 8555) services, extractors, handlers and routers of acme-proxy (internal crate, no semver promise)"
+2026-10-08T21:08:29.680449Z,bitpac,0.0.1,0,0,https://github.com/sumeeth05/dgui,🦀 BitPAC is an inference runtime BitLinear models.
+2026-10-08T21:16:52.553958Z,tachikoma,0.1.0,0,0,,Space Packet Library
+2026-10-08T21:18:14.125437Z,acme-proxy-admin,0.6.0,0,0,https://github.com/acme-proxy/acme-proxy,"The operation layer and web admin panel of acme-proxy (internal crate, no semver promise)"
