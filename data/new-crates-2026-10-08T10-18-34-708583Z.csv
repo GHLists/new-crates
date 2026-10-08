@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T09:18:57.666433Z,curveforge-bounds,1.0.0,0,0,https://gitlab.com/etrovub/smartnets/glycos/curveforge,"Typenum bound expansion for CurveForge: the opt!, reduce! and #[bounded] macros"
+2026-10-08T09:18:58.42798Z,curveforge-dsl,1.0.0,0,0,https://gitlab.com/etrovub/smartnets/glycos/curveforge,"The parsing front end of the CurveForge model DSL: its grammar, its syntax tree, and its syntax errors"
+2026-10-08T09:19:02.804826Z,curveforge-ir,1.0.0,0,0,https://gitlab.com/etrovub/smartnets/glycos/curveforge,"The resolved IR of the CurveForge model DSL: its types, its methods, and the resolver that produces it"
+2026-10-08T09:19:05.151391Z,curveforge-graph,1.0.0,0,0,https://gitlab.com/etrovub/smartnets/glycos/curveforge,"The graph stage of the CurveForge pipeline: the function graph, its lowering from the resolved IR, and the passes that rewrite it"
+2026-10-08T09:19:07.637424Z,curveforge-codegen,1.0.0,0,0,https://gitlab.com/etrovub/smartnets/glycos/curveforge,"The Rust back end of the CurveForge pipeline: emits a finite field, a curve model, or an elliptic curve from its resolved form"
+2026-10-08T09:23:06.836732Z,nolgia,0.1.0,0,0,,"Official Rust SDK for the Nolgia API: image, video, audio and agent generation, generated from the OpenAPI spec"
+2026-10-08T09:23:40.323571Z,ruststream-sqlx-dialect,0.7.0,0,0,https://github.com/powersemmi/ruststream-sqlx,SQL text generation for ruststream-sqlx: the statements its procedural macros and its runtime build for each database.
+2026-10-08T09:23:45.567118Z,fk-assets,0.1.0,0,0,https://github.com/Dastfox/feuclide,"Mesh loading, embedding into curved spaces, geodesic refinement"
+2026-10-08T09:23:45.881257Z,ruststream-sqlx-macros,0.7.0,0,0,https://github.com/powersemmi/ruststream-sqlx,"Procedural macros for ruststream-sqlx, the SQL database crate of the RustStream messaging framework."
+2026-10-08T09:23:52.183855Z,metrics-summary-sink-clickhouse,0.1.0-alpha,0,0,https://github.com/SF-Zhou/metrics-exporter-summary,"Bounded, confirmation-aware ClickHouse transport for metrics summaries"
+2026-10-08T09:23:52.519404Z,ruststream-sqlx,0.7.0,0,0,https://github.com/powersemmi/ruststream-sqlx,"SQL databases for the RustStream messaging framework through sqlx: a transactional outbox over any RustStream broker and task queues in Postgres, MySQL/MariaDB and SQLite tables."
+2026-10-08T09:25:05.045999Z,sootmark-office,0.1.0,0,0,https://github.com/Sootmark/office,"Office document metadata for forensics: authors, last saved by, created, saved and printed times, edit time, counts, company and template, from 97-2003 compound files (OLE property sets) and Office O…"
+2026-10-08T09:27:42.001196Z,minisofh,0.3.0,0,0,https://github.com/cryptopatrick/minifix,A bare essentials library for Financial Information Exchange (FIX)
+2026-10-08T09:31:30.101616Z,inplace-init-macros,0.1.0,0,0,https://github.com/shaogme/inplace-init,Derive and procedural macros for in-place and pinned Rust initialization.
+2026-10-08T09:32:03.385961Z,gix-parallel,0.50.0,0,0,https://github.com/GitoxideLabs/gitoxide,Serial and parallel computation helpers and shared ownership primitives for gitoxide
+2026-10-08T09:32:31.952211Z,comfy-table-inline,8.0.2,0,0,https://github.com/AnnoDomine/comfy-table,A fork of comfy-table by Arne Beer adding inline table support.
+2026-10-08T09:33:13.862221Z,rustclamp-messaging,0.0.0,0,0,https://github.com/rustclamp/messaging,Reserved for the RustClamp framework. Not yet released.
+2026-10-08T09:33:16.254074Z,rustclamp-scheduler,0.0.0,0,0,https://github.com/rustclamp/scheduler,Reserved for the RustClamp framework. Not yet released.
+2026-10-08T09:33:18.647855Z,rustclamp-runtime,0.0.0,0,0,https://github.com/rustclamp/runtime,Reserved for the RustClamp framework. Not yet released.
+2026-10-08T09:33:20.998297Z,rustclamp-postgres,0.0.0,0,0,https://github.com/rustclamp/postgres,Reserved for the RustClamp framework. Not yet released.
+2026-10-08T09:35:48.151459Z,sootmark-indx,0.1.0,0,0,https://github.com/Sootmark/indx,"NTFS directory indexes ($I30 INDX records) for forensics: every entry with its $FILE_NAME times and sizes, and the deleted and renamed entries left in index slack."
+2026-10-08T09:36:26.499588Z,mcp-apps-server-macros,0.1.0-alpha.1,0,0,https://github.com/rthidfrev/mcp-apps-server,Optional resource and application routing macros for MCP Apps Server
+2026-10-08T09:38:04.592781Z,cargo-perspective,0.1.0,0,0,https://github.com/cryptopatrick/cargo-perspective,A utility that graphically shows the crate dependency distribution within a project.
+2026-10-08T09:38:12.278123Z,ic-auth-protocol-types,0.1.2,0,0,https://github.com/dragginzgame/ic-auth,Passive application authentication protocol contracts
+2026-10-08T09:38:16.322034Z,ic-auth,0.1.2,0,0,https://github.com/dragginzgame/ic-auth,Canonical application authentication protocol encoding
+2026-10-08T09:39:09.501751Z,mcp-apps-server,0.1.0-alpha.1,0,0,https://github.com/rthidfrev/mcp-apps-server,Typed MCP Apps registration and server integration for rmcp
+2026-10-08T09:39:26.591766Z,lazybrew,0.1.0,0,0,https://github.com/DagmawiKK/lazybrew,"A lazygit-inspired, btop-styled terminal UI for Homebrew, written in Rust with ratatui"
+2026-10-08T09:41:56.183554Z,metrics-summary-collector,0.1.0-alpha,0,0,https://github.com/SF-Zhou/metrics-exporter-summary,Bounded metrics summary collector with HTTP and TCP ingestion
+2026-10-08T09:42:26.288219Z,kit-forecast,0.1.0,0,0,,"Native Rust port of KiT, a flow-matching diffusion transformer that forecasts candlestick (K-line) time series"
+2026-10-08T09:43:46.331196Z,inplace-init,0.1.0,0,0,https://github.com/shaogme/inplace-init,"In-place initialization for Rust values, including pinned and field-by-field construction."
+2026-10-08T09:46:08.753893Z,sootmark-messengers,0.1.0,0,0,https://github.com/Sootmark/messengers,"Messaging apps' databases for forensics: Skype's main.db, with its accounts, contacts, chats and messages, calls and their members, SMS and file transfers."
+2026-10-08T09:48:21.39741Z,cargo-rush,0.0.2,0,0,https://github.com/cryptopatrick/cargo-rush,cargo run whatever is on the operating system clipboard.
+2026-10-08T09:48:42.733492Z,wslshim,0.1.0,0,0,https://github.com/Andrew-McCall/wslshim,"Tiny Windows exe that runs the WSL command it's named after, translating Windows drive paths in the arguments"
+2026-10-08T09:56:45.169162Z,sootmark-cloudsync,0.1.0,0,0,https://github.com/Sootmark/cloudsync,"Cloud sync clients' records for forensics: Dropbox's sync history, Google Drive's snapshot of cloud and local files with their paths, and its sync log."
+2026-10-08T09:58:42.292665Z,cargo-x402,0.5.1,0,0,https://github.com/cryptopatrick/cargo-x402,Scaffold x402 projects from templates.
+2026-10-08T10:00:12.187894Z,feuclide,0.1.0,0,0,https://github.com/Dastfox/feuclide,A game engine whose core does not assume Euclidean geometry
+2026-10-08T10:03:25.033685Z,curveforge-pipeline,1.0.0,0,0,https://gitlab.com/etrovub/smartnets/glycos/curveforge,"The CurveForge pipeline: the stages a definition passes through, and the composition of them"
+2026-10-08T10:04:15.364482Z,rtsp,0.1.0,0,0,https://github.com/airtame/rtsp,"Asynchronous RTSP 1.0/2.0 server and client connections, with request routing"
+2026-10-08T10:05:26.429853Z,krabka-macros,1.0.0,0,0,https://github.com/krabka-io/krabka-broker,Derive macros that let one declaration in the broker stand for code it would otherwise repeat
+2026-10-08T10:05:29.131442Z,krabka-verified,1.0.0,0,0,https://github.com/krabka-io/krabka-broker,Formally verified pure kernels (Creusot) shared by Krabka crates
+2026-10-08T10:05:32.27336Z,krabka-log,1.0.0,0,0,https://github.com/krabka-io/krabka-broker,Byte-compatible reader/writer for Apache Kafka's on-disk log format
+2026-10-08T10:06:44.227431Z,toride-diagnostic-types,0.1.0,0,0,https://github.com/freeoxide/toride,"Shared diagnostic types: Severity, Finding, DoctorReport, and render helpers"
+2026-10-08T10:06:47.053906Z,toride-fs,0.1.0,0,0,https://github.com/freeoxide/toride,"Shared filesystem utilities: atomic writes, locking, path expansion"
+2026-10-08T10:06:50.369491Z,toride-runner,0.1.0,0,0,https://github.com/freeoxide/toride,"Shared command runner trait, implementations, and utilities"
+2026-10-08T10:06:54.342947Z,toride-installer,0.1.0,0,0,https://github.com/freeoxide/toride,"Tool-agnostic release-artifact installer framework (pure Rust, reqwest-based). Mise is the wired concrete tool."
+2026-10-08T10:07:02.972021Z,toride-registry,0.1.0,0,0,https://github.com/freeoxide/toride,"Normalizes external package registries (Homebrew, Flathub, AppStream/DEP-11, Repology) into a single `App` model behind per-source adapters."
+2026-10-08T10:08:57.941664Z,curfew,0.0.5,0,0,https://github.com/cryptopatrick/curfew,"A deadline-aware fork-join model where multiple tasks run in parallel, but only those that finish before a specified absolute clock time are joined and their results collected."

@@ -8,68 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 09:18 UTC
+## Latest list — 2026-10-08 10:18 UTC
 
-New crates published between 2026-10-08 08:18 UTC and 2026-10-08 09:18 UTC.
+New crates published between 2026-10-08 09:18 UTC and 2026-10-08 10:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-08T09-18-40-662365Z.csv)
+[Full CSV](data/new-crates-2026-10-08T10-18-34-708583Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-08 08:19:27 | [upgradelab-runner](https://crates.io/crates/upgradelab-runner) | 0.1.0 | 0 | Executable Soroban migration rehearsal: runs the compiled old and new WASM in t… |
-| 2026-10-08 08:20:02 | [rateguard-proto](https://crates.io/crates/rateguard-proto) | 0.1.0 | 0 | The wire format of rateguard: SWIM membership and demand reports over UDP |
-| 2026-10-08 08:20:17 | [fk-geometry-spherical](https://crates.io/crates/fk-geometry-spherical) | 0.1.0 | 0 | Spheres (S², S³) embedded in R³ and R⁴ |
-| 2026-10-08 08:20:26 | [alhazen-core](https://crates.io/crates/alhazen-core) | 0.2.0 | 0 | Native media engine for Rust: plays video and audio from files and HTTP, with p… |
-| 2026-10-08 08:22:21 | [rateguard-core](https://crates.io/crates/rateguard-core) | 0.1.0 | 0 | The sans-I/O core of rateguard: distributed rate limiting as pure state machines |
-| 2026-10-08 08:22:39 | [rateguard](https://crates.io/crates/rateguard) | 0.1.0 | 0 | Distributed rate limiting without a datastore: one global limit, enforced local… |
-| 2026-10-08 08:25:47 | [sootmark-mlocate](https://crates.io/crates/sootmark-mlocate) | 0.1.0 | 0 | The locate database (mlocate.db, updatedb) for forensics: every directory index… |
-| 2026-10-08 08:26:05 | [agentsmith](https://crates.io/crates/agentsmith) | 0.1.1 | 0 | AI Agent forging utilities. |
-| 2026-10-08 08:26:17 | [instapaper2](https://crates.io/crates/instapaper2) | 0.0.0 | 0 | Instapaper API v2 client |
-| 2026-10-08 08:27:30 | [martensite-sanitize](https://crates.io/crates/martensite-sanitize) | 0.21.0 | 0 | Configurable input sanitization engine — Unicode hygiene, normalization, and co… |
-| 2026-10-08 08:28:43 | [iqa-mcp](https://crates.io/crates/iqa-mcp) | 0.0.1 | 0 | Launcher for the IQA attestation MCP server. Requires Python iqa-org >= 1.3.1.… |
-| 2026-10-08 08:28:49 | [sootmark-cups](https://crates.io/crates/sootmark-cups) | 0.1.0 | 0 | CUPS print jobs for forensics: the IPP control files in the spool (/var/spool/c… |
-| 2026-10-08 08:31:04 | [fk-app](https://crates.io/crates/fk-app) | 0.1.0 | 0 | Application builder and main loop |
-| 2026-10-08 08:32:02 | [martensite-mcp](https://crates.io/crates/martensite-mcp) | 0.21.0 | 0 | First-party Model Context Protocol (MCP) server for AI-assisted Martensite deve… |
-| 2026-10-08 08:35:50 | [alhazen-gpui](https://crates.io/crates/alhazen-gpui) | 0.2.0 | 0 | Video player for GPUI apps, built on the alhazen-core media engine |
-| 2026-10-08 08:36:10 | [sootmark-evt](https://crates.io/crates/sootmark-evt) | 0.1.0 | 0 | Windows NT to XP and Server 2003 event logs (.evt) for forensics: every record… |
-| 2026-10-08 08:36:22 | [harel](https://crates.io/crates/harel) | 0.1.0 | 0 | Harel Statecharts Parser. |
-| 2026-10-08 08:37:39 | [sootmark-filehistory](https://crates.io/crates/sootmark-filehistory) | 0.1.0 | 0 | Windows File History catalogs (Catalog1.edb, Catalog2.edb) for forensics: every… |
-| 2026-10-08 08:38:31 | [libk1](https://crates.io/crates/libk1) | 0.1.0 | 0 | Native Rust Booster K1 driver |
-| 2026-10-08 08:39:08 | [sootmark-notifications](https://crates.io/crates/sootmark-notifications) | 0.1.0 | 0 | Windows 10/11 notifications (wpndatabase.db) for forensics: toasts, tiles and b… |
-| 2026-10-08 08:40:35 | [siglus_ss_decompiler](https://crates.io/crates/siglus_ss_decompiler) | 0.1.0 | 0 | SiglusEngine scene script (.ss) decompiler |
-| 2026-10-08 08:40:54 | [siglus_x_viewer](https://crates.io/crates/siglus_x_viewer) | 0.1.0 | 0 | Standalone DirectX .x 3D model viewer application |
-| 2026-10-08 08:41:13 | [reallive](https://crates.io/crates/reallive) | 0.1.0 | 0 | RealLive Visual Novel engine reimplementation in Rust |
-| 2026-10-08 08:41:32 | [siglus_scene_vm](https://crates.io/crates/siglus_scene_vm) | 1.0.0 | 0 | SiglusEngine Visual Novel script virtual machine and runtime |
-| 2026-10-08 08:41:34 | [fk-scene](https://crates.io/crates/fk-scene) | 0.1.0 | 0 | ECS components and schedules: poses as isometries, hierarchy, cameras |
-| 2026-10-08 08:41:34 | [sootmark-onedrive](https://crates.io/crates/sootmark-onedrive) | 0.1.0 | 0 | OneDrive and SkyDrive logs for forensics: the sync engine's binary logs (.odl,… |
-| 2026-10-08 08:41:40 | [fk-audio](https://crates.io/crates/fk-audio) | 0.1.0 | 0 | Sound: decoded clips played as voices whose gain and rate glide, silent without… |
-| 2026-10-08 08:41:49 | [game_launcher](https://crates.io/crates/game_launcher) | 0.1.0 | 0 | Shared launcher layer for the app builds: engine detection, titles, covers and… |
-| 2026-10-08 08:43:35 | [rustclamp](https://crates.io/crates/rustclamp) | 0.0.0 | 0 | Reserved for the RustClamp framework. Not yet released. |
-| 2026-10-08 08:43:36 | [rustclamp-core](https://crates.io/crates/rustclamp-core) | 0.0.0 | 0 | Reserved for the RustClamp framework. Not yet released. |
-| 2026-10-08 08:43:38 | [rustclamp-kernel](https://crates.io/crates/rustclamp-kernel) | 0.0.0 | 0 | Reserved for the RustClamp framework. Not yet released. |
-| 2026-10-08 08:43:41 | [rustclamp-http](https://crates.io/crates/rustclamp-http) | 0.0.0 | 0 | Reserved for the RustClamp framework. Not yet released. |
-| 2026-10-08 08:43:43 | [rustclamp-worker](https://crates.io/crates/rustclamp-worker) | 0.0.0 | 0 | Reserved for the RustClamp framework. Not yet released. |
-| 2026-10-08 08:45:18 | [sootmark-msiecf](https://crates.io/crates/sootmark-msiecf) | 0.1.0 | 0 | Internet Explorer 4 to 9 cache and history files (index.dat) for forensics: cac… |
-| 2026-10-08 08:45:33 | [qrant](https://crates.io/crates/qrant) | 0.1.0 | 0 | QCD parameter evolution and decoupling |
-| 2026-10-08 08:46:38 | [heuristics](https://crates.io/crates/heuristics) | 0.1.0 | 0 | Rules of thumb to improve Rust code. |
-| 2026-10-08 08:48:39 | [siglus_g00_extract](https://crates.io/crates/siglus_g00_extract) | 0.1.0 | 0 | SiglusEngine .g00 image extraction utility |
-| 2026-10-08 08:51:25 | [openpap](https://crates.io/crates/openpap) | 0.1.1 | 0 | openpap |
-| 2026-10-08 08:52:12 | [fk-quotient](https://crates.io/crates/fk-quotient) | 0.1.0 | 0 | Quotient and portal spaces: deck groups, fundamental domains, holonomy |
-| 2026-10-08 08:55:35 | [sootmark-pe](https://crates.io/crates/sootmark-pe) | 0.1.0 | 0 | Windows Portable Executable (PE) metadata for forensics: compile time, type, se… |
-| 2026-10-08 08:56:51 | [oaa](https://crates.io/crates/oaa) | 0.0.5 | 0 | Framework for Agents in Distributed Environments |
-| 2026-10-08 08:56:55 | [tree-sitter-golang](https://crates.io/crates/tree-sitter-golang) | 1.27.0 | 0 | Go grammar for tree-sitter |
-| 2026-10-08 09:02:41 | [fk-physics](https://crates.io/crates/fk-physics) | 0.1.0 | 0 | Curved-space physics: geodesic motion, collision, rigid bodies on Lie groups |
-| 2026-10-08 09:05:57 | [sootmark-applogs](https://crates.io/crates/sootmark-applogs) | 0.1.0 | 0 | Application text logs for forensics: vsftpd, PostgreSQL, Debian popularity-cont… |
-| 2026-10-08 09:07:06 | [rigour](https://crates.io/crates/rigour) | 0.1.0 | 0 | Agent Engineering for Automotive Systems |
-| 2026-10-08 09:13:12 | [fk-render](https://crates.io/crates/fk-render) | 0.1.0 | 0 | wgpu renderer: metric-aware rasterization and geodesic ray marching |
-| 2026-10-08 09:15:21 | [metrics-summary-core](https://crates.io/crates/metrics-summary-core) | 0.1.0-alpha | 0 | Shared models and sink contracts for bounded metrics summaries |
-| 2026-10-08 09:15:42 | [metrics-summary-protocol](https://crates.io/crates/metrics-summary-protocol) | 0.1.0-alpha | 0 | Versioned, bounded MessagePack wire protocol for metrics summaries |
-| 2026-10-08 09:16:21 | [env-lookup](https://crates.io/crates/env-lookup) | 0.1.0 | 0 | cli tool to look up env vars, possibly from different sources. Used for templat… |
-| 2026-10-08 09:16:31 | [metrics-summary-sink-memory](https://crates.io/crates/metrics-summary-sink-memory) | 0.1.0-alpha | 0 | Bounded, atomically published metric snapshot history |
-| 2026-10-08 09:16:32 | [sootmark-spotlight](https://crates.io/crates/sootmark-spotlight) | 0.1.0 | 0 | macOS Spotlight store databases (store.db, .store.db) for forensics: every file… |
-| 2026-10-08 09:17:15 | [metrics-exporter-summary](https://crates.io/crates/metrics-exporter-summary) | 0.1.0-alpha | 0 | A metrics backend that exports compact statistical summaries to pluggable stora… |
-| 2026-10-08 09:17:25 | [xfiles](https://crates.io/crates/xfiles) | 0.4.5 | 0 | Persistence of data using X, formerly known as Twitter, as a public filesystem. |
-| 2026-10-08 09:18:14 | [metrics-summary-sink-remote](https://crates.io/crates/metrics-summary-sink-remote) | 0.1.0-alpha | 0 | Bounded HTTP and TCP transport for metrics summaries |
+| 2026-10-08 09:18:57 | [curveforge-bounds](https://crates.io/crates/curveforge-bounds) | 1.0.0 | 0 | Typenum bound expansion for CurveForge: the opt!, reduce! and #[bounded] macros |
+| 2026-10-08 09:18:58 | [curveforge-dsl](https://crates.io/crates/curveforge-dsl) | 1.0.0 | 0 | The parsing front end of the CurveForge model DSL: its grammar, its syntax tree… |
+| 2026-10-08 09:19:02 | [curveforge-ir](https://crates.io/crates/curveforge-ir) | 1.0.0 | 0 | The resolved IR of the CurveForge model DSL: its types, its methods, and the re… |
+| 2026-10-08 09:19:05 | [curveforge-graph](https://crates.io/crates/curveforge-graph) | 1.0.0 | 0 | The graph stage of the CurveForge pipeline: the function graph, its lowering fr… |
+| 2026-10-08 09:19:07 | [curveforge-codegen](https://crates.io/crates/curveforge-codegen) | 1.0.0 | 0 | The Rust back end of the CurveForge pipeline: emits a finite field, a curve mod… |
+| 2026-10-08 09:23:06 | [nolgia](https://crates.io/crates/nolgia) | 0.1.0 | 0 | Official Rust SDK for the Nolgia API: image, video, audio and agent generation,… |
+| 2026-10-08 09:23:40 | [ruststream-sqlx-dialect](https://crates.io/crates/ruststream-sqlx-dialect) | 0.7.0 | 0 | SQL text generation for ruststream-sqlx: the statements its procedural macros a… |
+| 2026-10-08 09:23:45 | [fk-assets](https://crates.io/crates/fk-assets) | 0.1.0 | 0 | Mesh loading, embedding into curved spaces, geodesic refinement |
+| 2026-10-08 09:23:45 | [ruststream-sqlx-macros](https://crates.io/crates/ruststream-sqlx-macros) | 0.7.0 | 0 | Procedural macros for ruststream-sqlx, the SQL database crate of the RustStream… |
+| 2026-10-08 09:23:52 | [metrics-summary-sink-clickhouse](https://crates.io/crates/metrics-summary-sink-clickhouse) | 0.1.0-alpha | 0 | Bounded, confirmation-aware ClickHouse transport for metrics summaries |
+| 2026-10-08 09:23:52 | [ruststream-sqlx](https://crates.io/crates/ruststream-sqlx) | 0.7.0 | 0 | SQL databases for the RustStream messaging framework through sqlx: a transactio… |
+| 2026-10-08 09:25:05 | [sootmark-office](https://crates.io/crates/sootmark-office) | 0.1.0 | 0 | Office document metadata for forensics: authors, last saved by, created, saved… |
+| 2026-10-08 09:27:42 | [minisofh](https://crates.io/crates/minisofh) | 0.3.0 | 0 | A bare essentials library for Financial Information Exchange (FIX) |
+| 2026-10-08 09:31:30 | [inplace-init-macros](https://crates.io/crates/inplace-init-macros) | 0.1.0 | 0 | Derive and procedural macros for in-place and pinned Rust initialization. |
+| 2026-10-08 09:32:03 | [gix-parallel](https://crates.io/crates/gix-parallel) | 0.50.0 | 0 | Serial and parallel computation helpers and shared ownership primitives for git… |
+| 2026-10-08 09:32:31 | [comfy-table-inline](https://crates.io/crates/comfy-table-inline) | 8.0.2 | 0 | A fork of comfy-table by Arne Beer adding inline table support. |
+| 2026-10-08 09:33:13 | [rustclamp-messaging](https://crates.io/crates/rustclamp-messaging) | 0.0.0 | 0 | Reserved for the RustClamp framework. Not yet released. |
+| 2026-10-08 09:33:16 | [rustclamp-scheduler](https://crates.io/crates/rustclamp-scheduler) | 0.0.0 | 0 | Reserved for the RustClamp framework. Not yet released. |
+| 2026-10-08 09:33:18 | [rustclamp-runtime](https://crates.io/crates/rustclamp-runtime) | 0.0.0 | 0 | Reserved for the RustClamp framework. Not yet released. |
+| 2026-10-08 09:33:20 | [rustclamp-postgres](https://crates.io/crates/rustclamp-postgres) | 0.0.0 | 0 | Reserved for the RustClamp framework. Not yet released. |
+| 2026-10-08 09:35:48 | [sootmark-indx](https://crates.io/crates/sootmark-indx) | 0.1.0 | 0 | NTFS directory indexes ($I30 INDX records) for forensics: every entry with its… |
+| 2026-10-08 09:36:26 | [mcp-apps-server-macros](https://crates.io/crates/mcp-apps-server-macros) | 0.1.0-alpha.1 | 0 | Optional resource and application routing macros for MCP Apps Server |
+| 2026-10-08 09:38:04 | [cargo-perspective](https://crates.io/crates/cargo-perspective) | 0.1.0 | 0 | A utility that graphically shows the crate dependency distribution within a pro… |
+| 2026-10-08 09:38:12 | [ic-auth-protocol-types](https://crates.io/crates/ic-auth-protocol-types) | 0.1.2 | 0 | Passive application authentication protocol contracts |
+| 2026-10-08 09:38:16 | [ic-auth](https://crates.io/crates/ic-auth) | 0.1.2 | 0 | Canonical application authentication protocol encoding |
+| 2026-10-08 09:39:09 | [mcp-apps-server](https://crates.io/crates/mcp-apps-server) | 0.1.0-alpha.1 | 0 | Typed MCP Apps registration and server integration for rmcp |
+| 2026-10-08 09:39:26 | [lazybrew](https://crates.io/crates/lazybrew) | 0.1.0 | 0 | A lazygit-inspired, btop-styled terminal UI for Homebrew, written in Rust with… |
+| 2026-10-08 09:41:56 | [metrics-summary-collector](https://crates.io/crates/metrics-summary-collector) | 0.1.0-alpha | 0 | Bounded metrics summary collector with HTTP and TCP ingestion |
+| 2026-10-08 09:42:26 | [kit-forecast](https://crates.io/crates/kit-forecast) | 0.1.0 | 0 | Native Rust port of KiT, a flow-matching diffusion transformer that forecasts c… |
+| 2026-10-08 09:43:46 | [inplace-init](https://crates.io/crates/inplace-init) | 0.1.0 | 0 | In-place initialization for Rust values, including pinned and field-by-field co… |
+| 2026-10-08 09:46:08 | [sootmark-messengers](https://crates.io/crates/sootmark-messengers) | 0.1.0 | 0 | Messaging apps' databases for forensics: Skype's main.db, with its accounts, co… |
+| 2026-10-08 09:48:21 | [cargo-rush](https://crates.io/crates/cargo-rush) | 0.0.2 | 0 | cargo run whatever is on the operating system clipboard. |
+| 2026-10-08 09:48:42 | [wslshim](https://crates.io/crates/wslshim) | 0.1.0 | 0 | Tiny Windows exe that runs the WSL command it's named after, translating Window… |
+| 2026-10-08 09:56:45 | [sootmark-cloudsync](https://crates.io/crates/sootmark-cloudsync) | 0.1.0 | 0 | Cloud sync clients' records for forensics: Dropbox's sync history, Google Drive… |
+| 2026-10-08 09:58:42 | [cargo-x402](https://crates.io/crates/cargo-x402) | 0.5.1 | 0 | Scaffold x402 projects from templates. |
+| 2026-10-08 10:00:12 | [feuclide](https://crates.io/crates/feuclide) | 0.1.0 | 0 | A game engine whose core does not assume Euclidean geometry |
+| 2026-10-08 10:03:25 | [curveforge-pipeline](https://crates.io/crates/curveforge-pipeline) | 1.0.0 | 0 | The CurveForge pipeline: the stages a definition passes through, and the compos… |
+| 2026-10-08 10:04:15 | [rtsp](https://crates.io/crates/rtsp) | 0.1.0 | 0 | Asynchronous RTSP 1.0/2.0 server and client connections, with request routing |
+| 2026-10-08 10:05:26 | [krabka-macros](https://crates.io/crates/krabka-macros) | 1.0.0 | 0 | Derive macros that let one declaration in the broker stand for code it would ot… |
+| 2026-10-08 10:05:29 | [krabka-verified](https://crates.io/crates/krabka-verified) | 1.0.0 | 0 | Formally verified pure kernels (Creusot) shared by Krabka crates |
+| 2026-10-08 10:05:32 | [krabka-log](https://crates.io/crates/krabka-log) | 1.0.0 | 0 | Byte-compatible reader/writer for Apache Kafka's on-disk log format |
+| 2026-10-08 10:06:44 | [toride-diagnostic-types](https://crates.io/crates/toride-diagnostic-types) | 0.1.0 | 0 | Shared diagnostic types: Severity, Finding, DoctorReport, and render helpers |
+| 2026-10-08 10:06:47 | [toride-fs](https://crates.io/crates/toride-fs) | 0.1.0 | 0 | Shared filesystem utilities: atomic writes, locking, path expansion |
+| 2026-10-08 10:06:50 | [toride-runner](https://crates.io/crates/toride-runner) | 0.1.0 | 0 | Shared command runner trait, implementations, and utilities |
+| 2026-10-08 10:06:54 | [toride-installer](https://crates.io/crates/toride-installer) | 0.1.0 | 0 | Tool-agnostic release-artifact installer framework (pure Rust, reqwest-based).… |
+| 2026-10-08 10:07:02 | [toride-registry](https://crates.io/crates/toride-registry) | 0.1.0 | 0 | Normalizes external package registries (Homebrew, Flathub, AppStream/DEP-11, Re… |
+| 2026-10-08 10:08:57 | [curfew](https://crates.io/crates/curfew) | 0.0.5 | 0 | A deadline-aware fork-join model where multiple tasks run in parallel, but only… |
 
 ## Data source
 
