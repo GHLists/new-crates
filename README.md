@@ -8,35 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 07:20 UTC
+## Latest list — 2026-10-08 08:18 UTC
 
-New crates published between 2026-10-08 06:19 UTC and 2026-10-08 07:20 UTC.
+New crates published between 2026-10-08 07:20 UTC and 2026-10-08 08:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-08T07-20-15-10228Z.csv)
+[Full CSV](data/new-crates-2026-10-08T08-18-38-583003Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-08 06:20:32 | [mf2-fn-datetime-web-icu](https://crates.io/crates/mf2-fn-datetime-web-icu) | 3.0.0 | 0 | ICU4X for the browser build of Rust MF2's date functions: the crates mf2-fn-dat… |
-| 2026-10-08 06:23:28 | [arachne-kv-testsupport](https://crates.io/crates/arachne-kv-testsupport) | 0.3.1 | 0 | Test-only support crate (never a normal dependency of production crates) |
-| 2026-10-08 06:24:09 | [pigeonhole](https://crates.io/crates/pigeonhole) | 0.1.0 | 0 | Embedded, single-file, wide-column store: BigTable's data model with SQLite's d… |
-| 2026-10-08 06:24:18 | [caj2pdf-core](https://crates.io/crates/caj2pdf-core) | 0.5.0 | 0 | Platform-neutral CAJ-family conversion core |
-| 2026-10-08 06:24:21 | [caj2pdf-cli](https://crates.io/crates/caj2pdf-cli) | 0.5.0 | 0 | Native command-line interface for caj2pdf |
-| 2026-10-08 06:25:11 | [leanctx-native-storage](https://crates.io/crates/leanctx-native-storage) | 0.1.0 | 0 | Handle-bound native storage primitives shared by LeanCTX components |
-| 2026-10-08 06:34:08 | [pigeonhole-arrow](https://crates.io/crates/pigeonhole-arrow) | 0.1.0 | 0 | Arrow RecordBatch export for Pigeonhole scans. |
-| 2026-10-08 06:44:08 | [pigeonhole-cli](https://crates.io/crates/pigeonhole-cli) | 0.1.0 | 0 | phdb: command-line shell and tools for Pigeonhole databases. |
-| 2026-10-08 06:44:54 | [miyoushe](https://crates.io/crates/miyoushe) | 0.1.0 | 0 | 爬取米游社（miyoushe.com）用户主页所有帖子中图片的命令行工具 |
-| 2026-10-08 06:50:57 | [ikat](https://crates.io/crates/ikat) | 0.2.1 | 0 | Weave Markdown into camera-ready LaTeX: mermaid-to-TikZ, pgfplots figures, publ… |
-| 2026-10-08 06:55:08 | [cgp-fork-macro](https://crates.io/crates/cgp-fork-macro) | 0.9.0 | 0 | CGP procedural macros for defining and wiring components. |
-| 2026-10-08 06:55:31 | [cgp-fork](https://crates.io/crates/cgp-fork) | 0.9.0 | 0 | A language extension for Rust, with pluggable trait implementations at compile-… |
-| 2026-10-08 07:01:22 | [shion-xscene](https://crates.io/crates/shion-xscene) | 0.1.0 | 0 | DirectX .x 3D scene graph and animation runtime |
-| 2026-10-08 07:01:37 | [shion-render](https://crates.io/crates/shion-render) | 0.1.0 | 0 | 3D renderer for DirectX .x models using wgpu |
-| 2026-10-08 07:01:53 | [siglus_omv_decoder](https://crates.io/crates/siglus_omv_decoder) | 0.1.0 | 0 | OMV video stream decoder for SiglusEngine |
-| 2026-10-08 07:02:17 | [avg32](https://crates.io/crates/avg32) | 0.1.0 | 0 | AVG32 Visual Novel engine reimplementation in Rust |
-| 2026-10-08 07:02:32 | [siglus_key_recovery](https://crates.io/crates/siglus_key_recovery) | 0.1.0 | 0 | SiglusEngine game encryption key recovery utility |
-| 2026-10-08 07:04:27 | [prospicio-glm](https://crates.io/crates/prospicio-glm) | 0.0.1 | 0 | Generalized linear models by IRLS, on prospicio-models families (docs/design/mo… |
-| 2026-10-08 07:05:19 | [prospicio-pricing](https://crates.io/crates/prospicio-pricing) | 0.0.1 | 0 | Pricing: layer and limit rating shared by primary and reinsurance pricing, and… |
-| 2026-10-08 07:07:16 | [rustsh](https://crates.io/crates/rustsh) | 0.1.0 | 0 | A shell written in Rust. |
-| 2026-10-08 07:10:22 | [sootmark-esxi](https://crates.io/crates/sootmark-esxi) | 0.1.0 | 0 | VMware ESXi for forensics: the host configuration (esx.conf), the VM inventory… |
+| 2026-10-08 07:24:54 | [systemprompt-wire](https://crates.io/crates/systemprompt-wire) | 0.63.0 | 0 | Canonical AI wire types and per-protocol codecs for systemprompt.io AI governan… |
+| 2026-10-08 07:24:59 | [systemprompt-manifest](https://crates.io/crates/systemprompt-manifest) | 0.63.0 | 0 | Services manifest, profile and boot-time configuration for systemprompt.io AI g… |
+| 2026-10-08 07:25:25 | [sootmark-fwlogs](https://crates.io/crates/sootmark-fwlogs) | 0.1.0 | 0 | Firewall logs for forensics: Palo Alto PAN-OS (syslog and CSV export), Fortinet… |
+| 2026-10-08 07:28:29 | [systemprompt-oauth-issuance](https://crates.io/crates/systemprompt-oauth-issuance) | 0.63.0 | 0 | OAuth 2.0 token issuance for systemprompt.io AI governance infrastructure: gran… |
+| 2026-10-08 07:28:33 | [systemprompt-gateway](https://crates.io/crates/systemprompt-gateway) | 0.63.0 | 0 | AI gateway for systemprompt.io AI governance infrastructure: protocol translati… |
+| 2026-10-08 07:34:57 | [sootmark-ntfslog](https://crates.io/crates/sootmark-ntfslog) | 0.1.0 | 0 | NTFS transaction journal ($LogFile): restart areas, every log record with its r… |
+| 2026-10-08 07:35:54 | [taktwerk-core](https://crates.io/crates/taktwerk-core) | 0.1.0 | 0 | Process image, scheduler and model/connector contracts of the taktwerk engine |
+| 2026-10-08 07:35:56 | [taktwerk-fmi](https://crates.io/crates/taktwerk-fmi) | 0.1.0 | 0 | FMI 2 and FMI 3 co-simulation model adapter for taktwerk |
+| 2026-10-08 07:35:57 | [taktwerk-opcua](https://crates.io/crates/taktwerk-opcua) | 0.1.0 | 0 | OPC UA server and client connectors for taktwerk |
+| 2026-10-08 07:35:59 | [taktwerk-raw](https://crates.io/crates/taktwerk-raw) | 0.1.0 | 0 | Raw C library model adapter for taktwerk: header import, descriptors, C layout |
+| 2026-10-08 07:36:00 | [prospicio-reserving](https://crates.io/crates/prospicio-reserving) | 0.0.1 | 0 | Reserving: triangles, Chain Ladder, Mack, Bornhuetter-Ferguson, Cape Cod, Clark… |
+| 2026-10-08 07:36:02 | [taktwerk](https://crates.io/crates/taktwerk) | 0.1.0 | 0 | Fixed-step model execution engine for Linux with its own OPC UA server |
+| 2026-10-08 07:36:12 | [gladia-macros](https://crates.io/crates/gladia-macros) | 0.1.0-alpha.1 | 0 | Procedural macros for gladia-ebpf. Internal: depend on gladia-ebpf instead |
+| 2026-10-08 07:36:13 | [gladia-shared](https://crates.io/crates/gladia-shared) | 0.1.0-alpha.1 | 0 | Types and wire format shared by gladia and gladia-ebpf. Internal: depend on gla… |
+| 2026-10-08 07:36:15 | [gladia](https://crates.io/crates/gladia) | 0.1.0-alpha.1 | 0 | Test framework for eBPF programs: loads gladia test programs and runs them in t… |
+| 2026-10-08 07:36:16 | [gladia-ebpf](https://crates.io/crates/gladia-ebpf) | 0.1.0-alpha.1 | 0 | eBPF-side library for gladia tests: arrange/act/assert program macros, assertio… |
+| 2026-10-08 07:37:24 | [prospicio-bayes](https://crates.io/crates/prospicio-bayes) | 0.0.1 | 0 | Bayesian models sampled with NUTS (nuts-rs), MCMC diagnostics and ELPD (docs/de… |
+| 2026-10-08 07:42:32 | [syntheka](https://crates.io/crates/syntheka) | 0.0.1 | 0 | Syntheka brand namespace placeholder (reserved). Do not depend on this crate. |
+| 2026-10-08 07:53:20 | [prospicio-nn](https://crates.io/crates/prospicio-nn) | 0.0.1 | 0 | Neural networks on Burn behind the prospicio-models interface: CANN first (docs… |
+| 2026-10-08 07:55:11 | [prospicio](https://crates.io/crates/prospicio) | 0.0.1 | 0 | Actuarial and risk modeling: reserving, distributions, aggregate loss, reinsura… |
+| 2026-10-08 08:01:18 | [fk-math](https://crates.io/crates/fk-math) | 0.1.0 | 0 | Raw numerics for Feuclide: number containers and numerically stable scalar func… |
+| 2026-10-08 08:01:19 | [fk-shaders](https://crates.io/crates/fk-shaders) | 0.1.0 | 0 | WGSL templates and per-geometry shader modules |
+| 2026-10-08 08:01:21 | [fk-geometry](https://crates.io/crates/fk-geometry) | 0.1.0 | 0 | Geometry as a trait: points, tangent vectors, isometry groups and metrics, with… |
+| 2026-10-08 08:01:23 | [fk-geometry-euclidean](https://crates.io/crates/fk-geometry-euclidean) | 0.1.0 | 0 | Euclidean plane and space (E², E³) as Feuclide geometries |
+| 2026-10-08 08:01:23 | [fk-geometry-hyperbolic](https://crates.io/crates/fk-geometry-hyperbolic) | 0.1.0 | 0 | Hyperbolic plane and space (H², H³) in the hyperboloid model |
+| 2026-10-08 08:06:39 | [sootmark-vss](https://crates.io/crates/sootmark-vss) | 0.1.0 | 0 | Windows Volume Shadow Copies (VSS) in an NTFS volume: every snapshot with its t… |
+| 2026-10-08 08:09:12 | [qrtxt](https://crates.io/crates/qrtxt) | 0.1.0 | 0 | Turn text into a QR code rendered in the terminal |
+| 2026-10-08 08:15:15 | [cargo-build-doctor-cli](https://crates.io/crates/cargo-build-doctor-cli) | 0.1.0 | 0 | Evidence-based diagnostics for slow Rust builds |
+| 2026-10-08 08:15:30 | [agentdb](https://crates.io/crates/agentdb) | 0.2.0 | 0 | Interface for agent persistence. |
+| 2026-10-08 08:15:35 | [minifix-dictionary](https://crates.io/crates/minifix-dictionary) | 0.3.0 | 0 | A bare essentials library for Financial Information Exchange (FIX) |
+| 2026-10-08 08:15:38 | [minifix-derive](https://crates.io/crates/minifix-derive) | 0.3.0 | 0 | A bare essentials library for Financial Information Exchange (FIX) |
+| 2026-10-08 08:15:42 | [pgf2json](https://crates.io/crates/pgf2json) | 0.2.5 | 0 | This crate is an Application Programming Interface to load and interpret gramma… |
+| 2026-10-08 08:15:45 | [agentgraph](https://crates.io/crates/agentgraph) | 0.1.1 | 0 | Interface for agent graph persistence. |
+| 2026-10-08 08:15:47 | [agentkv](https://crates.io/crates/agentkv) | 0.1.2 | 0 | Interface for agent key-value persistence. |
 
 ## Data source
 

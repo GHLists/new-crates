@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T07:24:54.047208Z,systemprompt-wire,0.63.0,0,0,https://github.com/systempromptio/systemprompt-core,"Canonical AI wire types and per-protocol codecs for systemprompt.io AI governance infrastructure. Anthropic, OpenAI Chat, OpenAI Responses and Gemini request, response and SSE shapes shared by the ga…"
+2026-10-08T07:24:59.540418Z,systemprompt-manifest,0.63.0,0,0,https://github.com/systempromptio/systemprompt-core,"Services manifest, profile and boot-time configuration for systemprompt.io AI governance infrastructure. Agents, plugins, hooks, MCP servers, provider registry and gateway policy, with their startup…"
+2026-10-08T07:25:25.508052Z,sootmark-fwlogs,0.1.0,0,0,https://github.com/Sootmark/fwlogs,"Firewall logs for forensics: Palo Alto PAN-OS (syslog and CSV export), Fortinet FortiGate (key=value and CSV), Cisco ASA syslog, read into connections, denials, logins and admin commands."
+2026-10-08T07:28:29.703799Z,systemprompt-oauth-issuance,0.63.0,0,0,https://github.com/systempromptio/systemprompt-core,"OAuth 2.0 token issuance for systemprompt.io AI governance infrastructure: grant dispatch, client-credentials, RFC 8693 token exchange with delegated act chains, and refresh-token rotation."
+2026-10-08T07:28:33.563453Z,systemprompt-gateway,0.63.0,0,0,https://github.com/systempromptio/systemprompt-core,"AI gateway for systemprompt.io AI governance infrastructure: protocol translation between Anthropic, OpenAI and Gemini wire formats, upstream failover, gateway policies, quotas, safety scanning and t…"
+2026-10-08T07:34:57.322525Z,sootmark-ntfslog,0.1.0,0,0,https://github.com/Sootmark/ntfslog,"NTFS transaction journal ($LogFile): restart areas, every log record with its redo and undo operations, and the file names and timestamps they carry."
+2026-10-08T07:35:54.374213Z,taktwerk-core,0.1.0,0,0,https://github.com/labinetix/taktwerk,"Process image, scheduler and model/connector contracts of the taktwerk engine"
+2026-10-08T07:35:56.878217Z,taktwerk-fmi,0.1.0,0,0,https://github.com/labinetix/taktwerk,FMI 2 and FMI 3 co-simulation model adapter for taktwerk
+2026-10-08T07:35:57.626246Z,taktwerk-opcua,0.1.0,0,0,https://github.com/labinetix/taktwerk,OPC UA server and client connectors for taktwerk
+2026-10-08T07:35:59.993568Z,taktwerk-raw,0.1.0,0,0,https://github.com/labinetix/taktwerk,"Raw C library model adapter for taktwerk: header import, descriptors, C layout"
+2026-10-08T07:36:00.799077Z,prospicio-reserving,0.0.1,0,0,https://github.com/EKtheSage/prospicio,"Reserving: triangles, Chain Ladder, Mack, Bornhuetter-Ferguson, Cape Cod, Clark, the ODP bootstrap and the one-year view."
+2026-10-08T07:36:02.549561Z,taktwerk,0.1.0,0,0,https://github.com/labinetix/taktwerk,Fixed-step model execution engine for Linux with its own OPC UA server
+2026-10-08T07:36:12.896689Z,gladia-macros,0.1.0-alpha.1,0,0,https://github.com/sarena-rs/gladia-ebpf,Procedural macros for gladia-ebpf. Internal: depend on gladia-ebpf instead
+2026-10-08T07:36:13.699387Z,gladia-shared,0.1.0-alpha.1,0,0,https://github.com/sarena-rs/gladia-ebpf,Types and wire format shared by gladia and gladia-ebpf. Internal: depend on gladia or gladia-ebpf instead
+2026-10-08T07:36:15.415445Z,gladia,0.1.0-alpha.1,0,0,https://github.com/sarena-rs/gladia-ebpf,Test framework for eBPF programs: loads gladia test programs and runs them in the kernel with BPF_PROG_TEST_RUN
+2026-10-08T07:36:16.070425Z,gladia-ebpf,0.1.0-alpha.1,0,0,https://github.com/sarena-rs/gladia-ebpf,"eBPF-side library for gladia tests: arrange/act/assert program macros, assertions and test logging"
+2026-10-08T07:37:24.998532Z,prospicio-bayes,0.0.1,0,0,https://github.com/EKtheSage/prospicio,"Bayesian models sampled with NUTS (nuts-rs), MCMC diagnostics and ELPD (docs/design/models.md)."
+2026-10-08T07:42:32.960225Z,syntheka,0.0.1,0,0,,Syntheka brand namespace placeholder (reserved). Do not depend on this crate.
+2026-10-08T07:53:20.261986Z,prospicio-nn,0.0.1,0,0,https://github.com/EKtheSage/prospicio,Neural networks on Burn behind the prospicio-models interface: CANN first (docs/design/models.md).
+2026-10-08T07:55:11.131186Z,prospicio,0.0.1,0,0,https://github.com/EKtheSage/prospicio,"Actuarial and risk modeling: reserving, distributions, aggregate loss, reinsurance and pricing. Re-exports the prospicio-* crates."
+2026-10-08T08:01:18.958791Z,fk-math,0.1.0,0,0,https://github.com/Dastfox/feuclide,"Raw numerics for Feuclide: number containers and numerically stable scalar functions, no geometry"
+2026-10-08T08:01:19.533066Z,fk-shaders,0.1.0,0,0,https://github.com/Dastfox/feuclide,WGSL templates and per-geometry shader modules
+2026-10-08T08:01:21.588067Z,fk-geometry,0.1.0,0,0,https://github.com/Dastfox/feuclide,"Geometry as a trait: points, tangent vectors, isometry groups and metrics, with no Euclidean assumption"
+2026-10-08T08:01:23.209731Z,fk-geometry-euclidean,0.1.0,0,0,https://github.com/Dastfox/feuclide,"Euclidean plane and space (E², E³) as Feuclide geometries"
+2026-10-08T08:01:23.571288Z,fk-geometry-hyperbolic,0.1.0,0,0,https://github.com/Dastfox/feuclide,"Hyperbolic plane and space (H², H³) in the hyperboloid model"
+2026-10-08T08:06:39.872728Z,sootmark-vss,0.1.0,0,0,https://github.com/Sootmark/vss,"Windows Volume Shadow Copies (VSS) in an NTFS volume: every snapshot with its times, GUIDs and machine names, and each snapshot's view of the volume as a Read + Seek stream."
+2026-10-08T08:09:12.223945Z,qrtxt,0.1.0,0,0,https://github.com/can2049/qrtxt,Turn text into a QR code rendered in the terminal
+2026-10-08T08:15:15.743004Z,cargo-build-doctor-cli,0.1.0,0,0,https://github.com/faizanali2k05/cargo-build-doctor,Evidence-based diagnostics for slow Rust builds
+2026-10-08T08:15:30.240875Z,agentdb,0.2.0,0,0,https://github.com/cryptopatrick/agentdb,Interface for agent persistence.
+2026-10-08T08:15:35.201308Z,minifix-dictionary,0.3.0,0,0,https://github.com/cryptopatrick/minifix,A bare essentials library for Financial Information Exchange (FIX)
+2026-10-08T08:15:38.731776Z,minifix-derive,0.3.0,0,0,https://github.com/cryptopatrick/minifix,A bare essentials library for Financial Information Exchange (FIX)
+2026-10-08T08:15:42.393484Z,pgf2json,0.2.5,0,0,https://github.com/CryptoPatrick/pgf2json,This crate is an Application Programming Interface to load and interpret grammars compiled in Portable Grammar Format (PGF). The PGF format is produced as a final output from the GF compiler. The lib…
+2026-10-08T08:15:45.436602Z,agentgraph,0.1.1,0,0,https://github.com/cryptopatrick/agentgraph,Interface for agent graph persistence.
+2026-10-08T08:15:47.966906Z,agentkv,0.1.2,0,0,https://github.com/cryptopatrick/agentkv,Interface for agent key-value persistence.
