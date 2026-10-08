@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T06:20:32.936526Z,mf2-fn-datetime-web-icu,3.0.0,0,0,https://github.com/EvanCarroll/rust-mf2,"ICU4X for the browser build of Rust MF2's date functions: the crates mf2-fn-datetime's `web-icu` feature formats with, re-exported, so that a native build never compiles them for the browser's sake;…"
+2026-10-08T06:23:28.384454Z,arachne-kv-testsupport,0.3.1,0,0,,Test-only support crate (never a normal dependency of production crates)
+2026-10-08T06:24:09.628257Z,pigeonhole,0.1.0,0,0,https://github.com/CodingAnarchy/pigeonhole,"Embedded, single-file, wide-column store: BigTable's data model with SQLite's deployment model. Experimental 0.x: format and API may change before 1.0."
+2026-10-08T06:24:18.484452Z,caj2pdf-core,0.5.0,0,0,https://github.com/rwv/caj2pdf-rust,Platform-neutral CAJ-family conversion core
+2026-10-08T06:24:21.531164Z,caj2pdf-cli,0.5.0,0,0,https://github.com/rwv/caj2pdf-rust,Native command-line interface for caj2pdf
+2026-10-08T06:25:11.207025Z,leanctx-native-storage,0.1.0,0,0,https://github.com/yvgude/lean-ctx,Handle-bound native storage primitives shared by LeanCTX components
+2026-10-08T06:34:08.547341Z,pigeonhole-arrow,0.1.0,0,0,https://github.com/CodingAnarchy/pigeonhole,Arrow RecordBatch export for Pigeonhole scans.
+2026-10-08T06:44:08.642549Z,pigeonhole-cli,0.1.0,0,0,https://github.com/CodingAnarchy/pigeonhole,phdb: command-line shell and tools for Pigeonhole databases.
+2026-10-08T06:44:54.63374Z,miyoushe,0.1.0,0,0,https://github.com/aachou/miyoushe,爬取米游社（miyoushe.com）用户主页所有帖子中图片的命令行工具
+2026-10-08T06:50:57.633187Z,ikat,0.2.1,0,0,https://github.com/opticsWolf/ikat,"Weave Markdown into camera-ready LaTeX: mermaid-to-TikZ, pgfplots figures, publisher templates"
+2026-10-08T06:55:08.602851Z,cgp-fork-macro,0.9.0,0,0,https://github.com/Just-Replicant/cgp-fork,CGP procedural macros for defining and wiring components.
+2026-10-08T06:55:31.753325Z,cgp-fork,0.9.0,0,0,https://github.com/Just-Replicant/cgp-fork,"A language extension for Rust, with pluggable trait implementations at compile-time."
+2026-10-08T07:01:22.438658Z,shion-xscene,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,DirectX .x 3D scene graph and animation runtime
+2026-10-08T07:01:37.519535Z,shion-render,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,3D renderer for DirectX .x models using wgpu
+2026-10-08T07:01:53.671207Z,siglus_omv_decoder,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,OMV video stream decoder for SiglusEngine
+2026-10-08T07:02:17.756022Z,avg32,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,AVG32 Visual Novel engine reimplementation in Rust
+2026-10-08T07:02:32.438438Z,siglus_key_recovery,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,SiglusEngine game encryption key recovery utility
+2026-10-08T07:04:27.688163Z,prospicio-glm,0.0.1,0,0,https://github.com/EKtheSage/prospicio,"Generalized linear models by IRLS, on prospicio-models families (docs/design/models.md)."
+2026-10-08T07:05:19.933447Z,prospicio-pricing,0.0.1,0,0,https://github.com/EKtheSage/prospicio,"Pricing: layer and limit rating shared by primary and reinsurance pricing, and reinsurance tower matching."
+2026-10-08T07:07:16.775824Z,rustsh,0.1.0,0,0,https://github.com/amniik/rustsh,A shell written in Rust.
+2026-10-08T07:10:22.187309Z,sootmark-esxi,0.1.0,0,0,https://github.com/Sootmark/esxi,"VMware ESXi for forensics: the host configuration (esx.conf), the VM inventory (vmInventory.xml), VM settings (.vmx) and snapshots (.vmsd): what ran on the host, how it was set, and what changed."
