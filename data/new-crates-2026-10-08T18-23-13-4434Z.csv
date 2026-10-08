@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T17:21:30.859684Z,lmxml-derive,0.1.0,0,0,https://github.com/filipmalczak/lmxml-rust,Derive macro for LMXMLSerializable in lmxml
+2026-10-08T17:23:44.710868Z,lmxml,0.1.0,0,0,https://github.com/filipmalczak/lmxml-rust,Language Model XML (LMXML) serialization format for Rust
+2026-10-08T17:23:55.5874Z,ducy-play,0.1.0,0,0,https://github.com/allenpiscitello/ducy,"Play out poker hands: blinds, betting, side pots and showdown, built on ducy."
+2026-10-08T17:27:22.151166Z,statelessness-macros,0.2.0,0,0,https://github.com/Jagalite/statelessness,First-party modeling macros for statelessness
+2026-10-08T17:27:41.901386Z,sessiond-state,0.1.1,0,0,https://tangled.org/r0chd.pl/sessiond,Shared sessiond state file types
+2026-10-08T17:32:45.686917Z,meliclaw-cli,0.1.1,0,0,https://github.com/meliclaw/meliclaw-cli,Conjunto de ferramentas CLI para tarefas de sistemas de suporte à Meliclaw Agentic AI Platform
+2026-10-08T17:33:41.128508Z,packinfo,1.0.0,0,0,https://github.com/Walkhostel/packinfo,show installed arch packages with dependencies info
+2026-10-08T17:36:48.701377Z,engine-zmq-adapter,0.1.0,0,0,https://github.com/smg-project/smg,Each engine's own gRPC-proto surface over the same-host ZMQ engine wire
+2026-10-08T17:36:49.105925Z,sym-cli,0.2.0,0,0,,"Read the function, not the file: symbol-level code reads for AI coding agents (tree-sitter; CLI, MCP, HTTP)"
+2026-10-08T17:38:52.377297Z,engine-servicer,0.1.0,0,0,https://github.com/smg-project/smg,"Rust gRPC servicers for inference engines: the engine's own proto, served over the same-host ZMQ wire"
+2026-10-08T17:43:49.297829Z,ic-jobs,0.1.1,0,0,https://github.com/dragginzgame/ic-jobs,Durable application job policies for Internet Computer canisters
+2026-10-08T17:52:00.985091Z,rva-core,0.1.1,0,0,https://github.com/airovo/rva,"RVA (Responsive Visual Asset) reference core: parse, resolve, render."
+2026-10-08T17:52:04.674746Z,rva-cli,0.1.1,0,0,https://github.com/airovo/rva,"RVA developer CLI: validate, inspect and render responsive visual assets."
+2026-10-08T17:52:05.633957Z,rva-ffi,0.1.1,0,0,https://github.com/airovo/rva,"Stable C ABI for the RVA core, used by native adapters (Swift, Kotlin, Flutter, C)."
+2026-10-08T17:52:06.156046Z,rva-server,0.1.1,0,0,https://github.com/airovo/rva,"RVA server-side renderer: resolve and rasterize .rva assets natively, with caching and an HTTP endpoint."
+2026-10-08T17:52:07.28476Z,rva-wasm,0.1.1,0,0,https://github.com/airovo/rva,WebAssembly bindings for the RVA reference core.
+2026-10-08T17:52:39.65603Z,kal-log,0.1.0,0,0,https://github.com/0k/kal-log,Multi-output CLI logging with per-output levels and target filters
+2026-10-08T17:52:48.088096Z,racs-client,0.3.0,0,0,https://codeberg.org/javerik/RACS-RustAravisCamServe,"Async client for the RACS (RustAravisCamServe) camera server: GenICam features, frames, live stream and burst jobs"
+2026-10-08T17:52:50.49076Z,rez-next-runtime,0.3.9,0,0,https://github.com/loonghao/rez-next,Stable runtime integration API for resolving and activating Rez repositories
+2026-10-08T17:59:50.577425Z,cortexkit-cow,0.1.0,0,0,https://github.com/cortexkit/commons,Cross-platform copy-on-write workspace isolation and change capture.
+2026-10-08T18:04:35.782629Z,uv-python-managed,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-python-managed
+2026-10-08T18:04:54.393295Z,uv-python-types,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-python-types
+2026-10-08T18:05:12.814526Z,uv-resolve-operations,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-resolve-operations
+2026-10-08T18:05:30.435358Z,uv-tool-commands,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-tool-commands
+2026-10-08T18:05:49.219793Z,uv-workspace-commands,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-workspace-commands
+2026-10-08T18:10:14.943099Z,myous-pake,0.4.1,0,0,,"SPAKE2 for myoushq pairing, recreatable from a stored seed"
+2026-10-08T18:12:13.5048Z,bsdt,0.1.0,0,0,https://github.com/divanvisagie/bsdt,"Repeatable FreeBSD development VMs from a TOML file, booted with QEMU from the official images"
+2026-10-08T18:17:45.42636Z,tree-sitter-bats,0.1.0,0,0,https://github.com/nertzy/tree-sitter-bats,"Bats (Bash Automated Testing System) grammar for tree-sitter, extending tree-sitter-bash."
+2026-10-08T18:17:58.897818Z,hwd,0.1.0,0,0,https://github.com/vigna/hwd-rs,A Rust port of the test by Blackman and Vigna for Hamming-weight dependencies in pseudorandom number generators
+2026-10-08T18:18:08.452694Z,forma-proc-macro,0.1.1,0,0,,Formatier API proc macro
+2026-10-08T18:18:12.083375Z,forma-schema,0.1.0,0,0,,Formatier API schema
+2026-10-08T18:22:01.120516Z,rh-cpg,0.3.0,0,0,https://github.com/reason-healthcare/rh,Clinical Practice Guidelines (CPG) capabilities for FHIR resources

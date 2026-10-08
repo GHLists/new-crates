@@ -8,41 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 17:19 UTC
+## Latest list — 2026-10-08 18:23 UTC
 
-New crates published between 2026-10-08 16:19 UTC and 2026-10-08 17:19 UTC.
+New crates published between 2026-10-08 17:19 UTC and 2026-10-08 18:23 UTC.
 
-[Full CSV](data/new-crates-2026-10-08T17-19-08-386553Z.csv)
+[Full CSV](data/new-crates-2026-10-08T18-23-13-4434Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-08 16:22:24 | [cheers-vend](https://crates.io/crates/cheers-vend) | 0.8.43 | 0 | Embeddable Hrana-over-HTTP listener that vends a service's own Turso database t… |
-| 2026-10-08 16:23:20 | [theatre-engine](https://crates.io/crates/theatre-engine) | 0.1.0 | 0 | Story format, loading and playback for Terminal Theatre. No terminal code. |
-| 2026-10-08 16:23:24 | [terminal-theatre](https://crates.io/crates/terminal-theatre) | 0.1.0 | 0 | An interactive movie game for your terminal: animated pixel-art characters, bra… |
-| 2026-10-08 16:26:31 | [superfluid-adapter-mlx](https://crates.io/crates/superfluid-adapter-mlx) | 0.1.2 | 0 | MLX as a superfluid runtime: RuntimePrimitives over mlx-lm through an embedded… |
-| 2026-10-08 16:27:19 | [embdb](https://crates.io/crates/embdb) | 0.1.0 | 0 | 使用 Rust 实现的 SQLite-like 小型嵌入式关系数据库 |
-| 2026-10-08 16:29:37 | [emoticond](https://crates.io/crates/emoticond) | 1.0.1 | 0 | Search kaomoji by how you feel |
-| 2026-10-08 16:29:43 | [emoticond-compile](https://crates.io/crates/emoticond-compile) | 1.0.1 | 0 | Compile emoticond source data into a .kmj data file |
-| 2026-10-08 16:29:50 | [emoticond-config](https://crates.io/crates/emoticond-config) | 1.0.1 | 0 | Config files, policy, environment and platform paths for emoticond |
-| 2026-10-08 16:29:54 | [emoticond-state](https://crates.io/crates/emoticond-state) | 1.0.1 | 0 | The files an emoticond front-end writes: local popularity, the report queue, bl… |
-| 2026-10-08 16:30:07 | [emoticond-cli](https://crates.io/crates/emoticond-cli) | 1.0.1 | 0 | emoticond: search kaomoji by how you feel, from the command line, a launcher me… |
-| 2026-10-08 16:31:10 | [serena-rs](https://crates.io/crates/serena-rs) | 0.1.0 | 0 | Serena.rs — a fast, single-binary Rust MCP server for semantic code navigation… |
-| 2026-10-08 16:36:08 | [seamless-auth](https://crates.io/crates/seamless-auth) | 0.1.0 | 0 | Seamless Auth server adapter for Axum: cookie and bearer sessions in front of t… |
-| 2026-10-08 16:36:35 | [superfluid-adapter-mock](https://crates.io/crates/superfluid-adapter-mock) | 0.1.2 | 0 | The mock engine as a superfluid runtime: what the daemon's tests and `superflui… |
-| 2026-10-08 16:36:42 | [yubaba-auth-token](https://crates.io/crates/yubaba-auth-token) | 0.8.43 | 0 | The yubaba control-plane token format (PASETO v4 claims, audience, scopes, TTL… |
-| 2026-10-08 16:43:31 | [uv-lock-operations](https://crates.io/crates/uv-lock-operations) | 0.0.0 | 0 | Placeholder release for uv-lock-operations |
-| 2026-10-08 16:43:50 | [uv-pip-commands](https://crates.io/crates/uv-pip-commands) | 0.0.0 | 0 | Placeholder release for uv-pip-commands |
-| 2026-10-08 16:44:09 | [uv-project-commands](https://crates.io/crates/uv-project-commands) | 0.0.0 | 0 | Placeholder release for uv-project-commands |
-| 2026-10-08 16:44:28 | [uv-project-edit](https://crates.io/crates/uv-project-edit) | 0.0.0 | 0 | Placeholder release for uv-project-edit |
-| 2026-10-08 16:44:47 | [uv-publish-commands](https://crates.io/crates/uv-publish-commands) | 0.0.0 | 0 | Placeholder release for uv-publish-commands |
-| 2026-10-08 16:46:43 | [superfluid](https://crates.io/crates/superfluid) | 0.1.2 | 0 | The superfluid daemon: durable session store (WAL, verbatim token spans, epochs… |
-| 2026-10-08 17:00:27 | [thin-fetch](https://crates.io/crates/thin-fetch) | 0.1.0 | 0 | Low-level Git crate to fetch objects with high granularity |
-| 2026-10-08 17:00:52 | [flowscripter_io_plugin_filesystem_native](https://crates.io/crates/flowscripter_io_plugin_filesystem_native) | 1.0.0 | 0 | Native local filesystem I/O for io-plugin-filesystem-native, exposed via Bun FFI |
-| 2026-10-08 17:03:49 | [uv-python-commands](https://crates.io/crates/uv-python-commands) | 0.0.0 | 0 | Placeholder release for uv-python-commands |
-| 2026-10-08 17:04:08 | [uv-python-discovery](https://crates.io/crates/uv-python-discovery) | 0.0.0 | 0 | Placeholder release for uv-python-discovery |
-| 2026-10-08 17:14:30 | [quat_mp3](https://crates.io/crates/quat_mp3) | 0.1.0 | 0 | MP3 metadata and frame inspector operating on base-4 quaternary logic |
-| 2026-10-08 17:16:11 | [uv-python-interpreter](https://crates.io/crates/uv-python-interpreter) | 0.0.0 | 0 | Placeholder release for uv-python-interpreter |
-| 2026-10-08 17:18:12 | [agentaps-control-protocol](https://crates.io/crates/agentaps-control-protocol) | 0.1.0 | 0 | Shared Web Connect protocol for Agentaps desktop and browser clients |
+| 2026-10-08 17:21:30 | [lmxml-derive](https://crates.io/crates/lmxml-derive) | 0.1.0 | 0 | Derive macro for LMXMLSerializable in lmxml |
+| 2026-10-08 17:23:44 | [lmxml](https://crates.io/crates/lmxml) | 0.1.0 | 0 | Language Model XML (LMXML) serialization format for Rust |
+| 2026-10-08 17:23:55 | [ducy-play](https://crates.io/crates/ducy-play) | 0.1.0 | 0 | Play out poker hands: blinds, betting, side pots and showdown, built on ducy. |
+| 2026-10-08 17:27:22 | [statelessness-macros](https://crates.io/crates/statelessness-macros) | 0.2.0 | 0 | First-party modeling macros for statelessness |
+| 2026-10-08 17:27:41 | [sessiond-state](https://crates.io/crates/sessiond-state) | 0.1.1 | 0 | Shared sessiond state file types |
+| 2026-10-08 17:32:45 | [meliclaw-cli](https://crates.io/crates/meliclaw-cli) | 0.1.1 | 0 | Conjunto de ferramentas CLI para tarefas de sistemas de suporte à Meliclaw Agen… |
+| 2026-10-08 17:33:41 | [packinfo](https://crates.io/crates/packinfo) | 1.0.0 | 0 | show installed arch packages with dependencies info |
+| 2026-10-08 17:36:48 | [engine-zmq-adapter](https://crates.io/crates/engine-zmq-adapter) | 0.1.0 | 0 | Each engine's own gRPC-proto surface over the same-host ZMQ engine wire |
+| 2026-10-08 17:36:49 | [sym-cli](https://crates.io/crates/sym-cli) | 0.2.0 | 0 | Read the function, not the file: symbol-level code reads for AI coding agents (… |
+| 2026-10-08 17:38:52 | [engine-servicer](https://crates.io/crates/engine-servicer) | 0.1.0 | 0 | Rust gRPC servicers for inference engines: the engine's own proto, served over… |
+| 2026-10-08 17:43:49 | [ic-jobs](https://crates.io/crates/ic-jobs) | 0.1.1 | 0 | Durable application job policies for Internet Computer canisters |
+| 2026-10-08 17:52:00 | [rva-core](https://crates.io/crates/rva-core) | 0.1.1 | 0 | RVA (Responsive Visual Asset) reference core: parse, resolve, render. |
+| 2026-10-08 17:52:04 | [rva-cli](https://crates.io/crates/rva-cli) | 0.1.1 | 0 | RVA developer CLI: validate, inspect and render responsive visual assets. |
+| 2026-10-08 17:52:05 | [rva-ffi](https://crates.io/crates/rva-ffi) | 0.1.1 | 0 | Stable C ABI for the RVA core, used by native adapters (Swift, Kotlin, Flutter,… |
+| 2026-10-08 17:52:06 | [rva-server](https://crates.io/crates/rva-server) | 0.1.1 | 0 | RVA server-side renderer: resolve and rasterize .rva assets natively, with cach… |
+| 2026-10-08 17:52:07 | [rva-wasm](https://crates.io/crates/rva-wasm) | 0.1.1 | 0 | WebAssembly bindings for the RVA reference core. |
+| 2026-10-08 17:52:39 | [kal-log](https://crates.io/crates/kal-log) | 0.1.0 | 0 | Multi-output CLI logging with per-output levels and target filters |
+| 2026-10-08 17:52:48 | [racs-client](https://crates.io/crates/racs-client) | 0.3.0 | 0 | Async client for the RACS (RustAravisCamServe) camera server: GenICam features,… |
+| 2026-10-08 17:52:50 | [rez-next-runtime](https://crates.io/crates/rez-next-runtime) | 0.3.9 | 0 | Stable runtime integration API for resolving and activating Rez repositories |
+| 2026-10-08 17:59:50 | [cortexkit-cow](https://crates.io/crates/cortexkit-cow) | 0.1.0 | 0 | Cross-platform copy-on-write workspace isolation and change capture. |
+| 2026-10-08 18:04:35 | [uv-python-managed](https://crates.io/crates/uv-python-managed) | 0.0.0 | 0 | Placeholder release for uv-python-managed |
+| 2026-10-08 18:04:54 | [uv-python-types](https://crates.io/crates/uv-python-types) | 0.0.0 | 0 | Placeholder release for uv-python-types |
+| 2026-10-08 18:05:12 | [uv-resolve-operations](https://crates.io/crates/uv-resolve-operations) | 0.0.0 | 0 | Placeholder release for uv-resolve-operations |
+| 2026-10-08 18:05:30 | [uv-tool-commands](https://crates.io/crates/uv-tool-commands) | 0.0.0 | 0 | Placeholder release for uv-tool-commands |
+| 2026-10-08 18:05:49 | [uv-workspace-commands](https://crates.io/crates/uv-workspace-commands) | 0.0.0 | 0 | Placeholder release for uv-workspace-commands |
+| 2026-10-08 18:10:14 | [myous-pake](https://crates.io/crates/myous-pake) | 0.4.1 | 0 | SPAKE2 for myoushq pairing, recreatable from a stored seed |
+| 2026-10-08 18:12:13 | [bsdt](https://crates.io/crates/bsdt) | 0.1.0 | 0 | Repeatable FreeBSD development VMs from a TOML file, booted with QEMU from the… |
+| 2026-10-08 18:17:45 | [tree-sitter-bats](https://crates.io/crates/tree-sitter-bats) | 0.1.0 | 0 | Bats (Bash Automated Testing System) grammar for tree-sitter, extending tree-si… |
+| 2026-10-08 18:17:58 | [hwd](https://crates.io/crates/hwd) | 0.1.0 | 0 | A Rust port of the test by Blackman and Vigna for Hamming-weight dependencies i… |
+| 2026-10-08 18:18:08 | [forma-proc-macro](https://crates.io/crates/forma-proc-macro) | 0.1.1 | 0 | Formatier API proc macro |
+| 2026-10-08 18:18:12 | [forma-schema](https://crates.io/crates/forma-schema) | 0.1.0 | 0 | Formatier API schema |
+| 2026-10-08 18:22:01 | [rh-cpg](https://crates.io/crates/rh-cpg) | 0.3.0 | 0 | Clinical Practice Guidelines (CPG) capabilities for FHIR resources |
 
 ## Data source
 
