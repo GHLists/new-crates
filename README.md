@@ -8,61 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 10:18 UTC
+## Latest list — 2026-10-08 11:18 UTC
 
-New crates published between 2026-10-08 09:18 UTC and 2026-10-08 10:18 UTC.
+New crates published between 2026-10-08 10:18 UTC and 2026-10-08 11:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-08T10-18-34-708583Z.csv)
+[Full CSV](data/new-crates-2026-10-08T11-18-37-499068Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-08 09:18:57 | [curveforge-bounds](https://crates.io/crates/curveforge-bounds) | 1.0.0 | 0 | Typenum bound expansion for CurveForge: the opt!, reduce! and #[bounded] macros |
-| 2026-10-08 09:18:58 | [curveforge-dsl](https://crates.io/crates/curveforge-dsl) | 1.0.0 | 0 | The parsing front end of the CurveForge model DSL: its grammar, its syntax tree… |
-| 2026-10-08 09:19:02 | [curveforge-ir](https://crates.io/crates/curveforge-ir) | 1.0.0 | 0 | The resolved IR of the CurveForge model DSL: its types, its methods, and the re… |
-| 2026-10-08 09:19:05 | [curveforge-graph](https://crates.io/crates/curveforge-graph) | 1.0.0 | 0 | The graph stage of the CurveForge pipeline: the function graph, its lowering fr… |
-| 2026-10-08 09:19:07 | [curveforge-codegen](https://crates.io/crates/curveforge-codegen) | 1.0.0 | 0 | The Rust back end of the CurveForge pipeline: emits a finite field, a curve mod… |
-| 2026-10-08 09:23:06 | [nolgia](https://crates.io/crates/nolgia) | 0.1.0 | 0 | Official Rust SDK for the Nolgia API: image, video, audio and agent generation,… |
-| 2026-10-08 09:23:40 | [ruststream-sqlx-dialect](https://crates.io/crates/ruststream-sqlx-dialect) | 0.7.0 | 0 | SQL text generation for ruststream-sqlx: the statements its procedural macros a… |
-| 2026-10-08 09:23:45 | [fk-assets](https://crates.io/crates/fk-assets) | 0.1.0 | 0 | Mesh loading, embedding into curved spaces, geodesic refinement |
-| 2026-10-08 09:23:45 | [ruststream-sqlx-macros](https://crates.io/crates/ruststream-sqlx-macros) | 0.7.0 | 0 | Procedural macros for ruststream-sqlx, the SQL database crate of the RustStream… |
-| 2026-10-08 09:23:52 | [metrics-summary-sink-clickhouse](https://crates.io/crates/metrics-summary-sink-clickhouse) | 0.1.0-alpha | 0 | Bounded, confirmation-aware ClickHouse transport for metrics summaries |
-| 2026-10-08 09:23:52 | [ruststream-sqlx](https://crates.io/crates/ruststream-sqlx) | 0.7.0 | 0 | SQL databases for the RustStream messaging framework through sqlx: a transactio… |
-| 2026-10-08 09:25:05 | [sootmark-office](https://crates.io/crates/sootmark-office) | 0.1.0 | 0 | Office document metadata for forensics: authors, last saved by, created, saved… |
-| 2026-10-08 09:27:42 | [minisofh](https://crates.io/crates/minisofh) | 0.3.0 | 0 | A bare essentials library for Financial Information Exchange (FIX) |
-| 2026-10-08 09:31:30 | [inplace-init-macros](https://crates.io/crates/inplace-init-macros) | 0.1.0 | 0 | Derive and procedural macros for in-place and pinned Rust initialization. |
-| 2026-10-08 09:32:03 | [gix-parallel](https://crates.io/crates/gix-parallel) | 0.50.0 | 0 | Serial and parallel computation helpers and shared ownership primitives for git… |
-| 2026-10-08 09:32:31 | [comfy-table-inline](https://crates.io/crates/comfy-table-inline) | 8.0.2 | 0 | A fork of comfy-table by Arne Beer adding inline table support. |
-| 2026-10-08 09:33:13 | [rustclamp-messaging](https://crates.io/crates/rustclamp-messaging) | 0.0.0 | 0 | Reserved for the RustClamp framework. Not yet released. |
-| 2026-10-08 09:33:16 | [rustclamp-scheduler](https://crates.io/crates/rustclamp-scheduler) | 0.0.0 | 0 | Reserved for the RustClamp framework. Not yet released. |
-| 2026-10-08 09:33:18 | [rustclamp-runtime](https://crates.io/crates/rustclamp-runtime) | 0.0.0 | 0 | Reserved for the RustClamp framework. Not yet released. |
-| 2026-10-08 09:33:20 | [rustclamp-postgres](https://crates.io/crates/rustclamp-postgres) | 0.0.0 | 0 | Reserved for the RustClamp framework. Not yet released. |
-| 2026-10-08 09:35:48 | [sootmark-indx](https://crates.io/crates/sootmark-indx) | 0.1.0 | 0 | NTFS directory indexes ($I30 INDX records) for forensics: every entry with its… |
-| 2026-10-08 09:36:26 | [mcp-apps-server-macros](https://crates.io/crates/mcp-apps-server-macros) | 0.1.0-alpha.1 | 0 | Optional resource and application routing macros for MCP Apps Server |
-| 2026-10-08 09:38:04 | [cargo-perspective](https://crates.io/crates/cargo-perspective) | 0.1.0 | 0 | A utility that graphically shows the crate dependency distribution within a pro… |
-| 2026-10-08 09:38:12 | [ic-auth-protocol-types](https://crates.io/crates/ic-auth-protocol-types) | 0.1.2 | 0 | Passive application authentication protocol contracts |
-| 2026-10-08 09:38:16 | [ic-auth](https://crates.io/crates/ic-auth) | 0.1.2 | 0 | Canonical application authentication protocol encoding |
-| 2026-10-08 09:39:09 | [mcp-apps-server](https://crates.io/crates/mcp-apps-server) | 0.1.0-alpha.1 | 0 | Typed MCP Apps registration and server integration for rmcp |
-| 2026-10-08 09:39:26 | [lazybrew](https://crates.io/crates/lazybrew) | 0.1.0 | 0 | A lazygit-inspired, btop-styled terminal UI for Homebrew, written in Rust with… |
-| 2026-10-08 09:41:56 | [metrics-summary-collector](https://crates.io/crates/metrics-summary-collector) | 0.1.0-alpha | 0 | Bounded metrics summary collector with HTTP and TCP ingestion |
-| 2026-10-08 09:42:26 | [kit-forecast](https://crates.io/crates/kit-forecast) | 0.1.0 | 0 | Native Rust port of KiT, a flow-matching diffusion transformer that forecasts c… |
-| 2026-10-08 09:43:46 | [inplace-init](https://crates.io/crates/inplace-init) | 0.1.0 | 0 | In-place initialization for Rust values, including pinned and field-by-field co… |
-| 2026-10-08 09:46:08 | [sootmark-messengers](https://crates.io/crates/sootmark-messengers) | 0.1.0 | 0 | Messaging apps' databases for forensics: Skype's main.db, with its accounts, co… |
-| 2026-10-08 09:48:21 | [cargo-rush](https://crates.io/crates/cargo-rush) | 0.0.2 | 0 | cargo run whatever is on the operating system clipboard. |
-| 2026-10-08 09:48:42 | [wslshim](https://crates.io/crates/wslshim) | 0.1.0 | 0 | Tiny Windows exe that runs the WSL command it's named after, translating Window… |
-| 2026-10-08 09:56:45 | [sootmark-cloudsync](https://crates.io/crates/sootmark-cloudsync) | 0.1.0 | 0 | Cloud sync clients' records for forensics: Dropbox's sync history, Google Drive… |
-| 2026-10-08 09:58:42 | [cargo-x402](https://crates.io/crates/cargo-x402) | 0.5.1 | 0 | Scaffold x402 projects from templates. |
-| 2026-10-08 10:00:12 | [feuclide](https://crates.io/crates/feuclide) | 0.1.0 | 0 | A game engine whose core does not assume Euclidean geometry |
-| 2026-10-08 10:03:25 | [curveforge-pipeline](https://crates.io/crates/curveforge-pipeline) | 1.0.0 | 0 | The CurveForge pipeline: the stages a definition passes through, and the compos… |
-| 2026-10-08 10:04:15 | [rtsp](https://crates.io/crates/rtsp) | 0.1.0 | 0 | Asynchronous RTSP 1.0/2.0 server and client connections, with request routing |
-| 2026-10-08 10:05:26 | [krabka-macros](https://crates.io/crates/krabka-macros) | 1.0.0 | 0 | Derive macros that let one declaration in the broker stand for code it would ot… |
-| 2026-10-08 10:05:29 | [krabka-verified](https://crates.io/crates/krabka-verified) | 1.0.0 | 0 | Formally verified pure kernels (Creusot) shared by Krabka crates |
-| 2026-10-08 10:05:32 | [krabka-log](https://crates.io/crates/krabka-log) | 1.0.0 | 0 | Byte-compatible reader/writer for Apache Kafka's on-disk log format |
-| 2026-10-08 10:06:44 | [toride-diagnostic-types](https://crates.io/crates/toride-diagnostic-types) | 0.1.0 | 0 | Shared diagnostic types: Severity, Finding, DoctorReport, and render helpers |
-| 2026-10-08 10:06:47 | [toride-fs](https://crates.io/crates/toride-fs) | 0.1.0 | 0 | Shared filesystem utilities: atomic writes, locking, path expansion |
-| 2026-10-08 10:06:50 | [toride-runner](https://crates.io/crates/toride-runner) | 0.1.0 | 0 | Shared command runner trait, implementations, and utilities |
-| 2026-10-08 10:06:54 | [toride-installer](https://crates.io/crates/toride-installer) | 0.1.0 | 0 | Tool-agnostic release-artifact installer framework (pure Rust, reqwest-based).… |
-| 2026-10-08 10:07:02 | [toride-registry](https://crates.io/crates/toride-registry) | 0.1.0 | 0 | Normalizes external package registries (Homebrew, Flathub, AppStream/DEP-11, Re… |
-| 2026-10-08 10:08:57 | [curfew](https://crates.io/crates/curfew) | 0.0.5 | 0 | A deadline-aware fork-join model where multiple tasks run in parallel, but only… |
+| 2026-10-08 10:19:16 | [borrowed-buf](https://crates.io/crates/borrowed-buf) | 0.1.0 | 0 | A small, fast, no_std alternative to the nightly-only core::io::BorrowedBuf |
+| 2026-10-08 10:26:31 | [rusix-derive](https://crates.io/crates/rusix-derive) | 0.1.0 | 0 | Procedural macros for Rusix configuration and symbolic values |
+| 2026-10-08 10:26:44 | [rusix](https://crates.io/crates/rusix) | 0.1.0 | 0 | Typed Rust authoring, compilation and isolated evaluation for Nix |
+| 2026-10-08 10:27:55 | [speechwarp](https://crates.io/crates/speechwarp) | 0.3.5 | 0 | Nonlinear speed-up for speech: listen faster and still follow it |
+| 2026-10-08 10:51:34 | [discord-time](https://crates.io/crates/discord-time) | 0.1.0 | 0 | Discord Timestamp Generator |
+| 2026-10-08 10:57:50 | [blastcode](https://crates.io/crates/blastcode) | 0.1.0 | 0 | Incremental code-graph MCP server and blast-radius engine for AI coding agents:… |
+| 2026-10-08 11:00:00 | [prognost](https://crates.io/crates/prognost) | 0.1.0 | 0 | Read a code change's prognosis before it ships: like terraform plan, for code —… |
+| 2026-10-08 11:00:07 | [mimic-browser](https://crates.io/crates/mimic-browser) | 0.1.0 | 0 | Typed Mimic extensions and verified native runtime management beside existing a… |
+| 2026-10-08 11:00:09 | [cctop-tunnel](https://crates.io/crates/cctop-tunnel) | 0.1.1 | 0 | Internal to cctop: puts local ports on public URLs, through a Cloudflare quick… |
+| 2026-10-08 11:06:48 | [graph_mvcc](https://crates.io/crates/graph_mvcc) | 0.2.0 | 0 | Rust library for working with Multi-Version Concurrency Control in Graph Databa… |
+| 2026-10-08 11:06:53 | [isu](https://crates.io/crates/isu) | 0.1.6 | 0 | Rust implementation of Information State Update theory, applicable in Issue-Bas… |
+| 2026-10-08 11:07:00 | [jax-rs](https://crates.io/crates/jax-rs) | 0.5.1 | 0 | JAX in Rust - A complete machine learning framework with WebGPU acceleration. |
+| 2026-10-08 11:10:44 | [toride-mise](https://crates.io/crates/toride-mise) | 0.1.0 | 0 | Typed mise integration: query tool versions, config files, and environment state |
+| 2026-10-08 11:10:55 | [toride-apps](https://crates.io/crates/toride-apps) | 0.1.0 | 0 | App install/uninstall execution layer: plans registry `App`s into concrete back… |
+| 2026-10-08 11:10:58 | [toride-service](https://crates.io/crates/toride-service) | 0.1.0 | 0 | Shared systemd service management utilities |
+| 2026-10-08 11:11:10 | [toride-ssh-core](https://crates.io/crates/toride-ssh-core) | 0.1.0 | 0 | Shared types, errors, path resolution, CLI runner abstraction, and undo mechani… |
+| 2026-10-08 11:11:25 | [toride-status](https://crates.io/crates/toride-status) | 0.1.0 | 0 | Point-in-time host status snapshots: OS metrics, daemon liveness, and SSH health |
+| 2026-10-08 11:13:44 | [toride-audit](https://crates.io/crates/toride-audit) | 0.1.0 | 0 | Linux audit daemon, file integrity monitoring, and log management |
+| 2026-10-08 11:17:21 | [robocode](https://crates.io/crates/robocode) | 0.1.0 | 0 | Tank Combat Model Interface |
+| 2026-10-08 11:17:21 | [zenith-geometry](https://crates.io/crates/zenith-geometry) | 0.0.9 | 0 | Zenith deterministic vector geometry math. |
+| 2026-10-08 11:17:33 | [zenith-raster](https://crates.io/crates/zenith-raster) | 0.0.9 | 0 | Zenith deterministic raster surfaces and color transfer math. |
+| 2026-10-08 11:17:42 | [zenith-perception](https://crates.io/crates/zenith-perception) | 0.0.9 | 0 | Read-only deterministic perception metrics for Zenith raster surfaces and vecto… |
+| 2026-10-08 11:17:44 | [zenith-zpx](https://crates.io/crates/zenith-zpx) | 0.0.9 | 0 | Zenith ZPX raster substrate document model and deterministic manifest codec. |
+| 2026-10-08 11:17:53 | [zenith-producers](https://crates.io/crates/zenith-producers) | 0.0.9 | 0 | Zenith deterministic write-side asset producers. |
 
 ## Data source
 
