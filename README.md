@@ -8,57 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 23:18 UTC
+## Latest list — 2026-10-08 00:18 UTC
 
-New crates published between 2026-10-07 22:19 UTC and 2026-10-07 23:18 UTC.
+New crates published between 2026-10-07 23:18 UTC and 2026-10-08 00:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-07T23-18-37-439134Z.csv)
+[Full CSV](data/new-crates-2026-10-08T00-18-40-050117Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-07 22:20:26 | [lsp-lang](https://crates.io/crates/lsp-lang) | 1.0.0 | 0 | Language Server Protocol scaffolding: JSON-RPC transport, server lifecycle, inc… |
-| 2026-10-07 22:20:36 | [pymab](https://crates.io/crates/pymab) | 2.0.1 | 0 | Reliable, reproducible multi-armed bandit policies and experiments. |
-| 2026-10-07 22:20:42 | [gfa-to-tabix](https://crates.io/crates/gfa-to-tabix) | 0.1.0 | 0 | Indexes a pangenome graph's GFA by genome coordinate, as two Tabix-indexed BED… |
-| 2026-10-07 22:21:53 | [scryer-db](https://crates.io/crates/scryer-db) | 0.1.0 | 0 | Database models and Turso/SQLite storage layer for Scryer code intelligence |
-| 2026-10-07 22:22:13 | [scryer-engine](https://crates.io/crates/scryer-engine) | 0.1.0 | 0 | Tree-sitter and stack-graphs AST indexing engine for Scryer code intelligence |
-| 2026-10-07 22:22:43 | [scryer-mcp](https://crates.io/crates/scryer-mcp) | 0.1.0 | 0 | Model Context Protocol (MCP) server for Scryer code intelligence |
-| 2026-10-07 22:23:08 | [scryer-cli](https://crates.io/crates/scryer-cli) | 0.1.0 | 0 | CLI tool and shared daemon runner for Scryer code intelligence |
-| 2026-10-07 22:24:41 | [autumn-plugin-three](https://crates.io/crates/autumn-plugin-three) | 0.1.0 | 0 | Autumn plugin: Three.js 3D scenes with Maud + htmx ergonomics. |
-| 2026-10-07 22:29:34 | [aveecare](https://crates.io/crates/aveecare) | 0.1.0 | 0 | Official Rust library for the AveeCare API: patients, visits, caregivers and bi… |
-| 2026-10-07 22:30:19 | [zvidlib-hevc-decoder](https://crates.io/crates/zvidlib-hevc-decoder) | 0.4.1 | 0 | Pure-Rust HEVC software decoder for zvidlib |
-| 2026-10-07 22:30:21 | [zvidlib-hevc-encoder](https://crates.io/crates/zvidlib-hevc-encoder) | 0.4.1 | 0 | Pure-Rust HEVC software encoder for zvidlib |
-| 2026-10-07 22:31:21 | [zoreal-oauth2](https://crates.io/crates/zoreal-oauth2) | 0.1.1 | 0 | Sign in with ZOREAL for Rust backends: OAuth 2.0 / OpenID Connect relying-party… |
-| 2026-10-07 22:37:39 | [zvidlib-vp9-decoder](https://crates.io/crates/zvidlib-vp9-decoder) | 0.4.1 | 0 | Pure-Rust VP9 software decoder for zvidlib |
-| 2026-10-07 22:38:07 | [purist](https://crates.io/crates/purist) | 0.4.0 | 0 | Fast purist AST linter for enforcing strict Rust code hygiene |
-| 2026-10-07 22:40:23 | [renyi_json](https://crates.io/crates/renyi_json) | 0.1.0 | 0 | JSON as a value, with the reader and the writer the Renyi toolchain shares |
-| 2026-10-07 22:40:29 | [renyi_syntax](https://crates.io/crates/renyi_syntax) | 0.1.0 | 0 | Lexer, parser and formatter for the Renyi programming language |
-| 2026-10-07 22:40:36 | [renyi_package](https://crates.io/crates/renyi_package) | 0.1.0 | 0 | Packages of Renyi programs: the manifest, the lockfile, versions, the registry… |
-| 2026-10-07 22:40:45 | [renyi_check](https://crates.io/crates/renyi_check) | 0.1.0 | 0 | Name resolution, type checking and effect checking for Renyi programs |
-| 2026-10-07 22:40:52 | [renyi_index](https://crates.io/crates/renyi_index) | 0.1.0 | 0 | The project map of a Renyi project: one record per definition with signature, p… |
-| 2026-10-07 22:43:08 | [ozzy-config](https://crates.io/crates/ozzy-config) | 0.1.0 | 0 | Validated deployment configuration and persistent identity for Ozzy. |
-| 2026-10-07 22:43:09 | [ozzy-io](https://crates.io/crates/ozzy-io) | 0.1.0 | 0 | Owned asynchronous file operations and resource contracts for Ozzy |
-| 2026-10-07 22:43:10 | [ozzy-proto](https://crates.io/crates/ozzy-proto) | 0.1.0 | 0 | Sans-I/O application protocol and message types for Ozzy. |
-| 2026-10-07 22:43:13 | [ozzy-io-pool](https://crates.io/crates/ozzy-io-pool) | 0.1.0 | 0 | Explicit bounded file workers for Ozzy |
-| 2026-10-07 22:43:14 | [ozzy-journal](https://crates.io/crates/ozzy-journal) | 0.1.0 | 0 | Journal contracts and local durability evidence for Ozzy. |
-| 2026-10-07 22:43:16 | [ozzy-io-aio](https://crates.io/crates/ozzy-io-aio) | 0.1.0 | 0 | Backend-owned Linux AIO execution for Ozzy |
-| 2026-10-07 22:44:32 | [odoo-lint](https://crates.io/crates/odoo-lint) | 0.1.0-alpha.1 | 0 | Blazing fast Rust-native linter for Odoo modules |
-| 2026-10-07 22:46:16 | [renyi_vm](https://crates.io/crates/renyi_vm) | 0.1.0 | 0 | The Renyi virtual machine: bytecode, values, the library primitives and the run… |
-| 2026-10-07 22:47:39 | [zvidlib-vorbis-decoder](https://crates.io/crates/zvidlib-vorbis-decoder) | 0.4.1 | 0 | Pure-Rust Vorbis decoder for zvidlib |
-| 2026-10-07 22:48:37 | [brep-to-step](https://crates.io/crates/brep-to-step) | 0.1.0 | 0 | A minimal STEP AP242 exporter for B-rep CAD kernels. |
-| 2026-10-07 22:53:19 | [ozzy-core](https://crates.io/crates/ozzy-core) | 0.1.0 | 0 | Deterministic owner state for Ozzy. |
-| 2026-10-07 22:56:17 | [renyi](https://crates.io/crates/renyi) | 0.1.0 | 0 | The Renyi toolchain: one binary for checking, formatting, running, testing and… |
-| 2026-10-07 22:57:40 | [zvidlib-vorbis-encoder](https://crates.io/crates/zvidlib-vorbis-encoder) | 0.4.1 | 0 | Pure-Rust Vorbis encoder for zvidlib |
-| 2026-10-07 23:02:42 | [wsr-git](https://crates.io/crates/wsr-git) | 0.0.3 | 0 | Git hook management, shim installation, and stateless hook reconciliation for w… |
-| 2026-10-07 23:02:48 | [wsr-resolver](https://crates.io/crates/wsr-resolver) | 0.0.3 | 0 | Action reference resolver: maps uses: refs to Wasm components and assigns execu… |
-| 2026-10-07 23:02:53 | [wsr-sandbox](https://crates.io/crates/wsr-sandbox) | 0.0.3 | 0 | Tier 1 sandbox: Wasmtime + WASI Preview 3, one isolated instance per step |
-| 2026-10-07 23:03:00 | [wsr-wasix](https://crates.io/crates/wsr-wasix) | 0.0.3 | 0 | Tier 2 sandbox: Wasmer + WASIX for POSIX-compatible workloads (transitional lay… |
-| 2026-10-07 23:03:07 | [wsr-engine](https://crates.io/crates/wsr-engine) | 0.0.3 | 0 | Job DAG scheduler, step orchestrator, matrix expansion, and outputs propagation |
-| 2026-10-07 23:03:36 | [ozzy-journal-segment](https://crates.io/crates/ozzy-journal-segment) | 0.1.0 | 0 | Segmented append-only journal implementation for Ozzy. |
-| 2026-10-07 23:07:38 | [golf](https://crates.io/crates/golf) | 0.1.0 | 0 | An open source CAD kernel |
-| 2026-10-07 23:07:39 | [zvidlib-vp8](https://crates.io/crates/zvidlib-vp8) | 0.4.1 | 0 | Pure-Rust VP8 decoder and encoder for zvidlib |
-| 2026-10-07 23:09:54 | [debug-tracer](https://crates.io/crates/debug-tracer) | 0.1.0 | 0 | a simple debuging tracing tool for runtime error |
-| 2026-10-07 23:13:44 | [ozzy-replication](https://crates.io/crates/ozzy-replication) | 0.1.0 | 0 | Deterministic replication state for Ozzy. |
-| 2026-10-07 23:17:39 | [zvidlib-vp9-encoder](https://crates.io/crates/zvidlib-vp9-encoder) | 0.4.1 | 0 | Pure-Rust VP9 software encoder for zvidlib |
+| 2026-10-07 23:20:37 | [hypertabular](https://crates.io/crates/hypertabular) | 0.7.0 | 0 | Forward-only tabular parsing — delimited text and spreadsheets — with a HyperCa… |
+| 2026-10-07 23:22:20 | [strudel-internal](https://crates.io/crates/strudel-internal) | 0.1.0 | 0 | Internal shared utilities for the strudel-rs workspace |
+| 2026-10-07 23:22:21 | [strudel-macros](https://crates.io/crates/strudel-macros) | 0.1.0 | 0 | Internal procedural macros for the strudel-rs workspace |
+| 2026-10-07 23:22:22 | [strudel-music-theory](https://crates.io/crates/strudel-music-theory) | 0.1.0 | 0 | Music theory for Strudel |
+| 2026-10-07 23:22:22 | [strudel-pcm](https://crates.io/crates/strudel-pcm) | 0.1.0 | 0 | Shared audio container demuxing and codec decoding for Strudel |
+| 2026-10-07 23:22:23 | [strudel-core](https://crates.io/crates/strudel-core) | 0.1.0 | 0 | Core types and utilities for Strudel Rust tools |
+| 2026-10-07 23:23:39 | [sootmark-wmi](https://crates.io/crates/sootmark-wmi) | 0.1.1 | 0 | The Windows WMI (CIM) repository for forensics: namespaces, classes and instanc… |
+| 2026-10-07 23:24:11 | [ozzy-runtime](https://crates.io/crates/ozzy-runtime) | 0.1.0 | 0 | Embedded Ozzy broker runtime and native SDK over OMQ. |
+| 2026-10-07 23:27:00 | [gafctl](https://crates.io/crates/gafctl) | 0.1.1 | 0 | A Rust proxy for GAF Master Flow attic fans |
+| 2026-10-07 23:27:40 | [zvidlib](https://crates.io/crates/zvidlib) | 0.4.1 | 0 | Frame-accurate video and audio I/O for native and WebAssembly applications |
+| 2026-10-07 23:28:40 | [scico_rs](https://crates.io/crates/scico_rs) | 0.2.1 | 0 | SCIcoRS — a unified scientific-computing and simulation kernel: sparse & dense… |
+| 2026-10-07 23:32:59 | [yah-runner-core](https://crates.io/crates/yah-runner-core) | 0.8.42 | 0 | Core types and traits for the yah agent runner |
+| 2026-10-07 23:33:39 | [rudb-pgwire](https://crates.io/crates/rudb-pgwire) | 0.8.43 | 0 | The PostgreSQL wire protocol codec: frames, messages and the per-connection pro… |
+| 2026-10-07 23:33:49 | [rudb-index](https://crates.io/crates/rudb-index) | 0.8.43 | 0 | The key index: normalized keys and the sorted runs of an index, with their fenc… |
+| 2026-10-07 23:33:58 | [rudb-pgparse](https://crates.io/crates/rudb-pgparse) | 0.8.43 | 0 | The PostgreSQL grammar: the lexer, the parse tables made from gram.y and the pa… |
+| 2026-10-07 23:33:59 | [rudb-pgtypes](https://crates.io/crates/rudb-pgtypes) | 0.8.43 | 0 | The PostgreSQL types: OIDs, typmods, and the text and binary input and output o… |
+| 2026-10-07 23:34:49 | [ozzy-broker](https://crates.io/crates/ozzy-broker) | 0.1.0 | 0 | Durable event-streaming broker with OMQ transport. |
+| 2026-10-07 23:34:57 | [yah-runner-ho](https://crates.io/crates/yah-runner-ho) | 0.8.42 | 0 | OpenAI-compatible (Chat Completions SSE + Ollama /api/chat) cell of the yah age… |
+| 2026-10-07 23:35:10 | [yah-runner-ha](https://crates.io/crates/yah-runner-ha) | 0.8.42 | 0 | Anthropic-native (/v1/messages SSE) cell of the yah agent runner |
+| 2026-10-07 23:35:18 | [yah-runner-mcp](https://crates.io/crates/yah-runner-mcp) | 0.8.42 | 0 | MCP integration for the yah agent runner |
+| 2026-10-07 23:35:41 | [yah-runner-pv](https://crates.io/crates/yah-runner-pv) | 0.8.42 | 0 | Claude -p process-cell (pv) host for the yah agent runner |
+| 2026-10-07 23:41:18 | [strudel-dsp](https://crates.io/crates/strudel-dsp) | 0.1.0 | 0 | Platform-agnostic DSP engine for Strudel |
+| 2026-10-07 23:41:18 | [strudel-soundfont](https://crates.io/crates/strudel-soundfont) | 0.1.0 | 0 | WebAudioFontData (WAFD) definitions, http loader, and parser for Strudel |
+| 2026-10-07 23:45:09 | [ozzy](https://crates.io/crates/ozzy) | 0.1.0 | 0 | Native writer and reader SDK for Ozzy brokers over OMQ. |
+| 2026-10-07 23:45:21 | [midi-to-strudel](https://crates.io/crates/midi-to-strudel) | 0.1.0 | 0 | Convert MIDI files to Strudel patterns |
+| 2026-10-07 23:45:36 | [tatting](https://crates.io/crates/tatting) | 0.0.1 | 0 | Composable, brokerless messaging toolkit built on QUIC — push/pull, pub/sub, re… |
+| 2026-10-07 23:45:56 | [tatting-broker](https://crates.io/crates/tatting-broker) | 0.0.1 | 0 | Composable broker primitives for Tatting — queues, stores, routers, and worker… |
+| 2026-10-07 23:46:21 | [faier-traits](https://crates.io/crates/faier-traits) | 0.24.0 | 0 | linear algebra library — maintained fork of faer with AI-assisted fixes |
+| 2026-10-07 23:46:23 | [faier](https://crates.io/crates/faier) | 0.25.0 | 0 | linear algebra library — maintained fork of faer with AI-assisted fixes |
+| 2026-10-07 23:46:50 | [rudb-server](https://crates.io/crates/rudb-server) | 0.8.43 | 0 | The PostgreSQL server: listeners, sessions and the binary rudb-server. |
+| 2026-10-07 23:49:33 | [crush-notebook-core](https://crates.io/crates/crush-notebook-core) | 0.1.0 | 0 | Core types for Crush-Notebook — cells, documents, execution state |
+| 2026-10-07 23:49:35 | [crush-notebook-kernel](https://crates.io/crates/crush-notebook-kernel) | 0.1.0 | 0 | Notebook kernel for Crush — MCP server evaluating notebook cells via crush-fron… |
+| 2026-10-07 23:49:36 | [crush-notebook-render](https://crates.io/crates/crush-notebook-render) | 0.1.0 | 0 | HTML renderer for Crush-Notebook — emits self-contained interactive notebook pa… |
+| 2026-10-07 23:54:13 | [alice-zip-cli](https://crates.io/crates/alice-zip-cli) | 2.5.0 | 0 | A next-generation procedural compression engine utilizing Kolmogorov complexity… |
+| 2026-10-07 23:57:35 | [arachne-kv-node](https://crates.io/crates/arachne-kv-node) | 0.2.0 | 0 | Arachne node binary: a runnable single-node Arachne process (WAL + raft + KV st… |
+| 2026-10-08 00:08:05 | [midi-to-strudel-wasm](https://crates.io/crates/midi-to-strudel-wasm) | 0.1.0 | 0 | WASM bindings for midi-to-strudel |
+| 2026-10-08 00:08:08 | [strudel-markov](https://crates.io/crates/strudel-markov) | 0.1.0 | 0 | Markov chain utilities for Strudel patterns |
+| 2026-10-08 00:08:25 | [accelerate](https://crates.io/crates/accelerate) | 0.1.0 | 0 | Reusable native surface presentation and software acceleration primitives |
+| 2026-10-08 00:09:30 | [stree-cli](https://crates.io/crates/stree-cli) | 0.2.0 | 0 | CLI for producing/validating STree manifests |
+| 2026-10-08 00:13:33 | [echovalidum-receipt](https://crates.io/crates/echovalidum-receipt) | 0.1.0 | 0 | Check echovalidum.com's post-quantum signed receipts: RFC 9421 message signatur… |
+| 2026-10-08 00:15:44 | [strudel-markov-wasm](https://crates.io/crates/strudel-markov-wasm) | 0.1.0 | 0 | WASM bindings for strudel-markov |
 
 ## Data source
 

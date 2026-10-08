@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-07T23:20:37.887706Z,hypertabular,0.7.0,0,0,https://github.com/SkunkWerkx/HyperTabular,"Forward-only tabular parsing — delimited text and spreadsheets — with a HyperCast verdict for every cell: an allocation-free, panic-free, no_std core that fills caller-owned column buffers, wrapped a…"
+2026-10-07T23:22:20.770521Z,strudel-internal,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,Internal shared utilities for the strudel-rs workspace
+2026-10-07T23:22:21.360652Z,strudel-macros,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,Internal procedural macros for the strudel-rs workspace
+2026-10-07T23:22:22.165119Z,strudel-music-theory,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,Music theory for Strudel
+2026-10-07T23:22:22.893404Z,strudel-pcm,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,Shared audio container demuxing and codec decoding for Strudel
+2026-10-07T23:22:23.949516Z,strudel-core,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,Core types and utilities for Strudel Rust tools
+2026-10-07T23:23:39.079045Z,sootmark-wmi,0.1.1,0,0,https://github.com/Sootmark/wmi,"The Windows WMI (CIM) repository for forensics: namespaces, classes and instances read from OBJECTS.DATA, INDEX.BTR and the MAPPING files, and the event subscriptions (filters, consumers, bindings) a…"
+2026-10-07T23:24:11.625806Z,ozzy-runtime,0.1.0,0,0,https://github.com/paddor/ozzy,Embedded Ozzy broker runtime and native SDK over OMQ.
+2026-10-07T23:27:00.857301Z,gafctl,0.1.1,0,0,https://github.com/mjc/gafctl,A Rust proxy for GAF Master Flow attic fans
+2026-10-07T23:27:40.697116Z,zvidlib,0.4.1,0,0,https://github.com/lsegal/zvidlib,Frame-accurate video and audio I/O for native and WebAssembly applications
+2026-10-07T23:28:40.883926Z,scico_rs,0.2.1,0,0,https://github.com/mikewolfli/ScicoRs,"SCIcoRS — a unified scientific-computing and simulation kernel: sparse & dense linear algebra, ODE/DAE solvers, mesh/field workflows, checkpointing, self-describing datasets, and numerical validation…"
+2026-10-07T23:32:59.594709Z,yah-runner-core,0.8.42,0,0,https://github.com/yah-ai/runner,Core types and traits for the yah agent runner
+2026-10-07T23:33:39.761697Z,rudb-pgwire,0.8.43,0,0,https://github.com/tamnd/rudb,"The PostgreSQL wire protocol codec: frames, messages and the per-connection protocol state."
+2026-10-07T23:33:49.649227Z,rudb-index,0.8.43,0,0,https://github.com/tamnd/rudb,"The key index: normalized keys and the sorted runs of an index, with their fences and bloom filters."
+2026-10-07T23:33:58.984753Z,rudb-pgparse,0.8.43,0,0,https://github.com/tamnd/rudb,"The PostgreSQL grammar: the lexer, the parse tables made from gram.y and the parser."
+2026-10-07T23:33:59.634875Z,rudb-pgtypes,0.8.43,0,0,https://github.com/tamnd/rudb,"The PostgreSQL types: OIDs, typmods, and the text and binary input and output of each type."
+2026-10-07T23:34:49.878691Z,ozzy-broker,0.1.0,0,0,https://github.com/paddor/ozzy,Durable event-streaming broker with OMQ transport.
+2026-10-07T23:34:57.534813Z,yah-runner-ho,0.8.42,0,0,https://github.com/yah-ai/runner,OpenAI-compatible (Chat Completions SSE + Ollama /api/chat) cell of the yah agent runner
+2026-10-07T23:35:10.835837Z,yah-runner-ha,0.8.42,0,0,https://github.com/yah-ai/runner,Anthropic-native (/v1/messages SSE) cell of the yah agent runner
+2026-10-07T23:35:18.921201Z,yah-runner-mcp,0.8.42,0,0,https://github.com/yah-ai/runner,MCP integration for the yah agent runner
+2026-10-07T23:35:41.627424Z,yah-runner-pv,0.8.42,0,0,https://github.com/yah-ai/runner,Claude -p process-cell (pv) host for the yah agent runner
+2026-10-07T23:41:18.011489Z,strudel-dsp,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,Platform-agnostic DSP engine for Strudel
+2026-10-07T23:41:18.956478Z,strudel-soundfont,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,"WebAudioFontData (WAFD) definitions, http loader, and parser for Strudel"
+2026-10-07T23:45:09.599432Z,ozzy,0.1.0,0,0,https://github.com/paddor/ozzy,Native writer and reader SDK for Ozzy brokers over OMQ.
+2026-10-07T23:45:21.213823Z,midi-to-strudel,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,Convert MIDI files to Strudel patterns
+2026-10-07T23:45:36.526895Z,tatting,0.0.1,0,0,https://gitlab.com/keith.mhughes/tatting,"Composable, brokerless messaging toolkit built on QUIC — push/pull, pub/sub, req/rep"
+2026-10-07T23:45:56.251713Z,tatting-broker,0.0.1,0,0,https://gitlab.com/keith.mhughes/tatting,"Composable broker primitives for Tatting — queues, stores, routers, and worker registries"
+2026-10-07T23:46:21.364848Z,faier-traits,0.24.0,0,0,https://github.com/rjwalters/faier,linear algebra library — maintained fork of faer with AI-assisted fixes
+2026-10-07T23:46:23.617265Z,faier,0.25.0,0,0,https://github.com/rjwalters/faier,linear algebra library — maintained fork of faer with AI-assisted fixes
+2026-10-07T23:46:50.007678Z,rudb-server,0.8.43,0,0,https://github.com/tamnd/rudb,"The PostgreSQL server: listeners, sessions and the binary rudb-server."
+2026-10-07T23:49:33.764694Z,crush-notebook-core,0.1.0,0,0,https://github.com/nixpt/crush-notebook,"Core types for Crush-Notebook — cells, documents, execution state"
+2026-10-07T23:49:35.877722Z,crush-notebook-kernel,0.1.0,0,0,https://github.com/nixpt/crush-notebook,Notebook kernel for Crush — MCP server evaluating notebook cells via crush-frontend + crush-vm
+2026-10-07T23:49:36.334652Z,crush-notebook-render,0.1.0,0,0,https://github.com/nixpt/crush-notebook,HTML renderer for Crush-Notebook — emits self-contained interactive notebook pages
+2026-10-07T23:54:13.938038Z,alice-zip-cli,2.5.0,0,0,https://github.com/ext-sakamoro/ALICE-Zip,A next-generation procedural compression engine utilizing Kolmogorov complexity approximation.
+2026-10-07T23:57:35.679322Z,arachne-kv-node,0.2.0,0,0,https://github.com/xrays-tech/arachne,Arachne node binary: a runnable single-node Arachne process (WAL + raft + KV state machine + /readyz + /metrics)
+2026-10-08T00:08:05.579206Z,midi-to-strudel-wasm,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,WASM bindings for midi-to-strudel
+2026-10-08T00:08:08.300698Z,strudel-markov,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,Markov chain utilities for Strudel patterns
+2026-10-08T00:08:25.1831Z,accelerate,0.1.0,0,0,https://github.com/opensitez/accelerate,Reusable native surface presentation and software acceleration primitives
+2026-10-08T00:09:30.134532Z,stree-cli,0.2.0,0,0,,CLI for producing/validating STree manifests
+2026-10-08T00:13:33.86028Z,echovalidum-receipt,0.1.0,0,0,,"Check echovalidum.com's post-quantum signed receipts: RFC 9421 message signatures with ML-DSA (FIPS 204), natively or as WebAssembly, as My Card does"
+2026-10-08T00:15:44.264372Z,strudel-markov-wasm,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,WASM bindings for strudel-markov
