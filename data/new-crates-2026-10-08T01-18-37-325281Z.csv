@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T00:21:15.362238Z,grammar-lang,1.0.0,0,0,https://github.com/jamesgober/grammar-lang,"A runtime parser generator: describe tokens and rules, get a DFA lexer and an LALR(1) parser."
+2026-10-08T00:23:02.174914Z,sootmark-ual,0.1.0,0,0,https://github.com/Sootmark/ual,"Windows Server User Access Logging (UAL, the Sum folder's .mdb databases) for forensics: which accounts and addresses used which server role, when, and how often each day of the year, read with sootm…"
+2026-10-08T00:25:52.4857Z,strudel-sounds,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,Sound registry and sample management for Strudel - compatible with strudel.json format
+2026-10-08T00:36:01.663031Z,strudel-audio,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,Native audio playback engine for Strudel patterns
+2026-10-08T00:42:59.873319Z,sootmark-winlogs,0.1.1,0,0,https://github.com/Sootmark/winlogs,"Windows text logs for forensics: Program Compatibility Assistant (execution, Windows 11), IIS and Windows Firewall (W3C), PowerShell transcripts, TeamViewer logs and connections, setupapi (device ins…"
+2026-10-08T00:46:11.178372Z,strudel-mini,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,Mini notation parser and validator for Strudel
+2026-10-08T00:56:08.367259Z,cube-drone-marquee-html-import,0.9.0,0,0,https://github.com/cube-drone/marqueemarkup,"Best-guess, safe-by-construction conversion from untrusted HTML to Marquee"
+2026-10-08T00:56:20.937026Z,strudel-dsl,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,DSL parser and evaluator for Strudel pattern expressions
+2026-10-08T00:57:18.165785Z,autumn-plugin-pixijs,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-pixijs,Autumn plugin: PixiJS 2D canvas stages with Maud + htmx ergonomics.
+2026-10-08T00:58:04.842255Z,jalari-macros,0.1.0,0,0,https://github.com/MengXi47/jalari,Procedural macros for jalari
+2026-10-08T00:58:07.592924Z,jalari,0.1.0,0,0,https://github.com/MengXi47/jalari,A PostgreSQL-only background job framework
+2026-10-08T01:06:29.351087Z,strudel-audio-wasm,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,WASM audio bindings for Strudel DSP engine
+2026-10-08T01:06:46.186559Z,jetfish,0.0.0,0,0,,Terminal
+2026-10-08T01:11:14.825267Z,nichlink-run-method,0.2.1,0,0,https://github.com/Nichtigott/nichlink,Compatibility shell: the host-facing crate name this surface had before the nine-to-three merge
+2026-10-08T01:16:38.382065Z,strudel-rs,0.1.0,0,0,https://codeberg.org/nukleas/strudel-rs,Feature-selectable facade for the strudel-rs workspace libraries
+2026-10-08T01:17:43.347166Z,sootmark-defender,0.1.0,0,0,https://github.com/Sootmark/defender,"Microsoft Defender for forensics: its detection history files (what was detected, where, when, by which process, for which user, and the file's SHA-256)."
