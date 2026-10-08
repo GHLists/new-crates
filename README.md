@@ -8,38 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 11:18 UTC
+## Latest list — 2026-10-08 12:20 UTC
 
-New crates published between 2026-10-08 10:18 UTC and 2026-10-08 11:18 UTC.
+New crates published between 2026-10-08 11:18 UTC and 2026-10-08 12:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-08T11-18-37-499068Z.csv)
+[Full CSV](data/new-crates-2026-10-08T12-20-40-984402Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-08 10:19:16 | [borrowed-buf](https://crates.io/crates/borrowed-buf) | 0.1.0 | 0 | A small, fast, no_std alternative to the nightly-only core::io::BorrowedBuf |
-| 2026-10-08 10:26:31 | [rusix-derive](https://crates.io/crates/rusix-derive) | 0.1.0 | 0 | Procedural macros for Rusix configuration and symbolic values |
-| 2026-10-08 10:26:44 | [rusix](https://crates.io/crates/rusix) | 0.1.0 | 0 | Typed Rust authoring, compilation and isolated evaluation for Nix |
-| 2026-10-08 10:27:55 | [speechwarp](https://crates.io/crates/speechwarp) | 0.3.5 | 0 | Nonlinear speed-up for speech: listen faster and still follow it |
-| 2026-10-08 10:51:34 | [discord-time](https://crates.io/crates/discord-time) | 0.1.0 | 0 | Discord Timestamp Generator |
-| 2026-10-08 10:57:50 | [blastcode](https://crates.io/crates/blastcode) | 0.1.0 | 0 | Incremental code-graph MCP server and blast-radius engine for AI coding agents:… |
-| 2026-10-08 11:00:00 | [prognost](https://crates.io/crates/prognost) | 0.1.0 | 0 | Read a code change's prognosis before it ships: like terraform plan, for code —… |
-| 2026-10-08 11:00:07 | [mimic-browser](https://crates.io/crates/mimic-browser) | 0.1.0 | 0 | Typed Mimic extensions and verified native runtime management beside existing a… |
-| 2026-10-08 11:00:09 | [cctop-tunnel](https://crates.io/crates/cctop-tunnel) | 0.1.1 | 0 | Internal to cctop: puts local ports on public URLs, through a Cloudflare quick… |
-| 2026-10-08 11:06:48 | [graph_mvcc](https://crates.io/crates/graph_mvcc) | 0.2.0 | 0 | Rust library for working with Multi-Version Concurrency Control in Graph Databa… |
-| 2026-10-08 11:06:53 | [isu](https://crates.io/crates/isu) | 0.1.6 | 0 | Rust implementation of Information State Update theory, applicable in Issue-Bas… |
-| 2026-10-08 11:07:00 | [jax-rs](https://crates.io/crates/jax-rs) | 0.5.1 | 0 | JAX in Rust - A complete machine learning framework with WebGPU acceleration. |
-| 2026-10-08 11:10:44 | [toride-mise](https://crates.io/crates/toride-mise) | 0.1.0 | 0 | Typed mise integration: query tool versions, config files, and environment state |
-| 2026-10-08 11:10:55 | [toride-apps](https://crates.io/crates/toride-apps) | 0.1.0 | 0 | App install/uninstall execution layer: plans registry `App`s into concrete back… |
-| 2026-10-08 11:10:58 | [toride-service](https://crates.io/crates/toride-service) | 0.1.0 | 0 | Shared systemd service management utilities |
-| 2026-10-08 11:11:10 | [toride-ssh-core](https://crates.io/crates/toride-ssh-core) | 0.1.0 | 0 | Shared types, errors, path resolution, CLI runner abstraction, and undo mechani… |
-| 2026-10-08 11:11:25 | [toride-status](https://crates.io/crates/toride-status) | 0.1.0 | 0 | Point-in-time host status snapshots: OS metrics, daemon liveness, and SSH health |
-| 2026-10-08 11:13:44 | [toride-audit](https://crates.io/crates/toride-audit) | 0.1.0 | 0 | Linux audit daemon, file integrity monitoring, and log management |
-| 2026-10-08 11:17:21 | [robocode](https://crates.io/crates/robocode) | 0.1.0 | 0 | Tank Combat Model Interface |
-| 2026-10-08 11:17:21 | [zenith-geometry](https://crates.io/crates/zenith-geometry) | 0.0.9 | 0 | Zenith deterministic vector geometry math. |
-| 2026-10-08 11:17:33 | [zenith-raster](https://crates.io/crates/zenith-raster) | 0.0.9 | 0 | Zenith deterministic raster surfaces and color transfer math. |
-| 2026-10-08 11:17:42 | [zenith-perception](https://crates.io/crates/zenith-perception) | 0.0.9 | 0 | Read-only deterministic perception metrics for Zenith raster surfaces and vecto… |
-| 2026-10-08 11:17:44 | [zenith-zpx](https://crates.io/crates/zenith-zpx) | 0.0.9 | 0 | Zenith ZPX raster substrate document model and deterministic manifest codec. |
-| 2026-10-08 11:17:53 | [zenith-producers](https://crates.io/crates/zenith-producers) | 0.0.9 | 0 | Zenith deterministic write-side asset producers. |
+| 2026-10-08 11:19:05 | [t4a-faer-traits](https://crates.io/crates/t4a-faer-traits) | 0.24.0 | 0 | Temporary tensor4all fork of faer-traits. |
+| 2026-10-08 11:19:29 | [t4a-faer](https://crates.io/crates/t4a-faer) | 0.24.4 | 0 | Temporary tensor4all fork of faer: an AI-driven experiment build for tenferro-r… |
+| 2026-10-08 11:23:15 | [laugh](https://crates.io/crates/laugh) | 0.2.0 | 0 | Review a GitHub pull request without leaving the terminal: every review thread… |
+| 2026-10-08 11:23:33 | [code_rustc_api](https://crates.io/crates/code_rustc_api) | 0.1.0 | 0 | Rust SDK for code_rustc_api generated by Fern |
+| 2026-10-08 11:23:45 | [toride-backup](https://crates.io/crates/toride-backup) | 0.1.0 | 0 | Backup scheduling and management via restic or borg |
+| 2026-10-08 11:29:50 | [aravis-port-fakecamera](https://crates.io/crates/aravis-port-fakecamera) | 0.2.0 | 0 | In-process GVCP/GVSP simulator used for aravis-port CI tests |
+| 2026-10-08 11:29:52 | [aravis-port-device](https://crates.io/crates/aravis-port-device) | 0.2.0 | 0 | GVCP device client, feature bridge, and heartbeat for aravis-port |
+| 2026-10-08 11:29:54 | [aravis-port](https://crates.io/crates/aravis-port) | 0.2.0 | 0 | Pure-Rust GigE Vision (GEV) camera control and streaming |
+| 2026-10-08 11:33:45 | [toride-cloud](https://crates.io/crates/toride-cloud) | 0.1.0 | 0 | Cloud provider security group and firewall management |
+| 2026-10-08 11:43:46 | [toride-fail2ban](https://crates.io/crates/toride-fail2ban) | 0.1.0 | 0 | Fail2Ban-style intrusion prevention library |
+| 2026-10-08 11:45:57 | [cargo-irepl](https://crates.io/crates/cargo-irepl) | 0.1.0 | 0 | A REPL for the Cargo project/workspace |
+| 2026-10-08 11:47:37 | [sootmark-bits](https://crates.io/crates/sootmark-bits) | 0.1.0 | 0 | Windows BITS job queues for forensics: qmgr.db (Windows 10 and later) and qmgr0… |
+| 2026-10-08 11:47:42 | [cosmol_viewer_derive](https://crates.io/crates/cosmol_viewer_derive) | 0.5.0-rc.5 | 0 | Binding contract and binding helper macros for COSMol-viewer |
+| 2026-10-08 11:53:22 | [sbe](https://crates.io/crates/sbe) | 0.0.2 | 0 | Rust library for working with Simple Binary Encoding (SBE) data. |
+| 2026-10-08 11:53:24 | [sisu](https://crates.io/crates/sisu) | 0.0.5 | 0 | Crate for working with SISU (Statecharts-based implementation of Information St… |
+| 2026-10-08 11:53:35 | [minifix-codegen](https://crates.io/crates/minifix-codegen) | 0.3.0 | 0 | A bare essentials library for Financial Information Exchange (FIX) |
+| 2026-10-08 11:53:44 | [toride-harden](https://crates.io/crates/toride-harden) | 0.1.0 | 0 | System hardening via sysctl kernel parameters and security profiles |
+| 2026-10-08 11:56:19 | [siu-tui](https://crates.io/crates/siu-tui) | 0.0.2 | 0 | A terminal UI to manage MCP servers and skills across coding agents (Claude Cod… |
+| 2026-10-08 12:03:44 | [toride-monitor](https://crates.io/crates/toride-monitor) | 0.1.0 | 0 | Outbound traffic monitoring and anomaly detection |
+| 2026-10-08 12:04:22 | [cargo-publish-plz](https://crates.io/crates/cargo-publish-plz) | 1.0.1 | 0 | Bump versions of changed workspace crates and publish unpublished ones, without… |
+| 2026-10-08 12:07:13 | [whiteboxed](https://crates.io/crates/whiteboxed) | 0.1.0 | 0 | WYSIWYG editor for arc42 building-block views |
+| 2026-10-08 12:07:24 | [memopro](https://crates.io/crates/memopro) | 0.1.0 | 0 | Budgeted memory runtime: keep, losslessly compress, re-read from verified sourc… |
+| 2026-10-08 12:09:00 | [oxid-export-meta](https://crates.io/crates/oxid-export-meta) | 0.1.0 | 0 | What a Rust crate exports to Python through #[oxid_export::module]: read from i… |
+| 2026-10-08 12:09:05 | [oxid-export](https://crates.io/crates/oxid-export) | 0.1.0 | 0 | #[oxid_export::module]: a Rust module Python can call — directly from code oxid… |
+| 2026-10-08 12:13:44 | [toride-proxy](https://crates.io/crates/toride-proxy) | 0.1.0 | 0 | Reverse proxy, TLS certificate, and WAF management |
+| 2026-10-08 12:20:27 | [sinuous-client](https://crates.io/crates/sinuous-client) | 0.1.0 | 0 | Unofficial client for controlling Sonos speakers over their local websocket API |
 
 ## Data source
 
