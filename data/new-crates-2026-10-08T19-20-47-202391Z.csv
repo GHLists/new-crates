@@ -1,0 +1,16 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T18:33:21.911041Z,quat_mp4,0.1.0,0,0,https://github.com/strahinjastojanovic826-code/quat_mp4,A Rust library for packing binary bits into 2-bit quaternary digits (quats) for MP4 processing.
+2026-10-08T18:35:56.930887Z,poulpy-mhe,0.0.0,0,0,https://github.com/poulpy-fhe/poulpy,Name reservation; the first release is 0.9.0
+2026-10-08T18:35:59.663701Z,poulpy-cpu-portable,0.0.0,0,0,https://github.com/poulpy-fhe/poulpy,Name reservation; the first release is 0.9.0
+2026-10-08T18:36:00.587567Z,pnyx,0.1.0,0,0,https://github.com/jdpanderson/pnyx,"CASPaxos with reconfiguration: a leaderless, logless register changed by compare-and-set, independent of the transport"
+2026-10-08T18:50:16.148922Z,ic-sig,0.2.16,0,0,https://github.com/nervosys/IronCrypto,"Signature verification by algorithm over X.509 public keys, for IronCrypto"
+2026-10-08T18:59:36.67525Z,super-bench,0.0.36,0,0,https://github.com/chwzr/super,Shared benchmark timing support for SUPER tests
+2026-10-08T19:00:26.677465Z,efema-proto,0.1.0,0,0,https://github.com/lacodda/efema,"The wire format of efema: streams, positions, cursors and epochs as a client and a relay exchange them"
+2026-10-08T19:00:45.539266Z,efema-server,0.1.0,0,0,https://github.com/lacodda/efema,"The efema relay: keeps sealed batches in order, by cursor, for the devices that sync through it"
+2026-10-08T19:01:05.476855Z,super-agent-ai,0.0.36,0,0,https://github.com/chwzr/super,Unified multi-provider LLM streaming API for the super coding harness
+2026-10-08T19:01:40.743241Z,super-agent,0.0.36,0,0,https://github.com/chwzr/super,Agent runtime for the super coding harness
+2026-10-08T19:01:49.323531Z,super-workflow,0.0.36,0,0,https://github.com/chwzr/super,Deterministic workflow orchestration scripts for SUPER
+2026-10-08T19:02:29.950732Z,super-coding,0.0.36,0,0,https://github.com/chwzr/super,"Coding harness: sessions, tools, compaction, settings, skills"
+2026-10-08T19:04:07.986798Z,vitrify,0.1.0,0,0,https://github.com/iolanta-tech/vitrify,Turn a SPARQL retrieval into a durable local file
+2026-10-08T19:11:32.427017Z,rucc-wasm-link,0.29.3,0,0,https://github.com/tamnd/rucc,"A static linker for wasm inside the rucc C compiler, for a host that cannot start wasm-ld."
+2026-10-08T19:20:46.033417Z,rucc-reactor,0.29.3,0,0,https://github.com/tamnd/rucc,"The rucc C compiler as a WebAssembly reactor, which runs the driver more than once in one instance."
