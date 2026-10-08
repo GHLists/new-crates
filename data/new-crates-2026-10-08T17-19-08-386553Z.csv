@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T16:22:24.536026Z,cheers-vend,0.8.43,0,0,https://github.com/yah-ai/cheers,Embeddable Hrana-over-HTTP listener that vends a service's own Turso database to callers holding a cheers camp-token (W358 vend source). Read-only.
+2026-10-08T16:23:20.42167Z,theatre-engine,0.1.0,0,0,https://github.com/Mirzabaig313/TERMINAL-THEATRE,"Story format, loading and playback for Terminal Theatre. No terminal code."
+2026-10-08T16:23:24.603841Z,terminal-theatre,0.1.0,0,0,https://github.com/Mirzabaig313/TERMINAL-THEATRE,"An interactive movie game for your terminal: animated pixel-art characters, branching stories, sound and multiple endings."
+2026-10-08T16:26:31.372607Z,superfluid-adapter-mlx,0.1.2,0,0,https://github.com/basecompute/superfluid,"MLX as a superfluid runtime: RuntimePrimitives over mlx-lm through an embedded CPython, for the generic executor, and the runtime's worker executable"
+2026-10-08T16:27:19.588047Z,embdb,0.1.0,0,0,,使用 Rust 实现的 SQLite-like 小型嵌入式关系数据库
+2026-10-08T16:29:37.774398Z,emoticond,1.0.1,0,0,https://github.com/Cloveian/emoticond,Search kaomoji by how you feel
+2026-10-08T16:29:43.491682Z,emoticond-compile,1.0.1,0,0,https://github.com/Cloveian/emoticond,Compile emoticond source data into a .kmj data file
+2026-10-08T16:29:50.749305Z,emoticond-config,1.0.1,0,0,https://github.com/Cloveian/emoticond,"Config files, policy, environment and platform paths for emoticond"
+2026-10-08T16:29:54.892601Z,emoticond-state,1.0.1,0,0,https://github.com/Cloveian/emoticond,"The files an emoticond front-end writes: local popularity, the report queue, blocklists, machine overlays, dev logs"
+2026-10-08T16:30:07.223737Z,emoticond-cli,1.0.1,0,0,https://github.com/Cloveian/emoticond,"emoticond: search kaomoji by how you feel, from the command line, a launcher menu or a picker daemon"
+2026-10-08T16:31:10.796717Z,serena-rs,0.1.0,0,0,https://gitlab.bsx.pm/ftbx/serenars,"Serena.rs — a fast, single-binary Rust MCP server for semantic code navigation and editing via LSP"
+2026-10-08T16:36:08.236434Z,seamless-auth,0.1.0,0,0,https://github.com/fells-code/seamless-auth-rust,Seamless Auth server adapter for Axum: cookie and bearer sessions in front of the Seamless Auth API
+2026-10-08T16:36:35.995432Z,superfluid-adapter-mock,0.1.2,0,0,https://github.com/basecompute/superfluid,"The mock engine as a superfluid runtime: what the daemon's tests and `superfluid-workerd --engine mock` serve, and the kit's reference adapter"
+2026-10-08T16:36:42.98305Z,yubaba-auth-token,0.8.43,0,0,https://github.com/yah-ai/passway,"The yubaba control-plane token format (PASETO v4 claims, audience, scopes, TTL ceiling, key encodings) and the reqwest client that attaches a peer token to every request."
+2026-10-08T16:43:31.404828Z,uv-lock-operations,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-lock-operations
+2026-10-08T16:43:50.459608Z,uv-pip-commands,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-pip-commands
+2026-10-08T16:44:09.421678Z,uv-project-commands,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-project-commands
+2026-10-08T16:44:28.385808Z,uv-project-edit,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-project-edit
+2026-10-08T16:44:47.125455Z,uv-publish-commands,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-publish-commands
+2026-10-08T16:46:43.928623Z,superfluid,0.1.2,0,0,https://github.com/basecompute/superfluid,"The superfluid daemon: durable session store (WAL, verbatim token spans, epochs), generation runtime over Link W, and the native session API"
+2026-10-08T17:00:27.753503Z,thin-fetch,0.1.0,0,0,https://git.ddd.rip/ptrcnull/thin-fetch,Low-level Git crate to fetch objects with high granularity
+2026-10-08T17:00:52.968729Z,flowscripter_io_plugin_filesystem_native,1.0.0,0,0,https://github.com/flowscripter/io-plugin-filesystem-native,"Native local filesystem I/O for io-plugin-filesystem-native, exposed via Bun FFI"
+2026-10-08T17:03:49.352994Z,uv-python-commands,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-python-commands
+2026-10-08T17:04:08.124152Z,uv-python-discovery,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-python-discovery
+2026-10-08T17:14:30.989664Z,quat_mp3,0.1.0,0,0,https://github.com/strahinjastojanovic826-code/quat_mp3,MP3 metadata and frame inspector operating on base-4 quaternary logic
+2026-10-08T17:16:11.689614Z,uv-python-interpreter,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-python-interpreter
+2026-10-08T17:18:12.825108Z,agentaps-control-protocol,0.1.0,0,0,https://github.com/domenkozar/agentaps,Shared Web Connect protocol for Agentaps desktop and browser clients
