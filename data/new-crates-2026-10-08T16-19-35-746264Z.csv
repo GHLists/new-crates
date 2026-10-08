@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T15:21:45.213232Z,ocserve-core,0.1.0,0,0,https://github.com/alderpath/ocserve,"Session domain: inbox admission, agent loop, event bus, permissions"
+2026-10-08T15:23:17.684937Z,novomodelo-cli,0.18.0,0,0,https://github.com/ons-ccee-epe/novomodelo,Command-line interface for Novomodelo power system studies
+2026-10-08T15:23:38.885401Z,phrs,0.1.0,0,0,https://github.com/pgdr/phrs,A tabular data shell tool compatible with ph
+2026-10-08T15:24:30.427027Z,uv-audit-operations,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-audit-operations
+2026-10-08T15:24:48.281369Z,uv-build-commands,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-build-commands
+2026-10-08T15:25:07.006086Z,uv-command-support,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-command-support
+2026-10-08T15:25:25.795563Z,uv-environment-operations,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-environment-operations
+2026-10-08T15:25:31.936862Z,symbiont-dream-rsi,0.43.0,0,0,https://github.com/MathisWellmann/symbiont,"Discovery trees as replay simulators: the core of Dream-RSI (arXiv:2609.14858), generic over the recorded observation."
+2026-10-08T15:25:32.479137Z,symbiont-dsh-log,0.43.0,0,0,https://github.com/MathisWellmann/symbiont,serde types and zstd container of the DeepSeek Harness (dsh) session log.
+2026-10-08T15:25:44.478142Z,uv-install-operations,0.0.0,0,0,https://github.com/astral-sh/uv,Placeholder release for uv-install-operations
+2026-10-08T15:25:58.713672Z,superfluid-agent,0.1.2,0,0,https://github.com/basecompute/superfluid,"Node-agent skeleton: Link W client (tick planning, host sampling, buffer/ring ownership) driving an engine-worker"
+2026-10-08T15:26:36.218205Z,atlas-pca,0.1.0,0,0,,"Reference verifier for Atlas Proof-Carrying Authority (core PCActn checks, M0-M3)"
+2026-10-08T15:26:50.004642Z,stark-pca,0.1.0,0,0,,"Transparent, post-quantum STARK (Winterfell) proof of the PCA release gate"
+2026-10-08T15:27:16.537216Z,pca-folding-ivc,0.1.0,0,0,,"Recursive PCA action-history aggregation via a Nova folding scheme (IVC): fold N per-action steps into ONE RecursiveSNARK, then compress to a CompressedSNARK proving an agent's WHOLE action history (…"
+2026-10-08T15:29:33.404245Z,hud-width,0.0.0,0,0,https://github.com/daviguides/hud,Terminal cell width and grapheme-cluster segmentation for Rust. Part of hud; name reserved.
+2026-10-08T15:30:43.867484Z,novomodelo,0.18.0,0,0,https://github.com/ons-ccee-epe/novomodelo,Power system optimization in Rust — umbrella crate
+2026-10-08T15:32:28.694516Z,ocserve-http,0.1.0,0,0,https://github.com/alderpath/ocserve,"axum router, auth, byte-golden SSE, error envelope"
+2026-10-08T15:33:46.854013Z,llm-types,0.1.0,0,0,,Core model and helper types for llm-suite
+2026-10-08T15:36:02.160084Z,superfluid-tokenizer-hf,0.1.2,0,0,https://github.com/basecompute/superfluid,"HF tokenizer.json as a superfluid Tokenizer: the daemon's built-in tokenizer for HF-layout artifacts (MLX, safetensors), no runtime FFI"
+2026-10-08T15:36:10.381943Z,wip-text-view,0.2.0,0,0,https://gitea.hareworks.net/Hare/wip-rs,Standalone Object and Interface Text View signatures for WIP
+2026-10-08T15:37:43.87678Z,hawdb-plan-core,0.5.0,0,0,https://github.com/nowledge-co/hawdb,An embedded Rust graph database for local data-plane workloads
+2026-10-08T15:38:01.190579Z,hawdb-optimizer-predicate,0.5.0,0,0,https://github.com/nowledge-co/hawdb,An embedded Rust graph database for local data-plane workloads
+2026-10-08T15:38:01.907872Z,hawdb-optimizer-vector,0.5.0,0,0,https://github.com/nowledge-co/hawdb,An embedded Rust graph database for local data-plane workloads
+2026-10-08T15:38:13.23416Z,hawdb-optimizer-relational,0.5.0,0,0,https://github.com/nowledge-co/hawdb,An embedded Rust graph database for local data-plane workloads
+2026-10-08T15:38:19.736938Z,hawdb-optimizer-graph,0.5.0,0,0,https://github.com/nowledge-co/hawdb,An embedded Rust graph database for local data-plane workloads
+2026-10-08T15:41:40.292362Z,ocserve-importer,0.1.0,0,0,https://github.com/alderpath/ocserve,Streaming read-only 20-session importer
+2026-10-08T15:42:49.191907Z,llm-common,0.1.0,0,0,,Shared utilities for the llm-suite crates
+2026-10-08T15:42:58.785519Z,llm-token,0.1.0,0,0,,Token counting and handling for LLM messages
+2026-10-08T15:43:35.054703Z,llm-message,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,LLM message construction and manipulation
+2026-10-08T15:43:45.096649Z,llm-tool-call,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,"Tool-call parsing and rendering (JSON partial, XML)"
+2026-10-08T15:44:03.342489Z,llm-codec,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,Provider codec layer for llm-suite
+2026-10-08T15:46:05.585069Z,superfluid-engine-ffi,0.1.2,0,0,https://github.com/basecompute/superfluid,"Draft-7 Engine over the existing baseRT batch C API (migration phase 1: strangler, engine untouched)"
+2026-10-08T15:53:56.870049Z,ocserve,0.1.0,0,0,https://github.com/alderpath/ocserve,"ocserve binary: serve, import, doctor, bench"
+2026-10-08T15:54:13.632625Z,ps2kit,0.1.0,0,0,https://github.com/NamasteJasutin/PS2BootInspectionTool,"Readers for PlayStation 2 BIOS dumps, PCSX2 memory cards and disc images, and a re-implementation of the console's boot screen — no Sony data included"
+2026-10-08T15:56:12.076474Z,superfluid-adapter-basert,0.1.2,0,0,https://github.com/basecompute/superfluid,"baseRT's native engine as a superfluid runtime: libbaseRT over its tick ABI (superfluid-engine-ffi), and the runtime's worker executable"
+2026-10-08T15:57:27.277624Z,llm-embedding,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,Embedding client for LLM providers
+2026-10-08T16:05:42.006736Z,sshh-tui,0.3.1,0,0,https://github.com/ewiggin/sshh,"SSH connection manager with a TUI: use it like ssh, save connections with notes and tags, and keep several sessions open side by side"
+2026-10-08T16:06:20.098131Z,superfluid-adapter-llamacpp,0.1.2,0,0,https://github.com/basecompute/superfluid,"llama.cpp as a superfluid runtime: RuntimePrimitives over the libllama llama.cpp publishes, loaded at run time, for the generic executor; a vocab-only Tokenizer for GGUF artifacts; and the runtime's…"
+2026-10-08T16:10:04.549578Z,llm-chat-basic,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,Basic chat completion client for LLM providers
+2026-10-08T16:10:25.97086Z,cortexkit-claustrum-client,0.1.0,0,0,https://github.com/cortexkit/claustrum,Rust credential vault client for subc-supervised CortexKit modules.
+2026-10-08T16:14:32.317234Z,deepmonkey-2d,0.1.0,0,0,https://github.com/fatasia/DeepMonkey-Studio,"Standalone Deep2D display lists, flex layout, path/atlas rendering and wgpu painter"
+2026-10-08T16:15:40.37109Z,umixer,0.0.0,0,0,https://github.com/unifiedmixers/gateway,"Unified Mixers - the workgroup model gateway. One binary that owns model traffic on machines you control: personalities, modes, repair, retries, captures, ledger."
+2026-10-08T16:16:05.97282Z,visgrok,0.1.0,0,0,https://github.com/KarpelesLab/visgrok,"From-scratch driver, real-time protocol analysis and TUI for Sipeed SLogic logic analyzers"
+2026-10-08T16:16:23.429555Z,superfluid-tokenizer-llamacpp,0.1.2,0,0,https://github.com/basecompute/superfluid,"The llama.cpp runtime's tokenizer library: GGUF tokenization through the vocabulary-only load of the llama.cpp beside it, loaded by the daemon at run time"
