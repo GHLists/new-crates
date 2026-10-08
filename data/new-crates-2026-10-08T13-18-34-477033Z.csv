@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T12:21:00.627792Z,meshbrep,0.1.0,0,0,https://github.com/neoscad/meshbrep,"Rebuild an exact B-rep (planes, cylinders, cones, spheres, tori) from a triangle mesh tagged with the surface each triangle came from, and write it as STEP AP214"
+2026-10-08T12:21:07.20917Z,oxpdf-render,1.3.0,0,0,https://github.com/isaim0011/oxpdf,Pure-Rust high-fidelity 2D rasterizer for oxpdf powered by tiny-skia (#![forbid(unsafe_code)])
+2026-10-08T12:21:53.401251Z,oxpdf-gen,1.3.0,0,0,https://github.com/isaim0011/oxpdf,Next-generation generative PDF authoring engine featuring the Knuth-Plass optimal line-breaking algorithm (#![forbid(unsafe_code)])
+2026-10-08T12:23:44.695762Z,toride-ssh-agent,0.1.0,0,0,https://github.com/freeoxide/toride,"SSH agent management: listing, adding, and removing keys"
+2026-10-08T12:23:49.959949Z,redissun,0.1.0,0,0,https://github.com/Empatixx/redissun,"Distributed objects on Redis for Rust, inspired by Redisson: Map, Bucket, reentrant Lock with watchdog"
+2026-10-08T12:25:38.771938Z,ic-blob-storage-contracts,0.18.4,0,0,https://github.com/dragginzgame/ic-blob-storage,Runtime-free wire contracts and content verification for IC Blob Storage
+2026-10-08T12:27:14.383685Z,rsonist,0.1.2,0,0,https://github.com/dallas1295/rsonist,"A small, zero-dep JSON library"
+2026-10-08T12:33:44.543982Z,toride-ssh-authorized-keys,0.1.0,0,0,https://github.com/freeoxide/toride,"authorized_keys file management: listing, adding, removing, and querying entries"
+2026-10-08T12:33:55.091482Z,ic-backup-agent,0.8.0,0,0,https://github.com/dragginzgame/ic-backup,Bounded single-update ic-agent transport for ic-backup
+2026-10-08T12:38:38.260257Z,hashconsing-derive,1.8.0,0,0,https://github.com/AdrienChampion/hashconsing,Provides derive features for the hashconsing crate.
+2026-10-08T12:39:38.904431Z,zil,0.2.0,0,0,https://github.com/zanbowie138/zil,"An expression calculator and scripting language with units, dates, exact fractions and big ints"
+2026-10-08T12:40:53.243594Z,ishou-pente,0.1.20,0,0,https://github.com/pleme-io/ishou,pente (the loom's reed) — the fleet's typed visual spine: a closed Origin/Ramp/Role/Binding algebra in which a hand-typed hex outside a ramp has no field to live in.
+2026-10-08T12:40:55.229839Z,ishou-batente,0.1.20,0,0,https://github.com/pleme-io/ishou,batente (the loom's beater) — the fleet's typed motion spine: a closed Beat/Cadence/Motion/Choreography algebra where an animation exceeding a face's capability has no apply path.
+2026-10-08T12:42:18.579308Z,silicon-accounts-client,0.1.0,0,0,https://github.com/teamofsilicons/silicon-accounts,"Stateless Rust client for Silicon Accounts: sign Carbons and Silicons in, exchange tokens, verify proofs and webhooks."
+2026-10-08T12:42:59.841071Z,silicon-apps-package,0.1.2,0,0,https://github.com/teamofsilicons/silicon-apps,"Safe package manifest validation, packing and extraction for Silicon Apps"
+2026-10-08T12:43:30.258378Z,silicon-apps-client,0.1.2,0,0,https://github.com/teamofsilicons/silicon-apps,"Stateless primary Silicon Apps API, authentication and local installation library"
+2026-10-08T12:43:41.559755Z,silicon-apps-cli,0.1.3,0,0,https://github.com/teamofsilicons/silicon-apps,"Create, publish, discover and install Silicon Apps"
+2026-10-08T12:43:44.378272Z,toride-ssh-certificate,0.1.0,0,0,https://github.com/freeoxide/toride,SSH certificate authority and key revocation list (KRL) inspection
+2026-10-08T12:46:01.3817Z,dme,0.0.5,0,0,https://github.com/cryptopatrick/dme,Dialogue Move Engine
+2026-10-08T12:46:32.921549Z,heifer-isobmff,0.1.0,0,0,https://github.com/HarpeLm/Heifer,"ISOBMFF / HEIF container reading and writing (ISO/IEC 14496-12, 23008-12)"
+2026-10-08T12:46:35.615547Z,heifer-hevc-dec,0.1.0,0,0,https://github.com/HarpeLm/Heifer,Pure-Rust HEVC (H.265) intra decoder for still images
+2026-10-08T12:46:37.23642Z,heifer-hevc-enc,0.1.0,0,0,https://github.com/HarpeLm/Heifer,Pure-Rust HEVC (H.265) intra encoder for still images
+2026-10-08T12:46:39.635752Z,heifer,0.1.0,0,0,https://github.com/HarpeLm/Heifer,"Pure-Rust HEIF/HEIC image decoder: no C dependencies, no unsafe code"
+2026-10-08T12:49:51.922162Z,pyferrite,0.0.1,0,0,https://github.com/89605502155/pyferrite,"Pure-Rust reader/writer for Python ML artefacts (npy, npz, pickle, pt, joblib, hdf5) with ndarray and polars interop, lazy streaming and user-controlled numeric down-casting."
+2026-10-08T12:50:10.203899Z,sid-voprf,0.6.0,0,0,https://github.com/structured-id/sid,"Verifiable oblivious pseudorandom functions (RFC 9497), vendored from facebook/voprf and kept on the current RustCrypto releases"
+2026-10-08T12:50:33.850334Z,sid-opaque-ke,4.1.0,0,0,https://github.com/structured-id/sid,"The OPAQUE password-authenticated key exchange (RFC 9807), vendored from facebook/opaque-ke and kept on the current RustCrypto releases"
+2026-10-08T12:50:52.188809Z,hls-engine,1.0.0,0,0,https://github.com/Logosww/hls-engine,"HLS media engine for Rust: shared native/WASM decryption, timelines, multi-track sessions and MP4 output."
+2026-10-08T12:51:48.682107Z,pointblitz-io,0.1.0,0,0,https://github.com/i3months/pointblitz,PLY stream parser and GPU-ready chunk format for PointBlitz
+2026-10-08T12:51:50.521396Z,pointblitz-core,0.1.0,0,0,https://github.com/i3months/pointblitz,"PointBlitz render core: scene, chunk store, GPU buffers, point pipeline, headless capture"
+2026-10-08T12:51:52.228624Z,pointblitz,0.1.0,0,0,https://github.com/i3months/pointblitz,"Point clouds at GPU speed: one Rust/wgpu core for browser (wasm), native and server-side video (re-exports pointblitz-core and pointblitz-io)"
+2026-10-08T12:51:52.729498Z,pointblitz-native,0.1.0,0,0,https://github.com/i3months/pointblitz,PointBlitz native window target
+2026-10-08T12:51:53.266591Z,pointblitz-server,0.1.0,0,0,https://github.com/i3months/pointblitz,PointBlitz server target: headless render and video streaming
+2026-10-08T12:53:44.605578Z,toride-ssh-config,0.1.0,0,0,https://github.com/freeoxide/toride,"SSH config file parsing, editing, and host resolution via a lossless AST"
+2026-10-08T12:53:49.103463Z,minifix,0.3.0,0,0,https://github.com/cryptopatrick/minifix,A bare essentials library for Financial Information Exchange (FIX)
+2026-10-08T12:56:09.339849Z,wakuwaku-iggy,0.1.0,0,0,https://github.com/suitsu31-club/wakuwaku,"Partition, consumer, routing and message traits for Apache Iggy"
+2026-10-08T12:59:36.869622Z,qexed_nbt,0.1.0,0,0,https://github.com/qexed/Qexed,"Minecraft Java Edition NBT (Named Binary Tag) tree model with big-endian codecs: named disk format (level.dat, gzip auto-detect), network format, and Serde support."
+2026-10-08T13:01:16.586518Z,agentsql,0.2.0,0,0,https://github.com/cryptopatrick/agentsql,Interface for agent sql persistence
+2026-10-08T13:01:26.704878Z,gf-core,0.3.0,0,0,https://github.com/cryptopatrick/gf-core,Rust runtime for Grammatical Framework.
+2026-10-08T13:02:10.507498Z,agentfs,0.2.0,0,0,https://github.com/cryptopatrick/agentfs,Agent Persistence
+2026-10-08T13:03:44.081787Z,toride-ssh-forward,0.1.0,0,0,https://github.com/freeoxide/toride,Port forwarding management via SSH ControlMaster sessions
+2026-10-08T13:03:48.747808Z,cccc-cs,1.8.0,0,0,https://github.com/moznion/cccc,C# (tree-sitter) adapter that lowers source into the cccc-core complexity IR
+2026-10-08T13:04:13.680648Z,pointblitz-web,0.1.0,0,0,https://github.com/i3months/pointblitz,PointBlitz browser target (wasm)
+2026-10-08T13:05:05.694019Z,cccc-vb,1.8.0,0,0,https://github.com/moznion/cccc,Visual Basic .NET adapter that lowers source into the cccc-core complexity IR
+2026-10-08T13:09:28.313807Z,alarm,0.0.5,0,0,https://github.com/cryptopatrick/alarm,"A type system and procedural macros for alarm system functionality, based on the EE191 standard."
+2026-10-08T13:09:28.561082Z,camilladsp-schema,5.0.0-beta.1,0,0,https://github.com/HEnquist/camilladsp,"Config and websocket protocol types, config validation and coefficient file reading for CamillaDSP"
+2026-10-08T13:09:30.916856Z,camilladsp,5.0.0-beta.1,0,0,https://github.com/HEnquist/camilladsp,A flexible tool for processing audio
+2026-10-08T13:13:44.32457Z,toride-ssh-known-hosts,0.1.0,0,0,https://github.com/freeoxide/toride,Known-hosts file parsing and host-key change detection
