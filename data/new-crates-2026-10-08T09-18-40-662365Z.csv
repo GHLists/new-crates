@@ -1,0 +1,55 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T08:19:27.648733Z,upgradelab-runner,0.1.0,0,0,https://github.com/Anasabubakar/upgradelab-runner,"Executable Soroban migration rehearsal: runs the compiled old and new WASM in the Soroban host, upgrades, migrates and evaluates named invariants."
+2026-10-08T08:20:02.237999Z,rateguard-proto,0.1.0,0,0,https://github.com/donmiro/rateguard,The wire format of rateguard: SWIM membership and demand reports over UDP
+2026-10-08T08:20:17.80995Z,fk-geometry-spherical,0.1.0,0,0,https://github.com/Dastfox/feuclide,"Spheres (S², S³) embedded in R³ and R⁴"
+2026-10-08T08:20:26.038195Z,alhazen-core,0.2.0,0,0,https://github.com/alhazen-rs/alhazen-core,"Native media engine for Rust: plays video and audio from files and HTTP, with pure-Rust and OS (GPU) decoders. UI-agnostic."
+2026-10-08T08:22:21.171127Z,rateguard-core,0.1.0,0,0,https://github.com/donmiro/rateguard,The sans-I/O core of rateguard: distributed rate limiting as pure state machines
+2026-10-08T08:22:39.688236Z,rateguard,0.1.0,0,0,https://github.com/donmiro/rateguard,"Distributed rate limiting without a datastore: one global limit, enforced locally"
+2026-10-08T08:25:47.726124Z,sootmark-mlocate,0.1.0,0,0,https://github.com/Sootmark/mlocate,"The locate database (mlocate.db, updatedb) for forensics: every directory indexed with its modification time and the names in it, from a Linux system's last updatedb run."
+2026-10-08T08:26:05.130849Z,agentsmith,0.1.1,0,0,https://github.com/cryptopatrick/agentsmith,AI Agent forging utilities.
+2026-10-08T08:26:17.849497Z,instapaper2,0.0.0,0,0,,Instapaper API v2 client
+2026-10-08T08:27:30.367522Z,martensite-sanitize,0.21.0,0,0,https://github.com/jxoesneon/martensite,"Configurable input sanitization engine — Unicode hygiene, normalization, and confusable folding for editable widgets."
+2026-10-08T08:28:43.397354Z,iqa-mcp,0.0.1,0,0,https://github.com/Aicent-Stack/iqa-mcp,Launcher for the IQA attestation MCP server. Requires Python iqa-org >= 1.3.1. Name-reservation launcher — the canonical implementation is the Python package iqa-mcp on PyPI.
+2026-10-08T08:28:49.816198Z,sootmark-cups,0.1.0,0,0,https://github.com/Sootmark/cups,"CUPS print jobs for forensics: the IPP control files in the spool (/var/spool/cups, macOS and Linux): who printed what, from which application and host, to which printer, and when."
+2026-10-08T08:31:04.514338Z,fk-app,0.1.0,0,0,https://github.com/Dastfox/feuclide,Application builder and main loop
+2026-10-08T08:32:02.373625Z,martensite-mcp,0.21.0,0,0,https://github.com/jxoesneon/martensite,First-party Model Context Protocol (MCP) server for AI-assisted Martensite development.
+2026-10-08T08:35:50.380474Z,alhazen-gpui,0.2.0,0,0,https://github.com/alhazen-rs/alhazen-gpui,"Video player for GPUI apps, built on the alhazen-core media engine"
+2026-10-08T08:36:10.789465Z,sootmark-evt,0.1.0,0,0,https://github.com/Sootmark/evt,"Windows NT to XP and Server 2003 event logs (.evt) for forensics: every record in log order, those recovered from the free space, with times, event ids, sources, computers, SIDs, strings and data."
+2026-10-08T08:36:22.036089Z,harel,0.1.0,0,0,https://github.com/cryptopatrick/harel,Harel Statecharts Parser.
+2026-10-08T08:37:39.367305Z,sootmark-filehistory,0.1.0,0,0,https://github.com/Sootmark/filehistory,"Windows File History catalogs (Catalog1.edb, Catalog2.edb) for forensics: every file and folder backed up, with its path, times, attributes and USN, and the backup sets, read with sootmark-ese."
+2026-10-08T08:38:31.954072Z,libk1,0.1.0,0,0,https://github.com/Robot-Exp-Platform/libk1,Native Rust Booster K1 driver
+2026-10-08T08:39:08.096973Z,sootmark-notifications,0.1.0,0,0,https://github.com/Sootmark/notifications,"Windows 10/11 notifications (wpndatabase.db) for forensics: toasts, tiles and badges apps raised, with their app, times and visible text, and the apps registered for them."
+2026-10-08T08:40:35.281062Z,siglus_ss_decompiler,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,SiglusEngine scene script (.ss) decompiler
+2026-10-08T08:40:54.321637Z,siglus_x_viewer,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,Standalone DirectX .x 3D model viewer application
+2026-10-08T08:41:13.263179Z,reallive,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,RealLive Visual Novel engine reimplementation in Rust
+2026-10-08T08:41:32.717337Z,siglus_scene_vm,1.0.0,0,0,https://github.com/xmoezzz/siglus_rs,SiglusEngine Visual Novel script virtual machine and runtime
+2026-10-08T08:41:34.211592Z,fk-scene,0.1.0,0,0,https://github.com/Dastfox/feuclide,"ECS components and schedules: poses as isometries, hierarchy, cameras"
+2026-10-08T08:41:34.725801Z,sootmark-onedrive,0.1.0,0,0,https://github.com/Sootmark/onedrive,"OneDrive and SkyDrive logs for forensics: the sync engine's binary logs (.odl, .odlgz) with each record's time, source file, function and parameters (deobfuscated with ObfuscationStringMap.txt), and…"
+2026-10-08T08:41:40.573772Z,fk-audio,0.1.0,0,0,https://github.com/Dastfox/feuclide,"Sound: decoded clips played as voices whose gain and rate glide, silent without a device"
+2026-10-08T08:41:49.963087Z,game_launcher,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,"Shared launcher layer for the app builds: engine detection, titles, covers and a common runtime for SiglusEngine, RealLive, AVG32 and UK2"
+2026-10-08T08:43:35.020129Z,rustclamp,0.0.0,0,0,https://github.com/rustclamp/rustclamp,Reserved for the RustClamp framework. Not yet released.
+2026-10-08T08:43:36.887617Z,rustclamp-core,0.0.0,0,0,https://github.com/rustclamp/core,Reserved for the RustClamp framework. Not yet released.
+2026-10-08T08:43:38.982669Z,rustclamp-kernel,0.0.0,0,0,https://github.com/rustclamp/kernel,Reserved for the RustClamp framework. Not yet released.
+2026-10-08T08:43:41.466115Z,rustclamp-http,0.0.0,0,0,https://github.com/rustclamp/http,Reserved for the RustClamp framework. Not yet released.
+2026-10-08T08:43:43.886007Z,rustclamp-worker,0.0.0,0,0,https://github.com/rustclamp/worker,Reserved for the RustClamp framework. Not yet released.
+2026-10-08T08:45:18.358946Z,sootmark-msiecf,0.1.0,0,0,https://github.com/Sootmark/msiecf,"Internet Explorer 4 to 9 cache and history files (index.dat) for forensics: cached URLs with their files and HTTP headers, visited pages, redirects, leaked entries, and records recovered from free bl…"
+2026-10-08T08:45:33.763324Z,qrant,0.1.0,0,0,https://github.com/a-maier/qrant,QCD parameter evolution and decoupling
+2026-10-08T08:46:38.17287Z,heuristics,0.1.0,0,0,https://github.com/cryptopatrick/heuristics,Rules of thumb to improve Rust code.
+2026-10-08T08:48:39.197691Z,siglus_g00_extract,0.1.0,0,0,https://github.com/xmoezzz/siglus_rs,SiglusEngine .g00 image extraction utility
+2026-10-08T08:51:25.067939Z,openpap,0.1.1,0,0,https://gitee.com/ip2a/openpap,openpap
+2026-10-08T08:52:12.051376Z,fk-quotient,0.1.0,0,0,https://github.com/Dastfox/feuclide,"Quotient and portal spaces: deck groups, fundamental domains, holonomy"
+2026-10-08T08:55:35.752829Z,sootmark-pe,0.1.0,0,0,https://github.com/Sootmark/pe,"Windows Portable Executable (PE) metadata for forensics: compile time, type, sections, imports, exports, import hash, version information, PDB path, resource and debug time stamps."
+2026-10-08T08:56:51.8579Z,oaa,0.0.5,0,0,https://github.com/cryptopatrick/oaa,Framework for Agents in Distributed Environments
+2026-10-08T08:56:55.177163Z,tree-sitter-golang,1.27.0,0,0,https://github.com/GaijinEntertainment/tree-sitter-golang,Go grammar for tree-sitter
+2026-10-08T09:02:41.608431Z,fk-physics,0.1.0,0,0,https://github.com/Dastfox/feuclide,"Curved-space physics: geodesic motion, collision, rigid bodies on Lie groups"
+2026-10-08T09:05:57.5429Z,sootmark-applogs,0.1.0,0,0,https://github.com/Sootmark/applogs,"Application text logs for forensics: vsftpd, PostgreSQL, Debian popularity-contest, Snort and Suricata fast alerts, Google logging (glog), Santa, macOS securityd and application firewall, read into e…"
+2026-10-08T09:07:06.180586Z,rigour,0.1.0,0,0,https://github.com/cryptopatrick/rigour,Agent Engineering for Automotive Systems
+2026-10-08T09:13:12.616225Z,fk-render,0.1.0,0,0,https://github.com/Dastfox/feuclide,wgpu renderer: metric-aware rasterization and geodesic ray marching
+2026-10-08T09:15:21.319883Z,metrics-summary-core,0.1.0-alpha,0,0,https://github.com/SF-Zhou/metrics-exporter-summary,Shared models and sink contracts for bounded metrics summaries
+2026-10-08T09:15:42.46755Z,metrics-summary-protocol,0.1.0-alpha,0,0,https://github.com/SF-Zhou/metrics-exporter-summary,"Versioned, bounded MessagePack wire protocol for metrics summaries"
+2026-10-08T09:16:21.121378Z,env-lookup,0.1.0,0,0,,"cli tool to look up env vars, possibly from different sources. Used for templating wit shell-string"
+2026-10-08T09:16:31.367258Z,metrics-summary-sink-memory,0.1.0-alpha,0,0,https://github.com/SF-Zhou/metrics-exporter-summary,"Bounded, atomically published metric snapshot history"
+2026-10-08T09:16:32.297732Z,sootmark-spotlight,0.1.0,0,0,https://github.com/Sootmark/spotlight,"macOS Spotlight store databases (store.db, .store.db) for forensics: every file Spotlight indexed, with its name, kind, content type and times (added, used, created, modified, downloaded), read from…"
+2026-10-08T09:17:15.170527Z,metrics-exporter-summary,0.1.0-alpha,0,0,https://github.com/SF-Zhou/metrics-exporter-summary,A metrics backend that exports compact statistical summaries to pluggable storage sinks.
+2026-10-08T09:17:25.295488Z,xfiles,0.4.5,0,0,https://github.com/cryptopatrick/xfiles,"Persistence of data using X, formerly known as Twitter, as a public filesystem."
+2026-10-08T09:18:14.353084Z,metrics-summary-sink-remote,0.1.0-alpha,0,0,https://github.com/SF-Zhou/metrics-exporter-summary,Bounded HTTP and TCP transport for metrics summaries
