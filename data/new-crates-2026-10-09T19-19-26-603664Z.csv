@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T18:19:32.400996Z,kdx-daemon,0.0.0,0,0,https://github.com/scottanderson/kdx,"Placeholder for the kdx project, a Rust implementation of the Haxial KDX protocol; not yet usable"
+2026-10-09T18:22:59.230407Z,mosaica-roaring,0.0.0,0,0,https://github.com/jennis0/tesseradb,Reserved for Mosaica. The first release is on its way.
+2026-10-09T18:23:34.00558Z,runeweaver-codegen,0.1.0,0,0,https://github.com/ndewet/runeweaver,Lexer automata and code generation for runeweaver
+2026-10-09T18:26:23.854404Z,lingva,0.1.0,0,0,https://github.com/usausoft/lingva,Standalone Lingva localization CLI
+2026-10-09T18:28:17.974922Z,runeweaver-derive,0.1.0,0,0,https://github.com/ndewet/runeweaver,Derive macros for runeweaver
+2026-10-09T18:28:20.73267Z,runeweaver,0.1.0,0,0,https://github.com/ndewet/runeweaver,A lexer generator with derive macros and streaming input support
+2026-10-09T18:29:33.675435Z,kdx-dissect,0.0.0,0,0,https://github.com/scottanderson/kdx,"Placeholder for the kdx project, a Rust implementation of the Haxial KDX protocol; not yet usable"
+2026-10-09T18:33:06.947627Z,mosaica-spatial,0.0.0,0,0,https://github.com/jennis0/tesseradb,Reserved for Mosaica. The first release is on its way.
+2026-10-09T18:43:13.526039Z,mosaica-bench,0.0.0,0,0,https://github.com/jennis0/tesseradb,Reserved for Mosaica. The first release is on its way.
+2026-10-09T18:53:35.428948Z,mosaica-docgen,0.0.0,0,0,https://github.com/jennis0/tesseradb,Reserved for Mosaica. The first release is on its way.
+2026-10-09T18:57:02.360825Z,tauri3-specta-macros,0.1.0-alpha.1,0,0,https://github.com/nyssance/tauri3-specta,Command and event macros for tauri3-specta
+2026-10-09T18:57:35.215519Z,sonorant-schema,0.0.1,0,0,https://github.com/therebelrobot/sonorant,Shared serialisable types for measurements and archives
+2026-10-09T18:57:49.160936Z,tauri3-specta,0.1.0-alpha.1,0,0,https://github.com/nyssance/tauri3-specta,"Type-safe TypeScript commands and events for Tauri 3, powered by Specta"
+2026-10-09T18:59:05.756261Z,sonorant-ffi,0.0.1,0,0,https://github.com/therebelrobot/sonorant,WebAssembly bindings for the analysis core
+2026-10-09T18:59:13.175916Z,sonorant-cli,0.0.1,0,0,https://github.com/therebelrobot/sonorant,Command-line batch analyser and conformance harness
+2026-10-09T19:09:54.171487Z,warrant-verify,0.9.0,0,0,https://github.com/s0fractal/warrant,"Independent, dependency-free Rust implementation of the Warrant decision-record format: canonical WarrantIDs, Ed25519 signatures, ski@v1 re-execution, and base- and settlement-grade store verificatio…"
+2026-10-09T19:10:51.44183Z,tanso-download,3.0.0,0,0,https://github.com/kurogane-rs/tetsu,Download and extract pre-built CEF (Chromium Embedded Framework) archives.
+2026-10-09T19:12:48.215219Z,fieldopt-core,0.1.0,0,0,https://github.com/castlaboratory/fieldopt-core,"Field-survey design under real field cost: travel matrices, GRASP routing of field work (TSP/VRP), spatially balanced sampling (local pivotal method), Horvitz-Thompson estimation with local-mean vari…"
