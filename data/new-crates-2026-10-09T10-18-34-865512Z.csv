@@ -1,0 +1,57 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T09:20:56.430303Z,peon-burrow-ipc-types,0.0.0,0,0,https://github.com/mail-peon/peon-burrow,Control plane types shared by the peon-burrow service and its clients
+2026-10-09T09:20:58.533565Z,peon-burrow-protocol,0.0.0,0,0,https://github.com/mail-peon/peon-burrow,Wire protocol for the peon-burrow WebSocket to TCP relay
+2026-10-09T09:21:00.934273Z,peon-burrow-update,0.0.0,0,0,https://github.com/mail-peon/peon-burrow,"Self update for a local tool: manifest, verification, replacement and restart"
+2026-10-09T09:21:06.509474Z,peon-burrow-core,0.0.0,0,0,https://github.com/mail-peon/peon-burrow,Embeddable WebSocket to TCP/TLS relay engine with policy and backpressure
+2026-10-09T09:21:08.20156Z,peon-burrow-ipc,0.0.0,0,0,https://github.com/mail-peon/peon-burrow,Control plane transport and client for a running peon-burrow relay
+2026-10-09T09:22:26.942266Z,valle-tts,0.1.0,0,0,https://github.com/openvalle/valle-tts,Local multilingual voice cloning with pluggable TTS models
+2026-10-09T09:24:09.730132Z,pith-video,0.1.0,0,0,https://github.com/pith-hash/pith-video,"Video fingerprints: mp4 demux, H.264 decode, 2 fps pHash frames and MinHash chain signature (zero-dep Rust)"
+2026-10-09T09:24:24.310228Z,valle-asr,0.1.0,0,0,https://github.com/openvalle/valle-asr,Cross-platform local speech recognition with pluggable models and word timestamps
+2026-10-09T09:25:14.411138Z,peon-burrow-service,0.0.0,0,0,https://github.com/mail-peon/peon-burrow,Cross platform service installation autostart and status for a local daemon
+2026-10-09T09:25:57.306961Z,superci-core,0.12.0,0,0,https://github.com/supercorp-ai/superci,"The runtime-neutral core of a SuperCI plane: GitHub App, AWS over OpenID Connect, runner machines per job"
+2026-10-09T09:26:09.758253Z,superci,0.12.0,0,0,https://github.com/supercorp-ai/superci,"Your SuperCI dashboard, on your machine: puts a control plane in your own cloud and runs GitHub Actions jobs on your AWS or Cloudflare"
+2026-10-09T09:36:21.728971Z,aphrody-m3-tokens,1.0.0-canary,0,0,https://github.com/aphrody-labs/aphrody,"Material Design 3 baseline design tokens: color roles, type scale, elevation, motion."
+2026-10-09T09:36:23.975177Z,aphrody-softraster,1.0.0-canary,0,0,https://github.com/aphrody-labs/aphrody,"Dependency-free deterministic CPU triangle rasterizer (z-buffer, perspective-correct nearest texturing, alpha cutout): consumed by the nie renderer of the iecode repository (aphrody-ffi keeps its own…"
+2026-10-09T09:36:26.004661Z,aphrody-sprite-sheet,1.0.0-canary,0,0,https://github.com/aphrody-labs/aphrody,"Sprite atlas to web sheet (CSS image/mask classes, standalone SVG symbols, JSON manifest); no_std + alloc, no input format."
+2026-10-09T09:36:29.957365Z,aphrody-svg,1.0.0-canary,0,0,https://github.com/aphrody-labs/aphrody,"The single SVG owner of the Aphrody ecosystem: parse, sanitize, optimize, normalize viewBox, M3 theming, sprite sheets, glyph outlines to SVG paths, rasterize to PNG/ICO and pixel diff."
+2026-10-09T09:36:56.610952Z,aphrody-identity,1.0.0-canary,0,0,https://github.com/aphrody-labs/aphrody,"Aphrody product identity: brand icons, favicon and webmanifest, the measured palette (design tokens, M3 seed), and the typed 2D pet runtime (RGBA atlas, timed animations, directions)."
+2026-10-09T09:38:57.462836Z,aphrody-m3-reproduce,1.0.0-canary,0,0,https://github.com/aphrody-labs/aphrody,"Reproduce a site in Material 3: seed colors, fonts, shapes and a component tree from a screenshot or a crawl, emitted as an @aphrody/m3 app scaffold."
+2026-10-09T09:40:44.163208Z,jsonx-lib,0.2.0,0,0,https://github.com/jamesgober/jsonx-lib,"Strict RFC 8259 JSON: a borrowing parser, a pull reader, and a deterministic writer, with budgets checked before allocation and no recursion. No dependencies, no_std."
+2026-10-09T09:41:16.685484Z,faro-chat,0.0.0,0,0,https://github.com/harababurel/faro,"A terminal client for Signal, built for SSH and tmux (placeholder; the real crate is coming, see getfaro.dev)"
+2026-10-09T09:41:24.119286Z,pith-hash,0.1.0,0,0,https://github.com/pith-hash/pith-hash,"The pith suite curator: detect, tier-1 content hash, tier-2 signatures, match, calibrate and the pith CLI."
+2026-10-09T09:41:26.345725Z,pith-hash-cli,0.1.0,0,0,https://github.com/pith-hash/pith-hash,The `pith` command line interface over the pith-hash suite facade.
+2026-10-09T09:42:06.322929Z,lacodda-seal,0.1.0,0,0,https://github.com/lacodda/efema,"Seal bytes under a key, and lock that key under a passphrase - two small versioned formats over Argon2id and XChaCha20-Poly1305"
+2026-10-09T09:42:12.845369Z,efema,0.2.0,0,0,https://github.com/lacodda/efema,The efema client: sync sealed changes between devices through a relay that cannot read them
+2026-10-09T09:45:32.779016Z,vectrixdb,2.2.0,0,0,https://github.com/knowusuboaky/VectrixDB,"Client for VectrixDB: collections, documents, text search, sources."
+2026-10-09T09:48:56.349952Z,aphrody-render,1.0.0-canary,0,0,https://github.com/aphrody-labs/aphrody,"Unified Aphrody native renderer contract: M3 layout, 2D GPU backends and CPU fallback."
+2026-10-09T09:49:20.276483Z,cumulus3d-core,0.3.1,0,0,https://github.com/AH100-1/cumulus3d,"Core types for cumulus3d: camera models, rigid/similarity transforms, reconstruction graph, feature store, RANSAC, PLY/GPS I/O"
+2026-10-09T09:49:23.356705Z,cumulus3d-align,0.3.1,0,0,https://github.com/AH100-1/cumulus3d,"GPS/ENU geodesy, robust similarity alignment and point-cloud re-anchoring for cumulus3d"
+2026-10-09T09:49:24.564655Z,cumulus3d-ba,0.3.1,0,0,https://github.com/AH100-1/cumulus3d,Bundle adjustment (trust-region Levenberg-Marquardt with Schur complement) for cumulus3d
+2026-10-09T09:49:26.002355Z,cumulus3d-dense,0.3.1,0,0,https://github.com/AH100-1/cumulus3d,"Undistortion and PatchMatch-style multi-view stereo (depth maps, filtering, fusion) for cumulus3d"
+2026-10-09T09:49:27.28211Z,cumulus3d-features,0.3.1,0,0,https://github.com/AH100-1/cumulus3d,"Image loading, EXIF-based camera initialisation and SIFT keypoints/descriptors for cumulus3d"
+2026-10-09T09:54:54.807414Z,pikachu-rs,0.0.1,0,0,https://github.com/tiyee/pikachu-rs,Selective MySQL ROW/MINIMAL CDC with precompiled row skip plans
+2026-10-09T09:58:10.97509Z,snarkrs-field,0.1.0,0,0,https://github.com/zemse/snarkrs,BN254 types and the evaluation domain shared by the snarkrs crates
+2026-10-09T09:58:12.489327Z,snarkrs-gpu-kernels,0.1.0,0,0,https://github.com/zemse/snarkrs,CUDA C kernel sources for the snarkrs CUDA backend
+2026-10-09T09:58:15.847463Z,snarkrs-formats,0.1.0,0,0,https://github.com/zemse/snarkrs,snarkjs .zkey and .wtns parsing for snarkrs
+2026-10-09T09:58:16.630087Z,snarkrs-gpu-layout,0.1.0,0,0,https://github.com/zemse/snarkrs,Packed data layouts shared by the snarkrs GPU backends
+2026-10-09T09:58:17.987759Z,snarkrs-msm,0.1.0,0,0,https://github.com/zemse/snarkrs,Pippenger multi-scalar multiplication over BN254 G1 and G2 for snarkrs
+2026-10-09T09:58:34.990271Z,aphrody-taffy,0.12.1,0,0,https://github.com/aphrody-labs/taffy,"Aphrody fork of Taffy, a flexible UI layout library (flexbox, grid, block, float), with local layout fixes; the library is still imported as `taffy`."
+2026-10-09T09:59:41.530155Z,cumulus3d-matching,0.3.1,0,0,https://github.com/AH100-1/cumulus3d,"Descriptor matching and two-view geometry (essential, fundamental, homography) for cumulus3d"
+2026-10-09T10:00:30.269368Z,gpui-vim-pre,0.1.1,0,0,https://github.com/beyondlex/gpui_vim,gpui integration for the vimcore engine: keystroke interception and mode UI state.
+2026-10-09T10:05:25.110451Z,snarkrs-ntt,0.1.0,0,0,https://github.com/zemse/snarkrs,Number-theoretic transforms over the BN254 scalar field for snarkrs
+2026-10-09T10:09:43.243119Z,cumulus3d-cuda,0.3.1,0,0,https://github.com/AH100-1/cumulus3d,"CUDA backends (multi-view stereo, descriptor matching, SIFT scale space) for cumulus3d via NVRTC"
+2026-10-09T10:09:51.221905Z,aphrody-m3,1.0.0,0,0,https://github.com/aphrody-labs/aphrody,Rust Material 3 component and layout contracts for Aphrody.
+2026-10-09T10:10:50.845807Z,basis-a2a,0.13.0,0,0,https://github.com/oops-rs/basis,"The A2A (Agent2Agent) server over basis: any basis agent, reachable by any A2A client, with tasks as durable as basis-tasks makes them."
+2026-10-09T10:11:56.976927Z,omw-runtime-js,0.1.8,0,0,https://github.com/haras-unicorn/omw,The bundled JavaScript interpreter component for the omw agent runtime
+2026-10-09T10:12:00.943119Z,omw-runtime-mock,0.1.8,0,0,https://github.com/haras-unicorn/omw,The bundled test-only mock brain component for the omw agent runtime
+2026-10-09T10:15:20.881548Z,moqros,0.1.0,0,0,https://github.com/yuma-m/moqros,Stream ROS 2 sensor_msgs/Image topics over Media over QUIC
+2026-10-09T10:15:24.236432Z,moqros-cli,0.1.0,0,0,https://github.com/yuma-m/moqros,ROS 2 <-> Media over QUIC image bridge nodes
+2026-10-09T10:15:29.547532Z,snarkrs-groth16,0.1.0,0,0,https://github.com/zemse/snarkrs,"Groth16 proving and verification, and the backend contract, for snarkrs"
+2026-10-09T10:16:19.970794Z,webfs,0.0.0,0,0,,placeholder
+2026-10-09T10:17:04.168099Z,bonfig-macros,0.1.0,0,0,,The #[bonfig::settings] attribute. Use it through the bonfig crate.
+2026-10-09T10:17:06.726844Z,bonfig,0.1.0,0,0,,"Layered app configuration on figment: defaults, files, and env vars"
+2026-10-09T10:17:40.90534Z,store-io-core,0.3.0,0,0,https://github.com/jamesgober/store-io,"Core types of store-io: identities, durability classes, the error model, device evidence and the pure class-decision rules."
+2026-10-09T10:17:43.766179Z,store-io-format,0.3.0,0,0,https://github.com/jamesgober/store-io,"On-disk formats for store-io: CRC32C, A/B slot headers and metadata codecs. Pure and allocation-free."
+2026-10-09T10:17:47.902587Z,store-io-buf,0.3.0,0,0,https://github.com/jamesgober/store-io,"Aligned, pooled, zero-allocation I/O buffers for store-io, with a lock-free free list and secure wipe."
+2026-10-09T10:17:50.860791Z,store-io-platform,0.3.0,0,0,https://github.com/jamesgober/store-io,The completion-shaped I/O boundary of store-io: the traits every platform backend and the simulator implement.
+2026-10-09T10:17:58.164648Z,store-io-sim,0.3.0,0,0,https://github.com/jamesgober/store-io,"Deterministic simulated platform for store-io: per-device volatile caches, crash states, fault injection and byte-exact replay."
