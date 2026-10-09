@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T13:28:22.786946Z,slackblocks,2.6.0,0,0,https://github.com/nicklambourne/slackblocks,"Native, validated Rust builders for Slack Block Kit"
+2026-10-09T13:30:09.734527Z,sephera_graph_cpp,0.7.1,0,0,https://github.com/Reim-developer/Sephera,C/C++ dependency extraction for Sephera graph.
+2026-10-09T13:30:43.135247Z,jetbrains-fswatcher,1.0.0,0,0,https://github.com/JetBrains/fswatcher,"A cross-platform file system watcher (FSEvents/kqueue, inotify, ReadDirectoryChangesW) with symlink canonicalization"
+2026-10-09T13:30:57.384677Z,sephera_graph_go,0.7.1,0,0,https://github.com/Reim-developer/Sephera,Go dependency extraction for Sephera graph.
+2026-10-09T13:31:45.034785Z,sephera_graph_java,0.7.1,0,0,https://github.com/Reim-developer/Sephera,Java dependency extraction for Sephera graph.
+2026-10-09T13:32:32.486297Z,sephera_graph_javascript,0.7.1,0,0,https://github.com/Reim-developer/Sephera,JavaScript/TypeScript dependency extraction for Sephera graph.
+2026-10-09T13:33:22.932Z,sephera_graph_python,0.7.1,0,0,https://github.com/Reim-developer/Sephera,Python dependency extraction for Sephera graph.
+2026-10-09T13:38:09.326135Z,rustroke,0.8.0,0,0,https://github.com/AndreCusimano/rustroke,An immediate-mode GUI library for Rust with its own wgpu renderer.
+2026-10-09T13:39:39.091462Z,color-log,10.2.4,0,0,https://github.com/crates-dev/ctares,"A Rust logging library that supports both asynchronous and synchronous logging. It provides multiple log levels, such as error, info, and debug. Users can define custom log handling methods and confi…"
+2026-10-09T13:40:23.458856Z,sephera_graph_rust,0.7.1,0,0,https://github.com/Reim-developer/Sephera,Rust dependency extraction for Sephera graph.
+2026-10-09T13:42:16.756709Z,postgremq,0.0.1,0,0,,PostgreMQ — a PostgreSQL message queue project in early development
+2026-10-09T13:43:41.39116Z,hugin,0.1.0,0,0,https://github.com/RavenWare/hugin,A visual cpu profiler.
+2026-10-09T13:43:44.181804Z,munin,0.1.0,0,0,https://github.com/RavenWare/munin,A visual heap memory profiler.
+2026-10-09T13:44:09.2704Z,emergency_migrating_transfer_witness,3.0.0-rc.3,0,0,https://github.com/anoma/anomapay-erc20-resource,"Witness data and resource-logic constraints for the AnomaPay ERC20 transfer resource, adding emergency migration support."
+2026-10-09T13:44:23.058719Z,rexdna,0.1.0,0,0,https://github.com/cryptopatrick/rexdna,Regular Expressions optimized for DNA.
+2026-10-09T13:44:26.647933Z,radar,0.1.0,0,0,https://github.com/cryptopatrick/radar,Rust library for working with radar data formats.
+2026-10-09T13:47:39.32735Z,emergency_migrating_transfer_library,3.0.0-rc.3,0,0,https://github.com/anoma/anomapay-erc20-resource,Host-side proving API for the AnomaPay ERC20 transfer resource: emergency migration transaction builder and embedded guest ELF/ImageID.
+2026-10-09T13:48:23.51617Z,sephera_runtime,0.7.1,0,0,https://github.com/Reim-developer/Sephera,"Source resolution: local paths, git clones (shallow), remote URLs, config loading."
+2026-10-09T13:49:22.042429Z,ttysh,0.0.0,0,0,,Browser terminal with groups and tabs that keeps your shells running
+2026-10-09T13:58:23.377627Z,sephera_graph,0.7.1,0,0,https://github.com/Reim-developer/Sephera,"Dependency graph core: resolver, declarations, blast radius, rendering."
+2026-10-09T13:59:06.615126Z,raybend,0.1.1,0,0,https://github.com/C-Thun/raybend,raybend（光伴）核心库：媒体、索引、RAW 解码、缩略图与渲染
+2026-10-09T14:07:18.978152Z,liqport,0.0.1,0,0,,Reserved for the Liqport strategy SDK
+2026-10-09T14:08:20.120402Z,attra-core,0.1.0,0,0,https://gitee.com/lloyd/attra,Core traits and code generation for attra: ergonomic attribute parsing for proc-macros.
+2026-10-09T14:08:47.734773Z,attra-macro,0.1.0,0,0,https://gitee.com/lloyd/attra,Derive macros for attra: ergonomic attribute parsing for proc-macros.
+2026-10-09T14:09:14.383658Z,attra,0.1.0,0,0,https://gitee.com/lloyd/attra,Ergonomic attribute parsing for Rust proc-macros — a friendlier darling.
