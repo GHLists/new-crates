@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T10:18:56.434353Z,aphrody-bun,1.0.0-canary,0,0,https://github.com/aphrody-labs/aphrody,Native Rust plugin for Bun applications using bun:ffi.
+2026-10-09T10:19:59.83246Z,ek-data,0.1.0,0,0,https://cnb.cool/enkeep/ek-data,"Trading data contracts for the enkeep ek ecosystem: venue enums, zero-dep epoch-nanosecond time, vt-symbol convention, bus event dictionary, tick/bar/ord/trade/position/account/contract objects and r…"
+2026-10-09T10:20:22.001633Z,store-io-engine,0.3.0,0,0,https://github.com/jamesgober/store-io,"The store-io engine: volumes, regions, barriers with flush sharing, receipts, provisioning and A/B slot objects over any store-io platform."
+2026-10-09T10:22:16.746574Z,ratatui-vim,0.1.2,0,0,https://github.com/beyondlex/crossterm_vim,"Vim for ratatui: paint the vimcore engine state (cursor, visual selections, search highlights, line numbers, cmdline) onto ratatui frames. Input and terminal concerns live in crossterm-vim."
+2026-10-09T10:22:56.202475Z,kobe-vault,4.0.0,0,0,https://github.com/qntx/kobe,Versioned AES-256-GCM envelope encryption and key derivation for Kobe
+2026-10-09T10:25:33.884814Z,snarkrs-cuda,0.1.0,0,0,https://github.com/zemse/snarkrs,NVIDIA CUDA backend for the snarkrs Groth16 prover
+2026-10-09T10:26:59.051074Z,mdbook-pdf-chapters,0.1.14,0,0,https://github.com/artran/mdbook-pdf-chapters,A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol
+2026-10-09T10:29:43.95787Z,cumulus3d-sfm,0.3.1,0,0,https://github.com/AH100-1/cumulus3d,"Global and incremental structure-from-motion: rotation averaging, positioning, registration, triangulation"
+2026-10-09T10:30:25.61007Z,aphrody-tauri-utils,3.0.0-alpha.3,0,0,https://github.com/aphrody-labs/yolo,Utilities for Tauri
+2026-10-09T10:30:34.459541Z,store-io-conformance,0.3.0,0,0,https://github.com/jamesgober/store-io,"The conformance suite every store-io platform backend must pass: the platform contract and store behaviour, on any file system."
+2026-10-09T10:35:13.612422Z,arty_macros_impl,0.4.0,0,0,https://github.com/microsoft/oxidizer/tree/main/crates/arty_macros_impl,Implementation of Arty runtime entry-point macros.
+2026-10-09T10:35:22.027462Z,snarkrs-metal,0.1.0,0,0,https://github.com/zemse/snarkrs,Apple Metal backend for the snarkrs Groth16 prover
+2026-10-09T10:36:52.123988Z,driftbrake-journal,0.2.0,0,0,https://github.com/Xtley001/driftbrake,Crash-resilient binary Write-Ahead Log (WAL) persistence for ReconcileHistory in driftbrake.
+2026-10-09T10:39:46.518729Z,cumulus3d-cli,0.3.1,0,0,https://github.com/AH100-1/cumulus3d,cumulus3d command-line tool: progressive drone-image 3D reconstruction in one process
+2026-10-09T10:39:53.932969Z,aphrody-tauri-codegen,3.0.0-alpha.3,0,0,https://github.com/aphrody-labs/yolo,code generation meant to be consumed inside of `tauri` through `tauri-build` or `tauri-macros`
+2026-10-09T10:40:31.345642Z,alibi-plugins,0.2.0,0,0,https://github.com/cschmatzler/better-auth-rs,Built-in authentication plugins and API metadata for Alibi
+2026-10-09T10:40:46.795102Z,store-io-win,0.3.0,0,0,https://github.com/jamesgober/store-io,"Windows platform backend for store-io: unbuffered overlapped I/O on IOCP, NTFS data-sync flushes, rename by handle, sentinel locks and the storage-stack probe."
+2026-10-09T10:43:36.875591Z,arty_macros,0.4.0,0,0,https://github.com/microsoft/oxidizer/tree/main/crates/arty_macros,Runtime entry-point macros for Arty.
+2026-10-09T10:45:05.900867Z,snarkrs-ceremony,0.1.0,0,0,https://github.com/zemse/snarkrs,snarkjs-compatible powers of tau and Groth16 phase 2 ceremony for snarkrs
+2026-10-09T10:45:48.921684Z,xrepl,0.2.1,0,0,https://github.com/marc47marc47/xrepl,"Exact, escape-free, atomic string replacement in files for AI agents and scripts"
+2026-10-09T10:48:33.93472Z,mysql-replication,0.0.2,0,0,https://github.com/tiyee/pikachu-rs,Configurable MySQL replication with committed change event handlers
+2026-10-09T10:48:57.018077Z,store-io-posix,0.3.0,0,0,https://github.com/jamesgober/store-io,"Linux synchronous backend for store-io: direct I/O, OFD locks, fallocate, FIEMAP, cachestat and the sysfs, procfs and NVMe evidence probe."
+2026-10-09T10:49:12.551571Z,aphrody-tauri-macros,3.0.0-alpha.3,0,0,https://github.com/aphrody-labs/yolo,Macros for the tauri crate.
+2026-10-09T10:51:05.265813Z,openlark-pay,0.21.0,0,0,https://github.com/foxzool/openlark,OpenLark 商店付费模块 - 查询订单详情、订单列表与开通范围
+2026-10-09T10:52:57.159072Z,cimoxide-schema,0.4.0,0,0,https://github.com/m-mirz/cimoxide,"Parser for ENTSO-E RDFS application profile schemas (CGMES, NCP) into a typed specification model"
+2026-10-09T10:52:59.610255Z,cimoxide-model,0.4.0,0,0,https://github.com/m-mirz/cimoxide,"The IEC 61970/61968 Common Information Model as profiled by ENTSO-E CGMES: generated Rust structs, a streaming RDF/XML decoder, and conversion to RDF/XML and JSON"
+2026-10-09T10:53:13.841608Z,whichw,0.2.2,0,0,https://github.com/marc47marc47/whichw,"like linux which, can find where the exec command is"
+2026-10-09T10:54:55.714051Z,snarkrs-wgpu,0.1.0,0,0,https://github.com/zemse/snarkrs,"WebGPU backend for the snarkrs Groth16 prover, native and in the browser"
+2026-10-09T10:57:53.400418Z,marlin-field,0.3.0,0,0,https://github.com/jkr78/marlin,"Decoded-field state type shared by the marlin decoders: value, not available, sender error, invalid, over-range bound."
+2026-10-09T10:58:21.113259Z,aphrody-tauri-runtime,3.0.0-alpha.3,0,0,https://github.com/aphrody-labs/yolo,Runtime for Tauri applications
+2026-10-09T10:59:50.067203Z,psw-cli,0.1.0,0,0,https://github.com/marc47marc47/psw,"A ps-like process lister for Windows (also builds on Linux/macOS), with a pstree-style 'tree' subcommand"
+2026-10-09T11:01:12.451421Z,netstatw,0.1.0,0,0,https://github.com/marc47marc47/netstatw,"A netstat-like CLI showing TCP/UDP sockets with owning process info (Windows, Linux, macOS)"
+2026-10-09T11:04:20.90814Z,killw,0.1.0,0,0,https://github.com/marc47marc47/killw,"A Windows kill-like command-line utility to terminate processes by PID, written with the Windows API"
+2026-10-09T11:04:50.091393Z,snarkrs-witness,0.1.0,0,0,https://github.com/zemse/snarkrs,circom witness generation for snarkrs: the wasm calculator and the native binary
+2026-10-09T11:08:52.357064Z,harn-package,0.10.159,0,0,https://github.com/burin-labs/harn,"Authoritative Harn package resolution, materialization and connector discovery"
+2026-10-09T11:08:52.643797Z,todp,0.1.0,0,0,,a todo app which builds a json file per folder
+2026-10-09T11:09:19.496071Z,aphrody-tauri-build,3.0.0-alpha.3,0,0,https://github.com/aphrody-labs/yolo,build time code to pair with https://crates.io/crates/tauri
+2026-10-09T11:14:37.891094Z,snarkrs-lib,0.1.0,0,0,https://github.com/zemse/snarkrs,"Groth16 prover and verifier for BN254, byte-compatible with snarkjs, with CPU, Metal, CUDA and WebGPU backends"
+2026-10-09T11:14:42.274543Z,nisshi-storage-dynostore,0.1.0,0,0,https://github.com/nisshi-io/nisshi,Storage Engine For ObjectStore (S3 or memory)
+2026-10-09T11:17:01.586541Z,en16931-codes-macros,0.1.0,0,0,https://github.com/nepalez/en16931-codes,Proc-macro for generating the EN 16931 code list types from the code list file of the European Commission
+2026-10-09T11:17:05.018271Z,en16931-codes,0.1.0,0,0,https://github.com/nepalez/en16931-codes,The code lists of EN 16931 as published by the European Commission (version 17b)
+2026-10-09T11:18:48.40915Z,aphrody-tauri-plugin,3.0.0-alpha.3,0,0,https://github.com/aphrody-labs/yolo,Build script and runtime Tauri plugin definitions
+2026-10-09T11:19:02.765181Z,nisshi-storage-null,0.1.0,0,0,https://github.com/nisshi-io/nisshi,Null Storage Engine
