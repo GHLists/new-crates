@@ -1,0 +1,16 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T06:24:34.050566Z,oxtel-sql,0.0.1,0,0,https://github.com/agentstatelabs/oxtel,"Database client instrumentation for sqlx, tokio-postgres and rusqlite, for oxtel (under development)"
+2026-10-09T06:25:12.999078Z,whipplescript-hjson,0.11.0,0,0,https://github.com/GaugeWright/whipplescript,Owned full HJSON parser with strict governance-source consumption
+2026-10-09T06:26:19.876568Z,lazyjson,0.0.2,0,0,https://git.betalupi.com/Mark/lazyjson,Lazily-computed value extraction
+2026-10-09T06:27:43.974636Z,cerne-macros,0.2.0,0,0,https://github.com/ecdesa-labs/cerne,"The attributes of Cerne: #[entity], #[aggregate] and #[value_object] write what every sticky note of a kind has in common"
+2026-10-09T06:29:24.671899Z,omw-build,0.1.7,0,0,https://github.com/haras-unicorn/omw,Shared build-script helpers for the omw interpreter component crates
+2026-10-09T06:35:07.161973Z,oxtel-tokio,0.0.1,0,0,https://github.com/agentstatelabs/oxtel,tokio runtime metrics for oxtel (under development)
+2026-10-09T06:35:15.981106Z,polyedge,1.0.0,0,0,https://github.com/PolyEdgeDev/polyedge-rust,Official Rust SDK for PolyEdge ultra-low latency Polymarket mempool trade streaming and real-time on-chain analytics API.
+2026-10-09T06:39:30.375012Z,opendal-sync,1.0.0,0,0,https://github.com/sxhxliang/synctools,Embeddable file synchronization with user-selected OpenDAL backends
+2026-10-09T06:39:51.765246Z,soroban-lint-core,0.1.1,0,0,https://github.com/Stellar-Soroban-Lint/soroban-lint-core,"Syntactic, per-file static analysis for Soroban smart contracts (library)."
+2026-10-09T06:40:10.586739Z,soroban-lint-cli,0.1.1,0,0,https://github.com/Stellar-Soroban-Lint/soroban-lint-core,Command-line interface for soroban-lint.
+2026-10-09T06:43:34.131827Z,physicalcontextprotocol,1.0.0,0,0,https://github.com/physicalcontextprotocol/pmcp-rust,PCP Core - Physical Context Protocol Rust implementation
+2026-10-09T06:45:46.04163Z,oxtel-genai,0.0.1,0,0,https://github.com/agentstatelabs/oxtel,GenAI token usage and operation metrics for oxtel (under development)
+2026-10-09T06:51:48.805923Z,pite-core,0.1.0,0,0,https://github.com/piteengine/pite,"Node tree, handles, props and lifecycle dispatch for Pite."
+2026-10-09T06:51:59.568888Z,pite-project,0.1.0,0,0,https://github.com/piteengine/pite,"Project manifest (pite.toml), res:// paths and templates."
+2026-10-09T06:52:06.675361Z,pite-scene,0.1.0,0,0,https://github.com/piteengine/pite,"TOML scene format, instantiation, validation and binary cache for Pite."
