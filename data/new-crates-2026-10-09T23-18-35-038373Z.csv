@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T22:22:34.611798Z,avr-sim,0.0.0,0,0,https://github.com/michaelnavazhylau/arduino-sim-rs,Dependency-free native Rust AVR8 simulator core and scenario runner
+2026-10-09T22:24:08.102162Z,lopatnov-conduit-limits,2.0.0,0,0,https://github.com/lopatnov/conduit,"Request size/inflight/per-IP/upload-rate limits config + guard for conduit's feature-driven workspace (issue #114/#137, #51)"
+2026-10-09T22:27:31.75275Z,pdfrum-anyrender,0.5.0,0,0,https://github.com/PoHsuanLai/pdfrum,"anyrender scenes as vector PDF pages: paths, gradients, images kept in their source encoding, and embedded, subsetted fonts with real text"
+2026-10-09T22:28:41.422475Z,footnote,0.0.0,0,0,,The footnote agent harness. This release reserves the name; the first working release is 0.1.0.
+2026-10-09T22:29:17.22012Z,avr8rs,0.1.1,0,0,https://github.com/michaelnavazhylau/avr8rs,Dependency-free native Rust AVR8 simulator core and scenario runner
+2026-10-09T22:29:58.935879Z,agent-framework-tools,0.11.0,0,0,https://github.com/codehalwell/agent-framework-rs,"Built-in tools for agent-framework: a local shell tool with policy, approval gating and persistent sessions, plus a Docker executor"
+2026-10-09T22:32:06.937541Z,sqlite-containers,1.0.0,0,0,https://github.com/danieltrick/sqlite-containers/,SQLite-based containers for Rust
+2026-10-09T22:32:48.927119Z,alexandria-learning-contracts,0.1.0,0,0,,I/O-free Alexandria learning vocabulary and decision contracts
+2026-10-09T22:33:41.002057Z,pomodors,0.1.1,0,0,https://github.com/Danpythonman/pomodors,"A shared, multi-user pomodoro timer for the terminal"
+2026-10-09T22:34:09.121959Z,lopatnov-conduit-metrics,2.0.0,0,0,https://github.com/lopatnov/conduit,Prometheus /metrics endpoint config + handler for conduit's feature-driven workspace (issue #114/#140)
+2026-10-09T22:44:06.931081Z,lopatnov-conduit-middleware,2.0.0,0,0,https://github.com/lopatnov/conduit,Rhai/WASM middleware chain (config + guard + response filter) for conduit's feature-driven workspace (issue #114/#141)
+2026-10-09T22:45:23.630233Z,esuiss-access-kernel,0.0.0,0,0,https://github.com/e-suiss/access,Reserved for Access by Suiss. The first release is published from https://github.com/e-suiss/access.
+2026-10-09T22:45:26.458083Z,esuiss-access-verify,0.0.0,0,0,https://github.com/e-suiss/access,Reserved for Access by Suiss. The first release is published from https://github.com/e-suiss/access.
+2026-10-09T22:45:29.26698Z,esuiss-crypto,0.0.0,0,0,https://github.com/e-suiss/access,Reserved for Access by Suiss. The first release is published from https://github.com/e-suiss/access.
+2026-10-09T22:45:31.884725Z,esuiss-ledger,0.0.0,0,0,https://github.com/e-suiss/access,Reserved for Access by Suiss. The first release is published from https://github.com/e-suiss/access.
+2026-10-09T22:45:34.774126Z,esuiss-restriction,0.0.0,0,0,https://github.com/e-suiss/access,Reserved for Access by Suiss. The first release is published from https://github.com/e-suiss/access.
+2026-10-09T22:54:08.613573Z,lopatnov-conduit-ratelimit,2.0.0,0,0,https://github.com/lopatnov/conduit,"Rate-limit config + token-bucket admission + Redis backend for conduit's feature-driven workspace (issue #114/#137, slices 1-2)"
+2026-10-09T23:04:09.730825Z,lopatnov-conduit-auth-consumers,2.0.0,0,0,https://github.com/lopatnov/conduit,Consumer-model auth (per-consumer API key / Basic Auth / JWT credentials) config + identification logic for conduit's feature-driven workspace (issue #114/#134)
+2026-10-09T23:06:49.714031Z,voxr,0.1.0,0,0,https://github.com/ml-rust/voxr,"Audio and speech: codecs, DSP, G2P, voices, and TTS/ASR pipelines over boostr models"
+2026-10-09T23:07:06.362972Z,voxr-narrate,0.1.0,0,0,https://github.com/ml-rust/voxr,"Script-to-speech narration: script parsing, speech checks, and take repair"
+2026-10-09T23:10:28.205398Z,pidcatrs,2.0.0,0,0,https://github.com/abdalmoniem/pidcatrs,A colorized Android logcat viewer with advanced filtering capabilities.
+2026-10-09T23:13:57.06466Z,rust-gum,0.1.0,0,0,https://github.com/example/rust-gum,"A Stylish Rust library for glamorous CLI apps: terminal styling plus interactive prompts, lists, spinners, pagers and more."
+2026-10-09T23:14:07.912975Z,lopatnov-conduit-redirects,2.0.0,0,0,https://github.com/lopatnov/conduit,Configured URL redirects config + guard for conduit's feature-driven workspace (issue #114/#140)
+2026-10-09T23:15:56.910951Z,pheasa,0.1.0,0,0,https://github.com/pheasaKhmer/pheasa,"Khmer text normalization (Unicode Technical Note #61), with the same output as the Python package pheasa."
+2026-10-09T23:17:55.668856Z,rustroke-soft,0.17.1,0,0,https://github.com/AndreCusimano/rustroke,"Software renderer for rustroke meshes: draws on the CPU, without a GPU."
