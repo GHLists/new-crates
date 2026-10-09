@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-08T23:20:49.353356Z,poolster-plugin-rust,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Rust SDK generators and typed package integration for Poolster
+2026-10-08T23:22:50.950663Z,fusionspace-hpr-core,0.1.0,0,0,https://github.com/nrdptel/fusionspace-eridanus,"Core math, units, frames, Earth, gravity and magnetic-field models, interpolation tables and shared error types."
+2026-10-08T23:22:54.089586Z,fusionspace-hpr-atmos,0.1.0,0,0,https://github.com/nrdptel/fusionspace-eridanus,"Atmosphere and wind models: the US Standard Atmosphere 1976, ISA offsets, custom soundings, wind profiles and turbulence."
+2026-10-08T23:23:00.079666Z,fusionspace-hpr-motor,0.1.0,0,0,https://github.com/nrdptel/fusionspace-eridanus,"Solid rocket motor model (thrust, propellant mass, CG and inertia over time), `.eng`/`.rse` reading and writing, and catalog types."
+2026-10-08T23:23:05.228278Z,fusionspace-hpr-design,0.1.0,0,0,https://github.com/nrdptel/fusionspace-eridanus,"The canonical rocket design model: component tree, shapes, materials, mass properties, stages and configurations, and design checks."
+2026-10-08T23:23:11.20487Z,fusionspace-hpr-aero,0.1.0,0,0,https://github.com/nrdptel/fusionspace-eridanus,"Aerodynamics: Barrowman normal force and center of pressure with extensions, drag buildup, compressibility, damping and override tables."
+2026-10-08T23:30:45.720141Z,poolster-plugin-rust-cli,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Rust API CLI generator for Poolster
+2026-10-08T23:33:47.667652Z,fusionspace-hpr-sim,0.1.0,0,0,https://github.com/nrdptel/fusionspace-eridanus,"The 6-DOF flight engine: state, launch rail phase, integrators, events, recovery, staging and the recorder."
+2026-10-08T23:40:47.869016Z,poolster-plugin-swift,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Native Swift SDK generator for Poolster
+2026-10-08T23:44:32.355222Z,fusionspace-hpr-io,0.1.0,0,0,https://github.com/nrdptel/fusionspace-eridanus,"Foreign formats: OpenRocket `.ork`, RockSim `.rkt`, RASAero `.CDX1`, RocketPy export, the `.orc` parts database, ERA5 weather in netCDF classic files, GRIB2 weather fields and GeoTIFF elevation files."
+2026-10-08T23:50:48.44904Z,poolster-plugin-symfony,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Symfony bundle generator for Poolster PHP SDKs
+2026-10-08T23:52:08.751633Z,mulciber-texture,0.1.0,0,0,https://github.com/fairhill1/mulciber,"Texture baking for Mulciber games: mip chains, channel packing, BC7 and KTX2, with a source fallback"
+2026-10-08T23:52:59.536303Z,bytecode-lang,0.2.0,0,0,https://github.com/jamesgober/bytecode-lang,"LSB, the LexerSketch bytecode format: instruction set, verifier, disassembler, and versioned encoding."
+2026-10-08T23:53:22.044051Z,froodi-macros,1.1.0,0,0,https://github.com/Desiders/froodi,Procedural macros for Froodi and froodi-auto
+2026-10-08T23:55:11.394805Z,fusionspace-hpr-format,0.1.0,0,0,https://github.com/nrdptel/fusionspace-eridanus,"The HPR open design format: types, JSON Schema, versioning and migrations, and the container."
+2026-10-09T00:00:46.982472Z,poolster-plugin-terraform,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Terraform provider generator for Poolster
+2026-10-09T00:05:44.678303Z,fusionspace-hpr-net,0.1.0,0,0,https://github.com/nrdptel/fusionspace-eridanus,"Optional online data sources with an on-disk cache and an explicit offline mode: weather, soundings, elevation, ThrustCurve and motor stock."
+2026-10-09T00:10:28.74573Z,nsupdate,0.1.0,0,0,https://github.com/kweonminsung/nsupdate_rust,An asynchronous DNS UPDATE client for BIND9 with optional TSIG authentication
+2026-10-09T00:10:49.930222Z,poolster-input-graphql,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Native graphql input provider for Poolster
+2026-10-09T00:11:41.75675Z,selldatatoai,1.0.0,0,0,https://github.com/explainableaixai/selldatatoai-rust,"Rust client for the Data Asset Score API from selldatatoai.com: score company domains 0 to 100 for the data AI buyers want, singly or in batches of 100"
+2026-10-09T00:16:18.85533Z,fusionspace-hpr-flightdata,0.1.0,0,0,https://github.com/nrdptel/fusionspace-eridanus,"Flight-log importers, filtering and smoothing, time alignment, parameter identification and fault diagnosis."
+2026-10-09T00:17:26.732126Z,touch-osc-core,0.1.0,0,0,https://github.com/rickprice/touch-osc-utilities-rs,"Lossless library for reading, writing and building TouchOSC (.tosc) layouts"
+2026-10-09T00:17:34.724939Z,tosc-cli,0.1.0,0,0,https://github.com/rickprice/touch-osc-utilities-rs,"CLI for reading, writing and building TouchOSC (.tosc) layouts"
+2026-10-09T00:18:53.734543Z,unity-catalog-delta-client-api,0.1.0,0,0,https://github.com/delta-io/delta-kernel-rs,Transport-agnostic client traits and wire models for the Unity Catalog Delta Tables API.

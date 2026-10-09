@@ -8,43 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 23:19 UTC
+## Latest list — 2026-10-09 00:19 UTC
 
-New crates published between 2026-10-08 22:19 UTC and 2026-10-08 23:19 UTC.
+New crates published between 2026-10-08 23:19 UTC and 2026-10-09 00:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-08T23-19-36-893832Z.csv)
+[Full CSV](data/new-crates-2026-10-09T00-19-06-560038Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-08 22:20:36 | [poolster-core](https://crates.io/crates/poolster-core) | 0.5.0-alpha.1 | 0 | Language-neutral OpenAPI code generation primitives |
-| 2026-10-08 22:20:43 | [poolster-plugin-csharp](https://crates.io/crates/poolster-plugin-csharp) | 0.5.0-alpha.1 | 0 | Native C#/.NET SDK generator for Poolster |
-| 2026-10-08 22:20:49 | [poolster-plugin-dotnet](https://crates.io/crates/poolster-plugin-dotnet) | 0.5.0-alpha.1 | 0 | Deprecated compatibility facade for Poolster's C# SDK generator |
-| 2026-10-08 22:20:53 | [poolster-plugin-elixir](https://crates.io/crates/poolster-plugin-elixir) | 0.5.0-alpha.1 | 0 | Native Elixir SDK generator for Poolster |
-| 2026-10-08 22:20:58 | [poolster-plugin-go](https://crates.io/crates/poolster-plugin-go) | 0.5.0-alpha.1 | 0 | Native Go SDK generator for Poolster |
-| 2026-10-08 22:21:20 | [playdash](https://crates.io/crates/playdash) | 0.1.0 | 0 | Parse MPEG-DASH manifests and set them up for progressive streaming playback |
-| 2026-10-08 22:22:59 | [kosmonaut](https://crates.io/crates/kosmonaut) | 0.0.1-rc1 | 0 | A modern NetworkManager TUI written in Rust |
-| 2026-10-08 22:30:45 | [poolster-plugin-java](https://crates.io/crates/poolster-plugin-java) | 0.5.0-alpha.1 | 0 | Native Java SDK generator for Poolster |
-| 2026-10-08 22:40:03 | [algorand-falcon](https://crates.io/crates/algorand-falcon) | 0.1.0 | 0 | Rust bindings for deterministic Falcon-1024 post-quantum signatures |
-| 2026-10-08 22:40:45 | [poolster-plugin-php](https://crates.io/crates/poolster-plugin-php) | 0.5.0-alpha.1 | 0 | PHP 8.2+ SDK generator for Poolster |
-| 2026-10-08 22:45:22 | [aphrody-n2b-types](https://crates.io/crates/aphrody-n2b-types) | 0.7.0 | 0 | N2B shared types and the versioned JSON report schema. |
-| 2026-10-08 22:45:23 | [aphrody-n2b-registry](https://crates.io/crates/aphrody-n2b-registry) | 0.7.0 | 0 | N2B data-driven Node-to-Bun migration rule registry, embedded TOML validated at… |
-| 2026-10-08 22:45:25 | [aphrody-n2b-core](https://crates.io/crates/aphrody-n2b-core) | 0.7.0 | 0 | N2B engine: rules, scanners, reports, audit, run orchestration, manifest handli… |
-| 2026-10-08 22:45:27 | [aphrody-n2b](https://crates.io/crates/aphrody-n2b) | 0.7.0 | 0 | Node.js to Bun migration analyzer and codemod (the n2b CLI). |
-| 2026-10-08 22:46:16 | [aphrody-oxc-bridge](https://crates.io/crates/aphrody-oxc-bridge) | 0.2.0 | 0 | In-process Oxc bridge: transform, minify, format, lint and analyze JS/TS, with… |
-| 2026-10-08 22:47:35 | [runique_dsl](https://crates.io/crates/runique_dsl) | 0.1.0 | 0 | Parser for the Runique model!{} and extend!{} DSL, shared by the derive_form ma… |
-| 2026-10-08 22:48:27 | [textmate-lang](https://crates.io/crates/textmate-lang) | 0.2.0 | 0 | TextMate grammar and semantic-token legend generation for editors without tree-… |
-| 2026-10-08 22:50:45 | [poolster-plugin-postman](https://crates.io/crates/poolster-plugin-postman) | 0.5.0-alpha.1 | 0 | Portable Postman Collection 2.1 generator for Poolster |
-| 2026-10-08 22:54:31 | [psychowl](https://crates.io/crates/psychowl) | 0.1.0 | 0 | Natural language and script detection. It knows what language you speak. |
-| 2026-10-08 22:55:23 | [silicon-accounts-cli](https://crates.io/crates/silicon-accounts-cli) | 0.3.0 | 0 | The `silicon-accounts` command line for Silicon Accounts: sign Carbons and Sili… |
-| 2026-10-08 22:57:51 | [kftray-telemetry](https://crates.io/crates/kftray-telemetry) | 0.30.0 | 0 | Opt-in crash reporting shared by the kftray desktop app and kftui |
-| 2026-10-08 22:59:21 | [termdoc-read-code](https://crates.io/crates/termdoc-read-code) | 0.2.0 | 0 | Syntax highlighting for termdoc: source files and fenced code blocks |
-| 2026-10-08 22:59:21 | [termdoc-read-data](https://crates.io/crates/termdoc-read-data) | 0.2.0 | 0 | Structured data readers for termdoc: JSON, YAML, TOML, XML and CSV |
-| 2026-10-08 22:59:58 | [object-lang](https://crates.io/crates/object-lang) | 0.2.0 | 0 | Writes and reads object files and executables: ELF64 for x86-64 and AArch64 fro… |
-| 2026-10-08 23:00:47 | [poolster-plugin-python](https://crates.io/crates/poolster-plugin-python) | 0.5.0-alpha.1 | 0 | Native Python SDK generator for Poolster |
-| 2026-10-08 23:06:01 | [isa-lang](https://crates.io/crates/isa-lang) | 0.2.0 | 0 | Instruction encoders, decoders, and assemblers for x86-64 and AArch64, generate… |
-| 2026-10-08 23:10:47 | [poolster-plugin-ruby](https://crates.io/crates/poolster-plugin-ruby) | 0.5.0-alpha.1 | 0 | Native Ruby SDK generator for Poolster |
-| 2026-10-08 23:13:32 | [hir-lang](https://crates.io/crates/hir-lang) | 0.2.0 | 0 | High-level IR for LexerSketch: the structured, typed-optional core every forged… |
-| 2026-10-08 23:13:54 | [match-lang](https://crates.io/crates/match-lang) | 0.2.0 | 0 | Exhaustiveness and usefulness checking for pattern matching, generic over a lan… |
+| 2026-10-08 23:20:49 | [poolster-plugin-rust](https://crates.io/crates/poolster-plugin-rust) | 0.5.0-alpha.1 | 0 | Rust SDK generators and typed package integration for Poolster |
+| 2026-10-08 23:22:50 | [fusionspace-hpr-core](https://crates.io/crates/fusionspace-hpr-core) | 0.1.0 | 0 | Core math, units, frames, Earth, gravity and magnetic-field models, interpolati… |
+| 2026-10-08 23:22:54 | [fusionspace-hpr-atmos](https://crates.io/crates/fusionspace-hpr-atmos) | 0.1.0 | 0 | Atmosphere and wind models: the US Standard Atmosphere 1976, ISA offsets, custo… |
+| 2026-10-08 23:23:00 | [fusionspace-hpr-motor](https://crates.io/crates/fusionspace-hpr-motor) | 0.1.0 | 0 | Solid rocket motor model (thrust, propellant mass, CG and inertia over time), `… |
+| 2026-10-08 23:23:05 | [fusionspace-hpr-design](https://crates.io/crates/fusionspace-hpr-design) | 0.1.0 | 0 | The canonical rocket design model: component tree, shapes, materials, mass prop… |
+| 2026-10-08 23:23:11 | [fusionspace-hpr-aero](https://crates.io/crates/fusionspace-hpr-aero) | 0.1.0 | 0 | Aerodynamics: Barrowman normal force and center of pressure with extensions, dr… |
+| 2026-10-08 23:30:45 | [poolster-plugin-rust-cli](https://crates.io/crates/poolster-plugin-rust-cli) | 0.5.0-alpha.1 | 0 | Rust API CLI generator for Poolster |
+| 2026-10-08 23:33:47 | [fusionspace-hpr-sim](https://crates.io/crates/fusionspace-hpr-sim) | 0.1.0 | 0 | The 6-DOF flight engine: state, launch rail phase, integrators, events, recover… |
+| 2026-10-08 23:40:47 | [poolster-plugin-swift](https://crates.io/crates/poolster-plugin-swift) | 0.5.0-alpha.1 | 0 | Native Swift SDK generator for Poolster |
+| 2026-10-08 23:44:32 | [fusionspace-hpr-io](https://crates.io/crates/fusionspace-hpr-io) | 0.1.0 | 0 | Foreign formats: OpenRocket `.ork`, RockSim `.rkt`, RASAero `.CDX1`, RocketPy e… |
+| 2026-10-08 23:50:48 | [poolster-plugin-symfony](https://crates.io/crates/poolster-plugin-symfony) | 0.5.0-alpha.1 | 0 | Symfony bundle generator for Poolster PHP SDKs |
+| 2026-10-08 23:52:08 | [mulciber-texture](https://crates.io/crates/mulciber-texture) | 0.1.0 | 0 | Texture baking for Mulciber games: mip chains, channel packing, BC7 and KTX2, w… |
+| 2026-10-08 23:52:59 | [bytecode-lang](https://crates.io/crates/bytecode-lang) | 0.2.0 | 0 | LSB, the LexerSketch bytecode format: instruction set, verifier, disassembler,… |
+| 2026-10-08 23:53:22 | [froodi-macros](https://crates.io/crates/froodi-macros) | 1.1.0 | 0 | Procedural macros for Froodi and froodi-auto |
+| 2026-10-08 23:55:11 | [fusionspace-hpr-format](https://crates.io/crates/fusionspace-hpr-format) | 0.1.0 | 0 | The HPR open design format: types, JSON Schema, versioning and migrations, and… |
+| 2026-10-09 00:00:46 | [poolster-plugin-terraform](https://crates.io/crates/poolster-plugin-terraform) | 0.5.0-alpha.1 | 0 | Terraform provider generator for Poolster |
+| 2026-10-09 00:05:44 | [fusionspace-hpr-net](https://crates.io/crates/fusionspace-hpr-net) | 0.1.0 | 0 | Optional online data sources with an on-disk cache and an explicit offline mode… |
+| 2026-10-09 00:10:28 | [nsupdate](https://crates.io/crates/nsupdate) | 0.1.0 | 0 | An asynchronous DNS UPDATE client for BIND9 with optional TSIG authentication |
+| 2026-10-09 00:10:49 | [poolster-input-graphql](https://crates.io/crates/poolster-input-graphql) | 0.5.0-alpha.1 | 0 | Native graphql input provider for Poolster |
+| 2026-10-09 00:11:41 | [selldatatoai](https://crates.io/crates/selldatatoai) | 1.0.0 | 0 | Rust client for the Data Asset Score API from selldatatoai.com: score company d… |
+| 2026-10-09 00:16:18 | [fusionspace-hpr-flightdata](https://crates.io/crates/fusionspace-hpr-flightdata) | 0.1.0 | 0 | Flight-log importers, filtering and smoothing, time alignment, parameter identi… |
+| 2026-10-09 00:17:26 | [touch-osc-core](https://crates.io/crates/touch-osc-core) | 0.1.0 | 0 | Lossless library for reading, writing and building TouchOSC (.tosc) layouts |
+| 2026-10-09 00:17:34 | [tosc-cli](https://crates.io/crates/tosc-cli) | 0.1.0 | 0 | CLI for reading, writing and building TouchOSC (.tosc) layouts |
+| 2026-10-09 00:18:53 | [unity-catalog-delta-client-api](https://crates.io/crates/unity-catalog-delta-client-api) | 0.1.0 | 0 | Transport-agnostic client traits and wire models for the Unity Catalog Delta Ta… |
 
 ## Data source
 
