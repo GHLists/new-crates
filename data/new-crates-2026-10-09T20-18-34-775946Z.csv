@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T19:19:39.424006Z,teamy-facet-core,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet,"TeamDman fork: Core reflection traits and types for the facet ecosystem - provides the Facet trait, Shape metadata, and type-erased pointers"
+2026-10-09T19:19:50.605738Z,teamy-facet-macro-types,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet,TeamDman fork: Unsynn grammar and type definitions for facet macro ecosystem
+2026-10-09T19:19:56.223811Z,teamy-facet-testhelpers-macros,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet,TeamDman fork: Proc macro for facet-testhelpers
+2026-10-09T19:20:02.356858Z,teamy-facet-macro-parse,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet,TeamDman fork: Parser for facet derive macros - transforms TokenStreams into structured type representations
+2026-10-09T19:20:13.389797Z,teamy-facet-path,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet,TeamDman fork: Path tracking for navigating Facet type structures
+2026-10-09T19:20:51.567291Z,par-term-emu-core,0.58.1,0,0,https://github.com/paulrobello/par-term-emu-core-rust,"Terminal emulator core for par-term-emu-core-rust: VT100-VT520 state machine, grid, PTY session, Sixel/iTerm2/Kitty graphics, screenshot renderer"
+2026-10-09T19:21:03.170299Z,par-mux,0.58.1,0,0,https://github.com/paulrobello/par-term-emu-core-rust,"par-mux terminal multiplexer: tmux control-mode daemon, session tree, persistence, and attach client for par-term-emu-core"
+2026-10-09T19:21:42.994591Z,michi-cli,0.1.0,0,0,https://github.com/jackroddy/michi,run a .michi pipeline file
+2026-10-09T19:27:07.976764Z,obscura-ssrf,0.1.0,0,0,https://github.com/aphrody-labs/obscura,Shared SSRF deny-set and private-network opt-in for Obscura network transports and renderer.
+2026-10-09T19:27:29.528695Z,obscura-dom,0.1.1,0,0,https://github.com/aphrody-labs/obscura,Aphrody platform crate obscura-dom.
+2026-10-09T19:28:43.741688Z,aphrody-gpu-backend,1.0.0-canary.1,0,0,https://github.com/aphrody-labs/aphrody,"Shared wgpu instance, adapter, device and surface-configuration boundary for Aphrody and IECODE renderers, plus the process-wide GPU hub (wgpu + CUDA)."
+2026-10-09T19:29:00.608848Z,fhy-core,0.2.0,0,0,https://github.com/actlab-fhy/FhY-core,"Core IR building blocks for the FhY compiler: identifiers, interned tags, diagnostics, symbolic expressions, rewrite rules, a pass manager, a solver with pluggable backends, constraints, params, latt…"
+2026-10-09T19:29:13.11359Z,aphrody-web-extract,1.0.0,0,0,https://github.com/aphrody-labs/aphrody,"Aphrody Web content extraction, Markdown, chunking, SimHash, URL metadata, media and embed resolution."
+2026-10-09T19:29:34.881246Z,teamy-facet-testhelpers,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet,TeamDman fork: A collection of testing helpers and utilities for facet
+2026-10-09T19:29:44.261595Z,obscura-net,0.1.1,0,0,https://github.com/aphrody-labs/obscura,Aphrody platform crate obscura-net.
+2026-10-09T19:29:44.802354Z,fhy-core-py,0.2.0,0,0,https://github.com/actlab-fhy/FhY-core,The PyO3 binding of fhy-core as a library: registers fhy_core's Python classes into an extension module.
+2026-10-09T19:32:15.429537Z,aphrody-ssh,0.1.0,0,0,https://github.com/aphrody-labs/aphrody,Aphrody SSH operator: safe command execution and diagnostics for configured hosts.
+2026-10-09T19:35:54.891757Z,formatkit-core,0.1.0,0,0,https://github.com/JidouGhost-TL/formatkit,"Checked bytes, bits, sources, budgets and shared binary-data values"
+2026-10-09T19:36:17.943493Z,formatkit-corpus,0.1.0,0,0,https://github.com/JidouGhost-TL/formatkit,"Explicit-root, platform-neutral corpus discovery"
+2026-10-09T19:36:21.558087Z,formatkit-layout,0.1.0,0,0,https://github.com/JidouGhost-TL/formatkit,"Configured binary fields, records, tables, ranges and resident edits"
+2026-10-09T19:36:25.004336Z,formatkit-catalog,0.1.0,0,0,https://github.com/JidouGhost-TL/formatkit,"Format identities, detection catalogs and executable operation contracts"
+2026-10-09T19:36:27.087928Z,formatkit-pixel,0.1.0,0,0,https://github.com/JidouGhost-TL/formatkit,"Generic packed-pixel, palette, channel-mask and S3TC mechanics"
+2026-10-09T19:37:45.976939Z,olf,0.3.0,0,0,https://github.com/binado/olf,CLI for managing and building local Overleaf projects with coding agents
+2026-10-09T19:38:24.400546Z,ngspice-rs,0.1.0,0,0,https://github.com/michaelnavazhylau/ngspice-rs,"A from-scratch Rust implementation of the ngspice circuit simulator: deck parsing, MNA assembly and DC/AC/transient analysis"
+2026-10-09T19:38:57.873127Z,aphrody-web-crawl,1.0.0,0,0,https://github.com/aphrody-labs/aphrody,Shared persistent crawl frontier and bounded Rust crawler for Aphrody Web.
+2026-10-09T19:39:31.829442Z,teamy-facet-macros-impl,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet,TeamDman fork: Implementation of facet derive macros (parsing and code generation)
+2026-10-09T19:44:56.981436Z,leleka-core,0.1.1,0,0,https://github.com/serhii-pokrovskyi/leleka,"Library behind leleka, a fastlane alternative: uploading mobile app builds to App Store Connect and Google Play"
+2026-10-09T19:44:59.763903Z,leleka,0.1.1,0,0,https://github.com/serhii-pokrovskyi/leleka,Command-line fastlane alternative: upload mobile app builds to App Store Connect and Google Play
+2026-10-09T19:45:57.66955Z,formatkit-codec,0.1.0,0,0,https://github.com/JidouGhost-TL/formatkit,"Reusable bounded deflate, gzip, LZMA, RNC and raw LZSS codecs"
+2026-10-09T19:49:32.703768Z,teamy-facet-reflect,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet,TeamDman fork: Build and manipulate values of arbitrary Facet types at runtime while respecting invariants - safe runtime reflection
+2026-10-09T19:50:49.752306Z,bun-re,1.0.0-canary,0,0,https://github.com/aphrody-labs/bun,"Reverse engineering primitives — PE/ELF/Mach-O triage, sections + entropy + hash, ASCII/UTF-16 strings, x86-64 disassembly, ASAR/Electron/Go/Adobe/Android/Steam/minidump inspection. Pure Rust, no C b…"
+2026-10-09T19:54:47.537489Z,telarel_common,0.1.0,0,0,https://github.com/telarel/telarel,A shared library for the compiler
+2026-10-09T19:54:54.494265Z,telarel_plugin,0.1.0,0,0,https://github.com/telarel/telarel,A plugin interface for the compiler
+2026-10-09T19:54:59.800918Z,dart2wasmtime,0.1.0,0,0,https://github.com/simolus3/standalone-embedders,Run Dart modules compiled to WebAssembly with wasmtime
+2026-10-09T19:55:14.157718Z,telarel_plugin_transform,0.1.0,0,0,https://github.com/telarel/telarel,A transform plugin for the compiler
+2026-10-09T19:55:20.25014Z,telarel_core,0.1.0,0,0,https://github.com/telarel/telarel,A pipeline orchestrator for the compiler
+2026-10-09T19:55:25.83345Z,telarel,0.1.0,0,0,https://github.com/telarel/telarel,An extensible JavaScript compiler
+2026-10-09T19:55:59.237101Z,formatkit-corpus-test,0.1.0,0,0,https://github.com/JidouGhost-TL/formatkit,JSON specification and golden-digest corpus testing
+2026-10-09T19:56:41.908268Z,rusty_shell,0.1.0,0,0,https://github.com/LostAquilae/RustyShell,Custom Shellcode Template in Rust
+2026-10-09T19:57:00.445302Z,dbt-antlr-runtime,0.1.0,0,0,https://github.com/sdf-labs/dbt-antlr,Dbt fork of ANTLR4 runtime for Rust
+2026-10-09T19:57:10.45462Z,dbt-antlr-g4-parser,0.1.0,0,0,https://github.com/sdf-labs/dbt-antlr,ANTLR v4 grammar parser used internally by dbt-antlr
+2026-10-09T19:58:01.075096Z,dbt-antlr-codegen,0.1.0,0,0,https://github.com/sdf-labs/dbt-antlr,ANTLR v4 grammar compiler and Rust source generator
+2026-10-09T19:58:50.849085Z,yolo-core,1.0.0,0,0,https://github.com/aphrody-labs/bun,Core native engine and system benchmarking logic for YOLO Monorepo
+2026-10-09T19:59:31.368041Z,teamy-facet-dessert,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet-format,TeamDman-maintained fork of facet-dessert: Sweet helpers for facet deserialization - shared between facet-format and facet-dom
+2026-10-09T20:01:00.591031Z,fission-onboarding,0.1.0,0,0,,Guided in-app tours and spotlight onboarding for Fission applications
+2026-10-09T20:06:15.028462Z,saccade-a11y,0.3.0,0,0,https://github.com/Tavrin/saccade,"Offline accessibility pre-checks for images: contrast, legibility, missing glyphs and colour-vision loss"
+2026-10-09T20:09:31.808489Z,teamy-facet-macros,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet,TeamDman fork: Derive macro for the Facet trait - proc macro powered by unsynn for compile-time type introspection
+2026-10-09T20:14:37.508583Z,alef-component-abi,0.107.11,0,0,,Stable C ABI primitives for Alef native components
+2026-10-09T20:14:45.462261Z,alef-component-runtime,0.107.11,0,0,,Verified downloader and dynamic loader for Alef native components
