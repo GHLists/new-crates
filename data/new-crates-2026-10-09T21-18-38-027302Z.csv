@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T20:22:29.519173Z,gws-tasks-tui,0.1.0,0,0,https://github.com/fcoclavero/gtasks-tui,"Terminal UI for Google Tasks, backed by the gws CLI"
+2026-10-09T20:25:58.510214Z,bun-python-host,0.1.0,0,0,https://github.com/aphrody-labs/bun,Lazy shared CPython host and compatibility C ABI for the Bun fork
+2026-10-09T20:29:40.836223Z,leo-markdown,0.8.0,0,0,https://github.com/shakfu/leo-rs,"Markdown, R Markdown and Quarto files as leo-rs outline trees: a CommonMark scanner and exact writer, and the @qmd and @rmd kinds."
+2026-10-09T20:29:47.1185Z,leo-wiki,0.8.0,0,0,https://github.com/shakfu/leo-rs,"The @wiki tree kind for leo-rs: markdown pages linked by [[wikilinks]], checked, renamed and exported to one markdown file."
+2026-10-09T20:29:48.753427Z,leo-plugins,0.8.0,0,0,https://github.com/shakfu/leo-rs,"The plugins a leo-rs front end offers: the leolib kinds and leoapp plugins, chosen by cargo feature and registered at startup."
+2026-10-09T20:34:37.200485Z,adrv,0.1.4,0,0,,"Load Architecture Decision Records, build dependency graphs, and serve the adrv web UI"
+2026-10-09T20:39:07.329004Z,nx-ir,0.7.0,0,0,https://github.com/nx-lang/nx,"The NX IR image format: the constants, the model, the writer and the validating in-place reader of compiled NX modules."
+2026-10-09T20:39:09.150006Z,nx-value,0.7.0,0,0,https://github.com/nx-lang/nx,The value a host passes to and reads from compiled NX: a JSON-like tree with JSON and MessagePack encodings.
+2026-10-09T20:39:12.555611Z,nx-ir-runtime,0.7.0,0,0,https://github.com/nx-lang/nx,"Runs compiled NX: prepares NX IR images, links them, evaluates functions and components, and composes nested component instances into a tree that follows their output."
+2026-10-09T20:41:55.982759Z,aphrody-egui-winit,0.36.2,0,0,https://github.com/aphrody-labs/aphrody,Bindings for using egui with winit
+2026-10-09T20:44:02.820952Z,aphrody-agent-proto,1.0.0-canary,0,0,https://github.com/aphrody-labs/aphrody,"Agent submission/event protocol: the Submission{id,op} (client to agent) and Event{id,msg} (agent to client) queues, the Op and EventMsg enums, and a newline-delimited JSON (NDJSON) wire codec shared…"
+2026-10-09T20:44:20.686423Z,aphrody-http-error,1.0.0,0,0,https://github.com/aphrody-labs/aphrody,"One JSON error envelope ({""error"":{""code"",""message"",""data""}}) shared by Aphrody's own HTTP surfaces."
+2026-10-09T20:48:04.127244Z,formatkit-runtime,0.1.0,0,0,https://github.com/JidouGhost-TL/formatkit,Explicit composition and dispatch for owner-defined format modules
+2026-10-09T20:48:15.738813Z,formatkit,0.1.0,0,0,https://github.com/JidouGhost-TL/formatkit,Platform-neutral binary data toolkit
+2026-10-09T20:49:43.148381Z,jig-dashboard,0.0.0,0,0,https://github.com/bpcakes/jig-sh,Placeholder reserving the name of a jig-sh workspace crate; real releases start at 0.8.0.
+2026-10-09T20:49:48.439841Z,jig-git,0.0.0,0,0,https://github.com/bpcakes/jig-sh,Placeholder reserving the name of a jig-sh workspace crate; real releases start at 0.8.0.
+2026-10-09T20:49:52.631651Z,jig-commands,0.0.0,0,0,https://github.com/bpcakes/jig-sh,Placeholder reserving the name of a jig-sh workspace crate; real releases start at 0.8.0.
+2026-10-09T20:49:56.560741Z,jig-context,0.0.0,0,0,https://github.com/bpcakes/jig-sh,Placeholder reserving the name of a jig-sh workspace crate; real releases start at 0.8.0.
+2026-10-09T20:50:00.722599Z,jig-execution,0.0.0,0,0,https://github.com/bpcakes/jig-sh,Placeholder reserving the name of a jig-sh workspace crate; real releases start at 0.8.0.
+2026-10-09T20:51:18.66587Z,lopatnov-conduit-config-core,2.0.0,0,0,https://github.com/lopatnov/conduit,"Layer-0 config-loading mechanism for conduit's feature-driven workspace (issue #114/#127) — generic over the config payload type, zero schema knowledge"
+2026-10-09T20:51:19.124088Z,lopatnov-conduit-core,2.0.0,0,0,https://github.com/lopatnov/conduit,"Layer-0 traits and primitives for conduit's feature-driven workspace (issue #114/#126) — zero config knowledge, pingora + std only"
+2026-10-09T20:51:19.738291Z,lopatnov-conduit-otlp,2.0.0,0,0,https://github.com/lopatnov/conduit,OpenTelemetry OTLP tracing config + tracer lifecycle for conduit's feature-driven workspace (issue #114/#129)
+2026-10-09T20:51:20.17772Z,lopatnov-conduit-plugin-wasm,2.0.0,0,0,https://github.com/lopatnov/conduit,WASM plugin middleware backend for conduit's feature-driven workspace (issue #114/#141)
+2026-10-09T20:51:20.651734Z,lopatnov-conduit-script-rhai,2.0.0,0,0,https://github.com/lopatnov/conduit,Rhai scripting middleware backend for conduit's feature-driven workspace (issue #114/#141)
+2026-10-09T20:52:32.70792Z,starlab-sym,0.3.1,0,0,https://github.com/codylwalker/sym,"Read the function, not the file: symbol-level code reads for AI coding agents (tree-sitter; CLI, MCP, HTTP)"
+2026-10-09T20:53:26.656917Z,aphrody-subsystem,1.0.0-canary,0,0,https://github.com/aphrody-labs/aphrody,"The Aphrody subsystem contract: MCP tools, skills (parameterised tool sequences), a sub-agent routine and the shared event bus."
+2026-10-09T20:54:10.806486Z,jig-state,0.0.0,0,0,https://github.com/bpcakes/jig-sh,Placeholder reserving the name of a jig-sh workspace crate; real releases start at 0.8.0.
+2026-10-09T21:00:50.387892Z,whizzdb-drivers,0.0.1,0,0,,Multi-database driver and execution engine
+2026-10-09T21:04:29.349177Z,jig-repository,0.0.0,0,0,https://github.com/bpcakes/jig-sh,Placeholder reserving the name of a jig-sh workspace crate; real releases start at 0.8.0.
+2026-10-09T21:05:40.932986Z,lopatnov-conduit-acme,2.0.0,0,0,https://github.com/lopatnov/conduit,ACME (Let's Encrypt) auto-TLS config + HTTP-01 certificate flow for conduit's feature-driven workspace (issue #114/#130)
+2026-10-09T21:05:41.362154Z,lopatnov-conduit-auth-forward,2.0.0,0,0,https://github.com/lopatnov/conduit,Forward-auth (delegate authentication to an external HTTP service) config + guard for conduit's feature-driven workspace (issue #114/#134)
+2026-10-09T21:06:24.651407Z,aphrody-term-caps,1.0.0-canary,0,0,https://github.com/aphrody-labs/aphrody,"Terminal capability detection (environment, DA1, XTVERSION, kitty graphics query) and escape-sequence emission (OSC 8/133/633/7/9;4/52/notifications, Kitty/Sixel/iTerm2 images) for the Aphrody CLI an…"
+2026-10-09T21:09:56.382588Z,user-request,0.11.1,0,0,https://github.com/ciresnave/consent,"Ask a person to approve something, through an interchangeable channel (Windows Hello first), with an approver-chosen grant. See crates/user-request/README.md."
+2026-10-09T21:14:04.410067Z,lopatnov-conduit-auth-jwt,2.0.0,0,0,https://github.com/lopatnov/conduit,JWT bearer-token auth config + guard for conduit's feature-driven workspace (issue #114/#133)
+2026-10-09T21:14:48.902648Z,jig-policy,0.0.0,0,0,https://github.com/bpcakes/jig-sh,Placeholder reserving the name of a jig-sh workspace crate; real releases start at 0.8.0.
