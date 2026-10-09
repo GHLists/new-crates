@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T01:20:49.355605Z,poolster-input-protobuf,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Native protobuf input provider for Poolster
+2026-10-09T01:22:08.482737Z,morflow-core-types,0.4.2,0,0,https://github.com/JiraPit/Morflow,"Shared payloads, tensor types, shapes, and action interfaces for Morflow"
+2026-10-09T01:22:09.296646Z,morflow-parser,0.2.6,0,0,https://github.com/JiraPit/Morflow,Parser for Morflow declarative data processing pipelines
+2026-10-09T01:22:10.157344Z,morflow,0.2.6,0,0,https://github.com/JiraPit/Morflow,Data Processing & Tensor Transformation Engine
+2026-10-09T01:26:50.008359Z,ic-slhdsa,0.2.19,0,0,https://github.com/nervosys/IronCrypto,"SLH-DSA (FIPS 205), the stateless hash-based signature standard, for IronCrypto"
+2026-10-09T01:30:54.503452Z,poolster-inputs,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Convenience bundle of native input providers for Poolster
+2026-10-09T01:32:31.429539Z,pith-digest,0.1.0,0,0,,pith foundation: digest (zero-dep Rust)
+2026-10-09T01:36:44.937211Z,container-distro,0.4.2,0,0,https://github.com/daphnediane/container-distro,`container distro` plugin and `cm`: machine-like distros and a WSL-compatible CLI for Apple container
+2026-10-09T01:42:51.586905Z,pith-math,0.1.0,0,0,https://github.com/pith-hash/pith-math,"FFT, DCT-II, median, 3x3 solve and small linear algebra."
+2026-10-09T01:43:18.330156Z,pith-inflate,0.1.0,0,0,,"DEFLATE and zlib stream decoding (RFC 1951, RFC 1950)"
+2026-10-09T01:43:48.963274Z,pith-flac,0.1.0,0,0,https://github.com/pith-hash/pith-flac,"FLAC subset decoding: STREAMINFO, constant/verbatim/fixed subframes, both Rice methods (RFC 9639)"
+2026-10-09T01:43:57.741988Z,pith-h264,0.1.0,0,0,https://github.com/pith-hash/pith-h264,"H.264/AVC subset decoding: NAL/SPS/PPS, CAVLC+CABAC slices, transforms, in-loop deblocking"
+2026-10-09T01:48:18.352093Z,flactag,0.0.1,0,0,https://git.betalupi.com/Mark/flactag,Streaming FLAC manipulation
+2026-10-09T01:48:19.108816Z,roder-ext-cua,0.1.1,0,0,https://github.com/RoderAI/roder,Linux runner and local macOS desktop computer use through Cua Driver
+2026-10-09T01:49:45.023592Z,pith-unicode,0.1.0,0,0,,Unicode NFC normalisation driven by tables generated from the UCD.
+2026-10-09T01:50:34.663602Z,oxtel,0.0.1,0,0,https://github.com/agentstatelabs/oxtel,"OpenTelemetry-compatible telemetry for Rust, native to `tracing` and `metrics` (under development)"
+2026-10-09T01:52:47.695472Z,magents,0.13.0,0,0,https://github.com/abnegate/magents,"Mates + agents: a shared session bus for Claude Code, Codex, Copilot, Cursor, Gemini, Grok, and OpenCode"
+2026-10-09T01:55:08.785298Z,pith-mp3,0.1.0,0,0,https://github.com/pith-hash/pith-mp3,MP3 decoding for layers I/II/III including the bit reservoir.
+2026-10-09T01:55:37.634257Z,agentstategraph,0.0.1,0,0,https://github.com/agentstatelabs/agentstategraph,AI-native versioned state store for intent-based systems
+2026-10-09T01:55:45.839701Z,ctxone,0.0.1,0,0,https://github.com/agentstatelabs/ctxone,CTXone: the agent system of record
+2026-10-09T01:55:54.512702Z,agentstatedeveloper,0.0.1,0,0,https://github.com/agentstatelabs/AgentStateDeveloper,AgentStateDeveloper: code-level context and audit overlay for agent-authored code
+2026-10-09T01:56:04.642157Z,oxtel-sdk,0.0.1,0,0,https://github.com/agentstatelabs/oxtel,"Core of oxtel: data model, tracing layer, metrics recorder, processors and samplers (under development)"
+2026-10-09T02:01:10.371609Z,rightkit-vad,0.0.2,0,0,https://github.com/bogusyogi/claude,"Product-neutral voice activity detection: Silero scorer, hysteresis/padding/chunking policy, streaming frame carry"
+2026-10-09T02:01:13.327622Z,mulciber-net,0.1.0,0,0,https://github.com/fairhill1/mulciber,Game networking over UDP for Mulciber: dedicated-server connections with reliable and unreliable messages
+2026-10-09T02:01:19.661606Z,oxtel-otlp,0.0.1,0,0,https://github.com/agentstatelabs/oxtel,"OTLP exporters for oxtel: HTTP/protobuf, HTTP/JSON and gRPC (under development)"
+2026-10-09T02:02:07.507902Z,cpu-work-queue,0.1.0,0,0,,A simple CPU work queue with caching and deduplication support.
+2026-10-09T02:04:15.667536Z,rightkit-asr,0.0.2,0,0,https://github.com/bogusyogi/claude,Parakeet ONNX + Whisper (CoreML / whisper.cpp) speech decoding runtime for Right Suite applications
+2026-10-09T02:04:35.667833Z,rightkit-transcript,0.1.0,0,0,https://github.com/bogusyogi/claude,"Product-neutral word-timed transcript contract, cue segmentation, and SRT/VTT/JSON import and export for Right Suite applications"
+2026-10-09T02:05:03.624469Z,rightkit-tts,0.1.0,0,0,https://github.com/bogusyogi/claude,Shared local text-to-speech for Right Suite apps: OS voices (say / SAPI) and a Qwen3-TTS QTS worker client
+2026-10-09T02:08:06.406613Z,pith-mp4,0.1.0,0,0,https://github.com/pith-hash/pith-mp4,pith foundation: mp4 (zero-dep Rust)
+2026-10-09T02:08:53.077555Z,rightkit-ocr,0.1.2,0,0,https://github.com/bogusyogi/claude,"Product-neutral OCR: Apple Vision / Windows.Media.Ocr native backends with per-line geometry, isolated worker, and verified two-stage ONNX fallback"
+2026-10-09T02:09:54.018015Z,resolve-lang,0.2.0,0,0,https://github.com/jamesgober/resolve-lang,"Name resolution over HIR: scopes, namespaces, imports, and a persistent definition and reference index."
+2026-10-09T02:11:59.084593Z,agentstategraph-core,0.0.1,0,0,https://github.com/agentstatelabs/agentstategraph,Core types and algorithms for AgentStateGraph — zero I/O dependencies
+2026-10-09T02:15:49.350412Z,saturnus,0.1.0,0,0,https://github.com/ractive/saturnus,"Headless, clean-room emulator of the HP Saturn calculators (core library)"
+2026-10-09T02:15:57.427076Z,saturnus-objects,0.1.0,0,0,https://github.com/ractive/saturnus,"HP 48/49 RPL objects for saturnus hosts: the exact object decoder and a read-only view of a paused machine's user memory (directories, stack, flags)"
+2026-10-09T02:16:02.818191Z,saturnus-host,0.1.0,0,0,https://github.com/ractive/saturnus,"Host-side pieces shared by the saturnus emulator's front ends: the emulator with its key queue, command-line typing, hidden Kermit transfers, key layouts and skins, ROM identification"
+2026-10-09T02:16:07.945692Z,saturnus-drive,0.1.0,0,0,https://github.com/ractive/saturnus,"Driving a saturnus machine from the host: key scripts, idle waits, scripted boot and server start, ROM loading, screen dumps, and the machine thread of the native hosts"
+2026-10-09T02:16:20.424023Z,saturnus-cli,0.1.0,0,0,https://github.com/ractive/saturnus,"Command-line front end of the saturnus emulator: run ROMs headless, script keys, dump screens, serve the serial port and the control API"
+2026-10-09T02:18:56.647961Z,typeck-lang,0.2.0,0,0,https://github.com/jamesgober/typeck-lang,"Profile-driven type checking over HIR: dynamic, gradual, static, and Hindley-Milner from one checker."
