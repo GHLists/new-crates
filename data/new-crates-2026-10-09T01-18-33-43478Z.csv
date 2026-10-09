@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T00:19:23.868687Z,backend-lang,0.2.0,0,0,https://github.com/jamesgober/backend-lang,"Machine-code backend core: machine IR, target descriptions, ABI and frame layout, parallel moves, and emission through isa-lang."
+2026-10-09T00:20:52.242701Z,poolster-plugin-typescript,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,TypeScript SDK generators and typed package integration for Poolster
+2026-10-09T00:21:58.967685Z,ducy-shuffle,0.1.0,0,0,https://github.com/allenpiscitello/ducy,"A trustless (mental poker) shuffle for ducy: layered, commutative encryption of a deck on Ristretto255."
+2026-10-09T00:26:58.944812Z,fusionspace-hpr-analysis,0.1.0,0,0,https://github.com/nrdptel/fusionspace-eridanus,"Monte Carlo dispersion, sensitivity analysis, optimization and challenge specifications."
+2026-10-09T00:28:43.572596Z,vx-rez-adapter,0.1.0,0,0,https://github.com/vx-org/vx-rez-adapter,Rust adapter integrating vx with rez-next package environments
+2026-10-09T00:30:50.077164Z,poolster-plugin-typescript-cli,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,TypeScript API CLI generator for Poolster
+2026-10-09T00:37:33.259997Z,fusionspace-hpr-forensics,0.1.0,0,0,https://github.com/nrdptel/fusionspace-eridanus,"Flight against simulation: residuals, parameter identification and fault diagnosis."
+2026-10-09T00:40:50.92127Z,poolster,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Multi-language OpenAPI SDK generation profiles
+2026-10-09T00:43:30.558736Z,stepmeld-core,0.1.0,0,0,https://github.com/veolabs-llc/stepmeld,"The stepmeld workflow engine: documents, the pure core, and the Performer and StateStore seams"
+2026-10-09T00:43:35.528734Z,stepmeld-sqlite,0.1.0,0,0,https://github.com/veolabs-llc/stepmeld,A StateStore for stepmeld in one SQLite file
+2026-10-09T00:43:38.296936Z,stepmeld-local,0.1.0,0,0,https://github.com/veolabs-llc/stepmeld,A Performer that runs a program on this machine for each verb
+2026-10-09T00:43:41.211612Z,stepmeld-verb,0.1.0,0,0,https://github.com/veolabs-llc/stepmeld,"The program side of stepmeld's local Performer protocol, for a verb written in Rust: read request.json, write progress.json and outcome.json, keep state for a resume"
+2026-10-09T00:43:46.22579Z,stepmeld,0.1.0,0,0,https://github.com/veolabs-llc/stepmeld,"The stepmeld command: a Library, Workflows and a driver over one SQLite file and this machine's programs"
+2026-10-09T00:44:35.378139Z,gemy,0.1.0,0,0,https://codeberg.org/brettchalupa/gemy,Convert gemtext to other formats via CLI and library
+2026-10-09T00:44:35.976644Z,zplkit,0.0.0,0,0,https://github.com/codyps/zpl,Placeholder for the ZPL toolkit from codyps/zpl
+2026-10-09T00:48:15.35901Z,fusionspace-hpr,0.1.0,0,0,https://github.com/nrdptel/fusionspace-eridanus,"The library facade of FusionSpace HPR · Sim: re-exports of the workspace crates and a builder API for environments, motors, rockets and flights."
+2026-10-09T00:50:37.038684Z,unity-catalog-delta-rest-client,0.1.0,0,0,https://github.com/delta-io/delta-kernel-rs,REST/HTTP client for the Unity Catalog Delta Tables API.
+2026-10-09T00:50:48.168055Z,poolster-input-arazzo,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Native arazzo input provider for Poolster
+2026-10-09T00:50:54.493904Z,lane-state,0.11.1,0,0,https://github.com/ciresnave/OverMind,"Reads what a Claude Code lane wrote about itself (its state file), and the pure rules for finding a lane's claude process, launch flags and home directory. Shared by lane-restart, with-secret and age…"
+2026-10-09T00:53:19.796471Z,engenho-csi,0.53.130,0,0,https://github.com/pleme-io/engenho,"Container Storage Interface client for engenho. engenho implements the RUNTIME side of CSI — plugin registration, the node publish/stage path and the controller provision/attach path — so a vendor's…"
+2026-10-09T00:53:28.281059Z,engenho-cni,0.53.130,0,0,https://github.com/pleme-io/engenho,"Container Network Interface runtime for engenho. CNI is a file + exec + JSON contract, not an RPC one; engenho implements the runtime half so containernetworking/plugins, Calico and Cilium work again…"
+2026-10-09T00:53:37.895632Z,engenho-etcd,0.53.130,0,0,https://github.com/pleme-io/engenho,"etcd v3 wire façade for engenho. engenho does not run etcd and does not intend to — but the etcd INTERFACE is load-bearing even where the technology is not: etcdctl, backup/DR, Velero and every --etc…"
+2026-10-09T00:56:08.469478Z,hyprforge-viewer,0.1.9,0,0,https://github.com/hyprforge-suite/hyprforge,"A playing video and a turnable 3D model as panes of an iced window, shared by Hyprforge's media viewer and its file manager's Quick Look."
+2026-10-09T00:59:11.932228Z,fusionspace-hpr-cli,0.1.0,0,0,https://github.com/nrdptel/fusionspace-eridanus,The `hpr` command-line tool.
+2026-10-09T01:00:46.009543Z,poolster-input-asyncapi,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Native asyncapi input provider for Poolster
+2026-10-09T01:06:04.93649Z,persistant,0.4.1,0,0,https://github.com/ciresnave/PersistAnt,"A thin persistence layer over Apache OpenDAL for blobs and records by key: declared capabilities, atomic replace, typed records."
+2026-10-09T01:10:52.331582Z,poolster-input-capnproto,0.5.0-alpha.1,0,0,https://github.com/rlvtapp/poolster,Native capnproto input provider for Poolster
+2026-10-09T01:12:47.21066Z,ccdeps,0.1.0,0,0,https://github.com/world-build/ccdeps,High-performance C preprocessor dependency scanner
+2026-10-09T01:14:58.947507Z,delta-kernel-unity-catalog,0.1.0,0,0,https://github.com/delta-io/delta-kernel-rs,Unity Catalog integration for delta_kernel.
+2026-10-09T01:16:06.120189Z,oxivideo,0.0.0,0,0,,"Zero-copy GPU decoders, encoders, muxers, demuxers, a player, and platform interop. Placeholder release; the crate is under active development."
+2026-10-09T01:16:10.969581Z,oxiraw,0.0.0,0,0,,Pure-Rust camera RAW library: decode to sensor data and develop it on the GPU. Placeholder release; the crate is under active development.
+2026-10-09T01:16:15.35793Z,pixelgraph,0.0.0,0,0,,Zero-copy GPU texture processing engine. Placeholder release; the crate is under active development.
+2026-10-09T01:16:18.565911Z,wgpu-interop,0.0.0,0,0,,Zero-copy interop between external GPU resources and wgpu::Texture / wgpu::Buffer. Placeholder release; the crate is under active development.
+2026-10-09T01:17:48.598612Z,cogrs-eg,0.2.0,0,0,https://github.com/earth-genome/cogrs,Tools for creating COG-based tilers (Earth Genome fork of cogrs)
