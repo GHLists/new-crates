@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T21:22:42.953129Z,bevy_plume,0.1.0,0,0,https://github.com/gagnus/bevy_plume,"Plume: bevy_ui controls with an immediate-mode front end, for game debug and editor UI"
+2026-10-09T21:24:05.494509Z,jig-bootstrap,0.0.0,0,0,https://github.com/bpcakes/jig-sh,Placeholder reserving the name of a jig-sh workspace crate; real releases start at 0.8.0.
+2026-10-09T21:24:24.740121Z,lopatnov-conduit-cache,2.0.0,0,0,https://github.com/lopatnov/conduit,HTTP response caching (config + memory/disk/redis backends) for conduit's feature-driven workspace (issue #114/#135)
+2026-10-09T21:24:36.035952Z,agentstatedeveloper-csharp,1.4.8,0,0,https://github.com/agentstatelabs/AgentStateDeveloper,C# language adapter for AgentStateDeveloper (tree-sitter-c-sharp)
+2026-10-09T21:24:45.403143Z,agentstatedeveloper-go,1.4.8,0,0,https://github.com/agentstatelabs/AgentStateDeveloper,Go language adapter for AgentStateDeveloper (tree-sitter-go)
+2026-10-09T21:24:59.990933Z,agentstatedeveloper-java,1.4.8,0,0,https://github.com/agentstatelabs/AgentStateDeveloper,Java language adapter for AgentStateDeveloper (tree-sitter-java)
+2026-10-09T21:25:15.072821Z,agentstatedeveloper-kotlin,1.4.8,0,0,https://github.com/agentstatelabs/AgentStateDeveloper,Kotlin language adapter for AgentStateDeveloper (tree-sitter-kotlin)
+2026-10-09T21:25:29.696002Z,agentstatedeveloper-python,1.4.8,0,0,https://github.com/agentstatelabs/AgentStateDeveloper,Python language adapter for AgentStateDeveloper (tree-sitter-python)
+2026-10-09T21:27:08.229571Z,mcp-obsidian,0.1.0,0,0,https://github.com/moreno-omar/mcp_obsidian,"Deterministic, tag- and link-aware retrieval over an Obsidian markdown vault, exposed to LLMs and MCP hosts over stdio or Streamable HTTP."
+2026-10-09T21:29:18.705086Z,fscore,1.0.0,0,0,,"Core size-computation, formatting, and disk-usage logic for the fs CLI"
+2026-10-09T21:31:03.434862Z,agentstatedeveloper-ruby,1.4.8,0,0,https://github.com/agentstatelabs/AgentStateDeveloper,Ruby language adapter for AgentStateDeveloper (tree-sitter-ruby)
+2026-10-09T21:34:06.727528Z,lopatnov-conduit-compression,2.0.0,0,0,https://github.com/lopatnov/conduit,Response/static-file compression config + negotiation logic for conduit's feature-driven workspace (issue #114/#138)
+2026-10-09T21:34:23.144883Z,jig-agents,0.0.0,0,0,https://github.com/bpcakes/jig-sh,Placeholder reserving the name of a jig-sh workspace crate; real releases start at 0.8.0.
+2026-10-09T21:34:45.155329Z,renamest,0.1.0,0,0,https://github.com/mevanlc/renamest,Cross-platform file renaming without overwriting existing destinations.
+2026-10-09T21:35:09.85241Z,regexrs,0.1.0,0,0,https://github.com/notes-supply/regexrs,A pure-Rust rich regular expression engine with portable matching and optional native acceleration
+2026-10-09T21:37:18.191961Z,tree-sitter-smt2,0.1.0,0,0,https://github.com/langston-barrett/tree-sitter-smt2,SMT-LIB 2 grammar for tree-sitter
+2026-10-09T21:39:25.347413Z,mulciber-model,0.1.0,0,0,https://github.com/fairhill1/mulciber,"Model loading for Mulciber games: static glTF 2.0 meshes and their materials, transforms baked, tangents generated"
+2026-10-09T21:41:43.429045Z,agentstatedeveloper-rust,1.4.8,0,0,https://github.com/agentstatelabs/AgentStateDeveloper,Rust language adapter for AgentStateDeveloper (tree-sitter-rust)
+2026-10-09T21:44:08.409162Z,free-agent,0.1.0,0,0,https://github.com/wpm/FreeAgent,"Episodes in which actors talk to each other by statement, request, and reply"
+2026-10-09T21:44:08.578685Z,lopatnov-conduit-cors,2.0.0,0,0,https://github.com/lopatnov/conduit,CORS config + guard for conduit's feature-driven workspace (issue #114/#136)
+2026-10-09T21:44:41.629092Z,jig-loops,0.0.0,0,0,https://github.com/bpcakes/jig-sh,Placeholder reserving the name of a jig-sh workspace crate; real releases start at 0.8.0.
+2026-10-09T21:45:23.433474Z,kdx-cli,0.0.0,0,0,https://github.com/scottanderson/kdx,"Placeholder for the kdx project, a Rust implementation of the Haxial KDX protocol; not yet usable"
+2026-10-09T21:46:14.515497Z,mediaio-timeline,0.1.0,0,0,https://github.com/findit-studio/mediadecode,"The editing timeline as data: tracks, clips at explicit record positions, gain and fades, dissolves; validation that refuses by name, a diff, and OpenTimelineIO export. Pure Rust, no_std + alloc, no…"
+2026-10-09T21:46:51.844204Z,orasust,0.1.3,0,0,https://github.com/zingolabs/orasust,"The subset of the oras command line that the zingolib Binding Layer publication needs: push, resolve, manifest fetch and version"
+2026-10-09T21:52:31.976873Z,agentstatedeveloper-swift,1.4.8,0,0,https://github.com/agentstatelabs/AgentStateDeveloper,Swift language adapter for AgentStateDeveloper (tree-sitter-swift)
+2026-10-09T21:54:02.620384Z,jig-agents-tui,0.0.0,0,0,https://github.com/bpcakes/jig-sh,Placeholder reserving the name of a jig-sh workspace crate; real releases start at 0.8.0.
+2026-10-09T21:54:09.402622Z,lopatnov-conduit-faults,2.0.0,0,0,https://github.com/lopatnov/conduit,Fault-injection (chaos testing) config + guard for conduit's feature-driven workspace (issue #114/#132)
+2026-10-09T22:03:02.720028Z,agentstatedeveloper-typescript,1.4.8,0,0,https://github.com/agentstatelabs/AgentStateDeveloper,TypeScript / JavaScript language adapter for AgentStateDeveloper
+2026-10-09T22:04:11.580777Z,lopatnov-conduit-ipfilter,2.0.0,0,0,https://github.com/lopatnov/conduit,IP allow/deny filtering config + guard for conduit's feature-driven workspace (issue #114/#136)
+2026-10-09T22:06:49.7957Z,tectonic-quinn-udp,0.6.3,0,0,https://github.com/quinn-rs/quinn,UDP sockets with ECN information for the QUIC transport protocol
+2026-10-09T22:07:28.934754Z,tectonic-quinn-proto,0.12.0,0,0,https://github.com/quinn-rs/quinn,State machine for the QUIC transport protocol
+2026-10-09T22:08:22.268495Z,tectonic-quinn,0.12.0,0,0,https://github.com/quinn-rs/quinn,Versatile QUIC transport protocol implementation
+2026-10-09T22:09:12.125835Z,anilib,26.0.0,0,0,https://github.com/Censera/ani,Astry's Narrower Inkwell Library
+2026-10-09T22:13:39.402785Z,agentstatedeveloper-adapters,1.4.8,0,0,https://github.com/agentstatelabs/AgentStateDeveloper,Default language adapter bundle for AgentStateDeveloper
+2026-10-09T22:14:08.414547Z,lopatnov-conduit-k8s,2.0.0,0,0,https://github.com/lopatnov/conduit,"Kubernetes ConduitSite CRD watching for conduit's feature-driven workspace (issue #114/#249) — generic over the config payload type, zero schema knowledge"
+2026-10-09T22:19:13.422392Z,yet-another-make,0.0.1,0,0,https://github.com/MarkBoisvert/yet-another-make,A Cargo-style build tool for modern C++ (C++20 modules first). Installs the `yam` binary.
+2026-10-09T22:19:29.585966Z,bevy_action_map_macros,0.1.0,0,0,https://github.com/viridia/bevy_action_map,Derive macros for bevy_action_map. Re-exported by that crate; do not depend on it directly.
+2026-10-09T22:19:31.674036Z,bevy_action_map,0.1.0,0,0,https://github.com/viridia/bevy_action_map,"Input action mapping for Bevy: bindings, contexts, devices, and binding presentation"
+2026-10-09T22:19:33.911901Z,bevy_action_map_ui,0.1.0,0,0,https://github.com/viridia/bevy_action_map,UI for bevy_action_map: drawing input prompts
+2026-10-09T22:20:13.788259Z,bramley,0.0.1,0,0,https://github.com/natevick/bramley,"Bramley: a small, fast, native desktop player for Apple Music (Rust + egui, no browser engine). Early development; see the repository."
