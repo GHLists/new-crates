@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T08:19:55.993297Z,second-brain-ondemand,0.1.0,0,0,https://github.com/a-miyashita/second-brain,"On-demand sources without sync: local.file and web.page (internal crate of second-brain, no API stability)"
+2026-10-09T08:20:43.086423Z,felrax-tauri-plugin,0.1.0-beta1,0,0,https://github.com/Somepub/felrax,Tauri plugin for the Felrax desktop SDK
+2026-10-09T08:22:56.533171Z,fastanim-script,0.1.0,0,0,https://github.com/simonhdickson/fastanim,Rhai scenes for fastanim
+2026-10-09T08:30:35.504553Z,second-brain-setup,0.1.0,0,0,https://github.com/a-miyashita/second-brain,"Home initialization, scheduler registration, skill install and environment setup for second-brain (internal crate of second-brain, no API stability)"
+2026-10-09T08:41:17.043523Z,second-brain-slack,0.1.0,0,0,https://github.com/a-miyashita/second-brain,"Slack source for second-brain (slack.thread, slack.day) (internal crate of second-brain, no API stability)"
+2026-10-09T08:43:04.106559Z,sharpnes,0.1.1,0,0,https://github.com/crows7781-glitch/shortneer.git,The sharpnes project is a learn.
+2026-10-09T08:43:08.602804Z,hidane,0.0.1,0,0,https://github.com/hidane-dev/hidane,hidane (火種) — a Firestore emulator without Java. Pre-release placeholder.
+2026-10-09T08:47:09.609154Z,wrfm-cli,0.1.0,0,0,https://github.com/lenitain/wireforge,Command-line tool for .wrfm 3D wireframe models over streams
+2026-10-09T08:48:46.48088Z,fastanim-cli,0.1.0,0,0,https://github.com/simonhdickson/fastanim,The `fastanim` command-line tool
+2026-10-09T08:52:13.595263Z,second-brain,0.1.0,0,0,https://github.com/a-miyashita/second-brain,second-brain: a personal knowledge base for AI agents
+2026-10-09T08:53:19.171946Z,tc_bigint,0.1.0,0,0,https://github.com/TomiCheng/tc_math,"Fixed-width, padded and arbitrary-precision big integers for cryptography, constant time in the fixed-width and padded forms."
+2026-10-09T08:53:22.500987Z,tc_modular,0.1.0,0,0,https://github.com/TomiCheng/tc_math,"Modular arithmetic and Montgomery forms for cryptography over the integers of tc_bigint, constant time over the fixed-width and padded ones."
+2026-10-09T08:53:24.905465Z,tc_prime,0.1.0,0,0,https://github.com/TomiCheng/tc_math,"Primality testing and prime generation for cryptography over the integers of tc_bigint: trial division, Miller-Rabin and Shawe-Taylor provable primes."
+2026-10-09T09:01:21.521451Z,pith-image,0.1.0,0,0,https://github.com/pith-hash/pith-image,"pith image lane: raster buffers, BMP decode, tier-3 features, pHash (zero-dep Rust)"
+2026-10-09T09:01:54.597591Z,pith-png,0.1.0,0,0,https://github.com/pith-hash/pith-png,"PNG decoding for 8/16-bit colour images, including Adam7 interlacing (zero-dep Rust)"
+2026-10-09T09:02:30.438065Z,pith-jpeg,0.1.0,0,0,https://github.com/pith-hash/pith-jpeg,"pith jpeg lane: baseline and progressive JPEG decoding, byte-exact with libjpeg islow (zero-dep Rust)"
+2026-10-09T09:07:41.04453Z,pith-audio,0.1.0,0,0,https://github.com/pith-hash/pith-audio,"Audio fingerprinting: RIFF/WAVE and FLAC decode, Shazam-style spectral-peak signatures and delta-t histogram matching"
+2026-10-09T09:09:28.261332Z,kms-sdk,0.0.1,0,0,https://github.com/TencentBlueKing/bk-kms-sdk,BlueKing Key Management Service (BK-KMS) envelope decryption SDK
+2026-10-09T09:14:49.908914Z,voicepipe,0.1.0,0,0,https://github.com/TheDancingDeveloper-org/voicepipe,"A pipeline for live, turn-taking voice calls with a language model: VAD, endpointing, barge-in, sentence-streamed speech"
+2026-10-09T09:15:45.441909Z,swc_next_simd,0.0.0,0,0,https://github.com/swc-project/swc-next,Reserved crate name for SWC Next portable SIMD utilities
+2026-10-09T09:15:48.698928Z,swc_next_isolated_declarations,0.0.0,0,0,https://github.com/swc-project/swc-next,Reserved crate name for SWC Next TypeScript isolated declaration generation

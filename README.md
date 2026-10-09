@@ -8,43 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 08:18 UTC
+## Latest list — 2026-10-09 09:19 UTC
 
-New crates published between 2026-10-09 07:20 UTC and 2026-10-09 08:18 UTC.
+New crates published between 2026-10-09 08:18 UTC and 2026-10-09 09:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-09T08-18-41-342462Z.csv)
+[Full CSV](data/new-crates-2026-10-09T09-19-30-101975Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-09 07:24:34 | [zenith-sync](https://crates.io/crates/zenith-sync) | 0.1.0 | 0 | A Git-inspired, read-only sync tool that mirrors network shares to local system… |
-| 2026-10-09 07:26:48 | [prux](https://crates.io/crates/prux) | 1.0.2 | 0 | A minimal terminal coding agent: TUI, built-in coding tools, and an extension s… |
-| 2026-10-09 07:28:52 | [exepack](https://crates.io/crates/exepack) | 0.5.0 | 0 | Embed items into an executable's own container, one per item, with optional com… |
-| 2026-10-09 07:29:35 | [vaultd](https://crates.io/crates/vaultd) | 0.3.0 | 0 | Encrypted secrets for local development that work like `.env` |
-| 2026-10-09 07:31:33 | [museum](https://crates.io/crates/museum) | 0.4.0 | 0 | Fetch and publish per-target executables from a registry, with semver resolutio… |
-| 2026-10-09 07:31:45 | [museum-cli](https://crates.io/crates/museum-cli) | 0.4.0 | 0 | Start a museum registry and publish executables into it |
-| 2026-10-09 07:32:03 | [refix-fix44](https://crates.io/crates/refix-fix44) | 0.1.0 | 0 | Typed FIX 4.4 messages for the ReFIX engine |
-| 2026-10-09 07:34:41 | [bkfwob-core](https://crates.io/crates/bkfwob-core) | 0.1.0 | 0 | Broker-neutral order types, guardrails, journal and reconciliation for the bkfw… |
-| 2026-10-09 07:35:09 | [bkfwob](https://crates.io/crates/bkfwob) | 0.1.0 | 0 | Broker integration layer for the fwob toolchain: accounts, orders and guardrail… |
-| 2026-10-09 07:35:46 | [ed-mcp](https://crates.io/crates/ed-mcp) | 1.1.0 | 0 | MCP for Onde agents: server configuration, tool namespacing, timeouts, progress… |
-| 2026-10-09 07:36:01 | [ed-acp](https://crates.io/crates/ed-acp) | 1.1.0 | 0 | Agent Client Protocol (ACP) v1 server for Onde agents: sessions, auth, the turn… |
-| 2026-10-09 07:50:16 | [drukal](https://crates.io/crates/drukal) | 0.7.3 | 0 | Checked coding changes, dependency reviews, and local-first agent workflows |
-| 2026-10-09 07:52:35 | [ek-core](https://crates.io/crates/ek-core) | 0.1.0 | 0 | Business-agnostic plugin host and actor-over-bus runtime on top of ek-event: si… |
-| 2026-10-09 07:57:47 | [text-stats](https://crates.io/crates/text-stats) | 0.1.0 | 0 | Word and character counts for a lot of languages, with proper segmentation for… |
-| 2026-10-09 07:58:27 | [second-brain-kernel](https://crates.io/crates/second-brain-kernel) | 0.1.0 | 0 | Domain types and traits for second-brain (no I/O) (internal crate of second-bra… |
-| 2026-10-09 07:58:33 | [second-brain-extract](https://crates.io/crates/second-brain-extract) | 0.1.0 | 0 | Pure text extraction (text, CSV, HTML, docx, pptx, xlsx, PDF) to Markdown (inte… |
-| 2026-10-09 07:59:24 | [second-brain-llm](https://crates.io/crates/second-brain-llm) | 0.1.0 | 0 | Summarizers for second-brain: LLM APIs, LLM CLIs and local OpenAI-compatible se… |
-| 2026-10-09 07:59:29 | [second-brain-store](https://crates.io/crates/second-brain-store) | 0.1.0 | 0 | SQLite catalog, raw file store, secrets and the sqlite-fts search backend (inte… |
-| 2026-10-09 07:59:36 | [second-brain-pipeline](https://crates.io/crates/second-brain-pipeline) | 0.1.0 | 0 | Ingestion and summarization pipeline for second-brain (internal crate of second… |
-| 2026-10-09 08:00:47 | [wrfm-raster](https://crates.io/crates/wrfm-raster) | 0.1.0 | 0 | Shared camera projection and braille rasterization for wireforge and wrfm-cli |
-| 2026-10-09 08:07:11 | [nlr-domain](https://crates.io/crates/nlr-domain) | 1.4.0 | 0 | HMMER-based protein domain scanning and NLR architecture classification for Fas… |
-| 2026-10-09 08:08:17 | [abnegate-payments](https://crates.io/crates/abnegate-payments) | 0.1.0 | 0 | Stripe Checkout, Customer Portal and webhook verification behind a host-agnosti… |
-| 2026-10-09 08:09:17 | [second-brain-google](https://crates.io/crates/second-brain-google) | 0.1.0 | 0 | Google OAuth (PKCE loopback), Drive/Calendar clients and the google.meet source… |
-| 2026-10-09 08:15:02 | [rusty-tokenizer](https://crates.io/crates/rusty-tokenizer) | 0.1.0 | 0 | A Rust implementation of word, character, and Byte Pair Encoding (BPE) tokenize… |
-| 2026-10-09 08:17:06 | [fastanim-diff](https://crates.io/crates/fastanim-diff) | 0.1.0 | 0 | Generic sequence diffing for fastanim: Myers (greedy + linear space), patience,… |
-| 2026-10-09 08:17:08 | [fastanim-core](https://crates.io/crates/fastanim-core) | 0.1.0 | 0 | fastanim core model: geometry, mobjects, animations and timeline |
-| 2026-10-09 08:17:11 | [fastanim-text](https://crates.io/crates/fastanim-text) | 0.1.0 | 0 | fastanim text, math and code layout into diffable tokens |
-| 2026-10-09 08:17:13 | [fastanim](https://crates.io/crates/fastanim) | 0.1.0 | 0 | Programmatic mathematical animation with diff-driven transforms |
-| 2026-10-09 08:17:14 | [fastanim-bevy](https://crates.io/crates/fastanim-bevy) | 0.1.0 | 0 | Bevy plugin for fastanim: timeline sync, vector rendering, preview and export |
+| 2026-10-09 08:19:55 | [second-brain-ondemand](https://crates.io/crates/second-brain-ondemand) | 0.1.0 | 0 | On-demand sources without sync: local.file and web.page (internal crate of seco… |
+| 2026-10-09 08:20:43 | [felrax-tauri-plugin](https://crates.io/crates/felrax-tauri-plugin) | 0.1.0-beta1 | 0 | Tauri plugin for the Felrax desktop SDK |
+| 2026-10-09 08:22:56 | [fastanim-script](https://crates.io/crates/fastanim-script) | 0.1.0 | 0 | Rhai scenes for fastanim |
+| 2026-10-09 08:30:35 | [second-brain-setup](https://crates.io/crates/second-brain-setup) | 0.1.0 | 0 | Home initialization, scheduler registration, skill install and environment setu… |
+| 2026-10-09 08:41:17 | [second-brain-slack](https://crates.io/crates/second-brain-slack) | 0.1.0 | 0 | Slack source for second-brain (slack.thread, slack.day) (internal crate of seco… |
+| 2026-10-09 08:43:04 | [sharpnes](https://crates.io/crates/sharpnes) | 0.1.1 | 0 | The sharpnes project is a learn. |
+| 2026-10-09 08:43:08 | [hidane](https://crates.io/crates/hidane) | 0.0.1 | 0 | hidane (火種) — a Firestore emulator without Java. Pre-release placeholder. |
+| 2026-10-09 08:47:09 | [wrfm-cli](https://crates.io/crates/wrfm-cli) | 0.1.0 | 0 | Command-line tool for .wrfm 3D wireframe models over streams |
+| 2026-10-09 08:48:46 | [fastanim-cli](https://crates.io/crates/fastanim-cli) | 0.1.0 | 0 | The `fastanim` command-line tool |
+| 2026-10-09 08:52:13 | [second-brain](https://crates.io/crates/second-brain) | 0.1.0 | 0 | second-brain: a personal knowledge base for AI agents |
+| 2026-10-09 08:53:19 | [tc_bigint](https://crates.io/crates/tc_bigint) | 0.1.0 | 0 | Fixed-width, padded and arbitrary-precision big integers for cryptography, cons… |
+| 2026-10-09 08:53:22 | [tc_modular](https://crates.io/crates/tc_modular) | 0.1.0 | 0 | Modular arithmetic and Montgomery forms for cryptography over the integers of t… |
+| 2026-10-09 08:53:24 | [tc_prime](https://crates.io/crates/tc_prime) | 0.1.0 | 0 | Primality testing and prime generation for cryptography over the integers of tc… |
+| 2026-10-09 09:01:21 | [pith-image](https://crates.io/crates/pith-image) | 0.1.0 | 0 | pith image lane: raster buffers, BMP decode, tier-3 features, pHash (zero-dep R… |
+| 2026-10-09 09:01:54 | [pith-png](https://crates.io/crates/pith-png) | 0.1.0 | 0 | PNG decoding for 8/16-bit colour images, including Adam7 interlacing (zero-dep… |
+| 2026-10-09 09:02:30 | [pith-jpeg](https://crates.io/crates/pith-jpeg) | 0.1.0 | 0 | pith jpeg lane: baseline and progressive JPEG decoding, byte-exact with libjpeg… |
+| 2026-10-09 09:07:41 | [pith-audio](https://crates.io/crates/pith-audio) | 0.1.0 | 0 | Audio fingerprinting: RIFF/WAVE and FLAC decode, Shazam-style spectral-peak sig… |
+| 2026-10-09 09:09:28 | [kms-sdk](https://crates.io/crates/kms-sdk) | 0.0.1 | 0 | BlueKing Key Management Service (BK-KMS) envelope decryption SDK |
+| 2026-10-09 09:14:49 | [voicepipe](https://crates.io/crates/voicepipe) | 0.1.0 | 0 | A pipeline for live, turn-taking voice calls with a language model: VAD, endpoi… |
+| 2026-10-09 09:15:45 | [swc_next_simd](https://crates.io/crates/swc_next_simd) | 0.0.0 | 0 | Reserved crate name for SWC Next portable SIMD utilities |
+| 2026-10-09 09:15:48 | [swc_next_isolated_declarations](https://crates.io/crates/swc_next_isolated_declarations) | 0.0.0 | 0 | Reserved crate name for SWC Next TypeScript isolated declaration generation |
 
 ## Data source
 
