@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T14:19:52.423727Z,kite-rust-axum-template,0.1.0,0,0,https://github.com/qiaopengjun5162/kite-rust-axum-template,Kite x402 service template (Rust + Axum) — wraps any HTTP API behind x402 payments on the Kite chain
+2026-10-09T14:25:10.137299Z,deltamesh,0.1.0,0,0,https://github.com/me0w2en/deltamesh,"Incremental block meshing of streamed point-cloud segments, with optional GPU acceleration"
+2026-10-09T14:29:13.099695Z,xirang-kernel,0.1.0,0,0,https://github.com/Nichtigott/xirang,"Registry, transaction, contracts, grafts, and diagnostics for XiRang"
+2026-10-09T14:29:31.772454Z,xirang-macro,0.1.0,0,0,https://github.com/Nichtigott/xirang,Face field normalisation and diagnostics for XiRang's authoring macros
+2026-10-09T14:29:58.837415Z,xirang-toolchain,0.1.0,0,0,https://github.com/Nichtigott/xirang,The seven thin execution surfaces of XiRang in one crate
+2026-10-09T14:33:11.81171Z,kepubverto,0.1.0,0,0,https://github.com/veripublica/kepubverto,"Converts EPUB to KEPUB for Kobo e-readers, in pure Rust, without making the book worse."
+2026-10-09T14:41:35.667098Z,meerkat-sandbox,0.8.52,0,0,https://github.com/lukacf/meerkat,OS enforcement of Meerkat process confinement requirements
+2026-10-09T14:41:38.340082Z,meerkat-authorization-contracts,0.8.52,0,0,https://github.com/lukacf/meerkat,Portable host-trusted authorization contracts
+2026-10-09T14:41:57.816857Z,meerkat-authorization,0.8.52,0,0,https://github.com/lukacf/meerkat,Process-local generated grant authority for Meerkat
+2026-10-09T14:42:36.47589Z,postvak,0.3.0,0,0,https://github.com/postvak-app/postvak,"A fast, simple mail client with automatic mailbox rules"
+2026-10-09T14:42:49.385827Z,overflight,0.1.2,0,0,https://github.com/ImanolGo/overflight,"See the aircraft flying above you, as a live sky view in your terminal."
+2026-10-09T14:47:11.392138Z,rok-ui-bloc,0.8.0,0,0,https://github.com/ateeq1999/rok-ui,"The BLoC primitives behind rok_ui::bloc: blocs, cubits, emitters and concurrency modes, without GPUI."
+2026-10-09T14:48:45.494265Z,u3d,0.1.0,0,0,https://github.com/ralovich/u3d,"Rust crate implementation of the U3D (Universal 3D, ECMA-363) file format, most commonly found embedded in 3D PDFs."
+2026-10-09T14:50:09.038416Z,mysql-cdc-rs,0.0.4,0,0,https://github.com/tiyee/mysql-cdc-rs,Unified MySQL CDC and replication API over mysql-canal and mysql-replication
+2026-10-09T14:51:53.273245Z,cargo-pretty,0.3.1,0,0,https://github.com/romancitodev/cargo-pretty,"A cargo wrapper with a live, animated status view for build, run and test"
+2026-10-09T14:52:37.791314Z,prc,0.2.0,0,0,https://github.com/ralovich/prc-rs,"Rust crate implementation of the PRC (Product Representation Compact) file format, most commonly found embedded in 3D PDFs."
+2026-10-09T14:58:02.838263Z,rok-db-codegen,0.4.0,0,0,https://github.com/ateeq1999/rok-db,"Generate a rok-db crate (models, typed queries and migrations) from .sql files"
+2026-10-09T14:58:35.111697Z,sponsord-api,0.0.2,0,0,https://github.com/decdn/sponsord,"Wire types, error codes and HTTP clients for the sponsord daemon and onramp"
+2026-10-09T14:58:38.117086Z,decdn-sponsored,0.0.2,0,0,https://github.com/decdn/sponsord,Sponsored decdn CLI: gets a capability through a sponsord onramp for each download and hands the pull to decdn
+2026-10-09T14:58:39.159472Z,sponsord-core,0.0.2,0,0,https://github.com/decdn/sponsord,"Library core of sponsord, deCDN's sponsored on-ramp: capability signing and pool top-ups, for embedding"
+2026-10-09T14:58:40.404963Z,sponsord-onramp,0.0.2,0,0,https://github.com/decdn/sponsord,"The public onramp in front of sponsord: a pluggable gate, the decdn installers and the CLI hand-off"
+2026-10-09T14:58:43.821057Z,sponsord,0.0.2,0,0,https://github.com/decdn/sponsord,"deCDN sponsorship daemon: signs capped, expiring capabilities against a PaymentPool and keeps it topped up"
+2026-10-09T14:59:42.213746Z,oneagent,0.3.8,0,0,https://github.com/lihuu/oneagent,"One-shot AI agent CLI in Rust: a single binary that drives your shell, pipes diffs and logs into any OpenAI-compatible model, and exits."
+2026-10-09T14:59:44.187223Z,z3-toolkit-derive,0.1.0,0,0,https://github.com/asobininn/z3-toolkit,Procedural macros for z3-toolkit.
+2026-10-09T14:59:46.574613Z,z3-toolkit,0.1.0,0,0,https://github.com/asobininn/z3-toolkit,An ergonomic constraint DSL for the [`z3`] crate.
+2026-10-09T15:00:25.619066Z,taktus,0.1.0,0,0,https://github.com/shakibbinkabir/taktus,"The tempo of music and where its beats fall, from the sound itself, for almost nothing. No dependency."
+2026-10-09T15:01:04.466586Z,keri-http-auth,0.1.0,0,0,https://github.com/AABelkhiria/keri-http-auth,KERI HTTP message signatures and request authentication
+2026-10-09T15:03:03.371344Z,bevy_skeleton_modifiers,0.1.0,0,0,https://github.com/jmwmulle/bevy_skeleton_modifiers,Godot-derived spring bones and IK for Bevy transform hierarchies
+2026-10-09T15:11:02.919401Z,openbim-ifc-cli,0.1.0,0,0,https://github.com/openbimrs/ifc,"The openbim-ifc command: validate, convert and inspect IFC files (STEP and ifcXML) from a shell or CI."
+2026-10-09T15:11:35.644214Z,datadeft-magic-link-axum,0.4.0,0,0,https://github.com/DataDeft/datadeft-auth,Optional Axum HTTP integration for datadeft-magic-link-service.
+2026-10-09T15:11:47.787566Z,valid8r_derive,0.2.0,0,0,https://github.com/musajingo/valid8r,Proc macro that provides `#[derive(Validate)]` for the `valid8r` crate.
+2026-10-09T15:11:51.057504Z,valid8r,0.2.0,0,0,https://github.com/musajingo/valid8r,Struct validation via #[derive(Validate)]. A fork of the `validator` crate.
+2026-10-09T15:19:23.880435Z,dagnabbit,0.0.0,0,0,,DAGnabbit is a crate and application for building and orchestrating workflows
