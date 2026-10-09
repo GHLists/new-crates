@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T05:21:07.505129Z,agentstategraph-wasm,0.0.1,0,0,https://github.com/agentstatelabs/agentstategraph,"WASM bindings for AgentStateGraph — browser, Deno, Node"
+2026-10-09T05:24:31.452611Z,mdroots-syntax,0.1.0,0,0,https://github.com/martintrojer/mdroots,Parse one markdown or org document into structure and liberal link candidates.
+2026-10-09T05:24:33.769908Z,mdroots-resolve,0.1.0,0,0,https://github.com/martintrojer/mdroots,"Link resolution ladder, dialect detection and convention vote for mdroots."
+2026-10-09T05:24:35.850016Z,mdroots-core,0.1.0,0,0,https://github.com/martintrojer/mdroots,"Core traits, MemStore and reconcile logic for mdroots."
+2026-10-09T05:24:38.276644Z,mdroots-roots,0.1.0,0,0,https://github.com/martintrojer/mdroots,"Safe, zero-config root discovery for mdroots: never lists a tree before it is known to be local and bounded."
+2026-10-09T05:24:40.757341Z,mdroots-index,0.1.0,0,0,https://github.com/martintrojer/mdroots,"Persistent per-root index cache for mdroots: cache dir choice, reconciler locks and a SQLite (https://sqlite.org) DB."
+2026-10-09T05:25:34.831105Z,opsec,0.1.0,0,0,,opsec
+2026-10-09T05:29:47.37027Z,mdroots,0.1.0,0,0,https://github.com/martintrojer/mdroots,"Markdown and org note roots: discover a root, index it in memory, resolve links, backlinks and diagnostics."
+2026-10-09T05:31:41.183596Z,agentstategraph-policy-sign,0.0.1,0,0,https://github.com/agentstatelabs/agentstategraph,Ed25519 signing + canonical-JSON for AgentStateGraph policies
+2026-10-09T05:32:53.247112Z,opt-lang,0.2.0,0,0,https://github.com/jamesgober/opt-lang,"SSA optimization passes for ir-lang: sparse conditional constant propagation, value numbering, dead-code elimination, CFG simplification, copy propagation, and loop-invariant code motion."
+2026-10-09T05:37:23.593514Z,nopeat-core,2.1.1,0,0,https://github.com/Nopeat/Nopeat,"Portable bundle analysis engine: stats + source map ingestion, fusion, report data"
+2026-10-09T05:42:15.821441Z,agentstategraph-policy-rego,0.0.1,0,0,https://github.com/agentstatelabs/agentstategraph,OPA/Rego runner implementing ExternalEvaluator for AgentStateGraph policies
+2026-10-09T05:44:39.814946Z,mdroots-lsp,0.1.0,0,0,https://github.com/martintrojer/mdroots,The mdroots language server: a synchronous LSP server over the mdroots facade.
+2026-10-09T05:47:18.425642Z,typedshell,0.1.0,0,0,https://github.com/twlite/typedshell,A typed TypeScript subset compiled to standalone Bash or other shell targets
+2026-10-09T05:49:06.939626Z,mdroots-cli,0.1.0,0,0,https://github.com/martintrojer/mdroots,"The mdroots command line: check, roots, resolve and backlinks over a notes root, and the language server."
+2026-10-09T05:50:45.104615Z,ridl-rt-conformance,0.7.0,0,0,https://github.com/driftsys/ridl,"The port contract tests of ridl-rt, generic over a runtime factory, so a runtime runs them from its own test suite."
+2026-10-09T05:52:50.614378Z,agentstategraph-policy-cedar,0.0.1,0,0,https://github.com/agentstatelabs/agentstategraph,Cedar runner implementing ExternalEvaluator for AgentStateGraph policies
+2026-10-09T05:53:15.183012Z,aegisvision-burn,0.3.0,0,0,https://github.com/javpower/aegis-vision,AegisVision 纯 Rust 分割后端（burn 框架）：CSP-ELAN 骨干 + YOLACT 式分割头，训练/推理/checkpoint/CLI 零 libtorch 依赖
+2026-10-09T05:59:24.434479Z,fukasis,0.1.0,0,0,https://github.com/igarinpiano/fukasis,"Process spectra captured with FUKASIS-app on a PC: dark subtraction, wavelength calibration, CSV export and SVG graphs"
+2026-10-09T06:03:22.168103Z,agentstategraph-policy-wasm,0.0.1,0,0,https://github.com/agentstatelabs/agentstategraph,WASM host runner implementing ExternalEvaluator for AgentStateGraph policies
+2026-10-09T06:05:38.923634Z,metriken-types,0.1.0,0,0,https://github.com/iopsystems/metriken,Types shared by the metriken registry and the readers of what it records
+2026-10-09T06:05:46.536717Z,gpui-regex-visualizer,0.1.0,0,0,https://github.com/LittleGuest/gpui-regex-visualizer,"Regex railroad visualizer built on GPUI Kit: parse a pattern into an AST, lay it out as a railroad diagram, and edit it by clicking nodes."
+2026-10-09T06:13:14.978509Z,dnacalc,0.1.0,0,0,https://github.com/mpampuch/dnacalc,Convert DNA and RNA base-pair counts into readable units
+2026-10-09T06:13:57.345607Z,oxtel-reqwest,0.0.1,0,0,https://github.com/agentstatelabs/oxtel,"HTTP client instrumentation for reqwest, for oxtel (under development)"
+2026-10-09T06:16:11.460602Z,caretline-layers,0.1.0,0,0,https://github.com/brancusi/caretline,"Placement, tracking and lifecycle for hints, callouts, arrows and spotlights over a caretline host's screen: layers as data, anchors that follow edits, pure placement; the host draws"
+2026-10-09T06:16:12.392142Z,caretline-mcp,0.2.0,0,0,https://github.com/brancusi/caretline,"An MCP server for caretline: agents read and edit a live editor alongside a person, with guarded writes, attribution and exact replay"
+2026-10-09T06:16:15.867955Z,caretline-tour,0.1.0,0,0,https://github.com/brancusi/caretline,"Walkthroughs over a caretline host's screen: steps of layers, narration and the host's own scene, a pure reducer, predicates the host answers, and protocol ops"
