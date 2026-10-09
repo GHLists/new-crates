@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T03:20:37.043634Z,agentstatedeveloper-mcp,0.0.1,0,0,https://github.com/agentstatelabs/AgentStateDeveloper,MCP server for AgentStateDeveloper — exposes asd tools over stdio
+2026-10-09T03:20:38.634314Z,yalper,0.0.0,0,0,https://github.com/khalil-mellouki/yalper,"Record, replay, and debug AI coding agent sessions. Under active development, first release coming soon."
+2026-10-09T03:24:24.610852Z,spectramesh,0.0.1,0,0,https://github.com/SpectraMeshCore/spectramesh,"Multi-band mesh networking stack for ESP32, OpenWRT and desktops (early development)"
+2026-10-09T03:24:53.968883Z,ttrpc-codegen-prost,0.1.0,0,0,https://github.com/containerd/ttrpc-rust/tree/master/ttrpc-codegen-prost,Rust codegen for ttrpc using prost crate
+2026-10-09T03:26:09.448357Z,binary-object-format,1.0.2,0,0,https://github.com/PiperManiaDeluxe/binary-object-format,Slightly cooler JSON stored in a binary format.
+2026-10-09T03:30:52.113009Z,oxtel-config,0.0.1,0,0,https://github.com/agentstatelabs/oxtel,OpenTelemetry environment and declarative configuration for oxtel (under development)
+2026-10-09T03:37:04.239292Z,dpe-hash,0.2.0,0,0,https://github.com/A2C-SMCP/dpe-protocol,DPE hash 契约的独立 hash 核心：不绑定运行时，仅依赖 sha2、serde、serde_json 与 ryu
+2026-10-09T03:37:17.46441Z,dpe-sdk,0.2.0,0,0,https://github.com/A2C-SMCP/dpe-protocol,DPE 协议 Rust SDK：sans-IO 协议核心与传输适配（默认 reqwest / tokio）
+2026-10-09T03:41:23.157706Z,oxtel-semconv,0.0.1,0,0,https://github.com/agentstatelabs/oxtel,"OpenTelemetry semantic convention definitions for oxtel, generated with Weaver (under development)"
+2026-10-09T03:41:24.540113Z,auto-compress-apfs,0.2.0,0,0,https://github.com/aliaksandr-master/auto-compress-apfs,"Turns on APFS transparent compression for files matched by glob patterns, using /usr/bin/ditto"
+2026-10-09T03:41:34.55244Z,v2a,0.0.0,0,0,,"Video to av2, ffmpeg fixed parameters"
+2026-10-09T03:48:55.05054Z,tree-sitter-cryptol,0.1.0,0,0,https://github.com/langston-barrett/tree-sitter-cryptol,Cryptol grammar for tree-sitter
+2026-10-09T03:51:47.155321Z,oxtel-tower,0.0.1,0,0,https://github.com/agentstatelabs/oxtel,"HTTP server and client instrumentation for tower, axum and hyper, for oxtel (under development)"
+2026-10-09T03:52:08.511084Z,pith-cdc,0.1.0,0,0,,FastCDC content-defined chunking with a 16-level gear mask table (zero-dep Rust)
+2026-10-09T03:53:00.531973Z,qrustls,0.23.45,0,0,https://github.com/genmeta/rustls,Rustls fork for QUIC with client OCSP stapling and protected session persistence.
+2026-10-09T04:02:20.132839Z,oxtel-rmcp,0.0.1,0,0,https://github.com/agentstatelabs/oxtel,"MCP server and client instrumentation for rmcp, for oxtel (under development)"
+2026-10-09T04:03:25.6007Z,gnostr-n34-relay,970580.1845.799030,0,0,https://github.com/gnostr-org/get_file_hash,A nostr GRASP relay implementation
+2026-10-09T04:06:51.407511Z,poly-type,0.1.0,0,0,https://github.com/NimonSour/poly-type.git,Auto implementation of enums
+2026-10-09T04:10:09.575618Z,opeo-macros,0.1.0,0,0,https://github.com/shaogme/opeo,Procedural macros for the opeo crate
+2026-10-09T04:12:44.205476Z,oxtel-opamp,0.0.1,0,0,https://github.com/agentstatelabs/oxtel,OpAMP client for oxtel (under development)
+2026-10-09T04:16:19.594352Z,bcgen-lang,0.2.0,0,0,https://github.com/jamesgober/bcgen-lang,Compiles HIR to LSB bytecode: the path from a forged language's meaning to code bvm-lang runs.
+2026-10-09T04:18:16.918307Z,opeo,0.1.0,0,0,https://github.com/shaogme/opeo,Out-parameter error handling with typed failure proofs

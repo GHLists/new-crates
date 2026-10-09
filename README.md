@@ -8,41 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 03:18 UTC
+## Latest list — 2026-10-09 04:18 UTC
 
-New crates published between 2026-10-09 02:19 UTC and 2026-10-09 03:18 UTC.
+New crates published between 2026-10-09 03:18 UTC and 2026-10-09 04:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-09T03-18-37-67069Z.csv)
+[Full CSV](data/new-crates-2026-10-09T04-18-53-985441Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-09 02:22:36 | [agentstategraph-storage](https://crates.io/crates/agentstategraph-storage) | 0.0.1 | 0 | Pluggable storage backends for AgentStateGraph |
-| 2026-10-09 02:23:20 | [lower-lang](https://crates.io/crates/lower-lang) | 0.2.0 | 0 | Lowers lossless syntax trees into HIR through declarative semantic archetypes a… |
-| 2026-10-09 02:28:40 | [rightkit-ownership](https://crates.io/crates/rightkit-ownership) | 0.2.0 | 0 | RightKit ownership scanner, verdict and admission: the single Rust implementati… |
-| 2026-10-09 02:33:10 | [agentstategraph-mcp](https://crates.io/crates/agentstategraph-mcp) | 0.0.1 | 0 | MCP server for AgentStateGraph — AI-native versioned state store |
-| 2026-10-09 02:36:11 | [publet-core](https://crates.io/crates/publet-core) | 0.1.2 | 0 | Objects, canonical CBOR, content identifiers, and signatures. |
-| 2026-10-09 02:39:48 | [vectr-core](https://crates.io/crates/vectr-core) | 0.1.0-pre.1 | 0 | Vectr scene engine: parse, validate, resolve, style, compile, and export. |
-| 2026-10-09 02:39:55 | [vectr-project](https://crates.io/crates/vectr-project) | 0.1.0-pre.1 | 0 | Vectr project loading: the style assets a scene's project provides and the embe… |
-| 2026-10-09 02:39:58 | [vectr-cli](https://crates.io/crates/vectr-cli) | 0.1.0-pre.1 | 0 | Vectr command-line interface. |
-| 2026-10-09 02:40:01 | [vectr-mcp](https://crates.io/crates/vectr-mcp) | 0.1.0-pre.1 | 0 | Vectr MCP server. |
-| 2026-10-09 02:40:05 | [rightkit-fsindex](https://crates.io/crates/rightkit-fsindex) | 0.1.0 | 0 | Live whole-disk file index: fuzzy name search plus clone- and hard-link-aware f… |
-| 2026-10-09 02:43:44 | [ctxone-hub](https://crates.io/crates/ctxone-hub) | 0.0.1 | 0 | CTXone Hub — MCP server for AI agent memory |
-| 2026-10-09 02:49:42 | [cutver-pdk](https://crates.io/crates/cutver-pdk) | 0.1.0 | 0 | Wire contract shared by the Cutver core and its plugins |
-| 2026-10-09 02:50:28 | [pith-text](https://crates.io/crates/pith-text) | 0.1.0 | 0 | Text fingerprints: NFC canonicalisation, word 3-shingles and a 128-word MinHash… |
-| 2026-10-09 02:51:26 | [fmt-lang](https://crates.io/crates/fmt-lang) | 0.2.0 | 0 | Rule-driven source formatter over lossless syntax trees, rendering through pret… |
-| 2026-10-09 02:52:45 | [pith-zip](https://crates.io/crates/pith-zip) | 0.1.0 | 0 | ZIP container reading: stored and deflated entries, plus a minimal XML reader |
-| 2026-10-09 02:53:08 | [pith-pdf](https://crates.io/crates/pith-pdf) | 0.1.0 | 0 | PDF text extraction across classic xref, xref streams, cmap and CID fonts |
-| 2026-10-09 02:54:15 | [oxtel-prometheus](https://crates.io/crates/oxtel-prometheus) | 0.0.1 | 0 | Prometheus and OpenMetrics exposition for oxtel (under development) |
-| 2026-10-09 02:58:03 | [ek-event](https://crates.io/crates/ek-event) | 0.1.0 | 0 | Self-contained event engine in Rust, a faithful semantic replication of enkeep_… |
-| 2026-10-09 03:01:45 | [hwp_core](https://crates.io/crates/hwp_core) | 0.2.0 | 0 | Unofficial Rust bindings for Hancom HWP (Hangul Word Processor) COM/OLE automat… |
-| 2026-10-09 03:01:59 | [hwp_addon](https://crates.io/crates/hwp_addon) | 0.2.0 | 0 | Unofficial framework for writing Hancom HWP (Hangul Word Processor) add-on DLLs… |
-| 2026-10-09 03:02:15 | [holon-model-client](https://crates.io/crates/holon-model-client) | 0.1.0 | 0 | Provider-neutral model client contracts with an OpenAI-compatible transport |
-| 2026-10-09 03:02:42 | [hwp_com](https://crates.io/crates/hwp_com) | 0.2.0 | 0 | Unofficial OLE client for Hancom HWP (Hangul Word Processor): start or attach t… |
-| 2026-10-09 03:03:18 | [xbrlkit-derive](https://crates.io/crates/xbrlkit-derive) | 0.1.0 | 0 | #[derive(FromXbrl)] for xbrlkit: binds a struct's fields to XBRL concepts |
-| 2026-10-09 03:03:28 | [xbrlkit](https://crates.io/crates/xbrlkit) | 0.1.0 | 0 | Read SEC XBRL and inline XBRL filings into typed Rust structs |
-| 2026-10-09 03:04:47 | [agentstatedeveloper-core](https://crates.io/crates/agentstatedeveloper-core) | 0.0.1 | 0 | Core types, traits, and ASG-backed implementations for AgentStateDeveloper |
-| 2026-10-09 03:15:16 | [agentstatedeveloper-cli](https://crates.io/crates/agentstatedeveloper-cli) | 0.0.1 | 0 | asd CLI — command-line interface for AgentStateDeveloper |
-| 2026-10-09 03:17:35 | [gnostr-n34](https://crates.io/crates/gnostr-n34) | 970575.1845.804934 | 0 | A CLI to interact with NIP-34 and other stuff related to code in Nostr |
+| 2026-10-09 03:20:37 | [agentstatedeveloper-mcp](https://crates.io/crates/agentstatedeveloper-mcp) | 0.0.1 | 0 | MCP server for AgentStateDeveloper — exposes asd tools over stdio |
+| 2026-10-09 03:20:38 | [yalper](https://crates.io/crates/yalper) | 0.0.0 | 0 | Record, replay, and debug AI coding agent sessions. Under active development, f… |
+| 2026-10-09 03:24:24 | [spectramesh](https://crates.io/crates/spectramesh) | 0.0.1 | 0 | Multi-band mesh networking stack for ESP32, OpenWRT and desktops (early develop… |
+| 2026-10-09 03:24:53 | [ttrpc-codegen-prost](https://crates.io/crates/ttrpc-codegen-prost) | 0.1.0 | 0 | Rust codegen for ttrpc using prost crate |
+| 2026-10-09 03:26:09 | [binary-object-format](https://crates.io/crates/binary-object-format) | 1.0.2 | 0 | Slightly cooler JSON stored in a binary format. |
+| 2026-10-09 03:30:52 | [oxtel-config](https://crates.io/crates/oxtel-config) | 0.0.1 | 0 | OpenTelemetry environment and declarative configuration for oxtel (under develo… |
+| 2026-10-09 03:37:04 | [dpe-hash](https://crates.io/crates/dpe-hash) | 0.2.0 | 0 | DPE hash 契约的独立 hash 核心：不绑定运行时，仅依赖 sha2、serde、serde_json 与 ryu |
+| 2026-10-09 03:37:17 | [dpe-sdk](https://crates.io/crates/dpe-sdk) | 0.2.0 | 0 | DPE 协议 Rust SDK：sans-IO 协议核心与传输适配（默认 reqwest / tokio） |
+| 2026-10-09 03:41:23 | [oxtel-semconv](https://crates.io/crates/oxtel-semconv) | 0.0.1 | 0 | OpenTelemetry semantic convention definitions for oxtel, generated with Weaver… |
+| 2026-10-09 03:41:24 | [auto-compress-apfs](https://crates.io/crates/auto-compress-apfs) | 0.2.0 | 0 | Turns on APFS transparent compression for files matched by glob patterns, using… |
+| 2026-10-09 03:41:34 | [v2a](https://crates.io/crates/v2a) | 0.0.0 | 0 | Video to av2, ffmpeg fixed parameters |
+| 2026-10-09 03:48:55 | [tree-sitter-cryptol](https://crates.io/crates/tree-sitter-cryptol) | 0.1.0 | 0 | Cryptol grammar for tree-sitter |
+| 2026-10-09 03:51:47 | [oxtel-tower](https://crates.io/crates/oxtel-tower) | 0.0.1 | 0 | HTTP server and client instrumentation for tower, axum and hyper, for oxtel (un… |
+| 2026-10-09 03:52:08 | [pith-cdc](https://crates.io/crates/pith-cdc) | 0.1.0 | 0 | FastCDC content-defined chunking with a 16-level gear mask table (zero-dep Rust) |
+| 2026-10-09 03:53:00 | [qrustls](https://crates.io/crates/qrustls) | 0.23.45 | 0 | Rustls fork for QUIC with client OCSP stapling and protected session persistenc… |
+| 2026-10-09 04:02:20 | [oxtel-rmcp](https://crates.io/crates/oxtel-rmcp) | 0.0.1 | 0 | MCP server and client instrumentation for rmcp, for oxtel (under development) |
+| 2026-10-09 04:03:25 | [gnostr-n34-relay](https://crates.io/crates/gnostr-n34-relay) | 970580.1845.799030 | 0 | A nostr GRASP relay implementation |
+| 2026-10-09 04:06:51 | [poly-type](https://crates.io/crates/poly-type) | 0.1.0 | 0 | Auto implementation of enums |
+| 2026-10-09 04:10:09 | [opeo-macros](https://crates.io/crates/opeo-macros) | 0.1.0 | 0 | Procedural macros for the opeo crate |
+| 2026-10-09 04:12:44 | [oxtel-opamp](https://crates.io/crates/oxtel-opamp) | 0.0.1 | 0 | OpAMP client for oxtel (under development) |
+| 2026-10-09 04:16:19 | [bcgen-lang](https://crates.io/crates/bcgen-lang) | 0.2.0 | 0 | Compiles HIR to LSB bytecode: the path from a forged language's meaning to code… |
+| 2026-10-09 04:18:16 | [opeo](https://crates.io/crates/opeo) | 0.1.0 | 0 | Out-parameter error handling with typed failure proofs |
 
 ## Data source
 
