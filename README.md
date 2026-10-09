@@ -8,29 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 07:20 UTC
+## Latest list — 2026-10-09 08:18 UTC
 
-New crates published between 2026-10-09 06:20 UTC and 2026-10-09 07:20 UTC.
+New crates published between 2026-10-09 07:20 UTC and 2026-10-09 08:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-09T07-20-09-508744Z.csv)
+[Full CSV](data/new-crates-2026-10-09T08-18-41-342462Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-09 06:24:34 | [oxtel-sql](https://crates.io/crates/oxtel-sql) | 0.0.1 | 0 | Database client instrumentation for sqlx, tokio-postgres and rusqlite, for oxte… |
-| 2026-10-09 06:25:12 | [whipplescript-hjson](https://crates.io/crates/whipplescript-hjson) | 0.11.0 | 0 | Owned full HJSON parser with strict governance-source consumption |
-| 2026-10-09 06:26:19 | [lazyjson](https://crates.io/crates/lazyjson) | 0.0.2 | 0 | Lazily-computed value extraction |
-| 2026-10-09 06:27:43 | [cerne-macros](https://crates.io/crates/cerne-macros) | 0.2.0 | 0 | The attributes of Cerne: #[entity], #[aggregate] and #[value_object] write what… |
-| 2026-10-09 06:29:24 | [omw-build](https://crates.io/crates/omw-build) | 0.1.7 | 0 | Shared build-script helpers for the omw interpreter component crates |
-| 2026-10-09 06:35:07 | [oxtel-tokio](https://crates.io/crates/oxtel-tokio) | 0.0.1 | 0 | tokio runtime metrics for oxtel (under development) |
-| 2026-10-09 06:35:15 | [polyedge](https://crates.io/crates/polyedge) | 1.0.0 | 0 | Official Rust SDK for PolyEdge ultra-low latency Polymarket mempool trade strea… |
-| 2026-10-09 06:39:30 | [opendal-sync](https://crates.io/crates/opendal-sync) | 1.0.0 | 0 | Embeddable file synchronization with user-selected OpenDAL backends |
-| 2026-10-09 06:39:51 | [soroban-lint-core](https://crates.io/crates/soroban-lint-core) | 0.1.1 | 0 | Syntactic, per-file static analysis for Soroban smart contracts (library). |
-| 2026-10-09 06:40:10 | [soroban-lint-cli](https://crates.io/crates/soroban-lint-cli) | 0.1.1 | 0 | Command-line interface for soroban-lint. |
-| 2026-10-09 06:43:34 | [physicalcontextprotocol](https://crates.io/crates/physicalcontextprotocol) | 1.0.0 | 0 | PCP Core - Physical Context Protocol Rust implementation |
-| 2026-10-09 06:45:46 | [oxtel-genai](https://crates.io/crates/oxtel-genai) | 0.0.1 | 0 | GenAI token usage and operation metrics for oxtel (under development) |
-| 2026-10-09 06:51:48 | [pite-core](https://crates.io/crates/pite-core) | 0.1.0 | 0 | Node tree, handles, props and lifecycle dispatch for Pite. |
-| 2026-10-09 06:51:59 | [pite-project](https://crates.io/crates/pite-project) | 0.1.0 | 0 | Project manifest (pite.toml), res:// paths and templates. |
-| 2026-10-09 06:52:06 | [pite-scene](https://crates.io/crates/pite-scene) | 0.1.0 | 0 | TOML scene format, instantiation, validation and binary cache for Pite. |
+| 2026-10-09 07:24:34 | [zenith-sync](https://crates.io/crates/zenith-sync) | 0.1.0 | 0 | A Git-inspired, read-only sync tool that mirrors network shares to local system… |
+| 2026-10-09 07:26:48 | [prux](https://crates.io/crates/prux) | 1.0.2 | 0 | A minimal terminal coding agent: TUI, built-in coding tools, and an extension s… |
+| 2026-10-09 07:28:52 | [exepack](https://crates.io/crates/exepack) | 0.5.0 | 0 | Embed items into an executable's own container, one per item, with optional com… |
+| 2026-10-09 07:29:35 | [vaultd](https://crates.io/crates/vaultd) | 0.3.0 | 0 | Encrypted secrets for local development that work like `.env` |
+| 2026-10-09 07:31:33 | [museum](https://crates.io/crates/museum) | 0.4.0 | 0 | Fetch and publish per-target executables from a registry, with semver resolutio… |
+| 2026-10-09 07:31:45 | [museum-cli](https://crates.io/crates/museum-cli) | 0.4.0 | 0 | Start a museum registry and publish executables into it |
+| 2026-10-09 07:32:03 | [refix-fix44](https://crates.io/crates/refix-fix44) | 0.1.0 | 0 | Typed FIX 4.4 messages for the ReFIX engine |
+| 2026-10-09 07:34:41 | [bkfwob-core](https://crates.io/crates/bkfwob-core) | 0.1.0 | 0 | Broker-neutral order types, guardrails, journal and reconciliation for the bkfw… |
+| 2026-10-09 07:35:09 | [bkfwob](https://crates.io/crates/bkfwob) | 0.1.0 | 0 | Broker integration layer for the fwob toolchain: accounts, orders and guardrail… |
+| 2026-10-09 07:35:46 | [ed-mcp](https://crates.io/crates/ed-mcp) | 1.1.0 | 0 | MCP for Onde agents: server configuration, tool namespacing, timeouts, progress… |
+| 2026-10-09 07:36:01 | [ed-acp](https://crates.io/crates/ed-acp) | 1.1.0 | 0 | Agent Client Protocol (ACP) v1 server for Onde agents: sessions, auth, the turn… |
+| 2026-10-09 07:50:16 | [drukal](https://crates.io/crates/drukal) | 0.7.3 | 0 | Checked coding changes, dependency reviews, and local-first agent workflows |
+| 2026-10-09 07:52:35 | [ek-core](https://crates.io/crates/ek-core) | 0.1.0 | 0 | Business-agnostic plugin host and actor-over-bus runtime on top of ek-event: si… |
+| 2026-10-09 07:57:47 | [text-stats](https://crates.io/crates/text-stats) | 0.1.0 | 0 | Word and character counts for a lot of languages, with proper segmentation for… |
+| 2026-10-09 07:58:27 | [second-brain-kernel](https://crates.io/crates/second-brain-kernel) | 0.1.0 | 0 | Domain types and traits for second-brain (no I/O) (internal crate of second-bra… |
+| 2026-10-09 07:58:33 | [second-brain-extract](https://crates.io/crates/second-brain-extract) | 0.1.0 | 0 | Pure text extraction (text, CSV, HTML, docx, pptx, xlsx, PDF) to Markdown (inte… |
+| 2026-10-09 07:59:24 | [second-brain-llm](https://crates.io/crates/second-brain-llm) | 0.1.0 | 0 | Summarizers for second-brain: LLM APIs, LLM CLIs and local OpenAI-compatible se… |
+| 2026-10-09 07:59:29 | [second-brain-store](https://crates.io/crates/second-brain-store) | 0.1.0 | 0 | SQLite catalog, raw file store, secrets and the sqlite-fts search backend (inte… |
+| 2026-10-09 07:59:36 | [second-brain-pipeline](https://crates.io/crates/second-brain-pipeline) | 0.1.0 | 0 | Ingestion and summarization pipeline for second-brain (internal crate of second… |
+| 2026-10-09 08:00:47 | [wrfm-raster](https://crates.io/crates/wrfm-raster) | 0.1.0 | 0 | Shared camera projection and braille rasterization for wireforge and wrfm-cli |
+| 2026-10-09 08:07:11 | [nlr-domain](https://crates.io/crates/nlr-domain) | 1.4.0 | 0 | HMMER-based protein domain scanning and NLR architecture classification for Fas… |
+| 2026-10-09 08:08:17 | [abnegate-payments](https://crates.io/crates/abnegate-payments) | 0.1.0 | 0 | Stripe Checkout, Customer Portal and webhook verification behind a host-agnosti… |
+| 2026-10-09 08:09:17 | [second-brain-google](https://crates.io/crates/second-brain-google) | 0.1.0 | 0 | Google OAuth (PKCE loopback), Drive/Calendar clients and the google.meet source… |
+| 2026-10-09 08:15:02 | [rusty-tokenizer](https://crates.io/crates/rusty-tokenizer) | 0.1.0 | 0 | A Rust implementation of word, character, and Byte Pair Encoding (BPE) tokenize… |
+| 2026-10-09 08:17:06 | [fastanim-diff](https://crates.io/crates/fastanim-diff) | 0.1.0 | 0 | Generic sequence diffing for fastanim: Myers (greedy + linear space), patience,… |
+| 2026-10-09 08:17:08 | [fastanim-core](https://crates.io/crates/fastanim-core) | 0.1.0 | 0 | fastanim core model: geometry, mobjects, animations and timeline |
+| 2026-10-09 08:17:11 | [fastanim-text](https://crates.io/crates/fastanim-text) | 0.1.0 | 0 | fastanim text, math and code layout into diffable tokens |
+| 2026-10-09 08:17:13 | [fastanim](https://crates.io/crates/fastanim) | 0.1.0 | 0 | Programmatic mathematical animation with diff-driven transforms |
+| 2026-10-09 08:17:14 | [fastanim-bevy](https://crates.io/crates/fastanim-bevy) | 0.1.0 | 0 | Bevy plugin for fastanim: timeline sync, vector rendering, preview and export |
 
 ## Data source
 

@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T07:24:34.02659Z,zenith-sync,0.1.0,0,0,https://github.com/ZAL-Analytics/zenith-sync,"A Git-inspired, read-only sync tool that mirrors network shares to local systems. Fast, immutable, and secure data streaming."
+2026-10-09T07:26:48.257792Z,prux,1.0.2,0,0,https://github.com/heng30/prux,"A minimal terminal coding agent: TUI, built-in coding tools, and an extension system"
+2026-10-09T07:28:52.006471Z,exepack,0.5.0,0,0,https://github.com/xhebox/exepack,"Embed items into an executable's own container, one per item, with optional compression."
+2026-10-09T07:29:35.536449Z,vaultd,0.3.0,0,0,https://github.com/Jatinchd777/Vaultd,Encrypted secrets for local development that work like `.env`
+2026-10-09T07:31:33.713733Z,museum,0.4.0,0,0,https://github.com/vutran1710/museum-rs,"Fetch and publish per-target executables from a registry, with semver resolution and atomic installs"
+2026-10-09T07:31:45.117037Z,museum-cli,0.4.0,0,0,https://github.com/vutran1710/museum-rs,Start a museum registry and publish executables into it
+2026-10-09T07:32:03.794513Z,refix-fix44,0.1.0,0,0,https://github.com/refixhq/refix,Typed FIX 4.4 messages for the ReFIX engine
+2026-10-09T07:34:41.050639Z,bkfwob-core,0.1.0,0,0,https://github.com/stcmz/bkfwob,"Broker-neutral order types, guardrails, journal and reconciliation for the bkfwob toolchain"
+2026-10-09T07:35:09.220986Z,bkfwob,0.1.0,0,0,https://github.com/stcmz/bkfwob,"Broker integration layer for the fwob toolchain: accounts, orders and guardrails over a CLI and MCP"
+2026-10-09T07:35:46.974378Z,ed-mcp,1.1.0,0,0,https://github.com/ondeinference/ed,"MCP for Onde agents: server configuration, tool namespacing, timeouts, progress and cancellation over rmcp, the official Rust SDK."
+2026-10-09T07:36:01.661043Z,ed-acp,1.1.0,0,0,https://github.com/ondeinference/ed,"Agent Client Protocol (ACP) v1 server for Onde agents: sessions, auth, the turn loop on Onde Cloud, tool approval, workspace tools and MCP. A product supplies a Profile."
+2026-10-09T07:50:16.13843Z,drukal,0.7.3,0,0,https://github.com/keys-i/drukal,"Checked coding changes, dependency reviews, and local-first agent workflows"
+2026-10-09T07:52:35.465065Z,ek-core,0.1.0,0,0,https://cnb.cool/enkeep/ek-core,"Business-agnostic plugin host and actor-over-bus runtime on top of ek-event: single-registry plugins, explicit deps with topological start, per-plugin actor workers, one-shot request/reply, panic qua…"
+2026-10-09T07:57:47.177828Z,text-stats,0.1.0,0,0,https://github.com/savannstm/text-stats,"Word and character counts for a lot of languages, with proper segmentation for Chinese, Japanese and Thai."
+2026-10-09T07:58:27.498256Z,second-brain-kernel,0.1.0,0,0,https://github.com/a-miyashita/second-brain,"Domain types and traits for second-brain (no I/O) (internal crate of second-brain, no API stability)"
+2026-10-09T07:58:33.100405Z,second-brain-extract,0.1.0,0,0,https://github.com/a-miyashita/second-brain,"Pure text extraction (text, CSV, HTML, docx, pptx, xlsx, PDF) to Markdown (internal crate of second-brain, no API stability)"
+2026-10-09T07:59:24.822046Z,second-brain-llm,0.1.0,0,0,https://github.com/a-miyashita/second-brain,"Summarizers for second-brain: LLM APIs, LLM CLIs and local OpenAI-compatible servers (internal crate of second-brain, no API stability)"
+2026-10-09T07:59:29.020412Z,second-brain-store,0.1.0,0,0,https://github.com/a-miyashita/second-brain,"SQLite catalog, raw file store, secrets and the sqlite-fts search backend (internal crate of second-brain, no API stability)"
+2026-10-09T07:59:36.216536Z,second-brain-pipeline,0.1.0,0,0,https://github.com/a-miyashita/second-brain,"Ingestion and summarization pipeline for second-brain (internal crate of second-brain, no API stability)"
+2026-10-09T08:00:47.838412Z,wrfm-raster,0.1.0,0,0,https://github.com/lenitain/wireforge,Shared camera projection and braille rasterization for wireforge and wrfm-cli
+2026-10-09T08:07:11.76252Z,nlr-domain,1.4.0,0,0,https://github.com/CropCoder/FastNLR,HMMER-based protein domain scanning and NLR architecture classification for FastNLR
+2026-10-09T08:08:17.170098Z,abnegate-payments,0.1.0,0,0,https://github.com/abnegate/crates,"Stripe Checkout, Customer Portal and webhook verification behind a host-agnostic client"
+2026-10-09T08:09:17.396895Z,second-brain-google,0.1.0,0,0,https://github.com/a-miyashita/second-brain,"Google OAuth (PKCE loopback), Drive/Calendar clients and the google.meet source (internal crate of second-brain, no API stability)"
+2026-10-09T08:15:02.712237Z,rusty-tokenizer,0.1.0,0,0,https://github.com/Souvick-bh/rusty-tokenizer,"A Rust implementation of word, character, and Byte Pair Encoding (BPE) tokenizers."
+2026-10-09T08:17:06.246784Z,fastanim-diff,0.1.0,0,0,https://github.com/simonhdickson/fastanim,"Generic sequence diffing for fastanim: Myers (greedy + linear space), patience, move detection and replace pairing"
+2026-10-09T08:17:08.641701Z,fastanim-core,0.1.0,0,0,https://github.com/simonhdickson/fastanim,"fastanim core model: geometry, mobjects, animations and timeline"
+2026-10-09T08:17:11.139611Z,fastanim-text,0.1.0,0,0,https://github.com/simonhdickson/fastanim,"fastanim text, math and code layout into diffable tokens"
+2026-10-09T08:17:13.607511Z,fastanim,0.1.0,0,0,https://github.com/simonhdickson/fastanim,Programmatic mathematical animation with diff-driven transforms
+2026-10-09T08:17:14.488544Z,fastanim-bevy,0.1.0,0,0,https://github.com/simonhdickson/fastanim,"Bevy plugin for fastanim: timeline sync, vector rendering, preview and export"
