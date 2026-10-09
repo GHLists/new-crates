@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T04:20:27.260122Z,quarb-time,0.34.0,0,0,https://gitlab.com/quarb/engine,"Quarb's time: instants and durations (ISO 8601, strptime/strftime), periods and grains, time expressions in eleven languages, calendar names"
+2026-10-09T04:20:41.107109Z,quarb-cypher,0.34.0,0,0,https://gitlab.com/quarb/engine,"What the Cypher-speaking Quarb adapters share: literal and identifier spellings, the common statements, a relationship cache"
+2026-10-09T04:20:48.309341Z,quarb-http,0.34.0,0,0,https://gitlab.com/quarb/engine,The HTTP client the Quarb adapters share: one agent with timeouts
+2026-10-09T04:21:22.930681Z,quarb-logs,0.34.0,0,0,https://gitlab.com/quarb/engine,"What the Quarb log adapters share: the decoded field tree, JSON and timestamp decoding, percent-decoding, duration spellings"
+2026-10-09T04:22:30.394629Z,rq-library,1.1.0,0,0,https://github.com/LumeraProtocol/releases,"RaptorQ erasure coding for files, with a C API and a browser WASM build"
+2026-10-09T04:23:18.577874Z,agentstategraph-policy,0.0.1,0,0,https://github.com/agentstatelabs/agentstategraph,Policy primitive (authorization + change-cost gating + fallback) for AgentStateGraph
+2026-10-09T04:23:42.0933Z,mere-curation,0.1.0,0,0,https://github.com/merely-made/mere,"View-local graph curation for Mere: subgraph specifications now, folds and other per-view curation as they arrive."
+2026-10-09T04:24:45.60599Z,pith-file,0.1.0,0,0,https://github.com/pith-hash/pith-file,"File-domain hashing for the pith suite: FastCDC chunk signatures, exact chunk-set Jaccard, PDF text extraction"
+2026-10-09T04:27:59.668688Z,tree-sitter-saw-script,0.1.0,0,0,https://github.com/langston-barrett/tree-sitter-saw-script,SAWScript grammar for tree-sitter
+2026-10-09T04:33:12.82843Z,time-mcp,1.1.1,0,0,https://github.com/modpotatodotdev/time-mcp,A super basic MCP server that exposes current time information
+2026-10-09T04:33:47.136726Z,agentstategraph-taint,0.0.1,0,0,https://github.com/agentstatelabs/agentstategraph,Taint / quarantine / watch substrate for AgentStateGraph
+2026-10-09T04:37:27.619869Z,ostool-serial,0.1.0,0,0,https://github.com/drivercraft/ostool,On-demand serial discovery and ownership for axloader sessions
+2026-10-09T04:37:31.356004Z,eggpool-provider-profile,0.1.0,0,0,https://github.com/eggstack/eggpool,Neutral secret-free sans-I/O provider-profile contract and canonical bundled provider-profile data
+2026-10-09T04:37:36.719186Z,m4h,0.0.1,0,0,https://github.com/axellettieri/m4h,M4H (Multi4Hyper): a Rust multikernel for hyper-scale BEAM workloads. Ad astra per aspera.
+2026-10-09T04:42:07.354914Z,incurs-mcp-apps,0.1.0,0,0,https://github.com/douglance/incurs,Provider-neutral MCP App runtime bridge for Rust and WASM clients
+2026-10-09T04:42:13.540475Z,incurs-openai-mcp-protocol,0.1.0,0,0,https://github.com/douglance/incurs,Portable OpenAI MCP extension wire models and validators
+2026-10-09T04:44:15.260918Z,agentstategraph-tasks,0.0.1,0,0,https://github.com/agentstatelabs/agentstategraph,Shared task-store primitives built on AgentStateGraph
+2026-10-09T04:45:56.293869Z,incurs-openai-mcp,0.1.0,0,0,https://github.com/douglance/incurs,Server-side OpenAI MCP extension helpers for incurs
+2026-10-09T04:46:18.627124Z,incurs-openai-mcp-app,0.1.0,0,0,https://github.com/douglance/incurs,OpenAI MCP App helper surface for Rust and WASM clients
+2026-10-09T04:51:43.971355Z,incurs-openapi,0.1.0,0,0,https://github.com/douglance/incurs,"Compile OpenAPI contracts into Rust SDKs, documentation, and incurs tools"
+2026-10-09T04:54:40.797698Z,agentstategraph-reminders,0.0.1,0,0,https://github.com/agentstatelabs/agentstategraph,"Agent reminder substrate for AgentStateGraph — schedule, track, and execute future-oriented agent tasks"
+2026-10-09T04:57:48.722805Z,uta,0.1.1,0,0,https://github.com/lv-wenqiang/uta,"Command-line music search and downloader for QQ Music and NetEase Cloud Music, lossless first, shipped as a single static binary. For learning and research only; non-commercial use."
+2026-10-09T05:05:11.35163Z,agentstategraph-migrate,0.0.1,0,0,https://github.com/agentstatelabs/agentstategraph,Schema migration registry for AgentStateGraph databases
+2026-10-09T05:08:57.169723Z,quarb-open,0.34.0,0,0,https://gitlab.com/quarb/engine,"One open for every target the Quarb tools speak: files, readings, archives, databases, and the adapter-scheme fleet"
+2026-10-09T05:10:36.395Z,agentstategraph-ffi,0.0.1,0,0,https://github.com/agentstatelabs/agentstategraph,"C ABI for AgentStateGraph — enables Go, Ruby, Java, C# bindings"
+2026-10-09T05:17:05.255958Z,aegis-filter,0.1.0,0,0,https://github.com/Exploidus/aegis-filter,"High-integrity, cyber-resilient state estimation and robust filtering engine in pure Rust with strict numerical validation, Joseph stabilized covariance updates, and outlier gating."

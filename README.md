@@ -8,36 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 04:18 UTC
+## Latest list — 2026-10-09 05:20 UTC
 
-New crates published between 2026-10-09 03:18 UTC and 2026-10-09 04:18 UTC.
+New crates published between 2026-10-09 04:18 UTC and 2026-10-09 05:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-09T04-18-53-985441Z.csv)
+[Full CSV](data/new-crates-2026-10-09T05-20-44-27823Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-09 03:20:37 | [agentstatedeveloper-mcp](https://crates.io/crates/agentstatedeveloper-mcp) | 0.0.1 | 0 | MCP server for AgentStateDeveloper — exposes asd tools over stdio |
-| 2026-10-09 03:20:38 | [yalper](https://crates.io/crates/yalper) | 0.0.0 | 0 | Record, replay, and debug AI coding agent sessions. Under active development, f… |
-| 2026-10-09 03:24:24 | [spectramesh](https://crates.io/crates/spectramesh) | 0.0.1 | 0 | Multi-band mesh networking stack for ESP32, OpenWRT and desktops (early develop… |
-| 2026-10-09 03:24:53 | [ttrpc-codegen-prost](https://crates.io/crates/ttrpc-codegen-prost) | 0.1.0 | 0 | Rust codegen for ttrpc using prost crate |
-| 2026-10-09 03:26:09 | [binary-object-format](https://crates.io/crates/binary-object-format) | 1.0.2 | 0 | Slightly cooler JSON stored in a binary format. |
-| 2026-10-09 03:30:52 | [oxtel-config](https://crates.io/crates/oxtel-config) | 0.0.1 | 0 | OpenTelemetry environment and declarative configuration for oxtel (under develo… |
-| 2026-10-09 03:37:04 | [dpe-hash](https://crates.io/crates/dpe-hash) | 0.2.0 | 0 | DPE hash 契约的独立 hash 核心：不绑定运行时，仅依赖 sha2、serde、serde_json 与 ryu |
-| 2026-10-09 03:37:17 | [dpe-sdk](https://crates.io/crates/dpe-sdk) | 0.2.0 | 0 | DPE 协议 Rust SDK：sans-IO 协议核心与传输适配（默认 reqwest / tokio） |
-| 2026-10-09 03:41:23 | [oxtel-semconv](https://crates.io/crates/oxtel-semconv) | 0.0.1 | 0 | OpenTelemetry semantic convention definitions for oxtel, generated with Weaver… |
-| 2026-10-09 03:41:24 | [auto-compress-apfs](https://crates.io/crates/auto-compress-apfs) | 0.2.0 | 0 | Turns on APFS transparent compression for files matched by glob patterns, using… |
-| 2026-10-09 03:41:34 | [v2a](https://crates.io/crates/v2a) | 0.0.0 | 0 | Video to av2, ffmpeg fixed parameters |
-| 2026-10-09 03:48:55 | [tree-sitter-cryptol](https://crates.io/crates/tree-sitter-cryptol) | 0.1.0 | 0 | Cryptol grammar for tree-sitter |
-| 2026-10-09 03:51:47 | [oxtel-tower](https://crates.io/crates/oxtel-tower) | 0.0.1 | 0 | HTTP server and client instrumentation for tower, axum and hyper, for oxtel (un… |
-| 2026-10-09 03:52:08 | [pith-cdc](https://crates.io/crates/pith-cdc) | 0.1.0 | 0 | FastCDC content-defined chunking with a 16-level gear mask table (zero-dep Rust) |
-| 2026-10-09 03:53:00 | [qrustls](https://crates.io/crates/qrustls) | 0.23.45 | 0 | Rustls fork for QUIC with client OCSP stapling and protected session persistenc… |
-| 2026-10-09 04:02:20 | [oxtel-rmcp](https://crates.io/crates/oxtel-rmcp) | 0.0.1 | 0 | MCP server and client instrumentation for rmcp, for oxtel (under development) |
-| 2026-10-09 04:03:25 | [gnostr-n34-relay](https://crates.io/crates/gnostr-n34-relay) | 970580.1845.799030 | 0 | A nostr GRASP relay implementation |
-| 2026-10-09 04:06:51 | [poly-type](https://crates.io/crates/poly-type) | 0.1.0 | 0 | Auto implementation of enums |
-| 2026-10-09 04:10:09 | [opeo-macros](https://crates.io/crates/opeo-macros) | 0.1.0 | 0 | Procedural macros for the opeo crate |
-| 2026-10-09 04:12:44 | [oxtel-opamp](https://crates.io/crates/oxtel-opamp) | 0.0.1 | 0 | OpAMP client for oxtel (under development) |
-| 2026-10-09 04:16:19 | [bcgen-lang](https://crates.io/crates/bcgen-lang) | 0.2.0 | 0 | Compiles HIR to LSB bytecode: the path from a forged language's meaning to code… |
-| 2026-10-09 04:18:16 | [opeo](https://crates.io/crates/opeo) | 0.1.0 | 0 | Out-parameter error handling with typed failure proofs |
+| 2026-10-09 04:20:27 | [quarb-time](https://crates.io/crates/quarb-time) | 0.34.0 | 0 | Quarb's time: instants and durations (ISO 8601, strptime/strftime), periods and… |
+| 2026-10-09 04:20:41 | [quarb-cypher](https://crates.io/crates/quarb-cypher) | 0.34.0 | 0 | What the Cypher-speaking Quarb adapters share: literal and identifier spellings… |
+| 2026-10-09 04:20:48 | [quarb-http](https://crates.io/crates/quarb-http) | 0.34.0 | 0 | The HTTP client the Quarb adapters share: one agent with timeouts |
+| 2026-10-09 04:21:22 | [quarb-logs](https://crates.io/crates/quarb-logs) | 0.34.0 | 0 | What the Quarb log adapters share: the decoded field tree, JSON and timestamp d… |
+| 2026-10-09 04:22:30 | [rq-library](https://crates.io/crates/rq-library) | 1.1.0 | 0 | RaptorQ erasure coding for files, with a C API and a browser WASM build |
+| 2026-10-09 04:23:18 | [agentstategraph-policy](https://crates.io/crates/agentstategraph-policy) | 0.0.1 | 0 | Policy primitive (authorization + change-cost gating + fallback) for AgentState… |
+| 2026-10-09 04:23:42 | [mere-curation](https://crates.io/crates/mere-curation) | 0.1.0 | 0 | View-local graph curation for Mere: subgraph specifications now, folds and othe… |
+| 2026-10-09 04:24:45 | [pith-file](https://crates.io/crates/pith-file) | 0.1.0 | 0 | File-domain hashing for the pith suite: FastCDC chunk signatures, exact chunk-s… |
+| 2026-10-09 04:27:59 | [tree-sitter-saw-script](https://crates.io/crates/tree-sitter-saw-script) | 0.1.0 | 0 | SAWScript grammar for tree-sitter |
+| 2026-10-09 04:33:12 | [time-mcp](https://crates.io/crates/time-mcp) | 1.1.1 | 0 | A super basic MCP server that exposes current time information |
+| 2026-10-09 04:33:47 | [agentstategraph-taint](https://crates.io/crates/agentstategraph-taint) | 0.0.1 | 0 | Taint / quarantine / watch substrate for AgentStateGraph |
+| 2026-10-09 04:37:27 | [ostool-serial](https://crates.io/crates/ostool-serial) | 0.1.0 | 0 | On-demand serial discovery and ownership for axloader sessions |
+| 2026-10-09 04:37:31 | [eggpool-provider-profile](https://crates.io/crates/eggpool-provider-profile) | 0.1.0 | 0 | Neutral secret-free sans-I/O provider-profile contract and canonical bundled pr… |
+| 2026-10-09 04:37:36 | [m4h](https://crates.io/crates/m4h) | 0.0.1 | 0 | M4H (Multi4Hyper): a Rust multikernel for hyper-scale BEAM workloads. Ad astra… |
+| 2026-10-09 04:42:07 | [incurs-mcp-apps](https://crates.io/crates/incurs-mcp-apps) | 0.1.0 | 0 | Provider-neutral MCP App runtime bridge for Rust and WASM clients |
+| 2026-10-09 04:42:13 | [incurs-openai-mcp-protocol](https://crates.io/crates/incurs-openai-mcp-protocol) | 0.1.0 | 0 | Portable OpenAI MCP extension wire models and validators |
+| 2026-10-09 04:44:15 | [agentstategraph-tasks](https://crates.io/crates/agentstategraph-tasks) | 0.0.1 | 0 | Shared task-store primitives built on AgentStateGraph |
+| 2026-10-09 04:45:56 | [incurs-openai-mcp](https://crates.io/crates/incurs-openai-mcp) | 0.1.0 | 0 | Server-side OpenAI MCP extension helpers for incurs |
+| 2026-10-09 04:46:18 | [incurs-openai-mcp-app](https://crates.io/crates/incurs-openai-mcp-app) | 0.1.0 | 0 | OpenAI MCP App helper surface for Rust and WASM clients |
+| 2026-10-09 04:51:43 | [incurs-openapi](https://crates.io/crates/incurs-openapi) | 0.1.0 | 0 | Compile OpenAPI contracts into Rust SDKs, documentation, and incurs tools |
+| 2026-10-09 04:54:40 | [agentstategraph-reminders](https://crates.io/crates/agentstategraph-reminders) | 0.0.1 | 0 | Agent reminder substrate for AgentStateGraph — schedule, track, and execute fut… |
+| 2026-10-09 04:57:48 | [uta](https://crates.io/crates/uta) | 0.1.1 | 0 | Command-line music search and downloader for QQ Music and NetEase Cloud Music,… |
+| 2026-10-09 05:05:11 | [agentstategraph-migrate](https://crates.io/crates/agentstategraph-migrate) | 0.0.1 | 0 | Schema migration registry for AgentStateGraph databases |
+| 2026-10-09 05:08:57 | [quarb-open](https://crates.io/crates/quarb-open) | 0.34.0 | 0 | One open for every target the Quarb tools speak: files, readings, archives, dat… |
+| 2026-10-09 05:10:36 | [agentstategraph-ffi](https://crates.io/crates/agentstategraph-ffi) | 0.0.1 | 0 | C ABI for AgentStateGraph — enables Go, Ruby, Java, C# bindings |
+| 2026-10-09 05:17:05 | [aegis-filter](https://crates.io/crates/aegis-filter) | 0.1.0 | 0 | High-integrity, cyber-resilient state estimation and robust filtering engine in… |
 
 ## Data source
 
