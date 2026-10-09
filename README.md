@@ -8,55 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 17:19 UTC
+## Latest list — 2026-10-09 18:18 UTC
 
-New crates published between 2026-10-09 16:18 UTC and 2026-10-09 17:19 UTC.
+New crates published between 2026-10-09 17:19 UTC and 2026-10-09 18:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-09T17-19-03-973928Z.csv)
+[Full CSV](data/new-crates-2026-10-09T18-18-52-353662Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-09 16:24:22 | [mosaica-wire](https://crates.io/crates/mosaica-wire) | 0.0.0 | 0 | Reserved for Mosaica. The first release is on its way. |
-| 2026-10-09 16:26:01 | [portpilot](https://crates.io/crates/portpilot) | 0.1.0 | 0 | Cross-platform port and process inspection toolkit for Rust. |
-| 2026-10-09 16:28:54 | [open-geocode](https://crates.io/crates/open-geocode) | 0.1.0 | 0 | Lightweight geocoding engine: build a binary Pack from OSM extracts and serve s… |
-| 2026-10-09 16:30:14 | [gpui-glint](https://crates.io/crates/gpui-glint) | 0.1.0 | 0 | A refined component library for GPUI-CE. |
-| 2026-10-09 16:31:35 | [czar-core](https://crates.io/crates/czar-core) | 0.1.0 | 0 | Core domain models, traits, and scheduler runtime for Czar |
-| 2026-10-09 16:31:40 | [czar-macros](https://crates.io/crates/czar-macros) | 0.1.0 | 0 | Proc macros for Czar Rust task authoring |
-| 2026-10-09 16:31:48 | [czar-store-file](https://crates.io/crates/czar-store-file) | 0.1.0 | 0 | File-backed state storage for Czar |
-| 2026-10-09 16:32:03 | [czar-store-sqlite](https://crates.io/crates/czar-store-sqlite) | 0.1.0 | 0 | SQLite state storage for Czar |
-| 2026-10-09 16:32:19 | [czar-store-postgres](https://crates.io/crates/czar-store-postgres) | 0.1.0 | 0 | Postgres state storage for Czar |
-| 2026-10-09 16:32:28 | [mosaica-python](https://crates.io/crates/mosaica-python) | 0.0.0 | 0 | Reserved for Mosaica. The first release is on its way. |
-| 2026-10-09 16:36:38 | [oxpdf-convert](https://crates.io/crates/oxpdf-convert) | 1.4.0 | 0 | Universal pure-Rust document format conversion engine for oxpdf (Markdown, HTML… |
-| 2026-10-09 16:38:07 | [cure-engine](https://crates.io/crates/cure-engine) | 0.1.0 | 0 | Language-agnostic semantic code simplification engine (patterns, rewrites, pass… |
-| 2026-10-09 16:38:14 | [cure-tree](https://crates.io/crates/cure-tree) | 0.1.0 | 0 | Generic arena-tree toolkit for cure language frontends: inline ChildList, name… |
-| 2026-10-09 16:38:21 | [cure-java-ast](https://crates.io/crates/cure-java-ast) | 0.1.0 | 0 | Java AST (arena + NodeId + builder) with cure Lang implementation |
-| 2026-10-09 16:39:45 | [osc7501](https://crates.io/crates/osc7501) | 0.1.0 | 0 | A WIP implementation of osc7501 |
-| 2026-10-09 16:41:16 | [czar-store-d1](https://crates.io/crates/czar-store-d1) | 0.1.0 | 0 | Cloudflare D1 database backend for Czar state storage |
-| 2026-10-09 16:42:40 | [ek-converter](https://crates.io/crates/ek-converter) | 0.1.0 | 0 | Offset/position conversion for the enkeep ek ecosystem: per-symbol today/yester… |
-| 2026-10-09 16:44:35 | [mosaica-lifecycle](https://crates.io/crates/mosaica-lifecycle) | 0.0.0 | 0 | Reserved for Mosaica. The first release is on its way. |
-| 2026-10-09 16:48:02 | [debrief-review](https://crates.io/crates/debrief-review) | 0.1.0 | 0 | Review comments on files and diffs, batched per repo and handed back to an agent |
-| 2026-10-09 16:48:04 | [debrief](https://crates.io/crates/debrief) | 0.1.0 | 0 | Catch up with what the agents committed, and answer back |
-| 2026-10-09 16:49:30 | [byom](https://crates.io/crates/byom) | 0.4.2 | 0 | Bring your own model to Claude Code: every model you can sign in to, in the sam… |
-| 2026-10-09 16:51:25 | [czar-executors](https://crates.io/crates/czar-executors) | 0.1.0 | 0 | Executor backends used by Czar for local and cloud task execution |
-| 2026-10-09 16:52:40 | [mosaica-filter](https://crates.io/crates/mosaica-filter) | 0.0.0 | 0 | Reserved for Mosaica. The first release is on its way. |
-| 2026-10-09 16:55:10 | [caps_readline](https://crates.io/crates/caps_readline) | 0.1.0 | 0 | A lightweight Windows Keyboard Hook tool that brings Readline keybindings to Ca… |
-| 2026-10-09 16:55:42 | [sonorant](https://crates.io/crates/sonorant) | 0.0.1 | 0 | Vocal resonance and voice-quality analysis for the Sonorant project |
-| 2026-10-09 16:55:43 | [srk-weather-tui](https://crates.io/crates/srk-weather-tui) | 0.2.2 | 0 | Cool terminal weather TUI — SRK Master Stack |
-| 2026-10-09 16:55:45 | [sonorant-core](https://crates.io/crates/sonorant-core) | 0.0.1 | 0 | Numerical kernels: FFT wrappers, LPC, YIN pitch tracking, cepstral analysis |
-| 2026-10-09 16:55:47 | [sonorant-analysis](https://crates.io/crates/sonorant-analysis) | 0.0.1 | 0 | Frame pipeline, AnalysisFrame assembly and session state |
-| 2026-10-09 16:55:50 | [sonorant-capture](https://crates.io/crates/sonorant-capture) | 0.0.1 | 0 | Native audio capture and device enumeration |
-| 2026-10-09 16:55:52 | [sonorant-calibrate](https://crates.io/crates/sonorant-calibrate) | 0.0.1 | 0 | SPL calibration storage and dBFS to dB SPL conversion |
-| 2026-10-09 16:56:06 | [aless](https://crates.io/crates/aless) | 0.1.0 | 0 | Terminal viewer and JSON CLI for JSON, YAML, TOML, CSV, XML and more |
-| 2026-10-09 17:01:39 | [czar-gcp](https://crates.io/crates/czar-gcp) | 0.1.0 | 0 | Google Cloud integrations for Czar |
-| 2026-10-09 17:02:48 | [mosaica-filter-write](https://crates.io/crates/mosaica-filter-write) | 0.0.0 | 0 | Reserved for Mosaica. The first release is on its way. |
-| 2026-10-09 17:03:36 | [deslag](https://crates.io/crates/deslag) | 0.0.0 | 0 | A linter for LLM-authored prose. |
-| 2026-10-09 17:11:43 | [cure-java-print](https://crates.io/crates/cure-java-print) | 0.1.0 | 0 | Canonical Java source printer / formatter over cure-java-ast |
-| 2026-10-09 17:11:47 | [czar-store](https://crates.io/crates/czar-store) | 0.1.0 | 0 | State facade and shared storage helpers for Czar |
-| 2026-10-09 17:11:54 | [cure-java-parser](https://crates.io/crates/cure-java-parser) | 0.1.0 | 0 | Fault-tolerant Java source parser producing cure-java-ast |
-| 2026-10-09 17:12:19 | [cure-java-simplify](https://crates.io/crates/cure-java-simplify) | 0.1.0 | 0 | Java simplification rules and facade over cure-engine |
-| 2026-10-09 17:12:55 | [mosaica-access](https://crates.io/crates/mosaica-access) | 0.0.0 | 0 | Reserved for Mosaica. The first release is on its way. |
-| 2026-10-09 17:13:30 | [cure-cli](https://crates.io/crates/cure-cli) | 0.1.0 | 0 | CLI for cure: fault-tolerant Java simplifier/formatter (source in, source out) |
-| 2026-10-09 17:16:49 | [pangraphx-core](https://crates.io/crates/pangraphx-core) | 0.1.0 | 0 | Core library for PanGraphX: a toolkit for genome graph loading and format conve… |
+| 2026-10-09 17:19:08 | [soml-lang](https://crates.io/crates/soml-lang) | 0.0.1 | 0 | SOML, a config format for humans: a strict reader, serde support, and a lossles… |
+| 2026-10-09 17:22:17 | [czar-web](https://crates.io/crates/czar-web) | 0.1.0 | 0 | Web UI and API server for Czar |
+| 2026-10-09 17:22:52 | [sonorant-archive](https://crates.io/crates/sonorant-archive) | 0.0.1 | 0 | Encrypted history export and import container |
+| 2026-10-09 17:22:54 | [sonorant-store](https://crates.io/crates/sonorant-store) | 0.0.1 | 0 | Local measurement store, schema and migrations |
+| 2026-10-09 17:23:02 | [mosaica-analyse](https://crates.io/crates/mosaica-analyse) | 0.0.0 | 0 | Reserved for Mosaica. The first release is on its way. |
+| 2026-10-09 17:24:58 | [cryptaudit](https://crates.io/crates/cryptaudit) | 0.1.0 | 0 | Static analysis for cryptographic API misuse in Rust code (cargo subcommand: ca… |
+| 2026-10-09 17:28:58 | [bsv-tracker](https://crates.io/crates/bsv-tracker) | 0.1.0 | 0 | A transaction evidence state machine with host supplied headers, proofs, hints… |
+| 2026-10-09 17:33:08 | [mosaica-authz](https://crates.io/crates/mosaica-authz) | 0.0.0 | 0 | Reserved for Mosaica. The first release is on its way. |
+| 2026-10-09 17:33:18 | [czar-worker](https://crates.io/crates/czar-worker) | 0.1.0 | 0 | Stateless worker server for Czar compile/execute task paths |
+| 2026-10-09 17:38:02 | [tishlang_ms_common](https://crates.io/crates/tishlang_ms_common) | 1.0.0 | 0 | Shared vnode tree, layout and style helpers for the Windows Tish UI hosts |
+| 2026-10-09 17:38:10 | [tishlang_windows](https://crates.io/crates/tishlang_windows) | 1.0.0 | 0 | Win32 native UI host and system services for Tish JSX (Windows) |
+| 2026-10-09 17:39:53 | [cimoxide-lsp](https://crates.io/crates/cimoxide-lsp) | 0.5.0 | 0 | cimlsp: language server for ENTSO-E CGMES and NC RDF/XML — SHACL validation as… |
+| 2026-10-09 17:39:53 | [cimoxide-mcp](https://crates.io/crates/cimoxide-mcp) | 0.5.0 | 0 | cimmcp: Model Context Protocol server for ENTSO-E CGMES and NC RDF/XML — lets a… |
+| 2026-10-09 17:41:24 | [horton](https://crates.io/crates/horton) | 0.18.0 | 0 | Zero-dependency, zero-allocation LSM-tree KV store (no_std, no_alloc) |
+| 2026-10-09 17:43:14 | [mosaica-cache](https://crates.io/crates/mosaica-cache) | 0.0.0 | 0 | Reserved for Mosaica. The first release is on its way. |
+| 2026-10-09 17:43:33 | [czar-tui](https://crates.io/crates/czar-tui) | 0.1.0 | 0 | Terminal UI for monitoring Czar workflow runs and tasks |
+| 2026-10-09 17:43:59 | [passweave](https://crates.io/crates/passweave) | 0.0.0 | 0 | Minimal utility library. Early-stage; API may change. |
+| 2026-10-09 17:44:13 | [lumera-sdk-rs](https://crates.io/crates/lumera-sdk-rs) | 0.1.0 | 0 | Rust SDK for Lumera chain + Cascade/sn-api workflows |
+| 2026-10-09 17:45:16 | [mdspec](https://crates.io/crates/mdspec) | 0.1.0 | 0 | Validate structured Markdown endpoint documentation |
+| 2026-10-09 17:47:58 | [xj_cmath](https://crates.io/crates/xj_cmath) | 0.1.0 | 0 | Safe Rust wrappers for C math.h functions |
+| 2026-10-09 17:48:58 | [ix-trusted-publishing-demo-crates](https://crates.io/crates/ix-trusted-publishing-demo-crates) | 0.1.1 | 0 | Minimal example for a technical article about trusted publishing |
+| 2026-10-09 17:52:38 | [mosaica-catalogue](https://crates.io/crates/mosaica-catalogue) | 0.0.0 | 0 | Reserved for Mosaica. The first release is on its way. |
+| 2026-10-09 17:53:41 | [oj_diag](https://crates.io/crates/oj_diag) | 0.2.22 | 0 | structured dev-server diagnostics: bounded event ring + NDJSON stderr output |
+| 2026-10-09 17:54:09 | [czar-cli](https://crates.io/crates/czar-cli) | 0.1.0 | 0 | Czar CLI and scheduler host process |
+| 2026-10-09 17:54:50 | [falsegreen-protocol](https://crates.io/crates/falsegreen-protocol) | 0.3.0 | 0 | FalseGreen wire protocol — the queue contract shared by the server and the job… |
+| 2026-10-09 18:00:34 | [collect-settings](https://crates.io/crates/collect-settings) | 0.1.1 | 0 | Build, encode and decode ODK Collect / KoboCollect configuration QR codes (sett… |
+| 2026-10-09 18:02:44 | [mosaica-config](https://crates.io/crates/mosaica-config) | 0.0.0 | 0 | Reserved for Mosaica. The first release is on its way. |
+| 2026-10-09 18:03:08 | [mptcp-rs](https://crates.io/crates/mptcp-rs) | 0.0.1 | 0 | Sans-I/O userspace implementation of the MPTCP protocol (RFC 8684) and TCP, cli… |
+| 2026-10-09 18:07:37 | [kurogane-layout](https://crates.io/crates/kurogane-layout) | 0.0.6-alpha.2 | 0 | Contract between a Kurogane bundle and the runtime that runs it |
+| 2026-10-09 18:07:38 | [tanso-build](https://crates.io/crates/tanso-build) | 154.4.0+154.0.33 | 0 | Build-script helpers for applications on tetsu |
+| 2026-10-09 18:07:42 | [tanso-sys](https://crates.io/crates/tanso-sys) | 154.4.0+154.0.33 | 0 | Generated bindings to the Chromium Embedded Framework's C API, loading libcef a… |
+| 2026-10-09 18:07:46 | [kurogane-build](https://crates.io/crates/kurogane-build) | 0.0.6-alpha.2 | 0 | Build-time setup for Kurogane applications |
+| 2026-10-09 18:07:50 | [tanso](https://crates.io/crates/tanso) | 154.4.0+154.0.33 | 0 | Rust bindings to the Chromium Embedded Framework |
+| 2026-10-09 18:09:38 | [metriken-model](https://crates.io/crates/metriken-model) | 0.1.0 | 0 | The metriken observation model: snapshots, group schemas and the rows a recordi… |
+| 2026-10-09 18:12:51 | [mosaica-corpus](https://crates.io/crates/mosaica-corpus) | 0.0.0 | 0 | Reserved for Mosaica. The first release is on its way. |
+| 2026-10-09 18:14:36 | [crc-rust-core](https://crates.io/crates/crc-rust-core) | 0.1.0 | 0 | Pure-Rust CRC core (rustsmith Stage-1 mirror of Nicoretti/crc); no Python depen… |
+| 2026-10-09 18:14:41 | [dateutil-core](https://crates.io/crates/dateutil-core) | 2.9.0 | 0 | Pure-Rust dateutil engine: rrule recurrence, relativedelta arithmetic, tz resol… |
+| 2026-10-09 18:14:49 | [soroban-testkit-core](https://crates.io/crates/soroban-testkit-core) | 0.3.0 | 0 | Core utilities for the Soroban Testkit testing framework |
+| 2026-10-09 18:15:58 | [soroban-testkit-assert](https://crates.io/crates/soroban-testkit-assert) | 0.3.0 | 0 | Ergonomic assertion macros for Soroban smart contract testing |
+| 2026-10-09 18:16:48 | [soroban-testkit-fixtures](https://crates.io/crates/soroban-testkit-fixtures) | 0.3.0 | 0 | Reusable test fixture and setup framework for Soroban contracts |
+| 2026-10-09 18:17:22 | [soroban-testkit-generators](https://crates.io/crates/soroban-testkit-generators) | 0.3.0 | 0 | Soroban-aware property testing generators for proptest and arbitrary |
+| 2026-10-09 18:17:45 | [kurogane](https://crates.io/crates/kurogane) | 0.0.6-alpha.2 | 0 | A composable Chromium runtime for Rust |
+| 2026-10-09 18:18:14 | [kdx-proto](https://crates.io/crates/kdx-proto) | 0.0.0 | 0 | Placeholder for the kdx project, a Rust implementation of the Haxial KDX protoc… |
+| 2026-10-09 18:18:16 | [kdx-client](https://crates.io/crates/kdx-client) | 0.0.0 | 0 | Placeholder for the kdx project, a Rust implementation of the Haxial KDX protoc… |
+| 2026-10-09 18:18:18 | [kdx-server](https://crates.io/crates/kdx-server) | 0.0.0 | 0 | Placeholder for the kdx project, a Rust implementation of the Haxial KDX protoc… |
+| 2026-10-09 18:18:20 | [kdx-tracker](https://crates.io/crates/kdx-tracker) | 0.0.0 | 0 | Placeholder for the kdx project, a Rust implementation of the Haxial KDX protoc… |
+| 2026-10-09 18:18:21 | [kdx-codec](https://crates.io/crates/kdx-codec) | 0.0.0 | 0 | Placeholder for the kdx project, a Rust implementation of the Haxial KDX protoc… |
 
 ## Data source
 

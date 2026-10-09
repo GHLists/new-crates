@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T17:19:08.254422Z,soml-lang,0.0.1,0,0,https://github.com/soml-lang/soml-rust,"SOML, a config format for humans: a strict reader, serde support, and a lossless syntax tree"
+2026-10-09T17:22:17.493893Z,czar-web,0.1.0,0,0,https://github.com/czarhq/czar,Web UI and API server for Czar
+2026-10-09T17:22:52.217063Z,sonorant-archive,0.0.1,0,0,https://github.com/therebelrobot/sonorant,Encrypted history export and import container
+2026-10-09T17:22:54.780715Z,sonorant-store,0.0.1,0,0,https://github.com/therebelrobot/sonorant,"Local measurement store, schema and migrations"
+2026-10-09T17:23:02.150908Z,mosaica-analyse,0.0.0,0,0,https://github.com/jennis0/tesseradb,Reserved for Mosaica. The first release is on its way.
+2026-10-09T17:24:58.509234Z,cryptaudit,0.1.0,0,0,https://github.com/Shubham-0-0-7/cryptaudit,Static analysis for cryptographic API misuse in Rust code (cargo subcommand: cargo cryptaudit)
+2026-10-09T17:28:58.606209Z,bsv-tracker,0.1.0,0,0,https://github.com/Calhooon/bsv-tracker,"A transaction evidence state machine with host supplied headers, proofs, hints and time"
+2026-10-09T17:33:08.480264Z,mosaica-authz,0.0.0,0,0,https://github.com/jennis0/tesseradb,Reserved for Mosaica. The first release is on its way.
+2026-10-09T17:33:18.793409Z,czar-worker,0.1.0,0,0,https://github.com/czarhq/czar,Stateless worker server for Czar compile/execute task paths
+2026-10-09T17:38:02.47675Z,tishlang_ms_common,1.0.0,0,0,https://github.com/tishlang/tish-ms,"Shared vnode tree, layout and style helpers for the Windows Tish UI hosts"
+2026-10-09T17:38:10.305228Z,tishlang_windows,1.0.0,0,0,https://github.com/tishlang/tish-ms,Win32 native UI host and system services for Tish JSX (Windows)
+2026-10-09T17:39:53.549475Z,cimoxide-lsp,0.5.0,0,0,https://github.com/m-mirz/cimoxide,"cimlsp: language server for ENTSO-E CGMES and NC RDF/XML — SHACL validation as diagnostics, hover, go to definition"
+2026-10-09T17:39:53.889972Z,cimoxide-mcp,0.5.0,0,0,https://github.com/m-mirz/cimoxide,"cimmcp: Model Context Protocol server for ENTSO-E CGMES and NC RDF/XML — lets an LLM chat look up, validate and query a model set"
+2026-10-09T17:41:24.61477Z,horton,0.18.0,0,0,https://github.com/madmax983/horton,"Zero-dependency, zero-allocation LSM-tree KV store (no_std, no_alloc)"
+2026-10-09T17:43:14.920072Z,mosaica-cache,0.0.0,0,0,https://github.com/jennis0/tesseradb,Reserved for Mosaica. The first release is on its way.
+2026-10-09T17:43:33.677549Z,czar-tui,0.1.0,0,0,https://github.com/czarhq/czar,Terminal UI for monitoring Czar workflow runs and tasks
+2026-10-09T17:43:59.740323Z,passweave,0.0.0,0,0,,Minimal utility library. Early-stage; API may change.
+2026-10-09T17:44:13.872491Z,lumera-sdk-rs,0.1.0,0,0,https://github.com/LumeraProtocol/releases,Rust SDK for Lumera chain + Cascade/sn-api workflows
+2026-10-09T17:45:16.692607Z,mdspec,0.1.0,0,0,https://github.com/l3r8yJ/mdspec,Validate structured Markdown endpoint documentation
+2026-10-09T17:47:58.201702Z,xj_cmath,0.1.0,0,0,https://github.com/brk/xj_cmath,Safe Rust wrappers for C math.h functions
+2026-10-09T17:48:58.65385Z,ix-trusted-publishing-demo-crates,0.1.1,0,0,https://github.com/fdeitelhoff/ix-trusted-publishing-demo-crates,Minimal example for a technical article about trusted publishing
+2026-10-09T17:52:38.415141Z,mosaica-catalogue,0.0.0,0,0,https://github.com/jennis0/tesseradb,Reserved for Mosaica. The first release is on its way.
+2026-10-09T17:53:41.974192Z,oj_diag,0.2.22,0,0,https://github.com/lovablelabs/oj,structured dev-server diagnostics: bounded event ring + NDJSON stderr output
+2026-10-09T17:54:09.816534Z,czar-cli,0.1.0,0,0,https://github.com/czarhq/czar,Czar CLI and scheduler host process
+2026-10-09T17:54:50.639513Z,falsegreen-protocol,0.3.0,0,0,https://github.com/truemagic-coder/falsegreen,"FalseGreen wire protocol — the queue contract shared by the server and the job container: JobData, JobResult, verdicts"
+2026-10-09T18:00:34.022535Z,collect-settings,0.1.1,0,0,https://github.com/Prompt-Consultoria/collect-settings,"Build, encode and decode ODK Collect / KoboCollect configuration QR codes (settings JSON → zlib → base64 → QR)."
+2026-10-09T18:02:44.718916Z,mosaica-config,0.0.0,0,0,https://github.com/jennis0/tesseradb,Reserved for Mosaica. The first release is on its way.
+2026-10-09T18:03:08.088058Z,mptcp-rs,0.0.1,0,0,https://github.com/mp0rta/mptcp-rs,"Sans-I/O userspace implementation of the MPTCP protocol (RFC 8684) and TCP, client side"
+2026-10-09T18:07:37.546282Z,kurogane-layout,0.0.6-alpha.2,0,0,https://github.com/0x48piraj/kurogane,Contract between a Kurogane bundle and the runtime that runs it
+2026-10-09T18:07:38.773096Z,tanso-build,154.4.0+154.0.33,0,0,https://github.com/kurogane-rs/tetsu,Build-script helpers for applications on tetsu
+2026-10-09T18:07:42.082227Z,tanso-sys,154.4.0+154.0.33,0,0,https://github.com/kurogane-rs/tetsu,"Generated bindings to the Chromium Embedded Framework's C API, loading libcef at run time"
+2026-10-09T18:07:46.659231Z,kurogane-build,0.0.6-alpha.2,0,0,https://github.com/0x48piraj/kurogane,Build-time setup for Kurogane applications
+2026-10-09T18:07:50.011295Z,tanso,154.4.0+154.0.33,0,0,https://github.com/kurogane-rs/tetsu,Rust bindings to the Chromium Embedded Framework
+2026-10-09T18:09:38.415236Z,metriken-model,0.1.0,0,0,https://github.com/iopsystems/metriken,"The metriken observation model: snapshots, group schemas and the rows a recording stores"
+2026-10-09T18:12:51.656867Z,mosaica-corpus,0.0.0,0,0,https://github.com/jennis0/tesseradb,Reserved for Mosaica. The first release is on its way.
+2026-10-09T18:14:36.620092Z,crc-rust-core,0.1.0,0,0,https://github.com/John-Cusack/crc-rust,Pure-Rust CRC core (rustsmith Stage-1 mirror of Nicoretti/crc); no Python dependency
+2026-10-09T18:14:41.906512Z,dateutil-core,2.9.0,0,0,https://github.com/John-Cusack/dateutil-rust,"Pure-Rust dateutil engine: rrule recurrence, relativedelta arithmetic, tz resolution, fuzzy/ISO parsing (rustsmith Stage-1 mirror core)"
+2026-10-09T18:14:49.94763Z,soroban-testkit-core,0.3.0,0,0,https://github.com/stellar-crucible/soroban-testkit,Core utilities for the Soroban Testkit testing framework
+2026-10-09T18:15:58.810769Z,soroban-testkit-assert,0.3.0,0,0,https://github.com/stellar-crucible/soroban-testkit,Ergonomic assertion macros for Soroban smart contract testing
+2026-10-09T18:16:48.802374Z,soroban-testkit-fixtures,0.3.0,0,0,https://github.com/stellar-crucible/soroban-testkit,Reusable test fixture and setup framework for Soroban contracts
+2026-10-09T18:17:22.826008Z,soroban-testkit-generators,0.3.0,0,0,https://github.com/stellar-crucible/soroban-testkit,Soroban-aware property testing generators for proptest and arbitrary
+2026-10-09T18:17:45.114414Z,kurogane,0.0.6-alpha.2,0,0,https://github.com/0x48piraj/kurogane,A composable Chromium runtime for Rust
+2026-10-09T18:18:14.655488Z,kdx-proto,0.0.0,0,0,https://github.com/scottanderson/kdx,"Placeholder for the kdx project, a Rust implementation of the Haxial KDX protocol; not yet usable"
+2026-10-09T18:18:16.654509Z,kdx-client,0.0.0,0,0,https://github.com/scottanderson/kdx,"Placeholder for the kdx project, a Rust implementation of the Haxial KDX protocol; not yet usable"
+2026-10-09T18:18:18.5014Z,kdx-server,0.0.0,0,0,https://github.com/scottanderson/kdx,"Placeholder for the kdx project, a Rust implementation of the Haxial KDX protocol; not yet usable"
+2026-10-09T18:18:20.364944Z,kdx-tracker,0.0.0,0,0,https://github.com/scottanderson/kdx,"Placeholder for the kdx project, a Rust implementation of the Haxial KDX protocol; not yet usable"
+2026-10-09T18:18:21.997597Z,kdx-codec,0.0.0,0,0,https://github.com/scottanderson/kdx,"Placeholder for the kdx project, a Rust implementation of the Haxial KDX protocol; not yet usable"
