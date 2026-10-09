@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T02:22:36.08236Z,agentstategraph-storage,0.0.1,0,0,https://github.com/agentstatelabs/agentstategraph,Pluggable storage backends for AgentStateGraph
+2026-10-09T02:23:20.60722Z,lower-lang,0.2.0,0,0,https://github.com/jamesgober/lower-lang,Lowers lossless syntax trees into HIR through declarative semantic archetypes and hygienic templates.
+2026-10-09T02:28:40.838609Z,rightkit-ownership,0.2.0,0,0,https://github.com/bogusyogi/claude,"RightKit ownership scanner, verdict and admission: the single Rust implementation the RustRight broker links."
+2026-10-09T02:33:10.466176Z,agentstategraph-mcp,0.0.1,0,0,https://github.com/agentstatelabs/agentstategraph,MCP server for AgentStateGraph — AI-native versioned state store
+2026-10-09T02:36:11.711775Z,publet-core,0.1.2,0,0,https://github.com/schryer/publet,"Objects, canonical CBOR, content identifiers, and signatures."
+2026-10-09T02:39:48.164409Z,vectr-core,0.1.0-pre.1,0,0,https://github.com/vanguard-op/vectr,"Vectr scene engine: parse, validate, resolve, style, compile, and export."
+2026-10-09T02:39:55.292053Z,vectr-project,0.1.0-pre.1,0,0,https://github.com/vanguard-op/vectr,Vectr project loading: the style assets a scene's project provides and the embedded authoring guide.
+2026-10-09T02:39:58.824967Z,vectr-cli,0.1.0-pre.1,0,0,https://github.com/vanguard-op/vectr,Vectr command-line interface.
+2026-10-09T02:40:01.820148Z,vectr-mcp,0.1.0-pre.1,0,0,https://github.com/vanguard-op/vectr,Vectr MCP server.
+2026-10-09T02:40:05.541085Z,rightkit-fsindex,0.1.0,0,0,https://github.com/bogusyogi/claude,Live whole-disk file index: fuzzy name search plus clone- and hard-link-aware folder size rollups
+2026-10-09T02:43:44.391623Z,ctxone-hub,0.0.1,0,0,https://github.com/agentstatelabs/ctxone,CTXone Hub — MCP server for AI agent memory
+2026-10-09T02:49:42.506825Z,cutver-pdk,0.1.0,0,0,https://github.com/cutver/cutver,Wire contract shared by the Cutver core and its plugins
+2026-10-09T02:50:28.729988Z,pith-text,0.1.0,0,0,https://github.com/pith-hash/pith-text,"Text fingerprints: NFC canonicalisation, word 3-shingles and a 128-word MinHash signature"
+2026-10-09T02:51:26.283547Z,fmt-lang,0.2.0,0,0,https://github.com/jamesgober/fmt-lang,"Rule-driven source formatter over lossless syntax trees, rendering through pretty-lang."
+2026-10-09T02:52:45.574023Z,pith-zip,0.1.0,0,0,,"ZIP container reading: stored and deflated entries, plus a minimal XML reader"
+2026-10-09T02:53:08.159776Z,pith-pdf,0.1.0,0,0,https://github.com/pith-hash/pith-pdf,"PDF text extraction across classic xref, xref streams, cmap and CID fonts"
+2026-10-09T02:54:15.322052Z,oxtel-prometheus,0.0.1,0,0,https://github.com/agentstatelabs/oxtel,Prometheus and OpenMetrics exposition for oxtel (under development)
+2026-10-09T02:58:03.494943Z,ek-event,0.1.0,0,0,https://cnb.cool/enkeep/ek-event,"Self-contained event engine in Rust, a faithful semantic replication of enkeep_trade's event engine. No dependency on enkeep_trade."
+2026-10-09T03:01:45.188311Z,hwp_core,0.2.0,0,0,https://github.com/sephiron99/hwp_automation_rs,"Unofficial Rust bindings for Hancom HWP (Hangul Word Processor) COM/OLE automation: SDK methods, actions, and parameter sets (work in progress)"
+2026-10-09T03:01:59.271316Z,hwp_addon,0.2.0,0,0,https://github.com/sephiron99/hwp_automation_rs,"Unofficial framework for writing Hancom HWP (Hangul Word Processor) add-on DLLs (user actions, toolbar, shortcuts) in Rust"
+2026-10-09T03:02:15.90215Z,holon-model-client,0.1.0,0,0,https://github.com/holon-run/holon,Provider-neutral model client contracts with an OpenAI-compatible transport
+2026-10-09T03:02:42.621703Z,hwp_com,0.2.0,0,0,https://github.com/sephiron99/hwp_automation_rs,Unofficial OLE client for Hancom HWP (Hangul Word Processor): start or attach to a running HWP instance and control it from Rust
+2026-10-09T03:03:18.119683Z,xbrlkit-derive,0.1.0,0,0,https://github.com/r007/xbrlkit,#[derive(FromXbrl)] for xbrlkit: binds a struct's fields to XBRL concepts
+2026-10-09T03:03:28.050107Z,xbrlkit,0.1.0,0,0,https://github.com/r007/xbrlkit,Read SEC XBRL and inline XBRL filings into typed Rust structs
+2026-10-09T03:04:47.45421Z,agentstatedeveloper-core,0.0.1,0,0,https://github.com/agentstatelabs/AgentStateDeveloper,"Core types, traits, and ASG-backed implementations for AgentStateDeveloper"
+2026-10-09T03:15:16.324965Z,agentstatedeveloper-cli,0.0.1,0,0,https://github.com/agentstatelabs/AgentStateDeveloper,asd CLI — command-line interface for AgentStateDeveloper
+2026-10-09T03:17:35.170474Z,gnostr-n34,970575.1845.804934,0,0,https://github.com/gnostr-org/get_file_hash,A CLI to interact with NIP-34 and other stuff related to code in Nostr
