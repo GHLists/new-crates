@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T11:21:04.587958Z,burn_gekko_metrics,0.1.1,0,0,https://github.com/mosure/burn_gekko,Portable camera and reconstruction metrics shared by Burn Gekko evaluation and demos
+2026-10-09T11:21:08.960523Z,burn_gekko_inference,0.3.0,0,0,https://github.com/mosure/burn_gekko,"Checkpoint-verified, asynchronous native and WebGPU inference for Burn Gekko"
+2026-10-09T11:21:10.16695Z,burn_gekko_controller,0.2.0,0,0,https://github.com/mosure/burn_gekko,"Durable experiment queues, process supervision and GPU budget accounting"
+2026-10-09T11:22:10.227343Z,nisshi-storage-sql,0.1.0,0,0,https://github.com/nisshi-io/nisshi,SQL Storage Engine
+2026-10-09T11:24:21.518658Z,snarkrs,0.1.0,0,0,https://github.com/zemse/snarkrs,"Drop-in for the snarkjs command line: Groth16 on BN254, on the CPU, Metal, CUDA and WebGPU"
+2026-10-09T11:24:32.121176Z,nisshi-storage-slatedb,0.1.0,0,0,https://github.com/nisshi-io/nisshi,SlateDB Storage Engine
+2026-10-09T11:26:11.781533Z,cade,0.1.3,0,0,https://github.com/manic-systems/cade,"an intelligent, cascading environment manager"
+2026-10-09T11:27:49.206502Z,concurrent-intrusive-collections,0.3.0,0,0,https://github.com/zhongyi51/concurrent-intrusive-collections,Intrusive concurrent collections with Crossbeam epoch reclamation.
+2026-10-09T11:30:05.438018Z,aphrody-tauri,3.0.0-alpha.4,0,0,https://github.com/aphrody-labs/yolo,"Make tiny, secure apps for all desktop platforms with Tauri"
+2026-10-09T11:32:36.71132Z,cpd-similarity,0.1.0,0,0,https://github.com/kucherenko/jscpd,Structural similarity of functions for cpd: normalized syntax trees compared by their subtrees
+2026-10-09T11:33:21.922136Z,truncate-safe,0.1.0,0,0,https://github.com/robjtede/actix-web-lab,Truncate strings at UTF-8 character boundaries with an optional ellipsis
+2026-10-09T11:33:57.116043Z,sephera_compression,0.7.1,0,0,https://github.com/Reim-developer/Sephera,"Tree-sitter AST compression: skeleton, signatures, and structure extraction."
+2026-10-09T11:33:59.299318Z,sephera_ignore,0.7.1,0,0,https://github.com/Reim-developer/Sephera,"Git-aware ignore rules (.gitignore, .sepheraignore) with globset matching."
+2026-10-09T11:34:01.715162Z,sephera_scan,0.7.1,0,0,https://github.com/Reim-developer/Sephera,Fast line-of-code counting with language-aware comment detection.
+2026-10-09T11:34:04.613196Z,sephera_context,0.7.1,0,0,https://github.com/Reim-developer/Sephera,"Deterministic, token-budgeted context pack building for LLM prompts."
+2026-10-09T11:34:08.038583Z,sephera_symbols,0.7.1,0,0,https://github.com/Reim-developer/Sephera,Symbol extraction and declaration analysis across languages.
+2026-10-09T11:36:23.647458Z,tuitube,0.1.0,0,0,https://github.com/erictran308/tuitube,"YouTube in your terminal: a vim-style client with local subscriptions, built on yt-dlp and mpv"
+2026-10-09T11:37:08.673141Z,weak_borrow,0.1.1,0,0,https://github.com/island-io/weak_borrow,Sendable weak borrows of !Send types.
+2026-10-09T11:39:09.46757Z,aphrody-tauri-runtime-cef,3.0.0-alpha.5,0,0,https://github.com/aphrody-labs/yolo,Tauri runtime interface for Chromium Embedded Framework
+2026-10-09T11:47:44.248679Z,decdn-protocol,0.0.1,0,0,https://github.com/decdn/decdn,Wire protocol types and ALPN definitions for deCDN
+2026-10-09T11:47:54.423192Z,decdn-config-types,0.0.1,0,0,https://github.com/decdn/decdn,Leaf crate: config-vocabulary types shared by decdn-cache and decdn-common (no iroh-blobs / no AWS SDK)
+2026-10-09T11:48:02.929707Z,splitfire-agent,1.0.0,0,0,https://github.com/splitfireai/splitfire-agent,"Music-domain ACP agent: theory, production, industry, culture and live shows, backed by any OpenAI-compatible chat completions API"
+2026-10-09T11:48:03.129808Z,decdn-bao-range,0.0.1,0,0,https://github.com/decdn/decdn,"Leaf crate: iroh-blobs-free bao verified-range helpers (chunk-group alignment, encoded-size, range encode/verify) shared by decdn-cache (serve/import) and decdn-client (receive). Depends only on bao-…"
+2026-10-09T11:48:42.426247Z,tmxr-proto,0.2.4,0,0,https://github.com/kryptic-sh/tmxr,"Client/server wire protocol for tmxr: message types, framing and socket paths."
+2026-10-09T11:48:42.506496Z,datadeft-auth-token-core,0.4.0,0,0,https://github.com/DataDeft/datadeft-auth,Reusable base62 and Branca token primitives.
+2026-10-09T11:48:47.235679Z,datadeft-pow-core,0.4.0,0,0,https://github.com/DataDeft/datadeft-auth,"Pure, IO-free proof-of-work challenge mint/verify."
+2026-10-09T11:48:51.384754Z,datadeft-pow-axum,0.4.0,0,0,https://github.com/DataDeft/datadeft-auth,Optional Axum HTTP glue for the datadeft-pow-core proof-of-work admission gate.
+2026-10-09T11:48:54.509051Z,datadeft-magic-link-core,0.4.0,0,0,https://github.com/DataDeft/datadeft-auth,IO-free magic-link token grammar and auth primitives.
+2026-10-09T11:48:58.743612Z,datadeft-magic-link-service,0.4.0,0,0,https://github.com/DataDeft/datadeft-auth,Framework-neutral magic-link request and scanner-safe authentication orchestration.
+2026-10-09T11:49:10.590348Z,tmxr-command,0.2.4,0,0,https://github.com/kryptic-sh/tmxr,"tmux-compatible command language for tmxr: parser, key names and formats."
+2026-10-09T11:49:22.163386Z,decdn-common,0.0.1,0,0,https://github.com/decdn/decdn,"Shared types for deCDN binaries: config schema, identity, CLI args"
+2026-10-09T11:49:42.098883Z,tmxr-config,0.2.4,0,0,https://github.com/kryptic-sh/tmxr,"TOML configuration for tmxr, with the built-in default key binds."
+2026-10-09T11:50:04.402514Z,decdn-reputation,0.0.1,0,0,https://github.com/decdn/decdn,"Local per-peer reputation scoring for deCDN nodes (ADR 008): EWMA over observed outcomes, with no gossip aggregation"
+2026-10-09T11:50:10.696611Z,tmxr-term,0.2.4,0,0,https://github.com/kryptic-sh/tmxr,"One tmxr pane's terminal: PTY, vt100 emulation, input encoding, process inspection."
+2026-10-09T11:50:55.820184Z,tmxr-server,0.2.4,0,0,https://github.com/kryptic-sh/tmxr,"The tmxr server: sessions, windows, panes, key tables, rendering."
+2026-10-09T11:54:09.622785Z,datadeft-magic-link-aws,0.4.0,0,0,https://github.com/DataDeft/datadeft-auth,Optional AWS DynamoDB/SES adapters for datadeft-magic-link-service.
+2026-10-09T11:54:27.486659Z,onde-code,1.0.1,0,0,https://github.com/kelvin-soen/OndeCode,Onde Code is Onde Inference's ACP-compatible coding agent for model fine-tuning and deployment.
+2026-10-09T11:54:49.869729Z,tmxr-client,0.2.4,0,0,https://github.com/kryptic-sh/tmxr,"The tmxr attach client: terminal setup, input pump, output writer."
+2026-10-09T11:58:33.92606Z,decdn-cache,0.0.1,0,0,https://github.com/decdn/decdn,Cache engine wrapping iroh-blobs with origin pull-through for deCDN
+2026-10-09T12:01:23.366632Z,animoria,2.3.0,0,0,https://github.com/sxnnyside-project/animoria,"High-performance Rust core engine for Animoria: visual asset discovery, format parsing, usage tracing, and governance."
+2026-10-09T12:01:59.049154Z,mysql-canal,0.0.3,0,0,https://github.com/tiyee/pikachu-rs,MySQL CDC conversion and committed transactions over mysql-replication
+2026-10-09T12:04:11.438963Z,winnow-rfc2046,0.0.0,0,0,,Temporary reservation for this crate name.
+2026-10-09T12:04:40.517617Z,paperback-rs,1.0.0,0,0,https://github.com/J0s3f/paperback.rs,"Store files on paper as dense, error-corrected bitmaps; compatible with PaperBack 1.10"
+2026-10-09T12:04:43.78805Z,paperback-rs-cli,1.0.0,0,0,https://github.com/J0s3f/paperback.rs,Command-line tool to write files to paper-ready images and read them back
+2026-10-09T12:04:50.180378Z,tmxr-cli,0.2.4,0,0,https://github.com/kryptic-sh/tmxr,"A tmux-style terminal multiplexer for Linux, macOS and Windows."
+2026-10-09T12:09:29.33141Z,decdn-incentive,0.0.1,0,0,https://github.com/decdn/decdn,"Payment channels, bonding, and voucher management for deCDN"
+2026-10-09T12:13:17.267752Z,untdid-macros,0.1.0,0,0,https://github.com/nepalez/untdid,Proc-macro for generating UN/EDIFACT code list types from the UNCL directory
+2026-10-09T12:13:23.602593Z,untdid,0.1.0,0,0,https://github.com/nepalez/untdid,UN/EDIFACT code lists of the UNTDID directory D.24A
+2026-10-09T12:15:24.251653Z,seekstorm_mcp_server,3.4.0,0,0,https://github.com/SeekStorm/seekstorm_mcp_server,MCP server for SeekStorm vector & lexical search

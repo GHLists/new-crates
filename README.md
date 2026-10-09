@@ -8,57 +8,63 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 11:20 UTC
+## Latest list — 2026-10-09 12:18 UTC
 
-New crates published between 2026-10-09 10:18 UTC and 2026-10-09 11:20 UTC.
+New crates published between 2026-10-09 11:20 UTC and 2026-10-09 12:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-09T11-20-12-232263Z.csv)
+[Full CSV](data/new-crates-2026-10-09T12-18-33-603391Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-09 10:18:56 | [aphrody-bun](https://crates.io/crates/aphrody-bun) | 1.0.0-canary | 0 | Native Rust plugin for Bun applications using bun:ffi. |
-| 2026-10-09 10:19:59 | [ek-data](https://crates.io/crates/ek-data) | 0.1.0 | 0 | Trading data contracts for the enkeep ek ecosystem: venue enums, zero-dep epoch… |
-| 2026-10-09 10:20:22 | [store-io-engine](https://crates.io/crates/store-io-engine) | 0.3.0 | 0 | The store-io engine: volumes, regions, barriers with flush sharing, receipts, p… |
-| 2026-10-09 10:22:16 | [ratatui-vim](https://crates.io/crates/ratatui-vim) | 0.1.2 | 0 | Vim for ratatui: paint the vimcore engine state (cursor, visual selections, sea… |
-| 2026-10-09 10:22:56 | [kobe-vault](https://crates.io/crates/kobe-vault) | 4.0.0 | 0 | Versioned AES-256-GCM envelope encryption and key derivation for Kobe |
-| 2026-10-09 10:25:33 | [snarkrs-cuda](https://crates.io/crates/snarkrs-cuda) | 0.1.0 | 0 | NVIDIA CUDA backend for the snarkrs Groth16 prover |
-| 2026-10-09 10:26:59 | [mdbook-pdf-chapters](https://crates.io/crates/mdbook-pdf-chapters) | 0.1.14 | 0 | A backend for mdBook written in Rust for generating PDF based on headless chrom… |
-| 2026-10-09 10:29:43 | [cumulus3d-sfm](https://crates.io/crates/cumulus3d-sfm) | 0.3.1 | 0 | Global and incremental structure-from-motion: rotation averaging, positioning,… |
-| 2026-10-09 10:30:25 | [aphrody-tauri-utils](https://crates.io/crates/aphrody-tauri-utils) | 3.0.0-alpha.3 | 0 | Utilities for Tauri |
-| 2026-10-09 10:30:34 | [store-io-conformance](https://crates.io/crates/store-io-conformance) | 0.3.0 | 0 | The conformance suite every store-io platform backend must pass: the platform c… |
-| 2026-10-09 10:35:13 | [arty_macros_impl](https://crates.io/crates/arty_macros_impl) | 0.4.0 | 0 | Implementation of Arty runtime entry-point macros. |
-| 2026-10-09 10:35:22 | [snarkrs-metal](https://crates.io/crates/snarkrs-metal) | 0.1.0 | 0 | Apple Metal backend for the snarkrs Groth16 prover |
-| 2026-10-09 10:36:52 | [driftbrake-journal](https://crates.io/crates/driftbrake-journal) | 0.2.0 | 0 | Crash-resilient binary Write-Ahead Log (WAL) persistence for ReconcileHistory i… |
-| 2026-10-09 10:39:46 | [cumulus3d-cli](https://crates.io/crates/cumulus3d-cli) | 0.3.1 | 0 | cumulus3d command-line tool: progressive drone-image 3D reconstruction in one p… |
-| 2026-10-09 10:39:53 | [aphrody-tauri-codegen](https://crates.io/crates/aphrody-tauri-codegen) | 3.0.0-alpha.3 | 0 | code generation meant to be consumed inside of `tauri` through `tauri-build` or… |
-| 2026-10-09 10:40:31 | [alibi-plugins](https://crates.io/crates/alibi-plugins) | 0.2.0 | 0 | Built-in authentication plugins and API metadata for Alibi |
-| 2026-10-09 10:40:46 | [store-io-win](https://crates.io/crates/store-io-win) | 0.3.0 | 0 | Windows platform backend for store-io: unbuffered overlapped I/O on IOCP, NTFS… |
-| 2026-10-09 10:43:36 | [arty_macros](https://crates.io/crates/arty_macros) | 0.4.0 | 0 | Runtime entry-point macros for Arty. |
-| 2026-10-09 10:45:05 | [snarkrs-ceremony](https://crates.io/crates/snarkrs-ceremony) | 0.1.0 | 0 | snarkjs-compatible powers of tau and Groth16 phase 2 ceremony for snarkrs |
-| 2026-10-09 10:45:48 | [xrepl](https://crates.io/crates/xrepl) | 0.2.1 | 0 | Exact, escape-free, atomic string replacement in files for AI agents and scripts |
-| 2026-10-09 10:48:33 | [mysql-replication](https://crates.io/crates/mysql-replication) | 0.0.2 | 0 | Configurable MySQL replication with committed change event handlers |
-| 2026-10-09 10:48:57 | [store-io-posix](https://crates.io/crates/store-io-posix) | 0.3.0 | 0 | Linux synchronous backend for store-io: direct I/O, OFD locks, fallocate, FIEMA… |
-| 2026-10-09 10:49:12 | [aphrody-tauri-macros](https://crates.io/crates/aphrody-tauri-macros) | 3.0.0-alpha.3 | 0 | Macros for the tauri crate. |
-| 2026-10-09 10:51:05 | [openlark-pay](https://crates.io/crates/openlark-pay) | 0.21.0 | 0 | OpenLark 商店付费模块 - 查询订单详情、订单列表与开通范围 |
-| 2026-10-09 10:52:57 | [cimoxide-schema](https://crates.io/crates/cimoxide-schema) | 0.4.0 | 0 | Parser for ENTSO-E RDFS application profile schemas (CGMES, NCP) into a typed s… |
-| 2026-10-09 10:52:59 | [cimoxide-model](https://crates.io/crates/cimoxide-model) | 0.4.0 | 0 | The IEC 61970/61968 Common Information Model as profiled by ENTSO-E CGMES: gene… |
-| 2026-10-09 10:53:13 | [whichw](https://crates.io/crates/whichw) | 0.2.2 | 0 | like linux which, can find where the exec command is |
-| 2026-10-09 10:54:55 | [snarkrs-wgpu](https://crates.io/crates/snarkrs-wgpu) | 0.1.0 | 0 | WebGPU backend for the snarkrs Groth16 prover, native and in the browser |
-| 2026-10-09 10:57:53 | [marlin-field](https://crates.io/crates/marlin-field) | 0.3.0 | 0 | Decoded-field state type shared by the marlin decoders: value, not available, s… |
-| 2026-10-09 10:58:21 | [aphrody-tauri-runtime](https://crates.io/crates/aphrody-tauri-runtime) | 3.0.0-alpha.3 | 0 | Runtime for Tauri applications |
-| 2026-10-09 10:59:50 | [psw-cli](https://crates.io/crates/psw-cli) | 0.1.0 | 0 | A ps-like process lister for Windows (also builds on Linux/macOS), with a pstre… |
-| 2026-10-09 11:01:12 | [netstatw](https://crates.io/crates/netstatw) | 0.1.0 | 0 | A netstat-like CLI showing TCP/UDP sockets with owning process info (Windows, L… |
-| 2026-10-09 11:04:20 | [killw](https://crates.io/crates/killw) | 0.1.0 | 0 | A Windows kill-like command-line utility to terminate processes by PID, written… |
-| 2026-10-09 11:04:50 | [snarkrs-witness](https://crates.io/crates/snarkrs-witness) | 0.1.0 | 0 | circom witness generation for snarkrs: the wasm calculator and the native binary |
-| 2026-10-09 11:08:52 | [harn-package](https://crates.io/crates/harn-package) | 0.10.159 | 0 | Authoritative Harn package resolution, materialization and connector discovery |
-| 2026-10-09 11:08:52 | [todp](https://crates.io/crates/todp) | 0.1.0 | 0 | a todo app which builds a json file per folder |
-| 2026-10-09 11:09:19 | [aphrody-tauri-build](https://crates.io/crates/aphrody-tauri-build) | 3.0.0-alpha.3 | 0 | build time code to pair with https://crates.io/crates/tauri |
-| 2026-10-09 11:14:37 | [snarkrs-lib](https://crates.io/crates/snarkrs-lib) | 0.1.0 | 0 | Groth16 prover and verifier for BN254, byte-compatible with snarkjs, with CPU,… |
-| 2026-10-09 11:14:42 | [nisshi-storage-dynostore](https://crates.io/crates/nisshi-storage-dynostore) | 0.1.0 | 0 | Storage Engine For ObjectStore (S3 or memory) |
-| 2026-10-09 11:17:01 | [en16931-codes-macros](https://crates.io/crates/en16931-codes-macros) | 0.1.0 | 0 | Proc-macro for generating the EN 16931 code list types from the code list file… |
-| 2026-10-09 11:17:05 | [en16931-codes](https://crates.io/crates/en16931-codes) | 0.1.0 | 0 | The code lists of EN 16931 as published by the European Commission (version 17b) |
-| 2026-10-09 11:18:48 | [aphrody-tauri-plugin](https://crates.io/crates/aphrody-tauri-plugin) | 3.0.0-alpha.3 | 0 | Build script and runtime Tauri plugin definitions |
-| 2026-10-09 11:19:02 | [nisshi-storage-null](https://crates.io/crates/nisshi-storage-null) | 0.1.0 | 0 | Null Storage Engine |
+| 2026-10-09 11:21:04 | [burn_gekko_metrics](https://crates.io/crates/burn_gekko_metrics) | 0.1.1 | 0 | Portable camera and reconstruction metrics shared by Burn Gekko evaluation and… |
+| 2026-10-09 11:21:08 | [burn_gekko_inference](https://crates.io/crates/burn_gekko_inference) | 0.3.0 | 0 | Checkpoint-verified, asynchronous native and WebGPU inference for Burn Gekko |
+| 2026-10-09 11:21:10 | [burn_gekko_controller](https://crates.io/crates/burn_gekko_controller) | 0.2.0 | 0 | Durable experiment queues, process supervision and GPU budget accounting |
+| 2026-10-09 11:22:10 | [nisshi-storage-sql](https://crates.io/crates/nisshi-storage-sql) | 0.1.0 | 0 | SQL Storage Engine |
+| 2026-10-09 11:24:21 | [snarkrs](https://crates.io/crates/snarkrs) | 0.1.0 | 0 | Drop-in for the snarkjs command line: Groth16 on BN254, on the CPU, Metal, CUDA… |
+| 2026-10-09 11:24:32 | [nisshi-storage-slatedb](https://crates.io/crates/nisshi-storage-slatedb) | 0.1.0 | 0 | SlateDB Storage Engine |
+| 2026-10-09 11:26:11 | [cade](https://crates.io/crates/cade) | 0.1.3 | 0 | an intelligent, cascading environment manager |
+| 2026-10-09 11:27:49 | [concurrent-intrusive-collections](https://crates.io/crates/concurrent-intrusive-collections) | 0.3.0 | 0 | Intrusive concurrent collections with Crossbeam epoch reclamation. |
+| 2026-10-09 11:30:05 | [aphrody-tauri](https://crates.io/crates/aphrody-tauri) | 3.0.0-alpha.4 | 0 | Make tiny, secure apps for all desktop platforms with Tauri |
+| 2026-10-09 11:32:36 | [cpd-similarity](https://crates.io/crates/cpd-similarity) | 0.1.0 | 0 | Structural similarity of functions for cpd: normalized syntax trees compared by… |
+| 2026-10-09 11:33:21 | [truncate-safe](https://crates.io/crates/truncate-safe) | 0.1.0 | 0 | Truncate strings at UTF-8 character boundaries with an optional ellipsis |
+| 2026-10-09 11:33:57 | [sephera_compression](https://crates.io/crates/sephera_compression) | 0.7.1 | 0 | Tree-sitter AST compression: skeleton, signatures, and structure extraction. |
+| 2026-10-09 11:33:59 | [sephera_ignore](https://crates.io/crates/sephera_ignore) | 0.7.1 | 0 | Git-aware ignore rules (.gitignore, .sepheraignore) with globset matching. |
+| 2026-10-09 11:34:01 | [sephera_scan](https://crates.io/crates/sephera_scan) | 0.7.1 | 0 | Fast line-of-code counting with language-aware comment detection. |
+| 2026-10-09 11:34:04 | [sephera_context](https://crates.io/crates/sephera_context) | 0.7.1 | 0 | Deterministic, token-budgeted context pack building for LLM prompts. |
+| 2026-10-09 11:34:08 | [sephera_symbols](https://crates.io/crates/sephera_symbols) | 0.7.1 | 0 | Symbol extraction and declaration analysis across languages. |
+| 2026-10-09 11:36:23 | [tuitube](https://crates.io/crates/tuitube) | 0.1.0 | 0 | YouTube in your terminal: a vim-style client with local subscriptions, built on… |
+| 2026-10-09 11:37:08 | [weak_borrow](https://crates.io/crates/weak_borrow) | 0.1.1 | 0 | Sendable weak borrows of !Send types. |
+| 2026-10-09 11:39:09 | [aphrody-tauri-runtime-cef](https://crates.io/crates/aphrody-tauri-runtime-cef) | 3.0.0-alpha.5 | 0 | Tauri runtime interface for Chromium Embedded Framework |
+| 2026-10-09 11:47:44 | [decdn-protocol](https://crates.io/crates/decdn-protocol) | 0.0.1 | 0 | Wire protocol types and ALPN definitions for deCDN |
+| 2026-10-09 11:47:54 | [decdn-config-types](https://crates.io/crates/decdn-config-types) | 0.0.1 | 0 | Leaf crate: config-vocabulary types shared by decdn-cache and decdn-common (no… |
+| 2026-10-09 11:48:02 | [splitfire-agent](https://crates.io/crates/splitfire-agent) | 1.0.0 | 0 | Music-domain ACP agent: theory, production, industry, culture and live shows, b… |
+| 2026-10-09 11:48:03 | [decdn-bao-range](https://crates.io/crates/decdn-bao-range) | 0.0.1 | 0 | Leaf crate: iroh-blobs-free bao verified-range helpers (chunk-group alignment,… |
+| 2026-10-09 11:48:42 | [tmxr-proto](https://crates.io/crates/tmxr-proto) | 0.2.4 | 0 | Client/server wire protocol for tmxr: message types, framing and socket paths. |
+| 2026-10-09 11:48:42 | [datadeft-auth-token-core](https://crates.io/crates/datadeft-auth-token-core) | 0.4.0 | 0 | Reusable base62 and Branca token primitives. |
+| 2026-10-09 11:48:47 | [datadeft-pow-core](https://crates.io/crates/datadeft-pow-core) | 0.4.0 | 0 | Pure, IO-free proof-of-work challenge mint/verify. |
+| 2026-10-09 11:48:51 | [datadeft-pow-axum](https://crates.io/crates/datadeft-pow-axum) | 0.4.0 | 0 | Optional Axum HTTP glue for the datadeft-pow-core proof-of-work admission gate. |
+| 2026-10-09 11:48:54 | [datadeft-magic-link-core](https://crates.io/crates/datadeft-magic-link-core) | 0.4.0 | 0 | IO-free magic-link token grammar and auth primitives. |
+| 2026-10-09 11:48:58 | [datadeft-magic-link-service](https://crates.io/crates/datadeft-magic-link-service) | 0.4.0 | 0 | Framework-neutral magic-link request and scanner-safe authentication orchestrat… |
+| 2026-10-09 11:49:10 | [tmxr-command](https://crates.io/crates/tmxr-command) | 0.2.4 | 0 | tmux-compatible command language for tmxr: parser, key names and formats. |
+| 2026-10-09 11:49:22 | [decdn-common](https://crates.io/crates/decdn-common) | 0.0.1 | 0 | Shared types for deCDN binaries: config schema, identity, CLI args |
+| 2026-10-09 11:49:42 | [tmxr-config](https://crates.io/crates/tmxr-config) | 0.2.4 | 0 | TOML configuration for tmxr, with the built-in default key binds. |
+| 2026-10-09 11:50:04 | [decdn-reputation](https://crates.io/crates/decdn-reputation) | 0.0.1 | 0 | Local per-peer reputation scoring for deCDN nodes (ADR 008): EWMA over observed… |
+| 2026-10-09 11:50:10 | [tmxr-term](https://crates.io/crates/tmxr-term) | 0.2.4 | 0 | One tmxr pane's terminal: PTY, vt100 emulation, input encoding, process inspect… |
+| 2026-10-09 11:50:55 | [tmxr-server](https://crates.io/crates/tmxr-server) | 0.2.4 | 0 | The tmxr server: sessions, windows, panes, key tables, rendering. |
+| 2026-10-09 11:54:09 | [datadeft-magic-link-aws](https://crates.io/crates/datadeft-magic-link-aws) | 0.4.0 | 0 | Optional AWS DynamoDB/SES adapters for datadeft-magic-link-service. |
+| 2026-10-09 11:54:27 | [onde-code](https://crates.io/crates/onde-code) | 1.0.1 | 0 | Onde Code is Onde Inference's ACP-compatible coding agent for model fine-tuning… |
+| 2026-10-09 11:54:49 | [tmxr-client](https://crates.io/crates/tmxr-client) | 0.2.4 | 0 | The tmxr attach client: terminal setup, input pump, output writer. |
+| 2026-10-09 11:58:33 | [decdn-cache](https://crates.io/crates/decdn-cache) | 0.0.1 | 0 | Cache engine wrapping iroh-blobs with origin pull-through for deCDN |
+| 2026-10-09 12:01:23 | [animoria](https://crates.io/crates/animoria) | 2.3.0 | 0 | High-performance Rust core engine for Animoria: visual asset discovery, format… |
+| 2026-10-09 12:01:59 | [mysql-canal](https://crates.io/crates/mysql-canal) | 0.0.3 | 0 | MySQL CDC conversion and committed transactions over mysql-replication |
+| 2026-10-09 12:04:11 | [winnow-rfc2046](https://crates.io/crates/winnow-rfc2046) | 0.0.0 | 0 | Temporary reservation for this crate name. |
+| 2026-10-09 12:04:40 | [paperback-rs](https://crates.io/crates/paperback-rs) | 1.0.0 | 0 | Store files on paper as dense, error-corrected bitmaps; compatible with PaperBa… |
+| 2026-10-09 12:04:43 | [paperback-rs-cli](https://crates.io/crates/paperback-rs-cli) | 1.0.0 | 0 | Command-line tool to write files to paper-ready images and read them back |
+| 2026-10-09 12:04:50 | [tmxr-cli](https://crates.io/crates/tmxr-cli) | 0.2.4 | 0 | A tmux-style terminal multiplexer for Linux, macOS and Windows. |
+| 2026-10-09 12:09:29 | [decdn-incentive](https://crates.io/crates/decdn-incentive) | 0.0.1 | 0 | Payment channels, bonding, and voucher management for deCDN |
+| 2026-10-09 12:13:17 | [untdid-macros](https://crates.io/crates/untdid-macros) | 0.1.0 | 0 | Proc-macro for generating UN/EDIFACT code list types from the UNCL directory |
+| 2026-10-09 12:13:23 | [untdid](https://crates.io/crates/untdid) | 0.1.0 | 0 | UN/EDIFACT code lists of the UNTDID directory D.24A |
+| 2026-10-09 12:15:24 | [seekstorm_mcp_server](https://crates.io/crates/seekstorm_mcp_server) | 3.4.0 | 0 | MCP server for SeekStorm vector & lexical search |
 
 ## Data source
 
