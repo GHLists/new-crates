@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T12:18:42.045502Z,decdn-client,0.0.1,0,0,https://github.com/decdn/decdn,"The deCDN client SDK: fetch content-addressed blobs from deCDN nodes, pay per megabyte from a USDC payment pool, and verify every byte as it arrives"
+2026-10-09T12:19:36.968514Z,sizing-portfolio,2.0.0,0,0,https://github.com/Xtley001/optimal-sizing,Constrained multi-pool portfolio capital allocation across heterogeneous AMM curves
+2026-10-09T12:23:38.315528Z,tokendraw,0.1.0,0,0,https://github.com/Agency-Games/tokendraw,Estimate the energy usage and emissions of LLM coding agent use
+2026-10-09T12:27:44.023582Z,pubrel,0.5.0,0,0,https://github.com/schryer/pubrel,"Version packages by what changed, and record each release as a version of a package publet."
+2026-10-09T12:29:39.276554Z,decdn-node,0.0.1,0,0,https://github.com/decdn/decdn,CLI entry point and runtime wiring for a deCDN node
+2026-10-09T12:31:21.530822Z,nfs-mamont,0.1.0,0,0,https://github.com/RMamonts/nfs-mamont,"An asynchronous NFS server library: complete MOUNT and NFSv3 stack with a pluggable VFS backend, built on tokio with a hand-written RPC/XDR layer"
+2026-10-09T12:32:22.979914Z,octet,0.1.0,0,0,,"Binary serialization with fallible byte sources, sinks, and contextual errors"
+2026-10-09T12:33:20.949598Z,loops-so,0.1.0,0,0,https://github.com/doctorgpt-corp/loops-rs,Unofficial Rust SDK for the Loops.so email platform
+2026-10-09T12:35:03.311436Z,wattcost,0.1.0,0,0,https://github.com/itechmeat/wattcost,Background logger that measures a computer's power draw and prices it with your electricity tariff
+2026-10-09T12:35:55.518399Z,disk-snapshot,0.1.1,0,0,https://codeberg.org/nordisk/edda,"What an appliance's disks hold, read the cheap way: every storage mount (/proc/self/mounts, pseudo filesystems left out), one statvfs(3) per mount (total / free / available / used / root-reserved / i…"
+2026-10-09T12:36:02.342451Z,edda-admit,0.1.0,0,0,https://codeberg.org/nordisk/edda,"The ONE admission trait for the nordisk suite — `Admit::plan` (what this work would cost, which class it gets, and a sentence saying why), `Admit::admit` (a slot per the plan, never blocking: a guard…"
+2026-10-09T12:36:08.660774Z,estate-clock,0.1.0,0,0,https://codeberg.org/nordisk/edda,"The estate's wall clock: HTTPS-Date / SNTP / signed-peer time, one quorum rule, step-or-slew, a report a control plane can serve, and the front's signed-time service a box follows over the utility ne…"
+2026-10-09T12:36:29.568465Z,estate-front,0.1.0,0,0,https://codeberg.org/nordisk/edda,"What an estate's FRONT (vm1) does that is no product's: its own HTTPS (the certificate fed, kept or from ACME HTTP-01 in-process, the hand-over to its successor, :80/:443 swapped live, callback-only…"
+2026-10-09T12:37:01.963385Z,nornir-auth-sshsig,0.1.0,0,0,https://codeberg.org/nordisk/edda,"Per-call SSH-signature (SSHSIG) credentials for gRPC control planes, product-neutral: the credential a caller signs with its own OpenSSH key (method-bound, single-use, time-boxed), the one verifier,…"
+2026-10-09T12:39:25.72876Z,decdn-cli,0.0.1,0,0,https://github.com/decdn/decdn,"User-facing deCDN CLI (decdn binary): probe, fetch, pools, publishing, origin import, node admin"
+2026-10-09T12:41:53.153413Z,bsv-low-core,0.1.0,0,0,,"LOW game core: pure-Rust hand evaluation, rules, provably-fair deal and hand state machine for a 1v1 lowest-sum card game. No I/O; native and wasm32."
+2026-10-09T12:41:55.286434Z,bsv-low-wire,0.1.0,0,0,,"LOW relay wire protocol: signed envelopes with seat binding, sequence monotonicity and transcript-hash chaining over an untrusted relay. Pure Rust, native and wasm32."
+2026-10-09T12:43:25.840512Z,web-journey,0.1.0,0,0,https://codeberg.org/nordisk/edda,A console driven in a real headless Chromium over the DevTools Protocol (chromiumoxide): the browser launched trusting ONLY a handed-over certificate (SPKI pin) and reaching a name through a mapped a…
+2026-10-09T12:44:12.929745Z,cefact-package-codes-macros,0.1.0,0,0,https://github.com/nepalez/cefact-package-codes,Proc-macro for generating UN/CEFACT package type code types
+2026-10-09T12:44:15.611248Z,cefact-package-codes,0.1.0,0,0,https://github.com/nepalez/cefact-package-codes,UN/CEFACT Recommendation No. 21 — package type codes
+2026-10-09T12:46:33.790022Z,nordisk-twin,0.1.0,0,0,https://codeberg.org/nordisk/Skidbladnir,"A box's twin over mutual TLS 1.3: the primary's own persistent replication issuer, a client certificate issued from the twin's own request (proof of possession, CN forced, clientAuth only), the repli…"
+2026-10-09T12:47:29.285163Z,tray-tuid,0.3.4,0,0,https://github.com/Eraseit45/tray-tuid,System tray daemon in your terminal
+2026-10-09T12:50:29.052397Z,sprawling-child,0.0.11,0,0,https://github.com/2youg1/sprawling-agents,"The one constructor of a sprawling city's child processes: off the city's console, in a process group of their own, the city's secrets out of their environment."
+2026-10-09T12:51:35.709087Z,pqsio,0.2.5,0,0,https://github.com/wangyibin/pqsio,"Shared pairs and concat PQS storage for Rust, C, C++ and Python"
+2026-10-09T12:56:34.693908Z,nordisk-narrate,0.1.0,0,0,https://codeberg.org/nordisk/Skidbladnir,"DEV-NARRATE: a box's early boot log, sealed to the installer's X25519 key (NaCl crypto_box, per-boot ephemeral sender key) and streamed over UDP to the address an authenticated installer hello came f…"
+2026-10-09T13:00:29.273631Z,harpe,0.1.0-alpha.1,0,0,https://github.com/Perseus-Computing-LLC/harpe,Deterministic context synthesis and token budgeting for cognitive AI agents.
+2026-10-09T13:00:32.907854Z,kibisis,0.1.0-alpha.1,0,0,https://github.com/Perseus-Computing-LLC/kibisis,Local-first encrypted cognitive memory vault with atomic concurrency leases.
+2026-10-09T13:00:33.46107Z,cksol-types,0.1.0,0,0,https://github.com/dfinity/cksol,Candid types used by the ckSOL minter canister
+2026-10-09T13:00:36.894769Z,argus-ledger,0.1.0-alpha.1,0,0,https://github.com/Perseus-Computing-LLC/argus,Tamper-evident append-only SHA-256 provenance and audit ledger for autonomous agents.
+2026-10-09T13:00:47.180746Z,hots-replay-parser,0.1.0,0,0,https://github.com/symbiote-gg/replay-parser,Offline Heroes of the Storm .StormReplay parser (Rust port of heroprotocol + mpyq)
+2026-10-09T13:06:35.858362Z,plugin-door-wire,0.1.0,0,0,https://codeberg.org/nordisk/Skidbladnir,"The wire a product server speaks to the front's plugin door to register ITS OWN monetize plugin: what the door holds, the registration, the answer, and the mTLS client — generic over the product id (…"
+2026-10-09T13:08:59.390536Z,rustroke-core,0.8.0,0,0,https://github.com/AndreCusimano/rustroke,"Platform-independent building blocks: geometry, colors, shapes, tessellation, input types."
+2026-10-09T13:09:10.676936Z,rustroke-text,0.8.0,0,0,https://github.com/AndreCusimano/rustroke,Text layout and glyph rasterization (cosmic-text) with a glyph atlas.
+2026-10-09T13:09:14.384457Z,rustroke-widgets,0.8.0,0,0,https://github.com/AndreCusimano/rustroke,"Immediate-mode API: Context, Ui, layout, widgets, containers, accessibility."
+2026-10-09T13:09:17.041964Z,rustroke-render,0.8.0,0,0,https://github.com/AndreCusimano/rustroke,"wgpu renderer for tessellated meshes, on screen or offscreen."
+2026-10-09T13:09:19.292134Z,rustroke-winit,0.8.0,0,0,https://github.com/AndreCusimano/rustroke,"Desktop integration: window, event loop and input with winit."
+2026-10-09T13:11:09.254917Z,lsh,0.1.0-alpha.1,0,0,https://github.com/microsoft/edit,Lightweight Syntax Highlighter
+2026-10-09T13:12:57.576209Z,procquarium,0.2.2,0,0,https://github.com/ImanolGo/procquarium,"Your running processes, as fish."
+2026-10-09T13:18:00.237198Z,publet-algorithms,0.2.0,0,0,https://github.com/schryer/publet,"Generic algorithms publet is built on: an RFC 6962 Merkle log, sorted-set membership with absence proofs, recursive content trees, exact fixed-point arithmetic, and deterministic trust propagation. D…"
+2026-10-09T13:18:36.754591Z,spring_damper,0.1.0,0,0,https://github.com/jmwmulle/spring_damper,Damped springs and motion transitions

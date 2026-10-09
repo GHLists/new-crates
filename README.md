@@ -8,63 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 12:18 UTC
+## Latest list — 2026-10-09 13:19 UTC
 
-New crates published between 2026-10-09 11:20 UTC and 2026-10-09 12:18 UTC.
+New crates published between 2026-10-09 12:18 UTC and 2026-10-09 13:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-09T12-18-33-603391Z.csv)
+[Full CSV](data/new-crates-2026-10-09T13-19-05-932634Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-09 11:21:04 | [burn_gekko_metrics](https://crates.io/crates/burn_gekko_metrics) | 0.1.1 | 0 | Portable camera and reconstruction metrics shared by Burn Gekko evaluation and… |
-| 2026-10-09 11:21:08 | [burn_gekko_inference](https://crates.io/crates/burn_gekko_inference) | 0.3.0 | 0 | Checkpoint-verified, asynchronous native and WebGPU inference for Burn Gekko |
-| 2026-10-09 11:21:10 | [burn_gekko_controller](https://crates.io/crates/burn_gekko_controller) | 0.2.0 | 0 | Durable experiment queues, process supervision and GPU budget accounting |
-| 2026-10-09 11:22:10 | [nisshi-storage-sql](https://crates.io/crates/nisshi-storage-sql) | 0.1.0 | 0 | SQL Storage Engine |
-| 2026-10-09 11:24:21 | [snarkrs](https://crates.io/crates/snarkrs) | 0.1.0 | 0 | Drop-in for the snarkjs command line: Groth16 on BN254, on the CPU, Metal, CUDA… |
-| 2026-10-09 11:24:32 | [nisshi-storage-slatedb](https://crates.io/crates/nisshi-storage-slatedb) | 0.1.0 | 0 | SlateDB Storage Engine |
-| 2026-10-09 11:26:11 | [cade](https://crates.io/crates/cade) | 0.1.3 | 0 | an intelligent, cascading environment manager |
-| 2026-10-09 11:27:49 | [concurrent-intrusive-collections](https://crates.io/crates/concurrent-intrusive-collections) | 0.3.0 | 0 | Intrusive concurrent collections with Crossbeam epoch reclamation. |
-| 2026-10-09 11:30:05 | [aphrody-tauri](https://crates.io/crates/aphrody-tauri) | 3.0.0-alpha.4 | 0 | Make tiny, secure apps for all desktop platforms with Tauri |
-| 2026-10-09 11:32:36 | [cpd-similarity](https://crates.io/crates/cpd-similarity) | 0.1.0 | 0 | Structural similarity of functions for cpd: normalized syntax trees compared by… |
-| 2026-10-09 11:33:21 | [truncate-safe](https://crates.io/crates/truncate-safe) | 0.1.0 | 0 | Truncate strings at UTF-8 character boundaries with an optional ellipsis |
-| 2026-10-09 11:33:57 | [sephera_compression](https://crates.io/crates/sephera_compression) | 0.7.1 | 0 | Tree-sitter AST compression: skeleton, signatures, and structure extraction. |
-| 2026-10-09 11:33:59 | [sephera_ignore](https://crates.io/crates/sephera_ignore) | 0.7.1 | 0 | Git-aware ignore rules (.gitignore, .sepheraignore) with globset matching. |
-| 2026-10-09 11:34:01 | [sephera_scan](https://crates.io/crates/sephera_scan) | 0.7.1 | 0 | Fast line-of-code counting with language-aware comment detection. |
-| 2026-10-09 11:34:04 | [sephera_context](https://crates.io/crates/sephera_context) | 0.7.1 | 0 | Deterministic, token-budgeted context pack building for LLM prompts. |
-| 2026-10-09 11:34:08 | [sephera_symbols](https://crates.io/crates/sephera_symbols) | 0.7.1 | 0 | Symbol extraction and declaration analysis across languages. |
-| 2026-10-09 11:36:23 | [tuitube](https://crates.io/crates/tuitube) | 0.1.0 | 0 | YouTube in your terminal: a vim-style client with local subscriptions, built on… |
-| 2026-10-09 11:37:08 | [weak_borrow](https://crates.io/crates/weak_borrow) | 0.1.1 | 0 | Sendable weak borrows of !Send types. |
-| 2026-10-09 11:39:09 | [aphrody-tauri-runtime-cef](https://crates.io/crates/aphrody-tauri-runtime-cef) | 3.0.0-alpha.5 | 0 | Tauri runtime interface for Chromium Embedded Framework |
-| 2026-10-09 11:47:44 | [decdn-protocol](https://crates.io/crates/decdn-protocol) | 0.0.1 | 0 | Wire protocol types and ALPN definitions for deCDN |
-| 2026-10-09 11:47:54 | [decdn-config-types](https://crates.io/crates/decdn-config-types) | 0.0.1 | 0 | Leaf crate: config-vocabulary types shared by decdn-cache and decdn-common (no… |
-| 2026-10-09 11:48:02 | [splitfire-agent](https://crates.io/crates/splitfire-agent) | 1.0.0 | 0 | Music-domain ACP agent: theory, production, industry, culture and live shows, b… |
-| 2026-10-09 11:48:03 | [decdn-bao-range](https://crates.io/crates/decdn-bao-range) | 0.0.1 | 0 | Leaf crate: iroh-blobs-free bao verified-range helpers (chunk-group alignment,… |
-| 2026-10-09 11:48:42 | [tmxr-proto](https://crates.io/crates/tmxr-proto) | 0.2.4 | 0 | Client/server wire protocol for tmxr: message types, framing and socket paths. |
-| 2026-10-09 11:48:42 | [datadeft-auth-token-core](https://crates.io/crates/datadeft-auth-token-core) | 0.4.0 | 0 | Reusable base62 and Branca token primitives. |
-| 2026-10-09 11:48:47 | [datadeft-pow-core](https://crates.io/crates/datadeft-pow-core) | 0.4.0 | 0 | Pure, IO-free proof-of-work challenge mint/verify. |
-| 2026-10-09 11:48:51 | [datadeft-pow-axum](https://crates.io/crates/datadeft-pow-axum) | 0.4.0 | 0 | Optional Axum HTTP glue for the datadeft-pow-core proof-of-work admission gate. |
-| 2026-10-09 11:48:54 | [datadeft-magic-link-core](https://crates.io/crates/datadeft-magic-link-core) | 0.4.0 | 0 | IO-free magic-link token grammar and auth primitives. |
-| 2026-10-09 11:48:58 | [datadeft-magic-link-service](https://crates.io/crates/datadeft-magic-link-service) | 0.4.0 | 0 | Framework-neutral magic-link request and scanner-safe authentication orchestrat… |
-| 2026-10-09 11:49:10 | [tmxr-command](https://crates.io/crates/tmxr-command) | 0.2.4 | 0 | tmux-compatible command language for tmxr: parser, key names and formats. |
-| 2026-10-09 11:49:22 | [decdn-common](https://crates.io/crates/decdn-common) | 0.0.1 | 0 | Shared types for deCDN binaries: config schema, identity, CLI args |
-| 2026-10-09 11:49:42 | [tmxr-config](https://crates.io/crates/tmxr-config) | 0.2.4 | 0 | TOML configuration for tmxr, with the built-in default key binds. |
-| 2026-10-09 11:50:04 | [decdn-reputation](https://crates.io/crates/decdn-reputation) | 0.0.1 | 0 | Local per-peer reputation scoring for deCDN nodes (ADR 008): EWMA over observed… |
-| 2026-10-09 11:50:10 | [tmxr-term](https://crates.io/crates/tmxr-term) | 0.2.4 | 0 | One tmxr pane's terminal: PTY, vt100 emulation, input encoding, process inspect… |
-| 2026-10-09 11:50:55 | [tmxr-server](https://crates.io/crates/tmxr-server) | 0.2.4 | 0 | The tmxr server: sessions, windows, panes, key tables, rendering. |
-| 2026-10-09 11:54:09 | [datadeft-magic-link-aws](https://crates.io/crates/datadeft-magic-link-aws) | 0.4.0 | 0 | Optional AWS DynamoDB/SES adapters for datadeft-magic-link-service. |
-| 2026-10-09 11:54:27 | [onde-code](https://crates.io/crates/onde-code) | 1.0.1 | 0 | Onde Code is Onde Inference's ACP-compatible coding agent for model fine-tuning… |
-| 2026-10-09 11:54:49 | [tmxr-client](https://crates.io/crates/tmxr-client) | 0.2.4 | 0 | The tmxr attach client: terminal setup, input pump, output writer. |
-| 2026-10-09 11:58:33 | [decdn-cache](https://crates.io/crates/decdn-cache) | 0.0.1 | 0 | Cache engine wrapping iroh-blobs with origin pull-through for deCDN |
-| 2026-10-09 12:01:23 | [animoria](https://crates.io/crates/animoria) | 2.3.0 | 0 | High-performance Rust core engine for Animoria: visual asset discovery, format… |
-| 2026-10-09 12:01:59 | [mysql-canal](https://crates.io/crates/mysql-canal) | 0.0.3 | 0 | MySQL CDC conversion and committed transactions over mysql-replication |
-| 2026-10-09 12:04:11 | [winnow-rfc2046](https://crates.io/crates/winnow-rfc2046) | 0.0.0 | 0 | Temporary reservation for this crate name. |
-| 2026-10-09 12:04:40 | [paperback-rs](https://crates.io/crates/paperback-rs) | 1.0.0 | 0 | Store files on paper as dense, error-corrected bitmaps; compatible with PaperBa… |
-| 2026-10-09 12:04:43 | [paperback-rs-cli](https://crates.io/crates/paperback-rs-cli) | 1.0.0 | 0 | Command-line tool to write files to paper-ready images and read them back |
-| 2026-10-09 12:04:50 | [tmxr-cli](https://crates.io/crates/tmxr-cli) | 0.2.4 | 0 | A tmux-style terminal multiplexer for Linux, macOS and Windows. |
-| 2026-10-09 12:09:29 | [decdn-incentive](https://crates.io/crates/decdn-incentive) | 0.0.1 | 0 | Payment channels, bonding, and voucher management for deCDN |
-| 2026-10-09 12:13:17 | [untdid-macros](https://crates.io/crates/untdid-macros) | 0.1.0 | 0 | Proc-macro for generating UN/EDIFACT code list types from the UNCL directory |
-| 2026-10-09 12:13:23 | [untdid](https://crates.io/crates/untdid) | 0.1.0 | 0 | UN/EDIFACT code lists of the UNTDID directory D.24A |
-| 2026-10-09 12:15:24 | [seekstorm_mcp_server](https://crates.io/crates/seekstorm_mcp_server) | 3.4.0 | 0 | MCP server for SeekStorm vector & lexical search |
+| 2026-10-09 12:18:42 | [decdn-client](https://crates.io/crates/decdn-client) | 0.0.1 | 0 | The deCDN client SDK: fetch content-addressed blobs from deCDN nodes, pay per m… |
+| 2026-10-09 12:19:36 | [sizing-portfolio](https://crates.io/crates/sizing-portfolio) | 2.0.0 | 0 | Constrained multi-pool portfolio capital allocation across heterogeneous AMM cu… |
+| 2026-10-09 12:23:38 | [tokendraw](https://crates.io/crates/tokendraw) | 0.1.0 | 0 | Estimate the energy usage and emissions of LLM coding agent use |
+| 2026-10-09 12:27:44 | [pubrel](https://crates.io/crates/pubrel) | 0.5.0 | 0 | Version packages by what changed, and record each release as a version of a pac… |
+| 2026-10-09 12:29:39 | [decdn-node](https://crates.io/crates/decdn-node) | 0.0.1 | 0 | CLI entry point and runtime wiring for a deCDN node |
+| 2026-10-09 12:31:21 | [nfs-mamont](https://crates.io/crates/nfs-mamont) | 0.1.0 | 0 | An asynchronous NFS server library: complete MOUNT and NFSv3 stack with a plugg… |
+| 2026-10-09 12:32:22 | [octet](https://crates.io/crates/octet) | 0.1.0 | 0 | Binary serialization with fallible byte sources, sinks, and contextual errors |
+| 2026-10-09 12:33:20 | [loops-so](https://crates.io/crates/loops-so) | 0.1.0 | 0 | Unofficial Rust SDK for the Loops.so email platform |
+| 2026-10-09 12:35:03 | [wattcost](https://crates.io/crates/wattcost) | 0.1.0 | 0 | Background logger that measures a computer's power draw and prices it with your… |
+| 2026-10-09 12:35:55 | [disk-snapshot](https://crates.io/crates/disk-snapshot) | 0.1.1 | 0 | What an appliance's disks hold, read the cheap way: every storage mount (/proc/… |
+| 2026-10-09 12:36:02 | [edda-admit](https://crates.io/crates/edda-admit) | 0.1.0 | 0 | The ONE admission trait for the nordisk suite — `Admit::plan` (what this work w… |
+| 2026-10-09 12:36:08 | [estate-clock](https://crates.io/crates/estate-clock) | 0.1.0 | 0 | The estate's wall clock: HTTPS-Date / SNTP / signed-peer time, one quorum rule,… |
+| 2026-10-09 12:36:29 | [estate-front](https://crates.io/crates/estate-front) | 0.1.0 | 0 | What an estate's FRONT (vm1) does that is no product's: its own HTTPS (the cert… |
+| 2026-10-09 12:37:01 | [nornir-auth-sshsig](https://crates.io/crates/nornir-auth-sshsig) | 0.1.0 | 0 | Per-call SSH-signature (SSHSIG) credentials for gRPC control planes, product-ne… |
+| 2026-10-09 12:39:25 | [decdn-cli](https://crates.io/crates/decdn-cli) | 0.0.1 | 0 | User-facing deCDN CLI (decdn binary): probe, fetch, pools, publishing, origin i… |
+| 2026-10-09 12:41:53 | [bsv-low-core](https://crates.io/crates/bsv-low-core) | 0.1.0 | 0 | LOW game core: pure-Rust hand evaluation, rules, provably-fair deal and hand st… |
+| 2026-10-09 12:41:55 | [bsv-low-wire](https://crates.io/crates/bsv-low-wire) | 0.1.0 | 0 | LOW relay wire protocol: signed envelopes with seat binding, sequence monotonic… |
+| 2026-10-09 12:43:25 | [web-journey](https://crates.io/crates/web-journey) | 0.1.0 | 0 | A console driven in a real headless Chromium over the DevTools Protocol (chromi… |
+| 2026-10-09 12:44:12 | [cefact-package-codes-macros](https://crates.io/crates/cefact-package-codes-macros) | 0.1.0 | 0 | Proc-macro for generating UN/CEFACT package type code types |
+| 2026-10-09 12:44:15 | [cefact-package-codes](https://crates.io/crates/cefact-package-codes) | 0.1.0 | 0 | UN/CEFACT Recommendation No. 21 — package type codes |
+| 2026-10-09 12:46:33 | [nordisk-twin](https://crates.io/crates/nordisk-twin) | 0.1.0 | 0 | A box's twin over mutual TLS 1.3: the primary's own persistent replication issu… |
+| 2026-10-09 12:47:29 | [tray-tuid](https://crates.io/crates/tray-tuid) | 0.3.4 | 0 | System tray daemon in your terminal |
+| 2026-10-09 12:50:29 | [sprawling-child](https://crates.io/crates/sprawling-child) | 0.0.11 | 0 | The one constructor of a sprawling city's child processes: off the city's conso… |
+| 2026-10-09 12:51:35 | [pqsio](https://crates.io/crates/pqsio) | 0.2.5 | 0 | Shared pairs and concat PQS storage for Rust, C, C++ and Python |
+| 2026-10-09 12:56:34 | [nordisk-narrate](https://crates.io/crates/nordisk-narrate) | 0.1.0 | 0 | DEV-NARRATE: a box's early boot log, sealed to the installer's X25519 key (NaCl… |
+| 2026-10-09 13:00:29 | [harpe](https://crates.io/crates/harpe) | 0.1.0-alpha.1 | 0 | Deterministic context synthesis and token budgeting for cognitive AI agents. |
+| 2026-10-09 13:00:32 | [kibisis](https://crates.io/crates/kibisis) | 0.1.0-alpha.1 | 0 | Local-first encrypted cognitive memory vault with atomic concurrency leases. |
+| 2026-10-09 13:00:33 | [cksol-types](https://crates.io/crates/cksol-types) | 0.1.0 | 0 | Candid types used by the ckSOL minter canister |
+| 2026-10-09 13:00:36 | [argus-ledger](https://crates.io/crates/argus-ledger) | 0.1.0-alpha.1 | 0 | Tamper-evident append-only SHA-256 provenance and audit ledger for autonomous a… |
+| 2026-10-09 13:00:47 | [hots-replay-parser](https://crates.io/crates/hots-replay-parser) | 0.1.0 | 0 | Offline Heroes of the Storm .StormReplay parser (Rust port of heroprotocol + mp… |
+| 2026-10-09 13:06:35 | [plugin-door-wire](https://crates.io/crates/plugin-door-wire) | 0.1.0 | 0 | The wire a product server speaks to the front's plugin door to register ITS OWN… |
+| 2026-10-09 13:08:59 | [rustroke-core](https://crates.io/crates/rustroke-core) | 0.8.0 | 0 | Platform-independent building blocks: geometry, colors, shapes, tessellation, i… |
+| 2026-10-09 13:09:10 | [rustroke-text](https://crates.io/crates/rustroke-text) | 0.8.0 | 0 | Text layout and glyph rasterization (cosmic-text) with a glyph atlas. |
+| 2026-10-09 13:09:14 | [rustroke-widgets](https://crates.io/crates/rustroke-widgets) | 0.8.0 | 0 | Immediate-mode API: Context, Ui, layout, widgets, containers, accessibility. |
+| 2026-10-09 13:09:17 | [rustroke-render](https://crates.io/crates/rustroke-render) | 0.8.0 | 0 | wgpu renderer for tessellated meshes, on screen or offscreen. |
+| 2026-10-09 13:09:19 | [rustroke-winit](https://crates.io/crates/rustroke-winit) | 0.8.0 | 0 | Desktop integration: window, event loop and input with winit. |
+| 2026-10-09 13:11:09 | [lsh](https://crates.io/crates/lsh) | 0.1.0-alpha.1 | 0 | Lightweight Syntax Highlighter |
+| 2026-10-09 13:12:57 | [procquarium](https://crates.io/crates/procquarium) | 0.2.2 | 0 | Your running processes, as fish. |
+| 2026-10-09 13:18:00 | [publet-algorithms](https://crates.io/crates/publet-algorithms) | 0.2.0 | 0 | Generic algorithms publet is built on: an RFC 6962 Merkle log, sorted-set membe… |
+| 2026-10-09 13:18:36 | [spring_damper](https://crates.io/crates/spring_damper) | 0.1.0 | 0 | Damped springs and motion transitions |
 
 ## Data source
 
