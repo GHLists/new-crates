@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T16:24:22.650423Z,mosaica-wire,0.0.0,0,0,https://github.com/jennis0/tesseradb,Reserved for Mosaica. The first release is on its way.
+2026-10-09T16:26:01.027881Z,portpilot,0.1.0,0,0,https://github.com/phattarin-kitbumrung/portpilot,Cross-platform port and process inspection toolkit for Rust.
+2026-10-09T16:28:54.37477Z,open-geocode,0.1.0,0,0,https://github.com/open-geocode-rs/open-geocode,"Lightweight geocoding engine: build a binary Pack from OSM extracts and serve search, autocomplete, and reverse geocoding from a single Rust runtime."
+2026-10-09T16:30:14.784486Z,gpui-glint,0.1.0,0,0,https://github.com/yanguiyuan/gpui-glint,A refined component library for GPUI-CE.
+2026-10-09T16:31:35.867215Z,czar-core,0.1.0,0,0,https://github.com/czarhq/czar,"Core domain models, traits, and scheduler runtime for Czar"
+2026-10-09T16:31:40.837137Z,czar-macros,0.1.0,0,0,https://github.com/czarhq/czar,Proc macros for Czar Rust task authoring
+2026-10-09T16:31:48.123209Z,czar-store-file,0.1.0,0,0,https://github.com/czarhq/czar,File-backed state storage for Czar
+2026-10-09T16:32:03.426877Z,czar-store-sqlite,0.1.0,0,0,https://github.com/czarhq/czar,SQLite state storage for Czar
+2026-10-09T16:32:19.167937Z,czar-store-postgres,0.1.0,0,0,https://github.com/czarhq/czar,Postgres state storage for Czar
+2026-10-09T16:32:28.014877Z,mosaica-python,0.0.0,0,0,https://github.com/jennis0/tesseradb,Reserved for Mosaica. The first release is on its way.
+2026-10-09T16:36:38.831529Z,oxpdf-convert,1.4.0,0,0,https://github.com/isaim0011/oxpdf,"Universal pure-Rust document format conversion engine for oxpdf (Markdown, HTML, EPUB, DOCX, CBZ ↔ PDF)"
+2026-10-09T16:38:07.003256Z,cure-engine,0.1.0,0,0,https://github.com/ejfkdev/cure,"Language-agnostic semantic code simplification engine (patterns, rewrites, passes, fixed point, cost model)"
+2026-10-09T16:38:14.404821Z,cure-tree,0.1.0,0,0,https://github.com/ejfkdev/cure,"Generic arena-tree toolkit for cure language frontends: inline ChildList, name interning + node keys, region-event index (lazy rebuild), effect table rebuild"
+2026-10-09T16:38:21.620448Z,cure-java-ast,0.1.0,0,0,https://github.com/ejfkdev/cure,Java AST (arena + NodeId + builder) with cure Lang implementation
+2026-10-09T16:39:45.336921Z,osc7501,0.1.0,0,0,,A WIP implementation of osc7501
+2026-10-09T16:41:16.183128Z,czar-store-d1,0.1.0,0,0,https://github.com/czarhq/czar,Cloudflare D1 database backend for Czar state storage
+2026-10-09T16:42:40.778236Z,ek-converter,0.1.0,0,0,https://cnb.cool/enkeep/ek-converter,"Offset/position conversion for the enkeep ek ecosystem: per-symbol today/yesterday/frozen position ledger with SHFE close-today split, lock and net order-request strategies (Python enkeep_trade trade…"
+2026-10-09T16:44:35.481559Z,mosaica-lifecycle,0.0.0,0,0,https://github.com/jennis0/tesseradb,Reserved for Mosaica. The first release is on its way.
+2026-10-09T16:48:02.213378Z,debrief-review,0.1.0,0,0,https://github.com/martintrojer/debrief,"Review comments on files and diffs, batched per repo and handed back to an agent"
+2026-10-09T16:48:04.889276Z,debrief,0.1.0,0,0,https://github.com/martintrojer/debrief,"Catch up with what the agents committed, and answer back"
+2026-10-09T16:49:30.748524Z,byom,0.4.2,0,0,https://github.com/baoengineer/byom,"Bring your own model to Claude Code: every model you can sign in to, in the same session"
+2026-10-09T16:51:25.282504Z,czar-executors,0.1.0,0,0,https://github.com/czarhq/czar,Executor backends used by Czar for local and cloud task execution
+2026-10-09T16:52:40.626155Z,mosaica-filter,0.0.0,0,0,https://github.com/jennis0/tesseradb,Reserved for Mosaica. The first release is on its way.
+2026-10-09T16:55:10.13972Z,caps_readline,0.1.0,0,0,,A lightweight Windows Keyboard Hook tool that brings Readline keybindings to CapsLock.
+2026-10-09T16:55:42.88512Z,sonorant,0.0.1,0,0,https://github.com/therebelrobot/sonorant,Vocal resonance and voice-quality analysis for the Sonorant project
+2026-10-09T16:55:43.177959Z,srk-weather-tui,0.2.2,0,0,https://github.com/srk553/weatherapp,Cool terminal weather TUI — SRK Master Stack
+2026-10-09T16:55:45.443754Z,sonorant-core,0.0.1,0,0,https://github.com/therebelrobot/sonorant,"Numerical kernels: FFT wrappers, LPC, YIN pitch tracking, cepstral analysis"
+2026-10-09T16:55:47.868097Z,sonorant-analysis,0.0.1,0,0,https://github.com/therebelrobot/sonorant,"Frame pipeline, AnalysisFrame assembly and session state"
+2026-10-09T16:55:50.24355Z,sonorant-capture,0.0.1,0,0,https://github.com/therebelrobot/sonorant,Native audio capture and device enumeration
+2026-10-09T16:55:52.705054Z,sonorant-calibrate,0.0.1,0,0,https://github.com/therebelrobot/sonorant,SPL calibration storage and dBFS to dB SPL conversion
+2026-10-09T16:56:06.578237Z,aless,0.1.0,0,0,https://github.com/rjrodger/aless,"Terminal viewer and JSON CLI for JSON, YAML, TOML, CSV, XML and more"
+2026-10-09T17:01:39.410473Z,czar-gcp,0.1.0,0,0,https://github.com/czarhq/czar,Google Cloud integrations for Czar
+2026-10-09T17:02:48.868002Z,mosaica-filter-write,0.0.0,0,0,https://github.com/jennis0/tesseradb,Reserved for Mosaica. The first release is on its way.
+2026-10-09T17:03:36.472343Z,deslag,0.0.0,0,0,https://github.com/webern/deslag,A linter for LLM-authored prose.
+2026-10-09T17:11:43.654108Z,cure-java-print,0.1.0,0,0,https://github.com/ejfkdev/cure,Canonical Java source printer / formatter over cure-java-ast
+2026-10-09T17:11:47.387837Z,czar-store,0.1.0,0,0,https://github.com/czarhq/czar,State facade and shared storage helpers for Czar
+2026-10-09T17:11:54.050951Z,cure-java-parser,0.1.0,0,0,https://github.com/ejfkdev/cure,Fault-tolerant Java source parser producing cure-java-ast
+2026-10-09T17:12:19.935308Z,cure-java-simplify,0.1.0,0,0,https://github.com/ejfkdev/cure,Java simplification rules and facade over cure-engine
+2026-10-09T17:12:55.598777Z,mosaica-access,0.0.0,0,0,https://github.com/jennis0/tesseradb,Reserved for Mosaica. The first release is on its way.
+2026-10-09T17:13:30.218836Z,cure-cli,0.1.0,0,0,https://github.com/ejfkdev/cure,"CLI for cure: fault-tolerant Java simplifier/formatter (source in, source out)"
+2026-10-09T17:16:49.259181Z,pangraphx-core,0.1.0,0,0,https://github.com/samuelburger27/PanGraphX,Core library for PanGraphX: a toolkit for genome graph loading and format conversion.
