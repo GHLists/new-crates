@@ -8,41 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 19:19 UTC
+## Latest list — 2026-10-10 20:19 UTC
 
-New crates published between 2026-10-10 18:19 UTC and 2026-10-10 19:19 UTC.
+New crates published between 2026-10-10 19:19 UTC and 2026-10-10 20:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-10T19-19-52-489761Z.csv)
+[Full CSV](data/new-crates-2026-10-10T20-19-57-778595Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-10 18:19:28 | [mplot](https://crates.io/crates/mplot) | 1.0.0 | 0 | Native Rust 2D plotting with matplotlib-inspired rendering fidelity |
-| 2026-10-10 18:19:44 | [opys-neoforge](https://crates.io/crates/opys-neoforge) | 0.3.1 | 0 | NeoForge loader for opys — resolves a published inheritsFrom document onto the… |
-| 2026-10-10 18:20:58 | [rv-sbom](https://crates.io/crates/rv-sbom) | 0.3.0 | 0 | SBOM generation for Raeva (CycloneDX and SPDX) |
-| 2026-10-10 18:22:35 | [walkie](https://crates.io/crates/walkie) | 0.1.2 | 0 | Walkie-talkie for AI agents: quick, end-to-end encrypted chat between any two a… |
-| 2026-10-10 18:24:35 | [catpaw-web](https://crates.io/crates/catpaw-web) | 0.1.1 | 0 | The web platform of the CatPaw browser: DOM APIs, events, fetch, the event loop… |
-| 2026-10-10 18:26:01 | [nmn-data](https://crates.io/crates/nmn-data) | 1.0.0 | 0 | Typed, embedded open datasets on NMN (nicotinamide mononucleotide): 25 publishe… |
-| 2026-10-10 18:31:31 | [rv-vuln](https://crates.io/crates/rv-vuln) | 0.3.0 | 0 | Vulnerability scanning for Raeva using OSV API |
-| 2026-10-10 18:34:20 | [zenith-pipeline](https://crates.io/crates/zenith-pipeline) | 0.0.11 | 0 | Zenith render orchestration over host I/O traits: config policy, composition im… |
-| 2026-10-10 18:34:23 | [zenith-editor](https://crates.io/crates/zenith-editor) | 0.0.11 | 0 | Zenith editor engine: a stateless command registry over a serializable session… |
-| 2026-10-10 18:36:11 | [catpaw-bindings-boa](https://crates.io/crates/catpaw-bindings-boa) | 0.1.1 | 0 | JavaScript bindings for the CatPaw browser: glue generated from Web IDL for the… |
-| 2026-10-10 18:37:53 | [ps-hayro-jpeg2000](https://crates.io/crates/ps-hayro-jpeg2000) | 0.5.0 | 0 | A memory-safe, pure-Rust JPEG 2000 decoder: pathscale fork of hayro-jpeg2000. |
-| 2026-10-10 18:40:24 | [balanced38](https://crates.io/crates/balanced38) | 1.1.0 | 0 | An exact, honest, balanced signed base-38 integer lane: every i128 has exactly… |
-| 2026-10-10 18:40:31 | [libb38](https://crates.io/crates/libb38) | 0.3.0 | 0 | A drop-in exact-arithmetic layer: balanced base-38 strings in, exact sum out. C… |
-| 2026-10-10 18:41:33 | [exegenius-core](https://crates.io/crates/exegenius-core) | 0.1.0 | 0 | Core library for exegenius: concept graph, validation, planning, audit handling… |
-| 2026-10-10 18:41:34 | [exegenius](https://crates.io/crates/exegenius) | 0.1.0 | 0 | Turn source documents into a wiki of linked explanatory pages for a stated read… |
-| 2026-10-10 18:43:02 | [vlz-dart](https://crates.io/crates/vlz-dart) | 0.14.0 | 0 | Dart / Flutter language plugin for verilyze (Pub ecosystem) |
-| 2026-10-10 18:43:51 | [tokn-session-codex](https://crates.io/crates/tokn-session-codex) | 0.1.1 | 0 | Read-only Codex session discovery and normalization. |
-| 2026-10-10 18:43:53 | [tokn-session-dsh](https://crates.io/crates/tokn-session-dsh) | 0.1.1 | 0 | Read-only DeepSeek Harness session discovery and normalization. |
-| 2026-10-10 18:43:55 | [tokn-session-hub](https://crates.io/crates/tokn-session-hub) | 0.1.1 | 0 | Host pairing, encrypted session tunnels, and Hub administration. |
-| 2026-10-10 18:45:42 | [firebrick-daemon](https://crates.io/crates/firebrick-daemon) | 0.4.0 | 0 | The fbkd daemon that manages Firebrick microVM sandboxes for coding agents. |
-| 2026-10-10 18:49:06 | [catpaw-engine](https://crates.io/crates/catpaw-engine) | 0.1.1 | 0 | The CatPaw browser's page engine: pages, frames, popups and workers on one thre… |
-| 2026-10-10 18:59:24 | [catpaw-protocol](https://crates.io/crates/catpaw-protocol) | 0.1.1 | 0 | The CatPaw browser's agent protocol: tool and result types and their JSON schema |
-| 2026-10-10 19:02:48 | [sage-plus-raw](https://crates.io/crates/sage-plus-raw) | 0.1.0 | 0 | Pure-Rust reader for Thermo Fisher RAW mass spectrometry files, forked from Sig… |
-| 2026-10-10 19:06:34 | [sage-plus-tdf](https://crates.io/crates/sage-plus-tdf) | 0.2.0 | 0 | Read-only pure Rust reader for Bruker timsTOF TDF and TSF acquisitions and Prot… |
-| 2026-10-10 19:09:55 | [catpaw-server](https://crates.io/crates/catpaw-server) | 0.1.1 | 0 | The CatPaw browser's agent server: MCP tools, sessions, confirmations and hand-… |
-| 2026-10-10 19:14:28 | [gsctl](https://crates.io/crates/gsctl) | 0.1.0 | 0 | Search, inspect and change GNOME settings (GSettings/dconf) with JSON output, v… |
-| 2026-10-10 19:17:04 | [macron-cli](https://crates.io/crates/macron-cli) | 0.1.0 | 0 | Schedule, run and watch local jobs on macOS, backed by launchd, from a CLI or a… |
+| 2026-10-10 19:20:31 | [brenn-git-fixture](https://crates.io/crates/brenn-git-fixture) | 0.1.0 | 0 | Hermetic git spawning for test fixtures, with a repo-escape canary |
+| 2026-10-10 19:24:32 | [subcrate-core](https://crates.io/crates/subcrate-core) | 0.1.0 | 0 | Shared logic for the `subcrate` crate: subcrate identity/naming and attribute p… |
+| 2026-10-10 19:24:37 | [subcrate-macros](https://crates.io/crates/subcrate-macros) | 0.1.0 | 0 | Procedural macro implementation for the `subcrate` crate. Use `subcrate` instea… |
+| 2026-10-10 19:24:44 | [subcrate](https://crates.io/crates/subcrate) | 0.1.0 | 0 | Define real, independently compiled Rust crates with inline `#[subcrate]` modul… |
+| 2026-10-10 19:28:33 | [megabase](https://crates.io/crates/megabase) | 0.0.0 | 0 | Name reserved for MEGABASE, a Rust reimplementation of Supabase built by AI age… |
+| 2026-10-10 19:30:45 | [tmtr](https://crates.io/crates/tmtr) | 0.0.5-alpha.1 | 0 | Minimal CLI time tracker with a TUI stopwatch |
+| 2026-10-10 19:34:35 | [wasi-dbms-key-value-memory](https://crates.io/crates/wasi-dbms-key-value-memory) | 0.11.0 | 0 | Cached key-value memory provider for wasm-dbms on WASI |
+| 2026-10-10 19:40:03 | [slap](https://crates.io/crates/slap) | 1.1.0 | 0 | Keep your Mac awake with a playful space-themed terminal timer |
+| 2026-10-10 19:42:59 | [gneiss-macros](https://crates.io/crates/gneiss-macros) | 0.1.0 | 0 | Macros for gneiss, an SDK for pebble watches |
+| 2026-10-10 19:43:00 | [gneiss-types](https://crates.io/crates/gneiss-types) | 0.1.1 | 0 | Shared types across gneiss libs and build tools |
+| 2026-10-10 19:43:02 | [gneiss-build](https://crates.io/crates/gneiss-build) | 0.1.1 | 0 | Build-time resource compiling and bundling for gneiss apps |
+| 2026-10-10 19:43:06 | [cargo-gneiss](https://crates.io/crates/cargo-gneiss) | 0.1.0 | 0 | Create, build and install gneiss Pebble apps |
+| 2026-10-10 19:43:07 | [gneiss-sys](https://crates.io/crates/gneiss-sys) | 0.1.1 | 0 | Raw PebbleOS app syscall bindings for gneiss |
+| 2026-10-10 19:44:18 | [spate-clickhouse-derive](https://crates.io/crates/spate-clickhouse-derive) | 0.2.0 | 0 | Proc-macro backing #[derive(ClickHouseRow)] for spate-clickhouse: generates the… |
+| 2026-10-10 19:52:32 | [gneiss](https://crates.io/crates/gneiss) | 0.1.1 | 0 | Safe Rust SDK for Pebble watchapps and watchfaces |
+| 2026-10-10 19:55:50 | [sniff-rs](https://crates.io/crates/sniff-rs) | 0.1.0 | 0 | Profile a data file and produce a data dictionary - observed types, missing %,… |
+| 2026-10-10 19:58:44 | [minimenta](https://crates.io/crates/minimenta) | 0.1.0 | 0 | Minuere impedimenta: an interactive disk usage analyzer for the terminal |
+| 2026-10-10 20:12:51 | [staticly-hash](https://crates.io/crates/staticly-hash) | 0.1.0 | 0 | Compile-time lookup generator |
+| 2026-10-10 20:12:53 | [staticly-macros](https://crates.io/crates/staticly-macros) | 0.1.0 | 0 | Compile-time lookup generator |
+| 2026-10-10 20:12:55 | [staticly](https://crates.io/crates/staticly) | 0.1.0 | 0 | Compile-time lookup generator |
 
 ## Data source
 

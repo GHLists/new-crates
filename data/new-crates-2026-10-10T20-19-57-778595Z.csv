@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T19:20:31.957085Z,brenn-git-fixture,0.1.0,0,0,https://github.com/rnortman/brenn-git-fixture,"Hermetic git spawning for test fixtures, with a repo-escape canary"
+2026-10-10T19:24:32.12584Z,subcrate-core,0.1.0,0,0,https://github.com/yasuo-ozu/subcrate,Shared logic for the `subcrate` crate: subcrate identity/naming and attribute parsing.
+2026-10-10T19:24:37.528236Z,subcrate-macros,0.1.0,0,0,https://github.com/yasuo-ozu/subcrate,Procedural macro implementation for the `subcrate` crate. Use `subcrate` instead.
+2026-10-10T19:24:44.949847Z,subcrate,0.1.0,0,0,https://github.com/yasuo-ozu/subcrate,"Define real, independently compiled Rust crates with inline `#[subcrate]` module syntax."
+2026-10-10T19:28:33.483332Z,megabase,0.0.0,0,0,https://github.com/Zouhairmaj/megabase,"Name reserved for MEGABASE, a Rust reimplementation of Supabase built by AI agents. See the repository."
+2026-10-10T19:30:45.579665Z,tmtr,0.0.5-alpha.1,0,0,https://github.com/lixtrw/time-traker,Minimal CLI time tracker with a TUI stopwatch
+2026-10-10T19:34:35.020875Z,wasi-dbms-key-value-memory,0.11.0,0,0,https://github.com/veeso/wasm-dbms,Cached key-value memory provider for wasm-dbms on WASI
+2026-10-10T19:40:03.486112Z,slap,1.1.0,0,0,https://github.com/realzai/slap,Keep your Mac awake with a playful space-themed terminal timer
+2026-10-10T19:42:59.614584Z,gneiss-macros,0.1.0,0,0,https://codeberg.org/quartzshard/gneiss,"Macros for gneiss, an SDK for pebble watches"
+2026-10-10T19:43:00.262373Z,gneiss-types,0.1.1,0,0,https://codeberg.org/quartzshard/gneiss,Shared types across gneiss libs and build tools
+2026-10-10T19:43:02.937346Z,gneiss-build,0.1.1,0,0,https://codeberg.org/quartzshard/gneiss,Build-time resource compiling and bundling for gneiss apps
+2026-10-10T19:43:06.014052Z,cargo-gneiss,0.1.0,0,0,https://codeberg.org/quartzshard/gneiss,"Create, build and install gneiss Pebble apps"
+2026-10-10T19:43:07.970088Z,gneiss-sys,0.1.1,0,0,https://codeberg.org/quartzshard/gneiss,Raw PebbleOS app syscall bindings for gneiss
+2026-10-10T19:44:18.41197Z,spate-clickhouse-derive,0.2.0,0,0,https://github.com/spate-etl/spate,Proc-macro backing #[derive(ClickHouseRow)] for spate-clickhouse: generates the insert column list from a row struct's field declaration order.
+2026-10-10T19:52:32.568852Z,gneiss,0.1.1,0,0,https://codeberg.org/quartzshard/gneiss,Safe Rust SDK for Pebble watchapps and watchfaces
+2026-10-10T19:55:50.789023Z,sniff-rs,0.1.0,0,0,https://github.com/amaye15/sniff-rs,"Profile a data file and produce a data dictionary - observed types, missing %, samples, and why, across 30+ formats"
+2026-10-10T19:58:44.513236Z,minimenta,0.1.0,0,0,https://github.com/OriginalMHV/minimenta,Minuere impedimenta: an interactive disk usage analyzer for the terminal
+2026-10-10T20:12:51.666425Z,staticly-hash,0.1.0,0,0,https://github.com/bobbothe2nd/staticly-hash,Compile-time lookup generator
+2026-10-10T20:12:53.540315Z,staticly-macros,0.1.0,0,0,https://github.com/bobbothe2nd/staticly,Compile-time lookup generator
+2026-10-10T20:12:55.400533Z,staticly,0.1.0,0,0,https://github.com/bobbothe2nd/staticly,Compile-time lookup generator
