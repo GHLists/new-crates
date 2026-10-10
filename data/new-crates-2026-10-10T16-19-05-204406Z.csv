@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T15:19:32.230977Z,zixcel-graph,0.10.0,0,0,https://github.com/zixcel/zixcel-graph,Reusable embedded typed property multigraph for the Zixcel ecosystem
+2026-10-10T15:20:15.01481Z,teloxide-fork-core,0.14.0,0,0,https://github.com/teloxide-fork/teloxide,Core part of the `teloxide` library - telegram bot API client
+2026-10-10T15:20:21.52697Z,teloxide-fork-macros,0.11.0,0,0,https://github.com/teloxide-fork/teloxide,The teloxide's procedural macros
+2026-10-10T15:21:29.965961Z,gpui-macos-component-macros,0.7.1-macos.1,0,0,https://github.com/Rhein-Industries/gpui-macos,The gpui-macos pinned fork of gpui-component-macros.
+2026-10-10T15:21:38.425034Z,teloxide-fork,0.18.0,0,0,https://github.com/teloxide-fork/teloxide,An elegant Telegram bots framework for Rust
+2026-10-10T15:22:14.423843Z,gpui-macos-assets,0.7.1-macos.1,0,0,https://github.com/Rhein-Industries/gpui-macos,The gpui-macos pinned fork of gpui-kit-assets.
+2026-10-10T15:22:58.068462Z,gpui-macos-base,0.7.1-macos.1,0,0,https://github.com/Rhein-Industries/gpui-macos,The gpui-macos pinned fork of gpui-base.
+2026-10-10T15:23:50.940048Z,gpui-macos-component,0.7.1-macos.1,0,0,https://github.com/Rhein-Industries/gpui-macos,The gpui-macos pinned fork of gpui-component.
+2026-10-10T15:24:41.974738Z,gpui-macos-kit,0.7.1-macos.1,0,0,https://github.com/Rhein-Industries/gpui-macos,The gpui-macos pinned fork of gpui-kit.
+2026-10-10T15:26:25.249225Z,adnv,1.5.0,0,0,https://gitlab.com/adnap/tools/adnv,"CLI that tracks, checks and auto-updates infrastructure dependency versions across Terraform, Helm, Docker, Git and npm"
+2026-10-10T15:29:11.633152Z,gpui-macos,0.1.0,0,0,https://github.com/Rhein-Industries/gpui-macos,"A complete macOS design system for GPUI Kit: native controls, Liquid Glass surfaces, and desktop layouts."
+2026-10-10T15:29:27.230518Z,hatter-owner-contracts,0.10.0,0,0,https://github.com/hathq/hatter-owner-runtime,Exact Hatter owner incarnation and volatile availability contracts
+2026-10-10T15:32:26.217319Z,mil_onnx,0.1.0,0,0,https://github.com/savageAZfck/mil_spec,"ONNX → MIL frontend and sklearn-style classical ML (tree ensembles, GLMs) → .mlpackage. Hand-rolled proto2 reader, no prost, no Python."
+2026-10-10T15:37:29.393886Z,gamejolt-rs,0.1.0,0,0,https://github.com/Seigh-sword/gamejolt-rs,The most advanced Game Jolt Game API v1_2 crate in existence
+2026-10-10T15:37:33.665745Z,m4a-matrix-core,0.4.0,0,0,https://github.com/ZENG3LD/mail4agent,"Matrix event layer (hash-id rooms, room version 11): reference-hash event ids, content hashes, signed PDUs, auth checks and state resolution over ruma crates. No HTTP, no SQL."
+2026-10-10T15:39:59.069603Z,config-contract-derive,0.1.1,0,0,https://github.com/faizanali2k05/config-contract,"Derive macro for documented, validated configuration contracts"
+2026-10-10T15:40:28.100274Z,config-contract,0.1.1,0,0,https://github.com/faizanali2k05/config-contract,"Validated, documented configuration contracts generated from Rust structs"
+2026-10-10T15:40:58.343931Z,cargo-config-contract,0.1.1,0,0,https://github.com/faizanali2k05/config-contract,Cargo subcommand for generating config-contract artifacts
+2026-10-10T15:42:36.116919Z,toyos-osrelease,0.1.0+95aa302d859ac447,0,0,https://github.com/ToyOSOrg/ToyOS,"The one definition of /system/etc/os-release: which build an image is, written by the build and read by the supervisor, libc's uname and the sysinfo fork (no_std, no alloc)."
+2026-10-10T15:45:57.670639Z,renamite-mcp,0.3.11,0,0,https://github.com/mlm-games/renamite,MCP server: author renamite rigs from an agent
+2026-10-10T16:01:40.108489Z,chassis-core,0.7.0,0,0,https://github.com/tanvincible/chassis,"The core of Chassis, an embedded vector index for local semantic search."
+2026-10-10T16:04:34.015616Z,zixcel-local-inference,0.10.1,0,0,https://github.com/zixcel/zixcel-local-inference,"Local model catalog, acquisition contract, and verified artifact placement for Zixcel"
+2026-10-10T16:05:04.933642Z,hatter-owner-runtime,0.10.0,0,0,https://github.com/hathq/hatter-owner-runtime,"Hatter exact process incarnation, handshake and availability policy"
+2026-10-10T16:09:32.029001Z,opys-bundle,0.3.0,0,0,https://github.com/harmoniya-net/opys,"The opys bundle: a manifest and the blobs it names, as one zip."
+2026-10-10T16:09:49.620367Z,opys-dev,0.3.0,0,0,https://github.com/harmoniya-net/opys,opys build-time SDK. Merges plugin contributions into a Manifest.
+2026-10-10T16:09:52.869164Z,opys-authliberty,0.3.0,0,0,https://github.com/harmoniya-net/opys,AuthLiberty for opys — a -javaagent that points Minecraft's auth hosts elsewhere.
+2026-10-10T16:09:59.251189Z,opys-bifrost,0.3.0,0,0,https://github.com/harmoniya-net/opys,Mint a Bifrost-compatible Ed25519 JWT for opys — launch against a self-hosted Yggdrasil server without the OAuth flow.
+2026-10-10T16:10:02.066728Z,opys-mojang,0.3.0,0,0,https://github.com/harmoniya-net/opys,"Mojang protocol parsers (version JSON, libraries, assets, maven). Pure — no I/O."
+2026-10-10T16:10:38.253142Z,tlg-rs-slide,1.0.0,0,0,https://github.com/XuanRikka/tlg-rs,"Internal crate for tlg-rs, do not use directly"
+2026-10-10T16:10:49.13457Z,tlg-rs-cli,1.0.0,0,0,https://github.com/XuanRikka/tlg-rs,Command-line tool for converting KrKr2 TLG images to and from common formats
+2026-10-10T16:14:20.455864Z,cargogc,0.1.0,0,0,https://github.com/LosEcher/cargogc,"Reclaim the cargo build caches cargo will never read again, with inode-honest accounting and a fail-closed build gate. The judgement is a build record, not an age."
+2026-10-10T16:19:04.214006Z,opys-minecraft-vanilla,0.3.0,0,0,https://github.com/harmoniya-net/opys,"Vanilla Minecraft as manifest artifacts, plus the version-JSON mappers every opys loader reuses."
