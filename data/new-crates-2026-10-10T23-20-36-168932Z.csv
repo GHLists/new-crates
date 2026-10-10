@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T22:19:12.893581Z,ps-jxl-image,0.13.0,0,0,https://github.com/pathscale/ps-jxl-oxide,"JPEG XL image header representation, part of jxl-oxide: pathscale fork of jxl-oxide."
+2026-10-10T22:29:34.344529Z,ps-jxl-modular,0.13.0,0,0,https://github.com/pathscale/ps-jxl-oxide,"JPEG XL Modular image decoder, part of jxl-oxide: pathscale fork of jxl-oxide."
+2026-10-10T22:29:39.184911Z,clifford-core,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Precision-generic Clifford algebra primitives for Rust
+2026-10-10T22:36:47.650204Z,cephal,0.1.0,0,0,https://github.com/zortax/cephal,"Retained, incremental CSS layout (block, flexbox, grid) with spineless invalidation"
+2026-10-10T22:38:28.644513Z,cluster-green,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Checked cluster Green-function and CPT embedding reference tools
+2026-10-10T22:39:08.615487Z,headless-fonts,0.1.0,0,0,https://github.com/pathscale/headless-fonts,"A fixed, versioned set of open fonts and the CSS family names they stand in for, for headless rendering that must not depend on the machine's installed fonts"
+2026-10-10T22:40:06.022051Z,experiment-core,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Transport-neutral contracts for reproducible computational experiments
+2026-10-10T22:40:08.84404Z,field-lyapunov,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Matrix-free Lyapunov diagnostics for high-dimensional fields and dynamical systems
+2026-10-10T22:40:11.641303Z,open-quantum-systems,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Checked dense Lindblad master-equation reference dynamics
+2026-10-10T22:47:22.616651Z,dtr,0.1.0,0,0,https://github.com/mevanlc/dtr,Forge-aware repository cloning and tool installation
+2026-10-10T22:48:13.273959Z,ps-jxl-vardct,0.13.0,0,0,https://github.com/pathscale/ps-jxl-oxide,"JPEG XL VarDCT frame representation, part of jxl-oxide: pathscale fork of jxl-oxide."
+2026-10-10T22:50:20.066199Z,phonon-transport,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Checked harmonic-chain phonons and ballistic thermal transport
+2026-10-10T22:51:47.180717Z,rightkit-llm,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Brand-neutral BYOK LLM clients: Anthropic Messages and OpenAI-compatible chat, streaming, tool use, route failover with circuit breaker, pricing, and prompt-cache discipline."
+2026-10-10T22:53:17.741091Z,webfinger-service,0.1.0,0,0,https://github.com/joshka/webfinger-rs,Runtime-neutral WebFinger service configuration and provider types.
+2026-10-10T22:53:28.949644Z,stele-gate,1.0.0,0,0,,Stele Gate for Solana programs: require a current policy acceptance before a protected action
+2026-10-10T22:53:56.747698Z,webfinger-service-axum,0.1.0,0,0,https://github.com/joshka/webfinger-rs,A native Axum server for WebFinger service configuration.
+2026-10-10T22:53:59.482942Z,webfinger-viewer,0.1.0,0,0,https://github.com/joshka/webfinger-rs,A WebFinger viewer and debugging UI.
+2026-10-10T22:54:03.902215Z,webfinger-viewer-axum,0.1.0,0,0,https://github.com/joshka/webfinger-rs,A native Axum runtime for the WebFinger viewer.
+2026-10-10T22:54:38.861625Z,mutvec,0.1.1,0,0,https://codeberg.org/FishingHacks/mutvec,mutvec - compile-time checked disjoint mutable access to a vector. Very useful for making trees.
+2026-10-10T22:57:14.146383Z,statechronicle-profile,0.2.0,0,0,https://github.com/STEXS-Technologies/statechronicle,Allocation-free portable state profile contracts for StateChronicle.
+2026-10-10T22:57:31.282888Z,statechronicle-portable,0.2.0,0,0,https://github.com/STEXS-Technologies/statechronicle,"Bounded, allocation-free canonical encoding and integrity verification for StateChronicle."
+2026-10-10T22:58:45.371199Z,ps-jxl-color,0.13.0,0,0,https://github.com/pathscale/ps-jxl-oxide,"JPEG XL color management functions, part of jxl-oxide: pathscale fork of jxl-oxide."
+2026-10-10T23:00:22.53124Z,aics,0.6.0,0,0,https://github.com/mevanlc/aics,"Search local Claude Code, Codex CLI, and Antigravity chat session histories"
+2026-10-10T23:00:30.471934Z,quantum-chaos,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Checked spectral diagnostics for quantum-chaos studies
+2026-10-10T23:01:48.808643Z,mabat-check,0.1.0,0,0,https://github.com/ddalton/mabat,"Check Mabat views against a snapshot of a database schema, without a database: for build scripts and the mabat CLI"
+2026-10-10T23:01:49.580905Z,mabat-core,0.1.0,0,0,https://github.com/ddalton/mabat,Shape description and query planning for Mabat
+2026-10-10T23:01:50.058883Z,mabat-derive,0.1.0,0,0,https://github.com/ddalton/mabat,Derive macro for Mabat views
+2026-10-10T23:01:50.914814Z,mabat-sqlx,0.1.0,0,0,https://github.com/ddalton/mabat,"The executor of Mabat views for PostgreSQL, MySQL and SQLite, built on SQLx"
+2026-10-10T23:01:53.085481Z,mabat,0.1.0,0,0,https://github.com/ddalton/mabat,"An aggregate mapper for Rust: declare the shape of a domain aggregate, and load and save it with batched, checkable SQL"
+2026-10-10T23:03:47.102716Z,mabat-cli,0.1.0,0,0,https://github.com/ddalton/mabat,"Check, explain and scaffold Mabat override SQL without the application"
+2026-10-10T23:09:15.428059Z,ps-jxl-frame,0.13.0,0,0,https://github.com/pathscale/ps-jxl-oxide,"JPEG XL frame data representation, part of jxl-oxide: pathscale fork of jxl-oxide."
+2026-10-10T23:10:31.50033Z,skeletons-engine,0.0.1,0,0,https://github.com/hexlace/skeletons,The engine behind `skeletons` and `skeletons-library`. This version reserves the name and holds no code.
+2026-10-10T23:10:49.140221Z,skeletons-library,0.0.1,0,0,https://github.com/hexlace/skeletons,The library API of `skeletons`: a check other tools can call. This version reserves the name and holds no code.
+2026-10-10T23:13:11.890016Z,mabat-graphql,0.1.0,0,0,https://github.com/ddalton/mabat,"A GraphQL schema generated from Mabat views, with async-graphql"
+2026-10-10T23:17:01.611171Z,patina-ui,0.1.0,0,0,https://github.com/Sector-F-Labs/patina,"Patina: the window frame, components and design language shared by Photograph, UnAmp and other egui desktop apps"
+2026-10-10T23:19:48.390683Z,ps-jxl-render,0.13.0,0,0,https://github.com/pathscale/ps-jxl-oxide,"JPEG XL image renderer, part of jxl-oxide: pathscale fork of jxl-oxide."
