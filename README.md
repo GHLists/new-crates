@@ -8,34 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 20:19 UTC
+## Latest list — 2026-10-10 21:18 UTC
 
-New crates published between 2026-10-10 19:19 UTC and 2026-10-10 20:19 UTC.
+New crates published between 2026-10-10 20:19 UTC and 2026-10-10 21:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-10T20-19-57-778595Z.csv)
+[Full CSV](data/new-crates-2026-10-10T21-18-35-825001Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-10 19:20:31 | [brenn-git-fixture](https://crates.io/crates/brenn-git-fixture) | 0.1.0 | 0 | Hermetic git spawning for test fixtures, with a repo-escape canary |
-| 2026-10-10 19:24:32 | [subcrate-core](https://crates.io/crates/subcrate-core) | 0.1.0 | 0 | Shared logic for the `subcrate` crate: subcrate identity/naming and attribute p… |
-| 2026-10-10 19:24:37 | [subcrate-macros](https://crates.io/crates/subcrate-macros) | 0.1.0 | 0 | Procedural macro implementation for the `subcrate` crate. Use `subcrate` instea… |
-| 2026-10-10 19:24:44 | [subcrate](https://crates.io/crates/subcrate) | 0.1.0 | 0 | Define real, independently compiled Rust crates with inline `#[subcrate]` modul… |
-| 2026-10-10 19:28:33 | [megabase](https://crates.io/crates/megabase) | 0.0.0 | 0 | Name reserved for MEGABASE, a Rust reimplementation of Supabase built by AI age… |
-| 2026-10-10 19:30:45 | [tmtr](https://crates.io/crates/tmtr) | 0.0.5-alpha.1 | 0 | Minimal CLI time tracker with a TUI stopwatch |
-| 2026-10-10 19:34:35 | [wasi-dbms-key-value-memory](https://crates.io/crates/wasi-dbms-key-value-memory) | 0.11.0 | 0 | Cached key-value memory provider for wasm-dbms on WASI |
-| 2026-10-10 19:40:03 | [slap](https://crates.io/crates/slap) | 1.1.0 | 0 | Keep your Mac awake with a playful space-themed terminal timer |
-| 2026-10-10 19:42:59 | [gneiss-macros](https://crates.io/crates/gneiss-macros) | 0.1.0 | 0 | Macros for gneiss, an SDK for pebble watches |
-| 2026-10-10 19:43:00 | [gneiss-types](https://crates.io/crates/gneiss-types) | 0.1.1 | 0 | Shared types across gneiss libs and build tools |
-| 2026-10-10 19:43:02 | [gneiss-build](https://crates.io/crates/gneiss-build) | 0.1.1 | 0 | Build-time resource compiling and bundling for gneiss apps |
-| 2026-10-10 19:43:06 | [cargo-gneiss](https://crates.io/crates/cargo-gneiss) | 0.1.0 | 0 | Create, build and install gneiss Pebble apps |
-| 2026-10-10 19:43:07 | [gneiss-sys](https://crates.io/crates/gneiss-sys) | 0.1.1 | 0 | Raw PebbleOS app syscall bindings for gneiss |
-| 2026-10-10 19:44:18 | [spate-clickhouse-derive](https://crates.io/crates/spate-clickhouse-derive) | 0.2.0 | 0 | Proc-macro backing #[derive(ClickHouseRow)] for spate-clickhouse: generates the… |
-| 2026-10-10 19:52:32 | [gneiss](https://crates.io/crates/gneiss) | 0.1.1 | 0 | Safe Rust SDK for Pebble watchapps and watchfaces |
-| 2026-10-10 19:55:50 | [sniff-rs](https://crates.io/crates/sniff-rs) | 0.1.0 | 0 | Profile a data file and produce a data dictionary - observed types, missing %,… |
-| 2026-10-10 19:58:44 | [minimenta](https://crates.io/crates/minimenta) | 0.1.0 | 0 | Minuere impedimenta: an interactive disk usage analyzer for the terminal |
-| 2026-10-10 20:12:51 | [staticly-hash](https://crates.io/crates/staticly-hash) | 0.1.0 | 0 | Compile-time lookup generator |
-| 2026-10-10 20:12:53 | [staticly-macros](https://crates.io/crates/staticly-macros) | 0.1.0 | 0 | Compile-time lookup generator |
-| 2026-10-10 20:12:55 | [staticly](https://crates.io/crates/staticly) | 0.1.0 | 0 | Compile-time lookup generator |
+| 2026-10-10 20:23:13 | [jtac](https://crates.io/crates/jtac) | 0.0.1 | 0 | Provenance and verification for AI-written code: a local gate with signed evide… |
+| 2026-10-10 20:25:12 | [gdext_async_macros](https://crates.io/crates/gdext_async_macros) | 0.1.2 | 0 | proc-macro crate for gdext_async, should not be used directly |
+| 2026-10-10 20:27:48 | [abus-xml](https://crates.io/crates/abus-xml) | 0.0.4 | 0 | D-Bus introspection XML parsing and code generation for abus |
+| 2026-10-10 20:28:43 | [cleaner-cli](https://crates.io/crates/cleaner-cli) | 0.1.0 | 0 | A fast and lightweight CLI tool in Rust to find and clean developer junk like n… |
+| 2026-10-10 20:32:18 | [gpu-conductor](https://crates.io/crates/gpu-conductor) | 0.0.0 | 0 | Linux desktop app that frees GPU for higher-priority work. Placeholder, in deve… |
+| 2026-10-10 20:33:25 | [wavo](https://crates.io/crates/wavo) | 0.1.0 | 0 | Speech-to-text in pure Rust on the GPU (Metal, Vulkan): Parakeet, GigaAM and Wh… |
+| 2026-10-10 20:35:19 | [vtee](https://crates.io/crates/vtee) | 0.0.1 | 0 | A tee for terminal programs: watch, share, drive and test any TUI's screen. |
+| 2026-10-10 20:36:37 | [tauri-plugin-phone-haptics](https://crates.io/crates/tauri-plugin-phone-haptics) | 0.1.0 | 0 | Tauri plugin for authoring and replaying haptic patterns, with capability repor… |
+| 2026-10-10 20:37:18 | [tauri-plugin-system-appearance](https://crates.io/crates/tauri-plugin-system-appearance) | 0.1.0 | 0 | Tauri plugin that reads the operating system's window titlebar and appearance p… |
+| 2026-10-10 20:37:31 | [tauri-plugin-window-manager](https://crates.io/crates/tauri-plugin-window-manager) | 0.1.0 | 0 | Tauri plugin that reaches window manager features a webview cannot, such as the… |
+| 2026-10-10 20:37:43 | [tauri-plugin-os-prefs](https://crates.io/crates/tauri-plugin-os-prefs) | 0.1.0 | 0 | Tauri plugin that reads the user's operating system preferences, such as the 12… |
+| 2026-10-10 20:37:55 | [tauri-plugin-gamepad-haptics](https://crates.io/crates/tauri-plugin-gamepad-haptics) | 0.1.0 | 0 | Tauri plugin that plays rumble on gamepads from one pattern language, without r… |
+| 2026-10-10 20:39:20 | [unsigned](https://crates.io/crates/unsigned) | 0.0.1 | 0 | Unsigned ai-compute orchestrator |
+| 2026-10-10 20:40:50 | [cerebral-work](https://crates.io/crates/cerebral-work) | 0.1.0 | 0 | Cerebral: The internal crew and back office. Code signs and craft. |
+| 2026-10-10 20:41:52 | [cerebral-k8s](https://crates.io/crates/cerebral-k8s) | 0.1.0 | 0 | Internal Kubernetes operator boilerplate and CRD bindings for Cerebral |
+| 2026-10-10 20:46:01 | [uas](https://crates.io/crates/uas) | 0.1.0 | 0 | Unsigned Agent Substrate (UAS) core primitives |
+| 2026-10-10 20:46:28 | [haruspex-macho](https://crates.io/crates/haruspex-macho) | 0.3.0 | 0 | Read the entrails of binaries: pure-Rust Mach-O inspection (slices, load comman… |
+| 2026-10-10 20:52:25 | [unlit3d_mcp](https://crates.io/crates/unlit3d_mcp) | 0.1.0-dev.2 | 0 | A Model Context Protocol server that drives a unlit3d world through its public… |
+| 2026-10-10 20:53:59 | [restoric](https://crates.io/crates/restoric) | 0.1.0 | 0 | Browse and restore a restic repository by time, anchored on a folder |
+| 2026-10-10 20:55:30 | [paint-together](https://crates.io/crates/paint-together) | 0.2.0 | 0 | Classic Windows Paint, rebuilt in Rust, where kids on the same Wi-Fi draw on on… |
+| 2026-10-10 20:59:08 | [submilli-engine](https://crates.io/crates/submilli-engine) | 0.3.0 | 0 | Compiles Submilli programs, a TypeScript subset, to WebAssembly and runs them u… |
+| 2026-10-10 21:03:01 | [canic-contracts](https://crates.io/crates/canic-contracts) | 0.111.0 | 0 | Runtime-free Canic protocol contracts and identifiers |
+| 2026-10-10 21:03:15 | [assaydb](https://crates.io/crates/assaydb) | 0.1.0-alpha.1 | 0 | Experimental analytical SQL engine with Arrow results and a JSON command-line i… |
+| 2026-10-10 21:04:45 | [m4a-agent](https://crates.io/crates/m4a-agent) | 0.4.2 | 0 | The agent-side client of the messenger: one session = one identity = one nick =… |
+| 2026-10-10 21:06:47 | [canic-blob-service](https://crates.io/crates/canic-blob-service) | 0.111.0 | 0 | Canic endpoint and lifecycle composition for the independent IC Blob service |
+| 2026-10-10 21:08:24 | [knot-lite](https://crates.io/crates/knot-lite) | 0.5.0 | 0 | Database-free code intelligence for one repository: file-based vectors + langua… |
+| 2026-10-10 21:16:14 | [tuff-adapter-pi](https://crates.io/crates/tuff-adapter-pi) | 0.16.0 | 0 | Pi coding agent adapter for Tuff. |
+| 2026-10-10 21:17:43 | [murmuration](https://crates.io/crates/murmuration) | 0.1.1 | 0 | Starlings at dusk, in your terminal. |
 
 ## Data source
 

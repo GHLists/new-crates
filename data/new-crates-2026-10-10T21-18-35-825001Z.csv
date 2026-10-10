@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T20:23:13.51156Z,jtac,0.0.1,0,0,https://github.com/dmriding/jtac,Provenance and verification for AI-written code: a local gate with signed evidence that travels with commits. Pre-implementation.
+2026-10-10T20:25:12.278519Z,gdext_async_macros,0.1.2,0,0,https://github.com/Mercerenies/gdext-async,"proc-macro crate for gdext_async, should not be used directly"
+2026-10-10T20:27:48.112496Z,abus-xml,0.0.4,0,0,https://github.com/tailwags/abus,D-Bus introspection XML parsing and code generation for abus
+2026-10-10T20:28:43.015698Z,cleaner-cli,0.1.0,0,0,https://github.com,"A fast and lightweight CLI tool in Rust to find and clean developer junk like node_modules, target, and dist."
+2026-10-10T20:32:18.451576Z,gpu-conductor,0.0.0,0,0,,"Linux desktop app that frees GPU for higher-priority work. Placeholder, in development."
+2026-10-10T20:33:25.660768Z,wavo,0.1.0,0,0,https://github.com/vladkens/wavo,"Speech-to-text in pure Rust on the GPU (Metal, Vulkan): Parakeet, GigaAM and Whisper, as a library and an ollama-like CLI."
+2026-10-10T20:35:19.939233Z,vtee,0.0.1,0,0,https://github.com/huntwj/vtee,"A tee for terminal programs: watch, share, drive and test any TUI's screen."
+2026-10-10T20:36:37.283315Z,tauri-plugin-phone-haptics,0.1.0,0,0,https://github.com/liminal-hq/tauri-plugins-workspace,"Tauri plugin for authoring and replaying haptic patterns, with capability reporting and graceful downgrades"
+2026-10-10T20:37:18.340651Z,tauri-plugin-system-appearance,0.1.0,0,0,https://github.com/liminal-hq/tauri-plugins-workspace,Tauri plugin that reads the operating system's window titlebar and appearance preferences and pushes changes
+2026-10-10T20:37:31.001527Z,tauri-plugin-window-manager,0.1.0,0,0,https://github.com/liminal-hq/tauri-plugins-workspace,"Tauri plugin that reaches window manager features a webview cannot, such as the compositor's own window menu"
+2026-10-10T20:37:43.408327Z,tauri-plugin-os-prefs,0.1.0,0,0,https://github.com/liminal-hq/tauri-plugins-workspace,"Tauri plugin that reads the user's operating system preferences, such as the 12/24-hour clock, and pushes changes"
+2026-10-10T20:37:55.957141Z,tauri-plugin-gamepad-haptics,0.1.0,0,0,https://github.com/liminal-hq/tauri-plugins-workspace,"Tauri plugin that plays rumble on gamepads from one pattern language, without reading their input"
+2026-10-10T20:39:20.830659Z,unsigned,0.0.1,0,0,,Unsigned ai-compute orchestrator
+2026-10-10T20:40:50.740936Z,cerebral-work,0.1.0,0,0,https://github.com/cerebral-work,Cerebral: The internal crew and back office. Code signs and craft.
+2026-10-10T20:41:52.172963Z,cerebral-k8s,0.1.0,0,0,https://github.com/cerebral-work/cerebral-k8s,Internal Kubernetes operator boilerplate and CRD bindings for Cerebral
+2026-10-10T20:46:01.174166Z,uas,0.1.0,0,0,https://github.com/unsigned-gg/uas,Unsigned Agent Substrate (UAS) core primitives
+2026-10-10T20:46:28.195492Z,haruspex-macho,0.3.0,0,0,https://github.com/savageAZfck/haruspex,"Read the entrails of binaries: pure-Rust Mach-O inspection (slices, load commands, dylibs, symbols, entitlements, strings) with evidence-backed audit reports. Read-only — never executes the target. N…"
+2026-10-10T20:52:25.282902Z,unlit3d_mcp,0.1.0-dev.2,0,0,https://github.com/beicause/unlit3d,A Model Context Protocol server that drives a unlit3d world through its public API.
+2026-10-10T20:53:59.930338Z,restoric,0.1.0,0,0,https://github.com/borje/restoric,"Browse and restore a restic repository by time, anchored on a folder"
+2026-10-10T20:55:30.880536Z,paint-together,0.2.0,0,0,https://github.com/stephenkingston/paint-together,"Classic Windows Paint, rebuilt in Rust, where kids on the same Wi-Fi draw on one picture together in real time"
+2026-10-10T20:59:08.830676Z,submilli-engine,0.3.0,0,0,https://github.com/submilli/submilli-runtime,"Compiles Submilli programs, a TypeScript subset, to WebAssembly and runs them under capability policy"
+2026-10-10T21:03:01.454603Z,canic-contracts,0.111.0,0,0,https://github.com/dragginzgame/canic,Runtime-free Canic protocol contracts and identifiers
+2026-10-10T21:03:15.491849Z,assaydb,0.1.0-alpha.1,0,0,https://github.com/WomenDefiningAI/assaydb,Experimental analytical SQL engine with Arrow results and a JSON command-line interface
+2026-10-10T21:04:45.044296Z,m4a-agent,0.4.2,0,0,https://github.com/ZENG3LD/mail4agent,"The agent-side client of the messenger: one session = one identity = one nick = one credential set, resolved by the client (keys generated and kept in a vault, login by signature). Tiers behind cargo…"
+2026-10-10T21:06:47.320866Z,canic-blob-service,0.111.0,0,0,https://github.com/dragginzgame/canic,Canic endpoint and lifecycle composition for the independent IC Blob service
+2026-10-10T21:08:24.76952Z,knot-lite,0.5.0,0,0,https://github.com/raultov/knot-lite,Database-free code intelligence for one repository: file-based vectors + language-server call graph (built on knot's parsers)
+2026-10-10T21:16:14.865697Z,tuff-adapter-pi,0.16.0,0,0,https://github.com/kannandreams/tuff,Pi coding agent adapter for Tuff.
+2026-10-10T21:17:43.710713Z,murmuration,0.1.1,0,0,https://github.com/ImanolGo/murmuration,"Starlings at dusk, in your terminal."
