@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T18:19:28.842631Z,mplot,1.0.0,0,0,https://github.com/keejkrej/mplot-rs,Native Rust 2D plotting with matplotlib-inspired rendering fidelity
+2026-10-10T18:19:44.286392Z,opys-neoforge,0.3.1,0,0,https://github.com/harmoniya-net/opys,NeoForge loader for opys — resolves a published inheritsFrom document onto the vanilla mappers.
+2026-10-10T18:20:58.445561Z,rv-sbom,0.3.0,0,0,https://github.com/raeva-io/raeva,SBOM generation for Raeva (CycloneDX and SPDX)
+2026-10-10T18:22:35.890463Z,walkie,0.1.2,0,0,https://github.com/Squadrant-AI/walkie,"Walkie-talkie for AI agents: quick, end-to-end encrypted chat between any two agents."
+2026-10-10T18:24:35.379316Z,catpaw-web,0.1.1,0,0,https://github.com/KernelErr/CatPaw,"The web platform of the CatPaw browser: DOM APIs, events, fetch, the event loop and more"
+2026-10-10T18:26:01.757799Z,nmn-data,1.0.0,0,0,https://github.com/RGENR8-NMN/nmn-research-data,"Typed, embedded open datasets on NMN (nicotinamide mononucleotide): 25 published human trials and the UK NMN Price Index 2026, from the RGENR8 Longevity Data Lab."
+2026-10-10T18:31:31.572581Z,rv-vuln,0.3.0,0,0,https://github.com/raeva-io/raeva,Vulnerability scanning for Raeva using OSV API
+2026-10-10T18:34:20.432988Z,zenith-pipeline,0.0.11,0,0,https://github.com/zenitheditor/zenith,"Zenith render orchestration over host I/O traits: config policy, composition imports, fonts, assets, compile, and render."
+2026-10-10T18:34:23.559734Z,zenith-editor,0.0.11,0,0,https://github.com/zenitheditor/zenith,"Zenith editor engine: a stateless command registry over a serializable session (selection, gestures, history, render)."
+2026-10-10T18:36:11.307551Z,catpaw-bindings-boa,0.1.1,0,0,https://github.com/KernelErr/CatPaw,JavaScript bindings for the CatPaw browser: glue generated from Web IDL for the Boa engine
+2026-10-10T18:37:53.185703Z,ps-hayro-jpeg2000,0.5.0,0,0,https://github.com/pathscale/ps-hayro-jpeg2000,"A memory-safe, pure-Rust JPEG 2000 decoder: pathscale fork of hayro-jpeg2000."
+2026-10-10T18:40:24.927877Z,balanced38,1.1.0,0,0,https://github.com/dsr2812/ancient-os,"An exact, honest, balanced signed base-38 integer lane: every i128 has exactly one membrane form, the carry law is compare-and-add-38, and every refusal is loud. Carved from the Ancient Number OS; it…"
+2026-10-10T18:40:31.522271Z,libb38,0.3.0,0,0,https://github.com/dsr2812/ancient-os,"A drop-in exact-arithmetic layer: balanced base-38 strings in, exact sum out. C-ABI, no runtime. The key the Council decreed."
+2026-10-10T18:41:33.161522Z,exegenius-core,0.1.0,0,0,https://github.com/lmmx/exegenius,"Core library for exegenius: concept graph, validation, planning, audit handling and docs output"
+2026-10-10T18:41:34.780478Z,exegenius,0.1.0,0,0,https://github.com/lmmx/exegenius,"Turn source documents into a wiki of linked explanatory pages for a stated reader, driven by a coding agent"
+2026-10-10T18:43:02.956109Z,vlz-dart,0.14.0,0,0,https://github.com/verilyze/verilyze,Dart / Flutter language plugin for verilyze (Pub ecosystem)
+2026-10-10T18:43:51.410499Z,tokn-session-codex,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,Read-only Codex session discovery and normalization.
+2026-10-10T18:43:53.136484Z,tokn-session-dsh,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,Read-only DeepSeek Harness session discovery and normalization.
+2026-10-10T18:43:55.608359Z,tokn-session-hub,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,"Host pairing, encrypted session tunnels, and Hub administration."
+2026-10-10T18:45:42.91581Z,firebrick-daemon,0.4.0,0,0,https://github.com/wmeints/anvil,The fbkd daemon that manages Firebrick microVM sandboxes for coding agents.
+2026-10-10T18:49:06.128918Z,catpaw-engine,0.1.1,0,0,https://github.com/KernelErr/CatPaw,"The CatPaw browser's page engine: pages, frames, popups and workers on one thread, their network and their event loops"
+2026-10-10T18:59:24.299295Z,catpaw-protocol,0.1.1,0,0,https://github.com/KernelErr/CatPaw,The CatPaw browser's agent protocol: tool and result types and their JSON schema
+2026-10-10T19:02:48.088416Z,sage-plus-raw,0.1.0,0,0,https://github.com/pgarrett-scripps/sage-plus-raw,"Pure-Rust reader for Thermo Fisher RAW mass spectrometry files, forked from Sigilweaver OpenTFRaw."
+2026-10-10T19:06:34.410795Z,sage-plus-tdf,0.2.0,0,0,https://github.com/pgarrett-scripps/sage-plus-tdf,Read-only pure Rust reader for Bruker timsTOF TDF and TSF acquisitions and ProteoScape miniTDF spectra
+2026-10-10T19:09:55.147772Z,catpaw-server,0.1.1,0,0,https://github.com/KernelErr/CatPaw,"The CatPaw browser's agent server: MCP tools, sessions, confirmations and hand-off"
+2026-10-10T19:14:28.473547Z,gsctl,0.1.0,0,0,https://github.com/junoddev/gsctl,"Search, inspect and change GNOME settings (GSettings/dconf) with JSON output, validation and undo, built for AI agents"
+2026-10-10T19:17:04.615755Z,macron-cli,0.1.0,0,0,https://github.com/realzai/macron,"Schedule, run and watch local jobs on macOS, backed by launchd, from a CLI or a local web UI"
