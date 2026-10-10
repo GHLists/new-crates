@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T17:19:24.2138Z,opys-forge,0.3.0,0,0,https://github.com/harmoniya-net/opys,Forge loader for opys — resolves a published inheritsFrom document onto the vanilla mappers.
+2026-10-10T17:20:05.258253Z,bmf,0.0.1,0,0,,BitLinear Model Format
+2026-10-10T17:24:18.701258Z,balise-cli,0.0.0,0,0,,"The balise command-line tool (placeholder, not usable yet)"
+2026-10-10T17:26:04.044723Z,runlight,0.1.0,0,0,https://github.com/runlightsh/runlight,"Privacy friendly web analytics that lives inside your Rust app: mount a route, add a script tag, read your stats at /runlight"
+2026-10-10T17:26:06.195452Z,runlight-sqlx,0.1.0,0,0,https://github.com/runlightsh/runlight,"Runlight's store over sqlx: its tables in the app's own SQLite, Postgres, MySQL, or MariaDB database"
+2026-10-10T17:27:39.890838Z,zerograd,0.0.1,0,0,,zerograd
+2026-10-10T17:29:27.975597Z,opys-java,0.3.0,0,0,https://github.com/harmoniya-net/opys,"opys JDK provisioning plugin — Temurin, Zulu and GraalVM CE resolvers."
+2026-10-10T17:34:25.00545Z,balise-macros,0.0.0,0,0,,"Procedural macros for Balise (placeholder, not usable yet)"
+2026-10-10T17:39:31.459216Z,opys-modrinth,0.3.0,0,0,https://github.com/harmoniya-net/opys,"Modrinth for opys — mod files by version id, and .mrpack modpacks."
+2026-10-10T17:39:40.037242Z,nudat,0.1.0,0,0,https://github.com/opensagadev/nudat,Read and edit Traveller's Tales Nu engine DAT archives
+2026-10-10T17:39:42.334216Z,nudat-cli,0.1.0,0,0,https://github.com/opensagadev/nudat,CLI for Traveller's Tales Nu engine DAT archives
+2026-10-10T17:39:47.619139Z,tglib-rs,0.2.3,0,0,https://github.com/enesx32/TgLib,A terminal UI library written in Rust
+2026-10-10T17:41:44.16044Z,nusave,0.1.0,0,0,https://github.com/opensagadev/nusave,"Inspect, explain, edit, and create Traveller's Tales Nu engine savegames"
+2026-10-10T17:42:11.623095Z,catpaw-boa-ast,0.22.0,0,0,https://github.com/KernelErr/CatPaw,boa_ast 0.22.0 (the Boa JavaScript engine's syntax tree) with the fixes the CatPaw browser needs; see CATPAW.md.
+2026-10-10T17:42:52.367493Z,catpaw-stylo-taffy,0.3.0-beta.2,0,0,https://github.com/KernelErr/CatPaw,stylo_taffy 0.3.0-beta.2 (Blitz's interop between Stylo and Taffy) built against stylo 0.22 for the CatPaw browser; see CATPAW.md.
+2026-10-10T17:43:07.446967Z,catpaw-boa-parser,0.22.0,0,0,https://github.com/KernelErr/CatPaw,"boa_parser 0.22.0 (the Boa JavaScript engine's parser), built on catpaw-boa-ast for the CatPaw browser; see CATPAW.md."
+2026-10-10T17:43:44.471811Z,catpaw-boa-engine,0.22.0,0,0,https://github.com/KernelErr/CatPaw,boa_engine 0.22.0 (the Boa JavaScript engine) with the fixes the CatPaw browser needs; see CATPAW.md.
+2026-10-10T17:44:32.6237Z,speedtest-tui-cli,0.1.0,0,0,,"A feature-packed, high-performance network speed testing tool, latency monitor, and TUI dashboard written in Rust."
+2026-10-10T17:46:19.290338Z,watgen,0.1.0,0,0,https://git.flufi.uk/flufi/watgen,A WebAssembly Text Format (WAT) generator written in Rust.
+2026-10-10T17:49:34.525704Z,opys-links,0.3.0,0,0,https://github.com/harmoniya-net/opys,"Links for opys — a pasted GitHub, GitLab, Modrinth, CurseForge or plain URL, resolved to a pinned file."
+2026-10-10T17:49:48.11886Z,burnrate-agent,1.0.0,0,0,https://github.com/ronitgupta138/burnrate,"Terminal HUD, Hard Spend Caps & Prompt-Cache Guard for AI Coding Agents in Rust"
+2026-10-10T17:53:29.203375Z,silicon-spotify-client,0.3.0,0,0,https://github.com/unlikefraction/spotify-cli,"Stateless Rust library for spotify-cli: Spotify control through spotify_player and AppleScript, playback triggers, and the spotify-cli backend API."
+2026-10-10T17:53:53.681315Z,silicon-spotify-cli,0.3.0,0,0,https://github.com/unlikefraction/spotify-cli,"The `spotify` command: drive Spotify on macOS from the terminal, with Silicon Accounts login and Ting playback triggers for Silicons."
+2026-10-10T17:59:37.750507Z,opys-lwjgl3ify,0.3.0,0,0,https://github.com/harmoniya-net/opys,"lwjgl3ify loader for opys — a published version document on the vanilla mappers, plus its mod jars."
+2026-10-10T18:04:00.809404Z,ed-onde-account,1.2.2,0,0,https://github.com/ondeinference/ed,"Onde Inference account client for Onde agents: sign in, list and activate apps, and mint an Onde Cloud API key through the ondeinference.com API. Holds no Onde secrets."
+2026-10-10T18:06:03.579308Z,nd2,1.0.0,0,0,https://github.com/keejkrej/nd2-rs,"Fast, memory-efficient, pure Rust reader for Nikon ND2 microscopy files"
+2026-10-10T18:06:23.068311Z,catpaw-js,0.1.1,0,0,https://github.com/KernelErr/CatPaw,Engine-neutral JavaScript interfaces for the CatPaw browser
+2026-10-10T18:06:34.308905Z,czi,1.0.0,0,0,https://github.com/keejkrej/czi-rs,"Fast, memory-efficient, pure Rust reader for Zeiss CZI microscopy files"
+2026-10-10T18:08:14.889885Z,trache,0.4.0,0,0,https://github.com/mevanlc/trache,A CLI for moving files to trash
+2026-10-10T18:09:00.692324Z,tokn-dsh-protocol,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,"Tolerant, lossless wire types for persisted DeepSeek Harness session logs."
+2026-10-10T18:09:02.143675Z,tokn-hub-client-core,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,Portable pairing and Noise encryption for native and browser clients.
+2026-10-10T18:09:04.430537Z,tokn-hub-transport,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,Ordered record transport abstraction with a native WebRTC carrier.
+2026-10-10T18:09:09.137648Z,tokn-session-core,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,Provider-neutral session types and agent event model.
+2026-10-10T18:09:11.360827Z,tokn-session-index,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,SQLite metadata index for agent session catalogs.
+2026-10-10T18:09:40.944717Z,opys-minecraft-serverlist,0.3.0,0,0,https://github.com/harmoniya-net/opys,"A generated Minecraft servers.dat for opys — the multiplayer server list, as a blob the manifest carries."
+2026-10-10T18:11:09.969376Z,liino,0.0.0,0,0,,.
+2026-10-10T18:11:26.886813Z,typhoeus,0.0.0,0,0,,.
+2026-10-10T18:12:05.072682Z,catpaw-js-boa,0.1.1,0,0,https://github.com/KernelErr/CatPaw,The Boa JavaScript engine behind the CatPaw browser's neutral interfaces
+2026-10-10T18:12:18.445745Z,catpaw-text,0.1.1,0,0,https://github.com/KernelErr/CatPaw,"Fonts and text shaping for the CatPaw browser, with the DejaVu fonts bundled"
+2026-10-10T18:12:44.613857Z,fintdb,0.2.1,0,0,https://github.com/XelXen/fintdb,"compact embedded relational engine with SQL subset, indexes and crash-safe transactions"
+2026-10-10T18:13:44.495823Z,ix,0.14.1,0,0,https://github.com/moeshawky/ix,Sub-millisecond code search via sparse trigram indexing.
+2026-10-10T18:18:09.251468Z,catpaw-layout,0.1.1,0,0,https://github.com/KernelErr/CatPaw,"Layout for the CatPaw browser: box tree, Taffy and Parley, geometry and hit testing"
+2026-10-10T18:18:25.925032Z,catpaw-paint,0.1.1,0,0,https://github.com/KernelErr/CatPaw,Painting for the CatPaw browser: display lists and screenshots with tiny-skia
+2026-10-10T18:18:51.347512Z,marray,1.0.0,0,0,https://github.com/keejkrej/marray-rs,"Pure-Rust scientific computing and machine learning library with Pythonic NumPy, SciPy, and scikit APIs"
