@@ -8,28 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 03:18 UTC
+## Latest list — 2026-10-10 04:19 UTC
 
-New crates published between 2026-10-10 02:18 UTC and 2026-10-10 03:18 UTC.
+New crates published between 2026-10-10 03:18 UTC and 2026-10-10 04:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-10T03-18-34-883409Z.csv)
+[Full CSV](data/new-crates-2026-10-10T04-19-21-122217Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-10 02:24:53 | [fp-dotfiles-catalog](https://crates.io/crates/fp-dotfiles-catalog) | 0.2.4 | 0 | Shared command catalog for fp-dotfiles-manager CLI and TUI |
-| 2026-10-10 02:26:12 | [fp-konsave](https://crates.io/crates/fp-konsave) | 0.1.0 | 0 | Fast, minimal Rust reimplementation of Konsave for KDE Plasma |
-| 2026-10-10 02:36:38 | [rimelabs-sdk](https://crates.io/crates/rimelabs-sdk) | 0.1.0-alpha.1 | 0 | Rime streaming text-to-speech SDK |
-| 2026-10-10 02:38:46 | [vestalib-core](https://crates.io/crates/vestalib-core) | 1.0.2 | 0 | HTTP client library for the Vestaboard Local API |
-| 2026-10-10 02:38:48 | [vestalib-cli](https://crates.io/crates/vestalib-cli) | 1.0.2 | 0 | The `vestalib` CLI |
-| 2026-10-10 02:38:51 | [vestalib](https://crates.io/crates/vestalib) | 1.0.2 | 0 | vestalib HTTP client library (and optional CLI) for the Vestaboard Local API |
-| 2026-10-10 02:41:36 | [m4a-seam](https://crates.io/crates/m4a-seam) | 0.2.0 | 0 | The seam between a product server and the messenger server: signed assertion v1… |
-| 2026-10-10 02:42:00 | [m4a-product-kit](https://crates.io/crates/m4a-product-kit) | 0.2.0 | 0 | Building blocks of a product server in front of the messenger server: nick rule… |
-| 2026-10-10 02:42:04 | [mail4agent-server](https://crates.io/crates/mail4agent-server) | 0.2.0 | 0 | Matrix-subset homeserver: protocol decisions plus the Client-Server HTTP routes… |
-| 2026-10-10 02:42:23 | [m4a-edge](https://crates.io/crates/m4a-edge) | 0.2.0 | 0 | Edge role of the mail4agent messenger: terminates client connections behind a T… |
-| 2026-10-10 02:42:39 | [m4a-product-example](https://crates.io/crates/m4a-product-example) | 0.2.0 | 0 | A complete, minimal product server on m4a-product-kit: its own SQLite users, re… |
-| 2026-10-10 02:47:02 | [libfluxa_core](https://crates.io/crates/libfluxa_core) | 0.1.1 | 0 | Fluxa 跨平台自研网络内核、HTTP/HTTPS 调试、MITM 与受限 JS 引擎 |
-| 2026-10-10 03:00:12 | [gv-session](https://crates.io/crates/gv-session) | 0.4.0 | 0 | The dataset session and SQL tables shared by TGV front ends and agents. |
-| 2026-10-10 03:00:13 | [gv-mcp](https://crates.io/crates/gv-mcp) | 0.4.0 | 0 | MCP tools over a TGV dataset session. |
+| 2026-10-10 03:19:39 | [facet-git-tree](https://crates.io/crates/facet-git-tree) | 0.1.0-alpha.1 | 0 | Format crate for facet: serialize and deserialize facet values as Git tree obje… |
+| 2026-10-10 03:20:30 | [purrxy](https://crates.io/crates/purrxy) | 0.0.0 | 0 | purrxy, a communication proxy for humans and agents (placeholder, by nynxlabs) |
+| 2026-10-10 03:20:57 | [mail4agent-vodozemac](https://crates.io/crates/mail4agent-vodozemac) | 0.3.0 | 0 | Vendored, reduced and modified fork of vodozemac 0.10.0 (Olm, Megolm, SAS), Apa… |
+| 2026-10-10 03:21:10 | [mail4agent-messenger](https://crates.io/crates/mail4agent-messenger) | 0.3.0 | 0 | Sans-I/O Matrix Client-Server-subset sync + E2EE (Olm/Megolm) engine -- no netw… |
+| 2026-10-10 03:21:18 | [mail4agent-grok](https://crates.io/crates/mail4agent-grok) | 0.3.0 | 0 | Model-less courier from a mail4agent doorbell into a Grok session, over the lea… |
+| 2026-10-10 03:21:43 | [mail4agent-messenger-shell](https://crates.io/crates/mail4agent-messenger-shell) | 0.3.0 | 0 | Client shell that opens the sealed messenger store for one session. |
+| 2026-10-10 03:25:41 | [mail4agent-server-bin](https://crates.io/crates/mail4agent-server-bin) | 0.3.0 | 0 | Loopback process for the mail4agent messenger homeserver. Listens on 127.0.0.1… |
+| 2026-10-10 03:32:06 | [densk](https://crates.io/crates/densk) | 0.0.0 | 0 | densk, a notes app over a markdown vault (placeholder, by nynxlabs) |
+| 2026-10-10 03:32:09 | [clsaut](https://crates.io/crates/clsaut) | 0.0.0 | 0 | clsaut, school automation: study sheets, flashcards, practice boards (placehold… |
+| 2026-10-10 03:32:12 | [nynx](https://crates.io/crates/nynx) | 0.0.0 | 0 | nynx, nezzy & nex (placeholder, by nynxlabs) |
+| 2026-10-10 03:32:15 | [nynxlabs](https://crates.io/crates/nynxlabs) | 0.0.0 | 0 | nynxlabs, applied neuroengineering and intelligent systems (placeholder, by nyn… |
+| 2026-10-10 03:32:17 | [rl-adaptive-dbs](https://crates.io/crates/rl-adaptive-dbs) | 0.0.0 | 0 | rl-adaptive-dbs, reinforcement learning for adaptive deep brain stimulation (pl… |
+| 2026-10-10 03:37:05 | [fsearch-crossplatform](https://crates.io/crates/fsearch-crossplatform) | 0.1.0 | 0 | A cross-platform fork of fsearch, whole-disk/home file search for macOS and Lin… |
+| 2026-10-10 03:38:08 | [bk-kms-sdk](https://crates.io/crates/bk-kms-sdk) | 1.0.0 | 0 | BlueKing Key Management Service (BK-KMS) envelope decryption SDK |
+| 2026-10-10 03:51:03 | [cyberterm](https://crates.io/crates/cyberterm) | 0.2.0 | 0 | A GPU terminal for developers: splits and sessions, command blocks, searchable… |
+| 2026-10-10 03:53:34 | [dockx](https://crates.io/crates/dockx) | 0.0.1 | 0 | Dockx AI Agent Harness - Pre-release SDK |
+| 2026-10-10 04:02:19 | [fdrg](https://crates.io/crates/fdrg) | 0.1.0 | 0 | Wraps fd-find and ripgrep to search files by name and content |
+| 2026-10-10 04:05:08 | [fp-dotfiles-manager](https://crates.io/crates/fp-dotfiles-manager) | 0.2.5 | 0 | Minimal, zero-dependency Chezmoi-based dotfiles manager |
+| 2026-10-10 04:05:09 | [fp-dotfiles-tui](https://crates.io/crates/fp-dotfiles-tui) | 0.2.5 | 0 | Minimal premium TUI for fp-dotfiles-manager |
+| 2026-10-10 04:08:07 | [cuest-ffi](https://crates.io/crates/cuest-ffi) | 0.1.0 | 0 | cuEST C binding FFI |
+| 2026-10-10 04:08:14 | [cuest-cudarc](https://crates.io/crates/cuest-cudarc) | 0.1.0 | 0 | Safe Rust wrapper for cuEST built on cudarc |
+| 2026-10-10 04:17:56 | [nk-nips](https://crates.io/crates/nk-nips) | 0.12.0 | 0 | Platform-neutral NIP implementations for the nk-* workspace. Rust counterpart o… |
 
 ## Data source
 

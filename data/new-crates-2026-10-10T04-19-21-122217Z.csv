@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T03:19:39.039079Z,facet-git-tree,0.1.0-alpha.1,0,0,https://github.com/git-ents/facet-git-tree,Format crate for facet: serialize and deserialize facet values as Git tree objects
+2026-10-10T03:20:30.38503Z,purrxy,0.0.0,0,0,https://github.com/nynxlabs,"purrxy, a communication proxy for humans and agents (placeholder, by nynxlabs)"
+2026-10-10T03:20:57.576531Z,mail4agent-vodozemac,0.3.0,0,0,https://github.com/ZENG3LD/mail4agent,"Vendored, reduced and modified fork of vodozemac 0.10.0 (Olm, Megolm, SAS), Apache-2.0, upstream attribution in NOTICE and FORK.md. Not the upstream crate."
+2026-10-10T03:21:10.413981Z,mail4agent-messenger,0.3.0,0,0,https://github.com/ZENG3LD/mail4agent,"Sans-I/O Matrix Client-Server-subset sync + E2EE (Olm/Megolm) engine -- no network, no disk; shells execute OutgoingRequests and persist sealed records the core exports through a flush-before-send ba…"
+2026-10-10T03:21:18.797347Z,mail4agent-grok,0.3.0,0,0,https://github.com/ZENG3LD/mail4agent,"Model-less courier from a mail4agent doorbell into a Grok session, over the leader pipe or one webhook POST."
+2026-10-10T03:21:43.092761Z,mail4agent-messenger-shell,0.3.0,0,0,https://github.com/ZENG3LD/mail4agent,Client shell that opens the sealed messenger store for one session.
+2026-10-10T03:25:41.308922Z,mail4agent-server-bin,0.3.0,0,0,https://github.com/ZENG3LD/mail4agent,Loopback process for the mail4agent messenger homeserver. Listens on 127.0.0.1 only.
+2026-10-10T03:32:06.511667Z,densk,0.0.0,0,0,https://github.com/nynxlabs,"densk, a notes app over a markdown vault (placeholder, by nynxlabs)"
+2026-10-10T03:32:09.201168Z,clsaut,0.0.0,0,0,https://github.com/nynxlabs,"clsaut, school automation: study sheets, flashcards, practice boards (placeholder, by nynxlabs)"
+2026-10-10T03:32:12.149081Z,nynx,0.0.0,0,0,https://github.com/nynxlabs,"nynx, nezzy & nex (placeholder, by nynxlabs)"
+2026-10-10T03:32:15.132892Z,nynxlabs,0.0.0,0,0,https://github.com/nynxlabs,"nynxlabs, applied neuroengineering and intelligent systems (placeholder, by nynxlabs)"
+2026-10-10T03:32:17.89351Z,rl-adaptive-dbs,0.0.0,0,0,https://github.com/nynxlabs/rl-adaptive-dbs,"rl-adaptive-dbs, reinforcement learning for adaptive deep brain stimulation (placeholder, by nynxlabs)"
+2026-10-10T03:37:05.627606Z,fsearch-crossplatform,0.1.0,0,0,https://github.com/threehymns/fsearch-crossplatform,"A cross-platform fork of fsearch, whole-disk/home file search for macOS and Linux"
+2026-10-10T03:38:08.034428Z,bk-kms-sdk,1.0.0,0,0,https://github.com/TencentBlueKing/bk-kms-sdk,BlueKing Key Management Service (BK-KMS) envelope decryption SDK
+2026-10-10T03:51:03.072222Z,cyberterm,0.2.0,0,0,https://github.com/cybercore-tech/cyberterm,"A GPU terminal for developers: splits and sessions, command blocks, searchable history, AI help, inline images and Lua scripting"
+2026-10-10T03:53:34.839363Z,dockx,0.0.1,0,0,,Dockx AI Agent Harness - Pre-release SDK
+2026-10-10T04:02:19.315098Z,fdrg,0.1.0,0,0,https://github.com/jeffs/fdrg,Wraps fd-find and ripgrep to search files by name and content
+2026-10-10T04:05:08.910094Z,fp-dotfiles-manager,0.2.5,0,0,https://gitlab.com/fpsys/fp-dotfiles-manager,"Minimal, zero-dependency Chezmoi-based dotfiles manager"
+2026-10-10T04:05:09.797008Z,fp-dotfiles-tui,0.2.5,0,0,https://gitlab.com/fpsys/fp-dotfiles-manager,Minimal premium TUI for fp-dotfiles-manager
+2026-10-10T04:08:07.660277Z,cuest-ffi,0.1.0,0,0,https://github.com/RESTGroup/cuest-rs,cuEST C binding FFI
+2026-10-10T04:08:14.151712Z,cuest-cudarc,0.1.0,0,0,https://github.com/RESTGroup/cuest-rs,Safe Rust wrapper for cuEST built on cudarc
+2026-10-10T04:17:56.189081Z,nk-nips,0.12.0,0,0,https://github.com/qntx/nostr,Platform-neutral NIP implementations for the nk-* workspace. Rust counterpart of @qntx/nostr's nips layer.
