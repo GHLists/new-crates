@@ -8,26 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 06:20 UTC
+## Latest list — 2026-10-10 07:18 UTC
 
-New crates published between 2026-10-10 05:20 UTC and 2026-10-10 06:20 UTC.
+New crates published between 2026-10-10 06:20 UTC and 2026-10-10 07:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-10T06-20-07-623768Z.csv)
+[Full CSV](data/new-crates-2026-10-10T07-18-35-646232Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-10 05:21:23 | [lognorm](https://crates.io/crates/lognorm) | 0.1.0 | 0 | Automatic structured log normalization with preserved application fields |
-| 2026-10-10 05:33:56 | [kerosene-core](https://crates.io/crates/kerosene-core) | 0.1.4 | 0 | yet another chat thing? |
-| 2026-10-10 05:46:24 | [renrs](https://crates.io/crates/renrs) | 0.1.0 | 0 | Rename filesystem entries in place without overwriting existing destinations |
-| 2026-10-10 05:50:52 | [bombay-validated-struct-macros](https://crates.io/crates/bombay-validated-struct-macros) | 2.2.0 | 0 | Macros for validated_struct |
-| 2026-10-10 05:50:52 | [bombay-zenoh-link-commons](https://crates.io/crates/bombay-zenoh-link-commons) | 1.10.1 | 0 | Internal crate for zenoh. |
-| 2026-10-10 05:50:53 | [bombay-validated-struct](https://crates.io/crates/bombay-validated-struct) | 2.2.0 | 0 | Easily generate nested structures with getters and predicated setters |
-| 2026-10-10 05:50:55 | [bombay-zenoh-config](https://crates.io/crates/bombay-zenoh-config) | 1.10.1 | 0 | Internal crate for zenoh. |
-| 2026-10-10 05:50:57 | [bombay-zenoh-link-tls](https://crates.io/crates/bombay-zenoh-link-tls) | 1.10.1 | 0 | Internal crate for zenoh. |
-| 2026-10-10 06:01:03 | [zixcel-contracts](https://crates.io/crates/zixcel-contracts) | 0.10.0 | 0 | Versioned wire contracts for independent Zixcel connectors |
-| 2026-10-10 06:07:57 | [bip138-ll](https://crates.io/crates/bip138-ll) | 0.1.0 | 0 | Dependency-free BIP138 wire format and crypto orchestration |
-| 2026-10-10 06:11:47 | [herdr-relay](https://crates.io/crates/herdr-relay) | 0.1.1 | 0 | An authenticated relay for native Herdr clients |
-| 2026-10-10 06:16:23 | [konomanoasa-tree-sitter-gsed](https://crates.io/crates/konomanoasa-tree-sitter-gsed) | 0.1.0 | 0 | Tree-sitter grammars for GNU sed 4.10. |
+| 2026-10-10 06:20:18 | [zixcel-cost](https://crates.io/crates/zixcel-cost) | 0.10.0 | 0 | Shared deterministic integer cost arithmetic and inference accounting |
+| 2026-10-10 06:20:18 | [zixcel-github](https://crates.io/crates/zixcel-github) | 0.1.1 | 0 | Policy-neutral GitHub API wrapper boundary for Zixcel |
+| 2026-10-10 06:20:19 | [zixcel-interaction](https://crates.io/crates/zixcel-interaction) | 0.10.0 | 1 | Transport-neutral resource, action, revision and change contracts |
+| 2026-10-10 06:22:34 | [zixcel-revision](https://crates.io/crates/zixcel-revision) | 0.10.0 | 0 | Bounded content-addressed revision streams, CAS and retention |
+| 2026-10-10 06:22:34 | [crowsi-transport-foundation](https://crates.io/crates/crowsi-transport-foundation) | 0.10.0 | 0 | Bounded local framing, delivery identities and transport lifecycle |
+| 2026-10-10 06:24:40 | [cavalry](https://crates.io/crates/cavalry) | 0.0.0 | 0 | Brokerless low-latency message transport with a durable log and Raft replicatio… |
+| 2026-10-10 06:24:42 | [cavalry-proto](https://crates.io/crates/cavalry-proto) | 0.0.0 | 0 | Wire types and zerocopy frames for Cavalry. Placeholder release; see the reposi… |
+| 2026-10-10 06:24:45 | [cavalry-shm](https://crates.io/crates/cavalry-shm) | 0.0.0 | 0 | Memory-mapped log buffers, ring buffers and the counters file for Cavalry. Plac… |
+| 2026-10-10 06:24:47 | [cavalry-driver](https://crates.io/crates/cavalry-driver) | 0.0.0 | 0 | The Cavalry per-host driver: conductor, sender, receiver, idle strategies. Plac… |
+| 2026-10-10 06:24:49 | [cavalry-client](https://crates.io/crates/cavalry-client) | 0.0.0 | 0 | Cavalry client API implementation, re-exported by the cavalry crate. Placeholde… |
+| 2026-10-10 06:27:25 | [manykey](https://crates.io/crates/manykey) | 0.1.0 | 0 | Receive keyboard input tagged with the physical keyboard it came from |
+| 2026-10-10 06:29:33 | [zixcel-openai-auth](https://crates.io/crates/zixcel-openai-auth) | 0.10.0 | 0 | Transport-independent OpenAI account authorization core for Zixcel consumers |
+| 2026-10-10 06:32:43 | [doctor-core](https://crates.io/crates/doctor-core) | 0.1.0 | 0 | Shared doctor/1 contract types for the doctor-labs tools |
+| 2026-10-10 06:34:52 | [cavalry-log](https://crates.io/crates/cavalry-log) | 0.0.0 | 0 | Durable log, recording and replay for Cavalry. Placeholder release; see the rep… |
+| 2026-10-10 06:44:54 | [cavalry-raft](https://crates.io/crates/cavalry-raft) | 0.0.0 | 0 | Replicated state machine over the Cavalry durable log. Placeholder release; see… |
+| 2026-10-10 06:51:49 | [firebrick-proto](https://crates.io/crates/firebrick-proto) | 0.3.0 | 0 | Generated gRPC client and server code for the Firebrick daemon API. |
+| 2026-10-10 06:51:50 | [firebrick-spec](https://crates.io/crates/firebrick-spec) | 0.3.0 | 0 | Parses and validates the .firebrick.yml sandbox spec. |
+| 2026-10-10 06:51:50 | [firebrick-utils](https://crates.io/crates/firebrick-utils) | 0.3.0 | 0 | Shared file locations for the Firebrick CLI and daemon. |
+| 2026-10-10 06:51:52 | [firebrick-cli](https://crates.io/crates/firebrick-cli) | 0.3.0 | 0 | The fbk CLI for running coding agents in Firebrick microVM sandboxes. |
+| 2026-10-10 06:54:57 | [cavalry-control](https://crates.io/crates/cavalry-control) | 0.0.0 | 0 | Cavalry control plane: admin API, discovery, OpenTelemetry export, configuratio… |
+| 2026-10-10 06:57:13 | [moonlight-bridge-contract](https://crates.io/crates/moonlight-bridge-contract) | 0.5.0 | 0 | IDE-aware Rust contract attributes for MoonLightBridge code-first APIs |
+| 2026-10-10 06:58:25 | [moonlight-bridge-observability](https://crates.io/crates/moonlight-bridge-observability) | 0.5.0 | 0 | Optional OpenTelemetry, OTLP, and Prometheus adapters for MoonLightBridge |
+| 2026-10-10 07:03:09 | [bombay-zenoh-link](https://crates.io/crates/bombay-zenoh-link) | 1.10.1 | 0 | Internal crate for zenoh. |
+| 2026-10-10 07:03:09 | [bombay-zenoh-plugin-trait](https://crates.io/crates/bombay-zenoh-plugin-trait) | 1.10.1 | 0 | Zenoh: The Zero Overhead Pub/Sub/Query Protocol. |
+| 2026-10-10 07:03:10 | [bombay-zenoh-transport](https://crates.io/crates/bombay-zenoh-transport) | 1.10.1 | 0 | Internal crate for zenoh. |
+| 2026-10-10 07:03:12 | [bombay-zenoh](https://crates.io/crates/bombay-zenoh) | 1.10.1 | 0 | Zenoh: The Zero Overhead Pub/Sub/Query Protocol. |
+| 2026-10-10 07:05:00 | [cavalry-ffi](https://crates.io/crates/cavalry-ffi) | 0.0.0 | 0 | C ABI for Cavalry, the base of every non-Rust client. Placeholder release; see… |
+| 2026-10-10 07:06:05 | [heic-decoder](https://crates.io/crates/heic-decoder) | 0.1.0 | 0 | Pure-Rust HEIF/HEIC decoder, bit-exact against the HEVC reference decoder. Hand… |
+| 2026-10-10 07:17:18 | [sshtty](https://crates.io/crates/sshtty) | 0.0.0 | 0 | Reserved name for sshtty, a browser terminal. Install it from npm: npm i -g ssh… |
 
 ## Data source
 

@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T06:20:18.004953Z,zixcel-cost,0.10.0,0,0,https://github.com/zixcel/zixcel-cost,Shared deterministic integer cost arithmetic and inference accounting
+2026-10-10T06:20:18.894809Z,zixcel-github,0.1.1,0,0,https://github.com/zixcel/zixcel-github,Policy-neutral GitHub API wrapper boundary for Zixcel
+2026-10-10T06:20:19.511386Z,zixcel-interaction,0.10.0,1,1,https://github.com/zixcel/zixcel-interaction,"Transport-neutral resource, action, revision and change contracts"
+2026-10-10T06:22:34.618749Z,zixcel-revision,0.10.0,0,0,https://github.com/zixcel/zixcel-revision,"Bounded content-addressed revision streams, CAS and retention"
+2026-10-10T06:22:34.928167Z,crowsi-transport-foundation,0.10.0,0,0,https://github.com/crowsi-net/crowsi-transport-foundation,"Bounded local framing, delivery identities and transport lifecycle"
+2026-10-10T06:24:40.590709Z,cavalry,0.0.0,0,0,https://github.com/appshapes/cavalry,Brokerless low-latency message transport with a durable log and Raft replication. Placeholder release; the implementation lives in the repository.
+2026-10-10T06:24:42.884706Z,cavalry-proto,0.0.0,0,0,https://github.com/appshapes/cavalry,Wire types and zerocopy frames for Cavalry. Placeholder release; see the repository.
+2026-10-10T06:24:45.17941Z,cavalry-shm,0.0.0,0,0,https://github.com/appshapes/cavalry,"Memory-mapped log buffers, ring buffers and the counters file for Cavalry. Placeholder release; see the repository."
+2026-10-10T06:24:47.301399Z,cavalry-driver,0.0.0,0,0,https://github.com/appshapes/cavalry,"The Cavalry per-host driver: conductor, sender, receiver, idle strategies. Placeholder release; see the repository."
+2026-10-10T06:24:49.377642Z,cavalry-client,0.0.0,0,0,https://github.com/appshapes/cavalry,"Cavalry client API implementation, re-exported by the cavalry crate. Placeholder release; see the repository."
+2026-10-10T06:27:25.816333Z,manykey,0.1.0,0,0,https://github.com/libmanykey/manykey,Receive keyboard input tagged with the physical keyboard it came from
+2026-10-10T06:29:33.282688Z,zixcel-openai-auth,0.10.0,0,0,https://github.com/zixcel/zixcel-openai-auth,Transport-independent OpenAI account authorization core for Zixcel consumers
+2026-10-10T06:32:43.138774Z,doctor-core,0.1.0,0,0,https://github.com/doctor-labs/doctor-core,Shared doctor/1 contract types for the doctor-labs tools
+2026-10-10T06:34:52.070412Z,cavalry-log,0.0.0,0,0,https://github.com/appshapes/cavalry,"Durable log, recording and replay for Cavalry. Placeholder release; see the repository."
+2026-10-10T06:44:54.805828Z,cavalry-raft,0.0.0,0,0,https://github.com/appshapes/cavalry,Replicated state machine over the Cavalry durable log. Placeholder release; see the repository.
+2026-10-10T06:51:49.36032Z,firebrick-proto,0.3.0,0,0,https://github.com/wmeints/anvil,Generated gRPC client and server code for the Firebrick daemon API.
+2026-10-10T06:51:50.231831Z,firebrick-spec,0.3.0,0,0,https://github.com/wmeints/anvil,Parses and validates the .firebrick.yml sandbox spec.
+2026-10-10T06:51:50.95343Z,firebrick-utils,0.3.0,0,0,https://github.com/wmeints/anvil,Shared file locations for the Firebrick CLI and daemon.
+2026-10-10T06:51:52.988089Z,firebrick-cli,0.3.0,0,0,https://github.com/wmeints/anvil,The fbk CLI for running coding agents in Firebrick microVM sandboxes.
+2026-10-10T06:54:57.558569Z,cavalry-control,0.0.0,0,0,https://github.com/appshapes/cavalry,"Cavalry control plane: admin API, discovery, OpenTelemetry export, configuration. Placeholder release; see the repository."
+2026-10-10T06:57:13.668204Z,moonlight-bridge-contract,0.5.0,0,0,https://github.com/MoonL1ghtProject/MoonLightBridge,IDE-aware Rust contract attributes for MoonLightBridge code-first APIs
+2026-10-10T06:58:25.12846Z,moonlight-bridge-observability,0.5.0,0,0,https://github.com/MoonL1ghtProject/MoonLightBridge,"Optional OpenTelemetry, OTLP, and Prometheus adapters for MoonLightBridge"
+2026-10-10T07:03:09.166267Z,bombay-zenoh-link,1.10.1,0,0,https://github.com/devrandom-labs/bombay-zenoh,Internal crate for zenoh.
+2026-10-10T07:03:09.537862Z,bombay-zenoh-plugin-trait,1.10.1,0,0,https://github.com/devrandom-labs/bombay-zenoh,Zenoh: The Zero Overhead Pub/Sub/Query Protocol.
+2026-10-10T07:03:10.543041Z,bombay-zenoh-transport,1.10.1,0,0,https://github.com/devrandom-labs/bombay-zenoh,Internal crate for zenoh.
+2026-10-10T07:03:12.329618Z,bombay-zenoh,1.10.1,0,0,https://github.com/devrandom-labs/bombay-zenoh,Zenoh: The Zero Overhead Pub/Sub/Query Protocol.
+2026-10-10T07:05:00.256743Z,cavalry-ffi,0.0.0,0,0,https://github.com/appshapes/cavalry,"C ABI for Cavalry, the base of every non-Rust client. Placeholder release; see the repository."
+2026-10-10T07:06:05.244962Z,heic-decoder,0.1.0,0,0,https://github.com/Multipad-cyber/heic-decoder-rust,"Pure-Rust HEIF/HEIC decoder, bit-exact against the HEVC reference decoder. Handles iPhone grid photos, camera 4:2:2, alpha, orientation, ICC/EXIF/XMP. No unsafe, no C dependencies."
+2026-10-10T07:17:18.155317Z,sshtty,0.0.0,0,0,https://github.com/NazmusSayad/sshtty,"Reserved name for sshtty, a browser terminal. Install it from npm: npm i -g sshtty"
