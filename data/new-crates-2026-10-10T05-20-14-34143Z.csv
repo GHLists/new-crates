@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T04:20:07.924169Z,agapao,0.0.1,0,0,https://gitlab.com/friendowment/agape,Reserved for the Agapao project (https://agapao.network); the real crate is published from its repository.
+2026-10-10T04:20:12.823631Z,agape-light,0.0.1,0,0,https://gitlab.com/friendowment/agape,Reserved for the Agapao project (https://agapao.network); the real crate is published from its repository.
+2026-10-10T04:20:17.814174Z,agape-types,0.0.1,0,0,https://gitlab.com/friendowment/agape,Reserved for the Agapao project (https://agapao.network); the real crate is published from its repository.
+2026-10-10T04:20:22.638283Z,agape-schema,0.0.1,0,0,https://gitlab.com/friendowment/agape,Reserved for the Agapao project (https://agapao.network); the real crate is published from its repository.
+2026-10-10T04:20:27.222674Z,agape-connect,0.0.1,0,0,https://gitlab.com/friendowment/agape,Reserved for the Agapao project (https://agapao.network); the real crate is published from its repository.
+2026-10-10T04:35:15.653518Z,mdgl,0.2.0,0,0,https://github.com/enmaq/mdgl,MarkdownGL 0.0.1 subset checker (input/line/actor/action limits and scene header only). Not a conformant implementation.
+2026-10-10T04:36:00.145537Z,kula,0.3.0,0,0,https://github.com/A12N4V/kula,"Git, with a map. A local-first git client that turns your repository into a living knowledge graph."
+2026-10-10T04:40:47.099546Z,ondewo-csi-client,5.5.1,0,0,https://github.com/ondewo/ondewo-csi-client-rust,"ONDEWO CSI (Conversational Speech Interface) gRPC client library, generated from the ondewo-csi-api protocol buffer definitions"
+2026-10-10T04:46:47.766936Z,mlirformat-macros,0.1.0,0,0,https://github.com/Jabberwocky238/mlirformat.rs,"Proc macros for mlirformat: #[mlir::op], #[mlir::dialect]"
+2026-10-10T04:46:55.536717Z,mlirformat,0.1.0,0,0,https://github.com/Jabberwocky238/mlirformat.rs,"MLIR text <-> IR <-> typed Rust ops: parser, printer, serde-based #[mlir::op] and dialect plugins"
+2026-10-10T04:47:11.3181Z,bwk-error,0.1.0,0,0,https://github.com/pythcoiner/bwk,"Derive for error types, covering the subset of thiserror bwk uses"
+2026-10-10T04:48:10.169769Z,bwk-hwi,0.1.0,0,0,https://github.com/pythcoiner/bwk,Hardware wallet interface
+2026-10-10T04:48:57.304008Z,bwk-hwi-cli,0.1.0,0,0,https://github.com/pythcoiner/bwk,HWI CLI
+2026-10-10T04:49:10.741908Z,glowdots,0.1.0,0,0,https://github.com/ztaylor/glowdots,"A 1990s pinball dot matrix display (DMD) engine: plasma dots, glow, bloom, scenes, and transitions. Runs in a window, in the browser, or on a Raspberry Pi panel."
+2026-10-10T04:49:12.670763Z,glowdots-scenes,0.1.0,0,0,https://github.com/ztaylor/glowdots,"Example scenes for glowdots: a pinball clock, a demoscene tribute, weather, a split-flap news board, and feed-driven cards."
+2026-10-10T04:58:45.118738Z,askinput,0.1.0,0,0,https://github.com/lostincenturies/askinput,Paranoid typed input from stdin for interactive Rust CLI programs
+2026-10-10T04:59:38.209564Z,cargo-xc,0.1.0,0,0,https://github.com/stevepryde/cargo-xc,Build Rust for x86-64 and ARM64 GNU/Linux from an ARM64 host
+2026-10-10T05:00:28.722966Z,paintcore,0.0.29,0,0,https://github.com/mith-mmk/wasm-paint,"Pure Rust raster image drawing, compositing, filtering, and transformation library."
+2026-10-10T05:17:51.486133Z,linked-ql-macros,0.1.0,0,0,,Procedural macros for the linked-ql
+2026-10-10T05:19:44.141337Z,linked-ql,0.1.0,0,0,,"Robust, zero-cost and flexable ORM. Written in idomatic Rust."
