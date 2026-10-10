@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T21:22:38.895014Z,navigera,0.4.0,0,0,https://github.com/andrey-usa/navigera,"Drive headless Chrome from the shell, one command per step: a native Rust CDP CLI for AI agents (accessibility-tree refs, sessions, tabs, iframes, dialogs) plus a JSON-lines serve mode."
+2026-10-10T21:22:46.662927Z,gruppera,0.4.0,0,0,https://github.com/andrey-usa/gruppera,"Fast station-temperature aggregation (One Billion Row Challenge format): mmap, SWAR parsing, byte-identical output to the Java reference."
+2026-10-10T21:23:48.502251Z,compara,0.5.0,0,0,https://github.com/andrey-usa/compara,"Compare two tables (CSV, NDJSON, Parquet) on a composite key: counts, per-column statistics and a self-contained HTML report."
+2026-10-10T21:24:41.212466Z,rdf-rules-playground,1.0.0,0,0,https://github.com/Matdata-eu/rdf-rules-playground,"Run SHACL Advanced Features rules (sh:TripleRule, sh:SPARQLRule) on RDF data, in a browser playground or from the command line"
+2026-10-10T21:27:01.637042Z,aither-codex,0.0.0,0,0,https://github.com/lexoliu/aither,ChatGPT Codex provider integration for aither (OAuth + subscription Responses backend)
+2026-10-10T21:27:29.209776Z,aither-apple,0.0.0,0,0,https://github.com/lexoliu/aither,Apple Intelligence on-device language model integration for aither
+2026-10-10T21:29:03.58406Z,rp-hub75,0.1.1,0,0,https://github.com/liebman/rp-hub75,A HUB75 LED matrix driver for RP2040 and RP2350 (Pimoroni Interstate 75 W)
+2026-10-10T21:39:09.522734Z,blue-lang-mondou,0.0.65,0,0,https://github.com/pleme-io/blue,"blue's query engine (問答): every tool asks it the same questions, and each answer is computed once."
+2026-10-10T21:41:48.052257Z,shacl-report,1.0.0,0,0,https://github.com/Matdata-eu/shacl-report,"Validate RDF with SHACL, or read any validator's report, and explore it in a readable web view or a CI-friendly HTML report"
+2026-10-10T21:46:49.575922Z,wanderlog-client,0.1.0,0,0,https://github.com/cebrusfs/wanderlog-mcp-rs,Unofficial Wanderlog REST and ShareDB client with atomic itinerary planning
+2026-10-10T21:46:52.256751Z,wanderlog-mcp,0.1.0,0,0,https://github.com/cebrusfs/wanderlog-mcp-rs,Local stdio MCP server and CLI for the unofficial Wanderlog client
+2026-10-10T21:56:58.394858Z,mdma,0.1.0,0,0,https://github.com/seuros/mdma,Model Dispatch and Memory Allocator
+2026-10-10T21:57:51.545955Z,oxiryn,0.0.1,0,0,https://github.com/AutomataNexus/AxonML,Oxiryn: a complete machine learning framework written in Rust (successor to AxonML). Name reserved; the first release is coming soon.
+2026-10-10T22:00:37.268921Z,nelcota-client,0.1.0,0,0,https://github.com/HanielCota/Nelcota,"Async Rust client for Nelcota: Postgres REST, authentication and file storage"
+2026-10-10T22:08:21.020212Z,cargo-quota,0.1.0,0,0,https://github.com/CodingAnarchy/cargo-quota,Keep cargo's target directory under a disk-space budget by pruning the least recently used build artifacts before each build
+2026-10-10T22:11:27.384353Z,statac,0.0.0,0,0,https://github.com/statac-ssg/statac,The friendly static site generator. This version only holds the name: install Statac from https://statac.dev/install/
+2026-10-10T22:12:01.938781Z,carapace-rs,0.0.0,0,0,https://github.com/carapace-sh/carapace-rs,carapace-rs
+2026-10-10T22:12:43.581505Z,ps-jxl-bitstream,0.13.0,0,0,https://github.com/pathscale/ps-jxl-oxide,"JPEG XL bitstream reader, part of jxl-oxide: pathscale fork of jxl-oxide."
+2026-10-10T22:12:48.802109Z,ps-jxl-threadpool,0.13.0,0,0,https://github.com/pathscale/ps-jxl-oxide,Owned task executor seam for jxl-oxide: pathscale fork of jxl-oxide.
+2026-10-10T22:12:51.687782Z,ps-jxl-grid,0.13.0,0,0,https://github.com/pathscale/ps-jxl-oxide,Sample grid implementation for jxl-oxide: pathscale fork of jxl-oxide.
+2026-10-10T22:12:57.151396Z,ps-jxl-oxide-common,0.13.0,0,0,https://github.com/pathscale/ps-jxl-oxide,Common helpers for jxl-oxide: pathscale fork of jxl-oxide.
+2026-10-10T22:13:01.76967Z,ps-jxl-coding,0.13.0,0,0,https://github.com/pathscale/ps-jxl-oxide,"JPEG XL entropy decoder, part of jxl-oxide: pathscale fork of jxl-oxide."
+2026-10-10T22:18:24.287768Z,stockfish-relay,0.1.0,0,0,,An HTTP Stockfish service with remote workers
