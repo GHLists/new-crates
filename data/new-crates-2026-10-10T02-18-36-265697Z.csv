@@ -1,0 +1,11 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T01:26:31.876011Z,bunny-ui-android,0.1.0,0,0,https://github.com/thebunnylab/bunny_ui,"bunny-ui Android shell — a NativeActivity, its touches and the soft keyboard, presented by the shared Vulkan tier or the CPU floor, with hand-written FFI and JNI and not a single dependency"
+2026-10-10T01:28:26.444201Z,rimelabs-api,0.3.0,0,0,https://github.com/rimelabs/rime-api,Generated Rime speech protocol types and gRPC clients
+2026-10-10T01:37:14.026073Z,bunny-ui-ios,0.1.0,0,0,https://github.com/thebunnylab/bunny_ui,"bunny-ui iOS shell — UIKit window, touches and the soft keyboard over the shared Apple half, dependency-free Objective-C FFI"
+2026-10-10T01:41:53.068909Z,hexchain-p2p,0.10.0,0,0,,hexchain 3D HCP lattice consensus — crystalline proof-of-work
+2026-10-10T01:46:30.411131Z,bunny-ui-linux,0.1.0,0,0,https://github.com/thebunnylab/bunny_ui,"bunny-ui Linux shell — a Wayland window and its input, presented by the shared Vulkan tier or the CPU floor, with hand-written FFI and not a single dependency"
+2026-10-10T01:54:04.792681Z,zpl-wasm,0.0.0,0,0,https://github.com/codyps/zpl,Placeholder for the WebAssembly bindings from codyps/zpl
+2026-10-10T01:54:13.279169Z,zpl-c,0.0.0,0,0,https://github.com/codyps/zpl,Placeholder for the C bindings from codyps/zpl
+2026-10-10T01:54:15.063544Z,zpl-elixir,0.0.0,0,0,https://github.com/codyps/zpl,Placeholder for the Elixir bindings from codyps/zpl
+2026-10-10T01:54:25.934768Z,agy-delegate-rs,0.1.3,0,0,https://github.com/JIAFALSEDREAM/agy-delegate-rs,Read-only agy investigations through the Codex OS sandbox
+2026-10-10T01:57:16.653204Z,bunny-ui-macos,0.1.0,0,0,https://github.com/thebunnylab/bunny_ui,"bunny-ui macOS shell — native window and bitmap blit, dependency-free Objective-C FFI"
