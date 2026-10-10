@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T09:26:25.045318Z,incular-image,0.1.0,0,0,https://github.com/FabortLabs/incular,Renderer-neutral raster image resources and loading for Incular
+2026-10-10T09:28:31.635135Z,kharka,0.1.0,0,0,https://github.com/jakobbeyer/kharka,"A small local-first JSON store: every machine keeps a full replica, one hub orders and spreads the changes"
+2026-10-10T09:30:19.718624Z,glrmask-finite-automata,0.1.1,0,0,https://github.com/IsaacBreen/glrmask,Finite-automata primitives used by GLRMask
+2026-10-10T09:30:23.216189Z,glrmask-invariant,0.1.1,0,0,https://github.com/IsaacBreen/glrmask,Cross-thread internal invariant transport for GLRMask
+2026-10-10T09:30:30.840632Z,glrmask-vocab,0.1.1,0,0,https://github.com/IsaacBreen/glrmask,Vocabulary representation and derived-artifact cache for GLRMask
+2026-10-10T09:30:38.966473Z,glrmask-weight,0.1.1,0,0,https://github.com/IsaacBreen/glrmask,Interned token-set weight algebra used by GLRMask
+2026-10-10T09:30:52.234711Z,glrmask-lexer,0.1.1,0,0,https://github.com/IsaacBreen/glrmask,Lexer and tokenizer automata used by GLRMask
+2026-10-10T09:35:15.656085Z,rstu_ast,0.0.1,0,0,https://github.com/joppi588/rstutils,Internal component crate for rstu.
+2026-10-10T09:35:20.429598Z,rstu_parser,0.0.1,0,0,https://github.com/joppi588/rstutils,Internal component crate for rstu.
+2026-10-10T09:35:30.721068Z,rstu,0.0.1,0,0,https://github.com/joppi588/rstutils,Tools to process RST files
+2026-10-10T09:36:23.450423Z,incular-layout,0.1.0,0,0,https://github.com/FabortLabs/incular,Layout primitives and algorithms for Incular
+2026-10-10T09:36:42.64368Z,glrmask-weighted-automata,0.1.1,0,0,https://github.com/IsaacBreen/glrmask,Weighted NWA and DWA algorithms used by GLRMask
+2026-10-10T09:40:42.5826Z,liblrhsmm-rs,0.1.0-alpha.1,0,0,https://github.com/Lqm1/liblrhsmm-rs,"Left-to-right HMM and HSMM inference, training and model serialization"
+2026-10-10T09:41:02.663773Z,terrarium,0.0.0,0,0,,placeholder
+2026-10-10T09:41:59.087062Z,ciglet-rs,0.1.0-alpha.1,0,0,https://github.com/Lqm1/ciglet-rs,Signal processing and audio analysis compatible with ciglet
+2026-10-10T09:46:28.37136Z,incular-platform,0.1.0,0,0,https://github.com/FabortLabs/incular,Shared platform abstractions for Incular
+2026-10-10T09:48:09.191847Z,fonepay,0.1.0,0,0,,"Client for Fonepay's merchant API v2 (dynamic and intent QR, payment status, bank app list) for Nepal"
+2026-10-10T09:52:10.571154Z,pgkit-macros,0.4.0,0,0,https://github.com/musamahmoudjingo/pgkit,Procedural macros for pgkit (Utilities for working with databases - postgres).
+2026-10-10T09:56:28.011173Z,incular-scroll,0.1.0,0,0,https://github.com/FabortLabs/incular,"Widget-independent scrolling state, physics, and scrollbar geometry for Incular"
+2026-10-10T10:03:20.650445Z,keri-protocol,0.1.0,0,0,https://github.com/AABelkhiria/keri-protocol,"KERI protocol messages: events, SAIDs, prefixes, thresholds and CESR attachments"
+2026-10-10T10:06:23.838003Z,incular-android,0.1.0,0,0,https://github.com/FabortLabs/incular,Android platform integration for Incular
+2026-10-10T10:11:37.961424Z,herdr-kharka,0.1.0,0,0,https://github.com/jakobbeyer/herdr-kharka,"Writes what a machine's herdr runs into kharka, on every change"
+2026-10-10T10:14:12.885655Z,field-delta,0.1.0,0,0,https://github.com/musajingo/field-delta,"Describes a change to a field: leave it unchanged, clear it, or set a value."
+2026-10-10T10:14:22.129068Z,xidl-http,0.98.0,0,0,https://github.com/xidl/xidl,Shared HTTP protocol types for xidl compilers and runtimes.
+2026-10-10T10:16:28.074542Z,incular-ios,0.1.0,0,0,https://github.com/FabortLabs/incular,iOS platform integration for Incular

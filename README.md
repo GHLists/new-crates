@@ -8,39 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 09:18 UTC
+## Latest list — 2026-10-10 10:20 UTC
 
-New crates published between 2026-10-10 08:18 UTC and 2026-10-10 09:18 UTC.
+New crates published between 2026-10-10 09:18 UTC and 2026-10-10 10:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-10T09-18-34-103594Z.csv)
+[Full CSV](data/new-crates-2026-10-10T10-20-10-128708Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-10 08:24:53 | [potluckdb](https://crates.io/crates/potluckdb) | 0.1.0 | 0 | potluckdb local-first SQLite synchronization SDK |
-| 2026-10-10 08:25:22 | [camel-component-rabbitmq](https://crates.io/crates/camel-component-rabbitmq) | 0.57.0 | 0 | RabbitMQ AMQP 0-9-1 component for rust-camel |
-| 2026-10-10 08:27:06 | [tree-sitter-bloblang](https://crates.io/crates/tree-sitter-bloblang) | 0.2.2 | 0 | parser for bento bloblang |
-| 2026-10-10 08:37:26 | [whisker-submit](https://crates.io/crates/whisker-submit) | 0.15.3 | 0 | Whisker store submission — App Store Connect and Google Play API clients for `w… |
-| 2026-10-10 08:41:43 | [style-engine](https://crates.io/crates/style-engine) | 1.0.0 | 0 | Framework-agnostic CSS semantic styling for native GUIs: parse, cascade, lay ou… |
-| 2026-10-10 08:42:11 | [style-engine-soft](https://crates.io/crates/style-engine-soft) | 1.0.0 | 0 | Pure-software paint sink for style-engine display lists (contract-validation cr… |
-| 2026-10-10 08:44:24 | [style-engine-vello](https://crates.io/crates/style-engine-vello) | 1.0.0 | 0 | Vello (wgpu) paint sink for style-engine display lists. |
-| 2026-10-10 08:45:13 | [style-engine-tiny](https://crates.io/crates/style-engine-tiny) | 1.0.0 | 0 | tiny-skia CPU paint sink for style-engine display lists: real-blur shadows/filt… |
-| 2026-10-10 08:45:36 | [vla-lang](https://crates.io/crates/vla-lang) | 0.8.1 | 0 | The VLA language with nothing around it: forms, their expansion, the grid, the… |
-| 2026-10-10 08:46:06 | [incular-assets](https://crates.io/crates/incular-assets) | 0.1.0 | 0 | Asset handles and resource loading foundations for Incular |
-| 2026-10-10 08:46:12 | [incular-core](https://crates.io/crates/incular-core) | 0.1.0 | 0 | Platform-independent foundation types for Incular |
-| 2026-10-10 08:46:16 | [incular-devtools-protocol](https://crates.io/crates/incular-devtools-protocol) | 0.1.0 | 0 | Typed, versioned wire protocol between Incular targets and DevTools |
-| 2026-10-10 08:46:21 | [incular-animation](https://crates.io/crates/incular-animation) | 0.1.0 | 0 | Animation primitives and timing utilities for Incular |
-| 2026-10-10 08:46:29 | [incular-config](https://crates.io/crates/incular-config) | 0.1.0 | 0 | Renderer-independent configuration values for Incular |
-| 2026-10-10 08:56:26 | [incular-gestures](https://crates.io/crates/incular-gestures) | 0.1.0 | 0 | Platform-neutral gesture recognition and input interaction primitives for Incul… |
-| 2026-10-10 08:57:51 | [qcdiff](https://crates.io/crates/qcdiff) | 0.1.0 | 0 | Command-line semantic diff for OpenQASM 3 quantum circuits: compare two QASM fi… |
-| 2026-10-10 08:59:16 | [ircbot-plugins](https://crates.io/crates/ircbot-plugins) | 0.7.0 | 0 | Standard plugins for the ircbot IRC bot framework |
-| 2026-10-10 09:06:27 | [incular-semantics](https://crates.io/crates/incular-semantics) | 0.1.0 | 0 | Renderer- and platform-neutral accessibility semantics for Incular |
-| 2026-10-10 09:07:21 | [bunny-cli](https://crates.io/crates/bunny-cli) | 0.2.0 | 0 | The bunny command — create, check and run bunny-ui apps on macOS, iOS, Windows,… |
-| 2026-10-10 09:07:25 | [bunny-ui-core](https://crates.io/crates/bunny-ui-core) | 0.2.0 | 0 | The core of bunny-ui — monomorphic typed tree, state with structural identity,… |
-| 2026-10-10 09:07:30 | [bunny-ui-hot](https://crates.io/crates/bunny-ui-hot) | 0.2.0 | 0 | Hot reload for bunny-ui — the part inside the app: it loads each new build `bun… |
-| 2026-10-10 09:07:51 | [bunny-ui-dylib](https://crates.io/crates/bunny-ui-dylib) | 0.2.0 | 0 | bunny-ui as one shared library — what `bunny run` links an app's debug build ag… |
-| 2026-10-10 09:12:34 | [unamp](https://crates.io/crates/unamp) | 0.1.0 | 0 | Native desktop music player for local folders and network shares, with album ar… |
-| 2026-10-10 09:14:12 | [bezel-zed-bench-metrics](https://crates.io/crates/bezel-zed-bench-metrics) | 0.3.19+zed.f16f96 | 0 | bench_metrics from zed-industries/zed, republished for the bezel gpui fork |
-| 2026-10-10 09:16:22 | [incular-accessibility](https://crates.io/crates/incular-accessibility) | 0.1.0 | 0 | Native accessibility adapter contracts for Incular |
+| 2026-10-10 09:26:25 | [incular-image](https://crates.io/crates/incular-image) | 0.1.0 | 0 | Renderer-neutral raster image resources and loading for Incular |
+| 2026-10-10 09:28:31 | [kharka](https://crates.io/crates/kharka) | 0.1.0 | 0 | A small local-first JSON store: every machine keeps a full replica, one hub ord… |
+| 2026-10-10 09:30:19 | [glrmask-finite-automata](https://crates.io/crates/glrmask-finite-automata) | 0.1.1 | 0 | Finite-automata primitives used by GLRMask |
+| 2026-10-10 09:30:23 | [glrmask-invariant](https://crates.io/crates/glrmask-invariant) | 0.1.1 | 0 | Cross-thread internal invariant transport for GLRMask |
+| 2026-10-10 09:30:30 | [glrmask-vocab](https://crates.io/crates/glrmask-vocab) | 0.1.1 | 0 | Vocabulary representation and derived-artifact cache for GLRMask |
+| 2026-10-10 09:30:38 | [glrmask-weight](https://crates.io/crates/glrmask-weight) | 0.1.1 | 0 | Interned token-set weight algebra used by GLRMask |
+| 2026-10-10 09:30:52 | [glrmask-lexer](https://crates.io/crates/glrmask-lexer) | 0.1.1 | 0 | Lexer and tokenizer automata used by GLRMask |
+| 2026-10-10 09:35:15 | [rstu_ast](https://crates.io/crates/rstu_ast) | 0.0.1 | 0 | Internal component crate for rstu. |
+| 2026-10-10 09:35:20 | [rstu_parser](https://crates.io/crates/rstu_parser) | 0.0.1 | 0 | Internal component crate for rstu. |
+| 2026-10-10 09:35:30 | [rstu](https://crates.io/crates/rstu) | 0.0.1 | 0 | Tools to process RST files |
+| 2026-10-10 09:36:23 | [incular-layout](https://crates.io/crates/incular-layout) | 0.1.0 | 0 | Layout primitives and algorithms for Incular |
+| 2026-10-10 09:36:42 | [glrmask-weighted-automata](https://crates.io/crates/glrmask-weighted-automata) | 0.1.1 | 0 | Weighted NWA and DWA algorithms used by GLRMask |
+| 2026-10-10 09:40:42 | [liblrhsmm-rs](https://crates.io/crates/liblrhsmm-rs) | 0.1.0-alpha.1 | 0 | Left-to-right HMM and HSMM inference, training and model serialization |
+| 2026-10-10 09:41:02 | [terrarium](https://crates.io/crates/terrarium) | 0.0.0 | 0 | placeholder |
+| 2026-10-10 09:41:59 | [ciglet-rs](https://crates.io/crates/ciglet-rs) | 0.1.0-alpha.1 | 0 | Signal processing and audio analysis compatible with ciglet |
+| 2026-10-10 09:46:28 | [incular-platform](https://crates.io/crates/incular-platform) | 0.1.0 | 0 | Shared platform abstractions for Incular |
+| 2026-10-10 09:48:09 | [fonepay](https://crates.io/crates/fonepay) | 0.1.0 | 0 | Client for Fonepay's merchant API v2 (dynamic and intent QR, payment status, ba… |
+| 2026-10-10 09:52:10 | [pgkit-macros](https://crates.io/crates/pgkit-macros) | 0.4.0 | 0 | Procedural macros for pgkit (Utilities for working with databases - postgres). |
+| 2026-10-10 09:56:28 | [incular-scroll](https://crates.io/crates/incular-scroll) | 0.1.0 | 0 | Widget-independent scrolling state, physics, and scrollbar geometry for Incular |
+| 2026-10-10 10:03:20 | [keri-protocol](https://crates.io/crates/keri-protocol) | 0.1.0 | 0 | KERI protocol messages: events, SAIDs, prefixes, thresholds and CESR attachments |
+| 2026-10-10 10:06:23 | [incular-android](https://crates.io/crates/incular-android) | 0.1.0 | 0 | Android platform integration for Incular |
+| 2026-10-10 10:11:37 | [herdr-kharka](https://crates.io/crates/herdr-kharka) | 0.1.0 | 0 | Writes what a machine's herdr runs into kharka, on every change |
+| 2026-10-10 10:14:12 | [field-delta](https://crates.io/crates/field-delta) | 0.1.0 | 0 | Describes a change to a field: leave it unchanged, clear it, or set a value. |
+| 2026-10-10 10:14:22 | [xidl-http](https://crates.io/crates/xidl-http) | 0.98.0 | 0 | Shared HTTP protocol types for xidl compilers and runtimes. |
+| 2026-10-10 10:16:28 | [incular-ios](https://crates.io/crates/incular-ios) | 0.1.0 | 0 | iOS platform integration for Incular |
 
 ## Data source
 
