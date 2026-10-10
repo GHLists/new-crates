@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T00:20:59.481354Z,virial-gpu,0.0.1,0,0,https://github.com/anshullaikar/virial-engine,"GPU device, surface and limit checks for Virial"
+2026-10-10T00:21:03.487045Z,virial,0.0.1,0,0,https://github.com/anshullaikar/virial-engine,"GPU physics simulation in Rust and WebGPU: accurate, measurable, rendered to video"
+2026-10-10T00:24:07.005768Z,lopatnov-conduit-proxy-http,2.0.0,0,0,https://github.com/lopatnov/conduit,"Proxy target resolution (routing, load-balancing dispatch, retry, sticky sessions) for conduit's feature-driven workspace (issue #114/#143)"
+2026-10-10T00:24:51.703642Z,harn-aws-config,0.10.160,0,0,https://github.com/smithy-lang/smithy-rs,AWS SDK config and credential provider implementations.
+2026-10-10T00:32:34.149179Z,henad-core,0.3.0,0,0,https://github.com/micfong-z/henad,"Model authoring traits, primitives and shared types of Henad, a parallel agent-based modelling engine."
+2026-10-10T00:32:36.399095Z,henad-build,0.3.0,0,0,https://github.com/micfong-z/henad,"Build-script support for Henad model crates: build stamps, and shader bindings generated from WGSL."
+2026-10-10T00:32:38.659257Z,henad-compute,0.3.0,0,0,https://github.com/micfong-z/henad,"CPU and GPU engines that run Henad models, with their sim threads and parallel primitives."
+2026-10-10T00:32:41.393539Z,henad-explore,0.3.0,0,0,https://github.com/micfong-z/henad,"Parameter sweeps, searches and result folders for Henad models."
+2026-10-10T00:32:42.196314Z,henad-models,0.3.0,0,0,https://github.com/micfong-z/henad,"Example models for Henad, a parallel agent-based modelling engine."
+2026-10-10T00:34:05.413859Z,lopatnov-conduit-config,2.0.0,0,0,https://github.com/lopatnov/conduit,"Layer-2 config schema for conduit's feature-driven workspace (issue #114/#222) — AppConfig, SiteConfig and the file-format parsing that turns a config file into them"
+2026-10-10T00:35:26.259929Z,ptox,0.1.3,0,0,https://github.com/despulii-bit/ptox,A language-neutral SDK for building file-search clients across many networks.
+2026-10-10T00:35:35.632415Z,ptox-conformance,0.1.3,0,0,https://github.com/despulii-bit/ptox,Contract conformance suite for ptox providers (in-process or NDJSON).
+2026-10-10T00:43:02.046662Z,henad-cli,0.3.0,0,0,https://github.com/micfong-z/henad,"Command-line benchmark and sweep runner for Henad, a parallel agent-based modelling engine."
+2026-10-10T00:44:06.595611Z,lopatnov-conduit-runtime,2.0.0,0,0,https://github.com/lopatnov/conduit,"Layer-3 request pipeline for conduit's feature-driven workspace (issue #114/#145) — the Pingora ProxyHttp implementation, per-request state, the guard/response chains and the local handlers"
+2026-10-10T00:46:19.172603Z,eutaxia,0.0.1,0,0,https://github.com/rgesteves5/eutaxia,"eutaxia: a playbook for coding agents. Keeps a codebase's structure and standards. Placeholder: under development, no functionality yet."
+2026-10-10T00:49:45.667455Z,lys-pass,0.3.0,0,0,https://github.com/ablative-io/lys,"Lys pass verification, live permission checks and product draft execution"
+2026-10-10T00:53:34.637795Z,henad-app,0.3.0,0,0,https://github.com/micfong-z/henad,"Desktop and web app for Henad, a parallel agent-based modelling engine."
+2026-10-10T00:54:06.658705Z,lopatnov-conduit-admin,2.0.0,0,0,https://github.com/lopatnov/conduit,"Admin API for conduit's feature-driven workspace (issue #114/#146) — the axum server, bearer-token authentication and the endpoint handlers"
+2026-10-10T01:03:58.431475Z,henad,0.3.0,0,0,https://github.com/micfong-z/henad,"A parallel agent-based modelling engine for millions of agents on one machine, with its app and its command line."
+2026-10-10T01:04:05.222344Z,lopatnov-conduit-server,2.0.0,0,0,https://github.com/lopatnov/conduit,"Server bootstrap, Admin API supervisor, config validation and providers for conduit's feature-driven workspace (issue #114/#147)"
+2026-10-10T01:07:26.090073Z,host-my-mcp,0.2.0,0,0,https://github.com/usergenic/host-my-mcp,"One public Streamable HTTP MCP gateway that authenticates with OAuth (Auth0), authorizes per server and per tool, and routes paths to local stdio MCP servers"
+2026-10-10T01:08:11.890614Z,bunny-ui-motor,0.1.0,0,0,https://github.com/thebunnylab/bunny_ui,"The state, identity and environment engine behind bunny-ui"
+2026-10-10T01:08:15.442057Z,bunny-ui,0.1.0,0,0,https://github.com/thebunnylab/bunny_ui,"Declarative UI in Rust with a SwiftUI spirit — monomorphic typed tree, state with structural identity, incremental reconciliation"
+2026-10-10T01:08:18.678528Z,bunny-ui-apple,0.1.0,0,0,https://github.com/thebunnylab/bunny_ui,"bunny-ui Apple half — CoreText, ImageIO, Security and Metal through dependency-free Objective-C FFI, shared by the macOS and iOS shells"
+2026-10-10T01:08:19.795926Z,bunny-ui-vulkan,0.1.0,0,0,https://github.com/thebunnylab/bunny_ui,"bunny-ui Vulkan tier — the swapchain presenter and the offscreen oracle over a dlopen'd loader, shared by the Linux and Android shells"
+2026-10-10T01:08:21.053169Z,bunny-ui-web,0.1.0,0,0,https://github.com/thebunnylab/bunny_ui,"bunny-ui web shell — wasm with a hand-written JS glue, presented by WebGL2 or the CPU canvas, no bindgen and no dependencies"
+2026-10-10T01:09:31.077193Z,clif-lsp,0.1.0,0,0,https://github.com/Takashiidobe/clif-lsp,Language server for Cranelift IR (CLIF) text files
+2026-10-10T01:14:04.345609Z,lopatnov-conduit-cli,2.0.0,0,0,https://github.com/lopatnov/conduit,CLI subcommand dispatch for conduit's feature-driven workspace (issue #114/#147)
+2026-10-10T01:18:08.611285Z,bunny-ui-windows,0.1.0,0,0,https://github.com/thebunnylab/bunny_ui,"bunny-ui Windows shell — native window and bitmap blit, dependency-free Win32 FFI"
