@@ -8,48 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 12:18 UTC
+## Latest list — 2026-10-10 13:18 UTC
 
-New crates published between 2026-10-10 11:21 UTC and 2026-10-10 12:18 UTC.
+New crates published between 2026-10-10 12:18 UTC and 2026-10-10 13:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-10T12-18-35-728513Z.csv)
+[Full CSV](data/new-crates-2026-10-10T13-18-35-102701Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-10 11:21:47 | [gogo-spaces](https://crates.io/crates/gogo-spaces) | 0.1.0 | 0 | Open a configured workspace in your terminal multiplexer with one command |
-| 2026-10-10 11:22:15 | [shiro-rs](https://crates.io/crates/shiro-rs) | 0.1.0-alpha.1 | 0 | Speech alignment, feature extraction and HMM/HSMM training compatible with SHIRO |
-| 2026-10-10 11:24:04 | [doctor-kit](https://crates.io/crates/doctor-kit) | 0.1.1 | 0 | Reusable runtime for doctor CLI tools: checks, score, faces, themes, REPL, TUI |
-| 2026-10-10 11:24:13 | [meteorite-core](https://crates.io/crates/meteorite-core) | 0.1.1 | 0 | Core library for the Meteorite static site generator |
-| 2026-10-10 11:24:27 | [meteorite](https://crates.io/crates/meteorite) | 0.1.1 | 0 | A fast static site generator: Markdown content, YAML config, pluggable themes |
-| 2026-10-10 11:24:51 | [telemetry-setup](https://crates.io/crates/telemetry-setup) | 0.1.0 | 0 | tracing setup for applications: a rotating JSON log, a human stderr log and opt… |
-| 2026-10-10 11:26:33 | [incular-runtime](https://crates.io/crates/incular-runtime) | 0.1.0 | 0 | Application runtime and scheduling foundations for Incular |
-| 2026-10-10 11:28:21 | [coheret](https://crates.io/crates/coheret) | 0.1.0 | 0 | CLI for Docker container health monitoring, cron-scheduled restarts, and auto-h… |
-| 2026-10-10 11:32:31 | [gettext-catalog](https://crates.io/crates/gettext-catalog) | 0.1.0 | 0 | gettext .po catalogs for an application's own strings: Plural-Forms rules, name… |
-| 2026-10-10 11:34:58 | [crowsi-control-contracts](https://crates.io/crates/crowsi-control-contracts) | 0.1.0 | 0 | Closed Zero Trust control contracts for Crowsi |
-| 2026-10-10 11:36:10 | [crowsi-local-control-bridge](https://crates.io/crates/crowsi-local-control-bridge) | 0.1.0 | 0 | Authenticated Unix IPC boundary for local Crowsi control |
-| 2026-10-10 11:36:32 | [incular-devtools](https://crates.io/crates/incular-devtools) | 0.1.0 | 0 | Target-side DevTools agent for Incular applications |
-| 2026-10-10 11:36:56 | [sqlite-change-feed](https://crates.io/crates/sqlite-change-feed) | 0.1.0 | 0 | Change feed for a SQLite database shared between processes: PRAGMA data_version… |
-| 2026-10-10 11:36:57 | [crowsi-authority-transport](https://crates.io/crates/crowsi-authority-transport) | 0.1.0 | 0 | Opaque signed envelopes over bounded mutually authenticated TLS |
-| 2026-10-10 11:37:24 | [crowsi-credential-authority-contracts](https://crates.io/crates/crowsi-credential-authority-contracts) | 0.10.0 | 0 | Public verification contracts for Crowsi credential custody |
-| 2026-10-10 11:37:40 | [crowsi-windows-operation-contracts](https://crates.io/crates/crowsi-windows-operation-contracts) | 0.1.0 | 0 | Closed operation contracts for native Windows credential custody |
-| 2026-10-10 11:39:38 | [crowsi-windows-custody-provider](https://crates.io/crates/crowsi-windows-custody-provider) | 0.10.2 | 0 | Bounded WSL-to-Windows DPAPI CurrentUser credential custody |
-| 2026-10-10 11:41:35 | [abi-drift](https://crates.io/crates/abi-drift) | 0.1.0 | 0 | Drift tests for generated bindings: regenerate a cbindgen header or csbindgen C… |
-| 2026-10-10 11:46:36 | [incular-material](https://crates.io/crates/incular-material) | 0.1.0 | 0 | Flutter Material-style controls for the Incular framework |
-| 2026-10-10 11:46:45 | [keychain-secret](https://crates.io/crates/keychain-secret) | 0.1.0 | 0 | Application secrets from an environment variable or the OS keychain, never a co… |
-| 2026-10-10 11:56:03 | [e3nn](https://crates.io/crates/e3nn) | 0.1.0 | 0 | E(3)-equivariant building blocks in pure Rust: irreps, Clebsch-Gordan coefficie… |
-| 2026-10-10 11:56:15 | [bevy_flora](https://crates.io/crates/bevy_flora) | 0.1.0 | 0 | Parametric, stylized procedural trees for Bevy that grow over time: 15 presets,… |
-| 2026-10-10 11:56:35 | [incular-desktop](https://crates.io/crates/incular-desktop) | 0.1.0 | 0 | Shared desktop shell integration for Incular |
-| 2026-10-10 11:57:23 | [flintlang-sys](https://crates.io/crates/flintlang-sys) | 0.13.2 | 0 | Safe Rust bindings over the Flint native C ABI |
-| 2026-10-10 11:58:33 | [flintlang](https://crates.io/crates/flintlang) | 0.13.2 | 0 | Safe Rust embedding of the Flint scripting language runtime |
-| 2026-10-10 11:59:27 | [crowsi-credential-broker](https://crates.io/crates/crowsi-credential-broker) | 0.1.1 | 0 | Fail-closed local credential references, leases, and metadata-only status contr… |
-| 2026-10-10 12:03:12 | [req-file](https://crates.io/crates/req-file) | 0.1.0 | 0 | Parser and verifier for the '.req' file format. |
-| 2026-10-10 12:06:31 | [incular-linux](https://crates.io/crates/incular-linux) | 0.1.0 | 0 | Linux platform integration for Incular |
-| 2026-10-10 12:09:20 | [zixcel-github-egress-contracts](https://crates.io/crates/zixcel-github-egress-contracts) | 0.10.0 | 0 | Bounded GitHub egress contracts and authorization validation |
-| 2026-10-10 12:11:32 | [monochromatic-lint](https://crates.io/crates/monochromatic-lint) | 0.1.0 | 0 | Repository-owned Rust, Markdown and MDX linter. |
-| 2026-10-10 12:16:13 | [perlica](https://crates.io/crates/perlica) | 0.0.0 | 0 | Single-threaded reactive state for Rust (placeholder) |
-| 2026-10-10 12:16:14 | [perlica-macros](https://crates.io/crates/perlica-macros) | 0.0.0 | 0 | Procedural macros for Perlica (placeholder) |
-| 2026-10-10 12:16:15 | [reactive-smithay](https://crates.io/crates/reactive-smithay) | 0.0.0 | 0 | Reactive Wayland protocol state for Smithay (placeholder) |
-| 2026-10-10 12:16:31 | [incular-macos](https://crates.io/crates/incular-macos) | 0.1.0 | 0 | macOS platform integration for Incular |
+| 2026-10-10 12:19:23 | [crowsi-credential-runtime](https://crates.io/crates/crowsi-credential-runtime) | 0.1.0 | 0 | Authenticated one-use credential execution boundary for Crowsi |
+| 2026-10-10 12:20:30 | [bezel-chart](https://crates.io/crates/bezel-chart) | 0.2.12 | 0 | Charts for gpui — a Vega-Lite subset over columnar data |
+| 2026-10-10 12:23:23 | [halley](https://crates.io/crates/halley) | 0.8.0 | 0 | Project information and installation guidance for the Halley Wayland compositor |
+| 2026-10-10 12:23:46 | [mcserver-core](https://crates.io/crates/mcserver-core) | 0.1.0 | 0 | Core modules for mcserver and mcserver-daemon |
+| 2026-10-10 12:24:03 | [mcserver-daemon](https://crates.io/crates/mcserver-daemon) | 0.1.0 | 0 | Minecraft server daemon |
+| 2026-10-10 12:26:31 | [incular-windows](https://crates.io/crates/incular-windows) | 0.1.0 | 0 | Windows platform integration for Incular |
+| 2026-10-10 12:26:56 | [ferese-shape](https://crates.io/crates/ferese-shape) | 0.1.1 | 0 | Rounded rectangle and squircle outlines, signed distances, border insets, and W… |
+| 2026-10-10 12:27:32 | [eigenn-sdk](https://crates.io/crates/eigenn-sdk) | 1.0.1 | 0 | Generated Rust SDK for the Oppulence public API. |
+| 2026-10-10 12:29:00 | [lanekeep-lang-css](https://crates.io/crates/lanekeep-lang-css) | 0.14.0 | 0 | CSS language support for lanekeep. |
+| 2026-10-10 12:29:17 | [lanekeep-lang-toml](https://crates.io/crates/lanekeep-lang-toml) | 0.14.0 | 0 | TOML language support for lanekeep. |
+| 2026-10-10 12:29:19 | [lanekeep-lang-yaml](https://crates.io/crates/lanekeep-lang-yaml) | 0.14.0 | 0 | YAML language support for lanekeep. |
+| 2026-10-10 12:30:07 | [teus](https://crates.io/crates/teus) | 0.0.0 | 0 | A native Rust UI framework with CSS-inspired styling, in early development. |
+| 2026-10-10 12:36:33 | [incular](https://crates.io/crates/incular) | 0.1.0 | 0 | A Flutter-inspired GUI library for Rust |
+| 2026-10-10 12:38:02 | [hat-specifications](https://crates.io/crates/hat-specifications) | 0.10.0 | 0 | Versioned HAT and Fitting contract validator |
+| 2026-10-10 12:38:18 | [binfact](https://crates.io/crates/binfact) | 0.0.0 | 0 | Placeholder for shared fact map and type definitions for binary analysis tools |
+| 2026-10-10 12:38:24 | [pelite-cli](https://crates.io/crates/pelite-cli) | 0.0.0 | 0 | Placeholder for command-line tools for inspecting PE binaries with pelite |
+| 2026-10-10 12:40:19 | [flydigi-protocol](https://crates.io/crates/flydigi-protocol) | 0.1.0 | 0 | no_std decoding of measured Flydigi Direwolf 4 USB reports for embedded debuggi… |
+| 2026-10-10 12:40:23 | [flydigi-cli](https://crates.io/crates/flydigi-cli) | 0.1.0 | 0 | Linux CLI for measured Flydigi USB input, captures and embedded debugging |
+| 2026-10-10 12:49:32 | [curlite](https://crates.io/crates/curlite) | 0.1.1 | 0 | Small blocking HTTP client on top of libcurl: forms, multipart and raw bodies w… |
+| 2026-10-10 12:51:28 | [fairlead-syntax](https://crates.io/crates/fairlead-syntax) | 0.1.0 | 0 | Pure directive grammar and extraction for fairlead: no I/O, no git, no threads. |
+| 2026-10-10 12:51:46 | [sml-codes](https://crates.io/crates/sml-codes) | 0.1.0-alpha.1 | 0 | SML 错误码常量与带码错误类型（唯一事实来源：errors/codes.sml）。 |
+| 2026-10-10 12:53:32 | [smltools](https://crates.io/crates/smltools) | 0.2.1 | 0 | (EXPERIMENTAL) SML command-line toolbox: migrate JSON/YAML into SML (--from), s… |
+| 2026-10-10 12:54:03 | [fairlead-core](https://crates.io/crates/fairlead-core) | 0.1.0 | 0 | Core engine of fairlead: discovery, walk, extraction, registry, checks, context… |
+| 2026-10-10 12:54:50 | [fairlead](https://crates.io/crates/fairlead) | 0.1.0 | 0 | Command-line interface of fairlead: declare, check and brief. |
 
 ## Data source
 

@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T12:19:23.370454Z,crowsi-credential-runtime,0.1.0,0,0,https://github.com/vpremises/vpremises-credential,Authenticated one-use credential execution boundary for Crowsi
+2026-10-10T12:20:30.343833Z,bezel-chart,0.2.12,0,0,https://github.com/crabtalk/bezel,Charts for gpui — a Vega-Lite subset over columnar data
+2026-10-10T12:23:23.751756Z,halley,0.8.0,0,0,https://github.com/saltnpepper97/halley,Project information and installation guidance for the Halley Wayland compositor
+2026-10-10T12:23:46.17695Z,mcserver-core,0.1.0,0,0,https://github.com/Neovimproved/mcserver,Core modules for mcserver and mcserver-daemon
+2026-10-10T12:24:03.098285Z,mcserver-daemon,0.1.0,0,0,https://github.com/Neovimproved/mcserver,Minecraft server daemon
+2026-10-10T12:26:31.549436Z,incular-windows,0.1.0,0,0,https://github.com/FabortLabs/incular,Windows platform integration for Incular
+2026-10-10T12:26:56.315014Z,ferese-shape,0.1.1,0,0,https://github.com/ferese-wm/ferese-shape,"Rounded rectangle and squircle outlines, signed distances, border insets, and WGSL functions"
+2026-10-10T12:27:32.322632Z,eigenn-sdk,1.0.1,0,0,https://github.com/Oppulence-Engineering/oppulence-canvas,Generated Rust SDK for the Oppulence public API.
+2026-10-10T12:29:00.684604Z,lanekeep-lang-css,0.14.0,0,0,https://github.com/fmsouza/lanekeep,CSS language support for lanekeep.
+2026-10-10T12:29:17.215834Z,lanekeep-lang-toml,0.14.0,0,0,https://github.com/fmsouza/lanekeep,TOML language support for lanekeep.
+2026-10-10T12:29:19.747214Z,lanekeep-lang-yaml,0.14.0,0,0,https://github.com/fmsouza/lanekeep,YAML language support for lanekeep.
+2026-10-10T12:30:07.020722Z,teus,0.0.0,0,0,https://github.com/waltermwaniki/teus,"A native Rust UI framework with CSS-inspired styling, in early development."
+2026-10-10T12:36:33.501336Z,incular,0.1.0,0,0,https://github.com/FabortLabs/incular,A Flutter-inspired GUI library for Rust
+2026-10-10T12:38:02.240036Z,hat-specifications,0.10.0,0,0,https://github.com/hathq/hat-specifications,Versioned HAT and Fitting contract validator
+2026-10-10T12:38:18.126149Z,binfact,0.0.0,0,0,https://github.com/CasualX/pelite,Placeholder for shared fact map and type definitions for binary analysis tools
+2026-10-10T12:38:24.61026Z,pelite-cli,0.0.0,0,0,https://github.com/CasualX/pelite,Placeholder for command-line tools for inspecting PE binaries with pelite
+2026-10-10T12:40:19.471182Z,flydigi-protocol,0.1.0,0,0,,no_std decoding of measured Flydigi Direwolf 4 USB reports for embedded debugging
+2026-10-10T12:40:23.348891Z,flydigi-cli,0.1.0,0,0,,"Linux CLI for measured Flydigi USB input, captures and embedded debugging"
+2026-10-10T12:49:32.186462Z,curlite,0.1.1,0,0,https://github.com/CarloTUM/curlite,"Small blocking HTTP client on top of libcurl: forms, multipart and raw bodies without an async runtime"
+2026-10-10T12:51:28.892466Z,fairlead-syntax,0.1.0,0,0,https://github.com/aAndy03/fairlead,"Pure directive grammar and extraction for fairlead: no I/O, no git, no threads."
+2026-10-10T12:51:46.238499Z,sml-codes,0.1.0-alpha.1,0,0,https://gitee.com/snoware/sml,SML 错误码常量与带码错误类型（唯一事实来源：errors/codes.sml）。
+2026-10-10T12:53:32.547299Z,smltools,0.2.1,0,0,https://gitee.com/snoware/sml,"(EXPERIMENTAL) SML command-line toolbox: migrate JSON/YAML into SML (--from), strip SML-only features for lossless interchange (--strip), lint documents, and translate SML into slint/lvgl/json/xml/sv…"
+2026-10-10T12:54:03.943215Z,fairlead-core,0.1.0,0,0,https://github.com/aAndy03/fairlead,"Core engine of fairlead: discovery, walk, extraction, registry, checks, context, writes"
+2026-10-10T12:54:50.334405Z,fairlead,0.1.0,0,0,https://github.com/aAndy03/fairlead,"Command-line interface of fairlead: declare, check and brief."
