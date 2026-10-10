@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T08:24:53.143433Z,potluckdb,0.1.0,0,0,,potluckdb local-first SQLite synchronization SDK
+2026-10-10T08:25:22.444137Z,camel-component-rabbitmq,0.57.0,0,0,https://github.com/kennycallado/rust-camel,RabbitMQ AMQP 0-9-1 component for rust-camel
+2026-10-10T08:27:06.854128Z,tree-sitter-bloblang,0.2.2,0,0,https://codeberg.org/hsctech/blobl_sitter,parser for bento bloblang
+2026-10-10T08:37:26.569351Z,whisker-submit,0.15.3,0,0,https://github.com/whiskerrs/whisker,Whisker store submission — App Store Connect and Google Play API clients for `whisker submit`.
+2026-10-10T08:41:43.141691Z,style-engine,1.0.0,0,0,https://github.com/chh-itt/style-engine,"Framework-agnostic CSS semantic styling for native GUIs: parse, cascade, lay out, and emit a paint-ready display list."
+2026-10-10T08:42:11.690699Z,style-engine-soft,1.0.0,0,0,https://github.com/chh-itt/style-engine,"Pure-software paint sink for style-engine display lists (contract-validation crate, zero GPU / zero extra deps)."
+2026-10-10T08:44:24.892005Z,style-engine-vello,1.0.0,0,0,https://github.com/chh-itt/style-engine,Vello (wgpu) paint sink for style-engine display lists.
+2026-10-10T08:45:13.07453Z,style-engine-tiny,1.0.0,0,0,https://github.com/chh-itt/style-engine,"tiny-skia CPU paint sink for style-engine display lists: real-blur shadows/filters, full W3C blend set, software text via parley + skrifa."
+2026-10-10T08:45:36.164689Z,vla-lang,0.8.1,0,0,https://github.com/Spreadsheet-Company/Frazaro,"The VLA language with nothing around it: forms, their expansion, the grid, the view record, and the machine that steps a grid"
+2026-10-10T08:46:06.800115Z,incular-assets,0.1.0,0,0,https://github.com/FabortLabs/incular,Asset handles and resource loading foundations for Incular
+2026-10-10T08:46:12.008452Z,incular-core,0.1.0,0,0,https://github.com/FabortLabs/incular,Platform-independent foundation types for Incular
+2026-10-10T08:46:16.417885Z,incular-devtools-protocol,0.1.0,0,0,https://github.com/FabortLabs/incular,"Typed, versioned wire protocol between Incular targets and DevTools"
+2026-10-10T08:46:21.26312Z,incular-animation,0.1.0,0,0,https://github.com/FabortLabs/incular,Animation primitives and timing utilities for Incular
+2026-10-10T08:46:29.305757Z,incular-config,0.1.0,0,0,https://github.com/FabortLabs/incular,Renderer-independent configuration values for Incular
+2026-10-10T08:56:26.259535Z,incular-gestures,0.1.0,0,0,https://github.com/FabortLabs/incular,Platform-neutral gesture recognition and input interaction primitives for Incular
+2026-10-10T08:57:51.201209Z,qcdiff,0.1.0,0,0,https://github.com/navneet83/qcdiff,"Command-line semantic diff for OpenQASM 3 quantum circuits: compare two QASM files at the gate level, for CI and code review"
+2026-10-10T08:59:16.60743Z,ircbot-plugins,0.7.0,0,0,https://github.com/chrj/ircbot,Standard plugins for the ircbot IRC bot framework
+2026-10-10T09:06:27.635391Z,incular-semantics,0.1.0,0,0,https://github.com/FabortLabs/incular,Renderer- and platform-neutral accessibility semantics for Incular
+2026-10-10T09:07:21.297545Z,bunny-cli,0.2.0,0,0,https://github.com/thebunnylab/bunny_ui,"The bunny command — create, check and run bunny-ui apps on macOS, iOS, Windows, Linux, Android and the web"
+2026-10-10T09:07:25.908068Z,bunny-ui-core,0.2.0,0,0,https://github.com/thebunnylab/bunny_ui,"The core of bunny-ui — monomorphic typed tree, state with structural identity, incremental reconciliation. Applications add `bunny-ui`, which re-exports it with the platform shell"
+2026-10-10T09:07:30.024655Z,bunny-ui-hot,0.2.0,0,0,https://github.com/thebunnylab/bunny_ui,"Hot reload for bunny-ui — the part inside the app: it loads each new build `bunny run` makes and swaps the views to it, the state kept"
+2026-10-10T09:07:51.199199Z,bunny-ui-dylib,0.2.0,0,0,https://github.com/thebunnylab/bunny_ui,bunny-ui as one shared library — what `bunny run` links an app's debug build against for hot reload; no other build needs it
+2026-10-10T09:12:34.99003Z,unamp,0.1.0,0,0,https://github.com/divanvisagie/UnAmp,"Native desktop music player for local folders and network shares, with album art and a spectrum analyzer"
+2026-10-10T09:14:12.420896Z,bezel-zed-bench-metrics,0.3.19+zed.f16f96,0,0,https://github.com/crabtalk/zed,"bench_metrics from zed-industries/zed, republished for the bezel gpui fork"
+2026-10-10T09:16:22.705381Z,incular-accessibility,0.1.0,0,0,https://github.com/FabortLabs/incular,Native accessibility adapter contracts for Incular

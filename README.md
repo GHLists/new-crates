@@ -8,37 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 08:18 UTC
+## Latest list — 2026-10-10 09:18 UTC
 
-New crates published between 2026-10-10 07:18 UTC and 2026-10-10 08:18 UTC.
+New crates published between 2026-10-10 08:18 UTC and 2026-10-10 09:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-10T08-18-35-897612Z.csv)
+[Full CSV](data/new-crates-2026-10-10T09-18-34-103594Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-10 07:25:25 | [optionstratlib-core](https://crates.io/crates/optionstratlib-core) | 0.22.0 | 0 | Core domain model of OptionStratLib: options, positions, legs, trades, checked… |
-| 2026-10-10 07:25:36 | [optionstratlib-math](https://crates.io/crates/optionstratlib-math) | 0.22.0 | 0 | Generic curves, surfaces, interpolation and geometry of OptionStratLib, on Deci… |
-| 2026-10-10 07:25:43 | [optionstratlib-pricing](https://crates.io/crates/optionstratlib-pricing) | 0.22.0 | 0 | Option pricing models, Greeks and implied volatility of OptionStratLib, on Deci… |
-| 2026-10-10 07:25:50 | [optionstratlib-simulation](https://crates.io/crates/optionstratlib-simulation) | 0.22.0 | 0 | Random walks, stochastic processes, simulators, exit policies and path statisti… |
-| 2026-10-10 07:25:58 | [optionstratlib-market](https://crates.io/crates/optionstratlib-market) | 0.22.0 | 0 | Option chains and option series of OptionStratLib: building, parsing, and CSV,… |
-| 2026-10-10 07:29:46 | [purist-derive](https://crates.io/crates/purist-derive) | 0.6.1 | 0 | Derive macros for the purist AST linter scope traits |
-| 2026-10-10 07:30:08 | [optionstratlib-analytics](https://crates.io/crates/optionstratlib-analytics) | 0.22.0 | 0 | Strategy-neutral analytics of OptionStratLib: P&L, risk, probability kernels, o… |
-| 2026-10-10 07:34:20 | [flexiq-macros](https://crates.io/crates/flexiq-macros) | 2.1.0 | 0 | The #[task] attribute macro for the FlexiQ Rust SDK |
-| 2026-10-10 07:38:32 | [optionstratlib-strategies](https://crates.io/crates/optionstratlib-strategies) | 0.22.0 | 0 | Option strategies of OptionStratLib: spreads, butterflies, condors, straddles,… |
-| 2026-10-10 07:42:30 | [lanekeep-tree-sitter-typescript](https://crates.io/crates/lanekeep-tree-sitter-typescript) | 0.13.0 | 0 | tree-sitter-typescript 0.23.2's TypeScript and TSX grammars, regenerated with t… |
-| 2026-10-10 07:42:56 | [lanekeep-lang-json](https://crates.io/crates/lanekeep-lang-json) | 0.13.0 | 0 | JSON language support for lanekeep. |
-| 2026-10-10 07:48:58 | [optionstratlib-backtest](https://crates.io/crates/optionstratlib-backtest) | 0.22.0 | 0 | Strategy backtests over simulated paths: per-path evaluation, run statistics an… |
-| 2026-10-10 07:54:15 | [rivium-error](https://crates.io/crates/rivium-error) | 0.1.0 | 0 | The error type, classification and log fields shared by Rivium services |
-| 2026-10-10 07:54:17 | [rivium](https://crates.io/crates/rivium) | 0.1.0 | 0 | Service foundation: configuration, logging, service lifecycle and process/embed… |
-| 2026-10-10 07:54:19 | [rivium-http](https://crates.io/crates/rivium-http) | 0.1.0 | 0 | axum integration for Rivium: the HTTP contract as a layer and its primitives, a… |
-| 2026-10-10 07:54:19 | [rivium-jni](https://crates.io/crates/rivium-jni) | 0.1.0 | 0 | JNI adapter for Rivium's embedded host: generated JNI_OnLoad and native methods |
-| 2026-10-10 07:54:19 | [rivium-test](https://crates.io/crates/rivium-test) | 0.1.0 | 0 | Test support for Rivium services: scripted services, log capture, contract suit… |
-| 2026-10-10 07:54:24 | [dimescheduler](https://crates.io/crates/dimescheduler) | 0.1.0 | 0 | Official Rust client library for the Dime.Scheduler API. |
-| 2026-10-10 07:56:23 | [raiv](https://crates.io/crates/raiv) | 0.0.0 | 0 | Placeholder crate reserving the name for future development. |
-| 2026-10-10 07:59:38 | [optionstratlib-visualization](https://crates.io/crates/optionstratlib-visualization) | 0.22.0 | 0 | Backend-neutral chart models, the Graph contract and its implementations for Op… |
-| 2026-10-10 08:00:14 | [fluxionyx](https://crates.io/crates/fluxionyx) | 0.1.0 | 0 | Composable stocks, recipes, populations, fields, and time for simulation systems |
-| 2026-10-10 08:01:58 | [evogym-labs](https://crates.io/crates/evogym-labs) | 0.1.1 | 0 | 2D soft-voxel robot evolution simulator with hand-rolled spring physics, a gene… |
-| 2026-10-10 08:06:28 | [ble-doctor](https://crates.io/crates/ble-doctor) | 0.2.0 | 0 | Cross-platform BLE diagnostics and security CLI |
+| 2026-10-10 08:24:53 | [potluckdb](https://crates.io/crates/potluckdb) | 0.1.0 | 0 | potluckdb local-first SQLite synchronization SDK |
+| 2026-10-10 08:25:22 | [camel-component-rabbitmq](https://crates.io/crates/camel-component-rabbitmq) | 0.57.0 | 0 | RabbitMQ AMQP 0-9-1 component for rust-camel |
+| 2026-10-10 08:27:06 | [tree-sitter-bloblang](https://crates.io/crates/tree-sitter-bloblang) | 0.2.2 | 0 | parser for bento bloblang |
+| 2026-10-10 08:37:26 | [whisker-submit](https://crates.io/crates/whisker-submit) | 0.15.3 | 0 | Whisker store submission — App Store Connect and Google Play API clients for `w… |
+| 2026-10-10 08:41:43 | [style-engine](https://crates.io/crates/style-engine) | 1.0.0 | 0 | Framework-agnostic CSS semantic styling for native GUIs: parse, cascade, lay ou… |
+| 2026-10-10 08:42:11 | [style-engine-soft](https://crates.io/crates/style-engine-soft) | 1.0.0 | 0 | Pure-software paint sink for style-engine display lists (contract-validation cr… |
+| 2026-10-10 08:44:24 | [style-engine-vello](https://crates.io/crates/style-engine-vello) | 1.0.0 | 0 | Vello (wgpu) paint sink for style-engine display lists. |
+| 2026-10-10 08:45:13 | [style-engine-tiny](https://crates.io/crates/style-engine-tiny) | 1.0.0 | 0 | tiny-skia CPU paint sink for style-engine display lists: real-blur shadows/filt… |
+| 2026-10-10 08:45:36 | [vla-lang](https://crates.io/crates/vla-lang) | 0.8.1 | 0 | The VLA language with nothing around it: forms, their expansion, the grid, the… |
+| 2026-10-10 08:46:06 | [incular-assets](https://crates.io/crates/incular-assets) | 0.1.0 | 0 | Asset handles and resource loading foundations for Incular |
+| 2026-10-10 08:46:12 | [incular-core](https://crates.io/crates/incular-core) | 0.1.0 | 0 | Platform-independent foundation types for Incular |
+| 2026-10-10 08:46:16 | [incular-devtools-protocol](https://crates.io/crates/incular-devtools-protocol) | 0.1.0 | 0 | Typed, versioned wire protocol between Incular targets and DevTools |
+| 2026-10-10 08:46:21 | [incular-animation](https://crates.io/crates/incular-animation) | 0.1.0 | 0 | Animation primitives and timing utilities for Incular |
+| 2026-10-10 08:46:29 | [incular-config](https://crates.io/crates/incular-config) | 0.1.0 | 0 | Renderer-independent configuration values for Incular |
+| 2026-10-10 08:56:26 | [incular-gestures](https://crates.io/crates/incular-gestures) | 0.1.0 | 0 | Platform-neutral gesture recognition and input interaction primitives for Incul… |
+| 2026-10-10 08:57:51 | [qcdiff](https://crates.io/crates/qcdiff) | 0.1.0 | 0 | Command-line semantic diff for OpenQASM 3 quantum circuits: compare two QASM fi… |
+| 2026-10-10 08:59:16 | [ircbot-plugins](https://crates.io/crates/ircbot-plugins) | 0.7.0 | 0 | Standard plugins for the ircbot IRC bot framework |
+| 2026-10-10 09:06:27 | [incular-semantics](https://crates.io/crates/incular-semantics) | 0.1.0 | 0 | Renderer- and platform-neutral accessibility semantics for Incular |
+| 2026-10-10 09:07:21 | [bunny-cli](https://crates.io/crates/bunny-cli) | 0.2.0 | 0 | The bunny command — create, check and run bunny-ui apps on macOS, iOS, Windows,… |
+| 2026-10-10 09:07:25 | [bunny-ui-core](https://crates.io/crates/bunny-ui-core) | 0.2.0 | 0 | The core of bunny-ui — monomorphic typed tree, state with structural identity,… |
+| 2026-10-10 09:07:30 | [bunny-ui-hot](https://crates.io/crates/bunny-ui-hot) | 0.2.0 | 0 | Hot reload for bunny-ui — the part inside the app: it loads each new build `bun… |
+| 2026-10-10 09:07:51 | [bunny-ui-dylib](https://crates.io/crates/bunny-ui-dylib) | 0.2.0 | 0 | bunny-ui as one shared library — what `bunny run` links an app's debug build ag… |
+| 2026-10-10 09:12:34 | [unamp](https://crates.io/crates/unamp) | 0.1.0 | 0 | Native desktop music player for local folders and network shares, with album ar… |
+| 2026-10-10 09:14:12 | [bezel-zed-bench-metrics](https://crates.io/crates/bezel-zed-bench-metrics) | 0.3.19+zed.f16f96 | 0 | bench_metrics from zed-industries/zed, republished for the bezel gpui fork |
+| 2026-10-10 09:16:22 | [incular-accessibility](https://crates.io/crates/incular-accessibility) | 0.1.0 | 0 | Native accessibility adapter contracts for Incular |
 
 ## Data source
 
