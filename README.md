@@ -8,39 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 10:20 UTC
+## Latest list — 2026-10-10 11:21 UTC
 
-New crates published between 2026-10-10 09:18 UTC and 2026-10-10 10:20 UTC.
+New crates published between 2026-10-10 10:20 UTC and 2026-10-10 11:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-10T10-20-10-128708Z.csv)
+[Full CSV](data/new-crates-2026-10-10T11-21-16-76375Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-10 09:26:25 | [incular-image](https://crates.io/crates/incular-image) | 0.1.0 | 0 | Renderer-neutral raster image resources and loading for Incular |
-| 2026-10-10 09:28:31 | [kharka](https://crates.io/crates/kharka) | 0.1.0 | 0 | A small local-first JSON store: every machine keeps a full replica, one hub ord… |
-| 2026-10-10 09:30:19 | [glrmask-finite-automata](https://crates.io/crates/glrmask-finite-automata) | 0.1.1 | 0 | Finite-automata primitives used by GLRMask |
-| 2026-10-10 09:30:23 | [glrmask-invariant](https://crates.io/crates/glrmask-invariant) | 0.1.1 | 0 | Cross-thread internal invariant transport for GLRMask |
-| 2026-10-10 09:30:30 | [glrmask-vocab](https://crates.io/crates/glrmask-vocab) | 0.1.1 | 0 | Vocabulary representation and derived-artifact cache for GLRMask |
-| 2026-10-10 09:30:38 | [glrmask-weight](https://crates.io/crates/glrmask-weight) | 0.1.1 | 0 | Interned token-set weight algebra used by GLRMask |
-| 2026-10-10 09:30:52 | [glrmask-lexer](https://crates.io/crates/glrmask-lexer) | 0.1.1 | 0 | Lexer and tokenizer automata used by GLRMask |
-| 2026-10-10 09:35:15 | [rstu_ast](https://crates.io/crates/rstu_ast) | 0.0.1 | 0 | Internal component crate for rstu. |
-| 2026-10-10 09:35:20 | [rstu_parser](https://crates.io/crates/rstu_parser) | 0.0.1 | 0 | Internal component crate for rstu. |
-| 2026-10-10 09:35:30 | [rstu](https://crates.io/crates/rstu) | 0.0.1 | 0 | Tools to process RST files |
-| 2026-10-10 09:36:23 | [incular-layout](https://crates.io/crates/incular-layout) | 0.1.0 | 0 | Layout primitives and algorithms for Incular |
-| 2026-10-10 09:36:42 | [glrmask-weighted-automata](https://crates.io/crates/glrmask-weighted-automata) | 0.1.1 | 0 | Weighted NWA and DWA algorithms used by GLRMask |
-| 2026-10-10 09:40:42 | [liblrhsmm-rs](https://crates.io/crates/liblrhsmm-rs) | 0.1.0-alpha.1 | 0 | Left-to-right HMM and HSMM inference, training and model serialization |
-| 2026-10-10 09:41:02 | [terrarium](https://crates.io/crates/terrarium) | 0.0.0 | 0 | placeholder |
-| 2026-10-10 09:41:59 | [ciglet-rs](https://crates.io/crates/ciglet-rs) | 0.1.0-alpha.1 | 0 | Signal processing and audio analysis compatible with ciglet |
-| 2026-10-10 09:46:28 | [incular-platform](https://crates.io/crates/incular-platform) | 0.1.0 | 0 | Shared platform abstractions for Incular |
-| 2026-10-10 09:48:09 | [fonepay](https://crates.io/crates/fonepay) | 0.1.0 | 0 | Client for Fonepay's merchant API v2 (dynamic and intent QR, payment status, ba… |
-| 2026-10-10 09:52:10 | [pgkit-macros](https://crates.io/crates/pgkit-macros) | 0.4.0 | 0 | Procedural macros for pgkit (Utilities for working with databases - postgres). |
-| 2026-10-10 09:56:28 | [incular-scroll](https://crates.io/crates/incular-scroll) | 0.1.0 | 0 | Widget-independent scrolling state, physics, and scrollbar geometry for Incular |
-| 2026-10-10 10:03:20 | [keri-protocol](https://crates.io/crates/keri-protocol) | 0.1.0 | 0 | KERI protocol messages: events, SAIDs, prefixes, thresholds and CESR attachments |
-| 2026-10-10 10:06:23 | [incular-android](https://crates.io/crates/incular-android) | 0.1.0 | 0 | Android platform integration for Incular |
-| 2026-10-10 10:11:37 | [herdr-kharka](https://crates.io/crates/herdr-kharka) | 0.1.0 | 0 | Writes what a machine's herdr runs into kharka, on every change |
-| 2026-10-10 10:14:12 | [field-delta](https://crates.io/crates/field-delta) | 0.1.0 | 0 | Describes a change to a field: leave it unchanged, clear it, or set a value. |
-| 2026-10-10 10:14:22 | [xidl-http](https://crates.io/crates/xidl-http) | 0.98.0 | 0 | Shared HTTP protocol types for xidl compilers and runtimes. |
-| 2026-10-10 10:16:28 | [incular-ios](https://crates.io/crates/incular-ios) | 0.1.0 | 0 | iOS platform integration for Incular |
+| 2026-10-10 10:26:28 | [incular-rendering](https://crates.io/crates/incular-rendering) | 0.1.0 | 0 | Renderer-neutral scene, canvas, display-list, and compositor APIs for Incular |
+| 2026-10-10 10:29:26 | [aerosieve-acoustic](https://crates.io/crates/aerosieve-acoustic) | 0.3.1 | 0 | Deterministic acoustic quality scoring: WADA-SNR, clipping, dBFS, spectral flat… |
+| 2026-10-10 10:29:28 | [aerosieve-lexical](https://crates.io/crates/aerosieve-lexical) | 0.3.1 | 0 | Single-pass leftmost-longest transcript normalization driven by YAML rules |
+| 2026-10-10 10:29:28 | [aerosieve-shard](https://crates.io/crates/aerosieve-shard) | 0.3.1 | 0 | WebDataset tar shard writer with atomic commit semantics |
+| 2026-10-10 10:29:32 | [aerosieve-decode](https://crates.io/crates/aerosieve-decode) | 0.3.1 | 0 | Audio decoding, resampling, and loudness standardization for AeroSieve |
+| 2026-10-10 10:29:33 | [aerosieve-segment](https://crates.io/crates/aerosieve-segment) | 0.3.1 | 0 | Hysteresis VAD segmentation producing variable-length speech clips |
+| 2026-10-10 10:33:10 | [lyntr-rs](https://crates.io/crates/lyntr-rs) | 0.1.5 | 0 | a api wrapper for lyntr |
+| 2026-10-10 10:34:37 | [pdf-toolkit-core](https://crates.io/crates/pdf-toolkit-core) | 0.1.0 | 0 | Zero-copy, bounded, no_std PDF reader core: objects, xref tables and streams, f… |
+| 2026-10-10 10:34:43 | [pdf-toolkit-text](https://crates.io/crates/pdf-toolkit-text) | 0.1.0 | 0 | PDF fonts, encodings, ToUnicode CMaps, content interpreter, reading order and s… |
+| 2026-10-10 10:34:53 | [pdf-toolkit-render](https://crates.io/crates/pdf-toolkit-render) | 0.1.0 | 0 | PDF page display lists with glyph outlines from TrueType, CFF and Type 1 fonts… |
+| 2026-10-10 10:35:02 | [pdf-toolkit-raster](https://crates.io/crates/pdf-toolkit-raster) | 0.1.0 | 0 | Rasterize PDF pages to RGBA and PNG with tiny-skia, pure Rust |
+| 2026-10-10 10:35:06 | [pdf-toolkit-write](https://crates.io/crates/pdf-toolkit-write) | 0.1.0 | 0 | Deterministic PDF writer: documents with subset TrueType fonts, images, links a… |
+| 2026-10-10 10:36:28 | [incular-text](https://crates.io/crates/incular-text) | 0.1.0 | 0 | Text layout and typography foundations for Incular |
+| 2026-10-10 10:36:41 | [verdandi](https://crates.io/crates/verdandi) | 0.2.0 | 0 | Seeded, layered procedural music for games: engine-agnostic core + Bevy plugin |
+| 2026-10-10 10:39:04 | [pdf-toolkit-edit](https://crates.io/crates/pdf-toolkit-edit) | 0.1.0 | 0 | Incremental PDF updates that keep the original bytes, plus a writer and editor… |
+| 2026-10-10 10:42:59 | [aerosieve](https://crates.io/crates/aerosieve) | 0.3.1 | 0 | Batch audio curation pipeline: decode, segment, score, shard |
+| 2026-10-10 10:43:24 | [redguard-preservation](https://crates.io/crates/redguard-preservation) | 0.6.0 | 0 | A CLI tool to preserve Redguard files |
+| 2026-10-10 10:46:34 | [incular-wgpu](https://crates.io/crates/incular-wgpu) | 0.1.0 | 0 | wgpu rendering backend for Incular |
+| 2026-10-10 10:48:30 | [pdf-toolkit-inspect](https://crates.io/crates/pdf-toolkit-inspect) | 0.1.0 | 0 | pdf-inspect: summary, text, receipts, semantic JSON, rendering, benchmarks, fuz… |
+| 2026-10-10 10:50:22 | [aerosieve-cli](https://crates.io/crates/aerosieve-cli) | 0.3.1 | 0 | Command-line interface for the AeroSieve audio curation pipeline |
+| 2026-10-10 10:57:06 | [incular-widgets](https://crates.io/crates/incular-widgets) | 0.1.0 | 0 | Widgets, built-in components, and layout foundations for Incular |
+| 2026-10-10 10:57:33 | [lme-rs-agent](https://crates.io/crates/lme-rs-agent) | 0.1.0 | 0 | Protocol-neutral agent API for lme-rs mixed-effects models |
+| 2026-10-10 10:59:03 | [bcur-registry](https://crates.io/crates/bcur-registry) | 2.1.0 | 0 | BCR-2020-006 registry types on the bcur typed dCBOR layer |
+| 2026-10-10 10:59:08 | [pdf-toolkit](https://crates.io/crates/pdf-toolkit) | 0.1.0 | 0 | Pure Rust PDF toolkit: zero-copy no_std reader, text and reading order, rendere… |
+| 2026-10-10 11:00:35 | [lme-rs-mcp](https://crates.io/crates/lme-rs-mcp) | 0.2.0 | 0 | Model Context Protocol (MCP) server exposing lme-rs mixed-effects modeling tools |
+| 2026-10-10 11:06:17 | [natlas](https://crates.io/crates/natlas) | 0.1.0 | 0 | Async Rust client for N-ATLaS — Nigeria's sovereign multilingual LLM (Hausa, Ig… |
+| 2026-10-10 11:06:52 | [incular-controls](https://crates.io/crates/incular-controls) | 0.1.0 | 0 | Platform-neutral default styled controls and design tokens for the Incular fram… |
+| 2026-10-10 11:09:06 | [rustier](https://crates.io/crates/rustier) | 0.0.1 | 0 | Import Rust code in JavaScript and TypeScript builds. |
+| 2026-10-10 11:13:07 | [monosecret-ipc](https://crates.io/crates/monosecret-ipc) | 0.4.3 | 0 | Independent Rust implementation of the Monosecret IPC protocols |
+| 2026-10-10 11:16:37 | [incular-navigation](https://crates.io/crates/incular-navigation) | 0.1.0 | 0 | Stack navigation, route transitions, and overlays for Incular |
+| 2026-10-10 11:19:08 | [critterm](https://crates.io/crates/critterm) | 0.1.0 | 0 | A terminal based pokemon game |
 
 ## Data source
 

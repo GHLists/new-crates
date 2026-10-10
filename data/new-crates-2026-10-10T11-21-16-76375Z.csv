@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T10:26:28.327335Z,incular-rendering,0.1.0,0,0,https://github.com/FabortLabs/incular,"Renderer-neutral scene, canvas, display-list, and compositor APIs for Incular"
+2026-10-10T10:29:26.513723Z,aerosieve-acoustic,0.3.1,0,0,https://github.com/kunalgoesbyken/AeroSieve,"Deterministic acoustic quality scoring: WADA-SNR, clipping, dBFS, spectral flatness"
+2026-10-10T10:29:28.102566Z,aerosieve-lexical,0.3.1,0,0,https://github.com/kunalgoesbyken/AeroSieve,Single-pass leftmost-longest transcript normalization driven by YAML rules
+2026-10-10T10:29:28.754234Z,aerosieve-shard,0.3.1,0,0,https://github.com/kunalgoesbyken/AeroSieve,WebDataset tar shard writer with atomic commit semantics
+2026-10-10T10:29:32.91322Z,aerosieve-decode,0.3.1,0,0,https://github.com/kunalgoesbyken/AeroSieve,"Audio decoding, resampling, and loudness standardization for AeroSieve"
+2026-10-10T10:29:33.467182Z,aerosieve-segment,0.3.1,0,0,https://github.com/kunalgoesbyken/AeroSieve,Hysteresis VAD segmentation producing variable-length speech clips
+2026-10-10T10:33:10.405898Z,lyntr-rs,0.1.5,0,0,,a api wrapper for lyntr
+2026-10-10T10:34:37.034773Z,pdf-toolkit-core,0.1.0,0,0,https://github.com/pathscale/pdf-toolkit,"Zero-copy, bounded, no_std PDF reader core: objects, xref tables and streams, filters, page tree"
+2026-10-10T10:34:43.69327Z,pdf-toolkit-text,0.1.0,0,0,https://github.com/pathscale/pdf-toolkit,"PDF fonts, encodings, ToUnicode CMaps, content interpreter, reading order and semantic documents (no_std)"
+2026-10-10T10:34:53.444081Z,pdf-toolkit-render,0.1.0,0,0,https://github.com/pathscale/pdf-toolkit,"PDF page display lists with glyph outlines from TrueType, CFF and Type 1 fonts (no_std)"
+2026-10-10T10:35:02.077815Z,pdf-toolkit-raster,0.1.0,0,0,https://github.com/pathscale/pdf-toolkit,"Rasterize PDF pages to RGBA and PNG with tiny-skia, pure Rust"
+2026-10-10T10:35:06.290071Z,pdf-toolkit-write,0.1.0,0,0,https://github.com/pathscale/pdf-toolkit,"Deterministic PDF writer: documents with subset TrueType fonts, images, links and outlines"
+2026-10-10T10:36:28.698932Z,incular-text,0.1.0,0,0,https://github.com/FabortLabs/incular,Text layout and typography foundations for Incular
+2026-10-10T10:36:41.620399Z,verdandi,0.2.0,0,0,https://github.com/right-ward/verdandi,"Seeded, layered procedural music for games: engine-agnostic core + Bevy plugin"
+2026-10-10T10:39:04.450777Z,pdf-toolkit-edit,0.1.0,0,0,https://github.com/pathscale/pdf-toolkit,"Incremental PDF updates that keep the original bytes, plus a writer and editor round-trip checker"
+2026-10-10T10:42:59.27443Z,aerosieve,0.3.1,0,0,https://github.com/kunalgoesbyken/AeroSieve,"Batch audio curation pipeline: decode, segment, score, shard"
+2026-10-10T10:43:24.316574Z,redguard-preservation,0.6.0,0,0,https://github.com/michidk/redguard-preservation,A CLI tool to preserve Redguard files
+2026-10-10T10:46:34.202225Z,incular-wgpu,0.1.0,0,0,https://github.com/FabortLabs/incular,wgpu rendering backend for Incular
+2026-10-10T10:48:30.506337Z,pdf-toolkit-inspect,0.1.0,0,0,https://github.com/pathscale/pdf-toolkit,"pdf-inspect: summary, text, receipts, semantic JSON, rendering, benchmarks, fuzzing and fixture checks for PDFs"
+2026-10-10T10:50:22.501949Z,aerosieve-cli,0.3.1,0,0,https://github.com/kunalgoesbyken/AeroSieve,Command-line interface for the AeroSieve audio curation pipeline
+2026-10-10T10:57:06.312605Z,incular-widgets,0.1.0,0,0,https://github.com/FabortLabs/incular,"Widgets, built-in components, and layout foundations for Incular"
+2026-10-10T10:57:33.620007Z,lme-rs-agent,0.1.0,0,0,https://github.com/x4g4p3x/lme-rs-agent,Protocol-neutral agent API for lme-rs mixed-effects models
+2026-10-10T10:59:03.16143Z,bcur-registry,2.1.0,0,0,https://github.com/qntx/ur,BCR-2020-006 registry types on the bcur typed dCBOR layer
+2026-10-10T10:59:08.035346Z,pdf-toolkit,0.1.0,0,0,https://github.com/pathscale/pdf-toolkit,"Pure Rust PDF toolkit: zero-copy no_std reader, text and reading order, renderer, writer and incremental editor"
+2026-10-10T11:00:35.669323Z,lme-rs-mcp,0.2.0,0,0,https://github.com/x4g4p3x/lme-rs-mcp,Model Context Protocol (MCP) server exposing lme-rs mixed-effects modeling tools
+2026-10-10T11:06:17.577822Z,natlas,0.1.0,0,0,https://github.com/Erhabor-Fona/natlas-mobile,"Async Rust client for N-ATLaS — Nigeria's sovereign multilingual LLM (Hausa, Igbo, Yoruba, Nigerian English)"
+2026-10-10T11:06:52.666654Z,incular-controls,0.1.0,0,0,https://github.com/FabortLabs/incular,Platform-neutral default styled controls and design tokens for the Incular framework
+2026-10-10T11:09:06.044183Z,rustier,0.0.1,0,0,https://github.com/helporme/rustier,Import Rust code in JavaScript and TypeScript builds.
+2026-10-10T11:13:07.46268Z,monosecret-ipc,0.4.3,0,0,https://github.com/ifiokjr/monosecret/tree/main/crates/monosecret_ipc,Independent Rust implementation of the Monosecret IPC protocols
+2026-10-10T11:16:37.98388Z,incular-navigation,0.1.0,0,0,https://github.com/FabortLabs/incular,"Stack navigation, route transitions, and overlays for Incular"
+2026-10-10T11:19:08.264155Z,critterm,0.1.0,0,0,https://codeberg.org/Vaishnav-Sabari-Girish/critterm,A terminal based pokemon game
