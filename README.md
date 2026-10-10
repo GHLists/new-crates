@@ -8,46 +8,64 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 16:19 UTC
+## Latest list — 2026-10-10 17:18 UTC
 
-New crates published between 2026-10-10 15:18 UTC and 2026-10-10 16:19 UTC.
+New crates published between 2026-10-10 16:19 UTC and 2026-10-10 17:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-10T16-19-05-204406Z.csv)
+[Full CSV](data/new-crates-2026-10-10T17-18-41-260638Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-10 15:19:32 | [zixcel-graph](https://crates.io/crates/zixcel-graph) | 0.10.0 | 0 | Reusable embedded typed property multigraph for the Zixcel ecosystem |
-| 2026-10-10 15:20:15 | [teloxide-fork-core](https://crates.io/crates/teloxide-fork-core) | 0.14.0 | 0 | Core part of the `teloxide` library - telegram bot API client |
-| 2026-10-10 15:20:21 | [teloxide-fork-macros](https://crates.io/crates/teloxide-fork-macros) | 0.11.0 | 0 | The teloxide's procedural macros |
-| 2026-10-10 15:21:29 | [gpui-macos-component-macros](https://crates.io/crates/gpui-macos-component-macros) | 0.7.1-macos.1 | 0 | The gpui-macos pinned fork of gpui-component-macros. |
-| 2026-10-10 15:21:38 | [teloxide-fork](https://crates.io/crates/teloxide-fork) | 0.18.0 | 0 | An elegant Telegram bots framework for Rust |
-| 2026-10-10 15:22:14 | [gpui-macos-assets](https://crates.io/crates/gpui-macos-assets) | 0.7.1-macos.1 | 0 | The gpui-macos pinned fork of gpui-kit-assets. |
-| 2026-10-10 15:22:58 | [gpui-macos-base](https://crates.io/crates/gpui-macos-base) | 0.7.1-macos.1 | 0 | The gpui-macos pinned fork of gpui-base. |
-| 2026-10-10 15:23:50 | [gpui-macos-component](https://crates.io/crates/gpui-macos-component) | 0.7.1-macos.1 | 0 | The gpui-macos pinned fork of gpui-component. |
-| 2026-10-10 15:24:41 | [gpui-macos-kit](https://crates.io/crates/gpui-macos-kit) | 0.7.1-macos.1 | 0 | The gpui-macos pinned fork of gpui-kit. |
-| 2026-10-10 15:26:25 | [adnv](https://crates.io/crates/adnv) | 1.5.0 | 0 | CLI that tracks, checks and auto-updates infrastructure dependency versions acr… |
-| 2026-10-10 15:29:11 | [gpui-macos](https://crates.io/crates/gpui-macos) | 0.1.0 | 0 | A complete macOS design system for GPUI Kit: native controls, Liquid Glass surf… |
-| 2026-10-10 15:29:27 | [hatter-owner-contracts](https://crates.io/crates/hatter-owner-contracts) | 0.10.0 | 0 | Exact Hatter owner incarnation and volatile availability contracts |
-| 2026-10-10 15:32:26 | [mil_onnx](https://crates.io/crates/mil_onnx) | 0.1.0 | 0 | ONNX → MIL frontend and sklearn-style classical ML (tree ensembles, GLMs) → .ml… |
-| 2026-10-10 15:37:29 | [gamejolt-rs](https://crates.io/crates/gamejolt-rs) | 0.1.0 | 0 | The most advanced Game Jolt Game API v1_2 crate in existence |
-| 2026-10-10 15:37:33 | [m4a-matrix-core](https://crates.io/crates/m4a-matrix-core) | 0.4.0 | 0 | Matrix event layer (hash-id rooms, room version 11): reference-hash event ids,… |
-| 2026-10-10 15:39:59 | [config-contract-derive](https://crates.io/crates/config-contract-derive) | 0.1.1 | 0 | Derive macro for documented, validated configuration contracts |
-| 2026-10-10 15:40:28 | [config-contract](https://crates.io/crates/config-contract) | 0.1.1 | 0 | Validated, documented configuration contracts generated from Rust structs |
-| 2026-10-10 15:40:58 | [cargo-config-contract](https://crates.io/crates/cargo-config-contract) | 0.1.1 | 0 | Cargo subcommand for generating config-contract artifacts |
-| 2026-10-10 15:42:36 | [toyos-osrelease](https://crates.io/crates/toyos-osrelease) | 0.1.0+95aa302d859ac… | 0 | The one definition of /system/etc/os-release: which build an image is, written… |
-| 2026-10-10 15:45:57 | [renamite-mcp](https://crates.io/crates/renamite-mcp) | 0.3.11 | 0 | MCP server: author renamite rigs from an agent |
-| 2026-10-10 16:01:40 | [chassis-core](https://crates.io/crates/chassis-core) | 0.7.0 | 0 | The core of Chassis, an embedded vector index for local semantic search. |
-| 2026-10-10 16:04:34 | [zixcel-local-inference](https://crates.io/crates/zixcel-local-inference) | 0.10.1 | 0 | Local model catalog, acquisition contract, and verified artifact placement for… |
-| 2026-10-10 16:05:04 | [hatter-owner-runtime](https://crates.io/crates/hatter-owner-runtime) | 0.10.0 | 0 | Hatter exact process incarnation, handshake and availability policy |
-| 2026-10-10 16:09:32 | [opys-bundle](https://crates.io/crates/opys-bundle) | 0.3.0 | 0 | The opys bundle: a manifest and the blobs it names, as one zip. |
-| 2026-10-10 16:09:49 | [opys-dev](https://crates.io/crates/opys-dev) | 0.3.0 | 0 | opys build-time SDK. Merges plugin contributions into a Manifest. |
-| 2026-10-10 16:09:52 | [opys-authliberty](https://crates.io/crates/opys-authliberty) | 0.3.0 | 0 | AuthLiberty for opys — a -javaagent that points Minecraft's auth hosts elsewher… |
-| 2026-10-10 16:09:59 | [opys-bifrost](https://crates.io/crates/opys-bifrost) | 0.3.0 | 0 | Mint a Bifrost-compatible Ed25519 JWT for opys — launch against a self-hosted Y… |
-| 2026-10-10 16:10:02 | [opys-mojang](https://crates.io/crates/opys-mojang) | 0.3.0 | 0 | Mojang protocol parsers (version JSON, libraries, assets, maven). Pure — no I/O. |
-| 2026-10-10 16:10:38 | [tlg-rs-slide](https://crates.io/crates/tlg-rs-slide) | 1.0.0 | 0 | Internal crate for tlg-rs, do not use directly |
-| 2026-10-10 16:10:49 | [tlg-rs-cli](https://crates.io/crates/tlg-rs-cli) | 1.0.0 | 0 | Command-line tool for converting KrKr2 TLG images to and from common formats |
-| 2026-10-10 16:14:20 | [cargogc](https://crates.io/crates/cargogc) | 0.1.0 | 0 | Reclaim the cargo build caches cargo will never read again, with inode-honest a… |
-| 2026-10-10 16:19:04 | [opys-minecraft-vanilla](https://crates.io/crates/opys-minecraft-vanilla) | 0.3.0 | 0 | Vanilla Minecraft as manifest artifacts, plus the version-JSON mappers every op… |
+| 2026-10-10 16:22:14 | [ironpki](https://crates.io/crates/ironpki) | 0.1.0 | 0 | X.509 path validation, CRLs, OCSP responses and issuance in pure Rust over Iron… |
+| 2026-10-10 16:23:13 | [aakash-sms](https://crates.io/crates/aakash-sms) | 0.1.2 | 0 | Client for Aakash SMS (Nepal): send to one or many numbers, check remaining cre… |
+| 2026-10-10 16:27:44 | [hidane-proto](https://crates.io/crates/hidane-proto) | 0.1.0 | 0 | Generated protobuf / gRPC types for hidane (google.firestore.v1 and dependencie… |
+| 2026-10-10 16:27:52 | [hidane-core](https://crates.io/crates/hidane-core) | 0.1.0 | 0 | Firestore data model for hidane: value ordering and order-preserving key encodi… |
+| 2026-10-10 16:29:07 | [opys-cleanroom](https://crates.io/crates/opys-cleanroom) | 0.3.0 | 0 | Cleanroom loader for opys — resolves a published version document onto the vani… |
+| 2026-10-10 16:30:48 | [hi_doc-random_color](https://crates.io/crates/hi_doc-random_color) | 2.0.0 | 0 | Rust crate for generating random attractive colors |
+| 2026-10-10 16:31:11 | [yaffle](https://crates.io/crates/yaffle) | 0.0.1 | 0 | yaffle: the runtime for Rust code generated by the yaffle binary-format compiler |
+| 2026-10-10 16:35:28 | [ardelia](https://crates.io/crates/ardelia) | 0.0.0 | 0 | . |
+| 2026-10-10 16:35:56 | [xaihi](https://crates.io/crates/xaihi) | 0.0.0 | 0 | . |
+| 2026-10-10 16:36:00 | [mcopti](https://crates.io/crates/mcopti) | 0.1.1 | 0 | Fast Monte Carlo option strategy simulator with implied vol surfaces |
+| 2026-10-10 16:36:10 | [agent-2pc](https://crates.io/crates/agent-2pc) | 1.0.0 | 0 | Heterogeneous Two-Phase Commit (2PC) & Compensating Journaling Engine for AI Ag… |
+| 2026-10-10 16:36:14 | [avywenna](https://crates.io/crates/avywenna) | 0.0.0 | 0 | . |
+| 2026-10-10 16:36:53 | [ckx-sdk](https://crates.io/crates/ckx-sdk) | 0.7.0-dev.1 | 0 | Write ck-exec hubs, spokes and mods for Crowded Kingdoms in Rust, compiled to w… |
+| 2026-10-10 16:37:02 | [crowdy-client-sdk](https://crates.io/crates/crowdy-client-sdk) | 0.1.0-dev.1 | 0 | Guest SDK for the CLIENT half of a ck-exec mod: browser WASM (ck ABI v0 + the c… |
+| 2026-10-10 16:37:12 | [jelven-rustdx-cli](https://crates.io/crates/jelven-rustdx-cli) | 1.8.1 | 0 | A 股数据获取命令行工具：通达信 day 文件、东方财富收盘快照、ClickHouse 写入 |
+| 2026-10-10 16:39:10 | [opys-modpack](https://crates.io/crates/opys-modpack) | 0.3.0 | 0 | What opys's modpack resolvers share — the loader a pack asks for, and reading t… |
+| 2026-10-10 16:41:03 | [rbus-macros](https://crates.io/crates/rbus-macros) | 0.0.1 | 0 | Procedural macros for rbus: name!, #[derive(Model)], #[derive(Row)], #[rbus::pr… |
+| 2026-10-10 16:41:04 | [rbus-wire](https://crates.io/crates/rbus-wire) | 0.0.1 | 0 | RBUS (rtrouted) wire protocol codecs: framing, msgpack payloads, value records.… |
+| 2026-10-10 16:41:05 | [rbus](https://crates.io/crates/rbus) | 0.0.1 | 0 | Async, unsafe-free Rust client and provider for RDK's RBUS, speaking the rtrout… |
+| 2026-10-10 16:42:37 | [iced-markdown-editor](https://crates.io/crates/iced-markdown-editor) | 0.2.6 | 0 | A Word-style WYSIWYG CommonMark editor widget for Iced |
+| 2026-10-10 16:43:29 | [ros-madair-compile](https://crates.io/crates/ros-madair-compile) | 0.1.0-alpha.19 | 0 | The pure Query IR → DuckDB SQL lowering (no libduckdb): compile_expr over the t… |
+| 2026-10-10 16:43:39 | [balise](https://crates.io/crates/balise) | 0.0.0 | 0 | Rust web framework designed for AI coding agents (placeholder, not usable yet) |
+| 2026-10-10 16:43:44 | [balise-core](https://crates.io/crates/balise-core) | 0.0.0 | 0 | Routing, extractors, errors, logs and configuration for Balise (placeholder, no… |
+| 2026-10-10 16:43:48 | [balise-engine](https://crates.io/crates/balise-engine) | 0.0.0 | 0 | HTTP engine wrapper for Balise (placeholder, not usable yet) |
+| 2026-10-10 16:43:52 | [balise-realtime](https://crates.io/crates/balise-realtime) | 0.0.0 | 0 | WebSocket, SSE and pub/sub for Balise (placeholder, not usable yet) |
+| 2026-10-10 16:43:56 | [balise-ts](https://crates.io/crates/balise-ts) | 0.0.0 | 0 | TypeScript type generation for Balise (placeholder, not usable yet) |
+| 2026-10-10 16:48:54 | [ristari](https://crates.io/crates/ristari) | 0.1.0 | 0 | A Rust string output helper library |
+| 2026-10-10 16:49:14 | [opys-curseforge](https://crates.io/crates/opys-curseforge) | 0.3.0 | 0 | CurseForge for opys — mod files by file id, and modpack archives. |
+| 2026-10-10 16:49:19 | [openraft-rt-sim](https://crates.io/crates/openraft-rt-sim) | 0.10.0-alpha.37 | 0 | Deterministic simulated AsyncRuntime for testing Openraft |
+| 2026-10-10 16:50:02 | [lysosome-core](https://crates.io/crates/lysosome-core) | 0.3.0 | 0 | Discovery, analysis, sizing and classification engine for lysosome |
+| 2026-10-10 16:50:15 | [lysosome](https://crates.io/crates/lysosome) | 0.3.0 | 0 | Find and safely reclaim the disk your dev tools and coding agents leave behind |
+| 2026-10-10 16:50:20 | [umber-core](https://crates.io/crates/umber-core) | 0.0.1 | 0 | Rendering core of umber, a plotting library written in Rust. |
+| 2026-10-10 16:54:02 | [balise-orm](https://crates.io/crates/balise-orm) | 0.0.0 | 0 | ORM for Balise (placeholder, not usable yet) |
+| 2026-10-10 16:57:00 | [virial-reference](https://crates.io/crates/virial-reference) | 0.1.0 | 0 | CPU reference solvers for Virial, in f64 (and f32 for comparison) |
+| 2026-10-10 16:57:02 | [virial-render](https://crates.io/crates/virial-render) | 0.1.0 | 0 | Drawing for Virial: particles as glowing sprites or shaded spheres, colour maps… |
+| 2026-10-10 16:57:09 | [virial-precision](https://crates.io/crates/virial-precision) | 0.1.0 | 0 | Fixed-point accumulation and double-float maths for WGSL, with Rust mirrors |
+| 2026-10-10 16:57:13 | [virial-particles](https://crates.io/crates/virial-particles) | 0.1.0 | 0 | GPU particle dynamics for Virial: all-pairs gravity, velocity Verlet, energy pr… |
+| 2026-10-10 16:57:39 | [decision-macros](https://crates.io/crates/decision-macros) | 0.4.0 | 0 | Derive macros for decision-rs: #[derive(Decision, ChoiceOptions, ScoreLevels)] |
+| 2026-10-10 16:57:41 | [decision-rs](https://crates.io/crates/decision-rs) | 0.4.0 | 0 | Provider-neutral typed decisions for OpenAI, OpenRouter and TypeSafe. |
+| 2026-10-10 16:58:26 | [flowlens](https://crates.io/crates/flowlens) | 0.1.0 | 0 | See how your Rust code flows without reading it: an interactive map of every fe… |
+| 2026-10-10 16:59:17 | [opys-dgpuj](https://crates.io/crates/opys-dgpuj) | 0.3.0 | 0 | dgpuj for opys — the discrete-GPU launcher, from its GitHub releases. |
+| 2026-10-10 16:59:49 | [charpente-tsgen](https://crates.io/crates/charpente-tsgen) | 0.1.0 | 0 | Contract -> TypeScript client codegen: a pure function from Contract to .ts sou… |
+| 2026-10-10 17:04:08 | [balise-auth](https://crates.io/crates/balise-auth) | 0.0.0 | 0 | Authentication for Balise (placeholder, not usable yet) |
+| 2026-10-10 17:06:56 | [local-jev](https://crates.io/crates/local-jev) | 0.4.0 | 0 | 100% Offline, Zero-Cost Drop-In Alternative to TypeSafe Jev System One Decision… |
+| 2026-10-10 17:09:20 | [opys-fabric](https://crates.io/crates/opys-fabric) | 0.3.0 | 0 | Fabric loader for opys — resolves a Fabric Meta launcher profile onto the vanil… |
+| 2026-10-10 17:10:11 | [gpui-m3](https://crates.io/crates/gpui-m3) | 0.1.0 | 0 | Material 3 Expressive components for GPUI: shape morphing, spring motion and dy… |
+| 2026-10-10 17:14:13 | [balise-dev](https://crates.io/crates/balise-dev) | 0.0.0 | 0 | Dev tooling for Balise: MCP server and instrumentation (placeholder, not usable… |
+| 2026-10-10 17:15:54 | [kekule-openff-ash](https://crates.io/crates/kekule-openff-ash) | 0.3.0 | 0 | The OpenFF Ash NAGL charge model (openff-gnn-am1bcc-1.0.0) as data for kekule-o… |
+| 2026-10-10 17:15:57 | [kekule-openff](https://crates.io/crates/kekule-openff) | 0.3.0 | 0 | SMIRNOFF parameter assignment and native NAGL inference for Kekule. |
+| 2026-10-10 17:17:09 | [add_n](https://crates.io/crates/add_n) | 0.0.3 | 0 | A crate to add n to a number ;) |
 
 ## Data source
 
