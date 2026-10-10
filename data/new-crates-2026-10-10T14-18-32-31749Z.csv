@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T13:21:39.964Z,twicecat,0.0.1,0,0,https://github.com/ga-lep/twicecat,Twicecat: a Matrix voice-chat client with push-to-talk and noise suppression (work in progress)
+2026-10-10T13:21:50.097263Z,av-toolbox-gpu,0.1.1,0,0,https://github.com/ChillFish8/av-toolbox,Accelerator selection and device management for av-toolbox.
+2026-10-10T13:21:51.173633Z,av-toolbox-models,0.1.1,0,0,https://github.com/ChillFish8/av-toolbox,"Finds, installs and prunes the weight files av-toolbox stages load."
+2026-10-10T13:21:54.485957Z,av-toolbox-cubek,0.1.1,0,0,https://github.com/ChillFish8/av-toolbox,Shared CubeCL kernels that can be used within av-toolbox video filters.
+2026-10-10T13:21:57.088002Z,av-toolbox-core,0.1.1,0,0,https://github.com/ChillFish8/av-toolbox,Core interfaces for building av-toolbox video processing pipelines.
+2026-10-10T13:21:59.501681Z,av-toolbox-graph,0.1.1,0,0,https://github.com/ChillFish8/av-toolbox,Compiles av-toolbox stage definitions into a pipeline graph.
+2026-10-10T13:24:19.56625Z,flatrate-math,0.1.0,0,0,,Benchmark math for flat-rate software subscriptions against a fully loaded senior hire.
+2026-10-10T13:28:43.705157Z,luvcs,0.0.0,0,0,https://github.com/Hihaheho/luv,luv core: object-based version control
+2026-10-10T13:28:46.269293Z,luvcs-macros,0.0.0,0,0,https://github.com/Hihaheho/luv,Attribute macros of the luvcs crates
+2026-10-10T13:28:48.325384Z,luvcs-protocol,0.0.0,0,0,https://github.com/Hihaheho/luv,Wire types between luvcs and a remote
+2026-10-10T13:28:49.848585Z,luvcs-cli,0.0.0,0,0,https://github.com/Hihaheho/luv,luv: an object-based version control CLI
+2026-10-10T13:29:26.951007Z,cost-per-decade,0.1.0,0,0,https://github.com/scrapertweeter3-prog/cost-per-decade,"Cost-per-decade math for durable goods: given a price and expected service years, computes annual cost, decade cost, and the break-even price against a cheaper alternative."
+2026-10-10T13:30:20.483492Z,artifactize-tools,0.10.0-alpha.1,0,0,https://github.com/lhj6102/artifactize,Portable scoped tools and safe file access for artifactize.
+2026-10-10T13:31:46.453857Z,av-toolbox-masks,0.1.1,0,0,https://github.com/ChillFish8/av-toolbox,Masks that select pixels in av-toolbox pipelines.
+2026-10-10T13:32:50.436808Z,lme-rs-scp,0.2.0,0,0,https://github.com/x4g4p3x/lme-rs-scp,Science Context Protocol server for lme-rs mixed-effects models
+2026-10-10T13:38:29.603207Z,padlock-lsp,0.12.0,0,0,https://github.com/gidotencate/padlock,Language server exposing padlock's struct-layout findings as LSP diagnostics/hover
+2026-10-10T13:41:12.446973Z,snubber,0.1.0,0,0,https://github.com/Ar3ss12/snubber,"Ultra-light transactional damper and RAII boundary shim: Drop-guaranteed rollback, monotonic-epoch ordering, bulkheads, circuit breaker and flight-recorder diagnostics."
+2026-10-10T13:41:47.080979Z,av-toolbox-runtime,0.1.1,0,0,https://github.com/ChillFish8/av-toolbox,The av-toolbox filter graph runtime.
+2026-10-10T13:43:31.760508Z,glrmask-artifact,0.1.1,0,0,https://github.com/IsaacBreen/glrmask,Mapped compiled-artifact and tokenizer-ID representations for GLRMask
+2026-10-10T13:44:13.322175Z,glrmask-grammar,0.1.1,0,0,https://github.com/IsaacBreen/glrmask,"Grammar representations, transformations, and text frontends for GLRMask"
+2026-10-10T13:44:49.261536Z,glrmask-glr,0.1.1,0,0,https://github.com/IsaacBreen/glrmask,GLR table construction and parser execution engine for GLRMask
+2026-10-10T13:45:03.280739Z,sigrok-rs,0.1.0,0,0,https://github.com/ncotti/sigrok-rs,sigrok Rust wrapper
+2026-10-10T13:45:16.681307Z,side-hustle-hourly,0.1.0,0,0,https://github.com/scrapertweeter3-prog/side-hustle-hourly,"True hourly rate math for side hustles: net earnings after platform cuts and costs, divided by real hours including admin, with a gig comparison."
+2026-10-10T13:45:55.1382Z,glrmask-json-schema,0.1.1,0,0,https://github.com/IsaacBreen/glrmask,JSON Schema to grammar lowering for GLRMask
+2026-10-10T13:46:23.650003Z,glrmask-dwa-merge,0.1.1,0,0,https://github.com/IsaacBreen/glrmask,Mapped weighted-DWA reconciliation and optimized union for GLRMask
+2026-10-10T13:47:08.688378Z,glrmask-parser-dwa,0.1.1,0,0,https://github.com/IsaacBreen/glrmask,Terminal-automaton and GLR-table to parser-DWA compiler for GLRMask
+2026-10-10T13:50:25.343634Z,jlens-core,0.1.0,0,0,https://github.com/thkprado/jlens,"JSONata language engine: parser, evaluator, function library and auditing"
+2026-10-10T13:50:29.626879Z,jlens-schema,0.1.0,0,0,https://github.com/thkprado/jlens,"Structural metadata inference and JSONata language service (completion, diagnostics, hover)"
+2026-10-10T13:50:37.554224Z,jlens-cli,0.1.0,0,0,https://github.com/thkprado/jlens,"Command-line interface for jlens: evaluate, check and explain JSONata expressions"
+2026-10-10T13:51:42.987585Z,av-toolbox-sources,0.1.1,0,0,https://github.com/ChillFish8/av-toolbox,Sources that bring video into av-toolbox pipelines.
+2026-10-10T13:52:39.784164Z,hpt-validator,0.1.0,0,0,https://github.com/digitalashes/hpt-validator-rs,"Validator for CMS Hospital Price Transparency machine-readable files, a port of @cmsgov/hpt-validator"
+2026-10-10T13:52:43.012557Z,refix-dictionary,0.1.0,0,0,https://github.com/refixhq/refix,FIX dictionary model and frontends for the ReFIX engine
+2026-10-10T13:52:53.935962Z,refix-codegen,0.1.0,0,0,https://github.com/refixhq/refix,Typed message code generator for the ReFIX engine
+2026-10-10T13:52:56.176643Z,hpt-validator-cli,0.1.0,0,0,https://github.com/digitalashes/hpt-validator-cli-rs,"Command-line validator for CMS Hospital Price Transparency machine-readable files, a port of @cmsgov/hpt-validator-cli"
+2026-10-10T13:53:05.343265Z,refix-cli,0.1.0,0,0,https://github.com/refixhq/refix,Command-line tools for the ReFIX engine
+2026-10-10T13:55:36.988356Z,candle-fused-nn,0.0.1,0,0,https://github.com/mi-for-the-rust-of-us/candle-fused-nn,"Name reservation for fused fp32 training layers for candle (a cuBLASLt Linear with bias and bias-gradient epilogues, a fused add + LayerNorm), forward and backward, as custom ops over stock candle. N…"
+2026-10-10T13:56:47.448602Z,glrmask-terminal-dwa,0.1.1,0,0,https://github.com/IsaacBreen/glrmask,Vocabulary and lexer to terminal-DWA compiler for GLRMask
+2026-10-10T13:58:22.830276Z,fire-number-calc,0.1.0,0,0,https://github.com/scrapertweeter3-prog/fire-number-calc,"Fire number math for early retirement: the target balance from your annual spending and withdrawal rate, the gap from where you are, the years to close it, and how much a growing budget stretches the…"
+2026-10-10T14:01:44.014261Z,av-toolbox-providers,0.1.1,0,0,https://github.com/ChillFish8/av-toolbox,Providers that supply what av-toolbox stages demand.
+2026-10-10T14:02:46.000993Z,portr-tui,0.1.0,0,0,https://github.com/AporioG/portr,"A zero-overhead, interactive TUI network socket & process auditor for Linux"
+2026-10-10T14:06:07.002296Z,fm-mcp,0.1.0,0,0,https://github.com/yrangana/fm-mcp,"MCP server that lets coding agents delegate simple, private work to the on-device model for Apple Foundation Models (macOS 27)"
+2026-10-10T14:06:16.701845Z,keri-acdc,0.1.0,0,0,https://github.com/AABelkhiria/keri-acdc,"ACDC credentials: the container, issuance and revocation events, and IPEX messages"
+2026-10-10T14:06:57.010664Z,globbook-auth,1.1.0,0,0,https://github.com/nibub-labs/globbook-auth-rust,Official Rust SDK for Sign in with Globbook (OAuth 2.0)
+2026-10-10T14:10:09.131156Z,varyk-mongo,0.1.0,0,0,https://github.com/Varyk-Lang/varyk-mongo,"The MongoDB package for Varyk, a language for backend services that compiles to Rust: typed documents, query text with values beside it, aggregation, indexes, and transactions over the official mongo…"
+2026-10-10T14:10:22.937395Z,ai-serving-cost,0.1.0,0,0,https://github.com/scrapertweeter3-prog/ai-serving-cost,"Serving cost math for AI workloads: per-token dollar cost with cache discounts, request cost from token counts, and what the cached share of traffic saves at current volume."
+2026-10-10T14:12:02.153421Z,av-toolbox-filters,0.1.1,0,0,https://github.com/ChillFish8/av-toolbox,Filters that change the frames of av-toolbox pipelines.
