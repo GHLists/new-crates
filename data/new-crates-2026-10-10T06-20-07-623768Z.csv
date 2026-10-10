@@ -1,0 +1,13 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T05:21:23.359377Z,lognorm,0.1.0,0,0,https://github.com/alienplatform/lognorm,Automatic structured log normalization with preserved application fields
+2026-10-10T05:33:56.539778Z,kerosene-core,0.1.4,0,0,https://git.celery.eu.org/lamprey/lamprey,yet another chat thing?
+2026-10-10T05:46:24.264364Z,renrs,0.1.0,0,0,https://github.com/mevanlc/renrs,Rename filesystem entries in place without overwriting existing destinations
+2026-10-10T05:50:52.199828Z,bombay-validated-struct-macros,2.2.0,0,0,https://github.com/devrandom-labs/bombay-zenoh,Macros for validated_struct
+2026-10-10T05:50:52.977777Z,bombay-zenoh-link-commons,1.10.1,0,0,https://github.com/devrandom-labs/bombay-zenoh,Internal crate for zenoh.
+2026-10-10T05:50:53.760977Z,bombay-validated-struct,2.2.0,0,0,https://github.com/devrandom-labs/bombay-zenoh,Easily generate nested structures with getters and predicated setters
+2026-10-10T05:50:55.447328Z,bombay-zenoh-config,1.10.1,0,0,https://github.com/devrandom-labs/bombay-zenoh,Internal crate for zenoh.
+2026-10-10T05:50:57.240818Z,bombay-zenoh-link-tls,1.10.1,0,0,https://github.com/devrandom-labs/bombay-zenoh,Internal crate for zenoh.
+2026-10-10T06:01:03.498041Z,zixcel-contracts,0.10.0,0,0,https://github.com/zixcel/zixcel-contracts,Versioned wire contracts for independent Zixcel connectors
+2026-10-10T06:07:57.224943Z,bip138-ll,0.1.0,0,0,https://github.com/pythcoiner/bip138,Dependency-free BIP138 wire format and crypto orchestration
+2026-10-10T06:11:47.172783Z,herdr-relay,0.1.1,0,0,https://github.com/hackerchai/herdr-relay,An authenticated relay for native Herdr clients
+2026-10-10T06:16:23.775325Z,konomanoasa-tree-sitter-gsed,0.1.0,0,0,https://github.com/konomanoasa/tree-sitter-gsed,Tree-sitter grammars for GNU sed 4.10.

@@ -8,34 +8,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 05:20 UTC
+## Latest list — 2026-10-10 06:20 UTC
 
-New crates published between 2026-10-10 04:19 UTC and 2026-10-10 05:20 UTC.
+New crates published between 2026-10-10 05:20 UTC and 2026-10-10 06:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-10T05-20-14-34143Z.csv)
+[Full CSV](data/new-crates-2026-10-10T06-20-07-623768Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-10 04:20:07 | [agapao](https://crates.io/crates/agapao) | 0.0.1 | 0 | Reserved for the Agapao project (https://agapao.network); the real crate is pub… |
-| 2026-10-10 04:20:12 | [agape-light](https://crates.io/crates/agape-light) | 0.0.1 | 0 | Reserved for the Agapao project (https://agapao.network); the real crate is pub… |
-| 2026-10-10 04:20:17 | [agape-types](https://crates.io/crates/agape-types) | 0.0.1 | 0 | Reserved for the Agapao project (https://agapao.network); the real crate is pub… |
-| 2026-10-10 04:20:22 | [agape-schema](https://crates.io/crates/agape-schema) | 0.0.1 | 0 | Reserved for the Agapao project (https://agapao.network); the real crate is pub… |
-| 2026-10-10 04:20:27 | [agape-connect](https://crates.io/crates/agape-connect) | 0.0.1 | 0 | Reserved for the Agapao project (https://agapao.network); the real crate is pub… |
-| 2026-10-10 04:35:15 | [mdgl](https://crates.io/crates/mdgl) | 0.2.0 | 0 | MarkdownGL 0.0.1 subset checker (input/line/actor/action limits and scene heade… |
-| 2026-10-10 04:36:00 | [kula](https://crates.io/crates/kula) | 0.3.0 | 0 | Git, with a map. A local-first git client that turns your repository into a liv… |
-| 2026-10-10 04:40:47 | [ondewo-csi-client](https://crates.io/crates/ondewo-csi-client) | 5.5.1 | 0 | ONDEWO CSI (Conversational Speech Interface) gRPC client library, generated fro… |
-| 2026-10-10 04:46:47 | [mlirformat-macros](https://crates.io/crates/mlirformat-macros) | 0.1.0 | 0 | Proc macros for mlirformat: #[mlir::op], #[mlir::dialect] |
-| 2026-10-10 04:46:55 | [mlirformat](https://crates.io/crates/mlirformat) | 0.1.0 | 0 | MLIR text <-> IR <-> typed Rust ops: parser, printer, serde-based #[mlir::op] a… |
-| 2026-10-10 04:47:11 | [bwk-error](https://crates.io/crates/bwk-error) | 0.1.0 | 0 | Derive for error types, covering the subset of thiserror bwk uses |
-| 2026-10-10 04:48:10 | [bwk-hwi](https://crates.io/crates/bwk-hwi) | 0.1.0 | 0 | Hardware wallet interface |
-| 2026-10-10 04:48:57 | [bwk-hwi-cli](https://crates.io/crates/bwk-hwi-cli) | 0.1.0 | 0 | HWI CLI |
-| 2026-10-10 04:49:10 | [glowdots](https://crates.io/crates/glowdots) | 0.1.0 | 0 | A 1990s pinball dot matrix display (DMD) engine: plasma dots, glow, bloom, scen… |
-| 2026-10-10 04:49:12 | [glowdots-scenes](https://crates.io/crates/glowdots-scenes) | 0.1.0 | 0 | Example scenes for glowdots: a pinball clock, a demoscene tribute, weather, a s… |
-| 2026-10-10 04:58:45 | [askinput](https://crates.io/crates/askinput) | 0.1.0 | 0 | Paranoid typed input from stdin for interactive Rust CLI programs |
-| 2026-10-10 04:59:38 | [cargo-xc](https://crates.io/crates/cargo-xc) | 0.1.0 | 0 | Build Rust for x86-64 and ARM64 GNU/Linux from an ARM64 host |
-| 2026-10-10 05:00:28 | [paintcore](https://crates.io/crates/paintcore) | 0.0.29 | 0 | Pure Rust raster image drawing, compositing, filtering, and transformation libr… |
-| 2026-10-10 05:17:51 | [linked-ql-macros](https://crates.io/crates/linked-ql-macros) | 0.1.0 | 0 | Procedural macros for the linked-ql |
-| 2026-10-10 05:19:44 | [linked-ql](https://crates.io/crates/linked-ql) | 0.1.0 | 0 | Robust, zero-cost and flexable ORM. Written in idomatic Rust. |
+| 2026-10-10 05:21:23 | [lognorm](https://crates.io/crates/lognorm) | 0.1.0 | 0 | Automatic structured log normalization with preserved application fields |
+| 2026-10-10 05:33:56 | [kerosene-core](https://crates.io/crates/kerosene-core) | 0.1.4 | 0 | yet another chat thing? |
+| 2026-10-10 05:46:24 | [renrs](https://crates.io/crates/renrs) | 0.1.0 | 0 | Rename filesystem entries in place without overwriting existing destinations |
+| 2026-10-10 05:50:52 | [bombay-validated-struct-macros](https://crates.io/crates/bombay-validated-struct-macros) | 2.2.0 | 0 | Macros for validated_struct |
+| 2026-10-10 05:50:52 | [bombay-zenoh-link-commons](https://crates.io/crates/bombay-zenoh-link-commons) | 1.10.1 | 0 | Internal crate for zenoh. |
+| 2026-10-10 05:50:53 | [bombay-validated-struct](https://crates.io/crates/bombay-validated-struct) | 2.2.0 | 0 | Easily generate nested structures with getters and predicated setters |
+| 2026-10-10 05:50:55 | [bombay-zenoh-config](https://crates.io/crates/bombay-zenoh-config) | 1.10.1 | 0 | Internal crate for zenoh. |
+| 2026-10-10 05:50:57 | [bombay-zenoh-link-tls](https://crates.io/crates/bombay-zenoh-link-tls) | 1.10.1 | 0 | Internal crate for zenoh. |
+| 2026-10-10 06:01:03 | [zixcel-contracts](https://crates.io/crates/zixcel-contracts) | 0.10.0 | 0 | Versioned wire contracts for independent Zixcel connectors |
+| 2026-10-10 06:07:57 | [bip138-ll](https://crates.io/crates/bip138-ll) | 0.1.0 | 0 | Dependency-free BIP138 wire format and crypto orchestration |
+| 2026-10-10 06:11:47 | [herdr-relay](https://crates.io/crates/herdr-relay) | 0.1.1 | 0 | An authenticated relay for native Herdr clients |
+| 2026-10-10 06:16:23 | [konomanoasa-tree-sitter-gsed](https://crates.io/crates/konomanoasa-tree-sitter-gsed) | 0.1.0 | 0 | Tree-sitter grammars for GNU sed 4.10. |
 
 ## Data source
 
