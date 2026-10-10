@@ -8,60 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 14:18 UTC
+## Latest list — 2026-10-10 15:18 UTC
 
-New crates published between 2026-10-10 13:18 UTC and 2026-10-10 14:18 UTC.
+New crates published between 2026-10-10 14:18 UTC and 2026-10-10 15:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-10T14-18-32-31749Z.csv)
+[Full CSV](data/new-crates-2026-10-10T15-18-32-193235Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-10 13:21:39 | [twicecat](https://crates.io/crates/twicecat) | 0.0.1 | 0 | Twicecat: a Matrix voice-chat client with push-to-talk and noise suppression (w… |
-| 2026-10-10 13:21:50 | [av-toolbox-gpu](https://crates.io/crates/av-toolbox-gpu) | 0.1.1 | 0 | Accelerator selection and device management for av-toolbox. |
-| 2026-10-10 13:21:51 | [av-toolbox-models](https://crates.io/crates/av-toolbox-models) | 0.1.1 | 0 | Finds, installs and prunes the weight files av-toolbox stages load. |
-| 2026-10-10 13:21:54 | [av-toolbox-cubek](https://crates.io/crates/av-toolbox-cubek) | 0.1.1 | 0 | Shared CubeCL kernels that can be used within av-toolbox video filters. |
-| 2026-10-10 13:21:57 | [av-toolbox-core](https://crates.io/crates/av-toolbox-core) | 0.1.1 | 0 | Core interfaces for building av-toolbox video processing pipelines. |
-| 2026-10-10 13:21:59 | [av-toolbox-graph](https://crates.io/crates/av-toolbox-graph) | 0.1.1 | 0 | Compiles av-toolbox stage definitions into a pipeline graph. |
-| 2026-10-10 13:24:19 | [flatrate-math](https://crates.io/crates/flatrate-math) | 0.1.0 | 0 | Benchmark math for flat-rate software subscriptions against a fully loaded seni… |
-| 2026-10-10 13:28:43 | [luvcs](https://crates.io/crates/luvcs) | 0.0.0 | 0 | luv core: object-based version control |
-| 2026-10-10 13:28:46 | [luvcs-macros](https://crates.io/crates/luvcs-macros) | 0.0.0 | 0 | Attribute macros of the luvcs crates |
-| 2026-10-10 13:28:48 | [luvcs-protocol](https://crates.io/crates/luvcs-protocol) | 0.0.0 | 0 | Wire types between luvcs and a remote |
-| 2026-10-10 13:28:49 | [luvcs-cli](https://crates.io/crates/luvcs-cli) | 0.0.0 | 0 | luv: an object-based version control CLI |
-| 2026-10-10 13:29:26 | [cost-per-decade](https://crates.io/crates/cost-per-decade) | 0.1.0 | 0 | Cost-per-decade math for durable goods: given a price and expected service year… |
-| 2026-10-10 13:30:20 | [artifactize-tools](https://crates.io/crates/artifactize-tools) | 0.10.0-alpha.1 | 0 | Portable scoped tools and safe file access for artifactize. |
-| 2026-10-10 13:31:46 | [av-toolbox-masks](https://crates.io/crates/av-toolbox-masks) | 0.1.1 | 0 | Masks that select pixels in av-toolbox pipelines. |
-| 2026-10-10 13:32:50 | [lme-rs-scp](https://crates.io/crates/lme-rs-scp) | 0.2.0 | 0 | Science Context Protocol server for lme-rs mixed-effects models |
-| 2026-10-10 13:38:29 | [padlock-lsp](https://crates.io/crates/padlock-lsp) | 0.12.0 | 0 | Language server exposing padlock's struct-layout findings as LSP diagnostics/ho… |
-| 2026-10-10 13:41:12 | [snubber](https://crates.io/crates/snubber) | 0.1.0 | 0 | Ultra-light transactional damper and RAII boundary shim: Drop-guaranteed rollba… |
-| 2026-10-10 13:41:47 | [av-toolbox-runtime](https://crates.io/crates/av-toolbox-runtime) | 0.1.1 | 0 | The av-toolbox filter graph runtime. |
-| 2026-10-10 13:43:31 | [glrmask-artifact](https://crates.io/crates/glrmask-artifact) | 0.1.1 | 0 | Mapped compiled-artifact and tokenizer-ID representations for GLRMask |
-| 2026-10-10 13:44:13 | [glrmask-grammar](https://crates.io/crates/glrmask-grammar) | 0.1.1 | 0 | Grammar representations, transformations, and text frontends for GLRMask |
-| 2026-10-10 13:44:49 | [glrmask-glr](https://crates.io/crates/glrmask-glr) | 0.1.1 | 0 | GLR table construction and parser execution engine for GLRMask |
-| 2026-10-10 13:45:03 | [sigrok-rs](https://crates.io/crates/sigrok-rs) | 0.1.0 | 0 | sigrok Rust wrapper |
-| 2026-10-10 13:45:16 | [side-hustle-hourly](https://crates.io/crates/side-hustle-hourly) | 0.1.0 | 0 | True hourly rate math for side hustles: net earnings after platform cuts and co… |
-| 2026-10-10 13:45:55 | [glrmask-json-schema](https://crates.io/crates/glrmask-json-schema) | 0.1.1 | 0 | JSON Schema to grammar lowering for GLRMask |
-| 2026-10-10 13:46:23 | [glrmask-dwa-merge](https://crates.io/crates/glrmask-dwa-merge) | 0.1.1 | 0 | Mapped weighted-DWA reconciliation and optimized union for GLRMask |
-| 2026-10-10 13:47:08 | [glrmask-parser-dwa](https://crates.io/crates/glrmask-parser-dwa) | 0.1.1 | 0 | Terminal-automaton and GLR-table to parser-DWA compiler for GLRMask |
-| 2026-10-10 13:50:25 | [jlens-core](https://crates.io/crates/jlens-core) | 0.1.0 | 0 | JSONata language engine: parser, evaluator, function library and auditing |
-| 2026-10-10 13:50:29 | [jlens-schema](https://crates.io/crates/jlens-schema) | 0.1.0 | 0 | Structural metadata inference and JSONata language service (completion, diagnos… |
-| 2026-10-10 13:50:37 | [jlens-cli](https://crates.io/crates/jlens-cli) | 0.1.0 | 0 | Command-line interface for jlens: evaluate, check and explain JSONata expressio… |
-| 2026-10-10 13:51:42 | [av-toolbox-sources](https://crates.io/crates/av-toolbox-sources) | 0.1.1 | 0 | Sources that bring video into av-toolbox pipelines. |
-| 2026-10-10 13:52:39 | [hpt-validator](https://crates.io/crates/hpt-validator) | 0.1.0 | 0 | Validator for CMS Hospital Price Transparency machine-readable files, a port of… |
-| 2026-10-10 13:52:43 | [refix-dictionary](https://crates.io/crates/refix-dictionary) | 0.1.0 | 0 | FIX dictionary model and frontends for the ReFIX engine |
-| 2026-10-10 13:52:53 | [refix-codegen](https://crates.io/crates/refix-codegen) | 0.1.0 | 0 | Typed message code generator for the ReFIX engine |
-| 2026-10-10 13:52:56 | [hpt-validator-cli](https://crates.io/crates/hpt-validator-cli) | 0.1.0 | 0 | Command-line validator for CMS Hospital Price Transparency machine-readable fil… |
-| 2026-10-10 13:53:05 | [refix-cli](https://crates.io/crates/refix-cli) | 0.1.0 | 0 | Command-line tools for the ReFIX engine |
-| 2026-10-10 13:55:36 | [candle-fused-nn](https://crates.io/crates/candle-fused-nn) | 0.0.1 | 0 | Name reservation for fused fp32 training layers for candle (a cuBLASLt Linear w… |
-| 2026-10-10 13:56:47 | [glrmask-terminal-dwa](https://crates.io/crates/glrmask-terminal-dwa) | 0.1.1 | 0 | Vocabulary and lexer to terminal-DWA compiler for GLRMask |
-| 2026-10-10 13:58:22 | [fire-number-calc](https://crates.io/crates/fire-number-calc) | 0.1.0 | 0 | Fire number math for early retirement: the target balance from your annual spen… |
-| 2026-10-10 14:01:44 | [av-toolbox-providers](https://crates.io/crates/av-toolbox-providers) | 0.1.1 | 0 | Providers that supply what av-toolbox stages demand. |
-| 2026-10-10 14:02:46 | [portr-tui](https://crates.io/crates/portr-tui) | 0.1.0 | 0 | A zero-overhead, interactive TUI network socket & process auditor for Linux |
-| 2026-10-10 14:06:07 | [fm-mcp](https://crates.io/crates/fm-mcp) | 0.1.0 | 0 | MCP server that lets coding agents delegate simple, private work to the on-devi… |
-| 2026-10-10 14:06:16 | [keri-acdc](https://crates.io/crates/keri-acdc) | 0.1.0 | 0 | ACDC credentials: the container, issuance and revocation events, and IPEX messa… |
-| 2026-10-10 14:06:57 | [globbook-auth](https://crates.io/crates/globbook-auth) | 1.1.0 | 0 | Official Rust SDK for Sign in with Globbook (OAuth 2.0) |
-| 2026-10-10 14:10:09 | [varyk-mongo](https://crates.io/crates/varyk-mongo) | 0.1.0 | 0 | The MongoDB package for Varyk, a language for backend services that compiles to… |
-| 2026-10-10 14:10:22 | [ai-serving-cost](https://crates.io/crates/ai-serving-cost) | 0.1.0 | 0 | Serving cost math for AI workloads: per-token dollar cost with cache discounts,… |
-| 2026-10-10 14:12:02 | [av-toolbox-filters](https://crates.io/crates/av-toolbox-filters) | 0.1.1 | 0 | Filters that change the frames of av-toolbox pipelines. |
+| 2026-10-10 14:21:58 | [av-toolbox-sinks](https://crates.io/crates/av-toolbox-sinks) | 0.1.1 | 0 | Sinks that write the finished stream and its artefacts out of av-toolbox pipeli… |
+| 2026-10-10 14:26:32 | [sauna-vs-gym-cost](https://crates.io/crates/sauna-vs-gym-cost) | 0.1.0 | 0 | Cost-per-session math for home recovery gear: amortized cost of a sauna or cold… |
+| 2026-10-10 14:30:12 | [orchestrate](https://crates.io/crates/orchestrate) | 0.1.0 | 0 | Run a spec's tickets through Claude Code sessions and merge the results |
+| 2026-10-10 14:31:38 | [av-toolbox-pipeline](https://crates.io/crates/av-toolbox-pipeline) | 0.1.1 | 0 | Builds and runs av-toolbox pipelines. |
+| 2026-10-10 14:34:32 | [sewlore-sewing-math](https://crates.io/crates/sewlore-sewing-math) | 0.1.0 | 0 | Typed sewing measurement arithmetic and an offline JSON CLI for stretch, recove… |
+| 2026-10-10 14:38:33 | [stable_intr](https://crates.io/crates/stable_intr) | 0.1.0 | 0 | Stable reimplementations of nightly-only core::intrinsics |
+| 2026-10-10 14:39:44 | [hopf-nntp](https://crates.io/crates/hopf-nntp) | 0.5.0 | 0 | NNTP / NNTPS async client for Hopf (RFC 3977, 4642, 4643) |
+| 2026-10-10 14:41:30 | [av-toolbox](https://crates.io/crates/av-toolbox) | 0.1.1 | 0 | A command line tool for building and running GPU video processing pipelines. |
+| 2026-10-10 14:42:57 | [app-context-derive](https://crates.io/crates/app-context-derive) | 0.1.0 | 0 | Derive explicit typed sub-state extraction for app-context |
+| 2026-10-10 14:43:49 | [comux-core](https://crates.io/crates/comux-core) | 0.1.0 | 0 | Shared configuration, management API types, and runtime state for comux |
+| 2026-10-10 14:43:51 | [comux](https://crates.io/crates/comux) | 0.1.0 | 0 | CLI and terminal dashboard for switching Codex API upstreams through comux-proxy |
+| 2026-10-10 14:43:52 | [comux-proxy](https://crates.io/crates/comux-proxy) | 0.1.0 | 0 | Local Codex API proxy with authenticated upstream switching and management |
+| 2026-10-10 14:45:48 | [app-context](https://crates.io/crates/app-context) | 0.1.0 | 0 | Immutable, typed, Arc-backed application state with explicit extraction and sco… |
+| 2026-10-10 14:48:27 | [oan-credentials](https://crates.io/crates/oan-credentials) | 1.1.1 | 0 | Credential models and helpers for OAN. |
+| 2026-10-10 14:59:49 | [crowsi-process-adapter](https://crates.io/crates/crowsi-process-adapter) | 0.10.0 | 0 | Physical process ownership through exact processkit; no domain policy or identi… |
+| 2026-10-10 14:59:52 | [crowsi-telemetry-contracts](https://crates.io/crates/crowsi-telemetry-contracts) | 0.10.0 | 0 | Transport-neutral telemetry contracts and producer port for Crowsi ecosystems |
+| 2026-10-10 14:59:55 | [ihat-identity-runtime](https://crates.io/crates/ihat-identity-runtime) | 0.1.0 | 0 | Durable owner-local identity authority runtime |
+| 2026-10-10 14:59:59 | [zixcel-version-control](https://crates.io/crates/zixcel-version-control) | 0.10.0 | 0 | Provider-neutral version-control observations and a bounded local Git adapter |
+| 2026-10-10 15:00:13 | [ikigai-script](https://crates.io/crates/ikigai-script) | 0.1.0 | 0 | Scripts (Lisp; SPARQL queries with typed parameters and authority derived from… |
+| 2026-10-10 15:05:18 | [zixcel-owner-recovery](https://crates.io/crates/zixcel-owner-recovery) | 0.10.0 | 0 | Secret-free owner recovery and move ceremony for Zixcel |
+| 2026-10-10 15:12:49 | [dptree-fork](https://crates.io/crates/dptree-fork) | 0.6.0 | 0 | An asynchronous event dispatch mechanism for Rust |
+| 2026-10-10 15:13:34 | [hat-execution-evidence](https://crates.io/crates/hat-execution-evidence) | 0.10.0 | 0 | Provider-owned durable HAT execution attestation and read-only evidence lookup |
+| 2026-10-10 15:15:55 | [jelven-rustdx-complete](https://crates.io/crates/jelven-rustdx-complete) | 1.12.0 | 0 | 生产可用的 A 股行情、通达信文件解析与技术指标 Rust 库 |
+| 2026-10-10 15:16:47 | [homura](https://crates.io/crates/homura) | 0.1.0 | 0 | A PyTorch-like tensor computing framework in Rust, built on hardware vendors' o… |
+| 2026-10-10 15:16:50 | [avotide](https://crates.io/crates/avotide) | 0.0.0 | 0 | Avotide |
+| 2026-10-10 15:17:00 | [bhi260ap](https://crates.io/crates/bhi260ap) | 0.1.0 | 0 | no_std embedded-hal driver for the Bosch BHI260AP smart sensor |
+| 2026-10-10 15:17:55 | [tricks](https://crates.io/crates/tricks) | 0.8.0 | 0 | New Tricks: teach your agents new tricks. The design-time workbench for agent s… |
 
 ## Data source
 

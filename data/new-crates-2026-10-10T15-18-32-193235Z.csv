@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T14:21:58.829686Z,av-toolbox-sinks,0.1.1,0,0,https://github.com/ChillFish8/av-toolbox,Sinks that write the finished stream and its artefacts out of av-toolbox pipelines.
+2026-10-10T14:26:32.108432Z,sauna-vs-gym-cost,0.1.0,0,0,https://github.com/scrapertweeter3-prog/sauna-vs-gym-cost,"Cost-per-session math for home recovery gear: amortized cost of a sauna or cold plunge session, break-even sessions against a gym membership, and the electricity line most buyers skip."
+2026-10-10T14:30:12.326895Z,orchestrate,0.1.0,0,0,https://github.com/sanchit36/orchestrate,Run a spec's tickets through Claude Code sessions and merge the results
+2026-10-10T14:31:38.359995Z,av-toolbox-pipeline,0.1.1,0,0,https://github.com/ChillFish8/av-toolbox,Builds and runs av-toolbox pipelines.
+2026-10-10T14:34:32.352022Z,sewlore-sewing-math,0.1.0,0,0,https://github.com/gokimedia/sewlore-rust-sewing-math,"Typed sewing measurement arithmetic and an offline JSON CLI for stretch, recovery, and two-axis print scale"
+2026-10-10T14:38:33.330669Z,stable_intr,0.1.0,0,0,https://github.com/bobbothe2nd/stable_intr,Stable reimplementations of nightly-only core::intrinsics
+2026-10-10T14:39:44.004422Z,hopf-nntp,0.5.0,0,0,https://github.com/cpkb-bluezoo/hopf,"NNTP / NNTPS async client for Hopf (RFC 3977, 4642, 4643)"
+2026-10-10T14:41:30.67241Z,av-toolbox,0.1.1,0,0,https://github.com/ChillFish8/av-toolbox,A command line tool for building and running GPU video processing pipelines.
+2026-10-10T14:42:57.740848Z,app-context-derive,0.1.0,0,0,https://github.com/faizanali2k05/app-context,Derive explicit typed sub-state extraction for app-context
+2026-10-10T14:43:49.269527Z,comux-core,0.1.0,0,0,https://github.com/GeminiLab/comux,"Shared configuration, management API types, and runtime state for comux"
+2026-10-10T14:43:51.702391Z,comux,0.1.0,0,0,https://github.com/GeminiLab/comux,CLI and terminal dashboard for switching Codex API upstreams through comux-proxy
+2026-10-10T14:43:52.821289Z,comux-proxy,0.1.0,0,0,https://github.com/GeminiLab/comux,Local Codex API proxy with authenticated upstream switching and management
+2026-10-10T14:45:48.39398Z,app-context,0.1.0,0,0,https://github.com/faizanali2k05/app-context,"Immutable, typed, Arc-backed application state with explicit extraction and scoped overrides"
+2026-10-10T14:48:27.164274Z,oan-credentials,1.1.1,0,0,https://github.com/wolfbrother/oan-protocol-common,Credential models and helpers for OAN.
+2026-10-10T14:59:49.278091Z,crowsi-process-adapter,0.10.0,0,0,https://github.com/crowsi-net/crowsi-process-adapter,Physical process ownership through exact processkit; no domain policy or identity
+2026-10-10T14:59:52.523243Z,crowsi-telemetry-contracts,0.10.0,0,0,https://github.com/crowsi-net/crowsi-service-telemetry,Transport-neutral telemetry contracts and producer port for Crowsi ecosystems
+2026-10-10T14:59:55.862689Z,ihat-identity-runtime,0.1.0,0,0,https://github.com/hathq/ihat-identity-runtime,Durable owner-local identity authority runtime
+2026-10-10T14:59:59.173069Z,zixcel-version-control,0.10.0,0,0,https://github.com/zixcel/zixcel-version-control,Provider-neutral version-control observations and a bounded local Git adapter
+2026-10-10T15:00:13.986544Z,ikigai-script,0.1.0,0,0,https://github.com/ikigai-rs/ikigai-script,"Scripts (Lisp; SPARQL queries with typed parameters and authority derived from the graphs they name; or plans, validated before they are stored, with authority derived from their steps) as resources…"
+2026-10-10T15:05:18.498851Z,zixcel-owner-recovery,0.10.0,0,0,https://github.com/zixcel/zixcel-owner-recovery,Secret-free owner recovery and move ceremony for Zixcel
+2026-10-10T15:12:49.027685Z,dptree-fork,0.6.0,0,0,https://github.com/teloxide-fork/dptree,An asynchronous event dispatch mechanism for Rust
+2026-10-10T15:13:34.643916Z,hat-execution-evidence,0.10.0,0,0,https://github.com/hathq/hat-execution-evidence,Provider-owned durable HAT execution attestation and read-only evidence lookup
+2026-10-10T15:15:55.581794Z,jelven-rustdx-complete,1.12.0,0,0,https://github.com/jelven007/rustdx,生产可用的 A 股行情、通达信文件解析与技术指标 Rust 库
+2026-10-10T15:16:47.449576Z,homura,0.1.0,0,0,https://github.com/TOBYYH/homura,"A PyTorch-like tensor computing framework in Rust, built on hardware vendors' official toolchains"
+2026-10-10T15:16:50.360518Z,avotide,0.0.0,0,0,,Avotide
+2026-10-10T15:17:00.895631Z,bhi260ap,0.1.0,0,0,https://github.com/faizanali2k05/bhi260ap,no_std embedded-hal driver for the Bosch BHI260AP smart sensor
+2026-10-10T15:17:55.978356Z,tricks,0.8.0,0,0,https://github.com/new-tricks/tricks,"New Tricks: teach your agents new tricks. The design-time workbench for agent skills: federated search, customization with upstream merges, branch experiments, lint and publish."
