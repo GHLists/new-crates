@@ -1,0 +1,15 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T02:24:53.095901Z,fp-dotfiles-catalog,0.2.4,0,0,https://gitlab.com/fpsys/fp-dotfiles-manager,Shared command catalog for fp-dotfiles-manager CLI and TUI
+2026-10-10T02:26:12.463131Z,fp-konsave,0.1.0,0,0,https://gitlab.com/fpsys/fp-konsave,"Fast, minimal Rust reimplementation of Konsave for KDE Plasma"
+2026-10-10T02:36:38.623498Z,rimelabs-sdk,0.1.0-alpha.1,0,0,https://github.com/rimelabs/rime-sdk,Rime streaming text-to-speech SDK
+2026-10-10T02:38:46.944139Z,vestalib-core,1.0.2,0,0,https://github.com/foresterre/vestalib,HTTP client library for the Vestaboard Local API
+2026-10-10T02:38:48.942878Z,vestalib-cli,1.0.2,0,0,https://github.com/foresterre/vestalib,The `vestalib` CLI
+2026-10-10T02:38:51.277691Z,vestalib,1.0.2,0,0,https://github.com/foresterre/vestalib,vestalib HTTP client library (and optional CLI) for the Vestaboard Local API
+2026-10-10T02:41:36.779955Z,m4a-seam,0.2.0,0,0,https://github.com/ZENG3LD/mail4agent,"The seam between a product server and the messenger server: signed assertion v1, lifecycle event bodies and their signatures, replay cache, shared test vectors. No I/O."
+2026-10-10T02:42:00.58691Z,m4a-product-kit,0.2.0,0,0,https://github.com/ZENG3LD/mail4agent,"Building blocks of a product server in front of the messenger server: nick rules, user store trait and service, sessions, tiers, optional login doors, the signing link to the edge and the lifecycle e…"
+2026-10-10T02:42:04.454126Z,mail4agent-server,0.2.0,0,0,https://github.com/ZENG3LD/mail4agent,"Matrix-subset homeserver: protocol decisions plus the Client-Server HTTP routes. No users database, logins, registration or tariffs: identities are nick + domain; a product server vouches for callers…"
+2026-10-10T02:42:23.603833Z,m4a-edge,0.2.0,0,0,https://github.com/ZENG3LD/mail4agent,"Edge role of the mail4agent messenger: terminates client connections behind a TLS proxy, keeps only light rebuildable state, forwards to the core over a private tunnel."
+2026-10-10T02:42:39.346112Z,m4a-product-example,0.2.0,0,0,https://github.com/ZENG3LD/mail4agent,"A complete, minimal product server on m4a-product-kit: its own SQLite users, register/login/nick/logout, optional login doors, and the signing proxy to the messenger edge. Meant to be run as is or re…"
+2026-10-10T02:47:02.71458Z,libfluxa_core,0.1.1,0,0,https://github.com/teaoea/Fluxa_Core,Fluxa 跨平台自研网络内核、HTTP/HTTPS 调试、MITM 与受限 JS 引擎
+2026-10-10T03:00:12.856791Z,gv-session,0.4.0,0,0,https://github.com/zeqianli/tgv,The dataset session and SQL tables shared by TGV front ends and agents.
+2026-10-10T03:00:13.6126Z,gv-mcp,0.4.0,0,0,https://github.com/zeqianli/tgv,MCP tools over a TGV dataset session.
