@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T11:21:47.101119Z,gogo-spaces,0.1.0,0,0,https://github.com/conorbr/gogo,Open a configured workspace in your terminal multiplexer with one command
+2026-10-10T11:22:15.342189Z,shiro-rs,0.1.0-alpha.1,0,0,https://github.com/Lqm1/shiro-rs,"Speech alignment, feature extraction and HMM/HSMM training compatible with SHIRO"
+2026-10-10T11:24:04.143411Z,doctor-kit,0.1.1,0,0,https://github.com/doctor-labs/doctor-kit,"Reusable runtime for doctor CLI tools: checks, score, faces, themes, REPL, TUI"
+2026-10-10T11:24:13.599859Z,meteorite-core,0.1.1,0,0,https://github.com/pandaind/meteorite,Core library for the Meteorite static site generator
+2026-10-10T11:24:27.720678Z,meteorite,0.1.1,0,0,https://github.com/pandaind/meteorite,"A fast static site generator: Markdown content, YAML config, pluggable themes"
+2026-10-10T11:24:51.129438Z,telemetry-setup,0.1.0,0,0,https://github.com/pyrlyn/crates-packages,"tracing setup for applications: a rotating JSON log, a human stderr log and optional OTLP traces, with secrets masked before any line or span leaves the process"
+2026-10-10T11:26:33.810793Z,incular-runtime,0.1.0,0,0,https://github.com/FabortLabs/incular,Application runtime and scheduling foundations for Incular
+2026-10-10T11:28:21.253382Z,coheret,0.1.0,0,0,https://github.com/coheret/coheret,"CLI for Docker container health monitoring, cron-scheduled restarts, and auto-healing"
+2026-10-10T11:32:31.197174Z,gettext-catalog,0.1.0,0,0,https://github.com/pyrlyn/crates-packages,"gettext .po catalogs for an application's own strings: Plural-Forms rules, named placeholders, language negotiation and per-message fallback, in pure Rust"
+2026-10-10T11:34:58.356281Z,crowsi-control-contracts,0.1.0,0,0,https://github.com/vpremises/vpremises-control,Closed Zero Trust control contracts for Crowsi
+2026-10-10T11:36:10.809328Z,crowsi-local-control-bridge,0.1.0,0,0,https://github.com/vpremises/vpremises-control,Authenticated Unix IPC boundary for local Crowsi control
+2026-10-10T11:36:32.189799Z,incular-devtools,0.1.0,0,0,https://github.com/FabortLabs/incular,Target-side DevTools agent for Incular applications
+2026-10-10T11:36:56.467598Z,sqlite-change-feed,0.1.0,0,0,https://github.com/pyrlyn/crates-packages,"Change feed for a SQLite database shared between processes: PRAGMA data_version polled through Diesel, seeing other connections' commits and not your own"
+2026-10-10T11:36:57.755369Z,crowsi-authority-transport,0.1.0,0,0,https://github.com/crowsi-net/crowsi-transport-foundation,Opaque signed envelopes over bounded mutually authenticated TLS
+2026-10-10T11:37:24.719911Z,crowsi-credential-authority-contracts,0.10.0,0,0,https://github.com/vpremises/vpremises-credential,Public verification contracts for Crowsi credential custody
+2026-10-10T11:37:40.041891Z,crowsi-windows-operation-contracts,0.1.0,0,0,https://github.com/vpremises/vpremises-credential,Closed operation contracts for native Windows credential custody
+2026-10-10T11:39:38.182515Z,crowsi-windows-custody-provider,0.10.2,0,0,https://github.com/vpremises/vpremises-credential,Bounded WSL-to-Windows DPAPI CurrentUser credential custody
+2026-10-10T11:41:35.85779Z,abi-drift,0.1.0,0,0,https://github.com/pyrlyn/crates-packages,"Drift tests for generated bindings: regenerate a cbindgen header or csbindgen C# file, diff it against the committed copy, rewrite it under a bless variable"
+2026-10-10T11:46:36.923466Z,incular-material,0.1.0,0,0,https://github.com/FabortLabs/incular,Flutter Material-style controls for the Incular framework
+2026-10-10T11:46:45.306937Z,keychain-secret,0.1.0,0,0,https://github.com/pyrlyn/crates-packages,"Application secrets from an environment variable or the OS keychain, never a config file: a redacted Secret type, an in-memory store for tests and a guard against tests reaching the real keychain"
+2026-10-10T11:56:03.764457Z,e3nn,0.1.0,0,0,https://gitlab.git.nrw/uni-ms/ag-salinga/e3nn-rs,"E(3)-equivariant building blocks in pure Rust: irreps, Clebsch-Gordan coefficients, spherical harmonics and tensor-product descriptors"
+2026-10-10T11:56:15.920017Z,bevy_flora,0.1.0,0,0,https://github.com/Ladvien/bevy_flora,"Parametric, stylized procedural trees for Bevy that grow over time: 15 presets, bent and forking branches, leaf styles, deterministic per seed."
+2026-10-10T11:56:35.702551Z,incular-desktop,0.1.0,0,0,https://github.com/FabortLabs/incular,Shared desktop shell integration for Incular
+2026-10-10T11:57:23.021885Z,flintlang-sys,0.13.2,0,0,https://github.com/programmersd21/flint,Safe Rust bindings over the Flint native C ABI
+2026-10-10T11:58:33.900323Z,flintlang,0.13.2,0,0,https://github.com/programmersd21/flint,Safe Rust embedding of the Flint scripting language runtime
+2026-10-10T11:59:27.194685Z,crowsi-credential-broker,0.1.1,0,0,https://github.com/vpremises/vpremises-credential,"Fail-closed local credential references, leases, and metadata-only status contracts"
+2026-10-10T12:03:12.364503Z,req-file,0.1.0,0,0,https://github.com/nandee95/reqtk,Parser and verifier for the '.req' file format.
+2026-10-10T12:06:31.244189Z,incular-linux,0.1.0,0,0,https://github.com/FabortLabs/incular,Linux platform integration for Incular
+2026-10-10T12:09:20.509231Z,zixcel-github-egress-contracts,0.10.0,0,0,https://github.com/zixcel/zixcel-github,Bounded GitHub egress contracts and authorization validation
+2026-10-10T12:11:32.567914Z,monochromatic-lint,0.1.0,0,0,https://github.com/Aquaticat/Monochromatic.git,"Repository-owned Rust, Markdown and MDX linter."
+2026-10-10T12:16:13.962509Z,perlica,0.0.0,0,0,https://github.com/so1ve/rossi,Single-threaded reactive state for Rust (placeholder)
+2026-10-10T12:16:14.959175Z,perlica-macros,0.0.0,0,0,https://github.com/so1ve/rossi,Procedural macros for Perlica (placeholder)
+2026-10-10T12:16:15.813594Z,reactive-smithay,0.0.0,0,0,https://github.com/so1ve/rossi,Reactive Wayland protocol state for Smithay (placeholder)
+2026-10-10T12:16:31.205063Z,incular-macos,0.1.0,0,0,https://github.com/FabortLabs/incular,macOS platform integration for Incular
