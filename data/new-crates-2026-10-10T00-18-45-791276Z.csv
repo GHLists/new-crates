@@ -1,0 +1,12 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-09T23:24:07.025649Z,lopatnov-conduit-security-headers,2.0.0,0,0,https://github.com/lopatnov/conduit,Security-headers config + AllowedHosts guard for conduit's feature-driven workspace (issue #114/#136)
+2026-10-09T23:31:12.378218Z,rx_core_testing_mute_panic,0.3.0,0,0,https://github.com/AlexAegis/rx_bevy,Silence panic messages
+2026-10-09T23:34:08.615682Z,lopatnov-conduit-static,2.0.0,0,0,https://github.com/lopatnov/conduit,Static-file serving + fallback-response config and handlers for conduit's feature-driven workspace (issue #114/#139)
+2026-10-09T23:43:50.559835Z,temper-rs,0.5.0,0,0,https://github.com/Sing-Security/temper,Temper — Quantum-safe cryptographic protocol with hardened entropy and dual PQC signatures. Fully no_std for embedded.
+2026-10-09T23:44:07.29975Z,lopatnov-conduit-hotreload,2.0.0,0,0,https://github.com/lopatnov/conduit,Browser hot-reload (SSE + file watcher) config and handlers for conduit's feature-driven workspace (issue #114/#140)
+2026-10-09T23:54:08.533253Z,lopatnov-conduit-tcp,2.0.0,0,0,https://github.com/lopatnov/conduit,Raw TCP passthrough proxy config + implementation for conduit's feature-driven workspace (issue #114/#131)
+2026-10-10T00:00:08.760477Z,konomanoasa-tree-sitter-bash,0.1.0,0,0,https://github.com/konomanoasa/tree-sitter-bash,Tree-sitter grammars for Bash.
+2026-10-10T00:00:09.292939Z,kovra,0.0.1,0,0,,"Reserved name. kovra is a closed-source product of Kaeus Inc, distributed only from https://kovra.sh. This crate contains no code."
+2026-10-10T00:04:07.10468Z,lopatnov-conduit-upload,2.0.0,0,0,https://github.com/lopatnov/conduit,File-upload handler config + Axum server for conduit's feature-driven workspace (issue #114/#131)
+2026-10-10T00:07:13.665079Z,tubetui,0.0.1,0,0,https://github.com/polblancoo/tubetui,"YouTube in your terminal: tabs, embedded mpv video, multi-account profiles and a TOML config editable from the app"
+2026-10-10T00:14:08.728377Z,lopatnov-conduit-upstream,2.0.0,0,0,https://github.com/lopatnov/conduit,"Upstream selection, health tracking, and load-balancing strategies for conduit's feature-driven workspace (issue #114/#142)"
