@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T10:31:13.946022Z,trrendert,0.1.0,0,0,https://github.com/egakareta/terrarium,Shared render types and assets for Terrarium.
+2026-10-11T10:31:20.882078Z,egui-kit,0.1.0,0,0,https://github.com/mounten/egui-kit,"A SvelteKit-inspired router for egui with typed loaders, layouts, hooks, error pages and browser history."
+2026-10-11T10:34:13.291615Z,trrender,0.1.0,0,0,https://github.com/egakareta/terrarium,Shared render data types and assets for Terrarium.
+2026-10-11T10:35:02.270404Z,trscene,0.1.0,0,0,https://github.com/egakareta/terrarium,Scene graph and workspace runtime for Terrarium.
+2026-10-11T10:38:00.035299Z,diacritter-core,0.1.0,0,0,https://github.com/virtualritz/diacritter,"Core types, IPC, and diacritic tables for diacritter."
+2026-10-11T10:38:09.388396Z,diacritter,0.1.0,0,0,https://github.com/virtualritz/diacritter,"Press-and-hold diacritic popup for Linux, like macOS."
+2026-10-11T10:38:40.958666Z,ml_runner,1.1.0,0,0,https://github.com/DavidGL17/ml_runner,"A Rust crate for running machine learning models, with optional SIMD and BLAS support."
+2026-10-11T10:41:44.578218Z,litematica-preview-core,0.1.0,0,0,https://github.com/Arcadi4/LitematicaPreview,Bounded Minecraft schematic decoding and streaming mesh generation
+2026-10-11T10:44:32.11592Z,fingerprintd,0.0.1,0,0,https://github.com/WuChenDi/fingerprintd,Framework-free device-fingerprinting compute and storage traits shared by the fingerprintd server and its edge WASM engine.
+2026-10-11T10:52:48.793278Z,akg,0.5.2,0,0,https://github.com/lev73748/akg,Fast package manager for Termux
+2026-10-11T11:00:38.719191Z,sim-ci-lib,0.1.1,0,0,https://git.sr.ht/~ppentchev/sim-ci,"Parse CI manifests, prepare jobs for running in local containers"
+2026-10-11T11:00:41.66198Z,sim-ci,0.1.1,0,0,https://git.sr.ht/~ppentchev/sim-ci,Simulate a run of a CI system using local containers
+2026-10-11T11:06:02.26094Z,noad,0.0.0,0,0,https://github.com/shift-editor/shift,"Lay out MathML Core formulas from OpenType MATH data, recording why each glyph is placed"
+2026-10-11T11:06:09.711823Z,noad-build,0.0.0,0,0,https://github.com/shift-editor/shift,Build OpenType MATH tables from glyph-name-level font source data
+2026-10-11T11:13:55.017731Z,rise-core,0.2.0,0,0,https://github.com/demiralpdev/.RISE,RISE — cryptographic proof that photos and videos are real (C2PA-compatible)
+2026-10-11T11:18:46.468057Z,bevy_curve_bms_bindings,0.22.0,0,0,https://github.com/makspll/bevy_mod_scripting,Automatically generated bindings for bevy_curve crate

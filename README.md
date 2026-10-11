@@ -8,30 +8,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 10:18 UTC
+## Latest list — 2026-10-11 11:19 UTC
 
-New crates published between 2026-10-11 09:18 UTC and 2026-10-11 10:18 UTC.
+New crates published between 2026-10-11 10:18 UTC and 2026-10-11 11:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-11T10-18-51-242626Z.csv)
+[Full CSV](data/new-crates-2026-10-11T11-19-07-432055Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-11 09:29:09 | [cc-continue](https://crates.io/crates/cc-continue) | 0.1.0 | 0 | Continue a Claude Code session on another of your Claude accounts when one hits… |
-| 2026-10-11 09:30:52 | [telelog-core](https://crates.io/crates/telelog-core) | 0.3.1 | 0 | Shared log record model for Telelogs |
-| 2026-10-11 09:30:53 | [telelog-proto](https://crates.io/crates/telelog-proto) | 0.3.1 | 0 | gRPC wire types for Telelogs |
-| 2026-10-11 09:30:54 | [telelog-sources](https://crates.io/crates/telelog-sources) | 0.3.1 | 0 | Log sources (Docker, Kubernetes, VMs) for Telelogs |
-| 2026-10-11 09:30:56 | [telelog-server](https://crates.io/crates/telelog-server) | 0.3.1 | 0 | Telelogs server: collects logs and streams them to the desktop app |
-| 2026-10-11 09:30:57 | [telelogs](https://crates.io/crates/telelogs) | 0.3.1 | 0 | Telelogs desktop app: a native log viewer for Docker and Kubernetes |
-| 2026-10-11 09:31:15 | [lino-rest-api](https://crates.io/crates/lino-rest-api) | 0.2.1 | 0 | REST API framework and client using Links Notation (LINO) instead of JSON |
-| 2026-10-11 09:36:57 | [wrkfetch](https://crates.io/crates/wrkfetch) | 0.1.2 | 0 | A lightweight, custom system information fetch tool written in Rust, featuring… |
-| 2026-10-11 09:37:09 | [rushdown-math](https://crates.io/crates/rushdown-math) | 0.1.1 | 0 | Render LaTeX math in rushdown documents as KaTeX markup. |
-| 2026-10-11 09:38:21 | [k9tui](https://crates.io/crates/k9tui) | 0.1.0 | 0 | Reusable k9s-style ratatui widget kit |
-| 2026-10-11 09:39:13 | [c8s](https://crates.io/crates/c8s) | 0.1.0 | 0 | A k9s-style TUI for Docker containers |
-| 2026-10-11 09:40:20 | [tuimail](https://crates.io/crates/tuimail) | 0.1.0 | 0 | Email in your terminal: a vim-style IMAP, POP3 and SMTP client |
-| 2026-10-11 09:57:41 | [ezjww-core](https://crates.io/crates/ezjww-core) | 0.6.1 | 0 | JWW/JWC reader, JWW writer and DXF converter |
-| 2026-10-11 10:06:35 | [rpi-acp](https://crates.io/crates/rpi-acp) | 0.1.1 | 0 | Agent Client Protocol (ACP) stdio server extension for rpi — use rpi as an exte… |
-| 2026-10-11 10:16:51 | [namanfhirfold](https://crates.io/crates/namanfhirfold) | 0.1.0 | 0 | Fold the structure. Keep every detail. Task-aware FHIR R4 token compression eng… |
-| 2026-10-11 10:18:21 | [tpt-sci-units](https://crates.io/crates/tpt-sci-units) | 0.1.0 | 0 | Typed SI quantities and the physical constants shared across tpt-science |
+| 2026-10-11 10:31:13 | [trrendert](https://crates.io/crates/trrendert) | 0.1.0 | 0 | Shared render types and assets for Terrarium. |
+| 2026-10-11 10:31:20 | [egui-kit](https://crates.io/crates/egui-kit) | 0.1.0 | 0 | A SvelteKit-inspired router for egui with typed loaders, layouts, hooks, error… |
+| 2026-10-11 10:34:13 | [trrender](https://crates.io/crates/trrender) | 0.1.0 | 0 | Shared render data types and assets for Terrarium. |
+| 2026-10-11 10:35:02 | [trscene](https://crates.io/crates/trscene) | 0.1.0 | 0 | Scene graph and workspace runtime for Terrarium. |
+| 2026-10-11 10:38:00 | [diacritter-core](https://crates.io/crates/diacritter-core) | 0.1.0 | 0 | Core types, IPC, and diacritic tables for diacritter. |
+| 2026-10-11 10:38:09 | [diacritter](https://crates.io/crates/diacritter) | 0.1.0 | 0 | Press-and-hold diacritic popup for Linux, like macOS. |
+| 2026-10-11 10:38:40 | [ml_runner](https://crates.io/crates/ml_runner) | 1.1.0 | 0 | A Rust crate for running machine learning models, with optional SIMD and BLAS s… |
+| 2026-10-11 10:41:44 | [litematica-preview-core](https://crates.io/crates/litematica-preview-core) | 0.1.0 | 0 | Bounded Minecraft schematic decoding and streaming mesh generation |
+| 2026-10-11 10:44:32 | [fingerprintd](https://crates.io/crates/fingerprintd) | 0.0.1 | 0 | Framework-free device-fingerprinting compute and storage traits shared by the f… |
+| 2026-10-11 10:52:48 | [akg](https://crates.io/crates/akg) | 0.5.2 | 0 | Fast package manager for Termux |
+| 2026-10-11 11:00:38 | [sim-ci-lib](https://crates.io/crates/sim-ci-lib) | 0.1.1 | 0 | Parse CI manifests, prepare jobs for running in local containers |
+| 2026-10-11 11:00:41 | [sim-ci](https://crates.io/crates/sim-ci) | 0.1.1 | 0 | Simulate a run of a CI system using local containers |
+| 2026-10-11 11:06:02 | [noad](https://crates.io/crates/noad) | 0.0.0 | 0 | Lay out MathML Core formulas from OpenType MATH data, recording why each glyph… |
+| 2026-10-11 11:06:09 | [noad-build](https://crates.io/crates/noad-build) | 0.0.0 | 0 | Build OpenType MATH tables from glyph-name-level font source data |
+| 2026-10-11 11:13:55 | [rise-core](https://crates.io/crates/rise-core) | 0.2.0 | 0 | RISE — cryptographic proof that photos and videos are real (C2PA-compatible) |
+| 2026-10-11 11:18:46 | [bevy_curve_bms_bindings](https://crates.io/crates/bevy_curve_bms_bindings) | 0.22.0 | 0 | Automatically generated bindings for bevy_curve crate |
 
 ## Data source
 
