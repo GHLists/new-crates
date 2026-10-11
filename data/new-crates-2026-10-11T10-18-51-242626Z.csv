@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T09:29:09.655926Z,cc-continue,0.1.0,0,0,https://x.vibewait.ing/x/cc-continue,Continue a Claude Code session on another of your Claude accounts when one hits its usage limit
+2026-10-11T09:30:52.052939Z,telelog-core,0.3.1,0,0,https://github.com/tolaniverse/telelogs,Shared log record model for Telelogs
+2026-10-11T09:30:53.47692Z,telelog-proto,0.3.1,0,0,https://github.com/tolaniverse/telelogs,gRPC wire types for Telelogs
+2026-10-11T09:30:54.292735Z,telelog-sources,0.3.1,0,0,https://github.com/tolaniverse/telelogs,"Log sources (Docker, Kubernetes, VMs) for Telelogs"
+2026-10-11T09:30:56.508714Z,telelog-server,0.3.1,0,0,https://github.com/tolaniverse/telelogs,Telelogs server: collects logs and streams them to the desktop app
+2026-10-11T09:30:57.502683Z,telelogs,0.3.1,0,0,https://github.com/tolaniverse/telelogs,Telelogs desktop app: a native log viewer for Docker and Kubernetes
+2026-10-11T09:31:15.502515Z,lino-rest-api,0.2.1,0,0,https://github.com/link-foundation/lino-rest-api,REST API framework and client using Links Notation (LINO) instead of JSON
+2026-10-11T09:36:57.82882Z,wrkfetch,0.1.2,0,0,https://github.com/wxwreak/wrkfetch,"A lightweight, custom system information fetch tool written in Rust, featuring modular ASCII art with date-based Easter eggs and fast package counting."
+2026-10-11T09:37:09.088931Z,rushdown-math,0.1.1,0,0,https://github.com/NicolasChagnet/rushdown-math,Render LaTeX math in rushdown documents as KaTeX markup.
+2026-10-11T09:38:21.779299Z,k9tui,0.1.0,0,0,https://github.com/robertazzopardi/t7s,Reusable k9s-style ratatui widget kit
+2026-10-11T09:39:13.056308Z,c8s,0.1.0,0,0,https://github.com/robertazzopardi/t7s,A k9s-style TUI for Docker containers
+2026-10-11T09:40:20.825084Z,tuimail,0.1.0,0,0,https://github.com/erictran308/tuimail,"Email in your terminal: a vim-style IMAP, POP3 and SMTP client"
+2026-10-11T09:57:41.383053Z,ezjww-core,0.6.1,0,0,https://github.com/monozukuri-ai/ezjww,"JWW/JWC reader, JWW writer and DXF converter"
+2026-10-11T10:06:35.618642Z,rpi-acp,0.1.1,0,0,https://github.com/pi-rust/rpi-package,Agent Client Protocol (ACP) stdio server extension for rpi — use rpi as an external agent in Zed
+2026-10-11T10:16:51.144537Z,namanfhirfold,0.1.0,0,0,https://github.com/Jain-Naman-V/namanfhirfold,Fold the structure. Keep every detail. Task-aware FHIR R4 token compression engine for CDS Hooks and LLMs.
+2026-10-11T10:18:21.256956Z,tpt-sci-units,0.1.0,0,0,https://github.com/tpt-solutions/tpt-science,Typed SI quantities and the physical constants shared across tpt-science
