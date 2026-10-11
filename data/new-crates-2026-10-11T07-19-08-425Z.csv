@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T06:22:27.670563Z,crashpack,0.1.0,0,0,https://github.com/faizanali2k05/crashpack,Privacy-first local diagnostic crash bundles for Rust applications
+2026-10-11T06:24:59.699368Z,ps-less-avc,0.1.5,0,0,https://github.com/pathscale/ps-less-avc,Fork of less-avc 0.1.5 for chuzz WebRTC: pure Rust H.264 encoding
+2026-10-11T06:25:03.924081Z,ps-rusty-opus,1.0.0,0,0,https://github.com/pathscale/ps-rusty-opus,Synchronous fork of rusty-opus 1.0.0 for chuzz: pure-Rust Opus (RFC 6716) with the threaded encoding module removed
+2026-10-11T06:36:07.108861Z,cachec,0.1.0,0,0,https://github.com/ManuMario0/cachec,Ultra fast data structures for concurrency.
+2026-10-11T06:37:13.775914Z,ggen-abb-sbb,26.10.10,0,0,https://github.com/seanchatmangpt/ggen,"IO-free ABB/SBB manufacture admission kernel: SELECT existing SBB || MANUFACTURE missing realization, never DO."
+2026-10-11T06:41:51.881582Z,ironkeys-pkcs11,0.1.0,0,0,https://github.com/nervosys/IronKeys,Native PKCS#11 boundary for IronKeys
+2026-10-11T06:41:53.879977Z,ironkeys-cng,0.1.0,0,0,https://github.com/nervosys/IronKeys,Minimal safe wrapper over Windows CNG and TPM Base Services for IronKeys
+2026-10-11T06:41:56.147912Z,ironkeys-tpm2,0.1.0,0,0,https://github.com/nervosys/IronKeys,"A native TPM 2.0 layer in safe Rust for IronKeys: marshalling, sessions and commands"
+2026-10-11T06:41:58.620189Z,ironkeys-kms,0.1.0,0,0,https://github.com/nervosys/IronKeys,"An AWS KMS client in safe Rust for IronKeys: credentials, SigV4 and the key operations over IronSocketLayer"
+2026-10-11T06:42:01.27721Z,ironkeys,0.1.0,0,0,https://github.com/nervosys/IronKeys,"Key custody for the IronSecurity stack: one interface over software, HSM, TPM and cloud keys"
+2026-10-11T06:42:50.555882Z,git-claw,0.1.0,0,0,https://github.com/jeremylanes/git-claw,Deterministic git worktree orchestration engine for developers and AI agents
+2026-10-11T06:43:37.563475Z,metriken-storage,0.1.0,0,0,https://github.com/iopsystems/metriken,"Storage for metriken recordings: the segment format, column readers, and the dendro and .rez archives"
+2026-10-11T06:44:59.481104Z,modebox-core,0.1.0,0,0,https://github.com/farming-labs/modebox,"Run untrusted, agent-written JavaScript/TypeScript in a snapshot-able WebAssembly sandbox"
+2026-10-11T06:45:01.774434Z,modebox,0.1.0,0,0,https://github.com/farming-labs/modebox,"Sandboxed code execution for AI agents: run agent-written JS/TS in WebAssembly, shell commands in an OS sandbox, and an MCP code-mode server"
+2026-10-11T06:46:07.299452Z,ascmhl,0.1.0,0,0,https://github.com/Agaveis/ascmhl,"Read and validate ASC Media Hash List (MHL) manifests: SHA-256, SHA-1 and MD5 recomputed; xxh64, xxh3 and c4 detected and reported as unvalidated"
+2026-10-11T06:52:05.803399Z,satx-core,0.2.0,0,0,https://github.com/ractive/saturnus,"The library behind satx: talks to HP 48 and 49 calculators over a serial cable or TCP with Kermit and XModem, to list, get and put objects, run commands and read the screen"
+2026-10-11T06:52:24.736569Z,satx,0.2.0,0,0,https://github.com/ractive/saturnus,satx: transfer files between HP 48/49 calculators and a computer over serial
+2026-10-11T06:57:50.986784Z,virtual-bus,0.3.1,0,0,https://github.com/Nagi-905/virtual-bus,Virtual I2C / SPI buses for running embedded-hal 1.0 drivers against IC models (Rust or Verilator RTL) on your PC
+2026-10-11T06:58:08.772181Z,virtual-bus-build,0.3.1,0,0,https://github.com/Nagi-905/virtual-bus,build.rs helper that turns Verilog into a Verilator model usable from virtual-bus
+2026-10-11T06:59:23.89875Z,ggen-engine,26.10.11,0,0,https://github.com/seanchatmangpt/ggen,"SPARQL-in-Tera code generation engine (vendored, renamed from praxis/crates/ggen)"
+2026-10-11T07:04:19.972035Z,timecode-tools,0.1.0,0,0,https://github.com/ShowBuildLaboratories/timecode-tools-rs,"Dependency-free SMPTE LTC (linear timecode) and MIDI Time Code readers, timecode arithmetic and a drift-correcting timecode clock"
+2026-10-11T07:09:35.622625Z,tauri-plugin-microphone-kessdev,0.1.1-beta.0,0,0,https://github.com/kessdev/tauri-plugin-microphone,"Microphone plugin for Tauri v2: cross-platform audio recording, live metering and raw audio streaming on Android, iOS and desktop."
+2026-10-11T07:18:10.511714Z,trclipboard,0.1.0,0,0,https://github.com/egakareta/terrarium,Cross-platform (including web) clipboard access for Rust

@@ -8,38 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 06:18 UTC
+## Latest list — 2026-10-11 07:19 UTC
 
-New crates published between 2026-10-11 05:18 UTC and 2026-10-11 06:18 UTC.
+New crates published between 2026-10-11 06:18 UTC and 2026-10-11 07:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-11T06-18-53-800937Z.csv)
+[Full CSV](data/new-crates-2026-10-11T07-19-08-425Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-11 05:32:10 | [xo_connect](https://crates.io/crates/xo_connect) | 0.0.1 | 0 | Reserved infrastructure extension namespace for the XO Runtime ecosystem. |
-| 2026-10-11 05:32:12 | [xo_fs](https://crates.io/crates/xo_fs) | 0.0.1 | 0 | Reserved infrastructure extension namespace for the XO Runtime ecosystem. |
-| 2026-10-11 05:32:34 | [egui-flow-editor](https://crates.io/crates/egui-flow-editor) | 0.1.0 | 0 | A data-first node editor widget for egui applications |
-| 2026-10-11 05:35:07 | [velo_macro](https://crates.io/crates/velo_macro) | 0.1.0 | 0 | Procedural macros for the Veloasm reactive WASM framework (view!, components, r… |
-| 2026-10-11 05:36:01 | [veloasm](https://crates.io/crates/veloasm) | 0.1.0 | 0 | The unified, high-performance fine-grained reactive full-stack web framework. |
-| 2026-10-11 05:39:15 | [mercs2_mp_api](https://crates.io/crates/mercs2_mp_api) | 0.1.0 | 0 | Versioned control-plane API between the Mercenaries 2 multiplayer ASI and the m… |
-| 2026-10-11 05:39:16 | [mercs2_plasma_proto](https://crates.io/crates/mercs2_plasma_proto) | 0.1.0 | 0 | Wire codec for the Mercenaries 2 FESL / Theater (EA Plasma) protocol, mirrored… |
-| 2026-10-11 05:39:17 | [mercs2_mp_server](https://crates.io/crates/mercs2_mp_server) | 0.1.0 | 0 | Mercenaries 2 multiplayer server: accounts, lobby WebSocket, DTLS relay |
-| 2026-10-11 05:44:18 | [ps-rustcrypto](https://crates.io/crates/ps-rustcrypto) | 0.2.0 | 0 | Pure RustCrypto provider for rustls: ChaCha20-Poly1305 with ECDSA and Ed25519,… |
-| 2026-10-11 05:44:28 | [ps-boa-jit](https://crates.io/crates/ps-boa-jit) | 1.1.0 | 0 | Cranelift baseline compiler for numeric Boa functions. |
-| 2026-10-11 05:45:39 | [vardictrust-core](https://crates.io/crates/vardictrust-core) | 1.0.0 | 0 | Variant calling engine core for VarDictRust |
-| 2026-10-11 05:45:49 | [vardictrust](https://crates.io/crates/vardictrust) | 1.0.0 | 0 | Fast, memory-safe, idiomatic Rust rewrite of VarDictJava v1.8.3 |
-| 2026-10-11 05:55:32 | [server-decorator-entity](https://crates.io/crates/server-decorator-entity) | 2.0.24 | 0 | EntitySpec IR declaration: fluent builder and canonical JSON encoder, byte-iden… |
-| 2026-10-11 05:55:40 | [cargo-forward-flags](https://crates.io/crates/cargo-forward-flags) | 0.1.0 | 0 | Generate Cargo feature forwarding declarations |
-| 2026-10-11 05:55:43 | [server-decorator-core](https://crates.io/crates/server-decorator-core) | 2.0.24 | 0 | Cache key algorithm, cache adapter trait, retry, circuit breaker, rate limiter,… |
-| 2026-10-11 05:55:46 | [server-decorator-dto](https://crates.io/crates/server-decorator-dto) | 2.0.24 | 0 | Runtime DTO validation (create, update, read, action) compiled from server-deco… |
-| 2026-10-11 05:55:48 | [server-decorator-openapi](https://crates.io/crates/server-decorator-openapi) | 2.0.24 | 0 | OpenAPI 3.1 document generator for server-decorator EntitySpec IR |
-| 2026-10-11 05:56:00 | [server-decorator-axum](https://crates.io/crates/server-decorator-axum) | 2.0.24 | 0 | Axum REST route mounting with DTO validation and RFC 9457 problem details for s… |
-| 2026-10-11 05:57:47 | [milgraphics](https://crates.io/crates/milgraphics) | 0.1.0 | 0 | Native Rust multi-point tactical graphics (MIL-STD-2525 / APP-6): geometry, lab… |
-| 2026-10-11 06:15:09 | [h3auth](https://crates.io/crates/h3auth) | 0.1.0 | 0 | Authentication library based on three hardware components: UUID, motherboard se… |
-| 2026-10-11 06:17:18 | [willbooster-tree-sitter-go](https://crates.io/crates/willbooster-tree-sitter-go) | 0.0.0-placeholder.0 | 0 | Placeholder for WillBooster's fork of tree-sitter-go; the first release is 1.0.0 |
-| 2026-10-11 06:17:21 | [willbooster-tree-sitter-java](https://crates.io/crates/willbooster-tree-sitter-java) | 0.0.0-placeholder.0 | 0 | Placeholder for WillBooster's fork of tree-sitter-java; the first release is 1.… |
-| 2026-10-11 06:17:23 | [willbooster-tree-sitter-python](https://crates.io/crates/willbooster-tree-sitter-python) | 0.0.0-placeholder.0 | 0 | Placeholder for WillBooster's fork of tree-sitter-python; the first release is… |
-| 2026-10-11 06:17:26 | [willbooster-tree-sitter-ruby](https://crates.io/crates/willbooster-tree-sitter-ruby) | 0.0.0-placeholder.0 | 0 | Placeholder for WillBooster's fork of tree-sitter-ruby; the first release is 1.… |
+| 2026-10-11 06:22:27 | [crashpack](https://crates.io/crates/crashpack) | 0.1.0 | 0 | Privacy-first local diagnostic crash bundles for Rust applications |
+| 2026-10-11 06:24:59 | [ps-less-avc](https://crates.io/crates/ps-less-avc) | 0.1.5 | 0 | Fork of less-avc 0.1.5 for chuzz WebRTC: pure Rust H.264 encoding |
+| 2026-10-11 06:25:03 | [ps-rusty-opus](https://crates.io/crates/ps-rusty-opus) | 1.0.0 | 0 | Synchronous fork of rusty-opus 1.0.0 for chuzz: pure-Rust Opus (RFC 6716) with… |
+| 2026-10-11 06:36:07 | [cachec](https://crates.io/crates/cachec) | 0.1.0 | 0 | Ultra fast data structures for concurrency. |
+| 2026-10-11 06:37:13 | [ggen-abb-sbb](https://crates.io/crates/ggen-abb-sbb) | 26.10.10 | 0 | IO-free ABB/SBB manufacture admission kernel: SELECT existing SBB \|\| MANUFACTUR… |
+| 2026-10-11 06:41:51 | [ironkeys-pkcs11](https://crates.io/crates/ironkeys-pkcs11) | 0.1.0 | 0 | Native PKCS#11 boundary for IronKeys |
+| 2026-10-11 06:41:53 | [ironkeys-cng](https://crates.io/crates/ironkeys-cng) | 0.1.0 | 0 | Minimal safe wrapper over Windows CNG and TPM Base Services for IronKeys |
+| 2026-10-11 06:41:56 | [ironkeys-tpm2](https://crates.io/crates/ironkeys-tpm2) | 0.1.0 | 0 | A native TPM 2.0 layer in safe Rust for IronKeys: marshalling, sessions and com… |
+| 2026-10-11 06:41:58 | [ironkeys-kms](https://crates.io/crates/ironkeys-kms) | 0.1.0 | 0 | An AWS KMS client in safe Rust for IronKeys: credentials, SigV4 and the key ope… |
+| 2026-10-11 06:42:01 | [ironkeys](https://crates.io/crates/ironkeys) | 0.1.0 | 0 | Key custody for the IronSecurity stack: one interface over software, HSM, TPM a… |
+| 2026-10-11 06:42:50 | [git-claw](https://crates.io/crates/git-claw) | 0.1.0 | 0 | Deterministic git worktree orchestration engine for developers and AI agents |
+| 2026-10-11 06:43:37 | [metriken-storage](https://crates.io/crates/metriken-storage) | 0.1.0 | 0 | Storage for metriken recordings: the segment format, column readers, and the de… |
+| 2026-10-11 06:44:59 | [modebox-core](https://crates.io/crates/modebox-core) | 0.1.0 | 0 | Run untrusted, agent-written JavaScript/TypeScript in a snapshot-able WebAssemb… |
+| 2026-10-11 06:45:01 | [modebox](https://crates.io/crates/modebox) | 0.1.0 | 0 | Sandboxed code execution for AI agents: run agent-written JS/TS in WebAssembly,… |
+| 2026-10-11 06:46:07 | [ascmhl](https://crates.io/crates/ascmhl) | 0.1.0 | 0 | Read and validate ASC Media Hash List (MHL) manifests: SHA-256, SHA-1 and MD5 r… |
+| 2026-10-11 06:52:05 | [satx-core](https://crates.io/crates/satx-core) | 0.2.0 | 0 | The library behind satx: talks to HP 48 and 49 calculators over a serial cable… |
+| 2026-10-11 06:52:24 | [satx](https://crates.io/crates/satx) | 0.2.0 | 0 | satx: transfer files between HP 48/49 calculators and a computer over serial |
+| 2026-10-11 06:57:50 | [virtual-bus](https://crates.io/crates/virtual-bus) | 0.3.1 | 0 | Virtual I2C / SPI buses for running embedded-hal 1.0 drivers against IC models… |
+| 2026-10-11 06:58:08 | [virtual-bus-build](https://crates.io/crates/virtual-bus-build) | 0.3.1 | 0 | build.rs helper that turns Verilog into a Verilator model usable from virtual-b… |
+| 2026-10-11 06:59:23 | [ggen-engine](https://crates.io/crates/ggen-engine) | 26.10.11 | 0 | SPARQL-in-Tera code generation engine (vendored, renamed from praxis/crates/gge… |
+| 2026-10-11 07:04:19 | [timecode-tools](https://crates.io/crates/timecode-tools) | 0.1.0 | 0 | Dependency-free SMPTE LTC (linear timecode) and MIDI Time Code readers, timecod… |
+| 2026-10-11 07:09:35 | [tauri-plugin-microphone-kessdev](https://crates.io/crates/tauri-plugin-microphone-kessdev) | 0.1.1-beta.0 | 0 | Microphone plugin for Tauri v2: cross-platform audio recording, live metering a… |
+| 2026-10-11 07:18:10 | [trclipboard](https://crates.io/crates/trclipboard) | 0.1.0 | 0 | Cross-platform (including web) clipboard access for Rust |
 
 ## Data source
 
