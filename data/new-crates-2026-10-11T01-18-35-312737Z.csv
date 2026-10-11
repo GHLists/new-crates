@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T00:19:50.98433Z,rougers,0.1.0,0,0,https://github.com/SyntaxSpirits/rougers,Fast ROUGE metrics with scores identical to Google's rouge-score
+2026-10-11T00:26:25.187325Z,quarb-text-hwpx,0.36.0,0,0,https://gitlab.com/quarb/engine,"Hangul Word Processor (.hwpx, OWPML) producer for the Quarb text level: the reader's model from declared structure, in the Word and OpenDocument readings' vocabulary"
+2026-10-11T00:28:16.576062Z,quarb-text-ofd,0.36.0,0,0,https://gitlab.com/quarb/engine,"OFD (GB/T 33190) reader's-model adapter for Quarb: the pages' text objects as lines under the outline's sections, with geometry — the fixed-layout reading, no guessed structure"
+2026-10-11T00:28:27.694266Z,quarb-text-uof,0.36.0,0,0,https://gitlab.com/quarb/engine,"Uniform Office Format (.uot, GB/T 20916) producer for the Quarb text level: the word-processing module's declared structure in the Word and OpenDocument readings' vocabulary"
+2026-10-11T00:28:57.785466Z,streaming-audio-analysis,0.1.2,0,0,,"In-memory, sliding-window PCM analysis engine for music streaming applications. Feed decoded PCM from a rolling history buffer and the crate extracts user-interface-facing features faster than real t…"
+2026-10-11T00:38:30.798401Z,ikigai-nl,0.1.0,0,0,https://github.com/ikigai-rs/ikigai-nl,"Natural language to ikigai: `urn:nl:grounding`, what an LLM drafter may know (the actions, the vocabulary, each readable graph's shape, worked examples), as data, under the caller's capability. Bound…"
+2026-10-11T00:42:42.558616Z,pickle,0.1.0,0,0,,A small partially-type-erased error handling library
+2026-10-11T00:46:01.53762Z,scu,0.0.0,0,0,https://github.com/carlosferreyra/scu,System Composition Utility (SCU): provider-agnostic infrastructure composition.
+2026-10-11T00:48:47.631337Z,weflow-client,0.9.0,0,0,https://github.com/ren-yc/weflow-server,Typed Rust client for weflow-server's HTTP API (generated types + handwritten behavior layer)
+2026-10-11T00:49:03.362102Z,qqflow-client,0.9.0,0,0,https://github.com/ren-yc/qqflow-server,Typed Rust client for qqflow-server's HTTP API (generated types + handwritten behavior layer)
+2026-10-11T00:53:13.742504Z,weflow-server,0.9.0,0,0,https://github.com/ren-yc/weflow-server,"Headless HTTP API + SSE service for reading local WeChat 4.x chat records (WCDB/SQLCipher-4 decryption, real-time monitoring)"
+2026-10-11T00:54:07.900811Z,qqflow-server,0.9.0,0,0,https://github.com/ren-yc/qqflow-server,Headless HTTP API + SSE service for reading local QQ NT chat records (WeFlow-compatible interface)
+2026-10-11T00:59:07.599003Z,yosoi-documents,0.1.0,0,0,,Typed documents and locator evaluation for the Yosoi SDK.
+2026-10-11T00:59:18.346507Z,yosoi-contracts,0.1.0,0,0,,Typed extraction contracts for the Yosoi SDK.
+2026-10-11T00:59:23.186436Z,yosoi-extractor,0.1.0,0,0,,Extraction primitives for Yosoi document contracts.
+2026-10-11T00:59:29.237318Z,yosoi-contract-validation,0.1.0,0,0,,Contract validation and typed field conversion for Yosoi.
+2026-10-11T00:59:38.113675Z,yosoi-types,0.1.0,0,0,,Shared acquisition and value types for the Yosoi SDK.
+2026-10-11T01:03:41.562666Z,yosoi-policy,0.1.0,0,0,,Runtime acquisition policies and limits for Yosoi.
+2026-10-11T01:05:27.072634Z,glibc-abilists,0.1.0,0,0,https://github.com/rustcommons/glibc-abilists,"The GNU C Library's own ABI lists (x86_64, glibc 2.17-2.44), collected from glibc's signed release tags with full provenance"
+2026-10-11T01:06:08.344303Z,linux-targets,0.1.0,0,0,https://github.com/rustcommons/linux-abi-tools,Linux target selection: distribution presets with glibc and kernel floors
+2026-10-11T01:06:12.791659Z,kernel-abi-tools,0.1.0,0,0,https://github.com/rustcommons/linux-abi-tools,Linux kernel ABI data and seccomp profiles that simulate older kernels when testing Rust binaries
+2026-10-11T01:06:17.23479Z,linux-abi-scan,0.1.0,0,0,https://github.com/rustcommons/linux-abi-tools,Static inspection of built Linux executables against a target's glibc and kernel floors (tier 1 of linux-abi-tools' testing tiers)
+2026-10-11T01:06:21.718027Z,libc-abi-tools,0.1.0,0,0,https://github.com/rustcommons/linux-abi-tools,"Rust tools for libc ABI metadata, starting with glibc"
+2026-10-11T01:08:12.549922Z,stable-flight,0.1.0,0,0,https://github.com/wboayue/stable-flight,"no_std flight-control core for Stable Flight: pipeline traits, copter guidance, cascaded-PID stabilizers, mixers, and the per-tick flight loop"
+2026-10-11T01:08:14.672409Z,stable-flight-link,0.1.0,0,0,https://github.com/wboayue/stable-flight,"no_std wire protocol between a Stable Flight flight controller and a companion computer: messages, framing, and a byte-level link trait"
+2026-10-11T01:08:15.281122Z,stable-flight-mavlink,0.1.0,0,0,https://github.com/wboayue/stable-flight,MAVLink message builders for the Stable Flight flight controller: pure functions from core types to MAVLink payloads
+2026-10-11T01:08:15.971044Z,stable-flight-sitl,0.1.0,0,0,https://github.com/wboayue/stable-flight,Software-in-the-loop harness for the Stable Flight flight controller: real-time runner and commanders
+2026-10-11T01:08:16.710802Z,stable-flight-bridge,0.1.0,0,0,https://github.com/wboayue/stable-flight,Companion-computer bridge between a Stable Flight flight controller's native link and MAVLink ground stations
+2026-10-11T01:09:16.197408Z,stable-flight-sitl-realflight,0.1.0,0,0,https://github.com/wboayue/stable-flight,RealFlight simulator backend for the Stable Flight flight controller
+2026-10-11T01:09:51.69776Z,linux-abi-tools,0.1.0,0,0,https://github.com/rustcommons/linux-abi-tools,"Target older Linux systems from Rust: glibc ABI data, kernel syscall simulation, and distribution presets in one dependency"
+2026-10-11T01:13:40.268318Z,quantum-light,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Checked finite-Fock-space reference kernels for quantum photonics
+2026-10-11T01:13:42.527438Z,yosoi-chromiumoxide-cdp,0.10.0-yosoi.m153.1,0,0,https://github.com/CascadingLabs/Yosoi,Contains all the generated types for chromiumoxide
+2026-10-11T01:13:43.158537Z,quantum-magnetism,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Matrix-free exact reference tools for finite frustrated spin-1/2 magnets
+2026-10-11T01:13:46.098378Z,quantum-shadows,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Checked local-Pauli classical-shadow estimators for quantum observables
+2026-10-11T01:13:48.865372Z,spin-lattice,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Checked reference kernels for coupled classical spins and harmonic lattices
+2026-10-11T01:13:51.836131Z,superconducting-dynamics,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Gauge-covariant TDGL and Josephson dynamics on checked finite graphs
