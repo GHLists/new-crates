@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T21:23:28.959359Z,wasm4pm-planner,26.10.11,0,0,https://github.com/seanchatmangpt/wasm4pm,wasm4pm-native PDDL-subset temporal planner with prolog8 admission gating and an MCP server — a fresh design (not a port) drawing on lessons from bcinr-pddl's durative-action scheduler and capability…
+2026-10-11T21:23:52.976103Z,hatchling-goals,0.1.1,0,0,https://github.com/undergroundrap/hatchling,"Broker-owned goals and tracking store: user-explicit goals, an append-only tracking log, and the read-only feed query interface whose every item carries its provenance."
+2026-10-11T21:28:36.125169Z,evm-state-diff,0.1.0,0,0,https://github.com/Naveen-6087/eth-state-diff,"Ethereum execution state diffs from prestateTracer traces: per transaction or per block, filtered and rendered as text, JSON, NDJSON or CSV"
+2026-10-11T21:30:01.891364Z,left-pad-rs,0.1.0,0,0,,Rust port of the archived left-pad JS package (parity-tested)
+2026-10-11T21:31:27.565676Z,q-promise-rs,0.1.0,0,0,,Rust port of kriskowal/q promise library (parity-tested)
+2026-10-11T21:31:29.613671Z,embedded-typst,0.1.0,0,0,https://github.com/casoon/embedded-typst,"A typst::World for embedding the Typst compiler: lazily loaded fonts, a virtual filesystem over several roots, Typst packages and reproducible dates. Native and Wasm."
+2026-10-11T21:32:01.710952Z,uno-ms-lightgbm-sys,0.1.0,0,0,https://github.com/pgarrett-scripps/uno,"FFI bindings to a vendored prebuilt LightGBM shared library (Linux x86_64), used by uno-ms"
+2026-10-11T21:32:37.394402Z,uno-ms-core,0.1.0,0,0,https://github.com/pgarrett-scripps/uno,"Search, scoring, FDR and quantitative contrast library behind the uno MS1-only search engine"
+2026-10-11T21:33:58.549946Z,hatchling-feed,0.1.1,0,0,https://github.com/undergroundrap/hatchling,"The feed: a scheduled digest of the user's own records, read-only, every item an observation with its transitive provenance label."
+2026-10-11T21:34:25.989568Z,uno-ms,0.1.0,0,0,https://github.com/pgarrett-scripps/uno,"MS1-only peptide and protein identification from LC-MS features, with target-decoy FDR"
+2026-10-11T21:35:35.585976Z,brain-nn-rs,0.1.0,0,0,,Rust port of harthur/brain neural network (parity-tested)
+2026-10-11T21:36:21.016681Z,wasm4pm-conform,26.10.11,0,0,https://github.com/seanchatmangpt/wasm4pm,"High-assurance, trajectory-based IEEE OCEL 2.0 conformance checking engine for the wasm4pm ecosystem"
+2026-10-11T21:39:14.662671Z,fonts-rs-cheat-sheet,0.4.0,0,0,https://github.com/smearor/fonts-rs,Generic GTK4 cheat sheet application for fonts-rs font families
+2026-10-11T21:44:09.359446Z,hatchling-fido2,0.1.1,0,0,https://github.com/undergroundrap/hatchling,"The FIDO2 transport: CTAP2 over USB HID (hidraw on Linux), as the vault's Authenticator"
+2026-10-11T21:45:02.149553Z,tidyup,0.1.0,0,0,https://github.com/ChristiantangCC/tidyup,"Free up ports and disk space from your dev projects: kill port hogs, delete node_modules/target folders, start your dev stack"
+2026-10-11T21:49:01.217415Z,catwalk3d,1.0.0,0,0,https://github.com/cmeister2/catwalk,Headless model thumbnails rendered entirely in Rust
+2026-10-11T21:52:43.86634Z,plexus-client,0.6.0,0,0,,"wasm-safe client runtime for Plexus RPC: the wire envelope, the Transport trait, and typed event decoding"
+2026-10-11T21:54:14.312583Z,hatchling-isolation,0.1.1,0,0,https://github.com/undergroundrap/hatchling,"The isolation seam: one platform-neutral trait between broker policy and a platform's cell mechanism, and its Linux backend"
+2026-10-11T21:57:30.662926Z,sbx,0.1.0,0,0,https://github.com/unsigned-gg/sbx,AI-containment layer for agent execution — OS syscall jail with reversible run-custody records
+2026-10-11T22:03:14.658267Z,sbxd,0.1.0,0,0,https://github.com/unsigned-gg/sbx,Agent containment custody daemon — server and orchestrator for sbx execution environments
+2026-10-11T22:04:20.437923Z,hatchling-scheduler,0.1.1,0,0,https://github.com/undergroundrap/hatchling,"Scheduled work: cron timing in explicit IANA timezones, subset-closed schedule grants, and the dispatcher that fires, delivers, and parks."
+2026-10-11T22:08:31.139367Z,menger-tickets-api,0.5.0,0,0,https://github.com/hypermemetic-ai/menger,"menger's ticket vocabulary, activation and Plexus RPC client — one declaration, shared by the server and the browser"
+2026-10-11T22:09:01.396047Z,menger,0.5.0,0,0,https://github.com/hypermemetic-ai/menger,A plan is a program whose leaves are prose — ticketing on Plexus RPC
+2026-10-11T22:11:06.037131Z,atrinik-scene,0.1.0,0,0,https://github.com/atrinik/renderer,Renderer-neutral bounded Atrinik scene contracts
+2026-10-11T22:13:42.000533Z,jcomp,0.1.0,0,0,https://github.com/IAmJSD/jcomp,"Lossless, structure-aware JSON compression"
+2026-10-11T22:14:30.306805Z,hatchling-skill,0.1.1,0,0,https://github.com/undergroundrap/hatchling,"Signed skills: manifest format, Ed25519 verification, admission-time grant checks, and call-time capability enforcement"
+2026-10-11T22:16:19.285733Z,majik-signature,1.0.0,0,0,https://github.com/Majikah/majik-signature-rs,Hybrid post-quantum content signing and verification (Ed25519 + ML-DSA-87) for the Majikah ecosystem. Pure-Rust port of @majikah/majik-signature.
