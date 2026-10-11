@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T12:32:22.662174Z,openchuck-types,0.0.0,0,0,https://github.com/paulhampson/OpenChuckCAM,Name reservation for the OpenChuckCAM project (4-axis CAM). No functionality yet.
+2026-10-11T12:32:24.782624Z,openchuck-path,0.0.0,0,0,https://github.com/paulhampson/OpenChuckCAM,Name reservation for the OpenChuckCAM project (4-axis CAM). No functionality yet.
+2026-10-11T12:32:26.72856Z,openchuck-post,0.0.0,0,0,https://github.com/paulhampson/OpenChuckCAM,Name reservation for the OpenChuckCAM project (4-axis CAM). No functionality yet.
+2026-10-11T12:32:28.714681Z,openchuck-gcode,0.0.0,0,0,https://github.com/paulhampson/OpenChuckCAM,Name reservation for the OpenChuckCAM project (4-axis CAM). No functionality yet.
+2026-10-11T12:32:30.915908Z,openchuck-geom,0.0.0,0,0,https://github.com/paulhampson/OpenChuckCAM,Name reservation for the OpenChuckCAM project (4-axis CAM). No functionality yet.
+2026-10-11T12:34:43.120763Z,vps-ready,0.1.0-alpha.1,0,0,https://github.com/bhimrazy/vps-ready,Detect and audit a fresh Linux VPS. Safe hardening with rollback is planned.
+2026-10-11T12:34:45.584046Z,vpsready,0.1.0-alpha.1,0,0,https://github.com/bhimrazy/vps-ready,"The vps-ready command under the name `vpsready`. Same code, published from the same repository."
+2026-10-11T12:34:55.518322Z,virial-quantum,0.2.0,0,0,https://github.com/virial-engine/virial-engine,"Quantum motion for Virial: the time-dependent Schrodinger equation on the GPU, split-operator with GPU FFTs"
+2026-10-11T12:38:42.605764Z,v8rs,0.1.0,0,0,https://github.com/webc-site/v8rs,v8rs
+2026-10-11T12:41:49.432842Z,zixcel-japan-administrative-areas,0.1.0,0,0,https://github.com/zixcel/japan-administrative-areas,Exact Japanese administrative subdivision codes and display names
+2026-10-11T12:42:19.791918Z,athena-migration-core,5.2.0,0,0,https://github.com/xylex-group/athena,"Canonical, backend-neutral migration semantics"
+2026-10-11T12:42:25.841302Z,athena-pg-runtime,5.2.0,0,0,https://github.com/xylex-group/athena,Managed PostgreSQL target lifecycle for Athena
+2026-10-11T12:42:39.295695Z,openchuck-import,0.0.0,0,0,https://github.com/paulhampson/OpenChuckCAM,Name reservation for the OpenChuckCAM project (4-axis CAM). No functionality yet.
+2026-10-11T12:48:44.671524Z,onlyne-im-backend,2.2.0,0,0,https://github.com/dbydd/onlyne,IM gateway backend protocol: standard frames and payload types between core and platform backends
+2026-10-11T12:50:02.418196Z,onlyne-im,2.2.0,0,0,https://github.com/dbydd/onlyne,IM gateway core: the client that presents IM conversations as addressable roles and triggers operator scripts
+2026-10-11T12:50:16.683517Z,onlyne-im-backend-telegram,2.2.0,0,0,https://github.com/dbydd/onlyne,Telegram platform backend for the Onlyne IM gateway
+2026-10-11T12:53:16.305543Z,openchuck,0.0.0,0,0,https://github.com/paulhampson/OpenChuckCAM,Name reservation for the OpenChuckCAM project (4-axis CAM). No functionality yet.
+2026-10-11T12:56:31.824329Z,coinapi-rs,0.2.0,0,0,https://tangled.org/ljnsn.tngl.sh/coinapi-rs,A Rust client for CoinAPI
+2026-10-11T12:56:54.013635Z,jvfmt,0.0.0,0,0,https://github.com/jvfmt/jvfmt,Java formatter producing google-java-format output. Name reserved; work in progress.
+2026-10-11T13:03:22.701101Z,openchuckcam,0.0.0,0,0,https://github.com/paulhampson/OpenChuckCAM,Name reservation for the OpenChuckCAM project (4-axis CAM). No functionality yet.
+2026-10-11T13:07:09.356135Z,freeport-cli,0.1.1,0,0,https://github.com/cyrilleadjalala/freeport,"Libère un port en arrêtant proprement le processus qui l'occupe (Linux, macOS, Windows, BSD)"
+2026-10-11T13:09:19.821242Z,git-odd-vault,0.2.0,0,0,https://github.com/git-odd/git-vault,"Zero-trace, Git-anchored private document and secret manager for open source developers"
+2026-10-11T13:09:23.018048Z,zune-isobmff,0.5.0,0,0,https://github.com/etemesi254/zune-image/tree/dev/crates/zune-isobmff,"ISO Base Media File Format (ISOBMFF) box header parsing, shared by the zune HEIF decoders"
+2026-10-11T13:09:33.659603Z,git-msg,0.1.1,0,0,https://github.com/git-odd/git-msg,"AI-powered Git commit message generator, local-first and lightweight."
+2026-10-11T13:10:51.419112Z,git-chkpt,0.1.1,0,0,https://github.com/git-odd/git-chkpt,"Lightweight, local checkpoint tool for Git worktrees, powered by Fossil"
+2026-10-11T13:15:39.525872Z,libxgwx,0.1.0,0,0,https://github.com/ne0ekspert/libxgwx,Parser for LS XG5000 .xgwx workspace files
+2026-10-11T13:16:43.817675Z,codecat,0.1.2,0,0,https://github.com/iroha3/codecat,"Merge a code repository into a single file (and split it back), respecting .gitignore. Ideal for LLM code analysis."
+2026-10-11T13:18:53.621302Z,slog-cli,0.1.0,0,0,https://github.com/bratsche/slog,"Console.app for the command line: read macOS and iOS unified logs, and crash reports, from stdout"
