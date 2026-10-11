@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T16:21:50.261481Z,syllabix-native,0.1.1,0,0,https://github.com/syllabix-ai/syllabix,Shared ggml plus whisper.cpp and llama.cpp frontends
+2026-10-11T16:21:54.128393Z,syllabix-core,0.1.1,0,0,https://github.com/syllabix-ai/syllabix,"Voice-agent SDK: shared types, provider contracts, and an in-memory speech-to-speech conversation loop"
+2026-10-11T16:24:38.147143Z,redknife,0.1.0,0,0,https://github.com/yukibtc/redknife.git,A Swiss Army knife for offensive pentesting.
+2026-10-11T16:28:42.516034Z,struct2md_derive,0.1.0,0,0,,Proc-macro derive for struct2md
+2026-10-11T16:29:08.976668Z,struct2md,0.1.1,0,0,,Declarative macro to serialize Rust structs into Markdown via field attributes
+2026-10-11T16:36:44.557133Z,lacodda-tear,0.1.0,0,0,https://github.com/lacodda/efema,"A TCP proxy for tests that tears connections where you say: after so many bytes either way, after a while, or all at once"
+2026-10-11T16:40:47.924824Z,witness-log-core,0.3.5,0,0,https://github.com/0xAndersen/witness-log,"Cryptographic audit-trail core: RFC 6962-style Merkle log, Ed25519 identity, salted-tombstone redaction."
+2026-10-11T16:41:01.939145Z,witness-log-network,0.3.5,0,0,https://github.com/0xAndersen/witness-log,Witness protocol: peer countersigning of checkpoints and quorum/diversity scoring for WitnessLog logs.
+2026-10-11T16:41:18.387575Z,witness-log-cli,0.3.5,0,0,https://github.com/0xAndersen/witness-log,witness-log: offline verification CLI for witnessed audit logs and witness quorums.
+2026-10-11T16:45:29.790617Z,acctswap-core,0.2.1,0,0,https://github.com/000Janela000/acctswap,"The rules of acctswap: which saved Claude Code login to switch to, and how to switch safely. No file, Keychain or network access"
+2026-10-11T16:45:41.625376Z,acctswap,0.2.1,0,0,https://github.com/000Janela000/acctswap,"Switch the account every Claude Code session on a machine uses, from saved logins, without a browser"
+2026-10-11T16:48:25.260947Z,pound-derive-impl,0.3.0,0,0,https://github.com/manic-systems/climax,expansion behind pound's derive macros
+2026-10-11T16:51:33.435328Z,lodestone-wire,0.0.2,0,0,,Generated public wire types for the current Lodestone API
+2026-10-11T16:52:32.385072Z,wakuwaku-entity,0.1.0,0,0,https://github.com/suitsu31-club/wakuwaku,"Capability-typed queries, hooks and pure transaction flows over sqlx, Redis and Meilisearch"
+2026-10-11T16:52:45.047007Z,lodestone-client,0.0.2,0,0,,Current-only asynchronous Rust client for the Lodestone API
+2026-10-11T17:04:35.328542Z,trtask,0.1.0,0,0,https://github.com/egakareta/terrarium,Cross-platform task spawning utilities for Terrarium.
+2026-10-11T17:07:31.700716Z,squadleader-scenario,0.1.0,0,0,,Scenario builder tools for the SquadLeader system.
+2026-10-11T17:11:00.891423Z,log-bill,0.1.0,0,0,https://github.com/qwpp7g79y4-maker/log-bill,Offline estimate of log costs per pattern
+2026-10-11T17:16:40.305668Z,tidal-player-audio,1.0.0,0,0,https://github.com/PEKKA1117/spotify-player-but-for-tidal,Decode and audio output engine for tidal-player
+2026-10-11T17:16:41.126366Z,tidal-player-core,1.0.0,0,0,https://github.com/PEKKA1117/spotify-player-but-for-tidal,"Pure domain types, protocol and state machines for tidal-player (no I/O)"
+2026-10-11T17:16:42.336987Z,tidal-player-api,1.0.0,0,0,https://github.com/PEKKA1117/spotify-player-but-for-tidal,Tidal HTTP API client for tidal-player
+2026-10-11T17:16:44.202171Z,tidal-player,1.0.0,0,0,https://github.com/PEKKA1117/spotify-player-but-for-tidal,"Terminal Tidal player: standalone, daemon and client"
+2026-10-11T17:17:00.819708Z,prototext-schema,0.3.2,0,0,https://github.com/douzebis/prototools,On-demand FileDescriptorProto loading from a mmapped descriptor set and its rkyv index
+2026-10-11T17:17:04.832058Z,prototools-complete,0.3.2,0,0,https://github.com/douzebis/prototools,"Bash completion for clap from the raw command line, shared by the prototools CLIs"
+2026-10-11T17:19:12.397179Z,polloc,0.2.0,0,0,https://github.com/hamzader1/polloc,A fixed size pool allocator with safe typed slots and reusable memory blocks

@@ -8,35 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 16:19 UTC
+## Latest list — 2026-10-11 17:20 UTC
 
-New crates published between 2026-10-11 15:19 UTC and 2026-10-11 16:19 UTC.
+New crates published between 2026-10-11 16:19 UTC and 2026-10-11 17:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-11T16-19-34-757904Z.csv)
+[Full CSV](data/new-crates-2026-10-11T17-20-41-845162Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-11 15:20:33 | [wasix-net](https://crates.io/crates/wasix-net) | 0.1.0 | 0 | Loopback TCP sockets and a blocking HTTP/1.1 client for WASI programs in slicc'… |
-| 2026-10-11 15:23:27 | [nopeat-cli](https://crates.io/crates/nopeat-cli) | 2.1.4 | 0 | One analyzer for every bundler: analyse dist folders, stats.json and source maps |
-| 2026-10-11 15:23:31 | [nopeat-wasm](https://crates.io/crates/nopeat-wasm) | 2.1.4 | 0 | WASM bindings for the Nopeat engine (Phase 2; structure only for now) |
-| 2026-10-11 15:29:48 | [vta-external](https://crates.io/crates/vta-external) | 0.1.0 | 0 | VTA external accounts — the VTA as the key authority for cloud and third-party… |
-| 2026-10-11 15:30:24 | [wp_test_bump024_dep](https://crates.io/crates/wp_test_bump024_dep) | 0.2.1 | 0 | Test dep crate for BUG-024 |
-| 2026-10-11 15:30:32 | [lib_a](https://crates.io/crates/lib_a) | 0.2.1 | 0 | Test crate for publishing tests |
-| 2026-10-11 15:34:07 | [bevy-spnavd](https://crates.io/crates/bevy-spnavd) | 0.1.1 | 0 | A Bevy plugin for SpaceMouse devices via spnavd |
-| 2026-10-11 15:35:18 | [slicc-cdp-client](https://crates.io/crates/slicc-cdp-client) | 1.5.4 | 0 | Shared CDP connection for slicc-cdp CLIs |
-| 2026-10-11 15:35:32 | [slicc-cdp](https://crates.io/crates/slicc-cdp) | 1.5.4 | 0 | SLICC CDP client; installs the playwright-cli command |
-| 2026-10-11 15:35:43 | [curlwright](https://crates.io/crates/curlwright) | 1.5.4 | 0 | curl-style requests inside an already-open browser tab |
-| 2026-10-11 15:38:39 | [canibump](https://crates.io/crates/canibump) | 0.1.0 | 0 | Can I bump yet? Checks the upstream fixes your workarounds wait on and says whi… |
-| 2026-10-11 15:41:39 | [alkstore](https://crates.io/crates/alkstore) | 0.1.0 | 0 | The alkstore contract crate: one reactive store trait surface — notify, streams… |
-| 2026-10-11 15:41:55 | [alkstore-sqlite](https://crates.io/crates/alkstore-sqlite) | 0.1.0 | 0 | SQLite engine for alkstore: single-host, file-backed, over rusqlite (bundled) w… |
-| 2026-10-11 15:42:06 | [alkstore-postgres](https://crates.io/crates/alkstore-postgres) | 0.1.0 | 0 | Postgres engine for alkstore: multi-host native, natively async over tokio-post… |
-| 2026-10-11 15:42:12 | [alkstore-mem](https://crates.io/crates/alkstore-mem) | 0.1.0 | 0 | In-process memory engine for alkstore: honest-ephemeral — full contract surface… |
-| 2026-10-11 15:51:19 | [rust-runes](https://crates.io/crates/rust-runes) | 0.1.0 | 0 | A rule engine compatible with Grule's rule language (GRL) and execution model |
-| 2026-10-11 15:55:54 | [sylheti_phonetics](https://crates.io/crates/sylheti_phonetics) | 1.0.0 | 0 | High-performance Sylheti phonetic dictionary and transliteration engine for TTS… |
-| 2026-10-11 16:04:52 | [molar_vis_core](https://crates.io/crates/molar_vis_core) | 0.2.0 | 0 | Molecular visualization engine with GPU rendering and scene controls |
-| 2026-10-11 16:04:54 | [molar_vis](https://crates.io/crates/molar_vis) | 0.2.0 | 0 | Interactive molecular viewer with GPU rendering, PLY meshes, and editable colors |
-| 2026-10-11 16:04:59 | [editable_markdown_parser](https://crates.io/crates/editable_markdown_parser) | 0.0.2 | 0 | Source-preserving Markdown parsing and editing primitives for hybrid editors |
-| 2026-10-11 16:12:11 | [fy-i18n-lang-tag](https://crates.io/crates/fy-i18n-lang-tag) | 0.1.0 | 0 | Lightweight modern language-tag parsing and normalization with no_std and no de… |
+| 2026-10-11 16:21:50 | [syllabix-native](https://crates.io/crates/syllabix-native) | 0.1.1 | 0 | Shared ggml plus whisper.cpp and llama.cpp frontends |
+| 2026-10-11 16:21:54 | [syllabix-core](https://crates.io/crates/syllabix-core) | 0.1.1 | 0 | Voice-agent SDK: shared types, provider contracts, and an in-memory speech-to-s… |
+| 2026-10-11 16:24:38 | [redknife](https://crates.io/crates/redknife) | 0.1.0 | 0 | A Swiss Army knife for offensive pentesting. |
+| 2026-10-11 16:28:42 | [struct2md_derive](https://crates.io/crates/struct2md_derive) | 0.1.0 | 0 | Proc-macro derive for struct2md |
+| 2026-10-11 16:29:08 | [struct2md](https://crates.io/crates/struct2md) | 0.1.1 | 0 | Declarative macro to serialize Rust structs into Markdown via field attributes |
+| 2026-10-11 16:36:44 | [lacodda-tear](https://crates.io/crates/lacodda-tear) | 0.1.0 | 0 | A TCP proxy for tests that tears connections where you say: after so many bytes… |
+| 2026-10-11 16:40:47 | [witness-log-core](https://crates.io/crates/witness-log-core) | 0.3.5 | 0 | Cryptographic audit-trail core: RFC 6962-style Merkle log, Ed25519 identity, sa… |
+| 2026-10-11 16:41:01 | [witness-log-network](https://crates.io/crates/witness-log-network) | 0.3.5 | 0 | Witness protocol: peer countersigning of checkpoints and quorum/diversity scori… |
+| 2026-10-11 16:41:18 | [witness-log-cli](https://crates.io/crates/witness-log-cli) | 0.3.5 | 0 | witness-log: offline verification CLI for witnessed audit logs and witness quor… |
+| 2026-10-11 16:45:29 | [acctswap-core](https://crates.io/crates/acctswap-core) | 0.2.1 | 0 | The rules of acctswap: which saved Claude Code login to switch to, and how to s… |
+| 2026-10-11 16:45:41 | [acctswap](https://crates.io/crates/acctswap) | 0.2.1 | 0 | Switch the account every Claude Code session on a machine uses, from saved logi… |
+| 2026-10-11 16:48:25 | [pound-derive-impl](https://crates.io/crates/pound-derive-impl) | 0.3.0 | 0 | expansion behind pound's derive macros |
+| 2026-10-11 16:51:33 | [lodestone-wire](https://crates.io/crates/lodestone-wire) | 0.0.2 | 0 | Generated public wire types for the current Lodestone API |
+| 2026-10-11 16:52:32 | [wakuwaku-entity](https://crates.io/crates/wakuwaku-entity) | 0.1.0 | 0 | Capability-typed queries, hooks and pure transaction flows over sqlx, Redis and… |
+| 2026-10-11 16:52:45 | [lodestone-client](https://crates.io/crates/lodestone-client) | 0.0.2 | 0 | Current-only asynchronous Rust client for the Lodestone API |
+| 2026-10-11 17:04:35 | [trtask](https://crates.io/crates/trtask) | 0.1.0 | 0 | Cross-platform task spawning utilities for Terrarium. |
+| 2026-10-11 17:07:31 | [squadleader-scenario](https://crates.io/crates/squadleader-scenario) | 0.1.0 | 0 | Scenario builder tools for the SquadLeader system. |
+| 2026-10-11 17:11:00 | [log-bill](https://crates.io/crates/log-bill) | 0.1.0 | 0 | Offline estimate of log costs per pattern |
+| 2026-10-11 17:16:40 | [tidal-player-audio](https://crates.io/crates/tidal-player-audio) | 1.0.0 | 0 | Decode and audio output engine for tidal-player |
+| 2026-10-11 17:16:41 | [tidal-player-core](https://crates.io/crates/tidal-player-core) | 1.0.0 | 0 | Pure domain types, protocol and state machines for tidal-player (no I/O) |
+| 2026-10-11 17:16:42 | [tidal-player-api](https://crates.io/crates/tidal-player-api) | 1.0.0 | 0 | Tidal HTTP API client for tidal-player |
+| 2026-10-11 17:16:44 | [tidal-player](https://crates.io/crates/tidal-player) | 1.0.0 | 0 | Terminal Tidal player: standalone, daemon and client |
+| 2026-10-11 17:17:00 | [prototext-schema](https://crates.io/crates/prototext-schema) | 0.3.2 | 0 | On-demand FileDescriptorProto loading from a mmapped descriptor set and its rky… |
+| 2026-10-11 17:17:04 | [prototools-complete](https://crates.io/crates/prototools-complete) | 0.3.2 | 0 | Bash completion for clap from the raw command line, shared by the prototools CL… |
+| 2026-10-11 17:19:12 | [polloc](https://crates.io/crates/polloc) | 0.2.0 | 0 | A fixed size pool allocator with safe typed slots and reusable memory blocks |
 
 ## Data source
 
