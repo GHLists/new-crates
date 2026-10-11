@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T05:32:10.124723Z,xo_connect,0.0.1,0,0,https://cutoutstudios.com/,Reserved infrastructure extension namespace for the XO Runtime ecosystem.
+2026-10-11T05:32:12.398899Z,xo_fs,0.0.1,0,0,https://cutoutstudios.com/,Reserved infrastructure extension namespace for the XO Runtime ecosystem.
+2026-10-11T05:32:34.677075Z,egui-flow-editor,0.1.0,0,0,https://github.com/faizanali2k05/egui-flow,A data-first node editor widget for egui applications
+2026-10-11T05:35:07.503529Z,velo_macro,0.1.0,0,0,https://github.com/digiator42/Velo,"Procedural macros for the Veloasm reactive WASM framework (view!, components, routing)."
+2026-10-11T05:36:01.484328Z,veloasm,0.1.0,0,0,https://github.com/digiator42/Velo,"The unified, high-performance fine-grained reactive full-stack web framework."
+2026-10-11T05:39:15.632521Z,mercs2_mp_api,0.1.0,0,0,https://github.com/Mercenaries-Fan-Build/multiplayer-server,Versioned control-plane API between the Mercenaries 2 multiplayer ASI and the multiplayer server
+2026-10-11T05:39:16.010547Z,mercs2_plasma_proto,0.1.0,0,0,https://github.com/Mercenaries-Fan-Build/multiplayer-server,"Wire codec for the Mercenaries 2 FESL / Theater (EA Plasma) protocol, mirrored from the game client"
+2026-10-11T05:39:17.064466Z,mercs2_mp_server,0.1.0,0,0,https://github.com/Mercenaries-Fan-Build/multiplayer-server,"Mercenaries 2 multiplayer server: accounts, lobby WebSocket, DTLS relay"
+2026-10-11T05:44:18.240704Z,ps-rustcrypto,0.2.0,0,0,https://github.com/pathscale/ps-rustcrypto,"Pure RustCrypto provider for rustls: ChaCha20-Poly1305 with ECDSA and Ed25519, no AES or RSA"
+2026-10-11T05:44:28.572886Z,ps-boa-jit,1.1.0,0,0,https://github.com/boa-dev/boa,Cranelift baseline compiler for numeric Boa functions.
+2026-10-11T05:45:39.0828Z,vardictrust-core,1.0.0,0,0,https://github.com/palakpsheth/VarDictRust,Variant calling engine core for VarDictRust
+2026-10-11T05:45:49.304108Z,vardictrust,1.0.0,0,0,https://github.com/palakpsheth/VarDictRust,"Fast, memory-safe, idiomatic Rust rewrite of VarDictJava v1.8.3"
+2026-10-11T05:55:32.905843Z,server-decorator-entity,2.0.24,0,0,https://github.com/montionugera/node-server-decorator,"EntitySpec IR declaration: fluent builder and canonical JSON encoder, byte-identical across the server-decorator languages"
+2026-10-11T05:55:40.101957Z,cargo-forward-flags,0.1.0,0,0,https://github.com/egakareta/cargo-forward-flags,Generate Cargo feature forwarding declarations
+2026-10-11T05:55:43.809891Z,server-decorator-core,2.0.24,0,0,https://github.com/montionugera/node-server-decorator,"Cache key algorithm, cache adapter trait, retry, circuit breaker, rate limiter, batch loader and trace context for server-decorator"
+2026-10-11T05:55:46.762445Z,server-decorator-dto,2.0.24,0,0,https://github.com/montionugera/node-server-decorator,"Runtime DTO validation (create, update, read, action) compiled from server-decorator EntitySpec IR"
+2026-10-11T05:55:48.574427Z,server-decorator-openapi,2.0.24,0,0,https://github.com/montionugera/node-server-decorator,OpenAPI 3.1 document generator for server-decorator EntitySpec IR
+2026-10-11T05:56:00.672601Z,server-decorator-axum,2.0.24,0,0,https://github.com/montionugera/node-server-decorator,Axum REST route mounting with DTO validation and RFC 9457 problem details for server-decorator entities
+2026-10-11T05:57:47.718581Z,milgraphics,0.1.0,0,0,https://github.com/luofang34/milgraphics,"Native Rust multi-point tactical graphics (MIL-STD-2525 / APP-6): geometry, labels, handles and edits"
+2026-10-11T06:15:09.553506Z,h3auth,0.1.0,0,0,https://github.com/huanghu578/h3auth,"Authentication library based on three hardware components: UUID, motherboard serial number, BIOS serial number"
+2026-10-11T06:17:18.93292Z,willbooster-tree-sitter-go,0.0.0-placeholder.0,0,0,https://github.com/WillBooster/tree-sitter-go,Placeholder for WillBooster's fork of tree-sitter-go; the first release is 1.0.0
+2026-10-11T06:17:21.196611Z,willbooster-tree-sitter-java,0.0.0-placeholder.0,0,0,https://github.com/WillBooster/tree-sitter-java,Placeholder for WillBooster's fork of tree-sitter-java; the first release is 1.0.0
+2026-10-11T06:17:23.810446Z,willbooster-tree-sitter-python,0.0.0-placeholder.0,0,0,https://github.com/WillBooster/tree-sitter-python,Placeholder for WillBooster's fork of tree-sitter-python; the first release is 1.0.0
+2026-10-11T06:17:26.20745Z,willbooster-tree-sitter-ruby,0.0.0-placeholder.0,0,0,https://github.com/WillBooster/tree-sitter-ruby,Placeholder for WillBooster's fork of tree-sitter-ruby; the first release is 1.0.0
