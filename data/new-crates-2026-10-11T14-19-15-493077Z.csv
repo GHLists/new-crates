@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T13:25:34.678242Z,rs-rich-embed,0.0.1,0,0,https://github.com/buchochelliq-labs/rs-rich-cli,"A terminal pane and a web view for intuiTUIve apps, over swappable PTY and browser backends"
+2026-10-11T13:26:57.281666Z,scrape,0.1.0,0,0,https://github.com/crows7781-glitch/shortneer.git,這個抓取項目是一個學習過程。
+2026-10-11T13:28:42.088984Z,tts-candle-platform,0.1.0,0,0,https://github.com/yexiyue/talechime,Compile-target feature selection for the shared Candle runtime
+2026-10-11T13:29:18.831491Z,moss-tts,0.1.0,0,0,https://github.com/yexiyue/talechime,Native Candle computation for MOSS speech models
+2026-10-11T13:29:54.947246Z,talechime-qwen3-tts,0.3.0,0,0,https://github.com/yexiyue/talechime,Local Candle inference library for Qwen3-TTS
+2026-10-11T13:30:19.92863Z,talechime-qwen3-asr,0.1.0,0,0,https://github.com/yexiyue/talechime,Native Qwen3-ASR inference for Talechime
+2026-10-11T13:30:33.846216Z,voxcpm,0.1.0,0,0,https://github.com/yexiyue/talechime,Native Candle VoxCPM2 inference from the production GGUF weights
+2026-10-11T13:30:44.190364Z,armarium-core,0.1.0,0,0,https://github.com/a-miyashita/armarium,"Domain logic of Armarium: workspace, ingest, engine, edit, SQL, and persist"
+2026-10-11T13:31:01.337945Z,armarium-mcp,0.1.0,0,0,https://github.com/a-miyashita/armarium,Armarium MCP server (stdio)
+2026-10-11T13:31:21.805104Z,armarium,0.1.0,0,0,https://github.com/a-miyashita/armarium,Armarium: a desktop editor for tabular data with SQL
+2026-10-11T13:32:44.142557Z,icebergdb,0.1.0,0,0,https://github.com/anku5265/iceberg-database,Official Rust client for Iceberg Vector Database
+2026-10-11T13:33:38.222216Z,base91-testkit,0.3.2,0,0,https://github.com/douzebis/base91,Test oracles of base91-rs (internal: no stability promise across versions): a bit-by-bit model of the wire format and the upstream basE91 0.6.0 C reference
+2026-10-11T13:38:02.92194Z,omnivoice,0.1.0,0,0,https://github.com/yexiyue/talechime,Native Candle OmniVoice inference for Talechime
+2026-10-11T13:40:13.76306Z,dragon-pixel-engine,1.4.4,0,0,https://github.com/aphrody-labs/shenron,"Pure Rust retro fighting game engine for Dragon Pixel with deterministic frame data, hitboxes, beam clashes, and WebAssembly WebGPU pipeline bindings."
+2026-10-11T13:41:43.35076Z,shenron-re,1.4.4,0,0,https://github.com/aphrody-labs/shenron,"Pure Rust reverse engineering engine and binary parsers for Dragon Ball Xenoverse 2 (DBXV2) formats, CRIWARE CPK archives, live memory inspection, and game data ingestion for Shenron."
+2026-10-11T13:43:37.296001Z,jlens-regress,0.6.0,0,0,https://github.com/thkprado/jlens,Fork of regress 0.12.0 (EcmaScript regular expressions) whose matches can be interrupted
+2026-10-11T13:43:38.243139Z,trdevtools-derive,0.1.0,0,0,https://github.com/egakareta/terrarium,Field reflection derives for Terrarium DevTools.
+2026-10-11T13:46:02.843572Z,chunker-nbt,0.1.1,0,0,https://github.com/mochensky/chunker-worldgen,"Small, fast NBT (Named Binary Tag) reader and writer for Minecraft: Java Edition"
+2026-10-11T13:46:05.788903Z,chunker-anvil,0.1.1,0,0,https://github.com/mochensky/chunker-worldgen,Anvil region file (.mca/.mcc) reader and writer for Minecraft: Java Edition
+2026-10-11T13:46:08.875489Z,chunker-data,0.1.1,0,0,https://github.com/mochensky/chunker-worldgen,"Vanilla data for chunker-worldgen: data pack stack, tags, block registry, server jar lookup"
+2026-10-11T13:46:11.644868Z,chunker-worldgen,0.1.1,0,0,https://github.com/mochensky/chunker-worldgen,Bit-exact reimplementation of Minecraft: Java Edition world generation
+2026-10-11T13:48:03.412754Z,talechime-core,0.3.0,0,0,https://github.com/yexiyue/talechime,"Session, synthesis and playback core for Talechime"
+2026-10-11T13:48:50.78761Z,trdevtools,0.1.0,0,0,,placeholder
+2026-10-11T13:48:58.973462Z,shenron-engine,1.4.4,0,0,https://github.com/aphrody-labs/shenron,"Unified production-grade full-Rust game engine, GPU backend, 2D/3D renderer, vector canvas, and WASM bindings."
+2026-10-11T13:50:10.420459Z,zune-heic,0.5.0,0,0,https://github.com/etemesi254/zune-image/tree/dev/crates/zune-heic,"A fast, correct and safe HEIF/HEIC decoder, with its own HEVC decoder"
+2026-10-11T13:50:15.693786Z,bevue_macros,0.1.0,0,0,https://github.com/krliam/bevue,Derive macros for bevue
+2026-10-11T13:52:05.159307Z,bevue,0.1.0,0,0,https://github.com/krliam/bevue,Vue-like templating for Bevy UI
+2026-10-11T13:56:26.741086Z,talechime-backends,0.1.0,0,0,https://github.com/yexiyue/talechime,Native model adapters for Talechime
+2026-10-11T13:58:46.466765Z,redacted-cli,1.0.0,0,0,https://github.com/svn-arv/redacted,Claude Code PostToolUse hook that scrubs secrets from tool output
+2026-10-11T14:00:35.252457Z,koharu-secrets,1.4.4,0,0,https://github.com/aphrody-labs/shenron,Manga translation tools
+2026-10-11T14:00:42.191225Z,koharu-rasterizer,1.4.4,0,0,https://github.com/aphrody-labs/shenron,Portable prepared frames and shared Vello/WGPU composition for Koharu.
+2026-10-11T14:00:46.837731Z,koharu-storage,1.4.4,0,0,https://github.com/aphrody-labs/shenron,Filesystem-native snapshot and blob storage for Koharu.
+2026-10-11T14:00:50.865985Z,shenron-gpu,1.4.4,0,0,https://github.com/aphrody-labs/shenron,"The one wgpu backend of Shenron: adapter and device selection, limits, device loss, render targets, readback, presentation and Vello glue, native and browser."
+2026-10-11T14:06:27.951836Z,talechime,0.3.0,0,0,https://github.com/yexiyue/talechime,"Local speech synthesis, continuous listening and JSON Lines worker"
+2026-10-11T14:09:51.808819Z,koharu-scene,1.4.4,0,0,https://github.com/aphrody-labs/shenron,Performance-first typed scene model for Koharu.
+2026-10-11T14:13:56.428003Z,grow-r503,0.1.4,0,0,https://github.com/emersonmatsumoto/grow-r503,A platform-agnostic driver for the Grow R503 capacitive fingerprint sensor with Aura LED support
+2026-10-11T14:18:44.805829Z,koharu-canvas,1.4.4,0,0,https://github.com/aphrody-labs/shenron,Manga translation tools
