@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T19:19:57.731352Z,veloce-apv,0.1.7,0,0,https://github.com/magosam/veloce,Pure-Rust Advanced Professional Video (APV) metadata parser and profile validator (SMPTE ST 2140)
+2026-10-11T19:24:47.167291Z,mentat_query_pull,1.12.0,0,0,https://codeberg.org/gregburd/mentat,Datomic-style pull expressions for Mentat
+2026-10-11T19:26:56.575669Z,pactole-core,0.1.0,0,0,https://github.com/etienne-monier/pactole,"Core domain models, validation and reports for Pactole, a plain-text double-entry accounting ledger."
+2026-10-11T19:26:57.209448Z,tree-sitter-pactole,0.1.0,0,0,https://github.com/etienne-monier/pactole,Tree-sitter grammar and Rust bindings for the Pactole ledger language.
+2026-10-11T19:26:58.786277Z,pactole-syntax,0.1.0,0,0,https://github.com/etienne-monier/pactole,Tolerant tree-sitter-based syntax analysis (spans and diagnostics) for Pactole documents.
+2026-10-11T19:27:00.976266Z,pactole-storage-fs,0.1.0,0,0,https://github.com/etienne-monier/pactole,"Filesystem storage, parsing and canonical formatting for Pactole ledgers."
+2026-10-11T19:27:03.20272Z,pactole-cli,0.1.0,0,0,https://github.com/etienne-monier/pactole,"Command-line interface for Pactole, a plain-text double-entry accounting ledger."
+2026-10-11T19:28:53.299047Z,isle-lsp,0.1.0,0,0,https://github.com/Takashiidobe/isle-lsp,"Language server for ISLE, Cranelift's instruction selection and rewrite DSL"
+2026-10-11T19:30:01.748013Z,veloce-av1,0.1.7,0,0,https://github.com/magosam/veloce,Pure-Rust AV1 Open Bitstream Unit (OBU) parser and sequence header reader
+2026-10-11T19:34:46.333815Z,mentat_query_sql,1.12.0,0,0,https://codeberg.org/gregburd/mentat,Turns Mentat's algebrized queries into SQL
+2026-10-11T19:36:15.973843Z,parterre-telemetry,1.0.0,0,0,https://github.com/aquamoth/parterre,"Internal to parterre: what it asks and sends over the network, the update check, the usage statistics and the crash reports. No stability promises."
+2026-10-11T19:38:10.542146Z,fpc,0.0.1,0,0,https://github.com/happy-proto/fpc,Pick files and directories and copy their absolute paths
+2026-10-11T19:39:58.604066Z,purelymail,0.1.0,0,0,https://github.com/soulmachine/purelymail,"Command line interface to the Purelymail API, generated from its OpenAPI spec"
+2026-10-11T19:39:58.720203Z,veloce-dnx,0.1.7,0,0,https://github.com/magosam/veloce,Pure-Rust Avid DNxHD / DNxHR frame header parser and compression ID analyzer (SMPTE VC-3)
+2026-10-11T19:44:20.879952Z,hatchery-c2-protocol,0.2.0,0,0,https://github.com/ZENG3LD/hatchery,"Stable, serde-only inventory and control wire contract for C2 relays and clients"
+2026-10-11T19:44:22.179168Z,hatchery-server,0.2.0,0,0,https://github.com/ZENG3LD/hatchery,"Host for hatchery subservices (harness, m4a, memory): one supervisor process, loopback control and health"
+2026-10-11T19:44:24.032656Z,hatchery-c2,0.2.0,0,0,https://github.com/ZENG3LD/hatchery,Relay daemon that aggregates node state/events and routes commands down to attached nodes
+2026-10-11T19:44:24.386444Z,hatchery-c2-client,0.2.0,0,0,https://github.com/ZENG3LD/hatchery,Typed client library and CLI (hatchery-c2ctl) for the C2 control and observer APIs
+2026-10-11T19:44:27.488238Z,hatchery-node,0.2.1,0,0,https://github.com/ZENG3LD/hatchery,"Hatchery node: the complete node kit over the gate4agent transport (PTY/inline sessions, file browser, local git, worktrees, mailbox, browser station, session restore)"
+2026-10-11T19:44:47.314769Z,mentat_script,1.12.0,0,0,https://codeberg.org/gregburd/mentat,Backend-independent mino mentat.store/* scripting glue for Mentat
+2026-10-11T19:47:12.396639Z,brenn-scrub,0.1.0,0,0,https://github.com/rnortman/brenn-scrub,"gitleaks wrapper: write-time, staged, pushed-range, and full-tree scrub scans"
+2026-10-11T19:48:26.923346Z,qualia-dik,0.1.0,0,0,https://github.com/Qualia2FA/QualiaDeviceIdentityKit,"Device identity kit: P-256 device identity primitives and platform-native, hardware-backed keystores."
+2026-10-11T19:49:58.334245Z,veloce-h264enc,0.1.7,0,0,https://github.com/magosam/veloce,Pure-Rust baseline H.264 / AVC video encoder
+2026-10-11T19:59:59.570518Z,veloce-hevc,0.1.7,0,0,https://github.com/magosam/veloce,Pure-Rust H.265 / HEVC parameter set parser and NAL unit analyzer (ITU-T H.265)
+2026-10-11T20:02:19.408489Z,hatchling-sys,0.1.1,0,0,https://github.com/undergroundrap/hatchling,"The single crate allowed unsafe code: thin safe wrappers for Linux namespaces, mounts, and seccomp-bpf"
+2026-10-11T20:02:29.6773Z,hatchling-core,0.1.1,0,0,https://github.com/undergroundrap/hatchling,"Shared foundation for hatchling binaries: identity types, protocol framing, and kernel peer credentials"
+2026-10-11T20:02:36.597317Z,hatchling-channel,0.1.1,0,0,https://github.com/undergroundrap/hatchling,Messaging channels for hatchling: the Channel trait and broker-stamped messages; the broker owns the endpoints
+2026-10-11T20:02:41.607913Z,hatchling-memory,0.1.1,0,0,https://github.com/undergroundrap/hatchling,"Broker-owned durable memory: scoped user/project/session items with explicit retention, durable session records, and an append-only context log. Memory is recalled data, never instructions."
+2026-10-11T20:02:47.431743Z,hatchling-prompt,0.1.1,0,0,https://github.com/undergroundrap/hatchling,"Hatchling's authored prompt pack: the system prompt assembled from an explicit ordered section list, and the untrusted-data envelope for tool results. Prompt text lives here and nowhere else; the wor…"
+2026-10-11T20:07:19.24297Z,mwise,0.1.0,0,0,https://github.com/calebzulawski/mwise,mwise provides portable vectorized elementwise implementations of basic libm functions
+2026-10-11T20:08:31.194379Z,steam-language,1.0.0,0,0,https://github.com/saskenuba/SteamHelper-rs/tree/master/crates/steam-language,"Steam enums, message ids and messages, such as EResult, EUniverse and EMsg, generated from SteamKit."
+2026-10-11T20:09:56.830186Z,veloce-isobmff,0.1.7,0,0,https://github.com/magosam/veloce,Pure-Rust MP4/MOV (ISOBMFF) demuxer and muxer conforming to ISO/IEC 14496-12
+2026-10-11T20:10:17.221567Z,mentat_query_projector_traits,1.12.0,0,0,https://codeberg.org/gregburd/mentat,Traits for projecting Mentat query results
+2026-10-11T20:10:20.828553Z,mentat_public_traits,1.12.0,0,0,https://codeberg.org/gregburd/mentat,Public error and result types for the Mentat API
+2026-10-11T20:12:53.134135Z,hatchling-loop,0.1.1,0,0,https://github.com/undergroundrap/hatchling,"The agent tool-calling loop: LLM-agnostic model trait, validated tool registry, bounded iteration. The model proposes; the host validates and bounds."
+2026-10-11T20:14:40.853605Z,termo_core,0.1.0,0,0,https://github.com/OrgTermotubos/TermoCore,"Todos os clientes da Termotubos num crate só: um módulo por serviço e cada rota da API como uma função de uma linha, com o endereço resolvido pelo ambiente atual."
+2026-10-11T20:14:46.683701Z,mentat_query_projector,1.12.0,0,0,https://codeberg.org/gregburd/mentat,Projects SQL rows back into Mentat query results
+2026-10-11T20:17:41.30226Z,avr-embassy-usb,0.1.0,0,0,https://github.com/tristaan/avr-embassy-usb,Embasssy USB driver for atmega32u4
+2026-10-11T20:18:57.254709Z,crosswalk,1.1.2,0,0,https://github.com/terminusarchive/crosswalk,A network monitoring&overview TUI for Linux with 25 bundled themes
