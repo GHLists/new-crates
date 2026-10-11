@@ -8,53 +8,62 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 20:19 UTC
+## Latest list — 2026-10-11 21:19 UTC
 
-New crates published between 2026-10-11 19:19 UTC and 2026-10-11 20:19 UTC.
+New crates published between 2026-10-11 20:19 UTC and 2026-10-11 21:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-11T20-19-31-54943Z.csv)
+[Full CSV](data/new-crates-2026-10-11T21-19-29-835355Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-11 19:19:57 | [veloce-apv](https://crates.io/crates/veloce-apv) | 0.1.7 | 0 | Pure-Rust Advanced Professional Video (APV) metadata parser and profile validat… |
-| 2026-10-11 19:24:47 | [mentat_query_pull](https://crates.io/crates/mentat_query_pull) | 1.12.0 | 0 | Datomic-style pull expressions for Mentat |
-| 2026-10-11 19:26:56 | [pactole-core](https://crates.io/crates/pactole-core) | 0.1.0 | 0 | Core domain models, validation and reports for Pactole, a plain-text double-ent… |
-| 2026-10-11 19:26:57 | [tree-sitter-pactole](https://crates.io/crates/tree-sitter-pactole) | 0.1.0 | 0 | Tree-sitter grammar and Rust bindings for the Pactole ledger language. |
-| 2026-10-11 19:26:58 | [pactole-syntax](https://crates.io/crates/pactole-syntax) | 0.1.0 | 0 | Tolerant tree-sitter-based syntax analysis (spans and diagnostics) for Pactole… |
-| 2026-10-11 19:27:00 | [pactole-storage-fs](https://crates.io/crates/pactole-storage-fs) | 0.1.0 | 0 | Filesystem storage, parsing and canonical formatting for Pactole ledgers. |
-| 2026-10-11 19:27:03 | [pactole-cli](https://crates.io/crates/pactole-cli) | 0.1.0 | 0 | Command-line interface for Pactole, a plain-text double-entry accounting ledger. |
-| 2026-10-11 19:28:53 | [isle-lsp](https://crates.io/crates/isle-lsp) | 0.1.0 | 0 | Language server for ISLE, Cranelift's instruction selection and rewrite DSL |
-| 2026-10-11 19:30:01 | [veloce-av1](https://crates.io/crates/veloce-av1) | 0.1.7 | 0 | Pure-Rust AV1 Open Bitstream Unit (OBU) parser and sequence header reader |
-| 2026-10-11 19:34:46 | [mentat_query_sql](https://crates.io/crates/mentat_query_sql) | 1.12.0 | 0 | Turns Mentat's algebrized queries into SQL |
-| 2026-10-11 19:36:15 | [parterre-telemetry](https://crates.io/crates/parterre-telemetry) | 1.0.0 | 0 | Internal to parterre: what it asks and sends over the network, the update check… |
-| 2026-10-11 19:38:10 | [fpc](https://crates.io/crates/fpc) | 0.0.1 | 0 | Pick files and directories and copy their absolute paths |
-| 2026-10-11 19:39:58 | [purelymail](https://crates.io/crates/purelymail) | 0.1.0 | 0 | Command line interface to the Purelymail API, generated from its OpenAPI spec |
-| 2026-10-11 19:39:58 | [veloce-dnx](https://crates.io/crates/veloce-dnx) | 0.1.7 | 0 | Pure-Rust Avid DNxHD / DNxHR frame header parser and compression ID analyzer (S… |
-| 2026-10-11 19:44:20 | [hatchery-c2-protocol](https://crates.io/crates/hatchery-c2-protocol) | 0.2.0 | 0 | Stable, serde-only inventory and control wire contract for C2 relays and clients |
-| 2026-10-11 19:44:22 | [hatchery-server](https://crates.io/crates/hatchery-server) | 0.2.0 | 0 | Host for hatchery subservices (harness, m4a, memory): one supervisor process, l… |
-| 2026-10-11 19:44:24 | [hatchery-c2](https://crates.io/crates/hatchery-c2) | 0.2.0 | 0 | Relay daemon that aggregates node state/events and routes commands down to atta… |
-| 2026-10-11 19:44:24 | [hatchery-c2-client](https://crates.io/crates/hatchery-c2-client) | 0.2.0 | 0 | Typed client library and CLI (hatchery-c2ctl) for the C2 control and observer A… |
-| 2026-10-11 19:44:27 | [hatchery-node](https://crates.io/crates/hatchery-node) | 0.2.1 | 0 | Hatchery node: the complete node kit over the gate4agent transport (PTY/inline… |
-| 2026-10-11 19:44:47 | [mentat_script](https://crates.io/crates/mentat_script) | 1.12.0 | 0 | Backend-independent mino mentat.store/* scripting glue for Mentat |
-| 2026-10-11 19:47:12 | [brenn-scrub](https://crates.io/crates/brenn-scrub) | 0.1.0 | 0 | gitleaks wrapper: write-time, staged, pushed-range, and full-tree scrub scans |
-| 2026-10-11 19:48:26 | [qualia-dik](https://crates.io/crates/qualia-dik) | 0.1.0 | 0 | Device identity kit: P-256 device identity primitives and platform-native, hard… |
-| 2026-10-11 19:49:58 | [veloce-h264enc](https://crates.io/crates/veloce-h264enc) | 0.1.7 | 0 | Pure-Rust baseline H.264 / AVC video encoder |
-| 2026-10-11 19:59:59 | [veloce-hevc](https://crates.io/crates/veloce-hevc) | 0.1.7 | 0 | Pure-Rust H.265 / HEVC parameter set parser and NAL unit analyzer (ITU-T H.265) |
-| 2026-10-11 20:02:19 | [hatchling-sys](https://crates.io/crates/hatchling-sys) | 0.1.1 | 0 | The single crate allowed unsafe code: thin safe wrappers for Linux namespaces,… |
-| 2026-10-11 20:02:29 | [hatchling-core](https://crates.io/crates/hatchling-core) | 0.1.1 | 0 | Shared foundation for hatchling binaries: identity types, protocol framing, and… |
-| 2026-10-11 20:02:36 | [hatchling-channel](https://crates.io/crates/hatchling-channel) | 0.1.1 | 0 | Messaging channels for hatchling: the Channel trait and broker-stamped messages… |
-| 2026-10-11 20:02:41 | [hatchling-memory](https://crates.io/crates/hatchling-memory) | 0.1.1 | 0 | Broker-owned durable memory: scoped user/project/session items with explicit re… |
-| 2026-10-11 20:02:47 | [hatchling-prompt](https://crates.io/crates/hatchling-prompt) | 0.1.1 | 0 | Hatchling's authored prompt pack: the system prompt assembled from an explicit… |
-| 2026-10-11 20:07:19 | [mwise](https://crates.io/crates/mwise) | 0.1.0 | 0 | mwise provides portable vectorized elementwise implementations of basic libm fu… |
-| 2026-10-11 20:08:31 | [steam-language](https://crates.io/crates/steam-language) | 1.0.0 | 0 | Steam enums, message ids and messages, such as EResult, EUniverse and EMsg, gen… |
-| 2026-10-11 20:09:56 | [veloce-isobmff](https://crates.io/crates/veloce-isobmff) | 0.1.7 | 0 | Pure-Rust MP4/MOV (ISOBMFF) demuxer and muxer conforming to ISO/IEC 14496-12 |
-| 2026-10-11 20:10:17 | [mentat_query_projector_traits](https://crates.io/crates/mentat_query_projector_traits) | 1.12.0 | 0 | Traits for projecting Mentat query results |
-| 2026-10-11 20:10:20 | [mentat_public_traits](https://crates.io/crates/mentat_public_traits) | 1.12.0 | 0 | Public error and result types for the Mentat API |
-| 2026-10-11 20:12:53 | [hatchling-loop](https://crates.io/crates/hatchling-loop) | 0.1.1 | 0 | The agent tool-calling loop: LLM-agnostic model trait, validated tool registry,… |
-| 2026-10-11 20:14:40 | [termo_core](https://crates.io/crates/termo_core) | 0.1.0 | 0 | Todos os clientes da Termotubos num crate só: um módulo por serviço e cada rota… |
-| 2026-10-11 20:14:46 | [mentat_query_projector](https://crates.io/crates/mentat_query_projector) | 1.12.0 | 0 | Projects SQL rows back into Mentat query results |
-| 2026-10-11 20:17:41 | [avr-embassy-usb](https://crates.io/crates/avr-embassy-usb) | 0.1.0 | 0 | Embasssy USB driver for atmega32u4 |
-| 2026-10-11 20:18:57 | [crosswalk](https://crates.io/crates/crosswalk) | 1.1.2 | 0 | A network monitoring&overview TUI for Linux with 25 bundled themes |
+| 2026-10-11 20:19:58 | [veloce-prores](https://crates.io/crates/veloce-prores) | 0.1.7 | 0 | Pure-Rust Apple ProRes encoder and decoder conforming to Apple RDD 36 |
+| 2026-10-11 20:20:03 | [styled-qr](https://crates.io/crates/styled-qr) | 0.1.0 | 0 | Styled QR codes with exact anti-aliasing, logos, and PNG and SVG output |
+| 2026-10-11 20:22:58 | [hatchling-model](https://crates.io/crates/hatchling-model) | 0.1.1 | 0 | A real model provider for the agent loop: OpenAI-compatible chat-completions tr… |
+| 2026-10-11 20:24:48 | [mentat_transaction](https://crates.io/crates/mentat_transaction) | 1.12.0 | 0 | Transaction, query, and cache API over Mentat's store |
+| 2026-10-11 20:24:51 | [keyboard](https://crates.io/crates/keyboard) | 0.1.0 | 0 | A small, well-documented library for reading keyboard input on Windows. |
+| 2026-10-11 20:25:21 | [omw-runtime-python](https://crates.io/crates/omw-runtime-python) | 0.1.9 | 0 | The bundled Python interpreter component for the omw agent runtime |
+| 2026-10-11 20:25:27 | [omw-runtime-rhai](https://crates.io/crates/omw-runtime-rhai) | 0.1.9 | 0 | The bundled rhai interpreter component for the omw agent runtime |
+| 2026-10-11 20:29:58 | [veloce-vp9](https://crates.io/crates/veloce-vp9) | 0.1.7 | 0 | Pure-Rust VP9 bitstream parser, uncompressed header reader, and superframe unpa… |
+| 2026-10-11 20:33:07 | [hatchling-research](https://crates.io/crates/hatchling-research) | 0.1.1 | 0 | Deep research runs: a phased mode of the agent loop (plan, gather, synthesize,… |
+| 2026-10-11 20:39:56 | [veloce-frame](https://crates.io/crates/veloce-frame) | 0.1.7 | 0 | Core VideoFrame and AudioBuffer data structures for uncompressed multimedia data |
+| 2026-10-11 20:40:13 | [assertr-macros](https://crates.io/crates/assertr-macros) | 0.5.0 | 0 | Structural matcher and fluent assertion procedural macros. |
+| 2026-10-11 20:41:17 | [kraal](https://crates.io/crates/kraal) | 0.1.0 | 0 | A terminal workspace manager for SSH fleets and coding agents |
+| 2026-10-11 20:41:47 | [bagkit](https://crates.io/crates/bagkit) | 0.1.0 | 0 | Toolkit for the Dutch register of addresses and buildings (BAG). Convert to SQL… |
+| 2026-10-11 20:42:13 | [whelk-el](https://crates.io/crates/whelk-el) | 0.1.1 | 0 | OWL 2 EL reasoner derived from Whelk and whelk-rs; portable, no I/O, optional p… |
+| 2026-10-11 20:42:46 | [hatchery-bidi-relay](https://crates.io/crates/hatchery-bidi-relay) | 0.2.0 | 0 | C2 byte relay: HTTP opens a session, WebSocket forwards opaque frame bytes one… |
+| 2026-10-11 20:42:46 | [ontomark-compile](https://crates.io/crates/ontomark-compile) | 0.1.2 | 0 | Compile Markdown ontology vaults to RDF 1.1 Turtle, JSON-LD 1.1, SHACL, NGG1 gr… |
+| 2026-10-11 20:42:53 | [hatchery-bidi-client](https://crates.io/crates/hatchery-bidi-client) | 0.2.0 | 0 | HQ client for the bidirectional browser stream. Dials C2 only: receives frame b… |
+| 2026-10-11 20:43:18 | [hatchling-agent](https://crates.io/crates/hatchling-agent) | 0.1.1 | 0 | The agent binary that runs inside a hatchling cell |
+| 2026-10-11 20:44:46 | [mentatdb](https://crates.io/crates/mentatdb) | 1.12.0 | 0 | A Datomic-compatible Datalog triple store on SQLite (the embedded Mentat engine… |
+| 2026-10-11 20:46:40 | [ontomark-parse](https://crates.io/crates/ontomark-parse) | 0.1.0 | 0 | Lossless Markdown document model for Obsidian pages: frontmatter spans, body li… |
+| 2026-10-11 20:46:49 | [ontomark-model](https://crates.io/crates/ontomark-model) | 0.1.0 | 0 | Typed ontology model derived from Markdown pages: explicit entity kinds, full p… |
+| 2026-10-11 20:46:59 | [ontomark-reason](https://crates.io/crates/ontomark-reason) | 0.1.1 | 0 | ontomark: OWL 2 EL profile check and classification facade over whelk-el |
+| 2026-10-11 20:47:05 | [bcinr-guarded](https://crates.io/crates/bcinr-guarded) | 26.10.11 | 0 | Rust projections of the bcinr admitted semantic graph. Generated by ggen from o… |
+| 2026-10-11 20:49:57 | [veloce-h264](https://crates.io/crates/veloce-h264) | 0.1.7 | 0 | Pure-Rust H.264 / AVC NAL unit parser, SPS/PPS decoder, and bitstream analyzer |
+| 2026-10-11 20:52:35 | [yggdryl-market](https://crates.io/crates/yggdryl-market) | 0.1.22 | 0 | Market data for yggdryl: the four market enum kinds, the identifiers, the produ… |
+| 2026-10-11 20:52:54 | [yggdryl-fix](https://crates.io/crates/yggdryl-fix) | 0.1.22 | 0 | FIX for yggdryl: the FIX dictionary registry and its store, the codec, its mess… |
+| 2026-10-11 20:53:24 | [hatchling-artifact](https://crates.io/crates/hatchling-artifact) | 0.1.1 | 0 | The artifact pipeline core: pinned build requests, broker-asserted provenance,… |
+| 2026-10-11 20:54:49 | [mentat_cli](https://crates.io/crates/mentat_cli) | 1.12.0 | 0 | Interactive command-line REPL for the embedded Mentat store |
+| 2026-10-11 20:56:44 | [vesperan](https://crates.io/crates/vesperan) | 0.1.1 | 0 | Corporate systems substrate and internal policy primitives for Vesperan Holdings |
+| 2026-10-11 20:56:48 | [zerodays](https://crates.io/crates/zerodays) | 0.1.1 | 0 | Security research and vulnerability tracking primitives |
+| 2026-10-11 20:57:03 | [lsps-types](https://crates.io/crates/lsps-types) | 0.7.0-alpha.0 | 0 | LSPS0 and LSPS2 protocol types and the LSPS2 opening fee computation, shared by… |
+| 2026-10-11 20:57:26 | [waywe_dhall_proc_macros](https://crates.io/crates/waywe_dhall_proc_macros) | 0.6.1 | 0 | Macros for the waywe_serde_dhall crate |
+| 2026-10-11 20:57:33 | [waywe_dhall](https://crates.io/crates/waywe_dhall) | 0.13.0 | 0 | Implementation of the Dhall configuration language |
+| 2026-10-11 20:57:34 | [rum-meter](https://crates.io/crates/rum-meter) | 0.1.0 | 0 | Estimate billable HCP Terraform RUM from local state files |
+| 2026-10-11 20:57:53 | [waywe_serde_dhall](https://crates.io/crates/waywe_serde_dhall) | 0.13.0 | 0 | Dhall support for serde |
+| 2026-10-11 20:59:14 | [graphing-library-core](https://crates.io/crates/graphing-library-core) | 0.10.0 | 0 | Graph data model, neighbourhood cache and provisional preview layer for graphin… |
+| 2026-10-11 20:59:14 | [graphing-library-style](https://crates.io/crates/graphing-library-style) | 0.10.0 | 0 | Scene model, animation and declarative styling for graphing-library. |
+| 2026-10-11 20:59:16 | [graphing-library-interaction](https://crates.io/crates/graphing-library-interaction) | 0.10.0 | 0 | Navigation and the radial focus controller for graphing-library. |
+| 2026-10-11 20:59:16 | [graphing-library-layout](https://crates.io/crates/graphing-library-layout) | 0.10.0 | 0 | Barnes-Hut force simulation and radial layout for graphing-library. |
+| 2026-10-11 20:59:17 | [graphing-library-render](https://crates.io/crates/graphing-library-render) | 0.10.0 | 0 | WebGL2/wgpu renderer for graphing-library — nodes, edges, halos and labels. |
+| 2026-10-11 20:59:57 | [veloce-media](https://crates.io/crates/veloce-media) | 0.1.7 | 0 | Unified high-level multimedia file abstraction, stream probing, and frame decod… |
+| 2026-10-11 21:01:21 | [vital](https://crates.io/crates/vital) | 0.0.1 | 0 | Rust client for Vital Neuro EEG headphones over BLE using the Web Bluetooth API |
+| 2026-10-11 21:03:35 | [hatchling-vault](https://crates.io/crates/hatchling-vault) | 0.1.1 | 0 | Broker-owned credential store: validated secret names, zeroizing secrets, atomi… |
+| 2026-10-11 21:07:43 | [nostd-multipart](https://crates.io/crates/nostd-multipart) | 0.1.0 | 0 | Heap-free, panic-free, streaming multipart/form-data parser and encoder for no_… |
+| 2026-10-11 21:10:00 | [veloce-codecs](https://crates.io/crates/veloce-codecs) | 0.1.7 | 0 | Unified codecs dispatch hub and multi-format registry for Veloce multimedia eng… |
+| 2026-10-11 21:10:52 | [anybox-rs](https://crates.io/crates/anybox-rs) | 0.1.0 | 0 | one API for the most popular passthrough boxes |
+| 2026-10-11 21:13:25 | [burn-speech-training](https://crates.io/crates/burn-speech-training) | 0.3.0 | 0 | Speech model training on Burn: MFCC features, CTC training on LibriSpeech, pron… |
+| 2026-10-11 21:13:45 | [hatchling-egress](https://crates.io/crates/hatchling-egress) | 0.1.1 | 0 | Egress proxy: surrogate-validated, allowlisted outbound network access. The age… |
 
 ## Data source
 
