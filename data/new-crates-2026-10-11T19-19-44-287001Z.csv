@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T18:21:23.214155Z,restrace,0.1.0,0,0,https://github.com/lpenz/restrace,Run a command under strace and emit the parsed system calls
+2026-10-11T18:24:47.398511Z,mino_gc,0.5.1,0,0,https://github.com/Manishearth/rust-gc,Tracing garbage collector plugin for Rust.
+2026-10-11T18:27:28.016286Z,ssz-merkle,0.1.0,0,0,https://github.com/Naveen-6087/ssz-merkle,"SSZ serialization, Merkleization, generalized indices and Merkle proofs (single, multi and light-client) for Ethereum consensus types, with no_std support"
+2026-10-11T18:29:58.573242Z,veloce-mxf,0.1.7,0,0,https://github.com/magosam/veloce,Pure-Rust Material eXchange Format (MXF) demuxer and OP-Atom parser (SMPTE ST 377)
+2026-10-11T18:34:47.998615Z,mentat_core,1.12.0,0,0,https://codeberg.org/gregburd/mentat,Core types and helpers for Mentat (the embedded Datomic-compatible store)
+2026-10-11T18:39:23.600027Z,ai-tools,0.6.3,0,0,https://github.com/hatimthayyil/ai-tools,All-in-one AI tool: permanent memory for AI agents
+2026-10-11T18:39:57.340063Z,veloce-ogg,0.1.7,0,0,https://github.com/magosam/veloce,"Pure-Rust Ogg container demuxer, page parser, and CRC32 engine (RFC 3533)"
+2026-10-11T18:42:00.96057Z,ripwire,0.1.2,0,0,https://github.com/casonadams/ripwire,High-throughput agent context router and deterministic static analysis engine
+2026-10-11T18:42:51.818496Z,opys-minecraft-resources,0.4.2,0,0,https://github.com/harmoniya-net/opys,"Mods, resource packs, shaders and plugins for opys: one TOML file, a list per directory and per side."
+2026-10-11T18:44:47.969746Z,mentat_query_algebrizer,1.12.0,0,0,https://codeberg.org/gregburd/mentat,Translates Mentat Datalog into an algebraic query form
+2026-10-11T18:49:30.977185Z,egui-pop,0.0.1,0,0,https://github.com/quazardous/egui-pop,"Themable, accessible, agent-drivable components for egui: design tokens, dialogs, menus, parameter widgets, a node graph view (not an official egui crate; early, nothing usable yet)"
+2026-10-11T18:49:55.935102Z,veloce-opus,0.1.7,0,0,https://github.com/magosam/veloce,"Pure-Rust Opus packet framing parser, OpusHead decoder, and TOC reader (RFC 6716 / RFC 7845)"
+2026-10-11T18:49:57.636798Z,dd-metric-bill,0.1.1,0,0,https://github.com/qwpp7g79y4-maker/dd-metric-bill,Estimate how many billable Datadog custom metrics a sample produces.
+2026-10-11T18:51:25.696462Z,hyprscope,0.3.3,0,0,https://github.com/terminusarchive/hyprscope,"a TUI for viewing hyprland session internals: windows, monitors, events, log and config."
+2026-10-11T18:54:51.972101Z,mentat_sql,1.12.0,0,0,https://codeberg.org/gregburd/mentat,SQL building and value conversion for Mentat
+2026-10-11T18:59:58.039956Z,veloce-time,0.1.7,0,0,https://github.com/magosam/veloce,Rational time arithmetic and SMPTE timecode calculation for precision multimedia processing
+2026-10-11T19:00:39.368897Z,erblite,0.5.0,0,0,https://github.com/OpenC3/erblite,Sandboxed ERB-syntax template engine running a safe subset of Ruby
+2026-10-11T19:03:52.91941Z,ontomark-ngg1,0.1.0,0,0,https://github.com/DreamLab-AI/ontomark,"NGG1 binary graph-tier format: constants, record types, encoder and zero-copy decoder. Dependency-free, no unsafe."
+2026-10-11T19:05:28.738293Z,sprout-prober,0.1.0,0,0,https://codeberg.org/cerealdevv/sprout,sprout - system probe output
+2026-10-11T19:07:47.121546Z,mino-rs,1.12.0,0,0,https://codeberg.org/gregburd/mentat,"Pure-Rust implementation of the mino Clojure dialect (reader, evaluator, persistent collections, core.clj stdlib, EAVT store), maintained as part of Mentat."
+2026-10-11T19:09:58.06162Z,veloce-aac,0.1.7,0,0,https://github.com/magosam/veloce,Pure-Rust Advanced Audio Coding (AAC) AudioSpecificConfig parser and decoder
+2026-10-11T19:14:46.797773Z,mentat_db,1.12.0,0,0,https://codeberg.org/gregburd/mentat,"Mentat's SQLite schema, transactor storage, and bootstrap"
+2026-10-11T19:19:25.419734Z,gate4agent-node-core,0.5.0,0,0,,"Transport core of the gate4agent node: platform endpoints, spawn profiles, kernel WireGuard bring-up"
