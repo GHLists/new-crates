@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T02:20:47.118417Z,cvdb,0.1.0,0,0,https://git.corbet.ch/corbet-libs/cvdb,Streaming JSON Lines reader and compact value document command
+2026-10-11T02:23:49.470601Z,vfsi-posix,0.1.0,0,0,https://github.com/vmingchen/vnfs,POSIX syscall executor and rooted filesystem backend for VFSI
+2026-10-11T02:23:52.55759Z,vfsi-uring,0.1.0,0,0,https://github.com/vmingchen/vnfs,Batched Linux io_uring filesystem backend for VFSI
+2026-10-11T02:28:02.443393Z,experiment-accelerator,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Validated accelerator and distributed-work adapters for experiment-core
+2026-10-11T02:32:33.196927Z,fatoora-cli,0.4.0,0,0,https://github.com/mqqz/fatoority,Command-line interface for the fatoora ZATCA SDK
+2026-10-11T02:36:22.862919Z,restful-macros,0.1.0,0,0,https://github.com/musajingo/restful,Procedural macros for the restful crate: query attributes and response derives
+2026-10-11T02:36:26.342408Z,restful,0.1.0,0,0,https://github.com/musajingo/restful,"REST API helpers: validated Axum extractors, response envelopes, pagination, ordering, and field selection"
+2026-10-11T02:39:21.303254Z,experiment-merkle,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Context-bound Merkle commitments and spot checks for distributed experiments
+2026-10-11T02:42:41.928363Z,ghtui,0.1.0,0,0,https://github.com/gold-silver-copper/ghtui,"A keyboard-driven terminal client for GitHub, with a pull request diff viewer that goes further than GitHub's"
+2026-10-11T02:47:55.676571Z,sdd-integrations,1.0.0,0,0,https://github.com/alexandesigner/sdd-layer,"Adapters CLI-first para sistemas externos (GitHub via gh, Atlassian via acli)"
+2026-10-11T02:50:34.764512Z,harmonic-dynamics,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,"Safe Kuramoto, quaternion, spherical Lohe, and harmonic sequence dynamics"
+2026-10-11T02:52:49.357195Z,ochrepad-core,0.1.0,0,0,https://github.com/xor295/ochrepad,Text model and editing engine of the ochrepad text editor (internal; no stable API)
+2026-10-11T02:52:51.279536Z,ochrepad-fileio,0.1.0,0,0,https://github.com/xor295/ochrepad,Encoding-preserving loading and atomic saving for the ochrepad text editor (internal; no stable API)
+2026-10-11T02:52:51.756233Z,ochrepad-syntax,0.1.0,0,0,https://github.com/xor295/ochrepad,Incremental syntect highlighting for the ochrepad text editor (internal; no stable API)
+2026-10-11T02:52:52.831064Z,ochrepad,0.1.0,0,0,https://github.com/xor295/ochrepad,"A fast, native text editor in the spirit of Notepad++"
+2026-10-11T02:56:20.151336Z,hotkv-client,1.0.0,0,0,https://github.com/hotkv-ltd/hotkv-rust-client,"A high-performance Rust client for HotKV, a RESP2/RESP3-compatible in-memory data store with built-in AI and LLM-serving features."
+2026-10-11T03:01:29.152976Z,keldysh-green,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Checked dense reference algorithms for real-time nonequilibrium Green functions
+2026-10-11T03:03:00.43524Z,nanosandbox-mcp,0.3.0,0,0,https://github.com/Erio-Harrison/nanosandbox,MCP server (stdio) that runs commands in a nanosandbox sandbox
+2026-10-11T03:04:21.105444Z,seiza-draw,0.1.0,0,0,https://github.com/theatrus/seiza,"Anti-aliased lines, ellipses and text with an embedded Inter font, for marking astronomical images"
+2026-10-11T03:04:37.11952Z,seiza-parallax,0.2.0,0,0,https://github.com/theatrus/seiza,"Parallax fly-through videos of astrophotographs, with stars placed at their Gaia distances"
+2026-10-11T03:05:15.249003Z,codetopo-core,0.3.0,0,0,,"Typed graph core for codetopo: schema types, validated builder, deterministic queries, snapshots, and layout/render"
+2026-10-11T03:05:36.370102Z,codetopo-extract,0.3.0,0,0,,"Tree-sitter extraction for codetopo: symbols, calls, imports, reads/writes, and heritage from Rust, TypeScript/JavaScript, and Python sources"
+2026-10-11T03:05:54.887767Z,codetopo-store,0.3.0,0,0,,"SQLite store for codetopo: graph persistence, hash-chained audit log, and HMAC proof certificates with verified restore"
+2026-10-11T03:06:43.126883Z,codetopo-cli,0.3.0,0,0,,"The codetopo command line: index a repository into a queryable code graph, then search, trace, prove, and render it — deterministic and read-only"
+2026-10-11T03:08:38.477399Z,codetopo-server,0.3.0,0,0,,"codetopo's HTTP API server: the same code-graph queries over REST, with bearer-key auth and per-key metering"
+2026-10-11T03:10:08.208979Z,reticulum-rs-zeromq,0.14.0,0,0,https://github.com/FreeTAKTeam/LXMF-rs,"LXMF-rs maintained ZeroMQ transport with bounded frames, connections, and handshake ownership."
+2026-10-11T03:12:10.104375Z,majorana-fermions,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Sparse Majorana and fermionic operator algebra for quantum lattice models
+2026-10-11T03:12:12.174664Z,hyprterm,0.1.0,0,0,,"A window compositor for the terminal: tiling, motion, detachable sessions, themes, every action a command"
+2026-10-11T03:14:17.745281Z,mli-contract-macros,0.1.0,0,0,https://github.com/ZENG3LD/mylittleindicators,contract_universe! proc-macro for the mylittleindicators contract engine.
+2026-10-11T03:14:34.874103Z,agent-coexist,0.3.0,0,0,https://github.com/RatmmmhSquishyRat/agent-coexist,Local markdown collaboration CLI for agents
+2026-10-11T03:16:40.186848Z,mediatek-optical,0.5.0,0,0,https://github.com/MattJackson/mediatek-optical,"MediaTek MT1959/MT1939 optical drive (BD/DVD) protocol: command encoding, identity and flash sequences over any SCSI transport, chip detection, AES-CMAC integrity, and OEM image reconstruction. no_st…"
+2026-10-11T03:18:32.480776Z,codetopo-mcp,0.3.0,0,0,,"codetopo as an MCP server (stdio): code-graph search, dependency closures, blast radius, and proof verification for AI agents"
