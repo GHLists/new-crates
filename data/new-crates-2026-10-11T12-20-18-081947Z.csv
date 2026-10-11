@@ -1,0 +1,58 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T11:20:20.715377Z,coolsigma,1.0.0,0,0,https://github.com/gg582/coolsigma,Closed-form combinatorial and polynomial series sums with exact u128 arithmetic
+2026-10-11T11:23:14.641282Z,omnicoach,0.1.0,0,0,https://github.com/Kajiih/omnicoach,"Lightweight, high-signal static analysis and command linter for Python and Rust"
+2026-10-11T11:24:00.186944Z,peon-burrow,0.1.0,0,0,https://github.com/mail-peon/peon-burrow,"WebSocket to TCP/TLS relay with a service installer and self update, plus the burrow CLI"
+2026-10-11T11:29:55.609152Z,bevy_shape_bms_bindings,0.22.0,0,0,https://github.com/makspll/bevy_mod_scripting,Automatically generated bindings for bevy_shape crate
+2026-10-11T11:32:08.580364Z,the-fourth-utils,0.1.0,0,0,https://github.com/KGAFT/the-fourth-utils,A set of utils for the-fourth-server
+2026-10-11T11:37:45.032183Z,bevy_extract_bms_bindings,0.22.0,0,0,https://github.com/makspll/bevy_mod_scripting,Automatically generated bindings for bevy_extract crate
+2026-10-11T11:39:58.367082Z,cf-gears-toolkit-taskward,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"ToolKit runtime for long-lived background workers: pacing, wakeups, failure policy, bounded shutdown"
+2026-10-11T11:44:16.924001Z,whp,0.0.1,0,0,https://github.com/soulstompp/whp,"PHP 8 templates run as requests: each page gives PHP's own bytes or is refused at the line it names. The library, with no I/O of its own."
+2026-10-11T11:44:22.005161Z,whp-tokio,0.0.1,0,0,https://github.com/soulstompp/whp,"The whp command: PHP 8 templates run as requests on the tokio stack, from the command line (whp run) or over HTTP (whp serve)."
+2026-10-11T11:47:03.670341Z,bitrouter-orchestrator,1.0.0-alpha.34,0,0,https://github.com/bitrouter/bitrouter,BRO native coding agent engine
+2026-10-11T11:50:19.995303Z,seastar-rpc,0.1.0,0,0,https://github.com/sitano/seastar-rpc-rs,Seastar RPC async Rust server/client
+2026-10-11T11:51:10.112739Z,j-wordle,0.0.3,0,0,,Wordle TUI
+2026-10-11T11:51:58.885008Z,willbooster-tree-sitter-css,0.0.0-placeholder.0,0,0,https://github.com/WillBooster/tree-sitter-css,Placeholder for WillBooster's fork of tree-sitter-css; the first release is 1.0.0
+2026-10-11T11:52:00.791934Z,willbooster-tree-sitter-html,0.0.0-placeholder.0,0,0,https://github.com/WillBooster/tree-sitter-html,Placeholder for WillBooster's fork of tree-sitter-html; the first release is 1.0.0
+2026-10-11T11:52:02.667179Z,willbooster-tree-sitter-embedded-template,0.0.0-placeholder.0,0,0,https://github.com/WillBooster/tree-sitter-embedded-template,Placeholder for WillBooster's fork of tree-sitter-embedded-template; the first release is 1.0.0
+2026-10-11T11:52:05.196317Z,willbooster-tree-sitter-php,0.0.0-placeholder.0,0,0,https://github.com/WillBooster/tree-sitter-php,Placeholder for WillBooster's fork of tree-sitter-php; the first release is 1.0.0
+2026-10-11T11:52:07.209806Z,willbooster-tree-sitter-haskell,0.0.0-placeholder.0,0,0,https://github.com/WillBooster/tree-sitter-haskell,Placeholder for WillBooster's fork of tree-sitter-haskell; the first release is 1.0.0
+2026-10-11T11:54:12.246121Z,sift-query-algorithm,0.1.0,0,0,https://github.com/wsafight/sift-query.git,Domain-independent deterministic algorithms and bounded data structures
+2026-10-11T11:54:45.869035Z,sift-query-core,0.1.0,0,0,https://github.com/wsafight/sift-query.git,Backend-independent query model and strict parameter parser for SiftQuery
+2026-10-11T11:54:58.889724Z,sift-query-derive,0.1.0,0,0,https://github.com/wsafight/sift-query.git,Derive macros for SiftQuery entities
+2026-10-11T11:55:36.901942Z,sift-query-sqlx-common,0.1.0,0,0,https://github.com/wsafight/sift-query.git,Shared portable SQL rendering and execution for SiftQuery backends
+2026-10-11T11:55:43.393447Z,fstclip,0.1.0,0,0,https://github.com/MaxXSoft/fst-tools,Clip from FST waveform.
+2026-10-11T11:56:10.592083Z,fstfind,0.1.0,0,0,https://github.com/MaxXSoft/fst-tools,Find the values of signals from FST waveform.
+2026-10-11T11:56:36.304799Z,sift-query-sqlx,0.1.0,0,0,https://github.com/wsafight/sift-query.git,PostgreSQL renderer and sqlx executor for SiftQuery
+2026-10-11T11:56:37.343992Z,fstprobe,0.1.0,0,0,https://github.com/MaxXSoft/fst-tools,Display information about the contents of FST waveform.
+2026-10-11T11:56:48.684412Z,offgrid-sys,0.2.0,0,0,https://github.com/Pinta365/offgrid,"Low-level FFI bindings to llama.cpp (Vulkan/CPU), built from source."
+2026-10-11T11:56:51.087129Z,offgrid,0.2.0,0,0,https://github.com/Pinta365/offgrid,Embeddable offline AI core: safe Rust API over llama.cpp
+2026-10-11T11:56:52.781717Z,offgrid-server,0.2.0,0,0,https://github.com/Pinta365/offgrid,OpenAI-compatible HTTP sidecar for offgrid
+2026-10-11T11:57:03.048522Z,fstquery,0.1.0,0,0,https://github.com/MaxXSoft/fst-tools,Query FST waveform events and sampled state with bounded SQL and JSON output.
+2026-10-11T11:57:26.100604Z,sift-query-mysql,0.1.0,0,0,https://github.com/wsafight/sift-query.git,MySQL and MariaDB sqlx backend for SiftQuery
+2026-10-11T11:58:11.618505Z,dotkit,0.1.0,0,0,https://github.com/El3ssar/dotkit,"Your dotfiles, packages and shell on every machine: a chezmoi-style dotfile manager with packages and ssh servers built in"
+2026-10-11T11:59:01.066674Z,rr-aichat,1.0.0,0,0,https://github.com/ramarivera/aichat,"Independently maintained AIChat fork: LLM CLI, shell assistant, RAG, tools and agents"
+2026-10-11T12:00:28.547595Z,willbooster-tree-sitter-dart,0.0.0-placeholder.0,0,0,https://github.com/WillBooster/tree-sitter-dart,Placeholder for WillBooster's fork of tree-sitter-dart; the first release is 1.0.0
+2026-10-11T12:01:59.003883Z,cordis-kernel,0.1.0,0,0,https://github.com/validation-engineering/cordis-verus,Executable Verus-verified Cordis lifecycle kernel
+2026-10-11T12:02:04.380008Z,topology-checker-core,0.1.0,0,0,https://github.com/alecsandrei/topology-checker,GDAL-free planar topology validation for geo geometries
+2026-10-11T12:02:06.451146Z,topology-checker-io,0.1.0,0,0,https://github.com/alecsandrei/topology-checker,"Vector GIS I/O for topology-checker: GeoPackage, Shapefile, GeoJSON, FlatGeobuf, GeoParquet, KML and GPX"
+2026-10-11T12:02:08.845854Z,topology-checker,0.1.0,0,0,https://github.com/alecsandrei/topology-checker,"Check GIS vector data for topology errors such as overlaps, gaps and dangles"
+2026-10-11T12:02:37.091214Z,cordis-driver,0.1.0,0,0,https://github.com/validation-engineering/cordis-verus,Value-independent Cordis lifecycle command driver
+2026-10-11T12:03:00.846792Z,aphrody-boq,1.4.4,0,0,https://github.com/aphrody-labs/bun,"Google Boq batchexecute codec shared by the Gemini web and NotebookLM clients: f.req encoder, anti-XSSI strip, length-prefixed chunk parser, wrb.fr envelope extraction."
+2026-10-11T12:03:28.004629Z,aphrody-proc,1.4.4,0,0,https://github.com/aphrody-labs/aphrody,"Process supervision primitives shared by the llama-server supervisor, the command sandbox and the training runner: process groups that die with their owner (Linux session + killpg, Windows Job Object…"
+2026-10-11T12:03:30.015117Z,cordis-verus,0.1.0,0,0,https://github.com/validation-engineering/cordis-verus,Typed Rust Cordis runtime backed by a verified lifecycle kernel
+2026-10-11T12:03:38.194333Z,aphrody-toolcall,1.4.4,0,0,https://github.com/aphrody-labs/aphrody,"Tool catalogue model for the aphrody agent engine: ToolDefinition (name / description / JSON-schema input & output), the async ToolExecutor trait, ToolExposure (Direct / Deferred / DirectModelOnly /…"
+2026-10-11T12:03:39.372559Z,writs,0.1.0,0,0,https://github.com/mrbandler/writs,The writs library.
+2026-10-11T12:04:42.632234Z,sift-query-sqlite,0.1.0,0,0,https://github.com/wsafight/sift-query.git,SQLite sqlx backend for SiftQuery
+2026-10-11T12:05:00.749989Z,cordis-plugin-api,0.1.0,0,0,https://github.com/validation-engineering/cordis-verus,Versioned C ABI and Rust SDK for Cordis native plugins
+2026-10-11T12:06:54.962733Z,aphrody-model-client,1.4.4,0,0,https://github.com/aphrody-labs/aphrody,"Provider abstraction for the aphrody agent engine: the async `ModelClient` trait, a unified `ModelStreamEvent` (text delta / tool call / reasoning / completed+usage), and a Gemini generateContent str…"
+2026-10-11T12:07:07.443212Z,trfont,0.1.0,0,0,https://github.com/egakareta/terrarium,Bundled fonts and egui font definitions for Terrarium.
+2026-10-11T12:07:41.565961Z,trengine,0.1.0,0,0,https://github.com/egakareta/terrarium,eframe and wgpu application runtime for Terrarium.
+2026-10-11T12:10:18.424944Z,plskit-bind,0.7.0,0,0,https://github.com/pawlenartowicz/plskit,"Language-neutral binding layer for plskit: one call() entry point, strict argument validation and result records, used by the Python and R wrappers."
+2026-10-11T12:10:41.020431Z,willbooster-tree-sitter-zig,0.0.0-placeholder.0,0,0,https://github.com/WillBooster/tree-sitter-zig,Placeholder for WillBooster's fork of tree-sitter-zig; the first release is 1.0.0
+2026-10-11T12:11:07.766615Z,cranpose-gl-templates,0.9.25,0,0,https://github.com/samoylenkodmitry/cranpose,Writes GLSL templates of WGSL shaders for WebGL2 in a build script
+2026-10-11T12:11:09.073204Z,aphrody-gemini-web,1.4.4,0,0,https://github.com/aphrody-labs/bun,"Gemini web app (gemini.google.com) Boq RPC client — cookie auth, page-bootstrap token scrape, batchexecute envelope codec. Mirrors the notebooklm crate transport."
+2026-10-11T12:12:49.64954Z,aphrody-antigravity,1.4.4,0,0,https://github.com/aphrody-labs/bun,"Native Rust SDK for Antigravity (Google AI Ultra / Gemini) — token extraction from Windows Credential Manager, OAuth refresh, typed HTTP client."
+2026-10-11T12:13:53.671671Z,browser-test-macros,0.6.0,0,0,https://github.com/lpotthast/browser-test,Attribute macros for browser-test.
+2026-10-11T12:14:23.653833Z,sift-query,0.1.0,0,0,https://github.com/wsafight/sift-query.git,"A parameter-driven, read-only query layer for Rust"
+2026-10-11T12:17:38.871315Z,two_three_tree,0.1.0,0,0,https://github.com/MatthijsRc/two_three_tree,An ordered map implemented with a 2-3 tree.
+2026-10-11T12:20:04.00264Z,aphrody-model-antigravity,1.4.4,0,0,https://github.com/aphrody-labs/bun,"Antigravity (Google AI Ultra / Cloud Code) ModelClient implementation for aphrody agent engine — keyless token re-read on 401, function calling, reasoning stream."
