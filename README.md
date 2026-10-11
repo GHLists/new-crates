@@ -8,49 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 15:19 UTC
+## Latest list — 2026-10-11 16:19 UTC
 
-New crates published between 2026-10-11 14:19 UTC and 2026-10-11 15:19 UTC.
+New crates published between 2026-10-11 15:19 UTC and 2026-10-11 16:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-11T15-19-36-255266Z.csv)
+[Full CSV](data/new-crates-2026-10-11T16-19-34-757904Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-11 14:28:27 | [rs-rich-web](https://crates.io/crates/rs-rich-web) | 0.0.1 | 0 | Serve rs-rich intuiTUIve apps, or any terminal program on a PTY, to a web brows… |
-| 2026-10-11 14:28:58 | [NoIPClient](https://crates.io/crates/NoIPClient) | 0.1.0 | 0 | No-IP dynamic DNS update client |
-| 2026-10-11 14:35:45 | [session-guard](https://crates.io/crates/session-guard) | 0.1.1 | 0 | Stolen session cookies become useless: rotating tokens with reuse detection and… |
-| 2026-10-11 14:44:58 | [stormflow](https://crates.io/crates/stormflow) | 0.1.0 | 0 | A CFD solver specialized for actuator line simulations with the Stormbird libra… |
-| 2026-10-11 14:49:42 | [licensechain](https://crates.io/crates/licensechain) | 1.0.1 | 0 | LicenseChain Rust SDK for license management and validation |
-| 2026-10-11 14:50:59 | [vrml97](https://crates.io/crates/vrml97) | 0.1.0 | 0 | VRML97 / X3D classic-encoding parser and writer, a faithful Rust port of X_ITE'… |
-| 2026-10-11 14:52:32 | [relaxng-model](https://crates.io/crates/relaxng-model) | 0.1.0 | 0 | Data model for RELAX NG schemas |
-| 2026-10-11 14:52:50 | [relaxng-syntax](https://crates.io/crates/relaxng-syntax) | 0.1.0 | 0 | RELAX NG XML syntax parser |
-| 2026-10-11 14:53:04 | [relaxng-validator](https://crates.io/crates/relaxng-validator) | 0.1.0 | 0 | XML document validation against RELAX NG schemas |
-| 2026-10-11 14:55:09 | [mrz_verifier](https://crates.io/crates/mrz_verifier) | 0.2.0 | 0 | A Rust library for validating the Machine Readable Zone (MRZ) of electronic Mac… |
-| 2026-10-11 14:55:32 | [relaxng-rs](https://crates.io/crates/relaxng-rs) | 0.1.0 | 0 | Production-oriented RELAX NG XML schema parsing and validation |
-| 2026-10-11 14:55:56 | [x3d](https://crates.io/crates/x3d) | 0.1.0 | 0 | X3D and VRML97 node reference (all node types, fields, defaults, components, pr… |
-| 2026-10-11 14:55:59 | [vrml](https://crates.io/crates/vrml) | 0.1.0 | 0 | VRML / X3D classic-encoding toolkit: version detection, plus a `vrml` CLI to ch… |
-| 2026-10-11 14:58:04 | [qring](https://crates.io/crates/qring) | 0.1.0 | 0 | A high-performance, lock-free, zero-allocation SPSC queue with cache-aligned at… |
-| 2026-10-11 14:58:06 | [relaxng-cli](https://crates.io/crates/relaxng-cli) | 0.1.0 | 0 | Command-line RELAX NG schema checker and XML validator |
-| 2026-10-11 14:58:37 | [actl-mcp](https://crates.io/crates/actl-mcp) | 0.2.2 | 0 | actl MCP adapter: remote access service for the controlled Windows device (docs… |
-| 2026-10-11 15:02:46 | [ikigai-layers](https://crates.io/crates/ikigai-layers) | 0.2.0 | 0 | A layer host for ikigai: independent shared spaces between participants (`urn:l… |
-| 2026-10-11 15:03:04 | [showViewer](https://crates.io/crates/showViewer) | 0.1.0 | 0 | a simple vj loop renderer |
-| 2026-10-11 15:06:59 | [thole-core](https://crates.io/crates/thole-core) | 0.1.0 | 0 | Pure Rust, no C/Fortran: shared building blocks of the thole crates. |
-| 2026-10-11 15:07:01 | [thole-linalg](https://crates.io/crates/thole-linalg) | 0.1.0 | 0 | Pure Rust, no C/Fortran: dense linear algebra. |
-| 2026-10-11 15:07:03 | [thole-ode](https://crates.io/crates/thole-ode) | 0.1.0 | 0 | Pure Rust, no C/Fortran: ordinary differential equations. |
-| 2026-10-11 15:07:05 | [thole-quad](https://crates.io/crates/thole-quad) | 0.1.0 | 0 | Pure Rust, no C/Fortran: numerical integration. |
-| 2026-10-11 15:07:06 | [thole-roots](https://crates.io/crates/thole-roots) | 0.1.0 | 0 | Pure Rust, no C/Fortran: root finding. |
-| 2026-10-11 15:11:10 | [intuit](https://crates.io/crates/intuit) | 0.0.1 | 0 | Bounded, allocation-free intuitionistic forcing over finite information models. |
-| 2026-10-11 15:13:23 | [egui-text-outline](https://crates.io/crates/egui-text-outline) | 0.1.0 | 0 | Outlined text widgets for egui. |
-| 2026-10-11 15:13:30 | [tregui](https://crates.io/crates/tregui) | 0.1.0 | 0 | Curated egui widgets used by Terrarium. |
-| 2026-10-11 15:13:51 | [zun-frontend](https://crates.io/crates/zun-frontend) | 0.1.0 | 0 | Lexer, parser, AST and diagnostics for the Zun language. |
-| 2026-10-11 15:13:54 | [zun-lsp](https://crates.io/crates/zun-lsp) | 0.1.0 | 0 | Language Server Protocol implementation for the Zun language. |
-| 2026-10-11 15:13:55 | [zun-runtime](https://crates.io/crates/zun-runtime) | 0.1.0 | 0 | Interpreter, module system and native standard library for the Zun language. |
-| 2026-10-11 15:13:57 | [zun-cli](https://crates.io/crates/zun-cli) | 0.1.0 | 0 | Command-line interface for the Zun language: REPL, run, serve and test. |
-| 2026-10-11 15:14:00 | [zun](https://crates.io/crates/zun) | 0.1.0 | 0 | A small, complete language for HTTP services: one file, one command, under 10 M… |
-| 2026-10-11 15:14:40 | [memory4agent](https://crates.io/crates/memory4agent) | 0.3.0 | 0 | Code-intelligence and memory infrastructure for coding agents: AST index, depen… |
-| 2026-10-11 15:15:22 | [gpui-updater-sparkle](https://crates.io/crates/gpui-updater-sparkle) | 0.2.0 | 0 | Sparkle (macOS) update driver for gpui-updater: hands checking, installing, and… |
-| 2026-10-11 15:17:09 | [thole](https://crates.io/crates/thole) | 0.1.0 | 0 | Pure Rust, no C/Fortran: scientific computing with every algorithm implemented… |
-| 2026-10-11 15:17:35 | [openmassspec-arrow](https://crates.io/crates/openmassspec-arrow) | 3.0.0 | 0 | Apache Arrow RecordBatch bridge for openmassspec-core spectrum records. |
+| 2026-10-11 15:20:33 | [wasix-net](https://crates.io/crates/wasix-net) | 0.1.0 | 0 | Loopback TCP sockets and a blocking HTTP/1.1 client for WASI programs in slicc'… |
+| 2026-10-11 15:23:27 | [nopeat-cli](https://crates.io/crates/nopeat-cli) | 2.1.4 | 0 | One analyzer for every bundler: analyse dist folders, stats.json and source maps |
+| 2026-10-11 15:23:31 | [nopeat-wasm](https://crates.io/crates/nopeat-wasm) | 2.1.4 | 0 | WASM bindings for the Nopeat engine (Phase 2; structure only for now) |
+| 2026-10-11 15:29:48 | [vta-external](https://crates.io/crates/vta-external) | 0.1.0 | 0 | VTA external accounts — the VTA as the key authority for cloud and third-party… |
+| 2026-10-11 15:30:24 | [wp_test_bump024_dep](https://crates.io/crates/wp_test_bump024_dep) | 0.2.1 | 0 | Test dep crate for BUG-024 |
+| 2026-10-11 15:30:32 | [lib_a](https://crates.io/crates/lib_a) | 0.2.1 | 0 | Test crate for publishing tests |
+| 2026-10-11 15:34:07 | [bevy-spnavd](https://crates.io/crates/bevy-spnavd) | 0.1.1 | 0 | A Bevy plugin for SpaceMouse devices via spnavd |
+| 2026-10-11 15:35:18 | [slicc-cdp-client](https://crates.io/crates/slicc-cdp-client) | 1.5.4 | 0 | Shared CDP connection for slicc-cdp CLIs |
+| 2026-10-11 15:35:32 | [slicc-cdp](https://crates.io/crates/slicc-cdp) | 1.5.4 | 0 | SLICC CDP client; installs the playwright-cli command |
+| 2026-10-11 15:35:43 | [curlwright](https://crates.io/crates/curlwright) | 1.5.4 | 0 | curl-style requests inside an already-open browser tab |
+| 2026-10-11 15:38:39 | [canibump](https://crates.io/crates/canibump) | 0.1.0 | 0 | Can I bump yet? Checks the upstream fixes your workarounds wait on and says whi… |
+| 2026-10-11 15:41:39 | [alkstore](https://crates.io/crates/alkstore) | 0.1.0 | 0 | The alkstore contract crate: one reactive store trait surface — notify, streams… |
+| 2026-10-11 15:41:55 | [alkstore-sqlite](https://crates.io/crates/alkstore-sqlite) | 0.1.0 | 0 | SQLite engine for alkstore: single-host, file-backed, over rusqlite (bundled) w… |
+| 2026-10-11 15:42:06 | [alkstore-postgres](https://crates.io/crates/alkstore-postgres) | 0.1.0 | 0 | Postgres engine for alkstore: multi-host native, natively async over tokio-post… |
+| 2026-10-11 15:42:12 | [alkstore-mem](https://crates.io/crates/alkstore-mem) | 0.1.0 | 0 | In-process memory engine for alkstore: honest-ephemeral — full contract surface… |
+| 2026-10-11 15:51:19 | [rust-runes](https://crates.io/crates/rust-runes) | 0.1.0 | 0 | A rule engine compatible with Grule's rule language (GRL) and execution model |
+| 2026-10-11 15:55:54 | [sylheti_phonetics](https://crates.io/crates/sylheti_phonetics) | 1.0.0 | 0 | High-performance Sylheti phonetic dictionary and transliteration engine for TTS… |
+| 2026-10-11 16:04:52 | [molar_vis_core](https://crates.io/crates/molar_vis_core) | 0.2.0 | 0 | Molecular visualization engine with GPU rendering and scene controls |
+| 2026-10-11 16:04:54 | [molar_vis](https://crates.io/crates/molar_vis) | 0.2.0 | 0 | Interactive molecular viewer with GPU rendering, PLY meshes, and editable colors |
+| 2026-10-11 16:04:59 | [editable_markdown_parser](https://crates.io/crates/editable_markdown_parser) | 0.0.2 | 0 | Source-preserving Markdown parsing and editing primitives for hybrid editors |
+| 2026-10-11 16:12:11 | [fy-i18n-lang-tag](https://crates.io/crates/fy-i18n-lang-tag) | 0.1.0 | 0 | Lightweight modern language-tag parsing and normalization with no_std and no de… |
 
 ## Data source
 

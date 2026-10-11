@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T15:20:33.265452Z,wasix-net,0.1.0,0,0,https://github.com/ai-ecoverse/wasix-net,Loopback TCP sockets and a blocking HTTP/1.1 client for WASI programs in slicc's kernel
+2026-10-11T15:23:27.180686Z,nopeat-cli,2.1.4,0,0,https://github.com/Nopeat/Nopeat,"One analyzer for every bundler: analyse dist folders, stats.json and source maps"
+2026-10-11T15:23:31.144513Z,nopeat-wasm,2.1.4,0,0,https://github.com/Nopeat/Nopeat,WASM bindings for the Nopeat engine (Phase 2; structure only for now)
+2026-10-11T15:29:48.570837Z,vta-external,0.1.0,0,0,https://github.com/OpenVTC/verifiable-trust-infrastructure,"VTA external accounts — the VTA as the key authority for cloud and third-party accounts: account store, auth-model drivers, downscoped credential issuance"
+2026-10-11T15:30:24.618009Z,wp_test_bump024_dep,0.2.1,0,0,,Test dep crate for BUG-024
+2026-10-11T15:30:32.797963Z,lib_a,0.2.1,0,0,,Test crate for publishing tests
+2026-10-11T15:34:07.592912Z,bevy-spnavd,0.1.1,0,0,https://github.com/ISimon33I/bevy-spnavd,A Bevy plugin for SpaceMouse devices via spnavd
+2026-10-11T15:35:18.333955Z,slicc-cdp-client,1.5.4,0,0,https://github.com/ai-ecoverse/slicc-cdp,Shared CDP connection for slicc-cdp CLIs
+2026-10-11T15:35:32.912129Z,slicc-cdp,1.5.4,0,0,https://github.com/ai-ecoverse/slicc-cdp,SLICC CDP client; installs the playwright-cli command
+2026-10-11T15:35:43.49371Z,curlwright,1.5.4,0,0,https://github.com/ai-ecoverse/slicc-cdp,curl-style requests inside an already-open browser tab
+2026-10-11T15:38:39.77396Z,canibump,0.1.0,0,0,https://github.com/mlavrinenko/canibump,Can I bump yet? Checks the upstream fixes your workarounds wait on and says which landed
+2026-10-11T15:41:39.450507Z,alkstore,0.1.0,0,0,https://git.alk.dev/alkdev/alkstore,"The alkstore contract crate: one reactive store trait surface — notify, streams, durable queues, TTL locks, outbox, scheduler — implemented by the alkstore-sqlite/-postgres/-mem engine crates; no dri…"
+2026-10-11T15:41:55.12753Z,alkstore-sqlite,0.1.0,0,0,https://git.alk.dev/alkdev/alkstore,"SQLite engine for alkstore: single-host, file-backed, over rusqlite (bundled) with the forked, license-carried honker-core substrate in-tree"
+2026-10-11T15:42:06.011969Z,alkstore-postgres,0.1.0,0,0,https://git.alk.dev/alkdev/alkstore,"Postgres engine for alkstore: multi-host native, natively async over tokio-postgres + deadpool-postgres with LISTEN-driven wake and a dedicated LISTEN connection per listening process"
+2026-10-11T15:42:12.262387Z,alkstore-mem,0.1.0,0,0,https://git.alk.dev/alkdev/alkstore,"In-process memory engine for alkstore: honest-ephemeral — full contract surface, no durability, never fleet-valid — and the wasm32-compile-clean family member"
+2026-10-11T15:51:19.935001Z,rust-runes,0.1.0,0,0,https://github.com/eduardomilo/rust-runes,A rule engine compatible with Grule's rule language (GRL) and execution model
+2026-10-11T15:55:54.861816Z,sylheti_phonetics,1.0.0,0,0,https://github.com/ashu-choudhury/sylheti_phonetics,"High-performance Sylheti phonetic dictionary and transliteration engine for TTS, NLP, and Romanized chat text."
+2026-10-11T16:04:52.170905Z,molar_vis_core,0.2.0,0,0,https://github.com/yesint/molar_vis,Molecular visualization engine with GPU rendering and scene controls
+2026-10-11T16:04:54.972743Z,molar_vis,0.2.0,0,0,https://github.com/yesint/molar_vis,"Interactive molecular viewer with GPU rendering, PLY meshes, and editable colors"
+2026-10-11T16:04:59.963758Z,editable_markdown_parser,0.0.2,0,0,https://github.com/iDigimon/markdown-engine,Source-preserving Markdown parsing and editing primitives for hybrid editors
+2026-10-11T16:12:11.512621Z,fy-i18n-lang-tag,0.1.0,0,0,https://github.com/Fengyang-Conglomerate/fy-i18n-lang-tag,Lightweight modern language-tag parsing and normalization with no_std and no dependencies by default
