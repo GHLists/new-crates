@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T03:22:56.208205Z,quantum-tomography,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Checked reference state and channel tomography interoperability
+2026-10-11T03:26:35.24818Z,codetopo-acp,0.3.3,0,0,,"codetopo as an ACP agent (stdio): read-only code-graph answers for agent clients, streamed as spec session updates"
+2026-10-11T03:33:43.741683Z,quantum-transport,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Checked coherent NEGF and Landauer transport reference kernels
+2026-10-11T03:34:54.611448Z,tokn-hub-remote,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,Native remote session client with remembered device identities.
+2026-10-11T03:34:57.263387Z,tokn-session-opencode,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,"OpenCode session discovery, SQLite readers, and event normalization."
+2026-10-11T03:34:59.485465Z,tokn-session-pi,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,Read-only Pi session discovery and normalization.
+2026-10-11T03:35:01.571448Z,tokn-session-render,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,Text and JSONL rendering for normalized agent sessions.
+2026-10-11T03:35:02.89529Z,tokn-workbuddy-protocol,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,"Tolerant, lossless wire types for persisted WorkBuddy session JSONL."
+2026-10-11T03:39:47.171086Z,ntfs-mft,0.1.0,0,0,https://github.com/wangfu91/ntfs-mft,"Read-only raw NTFS Master File Table parsing and serial/parallel scanning on Windows, Linux, and macOS."
+2026-10-11T03:44:32.932748Z,clifford-mesh,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Checked renderer-independent meshes and Euclidean tessellators for geometric-algebra applications
+2026-10-11T03:45:34.829836Z,frust-hotpatch,0.6.0,0,0,https://github.com/frust-rs/frust,"Native-only hot-patch runtime for Frust: a jump-table detour ported from subsecond 0.7.10, wire-compatible with dx."
+2026-10-11T03:56:47.809821Z,flarefetch,0.1.0,0,0,https://github.com/xJonathanLEI/flarefetch,HTTP-first fetching with Rust-native browser-assisted Cloudflare clearance
+2026-10-11T04:05:04.195312Z,p3-blake2s,0.9.0-rc.1,0,0,https://github.com/Plonky3/Plonky3,"An implementation of the BLAKE2s cryptographic hash function, with a batched path for hashing many messages at once."
+2026-10-11T04:10:31.022382Z,yosoi-chromiumoxide,0.9.1-yosoi.1,0,0,https://github.com/CascadingLabs/Yosoi,Library for interacting with a chrome instance with the chrome devtools protocol
+2026-10-11T04:10:38.468136Z,yosoi-contracts-derive,0.1.1,0,0,,Derive macros for typed Yosoi contracts.
+2026-10-11T04:11:40.247428Z,p3-blake2s-air,0.9.0-rc.1,0,0,https://github.com/Plonky3/Plonky3,An AIR implementation for the BLAKE2s compression function over binary fields.
+2026-10-11T04:12:17.680851Z,yosoi,0.1.1,0,0,https://github.com/CascadingLabs/Yosoi,The modular Rust SDK for Yosoi.
+2026-10-11T04:12:51.164695Z,fmp-rust-sdk,0.1.0,0,0,https://github.com/ozoneio/fmp-rust-sdk,"Async Rust SDK for Financial Modeling Prep with typed data, subscription awareness, and WebSocket feeds"
+2026-10-11T04:15:33.837133Z,nats-atomic-publisher,0.1.0,0,0,https://github.com/lionhummer/nats-atomic-publisher,Concurrent atomic JetStream publication with bounded queues and conflict isolation
+2026-10-11T04:16:18.664027Z,ua-cryptography-der,0.1.4,0,0,https://github.com/ua-cryptography/ua-cryptography-rust,"A DER/BER reader that keeps the exact bytes of every element, a DER writer and PEM"
+2026-10-11T04:16:19.164028Z,ua-cryptography-dstu-sboxes,0.1.4,0,0,https://github.com/ua-cryptography/ua-cryptography-rust,The S-boxes DSTU 7564 (Kupyna) and DSTU 7624 (Kalyna) share; a dependency of the two crates
+2026-10-11T04:16:19.489352Z,ua-cryptography-gf2m,0.1.4,0,0,https://github.com/ua-cryptography/ua-cryptography-rust,"GF(2^m) in the polynomial and the optimal normal basis, and binary elliptic curves, as in DSTU 4145-2002"
+2026-10-11T04:16:19.998669Z,ua-cryptography-gost,0.1.4,0,0,https://github.com/ua-cryptography/ua-cryptography-rust,GOST 28147-89 block cipher and GOST 34.311-95 hash function with any substitution table (DKE)
+2026-10-11T04:16:20.289264Z,ua-cryptography-xml-c14n,0.1.4,0,0,https://github.com/ua-cryptography/ua-cryptography-rust,"Canonical XML 1.0 and Exclusive XML Canonicalization 1.0 over roxmltree, with safe XML loading"

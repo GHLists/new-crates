@@ -8,46 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 03:18 UTC
+## Latest list — 2026-10-11 04:18 UTC
 
-New crates published between 2026-10-11 02:18 UTC and 2026-10-11 03:18 UTC.
+New crates published between 2026-10-11 03:18 UTC and 2026-10-11 04:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-11T03-18-38-110148Z.csv)
+[Full CSV](data/new-crates-2026-10-11T04-18-39-126549Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-11 02:20:47 | [cvdb](https://crates.io/crates/cvdb) | 0.1.0 | 0 | Streaming JSON Lines reader and compact value document command |
-| 2026-10-11 02:23:49 | [vfsi-posix](https://crates.io/crates/vfsi-posix) | 0.1.0 | 0 | POSIX syscall executor and rooted filesystem backend for VFSI |
-| 2026-10-11 02:23:52 | [vfsi-uring](https://crates.io/crates/vfsi-uring) | 0.1.0 | 0 | Batched Linux io_uring filesystem backend for VFSI |
-| 2026-10-11 02:28:02 | [experiment-accelerator](https://crates.io/crates/experiment-accelerator) | 0.1.0 | 0 | Validated accelerator and distributed-work adapters for experiment-core |
-| 2026-10-11 02:32:33 | [fatoora-cli](https://crates.io/crates/fatoora-cli) | 0.4.0 | 0 | Command-line interface for the fatoora ZATCA SDK |
-| 2026-10-11 02:36:22 | [restful-macros](https://crates.io/crates/restful-macros) | 0.1.0 | 0 | Procedural macros for the restful crate: query attributes and response derives |
-| 2026-10-11 02:36:26 | [restful](https://crates.io/crates/restful) | 0.1.0 | 0 | REST API helpers: validated Axum extractors, response envelopes, pagination, or… |
-| 2026-10-11 02:39:21 | [experiment-merkle](https://crates.io/crates/experiment-merkle) | 0.1.0 | 0 | Context-bound Merkle commitments and spot checks for distributed experiments |
-| 2026-10-11 02:42:41 | [ghtui](https://crates.io/crates/ghtui) | 0.1.0 | 0 | A keyboard-driven terminal client for GitHub, with a pull request diff viewer t… |
-| 2026-10-11 02:47:55 | [sdd-integrations](https://crates.io/crates/sdd-integrations) | 1.0.0 | 0 | Adapters CLI-first para sistemas externos (GitHub via gh, Atlassian via acli) |
-| 2026-10-11 02:50:34 | [harmonic-dynamics](https://crates.io/crates/harmonic-dynamics) | 0.1.0 | 0 | Safe Kuramoto, quaternion, spherical Lohe, and harmonic sequence dynamics |
-| 2026-10-11 02:52:49 | [ochrepad-core](https://crates.io/crates/ochrepad-core) | 0.1.0 | 0 | Text model and editing engine of the ochrepad text editor (internal; no stable… |
-| 2026-10-11 02:52:51 | [ochrepad-fileio](https://crates.io/crates/ochrepad-fileio) | 0.1.0 | 0 | Encoding-preserving loading and atomic saving for the ochrepad text editor (int… |
-| 2026-10-11 02:52:51 | [ochrepad-syntax](https://crates.io/crates/ochrepad-syntax) | 0.1.0 | 0 | Incremental syntect highlighting for the ochrepad text editor (internal; no sta… |
-| 2026-10-11 02:52:52 | [ochrepad](https://crates.io/crates/ochrepad) | 0.1.0 | 0 | A fast, native text editor in the spirit of Notepad++ |
-| 2026-10-11 02:56:20 | [hotkv-client](https://crates.io/crates/hotkv-client) | 1.0.0 | 0 | A high-performance Rust client for HotKV, a RESP2/RESP3-compatible in-memory da… |
-| 2026-10-11 03:01:29 | [keldysh-green](https://crates.io/crates/keldysh-green) | 0.1.0 | 0 | Checked dense reference algorithms for real-time nonequilibrium Green functions |
-| 2026-10-11 03:03:00 | [nanosandbox-mcp](https://crates.io/crates/nanosandbox-mcp) | 0.3.0 | 0 | MCP server (stdio) that runs commands in a nanosandbox sandbox |
-| 2026-10-11 03:04:21 | [seiza-draw](https://crates.io/crates/seiza-draw) | 0.1.0 | 0 | Anti-aliased lines, ellipses and text with an embedded Inter font, for marking… |
-| 2026-10-11 03:04:37 | [seiza-parallax](https://crates.io/crates/seiza-parallax) | 0.2.0 | 0 | Parallax fly-through videos of astrophotographs, with stars placed at their Gai… |
-| 2026-10-11 03:05:15 | [codetopo-core](https://crates.io/crates/codetopo-core) | 0.3.0 | 0 | Typed graph core for codetopo: schema types, validated builder, deterministic q… |
-| 2026-10-11 03:05:36 | [codetopo-extract](https://crates.io/crates/codetopo-extract) | 0.3.0 | 0 | Tree-sitter extraction for codetopo: symbols, calls, imports, reads/writes, and… |
-| 2026-10-11 03:05:54 | [codetopo-store](https://crates.io/crates/codetopo-store) | 0.3.0 | 0 | SQLite store for codetopo: graph persistence, hash-chained audit log, and HMAC… |
-| 2026-10-11 03:06:43 | [codetopo-cli](https://crates.io/crates/codetopo-cli) | 0.3.0 | 0 | The codetopo command line: index a repository into a queryable code graph, then… |
-| 2026-10-11 03:08:38 | [codetopo-server](https://crates.io/crates/codetopo-server) | 0.3.0 | 0 | codetopo's HTTP API server: the same code-graph queries over REST, with bearer-… |
-| 2026-10-11 03:10:08 | [reticulum-rs-zeromq](https://crates.io/crates/reticulum-rs-zeromq) | 0.14.0 | 0 | LXMF-rs maintained ZeroMQ transport with bounded frames, connections, and hands… |
-| 2026-10-11 03:12:10 | [majorana-fermions](https://crates.io/crates/majorana-fermions) | 0.1.0 | 0 | Sparse Majorana and fermionic operator algebra for quantum lattice models |
-| 2026-10-11 03:12:12 | [hyprterm](https://crates.io/crates/hyprterm) | 0.1.0 | 0 | A window compositor for the terminal: tiling, motion, detachable sessions, them… |
-| 2026-10-11 03:14:17 | [mli-contract-macros](https://crates.io/crates/mli-contract-macros) | 0.1.0 | 0 | contract_universe! proc-macro for the mylittleindicators contract engine. |
-| 2026-10-11 03:14:34 | [agent-coexist](https://crates.io/crates/agent-coexist) | 0.3.0 | 0 | Local markdown collaboration CLI for agents |
-| 2026-10-11 03:16:40 | [mediatek-optical](https://crates.io/crates/mediatek-optical) | 0.5.0 | 0 | MediaTek MT1959/MT1939 optical drive (BD/DVD) protocol: command encoding, ident… |
-| 2026-10-11 03:18:32 | [codetopo-mcp](https://crates.io/crates/codetopo-mcp) | 0.3.0 | 0 | codetopo as an MCP server (stdio): code-graph search, dependency closures, blas… |
+| 2026-10-11 03:22:56 | [quantum-tomography](https://crates.io/crates/quantum-tomography) | 0.1.0 | 0 | Checked reference state and channel tomography interoperability |
+| 2026-10-11 03:26:35 | [codetopo-acp](https://crates.io/crates/codetopo-acp) | 0.3.3 | 0 | codetopo as an ACP agent (stdio): read-only code-graph answers for agent client… |
+| 2026-10-11 03:33:43 | [quantum-transport](https://crates.io/crates/quantum-transport) | 0.1.0 | 0 | Checked coherent NEGF and Landauer transport reference kernels |
+| 2026-10-11 03:34:54 | [tokn-hub-remote](https://crates.io/crates/tokn-hub-remote) | 0.1.1 | 0 | Native remote session client with remembered device identities. |
+| 2026-10-11 03:34:57 | [tokn-session-opencode](https://crates.io/crates/tokn-session-opencode) | 0.1.1 | 0 | OpenCode session discovery, SQLite readers, and event normalization. |
+| 2026-10-11 03:34:59 | [tokn-session-pi](https://crates.io/crates/tokn-session-pi) | 0.1.1 | 0 | Read-only Pi session discovery and normalization. |
+| 2026-10-11 03:35:01 | [tokn-session-render](https://crates.io/crates/tokn-session-render) | 0.1.1 | 0 | Text and JSONL rendering for normalized agent sessions. |
+| 2026-10-11 03:35:02 | [tokn-workbuddy-protocol](https://crates.io/crates/tokn-workbuddy-protocol) | 0.1.1 | 0 | Tolerant, lossless wire types for persisted WorkBuddy session JSONL. |
+| 2026-10-11 03:39:47 | [ntfs-mft](https://crates.io/crates/ntfs-mft) | 0.1.0 | 0 | Read-only raw NTFS Master File Table parsing and serial/parallel scanning on Wi… |
+| 2026-10-11 03:44:32 | [clifford-mesh](https://crates.io/crates/clifford-mesh) | 0.1.0 | 0 | Checked renderer-independent meshes and Euclidean tessellators for geometric-al… |
+| 2026-10-11 03:45:34 | [frust-hotpatch](https://crates.io/crates/frust-hotpatch) | 0.6.0 | 0 | Native-only hot-patch runtime for Frust: a jump-table detour ported from subsec… |
+| 2026-10-11 03:56:47 | [flarefetch](https://crates.io/crates/flarefetch) | 0.1.0 | 0 | HTTP-first fetching with Rust-native browser-assisted Cloudflare clearance |
+| 2026-10-11 04:05:04 | [p3-blake2s](https://crates.io/crates/p3-blake2s) | 0.9.0-rc.1 | 0 | An implementation of the BLAKE2s cryptographic hash function, with a batched pa… |
+| 2026-10-11 04:10:31 | [yosoi-chromiumoxide](https://crates.io/crates/yosoi-chromiumoxide) | 0.9.1-yosoi.1 | 0 | Library for interacting with a chrome instance with the chrome devtools protocol |
+| 2026-10-11 04:10:38 | [yosoi-contracts-derive](https://crates.io/crates/yosoi-contracts-derive) | 0.1.1 | 0 | Derive macros for typed Yosoi contracts. |
+| 2026-10-11 04:11:40 | [p3-blake2s-air](https://crates.io/crates/p3-blake2s-air) | 0.9.0-rc.1 | 0 | An AIR implementation for the BLAKE2s compression function over binary fields. |
+| 2026-10-11 04:12:17 | [yosoi](https://crates.io/crates/yosoi) | 0.1.1 | 0 | The modular Rust SDK for Yosoi. |
+| 2026-10-11 04:12:51 | [fmp-rust-sdk](https://crates.io/crates/fmp-rust-sdk) | 0.1.0 | 0 | Async Rust SDK for Financial Modeling Prep with typed data, subscription awaren… |
+| 2026-10-11 04:15:33 | [nats-atomic-publisher](https://crates.io/crates/nats-atomic-publisher) | 0.1.0 | 0 | Concurrent atomic JetStream publication with bounded queues and conflict isolat… |
+| 2026-10-11 04:16:18 | [ua-cryptography-der](https://crates.io/crates/ua-cryptography-der) | 0.1.4 | 0 | A DER/BER reader that keeps the exact bytes of every element, a DER writer and… |
+| 2026-10-11 04:16:19 | [ua-cryptography-dstu-sboxes](https://crates.io/crates/ua-cryptography-dstu-sboxes) | 0.1.4 | 0 | The S-boxes DSTU 7564 (Kupyna) and DSTU 7624 (Kalyna) share; a dependency of th… |
+| 2026-10-11 04:16:19 | [ua-cryptography-gf2m](https://crates.io/crates/ua-cryptography-gf2m) | 0.1.4 | 0 | GF(2^m) in the polynomial and the optimal normal basis, and binary elliptic cur… |
+| 2026-10-11 04:16:19 | [ua-cryptography-gost](https://crates.io/crates/ua-cryptography-gost) | 0.1.4 | 0 | GOST 28147-89 block cipher and GOST 34.311-95 hash function with any substituti… |
+| 2026-10-11 04:16:20 | [ua-cryptography-xml-c14n](https://crates.io/crates/ua-cryptography-xml-c14n) | 0.1.4 | 0 | Canonical XML 1.0 and Exclusive XML Canonicalization 1.0 over roxmltree, with s… |
 
 ## Data source
 
