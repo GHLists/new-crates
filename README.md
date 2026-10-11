@@ -8,38 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 04:18 UTC
+## Latest list — 2026-10-11 05:18 UTC
 
-New crates published between 2026-10-11 03:18 UTC and 2026-10-11 04:18 UTC.
+New crates published between 2026-10-11 04:18 UTC and 2026-10-11 05:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-11T04-18-39-126549Z.csv)
+[Full CSV](data/new-crates-2026-10-11T05-18-35-535016Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-11 03:22:56 | [quantum-tomography](https://crates.io/crates/quantum-tomography) | 0.1.0 | 0 | Checked reference state and channel tomography interoperability |
-| 2026-10-11 03:26:35 | [codetopo-acp](https://crates.io/crates/codetopo-acp) | 0.3.3 | 0 | codetopo as an ACP agent (stdio): read-only code-graph answers for agent client… |
-| 2026-10-11 03:33:43 | [quantum-transport](https://crates.io/crates/quantum-transport) | 0.1.0 | 0 | Checked coherent NEGF and Landauer transport reference kernels |
-| 2026-10-11 03:34:54 | [tokn-hub-remote](https://crates.io/crates/tokn-hub-remote) | 0.1.1 | 0 | Native remote session client with remembered device identities. |
-| 2026-10-11 03:34:57 | [tokn-session-opencode](https://crates.io/crates/tokn-session-opencode) | 0.1.1 | 0 | OpenCode session discovery, SQLite readers, and event normalization. |
-| 2026-10-11 03:34:59 | [tokn-session-pi](https://crates.io/crates/tokn-session-pi) | 0.1.1 | 0 | Read-only Pi session discovery and normalization. |
-| 2026-10-11 03:35:01 | [tokn-session-render](https://crates.io/crates/tokn-session-render) | 0.1.1 | 0 | Text and JSONL rendering for normalized agent sessions. |
-| 2026-10-11 03:35:02 | [tokn-workbuddy-protocol](https://crates.io/crates/tokn-workbuddy-protocol) | 0.1.1 | 0 | Tolerant, lossless wire types for persisted WorkBuddy session JSONL. |
-| 2026-10-11 03:39:47 | [ntfs-mft](https://crates.io/crates/ntfs-mft) | 0.1.0 | 0 | Read-only raw NTFS Master File Table parsing and serial/parallel scanning on Wi… |
-| 2026-10-11 03:44:32 | [clifford-mesh](https://crates.io/crates/clifford-mesh) | 0.1.0 | 0 | Checked renderer-independent meshes and Euclidean tessellators for geometric-al… |
-| 2026-10-11 03:45:34 | [frust-hotpatch](https://crates.io/crates/frust-hotpatch) | 0.6.0 | 0 | Native-only hot-patch runtime for Frust: a jump-table detour ported from subsec… |
-| 2026-10-11 03:56:47 | [flarefetch](https://crates.io/crates/flarefetch) | 0.1.0 | 0 | HTTP-first fetching with Rust-native browser-assisted Cloudflare clearance |
-| 2026-10-11 04:05:04 | [p3-blake2s](https://crates.io/crates/p3-blake2s) | 0.9.0-rc.1 | 0 | An implementation of the BLAKE2s cryptographic hash function, with a batched pa… |
-| 2026-10-11 04:10:31 | [yosoi-chromiumoxide](https://crates.io/crates/yosoi-chromiumoxide) | 0.9.1-yosoi.1 | 0 | Library for interacting with a chrome instance with the chrome devtools protocol |
-| 2026-10-11 04:10:38 | [yosoi-contracts-derive](https://crates.io/crates/yosoi-contracts-derive) | 0.1.1 | 0 | Derive macros for typed Yosoi contracts. |
-| 2026-10-11 04:11:40 | [p3-blake2s-air](https://crates.io/crates/p3-blake2s-air) | 0.9.0-rc.1 | 0 | An AIR implementation for the BLAKE2s compression function over binary fields. |
-| 2026-10-11 04:12:17 | [yosoi](https://crates.io/crates/yosoi) | 0.1.1 | 0 | The modular Rust SDK for Yosoi. |
-| 2026-10-11 04:12:51 | [fmp-rust-sdk](https://crates.io/crates/fmp-rust-sdk) | 0.1.0 | 0 | Async Rust SDK for Financial Modeling Prep with typed data, subscription awaren… |
-| 2026-10-11 04:15:33 | [nats-atomic-publisher](https://crates.io/crates/nats-atomic-publisher) | 0.1.0 | 0 | Concurrent atomic JetStream publication with bounded queues and conflict isolat… |
-| 2026-10-11 04:16:18 | [ua-cryptography-der](https://crates.io/crates/ua-cryptography-der) | 0.1.4 | 0 | A DER/BER reader that keeps the exact bytes of every element, a DER writer and… |
-| 2026-10-11 04:16:19 | [ua-cryptography-dstu-sboxes](https://crates.io/crates/ua-cryptography-dstu-sboxes) | 0.1.4 | 0 | The S-boxes DSTU 7564 (Kupyna) and DSTU 7624 (Kalyna) share; a dependency of th… |
-| 2026-10-11 04:16:19 | [ua-cryptography-gf2m](https://crates.io/crates/ua-cryptography-gf2m) | 0.1.4 | 0 | GF(2^m) in the polynomial and the optimal normal basis, and binary elliptic cur… |
-| 2026-10-11 04:16:19 | [ua-cryptography-gost](https://crates.io/crates/ua-cryptography-gost) | 0.1.4 | 0 | GOST 28147-89 block cipher and GOST 34.311-95 hash function with any substituti… |
-| 2026-10-11 04:16:20 | [ua-cryptography-xml-c14n](https://crates.io/crates/ua-cryptography-xml-c14n) | 0.1.4 | 0 | Canonical XML 1.0 and Exclusive XML Canonicalization 1.0 over roxmltree, with s… |
+| 2026-10-11 04:25:21 | [ua-cryptography-dstu4145](https://crates.io/crates/ua-cryptography-dstu4145) | 0.1.4 | 0 | DSTU 4145-2002, the Ukrainian elliptic-curve digital signature over GF(2^m), bo… |
+| 2026-10-11 04:35:20 | [ua-cryptography-dstu7564](https://crates.io/crates/ua-cryptography-dstu7564) | 0.1.4 | 0 | DSTU 7564:2014 "Kupyna", the Ukrainian hash function, at 256, 384 and 512 bits |
+| 2026-10-11 04:40:39 | [webview-diagnostics](https://crates.io/crates/webview-diagnostics) | 0.1.0 | 0 | Bounded WebView diagnostics with redaction, SQLite journals and optional macOS… |
+| 2026-10-11 04:45:04 | [tokn-session-workbuddy](https://crates.io/crates/tokn-session-workbuddy) | 0.1.1 | 0 | Read-only WorkBuddy session catalog and JSONL normalization. |
+| 2026-10-11 04:45:05 | [tokn-session-zcode](https://crates.io/crates/tokn-session-zcode) | 0.1.1 | 0 | Read-only ZCode session discovery and normalization. |
+| 2026-10-11 04:45:09 | [tokn-session-client](https://crates.io/crates/tokn-session-client) | 0.1.1 | 0 | Unified client for agent session providers. |
+| 2026-10-11 04:45:13 | [tokn-session-cli](https://crates.io/crates/tokn-session-cli) | 0.1.1 | 0 | List, inspect, and browse sessions across agent providers. |
+| 2026-10-11 04:45:15 | [tokn-session-relay](https://crates.io/crates/tokn-session-relay) | 0.1.1 | 0 | Live agent session feeds over stdout, ZeroMQ, and managed stdio. |
+| 2026-10-11 04:45:20 | [ua-cryptography-dstu7624](https://crates.io/crates/ua-cryptography-dstu7624) | 0.1.4 | 0 | DSTU 7624:2014 "Kalyna" block cipher and its modes: CBC, CTR, CMAC, CCM, GCM, X… |
+| 2026-10-11 04:47:31 | [tokn-viewer-core](https://crates.io/crates/tokn-viewer-core) | 0.1.1 | 0 | Shared session viewer domain, indexing, history, and live updates. |
+| 2026-10-11 04:52:14 | [htl-std](https://crates.io/crates/htl-std) | 0.14.0 | 0 | htl's own asynchronous I/O for Teal (std.fs, std.proc). This version reserves t… |
+| 2026-10-11 04:54:16 | [big-bad-bool-core](https://crates.io/crates/big-bad-bool-core) | 0.1.0 | 0 | Runtime metadata and traits for packed-bit schemas. |
+| 2026-10-11 04:54:20 | [big-bad-bool-derive](https://crates.io/crates/big-bad-bool-derive) | 0.1.0 | 0 | Procedural macros for big-bad-bool. |
+| 2026-10-11 04:54:24 | [big-bad-bool](https://crates.io/crates/big-bad-bool) | 0.1.0 | 0 | Facade for declarative packed-bit schemas and metadata. |
+| 2026-10-11 04:54:27 | [uh-tom-mick-core](https://crates.io/crates/uh-tom-mick-core) | 0.1.0 | 0 | Atomic admission, checked counters, and atomic flag-set primitives. |
+| 2026-10-11 04:54:31 | [uh-tom-mick-derive](https://crates.io/crates/uh-tom-mick-derive) | 0.1.0 | 0 | Procedural macros for uh-tom-mick atomic state capabilities. |
+| 2026-10-11 04:55:22 | [ua-cryptography-pki](https://crates.io/crates/ua-cryptography-pki) | 0.1.4 | 0 | The Ukrainian PKI over DSTU 4145: X.509, JKS, CAdES, RFC 3161, OCSP, XAdES, ASi… |
+| 2026-10-11 05:00:05 | [uh-tom-mick](https://crates.io/crates/uh-tom-mick) | 0.1.0 | 0 | Facade for declarative atomic admission, counters, flags, and async dispatch. |
+| 2026-10-11 05:05:25 | [ua-cryptography-sign](https://crates.io/crates/ua-cryptography-sign) | 0.1.4 | 0 | Ukrainian electronic signatures from the command line: DSTU 4145 keys in JKS, C… |
+| 2026-10-11 05:10:08 | [graphforge-discovery](https://crates.io/crates/graphforge-discovery) | 0.6.0-rc.1 | 0 | Rust-owned GraphForge Hub repository discovery contract |
+| 2026-10-11 05:10:11 | [graphforge-filesystem](https://crates.io/crates/graphforge-filesystem) | 0.6.0-rc.1 | 0 | Audited native filesystem primitives for GraphForge durability |
+| 2026-10-11 05:10:16 | [graphforge-observability](https://crates.io/crates/graphforge-observability) | 0.6.0-rc.1 | 0 | Rust-owned GraphForge OpenTelemetry runtime and semantic contract |
+| 2026-10-11 05:10:22 | [graphforge-hub-publish](https://crates.io/crates/graphforge-hub-publish) | 0.6.0-rc.1 | 0 | Rust-owned GraphForge Hub publish wire contract and reference Hub |
+| 2026-10-11 05:10:28 | [graphforge-portable-oci](https://crates.io/crates/graphforge-portable-oci) | 0.6.0-rc.1 | 0 | GraphForge portable OCI protocol and authenticated transport |
+| 2026-10-11 05:10:34 | [graphforge-value](https://crates.io/crates/graphforge-value) | 0.6.0-rc.1 | 0 | GraphForge checked identity and persisted value contracts |
+| 2026-10-11 05:10:55 | [xo_runtime](https://crates.io/crates/xo_runtime) | 0.0.1 | 0 | Reserved infrastructure extension namespace for the XO Runtime ecosystem. |
+| 2026-10-11 05:10:56 | [xo_cli](https://crates.io/crates/xo_cli) | 0.0.1 | 0 | Reserved infrastructure extension namespace for the XO Runtime ecosystem. |
+| 2026-10-11 05:10:57 | [xo_console](https://crates.io/crates/xo_console) | 0.0.1 | 0 | Reserved infrastructure extension namespace for the XO Runtime ecosystem. |
+| 2026-10-11 05:10:57 | [xo_fetch](https://crates.io/crates/xo_fetch) | 0.0.1 | 0 | Reserved infrastructure extension namespace for the XO Runtime ecosystem. |
+| 2026-10-11 05:10:58 | [xo_serve](https://crates.io/crates/xo_serve) | 0.0.1 | 0 | Reserved infrastructure extension namespace for the XO Runtime ecosystem. |
+| 2026-10-11 05:15:56 | [claude-panel](https://crates.io/crates/claude-panel) | 0.1.0 | 0 | Terminal dashboard for Claude Code: plan limits, token usage, skills, plugins a… |
 
 ## Data source
 

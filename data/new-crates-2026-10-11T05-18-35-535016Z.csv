@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T04:25:21.174218Z,ua-cryptography-dstu4145,0.1.4,0,0,https://github.com/ua-cryptography/ua-cryptography-rust,"DSTU 4145-2002, the Ukrainian elliptic-curve digital signature over GF(2^m), both bases"
+2026-10-11T04:35:20.734555Z,ua-cryptography-dstu7564,0.1.4,0,0,https://github.com/ua-cryptography/ua-cryptography-rust,"DSTU 7564:2014 ""Kupyna"", the Ukrainian hash function, at 256, 384 and 512 bits"
+2026-10-11T04:40:39.306183Z,webview-diagnostics,0.1.0,0,0,https://github.com/lionhummer/webview-diagnostics,"Bounded WebView diagnostics with redaction, SQLite journals and optional macOS capture"
+2026-10-11T04:45:04.207509Z,tokn-session-workbuddy,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,Read-only WorkBuddy session catalog and JSONL normalization.
+2026-10-11T04:45:05.645103Z,tokn-session-zcode,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,Read-only ZCode session discovery and normalization.
+2026-10-11T04:45:09.940502Z,tokn-session-client,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,Unified client for agent session providers.
+2026-10-11T04:45:13.332522Z,tokn-session-cli,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,"List, inspect, and browse sessions across agent providers."
+2026-10-11T04:45:15.737044Z,tokn-session-relay,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,"Live agent session feeds over stdout, ZeroMQ, and managed stdio."
+2026-10-11T04:45:20.950325Z,ua-cryptography-dstu7624,0.1.4,0,0,https://github.com/ua-cryptography/ua-cryptography-rust,"DSTU 7624:2014 ""Kalyna"" block cipher and its modes: CBC, CTR, CMAC, CCM, GCM, XTS, key wrapping"
+2026-10-11T04:47:31.480349Z,tokn-viewer-core,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,"Shared session viewer domain, indexing, history, and live updates."
+2026-10-11T04:52:14.441027Z,htl-std,0.14.0,0,0,https://github.com/ynishi/htl,"htl's own asynchronous I/O for Teal (std.fs, std.proc). This version reserves the name; the crate arrives with the htl release that carries it."
+2026-10-11T04:54:16.011485Z,big-bad-bool-core,0.1.0,0,0,https://github.com/jameshuntt,Runtime metadata and traits for packed-bit schemas.
+2026-10-11T04:54:20.336529Z,big-bad-bool-derive,0.1.0,0,0,https://github.com/jameshuntt,Procedural macros for big-bad-bool.
+2026-10-11T04:54:24.006419Z,big-bad-bool,0.1.0,0,0,https://github.com/jameshuntt,Facade for declarative packed-bit schemas and metadata.
+2026-10-11T04:54:27.523356Z,uh-tom-mick-core,0.1.0,0,0,https://github.com/jameshuntt,"Atomic admission, checked counters, and atomic flag-set primitives."
+2026-10-11T04:54:31.766111Z,uh-tom-mick-derive,0.1.0,0,0,https://github.com/jameshuntt,Procedural macros for uh-tom-mick atomic state capabilities.
+2026-10-11T04:55:22.113706Z,ua-cryptography-pki,0.1.4,0,0,https://github.com/ua-cryptography/ua-cryptography-rust,"The Ukrainian PKI over DSTU 4145: X.509, JKS, CAdES, RFC 3161, OCSP, XAdES, ASiC, certification paths"
+2026-10-11T05:00:05.230028Z,uh-tom-mick,0.1.0,0,0,https://github.com/jameshuntt,"Facade for declarative atomic admission, counters, flags, and async dispatch."
+2026-10-11T05:05:25.863062Z,ua-cryptography-sign,0.1.4,0,0,https://github.com/ua-cryptography/ua-cryptography-rust,"Ukrainian electronic signatures from the command line: DSTU 4145 keys in JKS, CAdES, XAdES, ASiC"
+2026-10-11T05:10:08.977408Z,graphforge-discovery,0.6.0-rc.1,0,0,https://github.com/CurateLabs/graphforge,Rust-owned GraphForge Hub repository discovery contract
+2026-10-11T05:10:11.193514Z,graphforge-filesystem,0.6.0-rc.1,0,0,https://github.com/CurateLabs/graphforge,Audited native filesystem primitives for GraphForge durability
+2026-10-11T05:10:16.527864Z,graphforge-observability,0.6.0-rc.1,0,0,https://github.com/CurateLabs/graphforge,Rust-owned GraphForge OpenTelemetry runtime and semantic contract
+2026-10-11T05:10:22.732371Z,graphforge-hub-publish,0.6.0-rc.1,0,0,https://github.com/CurateLabs/graphforge,Rust-owned GraphForge Hub publish wire contract and reference Hub
+2026-10-11T05:10:28.707099Z,graphforge-portable-oci,0.6.0-rc.1,0,0,https://github.com/CurateLabs/graphforge,GraphForge portable OCI protocol and authenticated transport
+2026-10-11T05:10:34.467148Z,graphforge-value,0.6.0-rc.1,0,0,https://github.com/CurateLabs/graphforge,GraphForge checked identity and persisted value contracts
+2026-10-11T05:10:55.293529Z,xo_runtime,0.0.1,0,0,https://cutoutstudios.com/,Reserved infrastructure extension namespace for the XO Runtime ecosystem.
+2026-10-11T05:10:56.210534Z,xo_cli,0.0.1,0,0,https://cutoutstudios.com/,Reserved infrastructure extension namespace for the XO Runtime ecosystem.
+2026-10-11T05:10:57.103482Z,xo_console,0.0.1,0,0,https://cutoutstudios.com/,Reserved infrastructure extension namespace for the XO Runtime ecosystem.
+2026-10-11T05:10:57.892867Z,xo_fetch,0.0.1,0,0,https://cutoutstudios.com/,Reserved infrastructure extension namespace for the XO Runtime ecosystem.
+2026-10-11T05:10:58.640889Z,xo_serve,0.0.1,0,0,https://cutoutstudios.com/,Reserved infrastructure extension namespace for the XO Runtime ecosystem.
+2026-10-11T05:15:56.142744Z,claude-panel,0.1.0,0,0,https://github.com/ToroVtn/claude-panel,"Terminal dashboard for Claude Code: plan limits, token usage, skills, plugins and MCP servers"
