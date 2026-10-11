@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T14:28:27.187703Z,rs-rich-web,0.0.1,0,0,https://github.com/buchochelliq-labs/rs-rich-cli,"Serve rs-rich intuiTUIve apps, or any terminal program on a PTY, to a web browser over a WebSocket, drawn by a vendored xterm.js or as accessible DOM"
+2026-10-11T14:28:58.721414Z,NoIPClient,0.1.0,0,0,https://github.com/waldirborbajr/noip-client,No-IP dynamic DNS update client
+2026-10-11T14:35:45.889365Z,session-guard,0.1.1,0,0,https://github.com/A-Line-Services/session-guard,Stolen session cookies become useless: rotating tokens with reuse detection and risk-based step-up for Rust web apps.
+2026-10-11T14:44:58.68408Z,stormflow,0.1.0,0,0,https://github.com/NTNU-IMT/stormbird,A CFD solver specialized for actuator line simulations with the Stormbird library
+2026-10-11T14:49:42.352962Z,licensechain,1.0.1,0,0,https://github.com/LicenseChain/LicenseChain-Rust-SDK,LicenseChain Rust SDK for license management and validation
+2026-10-11T14:50:59.118242Z,vrml97,0.1.0,0,0,,"VRML97 / X3D classic-encoding parser and writer, a faithful Rust port of X_ITE's parser, field types and serializer"
+2026-10-11T14:52:32.501132Z,relaxng-model,0.1.0,0,0,https://github.com/faizanali2k05/relaxng-rs,Data model for RELAX NG schemas
+2026-10-11T14:52:50.183517Z,relaxng-syntax,0.1.0,0,0,https://github.com/faizanali2k05/relaxng-rs,RELAX NG XML syntax parser
+2026-10-11T14:53:04.990497Z,relaxng-validator,0.1.0,0,0,https://github.com/faizanali2k05/relaxng-rs,XML document validation against RELAX NG schemas
+2026-10-11T14:55:09.24723Z,mrz_verifier,0.2.0,0,0,https://github.com/hfunke/MRZ-Verification,A Rust library for validating the Machine Readable Zone (MRZ) of electronic Machine Readable Travel Documents (eMRTDs) as specified by ICAO Doc 9303.
+2026-10-11T14:55:32.626395Z,relaxng-rs,0.1.0,0,0,https://github.com/faizanali2k05/relaxng-rs,Production-oriented RELAX NG XML schema parsing and validation
+2026-10-11T14:55:56.434269Z,x3d,0.1.0,0,0,,"X3D and VRML97 node reference (all node types, fields, defaults, components, profiles) plus classic-encoding I/O, from a faithful Rust port of X_ITE"
+2026-10-11T14:55:59.324275Z,vrml,0.1.0,0,0,,"VRML / X3D classic-encoding toolkit: version detection, plus a `vrml` CLI to check, reformat and summarize .wrl files (X_ITE-compatible)"
+2026-10-11T14:58:04.028132Z,qring,0.1.0,0,0,https://github.com/sham-404/qring,"A high-performance, lock-free, zero-allocation SPSC queue with cache-aligned atomics."
+2026-10-11T14:58:06.012126Z,relaxng-cli,0.1.0,0,0,https://github.com/faizanali2k05/relaxng-rs,Command-line RELAX NG schema checker and XML validator
+2026-10-11T14:58:37.896123Z,actl-mcp,0.2.2,0,0,https://github.com/gqy20/actl,actl MCP adapter: remote access service for the controlled Windows device (docs/82; async allowed in this crate only — ADR-001 amendment)
+2026-10-11T15:02:46.08052Z,ikigai-layers,0.2.0,0,0,https://github.com/ikigai-rs/ikigai-layers,"A layer host for ikigai: independent shared spaces between participants (`urn:layer:{layer}`), each defined by configuration with an access model, closed SHACL admission shapes, an egress context, ex…"
+2026-10-11T15:03:04.265194Z,showViewer,0.1.0,0,0,https://github.com/HugoBrisebois/pre-show-scene-viewer,a simple vj loop renderer
+2026-10-11T15:06:59.404608Z,thole-core,0.1.0,0,0,https://github.com/Coxless/thole,"Pure Rust, no C/Fortran: shared building blocks of the thole crates."
+2026-10-11T15:07:01.664711Z,thole-linalg,0.1.0,0,0,https://github.com/Coxless/thole,"Pure Rust, no C/Fortran: dense linear algebra."
+2026-10-11T15:07:03.469528Z,thole-ode,0.1.0,0,0,https://github.com/Coxless/thole,"Pure Rust, no C/Fortran: ordinary differential equations."
+2026-10-11T15:07:05.125482Z,thole-quad,0.1.0,0,0,https://github.com/Coxless/thole,"Pure Rust, no C/Fortran: numerical integration."
+2026-10-11T15:07:06.901615Z,thole-roots,0.1.0,0,0,https://github.com/Coxless/thole,"Pure Rust, no C/Fortran: root finding."
+2026-10-11T15:11:10.01228Z,intuit,0.0.1,0,0,https://github.com/OwlRoute/minerva,"Bounded, allocation-free intuitionistic forcing over finite information models."
+2026-10-11T15:13:23.080351Z,egui-text-outline,0.1.0,0,0,https://github.com/egakareta/terrarium,Outlined text widgets for egui.
+2026-10-11T15:13:30.475338Z,tregui,0.1.0,0,0,https://github.com/egakareta/terrarium,Curated egui widgets used by Terrarium.
+2026-10-11T15:13:51.68679Z,zun-frontend,0.1.0,0,0,https://github.com/zhanbodev/zun-lang,"Lexer, parser, AST and diagnostics for the Zun language."
+2026-10-11T15:13:54.510165Z,zun-lsp,0.1.0,0,0,https://github.com/zhanbodev/zun-lang,Language Server Protocol implementation for the Zun language.
+2026-10-11T15:13:55.887602Z,zun-runtime,0.1.0,0,0,https://github.com/zhanbodev/zun-lang,"Interpreter, module system and native standard library for the Zun language."
+2026-10-11T15:13:57.736592Z,zun-cli,0.1.0,0,0,https://github.com/zhanbodev/zun-lang,"Command-line interface for the Zun language: REPL, run, serve and test."
+2026-10-11T15:14:00.620439Z,zun,0.1.0,0,0,https://github.com/zhanbodev/zun-lang,"A small, complete language for HTTP services: one file, one command, under 10 MB of memory."
+2026-10-11T15:14:40.823151Z,memory4agent,0.3.0,0,0,https://github.com/ZENG3LD/memory4agents,"Code-intelligence and memory infrastructure for coding agents: AST index, dependency graph, and fuzzy search server"
+2026-10-11T15:15:22.506287Z,gpui-updater-sparkle,0.2.0,0,0,https://github.com/AprilNEA/gpui-updater,"Sparkle (macOS) update driver for gpui-updater: hands checking, installing, and relaunching to Sparkle.framework"
+2026-10-11T15:17:09.643631Z,thole,0.1.0,0,0,https://github.com/Coxless/thole,"Pure Rust, no C/Fortran: scientific computing with every algorithm implemented from scratch."
+2026-10-11T15:17:35.310734Z,openmassspec-arrow,3.0.0,0,0,https://github.com/Sigilweaver/OpenMassSpecCore,Apache Arrow RecordBatch bridge for openmassspec-core spectrum records.
