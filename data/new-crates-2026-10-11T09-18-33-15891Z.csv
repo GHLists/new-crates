@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T08:20:34.521094Z,sapphire-framework-bridge,0.15.0,0,0,https://github.com/fluo10/sapphire-framework,"Host-wide sapphire daemon: device identity, workgroup authorization and a switchboard to app servers"
+2026-10-11T08:20:37.363046Z,position-sizing-data,0.1.1,0,0,https://github.com/tk25719/position-sizing-data,"Reference data and arithmetic for risk-based position sizing across forex, stocks and crypto futures"
+2026-10-11T08:21:36.458087Z,sapphire-framework-bridge-embed,0.15.0,0,0,https://github.com/fluo10/sapphire-framework,Text embedding component of the sapphire bridge: a local Qwen3-VL-Embedding model or an OpenAI-compatible endpoint
+2026-10-11T08:25:18.856717Z,coheret-docker,0.2.0,0,0,https://github.com/coheret/coheret,Thin wrapper around the local docker CLI used by coheret
+2026-10-11T08:25:21.264406Z,coheret-probe,0.2.0,0,0,https://github.com/coheret/coheret,"Kubernetes-style liveness, readiness and startup probes for Docker containers"
+2026-10-11T08:25:23.520356Z,coheret-supervisor,0.2.0,0,0,https://github.com/coheret/coheret,"Enforces probe semantics on Docker containers: restarts, backoff and readiness"
+2026-10-11T08:27:54.24777Z,shipstern-codama-from-anchor,0.12.0,0,0,https://github.com/solana-rpc/shipstern,"Convert an Anchor IDL into codama-nodes, matching @codama/nodes-from-anchor"
+2026-10-11T08:31:31.322268Z,codefeed,0.1.0,0,0,https://github.com/but212/codefeed,Fast CLI that converts local directories or GitHub repositories into LLM-friendly digests
+2026-10-11T08:33:45.247503Z,texcopy,0.1.0,0,0,https://github.com/Phoenixxo/texcopy,Select LaTeX-rendered math on screen and get its LaTeX source on your clipboard
+2026-10-11T08:34:44.763046Z,restrictive-usernames,0.5.0,0,0,https://github.com/EvanCarroll/restrictive-usernames,"Unicode username / nickname policy: UTS #39 identifier profile, Highly Restrictive script mixing, confusable-skeleton keys in stored and displayed order"
+2026-10-11T08:36:33.815518Z,sapphire-bridge,0.15.0,0,0,https://github.com/fluo10/sapphire-framework,"Host-wide sapphire daemon: device identity, workgroup authorization and sync routing"
+2026-10-11T08:37:40.393567Z,mogh_env_parser,1.0.1,0,0,https://github.com/moghtech/lib,Parser for Env file (`.env`) syntax. Contains both serialization and deserialization functions.
+2026-10-11T08:38:56.804106Z,ms-delta,0.1.0,0,0,https://github.com/CaddyGlow/ms-delta,"Bounded native Rust PA19, PA30, PA31 and MS-PATCH LZX Delta file patches"
+2026-10-11T08:43:25.764187Z,bitrouter-ai,1.0.0-alpha.33,0,0,https://github.com/bitrouter/bitrouter,BitRouter model integration semantics independent of router and application state
+2026-10-11T08:53:36.367056Z,rustymath,0.1.0,0,0,https://github.com/AnswerDotAI/rustymath,"Fast maths functions for f16, f32 and f64 in plain Rust."
+2026-10-11T08:59:17.150426Z,sapphire-framework-server-api,4.0.0,0,0,https://github.com/fluo10/sapphire-framework,"The methods every sapphire-framework app server serves, and their types"
+2026-10-11T09:00:38.029434Z,sapphire-framework-server,0.15.0,0,0,https://github.com/fluo10/sapphire-framework,App server skeleton for sapphire-framework: owns a workspace's cache and serves it over IPC
+2026-10-11T09:00:46.276373Z,sapphire-framework-keys,0.15.0,0,0,https://github.com/fluo10/sapphire-framework,"Bearer-token authentication against the workgroup's external devices, for sapphire-framework apps"
+2026-10-11T09:01:51.064333Z,balise-mail,0.0.0,0,0,,"Sending mail for Balise (placeholder, not usable yet)"
+2026-10-11T09:06:55.634381Z,sitio-core,0.0.0,0,0,https://github.com/bzin/sitio,"Placeholder reserving the name for Sítio, a self hosted CMS. The real crate is published from https://github.com/bzin/sitio"
+2026-10-11T09:06:58.777301Z,sitio,0.0.0,0,0,https://github.com/bzin/sitio,"Placeholder reserving the name for Sítio, a self hosted CMS. The real crate is published from https://github.com/bzin/sitio"
+2026-10-11T09:12:59.054782Z,se-fido-ctap2,0.1.0,0,0,https://github.com/pathscale/se-fido,"CTAP 2 authenticator core with pluggable key backend, store and user presence"
+2026-10-11T09:12:59.794577Z,se-fido-ctaphid,0.1.0,0,0,https://github.com/pathscale/se-fido,CTAPHID framing (CTAP 2.1 section 11.2) as a pure state machine
+2026-10-11T09:13:02.17229Z,se-fido-backend-se,0.1.0,0,0,https://github.com/pathscale/se-fido,macOS Secure Enclave key backend over hand-written Security.framework and CoreFoundation FFI
+2026-10-11T09:13:02.758505Z,se-fido-store,0.1.0,0,0,https://github.com/pathscale/se-fido,Encrypted on-disk credential index and monotonic signature counter
+2026-10-11T09:15:52.823535Z,trpersistence,0.1.0,0,0,https://github.com/egakareta/terrarium,Local persistent key-value storage for Rust applications
