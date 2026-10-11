@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T07:25:38.728127Z,xo_crypto,0.0.1,0,0,https://cutoutstudios.com/,Reserved infrastructure extension namespace for the XO Runtime ecosystem.
+2026-10-11T07:25:39.929774Z,xo_worker,0.0.1,0,0,https://cutoutstudios.com/,Reserved infrastructure extension namespace for the XO Runtime ecosystem.
+2026-10-11T07:25:41.091326Z,tree-sitter-daslang,0.6.0,0,0,https://github.com/GaijinEntertainment/tree-sitter-daslang,Daslang grammar for tree-sitter
+2026-10-11T07:25:41.210205Z,xo_gpu,0.0.1,0,0,https://cutoutstudios.com/,Reserved infrastructure extension namespace for the XO Runtime ecosystem.
+2026-10-11T07:32:42.706999Z,libeulix,0.8.1,0,0,https://github.com/Nurysso/eulix/tree/main/libeulix,"Multi-language static analysis library: parses C, C++, Go, Java, JavaScript, Python, Rust, and TypeScript into a knowledge base with a project-wide resolved call graph."
+2026-10-11T07:35:24.965465Z,rcat-rs,1.0.0,0,0,https://github.com/KingAJK30/rcat,"A fast, Unix-inspired recursive file concatenation tool"
+2026-10-11T07:41:47.80951Z,oxide-admin,0.1.0,0,0,https://github.com/prateekbhujel/oxide-admin,"Fullstack application and admin panel framework for Rust and Axum with embedded SQLite, active record ORM, and terminal UI."
+2026-10-11T07:54:44.495214Z,trusty-channels,0.1.0,0,0,https://github.com/bobmatnyc/trusty-tools,"Chat channels for the trusty-* tools: a deny-by-default route policy, a route-checked Google Chat MCP server, and Slack and Telegram API clients."
+2026-10-11T08:01:12.786933Z,ps-rusty_alloc,2.3.1,0,0,https://github.com/pathscale/ps-rusty_alloc,"A pure-Rust remake of mimalloc v2.4.5 (segments, free-list-sharded pages, lock-free cross-thread frees, heaps, arenas): pathscale fork of rusty_alloc."
+2026-10-11T08:01:53.321287Z,seiza-image-io,0.1.0,0,0,https://github.com/theatrus/seiza,"Open and save images by file extension, the same way across Seiza: PNG, JPEG, TIFF, FITS and XISF"
+2026-10-11T08:01:54.169919Z,sapphire-framework-bridge-api,2.3.0,0,0,https://github.com/fluo10/sapphire-framework,Control-plane protocol and client for the sapphire-framework bridge
+2026-10-11T08:02:06.397452Z,sapphire-framework-ipc,0.15.0,0,0,https://github.com/fluo10/sapphire-framework,Local inter-process JSON-RPC transport for sapphire-framework apps
+2026-10-11T08:02:14.456947Z,sapphire-framework-bridge-client,0.15.0,0,0,https://github.com/fluo10/sapphire-framework,An app server's typed client for the sapphire-framework bridge
+2026-10-11T08:02:19.312072Z,sapphire-framework-service,0.15.0,0,0,https://github.com/fluo10/sapphire-framework,Register a sapphire-framework application with the OS service manager
+2026-10-11T08:02:33.829Z,sapphire-framework-session,0.15.0,0,0,https://github.com/fluo10/sapphire-framework,The replication session two sapphire-framework replicas run over a byte stream
+2026-10-11T08:07:06.724775Z,mcp-airlock,0.0.1,0,0,https://github.com/ffalcinelli/mcp-airlock,Secure 1:1 transparent Layer 7 proxy for the Model Context Protocol (MCP)
+2026-10-11T08:09:57.797979Z,irondome-sdk,0.1.0,0,0,https://github.com/IrondomeDev/sdks,Secure pooled IronDome API client

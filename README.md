@@ -8,37 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 07:19 UTC
+## Latest list — 2026-10-11 08:18 UTC
 
-New crates published between 2026-10-11 06:18 UTC and 2026-10-11 07:19 UTC.
+New crates published between 2026-10-11 07:19 UTC and 2026-10-11 08:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-11T07-19-08-425Z.csv)
+[Full CSV](data/new-crates-2026-10-11T08-18-35-550541Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-11 06:22:27 | [crashpack](https://crates.io/crates/crashpack) | 0.1.0 | 0 | Privacy-first local diagnostic crash bundles for Rust applications |
-| 2026-10-11 06:24:59 | [ps-less-avc](https://crates.io/crates/ps-less-avc) | 0.1.5 | 0 | Fork of less-avc 0.1.5 for chuzz WebRTC: pure Rust H.264 encoding |
-| 2026-10-11 06:25:03 | [ps-rusty-opus](https://crates.io/crates/ps-rusty-opus) | 1.0.0 | 0 | Synchronous fork of rusty-opus 1.0.0 for chuzz: pure-Rust Opus (RFC 6716) with… |
-| 2026-10-11 06:36:07 | [cachec](https://crates.io/crates/cachec) | 0.1.0 | 0 | Ultra fast data structures for concurrency. |
-| 2026-10-11 06:37:13 | [ggen-abb-sbb](https://crates.io/crates/ggen-abb-sbb) | 26.10.10 | 0 | IO-free ABB/SBB manufacture admission kernel: SELECT existing SBB \|\| MANUFACTUR… |
-| 2026-10-11 06:41:51 | [ironkeys-pkcs11](https://crates.io/crates/ironkeys-pkcs11) | 0.1.0 | 0 | Native PKCS#11 boundary for IronKeys |
-| 2026-10-11 06:41:53 | [ironkeys-cng](https://crates.io/crates/ironkeys-cng) | 0.1.0 | 0 | Minimal safe wrapper over Windows CNG and TPM Base Services for IronKeys |
-| 2026-10-11 06:41:56 | [ironkeys-tpm2](https://crates.io/crates/ironkeys-tpm2) | 0.1.0 | 0 | A native TPM 2.0 layer in safe Rust for IronKeys: marshalling, sessions and com… |
-| 2026-10-11 06:41:58 | [ironkeys-kms](https://crates.io/crates/ironkeys-kms) | 0.1.0 | 0 | An AWS KMS client in safe Rust for IronKeys: credentials, SigV4 and the key ope… |
-| 2026-10-11 06:42:01 | [ironkeys](https://crates.io/crates/ironkeys) | 0.1.0 | 0 | Key custody for the IronSecurity stack: one interface over software, HSM, TPM a… |
-| 2026-10-11 06:42:50 | [git-claw](https://crates.io/crates/git-claw) | 0.1.0 | 0 | Deterministic git worktree orchestration engine for developers and AI agents |
-| 2026-10-11 06:43:37 | [metriken-storage](https://crates.io/crates/metriken-storage) | 0.1.0 | 0 | Storage for metriken recordings: the segment format, column readers, and the de… |
-| 2026-10-11 06:44:59 | [modebox-core](https://crates.io/crates/modebox-core) | 0.1.0 | 0 | Run untrusted, agent-written JavaScript/TypeScript in a snapshot-able WebAssemb… |
-| 2026-10-11 06:45:01 | [modebox](https://crates.io/crates/modebox) | 0.1.0 | 0 | Sandboxed code execution for AI agents: run agent-written JS/TS in WebAssembly,… |
-| 2026-10-11 06:46:07 | [ascmhl](https://crates.io/crates/ascmhl) | 0.1.0 | 0 | Read and validate ASC Media Hash List (MHL) manifests: SHA-256, SHA-1 and MD5 r… |
-| 2026-10-11 06:52:05 | [satx-core](https://crates.io/crates/satx-core) | 0.2.0 | 0 | The library behind satx: talks to HP 48 and 49 calculators over a serial cable… |
-| 2026-10-11 06:52:24 | [satx](https://crates.io/crates/satx) | 0.2.0 | 0 | satx: transfer files between HP 48/49 calculators and a computer over serial |
-| 2026-10-11 06:57:50 | [virtual-bus](https://crates.io/crates/virtual-bus) | 0.3.1 | 0 | Virtual I2C / SPI buses for running embedded-hal 1.0 drivers against IC models… |
-| 2026-10-11 06:58:08 | [virtual-bus-build](https://crates.io/crates/virtual-bus-build) | 0.3.1 | 0 | build.rs helper that turns Verilog into a Verilator model usable from virtual-b… |
-| 2026-10-11 06:59:23 | [ggen-engine](https://crates.io/crates/ggen-engine) | 26.10.11 | 0 | SPARQL-in-Tera code generation engine (vendored, renamed from praxis/crates/gge… |
-| 2026-10-11 07:04:19 | [timecode-tools](https://crates.io/crates/timecode-tools) | 0.1.0 | 0 | Dependency-free SMPTE LTC (linear timecode) and MIDI Time Code readers, timecod… |
-| 2026-10-11 07:09:35 | [tauri-plugin-microphone-kessdev](https://crates.io/crates/tauri-plugin-microphone-kessdev) | 0.1.1-beta.0 | 0 | Microphone plugin for Tauri v2: cross-platform audio recording, live metering a… |
-| 2026-10-11 07:18:10 | [trclipboard](https://crates.io/crates/trclipboard) | 0.1.0 | 0 | Cross-platform (including web) clipboard access for Rust |
+| 2026-10-11 07:25:38 | [xo_crypto](https://crates.io/crates/xo_crypto) | 0.0.1 | 0 | Reserved infrastructure extension namespace for the XO Runtime ecosystem. |
+| 2026-10-11 07:25:39 | [xo_worker](https://crates.io/crates/xo_worker) | 0.0.1 | 0 | Reserved infrastructure extension namespace for the XO Runtime ecosystem. |
+| 2026-10-11 07:25:41 | [tree-sitter-daslang](https://crates.io/crates/tree-sitter-daslang) | 0.6.0 | 0 | Daslang grammar for tree-sitter |
+| 2026-10-11 07:25:41 | [xo_gpu](https://crates.io/crates/xo_gpu) | 0.0.1 | 0 | Reserved infrastructure extension namespace for the XO Runtime ecosystem. |
+| 2026-10-11 07:32:42 | [libeulix](https://crates.io/crates/libeulix) | 0.8.1 | 0 | Multi-language static analysis library: parses C, C++, Go, Java, JavaScript, Py… |
+| 2026-10-11 07:35:24 | [rcat-rs](https://crates.io/crates/rcat-rs) | 1.0.0 | 0 | A fast, Unix-inspired recursive file concatenation tool |
+| 2026-10-11 07:41:47 | [oxide-admin](https://crates.io/crates/oxide-admin) | 0.1.0 | 0 | Fullstack application and admin panel framework for Rust and Axum with embedded… |
+| 2026-10-11 07:54:44 | [trusty-channels](https://crates.io/crates/trusty-channels) | 0.1.0 | 0 | Chat channels for the trusty-* tools: a deny-by-default route policy, a route-c… |
+| 2026-10-11 08:01:12 | [ps-rusty_alloc](https://crates.io/crates/ps-rusty_alloc) | 2.3.1 | 0 | A pure-Rust remake of mimalloc v2.4.5 (segments, free-list-sharded pages, lock-… |
+| 2026-10-11 08:01:53 | [seiza-image-io](https://crates.io/crates/seiza-image-io) | 0.1.0 | 0 | Open and save images by file extension, the same way across Seiza: PNG, JPEG, T… |
+| 2026-10-11 08:01:54 | [sapphire-framework-bridge-api](https://crates.io/crates/sapphire-framework-bridge-api) | 2.3.0 | 0 | Control-plane protocol and client for the sapphire-framework bridge |
+| 2026-10-11 08:02:06 | [sapphire-framework-ipc](https://crates.io/crates/sapphire-framework-ipc) | 0.15.0 | 0 | Local inter-process JSON-RPC transport for sapphire-framework apps |
+| 2026-10-11 08:02:14 | [sapphire-framework-bridge-client](https://crates.io/crates/sapphire-framework-bridge-client) | 0.15.0 | 0 | An app server's typed client for the sapphire-framework bridge |
+| 2026-10-11 08:02:19 | [sapphire-framework-service](https://crates.io/crates/sapphire-framework-service) | 0.15.0 | 0 | Register a sapphire-framework application with the OS service manager |
+| 2026-10-11 08:02:33 | [sapphire-framework-session](https://crates.io/crates/sapphire-framework-session) | 0.15.0 | 0 | The replication session two sapphire-framework replicas run over a byte stream |
+| 2026-10-11 08:07:06 | [mcp-airlock](https://crates.io/crates/mcp-airlock) | 0.0.1 | 0 | Secure 1:1 transparent Layer 7 proxy for the Model Context Protocol (MCP) |
+| 2026-10-11 08:09:57 | [irondome-sdk](https://crates.io/crates/irondome-sdk) | 0.1.0 | 0 | Secure pooled IronDome API client |
 
 ## Data source
 
