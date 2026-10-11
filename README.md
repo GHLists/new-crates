@@ -8,41 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 22:19 UTC
+## Latest list — 2026-10-11 23:19 UTC
 
-New crates published between 2026-10-11 21:19 UTC and 2026-10-11 22:19 UTC.
+New crates published between 2026-10-11 22:19 UTC and 2026-10-11 23:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-11T22-19-01-369232Z.csv)
+[Full CSV](data/new-crates-2026-10-11T23-19-48-631213Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-11 21:23:28 | [wasm4pm-planner](https://crates.io/crates/wasm4pm-planner) | 26.10.11 | 0 | wasm4pm-native PDDL-subset temporal planner with prolog8 admission gating and a… |
-| 2026-10-11 21:23:52 | [hatchling-goals](https://crates.io/crates/hatchling-goals) | 0.1.1 | 0 | Broker-owned goals and tracking store: user-explicit goals, an append-only trac… |
-| 2026-10-11 21:28:36 | [evm-state-diff](https://crates.io/crates/evm-state-diff) | 0.1.0 | 0 | Ethereum execution state diffs from prestateTracer traces: per transaction or p… |
-| 2026-10-11 21:30:01 | [left-pad-rs](https://crates.io/crates/left-pad-rs) | 0.1.0 | 0 | Rust port of the archived left-pad JS package (parity-tested) |
-| 2026-10-11 21:31:27 | [q-promise-rs](https://crates.io/crates/q-promise-rs) | 0.1.0 | 0 | Rust port of kriskowal/q promise library (parity-tested) |
-| 2026-10-11 21:31:29 | [embedded-typst](https://crates.io/crates/embedded-typst) | 0.1.0 | 0 | A typst::World for embedding the Typst compiler: lazily loaded fonts, a virtual… |
-| 2026-10-11 21:32:01 | [uno-ms-lightgbm-sys](https://crates.io/crates/uno-ms-lightgbm-sys) | 0.1.0 | 0 | FFI bindings to a vendored prebuilt LightGBM shared library (Linux x86_64), use… |
-| 2026-10-11 21:32:37 | [uno-ms-core](https://crates.io/crates/uno-ms-core) | 0.1.0 | 0 | Search, scoring, FDR and quantitative contrast library behind the uno MS1-only… |
-| 2026-10-11 21:33:58 | [hatchling-feed](https://crates.io/crates/hatchling-feed) | 0.1.1 | 0 | The feed: a scheduled digest of the user's own records, read-only, every item a… |
-| 2026-10-11 21:34:25 | [uno-ms](https://crates.io/crates/uno-ms) | 0.1.0 | 0 | MS1-only peptide and protein identification from LC-MS features, with target-de… |
-| 2026-10-11 21:35:35 | [brain-nn-rs](https://crates.io/crates/brain-nn-rs) | 0.1.0 | 0 | Rust port of harthur/brain neural network (parity-tested) |
-| 2026-10-11 21:36:21 | [wasm4pm-conform](https://crates.io/crates/wasm4pm-conform) | 26.10.11 | 0 | High-assurance, trajectory-based IEEE OCEL 2.0 conformance checking engine for… |
-| 2026-10-11 21:39:14 | [fonts-rs-cheat-sheet](https://crates.io/crates/fonts-rs-cheat-sheet) | 0.4.0 | 0 | Generic GTK4 cheat sheet application for fonts-rs font families |
-| 2026-10-11 21:44:09 | [hatchling-fido2](https://crates.io/crates/hatchling-fido2) | 0.1.1 | 0 | The FIDO2 transport: CTAP2 over USB HID (hidraw on Linux), as the vault's Authe… |
-| 2026-10-11 21:45:02 | [tidyup](https://crates.io/crates/tidyup) | 0.1.0 | 0 | Free up ports and disk space from your dev projects: kill port hogs, delete nod… |
-| 2026-10-11 21:49:01 | [catwalk3d](https://crates.io/crates/catwalk3d) | 1.0.0 | 0 | Headless model thumbnails rendered entirely in Rust |
-| 2026-10-11 21:52:43 | [plexus-client](https://crates.io/crates/plexus-client) | 0.6.0 | 0 | wasm-safe client runtime for Plexus RPC: the wire envelope, the Transport trait… |
-| 2026-10-11 21:54:14 | [hatchling-isolation](https://crates.io/crates/hatchling-isolation) | 0.1.1 | 0 | The isolation seam: one platform-neutral trait between broker policy and a plat… |
-| 2026-10-11 21:57:30 | [sbx](https://crates.io/crates/sbx) | 0.1.0 | 0 | AI-containment layer for agent execution — OS syscall jail with reversible run-… |
-| 2026-10-11 22:03:14 | [sbxd](https://crates.io/crates/sbxd) | 0.1.0 | 0 | Agent containment custody daemon — server and orchestrator for sbx execution en… |
-| 2026-10-11 22:04:20 | [hatchling-scheduler](https://crates.io/crates/hatchling-scheduler) | 0.1.1 | 0 | Scheduled work: cron timing in explicit IANA timezones, subset-closed schedule… |
-| 2026-10-11 22:08:31 | [menger-tickets-api](https://crates.io/crates/menger-tickets-api) | 0.5.0 | 0 | menger's ticket vocabulary, activation and Plexus RPC client — one declaration,… |
-| 2026-10-11 22:09:01 | [menger](https://crates.io/crates/menger) | 0.5.0 | 0 | A plan is a program whose leaves are prose — ticketing on Plexus RPC |
-| 2026-10-11 22:11:06 | [atrinik-scene](https://crates.io/crates/atrinik-scene) | 0.1.0 | 0 | Renderer-neutral bounded Atrinik scene contracts |
-| 2026-10-11 22:13:42 | [jcomp](https://crates.io/crates/jcomp) | 0.1.0 | 0 | Lossless, structure-aware JSON compression |
-| 2026-10-11 22:14:30 | [hatchling-skill](https://crates.io/crates/hatchling-skill) | 0.1.1 | 0 | Signed skills: manifest format, Ed25519 verification, admission-time grant chec… |
-| 2026-10-11 22:16:19 | [majik-signature](https://crates.io/crates/majik-signature) | 1.0.0 | 0 | Hybrid post-quantum content signing and verification (Ed25519 + ML-DSA-87) for… |
+| 2026-10-11 22:19:35 | [rsphp-build-tools](https://crates.io/crates/rsphp-build-tools) | 0.1.0 | 0 | Tools to support building FFI bindings for PHP's Zend engine |
+| 2026-10-11 22:20:26 | [rsphp-sys](https://crates.io/crates/rsphp-sys) | 0.1.0 | 0 | FFI bindings for PHP |
+| 2026-10-11 22:20:28 | [rsphp-macros-c](https://crates.io/crates/rsphp-macros-c) | 0.1.0 | 0 | Rust macros to correspond to PHP's C macros |
+| 2026-10-11 22:21:44 | [rsphp-macros-rs](https://crates.io/crates/rsphp-macros-rs) | 0.1.0 | 0 | Rust macros to do not correspond to PHP's C macros |
+| 2026-10-11 22:21:45 | [rsphp-stub-parser](https://crates.io/crates/rsphp-stub-parser) | 0.1.0 | 0 | Library for parsing PHP stub files and generating argument information |
+| 2026-10-11 22:22:10 | [exav-render](https://crates.io/crates/exav-render) | 0.0.2 | 0 | Memory-safe decoders that turn files into something to draw: images into pixels… |
+| 2026-10-11 22:22:16 | [exav-imagehash](https://crates.io/crates/exav-imagehash) | 0.0.2 | 0 | Perceptual image hashes: ClamAV's fuzzy_img hash, equal to `sigtool --fuzzy-img… |
+| 2026-10-11 22:24:37 | [hatchling-space](https://crates.io/crates/hatchling-space) | 0.1.1 | 0 | Spaces: broker-asserted membership, admission factors, and space tasks. |
+| 2026-10-11 22:26:35 | [ishikari-admin](https://crates.io/crates/ishikari-admin) | 0.2.0 | 0 | Admin dashboard for ishikari job queue |
+| 2026-10-11 22:26:35 | [ishikari-cli](https://crates.io/crates/ishikari-cli) | 0.2.0 | 0 | Command-line tool for Ishikari job processing framework |
+| 2026-10-11 22:30:36 | [tojohn](https://crates.io/crates/tojohn) | 0.0.1 | 0 | Hash-extraction library: pulls crackable password hashes out of 100+ file forma… |
+| 2026-10-11 22:31:00 | [tojohn-cli](https://crates.io/crates/tojohn-cli) | 0.0.1 | 0 | Unified command line front-end for the tojohn library. |
+| 2026-10-11 22:31:29 | [rsphp](https://crates.io/crates/rsphp) | 0.1.0 | 0 | Utilities to support PHP extensions written in Rust |
+| 2026-10-11 22:33:44 | [opaque-string](https://crates.io/crates/opaque-string) | 0.1.0 | 0 | RFC 8265 OpaqueString, the PRECIS password profile: the same password always be… |
+| 2026-10-11 22:35:00 | [hatchling-broker](https://crates.io/crates/hatchling-broker) | 0.1.1 | 0 | The broker daemon agents connect to: socket lifecycle, peer authorization, hand… |
+| 2026-10-11 22:35:30 | [veloster](https://crates.io/crates/veloster) | 0.1.7 | 0 | Fast, modular, pure-Rust multimedia processing engine (the future of FFmpeg in… |
+| 2026-10-11 22:36:33 | [sbx-core](https://crates.io/crates/sbx-core) | 1.2.0 | 0 | sbx run-custody model: retained changesets and the settle state machine |
+| 2026-10-11 22:39:02 | [switchx](https://crates.io/crates/switchx) | 0.1.1 | 0 | Universal AI subscription account switcher and rolling quota router for Antigra… |
+| 2026-10-11 22:40:00 | [rsphp-stub-parser-cli](https://crates.io/crates/rsphp-stub-parser-cli) | 0.1.0 | 0 | Binary script for parsing stub files |
+| 2026-10-11 22:41:58 | [atrinik-render-resources](https://crates.io/crates/atrinik-render-resources) | 0.1.0 | 0 | Bounded content-addressed rendering resources for Atrinik |
+| 2026-10-11 22:42:14 | [atrinik-render-ui](https://crates.io/crates/atrinik-render-ui) | 0.1.0 | 0 | Renderer-neutral UI and typography seam for Atrinik |
+| 2026-10-11 22:42:31 | [atrinik-render-api](https://crates.io/crates/atrinik-render-api) | 0.1.0 | 0 | Renderer-neutral target, lifecycle, and frame contracts for Atrinik |
+| 2026-10-11 22:42:47 | [atrinik-render-testkit](https://crates.io/crates/atrinik-render-testkit) | 0.1.0 | 0 | Deterministic renderer doubles and conformance scenes for Atrinik |
+| 2026-10-11 22:44:27 | [slicc-browsers](https://crates.io/crates/slicc-browsers) | 1.1.0 | 0 | SLICC's shared browser catalog, JSON schemas and discovery conformance corpus |
+| 2026-10-11 22:45:12 | [hatchling-runtime](https://crates.io/crates/hatchling-runtime) | 0.1.1 | 0 | Personal AI agents you actually own, in kernel-isolated cells that never hold y… |
+| 2026-10-11 22:47:30 | [clif2wasm](https://crates.io/crates/clif2wasm) | 0.1.0 | 0 | Translate Cranelift IR to WebAssembly |
+| 2026-10-11 22:54:09 | [atrinik-render-wgpu](https://crates.io/crates/atrinik-render-wgpu) | 0.1.0 | 0 | Private Vulkan and D3D12 wgpu renderer for Atrinik |
+| 2026-10-11 22:58:39 | [n11-deadbolt](https://crates.io/crates/n11-deadbolt) | 1.1.0-rc.1 | 0 | Local execution gate for software agents: leases, policy, operator revocation,… |
+| 2026-10-11 23:05:32 | [atrinik-render-sdl3](https://crates.io/crates/atrinik-render-sdl3) | 0.1.0 | 0 | Thin SDL3 native-surface adapter for the Atrinik renderer |
+| 2026-10-11 23:09:29 | [nassau](https://crates.io/crates/nassau) | 0.1.0 | 0 | A Standard ML implementation with a Cranelift backend |
 
 ## Data source
 
