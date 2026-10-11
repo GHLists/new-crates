@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-10T23:28:00.837304Z,bevy_subpixel,0.1.0,0,0,https://github.com/feroldi/bevy_subpixel,A Bevy subpixel smoothing shader for pixel art.
+2026-10-10T23:29:26.552949Z,queryweave,0.1.0,0,0,https://github.com/eduardmitrica/queryweave,"The core runtime of queryweave: the filtering, sorting, paging and merge-patch data its derives generate for a domain model, with no database dependency."
+2026-10-10T23:29:27.34813Z,queryweave-codegen,0.1.0,0,0,https://github.com/eduardmitrica/queryweave,"The code generation behind queryweave's derives, for proc-macro crates with their own naming conventions and integrations."
+2026-10-10T23:29:29.608945Z,queryweave-api,0.1.0,0,0,https://github.com/eduardmitrica/queryweave,"The API runtime of queryweave: page and sort direction types for API mirrors of a domain model, with optional serde, utoipa and schemars support."
+2026-10-10T23:29:30.627643Z,queryweave-derive,0.1.0,0,0,https://github.com/eduardmitrica/queryweave,"Derive macros generating filtering, sorting, paging and merge-patch types for a domain model and the layers mirroring it."
+2026-10-10T23:29:31.598866Z,queryweave-sql,0.1.0,0,0,https://github.com/eduardmitrica/queryweave,"The SQL runtime of queryweave: database-agnostic sqlx query building (WHERE, ORDER BY, LIMIT/OFFSET, SET) from the data queryweave's derives generate."
+2026-10-10T23:30:14.719928Z,ps-jxl-oxide,0.13.0,0,0,https://github.com/pathscale/ps-jxl-oxide,JPEG XL decoder written in pure Rust: pathscale fork of jxl-oxide.
+2026-10-10T23:51:44.805936Z,dga_bevy_ads,0.1.0,0,0,https://github.com/doublegarts/dga_bevy_ads,"Google AdMob ads (banner, interstitial, rewarded, rewarded interstitial, app open) for Bevy mobile games on Android and iOS"
+2026-10-10T23:56:43.924271Z,oyl-sys,0.1.0+1.0.0,0,0,https://github.com/openbohemians/oyl.rs,"Raw FFI bindings to Oyl, a fast YAML 1.2 parser and emitter in C11, built from vendored sources"
+2026-10-10T23:56:45.046191Z,oyl,0.1.0,0,0,https://github.com/openbohemians/oyl.rs,"Safe Rust bindings to Oyl, a fast YAML 1.2 parser and emitter (C11, SIMD, zero-copy)"
+2026-10-11T00:00:31.465929Z,codepass,0.2.0,0,0,https://github.com/yotatameguchi-boop/codepass,"Offline, deterministic passwords from source code and a master secret"
+2026-10-11T00:00:37.871728Z,dga_bevy_iap,0.1.0,0,0,https://github.com/doublegarts/dga_bevy_iap,"In-app purchases and subscriptions for Bevy mobile games, powered by RevenueCat (Google Play and App Store)."
+2026-10-11T00:01:07.893176Z,accesslog,0.0.1,0,0,,"Parse web server access logs (nginx, Apache httpd) by compiling the server's own log format definition"
+2026-10-11T00:02:51.856255Z,regain-hub,0.6.0,0,0,https://github.com/pulsarfab/regain,"Shared device aggregation, safety policy and configuration for PulsarFab regain"
+2026-10-11T00:09:09.758121Z,jlens-lsp,0.3.0,0,0,https://github.com/thkprado/jlens,"A language server (LSP) for JSONata: completion, diagnostics, hover and signature help over JSON Schemas"
+2026-10-11T00:09:42.776605Z,maned-sys,0.4.0,0,0,https://github.com/FabianoDicheti/maned-rs,Raw FFI declarations for the mnd_* C ABI of libmaned_c
+2026-10-11T00:10:00.454001Z,maned,0.4.0,0,0,https://github.com/FabianoDicheti/maned-rs,"Call .mnd scripts in-process, through the mnd_* C ABI"

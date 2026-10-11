@@ -8,50 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 23:20 UTC
+## Latest list — 2026-10-11 00:18 UTC
 
-New crates published between 2026-10-10 22:18 UTC and 2026-10-10 23:20 UTC.
+New crates published between 2026-10-10 23:20 UTC and 2026-10-11 00:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-10T23-20-36-168932Z.csv)
+[Full CSV](data/new-crates-2026-10-11T00-18-34-742023Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-10 22:19:12 | [ps-jxl-image](https://crates.io/crates/ps-jxl-image) | 0.13.0 | 0 | JPEG XL image header representation, part of jxl-oxide: pathscale fork of jxl-o… |
-| 2026-10-10 22:29:34 | [ps-jxl-modular](https://crates.io/crates/ps-jxl-modular) | 0.13.0 | 0 | JPEG XL Modular image decoder, part of jxl-oxide: pathscale fork of jxl-oxide. |
-| 2026-10-10 22:29:39 | [clifford-core](https://crates.io/crates/clifford-core) | 0.1.0 | 0 | Precision-generic Clifford algebra primitives for Rust |
-| 2026-10-10 22:36:47 | [cephal](https://crates.io/crates/cephal) | 0.1.0 | 0 | Retained, incremental CSS layout (block, flexbox, grid) with spineless invalida… |
-| 2026-10-10 22:38:28 | [cluster-green](https://crates.io/crates/cluster-green) | 0.1.0 | 0 | Checked cluster Green-function and CPT embedding reference tools |
-| 2026-10-10 22:39:08 | [headless-fonts](https://crates.io/crates/headless-fonts) | 0.1.0 | 0 | A fixed, versioned set of open fonts and the CSS family names they stand in for… |
-| 2026-10-10 22:40:06 | [experiment-core](https://crates.io/crates/experiment-core) | 0.1.0 | 0 | Transport-neutral contracts for reproducible computational experiments |
-| 2026-10-10 22:40:08 | [field-lyapunov](https://crates.io/crates/field-lyapunov) | 0.1.0 | 0 | Matrix-free Lyapunov diagnostics for high-dimensional fields and dynamical syst… |
-| 2026-10-10 22:40:11 | [open-quantum-systems](https://crates.io/crates/open-quantum-systems) | 0.1.0 | 0 | Checked dense Lindblad master-equation reference dynamics |
-| 2026-10-10 22:47:22 | [dtr](https://crates.io/crates/dtr) | 0.1.0 | 0 | Forge-aware repository cloning and tool installation |
-| 2026-10-10 22:48:13 | [ps-jxl-vardct](https://crates.io/crates/ps-jxl-vardct) | 0.13.0 | 0 | JPEG XL VarDCT frame representation, part of jxl-oxide: pathscale fork of jxl-o… |
-| 2026-10-10 22:50:20 | [phonon-transport](https://crates.io/crates/phonon-transport) | 0.1.0 | 0 | Checked harmonic-chain phonons and ballistic thermal transport |
-| 2026-10-10 22:51:47 | [rightkit-llm](https://crates.io/crates/rightkit-llm) | 0.1.0 | 0 | Brand-neutral BYOK LLM clients: Anthropic Messages and OpenAI-compatible chat,… |
-| 2026-10-10 22:53:17 | [webfinger-service](https://crates.io/crates/webfinger-service) | 0.1.0 | 0 | Runtime-neutral WebFinger service configuration and provider types. |
-| 2026-10-10 22:53:28 | [stele-gate](https://crates.io/crates/stele-gate) | 1.0.0 | 0 | Stele Gate for Solana programs: require a current policy acceptance before a pr… |
-| 2026-10-10 22:53:56 | [webfinger-service-axum](https://crates.io/crates/webfinger-service-axum) | 0.1.0 | 0 | A native Axum server for WebFinger service configuration. |
-| 2026-10-10 22:53:59 | [webfinger-viewer](https://crates.io/crates/webfinger-viewer) | 0.1.0 | 0 | A WebFinger viewer and debugging UI. |
-| 2026-10-10 22:54:03 | [webfinger-viewer-axum](https://crates.io/crates/webfinger-viewer-axum) | 0.1.0 | 0 | A native Axum runtime for the WebFinger viewer. |
-| 2026-10-10 22:54:38 | [mutvec](https://crates.io/crates/mutvec) | 0.1.1 | 0 | mutvec - compile-time checked disjoint mutable access to a vector. Very useful… |
-| 2026-10-10 22:57:14 | [statechronicle-profile](https://crates.io/crates/statechronicle-profile) | 0.2.0 | 0 | Allocation-free portable state profile contracts for StateChronicle. |
-| 2026-10-10 22:57:31 | [statechronicle-portable](https://crates.io/crates/statechronicle-portable) | 0.2.0 | 0 | Bounded, allocation-free canonical encoding and integrity verification for Stat… |
-| 2026-10-10 22:58:45 | [ps-jxl-color](https://crates.io/crates/ps-jxl-color) | 0.13.0 | 0 | JPEG XL color management functions, part of jxl-oxide: pathscale fork of jxl-ox… |
-| 2026-10-10 23:00:22 | [aics](https://crates.io/crates/aics) | 0.6.0 | 0 | Search local Claude Code, Codex CLI, and Antigravity chat session histories |
-| 2026-10-10 23:00:30 | [quantum-chaos](https://crates.io/crates/quantum-chaos) | 0.1.0 | 0 | Checked spectral diagnostics for quantum-chaos studies |
-| 2026-10-10 23:01:48 | [mabat-check](https://crates.io/crates/mabat-check) | 0.1.0 | 0 | Check Mabat views against a snapshot of a database schema, without a database:… |
-| 2026-10-10 23:01:49 | [mabat-core](https://crates.io/crates/mabat-core) | 0.1.0 | 0 | Shape description and query planning for Mabat |
-| 2026-10-10 23:01:50 | [mabat-derive](https://crates.io/crates/mabat-derive) | 0.1.0 | 0 | Derive macro for Mabat views |
-| 2026-10-10 23:01:50 | [mabat-sqlx](https://crates.io/crates/mabat-sqlx) | 0.1.0 | 0 | The executor of Mabat views for PostgreSQL, MySQL and SQLite, built on SQLx |
-| 2026-10-10 23:01:53 | [mabat](https://crates.io/crates/mabat) | 0.1.0 | 0 | An aggregate mapper for Rust: declare the shape of a domain aggregate, and load… |
-| 2026-10-10 23:03:47 | [mabat-cli](https://crates.io/crates/mabat-cli) | 0.1.0 | 0 | Check, explain and scaffold Mabat override SQL without the application |
-| 2026-10-10 23:09:15 | [ps-jxl-frame](https://crates.io/crates/ps-jxl-frame) | 0.13.0 | 0 | JPEG XL frame data representation, part of jxl-oxide: pathscale fork of jxl-oxi… |
-| 2026-10-10 23:10:31 | [skeletons-engine](https://crates.io/crates/skeletons-engine) | 0.0.1 | 0 | The engine behind `skeletons` and `skeletons-library`. This version reserves th… |
-| 2026-10-10 23:10:49 | [skeletons-library](https://crates.io/crates/skeletons-library) | 0.0.1 | 0 | The library API of `skeletons`: a check other tools can call. This version rese… |
-| 2026-10-10 23:13:11 | [mabat-graphql](https://crates.io/crates/mabat-graphql) | 0.1.0 | 0 | A GraphQL schema generated from Mabat views, with async-graphql |
-| 2026-10-10 23:17:01 | [patina-ui](https://crates.io/crates/patina-ui) | 0.1.0 | 0 | Patina: the window frame, components and design language shared by Photograph,… |
-| 2026-10-10 23:19:48 | [ps-jxl-render](https://crates.io/crates/ps-jxl-render) | 0.13.0 | 0 | JPEG XL image renderer, part of jxl-oxide: pathscale fork of jxl-oxide. |
+| 2026-10-10 23:28:00 | [bevy_subpixel](https://crates.io/crates/bevy_subpixel) | 0.1.0 | 0 | A Bevy subpixel smoothing shader for pixel art. |
+| 2026-10-10 23:29:26 | [queryweave](https://crates.io/crates/queryweave) | 0.1.0 | 0 | The core runtime of queryweave: the filtering, sorting, paging and merge-patch… |
+| 2026-10-10 23:29:27 | [queryweave-codegen](https://crates.io/crates/queryweave-codegen) | 0.1.0 | 0 | The code generation behind queryweave's derives, for proc-macro crates with the… |
+| 2026-10-10 23:29:29 | [queryweave-api](https://crates.io/crates/queryweave-api) | 0.1.0 | 0 | The API runtime of queryweave: page and sort direction types for API mirrors of… |
+| 2026-10-10 23:29:30 | [queryweave-derive](https://crates.io/crates/queryweave-derive) | 0.1.0 | 0 | Derive macros generating filtering, sorting, paging and merge-patch types for a… |
+| 2026-10-10 23:29:31 | [queryweave-sql](https://crates.io/crates/queryweave-sql) | 0.1.0 | 0 | The SQL runtime of queryweave: database-agnostic sqlx query building (WHERE, OR… |
+| 2026-10-10 23:30:14 | [ps-jxl-oxide](https://crates.io/crates/ps-jxl-oxide) | 0.13.0 | 0 | JPEG XL decoder written in pure Rust: pathscale fork of jxl-oxide. |
+| 2026-10-10 23:51:44 | [dga_bevy_ads](https://crates.io/crates/dga_bevy_ads) | 0.1.0 | 0 | Google AdMob ads (banner, interstitial, rewarded, rewarded interstitial, app op… |
+| 2026-10-10 23:56:43 | [oyl-sys](https://crates.io/crates/oyl-sys) | 0.1.0+1.0.0 | 0 | Raw FFI bindings to Oyl, a fast YAML 1.2 parser and emitter in C11, built from… |
+| 2026-10-10 23:56:45 | [oyl](https://crates.io/crates/oyl) | 0.1.0 | 0 | Safe Rust bindings to Oyl, a fast YAML 1.2 parser and emitter (C11, SIMD, zero-… |
+| 2026-10-11 00:00:31 | [codepass](https://crates.io/crates/codepass) | 0.2.0 | 0 | Offline, deterministic passwords from source code and a master secret |
+| 2026-10-11 00:00:37 | [dga_bevy_iap](https://crates.io/crates/dga_bevy_iap) | 0.1.0 | 0 | In-app purchases and subscriptions for Bevy mobile games, powered by RevenueCat… |
+| 2026-10-11 00:01:07 | [accesslog](https://crates.io/crates/accesslog) | 0.0.1 | 0 | Parse web server access logs (nginx, Apache httpd) by compiling the server's ow… |
+| 2026-10-11 00:02:51 | [regain-hub](https://crates.io/crates/regain-hub) | 0.6.0 | 0 | Shared device aggregation, safety policy and configuration for PulsarFab regain |
+| 2026-10-11 00:09:09 | [jlens-lsp](https://crates.io/crates/jlens-lsp) | 0.3.0 | 0 | A language server (LSP) for JSONata: completion, diagnostics, hover and signatu… |
+| 2026-10-11 00:09:42 | [maned-sys](https://crates.io/crates/maned-sys) | 0.4.0 | 0 | Raw FFI declarations for the mnd_* C ABI of libmaned_c |
+| 2026-10-11 00:10:00 | [maned](https://crates.io/crates/maned) | 0.4.0 | 0 | Call .mnd scripts in-process, through the mnd_* C ABI |
 
 ## Data source
 
