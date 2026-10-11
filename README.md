@@ -8,39 +8,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 17:20 UTC
+## Latest list — 2026-10-11 18:20 UTC
 
-New crates published between 2026-10-11 16:19 UTC and 2026-10-11 17:20 UTC.
+New crates published between 2026-10-11 17:20 UTC and 2026-10-11 18:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-11T17-20-41-845162Z.csv)
+[Full CSV](data/new-crates-2026-10-11T18-20-59-984872Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-11 16:21:50 | [syllabix-native](https://crates.io/crates/syllabix-native) | 0.1.1 | 0 | Shared ggml plus whisper.cpp and llama.cpp frontends |
-| 2026-10-11 16:21:54 | [syllabix-core](https://crates.io/crates/syllabix-core) | 0.1.1 | 0 | Voice-agent SDK: shared types, provider contracts, and an in-memory speech-to-s… |
-| 2026-10-11 16:24:38 | [redknife](https://crates.io/crates/redknife) | 0.1.0 | 0 | A Swiss Army knife for offensive pentesting. |
-| 2026-10-11 16:28:42 | [struct2md_derive](https://crates.io/crates/struct2md_derive) | 0.1.0 | 0 | Proc-macro derive for struct2md |
-| 2026-10-11 16:29:08 | [struct2md](https://crates.io/crates/struct2md) | 0.1.1 | 0 | Declarative macro to serialize Rust structs into Markdown via field attributes |
-| 2026-10-11 16:36:44 | [lacodda-tear](https://crates.io/crates/lacodda-tear) | 0.1.0 | 0 | A TCP proxy for tests that tears connections where you say: after so many bytes… |
-| 2026-10-11 16:40:47 | [witness-log-core](https://crates.io/crates/witness-log-core) | 0.3.5 | 0 | Cryptographic audit-trail core: RFC 6962-style Merkle log, Ed25519 identity, sa… |
-| 2026-10-11 16:41:01 | [witness-log-network](https://crates.io/crates/witness-log-network) | 0.3.5 | 0 | Witness protocol: peer countersigning of checkpoints and quorum/diversity scori… |
-| 2026-10-11 16:41:18 | [witness-log-cli](https://crates.io/crates/witness-log-cli) | 0.3.5 | 0 | witness-log: offline verification CLI for witnessed audit logs and witness quor… |
-| 2026-10-11 16:45:29 | [acctswap-core](https://crates.io/crates/acctswap-core) | 0.2.1 | 0 | The rules of acctswap: which saved Claude Code login to switch to, and how to s… |
-| 2026-10-11 16:45:41 | [acctswap](https://crates.io/crates/acctswap) | 0.2.1 | 0 | Switch the account every Claude Code session on a machine uses, from saved logi… |
-| 2026-10-11 16:48:25 | [pound-derive-impl](https://crates.io/crates/pound-derive-impl) | 0.3.0 | 0 | expansion behind pound's derive macros |
-| 2026-10-11 16:51:33 | [lodestone-wire](https://crates.io/crates/lodestone-wire) | 0.0.2 | 0 | Generated public wire types for the current Lodestone API |
-| 2026-10-11 16:52:32 | [wakuwaku-entity](https://crates.io/crates/wakuwaku-entity) | 0.1.0 | 0 | Capability-typed queries, hooks and pure transaction flows over sqlx, Redis and… |
-| 2026-10-11 16:52:45 | [lodestone-client](https://crates.io/crates/lodestone-client) | 0.0.2 | 0 | Current-only asynchronous Rust client for the Lodestone API |
-| 2026-10-11 17:04:35 | [trtask](https://crates.io/crates/trtask) | 0.1.0 | 0 | Cross-platform task spawning utilities for Terrarium. |
-| 2026-10-11 17:07:31 | [squadleader-scenario](https://crates.io/crates/squadleader-scenario) | 0.1.0 | 0 | Scenario builder tools for the SquadLeader system. |
-| 2026-10-11 17:11:00 | [log-bill](https://crates.io/crates/log-bill) | 0.1.0 | 0 | Offline estimate of log costs per pattern |
-| 2026-10-11 17:16:40 | [tidal-player-audio](https://crates.io/crates/tidal-player-audio) | 1.0.0 | 0 | Decode and audio output engine for tidal-player |
-| 2026-10-11 17:16:41 | [tidal-player-core](https://crates.io/crates/tidal-player-core) | 1.0.0 | 0 | Pure domain types, protocol and state machines for tidal-player (no I/O) |
-| 2026-10-11 17:16:42 | [tidal-player-api](https://crates.io/crates/tidal-player-api) | 1.0.0 | 0 | Tidal HTTP API client for tidal-player |
-| 2026-10-11 17:16:44 | [tidal-player](https://crates.io/crates/tidal-player) | 1.0.0 | 0 | Terminal Tidal player: standalone, daemon and client |
-| 2026-10-11 17:17:00 | [prototext-schema](https://crates.io/crates/prototext-schema) | 0.3.2 | 0 | On-demand FileDescriptorProto loading from a mmapped descriptor set and its rky… |
-| 2026-10-11 17:17:04 | [prototools-complete](https://crates.io/crates/prototools-complete) | 0.3.2 | 0 | Bash completion for clap from the raw command line, shared by the prototools CL… |
-| 2026-10-11 17:19:12 | [polloc](https://crates.io/crates/polloc) | 0.2.0 | 0 | A fixed size pool allocator with safe typed slots and reusable memory blocks |
+| 2026-10-11 17:20:44 | [fdp-scan](https://crates.io/crates/fdp-scan) | 0.3.2 | 0 | Find the protobuf FileDescriptorProto records embedded in a binary |
+| 2026-10-11 17:20:49 | [protoscan](https://crates.io/crates/protoscan) | 0.3.2 | 0 | Find the protobuf descriptors embedded in a binary |
+| 2026-10-11 17:22:08 | [ferrav](https://crates.io/crates/ferrav) | 0.1.1 | 0 | A fast Rust library for generating deterministic geometric identicons and avata… |
+| 2026-10-11 17:25:44 | [medh5-sys](https://crates.io/crates/medh5-sys) | 2.0.0 | 0 | Native dependencies of the medh5 format engine: HDF5 (static) and the HDF5-Blos… |
+| 2026-10-11 17:26:26 | [medh5](https://crates.io/crates/medh5) | 2.0.0 | 0 | The MEDH5 format engine: a self-describing HDF5 container for one medical imagi… |
+| 2026-10-11 17:26:51 | [medh5-cli](https://crates.io/crates/medh5-cli) | 2.0.0 | 0 | The medh5 command line: inspect, validate, verify, curate and convert MEDH5 med… |
+| 2026-10-11 17:28:11 | [fathomdb-sdk](https://crates.io/crates/fathomdb-sdk) | 0.8.27 | 0 | FathomDB Rust application SDK — the same Engine, read, graph and admin surface… |
+| 2026-10-11 17:31:09 | [rullst-privacy](https://crates.io/crates/rullst-privacy) | 13.0.0-alpha.1 | 0 | Bounded privacy and proportional age-assurance contracts for Rullst |
+| 2026-10-11 17:31:11 | [rullst-supervision](https://crates.io/crates/rullst-supervision) | 13.0.0-alpha.1 | 0 | Bounded transparent exam and parental supervision for Rullst |
+| 2026-10-11 17:31:14 | [rullst-media](https://crates.io/crates/rullst-media) | 13.0.0-alpha.1 | 0 | Explicit private video lifecycle with Bunny Stream and S3-compatible storage fo… |
+| 2026-10-11 17:31:16 | [rullst-labs](https://crates.io/crates/rullst-labs) | 13.0.0-alpha.1 | 0 | Explicit exercise, authorization and durable grading contracts for Rullst Labs |
+| 2026-10-11 17:33:37 | [serde-unknown](https://crates.io/crates/serde-unknown) | 0.1.0 | 0 | Handle unknown fields during Serde deserialization. |
+| 2026-10-11 17:35:15 | [postrust-engine](https://crates.io/crates/postrust-engine) | 2.3.1 | 0 | The REST request pipeline of Postrust, from HTTP request to response, independe… |
+| 2026-10-11 17:36:34 | [nix-why-build](https://crates.io/crates/nix-why-build) | 0.1.0 | 0 | Explain why a Nix build compiles what no binary cache serves |
+| 2026-10-11 17:39:06 | [winnow-args-spec](https://crates.io/crates/winnow-args-spec) | 0.2.0 | 0 | Stitch winnow-args command fragments into a documentation tree |
+| 2026-10-11 17:39:19 | [winnow-args-man](https://crates.io/crates/winnow-args-man) | 0.2.0 | 0 | man pages for a stitched winnow-args command |
+| 2026-10-11 17:39:21 | [winnow-args-markdown](https://crates.io/crates/winnow-args-markdown) | 0.2.0 | 0 | Markdown pages for a stitched winnow-args command |
+| 2026-10-11 17:39:40 | [veloce-ac3](https://crates.io/crates/veloce-ac3) | 0.1.7 | 0 | Pure-Rust Dolby Digital (AC-3 / ATSC A/52) audio sync frame parser |
+| 2026-10-11 17:40:08 | [veloce-audio-dsp](https://crates.io/crates/veloce-audio-dsp) | 0.1.7 | 0 | Broadcast-grade audio DSP suite, EBU R128 loudness metering, true peak and filt… |
+| 2026-10-11 17:40:32 | [veloce-bitstream](https://crates.io/crates/veloce-bitstream) | 0.1.7 | 0 | High-performance, zero-allocation bitstream reader and writer for multimedia co… |
+| 2026-10-11 17:40:58 | [veloce-cfb](https://crates.io/crates/veloce-cfb) | 0.1.7 | 0 | Pure-Rust Compound File Binary (CFB) format parser for professional media wrapp… |
+| 2026-10-11 17:41:24 | [veloce-color](https://crates.io/crates/veloce-color) | 0.1.7 | 0 | Color spaces, matrix transformations, transfer functions, and HDR BT.2020/PQ pi… |
+| 2026-10-11 17:41:35 | [veilus-human-input](https://crates.io/crates/veilus-human-input) | 0.1.0 | 0 | Human-like mouse paths, wheel scrolling and typing rhythm for browser automatio… |
+| 2026-10-11 17:43:40 | [logcat-cli](https://crates.io/crates/logcat-cli) | 0.1.0 | 0 | A modern, high-performance pidcat replacement in Rust for filtering and highlig… |
+| 2026-10-11 17:45:23 | [lindex](https://crates.io/crates/lindex) | 0.1.0 | 0 | Samsung DeX client for Linux |
+| 2026-10-11 17:48:28 | [langdetect](https://crates.io/crates/langdetect) | 0.1.0 | 0 | Port of the langdetect language detector that reproduces its results bit for bit |
+| 2026-10-11 17:49:56 | [veloce-geom](https://crates.io/crates/veloce-geom) | 0.1.7 | 0 | 2D geometry, aspect ratios, scaling and coordinate primitives for video frames |
+| 2026-10-11 17:55:43 | [orpheus-core](https://crates.io/crates/orpheus-core) | 0.0.1 | 0 | Core types for Orpheus, a decentralized home audio-over-IP system |
+| 2026-10-11 17:57:47 | [mentat_edn](https://crates.io/crates/mentat_edn) | 1.12.0 | 0 | EDN parser for Project Mentat |
+| 2026-10-11 17:57:51 | [mentat_sql_traits](https://crates.io/crates/mentat_sql_traits) | 1.12.0 | 0 | SQL dialect/connection traits shared by Mentat's SQL backends |
+| 2026-10-11 17:57:53 | [mino_gc_derive](https://crates.io/crates/mino_gc_derive) | 0.5.0 | 0 | Garbage collector derive plugin for rust-gc |
+| 2026-10-11 17:57:57 | [mentat_core_traits](https://crates.io/crates/mentat_core_traits) | 1.12.0 | 0 | Core trait and type definitions shared across Mentat crates |
+| 2026-10-11 17:58:01 | [mentat_db_traits](https://crates.io/crates/mentat_db_traits) | 1.12.0 | 0 | Database-layer error and context traits for Mentat |
+| 2026-10-11 17:59:57 | [veloce-matroska](https://crates.io/crates/veloce-matroska) | 0.1.7 | 0 | Pure-Rust Matroska (MKV) and WebM demuxer and EBML container parser |
+| 2026-10-11 18:00:27 | [change-preview](https://crates.io/crates/change-preview) | 0.1.0 | 0 | Preview what a command would change: unified diff or --stat of file edits, size… |
+| 2026-10-11 18:01:38 | [status-comment](https://crates.io/crates/status-comment) | 0.1.0 | 0 | Keeps one GitHub pull request comment up to date with a job's steps, statuses a… |
+| 2026-10-11 18:04:10 | [smbcloud-ascapi-pricing](https://crates.io/crates/smbcloud-ascapi-pricing) | 0.2.0 | 0 | App Store Connect pricing resources: app price schedules, and the per-territory… |
+| 2026-10-11 18:04:14 | [smbcloud-ascapi-reports](https://crates.io/crates/smbcloud-ascapi-reports) | 0.2.0 | 0 | Sales report downloads through the App Store Connect API. |
+| 2026-10-11 18:08:53 | [bidi-lite](https://crates.io/crates/bidi-lite) | 0.1.0 | 0 | A lightweight, asynchronous, and low-overhead Rust client for WebDriver BiDi (p… |
+| 2026-10-11 18:09:58 | [veloce-mpeg2v](https://crates.io/crates/veloce-mpeg2v) | 0.1.7 | 0 | Pure-Rust MPEG-2 Video elementary stream parser and sequence header probe (ISO/… |
+| 2026-10-11 18:10:59 | [mentat_query_algebrizer_traits](https://crates.io/crates/mentat_query_algebrizer_traits) | 1.12.0 | 0 | Algebrizer error/type traits for Mentat's query engine |
+| 2026-10-11 18:14:47 | [mentat_query_pull_traits](https://crates.io/crates/mentat_query_pull_traits) | 1.12.0 | 0 | Traits for Mentat's pull expressions |
+| 2026-10-11 18:19:30 | [dbuni](https://crates.io/crates/dbuni) | 0.1.0 | 0 | A unified database abstraction layer. |
+| 2026-10-11 18:19:59 | [veloce-mpegts](https://crates.io/crates/veloce-mpegts) | 0.1.7 | 0 | Pure-Rust MPEG Transport Stream (MPEG-TS) demuxer and packet parser (ISO/IEC 13… |
+| 2026-10-11 18:20:07 | [lalo](https://crates.io/crates/lalo) | 0.0.0 | 0 | Native local dictation for macOS and Linux: hold a hotkey, speak, and the text… |
+| 2026-10-11 18:20:08 | [vantage-inventory](https://crates.io/crates/vantage-inventory) | 0.1.0 | 0 | YAML project inventory: !include-aware load pipeline, kind registry, reloads an… |
 
 ## Data source
 

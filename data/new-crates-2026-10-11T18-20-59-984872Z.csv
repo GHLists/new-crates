@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T17:20:44.584816Z,fdp-scan,0.3.2,0,0,https://github.com/douzebis/prototools,Find the protobuf FileDescriptorProto records embedded in a binary
+2026-10-11T17:20:49.263408Z,protoscan,0.3.2,0,0,https://github.com/douzebis/prototools,Find the protobuf descriptors embedded in a binary
+2026-10-11T17:22:08.177899Z,ferrav,0.1.1,0,0,https://github.com/sagarchilivery/ferrav,"A fast Rust library for generating deterministic geometric identicons and avatars from text, with SVG and PNG support."
+2026-10-11T17:25:44.628887Z,medh5-sys,2.0.0,0,0,https://github.com/XwK-P/medh5,Native dependencies of the medh5 format engine: HDF5 (static) and the HDF5-Blosc2 filter with a vendored C-Blosc2
+2026-10-11T17:26:26.04186Z,medh5,2.0.0,0,0,https://github.com/XwK-P/medh5,The MEDH5 format engine: a self-describing HDF5 container for one medical imaging subject and all of its ground truth
+2026-10-11T17:26:51.512822Z,medh5-cli,2.0.0,0,0,https://github.com/XwK-P/medh5,"The medh5 command line: inspect, validate, verify, curate and convert MEDH5 medical imaging files"
+2026-10-11T17:28:11.250861Z,fathomdb-sdk,0.8.27,0,0,https://github.com/fathomadb/fathomdb,"FathomDB Rust application SDK — the same Engine, read, graph and admin surface as the Python and TypeScript SDKs."
+2026-10-11T17:31:09.397394Z,rullst-privacy,13.0.0-alpha.1,0,0,https://github.com/Rullst/Rullst,Bounded privacy and proportional age-assurance contracts for Rullst
+2026-10-11T17:31:11.667254Z,rullst-supervision,13.0.0-alpha.1,0,0,https://github.com/Rullst/Rullst,Bounded transparent exam and parental supervision for Rullst
+2026-10-11T17:31:14.021943Z,rullst-media,13.0.0-alpha.1,0,0,https://github.com/Rullst/Rullst,Explicit private video lifecycle with Bunny Stream and S3-compatible storage for Rullst
+2026-10-11T17:31:16.179248Z,rullst-labs,13.0.0-alpha.1,0,0,https://github.com/Rullst/Rullst,"Explicit exercise, authorization and durable grading contracts for Rullst Labs"
+2026-10-11T17:33:37.819167Z,serde-unknown,0.1.0,0,0,https://github.com/ZnqbuZ/serde-unknown,Handle unknown fields during Serde deserialization.
+2026-10-11T17:35:15.171213Z,postrust-engine,2.3.1,0,0,https://github.com/postrust/postrust,"The REST request pipeline of Postrust, from HTTP request to response, independent of any web framework"
+2026-10-11T17:36:34.927243Z,nix-why-build,0.1.0,0,0,https://github.com/mlavrinenko/nix-why-build,Explain why a Nix build compiles what no binary cache serves
+2026-10-11T17:39:06.11452Z,winnow-args-spec,0.2.0,0,0,https://github.com/lu-zero/winnow-args,Stitch winnow-args command fragments into a documentation tree
+2026-10-11T17:39:19.144524Z,winnow-args-man,0.2.0,0,0,https://github.com/lu-zero/winnow-args,man pages for a stitched winnow-args command
+2026-10-11T17:39:21.855964Z,winnow-args-markdown,0.2.0,0,0,https://github.com/lu-zero/winnow-args,Markdown pages for a stitched winnow-args command
+2026-10-11T17:39:40.324877Z,veloce-ac3,0.1.7,0,0,https://github.com/magosam/veloce,Pure-Rust Dolby Digital (AC-3 / ATSC A/52) audio sync frame parser
+2026-10-11T17:40:08.355175Z,veloce-audio-dsp,0.1.7,0,0,https://github.com/magosam/veloce,"Broadcast-grade audio DSP suite, EBU R128 loudness metering, true peak and filtering"
+2026-10-11T17:40:32.499025Z,veloce-bitstream,0.1.7,0,0,https://github.com/magosam/veloce,"High-performance, zero-allocation bitstream reader and writer for multimedia codecs"
+2026-10-11T17:40:58.216744Z,veloce-cfb,0.1.7,0,0,https://github.com/magosam/veloce,Pure-Rust Compound File Binary (CFB) format parser for professional media wrappers
+2026-10-11T17:41:24.918401Z,veloce-color,0.1.7,0,0,https://github.com/magosam/veloce,"Color spaces, matrix transformations, transfer functions, and HDR BT.2020/PQ pipeline"
+2026-10-11T17:41:35.164976Z,veilus-human-input,0.1.0,0,0,https://github.com/veilus/human-input,"Human-like mouse paths, wheel scrolling and typing rhythm for browser automation: pure functions, parameters supplied by the caller."
+2026-10-11T17:43:40.255548Z,logcat-cli,0.1.0,0,0,https://github.com/GBouerat/logcat,"A modern, high-performance pidcat replacement in Rust for filtering and highlighting Android logcat"
+2026-10-11T17:45:23.9803Z,lindex,0.1.0,0,0,https://github.com/BeetleBot/LinDEX,Samsung DeX client for Linux
+2026-10-11T17:48:28.624585Z,langdetect,0.1.0,0,0,https://github.com/SyntaxSpirits/langdetect-rs,Port of the langdetect language detector that reproduces its results bit for bit
+2026-10-11T17:49:56.283021Z,veloce-geom,0.1.7,0,0,https://github.com/magosam/veloce,"2D geometry, aspect ratios, scaling and coordinate primitives for video frames"
+2026-10-11T17:55:43.896208Z,orpheus-core,0.0.1,0,0,https://github.com/orpheus-audio/orpheus,"Core types for Orpheus, a decentralized home audio-over-IP system"
+2026-10-11T17:57:47.749841Z,mentat_edn,1.12.0,0,0,https://codeberg.org/gregburd/mentat,EDN parser for Project Mentat
+2026-10-11T17:57:51.223283Z,mentat_sql_traits,1.12.0,0,0,,SQL dialect/connection traits shared by Mentat's SQL backends
+2026-10-11T17:57:53.160818Z,mino_gc_derive,0.5.0,0,0,https://github.com/Manishearth/rust-gc,Garbage collector derive plugin for rust-gc
+2026-10-11T17:57:57.567783Z,mentat_core_traits,1.12.0,0,0,,Core trait and type definitions shared across Mentat crates
+2026-10-11T17:58:01.648919Z,mentat_db_traits,1.12.0,0,0,,Database-layer error and context traits for Mentat
+2026-10-11T17:59:57.160453Z,veloce-matroska,0.1.7,0,0,https://github.com/magosam/veloce,Pure-Rust Matroska (MKV) and WebM demuxer and EBML container parser
+2026-10-11T18:00:27.707098Z,change-preview,0.1.0,0,0,https://github.com/pyrlyn/crates-packages,"Preview what a command would change: unified diff or --stat of file edits, size and file count of removals, and a totals line"
+2026-10-11T18:01:38.540358Z,status-comment,0.1.0,0,0,https://github.com/reconbot/status-comment,"Keeps one GitHub pull request comment up to date with a job's steps, statuses and output"
+2026-10-11T18:04:10.659058Z,smbcloud-ascapi-pricing,0.2.0,0,0,https://github.com/smbcloudXYZ/smbcloud-ascapi,"App Store Connect pricing resources: app price schedules, and the per-territory prices and price points hanging off them."
+2026-10-11T18:04:14.245768Z,smbcloud-ascapi-reports,0.2.0,0,0,https://github.com/smbcloudXYZ/smbcloud-ascapi,Sales report downloads through the App Store Connect API.
+2026-10-11T18:08:53.42869Z,bidi-lite,0.1.0,0,0,https://github.com/raultov/bidi-lite,"A lightweight, asynchronous, and low-overhead Rust client for WebDriver BiDi (plus a minimal Firefox RDP debugger), focused on Firefox."
+2026-10-11T18:09:58.616981Z,veloce-mpeg2v,0.1.7,0,0,https://github.com/magosam/veloce,Pure-Rust MPEG-2 Video elementary stream parser and sequence header probe (ISO/IEC 13818-2)
+2026-10-11T18:10:59.842508Z,mentat_query_algebrizer_traits,1.12.0,0,0,https://codeberg.org/gregburd/mentat,Algebrizer error/type traits for Mentat's query engine
+2026-10-11T18:14:47.26241Z,mentat_query_pull_traits,1.12.0,0,0,https://codeberg.org/gregburd/mentat,Traits for Mentat's pull expressions
+2026-10-11T18:19:30.929129Z,dbuni,0.1.0,0,0,https://github.com/0xhappyboy/dbuni,A unified database abstraction layer.
+2026-10-11T18:19:59.167535Z,veloce-mpegts,0.1.7,0,0,https://github.com/magosam/veloce,Pure-Rust MPEG Transport Stream (MPEG-TS) demuxer and packet parser (ISO/IEC 13818-1)
+2026-10-11T18:20:07.112927Z,lalo,0.0.0,0,0,https://github.com/vladkens/lalo,"Native local dictation for macOS and Linux: hold a hotkey, speak, and the text lands where you type. Work in progress."
+2026-10-11T18:20:08.032862Z,vantage-inventory,0.1.0,0,0,https://github.com/romaninsh/vantage,"YAML project inventory: !include-aware load pipeline, kind registry, reloads and schema emission"
