@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T01:23:06.79636Z,rust-video,0.1.0,0,0,https://github.com/Oktan-Mirroring/rust-video,Safe Rust interface over realtime video encode and decode
+2026-10-11T01:24:01.703113Z,superconductivity,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Checked Bogoliubov-de Gennes models and superconducting observables
+2026-10-11T01:25:22.342336Z,qlirgo,0.1.0,0,0,https://github.com/MGYamada/qargo,Qleisli qrate tooling: initial package for the planned qargo-to-qlirgo rename
+2026-10-11T01:29:18.846784Z,miosa,0.1.0,0,0,https://github.com/Miosa-osa/miosa,"Official MIOSA Rust SDK: sandboxes, computers, deployments, and the platform builder kit."
+2026-10-11T01:32:11.52573Z,saturnus-core,0.2.0,0,0,https://github.com/ractive/saturnus,"Headless, clean-room emulator of the HP Saturn calculators (core library)"
+2026-10-11T01:34:17.373563Z,clifford-field,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,"Reusable Clifford field storage, CPU simulation kernels, and numerical analysis for Rust"
+2026-10-11T01:34:40.80714Z,opys-minecraft-server,0.4.0,0,0,https://github.com/harmoniya-net/opys,"A Minecraft server for opys: vanilla, Paper, Fabric, or any jar you have."
+2026-10-11T01:37:29.458357Z,helios-gui,0.1.0,0,0,https://foss.heptapod.net/mercurial/helios-gui,"A read-only history browser, Mercurial first"
+2026-10-11T01:38:36.291658Z,wist-log,0.1.0,0,0,https://github.com/dayu-sec/wist-log,wist 统一日志输出：`log` 门面 + `env_logger` 后端，级别 / 格式 / 落点 / 轮转由 `[log]` 段决定。
+2026-10-11T01:44:30.201125Z,clifford-geometry,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,"Sparse geometric-algebra types and EGA, PGA, CGA, STA geometry for Rust"
+2026-10-11T01:50:39.190267Z,scaling-macros,0.9.0,0,0,https://github.com/droundy/scaling,Attribute macros for the scaling benchmarking library
+2026-10-11T01:54:53.226145Z,clifford-lattice,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,"Validated Cl(6,0) rotor algebra and portable lattice Metropolis kernels"
+2026-10-11T01:58:18.354153Z,ghtui-diff,0.1.0,0,0,https://github.com/gold-silver-copper/ghtui,"Diffs for ghtui: line hunks, tree-sitter highlighting, changed words, moved code"
+2026-10-11T01:58:19.275855Z,ghtui-schema,0.1.0,0,0,https://github.com/gold-silver-copper/ghtui,"GitHub's GraphQL schema compiled for cynic, for ghtui"
+2026-10-11T01:58:19.956982Z,ghtui-store,0.1.0,0,0,https://github.com/gold-silver-copper/ghtui,ghtui's cache (redb) and review drafts
+2026-10-11T01:58:20.401883Z,ghtui-theme,0.1.0,0,0,https://github.com/gold-silver-copper/ghtui,"Material 3 color schemes for ghtui, generated from one seed and checked for contrast"
+2026-10-11T01:58:21.291592Z,ghtui-api,0.1.0,0,0,https://github.com/gold-silver-copper/ghtui,"GitHub's GraphQL and REST APIs for ghtui: models, auth, retries, rate limits"
+2026-10-11T02:03:07.956126Z,ghtui-git,0.1.0,0,0,https://github.com/gold-silver-copper/ghtui,"The git CLI for ghtui: repositories, credentials, partial clones, fetches and blobs"
+2026-10-11T02:04:35.979838Z,rsbinder-fmq,0.12.0,0,0,https://github.com/hiking90/rsbinder,"AOSP-compatible Fast Message Queue (libfmq) in pure Rust — a shared-memory ring with futex wake-ups, independent of binder."
+2026-10-11T02:05:56.470852Z,clifford-layers,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Framework-neutral neural-network layers over Clifford multivectors
+2026-10-11T02:16:59.523681Z,cluster-embedding,0.1.0,0,0,https://github.com/MonumentalSystems/commutator-rs,Checked VCA and DMFT embedding foundations with injected cluster solvers
