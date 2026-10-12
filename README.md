@@ -8,27 +8,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 02:19 UTC
+## Latest list — 2026-10-12 03:19 UTC
 
-New crates published between 2026-10-12 01:18 UTC and 2026-10-12 02:19 UTC.
+New crates published between 2026-10-12 02:19 UTC and 2026-10-12 03:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-12T02-19-42-124084Z.csv)
+[Full CSV](data/new-crates-2026-10-12T03-19-04-547829Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-12 01:19:57 | [veloster-dnx](https://crates.io/crates/veloster-dnx) | 0.1.10 | 0 | Pure-Rust Avid DNxHD / DNxHR frame header parser and compression ID analyzer (S… |
-| 2026-10-12 01:29:59 | [veloster-h264enc](https://crates.io/crates/veloster-h264enc) | 0.1.10 | 0 | Pure-Rust baseline H.264 / AVC video encoder |
-| 2026-10-12 01:33:51 | [pixtuoid-lofi](https://crates.io/crates/pixtuoid-lofi) | 0.1.0 | 0 | Procedural lofi in Rust: a seed composes a song, synthesized from constants — n… |
-| 2026-10-12 01:39:58 | [veloster-hevc](https://crates.io/crates/veloster-hevc) | 0.1.10 | 0 | Pure-Rust H.265 / HEVC parameter set parser and NAL unit analyzer (ITU-T H.265) |
-| 2026-10-12 01:44:57 | [shrinkfit](https://crates.io/crates/shrinkfit) | 0.1.0 | 0 | Shrink JSON/YAML payloads to fit a character budget while preserving their sche… |
-| 2026-10-12 01:45:01 | [shrinkfit-cli](https://crates.io/crates/shrinkfit-cli) | 0.1.0 | 0 | Command-line tool and local playground for shrinkfit: shrink JSON/YAML to fit a… |
-| 2026-10-12 01:50:00 | [veloster-isobmff](https://crates.io/crates/veloster-isobmff) | 0.1.10 | 0 | Pure-Rust MP4/MOV (ISOBMFF) demuxer and muxer conforming to ISO/IEC 14496-12 |
-| 2026-10-12 01:50:24 | [haken](https://crates.io/crates/haken) | 0.0.1 | 0 | haken: a keyboard-first task manager for the terminal, browser and phone. This… |
-| 2026-10-12 01:50:33 | [hypertextual](https://crates.io/crates/hypertextual) | 0.0.0-rc.2 | 0 | A minimal Clap-derived command-line interface template. |
-| 2026-10-12 01:54:40 | [bastian](https://crates.io/crates/bastian) | 0.1.0 | 0 | A terminal Markdown reader |
-| 2026-10-12 01:59:58 | [veloster-prores](https://crates.io/crates/veloster-prores) | 0.1.10 | 0 | Pure-Rust Apple ProRes encoder and decoder conforming to Apple RDD 36 |
-| 2026-10-12 02:09:56 | [veloster-vp9](https://crates.io/crates/veloster-vp9) | 0.1.10 | 0 | Pure-Rust VP9 bitstream parser, uncompressed header reader, and superframe unpa… |
-| 2026-10-12 02:17:00 | [myko-telemetry](https://crates.io/crates/myko-telemetry) | 6.8.0 | 0 | Shared Myko application telemetry over OTLP |
+| 2026-10-12 02:19:58 | [veloster-frame](https://crates.io/crates/veloster-frame) | 0.1.10 | 0 | Core VideoFrame and AudioBuffer data structures for uncompressed multimedia data |
+| 2026-10-12 02:29:56 | [veloster-h264](https://crates.io/crates/veloster-h264) | 0.1.10 | 0 | Pure-Rust H.264 / AVC NAL unit parser, SPS/PPS decoder, and bitstream analyzer |
+| 2026-10-12 02:40:01 | [veloster-media](https://crates.io/crates/veloster-media) | 0.1.10 | 0 | Unified high-level multimedia file abstraction, stream probing, and frame decod… |
+| 2026-10-12 02:50:04 | [veloster-codecs](https://crates.io/crates/veloster-codecs) | 0.1.10 | 0 | Unified codecs dispatch hub and multi-format registry for Veloster multimedia e… |
+| 2026-10-12 02:51:55 | [disktop](https://crates.io/crates/disktop) | 0.1.0 | 0 | A top-style terminal monitor for your drives, with live I/O graphs |
+| 2026-10-12 02:52:36 | [zaino-component](https://crates.io/crates/zaino-component) | 0.1.0 | 0 | A supervised in-process subsystem (a Component): its health, lifecycle, managem… |
+| 2026-10-12 02:53:17 | [zaino-chain](https://crates.io/crates/zaino-chain) | 0.2.0 | 0 | ChainView: the ports for Zaino's unified chain read surface, and the composer t… |
+| 2026-10-12 02:56:47 | [bsv-overlay-engine](https://crates.io/crates/bsv-overlay-engine) | 0.1.0 | 0 | Transaction admission, lookup and GASP synchronization for BSV overlay services. |
+| 2026-10-12 02:57:06 | [bsv-overlay-discovery](https://crates.io/crates/bsv-overlay-discovery) | 0.1.0 | 0 | Topic managers and lookup services for the BSV overlay network. |
+| 2026-10-12 03:01:09 | [cryptscale](https://crates.io/crates/cryptscale) | 0.1.0 | 0 | A fast, secure file encryption and decryption tool for cloud storage, with rand… |
+| 2026-10-12 03:02:05 | [bsv-low-proof-replay](https://crates.io/crates/bsv-low-proof-replay) | 0.1.0 | 0 | Deterministic server-side verification of LOW proof transcript bundles. |
+| 2026-10-12 03:02:14 | [bsv-worker-build-info](https://crates.io/crates/bsv-worker-build-info) | 0.1.0 | 0 | Shared build provenance capture and health metadata for BSV Workers. |
+| 2026-10-12 03:02:54 | [bsv-overlay-cloudflare](https://crates.io/crates/bsv-overlay-cloudflare) | 0.1.0 | 0 | Cloudflare Workers hosting for BSV overlay services. |
+| 2026-10-12 03:03:18 | [poop](https://crates.io/crates/poop) | 0.0.1 | 0 | Rust client for WHOOP 4.0 and WHOOP 5.0/MG straps over BLE using the Web Blueto… |
+| 2026-10-12 03:05:37 | [rust-commander-platform](https://crates.io/crates/rust-commander-platform) | 0.2.2 | 0 | Platform integration primitives for Rust Commander |
+| 2026-10-12 03:16:54 | [windows-headless](https://crates.io/crates/windows-headless) | 0.1.0-alpha | 0 | Minimal-dependency headless Windows 11 VM provisioning and automation |
 
 ## Data source
 

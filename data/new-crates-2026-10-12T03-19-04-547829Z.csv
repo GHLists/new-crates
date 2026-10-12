@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T02:19:58.939234Z,veloster-frame,0.1.10,0,0,https://github.com/magosam/veloster,Core VideoFrame and AudioBuffer data structures for uncompressed multimedia data
+2026-10-12T02:29:56.660124Z,veloster-h264,0.1.10,0,0,https://github.com/magosam/veloster,"Pure-Rust H.264 / AVC NAL unit parser, SPS/PPS decoder, and bitstream analyzer"
+2026-10-12T02:40:01.908348Z,veloster-media,0.1.10,0,0,https://github.com/magosam/veloster,"Unified high-level multimedia file abstraction, stream probing, and frame decoding"
+2026-10-12T02:50:04.542245Z,veloster-codecs,0.1.10,0,0,https://github.com/magosam/veloster,Unified codecs dispatch hub and multi-format registry for Veloster multimedia engine
+2026-10-12T02:51:55.561764Z,disktop,0.1.0,0,0,https://github.com/0mnicy/disktop,"A top-style terminal monitor for your drives, with live I/O graphs"
+2026-10-12T02:52:36.720143Z,zaino-component,0.1.0,0,0,https://github.com/zingolabs,"A supervised in-process subsystem (a Component): its health, lifecycle, management, and task supervision. Status is one facet, not the crate's identity."
+2026-10-12T02:53:17.864296Z,zaino-chain,0.2.0,0,0,https://github.com/zingolabs,"ChainView: the ports for Zaino's unified chain read surface, and the composer that implements them."
+2026-10-12T02:56:47.774045Z,bsv-overlay-engine,0.1.0,0,0,https://github.com/Calhooon/bsv-overlay-cloudflare,"Transaction admission, lookup and GASP synchronization for BSV overlay services."
+2026-10-12T02:57:06.414334Z,bsv-overlay-discovery,0.1.0,0,0,https://github.com/Calhooon/bsv-overlay-cloudflare,Topic managers and lookup services for the BSV overlay network.
+2026-10-12T03:01:09.51661Z,cryptscale,0.1.0,0,0,https://github.com/imuyue/CryptScale,"A fast, secure file encryption and decryption tool for cloud storage, with random chunking and container camouflage."
+2026-10-12T03:02:05.113466Z,bsv-low-proof-replay,0.1.0,0,0,https://github.com/Calhooon/bsv-overlay-cloudflare,Deterministic server-side verification of LOW proof transcript bundles.
+2026-10-12T03:02:14.696732Z,bsv-worker-build-info,0.1.0,0,0,https://github.com/Calhooon/bsv-overlay-cloudflare,Shared build provenance capture and health metadata for BSV Workers.
+2026-10-12T03:02:54.759555Z,bsv-overlay-cloudflare,0.1.0,0,0,https://github.com/Calhooon/bsv-overlay-cloudflare,Cloudflare Workers hosting for BSV overlay services.
+2026-10-12T03:03:18.339954Z,poop,0.0.1,0,0,https://github.com/eugenehp/whoop-rs,Rust client for WHOOP 4.0 and WHOOP 5.0/MG straps over BLE using the Web Bluetooth API
+2026-10-12T03:05:37.928906Z,rust-commander-platform,0.2.2,0,0,https://github.com/hbbio/rc,Platform integration primitives for Rust Commander
+2026-10-12T03:16:54.353445Z,windows-headless,0.1.0-alpha,0,0,https://github.com/jzombie/windows-headless,Minimal-dependency headless Windows 11 VM provisioning and automation
