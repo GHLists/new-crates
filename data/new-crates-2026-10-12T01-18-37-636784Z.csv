@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T00:23:35.754518Z,atrinik-catalog,0.1.0,0,0,https://github.com/atrinik/content-toolkit,Deterministic immutable Atrinik authored content catalog
+2026-10-12T00:27:14.398113Z,harn-stdlib-artifacts,0.10.165,0,0,https://github.com/burin-labs/harn,Precompiled Harn stdlib module artifacts for embedding in a host binary
+2026-10-12T00:30:00.622424Z,veloster-opus,0.1.10,0,0,https://github.com/magosam/veloster,"Pure-Rust Opus packet framing parser, OpusHead decoder, and TOC reader (RFC 6716 / RFC 7845)"
+2026-10-12T00:31:20.880043Z,rank-bm25,0.1.0,0,0,https://github.com/SyntaxSpirits/rank-bm25-rs,"BM25Okapi, BM25L and BM25Plus with scores identical to Python's rank_bm25"
+2026-10-12T00:34:53.038646Z,atrinik-schema,0.1.0,0,0,https://github.com/atrinik/content-toolkit,Typed schema rules over lossless Atrinik authored documents
+2026-10-12T00:39:08.752059Z,tuya-interpreter,0.1.0-alpha.1,0,0,https://github.com/3735943886/tuya-interpreter,Portable Tuya device interpreter: schemas and DPS to intermediate device semantics
+2026-10-12T00:39:57.821412Z,veloster-time,0.1.10,0,0,https://github.com/magosam/veloster,Rational time arithmetic and SMPTE timecode calculation for precision multimedia processing
+2026-10-12T00:40:19.046074Z,plexus-shell,0.1.0,0,0,https://github.com/hypermemetic-ai/menger,"Serve a Plexus RPC app's frontend build (from disk or embedded in the binary) beside its hub, and start the whole server as a library call"
+2026-10-12T00:41:02.335463Z,htmlcut-tendril,0.5.1-htmlcut.2,0,0,https://github.com/resoltico/HTMLCut,Tendril buffer ownership with strict-provenance safeguards for HTMLCut
+2026-10-12T00:44:08.079698Z,situate,0.1.0,0,0,https://codeberg.org/wreedb/situate,Facilitates doing real/staged installation of software packages
+2026-10-12T00:44:26.608247Z,htmlcut-markup5ever,0.40.0-htmlcut.2,0,0,https://github.com/resoltico/HTMLCut,Parser atom and sink types aligned with HTMLCut safety dependencies
+2026-10-12T00:44:36.214744Z,htmlcut-html5ever,0.40.1-htmlcut.3,0,0,https://github.com/resoltico/HTMLCut,HTML5 parser with same-token bounded stopping safeguards for HTMLCut
+2026-10-12T00:44:44.932901Z,htmlcut-servo-arc,0.5.0-htmlcut.3,0,0,https://github.com/resoltico/HTMLCut,Servo Arc ownership with corrected mutable-tail provenance for HTMLCut
+2026-10-12T00:44:56.174949Z,htmlcut-selectors,0.41.0-htmlcut.3,0,0,https://github.com/resoltico/HTMLCut,CSS selector matching with bounded inner-work refusal for HTMLCut
+2026-10-12T00:46:15.435254Z,atrinik-testkit,0.1.0,0,0,https://github.com/atrinik/content-toolkit,Shared clean-room conformance fixtures for Atrinik content consumers
+2026-10-12T00:49:58.570448Z,veloster-aac,0.1.10,0,0,https://github.com/magosam/veloster,Pure-Rust Advanced Audio Coding (AAC) AudioSpecificConfig parser and decoder
+2026-10-12T00:51:41.078549Z,bevy_vsg,0.1.0,0,0,https://github.com/mintlu8/bevy_vsg,Command line tool for generating vertex shaders for bevy.
+2026-10-12T00:52:06.113199Z,tabtrail,0.1.1,0,0,https://github.com/TNYCL/tabtrail,"Discovery-based dynamic Tab completion for existing Bash, Zsh and Fish shells on Linux"
+2026-10-12T00:52:15.793846Z,htmlcut-core,21.0.0,0,0,https://github.com/resoltico/HTMLCut,"Bounded snapshot queries with original-DOM records, structural readings and complete typed results."
+2026-10-12T00:53:46.438247Z,fk,0.1.0,0,0,https://github.com/unsigned-gg/uas,Terminal Overdrive: generates trace corpus for complex Rust implementations by agents. Experiments with agentic swarm orchestration in SDLC contexts.
+2026-10-12T00:57:33.714829Z,atrinik-transaction,0.1.0,0,0,https://github.com/atrinik/content-toolkit,Revisioned immutable Atrinik authored content transactions
+2026-10-12T01:00:00.067371Z,veloster-apv,0.1.10,0,0,https://github.com/magosam/veloster,Pure-Rust Advanced Professional Video (APV) metadata parser and profile validator (SMPTE ST 2140)
+2026-10-12T01:01:31.698509Z,htmlcut-cli,21.0.0,0,0,https://github.com/resoltico/HTMLCut,"Bounded extraction from immutable HTML snapshots with explicit projections, strict guards, reusable plans, and compact deterministic results."
+2026-10-12T01:03:21.75469Z,plexus-login,0.1.0,0,0,https://github.com/hypermemetic-ai/menger,"Login for a Plexus RPC hub — provider specs (OIDC, WorkOS, Auth0, plexus-idp, nostr, agent keys), the login page and its routes, sessions, the WebSocket gate and the auth backend — generic over the a…"
+2026-10-12T01:10:07.970497Z,veloster-av1,0.1.10,0,0,https://github.com/magosam/veloster,Pure-Rust AV1 Open Bitstream Unit (OBU) parser and sequence header reader
+2026-10-12T01:17:59.112935Z,package-registry-manager,0.22.10,0,0,https://github.com/link-foundation/package-registry-manager,Inspect repositories and guide secure package-registry setup
