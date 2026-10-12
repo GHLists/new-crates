@@ -8,42 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 10:18 UTC
+## Latest list — 2026-10-12 11:19 UTC
 
-New crates published between 2026-10-12 09:22 UTC and 2026-10-12 10:18 UTC.
+New crates published between 2026-10-12 10:18 UTC and 2026-10-12 11:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-12T10-18-36-285197Z.csv)
+[Full CSV](data/new-crates-2026-10-12T11-19-15-096839Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-12 09:28:02 | [zontologize](https://crates.io/crates/zontologize) | 0.0.1 | 0 | Point zontologize at a folder and get an ontology back. A pure-Rust CLI that cr… |
-| 2026-10-12 09:28:39 | [hidane-rules](https://crates.io/crates/hidane-rules) | 0.2.1 | 0 | Firestore Security Rules for hidane: compiler and evaluator |
-| 2026-10-12 09:33:37 | [dga-bevy-wings-ui-responsive](https://crates.io/crates/dga-bevy-wings-ui-responsive) | 0.1.0 | 0 | Responsive layouts for Bevy Wings UI: window size classes, breakpoints and resp… |
-| 2026-10-12 09:34:00 | [ossuary-cli](https://crates.io/crates/ossuary-cli) | 0.12.0 | 0 | Command-line interface for ossuary archives |
-| 2026-10-12 09:34:27 | [seagents](https://crates.io/crates/seagents) | 0.1.0 | 0 | run coding agents in herdr, each in its own i3 window |
-| 2026-10-12 09:40:32 | [ossuary-mailvault](https://crates.io/crates/ossuary-mailvault) | 0.12.0 | 0 | Fetches mail from IMAP and Microsoft 365 mailboxes into an ossuary archive |
-| 2026-10-12 09:42:01 | [dga-bevy-wings-ui-modifier](https://crates.io/crates/dga-bevy-wings-ui-modifier) | 0.1.0 | 0 | Chainable, ECS applied modifiers (layout, paint, transform, interaction) for Be… |
-| 2026-10-12 09:43:12 | [miniargs](https://crates.io/crates/miniargs) | 0.1.4 | 0 | A small, zero-dependency argument parser. |
-| 2026-10-12 09:50:09 | [cocorico](https://crates.io/crates/cocorico) | 0.1.0 | 0 | Construct allocation-free Wakers from typed wake operations |
-| 2026-10-12 09:51:59 | [dga-bevy-wings-ui-shaders](https://crates.io/crates/dga-bevy-wings-ui-shaders) | 0.1.0 | 0 | Custom WESL UI materials for Bevy Wings UI: ripple, shimmer, circular progress,… |
-| 2026-10-12 09:52:10 | [big-bad-bool-interact](https://crates.io/crates/big-bad-bool-interact) | 0.1.0 | 0 | Rules, dispatch, reconstruction, passthrough, and flow for Big Bad Bool packed… |
-| 2026-10-12 09:52:15 | [big-bad-bool-test-suite](https://crates.io/crates/big-bad-bool-test-suite) | 0.1.0 | 0 | Regression, exhaustive, compile-fail, and real-schema tests for Big Bad Bool |
-| 2026-10-12 09:52:40 | [qqbot-sdk-rs](https://crates.io/crates/qqbot-sdk-rs) | 0.1.2 | 0 | 轻巧、异步的 QQ 官方机器人 SDK：鉴权、消息、事件、群与频道管理 |
-| 2026-10-12 09:55:09 | [open-meteo-core](https://crates.io/crates/open-meteo-core) | 0.2.0 | 0 | Request building and response parsing for the open-meteo.com API, without I/O (… |
-| 2026-10-12 09:57:20 | [source-mdl](https://crates.io/crates/source-mdl) | 0.6.0 | 0 | Fast, safe and feature-gated support for Source Engine studio models. |
-| 2026-10-12 09:57:45 | [ekbloom](https://crates.io/crates/ekbloom) | 0.3.0 | 0 | EKBLOOM — concealed-expansion codec. Spend manifested space to maximise speed. |
-| 2026-10-12 09:59:14 | [core-1o](https://crates.io/crates/core-1o) | 0.1.0 | 0 | Reusable 1o lexer, AST, schema lookup and validation |
-| 2026-10-12 09:59:24 | [language-server-1o](https://crates.io/crates/language-server-1o) | 0.1.0 | 0 | Portable 1o language server (LSP) with schema discovery and AST export |
-| 2026-10-12 10:01:14 | [parseHTTP](https://crates.io/crates/parseHTTP) | 0.1.0 | 0 | A small utility crate for parsing and building HTTP messages. |
-| 2026-10-12 10:02:09 | [dga-bevy-wings-ui-widgets](https://crates.io/crates/dga-bevy-wings-ui-widgets) | 0.1.0 | 0 | Themed, animated, ECS native widgets for Bevy UI built with bsn! scenes: WingsB… |
-| 2026-10-12 10:03:36 | [legacy-bullshit](https://crates.io/crates/legacy-bullshit) | 0.1.0 | 0 | The legacy crypto the standards force on an ECC and ChaCha20 client, and nothin… |
-| 2026-10-12 10:04:05 | [foregather-kit](https://crates.io/crates/foregather-kit) | 0.2.0 | 0 | Portable encrypted invitation transfer, spoken verification and opt-in experime… |
-| 2026-10-12 10:05:47 | [smart-todo-app-tui](https://crates.io/crates/smart-todo-app-tui) | 0.1.0 | 0 | A terminal user interface todo application written in Rust |
-| 2026-10-12 10:08:25 | [foregather-server](https://crates.io/crates/foregather-server) | 0.2.0 | 0 | Self-hosted bounded ciphertext resolver for Foregather |
-| 2026-10-12 10:08:48 | [orfs](https://crates.io/crates/orfs) | 0.1.0 | 0 | OrFS — a non-withdrawal, concealed-expansion FUSE filesystem with io_uring back… |
-| 2026-10-12 10:10:59 | [parse-lines](https://crates.io/crates/parse-lines) | 0.1.1 | 0 | read and parse lines from anything implementing AsyncBufRead |
-| 2026-10-12 10:12:05 | [dga-bevy-wings-ui-mvvm](https://crates.io/crates/dga-bevy-wings-ui-mvvm) | 0.1.0 | 0 | MVVM for Bevy UI: view models as components, declarative bindings, intents and… |
-| 2026-10-12 10:18:03 | [flodl-bio](https://crates.io/crates/flodl-bio) | 0.1.0 | 0 | Bioinformatics data layer for flodl: sequence encoding, one-hot, k-mers, graphs… |
+| 2026-10-12 10:18:48 | [gtmpl_value_ng](https://crates.io/crates/gtmpl_value_ng) | 0.9.0 | 0 | Internal value format for gtmpl-ng, the Golang templating language for Rust |
+| 2026-10-12 10:18:50 | [gtmpl_derive_ng](https://crates.io/crates/gtmpl_derive_ng) | 0.9.0 | 0 | Derive macro for gtmpl_value_ng |
+| 2026-10-12 10:20:56 | [craw](https://crates.io/crates/craw) | 0.1.1 | 0 | 這個抓取項目是一個學習過程。 |
+| 2026-10-12 10:22:01 | [dga-bevy-wings-ui-navigation](https://crates.io/crates/dga-bevy-wings-ui-navigation) | 0.1.0 | 0 | Type safe, back stack driven navigation for Bevy UI with bsn! destinations, tra… |
+| 2026-10-12 10:24:41 | [x-monitor-manager](https://crates.io/crates/x-monitor-manager) | 1.0.0 | 0 | A TUI for arranging X11 monitors via xrandr, with vim-like controls |
+| 2026-10-12 10:29:50 | [yt-cli](https://crates.io/crates/yt-cli) | 0.0.1 | 0 | Command line interface for JetBrains YouTrack |
+| 2026-10-12 10:32:03 | [dga-bevy-wings-framework](https://crates.io/crates/dga-bevy-wings-framework) | 0.1.0 | 0 | Layered app framework for Bevy 0.20: data, domain and presentation crates with… |
+| 2026-10-12 10:34:42 | [webfind](https://crates.io/crates/webfind) | 0.5.0 | 0 | Self-hosted native search engine for AI agents — pure CLI, zero cost |
+| 2026-10-12 10:38:05 | [ltk_ini](https://crates.io/crates/ltk_ini) | 0.1.0 | 0 | Inibin and troybin reading/writing for League Toolkit |
+| 2026-10-12 10:41:34 | [adaptive-oj-css](https://crates.io/crates/adaptive-oj-css) | 0.2.23 | 0 | CSS pipeline: Lightning CSS transforms, CSS Modules scoping |
+| 2026-10-12 10:41:35 | [adaptive-oj-deno-napi](https://crates.io/crates/adaptive-oj-deno-napi) | 0.2.23 | 0 | Fork of deno_napi 0.190.0 maintained for oj, carrying oj's finalizer-registry p… |
+| 2026-10-12 10:41:36 | [adaptive-oj-deno-process](https://crates.io/crates/adaptive-oj-deno-process) | 0.2.23 | 0 | oj's fork of deno_process: child process groups + spawn hook |
+| 2026-10-12 10:41:36 | [adaptive-oj-deno-snapshots](https://crates.io/crates/adaptive-oj-deno-snapshots) | 0.2.23 | 0 | Fork of deno_snapshots 0.74.0 maintained for oj: the v8 snapshot can be consume… |
+| 2026-10-12 10:41:37 | [adaptive-oj-diag](https://crates.io/crates/adaptive-oj-diag) | 0.2.23 | 0 | structured dev-server diagnostics: bounded event ring + NDJSON stderr output |
+| 2026-10-12 10:52:07 | [adaptive-oj-deno-runtime](https://crates.io/crates/adaptive-oj-deno-runtime) | 0.2.23 | 0 | Fork of deno_runtime 0.267.0 maintained for oj, swapping deno_napi for oj_deno_… |
+| 2026-10-12 10:53:33 | [pishoo-sdk](https://crates.io/crates/pishoo-sdk) | 0.1.0-preview.1 | 0 | Guest bindings for Pishoo WASM identity interfaces |
+| 2026-10-12 11:02:51 | [primer3-thal-rs](https://crates.io/crates/primer3-thal-rs) | 0.1.0 | 0 | LLM transpilation of primer3-py v2.3.0's thal to Rust: hairpin, homodimer and h… |
+| 2026-10-12 11:04:20 | [tpt-simd-audio](https://crates.io/crates/tpt-simd-audio) | 0.1.0 | 0 | Audio kernels: mix, interleave, peak/RMS, FIR, biquad, and windowed-sinc resamp… |
+| 2026-10-12 11:04:21 | [tpt-simd-bits](https://crates.io/crates/tpt-simd-bits) | 0.1.0 | 0 | Bit-level and integer-stream kernels: popcount, bitset ops, zigzag, delta and p… |
+| 2026-10-12 11:04:22 | [tpt-simd-dct](https://crates.io/crates/tpt-simd-dct) | 0.1.0 | 0 | Table-based DCT-II/III and MDCT/IMDCT for codec-sized blocks |
+| 2026-10-12 11:04:23 | [tpt-simd-distance](https://crates.io/crates/tpt-simd-distance) | 0.1.0 | 0 | Vector distances and similarities: inner product, squared L2, cosine, Hamming |
+| 2026-10-12 11:04:24 | [tpt-simd-geom](https://crates.io/crates/tpt-simd-geom) | 0.1.0 | 0 | Batched 3D geometry over structure-of-arrays f32 data: distance, dot, AABB over… |
+| 2026-10-12 11:06:12 | [spamlite](https://crates.io/crates/spamlite) | 0.9.7 | 0 | Per-user Bayesian spam filter — drop-in spamprobe replacement |
+| 2026-10-12 11:10:35 | [odx-core](https://crates.io/crates/odx-core) | 0.0.1 | 0 | Domain types, exit codes and IO traits shared by the odx crates |
+| 2026-10-12 11:10:38 | [git-aggregate-rs](https://crates.io/crates/git-aggregate-rs) | 0.0.1 | 0 | Drop-in replacement for git-aggregator's gitaggregate, written in Rust |
+| 2026-10-12 11:10:40 | [odx-cli](https://crates.io/crates/odx-cli) | 0.0.1 | 0 | odx: a Rust-native workspace manager for Odoo projects |
+| 2026-10-12 11:11:24 | [monosecret_rpc](https://crates.io/crates/monosecret_rpc) | 0.0.0 | 0 | Independent Rust implementation of the Monosecret IPC protocols |
+| 2026-10-12 11:15:17 | [tpt-simd-half](https://crates.io/crates/tpt-simd-half) | 0.1.0 | 0 | f16/bf16 conversions (wrapping the half crate), slice conversions, and int8 / Q… |
+| 2026-10-12 11:18:11 | [how-far](https://crates.io/crates/how-far) | 0.1.0 | 0 | Cancellation, progress, and weighted phases through one interface for library a… |
+| 2026-10-12 11:18:13 | [how-far-along](https://crates.io/crates/how-far-along) | 0.1.0 | 0 | Tracking and observation for cooperative progress and cancellation |
+| 2026-10-12 11:18:14 | [how-far-really](https://crates.io/crates/how-far-really) | 0.1.0 | 0 | Opt-in diagnostics and checkpoint tuning for how-far |
 
 ## Data source
 

@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T10:18:48.648504Z,gtmpl_value_ng,0.9.0,0,0,https://github.com/firstdorsal/gtmpl-rust,"Internal value format for gtmpl-ng, the Golang templating language for Rust"
+2026-10-12T10:18:50.336366Z,gtmpl_derive_ng,0.9.0,0,0,https://github.com/firstdorsal/gtmpl-rust,Derive macro for gtmpl_value_ng
+2026-10-12T10:20:56.244828Z,craw,0.1.1,0,0,https://github.com/crows7781-glitch/shortneer.git,這個抓取項目是一個學習過程。
+2026-10-12T10:22:01.303824Z,dga-bevy-wings-ui-navigation,0.1.0,0,0,https://github.com/doublegarts/dga_bevy_wings_framework,"Type safe, back stack driven navigation for Bevy UI with bsn! destinations, transitions, adaptive two pane layouts and per entry scopes."
+2026-10-12T10:24:41.306314Z,x-monitor-manager,1.0.0,0,0,https://github.com/fzahner/x-monitor-manager,"A TUI for arranging X11 monitors via xrandr, with vim-like controls"
+2026-10-12T10:29:50.454731Z,yt-cli,0.0.1,0,0,https://github.com/vaivars/rust-yt-cli,Command line interface for JetBrains YouTrack
+2026-10-12T10:32:03.185732Z,dga-bevy-wings-framework,0.1.0,0,0,https://github.com/doublegarts/dga_bevy_wings_framework,"Layered app framework for Bevy 0.20: data, domain and presentation crates with ECS native widgets, theming, animation, navigation, dependency injection and MVVM."
+2026-10-12T10:34:42.715664Z,webfind,0.5.0,0,0,https://github.com/Gaurav-Wankhede/webfind,"Self-hosted native search engine for AI agents — pure CLI, zero cost"
+2026-10-12T10:38:05.74792Z,ltk_ini,0.1.0,0,0,,Inibin and troybin reading/writing for League Toolkit
+2026-10-12T10:41:34.977492Z,adaptive-oj-css,0.2.23,0,0,https://github.com/david1gp/oj,"CSS pipeline: Lightning CSS transforms, CSS Modules scoping"
+2026-10-12T10:41:35.673397Z,adaptive-oj-deno-napi,0.2.23,0,0,https://github.com/david1gp/oj,"Fork of deno_napi 0.190.0 maintained for oj, carrying oj's finalizer-registry performance patch (Vec -> BTreeMap). Use upstream deno_napi unless you need this patch."
+2026-10-12T10:41:36.185184Z,adaptive-oj-deno-process,0.2.23,0,0,https://github.com/david1gp/oj,oj's fork of deno_process: child process groups + spawn hook
+2026-10-12T10:41:36.609481Z,adaptive-oj-deno-snapshots,0.2.23,0,0,https://github.com/david1gp/oj,Fork of deno_snapshots 0.74.0 maintained for oj: the v8 snapshot can be consumed from a prebuilt per-target bundle (OJ_SNAPSHOT_ARCHIVE) for reproducible builds. Use upstream deno_snapshots unless yo…
+2026-10-12T10:41:37.214533Z,adaptive-oj-diag,0.2.23,0,0,https://github.com/david1gp/oj,structured dev-server diagnostics: bounded event ring + NDJSON stderr output
+2026-10-12T10:52:07.061701Z,adaptive-oj-deno-runtime,0.2.23,0,0,https://github.com/david1gp/oj,"Fork of deno_runtime 0.267.0 maintained for oj, swapping deno_napi for oj_deno_napi (finalizer-registry performance patch). Use upstream deno_runtime unless you need this patch."
+2026-10-12T10:53:33.129738Z,pishoo-sdk,0.1.0-preview.1,0,0,,Guest bindings for Pishoo WASM identity interfaces
+2026-10-12T11:02:51.457714Z,primer3-thal-rs,0.1.0,0,0,https://github.com/ChrisgKent/primer3-thal-rs,"LLM transpilation of primer3-py v2.3.0's thal to Rust: hairpin, homodimer and heterodimer ΔG/Tm for DNA oligos"
+2026-10-12T11:04:20.081187Z,tpt-simd-audio,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,"Audio kernels: mix, interleave, peak/RMS, FIR, biquad, and windowed-sinc resampling, with no runtime dependencies beyond libm"
+2026-10-12T11:04:21.255918Z,tpt-simd-bits,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,"Bit-level and integer-stream kernels: popcount, bitset ops, zigzag, delta and prefix sum"
+2026-10-12T11:04:22.575615Z,tpt-simd-dct,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,Table-based DCT-II/III and MDCT/IMDCT for codec-sized blocks
+2026-10-12T11:04:23.050911Z,tpt-simd-distance,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,"Vector distances and similarities: inner product, squared L2, cosine, Hamming"
+2026-10-12T11:04:24.267605Z,tpt-simd-geom,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,"Batched 3D geometry over structure-of-arrays f32 data: distance, dot, AABB overlap, ray-AABB"
+2026-10-12T11:06:12.55791Z,spamlite,0.9.7,0,0,https://github.com/markc/spamlite,Per-user Bayesian spam filter — drop-in spamprobe replacement
+2026-10-12T11:10:35.962567Z,odx-core,0.0.1,0,0,https://github.com/getfluvo/odx,"Domain types, exit codes and IO traits shared by the odx crates"
+2026-10-12T11:10:38.261696Z,git-aggregate-rs,0.0.1,0,0,https://github.com/getfluvo/odx,"Drop-in replacement for git-aggregator's gitaggregate, written in Rust"
+2026-10-12T11:10:40.648213Z,odx-cli,0.0.1,0,0,https://github.com/getfluvo/odx,odx: a Rust-native workspace manager for Odoo projects
+2026-10-12T11:11:24.88205Z,monosecret_rpc,0.0.0,0,0,https://github.com/ifiokjr/monosecret/tree/main/crates/monosecret_rpc,Independent Rust implementation of the Monosecret IPC protocols
+2026-10-12T11:15:17.782549Z,tpt-simd-half,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,"f16/bf16 conversions (wrapping the half crate), slice conversions, and int8 / Q8_0 block quantisation"
+2026-10-12T11:18:11.489128Z,how-far,0.1.0,0,0,https://github.com/imazen/how-far,"Cancellation, progress, and weighted phases through one interface for library authors"
+2026-10-12T11:18:13.252724Z,how-far-along,0.1.0,0,0,https://github.com/imazen/how-far,Tracking and observation for cooperative progress and cancellation
+2026-10-12T11:18:14.821284Z,how-far-really,0.1.0,0,0,https://github.com/imazen/how-far,Opt-in diagnostics and checkpoint tuning for how-far
