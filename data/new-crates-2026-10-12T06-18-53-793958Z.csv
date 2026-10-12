@@ -1,0 +1,13 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T05:21:22.910227Z,hashstash-macros,0.1.0,0,0,https://github.com/timstr/hashstash,derive macros for the hashstash crate
+2026-10-12T05:33:16.216308Z,pendulum-3d,0.1.0,0,0,https://github.com/Reden777/3DPendulum-rs.git,A headless 3D pendulum for divination
+2026-10-12T05:34:01.230575Z,qualia-transport,0.1.0,0,0,https://github.com/Qualia2FA/QualiaTransport,Transport channels for Qualia2FA: QR code carriage and LAN discovery.
+2026-10-12T05:34:21.209606Z,minipaw,0.1.0,0,0,https://github.com/deepso7/minipaw,"Pipe bytes between two machines peer to peer over minip2p: QUIC, relayed bootstrap, hole-punched direct paths"
+2026-10-12T05:35:02.724635Z,minipaw-cli,0.1.0,0,0,https://github.com/deepso7/minipaw,"netcat between two machines over minip2p: QUIC, relayed bootstrap, hole-punched direct paths"
+2026-10-12T05:44:00.987022Z,pure-jeff,0.1.0,0,0,https://github.com/siska-tech/pure-jeff,"Pure-Rust (Candle) CPU inference for the Jeff-Qwen3.5-0.8B candidate decision model, with hash-verified model bundles"
+2026-10-12T05:45:27.826202Z,irgen-lang,0.2.0,0,0,https://github.com/jamesgober/irgen-lang,"Lowers HIR to ir-lang SSA for native compilation: functions, SSA locals, control flow, records and arrays in memory, OPS operations with their policies, exception edges, and GC statepoints."
+2026-10-12T06:01:52.252486Z,xtodo-cli,0.1.0,0,0,https://gitcode.com/cdzb168/xtodo,Command line todo manager for the [x]it! plain-text todo format (spec v1.1)
+2026-10-12T06:08:56.746778Z,hari,0.1.0,0,0,https://github.com/yukimemi/hari,Let jj run your existing Git pre-push hooks
+2026-10-12T06:11:22.471432Z,brz-json-macros,0.0.7,0,0,https://github.com/we-breeze/json,Model declaration macros for brz-json
+2026-10-12T06:13:11.269262Z,egui-marquee,0.1.0,0,0,https://github.com/BadMachine/egui-marquee,Marquee is a small crate that brings selection areas to egui
+2026-10-12T06:15:51.114681Z,affine-desktop-mcp,0.2.2,0,0,https://github.com/sauravniraula/affine-desktop-mcp,Local MCP bridge for AFFiNE Desktop with offline native diagrams

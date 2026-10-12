@@ -8,42 +8,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 05:18 UTC
+## Latest list — 2026-10-12 06:18 UTC
 
-New crates published between 2026-10-12 04:18 UTC and 2026-10-12 05:18 UTC.
+New crates published between 2026-10-12 05:18 UTC and 2026-10-12 06:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-12T05-18-45-51532Z.csv)
+[Full CSV](data/new-crates-2026-10-12T06-18-53-793958Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-12 04:24:44 | [wireplant_core](https://crates.io/crates/wireplant_core) | 0.1.0 | 0 | Core memory model, endianness codec, and data types for WirePlant |
-| 2026-10-12 04:25:32 | [wireplant_engine](https://crates.io/crates/wireplant_engine) | 0.1.0 | 0 | Simulation ticker, process models (PID, Tank, Thermal), waveforms, and alarms |
-| 2026-10-12 04:26:22 | [wireplant_config](https://crates.io/crates/wireplant_config) | 0.1.0 | 0 | Scenario schema definitions, deserialization, and semantic validation |
-| 2026-10-12 04:27:08 | [wireplant_modbus](https://crates.io/crates/wireplant_modbus) | 0.1.0 | 0 | Modbus TCP and RTU industrial protocol servers for WirePlant |
-| 2026-10-12 04:28:40 | [wireplant_opcua](https://crates.io/crates/wireplant_opcua) | 0.1.0 | 0 | OPC-UA server and address space mapping for WirePlant |
-| 2026-10-12 04:32:14 | [fairchild-parser](https://crates.io/crates/fairchild-parser) | 0.5.0 | 0 | SPICE netlist parser for fairchild, including optical bundle ports and hierarch… |
-| 2026-10-12 04:32:17 | [fairchild-klu](https://crates.io/crates/fairchild-klu) | 0.5.0 | 0 | Thin hand-rolled bindings to SuiteSparse KLU for fairchild's sparse linear solv… |
-| 2026-10-12 04:33:08 | [fairchild-core](https://crates.io/crates/fairchild-core) | 0.5.0 | 0 | DAE solver core for fairchild: MNA assembly, Newton-Raphson, transient/AC/noise… |
-| 2026-10-12 04:33:18 | [fairchild-osdi](https://crates.io/crates/fairchild-osdi) | 0.5.0 | 0 | OSDI v0.4 runtime for fairchild: loads Verilog-A models compiled by OpenVAF. |
-| 2026-10-12 04:33:47 | [fairchild-cli](https://crates.io/crates/fairchild-cli) | 0.5.0 | 0 | Command-line driver for the fairchild electro-optic circuit simulator. |
-| 2026-10-12 04:36:46 | [wireplant_mqtt](https://crates.io/crates/wireplant_mqtt) | 0.1.0 | 0 | MQTT telemetry publisher and command subscriber for WirePlant |
-| 2026-10-12 04:38:16 | [zmailok](https://crates.io/crates/zmailok) | 0.1.0 | 0 | Email deliverability checker. One command, one score, one fix list. |
-| 2026-10-12 04:38:17 | [graphersal](https://crates.io/crates/graphersal) | 0.1.0 | 0 | In-memory graph traversal engine modelled on Apache TinkerPop Gremlin, with a R… |
-| 2026-10-12 04:38:38 | [graphersal-storage-tests](https://crates.io/crates/graphersal-storage-tests) | 0.1.0 | 0 | EXPERIMENTAL conformance suite for implementations of the graphersal GraphStora… |
-| 2026-10-12 04:39:10 | [graphersal-session](https://crates.io/crates/graphersal-session) | 0.1.0 | 0 | Internal session logic (JSON in, JSON out) shared by the Graphersal playground… |
-| 2026-10-12 04:39:49 | [graphersal-cli](https://crates.io/crates/graphersal-cli) | 0.1.0 | 0 | Command line REPL and one-shot query runner for the Graphersal graph traversal… |
-| 2026-10-12 04:50:11 | [odjitter-core](https://crates.io/crates/odjitter-core) | 0.1.0 | 0 | Sample OD pairs from weighted points |
-| 2026-10-12 04:55:40 | [justelnet-core](https://crates.io/crates/justelnet-core) | 0.1.0 | 0 | Sans-IO Telnet protocol core: bytes in, events and outgoing bytes out. |
-| 2026-10-12 04:55:43 | [justelnet](https://crates.io/crates/justelnet) | 0.1.0 | 0 | Telnet client for tokio, built on justelnet-core. |
-| 2026-10-12 04:55:45 | [justelnet-expect](https://crates.io/crates/justelnet-expect) | 0.1.0 | 0 | Expect-style automation over a justelnet client. |
-| 2026-10-12 04:56:13 | [visiting-macro](https://crates.io/crates/visiting-macro) | 0.1.0 | 0 | Proc macros for the `visiting` crate |
-| 2026-10-12 04:59:34 | [visiting](https://crates.io/crates/visiting) | 0.1.0 | 0 | Walk a derived syntax tree: the Visiting derive and the define_visit! generator |
-| 2026-10-12 05:03:51 | [wireplant_api](https://crates.io/crates/wireplant_api) | 0.1.0 | 0 | REST inspection and control API for WirePlant |
-| 2026-10-12 05:04:59 | [wireplant_tui](https://crates.io/crates/wireplant_tui) | 0.1.0 | 0 | Terminal user interface for interactive monitoring and control of WirePlant |
-| 2026-10-12 05:07:43 | [wireplant](https://crates.io/crates/wireplant) | 0.1.0 | 0 | Industrial OT simulation platform and SCADA emulator |
-| 2026-10-12 05:09:21 | [qualia2fa-core](https://crates.io/crates/qualia2fa-core) | 0.1.0 | 0 | Qualia2FA core library: TOTP/HOTP primitives, encrypted vault and device sync |
-| 2026-10-12 05:12:00 | [rapidproto](https://crates.io/crates/rapidproto) | 0.0.0 | 0 | Coming soon: fast decode-only Protobuf support for Rust (and C++). Crate name r… |
-| 2026-10-12 05:14:26 | [qualia2fa-ffi](https://crates.io/crates/qualia2fa-ffi) | 0.1.0 | 0 | Qualia2FA FFI layer: exposes qualia2fa-core as UniFFI bindings for Kotlin and S… |
+| 2026-10-12 05:21:22 | [hashstash-macros](https://crates.io/crates/hashstash-macros) | 0.1.0 | 0 | derive macros for the hashstash crate |
+| 2026-10-12 05:33:16 | [pendulum-3d](https://crates.io/crates/pendulum-3d) | 0.1.0 | 0 | A headless 3D pendulum for divination |
+| 2026-10-12 05:34:01 | [qualia-transport](https://crates.io/crates/qualia-transport) | 0.1.0 | 0 | Transport channels for Qualia2FA: QR code carriage and LAN discovery. |
+| 2026-10-12 05:34:21 | [minipaw](https://crates.io/crates/minipaw) | 0.1.0 | 0 | Pipe bytes between two machines peer to peer over minip2p: QUIC, relayed bootst… |
+| 2026-10-12 05:35:02 | [minipaw-cli](https://crates.io/crates/minipaw-cli) | 0.1.0 | 0 | netcat between two machines over minip2p: QUIC, relayed bootstrap, hole-punched… |
+| 2026-10-12 05:44:00 | [pure-jeff](https://crates.io/crates/pure-jeff) | 0.1.0 | 0 | Pure-Rust (Candle) CPU inference for the Jeff-Qwen3.5-0.8B candidate decision m… |
+| 2026-10-12 05:45:27 | [irgen-lang](https://crates.io/crates/irgen-lang) | 0.2.0 | 0 | Lowers HIR to ir-lang SSA for native compilation: functions, SSA locals, contro… |
+| 2026-10-12 06:01:52 | [xtodo-cli](https://crates.io/crates/xtodo-cli) | 0.1.0 | 0 | Command line todo manager for the [x]it! plain-text todo format (spec v1.1) |
+| 2026-10-12 06:08:56 | [hari](https://crates.io/crates/hari) | 0.1.0 | 0 | Let jj run your existing Git pre-push hooks |
+| 2026-10-12 06:11:22 | [brz-json-macros](https://crates.io/crates/brz-json-macros) | 0.0.7 | 0 | Model declaration macros for brz-json |
+| 2026-10-12 06:13:11 | [egui-marquee](https://crates.io/crates/egui-marquee) | 0.1.0 | 0 | Marquee is a small crate that brings selection areas to egui |
+| 2026-10-12 06:15:51 | [affine-desktop-mcp](https://crates.io/crates/affine-desktop-mcp) | 0.2.2 | 0 | Local MCP bridge for AFFiNE Desktop with offline native diagrams |
 
 ## Data source
 
