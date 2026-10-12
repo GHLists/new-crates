@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-11T23:20:55.266405Z,arithmetica,0.1.0,0,0,https://github.com/JustinGeoSci/arithmetica,"Exact orient2d, incircle, orient3d and insphere for f64 in Rust: adaptive arithmetic with an exact integer fallback"
+2026-10-11T23:23:00.413103Z,veloster-ac3,0.1.10,0,0,https://github.com/magosam/veloster,Pure-Rust Dolby Digital (AC-3 / ATSC A/52) audio sync frame parser
+2026-10-11T23:23:31.848585Z,veloster-audio-dsp,0.1.10,0,0,https://github.com/magosam/veloster,"Broadcast-grade audio DSP suite, EBU R128 loudness metering, true peak and filtering"
+2026-10-11T23:23:56.396283Z,veloster-bitstream,0.1.10,0,0,https://github.com/magosam/veloster,"High-performance, zero-allocation bitstream reader and writer for multimedia codecs"
+2026-10-11T23:24:22.601284Z,veloster-cfb,0.1.10,0,0,https://github.com/magosam/veloster,Pure-Rust Compound File Binary (CFB) format parser for professional media wrappers
+2026-10-11T23:24:51.652488Z,veloster-color,0.1.10,0,0,https://github.com/magosam/veloster,"Color spaces, matrix transformations, transfer functions, and HDR BT.2020/PQ pipeline"
+2026-10-11T23:27:41.94352Z,lactea-abi,0.1.0,0,0,https://github.com/M0Rf30/lactea,"Frozen cross-crate contract for lactea: MilkDrop 2 shader constants, binding layout, vertex format, dump layout."
+2026-10-11T23:27:44.232122Z,lactea-eel,0.1.0,0,0,https://github.com/M0Rf30/lactea,ns-eel2 / projectm-eval compatible expression language (MilkDrop per-frame/per-vertex code).
+2026-10-11T23:27:46.544857Z,lactea-preset,0.1.0,0,0,https://github.com/M0Rf30/lactea,MilkDrop .milk preset parser with MilkDrop 2 semantics and defaults.
+2026-10-11T23:27:49.564124Z,lactea-audio,0.1.0,0,0,https://github.com/M0Rf30/lactea,"MilkDrop 2 audio analysis: FFT, bass/mid/treb, attenuated values, waveform/spectrum buffers."
+2026-10-11T23:27:52.711196Z,lactea-hlsl,0.1.0,0,0,https://github.com/M0Rf30/lactea,MilkDrop HLSL (ps_2/ps_3 dialect + include.fx) to WGSL translator.
+2026-10-11T23:29:59.409248Z,veloster-geom,0.1.10,0,0,https://github.com/magosam/veloster,"2D geometry, aspect ratios, scaling and coordinate primitives for video frames"
+2026-10-11T23:32:46.560308Z,statoss,0.1.0,0,0,,"Error tracking and logs for StatOSS: the sentry crate with your app's own levels, categories and fields, a tracing layer and a log facade."
+2026-10-11T23:39:57.173787Z,veloster-matroska,0.1.10,0,0,https://github.com/magosam/veloster,Pure-Rust Matroska (MKV) and WebM demuxer and EBML container parser
+2026-10-11T23:42:54.979174Z,lactea-jpeg,0.1.0,0,0,https://github.com/M0Rf30/lactea,Baseline/progressive JPEG decoder that reproduces stb_image's output byte for byte (the decoder projectM loads user textures with).
+2026-10-11T23:46:51.387972Z,rlvgl-device-pcm3168a,0.2.5,0,0,https://github.com/softoboros/rlvgl,No-std embedded-hal control-plane driver for the TI PCM3168A audio codec.
+2026-10-11T23:48:12.397368Z,rlvgl-device-ptn3460,0.2.5,0,0,https://github.com/softoboros/rlvgl,No-std embedded-hal control-plane driver for the NXP PTN3460 eDP-to-LVDS bridge.
+2026-10-11T23:48:50.593452Z,rlvgl-device-stts22h,0.2.5,0,0,https://github.com/softoboros/rlvgl,No-std embedded-hal driver for the STMicroelectronics STTS22H temperature sensor.
+2026-10-11T23:49:04.850924Z,cafe-sys,0.2.0,0,0,https://github.com/rust-wiiu/cafe-sys,Bindings for the Wii U system APIs
+2026-10-11T23:49:24.686883Z,rlvgl-device-veml3235sl,0.2.5,0,0,https://github.com/softoboros/rlvgl,No-std embedded-hal driver for the Vishay VEML3235SL ambient light sensor.
+2026-10-11T23:49:43.151623Z,atrinik-artifact,0.1.0,0,0,https://github.com/atrinik/content-toolkit,Bounded deterministic foundation artifact encoder and decoder
+2026-10-11T23:49:57.691362Z,veloster-mpeg2v,0.1.10,0,0,https://github.com/magosam/veloster,Pure-Rust MPEG-2 Video elementary stream parser and sequence header probe (ISO/IEC 13818-2)
+2026-10-11T23:50:05.697597Z,rlvgl-kria-i2c,0.2.5,0,0,https://github.com/softoboros/rlvgl,Kria logical I2C topology and embedded-hal backend adapters for RLVGL.
+2026-10-11T23:53:21.546648Z,lactea-render,0.1.0,0,0,https://github.com/M0Rf30/lactea,"wgpu backend reproducing the MilkDrop 2 frame pipeline; host-provided device, renders into any texture."
+2026-10-12T00:00:07.226598Z,veloster-mpegts,0.1.10,0,0,https://github.com/magosam/veloster,Pure-Rust MPEG Transport Stream (MPEG-TS) demuxer and packet parser (ISO/IEC 13818-1)
+2026-10-12T00:00:58.396785Z,vetis-flash,0.1.0-beta.1,0,0,https://github.com/vetis-server/vetis-extras,Very Tiny Server Flash Static Content support
+2026-10-12T00:01:00.706913Z,atrinik-diagnostics,0.1.0,0,0,https://github.com/atrinik/content-toolkit,Bounded deterministic diagnostics for Atrinik authored content
+2026-10-12T00:01:04.206689Z,ast-macro,0.1.0,0,0,https://github.com/yasuo-ozu/ast,Proc macros for the `ast` crate
+2026-10-12T00:02:00.443313Z,lactea,0.1.0,0,0,https://github.com/M0Rf30/lactea,MilkDrop engine: preset + expressions + audio + shaders driving lactea-render. Embeddable into any wgpu host.
+2026-10-12T00:02:26.285732Z,lgtm-cli,0.1.0-rc.1,0,0,https://github.com/difflab-io/lgtm,Command-line interface for LGTM code reviews.
+2026-10-12T00:02:27.057364Z,vetis-otel,0.1.0-beta.1,0,0,https://github.com/vetis-server/vetis-extras,Very Tiny Server Opentelemetry support
+2026-10-12T00:09:50.448557Z,fs-kit,0.1.0,0,0,https://github.com/pyrlyn/crates-packages,"One entry point for file and directory work: path identity without Windows UNC prefixes, atomic writes, tree size, copy and removal, sibling backups"
+2026-10-12T00:09:56.025192Z,veloster-mxf,0.1.10,0,0,https://github.com/magosam/veloster,Pure-Rust Material eXchange Format (MXF) demuxer and OP-Atom parser (SMPTE ST 377)
+2026-10-12T00:12:18.017786Z,atrinik-source,0.1.0,0,0,https://github.com/atrinik/content-toolkit,Bounded byte-lossless Atrinik authored document model
+2026-10-12T00:12:44.627952Z,vetis-rev-proxy,0.1.0-beta.1,0,0,https://github.com/vetis-server/vetis-extras,Very Tiny Server Reverse Proxy support
+2026-10-12T00:16:48.096153Z,cortexkit-role-llm-runner,0.2.0,0,0,https://github.com/cortexkit/commons,"Wire contract of the CortexKit llm-runner/v1 role: role.describe, transcript reads, run results, subscriptions, owner sends and the session baseline."
+2026-10-12T00:16:56.706371Z,cortexkit-role-step-transform-provider,0.1.2,0,0,https://github.com/cortexkit/commons,"Wire contract of the CortexKit step-transform-provider/v1 role: the subscription declaration, the four hooks, their operations and the PreTool phases."
+2026-10-12T00:16:58.484985Z,tokn-viewer-api,0.1.1,0,0,https://github.com/tokn-ai/tokn-session,HTTP and WebSocket session viewer server with optional web UI hosting.
+2026-10-12T00:17:05.538436Z,cortexkit-role-compaction-provider,0.1.2,0,0,https://github.com/cortexkit/commons,"Wire contract of the CortexKit compaction-provider/v1 role: Setup, the per-step status, CompactionMessage, WAIT, REFUSE, the request fence and compaction.ready."
+2026-10-12T00:17:18.903764Z,cortexkit-role-llm-runner-conformance,0.2.0,0,0,https://github.com/cortexkit/commons,Conformance runner for the CortexKit llm-runner/v1 role: drives a live runner through its crash-cut harness with a scripted model and checks its wire replies.
+2026-10-12T00:19:58.110316Z,veloster-ogg,0.1.10,0,0,https://github.com/magosam/veloster,"Pure-Rust Ogg container demuxer, page parser, and CRC32 engine (RFC 3533)"
