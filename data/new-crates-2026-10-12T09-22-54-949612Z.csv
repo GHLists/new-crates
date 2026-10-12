@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T08:19:19.619763Z,veloster-hls,0.1.0,0,0,,HTTP Live Streaming (HLS) playlist generator and segmenter for Veloster
+2026-10-12T08:19:22.593787Z,crownui,0.1.0,0,0,,"CrownUI: a SwiftUI-style declarative UI toolkit for Rust, rendered by Impeller, styled with Tailwind names."
+2026-10-12T08:19:27.567471Z,veloster-interchange,0.1.0,0,0,https://github.com/magosam/veloster,"Pure-Rust CMX 3600 EDL, FCP XML, and timeline interchange engine for Veloster"
+2026-10-12T08:19:35.585704Z,veloster-mux,0.1.0,0,0,,"Universal multiplexing engine, packet interleaver and container writer for Veloster"
+2026-10-12T08:19:43.667253Z,veloster-net,0.1.0,0,0,,"Network streaming I/O protocol layer (HTTP Range, RTMP, RTP/UDP, URL parsing) for Veloster"
+2026-10-12T08:26:17.475978Z,city3d-stac-types,0.1.1,0,0,https://github.com/cityjson/city3d-stac-tool,Types and serialiser for STAC Items describing 3D city models (city3d extension)
+2026-10-12T08:28:03.794587Z,city3d-stac-gen,0.3.1,0,0,https://github.com/cityjson/city3d-stac-tool,Generate STAC metadata for CityJSON datasets
+2026-10-12T08:42:00.643946Z,irc_library,0.1.1,0,0,https://github.com/nyaruku/irc_library,An IRC protocol library
+2026-10-12T08:48:26.407853Z,source-mesh-core,1.0.0,0,0,https://github.com/GeneralGDA/source-mesh,"Rust dependency graph analysis, diagrams, and cycle reports"
+2026-10-12T08:48:29.739169Z,source-mesh,1.0.0,0,0,https://github.com/GeneralGDA/source-mesh,"Dependency diagrams for Rust projects, powered by rust-analyzer SCIP"
+2026-10-12T08:54:52.507993Z,flashtrace,0.13.0,0,0,https://github.com/flashtrace/flashtrace,"Lightning-fast, reference-based requirement tracing that works anywhere."
+2026-10-12T08:55:22.220319Z,xentric,0.1.0,0,0,https://github.com/Guakocius/xentric,A GUI XMPP client written in Rust using egui
+2026-10-12T08:56:34.185243Z,bidi-browser-lite,0.1.0,0,0,https://github.com/raultov/bidi-browser-lite,"Full lifecycle control of WebDriver BiDi browsers (Firefox): discovery, launch, profiles, ports, one shared BiDi session and the optional Firefox debugger port, on top of bidi-lite."
+2026-10-12T08:59:11.967892Z,orbit-user-proc-macro,0.1.0,0,0,,Orbit proc macros used in applications
+2026-10-12T09:01:52.81242Z,orbit-build,0.1.0,0,0,,Orbit build crate
+2026-10-12T09:13:32.650897Z,dga-bevy-wings-di,0.1.0,0,0,https://github.com/doublegarts/dga_bevy_wings_framework,"Lightweight dependency injection for Bevy: modules, singletons, factories, scopes, qualifiers and an Inject system parameter."
+2026-10-12T09:13:33.652837Z,dga-bevy-wings-domain,0.1.0,0,0,https://github.com/doublegarts/dga_bevy_wings_framework,"Domain layer of the Wings framework: entities, typed ids, use cases, validation, repository contracts, paging and loading states. Plain Rust, no engine dependency."
+2026-10-12T09:13:34.387981Z,dga-bevy-wings-ui-core,0.1.0,0,0,https://github.com/doublegarts/dga_bevy_wings_framework,"Core building blocks (system sets, reactive state, hierarchy helpers) for Bevy Wings UI."
+2026-10-12T09:13:37.941091Z,dga-bevy-wings-data,0.1.0,0,0,https://github.com/doublegarts/dga_bevy_wings_framework,"Data layer of the Wings framework: data sources, offline first repositories, caching policies, mappers and ECS integrated background loading."
+2026-10-12T09:13:39.019875Z,dga-bevy-wings-ui-animation,0.1.0,0,0,https://github.com/doublegarts/dga_bevy_wings_framework,"Tween, spring and keyframe animation system for Bevy Wings UI, fully driven by ECS components."
+2026-10-12T09:14:44.459445Z,fast-crossmap,0.7.0,0,0,https://github.com/biodancerwangzhi/fast-crossmap,High-performance genome coordinate liftover tool
+2026-10-12T09:15:22.486506Z,rsa-handshake,0.1.1,0,0,https://github.com/pathscale/rsa-handshake,"Verify-only RSA for TLS 1.3: PSS for CertificateVerify, PKCS#1 v1.5 for certificate signatures. no_std, no alloc, no unsafe, no private keys"
+2026-10-12T09:20:01.994417Z,ossuary-core,0.12.0,0,0,https://github.com/sniner/ossuary,"Core library of the ossuary archive: claims, segments and the claim index"
+2026-10-12T09:20:03.148413Z,ossuary-extract-image,0.12.0,0,0,https://github.com/sniner/ossuary,"Image extractor for ossuary archives: EXIF, XMP and IPTC metadata and the pixel format"
+2026-10-12T09:20:04.048695Z,ossuary-extract-mail,0.12.0,0,0,https://github.com/sniner/ossuary,"Mail extractor for ossuary archives: message headers, attachments and nested messages"
+2026-10-12T09:20:04.76047Z,ossuary-extract-packed,0.12.0,0,0,https://github.com/sniner/ossuary,Zip extractor for ossuary archives: lists or unpacks the contents of a zip file
+2026-10-12T09:20:05.489891Z,ossuary-extract-pdf,0.12.0,0,0,https://github.com/sniner/ossuary,"PDF extractor for ossuary archives: text, document information and attachments"
+2026-10-12T09:22:02.020557Z,dga-bevy-wings-ui-theme,0.1.0,0,0,https://github.com/doublegarts/dga_bevy_wings_framework,"ECS theming for Bevy Wings UI: color roles, light and dark schemes, typography, shapes, elevation and live theme switching."
