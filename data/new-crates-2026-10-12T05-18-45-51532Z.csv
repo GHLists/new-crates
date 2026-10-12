@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T04:24:44.407594Z,wireplant_core,0.1.0,0,0,https://github.com/macrodataware/wireplant,"Core memory model, endianness codec, and data types for WirePlant"
+2026-10-12T04:25:32.854385Z,wireplant_engine,0.1.0,0,0,https://github.com/macrodataware/wireplant,"Simulation ticker, process models (PID, Tank, Thermal), waveforms, and alarms"
+2026-10-12T04:26:22.821294Z,wireplant_config,0.1.0,0,0,https://github.com/macrodataware/wireplant,"Scenario schema definitions, deserialization, and semantic validation"
+2026-10-12T04:27:08.772351Z,wireplant_modbus,0.1.0,0,0,https://github.com/macrodataware/wireplant,Modbus TCP and RTU industrial protocol servers for WirePlant
+2026-10-12T04:28:40.661946Z,wireplant_opcua,0.1.0,0,0,https://github.com/macrodataware/wireplant,OPC-UA server and address space mapping for WirePlant
+2026-10-12T04:32:14.56548Z,fairchild-parser,0.5.0,0,0,https://github.com/hughmor/fairchild,"SPICE netlist parser for fairchild, including optical bundle ports and hierarchical PCells."
+2026-10-12T04:32:17.605615Z,fairchild-klu,0.5.0,0,0,https://github.com/hughmor/fairchild,Thin hand-rolled bindings to SuiteSparse KLU for fairchild's sparse linear solves.
+2026-10-12T04:33:08.655447Z,fairchild-core,0.5.0,0,0,https://github.com/hughmor/fairchild,"DAE solver core for fairchild: MNA assembly, Newton-Raphson, transient/AC/noise analyses, and native photonic device models."
+2026-10-12T04:33:18.29788Z,fairchild-osdi,0.5.0,0,0,https://github.com/hughmor/fairchild,OSDI v0.4 runtime for fairchild: loads Verilog-A models compiled by OpenVAF.
+2026-10-12T04:33:47.506708Z,fairchild-cli,0.5.0,0,0,https://github.com/hughmor/fairchild,Command-line driver for the fairchild electro-optic circuit simulator.
+2026-10-12T04:36:46.489539Z,wireplant_mqtt,0.1.0,0,0,https://github.com/macrodataware/wireplant,MQTT telemetry publisher and command subscriber for WirePlant
+2026-10-12T04:38:16.230131Z,zmailok,0.1.0,0,0,https://github.com/Zophos-Industries/zmailok,"Email deliverability checker. One command, one score, one fix list."
+2026-10-12T04:38:17.197509Z,graphersal,0.1.0,0,0,https://github.com/graphersal/graphersal,"In-memory graph traversal engine modelled on Apache TinkerPop Gremlin, with a Rhai DSL, optimizer and GraphSON/GraphML I/O"
+2026-10-12T04:38:38.12656Z,graphersal-storage-tests,0.1.0,0,0,https://github.com/graphersal/graphersal,EXPERIMENTAL conformance suite for implementations of the graphersal GraphStorage trait; may break in minor versions before 1.0
+2026-10-12T04:39:10.381999Z,graphersal-session,0.1.0,0,0,https://github.com/graphersal/graphersal,"Internal session logic (JSON in, JSON out) shared by the Graphersal playground (WebAssembly) and the dev server of graphersal-cli; no stability guarantees"
+2026-10-12T04:39:49.880868Z,graphersal-cli,0.1.0,0,0,https://github.com/graphersal/graphersal,Command line REPL and one-shot query runner for the Graphersal graph traversal engine (binary: graphersal)
+2026-10-12T04:50:11.786191Z,odjitter-core,0.1.0,0,0,https://github.com/itsleeds/odjitter,Sample OD pairs from weighted points
+2026-10-12T04:55:40.62859Z,justelnet-core,0.1.0,0,0,https://github.com/kihyun1998/justelnet,"Sans-IO Telnet protocol core: bytes in, events and outgoing bytes out."
+2026-10-12T04:55:43.394823Z,justelnet,0.1.0,0,0,https://github.com/kihyun1998/justelnet,"Telnet client for tokio, built on justelnet-core."
+2026-10-12T04:55:45.46436Z,justelnet-expect,0.1.0,0,0,https://github.com/kihyun1998/justelnet,Expect-style automation over a justelnet client.
+2026-10-12T04:56:13.585278Z,visiting-macro,0.1.0,0,0,https://github.com/yasuo-ozu/visiting,Proc macros for the `visiting` crate
+2026-10-12T04:59:34.666583Z,visiting,0.1.0,0,0,https://github.com/yasuo-ozu/visiting,Walk a derived syntax tree: the Visiting derive and the define_visit! generator
+2026-10-12T05:03:51.71933Z,wireplant_api,0.1.0,0,0,https://github.com/macrodataware/wireplant,REST inspection and control API for WirePlant
+2026-10-12T05:04:59.060025Z,wireplant_tui,0.1.0,0,0,https://github.com/macrodataware/wireplant,Terminal user interface for interactive monitoring and control of WirePlant
+2026-10-12T05:07:43.046854Z,wireplant,0.1.0,0,0,https://github.com/macrodataware/wireplant,Industrial OT simulation platform and SCADA emulator
+2026-10-12T05:09:21.749613Z,qualia2fa-core,0.1.0,0,0,https://github.com/Qualia2FA/Qualia2FA-Core,"Qualia2FA core library: TOTP/HOTP primitives, encrypted vault and device sync"
+2026-10-12T05:12:00.163545Z,rapidproto,0.0.0,0,0,https://github.com/VeaaC/rapidproto,Coming soon: fast decode-only Protobuf support for Rust (and C++). Crate name reserved while development is in progress.
+2026-10-12T05:14:26.61315Z,qualia2fa-ffi,0.1.0,0,0,https://github.com/Qualia2FA/Qualia2FA-FFI,Qualia2FA FFI layer: exposes qualia2fa-core as UniFFI bindings for Kotlin and Swift
