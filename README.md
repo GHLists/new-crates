@@ -8,48 +8,63 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 12:19 UTC
+## Latest list — 2026-10-12 13:18 UTC
 
-New crates published between 2026-10-12 11:19 UTC and 2026-10-12 12:19 UTC.
+New crates published between 2026-10-12 12:19 UTC and 2026-10-12 13:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-12T12-19-05-960704Z.csv)
+[Full CSV](data/new-crates-2026-10-12T13-18-37-258154Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-12 11:20:26 | [katha-libsql](https://crates.io/crates/katha-libsql) | 0.2.5 | 0 | Turso/libSQL event-sourcing backend for katha |
-| 2026-10-12 11:20:59 | [nearai-inference-sdk](https://crates.io/crates/nearai-inference-sdk) | 0.1.0-rc1 | 0 | Verification SDK for NEAR AI Cloud attestations |
-| 2026-10-12 11:23:02 | [polyoxide-venue](https://crates.io/crates/polyoxide-venue) | 0.39.0 | 0 | Shared vocabulary for the polyoxide venue clients: error classes, the status an… |
-| 2026-10-12 11:23:02 | [polyoxide-ws](https://crates.io/crates/polyoxide-ws) | 0.39.0 | 0 | The WebSocket kit the polyoxide socket clients share, one copy of each block th… |
-| 2026-10-12 11:23:11 | [polyoxide-cli](https://crates.io/crates/polyoxide-cli) | 0.39.0 | 0 | Command-line client for the Polymarket APIs and streams, and Binance USDⓈ-M mar… |
-| 2026-10-12 11:25:24 | [tpt-simd-hash](https://crates.io/crates/tpt-simd-hash) | 0.1.0 | 0 | Checksums and hashes: CRC-32, Adler-32, FNV-1a and a rolling hash, with no runt… |
-| 2026-10-12 11:30:27 | [mx-multiplexer](https://crates.io/crates/mx-multiplexer) | 3.0.0 | 0 | Client library of the multiplexer, a message broker for services on a trusted n… |
-| 2026-10-12 11:31:21 | [vmx](https://crates.io/crates/vmx) | 0.1.0 | 0 | Pure Rust VMX1 video codec |
-| 2026-10-12 11:34:17 | [rxferrix-cli](https://crates.io/crates/rxferrix-cli) | 0.1.0 | 0 | The `rxferrix` command: scaffolds new RxFerrix apps (`rxferrix new`) |
-| 2026-10-12 11:34:18 | [rxferrix-macros](https://crates.io/crates/rxferrix-macros) | 0.1.0 | 0 | Procedural macros for RxFerrix: #[table], #[query], #[mutation], #[action], #[o… |
-| 2026-10-12 11:34:21 | [rxferrix](https://crates.io/crates/rxferrix) | 0.1.0 | 0 | A single-binary reactive backend: typed Rust queries, mutations and actions, li… |
-| 2026-10-12 11:35:30 | [tpt-simd-ntt](https://crates.io/crates/tpt-simd-ntt) | 0.1.0 | 0 | Montgomery and Barrett modular arithmetic and an in-place number-theoretic tran… |
-| 2026-10-12 11:41:28 | [tlv320dac3203](https://crates.io/crates/tlv320dac3203) | 0.1.0 | 0 | no_std embedded-hal 1.0 driver for the TI TLV320DAC3203 stereo audio DAC with h… |
-| 2026-10-12 11:45:19 | [check_claude_core](https://crates.io/crates/check_claude_core) | 0.1.0 | 0 | Core domain types, context, and check interfaces for check_claude |
-| 2026-10-12 11:45:36 | [tpt-simd-pixel](https://crates.io/crates/tpt-simd-pixel) | 0.1.0 | 0 | Pixel kernels: RGB/RGBA conversion, planar/interleaved layout, u8 and f32 conve… |
-| 2026-10-12 11:45:39 | [check_claude_rules](https://crates.io/crates/check_claude_rules) | 0.1.0 | 0 | Diagnostic network, region, IP risk, and proxy verification rules for check_cla… |
-| 2026-10-12 11:45:47 | [check_claude_reporter](https://crates.io/crates/check_claude_reporter) | 0.1.0 | 0 | Terminal console and JSON report formatting implementations for check_claude |
-| 2026-10-12 11:46:03 | [check_claude](https://crates.io/crates/check_claude) | 0.1.1 | 0 | Diagnostic CLI tool to verify network and region eligibility for Claude |
-| 2026-10-12 11:46:21 | [puerto-events](https://crates.io/crates/puerto-events) | 0.15.0 | 0 | Puerto runtime — the worker every Puerto project with domain events runs: the o… |
-| 2026-10-12 11:46:26 | [puerto-kafka](https://crates.io/crates/puerto-kafka) | 0.15.0 | 0 | Puerto runtime — the Kafka transport of Puerto projects with domain events: the… |
-| 2026-10-12 11:55:43 | [tpt-simd-search](https://crates.io/crates/tpt-simd-search) | 0.1.0 | 0 | Byte search, substring search, ASCII case-insensitive search and line counting,… |
-| 2026-10-12 11:55:58 | [ossuary-mount](https://crates.io/crates/ossuary-mount) | 0.12.0 | 0 | Mounts an ossuary archive as a read-only filesystem |
-| 2026-10-12 11:58:47 | [shadcn-egui-core](https://crates.io/crates/shadcn-egui-core) | 0.4.0 | 0 | Data types shared by shadcn-egui and its font and icon crates |
-| 2026-10-12 11:58:51 | [shadcn-egui-font-dm-sans](https://crates.io/crates/shadcn-egui-font-dm-sans) | 0.4.0 | 0 | DM Sans for shadcn-egui |
-| 2026-10-12 11:58:55 | [shadcn-egui-font-eb-garamond](https://crates.io/crates/shadcn-egui-font-eb-garamond) | 0.4.0 | 0 | EB Garamond for shadcn-egui |
-| 2026-10-12 11:58:58 | [shadcn-egui-font-figtree](https://crates.io/crates/shadcn-egui-font-figtree) | 0.4.0 | 0 | Figtree for shadcn-egui |
-| 2026-10-12 11:59:02 | [shadcn-egui-font-geist](https://crates.io/crates/shadcn-egui-font-geist) | 0.4.0 | 0 | Geist for shadcn-egui |
-| 2026-10-12 12:01:07 | [konomanoasa-tree-sitter-gawk](https://crates.io/crates/konomanoasa-tree-sitter-gawk) | 0.1.0 | 0 | Tree-sitter grammar for GNU Awk 5.4.1. |
-| 2026-10-12 12:05:50 | [tpt-simd-sort](https://crates.io/crates/tpt-simd-sort) | 0.1.0 | 0 | Unstable sort, quickselect, argsort, partition and top-k over slices, with no r… |
-| 2026-10-12 12:10:09 | [shadcn-egui-font-geist-mono](https://crates.io/crates/shadcn-egui-font-geist-mono) | 0.4.0 | 0 | Geist Mono for shadcn-egui |
-| 2026-10-12 12:11:31 | [actix-web-lambda](https://crates.io/crates/actix-web-lambda) | 0.0.0 | 0 | Temporary reservation for this crate name. |
-| 2026-10-12 12:14:19 | [apex-process](https://crates.io/crates/apex-process) | 0.1.0 | 0 | High-performance GPU-accelerated cross-platform process diagnostic suite |
-| 2026-10-12 12:15:58 | [tpt-simd-text](https://crates.io/crates/tpt-simd-text) | 0.1.0 | 0 | Text kernels: UTF-8 validation, hex, and UTF-8 <-> UTF-16 transcoding, with no… |
-| 2026-10-12 12:16:59 | [shadcn-egui-font-ibm-plex-sans](https://crates.io/crates/shadcn-egui-font-ibm-plex-sans) | 0.4.0 | 0 | IBM Plex Sans for shadcn-egui |
+| 2026-10-12 12:21:26 | [adaptive-oj-env](https://crates.io/crates/adaptive-oj-env) | 0.2.23 | 0 | dotenv loading and import.meta.env define construction (Vite-compatible) |
+| 2026-10-12 12:21:26 | [adaptive-oj-resolver](https://crates.io/crates/adaptive-oj-resolver) | 0.2.23 | 0 | Module resolution: thin policy layer over oxc_resolver (Node algorithm, exports… |
+| 2026-10-12 12:21:28 | [adaptive-oj-cache](https://crates.io/crates/adaptive-oj-cache) | 0.2.23 | 0 | Content-addressed persistent cache for compiled module outputs |
+| 2026-10-12 12:21:29 | [adaptive-oj-compiler](https://crates.io/crates/adaptive-oj-compiler) | 0.2.23 | 0 | Fused per-file pipeline |
+| 2026-10-12 12:21:29 | [adaptive-oj-config](https://crates.io/crates/adaptive-oj-config) | 0.2.23 | 0 | oj.config.{ts,js,mjs,json} loading: TS strip via oxc, evaluation via embedded Q… |
+| 2026-10-12 12:22:38 | [adaptive-oj-server](https://crates.io/crates/adaptive-oj-server) | 0.2.23 | 0 | Dev server: on-demand compile over HTTP, WebSocket HMR channel, file watcher |
+| 2026-10-12 12:26:04 | [tpt-simd-transpose](https://crates.io/crates/tpt-simd-transpose) | 0.1.0 | 0 | Cache-blocked matrix transpose and strided 2D copies for any Copy element type |
+| 2026-10-12 12:27:00 | [shadcn-egui-font-instrument-sans](https://crates.io/crates/shadcn-egui-font-instrument-sans) | 0.4.0 | 0 | Instrument Sans for shadcn-egui |
+| 2026-10-12 12:27:22 | [ottie](https://crates.io/crates/ottie) | 0.0.1 | 0 | Ottie, a cross-platform download manager: pause/resume, multi-connection downlo… |
+| 2026-10-12 12:28:04 | [arclite](https://crates.io/crates/arclite) | 0.1.15 | 0 | Agent-first, cross-platform CLI for AI-powered cross-repo code intelligence and… |
+| 2026-10-12 12:29:03 | [yakamoz](https://crates.io/crates/yakamoz) | 0.0.0 | 0 | Cross-platform, GPU-batched autonomous driving simulator |
+| 2026-10-12 12:31:42 | [adaptive-oj](https://crates.io/crates/adaptive-oj) | 0.2.23 | 0 | Experimental next generation frontend tooling |
+| 2026-10-12 12:35:23 | [notelet-core](https://crates.io/crates/notelet-core) | 0.1.0 | 0 | Domain, ports and the Postgres adapter for notelet: a thin hosted Markdown note… |
+| 2026-10-12 12:35:35 | [notelet-mcp](https://crates.io/crates/notelet-mcp) | 0.1.0 | 0 | notelet as an MCP server: a thin hosted Markdown note store (Postgres, bearer a… |
+| 2026-10-12 12:36:04 | [wireup](https://crates.io/crates/wireup) | 0.1.0 | 0 | Thread-safe, lazy dependency injection with typed service APIs and optional Axu… |
+| 2026-10-12 12:36:13 | [tpt-simd-vector](https://crates.io/crates/tpt-simd-vector) | 0.1.0 | 0 | Stable, array-backed Simd and SimdMask types: the backend for tpt-simd |
+| 2026-10-12 12:36:59 | [shadcn-egui-font-instrument-serif](https://crates.io/crates/shadcn-egui-font-instrument-serif) | 0.4.0 | 0 | Instrument Serif for shadcn-egui |
+| 2026-10-12 12:45:01 | [tombi-lib](https://crates.io/crates/tombi-lib) | 0.0.0 | 0 | Placeholder for the tombi library crate. Name reserved. |
+| 2026-10-12 12:46:24 | [tpt-simd-core](https://crates.io/crates/tpt-simd-core) | 0.1.0 | 0 | Core traits, type aliases and feature detection for tpt-simd |
+| 2026-10-12 12:47:00 | [shadcn-egui-font-inter](https://crates.io/crates/shadcn-egui-font-inter) | 0.4.0 | 0 | Inter for shadcn-egui |
+| 2026-10-12 12:53:25 | [polarion-commands-derive](https://crates.io/crates/polarion-commands-derive) | 0.1.0 | 0 | Code generation for polarion-commands: command DTOs and the command registry |
+| 2026-10-12 12:54:18 | [polarion-markdown](https://crates.io/crates/polarion-markdown) | 0.1.0 | 0 | Markdown to Polarion rich text (HTML) and back: work item links, formulas, tabl… |
+| 2026-10-12 12:55:30 | [polarion-soap](https://crates.io/crates/polarion-soap) | 0.1.0 | 0 | Async client for the Siemens Polarion ALM SOAP web services, generated from the… |
+| 2026-10-12 12:55:42 | [polarion](https://crates.io/crates/polarion) | 0.1.0 | 0 | Convenient, read-focused access to Siemens Polarion ALM, built on the SOAP web… |
+| 2026-10-12 12:56:49 | [polarion-commands](https://crates.io/crates/polarion-commands) | 0.1.0 | 0 | Every operation of the polarion library as a typed command DTO, shared by the C… |
+| 2026-10-12 12:56:58 | [shadcn-egui-font-jetbrains-mono](https://crates.io/crates/shadcn-egui-font-jetbrains-mono) | 0.4.0 | 0 | JetBrains Mono for shadcn-egui |
+| 2026-10-12 12:57:37 | [polarion-cli](https://crates.io/crates/polarion-cli) | 0.1.0 | 0 | Command-line interface for Siemens Polarion ALM, with JSON output for automation |
+| 2026-10-12 13:01:26 | [bytecodegen-core](https://crates.io/crates/bytecodegen-core) | 0.2.0 | 0 | Runtime support for bytecodegen: instruction encoding, metadata tables, linking… |
+| 2026-10-12 13:01:29 | [bytecodegen-macros](https://crates.io/crates/bytecodegen-macros) | 0.2.0 | 0 | Procedural macros for bytecodegen: the bytecode_list! schema DSL and instructio… |
+| 2026-10-12 13:01:31 | [bytecodegen](https://crates.io/crates/bytecodegen) | 0.2.0 | 0 | Declare bytecode instruction schemas once and generate typed instructions, enco… |
+| 2026-10-12 13:04:40 | [cxvm](https://crates.io/crates/cxvm) | 0.1.0 | 0 | Per-project C/C++ compiler versions for x86_64 Linux |
+| 2026-10-12 13:06:29 | [mt-core](https://crates.io/crates/mt-core) | 0.1.1 | 0 | Equation model: rows, characters and templates in the shape the editor and rend… |
+| 2026-10-12 13:06:56 | [bao1x-bm-pac](https://crates.io/crates/bao1x-bm-pac) | 0.1.0 | 0 | Peripheral Access Crate (PAC) for Baochip-1x |
+| 2026-10-12 13:06:58 | [bao1x-bm-hal](https://crates.io/crates/bao1x-bm-hal) | 0.1.0 | 0 | Alternative bare-metal HAL for Baochip-1x |
+| 2026-10-12 13:06:59 | [baochip-bm-logger](https://crates.io/crates/baochip-bm-logger) | 0.1.0 | 0 | Logging utility for Baochip SoC |
+| 2026-10-12 13:07:01 | [shadcn-egui-font-lora](https://crates.io/crates/shadcn-egui-font-lora) | 0.4.0 | 0 | Lora for shadcn-egui |
+| 2026-10-12 13:07:42 | [polarion-mcp](https://crates.io/crates/polarion-mcp) | 0.1.0 | 0 | MCP server (stdio or Streamable HTTP) giving AI agents access to Siemens Polari… |
+| 2026-10-12 13:08:54 | [mt-tex](https://crates.io/crates/mt-tex) | 0.1.1 | 0 | LaTeX math input and output for the equation model. |
+| 2026-10-12 13:11:47 | [mt-mathml](https://crates.io/crates/mt-mathml) | 0.1.1 | 0 | Presentation MathML reader and writer for the equation tree. |
+| 2026-10-12 13:12:06 | [mt-omml](https://crates.io/crates/mt-omml) | 0.1.1 | 0 | Office Math (OMML) reader and writer for the equation tree. |
+| 2026-10-12 13:12:22 | [mt-layout](https://crates.io/crates/mt-layout) | 0.1.1 | 0 | Layout engine: turns the shared equation tree into positioned boxes and SVG pre… |
+| 2026-10-12 13:12:30 | [mt-mtef](https://crates.io/crates/mt-mtef) | 0.1.1 | 0 | Reader and writer for the MTEF equation stream embedded in document objects. |
+| 2026-10-12 13:14:14 | [odx-config](https://crates.io/crates/odx-config) | 0.0.2 | 0 | Configuration for odx: [tool.odx], dependency groups, uv sources, odx.lock, mut… |
+| 2026-10-12 13:17:01 | [shadcn-egui-font-manrope](https://crates.io/crates/shadcn-egui-font-manrope) | 0.4.0 | 0 | Manrope for shadcn-egui |
+| 2026-10-12 13:17:23 | [assur-rs](https://crates.io/crates/assur-rs) | 0.0.1-pre.1 | 0 | Reserved crate name. No functionality yet. |
+| 2026-10-12 13:17:25 | [check-rs](https://crates.io/crates/check-rs) | 0.0.1-pre.1 | 0 | Reserved crate name. No functionality yet. |
+| 2026-10-12 13:17:29 | [cove-rs](https://crates.io/crates/cove-rs) | 0.0.1-pre.1 | 0 | Reserved crate name. No functionality yet. |
+| 2026-10-12 13:17:32 | [prove-rs](https://crates.io/crates/prove-rs) | 0.0.1-pre.1 | 0 | Reserved crate name. No functionality yet. |
+| 2026-10-12 13:17:34 | [req-rs](https://crates.io/crates/req-rs) | 0.0.1-pre.1 | 0 | Reserved crate name. No functionality yet. |
 
 ## Data source
 

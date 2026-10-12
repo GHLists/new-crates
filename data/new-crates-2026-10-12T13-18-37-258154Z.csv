@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T12:21:26.404421Z,adaptive-oj-env,0.2.23,0,0,https://github.com/david1gp/oj,dotenv loading and import.meta.env define construction (Vite-compatible)
+2026-10-12T12:21:26.95081Z,adaptive-oj-resolver,0.2.23,0,0,https://github.com/david1gp/oj,"Module resolution: thin policy layer over oxc_resolver (Node algorithm, exports maps, tsconfig paths)"
+2026-10-12T12:21:28.665163Z,adaptive-oj-cache,0.2.23,0,0,https://github.com/david1gp/oj,Content-addressed persistent cache for compiled module outputs
+2026-10-12T12:21:29.102058Z,adaptive-oj-compiler,0.2.23,0,0,https://github.com/david1gp/oj,Fused per-file pipeline
+2026-10-12T12:21:29.555318Z,adaptive-oj-config,0.2.23,0,0,https://github.com/david1gp/oj,"oj.config.{ts,js,mjs,json} loading: TS strip via oxc, evaluation via embedded QuickJS"
+2026-10-12T12:22:38.157945Z,adaptive-oj-server,0.2.23,0,0,https://github.com/david1gp/oj,"Dev server: on-demand compile over HTTP, WebSocket HMR channel, file watcher"
+2026-10-12T12:26:04.609165Z,tpt-simd-transpose,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,Cache-blocked matrix transpose and strided 2D copies for any Copy element type
+2026-10-12T12:27:00.108988Z,shadcn-egui-font-instrument-sans,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Instrument Sans for shadcn-egui
+2026-10-12T12:27:22.477715Z,ottie,0.0.1,0,0,https://github.com/Matfalco/ottie,"Ottie, a cross-platform download manager: pause/resume, multi-connection downloads, speed limits (early development)"
+2026-10-12T12:28:04.988247Z,arclite,0.1.15,0,0,https://github.com/euhedron/arclite,"Agent-first, cross-platform CLI for AI-powered cross-repo code intelligence and auditing."
+2026-10-12T12:29:03.400249Z,yakamoz,0.0.0,0,0,https://github.com/kaanrkaraman/yakamoz,"Cross-platform, GPU-batched autonomous driving simulator"
+2026-10-12T12:31:42.090093Z,adaptive-oj,0.2.23,0,0,https://github.com/david1gp/oj,Experimental next generation frontend tooling
+2026-10-12T12:35:23.462659Z,notelet-core,0.1.0,0,0,https://github.com/ynishi/notelet,"Domain, ports and the Postgres adapter for notelet: a thin hosted Markdown note store with optimistic locking"
+2026-10-12T12:35:35.915084Z,notelet-mcp,0.1.0,0,0,https://github.com/ynishi/notelet,"notelet as an MCP server: a thin hosted Markdown note store (Postgres, bearer auth, optimistic locking) for coding agents"
+2026-10-12T12:36:04.318952Z,wireup,0.1.0,0,0,https://github.com/musajingo/wireup,"Thread-safe, lazy dependency injection with typed service APIs and optional Axum integration."
+2026-10-12T12:36:13.284631Z,tpt-simd-vector,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,"Stable, array-backed Simd and SimdMask types: the backend for tpt-simd"
+2026-10-12T12:36:59.161951Z,shadcn-egui-font-instrument-serif,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Instrument Serif for shadcn-egui
+2026-10-12T12:45:01.296816Z,tombi-lib,0.0.0,0,0,https://github.com/tombi-toml/tombi,Placeholder for the tombi library crate. Name reserved.
+2026-10-12T12:46:24.17042Z,tpt-simd-core,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,"Core traits, type aliases and feature detection for tpt-simd"
+2026-10-12T12:47:00.36632Z,shadcn-egui-font-inter,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Inter for shadcn-egui
+2026-10-12T12:53:25.585798Z,polarion-commands-derive,0.1.0,0,0,https://github.com/KevinGliewe/Polarion-rs,Code generation for polarion-commands: command DTOs and the command registry
+2026-10-12T12:54:18.792747Z,polarion-markdown,0.1.0,0,0,https://github.com/KevinGliewe/Polarion-rs,"Markdown to Polarion rich text (HTML) and back: work item links, formulas, tables, syntax highlighting, mermaid diagrams as SVG"
+2026-10-12T12:55:30.857199Z,polarion-soap,0.1.0,0,0,https://github.com/KevinGliewe/Polarion-rs,"Async client for the Siemens Polarion ALM SOAP web services, generated from the WSDLs"
+2026-10-12T12:55:42.55085Z,polarion,0.1.0,0,0,https://github.com/KevinGliewe/Polarion-rs,"Convenient, read-focused access to Siemens Polarion ALM, built on the SOAP web services"
+2026-10-12T12:56:49.701307Z,polarion-commands,0.1.0,0,0,https://github.com/KevinGliewe/Polarion-rs,"Every operation of the polarion library as a typed command DTO, shared by the CLI and the MCP server"
+2026-10-12T12:56:58.878922Z,shadcn-egui-font-jetbrains-mono,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,JetBrains Mono for shadcn-egui
+2026-10-12T12:57:37.629692Z,polarion-cli,0.1.0,0,0,https://github.com/KevinGliewe/Polarion-rs,"Command-line interface for Siemens Polarion ALM, with JSON output for automation"
+2026-10-12T13:01:26.734326Z,bytecodegen-core,0.2.0,0,0,https://github.com/playx18/bytecodegen,"Runtime support for bytecodegen: instruction encoding, metadata tables, linking, verification, and disassembly"
+2026-10-12T13:01:29.473101Z,bytecodegen-macros,0.2.0,0,0,https://github.com/playx18/bytecodegen,Procedural macros for bytecodegen: the bytecode_list! schema DSL and instruction code generation
+2026-10-12T13:01:31.387612Z,bytecodegen,0.2.0,0,0,https://github.com/playx18/bytecodegen,"Declare bytecode instruction schemas once and generate typed instructions, encoding, linking, verification, and disassembly"
+2026-10-12T13:04:40.349886Z,cxvm,0.1.0,0,0,https://github.com/AndreaRicchi/cxvm,Per-project C/C++ compiler versions for x86_64 Linux
+2026-10-12T13:06:29.367409Z,mt-core,0.1.1,0,0,https://github.com/ouyangjiahong26/mathtype-rs,"Equation model: rows, characters and templates in the shape the editor and renderers share."
+2026-10-12T13:06:56.336237Z,bao1x-bm-pac,0.1.0,0,0,https://codeberg.org/tana_ash/baochip-bm-rs,Peripheral Access Crate (PAC) for Baochip-1x
+2026-10-12T13:06:58.404706Z,bao1x-bm-hal,0.1.0,0,0,https://codeberg.org/tana_ash/baochip-bm-rs,Alternative bare-metal HAL for Baochip-1x
+2026-10-12T13:06:59.647998Z,baochip-bm-logger,0.1.0,0,0,https://codeberg.org/tana_ash/baochip-bm-rs,Logging utility for Baochip SoC
+2026-10-12T13:07:01.163024Z,shadcn-egui-font-lora,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Lora for shadcn-egui
+2026-10-12T13:07:42.752053Z,polarion-mcp,0.1.0,0,0,https://github.com/KevinGliewe/Polarion-rs,MCP server (stdio or Streamable HTTP) giving AI agents access to Siemens Polarion ALM (read-only unless writes are enabled)
+2026-10-12T13:08:54.524121Z,mt-tex,0.1.1,0,0,https://github.com/ouyangjiahong26/mathtype-rs,LaTeX math input and output for the equation model.
+2026-10-12T13:11:47.182531Z,mt-mathml,0.1.1,0,0,https://github.com/ouyangjiahong26/mathtype-rs,Presentation MathML reader and writer for the equation tree.
+2026-10-12T13:12:06.720371Z,mt-omml,0.1.1,0,0,https://github.com/ouyangjiahong26/mathtype-rs,Office Math (OMML) reader and writer for the equation tree.
+2026-10-12T13:12:22.128918Z,mt-layout,0.1.1,0,0,https://github.com/ouyangjiahong26/mathtype-rs,Layout engine: turns the shared equation tree into positioned boxes and SVG previews.
+2026-10-12T13:12:30.737029Z,mt-mtef,0.1.1,0,0,https://github.com/ouyangjiahong26/mathtype-rs,Reader and writer for the MTEF equation stream embedded in document objects.
+2026-10-12T13:14:14.824029Z,odx-config,0.0.2,0,0,https://github.com/getfluvo/odx,"Configuration for odx: [tool.odx], dependency groups, uv sources, odx.lock, mutes and repos.yaml/addons.yaml compatibility"
+2026-10-12T13:17:01.168423Z,shadcn-egui-font-manrope,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Manrope for shadcn-egui
+2026-10-12T13:17:23.061476Z,assur-rs,0.0.1-pre.1,0,0,,Reserved crate name. No functionality yet.
+2026-10-12T13:17:25.870176Z,check-rs,0.0.1-pre.1,0,0,,Reserved crate name. No functionality yet.
+2026-10-12T13:17:29.292472Z,cove-rs,0.0.1-pre.1,0,0,,Reserved crate name. No functionality yet.
+2026-10-12T13:17:32.00464Z,prove-rs,0.0.1-pre.1,0,0,,Reserved crate name. No functionality yet.
+2026-10-12T13:17:34.665428Z,req-rs,0.0.1-pre.1,0,0,,Reserved crate name. No functionality yet.
