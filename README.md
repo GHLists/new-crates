@@ -8,34 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 22:20 UTC
+## Latest list — 2026-10-12 23:19 UTC
 
-New crates published between 2026-10-12 21:18 UTC and 2026-10-12 22:20 UTC.
+New crates published between 2026-10-12 22:20 UTC and 2026-10-12 23:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-12T22-20-07-053878Z.csv)
+[Full CSV](data/new-crates-2026-10-12T23-19-39-729173Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-12 21:20:16 | [audio2mp3-core](https://crates.io/crates/audio2mp3-core) | 0.2.0 | 0 | Small MP3 encoder (MPEG-1 Layer III, CBR) with zero dependencies and a C API |
-| 2026-10-12 21:21:19 | [petr-spatial](https://crates.io/crates/petr-spatial) | 0.1.0 | 0 | Spatial routing over petr words: quadrant routing and Morton codes. |
-| 2026-10-12 21:31:26 | [petr](https://crates.io/crates/petr) | 0.1.0 | 0 | Facade for the petr tagged-pointer crates: core, dispatch, collections, resourc… |
-| 2026-10-12 21:44:11 | [acoustic-engine](https://crates.io/crates/acoustic-engine) | 0.1.0 | 0 | Solveur acoustique 2D (FDTD, grille décalée) en f32 : bords absorbants, sources… |
-| 2026-10-12 21:48:10 | [cadmpeg-parasolid](https://crates.io/crates/cadmpeg-parasolid) | 0.6.1 | 0 | Shared Parasolid stream identity and header primitives for cadmpeg codecs. |
-| 2026-10-12 21:48:26 | [cadmpeg-registry](https://crates.io/crates/cadmpeg-registry) | 0.6.1 | 0 | Format detection, dialect identification, and the cadmpeg dialect registries. |
-| 2026-10-12 21:48:59 | [vyd](https://crates.io/crates/vyd) | 0.1.0 | 0 | Managed frames and composable video processing pipelines |
-| 2026-10-12 21:53:55 | [t4a-cubecl-environment](https://crates.io/crates/t4a-cubecl-environment) | 0.11.0 | 0 | Environment compatibility layer for CubeCL: sync primitives, futures, streams,… |
-| 2026-10-12 21:55:46 | [t4a-cubecl-monitoring](https://crates.io/crates/t4a-cubecl-monitoring) | 0.11.0 | 0 | How busy a CubeCL device is, by the counter its card's driver or its platform k… |
-| 2026-10-12 21:55:51 | [closedmcp-sdk](https://crates.io/crates/closedmcp-sdk) | 0.1.0 | 0 | ClosedMCP authorization for rmcp Streamable HTTP servers |
-| 2026-10-12 21:57:02 | [gyral-renderer-domain](https://crates.io/crates/gyral-renderer-domain) | 0.1.0 | 0 | Pure rendering contract and validated types for gyral-rs |
-| 2026-10-12 21:57:11 | [gyral-renderer](https://crates.io/crates/gyral-renderer) | 0.1.0 | 0 | Render Gyral app bundles inside Rust using deno_core |
-| 2026-10-12 21:57:21 | [gyral-axum](https://crates.io/crates/gyral-axum) | 0.1.0 | 0 | Thin Axum response integration for gyral-renderer |
-| 2026-10-12 22:00:38 | [t4a-cubecl-llvm](https://crates.io/crates/t4a-cubecl-llvm) | 0.11.0 | 0 | LLVM compiler for CubeCL |
-| 2026-10-12 22:00:48 | [t4a-cubecl-server](https://crates.io/crates/t4a-cubecl-server) | 0.11.0 | 0 | Toolkit for implementing a CubeCL runtime: memory pools, streams, drivers and t… |
-| 2026-10-12 22:01:34 | [t4a-cubecl-cpu](https://crates.io/crates/t4a-cubecl-cpu) | 0.11.0 | 0 | CPU runtime for CubeCL |
-| 2026-10-12 22:03:50 | [t4a-cubecl-hip](https://crates.io/crates/t4a-cubecl-hip) | 0.11.0 | 0 | AMD ROCm HIP runtime for CubeCL |
-| 2026-10-12 22:07:42 | [t4a-cubecl-spirv](https://crates.io/crates/t4a-cubecl-spirv) | 0.11.0 | 0 | SPIR-V compiler for CubeCL |
-| 2026-10-12 22:13:17 | [p4_oxi](https://crates.io/crates/p4_oxi) | 0.1.0 | 0 | Unofficial Perforce (Helix / P4) version control system wrapper. |
-| 2026-10-12 22:17:51 | [t4a-cubecl-metal](https://crates.io/crates/t4a-cubecl-metal) | 0.11.0 | 0 | Metal runtime for CubeCL |
+| 2026-10-12 22:22:57 | [rail-httpx-core](https://crates.io/crates/rail-httpx-core) | 0.1.1 | 0 | Postman leve + Burp core, em Rust. Cliente HTTP, proxy MITM, fuzzer, scanner e… |
+| 2026-10-12 22:29:14 | [t4a-cubek-tile](https://crates.io/crates/t4a-cubek-tile) | 0.3.0 | 0 | CubeK: Tile |
+| 2026-10-12 22:31:20 | [rail-httpx-cli](https://crates.io/crates/rail-httpx-cli) | 0.1.1 | 0 | Postman leve + Burp core, em Rust. Cliente HTTP, proxy MITM, fuzzer, scanner e… |
+| 2026-10-12 22:31:55 | [rail-httpx-gui](https://crates.io/crates/rail-httpx-gui) | 0.1.1 | 0 | Postman leve + Burp core, em Rust. Cliente HTTP, proxy MITM, fuzzer, scanner e… |
+| 2026-10-12 22:33:25 | [nvpn-webrtc-util](https://crates.io/crates/nvpn-webrtc-util) | 0.17.1 | 0 | Native socket policy extension for Nostr VPN WebRTC |
+| 2026-10-12 22:33:33 | [nvpn-turn](https://crates.io/crates/nvpn-turn) | 0.17.1 | 0 | A pure Rust implementation of TURN |
+| 2026-10-12 22:33:45 | [nvpn-webrtc-ice](https://crates.io/crates/nvpn-webrtc-ice) | 0.17.1 | 0 | A pure Rust implementation of ICE |
+| 2026-10-12 22:33:55 | [nvpn-webrtc](https://crates.io/crates/nvpn-webrtc) | 0.17.1 | 0 | A pure Rust implementation of WebRTC API |
+| 2026-10-12 22:34:02 | [nvpn-mdns-sd](https://crates.io/crates/nvpn-mdns-sd) | 0.19.1 | 0 | mDNS Service Discovery library with no async runtime dependency |
+| 2026-10-12 22:37:24 | [oh-my-node-modules](https://crates.io/crates/oh-my-node-modules) | 0.1.1 | 0 | Find and clean up node_modules directories. |
+| 2026-10-12 22:39:27 | [nvpn-crab-nat](https://crates.io/crates/nvpn-crab-nat) | 0.7.6 | 0 | A library providing a pure Rust implementation of a client for both the NAT Por… |
+| 2026-10-12 22:39:42 | [t4a-cubek-interpolate](https://crates.io/crates/t4a-cubek-interpolate) | 0.3.0 | 0 | CubeK: Interpolation |
+| 2026-10-12 22:45:42 | [lithos-ironcalc-base](https://crates.io/crates/lithos-ironcalc-base) | 0.8.3 | 0 | IronCalc spreadsheet engine (ironcalc_base) with WASI support: browser code onl… |
+| 2026-10-12 22:49:27 | [nvpn-igd-next](https://crates.io/crates/nvpn-igd-next) | 0.16.2 | 0 | Internet Gateway Protocol client |
+| 2026-10-12 22:49:55 | [t4a-cubek-pool](https://crates.io/crates/t4a-cubek-pool) | 0.3.0 | 0 | CubeK: Pool |
+| 2026-10-12 22:53:54 | [nirs4all-preflight-core](https://crates.io/crates/nirs4all-preflight-core) | 0.1.0-alpha.1 | 0 | Typed input, protocols and reports for NIRS qualification |
+| 2026-10-12 22:55:16 | [nirs4all-preflight](https://crates.io/crates/nirs4all-preflight) | 0.1.0-alpha.1 | 0 | NIRS dataset qualification engine |
+| 2026-10-12 22:55:30 | [dh-channel](https://crates.io/crates/dh-channel) | 0.1.1 | 0 | Sealed inter-service channel: static Diffie-Hellman over Ed25519 identities, li… |
+| 2026-10-12 22:57:17 | [nirs4all-preflight-cli](https://crates.io/crates/nirs4all-preflight-cli) | 0.1.0-alpha.1 | 0 | Command-line NIRS dataset qualification and report export |
+| 2026-10-12 22:57:24 | [nirs4all-preflight-capi](https://crates.io/crates/nirs4all-preflight-capi) | 0.1.0-alpha.1 | 0 | Versioned C ABI for nirs4all dataset qualification |
+| 2026-10-12 22:58:27 | [ranma](https://crates.io/crates/ranma) | 0.2.4 | 0 | A tiling window manager for the terminal: i3's container tree and Hyprland's dw… |
+| 2026-10-12 23:00:06 | [t4a-cubek-reduce](https://crates.io/crates/t4a-cubek-reduce) | 0.3.0 | 0 | CubeK: Reduce Kernels |
+| 2026-10-12 23:10:45 | [t4a-cubek-attention](https://crates.io/crates/t4a-cubek-attention) | 0.3.0 | 0 | CubeK: Attention Kernels |
+| 2026-10-12 23:17:19 | [t-lang](https://crates.io/crates/t-lang) | 0.1.0 | 0 | T: like C, but a different letter. A small no-GC language built one type-theory… |
 
 ## Data source
 

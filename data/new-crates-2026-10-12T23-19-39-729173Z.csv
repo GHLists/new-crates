@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T22:22:57.044916Z,rail-httpx-core,0.1.1,0,0,https://github.com/withvisionstack/Raill_HTTPX.git,"Postman leve + Burp core, em Rust. Cliente HTTP, proxy MITM, fuzzer, scanner e cliente de banco em um só binário."
+2026-10-12T22:29:14.071938Z,t4a-cubek-tile,0.3.0,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-tile,CubeK: Tile
+2026-10-12T22:31:20.088947Z,rail-httpx-cli,0.1.1,0,0,https://github.com/withvisionstack/Raill_HTTPX.git,"Postman leve + Burp core, em Rust. Cliente HTTP, proxy MITM, fuzzer, scanner e cliente de banco em um só binário."
+2026-10-12T22:31:55.475638Z,rail-httpx-gui,0.1.1,0,0,https://github.com/withvisionstack/Raill_HTTPX.git,"Postman leve + Burp core, em Rust. Cliente HTTP, proxy MITM, fuzzer, scanner e cliente de banco em um só binário."
+2026-10-12T22:33:25.691225Z,nvpn-webrtc-util,0.17.1,0,0,https://git.iris.to/#/npub1xdhnr9mrv47kkrn95k6cwecearydeh8e895990n3acntwvmgk2dsdeeycm/fips,Native socket policy extension for Nostr VPN WebRTC
+2026-10-12T22:33:33.652636Z,nvpn-turn,0.17.1,0,0,https://git.iris.to/#/npub1xdhnr9mrv47kkrn95k6cwecearydeh8e895990n3acntwvmgk2dsdeeycm/fips,A pure Rust implementation of TURN
+2026-10-12T22:33:45.078281Z,nvpn-webrtc-ice,0.17.1,0,0,https://git.iris.to/#/npub1xdhnr9mrv47kkrn95k6cwecearydeh8e895990n3acntwvmgk2dsdeeycm/fips,A pure Rust implementation of ICE
+2026-10-12T22:33:55.140116Z,nvpn-webrtc,0.17.1,0,0,https://git.iris.to/#/npub1xdhnr9mrv47kkrn95k6cwecearydeh8e895990n3acntwvmgk2dsdeeycm/fips,A pure Rust implementation of WebRTC API
+2026-10-12T22:34:02.613485Z,nvpn-mdns-sd,0.19.1,0,0,https://git.iris.to/#/npub1xdhnr9mrv47kkrn95k6cwecearydeh8e895990n3acntwvmgk2dsdeeycm/fips,mDNS Service Discovery library with no async runtime dependency
+2026-10-12T22:37:24.821875Z,oh-my-node-modules,0.1.1,0,0,https://github.com/Lukasdias/oh-my-node-modules,Find and clean up node_modules directories.
+2026-10-12T22:39:27.456198Z,nvpn-crab-nat,0.7.6,0,0,https://git.iris.to/#/npub1xdhnr9mrv47kkrn95k6cwecearydeh8e895990n3acntwvmgk2dsdeeycm/fips,A library providing a pure Rust implementation of a client for both the NAT Port Mapping Protocol (NAT-PMP) and the Port Control Protocol (PCP).
+2026-10-12T22:39:42.972687Z,t4a-cubek-interpolate,0.3.0,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-interpolate,CubeK: Interpolation
+2026-10-12T22:45:42.22323Z,lithos-ironcalc-base,0.8.3,0,0,https://github.com/Ascot-Software/IronCalc,IronCalc spreadsheet engine (ironcalc_base) with WASI support: browser code only on wasm32-unknown-unknown
+2026-10-12T22:49:27.448611Z,nvpn-igd-next,0.16.2,0,0,https://git.iris.to/#/npub1xdhnr9mrv47kkrn95k6cwecearydeh8e895990n3acntwvmgk2dsdeeycm/fips,Internet Gateway Protocol client
+2026-10-12T22:49:55.689228Z,t4a-cubek-pool,0.3.0,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-pool,CubeK: Pool
+2026-10-12T22:53:54.651377Z,nirs4all-preflight-core,0.1.0-alpha.1,0,0,https://github.com/GBeurier/nirs4all-preflight,"Typed input, protocols and reports for NIRS qualification"
+2026-10-12T22:55:16.186166Z,nirs4all-preflight,0.1.0-alpha.1,0,0,https://github.com/GBeurier/nirs4all-preflight,NIRS dataset qualification engine
+2026-10-12T22:55:30.547933Z,dh-channel,0.1.1,0,0,https://github.com/LuisEvilCo/dh-channel,"Sealed inter-service channel: static Diffie-Hellman over Ed25519 identities, libsodium crypto_box envelopes, an axum receiver and a reqwest client"
+2026-10-12T22:57:17.077022Z,nirs4all-preflight-cli,0.1.0-alpha.1,0,0,https://github.com/GBeurier/nirs4all-preflight,Command-line NIRS dataset qualification and report export
+2026-10-12T22:57:24.205653Z,nirs4all-preflight-capi,0.1.0-alpha.1,0,0,https://github.com/GBeurier/nirs4all-preflight,Versioned C ABI for nirs4all dataset qualification
+2026-10-12T22:58:27.868313Z,ranma,0.2.4,0,0,https://github.com/masshirodev/ranma,"A tiling window manager for the terminal: i3's container tree and Hyprland's dwindle placement, where every window is a PTY"
+2026-10-12T23:00:06.534573Z,t4a-cubek-reduce,0.3.0,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-reduce,CubeK: Reduce Kernels
+2026-10-12T23:10:45.30369Z,t4a-cubek-attention,0.3.0,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-attention,CubeK: Attention Kernels
+2026-10-12T23:17:19.593251Z,t-lang,0.1.0,0,0,https://github.com/lkurcak/t-lang,"T: like C, but a different letter. A small no-GC language built one type-theory concept at a time."
