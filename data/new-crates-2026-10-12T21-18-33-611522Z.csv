@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T20:20:52.574657Z,gyral,0.0.1,0,0,https://github.com/gyraljs/gyral-rs,Server-render Gyral web components in Rust and hydrate them in the browser (placeholder; 0.1.0 is in preparation)
+2026-10-12T20:21:51.864855Z,dpm-tui,0.1.0,0,0,https://github.com/luofang34/dpm,Ratatui operator console for DPM
+2026-10-12T20:24:13.720759Z,orcher-sdk-host,0.12.0,0,0,https://github.com/orcher-io/sdk-core,"Worker host for ORCHER SDKs: one worker's plumbing (drivers, lifecycle, work hand-off, registration) shared by every language"
+2026-10-12T20:29:54.371365Z,grantcentral-core,0.0.1,0,0,https://github.com/grantcentral/grantcentral,"Flow engine, file model and OAuth 2.0 protocol implementation for GrantCentral"
+2026-10-12T20:30:06.567662Z,grantcentral,0.0.1,0,0,https://github.com/grantcentral/grantcentral,GrantCentral: headless OAuth 2.0 / OpenID Connect flow runner and local web UI
+2026-10-12T20:30:59.336726Z,puerto-mail,0.18.0,0,0,https://github.com/Guuri11/Puerto,"Puerto runtime — mail for Puerto projects: the SMTP adapter of the mail port, the template renderer each generated mail uses, and the send-once step a worker consumer calls."
+2026-10-12T20:32:10.669962Z,awsprofile,0.1.0,0,0,,TUI application that helps you select and source AWS profiles with fuzzy matching.
+2026-10-12T20:33:12.056841Z,dpm,0.1.0,0,0,https://github.com/luofang34/dpm,DAG Project Manager: execution planning for humans and agents
+2026-10-12T20:34:41.264651Z,lazarobox-shell,0.8.0,0,0,https://github.com/pichu2707/lazarobox-shell,"AI-aware terminal workspace: a TUI multiplexer with panes, tabs, copy mode, local AI engine selection and an experimental Ollama chat pane."
+2026-10-12T20:37:44.538268Z,rowbit,0.0.1,0,0,https://github.com/Ermag/rowbit,Rowbit: an open source safety layer for AI agents writing to databases. Name reservation; the real release is coming.
+2026-10-12T20:46:39.763241Z,eth-wasm-verifier,0.1.0,0,0,https://github.com/Naveen-6087/eth-wasm-verifier,"A deterministic, fuel-metered WebAssembly runtime for proof verifiers"
+2026-10-12T20:50:22.57403Z,yapi-types,0.1.0,0,0,https://github.com/SkymanOne/yapi,"Serde types for pi's JSON formats: messages, events, session entries, settings, models and extension payloads."
+2026-10-12T20:50:37.072107Z,yapi-tui,0.1.0,0,0,https://github.com/SkymanOne/yapi,"Terminal UI on ratatui: widgets, editor, raw input decoding and the ANSI bridge for extension components."
+2026-10-12T20:50:53.969473Z,yapi-extension-api,0.1.0,0,0,https://github.com/SkymanOne/yapi,"Write native yapi extensions in Rust: tools, commands, flags and event handlers, built as WebAssembly components."
+2026-10-12T21:01:31.33089Z,blockchain_account_vault,0.9.0,0,0,https://github.com/richdrich/blockchain_ops_rust,"Password-sealed key files (Argon2id + AES-256-GCM) with printable paper backups, for Algorand accounts and other small secrets."
+2026-10-12T21:08:38.075583Z,infomaniak-api,1.0.1,0,0,https://forge.k3s.fr/frank/infomaniak-api-rs,"A Rust client for the Infomaniak API, with OAuth2 or token auth and transparent envelope handling."
+2026-10-12T21:10:36.853143Z,qcdiff-core,0.1.0,0,0,https://github.com/navneet83/qcdiff,"Semantic diff for OpenQASM 3 quantum circuits: parse, normalize, and diff operation streams (library behind the qcdiff CLI)"
+2026-10-12T21:14:30.414132Z,inspector-core,0.1.0,0,0,https://github.com/RajKavadia/tokio-mcp-inspector,Versioned observation types for read-only Tokio runtime diagnostics
+2026-10-12T21:14:48.843649Z,petr-core,0.1.0,0,0,https://github.com/jameshuntt/petr,"Low-bit tagged pointer words, keyed check words, selector words and residual routing: the portable core of petr."
+2026-10-12T21:14:52.166285Z,inspector-analysis,0.1.0,0,0,https://github.com/RajKavadia/tokio-mcp-inspector,Deterministic diagnostic rules over Tokio runtime snapshots
+2026-10-12T21:14:54.304491Z,petr-dispatch,0.1.0,0,0,https://github.com/jameshuntt/petr,"Selector-driven operation dispatch with TOML configuration, shuffled bytecode maps and continuation-style programs over petr words."
+2026-10-12T21:14:57.304404Z,petr-collections,0.1.0,0,0,https://github.com/jameshuntt/petr,"Keyed arenas, paged keyed arenas and encoded generation-checked handles for petr tagged words."
+2026-10-12T21:14:59.541742Z,petr-resource,0.1.0,0,0,https://github.com/jameshuntt/petr,Chunk-oriented resource scheduler driven by petr selector words.
+2026-10-12T21:15:01.579495Z,petr-math,0.1.0,0,0,https://github.com/jameshuntt/petr,Matrix and math demos using petr selector-style active/nop dispatch.
+2026-10-12T21:15:02.667057Z,inspector-collector,0.1.0,0,0,https://github.com/RajKavadia/tokio-mcp-inspector,External Tokio console telemetry collector (read-only gRPC client)
+2026-10-12T21:15:24.983856Z,inspector-mcp,0.1.0,0,0,https://github.com/RajKavadia/tokio-mcp-inspector,Read-only Tokio runtime investigation MCP server (stdio)
+2026-10-12T21:18:08.376735Z,corifeu,0.0.0,0,0,https://github.com/baphomello/corifeu,A runtime that orchestrates AI agents and models to build software. One lead agent talks to you; a team of specialised roles works behind it.
