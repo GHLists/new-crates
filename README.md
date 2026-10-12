@@ -8,41 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 21:18 UTC
+## Latest list — 2026-10-12 22:20 UTC
 
-New crates published between 2026-10-12 20:20 UTC and 2026-10-12 21:18 UTC.
+New crates published between 2026-10-12 21:18 UTC and 2026-10-12 22:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-12T21-18-33-611522Z.csv)
+[Full CSV](data/new-crates-2026-10-12T22-20-07-053878Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-12 20:20:52 | [gyral](https://crates.io/crates/gyral) | 0.0.1 | 0 | Server-render Gyral web components in Rust and hydrate them in the browser (pla… |
-| 2026-10-12 20:21:51 | [dpm-tui](https://crates.io/crates/dpm-tui) | 0.1.0 | 0 | Ratatui operator console for DPM |
-| 2026-10-12 20:24:13 | [orcher-sdk-host](https://crates.io/crates/orcher-sdk-host) | 0.12.0 | 0 | Worker host for ORCHER SDKs: one worker's plumbing (drivers, lifecycle, work ha… |
-| 2026-10-12 20:29:54 | [grantcentral-core](https://crates.io/crates/grantcentral-core) | 0.0.1 | 0 | Flow engine, file model and OAuth 2.0 protocol implementation for GrantCentral |
-| 2026-10-12 20:30:06 | [grantcentral](https://crates.io/crates/grantcentral) | 0.0.1 | 0 | GrantCentral: headless OAuth 2.0 / OpenID Connect flow runner and local web UI |
-| 2026-10-12 20:30:59 | [puerto-mail](https://crates.io/crates/puerto-mail) | 0.18.0 | 0 | Puerto runtime — mail for Puerto projects: the SMTP adapter of the mail port, t… |
-| 2026-10-12 20:32:10 | [awsprofile](https://crates.io/crates/awsprofile) | 0.1.0 | 0 | TUI application that helps you select and source AWS profiles with fuzzy matchi… |
-| 2026-10-12 20:33:12 | [dpm](https://crates.io/crates/dpm) | 0.1.0 | 0 | DAG Project Manager: execution planning for humans and agents |
-| 2026-10-12 20:34:41 | [lazarobox-shell](https://crates.io/crates/lazarobox-shell) | 0.8.0 | 0 | AI-aware terminal workspace: a TUI multiplexer with panes, tabs, copy mode, loc… |
-| 2026-10-12 20:37:44 | [rowbit](https://crates.io/crates/rowbit) | 0.0.1 | 0 | Rowbit: an open source safety layer for AI agents writing to databases. Name re… |
-| 2026-10-12 20:46:39 | [eth-wasm-verifier](https://crates.io/crates/eth-wasm-verifier) | 0.1.0 | 0 | A deterministic, fuel-metered WebAssembly runtime for proof verifiers |
-| 2026-10-12 20:50:22 | [yapi-types](https://crates.io/crates/yapi-types) | 0.1.0 | 0 | Serde types for pi's JSON formats: messages, events, session entries, settings,… |
-| 2026-10-12 20:50:37 | [yapi-tui](https://crates.io/crates/yapi-tui) | 0.1.0 | 0 | Terminal UI on ratatui: widgets, editor, raw input decoding and the ANSI bridge… |
-| 2026-10-12 20:50:53 | [yapi-extension-api](https://crates.io/crates/yapi-extension-api) | 0.1.0 | 0 | Write native yapi extensions in Rust: tools, commands, flags and event handlers… |
-| 2026-10-12 21:01:31 | [blockchain_account_vault](https://crates.io/crates/blockchain_account_vault) | 0.9.0 | 0 | Password-sealed key files (Argon2id + AES-256-GCM) with printable paper backups… |
-| 2026-10-12 21:08:38 | [infomaniak-api](https://crates.io/crates/infomaniak-api) | 1.0.1 | 0 | A Rust client for the Infomaniak API, with OAuth2 or token auth and transparent… |
-| 2026-10-12 21:10:36 | [qcdiff-core](https://crates.io/crates/qcdiff-core) | 0.1.0 | 0 | Semantic diff for OpenQASM 3 quantum circuits: parse, normalize, and diff opera… |
-| 2026-10-12 21:14:30 | [inspector-core](https://crates.io/crates/inspector-core) | 0.1.0 | 0 | Versioned observation types for read-only Tokio runtime diagnostics |
-| 2026-10-12 21:14:48 | [petr-core](https://crates.io/crates/petr-core) | 0.1.0 | 0 | Low-bit tagged pointer words, keyed check words, selector words and residual ro… |
-| 2026-10-12 21:14:52 | [inspector-analysis](https://crates.io/crates/inspector-analysis) | 0.1.0 | 0 | Deterministic diagnostic rules over Tokio runtime snapshots |
-| 2026-10-12 21:14:54 | [petr-dispatch](https://crates.io/crates/petr-dispatch) | 0.1.0 | 0 | Selector-driven operation dispatch with TOML configuration, shuffled bytecode m… |
-| 2026-10-12 21:14:57 | [petr-collections](https://crates.io/crates/petr-collections) | 0.1.0 | 0 | Keyed arenas, paged keyed arenas and encoded generation-checked handles for pet… |
-| 2026-10-12 21:14:59 | [petr-resource](https://crates.io/crates/petr-resource) | 0.1.0 | 0 | Chunk-oriented resource scheduler driven by petr selector words. |
-| 2026-10-12 21:15:01 | [petr-math](https://crates.io/crates/petr-math) | 0.1.0 | 0 | Matrix and math demos using petr selector-style active/nop dispatch. |
-| 2026-10-12 21:15:02 | [inspector-collector](https://crates.io/crates/inspector-collector) | 0.1.0 | 0 | External Tokio console telemetry collector (read-only gRPC client) |
-| 2026-10-12 21:15:24 | [inspector-mcp](https://crates.io/crates/inspector-mcp) | 0.1.0 | 0 | Read-only Tokio runtime investigation MCP server (stdio) |
-| 2026-10-12 21:18:08 | [corifeu](https://crates.io/crates/corifeu) | 0.0.0 | 0 | A runtime that orchestrates AI agents and models to build software. One lead ag… |
+| 2026-10-12 21:20:16 | [audio2mp3-core](https://crates.io/crates/audio2mp3-core) | 0.2.0 | 0 | Small MP3 encoder (MPEG-1 Layer III, CBR) with zero dependencies and a C API |
+| 2026-10-12 21:21:19 | [petr-spatial](https://crates.io/crates/petr-spatial) | 0.1.0 | 0 | Spatial routing over petr words: quadrant routing and Morton codes. |
+| 2026-10-12 21:31:26 | [petr](https://crates.io/crates/petr) | 0.1.0 | 0 | Facade for the petr tagged-pointer crates: core, dispatch, collections, resourc… |
+| 2026-10-12 21:44:11 | [acoustic-engine](https://crates.io/crates/acoustic-engine) | 0.1.0 | 0 | Solveur acoustique 2D (FDTD, grille décalée) en f32 : bords absorbants, sources… |
+| 2026-10-12 21:48:10 | [cadmpeg-parasolid](https://crates.io/crates/cadmpeg-parasolid) | 0.6.1 | 0 | Shared Parasolid stream identity and header primitives for cadmpeg codecs. |
+| 2026-10-12 21:48:26 | [cadmpeg-registry](https://crates.io/crates/cadmpeg-registry) | 0.6.1 | 0 | Format detection, dialect identification, and the cadmpeg dialect registries. |
+| 2026-10-12 21:48:59 | [vyd](https://crates.io/crates/vyd) | 0.1.0 | 0 | Managed frames and composable video processing pipelines |
+| 2026-10-12 21:53:55 | [t4a-cubecl-environment](https://crates.io/crates/t4a-cubecl-environment) | 0.11.0 | 0 | Environment compatibility layer for CubeCL: sync primitives, futures, streams,… |
+| 2026-10-12 21:55:46 | [t4a-cubecl-monitoring](https://crates.io/crates/t4a-cubecl-monitoring) | 0.11.0 | 0 | How busy a CubeCL device is, by the counter its card's driver or its platform k… |
+| 2026-10-12 21:55:51 | [closedmcp-sdk](https://crates.io/crates/closedmcp-sdk) | 0.1.0 | 0 | ClosedMCP authorization for rmcp Streamable HTTP servers |
+| 2026-10-12 21:57:02 | [gyral-renderer-domain](https://crates.io/crates/gyral-renderer-domain) | 0.1.0 | 0 | Pure rendering contract and validated types for gyral-rs |
+| 2026-10-12 21:57:11 | [gyral-renderer](https://crates.io/crates/gyral-renderer) | 0.1.0 | 0 | Render Gyral app bundles inside Rust using deno_core |
+| 2026-10-12 21:57:21 | [gyral-axum](https://crates.io/crates/gyral-axum) | 0.1.0 | 0 | Thin Axum response integration for gyral-renderer |
+| 2026-10-12 22:00:38 | [t4a-cubecl-llvm](https://crates.io/crates/t4a-cubecl-llvm) | 0.11.0 | 0 | LLVM compiler for CubeCL |
+| 2026-10-12 22:00:48 | [t4a-cubecl-server](https://crates.io/crates/t4a-cubecl-server) | 0.11.0 | 0 | Toolkit for implementing a CubeCL runtime: memory pools, streams, drivers and t… |
+| 2026-10-12 22:01:34 | [t4a-cubecl-cpu](https://crates.io/crates/t4a-cubecl-cpu) | 0.11.0 | 0 | CPU runtime for CubeCL |
+| 2026-10-12 22:03:50 | [t4a-cubecl-hip](https://crates.io/crates/t4a-cubecl-hip) | 0.11.0 | 0 | AMD ROCm HIP runtime for CubeCL |
+| 2026-10-12 22:07:42 | [t4a-cubecl-spirv](https://crates.io/crates/t4a-cubecl-spirv) | 0.11.0 | 0 | SPIR-V compiler for CubeCL |
+| 2026-10-12 22:13:17 | [p4_oxi](https://crates.io/crates/p4_oxi) | 0.1.0 | 0 | Unofficial Perforce (Helix / P4) version control system wrapper. |
+| 2026-10-12 22:17:51 | [t4a-cubecl-metal](https://crates.io/crates/t4a-cubecl-metal) | 0.11.0 | 0 | Metal runtime for CubeCL |
 
 ## Data source
 

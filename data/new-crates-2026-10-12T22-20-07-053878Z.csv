@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T21:20:16.356368Z,audio2mp3-core,0.2.0,0,0,https://github.com/reynierlabaut/audio2mp3-core,"Small MP3 encoder (MPEG-1 Layer III, CBR) with zero dependencies and a C API"
+2026-10-12T21:21:19.940851Z,petr-spatial,0.1.0,0,0,https://github.com/jameshuntt/petr,Spatial routing over petr words: quadrant routing and Morton codes.
+2026-10-12T21:31:26.763122Z,petr,0.1.0,0,0,https://github.com/jameshuntt/petr,"Facade for the petr tagged-pointer crates: core, dispatch, collections, resource, math and spatial."
+2026-10-12T21:44:11.446735Z,acoustic-engine,0.1.0,0,0,https://github.com/jorgeandrecastro/acoustic_engine,"Solveur acoustique 2D (FDTD, grille décalée) en f32 : bords absorbants, sources, récepteurs, rayon optionnel"
+2026-10-12T21:48:10.553937Z,cadmpeg-parasolid,0.6.1,0,0,https://github.com/cadmpeg/cadmpeg,Shared Parasolid stream identity and header primitives for cadmpeg codecs.
+2026-10-12T21:48:26.368008Z,cadmpeg-registry,0.6.1,0,0,https://github.com/cadmpeg/cadmpeg,"Format detection, dialect identification, and the cadmpeg dialect registries."
+2026-10-12T21:48:59.588143Z,vyd,0.1.0,0,0,https://github.com/sdd/vyd,Managed frames and composable video processing pipelines
+2026-10-12T21:53:55.741718Z,t4a-cubecl-environment,0.11.0,0,0,https://github.com/tracel-ai/cubecl/tree/main/crates/cubecl-environment,"Environment compatibility layer for CubeCL: sync primitives, futures, streams, config and persistence across std, no-std, wasm and tokio"
+2026-10-12T21:55:46.395794Z,t4a-cubecl-monitoring,0.11.0,0,0,,"How busy a CubeCL device is, by the counter its card's driver or its platform keeps."
+2026-10-12T21:55:51.902324Z,closedmcp-sdk,0.1.0,0,0,https://github.com/canpainc/closedmcp-sdk-rust,ClosedMCP authorization for rmcp Streamable HTTP servers
+2026-10-12T21:57:02.02203Z,gyral-renderer-domain,0.1.0,0,0,https://github.com/gyraljs/gyral-rs,Pure rendering contract and validated types for gyral-rs
+2026-10-12T21:57:11.15417Z,gyral-renderer,0.1.0,0,0,https://github.com/gyraljs/gyral-rs,Render Gyral app bundles inside Rust using deno_core
+2026-10-12T21:57:21.166204Z,gyral-axum,0.1.0,0,0,https://github.com/gyraljs/gyral-rs,Thin Axum response integration for gyral-renderer
+2026-10-12T22:00:38.978851Z,t4a-cubecl-llvm,0.11.0,0,0,https://github.com/tracel-ai/cubecl/tree/main/crates/cubecl-llvm,LLVM compiler for CubeCL
+2026-10-12T22:00:48.829469Z,t4a-cubecl-server,0.11.0,0,0,https://github.com/tracel-ai/cubecl/tree/main/crates/cubecl-server,"Toolkit for implementing a CubeCL runtime: memory pools, streams, drivers and the compilation pipeline."
+2026-10-12T22:01:34.059602Z,t4a-cubecl-cpu,0.11.0,0,0,https://github.com/tracel-ai/cubecl/tree/main/crates/cubecl-cpu,CPU runtime for CubeCL
+2026-10-12T22:03:50.285971Z,t4a-cubecl-hip,0.11.0,0,0,https://github.com/tracel-ai/cubecl/tree/main/crates/cubecl-hip,AMD ROCm HIP runtime for CubeCL
+2026-10-12T22:07:42.983338Z,t4a-cubecl-spirv,0.11.0,0,0,https://github.com/tracel-ai/cubecl/tree/main/crates/cubecl-spirv,SPIR-V compiler for CubeCL
+2026-10-12T22:13:17.975315Z,p4_oxi,0.1.0,0,0,https://github.com/Polyraven/p4_oxi,Unofficial Perforce (Helix / P4) version control system wrapper.
+2026-10-12T22:17:51.854169Z,t4a-cubecl-metal,0.11.0,0,0,https://github.com/tracel-ai/cubecl/tree/main/crates/cubecl-metal,Metal runtime for CubeCL
