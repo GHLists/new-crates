@@ -1,0 +1,9 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T03:24:25.31032Z,ratype,0.1.0,0,0,https://github.com/dirgaydtm/ratype,Local-first code typing test for the terminal and the web
+2026-10-12T03:41:55.505088Z,ebus-mqtt,0.1.0,0,0,https://github.com/electrification-bus/rust-sdk,"MQTT vocabulary for eBus: messages and commands, topic filters and their ownership."
+2026-10-12T03:41:57.427623Z,ebus-discovery,0.1.0,0,0,https://github.com/electrification-bus/rust-sdk,"eBus DNS-SD contract: service types, TXT records, the advertisement model, merging mDNS sightings and broker selection, with no I/O."
+2026-10-12T03:41:58.280308Z,ebus-homie,0.1.0,0,0,https://github.com/electrification-bus/rust-sdk,"Homie 5 protocol core for eBus: identifiers, topics, datatypes, descriptions and the controller and device state machines, with no I/O."
+2026-10-12T03:41:59.32616Z,ebus-discovery-tokio,0.1.0,0,0,https://github.com/electrification-bus/rust-sdk,"mDNS backends, broker search and host advertisement for eBus on tokio."
+2026-10-12T03:42:00.006904Z,ebus-homie-tokio,0.1.0,0,0,https://github.com/electrification-bus/rust-sdk,Tokio runtime for the eBus Homie 5 controller and device.
+2026-10-12T03:53:26.949694Z,ebus-rumqttc,0.1.0,0,0,https://github.com/electrification-bus/rust-sdk,Bundled rumqttc 0.25 connection for the eBus Homie 5 controller and device on tokio.
+2026-10-12T04:01:08.493999Z,tamis-participant-application,0.1.0,0,0,https://gitlab.rd.cst.fr/tamis-in-tems/tamis-participant-application,"Web interface for TAMIS Participant to pilot EDC Connector, EDC Federated Catalog, Identity Hub."

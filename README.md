@@ -8,30 +8,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 03:19 UTC
+## Latest list — 2026-10-12 04:18 UTC
 
-New crates published between 2026-10-12 02:19 UTC and 2026-10-12 03:19 UTC.
+New crates published between 2026-10-12 03:19 UTC and 2026-10-12 04:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-12T03-19-04-547829Z.csv)
+[Full CSV](data/new-crates-2026-10-12T04-18-36-846555Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-12 02:19:58 | [veloster-frame](https://crates.io/crates/veloster-frame) | 0.1.10 | 0 | Core VideoFrame and AudioBuffer data structures for uncompressed multimedia data |
-| 2026-10-12 02:29:56 | [veloster-h264](https://crates.io/crates/veloster-h264) | 0.1.10 | 0 | Pure-Rust H.264 / AVC NAL unit parser, SPS/PPS decoder, and bitstream analyzer |
-| 2026-10-12 02:40:01 | [veloster-media](https://crates.io/crates/veloster-media) | 0.1.10 | 0 | Unified high-level multimedia file abstraction, stream probing, and frame decod… |
-| 2026-10-12 02:50:04 | [veloster-codecs](https://crates.io/crates/veloster-codecs) | 0.1.10 | 0 | Unified codecs dispatch hub and multi-format registry for Veloster multimedia e… |
-| 2026-10-12 02:51:55 | [disktop](https://crates.io/crates/disktop) | 0.1.0 | 0 | A top-style terminal monitor for your drives, with live I/O graphs |
-| 2026-10-12 02:52:36 | [zaino-component](https://crates.io/crates/zaino-component) | 0.1.0 | 0 | A supervised in-process subsystem (a Component): its health, lifecycle, managem… |
-| 2026-10-12 02:53:17 | [zaino-chain](https://crates.io/crates/zaino-chain) | 0.2.0 | 0 | ChainView: the ports for Zaino's unified chain read surface, and the composer t… |
-| 2026-10-12 02:56:47 | [bsv-overlay-engine](https://crates.io/crates/bsv-overlay-engine) | 0.1.0 | 0 | Transaction admission, lookup and GASP synchronization for BSV overlay services. |
-| 2026-10-12 02:57:06 | [bsv-overlay-discovery](https://crates.io/crates/bsv-overlay-discovery) | 0.1.0 | 0 | Topic managers and lookup services for the BSV overlay network. |
-| 2026-10-12 03:01:09 | [cryptscale](https://crates.io/crates/cryptscale) | 0.1.0 | 0 | A fast, secure file encryption and decryption tool for cloud storage, with rand… |
-| 2026-10-12 03:02:05 | [bsv-low-proof-replay](https://crates.io/crates/bsv-low-proof-replay) | 0.1.0 | 0 | Deterministic server-side verification of LOW proof transcript bundles. |
-| 2026-10-12 03:02:14 | [bsv-worker-build-info](https://crates.io/crates/bsv-worker-build-info) | 0.1.0 | 0 | Shared build provenance capture and health metadata for BSV Workers. |
-| 2026-10-12 03:02:54 | [bsv-overlay-cloudflare](https://crates.io/crates/bsv-overlay-cloudflare) | 0.1.0 | 0 | Cloudflare Workers hosting for BSV overlay services. |
-| 2026-10-12 03:03:18 | [poop](https://crates.io/crates/poop) | 0.0.1 | 0 | Rust client for WHOOP 4.0 and WHOOP 5.0/MG straps over BLE using the Web Blueto… |
-| 2026-10-12 03:05:37 | [rust-commander-platform](https://crates.io/crates/rust-commander-platform) | 0.2.2 | 0 | Platform integration primitives for Rust Commander |
-| 2026-10-12 03:16:54 | [windows-headless](https://crates.io/crates/windows-headless) | 0.1.0-alpha | 0 | Minimal-dependency headless Windows 11 VM provisioning and automation |
+| 2026-10-12 03:24:25 | [ratype](https://crates.io/crates/ratype) | 0.1.0 | 0 | Local-first code typing test for the terminal and the web |
+| 2026-10-12 03:41:55 | [ebus-mqtt](https://crates.io/crates/ebus-mqtt) | 0.1.0 | 0 | MQTT vocabulary for eBus: messages and commands, topic filters and their owners… |
+| 2026-10-12 03:41:57 | [ebus-discovery](https://crates.io/crates/ebus-discovery) | 0.1.0 | 0 | eBus DNS-SD contract: service types, TXT records, the advertisement model, merg… |
+| 2026-10-12 03:41:58 | [ebus-homie](https://crates.io/crates/ebus-homie) | 0.1.0 | 0 | Homie 5 protocol core for eBus: identifiers, topics, datatypes, descriptions an… |
+| 2026-10-12 03:41:59 | [ebus-discovery-tokio](https://crates.io/crates/ebus-discovery-tokio) | 0.1.0 | 0 | mDNS backends, broker search and host advertisement for eBus on tokio. |
+| 2026-10-12 03:42:00 | [ebus-homie-tokio](https://crates.io/crates/ebus-homie-tokio) | 0.1.0 | 0 | Tokio runtime for the eBus Homie 5 controller and device. |
+| 2026-10-12 03:53:26 | [ebus-rumqttc](https://crates.io/crates/ebus-rumqttc) | 0.1.0 | 0 | Bundled rumqttc 0.25 connection for the eBus Homie 5 controller and device on t… |
+| 2026-10-12 04:01:08 | [tamis-participant-application](https://crates.io/crates/tamis-participant-application) | 0.1.0 | 0 | Web interface for TAMIS Participant to pilot EDC Connector, EDC Federated Catal… |
 
 ## Data source
 
