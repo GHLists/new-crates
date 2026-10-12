@@ -1,0 +1,14 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T01:19:57.373647Z,veloster-dnx,0.1.10,0,0,https://github.com/magosam/veloster,Pure-Rust Avid DNxHD / DNxHR frame header parser and compression ID analyzer (SMPTE VC-3)
+2026-10-12T01:29:59.87125Z,veloster-h264enc,0.1.10,0,0,https://github.com/magosam/veloster,Pure-Rust baseline H.264 / AVC video encoder
+2026-10-12T01:33:51.293737Z,pixtuoid-lofi,0.1.0,0,0,https://github.com/pixtuoid/lofi,"Procedural lofi in Rust: a seed composes a song, synthesized from constants — no samples, no dependencies."
+2026-10-12T01:39:58.342572Z,veloster-hevc,0.1.10,0,0,https://github.com/magosam/veloster,Pure-Rust H.265 / HEVC parameter set parser and NAL unit analyzer (ITU-T H.265)
+2026-10-12T01:44:57.754337Z,shrinkfit,0.1.0,0,0,https://github.com/timesler/shrinkfit,Shrink JSON/YAML payloads to fit a character budget while preserving their schema and structure
+2026-10-12T01:45:01.867877Z,shrinkfit-cli,0.1.0,0,0,https://github.com/timesler/shrinkfit,Command-line tool and local playground for shrinkfit: shrink JSON/YAML to fit a character budget
+2026-10-12T01:50:00.63987Z,veloster-isobmff,0.1.10,0,0,https://github.com/magosam/veloster,Pure-Rust MP4/MOV (ISOBMFF) demuxer and muxer conforming to ISO/IEC 14496-12
+2026-10-12T01:50:24.539113Z,haken,0.0.1,0,0,,"haken: a keyboard-first task manager for the terminal, browser and phone. This is a name reservation; the first release is coming soon."
+2026-10-12T01:50:33.775528Z,hypertextual,0.0.0-rc.2,0,0,,A minimal Clap-derived command-line interface template.
+2026-10-12T01:54:40.897339Z,bastian,0.1.0,0,0,https://github.com/mainframev/bastian,A terminal Markdown reader
+2026-10-12T01:59:58.421587Z,veloster-prores,0.1.10,0,0,https://github.com/magosam/veloster,Pure-Rust Apple ProRes encoder and decoder conforming to Apple RDD 36
+2026-10-12T02:09:56.7917Z,veloster-vp9,0.1.10,0,0,https://github.com/magosam/veloster,"Pure-Rust VP9 bitstream parser, uncompressed header reader, and superframe unpacker"
+2026-10-12T02:17:00.214426Z,myko-telemetry,6.8.0,0,0,,Shared Myko application telemetry over OTLP
