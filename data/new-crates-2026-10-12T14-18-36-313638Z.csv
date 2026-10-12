@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T13:18:53.013436Z,mt-edit,0.1.1,0,0,https://github.com/ouyangjiahong26/mathtype-rs,"Editing model: cursor navigation over the equation tree, palette templates, undo history."
+2026-10-12T13:18:57.651121Z,embedded-screenshot,0.1.0,0,0,https://github.com/georgik/embedded-screenshot-rs,"Chip-agnostic framebuffer screenshot dumps over any embedded_io::Write sink, compatible with the esp_lcd_screenshot protocol"
+2026-10-12T13:18:59.622655Z,embedded-screenshot-decoder,0.1.0,0,0,https://github.com/georgik/embedded-screenshot-rs,Decode esp_lcd_screenshot serial dumps into PNG/PPM images
+2026-10-12T13:26:28.963482Z,solve-rs,0.0.1-pre.1,0,0,,Reserved crate name. No functionality yet.
+2026-10-12T13:26:53.73134Z,merman-unicode-linebreak,0.9.0,0,0,https://github.com/Latias94/merman,Unicode line breaking with cancellable input iteration for Merman
+2026-10-12T13:27:01.207574Z,shadcn-egui-font-merriweather,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Merriweather for shadcn-egui
+2026-10-12T13:28:40.906398Z,mt-render,0.1.1,0,0,https://github.com/ouyangjiahong26/mathtype-rs,Raster and vector backends that turn a laid-out equation into PNG and EPS output.
+2026-10-12T13:35:05.603442Z,make-it-so,0.1.0,0,0,https://github.com/a-maier/make-it-so,An experimental lazy command runner library
+2026-10-12T13:37:02.153574Z,shadcn-egui-font-montserrat,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Montserrat for shadcn-egui
+2026-10-12T13:37:38.575332Z,iced-color-triangle,0.1.0,0,0,https://github.com/kristoferssolo/iced-color-triangle,A hue ring and triangle color selector for Iced
+2026-10-12T13:38:39.477538Z,mt-docx,0.1.1,0,0,https://github.com/ouyangjiahong26/mathtype-rs,"Reader, light index and editor for the parts of a Word document the equation tools touch."
+2026-10-12T13:47:01.719637Z,shadcn-egui-font-noto-sans,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Noto Sans for shadcn-egui
+2026-10-12T13:48:40.289102Z,mt-style-preset,0.1.1,0,0,https://github.com/ouyangjiahong26/mathtype-rs,"Style presets: the text format, built-ins, and conversion to layout styles and stream preferences."
+2026-10-12T13:49:07.906006Z,notelet,0.1.1,0,0,https://github.com/ynishi/notelet,notelet: a thin hosted Markdown note store for coding agents. Umbrella crate re-exporting notelet-core; the server binary is notelet-mcp
+2026-10-12T13:49:23.746771Z,yang-config,0.1.2,0,0,https://github.com/wioenena/yang-rs,yang-rs configuration
+2026-10-12T13:53:50.110027Z,neura-source,0.7.0,0,0,https://github.com/formetaohy/Neura,The tensors a store fills from: a named source of payload and quantum bytes
+2026-10-12T13:53:58.191685Z,neura-gguf,0.7.0,0,0,https://github.com/formetaohy/Neura,Reading GGUF files into the tensors a store fills
+2026-10-12T13:54:23.064229Z,neura-decoder,0.7.0,0,0,https://github.com/formetaohy/Neura,Assembling the decoder only models a gguf weighs onto the graph
+2026-10-12T13:55:12.889594Z,neura-tokenizer,0.7.0,0,0,https://github.com/formetaohy/Neura,Byte level bpe over the vocabulary a gguf holds
+2026-10-12T13:55:19.663161Z,neura-template,0.7.0,0,0,https://github.com/formetaohy/Neura,Rendering the chat template a gguf names
+2026-10-12T13:55:32.937326Z,velr-runtime-macos-aarch64,0.2.49,0,0,https://github.com/velr-ai/velr-rust-driver,Velr native runtime for macOS aarch64
+2026-10-12T13:55:36.985592Z,velr-runtime-macos-x86_64,0.2.49,0,0,https://github.com/velr-ai/velr-rust-driver,Velr native runtime for macOS x86_64
+2026-10-12T13:57:00.700401Z,shadcn-egui-font-noto-serif,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Noto Serif for shadcn-egui
+2026-10-12T13:58:40.286454Z,mt-numbering,0.1.1,0,0,https://github.com/ouyangjiahong26/mathtype-rs,"Equation numbering and cross-references for Word documents, built from Word fields."
+2026-10-12T13:58:44.976463Z,rattler_azure,0.1.0,0,0,https://github.com/conda/rattler,A crate to streamline interaction with Azure Blob storage for rattler
+2026-10-12T14:01:03.858047Z,Reode,0.1.0,0,0,,Reserved crate name
+2026-10-12T14:03:03.836027Z,neura-generate,0.7.0,0,0,https://github.com/formetaohy/Neura,Driving a decoder program into the text it answers with
+2026-10-12T14:06:56.60319Z,riode,0.1.0,0,0,,Reserved crate name
+2026-10-12T14:07:00.450722Z,shadcn-egui-font-nunito-sans,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Nunito Sans for shadcn-egui
+2026-10-12T14:08:41.354954Z,mt-html,0.1.1,0,0,https://github.com/ouyangjiahong26/mathtype-rs,"Export a Word document to a web page: structure to HTML, formulas to inline MathML or PNG."
+2026-10-12T14:10:37.190237Z,triode,0.1.0,0,0,,Reserved crate name
+2026-10-12T14:16:59.646346Z,shadcn-egui-font-outfit,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Outfit for shadcn-egui
