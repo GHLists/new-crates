@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T19:19:54.697624Z,proa_const_json,0.1.2,0,0,https://github.com/proa-labs/proa,Const-evaluable JSON serialization and parsing with derive support.
+2026-10-12T19:20:08.103974Z,rushdown-d2,0.1.0,0,0,https://github.com/NicolasChagnet/rushdown-d2,Draw the d2 code blocks of a rushdown document as inline SVG.
+2026-10-12T19:20:12.84761Z,rushdown-toc,0.1.0,0,0,https://github.com/NicolasChagnet/rushdown-toc,Collect the headings of a rushdown document into a table of contents.
+2026-10-12T19:20:16.769875Z,rushdown-relative-links,0.1.0,0,0,https://github.com/NicolasChagnet/rushdown-relative-links,Resolve the relative destinations of a rushdown document against a base directory.
+2026-10-12T19:20:19.786945Z,rushdown-icons,0.1.0,0,0,https://github.com/NicolasChagnet/rushdown-icons,Draw named icons in a rushdown document as inline SVG from four icon sets.
+2026-10-12T19:20:22.828677Z,rushdown-lumis,0.1.0,0,0,https://github.com/NicolasChagnet/rushdown-lumis,Highlight the code blocks of a rushdown document with lumis.
+2026-10-12T19:24:35.222874Z,zakura-one-time-ivk,0.0.0,0,0,https://github.com/zakura-core/wallet-libraries,Reserved
+2026-10-12T19:24:49.346935Z,zakura-near-intents,0.0.0,0,0,https://github.com/zakura-core/wallet-libraries,Reserved
+2026-10-12T19:24:53.507373Z,zakura-pir-receiver,0.0.0,0,0,https://github.com/zakura-core/wallet-libraries,Reserved
+2026-10-12T19:25:49.726809Z,unisql-dialect-postgres,0.0.0,0,0,,Name reserved for the UniSQL project; no code yet.
+2026-10-12T19:29:46.822115Z,tpt-simd-matrix,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,Small fixed-size matrix operations
+2026-10-12T19:29:54.363214Z,proa_tailwind_merge,0.1.2,0,0,https://github.com/proa-labs/proa,Runtime and const-evaluable Tailwind CSS class conflict resolution.
+2026-10-12T19:30:23.710876Z,snacka,0.1.0,0,0,https://github.com/Mik-pe/snacka,Independent Rust audio codec development
+2026-10-12T19:34:49.41733Z,vetis-server,0.1.0-beta.2,0,0,https://github.com/vetis-server/vetis-server,Very Tiny Server
+2026-10-12T19:35:56.213539Z,unisql-dialect-sqlite,0.0.0,0,0,,Name reserved for the UniSQL project; no code yet.
+2026-10-12T19:39:53.966186Z,proa_tailwind_merge_macro,0.1.2,0,0,https://github.com/proa-labs/proa,Compile-time Tailwind CSS class merging for const contexts.
+2026-10-12T19:40:04.905241Z,tpt-simd,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,Umbrella crate re-exporting all tpt-simd crates
+2026-10-12T19:43:30.047896Z,skoro,0.0.0,0,0,https://github.com/mvarble/skoro,"Part of skoro, a Rust library for writing a probabilistic model once and running any inference on it. In development; this release reserves the name for the first."
+2026-10-12T19:43:32.246779Z,skoro-core,0.0.0,0,0,https://github.com/mvarble/skoro,"Part of skoro, a Rust library for writing a probabilistic model once and running any inference on it. In development; this release reserves the name for the first."
+2026-10-12T19:43:34.34273Z,skoro-tensor,0.0.0,0,0,https://github.com/mvarble/skoro,"Part of skoro, a Rust library for writing a probabilistic model once and running any inference on it. In development; this release reserves the name for the first."
+2026-10-12T19:46:03.061043Z,unisql-sqlparser-adapter,0.0.0,0,0,,Name reserved for the UniSQL project; no code yet.
+2026-10-12T19:47:45.245611Z,rust-fs-bcachefs,0.4.0,0,0,https://github.com/antimatter-studios/rust-fs-bcachefs,"Pure-Rust bcachefs reader, written clean-room from documentation and black-box observation; read-only by default, with an optional write feature. Exposes a C ABI (fs_bcachefs_*)."
+2026-10-12T19:47:48.381832Z,warren-snail,0.1.0,0,0,https://github.com/soulstompp/warren-snail,"A database in one file, read a column at a time, declared and asked in PostgreSQL's SQL"
+2026-10-12T19:49:54.764475Z,proa_og,0.1.2,0,0,https://github.com/proa-labs/proa,OG image generation using WPE WebKit headless rendering
+2026-10-12T19:54:27.603082Z,bevy-shader-plugin,0.2.0,0,0,https://github.com/EliDeCo/Bevy-Shader-Plugin,A Bevy plugin for streamlining fullscreen fragment and compute shader development.
+2026-10-12T19:58:06.595641Z,avulse,0.0.0,0,0,https://github.com/ffalcinelli/avulse,"Divert, modify and re-inject network packets on Linux, Windows and macOS."
+2026-10-12T19:58:53.945743Z,dpm-model,0.1.0,0,0,https://github.com/luofang34/dpm,Domain model for DPM execution planning
+2026-10-12T19:59:00.494731Z,dpm-schedule,0.1.0,0,0,https://github.com/luofang34/dpm,Deterministic and probabilistic scheduling for DPM
+2026-10-12T19:59:08.343489Z,dpm-engine,0.1.0,0,0,https://github.com/luofang34/dpm,Command/query execution engine for DPM
+2026-10-12T19:59:16.492357Z,dpm-interchange,0.1.0,0,0,https://github.com/luofang34/dpm,Bounded project-file interchange for reviewed DPM plan proposals
+2026-10-12T19:59:20.306292Z,dpm-store,0.1.0,0,0,https://github.com/luofang34/dpm,SQLite persistence and append-only operation log for DPM
+2026-10-12T19:59:56.874843Z,proa-cli,0.1.1,0,0,https://github.com/proa-labs/proa,"CLI for scaffolding, inspecting, formatting, and validating Proa web projects"
+2026-10-12T20:02:23.375068Z,confidant-crypt,0.1.0,0,0,https://github.com/hirefrank/confidant,Encryption for Confidant vaults (milestone 2: age + XChaCha20-Poly1305 per docs/crypto-design.md). Not yet independently audited — see the repository README.
+2026-10-12T20:03:18.01885Z,confidant-core,0.1.0,0,0,https://github.com/hirefrank/confidant,"Parse, model, derived values, and check engine for Confidant vaults."
+2026-10-12T20:04:12.527497Z,confidant-cli,0.1.0,0,0,https://github.com/hirefrank/confidant,CLI for the Confidant plain-text CRM.
+2026-10-12T20:09:41.177717Z,shonin-strategy-sdk,0.1.0,0,0,https://github.com/ShoninFi/shonin-platform,Rust SDK for writing Shonin strategies as WASM components
+2026-10-12T20:10:39.197964Z,dpm-app,0.1.0,0,0,https://github.com/luofang34/dpm,Shared command/query service for DPM CLI and agent tools
+2026-10-12T20:12:57.739185Z,enclume,1.0.0,0,0,https://github.com/NicolasChagnet/enclume,Hit your content on the anvil until a website comes out.
+2026-10-12T20:17:20.090776Z,cahal,0.1.0,0,0,https://github.com/mkovero/cahal,"Core Audio HAL binding for macOS: devices, properties, listeners, and one duplex IOProc with an exact sample index."
