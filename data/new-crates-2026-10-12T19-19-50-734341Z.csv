@@ -1,0 +1,55 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T18:19:54.169081Z,proa_framework_core,0.3.0,0,0,https://github.com/proa-labs/proa,"Runtime-agnostic route, response, manifest, and bootstrap contracts for Proa."
+2026-10-12T18:22:01.042298Z,pdf-viewer,0.1.1,1,1,https://github.com/pathscale/pdf-viewer,A PDF viewer with page and reading views
+2026-10-12T18:27:45.07524Z,zakura-reddsa-frost,0.0.0,0,0,https://github.com/zakura-core/common,Reserved
+2026-10-12T18:28:30.418565Z,tpt-simd-window,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,Window function generation and application
+2026-10-12T18:29:54.665886Z,proa_framework_axum,0.3.0,0,0,https://github.com/proa-labs/proa,Axum and Tokio adapter for Proa SSR applications.
+2026-10-12T18:31:09.800579Z,soberup,0.1.0,0,0,https://github.com/niwatoriiiiiiiii/soberup,Sober up your optimistic task estimates
+2026-10-12T18:31:28.820666Z,win-resource-builder,0.1.0,0,0,https://github.com/mematthias/win-resource-builder,Platform independent writer for Win32 resource files (.res) and COFF resource objects
+2026-10-12T18:34:42.525576Z,unisql,0.0.0,0,0,,Name reserved for the UniSQL project; no code yet.
+2026-10-12T18:34:45.957575Z,synapsed-client,0.0.0,0,0,,Name reserved for the Synapse project; no code yet.
+2026-10-12T18:34:50.918611Z,synapsed,0.0.0,0,0,,Name reserved for the Synapse project; no code yet.
+2026-10-12T18:34:53.055981Z,synapsectl,0.0.0,0,0,,Name reserved for the Synapse project; no code yet.
+2026-10-12T18:34:56.321964Z,synapse-mcp-server,0.0.0,0,0,,Name reserved for the Synapse project; no code yet.
+2026-10-12T18:36:51.715965Z,warc-rs,0.1.0,0,0,https://github.com/dentiny/warc-rs,Async WARC reader/writer with OpenDAL storage (fork of the warc crate).
+2026-10-12T18:38:02.582094Z,waywe_daemonize,0.5.0,0,0,https://github.com/hack3rmann/waywe-daemonize,Library to enable your code run as a daemon process on Unix-like systems.
+2026-10-12T18:38:36.89309Z,rvcsi-adapter-esp32,0.4.0,0,0,https://github.com/ruvnet/rvcsi,"Bounded ESP32 CSI JSONL, serial and UDP source adapter"
+2026-10-12T18:38:41.499258Z,tpt-simd-complex,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,SIMD complex number operations for FFT/MDCT
+2026-10-12T18:39:21.232212Z,sql-composer-ffi,0.1.0,0,0,https://github.com/soulstompp/sql-composer,C ABI for sql-composer: parse and compose SQL templates from any language that calls C
+2026-10-12T18:39:24.469378Z,sql-composer-py,0.1.0,0,0,https://github.com/soulstompp/sql-composer,"Python bindings for sql-composer: compose SQL templates, and get the SQL and its bind names back"
+2026-10-12T18:39:53.823998Z,proa_third_party,0.1.0,0,0,https://github.com/proa-labs/proa,"Deferred scripts, Google Analytics, and click-to-load YouTube embeds for Proa"
+2026-10-12T18:43:14.946311Z,schliffe,0.5.0,0,0,https://github.com/mkmuniz/schliffe-tk,"Cuts token waste in Claude Code sessions: shell command output, MCP tool results, and prose. Deterministic, auditable, no telemetry."
+2026-10-12T18:43:27.189443Z,devela_bridge,0.30.0,0,0,https://github.com/andamira/devela/tree/main/crates/bridge,Foreign-language bindings and ABI bridges for devela
+2026-10-12T18:43:28.242358Z,devela_extend,0.30.0,0,0,https://github.com/andamira/devela/tree/main/crates/extend,Ecosystem extensions and adapters for devela.
+2026-10-12T18:43:29.110603Z,devela_micros,0.30.0,0,0,https://github.com/andamira/devela/tree/main/crates/micros,"Microcontroller, microcomputer, board, and embedded hardware support."
+2026-10-12T18:43:33.749261Z,leptos-nebula,0.0.0-wip,0,0,https://github.com/nebula-rs/leptos-nebula,Leptos component library with token-based themes — what Quasar is to Vue (work in progress — placeholder release)
+2026-10-12T18:43:36.558049Z,leptos-native,0.0.0-wip,0,0,https://github.com/nebula-rs/leptos-native,"Native runtime for Leptos apps built on wry/tao, with a Rust-to-Rust bridge via server functions (work in progress — placeholder release)"
+2026-10-12T18:43:38.79361Z,leptos-press,0.0.0-wip,0,0,https://github.com/nebula-rs/leptos-press,VitePress-style documentation sites in Leptos (work in progress — placeholder release)
+2026-10-12T18:43:41.431142Z,leptos-press-build,0.0.0-wip,0,0,https://github.com/nebula-rs/leptos-press,Build-time side of leptos-press: Markdown (comrak) to Leptos code and llms.txt (work in progress — placeholder release)
+2026-10-12T18:43:52.34392Z,waveform-peaks,0.1.0,0,0,https://github.com/rlustin/waveform-peaks,Constant-memory generation of audiowaveform-compatible peak data from streamed audio
+2026-10-12T18:44:25.414177Z,axumstart_router_macros,0.1.4,0,0,https://github.com/axumstart/axumstart,Proc macros powering axumstart_router's #[get]/#[post]/.../#[layer]
+2026-10-12T18:45:02.585551Z,axumstart_router,0.1.4,0,0,https://github.com/axumstart/axumstart,Auto-registered Axum routes (#[get]/#[post]/.../#[layer]) backed by axumstart_components' DI container
+2026-10-12T18:45:20.132094Z,synapse-claude-channel,0.0.0,0,0,,Name reserved for the Synapse project; no code yet.
+2026-10-12T18:45:57.401126Z,markkit,0.1.0,0,0,https://github.com/everruns/markkit,"Extract clean markdown from any format – HTML, PDF, DOCX, and more"
+2026-10-12T18:46:11.464505Z,markkit-cli,0.1.0,0,0,https://github.com/everruns/markkit,Command line interface for Markkit markdown extraction
+2026-10-12T18:48:53.700412Z,tpt-simd-dot,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,SIMD dot product variants
+2026-10-12T18:49:55.577745Z,proa_codegen,0.2.0,0,0,https://github.com/proa-labs/proa,Product-neutral React and TypeScript generation from Proa component metadata.
+2026-10-12T18:54:48.108831Z,operation-icons,0.1.0,0,0,https://github.com/pyrlyn/crates-packages,"Emoji icons for the verb of a status line, and the fixed-width gutter that keeps lines with and without an icon aligned"
+2026-10-12T18:54:48.988141Z,kanbrain-core,0.1.0,0,0,https://github.com/singudotdev/kanbrain,"The core of kanbrain (the `kb` command line and the kanban app): entries, markdown storage, tags and time tracking. Internal: its API follows kanbrain's versions and isn't meant for other crates."
+2026-10-12T18:54:59.764421Z,kanbrain,0.1.0,0,0,https://github.com/singudotdev/kanbrain,"Project memory for you and your coding agents: tasks, notes and decisions in plain markdown files next to the code, kept current by agents that stop to ask you when a choice is yours, with time track…"
+2026-10-12T18:55:27.759443Z,synapse-security,0.0.0,0,0,,Name reserved for the Synapse project; no code yet.
+2026-10-12T18:58:39.013268Z,pecia-buffers,0.1.0,0,0,https://github.com/terranesoftware/pecia,Buffers.
+2026-10-12T18:58:39.213041Z,pecia-shard,0.1.0,0,0,https://github.com/terranesoftware/pecia,Shard.
+2026-10-12T18:59:05.916678Z,tpt-simd-permute,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,"SIMD transpose, interleave and permutation helpers"
+2026-10-12T18:59:53.939494Z,proa_fonts_macros,0.1.0,0,0,https://github.com/proa-labs/proa,Declare self-hosted fonts in code: google_font! / local_font! expand to a build-generated proa_fonts::Font.
+2026-10-12T19:00:01.006282Z,zakura-pir-transparent,0.0.0,0,0,https://github.com/zakura-core/wallet-libraries,Reserved
+2026-10-12T19:01:07.216206Z,pecia,0.1.0,0,0,https://github.com/terranesoftware/pecia,"Text, and only text."
+2026-10-12T19:03:39.8607Z,aws-sdk-sagemakertrainingsessionruntime,1.0.0,0,0,https://github.com/awslabs/aws-sdk-rust,AWS SDK for SageMaker Training Session Runtime
+2026-10-12T19:05:34.333257Z,unisql-core,0.0.0,0,0,,Name reserved for the UniSQL project; no code yet.
+2026-10-12T19:06:29.426207Z,texera,0.0.1,0,0,,"A modular code-editor widget for ratatui, following the **""Bring Your Own"" (BYO)** philosophy"
+2026-10-12T19:09:15.731315Z,tpt-simd-reduce,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,"SIMD slice reductions: sum, compensated sum, mean, variance, covariance, min/max/argmin/argmax, norm"
+2026-10-12T19:09:53.844807Z,proa_const_json_macros,0.1.2,0,0,https://github.com/proa-labs/proa,Derive macros for const-evaluable JSON serialization.
+2026-10-12T19:10:48.446828Z,rapl-plot,0.1.0,0,0,https://github.com/JErnestoMtz/rapl-plot,Plotting for rapl arrays.
+2026-10-12T19:11:24.221465Z,glab-clone,1.0.0,0,0,https://gitlab.com/JDRobotter/glab-clone,glab-clone clone a repository hosted on gitlab either by prompting user with a fuzzy search or clone all repositories matching provided wildcard string
+2026-10-12T19:15:41.340226Z,unisql-dialect-mysql,0.0.0,0,0,,Name reserved for the UniSQL project; no code yet.
+2026-10-12T19:19:30.240474Z,tpt-simd-select,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,SIMD element selection by index

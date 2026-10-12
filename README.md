@@ -8,68 +8,68 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 18:18 UTC
+## Latest list — 2026-10-12 19:19 UTC
 
-New crates published between 2026-10-12 17:18 UTC and 2026-10-12 18:18 UTC.
+New crates published between 2026-10-12 18:18 UTC and 2026-10-12 19:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-12T18-18-37-893769Z.csv)
+[Full CSV](data/new-crates-2026-10-12T19-19-50-734341Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-12 17:19:55 | [rsjs_transport](https://crates.io/crates/rsjs_transport) | 0.1.0 | 0 | Versioned object/rlib record transport for the staged RSJS linker. |
-| 2026-10-12 17:21:45 | [vacc-vaapi-encode](https://crates.io/crates/vacc-vaapi-encode) | 0.1.2 | 0 | VAAPI Video Encode implementation with Encoder trait |
-| 2026-10-12 17:25:52 | [web-shooter](https://crates.io/crates/web-shooter) | 0.1.0 | 0 | Fast, low-token web reader and focused crawler for AI assistants, served over M… |
-| 2026-10-12 17:27:28 | [tpt-simd-rng](https://crates.io/crates/tpt-simd-rng) | 0.1.0 | 0 | Lane-parallel xoshiro256++ and Philox4x32-10 generators with SIMD-friendly unif… |
-| 2026-10-12 17:27:36 | [kinship-proto](https://crates.io/crates/kinship-proto) | 0.1.0 | 0 | kinship wire types, codec and AEAD framing |
-| 2026-10-12 17:27:39 | [kinship-core](https://crates.io/crates/kinship-core) | 0.1.0 | 0 | Sans-IO SWIM and Lifeguard protocol state machine |
-| 2026-10-12 17:27:46 | [kinship-net](https://crates.io/crates/kinship-net) | 0.1.0 | 0 | tokio UDP and TCP driver for kinship-core |
-| 2026-10-12 17:27:49 | [kinship](https://crates.io/crates/kinship) | 0.1.0 | 0 | SWIM membership and failure detection with Lifeguard, for Rust and Python |
-| 2026-10-12 17:29:54 | [proa_stream](https://crates.io/crates/proa_stream) | 0.3.0 | 0 | Concurrent data loading and out-of-order streaming SSR for Proa. |
-| 2026-10-12 17:31:00 | [flexdeck-plugin-abi](https://crates.io/crates/flexdeck-plugin-abi) | 0.1.0 | 0 | The flexdeck plugin contract: the protocol, package manifest and repository ind… |
-| 2026-10-12 17:31:09 | [flexdeck-plugin-sdk](https://crates.io/crates/flexdeck-plugin-sdk) | 0.1.0 | 0 | Write a native flexdeck plugin in Rust: describe it, and the SDK speaks the pro… |
-| 2026-10-12 17:31:47 | [vacc-software-decode](https://crates.io/crates/vacc-software-decode) | 0.1.2 | 0 | Software (CPU) video decode backends for vacc: H.264/AVC (edge264 port) and H.2… |
-| 2026-10-12 17:32:40 | [pkgconfx](https://crates.io/crates/pkgconfx) | 0.1.0 | 0 | Similar to the pkg-config crate, but using the actually maintained 'pkgconf' di… |
-| 2026-10-12 17:36:51 | [klint-rs](https://crates.io/crates/klint-rs) | 0.35.0 | 0 | Architecture-as-Code linter: layer boundaries, import rules and forbidden patte… |
-| 2026-10-12 17:37:04 | [systemd-transient](https://crates.io/crates/systemd-transient) | 0.1.0 | 0 | Start transient systemd services using dbus, just like systemd-run. |
-| 2026-10-12 17:37:38 | [tpt-simd-rounding](https://crates.io/crates/tpt-simd-rounding) | 0.1.0 | 0 | SIMD rounding operations |
-| 2026-10-12 17:37:45 | [eclipsed](https://crates.io/crates/eclipsed) | 0.2.0 | 0 | A lossless Lua parser designed for editing the syntax tree in batched passes. |
-| 2026-10-12 17:39:54 | [proa_docs](https://crates.io/crates/proa_docs) | 0.2.0 | 0 | Runtime navigation and rendering primitives for Proa documentation sites. |
-| 2026-10-12 17:41:38 | [aria-primitives](https://crates.io/crates/aria-primitives) | 0.1.0 | 0 | Process, file, and socket primitives shared by the Aria crates |
-| 2026-10-12 17:41:40 | [aria-harness](https://crates.io/crates/aria-harness) | 0.1.0 | 0 | Black-box acceptance harness that runs a binary against a scenario catalog |
-| 2026-10-12 17:41:41 | [aria-kit](https://crates.io/crates/aria-kit) | 0.1.0 | 0 | Audio capture, transcription, synthesis, and voice-analysis contracts for local… |
-| 2026-10-12 17:41:42 | [aria-segmentation](https://crates.io/crates/aria-segmentation) | 0.1.0 | 0 | Speaker segmentation with pyannote models, for aria-kit |
-| 2026-10-12 17:41:42 | [aria-speaker](https://crates.io/crates/aria-speaker) | 0.1.0 | 0 | Speaker embeddings with WeSpeaker models, for aria-kit |
-| 2026-10-12 17:41:48 | [vacc-software-encode](https://crates.io/crates/vacc-software-encode) | 0.1.2 | 0 | Pure-Rust software H.264/AVC encoder: the `sw` encode backend (CABAC/CAVLC, B-f… |
-| 2026-10-12 17:43:22 | [ic-crates](https://crates.io/crates/ic-crates) | 0.2.0 | 0 | Controller-operated Cargo upload bridge for IC Crates |
-| 2026-10-12 17:44:37 | [ctmux-avt](https://crates.io/crates/ctmux-avt) | 0.1.1 | 0 | Terminal emulator for ctmux, derived from asciinema avt |
-| 2026-10-12 17:44:39 | [tokn-ctl-core](https://crates.io/crates/tokn-ctl-core) | 0.1.1 | 0 | Component identity, executable inspection, and storage paths shared by ctl and… |
-| 2026-10-12 17:46:44 | [aria-stt](https://crates.io/crates/aria-stt) | 0.1.0 | 0 | Local speech-to-text engines behind aria-kit's transcription contract |
-| 2026-10-12 17:47:48 | [tpt-simd-saturate](https://crates.io/crates/tpt-simd-saturate) | 0.1.0 | 0 | SIMD saturating arithmetic and saturating pack operations |
-| 2026-10-12 17:49:54 | [proa_docs_build](https://crates.io/crates/proa_docs_build) | 0.2.0 | 0 | Build-time Markdown and MDX compiler for Proa documentation sites. |
-| 2026-10-12 17:51:50 | [vacc-vulkan-encode](https://crates.io/crates/vacc-vulkan-encode) | 0.1.2 | 0 | Vulkan Video H.264 encoder backend for vacc |
-| 2026-10-12 17:55:06 | [frglib](https://crates.io/crates/frglib) | 0.1.0 | 0 | Rust bindings to SDL3: windows, events and a Vulkan-capable surface |
-| 2026-10-12 17:56:45 | [aria-tts](https://crates.io/crates/aria-tts) | 0.1.0 | 0 | Local text-to-speech engines behind aria-kit's synthesis contract |
-| 2026-10-12 17:57:58 | [tpt-simd-scatter](https://crates.io/crates/tpt-simd-scatter) | 0.1.0 | 0 | SIMD non-contiguous stores (scatter) |
-| 2026-10-12 17:59:16 | [rustique-orm-macros](https://crates.io/crates/rustique-orm-macros) | 0.1.0 | 0 | Proc-macros for the rustique-orm crate: #[rustique::model] |
-| 2026-10-12 17:59:28 | [rustique-orm](https://crates.io/crates/rustique-orm) | 0.1.0 | 0 | Eloquent-style ORM for MySQL 8.4+ and Oracle 19c+ |
-| 2026-10-12 17:59:57 | [rsjs_macros](https://crates.io/crates/rsjs_macros) | 0.2.0 | 0 | Procedural macros for the rsjs reactive island compiler. |
-| 2026-10-12 18:00:59 | [ontomark-ingest](https://crates.io/crates/ontomark-ingest) | 0.1.0 | 0 | Assisted ingest for Ontomark: a pure, host-driven plan/accept contract that tur… |
-| 2026-10-12 18:01:52 | [vacc](https://crates.io/crates/vacc) | 0.1.2 | 0 | Vacc video decoder: unified API over Vulkan, NVDEC, VAAPI and software backends… |
-| 2026-10-12 18:03:04 | [purrassist-derive](https://crates.io/crates/purrassist-derive) | 0.0.0 | 0 | Name reservation for PurRAssist; see 0.1.0. |
-| 2026-10-12 18:05:21 | [terhub](https://crates.io/crates/terhub) | 0.2.2 | 0 | A terminal command center: every session, pane, and agent (local tmux/zellij/sc… |
-| 2026-10-12 18:06:44 | [aria-wake](https://crates.io/crates/aria-wake) | 0.1.0 | 0 | Wake-word detection with openWakeWord and livekit-wakeword models |
-| 2026-10-12 18:06:50 | [browser-control-mcp](https://crates.io/crates/browser-control-mcp) | 0.1.0 | 0 | MCP server to control and debug Chrome and Firefox at runtime: breakpoints, cal… |
-| 2026-10-12 18:07:03 | [gpui-lens](https://crates.io/crates/gpui-lens) | 0.0.1 | 0 | Devtools for GPUI apps. Name reserved, nothing is released yet. |
-| 2026-10-12 18:08:09 | [tpt-simd-shift](https://crates.io/crates/tpt-simd-shift) | 0.1.0 | 0 | SIMD shift and rotate variants |
-| 2026-10-12 18:09:54 | [rsjs](https://crates.io/crates/rsjs) | 0.2.0 | 0 | Compile reactive UI islands written in Rust into tiny vanilla JavaScript. |
-| 2026-10-12 18:10:39 | [riml](https://crates.io/crates/riml) | 0.1.0 | 0 | A minimal, portable and efficient machine learning framework |
-| 2026-10-12 18:12:15 | [zakura-mmr-tree](https://crates.io/crates/zakura-mmr-tree) | 0.0.0 | 0 | Reserved |
-| 2026-10-12 18:16:09 | [three-live-compiler](https://crates.io/crates/three-live-compiler) | 0.0.1-alpha.0 | 0 | Placeholder crate |
-| 2026-10-12 18:16:11 | [three-live](https://crates.io/crates/three-live) | 0.0.1-alpha.0 | 0 | Placeholder crate |
-| 2026-10-12 18:16:13 | [xr-live](https://crates.io/crates/xr-live) | 0.0.1-alpha.0 | 0 | Placeholder crate |
-| 2026-10-12 18:16:15 | [aetherux](https://crates.io/crates/aetherux) | 0.0.1-alpha.0 | 0 | Placeholder crate |
-| 2026-10-12 18:16:44 | [aria-web](https://crates.io/crates/aria-web) | 0.1.0 | 0 | Aria's dictation pipeline compiled to WebAssembly for the browser |
-| 2026-10-12 18:18:20 | [tpt-simd-sparse](https://crates.io/crates/tpt-simd-sparse) | 0.1.0 | 0 | Sparse kernels: CSR/CSC SpMV (plain and transposed) and fused vector updates fo… |
+| 2026-10-12 18:19:54 | [proa_framework_core](https://crates.io/crates/proa_framework_core) | 0.3.0 | 0 | Runtime-agnostic route, response, manifest, and bootstrap contracts for Proa. |
+| 2026-10-12 18:22:01 | [pdf-viewer](https://crates.io/crates/pdf-viewer) | 0.1.1 | 1 | A PDF viewer with page and reading views |
+| 2026-10-12 18:27:45 | [zakura-reddsa-frost](https://crates.io/crates/zakura-reddsa-frost) | 0.0.0 | 0 | Reserved |
+| 2026-10-12 18:28:30 | [tpt-simd-window](https://crates.io/crates/tpt-simd-window) | 0.1.0 | 0 | Window function generation and application |
+| 2026-10-12 18:29:54 | [proa_framework_axum](https://crates.io/crates/proa_framework_axum) | 0.3.0 | 0 | Axum and Tokio adapter for Proa SSR applications. |
+| 2026-10-12 18:31:09 | [soberup](https://crates.io/crates/soberup) | 0.1.0 | 0 | Sober up your optimistic task estimates |
+| 2026-10-12 18:31:28 | [win-resource-builder](https://crates.io/crates/win-resource-builder) | 0.1.0 | 0 | Platform independent writer for Win32 resource files (.res) and COFF resource o… |
+| 2026-10-12 18:34:42 | [unisql](https://crates.io/crates/unisql) | 0.0.0 | 0 | Name reserved for the UniSQL project; no code yet. |
+| 2026-10-12 18:34:45 | [synapsed-client](https://crates.io/crates/synapsed-client) | 0.0.0 | 0 | Name reserved for the Synapse project; no code yet. |
+| 2026-10-12 18:34:50 | [synapsed](https://crates.io/crates/synapsed) | 0.0.0 | 0 | Name reserved for the Synapse project; no code yet. |
+| 2026-10-12 18:34:53 | [synapsectl](https://crates.io/crates/synapsectl) | 0.0.0 | 0 | Name reserved for the Synapse project; no code yet. |
+| 2026-10-12 18:34:56 | [synapse-mcp-server](https://crates.io/crates/synapse-mcp-server) | 0.0.0 | 0 | Name reserved for the Synapse project; no code yet. |
+| 2026-10-12 18:36:51 | [warc-rs](https://crates.io/crates/warc-rs) | 0.1.0 | 0 | Async WARC reader/writer with OpenDAL storage (fork of the warc crate). |
+| 2026-10-12 18:38:02 | [waywe_daemonize](https://crates.io/crates/waywe_daemonize) | 0.5.0 | 0 | Library to enable your code run as a daemon process on Unix-like systems. |
+| 2026-10-12 18:38:36 | [rvcsi-adapter-esp32](https://crates.io/crates/rvcsi-adapter-esp32) | 0.4.0 | 0 | Bounded ESP32 CSI JSONL, serial and UDP source adapter |
+| 2026-10-12 18:38:41 | [tpt-simd-complex](https://crates.io/crates/tpt-simd-complex) | 0.1.0 | 0 | SIMD complex number operations for FFT/MDCT |
+| 2026-10-12 18:39:21 | [sql-composer-ffi](https://crates.io/crates/sql-composer-ffi) | 0.1.0 | 0 | C ABI for sql-composer: parse and compose SQL templates from any language that… |
+| 2026-10-12 18:39:24 | [sql-composer-py](https://crates.io/crates/sql-composer-py) | 0.1.0 | 0 | Python bindings for sql-composer: compose SQL templates, and get the SQL and it… |
+| 2026-10-12 18:39:53 | [proa_third_party](https://crates.io/crates/proa_third_party) | 0.1.0 | 0 | Deferred scripts, Google Analytics, and click-to-load YouTube embeds for Proa |
+| 2026-10-12 18:43:14 | [schliffe](https://crates.io/crates/schliffe) | 0.5.0 | 0 | Cuts token waste in Claude Code sessions: shell command output, MCP tool result… |
+| 2026-10-12 18:43:27 | [devela_bridge](https://crates.io/crates/devela_bridge) | 0.30.0 | 0 | Foreign-language bindings and ABI bridges for devela |
+| 2026-10-12 18:43:28 | [devela_extend](https://crates.io/crates/devela_extend) | 0.30.0 | 0 | Ecosystem extensions and adapters for devela. |
+| 2026-10-12 18:43:29 | [devela_micros](https://crates.io/crates/devela_micros) | 0.30.0 | 0 | Microcontroller, microcomputer, board, and embedded hardware support. |
+| 2026-10-12 18:43:33 | [leptos-nebula](https://crates.io/crates/leptos-nebula) | 0.0.0-wip | 0 | Leptos component library with token-based themes — what Quasar is to Vue (work… |
+| 2026-10-12 18:43:36 | [leptos-native](https://crates.io/crates/leptos-native) | 0.0.0-wip | 0 | Native runtime for Leptos apps built on wry/tao, with a Rust-to-Rust bridge via… |
+| 2026-10-12 18:43:38 | [leptos-press](https://crates.io/crates/leptos-press) | 0.0.0-wip | 0 | VitePress-style documentation sites in Leptos (work in progress — placeholder r… |
+| 2026-10-12 18:43:41 | [leptos-press-build](https://crates.io/crates/leptos-press-build) | 0.0.0-wip | 0 | Build-time side of leptos-press: Markdown (comrak) to Leptos code and llms.txt… |
+| 2026-10-12 18:43:52 | [waveform-peaks](https://crates.io/crates/waveform-peaks) | 0.1.0 | 0 | Constant-memory generation of audiowaveform-compatible peak data from streamed… |
+| 2026-10-12 18:44:25 | [axumstart_router_macros](https://crates.io/crates/axumstart_router_macros) | 0.1.4 | 0 | Proc macros powering axumstart_router's #[get]/#[post]/.../#[layer] |
+| 2026-10-12 18:45:02 | [axumstart_router](https://crates.io/crates/axumstart_router) | 0.1.4 | 0 | Auto-registered Axum routes (#[get]/#[post]/.../#[layer]) backed by axumstart_c… |
+| 2026-10-12 18:45:20 | [synapse-claude-channel](https://crates.io/crates/synapse-claude-channel) | 0.0.0 | 0 | Name reserved for the Synapse project; no code yet. |
+| 2026-10-12 18:45:57 | [markkit](https://crates.io/crates/markkit) | 0.1.0 | 0 | Extract clean markdown from any format – HTML, PDF, DOCX, and more |
+| 2026-10-12 18:46:11 | [markkit-cli](https://crates.io/crates/markkit-cli) | 0.1.0 | 0 | Command line interface for Markkit markdown extraction |
+| 2026-10-12 18:48:53 | [tpt-simd-dot](https://crates.io/crates/tpt-simd-dot) | 0.1.0 | 0 | SIMD dot product variants |
+| 2026-10-12 18:49:55 | [proa_codegen](https://crates.io/crates/proa_codegen) | 0.2.0 | 0 | Product-neutral React and TypeScript generation from Proa component metadata. |
+| 2026-10-12 18:54:48 | [operation-icons](https://crates.io/crates/operation-icons) | 0.1.0 | 0 | Emoji icons for the verb of a status line, and the fixed-width gutter that keep… |
+| 2026-10-12 18:54:48 | [kanbrain-core](https://crates.io/crates/kanbrain-core) | 0.1.0 | 0 | The core of kanbrain (the `kb` command line and the kanban app): entries, markd… |
+| 2026-10-12 18:54:59 | [kanbrain](https://crates.io/crates/kanbrain) | 0.1.0 | 0 | Project memory for you and your coding agents: tasks, notes and decisions in pl… |
+| 2026-10-12 18:55:27 | [synapse-security](https://crates.io/crates/synapse-security) | 0.0.0 | 0 | Name reserved for the Synapse project; no code yet. |
+| 2026-10-12 18:58:39 | [pecia-buffers](https://crates.io/crates/pecia-buffers) | 0.1.0 | 0 | Buffers. |
+| 2026-10-12 18:58:39 | [pecia-shard](https://crates.io/crates/pecia-shard) | 0.1.0 | 0 | Shard. |
+| 2026-10-12 18:59:05 | [tpt-simd-permute](https://crates.io/crates/tpt-simd-permute) | 0.1.0 | 0 | SIMD transpose, interleave and permutation helpers |
+| 2026-10-12 18:59:53 | [proa_fonts_macros](https://crates.io/crates/proa_fonts_macros) | 0.1.0 | 0 | Declare self-hosted fonts in code: google_font! / local_font! expand to a build… |
+| 2026-10-12 19:00:01 | [zakura-pir-transparent](https://crates.io/crates/zakura-pir-transparent) | 0.0.0 | 0 | Reserved |
+| 2026-10-12 19:01:07 | [pecia](https://crates.io/crates/pecia) | 0.1.0 | 0 | Text, and only text. |
+| 2026-10-12 19:03:39 | [aws-sdk-sagemakertrainingsessionruntime](https://crates.io/crates/aws-sdk-sagemakertrainingsessionruntime) | 1.0.0 | 0 | AWS SDK for SageMaker Training Session Runtime |
+| 2026-10-12 19:05:34 | [unisql-core](https://crates.io/crates/unisql-core) | 0.0.0 | 0 | Name reserved for the UniSQL project; no code yet. |
+| 2026-10-12 19:06:29 | [texera](https://crates.io/crates/texera) | 0.0.1 | 0 | A modular code-editor widget for ratatui, following the **"Bring Your Own" (BYO… |
+| 2026-10-12 19:09:15 | [tpt-simd-reduce](https://crates.io/crates/tpt-simd-reduce) | 0.1.0 | 0 | SIMD slice reductions: sum, compensated sum, mean, variance, covariance, min/ma… |
+| 2026-10-12 19:09:53 | [proa_const_json_macros](https://crates.io/crates/proa_const_json_macros) | 0.1.2 | 0 | Derive macros for const-evaluable JSON serialization. |
+| 2026-10-12 19:10:48 | [rapl-plot](https://crates.io/crates/rapl-plot) | 0.1.0 | 0 | Plotting for rapl arrays. |
+| 2026-10-12 19:11:24 | [glab-clone](https://crates.io/crates/glab-clone) | 1.0.0 | 0 | glab-clone clone a repository hosted on gitlab either by prompting user with a… |
+| 2026-10-12 19:15:41 | [unisql-dialect-mysql](https://crates.io/crates/unisql-dialect-mysql) | 0.0.0 | 0 | Name reserved for the UniSQL project; no code yet. |
+| 2026-10-12 19:19:30 | [tpt-simd-select](https://crates.io/crates/tpt-simd-select) | 0.1.0 | 0 | SIMD element selection by index |
 
 ## Data source
 
