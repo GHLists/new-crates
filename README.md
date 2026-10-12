@@ -8,42 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 09:22 UTC
+## Latest list — 2026-10-12 10:18 UTC
 
-New crates published between 2026-10-12 08:19 UTC and 2026-10-12 09:22 UTC.
+New crates published between 2026-10-12 09:22 UTC and 2026-10-12 10:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-12T09-22-54-949612Z.csv)
+[Full CSV](data/new-crates-2026-10-12T10-18-36-285197Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-12 08:19:19 | [veloster-hls](https://crates.io/crates/veloster-hls) | 0.1.0 | 0 | HTTP Live Streaming (HLS) playlist generator and segmenter for Veloster |
-| 2026-10-12 08:19:22 | [crownui](https://crates.io/crates/crownui) | 0.1.0 | 0 | CrownUI: a SwiftUI-style declarative UI toolkit for Rust, rendered by Impeller,… |
-| 2026-10-12 08:19:27 | [veloster-interchange](https://crates.io/crates/veloster-interchange) | 0.1.0 | 0 | Pure-Rust CMX 3600 EDL, FCP XML, and timeline interchange engine for Veloster |
-| 2026-10-12 08:19:35 | [veloster-mux](https://crates.io/crates/veloster-mux) | 0.1.0 | 0 | Universal multiplexing engine, packet interleaver and container writer for Velo… |
-| 2026-10-12 08:19:43 | [veloster-net](https://crates.io/crates/veloster-net) | 0.1.0 | 0 | Network streaming I/O protocol layer (HTTP Range, RTMP, RTP/UDP, URL parsing) f… |
-| 2026-10-12 08:26:17 | [city3d-stac-types](https://crates.io/crates/city3d-stac-types) | 0.1.1 | 0 | Types and serialiser for STAC Items describing 3D city models (city3d extension) |
-| 2026-10-12 08:28:03 | [city3d-stac-gen](https://crates.io/crates/city3d-stac-gen) | 0.3.1 | 0 | Generate STAC metadata for CityJSON datasets |
-| 2026-10-12 08:42:00 | [irc_library](https://crates.io/crates/irc_library) | 0.1.1 | 0 | An IRC protocol library |
-| 2026-10-12 08:48:26 | [source-mesh-core](https://crates.io/crates/source-mesh-core) | 1.0.0 | 0 | Rust dependency graph analysis, diagrams, and cycle reports |
-| 2026-10-12 08:48:29 | [source-mesh](https://crates.io/crates/source-mesh) | 1.0.0 | 0 | Dependency diagrams for Rust projects, powered by rust-analyzer SCIP |
-| 2026-10-12 08:54:52 | [flashtrace](https://crates.io/crates/flashtrace) | 0.13.0 | 0 | Lightning-fast, reference-based requirement tracing that works anywhere. |
-| 2026-10-12 08:55:22 | [xentric](https://crates.io/crates/xentric) | 0.1.0 | 0 | A GUI XMPP client written in Rust using egui |
-| 2026-10-12 08:56:34 | [bidi-browser-lite](https://crates.io/crates/bidi-browser-lite) | 0.1.0 | 0 | Full lifecycle control of WebDriver BiDi browsers (Firefox): discovery, launch,… |
-| 2026-10-12 08:59:11 | [orbit-user-proc-macro](https://crates.io/crates/orbit-user-proc-macro) | 0.1.0 | 0 | Orbit proc macros used in applications |
-| 2026-10-12 09:01:52 | [orbit-build](https://crates.io/crates/orbit-build) | 0.1.0 | 0 | Orbit build crate |
-| 2026-10-12 09:13:32 | [dga-bevy-wings-di](https://crates.io/crates/dga-bevy-wings-di) | 0.1.0 | 0 | Lightweight dependency injection for Bevy: modules, singletons, factories, scop… |
-| 2026-10-12 09:13:33 | [dga-bevy-wings-domain](https://crates.io/crates/dga-bevy-wings-domain) | 0.1.0 | 0 | Domain layer of the Wings framework: entities, typed ids, use cases, validation… |
-| 2026-10-12 09:13:34 | [dga-bevy-wings-ui-core](https://crates.io/crates/dga-bevy-wings-ui-core) | 0.1.0 | 0 | Core building blocks (system sets, reactive state, hierarchy helpers) for Bevy… |
-| 2026-10-12 09:13:37 | [dga-bevy-wings-data](https://crates.io/crates/dga-bevy-wings-data) | 0.1.0 | 0 | Data layer of the Wings framework: data sources, offline first repositories, ca… |
-| 2026-10-12 09:13:39 | [dga-bevy-wings-ui-animation](https://crates.io/crates/dga-bevy-wings-ui-animation) | 0.1.0 | 0 | Tween, spring and keyframe animation system for Bevy Wings UI, fully driven by… |
-| 2026-10-12 09:14:44 | [fast-crossmap](https://crates.io/crates/fast-crossmap) | 0.7.0 | 0 | High-performance genome coordinate liftover tool |
-| 2026-10-12 09:15:22 | [rsa-handshake](https://crates.io/crates/rsa-handshake) | 0.1.1 | 0 | Verify-only RSA for TLS 1.3: PSS for CertificateVerify, PKCS#1 v1.5 for certifi… |
-| 2026-10-12 09:20:01 | [ossuary-core](https://crates.io/crates/ossuary-core) | 0.12.0 | 0 | Core library of the ossuary archive: claims, segments and the claim index |
-| 2026-10-12 09:20:03 | [ossuary-extract-image](https://crates.io/crates/ossuary-extract-image) | 0.12.0 | 0 | Image extractor for ossuary archives: EXIF, XMP and IPTC metadata and the pixel… |
-| 2026-10-12 09:20:04 | [ossuary-extract-mail](https://crates.io/crates/ossuary-extract-mail) | 0.12.0 | 0 | Mail extractor for ossuary archives: message headers, attachments and nested me… |
-| 2026-10-12 09:20:04 | [ossuary-extract-packed](https://crates.io/crates/ossuary-extract-packed) | 0.12.0 | 0 | Zip extractor for ossuary archives: lists or unpacks the contents of a zip file |
-| 2026-10-12 09:20:05 | [ossuary-extract-pdf](https://crates.io/crates/ossuary-extract-pdf) | 0.12.0 | 0 | PDF extractor for ossuary archives: text, document information and attachments |
-| 2026-10-12 09:22:02 | [dga-bevy-wings-ui-theme](https://crates.io/crates/dga-bevy-wings-ui-theme) | 0.1.0 | 0 | ECS theming for Bevy Wings UI: color roles, light and dark schemes, typography,… |
+| 2026-10-12 09:28:02 | [zontologize](https://crates.io/crates/zontologize) | 0.0.1 | 0 | Point zontologize at a folder and get an ontology back. A pure-Rust CLI that cr… |
+| 2026-10-12 09:28:39 | [hidane-rules](https://crates.io/crates/hidane-rules) | 0.2.1 | 0 | Firestore Security Rules for hidane: compiler and evaluator |
+| 2026-10-12 09:33:37 | [dga-bevy-wings-ui-responsive](https://crates.io/crates/dga-bevy-wings-ui-responsive) | 0.1.0 | 0 | Responsive layouts for Bevy Wings UI: window size classes, breakpoints and resp… |
+| 2026-10-12 09:34:00 | [ossuary-cli](https://crates.io/crates/ossuary-cli) | 0.12.0 | 0 | Command-line interface for ossuary archives |
+| 2026-10-12 09:34:27 | [seagents](https://crates.io/crates/seagents) | 0.1.0 | 0 | run coding agents in herdr, each in its own i3 window |
+| 2026-10-12 09:40:32 | [ossuary-mailvault](https://crates.io/crates/ossuary-mailvault) | 0.12.0 | 0 | Fetches mail from IMAP and Microsoft 365 mailboxes into an ossuary archive |
+| 2026-10-12 09:42:01 | [dga-bevy-wings-ui-modifier](https://crates.io/crates/dga-bevy-wings-ui-modifier) | 0.1.0 | 0 | Chainable, ECS applied modifiers (layout, paint, transform, interaction) for Be… |
+| 2026-10-12 09:43:12 | [miniargs](https://crates.io/crates/miniargs) | 0.1.4 | 0 | A small, zero-dependency argument parser. |
+| 2026-10-12 09:50:09 | [cocorico](https://crates.io/crates/cocorico) | 0.1.0 | 0 | Construct allocation-free Wakers from typed wake operations |
+| 2026-10-12 09:51:59 | [dga-bevy-wings-ui-shaders](https://crates.io/crates/dga-bevy-wings-ui-shaders) | 0.1.0 | 0 | Custom WESL UI materials for Bevy Wings UI: ripple, shimmer, circular progress,… |
+| 2026-10-12 09:52:10 | [big-bad-bool-interact](https://crates.io/crates/big-bad-bool-interact) | 0.1.0 | 0 | Rules, dispatch, reconstruction, passthrough, and flow for Big Bad Bool packed… |
+| 2026-10-12 09:52:15 | [big-bad-bool-test-suite](https://crates.io/crates/big-bad-bool-test-suite) | 0.1.0 | 0 | Regression, exhaustive, compile-fail, and real-schema tests for Big Bad Bool |
+| 2026-10-12 09:52:40 | [qqbot-sdk-rs](https://crates.io/crates/qqbot-sdk-rs) | 0.1.2 | 0 | 轻巧、异步的 QQ 官方机器人 SDK：鉴权、消息、事件、群与频道管理 |
+| 2026-10-12 09:55:09 | [open-meteo-core](https://crates.io/crates/open-meteo-core) | 0.2.0 | 0 | Request building and response parsing for the open-meteo.com API, without I/O (… |
+| 2026-10-12 09:57:20 | [source-mdl](https://crates.io/crates/source-mdl) | 0.6.0 | 0 | Fast, safe and feature-gated support for Source Engine studio models. |
+| 2026-10-12 09:57:45 | [ekbloom](https://crates.io/crates/ekbloom) | 0.3.0 | 0 | EKBLOOM — concealed-expansion codec. Spend manifested space to maximise speed. |
+| 2026-10-12 09:59:14 | [core-1o](https://crates.io/crates/core-1o) | 0.1.0 | 0 | Reusable 1o lexer, AST, schema lookup and validation |
+| 2026-10-12 09:59:24 | [language-server-1o](https://crates.io/crates/language-server-1o) | 0.1.0 | 0 | Portable 1o language server (LSP) with schema discovery and AST export |
+| 2026-10-12 10:01:14 | [parseHTTP](https://crates.io/crates/parseHTTP) | 0.1.0 | 0 | A small utility crate for parsing and building HTTP messages. |
+| 2026-10-12 10:02:09 | [dga-bevy-wings-ui-widgets](https://crates.io/crates/dga-bevy-wings-ui-widgets) | 0.1.0 | 0 | Themed, animated, ECS native widgets for Bevy UI built with bsn! scenes: WingsB… |
+| 2026-10-12 10:03:36 | [legacy-bullshit](https://crates.io/crates/legacy-bullshit) | 0.1.0 | 0 | The legacy crypto the standards force on an ECC and ChaCha20 client, and nothin… |
+| 2026-10-12 10:04:05 | [foregather-kit](https://crates.io/crates/foregather-kit) | 0.2.0 | 0 | Portable encrypted invitation transfer, spoken verification and opt-in experime… |
+| 2026-10-12 10:05:47 | [smart-todo-app-tui](https://crates.io/crates/smart-todo-app-tui) | 0.1.0 | 0 | A terminal user interface todo application written in Rust |
+| 2026-10-12 10:08:25 | [foregather-server](https://crates.io/crates/foregather-server) | 0.2.0 | 0 | Self-hosted bounded ciphertext resolver for Foregather |
+| 2026-10-12 10:08:48 | [orfs](https://crates.io/crates/orfs) | 0.1.0 | 0 | OrFS — a non-withdrawal, concealed-expansion FUSE filesystem with io_uring back… |
+| 2026-10-12 10:10:59 | [parse-lines](https://crates.io/crates/parse-lines) | 0.1.1 | 0 | read and parse lines from anything implementing AsyncBufRead |
+| 2026-10-12 10:12:05 | [dga-bevy-wings-ui-mvvm](https://crates.io/crates/dga-bevy-wings-ui-mvvm) | 0.1.0 | 0 | MVVM for Bevy UI: view models as components, declarative bindings, intents and… |
+| 2026-10-12 10:18:03 | [flodl-bio](https://crates.io/crates/flodl-bio) | 0.1.0 | 0 | Bioinformatics data layer for flodl: sequence encoding, one-hot, k-mers, graphs… |
 
 ## Data source
 

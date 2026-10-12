@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T09:28:02.766719Z,zontologize,0.0.1,0,0,https://github.com/ZAL-Analytics/zontologize,"Point zontologize at a folder and get an ontology back. A pure-Rust CLI that crawls mixed data sources, extracts concepts and relationships, and builds a structured ontology."
+2026-10-12T09:28:39.57003Z,hidane-rules,0.2.1,0,0,https://github.com/hidane-dev/hidane,Firestore Security Rules for hidane: compiler and evaluator
+2026-10-12T09:33:37.399681Z,dga-bevy-wings-ui-responsive,0.1.0,0,0,https://github.com/doublegarts/dga_bevy_wings_framework,"Responsive layouts for Bevy Wings UI: window size classes, breakpoints and responsive components."
+2026-10-12T09:34:00.896518Z,ossuary-cli,0.12.0,0,0,https://github.com/sniner/ossuary,Command-line interface for ossuary archives
+2026-10-12T09:34:27.87441Z,seagents,0.1.0,0,0,https://github.com/AnakTeka/seagents,"run coding agents in herdr, each in its own i3 window"
+2026-10-12T09:40:32.499484Z,ossuary-mailvault,0.12.0,0,0,https://github.com/sniner/ossuary,Fetches mail from IMAP and Microsoft 365 mailboxes into an ossuary archive
+2026-10-12T09:42:01.826572Z,dga-bevy-wings-ui-modifier,0.1.0,0,0,https://github.com/doublegarts/dga_bevy_wings_framework,"Chainable, ECS applied modifiers (layout, paint, transform, interaction) for Bevy Wings UI."
+2026-10-12T09:43:12.976318Z,miniargs,0.1.4,0,0,https://github.com/yuryshulaev/miniargs,"A small, zero-dependency argument parser."
+2026-10-12T09:50:09.357224Z,cocorico,0.1.0,0,0,https://github.com/nox/cocorico,Construct allocation-free Wakers from typed wake operations
+2026-10-12T09:51:59.863739Z,dga-bevy-wings-ui-shaders,0.1.0,0,0,https://github.com/doublegarts/dga_bevy_wings_framework,"Custom WESL UI materials for Bevy Wings UI: ripple, shimmer, circular progress, aurora and frosted glass."
+2026-10-12T09:52:10.34638Z,big-bad-bool-interact,0.1.0,0,0,https://github.com/jameshuntt/big-bad-bool,"Rules, dispatch, reconstruction, passthrough, and flow for Big Bad Bool packed words"
+2026-10-12T09:52:15.982097Z,big-bad-bool-test-suite,0.1.0,0,0,https://github.com/jameshuntt/big-bad-bool,"Regression, exhaustive, compile-fail, and real-schema tests for Big Bad Bool"
+2026-10-12T09:52:40.610172Z,qqbot-sdk-rs,0.1.2,0,0,https://github.com/Lovely-02/qqbot-sdk-rs,轻巧、异步的 QQ 官方机器人 SDK：鉴权、消息、事件、群与频道管理
+2026-10-12T09:55:09.221306Z,open-meteo-core,0.2.0,0,0,https://github.com/angelodlfrtr/open-meteo-rs,"Request building and response parsing for the open-meteo.com API, without I/O (no_std + alloc)"
+2026-10-12T09:57:20.162217Z,source-mdl,0.6.0,0,0,https://github.com/LaVashikk/SourceRS/tree/main/crates/source-mdl,"Fast, safe and feature-gated support for Source Engine studio models."
+2026-10-12T09:57:45.909845Z,ekbloom,0.3.0,0,0,https://github.com/infinityabundance/EKBLOOM,EKBLOOM — concealed-expansion codec. Spend manifested space to maximise speed.
+2026-10-12T09:59:14.616743Z,core-1o,0.1.0,0,0,https://github.com/jameshuntt/1oLanguageSupport,"Reusable 1o lexer, AST, schema lookup and validation"
+2026-10-12T09:59:24.363691Z,language-server-1o,0.1.0,0,0,https://github.com/jameshuntt/1oLanguageSupport,Portable 1o language server (LSP) with schema discovery and AST export
+2026-10-12T10:01:14.798477Z,parseHTTP,0.1.0,0,0,https://github.com/Madelyn-of-Hell/http_parse,A small utility crate for parsing and building HTTP messages.
+2026-10-12T10:02:09.029704Z,dga-bevy-wings-ui-widgets,0.1.0,0,0,https://github.com/doublegarts/dga_bevy_wings_framework,"Themed, animated, ECS native widgets for Bevy UI built with bsn! scenes: WingsButton, WingsText, WingsCard, WingsSwitch, WingsSlider and many more."
+2026-10-12T10:03:36.426334Z,legacy-bullshit,0.1.0,0,0,https://github.com/pathscale/legacy-bullshit,"The legacy crypto the standards force on an ECC and ChaCha20 client, and nothing more: verify-only RSA for TLS 1.3 and AES-128 for QUIC Initial packets. no_std, no alloc, no unsafe"
+2026-10-12T10:04:05.480183Z,foregather-kit,0.2.0,0,0,https://github.com/forgesworn/foregather-kit,"Portable encrypted invitation transfer, spoken verification and opt-in experimental live pairing"
+2026-10-12T10:05:47.975094Z,smart-todo-app-tui,0.1.0,0,0,https://github.com/smartlegionlab/smart-todo-app-tui-rs,A terminal user interface todo application written in Rust
+2026-10-12T10:08:25.121356Z,foregather-server,0.2.0,0,0,https://github.com/forgesworn/foregather-kit,Self-hosted bounded ciphertext resolver for Foregather
+2026-10-12T10:08:48.103426Z,orfs,0.1.0,0,0,https://github.com/infinityabundance/OrFS,"OrFS — a non-withdrawal, concealed-expansion FUSE filesystem with io_uring backing and EKBLOOM-accelerated historical reads"
+2026-10-12T10:10:59.947621Z,parse-lines,0.1.1,0,0,https://github.com/paulusminus/parse-lines,read and parse lines from anything implementing AsyncBufRead
+2026-10-12T10:12:05.616712Z,dga-bevy-wings-ui-mvvm,0.1.0,0,0,https://github.com/doublegarts/dga_bevy_wings_framework,"MVVM for Bevy UI: view models as components, declarative bindings, intents and one shot effects."
+2026-10-12T10:18:03.175771Z,flodl-bio,0.1.0,0,0,https://codeberg.org/gsablok/flodl-bio,"Bioinformatics data layer for flodl: sequence encoding, one-hot, k-mers, graphs and adjacency matrices"
