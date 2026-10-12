@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T16:19:05.252602Z,wk-compositor,0.1.0,0,0,https://github.com/noobmaisfier/kumizo,"Native Wayland compositor IPC integrations (Hyprland, Sway, Niri) for Kumizo"
+2026-10-12T16:19:54.836053Z,proa_react,0.3.0,0,0,https://github.com/proa-labs/proa,React server-rendering and hydration interop for Proa.
+2026-10-12T16:21:21.122725Z,tabit-ext-sdk,0.2.0,0,0,https://github.com/JerryAZR/tabit,The tabit extension SDK: own the pipe loop so authors write tool bodies and hooks.
+2026-10-12T16:22:34.585918Z,kumizo-kit,0.1.0,0,0,https://github.com/noobmaisfier/kumizo,"High-performance, pure-Rust, GPU-accelerated Wayland desktop shell SDK"
+2026-10-12T16:26:28.545768Z,tpt-simd-fixed,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,Type-safe SIMD fixed-point arithmetic
+2026-10-12T16:27:00.301515Z,shadcn-egui-icons-tabler,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Tabler Icons (outline) for shadcn-egui
+2026-10-12T16:27:35.304696Z,quarb-pyvalue,0.37.0,0,0,https://gitlab.com/quarb/engine,Quarb values as Python objects and back: the one pyo3 mapping the Python bindings (quarb-py) and the Python-wrapping command libraries share
+2026-10-12T16:27:46.639715Z,quarb-lib-morph,0.37.0,0,0,https://gitlab.com/quarb/engine,"A Quarb command library wrapping pymorphy3, the Russian morphological analyser, through an embedded Python: lemma, parse, tag and inflect as declared commands under the morph: prefix"
+2026-10-12T16:27:58.381647Z,quarb-lib-numpy,0.37.0,0,0,https://gitlab.com/quarb/engine,"A Quarb command library reflecting numpy through an embedded Python: every function and array method under the np: prefix, the stream as an ndarray, arrays kept as library values between commands"
+2026-10-12T16:28:09.829101Z,quarb-lib-pandas,0.37.0,0,0,https://gitlab.com/quarb/engine,"A Quarb command library reflecting pandas through an embedded Python: every function and DataFrame or Series method under the pd: prefix, the stream of records as a frame with its labels as the index…"
+2026-10-12T16:28:20.687543Z,quarb-lib-scipy,0.37.0,0,0,https://gitlab.com/quarb/engine,"A Quarb command library wrapping scipy through an embedded Python: significance tests, correlations with p-values, regression and hierarchical clustering over the stream, as declared commands under t…"
+2026-10-12T16:29:54.776823Z,proa_fonts,0.1.0,0,0,https://github.com/proa-labs/proa,"Self-hosted, metric-matched web fonts for Proa: zero-JS <head> rendering over a build-time vendoring pipeline."
+2026-10-12T16:34:47.303652Z,ic-build,0.1.0,0,0,https://github.com/dragginzgame/ic-build,"Cargo and Wasm builds, exact inputs and retained artifact caches"
+2026-10-12T16:36:38.458161Z,tpt-simd-gather,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,SIMD non-contiguous loads (gather)
+2026-10-12T16:37:03.431701Z,shadcn-egui,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,"The shadcn/ui design system for egui: styles, palettes, presets and components"
+2026-10-12T16:37:04.274554Z,iksel-core,0.1.0,0,0,https://github.com/Zaryob/iksel,"Namespace-aware XML inspection, streaming validation and formatting for İksel"
+2026-10-12T16:37:20.145657Z,iksel,0.1.0,0,0,https://github.com/Zaryob/iksel,"XML-native CLI toolkit: inspect, check, format and summarize XML"
+2026-10-12T16:39:53.938153Z,proa_fonts_parse,0.1.0,0,0,https://github.com/proa-labs/proa,Shared parser turning a google_font! / local_font! call into a proa_fonts FontRequest. Used by both the macro and the build collector so their ids always agree.
+2026-10-12T16:43:44.880311Z,kal-rrd-graph,0.1.0,0,0,https://github.com/0k/kal-rrd-graph,"Describe, fetch, watch and serve one YAML-configured RRD graph"
+2026-10-12T16:43:45.552983Z,vacc-libva,0.1.0,0,0,https://github.com/andreytkachenko/cros-libva,"Safe bindings over libva: cros-libva with VAAPI-decoder fixes (zero-initialized decode parameter buffers, HEVC extension buffer wrappers); interim until the fixes land upstream"
+2026-10-12T16:44:41.138429Z,jobsearch,0.3.1,0,0,https://github.com/aethyriion/jobsearch,Startup-focused job search pipeline and TUI
+2026-10-12T16:45:30.319184Z,rbxoc,0.1.0,0,0,https://github.com/eiei114/rbxoc,"CLI for the Roblox Open Cloud API, designed for coding agents"
+2026-10-12T16:46:06.444094Z,vacc-common,0.1.2,0,0,https://github.com/andreytkachenko/vacc,"Code shared by the vacc H.264/H.265 software decoders: deterministic test PRNGs, saturation helpers"
+2026-10-12T16:46:07.755952Z,vacc-image,0.1.2,0,0,https://github.com/andreytkachenko/vacc,"SIMD-optimized image conversion (YUV->RGB, 10/12-bit->8-bit) and scaling for vacc"
+2026-10-12T16:46:10.519253Z,vacc-golden-tests,0.1.2,0,0,https://github.com/andreytkachenko/vacc,Backend-generic golden-hash test framework for vacc decoders: common stream tests and golden pinning over any Decoder backend
+2026-10-12T16:46:10.85683Z,vacc-npp,0.1.2,0,0,https://github.com/andreytkachenko/vacc,"NVIDIA NPP backend (YUV->RGB, resize) for the vacc image pipeline; runtime-loaded via libloading"
+2026-10-12T16:46:48.182512Z,tpt-simd-horizontal,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,"SIMD horizontal reductions (sum, min, max, product)"
+2026-10-12T16:46:50.517902Z,quarb-lib-sklearn,0.37.0,0,0,https://gitlab.com/quarb/engine,"A Quarb command library wrapping scikit-learn through an embedded Python: principal components, k-means, tf-idf and topic models over the stream, as declared commands under the sklearn: prefix"
+2026-10-12T16:49:54.971295Z,proa_fonts_build,0.1.0,0,0,https://github.com/proa-labs/proa,"Build-time font pipeline for Proa: vendor woff2, compute metric-matched fallbacks, and generate proa_fonts modules."
+2026-10-12T16:52:37.715027Z,vacc-vkimage,0.1.2,0,0,https://github.com/andreytkachenko/vacc,GPU image pipeline (Y'CbCr -> RGB conversion and bilinear resize) on Vulkan compute
+2026-10-12T16:54:40.840504Z,blue-lang-kiwari,0.0.68,0,0,https://github.com/pleme-io/blue,"kiwari, blue's one grammar spec: the spec-driven lowering of a concrete syntax tree to blue's tatara-lisp tree, and the differential that holds the emitted tree-sitter grammar to blue's parser."
+2026-10-12T16:56:02.612446Z,bevy_wings_ui_widgets,0.1.0,0,0,https://github.com/doublegarts/bevy_wings,"Themed, animated, ECS native widgets for Bevy UI built with bsn! scenes: WingsButton, WingsText, WingsCard, WingsSwitch, WingsSlider and many more."
+2026-10-12T16:56:14.749578Z,bevy_wings_ui_mvvm,0.1.0,0,0,https://github.com/doublegarts/bevy_wings,"MVVM for Bevy UI: view models as components, declarative bindings, intents and one shot effects."
+2026-10-12T16:56:26.553853Z,bevy_wings_ui_navigation,0.1.0,0,0,https://github.com/doublegarts/bevy_wings,"Type safe, back stack driven navigation for Bevy UI with bsn! destinations, transitions, adaptive two pane layouts and per entry scopes."
+2026-10-12T16:56:38.105459Z,bevy_wings,0.1.0,0,0,https://github.com/doublegarts/bevy_wings,"Layered app framework for Bevy 0.20: data, domain and presentation crates with ECS native widgets, theming, animation, navigation, dependency injection and MVVM."
+2026-10-12T16:56:58.848622Z,tpt-simd-interpolate,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,SIMD interpolation kernels
+2026-10-12T16:59:53.808448Z,rsjs_web,0.2.0,0,0,https://github.com/proa-labs/proa,Zero-cost typed browser API facade for the RSJS client compiler.
+2026-10-12T17:01:53.306929Z,seedstone-core,0.0.0,0,0,https://github.com/stefanobaldo/seedstone,Placeholder release: the project is in its bootstrap phase. See https://github.com/stefanobaldo/seedstone
+2026-10-12T17:01:56.147709Z,seedstone-resp,0.0.0,0,0,https://github.com/stefanobaldo/seedstone,Placeholder release: the project is in its bootstrap phase. See https://github.com/stefanobaldo/seedstone
+2026-10-12T17:01:58.811422Z,seedstone-service,0.0.0,0,0,https://github.com/stefanobaldo/seedstone,Placeholder release: the project is in its bootstrap phase. See https://github.com/stefanobaldo/seedstone
+2026-10-12T17:02:18.484011Z,vacc-nvenc-encode,0.1.2,0,0,https://github.com/andreytkachenko/vacc,NVIDIA NVENC H.264 encoder backend for vacc
+2026-10-12T17:05:11.33099Z,zirql,0.0.0,0,0,https://github.com/zayenz/zirql,Name reservation prerelease for the Zirql query language framework
+2026-10-12T17:05:30.09998Z,sentinel-x,0.2.0,0,0,https://github.com/raw-lab/sentinel-x,"Sentinel-X: unified, pure-Rust genome QC for viruses/phages, bacteria, archaea and eukaryotes (CheckV + CheckM2 + BUSCO + EukCC + viralVerify in one binary)."
+2026-10-12T17:07:08.544244Z,tpt-simd-math,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,"Vectorised f32 exp, ln, sin, cos, tanh and erf: branch-free polynomial approximations with documented ULP error"
+2026-10-12T17:09:54.873293Z,rsjs_ir,0.2.0,0,0,https://github.com/proa-labs/proa,"Side-table IR for the rsjs reactive island compiler: identifier types, constrained Expr, reactive declarations, JS emitter, and optimisation passes. Layered on top of a lifted html! parse tree from p…"
+2026-10-12T17:10:22.990443Z,tauri-plugin-store-review,0.1.0-alpha.1,0,0,https://github.com/hoangmirs/tauri-plugins,Tauri plugin that asks the phone to show its own App Store or Google Play rating prompt
+2026-10-12T17:11:24.202681Z,jjfx,0.52.0,0,0,https://github.com/Jarvvski/jjfx,A terminal UI for working with Jujutsu (jj) workspaces and the coding agents editing them
+2026-10-12T17:11:45.845423Z,vacc-vaapi-decode,0.1.2,0,0,https://github.com/andreytkachenko/vacc,VAAPI Video Decode implementation with Decoder trait
+2026-10-12T17:13:46.006183Z,mixradix,0.1.0,0,0,https://github.com/yilmazhasan/mixradix,"Add, subtract and convert big integers in mixed radix bases (like 234 or 24:60:60), with a CLI"
+2026-10-12T17:15:42.810459Z,ic-crates-protocol,0.1.1,0,0,https://github.com/dragginzgame/ic-crates,Cargo sparse-index formats and publication contracts for IC Crates
+2026-10-12T17:17:17.942262Z,tpt-simd-mul,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,SIMD multiply variants (high/low/widening/complex)
