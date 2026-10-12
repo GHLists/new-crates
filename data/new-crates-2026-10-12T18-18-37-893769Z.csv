@@ -1,0 +1,55 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T17:19:55.418545Z,rsjs_transport,0.1.0,0,0,https://github.com/proa-labs/proa,Versioned object/rlib record transport for the staged RSJS linker.
+2026-10-12T17:21:45.454942Z,vacc-vaapi-encode,0.1.2,0,0,https://github.com/andreytkachenko/vacc,VAAPI Video Encode implementation with Encoder trait
+2026-10-12T17:25:52.058926Z,web-shooter,0.1.0,0,0,https://github.com/heyyviv/web-shooter,"Fast, low-token web reader and focused crawler for AI assistants, served over MCP"
+2026-10-12T17:27:28.050822Z,tpt-simd-rng,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,Lane-parallel xoshiro256++ and Philox4x32-10 generators with SIMD-friendly uniform and normal (Box-Muller) slice fills
+2026-10-12T17:27:36.115265Z,kinship-proto,0.1.0,0,0,https://github.com/bytevader/kinship,"kinship wire types, codec and AEAD framing"
+2026-10-12T17:27:39.696285Z,kinship-core,0.1.0,0,0,https://github.com/bytevader/kinship,Sans-IO SWIM and Lifeguard protocol state machine
+2026-10-12T17:27:46.59966Z,kinship-net,0.1.0,0,0,https://github.com/bytevader/kinship,tokio UDP and TCP driver for kinship-core
+2026-10-12T17:27:49.927003Z,kinship,0.1.0,0,0,https://github.com/bytevader/kinship,"SWIM membership and failure detection with Lifeguard, for Rust and Python"
+2026-10-12T17:29:54.097436Z,proa_stream,0.3.0,0,0,https://github.com/proa-labs/proa,Concurrent data loading and out-of-order streaming SSR for Proa.
+2026-10-12T17:31:00.505629Z,flexdeck-plugin-abi,0.1.0,0,0,https://github.com/santoshpanna/FlexDeck,"The flexdeck plugin contract: the protocol, package manifest and repository index shared by the agent and every plugin."
+2026-10-12T17:31:09.765363Z,flexdeck-plugin-sdk,0.1.0,0,0,https://github.com/santoshpanna/FlexDeck,"Write a native flexdeck plugin in Rust: describe it, and the SDK speaks the protocol."
+2026-10-12T17:31:47.029405Z,vacc-software-decode,0.1.2,0,0,https://github.com/andreytkachenko/vacc,Software (CPU) video decode backends for vacc: H.264/AVC (edge264 port) and H.265/HEVC (hevc.js port)
+2026-10-12T17:32:40.303294Z,pkgconfx,0.1.0,0,0,https://codeberg.org/wreedb/pkgconfx,"Similar to the pkg-config crate, but using the actually maintained 'pkgconf' directly instead"
+2026-10-12T17:36:51.541958Z,klint-rs,0.35.0,0,0,https://github.com/konvert7/klint,"Architecture-as-Code linter: layer boundaries, import rules and forbidden patterns declared in YAML."
+2026-10-12T17:37:04.141488Z,systemd-transient,0.1.0,0,0,https://elbforge.org/m4rc3l/systemd-transient.git,"Start transient systemd services using dbus, just like systemd-run."
+2026-10-12T17:37:38.197369Z,tpt-simd-rounding,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,SIMD rounding operations
+2026-10-12T17:37:45.742201Z,eclipsed,0.2.0,0,0,https://github.com/umbreon-boop/eclipsed,A lossless Lua parser designed for editing the syntax tree in batched passes.
+2026-10-12T17:39:54.941371Z,proa_docs,0.2.0,0,0,https://github.com/proa-labs/proa,Runtime navigation and rendering primitives for Proa documentation sites.
+2026-10-12T17:41:38.95884Z,aria-primitives,0.1.0,0,0,https://github.com/Farhad-Shabani/aria,"Process, file, and socket primitives shared by the Aria crates"
+2026-10-12T17:41:40.796037Z,aria-harness,0.1.0,0,0,https://github.com/Farhad-Shabani/aria,Black-box acceptance harness that runs a binary against a scenario catalog
+2026-10-12T17:41:41.481269Z,aria-kit,0.1.0,0,0,https://github.com/Farhad-Shabani/aria,"Audio capture, transcription, synthesis, and voice-analysis contracts for local speech apps"
+2026-10-12T17:41:42.452724Z,aria-segmentation,0.1.0,0,0,https://github.com/Farhad-Shabani/aria,"Speaker segmentation with pyannote models, for aria-kit"
+2026-10-12T17:41:42.908747Z,aria-speaker,0.1.0,0,0,https://github.com/Farhad-Shabani/aria,"Speaker embeddings with WeSpeaker models, for aria-kit"
+2026-10-12T17:41:48.652653Z,vacc-software-encode,0.1.2,0,0,https://github.com/andreytkachenko/vacc,"Pure-Rust software H.264/AVC encoder: the `sw` encode backend (CABAC/CAVLC, B-frames, rate control)"
+2026-10-12T17:43:22.613601Z,ic-crates,0.2.0,0,0,https://github.com/dragginzgame/ic-crates,Controller-operated Cargo upload bridge for IC Crates
+2026-10-12T17:44:37.021217Z,ctmux-avt,0.1.1,0,0,https://github.com/tokn-ai/ctl,"Terminal emulator for ctmux, derived from asciinema avt"
+2026-10-12T17:44:39.95446Z,tokn-ctl-core,0.1.1,0,0,https://github.com/tokn-ai/ctl,"Component identity, executable inspection, and storage paths shared by ctl and ctmux"
+2026-10-12T17:46:44.710336Z,aria-stt,0.1.0,0,0,https://github.com/Farhad-Shabani/aria,Local speech-to-text engines behind aria-kit's transcription contract
+2026-10-12T17:47:48.692223Z,tpt-simd-saturate,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,SIMD saturating arithmetic and saturating pack operations
+2026-10-12T17:49:54.1877Z,proa_docs_build,0.2.0,0,0,https://github.com/proa-labs/proa,Build-time Markdown and MDX compiler for Proa documentation sites.
+2026-10-12T17:51:50.353445Z,vacc-vulkan-encode,0.1.2,0,0,https://github.com/andreytkachenko/vacc,Vulkan Video H.264 encoder backend for vacc
+2026-10-12T17:55:06.116639Z,frglib,0.1.0,0,0,https://github.com/EnotCoder/FRGlib.git,"Rust bindings to SDL3: windows, events and a Vulkan-capable surface"
+2026-10-12T17:56:45.928265Z,aria-tts,0.1.0,0,0,https://github.com/Farhad-Shabani/aria,Local text-to-speech engines behind aria-kit's synthesis contract
+2026-10-12T17:57:58.485129Z,tpt-simd-scatter,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,SIMD non-contiguous stores (scatter)
+2026-10-12T17:59:16.793034Z,rustique-orm-macros,0.1.0,0,0,https://github.com/Eworkssk/rustique,Proc-macros for the rustique-orm crate: #[rustique::model]
+2026-10-12T17:59:28.900331Z,rustique-orm,0.1.0,0,0,https://github.com/Eworkssk/rustique,Eloquent-style ORM for MySQL 8.4+ and Oracle 19c+
+2026-10-12T17:59:57.075116Z,rsjs_macros,0.2.0,0,0,https://github.com/proa-labs/proa,Procedural macros for the rsjs reactive island compiler.
+2026-10-12T18:00:59.911817Z,ontomark-ingest,0.1.0,0,0,https://github.com/DreamLab-AI/ontomark,"Assisted ingest for Ontomark: a pure, host-driven plan/accept contract that turns model-proposed names and values into evidence-bearing, guarded Markdown patch candidates"
+2026-10-12T18:01:52.983434Z,vacc,0.1.2,0,0,https://github.com/andreytkachenko/vacc,"Vacc video decoder: unified API over Vulkan, NVDEC, VAAPI and software backends with automatic fallback"
+2026-10-12T18:03:04.770106Z,purrassist-derive,0.0.0,0,0,https://github.com/Blackcat-Informatics/purrassist,Name reservation for PurRAssist; see 0.1.0.
+2026-10-12T18:05:21.787364Z,terhub,0.2.2,0,0,https://github.com/DraconDev/terhub,"A terminal command center: every session, pane, and agent (local tmux/zellij/screen + SSH hosts) in one TUI, with which ones need you made obvious and one keystroke to jump to them."
+2026-10-12T18:06:44.222398Z,aria-wake,0.1.0,0,0,https://github.com/Farhad-Shabani/aria,Wake-word detection with openWakeWord and livekit-wakeword models
+2026-10-12T18:06:50.276654Z,browser-control-mcp,0.1.0,0,0,https://github.com/raultov/browser-control-mcp,"MCP server to control and debug Chrome and Firefox at runtime: breakpoints, call frames and stepping over CDP and WebDriver BiDi/RDP, plus navigation, DOM, input, screenshots, console and network cap…"
+2026-10-12T18:07:03.417458Z,gpui-lens,0.0.1,0,0,,"Devtools for GPUI apps. Name reserved, nothing is released yet."
+2026-10-12T18:08:09.213702Z,tpt-simd-shift,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,SIMD shift and rotate variants
+2026-10-12T18:09:54.174979Z,rsjs,0.2.0,0,0,https://github.com/proa-labs/proa,Compile reactive UI islands written in Rust into tiny vanilla JavaScript.
+2026-10-12T18:10:39.174531Z,riml,0.1.0,0,0,https://github.com/SrGaabriel/riml,"A minimal, portable and efficient machine learning framework"
+2026-10-12T18:12:15.747884Z,zakura-mmr-tree,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-10-12T18:16:09.095464Z,three-live-compiler,0.0.1-alpha.0,0,0,,Placeholder crate
+2026-10-12T18:16:11.095204Z,three-live,0.0.1-alpha.0,0,0,,Placeholder crate
+2026-10-12T18:16:13.162691Z,xr-live,0.0.1-alpha.0,0,0,,Placeholder crate
+2026-10-12T18:16:15.174987Z,aetherux,0.0.1-alpha.0,0,0,,Placeholder crate
+2026-10-12T18:16:44.961269Z,aria-web,0.1.0,0,0,https://github.com/Farhad-Shabani/aria,Aria's dictation pipeline compiled to WebAssembly for the browser
+2026-10-12T18:18:20.231765Z,tpt-simd-sparse,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,Sparse kernels: CSR/CSC SpMV (plain and transposed) and fused vector updates for CG/BiCGSTAB
