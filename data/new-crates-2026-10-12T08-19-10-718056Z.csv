@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T07:25:51.313747Z,tree-sitter-textproto,0.3.3,0,0,https://github.com/douzebis/prototools,"The textproto (protobuf text format) tree-sitter grammar, for Rust"
+2026-10-12T07:26:03.830034Z,ws-net,0.2.0,0,0,https://github.com/jamesgober/ws-net,"Sans-IO WebSocket (RFC 6455) engine: opening handshake, framing, masking, fragmentation with incremental UTF-8 validation, ping/pong, close handshake, size budgets, no dependencies."
+2026-10-12T07:27:55.752618Z,qtls,0.1.0,0,0,https://github.com/genmeta/dquic,Connection-independent QUIC TLS 1.3 state machine for dquic
+2026-10-12T07:28:59.414281Z,qtransport,0.1.0,0,0,https://github.com/genmeta/dquic,Established QUIC connections and composable packet transport
+2026-10-12T07:29:08.725675Z,prototext-lens,0.3.3,0,0,https://github.com/douzebis/prototools,"Terminal viewer to decode, navigate and extract binary protobuf messages"
+2026-10-12T07:30:53.369455Z,parallelos,1.2.0,0,0,https://github.com/ronakgh97/parallelos,Thread pool for highly parallel computation
+2026-10-12T07:32:39.222415Z,ramble,0.3.1,0,0,https://github.com/martintrojer/ramble,A read-only TUI markdown reader with a built-in notebook index
+2026-10-12T07:37:13.530168Z,ohce,0.1.1,0,0,https://github.com/nomissbowling/ohce,reverse echo
+2026-10-12T07:44:58.588709Z,puerto-core,0.14.0,0,0,https://github.com/Guuri11/Puerto,Puerto runtime — the domain types every Puerto project shares: paged lists and the repository error.
+2026-10-12T07:45:04.84684Z,puerto-web,0.14.0,0,0,https://github.com/Guuri11/Puerto,"Puerto runtime — the HTTP shell every Puerto project shares: server, graceful shutdown, health probes, config, CORS and the error body."
+2026-10-12T07:45:15.042387Z,puerto-sqlx,0.14.0,0,0,https://github.com/Guuri11/Puerto,"Puerto runtime — the Postgres adapter every Puerto project with a database shares: the pool, migrations at startup, the readiness ping and the driver-error mapping."
+2026-10-12T07:45:33.205491Z,metal-gpu,0.0.0,0,0,https://github.com/Keegan-Wilgermein/metal-gpu,Safe Rust wrapper around the Metal api
+2026-10-12T07:46:16.548181Z,clap-couture-derive,0.1.0,0,0,https://github.com/markovejnovic/clap-couture,Derive macro for clap-couture
+2026-10-12T07:46:18.290052Z,clap-couture,0.1.0,0,0,https://github.com/markovejnovic/clap-couture,"Polish for clap CLIs: categorized, markdown --help, and prompts for missing args: masked secrets, $EDITOR, confirmations and stdin."
+2026-10-12T07:46:25.982885Z,mitts,0.1.1,0,0,https://github.com/alex09x/mitts,Rust-first build and package tooling with a shared artifact cache
+2026-10-12T07:52:02.376467Z,daccess,0.1.0,0,0,https://github.com/genmeta/daccess,Name-based access control for DHttp
+2026-10-12T07:54:29.531145Z,upscale-calculator,1.0.0,0,0,https://github.com/tancky777/upscale-calculator-rs,"Dependency-free helpers for image upscaling math: scaled dimensions, the smallest upscale factor for a target size, and print sizes at a given DPI."
+2026-10-12T07:54:30.924082Z,orpheus-tui,1.0.0,0,0,https://github.com/coflyn/orpheus,Minimalist monochrome terminal music player
+2026-10-12T07:55:07.744668Z,rpc-io,0.2.0,0,0,https://github.com/jamesgober/rpc-io,"JSON-RPC 2.0 engine with Content-Length and newline framings, a sans-IO core, and a blocking adapter: one transport for LSP, DAP, MCP, and service APIs."
+2026-10-12T07:58:03.625825Z,linked-data-serde,0.1.0,0,0,https://github.com/luminvent/linked-data-serde,"Serialize and deserialize linked data objects as JSON, JSON-LD, N-Triples or Turtle"
+2026-10-12T08:00:12.381861Z,notion-blocks-render,0.1.0,0,0,https://github.com/dax/notion-blocks-render,Notion blocks render is a Rust library to render Notion rich text as HTML or plain text.
+2026-10-12T08:01:11.398269Z,ytdlm-rs,1.0.0,0,0,https://github.com/ytdlm/ytdlm,Rust SDK for ytdlm Real-Time SABR UMP WebM/Opus Audio Streaming (Serenity / Songbird / Twilight Discord bots)
+2026-10-12T08:01:53.842123Z,long-screen,0.1.0,0,0,https://github.com/t41372/long-screen,"Long Screen as a Rust library and command line: a screen recording in, one big screenshot out"
+2026-10-12T08:05:19.173291Z,mpeg-ps-rs,0.1.0,0,0,https://github.com/general252/mpeg-ps-rs.git,MPEG-2 PS muxer and demuxer Rust implementation
+2026-10-12T08:05:20.143787Z,rustveil-core,0.1.0,0,0,https://github.com/rohanshukla94/rustveil,Syntax-based local variable renaming for Rust source
+2026-10-12T08:05:35.627042Z,rustveil-macros,0.1.0,0,0,https://github.com/rohanshukla94/rustveil,Opt-in procedural macros for Rust source and string obfuscation
+2026-10-12T08:05:53.70172Z,rustveil,0.1.0,0,0,https://github.com/rohanshukla94/rustveil,Opt-in local binding and string obfuscation macros for Rust
+2026-10-12T08:06:03.321779Z,rustveil-cli,0.1.0,0,0,https://github.com/rohanshukla94/rustveil,Copy a Rust project and obfuscate selected source files
+2026-10-12T08:08:55.018458Z,runline,1.0.0,0,0,https://github.com/programmersd21/runline,keyboard-first terminal client for watching and acting on github actions runs
+2026-10-12T08:10:20.08548Z,kavach-types,1.3.4,0,0,https://github.com/Gaurav-Wankhede/kavach-rs,"Core domain types, AST models, and error schemas for Kavach"
+2026-10-12T08:10:39.950872Z,kavach-toon,1.3.4,0,0,https://github.com/Gaurav-Wankhede/kavach-rs,Zero-bloat TOON tabular formatting for Kavach
+2026-10-12T08:18:55.439835Z,veloster-dash,0.1.0,0,0,,Dynamic Adaptive Streaming over HTTP (MPEG-DASH) MPD manifest generator for Veloster
+2026-10-12T08:19:03.575589Z,veloster-flv,0.1.0,0,0,,Flash Video (FLV) demuxer and muxer for streaming and RTMP for Veloster
