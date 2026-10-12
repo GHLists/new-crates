@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T11:20:26.865818Z,katha-libsql,0.2.5,0,0,https://github.com/manchhq/katha,Turso/libSQL event-sourcing backend for katha
+2026-10-12T11:20:59.877917Z,nearai-inference-sdk,0.1.0-rc1,0,0,https://github.com/nearai/inference-sdk,Verification SDK for NEAR AI Cloud attestations
+2026-10-12T11:23:02.042572Z,polyoxide-venue,0.39.0,0,0,https://github.com/dilettante-trading/polyoxide,"Shared vocabulary for the polyoxide venue clients: error classes, the status and close-code maps, the Retry-After parser, wire enums, positional decimals and Unix-millisecond time"
+2026-10-12T11:23:02.456445Z,polyoxide-ws,0.39.0,0,0,https://github.com/dilettante-trading/polyoxide,"The WebSocket kit the polyoxide socket clients share, one copy of each block they would otherwise each carry"
+2026-10-12T11:23:11.622844Z,polyoxide-cli,0.39.0,0,0,https://github.com/dilettante-trading/polyoxide,"Command-line client for the Polymarket APIs and streams, and Binance USDⓈ-M market data"
+2026-10-12T11:25:24.287173Z,tpt-simd-hash,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,"Checksums and hashes: CRC-32, Adler-32, FNV-1a and a rolling hash, with no runtime dependencies"
+2026-10-12T11:30:27.748792Z,mx-multiplexer,3.0.0,0,0,https://github.com/kulewski/multiplexer,"Client library of the multiplexer, a message broker for services on a trusted network: requests and events routed by type through several brokers at once"
+2026-10-12T11:31:21.931372Z,vmx,0.1.0,0,0,https://github.com/MikanseiLaboratory/vmx-rs,Pure Rust VMX1 video codec
+2026-10-12T11:34:17.538957Z,rxferrix-cli,0.1.0,0,0,https://github.com/genesysflow/rxferrix,The `rxferrix` command: scaffolds new RxFerrix apps (`rxferrix new`)
+2026-10-12T11:34:18.304147Z,rxferrix-macros,0.1.0,0,0,https://github.com/genesysflow/rxferrix,"Procedural macros for RxFerrix: #[table], #[query], #[mutation], #[action], #[object], #[migration]"
+2026-10-12T11:34:21.028409Z,rxferrix,0.1.0,0,0,https://github.com/genesysflow/rxferrix,"A single-binary reactive backend: typed Rust queries, mutations and actions, live over WebSockets, with auth, file storage, scheduling, search and an admin dashboard"
+2026-10-12T11:35:30.54781Z,tpt-simd-ntt,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,Montgomery and Barrett modular arithmetic and an in-place number-theoretic transform for 31-bit primes
+2026-10-12T11:41:28.524341Z,tlv320dac3203,0.1.0,0,0,https://github.com/mschoenlaub/tlv320dac3203,no_std embedded-hal 1.0 driver for the TI TLV320DAC3203 stereo audio DAC with headphone amplifiers
+2026-10-12T11:45:19.336559Z,check_claude_core,0.1.0,0,0,https://github.com/rust-px/check-claude,"Core domain types, context, and check interfaces for check_claude"
+2026-10-12T11:45:36.622567Z,tpt-simd-pixel,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,"Pixel kernels: RGB/RGBA conversion, planar/interleaved layout, u8 and f32 conversion, premultiply, HSV, histograms, with no runtime dependencies"
+2026-10-12T11:45:39.650362Z,check_claude_rules,0.1.0,0,0,https://github.com/rust-px/check-claude,"Diagnostic network, region, IP risk, and proxy verification rules for check_claude"
+2026-10-12T11:45:47.061077Z,check_claude_reporter,0.1.0,0,0,https://github.com/rust-px/check-claude,Terminal console and JSON report formatting implementations for check_claude
+2026-10-12T11:46:03.139577Z,check_claude,0.1.1,0,0,https://github.com/rust-px/check-claude,Diagnostic CLI tool to verify network and region eligibility for Claude
+2026-10-12T11:46:21.083006Z,puerto-events,0.15.0,0,0,https://github.com/Guuri11/Puerto,"Puerto runtime — the worker every Puerto project with domain events runs: the outbox relay, the consume loops and their delivery policy, health probes and graceful shutdown."
+2026-10-12T11:46:26.816436Z,puerto-kafka,0.15.0,0,0,https://github.com/Guuri11/Puerto,"Puerto runtime — the Kafka transport of Puerto projects with domain events: the publisher the outbox relay hands events to and the subscription each consumer reads, ordered per aggregate."
+2026-10-12T11:55:43.395261Z,tpt-simd-search,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,"Byte search, substring search, ASCII case-insensitive search and line counting, with no runtime dependencies by default"
+2026-10-12T11:55:58.243952Z,ossuary-mount,0.12.0,0,0,https://github.com/sniner/ossuary,Mounts an ossuary archive as a read-only filesystem
+2026-10-12T11:58:47.308353Z,shadcn-egui-core,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Data types shared by shadcn-egui and its font and icon crates
+2026-10-12T11:58:51.694942Z,shadcn-egui-font-dm-sans,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,DM Sans for shadcn-egui
+2026-10-12T11:58:55.463705Z,shadcn-egui-font-eb-garamond,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,EB Garamond for shadcn-egui
+2026-10-12T11:58:58.83905Z,shadcn-egui-font-figtree,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Figtree for shadcn-egui
+2026-10-12T11:59:02.751587Z,shadcn-egui-font-geist,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Geist for shadcn-egui
+2026-10-12T12:01:07.203772Z,konomanoasa-tree-sitter-gawk,0.1.0,0,0,https://github.com/konomanoasa/tree-sitter-gawk,Tree-sitter grammar for GNU Awk 5.4.1.
+2026-10-12T12:05:50.114503Z,tpt-simd-sort,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,"Unstable sort, quickselect, argsort, partition and top-k over slices, with no runtime dependencies"
+2026-10-12T12:10:09.022107Z,shadcn-egui-font-geist-mono,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Geist Mono for shadcn-egui
+2026-10-12T12:11:31.387346Z,actix-web-lambda,0.0.0,0,0,,Temporary reservation for this crate name.
+2026-10-12T12:14:19.877372Z,apex-process,0.1.0,0,0,https://github.com/clockworkengineer/apex-process,High-performance GPU-accelerated cross-platform process diagnostic suite
+2026-10-12T12:15:58.379168Z,tpt-simd-text,0.1.0,0,0,https://github.com/tpt-solutions/tpt-simd,"Text kernels: UTF-8 validation, hex, and UTF-8 <-> UTF-16 transcoding, with no runtime dependencies by default"
+2026-10-12T12:16:59.907625Z,shadcn-egui-font-ibm-plex-sans,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,IBM Plex Sans for shadcn-egui
