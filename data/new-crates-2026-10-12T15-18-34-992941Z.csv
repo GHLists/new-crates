@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T14:18:43.816853Z,mt-batch,0.1.1,0,0,https://github.com/ouyangjiahong26/mathtype-rs,Document-level batch conversion of every formula in a Word document.
+2026-10-12T14:26:59.081436Z,shadcn-egui-font-oxanium,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Oxanium for shadcn-egui
+2026-10-12T14:27:45.189238Z,tpm-core,0.1.0,0,0,https://github.com/CaiYufan-NUS/asterinas-tpm-verus,TPM 2.0 core transport/session library with verification-oriented design.
+2026-10-12T14:28:22.355606Z,katha-turso,0.2.6,0,0,https://github.com/manchhq/katha,Local-first Turso sync event store for katha
+2026-10-12T14:30:10.911618Z,turbospark-audio,0.3.0,0,0,https://github.com/whit3rabbit/turbospark,"Unified portable audio crate: DSP primitives (waveform, WAV I/O, resampling, FFT, STFT, mel spectrograms), neural audio ops, and models organized by role (music, STT, TTS, VAD, STS, codec, LID)."
+2026-10-12T14:35:42.317304Z,wk-ipc,0.1.0,0,0,https://github.com/noobmaisfier/kumizo,UNIX domain socket daemon IPC protocol and server for Kumizo
+2026-10-12T14:35:53.720669Z,wk-gpui-ext,0.1.0,0,0,https://github.com/noobmaisfier/kumizo,GPUI Wayland Layer Shell extension traits and ergonomic wrappers for Kumizo
+2026-10-12T14:36:00.028522Z,wk-ui,0.1.0,0,0,https://github.com/noobmaisfier/kumizo,"Shared headless UI primitives for Kumizo shells (text inputs, ...)"
+2026-10-12T14:36:03.400661Z,wk-pam,0.1.0,0,0,https://github.com/noobmaisfier/kumizo,Minimal Linux-PAM password check without bindgen/libclang
+2026-10-12T14:36:23.626752Z,turbospark-server,0.3.0,0,0,https://github.com/whit3rabbit/turbospark,"OpenAI Chat Completions and Anthropic Messages server on loopback: request/response envelopes, SSE streaming framing, and the axum router, wired to the raw-completion loop."
+2026-10-12T14:36:59.971065Z,shadcn-egui-font-playfair-display,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Playfair Display for shadcn-egui
+2026-10-12T14:38:42.016167Z,lcu,0.1.0,0,0,https://github.com/libcoreutils/lcu,"Coreutils as callable Rust functions. No subprocess, no stdout parsing."
+2026-10-12T14:40:33.034427Z,bited,0.1.0,0,0,https://github.com/dmytro-yemelianov/bited,Allocation-free base-128 varints and ZigZag with Lean 4 source refinement
+2026-10-12T14:40:56.650632Z,wk-services,0.1.0,0,0,https://github.com/noobmaisfier/kumizo,"Asynchronous system services for Kumizo (Clock, Battery, Audio, MPRIS)"
+2026-10-12T14:42:43.031948Z,paralock-core,0.1.0,0,0,https://github.com/bitfalt/Paralock,"Protocol core of Paralock: Zcash HTLC and 2-of-2 transactions (v5, ZIP 244, ZIP 317), ECDSA adaptor signatures with DLEQ proofs, EVM escrow ids and digests, and the swap wire messages. Pure, synchron…"
+2026-10-12T14:43:05.60871Z,paralock-evm,0.1.0,0,0,https://github.com/bitfalt/Paralock,"EVM layer of Paralock: alloy clients for the ParalockHTLC and ParalockAdaptorEscrow escrows (lock, claim, refund, outcomes), escrow ids and claim digests, Tempo fee-token transactions, a verified net…"
+2026-10-12T14:43:23.493055Z,paralock,0.1.0,0,0,https://github.com/bitfalt/Paralock,"Rust SDK of Paralock: embed a market maker or a taker for trustless ZEC to stablecoin swaps (htlc and private adaptor mode) in a Rust server. Zcash JSON-RPC and lightwalletd backends, durable swap st…"
+2026-10-12T14:43:38.957611Z,paralock-cli,0.1.0,0,0,https://github.com/bitfalt/Paralock,"The paralock command-line tool: swap shielded ZEC for stablecoins on EVM chains (quote, swap, pay, resume, refund) and run a Paralock market maker, without a Node process. Built on the paralock Rust…"
+2026-10-12T14:45:17.423487Z,bevy_wings_di,0.1.0,0,0,https://github.com/doublegarts/bevy_wings,"Lightweight dependency injection for Bevy: modules, singletons, factories, scopes, qualifiers and an Inject system parameter."
+2026-10-12T14:45:21.479046Z,bevy_wings_domain,0.1.0,0,0,https://github.com/doublegarts/bevy_wings,"Domain layer of the Wings framework: entities, typed ids, use cases, validation, repository contracts, paging and loading states. Plain Rust, no engine dependency."
+2026-10-12T14:45:25.883167Z,bevy_wings_data,0.1.0,0,0,https://github.com/doublegarts/bevy_wings,"Data layer of the Wings framework: data sources, offline first repositories, caching policies, mappers and ECS integrated background loading."
+2026-10-12T14:45:28.78687Z,bevy_wings_ui_core,0.1.0,0,0,https://github.com/doublegarts/bevy_wings,"Core building blocks (system sets, reactive state, hierarchy helpers) for Bevy Wings UI."
+2026-10-12T14:46:38.310932Z,bevy_wings_ui_animation,0.1.0,0,0,https://github.com/doublegarts/bevy_wings,"Tween, spring and keyframe animation system for Bevy Wings UI, fully driven by ECS components."
+2026-10-12T14:47:01.119136Z,shadcn-egui-font-public-sans,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Public Sans for shadcn-egui
+2026-10-12T14:47:13.185148Z,clickupc-core,0.0.0,0,0,https://github.com/mulhamna/clickup-commands,"Unofficial ClickUp API client library (placeholder, real release in 0.1.0)"
+2026-10-12T14:47:15.555205Z,wk-ctl,0.1.0,0,0,https://github.com/noobmaisfier/kumizo,Command-line control tool (kumizo) for Kumizo daemon
+2026-10-12T14:47:16.091716Z,clickupc-mcp,0.0.0,0,0,https://github.com/mulhamna/clickup-commands,"Unofficial ClickUp MCP server library (placeholder, real release in 0.1.0)"
+2026-10-12T14:47:19.162165Z,clickupc,0.0.0,0,0,https://github.com/mulhamna/clickup-commands,"Unofficial ClickUp CLI and MCP server (placeholder, real release in 0.1.0)"
+2026-10-12T14:49:31.792971Z,wist-config,0.1.0,0,0,https://github.com/dayu-sec/wist-config,"Layered TOML config for the wist ecosystem: a main file, a site overlay that only holds ${VAR} references, and a sibling .env holding the values"
+2026-10-12T14:52:01.66115Z,see-the-arrow,0.1.0,0,0,https://github.com/chocodev11/see-the-arrow,"Show the human where to click: a big arrow with a sign above every window, on Windows and Linux. Click-through, never takes the focus, gone by itself."
+2026-10-12T14:52:02.412643Z,bevy_wings_ui_theme,0.1.0,0,0,https://github.com/doublegarts/bevy_wings,"ECS theming for Bevy Wings UI: color roles, light and dark schemes, typography, shapes, elevation and live theme switching."
+2026-10-12T14:56:04.70825Z,kagari,0.0.0-reserved,0,0,https://github.com/kagari-lang/kagari,Development placeholder for the Kagari embedded scripting language SDK; not yet usable.
+2026-10-12T14:56:26.826199Z,kagari-cli,0.0.0-reserved,0,0,https://github.com/kagari-lang/kagari,Development placeholder for the Kagari kg toolchain; script commands are not yet available.
+2026-10-12T14:56:59.719879Z,shadcn-egui-font-raleway,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Raleway for shadcn-egui
+2026-10-12T14:56:59.952864Z,ultrahonk_soroban_verifier,0.1.0,0,0,https://github.com/NethermindEth/rs-soroban-ultrahonk,UltraHonk proof verifier for Soroban smart contracts using the non-ZK UltraKeccak flavor
+2026-10-12T15:02:11.779629Z,bevy_wings_ui_responsive,0.1.0,0,0,https://github.com/doublegarts/bevy_wings,"Responsive layouts for Bevy Wings UI: window size classes, breakpoints and responsive components."
+2026-10-12T15:06:05.869994Z,kirun,1.0.0,0,0,https://github.com/modlix-india/nocode-kirun,Rust runtime for Kinetic Instructions (KIRun)
+2026-10-12T15:06:07.882152Z,lane-restart,0.12.15,0,0,https://github.com/ciresnave/agentlife,"Restarts an idle Claude Code lane session with the same identity - self, or PM-of-idle-lane only. See RESTART-TOOL-DESIGN.md."
+2026-10-12T15:06:39.85838Z,plerosis,0.1.0,0,0,https://gitlab.com/116lab/plerosis/plerosis,Keeps design intent anchored to named tests: every stated intent must be filled by evidence.
+2026-10-12T15:07:01.455625Z,shadcn-egui-font-roboto,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Roboto for shadcn-egui
+2026-10-12T15:07:39.812385Z,ps-dimpl,0.8.0,0,0,https://github.com/pathscale/ps-dimpl,"DTLS 1.2/1.3 (Sans-IO, Sync), fork of algesten/dimpl: pure Rust, ChaCha20-Poly1305 only"
+2026-10-12T15:07:41.127456Z,agentlife,0.12.15,0,0,https://github.com/ciresnave/agentlife,"Agent lifecycle control: bring a fleet of AI coding agents up, down and back after a restart, from a persistent roster."
+2026-10-12T15:08:49.284836Z,cnctd_protocol,1.0.0-alpha.1,0,0,https://github.com/Connected-Dot/cnctd_protocol,"Wire types shared by cnctd_server and its clients: JSON envelopes and their macros, socket messages, connection and server info"
+2026-10-12T15:12:23.451598Z,bevy_wings_ui_modifiers,0.1.0,0,0,https://github.com/doublegarts/bevy_wings,"Chainable, ECS applied modifiers (layout, paint, transform, interaction) for Bevy Wings UI."
+2026-10-12T15:15:18.427013Z,coderipper,0.6.3,0,0,https://github.com/ciresnave/coderipper,"Audits a Rust project for what clippy does not report: uncalled pub functions, discarded return values, unused parameters, version drift, missing CI protection. A library, a cargo subcommand and a CL…"
+2026-10-12T15:15:45.364969Z,odx-git,0.0.3,0,0,https://github.com/getfluvo/odx,"Git object cache, fetching, worktrees, merges, cherry-picks and patch-ids for odx, on gix with a system git fallback"
+2026-10-12T15:15:47.868382Z,odx-aggregate,0.0.3,0,0,https://github.com/getfluvo/odx,"Aggregation, locking, vaulting, the force-push guard rail, auto-update and verification for odx"
+2026-10-12T15:17:00.646129Z,shadcn-egui-font-roboto-slab,0.4.0,0,0,https://github.com/oetiker/shadcn-egui,Roboto Slab for shadcn-egui
