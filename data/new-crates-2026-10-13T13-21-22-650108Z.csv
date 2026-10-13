@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T12:19:30.108084Z,teamy-facet-error,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet,TeamDman fork: thiserror replacement powered by facet - derive Error trait from doc comments
+2026-10-13T12:20:21.683411Z,primum,0.1.0,0,0,https://github.com/erhangundogan/primum,"Prioritized work items as plain markdown files, with a command line and a local web board"
+2026-10-13T12:20:31.443286Z,vivido-mcp,0.1.0,0,0,https://github.com/johnproblems/vivido-mcp,Stdio MCP server that lets any MCP client see and drive Vivido terminals
+2026-10-13T12:21:26.707816Z,conex-content,0.1.0,0,0,https://github.com/lszio/conex,"conex local persistent content store: CID-addressed blobs, staging, commit and GC"
+2026-10-13T12:22:35.463852Z,changenote,0.0.0,0,0,,changenote
+2026-10-13T12:22:52.275709Z,zipline-plot,0.1.0,0,0,https://github.com/vanmelsem/zipline,"Interactive timestamped plots, heatmaps, and streaming data with a Zipline adapter."
+2026-10-13T12:28:11.049663Z,gate4agent-wake,0.5.1,0,0,https://github.com/ZENG3LD/gate4agent,"Deliver-turn API for agent sessions over structured channels (codex app-server, claude channel MCP, kimi server, grok ACP leader, routine webhook, hook/inbox/headless-resume) and the hosted-session w…"
+2026-10-13T12:29:33.967706Z,teamy-facet-json,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet-format,TeamDman-maintained fork of facet-json: JSON serialization for facet using the new format architecture
+2026-10-13T12:29:42.339721Z,conex-agent,0.1.0,0,0,https://github.com/lszio/conex,"conex private-side agent: outbound reverse connection, restricted workspace and upstream credentials"
+2026-10-13T12:37:40.280174Z,margaret_claims_merge,0.5.0,0,0,https://github.com/intentee/margaret,Merging of application claims into the registered JSON web token members of the Margaret application framework.
+2026-10-13T12:37:41.183704Z,margaret_deadline,0.5.0,0,0,https://github.com/intentee/margaret,Cancellable deadline waits shared by the Margaret application framework's schedulers.
+2026-10-13T12:37:43.343464Z,margaret_https_url,0.5.0,0,0,https://github.com/intentee/margaret,"An absolute url that uses the https scheme, for the Margaret application framework."
+2026-10-13T12:37:43.70342Z,margaret_jose_parameters,0.5.0,0,0,https://github.com/intentee/margaret,IANA registered JOSE parameter values used by the Margaret application framework.
+2026-10-13T12:37:44.432641Z,margaret_registered_claims,0.5.0,0,0,https://github.com/intentee/margaret,Registered JSON web token claims that the Margaret application framework owns.
+2026-10-13T12:39:33.010432Z,teamy-facet-value,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet-format,"TeamDman-maintained fork of facet-value: Memory-efficient dynamic value type for facet, supporting JSON-like data plus bytes"
+2026-10-13T12:40:27.172361Z,margaret_item_naming_argument,0.5.0,0,0,https://github.com/intentee/margaret,Attribute arguments that name Rust items in the Margaret application framework.
+2026-10-13T12:41:42.624318Z,mzstd,0.1.0,0,0,https://github.com/M-Compressors/mzstd,Zstandard (RFC 8878) compression and decompression in safe Rust; single-threaded encoding is byte-identical to zstd 1.5.7
+2026-10-13T12:41:43.392946Z,glow-agent-macros,0.1.0,0,0,https://github.com/42tr/g,Attribute macros for declaring Rust agent tools
+2026-10-13T12:41:46.302756Z,glow-agent,0.1.0,0,0,https://github.com/42tr/g,"A lightweight Rust agent runtime with streaming, tools, handoffs, and host-owned tasks"
+2026-10-13T12:42:42.815583Z,openmediatransport,0.1.2,0,0,https://github.com/MikanseiLaboratory/openmediatransport-rs,Pure Rust Open Media Transport (OMT) protocol implementation
+2026-10-13T12:43:45.828502Z,conflaguration-core,0.1.0,0,0,https://github.com/brianbruggeman/conflaguration,borrowed no-std settings core for conflaguration
+2026-10-13T12:49:34.24064Z,cloud_terrastodon_app,0.37.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Reusable startup and global arguments for consumer-owned Cloud Terrastodon CLIs
+2026-10-13T12:52:27.609539Z,margaret_declaration_anchor,0.5.0,0,0,https://github.com/intentee/margaret,Checks the struct that anchors a compile-time declaration of the Margaret application framework.
+2026-10-13T12:53:31.019212Z,metis-mind,0.0.0,0,0,https://github.com/metis-mind/metis,Name reservation for the Metis agent runtime (github.com/metis-mind/metis). No functionality yet.
+2026-10-13T12:59:04.942769Z,cortexkit-role-agent-data,0.1.0,0,0,https://github.com/cortexkit/commons,"Wire contract of the CortexKit agent-data/v1 capability: the ten participant ops entorhinal calls to move an agent between Macs, their refusal codes, the step machine and test vectors."
+2026-10-13T12:59:23.547882Z,msec,0.0.1,0,0,https://github.com/marirs/msec,Mobile app security analysis core for Android and iOS packages: a Rust port of the MobSF analysis engine (early development)
+2026-10-13T13:03:33.753286Z,egui-mermaid,0.1.0,0,0,https://github.com/ahcm/egui-mermaid,"Mermaid diagrams (flowchart, sequence, Gantt, pie, …) in Rust for egui"
+2026-10-13T13:04:30.079617Z,margaret_jws_verification,0.5.0,0,0,https://github.com/intentee/margaret,Parses JSON web key sets and verifies compact JSON web signatures for the Margaret application framework.
+2026-10-13T13:06:46.178082Z,pi_key,0.2.0,0,0,https://github.com/GaiaWorld/pi_key.git,"Key(idx:u32, version:u32)"
+2026-10-13T13:15:12.893081Z,flamereader,0.1.0,0,0,,"High performance SVG flame graph viewer for Windows (native, GPU accelerated)"
+2026-10-13T13:17:14.155508Z,margaret_jwt_verification,0.5.0,0,0,https://github.com/intentee/margaret,Verifies JSON web tokens and their registered claims for the Margaret application framework.
+2026-10-13T13:19:06.942489Z,kovra,0.0.1,0,0,,"Reserved name. kovra is a closed-source product of Kaeus Inc, distributed only from https://kovra.sh. This crate contains no code."

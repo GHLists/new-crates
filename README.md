@@ -8,51 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 12:18 UTC
+## Latest list — 2026-10-13 13:21 UTC
 
-New crates published between 2026-10-13 11:18 UTC and 2026-10-13 12:18 UTC.
+New crates published between 2026-10-13 12:18 UTC and 2026-10-13 13:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-13T12-18-57-771634Z.csv)
+[Full CSV](data/new-crates-2026-10-13T13-21-22-650108Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-13 11:21:16 | [poolster-input-openapi](https://crates.io/crates/poolster-input-openapi) | 0.5.0-alpha.2 | 0 | OpenAPI contract and optional block publication for Poolster |
-| 2026-10-13 11:25:09 | [caniko-secret-manager](https://crates.io/crates/caniko-secret-manager) | 0.3.0 | 0 | Declarative secret management for NixOS — resolve and render age/agenix secrets |
-| 2026-10-13 11:28:00 | [sci](https://crates.io/crates/sci) | 0.0.0 | 0 | A general-purpose scientific computing library for Rust (initial development re… |
-| 2026-10-13 11:28:34 | [weak-cache](https://crates.io/crates/weak-cache) | 0.1.0 | 0 | An asynchronous weak-reference cache that coalesces concurrent value creation. |
-| 2026-10-13 11:39:50 | [elem-simd-math](https://crates.io/crates/elem-simd-math) | 0.1.0 | 0 | Vectorized elementwise math kernels for f32/f64 over stable-Rust SIMD (port of… |
-| 2026-10-13 11:40:07 | [solidcore](https://crates.io/crates/solidcore) | 0.0.1 | 0 | B-rep solid modeling kernel: a Rust port of NVIDIA's SMLib (early work in progr… |
-| 2026-10-13 11:44:19 | [docuconf-derive](https://crates.io/crates/docuconf-derive) | 0.1.0 | 0 | Derive macros for docuconf: #[derive(Docuconf)] and #[derive(DocuconfEnum)] |
-| 2026-10-13 11:44:51 | [docuconf](https://crates.io/crates/docuconf) | 0.1.0 | 0 | Typed configuration contracts for figment: export a CUE contract and validate e… |
-| 2026-10-13 11:48:46 | [tlinalg](https://crates.io/crates/tlinalg) | 0.1.0 | 0 | faer-backed tensor-free linear-algebra kernels with their own borrowed I/O, scr… |
-| 2026-10-13 11:48:56 | [tlinalg-blas](https://crates.io/crates/tlinalg-blas) | 0.1.0 | 0 | LAPACK/BLAS-backed tensor-free linear algebra kernels for the Tensor4all stack. |
-| 2026-10-13 11:51:53 | [tcontract-kernel](https://crates.io/crates/tcontract-kernel) | 0.1.0 | 0 | GEMM kernels: family contract and registry, packing, write-back, cache blocking… |
-| 2026-10-13 11:51:58 | [tcontract-exec](https://crates.io/crates/tcontract-exec) | 0.1.0 | 0 | Explicit execution contexts for the tcontract stack: borrowed Rayon pools, kern… |
-| 2026-10-13 11:52:13 | [tcontract](https://crates.io/crates/tcontract) | 0.1.0 | 0 | Binary tensor contraction for the tcontract stack: one Problem, a packed TBLIS-… |
-| 2026-10-13 11:53:57 | [shielded_labs_snow](https://crates.io/crates/shielded_labs_snow) | 0.10.0 | 0 | ShieldedLabs fork of snow, a pure-rust Noise Protocol Framework implementation:… |
-| 2026-10-13 11:57:38 | [cpueinsum](https://crates.io/crates/cpueinsum) | 0.1.0 | 0 | CPU einsum over tcontract: integer labels, caller-supplied contraction order, B… |
-| 2026-10-13 12:07:26 | [cpueinsum-blas](https://crates.io/crates/cpueinsum-blas) | 0.1.0 | 0 | A CBLAS step backend for cpueinsum: binary steps on the linked BLAS |
-| 2026-10-13 12:09:36 | [conex-proto](https://crates.io/crates/conex-proto) | 0.1.0 | 0 | conex protocol types generated from .proto sources: messages, method and error… |
-| 2026-10-13 12:09:38 | [conex-core](https://crates.io/crates/conex-core) | 0.1.0 | 0 | conex routing kernel: data-driven registry, method contracts, authorization por… |
-| 2026-10-13 12:09:41 | [conex-source](https://crates.io/crates/conex-source) | 0.1.0 | 0 | conex source capability abstractions and snapshots for the data-connection plane |
-| 2026-10-13 12:09:43 | [conex-provider-fs](https://crates.io/crates/conex-provider-fs) | 0.1.0 | 0 | conex provider exposing a read-only, capability-scoped filesystem root |
-| 2026-10-13 12:09:45 | [conex-transport-http](https://crates.io/crates/conex-transport-http) | 0.1.0 | 0 | conex HTTP and JSON-RPC 2.0 transport for the broker plane |
-| 2026-10-13 12:11:33 | [git-overview](https://crates.io/crates/git-overview) | 0.1.0 | 0 | A read-only terminal overview of Git repositories beneath a directory |
-| 2026-10-13 12:12:23 | [h3wire-async](https://crates.io/crates/h3wire-async) | 0.1.0 | 0 | Runtime-neutral async HTTP/3 over the sans-I/O h3wire core |
-| 2026-10-13 12:12:26 | [h3wire-quinn](https://crates.io/crates/h3wire-quinn) | 0.1.0 | 0 | quinn 0.11 transport for h3wire-async (HTTP/3) |
-| 2026-10-13 12:12:45 | [zipline](https://crates.io/crates/zipline) | 0.1.0 | 0 | Immediate-mode UI core with shared text, input, layout, scrolling, and accessib… |
-| 2026-10-13 12:12:46 | [zipline-ui](https://crates.io/crates/zipline-ui) | 0.1.0 | 0 | Dense, themeable UI components, editors, trees, tables, menus, and dialogs for… |
-| 2026-10-13 12:12:48 | [zipline-dock](https://crates.io/crates/zipline-dock) | 0.1.0 | 0 | Dockable workspaces with split panes, tabs, floating panels, and saved layouts. |
-| 2026-10-13 12:12:49 | [zipline-wgpu](https://crates.io/crates/zipline-wgpu) | 0.1.0 | 0 | GPU renderer for Zipline shapes, text, SVG icons, images, and custom render lay… |
-| 2026-10-13 12:12:52 | [zipline-bevy](https://crates.io/crates/zipline-bevy) | 0.1.0 | 0 | Shared-device Bevy rendering embedded in Zipline workspaces. |
-| 2026-10-13 12:13:13 | [teamy-facet-pretty](https://crates.io/crates/teamy-facet-pretty) | 0.50.0-rc.7 | 0 | TeamDman fork: Pretty-printing for Facet types with syntax highlighting and cus… |
-| 2026-10-13 12:13:25 | [teamy-facet-solver](https://crates.io/crates/teamy-facet-solver) | 0.50.0-rc.7 | 0 | TeamDman fork: Constraint solver for facet - resolves type shapes from field na… |
-| 2026-10-13 12:13:26 | [vti-vetting-pcs](https://crates.io/crates/vti-vetting-pcs) | 0.1.0 | 0 | Hidden-vetter admission (ZKP) on the Predicate Credential System: the community… |
-| 2026-10-13 12:13:40 | [teamy-facet](https://crates.io/crates/teamy-facet) | 0.50.0-rc.7 | 0 | TeamDman fork: Reflection for Rust: introspect types at compile time with metad… |
-| 2026-10-13 12:14:58 | [cloud_terrastodon_registry](https://crates.io/crates/cloud_terrastodon_registry) | 0.37.0 | 0 | Distributed registry of Cloud Terrastodon domain types and request metadata |
-| 2026-10-13 12:15:08 | [teamy-facet-default](https://crates.io/crates/teamy-facet-default) | 0.50.0-rc.7 | 0 | TeamDman fork: Derive Default for facet types with custom field defaults |
-| 2026-10-13 12:17:05 | [portico-ssh](https://crates.io/crates/portico-ssh) | 0.1.0 | 0 | Keyboard-first terminal UI and CLI for managing OpenSSH hosts without taking ov… |
-| 2026-10-13 12:17:34 | [crossbow-switch](https://crates.io/crates/crossbow-switch) | 0.1.0 | 0 | Cache-shaped NixOS realization, closure restoration, and prepared activation |
+| 2026-10-13 12:19:30 | [teamy-facet-error](https://crates.io/crates/teamy-facet-error) | 0.50.0-rc.7 | 0 | TeamDman fork: thiserror replacement powered by facet - derive Error trait from… |
+| 2026-10-13 12:20:21 | [primum](https://crates.io/crates/primum) | 0.1.0 | 0 | Prioritized work items as plain markdown files, with a command line and a local… |
+| 2026-10-13 12:20:31 | [vivido-mcp](https://crates.io/crates/vivido-mcp) | 0.1.0 | 0 | Stdio MCP server that lets any MCP client see and drive Vivido terminals |
+| 2026-10-13 12:21:26 | [conex-content](https://crates.io/crates/conex-content) | 0.1.0 | 0 | conex local persistent content store: CID-addressed blobs, staging, commit and… |
+| 2026-10-13 12:22:35 | [changenote](https://crates.io/crates/changenote) | 0.0.0 | 0 | changenote |
+| 2026-10-13 12:22:52 | [zipline-plot](https://crates.io/crates/zipline-plot) | 0.1.0 | 0 | Interactive timestamped plots, heatmaps, and streaming data with a Zipline adap… |
+| 2026-10-13 12:28:11 | [gate4agent-wake](https://crates.io/crates/gate4agent-wake) | 0.5.1 | 0 | Deliver-turn API for agent sessions over structured channels (codex app-server,… |
+| 2026-10-13 12:29:33 | [teamy-facet-json](https://crates.io/crates/teamy-facet-json) | 0.50.0-rc.7 | 0 | TeamDman-maintained fork of facet-json: JSON serialization for facet using the… |
+| 2026-10-13 12:29:42 | [conex-agent](https://crates.io/crates/conex-agent) | 0.1.0 | 0 | conex private-side agent: outbound reverse connection, restricted workspace and… |
+| 2026-10-13 12:37:40 | [margaret_claims_merge](https://crates.io/crates/margaret_claims_merge) | 0.5.0 | 0 | Merging of application claims into the registered JSON web token members of the… |
+| 2026-10-13 12:37:41 | [margaret_deadline](https://crates.io/crates/margaret_deadline) | 0.5.0 | 0 | Cancellable deadline waits shared by the Margaret application framework's sched… |
+| 2026-10-13 12:37:43 | [margaret_https_url](https://crates.io/crates/margaret_https_url) | 0.5.0 | 0 | An absolute url that uses the https scheme, for the Margaret application framew… |
+| 2026-10-13 12:37:43 | [margaret_jose_parameters](https://crates.io/crates/margaret_jose_parameters) | 0.5.0 | 0 | IANA registered JOSE parameter values used by the Margaret application framewor… |
+| 2026-10-13 12:37:44 | [margaret_registered_claims](https://crates.io/crates/margaret_registered_claims) | 0.5.0 | 0 | Registered JSON web token claims that the Margaret application framework owns. |
+| 2026-10-13 12:39:33 | [teamy-facet-value](https://crates.io/crates/teamy-facet-value) | 0.50.0-rc.7 | 0 | TeamDman-maintained fork of facet-value: Memory-efficient dynamic value type fo… |
+| 2026-10-13 12:40:27 | [margaret_item_naming_argument](https://crates.io/crates/margaret_item_naming_argument) | 0.5.0 | 0 | Attribute arguments that name Rust items in the Margaret application framework. |
+| 2026-10-13 12:41:42 | [mzstd](https://crates.io/crates/mzstd) | 0.1.0 | 0 | Zstandard (RFC 8878) compression and decompression in safe Rust; single-threade… |
+| 2026-10-13 12:41:43 | [glow-agent-macros](https://crates.io/crates/glow-agent-macros) | 0.1.0 | 0 | Attribute macros for declaring Rust agent tools |
+| 2026-10-13 12:41:46 | [glow-agent](https://crates.io/crates/glow-agent) | 0.1.0 | 0 | A lightweight Rust agent runtime with streaming, tools, handoffs, and host-owne… |
+| 2026-10-13 12:42:42 | [openmediatransport](https://crates.io/crates/openmediatransport) | 0.1.2 | 0 | Pure Rust Open Media Transport (OMT) protocol implementation |
+| 2026-10-13 12:43:45 | [conflaguration-core](https://crates.io/crates/conflaguration-core) | 0.1.0 | 0 | borrowed no-std settings core for conflaguration |
+| 2026-10-13 12:49:34 | [cloud_terrastodon_app](https://crates.io/crates/cloud_terrastodon_app) | 0.37.0 | 0 | Reusable startup and global arguments for consumer-owned Cloud Terrastodon CLIs |
+| 2026-10-13 12:52:27 | [margaret_declaration_anchor](https://crates.io/crates/margaret_declaration_anchor) | 0.5.0 | 0 | Checks the struct that anchors a compile-time declaration of the Margaret appli… |
+| 2026-10-13 12:53:31 | [metis-mind](https://crates.io/crates/metis-mind) | 0.0.0 | 0 | Name reservation for the Metis agent runtime (github.com/metis-mind/metis). No… |
+| 2026-10-13 12:59:04 | [cortexkit-role-agent-data](https://crates.io/crates/cortexkit-role-agent-data) | 0.1.0 | 0 | Wire contract of the CortexKit agent-data/v1 capability: the ten participant op… |
+| 2026-10-13 12:59:23 | [msec](https://crates.io/crates/msec) | 0.0.1 | 0 | Mobile app security analysis core for Android and iOS packages: a Rust port of… |
+| 2026-10-13 13:03:33 | [egui-mermaid](https://crates.io/crates/egui-mermaid) | 0.1.0 | 0 | Mermaid diagrams (flowchart, sequence, Gantt, pie, …) in Rust for egui |
+| 2026-10-13 13:04:30 | [margaret_jws_verification](https://crates.io/crates/margaret_jws_verification) | 0.5.0 | 0 | Parses JSON web key sets and verifies compact JSON web signatures for the Marga… |
+| 2026-10-13 13:06:46 | [pi_key](https://crates.io/crates/pi_key) | 0.2.0 | 0 | Key(idx:u32, version:u32) |
+| 2026-10-13 13:15:12 | [flamereader](https://crates.io/crates/flamereader) | 0.1.0 | 0 | High performance SVG flame graph viewer for Windows (native, GPU accelerated) |
+| 2026-10-13 13:17:14 | [margaret_jwt_verification](https://crates.io/crates/margaret_jwt_verification) | 0.5.0 | 0 | Verifies JSON web tokens and their registered claims for the Margaret applicati… |
+| 2026-10-13 13:19:06 | [kovra](https://crates.io/crates/kovra) | 0.0.1 | 0 | Reserved name. kovra is a closed-source product of Kaeus Inc, distributed only… |
 
 ## Data source
 
