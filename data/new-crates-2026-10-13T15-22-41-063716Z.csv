@@ -1,0 +1,58 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T14:20:49.848669Z,mecha10-nodes-follow,0.6.5,0,0,https://github.com/mecha-industries/mecha10,"Visually follows (recenters) an operator-selected object - DeepSORT re-id against a dashboard-picked bbox, proportional cmd_vel control, only while behavior-executor has the follow-trace behavior act…"
+2026-10-13T14:23:11.799319Z,monochromatic-git-policy-cli,0.1.0,0,0,https://github.com/Aquaticat/Monochromatic.git,Repository-owned Git policy wrapper: forwards Git commands and checks commits against configured policies.
+2026-10-13T14:25:47.51216Z,alun-db-driver-sqlite,0.3.0,0,0,,alun-db SQLite 驱动
+2026-10-13T14:25:52.252726Z,hexscope-raster,0.4.0,0,0,https://github.com/MykytaStel/hexscope,"Decodes and encodes film scans for hexscope's film lab: JPEG, PNG, WebP and 16-bit TIFF around its codec-free renderer"
+2026-10-13T14:29:06.562985Z,eval7-rs,0.1.0,0,0,https://github.com/BuckleFace/eval7-rs,Exact seven-card poker hand evaluation using suit canonicalisation
+2026-10-13T14:30:24.253107Z,margaret_token_digest,0.5.0,0,0,https://github.com/intentee/margaret,"Digests secrets and opaque tokens, compares them in constant time, and generates random tokens for Margaret."
+2026-10-13T14:30:24.873501Z,margaret_token_issuance,0.5.0,0,0,https://github.com/intentee/margaret,The issuer and audience that a Margaret application stamps onto the tokens it issues.
+2026-10-13T14:30:58.414297Z,djembot,0.1.0,0,0,https://github.com/rnortman/djembot,Rhythm trainer for learning by ear: an LLM instructor plays rhythms through a window and reads how you played along
+2026-10-13T14:33:05.430152Z,fundeploy,0.3.1,0,0,https://github.com/farfarfun/fundeploy,"Manage development toolchains, local services and package mirrors from one CLI"
+2026-10-13T14:42:33.525304Z,margaret_issuer_key_set,0.5.0,0,0,https://github.com/intentee/margaret,"Holds the key set of a token issuer and coordinates its on-demand refetch, for the Margaret application framework."
+2026-10-13T14:43:29.153384Z,vatf,0.1.0,0,0,https://github.com/aojiaoxiaolinlin/vatf,Compile SWF animations and vector animations into baked VAB assets
+2026-10-13T14:45:02.268008Z,surrealkv-compat-v1,0.1.0,0,0,https://github.com/surrealdb/surrealkv,"Standalone reader of SurrealKV LSMV1 databases (v0.20 to v0.21.4), for conversion to LSMV2"
+2026-10-13T14:45:04.575091Z,surrealkv-compat-indxdb,0.1.0,0,0,https://github.com/surrealdb/surrealkv,Pure-Rust and WASM reader and migrator for SurrealDB legacy IndexedDB (indxdb://) stores
+2026-10-13T14:45:12.097177Z,surrealkv-compat-rocksdb,0.1.0,0,0,https://github.com/surrealdb/surrealkv,"Pure-Rust reader of RocksDB databases written by SurrealDB, for migration to SurrealKV"
+2026-10-13T14:46:35.697251Z,quepaxa-ffi,0.2.0,0,0,https://github.com/dyxushuai/quepaxa,Stable C ABI for the quepaxa consensus core
+2026-10-13T14:46:53.865123Z,fm84,0.27.0,0,0,https://github.com/coltwillcox/fm84,A synthwave dual-pane TUI file manager
+2026-10-13T14:50:42.228264Z,veydeck-suite-runtime-sdk,0.1.0-alpha.1,0,0,,Veydeck trusted suite backend runtime SDK
+2026-10-13T14:53:00.073896Z,bacnet-bip-codec,0.13.0,0,0,https://github.com/jscott3201/rusty-bacnet,Portable no-std BACnet/IP and BACnet/IPv6 (Annexes J and U) BVLL codec
+2026-10-13T14:53:00.646332Z,bacnet-mstp-codec,0.13.0,0,0,https://github.com/jscott3201/rusty-bacnet,Portable no-std BACnet MS/TP frame codec
+2026-10-13T14:53:01.031251Z,bacnet-time,0.13.0,0,0,https://github.com/jscott3201/rusty-bacnet,"The no-std monotonic Instant and Duration, in nanoseconds, that the portable BACnet cores share"
+2026-10-13T14:53:02.263701Z,bacnet-bip-core,0.13.0,0,0,https://github.com/jscott3201/rusty-bacnet,"Portable no-std BACnet/IP behaviour (Annex J): a sans-IO node engine, BBMD tables and broadcast forwarding"
+2026-10-13T14:53:02.969703Z,bacnet-mstp-core,0.13.0,0,0,https://github.com/jscott3201/rusty-bacnet,Portable allocation-bounded BACnet MS/TP master core
+2026-10-13T14:54:36.165037Z,margaret_oauth_vocabulary,0.5.0,0,0,https://github.com/intentee/margaret,"Client identifiers, client secrets and scopes of OAuth 2.0 for the Margaret application framework."
+2026-10-13T14:55:03.62876Z,proxima-build,0.1.0,0,0,https://github.com/brianbruggeman/proxima,"build.rs library: resolves a typed Profile via conflaguration, emits a generated module + cfg directives for downstream crates"
+2026-10-13T14:55:05.542942Z,proxima-core,0.1.0,0,0,https://github.com/brianbruggeman/proxima,"Foundation primitives for the proxima workspace: error, ring, arena, time, markers"
+2026-10-13T14:55:07.239118Z,proxima-codec,0.1.0,0,0,https://github.com/brianbruggeman/proxima,Pluggable codec registry for proxima — request/response body marshalling with JSON + bytes-passthrough defaults
+2026-10-13T14:55:07.800389Z,proxima-macros,0.1.0,0,0,https://github.com/brianbruggeman/proxima,"Proc-macro support for proxima test fixtures, runtime entrypoints, telemetry spans, schema description, and error derives"
+2026-10-13T14:55:08.367139Z,proxima-runtime,0.1.0,0,0,https://github.com/brianbruggeman/proxima,"Runtime trait abstraction for proxima: per-core spawn, cross-core dispatch, background pool"
+2026-10-13T14:55:27.718758Z,snowscsi-common,0.1.0,0,0,https://github.com/ImBearChild/SnowSCSI,SnowSCSI common: storage seams + logging macros
+2026-10-13T14:55:30.178311Z,snowscsi-iso9660,0.1.0,0,0,https://github.com/ImBearChild/SnowSCSI,SnowSCSI disc: ISO9660/Joliet live-generation algorithms
+2026-10-13T14:55:33.43321Z,snowscsi,0.1.0,0,0,https://github.com/ImBearChild/SnowSCSI,SnowSCSI SCSI: core + iSCSI + USB MSC + CD-ROM device emulation
+2026-10-13T14:55:36.281527Z,snowscsi-cli,0.1.0,0,0,https://github.com/ImBearChild/SnowSCSI,SnowSCSI CLI: serve + mkisofs
+2026-10-13T14:55:47.451288Z,cvvdp-lite,0.1.0,0,0,https://github.com/awxkee/cvvdp-lite,ColorVideoVDP perceptual quality metric
+2026-10-13T14:56:11.846852Z,bacnet-router-core,0.13.0,0,0,https://github.com/jscott3201/rusty-bacnet,"Portable no-std BACnet router (Clause 6): a sans-IO routing engine over a borrowed NPDU view and writer, network-layer messages, a routing table and route discovery, with B/IP and MS/TP port glue"
+2026-10-13T14:57:46.432891Z,proxima-config,0.1.0,0,0,https://github.com/brianbruggeman/proxima,"Config concern for proxima in one crate — pluggable format registry (JSON, JSON5, TOML, YAML, RON, XML with extension + content sniffing), sugar desugaring, typed schema IR (validate, describe, emit)…"
+2026-10-13T14:58:46.756745Z,unftp-site-hash,0.1.0,0,0,https://github.com/martin-cowie/unftp-site-hash,"Adds a SITE HASH command to libunftp, supporting SHA-256, SHA-1, MD5 and CRC32 file hashing"
+2026-10-13T15:00:33.174487Z,hatchery-arcade-preview,0.2.3,0,0,,"Disposable dev tool: renders one real Pet Bastion mid-run snapshot through every implemented render path to PNG, and an interpolated motion sequence through the pixel path, for owner comparison. Not…"
+2026-10-13T15:00:34.913234Z,hatchery-enroll,0.2.3,0,0,https://github.com/ZENG3LD/hatchery,"Node enrollment wire and key handling shared by hatchery-c2 and hatchery-node: signed requests, node-held keys, signed call-home"
+2026-10-13T15:00:36.269663Z,hatchery-session-events,0.2.3,0,0,https://github.com/ZENG3LD/hatchery,"Session event layer: per-provider live PTY parsers (pluggable trait) that turn the terminal byte stream into typed events, plus an ACP adapter behind the same event type"
+2026-10-13T15:00:39.342864Z,hatchery-build,0.2.3,0,0,https://github.com/ZENG3LD/hatchery,"Remote build and sign service for hatchery nodes: admission by node status, recipes only, signing keys stay on the build host"
+2026-10-13T15:00:43.831732Z,hatchery-hq-web,0.2.3,0,0,https://github.com/ZENG3LD/hatchery,"Web HQ for hatchery: a small loopback server that gives a browser the operator view (nodes, terminals, mail, tasks, browser frames) while keeping every token on the server side"
+2026-10-13T15:06:50.512524Z,margaret_database_codegen,0.5.0,0,0,https://github.com/intentee/margaret,Reads the Postgres database a Margaret application declares.
+2026-10-13T15:08:06.293511Z,proxima-primitives,0.1.0,0,0,https://github.com/brianbruggeman/proxima,"The pipe algebra itself: the Pipe trait — an async In -> Result<Out, Err> that becomes a transform, source, sink or observe by choice of types — plus its three tier siblings (SendPipe, UnpinPipe, Unp…"
+2026-10-13T15:10:01.424661Z,sysfonts,0.1.0,0,0,https://github.com/dytescn/sysfonts,Cross-platform system font manager exposed via C FFI
+2026-10-13T15:10:59.603996Z,ic-host-wasm-inspect,0.17.4,0,0,https://github.com/dragginzgame/ic-host-tooling,Bounded structural Wasm inspection CLI
+2026-10-13T15:14:14.441696Z,surrealkv-cli,1.0.0,0,0,https://github.com/surrealdb/surrealkv,"Operator and developer inspection, dump, and diagnostic CLI for SurrealKV"
+2026-10-13T15:15:27.732512Z,burn-laya,0.1.4,0,0,https://github.com/ParkSnoopy/burn-laya,Simply run Laya inference locally with Burn
+2026-10-13T15:17:49.449148Z,hikmah-kernel,3.1.0,0,0,https://github.com/CodeWithJuber/hikmah-stack,Deterministic co-model runtime for Hikmah Stack
+2026-10-13T15:18:05.87541Z,proxima-clock,0.1.0,0,0,https://github.com/brianbruggeman/proxima,"Hardware-clock source polymorphism as pipes: tick sources, wall-clock anchoring, and a coarse shared-time cell over the proxima-primitives Pipe algebra"
+2026-10-13T15:18:22.334645Z,harvest-camel,0.1.0,0,0,https://github.com/autumn-foundation/harvest-camel,Bridge rust-camel's connectors and routing into autumn-harvest's durable workflows
+2026-10-13T15:19:12.387379Z,margaret_oauth_client,0.5.0,0,0,https://github.com/intentee/margaret,"Declares how an application authenticates as a client of an OAuth authorization server, for the Margaret application framework."
+2026-10-13T15:21:34.967026Z,momo-cli,0.2.0,0,0,https://github.com/Jarvvski/momo,"A standalone, monorepo-aware CLI that turns a project's accumulated changes into semver releases, a changelog, and VCS tags"
+2026-10-13T15:21:38.304764Z,exact_minor,0.1.0,0,0,https://github.com/Wandalen/exact,The raw minor-unit integer and its checked/saturating arithmetic — the base type of the exact fixed-point money and quantity family
+2026-10-13T15:21:39.134704Z,exact_round,0.1.0,0,0,https://github.com/Wandalen/exact,"Rounding modes, including banker's rounding, and the default rounding policy for the exact fixed-point money and quantity family"
+2026-10-13T15:21:39.824425Z,exact_scale,0.1.0,0,0,https://github.com/Wandalen/exact,Scale-factor math and the declared value ceiling for the exact fixed-point money and quantity family
+2026-10-13T15:21:42.681202Z,exact_kind,0.1.0,0,0,https://github.com/Wandalen/exact,"Money, Qty, and Price — the conserved fixed-point value types at the core of the exact family"
+2026-10-13T15:21:43.431374Z,exact_sign,0.1.0,0,0,https://github.com/Wandalen/exact,Sign classification and the negative-value admission policy for the exact fixed-point money and quantity family
