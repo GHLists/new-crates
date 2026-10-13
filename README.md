@@ -8,41 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 06:19 UTC
+## Latest list — 2026-10-13 07:20 UTC
 
-New crates published between 2026-10-13 05:19 UTC and 2026-10-13 06:19 UTC.
+New crates published between 2026-10-13 06:19 UTC and 2026-10-13 07:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-13T06-19-03-604827Z.csv)
+[Full CSV](data/new-crates-2026-10-13T07-20-46-153558Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-13 05:20:54 | [nova-index](https://crates.io/crates/nova-index) | 0.3.0 | 0 | The Nova language's package index client (internal to the nova toolchain) |
-| 2026-10-13 05:24:57 | [motionbricks-mlx](https://crates.io/crates/motionbricks-mlx) | 0.1.0 | 0 | Safe Rust bindings for the motionbricks C ABI (v1): model loading, styles, agen… |
-| 2026-10-13 05:25:04 | [motionbricks-vulkan](https://crates.io/crates/motionbricks-vulkan) | 0.1.0 | 0 | Safe Rust bindings for the motionbricks C ABI (v1): model loading, styles, agen… |
-| 2026-10-13 05:25:32 | [okbase-tune](https://crates.io/crates/okbase-tune) | 0.2.3 | 0 | Fine-tuning data for okbase embeddings: passage sampling, agent-written questio… |
-| 2026-10-13 05:31:58 | [nova-resolver](https://crates.io/crates/nova-resolver) | 0.3.0 | 0 | The Nova language's name resolver (internal to the nova toolchain) |
-| 2026-10-13 05:32:54 | [ps-rust_h264](https://crates.io/crates/ps-rust_h264) | 0.4.0 | 0 | Pure Rust H.264/AVC video decoder (pathscale fork of rust_h264: Arc pictures, n… |
-| 2026-10-13 05:35:50 | [okbase](https://crates.io/crates/okbase) | 0.2.3 | 0 | okbase: make markdown knowledge bundles (Open Knowledge Format) work well for A… |
-| 2026-10-13 05:36:30 | [dc_discovery_engine](https://crates.io/crates/dc_discovery_engine) | 0.1.1 | 0 | Local personal-discovery rules shared by DevelopersCoffee apps. |
-| 2026-10-13 05:43:02 | [nova-hir](https://crates.io/crates/nova-hir) | 0.3.0 | 0 | The Nova language's high-level IR (internal to the nova toolchain) |
-| 2026-10-13 05:44:19 | [liaise_proc_macro](https://crates.io/crates/liaise_proc_macro) | 0.1.1 | 0 | enable the use of liaise methodology in a proc macro without a circular depende… |
-| 2026-10-13 05:46:11 | [okbase-mcp](https://crates.io/crates/okbase-mcp) | 0.2.3 | 0 | MCP server for okbase bundles. |
-| 2026-10-13 05:46:32 | [ferric-link](https://crates.io/crates/ferric-link) | 0.1.0 | 0 | The Ferric Link console for Raspberry Pi Pico firmware: read_serial! and loggin… |
-| 2026-10-13 05:49:42 | [hapis-atlas](https://crates.io/crates/hapis-atlas) | 0.1.0 | 0 | hapis atlas |
-| 2026-10-13 05:50:27 | [kiln-framework-cli](https://crates.io/crates/kiln-framework-cli) | 0.0.1 | 0 | The kiln command for Kiln (kiln-framework): generators, schema workflow, checks… |
-| 2026-10-13 05:50:28 | [kiln-framework-macros](https://crates.io/crates/kiln-framework-macros) | 0.0.1 | 0 | Derive and attribute macros for Kiln (kiln-framework). |
-| 2026-10-13 05:50:29 | [kiln-framework](https://crates.io/crates/kiln-framework) | 0.0.1 | 0 | Kiln: a full-stack Rust web framework where the compiler is the reviewer. |
-| 2026-10-13 05:54:06 | [nova-mir](https://crates.io/crates/nova-mir) | 0.3.0 | 0 | The Nova language's mid-level IR (internal to the nova toolchain) |
-| 2026-10-13 05:54:21 | [rust-motion-animation](https://crates.io/crates/rust-motion-animation) | 1.0.0 | 0 | Animation primitives for Rust Motion — interpolate, spring, easing (Remotion-co… |
-| 2026-10-13 05:54:27 | [rust-motion-paths](https://crates.io/crates/rust-motion-paths) | 1.0.0 | 0 | SVG path parsing, metrics, and stroke evolution animations for Rust Motion |
-| 2026-10-13 05:56:32 | [okbase-web](https://crates.io/crates/okbase-web) | 0.2.3 | 0 | Read-only web viewer for okbase bundles (okbase view). |
-| 2026-10-13 06:04:42 | [aescrypt-cli](https://crates.io/crates/aescrypt-cli) | 0.1.0-rc.1 | 0 | Command-line tool for AES Crypt files (decrypts v0-v3, writes v3), built on aes… |
-| 2026-10-13 06:05:11 | [nova-typeck](https://crates.io/crates/nova-typeck) | 0.3.0 | 0 | The Nova language's type checker (internal to the nova toolchain) |
-| 2026-10-13 06:06:56 | [okbase-cli](https://crates.io/crates/okbase-cli) | 0.2.3 | 0 | Command-line interface for okbase. |
-| 2026-10-13 06:07:50 | [smart-password-manager-tui](https://crates.io/crates/smart-password-manager-tui) | 0.1.0 | 0 | A terminal user interface for smart password management: generate deterministic… |
-| 2026-10-13 06:14:09 | [zalo-bot](https://crates.io/crates/zalo-bot) | 0.1.0 | 0 | Unofficial typed async Rust client for the Zalo Bot Platform API: messages, lon… |
-| 2026-10-13 06:16:29 | [nova-codegen-cranelift](https://crates.io/crates/nova-codegen-cranelift) | 0.3.0 | 0 | The Nova language's Cranelift code generator (internal to the nova toolchain) |
-| 2026-10-13 06:16:31 | [nova-codegen-llvm](https://crates.io/crates/nova-codegen-llvm) | 0.3.0 | 0 | The Nova language's LLVM IR code generator (internal to the nova toolchain) |
+| 2026-10-13 06:27:37 | [nova-driver](https://crates.io/crates/nova-driver) | 0.3.0 | 0 | The Nova language's compilation pipeline (internal to the nova toolchain) |
+| 2026-10-13 06:35:33 | [metriken-recorder](https://crates.io/crates/metriken-recorder) | 0.1.0 | 0 | Records metriken producers (streamed, scraped as Prometheus, or the process's o… |
+| 2026-10-13 06:35:59 | [smart-password-manager-cli](https://crates.io/crates/smart-password-manager-cli) | 0.1.0 | 0 | Command line interface for smart password management built on smartpasslib. Gen… |
+| 2026-10-13 06:37:24 | [shep-handover](https://crates.io/crates/shep-handover) | 0.12.5 | 0 | Replace a process's image with execve and carry descriptors and a state blob ac… |
+| 2026-10-13 06:38:45 | [nova-doc](https://crates.io/crates/nova-doc) | 0.3.0 | 0 | The Nova language's documentation generator (internal to the nova toolchain) |
+| 2026-10-13 06:39:19 | [clark-pdf-extract](https://crates.io/crates/clark-pdf-extract) | 0.12.1 | 0 | PDF content extraction with corrected CID width ranges; a minimal fork of pdf-e… |
+| 2026-10-13 06:45:29 | [scratchcad-occt-sys](https://crates.io/crates/scratchcad-occt-sys) | 0.1.0 | 0 | Rust bindings to the OpenCascade CAD Kernel, with C++ exception handling |
+| 2026-10-13 06:46:57 | [elastic-player](https://crates.io/crates/elastic-player) | 0.1.4 | 0 | A simple command-line audio player designed to help with instrument practice |
+| 2026-10-13 06:48:53 | [scratchcad-occt-rhai](https://crates.io/crates/scratchcad-occt-rhai) | 0.1.0 | 0 | Script the OpenCASCADE CAD kernel with Rhai |
+| 2026-10-13 06:48:56 | [afd](https://crates.io/crates/afd) | 0.1.0 | 0 | Agent-First Development - Core types and utilities for Rust |
+| 2026-10-13 06:49:59 | [nova-lsp](https://crates.io/crates/nova-lsp) | 0.3.0 | 0 | The Nova language's language server (internal to the nova toolchain) |
+| 2026-10-13 06:50:00 | [rust-web-frame](https://crates.io/crates/rust-web-frame) | 0.2.3 | 0 | A Rust web framework with declarative per-route metadata, a DI container and a… |
+| 2026-10-13 06:54:28 | [rust-motion-project](https://crates.io/crates/rust-motion-project) | 1.0.0 | 0 | Shared project, timeline, asset, and render-job contracts for Rust Motion hosts |
+| 2026-10-13 06:55:07 | [rust-motion-rasterizer](https://crates.io/crates/rust-motion-rasterizer) | 1.0.0 | 0 | Native CPU/GPU rasterizer for browser-free Rust Motion frame rendering |
+| 2026-10-13 06:55:32 | [rust-motion-renderer](https://crates.io/crates/rust-motion-renderer) | 1.0.0 | 0 | Headless frame renderer and video encoder for Rust Motion |
+| 2026-10-13 06:55:57 | [rust-motion-composition](https://crates.io/crates/rust-motion-composition) | 1.0.0 | 0 | Shared native composition contract and registry for Rust Motion preview and exp… |
+| 2026-10-13 06:56:34 | [rust-motion-core](https://crates.io/crates/rust-motion-core) | 1.0.0 | 0 | Core Dioxus components and hooks for Rust Motion — Composition, Sequence, Absol… |
+| 2026-10-13 06:57:40 | [rust-motion-shapes](https://crates.io/crates/rust-motion-shapes) | 1.0.0 | 0 | Procedural SVG shapes for Rust Motion — Circle, Rect, Star, Triangle, Polygon,… |
+| 2026-10-13 07:00:16 | [puerto-macros](https://crates.io/crates/puerto-macros) | 0.19.0 | 0 | Puerto runtime — the attribute macros of Puerto projects: `#[require_role]` on… |
+| 2026-10-13 07:01:00 | [puerto-auth](https://crates.io/crates/puerto-auth) | 0.19.0 | 0 | Puerto runtime — auth for Puerto projects: the OIDC adapter of the Authenticato… |
+| 2026-10-13 07:01:18 | [nova-cli](https://crates.io/crates/nova-cli) | 0.3.0 | 0 | The Nova programming language: compiler, formatter, language server, package ma… |
+| 2026-10-13 07:02:57 | [lgtmd](https://crates.io/crates/lgtmd) | 0.0.0-stage | 0 | LGTM Docs |
+| 2026-10-13 07:05:55 | [dekopon-provider-pledge](https://crates.io/crates/dekopon-provider-pledge) | 0.2.0 | 0 | Durable commitments ledger provider for Dekopon agents: make, list, and settle… |
+| 2026-10-13 07:07:40 | [rust-motion-charts](https://crates.io/crates/rust-motion-charts) | 1.0.0 | 0 | Native D3 and Mermaid chart and diagram generator for Rust Motion using QuickJS |
+| 2026-10-13 07:15:10 | [smart-password-manager](https://crates.io/crates/smart-password-manager) | 0.1.0 | 0 | A cross-platform GUI for smart password management built on smartpasslib. Gener… |
+| 2026-10-13 07:17:20 | [rust-motion-vdom](https://crates.io/crates/rust-motion-vdom) | 1.0.0 | 0 | Dioxus VirtualDom and CSS to native Rust Motion Scene adapter |
+| 2026-10-13 07:17:43 | [ed-acp-tauri](https://crates.io/crates/ed-acp-tauri) | 1.3.0 | 0 | Hosts an ed-acp agent inside a Tauri app: in-process ACP serve, permissions, si… |
 
 ## Data source
 
