@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T09:21:56.36739Z,tc_asym_cipher,0.1.0,0,0,https://github.com/TomiCheng/tc_asym_cipher,"Shared contracts for asymmetric block ciphers and key pair generators, after Bouncy Castle's IAsymmetricBlockCipher."
+2026-10-13T09:22:12.965451Z,tc_rsa,0.1.0,0,0,https://github.com/TomiCheng/tc_asym_cipher,"RSA after Bouncy Castle: key pair generation, blinding and the RSA operation as an asymmetric block cipher, over fixed-width, padded and RustCrypto engines."
+2026-10-13T09:22:27.152596Z,tc_asym_encoding,0.1.0,0,0,https://github.com/TomiCheng/tc_asym_cipher,"Encodings over asymmetric block ciphers: PKCS#1 v1.5 and OAEP, after Bouncy Castle's crypto/encodings."
+2026-10-13T09:22:39.961579Z,tc_asym_iso9796,0.1.0,0,0,https://github.com/TomiCheng/tc_asym_cipher,"ISO/IEC 9796-1 digital signatures with message recovery over RSA, after Bouncy Castle's ISO9796d1Encoding."
+2026-10-13T09:28:28.766321Z,open-chess-chessnut,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/open-chess,"Chessnut's boards (Air, Air+, Pro, Go) over Bluetooth LE: their protocol and following a game on them"
+2026-10-13T09:35:03.008622Z,mcp2dekopon,0.1.0,0,0,https://github.com/johnproblems/mcp2dekopon,Generate Dekopon providers from MCP servers
+2026-10-13T09:38:33.598259Z,open-chess-proto,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/open-chess,"Lichess API wire types (board, bot, challenge, event and game streams), shared by the open-chess server, client and bots"
+2026-10-13T09:39:32.435547Z,open-chess-client,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/open-chess,"Async client for the Lichess Board, Bot and Challenge APIs; works against lichess.org or an open-chess server"
+2026-10-13T09:49:37.228239Z,open-chess-dgtpi,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/open-chess,The DGT Pi's built-in DGT3000 clock over I²C: a Rust port of DGT's dgtpicom
+2026-10-13T09:50:35.686086Z,systemprompt-agent-runs,0.66.0,0,0,https://github.com/systempromptio/systemprompt-core,"Headless coding-agent executor for systemprompt.io AI governance infrastructure: supervised Claude Code and Codex CLI runs with a common event contract, ephemeral attributed credentials and a leased…"
+2026-10-13T09:51:00.068212Z,covariant-vec,0.1.0,0,0,https://github.com/0xA672/covariant-vec,A covariant small-vector whose heap/inline discrimination bit is encoded in the length field.
+2026-10-13T09:52:21.693066Z,guinevere,0.0.0-alpha.0,0,0,,Under development
+2026-10-13T09:56:56.014015Z,openaevc,0.1.0,0,0,https://github.com/calvehq/openaevc,"OpenAEVC: protocol types, canonical encoding, crypto, authority, policy, execution, verification, composition, the extension contract, and the reference store, runtime and HTTP transport."
+2026-10-13T09:59:41.28048Z,open-chess-engine,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/open-chess,Async UCI engine driver (Stockfish and friends) for fair-play analysis and bots
+2026-10-13T10:05:33.201087Z,rev-core,0.1.0,0,0,https://github.com/ronitgupta138/rev-core,Autonomous reverse engineering engine and Model Context Protocol (MCP) server for binaries and applications.
+2026-10-13T10:06:20.680801Z,rustv2xsimulator,0.1.0,0,0,https://github.com/Fundacio-i2CAT/RustV2XSimulator,A High-Performance Discrete-Event Simulation Framework for ETSI C-ITS in Rust
+2026-10-13T10:10:31.179841Z,open-chess-device,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/open-chess,"Play chess on an electronic board (DGT USB/Bluetooth/serial boards, DGT Pi, Centaur, Pegasus, Chessnut Air/Go): against an engine, online on Lichess, or as the board for Lichess's DGT page; PicoChess…"
+2026-10-13T10:10:33.897762Z,jvm-instrument,0.1.0,0,0,https://github.com/thatvertigo/jvm-instrument,"java.lang.instrument for Rust code loaded into a running JVM, without a Java agent"
+2026-10-13T10:12:29.211891Z,slicc-discovery,1.14.0,0,0,https://github.com/ai-ecoverse/slicc-cdp,Discovery engine for agent-facing web standards
