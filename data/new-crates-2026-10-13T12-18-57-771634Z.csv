@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T11:21:16.918724Z,poolster-input-openapi,0.5.0-alpha.2,0,0,https://github.com/rlvtapp/poolster,OpenAPI contract and optional block publication for Poolster
+2026-10-13T11:25:09.940204Z,caniko-secret-manager,0.3.0,0,0,https://github.com/caniko/secret-manager,Declarative secret management for NixOS — resolve and render age/agenix secrets
+2026-10-13T11:28:00.744512Z,sci,0.0.0,0,0,,A general-purpose scientific computing library for Rust (initial development release)
+2026-10-13T11:28:34.75613Z,weak-cache,0.1.0,0,0,https://github.com/evilbluebeaver/weak-cache,An asynchronous weak-reference cache that coalesces concurrent value creation.
+2026-10-13T11:39:50.000578Z,elem-simd-math,0.1.0,0,0,https://github.com/tensor4all/elem-simd-math-rs,"Vectorized elementwise math kernels for f32/f64 over stable-Rust SIMD (port of SLEEF via sleef-rs, on fearless_simd)."
+2026-10-13T11:40:07.088021Z,solidcore,0.0.1,0,0,https://github.com/bherbruck/solidcore,B-rep solid modeling kernel: a Rust port of NVIDIA's SMLib (early work in progress)
+2026-10-13T11:44:19.13898Z,docuconf-derive,0.1.0,0,0,https://github.com/docuconf/docuconf-rust,Derive macros for docuconf: #[derive(Docuconf)] and #[derive(DocuconfEnum)]
+2026-10-13T11:44:51.145788Z,docuconf,0.1.0,0,0,https://github.com/docuconf/docuconf-rust,Typed configuration contracts for figment: export a CUE contract and validate env vars and files at boot
+2026-10-13T11:48:46.533601Z,tlinalg,0.1.0,0,0,https://github.com/tensor4all/tlinalg-rs,"faer-backed tensor-free linear-algebra kernels with their own borrowed I/O, scratch, parallelism and error vocabulary."
+2026-10-13T11:48:56.901011Z,tlinalg-blas,0.1.0,0,0,https://github.com/tensor4all/tlinalg-rs,LAPACK/BLAS-backed tensor-free linear algebra kernels for the Tensor4all stack.
+2026-10-13T11:51:53.592634Z,tcontract-kernel,0.1.0,0,0,,"GEMM kernels: family contract and registry, packing, write-back, cache blocking and the project-owned microkernel families"
+2026-10-13T11:51:58.02871Z,tcontract-exec,0.1.0,0,0,,"Explicit execution contexts for the tcontract stack: borrowed Rayon pools, kernel-level entry"
+2026-10-13T11:52:13.742126Z,tcontract,0.1.0,0,0,,"Binary tensor contraction for the tcontract stack: one Problem, a packed TBLIS-style driver, faer and elementwise strategies"
+2026-10-13T11:53:57.595142Z,shielded_labs_snow,0.10.0,0,0,https://github.com/ShieldedLabs/snow,"ShieldedLabs fork of snow, a pure-rust Noise Protocol Framework implementation: StatelessTransportState is Clone, for key use overlapping a rekey"
+2026-10-13T11:57:38.033924Z,cpueinsum,0.1.0,0,0,https://github.com/tensor4all/cpueinsum-rs,"CPU einsum over tcontract: integer labels, caller-supplied contraction order, BLAS through a separate backend crate"
+2026-10-13T12:07:26.773109Z,cpueinsum-blas,0.1.0,0,0,https://github.com/tensor4all/cpueinsum-rs,A CBLAS step backend for cpueinsum: binary steps on the linked BLAS
+2026-10-13T12:09:36.383203Z,conex-proto,0.1.0,0,0,https://github.com/lszio/conex,"conex protocol types generated from .proto sources: messages, method and error contracts, CIDs"
+2026-10-13T12:09:38.647386Z,conex-core,0.1.0,0,0,https://github.com/lszio/conex,"conex routing kernel: data-driven registry, method contracts, authorization ports and execution"
+2026-10-13T12:09:41.16398Z,conex-source,0.1.0,0,0,https://github.com/lszio/conex,conex source capability abstractions and snapshots for the data-connection plane
+2026-10-13T12:09:43.304641Z,conex-provider-fs,0.1.0,0,0,https://github.com/lszio/conex,"conex provider exposing a read-only, capability-scoped filesystem root"
+2026-10-13T12:09:45.46854Z,conex-transport-http,0.1.0,0,0,https://github.com/lszio/conex,conex HTTP and JSON-RPC 2.0 transport for the broker plane
+2026-10-13T12:11:33.31625Z,git-overview,0.1.0,0,0,https://github.com/0thomasholland/git-overview,A read-only terminal overview of Git repositories beneath a directory
+2026-10-13T12:12:23.865493Z,h3wire-async,0.1.0,0,0,https://github.com/mp0rta/h3wire,Runtime-neutral async HTTP/3 over the sans-I/O h3wire core
+2026-10-13T12:12:26.671494Z,h3wire-quinn,0.1.0,0,0,https://github.com/mp0rta/h3wire,quinn 0.11 transport for h3wire-async (HTTP/3)
+2026-10-13T12:12:45.01636Z,zipline,0.1.0,0,0,https://github.com/vanmelsem/zipline,"Immediate-mode UI core with shared text, input, layout, scrolling, and accessibility semantics."
+2026-10-13T12:12:46.748647Z,zipline-ui,0.1.0,0,0,https://github.com/vanmelsem/zipline,"Dense, themeable UI components, editors, trees, tables, menus, and dialogs for Zipline."
+2026-10-13T12:12:48.567503Z,zipline-dock,0.1.0,0,0,https://github.com/vanmelsem/zipline,"Dockable workspaces with split panes, tabs, floating panels, and saved layouts."
+2026-10-13T12:12:49.464843Z,zipline-wgpu,0.1.0,0,0,https://github.com/vanmelsem/zipline,"GPU renderer for Zipline shapes, text, SVG icons, images, and custom render layers."
+2026-10-13T12:12:52.028645Z,zipline-bevy,0.1.0,0,0,https://github.com/vanmelsem/zipline,Shared-device Bevy rendering embedded in Zipline workspaces.
+2026-10-13T12:13:13.248196Z,teamy-facet-pretty,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet,TeamDman fork: Pretty-printing for Facet types with syntax highlighting and customizable formatting
+2026-10-13T12:13:25.398242Z,teamy-facet-solver,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet,TeamDman fork: Constraint solver for facet - resolves type shapes from field names
+2026-10-13T12:13:26.28811Z,vti-vetting-pcs,0.1.0,0,0,https://github.com/OpenVTC/verifiable-trust-infrastructure,"Hidden-vetter admission (ZKP) on the Predicate Credential System: the community's issuer and verifier, and the member-side vetter and applicant engines a VTA runs"
+2026-10-13T12:13:40.805924Z,teamy-facet,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet,"TeamDman fork: Reflection for Rust: introspect types at compile time with metadata for serialization, pretty-printing, CLIs, and more"
+2026-10-13T12:14:58.505681Z,cloud_terrastodon_registry,0.37.0,0,0,https://github.com/AAFC-Cloud/Cloud-Terrastodon.git,Distributed registry of Cloud Terrastodon domain types and request metadata
+2026-10-13T12:15:08.621159Z,teamy-facet-default,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet,TeamDman fork: Derive Default for facet types with custom field defaults
+2026-10-13T12:17:05.914669Z,portico-ssh,0.1.0,0,0,https://github.com/YounesAmalou/Portico,Keyboard-first terminal UI and CLI for managing OpenSSH hosts without taking over OpenSSH
+2026-10-13T12:17:34.665765Z,crossbow-switch,0.1.0,0,0,https://github.com/caniko/nix-crossbow,"Cache-shaped NixOS realization, closure restoration, and prepared activation"
