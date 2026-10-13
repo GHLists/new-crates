@@ -8,41 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 07:20 UTC
+## Latest list — 2026-10-13 08:18 UTC
 
-New crates published between 2026-10-13 06:19 UTC and 2026-10-13 07:20 UTC.
+New crates published between 2026-10-13 07:20 UTC and 2026-10-13 08:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-13T07-20-46-153558Z.csv)
+[Full CSV](data/new-crates-2026-10-13T08-18-43-541242Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-13 06:27:37 | [nova-driver](https://crates.io/crates/nova-driver) | 0.3.0 | 0 | The Nova language's compilation pipeline (internal to the nova toolchain) |
-| 2026-10-13 06:35:33 | [metriken-recorder](https://crates.io/crates/metriken-recorder) | 0.1.0 | 0 | Records metriken producers (streamed, scraped as Prometheus, or the process's o… |
-| 2026-10-13 06:35:59 | [smart-password-manager-cli](https://crates.io/crates/smart-password-manager-cli) | 0.1.0 | 0 | Command line interface for smart password management built on smartpasslib. Gen… |
-| 2026-10-13 06:37:24 | [shep-handover](https://crates.io/crates/shep-handover) | 0.12.5 | 0 | Replace a process's image with execve and carry descriptors and a state blob ac… |
-| 2026-10-13 06:38:45 | [nova-doc](https://crates.io/crates/nova-doc) | 0.3.0 | 0 | The Nova language's documentation generator (internal to the nova toolchain) |
-| 2026-10-13 06:39:19 | [clark-pdf-extract](https://crates.io/crates/clark-pdf-extract) | 0.12.1 | 0 | PDF content extraction with corrected CID width ranges; a minimal fork of pdf-e… |
-| 2026-10-13 06:45:29 | [scratchcad-occt-sys](https://crates.io/crates/scratchcad-occt-sys) | 0.1.0 | 0 | Rust bindings to the OpenCascade CAD Kernel, with C++ exception handling |
-| 2026-10-13 06:46:57 | [elastic-player](https://crates.io/crates/elastic-player) | 0.1.4 | 0 | A simple command-line audio player designed to help with instrument practice |
-| 2026-10-13 06:48:53 | [scratchcad-occt-rhai](https://crates.io/crates/scratchcad-occt-rhai) | 0.1.0 | 0 | Script the OpenCASCADE CAD kernel with Rhai |
-| 2026-10-13 06:48:56 | [afd](https://crates.io/crates/afd) | 0.1.0 | 0 | Agent-First Development - Core types and utilities for Rust |
-| 2026-10-13 06:49:59 | [nova-lsp](https://crates.io/crates/nova-lsp) | 0.3.0 | 0 | The Nova language's language server (internal to the nova toolchain) |
-| 2026-10-13 06:50:00 | [rust-web-frame](https://crates.io/crates/rust-web-frame) | 0.2.3 | 0 | A Rust web framework with declarative per-route metadata, a DI container and a… |
-| 2026-10-13 06:54:28 | [rust-motion-project](https://crates.io/crates/rust-motion-project) | 1.0.0 | 0 | Shared project, timeline, asset, and render-job contracts for Rust Motion hosts |
-| 2026-10-13 06:55:07 | [rust-motion-rasterizer](https://crates.io/crates/rust-motion-rasterizer) | 1.0.0 | 0 | Native CPU/GPU rasterizer for browser-free Rust Motion frame rendering |
-| 2026-10-13 06:55:32 | [rust-motion-renderer](https://crates.io/crates/rust-motion-renderer) | 1.0.0 | 0 | Headless frame renderer and video encoder for Rust Motion |
-| 2026-10-13 06:55:57 | [rust-motion-composition](https://crates.io/crates/rust-motion-composition) | 1.0.0 | 0 | Shared native composition contract and registry for Rust Motion preview and exp… |
-| 2026-10-13 06:56:34 | [rust-motion-core](https://crates.io/crates/rust-motion-core) | 1.0.0 | 0 | Core Dioxus components and hooks for Rust Motion — Composition, Sequence, Absol… |
-| 2026-10-13 06:57:40 | [rust-motion-shapes](https://crates.io/crates/rust-motion-shapes) | 1.0.0 | 0 | Procedural SVG shapes for Rust Motion — Circle, Rect, Star, Triangle, Polygon,… |
-| 2026-10-13 07:00:16 | [puerto-macros](https://crates.io/crates/puerto-macros) | 0.19.0 | 0 | Puerto runtime — the attribute macros of Puerto projects: `#[require_role]` on… |
-| 2026-10-13 07:01:00 | [puerto-auth](https://crates.io/crates/puerto-auth) | 0.19.0 | 0 | Puerto runtime — auth for Puerto projects: the OIDC adapter of the Authenticato… |
-| 2026-10-13 07:01:18 | [nova-cli](https://crates.io/crates/nova-cli) | 0.3.0 | 0 | The Nova programming language: compiler, formatter, language server, package ma… |
-| 2026-10-13 07:02:57 | [lgtmd](https://crates.io/crates/lgtmd) | 0.0.0-stage | 0 | LGTM Docs |
-| 2026-10-13 07:05:55 | [dekopon-provider-pledge](https://crates.io/crates/dekopon-provider-pledge) | 0.2.0 | 0 | Durable commitments ledger provider for Dekopon agents: make, list, and settle… |
-| 2026-10-13 07:07:40 | [rust-motion-charts](https://crates.io/crates/rust-motion-charts) | 1.0.0 | 0 | Native D3 and Mermaid chart and diagram generator for Rust Motion using QuickJS |
-| 2026-10-13 07:15:10 | [smart-password-manager](https://crates.io/crates/smart-password-manager) | 0.1.0 | 0 | A cross-platform GUI for smart password management built on smartpasslib. Gener… |
-| 2026-10-13 07:17:20 | [rust-motion-vdom](https://crates.io/crates/rust-motion-vdom) | 1.0.0 | 0 | Dioxus VirtualDom and CSS to native Rust Motion Scene adapter |
-| 2026-10-13 07:17:43 | [ed-acp-tauri](https://crates.io/crates/ed-acp-tauri) | 1.3.0 | 0 | Hosts an ed-acp agent inside a Tauri app: in-process ACP serve, permissions, si… |
+| 2026-10-13 07:27:32 | [rust-motion-media](https://crates.io/crates/rust-motion-media) | 1.0.0 | 0 | Media components for Rust Motion — Img, Video, Audio |
+| 2026-10-13 07:28:43 | [ccinrs](https://crates.io/crates/ccinrs) | 0.3.0 | 0 | A C compiler with gcc's command line, built on cinrs: the C becomes Rust, which… |
+| 2026-10-13 07:31:03 | [hapis-nexus](https://crates.io/crates/hapis-nexus) | 0.1.0 | 0 | hapis-nexus |
+| 2026-10-13 07:32:59 | [glibc-provider-sources](https://crates.io/crates/glibc-provider-sources) | 0.1.0 | 0 | The exact glibc sources, compile commands and headers behind cargo-libc's link… |
+| 2026-10-13 07:37:37 | [rust-motion-captions](https://crates.io/crates/rust-motion-captions) | 1.0.0 | 0 | Subtitle parsing (SRT), word timing, and kinetic captions for Rust Motion |
+| 2026-10-13 07:41:48 | [uu_chgpasswd](https://crates.io/crates/uu_chgpasswd) | 0.6.0 | 0 | chgpasswd ~ (shadow-rs) update group passwords in batch |
+| 2026-10-13 07:41:50 | [uu_expiry](https://crates.io/crates/uu_expiry) | 0.6.0 | 0 | expiry ~ (shadow-rs) check and enforce password expiration |
+| 2026-10-13 07:41:51 | [uu_gpasswd](https://crates.io/crates/uu_gpasswd) | 0.6.0 | 0 | gpasswd ~ (shadow-rs) administer /etc/group and /etc/gshadow |
+| 2026-10-13 07:41:52 | [uu_login](https://crates.io/crates/uu_login) | 0.6.0 | 0 | login ~ (shadow-rs) begin a session on the system |
+| 2026-10-13 07:41:53 | [uu_newuidmap](https://crates.io/crates/uu_newuidmap) | 0.6.0 | 0 | newuidmap ~ (shadow-rs) set the user ID mapping of a user namespace |
+| 2026-10-13 07:45:25 | [lightswitch-unwind-info](https://crates.io/crates/lightswitch-unwind-info) | 0.1.0 | 0 | Makes unwind information go brrr |
+| 2026-10-13 07:46:32 | [tumu](https://crates.io/crates/tumu) | 0.0.1 | 0 | A terminal multiplexer with stacked sheets |
+| 2026-10-13 07:46:35 | [licentivo](https://crates.io/crates/licentivo) | 0.10.0 | 0 | Licentivo application licensing: activation, verified grants and metered operat… |
+| 2026-10-13 07:47:20 | [uu_newusers](https://crates.io/crates/uu_newusers) | 0.6.0 | 0 | newusers ~ (shadow-rs) create or update users in batch |
+| 2026-10-13 07:47:43 | [rust-motion-noise](https://crates.io/crates/rust-motion-noise) | 1.0.0 | 0 | Procedural Simplex 2D/3D/4D noise generation and organic noise backgrounds for… |
+| 2026-10-13 07:54:03 | [prost-timestamp-range](https://crates.io/crates/prost-timestamp-range) | 0.1.0 | 0 | Prost types for timestamp ranges |
+| 2026-10-13 07:56:27 | [cursorpie](https://crates.io/crates/cursorpie) | 0.2.0 | 0 | Hold-to-open pie menu for macOS: per-app profiles, shortcuts, launchers and sub… |
+| 2026-10-13 07:57:18 | [rust-motion-transitions](https://crates.io/crates/rust-motion-transitions) | 1.0.0 | 0 | Transition components for Rust Motion — Fade, Slide, Wipe, etc. |
+| 2026-10-13 07:57:23 | [uu_pwconv](https://crates.io/crates/uu_pwconv) | 0.6.0 | 0 | pwconv ~ (shadow-rs) convert between shadowed and unshadowed account files |
+| 2026-10-13 08:01:56 | [calculiva](https://crates.io/crates/calculiva) | 0.1.0 | 0 | Home improvement estimators from calculiva.com: mulch, soil and sod, with every… |
+| 2026-10-13 08:07:19 | [uu_grpconv](https://crates.io/crates/uu_grpconv) | 0.6.0 | 0 | grpconv ~ (shadow-rs) move group passwords from /etc/group into /etc/gshadow |
+| 2026-10-13 08:07:39 | [rust-motion-player](https://crates.io/crates/rust-motion-player) | 1.0.0 | 0 | Interactive video player component for Rust Motion |
+| 2026-10-13 08:07:51 | [mi-time-elapsed](https://crates.io/crates/mi-time-elapsed) | 0.1.0 | 0 | An attribute macro that prints the execution time of async functions. |
+| 2026-10-13 08:09:05 | [protolink-i2c](https://crates.io/crates/protolink-i2c) | 0.0.1 | 0 | Hardware-facing I2C mailbox protocol and target-driver contract for protolink a… |
+| 2026-10-13 08:12:32 | [cargo-libc](https://crates.io/crates/cargo-libc) | 0.1.0 | 0 | Cargo subcommand: build Rust for an older glibc (2.17 through 2.44 on x86-64 Li… |
+| 2026-10-13 08:15:15 | [protolink-adaptors](https://crates.io/crates/protolink-adaptors) | 0.0.1 | 0 | Buffered ports and background runners that connect protolink to hardware buses… |
+| 2026-10-13 08:17:21 | [uu_grpunconv](https://crates.io/crates/uu_grpunconv) | 0.6.0 | 0 | grpunconv ~ (shadow-rs) move group passwords from /etc/gshadow back into /etc/g… |
+| 2026-10-13 08:17:40 | [rust-motion-cli](https://crates.io/crates/rust-motion-cli) | 1.0.0 | 0 | CLI tool for rendering Rust Motion compositions headlessly |
+| 2026-10-13 08:18:12 | [funget-core](https://crates.io/crates/funget-core) | 0.1.0 | 0 | Concurrent HTTP download/upload engine behind funget |
+| 2026-10-13 08:18:15 | [funget](https://crates.io/crates/funget) | 1.1.71 | 0 | Concurrent HTTP downloader and uploader with resume support |
 
 ## Data source
 

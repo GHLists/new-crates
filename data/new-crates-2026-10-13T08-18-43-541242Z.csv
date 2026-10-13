@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T07:27:32.039511Z,rust-motion-media,1.0.0,0,0,https://github.com/sjkim1127/rust-motion,"Media components for Rust Motion — Img, Video, Audio"
+2026-10-13T07:28:43.08745Z,ccinrs,0.3.0,0,0,https://github.com/tanakh/cinrs,"A C compiler with gcc's command line, built on cinrs: the C becomes Rust, which rustc compiles and links"
+2026-10-13T07:31:03.748643Z,hapis-nexus,0.1.0,0,0,,hapis-nexus
+2026-10-13T07:32:59.160837Z,glibc-provider-sources,0.1.0,0,0,https://github.com/rustcommons/glibc-provider,"The exact glibc sources, compile commands and headers behind cargo-libc's link providers (x86_64, glibc 2.17-2.44), for building them locally"
+2026-10-13T07:37:37.583902Z,rust-motion-captions,1.0.0,0,0,https://github.com/sjkim1127/rust-motion,"Subtitle parsing (SRT), word timing, and kinetic captions for Rust Motion"
+2026-10-13T07:41:48.904736Z,uu_chgpasswd,0.6.0,0,0,https://github.com/uutils/shadow,chgpasswd ~ (shadow-rs) update group passwords in batch
+2026-10-13T07:41:50.499472Z,uu_expiry,0.6.0,0,0,https://github.com/uutils/shadow,expiry ~ (shadow-rs) check and enforce password expiration
+2026-10-13T07:41:51.006661Z,uu_gpasswd,0.6.0,0,0,https://github.com/uutils/shadow,gpasswd ~ (shadow-rs) administer /etc/group and /etc/gshadow
+2026-10-13T07:41:52.566273Z,uu_login,0.6.0,0,0,https://github.com/uutils/shadow,login ~ (shadow-rs) begin a session on the system
+2026-10-13T07:41:53.663355Z,uu_newuidmap,0.6.0,0,0,https://github.com/uutils/shadow,newuidmap ~ (shadow-rs) set the user ID mapping of a user namespace
+2026-10-13T07:45:25.027973Z,lightswitch-unwind-info,0.1.0,0,0,https://github.com/javierhonduco/lightswitch,Makes unwind information go brrr
+2026-10-13T07:46:32.654631Z,tumu,0.0.1,0,0,https://github.com/sile/tumu,A terminal multiplexer with stacked sheets
+2026-10-13T07:46:35.274466Z,licentivo,0.10.0,0,0,https://github.com/spf86/licentivo-sdk,"Licentivo application licensing: activation, verified grants and metered operations"
+2026-10-13T07:47:20.885396Z,uu_newusers,0.6.0,0,0,https://github.com/uutils/shadow,newusers ~ (shadow-rs) create or update users in batch
+2026-10-13T07:47:43.773923Z,rust-motion-noise,1.0.0,0,0,https://github.com/sjkim1127/rust-motion,Procedural Simplex 2D/3D/4D noise generation and organic noise backgrounds for Rust Motion
+2026-10-13T07:54:03.579312Z,prost-timestamp-range,0.1.0,0,0,https://github.com/evilbluebeaver/prost-timestamp-range,Prost types for timestamp ranges
+2026-10-13T07:56:27.140991Z,cursorpie,0.2.0,0,0,https://github.com/sebastvnd/cursorpie,"Hold-to-open pie menu for macOS: per-app profiles, shortcuts, launchers and submenus."
+2026-10-13T07:57:18.1726Z,rust-motion-transitions,1.0.0,0,0,https://github.com/sjkim1127/rust-motion,"Transition components for Rust Motion — Fade, Slide, Wipe, etc."
+2026-10-13T07:57:23.498298Z,uu_pwconv,0.6.0,0,0,https://github.com/uutils/shadow,pwconv ~ (shadow-rs) convert between shadowed and unshadowed account files
+2026-10-13T08:01:56.223951Z,calculiva,0.1.0,0,0,https://github.com/calculiva/calculiva,"Home improvement estimators from calculiva.com: mulch, soil and sod, with every shipped constant traced to a dated public source."
+2026-10-13T08:07:19.825329Z,uu_grpconv,0.6.0,0,0,https://github.com/uutils/shadow,grpconv ~ (shadow-rs) move group passwords from /etc/group into /etc/gshadow
+2026-10-13T08:07:39.316405Z,rust-motion-player,1.0.0,0,0,https://github.com/sjkim1127/rust-motion,Interactive video player component for Rust Motion
+2026-10-13T08:07:51.038513Z,mi-time-elapsed,0.1.0,0,0,https://github.com/miyaya33/mi-io-utils,An attribute macro that prints the execution time of async functions.
+2026-10-13T08:09:05.560766Z,protolink-i2c,0.0.1,0,0,https://github.com/thives/protolink.rs,Hardware-facing I2C mailbox protocol and target-driver contract for protolink adaptors.
+2026-10-13T08:12:32.822523Z,cargo-libc,0.1.0,0,0,https://github.com/rustcommons/cargo-libc,Cargo subcommand: build Rust for an older glibc (2.17 through 2.44 on x86-64 Linux) and check what binaries require
+2026-10-13T08:15:15.18909Z,protolink-adaptors,0.0.1,0,0,https://github.com/thives/protolink.rs,Buffered ports and background runners that connect protolink to hardware buses such as I2C.
+2026-10-13T08:17:21.173519Z,uu_grpunconv,0.6.0,0,0,https://github.com/uutils/shadow,grpunconv ~ (shadow-rs) move group passwords from /etc/gshadow back into /etc/group
+2026-10-13T08:17:40.46211Z,rust-motion-cli,1.0.0,0,0,https://github.com/sjkim1127/rust-motion,CLI tool for rendering Rust Motion compositions headlessly
+2026-10-13T08:18:12.994766Z,funget-core,0.1.0,0,0,https://github.com/farfarfun/funget,Concurrent HTTP download/upload engine behind funget
+2026-10-13T08:18:15.081456Z,funget,1.1.71,0,0,https://github.com/farfarfun/funget,Concurrent HTTP downloader and uploader with resume support
