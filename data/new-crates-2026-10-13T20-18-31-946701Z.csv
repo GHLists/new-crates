@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T19:24:03.975334Z,exchange_rest,0.1.0,0,0,,"Rest, cancel, replace — the three non-matching ways an order moves on the book"
+2026-10-13T19:28:06.823618Z,fluxion-dsp,0.3.0,0,0,https://github.com/matteospanio/fluxion,"Differentiable, cross-vendor, framework-agnostic audio DSP with a functional graph API."
+2026-10-13T19:29:22.585612Z,tactile-keys,0.1.1,0,0,https://github.com/terminusarchive/tactile,On-screen overlay of pressed keys for Hyprland
+2026-10-13T19:29:22.867922Z,proxima-tensor,0.1.0,0,0,https://github.com/brianbruggeman/proxima,"Tensor vocabulary as a reified pipe graph: three generators (zip/fold/block) over an index-addressed arena, with an affine index-map grammar and structural validation"
+2026-10-13T19:31:39.864369Z,benlik,0.1.0,0,0,,Benlik Card: an application's signed self-description for AI agents. JSON Schema (Draft 0.1).
+2026-10-13T19:31:44.163195Z,sezgi,0.0.1,0,0,,Sezgi: wraps any application into a single API for AI agents and writes its Benlik Card. Early development.
+2026-10-13T19:32:27.637378Z,margaret_authorization_grants,0.5.0,0,0,https://github.com/intentee/margaret,"The authorization codes, refresh token families and pending consents an application stores for the Margaret OpenID Connect provider."
+2026-10-13T19:33:53.389111Z,exchange_snap,0.1.0,0,0,,"Plain, copied snapshot rows of the resting book"
+2026-10-13T19:35:48.409253Z,anykms-core,0.1.0,0,0,https://github.com/sagikazarmark/anykms,Core traits and types for anykms: capability traits on KMS key handles
+2026-10-13T19:36:00.443314Z,carapace-rs-shlex,0.0.3,0,0,https://github.com/carapace-sh/carapace-rs,"Shell lexing for completion: tokenizing, partial tokens, insertion quoting"
+2026-10-13T19:36:16.879489Z,anykms-http,0.1.0,0,0,https://github.com/sagikazarmark/anykms,"HTTP plumbing shared by the anykms backends (TLS provider selection, no-redirect clients, zeroizing bodies, credential caching, server-message redaction); not for direct use"
+2026-10-13T19:36:42.382412Z,anykms-recipes,0.1.0,0,0,https://github.com/sagikazarmark/anykms,"Portable recipes over anykms key handles: envelope encryption, emulated data keys, local verification"
+2026-10-13T19:36:57.684503Z,carapace-rs-spec,0.0.3,0,0,https://github.com/carapace-sh/carapace-rs,YAML spec support for carapace
+2026-10-13T19:37:15.664117Z,anykms-conformance,0.1.0,0,0,https://github.com/sagikazarmark/anykms,Shared conformance suite that every anykms backend runs
+2026-10-13T19:37:30.996842Z,anykms-aws,0.1.0,0,0,https://github.com/sagikazarmark/anykms,AWS KMS backend for anykms
+2026-10-13T19:38:03.27923Z,loftspec,2.0.0,0,0,https://github.com/Ask-Loft/loft,"The Loft Specification Format: document model, identity, canonical bytes, hashing and conversion"
+2026-10-13T19:38:06.042133Z,loftspec-store,2.0.0,0,0,https://github.com/Ask-Loft/loft,Memory and file stores for Loft Specification Format documents
+2026-10-13T19:38:08.611264Z,loft-cli,2.0.0,0,0,https://github.com/Ask-Loft/loft,"The loft command line: author, check, format, render and publish a specification in a git repository"
+2026-10-13T19:38:17.223292Z,kentron,0.11.1,0,0,https://github.com/rsz269/kentron,"A boundary-representation CAD kernel: solids over exact curves and surfaces, with booleans, fillets, offsets, sweeps and lofts, modelled on Open CASCADE (OCCT)."
+2026-10-13T19:38:22.485158Z,fluxion-dsp-cli,0.3.0,0,0,https://github.com/matteospanio/fluxion,"Fluxion: a modern, SoX-style command-line interface for audio DSP."
+2026-10-13T19:39:34.596314Z,proxima-onnx,0.1.0,0,0,https://github.com/brianbruggeman/proxima,"Sans-IO ONNX model parser and Op lowering: hand-rolled protobuf message decode over proxima-protocols' schema-agnostic wire walker, faithful to onnx.proto, plus a NodeProto -> proxima_tensor::Op lowe…"
+2026-10-13T19:40:22.313951Z,carapace-rs-bridge,0.0.3,0,0,https://github.com/carapace-sh/carapace-rs,Bridge external completion frameworks into carapace
+2026-10-13T19:40:25.337424Z,carapace-rs-clap,0.0.3,0,0,https://github.com/carapace-sh/carapace-rs,carapace completion for clap-based Rust CLIs
+2026-10-13T19:40:26.597111Z,carapace-rs-testkit,0.0.3,0,0,https://github.com/carapace-sh/carapace-rs,Sandbox test harness for carapace completions
+2026-10-13T19:43:59.151389Z,exchange_spec,0.1.0,0,0,,"Tick, lot, the asset pair, and the halt flag on one instrument"
+2026-10-13T19:44:21.715356Z,margaret_client_assertions,0.5.0,0,0,https://github.com/intentee/margaret,The client assertions a Margaret provider remembers so that none is accepted twice.
+2026-10-13T19:49:21.728354Z,proxima-vm,0.1.0,0,0,https://github.com/brianbruggeman/proxima,Minimal VM-backed proxima Pipe proof surface for scratch guests over KVM or Hypervisor.framework
+2026-10-13T19:54:01.712211Z,exchange_halt,0.1.0,0,0,,halt_set/halt_clear/halt_is — an on/off switch for matching alone
+2026-10-13T19:54:28.511771Z,ostrya-fetch,0.3.0,0,0,https://github.com/growler/ostrya,"Async HTTP/1.1 and HTTP/2 fetcher for ostrya, with TLS over rustls"
+2026-10-13T19:54:28.970098Z,ostrya-sign,0.3.0,0,0,https://github.com/growler/ostrya,"Signing and verifying engines for ostrya: dummy, ed25519, spki, and GPG through gpg"
+2026-10-13T19:54:29.890764Z,ostrya-remote,0.3.0,0,0,https://github.com/growler/ostrya,"The push and pull protocol of ostrya: the wire codec, the push client session, and the ssh and HTTP transports"
+2026-10-13T19:54:33.849351Z,ostrya-server,0.3.0,0,0,https://github.com/growler/ostrya,"HTTP server of ostrya: the archive view of a repository for pull, and the receive endpoint of push"
+2026-10-13T19:54:37.311812Z,anykms-azure,0.1.0,0,0,https://github.com/sagikazarmark/anykms,Azure Key Vault and Managed HSM backend for anykms
+2026-10-13T19:54:52.396869Z,anykms-gcp,0.1.0,0,0,https://github.com/sagikazarmark/anykms,Google Cloud KMS backend for anykms
+2026-10-13T19:56:06.877016Z,margaret_accepted_clients,0.5.0,0,0,https://github.com/intentee/margaret,Registers and authenticates the OAuth clients a Margaret OpenID Connect provider accepts.
+2026-10-13T19:59:24.293537Z,proxima-lib,0.1.0,0,0,https://github.com/brianbruggeman/proxima,"A sans-IO core where everything is a Pipe — one async In -> Result<Out, Err> trait worn four ways (transform, source, sink, observe), composed into proxies, gateways, caches, codecs and telemetry pip…"
+2026-10-13T20:03:50.559801Z,exchange_types,0.1.0,0,0,,Exact notionals and order obligations for the exchange
+2026-10-13T20:04:23.489845Z,anykms-local,0.1.0,0,0,https://github.com/sagikazarmark/anykms,"In-process software backend for anykms, for tests and development only"
+2026-10-13T20:07:12.232201Z,har-sanitizer,0.1.0,0,0,https://github.com/screendesk/screendesk-dev-utilities,"Redact cookies, tokens, and secrets from HAR files before you share them. Fast CLI, Rust library, and WebAssembly build."
+2026-10-13T20:07:52.164789Z,margaret_sessions,0.5.0,0,0,https://github.com/intentee/margaret,"The first-party browser sessions a Margaret token issuer starts, refreshes and ends, and the services that consume them."
+2026-10-13T20:09:21.127916Z,proxima-mil,0.1.0,0,0,https://github.com/brianbruggeman/proxima,"Sans-IO Core ML ML Program writer: the MIL protobuf encoder, weight blob writer and package assembler that omega's door plugs in as its Emit and Package stages."
+2026-10-13T20:10:28.149625Z,caress,0.1.0,0,0,https://github.com/manic-systems/climax,shell completions and man pages for pound commands
+2026-10-13T20:13:00.71577Z,strsimpy-rust-core,0.2.1,0,0,https://github.com/John-Cusack/strsimpy-rust,Pure-Rust string-similarity core (rustsmith Stage-1 mirror of luozhouyang/python-string-similarity); no Python dependency
+2026-10-13T20:13:34.384249Z,charset-normalizer-core,3.5.1,0,0,https://github.com/John-Cusack/charset_normalizer-rust,Pure-Rust charset detection core (rustsmith Stage-1 mirror of Ousret/charset_normalizer); no Python dependency
+2026-10-13T20:13:58.471871Z,packaging-rust-core,26.4.0,0,0,https://github.com/John-Cusack/packaging-rust,Pure-Rust packaging core (rustsmith Stage-1 mirror of pypa/packaging); no Python dependency
+2026-10-13T20:13:59.179277Z,exchange_conserve,0.1.0,0,0,,"A batch of fills nets to zero across its signed legs, or is refused as unbalanced"
+2026-10-13T20:17:44.642489Z,markdown-it-rust-core,4.2.0,0,0,https://github.com/John-Cusack/markdown_it-rust,Pure-Rust markdown-it core (rustsmith Stage-1 mirror of executablebooks/markdown-it-py); no Python dependency
