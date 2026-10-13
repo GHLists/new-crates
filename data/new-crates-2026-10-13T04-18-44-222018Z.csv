@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T03:28:49.862518Z,ripwire-rs,0.3.1,0,0,https://github.com/casonadams/ripwire-rs,High-throughput agent context router and deterministic static analysis engine
+2026-10-13T03:30:31.251797Z,woodruffw-trough-tree-sitter-powershell,0.1.1,0,0,https://github.com/woodruffw-trough/tree-sitter-powershell,A tree-sitter grammar for PowerShell
+2026-10-13T03:45:01.912764Z,talos-sync-types,0.1.0,0,0,https://github.com/apilots/talos-sync,Canonical data and errors for account-scoped Talos synchronization
+2026-10-13T03:45:50.172578Z,talos-sync-sdk,0.1.0,0,0,https://github.com/apilots/talos-sync,Authenticated WSS and Loro synchronization client for Talos
+2026-10-13T03:49:26.38962Z,mcpstack,0.1.0,0,0,https://github.com/nuzzles/mcpstack,"A CLI to manage, share, and switch MCP server configurations."
+2026-10-13T03:50:08.541902Z,cargo-prune-superseded,0.1.0,0,0,https://github.com/nickderobertis/cargo-prune-superseded,Prune superseded cargo build output by modification time.
+2026-10-13T04:03:47.903061Z,okbase-analyze,0.2.3,0,0,https://github.com/tidusvn05/okbase,"Text analysis for okbase: Unicode folding, Vietnamese accent stripping, Japanese tokenization."
+2026-10-13T04:03:48.504448Z,okbase-convert,0.2.3,0,0,https://github.com/tidusvn05/okbase,"Document conversion for okbase: PDF (per page), Word, PowerPoint, OpenDocument, RTF, EPUB and HTML to markdown, without models or services."
+2026-10-13T04:03:49.223147Z,okbase-core,0.2.3,0,0,https://github.com/tidusvn05/okbase,"Concept model, frontmatter round-trip, OKF validation and links for okbase."
+2026-10-13T04:03:49.78739Z,okbase-skills,0.2.3,0,0,https://github.com/tidusvn05/okbase,Agent Skills bundled with okbase and installers for agent CLIs.
+2026-10-13T04:03:52.735346Z,okbase-data,0.2.3,0,0,https://github.com/tidusvn05/okbase,"Tabular datasets (CSV, XLSX) as read-only SQL for okbase bundles."
+2026-10-13T04:08:50.88419Z,zil-cli,0.3.0,0,0,https://github.com/zanbowie138/zil,The zil command line: a REPL and script runner for the zil calculator language
+2026-10-13T04:11:09.06563Z,ps-str0m-proto,0.8.0,0,0,https://github.com/pathscale/ps-str0m,Internal protocol and crypto traits for ps-str0m. Not intended for direct use.
+2026-10-13T04:11:17.375481Z,ps-str0m-is,0.11.1,0,0,https://github.com/pathscale/ps-str0m,ICE (Interactive Connectivity Establishment) in Sans-IO style
+2026-10-13T04:11:32.306084Z,ps-str0m-rust-crypto,0.2.0,0,0,https://github.com/pathscale/ps-str0m,Pure RustCrypto DTLS and SRTP provider for ps-str0m: ChaCha20-Poly1305 only
+2026-10-13T04:12:05.96271Z,ps-str0m,0.25.0,0,0,https://github.com/pathscale/ps-str0m,WebRTC library in Sans-IO style; fork of str0m with pure-Rust ChaCha20-Poly1305 DTLS and SRTP
+2026-10-13T04:13:56.088243Z,gzip-ng-rs,2.0.2,0,0,https://github.com/zlib-ng/gzip-ng-rs,Parallel gzip replacement built on zlib-ng
+2026-10-13T04:13:57.65531Z,okbase-embed,0.2.3,0,0,https://github.com/tidusvn05/okbase,"Opt-in embeddings for okbase: local ONNX models (EmbeddingGemma, bge-m3) or an embeddings API, with a vector cache."

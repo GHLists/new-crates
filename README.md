@@ -8,31 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 03:19 UTC
+## Latest list — 2026-10-13 04:18 UTC
 
-New crates published between 2026-10-13 02:18 UTC and 2026-10-13 03:19 UTC.
+New crates published between 2026-10-13 03:19 UTC and 2026-10-13 04:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-13T03-19-20-337348Z.csv)
+[Full CSV](data/new-crates-2026-10-13T04-18-44-222018Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-13 02:18:44 | [transparent-shard](https://crates.io/crates/transparent-shard) | 0.1.0-rc.3 | 0 | Transparent PIR shard maps, manifests and table codecs |
-| 2026-10-13 02:27:33 | [eave-iwd](https://crates.io/crates/eave-iwd) | 0.1.0 | 0 | Wi-Fi controls for eave plugins, through iwd's D-Bus API |
-| 2026-10-13 02:29:07 | [rymedb-client](https://crates.io/crates/rymedb-client) | 2.0.0 | 0 | Async Rust client for the rymeDB HTTP API |
-| 2026-10-13 02:29:10 | [transparent-wallet](https://crates.io/crates/transparent-wallet) | 0.1.0-rc.3 | 0 | Wallet-side private recovery of transparent history over PIR |
-| 2026-10-13 02:37:36 | [eave-notify](https://crates.io/crates/eave-notify) | 0.1.0 | 0 | A freedesktop notification server for eave plugins |
-| 2026-10-13 02:38:20 | [transparent-wallet-store](https://crates.io/crates/transparent-wallet-store) | 0.1.0-rc.3 | 0 | SQLite store for transparent PIR wallet recovery progress and history |
-| 2026-10-13 02:41:44 | [sapling-component](https://crates.io/crates/sapling-component) | 0.1.0 | 0 | Leptos components by Sapling Calculations |
-| 2026-10-13 02:48:21 | [transparent-txid-client](https://crates.io/crates/transparent-txid-client) | 0.1.0-rc.3 | 0 | Synchronous, transport-agnostic wallet client for the tiered txid display PIR p… |
-| 2026-10-13 02:49:32 | [catallaxy-capi](https://crates.io/crates/catallaxy-capi) | 0.2.0 | 0 | C ABI for embedding and extending the Catallaxy language |
-| 2026-10-13 02:50:09 | [artifactize-core](https://crates.io/crates/artifactize-core) | 0.11.0 | 0 | The library behind artifactize: Artifacts, evals, reviews, the monitor and revi… |
-| 2026-10-13 02:50:11 | [artifactize-tui](https://crates.io/crates/artifactize-tui) | 0.11.0 | 0 | The terminal screens of artifactize: the Monitor and the Human review, over the… |
-| 2026-10-13 02:53:36 | [chorrent-cli](https://crates.io/crates/chorrent-cli) | 0.5.5 | 0 | Share files and folders directly between devices with a short code (the chorren… |
-| 2026-10-13 02:58:21 | [transparent-shard-server](https://crates.io/crates/transparent-shard-server) | 0.1.0-rc.3 | 0 | Transparent PIR shard and txid display server |
-| 2026-10-13 02:58:46 | [tinyflow-connector-iceberg](https://crates.io/crates/tinyflow-connector-iceberg) | 0.3.0 | 0 | Apache Iceberg sink connector for Tinyflow streaming framework |
-| 2026-10-13 03:04:30 | [poprako-sensitive-macro](https://crates.io/crates/poprako-sensitive-macro) | 0.1.0 | 0 | Derive macros for poprako-sensitive formatting and redaction |
-| 2026-10-13 03:04:32 | [poprako-sensitive](https://crates.io/crates/poprako-sensitive) | 0.1.0 | 0 | Compile-time sensitive value formatting with custom redaction callbacks |
-| 2026-10-13 03:12:59 | [ai-team](https://crates.io/crates/ai-team) | 0.1.0 | 0 | Run Claude Code and Codex together for bounded debates and software specificati… |
+| 2026-10-13 03:28:49 | [ripwire-rs](https://crates.io/crates/ripwire-rs) | 0.3.1 | 0 | High-throughput agent context router and deterministic static analysis engine |
+| 2026-10-13 03:30:31 | [woodruffw-trough-tree-sitter-powershell](https://crates.io/crates/woodruffw-trough-tree-sitter-powershell) | 0.1.1 | 0 | A tree-sitter grammar for PowerShell |
+| 2026-10-13 03:45:01 | [talos-sync-types](https://crates.io/crates/talos-sync-types) | 0.1.0 | 0 | Canonical data and errors for account-scoped Talos synchronization |
+| 2026-10-13 03:45:50 | [talos-sync-sdk](https://crates.io/crates/talos-sync-sdk) | 0.1.0 | 0 | Authenticated WSS and Loro synchronization client for Talos |
+| 2026-10-13 03:49:26 | [mcpstack](https://crates.io/crates/mcpstack) | 0.1.0 | 0 | A CLI to manage, share, and switch MCP server configurations. |
+| 2026-10-13 03:50:08 | [cargo-prune-superseded](https://crates.io/crates/cargo-prune-superseded) | 0.1.0 | 0 | Prune superseded cargo build output by modification time. |
+| 2026-10-13 04:03:47 | [okbase-analyze](https://crates.io/crates/okbase-analyze) | 0.2.3 | 0 | Text analysis for okbase: Unicode folding, Vietnamese accent stripping, Japanes… |
+| 2026-10-13 04:03:48 | [okbase-convert](https://crates.io/crates/okbase-convert) | 0.2.3 | 0 | Document conversion for okbase: PDF (per page), Word, PowerPoint, OpenDocument,… |
+| 2026-10-13 04:03:49 | [okbase-core](https://crates.io/crates/okbase-core) | 0.2.3 | 0 | Concept model, frontmatter round-trip, OKF validation and links for okbase. |
+| 2026-10-13 04:03:49 | [okbase-skills](https://crates.io/crates/okbase-skills) | 0.2.3 | 0 | Agent Skills bundled with okbase and installers for agent CLIs. |
+| 2026-10-13 04:03:52 | [okbase-data](https://crates.io/crates/okbase-data) | 0.2.3 | 0 | Tabular datasets (CSV, XLSX) as read-only SQL for okbase bundles. |
+| 2026-10-13 04:08:50 | [zil-cli](https://crates.io/crates/zil-cli) | 0.3.0 | 0 | The zil command line: a REPL and script runner for the zil calculator language |
+| 2026-10-13 04:11:09 | [ps-str0m-proto](https://crates.io/crates/ps-str0m-proto) | 0.8.0 | 0 | Internal protocol and crypto traits for ps-str0m. Not intended for direct use. |
+| 2026-10-13 04:11:17 | [ps-str0m-is](https://crates.io/crates/ps-str0m-is) | 0.11.1 | 0 | ICE (Interactive Connectivity Establishment) in Sans-IO style |
+| 2026-10-13 04:11:32 | [ps-str0m-rust-crypto](https://crates.io/crates/ps-str0m-rust-crypto) | 0.2.0 | 0 | Pure RustCrypto DTLS and SRTP provider for ps-str0m: ChaCha20-Poly1305 only |
+| 2026-10-13 04:12:05 | [ps-str0m](https://crates.io/crates/ps-str0m) | 0.25.0 | 0 | WebRTC library in Sans-IO style; fork of str0m with pure-Rust ChaCha20-Poly1305… |
+| 2026-10-13 04:13:56 | [gzip-ng-rs](https://crates.io/crates/gzip-ng-rs) | 2.0.2 | 0 | Parallel gzip replacement built on zlib-ng |
+| 2026-10-13 04:13:57 | [okbase-embed](https://crates.io/crates/okbase-embed) | 0.2.3 | 0 | Opt-in embeddings for okbase: local ONNX models (EmbeddingGemma, bge-m3) or an… |
 
 ## Data source
 
