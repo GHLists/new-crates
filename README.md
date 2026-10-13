@@ -8,55 +8,80 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 18:19 UTC
+## Latest list — 2026-10-13 19:21 UTC
 
-New crates published between 2026-10-13 17:20 UTC and 2026-10-13 18:19 UTC.
+New crates published between 2026-10-13 18:19 UTC and 2026-10-13 19:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-13T18-19-10-054955Z.csv)
+[Full CSV](data/new-crates-2026-10-13T19-21-28-748972Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-13 17:20:58 | [margaret_sessions_codegen](https://crates.io/crates/margaret_sessions_codegen) | 0.5.0 | 0 | Reads the session declarations of a Margaret application at build time. |
-| 2026-10-13 17:20:59 | [margaret_trusted_issuer](https://crates.io/crates/margaret_trusted_issuer) | 0.5.0 | 0 | A token issuer an application trusts: its declared trust, where its keys are pu… |
-| 2026-10-13 17:25:22 | [embers-ghostty-backend](https://crates.io/crates/embers-ghostty-backend) | 0.0.0 | 0 | Placeholder reserving the name. Releases are published from https://github.com/… |
-| 2026-10-13 17:25:26 | [embers-ghostty-sys](https://crates.io/crates/embers-ghostty-sys) | 0.0.0 | 0 | Placeholder reserving the name. Releases are published from https://github.com/… |
-| 2026-10-13 17:30:14 | [shadewire-gdshader](https://crates.io/crates/shadewire-gdshader) | 0.1.0 | 0 | Shadewire Godot back end: material IR to a Godot 4 spatial shader (.gdshader) a… |
-| 2026-10-13 17:32:31 | [newtui](https://crates.io/crates/newtui) | 0.1.0 | 0 | TUI components you can drive in isolation: each one a state machine over keys,… |
-| 2026-10-13 17:32:58 | [margaret_trusted_issuer_codegen](https://crates.io/crates/margaret_trusted_issuer_codegen) | 0.5.0 | 0 | Reads the issuers a Margaret application trusts and generates their key sets an… |
-| 2026-10-13 17:32:59 | [vitest-dedup](https://crates.io/crates/vitest-dedup) | 0.2.0 | 0 | Static analysis for duplicate and near-duplicate Vitest tests |
-| 2026-10-13 17:35:39 | [feanor](https://crates.io/crates/feanor) | 0.1.0 | 0 | Formatter and linter for OpenType feature files (.fea), built on fea-rs |
-| 2026-10-13 17:35:49 | [proxima-recording](https://crates.io/crates/proxima-recording) | 0.1.0 | 0 | Recording layer for proxima: event model, source traits, binary and JSONL on-di… |
-| 2026-10-13 17:35:58 | [proxima-tls](https://crates.io/crates/proxima-tls) | 0.1.0 | 0 | TLS configuration + rustls integration for proxima: TlsConfig, self-signed dev… |
-| 2026-10-13 17:36:06 | [proxima-listen](https://crates.io/crates/proxima-listen) | 0.1.0 | 0 | Listener registry + serve protocol surface for proxima: ListenProtocol trait, L… |
-| 2026-10-13 17:37:09 | [feanor-cli](https://crates.io/crates/feanor-cli) | 0.1.0 | 0 | Command-line formatter and linter for OpenType feature files (.fea) |
-| 2026-10-13 17:38:20 | [shadewire-bevy](https://crates.io/crates/shadewire-bevy) | 0.1.0 | 0 | Shadewire materials in Bevy: MaterialX graphs as StandardMaterial extensions |
-| 2026-10-13 17:41:01 | [newt-eval](https://crates.io/crates/newt-eval) | 0.8.0 | 0 | End-to-end evaluation framework for the newt worker |
-| 2026-10-13 17:41:29 | [exchange_cap](https://crates.io/crates/exchange_cap) | 0.1.0 | 0 | A limit on rests and levels per book; past the cap is a refusal, not unbounded… |
-| 2026-10-13 17:41:30 | [exchange_id](https://crates.io/crates/exchange_id) | 0.1.0 | 0 | Plain id newtypes for instruments, orders and accounts — no pointers, no ECS ha… |
-| 2026-10-13 17:41:31 | [exchange_seq](https://crates.io/crates/exchange_seq) | 0.1.0 | 0 | A monotonic sequence for time priority, without a wall clock |
-| 2026-10-13 17:41:31 | [exchange_side](https://crates.io/crates/exchange_side) | 0.1.0 | 0 | Bid and ask as one closed type, with no knowledge of price |
-| 2026-10-13 17:41:36 | [newt-agent-py](https://crates.io/crates/newt-agent-py) | 0.8.0 | 0 | Python bindings for newt-agent |
-| 2026-10-13 17:44:59 | [margaret_url_path](https://crates.io/crates/margaret_url_path) | 0.5.0 | 0 | Routability and percent-encoding rules of Margaret URL path segments. |
-| 2026-10-13 17:48:48 | [shadewire-cli](https://crates.io/crates/shadewire-cli) | 0.1.0 | 0 | Command line front end for Shadewire |
-| 2026-10-13 17:49:45 | [exchange_idem](https://crates.io/crates/exchange_idem) | 0.1.0 | 0 | An OrderId seen once per book, detected before a retry reaches the ladder |
-| 2026-10-13 17:53:40 | [exchange_stats](https://crates.io/crates/exchange_stats) | 0.1.0 | 0 | BookStats counters — rests, fills, rejects, cancels — for hot-path observability |
-| 2026-10-13 17:54:29 | [zeroclaw-api-client](https://crates.io/crates/zeroclaw-api-client) | 0.1.0 | 0 | Independent, typed, resilient async client for the ZeroClaw gateway (HTTP, even… |
-| 2026-10-13 17:55:27 | [ueye](https://crates.io/crates/ueye) | 0.0.0 | 0 | Starter crate for ueye; implementation is in development |
-| 2026-10-13 17:57:03 | [margaret_bearer_token_verification](https://crates.io/crates/margaret_bearer_token_verification) | 0.5.0 | 0 | Routes the bearer token a request presents to the trusted issuer it names and v… |
-| 2026-10-13 18:00:55 | [fantastico-sdk](https://crates.io/crates/fantastico-sdk) | 0.1.0 | 0 | One prepaid credit for every major LLM: a Rust client for FANTASTICO that sends… |
-| 2026-10-13 18:03:41 | [exchange_stp](https://crates.io/crates/exchange_stp) | 0.1.0 | 0 | The self-trade policy, as a closed set of three — never a mode that allows a se… |
-| 2026-10-13 18:06:10 | [gzip-ng](https://crates.io/crates/gzip-ng) | 2.0.3 | 0 | Parallel gzip replacement built on zlib-ng |
-| 2026-10-13 18:07:38 | [hatchery-core](https://crates.io/crates/hatchery-core) | 0.2.5 | 0 | Shared hatchery types and utilities for node, edge and core: wire contract, mul… |
-| 2026-10-13 18:09:03 | [margaret_issuer_request](https://crates.io/crates/margaret_issuer_request) | 0.5.0 | 0 | Requests the documents a token issuer publishes, under one transport policy, fo… |
-| 2026-10-13 18:09:32 | [eckit-sys](https://crates.io/crates/eckit-sys) | 2.5.0 | 0 | FFI bindings to ECMWF eckit C++ library |
-| 2026-10-13 18:10:48 | [rise-cli](https://crates.io/crates/rise-cli) | 0.1.0 | 0 | Interactive scaffolder for new Rust projects: pick a stack, get a working proje… |
-| 2026-10-13 18:11:59 | [eckit](https://crates.io/crates/eckit) | 2.5.0 | 0 | Safe Rust wrapper for ECMWF's eckit C++ library |
-| 2026-10-13 18:12:21 | [exhume_grep](https://crates.io/crates/exhume_grep) | 0.1.0 | 0 | Streaming file-content search over Exhume indexed evidence |
-| 2026-10-13 18:13:40 | [exchange_tif](https://crates.io/crates/exchange_tif) | 0.1.0 | 0 | Time-in-force as an explicit value on the order: GTC, IOC, FOK |
-| 2026-10-13 18:16:21 | [fsdk_2238_test_wqhpso](https://crates.io/crates/fsdk_2238_test_wqhpso) | 0.1.0 | 0 | Rust SDK for fsdk_2238_test_wqhpso generated by Fern |
-| 2026-10-13 18:16:56 | [taraskevizer](https://crates.io/crates/taraskevizer) | 11.0.4 | 0 | Belarusian orthography converter (Narkamauka → Taraskevica) |
-| 2026-10-13 18:16:59 | [tarask](https://crates.io/crates/tarask) | 11.0.4 | 0 | CLI for taraskevizer — Belarusian orthography converter |
-| 2026-10-13 18:18:10 | [gpui-luma-plot](https://crates.io/crates/gpui-luma-plot) | 0.1.9 | 0 | Native plotting SDK foundations for GPUI-Luma |
+| 2026-10-13 18:21:02 | [geometrykit](https://crates.io/crates/geometrykit) | 0.0.1 | 0 | Geometry primitives and NURBS data model — the geometry substrate for the ifcki… |
+| 2026-10-13 18:21:16 | [margaret_authorization_server_client](https://crates.io/crates/margaret_authorization_server_client) | 0.5.0 | 0 | Sends authenticated requests of an OAuth client to the endpoints its authorizat… |
+| 2026-10-13 18:21:17 | [margaret_issuer_directory](https://crates.io/crates/margaret_issuer_directory) | 0.5.0 | 0 | Polls the key sets of every distinct issuer an application trusts, once per iss… |
+| 2026-10-13 18:24:02 | [exchange_order](https://crates.io/crates/exchange_order) | 0.1.0 | 0 | One order record - a resting order or a taker - with its instrument and tif |
+| 2026-10-13 18:27:44 | [regulus-protocol](https://crates.io/crates/regulus-protocol) | 0.1.0 | 0 | The wire protocol shared by Regulus and Leo |
+| 2026-10-13 18:29:16 | [proxima-quic](https://crates.io/crates/proxima-quic) | 0.1.0 | 0 | Runtime-agnostic QUIC I/O facade over proxima-protocols::quic |
+| 2026-10-13 18:29:22 | [proxima-http](https://crates.io/crates/proxima-http) | 0.1.0 | 0 | Runtime-agnostic HTTP/1.1, HTTP/2, HTTP/3, and WebSocket stacks for proxima, hy… |
+| 2026-10-13 18:29:31 | [proxima-tokenizer](https://crates.io/crates/proxima-tokenizer) | 0.1.0 | 0 | Sans-IO byte-level BPE tokenizer: encode/decode over a caller-supplied vocab (b… |
+| 2026-10-13 18:29:35 | [proxima-amqp](https://crates.io/crates/proxima-amqp) | 0.1.0 | 0 | AMQP 0-9-1 broker facade: the async client Pipe (feature `client`, publish/cons… |
+| 2026-10-13 18:29:46 | [proxima-dns](https://crates.io/crates/proxima-dns) | 0.1.0 | 0 | DNS resolver client + listener facade: the async client Pipe (DnsClientUpstream… |
+| 2026-10-13 18:31:47 | [recipe_registry](https://crates.io/crates/recipe_registry) | 0.1.0 | 0 | Out-of-band recipe selection: a bitpacked family/version/variant key plus the o… |
+| 2026-10-13 18:33:04 | [margaret_client_credentials](https://crates.io/crates/margaret_client_credentials) | 0.5.0 | 0 | Acquires and caches access tokens of the client credentials grant, for the Marg… |
+| 2026-10-13 18:33:08 | [log-cardio](https://crates.io/crates/log-cardio) | 0.1.0 | 0 | Trim the fat from logs for LLM agents: lean default pipeline (trim + dedup + ca… |
+| 2026-10-13 18:34:02 | [exchange_fill](https://crates.io/crates/exchange_fill) | 0.1.0 | 0 | The trade record and the event stream — the Contract's two outputs |
+| 2026-10-13 18:35:43 | [fsdk_2238_test_ls7dum](https://crates.io/crates/fsdk_2238_test_ls7dum) | 0.3.4 | 0 | Acme client |
+| 2026-10-13 18:39:08 | [icq](https://crates.io/crates/icq) | 0.0.1 | 0 | Early placeholder for peer-to-peer messaging between AI harnesses |
+| 2026-10-13 18:39:32 | [tenebrae-geom](https://crates.io/crates/tenebrae-geom) | 0.1.0 | 0 | Geometry core for Tenebrae: triangle soup with owners, a BVH, exact segment occ… |
+| 2026-10-13 18:39:33 | [tenebrae-tome](https://crates.io/crates/tenebrae-tome) | 0.1.0 | 0 | Umbra 3.3.6 visibility tome (format version 18): lossless typed model, reader,… |
+| 2026-10-13 18:39:35 | [tenebrae-bake](https://crates.io/crates/tenebrae-bake) | 0.1.0 | 0 | Baker for Umbra 3.3.6 visibility tomes: voxelised occluders, cells and portals,… |
+| 2026-10-13 18:39:36 | [tenebrae-runtime](https://crates.io/crates/tenebrae-runtime) | 0.1.0 | 0 | Native visibility queries over Umbra 3.3.6 tomes: frustum and portal culling fr… |
+| 2026-10-13 18:39:39 | [tenebrae](https://crates.io/crates/tenebrae) | 0.1.0 | 0 | Umbra 3.3.6 visibility tomes (format version 18): format, baker and runtime que… |
+| 2026-10-13 18:42:02 | [uu-graph-r](https://crates.io/crates/uu-graph-r) | 0.4.0 | 0 | Embedded, persistent knowledge graph and the shared core of the lituus-io stack… |
+| 2026-10-13 18:42:29 | [fsdk_2238_test_lfkrzp](https://crates.io/crates/fsdk_2238_test_lfkrzp) | 0.4.0 | 0 | Rust SDK for fsdk_2238_test_lfkrzp generated by Fern |
+| 2026-10-13 18:43:03 | [uu-objstore-r](https://crates.io/crates/uu-objstore-r) | 0.2.0 | 0 | Object stores with generation preconditions for immutable-snapshot data (local… |
+| 2026-10-13 18:43:35 | [mrun](https://crates.io/crates/mrun) | 0.0.1 | 0 | Placeholder for mrun, a planned local LLM runtime for Apple Silicon |
+| 2026-10-13 18:44:01 | [exchange_event](https://crates.io/crates/exchange_event) | 0.1.0 | 0 | The one owned drain point for the event stream |
+| 2026-10-13 18:44:12 | [acoustid](https://crates.io/crates/acoustid) | 0.1.1 | 0 | A Rust client for interacting with the AcoustID API. |
+| 2026-10-13 18:44:27 | [uu-link-r](https://crates.io/crates/uu-link-r) | 0.4.0 | 0 | Tiny embeddable crawl-and-resolve link index: crawl a parent URL, distill keywo… |
+| 2026-10-13 18:44:59 | [margaret_oidc_provider_codegen](https://crates.io/crates/margaret_oidc_provider_codegen) | 0.5.0 | 0 | Generates the OpenID Connect provider module and derives its endpoint routes fo… |
+| 2026-10-13 18:45:22 | [uu-crab-r](https://crates.io/crates/uu-crab-r) | 0.2.0 | 0 | Generative technical metadata for BigQuery: describe a project, dataset, table… |
+| 2026-10-13 18:48:50 | [fframes-components](https://crates.io/crates/fframes-components) | 0.1.0 | 0 | Isolated, mix-and-match animated video components for fframes, ported from the… |
+| 2026-10-13 18:51:42 | [tiny-rodriguez-std](https://crates.io/crates/tiny-rodriguez-std) | 0.1.0 | 0 | Bibliothèque minimale et rapide de géométrie différentielle (SO(3), SE(3)) pour… |
+| 2026-10-13 18:52:24 | [bevy_exclusive_components](https://crates.io/crates/bevy_exclusive_components) | 0.1.0 | 0 | A library for exclusive components in bevy |
+| 2026-10-13 18:53:13 | [substrate-platform](https://crates.io/crates/substrate-platform) | 0.2.0 | 0 | Brand-neutral IDE platform core (task/workflow runner, log sink, PTY sessions,… |
+| 2026-10-13 18:53:36 | [kittens-vt100](https://crates.io/crates/kittens-vt100) | 0.16.2-kittens.1 | 0 | Kittens fork of vt100 with wide-cell resize and one-row wrap fixes |
+| 2026-10-13 18:54:03 | [exchange_level](https://crates.io/crates/exchange_level) | 0.1.0 | 0 | One price, FIFO rest - the queue a book keeps at a single price point |
+| 2026-10-13 18:56:48 | [margaret_session_endpoints_codegen](https://crates.io/crates/margaret_session_endpoints_codegen) | 0.5.0 | 0 | Reads the session endpoints a Margaret application routes at build time. |
+| 2026-10-13 19:00:49 | [treadcore-sim](https://crates.io/crates/treadcore-sim) | 0.1.0-rc.1 | 0 | Treadcore's deterministic world: map, tanks, drone bays, shells. Headless. |
+| 2026-10-13 19:00:57 | [treadcore-proto](https://crates.io/crates/treadcore-proto) | 0.1.0-rc.1 | 0 | Treadcore's wire protocol: commands, snapshots, events, peer negotiation. |
+| 2026-10-13 19:01:03 | [treadcore-net](https://crates.io/crates/treadcore-net) | 0.1.0-rc.1 | 0 | Treadcore's UDP transport, LAN discovery, RTT matrix, host election and relay r… |
+| 2026-10-13 19:01:09 | [treadcore-brain](https://crates.io/crates/treadcore-brain) | 0.1.0-rc.1 | 0 | Treadcore's Brain API: observation in, commands out; plus the rule-based bot. |
+| 2026-10-13 19:03:46 | [zsfm-burn](https://crates.io/crates/zsfm-burn) | 0.3.1 | 0 | Burn-backend inference: shared Burn tensor ops, direct GGUF weight loading, and… |
+| 2026-10-13 19:04:03 | [ironaccelerator-fpga](https://crates.io/crates/ironaccelerator-fpga) | 2.3.0 | 0 | FPGA backend for IronAccelerator — AMD/Xilinx Alveo / Versal via the Xilinx Run… |
+| 2026-10-13 19:04:04 | [exchange_book](https://crates.io/crates/exchange_book) | 0.1.0 | 0 | The resting order book and its price-time priority ordering |
+| 2026-10-13 19:04:23 | [treadcore-client](https://crates.io/crates/treadcore-client) | 0.1.0-rc.1 | 0 | Treadcore's Bevy client: overhead map, HUD telemetry overlay, controls. |
+| 2026-10-13 19:07:31 | [fluxion-dsp-core](https://crates.io/crates/fluxion-dsp-core) | 0.3.0 | 0 | Fluxion: functional DSP graph algebra and intermediate representation. |
+| 2026-10-13 19:07:40 | [fluxion-dsp-ops](https://crates.io/crates/fluxion-dsp-ops) | 0.3.0 | 0 | Fluxion: DSP primitives with hand-derived analytic forward + backward (VJP). |
+| 2026-10-13 19:07:46 | [fluxion-dsp-io](https://crates.io/crates/fluxion-dsp-io) | 0.3.0 | 0 | Fluxion: audio decode/encode (Symphonia) and Arrow/Parquet batch IO. |
+| 2026-10-13 19:07:51 | [fluxion-dsp-rt](https://crates.io/crates/fluxion-dsp-rt) | 0.3.0 | 0 | Fluxion: real-time engine — lock-free SPSC ring buffer and allocation-free exec… |
+| 2026-10-13 19:07:57 | [fluxion-dsp-backend](https://crates.io/crates/fluxion-dsp-backend) | 0.3.0 | 0 | Fluxion: lowering of the DSP graph to CubeCL (CUDA/HIP/Metal/Vulkan/WGSL) and C… |
+| 2026-10-13 19:08:40 | [margaret_sign_in_endpoints_codegen](https://crates.io/crates/margaret_sign_in_endpoints_codegen) | 0.5.0 | 0 | Reads the sign-in endpoints and admission hooks a Margaret application declares… |
+| 2026-10-13 19:13:56 | [exchange_depth](https://crates.io/crates/exchange_depth) | 0.1.0 | 0 | Top-N book depth without a full walk |
+| 2026-10-13 19:17:21 | [fonts-rs-emoji-metadata](https://crates.io/crates/fonts-rs-emoji-metadata) | 0.5.0 | 0 | Shared CLDR/UTS-#51 emoji metadata for emoji font crates (build resource) |
+| 2026-10-13 19:17:24 | [fonts-rs-blobmoji-generator](https://crates.io/crates/fonts-rs-blobmoji-generator) | 0.5.0 | 0 | Build-time code generation and glyph export for Blobmoji |
+| 2026-10-13 19:17:49 | [fonts-rs-noto-emoji-glyphs](https://crates.io/crates/fonts-rs-noto-emoji-glyphs) | 0.5.0 | 0 | Noto Emoji single-codepoint SVG artwork and CLDR metadata (build resource) |
+| 2026-10-13 19:17:53 | [fonts-rs-noto-emoji-sequences](https://crates.io/crates/fonts-rs-noto-emoji-sequences) | 0.5.0 | 0 | Noto Emoji multi-codepoint SVG sequences (ZWJ, flags, modifiers - build resourc… |
+| 2026-10-13 19:18:01 | [fluxion-dsp-autodiff](https://crates.io/crates/fluxion-dsp-autodiff) | 0.3.0 | 0 | Fluxion: Burn Autodiff integration and per-framework (torch/jax) VJP adapters. |
+| 2026-10-13 19:18:35 | [fonts-rs-noto-emoji-mono](https://crates.io/crates/fonts-rs-noto-emoji-mono) | 0.5.0 | 0 | Noto Emoji monochrome (NotoEmoji-Regular) font integration for GTK 4 and pixel-… |
+| 2026-10-13 19:18:40 | [fonts-rs-noto-emoji-color-flags](https://crates.io/crates/fonts-rs-noto-emoji-color-flags) | 0.5.0 | 0 | Noto Emoji COLRv1 (with flags) font integration for GTK 4 and pixel-drawing |
+| 2026-10-13 19:19:24 | [proxima-kafka](https://crates.io/crates/proxima-kafka) | 0.1.0 | 0 | Kafka facade over a sans-IO v0 Produce/Fetch/Metadata/ApiVersions BODY codec: t… |
+| 2026-10-13 19:19:32 | [proxima-memcached](https://crates.io/crates/proxima-memcached) | 0.1.0 | 0 | Memcached (text protocol) facade over the sans-IO codec: the async client Pipe… |
+| 2026-10-13 19:19:39 | [proxima-mqtt](https://crates.io/crates/proxima-mqtt) | 0.1.0 | 0 | MQTT v3.1.1 facade over the sans-IO codec in proxima-protocols::mqtt: the async… |
+| 2026-10-13 19:19:48 | [proxima-pgwire](https://crates.io/crates/proxima-pgwire) | 0.1.0 | 0 | PostgreSQL wire protocol facade over the sans-IO proxima-protocols::pgwire_code… |
+| 2026-10-13 19:19:54 | [proxima-redis](https://crates.io/crates/proxima-redis) | 0.1.0 | 0 | Redis/Valkey facade over the sans-IO RESP2/RESP3 codec: the async client Pipe a… |
+| 2026-10-13 19:20:31 | [margaret_token_exchange_client](https://crates.io/crates/margaret_token_exchange_client) | 0.5.0 | 0 | Exchanges a subject token for an access token of another audience under RFC 869… |
+| 2026-10-13 19:20:32 | [margaret_token_introspection](https://crates.io/crates/margaret_token_introspection) | 0.5.0 | 0 | Admits opaque bearer tokens through the introspection endpoint of their authori… |
 
 ## Data source
 
