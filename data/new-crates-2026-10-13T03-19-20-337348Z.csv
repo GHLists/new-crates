@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T02:18:44.883869Z,transparent-shard,0.1.0-rc.3,0,0,https://github.com/valargroup/wallet-pir,"Transparent PIR shard maps, manifests and table codecs"
+2026-10-13T02:27:33.800471Z,eave-iwd,0.1.0,0,0,https://github.com/eaveshell/eave,"Wi-Fi controls for eave plugins, through iwd's D-Bus API"
+2026-10-13T02:29:07.912217Z,rymedb-client,2.0.0,0,0,https://github.com/Ryme-Labs/rymeDB,Async Rust client for the rymeDB HTTP API
+2026-10-13T02:29:10.273822Z,transparent-wallet,0.1.0-rc.3,0,0,https://github.com/valargroup/wallet-pir,Wallet-side private recovery of transparent history over PIR
+2026-10-13T02:37:36.60214Z,eave-notify,0.1.0,0,0,https://github.com/eaveshell/eave-notifications,A freedesktop notification server for eave plugins
+2026-10-13T02:38:20.902806Z,transparent-wallet-store,0.1.0-rc.3,0,0,https://github.com/valargroup/wallet-pir,SQLite store for transparent PIR wallet recovery progress and history
+2026-10-13T02:41:44.967512Z,sapling-component,0.1.0,0,0,https://gitlab.com/saplingcalculations/sapling-component,Leptos components by Sapling Calculations
+2026-10-13T02:48:21.89976Z,transparent-txid-client,0.1.0-rc.3,0,0,https://github.com/valargroup/wallet-pir,"Synchronous, transport-agnostic wallet client for the tiered txid display PIR publication"
+2026-10-13T02:49:32.660518Z,catallaxy-capi,0.2.0,0,0,https://github.com/CodingAnarchy/catallaxy,C ABI for embedding and extending the Catallaxy language
+2026-10-13T02:50:09.206854Z,artifactize-core,0.11.0,0,0,https://github.com/lhj6102/artifactize,"The library behind artifactize: Artifacts, evals, reviews, the monitor and review models, and the shared operations every interface calls."
+2026-10-13T02:50:11.931738Z,artifactize-tui,0.11.0,0,0,https://github.com/lhj6102/artifactize,"The terminal screens of artifactize: the Monitor and the Human review, over the artifactize-core library."
+2026-10-13T02:53:36.751345Z,chorrent-cli,0.5.5,0,0,https://github.com/mrsarthi/Chorrent,Share files and folders directly between devices with a short code (the chorrent command)
+2026-10-13T02:58:21.813816Z,transparent-shard-server,0.1.0-rc.3,0,0,https://github.com/valargroup/wallet-pir,Transparent PIR shard and txid display server
+2026-10-13T02:58:46.463044Z,tinyflow-connector-iceberg,0.3.0,0,0,https://github.com/dahai1996/tinyflow,Apache Iceberg sink connector for Tinyflow streaming framework
+2026-10-13T03:04:30.480171Z,poprako-sensitive-macro,0.1.0,0,0,https://github.com/poprako-dev/poprako-sensitive,Derive macros for poprako-sensitive formatting and redaction
+2026-10-13T03:04:32.81047Z,poprako-sensitive,0.1.0,0,0,https://github.com/poprako-dev/poprako-sensitive,Compile-time sensitive value formatting with custom redaction callbacks
+2026-10-13T03:12:59.916262Z,ai-team,0.1.0,0,0,https://github.com/dev-ahmed/ai-team,Run Claude Code and Codex together for bounded debates and software specifications

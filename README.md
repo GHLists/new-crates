@@ -8,33 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 02:18 UTC
+## Latest list — 2026-10-13 03:19 UTC
 
-New crates published between 2026-10-13 01:19 UTC and 2026-10-13 02:18 UTC.
+New crates published between 2026-10-13 02:18 UTC and 2026-10-13 03:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-13T02-18-41-144716Z.csv)
+[Full CSV](data/new-crates-2026-10-13T03-19-20-337348Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-13 01:21:18 | [aproxy-desktop](https://crates.io/crates/aproxy-desktop) | 0.2.0-alpha.1 | 0 | Desktop window (Tauri 2) of aproxy, with its embedded web front end |
-| 2026-10-13 01:26:43 | [riga-shell](https://crates.io/crates/riga-shell) | 0.1.14 | 0 | Startup helpers shared by RIGA Tauri desktop shells |
-| 2026-10-13 01:26:49 | [sword-jobs](https://crates.io/crates/sword-jobs) | 0.5.0 | 0 | Server side application framework for Rust, built on top of the Tokio ecosystem… |
-| 2026-10-13 01:33:50 | [plagene](https://crates.io/crates/plagene) | 0.4.0 | 0 | Program DNA plagiarism detector |
-| 2026-10-13 01:49:42 | [mercs2_mod_runtime](https://crates.io/crates/mercs2_mod_runtime) | 0.4.0 | 0 | m2-sdk.dll: the one runtime every Mercenaries 2 mod shares in the game process |
-| 2026-10-13 02:00:17 | [sapphire-framework-mcp](https://crates.io/crates/sapphire-framework-mcp) | 0.17.0 | 0 | MCP tools shared by sapphire-framework apps, served over stdio by the CLI and o… |
-| 2026-10-13 02:01:16 | [pir-control](https://crates.io/crates/pir-control) | 0.1.0 | 0 | Process identity, control-lease watchdog and admission shared by the Enhance, S… |
-| 2026-10-13 02:01:17 | [pir-native](https://crates.io/crates/pir-native) | 0.1.0 | 0 | The native ReinspiRING two-mask m29 PIR helpers Enhance, Status and Transparent… |
-| 2026-10-13 02:01:18 | [pir-observability](https://crates.io/crates/pir-observability) | 0.1.0 | 0 | Metrics and tracing helpers shared by the PIR services |
-| 2026-10-13 02:01:19 | [transparent-events](https://crates.io/crates/transparent-events) | 0.1.0-rc.2 | 0 | Transparent PIR event records and codecs shared by the publisher, server and wa… |
-| 2026-10-13 02:01:20 | [transparent-filter](https://crates.io/crates/transparent-filter) | 0.1.0-rc.2 | 0 | Transparent PIR address filters and their client |
-| 2026-10-13 02:05:33 | [world_model](https://crates.io/crates/world_model) | 0.0.0-reserved | 0 | world_model |
-| 2026-10-13 02:08:27 | [benostreamdb-search](https://crates.io/crates/benostreamdb-search) | 0.12.0 | 0 | BenoStreamDB Search - OpenSearch/ES 7.10-compatible REST API over BenoStreamDB |
-| 2026-10-13 02:10:15 | [transparent-native](https://crates.io/crates/transparent-native) | 0.1.0-rc.2 | 0 | Transparent's native ReinspiRING two-mask m29 PIR profile, shared by the shard… |
-| 2026-10-13 02:17:23 | [eave-api](https://crates.io/crates/eave-api) | 0.1.0 | 0 | Plugin API for the eave status bar |
-| 2026-10-13 02:17:33 | [eave-dbus](https://crates.io/crates/eave-dbus) | 0.1.0 | 0 | D-Bus for eave plugins: shared connections and property watching |
-| 2026-10-13 02:17:37 | [eave-hyprland](https://crates.io/crates/eave-hyprland) | 0.1.0 | 0 | Hyprland IPC for eave plugins: one shared event stream, plus queries and dispat… |
-| 2026-10-13 02:17:45 | [eave-net](https://crates.io/crates/eave-net) | 0.1.0 | 0 | Networking for eave plugins, from the kernel over netlink (no NetworkManager ne… |
-| 2026-10-13 02:17:50 | [eave-pulse](https://crates.io/crates/eave-pulse) | 0.1.0 | 0 | Audio for eave plugins, over the PulseAudio protocol (PipeWire's pipewire-pulse) |
+| 2026-10-13 02:18:44 | [transparent-shard](https://crates.io/crates/transparent-shard) | 0.1.0-rc.3 | 0 | Transparent PIR shard maps, manifests and table codecs |
+| 2026-10-13 02:27:33 | [eave-iwd](https://crates.io/crates/eave-iwd) | 0.1.0 | 0 | Wi-Fi controls for eave plugins, through iwd's D-Bus API |
+| 2026-10-13 02:29:07 | [rymedb-client](https://crates.io/crates/rymedb-client) | 2.0.0 | 0 | Async Rust client for the rymeDB HTTP API |
+| 2026-10-13 02:29:10 | [transparent-wallet](https://crates.io/crates/transparent-wallet) | 0.1.0-rc.3 | 0 | Wallet-side private recovery of transparent history over PIR |
+| 2026-10-13 02:37:36 | [eave-notify](https://crates.io/crates/eave-notify) | 0.1.0 | 0 | A freedesktop notification server for eave plugins |
+| 2026-10-13 02:38:20 | [transparent-wallet-store](https://crates.io/crates/transparent-wallet-store) | 0.1.0-rc.3 | 0 | SQLite store for transparent PIR wallet recovery progress and history |
+| 2026-10-13 02:41:44 | [sapling-component](https://crates.io/crates/sapling-component) | 0.1.0 | 0 | Leptos components by Sapling Calculations |
+| 2026-10-13 02:48:21 | [transparent-txid-client](https://crates.io/crates/transparent-txid-client) | 0.1.0-rc.3 | 0 | Synchronous, transport-agnostic wallet client for the tiered txid display PIR p… |
+| 2026-10-13 02:49:32 | [catallaxy-capi](https://crates.io/crates/catallaxy-capi) | 0.2.0 | 0 | C ABI for embedding and extending the Catallaxy language |
+| 2026-10-13 02:50:09 | [artifactize-core](https://crates.io/crates/artifactize-core) | 0.11.0 | 0 | The library behind artifactize: Artifacts, evals, reviews, the monitor and revi… |
+| 2026-10-13 02:50:11 | [artifactize-tui](https://crates.io/crates/artifactize-tui) | 0.11.0 | 0 | The terminal screens of artifactize: the Monitor and the Human review, over the… |
+| 2026-10-13 02:53:36 | [chorrent-cli](https://crates.io/crates/chorrent-cli) | 0.5.5 | 0 | Share files and folders directly between devices with a short code (the chorren… |
+| 2026-10-13 02:58:21 | [transparent-shard-server](https://crates.io/crates/transparent-shard-server) | 0.1.0-rc.3 | 0 | Transparent PIR shard and txid display server |
+| 2026-10-13 02:58:46 | [tinyflow-connector-iceberg](https://crates.io/crates/tinyflow-connector-iceberg) | 0.3.0 | 0 | Apache Iceberg sink connector for Tinyflow streaming framework |
+| 2026-10-13 03:04:30 | [poprako-sensitive-macro](https://crates.io/crates/poprako-sensitive-macro) | 0.1.0 | 0 | Derive macros for poprako-sensitive formatting and redaction |
+| 2026-10-13 03:04:32 | [poprako-sensitive](https://crates.io/crates/poprako-sensitive) | 0.1.0 | 0 | Compile-time sensitive value formatting with custom redaction callbacks |
+| 2026-10-13 03:12:59 | [ai-team](https://crates.io/crates/ai-team) | 0.1.0 | 0 | Run Claude Code and Codex together for bounded debates and software specificati… |
 
 ## Data source
 
