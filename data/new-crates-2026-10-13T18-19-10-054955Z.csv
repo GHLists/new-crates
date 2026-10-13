@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T17:20:58.653379Z,margaret_sessions_codegen,0.5.0,0,0,https://github.com/intentee/margaret,Reads the session declarations of a Margaret application at build time.
+2026-10-13T17:20:59.176281Z,margaret_trusted_issuer,0.5.0,0,0,https://github.com/intentee/margaret,"A token issuer an application trusts: its declared trust, where its keys are published, and the keys it holds, for the Margaret application framework."
+2026-10-13T17:25:22.087439Z,embers-ghostty-backend,0.0.0,0,0,https://github.com/Pajn/Embers,Placeholder reserving the name. Releases are published from https://github.com/Pajn/Embers.
+2026-10-13T17:25:26.446455Z,embers-ghostty-sys,0.0.0,0,0,https://github.com/Pajn/Embers,Placeholder reserving the name. Releases are published from https://github.com/Pajn/Embers.
+2026-10-13T17:30:14.396951Z,shadewire-gdshader,0.1.0,0,0,https://github.com/rdeioris/shadewire,Shadewire Godot back end: material IR to a Godot 4 spatial shader (.gdshader) and reflection
+2026-10-13T17:32:31.538672Z,newtui,0.1.0,0,0,https://github.com/Gilamonster-Foundation/newtui,"TUI components you can drive in isolation: each one a state machine over keys, with an exhaustive acceptance harness that says what it must do."
+2026-10-13T17:32:58.728825Z,margaret_trusted_issuer_codegen,0.5.0,0,0,https://github.com/intentee/margaret,Reads the issuers a Margaret application trusts and generates their key sets and trusts.
+2026-10-13T17:32:59.056404Z,vitest-dedup,0.2.0,0,0,https://github.com/figueiredoluiz/vitest-dedup,Static analysis for duplicate and near-duplicate Vitest tests
+2026-10-13T17:35:39.800503Z,feanor,0.1.0,0,0,https://github.com/shift-editor/feanor,"Formatter and linter for OpenType feature files (.fea), built on fea-rs"
+2026-10-13T17:35:49.469666Z,proxima-recording,0.1.0,0,0,https://github.com/brianbruggeman/proxima,"Recording layer for proxima: event model, source traits, binary and JSONL on-disk formats, index files (no_std+alloc format tier); durable Pipe terminals, capture and causal-order/timing-intact repla…"
+2026-10-13T17:35:58.980755Z,proxima-tls,0.1.0,0,0,https://github.com/brianbruggeman/proxima,"TLS configuration + rustls integration for proxima: TlsConfig, self-signed dev certs, SNI"
+2026-10-13T17:36:06.180597Z,proxima-listen,0.1.0,0,0,https://github.com/brianbruggeman/proxima,"Listener registry + serve protocol surface for proxima: ListenProtocol trait, ListenRegistry, ServeContext, ListenerHandle, plus the preface classifier and generic byte-stream ListenProtocol adapters"
+2026-10-13T17:37:09.795019Z,feanor-cli,0.1.0,0,0,https://github.com/shift-editor/feanor,Command-line formatter and linter for OpenType feature files (.fea)
+2026-10-13T17:38:20.17142Z,shadewire-bevy,0.1.0,0,0,https://github.com/rdeioris/shadewire,Shadewire materials in Bevy: MaterialX graphs as StandardMaterial extensions
+2026-10-13T17:41:01.996989Z,newt-eval,0.8.0,0,0,https://github.com/hartsock/newt-agent,End-to-end evaluation framework for the newt worker
+2026-10-13T17:41:29.883506Z,exchange_cap,0.1.0,0,0,,"A limit on rests and levels per book; past the cap is a refusal, not unbounded growth or a silent drop"
+2026-10-13T17:41:30.644237Z,exchange_id,0.1.0,0,0,,"Plain id newtypes for instruments, orders and accounts — no pointers, no ECS handle"
+2026-10-13T17:41:31.27441Z,exchange_seq,0.1.0,0,0,,"A monotonic sequence for time priority, without a wall clock"
+2026-10-13T17:41:31.900858Z,exchange_side,0.1.0,0,0,,"Bid and ask as one closed type, with no knowledge of price"
+2026-10-13T17:41:36.519629Z,newt-agent-py,0.8.0,0,0,https://github.com/hartsock/newt-agent,Python bindings for newt-agent
+2026-10-13T17:44:59.399504Z,margaret_url_path,0.5.0,0,0,https://github.com/intentee/margaret,Routability and percent-encoding rules of Margaret URL path segments.
+2026-10-13T17:48:48.37769Z,shadewire-cli,0.1.0,0,0,https://github.com/rdeioris/shadewire,Command line front end for Shadewire
+2026-10-13T17:49:45.414065Z,exchange_idem,0.1.0,0,0,,"An OrderId seen once per book, detected before a retry reaches the ladder"
+2026-10-13T17:53:40.902425Z,exchange_stats,0.1.0,0,0,,"BookStats counters — rests, fills, rejects, cancels — for hot-path observability"
+2026-10-13T17:54:29.277523Z,zeroclaw-api-client,0.1.0,0,0,https://github.com/RustLangLatam/zeroclaw-api-client-rust,"Independent, typed, resilient async client for the ZeroClaw gateway (HTTP, events, chat). Not affiliated with ZeroClaw Labs."
+2026-10-13T17:55:27.166555Z,ueye,0.0.0,0,0,,Starter crate for ueye; implementation is in development
+2026-10-13T17:57:03.857409Z,margaret_bearer_token_verification,0.5.0,0,0,https://github.com/intentee/margaret,"Routes the bearer token a request presents to the trusted issuer it names and verifies it, for the Margaret application framework."
+2026-10-13T18:00:55.084357Z,fantastico-sdk,0.1.0,0,0,,"One prepaid credit for every major LLM: a Rust client for FANTASTICO that sends OpenAI-style chat completions to Claude, GPT, Gemini, Llama and more from a single account, with spending caps and bala…"
+2026-10-13T18:03:41.61918Z,exchange_stp,0.1.0,0,0,,"The self-trade policy, as a closed set of three — never a mode that allows a self-match"
+2026-10-13T18:06:10.637891Z,gzip-ng,2.0.3,0,0,https://github.com/zlib-ng/gzip-ng-rs,Parallel gzip replacement built on zlib-ng
+2026-10-13T18:07:38.991531Z,hatchery-core,0.2.5,0,0,https://github.com/ZENG3LD/hatchery,"Shared hatchery types and utilities for node, edge and core: wire contract, multiplex envelopes, nested restream crypto and keys, replay buffer, node journal"
+2026-10-13T18:09:03.470593Z,margaret_issuer_request,0.5.0,0,0,https://github.com/intentee/margaret,"Requests the documents a token issuer publishes, under one transport policy, for the Margaret application framework."
+2026-10-13T18:09:32.656612Z,eckit-sys,2.5.0,0,0,https://github.com/ecmwf/eckit,FFI bindings to ECMWF eckit C++ library
+2026-10-13T18:10:48.148214Z,rise-cli,0.1.0,0,0,https://github.com/EryyynIT/rise,"Interactive scaffolder for new Rust projects: pick a stack, get a working project on disk"
+2026-10-13T18:11:59.234506Z,eckit,2.5.0,0,0,https://github.com/ecmwf/eckit,Safe Rust wrapper for ECMWF's eckit C++ library
+2026-10-13T18:12:21.879444Z,exhume_grep,0.1.0,0,0,https://github.com/forensicxlab/exhume_grep,Streaming file-content search over Exhume indexed evidence
+2026-10-13T18:13:40.54604Z,exchange_tif,0.1.0,0,0,,"Time-in-force as an explicit value on the order: GTC, IOC, FOK"
+2026-10-13T18:16:21.880343Z,fsdk_2238_test_wqhpso,0.1.0,0,0,,Rust SDK for fsdk_2238_test_wqhpso generated by Fern
+2026-10-13T18:16:56.298327Z,taraskevizer,11.0.4,0,0,https://github.com/GooseOb/taraskevizer,Belarusian orthography converter (Narkamauka → Taraskevica)
+2026-10-13T18:16:59.311193Z,tarask,11.0.4,0,0,https://github.com/GooseOb/taraskevizer,CLI for taraskevizer — Belarusian orthography converter
+2026-10-13T18:18:10.268622Z,gpui-luma-plot,0.1.9,0,0,https://github.com/gpui-luma-dev/gpui-luma,Native plotting SDK foundations for GPUI-Luma

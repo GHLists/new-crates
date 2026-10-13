@@ -8,60 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 17:20 UTC
+## Latest list — 2026-10-13 18:19 UTC
 
-New crates published between 2026-10-13 16:18 UTC and 2026-10-13 17:20 UTC.
+New crates published between 2026-10-13 17:20 UTC and 2026-10-13 18:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-13T17-20-28-109188Z.csv)
+[Full CSV](data/new-crates-2026-10-13T18-19-10-054955Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-13 16:19:53 | [newt-harness](https://crates.io/crates/newt-harness) | 0.8.0 | 0 | Host-controlled context projection and accounted agent sessions |
-| 2026-10-13 16:20:17 | [margaret_token_trust](https://crates.io/crates/margaret_token_trust) | 0.5.0 | 0 | The issuer and audience whose tokens a Margaret application trusts. |
-| 2026-10-13 16:20:18 | [margaret_umbrella_path](https://crates.io/crates/margaret_umbrella_path) | 0.5.0 | 0 | Names the generated umbrella module and the canonical paths below it for the Ma… |
-| 2026-10-13 16:20:25 | [newt-mcp-data](https://crates.io/crates/newt-mcp-data) | 0.8.0 | 0 | Newt-Agent Phase 21 Centaur SQL EDA — thin stdio MCP server over the newt-data… |
-| 2026-10-13 16:20:58 | [newt-provider-openai](https://crates.io/crates/newt-provider-openai) | 0.8.0 | 0 | Opt-in OpenAI provider plugin for Newt-Agent |
-| 2026-10-13 16:21:33 | [agent-harness-py](https://crates.io/crates/agent-harness-py) | 0.8.0 | 0 | Composable Python bindings for the agent-frame kernel and smart harness |
-| 2026-10-13 16:23:44 | [exact_parse](https://crates.io/crates/exact_parse) | 0.1.0 | 0 | Text parsing into exact's Money, Qty, and Price fixed-point value types |
-| 2026-10-13 16:25:37 | [trunc-legacy](https://crates.io/crates/trunc-legacy) | 0.1.0 | 0 | Readers and resumable decoders for existing archive formats (ZIP, tar, ISO 9660… |
-| 2026-10-13 16:26:35 | [hasbati-discount-calculator](https://crates.io/crates/hasbati-discount-calculator) | 0.1.0 | 0 | A lightweight utility for calculating discounts and sale prices. For the fully… |
-| 2026-10-13 16:27:15 | [crabsat](https://crates.io/crates/crabsat) | 0.1.1 | 0 | A high-performance CDCL SAT solver inspired by Kissat |
-| 2026-10-13 16:27:34 | [path-lib](https://crates.io/crates/path-lib) | 1.0.0 | 0 | Cross-platform application and OS directory resolution for Rust, with user and… |
-| 2026-10-13 16:32:21 | [margaret_token_issuance_codegen](https://crates.io/crates/margaret_token_issuance_codegen) | 0.5.0 | 0 | Reads the token issuance a Margaret application declares and generates it as a… |
-| 2026-10-13 16:33:49 | [exact_ratio](https://crates.io/crates/exact_ratio) | 0.1.0 | 0 | A rational multiplier and mode-driven division for exact's fixed-point value ty… |
-| 2026-10-13 16:35:33 | [trunc-engine](https://crates.io/crates/trunc-engine) | 0.1.0 | 0 | trunc engine: producer, extractor, consumer, space planning, recovery. |
-| 2026-10-13 16:35:52 | [proxima-auth](https://crates.io/crates/proxima-auth) | 0.1.0 | 0 | Sans-IO authentication cores for the proxima auth axis, no_std + alloc: token l… |
-| 2026-10-13 16:35:54 | [proxima-gguf](https://crates.io/crates/proxima-gguf) | 0.1.0 | 0 | Sans-IO GGUF metadata parser: a byte-fed state machine over header, typed KV me… |
-| 2026-10-13 16:35:57 | [proxima-test](https://crates.io/crates/proxima-test) | 0.1.0 | 0 | Runtime harness for #[proxima::test]: tokio and prime drivers, panic capture, c… |
-| 2026-10-13 16:37:42 | [proxima-protocols](https://crates.io/crates/proxima-protocols) | 0.1.0 | 0 | Every wire proxima speaks, as a sans-IO codec that never touches a socket — one… |
-| 2026-10-13 16:37:51 | [proxima-net](https://crates.io/crates/proxima-net) | 0.1.0 | 0 | Network primitives for proxima: UDP PacketListener and addressing helpers (TCP… |
-| 2026-10-13 16:41:38 | [oai-lite](https://crates.io/crates/oai-lite) | 0.1.0 | 0 | OpenAI-compatible chat completions and audio transcriptions client with retry/b… |
-| 2026-10-13 16:43:46 | [exact_snap](https://crates.io/crates/exact_snap) | 0.1.0 | 0 | Snap a price or quantity to the nearest tick or lot grid point, for exact's fix… |
-| 2026-10-13 16:44:28 | [margaret_accepted_clients_codegen](https://crates.io/crates/margaret_accepted_clients_codegen) | 0.5.0 | 0 | Validates the OAuth clients a Margaret OpenID provider accepts and generates th… |
-| 2026-10-13 16:45:32 | [connectrpc-types](https://crates.io/crates/connectrpc-types) | 0.0.0 | 0 | Placeholder reserved by the connect-rust project for shared protobuf message ty… |
-| 2026-10-13 16:45:34 | [connectrpc-grpc-protos](https://crates.io/crates/connectrpc-grpc-protos) | 0.0.0 | 0 | Placeholder reserved by the connect-rust project for the standard gRPC protobuf… |
-| 2026-10-13 16:45:36 | [trunc-cli](https://crates.io/crates/trunc-cli) | 0.1.0 | 0 | Extract archives bigger than your free space: trunc deletes the archive as it e… |
-| 2026-10-13 16:48:04 | [proxima-patterns](https://crates.io/crates/proxima-patterns) | 0.1.0 | 0 | Recurring shapes built from nothing but the pipe primitives (source, sink, tran… |
-| 2026-10-13 16:53:45 | [exact_arith](https://crates.io/crates/exact_arith) | 0.1.0 | 0 | Facade crate re-exporting the full exact fixed-point money and quantity arithme… |
-| 2026-10-13 16:55:18 | [oPack](https://crates.io/crates/oPack) | 0.1.2 | 0 | oPack: every deployment is a pack. Installs the `opack` command. |
-| 2026-10-13 16:56:35 | [margaret_oauth_client_codegen](https://crates.io/crates/margaret_oauth_client_codegen) | 0.5.0 | 0 | Generates the per-tag OAuth client modules for the Margaret application framewo… |
-| 2026-10-13 16:57:51 | [urma-node-client](https://crates.io/crates/urma-node-client) | 0.3.0 | 0 | Optional local URMA service client without daemon or peer runtime |
-| 2026-10-13 16:58:18 | [proxima-process](https://crates.io/crates/proxima-process) | 0.1.0 | 0 | Process containment primitives for proxima: capability-typed commands, PTY and… |
-| 2026-10-13 17:07:55 | [chkcrontab](https://crates.io/crates/chkcrontab) | 1.0.0 | 0 | Crontab linter: checks crontab files for errors and suspect lines |
-| 2026-10-13 17:08:43 | [margaret_active_record_codegen](https://crates.io/crates/margaret_active_record_codegen) | 0.5.0 | 0 | Renders the active record glue of Margaret models. |
-| 2026-10-13 17:11:47 | [shadewire](https://crates.io/crates/shadewire) | 0.1.0 | 0 | Shadewire core: the material IR (a typed DAG), optimizer, CPU interpreter and r… |
-| 2026-10-13 17:11:50 | [shadewire-glsl](https://crates.io/crates/shadewire-glsl) | 0.1.0 | 0 | Shadewire GLSL back end: material IR to a GLSL library and reflection |
-| 2026-10-13 17:11:51 | [shadewire-hlsl](https://crates.io/crates/shadewire-hlsl) | 0.1.0 | 0 | Shadewire HLSL back end: material IR to an HLSL library and reflection |
-| 2026-10-13 17:11:51 | [shadewire-msl](https://crates.io/crates/shadewire-msl) | 0.1.0 | 0 | Shadewire MSL back end: material IR to a Metal Shading Language library and ref… |
-| 2026-10-13 17:11:52 | [shadewire-wgsl](https://crates.io/crates/shadewire-wgsl) | 0.1.0 | 0 | Shadewire WGSL back end: material IR to WGSL and reflection |
-| 2026-10-13 17:12:25 | [vitruvian-tool-kit](https://crates.io/crates/vitruvian-tool-kit) | 1.1.0 | 0 | Write a Vitruvian tool in Rust: declare commands, handle them, call the app. |
-| 2026-10-13 17:14:08 | [spacetimedb-runtime-core](https://crates.io/crates/spacetimedb-runtime-core) | 2.12.0 | 0 | Portable no_std runtime core utilities for SpacetimeDB |
-| 2026-10-13 17:14:27 | [spacetimedb-runtime](https://crates.io/crates/spacetimedb-runtime) | 2.12.0 | 0 | Runtime and deterministic simulation utilities for SpacetimeDB |
-| 2026-10-13 17:15:35 | [urma-node](https://crates.io/crates/urma-node) | 0.3.0 | 0 | Optional URMA archive node: Litecoin follower, record archive, libp2p overlay a… |
-| 2026-10-13 17:15:42 | [spacetimedb-engine](https://crates.io/crates/spacetimedb-engine) | 2.12.0 | 0 | Database engine and local persistence runtime for SpacetimeDB |
-| 2026-10-13 17:16:15 | [chess-coach](https://crates.io/crates/chess-coach) | 0.1.0 | 0 | Personal opening analysis and spaced-repetition training with UCI chess engines |
-| 2026-10-13 17:17:37 | [spacetimedb-test-datastore](https://crates.io/crates/spacetimedb-test-datastore) | 2.12.0 | 0 | In-memory datastore support for SpacetimeDB module unit tests. |
-| 2026-10-13 17:19:59 | [shadewire-mtlx](https://crates.io/crates/shadewire-mtlx) | 0.1.0 | 0 | MaterialX document reader and graph lowering for Shadewire |
+| 2026-10-13 17:20:58 | [margaret_sessions_codegen](https://crates.io/crates/margaret_sessions_codegen) | 0.5.0 | 0 | Reads the session declarations of a Margaret application at build time. |
+| 2026-10-13 17:20:59 | [margaret_trusted_issuer](https://crates.io/crates/margaret_trusted_issuer) | 0.5.0 | 0 | A token issuer an application trusts: its declared trust, where its keys are pu… |
+| 2026-10-13 17:25:22 | [embers-ghostty-backend](https://crates.io/crates/embers-ghostty-backend) | 0.0.0 | 0 | Placeholder reserving the name. Releases are published from https://github.com/… |
+| 2026-10-13 17:25:26 | [embers-ghostty-sys](https://crates.io/crates/embers-ghostty-sys) | 0.0.0 | 0 | Placeholder reserving the name. Releases are published from https://github.com/… |
+| 2026-10-13 17:30:14 | [shadewire-gdshader](https://crates.io/crates/shadewire-gdshader) | 0.1.0 | 0 | Shadewire Godot back end: material IR to a Godot 4 spatial shader (.gdshader) a… |
+| 2026-10-13 17:32:31 | [newtui](https://crates.io/crates/newtui) | 0.1.0 | 0 | TUI components you can drive in isolation: each one a state machine over keys,… |
+| 2026-10-13 17:32:58 | [margaret_trusted_issuer_codegen](https://crates.io/crates/margaret_trusted_issuer_codegen) | 0.5.0 | 0 | Reads the issuers a Margaret application trusts and generates their key sets an… |
+| 2026-10-13 17:32:59 | [vitest-dedup](https://crates.io/crates/vitest-dedup) | 0.2.0 | 0 | Static analysis for duplicate and near-duplicate Vitest tests |
+| 2026-10-13 17:35:39 | [feanor](https://crates.io/crates/feanor) | 0.1.0 | 0 | Formatter and linter for OpenType feature files (.fea), built on fea-rs |
+| 2026-10-13 17:35:49 | [proxima-recording](https://crates.io/crates/proxima-recording) | 0.1.0 | 0 | Recording layer for proxima: event model, source traits, binary and JSONL on-di… |
+| 2026-10-13 17:35:58 | [proxima-tls](https://crates.io/crates/proxima-tls) | 0.1.0 | 0 | TLS configuration + rustls integration for proxima: TlsConfig, self-signed dev… |
+| 2026-10-13 17:36:06 | [proxima-listen](https://crates.io/crates/proxima-listen) | 0.1.0 | 0 | Listener registry + serve protocol surface for proxima: ListenProtocol trait, L… |
+| 2026-10-13 17:37:09 | [feanor-cli](https://crates.io/crates/feanor-cli) | 0.1.0 | 0 | Command-line formatter and linter for OpenType feature files (.fea) |
+| 2026-10-13 17:38:20 | [shadewire-bevy](https://crates.io/crates/shadewire-bevy) | 0.1.0 | 0 | Shadewire materials in Bevy: MaterialX graphs as StandardMaterial extensions |
+| 2026-10-13 17:41:01 | [newt-eval](https://crates.io/crates/newt-eval) | 0.8.0 | 0 | End-to-end evaluation framework for the newt worker |
+| 2026-10-13 17:41:29 | [exchange_cap](https://crates.io/crates/exchange_cap) | 0.1.0 | 0 | A limit on rests and levels per book; past the cap is a refusal, not unbounded… |
+| 2026-10-13 17:41:30 | [exchange_id](https://crates.io/crates/exchange_id) | 0.1.0 | 0 | Plain id newtypes for instruments, orders and accounts — no pointers, no ECS ha… |
+| 2026-10-13 17:41:31 | [exchange_seq](https://crates.io/crates/exchange_seq) | 0.1.0 | 0 | A monotonic sequence for time priority, without a wall clock |
+| 2026-10-13 17:41:31 | [exchange_side](https://crates.io/crates/exchange_side) | 0.1.0 | 0 | Bid and ask as one closed type, with no knowledge of price |
+| 2026-10-13 17:41:36 | [newt-agent-py](https://crates.io/crates/newt-agent-py) | 0.8.0 | 0 | Python bindings for newt-agent |
+| 2026-10-13 17:44:59 | [margaret_url_path](https://crates.io/crates/margaret_url_path) | 0.5.0 | 0 | Routability and percent-encoding rules of Margaret URL path segments. |
+| 2026-10-13 17:48:48 | [shadewire-cli](https://crates.io/crates/shadewire-cli) | 0.1.0 | 0 | Command line front end for Shadewire |
+| 2026-10-13 17:49:45 | [exchange_idem](https://crates.io/crates/exchange_idem) | 0.1.0 | 0 | An OrderId seen once per book, detected before a retry reaches the ladder |
+| 2026-10-13 17:53:40 | [exchange_stats](https://crates.io/crates/exchange_stats) | 0.1.0 | 0 | BookStats counters — rests, fills, rejects, cancels — for hot-path observability |
+| 2026-10-13 17:54:29 | [zeroclaw-api-client](https://crates.io/crates/zeroclaw-api-client) | 0.1.0 | 0 | Independent, typed, resilient async client for the ZeroClaw gateway (HTTP, even… |
+| 2026-10-13 17:55:27 | [ueye](https://crates.io/crates/ueye) | 0.0.0 | 0 | Starter crate for ueye; implementation is in development |
+| 2026-10-13 17:57:03 | [margaret_bearer_token_verification](https://crates.io/crates/margaret_bearer_token_verification) | 0.5.0 | 0 | Routes the bearer token a request presents to the trusted issuer it names and v… |
+| 2026-10-13 18:00:55 | [fantastico-sdk](https://crates.io/crates/fantastico-sdk) | 0.1.0 | 0 | One prepaid credit for every major LLM: a Rust client for FANTASTICO that sends… |
+| 2026-10-13 18:03:41 | [exchange_stp](https://crates.io/crates/exchange_stp) | 0.1.0 | 0 | The self-trade policy, as a closed set of three — never a mode that allows a se… |
+| 2026-10-13 18:06:10 | [gzip-ng](https://crates.io/crates/gzip-ng) | 2.0.3 | 0 | Parallel gzip replacement built on zlib-ng |
+| 2026-10-13 18:07:38 | [hatchery-core](https://crates.io/crates/hatchery-core) | 0.2.5 | 0 | Shared hatchery types and utilities for node, edge and core: wire contract, mul… |
+| 2026-10-13 18:09:03 | [margaret_issuer_request](https://crates.io/crates/margaret_issuer_request) | 0.5.0 | 0 | Requests the documents a token issuer publishes, under one transport policy, fo… |
+| 2026-10-13 18:09:32 | [eckit-sys](https://crates.io/crates/eckit-sys) | 2.5.0 | 0 | FFI bindings to ECMWF eckit C++ library |
+| 2026-10-13 18:10:48 | [rise-cli](https://crates.io/crates/rise-cli) | 0.1.0 | 0 | Interactive scaffolder for new Rust projects: pick a stack, get a working proje… |
+| 2026-10-13 18:11:59 | [eckit](https://crates.io/crates/eckit) | 2.5.0 | 0 | Safe Rust wrapper for ECMWF's eckit C++ library |
+| 2026-10-13 18:12:21 | [exhume_grep](https://crates.io/crates/exhume_grep) | 0.1.0 | 0 | Streaming file-content search over Exhume indexed evidence |
+| 2026-10-13 18:13:40 | [exchange_tif](https://crates.io/crates/exchange_tif) | 0.1.0 | 0 | Time-in-force as an explicit value on the order: GTC, IOC, FOK |
+| 2026-10-13 18:16:21 | [fsdk_2238_test_wqhpso](https://crates.io/crates/fsdk_2238_test_wqhpso) | 0.1.0 | 0 | Rust SDK for fsdk_2238_test_wqhpso generated by Fern |
+| 2026-10-13 18:16:56 | [taraskevizer](https://crates.io/crates/taraskevizer) | 11.0.4 | 0 | Belarusian orthography converter (Narkamauka → Taraskevica) |
+| 2026-10-13 18:16:59 | [tarask](https://crates.io/crates/tarask) | 11.0.4 | 0 | CLI for taraskevizer — Belarusian orthography converter |
+| 2026-10-13 18:18:10 | [gpui-luma-plot](https://crates.io/crates/gpui-luma-plot) | 0.1.9 | 0 | Native plotting SDK foundations for GPUI-Luma |
 
 ## Data source
 
