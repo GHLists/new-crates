@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T01:21:18.693573Z,aproxy-desktop,0.2.0-alpha.1,0,0,https://github.com/MoYeRanqianzhi/aProxy,"Desktop window (Tauri 2) of aproxy, with its embedded web front end"
+2026-10-13T01:26:43.190198Z,riga-shell,0.1.14,0,0,https://github.com/haymant/riga,Startup helpers shared by RIGA Tauri desktop shells
+2026-10-13T01:26:49.540142Z,sword-jobs,0.5.0,0,0,https://github.com/sword-web/sword,"Server side application framework for Rust, built on top of the Tokio ecosystem, for web, Socket.IO, gRPC, events, jobs and more"
+2026-10-13T01:33:50.735119Z,plagene,0.4.0,0,0,https://github.com/sigmadream/plagene,Program DNA plagiarism detector
+2026-10-13T01:49:42.314993Z,mercs2_mod_runtime,0.4.0,0,0,,m2-sdk.dll: the one runtime every Mercenaries 2 mod shares in the game process
+2026-10-13T02:00:17.242472Z,sapphire-framework-mcp,0.17.0,0,0,https://github.com/fluo10/sapphire-framework,"MCP tools shared by sapphire-framework apps, served over stdio by the CLI and over HTTP by the app server"
+2026-10-13T02:01:16.349212Z,pir-control,0.1.0,0,0,https://github.com/valargroup/wallet-pir,"Process identity, control-lease watchdog and admission shared by the Enhance, Status, Transparent and Receiver PIR services"
+2026-10-13T02:01:17.370472Z,pir-native,0.1.0,0,0,https://github.com/valargroup/wallet-pir,"The native ReinspiRING two-mask m29 PIR helpers Enhance, Status and Transparent share"
+2026-10-13T02:01:18.261597Z,pir-observability,0.1.0,0,0,https://github.com/valargroup/wallet-pir,Metrics and tracing helpers shared by the PIR services
+2026-10-13T02:01:19.100411Z,transparent-events,0.1.0-rc.2,0,0,https://github.com/valargroup/wallet-pir,"Transparent PIR event records and codecs shared by the publisher, server and wallet"
+2026-10-13T02:01:20.353425Z,transparent-filter,0.1.0-rc.2,0,0,https://github.com/valargroup/wallet-pir,Transparent PIR address filters and their client
+2026-10-13T02:05:33.720824Z,world_model,0.0.0-reserved,0,0,,world_model
+2026-10-13T02:08:27.551583Z,benostreamdb-search,0.12.0,0,0,https://github.com/benolabsai/benostreamdb,BenoStreamDB Search - OpenSearch/ES 7.10-compatible REST API over BenoStreamDB
+2026-10-13T02:10:15.433141Z,transparent-native,0.1.0-rc.2,0,0,https://github.com/valargroup/wallet-pir,"Transparent's native ReinspiRING two-mask m29 PIR profile, shared by the shard server and the wallet"
+2026-10-13T02:17:23.695751Z,eave-api,0.1.0,0,0,https://github.com/eaveshell/eave,Plugin API for the eave status bar
+2026-10-13T02:17:33.502522Z,eave-dbus,0.1.0,0,0,https://github.com/eaveshell/eave,D-Bus for eave plugins: shared connections and property watching
+2026-10-13T02:17:37.118163Z,eave-hyprland,0.1.0,0,0,https://github.com/eaveshell/eave,"Hyprland IPC for eave plugins: one shared event stream, plus queries and dispatches"
+2026-10-13T02:17:45.523642Z,eave-net,0.1.0,0,0,https://github.com/eaveshell/eave,"Networking for eave plugins, from the kernel over netlink (no NetworkManager needed)"
+2026-10-13T02:17:50.105414Z,eave-pulse,0.1.0,0,0,https://github.com/eaveshell/eave,"Audio for eave plugins, over the PulseAudio protocol (PipeWire's pipewire-pulse)"
