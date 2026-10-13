@@ -1,0 +1,16 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-12T23:20:56.20997Z,t4a-cubek-convolution,0.3.0,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-convolution,CubeK: Convolution Kernels
+2026-10-12T23:31:08.472972Z,t4a-cubek,0.3.0,0,0,https://github.com/tracel-ai/cubek,CubeK: CubeCL Kernels
+2026-10-12T23:35:02.352687Z,bunny-ui-preview-macros,0.2.5,0,0,https://github.com/thebunnylab/bunny_ui,The #[preview] attribute of bunny-ui — marks a function whose view Studio and `bunny preview` show
+2026-10-12T23:35:22.748619Z,bunny-ui-preview,0.2.5,0,0,https://github.com/thebunnylab/bunny_ui,"The preview wire and the preview scan of bunny-ui — what a preview host and the tool that shows its frames speak, and how both list the #[preview] functions of a crate"
+2026-10-12T23:38:29.156542Z,catallaxy-gc,0.1.1,0,0,https://github.com/CodingAnarchy/catallaxy,Parallel stop-the-world mark-sweep garbage collector for the Catallaxy language
+2026-10-12T23:38:32.885784Z,catallaxy-runtime,0.1.1,0,0,https://github.com/CodingAnarchy/catallaxy,"Object model, NaN-boxed values and ownership states for the Catallaxy language"
+2026-10-12T23:38:36.737742Z,catallaxy-vm,0.1.1,0,0,https://github.com/CodingAnarchy/catallaxy,Register-based bytecode interpreter for the Catallaxy language
+2026-10-12T23:38:41.906902Z,catallaxy-compiler,0.1.1,0,0,https://github.com/CodingAnarchy/catallaxy,"Parser, type checker and bytecode compiler for the Catallaxy language"
+2026-10-12T23:38:45.412751Z,catallaxy-stdlib,0.1.1,0,0,https://github.com/CodingAnarchy/catallaxy,Native standard library for the Catallaxy language
+2026-10-12T23:44:33.128589Z,catallaxy,0.1.1,0,0,https://github.com/CodingAnarchy/catallaxy,"The Catallaxy programming language: a statically typed, Ruby-flavored language whose threads run truly in parallel"
+2026-10-12T23:45:09.377497Z,ocserve-pty,0.2.0,0,0,https://github.com/Reliary/ocserve,"ocserve PTY session manager (terminal routes, freeze-parity)"
+2026-10-12T23:56:31.850429Z,mp3-organizer,0.0.1,0,0,https://github.com/gabrielfalcao/mp3-organizer,"Guesses the missing ID3 tags for artist, album and title from filename then moves properly tagged mp3 files into subfolders: <Artist>/<Album>/<Filename>"
+2026-10-13T00:05:23.8434Z,corifeu-config,0.0.0,0,0,https://github.com/baphomello/corifeu,Configuration model and loader for Corifeu.
+2026-10-13T00:08:02.709728Z,gdbm-native,0.9.0,0,0,https://github.com/jgarzik/gdbm-native-rs,"Pure-Rust GDBM key/value database, file-compatible with C GDBM on every platform"
+2026-10-13T00:11:27.958594Z,route-summarization,0.1.0,0,0,https://github.com/nabbi/route-summarization-rs,"Aggregate IPv4/IPv6 CIDR prefixes into their minimal covering set, with SPF ip4:/ip6: support"
