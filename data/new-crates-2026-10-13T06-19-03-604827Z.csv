@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T05:20:54.916246Z,nova-index,0.3.0,0,0,https://github.com/Sakeerin/nova,The Nova language's package index client (internal to the nova toolchain)
+2026-10-13T05:24:57.117386Z,motionbricks-mlx,0.1.0,0,0,https://github.com/neeboo/motionbricks-rs,"Safe Rust bindings for the motionbricks C ABI (v1): model loading, styles, agent planning, batch planning"
+2026-10-13T05:25:04.866379Z,motionbricks-vulkan,0.1.0,0,0,https://github.com/neeboo/motionbricks-rs,"Safe Rust bindings for the motionbricks C ABI (v1): model loading, styles, agent planning, batch planning"
+2026-10-13T05:25:32.638667Z,okbase-tune,0.2.3,0,0,https://github.com/tidusvn05/okbase,"Fine-tuning data for okbase embeddings: passage sampling, agent-written questions (standard v1), validation and splits."
+2026-10-13T05:31:58.823013Z,nova-resolver,0.3.0,0,0,https://github.com/Sakeerin/nova,The Nova language's name resolver (internal to the nova toolchain)
+2026-10-13T05:32:54.172678Z,ps-rust_h264,0.4.0,0,0,https://github.com/pathscale/ps-rust_h264,"Pure Rust H.264/AVC video decoder (pathscale fork of rust_h264: Arc pictures, no panics on bad input, stream reorder depth)"
+2026-10-13T05:35:50.570645Z,okbase,0.2.3,0,0,https://github.com/tidusvn05/okbase,okbase: make markdown knowledge bundles (Open Knowledge Format) work well for AI agents.
+2026-10-13T05:36:30.411449Z,dc_discovery_engine,0.1.1,0,0,https://github.com/DevelopersCoffee/discovery_profile,Local personal-discovery rules shared by DevelopersCoffee apps.
+2026-10-13T05:43:02.192469Z,nova-hir,0.3.0,0,0,https://github.com/Sakeerin/nova,The Nova language's high-level IR (internal to the nova toolchain)
+2026-10-13T05:44:19.445632Z,liaise_proc_macro,0.1.1,0,0,https://github.com/jameshuntt/liaise_proc_macro,enable the use of liaise methodology in a proc macro without a circular dependencies
+2026-10-13T05:46:11.142489Z,okbase-mcp,0.2.3,0,0,https://github.com/tidusvn05/okbase,MCP server for okbase bundles.
+2026-10-13T05:46:32.757442Z,ferric-link,0.1.0,0,0,https://github.com/begeistert/ferric-link,"The Ferric Link console for Raspberry Pi Pico firmware: read_serial! and logging that compile anywhere, and talk to the Ferric iPad IDE when it is attached"
+2026-10-13T05:49:42.530061Z,hapis-atlas,0.1.0,0,0,,hapis atlas
+2026-10-13T05:50:27.434449Z,kiln-framework-cli,0.0.1,0,0,https://github.com/afomera/kiln-framework,"The kiln command for Kiln (kiln-framework): generators, schema workflow, checks and deploys."
+2026-10-13T05:50:28.242316Z,kiln-framework-macros,0.0.1,0,0,https://github.com/afomera/kiln-framework,Derive and attribute macros for Kiln (kiln-framework).
+2026-10-13T05:50:29.537071Z,kiln-framework,0.0.1,0,0,https://github.com/afomera/kiln-framework,Kiln: a full-stack Rust web framework where the compiler is the reviewer.
+2026-10-13T05:54:06.02971Z,nova-mir,0.3.0,0,0,https://github.com/Sakeerin/nova,The Nova language's mid-level IR (internal to the nova toolchain)
+2026-10-13T05:54:21.25329Z,rust-motion-animation,1.0.0,0,0,https://github.com/sjkim1127/rust-motion,"Animation primitives for Rust Motion — interpolate, spring, easing (Remotion-compatible)"
+2026-10-13T05:54:27.299802Z,rust-motion-paths,1.0.0,0,0,https://github.com/sjkim1127/rust-motion,"SVG path parsing, metrics, and stroke evolution animations for Rust Motion"
+2026-10-13T05:56:32.941881Z,okbase-web,0.2.3,0,0,https://github.com/tidusvn05/okbase,Read-only web viewer for okbase bundles (okbase view).
+2026-10-13T06:04:42.690238Z,aescrypt-cli,0.1.0-rc.1,0,0,https://github.com/Slurp9187/aescrypt-rs,"Command-line tool for AES Crypt files (decrypts v0-v3, writes v3), built on aescrypt-rs"
+2026-10-13T06:05:11.235627Z,nova-typeck,0.3.0,0,0,https://github.com/Sakeerin/nova,The Nova language's type checker (internal to the nova toolchain)
+2026-10-13T06:06:56.57763Z,okbase-cli,0.2.3,0,0,https://github.com/tidusvn05/okbase,Command-line interface for okbase.
+2026-10-13T06:07:50.123191Z,smart-password-manager-tui,0.1.0,0,0,https://github.com/smartlegionlab/smart-password-manager-tui-rs,"A terminal user interface for smart password management: generate deterministic passwords from secret phrases without storing them. No cloud, no database, no trust required."
+2026-10-13T06:14:09.235031Z,zalo-bot,0.1.0,0,0,https://github.com/tidusvn05/zalo-bot,"Unofficial typed async Rust client for the Zalo Bot Platform API: messages, long polling and webhooks."
+2026-10-13T06:16:29.272829Z,nova-codegen-cranelift,0.3.0,0,0,https://github.com/Sakeerin/nova,The Nova language's Cranelift code generator (internal to the nova toolchain)
+2026-10-13T06:16:31.234058Z,nova-codegen-llvm,0.3.0,0,0,https://github.com/Sakeerin/nova,The Nova language's LLVM IR code generator (internal to the nova toolchain)
