@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T15:27:45.367829Z,joinrift-livekit,0.9.5,0,0,https://github.com/awais-amjed/livekit-rust-sdks,"LiveKit's Rust client SDK 0.9.5 with stereo publishing, packaged for Rift (unofficial fork)"
+2026-10-13T15:28:07.810302Z,proxima-telemetry,0.1.0,0,0,https://github.com/brianbruggeman/proxima,"Core-native telemetry for proxima: traces, metrics, logs, events"
+2026-10-13T15:30:25.759491Z,rift-bot,0.1.0,0,0,https://github.com/awais-amjed/rift-bot-sdk-rust,"Write a bot for Rift in Rust: commands, replies, live panels, DMs, and voice"
+2026-10-13T15:30:27.913929Z,exact_add,0.1.0,0,0,https://github.com/Wandalen/exact,"Checked and saturating add/subtract for exact's Money, Qty, and Price fixed-point value types"
+2026-10-13T15:31:08.940892Z,bramley-engine,0.1.0,0,0,https://github.com/natevick/bramley,Playback engine that runs Apple's MusicKit JS in an embedded JavaScript runtime with native media and Widevine DRM host objects.
+2026-10-13T15:31:11.878894Z,margaret_oauth_vocabulary_codegen,0.5.0,0,0,https://github.com/intentee/margaret,Reads the OAuth 2.0 vocabulary that Margaret attributes name as typed framework paths.
+2026-10-13T15:31:12.769241Z,margaret_sql,0.5.0,0,0,https://github.com/intentee/margaret,Renders the typed Postgres statements of the Margaret active record.
+2026-10-13T15:31:50.699396Z,bevy_elements,0.1.0,0,0,https://github.com/Ladvien/bevy_elements,"Living environments for Bevy: sun, moon and stars, climate-driven weather, GPU wind, volumetric clouds, rain, snow and fog, lightning, terrain with hydraulic and thermal erosion, flooding, snow cover…"
+2026-10-13T15:33:50.04232Z,exact_bytes,0.1.0,0,0,https://github.com/Wandalen/exact,"A fixed-width wire encoding and its to/from conversions for exact's Money, Qty, and Price value types"
+2026-10-13T15:34:42.176843Z,seeitlive-sdk,0.1.0,0,0,,Official SeeItLive SDK for Rust
+2026-10-13T15:37:29.419483Z,simusa-py,1.10.0,0,0,https://gitlab.laas.fr/mescourrou/simusa.git,"SiMuSA is a simulator designed to abstract sensor measurements to facilitate the implementation of backend fusion algorithms or servoing. The simulator supports multiple robots, and the time rate is…"
+2026-10-13T15:38:05.966266Z,proxima-prime,0.1.0,0,0,https://github.com/brianbruggeman/proxima,"From-scratch per-core async runtime: bounded SPSC inbox, typed-future fast path, reactor + executor + timer + background pool primitives"
+2026-10-13T15:38:09.247377Z,affinidi-messaging-mediator-types,0.1.0,0,0,https://github.com/affinidi/affinidi-tdk-rs,"Protocol types shared by the Affinidi Messaging Mediator and its clients (ACLs, problem reports, message pickup, accounts)"
+2026-10-13T15:41:14.13951Z,geomcore-viewer,0.2.0,0,0,https://github.com/geomcore/geomcore-viewer,Rust client for the geomcore-viewer live browser viewer (scene protocol v2).
+2026-10-13T15:43:17.039092Z,margaret_database,0.5.0,0,0,https://github.com/intentee/margaret,"The Postgres database a Margaret application declares, shared by the framework and the application."
+2026-10-13T15:43:57.279114Z,exact_cmp,0.1.0,0,0,https://github.com/Wandalen/exact,"Comparison, equality, and min/max free functions for exact's Money, Qty, and Price value types"
+2026-10-13T15:46:26.831639Z,bevy_laya,0.1.1,0,0,https://github.com/ParkSnoopy/bevy_laya,Asynchronous Laya inference for Bevy
+2026-10-13T15:48:10.618289Z,cargo-val,0.1.0,0,0,https://github.com/brianbruggeman/cargo-val,"A Proxima-based Cargo test runner, invoked as cargo val."
+2026-10-13T15:48:44.614826Z,viability-gate,0.3.0,0,0,https://github.com/KhomDev/viability-gate,"Offline, deterministic pre-submission checker for smart-contract audit findings. Heuristic, in-sample calibrated."
+2026-10-13T15:52:13.748378Z,redup-servicekit,0.1.0,0,0,https://github.com/redup-ai/redup.rust.servicekit,"Toolkit for Rust microservices: YAML configuration, JSON logging, Prometheus metrics and gRPC utilities"
+2026-10-13T15:53:07.873645Z,moodle-mcp,0.1.1,0,0,https://github.com/G36maid/moodle-mcp,"Moodle MCP server in Rust — expose Moodle Web Services to MCP clients (student-first, stdio)"
+2026-10-13T15:53:23.296459Z,hoop-codec,0.1.0,0,0,https://github.com/hoophq/hoop,"SDK for hoop codec plug-ins: implement Codec, call export_codec!, build for wasm32-unknown-unknown"
+2026-10-13T15:53:47.071737Z,exact_conserve,0.1.0,0,0,https://github.com/Wandalen/exact,Conservation auditing — verify a batch of postings nets to zero — for exact's fixed-point value types
+2026-10-13T15:55:06.330898Z,trunc-chunk,0.1.0,0,0,https://github.com/Sparsebits/trunc,Chunkers that split trunc's logical stream into blocks.
+2026-10-13T15:55:07.703363Z,trunc-hash,0.1.0,0,0,https://github.com/Sparsebits/trunc,"Hashing primitives for trunc: BLAKE3 (incl. Merkle tree), CRC32C, SHA-256."
+2026-10-13T15:55:09.113377Z,trunc-prof,0.1.0,0,0,https://github.com/Sparsebits/trunc,A span profiler for trunc: Chrome trace export and a self-time summary.
+2026-10-13T15:55:13.711671Z,trunc-core,0.1.0,0,0,https://github.com/Sparsebits/trunc,trunc .trnc format types and encoders/decoders. Pure: no I/O.
+2026-10-13T15:55:15.375957Z,trunc-fs,0.1.0,0,0,https://github.com/Sparsebits/trunc,"Filesystem backend abstraction for trunc (Windows, Linux, generic)."
+2026-10-13T15:55:23.065959Z,margaret_active_record,0.5.0,0,0,https://github.com/intentee/margaret,Compile-time checked active record models of the Margaret application framework.
+2026-10-13T16:03:49.500675Z,exact_dust,0.1.0,0,0,https://github.com/Wandalen/exact,Split a fixed-point value into equal parts with an explicit leftover-remainder destination
+2026-10-13T16:04:42.855319Z,announce-core,0.1.0,0,0,https://github.com/yasuo-ozu/announce,Definition-side machinery and callback/check helpers of announce (use `announce::machinery` and `announce::helper` instead)
+2026-10-13T16:04:53.166894Z,announce-macros,0.1.0,0,0,https://github.com/yasuo-ozu/announce,Proc macros of announce (use the `announce` crate instead)
+2026-10-13T16:05:08.786675Z,announce,0.1.0,0,0,https://github.com/yasuo-ozu/announce,Definition-side trampolines: make a definition known to proc macros in any crate
+2026-10-13T16:05:17.917274Z,announce-std,0.1.0,0,0,https://github.com/yasuo-ozu/announce,announce trampolines for std/core traits
+2026-10-13T16:05:21.135149Z,trunc-journal,0.1.0,0,0,https://github.com/Sparsebits/trunc,Crash-safe preamble + two-slot checkpoint store for legacy archive consumption.
+2026-10-13T16:07:35.551687Z,margaret_model_facade,0.5.0,0,0,https://github.com/intentee/margaret,The framework facade that Margaret model crates generate their active record code against.
+2026-10-13T16:11:06.915658Z,gcv,0.0.1,0,0,https://github.com/anindya-dey/gcv,A beautiful terminal resume renderer. Share your CV as a git repo.
+2026-10-13T16:12:57.864684Z,ice-rpc-nodejs,0.3.5,0,0,https://github.com/max3163/ice-rpc,"Reusable Node.js (N-API) engine for ice-rpc: provides and consumes ice-rpc services from JavaScript, with the service list supplied by the addon"
+2026-10-13T16:13:51.869891Z,exact_fmt,0.1.0,0,0,https://github.com/Wandalen/exact,Display formatting and a no-allocation buffer-writing primitive for exact's fixed-point value types
+2026-10-13T16:15:34.724789Z,trunc-codec,0.1.0,0,0,https://github.com/Sparsebits/trunc,"Block codecs for trunc: store, lz4, zstd (with optional dictionary)."

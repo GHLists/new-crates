@@ -8,71 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 15:22 UTC
+## Latest list — 2026-10-13 16:18 UTC
 
-New crates published between 2026-10-13 14:19 UTC and 2026-10-13 15:22 UTC.
+New crates published between 2026-10-13 15:22 UTC and 2026-10-13 16:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-13T15-22-41-063716Z.csv)
+[Full CSV](data/new-crates-2026-10-13T16-18-52-497688Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-13 14:20:49 | [mecha10-nodes-follow](https://crates.io/crates/mecha10-nodes-follow) | 0.6.5 | 0 | Visually follows (recenters) an operator-selected object - DeepSORT re-id again… |
-| 2026-10-13 14:23:11 | [monochromatic-git-policy-cli](https://crates.io/crates/monochromatic-git-policy-cli) | 0.1.0 | 0 | Repository-owned Git policy wrapper: forwards Git commands and checks commits a… |
-| 2026-10-13 14:25:47 | [alun-db-driver-sqlite](https://crates.io/crates/alun-db-driver-sqlite) | 0.3.0 | 0 | alun-db SQLite 驱动 |
-| 2026-10-13 14:25:52 | [hexscope-raster](https://crates.io/crates/hexscope-raster) | 0.4.0 | 0 | Decodes and encodes film scans for hexscope's film lab: JPEG, PNG, WebP and 16-… |
-| 2026-10-13 14:29:06 | [eval7-rs](https://crates.io/crates/eval7-rs) | 0.1.0 | 0 | Exact seven-card poker hand evaluation using suit canonicalisation |
-| 2026-10-13 14:30:24 | [margaret_token_digest](https://crates.io/crates/margaret_token_digest) | 0.5.0 | 0 | Digests secrets and opaque tokens, compares them in constant time, and generate… |
-| 2026-10-13 14:30:24 | [margaret_token_issuance](https://crates.io/crates/margaret_token_issuance) | 0.5.0 | 0 | The issuer and audience that a Margaret application stamps onto the tokens it i… |
-| 2026-10-13 14:30:58 | [djembot](https://crates.io/crates/djembot) | 0.1.0 | 0 | Rhythm trainer for learning by ear: an LLM instructor plays rhythms through a w… |
-| 2026-10-13 14:33:05 | [fundeploy](https://crates.io/crates/fundeploy) | 0.3.1 | 0 | Manage development toolchains, local services and package mirrors from one CLI |
-| 2026-10-13 14:42:33 | [margaret_issuer_key_set](https://crates.io/crates/margaret_issuer_key_set) | 0.5.0 | 0 | Holds the key set of a token issuer and coordinates its on-demand refetch, for… |
-| 2026-10-13 14:43:29 | [vatf](https://crates.io/crates/vatf) | 0.1.0 | 0 | Compile SWF animations and vector animations into baked VAB assets |
-| 2026-10-13 14:45:02 | [surrealkv-compat-v1](https://crates.io/crates/surrealkv-compat-v1) | 0.1.0 | 0 | Standalone reader of SurrealKV LSMV1 databases (v0.20 to v0.21.4), for conversi… |
-| 2026-10-13 14:45:04 | [surrealkv-compat-indxdb](https://crates.io/crates/surrealkv-compat-indxdb) | 0.1.0 | 0 | Pure-Rust and WASM reader and migrator for SurrealDB legacy IndexedDB (indxdb:/… |
-| 2026-10-13 14:45:12 | [surrealkv-compat-rocksdb](https://crates.io/crates/surrealkv-compat-rocksdb) | 0.1.0 | 0 | Pure-Rust reader of RocksDB databases written by SurrealDB, for migration to Su… |
-| 2026-10-13 14:46:35 | [quepaxa-ffi](https://crates.io/crates/quepaxa-ffi) | 0.2.0 | 0 | Stable C ABI for the quepaxa consensus core |
-| 2026-10-13 14:46:53 | [fm84](https://crates.io/crates/fm84) | 0.27.0 | 0 | A synthwave dual-pane TUI file manager |
-| 2026-10-13 14:50:42 | [veydeck-suite-runtime-sdk](https://crates.io/crates/veydeck-suite-runtime-sdk) | 0.1.0-alpha.1 | 0 | Veydeck trusted suite backend runtime SDK |
-| 2026-10-13 14:53:00 | [bacnet-bip-codec](https://crates.io/crates/bacnet-bip-codec) | 0.13.0 | 0 | Portable no-std BACnet/IP and BACnet/IPv6 (Annexes J and U) BVLL codec |
-| 2026-10-13 14:53:00 | [bacnet-mstp-codec](https://crates.io/crates/bacnet-mstp-codec) | 0.13.0 | 0 | Portable no-std BACnet MS/TP frame codec |
-| 2026-10-13 14:53:01 | [bacnet-time](https://crates.io/crates/bacnet-time) | 0.13.0 | 0 | The no-std monotonic Instant and Duration, in nanoseconds, that the portable BA… |
-| 2026-10-13 14:53:02 | [bacnet-bip-core](https://crates.io/crates/bacnet-bip-core) | 0.13.0 | 0 | Portable no-std BACnet/IP behaviour (Annex J): a sans-IO node engine, BBMD tabl… |
-| 2026-10-13 14:53:02 | [bacnet-mstp-core](https://crates.io/crates/bacnet-mstp-core) | 0.13.0 | 0 | Portable allocation-bounded BACnet MS/TP master core |
-| 2026-10-13 14:54:36 | [margaret_oauth_vocabulary](https://crates.io/crates/margaret_oauth_vocabulary) | 0.5.0 | 0 | Client identifiers, client secrets and scopes of OAuth 2.0 for the Margaret app… |
-| 2026-10-13 14:55:03 | [proxima-build](https://crates.io/crates/proxima-build) | 0.1.0 | 0 | build.rs library: resolves a typed Profile via conflaguration, emits a generate… |
-| 2026-10-13 14:55:05 | [proxima-core](https://crates.io/crates/proxima-core) | 0.1.0 | 0 | Foundation primitives for the proxima workspace: error, ring, arena, time, mark… |
-| 2026-10-13 14:55:07 | [proxima-codec](https://crates.io/crates/proxima-codec) | 0.1.0 | 0 | Pluggable codec registry for proxima — request/response body marshalling with J… |
-| 2026-10-13 14:55:07 | [proxima-macros](https://crates.io/crates/proxima-macros) | 0.1.0 | 0 | Proc-macro support for proxima test fixtures, runtime entrypoints, telemetry sp… |
-| 2026-10-13 14:55:08 | [proxima-runtime](https://crates.io/crates/proxima-runtime) | 0.1.0 | 0 | Runtime trait abstraction for proxima: per-core spawn, cross-core dispatch, bac… |
-| 2026-10-13 14:55:27 | [snowscsi-common](https://crates.io/crates/snowscsi-common) | 0.1.0 | 0 | SnowSCSI common: storage seams + logging macros |
-| 2026-10-13 14:55:30 | [snowscsi-iso9660](https://crates.io/crates/snowscsi-iso9660) | 0.1.0 | 0 | SnowSCSI disc: ISO9660/Joliet live-generation algorithms |
-| 2026-10-13 14:55:33 | [snowscsi](https://crates.io/crates/snowscsi) | 0.1.0 | 0 | SnowSCSI SCSI: core + iSCSI + USB MSC + CD-ROM device emulation |
-| 2026-10-13 14:55:36 | [snowscsi-cli](https://crates.io/crates/snowscsi-cli) | 0.1.0 | 0 | SnowSCSI CLI: serve + mkisofs |
-| 2026-10-13 14:55:47 | [cvvdp-lite](https://crates.io/crates/cvvdp-lite) | 0.1.0 | 0 | ColorVideoVDP perceptual quality metric |
-| 2026-10-13 14:56:11 | [bacnet-router-core](https://crates.io/crates/bacnet-router-core) | 0.13.0 | 0 | Portable no-std BACnet router (Clause 6): a sans-IO routing engine over a borro… |
-| 2026-10-13 14:57:46 | [proxima-config](https://crates.io/crates/proxima-config) | 0.1.0 | 0 | Config concern for proxima in one crate — pluggable format registry (JSON, JSON… |
-| 2026-10-13 14:58:46 | [unftp-site-hash](https://crates.io/crates/unftp-site-hash) | 0.1.0 | 0 | Adds a SITE HASH command to libunftp, supporting SHA-256, SHA-1, MD5 and CRC32… |
-| 2026-10-13 15:00:33 | [hatchery-arcade-preview](https://crates.io/crates/hatchery-arcade-preview) | 0.2.3 | 0 | Disposable dev tool: renders one real Pet Bastion mid-run snapshot through ever… |
-| 2026-10-13 15:00:34 | [hatchery-enroll](https://crates.io/crates/hatchery-enroll) | 0.2.3 | 0 | Node enrollment wire and key handling shared by hatchery-c2 and hatchery-node:… |
-| 2026-10-13 15:00:36 | [hatchery-session-events](https://crates.io/crates/hatchery-session-events) | 0.2.3 | 0 | Session event layer: per-provider live PTY parsers (pluggable trait) that turn… |
-| 2026-10-13 15:00:39 | [hatchery-build](https://crates.io/crates/hatchery-build) | 0.2.3 | 0 | Remote build and sign service for hatchery nodes: admission by node status, rec… |
-| 2026-10-13 15:00:43 | [hatchery-hq-web](https://crates.io/crates/hatchery-hq-web) | 0.2.3 | 0 | Web HQ for hatchery: a small loopback server that gives a browser the operator… |
-| 2026-10-13 15:06:50 | [margaret_database_codegen](https://crates.io/crates/margaret_database_codegen) | 0.5.0 | 0 | Reads the Postgres database a Margaret application declares. |
-| 2026-10-13 15:08:06 | [proxima-primitives](https://crates.io/crates/proxima-primitives) | 0.1.0 | 0 | The pipe algebra itself: the Pipe trait — an async In -> Result<Out, Err> that… |
-| 2026-10-13 15:10:01 | [sysfonts](https://crates.io/crates/sysfonts) | 0.1.0 | 0 | Cross-platform system font manager exposed via C FFI |
-| 2026-10-13 15:10:59 | [ic-host-wasm-inspect](https://crates.io/crates/ic-host-wasm-inspect) | 0.17.4 | 0 | Bounded structural Wasm inspection CLI |
-| 2026-10-13 15:14:14 | [surrealkv-cli](https://crates.io/crates/surrealkv-cli) | 1.0.0 | 0 | Operator and developer inspection, dump, and diagnostic CLI for SurrealKV |
-| 2026-10-13 15:15:27 | [burn-laya](https://crates.io/crates/burn-laya) | 0.1.4 | 0 | Simply run Laya inference locally with Burn |
-| 2026-10-13 15:17:49 | [hikmah-kernel](https://crates.io/crates/hikmah-kernel) | 3.1.0 | 0 | Deterministic co-model runtime for Hikmah Stack |
-| 2026-10-13 15:18:05 | [proxima-clock](https://crates.io/crates/proxima-clock) | 0.1.0 | 0 | Hardware-clock source polymorphism as pipes: tick sources, wall-clock anchoring… |
-| 2026-10-13 15:18:22 | [harvest-camel](https://crates.io/crates/harvest-camel) | 0.1.0 | 0 | Bridge rust-camel's connectors and routing into autumn-harvest's durable workfl… |
-| 2026-10-13 15:19:12 | [margaret_oauth_client](https://crates.io/crates/margaret_oauth_client) | 0.5.0 | 0 | Declares how an application authenticates as a client of an OAuth authorization… |
-| 2026-10-13 15:21:34 | [momo-cli](https://crates.io/crates/momo-cli) | 0.2.0 | 0 | A standalone, monorepo-aware CLI that turns a project's accumulated changes int… |
-| 2026-10-13 15:21:38 | [exact_minor](https://crates.io/crates/exact_minor) | 0.1.0 | 0 | The raw minor-unit integer and its checked/saturating arithmetic — the base typ… |
-| 2026-10-13 15:21:39 | [exact_round](https://crates.io/crates/exact_round) | 0.1.0 | 0 | Rounding modes, including banker's rounding, and the default rounding policy fo… |
-| 2026-10-13 15:21:39 | [exact_scale](https://crates.io/crates/exact_scale) | 0.1.0 | 0 | Scale-factor math and the declared value ceiling for the exact fixed-point mone… |
-| 2026-10-13 15:21:42 | [exact_kind](https://crates.io/crates/exact_kind) | 0.1.0 | 0 | Money, Qty, and Price — the conserved fixed-point value types at the core of th… |
-| 2026-10-13 15:21:43 | [exact_sign](https://crates.io/crates/exact_sign) | 0.1.0 | 0 | Sign classification and the negative-value admission policy for the exact fixed… |
+| 2026-10-13 15:27:45 | [joinrift-livekit](https://crates.io/crates/joinrift-livekit) | 0.9.5 | 0 | LiveKit's Rust client SDK 0.9.5 with stereo publishing, packaged for Rift (unof… |
+| 2026-10-13 15:28:07 | [proxima-telemetry](https://crates.io/crates/proxima-telemetry) | 0.1.0 | 0 | Core-native telemetry for proxima: traces, metrics, logs, events |
+| 2026-10-13 15:30:25 | [rift-bot](https://crates.io/crates/rift-bot) | 0.1.0 | 0 | Write a bot for Rift in Rust: commands, replies, live panels, DMs, and voice |
+| 2026-10-13 15:30:27 | [exact_add](https://crates.io/crates/exact_add) | 0.1.0 | 0 | Checked and saturating add/subtract for exact's Money, Qty, and Price fixed-poi… |
+| 2026-10-13 15:31:08 | [bramley-engine](https://crates.io/crates/bramley-engine) | 0.1.0 | 0 | Playback engine that runs Apple's MusicKit JS in an embedded JavaScript runtime… |
+| 2026-10-13 15:31:11 | [margaret_oauth_vocabulary_codegen](https://crates.io/crates/margaret_oauth_vocabulary_codegen) | 0.5.0 | 0 | Reads the OAuth 2.0 vocabulary that Margaret attributes name as typed framework… |
+| 2026-10-13 15:31:12 | [margaret_sql](https://crates.io/crates/margaret_sql) | 0.5.0 | 0 | Renders the typed Postgres statements of the Margaret active record. |
+| 2026-10-13 15:31:50 | [bevy_elements](https://crates.io/crates/bevy_elements) | 0.1.0 | 0 | Living environments for Bevy: sun, moon and stars, climate-driven weather, GPU… |
+| 2026-10-13 15:33:50 | [exact_bytes](https://crates.io/crates/exact_bytes) | 0.1.0 | 0 | A fixed-width wire encoding and its to/from conversions for exact's Money, Qty,… |
+| 2026-10-13 15:34:42 | [seeitlive-sdk](https://crates.io/crates/seeitlive-sdk) | 0.1.0 | 0 | Official SeeItLive SDK for Rust |
+| 2026-10-13 15:37:29 | [simusa-py](https://crates.io/crates/simusa-py) | 1.10.0 | 0 | SiMuSA is a simulator designed to abstract sensor measurements to facilitate th… |
+| 2026-10-13 15:38:05 | [proxima-prime](https://crates.io/crates/proxima-prime) | 0.1.0 | 0 | From-scratch per-core async runtime: bounded SPSC inbox, typed-future fast path… |
+| 2026-10-13 15:38:09 | [affinidi-messaging-mediator-types](https://crates.io/crates/affinidi-messaging-mediator-types) | 0.1.0 | 0 | Protocol types shared by the Affinidi Messaging Mediator and its clients (ACLs,… |
+| 2026-10-13 15:41:14 | [geomcore-viewer](https://crates.io/crates/geomcore-viewer) | 0.2.0 | 0 | Rust client for the geomcore-viewer live browser viewer (scene protocol v2). |
+| 2026-10-13 15:43:17 | [margaret_database](https://crates.io/crates/margaret_database) | 0.5.0 | 0 | The Postgres database a Margaret application declares, shared by the framework… |
+| 2026-10-13 15:43:57 | [exact_cmp](https://crates.io/crates/exact_cmp) | 0.1.0 | 0 | Comparison, equality, and min/max free functions for exact's Money, Qty, and Pr… |
+| 2026-10-13 15:46:26 | [bevy_laya](https://crates.io/crates/bevy_laya) | 0.1.1 | 0 | Asynchronous Laya inference for Bevy |
+| 2026-10-13 15:48:10 | [cargo-val](https://crates.io/crates/cargo-val) | 0.1.0 | 0 | A Proxima-based Cargo test runner, invoked as cargo val. |
+| 2026-10-13 15:48:44 | [viability-gate](https://crates.io/crates/viability-gate) | 0.3.0 | 0 | Offline, deterministic pre-submission checker for smart-contract audit findings… |
+| 2026-10-13 15:52:13 | [redup-servicekit](https://crates.io/crates/redup-servicekit) | 0.1.0 | 0 | Toolkit for Rust microservices: YAML configuration, JSON logging, Prometheus me… |
+| 2026-10-13 15:53:07 | [moodle-mcp](https://crates.io/crates/moodle-mcp) | 0.1.1 | 0 | Moodle MCP server in Rust — expose Moodle Web Services to MCP clients (student-… |
+| 2026-10-13 15:53:23 | [hoop-codec](https://crates.io/crates/hoop-codec) | 0.1.0 | 0 | SDK for hoop codec plug-ins: implement Codec, call export_codec!, build for was… |
+| 2026-10-13 15:53:47 | [exact_conserve](https://crates.io/crates/exact_conserve) | 0.1.0 | 0 | Conservation auditing — verify a batch of postings nets to zero — for exact's f… |
+| 2026-10-13 15:55:06 | [trunc-chunk](https://crates.io/crates/trunc-chunk) | 0.1.0 | 0 | Chunkers that split trunc's logical stream into blocks. |
+| 2026-10-13 15:55:07 | [trunc-hash](https://crates.io/crates/trunc-hash) | 0.1.0 | 0 | Hashing primitives for trunc: BLAKE3 (incl. Merkle tree), CRC32C, SHA-256. |
+| 2026-10-13 15:55:09 | [trunc-prof](https://crates.io/crates/trunc-prof) | 0.1.0 | 0 | A span profiler for trunc: Chrome trace export and a self-time summary. |
+| 2026-10-13 15:55:13 | [trunc-core](https://crates.io/crates/trunc-core) | 0.1.0 | 0 | trunc .trnc format types and encoders/decoders. Pure: no I/O. |
+| 2026-10-13 15:55:15 | [trunc-fs](https://crates.io/crates/trunc-fs) | 0.1.0 | 0 | Filesystem backend abstraction for trunc (Windows, Linux, generic). |
+| 2026-10-13 15:55:23 | [margaret_active_record](https://crates.io/crates/margaret_active_record) | 0.5.0 | 0 | Compile-time checked active record models of the Margaret application framework. |
+| 2026-10-13 16:03:49 | [exact_dust](https://crates.io/crates/exact_dust) | 0.1.0 | 0 | Split a fixed-point value into equal parts with an explicit leftover-remainder… |
+| 2026-10-13 16:04:42 | [announce-core](https://crates.io/crates/announce-core) | 0.1.0 | 0 | Definition-side machinery and callback/check helpers of announce (use `announce… |
+| 2026-10-13 16:04:53 | [announce-macros](https://crates.io/crates/announce-macros) | 0.1.0 | 0 | Proc macros of announce (use the `announce` crate instead) |
+| 2026-10-13 16:05:08 | [announce](https://crates.io/crates/announce) | 0.1.0 | 0 | Definition-side trampolines: make a definition known to proc macros in any crate |
+| 2026-10-13 16:05:17 | [announce-std](https://crates.io/crates/announce-std) | 0.1.0 | 0 | announce trampolines for std/core traits |
+| 2026-10-13 16:05:21 | [trunc-journal](https://crates.io/crates/trunc-journal) | 0.1.0 | 0 | Crash-safe preamble + two-slot checkpoint store for legacy archive consumption. |
+| 2026-10-13 16:07:35 | [margaret_model_facade](https://crates.io/crates/margaret_model_facade) | 0.5.0 | 0 | The framework facade that Margaret model crates generate their active record co… |
+| 2026-10-13 16:11:06 | [gcv](https://crates.io/crates/gcv) | 0.0.1 | 0 | A beautiful terminal resume renderer. Share your CV as a git repo. |
+| 2026-10-13 16:12:57 | [ice-rpc-nodejs](https://crates.io/crates/ice-rpc-nodejs) | 0.3.5 | 0 | Reusable Node.js (N-API) engine for ice-rpc: provides and consumes ice-rpc serv… |
+| 2026-10-13 16:13:51 | [exact_fmt](https://crates.io/crates/exact_fmt) | 0.1.0 | 0 | Display formatting and a no-allocation buffer-writing primitive for exact's fix… |
+| 2026-10-13 16:15:34 | [trunc-codec](https://crates.io/crates/trunc-codec) | 0.1.0 | 0 | Block codecs for trunc: store, lz4, zstd (with optional dictionary). |
 
 ## Data source
 
