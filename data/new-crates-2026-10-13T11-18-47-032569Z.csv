@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T10:20:32.442243Z,catalyser-derive,0.2.0,0,0,https://github.com/gouvinb/catalyser,A comprehensive collection of derive macros to simplify and enhance rust development.
+2026-10-13T10:20:35.655522Z,open-chess-fairplay,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/open-chess,"Post-game fair-play screening: engine accuracy, engine-match rate, move-time patterns and the training-app fingerprint, for human review"
+2026-10-13T10:20:52.844009Z,herdr-ahp,0.1.0,0,0,https://github.com/danielkov/herdr-ahp,Agent Hooks Protocol hook that reports agent state to HerdR
+2026-10-13T10:25:26.115945Z,suriconf,1.1.0-dev.2,0,0,https://github.com/CESNET/Suriconf,A tool for automating Suricata setup and configuration.
+2026-10-13T10:28:29.987647Z,gst-plugin-gphoto2,0.1.0,0,0,https://gitlab.freedesktop.org/fraxinas/gst-plugin-gphoto2,GStreamer plugin for capturing live view and still photos from libgphoto2 cameras
+2026-10-13T10:31:05.680067Z,open-chess-vision,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/open-chess,"Reads a chess position from a photo of a real board: a DINOv2 encoder with 64 square queries, run on CPU with candle on the server and in the browser (wasm) for the offline chess app. Clean-room impl…"
+2026-10-13T10:31:21.928837Z,agent-call,0.4.1,0,0,https://github.com/tidusvn05/agent-call,"Rust adapters for one-shot Claude, Codex, Devin, and OpenCode v2 CLI runs"
+2026-10-13T10:34:41.106682Z,binscout,0.1.0,0,0,https://github.com/mimi1vx/binscout,"Headless, agent-first binary analysis: functions, CFGs, xrefs, strings, and IR over a JSON CLI or MCP server"
+2026-10-13T10:37:45.754631Z,corex-core,0.6.0,0,0,https://github.com/sluisr/corex,"Core runtime, types, client, and multi-agent coordination engine for Corex"
+2026-10-13T10:38:06.126595Z,corex-tools,0.6.0,0,0,https://github.com/sluisr/corex,"Autonomous developer tools, diff patch engine, and system sandbox for Corex"
+2026-10-13T10:38:14.170059Z,claude-proxy-service,0.1.0,0,0,https://github.com/ruxwez/claude-proxy,Native service management for Claude Proxy
+2026-10-13T10:38:24.913921Z,corex-prompt,0.6.0,0,0,https://github.com/sluisr/corex,Adaptive system prompt generation and memory integration for Corex
+2026-10-13T10:38:41.252942Z,claude-proxy-cli,0.1.0,0,0,https://github.com/ruxwez/claude-proxy,Terminal interface and local service installer for Claude Proxy
+2026-10-13T10:38:51.644752Z,corex-tui,0.6.0,0,0,https://github.com/sluisr/corex,"High-performance Ratatui terminal user interface, mouse selection, and event loop for Corex"
+2026-10-13T10:39:20.723585Z,corex-cli,0.6.0,0,0,https://github.com/sluisr/corex,"Ultra-fast, native Rust autonomous AI coding agent for DeepSeek, Gemini, Claude, OpenAI & Local LLMs"
+2026-10-13T10:41:55.024501Z,miwa-cli,0.5.0,0,0,https://github.com/NikoSanko/miwa,doc / req / test の3層の仕様乖離（ドリフト）を検知する CLI
+2026-10-13T10:42:07.283948Z,open-chess-server,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/open-chess,"A Lichess-compatible chess server: the Board, Bot, Challenge and OAuth APIs on Postgres, with post-game fair-play screening"
+2026-10-13T10:44:41.163464Z,anomapay_erc20_witness,2.0.0-rc.1,0,0,https://github.com/anoma/anomapay-erc20-resource,Witness data and resource-logic constraints for the AnomaPay ERC20 transfer resource.
+2026-10-13T10:45:09.634587Z,anomapay_erc20_library,2.0.0-rc.1,0,0,https://github.com/anoma/anomapay-erc20-resource,"Host-side proving API for the AnomaPay ERC20 transfer resource, with the embedded RISC Zero guest ELF and ImageID."
+2026-10-13T10:45:33.320822Z,anomapay_emergency_migrating_erc20_witness,2.0.0-rc.1,0,0,https://github.com/anoma/anomapay-erc20-resource,"Witness data and resource-logic constraints for the AnomaPay ERC20 transfer resource, adding emergency migration support."
+2026-10-13T10:46:01.783542Z,anomapay_emergency_migrating_erc20_library,2.0.0-rc.1,0,0,https://github.com/anoma/anomapay-erc20-resource,Host-side proving API for the AnomaPay ERC20 transfer resource: emergency migration transaction builder and embedded guest ELF/ImageID.
+2026-10-13T10:48:10.386503Z,glacier-template,0.5.0,0,0,https://github.com/glacierlabsltd/glacier,"Glacier's template language: its parser, and what reloading templates in development needs."
+2026-10-13T10:49:23.052293Z,community-databricks-sdk-agentkit,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/databricks-rs,"Databricks `agentkit` API models and services (community-maintained, generated; use via community-databricks-sdk)"
+2026-10-13T10:59:29.022843Z,rcdu,0.2.0,0,0,https://github.com/aditya-gupta-dev/rcdu,Linux disk usage scanner and interactive browser
+2026-10-13T11:02:12.013666Z,open-chess-train,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/open-chess,"Distributed training for the open-chess engine: SPRT tests, SPSA tuning and self-play data, with results from many machines merged deterministically"
