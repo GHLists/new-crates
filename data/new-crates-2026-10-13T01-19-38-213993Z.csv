@@ -1,0 +1,11 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T00:35:45.26967Z,nautilus-coinapi,0.0.0,0,0,https://github.com/nautechsystems/nautilus_trader,Official NautilusTrader CoinAPI adapter crate bootstrap
+2026-10-13T00:36:14.126186Z,nautilus-finfeed,0.0.0,0,0,https://github.com/nautechsystems/nautilus_trader,Official NautilusTrader FinFeed adapter crate bootstrap
+2026-10-13T00:37:07.481832Z,intarsiaml,0.0.1,0,0,https://github.com/intarsiaml/intarsiaml,"Intarsia: a modular, pluggable inference engine (under development)."
+2026-10-13T00:40:11.32208Z,subako-function-sdk-macros,0.2.0,0,0,,The #[function] and package! macros of subako-function-sdk.
+2026-10-13T00:40:17.198303Z,subako-function-sdk,0.2.0,0,0,,"Write Subako function packages in Rust: typed functions become tools, and the program prints its own manifest."
+2026-10-13T00:51:25.940971Z,noised-lmots,0.1.0,0,0,https://github.com/NoisedLabs/noised,"LM-OTS (LMOTS_SHA256_N32_W4) one-time and LMS (LMS_SHA256_M32_H10) hash-based signatures, RFC 8554 parameter sets also listed in NIST SP 800-208, for Solana programs and clients"
+2026-10-13T00:51:29.429301Z,noised-rules,0.1.0,0,0,https://github.com/NoisedLabs/noised,"PXR1 launch rules and PXG1 autopilot graphs for Noised: allocation-free codecs, verifiers and evaluators shared by the on-chain programs and the clients"
+2026-10-13T01:17:05.981761Z,ob-serve-a-bowl,0.1.0,0,0,https://github.com/jameshuntt/ob-serve-a-bowl,"Observable wake runtime: a bit-packed wake key for hot-path routing, cold observers declared as field masks, profile-selected wake delivery, and a replayable event log."
+2026-10-13T01:17:57.094752Z,cellule-axum,0.2.0,0,0,https://github.com/crabbuild/cellule,Axum extractors and outcome-aware HTTP responses for Cellule applications
+2026-10-13T01:19:23.097526Z,rutie-derive,0.14.3,0,0,https://github.com/danielpclark/rutie,"The #[rubyclass], #[rubymethods], #[rubymodule], #[rubyfunction] and #[rubyerror] attributes for Rutie; use them through rutie's `derive` feature."

@@ -8,29 +8,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 00:19 UTC
+## Latest list — 2026-10-13 01:19 UTC
 
-New crates published between 2026-10-12 23:19 UTC and 2026-10-13 00:19 UTC.
+New crates published between 2026-10-13 00:19 UTC and 2026-10-13 01:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-13T00-19-33-934014Z.csv)
+[Full CSV](data/new-crates-2026-10-13T01-19-38-213993Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-12 23:20:56 | [t4a-cubek-convolution](https://crates.io/crates/t4a-cubek-convolution) | 0.3.0 | 0 | CubeK: Convolution Kernels |
-| 2026-10-12 23:31:08 | [t4a-cubek](https://crates.io/crates/t4a-cubek) | 0.3.0 | 0 | CubeK: CubeCL Kernels |
-| 2026-10-12 23:35:02 | [bunny-ui-preview-macros](https://crates.io/crates/bunny-ui-preview-macros) | 0.2.5 | 0 | The #[preview] attribute of bunny-ui — marks a function whose view Studio and `… |
-| 2026-10-12 23:35:22 | [bunny-ui-preview](https://crates.io/crates/bunny-ui-preview) | 0.2.5 | 0 | The preview wire and the preview scan of bunny-ui — what a preview host and the… |
-| 2026-10-12 23:38:29 | [catallaxy-gc](https://crates.io/crates/catallaxy-gc) | 0.1.1 | 0 | Parallel stop-the-world mark-sweep garbage collector for the Catallaxy language |
-| 2026-10-12 23:38:32 | [catallaxy-runtime](https://crates.io/crates/catallaxy-runtime) | 0.1.1 | 0 | Object model, NaN-boxed values and ownership states for the Catallaxy language |
-| 2026-10-12 23:38:36 | [catallaxy-vm](https://crates.io/crates/catallaxy-vm) | 0.1.1 | 0 | Register-based bytecode interpreter for the Catallaxy language |
-| 2026-10-12 23:38:41 | [catallaxy-compiler](https://crates.io/crates/catallaxy-compiler) | 0.1.1 | 0 | Parser, type checker and bytecode compiler for the Catallaxy language |
-| 2026-10-12 23:38:45 | [catallaxy-stdlib](https://crates.io/crates/catallaxy-stdlib) | 0.1.1 | 0 | Native standard library for the Catallaxy language |
-| 2026-10-12 23:44:33 | [catallaxy](https://crates.io/crates/catallaxy) | 0.1.1 | 0 | The Catallaxy programming language: a statically typed, Ruby-flavored language… |
-| 2026-10-12 23:45:09 | [ocserve-pty](https://crates.io/crates/ocserve-pty) | 0.2.0 | 0 | ocserve PTY session manager (terminal routes, freeze-parity) |
-| 2026-10-12 23:56:31 | [mp3-organizer](https://crates.io/crates/mp3-organizer) | 0.0.1 | 0 | Guesses the missing ID3 tags for artist, album and title from filename then mov… |
-| 2026-10-13 00:05:23 | [corifeu-config](https://crates.io/crates/corifeu-config) | 0.0.0 | 0 | Configuration model and loader for Corifeu. |
-| 2026-10-13 00:08:02 | [gdbm-native](https://crates.io/crates/gdbm-native) | 0.9.0 | 0 | Pure-Rust GDBM key/value database, file-compatible with C GDBM on every platform |
-| 2026-10-13 00:11:27 | [route-summarization](https://crates.io/crates/route-summarization) | 0.1.0 | 0 | Aggregate IPv4/IPv6 CIDR prefixes into their minimal covering set, with SPF ip4… |
+| 2026-10-13 00:35:45 | [nautilus-coinapi](https://crates.io/crates/nautilus-coinapi) | 0.0.0 | 0 | Official NautilusTrader CoinAPI adapter crate bootstrap |
+| 2026-10-13 00:36:14 | [nautilus-finfeed](https://crates.io/crates/nautilus-finfeed) | 0.0.0 | 0 | Official NautilusTrader FinFeed adapter crate bootstrap |
+| 2026-10-13 00:37:07 | [intarsiaml](https://crates.io/crates/intarsiaml) | 0.0.1 | 0 | Intarsia: a modular, pluggable inference engine (under development). |
+| 2026-10-13 00:40:11 | [subako-function-sdk-macros](https://crates.io/crates/subako-function-sdk-macros) | 0.2.0 | 0 | The #[function] and package! macros of subako-function-sdk. |
+| 2026-10-13 00:40:17 | [subako-function-sdk](https://crates.io/crates/subako-function-sdk) | 0.2.0 | 0 | Write Subako function packages in Rust: typed functions become tools, and the p… |
+| 2026-10-13 00:51:25 | [noised-lmots](https://crates.io/crates/noised-lmots) | 0.1.0 | 0 | LM-OTS (LMOTS_SHA256_N32_W4) one-time and LMS (LMS_SHA256_M32_H10) hash-based s… |
+| 2026-10-13 00:51:29 | [noised-rules](https://crates.io/crates/noised-rules) | 0.1.0 | 0 | PXR1 launch rules and PXG1 autopilot graphs for Noised: allocation-free codecs,… |
+| 2026-10-13 01:17:05 | [ob-serve-a-bowl](https://crates.io/crates/ob-serve-a-bowl) | 0.1.0 | 0 | Observable wake runtime: a bit-packed wake key for hot-path routing, cold obser… |
+| 2026-10-13 01:17:57 | [cellule-axum](https://crates.io/crates/cellule-axum) | 0.2.0 | 0 | Axum extractors and outcome-aware HTTP responses for Cellule applications |
+| 2026-10-13 01:19:23 | [rutie-derive](https://crates.io/crates/rutie-derive) | 0.14.3 | 0 | The #[rubyclass], #[rubymethods], #[rubymodule], #[rubyfunction] and #[rubyerro… |
 
 ## Data source
 
