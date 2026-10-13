@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T21:24:05.925441Z,clmp3,0.1.3,0,0,https://git.spasten.net/mitchi/CLMP3,Audioplayer that runs in a terminal
+2026-10-13T21:27:12.422883Z,getargs-derive-macros,0.1.0,0,0,https://github.com/AlixANNERAUD/getargs-derive,Internal implementation detail of getargs-derive. Not meant for direct use; depend on getargs-derive instead.
+2026-10-13T21:27:17.821309Z,getargs-derive,0.1.0,0,0,https://github.com/AlixANNERAUD/getargs-derive,"Clap-style #[derive] command-line argument parser for no_std and embedded Rust: zero allocation, compile-time help, subcommands. Built on getargs."
+2026-10-13T21:29:21.854836Z,proxima-intercept,0.1.0,0,0,https://github.com/brianbruggeman/proxima,"MITM interception pipe for proxima: TLS-terminating CONNECT proxy with per-host cert generation, pluggable request transforms; heavy TLS/cert-gen deps live here only (not in proxima-recording)"
+2026-10-13T21:31:08.219913Z,openscion-proto,0.2.1,0,0,https://github.com/tinyhumansai/openscion,"The OpenScion protocol: object identifiers, changeset and ref payloads, and the protocol version."
+2026-10-13T21:31:11.979113Z,openscion-core,0.2.1,0,0,https://github.com/tinyhumansai/openscion,"A server-centric, content-addressed source control engine for agent-scale monorepos."
+2026-10-13T21:31:15.634719Z,openscion,0.2.1,0,0,https://github.com/tinyhumansai/openscion,"scn, the OpenScion command-line client for server-centric, agent-scale source control."
+2026-10-13T21:39:24.354714Z,proxima-rekt,0.1.0,0,0,https://github.com/brianbruggeman/proxima,command your rest api to get wrecked — a load tester on proxima
+2026-10-13T21:41:18.114357Z,soroban-dependency-sentinel,0.1.0,0,0,https://github.com/developerfred/soroban-dependency-sentinel,Supply-chain security scanner for Soroban projects (CVE + pony factor + mitigation)
+2026-10-13T21:49:22.671079Z,proxima-mlir,0.1.0,0,0,https://github.com/brianbruggeman/proxima,Text-only MLIR interchange for the proxima tensor algebra: Linalg export and torch and StableHLO import over sans-IO pipes.
+2026-10-13T21:51:20.389082Z,vigilia-protocol,0.2.0,0,0,https://github.com/marti-jorda-roca/vigilia,"Vigilia wire protocol: requests, responses, events, client contexts and scopes"
+2026-10-13T21:51:23.886282Z,vigilia-core,0.2.0,0,0,https://github.com/marti-jorda-roca/vigilia,"Vigilia core: sessions, journal, config. No OS-specific code."
+2026-10-13T21:51:28.600999Z,vigilia-platform,0.2.0,0,0,https://github.com/marti-jorda-roca/vigilia,"Vigilia OS backends behind one Platform trait, plus a fake for tests"
+2026-10-13T21:51:32.596918Z,vigilia-daemon,0.2.0,0,0,https://github.com/marti-jorda-roca/vigilia,"The Vigilia service: dispatch, event bus, local transport"
+2026-10-13T21:51:36.537546Z,vigilia,0.2.0,0,0,https://github.com/marti-jorda-roca/vigilia,"Keep your laptop awake for a set time, from the terminal or from a coding agent"
+2026-10-13T21:51:50.997491Z,limn-dnd,0.1.39,0,0,https://github.com/Niiihuel/limn,File drag and drop with other applications for windows limn does not own (Wayland)
+2026-10-13T21:51:52.199847Z,limn-editor,0.1.39,0,0,https://github.com/Niiihuel/limn,Independent Unicode text buffer and viewport primitives
+2026-10-13T21:51:55.065197Z,limn-language,0.1.39,0,0,https://github.com/Niiihuel/limn,"Tree-sitter highlighting, Markdown analysis and a language server client for limn"
+2026-10-13T21:51:58.397427Z,limn,0.1.39,0,0,https://github.com/Niiihuel/limn,"Original retained-state UI tree, layout, events and backend-neutral drawing"
+2026-10-13T21:52:01.969891Z,limn-egui,0.1.39,0,0,https://github.com/Niiihuel/limn,egui/wgpu renderer and input adapter for limn frames
+2026-10-13T21:53:20.914109Z,mecha10-nodes-instance-track,0.6.5,0,0,https://github.com/mecha-industries/mecha10,"Visually follows (recenters) an operator-selected object - DeepSORT re-id against a dashboard-picked bbox, proportional cmd_vel control, only while behavior-executor has the instance-track behavior a…"
+2026-10-13T22:00:18.839779Z,bourbaki-engine,0.2.1,0,0,https://github.com/mathink-way/bourbaki-engine,A proof checker for Bourbaki's Theory of Sets: proofs are written the way the book writes them and checked down to the axioms
+2026-10-13T22:04:41.636665Z,embedded-i18n-macros,0.1.0,0,0,https://github.com/AlixANNERAUD/embedded-i18n,Internal implementation detail of embedded-i18n. Not meant for direct use; depend on embedded-i18n instead.
+2026-10-13T22:04:44.635346Z,embedded-i18n,0.1.0,0,0,https://github.com/AlixANNERAUD/embedded-i18n,"Compile-time i18n for embedded and no_std Rust: translations from JSON, YAML, TOML, gettext PO/MO or Fluent files compiled into ROM literals, with plurals, context, fallbacks and no allocator."
+2026-10-13T22:08:25.243342Z,frus-cli,0.3.0,0,0,https://github.com/KalybosPro/frus,"frus — the command-line tool: `frus create` starts an application for desktop, Android and the web"
+2026-10-13T22:09:06.867331Z,energyml-build-derive,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Derive macros for energyml-build operations: typed parameters, choices and inputs, declared once."
+2026-10-13T22:09:07.542097Z,energyml-derive,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,Derive macros turning generator-emitted structs into EnergyML XML/JSON/reflection/validation implementations.
+2026-10-13T22:09:08.259431Z,energyml-geostat,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Domain-neutral interpolation and meshing algorithms (IDW, kriging, RBF, MBA, triangulation, iso-contours, ...). Depends on no EnergyML crate."
+2026-10-13T22:09:08.90635Z,energyml-log,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Installs the one tracing subscriber a face needs: off by default, to stderr, switchable while the program runs."
+2026-10-13T22:09:09.393422Z,energyml-rules,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"The house rules: what this library decides where the specification is silent, ambiguous or interpreted - a registry any crate can cite, no runtime dependency."
