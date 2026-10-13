@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T04:19:26.048773Z,magic_sync_derive,0.1.0,0,0,https://github.com/rsansores/magic_sync,"#[derive(Row)] for magic_sync: one struct is one table, and says how it travels"
+2026-10-13T04:19:29.175144Z,magic_sync,0.1.0,0,0,https://github.com/rsansores/magic_sync,"Keeps partial copies of PostgreSQL tables on SQLite replicas — offline-first, by comparing what each replica holds with what it should hold"
+2026-10-13T04:23:19.362781Z,poppy-core,0.6.0,0,0,https://github.com/kuntal-devrat/poppy,"Foundational types for the Poppy media pipeline: packets, timestamps, codec configs"
+2026-10-13T04:23:36.935579Z,poppy-h264,0.6.0,0,0,https://github.com/kuntal-devrat/poppy,Minimal H.264 bitstream parser for hardware decoder configuration in Project Poppy
+2026-10-13T04:23:54.130546Z,poppy-hevc,0.6.0,0,0,https://github.com/kuntal-devrat/poppy,"High-performance H.265 / HEVC bitstream parser (VPS, SPS, PPS, Slice) for hardware decoding in Project Poppy"
+2026-10-13T04:24:08.31708Z,okbase-standard,0.2.3,0,0,https://github.com/tidusvn05/okbase,"okbase quality levels (L0-L3), foreign frontmatter mapping and tag vocabulary."
+2026-10-13T04:24:11.331627Z,poppy-av1,0.6.0,0,0,,Pure Rust bitstream parser for AV1 Open Bitstream Units (OBUs)
+2026-10-13T04:24:28.609579Z,poppy-vp9,0.6.0,0,0,,Pure Rust bitstream parser for VP9 uncompressed frame headers and superframes
+2026-10-13T04:26:05.751484Z,sapphire-framework-frontmatter,0.17.0,0,0,https://github.com/fluo10/sapphire-framework,"YAML front matter for Markdown files: split, parse, render, and edit one key in place"
+2026-10-13T04:28:23.704783Z,poppy-demux,0.6.0,0,0,https://github.com/kuntal-devrat/poppy,Pure safe-Rust container demuxers (MP4/ISOBMFF and MKV/EBML) for the Poppy media pipeline
+2026-10-13T04:34:22.206266Z,okbase-index,0.2.3,0,0,https://github.com/tidusvn05/okbase,"Incremental SQLite index (metadata, links, chunks, FTS) for okbase bundles."
+2026-10-13T04:36:17.910799Z,nova-diagnostics,0.3.0,0,0,https://github.com/Sakeerin/nova,The Nova language's diagnostics (internal to the nova toolchain)
+2026-10-13T04:36:19.941437Z,nova-std,0.3.0,0,0,https://github.com/Sakeerin/nova,The Nova language's standard library sources (internal to the nova toolchain)
+2026-10-13T04:36:22.250259Z,nova-ast,0.3.0,0,0,https://github.com/Sakeerin/nova,The Nova language's syntax tree (internal to the nova toolchain)
+2026-10-13T04:36:27.575227Z,nova-lexer,0.3.0,0,0,https://github.com/Sakeerin/nova,The Nova language's lexer (internal to the nova toolchain)
+2026-10-13T04:36:33.358266Z,nova-runtime,0.3.0,0,0,https://github.com/Sakeerin/nova,The Nova language's runtime: garbage collector and async executor (internal to the nova toolchain)
+2026-10-13T04:38:23.080467Z,poppy-audio,0.6.0,0,0,https://github.com/kuntal-devrat/poppy,Pure-Rust Symphonia-backed audio decoders and cpal playback sink for Poppy
+2026-10-13T04:40:48.628571Z,studio,0.0.1,0,0,https://github.com/FastTrackStudios/studio,"FastTrackStudio's audio production engine: an embeddable DAW engine, project files, DSP and effects (name reserved; the crate is in development)"
+2026-10-13T04:41:49.221122Z,figgy-model,0.10.0,0,0,https://github.com/shim9610/figgy,"figgy chart model — option SSoT, interaction contracts, preset policies."
+2026-10-13T04:44:21.223685Z,figgy-renderer,0.16.1,0,0,https://github.com/shim9610/figgy,Native Rust chart renderer combining wgpu data rendering with CPU-rasterized axes and text.
+2026-10-13T04:44:36.039005Z,okbase-lint,0.2.3,0,0,https://github.com/tidusvn05/okbase,Lint rule engine and okbase standard rules (L0-L3).
+2026-10-13T04:47:37.130902Z,nova-parser,0.3.0,0,0,https://github.com/Sakeerin/nova,The Nova language's parser (internal to the nova toolchain)
+2026-10-13T04:48:34.095623Z,quiver-vector-server,0.2.0,0,0,https://github.com/uppalasrichaitanya/Quiver,REST API server for the Quiver vector search engine
+2026-10-13T04:48:39.508676Z,poppy-hw,0.6.0,0,0,https://github.com/kuntal-devrat/poppy,Hardware decoder abstraction layer for the Poppy media pipeline
+2026-10-13T04:49:16.43021Z,recipe-session,0.1.0,0,0,https://github.com/jameshuntt/recipe-session,Generic recipe-backed ingress/egress session contract primitives.
+2026-10-13T04:49:18.395711Z,file_recipe,0.1.0,0,0,https://github.com/jameshuntt/file_recipe,Recipe-driven materialization of named file objects from raw bytes and structured fields.
+2026-10-13T04:54:50.827484Z,okbase-query,0.2.3,0,0,https://github.com/tidusvn05/okbase,"Read APIs for okbase bundles: grep, get, list, query, catalog, stats."
+2026-10-13T04:58:30.692359Z,poppy-render,0.6.0,0,0,https://github.com/kuntal-devrat/poppy,Zero-copy GPU interop bridges (DMA-BUF to Vulkan/OpenGL) for Project Poppy
+2026-10-13T04:58:42.172562Z,nova-pm,0.3.0,0,0,https://github.com/Sakeerin/nova,The Nova language's package manager (internal to the nova toolchain)
+2026-10-13T05:00:15.656327Z,adotenv,0.1.0,0,0,https://github.com/asamarts/adotenv,"A tooling-grade .env parser: literal values (no variable expansion), exact byte spans, and edits that leave the rest of the file untouched."
+2026-10-13T05:00:27.82965Z,yog-kit,0.1.0,0,0,https://github.com/F000NKKK/Yog-Mod-Loader,"Yog MVVM UI framework — view models, compiled .yui bindings, lists, focus and navigation for Yog mod screens"
+2026-10-13T05:00:37.87565Z,stable_digest,0.1.0,0,0,https://github.com/jameshuntt/stable_digest,"Stable, dependency-light, no_std SHA-256 content digest rendered as lowercase hex."
+2026-10-13T05:01:21.088859Z,talos-cloud-types,0.1.3,0,0,,Shared protocol DTOs for Talos Cloud clients
+2026-10-13T05:03:07.891776Z,quiver-vector-py,0.2.0,0,0,https://github.com/uppalasrichaitanya/Quiver,Python bindings for the Quiver vector search engine
+2026-10-13T05:03:11.466727Z,talos-cloud-sdk,0.1.3,0,0,,Rust HTTP client for Talos Cloud
+2026-10-13T05:03:43.014445Z,oanda-client,1.0.0,0,0,https://github.com/SharurTrading/oanda-rs,"An async, provider-native Rust client for OANDA's v20 REST API"
+2026-10-13T05:05:04.866124Z,okbase-adopt,0.2.3,0,0,https://github.com/tidusvn05/okbase,"Turn plain markdown folders (Obsidian, Docusaurus, Hugo, Mintlify, MkDocs) into okbase/OKF bundles."
+2026-10-13T05:09:27.309776Z,xdp-guard-common,0.2.1,0,0,https://github.com/rahadbhuiya/xdp-guard,Common data structures and rule definitions for xdp-guard high-performance eBPF/XDP firewall
+2026-10-13T05:09:46.185458Z,nova-fmt,0.3.0,0,0,https://github.com/Sakeerin/nova,The Nova language's formatter (internal to the nova toolchain)
+2026-10-13T05:09:51.043935Z,xdp-guard,0.2.1,0,0,https://github.com/rahadbhuiya/xdp-guard,High-performance eBPF/XDP packet filter and DDoS mitigation CLI and daemon
+2026-10-13T05:10:47.819812Z,libsubatomic-kuchiyose,1.1.1,0,0,https://github.com/FyraLabs/subatomic,Wrappers and utilities for libsubatomic
+2026-10-13T05:12:20.379192Z,libsubatomic,1.1.1,0,0,https://github.com/FyraLabs/subatomic,Handle RPM repository metadata
+2026-10-13T05:13:19.752776Z,kiritan,1.1.1,0,0,https://github.com/FyraLabs/subatomic,Next-generation modern RPM repository metadata generator
+2026-10-13T05:13:40.41618Z,satm,1.1.0,0,0,https://github.com/FyraLabs/subatomic,CLI web client for subatomic-server
+2026-10-13T05:15:19.278716Z,okbase-search,0.2.3,0,0,https://github.com/tidusvn05/okbase,Semantic search and retrieval for okbase bundles (needs an embedder from okbase-embed).
+2026-10-13T05:17:35.55935Z,srmw-sendable,0.2.0,0,0,https://github.com/pop-os/srmw,"Asynchronous single-reader, multi-writer"
+2026-10-13T05:19:29.675892Z,subatomic-server,1.1.2,0,0,https://github.com/FyraLabs/subatomic,Modern package delivery system for RPMs
