@@ -8,61 +8,67 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 20:18 UTC
+## Latest list — 2026-10-13 21:20 UTC
 
-New crates published between 2026-10-13 19:21 UTC and 2026-10-13 20:18 UTC.
+New crates published between 2026-10-13 20:18 UTC and 2026-10-13 21:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-13T20-18-31-946701Z.csv)
+[Full CSV](data/new-crates-2026-10-13T21-20-47-293815Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-13 19:24:03 | [exchange_rest](https://crates.io/crates/exchange_rest) | 0.1.0 | 0 | Rest, cancel, replace — the three non-matching ways an order moves on the book |
-| 2026-10-13 19:28:06 | [fluxion-dsp](https://crates.io/crates/fluxion-dsp) | 0.3.0 | 0 | Differentiable, cross-vendor, framework-agnostic audio DSP with a functional gr… |
-| 2026-10-13 19:29:22 | [tactile-keys](https://crates.io/crates/tactile-keys) | 0.1.1 | 0 | On-screen overlay of pressed keys for Hyprland |
-| 2026-10-13 19:29:22 | [proxima-tensor](https://crates.io/crates/proxima-tensor) | 0.1.0 | 0 | Tensor vocabulary as a reified pipe graph: three generators (zip/fold/block) ov… |
-| 2026-10-13 19:31:39 | [benlik](https://crates.io/crates/benlik) | 0.1.0 | 0 | Benlik Card: an application's signed self-description for AI agents. JSON Schem… |
-| 2026-10-13 19:31:44 | [sezgi](https://crates.io/crates/sezgi) | 0.0.1 | 0 | Sezgi: wraps any application into a single API for AI agents and writes its Ben… |
-| 2026-10-13 19:32:27 | [margaret_authorization_grants](https://crates.io/crates/margaret_authorization_grants) | 0.5.0 | 0 | The authorization codes, refresh token families and pending consents an applica… |
-| 2026-10-13 19:33:53 | [exchange_snap](https://crates.io/crates/exchange_snap) | 0.1.0 | 0 | Plain, copied snapshot rows of the resting book |
-| 2026-10-13 19:35:48 | [anykms-core](https://crates.io/crates/anykms-core) | 0.1.0 | 0 | Core traits and types for anykms: capability traits on KMS key handles |
-| 2026-10-13 19:36:00 | [carapace-rs-shlex](https://crates.io/crates/carapace-rs-shlex) | 0.0.3 | 0 | Shell lexing for completion: tokenizing, partial tokens, insertion quoting |
-| 2026-10-13 19:36:16 | [anykms-http](https://crates.io/crates/anykms-http) | 0.1.0 | 0 | HTTP plumbing shared by the anykms backends (TLS provider selection, no-redirec… |
-| 2026-10-13 19:36:42 | [anykms-recipes](https://crates.io/crates/anykms-recipes) | 0.1.0 | 0 | Portable recipes over anykms key handles: envelope encryption, emulated data ke… |
-| 2026-10-13 19:36:57 | [carapace-rs-spec](https://crates.io/crates/carapace-rs-spec) | 0.0.3 | 0 | YAML spec support for carapace |
-| 2026-10-13 19:37:15 | [anykms-conformance](https://crates.io/crates/anykms-conformance) | 0.1.0 | 0 | Shared conformance suite that every anykms backend runs |
-| 2026-10-13 19:37:30 | [anykms-aws](https://crates.io/crates/anykms-aws) | 0.1.0 | 0 | AWS KMS backend for anykms |
-| 2026-10-13 19:38:03 | [loftspec](https://crates.io/crates/loftspec) | 2.0.0 | 0 | The Loft Specification Format: document model, identity, canonical bytes, hashi… |
-| 2026-10-13 19:38:06 | [loftspec-store](https://crates.io/crates/loftspec-store) | 2.0.0 | 0 | Memory and file stores for Loft Specification Format documents |
-| 2026-10-13 19:38:08 | [loft-cli](https://crates.io/crates/loft-cli) | 2.0.0 | 0 | The loft command line: author, check, format, render and publish a specificatio… |
-| 2026-10-13 19:38:17 | [kentron](https://crates.io/crates/kentron) | 0.11.1 | 0 | A boundary-representation CAD kernel: solids over exact curves and surfaces, wi… |
-| 2026-10-13 19:38:22 | [fluxion-dsp-cli](https://crates.io/crates/fluxion-dsp-cli) | 0.3.0 | 0 | Fluxion: a modern, SoX-style command-line interface for audio DSP. |
-| 2026-10-13 19:39:34 | [proxima-onnx](https://crates.io/crates/proxima-onnx) | 0.1.0 | 0 | Sans-IO ONNX model parser and Op lowering: hand-rolled protobuf message decode… |
-| 2026-10-13 19:40:22 | [carapace-rs-bridge](https://crates.io/crates/carapace-rs-bridge) | 0.0.3 | 0 | Bridge external completion frameworks into carapace |
-| 2026-10-13 19:40:25 | [carapace-rs-clap](https://crates.io/crates/carapace-rs-clap) | 0.0.3 | 0 | carapace completion for clap-based Rust CLIs |
-| 2026-10-13 19:40:26 | [carapace-rs-testkit](https://crates.io/crates/carapace-rs-testkit) | 0.0.3 | 0 | Sandbox test harness for carapace completions |
-| 2026-10-13 19:43:59 | [exchange_spec](https://crates.io/crates/exchange_spec) | 0.1.0 | 0 | Tick, lot, the asset pair, and the halt flag on one instrument |
-| 2026-10-13 19:44:21 | [margaret_client_assertions](https://crates.io/crates/margaret_client_assertions) | 0.5.0 | 0 | The client assertions a Margaret provider remembers so that none is accepted tw… |
-| 2026-10-13 19:49:21 | [proxima-vm](https://crates.io/crates/proxima-vm) | 0.1.0 | 0 | Minimal VM-backed proxima Pipe proof surface for scratch guests over KVM or Hyp… |
-| 2026-10-13 19:54:01 | [exchange_halt](https://crates.io/crates/exchange_halt) | 0.1.0 | 0 | halt_set/halt_clear/halt_is — an on/off switch for matching alone |
-| 2026-10-13 19:54:28 | [ostrya-fetch](https://crates.io/crates/ostrya-fetch) | 0.3.0 | 0 | Async HTTP/1.1 and HTTP/2 fetcher for ostrya, with TLS over rustls |
-| 2026-10-13 19:54:28 | [ostrya-sign](https://crates.io/crates/ostrya-sign) | 0.3.0 | 0 | Signing and verifying engines for ostrya: dummy, ed25519, spki, and GPG through… |
-| 2026-10-13 19:54:29 | [ostrya-remote](https://crates.io/crates/ostrya-remote) | 0.3.0 | 0 | The push and pull protocol of ostrya: the wire codec, the push client session,… |
-| 2026-10-13 19:54:33 | [ostrya-server](https://crates.io/crates/ostrya-server) | 0.3.0 | 0 | HTTP server of ostrya: the archive view of a repository for pull, and the recei… |
-| 2026-10-13 19:54:37 | [anykms-azure](https://crates.io/crates/anykms-azure) | 0.1.0 | 0 | Azure Key Vault and Managed HSM backend for anykms |
-| 2026-10-13 19:54:52 | [anykms-gcp](https://crates.io/crates/anykms-gcp) | 0.1.0 | 0 | Google Cloud KMS backend for anykms |
-| 2026-10-13 19:56:06 | [margaret_accepted_clients](https://crates.io/crates/margaret_accepted_clients) | 0.5.0 | 0 | Registers and authenticates the OAuth clients a Margaret OpenID Connect provide… |
-| 2026-10-13 19:59:24 | [proxima-lib](https://crates.io/crates/proxima-lib) | 0.1.0 | 0 | A sans-IO core where everything is a Pipe — one async In -> Result<Out, Err> tr… |
-| 2026-10-13 20:03:50 | [exchange_types](https://crates.io/crates/exchange_types) | 0.1.0 | 0 | Exact notionals and order obligations for the exchange |
-| 2026-10-13 20:04:23 | [anykms-local](https://crates.io/crates/anykms-local) | 0.1.0 | 0 | In-process software backend for anykms, for tests and development only |
-| 2026-10-13 20:07:12 | [har-sanitizer](https://crates.io/crates/har-sanitizer) | 0.1.0 | 0 | Redact cookies, tokens, and secrets from HAR files before you share them. Fast… |
-| 2026-10-13 20:07:52 | [margaret_sessions](https://crates.io/crates/margaret_sessions) | 0.5.0 | 0 | The first-party browser sessions a Margaret token issuer starts, refreshes and… |
-| 2026-10-13 20:09:21 | [proxima-mil](https://crates.io/crates/proxima-mil) | 0.1.0 | 0 | Sans-IO Core ML ML Program writer: the MIL protobuf encoder, weight blob writer… |
-| 2026-10-13 20:10:28 | [caress](https://crates.io/crates/caress) | 0.1.0 | 0 | shell completions and man pages for pound commands |
-| 2026-10-13 20:13:00 | [strsimpy-rust-core](https://crates.io/crates/strsimpy-rust-core) | 0.2.1 | 0 | Pure-Rust string-similarity core (rustsmith Stage-1 mirror of luozhouyang/pytho… |
-| 2026-10-13 20:13:34 | [charset-normalizer-core](https://crates.io/crates/charset-normalizer-core) | 3.5.1 | 0 | Pure-Rust charset detection core (rustsmith Stage-1 mirror of Ousret/charset_no… |
-| 2026-10-13 20:13:58 | [packaging-rust-core](https://crates.io/crates/packaging-rust-core) | 26.4.0 | 0 | Pure-Rust packaging core (rustsmith Stage-1 mirror of pypa/packaging); no Pytho… |
-| 2026-10-13 20:13:59 | [exchange_conserve](https://crates.io/crates/exchange_conserve) | 0.1.0 | 0 | A batch of fills nets to zero across its signed legs, or is refused as unbalanc… |
-| 2026-10-13 20:17:44 | [markdown-it-rust-core](https://crates.io/crates/markdown-it-rust-core) | 4.2.0 | 0 | Pure-Rust markdown-it core (rustsmith Stage-1 mirror of executablebooks/markdow… |
+| 2026-10-13 20:19:02 | [pyparsing-rust-core](https://crates.io/crates/pyparsing-rust-core) | 3.3.3 | 0 | Pure-Rust character-scan engine for pyparsing grammars (rustsmith Stage-1 mirro… |
+| 2026-10-13 20:19:09 | [yaml-rust-core](https://crates.io/crates/yaml-rust-core) | 6.0.2 | 0 | Pure-Rust YAML 1.1 scan/parse/emit engine (rustsmith Stage-1 mirror of yaml/pyy… |
+| 2026-10-13 20:19:21 | [proxima-safetensors](https://crates.io/crates/proxima-safetensors) | 0.1.0 | 0 | Sans-IO safetensors reader: header + tensor-directory FSM over chunked bytes, n… |
+| 2026-10-13 20:19:35 | [margaret_oidc_sign_in](https://crates.io/crates/margaret_oidc_sign_in) | 0.5.0 | 0 | Signs users in through an OpenID Connect provider with the authorization code f… |
+| 2026-10-13 20:21:47 | [anykms-transit](https://crates.io/crates/anykms-transit) | 0.1.0 | 0 | HashiCorp Vault and OpenBao transit backend for anykms |
+| 2026-10-13 20:22:09 | [anykms](https://crates.io/crates/anykms) | 0.1.0 | 0 | One interface for key-management services (Vault and OpenBao transit, AWS KMS,… |
+| 2026-10-13 20:22:55 | [nbv-core](https://crates.io/crates/nbv-core) | 0.1.3 | 0 | Neovim Notebooks core: lossless notebook model, structural editing with undo, p… |
+| 2026-10-13 20:22:56 | [nbv-nvim](https://crates.io/crates/nbv-nvim) | 0.1.3 | 0 | Neovim Notebooks: NvimClient boundary, grid model and cell buffer adapter |
+| 2026-10-13 20:22:58 | [nbv-tui](https://crates.io/crates/nbv-tui) | 0.1.3 | 0 | Neovim Notebooks: event loop, layout, navigation mode and drawing for the nvb t… |
+| 2026-10-13 20:23:00 | [nvb](https://crates.io/crates/nvb) | 0.1.3 | 0 | Edit Jupyter notebooks in the terminal with an embedded Neovim |
+| 2026-10-13 20:23:50 | [exchange_escrow](https://crates.io/crates/exchange_escrow) | 0.1.0 | 0 | The available/reserved balance partition, so an order cannot commit what it doe… |
+| 2026-10-13 20:26:42 | [terminal-games](https://crates.io/crates/terminal-games) | 0.1.0 | 0 | A tiny arcade for your terminal: Snake, Tetris, Breakout, Pong, 2048 and Minesw… |
+| 2026-10-13 20:27:26 | [bigwig](https://crates.io/crates/bigwig) | 0.1.0 | 0 | Read and write bigWig, wig and bedGraph files |
+| 2026-10-13 20:27:50 | [flashkraft-web](https://crates.io/crates/flashkraft-web) | 2.2.0 | 0 | FlashKraft — local drive & image inspector web dashboard (Topcoat) |
+| 2026-10-13 20:27:53 | [rston-proc](https://crates.io/crates/rston-proc) | 0.4.0 | 0 | Proc-macro helpers for rston |
+| 2026-10-13 20:27:57 | [rston](https://crates.io/crates/rston) | 0.4.0 | 0 | TON cells, BoC encoding, dictionaries, Merkle proofs, and blockchain models. |
+| 2026-10-13 20:28:56 | [fonts-rs-noto-emoji-color-noflags](https://crates.io/crates/fonts-rs-noto-emoji-color-noflags) | 0.5.0 | 0 | Noto Emoji COLRv1 (no flags) font integration for GTK 4 and pixel-drawing |
+| 2026-10-13 20:29:01 | [fonts-rs-noto-emoji-bitmap-flags](https://crates.io/crates/fonts-rs-noto-emoji-bitmap-flags) | 0.5.0 | 0 | Noto Emoji CBDT bitmap (with flags) font integration for GTK 4 and pixel-drawing |
+| 2026-10-13 20:29:07 | [fonts-rs-noto-emoji-bitmap-noflags](https://crates.io/crates/fonts-rs-noto-emoji-bitmap-noflags) | 0.5.0 | 0 | Noto Emoji CBDT bitmap (no flags) font integration for GTK 4 and pixel-drawing |
+| 2026-10-13 20:29:13 | [fonts-rs-noto-emoji](https://crates.io/crates/fonts-rs-noto-emoji) | 0.5.0 | 0 | Noto Emoji font integration for GTK 4 and pixel-drawing (variant umbrella) |
+| 2026-10-13 20:29:16 | [fonts-rs-blobmoji-glyphs](https://crates.io/crates/fonts-rs-blobmoji-glyphs) | 0.5.0 | 0 | Blobmoji single-codepoint SVG artwork (build resource) |
+| 2026-10-13 20:29:20 | [proxima-storage](https://crates.io/crates/proxima-storage) | 0.1.0 | 0 | Kernel-bypass storage as pipes: the prime-native NVMe queue-pair engine (nvme f… |
+| 2026-10-13 20:31:21 | [margaret_signing_keys](https://crates.io/crates/margaret_signing_keys) | 0.5.0 | 0 | The signing keys a Margaret application rolls, kept in its database. |
+| 2026-10-13 20:31:21 | [margaret_subject_token_exchange](https://crates.io/crates/margaret_subject_token_exchange) | 0.5.0 | 0 | Exchanges verified tokens of trusted issuers for local subjects under RFC 8693,… |
+| 2026-10-13 20:33:56 | [exchange_match](https://crates.io/crates/exchange_match) | 0.1.0 | 0 | The crossing engine — an incoming order against a book, producing trades |
+| 2026-10-13 20:34:00 | [multipart-rust-core](https://crates.io/crates/multipart-rust-core) | 0.0.32 | 0 | Pure-Rust multipart/querystring parsing core (rustsmith Stage-1 mirror of Klude… |
+| 2026-10-13 20:38:43 | [volvoxdb](https://crates.io/crates/volvoxdb) | 0.0.1 | 0 | VolvoxDB: the document database for AI agents. Coming soon. |
+| 2026-10-13 20:39:22 | [proxima-autograd](https://crates.io/crates/proxima-autograd) | 0.1.0 | 0 | Reverse-mode autodiff over a proxima-tensor program: an adjoint transform (Expr… |
+| 2026-10-13 20:40:53 | [tagteam-core](https://crates.io/crates/tagteam-core) | 20261013.2030.0 | 0 | Internal crate of tagteam: provider-neutral domain types and policy. No stable… |
+| 2026-10-13 20:41:04 | [tagteam-provider](https://crates.io/crates/tagteam-provider) | 20261013.2030.0 | 0 | Internal crate of tagteam: the Provider trait and the I/O primitives providers… |
+| 2026-10-13 20:41:15 | [tagteam-cc](https://crates.io/crates/tagteam-cc) | 20261013.2030.0 | 0 | Internal crate of tagteam: the Claude Code provider. No stable API. |
+| 2026-10-13 20:41:58 | [tagteam-engine](https://crates.io/crates/tagteam-engine) | 20261013.2030.0 | 0 | Internal crate of tagteam: the store, vault and provider-generic operations. No… |
+| 2026-10-13 20:42:01 | [lunita](https://crates.io/crates/lunita) | 0.1.0 | 0 | Stackless Lua VM in pure Rust, hardened for untrusted scripts (a fork of piccol… |
+| 2026-10-13 20:42:28 | [lunita-util](https://crates.io/crates/lunita-util) | 0.1.0 | 0 | Utilities for the `lunita` library |
+| 2026-10-13 20:42:34 | [joy-passphrase](https://crates.io/crates/joy-passphrase) | 0.3.0 | 0 | The strength of a passphrase in bits and five levels, from zxcvbn — one rule fo… |
+| 2026-10-13 20:42:49 | [tagteam](https://crates.io/crates/tagteam) | 20261013.2030.0 | 0 | Multi-account switcher for AI coding agent CLIs |
+| 2026-10-13 20:43:07 | [margaret_oidc_provider](https://crates.io/crates/margaret_oidc_provider) | 0.5.0 | 0 | Serves discovery, authorization, token, revocation, introspection and userinfo… |
+| 2026-10-13 20:43:42 | [bluesky-obfs](https://crates.io/crates/bluesky-obfs) | 0.1.1 | 0 | A traffic obfuscation tokio framed codec |
+| 2026-10-13 20:43:57 | [exchange_inbound](https://crates.io/crates/exchange_inbound) | 0.1.0 | 0 | InboundCmd over a ring_factory/ring_handle channel — many producers, one determ… |
+| 2026-10-13 20:48:35 | [jsonvet](https://crates.io/crates/jsonvet) | 2.0.0 | 0 | Checks JSON, JSONC, JSON5, HuJSON and JSON Lines for syntax errors and duplicat… |
+| 2026-10-13 20:48:40 | [jsonvet-cli](https://crates.io/crates/jsonvet-cli) | 2.0.0 | 0 | The jsonvet command: checks JSON, JSONC, JSON5, HuJSON and JSON Lines files. |
+| 2026-10-13 20:49:22 | [proxima-omega](https://crates.io/crates/proxima-omega) | 0.1.0 | 0 | MSL kernel emission from the proxima-tensor Nest descriptor — the emit half of… |
+| 2026-10-13 20:52:36 | [wild-vibes](https://crates.io/crates/wild-vibes) | 0.1.0 | 0 | Scoped dependency-contract checker for Rust/Cargo updates: extracts crate inven… |
+| 2026-10-13 20:53:48 | [exchange_core](https://crates.io/crates/exchange_core) | 0.1.0 | 0 | Order matching under price-time priority with escrow holds |
+| 2026-10-13 20:59:21 | [proxima-model-interop](https://crates.io/crates/proxima-model-interop) | 0.1.0 | 0 | Sans-IO GGUF <-> safetensors transform over the format's common denominator (na… |
+| 2026-10-13 21:01:16 | [gently-core](https://crates.io/crates/gently-core) | 0.1.0 | 0 | Core pipeline for gently: parse -> model -> layout -> render |
+| 2026-10-13 21:01:54 | [gently-cli](https://crates.io/crates/gently-cli) | 0.1.0 | 0 | CLI for gently: graph text in, rendered output out |
+| 2026-10-13 21:05:55 | [pma-core](https://crates.io/crates/pma-core) | 0.7.0 | 0 | pma's store, scanning, dispatch and workflows, and the Query/Action API its fro… |
+| 2026-10-13 21:05:58 | [pma-tui](https://crates.io/crates/pma-tui) | 0.7.0 | 0 | pma's terminal front end |
+| 2026-10-13 21:05:59 | [pma-web](https://crates.io/crates/pma-web) | 0.7.0 | 0 | pma's local web front end |
+| 2026-10-13 21:09:20 | [proxima-cli](https://crates.io/crates/proxima-cli) | 0.1.0 | 0 | Command-line interface for proxima: call, serve, describe, daemon control, hot-… |
+| 2026-10-13 21:15:08 | [plavno](https://crates.io/crates/plavno) | 0.1.0 | 0 | A lightweight Linux terminal music player with service waves and library shuffle |
+| 2026-10-13 21:19:23 | [proxima-centauri](https://crates.io/crates/proxima-centauri) | 0.1.0 | 0 | Sans-IO, no-alloc secure-channel state machines: IKE-style key agreement with m… |
 
 ## Data source
 
