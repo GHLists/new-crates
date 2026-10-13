@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T13:21:24.885961Z,pubunit,0.1.0,0,0,https://github.com/schryer/pubunit,"Exact, kind-aware checking and conversion of UCUM units, with base dimensions and quantity kinds declared as data."
+2026-10-13T13:25:26.702671Z,agent-frame,0.8.0,0,0,https://github.com/hartsock/newt-agent,"Derivation kernel: what a derived thing may assert, what it owes its source, and how far it may travel from that source before it stops being accountable."
+2026-10-13T13:25:54.960147Z,zruntime,0.1.0,0,0,https://github.com/z-galaxy/zruntime,A simple single-threaded Rust async runtime
+2026-10-13T13:25:57.63458Z,agent-toolchain,0.1.0,0,0,https://github.com/Gilamonster-Foundation/newt-agent,Portable toolchain adapters and authority contracts for agent harnesses
+2026-10-13T13:26:31.237556Z,newt-carried-tools,0.1.0,0,0,https://github.com/hartsock/newt-agent,Native command pack for Newt ambient shells
+2026-10-13T13:26:58.607592Z,pathland-core,0.1.0,0,0,https://github.com/PathlandDev/Pathland,"Pathland 16-byte opcode protocol: fixed-size opcodes, ring buffer, arena, events, and linear-memory layout (no_std)"
+2026-10-13T13:27:21.408697Z,pathland-engine,0.1.0,0,0,https://github.com/PathlandDev/Pathland,Pathland retained view tree + diff-based reactive emitter (moved out of pathland-core)
+2026-10-13T13:27:37.659879Z,newt-interaction,0.8.0,0,0,https://github.com/hartsock/newt-agent,"Renderer-neutral interaction protocol model for Newt Markup (epic #1803, slice A2)"
+2026-10-13T13:27:51.260917Z,pathland-view,0.1.0,0,0,https://github.com/PathlandDev/Pathland,Pathland SwiftUI-style view DSL: core components and chainable modifiers building a retained view tree (pathland_engine::Node)
+2026-10-13T13:28:07.793422Z,newt-launch,0.0.1-rc.1,0,0,https://github.com/hartsock/newt-agent,"The validated launch configuration a newt run started with: continuity mode, defaults, and a validation that fails startup rather than a check every call site must remember."
+2026-10-13T13:28:13.471016Z,pathland-core-transport,0.1.0,0,0,https://github.com/PathlandDev/Pathland,Pathland opcode transport: shared-memory ring (existing) + network batch encode/decode with time/size batching policy
+2026-10-13T13:28:36.184577Z,pathland-render-html,0.1.0,0,0,https://github.com/PathlandDev/Pathland,Pathland HTML renderer: maps opcode frames onto declarative HTML elements
+2026-10-13T13:29:17.656355Z,margaret_oidc_discovery,0.5.0,0,0,https://github.com/intentee/margaret,Locates and reads OpenID Provider metadata for the Margaret application framework.
+2026-10-13T13:30:32.644402Z,pax-codegen,0.39.1,0,0,https://github.com/paxproject/pax,Shared Pax source analysis and cartridge code generation
+2026-10-13T13:33:12.354851Z,newt-refactor-evidence,0.1.0,0,0,https://github.com/hartsock/newt-agent,Offline Rust syntax evidence for the refactor-run grader
+2026-10-13T13:34:11.514009Z,pax-host,0.39.1,0,0,,Native process entry and view mounting for Pax cartridges
+2026-10-13T13:39:03.759344Z,dekopon-fact-shared,0.1.0,0,0,https://github.com/johnproblems/dekopon-fact-memory,"Shared core for dekopon fact memory: JSONL event-log format, tokenizer, BM25 scoring, and cosine vector ranking."
+2026-10-13T13:39:06.140007Z,dekopon-provider-embed,0.1.0,0,0,https://github.com/johnproblems/dekopon-fact-memory,HTTP-only embed provider: one OpenAI-compatible /embeddings capability whose vectors pipe straight into facts. No storage.
+2026-10-13T13:39:21.705641Z,dekopon-provider-facts,0.1.0,0,0,https://github.com/johnproblems/dekopon-fact-memory,Storage-only fact memory: add/get/list/forget plus BM25-ranked keyword search and cosine vector search. Never touches HTTP.
+2026-10-13T13:41:27.048461Z,margaret_issuer_metadata,0.5.0,0,0,https://github.com/intentee/margaret,"Holds the discovered metadata of a token issuer, for the Margaret application framework."
+2026-10-13T13:41:27.804708Z,margaret_route_method,0.5.0,0,0,https://github.com/intentee/margaret,HTTP methods a Margaret route can respond to.
+2026-10-13T13:43:14.387711Z,pax-tokio,0.39.1,0,0,,Optional native Tokio service and scoped task adapter for Pax
+2026-10-13T13:44:19.202466Z,pax-web-async,0.39.1,0,0,,Optional browser future adapter for Pax application lifetimes
+2026-10-13T13:50:44.309399Z,subskribinto,0.2.0,0,0,https://github.com/virto-network/subskribinto,A temporary CLI-based utility to sign transactions on Kreivo using Signed extrinsics
+2026-10-13T13:53:39.195088Z,decane-sdk,0.8.0,0,0,https://github.com/Decane-io/decane-rust,Official Rust SDK for Decane — institutional liquidity rail for crypto settlement
+2026-10-13T13:53:48.842743Z,margaret_handler_error,0.5.0,0,0,https://github.com/intentee/margaret,Failures of the request handlers that the Margaret application framework serves.
+2026-10-13T13:57:40.565342Z,alun-db-build,0.3.0,0,0,,Alun DB build.rs helper: parse SQL migration files into a schema snapshot
+2026-10-13T13:57:44.748828Z,alun-db-core,0.3.0,0,0,,alun-db 核心类型与 trait 定义，零运行时、零驱动、零生态依赖
+2026-10-13T13:57:45.672262Z,jellysub,0.1.0,0,0,,A command-line tool to manage subtitles for video files.
+2026-10-13T13:58:12.761039Z,alun-db-macro,0.3.0,0,0,,alun-db 过程宏：Model、Row、TypeMapper 派生与 SQL 模板
+2026-10-13T13:58:19.309452Z,alun-db-sql,0.3.0,0,0,,alun-db SQL 渲染器与方言实现
+2026-10-13T14:02:07.919821Z,cudarc-fathomdb,0.19.10,0,0,https://github.com/coreyt/cudarc,FathomDB's fork of cudarc 0.19.10 (safe and minimal CUDA bindings); not the upstream crate. See FATHOMDB.md for the differences.
+2026-10-13T14:05:11.904899Z,alun-db-driver-mysql,0.3.0,0,0,,alun-db MySQL 驱动
+2026-10-13T14:05:57.638247Z,margaret_server_origin,0.5.0,0,0,https://github.com/intentee/margaret,Origins of the servers that the Margaret application framework serves.
+2026-10-13T14:08:02.722331Z,bevy_looking_glass,0.1.1,0,0,https://github.com/matsuvr/bevy-looking-glass-rs,"Direct Looking Glass display output for Bevy, using Rust and WESL without the Bridge SDK"
+2026-10-13T14:08:50.14946Z,bigseek,0.1.4,0,0,https://github.com/imba97/bigseek,"Bigram full-text search index with CJK support: compact binary format, native builder, WebAssembly runtime"
+2026-10-13T14:09:24.752202Z,corrie,0.5.1,0,0,https://github.com/mapriot/corrie,"Fast contour vector tiles: contour lines or a DEM to clustered PMTiles, built for world-scale layers"
+2026-10-13T14:10:53.375693Z,create-bevy-starter,0.1.0,0,0,https://github.com/Heryk13/create-bevy-starter,"Builds a new Bevy game from the bevy-starter template, from a few questions"
+2026-10-13T14:15:30.017382Z,alun-db-driver-postgres,0.3.0,0,0,,alun-db PostgreSQL 驱动
+2026-10-13T14:16:03.325716Z,flipper-platform,0.1.0,0,0,https://github.com/opetany93/flipper-platform-rs,"Safe, idiomatic Rust abstractions over the Flipper Zero firmware"
+2026-10-13T14:16:48.012332Z,husk-milter,0.1.0,0,0,https://gitlab.com/husk-project/husk-milter.git,Pass-through solution for automatic OpenPGP encryption of emails.
+2026-10-13T14:18:22.75946Z,margaret_sql_identifier,0.5.0,0,0,https://github.com/intentee/margaret,Quotes and qualifies the Postgres identifiers of a Margaret schema.
