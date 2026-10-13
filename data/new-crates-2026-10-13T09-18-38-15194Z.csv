@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T08:19:29.428223Z,tonic-metadata-parse,0.1.0,0,0,https://github.com/evilbluebeaver/tonic-metadata-parse,Typed metadata parsing for Tonic requests
+2026-10-13T08:24:29.927125Z,one-brackets,0.1.0,0,0,https://github.com/Toveal/one-brackets,"Reader and writer for the 1C:Enterprise bracket format: lossless tree, positions in errors, serde mapping"
+2026-10-13T08:25:31.073382Z,kicksdk,0.1.1,0,0,https://github.com/AnisAbdellatif/kicksdk,"Kick (kick.com) without the I/O: requests, response parsers, the realtime chat protocol and webhook verification"
+2026-10-13T08:25:34.974188Z,kicksdk-ffi,0.1.1,0,0,https://github.com/AnisAbdellatif/kicksdk,"kicksdk behind a C ABI: every function by name, JSON in and out (the Dart binding's native library)"
+2026-10-13T08:27:22.284915Z,uu_pwunconv,0.6.0,0,0,https://github.com/uutils/shadow,pwunconv ~ (shadow-rs) move password hashes from /etc/shadow back into /etc/passwd
+2026-10-13T08:29:21.542819Z,neco-eigensolve-certified,0.2.0,0,0,https://github.com/barineco/neco-algebra,certified forward-error bounds and frequency enclosures for generalized eigenvalue problems
+2026-10-13T08:30:30.456735Z,trit_engine,0.2.0,0,0,https://github.com/username/trit_engine,A high-performance vectorized trit-matrix engine for topological anomaly tracking and noise filtering.
+2026-10-13T08:36:17.365462Z,agd-core,0.0.1,0,0,https://github.com/johnnybravo-xyz/agd,Org-mode parsing and task operations for agd
+2026-10-13T08:36:59.938803Z,agd,0.0.1,0,0,https://github.com/johnnybravo-xyz/agd,"Local-first CLI for searching, reading, and managing org-mode files"
+2026-10-13T08:37:25.047609Z,uu_sg,0.6.0,0,0,https://github.com/uutils/shadow,sg ~ (shadow-rs) run a command with a different primary group
+2026-10-13T08:40:53.92314Z,ccxt-common,4.5.87,0,0,https://github.com/ccxt/ccxt,CCXT: CryptoCurrency eXchange Trading Library (Rust) – core engine runtime
+2026-10-13T08:47:20.795898Z,uu_vipw,0.6.0,0,0,https://github.com/uutils/shadow,vipw ~ (shadow-rs) edit the password or group file under a lock
+2026-10-13T08:49:04.653758Z,bxmap,0.9.4,0,0,https://github.com/N0moreher0/bxmap,"Fast streaming ASCII/UTF-16LE string extractor for raw binaries, firmware and memory dumps, with entropy, magic-bytes and noise filtering. Never loads the whole file into RAM."
+2026-10-13T08:55:17.63697Z,neco-arrangement2d,0.3.0,0,0,https://github.com/barineco/neco-cad,Two-dimensional curve arrangements
+2026-10-13T08:55:22.173586Z,neco-bezier,0.3.0,0,0,https://github.com/barineco/neco-cad,Exact evaluation of Bézier curves and surfaces over real algebraic coordinates
+2026-10-13T08:55:44.33486Z,neco-cad-import,0.3.0,0,0,https://github.com/barineco/neco-cad,Certified region import from mesh and analytic shells
+2026-10-13T08:55:48.202857Z,neco-tessellation,0.3.0,0,0,https://github.com/barineco/neco-cad,Analytic B-Rep tessellation
+2026-10-13T08:55:58.866098Z,neco-cad,0.3.0,0,0,https://github.com/barineco/neco-cad,"CAD engine API that builds boundary representations, tessellations, and meshes from algebraic regions"
+2026-10-13T08:57:34.729291Z,uu_vigr,0.6.0,0,0,https://github.com/uutils/shadow,vigr ~ (shadow-rs) edit the group file under a lock
+2026-10-13T09:06:17.84839Z,neco-cad-view,0.3.0,0,0,https://github.com/barineco/neco-cad,Versioned CAD view model and CPU reference projection
+2026-10-13T09:07:22.914914Z,uu_newgidmap,0.6.0,0,0,https://github.com/uutils/shadow,newgidmap ~ (shadow-rs) set the group ID mapping of a user namespace
+2026-10-13T09:18:09.120147Z,open-chess-core,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/open-chess,"Chess rules: legal moves, SAN, draw rules, Fischer clocks, PGN and Glicko-2, on the MIT cozy-chess move generator"
+2026-10-13T09:18:12.923633Z,open-chess-analysis,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/open-chess,"Pure-Rust chess search and training analysis: evaluation, multi-line search, win/draw/loss odds, plain-English move explanations, tactical motifs and opening names. No I/O, builds for wasm32"
+2026-10-13T09:18:17.218588Z,open-chess-ble,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/open-chess,"A small Bluetooth LE GATT client for chess boards: ATT over the kernel's L2CAP sockets, no D-Bus or system libraries"
+2026-10-13T09:18:19.317735Z,open-chess-dgt,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/open-chess,"The DGT electronic chessboard protocol (USB, serial and Bluetooth boards, the DGT3000 clock on the board's cable) without I/O, and turning board readings into moves"
+2026-10-13T09:18:26.073746Z,open-chess-centaur,0.1.0,0,0,https://github.com/OffeneDatenmodellierung/open-chess,"The DGT Centaur's board controller (serial protocol, LEDs, buttons) and following a game from occupancy alone"
