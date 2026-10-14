@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T03:26:44.761518Z,footfall_analysis,0.1.0,0,0,https://github.com/forest-rs/footfall,"Spans, frames, and per-frame counter changes from Footfall snapshots, live or from capture files."
+2026-10-14T03:37:02.682103Z,footfall_session_wtransport,0.1.0,0,0,https://github.com/forest-rs/footfall,"Serve Footfall sessions over local WebTransport, and discover, fetch, and subscribe to them."
+2026-10-14T03:38:40.811227Z,frc_autolog_macro,0.1.0,0,0,https://github.com/carsonetb/robot-rust,Proc-macros for the robot-rust project.
+2026-10-14T03:43:13.162117Z,xj_scanf_core,0.1.0,0,0,https://github.com/brk/xj_scanf/,Shared byte-oriented C scanning format parser and destination requirements
+2026-10-14T03:47:14.906307Z,footfall,0.1.0,0,0,https://github.com/forest-rs/footfall,"Low-overhead instrumentation with semantic attribution: one entry point for instrumenting, capturing, serving, and analyzing."
+2026-10-14T03:57:39.064084Z,footfall_cli,0.1.0,0,0,https://github.com/forest-rs/footfall,"The footfall command: record running sessions, watch them live, and ask why frames were slow or late."
+2026-10-14T04:03:28.15129Z,w1,0.1.1,0,0,https://github.com/krhougs/w1,"Wrap7501: makes TUI coding agents (Codex, OpenCode, Gemini, Copilot, ...) report status over OSC 7501"
+2026-10-14T04:05:57.872344Z,raw-files,0.1.0,0,0,https://github.com/kuolas/raw-files,"Pure-Rust camera RAW library: extracts embedded JPEG previews from Nikon NEF and Sony ARW files, with fuller RAW decoding planned"
+2026-10-14T04:09:48.346208Z,ptal,0.1.0,0,0,https://github.com/sleb/ptal,"Terminal tool for reviewing a single throwaway text file: comment in a TUI, resolve through a JSON CLI for agents."
+2026-10-14T04:13:09.607726Z,h11types,0.0.1,0,0,https://github.com/yaws-rs/h11spec,h11spec core types
+2026-10-14T04:14:29.372017Z,blueprint-h11spec,0.0.1,0,0,https://github.com/yaws-rs/h11spec,yaws h11spec blueprint
+2026-10-14T04:15:34.69915Z,aegis-netguard-protocol,0.1.0-alpha.1,0,0,https://github.com/NattawatRyu/aegis,Aegis wire protocol — the intent-only contract every crate depends on.
+2026-10-14T04:15:35.323382Z,aegis-netguard-telemetry,0.1.0-alpha.1,0,0,https://github.com/NattawatRyu/aegis,Aegis telemetry: records guard verdicts as features for the anomaly detector (pillar C) and as metrics for the harness.
+2026-10-14T04:15:38.587064Z,aegis-netguard-client-sdk,0.1.0-alpha.1,0,0,https://github.com/NattawatRyu/aegis,Aegis programmable bots — one honest driver plus one cheat per file — for exercising the server's defenses against yourself.
+2026-10-14T04:15:39.151416Z,aegis-netguard-detector,0.1.0-alpha.1,0,0,https://github.com/NattawatRyu/aegis,Aegis anomaly detector (pillar C): reads the telemetry stream and flags players whose behaviour no honest player produces.
+2026-10-14T04:15:39.590772Z,aegis-netguard-relay,0.1.0-alpha.1,0,0,https://github.com/NattawatRyu/aegis,Aegis relay: the only address clients ever see. Forwards to an origin whose address stays private.
