@@ -1,0 +1,54 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-13T22:18:51.69355Z,energyml-core,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Runtime support for generated EnergyML (eml/resqml/witsml/prodml) crates: XML/JSON serialization, reflection, validation and identifiers."
+2026-10-13T22:25:13.311992Z,krb5,0.2.0,0,0,https://github.com/ddalton/krb5,"Pure-Rust Kerberos 5: GSS-API acceptor and initiator, KDC client (AS/TGS), keytabs, RFC 3961/3962/8009 crypto and RFC 4121 Wrap/MIC"
+2026-10-13T22:27:31.283163Z,infrastore-tabular,0.15.0,0,0,https://github.com/NatLabRockies/infrastore,"The normalized, partitioned table layout infrastore exports to Parquet and SQLite"
+2026-10-13T22:28:54.725965Z,energyml-eml-2-0,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Rust bindings for eml 2.0, generated from the Energistics XSD schemas."
+2026-10-13T22:34:21.353144Z,lari,0.1.2,0,0,https://github.com/michael-raz/lari,A library for simulating Conway's Game of Life.
+2026-10-13T22:37:59.186095Z,tauri-plugin-vsk-store,0.2.0,0,0,https://github.com/Vasak-OS/tauri-plugin-vsk-store/,"Client for the VasakOS system store (vasak-accounts-sync): verified owner, sync status and change notices for Tauri applications"
+2026-10-13T22:38:52.170417Z,energyml-eml-2-1,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Rust bindings for eml 2.1, generated from the Energistics XSD schemas."
+2026-10-13T22:41:14.264271Z,ehabi,0.1.0,0,0,https://github.com/Fee0/ehabi,"Read, write and unwind with the Arm EHABI exception tables (.ARM.exidx and .ARM.extab)."
+2026-10-13T22:48:53.055262Z,energyml-eml-2-2,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Rust bindings for eml 2.2, generated from the Energistics XSD schemas."
+2026-10-13T22:50:02.459764Z,parse_clargs,0.1.0,0,0,https://github.com/Destwule/parse_clargs,A small command-line argument parser with typed values and auto-generated help text.
+2026-10-13T22:58:52.480585Z,energyml-eml-2-3,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Rust bindings for eml 2.3, generated from the Energistics XSD schemas."
+2026-10-13T23:08:51.807523Z,energyml-prodml-2-0,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Rust bindings for prodml 2.0, generated from the Energistics XSD schemas."
+2026-10-13T23:13:31.447405Z,photon-evt,0.1.0,0,0,https://github.com/photon-grove/evt,Event sourcing for Rust with DynamoDB and PostgreSQL event logs that are wire-compatible with the Go evt framework.
+2026-10-13T23:17:25.392027Z,allama-derive,0.1.0,0,0,https://github.com/sagikazarmark/allama,Derive macros for allama's typed decisions
+2026-10-13T23:17:38.908356Z,allama,0.1.0,0,0,https://github.com/sagikazarmark/allama,"Low-level, provider-agnostic LLM abstractions for Rust"
+2026-10-13T23:18:14.139945Z,allama-http,0.1.0,0,0,https://github.com/sagikazarmark/allama,HTTP transport seam for allama provider crates
+2026-10-13T23:18:44.10531Z,allama-conformance,0.1.0,0,0,https://github.com/sagikazarmark/allama,"Conformance contracts, fixture assertions, and a mock HTTP server for testing allama providers and wrappers"
+2026-10-13T23:18:53.423055Z,energyml-prodml-2-2,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Rust bindings for prodml 2.2, generated from the Energistics XSD schemas."
+2026-10-13T23:19:14.229272Z,allama-systemone,0.1.0,0,0,https://github.com/sagikazarmark/allama,"System One decision-model provider (TypeSafe, Ollama, gateways) for allama"
+2026-10-13T23:19:37.750363Z,altstream-api,0.1.1,0,0,https://github.com/soweli-Luna/altstream-api,Rust API wrapper for the alternative streaming platform AltStream Online
+2026-10-13T23:20:45.402858Z,pygments-rust-core,2.19.1,0,0,https://github.com/pygments/pygments,Pure-Rust text kernels for the pygments Stage-1 mirror (no Python dependency)
+2026-10-13T23:21:02.656603Z,bohmian-parquet-variant,60.0.0,0,0,https://github.com/bohmian-ai/arrow-rs,Apache Parquet Variant implementation in Rust (Bohmian fork of parquet-variant)
+2026-10-13T23:21:06.641709Z,bohmian-parquet-variant-json,60.0.0,0,0,https://github.com/bohmian-ai/arrow-rs,Apache Parquet Variant to/from JSON (Bohmian fork of parquet-variant-json)
+2026-10-13T23:21:11.395513Z,bohmian-parquet-variant-compute,60.0.0,0,0,https://github.com/bohmian-ai/arrow-rs,Apache Parquet Variant Batch Processing (Bohmian fork of parquet-variant-compute)
+2026-10-13T23:23:39.708728Z,allama-openai-compat,0.1.0,0,0,https://github.com/sagikazarmark/allama,Reusable OpenAI-compatible transport and normalization toolkit for allama providers
+2026-10-13T23:28:52.947712Z,energyml-prodml-2-3,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Rust bindings for prodml 2.3, generated from the Energistics XSD schemas."
+2026-10-13T23:31:02.905509Z,haul-core,0.2.0,0,0,https://github.com/jhofker/haul-for-plex,"Plex account sign-in, server discovery, library browsing and resumable downloads; the engine behind Haul for Plex"
+2026-10-13T23:31:11.5413Z,haul-web,0.2.0,0,0,https://github.com/jhofker/haul-for-plex,Web interface (axum + htmx) for Haul for Plex
+2026-10-13T23:31:19.993995Z,haul-for-plex,0.2.0,0,0,https://github.com/jhofker/haul-for-plex,"Download movies and shows from Plex servers you have access to, into a Plex-style layout. CLI and web interface."
+2026-10-13T23:32:21.888939Z,allama-cloudflare-worker,0.1.0,0,0,https://github.com/sagikazarmark/allama,Cloudflare Workers AI provider for allama using the workers-rs binding
+2026-10-13T23:38:38.741299Z,rs-jsonl2redb,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-jsonl2redb,Import JSONL data into a redb database
+2026-10-13T23:38:53.509017Z,energyml-resqml-2-0-1,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Rust bindings for resqml 2.0.1, generated from the Energistics XSD schemas."
+2026-10-13T23:42:30.789236Z,sapphire-sync-api,1.0.0,0,0,https://github.com/sapphire-turtle/sapphire-sync,"The API version and methods of the sapphire-sync server, apart from the framework's"
+2026-10-13T23:43:37.031272Z,sapphire-sync-core,0.13.0,0,0,https://github.com/sapphire-turtle/sapphire-sync,"A sync-only reference app for sapphire-framework - simple P2P file sync over iroh, CLI with embedded server"
+2026-10-13T23:44:16.298991Z,allama-anthropic,0.1.0,0,0,https://github.com/sagikazarmark/allama,Anthropic provider for allama
+2026-10-13T23:48:51.164374Z,energyml-resqml-2-2,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Rust bindings for resqml 2.2, generated from the Energistics XSD schemas."
+2026-10-13T23:52:34.929511Z,allama-openai,0.1.0,0,0,https://github.com/sagikazarmark/allama,OpenAI provider for allama
+2026-10-13T23:58:10.906995Z,tedi_md,0.17.3,0,0,https://github.com/valeratrades/tedi,Markdown primitives (owned pulldown_cmark events) for tedi
+2026-10-13T23:58:52.260759Z,energyml-resqml-2-2-dev3,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Rust bindings for resqml 2.2_dev3, generated from the Energistics XSD schemas."
+2026-10-14T00:01:42.376291Z,slint-harness-hooks,0.1.0,0,0,https://github.com/suitable-name/slint-harness,"Std-only seams (file pickers, clipboard, opener, data dir) a Slint app calls under its ui-harness feature"
+2026-10-14T00:01:46.179628Z,slint-harness,0.18.0,0,0,https://github.com/suitable-name/slint-harness,"Headless UI harness for Slint apps: invariant sweep, click-everything smoke, coverage gate, isolated profile"
+2026-10-14T00:02:49.306249Z,allama-gemini,0.1.0,0,0,https://github.com/sagikazarmark/allama,Gemini provider for allama
+2026-10-14T00:08:51.958769Z,energyml-witsml-2-0,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Rust bindings for witsml 2.0, generated from the Energistics XSD schemas."
+2026-10-14T00:10:56.472415Z,tedi_core,0.17.3,0,0,https://github.com/valeratrades/tedi,"Pure todo primitives (issues, blockers) and their parse/serialize for tedi"
+2026-10-14T00:11:10.00515Z,tedi_eval,0.17.3,0,0,https://github.com/valeratrades/tedi,Performance evaluation and manual-stats tracking for tedi
+2026-10-14T00:11:21.029925Z,tedi_adapters,0.17.3,0,0,https://github.com/valeratrades/tedi,"Remote-service adapters (GitHub, Clockify) for tedi"
+2026-10-14T00:11:22.085348Z,flaga_core,0.3.0,0,0,https://github.com/jameshuntt/flaga,"Core flag types for flaga: the Flag trait, binary/hex/enum flag containers, descriptors, groups, the flag parser, persisted state, macros and FlagError. no_std with alloc."
+2026-10-14T00:11:29.144002Z,flaga_events,0.3.0,0,0,https://github.com/jameshuntt/flaga,"Event layer for flaga: FlagEvent, FlagEventManager, FlagTrigger and the FeatureManager registry."
+2026-10-14T00:11:31.887143Z,tedi_task_primitives,0.17.3,0,0,https://github.com/valeratrades/tedi,"What a local/remote tedi issue is: sources, sinks, storage layout, path resolution"
+2026-10-14T00:11:33.453035Z,flaga_store,0.3.0,0,0,https://github.com/jameshuntt/flaga,"Persistence and management layer for flaga: FlagStore backends, the thread-safe FlagManager and FlagManagerBuilder."
+2026-10-14T00:11:41.437583Z,tedi_task_operations,0.17.3,0,0,https://github.com/valeratrades/tedi,"What we do with tedi issues: sync, merge, conflict resolution, sprints, selection"
+2026-10-14T00:13:29.188607Z,allama-providers,0.1.0,0,0,https://github.com/sagikazarmark/allama,Build allama providers from a provider key or a provider:model address
+2026-10-14T00:18:53.933557Z,energyml-witsml-2-1,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Rust bindings for witsml 2.1, generated from the Energistics XSD schemas."

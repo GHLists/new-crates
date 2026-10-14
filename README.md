@@ -8,44 +8,67 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 22:18 UTC
+## Latest list — 2026-10-14 00:22 UTC
 
-New crates published between 2026-10-13 21:20 UTC and 2026-10-13 22:18 UTC.
+New crates published between 2026-10-13 22:18 UTC and 2026-10-14 00:22 UTC.
 
-[Full CSV](data/new-crates-2026-10-13T22-18-35-08741Z.csv)
+[Full CSV](data/new-crates-2026-10-14T00-22-07-360069Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-13 21:24:05 | [clmp3](https://crates.io/crates/clmp3) | 0.1.3 | 0 | Audioplayer that runs in a terminal |
-| 2026-10-13 21:27:12 | [getargs-derive-macros](https://crates.io/crates/getargs-derive-macros) | 0.1.0 | 0 | Internal implementation detail of getargs-derive. Not meant for direct use; dep… |
-| 2026-10-13 21:27:17 | [getargs-derive](https://crates.io/crates/getargs-derive) | 0.1.0 | 0 | Clap-style #[derive] command-line argument parser for no_std and embedded Rust:… |
-| 2026-10-13 21:29:21 | [proxima-intercept](https://crates.io/crates/proxima-intercept) | 0.1.0 | 0 | MITM interception pipe for proxima: TLS-terminating CONNECT proxy with per-host… |
-| 2026-10-13 21:31:08 | [openscion-proto](https://crates.io/crates/openscion-proto) | 0.2.1 | 0 | The OpenScion protocol: object identifiers, changeset and ref payloads, and the… |
-| 2026-10-13 21:31:11 | [openscion-core](https://crates.io/crates/openscion-core) | 0.2.1 | 0 | A server-centric, content-addressed source control engine for agent-scale monor… |
-| 2026-10-13 21:31:15 | [openscion](https://crates.io/crates/openscion) | 0.2.1 | 0 | scn, the OpenScion command-line client for server-centric, agent-scale source c… |
-| 2026-10-13 21:39:24 | [proxima-rekt](https://crates.io/crates/proxima-rekt) | 0.1.0 | 0 | command your rest api to get wrecked — a load tester on proxima |
-| 2026-10-13 21:41:18 | [soroban-dependency-sentinel](https://crates.io/crates/soroban-dependency-sentinel) | 0.1.0 | 0 | Supply-chain security scanner for Soroban projects (CVE + pony factor + mitigat… |
-| 2026-10-13 21:49:22 | [proxima-mlir](https://crates.io/crates/proxima-mlir) | 0.1.0 | 0 | Text-only MLIR interchange for the proxima tensor algebra: Linalg export and to… |
-| 2026-10-13 21:51:20 | [vigilia-protocol](https://crates.io/crates/vigilia-protocol) | 0.2.0 | 0 | Vigilia wire protocol: requests, responses, events, client contexts and scopes |
-| 2026-10-13 21:51:23 | [vigilia-core](https://crates.io/crates/vigilia-core) | 0.2.0 | 0 | Vigilia core: sessions, journal, config. No OS-specific code. |
-| 2026-10-13 21:51:28 | [vigilia-platform](https://crates.io/crates/vigilia-platform) | 0.2.0 | 0 | Vigilia OS backends behind one Platform trait, plus a fake for tests |
-| 2026-10-13 21:51:32 | [vigilia-daemon](https://crates.io/crates/vigilia-daemon) | 0.2.0 | 0 | The Vigilia service: dispatch, event bus, local transport |
-| 2026-10-13 21:51:36 | [vigilia](https://crates.io/crates/vigilia) | 0.2.0 | 0 | Keep your laptop awake for a set time, from the terminal or from a coding agent |
-| 2026-10-13 21:51:50 | [limn-dnd](https://crates.io/crates/limn-dnd) | 0.1.39 | 0 | File drag and drop with other applications for windows limn does not own (Wayla… |
-| 2026-10-13 21:51:52 | [limn-editor](https://crates.io/crates/limn-editor) | 0.1.39 | 0 | Independent Unicode text buffer and viewport primitives |
-| 2026-10-13 21:51:55 | [limn-language](https://crates.io/crates/limn-language) | 0.1.39 | 0 | Tree-sitter highlighting, Markdown analysis and a language server client for li… |
-| 2026-10-13 21:51:58 | [limn](https://crates.io/crates/limn) | 0.1.39 | 0 | Original retained-state UI tree, layout, events and backend-neutral drawing |
-| 2026-10-13 21:52:01 | [limn-egui](https://crates.io/crates/limn-egui) | 0.1.39 | 0 | egui/wgpu renderer and input adapter for limn frames |
-| 2026-10-13 21:53:20 | [mecha10-nodes-instance-track](https://crates.io/crates/mecha10-nodes-instance-track) | 0.6.5 | 0 | Visually follows (recenters) an operator-selected object - DeepSORT re-id again… |
-| 2026-10-13 22:00:18 | [bourbaki-engine](https://crates.io/crates/bourbaki-engine) | 0.2.1 | 0 | A proof checker for Bourbaki's Theory of Sets: proofs are written the way the b… |
-| 2026-10-13 22:04:41 | [embedded-i18n-macros](https://crates.io/crates/embedded-i18n-macros) | 0.1.0 | 0 | Internal implementation detail of embedded-i18n. Not meant for direct use; depe… |
-| 2026-10-13 22:04:44 | [embedded-i18n](https://crates.io/crates/embedded-i18n) | 0.1.0 | 0 | Compile-time i18n for embedded and no_std Rust: translations from JSON, YAML, T… |
-| 2026-10-13 22:08:25 | [frus-cli](https://crates.io/crates/frus-cli) | 0.3.0 | 0 | frus — the command-line tool: `frus create` starts an application for desktop,… |
-| 2026-10-13 22:09:06 | [energyml-build-derive](https://crates.io/crates/energyml-build-derive) | 0.1.0 | 0 | Derive macros for energyml-build operations: typed parameters, choices and inpu… |
-| 2026-10-13 22:09:07 | [energyml-derive](https://crates.io/crates/energyml-derive) | 0.1.0 | 0 | Derive macros turning generator-emitted structs into EnergyML XML/JSON/reflecti… |
-| 2026-10-13 22:09:08 | [energyml-geostat](https://crates.io/crates/energyml-geostat) | 0.1.0 | 0 | Domain-neutral interpolation and meshing algorithms (IDW, kriging, RBF, MBA, tr… |
-| 2026-10-13 22:09:08 | [energyml-log](https://crates.io/crates/energyml-log) | 0.1.0 | 0 | Installs the one tracing subscriber a face needs: off by default, to stderr, sw… |
-| 2026-10-13 22:09:09 | [energyml-rules](https://crates.io/crates/energyml-rules) | 0.1.0 | 0 | The house rules: what this library decides where the specification is silent, a… |
+| 2026-10-13 22:18:51 | [energyml-core](https://crates.io/crates/energyml-core) | 0.1.0 | 0 | Runtime support for generated EnergyML (eml/resqml/witsml/prodml) crates: XML/J… |
+| 2026-10-13 22:25:13 | [krb5](https://crates.io/crates/krb5) | 0.2.0 | 0 | Pure-Rust Kerberos 5: GSS-API acceptor and initiator, KDC client (AS/TGS), keyt… |
+| 2026-10-13 22:27:31 | [infrastore-tabular](https://crates.io/crates/infrastore-tabular) | 0.15.0 | 0 | The normalized, partitioned table layout infrastore exports to Parquet and SQLi… |
+| 2026-10-13 22:28:54 | [energyml-eml-2-0](https://crates.io/crates/energyml-eml-2-0) | 0.1.0 | 0 | Rust bindings for eml 2.0, generated from the Energistics XSD schemas. |
+| 2026-10-13 22:34:21 | [lari](https://crates.io/crates/lari) | 0.1.2 | 0 | A library for simulating Conway's Game of Life. |
+| 2026-10-13 22:37:59 | [tauri-plugin-vsk-store](https://crates.io/crates/tauri-plugin-vsk-store) | 0.2.0 | 0 | Client for the VasakOS system store (vasak-accounts-sync): verified owner, sync… |
+| 2026-10-13 22:38:52 | [energyml-eml-2-1](https://crates.io/crates/energyml-eml-2-1) | 0.1.0 | 0 | Rust bindings for eml 2.1, generated from the Energistics XSD schemas. |
+| 2026-10-13 22:41:14 | [ehabi](https://crates.io/crates/ehabi) | 0.1.0 | 0 | Read, write and unwind with the Arm EHABI exception tables (.ARM.exidx and .ARM… |
+| 2026-10-13 22:48:53 | [energyml-eml-2-2](https://crates.io/crates/energyml-eml-2-2) | 0.1.0 | 0 | Rust bindings for eml 2.2, generated from the Energistics XSD schemas. |
+| 2026-10-13 22:50:02 | [parse_clargs](https://crates.io/crates/parse_clargs) | 0.1.0 | 0 | A small command-line argument parser with typed values and auto-generated help… |
+| 2026-10-13 22:58:52 | [energyml-eml-2-3](https://crates.io/crates/energyml-eml-2-3) | 0.1.0 | 0 | Rust bindings for eml 2.3, generated from the Energistics XSD schemas. |
+| 2026-10-13 23:08:51 | [energyml-prodml-2-0](https://crates.io/crates/energyml-prodml-2-0) | 0.1.0 | 0 | Rust bindings for prodml 2.0, generated from the Energistics XSD schemas. |
+| 2026-10-13 23:13:31 | [photon-evt](https://crates.io/crates/photon-evt) | 0.1.0 | 0 | Event sourcing for Rust with DynamoDB and PostgreSQL event logs that are wire-c… |
+| 2026-10-13 23:17:25 | [allama-derive](https://crates.io/crates/allama-derive) | 0.1.0 | 0 | Derive macros for allama's typed decisions |
+| 2026-10-13 23:17:38 | [allama](https://crates.io/crates/allama) | 0.1.0 | 0 | Low-level, provider-agnostic LLM abstractions for Rust |
+| 2026-10-13 23:18:14 | [allama-http](https://crates.io/crates/allama-http) | 0.1.0 | 0 | HTTP transport seam for allama provider crates |
+| 2026-10-13 23:18:44 | [allama-conformance](https://crates.io/crates/allama-conformance) | 0.1.0 | 0 | Conformance contracts, fixture assertions, and a mock HTTP server for testing a… |
+| 2026-10-13 23:18:53 | [energyml-prodml-2-2](https://crates.io/crates/energyml-prodml-2-2) | 0.1.0 | 0 | Rust bindings for prodml 2.2, generated from the Energistics XSD schemas. |
+| 2026-10-13 23:19:14 | [allama-systemone](https://crates.io/crates/allama-systemone) | 0.1.0 | 0 | System One decision-model provider (TypeSafe, Ollama, gateways) for allama |
+| 2026-10-13 23:19:37 | [altstream-api](https://crates.io/crates/altstream-api) | 0.1.1 | 0 | Rust API wrapper for the alternative streaming platform AltStream Online |
+| 2026-10-13 23:20:45 | [pygments-rust-core](https://crates.io/crates/pygments-rust-core) | 2.19.1 | 0 | Pure-Rust text kernels for the pygments Stage-1 mirror (no Python dependency) |
+| 2026-10-13 23:21:02 | [bohmian-parquet-variant](https://crates.io/crates/bohmian-parquet-variant) | 60.0.0 | 0 | Apache Parquet Variant implementation in Rust (Bohmian fork of parquet-variant) |
+| 2026-10-13 23:21:06 | [bohmian-parquet-variant-json](https://crates.io/crates/bohmian-parquet-variant-json) | 60.0.0 | 0 | Apache Parquet Variant to/from JSON (Bohmian fork of parquet-variant-json) |
+| 2026-10-13 23:21:11 | [bohmian-parquet-variant-compute](https://crates.io/crates/bohmian-parquet-variant-compute) | 60.0.0 | 0 | Apache Parquet Variant Batch Processing (Bohmian fork of parquet-variant-comput… |
+| 2026-10-13 23:23:39 | [allama-openai-compat](https://crates.io/crates/allama-openai-compat) | 0.1.0 | 0 | Reusable OpenAI-compatible transport and normalization toolkit for allama provi… |
+| 2026-10-13 23:28:52 | [energyml-prodml-2-3](https://crates.io/crates/energyml-prodml-2-3) | 0.1.0 | 0 | Rust bindings for prodml 2.3, generated from the Energistics XSD schemas. |
+| 2026-10-13 23:31:02 | [haul-core](https://crates.io/crates/haul-core) | 0.2.0 | 0 | Plex account sign-in, server discovery, library browsing and resumable download… |
+| 2026-10-13 23:31:11 | [haul-web](https://crates.io/crates/haul-web) | 0.2.0 | 0 | Web interface (axum + htmx) for Haul for Plex |
+| 2026-10-13 23:31:19 | [haul-for-plex](https://crates.io/crates/haul-for-plex) | 0.2.0 | 0 | Download movies and shows from Plex servers you have access to, into a Plex-sty… |
+| 2026-10-13 23:32:21 | [allama-cloudflare-worker](https://crates.io/crates/allama-cloudflare-worker) | 0.1.0 | 0 | Cloudflare Workers AI provider for allama using the workers-rs binding |
+| 2026-10-13 23:38:38 | [rs-jsonl2redb](https://crates.io/crates/rs-jsonl2redb) | 0.1.0 | 0 | Import JSONL data into a redb database |
+| 2026-10-13 23:38:53 | [energyml-resqml-2-0-1](https://crates.io/crates/energyml-resqml-2-0-1) | 0.1.0 | 0 | Rust bindings for resqml 2.0.1, generated from the Energistics XSD schemas. |
+| 2026-10-13 23:42:30 | [sapphire-sync-api](https://crates.io/crates/sapphire-sync-api) | 1.0.0 | 0 | The API version and methods of the sapphire-sync server, apart from the framewo… |
+| 2026-10-13 23:43:37 | [sapphire-sync-core](https://crates.io/crates/sapphire-sync-core) | 0.13.0 | 0 | A sync-only reference app for sapphire-framework - simple P2P file sync over ir… |
+| 2026-10-13 23:44:16 | [allama-anthropic](https://crates.io/crates/allama-anthropic) | 0.1.0 | 0 | Anthropic provider for allama |
+| 2026-10-13 23:48:51 | [energyml-resqml-2-2](https://crates.io/crates/energyml-resqml-2-2) | 0.1.0 | 0 | Rust bindings for resqml 2.2, generated from the Energistics XSD schemas. |
+| 2026-10-13 23:52:34 | [allama-openai](https://crates.io/crates/allama-openai) | 0.1.0 | 0 | OpenAI provider for allama |
+| 2026-10-13 23:58:10 | [tedi_md](https://crates.io/crates/tedi_md) | 0.17.3 | 0 | Markdown primitives (owned pulldown_cmark events) for tedi |
+| 2026-10-13 23:58:52 | [energyml-resqml-2-2-dev3](https://crates.io/crates/energyml-resqml-2-2-dev3) | 0.1.0 | 0 | Rust bindings for resqml 2.2_dev3, generated from the Energistics XSD schemas. |
+| 2026-10-14 00:01:42 | [slint-harness-hooks](https://crates.io/crates/slint-harness-hooks) | 0.1.0 | 0 | Std-only seams (file pickers, clipboard, opener, data dir) a Slint app calls un… |
+| 2026-10-14 00:01:46 | [slint-harness](https://crates.io/crates/slint-harness) | 0.18.0 | 0 | Headless UI harness for Slint apps: invariant sweep, click-everything smoke, co… |
+| 2026-10-14 00:02:49 | [allama-gemini](https://crates.io/crates/allama-gemini) | 0.1.0 | 0 | Gemini provider for allama |
+| 2026-10-14 00:08:51 | [energyml-witsml-2-0](https://crates.io/crates/energyml-witsml-2-0) | 0.1.0 | 0 | Rust bindings for witsml 2.0, generated from the Energistics XSD schemas. |
+| 2026-10-14 00:10:56 | [tedi_core](https://crates.io/crates/tedi_core) | 0.17.3 | 0 | Pure todo primitives (issues, blockers) and their parse/serialize for tedi |
+| 2026-10-14 00:11:10 | [tedi_eval](https://crates.io/crates/tedi_eval) | 0.17.3 | 0 | Performance evaluation and manual-stats tracking for tedi |
+| 2026-10-14 00:11:21 | [tedi_adapters](https://crates.io/crates/tedi_adapters) | 0.17.3 | 0 | Remote-service adapters (GitHub, Clockify) for tedi |
+| 2026-10-14 00:11:22 | [flaga_core](https://crates.io/crates/flaga_core) | 0.3.0 | 0 | Core flag types for flaga: the Flag trait, binary/hex/enum flag containers, des… |
+| 2026-10-14 00:11:29 | [flaga_events](https://crates.io/crates/flaga_events) | 0.3.0 | 0 | Event layer for flaga: FlagEvent, FlagEventManager, FlagTrigger and the Feature… |
+| 2026-10-14 00:11:31 | [tedi_task_primitives](https://crates.io/crates/tedi_task_primitives) | 0.17.3 | 0 | What a local/remote tedi issue is: sources, sinks, storage layout, path resolut… |
+| 2026-10-14 00:11:33 | [flaga_store](https://crates.io/crates/flaga_store) | 0.3.0 | 0 | Persistence and management layer for flaga: FlagStore backends, the thread-safe… |
+| 2026-10-14 00:11:41 | [tedi_task_operations](https://crates.io/crates/tedi_task_operations) | 0.17.3 | 0 | What we do with tedi issues: sync, merge, conflict resolution, sprints, selecti… |
+| 2026-10-14 00:13:29 | [allama-providers](https://crates.io/crates/allama-providers) | 0.1.0 | 0 | Build allama providers from a provider key or a provider:model address |
+| 2026-10-14 00:18:53 | [energyml-witsml-2-1](https://crates.io/crates/energyml-witsml-2-1) | 0.1.0 | 0 | Rust bindings for witsml 2.1, generated from the Energistics XSD schemas. |
 
 ## Data source
 
