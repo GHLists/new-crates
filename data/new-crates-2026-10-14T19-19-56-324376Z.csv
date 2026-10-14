@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T18:19:26.152497Z,mpeghdec-formatconverter,0.0.1,0,0,https://github.com/elementarystream/mpeghdec-rs,Format converter of mpeghdec (port of libFormatConverter)
+2026-10-14T18:19:41.95805Z,rocjpeg-rs-sys,0.1.0,0,0,https://github.com/Nikitf777/rocjpeg-rs-sys,Low-level FFI bindings to AMD's rocJPEG hardware-accelerated JPEG decode library
+2026-10-14T18:21:35.096549Z,docmux-reader-markdown,0.6.0,0,0,https://github.com/aguschirico/docmux,Markdown reader for docmux (CommonMark + GFM extensions)
+2026-10-14T18:24:14.460961Z,tinymold-hash,0.0.1,0,0,https://github.com/tinyhumansai/tinymold,Content digests for tinymold: the BLAKE3-256 identity of every cached input and output.
+2026-10-14T18:24:18.53767Z,tinymold-cas,0.0.1,0,0,https://github.com/tinyhumansai/tinymold,"tinymold's local content-addressed store: immutable build artifacts named by BLAKE3 digest, restored by reflink or hardlink."
+2026-10-14T18:24:20.833991Z,tinymold-key,0.0.1,0,0,https://github.com/tinyhumansai/tinymold,"Cache keys for tinymold: rustc argument classification, path normalization, dep-info parsing, and the ActionKey."
+2026-10-14T18:24:23.828056Z,tinymold-wrap,0.0.1,0,0,https://github.com/tinyhumansai/tinymold,tinymold's RUSTC_WRAPPER: serves rustc invocations from a content-addressed unit cache.
+2026-10-14T18:24:39.01271Z,tinymold-remote,0.0.1,0,0,https://github.com/tinyhumansai/tinymold,tinymold's remote cache tier: a REAPI v2 client that shares unit-cache entries between machines.
+2026-10-14T18:26:25.694832Z,tinymold,0.0.1,0,0,https://github.com/tinyhumansai/tinymold,"Make Rust builds fast and small: content-addressed build caching, fast linking, and a hot cache server for cargo."
+2026-10-14T18:26:36.334575Z,fuxth,0.1.0,0,0,https://github.com/gold-silver-copper/fux,"A small Forth for the shell: shell-friendly words, typed values, and an evaluator that pauses for its host"
+2026-10-14T18:28:27.648558Z,ulo-ws-macros,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"The WebSocket gateway and message attributes for Ulo, re-exported by ulo-ws"
+2026-10-14T18:29:14.057028Z,mpeghdec-igf,0.0.1,0,0,https://github.com/elementarystream/mpeghdec-rs,Intelligent Gap Filling decoder of mpeghdec (port of libIGFdec)
+2026-10-14T18:30:32.91251Z,starlight-renderer,0.0.1,0,0,,WIP renderer framework
+2026-10-14T18:31:37.183021Z,rocker-tui,0.1.0,0,0,https://github.com/ds82/rocker,A vim-inspired terminal UI for Docker
+2026-10-14T18:31:47.479073Z,docmux-reader-typst,0.6.0,0,0,https://github.com/aguschirico/docmux,Typst reader for docmux
+2026-10-14T18:38:31.075256Z,switchy_age,0.5.0,0,0,https://github.com/MoosicBox/MoosicBox,Feature-selected SSH age wrapping for native and simulated execution
+2026-10-14T18:38:35.942126Z,ulo-ws,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"The WebSocket transport for Ulo: gateways, sessions, rooms and broadcast, on the HTTP server's port or its own"
+2026-10-14T18:39:13.718169Z,mpeghdec-pcmutils,0.0.1,0,0,https://github.com/elementarystream/mpeghdec-rs,PCM limiter and utilities of mpeghdec (port of libPCMutils)
+2026-10-14T18:42:17.3299Z,docmux-transform-cite,0.6.0,0,0,https://github.com/aguschirico/docmux,"CSL citation formatting for docmux, built on hayagriva"
+2026-10-14T18:47:39.39369Z,libsonic,0.1.0,0,0,https://github.com/ZirekHQ/libsonic-rs,"Safe Rust port of Sonic, the pitch-synchronous speech speed, pitch and volume changer"
+2026-10-14T18:49:13.325657Z,mpeghdec-tpdec,0.0.1,0,0,https://github.com/elementarystream/mpeghdec-rs,MPEG-H transport decoder of mpeghdec (port of libMpegTPDec)
+2026-10-14T18:52:28.589086Z,docmux-transform-crossref,0.6.0,0,0,https://github.com/aguschirico/docmux,"Cross-reference resolver for docmux: numbers figures, tables, equations and sections, and links references to them"
+2026-10-14T18:52:37.379847Z,seb-json,0.1.0,0,0,https://github.com/Easygamer117/seb-json,"Serde serializer and deserializer for SEB-JSON, the canonical JSON format Safe Exam Browser uses to compute the Config Key"
+2026-10-14T18:58:37.18456Z,mata-ecdsa,0.1.0,0,0,https://github.com/Remade-With-Rust/mid,"ECDSA P-256 verification with a precomputed table for the curve's fixed generator. Verification only: every input is public, so the variable-time table is safe there; signing is untouched and stays i…"
+2026-10-14T18:59:13.231439Z,mpeghdec-uimanager,0.0.1,0,0,https://github.com/elementarystream/mpeghdec-rs,MPEG-H user interactivity manager of mpeghdec (port of libUIManager)
+2026-10-14T18:59:27.622411Z,ulo-http-axum,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"Runs a Ulo application inside an axum server, nested under a path or as the fallback"
+2026-10-14T18:59:53.182959Z,omq-shm,0.1.0,0,0,https://github.com/paddor/omq.rs,Linux shared-memory transport for OMQ.
+2026-10-14T19:02:40.504541Z,docmux-transform-math,0.6.0,0,0,https://github.com/aguschirico/docmux,"Math notation conversion for docmux: LaTeX to Typst, MathML and Word (OMML), and Typst to LaTeX"
+2026-10-14T19:03:22.282519Z,completype,0.1.0,0,0,https://github.com/mindyard/completype,"Serverless autocompletion engine for Rust and Python: exact, prefix, infix, abbreviation, spelling-tolerant, word-decomposing and semantic completions from object storage"
+2026-10-14T19:04:23.478992Z,completype-cli,0.1.0,0,0,https://github.com/mindyard/completype,"Command-line tool for completype databases: inspect, import, complete, compact, clean up and ingest"
+2026-10-14T19:06:55.357856Z,shadowbox,0.1.0,0,0,https://github.com/Nari-Ab/shadowbox,"A zero-trust, copy-on-write sandbox and interactive time-machine for AI coding agents."
+2026-10-14T19:06:59.655178Z,speakrs-ptx-sm120,0.6.0,0,0,https://github.com/avencera/speakrs,Prebuilt sm120 tier CUDA kernels (PTX and cubins) for the speakrs native CUDA backend
+2026-10-14T19:07:00.977028Z,speakrs-ptx-sm75,0.6.0,0,0,https://github.com/avencera/speakrs,Prebuilt sm75 tier CUDA kernels (PTX and cubins) for the speakrs native CUDA backend
+2026-10-14T19:07:02.58694Z,speakrs-ptx-sm80,0.6.0,0,0,https://github.com/avencera/speakrs,Prebuilt sm80 tier CUDA kernels (PTX and cubins) for the speakrs native CUDA backend
+2026-10-14T19:07:18.346942Z,with-secret,0.14.0,0,0,https://github.com/ciresnave/consent,"Runs one command with one secret, after its owner approves via Windows Hello. Stops accidental exposure, not deliberate misuse - see WITH-SECRET-DESIGN.md section 3."
+2026-10-14T19:09:13.903286Z,mpeghdec-core,0.0.1,0,0,https://github.com/elementarystream/mpeghdec-rs,MPEG-H 3D Audio core decoder of mpeghdec (port of libMpeghDec)
+2026-10-14T19:09:38.383399Z,ulo-http-salvo,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"Runs a Ulo application inside a salvo server, nested under a path or as the catch-all"
+2026-10-14T19:12:51.869727Z,docmux-transform-number-sections,0.6.0,0,0,https://github.com/aguschirico/docmux,Section numbering transform for docmux
+2026-10-14T19:19:11.267624Z,mpeghdec,0.0.1,0,0,https://github.com/elementarystream/mpeghdec-rs,"MPEG-H 3D Audio decoder and UI manager (Third-Party Modified Version of the Fraunhofer FDK MPEG-H Software, ported to Rust)"
+2026-10-14T19:19:27.120802Z,ryuk,0.1.0,0,0,https://github.com/mstjr/ryuk,"A Laravel-style full-stack web framework for Rust: axum, SeaORM and Inertia, with auth, queues, mail, storage, cache, scheduling and an MCP server."
+2026-10-14T19:19:35.199665Z,ryuk-cli,0.1.0,0,0,https://github.com/mstjr/ryuk,"The `ryuk` command: scaffold a Ryuk app (axum, SeaORM, Inertia/Svelte), generate controllers, models, jobs and mails, run migrations and the dev server."
+2026-10-14T19:19:47.77604Z,ulo-http-poem,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"Runs a Ulo application inside a poem server, nested under a path or as the fallback"
