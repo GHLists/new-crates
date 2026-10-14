@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T13:23:56.425412Z,haloumi-driver,0.6.0,0,0,https://github.com/project-llzk/haloumi,Entrypoint crate for the Haloumi framework.
+2026-10-14T13:23:58.676956Z,haloumi-extractor-core,0.6.0,0,0,https://github.com/project-llzk/haloumi,Haloumi's extraction core types.
+2026-10-14T13:24:03.574839Z,haloumi-extractor,0.6.0,0,0,https://github.com/project-llzk/haloumi,Haloumi's extraction runtime.
+2026-10-14T13:24:07.533911Z,haloumi-integration-macros,0.6.0,0,0,https://github.com/project-llzk/haloumi,Proc-macros for integrating with Haloumi
+2026-10-14T13:24:14.580673Z,haloumi-integration,0.6.0,0,0,https://github.com/project-llzk/haloumi,Helpers for integrating Haloumi with Halo2 implementations.
+2026-10-14T13:24:29.946947Z,fonts-rs-tabler,0.5.0,0,0,https://github.com/smearor/fonts-rs,Tabler Icons font integration for GTK 4 and pixel-drawing
+2026-10-14T13:24:36.375884Z,haloumi-extractor-runner,0.6.0,0,0,https://github.com/project-llzk/haloumi,Haloumi's extraction runner.
+2026-10-14T13:24:39.16861Z,fonts-rs-blobmoji,0.5.0,0,0,https://github.com/smearor/fonts-rs,Blobmoji emoji font integration for GTK 4 and pixel-drawing (variant umbrella)
+2026-10-14T13:25:10.458278Z,fonts-rs-noto-emoji-cheat-sheet,0.5.0,0,0,https://github.com/smearor/fonts-rs,Noto Emoji cheat sheet application
+2026-10-14T13:25:17.095487Z,fonts-rs-blobmoji-cheat-sheet,0.5.0,0,0,https://github.com/smearor/fonts-rs,Blobmoji cheat sheet application
+2026-10-14T13:25:51.268885Z,fonts-rs-bravura-cheat-sheet,0.5.0,0,0,https://github.com/smearor/fonts-rs,Bravura SMuFL music notation cheat sheet application
+2026-10-14T13:30:01.358537Z,structured-cms,0.2.0,0,0,https://github.com/structured-world/signature-primitives,Borrowed CMS SignedData processing with explicit providers and resource accounting
+2026-10-14T13:32:09.010872Z,meerkat-meta,0.9.0,0,0,https://github.com/lukacf/meerkat-meta,Companion orchestration platform for the Meerkat multi-agent runtime
+2026-10-14T13:36:07.232022Z,oxabl_flow,0.2.0,0,0,https://github.com/oxabl-project/oxabl/crates/oxabl_flow,"Control-flow graphs with ABL block semantics, plus a dataflow framework, for Progress ABL"
+2026-10-14T13:36:35.909003Z,haloumi-inject,0.6.0,0,0,https://github.com/project-llzk/haloumi,Injection utilities for hot-patching crates.
+2026-10-14T13:40:21.533743Z,echoproof-core,0.1.0,0,0,https://github.com/est57/echoproof,"Snapshot format, semantic diff and reporting for Echoproof"
+2026-10-14T13:40:24.50948Z,echoproof,0.1.0,0,0,https://github.com/est57/echoproof,Verify behavior of code changes by replaying real traffic
+2026-10-14T13:46:28.831422Z,vault-mirror,0.1.0,0,0,https://github.com/NikitaMGrimm/vault-mirror,"Mirror and back up a Bitwarden or Vaultwarden vault, without the Bitwarden CLI."
+2026-10-14T13:49:17.817425Z,ecomsec-core,0.1.1,0,0,https://github.com/liohtml/ecom-sec,Platform-agnostic compromise-check engine for e-commerce installations
+2026-10-14T13:49:19.604166Z,ecomsec-notify,0.1.1,0,0,https://github.com/liohtml/ecom-sec,"Notification channels (e-mail, chat webhooks, files) for ecomsec change reports"
+2026-10-14T13:49:20.232006Z,ecomsec-osv,0.1.1,0,0,https://github.com/liohtml/ecom-sec,Composer dependency inventory and OSV.dev vulnerability lookup for ecomsec
+2026-10-14T13:49:20.612288Z,ecomsec-shopify,0.1.1,0,0,https://github.com/liohtml/ecom-sec,ecomsec platform adapter: shopify
+2026-10-14T13:49:21.250449Z,ecomsec-woocommerce,0.1.1,0,0,https://github.com/liohtml/ecom-sec,ecomsec platform adapter: WooCommerce (WordPress)
+2026-10-14T13:49:24.035942Z,kaffy-config,0.4.1,0,0,https://github.com/prasenjithiwale/kaffy,"Cluster profiles and settings for kaffy, a terminal UI for Kafka"
+2026-10-14T13:49:24.913104Z,kaffy-schema,0.4.1,0,0,https://github.com/prasenjithiwale/kaffy,"Payload decoding and Schema Registry client for kaffy, a terminal UI for Kafka"
+2026-10-14T13:49:29.662626Z,kaffy-kafka,0.4.1,0,0,https://github.com/prasenjithiwale/kaffy,"Kafka client worker and demo cluster for kaffy, a terminal UI for Kafka"
+2026-10-14T13:49:32.976853Z,kaffy-ui,0.4.1,0,0,https://github.com/prasenjithiwale/kaffy,"State, dialogs and ratatui views for kaffy, a terminal UI for Kafka"
+2026-10-14T13:49:36.788626Z,kaffy,0.4.1,0,0,https://github.com/prasenjithiwale/kaffy,A terminal UI for exploring and operating Kafka clusters
+2026-10-14T13:52:32.987989Z,cargo-haloumi,0.6.0,0,0,https://github.com/project-llzk/haloumi,Cargo subcommand for Haloumi extraction.
+2026-10-14T13:58:38.638147Z,system2,0.0.0,0,0,https://github.com/jhartquist/system2,A Rust library for building System 2
+2026-10-14T14:02:59.115212Z,pragma_base,0.6.0,0,0,https://github.com/razedproduction/pragma.core,"pragma.core L0: errors, generational handles, ticks"
+2026-10-14T14:03:25.704227Z,pragma_sync,0.6.0,0,0,https://github.com/razedproduction/pragma.core,pragma.core L1: low-level synchronization primitives (the only crate allowed to use unsafe)
+2026-10-14T14:03:32.685687Z,pragma_sys,0.6.0,0,0,https://github.com/razedproduction/pragma.core,"pragma.core L1: platform layer (thread names, priorities, affinity) over system FFI"
+2026-10-14T14:03:51.449571Z,pragma_jobs,0.6.0,0,0,https://github.com/razedproduction/pragma.core,"pragma.core L2: work-stealing job system (pool, join, scope, parallel-for)"
+2026-10-14T14:04:01.553257Z,pragma_graph,0.6.0,0,0,https://github.com/razedproduction/pragma.core,pragma.core L3: per-frame task graph with declared resource access
+2026-10-14T14:10:48.308867Z,dsainvg_api,0.1.0,0,0,https://github.com/fern-api/fern,Rust SDK for dsainvg_api generated by Fern
+2026-10-14T14:11:52.501225Z,songnest-extract,0.1.0,0,0,https://github.com/Smasduq/songnest,Songnest is a music library and player with a pluggable source system.
+2026-10-14T14:12:19.422452Z,songnest-server,0.1.0,0,0,https://github.com/Smasduq/songnest,Songnest is a music library and player with a pluggable source system.
+2026-10-14T14:12:26.782558Z,songnest,0.1.0,0,0,https://github.com/Smasduq/songnest,Songnest is a music library and player with a pluggable source system.
+2026-10-14T14:20:09.570573Z,togematch,0.1.0,0,0,https://github.com/kurodaze/togematch,Finds a track's official audio upload on YouTube
+2026-10-14T14:20:16.583452Z,florn,0.0.0,0,0,https://github.com/nabbisen/florn,Emulate the component; simulate the world.
+2026-10-14T14:20:35.26758Z,yog-worldgen,0.1.0,0,0,,"Yog declarative terrain — noise, layers, caves and ores, as the game generates them and the IDE previews them."
+2026-10-14T14:21:08.467213Z,pragma_async,0.6.0,0,0,https://github.com/razedproduction/pragma.core,"pragma.core L3: async tasks (I/O, streaming) executed on the job pool"
