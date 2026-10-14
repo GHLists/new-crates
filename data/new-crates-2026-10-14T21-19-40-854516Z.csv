@@ -1,0 +1,60 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T20:20:38.387131Z,ulo-ws-redis,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"The Redis broadcast adapter for Ulo's WebSocket transport, carrying broadcasts across processes"
+2026-10-14T20:21:31.105083Z,claude-nonstop,0.1.0,0,0,https://github.com/Darkwing4/claude-nonstop,"Keeps Claude Code sessions running through network retries, cut-off turns, overloads and usage limits"
+2026-10-14T20:22:46.961439Z,covalence-lib-cid,0.1.0-dev.2,0,0,https://github.com/hiloopai/covalence,Content identifiers
+2026-10-14T20:22:51.97333Z,lspkl-stdlib,0.1.0,0,0,https://github.com/rohan-datar/lspkl,Build-time downloaded and embedded Pkl standard library
+2026-10-14T20:22:52.725283Z,lspkl-syntax,0.1.0,0,0,https://github.com/rohan-datar/lspkl,Pkl parsing and typed syntax trees for the lspkl language server
+2026-10-14T20:22:53.951359Z,lspkl-vfs,0.1.0,0,0,https://github.com/rohan-datar/lspkl,Pkl source loading and virtual file management for the lspkl language server
+2026-10-14T20:22:55.981258Z,lspkl-project,0.1.0,0,0,https://github.com/rohan-datar/lspkl,"Pkl project, package, and import resolution for the lspkl language server"
+2026-10-14T20:22:57.679896Z,lspkl-db,0.1.0,0,0,https://github.com/rohan-datar/lspkl,Incremental analysis database for the lspkl Pkl language server
+2026-10-14T20:24:07.043756Z,docmux-writer-typst,0.6.0,0,0,https://github.com/aguschirico/docmux,Typst writer for docmux
+2026-10-14T20:30:22.048016Z,vpngate,0.1.0,0,0,https://github.com/sioworker/vpngate-cli,vpngate from the terminal
+2026-10-14T20:30:46.686909Z,ulo-rpc-tcp-core,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"For link authors, not applications: the runtime-free half of Ulo's TCP RPC links, shared by ulo-rpc-tcp and ulo-rpc-tcp-smol"
+2026-10-14T20:30:56.660984Z,fuel-test-support,0.19.1,0,0,https://github.com/ciresnave/fuel,Shared test-gate helpers: turn an undeclared runtime skip into a loud failure (GAP-157)
+2026-10-14T20:32:09.633321Z,fLUA,0.1.0,0,0,https://github.com/valeria-org/fLUA,"An allocation-free, iced-style Lua 5.1-5.4 and LuaJIT bytecode decoder and encoder"
+2026-10-14T20:33:09.106744Z,lspkl-types,0.1.0,0,0,https://github.com/rohan-datar/lspkl,Pkl name resolution and type analysis for the lspkl language server
+2026-10-14T20:33:56.727676Z,sans-effort-core,0.1.0,0,0,https://github.com/inkandswitch/sans-effort,"The mechanism under sans-effort: the routine trait, the driver, and the boundary; small and slow to change, for runtime and binding authors"
+2026-10-14T20:33:58.80877Z,sans-effort-effects,0.1.0,0,0,https://github.com/inkandswitch/sans-effort,"A standard library of effect traits for sans-effort routines: the traits, the effects they record, and the reifying context, written once"
+2026-10-14T20:33:59.548761Z,sans-effort-host,0.1.0,0,0,https://github.com/inkandswitch/sans-effort,"Everything a foreign host needs to step sans-effort routines, in safe Rust over owned types: a typed machine, a byte layer, a handle table, and panic isolation"
+2026-10-14T20:34:03.145493Z,sans-effort-tokio,0.1.0,0,0,https://github.com/inkandswitch/sans-effort,"Native tokio contexts for sans-effort routines: every effect trait in sans-effort-effects as a real future, no driver"
+2026-10-14T20:34:04.196933Z,covalence-blob-trait,0.1.0-dev.2,0,0,https://github.com/hiloopai/covalence,The blob trait: bytes read by range
+2026-10-14T20:34:04.508153Z,covalence-lib-dasl,0.1.0-dev.2,0,0,https://github.com/hiloopai/covalence,DASL values and the DRISL codec
+2026-10-14T20:34:04.63993Z,sans-effort,0.1.0,0,0,https://github.com/inkandswitch/sans-effort,"sans-io, without all the effort: direct-style async Rust that runs natively or is driven from an FFI host"
+2026-10-14T20:34:19.275935Z,docmux-pipeline,0.6.0,0,0,https://github.com/aguschirico/docmux,"The transforms every docmux conversion runs, shared by the CLI and WASM"
+2026-10-14T20:35:03.034356Z,af-price-updates,0.1.0,0,0,https://github.com/AftermathFinance/aftermath-sdk-rust,"Price update formats and helpers for the Aftermath, Pyth, Pyth Lazer, and Stork oracles"
+2026-10-14T20:35:32.79601Z,py-orthanc,0.1.0,0,0,https://github.com/marcelotrevisani/orthanc,Python environment management desktop app
+2026-10-14T20:40:20.207105Z,autumn-plugin-turso,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-turso,"TursoDB plugin for Autumn: an embedded, SQLite-compatible database handle with config, migrations, health and metrics"
+2026-10-14T20:40:54.916372Z,ulo-rpc-tcp-smol,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"The TCP link for Ulo RPC on smol's sockets: ulo-rpc-tcp's wire over async-net, with futures-rustls for TLS"
+2026-10-14T20:42:12.416581Z,fuel-vulkan-kernels,0.19.1,0,0,https://github.com/ciresnave/fuel,Precompiled SPIR-V kernels for the Fuel Vulkan backend. Sources live in fuel-kernels-source; SPIR-V here is committed and consumed via include_bytes! so downstream consumers need no shader toolchain…
+2026-10-14T20:42:26.935794Z,cctrail,0.0.0,0,0,https://github.com/vladkens/cctrail,"Time, tokens and cost per project from local Claude Code and Codex history."
+2026-10-14T20:42:47.701619Z,graphar-info,0.1.0-alpha.1,0,0,https://github.com/Kanzo-Tech/graphar,"Apache GraphAr's information files (graph, vertex and edge YAML): the model, load, dump and validate. Pure, and builds for wasm32."
+2026-10-14T20:43:21.66522Z,graphar-parquet,0.1.0-alpha.1,0,0,https://github.com/Kanzo-Tech/graphar,"Apache GraphAr's data files in Parquet: vertex and edge chunks, offsets and counts, written and read through any object_store. Builds for wasm32."
+2026-10-14T20:44:19.738542Z,lspkl-diagnostics,0.1.0,0,0,https://github.com/rohan-datar/lspkl,Pkl diagnostics and fixes for the lspkl language server
+2026-10-14T20:44:33.3917Z,docmux-reader-myst,0.6.0,0,0,https://github.com/aguschirico/docmux,MyST Markdown reader for docmux
+2026-10-14T20:45:13.274226Z,covalence-cas-trait,0.1.0-dev.2,0,0,https://github.com/hiloopai/covalence,The content-addressed storage traits
+2026-10-14T20:50:57.319336Z,strict-lru,0.1.0,0,0,https://github.com/larrydewey/pluggable-cache,"A small, dependency-free, strict LRU cache with optional TTL and weight bounds"
+2026-10-14T20:51:04.325749Z,ulo-rpc-tcp,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,The TCP link for Ulo RPC: length-prefixed frames multiplexed by id over one connection
+2026-10-14T20:51:09.503609Z,pluggable-cache,0.1.0,0,0,https://github.com/larrydewey/pluggable-cache,"Pluggable, namespaced caches with an LRU core, persistent backends and signed OCI preload bundles"
+2026-10-14T20:53:28.048372Z,fuel-backend-contract,0.19.1,0,0,https://github.com/ciresnave/fuel,Backend-contract traits for the fuel ML framework (the object-safe surface every backend implements)
+2026-10-14T20:54:17.986424Z,lspkl-features,0.1.0,0,0,https://github.com/rohan-datar/lspkl,Language Server Protocol features for the lspkl Pkl language server
+2026-10-14T20:54:46.890132Z,docmux-writer-docx,0.6.0,0,0,https://github.com/aguschirico/docmux,"DOCX writer for docmux, with native Word equations"
+2026-10-14T20:56:19.650708Z,covalence-cas-memory,0.1.0-dev.2,0,0,https://github.com/hiloopai/covalence,An in-memory content-addressed store
+2026-10-14T21:01:11.629308Z,ulo-rpc-udp,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"The UDP link for Ulo RPC: one frame per datagram, unary calls and events"
+2026-10-14T21:02:47.410926Z,rumil,0.0.0,0,0,https://github.com/shift-editor/shift,"Lay out MathML Core formulas from OpenType MATH data, recording why each glyph is placed"
+2026-10-14T21:02:50.178456Z,rumil-build,0.0.0,0,0,https://github.com/shift-editor/shift,Build OpenType MATH tables from glyph-name-level font source data
+2026-10-14T21:03:09.287544Z,lspkl,0.1.0,0,0,https://github.com/rohan-datar/lspkl,A native language server for the Pkl configuration language
+2026-10-14T21:04:42.597996Z,fuel-correctness-fixtures,0.19.1,0,0,https://github.com/ciresnave/fuel,Distributable correctness fixtures for Fuel — pre-validated kernel outputs that single-backend systems use to validate their backends without needing a peer for pairwise consensus.
+2026-10-14T21:04:59.992954Z,docmux-writer-html,0.6.0,0,0,https://github.com/aguschirico/docmux,HTML5 writer for docmux
+2026-10-14T21:07:26.28246Z,covalence-cas-sqlite,0.1.0-dev.2,0,0,https://github.com/hiloopai/covalence,A content-addressed store in SQLite
+2026-10-14T21:09:51.825121Z,arcform-sqlparser,0.55.0,0,0,https://github.com/meridian-online/arcform,"arcform's fork of sqlparser 0.55.0, adding DuckDB grammars the published crate rejects"
+2026-10-14T21:09:56.318964Z,arcform,0.2.0,0,0,https://github.com/meridian-online/arcform,Local-first data pipeline engine for analytical workflows
+2026-10-14T21:09:57.260383Z,maths,1.0.1,0,0,https://github.com/polymonster/maths-rs,A linear algebra library for gamedev and graphics
+2026-10-14T21:11:21.8406Z,ulo-rpc-nats,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"The NATS link for Ulo RPC: queue-group subscriptions, inbox replies, no-responders"
+2026-10-14T21:12:14.656124Z,lateritecmf,0.9.12,0,0,https://github.com/lateritecmf/laterite,"Laterite CMF: the one crate an application depends on, re-exporting the framework with its driver features"
+2026-10-14T21:12:23.413198Z,agent-ws,0.1.0,0,0,https://github.com/mendoanjoe/agent-ws,"Instant, isolated workspaces for coding agents on macOS (APFS clone-on-write)"
+2026-10-14T21:13:34.430675Z,ucgeocoder,0.1.0,0,0,https://github.com/dathere/uscensus-caching-geocoder,"Caching, rate-limited, wire-compatible proxy for the US Census Geocoder API"
+2026-10-14T21:14:47.529436Z,mxswitch,0.1.1,0,0,https://github.com/shivajreddy/mxswitch,"Move a Logitech Easy-Switch mouse (MX Master, MX Anywhere, ...) to your other PC with one press of its gesture button. Windows tray app + CLI, no Logi Options+ needed."
+2026-10-14T21:15:12.352034Z,docmux-writer-latex,0.6.0,0,0,https://github.com/aguschirico/docmux,LaTeX writer for docmux
+2026-10-14T21:15:58.214726Z,fuel-datasets,0.19.1,0,0,https://github.com/ciresnave/fuel,Minimalist ML framework.
+2026-10-14T21:18:32.63819Z,covalence-kv-trait,0.1.0-dev.2,0,0,https://github.com/hiloopai/covalence,The key-value store trait
+2026-10-14T21:18:32.698092Z,anchor-raydium-cpmm,0.1.0,0,0,https://github.com/KevinGod1234/anchor-raydium-cpmm,Graduate a token from an Anchor program into a Raydium CPMM pool and lock the liquidity
