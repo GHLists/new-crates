@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T00:28:53.141333Z,energyml-schemas,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Every EnergyML schema version this workspace generates, in one registry, one Cargo feature per version."
+2026-10-14T00:29:24.435156Z,rcomp-wgpu,0.4.0,0,0,,Experimental portable GPU compute provider for rcomp
+2026-10-14T00:29:27.624189Z,rcomp-metal,0.4.0,0,0,,Experimental native Metal compute provider for rcomp
+2026-10-14T00:33:03.868718Z,errset,0.1.0,0,0,https://github.com/Byt3Mage/errset,"Unboxed, type-keyed error sets: list a function's errors in its signature without naming an enum"
+2026-10-14T00:36:31.557462Z,renyi_workspace,0.2.0,0,0,https://github.com/renyi-lang/renyi,"The resident world of a Renyi project: the files kept between calls, the world declared again from what changed and the bodies checked again only where their text changed"
+2026-10-14T00:37:36.798912Z,env-lib,1.0.0,0,0,https://github.com/jamesgober/env-lib,"Application environment variables for Rust: set, read, and remove variables in code, persist them to a .env file that survives manual edits, and export them under a namespace prefix. Zero third-party…"
+2026-10-14T00:38:51.546774Z,energyml-storage,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Reads and writes EnergyML data stores: EPC files today, ETP dataspaces later, behind one abstraction."
+2026-10-14T00:46:24.337913Z,flaga_solver,0.1.0,0,0,https://github.com/jameshuntt/flaga_solver,"Constraint solver over big-bad-bool packed-word schemas: reserved, invalid, requires, conflicts, deprecated, plus allow/deny policy words, with a reason for every refusal."
+2026-10-14T00:48:51.000938Z,macula-craft-seam,0.1.0,0,0,https://github.com/rgfaber/craft-libs,"A collaboration seam for document apps: signed ops, grants and invites, a transport trait, paragraph text merge (yrs) and presence. The Macula mesh transport is macula-craft-collab."
+2026-10-14T00:48:51.050703Z,energyml-domain,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,Version-agnostic EnergyML concepts: units of measure and coordinate reference systems.
+2026-10-14T00:49:03.409782Z,taconite-reuse,0.1.0,0,0,https://github.com/Brishen/taconite,"NVIDIA RE-USE universal speech enhancement (SEMamba, 8-48 kHz) on an AMD XDNA NPU: IRON kernels replayed through XRT or directly through the amdxdna driver"
+2026-10-14T00:53:38.144042Z,global-lib,1.0.0,0,0,https://github.com/jamesgober/global-lib,"Process-wide values for Rust: set, define, read, edit, and remove globals by name or through typed statics, with lock-free reads. Zero dependencies."
+2026-10-14T00:58:50.908364Z,energyml-geometry,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Turns EnergyML representations into points, indices and a coordinate reference system."
+2026-10-14T00:59:58.353246Z,macula-craft-collab,0.1.0,0,0,https://github.com/macula-io/macula-craft-collab,"Co-edit documents over the Macula mesh: the transport, identity, grants and realm membership for the macula-craft-seam collaboration seam."
+2026-10-14T01:00:00.503182Z,x87,0.1.0,0,0,,A minimal x87 80-bit floating-point type
+2026-10-14T01:08:50.730712Z,energyml-analysis,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"What is computed from EnergyML shapes: wells, grids, structural measures, laws and tests, above geometry, never inside it."
+2026-10-14T01:10:23.60495Z,mkext2,0.1.0,0,0,https://github.com/tuler/mkext2,Reproducible ext2 filesystem image generator (a Rust port of genext2fs)
+2026-10-14T01:15:38.085595Z,guessing-game-blau,0.1.0,0,0,,A fun game where you guess what number the computer has chosen.
+2026-10-14T01:18:26.997264Z,rssteps,0.1.0,0,0,https://github.com/virki/rssteps,Rust translation of pySTEPS — short-term ensemble precipitation nowcasting
+2026-10-14T01:18:51.991803Z,energyml-cache,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"What a package keeps of itself, layer by layer, and lets go of exactly when what it read changes - optional, one implementation, wasm included."
