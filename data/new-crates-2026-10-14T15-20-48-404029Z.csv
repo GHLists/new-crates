@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T14:24:53.104456Z,pragma_core,1.0.0,0,0,https://github.com/razedproduction/pragma.core,"Solid, high-performance multithreaded core in pure Rust for game engines and frameworks"
+2026-10-14T14:27:34.537259Z,turbojet-log,0.3.0,0,0,https://github.com/jrogers/turbojet,"Prints and filters Turbojet's message log files, with FIX field names"
+2026-10-14T14:27:40.497476Z,tui-rating,0.1.0,0,0,https://github.com/sorinirimies/tui-rating,"A customizable rating (stars, hearts, ...) widget for ratatui"
+2026-10-14T14:27:41.148105Z,aisle-primitives,0.0.1,0,0,,aisle L0 原语层：密码学原语封装、域串注册表、错误类型与协议尺寸常量（no_std）
+2026-10-14T14:28:01.944801Z,aisle-identity,0.0.1,0,0,,aisle L1 身份信任层：凭证 v4、根容器多槽、撤销与成员表、纯验证接口（no_std + alloc）
+2026-10-14T14:28:22.318685Z,aisle-link,0.0.1,0,0,,aisle L2 加密传输层：握手 v2、会话轮换、A3 封装、TCP 唯一载体、Sans-IO（no_std）
+2026-10-14T14:28:44.617894Z,aisle-fabric,0.0.1,0,0,,aisle L3 组网层：gossip 控制面、测绘地图、路径集合、路由与转发、环检测、存在性探测（no_std Sans-IO）
+2026-10-14T14:29:04.331297Z,aisle-node,0.0.1,0,0,,aisle L4 节点编排层：会话编排、对等状态、准入三层执行、ForwardPolicy 实现、质量探测与选路、准入块持久化（no_std Sans-IO）
+2026-10-14T14:29:22.440875Z,aisle-features,0.0.1,0,0,,aisle L5 功能层：网卡语义、代理入口、路由面、可达性、MagicDNS、exit、publish、签发、可观测、载荷槽、端口级防火墙（std 库，无平台绑定，不直接 I/O）
+2026-10-14T14:29:32.506684Z,vigrise,0.1.1,0,0,https://github.com/vigrise/sdk,"Official ViGrise SDK for Rust: request signing, credentials and clients for ViGrise services"
+2026-10-14T14:29:49.571038Z,vigrise-cli,0.1.1,0,0,https://github.com/vigrise/sdk,ViGrise command line: sign in with your ViGrise account and get role session credentials
+2026-10-14T14:34:17.481215Z,native-shell-core,0.1.0,0,0,https://github.com/longbridge/native-shell,"Shared contracts of native-shell: mutation protocol, styles, theme, descriptions, host interfaces, manifest."
+2026-10-14T14:34:20.641066Z,native-shell-services,0.1.0,0,0,https://github.com/longbridge/native-shell,"Standard library of native-shell: storage, fs, fetch, WebSocket, crypto, signed bundles."
+2026-10-14T14:34:22.393932Z,native-shell-tree,0.1.0,0,0,https://github.com/longbridge/native-shell,"Keyed diff, view flattening, taffy layout and list windowing: descriptions in, mutations out."
+2026-10-14T14:34:25.658159Z,native-shell,0.1.0,0,0,https://github.com/longbridge/native-shell,"A QuickJS-scripted, natively rendered UI runtime for iOS (UIKit) and Android (View): the mobile sibling of gpui-shell."
+2026-10-14T14:34:51.128183Z,evconcierge_contracts,0.1.0,0,0,https://github.com/EV-Main/concierge,gRPC wire contracts of the EV concierge identity plane: the .proto sources and the tonic client and server stubs generated from them.
+2026-10-14T14:34:52.76984Z,evconcierge_client,0.1.0,0,0,https://github.com/EV-Main/concierge,"A relying party's calls into the EV concierge identity plane: code + PKCE sign-in, GetMe, catalog publishing under the client credential."
+2026-10-14T14:34:53.810108Z,evconcierge_projection,0.1.0,0,0,https://github.com/EV-Main/concierge,"The pull engine a relying party keeps its projection of EV concierge's users with: cursors, dedupe, per-key ordering, parking and replay over the lifecycle and scope streams."
+2026-10-14T14:34:56.486647Z,zio-core,0.2.1,0,0,https://github.com/lszio/zio,"Zio language core: reader, evaluator, ZOS object system, and the self-hosted compiler and instruction runtime"
+2026-10-14T14:34:58.404706Z,zio-host,0.2.1,0,0,https://github.com/lszio/zio,"Generic platform and tensor mechanisms for Zio programs, granted explicitly by the embedding process"
+2026-10-14T14:34:58.997997Z,zio-js,0.2.1,0,0,https://github.com/lszio/zio,Native embedded JavaScript engine binding for Zio (QuickJS family).
+2026-10-14T14:34:59.404055Z,zio-lsp,0.2.1,0,0,https://github.com/lszio/zio,"Language server for Zio: diagnostics, symbols, navigation and completion, with no evaluation of edited source"
+2026-10-14T14:34:59.78428Z,zio-wasi,0.2.1,0,0,https://github.com/lszio/zio,"WASI-only Zio application runtime: WASI imports only, payload compiled in per application."
+2026-10-14T14:42:24.902037Z,sipgrep-rs,0.1.0,0,0,https://github.com/mahirgul/sipgrep-rs,"A modern terminal-based SIP packet capture, call flow ladder diagram, and protocol analyzer in Rust"
+2026-10-14T14:42:30.524007Z,aisle-host-common,0.0.1,0,0,,aisle 宿主层共享 HTTP 面工具箱（RFC 7807 错误、token 认证、SSE 回放）。无协议逻辑
+2026-10-14T14:42:32.192505Z,nssm-rs,0.1.0,0,0,https://github.com/mahirgul/nssm-rs,"A modern, reliable service manager and process supervisor inspired by NSSM, written in Rust"
+2026-10-14T14:46:59.705765Z,zio-cli,0.2.1,0,0,https://github.com/lszio/zio,"The Zio language entry point: REPL, script runner, bounded candidate runner, and application launcher"
+2026-10-14T15:08:44.327385Z,vize_parcel_sourcemap,0.454.0,0,0,https://github.com/ubugeeei-prod/vize,Vize fork of the Parcel Source Map Library with validated rkyv 0.8 archives
+2026-10-14T15:09:56.676867Z,octet-derive,0.2.3,0,0,,Derive macro for Octet binary serialization
+2026-10-14T15:14:29.133411Z,coyote-rns-transport,0.14.0,0,0,https://github.com/Dark-Alex-17/coyote-rns-transport,"Coyote's published fork of reticulum-rs-transport: transport, link, interface, receipt, and resource layers for the Reticulum network stack."
+2026-10-14T15:17:15.608092Z,biodivine-lib-xml-dom,0.1.0,0,0,https://github.com/sybila/biodivine-lib-xml-dom,An XML DOM library with safe namespace handling and thread-safe documents.
+2026-10-14T15:18:40.927523Z,typemind,0.1.0,0,0,https://github.com/mindyard/typemind,"Serverless autocompletion engine for Rust and Python: exact, prefix, infix, abbreviation, spelling-tolerant, word-decomposing and semantic completions from object storage"
+2026-10-14T15:19:01.190929Z,ssimu2-lite,0.1.0,0,0,https://github.com/awxkee/ssimu2-lite,SSIMULACRA2 perceptual image quality
+2026-10-14T15:19:46.292457Z,typemind-cli,0.1.0,0,0,https://github.com/mindyard/typemind,"Command-line tool for typemind databases: inspect, import, complete, compact, clean up and ingest"
+2026-10-14T15:20:36.530245Z,datadome-cloudflare-worker,0.1.0,0,0,,DataDome bot protection for Cloudflare Workers written in Rust
