@@ -1,0 +1,53 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T19:20:16.56585Z,turbopuffer,0.0.0,0,0,,Placeholder for the official Rust library for the turbopuffer API
+2026-10-14T19:23:02.015754Z,docmux-transform-references,0.6.0,0,0,https://github.com/aguschirico/docmux,Resolves docmux citations against a references list in the document (e.g. from a LaTeX .bbl)
+2026-10-14T19:23:47.290493Z,aisle-platform,0.0.2,0,0,,L6 平台后端：TunDevice 与 PlatformNet 两 trait（Linux 走 tun-rs 与 netlink），加根槽硬件后端 root_slot
+2026-10-14T19:24:03.458474Z,aisled-host,0.0.2,0,0,,aisled 宿主库：REST 控制面、Sans-IO 泵、TCP 载波、凭证库、TLS 自签
+2026-10-14T19:24:18.992224Z,aisled,0.0.2,0,0,,aisled 真机宿主守护进程与 CLI：REST 控制面、节点编排，以及网卡、出口、发布、代理与观测功能面
+2026-10-14T19:29:10.16224Z,mpeghdec-cli,0.0.1,0,0,https://github.com/elementarystream/mpeghdec-rs,"Command line MPEG-H 3D Audio decoder (Third-Party Modified Version of the Fraunhofer FDK MPEG-H Software, ported to Rust)"
+2026-10-14T19:29:55.805466Z,ulo-http-actix,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"Runs a Ulo application inside an actix-web server, as a scope or the default service"
+2026-10-14T19:33:12.632958Z,docmux-transform-section-divs,0.6.0,0,0,https://github.com/aguschirico/docmux,Section-divs transform for docmux: wraps heading sections in Div containers
+2026-10-14T19:35:15.888955Z,markright-core,0.1.0,0,0,https://github.com/vertyll/markright,"The library behind markright: parses Markdown, formats and lints it, and writes the reports"
+2026-10-14T19:35:18.606443Z,markright,0.1.0,0,0,https://github.com/vertyll/markright,Formats and lints the Markdown of a repository
+2026-10-14T19:40:05.692002Z,ulo-http-rocket,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"Runs a Ulo application inside a rocket server, mounted as catch-all routes"
+2026-10-14T19:43:22.211269Z,docmux-transform-toc,0.6.0,0,0,https://github.com/aguschirico/docmux,Table of contents generator for docmux
+2026-10-14T19:48:26.509039Z,quarb-calc,0.38.0,0,0,https://gitlab.com/quarb/engine,"qc: the Quarb calculator — the engine's value grammar, value space and value commands as a command, with every adapter off"
+2026-10-14T19:50:14.77046Z,ulo-ws-hyper,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"The standalone WebSocket server for Ulo: gateways declared `port = own`, on hyper and the listener of the app's runtime"
+2026-10-14T19:53:32.43354Z,docmux-writer-markdown,0.6.0,0,0,https://github.com/aguschirico/docmux,CommonMark/GFM Markdown writer for docmux
+2026-10-14T19:56:01.703012Z,fuel-conv,0.19.1,0,0,https://github.com/ciresnave/fuel,Reference 2D convolution primitives (im2col + direct loop). Backend-agnostic; consumed by vendor CPU backends and as the parity oracle for GPU conv shaders.
+2026-10-14T19:56:13.172069Z,fuel-cpu-kernels,0.19.1,0,0,https://github.com/ciresnave/fuel,"CPU SIMD vector primitives (VecOps, vec_dot, vec_sum, erf) for the fuel ML framework"
+2026-10-14T19:56:26.512816Z,fuel-ir,0.19.1,0,0,https://github.com/ciresnave/fuel,Core types and traits for the fuel ML framework
+2026-10-14T19:56:37.876122Z,fuel-kernel-seam-announce,0.19.1,0,0,https://github.com/ciresnave/fuel,Frozen kernel-seam handshake envelope: the SeamHello C-ABI capability/profile negotiation shared across the Fuel <-> backend-synthesizer seam
+2026-10-14T19:57:02.249434Z,fuel-kernels-source,0.19.1,0,0,https://github.com/ciresnave/fuel,Kernel source files (.slang / .wgsl / .glsl) shared across Fuel GPU backends. Compile ahead of time with src/compile.sh; compiled artifacts live in fuel-vulkan-kernels (SPIR-V) and fuel-cuda-kernels…
+2026-10-14T19:59:10.359432Z,rivet-style,0.1.0,0,0,https://github.com/c3943651-droid/rivet-ecosystem,Precompiled styling for Rivet: a DSL compiler producing flat O(1) lookup tables.
+2026-10-14T19:59:26.090707Z,rivet-ui,0.1.0,0,0,https://github.com/c3943651-droid/rivet-ecosystem,"Widget layer for Rivet: composition-based widgets, layout, events, focus, and Application."
+2026-10-14T19:59:46.346141Z,rivet-gui,0.1.0,0,0,https://github.com/c3943651-droid/rivet-ecosystem,"GUI toolkit for Linux (Wayland): window management, GPU rendering, typography, styling, and widgets."
+2026-10-14T20:00:04.7834Z,san-mateo,0.1.0,0,0,https://github.com/autumn-foundation/san-mateo,"Integration auth platform: OAuth and API key connections, token refresh, an auth proxy, syncs and actions"
+2026-10-14T20:00:07.041907Z,autumn-plugin-san-mateo,0.1.0,0,0,https://github.com/autumn-foundation/san-mateo,"San Mateo plugin for autumn-web: OAuth and API key connections, token refresh, an auth proxy, syncs and actions"
+2026-10-14T20:00:07.761234Z,san-mateo-camel,0.1.0,0,0,https://github.com/autumn-foundation/san-mateo,A rust-camel component for San Mateo: call provider APIs with stored auth from camel routes
+2026-10-14T20:00:08.412916Z,san-mateo-harvest,0.1.0,0,0,https://github.com/autumn-foundation/san-mateo,"autumn-harvest activities and workflows for San Mateo: proxy calls, token refresh and durable syncs"
+2026-10-14T20:00:09.016863Z,san-mateo-postgres,0.1.0,0,0,https://github.com/autumn-foundation/san-mateo,"Postgres store for San Mateo, with diesel-async and embedded migrations"
+2026-10-14T20:00:21.451702Z,ulo-rpc-macros,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"The RPC message and event attributes for Ulo, re-exported by ulo-rpc"
+2026-10-14T20:03:45.350975Z,docmux-writer-myst,0.6.0,0,0,https://github.com/aguschirico/docmux,MyST Markdown writer for docmux
+2026-10-14T20:04:52.540392Z,rustls-provider-libcrux-pq,0.1.0,0,0,https://github.com/ctf16/rustls-provider-libcrux-pq,"A rustls crypto provider on the libcrux crates, with post-quantum ML-KEM (FIPS 203) key exchange and ML-DSA (FIPS 204) signatures"
+2026-10-14T20:05:52.354227Z,trustlist-badge,0.1.0,0,0,https://github.com/eharain/trustlist-public,"Show your TrustList rank badge on your website: the badge image, linked to the ranking it cites."
+2026-10-14T20:06:08.368367Z,idx-core,0.3.0,0,0,https://github.com/0xrsydn/idx-cli,"Data layer for Indonesian stock market (IDX) market, financial, and ownership data"
+2026-10-14T20:06:14.108824Z,json-compress,1.0.3,0,0,https://github.com/eharain/JSON-Compress,"Lossless JSON compression that is still JSON: a key catalogue, columnar tables and a string catalogue, typically 45-75% smaller."
+2026-10-14T20:06:35.552116Z,ikigai-bayes,0.1.0,0,0,https://github.com/ikigai-rs/ikigai-bayes,"A naive-Bayes text classifier for ikigai, as resources: SpamBayes-style scoring (Robinson's per-token probabilities, Fisher's chi-squared combining) with a real unsure band, per-model golden threads,…"
+2026-10-14T20:06:41.120654Z,secure-keystore,3.0.0,0,0,https://github.com/eharain/secure-keystore,"Encrypted secrets at rest, with no service to run. Two-layer AES-256-GCM over PBKDF2-SHA256 and HKDF-SHA256, with a documented cross-language format."
+2026-10-14T20:07:05.760229Z,idx-mcp,0.3.0,0,0,https://github.com/0xrsydn/idx-cli,"MCP server for Indonesian stock market (IDX) market, financial, and ownership data"
+2026-10-14T20:08:16.12459Z,fuel-kv-pool,0.19.1,0,0,https://github.com/ciresnave/fuel,"Paged KV-cache block allocator for the fuel ML framework — leaf crate, zero fuel-internal dependencies"
+2026-10-14T20:08:21.962621Z,runomine,0.1.0,0,0,https://github.com/runomine/runomine-rust,"Cookieless analytics that counts money, not just visits: pageviews and business events sent from your Rust backend to runomine."
+2026-10-14T20:08:29.074812Z,fuel-metal-kernels,0.19.1,0,0,https://github.com/ciresnave/fuel,Metal kernels for Fuel
+2026-10-14T20:09:12.318978Z,endure-derive,0.1.0,0,0,https://github.com/avencera/endure,Derive macro for endure
+2026-10-14T20:09:14.247843Z,endure,0.1.0,0,0,https://github.com/avencera/endure,"Durable app state that feels like in-memory data, backed by redb"
+2026-10-14T20:10:28.61836Z,ulo-rpc,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"The RPC transport for Ulo: one frame grammar over TCP, UDP and message brokers, the four call shapes, and the client"
+2026-10-14T20:11:34.094528Z,mecha10-driver-servo,0.6.5,0,0,https://github.com/mecha-industries/mecha10,Hobby servo (PWM) driver for the Mecha10 robotics framework
+2026-10-14T20:11:34.999685Z,covalence-lib-data,0.1.0-dev.2,0,0,https://github.com/hiloopai/covalence,Shared byte buffers and containers for Covalence
+2026-10-14T20:11:35.345355Z,covalence-lib-error,0.1.0-dev.2,0,0,https://github.com/hiloopai/covalence,Shared typed errors and diagnostic tools for Covalence
+2026-10-14T20:11:35.560667Z,covalence-lib-rand,0.1.0-dev.2,0,0,https://github.com/hiloopai/covalence,Randomness facade
+2026-10-14T20:11:35.743669Z,covalence-lib-serde,0.1.0-dev.2,0,0,https://github.com/hiloopai/covalence,Serialization traits and derives for Covalence
+2026-10-14T20:11:35.923621Z,covalence-lib-sqlite,0.1.0-dev.2,0,0,https://github.com/hiloopai/covalence,"SQLite for Covalence, built from source"
+2026-10-14T20:13:55.759463Z,docmux-writer-plaintext,0.6.0,0,0,https://github.com/aguschirico/docmux,Plain text writer for docmux
+2026-10-14T20:19:41.214591Z,dbt-asdl,0.1.0,0,0,https://github.com/sdf-labs/dbt-asdl,ASDL parser and code generator for SQL-like AST definitions.
+2026-10-14T20:19:43.041959Z,fuel-model-core,0.19.1,0,0,https://github.com/ciresnave/fuel,Model registry + AutoModel for Fuel — the model tier's core (02-layers v0.5).

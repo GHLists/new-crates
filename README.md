@@ -8,56 +8,66 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 19:19 UTC
+## Latest list — 2026-10-14 20:19 UTC
 
-New crates published between 2026-10-14 18:19 UTC and 2026-10-14 19:19 UTC.
+New crates published between 2026-10-14 19:19 UTC and 2026-10-14 20:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-14T19-19-56-324376Z.csv)
+[Full CSV](data/new-crates-2026-10-14T20-19-57-312891Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-14 18:19:26 | [mpeghdec-formatconverter](https://crates.io/crates/mpeghdec-formatconverter) | 0.0.1 | 0 | Format converter of mpeghdec (port of libFormatConverter) |
-| 2026-10-14 18:19:41 | [rocjpeg-rs-sys](https://crates.io/crates/rocjpeg-rs-sys) | 0.1.0 | 0 | Low-level FFI bindings to AMD's rocJPEG hardware-accelerated JPEG decode library |
-| 2026-10-14 18:21:35 | [docmux-reader-markdown](https://crates.io/crates/docmux-reader-markdown) | 0.6.0 | 0 | Markdown reader for docmux (CommonMark + GFM extensions) |
-| 2026-10-14 18:24:14 | [tinymold-hash](https://crates.io/crates/tinymold-hash) | 0.0.1 | 0 | Content digests for tinymold: the BLAKE3-256 identity of every cached input and… |
-| 2026-10-14 18:24:18 | [tinymold-cas](https://crates.io/crates/tinymold-cas) | 0.0.1 | 0 | tinymold's local content-addressed store: immutable build artifacts named by BL… |
-| 2026-10-14 18:24:20 | [tinymold-key](https://crates.io/crates/tinymold-key) | 0.0.1 | 0 | Cache keys for tinymold: rustc argument classification, path normalization, dep… |
-| 2026-10-14 18:24:23 | [tinymold-wrap](https://crates.io/crates/tinymold-wrap) | 0.0.1 | 0 | tinymold's RUSTC_WRAPPER: serves rustc invocations from a content-addressed uni… |
-| 2026-10-14 18:24:39 | [tinymold-remote](https://crates.io/crates/tinymold-remote) | 0.0.1 | 0 | tinymold's remote cache tier: a REAPI v2 client that shares unit-cache entries… |
-| 2026-10-14 18:26:25 | [tinymold](https://crates.io/crates/tinymold) | 0.0.1 | 0 | Make Rust builds fast and small: content-addressed build caching, fast linking,… |
-| 2026-10-14 18:26:36 | [fuxth](https://crates.io/crates/fuxth) | 0.1.0 | 0 | A small Forth for the shell: shell-friendly words, typed values, and an evaluat… |
-| 2026-10-14 18:28:27 | [ulo-ws-macros](https://crates.io/crates/ulo-ws-macros) | 0.1.0-alpha.1 | 0 | The WebSocket gateway and message attributes for Ulo, re-exported by ulo-ws |
-| 2026-10-14 18:29:14 | [mpeghdec-igf](https://crates.io/crates/mpeghdec-igf) | 0.0.1 | 0 | Intelligent Gap Filling decoder of mpeghdec (port of libIGFdec) |
-| 2026-10-14 18:30:32 | [starlight-renderer](https://crates.io/crates/starlight-renderer) | 0.0.1 | 0 | WIP renderer framework |
-| 2026-10-14 18:31:37 | [rocker-tui](https://crates.io/crates/rocker-tui) | 0.1.0 | 0 | A vim-inspired terminal UI for Docker |
-| 2026-10-14 18:31:47 | [docmux-reader-typst](https://crates.io/crates/docmux-reader-typst) | 0.6.0 | 0 | Typst reader for docmux |
-| 2026-10-14 18:38:31 | [switchy_age](https://crates.io/crates/switchy_age) | 0.5.0 | 0 | Feature-selected SSH age wrapping for native and simulated execution |
-| 2026-10-14 18:38:35 | [ulo-ws](https://crates.io/crates/ulo-ws) | 0.1.0-alpha.1 | 0 | The WebSocket transport for Ulo: gateways, sessions, rooms and broadcast, on th… |
-| 2026-10-14 18:39:13 | [mpeghdec-pcmutils](https://crates.io/crates/mpeghdec-pcmutils) | 0.0.1 | 0 | PCM limiter and utilities of mpeghdec (port of libPCMutils) |
-| 2026-10-14 18:42:17 | [docmux-transform-cite](https://crates.io/crates/docmux-transform-cite) | 0.6.0 | 0 | CSL citation formatting for docmux, built on hayagriva |
-| 2026-10-14 18:47:39 | [libsonic](https://crates.io/crates/libsonic) | 0.1.0 | 0 | Safe Rust port of Sonic, the pitch-synchronous speech speed, pitch and volume c… |
-| 2026-10-14 18:49:13 | [mpeghdec-tpdec](https://crates.io/crates/mpeghdec-tpdec) | 0.0.1 | 0 | MPEG-H transport decoder of mpeghdec (port of libMpegTPDec) |
-| 2026-10-14 18:52:28 | [docmux-transform-crossref](https://crates.io/crates/docmux-transform-crossref) | 0.6.0 | 0 | Cross-reference resolver for docmux: numbers figures, tables, equations and sec… |
-| 2026-10-14 18:52:37 | [seb-json](https://crates.io/crates/seb-json) | 0.1.0 | 0 | Serde serializer and deserializer for SEB-JSON, the canonical JSON format Safe… |
-| 2026-10-14 18:58:37 | [mata-ecdsa](https://crates.io/crates/mata-ecdsa) | 0.1.0 | 0 | ECDSA P-256 verification with a precomputed table for the curve's fixed generat… |
-| 2026-10-14 18:59:13 | [mpeghdec-uimanager](https://crates.io/crates/mpeghdec-uimanager) | 0.0.1 | 0 | MPEG-H user interactivity manager of mpeghdec (port of libUIManager) |
-| 2026-10-14 18:59:27 | [ulo-http-axum](https://crates.io/crates/ulo-http-axum) | 0.1.0-alpha.1 | 0 | Runs a Ulo application inside an axum server, nested under a path or as the fal… |
-| 2026-10-14 18:59:53 | [omq-shm](https://crates.io/crates/omq-shm) | 0.1.0 | 0 | Linux shared-memory transport for OMQ. |
-| 2026-10-14 19:02:40 | [docmux-transform-math](https://crates.io/crates/docmux-transform-math) | 0.6.0 | 0 | Math notation conversion for docmux: LaTeX to Typst, MathML and Word (OMML), an… |
-| 2026-10-14 19:03:22 | [completype](https://crates.io/crates/completype) | 0.1.0 | 0 | Serverless autocompletion engine for Rust and Python: exact, prefix, infix, abb… |
-| 2026-10-14 19:04:23 | [completype-cli](https://crates.io/crates/completype-cli) | 0.1.0 | 0 | Command-line tool for completype databases: inspect, import, complete, compact,… |
-| 2026-10-14 19:06:55 | [shadowbox](https://crates.io/crates/shadowbox) | 0.1.0 | 0 | A zero-trust, copy-on-write sandbox and interactive time-machine for AI coding… |
-| 2026-10-14 19:06:59 | [speakrs-ptx-sm120](https://crates.io/crates/speakrs-ptx-sm120) | 0.6.0 | 0 | Prebuilt sm120 tier CUDA kernels (PTX and cubins) for the speakrs native CUDA b… |
-| 2026-10-14 19:07:00 | [speakrs-ptx-sm75](https://crates.io/crates/speakrs-ptx-sm75) | 0.6.0 | 0 | Prebuilt sm75 tier CUDA kernels (PTX and cubins) for the speakrs native CUDA ba… |
-| 2026-10-14 19:07:02 | [speakrs-ptx-sm80](https://crates.io/crates/speakrs-ptx-sm80) | 0.6.0 | 0 | Prebuilt sm80 tier CUDA kernels (PTX and cubins) for the speakrs native CUDA ba… |
-| 2026-10-14 19:07:18 | [with-secret](https://crates.io/crates/with-secret) | 0.14.0 | 0 | Runs one command with one secret, after its owner approves via Windows Hello. S… |
-| 2026-10-14 19:09:13 | [mpeghdec-core](https://crates.io/crates/mpeghdec-core) | 0.0.1 | 0 | MPEG-H 3D Audio core decoder of mpeghdec (port of libMpeghDec) |
-| 2026-10-14 19:09:38 | [ulo-http-salvo](https://crates.io/crates/ulo-http-salvo) | 0.1.0-alpha.1 | 0 | Runs a Ulo application inside a salvo server, nested under a path or as the cat… |
-| 2026-10-14 19:12:51 | [docmux-transform-number-sections](https://crates.io/crates/docmux-transform-number-sections) | 0.6.0 | 0 | Section numbering transform for docmux |
-| 2026-10-14 19:19:11 | [mpeghdec](https://crates.io/crates/mpeghdec) | 0.0.1 | 0 | MPEG-H 3D Audio decoder and UI manager (Third-Party Modified Version of the Fra… |
-| 2026-10-14 19:19:27 | [ryuk](https://crates.io/crates/ryuk) | 0.1.0 | 0 | A Laravel-style full-stack web framework for Rust: axum, SeaORM and Inertia, wi… |
-| 2026-10-14 19:19:35 | [ryuk-cli](https://crates.io/crates/ryuk-cli) | 0.1.0 | 0 | The `ryuk` command: scaffold a Ryuk app (axum, SeaORM, Inertia/Svelte), generat… |
-| 2026-10-14 19:19:47 | [ulo-http-poem](https://crates.io/crates/ulo-http-poem) | 0.1.0-alpha.1 | 0 | Runs a Ulo application inside a poem server, nested under a path or as the fall… |
+| 2026-10-14 19:20:16 | [turbopuffer](https://crates.io/crates/turbopuffer) | 0.0.0 | 0 | Placeholder for the official Rust library for the turbopuffer API |
+| 2026-10-14 19:23:02 | [docmux-transform-references](https://crates.io/crates/docmux-transform-references) | 0.6.0 | 0 | Resolves docmux citations against a references list in the document (e.g. from… |
+| 2026-10-14 19:23:47 | [aisle-platform](https://crates.io/crates/aisle-platform) | 0.0.2 | 0 | L6 平台后端：TunDevice 与 PlatformNet 两 trait（Linux 走 tun-rs 与 netlink），加根槽硬件后端 root_… |
+| 2026-10-14 19:24:03 | [aisled-host](https://crates.io/crates/aisled-host) | 0.0.2 | 0 | aisled 宿主库：REST 控制面、Sans-IO 泵、TCP 载波、凭证库、TLS 自签 |
+| 2026-10-14 19:24:18 | [aisled](https://crates.io/crates/aisled) | 0.0.2 | 0 | aisled 真机宿主守护进程与 CLI：REST 控制面、节点编排，以及网卡、出口、发布、代理与观测功能面 |
+| 2026-10-14 19:29:10 | [mpeghdec-cli](https://crates.io/crates/mpeghdec-cli) | 0.0.1 | 0 | Command line MPEG-H 3D Audio decoder (Third-Party Modified Version of the Fraun… |
+| 2026-10-14 19:29:55 | [ulo-http-actix](https://crates.io/crates/ulo-http-actix) | 0.1.0-alpha.1 | 0 | Runs a Ulo application inside an actix-web server, as a scope or the default se… |
+| 2026-10-14 19:33:12 | [docmux-transform-section-divs](https://crates.io/crates/docmux-transform-section-divs) | 0.6.0 | 0 | Section-divs transform for docmux: wraps heading sections in Div containers |
+| 2026-10-14 19:35:15 | [markright-core](https://crates.io/crates/markright-core) | 0.1.0 | 0 | The library behind markright: parses Markdown, formats and lints it, and writes… |
+| 2026-10-14 19:35:18 | [markright](https://crates.io/crates/markright) | 0.1.0 | 0 | Formats and lints the Markdown of a repository |
+| 2026-10-14 19:40:05 | [ulo-http-rocket](https://crates.io/crates/ulo-http-rocket) | 0.1.0-alpha.1 | 0 | Runs a Ulo application inside a rocket server, mounted as catch-all routes |
+| 2026-10-14 19:43:22 | [docmux-transform-toc](https://crates.io/crates/docmux-transform-toc) | 0.6.0 | 0 | Table of contents generator for docmux |
+| 2026-10-14 19:48:26 | [quarb-calc](https://crates.io/crates/quarb-calc) | 0.38.0 | 0 | qc: the Quarb calculator — the engine's value grammar, value space and value co… |
+| 2026-10-14 19:50:14 | [ulo-ws-hyper](https://crates.io/crates/ulo-ws-hyper) | 0.1.0-alpha.1 | 0 | The standalone WebSocket server for Ulo: gateways declared `port = own`, on hyp… |
+| 2026-10-14 19:53:32 | [docmux-writer-markdown](https://crates.io/crates/docmux-writer-markdown) | 0.6.0 | 0 | CommonMark/GFM Markdown writer for docmux |
+| 2026-10-14 19:56:01 | [fuel-conv](https://crates.io/crates/fuel-conv) | 0.19.1 | 0 | Reference 2D convolution primitives (im2col + direct loop). Backend-agnostic; c… |
+| 2026-10-14 19:56:13 | [fuel-cpu-kernels](https://crates.io/crates/fuel-cpu-kernels) | 0.19.1 | 0 | CPU SIMD vector primitives (VecOps, vec_dot, vec_sum, erf) for the fuel ML fram… |
+| 2026-10-14 19:56:26 | [fuel-ir](https://crates.io/crates/fuel-ir) | 0.19.1 | 0 | Core types and traits for the fuel ML framework |
+| 2026-10-14 19:56:37 | [fuel-kernel-seam-announce](https://crates.io/crates/fuel-kernel-seam-announce) | 0.19.1 | 0 | Frozen kernel-seam handshake envelope: the SeamHello C-ABI capability/profile n… |
+| 2026-10-14 19:57:02 | [fuel-kernels-source](https://crates.io/crates/fuel-kernels-source) | 0.19.1 | 0 | Kernel source files (.slang / .wgsl / .glsl) shared across Fuel GPU backends. C… |
+| 2026-10-14 19:59:10 | [rivet-style](https://crates.io/crates/rivet-style) | 0.1.0 | 0 | Precompiled styling for Rivet: a DSL compiler producing flat O(1) lookup tables. |
+| 2026-10-14 19:59:26 | [rivet-ui](https://crates.io/crates/rivet-ui) | 0.1.0 | 0 | Widget layer for Rivet: composition-based widgets, layout, events, focus, and A… |
+| 2026-10-14 19:59:46 | [rivet-gui](https://crates.io/crates/rivet-gui) | 0.1.0 | 0 | GUI toolkit for Linux (Wayland): window management, GPU rendering, typography,… |
+| 2026-10-14 20:00:04 | [san-mateo](https://crates.io/crates/san-mateo) | 0.1.0 | 0 | Integration auth platform: OAuth and API key connections, token refresh, an aut… |
+| 2026-10-14 20:00:07 | [autumn-plugin-san-mateo](https://crates.io/crates/autumn-plugin-san-mateo) | 0.1.0 | 0 | San Mateo plugin for autumn-web: OAuth and API key connections, token refresh,… |
+| 2026-10-14 20:00:07 | [san-mateo-camel](https://crates.io/crates/san-mateo-camel) | 0.1.0 | 0 | A rust-camel component for San Mateo: call provider APIs with stored auth from… |
+| 2026-10-14 20:00:08 | [san-mateo-harvest](https://crates.io/crates/san-mateo-harvest) | 0.1.0 | 0 | autumn-harvest activities and workflows for San Mateo: proxy calls, token refre… |
+| 2026-10-14 20:00:09 | [san-mateo-postgres](https://crates.io/crates/san-mateo-postgres) | 0.1.0 | 0 | Postgres store for San Mateo, with diesel-async and embedded migrations |
+| 2026-10-14 20:00:21 | [ulo-rpc-macros](https://crates.io/crates/ulo-rpc-macros) | 0.1.0-alpha.1 | 0 | The RPC message and event attributes for Ulo, re-exported by ulo-rpc |
+| 2026-10-14 20:03:45 | [docmux-writer-myst](https://crates.io/crates/docmux-writer-myst) | 0.6.0 | 0 | MyST Markdown writer for docmux |
+| 2026-10-14 20:04:52 | [rustls-provider-libcrux-pq](https://crates.io/crates/rustls-provider-libcrux-pq) | 0.1.0 | 0 | A rustls crypto provider on the libcrux crates, with post-quantum ML-KEM (FIPS… |
+| 2026-10-14 20:05:52 | [trustlist-badge](https://crates.io/crates/trustlist-badge) | 0.1.0 | 0 | Show your TrustList rank badge on your website: the badge image, linked to the… |
+| 2026-10-14 20:06:08 | [idx-core](https://crates.io/crates/idx-core) | 0.3.0 | 0 | Data layer for Indonesian stock market (IDX) market, financial, and ownership d… |
+| 2026-10-14 20:06:14 | [json-compress](https://crates.io/crates/json-compress) | 1.0.3 | 0 | Lossless JSON compression that is still JSON: a key catalogue, columnar tables… |
+| 2026-10-14 20:06:35 | [ikigai-bayes](https://crates.io/crates/ikigai-bayes) | 0.1.0 | 0 | A naive-Bayes text classifier for ikigai, as resources: SpamBayes-style scoring… |
+| 2026-10-14 20:06:41 | [secure-keystore](https://crates.io/crates/secure-keystore) | 3.0.0 | 0 | Encrypted secrets at rest, with no service to run. Two-layer AES-256-GCM over P… |
+| 2026-10-14 20:07:05 | [idx-mcp](https://crates.io/crates/idx-mcp) | 0.3.0 | 0 | MCP server for Indonesian stock market (IDX) market, financial, and ownership d… |
+| 2026-10-14 20:08:16 | [fuel-kv-pool](https://crates.io/crates/fuel-kv-pool) | 0.19.1 | 0 | Paged KV-cache block allocator for the fuel ML framework — leaf crate, zero fue… |
+| 2026-10-14 20:08:21 | [runomine](https://crates.io/crates/runomine) | 0.1.0 | 0 | Cookieless analytics that counts money, not just visits: pageviews and business… |
+| 2026-10-14 20:08:29 | [fuel-metal-kernels](https://crates.io/crates/fuel-metal-kernels) | 0.19.1 | 0 | Metal kernels for Fuel |
+| 2026-10-14 20:09:12 | [endure-derive](https://crates.io/crates/endure-derive) | 0.1.0 | 0 | Derive macro for endure |
+| 2026-10-14 20:09:14 | [endure](https://crates.io/crates/endure) | 0.1.0 | 0 | Durable app state that feels like in-memory data, backed by redb |
+| 2026-10-14 20:10:28 | [ulo-rpc](https://crates.io/crates/ulo-rpc) | 0.1.0-alpha.1 | 0 | The RPC transport for Ulo: one frame grammar over TCP, UDP and message brokers,… |
+| 2026-10-14 20:11:34 | [mecha10-driver-servo](https://crates.io/crates/mecha10-driver-servo) | 0.6.5 | 0 | Hobby servo (PWM) driver for the Mecha10 robotics framework |
+| 2026-10-14 20:11:34 | [covalence-lib-data](https://crates.io/crates/covalence-lib-data) | 0.1.0-dev.2 | 0 | Shared byte buffers and containers for Covalence |
+| 2026-10-14 20:11:35 | [covalence-lib-error](https://crates.io/crates/covalence-lib-error) | 0.1.0-dev.2 | 0 | Shared typed errors and diagnostic tools for Covalence |
+| 2026-10-14 20:11:35 | [covalence-lib-rand](https://crates.io/crates/covalence-lib-rand) | 0.1.0-dev.2 | 0 | Randomness facade |
+| 2026-10-14 20:11:35 | [covalence-lib-serde](https://crates.io/crates/covalence-lib-serde) | 0.1.0-dev.2 | 0 | Serialization traits and derives for Covalence |
+| 2026-10-14 20:11:35 | [covalence-lib-sqlite](https://crates.io/crates/covalence-lib-sqlite) | 0.1.0-dev.2 | 0 | SQLite for Covalence, built from source |
+| 2026-10-14 20:13:55 | [docmux-writer-plaintext](https://crates.io/crates/docmux-writer-plaintext) | 0.6.0 | 0 | Plain text writer for docmux |
+| 2026-10-14 20:19:41 | [dbt-asdl](https://crates.io/crates/dbt-asdl) | 0.1.0 | 0 | ASDL parser and code generator for SQL-like AST definitions. |
+| 2026-10-14 20:19:43 | [fuel-model-core](https://crates.io/crates/fuel-model-core) | 0.19.1 | 0 | Model registry + AutoModel for Fuel — the model tier's core (02-layers v0.5). |
 
 ## Data source
 
