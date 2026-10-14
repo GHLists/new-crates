@@ -1,0 +1,51 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T22:22:03.955268Z,sogar,0.0.1,0,0,,Kernel-level flight recorder and causal attribution
+2026-10-14T22:22:36.370703Z,ulo-graphql-ws,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"GraphQL subscriptions for Ulo over graphql-transport-ws, a WebSocket gateway over any engine"
+2026-10-14T22:22:39.938077Z,mathscape-migration,0.1.4,0,0,https://github.com/pleme-io/mathscape,SeaORM database migrations for mathscape PostgreSQL metadata
+2026-10-14T22:22:42.626111Z,mathscape-entity,0.1.4,0,0,https://github.com/pleme-io/mathscape,SeaORM entities — canonical data model for all mathscape tables
+2026-10-14T22:29:04.532194Z,z-stackr-gpu,1.1.0,0,0,https://github.com/suitable-name/z-stackr,"GPU kernels of z-stackr through wgpu: the alignment objective and warp, Apex, Relief, Strata and the multigrid depth solver."
+2026-10-14T22:29:13.774993Z,z-stackr-web-core,1.1.0,0,0,https://github.com/suitable-name/z-stackr,The message protocol and the memory budget policy shared by the z-stackr browser page and its Web Worker.
+2026-10-14T22:29:16.723521Z,z-stackr-web,1.1.0,0,0,https://github.com/suitable-name/z-stackr,"The z-stackr browser app: the desktop's Slint interface on a canvas, with the stacking pipeline in a Web Worker. Built with Trunk."
+2026-10-14T22:29:17.524299Z,z-stackr-web-worker,1.1.0,0,0,https://github.com/suitable-name/z-stackr,"The Web Worker of the z-stackr browser app: decodes a message, runs the stacking pipeline, posts the reply. Built by Trunk as a worker next to apps/stacker-web."
+2026-10-14T22:29:52.618147Z,fuel-cuda-backend,0.19.1,0,0,https://github.com/ciresnave/fuel,"CUDA GPU backend for the fuel ML framework: dtype-tagged storage, kernel dispatch (matmul/conv/softmax/rope/rms_norm/quantized), and lazy-graph executor integration. Built on the baracuda-* FFI crate…"
+2026-10-14T22:31:19.996713Z,timelake-format,0.4.0,0,0,https://github.com/polythings/timelake,"Timelake's table conventions, shared by the engine and the WASM reader (no I/O)"
+2026-10-14T22:31:21.026843Z,timelake,0.4.0,0,0,https://github.com/polythings/timelake,"The open time-series lakehouse: fast queries on your own object storage, with no database and no maintenance jobs"
+2026-10-14T22:31:22.865529Z,timelake-cli,0.4.0,0,0,https://github.com/polythings/timelake,Command-line interface for Timelake
+2026-10-14T22:32:42.340703Z,focus-timer-cli,0.1.0,0,0,https://github.com/th1ag0-Zz/pomodoro-cli,A pomodoro timer with animated terminal clock and hourglass views
+2026-10-14T22:32:46.575792Z,ulo-graphql-http,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"GraphQL over HTTP for Ulo: the endpoint controller, its status rules and the playground"
+2026-10-14T22:34:22.104634Z,leptos-rich-chat,0.1.0,0,0,https://github.com/wpm/Rich-Chat,"Leptos chat components that render Markdown, LaTeX math, and syntax-highlighted code"
+2026-10-14T22:40:08.673879Z,ringlet-hash,0.1.1,0,0,https://github.com/DMustache/ringlet,Consistent hashing with weighted nodes and cluster migration previews
+2026-10-14T22:41:08.399999Z,fuel-metal-backend,0.19.1,0,0,https://github.com/ciresnave/fuel,Metal backend for the fuel ML framework
+2026-10-14T22:41:32.886254Z,clean-code-lints,0.2.0,0,0,https://github.com/george2f/rust-clean-code,"Clean Code lints for Rust source code, derived from the clean-code ESLint plugin"
+2026-10-14T22:42:07.700561Z,cargo-clean-code,0.2.0,0,0,https://github.com/george2f/rust-clean-code,Cargo subcommand that checks a Rust project with clean-code-lints
+2026-10-14T22:42:55.545132Z,ulo-graphql-async-graphql,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,The async-graphql engine for Ulo's GraphQL bindings
+2026-10-14T22:49:46.473875Z,onestop-antibot,0.1.0,0,0,https://github.com/Onestopapi/onestop-rust-sdk,"OneStop Antibot SDK: generate Akamai, SBSD, Pixel, DataDome, Cloudflare and Kasada payloads through the /generate API."
+2026-10-14T22:52:24.799209Z,fuel-hardware,0.19.1,0,0,https://github.com/ciresnave/fuel,"Hardware discovery for the fuel ML framework — device enumeration, probe reports, transfer calibration, topology"
+2026-10-14T22:53:07.528677Z,ulo-graphql-juniper,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,The juniper engine for Ulo's GraphQL bindings
+2026-10-14T22:53:22.562329Z,rs-redb-dump-kvpairs2jsonl,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-redb-dump-kvpairs2jsonl,Dump redb key-value pairs to JSONL
+2026-10-14T22:54:26.788201Z,git-repo-worktree,2.0.0,0,0,https://github.com/jomof/git-repo-worktree,Whole-tree linked worktrees for Google repo clients
+2026-10-14T22:57:05.555984Z,tui-nuances,0.1.6,0,0,https://github.com/sorinirimies/tui-nuances,"Shared theming for ratatui widget libraries: one Theme, 16 built-in palettes, semantic styles, contrast-aware color math and terminal color downgrade"
+2026-10-14T22:58:52.249099Z,cosmic-text-kora,0.18.0,0,0,https://github.com/playtron-os/cosmic-text,Pure Rust multi-line text handling (Playtron's Kora fork of cosmic-text)
+2026-10-14T22:59:06.184663Z,wgpu-types-kora,28.0.1,0,0,https://github.com/playtron-os/wgpu,"Common types and utilities for wgpu, the cross-platform, safe, pure-rust graphics API (Playtron's Kora fork of wgpu-types)"
+2026-10-14T22:59:08.402664Z,wgpu-hal-kora,28.0.1,0,0,https://github.com/playtron-os/wgpu,"Hardware abstraction layer for wgpu, the cross-platform, safe, pure-rust graphics API (Playtron's Kora fork of wgpu-hal)"
+2026-10-14T22:59:10.690804Z,wgpu-core-deps-apple-kora,28.0.1,0,0,https://github.com/playtron-os/wgpu,Feature unification helper crate for Apple platforms (Playtron's Kora fork of wgpu-core-deps-apple)
+2026-10-14T22:59:11.000337Z,wgpu-core-deps-emscripten-kora,28.0.1,0,0,https://github.com/playtron-os/wgpu,Feature unification helper crate for the Emscripten platform (Playtron's Kora fork of wgpu-core-deps-emscripten)
+2026-10-14T23:03:40.643887Z,fuel-memory,0.19.1,0,0,https://github.com/ciresnave/fuel,Unified storage abstraction for fuel: byte-shaped Storage owning bytes + dtype + backend memory region. Closed enum over CPU/CUDA/Vulkan/Metal variants. Backends provide kernels against these types;…
+2026-10-14T23:04:39.694117Z,terrio,0.1.0,0,0,https://github.com/opengeos/terrio,"Pure-Rust geospatial raster, vector and point cloud data I/O: read, write, convert and reproject GIS formats without C dependencies"
+2026-10-14T23:05:02.846844Z,terrio-cli,0.1.0,0,0,https://github.com/opengeos/terrio,"Command-line interface for terrio: GDAL-style info, convert, translate and warp in pure Rust"
+2026-10-14T23:06:14.46885Z,fonts-rs-cuernavaca-cheat-sheet,0.5.0,0,0,https://github.com/smearor/fonts-rs,Chess Cuernavaca cheat sheet application
+2026-10-14T23:06:18.575097Z,fonts-rs-dicefont-cheat-sheet,0.5.0,0,0,https://github.com/smearor/fonts-rs,Dicefont cheat sheet application
+2026-10-14T23:06:22.163682Z,fonts-rs-doto-cheat-sheet,0.5.0,0,0,https://github.com/smearor/fonts-rs,Doto dot-matrix font cheat sheet application
+2026-10-14T23:06:25.962072Z,fonts-rs-eva-cheat-sheet,0.5.0,0,0,https://github.com/smearor/fonts-rs,Eva Icons cheat sheet application
+2026-10-14T23:06:42.794623Z,fonts-rs-fluent-cheat-sheet,0.5.0,0,0,https://github.com/smearor/fonts-rs,Fluent UI System Icons cheat sheet application
+2026-10-14T23:06:48.371726Z,wgpu-core-deps-wasm-kora,28.0.1,0,0,https://github.com/playtron-os/wgpu,Feature unification helper crate for the WebAssembly platform (Playtron's Kora fork of wgpu-core-deps-wasm)
+2026-10-14T23:09:32.943962Z,sci-core,0.0.0,0,0,https://github.com/p-sira/sci,WIP: Shared types and errors for scientific computing; initial release in development
+2026-10-14T23:09:48.022388Z,sci-cluster,0.0.0,0,0,https://github.com/p-sira/sci,WIP: Clustering algorithms for scientific computing; initial release in development
+2026-10-14T23:09:50.541641Z,sci-complex,0.0.0,0,0,https://github.com/p-sira/sci,WIP: Complex-number utilities for scientific computing; initial release in development
+2026-10-14T23:09:53.071892Z,sci-constants,0.0.0,0,0,https://github.com/p-sira/sci,WIP: Mathematical and physical constants; initial release in development
+2026-10-14T23:09:56.241038Z,sci-differentiate,0.0.0,0,0,https://github.com/p-sira/sci,WIP: Numerical differentiation and derivatives; initial release in development
+2026-10-14T23:11:51.249843Z,tui-chart,0.1.1,0,0,https://github.com/sorinirimies/tui-chart,"Terminal chart widgets for ratatui: line, bar, candlestick, histogram, heatmap, gauge, radar, treemap and more, with themes, annotations and streaming"
+2026-10-14T23:13:29.366914Z,sci-fft,0.0.0,0,0,https://github.com/p-sira/sci,WIP: Fast Fourier and discrete cosine transforms; initial release in development
+2026-10-14T23:15:02.035528Z,fuel-dispatch,0.19.1,0,0,https://github.com/ciresnave/fuel,"Dispatch infrastructure for fuel: KernelBindingTable, per-backend registration wrappers, CompiledNode + compile_node, ExecutionPlan + compile_plan + resolve_kernel, FusedKernelRegistry, PipelinedExec…"
+2026-10-14T23:16:27.456372Z,wgpu-core-deps-windows-linux-android-kora,28.0.1,0,0,https://github.com/playtron-os/wgpu,Feature unification helper crate for the Windows/Linux/Android platforms (Playtron's Kora fork of wgpu-core-deps-windows-linux-android)
+2026-10-14T23:19:34.729076Z,mackeys-core,0.1.0,0,0,https://github.com/noxaur/mackeys-sdk,"Engine of MacKeys: geometry, themes and state machines for interactive Mac keyboards and Force Touch trackpads."
