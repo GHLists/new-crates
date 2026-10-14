@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T11:20:09.292036Z,liminal-cli,0.2.0,0,0,https://github.com/ablative-io/liminal,"The liminal command: serve the network, maintain its stores, or serve its discovery MCP over stdio"
+2026-10-14T11:25:02.793356Z,alonzo,0.1.0,0,0,https://github.com/Spreadsheet-Company/Alonzo,"The browser's Lisp machine: a game engine in WebAssembly whose language is VLA, whose scene is a grid of cells, and whose devices are sheets"
+2026-10-14T11:25:28.522288Z,drmkit-planes,0.1.0,0,0,https://github.com/jwinarske/drmkit,"Display-plane registry, layer model, and the bipartite plane allocator for drmkit."
+2026-10-14T11:29:24.856666Z,yog-formats,0.2.0,0,0,,"The schemas of Yog's source formats — .yblock/.yitem, .yrecipe, .ydef, .yres, yog.toml — for the build and the editors."
+2026-10-14T11:30:23.882295Z,danfe,0.1.0,0,0,https://github.com/juniortada/rust_danfe,DANFE (NF-e) e DANFE NFC-e em PDF a partir do XML autorizado
+2026-10-14T11:35:27.899219Z,drmkit-cursor,0.1.0,0,0,https://github.com/jwinarske/drmkit,Cursor themes and rasterized cursors
+2026-10-14T11:35:34.292716Z,bothy,0.0.1,0,0,https://github.com/bothy-sync/bothy,"Serverless, local-first sync engine that uses the user's own cloud storage (Google Drive) as the transport. Early development."
+2026-10-14T11:35:51.202777Z,riscvc-macros,0.1.1,0,0,https://github.com/Jabberwocky238/riscvc.rs,Procedural macros for riscvc: instruction tables (#[derive(Isa)]) and the opcode union (#[derive(Opcode)])
+2026-10-14T11:35:51.783102Z,bothy-cli,0.0.1,0,0,https://github.com/bothy-sync/bothy,"Command-line tool for Bothy, a serverless local-first sync engine that uses your own Google Drive as the transport. Early development."
+2026-10-14T11:45:28.328984Z,drmkit-display,0.1.0,0,0,https://github.com/jwinarske/drmkit,Display characterisation and colour handling for drmkit
+2026-10-14T11:45:46.818766Z,tirage,2.0.0,0,0,https://github.com/espadat-studio/tirage,"Original generative artwork and animations, rendered from code. A seeded Recipe in, pixels out."
+2026-10-14T11:49:39.793308Z,tirage-encode,0.0.1,0,0,https://github.com/espadat-studio/tirage,Encode a tirage Loop to an H.264 MP4.
+2026-10-14T11:50:58.565109Z,tirage-cli,0.0.1,0,0,https://github.com/espadat-studio/tirage,"Command line for tirage: derive a Recipe from a Seed, render it to PNG or SVG."
+2026-10-14T11:55:24.470241Z,drmkit-scene,0.1.0,0,0,https://github.com/jwinarske/drmkit,"Scene composition for drmkit: buffer sources, layer lowering, and atomic commit orchestration."
+2026-10-14T11:56:26.461129Z,atlas-sys,0.47.0,0,0,https://github.com/ecmwf/atlas,Build-only crate for ECMWF atlas (grid/mesh library)
+2026-10-14T11:58:21.632476Z,edifabric-x12-native-linux-arm64,1.1.1,0,0,https://github.com/EdiFabric/edifabric-rust-bindings,"The ediFabric Native X12 library for Linux arm64 (glibc 2.34+), bundled by the edifabric-x12 crate."
+2026-10-14T11:58:23.247369Z,edifabric-x12-native-linux-x64,1.1.1,0,0,https://github.com/EdiFabric/edifabric-rust-bindings,"The ediFabric Native X12 library for Linux x64 (glibc 2.34+), bundled by the edifabric-x12 crate."
+2026-10-14T11:58:24.726156Z,edifabric-x12-native-osx-arm64,1.1.1,0,0,https://github.com/EdiFabric/edifabric-rust-bindings,"The ediFabric Native X12 library for macOS arm64 (12+), bundled by the edifabric-x12 crate."
+2026-10-14T11:58:25.926526Z,edifabric-x12-native-win-x64,1.1.1,0,0,https://github.com/EdiFabric/edifabric-rust-bindings,"The ediFabric Native X12 library for Windows x64, bundled by the edifabric-x12 crate."
+2026-10-14T11:58:27.068183Z,edifabric-x12,1.1.1,0,0,https://github.com/EdiFabric/edifabric-rust-bindings,"Rust bindings for ediFabric Native X12: convert X12 EDI to JSON and back, validate, and generate acknowledgments."
+2026-10-14T12:05:34.060188Z,drmkit-csd,0.1.0,0,0,https://github.com/jwinarske/drmkit,"Client-side window decorations for drmkit: themes, shadows, and title bars."
+2026-10-14T12:13:03.411737Z,golay-code,0.1.0,0,0,https://github.com/HamaguRe/golay-code,"Extended binary Golay code (24, 12) encoder/decoder"
+2026-10-14T12:15:34.159634Z,drmkit-scene-gbm,0.1.0,0,0,https://github.com/jwinarske/drmkit,"A drmkit scene source backed by a GBM surface, for GL and Vulkan producers."
+2026-10-14T12:20:21.849605Z,terraphim_rolegraph_core,0.1.1,0,0,https://github.com/terraphim/terraphim-core,"Dep-light core types from terraphim_rolegraph: TriggerIndex (TF-IDF) + SymbolicEmbedding (IS-A hierarchy Jaccard). No tokio, no reqwest, no terraphim_automata."

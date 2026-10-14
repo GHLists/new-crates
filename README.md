@@ -8,44 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 11:19 UTC
+## Latest list — 2026-10-14 12:21 UTC
 
-New crates published between 2026-10-14 10:21 UTC and 2026-10-14 11:19 UTC.
+New crates published between 2026-10-14 11:19 UTC and 2026-10-14 12:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-14T11-19-06-525756Z.csv)
+[Full CSV](data/new-crates-2026-10-14T12-21-08-778937Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-14 10:22:56 | [statute](https://crates.io/crates/statute) | 0.0.1 | 0 | Compile a constitution and chosen rules into the instruction files coding agent… |
-| 2026-10-14 10:24:02 | [even-better-auth](https://crates.io/crates/even-better-auth) | 0.1.0 | 0 | Framework-agnostic authentication library for Rust, a port of better-auth |
-| 2026-10-14 10:24:04 | [even-better-auth-axum](https://crates.io/crates/even-better-auth-axum) | 0.1.0 | 0 | axum integration for even-better-auth |
-| 2026-10-14 10:24:05 | [even-better-auth-redis](https://crates.io/crates/even-better-auth-redis) | 0.1.0 | 0 | Redis secondary storage for even-better-auth |
-| 2026-10-14 10:24:05 | [even-better-auth-sqlx](https://crates.io/crates/even-better-auth-sqlx) | 0.1.0 | 0 | SQL database adapter (SQLite, Postgres, MySQL) for even-better-auth |
-| 2026-10-14 10:25:42 | [drmkit-fmt](https://crates.io/crates/drmkit-fmt) | 0.1.0 | 0 | DRM format and format-modifier support for drmkit: IN_FORMATS tables, modifier… |
-| 2026-10-14 10:25:44 | [drmkit-log](https://crates.io/crates/drmkit-log) | 0.1.0 | 0 | Diagnostic surface for drmkit: process-wide level, installable sink, and per-ca… |
-| 2026-10-14 10:25:44 | [drmkit-sync](https://crates.io/crates/drmkit-sync) | 0.1.0 | 0 | Explicit synchronization primitives for drmkit: sync_file fences for IN_FENCE_F… |
-| 2026-10-14 10:25:44 | [drmkit-time](https://crates.io/crates/drmkit-time) | 0.1.0 | 0 | Monotonic clock abstraction for drmkit: a swappable presentation clock for anim… |
-| 2026-10-14 10:25:46 | [drmkit-core](https://crates.io/crates/drmkit-core) | 0.1.0 | 0 | Core DRM/KMS device access for drmkit: device handles, property caching, and at… |
-| 2026-10-14 10:28:14 | [soundcraft](https://crates.io/crates/soundcraft) | 0.1.2 | 0 | A zero-dependency audio synthesis, waveform generator, ADSR envelope, and WAV f… |
-| 2026-10-14 10:31:37 | [main-spex](https://crates.io/crates/main-spex) | 0.19.1 | 0 | AI-first development framework that turns specifications into deterministic, ve… |
-| 2026-10-14 10:35:33 | [drmkit-dumb](https://crates.io/crates/drmkit-dumb) | 0.1.0 | 0 | DRM dumb buffers for drmkit: GPU-free, CPU-mappable scanout surfaces with lifet… |
-| 2026-10-14 10:36:33 | [figcraft](https://crates.io/crates/figcraft) | 0.1.2 | 0 | A zero-dependency UI wireframe, flexbox-like box model layout engine, and figur… |
-| 2026-10-14 10:39:17 | [lsda](https://crates.io/crates/lsda) | 0.1.0 | 0 | Read and write the language-specific data area of GCC-compatible exception hand… |
-| 2026-10-14 10:41:11 | [lievo](https://crates.io/crates/lievo) | 0.2.0 | 0 | Code analysis and knowledge platform — analyze codebases, query entity graphs,… |
-| 2026-10-14 10:45:29 | [drmkit-capture](https://crates.io/crates/drmkit-capture) | 0.1.0 | 0 | Read back what a CRTC is scanning out, and write it to a file |
-| 2026-10-14 10:46:40 | [orcrustrator](https://crates.io/crates/orcrustrator) | 0.1.1 | 0 | A pure, high-performance API aggregator and relational orchestrator with multi-… |
-| 2026-10-14 10:55:26 | [drmkit-gbm](https://crates.io/crates/drmkit-gbm) | 0.1.0 | 0 | GBM buffer allocation for drmkit |
-| 2026-10-14 11:05:28 | [drmkit-input](https://crates.io/crates/drmkit-input) | 0.1.0 | 0 | Keyboard, pointer and touch input: libinput devices and xkb key resolution |
-| 2026-10-14 11:07:50 | [murattal](https://crates.io/crates/murattal) | 0.1.0 | 0 | Listen to Quran recitation from your terminal — streams full surahs in the back… |
-| 2026-10-14 11:09:36 | [unicraft](https://crates.io/crates/unicraft) | 0.1.2 | 0 | The unified creative engine and umbrella studio facade for the Craft ecosystem,… |
-| 2026-10-14 11:10:58 | [anza-blstrs](https://crates.io/crates/anza-blstrs) | 0.7.1 | 0 | High performance implementation of BLS12 381 |
-| 2026-10-14 11:11:59 | [acid-cat-catalog](https://crates.io/crates/acid-cat-catalog) | 0.1.0 | 0 | Write an AcidCat catalog in Rust and render it in canonical form. |
-| 2026-10-14 11:15:29 | [drmkit-modeset](https://crates.io/crates/drmkit-modeset) | 0.1.0 | 0 | Mode selection and page-flip event dispatch for drmkit. |
-| 2026-10-14 11:16:06 | [fonts-rs-eva](https://crates.io/crates/fonts-rs-eva) | 0.5.0 | 0 | Eva Icons font integration for GTK 4 and pixel-drawing |
-| 2026-10-14 11:16:21 | [fonts-rs-fluent](https://crates.io/crates/fonts-rs-fluent) | 0.5.0 | 0 | Fluent UI System Icons integration for GTK 4 - hybrid TTF + SVG icon set |
-| 2026-10-14 11:16:25 | [fonts-rs-heroicons](https://crates.io/crates/fonts-rs-heroicons) | 0.5.0 | 0 | Heroicons integration for GTK 4 - fontless SVG-only icon set |
-| 2026-10-14 11:16:29 | [fonts-rs-line-awesome](https://crates.io/crates/fonts-rs-line-awesome) | 0.5.0 | 0 | Line Awesome integration for GTK 4 - hybrid TTF + SVG icon set (Font Awesome 5… |
-| 2026-10-14 11:16:34 | [fonts-rs-lucide](https://crates.io/crates/fonts-rs-lucide) | 0.5.0 | 0 | Lucide Icons integration for GTK 4 - fontless SVG-only icon set |
+| 2026-10-14 11:20:09 | [liminal-cli](https://crates.io/crates/liminal-cli) | 0.2.0 | 0 | The liminal command: serve the network, maintain its stores, or serve its disco… |
+| 2026-10-14 11:25:02 | [alonzo](https://crates.io/crates/alonzo) | 0.1.0 | 0 | The browser's Lisp machine: a game engine in WebAssembly whose language is VLA,… |
+| 2026-10-14 11:25:28 | [drmkit-planes](https://crates.io/crates/drmkit-planes) | 0.1.0 | 0 | Display-plane registry, layer model, and the bipartite plane allocator for drmk… |
+| 2026-10-14 11:29:24 | [yog-formats](https://crates.io/crates/yog-formats) | 0.2.0 | 0 | The schemas of Yog's source formats — .yblock/.yitem, .yrecipe, .ydef, .yres, y… |
+| 2026-10-14 11:30:23 | [danfe](https://crates.io/crates/danfe) | 0.1.0 | 0 | DANFE (NF-e) e DANFE NFC-e em PDF a partir do XML autorizado |
+| 2026-10-14 11:35:27 | [drmkit-cursor](https://crates.io/crates/drmkit-cursor) | 0.1.0 | 0 | Cursor themes and rasterized cursors |
+| 2026-10-14 11:35:34 | [bothy](https://crates.io/crates/bothy) | 0.0.1 | 0 | Serverless, local-first sync engine that uses the user's own cloud storage (Goo… |
+| 2026-10-14 11:35:51 | [riscvc-macros](https://crates.io/crates/riscvc-macros) | 0.1.1 | 0 | Procedural macros for riscvc: instruction tables (#[derive(Isa)]) and the opcod… |
+| 2026-10-14 11:35:51 | [bothy-cli](https://crates.io/crates/bothy-cli) | 0.0.1 | 0 | Command-line tool for Bothy, a serverless local-first sync engine that uses you… |
+| 2026-10-14 11:45:28 | [drmkit-display](https://crates.io/crates/drmkit-display) | 0.1.0 | 0 | Display characterisation and colour handling for drmkit |
+| 2026-10-14 11:45:46 | [tirage](https://crates.io/crates/tirage) | 2.0.0 | 0 | Original generative artwork and animations, rendered from code. A seeded Recipe… |
+| 2026-10-14 11:49:39 | [tirage-encode](https://crates.io/crates/tirage-encode) | 0.0.1 | 0 | Encode a tirage Loop to an H.264 MP4. |
+| 2026-10-14 11:50:58 | [tirage-cli](https://crates.io/crates/tirage-cli) | 0.0.1 | 0 | Command line for tirage: derive a Recipe from a Seed, render it to PNG or SVG. |
+| 2026-10-14 11:55:24 | [drmkit-scene](https://crates.io/crates/drmkit-scene) | 0.1.0 | 0 | Scene composition for drmkit: buffer sources, layer lowering, and atomic commit… |
+| 2026-10-14 11:56:26 | [atlas-sys](https://crates.io/crates/atlas-sys) | 0.47.0 | 0 | Build-only crate for ECMWF atlas (grid/mesh library) |
+| 2026-10-14 11:58:21 | [edifabric-x12-native-linux-arm64](https://crates.io/crates/edifabric-x12-native-linux-arm64) | 1.1.1 | 0 | The ediFabric Native X12 library for Linux arm64 (glibc 2.34+), bundled by the… |
+| 2026-10-14 11:58:23 | [edifabric-x12-native-linux-x64](https://crates.io/crates/edifabric-x12-native-linux-x64) | 1.1.1 | 0 | The ediFabric Native X12 library for Linux x64 (glibc 2.34+), bundled by the ed… |
+| 2026-10-14 11:58:24 | [edifabric-x12-native-osx-arm64](https://crates.io/crates/edifabric-x12-native-osx-arm64) | 1.1.1 | 0 | The ediFabric Native X12 library for macOS arm64 (12+), bundled by the edifabri… |
+| 2026-10-14 11:58:25 | [edifabric-x12-native-win-x64](https://crates.io/crates/edifabric-x12-native-win-x64) | 1.1.1 | 0 | The ediFabric Native X12 library for Windows x64, bundled by the edifabric-x12… |
+| 2026-10-14 11:58:27 | [edifabric-x12](https://crates.io/crates/edifabric-x12) | 1.1.1 | 0 | Rust bindings for ediFabric Native X12: convert X12 EDI to JSON and back, valid… |
+| 2026-10-14 12:05:34 | [drmkit-csd](https://crates.io/crates/drmkit-csd) | 0.1.0 | 0 | Client-side window decorations for drmkit: themes, shadows, and title bars. |
+| 2026-10-14 12:13:03 | [golay-code](https://crates.io/crates/golay-code) | 0.1.0 | 0 | Extended binary Golay code (24, 12) encoder/decoder |
+| 2026-10-14 12:15:34 | [drmkit-scene-gbm](https://crates.io/crates/drmkit-scene-gbm) | 0.1.0 | 0 | A drmkit scene source backed by a GBM surface, for GL and Vulkan producers. |
+| 2026-10-14 12:20:21 | [terraphim_rolegraph_core](https://crates.io/crates/terraphim_rolegraph_core) | 0.1.1 | 0 | Dep-light core types from terraphim_rolegraph: TriggerIndex (TF-IDF) + Symbolic… |
 
 ## Data source
 
