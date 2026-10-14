@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T15:21:17.204139Z,zsurf-cli,0.1.0,0,0,https://github.com/cesarferreira/zurf,Switch projects with ranked search and Git context
+2026-10-14T15:21:42.520715Z,rmemtbl,0.1.3,0,0,https://github.com/karmann-dm/rmemtbl,"The in-memory write buffer of an LSM storage engine, built on rskipl, a lock-free, arena-backed MVCC skiplist."
+2026-10-14T15:22:40.811498Z,embala-setup-overlay,0.4.1,0,0,https://github.com/hurricanehrndz/embala,Shared PE-overlay trailer format for embala's setup.exe writer and runtime stub
+2026-10-14T15:22:42.512404Z,embala-setup,0.4.1,0,0,https://github.com/hurricanehrndz/embala,"Windows setup.exe builder — appends a payload overlay onto a prebuilt runtime stub, no compile"
+2026-10-14T15:23:05.26691Z,runlength,0.1.0,0,0,https://github.com/pyranges/runlength,Generic run-length encoded sequences with plan-based arithmetic.
+2026-10-14T15:23:42.491033Z,runlength-arrow,0.1.0,0,0,https://github.com/pyranges/runlength,Run-length encoded sequences over Apache Arrow arrays of any type.
+2026-10-14T15:24:32.54574Z,bq-freighter,0.1.0,0,0,https://github.com/faradayio/freighter,"Bulk-load a BigQuery table into Bigtable in key order, with per-shard verdicts you can verify"
+2026-10-14T15:24:36.166441Z,navidog-navigator,0.0.1,0,0,https://github.com/xhofe/navidog,Object browser for navidog.
+2026-10-14T15:24:36.844622Z,deepformants_features,0.1.2,0,0,https://tangled.org/superaidesu.tngl.sh/deepformants_features/,"Crate for feature extraction used in DeepFormants, with PyO3 bindings"
+2026-10-14T15:25:14.033543Z,navidog-query,0.0.1,0,0,https://github.com/xhofe/navidog,SQL query editor for navidog.
+2026-10-14T15:26:03.351773Z,correct_hooks,0.1.0,0,0,https://github.com/pdiffley/correct-hooks,"Asymmetric signing, verification, and key management for webhooks"
+2026-10-14T15:26:25.306583Z,navidog,0.0.1,0,0,https://github.com/xhofe/navidog,Database client for macOS.
+2026-10-14T15:43:20.259288Z,swiftide-tasks,0.33.0,0,0,https://github.com/bosun-ai/swiftide,"Composable LLM agents, typed task graphs, and streaming RAG pipelines in Rust"
+2026-10-14T15:45:52.262418Z,manivelle_macros,0.1.0,0,0,https://github.com/Glubus/Manivelle,Derive macros for Manivelle TypeScript schemas
+2026-10-14T15:46:20.249263Z,manivelle,0.1.0,0,0,https://github.com/Glubus/Manivelle,Embedded TypeScript runtime for Rust with typed host contracts and generated SDKs
+2026-10-14T15:52:00.923138Z,dioxus-core-template,0.0.0,0,0,https://github.com/DioxusLabs/dioxus/,Static template representation and const builder for Dioxus.
+2026-10-14T15:52:03.388061Z,dioxus-const-vec,0.0.0,0,0,https://github.com/dioxuslabs/dioxus,A fixed-capacity Vec usable in const contexts
+2026-10-14T15:54:56.644395Z,ic-host-text,0.18.2,0,0,https://github.com/dragginzgame/ic-host-tooling,Pure terminal-safe escaping and Unicode-aware text tables
+2026-10-14T15:55:04.94356Z,solex-types,0.1.3,0,0,https://github.com/lgalabru/solex,"Release-channel types for Solex: the embeddable `solex` config section, channel resolution, and the #[channel] grammar"
+2026-10-14T15:55:05.632001Z,solex-core,0.1.3,0,0,https://github.com/lgalabru/solex,"Build, deploy, and feature-matrix logic for the solex CLI"
+2026-10-14T15:55:05.901378Z,solex-macros,0.1.3,0,0,https://github.com/lgalabru/solex,Proc macros for the Solex framework: channel-gated features and manifest-driven program ids
+2026-10-14T15:55:07.931601Z,solex-lang,0.1.3,0,0,https://github.com/lgalabru/solex,Ship Solana program features per release channel with #[channel(...)]
+2026-10-14T15:55:08.218613Z,solex-mcp,0.1.3,0,0,https://github.com/lgalabru/solex,"MCP server for solex: release channels, feature matrix, builds and deploy plans for agents"
+2026-10-14T16:06:07.513981Z,solex,0.1.3,0,0,https://github.com/lgalabru/solex,solex CLI: build and deploy Solana programs per release channel
+2026-10-14T16:08:00.30749Z,clap-complete-rawline,0.1.0,0,0,https://github.com/douzebis/yb,"Bash completion for clap from the raw command line, without COMP_WORDS splitting"
+2026-10-14T16:11:45.293733Z,slop-proxy,0.1.0,0,0,https://github.com/amaanq/slop-proxy,"Pools subscription accounts behind one Anthropic, OpenAI and Gemini compatible endpoint"
+2026-10-14T16:12:52.253054Z,infix-to-postfix,1.0.0,0,0,https://github.com/antiMRS/infix-to-postfix/,Shouting Yard algorithm realisation in rust
+2026-10-14T16:14:59.722545Z,opinionated,0.1.0,0,0,https://github.com/forest-rs/layerstack,Layered sparse opinion resolution over typed addresses.
+2026-10-14T16:16:34.378567Z,suit-combination,0.1.0,0,0,https://github.com/jdh8/suit-combination,Single-dummy suit-combination solver for contract bridge
+2026-10-14T16:17:38.518593Z,yubiblob,0.1.0,0,0,https://github.com/douzebis/yb,"libyubiblob: a blob store on a YubiKey, for C and C++ programs (yb's C API)"
