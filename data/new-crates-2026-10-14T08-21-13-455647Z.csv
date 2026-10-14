@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T07:22:35.29464Z,rpi-webui,0.1.0,0,0,https://github.com/pi-rust/rpi-package,Launch Open WebUI for rpi with the reusable ACP integration
+2026-10-14T07:22:44.572137Z,rpi-permission-gate,0.1.0,0,0,https://github.com/pi-rust/rpi-package,Tool-call permission gate extension for rpi — confirm dangerous bash/write/edit calls via the host UI dialog
+2026-10-14T07:23:07.053395Z,space-sdk,0.1.0,0,0,https://github.com/LoongYearMeta/space-backend,"Space SDK for TBC wallets, NFT transactions, signed business states, and resumable workflows"
+2026-10-14T07:27:10.217249Z,rightkit-onnx,0.2.3,0,0,https://github.com/Orthic-Labs/rightkit,"Product-neutral ONNX Runtime dynamic-library resolution, environment, execution-provider and session setup (single suite ort pin)"
+2026-10-14T07:27:25.283485Z,copyleaks,1.0.0,0,0,https://github.com/Copyleaks/copyleaks-rust,"Copyleaks is the integrity layer for your tech stack that helps organizations and individuals understand what's human-made and original, AI-generated, or manipulated across text, image, audio and vid…"
+2026-10-14T07:29:51.944514Z,revault_archive_v3_reader,0.0.8,0,0,https://github.com/onepub-dev/reVault,Frozen lockbox v2/v3 reader for the isolated reVault migration exporter
+2026-10-14T07:31:43.388155Z,format198x-amstrad-cpc-dsk,0.1.0,0,0,https://github.com/format198x/format198x,CPCEMU DSK/EDSK reading and standard Spectrum +3DOS disk mastering
+2026-10-14T07:32:50.007605Z,revault_vault_v3_reader,0.0.8,0,0,https://github.com/onepub-dev/reVault,Frozen vault v3 reader for isolated migration to current reVault containers
+2026-10-14T07:35:17.246114Z,revault_migrate_archive_v3,0.0.8,0,0,https://github.com/onepub-dev/reVault,Isolated authoritative-state exporter for lockbox formats v2 and v3
+2026-10-14T07:36:33.998712Z,shephrd,0.1.0,0,0,https://github.com/BlaiseMoses01/shephrd,Adversarial LLM reviewer for Claude Code permission requests
+2026-10-14T07:37:15.37661Z,rightkit-overlay,0.1.1,0,0,https://github.com/Orthic-Labs/rightkit,"Shared overlay state, hit testing, and placement policy for Right Suite apps"
+2026-10-14T07:46:55.301907Z,phoenixreportformatter,1.0.0,0,0,https://gitlab.in2p3.fr/CTA-LAPP/PHOENIX_LIBS2/HouseKeeping/phoenixreportformatter,Transcribe clang-tidy/clippy lint output into a GitLab Code Quality report
+2026-10-14T07:47:34.705792Z,rightkit-qa-driver,0.3.0,0,0,https://github.com/Orthic-Labs/rightkit,"Background native input, accessibility reads, and a WebDriver bridge for driving real desktop apps without stealing focus."
+2026-10-14T07:50:39.464669Z,bxmap-cli,1.0.5,0,0,https://github.com/N0moreher0/bxmap,Command-line frontend for the bxmap memory-dump string extraction library
+2026-10-14T07:55:03.837777Z,wago-plcprog-api-client,0.1.0,0,0,,"Blocking Rust client for PLCProg REST APIs covering runtime instances, data, workspaces, and package registries."
+2026-10-14T07:55:10.051191Z,wago-plcprog-ipc-client,0.2.0,0,0,,"Rust client for direct shared-memory IPC with PLCProg-managed scripts, including instance, data, and workspace operations."
+2026-10-14T07:55:16.031565Z,wago-plcprog-wss-client,0.1.0,0,0,,"Blocking Rust WebSocket client for PLCProg with authenticated instance, data, workspace, and subscription operations."
+2026-10-14T07:57:41.11794Z,rightkit-review,0.2.0,0,0,https://github.com/Orthic-Labs/rightkit,"Shared review capability for the content pipeline: deterministic checks over a media or text description, declared holds, a capped repair loop, an advisory judge interface, and versioned verdict reco…"
+2026-10-14T07:59:37.38137Z,submilli-policy,0.4.1,0,0,https://github.com/submilli/submilli-runtime,"Submilli's capability policy: the filter language, permission rules, and the check that evaluates them"
+2026-10-14T07:59:39.342734Z,submilli-build,0.4.1,0,0,https://github.com/submilli/submilli-runtime,"Builds, installs and reads Submilli packages: the artifacts submilli-engine loads"
+2026-10-14T08:07:08.166056Z,rightkit-send,0.1.0,0,0,https://github.com/Orthic-Labs/rightkit,"Nearby file and text sharing over the open LocalSend v2 protocol, with Pulse extensions: TLS identity pinning, per-device trust, and macOS Bonjour discovery. Product-neutral; the host supplies identi…"
+2026-10-14T08:11:18.721256Z,spa12f,0.1.0,0,0,,nothing
+2026-10-14T08:11:19.460268Z,tbard,0.1.0,0,0,https://github.com/abelland-lgtm/tbard,"Audiobook manager and listener for the terminal: your Audible library, chapter-split downloads, playback with mpv and position sync"
+2026-10-14T08:11:31.756204Z,spa102,0.1.0,0,0,,nothing
+2026-10-14T08:15:12.202569Z,mohona,0.1.0,0,0,https://github.com/mohona,mohona is a new download manager.
+2026-10-14T08:17:14.768862Z,rightkit-sync,0.1.1,0,0,https://github.com/Orthic-Labs/rightkit,"Brand-neutral desktop/mobile cloud sync engine: change tokens, tombstones, last-writer-wins conflicts, resumable batches, offline queue, retry/backoff."
+2026-10-14T08:18:03.491801Z,forgs,0.1.0,0,0,https://github.com/kaspar030/forgs,"Pure core of forgs: ids, tokens, namespace schema, roles, subjects and authz evaluation. No IO."
+2026-10-14T08:18:06.028539Z,forgs-client,0.1.0,0,0,https://github.com/kaspar030/forgs,"forgs HTTP client: device login, refresh, logout, API keys and workload token exchange. No server dependencies."
+2026-10-14T08:18:06.734715Z,forgs-idp,0.1.0,0,0,https://github.com/kaspar030/forgs,"forgs identity providers: GitHub (OAuth2), generic OIDC with Codeberg/Forgejo and GitLab presets, and GitHub Actions workload identity."
+2026-10-14T08:18:07.628713Z,forgs-store,0.1.0,0,0,https://github.com/kaspar030/forgs,"forgs storage: SQLite schema, migrations, and the Store / scoped handles over sqlx."
+2026-10-14T08:18:10.659195Z,forgs-http,0.1.0,0,0,https://github.com/kaspar030/forgs,"forgs HTTP surface: axum auth routes, signup, forgs' own device authorization server, cookies and CSRF."
+2026-10-14T08:20:25.438262Z,tsl2584tsv,0.1.0,0,0,https://github.com/mschoenlaub/tsl2584tsv,no_std embedded-hal 1.0 driver for the ams TSL2584TSV ambient light sensor (light-to-digital converter)
+2026-10-14T08:20:29.600656Z,tlv320adc3101,0.1.0,0,0,https://github.com/mschoenlaub/tlv320adc3101,no_std embedded-hal 1.0 driver for the TI TLV320ADC3101 stereo audio ADC with microphone preamplifiers
+2026-10-14T08:20:33.623847Z,is31fl3236,0.1.0,0,0,https://github.com/mschoenlaub/is31fl3236,"no_std embedded-hal driver for the Lumissil IS31FL3236 LED driver and its relatives IS31FL3236A, IS32FL3236A, IS31FL3235 and IS31FL3235A"

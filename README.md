@@ -8,40 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 07:19 UTC
+## Latest list — 2026-10-14 08:21 UTC
 
-New crates published between 2026-10-14 06:19 UTC and 2026-10-14 07:19 UTC.
+New crates published between 2026-10-14 07:19 UTC and 2026-10-14 08:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-14T07-19-51-901027Z.csv)
+[Full CSV](data/new-crates-2026-10-14T08-21-13-455647Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-14 06:20:25 | [miter-ast](https://crates.io/crates/miter-ast) | 0.1.0-alpha.1 | 0 | Tree-sitter AST ingestion: functions, inputs and return types with their proven… |
-| 2026-10-14 06:20:28 | [miter-storage](https://crates.io/crates/miter-storage) | 0.1.0-alpha.1 | 0 | Canonical redb tables, schema versioning and auto-purge recovery for the miter… |
-| 2026-10-14 06:20:31 | [miter-harness](https://crates.io/crates/miter-harness) | 0.1.0-alpha.1 | 0 | Deterministic compiler verification: sandboxed git worktrees and diagnostic par… |
-| 2026-10-14 06:22:11 | [miter-engine](https://crates.io/crates/miter-engine) | 0.1.0-alpha.1 | 0 | AST storage and analysis engine: polyglot model, hydration, audit, slices, clon… |
-| 2026-10-14 06:22:41 | [epistemic-core](https://crates.io/crates/epistemic-core) | 0.1.0 | 0 | Epistemic accountability core — Claim, Evidence, Reasoning graph, Split Confide… |
-| 2026-10-14 06:23:02 | [miter-mcp](https://crates.io/crates/miter-mcp) | 0.1.0-alpha.1 | 0 | Model Context Protocol (MCP) stdio server exposing AST hydration and compiler v… |
-| 2026-10-14 06:23:08 | [microscope-hooks](https://crates.io/crates/microscope-hooks) | 0.1.0 | 1 | Hook system for Microscope Memory — thin orchestration layer for LLM lifecycle… |
-| 2026-10-14 06:27:18 | [rightkit-agent-tools](https://crates.io/crates/rightkit-agent-tools) | 0.1.2 | 0 | One typed tool interface for agents over rightkit-automation, rightkit-qa-drive… |
-| 2026-10-14 06:35:01 | [ek-oms](https://crates.io/crates/ek-oms) | 0.1.0 | 0 | Passive OMS cache for the ek ecosystem: inbound caching, order statistics, quer… |
-| 2026-10-14 06:37:42 | [rightkit-device](https://crates.io/crates/rightkit-device) | 0.1.3 | 0 | Native host services for Right Suite Tauri license and device adapters. |
-| 2026-10-14 06:41:16 | [kova-mcp](https://crates.io/crates/kova-mcp) | 0.1.0 | 0 | Kova: minimal in-process MCP-style tool server (JSON-RPC 2.0 core, tool registr… |
-| 2026-10-14 06:41:20 | [kova-docs-lint](https://crates.io/crates/kova-docs-lint) | 0.1.0 | 0 | Frontmatter linter, link checker, and write-boundary validator for docs/agent |
-| 2026-10-14 06:47:07 | [rightkit-ffmpeg](https://crates.io/crates/rightkit-ffmpeg) | 0.2.6 | 0 | Verified FFmpeg artifact and lifecycle primitives for Right Suite media pipelin… |
-| 2026-10-14 06:54:45 | [revault_archive_v1_initial_reader](https://crates.io/crates/revault_archive_v1_initial_reader) | 0.0.4 | 0 | Frozen historical reVault compatibility reader for isolated migration |
-| 2026-10-14 06:57:05 | [revault_archive_v1_legacy_reader](https://crates.io/crates/revault_archive_v1_legacy_reader) | 0.0.4 | 0 | Frozen historical reVault compatibility reader for isolated migration |
-| 2026-10-14 06:57:12 | [rightkit-file-watch](https://crates.io/crates/rightkit-file-watch) | 0.4.0 | 0 | Filesystem watching for Right Suite apps: ref-counted async subscribers, deboun… |
-| 2026-10-14 06:58:57 | [revault_archive_v1_reader](https://crates.io/crates/revault_archive_v1_reader) | 0.0.4 | 0 | Frozen historical reVault compatibility reader for isolated migration |
-| 2026-10-14 06:59:08 | [editorconfig-query](https://crates.io/crates/editorconfig-query) | 0.1.0 | 0 | Query formatting options according to .editorconfig for specific file paths |
-| 2026-10-14 07:00:15 | [miter-cli](https://crates.io/crates/miter-cli) | 0.1.0-alpha.1 | 0 | Deterministic AST co-processor and Model Context Protocol (MCP) server |
-| 2026-10-14 07:01:05 | [montagent-interchange](https://crates.io/crates/montagent-interchange) | 0.3.0 | 0 | Format interchange engine for Montagent: OpenTimelineIO, FCPXML, CMX 3600 EDL,… |
-| 2026-10-14 07:02:47 | [revault_vault_v1_reader](https://crates.io/crates/revault_vault_v1_reader) | 0.0.4 | 0 | Frozen historical reVault compatibility reader for isolated migration |
-| 2026-10-14 07:04:06 | [revault_vault_v2_container_v1_reader](https://crates.io/crates/revault_vault_v2_container_v1_reader) | 0.0.4 | 0 | Frozen historical reVault compatibility reader for isolated migration |
-| 2026-10-14 07:07:17 | [rightkit-hotkeys](https://crates.io/crates/rightkit-hotkeys) | 0.1.0 | 0 | Global shortcuts and low-level input hooks for Right Suite apps: chord parsing,… |
-| 2026-10-14 07:07:53 | [open-chess-vision-train](https://crates.io/crates/open-chess-vision-train) | 0.1.3 | 0 | Trains the open-chess board reader (chess-vision) with candle: DINOv2 encoder,… |
-| 2026-10-14 07:08:43 | [open-chess](https://crates.io/crates/open-chess) | 0.1.3 | 0 | open-chess in one program: the Lichess-compatible chess server (feature `server… |
-| 2026-10-14 07:17:34 | [rightkit-job-queue](https://crates.io/crates/rightkit-job-queue) | 0.3.0 | 0 | Persistent job store, runner, and stdio/CLI command contract for Right Suite en… |
+| 2026-10-14 07:22:35 | [rpi-webui](https://crates.io/crates/rpi-webui) | 0.1.0 | 0 | Launch Open WebUI for rpi with the reusable ACP integration |
+| 2026-10-14 07:22:44 | [rpi-permission-gate](https://crates.io/crates/rpi-permission-gate) | 0.1.0 | 0 | Tool-call permission gate extension for rpi — confirm dangerous bash/write/edit… |
+| 2026-10-14 07:23:07 | [space-sdk](https://crates.io/crates/space-sdk) | 0.1.0 | 0 | Space SDK for TBC wallets, NFT transactions, signed business states, and resuma… |
+| 2026-10-14 07:27:10 | [rightkit-onnx](https://crates.io/crates/rightkit-onnx) | 0.2.3 | 0 | Product-neutral ONNX Runtime dynamic-library resolution, environment, execution… |
+| 2026-10-14 07:27:25 | [copyleaks](https://crates.io/crates/copyleaks) | 1.0.0 | 0 | Copyleaks is the integrity layer for your tech stack that helps organizations a… |
+| 2026-10-14 07:29:51 | [revault_archive_v3_reader](https://crates.io/crates/revault_archive_v3_reader) | 0.0.8 | 0 | Frozen lockbox v2/v3 reader for the isolated reVault migration exporter |
+| 2026-10-14 07:31:43 | [format198x-amstrad-cpc-dsk](https://crates.io/crates/format198x-amstrad-cpc-dsk) | 0.1.0 | 0 | CPCEMU DSK/EDSK reading and standard Spectrum +3DOS disk mastering |
+| 2026-10-14 07:32:50 | [revault_vault_v3_reader](https://crates.io/crates/revault_vault_v3_reader) | 0.0.8 | 0 | Frozen vault v3 reader for isolated migration to current reVault containers |
+| 2026-10-14 07:35:17 | [revault_migrate_archive_v3](https://crates.io/crates/revault_migrate_archive_v3) | 0.0.8 | 0 | Isolated authoritative-state exporter for lockbox formats v2 and v3 |
+| 2026-10-14 07:36:33 | [shephrd](https://crates.io/crates/shephrd) | 0.1.0 | 0 | Adversarial LLM reviewer for Claude Code permission requests |
+| 2026-10-14 07:37:15 | [rightkit-overlay](https://crates.io/crates/rightkit-overlay) | 0.1.1 | 0 | Shared overlay state, hit testing, and placement policy for Right Suite apps |
+| 2026-10-14 07:46:55 | [phoenixreportformatter](https://crates.io/crates/phoenixreportformatter) | 1.0.0 | 0 | Transcribe clang-tidy/clippy lint output into a GitLab Code Quality report |
+| 2026-10-14 07:47:34 | [rightkit-qa-driver](https://crates.io/crates/rightkit-qa-driver) | 0.3.0 | 0 | Background native input, accessibility reads, and a WebDriver bridge for drivin… |
+| 2026-10-14 07:50:39 | [bxmap-cli](https://crates.io/crates/bxmap-cli) | 1.0.5 | 0 | Command-line frontend for the bxmap memory-dump string extraction library |
+| 2026-10-14 07:55:03 | [wago-plcprog-api-client](https://crates.io/crates/wago-plcprog-api-client) | 0.1.0 | 0 | Blocking Rust client for PLCProg REST APIs covering runtime instances, data, wo… |
+| 2026-10-14 07:55:10 | [wago-plcprog-ipc-client](https://crates.io/crates/wago-plcprog-ipc-client) | 0.2.0 | 0 | Rust client for direct shared-memory IPC with PLCProg-managed scripts, includin… |
+| 2026-10-14 07:55:16 | [wago-plcprog-wss-client](https://crates.io/crates/wago-plcprog-wss-client) | 0.1.0 | 0 | Blocking Rust WebSocket client for PLCProg with authenticated instance, data, w… |
+| 2026-10-14 07:57:41 | [rightkit-review](https://crates.io/crates/rightkit-review) | 0.2.0 | 0 | Shared review capability for the content pipeline: deterministic checks over a… |
+| 2026-10-14 07:59:37 | [submilli-policy](https://crates.io/crates/submilli-policy) | 0.4.1 | 0 | Submilli's capability policy: the filter language, permission rules, and the ch… |
+| 2026-10-14 07:59:39 | [submilli-build](https://crates.io/crates/submilli-build) | 0.4.1 | 0 | Builds, installs and reads Submilli packages: the artifacts submilli-engine loa… |
+| 2026-10-14 08:07:08 | [rightkit-send](https://crates.io/crates/rightkit-send) | 0.1.0 | 0 | Nearby file and text sharing over the open LocalSend v2 protocol, with Pulse ex… |
+| 2026-10-14 08:11:18 | [spa12f](https://crates.io/crates/spa12f) | 0.1.0 | 0 | nothing |
+| 2026-10-14 08:11:19 | [tbard](https://crates.io/crates/tbard) | 0.1.0 | 0 | Audiobook manager and listener for the terminal: your Audible library, chapter-… |
+| 2026-10-14 08:11:31 | [spa102](https://crates.io/crates/spa102) | 0.1.0 | 0 | nothing |
+| 2026-10-14 08:15:12 | [mohona](https://crates.io/crates/mohona) | 0.1.0 | 0 | mohona is a new download manager. |
+| 2026-10-14 08:17:14 | [rightkit-sync](https://crates.io/crates/rightkit-sync) | 0.1.1 | 0 | Brand-neutral desktop/mobile cloud sync engine: change tokens, tombstones, last… |
+| 2026-10-14 08:18:03 | [forgs](https://crates.io/crates/forgs) | 0.1.0 | 0 | Pure core of forgs: ids, tokens, namespace schema, roles, subjects and authz ev… |
+| 2026-10-14 08:18:06 | [forgs-client](https://crates.io/crates/forgs-client) | 0.1.0 | 0 | forgs HTTP client: device login, refresh, logout, API keys and workload token e… |
+| 2026-10-14 08:18:06 | [forgs-idp](https://crates.io/crates/forgs-idp) | 0.1.0 | 0 | forgs identity providers: GitHub (OAuth2), generic OIDC with Codeberg/Forgejo a… |
+| 2026-10-14 08:18:07 | [forgs-store](https://crates.io/crates/forgs-store) | 0.1.0 | 0 | forgs storage: SQLite schema, migrations, and the Store / scoped handles over s… |
+| 2026-10-14 08:18:10 | [forgs-http](https://crates.io/crates/forgs-http) | 0.1.0 | 0 | forgs HTTP surface: axum auth routes, signup, forgs' own device authorization s… |
+| 2026-10-14 08:20:25 | [tsl2584tsv](https://crates.io/crates/tsl2584tsv) | 0.1.0 | 0 | no_std embedded-hal 1.0 driver for the ams TSL2584TSV ambient light sensor (lig… |
+| 2026-10-14 08:20:29 | [tlv320adc3101](https://crates.io/crates/tlv320adc3101) | 0.1.0 | 0 | no_std embedded-hal 1.0 driver for the TI TLV320ADC3101 stereo audio ADC with m… |
+| 2026-10-14 08:20:33 | [is31fl3236](https://crates.io/crates/is31fl3236) | 0.1.0 | 0 | no_std embedded-hal driver for the Lumissil IS31FL3236 LED driver and its relat… |
 
 ## Data source
 
