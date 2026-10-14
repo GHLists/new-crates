@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T08:21:24.470964Z,rpi-acp-core,0.1.0,0,0,https://github.com/pi-rust/rpi-package,Reusable ACP agent server and stdio lifecycle for rpi extensions
+2026-10-14T08:27:05.555062Z,rightkit-tauri-shell,0.3.0,0,0,https://github.com/Orthic-Labs/rightkit,"Shared Tauri desktop shell for Right Suite apps: webview hardening, window state, native menu, tray, single instance, deep links, autostart, rich clipboard, watchdog and engine wiring."
+2026-10-14T08:28:44.739668Z,haptk-core,0.2.0,0,0,https://codeberg.org/xosxos/haptk,HAPTK Core Library
+2026-10-14T08:29:45.045678Z,mosaic-keyvault,0.1.0,0,0,https://github.com/Mosaic-Trust-Network/mtn-rust,A general-purpose hierarchical deterministic generator for asymmetric keys.
+2026-10-14T08:29:47.555783Z,mosaic-did-types,0.1.0,0,0,https://github.com/Mosaic-Trust-Network/mtn-rust,Core type definitions for the did:mosaic DID method on the Mosaic Trust Network
+2026-10-14T08:29:47.966062Z,mosaic-vault,0.1.0,0,0,https://github.com/Mosaic-Trust-Network/mtn-rust,A hierarchical deterministic wallet that allows plugin extensions
+2026-10-14T08:29:49.734351Z,mosaic-sdk,0.1.0,0,0,https://github.com/Mosaic-Trust-Network/mtn-rust,Client SDK for the Mosaic Trust Network — re-exports the core crates in this workspace
+2026-10-14T08:37:05.546368Z,rightkit-tts-qwen-sys,0.1.2,0,0,https://github.com/Orthic-Labs/rightkit,"Low-level FFI bindings to ggml (CPU, Metal, Vulkan, BLAS) for rightkit-tts-qwen, vendored from yet-another-ai/qts v0.2.0"
+2026-10-14T08:47:02.523621Z,rightkit-tts-qwen,0.2.6,0,0,https://github.com/Orthic-Labs/rightkit,"Qwen3 TTS inference (GGUF + GGML), vendored from yet-another-ai/qts v0.2.0 for RightKit"
+2026-10-14T08:57:02.966118Z,rightkit-workflow,0.1.0,0,0,https://github.com/Orthic-Labs/rightkit,"Shared scenario interpreter and durable state machine for the RightKit scenario runtime (RK8): perform separated from observe_until, idempotency keys, append-only fsync journal, leases with fencing t…"
+2026-10-14T09:11:23.369967Z,crypto-botters-bitbank,0.7.0,0,0,https://github.com/Harui-i/crypto-botters,A fork of crypto-botters with bitbank REST and WebSocket API support.
+2026-10-14T09:12:06.387718Z,riscvc,0.1.0,0,0,https://github.com/Jabberwocky238/riscvc.rs,"Pure-Rust RV32IMF toolchain: MLIR llvm dialect => RV32 codegen, GNU assembler, linker, objdump, simulator; dialect / pass plugins"
+2026-10-14T09:16:20.958765Z,fallow-mutation,3.33.1,0,0,https://github.com/fallow-rs/fallow,Mutant site discovery and mutation-switching instrumentation for fallow
+2026-10-14T09:18:33.432333Z,photocraft,0.1.0,0,0,,A minimalist photo and image processing toolkit in Rust.
+2026-10-14T09:18:45.168822Z,artcraft,0.1.0,0,0,,A minimalist ASCII and terminal art generator in Rust.
+2026-10-14T09:18:58.756489Z,cadcraft,0.1.0,0,0,,A minimalist 2D/3D CAD geometry and drafting toolkit in Rust.
+2026-10-14T09:19:09.158839Z,lightcraft,0.1.0,0,0,,A minimalist 3D ray tracing and optical rendering toolkit in Rust.
