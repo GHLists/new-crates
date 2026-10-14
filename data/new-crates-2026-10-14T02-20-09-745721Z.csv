@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T01:19:28.43771Z,happenstance-sync,0.0.0,0,0,https://github.com/Wet-Ink-Corporation/happenstance,Instance-to-instance event replication for happenstance: the peer port and its runner.
+2026-10-14T01:19:30.73206Z,happenstance-sync-testkit,0.0.0,0,0,https://github.com/Wet-Ink-Corporation/happenstance,Conformance suite for happenstance replication peers.
+2026-10-14T01:21:30.81494Z,combicode,4.0.1,0,0,https://github.com/aaurelions/combicode,Pack a codebase into one LLM-friendly text file with a code map and exact line references
+2026-10-14T01:25:48.470731Z,sember,0.1.1,0,0,https://github.com/nickvigilante/sember,"Semantic line breaks for cleaner text and smaller, more manageable diffs."
+2026-10-14T01:28:51.245822Z,energyml-proj,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"A pure-Rust geodesy backend for energyml-domain: reprojection between EPSG systems, wasm included."
+2026-10-14T01:30:18.522377Z,repose-bevy,0.2.1,0,0,https://github.com/mlm-games/repose-bevy,Bevy integration for the Repose Compose-like UI toolkit
+2026-10-14T01:33:08.952578Z,eure-reader,0.0.0,0,0,https://github.com/Hihaheho/eure,Reader for EURE format
+2026-10-14T01:34:07.981903Z,xj_bytes,0.1.0,0,0,https://github.com/brk/xj_bytes,"Shared byte views, C string interop, and destination storage policies"
+2026-10-14T01:38:50.890744Z,energyml-export,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Writes EnergyML geometry out to interchange formats, through a registry new formats plug into."
+2026-10-14T01:39:02.470582Z,xj_cfmt_core,0.1.0,0,0,,Shared byte-oriented C printing format parser and analysis
+2026-10-14T01:39:11.002494Z,xj_cfmt_macros,0.1.0,0,0,https://github.com/brk/xj_cfmt,Procedural macro implementation for xj_cfmt
+2026-10-14T01:39:21.116337Z,xj_cfmt,0.1.0,0,0,https://github.com/brk/xj_cfmt,Byte-exact printf compatibility macros for translated C
+2026-10-14T01:48:51.440121Z,energyml-sheet,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"A drilling sheet: a well's 2D cross-section, laid out in Rust and written as SVG."
+2026-10-14T01:52:46.993015Z,mio-agent,0.1.0,0,0,https://github.com/Ravomi/Mio,Headless coding agent engine extracted from Ravomi
+2026-10-14T01:53:17.286396Z,rear,0.0.0,0,0,,The rear library. Placeholder release; the API is not yet defined.
+2026-10-14T01:56:06.03404Z,zenoh-web-rtc-srtp,0.21.0-zw.5,0,0,https://github.com/jeff-hykin/webrtc-rs-zenoh-web,Fork of rtc-srtp 0.21.0 with fixes for zenoh-web (see PATCHES.md)
+2026-10-14T01:57:17.790291Z,pi-rpc,0.1.0,0,0,https://github.com/Coder-Sang/pi-rpc,Bounded asynchronous Tokio JSONL client for Pi 1.1.0
+2026-10-14T01:58:51.232664Z,energyml-section,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"The section view: long and cross sections of a model along a trace - wells projected, surfaces cut - computed into a catalogue and written as SVG."
+2026-10-14T01:58:57.066871Z,pgsync-core,0.1.1,0,0,https://github.com/pgrundev/pgsync,"Core of pgsync: job lifecycle, transaction model, LSN and checkpoint contracts, bounded backpressure"
+2026-10-14T01:59:38.321061Z,pgsync-postgres,0.1.1,0,0,https://github.com/pgrundev/pgsync,"PostgreSQL adapter for pgsync: replication protocol client, pgoutput decoder, snapshot copy, transactional sink"
+2026-10-14T02:00:13.804667Z,pgsync,0.1.1,0,0,https://github.com/pgrundev/pgsync,Memory-bounded PostgreSQL logical replication: consistent snapshot plus pgoutput CDC into another PostgreSQL
+2026-10-14T02:03:43.294058Z,game-utils-bevy,0.4.0,0,0,https://github.com/mlm-games/game-utils,"Bevy game-feel utilities (juice, screen effects, transitions, vfx, pooled audio, entity pooling) with bevy and repose wgpu post-process backends"
+2026-10-14T02:08:51.347621Z,energyml-build,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Create EnergyML objects from geometry, foreign files or other objects - one trait, a plan, then the write."
+2026-10-14T02:11:44.350945Z,mosh-terminal,0.1.2,0,0,https://github.com/Arunjay4213/mosh-rs,"Terminal emulator and display diff engine of mosh-rs, a Rust port of mosh (the mobile shell)"
+2026-10-14T02:12:29.565883Z,mosh-platform,0.1.2,0,0,https://github.com/Arunjay4213/mosh-rs,"Platform layer of mosh-rs (tty, pty, process spawning, UDP sockets, select loop) for Unix and Windows"
+2026-10-14T02:12:57.53011Z,hem-core,0.1.0,0,0,https://github.com/RAZKOM/hem,"Core engine for hem: line indexing, parsing, search, clustering, timeline. No terminal dependencies."
+2026-10-14T02:13:08.34869Z,mosh-network,0.1.2,0,0,https://github.com/Arunjay4213/mosh-rs,"State Synchronization Protocol, AES-128-OCB crypto and UDP transport of mosh-rs, a Rust port of mosh (the mobile shell)"
+2026-10-14T02:13:42.552595Z,mosh,0.1.2,0,0,https://github.com/Arunjay4213/mosh-rs,"The mobile shell (mosh) in Rust: wire-compatible with mosh 1.4, with a native Windows client and real scrollback. Installs mosh, mosh-client and mosh-server."
+2026-10-14T02:14:05.606201Z,ribalta,0.1.0,0,0,https://github.com/Viniciusadm/ribalta,"Compiler for Ribalta, a text language for themed screens and presentations: source in, JSON IR and diagnostics out"
+2026-10-14T02:14:16.589749Z,ribalta-cli,0.1.0,0,0,https://github.com/Viniciusadm/ribalta,"The ribalta command: check, format, map and serve the language server for Ribalta files"
+2026-10-14T02:14:43.552245Z,hem-tui,0.1.0,0,0,https://github.com/RAZKOM/hem,"ratatui frontend for hem: app state, views, widgets, input, theme."
+2026-10-14T02:16:32.284467Z,hem,0.1.0,0,0,https://github.com/RAZKOM/hem,"hem: Human-readable Event Monitor. tail, but tailored."
+2026-10-14T02:18:49.620545Z,energyml-providers,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"Querying public geoscience APIs, and reading what they answer"
+2026-10-14T02:19:13.164797Z,sccache-r2,0.1.0-alpha.1,0,0,https://github.com/pyrlyn/crates-packages,"Wire sccache to a Cloudflare R2 bucket from environment variables: validate, emit the env, check and print stats"
+2026-10-14T02:19:41.004272Z,wurble,0.1.0,0,0,https://github.com/06chaynes/wurble,"Dialogue voice synthesis for games, from procedural blips or your own sample banks"
