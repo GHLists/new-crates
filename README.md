@@ -8,44 +8,62 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 16:20 UTC
+## Latest list — 2026-10-14 17:19 UTC
 
-New crates published between 2026-10-14 15:20 UTC and 2026-10-14 16:20 UTC.
+New crates published between 2026-10-14 16:20 UTC and 2026-10-14 17:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-14T16-20-06-588872Z.csv)
+[Full CSV](data/new-crates-2026-10-14T17-19-41-359825Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-14 15:21:17 | [zsurf-cli](https://crates.io/crates/zsurf-cli) | 0.1.0 | 0 | Switch projects with ranked search and Git context |
-| 2026-10-14 15:21:42 | [rmemtbl](https://crates.io/crates/rmemtbl) | 0.1.3 | 0 | The in-memory write buffer of an LSM storage engine, built on rskipl, a lock-fr… |
-| 2026-10-14 15:22:40 | [embala-setup-overlay](https://crates.io/crates/embala-setup-overlay) | 0.4.1 | 0 | Shared PE-overlay trailer format for embala's setup.exe writer and runtime stub |
-| 2026-10-14 15:22:42 | [embala-setup](https://crates.io/crates/embala-setup) | 0.4.1 | 0 | Windows setup.exe builder — appends a payload overlay onto a prebuilt runtime s… |
-| 2026-10-14 15:23:05 | [runlength](https://crates.io/crates/runlength) | 0.1.0 | 0 | Generic run-length encoded sequences with plan-based arithmetic. |
-| 2026-10-14 15:23:42 | [runlength-arrow](https://crates.io/crates/runlength-arrow) | 0.1.0 | 0 | Run-length encoded sequences over Apache Arrow arrays of any type. |
-| 2026-10-14 15:24:32 | [bq-freighter](https://crates.io/crates/bq-freighter) | 0.1.0 | 0 | Bulk-load a BigQuery table into Bigtable in key order, with per-shard verdicts… |
-| 2026-10-14 15:24:36 | [navidog-navigator](https://crates.io/crates/navidog-navigator) | 0.0.1 | 0 | Object browser for navidog. |
-| 2026-10-14 15:24:36 | [deepformants_features](https://crates.io/crates/deepformants_features) | 0.1.2 | 0 | Crate for feature extraction used in DeepFormants, with PyO3 bindings |
-| 2026-10-14 15:25:14 | [navidog-query](https://crates.io/crates/navidog-query) | 0.0.1 | 0 | SQL query editor for navidog. |
-| 2026-10-14 15:26:03 | [correct_hooks](https://crates.io/crates/correct_hooks) | 0.1.0 | 0 | Asymmetric signing, verification, and key management for webhooks |
-| 2026-10-14 15:26:25 | [navidog](https://crates.io/crates/navidog) | 0.0.1 | 0 | Database client for macOS. |
-| 2026-10-14 15:43:20 | [swiftide-tasks](https://crates.io/crates/swiftide-tasks) | 0.33.0 | 0 | Composable LLM agents, typed task graphs, and streaming RAG pipelines in Rust |
-| 2026-10-14 15:45:52 | [manivelle_macros](https://crates.io/crates/manivelle_macros) | 0.1.0 | 0 | Derive macros for Manivelle TypeScript schemas |
-| 2026-10-14 15:46:20 | [manivelle](https://crates.io/crates/manivelle) | 0.1.0 | 0 | Embedded TypeScript runtime for Rust with typed host contracts and generated SD… |
-| 2026-10-14 15:52:00 | [dioxus-core-template](https://crates.io/crates/dioxus-core-template) | 0.0.0 | 0 | Static template representation and const builder for Dioxus. |
-| 2026-10-14 15:52:03 | [dioxus-const-vec](https://crates.io/crates/dioxus-const-vec) | 0.0.0 | 0 | A fixed-capacity Vec usable in const contexts |
-| 2026-10-14 15:54:56 | [ic-host-text](https://crates.io/crates/ic-host-text) | 0.18.2 | 0 | Pure terminal-safe escaping and Unicode-aware text tables |
-| 2026-10-14 15:55:04 | [solex-types](https://crates.io/crates/solex-types) | 0.1.3 | 0 | Release-channel types for Solex: the embeddable `solex` config section, channel… |
-| 2026-10-14 15:55:05 | [solex-core](https://crates.io/crates/solex-core) | 0.1.3 | 0 | Build, deploy, and feature-matrix logic for the solex CLI |
-| 2026-10-14 15:55:05 | [solex-macros](https://crates.io/crates/solex-macros) | 0.1.3 | 0 | Proc macros for the Solex framework: channel-gated features and manifest-driven… |
-| 2026-10-14 15:55:07 | [solex-lang](https://crates.io/crates/solex-lang) | 0.1.3 | 0 | Ship Solana program features per release channel with #[channel(...)] |
-| 2026-10-14 15:55:08 | [solex-mcp](https://crates.io/crates/solex-mcp) | 0.1.3 | 0 | MCP server for solex: release channels, feature matrix, builds and deploy plans… |
-| 2026-10-14 16:06:07 | [solex](https://crates.io/crates/solex) | 0.1.3 | 0 | solex CLI: build and deploy Solana programs per release channel |
-| 2026-10-14 16:08:00 | [clap-complete-rawline](https://crates.io/crates/clap-complete-rawline) | 0.1.0 | 0 | Bash completion for clap from the raw command line, without COMP_WORDS splitting |
-| 2026-10-14 16:11:45 | [slop-proxy](https://crates.io/crates/slop-proxy) | 0.1.0 | 0 | Pools subscription accounts behind one Anthropic, OpenAI and Gemini compatible… |
-| 2026-10-14 16:12:52 | [infix-to-postfix](https://crates.io/crates/infix-to-postfix) | 1.0.0 | 0 | Shouting Yard algorithm realisation in rust |
-| 2026-10-14 16:14:59 | [opinionated](https://crates.io/crates/opinionated) | 0.1.0 | 0 | Layered sparse opinion resolution over typed addresses. |
-| 2026-10-14 16:16:34 | [suit-combination](https://crates.io/crates/suit-combination) | 0.1.0 | 0 | Single-dummy suit-combination solver for contract bridge |
-| 2026-10-14 16:17:38 | [yubiblob](https://crates.io/crates/yubiblob) | 0.1.0 | 0 | libyubiblob: a blob store on a YubiKey, for C and C++ programs (yb's C API) |
+| 2026-10-14 16:25:45 | [ulo-build](https://crates.io/crates/ulo-build) | 0.1.0-alpha.1 | 0 | Build-script code generation for ulo-grpc: messages, clients and the method mar… |
+| 2026-10-14 16:25:46 | [ulo-cli](https://crates.io/crates/ulo-cli) | 0.1.0-alpha.1 | 0 | CLI for Ulo |
+| 2026-10-14 16:25:47 | [ulo-handler-codegen](https://crates.io/crates/ulo-handler-codegen) | 0.1.0-alpha.1 | 0 | The handler protocol every Ulo transport attribute macro is written against |
+| 2026-10-14 16:25:48 | [ulo-transport-macros](https://crates.io/crates/ulo-transport-macros) | 0.1.0-alpha.1 | 0 | Derives for Ulo's transport-neutral error and validation traits |
+| 2026-10-14 16:25:52 | [ulo-grpc-macros](https://crates.io/crates/ulo-grpc-macros) | 0.1.0-alpha.1 | 0 | The gRPC method attribute for Ulo, re-exported by ulo-grpc |
+| 2026-10-14 16:28:02 | [homuncul](https://crates.io/crates/homuncul) | 0.0.1 | 0 | homuncul — life-science agent runtime by homuncul.com. Name reserved; first rea… |
+| 2026-10-14 16:29:34 | [vfm](https://crates.io/crates/vfm) | 0.1.0 | 0 | A small, fast, terminal file manager modeled after nnn |
+| 2026-10-14 16:37:49 | [ulo-macros](https://crates.io/crates/ulo-macros) | 0.1.0-alpha.1 | 0 | Macros for Ulo |
+| 2026-10-14 16:37:54 | [ulo](https://crates.io/crates/ulo) | 0.1.0-alpha.1 | 0 | Fast and modular web framework for scalable applications |
+| 2026-10-14 16:40:48 | [harna-core](https://crates.io/crates/harna-core) | 0.3.0 | 0 | Core model, storage and digest for harna: persistent agent context for codebase… |
+| 2026-10-14 16:41:12 | [harna-cli](https://crates.io/crates/harna-cli) | 0.3.0 | 0 | harna CLI: persistent agent context for codebases. |
+| 2026-10-14 16:41:22 | [scatrs](https://crates.io/crates/scatrs) | 0.1.0 | 0 | Fast, linearized, rigorously validated single-scattering calculations for spher… |
+| 2026-10-14 16:41:34 | [harna-mcp](https://crates.io/crates/harna-mcp) | 0.3.0 | 0 | MCP stdio server for harna: the tools an agent calls instead of re-learning. |
+| 2026-10-14 16:43:06 | [computer-core](https://crates.io/crates/computer-core) | 0.1.0 | 0 | Core types, roles, and contracts for the computer-cli computer-use runtime |
+| 2026-10-14 16:43:07 | [fluid-speech-rs](https://crates.io/crates/fluid-speech-rs) | 0.1.0 | 0 | Fluid Speech Mini (Parakeet TDT) speech-to-text and dictation on candle, CPU or… |
+| 2026-10-14 16:43:27 | [drama-rs](https://crates.io/crates/drama-rs) | 0.1.1 | 0 | Fish Audio Drama 3 text-to-speech on a single 24 GB GPU (Rust + CUDA) |
+| 2026-10-14 16:43:29 | [dexa-sdk](https://crates.io/crates/dexa-sdk) | 0.1.0 | 0 | Rust SDK for dexa-sdk generated by Fern |
+| 2026-10-14 16:43:44 | [computer-telemetry](https://crates.io/crates/computer-telemetry) | 0.1.0 | 0 | Tracing and telemetry for the computer-cli runtime |
+| 2026-10-14 16:44:18 | [computer-contract-tests](https://crates.io/crates/computer-contract-tests) | 0.1.0 | 0 | Shared contract test helpers for computer-cli crates |
+| 2026-10-14 16:45:12 | [yonder](https://crates.io/crates/yonder) | 0.1.0 | 0 | A scene-graph framework that is designed to be ergonomic without a graphical ed… |
+| 2026-10-14 16:45:55 | [computer-platform-linux](https://crates.io/crates/computer-platform-linux) | 0.1.0 | 0 | Linux platform adapters (X11, Wayland, AT-SPI) for computer-cli |
+| 2026-10-14 16:48:54 | [ulo-transport](https://crates.io/crates/ulo-transport) | 0.1.0-alpha.1 | 0 | Transport-neutral extraction, replies, errors, validation and load shedding for… |
+| 2026-10-14 16:50:20 | [st7305-lcd](https://crates.io/crates/st7305-lcd) | 0.1.0 | 0 | Platform-independent no_std driver for the Sitronix ST7305 reflective LCD contr… |
+| 2026-10-14 16:52:50 | [pokel](https://crates.io/crates/pokel) | 0.0.1 | 0 | hello world |
+| 2026-10-14 16:55:22 | [asic-rs-makes-forgeaxe](https://crates.io/crates/asic-rs-makes-forgeaxe) | 0.8.6 | 0 | Forgeaxe hardware information for asic-rs |
+| 2026-10-14 16:56:48 | [asic-rs-makes-goldshell](https://crates.io/crates/asic-rs-makes-goldshell) | 0.8.6 | 0 | Goldshell model identities for asic-rs |
+| 2026-10-14 16:59:35 | [asic-rs-firmwares-goldshell](https://crates.io/crates/asic-rs-firmwares-goldshell) | 0.8.6 | 0 | Read-only Goldshell BFGMiner and HTTP telemetry for asic-rs |
+| 2026-10-14 17:00:51 | [asic-rs-firmwares-forgeaxe](https://crates.io/crates/asic-rs-firmwares-forgeaxe) | 0.8.6 | 0 | ForgeOS firmware implementation for asic-rs |
+| 2026-10-14 17:02:50 | [jj-acp-protocol](https://crates.io/crates/jj-acp-protocol) | 0.1.0 | 0 | Bounded Agent Client Protocol framing, negotiation and session payloads |
+| 2026-10-14 17:02:53 | [jj-acp-agent](https://crates.io/crates/jj-acp-agent) | 0.1.0 | 0 | Declarative ACP runner catalogs and trusted launch environments |
+| 2026-10-14 17:02:54 | [jj-acp-testkit](https://crates.io/crates/jj-acp-testkit) | 0.1.0 | 0 | Deterministic model-free ACP fixtures for integration testing |
+| 2026-10-14 17:02:55 | [jj-acp-runner](https://crates.io/crates/jj-acp-runner) | 0.1.0 | 0 | ACP subprocess ownership, session lifecycle and bounded cancellation |
+| 2026-10-14 17:02:58 | [jj-acp-control](https://crates.io/crates/jj-acp-control) | 0.1.0 | 0 | Versioned stdio control protocols for controlling ACP applications |
+| 2026-10-14 17:02:58 | [bald](https://crates.io/crates/bald) | 0.0.1 | 0 | Placeholder for the Bald linker. |
+| 2026-10-14 17:04:05 | [rebasis](https://crates.io/crates/rebasis) | 0.1.0 | 0 | Linear maps between function bases: instrument functions, regridding, projection |
+| 2026-10-14 17:04:57 | [persistant-core](https://crates.io/crates/persistant-core) | 0.0.0 | 0 | Core traits and capability model for PersistAnt (name reserved; not yet release… |
+| 2026-10-14 17:05:14 | [persistant-blob](https://crates.io/crates/persistant-blob) | 0.0.0 | 0 | Blob kind traits and generic adapters for PersistAnt (name reserved; not yet re… |
+| 2026-10-14 17:05:33 | [persistant-relational](https://crates.io/crates/persistant-relational) | 0.0.0 | 0 | Relational kind traits and generic adapters for PersistAnt (name reserved; not… |
+| 2026-10-14 17:05:53 | [persistant-kv](https://crates.io/crates/persistant-kv) | 0.0.0 | 0 | Key-value kind traits and generic adapters for PersistAnt (name reserved; not y… |
+| 2026-10-14 17:06:10 | [persistant-opendal](https://crates.io/crates/persistant-opendal) | 0.0.0 | 0 | OpenDAL driver for PersistAnt (name reserved; not yet released). |
+| 2026-10-14 17:10:11 | [varlit-core](https://crates.io/crates/varlit-core) | 0.12.1 | 0 | Runtime, codecs, and storage primitives for Varlit binary formats |
+| 2026-10-14 17:10:12 | [varlit-macros](https://crates.io/crates/varlit-macros) | 0.12.1 | 0 | Procedural macros for declaring Varlit binary formats and blocks |
+| 2026-10-14 17:10:13 | [varlit](https://crates.io/crates/varlit) | 0.12.1 | 0 | Format-first, append-friendly custom binary formats for Rust |
+| 2026-10-14 17:12:33 | [persistant-sqlx](https://crates.io/crates/persistant-sqlx) | 0.0.0 | 0 | sqlx driver for PersistAnt (name reserved; not yet released). |
+| 2026-10-14 17:13:26 | [jj-acp](https://crates.io/crates/jj-acp) | 0.1.0 | 0 | Pluggable Agent Client Protocol harness for controlling applications |
+| 2026-10-14 17:15:41 | [ulo-net](https://crates.io/crates/ulo-net) | 0.1.0-alpha.1 | 0 | Endpoints, socket activation, TLS loading and bound addresses for Ulo transports |
+| 2026-10-14 17:15:45 | [ulo-runtime-tokio](https://crates.io/crates/ulo-runtime-tokio) | 0.1.0-alpha.1 | 0 | The tokio runtime for Ulo: the core's Runtime and Timer, OS shutdown signals an… |
+| 2026-10-14 17:19:12 | [ulo-runtime-smol](https://crates.io/crates/ulo-runtime-smol) | 0.1.0-alpha.1 | 0 | The smol runtime for Ulo: the core's Runtime on an async-executor Executor and… |
 
 ## Data source
 
