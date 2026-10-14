@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T02:23:53.32083Z,locus-sqlite-adapter,0.1.0,0,0,,SQLite NodeStore and semantic index for Locus hosts
+2026-10-14T02:28:48.788079Z,energyml,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,"The EnergyML library in one dependency: read, write and compute RESQML, WITSML, PRODML and EML data. Re-exports the energyml-* crates under short module names."
+2026-10-14T02:38:48.85437Z,energyml-cli,0.1.0,0,0,https://github.com/geosiris-technologies/energyml-rust,Command-line tool to inspect and validate EnergyML data stores (EPC files today).
+2026-10-14T02:40:02.928704Z,jay-task,0.3.1,0,0,https://github.com/ronnymilleo/jay,"Local project manager with a CLI, plain-text tasks, and MCP integration"
+2026-10-14T02:41:09.001124Z,tisvlay-core,0.3.0,0,0,https://github.com/TisVlay/TisVlay,Core library for multi-vendor TV control
+2026-10-14T02:41:10.929805Z,tisvlay-protocol,0.3.0,0,0,https://github.com/TisVlay/TisVlay,"The zenoh protocol TisVlay's TV-control services and clients speak: key space, payloads, typed rpcs, errors and session configs"
+2026-10-14T02:41:12.701892Z,tisvlay,0.3.0,0,0,https://github.com/TisVlay/TisVlay,"Client library for TisVlay, the Linux daemon that controls smart TVs from the desktop: list, control and watch TVs, pairing and profiles"
+2026-10-14T02:43:39.151404Z,skill-extract,0.1.0,0,0,https://github.com/huanghu578/skill-extract,Configuration-driven key-value extraction from natural language instructions with Unicode-native keys and trigger-based routing
+2026-10-14T02:43:50.08768Z,diting,0.0.0,0,0,,The diting library. Placeholder release; the API is not yet defined.
+2026-10-14T02:44:53.353722Z,footfall_core,0.1.0,0,0,https://github.com/forest-rs/footfall,"The Footfall instrumentation API: static descriptors, semantic contexts, levels, and the backend seam. no_std, no dependencies."
+2026-10-14T02:45:07.263331Z,footfall_runtime,0.1.0,0,0,https://github.com/forest-rs/footfall,"Bounded in-process capture for Footfall: counters, a window of recent events, and cursor reads that never drain."
+2026-10-14T02:45:12.38932Z,footfall_memory,0.1.0,0,0,https://github.com/forest-rs/footfall,"Scratch-buffer and cache metrics for Footfall, built on counters."
+2026-10-14T02:45:19.889893Z,footfall_fanout,0.1.0,0,0,https://github.com/forest-rs/footfall,"A Footfall backend that forwards every emission to two others, such as a runtime and Tracy."
+2026-10-14T02:45:29.833824Z,footfall_tracy,0.1.0,0,0,https://github.com/forest-rs/footfall,"A Footfall backend that shows scopes, counters, and frames live in the Tracy profiler."
+2026-10-14T02:45:36.44259Z,awpy-proto,0.1.11076591+2000924,0,0,https://github.com/pnxenopoulos/awpy,Protobuf definitions for Counter-Strike 2 demo files
+2026-10-14T02:46:11.993938Z,awpy,3.0.0,0,0,https://github.com/pnxenopoulos/awpy,Awpy is a Counter-Strike 2 demo parser
+2026-10-14T02:56:20.904609Z,footfall_session,0.1.0,0,0,https://github.com/forest-rs/footfall,"Footfall snapshots outside the process: owned snapshots, a compact versioned wire codec, and capture files."
+2026-10-14T03:02:40.699166Z,swnb-ureq,2.12.1,0,0,https://github.com/swnb/ureq,ureq 2.12.1 with an optional TcpConnector hook for cancellable connects (fork used by the Yu handheld Shell)
+2026-10-14T03:06:02.691691Z,footfall_tracing,0.1.0,0,0,https://github.com/forest-rs/footfall,A tracing layer that forwards spans and events into Footfall.
+2026-10-14T03:08:30.274245Z,sc-docli,0.2.0,0,0,https://github.com/randlee/docli,Language-agnostic CLI documentation generator: HTML + Markdown from a neutral command-tree JSON
+2026-10-14T03:15:33.447603Z,footfall_export,0.1.0,0,0,https://github.com/forest-rs/footfall,"Chrome Trace JSON export of Footfall snapshots, for Perfetto and chrome://tracing."
