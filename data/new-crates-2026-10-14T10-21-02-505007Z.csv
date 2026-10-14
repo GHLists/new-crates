@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T09:19:20.059002Z,wordcraft,0.1.1,0,0,,"A zero-dependency text analytics toolkit in Rust with Flesch-Kincaid readability scoring, N-gram extraction, and word frequency analysis."
+2026-10-14T09:21:42.231165Z,bitbankutil_rs,0.1.9,0,0,https://github.com/Harui-i/bitbankutil_rs,"Rust utilities for bitbank REST and WebSocket APIs, with trading bot and paper trading support."
+2026-10-14T09:27:49.77922Z,acme-renew-doctor,0.1.0,0,0,https://github.com/qwpp7g79y4-maker/acme-renew-doctor,"Explain why an ACME certificate renewal failed or never ran, from files you pass"
+2026-10-14T09:38:47.597762Z,yog-data-derive,0.2.0,0,0,,#[derive(Schema)] for Yog Data.
+2026-10-14T09:38:55.522438Z,yog-data,0.2.2,0,0,,"Yog Data — the one data model, text syntax, binary form and schema system of every Yog format."
+2026-10-14T09:44:59.878988Z,bar-chart-race,0.1.0,0,0,https://github.com/northward1/bar-chart-race-rs,A fast and customizable Bar Chart Race generator in Rust using Plotters
+2026-10-14T09:48:44.520128Z,vectorcraft,0.1.1,0,0,,"A zero-dependency vector mathematics, Bézier spline, and SVG path generation toolkit in Rust."
+2026-10-14T09:48:55.03476Z,pdfcraft,0.1.1,0,0,,A zero-dependency PDF document generation toolkit in Rust producing compliant PDF-1.4 vector documents.
+2026-10-14T09:49:05.701881Z,filmcraft,0.1.1,0,0,,"A zero-dependency animation, keyframe interpolation, easing function, and frame sequencer toolkit in Rust."
+2026-10-14T09:56:09.06598Z,ncell-cli,0.4.3,0,0,https://github.com/rohityadav-sas/ncell-cli,"Cross-platform Ncell CLI for OTP login, balances, plans and free SMS"
+2026-10-14T09:57:19.373299Z,corecraft,0.1.1,0,0,,"A minimalist, zero-dependency foundation for 2D/3D vectors, colors, and bounding geometry across the Craft suite."
+2026-10-14T10:00:09.525536Z,dbmorph,0.1.1,0,0,https://gitee.com/ip2a/dbmorph,dbmorph
+2026-10-14T10:02:22.645484Z,dbm,0.1.1,0,0,https://gitee.com/ip2a/dbm,dbm
+2026-10-14T10:11:44.634614Z,ph-desktop-shell,0.1.0,0,0,https://github.com/powerhouse-inc/ph-desktop-shell,The Powerhouse desktop shell as a library: supervises a project's stack (ph run desktop) and windows Connect. Identity lives in the consuming binary's tauri.conf.json.
+2026-10-14T10:14:38.236961Z,datadome-fastly-compute,0.1.0,0,0,https://github.com/DataDome/modules-server-side,Server-side integration for DataDome Bot Protection on Fastly Compute (Rust)
+2026-10-14T10:14:56.562039Z,fk-flat,0.2.0,0,0,https://github.com/Dastfox/feuclide,"Tools for flat (E³) worlds: standing on a ground, free spots, and the like"
+2026-10-14T10:14:59.3593Z,fk-sky,0.2.0,0,0,https://github.com/Dastfox/feuclide,"The day and the night: a clock, the sun's and the moon's paths, the colours of every hour"
+2026-10-14T10:15:01.945453Z,fk-ui,0.2.0,0,0,https://github.com/Dastfox/feuclide,"What an app draws over the image for its player and its developer: readouts, key lists"
+2026-10-14T10:18:34.27762Z,appcore-ui,0.1.0-beta.1,0,0,https://github.com/dnettoRaw/app-core-public,"Independent UI pages, bounded Runtime bridge and optional system-native rendering"
+2026-10-14T10:19:01.467286Z,ddust,0.1.0,0,0,https://github.com/atomix-labs/ddust,"fixed-point decimals that leave no dust: exact, typed, as fast as the integers beneath them."
