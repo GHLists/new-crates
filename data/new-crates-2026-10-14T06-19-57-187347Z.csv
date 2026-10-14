@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T05:22:57.37456Z,bsc_derive_macros,0.1.0,0,0,https://github.com/NoahShomette/bevy_state_curves,A state saving and management crate for the Bevy Game Engine saving via curve keyframes
+2026-10-14T05:29:23.863283Z,niri-computer-use,0.1.0,0,0,https://github.com/ayagmar/niri-computer-use,An MCP server for AI agents to observe and drive a niri Wayland desktop
+2026-10-14T05:31:09.807801Z,yaws-app-rick-roll,0.0.1,0,0,https://github.com/yaws-rs/h11spec,YAWS Rick Roll As a Service
+2026-10-14T05:32:09.042934Z,rightkit-child-process,0.4.0,0,0,https://github.com/Orthic-Labs/rightkit,"Ownership-safe child lifecycle, restart, and health primitives for Right Suite apps."
+2026-10-14T05:32:58.407023Z,rightkit-sidecar,0.2.0,0,0,https://github.com/Orthic-Labs/rightkit,Bounded JSON-lines transport primitives for Right Suite sidecars.
+2026-10-14T05:34:32.337379Z,fonts-rs-blobmoji-sequences,0.5.0,0,0,https://github.com/smearor/fonts-rs,"Blobmoji multi-codepoint SVG sequences (ZWJ, flags, modifiers - build resource)"
+2026-10-14T05:34:39.034498Z,fonts-rs-blobmoji-color-flags,0.5.0,0,0,https://github.com/smearor/fonts-rs,Blobmoji COLRv1 (with flags) font integration for GTK 4 and pixel-drawing
+2026-10-14T05:34:44.14137Z,fonts-rs-blobmoji-color-noflags,0.5.0,0,0,https://github.com/smearor/fonts-rs,Blobmoji COLRv1 (without flag emoji) font integration for GTK 4 and pixel-drawing
+2026-10-14T05:34:49.220664Z,fonts-rs-blobmoji-bitmap-flags,0.5.0,0,0,https://github.com/smearor/fonts-rs,Blobmoji CBDT bitmap (with flags) font integration for GTK 4 and pixel-drawing
+2026-10-14T05:34:54.519254Z,fonts-rs-blobmoji-bitmap-noflags,0.5.0,0,0,https://github.com/smearor/fonts-rs,Blobmoji CBDT bitmap (without flag emoji) font integration for GTK 4 and pixel-drawing
+2026-10-14T05:36:19.33102Z,neco-funcgraph,0.1.0,0,0,https://github.com/barineco/neco-crates,"Typed function definitions, applications, parameter bindings, and versioned finite function graphs"
+2026-10-14T05:36:55.828884Z,rightkit-agents,0.1.0,0,0,https://github.com/Orthic-Labs/rightkit,"Supervised vendor agent sessions for Right Suite apps: shared agent event model, Claude Code stream-json and Codex app-server protocol clients, recorded fixtures. No SDK, no HTTP, no MCP."
+2026-10-14T05:36:57.281315Z,rightkit-app-settings,0.2.0,0,0,https://github.com/Orthic-Labs/rightkit,"Versioned per-app settings persistence: migrations, typed defaults, atomic writes, corruption recovery, change events."
+2026-10-14T05:36:59.99217Z,rightkit-channel-memory,0.1.0,0,0,https://github.com/Orthic-Labs/rightkit,"Channel memory for the content pipeline: the channel-memory.v1 schema with serde types, validation, version gate, proof citation rules, and scope checks for PostRight P3 and GenRight G7."
+2026-10-14T05:37:01.226086Z,rightkit-compose,0.1.0,0,0,https://github.com/Orthic-Labs/rightkit,"Product-neutral evaluated composition model: layered video, stills, cursor sprites, backgrounds, clipping, shadows, motion blur, overlays and keyframed tracks, with one pure per-frame evaluation shar…"
+2026-10-14T05:48:20.71678Z,rightkit-contracts,0.1.5,0,0,https://github.com/Orthic-Labs/rightkit,"Versioned content-pipeline contracts for the Right Suite: content brief, delivery envelope, record session and event, demo plan and daemon API. JSON Schema validation, serde types, and major-version…"
+2026-10-14T05:48:58.826124Z,poppy-media,0.6.0,0,0,https://github.com/kuntal-devrat/poppy,High-level ergonomic API facade and C ABI shared library (libpoppy) for the Poppy media pipeline
+2026-10-14T05:49:52.369652Z,poppy-cli,0.6.0,0,0,https://github.com/kuntal-devrat/poppy,CLI tool for inspecting media files and dumping streams using Poppy
+2026-10-14T05:50:14.014972Z,retp-derive,0.1.0,0,0,https://github.com/geosiris-technologies/retp,"The derives behind the generated ETP types: an Avro codec, a Default faithful to the schema, and the message metadata."
+2026-10-14T05:50:15.807477Z,retp-avro,0.1.0,0,0,https://github.com/geosiris-technologies/retp,Avro binary encoding for ETP: the runtime the generated ETP types stand on.
+2026-10-14T05:50:17.544753Z,retp-types,0.1.0,0,0,https://github.com/geosiris-technologies/retp,"Rust bindings for ETP v1.2, generated from the Avro schemas."
+2026-10-14T05:56:25.646869Z,lanflare-proto,0.2.0,0,0,https://github.com/fokx/lanflare,LocalSend v2.2 compatible protocol types and data transfer objects for LanFlare
+2026-10-14T05:56:28.135072Z,lanflare-core,0.2.0,0,0,https://github.com/fokx/lanflare,"High-performance LocalSend v2.2 core transfer engine with hybrid discovery, TLS, and streaming I/O"
+2026-10-14T05:56:30.922559Z,lanflare-cli,0.2.0,0,0,https://github.com/fokx/lanflare,Command-line interface for LanFlare (alias package for lanflare)
+2026-10-14T05:59:21.213876Z,retp-proto,0.1.0,0,0,https://github.com/geosiris-technologies/retp,"The ETP v1.2 protocol for a client and a server alike: the wire, and later the session. No transport."
+2026-10-14T05:59:23.153406Z,retp-client,0.1.0,0,0,https://github.com/geosiris-technologies/retp,"An ETP v1.2 client: a transport under retp-proto's connection, and what a client does with it."
+2026-10-14T05:59:24.911982Z,energyml-etp-store,0.1.0,0,0,https://github.com/geosiris-technologies/retp,"The bridge: an ETP v1.2 dataspace behind EnergymlStorage, so that what reads a file reads a server."
+2026-10-14T06:05:33.945303Z,vyd-gstreamer,0.1.0,0,0,https://github.com/sdd/vyd,GStreamer sources and sinks for Vyd video pipelines
+2026-10-14T06:06:03.640551Z,vyd-main,0.1.0,0,0,https://github.com/sdd/vyd,pluggable video processing pipeline
+2026-10-14T06:06:33.467252Z,vyd-telemetry,0.1.0,0,0,https://github.com/sdd/vyd,Parquet telemetry and run statistics for Vyd pipelines
+2026-10-14T06:06:45.100645Z,vyd-gstreamer-gpu,0.1.0,0,0,https://github.com/sdd/vyd,Experimental GStreamer GPU buffer integration for Vyd
+2026-10-14T06:07:25.697628Z,single-variable-algebra,0.1.4,0,0,https://codeberg.org/772/Single_Variable_Algebra,A compiler for the minimalistic programming language single-variable-algebra.
+2026-10-14T06:07:34.660703Z,lanflare,0.2.0,0,0,https://github.com/fokx/lanflare,Cross-platform CLI and TUI for fast local peer discovery and file transfer compatible with LocalSend
+2026-10-14T06:08:45.027278Z,retp-cli,0.1.0,0,0,https://github.com/geosiris-technologies/retp,"The `retp` command: try an ETP v1.2 server - probe it, open a session, list, read, download."
+2026-10-14T06:10:12.428793Z,ver-blobsdb,0.1.0,0,0,,Content-addressed blob storage for ver
+2026-10-14T06:10:14.13237Z,ver-vcs,0.1.0-alpha,0,0,,"An intuitive, easy-to-use and non git-like version control system."
+2026-10-14T06:13:44.624425Z,blulib,0.8.0,0,0,https://github.com/azamaulanaaa/blu,"Backup tool with content-defined chunking and deduplicated, versioned snapshots"
+2026-10-14T06:15:08.075605Z,rightkit-credentials,0.2.0,0,0,https://github.com/Orthic-Labs/rightkit,"Per-app OS credential storage for Right Suite apps: Keychain / Credential Manager, passive presence checks, non-interactive mode, test guards, DB-key provisioning, and migration."
+2026-10-14T06:15:10.100011Z,rightkit-daemon,0.2.0,0,0,https://github.com/Orthic-Labs/rightkit,"One discovery/auth convention for Right Suite local services: service.json, ranking and takeover, current-user-only Unix socket / named pipe, per-app request allowlist."
+2026-10-14T06:15:55.153852Z,mynox,0.1.0,0,0,,A error library that aims to have clear error messages for what whent wrong and usefull tips for how to procede.
+2026-10-14T06:17:38.701763Z,rightkit-automation,0.3.0,0,0,https://github.com/Orthic-Labs/rightkit,"Brand-neutral desktop automation: observe and act on any app (macOS AX, Windows UIA) through a four-tier input ladder with safety, focus guard, and evidence receipts."
+2026-10-14T06:18:44.63167Z,retp-conformance,0.1.0,0,0,https://github.com/geosiris-technologies/retp,"Checks an ETP v1.2 server against what the specification makes mandatory, and writes the report a provider can act on."
