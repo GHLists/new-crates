@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T06:20:25.049346Z,miter-ast,0.1.0-alpha.1,0,0,https://github.com/colinwolff/miter,"Tree-sitter AST ingestion: functions, inputs and return types with their provenance and nesting depth"
+2026-10-14T06:20:28.677112Z,miter-storage,0.1.0-alpha.1,0,0,https://github.com/colinwolff/miter,"Canonical redb tables, schema versioning and auto-purge recovery for the miter workspace database"
+2026-10-14T06:20:31.184706Z,miter-harness,0.1.0-alpha.1,0,0,https://github.com/colinwolff/miter,Deterministic compiler verification: sandboxed git worktrees and diagnostic parsing for `miter verify`
+2026-10-14T06:22:11.513169Z,miter-engine,0.1.0-alpha.1,0,0,https://github.com/colinwolff/miter,"AST storage and analysis engine: polyglot model, hydration, audit, slices, clones, contracts and secret redaction"
+2026-10-14T06:22:41.656177Z,epistemic-core,0.1.0,0,0,,"Epistemic accountability core — Claim, Evidence, Reasoning graph, Split Confidence, Gate with penalized inference rules. Memory-system-agnostic."
+2026-10-14T06:23:02.341274Z,miter-mcp,0.1.0-alpha.1,0,0,https://github.com/colinwolff/miter,Model Context Protocol (MCP) stdio server exposing AST hydration and compiler verification
+2026-10-14T06:23:08.521122Z,microscope-hooks,0.1.0,1,1,,Hook system for Microscope Memory — thin orchestration layer for LLM lifecycle events.
+2026-10-14T06:27:18.585805Z,rightkit-agent-tools,0.1.2,0,0,https://github.com/Orthic-Labs/rightkit,"One typed tool interface for agents over rightkit-automation, rightkit-qa-driver, rightkit-browser and each app's engine commands (via rightkit-daemon), plus the `right-ctl <app> <command>` CLI."
+2026-10-14T06:35:01.025299Z,ek-oms,0.1.0,0,0,https://cnb.cool/enkeep/ek-oms,"Passive OMS cache for the ek ecosystem: inbound caching, order statistics, query services and a trade-sync stability gate (passive half of enkeep_trade OmsEngine, faithfully ported)."
+2026-10-14T06:37:42.222119Z,rightkit-device,0.1.3,0,0,https://github.com/Orthic-Labs/rightkit,Native host services for Right Suite Tauri license and device adapters.
+2026-10-14T06:41:16.100499Z,kova-mcp,0.1.0,0,0,https://git.cochranblock.org/cochranblock/kova.git,"Kova: minimal in-process MCP-style tool server (JSON-RPC 2.0 core, tool registry)."
+2026-10-14T06:41:20.616248Z,kova-docs-lint,0.1.0,0,0,https://git.cochranblock.org/cochranblock/kova.git,"Frontmatter linter, link checker, and write-boundary validator for docs/agent"
+2026-10-14T06:47:07.27145Z,rightkit-ffmpeg,0.2.6,0,0,https://github.com/Orthic-Labs/rightkit,Verified FFmpeg artifact and lifecycle primitives for Right Suite media pipelines.
+2026-10-14T06:54:45.538695Z,revault_archive_v1_initial_reader,0.0.4,0,0,https://github.com/onepub-dev/reVault,Frozen historical reVault compatibility reader for isolated migration
+2026-10-14T06:57:05.53839Z,revault_archive_v1_legacy_reader,0.0.4,0,0,https://github.com/onepub-dev/reVault,Frozen historical reVault compatibility reader for isolated migration
+2026-10-14T06:57:12.445672Z,rightkit-file-watch,0.4.0,0,0,https://github.com/Orthic-Labs/rightkit,"Filesystem watching for Right Suite apps: ref-counted async subscribers, debounced file-set and directory watchers, and rename-storm coalescing."
+2026-10-14T06:58:57.571691Z,revault_archive_v1_reader,0.0.4,0,0,https://github.com/onepub-dev/reVault,Frozen historical reVault compatibility reader for isolated migration
+2026-10-14T06:59:08.475333Z,editorconfig-query,0.1.0,0,0,https://gitlab.com/hartang/rust/editorconfig-query,Query formatting options according to .editorconfig for specific file paths
+2026-10-14T07:00:15.877291Z,miter-cli,0.1.0-alpha.1,0,0,https://github.com/colinwolff/miter,Deterministic AST co-processor and Model Context Protocol (MCP) server
+2026-10-14T07:01:05.306659Z,montagent-interchange,0.3.0,0,0,https://github.com/MBehtemam/Montagent,"Format interchange engine for Montagent: OpenTimelineIO, FCPXML, CMX 3600 EDL, and subtitles."
+2026-10-14T07:02:47.092553Z,revault_vault_v1_reader,0.0.4,0,0,https://github.com/onepub-dev/reVault,Frozen historical reVault compatibility reader for isolated migration
+2026-10-14T07:04:06.949918Z,revault_vault_v2_container_v1_reader,0.0.4,0,0,https://github.com/onepub-dev/reVault,Frozen historical reVault compatibility reader for isolated migration
+2026-10-14T07:07:17.824158Z,rightkit-hotkeys,0.1.0,0,0,https://github.com/Orthic-Labs/rightkit,"Global shortcuts and low-level input hooks for Right Suite apps: chord parsing, conflict detection, CGEventTap/WH_KEYBOARD_LL primitives, push-to-talk state."
+2026-10-14T07:07:53.449834Z,open-chess-vision-train,0.1.3,0,0,https://github.com/OffeneDatenmodellierung/open-chess,"Trains the open-chess board reader (chess-vision) with candle: DINOv2 encoder, square queries, licence-gated datasets (ChessReD and our own confirmed photos), on the CPU, CUDA or Metal"
+2026-10-14T07:08:43.98592Z,open-chess,0.1.3,0,0,https://github.com/OffeneDatenmodellierung/open-chess,"open-chess in one program: the Lichess-compatible chess server (feature `server`), the electronic-board runtime (`device`), reading a board from a photo (`vision`) and training the board reader (`tra…"
+2026-10-14T07:17:34.14601Z,rightkit-job-queue,0.3.0,0,0,https://github.com/Orthic-Labs/rightkit,"Persistent job store, runner, and stdio/CLI command contract for Right Suite engines."
