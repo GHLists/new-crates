@@ -8,34 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 10:21 UTC
+## Latest list — 2026-10-14 11:19 UTC
 
-New crates published between 2026-10-14 09:19 UTC and 2026-10-14 10:21 UTC.
+New crates published between 2026-10-14 10:21 UTC and 2026-10-14 11:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-14T10-21-02-505007Z.csv)
+[Full CSV](data/new-crates-2026-10-14T11-19-06-525756Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-14 09:19:20 | [wordcraft](https://crates.io/crates/wordcraft) | 0.1.1 | 0 | A zero-dependency text analytics toolkit in Rust with Flesch-Kincaid readabilit… |
-| 2026-10-14 09:21:42 | [bitbankutil_rs](https://crates.io/crates/bitbankutil_rs) | 0.1.9 | 0 | Rust utilities for bitbank REST and WebSocket APIs, with trading bot and paper… |
-| 2026-10-14 09:27:49 | [acme-renew-doctor](https://crates.io/crates/acme-renew-doctor) | 0.1.0 | 0 | Explain why an ACME certificate renewal failed or never ran, from files you pass |
-| 2026-10-14 09:38:47 | [yog-data-derive](https://crates.io/crates/yog-data-derive) | 0.2.0 | 0 | #[derive(Schema)] for Yog Data. |
-| 2026-10-14 09:38:55 | [yog-data](https://crates.io/crates/yog-data) | 0.2.2 | 0 | Yog Data — the one data model, text syntax, binary form and schema system of ev… |
-| 2026-10-14 09:44:59 | [bar-chart-race](https://crates.io/crates/bar-chart-race) | 0.1.0 | 0 | A fast and customizable Bar Chart Race generator in Rust using Plotters |
-| 2026-10-14 09:48:44 | [vectorcraft](https://crates.io/crates/vectorcraft) | 0.1.1 | 0 | A zero-dependency vector mathematics, Bézier spline, and SVG path generation to… |
-| 2026-10-14 09:48:55 | [pdfcraft](https://crates.io/crates/pdfcraft) | 0.1.1 | 0 | A zero-dependency PDF document generation toolkit in Rust producing compliant P… |
-| 2026-10-14 09:49:05 | [filmcraft](https://crates.io/crates/filmcraft) | 0.1.1 | 0 | A zero-dependency animation, keyframe interpolation, easing function, and frame… |
-| 2026-10-14 09:56:09 | [ncell-cli](https://crates.io/crates/ncell-cli) | 0.4.3 | 0 | Cross-platform Ncell CLI for OTP login, balances, plans and free SMS |
-| 2026-10-14 09:57:19 | [corecraft](https://crates.io/crates/corecraft) | 0.1.1 | 0 | A minimalist, zero-dependency foundation for 2D/3D vectors, colors, and boundin… |
-| 2026-10-14 10:00:09 | [dbmorph](https://crates.io/crates/dbmorph) | 0.1.1 | 0 | dbmorph |
-| 2026-10-14 10:02:22 | [dbm](https://crates.io/crates/dbm) | 0.1.1 | 0 | dbm |
-| 2026-10-14 10:11:44 | [ph-desktop-shell](https://crates.io/crates/ph-desktop-shell) | 0.1.0 | 0 | The Powerhouse desktop shell as a library: supervises a project's stack (ph run… |
-| 2026-10-14 10:14:38 | [datadome-fastly-compute](https://crates.io/crates/datadome-fastly-compute) | 0.1.0 | 0 | Server-side integration for DataDome Bot Protection on Fastly Compute (Rust) |
-| 2026-10-14 10:14:56 | [fk-flat](https://crates.io/crates/fk-flat) | 0.2.0 | 0 | Tools for flat (E³) worlds: standing on a ground, free spots, and the like |
-| 2026-10-14 10:14:59 | [fk-sky](https://crates.io/crates/fk-sky) | 0.2.0 | 0 | The day and the night: a clock, the sun's and the moon's paths, the colours of… |
-| 2026-10-14 10:15:01 | [fk-ui](https://crates.io/crates/fk-ui) | 0.2.0 | 0 | What an app draws over the image for its player and its developer: readouts, ke… |
-| 2026-10-14 10:18:34 | [appcore-ui](https://crates.io/crates/appcore-ui) | 0.1.0-beta.1 | 0 | Independent UI pages, bounded Runtime bridge and optional system-native renderi… |
-| 2026-10-14 10:19:01 | [ddust](https://crates.io/crates/ddust) | 0.1.0 | 0 | fixed-point decimals that leave no dust: exact, typed, as fast as the integers… |
+| 2026-10-14 10:22:56 | [statute](https://crates.io/crates/statute) | 0.0.1 | 0 | Compile a constitution and chosen rules into the instruction files coding agent… |
+| 2026-10-14 10:24:02 | [even-better-auth](https://crates.io/crates/even-better-auth) | 0.1.0 | 0 | Framework-agnostic authentication library for Rust, a port of better-auth |
+| 2026-10-14 10:24:04 | [even-better-auth-axum](https://crates.io/crates/even-better-auth-axum) | 0.1.0 | 0 | axum integration for even-better-auth |
+| 2026-10-14 10:24:05 | [even-better-auth-redis](https://crates.io/crates/even-better-auth-redis) | 0.1.0 | 0 | Redis secondary storage for even-better-auth |
+| 2026-10-14 10:24:05 | [even-better-auth-sqlx](https://crates.io/crates/even-better-auth-sqlx) | 0.1.0 | 0 | SQL database adapter (SQLite, Postgres, MySQL) for even-better-auth |
+| 2026-10-14 10:25:42 | [drmkit-fmt](https://crates.io/crates/drmkit-fmt) | 0.1.0 | 0 | DRM format and format-modifier support for drmkit: IN_FORMATS tables, modifier… |
+| 2026-10-14 10:25:44 | [drmkit-log](https://crates.io/crates/drmkit-log) | 0.1.0 | 0 | Diagnostic surface for drmkit: process-wide level, installable sink, and per-ca… |
+| 2026-10-14 10:25:44 | [drmkit-sync](https://crates.io/crates/drmkit-sync) | 0.1.0 | 0 | Explicit synchronization primitives for drmkit: sync_file fences for IN_FENCE_F… |
+| 2026-10-14 10:25:44 | [drmkit-time](https://crates.io/crates/drmkit-time) | 0.1.0 | 0 | Monotonic clock abstraction for drmkit: a swappable presentation clock for anim… |
+| 2026-10-14 10:25:46 | [drmkit-core](https://crates.io/crates/drmkit-core) | 0.1.0 | 0 | Core DRM/KMS device access for drmkit: device handles, property caching, and at… |
+| 2026-10-14 10:28:14 | [soundcraft](https://crates.io/crates/soundcraft) | 0.1.2 | 0 | A zero-dependency audio synthesis, waveform generator, ADSR envelope, and WAV f… |
+| 2026-10-14 10:31:37 | [main-spex](https://crates.io/crates/main-spex) | 0.19.1 | 0 | AI-first development framework that turns specifications into deterministic, ve… |
+| 2026-10-14 10:35:33 | [drmkit-dumb](https://crates.io/crates/drmkit-dumb) | 0.1.0 | 0 | DRM dumb buffers for drmkit: GPU-free, CPU-mappable scanout surfaces with lifet… |
+| 2026-10-14 10:36:33 | [figcraft](https://crates.io/crates/figcraft) | 0.1.2 | 0 | A zero-dependency UI wireframe, flexbox-like box model layout engine, and figur… |
+| 2026-10-14 10:39:17 | [lsda](https://crates.io/crates/lsda) | 0.1.0 | 0 | Read and write the language-specific data area of GCC-compatible exception hand… |
+| 2026-10-14 10:41:11 | [lievo](https://crates.io/crates/lievo) | 0.2.0 | 0 | Code analysis and knowledge platform — analyze codebases, query entity graphs,… |
+| 2026-10-14 10:45:29 | [drmkit-capture](https://crates.io/crates/drmkit-capture) | 0.1.0 | 0 | Read back what a CRTC is scanning out, and write it to a file |
+| 2026-10-14 10:46:40 | [orcrustrator](https://crates.io/crates/orcrustrator) | 0.1.1 | 0 | A pure, high-performance API aggregator and relational orchestrator with multi-… |
+| 2026-10-14 10:55:26 | [drmkit-gbm](https://crates.io/crates/drmkit-gbm) | 0.1.0 | 0 | GBM buffer allocation for drmkit |
+| 2026-10-14 11:05:28 | [drmkit-input](https://crates.io/crates/drmkit-input) | 0.1.0 | 0 | Keyboard, pointer and touch input: libinput devices and xkb key resolution |
+| 2026-10-14 11:07:50 | [murattal](https://crates.io/crates/murattal) | 0.1.0 | 0 | Listen to Quran recitation from your terminal — streams full surahs in the back… |
+| 2026-10-14 11:09:36 | [unicraft](https://crates.io/crates/unicraft) | 0.1.2 | 0 | The unified creative engine and umbrella studio facade for the Craft ecosystem,… |
+| 2026-10-14 11:10:58 | [anza-blstrs](https://crates.io/crates/anza-blstrs) | 0.7.1 | 0 | High performance implementation of BLS12 381 |
+| 2026-10-14 11:11:59 | [acid-cat-catalog](https://crates.io/crates/acid-cat-catalog) | 0.1.0 | 0 | Write an AcidCat catalog in Rust and render it in canonical form. |
+| 2026-10-14 11:15:29 | [drmkit-modeset](https://crates.io/crates/drmkit-modeset) | 0.1.0 | 0 | Mode selection and page-flip event dispatch for drmkit. |
+| 2026-10-14 11:16:06 | [fonts-rs-eva](https://crates.io/crates/fonts-rs-eva) | 0.5.0 | 0 | Eva Icons font integration for GTK 4 and pixel-drawing |
+| 2026-10-14 11:16:21 | [fonts-rs-fluent](https://crates.io/crates/fonts-rs-fluent) | 0.5.0 | 0 | Fluent UI System Icons integration for GTK 4 - hybrid TTF + SVG icon set |
+| 2026-10-14 11:16:25 | [fonts-rs-heroicons](https://crates.io/crates/fonts-rs-heroicons) | 0.5.0 | 0 | Heroicons integration for GTK 4 - fontless SVG-only icon set |
+| 2026-10-14 11:16:29 | [fonts-rs-line-awesome](https://crates.io/crates/fonts-rs-line-awesome) | 0.5.0 | 0 | Line Awesome integration for GTK 4 - hybrid TTF + SVG icon set (Font Awesome 5… |
+| 2026-10-14 11:16:34 | [fonts-rs-lucide](https://crates.io/crates/fonts-rs-lucide) | 0.5.0 | 0 | Lucide Icons integration for GTK 4 - fontless SVG-only icon set |
 
 ## Data source
 

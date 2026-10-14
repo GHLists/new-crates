@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T10:22:56.359235Z,statute,0.0.1,0,0,https://github.com/Luolc/agent-constitution,Compile a constitution and chosen rules into the instruction files coding agents read. Placeholder release; not usable yet.
+2026-10-14T10:24:02.662015Z,even-better-auth,0.1.0,0,0,https://github.com/Status-Labs/even-better-auth,"Framework-agnostic authentication library for Rust, a port of better-auth"
+2026-10-14T10:24:04.443134Z,even-better-auth-axum,0.1.0,0,0,https://github.com/Status-Labs/even-better-auth,axum integration for even-better-auth
+2026-10-14T10:24:05.094661Z,even-better-auth-redis,0.1.0,0,0,https://github.com/Status-Labs/even-better-auth,Redis secondary storage for even-better-auth
+2026-10-14T10:24:05.643187Z,even-better-auth-sqlx,0.1.0,0,0,https://github.com/Status-Labs/even-better-auth,"SQL database adapter (SQLite, Postgres, MySQL) for even-better-auth"
+2026-10-14T10:25:42.253035Z,drmkit-fmt,0.1.0,0,0,https://github.com/jwinarske/drmkit,"DRM format and format-modifier support for drmkit: IN_FORMATS tables, modifier classification, and bandwidth cost."
+2026-10-14T10:25:44.327136Z,drmkit-log,0.1.0,0,0,https://github.com/jwinarske/drmkit,"Diagnostic surface for drmkit: process-wide level, installable sink, and per-category channels."
+2026-10-14T10:25:44.572961Z,drmkit-sync,0.1.0,0,0,https://github.com/jwinarske/drmkit,Explicit synchronization primitives for drmkit: sync_file fences for IN_FENCE_FD / OUT_FENCE_PTR.
+2026-10-14T10:25:44.81713Z,drmkit-time,0.1.0,0,0,https://github.com/jwinarske/drmkit,"Monotonic clock abstraction for drmkit: a swappable presentation clock for animation, pacing, and scheduling."
+2026-10-14T10:25:46.073341Z,drmkit-core,0.1.0,0,0,https://github.com/jwinarske/drmkit,"Core DRM/KMS device access for drmkit: device handles, property caching, and atomic requests."
+2026-10-14T10:28:14.862035Z,soundcraft,0.1.2,0,0,,"A zero-dependency audio synthesis, waveform generator, ADSR envelope, and WAV file export toolkit in Rust."
+2026-10-14T10:31:37.852406Z,main-spex,0.19.1,0,0,https://github.com/foreachpartners/main-spex,"AI-first development framework that turns specifications into deterministic, verifiable code"
+2026-10-14T10:35:33.056195Z,drmkit-dumb,0.1.0,0,0,https://github.com/jwinarske/drmkit,"DRM dumb buffers for drmkit: GPU-free, CPU-mappable scanout surfaces with lifetime mmaps."
+2026-10-14T10:36:33.666128Z,figcraft,0.1.2,0,0,,"A zero-dependency UI wireframe, flexbox-like box model layout engine, and figure diagramming toolkit in Rust."
+2026-10-14T10:39:17.136844Z,lsda,0.1.0,0,0,https://github.com/Fee0/lsda,Read and write the language-specific data area of GCC-compatible exception handling (.gcc_except_table).
+2026-10-14T10:41:11.085994Z,lievo,0.2.0,0,0,https://github.com/trail-openers/lievo,"Code analysis and knowledge platform — analyze codebases, query entity graphs, serve structured knowledge via MCP"
+2026-10-14T10:45:29.8733Z,drmkit-capture,0.1.0,0,0,https://github.com/jwinarske/drmkit,"Read back what a CRTC is scanning out, and write it to a file"
+2026-10-14T10:46:40.919752Z,orcrustrator,0.1.1,0,0,https://github.com/orcrustrator/orcrustrator,"A pure, high-performance API aggregator and relational orchestrator with multi-auth, schema inspection, and OOP data modeling."
+2026-10-14T10:55:26.61733Z,drmkit-gbm,0.1.0,0,0,https://github.com/jwinarske/drmkit,GBM buffer allocation for drmkit
+2026-10-14T11:05:28.641566Z,drmkit-input,0.1.0,0,0,https://github.com/jwinarske/drmkit,"Keyboard, pointer and touch input: libinput devices and xkb key resolution"
+2026-10-14T11:07:50.758724Z,murattal,0.1.0,0,0,https://github.com/mewt/murattal,"Listen to Quran recitation from your terminal — streams full surahs in the background, no mpv or external player needed."
+2026-10-14T11:09:36.332872Z,unicraft,0.1.2,0,0,,"The unified creative engine and umbrella studio facade for the Craft ecosystem, combining 2D/3D graphics, vector CAD, UI wireframing, audio synthesis, and publication PDF generation."
+2026-10-14T11:10:58.002697Z,anza-blstrs,0.7.1,0,0,https://github.com/anza-xyz/blstrs,High performance implementation of BLS12 381
+2026-10-14T11:11:59.032409Z,acid-cat-catalog,0.1.0,0,0,https://github.com/Hebilicious/acidcat,Write an AcidCat catalog in Rust and render it in canonical form.
+2026-10-14T11:15:29.585842Z,drmkit-modeset,0.1.0,0,0,https://github.com/jwinarske/drmkit,Mode selection and page-flip event dispatch for drmkit.
+2026-10-14T11:16:06.105015Z,fonts-rs-eva,0.5.0,0,0,https://github.com/smearor/fonts-rs,Eva Icons font integration for GTK 4 and pixel-drawing
+2026-10-14T11:16:21.266401Z,fonts-rs-fluent,0.5.0,0,0,https://github.com/smearor/fonts-rs,Fluent UI System Icons integration for GTK 4 - hybrid TTF + SVG icon set
+2026-10-14T11:16:25.76052Z,fonts-rs-heroicons,0.5.0,0,0,https://github.com/smearor/fonts-rs,Heroicons integration for GTK 4 - fontless SVG-only icon set
+2026-10-14T11:16:29.861261Z,fonts-rs-line-awesome,0.5.0,0,0,https://github.com/smearor/fonts-rs,Line Awesome integration for GTK 4 - hybrid TTF + SVG icon set (Font Awesome 5 compatible)
+2026-10-14T11:16:34.103141Z,fonts-rs-lucide,0.5.0,0,0,https://github.com/smearor/fonts-rs,Lucide Icons integration for GTK 4 - fontless SVG-only icon set
