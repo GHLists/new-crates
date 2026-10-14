@@ -8,30 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 04:19 UTC
+## Latest list — 2026-10-14 05:22 UTC
 
-New crates published between 2026-10-14 03:20 UTC and 2026-10-14 04:19 UTC.
+New crates published between 2026-10-14 04:19 UTC and 2026-10-14 05:22 UTC.
 
-[Full CSV](data/new-crates-2026-10-14T04-19-40-928825Z.csv)
+[Full CSV](data/new-crates-2026-10-14T05-22-22-590239Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-14 03:26:44 | [footfall_analysis](https://crates.io/crates/footfall_analysis) | 0.1.0 | 0 | Spans, frames, and per-frame counter changes from Footfall snapshots, live or f… |
-| 2026-10-14 03:37:02 | [footfall_session_wtransport](https://crates.io/crates/footfall_session_wtransport) | 0.1.0 | 0 | Serve Footfall sessions over local WebTransport, and discover, fetch, and subsc… |
-| 2026-10-14 03:38:40 | [frc_autolog_macro](https://crates.io/crates/frc_autolog_macro) | 0.1.0 | 0 | Proc-macros for the robot-rust project. |
-| 2026-10-14 03:43:13 | [xj_scanf_core](https://crates.io/crates/xj_scanf_core) | 0.1.0 | 0 | Shared byte-oriented C scanning format parser and destination requirements |
-| 2026-10-14 03:47:14 | [footfall](https://crates.io/crates/footfall) | 0.1.0 | 0 | Low-overhead instrumentation with semantic attribution: one entry point for ins… |
-| 2026-10-14 03:57:39 | [footfall_cli](https://crates.io/crates/footfall_cli) | 0.1.0 | 0 | The footfall command: record running sessions, watch them live, and ask why fra… |
-| 2026-10-14 04:03:28 | [w1](https://crates.io/crates/w1) | 0.1.1 | 0 | Wrap7501: makes TUI coding agents (Codex, OpenCode, Gemini, Copilot, ...) repor… |
-| 2026-10-14 04:05:57 | [raw-files](https://crates.io/crates/raw-files) | 0.1.0 | 0 | Pure-Rust camera RAW library: extracts embedded JPEG previews from Nikon NEF an… |
-| 2026-10-14 04:09:48 | [ptal](https://crates.io/crates/ptal) | 0.1.0 | 0 | Terminal tool for reviewing a single throwaway text file: comment in a TUI, res… |
-| 2026-10-14 04:13:09 | [h11types](https://crates.io/crates/h11types) | 0.0.1 | 0 | h11spec core types |
-| 2026-10-14 04:14:29 | [blueprint-h11spec](https://crates.io/crates/blueprint-h11spec) | 0.0.1 | 0 | yaws h11spec blueprint |
-| 2026-10-14 04:15:34 | [aegis-netguard-protocol](https://crates.io/crates/aegis-netguard-protocol) | 0.1.0-alpha.1 | 0 | Aegis wire protocol — the intent-only contract every crate depends on. |
-| 2026-10-14 04:15:35 | [aegis-netguard-telemetry](https://crates.io/crates/aegis-netguard-telemetry) | 0.1.0-alpha.1 | 0 | Aegis telemetry: records guard verdicts as features for the anomaly detector (p… |
-| 2026-10-14 04:15:38 | [aegis-netguard-client-sdk](https://crates.io/crates/aegis-netguard-client-sdk) | 0.1.0-alpha.1 | 0 | Aegis programmable bots — one honest driver plus one cheat per file — for exerc… |
-| 2026-10-14 04:15:39 | [aegis-netguard-detector](https://crates.io/crates/aegis-netguard-detector) | 0.1.0-alpha.1 | 0 | Aegis anomaly detector (pillar C): reads the telemetry stream and flags players… |
-| 2026-10-14 04:15:39 | [aegis-netguard-relay](https://crates.io/crates/aegis-netguard-relay) | 0.1.0-alpha.1 | 0 | Aegis relay: the only address clients ever see. Forwards to an origin whose add… |
+| 2026-10-14 04:20:44 | [tuicli](https://crates.io/crates/tuicli) | 0.1.0 | 0 | A Rust-based TUI desktop environment designed specifically for headless Linux C… |
+| 2026-10-14 04:26:35 | [maxgrep](https://crates.io/crates/maxgrep) | 0.1.3 | 0 | Index-free parallel search engine that picks its scan strategy per pattern and… |
+| 2026-10-14 04:26:48 | [aegis-netguard-server](https://crates.io/crates/aegis-netguard-server) | 0.1.0-alpha.2 | 0 | Aegis authoritative game server: the sim owns the truth; guards reject client-t… |
+| 2026-10-14 04:37:21 | [aegis-netguard-ffi](https://crates.io/crates/aegis-netguard-ffi) | 0.1.0-alpha.2 | 0 | Aegis C ABI: the online detector (pillar C) for engines that are not written in… |
+| 2026-10-14 04:42:37 | [telegateway](https://crates.io/crates/telegateway) | 0.1.0 | 0 | A reverse-proxy gateway for Telegram bots: webhook ingress, per-chat rate limit… |
+| 2026-10-14 04:45:48 | [aegis-netguard-serve](https://crates.io/crates/aegis-netguard-serve) | 0.1.0-alpha.2 | 0 | Aegis as a running game server: the authoritative server at 30 Hz behind a rela… |
+| 2026-10-14 04:52:11 | [xj_zstr](https://crates.io/crates/xj_zstr) | 0.1.0 | 0 | Stepping stone for gradually oxidizing C strings |
+| 2026-10-14 04:56:10 | [robot-rust](https://crates.io/crates/robot-rust) | 0.1.0 | 0 | The robot-rust project, bindings for wpilib, ctre, and rev in rust. |
+| 2026-10-14 04:57:11 | [xj_cstat](https://crates.io/crates/xj_cstat) | 0.1.0 | 0 | Safe Unix stat metadata queries using borrowed byte paths |
+| 2026-10-14 04:59:20 | [netlink-packet-fou](https://crates.io/crates/netlink-packet-fou) | 0.1.0 | 0 | Foo over UDP (FOU) generic netlink packet definitions |
+| 2026-10-14 05:00:26 | [nl-fou](https://crates.io/crates/nl-fou) | 0.1.0 | 0 | Linux netlink library for FOU (foo over UDP) management |
+| 2026-10-14 05:02:26 | [harbor-cache](https://crates.io/crates/harbor-cache) | 0.1.1 | 0 | Generic Attic helpers for harbor-rs and downstream tooling |
+| 2026-10-14 05:06:23 | [tapin](https://crates.io/crates/tapin) | 0.1.0 | 0 | An inbox for your AI coding agents. Approve, jump, done. |
+| 2026-10-14 05:12:19 | [khive-graph-diff](https://crates.io/crates/khive-graph-diff) | 0.12.0 | 0 | Pure deterministic graph-state diffs over entity, edge, and note NDJSON |
+| 2026-10-14 05:12:26 | [xj_cio](https://crates.io/crates/xj_cio) | 0.1.0 | 0 | Safe implementations of core C IO APIs |
+| 2026-10-14 05:18:19 | [khive-pack-charter](https://crates.io/crates/khive-pack-charter) | 0.12.0 | 0 | Charter recording tables and revision-checked transitions |
+| 2026-10-14 05:20:29 | [sapphire-framework-update](https://crates.io/crates/sapphire-framework-update) | 0.19.0 | 0 | Find newer GitHub releases of a sapphire-framework binary, and replace it with… |
+| 2026-10-14 05:20:40 | [Res2](https://crates.io/crates/Res2) | 0.1.0 | 0 | Res2 |
 
 ## Data source
 

@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T04:20:44.466534Z,tuicli,0.1.0,0,0,https://github.com/qalmurri/tuicli,"A Rust-based TUI desktop environment designed specifically for headless Linux CLI systems (systems without a GUI). Its development focuses entirely on kernel-level stability, exceptional resource eff…"
+2026-10-14T04:26:35.366583Z,maxgrep,0.1.3,0,0,https://github.com/shittass/maxgrep,Index-free parallel search engine that picks its scan strategy per pattern and per buffer
+2026-10-14T04:26:48.410177Z,aegis-netguard-server,0.1.0-alpha.2,0,0,https://github.com/NattawatRyu/aegis,Aegis authoritative game server: the sim owns the truth; guards reject client-trust cheats at the edge.
+2026-10-14T04:37:21.759915Z,aegis-netguard-ffi,0.1.0-alpha.2,0,0,https://github.com/NattawatRyu/aegis,Aegis C ABI: the online detector (pillar C) for engines that are not written in Rust. Header: include/aegis.h.
+2026-10-14T04:42:37.992765Z,telegateway,0.1.0,0,0,https://github.com/rezhajulio/telegateway,"A reverse-proxy gateway for Telegram bots: webhook ingress, per-chat rate limiting, and structured observability."
+2026-10-14T04:45:48.66121Z,aegis-netguard-serve,0.1.0-alpha.2,0,0,https://github.com/NattawatRyu/aegis,"Aegis as a running game server: the authoritative server at 30 Hz behind a relay that hands out sessions over Noise, with the detector watching live."
+2026-10-14T04:52:11.752003Z,xj_zstr,0.1.0,0,0,https://github.com/brk/xj_zstr,Stepping stone for gradually oxidizing C strings
+2026-10-14T04:56:10.256306Z,robot-rust,0.1.0,0,0,https://github.com/carsonetb/robot-rust,"The robot-rust project, bindings for wpilib, ctre, and rev in rust."
+2026-10-14T04:57:11.114874Z,xj_cstat,0.1.0,0,0,https://github.com/brk/xj_cstat,Safe Unix stat metadata queries using borrowed byte paths
+2026-10-14T04:59:20.973137Z,netlink-packet-fou,0.1.0,0,0,https://github.com/rust-netlink/netlink-packet-fou,Foo over UDP (FOU) generic netlink packet definitions
+2026-10-14T05:00:26.750966Z,nl-fou,0.1.0,0,0,https://github.com/rust-netlink/nl-fou,Linux netlink library for FOU (foo over UDP) management
+2026-10-14T05:02:26.631483Z,harbor-cache,0.1.1,0,0,https://github.com/caniko/harbor,Generic Attic helpers for harbor-rs and downstream tooling
+2026-10-14T05:06:23.605126Z,tapin,0.1.0,0,0,https://github.com/Thevi99/tapin,"An inbox for your AI coding agents. Approve, jump, done."
+2026-10-14T05:12:19.52082Z,khive-graph-diff,0.12.0,0,0,https://github.com/ohdearquant/khive,"Pure deterministic graph-state diffs over entity, edge, and note NDJSON"
+2026-10-14T05:12:26.008197Z,xj_cio,0.1.0,0,0,https://github.com/brk/xj_cio,Safe implementations of core C IO APIs
+2026-10-14T05:18:19.425907Z,khive-pack-charter,0.12.0,0,0,https://github.com/ohdearquant/khive,Charter recording tables and revision-checked transitions
+2026-10-14T05:20:29.178277Z,sapphire-framework-update,0.19.0,0,0,https://github.com/fluo10/sapphire-framework,"Find newer GitHub releases of a sapphire-framework binary, and replace it with one"
+2026-10-14T05:20:40.450981Z,Res2,0.1.0,0,0,,Res2
