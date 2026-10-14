@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T12:24:04.889798Z,oxi-fetch,1.7.0,0,0,https://github.com/TFsadReD/Oxi-Fetch,"A fast cross-platform system information tool written in Rust, displaying OS logos and hardware stats"
+2026-10-14T12:24:39.271669Z,datafusion-table-providers-oracle,0.14.0,0,0,https://github.com/datafusion-contrib/datafusion-table-providers,DataFusion oracle table provider
+2026-10-14T12:25:37.770922Z,drmkit-scene-sources,0.1.0,0,0,https://github.com/jwinarske/drmkit,Tier-1 buffer sources for drmkit scenes: dumb buffers and imported DMA-BUFs.
+2026-10-14T12:31:36.9445Z,ntpanic,0.1.0,0,0,https://github.com/krakenaut9/ntpanic,"Panic handler for Windows kernel-mode Rust drivers: reports the panic, then bug-checks the system."
+2026-10-14T12:35:32.134347Z,drmkit-present,0.1.0,0,0,https://github.com/jwinarske/drmkit,"The present spine for drmkit: scanout slot pools, damage accumulation, and frame pacing."
+2026-10-14T12:36:38.712482Z,macula-craft-share,0.3.0,0,0,https://github.com/rgfaber/craft-libs,"The Share and Sign in windows for Craft apps (egui): invite, approve, revoke and contacts over macula-craft-seam's shared session, realm sign-in with a QR link."
+2026-10-14T12:39:44.359321Z,terraphim_alternatives,0.1.1,0,0,https://github.com/terraphim/terraphim-editor,"Span model for non-KG alternative-control state: human alternatives, ghosting, overflow and the trailing annotation block."
+2026-10-14T12:43:17.356363Z,terraphim_lab,0.1.1,0,0,https://github.com/terraphim/terraphim-editor,"Deterministic Lab mark engine: typos and punctuation, weakest, long and convoluted sentences, off-tone words, hedges and filler. No DOM; builds native and wasm32."
+2026-10-14T12:44:50.428363Z,navidog-core,0.0.1,0,0,https://github.com/xhofe/navidog,"Domain model, settings, encrypted storage, and cross-feature actions for navidog."
+2026-10-14T12:45:04.989156Z,navidog-ui,0.0.1,0,0,https://github.com/xhofe/navidog,"Design tokens, theme, and shared widgets for navidog."
+2026-10-14T12:45:11.983825Z,navidog-util,0.0.1,0,0,https://github.com/xhofe/navidog,Pure helpers shared by the navidog crates. No UI and no database drivers.
+2026-10-14T12:45:32.762423Z,drmkit-scene-set,0.1.0,0,0,https://github.com/jwinarske/drmkit,Cross-CRTC orchestration for drmkit scenes: one commit across several outputs.
+2026-10-14T12:45:40.158653Z,ek-ctp,0.1.0,0,0,https://cnb.cool/enkeep/ek-ctp,CTP gateway for the enkeep ek ecosystem: MD/TD session drivers mapping CTP wire rows onto ek-data objects over the ek-event bus (pure-logic core; native SDK bridging lands behind the `native` feature…
+2026-10-14T12:46:22.902308Z,navidog-db,0.0.1,0,0,https://github.com/xhofe/navidog,"MySQL, MariaDB, PostgreSQL, and SQLite drivers for navidog."
+2026-10-14T12:46:48.664407Z,navidog-plugin,0.0.1,0,0,https://github.com/xhofe/navidog,Plugin host for navidog.
+2026-10-14T12:55:20.228807Z,drmkit-session,0.1.0,0,0,https://github.com/jwinarske/drmkit,Session and seat management: revocable devices across VT switches
+2026-10-14T13:05:07.146706Z,meta-extension-state,0.9.0,0,0,https://github.com/lukacf/meerkat-meta,Provider-owned extension documents with atomic access control and retries
+2026-10-14T13:06:02.750395Z,replicar-format,2.0.4,0,0,https://github.com/Rolv-Arild/replicar,"The replicar file format: column groups, encodings and the types shared by every replicar crate"
+2026-10-14T13:06:16.130513Z,casbin-sqlx-adapter,1.9.0,0,0,https://github.com/apache/casbin-sqlx-adapter,SQLx adapter for Apache Casbin (Incubating)
+2026-10-14T13:06:32.921874Z,replicar,2.0.4,0,0,https://github.com/Rolv-Arild/replicar,"Rocket League replays reconstructed as RocketSim states, with the scoreboard, controls, events and provenance"
+2026-10-14T13:06:54.802607Z,replicar-cli,2.0.4,0,0,https://github.com/Rolv-Arild/replicar,The replicar command: Rocket League replays to RocketSim states in one Parquet file per replay
+2026-10-14T13:08:31.889794Z,navidog-connection,0.0.1,0,0,https://github.com/xhofe/navidog,Connection manager for navidog.
+2026-10-14T13:09:21.010894Z,navidog-grid,0.0.1,0,0,https://github.com/xhofe/navidog,Result grid and table viewer for navidog.
+2026-10-14T13:11:25.755574Z,const-csp,0.1.0,0,0,https://github.com/Zodey-hub/const-csp,Typed Content-Security-Policy header values built at compile time
+2026-10-14T13:11:50.25423Z,behavior-machines,0.1.0,0,0,https://github.com/seuros/behavior-machines,"Behavior trees with explicit halt semantics - no_std, composes the state_machines ecosystem"
+2026-10-14T13:13:45.348222Z,terraphim_lsp_core,1.23.1,0,0,https://github.com/terraphim/terraphim-ai,"Pure, WASM-buildable knowledge-graph analysis core for terraphim_lsp: KG term matches, synonym alternatives with capitalisation and a/an fix-up, and annotation-block exclusion"

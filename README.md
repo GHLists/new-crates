@@ -8,38 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 12:21 UTC
+## Latest list — 2026-10-14 13:19 UTC
 
-New crates published between 2026-10-14 11:19 UTC and 2026-10-14 12:21 UTC.
+New crates published between 2026-10-14 12:21 UTC and 2026-10-14 13:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-14T12-21-08-778937Z.csv)
+[Full CSV](data/new-crates-2026-10-14T13-19-55-342187Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-14 11:20:09 | [liminal-cli](https://crates.io/crates/liminal-cli) | 0.2.0 | 0 | The liminal command: serve the network, maintain its stores, or serve its disco… |
-| 2026-10-14 11:25:02 | [alonzo](https://crates.io/crates/alonzo) | 0.1.0 | 0 | The browser's Lisp machine: a game engine in WebAssembly whose language is VLA,… |
-| 2026-10-14 11:25:28 | [drmkit-planes](https://crates.io/crates/drmkit-planes) | 0.1.0 | 0 | Display-plane registry, layer model, and the bipartite plane allocator for drmk… |
-| 2026-10-14 11:29:24 | [yog-formats](https://crates.io/crates/yog-formats) | 0.2.0 | 0 | The schemas of Yog's source formats — .yblock/.yitem, .yrecipe, .ydef, .yres, y… |
-| 2026-10-14 11:30:23 | [danfe](https://crates.io/crates/danfe) | 0.1.0 | 0 | DANFE (NF-e) e DANFE NFC-e em PDF a partir do XML autorizado |
-| 2026-10-14 11:35:27 | [drmkit-cursor](https://crates.io/crates/drmkit-cursor) | 0.1.0 | 0 | Cursor themes and rasterized cursors |
-| 2026-10-14 11:35:34 | [bothy](https://crates.io/crates/bothy) | 0.0.1 | 0 | Serverless, local-first sync engine that uses the user's own cloud storage (Goo… |
-| 2026-10-14 11:35:51 | [riscvc-macros](https://crates.io/crates/riscvc-macros) | 0.1.1 | 0 | Procedural macros for riscvc: instruction tables (#[derive(Isa)]) and the opcod… |
-| 2026-10-14 11:35:51 | [bothy-cli](https://crates.io/crates/bothy-cli) | 0.0.1 | 0 | Command-line tool for Bothy, a serverless local-first sync engine that uses you… |
-| 2026-10-14 11:45:28 | [drmkit-display](https://crates.io/crates/drmkit-display) | 0.1.0 | 0 | Display characterisation and colour handling for drmkit |
-| 2026-10-14 11:45:46 | [tirage](https://crates.io/crates/tirage) | 2.0.0 | 0 | Original generative artwork and animations, rendered from code. A seeded Recipe… |
-| 2026-10-14 11:49:39 | [tirage-encode](https://crates.io/crates/tirage-encode) | 0.0.1 | 0 | Encode a tirage Loop to an H.264 MP4. |
-| 2026-10-14 11:50:58 | [tirage-cli](https://crates.io/crates/tirage-cli) | 0.0.1 | 0 | Command line for tirage: derive a Recipe from a Seed, render it to PNG or SVG. |
-| 2026-10-14 11:55:24 | [drmkit-scene](https://crates.io/crates/drmkit-scene) | 0.1.0 | 0 | Scene composition for drmkit: buffer sources, layer lowering, and atomic commit… |
-| 2026-10-14 11:56:26 | [atlas-sys](https://crates.io/crates/atlas-sys) | 0.47.0 | 0 | Build-only crate for ECMWF atlas (grid/mesh library) |
-| 2026-10-14 11:58:21 | [edifabric-x12-native-linux-arm64](https://crates.io/crates/edifabric-x12-native-linux-arm64) | 1.1.1 | 0 | The ediFabric Native X12 library for Linux arm64 (glibc 2.34+), bundled by the… |
-| 2026-10-14 11:58:23 | [edifabric-x12-native-linux-x64](https://crates.io/crates/edifabric-x12-native-linux-x64) | 1.1.1 | 0 | The ediFabric Native X12 library for Linux x64 (glibc 2.34+), bundled by the ed… |
-| 2026-10-14 11:58:24 | [edifabric-x12-native-osx-arm64](https://crates.io/crates/edifabric-x12-native-osx-arm64) | 1.1.1 | 0 | The ediFabric Native X12 library for macOS arm64 (12+), bundled by the edifabri… |
-| 2026-10-14 11:58:25 | [edifabric-x12-native-win-x64](https://crates.io/crates/edifabric-x12-native-win-x64) | 1.1.1 | 0 | The ediFabric Native X12 library for Windows x64, bundled by the edifabric-x12… |
-| 2026-10-14 11:58:27 | [edifabric-x12](https://crates.io/crates/edifabric-x12) | 1.1.1 | 0 | Rust bindings for ediFabric Native X12: convert X12 EDI to JSON and back, valid… |
-| 2026-10-14 12:05:34 | [drmkit-csd](https://crates.io/crates/drmkit-csd) | 0.1.0 | 0 | Client-side window decorations for drmkit: themes, shadows, and title bars. |
-| 2026-10-14 12:13:03 | [golay-code](https://crates.io/crates/golay-code) | 0.1.0 | 0 | Extended binary Golay code (24, 12) encoder/decoder |
-| 2026-10-14 12:15:34 | [drmkit-scene-gbm](https://crates.io/crates/drmkit-scene-gbm) | 0.1.0 | 0 | A drmkit scene source backed by a GBM surface, for GL and Vulkan producers. |
-| 2026-10-14 12:20:21 | [terraphim_rolegraph_core](https://crates.io/crates/terraphim_rolegraph_core) | 0.1.1 | 0 | Dep-light core types from terraphim_rolegraph: TriggerIndex (TF-IDF) + Symbolic… |
+| 2026-10-14 12:24:04 | [oxi-fetch](https://crates.io/crates/oxi-fetch) | 1.7.0 | 0 | A fast cross-platform system information tool written in Rust, displaying OS lo… |
+| 2026-10-14 12:24:39 | [datafusion-table-providers-oracle](https://crates.io/crates/datafusion-table-providers-oracle) | 0.14.0 | 0 | DataFusion oracle table provider |
+| 2026-10-14 12:25:37 | [drmkit-scene-sources](https://crates.io/crates/drmkit-scene-sources) | 0.1.0 | 0 | Tier-1 buffer sources for drmkit scenes: dumb buffers and imported DMA-BUFs. |
+| 2026-10-14 12:31:36 | [ntpanic](https://crates.io/crates/ntpanic) | 0.1.0 | 0 | Panic handler for Windows kernel-mode Rust drivers: reports the panic, then bug… |
+| 2026-10-14 12:35:32 | [drmkit-present](https://crates.io/crates/drmkit-present) | 0.1.0 | 0 | The present spine for drmkit: scanout slot pools, damage accumulation, and fram… |
+| 2026-10-14 12:36:38 | [macula-craft-share](https://crates.io/crates/macula-craft-share) | 0.3.0 | 0 | The Share and Sign in windows for Craft apps (egui): invite, approve, revoke an… |
+| 2026-10-14 12:39:44 | [terraphim_alternatives](https://crates.io/crates/terraphim_alternatives) | 0.1.1 | 0 | Span model for non-KG alternative-control state: human alternatives, ghosting,… |
+| 2026-10-14 12:43:17 | [terraphim_lab](https://crates.io/crates/terraphim_lab) | 0.1.1 | 0 | Deterministic Lab mark engine: typos and punctuation, weakest, long and convolu… |
+| 2026-10-14 12:44:50 | [navidog-core](https://crates.io/crates/navidog-core) | 0.0.1 | 0 | Domain model, settings, encrypted storage, and cross-feature actions for navido… |
+| 2026-10-14 12:45:04 | [navidog-ui](https://crates.io/crates/navidog-ui) | 0.0.1 | 0 | Design tokens, theme, and shared widgets for navidog. |
+| 2026-10-14 12:45:11 | [navidog-util](https://crates.io/crates/navidog-util) | 0.0.1 | 0 | Pure helpers shared by the navidog crates. No UI and no database drivers. |
+| 2026-10-14 12:45:32 | [drmkit-scene-set](https://crates.io/crates/drmkit-scene-set) | 0.1.0 | 0 | Cross-CRTC orchestration for drmkit scenes: one commit across several outputs. |
+| 2026-10-14 12:45:40 | [ek-ctp](https://crates.io/crates/ek-ctp) | 0.1.0 | 0 | CTP gateway for the enkeep ek ecosystem: MD/TD session drivers mapping CTP wire… |
+| 2026-10-14 12:46:22 | [navidog-db](https://crates.io/crates/navidog-db) | 0.0.1 | 0 | MySQL, MariaDB, PostgreSQL, and SQLite drivers for navidog. |
+| 2026-10-14 12:46:48 | [navidog-plugin](https://crates.io/crates/navidog-plugin) | 0.0.1 | 0 | Plugin host for navidog. |
+| 2026-10-14 12:55:20 | [drmkit-session](https://crates.io/crates/drmkit-session) | 0.1.0 | 0 | Session and seat management: revocable devices across VT switches |
+| 2026-10-14 13:05:07 | [meta-extension-state](https://crates.io/crates/meta-extension-state) | 0.9.0 | 0 | Provider-owned extension documents with atomic access control and retries |
+| 2026-10-14 13:06:02 | [replicar-format](https://crates.io/crates/replicar-format) | 2.0.4 | 0 | The replicar file format: column groups, encodings and the types shared by ever… |
+| 2026-10-14 13:06:16 | [casbin-sqlx-adapter](https://crates.io/crates/casbin-sqlx-adapter) | 1.9.0 | 0 | SQLx adapter for Apache Casbin (Incubating) |
+| 2026-10-14 13:06:32 | [replicar](https://crates.io/crates/replicar) | 2.0.4 | 0 | Rocket League replays reconstructed as RocketSim states, with the scoreboard, c… |
+| 2026-10-14 13:06:54 | [replicar-cli](https://crates.io/crates/replicar-cli) | 2.0.4 | 0 | The replicar command: Rocket League replays to RocketSim states in one Parquet… |
+| 2026-10-14 13:08:31 | [navidog-connection](https://crates.io/crates/navidog-connection) | 0.0.1 | 0 | Connection manager for navidog. |
+| 2026-10-14 13:09:21 | [navidog-grid](https://crates.io/crates/navidog-grid) | 0.0.1 | 0 | Result grid and table viewer for navidog. |
+| 2026-10-14 13:11:25 | [const-csp](https://crates.io/crates/const-csp) | 0.1.0 | 0 | Typed Content-Security-Policy header values built at compile time |
+| 2026-10-14 13:11:50 | [behavior-machines](https://crates.io/crates/behavior-machines) | 0.1.0 | 0 | Behavior trees with explicit halt semantics - no_std, composes the state_machin… |
+| 2026-10-14 13:13:45 | [terraphim_lsp_core](https://crates.io/crates/terraphim_lsp_core) | 1.23.1 | 0 | Pure, WASM-buildable knowledge-graph analysis core for terraphim_lsp: KG term m… |
 
 ## Data source
 
