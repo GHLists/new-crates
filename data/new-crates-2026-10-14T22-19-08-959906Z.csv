@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T21:21:30.992439Z,ulo-rpc-redis,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,The Redis link for Ulo RPC: Pub/Sub per pattern carrying the whole frame
+2026-10-14T21:25:30.383118Z,docmux-reader-docx,0.6.0,0,0,https://github.com/aguschirico/docmux,DOCX reader for docmux: parses Word documents into the docmux AST
+2026-10-14T21:27:12.709254Z,fuel-formats,0.19.1,0,0,https://github.com/ciresnave/fuel,"Transport-independent parsers for tensor wire formats (safetensors, pickle, GGUF, GGML, imatrix). Operates on impl Read / &[u8] / Cow<[u8]>; knows nothing about Tensor, Storage, or Device. Consumers:…"
+2026-10-14T21:27:37.409243Z,fuel-kiss-ref-backend,0.19.1,0,0,https://github.com/ciresnave/fuel,"CPU, never-panic adapter exposing kiss-ref-core as Fuel's primitive-floor reference / differential target (correctness only; no fusion, no GPU)."
+2026-10-14T21:29:40.049356Z,covalence-kv-memory,0.1.0-dev.2,0,0,https://github.com/hiloopai/covalence,An in-memory key-value store
+2026-10-14T21:30:23.555754Z,agent-action-capsule,0.1.0,0,0,https://github.com/action-state-group/agent-action-capsule,"Agent Action Capsule reference verification: RFC 8785 canonicalization and capsule_id, the Class 1 record checks, Producer Envelopes, and Evidence Bundles."
+2026-10-14T21:31:43.577194Z,ulo-rpc-rabbitmq,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"The RabbitMQ (AMQP 0-9-1) link for Ulo RPC: queues, reply_to and correlation_id, confirms"
+2026-10-14T21:36:15.71459Z,docmux-cli,0.6.0,0,0,https://github.com/aguschirico/docmux,"Command-line document converter for LaTeX, Markdown, Typst, Word, HTML and MyST"
+2026-10-14T21:40:46.50897Z,covalence-kv-s3,0.1.0-dev.2,0,0,https://github.com/hiloopai/covalence,A key-value store on S3
+2026-10-14T21:41:54.073129Z,ulo-rpc-mqtt,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"The MQTT v5 link for Ulo RPC: shared subscriptions, Response Topic and Correlation Data"
+2026-10-14T21:44:28.333038Z,fuel-graph,0.19.1,0,0,https://github.com/ciresnave/fuel,"Lazy computation graph for the fuel ML framework (Phase 6). Hardware-agnostic Tensor handles, an Op enum, and a Graph arena."
+2026-10-14T21:47:22.370522Z,riode-macros,0.2.0,0,0,,Attribute macros for the Aurora UI engine
+2026-10-14T21:47:35.123495Z,riode-cli,0.2.0,0,0,,Aurora dev launcher: runs UI crates in hot-reload mode through the shared runtime
+2026-10-14T21:50:34.19484Z,itinera-macros,0.1.0-beta.1,0,0,https://github.com/itinera-dev/itinera-rs,"The procedural macros of Itinera, a workflow framework that keeps business rules separate from flow control."
+2026-10-14T21:50:37.369002Z,itinera-core,0.1.0-beta.1,0,0,https://github.com/itinera-dev/itinera-rs,"The core of Itinera, a workflow framework that keeps business rules separate from flow control."
+2026-10-14T21:50:40.191454Z,itinera,0.1.0-beta.1,0,0,https://github.com/itinera-dev/itinera-rs,A workflow framework that keeps business rules separate from flow control.
+2026-10-14T21:51:53.002527Z,covalence-cas-kv,0.1.0-dev.2,0,0,https://github.com/hiloopai/covalence,A content-addressed store over a key-value store
+2026-10-14T21:52:05.761263Z,ulo-rpc-kafka,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"The Kafka link for Ulo RPC: consumer groups, a reply topic and correlation headers"
+2026-10-14T21:55:44.089894Z,fuel-quantized,0.19.1,0,0,https://github.com/ciresnave/fuel,"Backend-agnostic quantized (ggml/gguf block) numerics for fuel: BlockQX types, GgmlType trait, scalar + SIMD reference impls, CPU DynQuantizedStorage adapter."
+2026-10-14T22:00:36.535542Z,ordna-macros,0.1.0,0,0,https://github.com/cstruct/ordna,Macros for declaring ordna config structures
+2026-10-14T22:00:39.338967Z,ordna-core,0.1.0,0,0,https://github.com/cstruct/ordna,"Layered, typed configuration with provenance and secret handling"
+2026-10-14T22:00:40.931555Z,ordna-source-env,0.1.0,0,0,https://github.com/cstruct/ordna,Environment variable config source for ordna
+2026-10-14T22:00:41.373791Z,ordna-source-file,0.1.0,0,0,https://github.com/cstruct/ordna,Generic file config source for ordna
+2026-10-14T22:00:43.582943Z,ordna-source-json,0.1.0,0,0,https://github.com/cstruct/ordna,JSON config files for ordna
+2026-10-14T22:01:39.326342Z,quat_image,0.3.0,0,0,https://github.com/strahinjastojanovic826-code/quat_image,A high-performance Rust library for packing 4 pixels (2 bits each) into a single byte with FFI support.
+2026-10-14T22:02:17.279439Z,ulo-grpc,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"The gRPC transport for Ulo: handlers bound to generated method markers, an HTTP/2 server, status details, health, reflection and clients"
+2026-10-14T22:04:57.195526Z,chassisdb,0.8.0,0,0,https://github.com/tanvincible/chassis,"Chassis: an embedded vector index for local semantic search, in one file."
+2026-10-14T22:06:12.466013Z,riode-platform-android,0.2.0,0,0,,Android platform backend for the Aurora UI engine
+2026-10-14T22:07:05.684405Z,fuel-cpu-backend,0.19.1,0,0,https://github.com/ciresnave/fuel,CPU backend computation kernels for the fuel ML framework
+2026-10-14T22:07:27.622308Z,riode-platform-ios,0.2.0,0,0,,iOS platform backend for the Aurora UI engine
+2026-10-14T22:09:00.823767Z,wordwall-leaderboard,0.1.0,0,0,https://github.com/scarcekoi/wordwall-leaderboard,A tool for creating leaderboard entries on Wordwall.
+2026-10-14T22:09:01.32363Z,id_effect_fp,0.6.0,0,0,https://github.com/Industrial/id_effect,"Functional-programming toolkit for id_effect: algebraic type classes, persistent collections, STM (maintenance tier)"
+2026-10-14T22:10:30.654322Z,xplane-bridge,0.1.0,0,0,https://github.com/wboayue/xplane-bridge/,"Sans-I/O client for X-Plane's UDP dataref protocol (RREF/DREF/CMND), letting external flight controllers read simulator state and drive the aircraft."
+2026-10-14T22:10:49.284558Z,id_effect_process,0.6.0,0,0,https://github.com/Industrial/id_effect,"BEAM/OTP-style processes, links, monitors, and supervision trees for id_effect"
+2026-10-14T22:11:44.594245Z,ordna-source-styx,0.1.0,0,0,https://github.com/cstruct/ordna,Styx config files for ordna
+2026-10-14T22:12:27.513474Z,ulo-graphql,0.1.0-alpha.1,0,0,https://github.com/ulo-rs/ulo,"Transport-neutral GraphQL for Ulo: the Engine SPI, requests and responses"
+2026-10-14T22:13:57.51527Z,id_effect_node,0.6.0,0,0,https://github.com/Industrial/id_effect,"Distribution layer for the id_effect Process Mesh: node identity, cookie handshake, and pluggable transports (InMemory/TCP/QUIC)"
+2026-10-14T22:15:07.843741Z,lvgl_theme_shadcn_sys,0.1.0,0,0,https://github.com/AlixANNERAUD/lvgl_theme_shadcn,Raw no_std FFI bindings to the shadcn/ui-inspired LVGL 9 theme
+2026-10-14T22:15:11.011005Z,lvgl_theme_shadcn,0.1.0,0,0,https://github.com/AlixANNERAUD/lvgl_theme_shadcn,Safe no_std bindings to the shadcn/ui-inspired LVGL 9 theme
+2026-10-14T22:18:03.79214Z,ipmicow,0.1.0,0,0,https://github.com/tbbuck/ipmicow,Native consoles for ancient Java iKVMs: Supermicro X9 (ATEN) and IBM IMM2 (Avocent DVC)
+2026-10-14T22:18:22.030702Z,fuel-loaders,0.19.1,0,0,https://github.com/ciresnave/fuel,"Model-loading support for the fuel ML framework — HF config.json resolution rules, load-progress reporting, and GGUF/imatrix/tokenizer glue over fuel-formats' wire parsers. Knows nothing about Tensor…"
+2026-10-14T22:18:35.318956Z,fuel-vulkan-backend,0.19.1,0,0,https://github.com/ciresnave/fuel,Vulkan GPU executor for the fuel lazy-graph layer. Uses Vulkane for device management and precompiled SPIR-V from fuel-vulkan-kernels (sources in fuel-kernels-source).
