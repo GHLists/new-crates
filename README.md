@@ -8,66 +8,58 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 05:19 UTC
+## Latest list — 2026-10-15 06:21 UTC
 
-New crates published between 2026-10-15 04:19 UTC and 2026-10-15 05:19 UTC.
+New crates published between 2026-10-15 05:19 UTC and 2026-10-15 06:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-15T05-19-09-185287Z.csv)
+[Full CSV](data/new-crates-2026-10-15T06-21-19-262306Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-15 04:19:23 | [ducy-gto](https://crates.io/crates/ducy-gto) | 0.1.0 | 0 | Game-theory-optimal poker strategies with counterfactual regret minimization, b… |
-| 2026-10-15 04:20:44 | [vyna-hl7-convert](https://crates.io/crates/vyna-hl7-convert) | 0.9.0 | 0 | Schema-driven cross-version conversion for HL7 v2.x messages |
-| 2026-10-15 04:23:02 | [rig-inspect](https://crates.io/crates/rig-inspect) | 0.44.1 | 0 | Placeholder reserving this name for the Rig project. The real crate will be pub… |
-| 2026-10-15 04:25:41 | [zgui-text](https://crates.io/crates/zgui-text) | 0.1.0 | 0 | Text contracts shared by zgui crates |
-| 2026-10-15 04:30:56 | [vyna-hl7-custom](https://crates.io/crates/vyna-hl7-custom) | 0.9.0 | 0 | Framework for defining and registering custom Z-segments in HL7 v2.x messages |
-| 2026-10-15 04:33:03 | [rig-print](https://crates.io/crates/rig-print) | 0.44.1 | 0 | Placeholder reserving this name for the Rig project. The real crate will be pub… |
-| 2026-10-15 04:35:42 | [rules-machine](https://crates.io/crates/rules-machine) | 0.1.1 | 0 | JSON-serializable rules engine: experimental Rust subset of Rules Machine |
-| 2026-10-15 04:37:49 | [zgui-text-parley](https://crates.io/crates/zgui-text-parley) | 0.1.0 | 0 | Text engine for zgui, built on Parley |
-| 2026-10-15 04:37:50 | [zgui-tokio](https://crates.io/crates/zgui-tokio) | 0.1.0 | 0 | Tokio integration for zgui applications |
-| 2026-10-15 04:41:14 | [vyna-hl7-fhir](https://crates.io/crates/vyna-hl7-fhir) | 0.9.0 | 0 | HL7 v2.x to FHIR R4 conversion library with 12 production-ready converters |
-| 2026-10-15 04:43:02 | [rig-reload](https://crates.io/crates/rig-reload) | 0.44.1 | 0 | Placeholder reserving this name for the Rig project. The real crate will be pub… |
-| 2026-10-15 04:49:09 | [tape-ed25519](https://crates.io/crates/tape-ed25519) | 0.1.0 | 0 | Ed25519 verification under the ZIP-215 rules, one signature at a time or eight… |
-| 2026-10-15 04:49:36 | [zgui-vocab](https://crates.io/crates/zgui-vocab) | 0.1.0 | 0 | Shared types for the zgui view layer and document |
-| 2026-10-15 04:50:05 | [terminal-ui-runtime](https://crates.io/crates/terminal-ui-runtime) | 0.1.0 | 0 | Bounded read-only refresh scheduling for terminal interfaces |
-| 2026-10-15 04:50:41 | [vyna-hl7-http](https://crates.io/crates/vyna-hl7-http) | 0.9.0 | 0 | HTTP transport for HL7 v2.x messages (inter-organization communication) |
-| 2026-10-15 04:52:13 | [terminal-ui-ratatui](https://crates.io/crates/terminal-ui-ratatui) | 0.1.0 | 0 | Ratatui presentation and terminal input adapter for terminal-ui-contract |
-| 2026-10-15 04:53:02 | [rig-splits](https://crates.io/crates/rig-splits) | 0.44.1 | 0 | Placeholder reserving this name for the Rig project. The real crate will be pub… |
-| 2026-10-15 04:55:51 | [scitt-cose-receipt](https://crates.io/crates/scitt-cose-receipt) | 0.1.0 | 0 | Offline verifier for SCITT COSE Receipts with RFC 9162 SHA-256 inclusion proofs… |
-| 2026-10-15 04:56:29 | [tessaridb-s3-client](https://crates.io/crates/tessaridb-s3-client) | 0.1.2 | 0 | An async Rust client for S3-compatible object storage, built for moving files |
-| 2026-10-15 04:57:38 | [fdk-aac-rs-fdk](https://crates.io/crates/fdk-aac-rs-fdk) | 0.0.1 | 0 | Internal crate of fdk-aac-rs: Fixed-point DSP, bitstream and system primitives… |
-| 2026-10-15 04:57:40 | [fdk-aac-rs-arith](https://crates.io/crates/fdk-aac-rs-arith) | 0.0.1 | 0 | Internal crate of fdk-aac-rs: USAC arithmetic decoder (port of libArithCoding).… |
-| 2026-10-15 04:57:40 | [fdk-aac-rs-drc](https://crates.io/crates/fdk-aac-rs-drc) | 0.0.1 | 0 | Internal crate of fdk-aac-rs: MPEG-D DRC decoder (port of libDRCdec). Not a pub… |
-| 2026-10-15 04:57:41 | [fdk-aac-rs-pcmutils](https://crates.io/crates/fdk-aac-rs-pcmutils) | 0.0.1 | 0 | Internal crate of fdk-aac-rs: PCM utilities: limiter, downmix (port of libPCMut… |
-| 2026-10-15 04:57:41 | [fdk-aac-rs-sacdec](https://crates.io/crates/fdk-aac-rs-sacdec) | 0.0.1 | 0 | Internal crate of fdk-aac-rs: MPEG Surround decoder (port of libSACdec). Not a… |
-| 2026-10-15 04:59:08 | [fdk-aac-rs-sacenc](https://crates.io/crates/fdk-aac-rs-sacenc) | 0.0.1 | 0 | Internal crate of fdk-aac-rs: MPEG Surround encoder (port of libSACenc). Not a… |
-| 2026-10-15 05:00:27 | [legion-guest](https://crates.io/crates/legion-guest) | 0.1.0 | 0 | The in-guest half of Legion's sandbox runtime: the gated datapath relay, the re… |
-| 2026-10-15 05:00:29 | [legion-rs](https://crates.io/crates/legion-rs) | 0.1.0 | 0 | A workload orchestrator that is quick to start and scales to thousands of nodes |
-| 2026-10-15 05:00:51 | [vyna-hl7-mllp](https://crates.io/crates/vyna-hl7-mllp) | 0.9.0 | 0 | MLLP (Minimal Lower Layer Protocol) support for HL7 message transmission |
-| 2026-10-15 05:01:25 | [zgui-dom](https://crates.io/crates/zgui-dom) | 0.1.0 | 0 | The zgui document: an arena of nodes and their records |
-| 2026-10-15 05:01:37 | [turbojet-fast](https://crates.io/crates/turbojet-fast) | 0.3.1 | 0 | FAST (FIX Adapted for STreaming) 1.1 for Turbojet: messages decoded and encoded… |
-| 2026-10-15 05:01:41 | [radroots](https://crates.io/crates/radroots) | 0.0.0 | 0 | Rust SDK for Radroots. |
-| 2026-10-15 05:02:45 | [fig-sys-macos-x64](https://crates.io/crates/fig-sys-macos-x64) | 6.0.0 | 0 | Prebuilt fig core and language libraries for x86_64-apple-darwin. Support crate… |
-| 2026-10-15 05:02:49 | [fig-sys-linux-x64-musl](https://crates.io/crates/fig-sys-linux-x64-musl) | 6.0.0 | 0 | Prebuilt fig core and language libraries for x86_64-unknown-linux-musl. Support… |
-| 2026-10-15 05:02:52 | [fig-sys-linux-arm64-musl](https://crates.io/crates/fig-sys-linux-arm64-musl) | 6.0.0 | 0 | Prebuilt fig core and language libraries for aarch64-unknown-linux-musl. Suppor… |
-| 2026-10-15 05:02:56 | [fig-sys-android-arm64](https://crates.io/crates/fig-sys-android-arm64) | 6.0.0 | 0 | Prebuilt fig core and language libraries for aarch64-linux-android. Support cra… |
-| 2026-10-15 05:03:00 | [fig-sys-android-x64](https://crates.io/crates/fig-sys-android-x64) | 6.0.0 | 0 | Prebuilt fig core and language libraries for x86_64-linux-android. Support crat… |
-| 2026-10-15 05:03:03 | [rig-compaction](https://crates.io/crates/rig-compaction) | 0.44.1 | 0 | Placeholder reserving this name for the Rig project. The real crate will be pub… |
-| 2026-10-15 05:05:08 | [suritap](https://crates.io/crates/suritap) | 0.1.0-rc1 | 0 | Client library and protocol for suritap: TLS-terminating proxies hand plaintext… |
-| 2026-10-15 05:06:34 | [cxstd](https://crates.io/crates/cxstd) | 0.1.0 | 0 | Shared window interfaces and types based on winit. |
-| 2026-10-15 05:08:20 | [ecomsec-audit](https://crates.io/crates/ecomsec-audit) | 0.1.1 | 0 | Optional AI audit for ecomsec: an agent with read-only tools that reviews scan… |
-| 2026-10-15 05:08:21 | [ecomsec-jtl5](https://crates.io/crates/ecomsec-jtl5) | 0.1.1 | 0 | ecomsec platform adapter: jtl5 |
-| 2026-10-15 05:08:21 | [ecomsec-magento2](https://crates.io/crates/ecomsec-magento2) | 0.1.1 | 0 | ecomsec platform adapter: Magento 2 / Adobe Commerce |
-| 2026-10-15 05:08:22 | [ecomsec-shopware6](https://crates.io/crates/ecomsec-shopware6) | 0.1.1 | 0 | ecomsec platform adapter: shopware6 |
-| 2026-10-15 05:08:23 | [ecomsec](https://crates.io/crates/ecomsec) | 0.1.1 | 0 | ecomsec – compromise check (Kompromittierungs-Check) for e-commerce installatio… |
-| 2026-10-15 05:09:08 | [fdk-aac-rs-sbrdec](https://crates.io/crates/fdk-aac-rs-sbrdec) | 0.0.1 | 0 | Internal crate of fdk-aac-rs: SBR and PS decoder (port of libSBRdec). Not a pub… |
-| 2026-10-15 05:09:37 | [wai-quantum-qpu](https://crates.io/crates/wai-quantum-qpu) | 0.1.0 | 0 | Quantum processors as members of the wai-quantum fabric: clients for the servic… |
-| 2026-10-15 05:10:17 | [jogile](https://crates.io/crates/jogile) | 0.0.1-alpha | 0 | Early work in progress. Nothing usable yet. |
-| 2026-10-15 05:11:02 | [vyna-hl7-orchestration](https://crates.io/crates/vyna-hl7-orchestration) | 0.9.0 | 0 | Message routing, orchestration, and workflow engine for HL7 v2.x messages |
-| 2026-10-15 05:13:02 | [rig-coding-tools](https://crates.io/crates/rig-coding-tools) | 0.44.1 | 0 | Placeholder reserving this name for the Rig project. The real crate will be pub… |
-| 2026-10-15 05:13:08 | [zgui-platform](https://crates.io/crates/zgui-platform) | 0.1.0 | 0 | Platform contract that windowing backends implement |
-| 2026-10-15 05:14:06 | [fig-sys-wasm32-wasi](https://crates.io/crates/fig-sys-wasm32-wasi) | 6.0.0 | 0 | Prebuilt fig core and language libraries for wasm32-wasip1. Support crate for f… |
-| 2026-10-15 05:19:08 | [fdk-aac-rs-sbrenc](https://crates.io/crates/fdk-aac-rs-sbrenc) | 0.0.1 | 0 | Internal crate of fdk-aac-rs: SBR and PS encoder (port of libSBRenc). Not a pub… |
+| 2026-10-15 05:20:50 | [vyna-dcm-core](https://crates.io/crates/vyna-dcm-core) | 0.6.0 | 0 | VynaDCM core: tags, value representations, datasets, dictionary, UIDs |
+| 2026-10-15 05:23:02 | [rig-basics](https://crates.io/crates/rig-basics) | 0.44.1 | 0 | Placeholder reserving this name for the Rig project. The real crate will be pub… |
+| 2026-10-15 05:24:53 | [membrick](https://crates.io/crates/membrick) | 0.6.0 | 0 | Persistent memory layer for AI coding agents — MCP server with current-state re… |
+| 2026-10-15 05:24:59 | [zgui-platform-headless](https://crates.io/crates/zgui-platform-headless) | 0.1.0 | 0 | Headless zgui platform with a test clock and scripted input |
+| 2026-10-15 05:25:18 | [fig-language-build](https://crates.io/crates/fig-language-build) | 6.0.0 | 0 | Compiles a fig language written in Zig into the static library its Rust crate l… |
+| 2026-10-15 05:25:21 | [fig-dotenv](https://crates.io/crates/fig-dotenv) | 6.0.0 | 0 | dotenv for fig: fig's own parser, printer and editing rules for the language, a… |
+| 2026-10-15 05:29:08 | [fdk-aac-rs-tpdec](https://crates.io/crates/fdk-aac-rs-tpdec) | 0.0.1 | 0 | Internal crate of fdk-aac-rs: Transport decoder: raw, ADIF, ADTS, LATM/LOAS, DR… |
+| 2026-10-15 05:30:32 | [vyna-dcm-codec](https://crates.io/crates/vyna-dcm-codec) | 0.6.1 | 0 | VynaDCM codecs: dataset encoding, Part-10 files, RLE, DICOM JSON |
+| 2026-10-15 05:33:03 | [rig-activity](https://crates.io/crates/rig-activity) | 0.44.1 | 0 | Placeholder reserving this name for the Rig project. The real crate will be pub… |
+| 2026-10-15 05:34:06 | [ordna-source-toml](https://crates.io/crates/ordna-source-toml) | 0.1.0 | 0 | TOML config files for ordna |
+| 2026-10-15 05:34:18 | [ordna-source-yaml](https://crates.io/crates/ordna-source-yaml) | 0.1.0 | 0 | YAML config files for ordna |
+| 2026-10-15 05:36:28 | [fig-figl](https://crates.io/crates/fig-figl) | 6.0.0 | 0 | figl, fig's authoring dialect for fig: fig's own parser, printer and editing ru… |
+| 2026-10-15 05:36:52 | [zgui-style](https://crates.io/crates/zgui-style) | 0.1.0 | 0 | Style engine for zgui documents, built on Stylo |
+| 2026-10-15 05:36:53 | [zgui-testkit-scene](https://crates.io/crates/zgui-testkit-scene) | 0.1.0 | 0 | Test kit for zgui without a GPU or font files |
+| 2026-10-15 05:39:09 | [fdk-aac-rs-aacdec](https://crates.io/crates/fdk-aac-rs-aacdec) | 0.0.1 | 0 | Internal crate of fdk-aac-rs: AAC decoder core and decoder API (port of libAACd… |
+| 2026-10-15 05:40:27 | [vyna-dcm-iod](https://crates.io/crates/vyna-dcm-iod) | 0.6.1 | 0 | VynaDCM IOD validation: Type 1/2/3 presence, VR and VM checking |
+| 2026-10-15 05:43:02 | [rig-login-chatgpt](https://crates.io/crates/rig-login-chatgpt) | 0.44.1 | 0 | Placeholder reserving this name for the Rig project. The real crate will be pub… |
+| 2026-10-15 05:47:35 | [fig-ini](https://crates.io/crates/fig-ini) | 6.0.0 | 0 | INI for fig: fig's own parser, printer and editing rules for the language, as a… |
+| 2026-10-15 05:48:57 | [zgui-anim](https://crates.io/crates/zgui-anim) | 0.1.0 | 0 | Transitions and keyframe animations for zgui |
+| 2026-10-15 05:49:08 | [fdk-aac-rs-tpenc](https://crates.io/crates/fdk-aac-rs-tpenc) | 0.0.1 | 0 | Internal crate of fdk-aac-rs: Transport encoder: raw, ADIF, ADTS, LATM/LOAS (po… |
+| 2026-10-15 05:50:34 | [vyna-dcm-deid](https://crates.io/crates/vyna-dcm-deid) | 0.6.1 | 0 | VynaDCM de-identification: PS3.15 E-style profiles for research exports |
+| 2026-10-15 05:52:52 | [sgraffito](https://crates.io/crates/sgraffito) | 0.1.0 | 0 | Doodle and sticky notes on the Wayland wallpaper layer (wlr-layer-shell) |
+| 2026-10-15 05:55:13 | [ringo-profile](https://crates.io/crates/ringo-profile) | 0.1.0 | 0 | ringo profile file format and custom-header templates |
+| 2026-10-15 05:56:26 | [web4-policy](https://crates.io/crates/web4-policy) | 0.1.0 | 0 | Web4 shared policy substrate — the domain-agnostic Law/PolicyEntity engine (R6… |
+| 2026-10-15 05:58:42 | [fig-json](https://crates.io/crates/fig-json) | 6.0.0 | 0 | JSON, JSONC and JSON5 for fig: fig's own parser, printer and editing rules for… |
+| 2026-10-15 05:59:04 | [fbarcalc](https://crates.io/crates/fbarcalc) | 0.3.0 | 0 | Calculate the maximum account balance from its transactions, converted to USD,… |
+| 2026-10-15 05:59:09 | [fdk-aac-rs-aacenc](https://crates.io/crates/fdk-aac-rs-aacenc) | 0.0.1 | 0 | Internal crate of fdk-aac-rs: AAC encoder core and encoder API (port of libAACe… |
+| 2026-10-15 06:00:34 | [vyna-dcm-atna](https://crates.io/crates/vyna-dcm-atna) | 0.6.1 | 0 | VynaDCM ATNA audit-trail emission: DICOM audit messages over syslog |
+| 2026-10-15 06:00:46 | [zgui-edit](https://crates.io/crates/zgui-edit) | 0.1.0 | 0 | Text editing: caret, selection, undo, IME composition and hit testing |
+| 2026-10-15 06:09:07 | [fdk-aac-rs](https://crates.io/crates/fdk-aac-rs) | 0.0.1 | 0 | Bit-exact Rust port of fdk-aac 2.0.3 (Third-Party Modified Version of the Fraun… |
+| 2026-10-15 06:09:09 | [cop-model](https://crates.io/crates/cop-model) | 0.1.0 | 0 | Shared diagnostic, source location, rule, and scan state types for cargo-cop. |
+| 2026-10-15 06:09:11 | [cop-cargo](https://crates.io/crates/cop-cargo) | 0.1.0 | 0 | Cargo metadata, package and target selection, feature resolution, and target cf… |
+| 2026-10-15 06:09:12 | [cop-config](https://crates.io/crates/cop-config) | 0.1.0 | 0 | Configuration discovery, schema validation, and command-line overrides for carg… |
+| 2026-10-15 06:09:13 | [cop-i18n](https://crates.io/crates/cop-i18n) | 0.1.0 | 0 | English and Simplified Chinese diagnostic messages for cargo-cop. |
+| 2026-10-15 06:09:14 | [cop-syntax](https://crates.io/crates/cop-syntax) | 0.1.0 | 0 | A lightweight Rust lexer, parser, and syntax tree for cargo-cop static analysis. |
+| 2026-10-15 06:09:49 | [fig-nestedtext](https://crates.io/crates/fig-nestedtext) | 6.0.0 | 0 | NestedText for fig: fig's own parser, printer and editing rules for the languag… |
+| 2026-10-15 06:10:23 | [vyna-dcm-net](https://crates.io/crates/vyna-dcm-net) | 0.6.1 | 0 | VynaDCM networking: DIMSE, associations, SCU/SCP services |
+| 2026-10-15 06:12:34 | [zgui-layout](https://crates.io/crates/zgui-layout) | 0.1.0 | 0 | Box layout for zgui documents: flexbox, grid, block and inline |
+| 2026-10-15 06:15:13 | [cop-analysis](https://crates.io/crates/cop-analysis) | 0.1.0 | 0 | Rust module graph discovery, cfg evaluation, symbol indexing, and path analysis… |
+| 2026-10-15 06:15:56 | [pelta](https://crates.io/crates/pelta) | 0.0.1 | 0 | Pelta |
+| 2026-10-15 06:19:08 | [fdk-aac-rs-cli](https://crates.io/crates/fdk-aac-rs-cli) | 0.0.1 | 0 | Command-line decoder and encoder of fdk-aac-rs, with the arguments and logs of… |
+| 2026-10-15 06:20:24 | [vyna-hl7](https://crates.io/crates/vyna-hl7) | 0.9.0 | 0 | Comprehensive HL7 v2.x library for Rust - parsing, validation, and MLLP support |
+| 2026-10-15 06:20:55 | [fig-plist](https://crates.io/crates/fig-plist) | 6.0.0 | 0 | the Apple XML property list for fig: fig's own parser, printer and editing rule… |
+| 2026-10-15 06:21:04 | [quicsync](https://crates.io/crates/quicsync) | 0.1.0 | 0 | QuicSync is a fast, git-aware file synchronization tool for keeping development… |
 
 ## Data source
 

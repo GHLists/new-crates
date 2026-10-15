@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T05:20:50.935006Z,vyna-dcm-core,0.6.0,0,0,https://github.com/FlostelInfoTech/vynadcm,"VynaDCM core: tags, value representations, datasets, dictionary, UIDs"
+2026-10-15T05:23:02.986807Z,rig-basics,0.44.1,0,0,https://github.com/0xPlaygrounds/rig,Placeholder reserving this name for the Rig project. The real crate will be published from https://github.com/0xPlaygrounds/rig.
+2026-10-15T05:24:53.791976Z,membrick,0.6.0,0,0,https://github.com/RooAGI/Membrick,Persistent memory layer for AI coding agents — MCP server with current-state retrieval and supersession tracking
+2026-10-15T05:24:59.72673Z,zgui-platform-headless,0.1.0,0,0,https://github.com/zortax/zgui,Headless zgui platform with a test clock and scripted input
+2026-10-15T05:25:18.59896Z,fig-language-build,6.0.0,0,0,https://github.com/diaryx-org/fig,Compiles a fig language written in Zig into the static library its Rust crate links: the build-dependency of fig-yaml and the other language crates.
+2026-10-15T05:25:21.395666Z,fig-dotenv,6.0.0,0,0,https://github.com/diaryx-org/fig,"dotenv for fig: fig's own parser, printer and editing rules for the language, as a library linked beside fig's."
+2026-10-15T05:29:08.087069Z,fdk-aac-rs-tpdec,0.0.1,0,0,https://github.com/elementarystream/fdk-aac-rs,"Internal crate of fdk-aac-rs: Transport decoder: raw, ADIF, ADTS, LATM/LOAS, DRM (port of libMpegTPDec). Not a public API; use the fdk-aac-rs crate."
+2026-10-15T05:30:32.576055Z,vyna-dcm-codec,0.6.1,0,0,https://github.com/FlostelInfoTech/vynadcm,"VynaDCM codecs: dataset encoding, Part-10 files, RLE, DICOM JSON"
+2026-10-15T05:33:03.20765Z,rig-activity,0.44.1,0,0,https://github.com/0xPlaygrounds/rig,Placeholder reserving this name for the Rig project. The real crate will be published from https://github.com/0xPlaygrounds/rig.
+2026-10-15T05:34:06.419499Z,ordna-source-toml,0.1.0,0,0,https://github.com/cstruct/ordna,TOML config files for ordna
+2026-10-15T05:34:18.763553Z,ordna-source-yaml,0.1.0,0,0,https://github.com/cstruct/ordna,YAML config files for ordna
+2026-10-15T05:36:28.237743Z,fig-figl,6.0.0,0,0,https://github.com/diaryx-org/fig,"figl, fig's authoring dialect for fig: fig's own parser, printer and editing rules for the language, as a library linked beside fig's."
+2026-10-15T05:36:52.64012Z,zgui-style,0.1.0,0,0,https://github.com/zortax/zgui,"Style engine for zgui documents, built on Stylo"
+2026-10-15T05:36:53.557175Z,zgui-testkit-scene,0.1.0,0,0,https://github.com/zortax/zgui,Test kit for zgui without a GPU or font files
+2026-10-15T05:39:09.069994Z,fdk-aac-rs-aacdec,0.0.1,0,0,https://github.com/elementarystream/fdk-aac-rs,Internal crate of fdk-aac-rs: AAC decoder core and decoder API (port of libAACdec). Not a public API; use the fdk-aac-rs crate.
+2026-10-15T05:40:27.607521Z,vyna-dcm-iod,0.6.1,0,0,https://github.com/FlostelInfoTech/vynadcm,"VynaDCM IOD validation: Type 1/2/3 presence, VR and VM checking"
+2026-10-15T05:43:02.557217Z,rig-login-chatgpt,0.44.1,0,0,https://github.com/0xPlaygrounds/rig,Placeholder reserving this name for the Rig project. The real crate will be published from https://github.com/0xPlaygrounds/rig.
+2026-10-15T05:47:35.217756Z,fig-ini,6.0.0,0,0,https://github.com/diaryx-org/fig,"INI for fig: fig's own parser, printer and editing rules for the language, as a library linked beside fig's."
+2026-10-15T05:48:57.225855Z,zgui-anim,0.1.0,0,0,https://github.com/zortax/zgui,Transitions and keyframe animations for zgui
+2026-10-15T05:49:08.317479Z,fdk-aac-rs-tpenc,0.0.1,0,0,https://github.com/elementarystream/fdk-aac-rs,"Internal crate of fdk-aac-rs: Transport encoder: raw, ADIF, ADTS, LATM/LOAS (port of libMpegTPEnc). Not a public API; use the fdk-aac-rs crate."
+2026-10-15T05:50:34.005937Z,vyna-dcm-deid,0.6.1,0,0,https://github.com/FlostelInfoTech/vynadcm,VynaDCM de-identification: PS3.15 E-style profiles for research exports
+2026-10-15T05:52:52.73955Z,sgraffito,0.1.0,0,0,https://github.com/codethare/sgraffito,Doodle and sticky notes on the Wayland wallpaper layer (wlr-layer-shell)
+2026-10-15T05:55:13.184491Z,ringo-profile,0.1.0,0,0,https://github.com/davidborzek/ringo,ringo profile file format and custom-header templates
+2026-10-15T05:56:26.48194Z,web4-policy,0.1.0,0,0,https://github.com/dp-web4/web4,"Web4 shared policy substrate — the domain-agnostic Law/PolicyEntity engine (R6 norms -> Allow/Deny/Escalate) + default hydration, specialized per-domain via PolicyExtension. Step-2 joint extraction (…"
+2026-10-15T05:58:42.133642Z,fig-json,6.0.0,0,0,https://github.com/diaryx-org/fig,"JSON, JSONC and JSON5 for fig: fig's own parser, printer and editing rules for the language, as a library linked beside fig's."
+2026-10-15T05:59:04.769741Z,fbarcalc,0.3.0,0,0,https://github.com/mfinelli/fbarcalc,"Calculate the maximum account balance from its transactions, converted to USD, for FBAR reports"
+2026-10-15T05:59:09.180713Z,fdk-aac-rs-aacenc,0.0.1,0,0,https://github.com/elementarystream/fdk-aac-rs,Internal crate of fdk-aac-rs: AAC encoder core and encoder API (port of libAACenc). Not a public API; use the fdk-aac-rs crate.
+2026-10-15T06:00:34.112298Z,vyna-dcm-atna,0.6.1,0,0,https://github.com/FlostelInfoTech/vynadcm,VynaDCM ATNA audit-trail emission: DICOM audit messages over syslog
+2026-10-15T06:00:46.872065Z,zgui-edit,0.1.0,0,0,https://github.com/zortax/zgui,"Text editing: caret, selection, undo, IME composition and hit testing"
+2026-10-15T06:09:07.694541Z,fdk-aac-rs,0.0.1,0,0,https://github.com/elementarystream/fdk-aac-rs,Bit-exact Rust port of fdk-aac 2.0.3 (Third-Party Modified Version of the Fraunhofer FDK AAC Codec Library for Android)
+2026-10-15T06:09:09.970383Z,cop-model,0.1.0,0,0,https://github.com/shaogme/cargo-cop,"Shared diagnostic, source location, rule, and scan state types for cargo-cop."
+2026-10-15T06:09:11.312481Z,cop-cargo,0.1.0,0,0,https://github.com/shaogme/cargo-cop,"Cargo metadata, package and target selection, feature resolution, and target cfg support for cargo-cop."
+2026-10-15T06:09:12.216311Z,cop-config,0.1.0,0,0,https://github.com/shaogme/cargo-cop,"Configuration discovery, schema validation, and command-line overrides for cargo-cop."
+2026-10-15T06:09:13.072382Z,cop-i18n,0.1.0,0,0,https://github.com/shaogme/cargo-cop,English and Simplified Chinese diagnostic messages for cargo-cop.
+2026-10-15T06:09:14.043921Z,cop-syntax,0.1.0,0,0,https://github.com/shaogme/cargo-cop,"A lightweight Rust lexer, parser, and syntax tree for cargo-cop static analysis."
+2026-10-15T06:09:49.133639Z,fig-nestedtext,6.0.0,0,0,https://github.com/diaryx-org/fig,"NestedText for fig: fig's own parser, printer and editing rules for the language, as a library linked beside fig's."
+2026-10-15T06:10:23.2916Z,vyna-dcm-net,0.6.1,0,0,https://github.com/FlostelInfoTech/vynadcm,"VynaDCM networking: DIMSE, associations, SCU/SCP services"
+2026-10-15T06:12:34.100575Z,zgui-layout,0.1.0,0,0,https://github.com/zortax/zgui,"Box layout for zgui documents: flexbox, grid, block and inline"
+2026-10-15T06:15:13.410323Z,cop-analysis,0.1.0,0,0,https://github.com/shaogme/cargo-cop,"Rust module graph discovery, cfg evaluation, symbol indexing, and path analysis for cargo-cop."
+2026-10-15T06:15:56.228114Z,pelta,0.0.1,0,0,https://github.com/pelta-dev/pelta,Pelta
+2026-10-15T06:19:08.082336Z,fdk-aac-rs-cli,0.0.1,0,0,https://github.com/elementarystream/fdk-aac-rs,"Command-line decoder and encoder of fdk-aac-rs, with the arguments and logs of the reference harness"
+2026-10-15T06:20:24.637662Z,vyna-hl7,0.9.0,0,0,https://github.com/FlostelInfoTech/vynahl7,"Comprehensive HL7 v2.x library for Rust - parsing, validation, and MLLP support"
+2026-10-15T06:20:55.157659Z,fig-plist,6.0.0,0,0,https://github.com/diaryx-org/fig,"the Apple XML property list for fig: fig's own parser, printer and editing rules for the language, as a library linked beside fig's."
+2026-10-15T06:21:04.923595Z,quicsync,0.1.0,0,0,https://github.com/domMayhew/QuicSync,"QuicSync is a fast, git-aware file synchronization tool for keeping development worktrees in sync with remote build machines."
