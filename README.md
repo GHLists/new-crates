@@ -8,45 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 02:20 UTC
+## Latest list — 2026-10-15 03:19 UTC
 
-New crates published between 2026-10-15 01:19 UTC and 2026-10-15 02:20 UTC.
+New crates published between 2026-10-15 02:20 UTC and 2026-10-15 03:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-15T02-20-34-352443Z.csv)
+[Full CSV](data/new-crates-2026-10-15T03-19-34-364167Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-15 01:20:48 | [win-durable-ioring](https://crates.io/crates/win-durable-ioring) | 0.1.0 | 0 | A ring for Windows file I/O with durability scheduled into its work: writes are… |
-| 2026-10-15 01:21:53 | [omoplata-git](https://crates.io/crates/omoplata-git) | 0.1.0 | 0 | Git object format and wire protocol interoperability for omoplata, with a round… |
-| 2026-10-15 01:23:50 | [airsclaude](https://crates.io/crates/airsclaude) | 0.1.0 | 0 | Unofficial Rust SDK for Anthropic's Claude: the Messages API and the Agent SDK. |
-| 2026-10-15 01:32:25 | [omoplata-sem](https://crates.io/crates/omoplata-sem) | 0.1.0 | 0 | omoplata's semantic layer: embeddings for duplicate-work detection and similari… |
-| 2026-10-15 01:34:12 | [choscorui-core](https://crates.io/crates/choscorui-core) | 0.1.0 | 0 | Platform-independent contracts of the ChoscorUI UI tree: layout, text, semantic… |
-| 2026-10-15 01:34:16 | [choscorui-controls](https://crates.io/crates/choscorui-controls) | 0.1.0 | 0 | Control behavior and paint recipes of ChoscorUI |
-| 2026-10-15 01:34:18 | [choscorui-macos](https://crates.io/crates/choscorui-macos) | 0.1.0 | 0 | AppKit backend of ChoscorUI. Its API is an implementation detail of the choscor… |
-| 2026-10-15 01:34:22 | [choscorui-compose](https://crates.io/crates/choscorui-compose) | 0.1.0 | 0 | Declarative views and reactive properties of ChoscorUI |
-| 2026-10-15 01:34:26 | [choscorui](https://crates.io/crates/choscorui) | 0.1.0 | 0 | Safe facade of the ChoscorUI desktop UI toolkit |
-| 2026-10-15 01:43:47 | [fuel-examples](https://crates.io/crates/fuel-examples) | 0.19.1 | 0 | Minimalist ML framework. |
-| 2026-10-15 01:44:01 | [fuel-lazy-examples](https://crates.io/crates/fuel-lazy-examples) | 0.19.1 | 0 | Runnable binaries demonstrating fuel's Phase 6a lazy graph layer. Kept separate… |
-| 2026-10-15 01:46:10 | [claudevs](https://crates.io/crates/claudevs) | 0.1.0 | 0 | Engine for the claudevs Claude Code plugin lifecycle CLI: case model, test harn… |
-| 2026-10-15 01:49:09 | [rust-ver](https://crates.io/crates/rust-ver) | 0.1.0 | 0 | Hardware/compiler intrinsic generator |
-| 2026-10-15 01:51:32 | [a4aa](https://crates.io/crates/a4aa) | 0.1.0 | 0 | Adapter-For-All-Agents — unified agent client adapter: process supervision, std… |
-| 2026-10-15 01:51:46 | [a4aa-antigravity](https://crates.io/crates/a4aa-antigravity) | 0.1.0 | 0 | a4aa dialect adapter: the `antigravity` mechanism descriptor (hooks, rules, ski… |
-| 2026-10-15 01:51:55 | [a4aa-augment](https://crates.io/crates/a4aa-augment) | 0.1.0 | 0 | a4aa dialect adapter: the `augment` mechanism descriptor (hooks, rules, skills,… |
-| 2026-10-15 01:52:04 | [a4aa-claude](https://crates.io/crates/a4aa-claude) | 0.1.0 | 0 | a4aa dialect adapter: the `claude` mechanism descriptor (hooks, rules, skills,… |
-| 2026-10-15 01:52:04 | [datamine-ilm-core](https://crates.io/crates/datamine-ilm-core) | 1.0.0 | 0 | The core of ILM, the Integer Language Model: words and numbers, the tools that… |
-| 2026-10-15 01:52:06 | [datamine-ilm-data](https://crates.io/crates/datamine-ilm-data) | 1.0.0 | 0 | The data part of ILM, the Integer Language Model: the readers of the public set… |
-| 2026-10-15 01:52:08 | [datamine-ilm-eval](https://crates.io/crates/datamine-ilm-eval) | 1.0.0 | 0 | The measure of ILM, the Integer Language Model: the measure of a kind, the boar… |
-| 2026-10-15 01:52:10 | [datamine-ilm-commands](https://crates.io/crates/datamine-ilm-commands) | 1.0.0 | 0 | The commands of ILM, the Integer Language Model, that the program ilm runs. |
-| 2026-10-15 01:52:12 | [datamine-ilm](https://crates.io/crates/datamine-ilm) | 1.0.0 | 0 | ILM, the Integer Language Model: a language model that learns and answers on th… |
-| 2026-10-15 01:52:15 | [a4aa-code-buddy](https://crates.io/crates/a4aa-code-buddy) | 0.1.0 | 0 | a4aa dialect adapter: the `codebuddy` mechanism descriptor (hooks, rules, skill… |
-| 2026-10-15 01:52:58 | [claudevs-cli](https://crates.io/crates/claudevs-cli) | 0.1.0 | 0 | Command-line interface for claudevs, the Claude Code plugin lifecycle tool |
-| 2026-10-15 01:54:10 | [a4aa-open-claw](https://crates.io/crates/a4aa-open-claw) | 0.1.0 | 0 | a4aa dialect adapter: the `openclaw` mechanism descriptor (hooks, rules, skills… |
-| 2026-10-15 01:59:20 | [cu29-value-types](https://crates.io/crates/cu29-value-types) | 1.3.0 | 0 | Allocation-free Copper value description and metadata vocabulary |
-| 2026-10-15 02:05:22 | [a4aa-codex](https://crates.io/crates/a4aa-codex) | 0.1.0 | 0 | a4aa dialect adapter: the `codex` mechanism descriptor (hooks, rules, skills, c… |
-| 2026-10-15 02:06:53 | [ch32rv-isp](https://crates.io/crates/ch32rv-isp) | 0.20.0 | 0 | WCH factory ISP bootloader (USB) client for the ch32rv tool suite |
-| 2026-10-15 02:07:53 | [tracel-job](https://crates.io/crates/tracel-job) | 0.12.0 | 0 | Tracel jobs run as processes: the protocol between job binaries and the program… |
-| 2026-10-15 02:08:49 | [tracel-runtime](https://crates.io/crates/tracel-runtime) | 0.12.0 | 0 | The runtime of Tracel jobs: a program's jobs, plain functions of their input, a… |
-| 2026-10-15 02:15:19 | [a4aa-command-code](https://crates.io/crates/a4aa-command-code) | 0.1.0 | 0 | a4aa dialect adapter: the `commandcode` mechanism descriptor (hooks, rules, ski… |
+| 2026-10-15 02:24:13 | [lightgbm-metal-rs](https://crates.io/crates/lightgbm-metal-rs) | 0.1.1 | 0 | Rust histogram gradient boosting with optional Apple Silicon Metal acceleration |
+| 2026-10-15 02:25:20 | [llm_adapt_core](https://crates.io/crates/llm_adapt_core) | 0.1.0 | 0 | Core abstractions for the llm_adapt LLM API anti-corruption layer |
+| 2026-10-15 02:25:28 | [llm_adapt_cli](https://crates.io/crates/llm_adapt_cli) | 0.1.0 | 0 | Unified CLI / TUI / Web entry point for llm_adapt |
+| 2026-10-15 02:27:16 | [deftscm](https://crates.io/crates/deftscm) | 0.0.1 | 0 | deft, a version control tool for Git that turns the tedious parts into one comm… |
+| 2026-10-15 02:27:21 | [cu29-schedule-view](https://crates.io/crates/cu29-schedule-view) | 1.3.0 | 0 | Render Copper runtime execution plans as SVG diagrams. |
+| 2026-10-15 02:28:06 | [cu29-graph-view](https://crates.io/crates/cu29-graph-view) | 1.3.0 | 0 | Render Copper runtime configurations as SVG diagrams. |
+| 2026-10-15 02:28:56 | [rusty-rules-experiment](https://crates.io/crates/rusty-rules-experiment) | 0.1.1 | 0 | Experimental JSON rules engine with bounded execution and a persistent worker p… |
+| 2026-10-15 02:30:19 | [vyna-hl7-core](https://crates.io/crates/vyna-hl7-core) | 0.9.0 | 0 | Core data structures and traits for HL7 v2.x message handling |
+| 2026-10-15 02:30:35 | [vyna-hl7-macros](https://crates.io/crates/vyna-hl7-macros) | 0.9.0 | 0 | Procedural macros for HL7 message types |
+| 2026-10-15 02:30:51 | [vyna-hl7-parser](https://crates.io/crates/vyna-hl7-parser) | 0.9.0 | 0 | Parser for HL7 v2.x messages |
+| 2026-10-15 02:30:55 | [thermocalc](https://crates.io/crates/thermocalc) | 0.0.1 | 0 | A simple lightweight thermodynamic state calculator for engineers and scientists |
+| 2026-10-15 02:31:07 | [vyna-hl7-queue](https://crates.io/crates/vyna-hl7-queue) | 0.9.0 | 0 | Durable store-and-forward queue for HL7 v2.x messages |
+| 2026-10-15 02:31:22 | [vyna-hl7-redact](https://crates.io/crates/vyna-hl7-redact) | 0.9.0 | 0 | Safe Harbor de-identification for HL7 v2.x messages |
+| 2026-10-15 02:32:07 | [zgui-arena](https://crates.io/crates/zgui-arena) | 0.1.0 | 0 | Arena storage with stable addresses and typed handles |
+| 2026-10-15 02:32:07 | [zgui-color](https://crates.io/crates/zgui-color) | 0.1.0 | 0 | CSS color spaces, conversion and interpolation |
+| 2026-10-15 02:32:08 | [zgui-geom](https://crates.io/crates/zgui-geom) | 0.1.0 | 0 | Coordinate spaces and geometry types shared by zgui crates |
+| 2026-10-15 02:32:08 | [zgui-interned](https://crates.io/crates/zgui-interned) | 0.1.0 | 0 | Interned strings for names that zgui compares often |
+| 2026-10-15 02:32:09 | [zgui-profile](https://crates.io/crates/zgui-profile) | 0.1.0 | 0 | Frame stages and work counters for zgui |
+| 2026-10-15 02:35:06 | [a4aa-pi](https://crates.io/crates/a4aa-pi) | 0.1.0 | 0 | a4aa dialect adapter: the `pi` mechanism descriptor (hooks, rules, skills, comm… |
+| 2026-10-15 02:38:57 | [sokf-core](https://crates.io/crates/sokf-core) | 0.1.0 | 0 | sokf-core holds the logic of the sokf command-line tool: it loads and validates… |
+| 2026-10-15 02:39:07 | [sokf](https://crates.io/crates/sokf) | 0.1.0 | 0 | sokf validates knowledge stores in the Superdev Open Knowledge Format (SOKF): d… |
+| 2026-10-15 02:39:55 | [zgui-bits](https://crates.io/crates/zgui-bits) | 0.1.0 | 0 | Invalidation primitives: dirty flags and damage sets |
+| 2026-10-15 02:41:28 | [vyna-hl7-templates](https://crates.io/crates/vyna-hl7-templates) | 0.9.0 | 0 | Message and segment templates for VynaHL7 HL7 library |
+| 2026-10-15 02:45:20 | [a4aa-cursor](https://crates.io/crates/a4aa-cursor) | 0.1.0 | 0 | a4aa dialect adapter: the `cursor` mechanism descriptor (hooks, rules, skills,… |
+| 2026-10-15 02:45:54 | [cu-ptp](https://crates.io/crates/cu-ptp) | 1.3.0 | 0 | PTP reference clocks for Copper synchronization |
+| 2026-10-15 02:51:16 | [vyna-openjp2](https://crates.io/crates/vyna-openjp2) | 0.6.1 | 0 | Rust port of OpenJPEG (VynaDCM fork: null-dealloc soundness fix). |
+| 2026-10-15 02:51:34 | [zgui-atlas](https://crates.io/crates/zgui-atlas) | 0.1.0 | 0 | Texture atlas allocation and eviction policy for zgui renderers |
+| 2026-10-15 02:54:21 | [solana-bn254-backend](https://crates.io/crates/solana-bn254-backend) | 0.0.0 | 0 | reserved for future use |
+| 2026-10-15 02:55:19 | [a4aa-opencode](https://crates.io/crates/a4aa-opencode) | 0.1.0 | 0 | a4aa dialect adapter: the `opencode` mechanism descriptor (hooks, rules, skills… |
+| 2026-10-15 02:57:11 | [samiam](https://crates.io/crates/samiam) | 0.1.0 | 0 | Retro text-to-speech from letter-to-sound rules and a formant synthesizer |
+| 2026-10-15 02:58:39 | [uselegion-installer](https://crates.io/crates/uselegion-installer) | 0.0.1-rc.7 | 0 | Self-hosted, multi-channel AI agent gateway and CLI |
+| 2026-10-15 03:00:34 | [vyna-hl7-terser](https://crates.io/crates/vyna-hl7-terser) | 0.9.0 | 0 | Terser API for easy HL7 field access using path notation |
+| 2026-10-15 03:03:11 | [zgui-css](https://crates.io/crates/zgui-css) | 0.1.0 | 0 | Computed-style facade over the zgui style engine |
+| 2026-10-15 03:05:22 | [a4aa-devin](https://crates.io/crates/a4aa-devin) | 0.1.0 | 0 | a4aa dialect adapter: the `devin` mechanism descriptor (hooks, rules, skills, c… |
+| 2026-10-15 03:08:13 | [tuishot-core](https://crates.io/crates/tuishot-core) | 0.1.0 | 0 | Shared terminal cell-grid model for deterministic TUI screenshots |
+| 2026-10-15 03:08:21 | [tuishot-render](https://crates.io/crates/tuishot-render) | 0.1.0 | 0 | Deterministic PNG and SVG renderer for tuishot terminal cell grids |
+| 2026-10-15 03:08:30 | [tuishot-term](https://crates.io/crates/tuishot-term) | 0.1.0 | 0 | Headless PTY driver and terminal emulation for deterministic TUI capture |
+| 2026-10-15 03:08:42 | [tuishot-ratatui](https://crates.io/crates/tuishot-ratatui) | 0.1.0 | 0 | Convert Ratatui buffers into deterministic tuishot cell grids |
+| 2026-10-15 03:08:50 | [tuishot](https://crates.io/crates/tuishot) | 0.1.0 | 0 | Capture exact screenshots of terminal user interfaces |
+| 2026-10-15 03:10:45 | [vyna-hl7-transform](https://crates.io/crates/vyna-hl7-transform) | 0.9.0 | 0 | Message transformation framework for HL7 v2.x messages |
+| 2026-10-15 03:14:52 | [zgui-image](https://crates.io/crates/zgui-image) | 0.1.0 | 0 | Raster image decoding for zgui |
+| 2026-10-15 03:15:20 | [a4aa-kiro](https://crates.io/crates/a4aa-kiro) | 0.1.0 | 0 | a4aa dialect adapter: the `kiro` mechanism descriptor (hooks, rules, skills, co… |
 
 ## Data source
 
