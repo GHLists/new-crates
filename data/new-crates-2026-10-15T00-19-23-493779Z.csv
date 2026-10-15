@@ -1,0 +1,59 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-14T23:20:31.713867Z,tauri-plugin-agent-kit,0.1.0-alpha.1,0,0,https://github.com/Firzus/agent-skills,Unofficial Windows WebView2 diagnostics and automation bridge for Tauri 2
+2026-10-14T23:20:32.656793Z,mackeys-gpui,0.1.0,0,0,https://github.com/noxaur/mackeys-sdk,"GPUI components for MacKeys: interactive Mac keyboards, MacBook top cases and Force Touch trackpads."
+2026-10-14T23:21:39.91453Z,tf-luna,0.1.0,0,0,https://github.com/liebman/tf-luna,A platform-agnostic driver for the TF-Luna LiDAR sensor
+2026-10-14T23:21:58.535953Z,rooste-core,0.2.1,0,0,https://github.com/rooste-ssh/rooste-ssh,"Internal crate of Rooste SSH: session profiles, configuration and imports. Not a stable API."
+2026-10-14T23:21:59.172263Z,rooste-protocols,0.2.1,0,0,https://github.com/rooste-ssh/rooste-ssh,"Internal crate of Rooste SSH: SSH, telnet, raw TCP and serial transports. Not a stable API."
+2026-10-14T23:21:59.873462Z,rooste-terminal,0.2.1,0,0,https://github.com/rooste-ssh/rooste-ssh,"Internal crate of Rooste SSH: terminal emulation, input encoding and search. Not a stable API."
+2026-10-14T23:22:01.241442Z,rooste-cli,0.2.1,0,0,https://github.com/rooste-ssh/rooste-ssh,"Command-line SSH client from the Rooste SSH project: interactive shells, commands, port forwarding and jump hosts."
+2026-10-14T23:22:01.544983Z,rooste-keys,0.2.1,0,0,https://github.com/rooste-ssh/rooste-ssh,"Internal crate of Rooste SSH: key generation, .ppk import/export and an SSH agent. Not a stable API."
+2026-10-14T23:23:29.150915Z,sci-filter,0.0.0,0,0,https://github.com/p-sira/sci,WIP: Bayesian filters for state estimation; initial release in development
+2026-10-14T23:24:56.221192Z,forma-ir-derive,0.0.0,0,0,https://github.com/getforma-dev/forma,Derive macros for forma-ir (`#[derive(PageProps)]`). This version is a placeholder; the first working version ships with Forma 3.0.0.
+2026-10-14T23:26:18.094506Z,fuel-aocl-cpu-backend,0.19.1,0,0,https://github.com/ciresnave/fuel,AMD AOCL-BLAS-backed CPU executor for the fuel lazy-graph layer.
+2026-10-14T23:26:33.046948Z,wgpu-core-kora,28.0.1,0,0,https://github.com/playtron-os/wgpu,"Core implementation logic of wgpu, the cross-platform, safe, pure-rust graphics API (Playtron's Kora fork of wgpu-core)"
+2026-10-14T23:33:35.91996Z,sci-integrate,0.0.0,0,0,https://github.com/p-sira/sci,WIP: Numerical integration and quadrature; initial release in development
+2026-10-14T23:34:45.803195Z,bite-gp-bench-metrics,1.23.300,0,0,https://github.com/bite-gpui/bite-gpui,bench_metrics — part of the bite-gpui rearchitecture of zed's gpui
+2026-10-14T23:35:21.981232Z,rooste-sftp,0.2.1,0,0,https://github.com/rooste-ssh/rooste-ssh,Internal crate of Rooste SSH: SFTP listing and transfers. Not a stable API.
+2026-10-14T23:36:25.806855Z,rs-morphy4,0.1.1,0,0,https://github.com/LdDl/rs-morphy4,Russian morphological analysis and inflection with compiled OpenCorpora dictionaries
+2026-10-14T23:36:30.814178Z,wgpu-kora,28.0.1,0,0,https://github.com/playtron-os/wgpu,"Cross-platform, safe, pure-rust graphics API (Playtron's Kora fork of wgpu)"
+2026-10-14T23:37:34.418902Z,fuel-mkl-cpu-backend,0.19.1,0,0,https://github.com/ciresnave/fuel,Intel oneMKL-backed CPU executor for the fuel lazy-graph layer.
+2026-10-14T23:37:48.994562Z,fuel-tensor,0.19.1,0,0,https://github.com/ciresnave/fuel,"Fuel's user-facing Tensor handle and Device abstraction — the central, near-universal consumer surface of the former fuel-core (board #109; CireSnave: ""Move Tensor into fuel-tensor. We can worry abou…"
+2026-10-14T23:38:49.445367Z,delib,0.1.0,0,0,https://github.com/sammwyy/delib,Shared Linux desktop integration primitives
+2026-10-14T23:43:29.294623Z,sci-interpolate,0.0.0,0,0,https://github.com/p-sira/sci,WIP: Interpolation and triangulation methods; initial release in development
+2026-10-14T23:44:31.67417Z,rooste-ssh,0.2.1,0,0,https://github.com/rooste-ssh/rooste-ssh,"A fast, memory-safe SSH client for Linux, Windows and macOS: tabs, split panes, SFTP, port forwarding, key tools and a built-in agent."
+2026-10-14T23:46:22.893545Z,winit-kora,0.30.12,0,0,https://github.com/playtron-os/winit,Cross-platform window creation library. (Playtron's Kora fork of winit)
+2026-10-14T23:49:06.417153Z,fuel-model-llama,0.19.1,0,0,https://github.com/ciresnave/fuel,"The LLaMA-family lazy-graph decoder for the fuel ML framework — the canonical base every downstream LLaMA-family model (LLaMA-2/3, LLaVA, Mistral, DeepSeek-2) builds on."
+2026-10-14T23:50:12.552413Z,tramlines-core,0.2.0,0,0,https://github.com/six5536/tramlines,"The format-neutral core of tramlines: the grammar a schema is written in, its shapes, formats and frontmatter rules, and the findings of a check."
+2026-10-14T23:50:18.226763Z,tramlines-md,0.2.0,0,0,https://github.com/six5536/tramlines,"Checks markdown documents against a schema, and derives the scaffold a schema implies."
+2026-10-14T23:50:25.329133Z,tramlines,0.2.0,0,0,https://github.com/six5536/tramlines,"Checks documents against a tramlines schema, from the command line."
+2026-10-14T23:50:56.892012Z,dogwood-syntax,1.1.0,0,0,https://github.com/dogwood-policy/dogwood,Lossless lexical and concrete-syntax support for Dogwood policy files.
+2026-10-14T23:51:40.384944Z,dogwood-formatter,1.1.0,0,0,https://github.com/dogwood-policy/dogwood,A source-preserving pretty-printer for Dogwood policy files.
+2026-10-14T23:52:35.296157Z,raw-traversal,1.0.0,0,0,,Raw pointer traversal (nightly-only crate)
+2026-10-14T23:53:30.364972Z,sci-linalg,0.0.0,0,0,https://github.com/p-sira/sci,WIP: Linear algebra for scientific computing; initial release in development
+2026-10-14T23:54:48.689462Z,many-spans-macros,1.0.0,0,0,,Implementation detail of the `many-spans` crate
+2026-10-14T23:55:43.350386Z,altc264,0.1.0,0,0,https://github.com/ALT-C-TECHNOLOGY/altc264,H.264/AVC and MVC (Stereo High) video decoder
+2026-10-14T23:55:46.500882Z,altc264-capi,0.1.0,0,0,https://github.com/ALT-C-TECHNOLOGY/altc264,C API for the altc264 decoder
+2026-10-14T23:55:47.551836Z,altc264-cli,0.1.0,0,0,https://github.com/ALT-C-TECHNOLOGY/altc264,Command-line tools for the altc264 decoder
+2026-10-14T23:56:21.43738Z,cryoglyph-kora,0.1.0,0,0,https://github.com/playtron-os/cryoglyph,"Fast, simple 2D text rendering for wgpu. A fork of glyphon for iced. (Playtron's Kora fork of cryoglyph)"
+2026-10-14T23:56:41.1404Z,many-spans,1.0.0,0,0,,Static and conditional implementation according to presence of any continuous and named set of fields on a struct
+2026-10-14T23:57:14.141576Z,dogwood-cli,1.1.0,0,0,https://github.com/dogwood-policy/dogwood,"The `dogwood` command-line tool: check, validate, lower, and replay Dogwood policies locally. A thin shell over the `dogwood-language` frontend."
+2026-10-14T23:57:40.358663Z,fonts-rs-fourteen-segment-cheat-sheet,0.5.0,0,0,https://github.com/smearor/fonts-rs,DSEG14 fourteen-segment display font cheat sheet application
+2026-10-14T23:57:55.316086Z,fonts-rs-heroicons-cheat-sheet,0.5.0,0,0,https://github.com/smearor/fonts-rs,Heroicons cheat sheet application
+2026-10-14T23:58:01.926999Z,fonts-rs-line-awesome-cheat-sheet,0.5.0,0,0,https://github.com/smearor/fonts-rs,Line Awesome cheat sheet application
+2026-10-14T23:58:09.453914Z,fonts-rs-lucide-cheat-sheet,0.5.0,0,0,https://github.com/smearor/fonts-rs,Lucide Icons cheat sheet application
+2026-10-14T23:58:13.562096Z,fonts-rs-seven-segment-cheat-sheet,0.5.0,0,0,https://github.com/smearor/fonts-rs,DSEG7 seven-segment display font cheat sheet application
+2026-10-14T23:59:16.579899Z,ttk-core,6.5.5,0,0,https://github.com/Lanetus/TTKServer,"TTKServer core: the CMW evidence wrapper, RA-TLS constants, egress policy, /faf format and onion sealing, and vsock transport shared by the attested server and its client"
+2026-10-14T23:59:18.436343Z,ttk-ra-server,6.5.5,0,0,https://github.com/Lanetus/TTKServer,"RA-TLS HTTP/3 (QUIC) attested server library for TEEs (AWS Nitro, AMD SEV-SNP, Intel TDX) with RATS CMW-wrapped evidence, and the /faf terminal node"
+2026-10-14T23:59:20.00471Z,ttk-ra-client,6.5.5,0,0,https://github.com/Lanetus/TTKServer,"RA-TLS HTTP/3 (QUIC) client and TEE evidence verifier for TTKServer nodes, with onion-sealed /faf requests"
+2026-10-14T23:59:21.825124Z,ttk-root,6.5.5,0,0,https://github.com/Lanetus/TTKServer,TTKServer root node: an attested enclave server that publishes the checksums of the accepted enclave images
+2026-10-14T23:59:22.251317Z,ttk-storage,6.5.5,0,0,https://github.com/Lanetus/TTKServer,"TTKServer storage for the terminal node: the file service evaluator and its blob stores (in memory, S3)"
+2026-10-15T00:00:22.640712Z,fuel-model-phi,0.19.1,0,0,https://github.com/ciresnave/fuel,The Phi-family lazy-graph decoder for the fuel ML framework.
+2026-10-15T00:01:30.197642Z,ninox-ptyd,0.34.0,0,0,https://github.com/Made-by-Moonlight/ninox,PTY host for Ninox: owns agent PTYs and one terminal emulator per pane.
+2026-10-15T00:03:07.157Z,furnace-rs-grpc-macros,2.0.0-beta.2,0,0,https://github.com/Adriannathan89/furnace-rs,"gRPC service, client, and reflection procedural macros for furnace-rs"
+2026-10-15T00:03:34.026521Z,sci-optimize,0.0.0,0,0,https://github.com/p-sira/sci,WIP: Numerical optimization algorithms; initial release in development
+2026-10-15T00:04:03.560531Z,furnace-rs-grpc,2.0.0-beta.2,0,0,https://github.com/Adriannathan89/furnace-rs,Protobuf-first gRPC serving and consumption for furnace-rs
+2026-10-15T00:04:16.022758Z,ubus-zero,0.2.0,0,0,https://github.com/no-std-rs/ubus-zero,Pure-Rust no_std client and object provider for the OpenWrt ubus protocol
+2026-10-15T00:04:18.48399Z,ubusd,0.2.0,0,0,https://github.com/no-std-rs/ubus-zero,"Pure-Rust OpenWrt ubus broker, available as a daemon and embeddable library"
+2026-10-15T00:04:21.162215Z,ubus-client,0.2.0,0,0,https://github.com/no-std-rs/ubus-zero,"Installable pure-Rust ubus CLI with JSON input, output and event streams"
+2026-10-15T00:11:39.717657Z,fuel-nn,0.19.1,0,0,https://github.com/ciresnave/fuel,Minimalist ML framework.
+2026-10-15T00:14:00.292159Z,sci-signal,0.0.0,0,0,https://github.com/p-sira/sci,WIP: Digital signal processing algorithms; initial release in development
