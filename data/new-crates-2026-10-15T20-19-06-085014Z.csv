@@ -1,0 +1,53 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T19:24:49.350912Z,crcbl-anim,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible skeletal animation: clip sampling, joint palettes and the animation state machine"
+2026-10-15T19:28:59.054708Z,rustual-render,0.3.0,0,0,https://github.com/Awareness10/rustual,"Rendering primitives (geometry, color, styled text, cell canvas) for rustual"
+2026-10-15T19:29:01.663962Z,rustual-css,0.3.0,0,0,https://github.com/Awareness10/rustual,"Textual CSS (TCSS) tokenizer, parser, selectors, cascade and themes for rustual"
+2026-10-15T19:29:04.412635Z,rustual,0.3.0,0,0,https://github.com/Awareness10/rustual,A Rust re-creation of Python's Textual TUI framework
+2026-10-15T19:30:05.122267Z,netget-opentelemetry-proto,0.29.0,0,0,https://github.com/netget-net/opentelemetry-rust,NetGet fork of opentelemetry-proto: built against netget-tonic (bounded gzip/zstd decompression). Protobuf generated files and transformations.
+2026-10-15T19:30:43.494006Z,quireink-config,0.1.1,0,0,https://github.com/hthoene/quireink,"Tiny, human-editable configuration format used by QuireInk (no_std)"
+2026-10-15T19:30:45.974479Z,quireink-platform,0.1.1,0,0,https://github.com/hthoene/quireink,"Platform interfaces and shared types for QuireInk shells, core and plugins"
+2026-10-15T19:30:48.617406Z,quireink-graphics,0.1.1,0,0,https://github.com/hthoene/quireink,Framebuffers and drawing primitives for QuireInk (no_std)
+2026-10-15T19:30:51.371138Z,quireink-i18n,0.1.1,0,0,https://github.com/hthoene/quireink,Lean message catalogs with fallback chains and plural rules for QuireInk (no_std)
+2026-10-15T19:30:54.575553Z,quireink-document,0.1.1,0,0,https://github.com/hthoene/quireink,"Format-independent document model for QuireInk: locators, blocks, documents (no_std)"
+2026-10-15T19:31:33.957831Z,larust-convert,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T19:34:01.313968Z,fig-kit,7.0.0,0,0,https://github.com/diaryx-org/fig,"What fig's languages share: the node table, AST, Document, the Language trait and fig's error type, in pure Rust"
+2026-10-15T19:34:06.129944Z,fig-core,7.0.0,0,0,https://github.com/diaryx-org/fig,"fig's core in Rust: lossless parsing, comment-preserving editing and conversion of config files, over the languages a program registers"
+2026-10-15T19:34:49.627373Z,crcbl-spawn,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible child processes: a Command that opens no console window on Windows
+2026-10-15T19:35:50.125585Z,piu_jsc,149.4.0-rc.4,0,0,https://github.com/littledivy/v8x,Engine agnostic JavaScript
+2026-10-15T19:36:10.505793Z,piu_engine,0.4.1,0,0,https://github.com/denoland/deno,JavaScript engine facade for Deno
+2026-10-15T19:36:30.842189Z,piu_ops,0.288.1,0,0,https://github.com/denoland/deno,Proc macro for writing Deno Ops
+2026-10-15T19:36:31.813688Z,agy-usage,0.1.3,0,0,https://github.com/danieljov/agy-usage,"Quota history, burn-rate prognosis, and interactive TUI/HTML dashboards for Google Antigravity"
+2026-10-15T19:36:51.752624Z,piu_serde_v8,0.321.1,0,0,https://github.com/denoland/deno,Rust to V8 serialization and deserialization
+2026-10-15T19:37:16.599811Z,piu_core,0.412.1,0,0,https://github.com/denoland/deno,"A modern JavaScript/TypeScript runtime built with V8, Rust, and Tokio"
+2026-10-15T19:37:37.64705Z,piu_permissions,0.118.1,0,0,https://github.com/denoland/deno,Provides the deno permissions implementation.
+2026-10-15T19:38:28.948389Z,koebelt-link,1.0.0,0,0,https://github.com/koebelt/koebelt_dash,"Connect drones, robots and test rigs to the koebelt/dash app (koebelt/link protocol)."
+2026-10-15T19:40:31.653496Z,netget-tokio-wasm,0.1.0,0,0,https://github.com/netget-net/netget,"The subset of the tokio API NetGet uses, for wasm32-unknown-unknown: the JS event loop as the executor, timers on setTimeout, and an in-memory virtual network in place of sockets. NetGet depends on i…"
+2026-10-15T19:40:59.165006Z,quireink-hyphen,0.1.1,0,0,https://github.com/hthoene/quireink,Hyphenation for QuireInk: Liang's algorithm on compact pattern tables read in place (no_std)
+2026-10-15T19:41:40.715041Z,geometrykit-core,0.1.0,0,0,https://github.com/maucworks/geometrykit,"Geometry kernels (NURBS evaluation, projection, sections) — pure Rust, no bindings"
+2026-10-15T19:42:26.998608Z,larust-console,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T19:44:17.500443Z,larust-repository,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T19:44:50.471748Z,crcbl-core,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible engine core: ids, handles, arenas, time, logging"
+2026-10-15T19:45:39.029237Z,netget-crossterm-wasm,0.1.0,0,0,https://github.com/netget-net/netget,"crossterm's event and colour types, without a terminal behind them, for wasm32-unknown-unknown. NetGet's dashboard matches on crossterm::event::KeyCode in a few hundred places; on the web those keys…"
+2026-10-15T19:45:57.382401Z,larust-cache,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T19:48:27.589897Z,piu_bundle_runtime,0.46.1,0,0,https://github.com/denoland/deno,Bundle runtime API for Deno
+2026-10-15T19:51:05.903056Z,quireink-image,0.1.1,0,0,https://github.com/hthoene/quireink,"Streaming JPEG and PNG decoding to grayscale for QuireInk, with bounded memory (no_std)"
+2026-10-15T19:53:04.609085Z,pawzip,1.0.0,0,0,https://github.com/Stalowczyk/pawzip,Lossless compressor that records where each byte value occurs and describes those positions with series. Reads and writes .paw files.
+2026-10-15T19:53:29.623088Z,pawzip-cli,1.0.0,0,0,https://github.com/Stalowczyk/pawzip,"The paw command: compress, decompress, test and inspect .paw files (pawzip)"
+2026-10-15T19:54:08.860292Z,oriera-common,0.3.0,0,0,https://github.com/OriEra-engine/engine,OriEra L0 common: shared time and frame types
+2026-10-15T19:54:17.619457Z,oriera-pal,0.3.0,0,0,https://github.com/OriEra-engine/engine,L1 Platform Abstraction Layer: hardware-agnostic surface for OriEra engine
+2026-10-15T19:54:27.759382Z,oriera-ecs,0.3.0,0,0,https://github.com/OriEra-engine/engine,"OriEra L3 object model: SoA ECS, generation handles, resources"
+2026-10-15T19:54:32.726446Z,oriera-asset,0.3.0,0,0,https://github.com/OriEra-engine/engine,OriEra L4 asset pipeline: handle registry and typed store
+2026-10-15T19:54:49.324395Z,crcbl-reflect,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible reflection: what an editor's property panel needs to know about a component's fields
+2026-10-15T19:55:05.258236Z,oriera-core,0.3.0,0,0,https://github.com/OriEra-engine/engine,OriEra L2 core: frame scheduler and determinism frame
+2026-10-15T19:57:27.066734Z,zingo-net-diag,0.1.0,0,0,https://github.com/zingolabs/zingolib,The shared network-failure taxonomy: typed stages and failure records for covered network operations (docs/agents/net-diag-design.md).
+2026-10-15T19:59:16.078489Z,piu_cache,0.192.1,0,0,https://github.com/denoland/deno,Implementation of Cache API for Deno
+2026-10-15T20:01:13.019436Z,quireink-text,0.1.1,0,0,https://github.com/hthoene/quireink,"Font loading, glyph rasterization, caching and line breaking for QuireInk (no_std)"
+2026-10-15T20:03:52.427425Z,spate-sqs,0.0.0,0,0,https://github.com/spate-etl/spate,Reserved name for the Spate pipeline framework's Amazon SQS work-feed backend. This version is empty; the first release is 0.4.0.
+2026-10-15T20:04:50.199113Z,crcbl-shaders,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible shader sources (Slang) and their compiled SPIR-V
+2026-10-15T20:04:57.903571Z,matrove,0.0.0,0,0,,Placeholder
+2026-10-15T20:04:58.763166Z,oriera-render,0.3.0,0,0,https://github.com/OriEra-engine/engine,OriEra L5 render kernel: pass graph and frame submission
+2026-10-15T20:11:19.956594Z,quireink-layout,0.1.1,0,0,https://github.com/hthoene/quireink,Page layout for QuireInk: lays out documents into pages (no_std)
+2026-10-15T20:12:39.556671Z,piu_maybe_sync,0.46.0,0,0,https://github.com/denoland/deno,Optionally sync structures for Deno crates
+2026-10-15T20:13:09.204971Z,miniscreenshot-mcp,0.3.1,0,0,https://github.com/sunsided/miniscreenshot,MCP server exposing miniscreenshot Capture over streamable HTTP.
+2026-10-15T20:14:50.025045Z,crcbl-net,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible networking: transport seam and replication
+2026-10-15T20:15:22.76693Z,oriera-subsys,0.3.0,0,0,https://github.com/OriEra-engine/engine,"OriEra L6 subsystems: physics, animation, audio, UI, net sync"
