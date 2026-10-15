@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T13:19:08.271145Z,meshlib,3.1.40540,0,0,https://github.com/MeshInspector/MeshLib,"Rust bindings for MeshLib, the 3D mesh processing library: booleans, offsets, decimation, registration, voxels"
+2026-10-15T13:19:18.107264Z,a3s-okf,0.1.0,0,0,,OKF v0.2 compiler shared by the encyclopedia and the local wiki
+2026-10-15T13:20:27.190785Z,sigit-agent,1.7.0,0,0,https://github.com/getsigit/sigit,"siGit Code as an ed-acp agent profile: the prompt, the sign-in and the cloud session, for apps that embed it."
+2026-10-15T13:25:12.716417Z,safe_env_var,1.0.0,0,0,https://github.com/whutchinson98/safe-env-vars,Typed environment variable declarations with redacted errors and tracing
+2026-10-15T13:25:21.697295Z,openharmony-ability-plugin-menu,1.0.0-beta.3,0,0,,Menu bridge plugin facade for openharmony-ability
+2026-10-15T13:25:22.35638Z,openharmony-ability-plugin-notification,1.0.0-beta.3,0,0,,System notification bridge plugin for openharmony-ability
+2026-10-15T13:25:31.67898Z,update-daemon,0.1.0,0,0,https://github.com/serokell/update-daemon,Nix Flake Update daemon
+2026-10-15T13:26:54.014551Z,iced-wgpu-kora,0.15.0,0,0,https://github.com/playtron-os/iced,A renderer for iced on top of wgpu (Playtron's Kora fork of iced_wgpu)
+2026-10-15T13:33:42.265716Z,async-generator-macros,0.1.0,0,0,https://github.com/KoHcoJlb/async-generator,Procedural macros for the async-generator crate
+2026-10-15T13:33:45.094028Z,async-generator,0.1.0,0,0,https://github.com/KoHcoJlb/async-generator,Async generators that implement futures::Stream on stable Rust
+2026-10-15T13:35:26.589073Z,openharmony-ability-plugin-process,1.0.0-beta.3,0,0,,App process control bridge plugin facade for openharmony-ability
+2026-10-15T13:36:52.458034Z,iced-renderer-kora,0.15.0,0,0,https://github.com/playtron-os/iced,The official renderer for iced (Playtron's Kora fork of iced_renderer)
+2026-10-15T13:37:10.798964Z,kalt_macros,0.1.1,0,0,,Procedural macros for the Kalt crate
+2026-10-15T13:37:26.150035Z,perspecta,0.6.0,0,0,https://github.com/timcogan/perspecta,Open-source DICOM viewer with a CLI for inspection and PNG export.
+2026-10-15T13:39:13.346951Z,eave-bluez,0.1.0,0,0,https://github.com/eaveshell/eave,"Bluetooth controls for eave plugins, through BlueZ's D-Bus API"
+2026-10-15T13:39:16.869677Z,eave-mpris,0.1.0,0,0,https://github.com/eaveshell/eave,"Media players for eave plugins, through MPRIS on the session bus"
+2026-10-15T13:41:44.084398Z,paraxiom-ml-dsa,0.1.0-rc.7,0,0,https://github.com/Paraxiom/paraxiom-pqc,"Paraxiom fork of RustCrypto ml-dsa 0.1.0-rc.7 (FIPS 204) with key zeroization and fixed-round signing, used by paraxiom-pqc. Use upstream ml-dsa unless you need these changes."
+2026-10-15T13:42:08.076037Z,paraxiom-slh-dsa,0.2.0-rc.4,0,0,https://github.com/Paraxiom/paraxiom-pqc,"Paraxiom copy of RustCrypto slh-dsa 0.2.0-rc.4 (FIPS 205), changed only in two pkcs8/spki error lines so it builds against the pkcs8 version paraxiom-pqc uses. Use upstream slh-dsa unless you need it."
+2026-10-15T13:42:56.376458Z,izumi-armazem,0.1.23,0,0,https://github.com/pleme-io/izumi,"Lazy, demand-driven absorb store: one change-journaled shelf per key, streams opened on interest, parked to dormant on idle and resumed from their cursor, with the lifecycle decided by a vigy policy"
+2026-10-15T13:42:58.197611Z,izumi-mcp,0.1.23,0,0,https://github.com/pleme-io/izumi,"MCP answers that never overflow: byte-budgeted pages, opaque cursors and change-only follow reads served from an izumi-armazem lazy store"
+2026-10-15T13:44:27.052394Z,cnt_view,0.5.0,0,0,https://github.com/romixlab/cnt,"Terminal views of cnt counters (list, read, watch, TUI, JSON) over any word source: probe, WireWeaver, tests"
+2026-10-15T13:46:48.487308Z,iced-test-kora,0.15.0,0,0,https://github.com/playtron-os/iced,A library for testing iced applications in headless mode (Playtron's Kora fork of iced_test)
+2026-10-15T13:52:55.89016Z,tauri-runtime-qt-core,0.0.1,0,0,https://github.com/Alper-Celik/TauriQt,"Qt-free half of tauri-runtime-qt: the window, webview, cookie and screen state the Qt side shares"
+2026-10-15T13:53:42.176137Z,tauri-runtime-qt,0.0.1,0,0,https://github.com/Alper-Celik/TauriQt,"Tauri 2 on Qt: Qt Widgets windows and a QtWebEngine webview instead of wry, on Linux"
+2026-10-15T13:53:54.40277Z,zeughaus-ci,0.2.0,0,0,https://github.com/tuco86/zeughaus,The zeughaus CI: schedules pipelines onto enlisted runners and shows them to editors
+2026-10-15T13:56:41.454833Z,iced-widget-kora,0.15.0,0,0,https://github.com/playtron-os/iced,The built-in widgets for iced (Playtron's Kora fork of iced_widget)
+2026-10-15T13:58:25.199777Z,snapfire_tailwind,0.1.0,0,0,https://github.com/excsn/snapfire,"Tailwind CSS v4 in Rust: builds the stylesheet for a set of class names from a CSS-first configuration, with no Node"
+2026-10-15T13:58:30.371671Z,snapfire_sitemap,0.1.0,0,0,https://github.com/excsn/snapfire,Sitemap and sitemap index writer with the protocol limits enforced
+2026-10-15T13:58:48.423195Z,snapfire_fsr_mdx,0.1.0,0,0,https://github.com/excsn/snapfire,"MDX and markdown for SnapFire FSR: turns an .mdx or .md file into a TSX module the build lowers, with GFM, heading ids, frontmatter and highlighted code."
+2026-10-15T13:58:52.994921Z,snapfire_fsr_ogimage,0.1.0,0,0,https://github.com/excsn/snapfire,"Renders a card, a tree of boxes, text and images styled with a subset of CSS, to PNG or JPEG"
+2026-10-15T14:04:59.893955Z,honk-honk,0.4.0,0,0,https://github.com/honk-hq/rust,"Official Rust client for Honk (honk-honk.app): send events from apps, jobs and CI to your phone, with retries and idempotency built in."
+2026-10-15T14:06:01.649504Z,threadance,0.0.1,0,0,https://github.com/igorbologovv/threadance,A configurable Rust thread pool with composable queue topologies and wake policies
+2026-10-15T14:06:42.373104Z,iced-devtools-kora,0.15.0,0,0,https://github.com/playtron-os/iced,Attachable developer tools for any iced program (Playtron's Kora fork of iced_devtools)
+2026-10-15T14:08:22.86583Z,libprintcalc,0.2.0,0,0,https://github.com/Gunderson3d/printcalc,"Library for calculating 3D print job costs (material, print time, printer wear, electricity, labor, hardware) from sliced-file output."
+2026-10-15T14:08:27.522211Z,printcalc,0.2.0,0,0,https://github.com/Gunderson3d/printcalc,"Command-line tool for calculating 3D print job costs (material, print time, printer wear, electricity, labor, hardware) from sliced-file output. The library lives in `libprintcalc`."
+2026-10-15T14:11:32.738195Z,e9s,0.1.0,0,0,https://github.com/simion/e9s,"A read-only, k9s-style terminal UI for AWS: ECS, CloudWatch Logs, load balancers, autoscaling"
+2026-10-15T14:16:52.011547Z,iced-tester-kora,0.15.0,0,0,https://github.com/playtron-os/iced,"A test recorder, editor, and runner for your iced applications (Playtron's Kora fork of iced_tester)"

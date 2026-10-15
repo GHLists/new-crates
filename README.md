@@ -8,50 +8,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 13:19 UTC
+## Latest list — 2026-10-15 14:19 UTC
 
-New crates published between 2026-10-15 12:22 UTC and 2026-10-15 13:19 UTC.
+New crates published between 2026-10-15 13:19 UTC and 2026-10-15 14:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-15T13-19-07-342436Z.csv)
+[Full CSV](data/new-crates-2026-10-15T14-19-59-00144Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-15 12:23:06 | [workflint](https://crates.io/crates/workflint) | 0.0.1 | 0 | A fast linter for GitHub Actions workflows, compatible with actionlint |
-| 2026-10-15 12:25:58 | [knut-exec](https://crates.io/crates/knut-exec) | 2026.10.3 | 0 | Executes scripts in the knut query language (.knut) on knut databases of OpenSt… |
-| 2026-10-15 12:26:01 | [knut-web](https://crates.io/crates/knut-web) | 2026.10.3 | 0 | Web interface for the knut query language with results on a map (`knut web`) |
-| 2026-10-15 12:26:03 | [knut-cli](https://crates.io/crates/knut-cli) | 2026.10.3 | 0 | Command line tool for knut: converts OpenStreetMap history and runs knut script… |
-| 2026-10-15 12:27:20 | [iced-debug-kora](https://crates.io/crates/iced-debug-kora) | 0.15.0 | 0 | A pluggable API for debugging iced applications (Playtron's Kora fork of iced_d… |
-| 2026-10-15 12:32:36 | [iaexplore-llm-profiler](https://crates.io/crates/iaexplore-llm-profiler) | 1.0.0 | 0 | Deterministic high-precision VRAM, GQA KV-Cache, and MoE memory bandwidth infer… |
-| 2026-10-15 12:32:49 | [gpui-kit-sf-symbols](https://crates.io/crates/gpui-kit-sf-symbols) | 0.1.0 | 0 | Apple SF Symbols for GPUI Kit, rendered as vector icons from the system on macO… |
-| 2026-10-15 12:33:51 | [graphlay](https://crates.io/crates/graphlay) | 0.2.1 | 0 | Deterministic layered (Sugiyama-style) graph layout, tidy trees and an SVG rend… |
-| 2026-10-15 12:34:24 | [revault_secure_memory](https://crates.io/crates/revault_secure_memory) | 0.1.0 | 0 | Page-pooled secure byte and string storage for reVault |
-| 2026-10-15 12:34:52 | [openharmony-ability-plugin-accessibility](https://crates.io/crates/openharmony-ability-plugin-accessibility) | 1.0.0-beta.3 | 0 | Accessibility bridge plugin facade for openharmony-ability |
-| 2026-10-15 12:34:53 | [openharmony-ability-plugin-account](https://crates.io/crates/openharmony-ability-plugin-account) | 1.0.0-beta.3 | 0 | Huawei Account one-tap login bridge plugin facade for openharmony-ability |
-| 2026-10-15 12:34:54 | [brenn-forgejo-mcp](https://crates.io/crates/brenn-forgejo-mcp) | 0.2.0 | 0 | Stdio MCP server exposing Forgejo pull-request tools |
-| 2026-10-15 12:34:55 | [openharmony-ability-plugin-autostart](https://crates.io/crates/openharmony-ability-plugin-autostart) | 1.0.0-beta.3 | 0 | Autostart bridge plugin facade for openharmony-ability |
-| 2026-10-15 12:34:56 | [openharmony-ability-plugin-clipboard](https://crates.io/crates/openharmony-ability-plugin-clipboard) | 1.0.0-beta.3 | 0 | Clipboard bridge plugin facade for openharmony-ability |
-| 2026-10-15 12:34:58 | [openharmony-ability-plugin-continuation](https://crates.io/crates/openharmony-ability-plugin-continuation) | 1.0.0-beta.3 | 0 | App continuation facade for openharmony-ability |
-| 2026-10-15 12:37:05 | [iced-graphics-kora](https://crates.io/crates/iced-graphics-kora) | 0.15.0 | 0 | A bunch of backend-agnostic types that can be leveraged to build a renderer for… |
-| 2026-10-15 12:41:35 | [graphlay-cli](https://crates.io/crates/graphlay-cli) | 0.2.1 | 0 | The graphlay layout engine on the command line: JSON in, JSON or SVG out |
-| 2026-10-15 12:41:37 | [cc-shift](https://crates.io/crates/cc-shift) | 0.0.4 | 0 | Switches Claude Code between several Claude accounts on macOS on its own, befor… |
-| 2026-10-15 12:46:57 | [iced-selector-kora](https://crates.io/crates/iced-selector-kora) | 0.15.0 | 0 | A set of abstractions for selecting data from the widget tree (Playtron's Kora… |
-| 2026-10-15 12:47:14 | [bitflags-lite](https://crates.io/crates/bitflags-lite) | 0.1.0 | 0 | Lightweight generics-based bitflags |
-| 2026-10-15 12:52:29 | [revault_migrate_v1](https://crates.io/crates/revault_migrate_v1) | 0.1.0 | 0 | Isolated migration exporter for reVault archive/container format 1 |
-| 2026-10-15 12:53:09 | [keydibs](https://crates.io/crates/keydibs) | 0.2.0 | 0 | Find keybindings that never fire because another layer (compositor, terminal, s… |
-| 2026-10-15 12:53:36 | [revault_migrate_v2](https://crates.io/crates/revault_migrate_v2) | 0.1.0 | 0 | Isolated migration exporter for reVault archive/container format 2 |
-| 2026-10-15 12:54:14 | [revault_migrate_v3](https://crates.io/crates/revault_migrate_v3) | 0.1.0 | 0 | Isolated migration exporter for reVault archive/container format 3 |
-| 2026-10-15 12:58:50 | [iced-runtime-kora](https://crates.io/crates/iced-runtime-kora) | 0.15.0 | 0 | A renderer-agnostic runtime for iced (Playtron's Kora fork of iced_runtime) |
-| 2026-10-15 12:59:17 | [lazyaws](https://crates.io/crates/lazyaws) | 0.1.0 | 0 | A Lazygit-style terminal interface for AWS |
-| 2026-10-15 13:01:55 | [pamsm_sessiond](https://crates.io/crates/pamsm_sessiond) | 0.1.0 | 0 | Rust wrappers around PAM Service Modules functions |
-| 2026-10-15 13:06:47 | [openharmony-ability-plugin-deep-link](https://crates.io/crates/openharmony-ability-plugin-deep-link) | 1.0.0-beta.3 | 0 | Deep link bridge plugin facade for openharmony-ability |
-| 2026-10-15 13:06:48 | [openharmony-ability-plugin-fault-injection](https://crates.io/crates/openharmony-ability-plugin-fault-injection) | 1.0.0-beta.3 | 0 | Coverage-testing fault injection bridge plugin (pairs with plugins/faultinjecti… |
-| 2026-10-15 13:06:49 | [openharmony-ability-plugin-global-shortcut](https://crates.io/crates/openharmony-ability-plugin-global-shortcut) | 1.0.0-beta.3 | 0 | Global shortcut bridge plugin facade for openharmony-ability |
-| 2026-10-15 13:07:05 | [iced-program-kora](https://crates.io/crates/iced-program-kora) | 0.15.0 | 0 | The definition of an iced program (Playtron's Kora fork of iced_program) |
-| 2026-10-15 13:09:57 | [identity-kit](https://crates.io/crates/identity-kit) | 0.0.1 | 0 | DID, key management and verifiable credential primitives |
-| 2026-10-15 13:12:41 | [shadewire-nodes](https://crates.io/crates/shadewire-nodes) | 0.2.0 | 0 | The node library of Shadewire: the standard MaterialX nodes and Shadewire's own… |
-| 2026-10-15 13:12:51 | [shadewire-blender](https://crates.io/crates/shadewire-blender) | 0.2.0 | 0 | Blender material graph reader for Shadewire: the shadewire-blender-graph JSON t… |
-| 2026-10-15 13:16:50 | [iced-tiny-skia-kora](https://crates.io/crates/iced-tiny-skia-kora) | 0.15.0 | 0 | A software renderer for iced on top of tiny-skia (Playtron's Kora fork of iced_… |
-| 2026-10-15 13:18:32 | [a3s-use-reconcile](https://crates.io/crates/a3s-use-reconcile) | 0.2.10 | 0 | One-generation reconcile for skill, OKF, UI, MCP, and in-package Tool |
+| 2026-10-15 13:19:08 | [meshlib](https://crates.io/crates/meshlib) | 3.1.40540 | 0 | Rust bindings for MeshLib, the 3D mesh processing library: booleans, offsets, d… |
+| 2026-10-15 13:19:18 | [a3s-okf](https://crates.io/crates/a3s-okf) | 0.1.0 | 0 | OKF v0.2 compiler shared by the encyclopedia and the local wiki |
+| 2026-10-15 13:20:27 | [sigit-agent](https://crates.io/crates/sigit-agent) | 1.7.0 | 0 | siGit Code as an ed-acp agent profile: the prompt, the sign-in and the cloud se… |
+| 2026-10-15 13:25:12 | [safe_env_var](https://crates.io/crates/safe_env_var) | 1.0.0 | 0 | Typed environment variable declarations with redacted errors and tracing |
+| 2026-10-15 13:25:21 | [openharmony-ability-plugin-menu](https://crates.io/crates/openharmony-ability-plugin-menu) | 1.0.0-beta.3 | 0 | Menu bridge plugin facade for openharmony-ability |
+| 2026-10-15 13:25:22 | [openharmony-ability-plugin-notification](https://crates.io/crates/openharmony-ability-plugin-notification) | 1.0.0-beta.3 | 0 | System notification bridge plugin for openharmony-ability |
+| 2026-10-15 13:25:31 | [update-daemon](https://crates.io/crates/update-daemon) | 0.1.0 | 0 | Nix Flake Update daemon |
+| 2026-10-15 13:26:54 | [iced-wgpu-kora](https://crates.io/crates/iced-wgpu-kora) | 0.15.0 | 0 | A renderer for iced on top of wgpu (Playtron's Kora fork of iced_wgpu) |
+| 2026-10-15 13:33:42 | [async-generator-macros](https://crates.io/crates/async-generator-macros) | 0.1.0 | 0 | Procedural macros for the async-generator crate |
+| 2026-10-15 13:33:45 | [async-generator](https://crates.io/crates/async-generator) | 0.1.0 | 0 | Async generators that implement futures::Stream on stable Rust |
+| 2026-10-15 13:35:26 | [openharmony-ability-plugin-process](https://crates.io/crates/openharmony-ability-plugin-process) | 1.0.0-beta.3 | 0 | App process control bridge plugin facade for openharmony-ability |
+| 2026-10-15 13:36:52 | [iced-renderer-kora](https://crates.io/crates/iced-renderer-kora) | 0.15.0 | 0 | The official renderer for iced (Playtron's Kora fork of iced_renderer) |
+| 2026-10-15 13:37:10 | [kalt_macros](https://crates.io/crates/kalt_macros) | 0.1.1 | 0 | Procedural macros for the Kalt crate |
+| 2026-10-15 13:37:26 | [perspecta](https://crates.io/crates/perspecta) | 0.6.0 | 0 | Open-source DICOM viewer with a CLI for inspection and PNG export. |
+| 2026-10-15 13:39:13 | [eave-bluez](https://crates.io/crates/eave-bluez) | 0.1.0 | 0 | Bluetooth controls for eave plugins, through BlueZ's D-Bus API |
+| 2026-10-15 13:39:16 | [eave-mpris](https://crates.io/crates/eave-mpris) | 0.1.0 | 0 | Media players for eave plugins, through MPRIS on the session bus |
+| 2026-10-15 13:41:44 | [paraxiom-ml-dsa](https://crates.io/crates/paraxiom-ml-dsa) | 0.1.0-rc.7 | 0 | Paraxiom fork of RustCrypto ml-dsa 0.1.0-rc.7 (FIPS 204) with key zeroization a… |
+| 2026-10-15 13:42:08 | [paraxiom-slh-dsa](https://crates.io/crates/paraxiom-slh-dsa) | 0.2.0-rc.4 | 0 | Paraxiom copy of RustCrypto slh-dsa 0.2.0-rc.4 (FIPS 205), changed only in two… |
+| 2026-10-15 13:42:56 | [izumi-armazem](https://crates.io/crates/izumi-armazem) | 0.1.23 | 0 | Lazy, demand-driven absorb store: one change-journaled shelf per key, streams o… |
+| 2026-10-15 13:42:58 | [izumi-mcp](https://crates.io/crates/izumi-mcp) | 0.1.23 | 0 | MCP answers that never overflow: byte-budgeted pages, opaque cursors and change… |
+| 2026-10-15 13:44:27 | [cnt_view](https://crates.io/crates/cnt_view) | 0.5.0 | 0 | Terminal views of cnt counters (list, read, watch, TUI, JSON) over any word sou… |
+| 2026-10-15 13:46:48 | [iced-test-kora](https://crates.io/crates/iced-test-kora) | 0.15.0 | 0 | A library for testing iced applications in headless mode (Playtron's Kora fork… |
+| 2026-10-15 13:52:55 | [tauri-runtime-qt-core](https://crates.io/crates/tauri-runtime-qt-core) | 0.0.1 | 0 | Qt-free half of tauri-runtime-qt: the window, webview, cookie and screen state… |
+| 2026-10-15 13:53:42 | [tauri-runtime-qt](https://crates.io/crates/tauri-runtime-qt) | 0.0.1 | 0 | Tauri 2 on Qt: Qt Widgets windows and a QtWebEngine webview instead of wry, on… |
+| 2026-10-15 13:53:54 | [zeughaus-ci](https://crates.io/crates/zeughaus-ci) | 0.2.0 | 0 | The zeughaus CI: schedules pipelines onto enlisted runners and shows them to ed… |
+| 2026-10-15 13:56:41 | [iced-widget-kora](https://crates.io/crates/iced-widget-kora) | 0.15.0 | 0 | The built-in widgets for iced (Playtron's Kora fork of iced_widget) |
+| 2026-10-15 13:58:25 | [snapfire_tailwind](https://crates.io/crates/snapfire_tailwind) | 0.1.0 | 0 | Tailwind CSS v4 in Rust: builds the stylesheet for a set of class names from a… |
+| 2026-10-15 13:58:30 | [snapfire_sitemap](https://crates.io/crates/snapfire_sitemap) | 0.1.0 | 0 | Sitemap and sitemap index writer with the protocol limits enforced |
+| 2026-10-15 13:58:48 | [snapfire_fsr_mdx](https://crates.io/crates/snapfire_fsr_mdx) | 0.1.0 | 0 | MDX and markdown for SnapFire FSR: turns an .mdx or .md file into a TSX module… |
+| 2026-10-15 13:58:52 | [snapfire_fsr_ogimage](https://crates.io/crates/snapfire_fsr_ogimage) | 0.1.0 | 0 | Renders a card, a tree of boxes, text and images styled with a subset of CSS, t… |
+| 2026-10-15 14:04:59 | [honk-honk](https://crates.io/crates/honk-honk) | 0.4.0 | 0 | Official Rust client for Honk (honk-honk.app): send events from apps, jobs and… |
+| 2026-10-15 14:06:01 | [threadance](https://crates.io/crates/threadance) | 0.0.1 | 0 | A configurable Rust thread pool with composable queue topologies and wake polic… |
+| 2026-10-15 14:06:42 | [iced-devtools-kora](https://crates.io/crates/iced-devtools-kora) | 0.15.0 | 0 | Attachable developer tools for any iced program (Playtron's Kora fork of iced_d… |
+| 2026-10-15 14:08:22 | [libprintcalc](https://crates.io/crates/libprintcalc) | 0.2.0 | 0 | Library for calculating 3D print job costs (material, print time, printer wear,… |
+| 2026-10-15 14:08:27 | [printcalc](https://crates.io/crates/printcalc) | 0.2.0 | 0 | Command-line tool for calculating 3D print job costs (material, print time, pri… |
+| 2026-10-15 14:11:32 | [e9s](https://crates.io/crates/e9s) | 0.1.0 | 0 | A read-only, k9s-style terminal UI for AWS: ECS, CloudWatch Logs, load balancer… |
+| 2026-10-15 14:16:52 | [iced-tester-kora](https://crates.io/crates/iced-tester-kora) | 0.15.0 | 0 | A test recorder, editor, and runner for your iced applications (Playtron's Kora… |
 
 ## Data source
 
