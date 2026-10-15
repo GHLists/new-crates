@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T15:23:11.087188Z,hygiea-http-client,0.1.1-alpha.6,0,0,https://github.com/tpxxwz/hygiea,Reqwest HTTP client and component for hygiea
+2026-10-15T15:25:56.633455Z,exp1-agent,0.1.0,0,0,https://github.com/archpulse/exp-1,"A minimal Rust TUI coding agent for 27 providers, with tool use, MCP, skills, two threads and streaming dictation"
+2026-10-15T15:27:11.603559Z,talahon-intel,2.0.0,0,0,https://github.com/Liohtml/talahon,"Threat-intel engine: IOC extraction, MITRE ATT&CK mapping, triage scoring, alert correlation"
+2026-10-15T15:28:35.379344Z,egui_system_font_provider,0.37.0,0,0,https://github.com/emilk/egui/tree/main/crates/egui_system_font_provider,Load system fonts on demand for characters the egui fonts lack
+2026-10-15T15:33:27.357822Z,hygiea-redis,0.1.1-alpha.6,0,0,https://github.com/tpxxwz/hygiea,Redis component for hygiea: connection pool and distributed lock
+2026-10-15T15:37:12.077145Z,talahon-llm,2.0.0,0,0,https://github.com/Liohtml/talahon,vLLM (OpenAI-compatible) client and host-side LLM gateway
+2026-10-15T15:47:11.702508Z,talahon-router,2.0.0,0,0,https://github.com/Liohtml/talahon,"Message formatting, Markdown->channel dialects, session lanes and session commands"
+2026-10-15T15:47:15.062373Z,typf-render-vello,5.1.0,0,0,https://github.com/fontlaborg/typf,Vello GPU renderer backend for typf
+2026-10-15T15:47:38.257882Z,typf-render-vello-cpu,5.1.0,0,0,https://github.com/fontlaborg/typf,Vello CPU renderer backend for typf
+2026-10-15T15:47:54.757144Z,typf-render-skia,5.1.0,0,0,https://github.com/fontlaborg/typf,Skia rendering backend for Typf
+2026-10-15T15:48:04.788836Z,typf-render-zeno,5.1.0,0,0,https://github.com/fontlaborg/typf,Zeno rendering backend for Typf
+2026-10-15T15:48:27.764024Z,typf,5.1.0,0,0,https://github.com/fontlaborg/typf,Modular text shaping and rendering engine
+2026-10-15T15:48:53.68821Z,typf-bench,5.1.0,0,0,https://github.com/fontlaborg/typf,Benchmarking harness for Typf shaper and renderer combinations
+2026-10-15T15:56:15.142325Z,nsb,0.1.0,0,0,https://github.com/VPRamon/NSB,Night-sky background evaluation and observation planning for ground-based astronomy.
+2026-10-15T15:57:11.772985Z,talahon-scheduler,2.0.0,0,0,https://github.com/Liohtml/talahon,Per-group container queue and scheduled-task runner
+2026-10-15T15:57:37.394705Z,typf-cli,5.1.0,0,0,https://github.com/fontlaborg/typf,Command-line interface for the Typf text rendering engine
+2026-10-15T15:58:04.567414Z,paulistrings,0.1.0,0,0,https://github.com/lkdvos/paulistrings-rs,"Classical simulation of quantum circuits in the Pauli basis, parallel across threads, NUMA domains, MPI ranks and GPUs"
+2026-10-15T15:59:40.643125Z,vdf-rs-cli,0.2.1,0,0,https://github.com/jose-compu/vdf-rs,Command-line interface for the vdf-rs Verifiable Delay Function crate
+2026-10-15T16:07:12.238164Z,talahon-setup,2.0.0,0,0,https://github.com/Liohtml/talahon,"Installation, environment checks, group registration and service management for Talon"
+2026-10-15T16:07:36.204828Z,typf-py,5.1.0,0,0,https://github.com/fontlaborg/typf,Python bindings for Typf text rendering pipeline
+2026-10-15T16:07:45.33617Z,rustmaninoff-parser-docker,0.2.0,0,0,https://github.com/jose-compu/rustmaninoff,Dockerfile parser for Rustmaninoff
+2026-10-15T16:09:39.859931Z,gpui-graph,0.1.0,0,0,https://github.com/JetSquirrel/gpui-graph,"Force-directed network graph component for GPUI, built on gpui-base."
+2026-10-15T16:10:28.364776Z,cydonia-manifest,0.2.1,0,0,https://github.com/crabtalk/cydonia,"What a Cydonia app says about itself: the manifest in its .wasm, and the table in its Cargo.toml"
+2026-10-15T16:10:33.89414Z,cydonia-guest-macros,0.2.1,0,0,https://github.com/crabtalk/cydonia,The app! macro of cydonia-guest
+2026-10-15T16:10:35.90205Z,cydonia-guest,0.2.1,0,0,https://github.com/crabtalk/cydonia,"Write a Cydonia app: the nodes it draws, the messages it hears and the calls it makes to Cydonia"
+2026-10-15T16:17:12.381058Z,talahon,2.0.0,0,0,https://github.com/Liohtml/talahon,Talon — automated AI SOC analyst (host orchestrator)
+2026-10-15T16:18:17.17148Z,rustls-provider-graviola-pq,0.1.0,0,0,https://github.com/ctf16/rustls-provider-graviola-pq,"A rustls crypto provider on graviola, with post-quantum ML-KEM-768 (FIPS 203) key exchange"
+2026-10-15T16:20:35.392368Z,nanoaudio-core,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoaudio,"Sample formats, errors, codec traits, bit reading and CRC helpers shared by the nanoaudio crates."
+2026-10-15T16:20:39.049825Z,nanoaudio-adpcm,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoaudio,Allocation-free IMA and Microsoft ADPCM encoders and decoders for embedded Rust.
+2026-10-15T16:20:42.225341Z,nanoaudio-g711,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoaudio,Allocation-free G.711 A-law and mu-law encoder and decoder for embedded Rust.
+2026-10-15T16:20:44.953434Z,nanoaudio-aiff,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoaudio,Allocation-free AIFF and AIFF-C header parser and decoder.
+2026-10-15T16:20:47.953537Z,nanoaudio-buffer,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoaudio,"Allocation-free lock-free single-producer single-consumer ring buffer for audio, with contiguous grants."
