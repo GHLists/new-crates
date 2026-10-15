@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T16:23:06.551408Z,nanacos-sdk,1.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,Nacos SDK compatibility transport with connection invalidation and identity-preserving reconnect
+2026-10-15T16:27:12.018222Z,talahon-mcp,2.0.0,0,0,https://github.com/Liohtml/talahon,Model Context Protocol (JSON-RPC 2.0 over stdio) client and server
+2026-10-15T16:27:32.368254Z,corsairs,0.1.0,0,0,,Safe Rust inference with Apple Core AI on Apple Silicon
+2026-10-15T16:28:38.960537Z,ferrobridge-fhirpath,0.0.0,0,0,https://github.com/FerroHEALTH/FerroBRIDGE,"A FHIRPath Normative Release 2.0.0 evaluator with the FHIR R4 additions, over the fhir-types element table"
+2026-10-15T16:31:09.633596Z,rdstream,0.1.0,0,0,https://github.com/HiroGitea/rdstream,Streaming reader for R .rds and .RData files with selective loading and extraction
+2026-10-15T16:32:07.212432Z,ferrobridge-validator,0.0.0,0,0,https://github.com/FerroHEALTH/FerroBRIDGE,"A FHIR R4 profile validator over packages read offline, the generated fhir-types model and its element table"
+2026-10-15T16:32:27.896754Z,tree-sitter-dshl,1.0.0,0,0,https://github.com/GaijinEntertainment/tree-sitter-dshl,Dagor Shader Language grammar for tree-sitter
+2026-10-15T16:37:11.620176Z,talahon-tools,2.0.0,0,0,https://github.com/Liohtml/talahon,"Built-in agent tools: shell, files, search, web fetch, IPC (send_message, tasks)"
+2026-10-15T16:39:47.782925Z,baoflash,0.1.0,0,0,https://codeberg.org/tana_ash/baoflash,A tool for bare-metal Baochip development
+2026-10-15T16:42:38.081522Z,proteus-gpu,0.1.0,0,0,https://github.com/ichellin1/proteus,"GPU setup for Proteus hosts: a wgpu device, queue and swap chain for a window or canvas."
+2026-10-15T16:42:38.922021Z,proteus-render,0.1.0,0,0,https://github.com/ichellin1/proteus,"Proteus's GPU renderer: the instanced quad pipeline, its shader and the texture atlases."
+2026-10-15T16:42:39.780526Z,proteus-ui,0.1.0,0,0,https://github.com/ichellin1/proteus,"The Proteus component model and transition engine, built on bevy_ecs."
+2026-10-15T16:42:41.711114Z,proteus-sdk,0.1.0,0,0,https://github.com/ichellin1/proteus,"The Proteus app API: create components, transition them and handle input."
+2026-10-15T16:42:43.281101Z,proteus-runtime,0.1.0,0,0,https://github.com/ichellin1/proteus,"Runs a Proteus app on a GPU surface: the app/host contract, the engine and its settings."
+2026-10-15T16:46:08.706834Z,overrules,0.1.0,0,0,https://github.com/jjcfrancisco/overrules,"Evaluate Overture Maps transportation rules (speed limits, access restrictions, prohibited turns) with rule-by-rule explanations"
+2026-10-15T16:47:11.856468Z,talahon-agent,2.0.0,0,0,https://github.com/Liohtml/talahon,"In-container agent runtime: vLLM agent loop, MCP tools, sessions, compaction"
+2026-10-15T16:48:59.650272Z,justybase-db2,0.1.0-alpha.2,0,0,https://github.com/justybase/JustyBase.Db2.Rust,Native asynchronous DRDA driver for IBM Db2 LUW
+2026-10-15T16:50:01.48468Z,confidant-tui,0.3.1,0,0,https://github.com/hirefrank/confidant,"Terminal UI for Confidant, consuming the ADR-7 CLI JSON contract."
+2026-10-15T16:51:06.227377Z,crush-cosm,0.6.0,0,0,https://github.com/nixpt/crush-ast,"COSM — the Crush Object Semantic Model: declarative, serializable object declarations (Kinds), validation and C3 linearization"
+2026-10-15T16:51:23.87869Z,polybridge,0.0.0,0,0,,placeholder
+2026-10-15T16:52:50.627954Z,nadisc-consul,1.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,Consul 作用域发现、实例所有权与 HTTP/TTL 健康注册适配
+2026-10-15T16:53:04.441445Z,nadisc-kubernetes,1.0.0,0,0,https://github.com/nasa-runtime/nasa-runtime-rust,Kubernetes Service 与 EndpointSlice 只读发现、就绪过滤及有界观察
+2026-10-15T16:53:33.067044Z,axioval-host-ifc-axiolid,0.5.0,0,0,https://github.com/axioval/engine,Host composition of the Axioval IFC and Axiolid adapters: IFC bodies meshed and registered as geometry services
+2026-10-15T16:54:02.823115Z,creamui-theme-watch,0.2.0,0,0,https://github.com/sammwyy/creamui,Live CreamUI appearance reload notifications
+2026-10-15T16:54:42.956767Z,proteus-sdk-web,0.1.0,0,0,https://github.com/ichellin1/proteus,"WebAssembly bindings that expose proteus-sdk to JavaScript, for the Proteus TypeScript SDK."
+2026-10-15T16:55:51.02665Z,qgis-rs,0.0.0,0,0,,placeholder
+2026-10-15T16:57:11.653351Z,talahon-anon,2.0.0,0,0,https://github.com/Liohtml/talahon,PII anonymization engine and anonymizing MCP proxy
+2026-10-15T16:58:06.566131Z,qgis-sys,0.0.0,0,0,,placeholder
+2026-10-15T16:58:45.140801Z,geooquery,0.0.0,0,0,,placeholder
+2026-10-15T17:03:18.412061Z,trelloc-core,0.0.0,0,0,https://github.com/mulhamna/trello-commands,Unofficial Trello CLI and MCP server (name reserved; first release is 0.1.0)
+2026-10-15T17:03:21.634012Z,trelloc-mcp,0.0.0,0,0,https://github.com/mulhamna/trello-commands,Unofficial Trello CLI and MCP server (name reserved; first release is 0.1.0)
+2026-10-15T17:03:24.878806Z,trelloc,0.0.0,0,0,https://github.com/mulhamna/trello-commands,Unofficial Trello CLI and MCP server (name reserved; first release is 0.1.0)
+2026-10-15T17:07:23.374042Z,proteus-host-winit,0.1.0,0,0,https://github.com/ichellin1/proteus,"Runs a Proteus app in a native desktop window, with winit and wgpu."
+2026-10-15T17:12:26.319621Z,nanoaudio-dsp,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoaudio,"Allocation-free PCM conversion, volume, mixing and single-pass pipelines for embedded Rust."
+2026-10-15T17:12:34.125298Z,nanoaudio-flac,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoaudio,Allocation-free FLAC decoder for embedded Rust.
+2026-10-15T17:12:37.506077Z,nanoaudio-g722,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoaudio,Allocation-free G.722 wideband speech encoder and decoder for embedded Rust.
+2026-10-15T17:12:40.701567Z,nanoaudio-metadata,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoaudio,"Allocation-free reader for ID3, FLAC, RIFF and AIFF metadata and MP3 VBR headers."
+2026-10-15T17:12:44.21887Z,nanoaudio-mp3,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoaudio,"Allocation-free MP3 decoder for embedded Rust, built on nanomp3-core."
+2026-10-15T17:16:07.007938Z,noetic,0.0.1,0,0,https://github.com/Heryk13/noetic,"Game animals that feel alive, for Bevy: the plugin, components, .noetic.ron loading and animation events. Re-exports noetic_core."
+2026-10-15T17:16:08.225669Z,noetic_core,0.0.1,0,0,https://github.com/Heryk13/noetic,"Needs, perception, reactions and activity choice for game animals that feel alive. No Bevy dependency."
+2026-10-15T17:18:35.73654Z,proteus-host-web,0.1.0,0,0,https://github.com/ichellin1/proteus,"Runs a Proteus app on an HTML canvas with WebGPU or WebGL2, from Rust or TypeScript."
