@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T08:23:06.554702Z,zgui-render-vector-vello,0.1.0,0,0,https://github.com/zortax/zgui,Vector rasterizer built on Vello
+2026-10-15T08:26:55.166306Z,battery-percent,2.0.1,0,0,https://github.com/AlixANNERAUD/battery-percent,"Turn a battery voltage into a realistic charge percentage: LiPo, Li-ion 18650, LiFePO4, NiMH and alkaline discharge curves for embedded no_std, backed by a tiny C99 core"
+2026-10-15T08:28:36.515873Z,ecss,0.1.0,0,0,,placeholder
+2026-10-15T08:29:42.467072Z,verified-deflate,0.1.0,0,0,https://github.com/conjectures-io/conjectures-deflate,"gzip, zlib, raw DEFLATE and BGZF compression with LZ77 parsers proved correct in Lean"
+2026-10-15T08:31:42.297542Z,ferroui-markup-xaml,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The FerroUI XAML runtime library: markup extensions, templates, includes, converters and the runtime helpers of compiled XAML"
+2026-10-15T08:31:46.991078Z,mathscape-db,0.1.6,0,0,https://github.com/pleme-io/mathscape,"Database management CLI: init, migrate, status, verify, compact, export"
+2026-10-15T08:31:51.709245Z,mathscape-api,0.1.5,0,0,https://github.com/pleme-io/mathscape,"Shared API types with REST (serde), GraphQL (async-graphql), and gRPC (prost) representations"
+2026-10-15T08:32:36.121124Z,sihora-derive,0.1.0,0,0,https://github.com/sihora/sihora,Derive macro for Sihora's Model trait
+2026-10-15T08:33:35.503596Z,sihora,0.1.0,0,0,https://github.com/sihora/sihora,Declarative cross-platform UI framework in pure Rust
+2026-10-15T08:35:01.30179Z,zgui-runtime,0.1.0,0,0,https://github.com/zortax/zgui,"The zgui frame pipeline: style, layout, paint and draw in a window"
+2026-10-15T08:36:12.46658Z,sapphire-ledger-api,1.0.0,0,0,https://github.com/sapphire-turtle/sapphire-ledger,"The methods a sapphire-ledger app server serves, and their types"
+2026-10-15T08:36:48.306573Z,sapphire-ledger-core,0.1.0,0,0,https://github.com/sapphire-turtle/sapphire-ledger,"A double-entry household ledger built on sapphire-framework - file-based, local-first, made for human-agent collaboration"
+2026-10-15T08:37:39.347002Z,sapphire-ledger-mcp,0.1.0,0,0,https://github.com/sapphire-turtle/sapphire-ledger,"MCP tools for sapphire-ledger: the ledger's methods on its app server, and the tools that call them"
+2026-10-15T08:37:45.943566Z,sapphire-ledger,0.1.0,0,0,https://github.com/sapphire-turtle/sapphire-ledger,"A double-entry household ledger built on sapphire-framework - file-based, local-first, made for human-agent collaboration"
+2026-10-15T08:40:21.65929Z,axiom-forge,0.1.1,0,0,https://github.com/pleme-io/axiom-forge,Lisp → Rust axiom generation with invariant proofs. The self-hosting primitive layer.
+2026-10-15T08:41:41.144647Z,pragma_ecs,1.0.0,0,0,https://github.com/razedproduction/pragma.component-ecs,"Entity Component System for pragma.core-based game engines and frameworks, in pure Rust"
+2026-10-15T08:42:45.168573Z,ferroui-opengl,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The OpenGL platform contracts of FerroUI: contexts, surfaces and the entry points the framework itself uses"
+2026-10-15T08:42:47.828243Z,ferroui-skia,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The Skia render backend of FerroUI: Graphite on Metal, Ganesh on WebGL and raster"
+2026-10-15T08:46:49.237402Z,zgui-custom,0.1.0,0,0,https://github.com/zortax/zgui,Trait-based custom elements with their own layout and paint
+2026-10-15T08:46:50.237137Z,zgui-platform-wayland,0.1.0,0,0,https://github.com/zortax/zgui,Native Wayland platform backend for zgui
+2026-10-15T08:47:03.182358Z,blktrace-rs,0.1.0,0,0,https://github.com/openanolis/cryptpilot,"Capture and parse Linux block-layer I/O traces via kernel ioctls, without the blktrace CLI tools"
+2026-10-15T08:53:30.940829Z,klemmbrett,0.1.1,0,0,https://github.com/xnacly/klemmbrett,"Minimalist, dumb and fast wayland native clipboard history manager"
+2026-10-15T08:53:43.679193Z,cargo-rrea,0.1.3,0,0,https://github.com/ParkSnoopy/cargo-rrea,Cargo builds with Arkari obfuscation and packed Rust shared dependencies
+2026-10-15T08:53:51.156429Z,ferroui-android,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The Android platform of FerroUI: a view in an activity, rendered through EGL or to the native window"
+2026-10-15T08:57:02.511934Z,cyclonedx-rs,0.10.1,0,0,https://github.com/scm-rs/cyclonedx-rs,Serde serialization for CycloneDx files
+2026-10-15T08:58:45.021275Z,zgui-platform-winit,0.1.0,0,0,https://github.com/zortax/zgui,"winit platform backend for zgui on Windows, macOS and Linux"
+2026-10-15T09:03:29.694966Z,romkit,0.1.1,0,0,https://github.com/platinvm/romkit,Identify game ROMs and extract their data and assets as structured files.
+2026-10-15T09:04:54.001319Z,ferroui-vulkan,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"Reserved name: the Vulkan platform contracts of FerroUI, which is not ported yet. This version is an empty placeholder"
+2026-10-15T09:05:08.824559Z,mathscape-compress,0.1.6,0,0,https://github.com/pleme-io/mathscape,"Anti-unification, e-graph integration (egg), library extraction"
+2026-10-15T09:06:09.767298Z,mathscape-policy,0.1.6,0,0,https://github.com/pleme-io/mathscape,Optional RL policy network for guided mutation
+2026-10-15T09:06:11.552934Z,mathscape-axiom-bridge,0.1.6,0,0,https://github.com/pleme-io/mathscape,Mathscape ↔ axiom-forge handoff — gates 6 and 7 of the realization lattice
+2026-10-15T09:09:08.635437Z,mathscape-inference-api,0.1.6,0,0,https://github.com/pleme-io/mathscape,Typed API surface for mathscape live inference (mirrors apis/mathscape-inference/openapi.yaml)
+2026-10-15T09:09:10.543239Z,mathscape-acquisition,0.1.6,0,0,https://github.com/pleme-io/mathscape,Garimpo acquisition-space typescape — the TYPED-SPEC + INTERPRETER triplet for the layer ratchet (Layer/SealWitness/FoldBack/AbsorbDecision/Frontier/AcquisitionState)
+2026-10-15T09:10:33.826685Z,zgui-shader-macro,0.1.0,0,0,https://github.com/zortax/zgui,Macros to declare zgui application shaders
+2026-10-15T09:11:10.539332Z,nanoaudio,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoaudio,"Allocation-free no_std audio for embedded Rust: PCM conversion, volume, mixing, ring buffer, single-pass pipelines, WAV, G.711, IMA ADPCM and MP3 decoding."
+2026-10-15T09:12:04.120433Z,mathscape-store,0.1.6,0,0,https://github.com/pleme-io/mathscape,"redb expression store, PostgreSQL metadata via SeaORM, epoch transactions"
+2026-10-15T09:12:38.793974Z,confeature,0.0.0,0,0,https://github.com/confeature/sdks,Name reserved for the Confeature Rust SDK (ConfigCat-compatible). The first real release is coming; do not depend on 0.0.0.
+2026-10-15T09:14:10.993177Z,romkit-cli,0.1.1,0,0,https://github.com/platinvm/romkit,Inspect ROMs and export their assets from the command line.
+2026-10-15T09:15:48.564849Z,koine,0.1.0,0,0,https://github.com/udoprog/koine,"Locale primitives: ISO 639 languages, ISO 3166-1 countries and valid language+country locales, as compact value types over generated static tables."
+2026-10-15T09:15:54.507953Z,benchset,0.0.2,0,0,https://github.com/mutating/benchset,Embeddable sustained scalar CPU benchmarks with a C ABI
+2026-10-15T09:15:56.595552Z,ferroui-wayland,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"Reserved name: the Wayland platform of FerroUI, which is not ported yet. This version is an empty placeholder"
+2026-10-15T09:16:48.400816Z,rust-torch,0.1.0,0,0,,rusTorch — a PyTorch-like deep learning + LLM library in pure Rust
+2026-10-15T09:17:21.318738Z,apsis,0.2.0,0,0,https://github.com/focus1024-wind/apsis-rs,Computational kernels for commercial spaceflight and satellite internet systems.
