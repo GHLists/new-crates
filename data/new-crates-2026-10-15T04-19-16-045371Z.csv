@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T03:21:13.962889Z,vyna-hl7-validator,0.9.0,0,0,https://github.com/FlostelInfoTech/vynahl7,Validation for HL7 v2.x messages against various standards
+2026-10-15T03:25:19.276563Z,a4aa-kimi-code,0.1.0,0,0,https://github.com/Unka-Malloc/Adapter-For-All-Agents,"a4aa dialect adapter: the `kimicode` mechanism descriptor (hooks, rules, skills, commands, subagents, plugins, permissions, MCP) for a4aa's adaptation engine."
+2026-10-15T03:26:58.068353Z,zgui-reactive,0.1.0,0,0,https://github.com/zortax/zgui,"Signals, effects and the UI-thread executor for zgui"
+2026-10-15T03:26:59.188272Z,zgui-scene,0.1.0,0,0,https://github.com/zortax/zgui,Renderer-independent display list for zgui frames
+2026-10-15T03:28:14.569825Z,ryne,0.1.0,0,0,,Hello Ryne!
+2026-10-15T03:30:33.197427Z,vyna-hl7-wasm,0.9.0,0,0,https://github.com/FlostelInfoTech/vynahl7,WebAssembly bindings for VynaHL7 HL7 v2.x library
+2026-10-15T03:35:23.042462Z,a4aa-grok,0.1.0,0,0,https://github.com/Unka-Malloc/Adapter-For-All-Agents,"a4aa dialect adapter: the `grok` mechanism descriptor (hooks, rules, skills, commands, subagents, plugins, permissions, MCP) for a4aa's adaptation engine."
+2026-10-15T03:38:44.39444Z,zgui-render,0.1.0,0,0,https://github.com/zortax/zgui,Renderer contract for drawing zgui scenes
+2026-10-15T03:39:33.884208Z,cornice,0.1.0,0,0,https://github.com/codethare/cornice,"Minimal wlr-layer-shell status bar for river and sway, drawn in software"
+2026-10-15T03:40:43.605662Z,vyna-hl7-xml,0.9.0,0,0,https://github.com/FlostelInfoTech/vynahl7,XML encoding and decoding for HL7 v2.x messages
+2026-10-15T03:41:24.785538Z,open-vfs,0.1.1,0,0,https://github.com/enrell/openvfs,"A layered, pluggable virtual file system: in-memory, host-backed, mount tables and copy-on-write overlays."
+2026-10-15T03:45:20.301982Z,a4aa-factory,0.1.0,0,0,https://github.com/Unka-Malloc/Adapter-For-All-Agents,"a4aa dialect adapter: the `factory` mechanism descriptor (hooks, rules, skills, commands, subagents, plugins, permissions, MCP) for a4aa's adaptation engine."
+2026-10-15T03:48:34.181211Z,rig-code,0.44.1,0,0,https://github.com/0xPlaygrounds/rig,Placeholder reserving this name for the Rig project. The real crate will be published from https://github.com/0xPlaygrounds/rig.
+2026-10-15T03:48:36.276128Z,rig-harness,0.44.1,0,0,https://github.com/0xPlaygrounds/rig,Placeholder reserving this name for the Rig project. The real crate will be published from https://github.com/0xPlaygrounds/rig.
+2026-10-15T03:48:38.397397Z,rig-tools,0.44.1,0,0,https://github.com/0xPlaygrounds/rig,Placeholder reserving this name for the Rig project. The real crate will be published from https://github.com/0xPlaygrounds/rig.
+2026-10-15T03:48:40.155538Z,rig-tui,0.44.1,0,0,https://github.com/0xPlaygrounds/rig,Placeholder reserving this name for the Rig project. The real crate will be published from https://github.com/0xPlaygrounds/rig.
+2026-10-15T03:48:42.154292Z,rig-models,0.44.1,0,0,https://github.com/0xPlaygrounds/rig,Placeholder reserving this name for the Rig project. The real crate will be published from https://github.com/0xPlaygrounds/rig.
+2026-10-15T03:49:48.464103Z,majik-contact,0.2.0,0,0,https://github.com/Majikah/majik-contact,"A cryptographically secure contact and identity model for Majikah: public keys, post-quantum (ML-KEM, ML-DSA) key material, and privacy-preserving metadata."
+2026-10-15T03:50:27.759627Z,zgui-svg,0.1.0,0,0,https://github.com/zortax/zgui,SVG documents as drawable zgui content
+2026-10-15T03:51:05.11937Z,vyna-hl7-batch,0.9.0,0,0,https://github.com/FlostelInfoTech/vynahl7,"HL7 v2.x batch file building, lenient intake parsing, and file-drop transports (filesystem, FTP, SFTP)"
+2026-10-15T03:53:02.926702Z,rig-telemetry,0.44.1,0,0,https://github.com/0xPlaygrounds/rig,Placeholder reserving this name for the Rig project. The real crate will be published from https://github.com/0xPlaygrounds/rig.
+2026-10-15T03:54:08.271006Z,kernix-core,0.1.0,0,0,https://github.com/moderubias/kernix,Core data structures and invariants for Kernix.
+2026-10-15T03:54:22.649156Z,kernix,0.1.0,0,0,https://github.com/moderubias/kernix,Experimental N-dimensional tensor shape primitives for Rust.
+2026-10-15T03:55:03.046578Z,xlog-decoder,0.1.1,0,0,https://github.com/Super1Windcloud/marsxlog-rs,"Command-line decoder for Tencent Mars xlog files, log directories, and Feedback diagnostic ZIP archives."
+2026-10-15T03:57:51.520742Z,rscinrad,0.1.0,0,0,https://github.com/virki/rscinrad,"Bit-exact Rust port of PyCINRAD (CINRAD radar calculate/correct, oracle-verified to the last ULP)"
+2026-10-15T04:01:19.412816Z,vyna-hl7-codegen,0.9.0,0,0,https://github.com/FlostelInfoTech/vynahl7,Schema-driven code generation for HAPI-style typed HL7 models
+2026-10-15T04:02:12.439963Z,zgui-canvas,0.1.0,0,0,https://github.com/zortax/zgui,Retained shape lists that applications draw into
+2026-10-15T04:03:02.840735Z,rig-sessions,0.44.1,0,0,https://github.com/0xPlaygrounds/rig,Placeholder reserving this name for the Rig project. The real crate will be published from https://github.com/0xPlaygrounds/rig.
+2026-10-15T04:04:17.592209Z,replicant-regex,0.1.0,0,0,https://github.com/nextonesfaster/replicant,Determine regex equivalence and find shortest counterexamples
+2026-10-15T04:10:32.701458Z,vyna-hl7-conformance,0.9.0,0,0,https://github.com/FlostelInfoTech/vynahl7,HL7 v2.x conformance profile validation for VynaHL7
+2026-10-15T04:11:42.307196Z,muralist,0.1.0,0,0,https://github.com/Toyz/muralist,"A Wallhaven wallpaper manager for multi-monitor Linux desktops, built with GPUI"
+2026-10-15T04:13:02.778186Z,rig-subagents,0.44.1,0,0,https://github.com/0xPlaygrounds/rig,Placeholder reserving this name for the Rig project. The real crate will be published from https://github.com/0xPlaygrounds/rig.
+2026-10-15T04:13:58.344017Z,zgui-text-style,0.1.0,0,0,https://github.com/zortax/zgui,Text properties resolved from the zgui cascade
+2026-10-15T04:18:00.467546Z,windhover,0.1.0,0,0,https://github.com/codethare/windhover,Keyboard-driven mouse cursor for wlroots-based Wayland compositors
+2026-10-15T04:18:21.858497Z,plush,0.1.0,0,0,https://github.com/codethare/plush,"A fast, minimal notification daemon for wlroots-based Wayland compositors"
