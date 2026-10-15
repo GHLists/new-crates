@@ -1,0 +1,56 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T18:21:19.228494Z,apollo-mcp-registry,1.20.0,0,0,https://github.com/apollographql/apollo-mcp-server,Registry providing schema and operations to the MCP Server. Internal to apollo-mcp-server; not a stable public API.
+2026-10-15T18:21:19.898262Z,apollo-mcp-rhai,1.20.0,0,0,https://github.com/apollographql/apollo-mcp-server,Rhai scripting support for Apollo MCP Server. Internal to apollo-mcp-server; not a stable public API.
+2026-10-15T18:21:20.133864Z,apollo-schema-index,1.20.0,0,0,https://github.com/apollographql/apollo-mcp-server,GraphQL schema indexing. Internal to apollo-mcp-server; not a stable public API.
+2026-10-15T18:21:21.698276Z,apollo-mcp-server,1.20.0,0,0,https://github.com/apollographql/apollo-mcp-server,Model Context Protocol server that exposes GraphQL operations as MCP tools
+2026-10-15T18:22:40.182174Z,odx-port,0.0.4,0,0,https://github.com/getfluvo/odx,"Porting engine for odx: port PRs and missing commits across Odoo series, maintainer sweeps and oca-port compatible blacklists"
+2026-10-15T18:26:41.455276Z,netget-tonic-reflection,0.12.3,0,0,https://github.com/netget-net/tonic,NetGet fork of tonic-reflection: built against netget-tonic. Server Reflection module of `tonic` gRPC implementation.
+2026-10-15T18:29:38.037964Z,crcbl-rand,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible randomness seam: portable deterministic PRNG and secure entropy
+2026-10-15T18:30:01.778462Z,hohe,0.0.1,0,0,https://github.com/snapwre/hohe,"Official Hohe (ሆሄ) SDK for Rust — Speech, Transcription, and AI tools for Ethiopian languages."
+2026-10-15T18:30:04.744736Z,contextwindowarchitecture-assembler,0.0.1,0,0,https://github.com/contextwindowarchitecture/assembler-rust,A Rust assembler for the Context Window Architecture (CWA) draft specification
+2026-10-15T18:30:05.003745Z,crcbl-console,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible's console registry: variables, commands, the line and the table they come from"
+2026-10-15T18:30:32.042666Z,crcbl-jobs,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible job system: the seam every engine thread starts through
+2026-10-15T18:30:59.215985Z,crcbl-nav,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible navigation: deterministic ground-grid routing and bounded reach
+2026-10-15T18:31:02.39852Z,encina,0.1.0,0,0,https://github.com/merlimat/encina,Embedded ordered key-value store built on the compio runtime
+2026-10-15T18:31:04.068078Z,encina-cli,0.1.0,0,0,https://github.com/merlimat/encina,"Puts, gets and scans the entries of an encina store"
+2026-10-15T18:31:26.391861Z,crcbl-vfx,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible particle simulation: pooled effects, stateless per-particle randomness"
+2026-10-15T18:32:11.028868Z,car-build-id,0.58.0,0,0,https://github.com/Parslee-ai/car,Compile-time build identity for CAR binaries
+2026-10-15T18:32:39.512142Z,odx-vendor,0.0.4,0,0,https://github.com/getfluvo/odx,Vendoring of locked Odoo addon packages into addon directories for odx
+2026-10-15T18:34:49.626043Z,crcbl-water,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible water: bodies of water, their medium, and the CPU mesher for their surface"
+2026-10-15T18:37:00.58217Z,netget-etcd-client,0.15.0,0,0,https://github.com/netget-net/etcd-client,NetGet fork of etcd-client: built against netget-tonic. An etcd v3 API client
+2026-10-15T18:44:49.326661Z,crcbl-sprite,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible sprite sheets: frames, animation clips and nine-slice"
+2026-10-15T18:46:10.996512Z,flub-derive,0.1.0,0,0,https://github.com/manic-systems/flub,The derive behind flub
+2026-10-15T18:46:12.817742Z,flub,0.1.0,0,0,https://github.com/manic-systems/flub,A zero-dependency derive(Error)
+2026-10-15T18:48:35.492899Z,netget-wtransport,0.7.2,0,0,https://github.com/netget-net/wtransport,"NetGet fork of wtransport: owned, bounded driver tasks and validated settings. Implementation of the WebTransport (over HTTP3) protocol"
+2026-10-15T18:53:20.216047Z,larust-core,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T18:53:26.43817Z,larust-view,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T18:53:29.126659Z,larust-events,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T18:54:49.915308Z,crcbl-golden,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible golden-image comparison for render tests
+2026-10-15T18:56:01.841619Z,boxdb-sqlite-sys,0.3.1,0,0,https://github.com/lebedev-nikita/boxdb,BoxDB SQLite engine and native bindings (fork of libsqlite3-sys 0.38.2)
+2026-10-15T18:56:05.490376Z,boxdb-rusqlite,0.3.1,0,0,https://github.com/lebedev-nikita/boxdb,BoxDB SQLite wrapper (fork of rusqlite 0.40.2)
+2026-10-15T18:56:09.372801Z,boxdb,0.3.1,0,0,https://github.com/lebedev-nikita/boxdb,An extended SQLite client with typed columns and readable storage
+2026-10-15T18:56:54.635457Z,larust-orm,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T18:56:59.680758Z,larust-lang,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T18:59:26.360118Z,smg-symphony,0.1.0,0,0,https://github.com/smg-project/smg,"One parser for everything a model says: content, reasoning and tool calls as typed events from one streaming entry point"
+2026-10-15T18:59:47.884551Z,netget-async-opcua-client,0.19.0,0,0,https://github.com/netget-net/async-opcua,NetGet fork of async-opcua-client: built against netget-async-opcua-core. OPC UA client API
+2026-10-15T19:00:59.770734Z,nanoexpr,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoexpr,"Fast no_std math expression parser and evaluator with zero heap allocation: formulas with variables and functions for microcontrollers, WebAssembly and C, in f32, f64, integers or calculator-exact de…"
+2026-10-15T19:01:01.319055Z,smg-response-template,0.1.0,0,0,https://github.com/smg-project/smg,A Rust port of the response-template parser in transformers (chat_parsing)
+2026-10-15T19:01:27.679104Z,mathscape-discovery,0.1.7,0,0,https://github.com/pleme-io/mathscape,"Discovery mining: epoch analysis, known-math pattern matching, representation data for React UI"
+2026-10-15T19:01:32.015439Z,mathscape-reward,0.1.7,0,0,https://github.com/pleme-io/mathscape,"Description length, compression ratio, novelty, meta-compression, fitness"
+2026-10-15T19:01:34.356995Z,mathscape-config,0.1.7,0,0,https://github.com/pleme-io/mathscape,Shared configuration: defaults → YAML → env vars (shikumi)
+2026-10-15T19:01:36.452064Z,mathscape-mcp,0.1.7,0,0,https://github.com/pleme-io/mathscape,MCP server (stdio transport) for observe-only agent interaction
+2026-10-15T19:01:38.502703Z,mathscape-service,0.1.7,0,0,https://github.com/pleme-io/mathscape,"Long-running service with REST, GraphQL, and gRPC — all from central API types"
+2026-10-15T19:01:39.20313Z,hallmark,1.0.0,0,0,https://github.com/manic-systems/hallmark,Pure-Rust Nix binary-cache and store primitives
+2026-10-15T19:02:04.203747Z,mathscape-stream,0.1.7,0,0,https://github.com/pleme-io/mathscape,"The one-writer stream: grows the canonical model, persists it as content-addressed snapshots behind a HEAD, resumes from HEAD"
+2026-10-15T19:04:49.327986Z,crcbl-reflect-derive,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible's `#[derive(Reflect)]`: the field description an editor's property panel reads
+2026-10-15T19:07:56.895289Z,netget-async-opcua-server,0.19.0,0,0,https://github.com/netget-net/async-opcua,"NetGet fork of async-opcua-server: connection cap, owned connection tasks, connection hooks. OPC UA server API"
+2026-10-15T19:11:44.745688Z,larust-storage,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T19:12:04.795586Z,mathscape-cli,0.1.7,0,0,https://github.com/pleme-io/mathscape,REPL for step-by-step epoch execution and inspection
+2026-10-15T19:13:44.439982Z,oc-core,0.1.0,0,0,https://github.com/0FL01/oc,"Typed application core for oc: domain, application, runtime and ports (no UI/storage/network deps)"
+2026-10-15T19:13:47.425943Z,oc-adapters,0.1.0,0,0,https://github.com/0FL01/oc,"Adapter implementations for oc-core ports: storage, providers, tools, mcp, dcp"
+2026-10-15T19:13:51.038727Z,oc-tui,0.1.0,0,0,https://github.com/0FL01/oc,"Local terminal UI for oc, bound to oc-core application API plus oc-adapters read-side domain (D12)"
+2026-10-15T19:14:49.658951Z,crcbl-wl-scanner,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible's Wayland protocol code generator: protocol XML in, Rust marshalling code out"
+2026-10-15T19:15:08.42687Z,oxidged,0.1.0,0,0,https://github.com/trois-six/oxidged,"A conformant, lenient GEDCOM 5.5.1, 7.0 and 7.1 reader and writer: any file read without loss, strictly conformant output, streaming, GEDZIP, editing and producer profiles"
+2026-10-15T19:15:38.007299Z,oxidged-cli,0.1.0,0,0,https://github.com/trois-six/oxidged,"Inspect, validate, repair, convert and export GEDCOM 5.5.1, 7.0 and 7.1 files from the command line, with oxidged"
+2026-10-15T19:19:00.232465Z,netget-async-opcua,0.19.0,0,0,https://github.com/netget-net/async-opcua,NetGet fork of async-opcua: built against the netget-async-opcua-* forks. OPC UA client and server API
+2026-10-15T19:19:03.829769Z,form_builder_derive,2.0.0,0,0,https://github.com/vertyll/form-builder,The derive macro of form_builder: a struct asked for field by field in the terminal.
