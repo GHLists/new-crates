@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T07:23:41.497732Z,zgui-elements,0.1.0,0,0,https://github.com/zortax/zgui,Typed builders for the zgui element vocabulary
+2026-10-15T07:23:55.873873Z,energyml-mcp,0.2.0-alpha.4,0,0,https://github.com/geosiris-technologies/energyml-rust,"The tools of a generic, read-only MCP (Model Context Protocol) server over the EnergyML storage traits, independent of any MCP SDK."
+2026-10-15T07:24:18.891731Z,yeptris,0.6.1,0,0,https://github.com/leptris/yeptris-rs,"Rust bindings for libyeptris — fast YAML 1.2 parsing, DOM, serialization"
+2026-10-15T07:24:25.709118Z,watchword-core,0.1.0,0,0,https://github.com/udoprog/watchword,"The types watchword's server and frontends share: users, roles, the wire types of its routes, and AuthError."
+2026-10-15T07:24:35.510516Z,watchword-yew023,0.1.0,0,0,https://github.com/udoprog/watchword,"watchword's Yew 0.23 frontend: sign-in, registration, account and user management components, the auth context and its HTTP client."
+2026-10-15T07:24:39.138734Z,watchword,0.1.0,0,0,https://github.com/udoprog/watchword,"Authentication for axum servers and Yew frontends: password, Cloudflare Access and Google sign-in, sessions and user management."
+2026-10-15T07:25:04.61863Z,ferroui-remote-protocol,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The remote protocol of FerroUI: the messages of the previewer and of remote rendering, their BSON serialization and the transports that carry them"
+2026-10-15T07:25:40.300353Z,energyml-mcp-cli,0.2.0-alpha.4,0,0,https://github.com/geosiris-technologies/energyml-rust,"The `energyml-mcp` program: a read-only MCP (Model Context Protocol) server over an EnergyML EPC package, on stdio, for Claude and other MCP clients."
+2026-10-15T07:26:58.172593Z,shapelessai,0.1.1,0,0,https://github.com/FirstClassTree/shapelessai,"Rust client for the ShapelessAI API: list connected social accounts, schedule posts to X, LinkedIn, Instagram, TikTok, YouTube, Threads, Bluesky and Facebook, read post status."
+2026-10-15T07:34:37.784481Z,diagrid-goose,0.1.0,0,0,https://github.com/diagridio/rust-ai,"Durable Dapr Workflow wrapper for Goose, driven entirely over its stable ACP interface"
+2026-10-15T07:35:31.01568Z,zgui-testkit-view,0.1.0,0,0,https://github.com/zortax/zgui,Test kit for zgui components
+2026-10-15T07:36:08.752471Z,ferroui-controls,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The controls of FerroUI: the application model, top levels, the control set and automation peers"
+2026-10-15T07:47:13.675547Z,ferroui-fonts-inter,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,The Inter font family as an embedded font collection of FerroUI
+2026-10-15T07:47:21.839917Z,zgui-view-dom,0.1.0,0,0,https://github.com/zortax/zgui,zgui views over a real document
+2026-10-15T07:47:22.492299Z,zgui-wgsl,0.1.0,0,0,https://github.com/zortax/zgui,WGSL building blocks for zgui shaders
+2026-10-15T07:49:59.858629Z,harn-stdlib-catalog,0.10.166,0,0,https://github.com/burin-labs/harn,Registration point for the embedded Harn standard library catalog
+2026-10-15T07:50:15.580655Z,harn-languages,0.10.166,0,0,https://github.com/burin-labs/harn,"Canonical file-language registry (names, extensions, file names, structural support) shared by the Harn runtime and host library."
+2026-10-15T07:52:46.74584Z,ringo-mcp,0.1.0,0,0,https://github.com/davidborzek/ringo,MCP server over stdio exposing ringo SIP agents for LLM-driven telephony
+2026-10-15T07:58:33.269263Z,ferroui-freedesktop,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The FreeDesktop services of FerroUI for Linux desktops: D-Bus input methods, portals, menus, tray icons and accessibility over AT-SPI"
+2026-10-15T07:59:16.517525Z,zgui-render-wgpu,0.1.0,0,0,https://github.com/zortax/zgui,wgpu renderer for zgui scenes
+2026-10-15T08:09:36.938073Z,ferroui-harfbuzz,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,The HarfBuzz text shaping backend of FerroUI
+2026-10-15T08:10:30.175405Z,ka-harness,0.3.0,0,0,https://github.com/jaltez/ka,"ka: a model-agnostic, very-low-footprint coding agent (TUI + headless NDJSON)"
+2026-10-15T08:11:12.659273Z,zgui-render-vector-coverage,0.1.0,0,0,https://github.com/zortax/zgui,Vector rasterizer for devices without compute shaders
+2026-10-15T08:12:44.498896Z,kerilings-macros,0.1.0,0,0,https://github.com/AABelkhiria/kerilings,A macros crate intended to be used only by kerilings
+2026-10-15T08:12:46.319379Z,kerilings,0.1.0,0,0,https://github.com/AABelkhiria/kerilings,"Small exercises to learn KERI, CESR and ACDC in Rust"
+2026-10-15T08:20:39.262864Z,ferroui-markup,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,The markup support of FerroUI: binding path parsing and reflection-style bindings
