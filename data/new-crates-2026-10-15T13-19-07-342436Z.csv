@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T12:23:06.311226Z,workflint,0.0.1,0,0,https://github.com/stokehold/workflint,"A fast linter for GitHub Actions workflows, compatible with actionlint"
+2026-10-15T12:25:58.040304Z,knut-exec,2026.10.3,0,0,https://github.com/mocnik-science/knut,Executes scripts in the knut query language (.knut) on knut databases of OpenStreetMap history
+2026-10-15T12:26:01.02301Z,knut-web,2026.10.3,0,0,https://github.com/mocnik-science/knut,Web interface for the knut query language with results on a map (`knut web`)
+2026-10-15T12:26:03.658904Z,knut-cli,2026.10.3,0,0,https://github.com/mocnik-science/knut,"Command line tool for knut: converts OpenStreetMap history and runs knut scripts, in the terminal or in the browser"
+2026-10-15T12:27:20.714385Z,iced-debug-kora,0.15.0,0,0,https://github.com/playtron-os/iced,A pluggable API for debugging iced applications (Playtron's Kora fork of iced_debug)
+2026-10-15T12:32:36.963445Z,iaexplore-llm-profiler,1.0.0,0,0,https://github.com/iaexplore/iaexplore-llm-profiler,"Deterministic high-precision VRAM, GQA KV-Cache, and MoE memory bandwidth inference profiler for 2026 AI models and silicon."
+2026-10-15T12:32:49.174315Z,gpui-kit-sf-symbols,0.1.0,0,0,https://github.com/zmscode/gpui-kit-sf-symbols,"Apple SF Symbols for GPUI Kit, rendered as vector icons from the system on macOS."
+2026-10-15T12:33:51.589633Z,graphlay,0.2.1,0,0,https://github.com/aarkue/graphlay,"Deterministic layered (Sugiyama-style) graph layout, tidy trees and an SVG renderer, in pure Rust."
+2026-10-15T12:34:24.406871Z,revault_secure_memory,0.1.0,0,0,https://github.com/onepub-dev/reVault,Page-pooled secure byte and string storage for reVault
+2026-10-15T12:34:52.775081Z,openharmony-ability-plugin-accessibility,1.0.0-beta.3,0,0,,Accessibility bridge plugin facade for openharmony-ability
+2026-10-15T12:34:53.944378Z,openharmony-ability-plugin-account,1.0.0-beta.3,0,0,,Huawei Account one-tap login bridge plugin facade for openharmony-ability
+2026-10-15T12:34:54.022557Z,brenn-forgejo-mcp,0.2.0,0,0,https://github.com/rnortman/brenn-forgejo-mcp,Stdio MCP server exposing Forgejo pull-request tools
+2026-10-15T12:34:55.833804Z,openharmony-ability-plugin-autostart,1.0.0-beta.3,0,0,,Autostart bridge plugin facade for openharmony-ability
+2026-10-15T12:34:56.994833Z,openharmony-ability-plugin-clipboard,1.0.0-beta.3,0,0,,Clipboard bridge plugin facade for openharmony-ability
+2026-10-15T12:34:58.117132Z,openharmony-ability-plugin-continuation,1.0.0-beta.3,0,0,,App continuation facade for openharmony-ability
+2026-10-15T12:37:05.475601Z,iced-graphics-kora,0.15.0,0,0,https://github.com/playtron-os/iced,A bunch of backend-agnostic types that can be leveraged to build a renderer for iced (Playtron's Kora fork of iced_graphics)
+2026-10-15T12:41:35.279191Z,graphlay-cli,0.2.1,0,0,https://github.com/aarkue/graphlay,"The graphlay layout engine on the command line: JSON in, JSON or SVG out"
+2026-10-15T12:41:37.421091Z,cc-shift,0.0.4,0,0,https://github.com/Vernum-Projecten/cc-shift,"Switches Claude Code between several Claude accounts on macOS on its own, before a usage limit is hit."
+2026-10-15T12:46:57.969124Z,iced-selector-kora,0.15.0,0,0,https://github.com/playtron-os/iced,A set of abstractions for selecting data from the widget tree (Playtron's Kora fork of iced_selector)
+2026-10-15T12:47:14.250795Z,bitflags-lite,0.1.0,0,0,https://github.com/zheland/bitflags-lite,Lightweight generics-based bitflags
+2026-10-15T12:52:29.881163Z,revault_migrate_v1,0.1.0,0,0,https://github.com/onepub-dev/reVault,Isolated migration exporter for reVault archive/container format 1
+2026-10-15T12:53:09.239329Z,keydibs,0.2.0,0,0,https://github.com/Blzs2005/keydibs,"Find keybindings that never fire because another layer (compositor, terminal, shell, editor) grabs them first"
+2026-10-15T12:53:36.728859Z,revault_migrate_v2,0.1.0,0,0,https://github.com/onepub-dev/reVault,Isolated migration exporter for reVault archive/container format 2
+2026-10-15T12:54:14.043643Z,revault_migrate_v3,0.1.0,0,0,https://github.com/onepub-dev/reVault,Isolated migration exporter for reVault archive/container format 3
+2026-10-15T12:58:50.60554Z,iced-runtime-kora,0.15.0,0,0,https://github.com/playtron-os/iced,A renderer-agnostic runtime for iced (Playtron's Kora fork of iced_runtime)
+2026-10-15T12:59:17.207954Z,lazyaws,0.1.0,0,0,https://github.com/capybara-brain346/lazyaws,A Lazygit-style terminal interface for AWS
+2026-10-15T13:01:55.056926Z,pamsm_sessiond,0.1.0,0,0,,Rust wrappers around PAM Service Modules functions
+2026-10-15T13:06:47.49013Z,openharmony-ability-plugin-deep-link,1.0.0-beta.3,0,0,,Deep link bridge plugin facade for openharmony-ability
+2026-10-15T13:06:48.193489Z,openharmony-ability-plugin-fault-injection,1.0.0-beta.3,0,0,,Coverage-testing fault injection bridge plugin (pairs with plugins/faultinjection)
+2026-10-15T13:06:49.796025Z,openharmony-ability-plugin-global-shortcut,1.0.0-beta.3,0,0,,Global shortcut bridge plugin facade for openharmony-ability
+2026-10-15T13:07:05.288713Z,iced-program-kora,0.15.0,0,0,https://github.com/playtron-os/iced,The definition of an iced program (Playtron's Kora fork of iced_program)
+2026-10-15T13:09:57.946039Z,identity-kit,0.0.1,0,0,https://github.com/impierce/identity-kit,"DID, key management and verifiable credential primitives"
+2026-10-15T13:12:41.596915Z,shadewire-nodes,0.2.0,0,0,https://github.com/rdeioris/shadewire,"The node library of Shadewire: the standard MaterialX nodes and Shadewire's own, lowered into the IR"
+2026-10-15T13:12:51.22547Z,shadewire-blender,0.2.0,0,0,https://github.com/rdeioris/shadewire,Blender material graph reader for Shadewire: the shadewire-blender-graph JSON to the IR
+2026-10-15T13:16:50.772591Z,iced-tiny-skia-kora,0.15.0,0,0,https://github.com/playtron-os/iced,A software renderer for iced on top of tiny-skia (Playtron's Kora fork of iced_tiny_skia)
+2026-10-15T13:18:32.902718Z,a3s-use-reconcile,0.2.10,0,0,https://github.com/A3S-Lab/Use,"One-generation reconcile for skill, OKF, UI, MCP, and in-package Tool"
