@@ -8,38 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 01:19 UTC
+## Latest list — 2026-10-15 02:20 UTC
 
-New crates published between 2026-10-15 00:19 UTC and 2026-10-15 01:19 UTC.
+New crates published between 2026-10-15 01:19 UTC and 2026-10-15 02:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-15T01-19-38-817856Z.csv)
+[Full CSV](data/new-crates-2026-10-15T02-20-34-352443Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-15 00:22:57 | [fuel-posttrain](https://crates.io/crates/fuel-posttrain) | 0.19.1 | 0 | Post-training model compression for the Fuel ML framework: quantization-calibra… |
-| 2026-10-15 00:23:43 | [sci-spatial](https://crates.io/crates/sci-spatial) | 0.0.0 | 0 | WIP: Spatial geometry and nearest-neighbor methods; initial release in developm… |
-| 2026-10-15 00:35:59 | [fonts-rs-tabler-cheat-sheet](https://crates.io/crates/fonts-rs-tabler-cheat-sheet) | 0.5.0 | 0 | Tabler Icons cheat sheet application |
-| 2026-10-15 00:40:21 | [shrub](https://crates.io/crates/shrub) | 0.0.1 | 0 | A cut-down, cleaned-up hard fork of brush, the bash-compatible shell in Rust, f… |
-| 2026-10-15 00:40:59 | [mcpdef-secrets](https://crates.io/crates/mcpdef-secrets) | 0.4.0 | 0 | MCPdef — where a secret comes from (a literal, an environment variable or a fil… |
-| 2026-10-15 00:43:21 | [mcpdef-console](https://crates.io/crates/mcpdef-console) | 0.4.0 | 0 | MCPdef — the console's built files (HTML, scripts, styles, fonts), each with it… |
-| 2026-10-15 00:43:47 | [fuel-transformers](https://crates.io/crates/fuel-transformers) | 0.19.1 | 0 | Minimalist ML framework. |
-| 2026-10-15 00:44:14 | [fuel-inference](https://crates.io/crates/fuel-inference) | 0.19.1 | 0 | Inference orchestration layer for the Fuel ML framework. |
-| 2026-10-15 00:45:04 | [win-sync-sys](https://crates.io/crates/win-sync-sys) | 0.0.2 | 0 | Memory-safe Rust over the Win32 synchronization API, starting with an owned eve… |
-| 2026-10-15 00:45:41 | [io-buffers](https://crates.io/crates/io-buffers) | 0.1.0 | 0 | Buffers for asynchronous I/O: the unsafe traits by which an owner promises its… |
-| 2026-10-15 00:46:04 | [durable-ioring](https://crates.io/crates/durable-ioring) | 0.1.0 | 0 | Epoch-based durability for a file-I/O ring, portable: the contract, the core th… |
-| 2026-10-15 00:53:56 | [wgsl-rs-linkage-wgpu](https://crates.io/crates/wgsl-rs-linkage-wgpu) | 0.1.0-beta.5 | 0 | wgpu linkage generation for wgsl-rs shader modules; defaults to the latest supp… |
-| 2026-10-15 00:55:32 | [fuel-onnx](https://crates.io/crates/fuel-onnx) | 0.19.1 | 0 | ONNX support for Fuel |
-| 2026-10-15 00:56:58 | [cuemodo](https://crates.io/crates/cuemodo) | 0.0.1 | 0 | Open-source show control: light, sound, video (early development) |
-| 2026-10-15 01:01:40 | [sci-special](https://crates.io/crates/sci-special) | 0.0.0 | 0 | WIP: Special functions for scientific computing; initial release in development |
-| 2026-10-15 01:01:45 | [sci-stats](https://crates.io/crates/sci-stats) | 0.0.0 | 0 | WIP: Statistics and probability distributions; initial release in development |
-| 2026-10-15 01:06:50 | [fuel-parallel](https://crates.io/crates/fuel-parallel) | 0.19.1 | 0 | Multi-GPU parallelism primitives for the Fuel ML framework. |
-| 2026-10-15 01:10:27 | [win-time-sys](https://crates.io/crates/win-time-sys) | 0.1.0 | 0 | Memory-safe Rust over the Windows clocks: interrupt time, system time and the p… |
-| 2026-10-15 01:14:26 | [omoplata-algebra](https://crates.io/crates/omoplata-algebra) | 0.1.0 | 0 | omoplata's verified merge core: patch algebra, commutation checking, and three-… |
-| 2026-10-15 01:14:27 | [omoplata-identity](https://crates.io/crates/omoplata-identity) | 0.1.0 | 0 | omoplata's two-tier identity layer: stable change ids and definition-level iden… |
-| 2026-10-15 01:14:27 | [omoplata-store](https://crates.io/crates/omoplata-store) | 0.1.0 | 0 | Content-addressed object store and tree model for the omoplata version control… |
-| 2026-10-15 01:14:29 | [omoplata-drivers](https://crates.io/crates/omoplata-drivers) | 0.1.0 | 0 | Tier-2 structural merge drivers for omoplata: syntax-tree-aware merging of conf… |
-| 2026-10-15 01:18:07 | [fuel-tensor-tools](https://crates.io/crates/fuel-tensor-tools) | 0.19.1 | 0 | Minimalist ML framework. |
-| 2026-10-15 01:18:21 | [fuel-training](https://crates.io/crates/fuel-training) | 0.19.1 | 0 | Training orchestration layer for the Fuel ML framework. |
+| 2026-10-15 01:20:48 | [win-durable-ioring](https://crates.io/crates/win-durable-ioring) | 0.1.0 | 0 | A ring for Windows file I/O with durability scheduled into its work: writes are… |
+| 2026-10-15 01:21:53 | [omoplata-git](https://crates.io/crates/omoplata-git) | 0.1.0 | 0 | Git object format and wire protocol interoperability for omoplata, with a round… |
+| 2026-10-15 01:23:50 | [airsclaude](https://crates.io/crates/airsclaude) | 0.1.0 | 0 | Unofficial Rust SDK for Anthropic's Claude: the Messages API and the Agent SDK. |
+| 2026-10-15 01:32:25 | [omoplata-sem](https://crates.io/crates/omoplata-sem) | 0.1.0 | 0 | omoplata's semantic layer: embeddings for duplicate-work detection and similari… |
+| 2026-10-15 01:34:12 | [choscorui-core](https://crates.io/crates/choscorui-core) | 0.1.0 | 0 | Platform-independent contracts of the ChoscorUI UI tree: layout, text, semantic… |
+| 2026-10-15 01:34:16 | [choscorui-controls](https://crates.io/crates/choscorui-controls) | 0.1.0 | 0 | Control behavior and paint recipes of ChoscorUI |
+| 2026-10-15 01:34:18 | [choscorui-macos](https://crates.io/crates/choscorui-macos) | 0.1.0 | 0 | AppKit backend of ChoscorUI. Its API is an implementation detail of the choscor… |
+| 2026-10-15 01:34:22 | [choscorui-compose](https://crates.io/crates/choscorui-compose) | 0.1.0 | 0 | Declarative views and reactive properties of ChoscorUI |
+| 2026-10-15 01:34:26 | [choscorui](https://crates.io/crates/choscorui) | 0.1.0 | 0 | Safe facade of the ChoscorUI desktop UI toolkit |
+| 2026-10-15 01:43:47 | [fuel-examples](https://crates.io/crates/fuel-examples) | 0.19.1 | 0 | Minimalist ML framework. |
+| 2026-10-15 01:44:01 | [fuel-lazy-examples](https://crates.io/crates/fuel-lazy-examples) | 0.19.1 | 0 | Runnable binaries demonstrating fuel's Phase 6a lazy graph layer. Kept separate… |
+| 2026-10-15 01:46:10 | [claudevs](https://crates.io/crates/claudevs) | 0.1.0 | 0 | Engine for the claudevs Claude Code plugin lifecycle CLI: case model, test harn… |
+| 2026-10-15 01:49:09 | [rust-ver](https://crates.io/crates/rust-ver) | 0.1.0 | 0 | Hardware/compiler intrinsic generator |
+| 2026-10-15 01:51:32 | [a4aa](https://crates.io/crates/a4aa) | 0.1.0 | 0 | Adapter-For-All-Agents — unified agent client adapter: process supervision, std… |
+| 2026-10-15 01:51:46 | [a4aa-antigravity](https://crates.io/crates/a4aa-antigravity) | 0.1.0 | 0 | a4aa dialect adapter: the `antigravity` mechanism descriptor (hooks, rules, ski… |
+| 2026-10-15 01:51:55 | [a4aa-augment](https://crates.io/crates/a4aa-augment) | 0.1.0 | 0 | a4aa dialect adapter: the `augment` mechanism descriptor (hooks, rules, skills,… |
+| 2026-10-15 01:52:04 | [a4aa-claude](https://crates.io/crates/a4aa-claude) | 0.1.0 | 0 | a4aa dialect adapter: the `claude` mechanism descriptor (hooks, rules, skills,… |
+| 2026-10-15 01:52:04 | [datamine-ilm-core](https://crates.io/crates/datamine-ilm-core) | 1.0.0 | 0 | The core of ILM, the Integer Language Model: words and numbers, the tools that… |
+| 2026-10-15 01:52:06 | [datamine-ilm-data](https://crates.io/crates/datamine-ilm-data) | 1.0.0 | 0 | The data part of ILM, the Integer Language Model: the readers of the public set… |
+| 2026-10-15 01:52:08 | [datamine-ilm-eval](https://crates.io/crates/datamine-ilm-eval) | 1.0.0 | 0 | The measure of ILM, the Integer Language Model: the measure of a kind, the boar… |
+| 2026-10-15 01:52:10 | [datamine-ilm-commands](https://crates.io/crates/datamine-ilm-commands) | 1.0.0 | 0 | The commands of ILM, the Integer Language Model, that the program ilm runs. |
+| 2026-10-15 01:52:12 | [datamine-ilm](https://crates.io/crates/datamine-ilm) | 1.0.0 | 0 | ILM, the Integer Language Model: a language model that learns and answers on th… |
+| 2026-10-15 01:52:15 | [a4aa-code-buddy](https://crates.io/crates/a4aa-code-buddy) | 0.1.0 | 0 | a4aa dialect adapter: the `codebuddy` mechanism descriptor (hooks, rules, skill… |
+| 2026-10-15 01:52:58 | [claudevs-cli](https://crates.io/crates/claudevs-cli) | 0.1.0 | 0 | Command-line interface for claudevs, the Claude Code plugin lifecycle tool |
+| 2026-10-15 01:54:10 | [a4aa-open-claw](https://crates.io/crates/a4aa-open-claw) | 0.1.0 | 0 | a4aa dialect adapter: the `openclaw` mechanism descriptor (hooks, rules, skills… |
+| 2026-10-15 01:59:20 | [cu29-value-types](https://crates.io/crates/cu29-value-types) | 1.3.0 | 0 | Allocation-free Copper value description and metadata vocabulary |
+| 2026-10-15 02:05:22 | [a4aa-codex](https://crates.io/crates/a4aa-codex) | 0.1.0 | 0 | a4aa dialect adapter: the `codex` mechanism descriptor (hooks, rules, skills, c… |
+| 2026-10-15 02:06:53 | [ch32rv-isp](https://crates.io/crates/ch32rv-isp) | 0.20.0 | 0 | WCH factory ISP bootloader (USB) client for the ch32rv tool suite |
+| 2026-10-15 02:07:53 | [tracel-job](https://crates.io/crates/tracel-job) | 0.12.0 | 0 | Tracel jobs run as processes: the protocol between job binaries and the program… |
+| 2026-10-15 02:08:49 | [tracel-runtime](https://crates.io/crates/tracel-runtime) | 0.12.0 | 0 | The runtime of Tracel jobs: a program's jobs, plain functions of their input, a… |
+| 2026-10-15 02:15:19 | [a4aa-command-code](https://crates.io/crates/a4aa-command-code) | 0.1.0 | 0 | a4aa dialect adapter: the `commandcode` mechanism descriptor (hooks, rules, ski… |
 
 ## Data source
 
