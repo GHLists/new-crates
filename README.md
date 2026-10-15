@@ -8,58 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 06:21 UTC
+## Latest list — 2026-10-15 07:21 UTC
 
-New crates published between 2026-10-15 05:19 UTC and 2026-10-15 06:21 UTC.
+New crates published between 2026-10-15 06:21 UTC and 2026-10-15 07:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-15T06-21-19-262306Z.csv)
+[Full CSV](data/new-crates-2026-10-15T07-21-44-806494Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-15 05:20:50 | [vyna-dcm-core](https://crates.io/crates/vyna-dcm-core) | 0.6.0 | 0 | VynaDCM core: tags, value representations, datasets, dictionary, UIDs |
-| 2026-10-15 05:23:02 | [rig-basics](https://crates.io/crates/rig-basics) | 0.44.1 | 0 | Placeholder reserving this name for the Rig project. The real crate will be pub… |
-| 2026-10-15 05:24:53 | [membrick](https://crates.io/crates/membrick) | 0.6.0 | 0 | Persistent memory layer for AI coding agents — MCP server with current-state re… |
-| 2026-10-15 05:24:59 | [zgui-platform-headless](https://crates.io/crates/zgui-platform-headless) | 0.1.0 | 0 | Headless zgui platform with a test clock and scripted input |
-| 2026-10-15 05:25:18 | [fig-language-build](https://crates.io/crates/fig-language-build) | 6.0.0 | 0 | Compiles a fig language written in Zig into the static library its Rust crate l… |
-| 2026-10-15 05:25:21 | [fig-dotenv](https://crates.io/crates/fig-dotenv) | 6.0.0 | 0 | dotenv for fig: fig's own parser, printer and editing rules for the language, a… |
-| 2026-10-15 05:29:08 | [fdk-aac-rs-tpdec](https://crates.io/crates/fdk-aac-rs-tpdec) | 0.0.1 | 0 | Internal crate of fdk-aac-rs: Transport decoder: raw, ADIF, ADTS, LATM/LOAS, DR… |
-| 2026-10-15 05:30:32 | [vyna-dcm-codec](https://crates.io/crates/vyna-dcm-codec) | 0.6.1 | 0 | VynaDCM codecs: dataset encoding, Part-10 files, RLE, DICOM JSON |
-| 2026-10-15 05:33:03 | [rig-activity](https://crates.io/crates/rig-activity) | 0.44.1 | 0 | Placeholder reserving this name for the Rig project. The real crate will be pub… |
-| 2026-10-15 05:34:06 | [ordna-source-toml](https://crates.io/crates/ordna-source-toml) | 0.1.0 | 0 | TOML config files for ordna |
-| 2026-10-15 05:34:18 | [ordna-source-yaml](https://crates.io/crates/ordna-source-yaml) | 0.1.0 | 0 | YAML config files for ordna |
-| 2026-10-15 05:36:28 | [fig-figl](https://crates.io/crates/fig-figl) | 6.0.0 | 0 | figl, fig's authoring dialect for fig: fig's own parser, printer and editing ru… |
-| 2026-10-15 05:36:52 | [zgui-style](https://crates.io/crates/zgui-style) | 0.1.0 | 0 | Style engine for zgui documents, built on Stylo |
-| 2026-10-15 05:36:53 | [zgui-testkit-scene](https://crates.io/crates/zgui-testkit-scene) | 0.1.0 | 0 | Test kit for zgui without a GPU or font files |
-| 2026-10-15 05:39:09 | [fdk-aac-rs-aacdec](https://crates.io/crates/fdk-aac-rs-aacdec) | 0.0.1 | 0 | Internal crate of fdk-aac-rs: AAC decoder core and decoder API (port of libAACd… |
-| 2026-10-15 05:40:27 | [vyna-dcm-iod](https://crates.io/crates/vyna-dcm-iod) | 0.6.1 | 0 | VynaDCM IOD validation: Type 1/2/3 presence, VR and VM checking |
-| 2026-10-15 05:43:02 | [rig-login-chatgpt](https://crates.io/crates/rig-login-chatgpt) | 0.44.1 | 0 | Placeholder reserving this name for the Rig project. The real crate will be pub… |
-| 2026-10-15 05:47:35 | [fig-ini](https://crates.io/crates/fig-ini) | 6.0.0 | 0 | INI for fig: fig's own parser, printer and editing rules for the language, as a… |
-| 2026-10-15 05:48:57 | [zgui-anim](https://crates.io/crates/zgui-anim) | 0.1.0 | 0 | Transitions and keyframe animations for zgui |
-| 2026-10-15 05:49:08 | [fdk-aac-rs-tpenc](https://crates.io/crates/fdk-aac-rs-tpenc) | 0.0.1 | 0 | Internal crate of fdk-aac-rs: Transport encoder: raw, ADIF, ADTS, LATM/LOAS (po… |
-| 2026-10-15 05:50:34 | [vyna-dcm-deid](https://crates.io/crates/vyna-dcm-deid) | 0.6.1 | 0 | VynaDCM de-identification: PS3.15 E-style profiles for research exports |
-| 2026-10-15 05:52:52 | [sgraffito](https://crates.io/crates/sgraffito) | 0.1.0 | 0 | Doodle and sticky notes on the Wayland wallpaper layer (wlr-layer-shell) |
-| 2026-10-15 05:55:13 | [ringo-profile](https://crates.io/crates/ringo-profile) | 0.1.0 | 0 | ringo profile file format and custom-header templates |
-| 2026-10-15 05:56:26 | [web4-policy](https://crates.io/crates/web4-policy) | 0.1.0 | 0 | Web4 shared policy substrate — the domain-agnostic Law/PolicyEntity engine (R6… |
-| 2026-10-15 05:58:42 | [fig-json](https://crates.io/crates/fig-json) | 6.0.0 | 0 | JSON, JSONC and JSON5 for fig: fig's own parser, printer and editing rules for… |
-| 2026-10-15 05:59:04 | [fbarcalc](https://crates.io/crates/fbarcalc) | 0.3.0 | 0 | Calculate the maximum account balance from its transactions, converted to USD,… |
-| 2026-10-15 05:59:09 | [fdk-aac-rs-aacenc](https://crates.io/crates/fdk-aac-rs-aacenc) | 0.0.1 | 0 | Internal crate of fdk-aac-rs: AAC encoder core and encoder API (port of libAACe… |
-| 2026-10-15 06:00:34 | [vyna-dcm-atna](https://crates.io/crates/vyna-dcm-atna) | 0.6.1 | 0 | VynaDCM ATNA audit-trail emission: DICOM audit messages over syslog |
-| 2026-10-15 06:00:46 | [zgui-edit](https://crates.io/crates/zgui-edit) | 0.1.0 | 0 | Text editing: caret, selection, undo, IME composition and hit testing |
-| 2026-10-15 06:09:07 | [fdk-aac-rs](https://crates.io/crates/fdk-aac-rs) | 0.0.1 | 0 | Bit-exact Rust port of fdk-aac 2.0.3 (Third-Party Modified Version of the Fraun… |
-| 2026-10-15 06:09:09 | [cop-model](https://crates.io/crates/cop-model) | 0.1.0 | 0 | Shared diagnostic, source location, rule, and scan state types for cargo-cop. |
-| 2026-10-15 06:09:11 | [cop-cargo](https://crates.io/crates/cop-cargo) | 0.1.0 | 0 | Cargo metadata, package and target selection, feature resolution, and target cf… |
-| 2026-10-15 06:09:12 | [cop-config](https://crates.io/crates/cop-config) | 0.1.0 | 0 | Configuration discovery, schema validation, and command-line overrides for carg… |
-| 2026-10-15 06:09:13 | [cop-i18n](https://crates.io/crates/cop-i18n) | 0.1.0 | 0 | English and Simplified Chinese diagnostic messages for cargo-cop. |
-| 2026-10-15 06:09:14 | [cop-syntax](https://crates.io/crates/cop-syntax) | 0.1.0 | 0 | A lightweight Rust lexer, parser, and syntax tree for cargo-cop static analysis. |
-| 2026-10-15 06:09:49 | [fig-nestedtext](https://crates.io/crates/fig-nestedtext) | 6.0.0 | 0 | NestedText for fig: fig's own parser, printer and editing rules for the languag… |
-| 2026-10-15 06:10:23 | [vyna-dcm-net](https://crates.io/crates/vyna-dcm-net) | 0.6.1 | 0 | VynaDCM networking: DIMSE, associations, SCU/SCP services |
-| 2026-10-15 06:12:34 | [zgui-layout](https://crates.io/crates/zgui-layout) | 0.1.0 | 0 | Box layout for zgui documents: flexbox, grid, block and inline |
-| 2026-10-15 06:15:13 | [cop-analysis](https://crates.io/crates/cop-analysis) | 0.1.0 | 0 | Rust module graph discovery, cfg evaluation, symbol indexing, and path analysis… |
-| 2026-10-15 06:15:56 | [pelta](https://crates.io/crates/pelta) | 0.0.1 | 0 | Pelta |
-| 2026-10-15 06:19:08 | [fdk-aac-rs-cli](https://crates.io/crates/fdk-aac-rs-cli) | 0.0.1 | 0 | Command-line decoder and encoder of fdk-aac-rs, with the arguments and logs of… |
-| 2026-10-15 06:20:24 | [vyna-hl7](https://crates.io/crates/vyna-hl7) | 0.9.0 | 0 | Comprehensive HL7 v2.x library for Rust - parsing, validation, and MLLP support |
-| 2026-10-15 06:20:55 | [fig-plist](https://crates.io/crates/fig-plist) | 6.0.0 | 0 | the Apple XML property list for fig: fig's own parser, printer and editing rule… |
-| 2026-10-15 06:21:04 | [quicsync](https://crates.io/crates/quicsync) | 0.1.0 | 0 | QuicSync is a fast, git-aware file synchronization tool for keeping development… |
+| 2026-10-15 06:23:02 | [cop-report](https://crates.io/crates/cop-report) | 0.1.0 | 0 | Human-readable and JSON diagnostic rendering for cargo-cop. |
+| 2026-10-15 06:24:20 | [zgui-input](https://crates.io/crates/zgui-input) | 0.1.0 | 0 | Event dispatch: hit testing, interaction state and focus |
+| 2026-10-15 06:30:38 | [vyna-dcm-web](https://crates.io/crates/vyna-dcm-web) | 0.6.1 | 0 | VynaDCM DICOMweb: WADO-RS, STOW-RS, QIDO-RS, WADO-URI |
+| 2026-10-15 06:32:01 | [fig-properties](https://crates.io/crates/fig-properties) | 6.0.0 | 0 | Java .properties for fig: fig's own parser, printer and editing rules for the l… |
+| 2026-10-15 06:35:04 | [evidence-request](https://crates.io/crates/evidence-request) | 0.1.0 | 0 | The evidence request protocol (draft-mih-agent-evidence-request-00): parse, dig… |
+| 2026-10-15 06:36:12 | [zgui-a11y](https://crates.io/crates/zgui-a11y) | 0.1.0 | 0 | Accessibility tree for zgui documents, published through AccessKit |
+| 2026-10-15 06:36:13 | [zgui-paint](https://crates.io/crates/zgui-paint) | 0.1.0 | 0 | Paint stage: computed style and fragments into scene primitives |
+| 2026-10-15 06:40:20 | [vyna-dcm-ecg](https://crates.io/crates/vyna-dcm-ecg) | 0.6.1 | 0 | VynaDCM ECG waveform helpers for VynaECG |
+| 2026-10-15 06:42:52 | [crush-ptx](https://crates.io/crates/crush-ptx) | 0.5.0 | 0 | CASM -> PTX (NVIDIA GPU assembly) emission backend for Crush kernel programs |
+| 2026-10-15 06:43:07 | [fig-toml](https://crates.io/crates/fig-toml) | 6.0.0 | 0 | TOML for fig: fig's own parser, printer and editing rules for the language, as… |
+| 2026-10-15 06:48:01 | [zgui-scroll](https://crates.io/crates/zgui-scroll) | 0.1.0 | 0 | Scroll state: offsets, chaining, overscroll and momentum |
+| 2026-10-15 06:50:34 | [vyna-dcm-pdf](https://crates.io/crates/vyna-dcm-pdf) | 0.6.1 | 0 | VynaDCM Encapsulated PDF helpers: SOP-instance builders and extractors |
+| 2026-10-15 06:51:45 | [ferroui](https://crates.io/crates/ferroui) | 0.1.0-preview.1 | 0 | Reserved name: the facade crate of FerroUI, which does not exist yet. This vers… |
+| 2026-10-15 06:51:48 | [ferroui-build-scan](https://crates.io/crates/ferroui-build-scan) | 0.1.0-preview.1 | 0 | The build-time type model of FerroUI and the source scanner that fills it: what… |
+| 2026-10-15 06:51:51 | [ferroui-base](https://crates.io/crates/ferroui-base) | 0.1.0-preview.1 | 0 | The base library of FerroUI: the property system, layout, input, styling, media… |
+| 2026-10-15 06:51:54 | [ferroui-headless-vnc](https://crates.io/crates/ferroui-headless-vnc) | 0.1.0-preview.1 | 0 | Reserved name: the VNC server of the headless platform of FerroUI, which is not… |
+| 2026-10-15 06:51:56 | [ferroui-linuxframebuffer](https://crates.io/crates/ferroui-linuxframebuffer) | 0.1.0-preview.1 | 0 | Reserved name: the Linux framebuffer platform of FerroUI, which is not ported y… |
+| 2026-10-15 06:54:13 | [fig-yaml](https://crates.io/crates/fig-yaml) | 6.0.0 | 0 | YAML for fig: fig's own parser, printer and editing rules for the language, as… |
+| 2026-10-15 06:54:20 | [cop-rules](https://crates.io/crates/cop-rules) | 0.1.0 | 0 | Configurable Rust source convention checks for cargo-cop. |
+| 2026-10-15 06:54:22 | [cargo-cop](https://crates.io/crates/cargo-cop) | 0.1.0 | 0 | A configurable static checker for Rust source code conventions. |
+| 2026-10-15 07:00:03 | [zgui-view](https://crates.io/crates/zgui-view) | 0.1.0 | 0 | View layer for zgui: views, components and children |
+| 2026-10-15 07:00:20 | [faber-core](https://crates.io/crates/faber-core) | 0.0.1 | 0 | The core of Faber, an open-source Raspberry Pi appliance OS for maker and robot… |
+| 2026-10-15 07:00:23 | [vyna-dcm](https://crates.io/crates/vyna-dcm) | 0.6.1 | 0 | VynaDCM: from-scratch DICOM library for VynaECG and VynaLink |
+| 2026-10-15 07:02:58 | [ferroui-metal](https://crates.io/crates/ferroui-metal) | 0.1.0-preview.1 | 0 | The Metal platform contracts of FerroUI: the device, the surface of a top-level… |
+| 2026-10-15 07:03:26 | [s3w-sys](https://crates.io/crates/s3w-sys) | 0.1.0 | 0 | Raw bindings to the S3Wear mini app API (s3w.h, api_level 1), generated by gen.… |
+| 2026-10-15 07:03:29 | [s3w](https://crates.io/crates/s3w) | 0.1.0 | 0 | Safe wrappers over the S3Wear mini app API for no_std wasm32 apps |
+| 2026-10-15 07:05:19 | [fig-zon](https://crates.io/crates/fig-zon) | 6.0.0 | 0 | ZON, Zig Object Notation for fig: fig's own parser, printer and editing rules f… |
+| 2026-10-15 07:06:21 | [bao_ipc](https://crates.io/crates/bao_ipc) | 0.1.0 | 0 | Unified MPMC message substrate for the Bao runtime |
+| 2026-10-15 07:08:05 | [tinymold-store](https://crates.io/crates/tinymold-store) | 0.1.0 | 0 | tinymold's cache store: namespaced action-cache entries over the content-addres… |
+| 2026-10-15 07:08:23 | [tinymold-server](https://crates.io/crates/tinymold-server) | 0.1.0 | 0 | tinymold serve: one content-addressed build cache behind the remote-cache proto… |
+| 2026-10-15 07:11:54 | [zgui-view-macro](https://crates.io/crates/zgui-view-macro) | 0.1.0 | 0 | The view!, #[component], css! and style! macros for zgui |
+| 2026-10-15 07:14:01 | [ferroui-microcom](https://crates.io/crates/ferroui-microcom) | 0.1.0-preview.1 | 0 | The COM-style interop runtime of FerroUI, which its native platform backend is… |
+| 2026-10-15 07:18:37 | [tsvz](https://crates.io/crates/tsvz) | 0.1.0 | 0 | Fast tool and library for tsvz-spec-v1 key-value stores: append-only TSV/CSV/NS… |
+| 2026-10-15 07:18:42 | [oscaraccountant](https://crates.io/crates/oscaraccountant) | 0.1.0 | 0 | The Rust SDK of the Oscar accounting API. |
+| 2026-10-15 07:18:45 | [oscaraccountant-cli](https://crates.io/crates/oscaraccountant-cli) | 0.1.0 | 0 | oscar, the command-line tool of the Oscar accounting API. |
+| 2026-10-15 07:19:16 | [sapphire-journal-api](https://crates.io/crates/sapphire-journal-api) | 2.0.0 | 0 | The methods a sapphire-journal app server serves, and their types |
+| 2026-10-15 07:21:19 | [pdfust](https://crates.io/crates/pdfust) | 0.0.1 | 0 | Reserved name for pdfust, a Rust-powered PDF editing, rendering and extraction… |
+| 2026-10-15 07:21:19 | [vyna-hl7-cli](https://crates.io/crates/vyna-hl7-cli) | 0.9.0 | 0 | Command-line interface for VynaHL7 HL7 v2.x library |
 
 ## Data source
 
