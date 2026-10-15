@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T22:23:33.413508Z,pairwise-gate,0.1.0,0,0,https://github.com/DreamLab-AI/pairwise-gate,"Evidence-gated selection policies for comparing a candidate against a baseline on paired tasks, with infrastructure faults kept out of the tally."
+2026-10-15T22:23:36.690845Z,failure-fingerprint,0.1.0,0,0,https://github.com/DreamLab-AI/failure-fingerprint,Stable identity for failure modes across steps of a self-improvement loop: new vs persisting vs fixed.
+2026-10-15T22:23:46.98772Z,ppoppo-pas-oidc,1.0.0,0,0,https://github.com/hakchin/ppoppo,"Client of the Ppoppo Accounts System (PAS) OpenID Provider — OIDC relying party, RFC 8252 native flow, RFC 9068 bearer-token verification, refresh-token cipher"
+2026-10-15T22:24:02.091787Z,larust-spa,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T22:24:50.486264Z,crcbl-vk,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible Vulkan backend (ash) implementing the HAL seam
+2026-10-15T22:25:33.18429Z,piu_subprocess_windows,0.54.0,0,0,https://github.com/denoland/deno,Subprocess API implementation for Windows
+2026-10-15T22:27:24.075331Z,easyssf-core,0.6.0,0,0,https://github.com/easyssf/easyssf-rust,"The data structures of the OpenID Shared Signals Framework: SETs, subjects, event types, CAEP, RISC and SCIM events, stream configuration, transmitter metadata."
+2026-10-15T22:27:26.488751Z,easyssf-receiver,0.6.0,0,0,https://github.com/easyssf/easyssf-rust,"An OpenID Shared Signals Framework receiver without a web framework: SET verification, de-duplication, push and poll delivery, stream management, typed CAEP, RISC and SCIM handlers, token revocation…"
+2026-10-15T22:27:28.671421Z,easyssf-test,0.6.0,0,0,https://github.com/easyssf/easyssf-rust,"Test support for SSF receivers: a transmitter that signs SETs, serves its metadata and JWK Set, hands out access tokens and emulates stream management and polling, in-process."
+2026-10-15T22:27:30.734379Z,easyssf-receiver-actix-web,0.6.0,0,0,https://github.com/easyssf/easyssf-rust,"The easyssf receiver for actix-web: push endpoint, token revocation middleware and the actix-session hook."
+2026-10-15T22:27:31.091998Z,easyssf-receiver-axum,0.6.0,0,0,https://github.com/easyssf/easyssf-rust,"The easyssf receiver for axum and every framework on tower: push endpoint, token revocation layer and the tower-sessions hook."
+2026-10-15T22:31:13.066563Z,brisvox-engine,0.1.1,0,0,https://github.com/bilal07karadeniz/brisvox,"Brisvox engine: the production voice pipeline (transport pump, VAD, STT, turn driver, LLM runner, TTS, transport out)"
+2026-10-15T22:34:20.568572Z,ppoppo-pas-oidc-axum,1.0.0,0,0,https://github.com/hakchin/ppoppo,"axum / tower binding of ppoppo-pas-oidc: the perimeter Bearer-auth Layer (Authorization header or HttpOnly cookie, 401 / 503 dispositions, gRPC-aware) over the face's AuthProvider port"
+2026-10-15T22:34:50.373043Z,crcbl-webgpu,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible WebGPU backend — the wasm → JS command stream encoding
+2026-10-15T22:36:24.978599Z,piu_io,0.169.0,0,0,https://github.com/denoland/deno,IO primitives for Deno extensions
+2026-10-15T22:36:49.607585Z,piu_fs,0.169.0,0,0,https://github.com/denoland/deno,Ops for interacting with the file system
+2026-10-15T22:39:02.730182Z,easyssf-receiver-sqlx,0.6.0,0,0,https://github.com/easyssf/easyssf-rust,"The database stores of the easyssf receiver on sqlx: processed SETs, revocations and poll acknowledgements, in the tables shared with the Java and .NET libraries."
+2026-10-15T22:39:12.889372Z,tavrn-crypto,0.1.0,0,0,https://github.com/just-tavrn/tavrn-crypto,"tavrn end-to-end encryption core (OpenMLS-based MLS client, key derivation, sealed boxes), shared by all clients and the bot SDK"
+2026-10-15T22:39:51.590795Z,faucet-common-sql,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,Shared SQL dialects and the sink planning engine for the faucet-stream SQL sink connectors
+2026-10-15T22:40:12.60893Z,ttk-relay,6.5.7,0,0,https://github.com/Lanetus/TTKServer,TTKServer relay node: an attested enclave server forwarding onion-routed /faf requests
+2026-10-15T22:40:14.37792Z,ttk-executables,6.5.7,0,0,https://github.com/Lanetus/TTKServer,"TTKServer executables: the enclave nodes (relay, s3-server, root), the parent-instance vsock proxies and the test-only client and auth-test tools"
+2026-10-15T22:41:33.832312Z,brisvox-agent-link,0.1.1,0,0,https://github.com/bilal07karadeniz/brisvox,"Brisvox out-of-process agent protocol: versioned JSON over WebSocket between a call and an agent process, remote tools, and a reference agent in Rust"
+2026-10-15T22:43:02.864583Z,rightkit-record,0.3.0,0,0,https://github.com/Orthic-Labs/rightkit,"Per-window screen capture for any app, chosen by window id and pid: ScreenCaptureKit on macOS, Windows.Graphics.Capture on Windows. Record lifecycle, session bundles, redaction, verification and fram…"
+2026-10-15T22:44:50.650997Z,crcbl-server,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible authoritative server: fixed-tick simulation and snapshot emission
+2026-10-15T22:44:56.265371Z,markref,0.2.0,0,0,https://github.com/LIghtJUNction/markref,Read-only CLI for shared feature marks in source comments
+2026-10-15T22:44:56.861712Z,faucet-common-s3,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,Shared S3 client builder and file-writer storage backend for the faucet-stream S3 connectors
+2026-10-15T22:44:56.940288Z,ppoppo-pas-oidc-test,1.0.0,0,0,https://github.com/hakchin/ppoppo,"Test kit for ppoppo-pas-oidc: FakePasServer, a fake PAS OpenID Provider — discovery, JWKS, token, userinfo and revocation endpoints scripted per test — that signs with the issuer PAS signs with. For…"
+2026-10-15T22:46:33.714586Z,twig-kit,6.0.0,0,0,https://github.com/diaryx-org/twig,"What twig's languages share: the document tree, spans, the spelling table, the generic HTML printer and the Language trait. Pure Rust, std alone."
+2026-10-15T22:46:45.731477Z,twig-html,6.0.0,0,0,https://github.com/diaryx-org/twig,"HTML for twig: a forgiving document-oriented HTML parser and its editing table, on twig's kit."
+2026-10-15T22:46:48.640097Z,twig-markdown,6.0.0,0,0,https://github.com/diaryx-org/twig,"Markdown for twig: CommonMark 0.31.2, GFM and twig's default flavour, with its parser, renderers, serializer and editing tables, on twig's kit."
+2026-10-15T22:46:50.986968Z,twig-djot,6.0.0,0,0,https://github.com/diaryx-org/twig,"Djot for twig: the parser, HTML renderer, serializer and editing table, on twig's kit. Register it with twig-doc to parse, edit and convert Djot."
+2026-10-15T22:46:53.046184Z,twig-xml,6.0.0,0,0,https://github.com/diaryx-org/twig,"XML and SVG for twig: a strict XML parser and serializer that rewrites attributes in place, on twig's kit."
+2026-10-15T22:47:41.276354Z,piu_tls,0.246.0,0,0,https://github.com/denoland/deno,TLS for Deno
+2026-10-15T22:53:10.126601Z,brisvox-server,0.1.1,0,0,https://github.com/bilal07karadeniz/brisvox,Brisvox server: multi-tenant session manager and HTTP API
+2026-10-15T22:53:45.781257Z,ppoppo-pcs-session-test,1.0.0,0,0,https://github.com/hakchin/ppoppo,"Test kit for ppoppo-pcs-session: ServedSessionFace, the PCS session face (ppoppo.chat.v1) served in-process and scripted in the face's own types. For [dev-dependencies] only."
+2026-10-15T22:54:50.991184Z,crcbl-steam,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible Steamworks: the SDK's flat C API, loaded at runtime, behind an event queue drained once per frame"
+2026-10-15T22:57:56.762385Z,twig-asciidoc,6.0.0,0,0,https://github.com/diaryx-org/twig,"AsciiDoc for twig: the parser, serializer and editing table, held to the AsciiDoc TCK, on twig's kit."
+2026-10-15T22:58:30.284911Z,piu_webidl,0.259.0,0,0,https://github.com/denoland/deno,WebIDL implementation for Deno
+2026-10-15T23:03:27.388565Z,brisvox,0.1.1,0,0,https://github.com/bilal07karadeniz/brisvox,"Brisvox: a Rust engine for real-time voice agents. One dependency for the server, the tools API and the core types."
+2026-10-15T23:04:49.984716Z,crcbl-assets,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible asset ids, load states and the IO seam beneath them"
+2026-10-15T23:06:40.167561Z,rs-gherkin-feature2json,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-gherkin-feature2json,Convert Gherkin feature file to JSON
+2026-10-15T23:09:06.858956Z,twig-doc-cli,6.0.0,0,0,https://github.com/diaryx-org/twig,"The `twig` command-line tool: parse, query, edit, and losslessly round-trip Djot, Markdown, HTML, XML, and AsciiDoc documents."
+2026-10-15T23:09:18.210201Z,piu_web,0.290.0,0,0,https://github.com/denoland/deno,Collection of Web APIs
+2026-10-15T23:09:48.800382Z,mirql-love-sparkle,0.1.0,0,0,https://github.com/askaramirov/mirql-love-sparkle,A tiny sparkle of love: the Rust port of @mirql/love-sparkle
+2026-10-15T23:14:10.406232Z,larust-validation,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T23:14:50.914236Z,crcbl-inventory,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible's grid-inventory kit: one grid primitive, bitmask footprints, rotation and stacking"
