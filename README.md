@@ -8,55 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 17:19 UTC
+## Latest list — 2026-10-15 18:19 UTC
 
-New crates published between 2026-10-15 16:21 UTC and 2026-10-15 17:19 UTC.
+New crates published between 2026-10-15 17:19 UTC and 2026-10-15 18:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-15T17-19-39-840339Z.csv)
+[Full CSV](data/new-crates-2026-10-15T18-19-39-51927Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-15 16:23:06 | [nanacos-sdk](https://crates.io/crates/nanacos-sdk) | 1.0.0 | 0 | Nacos SDK compatibility transport with connection invalidation and identity-pre… |
-| 2026-10-15 16:27:12 | [talahon-mcp](https://crates.io/crates/talahon-mcp) | 2.0.0 | 0 | Model Context Protocol (JSON-RPC 2.0 over stdio) client and server |
-| 2026-10-15 16:27:32 | [corsairs](https://crates.io/crates/corsairs) | 0.1.0 | 0 | Safe Rust inference with Apple Core AI on Apple Silicon |
-| 2026-10-15 16:28:38 | [ferrobridge-fhirpath](https://crates.io/crates/ferrobridge-fhirpath) | 0.0.0 | 0 | A FHIRPath Normative Release 2.0.0 evaluator with the FHIR R4 additions, over t… |
-| 2026-10-15 16:31:09 | [rdstream](https://crates.io/crates/rdstream) | 0.1.0 | 0 | Streaming reader for R .rds and .RData files with selective loading and extract… |
-| 2026-10-15 16:32:07 | [ferrobridge-validator](https://crates.io/crates/ferrobridge-validator) | 0.0.0 | 0 | A FHIR R4 profile validator over packages read offline, the generated fhir-type… |
-| 2026-10-15 16:32:27 | [tree-sitter-dshl](https://crates.io/crates/tree-sitter-dshl) | 1.0.0 | 0 | Dagor Shader Language grammar for tree-sitter |
-| 2026-10-15 16:37:11 | [talahon-tools](https://crates.io/crates/talahon-tools) | 2.0.0 | 0 | Built-in agent tools: shell, files, search, web fetch, IPC (send_message, tasks) |
-| 2026-10-15 16:39:47 | [baoflash](https://crates.io/crates/baoflash) | 0.1.0 | 0 | A tool for bare-metal Baochip development |
-| 2026-10-15 16:42:38 | [proteus-gpu](https://crates.io/crates/proteus-gpu) | 0.1.0 | 0 | GPU setup for Proteus hosts: a wgpu device, queue and swap chain for a window o… |
-| 2026-10-15 16:42:38 | [proteus-render](https://crates.io/crates/proteus-render) | 0.1.0 | 0 | Proteus's GPU renderer: the instanced quad pipeline, its shader and the texture… |
-| 2026-10-15 16:42:39 | [proteus-ui](https://crates.io/crates/proteus-ui) | 0.1.0 | 0 | The Proteus component model and transition engine, built on bevy_ecs. |
-| 2026-10-15 16:42:41 | [proteus-sdk](https://crates.io/crates/proteus-sdk) | 0.1.0 | 0 | The Proteus app API: create components, transition them and handle input. |
-| 2026-10-15 16:42:43 | [proteus-runtime](https://crates.io/crates/proteus-runtime) | 0.1.0 | 0 | Runs a Proteus app on a GPU surface: the app/host contract, the engine and its… |
-| 2026-10-15 16:46:08 | [overrules](https://crates.io/crates/overrules) | 0.1.0 | 0 | Evaluate Overture Maps transportation rules (speed limits, access restrictions,… |
-| 2026-10-15 16:47:11 | [talahon-agent](https://crates.io/crates/talahon-agent) | 2.0.0 | 0 | In-container agent runtime: vLLM agent loop, MCP tools, sessions, compaction |
-| 2026-10-15 16:48:59 | [justybase-db2](https://crates.io/crates/justybase-db2) | 0.1.0-alpha.2 | 0 | Native asynchronous DRDA driver for IBM Db2 LUW |
-| 2026-10-15 16:50:01 | [confidant-tui](https://crates.io/crates/confidant-tui) | 0.3.1 | 0 | Terminal UI for Confidant, consuming the ADR-7 CLI JSON contract. |
-| 2026-10-15 16:51:06 | [crush-cosm](https://crates.io/crates/crush-cosm) | 0.6.0 | 0 | COSM — the Crush Object Semantic Model: declarative, serializable object declar… |
-| 2026-10-15 16:51:23 | [polybridge](https://crates.io/crates/polybridge) | 0.0.0 | 0 | placeholder |
-| 2026-10-15 16:52:50 | [nadisc-consul](https://crates.io/crates/nadisc-consul) | 1.0.0 | 0 | Consul 作用域发现、实例所有权与 HTTP/TTL 健康注册适配 |
-| 2026-10-15 16:53:04 | [nadisc-kubernetes](https://crates.io/crates/nadisc-kubernetes) | 1.0.0 | 0 | Kubernetes Service 与 EndpointSlice 只读发现、就绪过滤及有界观察 |
-| 2026-10-15 16:53:33 | [axioval-host-ifc-axiolid](https://crates.io/crates/axioval-host-ifc-axiolid) | 0.5.0 | 0 | Host composition of the Axioval IFC and Axiolid adapters: IFC bodies meshed and… |
-| 2026-10-15 16:54:02 | [creamui-theme-watch](https://crates.io/crates/creamui-theme-watch) | 0.2.0 | 0 | Live CreamUI appearance reload notifications |
-| 2026-10-15 16:54:42 | [proteus-sdk-web](https://crates.io/crates/proteus-sdk-web) | 0.1.0 | 0 | WebAssembly bindings that expose proteus-sdk to JavaScript, for the Proteus Typ… |
-| 2026-10-15 16:55:51 | [qgis-rs](https://crates.io/crates/qgis-rs) | 0.0.0 | 0 | placeholder |
-| 2026-10-15 16:57:11 | [talahon-anon](https://crates.io/crates/talahon-anon) | 2.0.0 | 0 | PII anonymization engine and anonymizing MCP proxy |
-| 2026-10-15 16:58:06 | [qgis-sys](https://crates.io/crates/qgis-sys) | 0.0.0 | 0 | placeholder |
-| 2026-10-15 16:58:45 | [geooquery](https://crates.io/crates/geooquery) | 0.0.0 | 0 | placeholder |
-| 2026-10-15 17:03:18 | [trelloc-core](https://crates.io/crates/trelloc-core) | 0.0.0 | 0 | Unofficial Trello CLI and MCP server (name reserved; first release is 0.1.0) |
-| 2026-10-15 17:03:21 | [trelloc-mcp](https://crates.io/crates/trelloc-mcp) | 0.0.0 | 0 | Unofficial Trello CLI and MCP server (name reserved; first release is 0.1.0) |
-| 2026-10-15 17:03:24 | [trelloc](https://crates.io/crates/trelloc) | 0.0.0 | 0 | Unofficial Trello CLI and MCP server (name reserved; first release is 0.1.0) |
-| 2026-10-15 17:07:23 | [proteus-host-winit](https://crates.io/crates/proteus-host-winit) | 0.1.0 | 0 | Runs a Proteus app in a native desktop window, with winit and wgpu. |
-| 2026-10-15 17:12:26 | [nanoaudio-dsp](https://crates.io/crates/nanoaudio-dsp) | 0.1.0 | 0 | Allocation-free PCM conversion, volume, mixing and single-pass pipelines for em… |
-| 2026-10-15 17:12:34 | [nanoaudio-flac](https://crates.io/crates/nanoaudio-flac) | 0.1.0 | 0 | Allocation-free FLAC decoder for embedded Rust. |
-| 2026-10-15 17:12:37 | [nanoaudio-g722](https://crates.io/crates/nanoaudio-g722) | 0.1.0 | 0 | Allocation-free G.722 wideband speech encoder and decoder for embedded Rust. |
-| 2026-10-15 17:12:40 | [nanoaudio-metadata](https://crates.io/crates/nanoaudio-metadata) | 0.1.0 | 0 | Allocation-free reader for ID3, FLAC, RIFF and AIFF metadata and MP3 VBR header… |
-| 2026-10-15 17:12:44 | [nanoaudio-mp3](https://crates.io/crates/nanoaudio-mp3) | 0.1.0 | 0 | Allocation-free MP3 decoder for embedded Rust, built on nanomp3-core. |
-| 2026-10-15 17:16:07 | [noetic](https://crates.io/crates/noetic) | 0.0.1 | 0 | Game animals that feel alive, for Bevy: the plugin, components, .noetic.ron loa… |
-| 2026-10-15 17:16:08 | [noetic_core](https://crates.io/crates/noetic_core) | 0.0.1 | 0 | Needs, perception, reactions and activity choice for game animals that feel ali… |
-| 2026-10-15 17:18:35 | [proteus-host-web](https://crates.io/crates/proteus-host-web) | 0.1.0 | 0 | Runs a Proteus app on an HTML canvas with WebGPU or WebGL2, from Rust or TypeSc… |
+| 2026-10-15 17:20:03 | [nadisc-runtime](https://crates.io/crates/nadisc-runtime) | 1.0.0 | 0 | 多注册中心具名连接、共享发现证据与多目标注册生命周期 |
+| 2026-10-15 17:21:12 | [nanoaudio-qoa](https://crates.io/crates/nanoaudio-qoa) | 0.1.0 | 0 | Allocation-free QOA (Quite OK Audio) encoder and decoder for embedded Rust. |
+| 2026-10-15 17:22:12 | [phrasebook](https://crates.io/crates/phrasebook) | 0.1.0 | 0 | Fluent localization for Rust web frontends: message catalogs per language, argu… |
+| 2026-10-15 17:24:01 | [ubucargo](https://crates.io/crates/ubucargo) | 0.1.0 | 0 | Create and maintain Ubuntu packages for Rust crates |
+| 2026-10-15 17:28:15 | [metrics-exporter-serialized](https://crates.io/crates/metrics-exporter-serialized) | 0.1.0 | 0 | Serialized metric events with optional compression and recorder replay. |
+| 2026-10-15 17:37:37 | [pm-ahamot-fsdk-2231-hyphen-test](https://crates.io/crates/pm-ahamot-fsdk-2231-hyphen-test) | 0.1.0 | 0 | Rust SDK for pm-ahamot-fsdk-2231-hyphen-test generated by Fern |
+| 2026-10-15 17:37:51 | [odx-analyze](https://crates.io/crates/odx-analyze) | 0.0.4 | 0 | Odoo manifest analysis for odx: check-deps, stats, sniff, status, suggest and u… |
+| 2026-10-15 17:37:52 | [odx-dashboard](https://crates.io/crates/odx-dashboard) | 0.0.4 | 0 | The odx dashboard model with terminal, TUI, Markdown and JSON renderers |
+| 2026-10-15 17:37:53 | [odx-lint](https://crates.io/crates/odx-lint) | 0.0.4 | 0 | odoo-lint integration and project-level rules for odx |
+| 2026-10-15 17:38:00 | [odx-sync](https://crates.io/crates/odx-sync) | 0.0.4 | 0 | Background prefetching, workspace registry and cache locking for odx |
+| 2026-10-15 17:38:00 | [odx-verdicts](https://crates.io/crates/odx-verdicts) | 0.0.4 | 0 | Verdicts and mutes about upstream changes for odx, stored in a private verdict… |
+| 2026-10-15 17:39:23 | [reef-vcs](https://crates.io/crates/reef-vcs) | 0.0.0 | 0 | Reef: version control built for a world where AI agents write most of the code.… |
+| 2026-10-15 17:42:02 | [odx-dev](https://crates.io/crates/odx-dev) | 0.0.4 | 0 | Local development workspaces for odx: addons path, editable installs and packag… |
+| 2026-10-15 17:47:18 | [nanoaudio-sbc](https://crates.io/crates/nanoaudio-sbc) | 0.1.0 | 0 | Allocation-free Bluetooth SBC and mSBC encoder and decoder for embedded Rust. |
+| 2026-10-15 17:47:23 | [nanoaudio-wav](https://crates.io/crates/nanoaudio-wav) | 0.1.0 | 0 | Allocation-free WAV header parser and decoder for PCM, G.711 and ADPCM files. |
+| 2026-10-15 17:47:24 | [reef-daemon](https://crates.io/crates/reef-daemon) | 0.0.0 | 0 | Placeholder for the Reef daemon. Reef is version control built for a world wher… |
+| 2026-10-15 17:47:26 | [reef-lib](https://crates.io/crates/reef-lib) | 0.0.0 | 0 | Placeholder for the Reef core library. Reef is version control built for a worl… |
+| 2026-10-15 17:52:47 | [odx-forge](https://crates.io/crates/odx-forge) | 0.0.4 | 0 | Forge and package index clients for odx: GitHub, GitLab, Gitea/Forgejo, PyPI; t… |
+| 2026-10-15 17:55:37 | [netget-tonic](https://crates.io/crates/netget-tonic) | 0.12.3 | 0 | NetGet fork of tonic: receive-limit bound on gzip/zstd decompression. A gRPC ov… |
+| 2026-10-15 17:55:44 | [netget-kafka-protocol](https://crates.io/crates/netget-kafka-protocol) | 0.14.1 | 0 | NetGet fork of kafka-protocol: decode allocations bounded by the bytes present.… |
+| 2026-10-15 17:55:48 | [netget-h3-quinn](https://crates.io/crates/netget-h3-quinn) | 0.0.10 | 0 | NetGet fork of h3-quinn: cancellation-safe RecvStream (no panic in stop_sending… |
+| 2026-10-15 17:55:52 | [netget-wtransport-proto](https://crates.io/crates/netget-wtransport-proto) | 0.7.2 | 0 | NetGet fork of wtransport-proto: bounded QPACK field sections and checked SETTI… |
+| 2026-10-15 17:55:57 | [netget-async-opcua-core](https://crates.io/crates/netget-async-opcua-core) | 0.19.0 | 0 | NetGet fork of async-opcua-core: chunk length checked before the body is read.… |
+| 2026-10-15 18:02:57 | [odx-index](https://crates.io/crates/odx-index) | 0.0.4 | 0 | Addon to repository index per Odoo series for odx, including renamed and moved… |
+| 2026-10-15 18:06:06 | [netget-openapi-rs](https://crates.io/crates/netget-openapi-rs) | 0.1.0 | 0 | NetGet fork of openapi-rs: published from baerwang/openapi-rs (unpublished upst… |
+| 2026-10-15 18:06:13 | [foedus](https://crates.io/crates/foedus) | 0.1.0 | 0 | rete sine imperio, amici sine numero |
+| 2026-10-15 18:06:32 | [icq-mainline](https://crates.io/crates/icq-mainline) | 8.0.1-icq.1 | 0 | Simple, robust, BitTorrent's Mainline DHT implementation |
+| 2026-10-15 18:12:32 | [mdrn-sdk](https://crates.io/crates/mdrn-sdk) | 0.3.1 | 0 | The MDRN SDK: Database, Files, Mail and Auth for a deployed MDRN app |
+| 2026-10-15 18:12:50 | [odx-platform](https://crates.io/crates/odx-platform) | 0.0.4 | 0 | Platform profiles, provided-package sets, requirements export, wheel builds and… |
+| 2026-10-15 18:16:29 | [netget-tonic-web](https://crates.io/crates/netget-tonic-web) | 0.12.3 | 0 | NetGet fork of tonic-web: built against netget-tonic. grpc-web protocol transla… |
 
 ## Data source
 
