@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T09:22:04.314291Z,mathscape-evolve,0.1.6,0,0,https://github.com/pleme-io/mathscape,"Genetic operators, population management, tournament selection, MAP-Elites"
+2026-10-15T09:22:29.978214Z,zgui-shader,0.1.0,0,0,https://github.com/zortax/zgui,Custom application shaders for zgui elements
+2026-10-15T09:23:44.218638Z,hadris-cpio-raw,0.1.0,0,0,https://github.com/hxyulin/hadris,CPIO on-disk layouts and I/O-free codecs
+2026-10-15T09:23:44.919395Z,hadris-udf-raw,0.1.0,0,0,https://github.com/hxyulin/hadris,UDF on-disk layouts and I/O-free codecs
+2026-10-15T09:23:57.311504Z,hadris-iso-raw,0.1.0,0,0,https://github.com/hxyulin/hadris,ISO on-disk layouts and I/O-free codecs
+2026-10-15T09:24:59.770708Z,renamite-io-raster,0.3.17,0,0,,Raster (pixel-art sprite sheet) import and tracing for renamite.
+2026-10-15T09:26:59.03252Z,ferroui-winui,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"Reserved name: the WinUI integration of FerroUI, which is not ported yet. This version is an empty placeholder"
+2026-10-15T09:32:05.307848Z,mathscape-proof,0.1.6,0,0,https://github.com/pleme-io/mathscape,"Proof construction, verification, composition, Lean 4 export"
+2026-10-15T09:34:20.026833Z,zgui-wgpu,0.1.0,0,0,https://github.com/zortax/zgui,Surface elements that show textures from another wgpu renderer
+2026-10-15T09:35:14.277911Z,pgloupe,0.1.0-alpha.2,0,0,https://github.com/vtrbraga/pgloupe,A close look at your Postgres logs and query stats.
+2026-10-15T09:38:01.693954Z,microcom-codegen,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,Code generator of the FerroUI interop runtime: a C++ header and Rust bindings from an interface definition file
+2026-10-15T09:39:33.145497Z,knut-format,2026.10.3,0,0,https://github.com/mocnik-science/knut,"File format of knut: data structures, codecs, and block encoding for compact OpenStreetMap history (no I/O)"
+2026-10-15T09:39:35.989244Z,knut-builder,2026.10.3,0,0,https://github.com/mocnik-science/knut,Converts OpenStreetMap history PBF files into knut databases (.knutdb)
+2026-10-15T09:39:37.072105Z,knut-lang,2026.10.3,0,0,https://github.com/mocnik-science/knut,"Lexer, parser, and diagnostics of the knut query language for OpenStreetMap"
+2026-10-15T09:39:39.400326Z,knut,2026.10.3,0,0,https://github.com/mocnik-science/knut,"Reader and query engine for knut databases: compact OpenStreetMap history, memory-mapped, with a space-time index"
+2026-10-15T09:39:40.183338Z,knut-plan,2026.10.3,0,0,https://github.com/mocnik-science/knut,"Name resolution, type, and unit checks, and pushdown analysis for the knut query language"
+2026-10-15T09:43:49.869555Z,groundlens-core,6.0.1,0,0,https://github.com/groundlens-dev/groundlens,"Core contracts of the GroundLens verification engine: claims, evidence, verifier trait, canonical hashing, determinism classes"
+2026-10-15T09:43:56.143163Z,groundlens-text,6.0.1,0,0,https://github.com/groundlens-dev/groundlens,Input normalisation and word segmentation for the GroundLens engine
+2026-10-15T09:44:02.749983Z,groundlens-numeric,6.0.1,0,0,https://github.com/groundlens-dev/groundlens,"Exact numerals with scale, currency, percent and physical units for the GroundLens engine"
+2026-10-15T09:44:07.002974Z,groundlens-policy,6.0.1,0,0,https://github.com/groundlens-dev/groundlens,Policy engine of the GroundLens engine: composes evidence into a decision and maps it to regulatory controls
+2026-10-15T09:44:10.744647Z,groundlens-runtime,6.0.1,0,0,https://github.com/groundlens-dev/groundlens,"Execution-verification contracts for GroundLens: runs, events and the identities they reference. Pure data, no I/O and no network."
+2026-10-15T09:46:01.109933Z,appcore-render,1.0.0-rc.1,0,0,https://github.com/dnettoRaw/app-core-public,E3DN bounded standalone native graphics foundation
+2026-10-15T09:46:11.803595Z,zgui,0.1.0,0,0,https://github.com/zortax/zgui,"Native Rust UI framework with fine-grained signals, CSS and a retained GPU renderer"
+2026-10-15T09:46:14.596698Z,zgui-devtools,0.1.0,0,0,https://github.com/zortax/zgui,"Inspector for zgui windows: document, styles, layout and frame stats"
+2026-10-15T09:49:05.059008Z,xamlx,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,Rust port of the backend-independent part of XamlX (XAML compiler library)
+2026-10-15T09:54:51.160342Z,groundlens-mcp,6.0.1,0,0,https://github.com/groundlens-dev/groundlens,"The MCP adapter for GroundLens: turn a real Model Context Protocol execution (tool calls, results, model sampling) into a signed-ready event log. Records hashes, not content."
+2026-10-15T09:56:55.968157Z,libero-macros,0.2.0,0,0,https://github.com/tdymel/libero,Derive macros for libero.
+2026-10-15T09:57:20.446489Z,holochain-conductor-runtime,0.1.0,0,0,https://github.com/holochain/runtime-tauri,"Framework-free wrapper around the Holochain conductor, called in-process"
+2026-10-15T09:57:34.448493Z,shim-quantum,0.1.0,0,0,https://github.com/erikkallman/shim,"Quantum circuits and channels modelled with traits from category theory, with a bridge to PennyLane"
+2026-10-15T09:58:05.746917Z,zgui-ui-icons,0.1.0,0,0,https://github.com/zortax/zgui,Vector icon set for zgui-ui
+2026-10-15T09:58:23.35451Z,magnetar-runtime,1.0.0-RC0,0,0,https://github.com/astorise/Magnetar,Hardware-agnostic execution runtime contracts for magnetar.
+2026-10-15T10:00:09.34001Z,ferroui-markup-xaml-loader,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,The FerroUI XAML language definition and compiler extensions built on xamlx
+2026-10-15T10:01:05.967354Z,tts-core,0.1.0,0,0,https://github.com/SpenserCai/tts-rs,"Portable audio, prompt envelopes, and inference contracts for tts-rs"
+2026-10-15T10:01:06.444079Z,tts-cosyvoice,0.1.0,0,0,https://github.com/SpenserCai/tts-rs,Candle inference components for CosyVoice 3 speech synthesis
+2026-10-15T10:01:07.513612Z,tts-qwen,0.1.0,0,0,https://github.com/SpenserCai/tts-rs,Local Candle inference for Qwen3-TTS
+2026-10-15T10:01:09.544046Z,candle-tts,0.1.0,0,0,https://github.com/SpenserCai/tts-rs,Modular local speech synthesis with Candle
+2026-10-15T10:02:22.630532Z,magnetar-format-safetensors,1.0.0-RC0,0,0,https://github.com/astorise/Magnetar-format-safetensors,safetensors container parser for the Magnetar inference runtime.
+2026-10-15T10:02:24.954112Z,magnetar-format-gguf,1.0.0-RC0,0,0,https://github.com/astorise/Magnetar-format-GGUF,GGUF container parser for the Magnetar inference runtime.
+2026-10-15T10:04:52.483308Z,magnetar-component-Llama,1.0.0-RC0,0,0,https://github.com/astorise/Magnetar-component-Llama,Llama model Component (WebAssembly) template for the Magnetar inference runtime.
+2026-10-15T10:04:53.968459Z,magnetar-component-Qwen,1.0.0-RC0,0,0,https://github.com/astorise/Magnetar-component-Qwen,Qwen model Component (WebAssembly) for the Magnetar inference runtime.
+2026-10-15T10:05:07.982725Z,groundlens-verifiers,6.0.1,0,0,https://github.com/groundlens-dev/groundlens,"Built-in verifiers for the GroundLens engine: numeric, scope, intent and rules, all exact, and the claim extractor"
+2026-10-15T10:09:57.020593Z,zgui-ui-primitives,0.1.0,0,0,https://github.com/zortax/zgui,Headless interaction primitives for zgui-ui
+2026-10-15T10:11:13.083978Z,ferroui-build,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,Build-script support of FerroUI: compiles the markup documents of a crate to Rust source and embeds its assets
+2026-10-15T10:14:17.038421Z,magnetar-loader-gguf,1.0.0-RC0,0,0,https://github.com/astorise/Magnetar-loader-GGUF,GGUF production model loader for the Magnetar inference runtime.
+2026-10-15T10:15:26.873099Z,groundlens-record,6.0.1,0,0,https://github.com/groundlens-dev/groundlens,"Signed, append-only evidence records for the GroundLens engine"
+2026-10-15T10:16:02.059501Z,leanelpi,0.3.0,0,0,https://github.com/Volland/lean-elpi,"Rust bindings for LeanElpi, the ELPI dialect of λProlog implemented in Lean 4"
