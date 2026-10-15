@@ -1,0 +1,53 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T04:19:23.756343Z,ducy-gto,0.1.0,0,0,https://github.com/allenpiscitello/ducy,"Game-theory-optimal poker strategies with counterfactual regret minimization, built on ducy."
+2026-10-15T04:20:44.16596Z,vyna-hl7-convert,0.9.0,0,0,https://github.com/FlostelInfoTech/vynahl7,Schema-driven cross-version conversion for HL7 v2.x messages
+2026-10-15T04:23:02.626386Z,rig-inspect,0.44.1,0,0,https://github.com/0xPlaygrounds/rig,Placeholder reserving this name for the Rig project. The real crate will be published from https://github.com/0xPlaygrounds/rig.
+2026-10-15T04:25:41.055843Z,zgui-text,0.1.0,0,0,https://github.com/zortax/zgui,Text contracts shared by zgui crates
+2026-10-15T04:30:56.132067Z,vyna-hl7-custom,0.9.0,0,0,https://github.com/FlostelInfoTech/vynahl7,Framework for defining and registering custom Z-segments in HL7 v2.x messages
+2026-10-15T04:33:03.206868Z,rig-print,0.44.1,0,0,https://github.com/0xPlaygrounds/rig,Placeholder reserving this name for the Rig project. The real crate will be published from https://github.com/0xPlaygrounds/rig.
+2026-10-15T04:35:42.543023Z,rules-machine,0.1.1,0,0,https://github.com/elite-libs/rules-machine,JSON-serializable rules engine: experimental Rust subset of Rules Machine
+2026-10-15T04:37:49.493061Z,zgui-text-parley,0.1.0,0,0,https://github.com/zortax/zgui,"Text engine for zgui, built on Parley"
+2026-10-15T04:37:50.046028Z,zgui-tokio,0.1.0,0,0,https://github.com/zortax/zgui,Tokio integration for zgui applications
+2026-10-15T04:41:14.323323Z,vyna-hl7-fhir,0.9.0,0,0,https://github.com/FlostelInfoTech/vynahl7,HL7 v2.x to FHIR R4 conversion library with 12 production-ready converters
+2026-10-15T04:43:02.738429Z,rig-reload,0.44.1,0,0,https://github.com/0xPlaygrounds/rig,Placeholder reserving this name for the Rig project. The real crate will be published from https://github.com/0xPlaygrounds/rig.
+2026-10-15T04:49:09.947816Z,tape-ed25519,0.1.0,0,0,https://github.com/spool-labs/tape-ed25519,"Ed25519 verification under the ZIP-215 rules, one signature at a time or eight lanes wide"
+2026-10-15T04:49:36.623277Z,zgui-vocab,0.1.0,0,0,https://github.com/zortax/zgui,Shared types for the zgui view layer and document
+2026-10-15T04:50:05.273507Z,terminal-ui-runtime,0.1.0,0,0,https://github.com/JerrySkywalker/terminal-ui-contract,Bounded read-only refresh scheduling for terminal interfaces
+2026-10-15T04:50:41.286054Z,vyna-hl7-http,0.9.0,0,0,https://github.com/FlostelInfoTech/vynahl7,HTTP transport for HL7 v2.x messages (inter-organization communication)
+2026-10-15T04:52:13.778339Z,terminal-ui-ratatui,0.1.0,0,0,https://github.com/JerrySkywalker/terminal-ui-contract,Ratatui presentation and terminal input adapter for terminal-ui-contract
+2026-10-15T04:53:02.993966Z,rig-splits,0.44.1,0,0,https://github.com/0xPlaygrounds/rig,Placeholder reserving this name for the Rig project. The real crate will be published from https://github.com/0xPlaygrounds/rig.
+2026-10-15T04:55:51.855403Z,scitt-cose-receipt,0.1.0,0,0,https://github.com/action-state-group/scitt-cose,"Offline verifier for SCITT COSE Receipts with RFC 9162 SHA-256 inclusion proofs: checks the log's signature under a pinned key and rebuilds the Merkle root. No network code, no receipt issuance."
+2026-10-15T04:56:29.338711Z,tessaridb-s3-client,0.1.2,0,0,https://github.com/tessaridb/tessaridb-s3-client,"An async Rust client for S3-compatible object storage, built for moving files"
+2026-10-15T04:57:38.28937Z,fdk-aac-rs-fdk,0.0.1,0,0,https://github.com/elementarystream/fdk-aac-rs,"Internal crate of fdk-aac-rs: Fixed-point DSP, bitstream and system primitives (port of libFDK and libSYS). Not a public API; use the fdk-aac-rs crate."
+2026-10-15T04:57:40.275997Z,fdk-aac-rs-arith,0.0.1,0,0,https://github.com/elementarystream/fdk-aac-rs,Internal crate of fdk-aac-rs: USAC arithmetic decoder (port of libArithCoding). Not a public API; use the fdk-aac-rs crate.
+2026-10-15T04:57:40.534896Z,fdk-aac-rs-drc,0.0.1,0,0,https://github.com/elementarystream/fdk-aac-rs,Internal crate of fdk-aac-rs: MPEG-D DRC decoder (port of libDRCdec). Not a public API; use the fdk-aac-rs crate.
+2026-10-15T04:57:41.029892Z,fdk-aac-rs-pcmutils,0.0.1,0,0,https://github.com/elementarystream/fdk-aac-rs,"Internal crate of fdk-aac-rs: PCM utilities: limiter, downmix (port of libPCMutils). Not a public API; use the fdk-aac-rs crate."
+2026-10-15T04:57:41.311577Z,fdk-aac-rs-sacdec,0.0.1,0,0,https://github.com/elementarystream/fdk-aac-rs,Internal crate of fdk-aac-rs: MPEG Surround decoder (port of libSACdec). Not a public API; use the fdk-aac-rs crate.
+2026-10-15T04:59:08.737526Z,fdk-aac-rs-sacenc,0.0.1,0,0,https://github.com/elementarystream/fdk-aac-rs,Internal crate of fdk-aac-rs: MPEG Surround encoder (port of libSACenc). Not a public API; use the fdk-aac-rs crate.
+2026-10-15T05:00:27.078476Z,legion-guest,0.1.0,0,0,https://github.com/mikenomitch/legion,"The in-guest half of Legion's sandbox runtime: the gated datapath relay, the resume handler, and guest addressing"
+2026-10-15T05:00:29.800971Z,legion-rs,0.1.0,0,0,https://github.com/mikenomitch/legion,A workload orchestrator that is quick to start and scales to thousands of nodes
+2026-10-15T05:00:51.627583Z,vyna-hl7-mllp,0.9.0,0,0,https://github.com/FlostelInfoTech/vynahl7,MLLP (Minimal Lower Layer Protocol) support for HL7 message transmission
+2026-10-15T05:01:25.042067Z,zgui-dom,0.1.0,0,0,https://github.com/zortax/zgui,The zgui document: an arena of nodes and their records
+2026-10-15T05:01:37.212238Z,turbojet-fast,0.3.1,0,0,https://github.com/jrogers/turbojet,FAST (FIX Adapted for STreaming) 1.1 for Turbojet: messages decoded and encoded with templates loaded at runtime
+2026-10-15T05:01:41.559363Z,radroots,0.0.0,0,0,https://github.com/radrootslabs/ffi,Rust SDK for Radroots.
+2026-10-15T05:02:45.761253Z,fig-sys-macos-x64,6.0.0,0,0,https://github.com/diaryx-org/fig,Prebuilt fig core and language libraries for x86_64-apple-darwin. Support crate for fig-sys; not for direct use.
+2026-10-15T05:02:49.392119Z,fig-sys-linux-x64-musl,6.0.0,0,0,https://github.com/diaryx-org/fig,Prebuilt fig core and language libraries for x86_64-unknown-linux-musl. Support crate for fig-sys; not for direct use.
+2026-10-15T05:02:52.994762Z,fig-sys-linux-arm64-musl,6.0.0,0,0,https://github.com/diaryx-org/fig,Prebuilt fig core and language libraries for aarch64-unknown-linux-musl. Support crate for fig-sys; not for direct use.
+2026-10-15T05:02:56.477629Z,fig-sys-android-arm64,6.0.0,0,0,https://github.com/diaryx-org/fig,Prebuilt fig core and language libraries for aarch64-linux-android. Support crate for fig-sys; not for direct use.
+2026-10-15T05:03:00.249328Z,fig-sys-android-x64,6.0.0,0,0,https://github.com/diaryx-org/fig,Prebuilt fig core and language libraries for x86_64-linux-android. Support crate for fig-sys; not for direct use.
+2026-10-15T05:03:03.230232Z,rig-compaction,0.44.1,0,0,https://github.com/0xPlaygrounds/rig,Placeholder reserving this name for the Rig project. The real crate will be published from https://github.com/0xPlaygrounds/rig.
+2026-10-15T05:05:08.381475Z,suritap,0.1.0-rc1,0,0,https://github.com/jc-lab/suricontroller,Client library and protocol for suritap: TLS-terminating proxies hand plaintext to the Suricata suritap capture plugin and get per-request verdicts
+2026-10-15T05:06:34.049999Z,cxstd,0.1.0,0,0,https://github.com/wcxlab/cxstd,Shared window interfaces and types based on winit.
+2026-10-15T05:08:20.701279Z,ecomsec-audit,0.1.1,0,0,https://github.com/liohtml/ecom-sec,Optional AI audit for ecomsec: an agent with read-only tools that reviews scan findings
+2026-10-15T05:08:21.198809Z,ecomsec-jtl5,0.1.1,0,0,https://github.com/liohtml/ecom-sec,ecomsec platform adapter: jtl5
+2026-10-15T05:08:21.71661Z,ecomsec-magento2,0.1.1,0,0,https://github.com/liohtml/ecom-sec,ecomsec platform adapter: Magento 2 / Adobe Commerce
+2026-10-15T05:08:22.140407Z,ecomsec-shopware6,0.1.1,0,0,https://github.com/liohtml/ecom-sec,ecomsec platform adapter: shopware6
+2026-10-15T05:08:23.398759Z,ecomsec,0.1.1,0,0,https://github.com/liohtml/ecom-sec,ecomsec – compromise check (Kompromittierungs-Check) for e-commerce installations
+2026-10-15T05:09:08.166707Z,fdk-aac-rs-sbrdec,0.0.1,0,0,https://github.com/elementarystream/fdk-aac-rs,Internal crate of fdk-aac-rs: SBR and PS decoder (port of libSBRdec). Not a public API; use the fdk-aac-rs crate.
+2026-10-15T05:09:37.975339Z,wai-quantum-qpu,0.1.0,0,0,https://git.transaction.science/Transaction-Science/open-standards,"Quantum processors as members of the wai-quantum fabric: clients for the services that run circuits on them. Each circuit is compiled exactly to the processor's own gates and connectivity, checked ag…"
+2026-10-15T05:10:17.187221Z,jogile,0.0.1-alpha,0,0,,Early work in progress. Nothing usable yet.
+2026-10-15T05:11:02.499319Z,vyna-hl7-orchestration,0.9.0,0,0,https://github.com/FlostelInfoTech/vynahl7,"Message routing, orchestration, and workflow engine for HL7 v2.x messages"
+2026-10-15T05:13:02.528862Z,rig-coding-tools,0.44.1,0,0,https://github.com/0xPlaygrounds/rig,Placeholder reserving this name for the Rig project. The real crate will be published from https://github.com/0xPlaygrounds/rig.
+2026-10-15T05:13:08.446582Z,zgui-platform,0.1.0,0,0,https://github.com/zortax/zgui,Platform contract that windowing backends implement
+2026-10-15T05:14:06.455105Z,fig-sys-wasm32-wasi,6.0.0,0,0,https://github.com/diaryx-org/fig,Prebuilt fig core and language libraries for wasm32-wasip1. Support crate for fig-sys; not for direct use.
+2026-10-15T05:19:08.733688Z,fdk-aac-rs-sbrenc,0.0.1,0,0,https://github.com/elementarystream/fdk-aac-rs,Internal crate of fdk-aac-rs: SBR and PS encoder (port of libSBRenc). Not a public API; use the fdk-aac-rs crate.
