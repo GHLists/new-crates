@@ -1,0 +1,76 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T21:19:41.5659Z,fc-theme,0.1.0,0,0,https://github.com/rexlunae/future-css,"Custom theme validation, TOML and design overrides for the future-css theme picker"
+2026-10-15T21:21:04.835256Z,browser_manipulation,0.4.4,0,0,https://github.com/EV-Main/browser_manipulation,"One Playwright-protocol browser framework: patchright driver, human-shaped Motion, capture-on-failure"
+2026-10-15T21:21:29.607634Z,zootella-ergo,0.1.0,0,0,https://github.com/zootella/ergo,"Simple, dependency-free helper functions, the same in JavaScript, Python, Rust, and Go."
+2026-10-15T21:21:48.123898Z,handwired-rs,0.1.0,0,0,https://github.com/mighty840/handwired-rs,Exact f32 circuits from ordinary Rust: a port of chenglou/handwired
+2026-10-15T21:22:11.559912Z,handwired-rs-gpu,0.1.0,0,0,https://github.com/mighty840/handwired-rs,"Run handwired circuits as WebGPU compute shaders, bit-exact with the CPU reference"
+2026-10-15T21:24:42.325421Z,quireink-plugin-aids,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk reading aids: bold word beginnings and replaced words, as text filters"
+2026-10-15T21:24:49.438531Z,crcbl-frame,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible frame core: render graph, transient pool, texture uploads and the UI pass"
+2026-10-15T21:27:54.314649Z,libp2p-peer-store,0.1.0,0,0,https://github.com/libp2p/rust-libp2p,A libp2p peer store
+2026-10-15T21:28:02.3961Z,aldebaran-primitive-macro,0.1.0,0,0,https://github.com/wafkse/aldebaran,Macros for enumerating and classifying Rust primitive types
+2026-10-15T21:28:03.288701Z,aldebaran-print,0.1.0,0,0,https://github.com/wafkse/aldebaran,Sink-oriented no_std printing with optional external context
+2026-10-15T21:28:04.165742Z,aldebaran-report-codegen,0.1.0,0,0,https://github.com/wafkse/aldebaran,Code generation for Aldebaran diagnostic report derives
+2026-10-15T21:28:41.173147Z,piu_cron,0.139.0,0,0,https://github.com/denoland/deno,Implementation of the Deno cron API
+2026-10-15T21:29:34.710988Z,backstep,0.1.0,0,0,https://github.com/merely-made/mere,"Undo and redo over whole-document snapshots, with keyed coalescing on a host clock and a saved marker."
+2026-10-15T21:29:41.620256Z,fc-tokens,0.1.1,0,0,https://github.com/rexlunae/fc-dioxus,"Generated future-css token names and values, without a UI framework"
+2026-10-15T21:34:49.202897Z,quireink-plugin-browser,0.1.1,0,0,https://github.com/hthoene/quireink,QuireInk browser: reads web pages like books and fetches books and fonts from the web
+2026-10-15T21:34:50.265364Z,crcbl-ecs,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible entity system: system-owned arrays
+2026-10-15T21:35:02.026464Z,aldebaran-style,0.1.0,0,0,https://github.com/wafkse/aldebaran,Generic text styling abstractions
+2026-10-15T21:39:41.566289Z,fc-a11y,0.1.1,0,0,https://github.com/rexlunae/fc-dioxus,Framework-independent static accessibility checks for HTML
+2026-10-15T21:40:30.230011Z,larust-http,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T21:40:41.51736Z,aident-scan,0.1.0,0,0,https://github.com/nimblemo/aident,Turn a single product photo into one validated product-understanding document with exactly one vision-model call.
+2026-10-15T21:42:39.757026Z,zem-addon-protocol,0.1.0,0,0,https://github.com/zem-sh/zem,Wire protocol shared by the zem host and zem addons: request/response JSON over line-delimited Unix sockets
+2026-10-15T21:42:40.465729Z,piu_crypto_provider,0.53.0,0,0,https://github.com/denoland/deno,Cryptography provider for Deno
+2026-10-15T21:43:06.832691Z,zem-addon-sdk,0.1.0,0,0,https://github.com/zem-sh/zem,"Build zem addons: panes, actions, events, and host services over a JSON Unix-socket protocol"
+2026-10-15T21:44:49.482583Z,crcbl-phys,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible physics: queries, forces, CCD"
+2026-10-15T21:44:56.865054Z,quireink-plugin-diagnostics,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk diagnostics screen: gray levels, focus navigation, refresh modes"
+2026-10-15T21:45:07.083574Z,larust-auth,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T21:45:47.072208Z,larust-cli,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T21:46:10.70028Z,larust-live,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T21:46:41.45061Z,larust-mssql,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T21:46:57.621135Z,larust-queue,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T21:49:32.470852Z,opentelemetry-rare-error-sampling,0.1.0,0,0,https://github.com/valkum/otel-rare-error-sampling-rust,In-process tail sampling for OpenTelemetry: export every error span plus a head-sampled share of the rest
+2026-10-15T21:49:43.985824Z,fc-dioxus,0.1.1,0,0,https://github.com/rexlunae/fc-dioxus,"Typed, accessible Dioxus components over future-css"
+2026-10-15T21:51:04.213993Z,streaming-service-sync,0.1.0,0,0,https://github.com/rnortman/streaming-service-sync,"Export a Pandora account to a local data repository and migrate it to Spotify, with LLM-assisted track matching"
+2026-10-15T21:52:18.697514Z,aldebaran-ansi,0.1.0,0,0,https://github.com/wafkse/aldebaran,ANSI terminal styling primitives for Aldebaran
+2026-10-15T21:52:19.687246Z,aldebaran-logic,0.1.0,0,0,https://github.com/wafkse/aldebaran,"Composable assertions, predicates, and classification for arbitrary inputs"
+2026-10-15T21:53:29.913865Z,piu_crypto,0.273.0,0,0,https://github.com/denoland/deno,Web Cryptography API implementation for Deno
+2026-10-15T21:54:49.634015Z,crcbl-render,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible renderer: the 3D frame on crcbl-frame — meshes, materials, lights, effects"
+2026-10-15T21:54:56.417016Z,bashkit-cpython-wasm,0.19.0,0,0,https://github.com/everruns/bashkit,"CPython 3.14 compiled to WASI with a pre-initialized snapshot, for bashkit's sandboxed python3"
+2026-10-15T21:55:03.16944Z,quireink-fs,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk storage on a host file system directory, for shells with std (desktop, Android, Linux)"
+2026-10-15T21:55:04.278462Z,nwyd-ui,0.1.0,0,0,https://github.com/notwyd/nwyd,"User interface state, layout, and drawing commands for the NWYD client"
+2026-10-15T21:56:51.64416Z,larust-reverb,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T21:57:00.629468Z,ternwire,0.1.1,0,0,https://github.com/ternwire/ternwire-rust,Async Rust client for the Ternwire transactional email API
+2026-10-15T21:57:35.583764Z,xflash,0.2.0,0,0,https://github.com/landaire/acceleration,Xbox 360 devkit flash image parser
+2026-10-15T21:57:36.423296Z,shadowboot,0.2.0,0,0,https://github.com/landaire/acceleration,Xbox 360 devkit shadowboot image compiler
+2026-10-15T21:57:40.854424Z,xex2ool,0.2.0,0,0,https://github.com/landaire/acceleration,Command-line tool for inspecting and modifying Xbox 360 XEX2 executables
+2026-10-15T21:57:58.851751Z,bashkit-scripted-tool,0.19.0,0,0,https://github.com/everruns/bashkit,ScriptedTool for bashkit: compose ToolDef callbacks into one LLM tool driven by bash scripts
+2026-10-15T21:59:15.420529Z,ppoppo-call,1.0.0,0,0,https://github.com/hakchin/ppoppo,"The caller-to-client seam of a credentialed ppoppo call — the credential a caller supplies, the outcome a call returns, the events a resumed connection reports"
+2026-10-15T21:59:21.01755Z,brisvox-core,0.1.1,0,0,https://github.com/bilal07karadeniz/brisvox,"Brisvox core: frames, processors, pipeline, clock, turn epochs"
+2026-10-15T21:59:23.255593Z,ppoppo-claims,1.0.0,0,0,https://github.com/hakchin/ppoppo,The PAS token payload — access-token and id-token claims — and the revocation and replay ports a ppoppo token verifier consults
+2026-10-15T21:59:31.976654Z,brisvox-audio,0.1.1,0,0,https://github.com/bilal07karadeniz/brisvox,"Brisvox audio: codecs, resampling, buffers, output pacing"
+2026-10-15T21:59:38.025185Z,brisvox-inference,0.1.1,0,0,https://github.com/bilal07karadeniz/brisvox,"Brisvox inference: dedicated CPU pool and on-device models (VAD, turn detection)"
+2026-10-15T21:59:44.172856Z,ppoppo-engine-jwt,1.0.0,0,0,https://github.com/hakchin/ppoppo,"JWT (RFC 9068 access token + OIDC id_token, EdDSA) verification engine for the Ppoppo SDK family: the one decode function behind RFC 8725 mitigations, KeySet / JWKS parsing, and the JWKS cache's fres…"
+2026-10-15T21:59:50.811197Z,ppoppo-engine-resume,1.0.0,0,0,https://github.com/hakchin/ppoppo,"Resume mechanism for the Ppoppo SDK family: the sans-I/O supervisor every long-lived ppoppo stream reconnects through — backoff schedule, in-memory cursor, idle bound, credential re-mint once, connec…"
+2026-10-15T21:59:55.772727Z,ppoppo-engine-credential,1.0.0,0,0,https://github.com/hakchin/ppoppo,"Credential-acquisition mechanism for the Ppoppo SDK family: the single-flight token cache, the OAuth2 client_credentials and RFC 8693 token-exchange sources, the RFC 6749 §5.2 token-endpoint refusal…"
+2026-10-15T22:00:00.027393Z,brisvox-agent,0.1.1,0,0,https://github.com/bilal07karadeniz/brisvox,"Brisvox agent: turn taking, interruptions, context, tools, TTS segmentation"
+2026-10-15T22:00:05.482543Z,brisvox-providers,0.1.1,0,0,https://github.com/bilal07karadeniz/brisvox,Brisvox providers: STT / LLM / TTS traits and adapters
+2026-10-15T22:02:18.944181Z,aldebaran-primitive-core,0.1.0,0,0,https://github.com/wafkse/aldebaran,Generic traits and operations over Rust primitive types
+2026-10-15T22:04:11.077678Z,piu_denort_helper,0.57.0,0,0,https://github.com/denoland/deno,Helpers for denort.
+2026-10-15T22:04:50.09488Z,crcbl-dx12,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible Direct3D 12 backend — Windows
+2026-10-15T22:05:11.251664Z,ppoppo-engine-issuer,1.0.0,0,0,https://github.com/hakchin/ppoppo,"JWT (RFC 9068 access token + OIDC id_token, EdDSA) issuance engine for the Ppoppo SDK family: SigningKey and the one encoder per profile. PAS mints with it; the SDK test kits mint through it so a fak…"
+2026-10-15T22:05:11.649028Z,quireink-stardict,0.1.1,0,0,https://github.com/hthoene/quireink,"StarDict dictionaries for QuireInk: looked up in place, with dictzip, synonyms and little memory (no_std)"
+2026-10-15T22:09:38.238002Z,shhoq,0.0.0,0,0,https://github.com/romzorus/shhoq,placeholder
+2026-10-15T22:10:16.253619Z,brisvox-sim,0.1.1,0,0,https://github.com/bilal07karadeniz/brisvox,"Brisvox simulation: mock providers, deterministic simulator, fixtures"
+2026-10-15T22:11:05.709328Z,larust-scheduler,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T22:12:35.898877Z,netget-tool,0.3.3,0,0,https://github.com/netget-net/netget,"Network protocol stubbing toolkit: ~280 protocol servers and clients whose responses come from an LLM, a script, a static rule or a person."
+2026-10-15T22:14:43.583098Z,aident,0.2.0,0,0,https://github.com/nimblemo/aident,Единая точка входа (лаунчер) для семейства утилит автоматизации разработки продуктов.
+2026-10-15T22:14:51.743047Z,piu_dotenv,0.28.0,0,0,https://github.com/denoland/deno,dotenv file parser for Deno
+2026-10-15T22:15:00.890162Z,heldkeys,0.1.0,0,0,https://github.com/hugomn/heldkeys,"Which credentials could a hijacked AI agent use from here? Read-only, never prints a secret."
+2026-10-15T22:15:28.266543Z,view-cli,0.1.0,0,0,https://github.com/fabiommendes/view,"Open files, URLs and stdin in the right terminal viewer, inside a pager"
+2026-10-15T22:15:33.94234Z,larust-sitemap,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T22:15:38.981994Z,ppoppo-engine-grpc,1.0.0,0,0,https://github.com/hakchin/ppoppo,"gRPC-client mechanism for the Ppoppo SDK family: the GKE path-prefix channel (dialed or gRPC-Web), the credentialed call (pace, authenticate, re-mint, classify), the per-credential Pacer, the Bearer…"
+2026-10-15T22:16:53.2023Z,genet-text,0.1.0,0,0,https://github.com/merely-made/genet,Versioned Unicode text boundaries and explicit text offsets for Genet consumers
+2026-10-15T22:18:59.029232Z,crcbl-mtl,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible Metal backend — macOS
+2026-10-15T22:19:49.190868Z,lua-virtualizer,1.0.0,0,0,https://github.com/PELock/Lua-Virtualizer-Rust,"Lua Virtualizer Web API interface can help you obfuscate and protect Lua .lua source code against analysis, reverse engineering and technology theft. Lua Virtualizer provides advanced Lua source code…"
+2026-10-15T22:20:45.35571Z,brisvox-transport,0.1.1,0,0,https://github.com/bilal07karadeniz/brisvox,"Brisvox transports: websocket, telephony, WebRTC"
