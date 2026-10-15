@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T00:22:57.794854Z,fuel-posttrain,0.19.1,0,0,https://github.com/ciresnave/fuel,Post-training model compression for the Fuel ML framework: quantization-calibration and pruning techniques applied to a loaded model's weights.
+2026-10-15T00:23:43.959584Z,sci-spatial,0.0.0,0,0,https://github.com/p-sira/sci,WIP: Spatial geometry and nearest-neighbor methods; initial release in development
+2026-10-15T00:35:59.405401Z,fonts-rs-tabler-cheat-sheet,0.5.0,0,0,https://github.com/smearor/fonts-rs,Tabler Icons cheat sheet application
+2026-10-15T00:40:21.481427Z,shrub,0.0.1,0,0,https://github.com/victor-software-house/shrub,"A cut-down, cleaned-up hard fork of brush, the bash-compatible shell in Rust, for embedding. Early release; the shell crates land in the next versions."
+2026-10-15T00:40:59.821555Z,mcpdef-secrets,0.4.0,0,0,https://github.com/lucheeseng827/nick-rust-project,"MCPdef — where a secret comes from (a literal, an environment variable or a file), read when needed into memory wiped on drop (OSS engine)."
+2026-10-15T00:43:21.141535Z,mcpdef-console,0.4.0,0,0,https://github.com/lucheeseng827/nick-rust-project,"MCPdef — the console's built files (HTML, scripts, styles, fonts), each with its brotli and gzip forms, embedded for the gateway's admin listener to serve. Built from console/ with Node; building thi…"
+2026-10-15T00:43:47.286705Z,fuel-transformers,0.19.1,0,0,https://github.com/ciresnave/fuel,Minimalist ML framework.
+2026-10-15T00:44:14.523448Z,fuel-inference,0.19.1,0,0,https://github.com/ciresnave/fuel,Inference orchestration layer for the Fuel ML framework.
+2026-10-15T00:45:04.017219Z,win-sync-sys,0.0.2,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"Memory-safe Rust over the Win32 synchronization API, starting with an owned event object that can be set and reset without unsafe. Thin over Win32, adding no policy."
+2026-10-15T00:45:41.773067Z,io-buffers,0.1.0,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"Buffers for asynchronous I/O: the unsafe traits by which an owner promises its memory stays put until the kernel is done with it, and an owned buffer with an alignment the caller chooses. Portable."
+2026-10-15T00:46:04.573827Z,durable-ioring,0.1.0,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"Epoch-based durability for a file-I/O ring, portable: the contract, the core that decides when writes are durable and what a failure puts at risk, the target and backend traits, an in-memory backend,…"
+2026-10-15T00:53:56.432426Z,wgsl-rs-linkage-wgpu,0.1.0-beta.5,0,0,https://github.com/schell/wgsl-rs,"wgpu linkage generation for wgsl-rs shader modules; defaults to the latest supported wgpu major, with feature-gated modules for older majors."
+2026-10-15T00:55:32.329961Z,fuel-onnx,0.19.1,0,0,https://github.com/ciresnave/fuel,ONNX support for Fuel
+2026-10-15T00:56:58.627497Z,cuemodo,0.0.1,0,0,https://github.com/cuemodo/cuemodo,"Open-source show control: light, sound, video (early development)"
+2026-10-15T01:01:40.619159Z,sci-special,0.0.0,0,0,https://github.com/p-sira/sci,WIP: Special functions for scientific computing; initial release in development
+2026-10-15T01:01:45.788171Z,sci-stats,0.0.0,0,0,https://github.com/p-sira/sci,WIP: Statistics and probability distributions; initial release in development
+2026-10-15T01:06:50.195037Z,fuel-parallel,0.19.1,0,0,https://github.com/ciresnave/fuel,Multi-GPU parallelism primitives for the Fuel ML framework.
+2026-10-15T01:10:27.356145Z,win-time-sys,0.1.0,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"Memory-safe Rust over the Windows clocks: interrupt time, system time and the performance counter, as time points on typed timelines that can be compared, subtracted and recorded. Thin over Win32, ad…"
+2026-10-15T01:14:26.519852Z,omoplata-algebra,0.1.0,0,0,https://github.com/autumn-foundation/omoplata,"omoplata's verified merge core: patch algebra, commutation checking, and three-way merge with conflicts as values"
+2026-10-15T01:14:27.138737Z,omoplata-identity,0.1.0,0,0,https://github.com/autumn-foundation/omoplata,omoplata's two-tier identity layer: stable change ids and definition-level identity across rebases and edits
+2026-10-15T01:14:27.962403Z,omoplata-store,0.1.0,0,0,https://github.com/autumn-foundation/omoplata,Content-addressed object store and tree model for the omoplata version control system
+2026-10-15T01:14:29.167589Z,omoplata-drivers,0.1.0,0,0,https://github.com/autumn-foundation/omoplata,Tier-2 structural merge drivers for omoplata: syntax-tree-aware merging of conflicts that survive line merge
+2026-10-15T01:18:07.935368Z,fuel-tensor-tools,0.19.1,0,0,https://github.com/ciresnave/fuel,Minimalist ML framework.
+2026-10-15T01:18:21.254402Z,fuel-training,0.19.1,0,0,https://github.com/ciresnave/fuel,Training orchestration layer for the Fuel ML framework.
