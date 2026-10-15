@@ -8,60 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 10:19 UTC
+## Latest list — 2026-10-15 11:20 UTC
 
-New crates published between 2026-10-15 09:20 UTC and 2026-10-15 10:19 UTC.
+New crates published between 2026-10-15 10:19 UTC and 2026-10-15 11:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-15T10-19-24-293985Z.csv)
+[Full CSV](data/new-crates-2026-10-15T11-20-51-56001Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-15 09:22:04 | [mathscape-evolve](https://crates.io/crates/mathscape-evolve) | 0.1.6 | 0 | Genetic operators, population management, tournament selection, MAP-Elites |
-| 2026-10-15 09:22:29 | [zgui-shader](https://crates.io/crates/zgui-shader) | 0.1.0 | 0 | Custom application shaders for zgui elements |
-| 2026-10-15 09:23:44 | [hadris-cpio-raw](https://crates.io/crates/hadris-cpio-raw) | 0.1.0 | 0 | CPIO on-disk layouts and I/O-free codecs |
-| 2026-10-15 09:23:44 | [hadris-udf-raw](https://crates.io/crates/hadris-udf-raw) | 0.1.0 | 0 | UDF on-disk layouts and I/O-free codecs |
-| 2026-10-15 09:23:57 | [hadris-iso-raw](https://crates.io/crates/hadris-iso-raw) | 0.1.0 | 0 | ISO on-disk layouts and I/O-free codecs |
-| 2026-10-15 09:24:59 | [renamite-io-raster](https://crates.io/crates/renamite-io-raster) | 0.3.17 | 0 | Raster (pixel-art sprite sheet) import and tracing for renamite. |
-| 2026-10-15 09:26:59 | [ferroui-winui](https://crates.io/crates/ferroui-winui) | 0.1.0-preview.1 | 0 | Reserved name: the WinUI integration of FerroUI, which is not ported yet. This… |
-| 2026-10-15 09:32:05 | [mathscape-proof](https://crates.io/crates/mathscape-proof) | 0.1.6 | 0 | Proof construction, verification, composition, Lean 4 export |
-| 2026-10-15 09:34:20 | [zgui-wgpu](https://crates.io/crates/zgui-wgpu) | 0.1.0 | 0 | Surface elements that show textures from another wgpu renderer |
-| 2026-10-15 09:35:14 | [pgloupe](https://crates.io/crates/pgloupe) | 0.1.0-alpha.2 | 0 | A close look at your Postgres logs and query stats. |
-| 2026-10-15 09:38:01 | [microcom-codegen](https://crates.io/crates/microcom-codegen) | 0.1.0-preview.1 | 0 | Code generator of the FerroUI interop runtime: a C++ header and Rust bindings f… |
-| 2026-10-15 09:39:33 | [knut-format](https://crates.io/crates/knut-format) | 2026.10.3 | 0 | File format of knut: data structures, codecs, and block encoding for compact Op… |
-| 2026-10-15 09:39:35 | [knut-builder](https://crates.io/crates/knut-builder) | 2026.10.3 | 0 | Converts OpenStreetMap history PBF files into knut databases (.knutdb) |
-| 2026-10-15 09:39:37 | [knut-lang](https://crates.io/crates/knut-lang) | 2026.10.3 | 0 | Lexer, parser, and diagnostics of the knut query language for OpenStreetMap |
-| 2026-10-15 09:39:39 | [knut](https://crates.io/crates/knut) | 2026.10.3 | 0 | Reader and query engine for knut databases: compact OpenStreetMap history, memo… |
-| 2026-10-15 09:39:40 | [knut-plan](https://crates.io/crates/knut-plan) | 2026.10.3 | 0 | Name resolution, type, and unit checks, and pushdown analysis for the knut quer… |
-| 2026-10-15 09:43:49 | [groundlens-core](https://crates.io/crates/groundlens-core) | 6.0.1 | 0 | Core contracts of the GroundLens verification engine: claims, evidence, verifie… |
-| 2026-10-15 09:43:56 | [groundlens-text](https://crates.io/crates/groundlens-text) | 6.0.1 | 0 | Input normalisation and word segmentation for the GroundLens engine |
-| 2026-10-15 09:44:02 | [groundlens-numeric](https://crates.io/crates/groundlens-numeric) | 6.0.1 | 0 | Exact numerals with scale, currency, percent and physical units for the GroundL… |
-| 2026-10-15 09:44:07 | [groundlens-policy](https://crates.io/crates/groundlens-policy) | 6.0.1 | 0 | Policy engine of the GroundLens engine: composes evidence into a decision and m… |
-| 2026-10-15 09:44:10 | [groundlens-runtime](https://crates.io/crates/groundlens-runtime) | 6.0.1 | 0 | Execution-verification contracts for GroundLens: runs, events and the identitie… |
-| 2026-10-15 09:46:01 | [appcore-render](https://crates.io/crates/appcore-render) | 1.0.0-rc.1 | 0 | E3DN bounded standalone native graphics foundation |
-| 2026-10-15 09:46:11 | [zgui](https://crates.io/crates/zgui) | 0.1.0 | 0 | Native Rust UI framework with fine-grained signals, CSS and a retained GPU rend… |
-| 2026-10-15 09:46:14 | [zgui-devtools](https://crates.io/crates/zgui-devtools) | 0.1.0 | 0 | Inspector for zgui windows: document, styles, layout and frame stats |
-| 2026-10-15 09:49:05 | [xamlx](https://crates.io/crates/xamlx) | 0.1.0-preview.1 | 0 | Rust port of the backend-independent part of XamlX (XAML compiler library) |
-| 2026-10-15 09:54:51 | [groundlens-mcp](https://crates.io/crates/groundlens-mcp) | 6.0.1 | 0 | The MCP adapter for GroundLens: turn a real Model Context Protocol execution (t… |
-| 2026-10-15 09:56:55 | [libero-macros](https://crates.io/crates/libero-macros) | 0.2.0 | 0 | Derive macros for libero. |
-| 2026-10-15 09:57:20 | [holochain-conductor-runtime](https://crates.io/crates/holochain-conductor-runtime) | 0.1.0 | 0 | Framework-free wrapper around the Holochain conductor, called in-process |
-| 2026-10-15 09:57:34 | [shim-quantum](https://crates.io/crates/shim-quantum) | 0.1.0 | 0 | Quantum circuits and channels modelled with traits from category theory, with a… |
-| 2026-10-15 09:58:05 | [zgui-ui-icons](https://crates.io/crates/zgui-ui-icons) | 0.1.0 | 0 | Vector icon set for zgui-ui |
-| 2026-10-15 09:58:23 | [magnetar-runtime](https://crates.io/crates/magnetar-runtime) | 1.0.0-RC0 | 0 | Hardware-agnostic execution runtime contracts for magnetar. |
-| 2026-10-15 10:00:09 | [ferroui-markup-xaml-loader](https://crates.io/crates/ferroui-markup-xaml-loader) | 0.1.0-preview.1 | 0 | The FerroUI XAML language definition and compiler extensions built on xamlx |
-| 2026-10-15 10:01:05 | [tts-core](https://crates.io/crates/tts-core) | 0.1.0 | 0 | Portable audio, prompt envelopes, and inference contracts for tts-rs |
-| 2026-10-15 10:01:06 | [tts-cosyvoice](https://crates.io/crates/tts-cosyvoice) | 0.1.0 | 0 | Candle inference components for CosyVoice 3 speech synthesis |
-| 2026-10-15 10:01:07 | [tts-qwen](https://crates.io/crates/tts-qwen) | 0.1.0 | 0 | Local Candle inference for Qwen3-TTS |
-| 2026-10-15 10:01:09 | [candle-tts](https://crates.io/crates/candle-tts) | 0.1.0 | 0 | Modular local speech synthesis with Candle |
-| 2026-10-15 10:02:22 | [magnetar-format-safetensors](https://crates.io/crates/magnetar-format-safetensors) | 1.0.0-RC0 | 0 | safetensors container parser for the Magnetar inference runtime. |
-| 2026-10-15 10:02:24 | [magnetar-format-gguf](https://crates.io/crates/magnetar-format-gguf) | 1.0.0-RC0 | 0 | GGUF container parser for the Magnetar inference runtime. |
-| 2026-10-15 10:04:52 | [magnetar-component-Llama](https://crates.io/crates/magnetar-component-Llama) | 1.0.0-RC0 | 0 | Llama model Component (WebAssembly) template for the Magnetar inference runtime. |
-| 2026-10-15 10:04:53 | [magnetar-component-Qwen](https://crates.io/crates/magnetar-component-Qwen) | 1.0.0-RC0 | 0 | Qwen model Component (WebAssembly) for the Magnetar inference runtime. |
-| 2026-10-15 10:05:07 | [groundlens-verifiers](https://crates.io/crates/groundlens-verifiers) | 6.0.1 | 0 | Built-in verifiers for the GroundLens engine: numeric, scope, intent and rules,… |
-| 2026-10-15 10:09:57 | [zgui-ui-primitives](https://crates.io/crates/zgui-ui-primitives) | 0.1.0 | 0 | Headless interaction primitives for zgui-ui |
-| 2026-10-15 10:11:13 | [ferroui-build](https://crates.io/crates/ferroui-build) | 0.1.0-preview.1 | 0 | Build-script support of FerroUI: compiles the markup documents of a crate to Ru… |
-| 2026-10-15 10:14:17 | [magnetar-loader-gguf](https://crates.io/crates/magnetar-loader-gguf) | 1.0.0-RC0 | 0 | GGUF production model loader for the Magnetar inference runtime. |
-| 2026-10-15 10:15:26 | [groundlens-record](https://crates.io/crates/groundlens-record) | 6.0.1 | 0 | Signed, append-only evidence records for the GroundLens engine |
-| 2026-10-15 10:16:02 | [leanelpi](https://crates.io/crates/leanelpi) | 0.3.0 | 0 | Rust bindings for LeanElpi, the ELPI dialect of λProlog implemented in Lean 4 |
+| 2026-10-15 10:20:03 | [samplab-url-tools](https://crates.io/crates/samplab-url-tools) | 0.1.0 | 0 | Offline URL builder for SampLab Pro, a browser audio and MIDI tool suite. Not a… |
+| 2026-10-15 10:20:38 | [ic-testkit-candid](https://crates.io/crates/ic-testkit-candid) | 0.45.0 | 0 | Caller-bounded Candid reply decoding without a simulator dependency |
+| 2026-10-15 10:20:42 | [studyguidemaker-url-tools](https://crates.io/crates/studyguidemaker-url-tools) | 0.1.0 | 0 | Offline URL builder for Study Guide Maker source, audience, flashcard, and quiz… |
+| 2026-10-15 10:21:22 | [trystencil-url-tools](https://crates.io/crates/trystencil-url-tools) | 0.1.0 | 0 | Offline URL builder for TryStencil tattoo generator, try-on, stencil, and idea… |
+| 2026-10-15 10:21:51 | [zgui-ui-tokens](https://crates.io/crates/zgui-ui-tokens) | 0.1.0 | 0 | Design tokens and themes for zgui-ui |
+| 2026-10-15 10:22:02 | [aiautocropper-url-tools](https://crates.io/crates/aiautocropper-url-tools) | 0.1.0 | 0 | Offline URL builder for AI Auto Cropper scan-splitting workflows. Not an offici… |
+| 2026-10-15 10:22:16 | [ferroui-designer-support](https://crates.io/crates/ferroui-designer-support) | 0.1.0-preview.1 | 0 | Designer support of FerroUI: the loader of the previewed window and the preview… |
+| 2026-10-15 10:22:18 | [ferroui-dialogs](https://crates.io/crates/ferroui-dialogs) | 0.1.0-preview.1 | 0 | The managed dialogs of FerroUI: the managed file chooser, the managed storage p… |
+| 2026-10-15 10:22:39 | [virtual-staging-url-tools](https://crates.io/crates/virtual-staging-url-tools) | 0.1.0 | 0 | Offline URL builder for Virtual Staging tool pages and rental-listing guides. N… |
+| 2026-10-15 10:25:45 | [groundlens](https://crates.io/crates/groundlens) | 6.0.1 | 0 | Guardrails for LLM answers: check an answer against its sources without a model… |
+| 2026-10-15 10:26:06 | [magnetar-loader-huggingface](https://crates.io/crates/magnetar-loader-huggingface) | 1.0.0-RC0 | 0 | Hugging Face (safetensors) production model loader for the Magnetar inference r… |
+| 2026-10-15 10:33:22 | [ferroui-native](https://crates.io/crates/ferroui-native) | 0.1.0-preview.1 | 0 | The macOS platform of FerroUI: windows, input, clipboard, drag and drop, menus… |
+| 2026-10-15 10:33:45 | [zgui-ui](https://crates.io/crates/zgui-ui) | 0.1.0 | 0 | shadcn-style component library for zgui |
+| 2026-10-15 10:35:45 | [merle-photo](https://crates.io/crates/merle-photo) | 0.1.0 | 0 | Open one photo file: preview, orientation, AF points, metadata |
+| 2026-10-15 10:35:47 | [merle-loader](https://crates.io/crates/merle-loader) | 0.1.0 | 0 | Folder listing, navigation and preload cache |
+| 2026-10-15 10:35:48 | [merle-view](https://crates.io/crates/merle-view) | 0.1.0 | 0 | Fast-start image viewer binary |
+| 2026-10-15 10:36:10 | [groundlens-cli](https://crates.io/crates/groundlens-cli) | 6.0.1 | 0 | glv: check GroundLens records offline, without Python |
+| 2026-10-15 10:38:14 | [magnetar-provider-cpu](https://crates.io/crates/magnetar-provider-cpu) | 1.0.0-RC0 | 0 | Reference CPU Provider for the Magnetar inference runtime. |
+| 2026-10-15 10:38:21 | [bao-servo-svg](https://crates.io/crates/bao-servo-svg) | 0.5.31 | 0 | A component of the servo web-engine. |
+| 2026-10-15 10:40:01 | [do-harness-libsql](https://crates.io/crates/do-harness-libsql) | 0.9.30 | 0 | libSQL 0.9.30 fork carrying the do-harness connection teardown fix |
+| 2026-10-15 10:40:40 | [tauri-plugin-hc](https://crates.io/crates/tauri-plugin-hc) | 0.1.0 | 0 | Tauri plugin that runs an in-process Holochain conductor (FFI-free, desktop + m… |
+| 2026-10-15 10:43:44 | [cratefield-adapter-linear](https://crates.io/crates/cratefield-adapter-linear) | 0.1.0 | 0 | Tracker port over the Linear GraphQL API for the Cratefield harness |
+| 2026-10-15 10:43:50 | [cratefield-adapter-telegram](https://crates.io/crates/cratefield-adapter-telegram) | 0.1.0 | 0 | TelegramBot port over the Telegram Bot API for the Cratefield harness |
+| 2026-10-15 10:43:56 | [cratefield-signer](https://crates.io/crates/cratefield-signer) | 0.1.0 | 0 | Cratefield harness signer: key-reference signing for wallet automation — guardr… |
+| 2026-10-15 10:44:05 | [cratefield-adapter-turnkey](https://crates.io/crates/cratefield-adapter-turnkey) | 0.1.0 | 0 | Cratefield harness adapter: the Turnkey provider for the signer port — passkey-… |
+| 2026-10-15 10:44:19 | [cratefield-module-guardrails](https://crates.io/crates/cratefield-module-guardrails) | 0.1.0 | 0 | Cratefield module: the policy engine every automated value-moving action must p… |
+| 2026-10-15 10:44:26 | [ferroui-themes-fluent](https://crates.io/crates/ferroui-themes-fluent) | 0.1.0-preview.1 | 0 | The FerroUI Fluent theme: control themes, colour palettes and resources for the… |
+| 2026-10-15 10:50:15 | [magnetar-provider-cuda](https://crates.io/crates/magnetar-provider-cuda) | 1.0.0-RC0 | 0 | NVIDIA CUDA Provider for the Magnetar inference runtime. |
+| 2026-10-15 10:55:32 | [ferroui-themes-simple](https://crates.io/crates/ferroui-themes-simple) | 0.1.0-preview.1 | 0 | The FerroUI Simple theme: control themes and resources for the control set, in… |
+| 2026-10-15 10:57:24 | [cratefield-module-owlpost](https://crates.io/crates/cratefield-module-owlpost) | 0.1.0 | 0 | Cratefield module: receives Owlpost's signed inbound-mail and delivery webhooks… |
+| 2026-10-15 10:58:38 | [yog-body](https://crates.io/crates/yog-body) | 0.1.0 | 0 | Bodies for Yog mods: skeletons and animations (.ymodel/.yanim), vanilla model p… |
+| 2026-10-15 11:02:08 | [magnetar-provider-metal](https://crates.io/crates/magnetar-provider-metal) | 1.0.0-RC0 | 0 | Apple Metal Provider for the Magnetar inference runtime. |
+| 2026-10-15 11:02:48 | [velk](https://crates.io/crates/velk) | 0.0.0-dev | 0 | Name reservation for Velk, a Rust desktop editor under active development |
+| 2026-10-15 11:06:35 | [ferroui-controls-color-picker](https://crates.io/crates/ferroui-controls-color-picker) | 0.1.0-preview.1 | 0 | The colour picker library of FerroUI: ColorPicker, ColorView, ColorSpectrum, Co… |
+| 2026-10-15 11:08:36 | [cratefield-module-sealed](https://crates.io/crates/cratefield-module-sealed) | 0.1.0 | 0 | Cratefield module: the server half of client-side sealed blobs — opaque ciphert… |
+| 2026-10-15 11:14:24 | [magnetar-provider-npu](https://crates.io/crates/magnetar-provider-npu) | 1.0.0-RC0 | 0 | NPU Provider for the Magnetar inference runtime. |
+| 2026-10-15 11:17:14 | [cargo-jam-build](https://crates.io/crates/cargo-jam-build) | 0.1.29 | 0 | Cargo subcommand that builds JAM services, authorizers and CoreVM guests into P… |
+| 2026-10-15 11:17:23 | [jam-signed-authorizer-common](https://crates.io/crates/jam-signed-authorizer-common) | 0.1.29 | 0 | Signed JAM authorizer: common types for builders and authorizer. |
+| 2026-10-15 11:17:28 | [jam-chainspec](https://crates.io/crates/jam-chainspec) | 0.1.29 | 0 | Builds JAM chain specs: services, preimages, authorizer queues and privileges |
+| 2026-10-15 11:17:32 | [jam-signed-authorizer](https://crates.io/crates/jam-signed-authorizer) | 0.1.29 | 0 | A JAM authorizer that only authorizes signed packages. |
+| 2026-10-15 11:17:38 | [ferroui-headless](https://crates.io/crates/ferroui-headless) | 0.1.0-preview.1 | 0 | The headless platform of FerroUI: windows without a screen, driven by simulated… |
+| 2026-10-15 11:17:45 | [jam-bootstrap-service-tooling](https://crates.io/crates/jam-bootstrap-service-tooling) | 0.1.29 | 0 | The API for accessing JAM Bootstrap Service over node interface |
 
 ## Data source
 

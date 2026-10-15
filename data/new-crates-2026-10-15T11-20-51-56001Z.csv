@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T10:20:03.000009Z,samplab-url-tools,0.1.0,0,0,https://github.com/bbwdadfg/samplab-url-tools,"Offline URL builder for SampLab Pro, a browser audio and MIDI tool suite. Not an official SDK."
+2026-10-15T10:20:38.883876Z,ic-testkit-candid,0.45.0,0,0,https://github.com/dragginzgame/ic-testkit,Caller-bounded Candid reply decoding without a simulator dependency
+2026-10-15T10:20:42.849367Z,studyguidemaker-url-tools,0.1.0,0,0,https://github.com/bbwdadfg/studyguidemaker-url-tools,"Offline URL builder for Study Guide Maker source, audience, flashcard, and quiz pages. Not an official SDK."
+2026-10-15T10:21:22.390122Z,trystencil-url-tools,0.1.0,0,0,https://github.com/bbwdadfg/trystencil-url-tools,"Offline URL builder for TryStencil tattoo generator, try-on, stencil, and idea pages. Not an official SDK."
+2026-10-15T10:21:51.589168Z,zgui-ui-tokens,0.1.0,0,0,https://github.com/zortax/zgui,Design tokens and themes for zgui-ui
+2026-10-15T10:22:02.200063Z,aiautocropper-url-tools,0.1.0,0,0,https://github.com/bbwdadfg/aiautocropper-url-tools,Offline URL builder for AI Auto Cropper scan-splitting workflows. Not an official SDK.
+2026-10-15T10:22:16.090629Z,ferroui-designer-support,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,Designer support of FerroUI: the loader of the previewed window and the previewer that talks to an IDE over the remote protocol
+2026-10-15T10:22:18.832576Z,ferroui-dialogs,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The managed dialogs of FerroUI: the managed file chooser, the managed storage provider and the about dialog"
+2026-10-15T10:22:39.77158Z,virtual-staging-url-tools,0.1.0,0,0,https://github.com/bbwdadfg/virtual-staging-url-tools,Offline URL builder for Virtual Staging tool pages and rental-listing guides. Not an official SDK.
+2026-10-15T10:25:45.920805Z,groundlens,6.0.1,0,0,https://github.com/groundlens-dev/groundlens,"Guardrails for LLM answers: check an answer against its sources without a model, decide PASS, REVIEW or FAIL under a policy, and keep a signed record"
+2026-10-15T10:26:06.401275Z,magnetar-loader-huggingface,1.0.0-RC0,0,0,https://github.com/astorise/Magnetar-loader-HuggingFace,Hugging Face (safetensors) production model loader for the Magnetar inference runtime.
+2026-10-15T10:33:22.250759Z,ferroui-native,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The macOS platform of FerroUI: windows, input, clipboard, drag and drop, menus and Metal graphics over a native library"
+2026-10-15T10:33:45.655611Z,zgui-ui,0.1.0,0,0,https://github.com/zortax/zgui,shadcn-style component library for zgui
+2026-10-15T10:35:45.332792Z,merle-photo,0.1.0,0,0,https://github.com/DanielMauderer/merle,"Open one photo file: preview, orientation, AF points, metadata"
+2026-10-15T10:35:47.029542Z,merle-loader,0.1.0,0,0,https://github.com/DanielMauderer/merle,"Folder listing, navigation and preload cache"
+2026-10-15T10:35:48.68075Z,merle-view,0.1.0,0,0,https://github.com/DanielMauderer/merle,Fast-start image viewer binary
+2026-10-15T10:36:10.8667Z,groundlens-cli,6.0.1,0,0,https://github.com/groundlens-dev/groundlens,"glv: check GroundLens records offline, without Python"
+2026-10-15T10:38:14.187679Z,magnetar-provider-cpu,1.0.0-RC0,0,0,https://github.com/astorise/Magnetar-provider-CPU,Reference CPU Provider for the Magnetar inference runtime.
+2026-10-15T10:38:21.511358Z,bao-servo-svg,0.5.31,0,0,https://github.com/servo/servo,A component of the servo web-engine.
+2026-10-15T10:40:01.461511Z,do-harness-libsql,0.9.30,0,0,https://github.com/d-o-hub/do-harness,libSQL 0.9.30 fork carrying the do-harness connection teardown fix
+2026-10-15T10:40:40.384642Z,tauri-plugin-hc,0.1.0,0,0,https://github.com/holochain/runtime-tauri,"Tauri plugin that runs an in-process Holochain conductor (FFI-free, desktop + mobile)"
+2026-10-15T10:43:44.858227Z,cratefield-adapter-linear,0.1.0,0,0,https://github.com/Cratefield/harness,Tracker port over the Linear GraphQL API for the Cratefield harness
+2026-10-15T10:43:50.586342Z,cratefield-adapter-telegram,0.1.0,0,0,https://github.com/Cratefield/harness,TelegramBot port over the Telegram Bot API for the Cratefield harness
+2026-10-15T10:43:56.360281Z,cratefield-signer,0.1.0,0,0,https://github.com/Cratefield/harness,"Cratefield harness signer: key-reference signing for wallet automation — guardrails, an audit chain, and keys that never leave the Secrets store"
+2026-10-15T10:44:05.446327Z,cratefield-adapter-turnkey,0.1.0,0,0,https://github.com/Cratefield/harness,"Cratefield harness adapter: the Turnkey provider for the signer port — passkey-rooted sub-organizations, delegated access under policy, and key-reference signing"
+2026-10-15T10:44:19.149979Z,cratefield-module-guardrails,0.1.0,0,0,https://github.com/Cratefield/harness,"Cratefield module: the policy engine every automated value-moving action must pass - hard denies, allowlists, required simulation, micro-USD caps, a kill switch and audit, default deny and fail closed"
+2026-10-15T10:44:26.234645Z,ferroui-themes-fluent,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The FerroUI Fluent theme: control themes, colour palettes and resources for the control set, in light and dark variants"
+2026-10-15T10:50:15.21886Z,magnetar-provider-cuda,1.0.0-RC0,0,0,https://github.com/astorise/Magnetar-provider-CUDA,NVIDIA CUDA Provider for the Magnetar inference runtime.
+2026-10-15T10:55:32.539491Z,ferroui-themes-simple,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The FerroUI Simple theme: control themes and resources for the control set, in light and dark variants"
+2026-10-15T10:57:24.86052Z,cratefield-module-owlpost,0.1.0,0,0,https://github.com/Cratefield/harness,"Cratefield module: receives Owlpost's signed inbound-mail and delivery webhooks, deduplicates them and emits harness events"
+2026-10-15T10:58:38.344996Z,yog-body,0.1.0,0,0,,"Bodies for Yog mods: skeletons and animations (.ymodel/.yanim), vanilla model posing, disguises and morphs, camera and movement."
+2026-10-15T11:02:08.235399Z,magnetar-provider-metal,1.0.0-RC0,0,0,https://github.com/astorise/Magnetar-provider-Metal,Apple Metal Provider for the Magnetar inference runtime.
+2026-10-15T11:02:48.239577Z,velk,0.0.0-dev,0,0,,"Name reservation for Velk, a Rust desktop editor under active development"
+2026-10-15T11:06:35.553191Z,ferroui-controls-color-picker,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The colour picker library of FerroUI: ColorPicker, ColorView, ColorSpectrum, ColorSlider, ColorPreviewer, the colour palettes and their control themes"
+2026-10-15T11:08:36.982687Z,cratefield-module-sealed,0.1.0,0,0,https://github.com/Cratefield/harness,"Cratefield module: the server half of client-side sealed blobs — opaque ciphertext at rest, crypto-shred erasure, no server-side recovery path"
+2026-10-15T11:14:24.643828Z,magnetar-provider-npu,1.0.0-RC0,0,0,https://github.com/astorise/Magnetar-provider-NPU,NPU Provider for the Magnetar inference runtime.
+2026-10-15T11:17:14.887765Z,cargo-jam-build,0.1.29,0,0,https://github.com/paritytech/polkajam.git,"Cargo subcommand that builds JAM services, authorizers and CoreVM guests into PVM code blobs"
+2026-10-15T11:17:23.096238Z,jam-signed-authorizer-common,0.1.29,0,0,https://github.com/paritytech/polkajam.git,Signed JAM authorizer: common types for builders and authorizer.
+2026-10-15T11:17:28.413827Z,jam-chainspec,0.1.29,0,0,https://github.com/paritytech/polkajam.git,"Builds JAM chain specs: services, preimages, authorizer queues and privileges"
+2026-10-15T11:17:32.189599Z,jam-signed-authorizer,0.1.29,0,0,https://github.com/paritytech/polkajam.git,A JAM authorizer that only authorizes signed packages.
+2026-10-15T11:17:38.732443Z,ferroui-headless,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The headless platform of FerroUI: windows without a screen, driven by simulated input, for tests"
+2026-10-15T11:17:45.581968Z,jam-bootstrap-service-tooling,0.1.29,0,0,https://github.com/paritytech/polkajam.git,The API for accessing JAM Bootstrap Service over node interface
