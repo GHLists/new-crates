@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T14:21:18.602359Z,piu,0.0.1,0,0,https://github.com/raphamorim/piu,Piu: a JavaScript runtime on JavaScriptCore (Deno fork). Name reserved; releases will appear here.
+2026-10-15T14:27:11.857988Z,iced-winit-kora,0.15.0,0,0,https://github.com/playtron-os/iced,A runtime for iced on top of winit (Playtron's Kora fork of iced_winit)
+2026-10-15T14:29:44.04246Z,openharmony-ability-plugin-statusbar,1.0.0-beta.3,0,0,,Status bar (tray icon) bridge plugin facade for openharmony-ability
+2026-10-15T14:29:45.113692Z,openharmony-ability-plugin-system-state,1.0.0-beta.3,0,0,,Thermal and sleep state bridge plugin for openharmony-ability
+2026-10-15T14:29:46.173123Z,openharmony-ability-plugin-updater,1.0.0-beta.3,0,0,,AppGallery update bridge plugin facade for openharmony-ability
+2026-10-15T14:29:52.599728Z,openharmony-ability-plugin-screenshot,1.0.0-beta.3,0,0,,Screenshot facade for openharmony-ability webviews (capture + pick color)
+2026-10-15T14:30:36.155198Z,pqdoctor,0.1.0,0,0,,"Why isn't this server post-quantum? Hand-crafted TLS ClientHellos, a diagnosis and the fix."
+2026-10-15T14:32:29.623004Z,rswfn,0.1.0,0,0,https://github.com/qmlCoder/rswfn,A wavefunction analysis library and command-line tool for quantum chemistry
+2026-10-15T14:32:50.142877Z,draupner,0.12.0,0,0,https://github.com/maja-sh/draupner,"Multi-repo git-worktree orchestration — task-scoped, de-conflicted stacks per branch."
+2026-10-15T14:33:42.30687Z,idunn,0.1.0,0,0,https://github.com/zsszatmari/idunn,"Sign in with Apple for Rust backends: verify identity tokens, exchange authorization codes and revoke refresh tokens."
+2026-10-15T14:34:15.74091Z,spacetime-age,2.0.0,0,0,https://github.com/jayvdlaan/spacetime,"age-encryption.org/v1 file format for no_std: header/stanza codec with grease tolerance, header MAC, STREAM payload, X25519 and ssh-ed25519 recipients, bech32 keys, armor and header inspection — gene…"
+2026-10-15T14:34:46.230189Z,spacetime-sshsig,2.0.0,0,0,https://github.com/jayvdlaan/spacetime,"OpenSSH SSHSIG (PROTOCOL.sshsig) codec for no_std: parse, pinned-predicate verify, deterministic sign (ssh-ed25519), sk-ssh-ed25519@openssh.com verify, armor, public-key lines, fingerprints and allow…"
+2026-10-15T14:35:49.857424Z,omoplata-work,0.1.0,0,0,https://github.com/autumn-foundation/omoplata,"omoplata's working model: mutable repository state, workspaces, and a bi-temporal operation log"
+2026-10-15T14:36:13.151086Z,omoplata-cli,0.1.0,0,0,https://github.com/autumn-foundation/omoplata,"omo, the command-line interface for the omoplata version control system"
+2026-10-15T14:36:33.934304Z,iced-kora,0.15.0,0,0,https://github.com/playtron-os/iced,A cross-platform GUI library inspired by Elm (Playtron's Kora fork of iced)
+2026-10-15T14:39:51.581623Z,evmify,0.1.0,0,0,https://github.com/madspaaskesen/evmify,"EVM-ify any chain: a generic JSON-RPC client for EVM chains, plus a modular adapter -> normalizer -> transformer pipeline that serves non-EVM chains (Solana, Bitcoin, ...) as EVM blocks, transactions…"
+2026-10-15T14:40:09.949739Z,nattes,0.1.0,0,0,https://github.com/jakumule/nattes,A simple message queue inspired by NATS
+2026-10-15T14:42:40.650109Z,renyi_c,0.3.0,0,0,https://github.com/renyi-lang/renyi,The Renyi embedding API for C hosts and the languages that call C: a shared and a static library over renyi::Sandbox with a header (decision AW46)
+2026-10-15T14:43:38.875375Z,airframe_publish,2.0.0,0,0,https://github.com/jayvdlaan/airframe,"Scoped, credentialed, rate-limited, audited read-only static-file publisher for Airframe."
+2026-10-15T14:47:42.168208Z,ic3d,1.3.0,0,0,https://github.com/playtron-os/ic3d,Lightweight 3D instanced rendering for iced applications
+2026-10-15T14:49:54.089307Z,kimage-core,0.1.0,0,0,https://github.com/inferal-oss/kimage,"OCI verification, immutable image releases, and version selection for kimage"
+2026-10-15T14:49:56.122245Z,kimage-control,0.1.0,0,0,https://github.com/inferal-oss/kimage,"Kubernetes-native image production, verified delivery, and lifecycle management"
+2026-10-15T14:54:39.050373Z,ordstack,0.1.0,0,0,,Stack-allocated growable containers whose stack discipline is proved by the borrow checker
+2026-10-15T14:55:18.973261Z,talahon-core,2.0.0,0,0,https://github.com/Liohtml/talahon,"Shared types, configuration, wire protocol and traits for Talon"
+2026-10-15T14:55:20.928974Z,talahon-net,2.0.0,0,0,https://github.com/Liohtml/talahon,"Hardened HTTP serving for Talon: header-read timeouts, connection caps, graceful shutdown"
+2026-10-15T14:55:22.950061Z,talahon-security,2.0.0,0,0,https://github.com/Liohtml/talahon,"Security policy engine: mounts, senders, IPC authorization, prompt-injection guard, redaction, egress, auth"
+2026-10-15T14:55:25.101099Z,talahon-channels,2.0.0,0,0,https://github.com/Liohtml/talahon,"Messaging channels: Telegram, outbound webhook, Emacs bridge"
+2026-10-15T14:55:27.444362Z,talahon-container,2.0.0,0,0,https://github.com/Liohtml/talahon,"Container runtime: hardened docker/podman launch, mounts, output parsing, snapshots"
+2026-10-15T14:56:52.992944Z,orield,0.1.0,0,0,https://github.com/mikan-919/oriel,Local daemon connecting Codex sessions to Oriel's web and relay services
+2026-10-15T14:56:57.546832Z,hoist-trace,0.0.0,0,0,https://github.com/alexnodeland/hoist,"Placeholder: hoist-trace is a crate of Hoist, an MCP proxy that learns read-ahead flows from an agent's recorded tool calls."
+2026-10-15T14:57:00.959547Z,hoist-model,0.0.0,0,0,https://github.com/alexnodeland/hoist,"Placeholder: hoist-model is a crate of Hoist, an MCP proxy that learns read-ahead flows from an agent's recorded tool calls."
+2026-10-15T14:57:02.7775Z,hoist-oracle,0.0.0,0,0,https://github.com/alexnodeland/hoist,"Placeholder: hoist-oracle is a crate of Hoist, an MCP proxy that learns read-ahead flows from an agent's recorded tool calls."
+2026-10-15T14:57:04.879269Z,hoist-report,0.0.0,0,0,https://github.com/alexnodeland/hoist,"Placeholder: hoist-report is a crate of Hoist, an MCP proxy that learns read-ahead flows from an agent's recorded tool calls."
+2026-10-15T14:57:06.980588Z,hoist-mcp,0.0.0,0,0,https://github.com/alexnodeland/hoist,"Placeholder: hoist-mcp is a crate of Hoist, an MCP proxy that learns read-ahead flows from an agent's recorded tool calls."
+2026-10-15T14:57:11.559898Z,talahon-db,2.0.0,0,0,https://github.com/Liohtml/talahon,SQLite persistence for Talon (migrates databases of earlier releases in place)
+2026-10-15T15:00:46.125271Z,hoist-console,0.0.0,0,0,https://github.com/alexnodeland/hoist,"Placeholder: hoist-console is a crate of Hoist, an MCP proxy that learns read-ahead flows from an agent's recorded tool calls."
+2026-10-15T15:04:21.820493Z,asnkit-compiler,1.0.0,0,0,https://github.com/boxtheta/asnkit,"ASN.1 parser and compiler making the files asnkit loads, as a library"
+2026-10-15T15:04:22.903105Z,asnkitrt,1.0.0,0,0,https://github.com/boxtheta/asnkit,"Encode and decode ASN.1 with compiled specifications, also without std"
+2026-10-15T15:04:25.297927Z,asnkit-gen-rust,1.0.0,0,0,https://github.com/boxtheta/asnkit,asnkit plugin that makes Rust code with structs and enums from ASN.1
+2026-10-15T15:04:25.84137Z,asnkitcc,1.0.0,0,0,https://github.com/boxtheta/asnkit,"The command that compiles ASN.1 to the files asnkit loads, and runs its plugins"
+2026-10-15T15:05:48.365733Z,hygiea-test-macros,0.1.1-alpha.6,0,0,https://github.com/tpxxwz/hygiea,Procedural macros for hygiea-test: #[container] / #[live] test tiers
+2026-10-15T15:05:53.338481Z,hygiea-grpc,0.1.1-alpha.6,0,0,https://github.com/tpxxwz/hygiea,gRPC server component for hygiea
+2026-10-15T15:05:54.259297Z,hygiea-http,0.1.1-alpha.6,0,0,https://github.com/tpxxwz/hygiea,HTTP server component for hygiea
+2026-10-15T15:05:55.364799Z,hygiea-test,0.1.1-alpha.6,0,0,https://github.com/tpxxwz/hygiea,"Test helpers for projects built on hygiea, used as a dev-dependency"
+2026-10-15T15:05:58.144918Z,hygiea-aws,0.1.1-alpha.6,0,0,https://github.com/tpxxwz/hygiea,AWS SDK component for hygiea: shared config and service clients (S3)
+2026-10-15T15:07:11.897805Z,talahon-http,2.0.0,0,0,https://github.com/Liohtml/talahon,"CoPilot HTTP API channel (investigations, SSE chat, status, palace)"
+2026-10-15T15:12:54.472689Z,hygiea-db,0.1.1-alpha.6,0,0,https://github.com/tpxxwz/hygiea,Database components for hygiea: connection pools for PostgreSQL and SQLite
+2026-10-15T15:15:18.349813Z,knell,1.0.0,0,0,https://github.com/manic-systems/knell,Batteries-included Unix-socket daemon harness
+2026-10-15T15:17:11.845859Z,talahon-ipc,2.0.0,0,0,https://github.com/Liohtml/talahon,Host-side IPC watcher with authorization (container -> host requests)
+2026-10-15T15:17:12.359387Z,ultragraph_traits,0.1.0,0,0,https://github.com/deepcausality/deep_causality.rs,"The EdgeKey trait that identifies an edge payload in ultragraph, for crates that declare a payload without depending on the graph."
+2026-10-15T15:18:17.754699Z,sift-disk,0.1.0,0,0,https://github.com/tryhard-26/sift,Fast interactive disk usage explorer with a treemap and cleanup recommendations
