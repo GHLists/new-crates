@@ -1,0 +1,64 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T20:21:25.994672Z,quireink-sqlite,0.1.1,0,0,https://github.com/hthoene/quireink,"Reads and writes SQLite database files page by page, e.g. to exchange KOReader's statistics (no_std)"
+2026-10-15T20:22:42.419509Z,fc-ansi,0.1.0,0,0,https://github.com/rexlunae/future-css,ANSI SGR parsing into styled runs for the future-css terminal
+2026-10-15T20:22:42.993546Z,fc-context-menu,0.1.0,0,0,https://github.com/rexlunae/future-css,Menu model and keyboard navigation for future-css
+2026-10-15T20:22:43.426597Z,fc-core,0.1.0,0,0,https://github.com/rexlunae/future-css,Shared runtime for future-css WASM components
+2026-10-15T20:22:43.681262Z,fc-diff,0.1.0,0,0,https://github.com/rexlunae/future-css,Line diffing (Myers) for future-css review surfaces
+2026-10-15T20:22:43.942294Z,fc-git,0.1.0,0,0,https://github.com/rexlunae/future-css,Working-tree summary for the future-css git surface
+2026-10-15T20:23:25.914215Z,piu_cache_dir,0.51.0,0,0,https://github.com/denoland/deno,Cache directory logic used in Deno
+2026-10-15T20:24:50.126546Z,crcbl-store,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible persistence: saves, settings, profiles"
+2026-10-15T20:25:30.71507Z,oriera-infer,0.3.0,0,0,https://github.com/OriEra-engine/engine,"OriEra L7 inference runtime: command queue, execution site routing"
+2026-10-15T20:29:36.334938Z,fc-highlight,0.1.0,0,0,https://github.com/rexlunae/future-css,Syntax highlighting for future-css code blocks
+2026-10-15T20:30:33.166162Z,cobblestone,0.1.0,0,0,https://github.com/marsavar/cobblestone-rs,"Cobblestone-128 chunked encryption (c2sp.org/chunked-encryption), interoperable with the Go, Python and TypeScript implementations"
+2026-10-15T20:31:31.547296Z,quireink-xml,0.1.1,0,0,https://github.com/hthoene/quireink,"Streaming, forgiving XML/XHTML tokenizer with entity decoding for QuireInk (no_std)"
+2026-10-15T20:34:17.036044Z,piu_image,0.35.0,0,0,https://github.com/denoland/deno,Image handling implementation for Deno
+2026-10-15T20:34:50.70181Z,crcbl-audio,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible audio: mixer and spatial cue grammar
+2026-10-15T20:39:41.73159Z,fc-grid,0.1.0,0,0,https://github.com/rexlunae/future-css,"Grid, cell and selection model for future-css"
+2026-10-15T20:41:37.669212Z,quireink-zip,0.1.1,0,0,https://github.com/hthoene/quireink,"Streaming ZIP reader for QuireInk: reads archives in place, inflates entries chunk by chunk (no_std)"
+2026-10-15T20:43:28.229094Z,oriera-genai,0.3.0,0,0,https://github.com/OriEra-engine/engine,OriEra L8 generative AI: native asset generation behind one engine boundary (ADR 0003)
+2026-10-15T20:44:49.648272Z,crcbl-hal,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible graphics HAL: backend seam traits and POD descriptors
+2026-10-15T20:45:06.058585Z,piu_webgpu,0.226.0,0,0,https://github.com/denoland/deno,WebGPU implementation for Deno
+2026-10-15T20:45:15.551875Z,oriera-agent,0.3.0,0,0,https://github.com/OriEra-engine/engine,"OriEra L9 agent layer: cognition systems, long-term memory, AI director, NL intent"
+2026-10-15T20:45:17.255871Z,basal-client,0.1.0,0,0,https://github.com/itsoltech/basal-rs,Async Rust client for the native Basal HTTP API
+2026-10-15T20:49:41.28103Z,fc-model,0.1.0,0,0,https://github.com/rexlunae/future-css,Shared text buffer primitives for future-css components
+2026-10-15T20:49:58.146136Z,aphrody-jev,1.4.4,0,0,https://github.com/aphrody-labs/bun,"Bun typed decision protocol, validation and optional endpoint clients"
+2026-10-15T20:50:02.985093Z,aldebaran-grammar,0.1.0,0,0,https://github.com/wafkse/aldebaran,Token stream primitives for hand-written parsers
+2026-10-15T20:50:03.776482Z,aldebaran-hash,0.1.0,0,0,https://github.com/wafkse/aldebaran,Hash function integrations used by Aldebaran
+2026-10-15T20:50:04.574705Z,aldebaran-heap,0.1.0,0,0,https://github.com/wafkse/aldebaran,no_std allocator and collection wrappers for Aldebaran
+2026-10-15T20:50:05.488237Z,aldebaran-ice,0.1.0,0,0,https://github.com/wafkse/aldebaran,Internal compiler error utilities for Aldebaran
+2026-10-15T20:50:06.282842Z,aldebaran-logic-macro,0.1.0,0,0,https://github.com/wafkse/aldebaran,Derive macros for Aldebaran logical assertions and classifications
+2026-10-15T20:50:52.853125Z,haematite-worker,0.21.0,0,0,https://github.com/ablative-io/haematite,Shared process resource bounds for isolated workers
+2026-10-15T20:50:57.26632Z,haematite-query,0.21.0,0,0,https://github.com/ablative-io/haematite,Bounded messages between a query caller and its isolated evaluator
+2026-10-15T20:51:05.607969Z,haematite-jq,0.21.0,0,0,https://github.com/ablative-io/haematite,"An isolated, heap-limited jq worker for haematite queries"
+2026-10-15T20:51:16.304327Z,haematite-cli,0.21.0,0,0,https://github.com/ablative-io/haematite,"The haematite command: serve a store, its door and Studio, answer MCP, query with jq, and host the store's assistant seat"
+2026-10-15T20:54:20.776851Z,seylock,0.1.1,0,0,https://github.com/Arkhanhel/seylock,"Reach your own servers from networks that block them: signed lists of ways in, paths that race, a local reverse proxy."
+2026-10-15T20:54:21.891084Z,quireink-sdk,0.1.1,0,0,https://github.com/hthoene/quireink,"The QuireInk plugin SDK, the only API plugins (including first-party ones) use"
+2026-10-15T20:54:26.06962Z,oriera-pc,0.3.0,0,0,https://github.com/OriEra-engine/engine,OriEra PC platform host (Windows/macOS/Linux): desktop entry point of the engine
+2026-10-15T20:54:50.400636Z,crcbl-shell,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible windowing shell: own Wayland, X11, Web/canvas and headless backends"
+2026-10-15T20:55:57.86476Z,piu_canvas,0.121.0,0,0,https://github.com/denoland/deno,OffscreenCanvas implementation for Deno
+2026-10-15T20:56:02.080199Z,nportx,0.1.0,0,0,https://github.com/nxt3r/nportx,Find and kill processes hogging your ports. Instantly. Cross-platform.
+2026-10-15T20:56:18.906465Z,piu_package_json,0.61.0,0,0,https://github.com/denoland/deno,package.json implementation for the Deno CLI
+2026-10-15T20:57:20.739376Z,ctui,0.1.0,0,0,,"Minimal terminal calendar and task list, as a TUI and a CLI"
+2026-10-15T20:59:10.272514Z,fc-pallet-usage-subscription,2.4.0,0,0,https://github.com/virto-network/frame-contrib.git,"Usage subscriptions: a group buys a recurring, shared allowance of weight for its members, whose transaction fees are waived while it covers them."
+2026-10-15T20:59:41.132111Z,fc-rich-text,0.1.0,0,0,https://github.com/rexlunae/future-css,Inline formatting model for future-css rich text editing
+2026-10-15T21:02:57.500352Z,eboard,0.1.0,0,0,https://github.com/mounten/eboard,"eframe for embedded boards: run egui apps full-screen on Linux without a compositor (KMS/DRM, framebuffer), like Qt's eglfs and linuxfb"
+2026-10-15T21:04:31.086358Z,quireink-core,0.1.1,0,0,https://github.com/hthoene/quireink,"The QuireInk kernel: plugin host, registries, input routing and rendering (no_std)"
+2026-10-15T21:04:49.790665Z,crcbl-input,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible input system: action mapping, patterns, contexts"
+2026-10-15T21:05:43.502612Z,nwyd-formats,0.1.0,0,0,https://github.com/notwyd/nwyd,Binary asset and network data formats for the NWYD client
+2026-10-15T21:05:46.046643Z,nwyd-assets,0.1.0,0,0,https://github.com/notwyd/nwyd,Game-directory lookup and asset loading for the NWYD client
+2026-10-15T21:05:47.36196Z,nwyd-audio,0.1.0,0,0,https://github.com/notwyd/nwyd,"Audio decoding, mixing, and playback for the NWYD client"
+2026-10-15T21:05:48.902387Z,nwyd-protocol,0.1.0,0,0,https://github.com/notwyd/nwyd,"NWYD packet encoding, encryption, and network transport"
+2026-10-15T21:05:50.463278Z,nwyd-render,0.1.0,0,0,https://github.com/notwyd/nwyd,"GPU rendering, textures, fonts, and motion vectors for the NWYD client"
+2026-10-15T21:07:04.894514Z,piu_config,0.109.0,0,0,https://github.com/denoland/deno,Config file implementation for the Deno CLI
+2026-10-15T21:09:40.799438Z,fc-select,0.1.0,0,0,https://github.com/rexlunae/future-css,Option-list model and typeahead for the future-css select component
+2026-10-15T21:11:15.568323Z,nattes-macros,0.1.0,0,0,https://github.com/jakumule/nattes,Proc macros of nattes. Use them through the nattes crate.
+2026-10-15T21:11:32.152593Z,ifp,0.3.0,0,0,https://github.com/devinbarry/inf,"Infisical control-plane CLI - manage projects, environments and machine identities"
+2026-10-15T21:12:01.463247Z,qrusty_core,0.23.0,0,0,https://gitlab.com/greeng3/qrusty,"Pure, C-free core logic for qrusty — the deductively verifiable heart of the storage-key scheme."
+2026-10-15T21:13:41.112735Z,indicatrix-update,0.8.0,0,0,https://github.com/suitable-name/indicatrix,New-version check of the Indicatrix apps against the GitHub releases (`v<version>` tags).
+2026-10-15T21:14:18.859034Z,indicatrix-mobile-core,0.8.0,0,0,https://github.com/suitable-name/indicatrix,"The UI-free core of the Indicatrix mobile app: app state, settings and paths, the compute threads (render pool, solve, analysis), file bytes in and out, cutting progress and the platform-service trai…"
+2026-10-15T21:14:25.440188Z,indicatrix-mobile-android,0.8.0,0,0,https://github.com/suitable-name/indicatrix,"Indicatrix for Android phones and tablets: the touch-first Slint UI over indicatrix-mobile-core, the JNI platform services (files, share, print, clipboard, keep-awake, thermal) and a desktop preview…"
+2026-10-15T21:14:35.305515Z,quireink-plugin-about,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk about page: version, licence and the licences of what it bundles"
+2026-10-15T21:14:50.587113Z,crcbl-ui,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible immediate-mode GUI
+2026-10-15T21:17:53.630133Z,piu_features,0.56.0,0,0,https://github.com/denoland/deno,Provides definitions of Deno unstable features.
+2026-10-15T21:18:12.046309Z,handwired-rs-macros,0.1.0,0,0,https://github.com/mighty840/handwired-rs,The #[handwired] attribute: trace a subset of Rust into an exact f32 circuit
+2026-10-15T21:18:28.946578Z,souther-binding-runtime,0.1.0,0,0,https://github.com/souther-lang/souther-native-compiler,"What every Rust binding of a Souther library built by souther-native-compiler runs on: a run's arena, handles, and calls into the library and back"
