@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T11:23:46.470412Z,sipral-core,1.2.0,0,0,https://github.com/SIPRAL/sipral,"SIP message parsing, transactions, dialogs, SDP and authentication. Sans-I/O."
+2026-10-15T11:23:47.751176Z,sipral-headless,1.2.0,0,0,https://github.com/SIPRAL/sipral,"PCM in and out over a socket, with no audio device. For AI voice agents."
+2026-10-15T11:23:48.703046Z,sipral-media,1.2.0,0,0,https://github.com/SIPRAL/sipral,"Audio pipeline: resampling, mixing, codecs, and echo cancellation as an external module."
+2026-10-15T11:23:49.892245Z,sipral-stir,1.2.0,0,0,https://github.com/SIPRAL/sipral,"STIR/SHAKEN caller authentication, sans-I/O: PASSporT, the Identity header, TNAuthList certificates, signing and verification."
+2026-10-15T11:23:53.900571Z,sipral-nat,1.2.0,0,0,https://github.com/SIPRAL/sipral,"STUN client, TURN client and ICE."
+2026-10-15T11:23:54.772504Z,sipral-rtp,1.2.0,0,0,https://github.com/SIPRAL/sipral,"RTP and RTCP, adaptive jitter buffer, packet loss concealment, DTMF and SRTP."
+2026-10-15T11:24:35.35623Z,tauri-plugin-sync,0.1.0,0,0,https://github.com/gupta-ventures/tauri-plugin-sync,Zero-Configuration Local-First SQLite Replication & Sync Engine for Tauri v2
+2026-10-15T11:26:36.900536Z,magnetar-provider-rocm,1.0.0-RC0,0,0,https://github.com/astorise/Magnetar-provider-ROCm,AMD ROCm Provider for the Magnetar inference runtime.
+2026-10-15T11:28:11.395987Z,geode-redact,1.2.0,0,0,https://github.com/VirtualMachinist/geode,Fail-closed redaction of secret values and known key prefixes
+2026-10-15T11:28:14.500536Z,geode-os,1.2.0,0,0,https://github.com/VirtualMachinist/geode,Process core-dump refusal and the inject child spawn for Geode.
+2026-10-15T11:28:41.649378Z,ferroui-ios,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The iOS platform of FerroUI: a UIKit view, touch input and Metal graphics"
+2026-10-15T11:36:01.956558Z,sipral-dtls,1.2.0,0,0,https://github.com/SIPRAL/sipral,"DTLS 1.2 for DTLS-SRTP: the record layer, handshake framing and messages, key derivation and self-signed certificates."
+2026-10-15T11:38:42.790319Z,magnetar-provider-tpu,1.0.0-RC0,0,0,https://github.com/astorise/Magnetar-provider-TPU,TPU Provider for the Magnetar inference runtime.
+2026-10-15T11:39:44.879672Z,ferroui-vello,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The Vello render backend: the render contracts of the base library on kurbo, peniko and the renderers of the Vello project"
+2026-10-15T11:41:54.819085Z,cratefield-module-telegram,0.1.0,0,0,https://github.com/Cratefield/harness,"Cratefield module: the Telegram webhook, account linking, consent buttons with passkey confirmation, and a notifications channel"
+2026-10-15T11:42:00.967917Z,cratefield-module-wallets,0.1.0,0,0,https://github.com/Cratefield/harness,Cratefield module: link EVM and Solana wallets to a signed-in account via SIWE/SIWS signature verification
+2026-10-15T11:42:06.713621Z,cratefield-text-diff,0.1.0,0,0,https://github.com/Cratefield/harness,"Word-level diff (removed, added, same) in which protected ranges are atomic and reported as locked"
+2026-10-15T11:42:11.48076Z,cratefield-text-guard,0.1.0,0,0,https://github.com/Cratefield/harness,"Protect names, numbers, quotes and code across a model rewrite: find the spans that must not change, then check a rewrite kept them"
+2026-10-15T11:45:24.943689Z,sipral-ua,1.2.0,0,0,https://github.com/SIPRAL/sipral,"Registration, calls, hold, transfer and event subscriptions, built on sipral-core."
+2026-10-15T11:50:48.487595Z,ferroui-browser,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The browser platform of FerroUI: a top-level in an element of a web page, rendered with WebGL or to a 2D canvas"
+2026-10-15T11:51:12.727786Z,magnetar-provider-wgpu,1.0.0-RC0,0,0,https://github.com/astorise/Magnetar-provider-WGPU,WebGPU (wgpu) Provider for the Magnetar inference runtime.
+2026-10-15T11:53:58.334169Z,sipral-diag,1.2.0,0,0,https://github.com/SIPRAL/sipral,"Turns a D2 replay recording into pcapng, and redacts personal data out of a SIP message before it leaves the organisation."
+2026-10-15T11:57:54.17952Z,microscope,0.0.0,0,0,https://github.com/jcalabro/uscope,A Linux x86-64 debugger and profiler. This is a placeholder release; the project is under active development.
+2026-10-15T12:00:08.122283Z,faultline-codes,0.0.1,0,0,https://github.com/EffortlessMetrics/faultline-rs,Shared diagnostic vocabulary for faultline regression localization
+2026-10-15T12:00:09.725307Z,faultline-types,0.0.1,0,0,https://github.com/EffortlessMetrics/faultline-rs,Shared value types and report contracts for faultline
+2026-10-15T12:00:11.2391Z,faultline-junit,0.0.1,0,0,https://github.com/EffortlessMetrics/faultline-rs,JUnit XML export for faultline analysis reports
+2026-10-15T12:00:11.471587Z,faultline-loader,0.0.1,0,0,https://github.com/EffortlessMetrics/faultline-rs,Validated loading of faultline analysis reports
+2026-10-15T12:00:11.837136Z,faultline-localization,0.0.1,0,0,https://github.com/EffortlessMetrics/faultline-rs,Regression-window search engine for faultline
+2026-10-15T12:01:52.465008Z,ferroui-win32,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The Windows platform backend: windows, the message loop, input, screens and the software surface over the Win32 API"
+2026-10-15T12:01:55.532778Z,ferroui-x11,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,The X11 windowing platform of FerroUI for Linux
+2026-10-15T12:04:18.035186Z,one-brackets-cli,0.1.0,0,0,https://github.com/Toveal/one-brackets,"Command-line converter of 1C:Enterprise bracket files to JSON, YAML and XML and back"
+2026-10-15T12:12:58.268081Z,ferroui-desktop,0.1.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,The desktop entry point of FerroUI: platform detection with the default render and text shaping backends
+2026-10-15T12:14:42.788132Z,phimaker,0.4.0,0,0,https://github.com/tomchaplin/phimaker,"Compute kernel, cokernel, and image persistence from maps of F2 chain complexes."
+2026-10-15T12:16:32.479004Z,gpui-kit-phosphor,0.1.0,0,0,https://github.com/zmscode/gpui-kit-phosphor,Phosphor icons (all six weights) for GPUI Kit.
+2026-10-15T12:18:07.170739Z,khive-rule-evaluator,0.13.0,0,0,https://github.com/ohdearquant/khive,Pure configurable graph rule evaluation over in-memory NDJSON
+2026-10-15T12:20:57.107778Z,iced-core-kora,0.15.0,0,0,https://github.com/playtron-os/iced,The essential ideas of iced (Playtron's Kora fork of iced_core)
+2026-10-15T12:20:59.120801Z,iced-automation-kora,0.15.0,0,0,https://github.com/playtron-os/iced,"A door that lets a test driver on the same device read and press an app's widgets, once an admin switches it on (Playtron's Kora fork of iced_automation)"
+2026-10-15T12:20:59.439364Z,iced-beacon-kora,0.15.0,0,0,https://github.com/playtron-os/iced,A client/server protocol to monitor and supervise iced applications (Playtron's Kora fork of iced_beacon)
+2026-10-15T12:20:59.936465Z,iced-futures-kora,0.15.0,0,0,https://github.com/playtron-os/iced,"Commands, subscriptions, and future executors for iced (Playtron's Kora fork of iced_futures)"
+2026-10-15T12:21:00.264364Z,iced-highlighter-kora,0.15.0,0,0,https://github.com/playtron-os/iced,A syntax highlighter for iced (Playtron's Kora fork of iced_highlighter)
