@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T21:25:19.98027Z,isoloom-compose,0.11.0,0,0,https://github.com/isoloom/isoloom,"The Docker Compose backend of Isoloom (docker, hosted)."
+2026-10-16T21:26:17.196331Z,aggligator-transport-quic,0.1.0,0,0,https://github.com/remoc-rs/aggligator,Aggligator transport: QUIC
+2026-10-16T21:26:18.553105Z,aggligator-wrapper-zstd,0.1.0,0,0,https://github.com/remoc-rs/aggligator,Aggligator transport wrapper: zstd compression
+2026-10-16T21:28:17.316285Z,miniwasm,0.1.0,0,0,https://codeberg.org/prochazkaml/miniwasm,Minimal WASM v1 runtime with a simple API for core-only environments.
+2026-10-16T21:35:22.06869Z,isoloom-kubernetes,0.11.0,0,0,https://github.com/isoloom/isoloom,"The Kubernetes backend of Isoloom (manifests, Kustomize, Helm chart)."
+2026-10-16T21:35:37.287678Z,tauri-kit-update,0.19.0,0,0,https://github.com/iyulab/tauri-kit,"Keep an installed desktop app up to date: look on a schedule that survives restarts, download in the background, install when the app closes or now, stop what must stop first — over any source of rel…"
+2026-10-16T21:42:58.019364Z,wolfpack-span,0.1.0,0,0,https://github.com/realfamousbae/wolfpack,"Source files, spans and line positions of the wolfpack compiler"
+2026-10-16T21:43:00.430331Z,wolfpack-ast,0.1.0,0,0,https://github.com/realfamousbae/wolfpack,The syntax tree of wolfpack
+2026-10-16T21:43:00.873816Z,wolfpack-diag,0.1.0,0,0,https://github.com/realfamousbae/wolfpack,"Diagnostics of the wolfpack compiler: codes, messages, rendering and explanations"
+2026-10-16T21:43:02.823241Z,wolfpack-lexer,0.1.0,0,0,https://github.com/realfamousbae/wolfpack,The lexer of wolfpack
+2026-10-16T21:43:03.528356Z,wolfpack-project,0.1.0,0,0,https://github.com/realfamousbae/wolfpack,Wolfpack projects: the manifest wolfpack.toml and the project layout
+2026-10-16T21:44:49.224912Z,mrly,0.0.1,0,0,https://github.com/mrlyprod/mrlyprod,"MrlyProd; or, Marley Productions"
+2026-10-16T21:44:58.854151Z,mrly-core,0.0.1,0,0,https://github.com/mrlyprod/mrlyprod,"MrlyProd; or, Marley Productions"
+2026-10-16T21:45:07.660815Z,mrly-num,0.0.1,0,0,https://github.com/mrlyprod/mrlyprod,"MrlyProd; or, Marley Productions"
+2026-10-16T21:45:17.375153Z,mrly-math,0.0.1,0,0,https://github.com/mrlyprod/mrlyprod,"MrlyProd; or, Marley Productions"
+2026-10-16T21:45:24.289353Z,isoloom-terraform,0.11.0,0,0,https://github.com/isoloom/isoloom,"The Terraform backends of Isoloom (Proxmox, ESXi, cloud VMs, cloud Docker, cloud services)."
+2026-10-16T21:45:27.13665Z,mrly-tile,0.0.1,0,0,https://github.com/mrlyprod/mrlyprod,"MrlyProd; or, Marley Productions"
+2026-10-16T21:48:55.382459Z,conductor-core,0.1.0,0,0,https://github.com/monstrous-media/conductor,Conductor core multi-protocol input mapping engine (UI-independent)
+2026-10-16T21:49:16.477201Z,conductor-capture,0.1.0,0,0,https://github.com/monstrous-media/conductor,Input pattern capture tool for Conductor - record MIDI and gamepad input with privacy controls
+2026-10-16T21:50:29.094997Z,mrly-life,0.0.1,0,0,https://github.com/mrlyprod/mrlyprod,"MrlyProd; or, Marley Productions"
+2026-10-16T21:53:20.686243Z,wolfpack-parser,0.1.0,0,0,https://github.com/realfamousbae/wolfpack,"The parser of wolfpack. Internal part of wolfpack-lang, not a stable API"
+2026-10-16T21:53:59.97803Z,crcbl-font,0.2.1,0,0,https://github.com/kryptic-sh/crcbl,"Crucible system font lookup: a family, weight and style to a font file"
+2026-10-16T21:55:19.733814Z,isoloom-vagrant,0.11.0,0,0,https://github.com/isoloom/isoloom,"The Vagrant backends of Isoloom (vagrant, docker-vm, hybrid)."
+2026-10-16T21:58:26.925984Z,mylittlechart-vault,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,"Zero-trust blob primitives — AES-GCM, HKDF, PBKDF2 + sealed vault. Pure leaf, no workspace deps."
+2026-10-16T21:58:51.000619Z,mylittlechart-alert-delivery,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,Alert notification delivery for zengeld-terminal
+2026-10-16T21:59:08.843761Z,mylittlechart-vodozemac,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,"Vendored, reduced fork of vodozemac 0.10.0 (Olm, Megolm, SAS) -- see FORK.md."
+2026-10-16T21:59:14.436778Z,mylittlechart-messenger-model,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,"View-model contract for the messenger UI — plain Matrix-shaped types (rooms, timeline items, members, tags) plus a synchronous MessengerProvider trait. No uzor, no network, no async: the UI reads sna…"
+2026-10-16T21:59:29.589777Z,mylittlechart-cloud,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,Cloud sync client for the MLC server API — serde models + transport. Wasm32 transport via web-sys fetch; native transport lands with updater phase 2.
+2026-10-16T22:00:13.992237Z,udb-mls,0.6.0,0,0,https://github.com/fahara02/udb,"Client-side MLS (RFC 9420) for UDB's end-to-end encrypted messaging service: device keys, KeyPackages, group commits, Welcome processing and message encryption over OpenMLS."
+2026-10-16T22:00:36.476907Z,mrly-font,0.0.1,0,0,https://github.com/mrlyprod/mrlyprod,"MrlyProd; or, Marley Productions"
+2026-10-16T22:00:50.873833Z,arch-disk-tui,0.1.0,0,0,https://github.com/emirkefi/arch-disk-tui,"A fast, modern terminal disk space analyzer and heatmap for Linux"
+2026-10-16T22:03:18.769734Z,wolfpack-std,0.1.0,0,0,https://github.com/realfamousbae/wolfpack,"The standard library of wolfpack, as wolfpack source. Internal part of wolfpack-lang, not a stable API"
+2026-10-16T22:03:46.921462Z,jitexpr,0.1.0,0,0,https://github.com/quickwit-oss/tantivy,JIT-compiled expression evaluation for tantivy
+2026-10-16T22:05:20.287276Z,isoloom-ansible,0.11.0,0,0,https://github.com/isoloom/isoloom,"The Ansible backend of Isoloom: hosts that already exist, as an inventory and playbooks."
+2026-10-16T22:13:18.923229Z,wolfpack-resolve,0.1.0,0,0,https://github.com/realfamousbae/wolfpack,"Modules, imports and name resolution of wolfpack. Internal part of wolfpack-lang, not a stable API"
+2026-10-16T22:15:26.895889Z,xbox360-sys,0.1.0,0,0,https://github.com/landaire/rust-xbox360,Raw Xbox 360 kernel and XAM bindings for the powerpc-unknown-xbox360 target
+2026-10-16T22:15:31.209125Z,xbox360,0.1.0,0,0,https://github.com/landaire/rust-xbox360,Safe Xbox 360 kernel and XAM interfaces for no_std code and for what std does not cover
+2026-10-16T22:15:41.71031Z,isoloom-targets,0.11.0,0,0,https://github.com/isoloom/isoloom,"Isoloom's targets: the registry of backends, the targets made of two, refusals, the resolved snapshot and its reports, the tiers and the capability matrix."
+2026-10-16T22:16:10.227085Z,mylittlechart-shell-diagnostics,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,"Logging, crash capture, and a watchdog for the chart shells."
+2026-10-16T22:18:47.343524Z,air_server,0.1.0,0,0,https://github.com/ramp-stack/air_server,Resumable encrypted AIR clients and server over WebSocket and TLS
