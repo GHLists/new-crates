@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T03:19:58.576028Z,piu_runtime,0.267.0,0,0,https://github.com/denoland/deno,Provides the deno runtime library
+2026-10-16T03:20:30.952839Z,rust-stl,0.1.0,0,0,https://github.com/rohan3155/rust-stl,"Educational, dependency-free reimplementation of classic STL-style containers in Rust"
+2026-10-16T03:24:03.702449Z,okbot-channel-console,0.5.0,0,0,https://github.com/tidusvn05/okbot,"Terminal channel for okbot, for development and tests."
+2026-10-16T03:32:00.169346Z,virtual-file-transfer,0.1.0,0,0,https://github.com/hrtkysd/virtual-file-transfer,"Transfer in-memory, generated, or archived data as files via Windows drag-and-drop and clipboard without staging temporary files"
+2026-10-16T03:34:03.161198Z,okbot-channel-gchat,0.5.0,0,0,https://github.com/tidusvn05/okbot,Google Chat channel for okbot (HTTP endpoint and Pub/Sub).
+2026-10-16T03:35:55.249723Z,lite-orm-macros,0.1.0,0,0,https://github.com/unixipher/lite-orm,Derive macros for lite-orm
+2026-10-16T03:36:17.713585Z,lite-orm,0.1.0,0,0,https://github.com/unixipher/lite-orm,"A lightweight, schema-first PostgreSQL ORM for Rust"
+2026-10-16T03:37:43.401193Z,lite-orm-cli,0.1.0,0,0,https://github.com/unixipher/lite-orm,Schema and code generation CLI for lite-orm
+2026-10-16T03:44:06.644899Z,okbot-channel-zalo,0.5.0,0,0,https://github.com/tidusvn05/okbot,Zalo Bot Platform channel for okbot (long polling and webhook).
+2026-10-16T03:46:26.993329Z,comma-connect-api,0.1.0,0,0,https://github.com/fleetingbytes/comma-rs,Rust client for the comma connect API (api.commadotai.com)
+2026-10-16T03:54:08.330451Z,okbot-knowledge,0.5.0,0,0,https://github.com/tidusvn05/okbot,"okbase integration for okbot: knowledge bundle, scoped MCP tools and memory."
+2026-10-16T04:04:02.247103Z,okbot-runtime,0.5.0,0,0,https://github.com/tidusvn05/okbot,"The okbot message pipeline: policy, conversation queues, context building and replies."
+2026-10-16T04:14:03.385764Z,okbot-store,0.5.0,0,0,https://github.com/tidusvn05/okbot,"SQLite storage for okbot conversations, deduplication and audit records."
+2026-10-16T04:14:37.595738Z,bao-stylo-static-prefs,0.22.0,0,0,https://github.com/servo/stylo,Configuration for Stylo
+2026-10-16T04:16:05.309801Z,bao-to-shmem-derive,0.2.0,0,0,https://github.com/servo/stylo,Allows deriving the to_shmem trait.
+2026-10-16T04:16:17.33051Z,bao-servo-arc,0.5.0,0,0,https://github.com/servo/stylo,A fork of std::sync::Arc with some extra functionality and without weak references
+2026-10-16T04:18:06.94728Z,bao-to-shmem,0.6.0,0,0,https://github.com/servo/stylo,Trait to write to a contiguous chunk of shared memory
