@@ -8,42 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 11:19 UTC
+## Latest list — 2026-10-16 12:19 UTC
 
-New crates published between 2026-10-16 10:20 UTC and 2026-10-16 11:19 UTC.
+New crates published between 2026-10-16 11:19 UTC and 2026-10-16 12:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-16T11-19-08-997415Z.csv)
+[Full CSV](data/new-crates-2026-10-16T12-19-04-756019Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-16 10:22:06 | [quireink-plugin-hyphenation](https://crates.io/crates/quireink-plugin-hyphenation) | 0.1.1 | 0 | QuireInk hyphenation patterns for German and English |
-| 2026-10-16 10:23:33 | [kartta-cache](https://crates.io/crates/kartta-cache) | 0.0.0 | 0 | Content-addressed cache shared by concurrent processes, stored as immutable map… |
-| 2026-10-16 10:24:22 | [incr-persist](https://crates.io/crates/incr-persist) | 0.2.0-beta.5 | 0 | Durable, shareable state for incr: keeps a runtime's inputs in sync with an ord… |
-| 2026-10-16 10:26:52 | [rbtree_extended](https://crates.io/crates/rbtree_extended) | 0.1.0 | 0 | A generic Red-Black Tree with traversal, range queries and Graphviz DOT export |
-| 2026-10-16 10:27:45 | [nanocrx](https://crates.io/crates/nanocrx) | 0.1.0 | 0 | A fast, simple and powerful Rust library for working with Chrome extension CRX… |
-| 2026-10-16 10:32:14 | [quireink-plugin-keyboard](https://crates.io/crates/quireink-plugin-keyboard) | 0.1.1 | 0 | QuireInk on-screen keyboard: enters text with touch or buttons |
-| 2026-10-16 10:32:57 | [bz2ngrs](https://crates.io/crates/bz2ngrs) | 0.1.0 | 0 | Fast bzip2 compression and decompression, one-shot and streaming, a Rust port o… |
-| 2026-10-16 10:40:33 | [slsdk-rs](https://crates.io/crates/slsdk-rs) | 0.2.0 | 0 | superlive v2 Plane B contract layer: manifest types, the registration protocol,… |
-| 2026-10-16 10:42:23 | [quireink-plugin-keys](https://crates.io/crates/quireink-plugin-keys) | 0.1.1 | 0 | QuireInk buttons and gestures: what every button, tap zone and swipe does, chan… |
-| 2026-10-16 10:44:32 | [antecedent-io-core](https://crates.io/crates/antecedent-io-core) | 2.4.0 | 0 | Estimator-free artifact container, wire types, digests and codecs for the Antec… |
-| 2026-10-16 10:44:43 | [expri-core](https://crates.io/crates/expri-core) | 0.1.6 | 0 | Shared contracts, configuration values, errors, and file leases for expri |
-| 2026-10-16 10:44:46 | [expri-sdk](https://crates.io/crates/expri-sdk) | 0.1.6 | 0 | Local task instrumentation for expri experiments |
-| 2026-10-16 10:44:50 | [expri-runs](https://crates.io/crates/expri-runs) | 0.1.6 | 0 | Run catalogs, metrics, and output inventories for expri |
-| 2026-10-16 10:44:52 | [expri-system](https://crates.io/crates/expri-system) | 0.1.6 | 0 | Machine system profiles, durable local history, and hourly summaries for expri |
-| 2026-10-16 10:44:57 | [expri-client](https://crates.io/crates/expri-client) | 0.1.6 | 0 | Durable experiment publishing and resumable transfers for expri |
-| 2026-10-16 10:48:23 | [cranpose-gpu-interop](https://crates.io/crates/cranpose-gpu-interop) | 0.1.8 | 0 | wgpu devices and textures made from another renderer's native GPU objects; the… |
-| 2026-10-16 10:48:53 | [bloch-derive](https://crates.io/crates/bloch-derive) | 0.1.0 | 0 | Derive macros for `bloch`, a ClickHouse Native format parser |
-| 2026-10-16 10:48:56 | [bloch](https://crates.io/crates/bloch) | 0.1.0 | 0 | A zero-copy-ish parser for the ClickHouse Native format |
-| 2026-10-16 10:49:36 | [cranpose-godot](https://crates.io/crates/cranpose-godot) | 0.1.8 | 0 | Cranpose in Godot 4: a composition drawn over Godot's frame on Godot's own GPU… |
-| 2026-10-16 10:50:21 | [rustfs-mimalloc-profiling](https://crates.io/crates/rustfs-mimalloc-profiling) | 0.6.0 | 0 | Sampled allocation and live heap profiles for mimalloc |
-| 2026-10-16 10:52:30 | [quireink-plugin-kosync](https://crates.io/crates/quireink-plugin-kosync) | 0.1.1 | 0 | QuireInk progress sync: reading positions shared with KOReader's sync server (k… |
-| 2026-10-16 10:53:30 | [cranpose-bevy](https://crates.io/crates/cranpose-bevy) | 0.1.8 | 0 | Bevy and Cranpose on one wgpu device: Bevy scenes inside Cranpose layouts, Cran… |
-| 2026-10-16 10:53:48 | [future_assert](https://crates.io/crates/future_assert) | 0.1.0 | 0 | Manual polling assertions for futures in tests, without an async runtime. |
-| 2026-10-16 10:56:39 | [crcbl-image](https://crates.io/crates/crcbl-image) | 0.2.0 | 0 | Crucible image assets: decode, convert and resize to straight RGBA8 |
-| 2026-10-16 11:02:36 | [quireink-plugin-menu](https://crates.io/crates/quireink-plugin-menu) | 0.1.1 | 0 | QuireInk menu overlay: shows the entries any plugin contributes to a menu |
-| 2026-10-16 11:07:42 | [baosign](https://crates.io/crates/baosign) | 0.1.0 | 0 | Sign SSH keys with OpenBao, using profiles like aws --profile |
-| 2026-10-16 11:10:37 | [raddy-l4](https://crates.io/crates/raddy-l4) | 0.5.0 | 0 | Layer 4 (TCP/UDP) transport application for Raddy (caddy-l4 parity) |
-| 2026-10-16 11:12:43 | [quireink-plugin-menu-editor](https://crates.io/crates/quireink-plugin-menu-editor) | 0.1.1 | 0 | QuireInk menu editor: reorders, removes and adds the entries of every menu on t… |
+| 2026-10-16 11:20:17 | [ilink-sdk](https://crates.io/crates/ilink-sdk) | 2.4.11 | 0 | Rust SDK for the Tencent Weixin (iLink) backend protocol: QR-code login, long-p… |
+| 2026-10-16 11:22:50 | [quireink-plugin-news](https://crates.io/crates/quireink-plugin-news) | 0.1.1 | 0 | QuireInk news: feeds (RSS, Atom) fetched as books to read |
+| 2026-10-16 11:27:14 | [blitz-config](https://crates.io/crates/blitz-config) | 0.1.0 | 0 | Native configurator for the Cosmic Byte Blitz controller |
+| 2026-10-16 11:30:45 | [ezlo](https://crates.io/crates/ezlo) | 0.1.0 | 0 | Spec-driven shell autocomplete and recipe launcher |
+| 2026-10-16 11:32:02 | [retp-catalog](https://crates.io/crates/retp-catalog) | 0.0.1 | 0 | Reserved for the server catalogue of the retp command line (ETP v1.2); the firs… |
+| 2026-10-16 11:32:57 | [quireink-plugin-opds](https://crates.io/crates/quireink-plugin-opds) | 0.1.1 | 0 | QuireInk OPDS catalogs: browse, search and download books, and keep folders in… |
+| 2026-10-16 11:33:32 | [my-rustbook_s-guessing_game](https://crates.io/crates/my-rustbook_s-guessing_game) | 0.1.0 | 0 | A fun game where you guess what number the computer has chosen. |
+| 2026-10-16 11:40:54 | [plavno-platform](https://crates.io/crates/plavno-platform) | 0.1.0 | 0 | Private storage and process control helpers for plavno |
+| 2026-10-16 11:42:59 | [opencc-rs-tw2](https://crates.io/crates/opencc-rs-tw2) | 0.1.2 | 0 | Pure Rust port of Will 保哥's C# OpenCC implementation. |
+| 2026-10-16 11:43:05 | [quireink-plugin-plugin-manager](https://crates.io/crates/quireink-plugin-plugin-manager) | 0.1.1 | 0 | QuireInk plugin manager: lists the plugins and switches them on and off |
+| 2026-10-16 11:52:02 | [fusion-symbols](https://crates.io/crates/fusion-symbols) | 0.3.0 | 0 | Fusion and recoupling symbols for symmetric tensors: exact SU(2) recoupling, an… |
+| 2026-10-16 11:53:12 | [quireink-plugin-profiles](https://crates.io/crates/quireink-plugin-profiles) | 0.1.1 | 0 | QuireInk reading profiles: named sets of reading and display settings, switched… |
+| 2026-10-16 11:58:03 | [nanoaudio-synth](https://crates.io/crates/nanoaudio-synth) | 0.1.0 | 0 | Allocation-free oscillators, envelopes, filters and polyphonic voices for nanoa… |
+| 2026-10-16 11:58:14 | [band-sdk-core](https://crates.io/crates/band-sdk-core) | 3.1.0 | 0 | Band SDK validation and runtime decisions backed by bundled proprietary native… |
+| 2026-10-16 12:00:33 | [structured-xades](https://crates.io/crates/structured-xades) | 0.4.0 | 0 | XAdES mechanisms over caller-owned XML and explicit resource accounting |
+| 2026-10-16 12:03:20 | [quireink-plugin-reader](https://crates.io/crates/quireink-plugin-reader) | 0.1.1 | 0 | QuireInk paged reader: page layout, progress, background pagination |
+| 2026-10-16 12:13:27 | [quireink-plugin-readwise](https://crates.io/crates/quireink-plugin-readwise) | 0.1.1 | 0 | QuireInk Readwise: highlights of exported notes sent to Readwise |
 
 ## Data source
 

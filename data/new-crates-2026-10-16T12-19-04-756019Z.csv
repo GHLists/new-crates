@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T11:20:17.694909Z,ilink-sdk,2.4.11,0,0,https://github.com/x500x/iLink-SDK-rs,"Rust SDK for the Tencent Weixin (iLink) backend protocol: QR-code login, long-poll messaging, CDN media upload/download."
+2026-10-16T11:22:50.076915Z,quireink-plugin-news,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk news: feeds (RSS, Atom) fetched as books to read"
+2026-10-16T11:27:14.412564Z,blitz-config,0.1.0,0,0,https://github.com/varun-r-mallya/blitz-config,Native configurator for the Cosmic Byte Blitz controller
+2026-10-16T11:30:45.95332Z,ezlo,0.1.0,0,0,https://github.com/denisidoro/ezlo,Spec-driven shell autocomplete and recipe launcher
+2026-10-16T11:32:02.595749Z,retp-catalog,0.0.1,0,0,https://github.com/geosiris-technologies/retp,Reserved for the server catalogue of the retp command line (ETP v1.2); the first release is 0.3.0. This version holds nothing.
+2026-10-16T11:32:57.373942Z,quireink-plugin-opds,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk OPDS catalogs: browse, search and download books, and keep folders in sync with catalogs"
+2026-10-16T11:33:32.422799Z,my-rustbook_s-guessing_game,0.1.0,0,0,,A fun game where you guess what number the computer has chosen.
+2026-10-16T11:40:54.448801Z,plavno-platform,0.1.0,0,0,https://github.com/gmelikov/plavno,Private storage and process control helpers for plavno
+2026-10-16T11:42:59.634292Z,opencc-rs-tw2,0.1.2,0,0,https://github.com/doggy8088/opencc-rust,Pure Rust port of Will 保哥's C# OpenCC implementation.
+2026-10-16T11:43:05.994174Z,quireink-plugin-plugin-manager,0.1.1,0,0,https://github.com/hthoene/quireink,QuireInk plugin manager: lists the plugins and switches them on and off
+2026-10-16T11:52:02.656214Z,fusion-symbols,0.3.0,0,0,https://github.com/Ryo-wtnb11/fusion-symbols,"Fusion and recoupling symbols for symmetric tensors: exact SU(2) recoupling, and runtime Clebsch-Gordan / F- / R-coefficient generation for SU(N), SO(N), and Sp(2N) (successor of the racah crate)"
+2026-10-16T11:53:12.785265Z,quireink-plugin-profiles,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk reading profiles: named sets of reading and display settings, switched with a tap"
+2026-10-16T11:58:03.070505Z,nanoaudio-synth,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoaudio,"Allocation-free oscillators, envelopes, filters and polyphonic voices for nanoaudio pipelines."
+2026-10-16T11:58:14.919647Z,band-sdk-core,3.1.0,0,0,https://github.com/band-ai/band-sdk-core,Band SDK validation and runtime decisions backed by bundled proprietary native libraries
+2026-10-16T12:00:33.696869Z,structured-xades,0.4.0,0,0,https://github.com/structured-world/signature-primitives,XAdES mechanisms over caller-owned XML and explicit resource accounting
+2026-10-16T12:03:20.199863Z,quireink-plugin-reader,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk paged reader: page layout, progress, background pagination"
+2026-10-16T12:13:27.434766Z,quireink-plugin-readwise,0.1.1,0,0,https://github.com/hthoene/quireink,QuireInk Readwise: highlights of exported notes sent to Readwise
