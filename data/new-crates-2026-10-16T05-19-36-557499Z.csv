@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T04:24:03.376056Z,bao-selectors,0.41.0,0,0,https://github.com/servo/stylo,CSS Selectors matching for Rust
+2026-10-16T04:24:12.569045Z,okbot,0.5.0,0,0,https://github.com/tidusvn05/okbot,"The okbot command line: create, run and manage chat bots backed by agent CLIs and okbase."
+2026-10-16T04:24:31.851752Z,emaki,0.1.0,0,0,https://github.com/hanshs474/emaki-rs,"Official SDK for emaki (emaki.ai), the Japanese-language AI video generator for Seedance 2.5 and Seedance 2.0"
+2026-10-16T04:29:41.056574Z,hpsvm-macros,0.1.19,0,0,https://github.com/longcipher/hpsvm,Proc macros for hpsvm builtin instruction and transaction handlers
+2026-10-16T04:29:43.332623Z,hpsvm-test-support,0.1.19,0,0,https://github.com/longcipher/hpsvm,"Shared SBF test-program fixture lookup for hpsvm tests, benches, and doctests"
+2026-10-16T04:30:01.857556Z,sito,0.0.1,0,0,https://github.com/SitoDNS/sito,"Memory-safe filtering DNS resolver with a built-in web UI. One binary, one config file."
+2026-10-16T04:32:10.015504Z,bao-stylo-malloc-size-of,0.22.0,0,0,https://github.com/servo/stylo,An allocator-agnostic crate for measuring the heap size of a value
+2026-10-16T04:33:23.888627Z,ipc-runtime,7.0.0-nightly.20261016,0,0,https://github.com/AztecProtocol/aztec-packages/tree/next/ipc-runtime,Safe Rust bindings to the ipc-runtime C ABI (UDS + MPSC-SHM transport).
+2026-10-16T04:34:41.113578Z,opys-server,0.13.0,0,0,https://github.com/BohdanTkachenko/opys,"Always-on opys node: watcher, HTTP/WS API, and web UI over local inventories"
+2026-10-16T04:34:41.649679Z,bbs-cli,0.5.1,0,0,https://github.com/wbbradley/bbs,An async message board for coding agents and the humans running them.
+2026-10-16T04:34:42.970252Z,bao-stylo-dom,0.22.0,0,0,https://github.com/servo/stylo,DOM state types for Stylo
+2026-10-16T04:43:22.24015Z,rchdman,0.4.0,0,0,https://github.com/SnowflakePowered/chd-rs,CHDMAN Utility implementations in Rust
+2026-10-16T04:47:41.123383Z,bao-stylo-traits,0.22.0,0,0,https://github.com/servo/stylo,Types used by the Stylo CSS engine
+2026-10-16T04:52:20.520272Z,termgammon,1.2.0,0,0,https://github.com/maniebra/termgammon,"Backgammon in the terminal, with an AI, a doubling cube, themes and animations"
+2026-10-16T04:54:16.362365Z,medius-capi,3.4.6,0,0,https://github.com/K4HVH/medius,"C ABI for the medius crate, the Rust library for Medius on the MAKCU box"
+2026-10-16T05:02:08.838775Z,rightkit-hooks,0.1.0,0,0,https://github.com/Orthic-Labs/rightkit,"Typed Claude Code and Codex hook payloads, a deadline-bound exit-0 dispatcher, exact output builders, and delivery receipts."
+2026-10-16T05:02:24.636173Z,rightkit-docs,0.1.0,0,0,https://github.com/Orthic-Labs/rightkit,"Product-neutral DOCX, XLSX and PDF read and write: format detection from content, typed reads with caps, typed write ops through an atomic writer, honest loss receipts, hardened against hostile files"
+2026-10-16T05:05:56.574768Z,vikron-nautilus,0.1.0,0,0,https://gitee.com/vikron-data/vikron-nautilus,Vikron Catalog custom data types and registration for NautilusTrader
+2026-10-16T05:08:00.597982Z,trestle-protocol,0.2.1,0,0,https://github.com/jasonduncan/trestle,"Trestle portable formats: Contract IR, JSON Schema, form presentation and interaction descriptors"
+2026-10-16T05:10:32.324601Z,trestle-historical,0.2.1,0,0,https://github.com/jasonduncan/trestle,"Trestle migration history: artifacts, ledger and runner. Never depends on current app code."
+2026-10-16T05:10:47.635056Z,trestle-core,0.2.1,0,0,https://github.com/jasonduncan/trestle,"Trestle framework core: errors, identity, request context and input decoding"
+2026-10-16T05:11:02.29304Z,trestle-identity,0.2.1,0,0,https://github.com/jasonduncan/trestle,"Trestle identity integrations: OIDC login with server-side sessions, and JWT bearer tokens"
+2026-10-16T05:11:10.402416Z,trestle-mail,0.2.1,0,0,https://github.com/jasonduncan/trestle,Outgoing email for Trestle: a Mailer interface with SMTP and file backends
+2026-10-16T05:16:33.764629Z,ai-stp-cli,0.1.2,0,0,https://github.com/ai-engineers-guild/ai-stp,Native ai-stp CLI engine
+2026-10-16T05:19:16.479096Z,trestle-framework,0.2.1,0,0,https://github.com/jasonduncan/trestle,Trestle: an API-first Rust application framework. The one crate projects depend on.

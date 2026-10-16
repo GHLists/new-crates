@@ -8,31 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 04:19 UTC
+## Latest list — 2026-10-16 05:19 UTC
 
-New crates published between 2026-10-16 03:19 UTC and 2026-10-16 04:19 UTC.
+New crates published between 2026-10-16 04:19 UTC and 2026-10-16 05:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-16T04-19-11-067363Z.csv)
+[Full CSV](data/new-crates-2026-10-16T05-19-36-557499Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-16 03:19:58 | [piu_runtime](https://crates.io/crates/piu_runtime) | 0.267.0 | 0 | Provides the deno runtime library |
-| 2026-10-16 03:20:30 | [rust-stl](https://crates.io/crates/rust-stl) | 0.1.0 | 0 | Educational, dependency-free reimplementation of classic STL-style containers i… |
-| 2026-10-16 03:24:03 | [okbot-channel-console](https://crates.io/crates/okbot-channel-console) | 0.5.0 | 0 | Terminal channel for okbot, for development and tests. |
-| 2026-10-16 03:32:00 | [virtual-file-transfer](https://crates.io/crates/virtual-file-transfer) | 0.1.0 | 0 | Transfer in-memory, generated, or archived data as files via Windows drag-and-d… |
-| 2026-10-16 03:34:03 | [okbot-channel-gchat](https://crates.io/crates/okbot-channel-gchat) | 0.5.0 | 0 | Google Chat channel for okbot (HTTP endpoint and Pub/Sub). |
-| 2026-10-16 03:35:55 | [lite-orm-macros](https://crates.io/crates/lite-orm-macros) | 0.1.0 | 0 | Derive macros for lite-orm |
-| 2026-10-16 03:36:17 | [lite-orm](https://crates.io/crates/lite-orm) | 0.1.0 | 0 | A lightweight, schema-first PostgreSQL ORM for Rust |
-| 2026-10-16 03:37:43 | [lite-orm-cli](https://crates.io/crates/lite-orm-cli) | 0.1.0 | 0 | Schema and code generation CLI for lite-orm |
-| 2026-10-16 03:44:06 | [okbot-channel-zalo](https://crates.io/crates/okbot-channel-zalo) | 0.5.0 | 0 | Zalo Bot Platform channel for okbot (long polling and webhook). |
-| 2026-10-16 03:46:26 | [comma-connect-api](https://crates.io/crates/comma-connect-api) | 0.1.0 | 0 | Rust client for the comma connect API (api.commadotai.com) |
-| 2026-10-16 03:54:08 | [okbot-knowledge](https://crates.io/crates/okbot-knowledge) | 0.5.0 | 0 | okbase integration for okbot: knowledge bundle, scoped MCP tools and memory. |
-| 2026-10-16 04:04:02 | [okbot-runtime](https://crates.io/crates/okbot-runtime) | 0.5.0 | 0 | The okbot message pipeline: policy, conversation queues, context building and r… |
-| 2026-10-16 04:14:03 | [okbot-store](https://crates.io/crates/okbot-store) | 0.5.0 | 0 | SQLite storage for okbot conversations, deduplication and audit records. |
-| 2026-10-16 04:14:37 | [bao-stylo-static-prefs](https://crates.io/crates/bao-stylo-static-prefs) | 0.22.0 | 0 | Configuration for Stylo |
-| 2026-10-16 04:16:05 | [bao-to-shmem-derive](https://crates.io/crates/bao-to-shmem-derive) | 0.2.0 | 0 | Allows deriving the to_shmem trait. |
-| 2026-10-16 04:16:17 | [bao-servo-arc](https://crates.io/crates/bao-servo-arc) | 0.5.0 | 0 | A fork of std::sync::Arc with some extra functionality and without weak referen… |
-| 2026-10-16 04:18:06 | [bao-to-shmem](https://crates.io/crates/bao-to-shmem) | 0.6.0 | 0 | Trait to write to a contiguous chunk of shared memory |
+| 2026-10-16 04:24:03 | [bao-selectors](https://crates.io/crates/bao-selectors) | 0.41.0 | 0 | CSS Selectors matching for Rust |
+| 2026-10-16 04:24:12 | [okbot](https://crates.io/crates/okbot) | 0.5.0 | 0 | The okbot command line: create, run and manage chat bots backed by agent CLIs a… |
+| 2026-10-16 04:24:31 | [emaki](https://crates.io/crates/emaki) | 0.1.0 | 0 | Official SDK for emaki (emaki.ai), the Japanese-language AI video generator for… |
+| 2026-10-16 04:29:41 | [hpsvm-macros](https://crates.io/crates/hpsvm-macros) | 0.1.19 | 0 | Proc macros for hpsvm builtin instruction and transaction handlers |
+| 2026-10-16 04:29:43 | [hpsvm-test-support](https://crates.io/crates/hpsvm-test-support) | 0.1.19 | 0 | Shared SBF test-program fixture lookup for hpsvm tests, benches, and doctests |
+| 2026-10-16 04:30:01 | [sito](https://crates.io/crates/sito) | 0.0.1 | 0 | Memory-safe filtering DNS resolver with a built-in web UI. One binary, one conf… |
+| 2026-10-16 04:32:10 | [bao-stylo-malloc-size-of](https://crates.io/crates/bao-stylo-malloc-size-of) | 0.22.0 | 0 | An allocator-agnostic crate for measuring the heap size of a value |
+| 2026-10-16 04:33:23 | [ipc-runtime](https://crates.io/crates/ipc-runtime) | 7.0.0-nightly.20261… | 0 | Safe Rust bindings to the ipc-runtime C ABI (UDS + MPSC-SHM transport). |
+| 2026-10-16 04:34:41 | [opys-server](https://crates.io/crates/opys-server) | 0.13.0 | 0 | Always-on opys node: watcher, HTTP/WS API, and web UI over local inventories |
+| 2026-10-16 04:34:41 | [bbs-cli](https://crates.io/crates/bbs-cli) | 0.5.1 | 0 | An async message board for coding agents and the humans running them. |
+| 2026-10-16 04:34:42 | [bao-stylo-dom](https://crates.io/crates/bao-stylo-dom) | 0.22.0 | 0 | DOM state types for Stylo |
+| 2026-10-16 04:43:22 | [rchdman](https://crates.io/crates/rchdman) | 0.4.0 | 0 | CHDMAN Utility implementations in Rust |
+| 2026-10-16 04:47:41 | [bao-stylo-traits](https://crates.io/crates/bao-stylo-traits) | 0.22.0 | 0 | Types used by the Stylo CSS engine |
+| 2026-10-16 04:52:20 | [termgammon](https://crates.io/crates/termgammon) | 1.2.0 | 0 | Backgammon in the terminal, with an AI, a doubling cube, themes and animations |
+| 2026-10-16 04:54:16 | [medius-capi](https://crates.io/crates/medius-capi) | 3.4.6 | 0 | C ABI for the medius crate, the Rust library for Medius on the MAKCU box |
+| 2026-10-16 05:02:08 | [rightkit-hooks](https://crates.io/crates/rightkit-hooks) | 0.1.0 | 0 | Typed Claude Code and Codex hook payloads, a deadline-bound exit-0 dispatcher,… |
+| 2026-10-16 05:02:24 | [rightkit-docs](https://crates.io/crates/rightkit-docs) | 0.1.0 | 0 | Product-neutral DOCX, XLSX and PDF read and write: format detection from conten… |
+| 2026-10-16 05:05:56 | [vikron-nautilus](https://crates.io/crates/vikron-nautilus) | 0.1.0 | 0 | Vikron Catalog custom data types and registration for NautilusTrader |
+| 2026-10-16 05:08:00 | [trestle-protocol](https://crates.io/crates/trestle-protocol) | 0.2.1 | 0 | Trestle portable formats: Contract IR, JSON Schema, form presentation and inter… |
+| 2026-10-16 05:10:32 | [trestle-historical](https://crates.io/crates/trestle-historical) | 0.2.1 | 0 | Trestle migration history: artifacts, ledger and runner. Never depends on curre… |
+| 2026-10-16 05:10:47 | [trestle-core](https://crates.io/crates/trestle-core) | 0.2.1 | 0 | Trestle framework core: errors, identity, request context and input decoding |
+| 2026-10-16 05:11:02 | [trestle-identity](https://crates.io/crates/trestle-identity) | 0.2.1 | 0 | Trestle identity integrations: OIDC login with server-side sessions, and JWT be… |
+| 2026-10-16 05:11:10 | [trestle-mail](https://crates.io/crates/trestle-mail) | 0.2.1 | 0 | Outgoing email for Trestle: a Mailer interface with SMTP and file backends |
+| 2026-10-16 05:16:33 | [ai-stp-cli](https://crates.io/crates/ai-stp-cli) | 0.1.2 | 0 | Native ai-stp CLI engine |
+| 2026-10-16 05:19:16 | [trestle-framework](https://crates.io/crates/trestle-framework) | 0.2.1 | 0 | Trestle: an API-first Rust application framework. The one crate projects depend… |
 
 ## Data source
 
