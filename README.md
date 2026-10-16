@@ -8,60 +8,70 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 23:19 UTC
+## Latest list — 2026-10-16 00:22 UTC
 
-New crates published between 2026-10-15 22:21 UTC and 2026-10-15 23:19 UTC.
+New crates published between 2026-10-15 23:19 UTC and 2026-10-16 00:22 UTC.
 
-[Full CSV](data/new-crates-2026-10-15T23-19-07-204409Z.csv)
+[Full CSV](data/new-crates-2026-10-16T00-22-18-352574Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-15 22:23:33 | [pairwise-gate](https://crates.io/crates/pairwise-gate) | 0.1.0 | 0 | Evidence-gated selection policies for comparing a candidate against a baseline… |
-| 2026-10-15 22:23:36 | [failure-fingerprint](https://crates.io/crates/failure-fingerprint) | 0.1.0 | 0 | Stable identity for failure modes across steps of a self-improvement loop: new… |
-| 2026-10-15 22:23:46 | [ppoppo-pas-oidc](https://crates.io/crates/ppoppo-pas-oidc) | 1.0.0 | 0 | Client of the Ppoppo Accounts System (PAS) OpenID Provider — OIDC relying party… |
-| 2026-10-15 22:24:02 | [larust-spa](https://crates.io/crates/larust-spa) | 0.5.0 | 0 | A Laravel-shaped web framework for Rust. |
-| 2026-10-15 22:24:50 | [crcbl-vk](https://crates.io/crates/crcbl-vk) | 0.1.0 | 0 | Crucible Vulkan backend (ash) implementing the HAL seam |
-| 2026-10-15 22:25:33 | [piu_subprocess_windows](https://crates.io/crates/piu_subprocess_windows) | 0.54.0 | 0 | Subprocess API implementation for Windows |
-| 2026-10-15 22:27:24 | [easyssf-core](https://crates.io/crates/easyssf-core) | 0.6.0 | 0 | The data structures of the OpenID Shared Signals Framework: SETs, subjects, eve… |
-| 2026-10-15 22:27:26 | [easyssf-receiver](https://crates.io/crates/easyssf-receiver) | 0.6.0 | 0 | An OpenID Shared Signals Framework receiver without a web framework: SET verifi… |
-| 2026-10-15 22:27:28 | [easyssf-test](https://crates.io/crates/easyssf-test) | 0.6.0 | 0 | Test support for SSF receivers: a transmitter that signs SETs, serves its metad… |
-| 2026-10-15 22:27:30 | [easyssf-receiver-actix-web](https://crates.io/crates/easyssf-receiver-actix-web) | 0.6.0 | 0 | The easyssf receiver for actix-web: push endpoint, token revocation middleware… |
-| 2026-10-15 22:27:31 | [easyssf-receiver-axum](https://crates.io/crates/easyssf-receiver-axum) | 0.6.0 | 0 | The easyssf receiver for axum and every framework on tower: push endpoint, toke… |
-| 2026-10-15 22:31:13 | [brisvox-engine](https://crates.io/crates/brisvox-engine) | 0.1.1 | 0 | Brisvox engine: the production voice pipeline (transport pump, VAD, STT, turn d… |
-| 2026-10-15 22:34:20 | [ppoppo-pas-oidc-axum](https://crates.io/crates/ppoppo-pas-oidc-axum) | 1.0.0 | 0 | axum / tower binding of ppoppo-pas-oidc: the perimeter Bearer-auth Layer (Autho… |
-| 2026-10-15 22:34:50 | [crcbl-webgpu](https://crates.io/crates/crcbl-webgpu) | 0.1.0 | 0 | Crucible WebGPU backend — the wasm → JS command stream encoding |
-| 2026-10-15 22:36:24 | [piu_io](https://crates.io/crates/piu_io) | 0.169.0 | 0 | IO primitives for Deno extensions |
-| 2026-10-15 22:36:49 | [piu_fs](https://crates.io/crates/piu_fs) | 0.169.0 | 0 | Ops for interacting with the file system |
-| 2026-10-15 22:39:02 | [easyssf-receiver-sqlx](https://crates.io/crates/easyssf-receiver-sqlx) | 0.6.0 | 0 | The database stores of the easyssf receiver on sqlx: processed SETs, revocation… |
-| 2026-10-15 22:39:12 | [tavrn-crypto](https://crates.io/crates/tavrn-crypto) | 0.1.0 | 0 | tavrn end-to-end encryption core (OpenMLS-based MLS client, key derivation, sea… |
-| 2026-10-15 22:39:51 | [faucet-common-sql](https://crates.io/crates/faucet-common-sql) | 1.0.0 | 0 | Shared SQL dialects and the sink planning engine for the faucet-stream SQL sink… |
-| 2026-10-15 22:40:12 | [ttk-relay](https://crates.io/crates/ttk-relay) | 6.5.7 | 0 | TTKServer relay node: an attested enclave server forwarding onion-routed /faf r… |
-| 2026-10-15 22:40:14 | [ttk-executables](https://crates.io/crates/ttk-executables) | 6.5.7 | 0 | TTKServer executables: the enclave nodes (relay, s3-server, root), the parent-i… |
-| 2026-10-15 22:41:33 | [brisvox-agent-link](https://crates.io/crates/brisvox-agent-link) | 0.1.1 | 0 | Brisvox out-of-process agent protocol: versioned JSON over WebSocket between a… |
-| 2026-10-15 22:43:02 | [rightkit-record](https://crates.io/crates/rightkit-record) | 0.3.0 | 0 | Per-window screen capture for any app, chosen by window id and pid: ScreenCaptu… |
-| 2026-10-15 22:44:50 | [crcbl-server](https://crates.io/crates/crcbl-server) | 0.1.0 | 0 | Crucible authoritative server: fixed-tick simulation and snapshot emission |
-| 2026-10-15 22:44:56 | [markref](https://crates.io/crates/markref) | 0.2.0 | 0 | Read-only CLI for shared feature marks in source comments |
-| 2026-10-15 22:44:56 | [faucet-common-s3](https://crates.io/crates/faucet-common-s3) | 1.0.0 | 0 | Shared S3 client builder and file-writer storage backend for the faucet-stream… |
-| 2026-10-15 22:44:56 | [ppoppo-pas-oidc-test](https://crates.io/crates/ppoppo-pas-oidc-test) | 1.0.0 | 0 | Test kit for ppoppo-pas-oidc: FakePasServer, a fake PAS OpenID Provider — disco… |
-| 2026-10-15 22:46:33 | [twig-kit](https://crates.io/crates/twig-kit) | 6.0.0 | 0 | What twig's languages share: the document tree, spans, the spelling table, the… |
-| 2026-10-15 22:46:45 | [twig-html](https://crates.io/crates/twig-html) | 6.0.0 | 0 | HTML for twig: a forgiving document-oriented HTML parser and its editing table,… |
-| 2026-10-15 22:46:48 | [twig-markdown](https://crates.io/crates/twig-markdown) | 6.0.0 | 0 | Markdown for twig: CommonMark 0.31.2, GFM and twig's default flavour, with its… |
-| 2026-10-15 22:46:50 | [twig-djot](https://crates.io/crates/twig-djot) | 6.0.0 | 0 | Djot for twig: the parser, HTML renderer, serializer and editing table, on twig… |
-| 2026-10-15 22:46:53 | [twig-xml](https://crates.io/crates/twig-xml) | 6.0.0 | 0 | XML and SVG for twig: a strict XML parser and serializer that rewrites attribut… |
-| 2026-10-15 22:47:41 | [piu_tls](https://crates.io/crates/piu_tls) | 0.246.0 | 0 | TLS for Deno |
-| 2026-10-15 22:53:10 | [brisvox-server](https://crates.io/crates/brisvox-server) | 0.1.1 | 0 | Brisvox server: multi-tenant session manager and HTTP API |
-| 2026-10-15 22:53:45 | [ppoppo-pcs-session-test](https://crates.io/crates/ppoppo-pcs-session-test) | 1.0.0 | 0 | Test kit for ppoppo-pcs-session: ServedSessionFace, the PCS session face (ppopp… |
-| 2026-10-15 22:54:50 | [crcbl-steam](https://crates.io/crates/crcbl-steam) | 0.1.0 | 0 | Crucible Steamworks: the SDK's flat C API, loaded at runtime, behind an event q… |
-| 2026-10-15 22:57:56 | [twig-asciidoc](https://crates.io/crates/twig-asciidoc) | 6.0.0 | 0 | AsciiDoc for twig: the parser, serializer and editing table, held to the AsciiD… |
-| 2026-10-15 22:58:30 | [piu_webidl](https://crates.io/crates/piu_webidl) | 0.259.0 | 0 | WebIDL implementation for Deno |
-| 2026-10-15 23:03:27 | [brisvox](https://crates.io/crates/brisvox) | 0.1.1 | 0 | Brisvox: a Rust engine for real-time voice agents. One dependency for the serve… |
-| 2026-10-15 23:04:49 | [crcbl-assets](https://crates.io/crates/crcbl-assets) | 0.1.0 | 0 | Crucible asset ids, load states and the IO seam beneath them |
-| 2026-10-15 23:06:40 | [rs-gherkin-feature2json](https://crates.io/crates/rs-gherkin-feature2json) | 0.1.0 | 0 | Convert Gherkin feature file to JSON |
-| 2026-10-15 23:09:06 | [twig-doc-cli](https://crates.io/crates/twig-doc-cli) | 6.0.0 | 0 | The `twig` command-line tool: parse, query, edit, and losslessly round-trip Djo… |
-| 2026-10-15 23:09:18 | [piu_web](https://crates.io/crates/piu_web) | 0.290.0 | 0 | Collection of Web APIs |
-| 2026-10-15 23:09:48 | [mirql-love-sparkle](https://crates.io/crates/mirql-love-sparkle) | 0.1.0 | 0 | A tiny sparkle of love: the Rust port of @mirql/love-sparkle |
-| 2026-10-15 23:14:10 | [larust-validation](https://crates.io/crates/larust-validation) | 0.5.0 | 0 | A Laravel-shaped web framework for Rust. |
-| 2026-10-15 23:14:50 | [crcbl-inventory](https://crates.io/crates/crcbl-inventory) | 0.1.0 | 0 | Crucible's grid-inventory kit: one grid primitive, bitmask footprints, rotation… |
+| 2026-10-15 23:19:46 | [larust-macros](https://crates.io/crates/larust-macros) | 0.5.0 | 0 | A Laravel-shaped web framework for Rust. |
+| 2026-10-15 23:20:11 | [piu_fetch](https://crates.io/crates/piu_fetch) | 0.283.0 | 0 | Fetch API implementation for Deno |
+| 2026-10-15 23:20:25 | [atuin-octavo](https://crates.io/crates/atuin-octavo) | 18.24.0 | 0 | Client for the Atuin hub's gRPC API |
+| 2026-10-15 23:20:46 | [larust-db](https://crates.io/crates/larust-db) | 0.5.0 | 0 | A Laravel-shaped web framework for Rust. |
+| 2026-10-15 23:21:09 | [larust-mail](https://crates.io/crates/larust-mail) | 0.5.0 | 0 | A Laravel-shaped web framework for Rust. |
+| 2026-10-15 23:21:52 | [larust-permissions](https://crates.io/crates/larust-permissions) | 0.5.0 | 0 | A Laravel-shaped web framework for Rust. |
+| 2026-10-15 23:24:10 | [larust-sanctum](https://crates.io/crates/larust-sanctum) | 0.5.0 | 0 | A Laravel-shaped web framework for Rust. |
+| 2026-10-15 23:24:49 | [crcbl-greybox](https://crates.io/crates/crcbl-greybox) | 0.1.0 | 0 | Crucible greybox pack: prototyping primitives sized in real-world metres |
+| 2026-10-15 23:31:04 | [piu_ffi](https://crates.io/crates/piu_ffi) | 0.246.0 | 0 | Dynamic library ffi for deno |
+| 2026-10-15 23:31:09 | [tygr-objectscript](https://crates.io/crates/tygr-objectscript) | 0.1.0 | 0 | tygr grammar definitions for InterSystems ObjectScript and IRIS SQL |
+| 2026-10-15 23:31:10 | [ascot](https://crates.io/crates/ascot) | 0.1.0 | 0 | A type checker and code intelligence engine for InterSystems ObjectScript, usab… |
+| 2026-10-15 23:34:07 | [larust-socialite](https://crates.io/crates/larust-socialite) | 0.5.0 | 0 | A Laravel-shaped web framework for Rust. |
+| 2026-10-15 23:34:50 | [crcbl-client](https://crates.io/crates/crcbl-client) | 0.1.0 | 0 | Crucible rendering client: interpolation, input send, snapshot apply |
+| 2026-10-15 23:35:08 | [bevy_annotations](https://crates.io/crates/bevy_annotations) | 0.0.1 | 0 | This crate is reserved for the Bevy Engine project |
+| 2026-10-15 23:37:47 | [nanoaudio-analysis](https://crates.io/crates/nanoaudio-analysis) | 0.1.0 | 0 | Allocation-free audio analyzers for nanoaudio pipelines and sample slices. |
+| 2026-10-15 23:38:36 | [nanoaudio-cpal](https://crates.io/crates/nanoaudio-cpal) | 0.1.0 | 0 | Desktop and browser audio output and capture for nanoaudio ring buffers, throug… |
+| 2026-10-15 23:38:40 | [nanoaudio-web](https://crates.io/crates/nanoaudio-web) | 0.1.0 | 0 | Low-latency browser audio for nanoaudio, with the stream running in a Web Audio… |
+| 2026-10-15 23:41:46 | [piu_http_h1](https://crates.io/crates/piu_http_h1) | 0.10.0 | 0 | HTTP/1 protocol pieces for Deno |
+| 2026-10-15 23:41:57 | [glycoflow-core](https://crates.io/crates/glycoflow-core) | 0.1.1 | 0 | GlycoFlow inference engine: GLYCAM builder, torsion kinematics, flow model and… |
+| 2026-10-15 23:43:05 | [reglyco-glycoflow](https://crates.io/crates/reglyco-glycoflow) | 0.2.3 | 0 | GlycoFlow-guided fitting of glycans of known sequence into density maps |
+| 2026-10-15 23:43:26 | [larust-notifications](https://crates.io/crates/larust-notifications) | 0.5.0 | 0 | A Laravel-shaped web framework for Rust. |
+| 2026-10-15 23:44:50 | [crcbl-scene](https://crates.io/crates/crcbl-scene) | 0.1.0 | 0 | Crucible scene format and glTF import |
+| 2026-10-15 23:45:27 | [oxsearch-core](https://crates.io/crates/oxsearch-core) | 0.1.0 | 0 | The core of oxsearch: the transport and endpoint traits, errors, and the common… |
+| 2026-10-15 23:45:27 | [oxsearch-derive](https://crates.io/crates/oxsearch-derive) | 0.1.0 | 0 | Derive macros for oxsearch's typed document layer |
+| 2026-10-15 23:45:28 | [oxsearch-analysis](https://crates.io/crates/oxsearch-analysis) | 0.1.0 | 0 | Analyzers, tokenizers and token filters for oxsearch, generated from the Elasti… |
+| 2026-10-15 23:45:28 | [oxsearch-inference](https://crates.io/crates/oxsearch-inference) | 0.1.0 | 0 | The inference API for oxsearch (embeddings, sparse embeddings, rerank, completi… |
+| 2026-10-15 23:45:29 | [oxsearch-tasks](https://crates.io/crates/oxsearch-tasks) | 0.1.0 | 0 | The task management API for oxsearch, generated from the Elasticsearch specific… |
+| 2026-10-15 23:50:18 | [mediaspine](https://crates.io/crates/mediaspine) | 0.1.0 | 0 | The shared media vocabulary of the mediaio family: frames, packets, subtitles,… |
+| 2026-10-15 23:50:44 | [mediaencode](https://crates.io/crates/mediaencode) | 0.19.0 | 0 | The write faces of the mediaio family: the Muxer, the video and audio encoders… |
+| 2026-10-15 23:50:46 | [oxsearch-mapping](https://crates.io/crates/oxsearch-mapping) | 0.1.0 | 0 | Field mappings for oxsearch, including semantic_text, dense_vector and sparse_v… |
+| 2026-10-15 23:50:57 | [mediaio-ffmpeg](https://crates.io/crates/mediaio-ffmpeg) | 0.19.0 | 0 | The FFmpeg base of the mediaio family: the link to libavcodec and libavformat,… |
+| 2026-10-15 23:51:03 | [boxwire](https://crates.io/crates/boxwire) | 0.0.1 | 0 | Reserved for boxwire, a visual editor and checker for programs built from black… |
+| 2026-10-15 23:51:37 | [mediaencode-ffmpeg](https://crates.io/crates/mediaencode-ffmpeg) | 0.19.0 | 0 | The FFmpeg write adapter of the mediaio family. In this release: the encoder-by… |
+| 2026-10-15 23:51:51 | [mediaio](https://crates.io/crates/mediaio) | 0.19.0 | 0 | The mediaio family in one dependency: the shared media vocabulary, the read and… |
+| 2026-10-15 23:52:29 | [piu_signals](https://crates.io/crates/piu_signals) | 0.50.0 | 0 | Signals for Deno |
+| 2026-10-15 23:52:59 | [learned_index_lab](https://crates.io/crates/learned_index_lab) | 0.1.0 | 0 | High-performance Piecewise Geometric Model (PGM) learned index implementation i… |
+| 2026-10-15 23:54:14 | [larust-shield](https://crates.io/crates/larust-shield) | 0.5.0 | 0 | A Laravel-shaped web framework for Rust. |
+| 2026-10-15 23:54:50 | [crcbl-ragdoll](https://crates.io/crates/crcbl-ragdoll) | 0.1.0 | 0 | Crucible ragdolls: authored and generated rigs, and the running ragdoll joining… |
+| 2026-10-16 00:00:47 | [oxsearch-docs](https://crates.io/crates/oxsearch-docs) | 0.1.0 | 0 | Document APIs for oxsearch (index, get, multi-get, update, delete, bulk), gener… |
+| 2026-10-16 00:03:22 | [piu_net](https://crates.io/crates/piu_net) | 0.251.0 | 0 | Networking for Deno |
+| 2026-10-16 00:03:32 | [hatchery-m4a-signer](https://crates.io/crates/hatchery-m4a-signer) | 0.2.15 | 0 | hq-core m4a signer: per-session keys that never leave the signer, sealed by a h… |
+| 2026-10-16 00:04:12 | [larust-support](https://crates.io/crates/larust-support) | 0.5.0 | 0 | A Laravel-shaped web framework for Rust. |
+| 2026-10-16 00:04:50 | [crcbl-wind](https://crates.io/crates/crcbl-wind) | 0.1.0 | 0 | Crucible wind: the two-layer field, its weather, and the one formula every cons… |
+| 2026-10-16 00:08:10 | [thediscordlist-serenity](https://crates.io/crates/thediscordlist-serenity) | 0.1.0 | 0 | Official TheDiscordList integration for serenity and poise: auto-post server co… |
+| 2026-10-16 00:09:44 | [deka-rfd](https://crates.io/crates/deka-rfd) | 0.17.2 | 0 | deka's fork of rfd 0.17.2 (PolyMeilex/rfd) adding fallible try_pick_file/try_sa… |
+| 2026-10-16 00:09:44 | [deka-ui-core](https://crates.io/crates/deka-ui-core) | 0.1.0 | 0 | Internal part of deka-ui: the retained node tree, styles, motion and hot-reload… |
+| 2026-10-16 00:09:45 | [deka-vello-gpu-shaders](https://crates.io/crates/deka-vello-gpu-shaders) | 0.3.0 | 0 | deka's fork of vello_gpu_shaders 0.3.0 (linebender/vello) with upscaled image e… |
+| 2026-10-16 00:09:46 | [deka-ui-macros](https://crates.io/crates/deka-ui-macros) | 0.1.0 | 0 | Internal part of deka-ui: the view! and #[component] macros. Use the deka-ui cr… |
+| 2026-10-16 00:09:46 | [deka-vello-gpu](https://crates.io/crates/deka-vello-gpu) | 0.3.0 | 0 | deka's fork of vello_gpu 0.3.0 (linebender/vello): multicore strips, staging-be… |
+| 2026-10-16 00:10:47 | [oxsearch-search](https://crates.io/crates/oxsearch-search) | 0.1.0 | 0 | Search, multi-search, point-in-time, scroll and explain for oxsearch, generated… |
+| 2026-10-16 00:14:08 | [piu_telemetry](https://crates.io/crates/piu_telemetry) | 0.81.0 | 0 | Telemetry for Deno |
+| 2026-10-16 00:14:51 | [crcbl](https://crates.io/crates/crcbl) | 0.1.0 | 0 | Crucible engine umbrella crate |
+| 2026-10-16 00:16:24 | [vigilante](https://crates.io/crates/vigilante) | 0.1.0 | 0 | Shows the new powers that a pull request gives to code, CI, build, and AI agents |
+| 2026-10-16 00:17:41 | [larust-testing](https://crates.io/crates/larust-testing) | 0.5.0 | 0 | A Laravel-shaped web framework for Rust. |
+| 2026-10-16 00:20:47 | [oxsearch-transport-reqwest](https://crates.io/crates/oxsearch-transport-reqwest) | 0.1.0 | 0 | The default HTTP transport for oxsearch, on reqwest |
+| 2026-10-16 00:22:09 | [harn-prompt-syntax](https://crates.io/crates/harn-prompt-syntax) | 0.10.167 | 0 | Shared Harn prompt-template syntax, vocabulary, lint analysis, and outlines. |
 
 ## Data source
 

@@ -1,0 +1,57 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-15T23:19:46.550696Z,larust-macros,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T23:20:11.174762Z,piu_fetch,0.283.0,0,0,https://github.com/denoland/deno,Fetch API implementation for Deno
+2026-10-15T23:20:25.176114Z,atuin-octavo,18.24.0,0,0,https://github.com/atuinsh/atuin,Client for the Atuin hub's gRPC API
+2026-10-15T23:20:46.784915Z,larust-db,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T23:21:09.549934Z,larust-mail,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T23:21:52.758539Z,larust-permissions,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T23:24:10.081862Z,larust-sanctum,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T23:24:49.782596Z,crcbl-greybox,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible greybox pack: prototyping primitives sized in real-world metres
+2026-10-15T23:31:04.613595Z,piu_ffi,0.246.0,0,0,https://github.com/denoland/deno,Dynamic library ffi for deno
+2026-10-15T23:31:09.727455Z,tygr-objectscript,0.1.0,0,0,https://github.com/intersystems-community/ascot,tygr grammar definitions for InterSystems ObjectScript and IRIS SQL
+2026-10-15T23:31:10.379825Z,ascot,0.1.0,0,0,https://github.com/intersystems-community/ascot,"A type checker and code intelligence engine for InterSystems ObjectScript, usable as a CLI, an LSP or MCP server, or a library."
+2026-10-15T23:34:07.479039Z,larust-socialite,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T23:34:50.544147Z,crcbl-client,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible rendering client: interpolation, input send, snapshot apply"
+2026-10-15T23:35:08.802665Z,bevy_annotations,0.0.1,0,0,https://github.com/bevyengine/bevy-crate-reservations,This crate is reserved for the Bevy Engine project
+2026-10-15T23:37:47.935873Z,nanoaudio-analysis,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoaudio,Allocation-free audio analyzers for nanoaudio pipelines and sample slices.
+2026-10-15T23:38:36.263763Z,nanoaudio-cpal,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoaudio,"Desktop and browser audio output and capture for nanoaudio ring buffers, through cpal."
+2026-10-15T23:38:40.054361Z,nanoaudio-web,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoaudio,"Low-latency browser audio for nanoaudio, with the stream running in a Web Audio AudioWorklet."
+2026-10-15T23:41:46.344897Z,piu_http_h1,0.10.0,0,0,https://github.com/denoland/deno,HTTP/1 protocol pieces for Deno
+2026-10-15T23:41:57.076861Z,glycoflow-core,0.1.1,0,0,https://github.com/Ojas-Singh/ReGlyco,"GlycoFlow inference engine: GLYCAM builder, torsion kinematics, flow model and ODE sampler"
+2026-10-15T23:43:05.311302Z,reglyco-glycoflow,0.2.3,0,0,https://github.com/Ojas-Singh/ReGlyco,GlycoFlow-guided fitting of glycans of known sequence into density maps
+2026-10-15T23:43:26.0243Z,larust-notifications,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T23:44:50.179319Z,crcbl-scene,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible scene format and glTF import
+2026-10-15T23:45:27.37555Z,oxsearch-core,0.1.0,0,0,https://github.com/agentstatelabs/oxsearch,"The core of oxsearch: the transport and endpoint traits, errors, and the common types, query DSL, retrievers and kNN generated from the Elasticsearch specification"
+2026-10-15T23:45:27.843084Z,oxsearch-derive,0.1.0,0,0,https://github.com/agentstatelabs/oxsearch,Derive macros for oxsearch's typed document layer
+2026-10-15T23:45:28.445808Z,oxsearch-analysis,0.1.0,0,0,https://github.com/agentstatelabs/oxsearch,"Analyzers, tokenizers and token filters for oxsearch, generated from the Elasticsearch specification"
+2026-10-15T23:45:28.877396Z,oxsearch-inference,0.1.0,0,0,https://github.com/agentstatelabs/oxsearch,"The inference API for oxsearch (embeddings, sparse embeddings, rerank, completion), generated from the Elasticsearch specification"
+2026-10-15T23:45:29.289054Z,oxsearch-tasks,0.1.0,0,0,https://github.com/agentstatelabs/oxsearch,"The task management API for oxsearch, generated from the Elasticsearch specification"
+2026-10-15T23:50:18.326774Z,mediaspine,0.1.0,0,0,https://github.com/findit-studio/mediaio,"The shared media vocabulary of the mediaio family: frames, packets, subtitles, the push rhythm, the demuxer's types, the adapter traits, the resampler face and HDR metadata. no_std, no allocator requ…"
+2026-10-15T23:50:44.976798Z,mediaencode,0.19.0,0,0,https://github.com/findit-studio/mediaio,"The write faces of the mediaio family: the Muxer, the video and audio encoders in the push rhythm the decoders share, the encoder settings and the write errors. no_std, no allocator required."
+2026-10-15T23:50:46.764689Z,oxsearch-mapping,0.1.0,0,0,https://github.com/agentstatelabs/oxsearch,"Field mappings for oxsearch, including semantic_text, dense_vector and sparse_vector, generated from the Elasticsearch specification"
+2026-10-15T23:50:57.936085Z,mediaio-ffmpeg,0.19.0,0,0,https://github.com/findit-studio/mediaio,"The FFmpeg base of the mediaio family: the link to libavcodec and libavformat, and the crossings between FFmpeg's memory and the shared media vocabulary — carriers, packet and frame conversion, codec…"
+2026-10-15T23:51:03.500404Z,boxwire,0.0.1,0,0,https://github.com/Roboport-Tecnologia/boxwire,"Reserved for boxwire, a visual editor and checker for programs built from black-box units. The real crate arrives with phase 1."
+2026-10-15T23:51:37.828826Z,mediaencode-ffmpeg,0.19.0,0,0,https://github.com/findit-studio/mediaio,"The FFmpeg write adapter of the mediaio family. In this release: the encoder-by-name catalogue, with GPL encoders reachable only behind the `gpl` feature and refused by name without it."
+2026-10-15T23:51:51.117459Z,mediaio,0.19.0,0,0,https://github.com/findit-studio/mediaio,"The mediaio family in one dependency: the shared media vocabulary, the read and write faces, the editing timeline, and on request the FFmpeg and WebCodecs adapters."
+2026-10-15T23:52:29.915496Z,piu_signals,0.50.0,0,0,https://github.com/denoland/deno,Signals for Deno
+2026-10-15T23:52:59.098201Z,learned_index_lab,0.1.0,0,0,https://github.com/gilnett/learned_index_lab,High-performance Piecewise Geometric Model (PGM) learned index implementation in pure Rust with strict epsilon error guarantees.
+2026-10-15T23:54:14.89294Z,larust-shield,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-15T23:54:50.77673Z,crcbl-ragdoll,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible ragdolls: authored and generated rigs, and the running ragdoll joining a skeleton to physics"
+2026-10-16T00:00:47.750921Z,oxsearch-docs,0.1.0,0,0,https://github.com/agentstatelabs/oxsearch,"Document APIs for oxsearch (index, get, multi-get, update, delete, bulk), generated from the Elasticsearch specification"
+2026-10-16T00:03:22.700511Z,piu_net,0.251.0,0,0,https://github.com/denoland/deno,Networking for Deno
+2026-10-16T00:03:32.885737Z,hatchery-m4a-signer,0.2.15,0,0,https://github.com/ZENG3LD/hatchery,"hq-core m4a signer: per-session keys that never leave the signer, sealed by a human key, Biscuit capabilities with attenuation for child sessions"
+2026-10-16T00:04:12.616464Z,larust-support,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-16T00:04:50.676184Z,crcbl-wind,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible wind: the two-layer field, its weather, and the one formula every consumer samples it with"
+2026-10-16T00:08:10.984033Z,thediscordlist-serenity,0.1.0,0,0,https://github.com/TheDiscordList/integration-serenity,"Official TheDiscordList integration for serenity and poise: auto-post server count, shard heartbeats and slash commands, and verify inbound webhooks."
+2026-10-16T00:09:44.128828Z,deka-rfd,0.17.2,0,0,https://github.com/dekaruntime/deka,deka's fork of rfd 0.17.2 (PolyMeilex/rfd) adding fallible try_pick_file/try_save_file. Imported as rfd.
+2026-10-16T00:09:44.92483Z,deka-ui-core,0.1.0,0,0,https://github.com/dekaruntime/deka,"Internal part of deka-ui: the retained node tree, styles, motion and hot-reload templates. Use the deka-ui crate."
+2026-10-16T00:09:45.215604Z,deka-vello-gpu-shaders,0.3.0,0,0,https://github.com/dekaruntime/deka,deka's fork of vello_gpu_shaders 0.3.0 (linebender/vello) with upscaled image edges. Imported as vello_gpu_shaders.
+2026-10-16T00:09:46.298062Z,deka-ui-macros,0.1.0,0,0,https://github.com/dekaruntime/deka,Internal part of deka-ui: the view! and #[component] macros. Use the deka-ui crate.
+2026-10-16T00:09:46.893912Z,deka-vello-gpu,0.3.0,0,0,https://github.com/dekaruntime/deka,"deka's fork of vello_gpu 0.3.0 (linebender/vello): multicore strips, staging-belt uploads, a shape API, errors instead of panics. Imported as vello_gpu."
+2026-10-16T00:10:47.204522Z,oxsearch-search,0.1.0,0,0,https://github.com/agentstatelabs/oxsearch,"Search, multi-search, point-in-time, scroll and explain for oxsearch, generated from the Elasticsearch specification"
+2026-10-16T00:14:08.97655Z,piu_telemetry,0.81.0,0,0,https://github.com/denoland/deno,Telemetry for Deno
+2026-10-16T00:14:51.581699Z,crcbl,0.1.0,0,0,https://github.com/kryptic-sh/crcbl,Crucible engine umbrella crate
+2026-10-16T00:16:24.035376Z,vigilante,0.1.0,0,0,https://github.com/theonly1me/vigilante,"Shows the new powers that a pull request gives to code, CI, build, and AI agents"
+2026-10-16T00:17:41.595189Z,larust-testing,0.5.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-16T00:20:47.051451Z,oxsearch-transport-reqwest,0.1.0,0,0,https://github.com/agentstatelabs/oxsearch,"The default HTTP transport for oxsearch, on reqwest"
+2026-10-16T00:22:09.786059Z,harn-prompt-syntax,0.10.167,0,0,https://github.com/burin-labs/harn,"Shared Harn prompt-template syntax, vocabulary, lint analysis, and outlines."
