@@ -8,56 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 16:19 UTC
+## Latest list — 2026-10-16 17:18 UTC
 
-New crates published between 2026-10-16 15:21 UTC and 2026-10-16 16:19 UTC.
+New crates published between 2026-10-16 16:19 UTC and 2026-10-16 17:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-16T16-19-05-359387Z.csv)
+[Full CSV](data/new-crates-2026-10-16T17-18-31-541624Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-16 15:25:14 | [guic-build](https://crates.io/crates/guic-build) | 0.1.0 | 0 | Build-time native resource integration for GUIC applications. |
-| 2026-10-16 15:25:49 | [cargo-guic](https://crates.io/crates/cargo-guic) | 0.1.0 | 0 | Development and packaging orchestration for GUIC applications. |
-| 2026-10-16 15:27:54 | [sciscraper](https://crates.io/crates/sciscraper) | 0.3.0 | 0 | A scientific Markdown editor with integrated reference management and RAG writi… |
-| 2026-10-16 15:28:57 | [aisle-host](https://crates.io/crates/aisle-host) | 0.1.0 | 0 | aisled 宿主库：REST 控制面、Sans-IO 泵、TCP 载波、凭证库、TLS 自签 |
-| 2026-10-16 15:29:16 | [aisle-cli](https://crates.io/crates/aisle-cli) | 0.1.0 | 0 | aisle REST 控制面客户端与签发根操作入口：连接 aisled 的 /api/v1 接口，并执行建网、身份签发与装配等根操作 |
-| 2026-10-16 15:29:25 | [selene-formats](https://crates.io/crates/selene-formats) | 0.1.1 | 0 | Selene formats for Rust |
-| 2026-10-16 15:29:26 | [aisle-daemon](https://crates.io/crates/aisle-daemon) | 0.1.0 | 0 | aisled 真机宿主守护进程：起 REST 控制面与节点编排，并接线网卡、出口、发布、代理与观测功能面 |
-| 2026-10-16 15:30:02 | [wyrd-skald-prompt](https://crates.io/crates/wyrd-skald-prompt) | 0.1.1 | 0 | Client-safe Prompt authoring builder for native Skald requests. |
-| 2026-10-16 15:35:07 | [openbim-xvergabe](https://crates.io/crates/openbim-xvergabe) | 0.1.0 | 0 | XVergabe for Rust: interface standard between e-procurement platforms and bidde… |
-| 2026-10-16 15:35:09 | [openbim-xbestellung](https://crates.io/crates/openbim-xbestellung) | 0.1.0 | 0 | XBestellung for Rust: standard for electronic purchase orders in public procure… |
-| 2026-10-16 15:35:09 | [openbim-xrechnung](https://crates.io/crates/openbim-xrechnung) | 0.1.0 | 0 | XRechnung for Rust: german CIUS of the EN 16931 electronic invoice |
-| 2026-10-16 15:35:10 | [openbim-xtrasse](https://crates.io/crates/openbim-xtrasse) | 0.1.0 | 0 | XTrasse for Rust: geodata standard for planned line routes, built on XPlanung |
-| 2026-10-16 15:35:12 | [openbim-xbreitband](https://crates.io/crates/openbim-xbreitband) | 0.1.0 | 0 | XBreitband for Rust: xBau specialist module for permits in broadband rollout an… |
-| 2026-10-16 15:37:31 | [gitpm](https://crates.io/crates/gitpm) | 0.1.1 | 0 | Embeddable package manager where packages are folders in Git repositories: rele… |
-| 2026-10-16 15:42:31 | [wyrd-tls](https://crates.io/crates/wyrd-tls) | 0.1.1 | 0 | Process-wide TLS crypto-provider ownership for Wyrd transports. |
-| 2026-10-16 15:43:32 | [low](https://crates.io/crates/low) | 0.1.2 | 0 | A low-entropy, code-mode coding agent: one sandboxed Python tool, verified diff… |
-| 2026-10-16 15:44:12 | [asimov-http](https://crates.io/crates/asimov-http) | 25.7.5 | 0 | HTTP message integrity with SHA-256 digests and Ed25519 signatures |
-| 2026-10-16 15:46:31 | [slave](https://crates.io/crates/slave) | 0.1.0 | 0 | A CLI for a Laravel-inspired Rust framework |
-| 2026-10-16 15:48:00 | [openbim-xbau](https://crates.io/crates/openbim-xbau) | 0.1.0 | 0 | XBau for Rust: xÖV message standard for building-permit procedures, including t… |
-| 2026-10-16 15:49:17 | [progeny](https://crates.io/crates/progeny) | 0.0.3 | 0 | Generate a Rust client and server from an OpenAPI description, faithfully and l… |
-| 2026-10-16 15:50:03 | [progeny-cli](https://crates.io/crates/progeny-cli) | 0.0.3 | 0 | Command line front end for progeny: generate a Rust client and server from an O… |
-| 2026-10-16 15:54:44 | [flint-cli](https://crates.io/crates/flint-cli) | 0.1.0 | 0 | Folder linter: validates that files and folders in a project match an allow-lis… |
-| 2026-10-16 15:54:58 | [wyrd-skald-providers](https://crates.io/crates/wyrd-skald-providers) | 0.1.1 | 0 | Native HTTP provider clients for Skald. |
-| 2026-10-16 15:55:01 | [wyrd-skald-cache](https://crates.io/crates/wyrd-skald-cache) | 0.1.1 | 0 | Native prompt cache primitives for Skald provider requests. |
-| 2026-10-16 15:56:21 | [commonware-simd](https://crates.io/crates/commonware-simd) | 2026.9.0 | 0 | Abstract over SIMD operations. |
-| 2026-10-16 15:59:17 | [zakura-orchard-legacy](https://crates.io/crates/zakura-orchard-legacy) | 0.0.0 | 0 | Reserved |
-| 2026-10-16 15:59:21 | [rustsf_auth](https://crates.io/crates/rustsf_auth) | 0.1.0 | 0 | Salesforce OAuth2 authentication SDK for Rust, supporting; JWT, sfdxAuthUrl, Cl… |
-| 2026-10-16 16:00:10 | [openbim-xplanung](https://crates.io/crates/openbim-xplanung) | 0.1.0 | 0 | XPlanung for Rust: exchange standard for spatial and land-use plans (XPlanGML) |
-| 2026-10-16 16:01:08 | [valancex-port-desktop](https://crates.io/crates/valancex-port-desktop) | 0.1.0 | 0 | Desktop PORT: realizes MESH render trees as native windows (built and tested on… |
-| 2026-10-16 16:01:22 | [xbreitband](https://crates.io/crates/xbreitband) | 0.1.0 | 0 | XBreitband alias: re-exports openbim-xbreitband. |
-| 2026-10-16 16:07:13 | [picturesque-tags](https://crates.io/crates/picturesque-tags) | 0.1.0 | 0 | Generate SVG icons from tag strings. |
-| 2026-10-16 16:07:58 | [wyrd-skald-runtime](https://crates.io/crates/wyrd-skald-runtime) | 0.1.1 | 0 | Native Skald provider runtime dispatch and mock provider seam. |
-| 2026-10-16 16:10:03 | [imprimatur](https://crates.io/crates/imprimatur) | 0.1.0 | 0 | XLSX, PDF and DOCX authoring with its own XML, zip and PDF writers. |
-| 2026-10-16 16:10:29 | [imprimatur-cli](https://crates.io/crates/imprimatur-cli) | 0.1.0 | 0 | Read PDF, XLSX and DOCX documents as Markdown, from the command line. |
-| 2026-10-16 16:12:38 | [haze-macros](https://crates.io/crates/haze-macros) | 0.8.0 | 0 | Procedural macros for haze |
-| 2026-10-16 16:12:41 | [haze](https://crates.io/crates/haze) | 0.8.0 | 0 | Small quality-of-life helpers for Dioxus apps, fullstack or standalone: typed r… |
-| 2026-10-16 16:13:21 | [eq-discriminant](https://crates.io/crates/eq-discriminant) | 1.0.0 | 0 | Enum comparison utilities |
-| 2026-10-16 16:14:27 | [cortex-tensor](https://crates.io/crates/cortex-tensor) | 0.1.0 | 0 | A from-scratch, CPU-only tensor + autodiff engine: strided views, broadcasting,… |
-| 2026-10-16 16:14:48 | [xtrasse](https://crates.io/crates/xtrasse) | 0.1.0 | 0 | XTrasse alias: re-exports openbim-xtrasse. |
-| 2026-10-16 16:15:36 | [doze-cli](https://crates.io/crates/doze-cli) | 0.1.0 | 0 | sleep, but with one eye open: a drop-in replacement for sleep that can show dot… |
-| 2026-10-16 16:16:46 | [spotlab-range](https://crates.io/crates/spotlab-range) | 0.1.0 | 0 | A poker range-string parser and serializer: combo/hand grammar, canonical hand… |
-| 2026-10-16 16:17:18 | [abi-adapter](https://crates.io/crates/abi-adapter) | 0.1.0 | 0 | Mechanical slot-based ABI adapter for wasm boundaries |
+| 2026-10-16 16:20:18 | [wyrd-runtime](https://crates.io/crates/wyrd-runtime) | 0.1.1 | 0 | Wyrd runtime singleton and cross-cutting behavior shells. |
+| 2026-10-16 16:22:02 | [qty](https://crates.io/crates/qty) | 0.1.0 | 0 | Zero-overhead, strongly-typed physical quantities and unit conversions, generat… |
+| 2026-10-16 16:23:21 | [whiff](https://crates.io/crates/whiff) | 0.1.0 | 0 | Sniff any file and get one JSON document describing it: identity, provenance, r… |
+| 2026-10-16 16:26:07 | [nuvec-cpu](https://crates.io/crates/nuvec-cpu) | 0.0.1 | 0 | Pure-Rust CPU backend for nuvec |
+| 2026-10-16 16:26:08 | [nuvec-kernels](https://crates.io/crates/nuvec-kernels) | 0.0.1 | 0 | Metal kernel sources and the precompiled nuvec.metallib |
+| 2026-10-16 16:26:10 | [nuvec-gpu](https://crates.io/crates/nuvec-gpu) | 0.0.1 | 0 | Metal backend for nuvec: device, command encoding, memory and kernel dispatch |
+| 2026-10-16 16:26:13 | [nuvec-core](https://crates.io/crates/nuvec-core) | 0.0.1 | 0 | Lazy array graph, primitives, dtypes and evaluation for nuvec |
+| 2026-10-16 16:26:16 | [nuvec-compile](https://crates.io/crates/nuvec-compile) | 0.0.1 | 0 | Tracing, graph simplification, fusion planning and buffer planning for nuvec |
+| 2026-10-16 16:28:16 | [xbestellung](https://crates.io/crates/xbestellung) | 0.1.0 | 0 | XBestellung alias: re-exports openbim-xbestellung. |
+| 2026-10-16 16:29:10 | [xvergabe](https://crates.io/crates/xvergabe) | 0.1.0 | 0 | XVergabe alias: re-exports openbim-xvergabe. |
+| 2026-10-16 16:29:57 | [nuvec-distributed](https://crates.io/crates/nuvec-distributed) | 0.0.1 | 0 | Collectives over TCP rings and Thunderbolt RDMA for nuvec |
+| 2026-10-16 16:33:10 | [wyrd-skald-tool](https://crates.io/crates/wyrd-skald-tool) | 0.1.1 | 0 | Native tool declarations and provider message helpers for Skald. |
+| 2026-10-16 16:33:20 | [chromaglyph-treesitter](https://crates.io/crates/chromaglyph-treesitter) | 0.1.2 | 0 | Optional tree-sitter semantic layer for chromaglyph: parse code into semantic s… |
+| 2026-10-16 16:33:53 | [chromaglyph](https://crates.io/crates/chromaglyph) | 0.1.2 | 0 | CLI for chromaglyph: build and verify fonts with compiled-in syntax highlighting |
+| 2026-10-16 16:40:14 | [nuvec-io](https://crates.io/crates/nuvec-io) | 0.0.1 | 0 | Zero-copy safetensors, GGUF and npy loading for nuvec |
+| 2026-10-16 16:40:41 | [sprawling-console-ffi](https://crates.io/crates/sprawling-console-ffi) | 0.0.12 | 0 | The Zig leaf that draws the console's frames, offered as one safe function. |
+| 2026-10-16 16:43:08 | [xbau](https://crates.io/crates/xbau) | 0.1.0 | 0 | XBau alias: re-exports openbim-xbau. |
+| 2026-10-16 16:45:46 | [acme-client2](https://crates.io/crates/acme-client2) | 0.1.0 | 0 | Asynchronous ACME certificate issuance with application-owned HTTP-01 challenges |
+| 2026-10-16 16:46:18 | [ontology](https://crates.io/crates/ontology) | 0.1.0 | 0 | Initial placeholder command-line binary for the ontology project. |
+| 2026-10-16 16:50:29 | [nuvec](https://crates.io/crates/nuvec) | 0.0.1 | 0 | Pure-Rust array framework for Apple Silicon in the spirit of MLX: lazy arrays,… |
+| 2026-10-16 16:54:45 | [kartta-lang](https://crates.io/crates/kartta-lang) | 0.0.0 | 0 | The contract a language implements to plug its extraction into the kartta code… |
+| 2026-10-16 16:54:56 | [kartta-graph](https://crates.io/crates/kartta-graph) | 0.0.0 | 0 | A language-agnostic code graph: definitions per file, found by name, updated a… |
+| 2026-10-16 16:55:04 | [kartta-lang-go](https://crates.io/crates/kartta-lang-go) | 0.0.0 | 0 | Go extraction for the kartta code graph: definitions, calls, uses and imports o… |
+| 2026-10-16 16:55:11 | [kartta-lang-cpp](https://crates.io/crates/kartta-lang-cpp) | 0.0.0 | 0 | C and C++ for the kartta code graph: definitions, calls and includes extracted… |
+| 2026-10-16 16:55:22 | [kartta-lang-jsts](https://crates.io/crates/kartta-lang-jsts) | 0.0.0 | 0 | TypeScript, TSX and JavaScript extraction for the kartta code graph |
+| 2026-10-16 16:57:14 | [xplanung](https://crates.io/crates/xplanung) | 0.1.0 | 0 | XPlanung alias: re-exports openbim-xplanung. |
+| 2026-10-16 16:59:58 | [nuvec-nn](https://crates.io/crates/nuvec-nn) | 0.0.1 | 0 | Neural-network modules, layers and optimizers for nuvec |
+| 2026-10-16 17:00:25 | [slave-framework](https://crates.io/crates/slave-framework) | 0.1.0 | 0 | Runtime for slave apps: Axum server lifecycle, config, logging, Turso database,… |
+| 2026-10-16 17:02:22 | [kazoo-core](https://crates.io/crates/kazoo-core) | 0.1.0 | 0 | The kazoo audio library: synthesis, effects, analysis and the studio link, with… |
+| 2026-10-16 17:02:24 | [kazoo-fx](https://crates.io/crates/kazoo-fx) | 0.1.0 | 0 | Kazoo's effects, written from scratch: drive, time and space |
+| 2026-10-16 17:02:26 | [kazoo-host](https://crates.io/crates/kazoo-host) | 0.1.0 | 0 | What every kazoo terminal program shares: error reports installed once, and a t… |
+| 2026-10-16 17:02:29 | [kazoo-303](https://crates.io/crates/kazoo-303) | 0.1.0 | 0 | TB-303 inspired acid bassline synth — all procedural synthesis, no samples |
+| 2026-10-16 17:02:31 | [kazoo-808](https://crates.io/crates/kazoo-808) | 0.1.0 | 0 | TR-808 drum machine — all-synthesis, no samples |
+| 2026-10-16 17:08:59 | [kazoo-arp](https://crates.io/crates/kazoo-arp) | 0.1.0 | 0 | Jupiter-8 style arpeggiator — note scheduler for any synth |
+| 2026-10-16 17:10:16 | [nuvec-lm](https://crates.io/crates/nuvec-lm) | 0.0.1 | 0 | LLM runtime for nuvec: model loading, KV caches and sampling |
+| 2026-10-16 17:10:40 | [vda5050-v3-types](https://crates.io/crates/vda5050-v3-types) | 1.0.1 | 0 | Transport-independent VDA 5050 v3.0.0 message types |
+| 2026-10-16 17:14:45 | [lonca-net](https://crates.io/crates/lonca-net) | 0.1.0 | 0 | A loopback HTTP CONNECT proxy that asks a gate about every connection |
+| 2026-10-16 17:14:58 | [kule-engine](https://crates.io/crates/kule-engine) | 0.0.1 | 0 | Kule's transactional engine: copy-on-write task copies, effect sets, commit, ro… |
+| 2026-10-16 17:15:12 | [kule](https://crates.io/crates/kule) | 0.0.1 | 0 | A control room for coding agents: every command runs as a transaction in a sand… |
+| 2026-10-16 17:15:13 | [teixml](https://crates.io/crates/teixml) | 0.1.0 | 0 | Validate TEI XML documents against RELAX NG schemas, in pure Rust |
+| 2026-10-16 17:16:27 | [ohos-purgeable-memory-sys](https://crates.io/crates/ohos-purgeable-memory-sys) | 0.1.0 | 0 | Raw bindings to the OpenHarmony Purgeable Memory API |
 
 ## Data source
 

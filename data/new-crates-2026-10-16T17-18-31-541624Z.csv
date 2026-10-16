@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T16:20:18.303809Z,wyrd-runtime,0.1.1,0,0,https://github.com/bohmian-ai/wyrd,Wyrd runtime singleton and cross-cutting behavior shells.
+2026-10-16T16:22:02.475008Z,qty,0.1.0,0,0,https://github.com/sbgaia/qty,"Zero-overhead, strongly-typed physical quantities and unit conversions, generated from UnitsNet"
+2026-10-16T16:23:21.684754Z,whiff,0.1.0,0,0,https://github.com/baoulo/whiff,"Sniff any file and get one JSON document describing it: identity, provenance, rights, physical properties and an LLM-ready view of its content."
+2026-10-16T16:26:07.960321Z,nuvec-cpu,0.0.1,0,0,https://github.com/hupe1980/nuvec,Pure-Rust CPU backend for nuvec
+2026-10-16T16:26:08.627018Z,nuvec-kernels,0.0.1,0,0,https://github.com/hupe1980/nuvec,Metal kernel sources and the precompiled nuvec.metallib
+2026-10-16T16:26:10.854324Z,nuvec-gpu,0.0.1,0,0,https://github.com/hupe1980/nuvec,"Metal backend for nuvec: device, command encoding, memory and kernel dispatch"
+2026-10-16T16:26:13.52841Z,nuvec-core,0.0.1,0,0,https://github.com/hupe1980/nuvec,"Lazy array graph, primitives, dtypes and evaluation for nuvec"
+2026-10-16T16:26:16.060299Z,nuvec-compile,0.0.1,0,0,https://github.com/hupe1980/nuvec,"Tracing, graph simplification, fusion planning and buffer planning for nuvec"
+2026-10-16T16:28:16.539629Z,xbestellung,0.1.0,0,0,https://github.com/openbimrs/xStandards,XBestellung alias: re-exports openbim-xbestellung.
+2026-10-16T16:29:10.646289Z,xvergabe,0.1.0,0,0,https://github.com/openbimrs/xStandards,XVergabe alias: re-exports openbim-xvergabe.
+2026-10-16T16:29:57.980992Z,nuvec-distributed,0.0.1,0,0,https://github.com/hupe1980/nuvec,Collectives over TCP rings and Thunderbolt RDMA for nuvec
+2026-10-16T16:33:10.839309Z,wyrd-skald-tool,0.1.1,0,0,https://github.com/bohmian-ai/wyrd,Native tool declarations and provider message helpers for Skald.
+2026-10-16T16:33:20.731428Z,chromaglyph-treesitter,0.1.2,0,0,,Optional tree-sitter semantic layer for chromaglyph: parse code into semantic spans that refine the syntactic colors
+2026-10-16T16:33:53.100539Z,chromaglyph,0.1.2,0,0,https://github.com/chromaglyph/chromaglyph,CLI for chromaglyph: build and verify fonts with compiled-in syntax highlighting
+2026-10-16T16:40:14.318727Z,nuvec-io,0.0.1,0,0,https://github.com/hupe1980/nuvec,"Zero-copy safetensors, GGUF and npy loading for nuvec"
+2026-10-16T16:40:41.157963Z,sprawling-console-ffi,0.0.12,0,0,https://github.com/2youg1/sprawling-agents,"The Zig leaf that draws the console's frames, offered as one safe function."
+2026-10-16T16:43:08.929787Z,xbau,0.1.0,0,0,https://github.com/openbimrs/xStandards,XBau alias: re-exports openbim-xbau.
+2026-10-16T16:45:46.365067Z,acme-client2,0.1.0,0,0,https://github.com/ogital-net/acme-client2,Asynchronous ACME certificate issuance with application-owned HTTP-01 challenges
+2026-10-16T16:46:18.547856Z,ontology,0.1.0,0,0,https://github.com/Gonzih/ontology,Initial placeholder command-line binary for the ontology project.
+2026-10-16T16:50:29.90591Z,nuvec,0.0.1,0,0,https://github.com/hupe1980/nuvec,"Pure-Rust array framework for Apple Silicon in the spirit of MLX: lazy arrays, unified memory, composable transforms"
+2026-10-16T16:54:45.947038Z,kartta-lang,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,The contract a language implements to plug its extraction into the kartta code graph
+2026-10-16T16:54:56.185843Z,kartta-graph,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"A language-agnostic code graph: definitions per file, found by name, updated a file at a time"
+2026-10-16T16:55:04.995117Z,kartta-lang-go,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"Go extraction for the kartta code graph: definitions, calls, uses and imports of Go source"
+2026-10-16T16:55:11.363758Z,kartta-lang-cpp,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"C and C++ for the kartta code graph: definitions, calls and includes extracted through tree-sitter"
+2026-10-16T16:55:22.594705Z,kartta-lang-jsts,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"TypeScript, TSX and JavaScript extraction for the kartta code graph"
+2026-10-16T16:57:14.741382Z,xplanung,0.1.0,0,0,https://github.com/openbimrs/xStandards,XPlanung alias: re-exports openbim-xplanung.
+2026-10-16T16:59:58.374558Z,nuvec-nn,0.0.1,0,0,https://github.com/hupe1980/nuvec,"Neural-network modules, layers and optimizers for nuvec"
+2026-10-16T17:00:25.398147Z,slave-framework,0.1.0,0,0,https://github.com/kewcoder/slave,"Runtime for slave apps: Axum server lifecycle, config, logging, Turso database, migrations and password/token auth"
+2026-10-16T17:02:22.304318Z,kazoo-core,0.1.0,0,0,https://github.com/tomWhiting/kazoo,"The kazoo audio library: synthesis, effects, analysis and the studio link, with no UI"
+2026-10-16T17:02:24.91913Z,kazoo-fx,0.1.0,0,0,https://github.com/tomWhiting/kazoo,"Kazoo's effects, written from scratch: drive, time and space"
+2026-10-16T17:02:26.520095Z,kazoo-host,0.1.0,0,0,https://github.com/tomWhiting/kazoo,"What every kazoo terminal program shares: error reports installed once, and a terminal entered and always restored"
+2026-10-16T17:02:29.978068Z,kazoo-303,0.1.0,0,0,https://github.com/tomWhiting/kazoo,"TB-303 inspired acid bassline synth — all procedural synthesis, no samples"
+2026-10-16T17:02:31.461125Z,kazoo-808,0.1.0,0,0,https://github.com/tomWhiting/kazoo,"TR-808 drum machine — all-synthesis, no samples"
+2026-10-16T17:08:59.281241Z,kazoo-arp,0.1.0,0,0,https://github.com/tomWhiting/kazoo,Jupiter-8 style arpeggiator — note scheduler for any synth
+2026-10-16T17:10:16.511611Z,nuvec-lm,0.0.1,0,0,https://github.com/hupe1980/nuvec,"LLM runtime for nuvec: model loading, KV caches and sampling"
+2026-10-16T17:10:40.918181Z,vda5050-v3-types,1.0.1,0,0,https://github.com/MFait/vda5050-v3-types,Transport-independent VDA 5050 v3.0.0 message types
+2026-10-16T17:14:45.119136Z,lonca-net,0.1.0,0,0,https://github.com/selcukgural/lonca,A loopback HTTP CONNECT proxy that asks a gate about every connection
+2026-10-16T17:14:58.925669Z,kule-engine,0.0.1,0,0,https://github.com/kulehq/kule,"Kule's transactional engine: copy-on-write task copies, effect sets, commit, rollback and undo"
+2026-10-16T17:15:12.39922Z,kule,0.0.1,0,0,https://github.com/kulehq/kule,"A control room for coding agents: every command runs as a transaction in a sandboxed copy-on-write copy, judged by policy before it reaches the workspace"
+2026-10-16T17:15:13.849612Z,teixml,0.1.0,0,0,https://github.com/mgbilby/tei-rs,"Validate TEI XML documents against RELAX NG schemas, in pure Rust"
+2026-10-16T17:16:27.687877Z,ohos-purgeable-memory-sys,0.1.0,0,0,https://github.com/openharmony-rs/ohos-sys,Raw bindings to the OpenHarmony Purgeable Memory API
