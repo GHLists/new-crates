@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T12:21:03.36526Z,whykey,2.4.0,0,0,https://github.com/agustinrojas1/whykey,Explain where a key combination is handled
+2026-10-16T12:23:24.992896Z,axs,0.1.0,0,0,,-
+2026-10-16T12:23:34.551603Z,quireink-plugin-rules,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk rules: when something happens, do something (e.g. night mode at 22:00, sync catalogs at start)"
+2026-10-16T12:33:41.18817Z,quireink-plugin-settings,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk settings screen, generated from the settings every plugin declares"
+2026-10-16T12:33:59.98852Z,unau,0.1.0,0,0,https://github.com/KonstantinKai/unau,Terminal code review that ends in a file an agent can act on
+2026-10-16T12:34:31.701481Z,actor-framework-macros,0.1.0,0,0,https://github.com/klab365/actor-framework-rs,Procedural macros for actor-framework
+2026-10-16T12:34:39.33233Z,actor-framework-rs,0.1.0,0,0,https://github.com/klab365/actor-framework-rs,A statically routed async actor framework for Rust
+2026-10-16T12:36:39.003284Z,virtuus-store,0.1.0,0,0,https://github.com/AnthusAI/Virtuus,Scoped conditional object storage and repairable catalog projections
+2026-10-16T12:37:05.267621Z,canirun,0.2.0,0,0,https://github.com/t09tanaka/canirun,Can I run? A local admission controller that gates heavy commands behind a shared CPU budget and learns their weight
+2026-10-16T12:40:30.161945Z,doen,0.1.0,0,0,https://github.com/zjom/doen,cli to get shit doen
+2026-10-16T12:43:48.20388Z,quireink-plugin-sleep,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk sleep screen: the book's cover, own pictures or a message while the device sleeps"
+2026-10-16T12:44:44.294643Z,klaviyo_generated,0.1.0,0,0,https://github.com/connve/klaviyo-rs,Generated Klaviyo REST API client (used by klaviyo)
+2026-10-16T12:46:05.384823Z,klaviyo,0.1.0,0,0,https://github.com/connve/klaviyo-rs,Unofficial Rust SDK for Klaviyo APIs
+2026-10-16T12:47:06.668811Z,open-chess-uci,0.1.7,0,0,https://github.com/OffeneDatenmodellierung/open-chess,"The open-chess engine as a UCI program: play it in any chess GUI or match runner, benchmark it, and generate self-play training data"
+2026-10-16T12:51:18.886212Z,furnace-rs-persistence-types,2.0.0-beta.3,0,0,https://github.com/Adriannathan89/furnace-rs,Shared persistence error types without database connectors
+2026-10-16T12:52:01.149118Z,erechnung-validator,0.1.0,0,0,https://github.com/Promaris-Service/xrechnung-zugferd-validator,"KoSIT- und Mustang-Validierung für EN-16931-E-Rechnungen (CII/UBL) in reinem Rust: originale XSLT/XSD-Artefakte, oxixml-Engine, WASI-tauglich"
+2026-10-16T12:52:05.0012Z,droidkraft-mirror,2.0.0,0,0,https://github.com/sorinirimies/droidkraft,Frontend-neutral low-latency Android screen mirroring + input (screenrecord → ffmpeg → frames) over adb_client
+2026-10-16T12:52:10.535248Z,droidkraft-fastboot,2.0.0,0,0,https://github.com/sorinirimies/droidkraft,Fastboot for DroidKraft — native pure-Rust USB backend (nusb) with automatic fallback to the `fastboot` binary
+2026-10-16T12:53:55.389501Z,quireink-plugin-stats,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk reading statistics: time, pages, calendar and books, recorded as KOReader records them"
+2026-10-16T12:55:43.633616Z,wisp-ssh,0.5.0,0,0,https://github.com/Pajn/wisp,SSH config host discovery for Wisp
+2026-10-16T13:04:02.227276Z,quireink-plugin-transfer,0.1.1,0,0,https://github.com/hthoene/quireink,QuireInk transfer by browser: put files on the device from a phone or computer in the same network
+2026-10-16T13:05:30.689657Z,expri-assets,0.1.6,0,0,https://github.com/agentic-rs/expri,Git-tracked asset descriptors and verified input acquisition for expri
+2026-10-16T13:05:32.715348Z,expri-dashboard,0.1.6,0,0,https://github.com/agentic-rs/expri,"Shared experiment dashboard views, charts, and browser assets for expri"
+2026-10-16T13:05:38.17507Z,expri-server,0.1.6,0,0,https://github.com/agentic-rs/expri,"Self-hosted experiment ingestion, tracking, and object storage for expri"
+2026-10-16T13:05:40.169014Z,expri-worker,0.1.6,0,0,https://github.com/agentic-rs/expri,"Experiment execution, uv environments, and durable supervision for expri"
+2026-10-16T13:08:50.354141Z,oxabl_handles,0.2.0,0,0,https://github.com/oxabl-project/oxabl/crates/oxabl_handles,"Lifetimes of dynamic objects (handles, persistent procedures, MEMPTRs) per unit, for Progress ABL"
+2026-10-16T13:08:51.457438Z,oxabl_scope,0.2.0,0,0,https://github.com/oxabl-project/oxabl/crates/oxabl_scope,"Buffer scopes, transaction blocks and lock modes per unit, as the OpenEdge compiler assigns them, for Progress ABL"
+2026-10-16T13:08:52.400595Z,oxabl_effects,0.2.0,0,0,https://github.com/oxabl-project/oxabl/crates/oxabl_effects,"Database effects per unit, likely index per record read, and transitive summaries over the call graph, for Progress ABL"
+2026-10-16T13:08:52.827472Z,oxabl_nulls,0.2.0,0,0,https://github.com/oxabl-project/oxabl/crates/oxabl_nulls,"Unknown values and records a failed FIND may leave missing, per unit, for Progress ABL"
+2026-10-16T13:12:56.298707Z,sigstore-verifier,0.0.120,0,0,,"Pure Rust, WASM-compatible Sigstore/Cosign blob verification library"
+2026-10-16T13:14:10.878007Z,quireink-plugin-translate,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk translation: selected text translated online, by DeepL"
+2026-10-16T13:14:35.292061Z,lingose,0.1.0,0,0,https://github.com/englishword,"Offline English lexicon for the IPSM Approach to pronunciation, spelling and meaning"

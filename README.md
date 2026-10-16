@@ -8,31 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 12:19 UTC
+## Latest list — 2026-10-16 13:19 UTC
 
-New crates published between 2026-10-16 11:19 UTC and 2026-10-16 12:19 UTC.
+New crates published between 2026-10-16 12:19 UTC and 2026-10-16 13:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-16T12-19-04-756019Z.csv)
+[Full CSV](data/new-crates-2026-10-16T13-19-54-711531Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-16 11:20:17 | [ilink-sdk](https://crates.io/crates/ilink-sdk) | 2.4.11 | 0 | Rust SDK for the Tencent Weixin (iLink) backend protocol: QR-code login, long-p… |
-| 2026-10-16 11:22:50 | [quireink-plugin-news](https://crates.io/crates/quireink-plugin-news) | 0.1.1 | 0 | QuireInk news: feeds (RSS, Atom) fetched as books to read |
-| 2026-10-16 11:27:14 | [blitz-config](https://crates.io/crates/blitz-config) | 0.1.0 | 0 | Native configurator for the Cosmic Byte Blitz controller |
-| 2026-10-16 11:30:45 | [ezlo](https://crates.io/crates/ezlo) | 0.1.0 | 0 | Spec-driven shell autocomplete and recipe launcher |
-| 2026-10-16 11:32:02 | [retp-catalog](https://crates.io/crates/retp-catalog) | 0.0.1 | 0 | Reserved for the server catalogue of the retp command line (ETP v1.2); the firs… |
-| 2026-10-16 11:32:57 | [quireink-plugin-opds](https://crates.io/crates/quireink-plugin-opds) | 0.1.1 | 0 | QuireInk OPDS catalogs: browse, search and download books, and keep folders in… |
-| 2026-10-16 11:33:32 | [my-rustbook_s-guessing_game](https://crates.io/crates/my-rustbook_s-guessing_game) | 0.1.0 | 0 | A fun game where you guess what number the computer has chosen. |
-| 2026-10-16 11:40:54 | [plavno-platform](https://crates.io/crates/plavno-platform) | 0.1.0 | 0 | Private storage and process control helpers for plavno |
-| 2026-10-16 11:42:59 | [opencc-rs-tw2](https://crates.io/crates/opencc-rs-tw2) | 0.1.2 | 0 | Pure Rust port of Will 保哥's C# OpenCC implementation. |
-| 2026-10-16 11:43:05 | [quireink-plugin-plugin-manager](https://crates.io/crates/quireink-plugin-plugin-manager) | 0.1.1 | 0 | QuireInk plugin manager: lists the plugins and switches them on and off |
-| 2026-10-16 11:52:02 | [fusion-symbols](https://crates.io/crates/fusion-symbols) | 0.3.0 | 0 | Fusion and recoupling symbols for symmetric tensors: exact SU(2) recoupling, an… |
-| 2026-10-16 11:53:12 | [quireink-plugin-profiles](https://crates.io/crates/quireink-plugin-profiles) | 0.1.1 | 0 | QuireInk reading profiles: named sets of reading and display settings, switched… |
-| 2026-10-16 11:58:03 | [nanoaudio-synth](https://crates.io/crates/nanoaudio-synth) | 0.1.0 | 0 | Allocation-free oscillators, envelopes, filters and polyphonic voices for nanoa… |
-| 2026-10-16 11:58:14 | [band-sdk-core](https://crates.io/crates/band-sdk-core) | 3.1.0 | 0 | Band SDK validation and runtime decisions backed by bundled proprietary native… |
-| 2026-10-16 12:00:33 | [structured-xades](https://crates.io/crates/structured-xades) | 0.4.0 | 0 | XAdES mechanisms over caller-owned XML and explicit resource accounting |
-| 2026-10-16 12:03:20 | [quireink-plugin-reader](https://crates.io/crates/quireink-plugin-reader) | 0.1.1 | 0 | QuireInk paged reader: page layout, progress, background pagination |
-| 2026-10-16 12:13:27 | [quireink-plugin-readwise](https://crates.io/crates/quireink-plugin-readwise) | 0.1.1 | 0 | QuireInk Readwise: highlights of exported notes sent to Readwise |
+| 2026-10-16 12:21:03 | [whykey](https://crates.io/crates/whykey) | 2.4.0 | 0 | Explain where a key combination is handled |
+| 2026-10-16 12:23:24 | [axs](https://crates.io/crates/axs) | 0.1.0 | 0 | - |
+| 2026-10-16 12:23:34 | [quireink-plugin-rules](https://crates.io/crates/quireink-plugin-rules) | 0.1.1 | 0 | QuireInk rules: when something happens, do something (e.g. night mode at 22:00,… |
+| 2026-10-16 12:33:41 | [quireink-plugin-settings](https://crates.io/crates/quireink-plugin-settings) | 0.1.1 | 0 | QuireInk settings screen, generated from the settings every plugin declares |
+| 2026-10-16 12:33:59 | [unau](https://crates.io/crates/unau) | 0.1.0 | 0 | Terminal code review that ends in a file an agent can act on |
+| 2026-10-16 12:34:31 | [actor-framework-macros](https://crates.io/crates/actor-framework-macros) | 0.1.0 | 0 | Procedural macros for actor-framework |
+| 2026-10-16 12:34:39 | [actor-framework-rs](https://crates.io/crates/actor-framework-rs) | 0.1.0 | 0 | A statically routed async actor framework for Rust |
+| 2026-10-16 12:36:39 | [virtuus-store](https://crates.io/crates/virtuus-store) | 0.1.0 | 0 | Scoped conditional object storage and repairable catalog projections |
+| 2026-10-16 12:37:05 | [canirun](https://crates.io/crates/canirun) | 0.2.0 | 0 | Can I run? A local admission controller that gates heavy commands behind a shar… |
+| 2026-10-16 12:40:30 | [doen](https://crates.io/crates/doen) | 0.1.0 | 0 | cli to get shit doen |
+| 2026-10-16 12:43:48 | [quireink-plugin-sleep](https://crates.io/crates/quireink-plugin-sleep) | 0.1.1 | 0 | QuireInk sleep screen: the book's cover, own pictures or a message while the de… |
+| 2026-10-16 12:44:44 | [klaviyo_generated](https://crates.io/crates/klaviyo_generated) | 0.1.0 | 0 | Generated Klaviyo REST API client (used by klaviyo) |
+| 2026-10-16 12:46:05 | [klaviyo](https://crates.io/crates/klaviyo) | 0.1.0 | 0 | Unofficial Rust SDK for Klaviyo APIs |
+| 2026-10-16 12:47:06 | [open-chess-uci](https://crates.io/crates/open-chess-uci) | 0.1.7 | 0 | The open-chess engine as a UCI program: play it in any chess GUI or match runne… |
+| 2026-10-16 12:51:18 | [furnace-rs-persistence-types](https://crates.io/crates/furnace-rs-persistence-types) | 2.0.0-beta.3 | 0 | Shared persistence error types without database connectors |
+| 2026-10-16 12:52:01 | [erechnung-validator](https://crates.io/crates/erechnung-validator) | 0.1.0 | 0 | KoSIT- und Mustang-Validierung für EN-16931-E-Rechnungen (CII/UBL) in reinem Ru… |
+| 2026-10-16 12:52:05 | [droidkraft-mirror](https://crates.io/crates/droidkraft-mirror) | 2.0.0 | 0 | Frontend-neutral low-latency Android screen mirroring + input (screenrecord → f… |
+| 2026-10-16 12:52:10 | [droidkraft-fastboot](https://crates.io/crates/droidkraft-fastboot) | 2.0.0 | 0 | Fastboot for DroidKraft — native pure-Rust USB backend (nusb) with automatic fa… |
+| 2026-10-16 12:53:55 | [quireink-plugin-stats](https://crates.io/crates/quireink-plugin-stats) | 0.1.1 | 0 | QuireInk reading statistics: time, pages, calendar and books, recorded as KORea… |
+| 2026-10-16 12:55:43 | [wisp-ssh](https://crates.io/crates/wisp-ssh) | 0.5.0 | 0 | SSH config host discovery for Wisp |
+| 2026-10-16 13:04:02 | [quireink-plugin-transfer](https://crates.io/crates/quireink-plugin-transfer) | 0.1.1 | 0 | QuireInk transfer by browser: put files on the device from a phone or computer… |
+| 2026-10-16 13:05:30 | [expri-assets](https://crates.io/crates/expri-assets) | 0.1.6 | 0 | Git-tracked asset descriptors and verified input acquisition for expri |
+| 2026-10-16 13:05:32 | [expri-dashboard](https://crates.io/crates/expri-dashboard) | 0.1.6 | 0 | Shared experiment dashboard views, charts, and browser assets for expri |
+| 2026-10-16 13:05:38 | [expri-server](https://crates.io/crates/expri-server) | 0.1.6 | 0 | Self-hosted experiment ingestion, tracking, and object storage for expri |
+| 2026-10-16 13:05:40 | [expri-worker](https://crates.io/crates/expri-worker) | 0.1.6 | 0 | Experiment execution, uv environments, and durable supervision for expri |
+| 2026-10-16 13:08:50 | [oxabl_handles](https://crates.io/crates/oxabl_handles) | 0.2.0 | 0 | Lifetimes of dynamic objects (handles, persistent procedures, MEMPTRs) per unit… |
+| 2026-10-16 13:08:51 | [oxabl_scope](https://crates.io/crates/oxabl_scope) | 0.2.0 | 0 | Buffer scopes, transaction blocks and lock modes per unit, as the OpenEdge comp… |
+| 2026-10-16 13:08:52 | [oxabl_effects](https://crates.io/crates/oxabl_effects) | 0.2.0 | 0 | Database effects per unit, likely index per record read, and transitive summari… |
+| 2026-10-16 13:08:52 | [oxabl_nulls](https://crates.io/crates/oxabl_nulls) | 0.2.0 | 0 | Unknown values and records a failed FIND may leave missing, per unit, for Progr… |
+| 2026-10-16 13:12:56 | [sigstore-verifier](https://crates.io/crates/sigstore-verifier) | 0.0.120 | 0 | Pure Rust, WASM-compatible Sigstore/Cosign blob verification library |
+| 2026-10-16 13:14:10 | [quireink-plugin-translate](https://crates.io/crates/quireink-plugin-translate) | 0.1.1 | 0 | QuireInk translation: selected text translated online, by DeepL |
+| 2026-10-16 13:14:35 | [lingose](https://crates.io/crates/lingose) | 0.1.0 | 0 | Offline English lexicon for the IPSM Approach to pronunciation, spelling and me… |
 
 ## Data source
 
