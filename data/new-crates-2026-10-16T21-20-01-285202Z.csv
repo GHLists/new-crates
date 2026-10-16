@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T20:18:38.360188Z,kartta-lang-ruby,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"Ruby extraction for the kartta code graph: classes, modules, methods, mixins, calls and requires"
+2026-10-16T20:20:31.713775Z,majik-cjson,1.0.0,0,0,https://github.com/Majikah/majik-cjson-rs,Lightweight gzip-compressed JSON container with magic-byte framing. Pure-Rust port of @majikah/majik-cjson.
+2026-10-16T20:21:27.652759Z,vox_bake,0.1.0,0,0,https://github.com/Utsira/bevy_vox_scene,Engine-independent MagicaVoxel parsing and asset baking
+2026-10-16T20:22:21.940265Z,bevy_flipbook,0.1.0,0,0,https://github.com/Utsira/bevy_vox_scene,Plugin for the bevy engine for playing flipbook animations (each frame is a discrete mesh)
+2026-10-16T20:22:27.580531Z,baldes,2.0.0,0,0,https://github.com/lseman/baldes,"BALDES 2.0: bucket-graph labeling RCSP solver and branch-cut-and-price root, written in Rust"
+2026-10-16T20:23:24.96836Z,bevy_vox_processor,0.1.0,0,0,https://github.com/Utsira/bevy_vox_scene,A plugin for the bevy engine that vends an asset processor for converting Magica Voxel vox files to glb format
+2026-10-16T20:27:57.389364Z,kartta-lang-lua,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"Lua extraction for the kartta code graph: functions, table methods, calls and module loads of Lua source"
+2026-10-16T20:29:21.071716Z,id_effect_kit,0.8.0,0,0,https://github.com/Industrial/id_effect,One front door to id_effect: a single dependency with feature flags per battery and a prelude
+2026-10-16T20:29:47.609533Z,id_effect_tool,0.8.0,0,0,https://github.com/Industrial/id_effect,"The `id-effect` command: `id-effect new` scaffolds a service, worker, CLI or cluster node on id_effect_kit"
+2026-10-16T20:30:15.435402Z,veilway-api,0.1.0,0,0,https://github.com/veilway-project/veilway,"Control API of a Veilway node: HTTP and JSON on a unix socket, with an OpenAPI document."
+2026-10-16T20:30:17.440819Z,veilway-linux,0.1.0,0,0,https://github.com/veilway-project/veilway,"Linux layer of the Veilway client: TUN, netlink, policy routing, nftables kill switch and DNS."
+2026-10-16T20:32:12.618376Z,vox-to-gltf,0.1.0,0,0,https://github.com/Utsira/bevy_vox_scene,Convert MagicaVoxel .vox files to glTF
+2026-10-16T20:35:34.094112Z,yog-font,0.1.0,0,0,,"Yog fonts — one format for every font of the system: glyphs as drawing, shaping (ligatures, contextual forms, cursive joining), layout and rasterization."
+2026-10-16T20:38:21.500795Z,kartta-lang-puppet,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"Puppet extraction for the kartta code graph: classes, defined types, nodes, functions and references"
+2026-10-16T20:38:54.632282Z,win-error-codes,0.0.2,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"The numbers Windows reports failure in, as types: Win32 error codes, the signed LSTATUS, HRESULT and NTSTATUS, with an exact io::Error round trip for every Win32 code, including those above 2^31. No…"
+2026-10-16T20:39:07.952006Z,win-volume-sys,0.1.0,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"Memory-safe Rust over the Win32 volume device controls: the disks a volume sits on, the sector size it is addressed in, and its lock. Thin over Win32, adding no policy."
+2026-10-16T20:39:48.92562Z,mdrs,0.0.0,0,0,,MDRS (Markdown Rich Syntax): a drop-in superset of Markdown
+2026-10-16T20:46:10.342253Z,veilway-macos,0.1.0,0,0,https://github.com/veilway-project/veilway,"macOS layer of the Veilway client: utun, routing socket, pf kill switch, DNS and keychain vault."
+2026-10-16T20:48:46.633176Z,kartta-lang-dshl,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"DSHL extraction for the kartta code graph: shaders, blocks, macros and variables of Dagor shaders"
+2026-10-16T20:53:39.53941Z,spf-flatten,0.1.1,0,0,https://github.com/nabbi/spf-flatten,Flatten SPF records to stay within the RFC 7208 DNS lookup and size limits
+2026-10-16T20:59:31.674551Z,serde_markdown_derive,0.5.1,0,0,https://github.com/sonalect/serde_markdown,Derive macro for serde_markdown::Markdown
+2026-10-16T20:59:34.473511Z,serde_markdown,0.5.1,0,0,https://github.com/sonalect/serde_markdown,Serde format crate: Rust structs to and from Markdown documents
+2026-10-16T21:02:00.472256Z,veilway-windows,0.1.0,0,0,https://github.com/veilway-project/veilway,"Windows layer of the Veilway client: Wintun, IP Helper routes, WFP kill switch, NRPT DNS and DPAPI vault."
+2026-10-16T21:02:02.609345Z,veilway,0.1.0,0,0,https://github.com/veilway-project/veilway,"Veilway command line: run a node, check configs, diagnose, and connect as a client."
+2026-10-16T21:02:36.745346Z,egui_plot3d,0.1.0,0,0,https://github.com/boquila/egui_plot3d,Immediate mode 3D plots for egui
+2026-10-16T21:07:29.326452Z,tkbar,0.2.0,0,0,https://github.com/tkr-sh/tkbar,"A minimalist, hardened status bar for Wayland."
+2026-10-16T21:10:48.767178Z,fluidattacks-database-core-domain,0.1.0,0,0,https://gitlab.com/fluidattacks/universe,Database core functional core: database-agnostic table identifiers and types (no I/O)
+2026-10-16T21:11:23.426714Z,confex-core,0.1.0,0,0,https://github.com/OxidShell/confex,"Core engine for confex - source merging, hot-reload, migrations, and encryption"
+2026-10-16T21:11:26.227992Z,confex-macros,0.1.0,0,0,https://github.com/OxidShell/confex,Derive macro for confex::ConfigSchema
+2026-10-16T21:12:00.373226Z,confex,0.1.0,0,0,https://github.com/OxidShell/confex,"Layered config library - merges files, env vars, CLI, and a redb-backed dconf-like store into a typed struct with selective per-source hot-reload"
+2026-10-16T21:13:07.32656Z,fluidattacks-database-core,0.1.0,0,0,https://gitlab.com/fluidattacks/universe,Database core: the database-agnostic interface that every database loader builds on
+2026-10-16T21:15:54.597506Z,isoloom-spec,0.11.0,0,0,https://github.com/isoloom/isoloom,"The Isoloom spec: model, parsing, normalization and validation."
+2026-10-16T21:16:17.185064Z,isoloom-manifest,0.11.0,0,0,https://github.com/isoloom/isoloom,"The run manifest, version 0: the types Isoloom writes next to a target's files and the Isothrum runner reads, their JSON Schema and the shared fixtures."
+2026-10-16T21:16:34.061785Z,isoloom-catalogue,0.11.0,0,0,https://github.com/isoloom/isoloom,"Isoloom's service catalogue: the entries of catalogue/, embedded, checked, and resolved for a machine's service and settings."
+2026-10-16T21:16:43.867216Z,isoloom-plan,0.11.0,0,0,https://github.com/isoloom/isoloom,"The target-neutral plan of a lab: the spec lowered per target, the environment a backend renders, its checks and requirements."
+2026-10-16T21:17:02.916753Z,isoloom-render,0.11.0,0,0,https://github.com/isoloom/isoloom,"What every Isoloom backend renders with: the backend port, the builders (HCL, Ruby, PowerShell, Dockerfile, the Ansible inventory), a VM's set-up steps, the network pieces and the containers' shared…"
+2026-10-16T21:17:04.252547Z,paykit-lib,0.1.0,0,0,https://github.com/pubky/paykit-rs,Paykit library implementation
+2026-10-16T21:17:07.042985Z,paykit-sdk,0.1.0,0,0,https://github.com/pubky/paykit-rs,Stateful Paykit SDK runtime
