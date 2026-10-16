@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T01:29:10.647291Z,helixforge-core,1.0.5,0,0,https://github.com/Commanderx-code/Helix-Forge,"HelixForge's data model: entries, actions, risk and validation. Part of the HelixForge application, not a general-purpose library."
+2026-10-16T01:29:13.246526Z,helixforge-platform,1.0.5,0,0,https://github.com/Commanderx-code/Helix-Forge,"Linux distribution detection for HelixForge. Part of the HelixForge application, not a general-purpose library."
+2026-10-16T01:29:18.393144Z,helixforge-catalog,1.0.5,0,0,https://github.com/Commanderx-code/Helix-Forge,"HelixForge's built-in catalog and scripts, and the reader that validates them. Part of the HelixForge application, not a general-purpose library."
+2026-10-16T01:29:24.33141Z,helixforge-engine,1.0.5,0,0,https://github.com/Commanderx-code/Helix-Forge,"HelixForge's engine: plans, runners, history, health checks. Part of the HelixForge application, not a general-purpose library."
+2026-10-16T01:29:32.086377Z,helixforge,1.0.4,0,0,https://github.com/Commanderx-code/Helix-Forge,"Build, configure and optimise a Linux machine from a terminal menu: installs, dotfiles, updates, backups and health checks, every change planned and confirmed first."
+2026-10-16T01:30:11.708255Z,piu_node_resolver,0.97.0,0,0,https://github.com/denoland/deno,Node.js module resolution algorithm used in Deno
+2026-10-16T01:40:53.709588Z,piu_node_shim,0.34.0,0,0,,A crate that maps Node.js CLI arguments into Deno arguments.
+2026-10-16T01:45:28.04955Z,sipnab-g729,0.1.0,0,0,https://github.com/NormB/sipnab,Clean-room ITU-T G.729 Annex A decoder with Annex B comfort noise
+2026-10-16T01:51:46.709243Z,piu_os,0.76.0,0,0,https://github.com/denoland/deno,OS specific APIs for Deno
+2026-10-16T01:52:25.831919Z,claude-transcript,0.1.0,0,0,https://github.com/dutchdata/claude-transcript,"Parse Claude Code session transcripts (~/.claude/projects/**/*.jsonl): typed records, a flat event stream, resumable tailing, usage totals, and a schema-drift report for new Claude Code releases."
+2026-10-16T02:02:38.686949Z,piu_process,0.74.0,0,0,https://github.com/denoland/deno,Subprocess APIs for Deno
+2026-10-16T02:02:58.852035Z,sitefacts,0.1.0,0,0,https://github.com/dutchdata/sitefacts,"One facts file → every machine-readable file a small website needs: llms.txt, llms-full.txt, schema.org JSON-LD (inline and standalone), Open Graph and Twitter meta, robots.txt with AI crawlers named…"
+2026-10-16T02:07:40.442034Z,burn-im,0.1.0,0,0,https://github.com/Mino1289/burn-im,"Pretrained computer vision backbones, architectures, and feature extractors in pure Rust, powered by Burn."
+2026-10-16T02:12:05.322262Z,tmjlite,0.3.2,0,0,https://github.com/TMJacometti/tmjlite,"TMJLite embedded SQL database driver — git-native branches, single-file .tmjp, native engine included (prebuilt library bundled)"
+2026-10-16T02:13:29.210982Z,piu_npm,0.71.0,0,0,https://github.com/denoland/deno,npm registry client and dependency resolver used in the Deno CLI
+2026-10-16T02:13:37.482679Z,chip8rs,0.1.1,0,0,https://github.com/zredb/chip-8,完整的 CHIP-8 模拟器：35 条指令、64x32 显示、60Hz 定时器、蜂鸣与内置演示 ROM

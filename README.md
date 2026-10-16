@@ -8,43 +8,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 01:20 UTC
+## Latest list — 2026-10-16 02:19 UTC
 
-New crates published between 2026-10-16 00:22 UTC and 2026-10-16 01:20 UTC.
+New crates published between 2026-10-16 01:20 UTC and 2026-10-16 02:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-16T01-20-11-718056Z.csv)
+[Full CSV](data/new-crates-2026-10-16T02-19-04-995053Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-16 00:23:54 | [tessipher](https://crates.io/crates/tessipher) | 0.1.0 | 0 | allocation-free, no_std QR decoding for embedded Rust |
-| 2026-10-16 00:24:59 | [piu_websocket](https://crates.io/crates/piu_websocket) | 0.264.0 | 0 | Implementation of WebSocket API for Deno |
-| 2026-10-16 00:30:46 | [oxsearch](https://crates.io/crates/oxsearch) | 0.1.0 | 0 | A typed Rust client for Elasticsearch, generated from its specification, with t… |
-| 2026-10-16 00:35:48 | [mulciber-text](https://crates.io/crates/mulciber-text) | 0.1.0 | 0 | Text and flat shapes over a Mulciber scene: a glyph atlas from the game's fonts… |
-| 2026-10-16 00:35:51 | [piu_http](https://crates.io/crates/piu_http) | 0.257.0 | 0 | HTTP server implementation for Deno |
-| 2026-10-16 00:36:11 | [piu_inspector_server](https://crates.io/crates/piu_inspector_server) | 0.33.0 | 0 | Inspector server for Deno runtime |
-| 2026-10-16 00:40:46 | [oxsearch-rig](https://crates.io/crates/oxsearch-rig) | 0.1.0 | 0 | A rig vector store on Elasticsearch, through oxsearch |
-| 2026-10-16 00:42:14 | [ngrok-axum](https://crates.io/crates/ngrok-axum) | 0.1.0 | 0 | Serve an Axum app through an ngrok tunnel with one call. |
-| 2026-10-16 00:42:14 | [tesserax-keytree](https://crates.io/crates/tesserax-keytree) | 0.1.2 | 0 | Key tree for tesserax services: a root secret (e.g. from a passkey PRF) derives… |
-| 2026-10-16 00:47:04 | [piu_kv](https://crates.io/crates/piu_kv) | 0.167.0 | 0 | Implementation of the Deno database API |
-| 2026-10-16 00:50:29 | [m4a-keys](https://crates.io/crates/m4a-keys) | 0.4.13 | 0 | m4a's embedded keystore layer on tesserax-keytree: m4a grant names, signed-lett… |
-| 2026-10-16 00:50:44 | [gate4agent-keys](https://crates.io/crates/gate4agent-keys) | 0.5.5 | 0 | g4a's embedded keystore layer on tesserax-keytree: node and session grants per… |
-| 2026-10-16 00:55:49 | [deka-ui-native](https://crates.io/crates/deka-ui-native) | 0.1.0 | 0 | Internal part of deka-ui: the native desktop window and GPU renderer. Use the d… |
-| 2026-10-16 00:55:52 | [deka-ui](https://crates.io/crates/deka-ui) | 0.1.0 | 0 | A UI framework for Rust: components as functions, signals, and a view! macro. N… |
-| 2026-10-16 00:57:46 | [piu_lockfile](https://crates.io/crates/piu_lockfile) | 0.61.0 | 0 | An implementation of a lockfile used in Deno |
-| 2026-10-16 00:58:01 | [prism-ai-core](https://crates.io/crates/prism-ai-core) | 0.2.2 | 0 | Shared secure HTTP, SSE, pagination and errors for the Prism unofficial AI SDKs |
-| 2026-10-16 00:58:04 | [prism-openai](https://crates.io/crates/prism-openai) | 0.2.1 | 0 | Independent async Rust SDK for OpenAI REST APIs, streaming, and uploads |
-| 2026-10-16 00:58:07 | [prism-gemini](https://crates.io/crates/prism-gemini) | 0.2.1 | 0 | Independent unofficial Rust SDK for the Google Gemini Developer API |
-| 2026-10-16 00:58:11 | [prism-groq](https://crates.io/crates/prism-groq) | 0.2.1 | 0 | Independent async Rust SDK for Groq's inference REST API |
-| 2026-10-16 01:00:28 | [recursa-diagrams](https://crates.io/crates/recursa-diagrams) | 0.1.0 | 0 | Semantic railroad-diagram plans and Rustdoc SVG rendering for Recursa |
-| 2026-10-16 01:00:36 | [recursa-core](https://crates.io/crates/recursa-core) | 0.1.0 | 0 | Runtime support for Recursa-generated parsers |
-| 2026-10-16 01:00:50 | [recursa-macros](https://crates.io/crates/recursa-macros) | 0.1.0 | 0 | Structural proc-macro loaders for Recursa-generated parsers |
-| 2026-10-16 01:01:04 | [recursa](https://crates.io/crates/recursa) | 0.1.0 | 0 | AST-first parser generator for Rust |
-| 2026-10-16 01:01:14 | [recursa-codegen](https://crates.io/crates/recursa-codegen) | 0.1.0 | 0 | Build-time grammar analysis and code generation for Recursa |
-| 2026-10-16 01:02:44 | [parun](https://crates.io/crates/parun) | 0.3.0 | 0 | Runs shell commands in parallel, each in its own pane of the terminal |
-| 2026-10-16 01:04:44 | [rasgapdf](https://crates.io/crates/rasgapdf) | 0.1.2 | 0 | Blazing-fast spatial 2D PDF parser in pure Rust with multi-language bindings (P… |
-| 2026-10-16 01:08:27 | [piu_napi_sym](https://crates.io/crates/piu_napi_sym) | 0.189.0 | 0 | proc macro for writing N-API symbols |
-| 2026-10-16 01:09:51 | [hatchery-keystore](https://crates.io/crates/hatchery-keystore) | 0.2.16 | 0 | Hatchery keystore (hq-core authority): account -> node -> session key tree on t… |
-| 2026-10-16 01:19:22 | [piu_node_crypto](https://crates.io/crates/piu_node_crypto) | 0.29.0 | 0 | Node crypto compatibility for Deno |
+| 2026-10-16 01:29:10 | [helixforge-core](https://crates.io/crates/helixforge-core) | 1.0.5 | 0 | HelixForge's data model: entries, actions, risk and validation. Part of the Hel… |
+| 2026-10-16 01:29:13 | [helixforge-platform](https://crates.io/crates/helixforge-platform) | 1.0.5 | 0 | Linux distribution detection for HelixForge. Part of the HelixForge application… |
+| 2026-10-16 01:29:18 | [helixforge-catalog](https://crates.io/crates/helixforge-catalog) | 1.0.5 | 0 | HelixForge's built-in catalog and scripts, and the reader that validates them.… |
+| 2026-10-16 01:29:24 | [helixforge-engine](https://crates.io/crates/helixforge-engine) | 1.0.5 | 0 | HelixForge's engine: plans, runners, history, health checks. Part of the HelixF… |
+| 2026-10-16 01:29:32 | [helixforge](https://crates.io/crates/helixforge) | 1.0.4 | 0 | Build, configure and optimise a Linux machine from a terminal menu: installs, d… |
+| 2026-10-16 01:30:11 | [piu_node_resolver](https://crates.io/crates/piu_node_resolver) | 0.97.0 | 0 | Node.js module resolution algorithm used in Deno |
+| 2026-10-16 01:40:53 | [piu_node_shim](https://crates.io/crates/piu_node_shim) | 0.34.0 | 0 | A crate that maps Node.js CLI arguments into Deno arguments. |
+| 2026-10-16 01:45:28 | [sipnab-g729](https://crates.io/crates/sipnab-g729) | 0.1.0 | 0 | Clean-room ITU-T G.729 Annex A decoder with Annex B comfort noise |
+| 2026-10-16 01:51:46 | [piu_os](https://crates.io/crates/piu_os) | 0.76.0 | 0 | OS specific APIs for Deno |
+| 2026-10-16 01:52:25 | [claude-transcript](https://crates.io/crates/claude-transcript) | 0.1.0 | 0 | Parse Claude Code session transcripts (~/.claude/projects/**/*.jsonl): typed re… |
+| 2026-10-16 02:02:38 | [piu_process](https://crates.io/crates/piu_process) | 0.74.0 | 0 | Subprocess APIs for Deno |
+| 2026-10-16 02:02:58 | [sitefacts](https://crates.io/crates/sitefacts) | 0.1.0 | 0 | One facts file → every machine-readable file a small website needs: llms.txt, l… |
+| 2026-10-16 02:07:40 | [burn-im](https://crates.io/crates/burn-im) | 0.1.0 | 0 | Pretrained computer vision backbones, architectures, and feature extractors in… |
+| 2026-10-16 02:12:05 | [tmjlite](https://crates.io/crates/tmjlite) | 0.3.2 | 0 | TMJLite embedded SQL database driver — git-native branches, single-file .tmjp,… |
+| 2026-10-16 02:13:29 | [piu_npm](https://crates.io/crates/piu_npm) | 0.71.0 | 0 | npm registry client and dependency resolver used in the Deno CLI |
+| 2026-10-16 02:13:37 | [chip8rs](https://crates.io/crates/chip8rs) | 0.1.1 | 0 | 完整的 CHIP-8 模拟器：35 条指令、64x32 显示、60Hz 定时器、蜂鸣与内置演示 ROM |
 
 ## Data source
 
