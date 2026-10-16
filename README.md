@@ -8,44 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 18:18 UTC
+## Latest list — 2026-10-16 19:20 UTC
 
-New crates published between 2026-10-16 17:18 UTC and 2026-10-16 18:18 UTC.
+New crates published between 2026-10-16 18:18 UTC and 2026-10-16 19:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-16T18-18-57-755454Z.csv)
+[Full CSV](data/new-crates-2026-10-16T19-20-03-394366Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-16 17:18:56 | [kazoo-cs80](https://crates.io/crates/kazoo-cs80) | 0.1.0 | 0 | Yamaha CS-80 inspired pad synth — 8-voice polyphonic, dual-layer |
-| 2026-10-16 17:21:31 | [mise-ui](https://crates.io/crates/mise-ui) | 0.0.0 | 0 | Terminal UI helpers for mise: progress reports, prompts, and themes (placeholde… |
-| 2026-10-16 17:25:16 | [hrepr-derive](https://crates.io/crates/hrepr-derive) | 0.1.0 | 0 | Derive macro for hrepr's Generic trait |
-| 2026-10-16 17:28:07 | [hrepr](https://crates.io/crates/hrepr) | 0.1.0 | 0 | Structural, type-parameter-agnostic representations for Rust types |
-| 2026-10-16 17:29:58 | [kazoo-dx](https://crates.io/crates/kazoo-dx) | 0.1.0 | 0 | Four-operator FM synth in the DX/TX81Z tradition — pure sine math, eight algori… |
-| 2026-10-16 17:32:28 | [active](https://crates.io/crates/active) | 0.1.0 | 0 | Active is a modern configuration and data language: safer than YAML, more expre… |
-| 2026-10-16 17:37:10 | [gitpm-cli](https://crates.io/crates/gitpm-cli) | 0.1.1 | 0 | Command-line client for gitpm: install, update and roll back packages from Git… |
-| 2026-10-16 17:39:15 | [kazoo-glass](https://crates.io/crates/kazoo-glass) | 0.1.0 | 0 | Polyphonic modal bell synthesizer: tuned glass, chimes and metallic keys |
-| 2026-10-16 17:40:56 | [mosaic-credential-core](https://crates.io/crates/mosaic-credential-core) | 0.1.0 | 0 | Data model, parser, canonical encoder, limits, and prehash for Mosaic Credential |
-| 2026-10-16 17:41:06 | [mosaic-credential-auth](https://crates.io/crates/mosaic-credential-auth) | 0.1.0 | 0 | Enrollment, verification, record validation, and upgrades for Mosaic Credential |
-| 2026-10-16 17:41:15 | [mosaic-credential-cli](https://crates.io/crates/mosaic-credential-cli) | 0.1.0 | 0 | CLI tool for local development and diagnostics of Mosaic Credential |
-| 2026-10-16 17:46:02 | [mise-system-packages](https://crates.io/crates/mise-system-packages) | 0.0.0 | 0 | System package manager drivers for mise (placeholder) |
-| 2026-10-16 17:49:44 | [active-core](https://crates.io/crates/active-core) | 0.1.0 | 0 | Core implementation of the Active configuration and data language: lexer, parse… |
-| 2026-10-16 17:49:48 | [active-cli](https://crates.io/crates/active-cli) | 0.1.0 | 0 | Command-line interface for the Active configuration and data language |
-| 2026-10-16 17:49:50 | [active-fmt](https://crates.io/crates/active-fmt) | 0.1.0 | 0 | Formatter for the Active configuration and data language |
-| 2026-10-16 17:49:54 | [active-lsp](https://crates.io/crates/active-lsp) | 0.1.0 | 0 | Language server for the Active configuration and data language |
-| 2026-10-16 17:50:23 | [kazoo-juno](https://crates.io/crates/kazoo-juno) | 0.1.0 | 0 | Roland Juno inspired procedural polyphonic chorus synth |
-| 2026-10-16 17:50:37 | [cidermill-apple-ble](https://crates.io/crates/cidermill-apple-ble) | 0.1.0 | 0 | Cross-platform decoder for Apple BLE proximity-pairing advertisements (AirPods,… |
-| 2026-10-16 17:52:36 | [iup](https://crates.io/crates/iup) | 0.0.4 | 0 | IUP is a multi-platform toolkit for building graphical user interfaces. |
-| 2026-10-16 17:53:20 | [cidermill-airplay](https://crates.io/crates/cidermill-airplay) | 0.1.0 | 0 | Sans-io AirPlay protocol core: RTSP codec, HAP pairing (SRP-6a, X25519, Ed25519… |
-| 2026-10-16 17:55:40 | [fcidr-cli](https://crates.io/crates/fcidr-cli) | 0.10.6 | 0 | Fragmented Classless Inter-Domain Routing (FCIDR) |
-| 2026-10-16 17:57:35 | [lefsim](https://crates.io/crates/lefsim) | 0.1.0 | 0 | Stochastic, event-driven simulation of loop-extrusion factors on a 1D lattice |
-| 2026-10-16 17:58:51 | [kazoo-mini](https://crates.io/crates/kazoo-mini) | 0.1.0 | 0 | Moog Minimoog inspired bass/lead synth — monophonic, ladder filter |
-| 2026-10-16 18:00:19 | [maolan-asio](https://crates.io/crates/maolan-asio) | 0.0.1 | 0 | Pure-Rust ASIO host backend for Windows: driver enumeration, duplex streaming,… |
-| 2026-10-16 18:02:43 | [idl-drift](https://crates.io/crates/idl-drift) | 0.1.0 | 0 | Compare two versions of a Solana program IDL and sort each change by its effect… |
-| 2026-10-16 18:02:46 | [idl-verify](https://crates.io/crates/idl-verify) | 0.1.0 | 0 | Check a Solana program IDL against real account, instruction and event data. |
-| 2026-10-16 18:06:51 | [quireink-plugin-lock](https://crates.io/crates/quireink-plugin-lock) | 0.3.0 | 0 | QuireInk screen lock: a PIN, a pattern or a password when the device wakes up |
-| 2026-10-16 18:08:38 | [kazoo-mix](https://crates.io/crates/kazoo-mix) | 0.1.0 | 0 | The kazoo desk: the studio hub every instrument plays into, with its mixer |
-| 2026-10-16 18:16:28 | [steam-depot-downloader-mod](https://crates.io/crates/steam-depot-downloader-mod) | 0.1.0 | 0 | Rust library for downloading Steam depot content with user-supplied depot keys… |
-| 2026-10-16 18:18:41 | [kazoo-mouth](https://crates.io/crates/kazoo-mouth) | 0.1.0 | 0 | The mouth: a voice synth and voice source for the desk |
+| 2026-10-16 18:25:18 | [jmon](https://crates.io/crates/jmon) | 0.1.0 | 0 | btop/nvtop-style terminal hardware monitor for NVIDIA Jetson Orin Nano (JetPack… |
+| 2026-10-16 18:26:12 | [subscribe](https://crates.io/crates/subscribe) | 0.1.1 | 0 | Stateless on-chain subscription service: users pay ERC-20 tokens to rent jobs (… |
+| 2026-10-16 18:26:27 | [ontology-docs](https://crates.io/crates/ontology-docs) | 0.3.0 | 0 | A standalone, searchable Ontology documentation and agent-skills demo. |
+| 2026-10-16 18:29:21 | [kazoo-perc](https://crates.io/crates/kazoo-perc) | 0.1.0 | 0 | Kazoo's percussion, written from scratch: drum voices and rhythm generators |
+| 2026-10-16 18:31:34 | [scribe-client](https://crates.io/crates/scribe-client) | 0.1.0 | 0 | Rust client for the Scribe document conversion API |
+| 2026-10-16 18:34:38 | [eliciter-core](https://crates.io/crates/eliciter-core) | 0.1.0 | 0 | Deterministic, offline kernel for structured discovery interviews modeled as an… |
+| 2026-10-16 18:37:46 | [mise-system-config](https://crates.io/crates/mise-system-config) | 0.0.0 | 0 | The mise.toml declaration types for bootstrap, dotfiles, and history (placehold… |
+| 2026-10-16 18:39:35 | [kazoo-play](https://crates.io/crates/kazoo-play) | 0.1.0 | 0 | Phrases and notes for kazoo instruments, from the command line |
+| 2026-10-16 18:46:16 | [bevy_ui_component_prototypes](https://crates.io/crates/bevy_ui_component_prototypes) | 0.0.1 | 0 | Boilerplate for UI components in Bevy games |
+| 2026-10-16 18:47:30 | [eliciter](https://crates.io/crates/eliciter) | 0.1.0 | 0 | Stdio MCP server wrapping the eliciter-core kernel: a deterministic, offline st… |
+| 2026-10-16 18:49:31 | [kazoo-prophet](https://crates.io/crates/kazoo-prophet) | 0.1.0 | 0 | Sequential Prophet-5 inspired polyphonic analog synth |
+| 2026-10-16 18:53:38 | [baoenv](https://crates.io/crates/baoenv) | 0.0.1 | 0 | Run commands with secrets from an OpenBao KV path, through Cloudflare Access |
+| 2026-10-16 18:54:32 | [modeldesk](https://crates.io/crates/modeldesk) | 0.1.0 | 0 | Local LLM model manager for Mac (provider-agnostic core, macOS first) |
+| 2026-10-16 18:55:49 | [bpfdoctor](https://crates.io/crates/bpfdoctor) | 0.1.0 | 0 | Preflight and doctor checks for BPF tracing tools: detects missing configuratio… |
+| 2026-10-16 18:55:51 | [procctx](https://crates.io/crates/procctx) | 0.1.0 | 0 | Process context for eBPF tools: ancestry, systemd/container/tmux context and bu… |
+| 2026-10-16 18:55:52 | [tracekit-wire](https://crates.io/crates/tracekit-wire) | 0.1.0 | 0 | Single-sourced kernel/user ABI types for eBPF tools, with generated C headers |
+| 2026-10-16 18:58:42 | [kazoo-speech](https://crates.io/crates/kazoo-speech) | 0.1.0 | 0 | Kazoo's studio vocoder, text-to-speech renderer and phrase player |
+| 2026-10-16 19:00:41 | [fips-mesh](https://crates.io/crates/fips-mesh) | 0.5.3 | 0 | A distributed, decentralized network routing protocol for mesh nodes connecting… |
+| 2026-10-16 19:01:31 | [protocontract](https://crates.io/crates/protocontract) | 0.3.1 | 0 | Runtime for traits generated by protoc-gen-protocontract-buffa: Error, error co… |
+| 2026-10-16 19:03:36 | [protoc-gen-protocontract-buffa](https://crates.io/crates/protoc-gen-protocontract-buffa) | 0.3.1 | 0 | protoc plugin: plain Rust sync and async traits for protobuf services, over buf… |
+| 2026-10-16 19:07:01 | [snowcrash](https://crates.io/crates/snowcrash) | 0.1.0 | 0 | Snowcrash Rust library — early development. |
+| 2026-10-16 19:08:49 | [ozzy-telemetry](https://crates.io/crates/ozzy-telemetry) | 0.2.0 | 0 | Opt-in thread-owned Ozzy telemetry over OMQ PUB/SUB |
+| 2026-10-16 19:09:11 | [kazoo-string](https://crates.io/crates/kazoo-string) | 0.1.0 | 0 | Plucked-string physical-model synth: Karplus-Strong waveguides with stiffness,… |
+| 2026-10-16 19:12:48 | [pristine-scope](https://crates.io/crates/pristine-scope) | 0.1.0 | 0 | Local, read-only advisory for non-documentation paths in docs-prefixed pull req… |
+| 2026-10-16 19:13:30 | [datagrid-export](https://crates.io/crates/datagrid-export) | 0.12.0 | 0 | Writes a data grid's rows as CSV or an HTML table to print, from the table data… |
+| 2026-10-16 19:13:31 | [inkoxide](https://crates.io/crates/inkoxide) | 0.9.1 | 0 | Native PDF layout and rendering engine: declarative document tree in, PDF bytes… |
+| 2026-10-16 19:13:46 | [inkoxide-cli](https://crates.io/crates/inkoxide-cli) | 0.9.1 | 0 | Command-line front end for the Inkoxide PDF engine. |
+| 2026-10-16 19:16:12 | [ozzy-ui](https://crates.io/crates/ozzy-ui) | 0.2.0 | 0 | Admin console for Ozzy brokers. |
+| 2026-10-16 19:18:37 | [kazoo-tui](https://crates.io/crates/kazoo-tui) | 0.1.0 | 0 | The kazoo voice tracker: a DAW in the terminal, driven by your voice |
+| 2026-10-16 19:19:35 | [xgpu](https://crates.io/crates/xgpu) | 0.0.1 | 0 | 🦀 A modern, cross-platform, low-level graphics API with No compromises. |
 
 ## Data source
 
