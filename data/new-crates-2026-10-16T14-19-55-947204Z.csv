@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T13:22:52.733293Z,agntcy-dir,1.8.0,0,0,https://github.com/agntcy/dir-sdk-rust,Rust SDK for the AGNTCY Directory
+2026-10-16T13:24:00.448375Z,mathscape-kernel,0.1.12,0,0,https://github.com/pleme-io/mathscape,"The emergent substrate's trust base: de Bruijn lambda terms, a fuel-bounded normal-order normalizer, observation by eta-expansion"
+2026-10-16T13:24:16.387761Z,mathscape-emergence,0.1.12,0,0,https://github.com/pleme-io/mathscape,"Operators and laws emerging from bare lambda terms: enumerate, observe, name, conjecture, certify"
+2026-10-16T13:24:18.231187Z,quireink-plugin-vocabulary,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk vocabulary: the words looked up while reading, with their sentences"
+2026-10-16T13:26:23.204996Z,tuishot-ansi,0.2.1,0,0,https://github.com/junhoyeo/tuishot,Platform-neutral ANSI terminal emulation for tuishot cell grids
+2026-10-16T13:34:26.219037Z,quireink-plugin-wallabag,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk Wallabag: articles saved to read later, fetched as books"
+2026-10-16T13:39:07.228989Z,astermoids,0.1.0,0,0,https://github.com/sioworker/astermoids,"Asteroids, played directly in the terminal using the kitty graphics protocol"
+2026-10-16T13:39:52.394025Z,cookie-extract,0.1.0,0,0,https://github.com/shadowmkj/leetrs,Decoupled cross-platform browser cookie extraction and parsing library
+2026-10-16T13:43:49.471545Z,spill,0.1.0,0,0,,spill monorepo
+2026-10-16T13:44:33.19084Z,quireink-plugin-wikipedia,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk Wikipedia: looks words up online, beside the dictionaries"
+2026-10-16T13:47:07.843431Z,zincite-query,0.1.0,0,0,https://github.com/zayenz/zincite,Source-preserving MiniZinc inspection and data queries
+2026-10-16T13:50:00.598536Z,bcd_time_stamp,0.1.0,0,0,https://github.com/NetSalmon/bcd_time_stamp,"Dependency-free, no_std BCD clock times and typed second/millisecond timestamps"
+2026-10-16T13:53:17.553022Z,yog-graphics,0.1.0,0,0,https://github.com/F000NKKK/Yog-Mod-Loader,"Yog graphics primitives every crate shares: colours, vectors, matrices, rectangles, paths, RGBA images and a rasterizer."
+2026-10-16T13:54:37.177958Z,zakura-quic,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-10-16T13:54:42.462433Z,quireink-app,0.1.1,0,0,https://github.com/hthoene/quireink,The standard QuireInk app: the first-party plugin set that shells install into the kernel
+2026-10-16T13:58:24.144249Z,sole-htmltopdf-engine,0.0.1,0,0,https://github.com/solecomputer/sole-htmltopdf,Embeddable dual-mode HTML-to-PDF engine in Rust with a wkhtmltopdf 0.12.6 compatibility profile.
+2026-10-16T13:58:27.344114Z,sole-htmltopdf,0.0.1,0,0,https://github.com/solecomputer/sole-htmltopdf,Dual-mode HTML-to-PDF in Rust with wkhtmltopdf 0.12.6 command-line compatibility.
+2026-10-16T14:01:58.898212Z,fandhe-backend-plugin-csrf,0.5.0,0,0,https://github.com/Fandhe-AI/fandhe-backend,fandhe-backend の CSRF 検査ゲートプラグイン（REQ-17）。状態を変える要求の送信元を Sec-Fetch-Site / Origin でハンドラ到達前に検査する。
+2026-10-16T14:01:59.23224Z,fandhe-backend-plugin-jwt,0.5.0,0,0,https://github.com/Fandhe-AI/fandhe-backend,fandhe-backend の汎用 JWT 検証プラグイン（REQ-16）。RS256・ES256 の検証ポリシー（iss・aud・typ・許可 alg を必須とし、none・HS 系は型として表現不能）を提供する（RFC 8725・RFC 9068）。
+2026-10-16T14:03:58.028522Z,redstep-macros,0.1.0,0,0,https://github.com/itsakeyfut/redstep,Procedural macros for the redstep security-testing framework.
+2026-10-16T14:04:13.267324Z,redstep,0.1.0,0,0,https://github.com/itsakeyfut/redstep,"A security-testing framework: drive real attacks against your own apps, networks, containers and cloud inside an isolated lab, from an attacker's point of view."
+2026-10-16T14:04:49.608899Z,quireink-serve,0.1.1,0,0,https://github.com/hthoene/quireink,"Serves HTTP for QuireInk plugins in shells with the standard library (emulator, Android)"
+2026-10-16T14:10:10.089032Z,bmux_tui_runtime,0.0.1-alpha.2,0,0,https://github.com/BSteffaniak/bmux,Bounded scheduling and presentation runtime for bmux terminal UIs
+2026-10-16T14:11:31.763161Z,vike-marketdata,0.1.62,0,0,https://github.com/vike-io/vike-trader,"Market-data value types for trading software: OHLCV bars, quote and trade ticks, a level-2 order book, derivatives feed values and option chains, with tick-to-bar consolidation. Pure Rust, serde-only."
+2026-10-16T14:11:47.098642Z,vike-indicators,0.1.62,0,0,https://github.com/vike-io/vike-trader,"Streaming and batch technical-analysis indicators and candlestick patterns for Rust. The streaming on_bar and the batch vectorize agree bit for bit, and results are identical on Windows and Linux. Pu…"
+2026-10-16T14:13:12.453152Z,ipx-cli,1.0.0,0,0,https://github.com/inferenceport-ai/cli,ipx - the InferencePort AI command line. A thin wrapper that embeds the native binary; no Python needed.
+2026-10-16T14:15:00.712882Z,quireink-x4,0.1.1,0,0,https://github.com/hthoene/quireink,"The Xteink X4's hardware for QuireInk's firmware: its SSD1677 display, button ladders and battery, against embedded-hal"
+2026-10-16T14:17:57.995193Z,gridr,0.7.0,0,0,https://github.com/CNES/gridr,Pure-Rust Geometric and Radiometric Image Data Resampling library
