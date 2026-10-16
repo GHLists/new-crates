@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T10:22:06.355307Z,quireink-plugin-hyphenation,0.1.1,0,0,https://github.com/hthoene/quireink,QuireInk hyphenation patterns for German and English
+2026-10-16T10:23:33.506822Z,kartta-cache,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"Content-addressed cache shared by concurrent processes, stored as immutable mapped packs"
+2026-10-16T10:24:22.789944Z,incr-persist,0.2.0-beta.5,0,0,https://github.com/Anyesh/incr,"Durable, shareable state for incr: keeps a runtime's inputs in sync with an ordered operation log held by a pluggable backend."
+2026-10-16T10:26:52.304716Z,rbtree_extended,0.1.0,0,0,https://github.com/jekahome/rbtree_extended,"A generic Red-Black Tree with traversal, range queries and Graphviz DOT export"
+2026-10-16T10:27:45.653529Z,nanocrx,0.1.0,0,0,https://github.com/Lutsic/nanocrx,"A fast, simple and powerful Rust library for working with Chrome extension CRX files."
+2026-10-16T10:32:14.54644Z,quireink-plugin-keyboard,0.1.1,0,0,https://github.com/hthoene/quireink,QuireInk on-screen keyboard: enters text with touch or buttons
+2026-10-16T10:32:57.268719Z,bz2ngrs,0.1.0,0,0,https://github.com/Softleif/bz2ngrs,"Fast bzip2 compression and decompression, one-shot and streaming, a Rust port of bz2-ng"
+2026-10-16T10:40:33.001528Z,slsdk-rs,0.2.0,0,0,,"superlive v2 Plane B contract layer: manifest types, the registration protocol, lifecycle, and the serve() skeleton (protocol reference implementation)"
+2026-10-16T10:42:23.287112Z,quireink-plugin-keys,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk buttons and gestures: what every button, tap zone and swipe does, changed on the device"
+2026-10-16T10:44:32.878746Z,antecedent-io-core,2.4.0,0,0,https://github.com/iridae-dev/antecedent,"Estimator-free artifact container, wire types, digests and codecs for the Antecedent engine; start with the `antecedent` crate"
+2026-10-16T10:44:43.92579Z,expri-core,0.1.6,0,0,https://github.com/agentic-rs/expri,"Shared contracts, configuration values, errors, and file leases for expri"
+2026-10-16T10:44:46.091912Z,expri-sdk,0.1.6,0,0,https://github.com/agentic-rs/expri,Local task instrumentation for expri experiments
+2026-10-16T10:44:50.217562Z,expri-runs,0.1.6,0,0,https://github.com/agentic-rs/expri,"Run catalogs, metrics, and output inventories for expri"
+2026-10-16T10:44:52.504877Z,expri-system,0.1.6,0,0,https://github.com/agentic-rs/expri,"Machine system profiles, durable local history, and hourly summaries for expri"
+2026-10-16T10:44:57.837841Z,expri-client,0.1.6,0,0,https://github.com/agentic-rs/expri,Durable experiment publishing and resumable transfers for expri
+2026-10-16T10:48:23.128337Z,cranpose-gpu-interop,0.1.8,0,0,https://github.com/samoylenkodmitry/cranpose-engines,wgpu devices and textures made from another renderer's native GPU objects; the one Cranpose crate with unsafe code
+2026-10-16T10:48:53.797932Z,bloch-derive,0.1.0,0,0,https://github.com/night-crawler/bloch,"Derive macros for `bloch`, a ClickHouse Native format parser"
+2026-10-16T10:48:56.45044Z,bloch,0.1.0,0,0,https://github.com/night-crawler/bloch,A zero-copy-ish parser for the ClickHouse Native format
+2026-10-16T10:49:36.566862Z,cranpose-godot,0.1.8,0,0,https://github.com/samoylenkodmitry/cranpose-engines,"Cranpose in Godot 4: a composition drawn over Godot's frame on Godot's own GPU device, Metal on macOS and WebGL2 on the web, with Godot's input"
+2026-10-16T10:50:21.735319Z,rustfs-mimalloc-profiling,0.6.0,0,0,https://github.com/houseme/rustfs-mimalloc,Sampled allocation and live heap profiles for mimalloc
+2026-10-16T10:52:30.375474Z,quireink-plugin-kosync,0.1.1,0,0,https://github.com/hthoene/quireink,QuireInk progress sync: reading positions shared with KOReader's sync server (kosync)
+2026-10-16T10:53:30.057484Z,cranpose-bevy,0.1.8,0,0,https://github.com/samoylenkodmitry/cranpose-engines,"Bevy and Cranpose on one wgpu device: Bevy scenes inside Cranpose layouts, Cranpose HUDs over Bevy scenes"
+2026-10-16T10:53:48.249448Z,future_assert,0.1.0,0,0,https://github.com/microsoft/oxidizer/tree/main/crates/future_assert,"Manual polling assertions for futures in tests, without an async runtime."
+2026-10-16T10:56:39.136281Z,crcbl-image,0.2.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible image assets: decode, convert and resize to straight RGBA8"
+2026-10-16T11:02:36.924409Z,quireink-plugin-menu,0.1.1,0,0,https://github.com/hthoene/quireink,QuireInk menu overlay: shows the entries any plugin contributes to a menu
+2026-10-16T11:07:42.614977Z,baosign,0.1.0,0,0,https://github.com/aronjohanns/baosign,"Sign SSH keys with OpenBao, using profiles like aws --profile"
+2026-10-16T11:10:37.049533Z,raddy-l4,0.5.0,0,0,https://github.com/fokx/raddy,Layer 4 (TCP/UDP) transport application for Raddy (caddy-l4 parity)
+2026-10-16T11:12:43.780395Z,quireink-plugin-menu-editor,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk menu editor: reorders, removes and adds the entries of every menu on the device"
