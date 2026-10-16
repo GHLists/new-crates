@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T22:19:43.370628Z,ursula-headers,0.8.0,0,0,https://github.com/tonbo-io/ursula,"Typed HTTP headers of the Ursula protocol, shared by the server and its clients."
+2026-10-16T22:21:25.382629Z,conductor-daemon,0.1.0,0,0,https://github.com/monstrous-media/conductor,Conductor CLI daemon and diagnostic tools
+2026-10-16T22:23:20.421445Z,wolfpack-types,0.1.0,0,0,https://github.com/realfamousbae/wolfpack,"The type checker of wolfpack. Internal part of wolfpack-lang, not a stable API"
+2026-10-16T22:23:37.976592Z,sendclipper,0.1.0,0,0,https://github.com/sendclipper/sendclipper-rust,"Official Rust SDK for the SendClipper email API: send mail, manage domains, templates, sandboxes, webhooks, contacts and suppressions."
+2026-10-16T22:25:20.196069Z,isoloom-import,0.11.0,0,0,https://github.com/isoloom/isoloom,"Drafting an Isoloom spec from Compose, Vagrant and Terraform files."
+2026-10-16T22:25:30.922992Z,deliverd,0.1.0,0,0,https://github.com/deliverd-dev/deliverd-sdk,"Add human approval to any AI agent. Ask a person, wait for the answer, act on it. Start free at deliverd.dev."
+2026-10-16T22:26:44.088638Z,mylittlechart-core,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,"Lightweight, standalone charting library - canvas, multi-charts, sub-panes, primitives, drawing tools"
+2026-10-16T22:27:17.328512Z,loophole,0.0.0,0,0,,Evasion search and coverage proofs for detection rules
+2026-10-16T22:31:16.019551Z,genie-swiss-knife,0.0.0,0,0,https://github.com/librematch/genie,"gsk, the genie swiss knife: one command-line tool for the files of the Genie engine (Age of Empires II). Nothing is implemented yet."
+2026-10-16T22:33:19.478572Z,wolfpack-ir,0.1.0,0,0,https://github.com/realfamousbae/wolfpack,"The intermediate representation of wolfpack and the lowering into it. Internal part of wolfpack-lang, not a stable API"
+2026-10-16T22:35:21.510233Z,isoloom,0.11.0,0,0,https://github.com/isoloom/isoloom,"Describe an environment once (machines, networks, services), and get each tool's own files to run it: Compose, Kubernetes, Vagrant, Terraform, Ansible."
+2026-10-16T22:36:16.842144Z,mylittlechart-messenger,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,"Sans-I/O Matrix Client-Server-subset sync + E2EE (Olm, Megolm, SAS) engine -- no network, no disk; shells execute OutgoingRequests and persist sealed records the core exports through a flush-before-s…"
+2026-10-16T22:38:36.27898Z,atomic-fs,0.1.0,0,0,https://github.com/metacircu1ar/atomic-fs,"Atomic file publication, durable directory operations, and recoverable append streams"
+2026-10-16T22:43:20.607951Z,wolfpack-go,0.1.0,0,0,https://github.com/realfamousbae/wolfpack,"The Go backend of the wolfpack compiler. Internal part of wolfpack-lang, not a stable API"
+2026-10-16T22:43:53.540877Z,lakespec,0.1.0,0,0,https://github.com/cmubalajee/lakespec-rs,Semantic spec compiler for lakehouse pipelines. In development.
+2026-10-16T22:43:59.859946Z,lakespec-rs,0.1.0,0,0,https://github.com/cmubalajee/lakespec-rs,Semantic spec compiler for lakehouse pipelines. In development.
+2026-10-16T22:45:19.785798Z,isothrum-compiler,0.11.0,0,0,https://github.com/isoloom/isothrum,Isothrum's compiler: a lab drawn in the editor becomes an Isoloom spec.
+2026-10-16T22:45:20.133505Z,superci-programs-planes,0.0.0,0,0,https://github.com/supercorp-ai/superci,Part of SuperCI (the superci crate); this version carries nothing
+2026-10-16T22:45:23.930922Z,superci-programs-cache,0.0.0,0,0,https://github.com/supercorp-ai/superci,Part of SuperCI (the superci crate); this version carries nothing
+2026-10-16T22:45:27.596484Z,superci-programs-layers,0.0.0,0,0,https://github.com/supercorp-ai/superci,Part of SuperCI (the superci crate); this version carries nothing
+2026-10-16T22:46:15.50762Z,mylittlechart-backend-indicator-engine,0.1.0,0,0,https://github.com/ZENG3LD/mylittlechart,Technical indicators library for zengeld-terminal
+2026-10-16T22:46:16.611685Z,amussis-decision,0.2.0,0,0,https://github.com/plurano/amussis,"Decision engine: risk tiers, maker-checker oversight and a hash-linked audit ledger."
+2026-10-16T22:46:18.445199Z,amussis-decision-wasm,0.2.0,0,0,https://github.com/plurano/amussis,"WebAssembly export crate of the decision engine: signer, sink and clock are host functions."
+2026-10-16T22:49:36.554469Z,adler32furious,0.1.0,0,0,https://github.com/srijs/adler32furious,Fast Adler-32 checksums with SIMD for x86 and AArch64
+2026-10-16T22:53:19.995756Z,wolfpack-own,0.1.0,0,0,https://github.com/realfamousbae/wolfpack,"The ownership checker of wolfpack. Internal part of wolfpack-lang, not a stable API"
+2026-10-16T22:55:22.319799Z,isothrum-runner,0.11.0,0,0,https://github.com/isoloom/isothrum,"The Isothrum runner: executes the run manifest Isoloom writes next to a target's files (lifecycle, state and locks, drivers, checks, events)."
+2026-10-16T22:56:19.49496Z,mylittlechart-backend-data-bridge,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,Live data bridge from exchange connectors into the sync chart.
+2026-10-16T22:58:12.737452Z,kaeso-kpp,0.1.0,0,0,https://github.com/logicplanes/kaeso,"KPP, the Kaeso Provider Protocol: Kaeso's canonical in-process format for model requests, responses, streams and errors."
+2026-10-16T22:58:15.542814Z,kaeso-codecs,0.1.0,0,0,https://github.com/logicplanes/kaeso,"Sans-IO codecs between KPP and the wire formats Kaeso speaks (Anthropic Messages, OpenAI Chat Completions, OpenAI Responses, OpenAI Embeddings)."
+2026-10-16T22:59:19.903239Z,vigrise-sso,0.2.0,0,0,https://github.com/vigrise/sdk,First-party ViGrise SSO for Rust: introspect the vigrise_sso cookie of ViGrise apps on *.vigrise.com
+2026-10-16T23:03:20.386822Z,wolfpack-rs,0.1.0,0,0,https://github.com/realfamousbae/wolfpack,"The Rust backend of the wolfpack compiler. Internal part of wolfpack-lang, not a stable API"
+2026-10-16T23:05:22.959191Z,isothrum-wasm,0.11.0,0,0,https://github.com/isoloom/isothrum,"The editor's engine in WebAssembly: a drawn lab becomes an Isoloom spec, every target's files and the downloads."
+2026-10-16T23:06:14.482149Z,mylittlechart-backend-trading-engine,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,"Trading value types, config, and read-only snapshots."
+2026-10-16T23:08:39.647028Z,tagteam-daemon,20261016.2230.0,0,0,https://github.com/michaelrigart/tagteam,"Internal crate of tagteam: the daemon's scheduler, socket and service. No stable API."
+2026-10-16T23:09:24.179432Z,tagteam-tui,20261016.2230.0,0,0,https://github.com/michaelrigart/tagteam,Internal crate of tagteam: the terminal UI. No stable API.
+2026-10-16T23:13:19.930426Z,wolfpack-ts,0.1.0,0,0,https://github.com/realfamousbae/wolfpack,"The TypeScript backend of the wolfpack compiler. Internal part of wolfpack-lang, not a stable API"
+2026-10-16T23:15:22.391186Z,isothrum-cli,0.11.0,0,0,https://github.com/isoloom/isothrum,"isothrum: run what Isoloom generates (up, down, park, resume, status, check, events) from the command line."
+2026-10-16T23:15:54.672992Z,cntryl-fitz,0.2.0,0,0,https://github.com/cntryl/fitz-rs,Async Rust SDK for the Fitz event streaming and orchestration platform
+2026-10-16T23:16:13.289311Z,mylittlechart-updater,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,"OTA update client, telemetry, and OAuth for the chart application."
+2026-10-16T23:18:53.647834Z,defers,0.1.0,0,0,https://github.com/vociferix/defers/,Convenience macro for inline RAII guards
