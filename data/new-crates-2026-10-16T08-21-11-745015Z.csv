@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T07:22:13.925334Z,unrealfs,0.1.0,0,0,https://github.com/lmmtrr/unrealfs,A pure Rust library for parsing and reading assets from Unreal Engine packages (.uasset/.uexp/.ubulk)
+2026-10-16T07:23:01.202129Z,pacekeeper-core,0.1.0,0,0,https://github.com/hri100d/pacekeeper,"Shared types, traits, and in-memory engines for Pacekeeper rate limiters"
+2026-10-16T07:24:51.054035Z,pacekeeper-fixed,0.1.0,0,0,https://github.com/hri100d/pacekeeper,An in-memory fixed-window rate limiter
+2026-10-16T07:24:54.450793Z,pacekeeper-sliding-log,0.1.0,0,0,https://github.com/hri100d/pacekeeper,An in-memory sliding-window log rate limiter
+2026-10-16T07:24:57.401406Z,pacekeeper-sliding-counter,0.1.0,0,0,https://github.com/hri100d/pacekeeper,An in-memory sliding-window counter rate limiter
+2026-10-16T07:25:10.133217Z,pacekeeper-bucket,0.1.0,0,0,https://github.com/hri100d/pacekeeper,"Token-bucket rate limiting with in-memory, Redis, and Redis Cluster backends"
+2026-10-16T07:28:58.881948Z,algeon-query-engine,0.1.0,0,0,https://github.com/algeon-dev/algeon,Native cuDF/cuGraph query engine contracts for GPU plans.
+2026-10-16T07:34:01.693166Z,pacekeeper,0.1.0,0,0,https://github.com/hri100d/pacekeeper,Configurable rate limiters with in-memory and Redis backends
+2026-10-16T07:38:53.344118Z,algeon-datafusion,0.1.0,0,0,https://github.com/algeon-dev/algeon,DataFusion physical-plan adapter for native GPU execution.
+2026-10-16T07:43:14.895532Z,rhema-provider-anthropic,0.1.0,0,0,https://git.vhaudiquet.fr/vhaudiquet/rhema.git,Anthropic Messages API adapter for the rhema ModelProvider seam
+2026-10-16T07:43:23.908804Z,rhema-provider-copilot,0.1.0,0,0,https://git.vhaudiquet.fr/vhaudiquet/rhema.git,GitHub Copilot adapter for the rhema ModelProvider seam
+2026-10-16T07:43:32.091734Z,rhema-provider-google,0.1.0,0,0,https://git.vhaudiquet.fr/vhaudiquet/rhema.git,Google Gemini adapter for the rhema ModelProvider seam
+2026-10-16T07:43:40.239337Z,rhema-provider-llama-cpp,0.1.0,0,0,https://git.vhaudiquet.fr/vhaudiquet/rhema.git,llama.cpp server adapter for the rhema ModelProvider seam
+2026-10-16T07:43:49.496576Z,rhema-provider-openai-compatible,0.1.0,0,0,https://git.vhaudiquet.fr/vhaudiquet/rhema.git,Generic OpenAI-compatible chat-completions adapter for the rhema ModelProvider seam
+2026-10-16T07:50:26.000007Z,donut-rs,0.1.0,0,0,https://github.com/cools9/donut.rs,A simple donut.c implementation written in Rust
+2026-10-16T07:52:43.550504Z,rpi-orchestrator,0.1.6,0,0,https://github.com/pi-rust/rpi-package,Bounded DAG subagent orchestration extension for the rpi Rust agent
+2026-10-16T07:53:21.964199Z,axioval-mcs,0.6.0,0,0,https://github.com/axioval/engine,"Fail-closed reader of Axioval MCS package archives (.mcs), rule sets and definitions packages"
+2026-10-16T07:54:02.864593Z,zsuite-theme,0.1.0,0,0,https://github.com/ZAL-Analytics/zsuite,"Reads and checks .zth looks: the colours, logo and font of an app's interface."
+2026-10-16T07:57:54.906235Z,ttunes,0.1.0,0,0,https://github.com/iiKillish/tui-tunes,"Spotify player for the terminal, written in Rust using librespot and ratatui"
+2026-10-16T07:59:32.125254Z,rhema-provider-openrouter,0.1.0,0,0,https://git.vhaudiquet.fr/vhaudiquet/rhema.git,OpenRouter adapter for the rhema ModelProvider seam
+2026-10-16T07:59:47.512328Z,winner,0.1.0,0,0,,Something coming here soon
+2026-10-16T08:00:25.101853Z,vtk-wrap,0.1.0,0,0,https://github.com/awoimbee/vtk-wrap,Unsafe Rust bindings to VTK
+2026-10-16T08:01:17.073547Z,bullet-math,0.1.0,0,0,https://github.com/CrazyboyQCD/bullet-physics,"Linear math layer for the bullet physics engine: SIMD-accelerated, precision-swappable glam aliases"
+2026-10-16T08:01:39.080485Z,bullet-collision,0.1.0,0,0,https://github.com/CrazyboyQCD/bullet-physics,"Collision detection for the bullet physics engine: shapes, broad phase, narrow phase, and contact manifolds"
+2026-10-16T08:01:51.663517Z,bullet-dynamics,0.1.0,0,0,https://github.com/CrazyboyQCD/bullet-physics,"Rigid body dynamics for the bullet physics engine: bodies, simulation world, and constraint solvers"
+2026-10-16T08:02:25.28209Z,bullet-physics,0.1.0,0,0,https://github.com/CrazyboyQCD/bullet-physics,"Facade crate aggregating the bullet physics engine (math, collision, and dynamics)"
+2026-10-16T08:02:47.84803Z,dpa,0.0.0,0,0,https://github.com/dpa-org/dpa,Data Processing & Analysis. Placeholder reservation: the real crate ships with v1.0.0.
+2026-10-16T08:04:00.256488Z,ohos-native-display-soloist-sys,0.1.0,0,0,https://github.com/openharmony-rs/ohos-sys,Raw bindings to the OpenHarmony NativeDisplaySoloist API
+2026-10-16T08:05:57.693338Z,change-risk,0.2.0,0,0,https://github.com/noru-tech/change-risk,"Deterministic change risk tiers from changed paths, a sensitivity map and declared facts, as an in-toto predicate."
+2026-10-16T08:06:39.256104Z,ripgsed,0.1.0,0,0,https://github.com/small-gear-lab/ripgsed,"A GNU sed 4.9 compatible stream editor, as a library and as a command"
+2026-10-16T08:10:08.150465Z,foch-annotation,0.0.1,0,0,https://github.com/Acture/foch,"Foch annotations carried in EU4 script comments: extraction, schemas, validation and editor support"
+2026-10-16T08:10:10.759712Z,foch-lsp,0.0.1,0,0,https://github.com/Acture/foch,"Language server for EU4 mod scripts and Foch annotations, started by `foch lsp`"
+2026-10-16T08:10:11.543615Z,foch-test,0.0.1,0,0,https://github.com/Acture/foch,"Collection, planning, compilation and judging of in-game EU4 mod tests"
+2026-10-16T08:10:14.578359Z,foch-runner,0.0.1,0,0,https://github.com/Acture/foch,Launches a real EU4 install in isolation to execute Foch test bundles
+2026-10-16T08:10:17.116379Z,foch-cli,0.0.1,0,0,https://github.com/Acture/foch,"EU4 mod analysis, merge and language server CLI"
+2026-10-16T08:12:52.090613Z,pactole-import,0.2.0,0,0,https://github.com/etienne-monier/pactole,"Import external formats (OFX, ...) into Pactole domain models."
+2026-10-16T08:12:56.359106Z,pactole-lsp,0.2.0,0,0,https://github.com/etienne-monier/pactole,Language Server Protocol server for Pactole ledgers.
+2026-10-16T08:19:21.139848Z,dpa-cli,0.0.0,0,0,https://github.com/dpa-org/dpa,Command-line interface for dpa. Placeholder reservation: the real crate ships with v1.0.0.
+2026-10-16T08:19:22.997363Z,cocoon-tpm-ossl-bare-sys-target-integration,0.1.1,0,0,https://github.com/coconut-svsm/cocoon-tpm,Cocoon TPM project - trivial default ossl-bare-sys integration helper
+2026-10-16T08:19:36.221868Z,dpa-wasm,0.0.0,0,0,https://github.com/dpa-org/dpa,WebAssembly bindings for dpa. Placeholder reservation: the real crate ships with v1.0.0.
+2026-10-16T08:20:13.560424Z,cocoon-tpm-ossl-bare-sys,0.1.1,0,0,https://github.com/coconut-svsm/cocoon-tpm,Cocoon TPM project - bare OpenSSL FFI bindings

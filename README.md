@@ -8,40 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 07:19 UTC
+## Latest list — 2026-10-16 08:21 UTC
 
-New crates published between 2026-10-16 06:19 UTC and 2026-10-16 07:19 UTC.
+New crates published between 2026-10-16 07:19 UTC and 2026-10-16 08:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-16T07-19-40-52196Z.csv)
+[Full CSV](data/new-crates-2026-10-16T08-21-11-745015Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-16 06:20:13 | [speechfoundry-core](https://crates.io/crates/speechfoundry-core) | 0.2.0 | 0 | Portable audio, prompt envelopes, and inference contracts for speechfoundry |
-| 2026-10-16 06:20:14 | [speechfoundry-cosyvoice](https://crates.io/crates/speechfoundry-cosyvoice) | 0.2.0 | 0 | Candle inference components for CosyVoice 3 speech synthesis |
-| 2026-10-16 06:20:15 | [speechfoundry-qwen](https://crates.io/crates/speechfoundry-qwen) | 0.2.0 | 0 | Local Candle inference for Qwen3-TTS |
-| 2026-10-16 06:20:16 | [speechfoundry](https://crates.io/crates/speechfoundry) | 0.2.0 | 0 | Local speech inference with independent models and portable language bindings |
-| 2026-10-16 06:28:55 | [algeon-cugraph](https://crates.io/crates/algeon-cugraph) | 0.1.0 | 0 | Safe libcugraph execution component for Algeon |
-| 2026-10-16 06:38:09 | [aerocache](https://crates.io/crates/aerocache) | 0.1.0 | 0 | Ultra-fast, sharded, concurrent in-memory cache with zero-copy lookups, TTL, an… |
-| 2026-10-16 06:38:44 | [an-tensor-compiler](https://crates.io/crates/an-tensor-compiler) | 0.2.1 | 0 | Differentiable neuro-symbolic compiler: symbolic logic rules → tensor equations… |
-| 2026-10-16 06:38:59 | [algeon-cuml-sys](https://crates.io/crates/algeon-cuml-sys) | 0.1.0 | 0 | Low-level FFI bindings to NVIDIA cuML |
-| 2026-10-16 06:43:59 | [verifies](https://crates.io/crates/verifies) | 0.1.0 | 0 | Mark a Rust test with the requirement keys it verifies, read back from the test… |
-| 2026-10-16 06:44:02 | [cargo-verifies](https://crates.io/crates/cargo-verifies) | 0.1.0 | 0 | Copy #[verifies] requirement keys from Rust test binaries into nextest's JUnit… |
-| 2026-10-16 06:48:28 | [rhema-core](https://crates.io/crates/rhema-core) | 0.1.0 | 0 | A small, embeddable, generic step engine for one exchange with a model |
-| 2026-10-16 06:48:30 | [rhema-agent-tools](https://crates.io/crates/rhema-agent-tools) | 0.1.0 | 0 | The shared agent toolkit on rhema-core's tool abstraction: the approval-gated s… |
-| 2026-10-16 06:48:30 | [rhema-config](https://crates.io/crates/rhema-config) | 0.1.0 | 0 | Persistent rhema settings: stored provider keys and last-used choices |
-| 2026-10-16 06:48:31 | [rhema-provider](https://crates.io/crates/rhema-provider) | 0.1.0 | 0 | Shared base of the rhema provider adapters: model card, pricing, SSE decoding |
-| 2026-10-16 06:48:33 | [rhema-coding-agent](https://crates.io/crates/rhema-coding-agent) | 0.1.0 | 0 | The coding-agent driver on top of rhema-core: turn loop, session persistence, t… |
-| 2026-10-16 06:48:58 | [algeon-cuml](https://crates.io/crates/algeon-cuml) | 0.1.0 | 0 | Safe Rust bindings to NVIDIA cuML |
-| 2026-10-16 06:49:20 | [picodata-driver](https://crates.io/crates/picodata-driver) | 3.0.0 | 0 | A native asyncronous cluster-aware Picodata client |
-| 2026-10-16 06:49:36 | [aerorate](https://crates.io/crates/aerorate) | 0.1.0 | 0 | Ultra-fast, lock-free atomic GCRA rate limiter with sub-10ns latency and zero a… |
-| 2026-10-16 06:52:39 | [turnstone](https://crates.io/crates/turnstone) | 0.0.0 | 0 | Event sourcing you don't have to see: write plain methods, keep the whole histo… |
-| 2026-10-16 06:55:22 | [ic-storage](https://crates.io/crates/ic-storage) | 0.0.0 | 0 | Page-based stable-memory B-tree storage for Internet Computer applications |
-| 2026-10-16 06:57:06 | [dream-gate](https://crates.io/crates/dream-gate) | 0.1.0 | 0 | Deterministic, pure acceptance gate for model-written patches: frozen manifests… |
-| 2026-10-16 06:57:28 | [dream-core](https://crates.io/crates/dream-core) | 0.1.0 | 0 | The nightly evidence-gated evolution loop around dream-gate: evaluator runners,… |
-| 2026-10-16 06:57:50 | [dream-cli](https://crates.io/crates/dream-cli) | 0.1.0 | 0 | Offline command-line front end for the dream-engine gate: validate a config, ve… |
-| 2026-10-16 06:58:59 | [algeon-cuvs-sys](https://crates.io/crates/algeon-cuvs-sys) | 0.1.0 | 0 | Generated low-level FFI bindings to the NVIDIA cuVS C API |
-| 2026-10-16 07:08:56 | [algeon-cuvs](https://crates.io/crates/algeon-cuvs) | 0.1.0 | 0 | Algeon-safe Rust bindings for NVIDIA cuVS GPU vector search and clustering |
-| 2026-10-16 07:18:59 | [algeon-query-runtime](https://crates.io/crates/algeon-query-runtime) | 0.1.0 | 0 | Native query runtime, lifecycle, ledger, and observation owners. |
+| 2026-10-16 07:22:13 | [unrealfs](https://crates.io/crates/unrealfs) | 0.1.0 | 0 | A pure Rust library for parsing and reading assets from Unreal Engine packages… |
+| 2026-10-16 07:23:01 | [pacekeeper-core](https://crates.io/crates/pacekeeper-core) | 0.1.0 | 0 | Shared types, traits, and in-memory engines for Pacekeeper rate limiters |
+| 2026-10-16 07:24:51 | [pacekeeper-fixed](https://crates.io/crates/pacekeeper-fixed) | 0.1.0 | 0 | An in-memory fixed-window rate limiter |
+| 2026-10-16 07:24:54 | [pacekeeper-sliding-log](https://crates.io/crates/pacekeeper-sliding-log) | 0.1.0 | 0 | An in-memory sliding-window log rate limiter |
+| 2026-10-16 07:24:57 | [pacekeeper-sliding-counter](https://crates.io/crates/pacekeeper-sliding-counter) | 0.1.0 | 0 | An in-memory sliding-window counter rate limiter |
+| 2026-10-16 07:25:10 | [pacekeeper-bucket](https://crates.io/crates/pacekeeper-bucket) | 0.1.0 | 0 | Token-bucket rate limiting with in-memory, Redis, and Redis Cluster backends |
+| 2026-10-16 07:28:58 | [algeon-query-engine](https://crates.io/crates/algeon-query-engine) | 0.1.0 | 0 | Native cuDF/cuGraph query engine contracts for GPU plans. |
+| 2026-10-16 07:34:01 | [pacekeeper](https://crates.io/crates/pacekeeper) | 0.1.0 | 0 | Configurable rate limiters with in-memory and Redis backends |
+| 2026-10-16 07:38:53 | [algeon-datafusion](https://crates.io/crates/algeon-datafusion) | 0.1.0 | 0 | DataFusion physical-plan adapter for native GPU execution. |
+| 2026-10-16 07:43:14 | [rhema-provider-anthropic](https://crates.io/crates/rhema-provider-anthropic) | 0.1.0 | 0 | Anthropic Messages API adapter for the rhema ModelProvider seam |
+| 2026-10-16 07:43:23 | [rhema-provider-copilot](https://crates.io/crates/rhema-provider-copilot) | 0.1.0 | 0 | GitHub Copilot adapter for the rhema ModelProvider seam |
+| 2026-10-16 07:43:32 | [rhema-provider-google](https://crates.io/crates/rhema-provider-google) | 0.1.0 | 0 | Google Gemini adapter for the rhema ModelProvider seam |
+| 2026-10-16 07:43:40 | [rhema-provider-llama-cpp](https://crates.io/crates/rhema-provider-llama-cpp) | 0.1.0 | 0 | llama.cpp server adapter for the rhema ModelProvider seam |
+| 2026-10-16 07:43:49 | [rhema-provider-openai-compatible](https://crates.io/crates/rhema-provider-openai-compatible) | 0.1.0 | 0 | Generic OpenAI-compatible chat-completions adapter for the rhema ModelProvider… |
+| 2026-10-16 07:50:26 | [donut-rs](https://crates.io/crates/donut-rs) | 0.1.0 | 0 | A simple donut.c implementation written in Rust |
+| 2026-10-16 07:52:43 | [rpi-orchestrator](https://crates.io/crates/rpi-orchestrator) | 0.1.6 | 0 | Bounded DAG subagent orchestration extension for the rpi Rust agent |
+| 2026-10-16 07:53:21 | [axioval-mcs](https://crates.io/crates/axioval-mcs) | 0.6.0 | 0 | Fail-closed reader of Axioval MCS package archives (.mcs), rule sets and defini… |
+| 2026-10-16 07:54:02 | [zsuite-theme](https://crates.io/crates/zsuite-theme) | 0.1.0 | 0 | Reads and checks .zth looks: the colours, logo and font of an app's interface. |
+| 2026-10-16 07:57:54 | [ttunes](https://crates.io/crates/ttunes) | 0.1.0 | 0 | Spotify player for the terminal, written in Rust using librespot and ratatui |
+| 2026-10-16 07:59:32 | [rhema-provider-openrouter](https://crates.io/crates/rhema-provider-openrouter) | 0.1.0 | 0 | OpenRouter adapter for the rhema ModelProvider seam |
+| 2026-10-16 07:59:47 | [winner](https://crates.io/crates/winner) | 0.1.0 | 0 | Something coming here soon |
+| 2026-10-16 08:00:25 | [vtk-wrap](https://crates.io/crates/vtk-wrap) | 0.1.0 | 0 | Unsafe Rust bindings to VTK |
+| 2026-10-16 08:01:17 | [bullet-math](https://crates.io/crates/bullet-math) | 0.1.0 | 0 | Linear math layer for the bullet physics engine: SIMD-accelerated, precision-sw… |
+| 2026-10-16 08:01:39 | [bullet-collision](https://crates.io/crates/bullet-collision) | 0.1.0 | 0 | Collision detection for the bullet physics engine: shapes, broad phase, narrow… |
+| 2026-10-16 08:01:51 | [bullet-dynamics](https://crates.io/crates/bullet-dynamics) | 0.1.0 | 0 | Rigid body dynamics for the bullet physics engine: bodies, simulation world, an… |
+| 2026-10-16 08:02:25 | [bullet-physics](https://crates.io/crates/bullet-physics) | 0.1.0 | 0 | Facade crate aggregating the bullet physics engine (math, collision, and dynami… |
+| 2026-10-16 08:02:47 | [dpa](https://crates.io/crates/dpa) | 0.0.0 | 0 | Data Processing & Analysis. Placeholder reservation: the real crate ships with… |
+| 2026-10-16 08:04:00 | [ohos-native-display-soloist-sys](https://crates.io/crates/ohos-native-display-soloist-sys) | 0.1.0 | 0 | Raw bindings to the OpenHarmony NativeDisplaySoloist API |
+| 2026-10-16 08:05:57 | [change-risk](https://crates.io/crates/change-risk) | 0.2.0 | 0 | Deterministic change risk tiers from changed paths, a sensitivity map and decla… |
+| 2026-10-16 08:06:39 | [ripgsed](https://crates.io/crates/ripgsed) | 0.1.0 | 0 | A GNU sed 4.9 compatible stream editor, as a library and as a command |
+| 2026-10-16 08:10:08 | [foch-annotation](https://crates.io/crates/foch-annotation) | 0.0.1 | 0 | Foch annotations carried in EU4 script comments: extraction, schemas, validatio… |
+| 2026-10-16 08:10:10 | [foch-lsp](https://crates.io/crates/foch-lsp) | 0.0.1 | 0 | Language server for EU4 mod scripts and Foch annotations, started by `foch lsp` |
+| 2026-10-16 08:10:11 | [foch-test](https://crates.io/crates/foch-test) | 0.0.1 | 0 | Collection, planning, compilation and judging of in-game EU4 mod tests |
+| 2026-10-16 08:10:14 | [foch-runner](https://crates.io/crates/foch-runner) | 0.0.1 | 0 | Launches a real EU4 install in isolation to execute Foch test bundles |
+| 2026-10-16 08:10:17 | [foch-cli](https://crates.io/crates/foch-cli) | 0.0.1 | 0 | EU4 mod analysis, merge and language server CLI |
+| 2026-10-16 08:12:52 | [pactole-import](https://crates.io/crates/pactole-import) | 0.2.0 | 0 | Import external formats (OFX, ...) into Pactole domain models. |
+| 2026-10-16 08:12:56 | [pactole-lsp](https://crates.io/crates/pactole-lsp) | 0.2.0 | 0 | Language Server Protocol server for Pactole ledgers. |
+| 2026-10-16 08:19:21 | [dpa-cli](https://crates.io/crates/dpa-cli) | 0.0.0 | 0 | Command-line interface for dpa. Placeholder reservation: the real crate ships w… |
+| 2026-10-16 08:19:22 | [cocoon-tpm-ossl-bare-sys-target-integration](https://crates.io/crates/cocoon-tpm-ossl-bare-sys-target-integration) | 0.1.1 | 0 | Cocoon TPM project - trivial default ossl-bare-sys integration helper |
+| 2026-10-16 08:19:36 | [dpa-wasm](https://crates.io/crates/dpa-wasm) | 0.0.0 | 0 | WebAssembly bindings for dpa. Placeholder reservation: the real crate ships wit… |
+| 2026-10-16 08:20:13 | [cocoon-tpm-ossl-bare-sys](https://crates.io/crates/cocoon-tpm-ossl-bare-sys) | 0.1.1 | 0 | Cocoon TPM project - bare OpenSSL FFI bindings |
 
 ## Data source
 
