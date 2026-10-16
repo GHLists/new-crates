@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T06:20:13.359839Z,speechfoundry-core,0.2.0,0,0,https://github.com/SpenserCai/tts-rs,"Portable audio, prompt envelopes, and inference contracts for speechfoundry"
+2026-10-16T06:20:14.193577Z,speechfoundry-cosyvoice,0.2.0,0,0,https://github.com/SpenserCai/tts-rs,Candle inference components for CosyVoice 3 speech synthesis
+2026-10-16T06:20:15.066753Z,speechfoundry-qwen,0.2.0,0,0,https://github.com/SpenserCai/tts-rs,Local Candle inference for Qwen3-TTS
+2026-10-16T06:20:16.523133Z,speechfoundry,0.2.0,0,0,https://github.com/SpenserCai/tts-rs,Local speech inference with independent models and portable language bindings
+2026-10-16T06:28:55.070869Z,algeon-cugraph,0.1.0,0,0,https://github.com/algeon-dev/algeon,Safe libcugraph execution component for Algeon
+2026-10-16T06:38:09.3608Z,aerocache,0.1.0,0,0,https://github.com/Saltborn000/Aerocache,"Ultra-fast, sharded, concurrent in-memory cache with zero-copy lookups, TTL, and enterprise telemetry."
+2026-10-16T06:38:44.385061Z,an-tensor-compiler,0.2.1,0,0,https://github.com/monetic-labs/an-tensor-compiler,Differentiable neuro-symbolic compiler: symbolic logic rules → tensor equations with full gradient flow. Optional GPU acceleration via Metal/CUDA.
+2026-10-16T06:38:59.01635Z,algeon-cuml-sys,0.1.0,0,0,https://github.com/algeon-dev/algeon,Low-level FFI bindings to NVIDIA cuML
+2026-10-16T06:43:59.346032Z,verifies,0.1.0,0,0,https://github.com/serialexp/verifies,"Mark a Rust test with the requirement keys it verifies, read back from the test binary by cargo-verifies"
+2026-10-16T06:44:02.163028Z,cargo-verifies,0.1.0,0,0,https://github.com/serialexp/verifies,Copy #[verifies] requirement keys from Rust test binaries into nextest's JUnit report
+2026-10-16T06:48:28.328206Z,rhema-core,0.1.0,0,0,https://git.vhaudiquet.fr/vhaudiquet/rhema.git,"A small, embeddable, generic step engine for one exchange with a model"
+2026-10-16T06:48:30.308642Z,rhema-agent-tools,0.1.0,0,0,https://git.vhaudiquet.fr/vhaudiquet/rhema.git,"The shared agent toolkit on rhema-core's tool abstraction: the approval-gated shell, skills, paste expansion, dangling-call repair, the system-prompt renderer"
+2026-10-16T06:48:30.808078Z,rhema-config,0.1.0,0,0,https://git.vhaudiquet.fr/vhaudiquet/rhema.git,Persistent rhema settings: stored provider keys and last-used choices
+2026-10-16T06:48:31.153708Z,rhema-provider,0.1.0,0,0,https://git.vhaudiquet.fr/vhaudiquet/rhema.git,"Shared base of the rhema provider adapters: model card, pricing, SSE decoding"
+2026-10-16T06:48:33.200087Z,rhema-coding-agent,0.1.0,0,0,https://git.vhaudiquet.fr/vhaudiquet/rhema.git,"The coding-agent driver on top of rhema-core: turn loop, session persistence, the SYSTEM.md template"
+2026-10-16T06:48:58.850924Z,algeon-cuml,0.1.0,0,0,https://github.com/algeon-dev/algeon,Safe Rust bindings to NVIDIA cuML
+2026-10-16T06:49:20.172922Z,picodata-driver,3.0.0,0,0,https://git.picodata.io/core/drivers/picodata-rust,A native asyncronous cluster-aware Picodata client
+2026-10-16T06:49:36.490075Z,aerorate,0.1.0,0,0,https://github.com/Saltborn000/AeroRate,"Ultra-fast, lock-free atomic GCRA rate limiter with sub-10ns latency and zero allocations."
+2026-10-16T06:52:39.469264Z,turnstone,0.0.0,0,0,,"Event sourcing you don't have to see: write plain methods, keep the whole history. Work in progress; this release only reserves the name."
+2026-10-16T06:55:22.008344Z,ic-storage,0.0.0,0,0,https://github.com/dragginzgame/ic-storage,Page-based stable-memory B-tree storage for Internet Computer applications
+2026-10-16T06:57:06.171612Z,dream-gate,0.1.0,0,0,https://github.com/DreamLab-AI/dream-engine,"Deterministic, pure acceptance gate for model-written patches: frozen manifests, typed evaluator receipts, protected-path guard and evidence-gated verdicts."
+2026-10-16T06:57:28.054301Z,dream-core,0.1.0,0,0,https://github.com/DreamLab-AI/dream-engine,"The nightly evidence-gated evolution loop around dream-gate: evaluator runners, ledger, candidate worktrees, source reading, prompts, replay and the seams (LLM, memory, notifier, forge) a host plugs…"
+2026-10-16T06:57:50.883875Z,dream-cli,0.1.0,0,0,https://github.com/DreamLab-AI/dream-engine,"Offline command-line front end for the dream-engine gate: validate a config, verify a ledger, stamp and verify witnesses, replay a recorded night, and check a patch against the protected set."
+2026-10-16T06:58:59.714242Z,algeon-cuvs-sys,0.1.0,0,0,https://github.com/algeon-dev/algeon,Generated low-level FFI bindings to the NVIDIA cuVS C API
+2026-10-16T07:08:56.958219Z,algeon-cuvs,0.1.0,0,0,https://github.com/algeon-dev/algeon,Algeon-safe Rust bindings for NVIDIA cuVS GPU vector search and clustering
+2026-10-16T07:18:59.1984Z,algeon-query-runtime,0.1.0,0,0,https://github.com/algeon-dev/algeon,"Native query runtime, lifecycle, ledger, and observation owners."
