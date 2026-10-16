@@ -8,39 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 05:19 UTC
+## Latest list — 2026-10-16 06:19 UTC
 
-New crates published between 2026-10-16 04:19 UTC and 2026-10-16 05:19 UTC.
+New crates published between 2026-10-16 05:19 UTC and 2026-10-16 06:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-16T05-19-36-557499Z.csv)
+[Full CSV](data/new-crates-2026-10-16T06-19-39-031096Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-16 04:24:03 | [bao-selectors](https://crates.io/crates/bao-selectors) | 0.41.0 | 0 | CSS Selectors matching for Rust |
-| 2026-10-16 04:24:12 | [okbot](https://crates.io/crates/okbot) | 0.5.0 | 0 | The okbot command line: create, run and manage chat bots backed by agent CLIs a… |
-| 2026-10-16 04:24:31 | [emaki](https://crates.io/crates/emaki) | 0.1.0 | 0 | Official SDK for emaki (emaki.ai), the Japanese-language AI video generator for… |
-| 2026-10-16 04:29:41 | [hpsvm-macros](https://crates.io/crates/hpsvm-macros) | 0.1.19 | 0 | Proc macros for hpsvm builtin instruction and transaction handlers |
-| 2026-10-16 04:29:43 | [hpsvm-test-support](https://crates.io/crates/hpsvm-test-support) | 0.1.19 | 0 | Shared SBF test-program fixture lookup for hpsvm tests, benches, and doctests |
-| 2026-10-16 04:30:01 | [sito](https://crates.io/crates/sito) | 0.0.1 | 0 | Memory-safe filtering DNS resolver with a built-in web UI. One binary, one conf… |
-| 2026-10-16 04:32:10 | [bao-stylo-malloc-size-of](https://crates.io/crates/bao-stylo-malloc-size-of) | 0.22.0 | 0 | An allocator-agnostic crate for measuring the heap size of a value |
-| 2026-10-16 04:33:23 | [ipc-runtime](https://crates.io/crates/ipc-runtime) | 7.0.0-nightly.20261… | 0 | Safe Rust bindings to the ipc-runtime C ABI (UDS + MPSC-SHM transport). |
-| 2026-10-16 04:34:41 | [opys-server](https://crates.io/crates/opys-server) | 0.13.0 | 0 | Always-on opys node: watcher, HTTP/WS API, and web UI over local inventories |
-| 2026-10-16 04:34:41 | [bbs-cli](https://crates.io/crates/bbs-cli) | 0.5.1 | 0 | An async message board for coding agents and the humans running them. |
-| 2026-10-16 04:34:42 | [bao-stylo-dom](https://crates.io/crates/bao-stylo-dom) | 0.22.0 | 0 | DOM state types for Stylo |
-| 2026-10-16 04:43:22 | [rchdman](https://crates.io/crates/rchdman) | 0.4.0 | 0 | CHDMAN Utility implementations in Rust |
-| 2026-10-16 04:47:41 | [bao-stylo-traits](https://crates.io/crates/bao-stylo-traits) | 0.22.0 | 0 | Types used by the Stylo CSS engine |
-| 2026-10-16 04:52:20 | [termgammon](https://crates.io/crates/termgammon) | 1.2.0 | 0 | Backgammon in the terminal, with an AI, a doubling cube, themes and animations |
-| 2026-10-16 04:54:16 | [medius-capi](https://crates.io/crates/medius-capi) | 3.4.6 | 0 | C ABI for the medius crate, the Rust library for Medius on the MAKCU box |
-| 2026-10-16 05:02:08 | [rightkit-hooks](https://crates.io/crates/rightkit-hooks) | 0.1.0 | 0 | Typed Claude Code and Codex hook payloads, a deadline-bound exit-0 dispatcher,… |
-| 2026-10-16 05:02:24 | [rightkit-docs](https://crates.io/crates/rightkit-docs) | 0.1.0 | 0 | Product-neutral DOCX, XLSX and PDF read and write: format detection from conten… |
-| 2026-10-16 05:05:56 | [vikron-nautilus](https://crates.io/crates/vikron-nautilus) | 0.1.0 | 0 | Vikron Catalog custom data types and registration for NautilusTrader |
-| 2026-10-16 05:08:00 | [trestle-protocol](https://crates.io/crates/trestle-protocol) | 0.2.1 | 0 | Trestle portable formats: Contract IR, JSON Schema, form presentation and inter… |
-| 2026-10-16 05:10:32 | [trestle-historical](https://crates.io/crates/trestle-historical) | 0.2.1 | 0 | Trestle migration history: artifacts, ledger and runner. Never depends on curre… |
-| 2026-10-16 05:10:47 | [trestle-core](https://crates.io/crates/trestle-core) | 0.2.1 | 0 | Trestle framework core: errors, identity, request context and input decoding |
-| 2026-10-16 05:11:02 | [trestle-identity](https://crates.io/crates/trestle-identity) | 0.2.1 | 0 | Trestle identity integrations: OIDC login with server-side sessions, and JWT be… |
-| 2026-10-16 05:11:10 | [trestle-mail](https://crates.io/crates/trestle-mail) | 0.2.1 | 0 | Outgoing email for Trestle: a Mailer interface with SMTP and file backends |
-| 2026-10-16 05:16:33 | [ai-stp-cli](https://crates.io/crates/ai-stp-cli) | 0.1.2 | 0 | Native ai-stp CLI engine |
-| 2026-10-16 05:19:16 | [trestle-framework](https://crates.io/crates/trestle-framework) | 0.2.1 | 0 | Trestle: an API-first Rust application framework. The one crate projects depend… |
+| 2026-10-16 05:28:26 | [wlmenu](https://crates.io/crates/wlmenu) | 0.1.0 | 0 | A wmenu/dmenu-style Wayland menu written in Rust |
+| 2026-10-16 05:28:33 | [trestle-cli](https://crates.io/crates/trestle-cli) | 0.2.1 | 0 | The `trestle` command: scaffolds projects and runs a project's own CLI. |
+| 2026-10-16 05:29:01 | [faultline-surface](https://crates.io/crates/faultline-surface) | 0.0.1 | 0 | Changed-path bucketing and suspect ranking for faultline |
+| 2026-10-16 05:30:03 | [faultline-ports](https://crates.io/crates/faultline-ports) | 0.0.1 | 0 | Infrastructure port traits for faultline regression localization |
+| 2026-10-16 05:31:05 | [faultline-app](https://crates.io/crates/faultline-app) | 0.0.1 | 0 | Application orchestration for faultline regression localization |
+| 2026-10-16 05:32:07 | [faultline-git](https://crates.io/crates/faultline-git) | 0.0.1 | 0 | Git history and disposable worktree adapters for faultline |
+| 2026-10-16 05:33:09 | [faultline-probe-exec](https://crates.io/crates/faultline-probe-exec) | 0.0.1 | 0 | Predicate process execution adapter for faultline |
+| 2026-10-16 05:34:58 | [lgpu-hal](https://crates.io/crates/lgpu-hal) | 0.1.1 | 0 | Micro hardware abstraction layer for lgpu |
+| 2026-10-16 05:35:31 | [lgpu](https://crates.io/crates/lgpu) | 0.1.1 | 0 | Ultra-lightweight, bindless-first cross-platform GPU abstraction |
+| 2026-10-16 05:36:04 | [lgpu-c](https://crates.io/crates/lgpu-c) | 0.1.1 | 0 | Universal C99 / Zig FFI bindings for lgpu |
+| 2026-10-16 05:37:12 | [hf-core](https://crates.io/crates/hf-core) | 0.1.0 | 0 | Shared HoneyForge agent and control-plane data types. |
+| 2026-10-16 05:37:24 | [kazik-protocol](https://crates.io/crates/kazik-protocol) | 0.1.0 | 0 | HoneyForge Kazik protocol message types and durable outbox interfaces. |
+| 2026-10-16 05:38:06 | [hf-services](https://crates.io/crates/hf-services) | 0.1.0 | 0 | HoneyForge host services for honeypot lifecycle, telemetry, and transport. |
+| 2026-10-16 05:39:28 | [mattermost-tui](https://crates.io/crates/mattermost-tui) | 1.1.1 | 0 | Keyboard-driven terminal client for Mattermost |
+| 2026-10-16 05:40:01 | [hf-agent](https://crates.io/crates/hf-agent) | 0.1.0 | 0 | HoneyForge host agent for managing honeypots and sending telemetry to the contr… |
+| 2026-10-16 05:42:31 | [faultline-store](https://crates.io/crates/faultline-store) | 0.0.1 | 0 | Filesystem-backed run persistence for faultline |
+| 2026-10-16 05:43:08 | [gvsn-net](https://crates.io/crates/gvsn-net) | 1.1.0 | 0 | HTTP client and resumable downloads for gvsn |
+| 2026-10-16 05:43:09 | [gvsn-platform](https://crates.io/crates/gvsn-platform) | 1.1.0 | 0 | Platform layer of gvsn: current link and Windows user PATH |
+| 2026-10-16 05:43:09 | [gvsn-shell](https://crates.io/crates/gvsn-shell) | 1.1.0 | 0 | Shell integration scripts and profile management for gvsn |
+| 2026-10-16 05:43:10 | [gvsn-core](https://crates.io/crates/gvsn-core) | 1.1.0 | 0 | Domain logic of gvsn: Go versions, toolchain store and release index |
+| 2026-10-16 05:45:17 | [hf-cli](https://crates.io/crates/hf-cli) | 0.1.0 | 0 | Local HoneyForge honeypot lifecycle CLI |
+| 2026-10-16 05:57:51 | [splithello](https://crates.io/crates/splithello) | 0.1.0 | 0 | Local HTTPS CONNECT proxy that splits the TLS ClientHello for selected sites, w… |
+| 2026-10-16 05:58:55 | [neoblast-erasure](https://crates.io/crates/neoblast-erasure) | 0.0.1 | 0 | Neoblast erasure coding: Leopard-RS compatible Reed-Solomon over GF(2^16). |
+| 2026-10-16 05:58:56 | [neoblast-format](https://crates.io/crates/neoblast-format) | 0.0.1 | 0 | Neoblast byte formats: the committed file header, layout rules and capability l… |
+| 2026-10-16 05:58:57 | [neoblast-crypto](https://crates.io/crates/neoblast-crypto) | 0.0.1 | 0 | Neoblast key derivation and segmented XChaCha20-Poly1305 encryption. |
+| 2026-10-16 05:58:59 | [neoblast](https://crates.io/crates/neoblast) | 0.0.1 | 0 | Censorship-resistant P2P storage: encrypted, erasure-coded shards that heal wit… |
+| 2026-10-16 06:01:43 | [lz_builtins](https://crates.io/crates/lz_builtins) | 0.1.0 | 0 | Lang-Zone runtime builtins — shared by all generated Rust output |
+| 2026-10-16 06:02:00 | [tnr-symbolica](https://crates.io/crates/tnr-symbolica) | 0.1.0 | 0 | Tnr symbolic dtype backend: a pure-Rust symbolic computation adapter library (L… |
+| 2026-10-16 06:07:17 | [uqa-libduckdb-sys](https://crates.io/crates/uqa-libduckdb-sys) | 1.10505.1 | 0 | UQA-maintained native DuckDB bindings with a non-yanked build dependency |
+| 2026-10-16 06:07:21 | [uqa-duckdb](https://crates.io/crates/uqa-duckdb) | 1.10505.1 | 0 | UQA-maintained DuckDB wrapper with a non-yanked build dependency |
+| 2026-10-16 06:12:26 | [algeon-build-support](https://crates.io/crates/algeon-build-support) | 0.1.0 | 0 | Shared std-only Cargo build-script support for Algeon RAPIDS native linking |
+| 2026-10-16 06:12:27 | [algeon-interop](https://crates.io/crates/algeon-interop) | 0.1.0 | 0 | Shared RAPIDS Rust interop contract types and traits |
+| 2026-10-16 06:12:28 | [algeon-query-planning](https://crates.io/crates/algeon-query-planning) | 0.1.0 | 0 | Backend-neutral native query planning, proof, and admission contracts. |
+| 2026-10-16 06:12:31 | [algeon-cudf-sys](https://crates.io/crates/algeon-cudf-sys) | 0.1.0 | 0 | libcudf FFI component for Algeon |
+| 2026-10-16 06:12:31 | [algeon-cugraph-sys](https://crates.io/crates/algeon-cugraph-sys) | 0.1.0 | 0 | libcugraph FFI component for Algeon |
+| 2026-10-16 06:14:56 | [faultline-render](https://crates.io/crates/faultline-render) | 0.0.1 | 0 | JSON, HTML and Markdown rendering for faultline analysis reports |
+| 2026-10-16 06:15:59 | [faultline-sarif](https://crates.io/crates/faultline-sarif) | 0.0.1 | 0 | SARIF export for faultline analysis reports |
+| 2026-10-16 06:17:01 | [faultline-rs](https://crates.io/crates/faultline-rs) | 0.0.1 | 0 | Find the smallest credible regression window in Git history with your own test… |
+| 2026-10-16 06:17:58 | [trailhead-core](https://crates.io/crates/trailhead-core) | 0.1.0 | 0 | Domain core for Trailhead: schema, claims, ready queue, event log and undo |
+| 2026-10-16 06:18:00 | [trailhead-server](https://crates.io/crates/trailhead-server) | 0.1.0 | 0 | Trailhead's HTTP server: REST under /v1 |
+| 2026-10-16 06:18:02 | [trailhead](https://crates.io/crates/trailhead) | 0.1.0 | 0 | Trailhead CLI and server binary |
+| 2026-10-16 06:19:04 | [algeon-cudf](https://crates.io/crates/algeon-cudf) | 0.1.0 | 0 | Safe libcudf execution component for Algeon |
 
 ## Data source
 

@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T05:28:26.23911Z,wlmenu,0.1.0,0,0,https://github.com/codethare/wlmenu,A wmenu/dmenu-style Wayland menu written in Rust
+2026-10-16T05:28:33.302831Z,trestle-cli,0.2.1,0,0,https://github.com/jasonduncan/trestle,The `trestle` command: scaffolds projects and runs a project's own CLI.
+2026-10-16T05:29:01.864848Z,faultline-surface,0.0.1,0,0,https://github.com/EffortlessMetrics/faultline-rs,Changed-path bucketing and suspect ranking for faultline
+2026-10-16T05:30:03.848748Z,faultline-ports,0.0.1,0,0,https://github.com/EffortlessMetrics/faultline-rs,Infrastructure port traits for faultline regression localization
+2026-10-16T05:31:05.936425Z,faultline-app,0.0.1,0,0,https://github.com/EffortlessMetrics/faultline-rs,Application orchestration for faultline regression localization
+2026-10-16T05:32:07.818668Z,faultline-git,0.0.1,0,0,https://github.com/EffortlessMetrics/faultline-rs,Git history and disposable worktree adapters for faultline
+2026-10-16T05:33:09.846133Z,faultline-probe-exec,0.0.1,0,0,https://github.com/EffortlessMetrics/faultline-rs,Predicate process execution adapter for faultline
+2026-10-16T05:34:58.451073Z,lgpu-hal,0.1.1,0,0,https://github.com/kuntal-devrat/lgpu,Micro hardware abstraction layer for lgpu
+2026-10-16T05:35:31.635229Z,lgpu,0.1.1,0,0,https://github.com/kuntal-devrat/lgpu,"Ultra-lightweight, bindless-first cross-platform GPU abstraction"
+2026-10-16T05:36:04.701048Z,lgpu-c,0.1.1,0,0,https://github.com/kuntal-devrat/lgpu,Universal C99 / Zig FFI bindings for lgpu
+2026-10-16T05:37:12.084587Z,hf-core,0.1.0,0,0,https://github.com/Unkno394/MellCore,Shared HoneyForge agent and control-plane data types.
+2026-10-16T05:37:24.146785Z,kazik-protocol,0.1.0,0,0,https://github.com/Unkno394/MellCore,HoneyForge Kazik protocol message types and durable outbox interfaces.
+2026-10-16T05:38:06.239554Z,hf-services,0.1.0,0,0,https://github.com/Unkno394/MellCore,"HoneyForge host services for honeypot lifecycle, telemetry, and transport."
+2026-10-16T05:39:28.251978Z,mattermost-tui,1.1.1,0,0,https://github.com/paulchambaz/mattermost-tui,Keyboard-driven terminal client for Mattermost
+2026-10-16T05:40:01.910063Z,hf-agent,0.1.0,0,0,https://github.com/Unkno394/MellCore,HoneyForge host agent for managing honeypots and sending telemetry to the control center.
+2026-10-16T05:42:31.628542Z,faultline-store,0.0.1,0,0,https://github.com/EffortlessMetrics/faultline-rs,Filesystem-backed run persistence for faultline
+2026-10-16T05:43:08.636583Z,gvsn-net,1.1.0,0,0,https://github.com/jhonsferg/gvsn,HTTP client and resumable downloads for gvsn
+2026-10-16T05:43:09.02677Z,gvsn-platform,1.1.0,0,0,https://github.com/jhonsferg/gvsn,Platform layer of gvsn: current link and Windows user PATH
+2026-10-16T05:43:09.222767Z,gvsn-shell,1.1.0,0,0,https://github.com/jhonsferg/gvsn,Shell integration scripts and profile management for gvsn
+2026-10-16T05:43:10.07686Z,gvsn-core,1.1.0,0,0,https://github.com/jhonsferg/gvsn,"Domain logic of gvsn: Go versions, toolchain store and release index"
+2026-10-16T05:45:17.623331Z,hf-cli,0.1.0,0,0,https://github.com/Unkno394/MellCore,Local HoneyForge honeypot lifecycle CLI
+2026-10-16T05:57:51.91242Z,splithello,0.1.0,0,0,https://github.com/therealhieu/splithello,"Local HTTPS CONNECT proxy that splits the TLS ClientHello for selected sites, with DNS over HTTPS"
+2026-10-16T05:58:55.456228Z,neoblast-erasure,0.0.1,0,0,https://github.com/neoblast-org/neoblast,Neoblast erasure coding: Leopard-RS compatible Reed-Solomon over GF(2^16).
+2026-10-16T05:58:56.227404Z,neoblast-format,0.0.1,0,0,https://github.com/neoblast-org/neoblast,"Neoblast byte formats: the committed file header, layout rules and capability links. Pure, no I/O."
+2026-10-16T05:58:57.192865Z,neoblast-crypto,0.0.1,0,0,https://github.com/neoblast-org/neoblast,Neoblast key derivation and segmented XChaCha20-Poly1305 encryption.
+2026-10-16T05:58:59.107275Z,neoblast,0.0.1,0,0,https://github.com/neoblast-org/neoblast,"Censorship-resistant P2P storage: encrypted, erasure-coded shards that heal without keys. Experimental; not audited."
+2026-10-16T06:01:43.502883Z,lz_builtins,0.1.0,0,0,https://github.com/vicTop-cw/lang-zone,Lang-Zone runtime builtins — shared by all generated Rust output
+2026-10-16T06:02:00.611244Z,tnr-symbolica,0.1.0,0,0,,"Tnr symbolic dtype backend: a pure-Rust symbolic computation adapter library (L1, zero external deps), API-shaped after Symbolica."
+2026-10-16T06:07:17.195145Z,uqa-libduckdb-sys,1.10505.1,0,0,https://github.com/jaepil/duckdb-rs,UQA-maintained native DuckDB bindings with a non-yanked build dependency
+2026-10-16T06:07:21.837589Z,uqa-duckdb,1.10505.1,0,0,https://github.com/jaepil/duckdb-rs,UQA-maintained DuckDB wrapper with a non-yanked build dependency
+2026-10-16T06:12:26.773072Z,algeon-build-support,0.1.0,0,0,https://github.com/algeon-dev/algeon,Shared std-only Cargo build-script support for Algeon RAPIDS native linking
+2026-10-16T06:12:27.451395Z,algeon-interop,0.1.0,0,0,https://github.com/algeon-dev/algeon,Shared RAPIDS Rust interop contract types and traits
+2026-10-16T06:12:28.0996Z,algeon-query-planning,0.1.0,0,0,https://github.com/algeon-dev/algeon,"Backend-neutral native query planning, proof, and admission contracts."
+2026-10-16T06:12:31.006649Z,algeon-cudf-sys,0.1.0,0,0,https://github.com/algeon-dev/algeon,libcudf FFI component for Algeon
+2026-10-16T06:12:31.622972Z,algeon-cugraph-sys,0.1.0,0,0,https://github.com/algeon-dev/algeon,libcugraph FFI component for Algeon
+2026-10-16T06:14:56.861342Z,faultline-render,0.0.1,0,0,https://github.com/EffortlessMetrics/faultline-rs,"JSON, HTML and Markdown rendering for faultline analysis reports"
+2026-10-16T06:15:59.220864Z,faultline-sarif,0.0.1,0,0,https://github.com/EffortlessMetrics/faultline-rs,SARIF export for faultline analysis reports
+2026-10-16T06:17:01.451142Z,faultline-rs,0.0.1,0,0,https://github.com/EffortlessMetrics/faultline-rs,Find the smallest credible regression window in Git history with your own test or build command
+2026-10-16T06:17:58.756646Z,trailhead-core,0.1.0,0,0,https://github.com/lanesawyer/trailhead,"Domain core for Trailhead: schema, claims, ready queue, event log and undo"
+2026-10-16T06:18:00.522847Z,trailhead-server,0.1.0,0,0,https://github.com/lanesawyer/trailhead,Trailhead's HTTP server: REST under /v1
+2026-10-16T06:18:02.28437Z,trailhead,0.1.0,0,0,https://github.com/lanesawyer/trailhead,Trailhead CLI and server binary
+2026-10-16T06:19:04.82166Z,algeon-cudf,0.1.0,0,0,https://github.com/algeon-dev/algeon,Safe libcudf execution component for Algeon
