@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T15:25:14.92913Z,guic-build,0.1.0,0,0,https://github.com/foctal/guic,Build-time native resource integration for GUIC applications.
+2026-10-16T15:25:49.50113Z,cargo-guic,0.1.0,0,0,https://github.com/foctal/guic,Development and packaging orchestration for GUIC applications.
+2026-10-16T15:27:54.81118Z,sciscraper,0.3.0,0,0,https://github.com/schmettow/sciscraper-rs,A scientific Markdown editor with integrated reference management and RAG writing assistance
+2026-10-16T15:28:57.05883Z,aisle-host,0.1.0,0,0,,aisled 宿主库：REST 控制面、Sans-IO 泵、TCP 载波、凭证库、TLS 自签
+2026-10-16T15:29:16.446936Z,aisle-cli,0.1.0,0,0,,aisle REST 控制面客户端与签发根操作入口：连接 aisled 的 /api/v1 接口，并执行建网、身份签发与装配等根操作
+2026-10-16T15:29:25.921527Z,selene-formats,0.1.1,0,0,https://github.com/quantinuum/selene,Selene formats for Rust
+2026-10-16T15:29:26.979471Z,aisle-daemon,0.1.0,0,0,,aisled 真机宿主守护进程：起 REST 控制面与节点编排，并接线网卡、出口、发布、代理与观测功能面
+2026-10-16T15:30:02.512412Z,wyrd-skald-prompt,0.1.1,0,0,https://github.com/bohmian-ai/wyrd,Client-safe Prompt authoring builder for native Skald requests.
+2026-10-16T15:35:07.981427Z,openbim-xvergabe,0.1.0,0,0,https://github.com/openbimrs/xStandards,XVergabe for Rust: interface standard between e-procurement platforms and bidder tools
+2026-10-16T15:35:09.30561Z,openbim-xbestellung,0.1.0,0,0,https://github.com/openbimrs/xStandards,XBestellung for Rust: standard for electronic purchase orders in public procurement
+2026-10-16T15:35:09.364012Z,openbim-xrechnung,0.1.0,0,0,https://github.com/openbimrs/xStandards,XRechnung for Rust: german CIUS of the EN 16931 electronic invoice
+2026-10-16T15:35:10.513976Z,openbim-xtrasse,0.1.0,0,0,https://github.com/openbimrs/xStandards,"XTrasse for Rust: geodata standard for planned line routes, built on XPlanung"
+2026-10-16T15:35:12.544417Z,openbim-xbreitband,0.1.0,0,0,https://github.com/openbimrs/xStandards,XBreitband for Rust: xBau specialist module for permits in broadband rollout and civil works (XBau-Tiefbau)
+2026-10-16T15:37:31.261421Z,gitpm,0.1.1,0,0,https://github.com/tilr-dev/gitpm,"Embeddable package manager where packages are folders in Git repositories: releases as tags, a catalog, dependency resolution, forks and transactional installs"
+2026-10-16T15:42:31.730572Z,wyrd-tls,0.1.1,0,0,https://github.com/bohmian-ai/wyrd,Process-wide TLS crypto-provider ownership for Wyrd transports.
+2026-10-16T15:43:32.155899Z,low,0.1.2,0,0,https://github.com/asx8678/low,"A low-entropy, code-mode coding agent: one sandboxed Python tool, verified diffs, git as the undo"
+2026-10-16T15:44:12.638854Z,asimov-http,25.7.5,0,0,https://github.com/asimov-platform/asimov.rs,HTTP message integrity with SHA-256 digests and Ed25519 signatures
+2026-10-16T15:46:31.25668Z,slave,0.1.0,0,0,https://github.com/kewcoder/slave,A CLI for a Laravel-inspired Rust framework
+2026-10-16T15:48:00.659157Z,openbim-xbau,0.1.0,0,0,https://github.com/openbimrs/xStandards,"XBau for Rust: xÖV message standard for building-permit procedures, including the XBau core module"
+2026-10-16T15:49:17.020343Z,progeny,0.0.3,0,0,https://github.com/romnn/progeny,"Generate a Rust client and server from an OpenAPI description, faithfully and loudly"
+2026-10-16T15:50:03.305131Z,progeny-cli,0.0.3,0,0,https://github.com/romnn/progeny,Command line front end for progeny: generate a Rust client and server from an OpenAPI description
+2026-10-16T15:54:44.171538Z,flint-cli,0.1.0,0,0,https://github.com/viboko/flint,"Folder linter: validates that files and folders in a project match an allow-list, without looking inside any file."
+2026-10-16T15:54:58.267318Z,wyrd-skald-providers,0.1.1,0,0,https://github.com/bohmian-ai/wyrd,Native HTTP provider clients for Skald.
+2026-10-16T15:55:01.300801Z,wyrd-skald-cache,0.1.1,0,0,https://github.com/bohmian-ai/wyrd,Native prompt cache primitives for Skald provider requests.
+2026-10-16T15:56:21.184004Z,commonware-simd,2026.9.0,0,0,https://github.com/commonwarexyz/monorepo/tree/main/simd,Abstract over SIMD operations.
+2026-10-16T15:59:17.600726Z,zakura-orchard-legacy,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-10-16T15:59:21.257677Z,rustsf_auth,0.1.0,0,0,https://github.com/wimvelzeboer/rustsf,"Salesforce OAuth2 authentication SDK for Rust, supporting; JWT, sfdxAuthUrl, ClientCredentials and Web Server flow"
+2026-10-16T16:00:10.692255Z,openbim-xplanung,0.1.0,0,0,https://github.com/openbimrs/xStandards,XPlanung for Rust: exchange standard for spatial and land-use plans (XPlanGML)
+2026-10-16T16:01:08.353584Z,valancex-port-desktop,0.1.0,0,0,https://github.com/ValanceX/Port,Desktop PORT: realizes MESH render trees as native windows (built and tested on Linux and Windows) and reports interactions as handler identifiers and payloads. Includes the vlx-window program.
+2026-10-16T16:01:22.297414Z,xbreitband,0.1.0,0,0,https://github.com/openbimrs/xStandards,XBreitband alias: re-exports openbim-xbreitband.
+2026-10-16T16:07:13.058339Z,picturesque-tags,0.1.0,0,0,https://github.com/sosuisen/picturesque-tags-rust,Generate SVG icons from tag strings.
+2026-10-16T16:07:58.464772Z,wyrd-skald-runtime,0.1.1,0,0,https://github.com/bohmian-ai/wyrd,Native Skald provider runtime dispatch and mock provider seam.
+2026-10-16T16:10:03.783933Z,imprimatur,0.1.0,0,0,https://github.com/seuros/imprimatur,"XLSX, PDF and DOCX authoring with its own XML, zip and PDF writers."
+2026-10-16T16:10:29.419744Z,imprimatur-cli,0.1.0,0,0,https://github.com/seuros/imprimatur,"Read PDF, XLSX and DOCX documents as Markdown, from the command line."
+2026-10-16T16:12:38.397624Z,haze-macros,0.8.0,0,0,,Procedural macros for haze
+2026-10-16T16:12:41.052613Z,haze,0.8.0,0,0,,"Small quality-of-life helpers for Dioxus apps, fullstack or standalone: typed resources, injection and reconnecting streams"
+2026-10-16T16:13:21.462815Z,eq-discriminant,1.0.0,0,0,https://github.com/Sup2point0/eq-discriminant,Enum comparison utilities
+2026-10-16T16:14:27.118446Z,cortex-tensor,0.1.0,0,0,,"A from-scratch, CPU-only tensor + autodiff engine: strided views, broadcasting, batched matmul, reverse+forward autodiff, int8/int4 quantization, compact serialization, byte-level BPE tokenizer. No M…"
+2026-10-16T16:14:48.192524Z,xtrasse,0.1.0,0,0,https://github.com/openbimrs/xStandards,XTrasse alias: re-exports openbim-xtrasse.
+2026-10-16T16:15:36.161735Z,doze-cli,0.1.0,0,0,https://github.com/wwk-github/doze,"sleep, but with one eye open: a drop-in replacement for sleep that can show dots or a live countdown while it dozes"
+2026-10-16T16:16:46.559791Z,spotlab-range,0.1.0,0,0,https://github.com/mAAdhaTTah/spotlab,"A poker range-string parser and serializer: combo/hand grammar, canonical hand tokens, and weighted-range arithmetic"
+2026-10-16T16:17:18.148128Z,abi-adapter,0.1.0,0,0,https://github.com/vhexl/abi-adapter,Mechanical slot-based ABI adapter for wasm boundaries
