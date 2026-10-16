@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T09:25:15.349454Z,hpsvm-inspectors,0.1.19,0,0,https://github.com/longcipher/hpsvm,Reusable execution inspectors for hpsvm
+2026-10-16T09:27:03.606166Z,dv-review,0.1.0,0,0,https://github.com/evanlinjin/diffview,"A terminal diff viewer for reviewing GitHub PRs: Helix keys, rust-analyzer, inline review comments, and Claude Code reviews"
+2026-10-16T09:32:22.556341Z,arkit_icon,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,Embedded Lucide icon components for Arkit applications
+2026-10-16T09:32:24.405087Z,arkit_runtime,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,Dioxus VirtualDom runtime host for OpenHarmony ArkUI
+2026-10-16T09:32:28.628567Z,arkit_barcode,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,"Barcode and QR code generation for Arkit (encode, SVG/PNG export, UI)"
+2026-10-16T09:32:47.12059Z,antecedent-contract,2.4.0,0,0,https://github.com/iridae-dev/antecedent,"Claim envelopes, external-evidence contracts and program bindings above the Antecedent core vocabulary; start with the `antecedent` crate"
+2026-10-16T09:36:10.504591Z,agplatform,0.1.0,0,0,https://github.com/agnesoft/agnesoft,"Platform providing env, fs, request and process infrastructure for production and testing"
+2026-10-16T09:36:12.81899Z,agtestcheck,0.1.0,0,0,https://github.com/agnesoft/agnesoft,Cargo subcommand checking the structure of Rust tests
+2026-10-16T09:40:24.571891Z,astra-plugin-manifest,0.1.0,0,0,https://github.com/mihailinl/AstraPlugins,"The `plugin.toml` manifest: one definition, shared by the daemon, the CLI and the registry bot"
+2026-10-16T09:40:35.587185Z,punphp,0.0.0,0,0,https://github.com/punphp/pun,"Reserved for Pun, a fast all-in-one PHP toolchain. https://github.com/punphp/pun"
+2026-10-16T09:40:38.333991Z,punphp-tokens,0.0.0,0,0,https://github.com/punphp/pun,"Reserved for Pun, a fast all-in-one PHP toolchain. https://github.com/punphp/pun"
+2026-10-16T09:40:39.86693Z,astra-plugin-cli,0.5.0,0,0,https://github.com/mihailinl/AstraPlugins,CLI tool for developing Astra plugins
+2026-10-16T09:40:40.973481Z,punphp-fixers,0.0.0,0,0,https://github.com/punphp/pun,"Reserved for Pun, a fast all-in-one PHP toolchain. https://github.com/punphp/pun"
+2026-10-16T09:40:43.710509Z,punphp-format,0.0.0,0,0,https://github.com/punphp/pun,"Reserved for Pun, a fast all-in-one PHP toolchain. https://github.com/punphp/pun"
+2026-10-16T09:40:46.236725Z,punphp-config,0.0.0,0,0,https://github.com/punphp/pun,"Reserved for Pun, a fast all-in-one PHP toolchain. https://github.com/punphp/pun"
+2026-10-16T09:42:04.8549Z,arkit_hooks,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,"Dioxus hooks for native ArkUI nodes, layouts, overlays, and virtualization"
+2026-10-16T09:42:38.751208Z,avtbx-bestsource,0.1.3,0,0,https://github.com/ChillFish8/av-toolbox,Frame accurate video decoding through BestSource.
+2026-10-16T09:42:39.632168Z,avtbx-vship,0.1.3,0,0,https://github.com/ChillFish8/av-toolbox,"GPU SSIMULACRA2, Butteraugli and CVVDP through Vship."
+2026-10-16T09:46:25.385166Z,quireink-plugin-dictionary,0.1.1,0,0,https://github.com/hthoene/quireink,QuireInk dictionary: looks up words in StarDict dictionaries from the device's storage
+2026-10-16T09:46:29.011399Z,quireink-plugin-file-manager,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk file manager: open, rename, move, copy and delete files and folders"
+2026-10-16T09:46:32.455436Z,quireink-plugin-files,0.1.1,0,0,https://github.com/hthoene/quireink,QuireInk file browser: lists books on the device and opens them
+2026-10-16T09:46:36.896416Z,quireink-plugin-fonts-default,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk default fonts: Literata for reading, Atkinson Hyperlegible Next for the UI"
+2026-10-16T09:46:40.880512Z,quireink-plugin-format-epub,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk EPUB 2/3 support: streaming conversion, table of contents, metadata"
+2026-10-16T09:50:50.782196Z,punphp-workspace,0.0.0,0,0,https://github.com/punphp/pun,"Reserved for Pun, a fast all-in-one PHP toolchain. https://github.com/punphp/pun"
+2026-10-16T09:51:45.280726Z,quireink-plugin-format-txt,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk plain text format: encodings, paragraph detection, Project Gutenberg metadata"
+2026-10-16T09:54:21.34892Z,arkit_animation,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,Animation engine and ArkUI rendering adapters for Arkit
+2026-10-16T09:55:10.881729Z,seiza-core,0.1.0,0,0,https://github.com/theatrus/seiza,"Seiza's shared types: plate solutions (TAN-SIP WCS), cancellation, and what an image's headers say about where it points"
+2026-10-16T09:57:40.15072Z,shearslice_core,0.1.0,0,0,https://github.com/cookiedan42/shearslice,Core engine for slicing 3D elevation/voxel data (e.g. Esri I3S SLPK) along arbitrary elevation planes or terrain-following surfaces.
+2026-10-16T09:58:11.924099Z,shearslice_wasm,0.1.0,0,0,https://github.com/cookiedan42/shearslice,WASM/JavaScript bindings for shearslice: slice an Esri I3S Voxel Layer SLPK along an elevation plane and render it as a colored PNG in the browser.
+2026-10-16T10:01:52.132586Z,quireink-plugin-format-xtc,0.1.1,0,0,https://github.com/hthoene/quireink,QuireInk XTC and XTCH: the Xteink readers' pre-rendered page format
+2026-10-16T10:10:20.342687Z,punphp-harness,0.0.0,0,0,https://github.com/punphp/pun,"Reserved for Pun, a fast all-in-one PHP toolchain. https://github.com/punphp/pun"
+2026-10-16T10:11:58.648234Z,quireink-plugin-home,0.1.1,0,0,https://github.com/hthoene/quireink,"QuireInk home screen: continue reading, recently read books, shortcuts"
+2026-10-16T10:14:06.546803Z,chromaglyph-core,0.0.1,0,0,https://github.com/taiyuuki/chromaglyph,Compile syntax highlighting into an OpenType font (COLR + CPAL + exact-mode GSUB)
+2026-10-16T10:14:21.147375Z,chromaglyph-cli,0.0.1,0,0,https://github.com/taiyuuki/chromaglyph,CLI for chromaglyph: build and verify fonts with compiled-in syntax highlighting

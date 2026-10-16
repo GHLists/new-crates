@@ -8,37 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 09:21 UTC
+## Latest list — 2026-10-16 10:20 UTC
 
-New crates published between 2026-10-16 08:21 UTC and 2026-10-16 09:21 UTC.
+New crates published between 2026-10-16 09:21 UTC and 2026-10-16 10:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-16T09-21-50-113721Z.csv)
+[Full CSV](data/new-crates-2026-10-16T10-20-05-404662Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-16 08:23:28 | [zhuge-ui-tokens](https://crates.io/crates/zhuge-ui-tokens) | 0.1.0 | 0 | Toolkit-neutral resolved surface appearance and colors for zhuge-ui. |
-| 2026-10-16 08:25:03 | [zhuge-ui-core](https://crates.io/crates/zhuge-ui-core) | 0.1.3 | 0 | Original-byte text projection, spatial navigation, and toolkit-neutral viewport… |
-| 2026-10-16 08:25:19 | [zhuge-ui-kit-bevy](https://crates.io/crates/zhuge-ui-kit-bevy) | 0.1.0 | 0 | Host-independent BSN surfaces and official headless widget scenes for Bevy in z… |
-| 2026-10-16 08:26:08 | [zhuge-ui-kit-iced](https://crates.io/crates/zhuge-ui-kit-iced) | 0.1.0 | 0 | Generic Iced badges, surface styles, rich text and virtual bodies for zhuge-ui. |
-| 2026-10-16 08:36:01 | [arkit_animation_core](https://crates.io/crates/arkit_animation_core) | 0.0.1-beta.0 | 0 | Platform-independent animation model and execution engine for Arkit |
-| 2026-10-16 08:36:03 | [arkit_derive](https://crates.io/crates/arkit_derive) | 0.0.1-beta.0 | 0 | Procedural macros for Arkit application entry points |
-| 2026-10-16 08:36:04 | [arkit_elements](https://crates.io/crates/arkit_elements) | 0.0.1-beta.0 | 0 | Dioxus element and attribute definitions for native ArkUI components |
-| 2026-10-16 08:36:05 | [arkit_i18n_macros](https://crates.io/crates/arkit_i18n_macros) | 0.0.1-beta.0 | 0 | Compile-time Fluent catalog generation for Arkit internationalization |
-| 2026-10-16 08:36:11 | [arkit_arkui](https://crates.io/crates/arkit_arkui) | 0.0.1-beta.0 | 0 | Dioxus renderer for native OpenHarmony ArkUI nodes |
-| 2026-10-16 08:45:28 | [tencentcloud-sdk-foundation](https://crates.io/crates/tencentcloud-sdk-foundation) | 0.1.1 | 0 | Client, TC3 signing, and transport core for Tencent Cloud API 3.0 |
-| 2026-10-16 08:45:33 | [tencentcloud-sdk-cos](https://crates.io/crates/tencentcloud-sdk-cos) | 0.1.1 | 0 | Bounded asynchronous Tencent Cloud COS XML API client |
-| 2026-10-16 08:45:38 | [tencentcloud-sdk-ses](https://crates.io/crates/tencentcloud-sdk-ses) | 0.1.1 | 0 | Typed asynchronous Tencent Cloud SES API client |
-| 2026-10-16 08:45:41 | [tencentcloud-sdk-ssm](https://crates.io/crates/tencentcloud-sdk-ssm) | 0.1.1 | 0 | Typed asynchronous Tencent Cloud Secrets Manager API client |
-| 2026-10-16 08:45:44 | [tencentcloud-sdk](https://crates.io/crates/tencentcloud-sdk) | 0.1.1 | 0 | A modular Tencent Cloud SDK for Rust |
-| 2026-10-16 08:46:56 | [todography](https://crates.io/crates/todography) | 0.2.0 | 0 | Checks and queries a map of components kept as Markdown files |
-| 2026-10-16 08:48:30 | [helptext-parser](https://crates.io/crates/helptext-parser) | 0.1.0 | 0 | Parse CLI --help output into structured usage specs. |
-| 2026-10-16 08:48:56 | [bract](https://crates.io/crates/bract) | 0.9.0 | 0 | A TUI that turns your CLI toolchain into a guided, browsable command palette. |
-| 2026-10-16 08:52:17 | [egui_log_viewer](https://crates.io/crates/egui_log_viewer) | 0.3.6 | 0 | A virtualized, row-selectable log viewer for egui |
-| 2026-10-16 08:54:21 | [capmonstercloud-client](https://crates.io/crates/capmonstercloud-client) | 0.1.0 | 0 | Async Rust client for the CapMonster Cloud captcha-solving API |
-| 2026-10-16 08:56:02 | [fmi-rs-macros](https://crates.io/crates/fmi-rs-macros) | 0.3.0 | 0 | Proc-macros used by the fmi-rs crate |
-| 2026-10-16 08:56:27 | [arkit_i18n](https://crates.io/crates/arkit_i18n) | 0.0.1-beta.0 | 0 | Type-safe Fluent internationalization runtime for Arkit applications |
-| 2026-10-16 08:56:28 | [arkit_prelude](https://crates.io/crates/arkit_prelude) | 0.0.1-beta.0 | 0 | Shared Dioxus and ArkUI prelude for the Arkit crate ecosystem |
-| 2026-10-16 09:14:02 | [gedlint](https://crates.io/crates/gedlint) | 0.11.0 | 0 | GEDCOM 5.5.1 + 7.0 linter: categories, severities, --fix, streaming, WASM-ready |
+| 2026-10-16 09:25:15 | [hpsvm-inspectors](https://crates.io/crates/hpsvm-inspectors) | 0.1.19 | 0 | Reusable execution inspectors for hpsvm |
+| 2026-10-16 09:27:03 | [dv-review](https://crates.io/crates/dv-review) | 0.1.0 | 0 | A terminal diff viewer for reviewing GitHub PRs: Helix keys, rust-analyzer, inl… |
+| 2026-10-16 09:32:22 | [arkit_icon](https://crates.io/crates/arkit_icon) | 0.0.1-beta.0 | 0 | Embedded Lucide icon components for Arkit applications |
+| 2026-10-16 09:32:24 | [arkit_runtime](https://crates.io/crates/arkit_runtime) | 0.0.1-beta.0 | 0 | Dioxus VirtualDom runtime host for OpenHarmony ArkUI |
+| 2026-10-16 09:32:28 | [arkit_barcode](https://crates.io/crates/arkit_barcode) | 0.0.1-beta.0 | 0 | Barcode and QR code generation for Arkit (encode, SVG/PNG export, UI) |
+| 2026-10-16 09:32:47 | [antecedent-contract](https://crates.io/crates/antecedent-contract) | 2.4.0 | 0 | Claim envelopes, external-evidence contracts and program bindings above the Ant… |
+| 2026-10-16 09:36:10 | [agplatform](https://crates.io/crates/agplatform) | 0.1.0 | 0 | Platform providing env, fs, request and process infrastructure for production a… |
+| 2026-10-16 09:36:12 | [agtestcheck](https://crates.io/crates/agtestcheck) | 0.1.0 | 0 | Cargo subcommand checking the structure of Rust tests |
+| 2026-10-16 09:40:24 | [astra-plugin-manifest](https://crates.io/crates/astra-plugin-manifest) | 0.1.0 | 0 | The `plugin.toml` manifest: one definition, shared by the daemon, the CLI and t… |
+| 2026-10-16 09:40:35 | [punphp](https://crates.io/crates/punphp) | 0.0.0 | 0 | Reserved for Pun, a fast all-in-one PHP toolchain. https://github.com/punphp/pun |
+| 2026-10-16 09:40:38 | [punphp-tokens](https://crates.io/crates/punphp-tokens) | 0.0.0 | 0 | Reserved for Pun, a fast all-in-one PHP toolchain. https://github.com/punphp/pun |
+| 2026-10-16 09:40:39 | [astra-plugin-cli](https://crates.io/crates/astra-plugin-cli) | 0.5.0 | 0 | CLI tool for developing Astra plugins |
+| 2026-10-16 09:40:40 | [punphp-fixers](https://crates.io/crates/punphp-fixers) | 0.0.0 | 0 | Reserved for Pun, a fast all-in-one PHP toolchain. https://github.com/punphp/pun |
+| 2026-10-16 09:40:43 | [punphp-format](https://crates.io/crates/punphp-format) | 0.0.0 | 0 | Reserved for Pun, a fast all-in-one PHP toolchain. https://github.com/punphp/pun |
+| 2026-10-16 09:40:46 | [punphp-config](https://crates.io/crates/punphp-config) | 0.0.0 | 0 | Reserved for Pun, a fast all-in-one PHP toolchain. https://github.com/punphp/pun |
+| 2026-10-16 09:42:04 | [arkit_hooks](https://crates.io/crates/arkit_hooks) | 0.0.1-beta.0 | 0 | Dioxus hooks for native ArkUI nodes, layouts, overlays, and virtualization |
+| 2026-10-16 09:42:38 | [avtbx-bestsource](https://crates.io/crates/avtbx-bestsource) | 0.1.3 | 0 | Frame accurate video decoding through BestSource. |
+| 2026-10-16 09:42:39 | [avtbx-vship](https://crates.io/crates/avtbx-vship) | 0.1.3 | 0 | GPU SSIMULACRA2, Butteraugli and CVVDP through Vship. |
+| 2026-10-16 09:46:25 | [quireink-plugin-dictionary](https://crates.io/crates/quireink-plugin-dictionary) | 0.1.1 | 0 | QuireInk dictionary: looks up words in StarDict dictionaries from the device's… |
+| 2026-10-16 09:46:29 | [quireink-plugin-file-manager](https://crates.io/crates/quireink-plugin-file-manager) | 0.1.1 | 0 | QuireInk file manager: open, rename, move, copy and delete files and folders |
+| 2026-10-16 09:46:32 | [quireink-plugin-files](https://crates.io/crates/quireink-plugin-files) | 0.1.1 | 0 | QuireInk file browser: lists books on the device and opens them |
+| 2026-10-16 09:46:36 | [quireink-plugin-fonts-default](https://crates.io/crates/quireink-plugin-fonts-default) | 0.1.1 | 0 | QuireInk default fonts: Literata for reading, Atkinson Hyperlegible Next for th… |
+| 2026-10-16 09:46:40 | [quireink-plugin-format-epub](https://crates.io/crates/quireink-plugin-format-epub) | 0.1.1 | 0 | QuireInk EPUB 2/3 support: streaming conversion, table of contents, metadata |
+| 2026-10-16 09:50:50 | [punphp-workspace](https://crates.io/crates/punphp-workspace) | 0.0.0 | 0 | Reserved for Pun, a fast all-in-one PHP toolchain. https://github.com/punphp/pun |
+| 2026-10-16 09:51:45 | [quireink-plugin-format-txt](https://crates.io/crates/quireink-plugin-format-txt) | 0.1.1 | 0 | QuireInk plain text format: encodings, paragraph detection, Project Gutenberg m… |
+| 2026-10-16 09:54:21 | [arkit_animation](https://crates.io/crates/arkit_animation) | 0.0.1-beta.0 | 0 | Animation engine and ArkUI rendering adapters for Arkit |
+| 2026-10-16 09:55:10 | [seiza-core](https://crates.io/crates/seiza-core) | 0.1.0 | 0 | Seiza's shared types: plate solutions (TAN-SIP WCS), cancellation, and what an… |
+| 2026-10-16 09:57:40 | [shearslice_core](https://crates.io/crates/shearslice_core) | 0.1.0 | 0 | Core engine for slicing 3D elevation/voxel data (e.g. Esri I3S SLPK) along arbi… |
+| 2026-10-16 09:58:11 | [shearslice_wasm](https://crates.io/crates/shearslice_wasm) | 0.1.0 | 0 | WASM/JavaScript bindings for shearslice: slice an Esri I3S Voxel Layer SLPK alo… |
+| 2026-10-16 10:01:52 | [quireink-plugin-format-xtc](https://crates.io/crates/quireink-plugin-format-xtc) | 0.1.1 | 0 | QuireInk XTC and XTCH: the Xteink readers' pre-rendered page format |
+| 2026-10-16 10:10:20 | [punphp-harness](https://crates.io/crates/punphp-harness) | 0.0.0 | 0 | Reserved for Pun, a fast all-in-one PHP toolchain. https://github.com/punphp/pun |
+| 2026-10-16 10:11:58 | [quireink-plugin-home](https://crates.io/crates/quireink-plugin-home) | 0.1.1 | 0 | QuireInk home screen: continue reading, recently read books, shortcuts |
+| 2026-10-16 10:14:06 | [chromaglyph-core](https://crates.io/crates/chromaglyph-core) | 0.0.1 | 0 | Compile syntax highlighting into an OpenType font (COLR + CPAL + exact-mode GSU… |
+| 2026-10-16 10:14:21 | [chromaglyph-cli](https://crates.io/crates/chromaglyph-cli) | 0.0.1 | 0 | CLI for chromaglyph: build and verify fonts with compiled-in syntax highlighting |
 
 ## Data source
 
