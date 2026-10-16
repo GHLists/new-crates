@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T14:22:41.91479Z,frust-share,0.6.2,0,0,https://github.com/frust-rs/frust,"Share plugin for Frust apps: opens the platform share sheet for text or a URL (Android chooser, iOS activity sheet, desktop clipboard fallback)."
+2026-10-16T14:24:23.095892Z,frust-network-image,0.6.2,0,0,https://github.com/frust-rs/frust,Network image view for Frust apps: URL images with memory + disk cache
+2026-10-16T14:24:25.020741Z,frust-qr,0.6.2,0,0,https://github.com/frust-rs/frust,"QR code view for Frust apps: a canvas-painted, scannable qr_code(payload) widget with ECC level, quiet zone and colours."
+2026-10-16T14:27:20.449282Z,rateguard-sidecar,0.5.0,0,0,https://github.com/donmiro/rateguard,"rateguard as a sidecar: one global rate limit for services in any language, over a local HTTP API"
+2026-10-16T14:27:21.185698Z,stixflayer_derive,0.1.0,0,0,https://github.com/osintalex/stixflayer,Procedural macros for the stixflayer STIX 2.1 library
+2026-10-16T14:27:57.334726Z,stixflayer,0.1.0,0,0,https://github.com/osintalex/stixflayer,"Fast STIX 2.1 parsing, validation, and serialization in Rust"
+2026-10-16T14:29:19.371385Z,pbpatch,0.0.0,0,0,https://github.com/mdjpoppe/pbpatch-rs,Lightweight reflection and patching capabilities for Protocol Buffers (Protobuf).
+2026-10-16T14:29:59.467462Z,lapis-acp-protocol,0.1.1,0,0,https://github.com/lapismd/lapis-ai,"Bounded Agent Client Protocol framing, negotiation and session payloads"
+2026-10-16T14:29:59.966308Z,lapis-agent-tools,0.1.1,0,0,https://github.com/lapismd/lapis-ai,Permissioned workspace coding tools over MCP stdio for Lapis Agent
+2026-10-16T14:30:00.398259Z,lapis-ai-config,0.1.1,0,0,https://github.com/lapismd/lapis-ai,Versioned TOML configuration and secret references for native Lapis AI services
+2026-10-16T14:30:01.225094Z,lapis-acp-agent,0.1.1,0,0,https://github.com/lapismd/lapis-ai,Declarative ACP runner catalogs and trusted launch environments
+2026-10-16T14:30:01.891285Z,lapis-agent,0.1.1,0,0,https://github.com/lapismd/lapis-ai,"ACP coding agent with provider adapters, permission gates and MCP tools"
+2026-10-16T14:33:21.496372Z,lapis-terminal-engine,0.1.1,0,0,,"Bounded terminal parsing, grids, scrollback and damage encoding"
+2026-10-16T14:33:26.912851Z,spillsort,0.1.0,0,0,https://github.com/clintval/spillsort,Sort more records than fit in memory: sorted runs spill to disk and merge as they are read
+2026-10-16T14:34:49.934429Z,guic-native,0.4.0,0,0,https://github.com/foctal/guic,Native desktop application integration for GUIC.
+2026-10-16T14:38:14.67012Z,quireink-plugin-calibre,0.2.0,0,0,https://github.com/hthoene/quireink,"QuireInk's Calibre connection: receive books from Calibre over the network, as its wireless device"
+2026-10-16T14:38:19.034776Z,quireink-plugin-koreader,0.2.0,0,0,https://github.com/hthoene/quireink,QuireInk KOReader: bookmarks and highlights shared with KOReader
+2026-10-16T14:42:23.126189Z,arkit_camera,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,Native CameraKit preview and photo capture components for arkit
+2026-10-16T14:42:25.112216Z,arkit_canvas,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,W3C-aligned Canvas 2D component for the Arkit Dioxus renderer
+2026-10-16T14:42:27.403847Z,arkit_chart,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,Native ECharts-compatible chart components for the Arkit Dioxus renderer
+2026-10-16T14:42:29.384561Z,arkit_lottie,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,High-performance native Lottie rendering components for arkit
+2026-10-16T14:42:30.927593Z,arkit_router,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,ArkUI-native routing components and transitions for Arkit applications
+2026-10-16T14:43:03.347167Z,lapis-terminal-runtime,0.1.1,0,0,,Bounded native terminal sessions independent of application frameworks
+2026-10-16T14:46:10.195488Z,sol-feed,0.1.1,0,0,https://github.com/lunarshadowlabs/sol-feed-examples,"Rust client for the Lunar Shadow Labs feed: decoded Solana DEX swaps, launches and pool events over one WebSocket"
+2026-10-16T14:47:08.856542Z,remuxr,0.1.0,0,0,,Remuxr - Pure rust remuxer
+2026-10-16T14:53:24.927951Z,tauri-plugin-lapis-terminal,0.1.1,0,0,,Scoped Tauri helpers for native Lapis terminal sessions
+2026-10-16T15:05:08.467991Z,wyrd-skald-spec,0.1.1,0,0,https://github.com/bohmian-ai/wyrd,"Native Skald provider types shared end to end: pure Rust, no IO."
+2026-10-16T15:05:11.309687Z,wyrd-error-derive,0.1.1,0,0,https://github.com/bohmian-ai/wyrd,Proc-macro support for Wyrd error-code enums.
+2026-10-16T15:05:13.819556Z,wyrd-semver,0.1.1,0,0,https://github.com/bohmian-ai/wyrd,"Semver primitives for Wyrd: version values, ranges, bumps, and SQL-pushdown bounds."
+2026-10-16T15:05:16.716647Z,wyrd-spec,0.1.1,0,0,https://github.com/bohmian-ai/wyrd,"Wyrd foundation types: Card envelope, SpecKinds, and pure data contracts."
+2026-10-16T15:05:19.929666Z,wyrd-utils,0.1.1,0,0,https://github.com/bohmian-ai/wyrd,Small shared Wyrd helpers with no server dependencies.
+2026-10-16T15:05:34.813823Z,lobatto-lowrank,0.1.0,0,0,https://github.com/OndoMathX/QuadratiX/tree/main/lobatto-lowrank,"Low-rank sums of products of fields on two Gauss-Lobatto grids, with weighted QR/SVD compression."
+2026-10-16T15:05:52.074703Z,ragrig-egui,0.5.0,0,0,https://github.com/schmettow/ragrig-egui,"The egui agent interface for the ragrig RAG framework — transcript, composer, attachments, sessions, component bar and dockable panes"
+2026-10-16T15:10:23.400561Z,omnimon,0.1.0,0,0,https://github.com/sorbet-ai/omnimon,"One terminal monitor for every GPU (NVIDIA, Apple, AMD, Intel), the processes using them and the machine around them. Single binary; works in containers, WSL and Windows."
+2026-10-16T15:11:42.44215Z,nsk,0.1.0,0,0,,Nintendo Switch content toolbox: firmware installation and format conversion
+2026-10-16T15:17:04.19226Z,wyrd-interfaces,0.1.1,0,0,https://github.com/bohmian-ai/wyrd,Wyrd data interface implementations.
+2026-10-16T15:17:24.636382Z,ferrum-rs,0.1.0,0,0,https://github.com/teyoku/ferrum-rs,"An asynchronous, extensible MUD engine with JSON worlds, commands, and event hooks"
+2026-10-16T15:17:32.088913Z,zync-rs,0.1.1,0,0,https://gitlab.com/zillowe/zillowex/akuolwa/zync,"rsync over HTTP delta transfers, with bsdiff residue reduction."
+2026-10-16T15:17:34.168328Z,zync-cli,0.1.1,0,0,https://gitlab.com/zillowe/zillowex/akuolwa/zync,CLI tools for zync
+2026-10-16T15:19:13.738276Z,arkit_shadcn,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,Shadcn-style native ArkUI components for Arkit applications
+2026-10-16T15:19:15.844022Z,arkit_terminal,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,Embedded terminal for arkit powered by rio-vt and a wgpu cell renderer
+2026-10-16T15:19:18.837951Z,arkit,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,Dioxus-based ArkUI application framework for OpenHarmony
+2026-10-16T15:19:19.975175Z,arkit_calendar_icu,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,ICU4X calendar plugins for Arkit calendar components
+2026-10-16T15:20:04.281775Z,asma,0.0.0,0,0,,"Multilingual catalogs for names, meanings, and their relationships"

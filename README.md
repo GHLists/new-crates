@@ -8,42 +8,58 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 14:19 UTC
+## Latest list — 2026-10-16 15:21 UTC
 
-New crates published between 2026-10-16 13:19 UTC and 2026-10-16 14:19 UTC.
+New crates published between 2026-10-16 14:19 UTC and 2026-10-16 15:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-16T14-19-55-947204Z.csv)
+[Full CSV](data/new-crates-2026-10-16T15-21-45-764454Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-16 13:22:52 | [agntcy-dir](https://crates.io/crates/agntcy-dir) | 1.8.0 | 0 | Rust SDK for the AGNTCY Directory |
-| 2026-10-16 13:24:00 | [mathscape-kernel](https://crates.io/crates/mathscape-kernel) | 0.1.12 | 0 | The emergent substrate's trust base: de Bruijn lambda terms, a fuel-bounded nor… |
-| 2026-10-16 13:24:16 | [mathscape-emergence](https://crates.io/crates/mathscape-emergence) | 0.1.12 | 0 | Operators and laws emerging from bare lambda terms: enumerate, observe, name, c… |
-| 2026-10-16 13:24:18 | [quireink-plugin-vocabulary](https://crates.io/crates/quireink-plugin-vocabulary) | 0.1.1 | 0 | QuireInk vocabulary: the words looked up while reading, with their sentences |
-| 2026-10-16 13:26:23 | [tuishot-ansi](https://crates.io/crates/tuishot-ansi) | 0.2.1 | 0 | Platform-neutral ANSI terminal emulation for tuishot cell grids |
-| 2026-10-16 13:34:26 | [quireink-plugin-wallabag](https://crates.io/crates/quireink-plugin-wallabag) | 0.1.1 | 0 | QuireInk Wallabag: articles saved to read later, fetched as books |
-| 2026-10-16 13:39:07 | [astermoids](https://crates.io/crates/astermoids) | 0.1.0 | 0 | Asteroids, played directly in the terminal using the kitty graphics protocol |
-| 2026-10-16 13:39:52 | [cookie-extract](https://crates.io/crates/cookie-extract) | 0.1.0 | 0 | Decoupled cross-platform browser cookie extraction and parsing library |
-| 2026-10-16 13:43:49 | [spill](https://crates.io/crates/spill) | 0.1.0 | 0 | spill monorepo |
-| 2026-10-16 13:44:33 | [quireink-plugin-wikipedia](https://crates.io/crates/quireink-plugin-wikipedia) | 0.1.1 | 0 | QuireInk Wikipedia: looks words up online, beside the dictionaries |
-| 2026-10-16 13:47:07 | [zincite-query](https://crates.io/crates/zincite-query) | 0.1.0 | 0 | Source-preserving MiniZinc inspection and data queries |
-| 2026-10-16 13:50:00 | [bcd_time_stamp](https://crates.io/crates/bcd_time_stamp) | 0.1.0 | 0 | Dependency-free, no_std BCD clock times and typed second/millisecond timestamps |
-| 2026-10-16 13:53:17 | [yog-graphics](https://crates.io/crates/yog-graphics) | 0.1.0 | 0 | Yog graphics primitives every crate shares: colours, vectors, matrices, rectang… |
-| 2026-10-16 13:54:37 | [zakura-quic](https://crates.io/crates/zakura-quic) | 0.0.0 | 0 | Reserved |
-| 2026-10-16 13:54:42 | [quireink-app](https://crates.io/crates/quireink-app) | 0.1.1 | 0 | The standard QuireInk app: the first-party plugin set that shells install into… |
-| 2026-10-16 13:58:24 | [sole-htmltopdf-engine](https://crates.io/crates/sole-htmltopdf-engine) | 0.0.1 | 0 | Embeddable dual-mode HTML-to-PDF engine in Rust with a wkhtmltopdf 0.12.6 compa… |
-| 2026-10-16 13:58:27 | [sole-htmltopdf](https://crates.io/crates/sole-htmltopdf) | 0.0.1 | 0 | Dual-mode HTML-to-PDF in Rust with wkhtmltopdf 0.12.6 command-line compatibilit… |
-| 2026-10-16 14:01:58 | [fandhe-backend-plugin-csrf](https://crates.io/crates/fandhe-backend-plugin-csrf) | 0.5.0 | 0 | fandhe-backend の CSRF 検査ゲートプラグイン（REQ-17）。状態を変える要求の送信元を Sec-Fetch-Site / Origin… |
-| 2026-10-16 14:01:59 | [fandhe-backend-plugin-jwt](https://crates.io/crates/fandhe-backend-plugin-jwt) | 0.5.0 | 0 | fandhe-backend の汎用 JWT 検証プラグイン（REQ-16）。RS256・ES256 の検証ポリシー（iss・aud・typ・許可 alg を… |
-| 2026-10-16 14:03:58 | [redstep-macros](https://crates.io/crates/redstep-macros) | 0.1.0 | 0 | Procedural macros for the redstep security-testing framework. |
-| 2026-10-16 14:04:13 | [redstep](https://crates.io/crates/redstep) | 0.1.0 | 0 | A security-testing framework: drive real attacks against your own apps, network… |
-| 2026-10-16 14:04:49 | [quireink-serve](https://crates.io/crates/quireink-serve) | 0.1.1 | 0 | Serves HTTP for QuireInk plugins in shells with the standard library (emulator,… |
-| 2026-10-16 14:10:10 | [bmux_tui_runtime](https://crates.io/crates/bmux_tui_runtime) | 0.0.1-alpha.2 | 0 | Bounded scheduling and presentation runtime for bmux terminal UIs |
-| 2026-10-16 14:11:31 | [vike-marketdata](https://crates.io/crates/vike-marketdata) | 0.1.62 | 0 | Market-data value types for trading software: OHLCV bars, quote and trade ticks… |
-| 2026-10-16 14:11:47 | [vike-indicators](https://crates.io/crates/vike-indicators) | 0.1.62 | 0 | Streaming and batch technical-analysis indicators and candlestick patterns for… |
-| 2026-10-16 14:13:12 | [ipx-cli](https://crates.io/crates/ipx-cli) | 1.0.0 | 0 | ipx - the InferencePort AI command line. A thin wrapper that embeds the native… |
-| 2026-10-16 14:15:00 | [quireink-x4](https://crates.io/crates/quireink-x4) | 0.1.1 | 0 | The Xteink X4's hardware for QuireInk's firmware: its SSD1677 display, button l… |
-| 2026-10-16 14:17:57 | [gridr](https://crates.io/crates/gridr) | 0.7.0 | 0 | Pure-Rust Geometric and Radiometric Image Data Resampling library |
+| 2026-10-16 14:22:41 | [frust-share](https://crates.io/crates/frust-share) | 0.6.2 | 0 | Share plugin for Frust apps: opens the platform share sheet for text or a URL (… |
+| 2026-10-16 14:24:23 | [frust-network-image](https://crates.io/crates/frust-network-image) | 0.6.2 | 0 | Network image view for Frust apps: URL images with memory + disk cache |
+| 2026-10-16 14:24:25 | [frust-qr](https://crates.io/crates/frust-qr) | 0.6.2 | 0 | QR code view for Frust apps: a canvas-painted, scannable qr_code(payload) widge… |
+| 2026-10-16 14:27:20 | [rateguard-sidecar](https://crates.io/crates/rateguard-sidecar) | 0.5.0 | 0 | rateguard as a sidecar: one global rate limit for services in any language, ove… |
+| 2026-10-16 14:27:21 | [stixflayer_derive](https://crates.io/crates/stixflayer_derive) | 0.1.0 | 0 | Procedural macros for the stixflayer STIX 2.1 library |
+| 2026-10-16 14:27:57 | [stixflayer](https://crates.io/crates/stixflayer) | 0.1.0 | 0 | Fast STIX 2.1 parsing, validation, and serialization in Rust |
+| 2026-10-16 14:29:19 | [pbpatch](https://crates.io/crates/pbpatch) | 0.0.0 | 0 | Lightweight reflection and patching capabilities for Protocol Buffers (Protobuf… |
+| 2026-10-16 14:29:59 | [lapis-acp-protocol](https://crates.io/crates/lapis-acp-protocol) | 0.1.1 | 0 | Bounded Agent Client Protocol framing, negotiation and session payloads |
+| 2026-10-16 14:29:59 | [lapis-agent-tools](https://crates.io/crates/lapis-agent-tools) | 0.1.1 | 0 | Permissioned workspace coding tools over MCP stdio for Lapis Agent |
+| 2026-10-16 14:30:00 | [lapis-ai-config](https://crates.io/crates/lapis-ai-config) | 0.1.1 | 0 | Versioned TOML configuration and secret references for native Lapis AI services |
+| 2026-10-16 14:30:01 | [lapis-acp-agent](https://crates.io/crates/lapis-acp-agent) | 0.1.1 | 0 | Declarative ACP runner catalogs and trusted launch environments |
+| 2026-10-16 14:30:01 | [lapis-agent](https://crates.io/crates/lapis-agent) | 0.1.1 | 0 | ACP coding agent with provider adapters, permission gates and MCP tools |
+| 2026-10-16 14:33:21 | [lapis-terminal-engine](https://crates.io/crates/lapis-terminal-engine) | 0.1.1 | 0 | Bounded terminal parsing, grids, scrollback and damage encoding |
+| 2026-10-16 14:33:26 | [spillsort](https://crates.io/crates/spillsort) | 0.1.0 | 0 | Sort more records than fit in memory: sorted runs spill to disk and merge as th… |
+| 2026-10-16 14:34:49 | [guic-native](https://crates.io/crates/guic-native) | 0.4.0 | 0 | Native desktop application integration for GUIC. |
+| 2026-10-16 14:38:14 | [quireink-plugin-calibre](https://crates.io/crates/quireink-plugin-calibre) | 0.2.0 | 0 | QuireInk's Calibre connection: receive books from Calibre over the network, as… |
+| 2026-10-16 14:38:19 | [quireink-plugin-koreader](https://crates.io/crates/quireink-plugin-koreader) | 0.2.0 | 0 | QuireInk KOReader: bookmarks and highlights shared with KOReader |
+| 2026-10-16 14:42:23 | [arkit_camera](https://crates.io/crates/arkit_camera) | 0.0.1-beta.0 | 0 | Native CameraKit preview and photo capture components for arkit |
+| 2026-10-16 14:42:25 | [arkit_canvas](https://crates.io/crates/arkit_canvas) | 0.0.1-beta.0 | 0 | W3C-aligned Canvas 2D component for the Arkit Dioxus renderer |
+| 2026-10-16 14:42:27 | [arkit_chart](https://crates.io/crates/arkit_chart) | 0.0.1-beta.0 | 0 | Native ECharts-compatible chart components for the Arkit Dioxus renderer |
+| 2026-10-16 14:42:29 | [arkit_lottie](https://crates.io/crates/arkit_lottie) | 0.0.1-beta.0 | 0 | High-performance native Lottie rendering components for arkit |
+| 2026-10-16 14:42:30 | [arkit_router](https://crates.io/crates/arkit_router) | 0.0.1-beta.0 | 0 | ArkUI-native routing components and transitions for Arkit applications |
+| 2026-10-16 14:43:03 | [lapis-terminal-runtime](https://crates.io/crates/lapis-terminal-runtime) | 0.1.1 | 0 | Bounded native terminal sessions independent of application frameworks |
+| 2026-10-16 14:46:10 | [sol-feed](https://crates.io/crates/sol-feed) | 0.1.1 | 0 | Rust client for the Lunar Shadow Labs feed: decoded Solana DEX swaps, launches… |
+| 2026-10-16 14:47:08 | [remuxr](https://crates.io/crates/remuxr) | 0.1.0 | 0 | Remuxr - Pure rust remuxer |
+| 2026-10-16 14:53:24 | [tauri-plugin-lapis-terminal](https://crates.io/crates/tauri-plugin-lapis-terminal) | 0.1.1 | 0 | Scoped Tauri helpers for native Lapis terminal sessions |
+| 2026-10-16 15:05:08 | [wyrd-skald-spec](https://crates.io/crates/wyrd-skald-spec) | 0.1.1 | 0 | Native Skald provider types shared end to end: pure Rust, no IO. |
+| 2026-10-16 15:05:11 | [wyrd-error-derive](https://crates.io/crates/wyrd-error-derive) | 0.1.1 | 0 | Proc-macro support for Wyrd error-code enums. |
+| 2026-10-16 15:05:13 | [wyrd-semver](https://crates.io/crates/wyrd-semver) | 0.1.1 | 0 | Semver primitives for Wyrd: version values, ranges, bumps, and SQL-pushdown bou… |
+| 2026-10-16 15:05:16 | [wyrd-spec](https://crates.io/crates/wyrd-spec) | 0.1.1 | 0 | Wyrd foundation types: Card envelope, SpecKinds, and pure data contracts. |
+| 2026-10-16 15:05:19 | [wyrd-utils](https://crates.io/crates/wyrd-utils) | 0.1.1 | 0 | Small shared Wyrd helpers with no server dependencies. |
+| 2026-10-16 15:05:34 | [lobatto-lowrank](https://crates.io/crates/lobatto-lowrank) | 0.1.0 | 0 | Low-rank sums of products of fields on two Gauss-Lobatto grids, with weighted Q… |
+| 2026-10-16 15:05:52 | [ragrig-egui](https://crates.io/crates/ragrig-egui) | 0.5.0 | 0 | The egui agent interface for the ragrig RAG framework — transcript, composer, a… |
+| 2026-10-16 15:10:23 | [omnimon](https://crates.io/crates/omnimon) | 0.1.0 | 0 | One terminal monitor for every GPU (NVIDIA, Apple, AMD, Intel), the processes u… |
+| 2026-10-16 15:11:42 | [nsk](https://crates.io/crates/nsk) | 0.1.0 | 0 | Nintendo Switch content toolbox: firmware installation and format conversion |
+| 2026-10-16 15:17:04 | [wyrd-interfaces](https://crates.io/crates/wyrd-interfaces) | 0.1.1 | 0 | Wyrd data interface implementations. |
+| 2026-10-16 15:17:24 | [ferrum-rs](https://crates.io/crates/ferrum-rs) | 0.1.0 | 0 | An asynchronous, extensible MUD engine with JSON worlds, commands, and event ho… |
+| 2026-10-16 15:17:32 | [zync-rs](https://crates.io/crates/zync-rs) | 0.1.1 | 0 | rsync over HTTP delta transfers, with bsdiff residue reduction. |
+| 2026-10-16 15:17:34 | [zync-cli](https://crates.io/crates/zync-cli) | 0.1.1 | 0 | CLI tools for zync |
+| 2026-10-16 15:19:13 | [arkit_shadcn](https://crates.io/crates/arkit_shadcn) | 0.0.1-beta.0 | 0 | Shadcn-style native ArkUI components for Arkit applications |
+| 2026-10-16 15:19:15 | [arkit_terminal](https://crates.io/crates/arkit_terminal) | 0.0.1-beta.0 | 0 | Embedded terminal for arkit powered by rio-vt and a wgpu cell renderer |
+| 2026-10-16 15:19:18 | [arkit](https://crates.io/crates/arkit) | 0.0.1-beta.0 | 0 | Dioxus-based ArkUI application framework for OpenHarmony |
+| 2026-10-16 15:19:19 | [arkit_calendar_icu](https://crates.io/crates/arkit_calendar_icu) | 0.0.1-beta.0 | 0 | ICU4X calendar plugins for Arkit calendar components |
+| 2026-10-16 15:20:04 | [asma](https://crates.io/crates/asma) | 0.0.0 | 0 | Multilingual catalogs for names, meanings, and their relationships |
 
 ## Data source
 
