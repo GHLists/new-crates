@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T00:23:54.95512Z,tessipher,0.1.0,0,0,https://github.com/nG7ypFxs/Tessipher,"allocation-free, no_std QR decoding for embedded Rust"
+2026-10-16T00:24:59.646161Z,piu_websocket,0.264.0,0,0,https://github.com/denoland/deno,Implementation of WebSocket API for Deno
+2026-10-16T00:30:46.867066Z,oxsearch,0.1.0,0,0,https://github.com/agentstatelabs/oxsearch,"A typed Rust client for Elasticsearch, generated from its specification, with typed AI search: retrievers, semantic and kNN queries, and inference"
+2026-10-16T00:35:48.833364Z,mulciber-text,0.1.0,0,0,https://github.com/fairhill1/mulciber,"Text and flat shapes over a Mulciber scene: a glyph atlas from the game's fonts, measuring, wrapping and overlay geometry"
+2026-10-16T00:35:51.941836Z,piu_http,0.257.0,0,0,https://github.com/denoland/deno,HTTP server implementation for Deno
+2026-10-16T00:36:11.150315Z,piu_inspector_server,0.33.0,0,0,https://github.com/denoland/deno,Inspector server for Deno runtime
+2026-10-16T00:40:46.619158Z,oxsearch-rig,0.1.0,0,0,https://github.com/agentstatelabs/oxsearch,"A rig vector store on Elasticsearch, through oxsearch"
+2026-10-16T00:42:14.247334Z,ngrok-axum,0.1.0,0,0,https://github.com/ngrok-samples/ngrok-axum,Serve an Axum app through an ngrok tunnel with one call.
+2026-10-16T00:42:14.913263Z,tesserax-keytree,0.1.2,0,0,https://github.com/ZENG3LD/tesserax,"Key tree for tesserax services: a root secret (e.g. from a passkey PRF) derives branch keys, sealed store files, non-exportable signing handles, attenuable capability tokens, revocation, and one isol…"
+2026-10-16T00:47:04.321214Z,piu_kv,0.167.0,0,0,https://github.com/denoland/deno,Implementation of the Deno database API
+2026-10-16T00:50:29.56021Z,m4a-keys,0.4.13,0,0,https://github.com/ZENG3LD/mail4agent,"m4a's embedded keystore layer on tesserax-keytree: m4a grant names, signed-letter verification, and the authority mode (own root standalone, delegated keys when run under an orchestrator)."
+2026-10-16T00:50:44.653531Z,gate4agent-keys,0.5.5,0,0,https://github.com/ZENG3LD/gate4agent,"g4a's embedded keystore layer on tesserax-keytree: node and session grants per transport, and the authority mode (own root standalone, delegated keys when run under an orchestrator)."
+2026-10-16T00:55:49.976616Z,deka-ui-native,0.1.0,0,0,https://github.com/dekaruntime/deka,Internal part of deka-ui: the native desktop window and GPU renderer. Use the deka-ui crate.
+2026-10-16T00:55:52.072959Z,deka-ui,0.1.0,0,0,https://github.com/dekaruntime/deka,"A UI framework for Rust: components as functions, signals, and a view! macro. Native desktop apps and the browser from one codebase."
+2026-10-16T00:57:46.92376Z,piu_lockfile,0.61.0,0,0,https://github.com/denoland/deno,An implementation of a lockfile used in Deno
+2026-10-16T00:58:01.263939Z,prism-ai-core,0.2.2,0,0,https://github.com/djsydney04/prism,"Shared secure HTTP, SSE, pagination and errors for the Prism unofficial AI SDKs"
+2026-10-16T00:58:04.561915Z,prism-openai,0.2.1,0,0,https://github.com/djsydney04/rust_sdks,"Independent async Rust SDK for OpenAI REST APIs, streaming, and uploads"
+2026-10-16T00:58:07.974861Z,prism-gemini,0.2.1,0,0,https://github.com/djsydney04/rust_sdks,Independent unofficial Rust SDK for the Google Gemini Developer API
+2026-10-16T00:58:11.08434Z,prism-groq,0.2.1,0,0,https://github.com/djsydney04/rust_sdks,Independent async Rust SDK for Groq's inference REST API
+2026-10-16T01:00:28.722198Z,recursa-diagrams,0.1.0,0,0,https://github.com/freshtonic/recursa,Semantic railroad-diagram plans and Rustdoc SVG rendering for Recursa
+2026-10-16T01:00:36.991564Z,recursa-core,0.1.0,0,0,https://github.com/freshtonic/recursa,Runtime support for Recursa-generated parsers
+2026-10-16T01:00:50.880729Z,recursa-macros,0.1.0,0,0,https://github.com/freshtonic/recursa,Structural proc-macro loaders for Recursa-generated parsers
+2026-10-16T01:01:04.035508Z,recursa,0.1.0,0,0,https://github.com/freshtonic/recursa,AST-first parser generator for Rust
+2026-10-16T01:01:14.179825Z,recursa-codegen,0.1.0,0,0,https://github.com/freshtonic/recursa,Build-time grammar analysis and code generation for Recursa
+2026-10-16T01:02:44.955847Z,parun,0.3.0,0,0,https://github.com/cyberneura/parun,"Runs shell commands in parallel, each in its own pane of the terminal"
+2026-10-16T01:04:44.001839Z,rasgapdf,0.1.2,0,0,https://huggingface.co/martinsmessias/rasgapdf,"Blazing-fast spatial 2D PDF parser in pure Rust with multi-language bindings (Python, Node.js, Go, C#)"
+2026-10-16T01:08:27.223919Z,piu_napi_sym,0.189.0,0,0,https://github.com/denoland/deno,proc macro for writing N-API symbols
+2026-10-16T01:09:51.162967Z,hatchery-keystore,0.2.16,0,0,https://github.com/ZENG3LD/hatchery,"Hatchery keystore (hq-core authority): account -> node -> session key tree on tesserax-keytree, non-exportable session keys, grants per transport, attenuated delegation to m4a and g4a"
+2026-10-16T01:19:22.228766Z,piu_node_crypto,0.29.0,0,0,https://github.com/denoland/deno,Node crypto compatibility for Deno
