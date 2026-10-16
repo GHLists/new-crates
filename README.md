@@ -8,55 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 08:21 UTC
+## Latest list — 2026-10-16 09:21 UTC
 
-New crates published between 2026-10-16 07:19 UTC and 2026-10-16 08:21 UTC.
+New crates published between 2026-10-16 08:21 UTC and 2026-10-16 09:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-16T08-21-11-745015Z.csv)
+[Full CSV](data/new-crates-2026-10-16T09-21-50-113721Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-16 07:22:13 | [unrealfs](https://crates.io/crates/unrealfs) | 0.1.0 | 0 | A pure Rust library for parsing and reading assets from Unreal Engine packages… |
-| 2026-10-16 07:23:01 | [pacekeeper-core](https://crates.io/crates/pacekeeper-core) | 0.1.0 | 0 | Shared types, traits, and in-memory engines for Pacekeeper rate limiters |
-| 2026-10-16 07:24:51 | [pacekeeper-fixed](https://crates.io/crates/pacekeeper-fixed) | 0.1.0 | 0 | An in-memory fixed-window rate limiter |
-| 2026-10-16 07:24:54 | [pacekeeper-sliding-log](https://crates.io/crates/pacekeeper-sliding-log) | 0.1.0 | 0 | An in-memory sliding-window log rate limiter |
-| 2026-10-16 07:24:57 | [pacekeeper-sliding-counter](https://crates.io/crates/pacekeeper-sliding-counter) | 0.1.0 | 0 | An in-memory sliding-window counter rate limiter |
-| 2026-10-16 07:25:10 | [pacekeeper-bucket](https://crates.io/crates/pacekeeper-bucket) | 0.1.0 | 0 | Token-bucket rate limiting with in-memory, Redis, and Redis Cluster backends |
-| 2026-10-16 07:28:58 | [algeon-query-engine](https://crates.io/crates/algeon-query-engine) | 0.1.0 | 0 | Native cuDF/cuGraph query engine contracts for GPU plans. |
-| 2026-10-16 07:34:01 | [pacekeeper](https://crates.io/crates/pacekeeper) | 0.1.0 | 0 | Configurable rate limiters with in-memory and Redis backends |
-| 2026-10-16 07:38:53 | [algeon-datafusion](https://crates.io/crates/algeon-datafusion) | 0.1.0 | 0 | DataFusion physical-plan adapter for native GPU execution. |
-| 2026-10-16 07:43:14 | [rhema-provider-anthropic](https://crates.io/crates/rhema-provider-anthropic) | 0.1.0 | 0 | Anthropic Messages API adapter for the rhema ModelProvider seam |
-| 2026-10-16 07:43:23 | [rhema-provider-copilot](https://crates.io/crates/rhema-provider-copilot) | 0.1.0 | 0 | GitHub Copilot adapter for the rhema ModelProvider seam |
-| 2026-10-16 07:43:32 | [rhema-provider-google](https://crates.io/crates/rhema-provider-google) | 0.1.0 | 0 | Google Gemini adapter for the rhema ModelProvider seam |
-| 2026-10-16 07:43:40 | [rhema-provider-llama-cpp](https://crates.io/crates/rhema-provider-llama-cpp) | 0.1.0 | 0 | llama.cpp server adapter for the rhema ModelProvider seam |
-| 2026-10-16 07:43:49 | [rhema-provider-openai-compatible](https://crates.io/crates/rhema-provider-openai-compatible) | 0.1.0 | 0 | Generic OpenAI-compatible chat-completions adapter for the rhema ModelProvider… |
-| 2026-10-16 07:50:26 | [donut-rs](https://crates.io/crates/donut-rs) | 0.1.0 | 0 | A simple donut.c implementation written in Rust |
-| 2026-10-16 07:52:43 | [rpi-orchestrator](https://crates.io/crates/rpi-orchestrator) | 0.1.6 | 0 | Bounded DAG subagent orchestration extension for the rpi Rust agent |
-| 2026-10-16 07:53:21 | [axioval-mcs](https://crates.io/crates/axioval-mcs) | 0.6.0 | 0 | Fail-closed reader of Axioval MCS package archives (.mcs), rule sets and defini… |
-| 2026-10-16 07:54:02 | [zsuite-theme](https://crates.io/crates/zsuite-theme) | 0.1.0 | 0 | Reads and checks .zth looks: the colours, logo and font of an app's interface. |
-| 2026-10-16 07:57:54 | [ttunes](https://crates.io/crates/ttunes) | 0.1.0 | 0 | Spotify player for the terminal, written in Rust using librespot and ratatui |
-| 2026-10-16 07:59:32 | [rhema-provider-openrouter](https://crates.io/crates/rhema-provider-openrouter) | 0.1.0 | 0 | OpenRouter adapter for the rhema ModelProvider seam |
-| 2026-10-16 07:59:47 | [winner](https://crates.io/crates/winner) | 0.1.0 | 0 | Something coming here soon |
-| 2026-10-16 08:00:25 | [vtk-wrap](https://crates.io/crates/vtk-wrap) | 0.1.0 | 0 | Unsafe Rust bindings to VTK |
-| 2026-10-16 08:01:17 | [bullet-math](https://crates.io/crates/bullet-math) | 0.1.0 | 0 | Linear math layer for the bullet physics engine: SIMD-accelerated, precision-sw… |
-| 2026-10-16 08:01:39 | [bullet-collision](https://crates.io/crates/bullet-collision) | 0.1.0 | 0 | Collision detection for the bullet physics engine: shapes, broad phase, narrow… |
-| 2026-10-16 08:01:51 | [bullet-dynamics](https://crates.io/crates/bullet-dynamics) | 0.1.0 | 0 | Rigid body dynamics for the bullet physics engine: bodies, simulation world, an… |
-| 2026-10-16 08:02:25 | [bullet-physics](https://crates.io/crates/bullet-physics) | 0.1.0 | 0 | Facade crate aggregating the bullet physics engine (math, collision, and dynami… |
-| 2026-10-16 08:02:47 | [dpa](https://crates.io/crates/dpa) | 0.0.0 | 0 | Data Processing & Analysis. Placeholder reservation: the real crate ships with… |
-| 2026-10-16 08:04:00 | [ohos-native-display-soloist-sys](https://crates.io/crates/ohos-native-display-soloist-sys) | 0.1.0 | 0 | Raw bindings to the OpenHarmony NativeDisplaySoloist API |
-| 2026-10-16 08:05:57 | [change-risk](https://crates.io/crates/change-risk) | 0.2.0 | 0 | Deterministic change risk tiers from changed paths, a sensitivity map and decla… |
-| 2026-10-16 08:06:39 | [ripgsed](https://crates.io/crates/ripgsed) | 0.1.0 | 0 | A GNU sed 4.9 compatible stream editor, as a library and as a command |
-| 2026-10-16 08:10:08 | [foch-annotation](https://crates.io/crates/foch-annotation) | 0.0.1 | 0 | Foch annotations carried in EU4 script comments: extraction, schemas, validatio… |
-| 2026-10-16 08:10:10 | [foch-lsp](https://crates.io/crates/foch-lsp) | 0.0.1 | 0 | Language server for EU4 mod scripts and Foch annotations, started by `foch lsp` |
-| 2026-10-16 08:10:11 | [foch-test](https://crates.io/crates/foch-test) | 0.0.1 | 0 | Collection, planning, compilation and judging of in-game EU4 mod tests |
-| 2026-10-16 08:10:14 | [foch-runner](https://crates.io/crates/foch-runner) | 0.0.1 | 0 | Launches a real EU4 install in isolation to execute Foch test bundles |
-| 2026-10-16 08:10:17 | [foch-cli](https://crates.io/crates/foch-cli) | 0.0.1 | 0 | EU4 mod analysis, merge and language server CLI |
-| 2026-10-16 08:12:52 | [pactole-import](https://crates.io/crates/pactole-import) | 0.2.0 | 0 | Import external formats (OFX, ...) into Pactole domain models. |
-| 2026-10-16 08:12:56 | [pactole-lsp](https://crates.io/crates/pactole-lsp) | 0.2.0 | 0 | Language Server Protocol server for Pactole ledgers. |
-| 2026-10-16 08:19:21 | [dpa-cli](https://crates.io/crates/dpa-cli) | 0.0.0 | 0 | Command-line interface for dpa. Placeholder reservation: the real crate ships w… |
-| 2026-10-16 08:19:22 | [cocoon-tpm-ossl-bare-sys-target-integration](https://crates.io/crates/cocoon-tpm-ossl-bare-sys-target-integration) | 0.1.1 | 0 | Cocoon TPM project - trivial default ossl-bare-sys integration helper |
-| 2026-10-16 08:19:36 | [dpa-wasm](https://crates.io/crates/dpa-wasm) | 0.0.0 | 0 | WebAssembly bindings for dpa. Placeholder reservation: the real crate ships wit… |
-| 2026-10-16 08:20:13 | [cocoon-tpm-ossl-bare-sys](https://crates.io/crates/cocoon-tpm-ossl-bare-sys) | 0.1.1 | 0 | Cocoon TPM project - bare OpenSSL FFI bindings |
+| 2026-10-16 08:23:28 | [zhuge-ui-tokens](https://crates.io/crates/zhuge-ui-tokens) | 0.1.0 | 0 | Toolkit-neutral resolved surface appearance and colors for zhuge-ui. |
+| 2026-10-16 08:25:03 | [zhuge-ui-core](https://crates.io/crates/zhuge-ui-core) | 0.1.3 | 0 | Original-byte text projection, spatial navigation, and toolkit-neutral viewport… |
+| 2026-10-16 08:25:19 | [zhuge-ui-kit-bevy](https://crates.io/crates/zhuge-ui-kit-bevy) | 0.1.0 | 0 | Host-independent BSN surfaces and official headless widget scenes for Bevy in z… |
+| 2026-10-16 08:26:08 | [zhuge-ui-kit-iced](https://crates.io/crates/zhuge-ui-kit-iced) | 0.1.0 | 0 | Generic Iced badges, surface styles, rich text and virtual bodies for zhuge-ui. |
+| 2026-10-16 08:36:01 | [arkit_animation_core](https://crates.io/crates/arkit_animation_core) | 0.0.1-beta.0 | 0 | Platform-independent animation model and execution engine for Arkit |
+| 2026-10-16 08:36:03 | [arkit_derive](https://crates.io/crates/arkit_derive) | 0.0.1-beta.0 | 0 | Procedural macros for Arkit application entry points |
+| 2026-10-16 08:36:04 | [arkit_elements](https://crates.io/crates/arkit_elements) | 0.0.1-beta.0 | 0 | Dioxus element and attribute definitions for native ArkUI components |
+| 2026-10-16 08:36:05 | [arkit_i18n_macros](https://crates.io/crates/arkit_i18n_macros) | 0.0.1-beta.0 | 0 | Compile-time Fluent catalog generation for Arkit internationalization |
+| 2026-10-16 08:36:11 | [arkit_arkui](https://crates.io/crates/arkit_arkui) | 0.0.1-beta.0 | 0 | Dioxus renderer for native OpenHarmony ArkUI nodes |
+| 2026-10-16 08:45:28 | [tencentcloud-sdk-foundation](https://crates.io/crates/tencentcloud-sdk-foundation) | 0.1.1 | 0 | Client, TC3 signing, and transport core for Tencent Cloud API 3.0 |
+| 2026-10-16 08:45:33 | [tencentcloud-sdk-cos](https://crates.io/crates/tencentcloud-sdk-cos) | 0.1.1 | 0 | Bounded asynchronous Tencent Cloud COS XML API client |
+| 2026-10-16 08:45:38 | [tencentcloud-sdk-ses](https://crates.io/crates/tencentcloud-sdk-ses) | 0.1.1 | 0 | Typed asynchronous Tencent Cloud SES API client |
+| 2026-10-16 08:45:41 | [tencentcloud-sdk-ssm](https://crates.io/crates/tencentcloud-sdk-ssm) | 0.1.1 | 0 | Typed asynchronous Tencent Cloud Secrets Manager API client |
+| 2026-10-16 08:45:44 | [tencentcloud-sdk](https://crates.io/crates/tencentcloud-sdk) | 0.1.1 | 0 | A modular Tencent Cloud SDK for Rust |
+| 2026-10-16 08:46:56 | [todography](https://crates.io/crates/todography) | 0.2.0 | 0 | Checks and queries a map of components kept as Markdown files |
+| 2026-10-16 08:48:30 | [helptext-parser](https://crates.io/crates/helptext-parser) | 0.1.0 | 0 | Parse CLI --help output into structured usage specs. |
+| 2026-10-16 08:48:56 | [bract](https://crates.io/crates/bract) | 0.9.0 | 0 | A TUI that turns your CLI toolchain into a guided, browsable command palette. |
+| 2026-10-16 08:52:17 | [egui_log_viewer](https://crates.io/crates/egui_log_viewer) | 0.3.6 | 0 | A virtualized, row-selectable log viewer for egui |
+| 2026-10-16 08:54:21 | [capmonstercloud-client](https://crates.io/crates/capmonstercloud-client) | 0.1.0 | 0 | Async Rust client for the CapMonster Cloud captcha-solving API |
+| 2026-10-16 08:56:02 | [fmi-rs-macros](https://crates.io/crates/fmi-rs-macros) | 0.3.0 | 0 | Proc-macros used by the fmi-rs crate |
+| 2026-10-16 08:56:27 | [arkit_i18n](https://crates.io/crates/arkit_i18n) | 0.0.1-beta.0 | 0 | Type-safe Fluent internationalization runtime for Arkit applications |
+| 2026-10-16 08:56:28 | [arkit_prelude](https://crates.io/crates/arkit_prelude) | 0.0.1-beta.0 | 0 | Shared Dioxus and ArkUI prelude for the Arkit crate ecosystem |
+| 2026-10-16 09:14:02 | [gedlint](https://crates.io/crates/gedlint) | 0.11.0 | 0 | GEDCOM 5.5.1 + 7.0 linter: categories, severities, --fix, streaming, WASM-ready |
 
 ## Data source
 

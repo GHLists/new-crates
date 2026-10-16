@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T08:23:28.286993Z,zhuge-ui-tokens,0.1.0,0,0,https://github.com/YellowWhiteBlackCat/zhuge-ui-kit,Toolkit-neutral resolved surface appearance and colors for zhuge-ui.
+2026-10-16T08:25:03.128385Z,zhuge-ui-core,0.1.3,0,0,https://github.com/YellowWhiteBlackCat/zhuge-ui-kit,"Original-byte text projection, spatial navigation, and toolkit-neutral viewport geometry for zhuge-ui."
+2026-10-16T08:25:19.25807Z,zhuge-ui-kit-bevy,0.1.0,0,0,https://github.com/YellowWhiteBlackCat/zhuge-ui-kit,Host-independent BSN surfaces and official headless widget scenes for Bevy in zhuge-ui.
+2026-10-16T08:26:08.309458Z,zhuge-ui-kit-iced,0.1.0,0,0,https://github.com/YellowWhiteBlackCat/zhuge-ui-kit,"Generic Iced badges, surface styles, rich text and virtual bodies for zhuge-ui."
+2026-10-16T08:36:01.749029Z,arkit_animation_core,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,Platform-independent animation model and execution engine for Arkit
+2026-10-16T08:36:03.236836Z,arkit_derive,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,Procedural macros for Arkit application entry points
+2026-10-16T08:36:04.317049Z,arkit_elements,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,Dioxus element and attribute definitions for native ArkUI components
+2026-10-16T08:36:05.021585Z,arkit_i18n_macros,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,Compile-time Fluent catalog generation for Arkit internationalization
+2026-10-16T08:36:11.713275Z,arkit_arkui,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,Dioxus renderer for native OpenHarmony ArkUI nodes
+2026-10-16T08:45:28.287845Z,tencentcloud-sdk-foundation,0.1.1,0,0,https://github.com/joehe71/tencentcloud-sdk,"Client, TC3 signing, and transport core for Tencent Cloud API 3.0"
+2026-10-16T08:45:33.166532Z,tencentcloud-sdk-cos,0.1.1,0,0,https://github.com/joehe71/tencentcloud-sdk,Bounded asynchronous Tencent Cloud COS XML API client
+2026-10-16T08:45:38.109443Z,tencentcloud-sdk-ses,0.1.1,0,0,https://github.com/joehe71/tencentcloud-sdk,Typed asynchronous Tencent Cloud SES API client
+2026-10-16T08:45:41.715503Z,tencentcloud-sdk-ssm,0.1.1,0,0,https://github.com/joehe71/tencentcloud-sdk,Typed asynchronous Tencent Cloud Secrets Manager API client
+2026-10-16T08:45:44.514693Z,tencentcloud-sdk,0.1.1,0,0,https://github.com/joehe71/tencentcloud-sdk,A modular Tencent Cloud SDK for Rust
+2026-10-16T08:46:56.364973Z,todography,0.2.0,0,0,https://github.com/mkmik/todography,Checks and queries a map of components kept as Markdown files
+2026-10-16T08:48:30.293501Z,helptext-parser,0.1.0,0,0,https://github.com/hopefullysurprising/bract,Parse CLI --help output into structured usage specs.
+2026-10-16T08:48:56.73495Z,bract,0.9.0,0,0,https://github.com/hopefullysurprising/bract,"A TUI that turns your CLI toolchain into a guided, browsable command palette."
+2026-10-16T08:52:17.18115Z,egui_log_viewer,0.3.6,0,0,https://github.com/ple1n/egui_log_viewer,"A virtualized, row-selectable log viewer for egui"
+2026-10-16T08:54:21.367447Z,capmonstercloud-client,0.1.0,0,0,https://github.com/CapMonsterCloud/capmonster-rust-captcha-solver,Async Rust client for the CapMonster Cloud captcha-solving API
+2026-10-16T08:56:02.335224Z,fmi-rs-macros,0.3.0,0,0,https://github.com/CATIA-Systems/fmi-rs,Proc-macros used by the fmi-rs crate
+2026-10-16T08:56:27.370809Z,arkit_i18n,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,Type-safe Fluent internationalization runtime for Arkit applications
+2026-10-16T08:56:28.538655Z,arkit_prelude,0.0.1-beta.0,0,0,https://github.com/richerfu/arkit,Shared Dioxus and ArkUI prelude for the Arkit crate ecosystem
+2026-10-16T09:14:02.66028Z,gedlint,0.11.0,0,0,https://github.com/pmontp19/gedlint,"GEDCOM 5.5.1 + 7.0 linter: categories, severities, --fix, streaming, WASM-ready"
