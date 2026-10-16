@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T19:21:20.216333Z,clippier-fixture-first,0.1.0,0,0,,fixture
+2026-10-16T19:23:03.470429Z,iii-filter,0.24.5-alpha.2,0,0,https://github.com/iii-hq/iii,"The iii observer filter language: parse, validate, normalize and evaluate filters."
+2026-10-16T19:28:47.347869Z,kazoo-wall,0.1.0,0,0,https://github.com/tomWhiting/kazoo,The wall: a shared modular synth that never stops
+2026-10-16T19:28:51.151052Z,tessera-lang,1.0.0,0,0,https://github.com/pt-main/tessera,"A simple, portable, strictly typed data storage language with extreme parsing speed."
+2026-10-16T19:30:14.759844Z,xparser,0.1.0,0,0,https://github.com/bytebytebug/xparser,an explicit parser for command line interface
+2026-10-16T19:35:44.338926Z,arcrst,0.1.0,0,0,https://github.com/calebbuffa/arcrst,Rust library for the ArcGIS REST API
+2026-10-16T19:38:52.747448Z,kazoo-mcp,0.1.0,0,0,https://github.com/tomWhiting/kazoo,The wall for Claude seats: an MCP server that plays kazoo-wall and tells a seat when others change it
+2026-10-16T19:43:22.542941Z,landmine,0.1.0,0,0,https://github.com/terranesoftware/landmine,Boom.
+2026-10-16T19:48:15.356835Z,kazoo-tree,0.1.0,0,0,https://github.com/tomWhiting/kazoo,"The wall's tree: every moment it has been, grown as a tree you can walk"
+2026-10-16T19:52:18.654393Z,kartta-lang-daslang,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"Daslang extraction for the kartta code graph: definitions, calls and requires of daslang source"
+2026-10-16T19:52:22.410016Z,kartta-lang-quirrel,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"Quirrel extraction for the kartta code graph: definitions, calls and imports of Quirrel scripts"
+2026-10-16T19:52:25.804737Z,kartta-lang-blk,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,BLK extraction for the kartta code graph: the includes of Dagor DataBlock text files
+2026-10-16T19:52:28.310251Z,kartta-lang-rust,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"Rust extraction for the kartta code graph: items, members, calls and the files `mod` declarations name"
+2026-10-16T19:52:31.886542Z,kartta-lang-python,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"Python extraction for the kartta code graph: functions, classes, fields, calls and imports"
+2026-10-16T19:55:45.023424Z,hierarchyid,0.0.2,0,0,,Hierarchical ID type
+2026-10-16T19:56:37.070935Z,veilway-ipstack,1.0.1-veilway.1,0,0,https://github.com/veilway-project/veilway,"Patched fork of ipstack, the userspace TCP/IP stack for a TUN device, as used by Veilway"
+2026-10-16T19:56:37.574832Z,veilway-proto,0.1.0,0,0,https://github.com/veilway-project/veilway,"Wire formats of the Veilway native protocol: keys, chunks, control channel, subscriptions. Pure code, no IO."
+2026-10-16T19:56:38.189774Z,veilway-wg,0.1.0,0,0,https://github.com/veilway-project/veilway,"Multi-peer WireGuard layer over boringtun for Veilway: handshake routing, cookies, timers, roaming and a WebSocket relay."
+2026-10-16T19:56:39.23751Z,moa,2.0.0,0,0,https://github.com/raw-lab/moa,"Moa — the reference-faithful, parallel Markov clustering (MCL) engine with a MinHash ortholog front-end. 100% Rust, rayon + HydraMPP."
+2026-10-16T19:58:06.434851Z,kartta-lang-bash,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"Bash extraction for the kartta code graph: functions, aliases, globals, commands and sourced files"
+2026-10-16T19:58:07.687702Z,kzoo,0.1.0,0,0,https://github.com/tomWhiting/kazoo,"The kazoo studio in one command: the desk, the wall, the seat and every instrument"
+2026-10-16T20:05:37.266234Z,veilway-transport,0.1.0,0,0,https://github.com/veilway-project/veilway,"Client side of the Veilway transports: udp-obfs, tls, ws and fronted, carrying WireGuard datagrams to a node."
+2026-10-16T20:05:39.290838Z,veilway-engine,0.1.0,0,0,https://github.com/veilway-project/veilway,"Veilway client engine without an OS layer: candidate race, session carrying, subscription import and status."
+2026-10-16T20:08:14.272379Z,kartta-lang-php,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"PHP extraction for the kartta code graph: types, methods, calls, includes and PSR-4 uses of PHP source"
+2026-10-16T20:12:14.966698Z,veilway-core,0.1.0,0,0,https://github.com/veilway-project/veilway,"Veilway node engine: config v1, routing, quotas, userspace TCP/IP exits and the native transports."
+2026-10-16T20:13:23.439979Z,slave-gateway,0.1.0,0,0,https://github.com/kewcoder/slave,"Domain-routing gateway for slave apps: Laravel-style host routes in config/apps.toml, proxied with Pingora"
+2026-10-16T20:14:07.501645Z,aom-roar,1.0.0,0,0,https://github.com/AOMediaCodec/roar/,A Rust port of Alliance for Open Media's Open Audio Renderer (OAR).
+2026-10-16T20:14:37.860356Z,celestia,0.1.0,0,0,https://github.com/hz2/celestia,no_std sun and moon position/phase calculations
+2026-10-16T20:18:15.704544Z,moosicbox_schema_migrations,0.5.0,0,0,https://github.com/MoosicBox/MoosicBox,MoosicBox embedded historical SQL migrations
