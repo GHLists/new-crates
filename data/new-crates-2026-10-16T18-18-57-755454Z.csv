@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T17:18:56.559303Z,kazoo-cs80,0.1.0,0,0,https://github.com/tomWhiting/kazoo,"Yamaha CS-80 inspired pad synth — 8-voice polyphonic, dual-layer"
+2026-10-16T17:21:31.667716Z,mise-ui,0.0.0,0,0,https://github.com/jdx/mise,"Terminal UI helpers for mise: progress reports, prompts, and themes (placeholder)"
+2026-10-16T17:25:16.04973Z,hrepr-derive,0.1.0,0,0,https://github.com/sirewix/hrepr,Derive macro for hrepr's Generic trait
+2026-10-16T17:28:07.67056Z,hrepr,0.1.0,0,0,https://github.com/sirewix/hrepr,"Structural, type-parameter-agnostic representations for Rust types"
+2026-10-16T17:29:58.32021Z,kazoo-dx,0.1.0,0,0,https://github.com/tomWhiting/kazoo,"Four-operator FM synth in the DX/TX81Z tradition — pure sine math, eight algorithms, eight voices"
+2026-10-16T17:32:28.230942Z,active,0.1.0,0,0,https://github.com/Active-Official,"Active is a modern configuration and data language: safer than YAML, more expressive than TOML, more human-friendly than JSON, and built for both humans and AI agents."
+2026-10-16T17:37:10.951704Z,gitpm-cli,0.1.1,0,0,https://github.com/tilr-dev/gitpm,"Command-line client for gitpm: install, update and roll back packages from Git repositories and a static catalog"
+2026-10-16T17:39:15.179953Z,kazoo-glass,0.1.0,0,0,https://github.com/tomWhiting/kazoo,"Polyphonic modal bell synthesizer: tuned glass, chimes and metallic keys"
+2026-10-16T17:40:56.053377Z,mosaic-credential-core,0.1.0,0,0,https://github.com/Ecch1ch1/Mosaic-Credentials,"Data model, parser, canonical encoder, limits, and prehash for Mosaic Credential"
+2026-10-16T17:41:06.303589Z,mosaic-credential-auth,0.1.0,0,0,https://github.com/Ecch1ch1/Mosaic-Credentials,"Enrollment, verification, record validation, and upgrades for Mosaic Credential"
+2026-10-16T17:41:15.703462Z,mosaic-credential-cli,0.1.0,0,0,https://github.com/Ecch1ch1/Mosaic-Credentials,CLI tool for local development and diagnostics of Mosaic Credential
+2026-10-16T17:46:02.384181Z,mise-system-packages,0.0.0,0,0,https://github.com/jdx/mise,System package manager drivers for mise (placeholder)
+2026-10-16T17:49:44.864374Z,active-core,0.1.0,0,0,https://github.com/Active-Official,"Core implementation of the Active configuration and data language: lexer, parser, IR, dependency graph, evaluator, type system and diagnostics"
+2026-10-16T17:49:48.066454Z,active-cli,0.1.0,0,0,https://github.com/Active-Official,Command-line interface for the Active configuration and data language
+2026-10-16T17:49:50.990574Z,active-fmt,0.1.0,0,0,https://github.com/Active-Official,Formatter for the Active configuration and data language
+2026-10-16T17:49:54.02785Z,active-lsp,0.1.0,0,0,https://github.com/Active-Official,Language server for the Active configuration and data language
+2026-10-16T17:50:23.08722Z,kazoo-juno,0.1.0,0,0,https://github.com/tomWhiting/kazoo,Roland Juno inspired procedural polyphonic chorus synth
+2026-10-16T17:50:37.329576Z,cidermill-apple-ble,0.1.0,0,0,https://gitlab.com/timrs2998/cidermill-apple-ble,"Cross-platform decoder for Apple BLE proximity-pairing advertisements (AirPods, Beats, etc.)"
+2026-10-16T17:52:36.440821Z,iup,0.0.4,0,0,https://github.com/dcampbell24/iup-rust,IUP is a multi-platform toolkit for building graphical user interfaces.
+2026-10-16T17:53:20.199801Z,cidermill-airplay,0.1.0,0,0,https://gitlab.com/timrs2998/cidermill-airplay,"Sans-io AirPlay protocol core: RTSP codec, HAP pairing (SRP-6a, X25519, Ed25519), ChaCha20-Poly1305 cipher framing, NTP timing, TLV8, AirPlay 2 audio packetization, and legacy PIN pairing"
+2026-10-16T17:55:40.506707Z,fcidr-cli,0.10.6,0,0,https://github.com/nicholaschiasson/fcidr,Fragmented Classless Inter-Domain Routing (FCIDR)
+2026-10-16T17:57:35.64205Z,lefsim,0.1.0,0,0,https://github.com/abdenlab/lefsim,"Stochastic, event-driven simulation of loop-extrusion factors on a 1D lattice"
+2026-10-16T17:58:51.714072Z,kazoo-mini,0.1.0,0,0,https://github.com/tomWhiting/kazoo,"Moog Minimoog inspired bass/lead synth — monophonic, ladder filter"
+2026-10-16T18:00:19.662791Z,maolan-asio,0.0.1,0,0,https://github.com/maolan/asio,"Pure-Rust ASIO host backend for Windows: driver enumeration, duplex streaming, and buffer-switch handling without the Steinberg SDK"
+2026-10-16T18:02:43.312321Z,idl-drift,0.1.0,0,0,https://github.com/senzenn/idl-drift,Compare two versions of a Solana program IDL and sort each change by its effect on a generated parser.
+2026-10-16T18:02:46.542201Z,idl-verify,0.1.0,0,0,https://github.com/senzenn/idl-drift,"Check a Solana program IDL against real account, instruction and event data."
+2026-10-16T18:06:51.052232Z,quireink-plugin-lock,0.3.0,0,0,https://github.com/hthoene/quireink,"QuireInk screen lock: a PIN, a pattern or a password when the device wakes up"
+2026-10-16T18:08:38.329839Z,kazoo-mix,0.1.0,0,0,https://github.com/tomWhiting/kazoo,"The kazoo desk: the studio hub every instrument plays into, with its mixer"
+2026-10-16T18:16:28.94189Z,steam-depot-downloader-mod,0.1.0,0,0,https://github.com/enXov/steam-depot-downloader-mod,"Rust library for downloading Steam depot content with user-supplied depot keys and manifest files (a port of DepotDownloaderMod) - embeddable in GUIs, CLIs and services alike."
+2026-10-16T18:18:41.131741Z,kazoo-mouth,0.1.0,0,0,https://github.com/tomWhiting/kazoo,The mouth: a voice synth and voice source for the desk

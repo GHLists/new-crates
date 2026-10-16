@@ -8,55 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 17:18 UTC
+## Latest list — 2026-10-16 18:18 UTC
 
-New crates published between 2026-10-16 16:19 UTC and 2026-10-16 17:18 UTC.
+New crates published between 2026-10-16 17:18 UTC and 2026-10-16 18:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-16T17-18-31-541624Z.csv)
+[Full CSV](data/new-crates-2026-10-16T18-18-57-755454Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-16 16:20:18 | [wyrd-runtime](https://crates.io/crates/wyrd-runtime) | 0.1.1 | 0 | Wyrd runtime singleton and cross-cutting behavior shells. |
-| 2026-10-16 16:22:02 | [qty](https://crates.io/crates/qty) | 0.1.0 | 0 | Zero-overhead, strongly-typed physical quantities and unit conversions, generat… |
-| 2026-10-16 16:23:21 | [whiff](https://crates.io/crates/whiff) | 0.1.0 | 0 | Sniff any file and get one JSON document describing it: identity, provenance, r… |
-| 2026-10-16 16:26:07 | [nuvec-cpu](https://crates.io/crates/nuvec-cpu) | 0.0.1 | 0 | Pure-Rust CPU backend for nuvec |
-| 2026-10-16 16:26:08 | [nuvec-kernels](https://crates.io/crates/nuvec-kernels) | 0.0.1 | 0 | Metal kernel sources and the precompiled nuvec.metallib |
-| 2026-10-16 16:26:10 | [nuvec-gpu](https://crates.io/crates/nuvec-gpu) | 0.0.1 | 0 | Metal backend for nuvec: device, command encoding, memory and kernel dispatch |
-| 2026-10-16 16:26:13 | [nuvec-core](https://crates.io/crates/nuvec-core) | 0.0.1 | 0 | Lazy array graph, primitives, dtypes and evaluation for nuvec |
-| 2026-10-16 16:26:16 | [nuvec-compile](https://crates.io/crates/nuvec-compile) | 0.0.1 | 0 | Tracing, graph simplification, fusion planning and buffer planning for nuvec |
-| 2026-10-16 16:28:16 | [xbestellung](https://crates.io/crates/xbestellung) | 0.1.0 | 0 | XBestellung alias: re-exports openbim-xbestellung. |
-| 2026-10-16 16:29:10 | [xvergabe](https://crates.io/crates/xvergabe) | 0.1.0 | 0 | XVergabe alias: re-exports openbim-xvergabe. |
-| 2026-10-16 16:29:57 | [nuvec-distributed](https://crates.io/crates/nuvec-distributed) | 0.0.1 | 0 | Collectives over TCP rings and Thunderbolt RDMA for nuvec |
-| 2026-10-16 16:33:10 | [wyrd-skald-tool](https://crates.io/crates/wyrd-skald-tool) | 0.1.1 | 0 | Native tool declarations and provider message helpers for Skald. |
-| 2026-10-16 16:33:20 | [chromaglyph-treesitter](https://crates.io/crates/chromaglyph-treesitter) | 0.1.2 | 0 | Optional tree-sitter semantic layer for chromaglyph: parse code into semantic s… |
-| 2026-10-16 16:33:53 | [chromaglyph](https://crates.io/crates/chromaglyph) | 0.1.2 | 0 | CLI for chromaglyph: build and verify fonts with compiled-in syntax highlighting |
-| 2026-10-16 16:40:14 | [nuvec-io](https://crates.io/crates/nuvec-io) | 0.0.1 | 0 | Zero-copy safetensors, GGUF and npy loading for nuvec |
-| 2026-10-16 16:40:41 | [sprawling-console-ffi](https://crates.io/crates/sprawling-console-ffi) | 0.0.12 | 0 | The Zig leaf that draws the console's frames, offered as one safe function. |
-| 2026-10-16 16:43:08 | [xbau](https://crates.io/crates/xbau) | 0.1.0 | 0 | XBau alias: re-exports openbim-xbau. |
-| 2026-10-16 16:45:46 | [acme-client2](https://crates.io/crates/acme-client2) | 0.1.0 | 0 | Asynchronous ACME certificate issuance with application-owned HTTP-01 challenges |
-| 2026-10-16 16:46:18 | [ontology](https://crates.io/crates/ontology) | 0.1.0 | 0 | Initial placeholder command-line binary for the ontology project. |
-| 2026-10-16 16:50:29 | [nuvec](https://crates.io/crates/nuvec) | 0.0.1 | 0 | Pure-Rust array framework for Apple Silicon in the spirit of MLX: lazy arrays,… |
-| 2026-10-16 16:54:45 | [kartta-lang](https://crates.io/crates/kartta-lang) | 0.0.0 | 0 | The contract a language implements to plug its extraction into the kartta code… |
-| 2026-10-16 16:54:56 | [kartta-graph](https://crates.io/crates/kartta-graph) | 0.0.0 | 0 | A language-agnostic code graph: definitions per file, found by name, updated a… |
-| 2026-10-16 16:55:04 | [kartta-lang-go](https://crates.io/crates/kartta-lang-go) | 0.0.0 | 0 | Go extraction for the kartta code graph: definitions, calls, uses and imports o… |
-| 2026-10-16 16:55:11 | [kartta-lang-cpp](https://crates.io/crates/kartta-lang-cpp) | 0.0.0 | 0 | C and C++ for the kartta code graph: definitions, calls and includes extracted… |
-| 2026-10-16 16:55:22 | [kartta-lang-jsts](https://crates.io/crates/kartta-lang-jsts) | 0.0.0 | 0 | TypeScript, TSX and JavaScript extraction for the kartta code graph |
-| 2026-10-16 16:57:14 | [xplanung](https://crates.io/crates/xplanung) | 0.1.0 | 0 | XPlanung alias: re-exports openbim-xplanung. |
-| 2026-10-16 16:59:58 | [nuvec-nn](https://crates.io/crates/nuvec-nn) | 0.0.1 | 0 | Neural-network modules, layers and optimizers for nuvec |
-| 2026-10-16 17:00:25 | [slave-framework](https://crates.io/crates/slave-framework) | 0.1.0 | 0 | Runtime for slave apps: Axum server lifecycle, config, logging, Turso database,… |
-| 2026-10-16 17:02:22 | [kazoo-core](https://crates.io/crates/kazoo-core) | 0.1.0 | 0 | The kazoo audio library: synthesis, effects, analysis and the studio link, with… |
-| 2026-10-16 17:02:24 | [kazoo-fx](https://crates.io/crates/kazoo-fx) | 0.1.0 | 0 | Kazoo's effects, written from scratch: drive, time and space |
-| 2026-10-16 17:02:26 | [kazoo-host](https://crates.io/crates/kazoo-host) | 0.1.0 | 0 | What every kazoo terminal program shares: error reports installed once, and a t… |
-| 2026-10-16 17:02:29 | [kazoo-303](https://crates.io/crates/kazoo-303) | 0.1.0 | 0 | TB-303 inspired acid bassline synth — all procedural synthesis, no samples |
-| 2026-10-16 17:02:31 | [kazoo-808](https://crates.io/crates/kazoo-808) | 0.1.0 | 0 | TR-808 drum machine — all-synthesis, no samples |
-| 2026-10-16 17:08:59 | [kazoo-arp](https://crates.io/crates/kazoo-arp) | 0.1.0 | 0 | Jupiter-8 style arpeggiator — note scheduler for any synth |
-| 2026-10-16 17:10:16 | [nuvec-lm](https://crates.io/crates/nuvec-lm) | 0.0.1 | 0 | LLM runtime for nuvec: model loading, KV caches and sampling |
-| 2026-10-16 17:10:40 | [vda5050-v3-types](https://crates.io/crates/vda5050-v3-types) | 1.0.1 | 0 | Transport-independent VDA 5050 v3.0.0 message types |
-| 2026-10-16 17:14:45 | [lonca-net](https://crates.io/crates/lonca-net) | 0.1.0 | 0 | A loopback HTTP CONNECT proxy that asks a gate about every connection |
-| 2026-10-16 17:14:58 | [kule-engine](https://crates.io/crates/kule-engine) | 0.0.1 | 0 | Kule's transactional engine: copy-on-write task copies, effect sets, commit, ro… |
-| 2026-10-16 17:15:12 | [kule](https://crates.io/crates/kule) | 0.0.1 | 0 | A control room for coding agents: every command runs as a transaction in a sand… |
-| 2026-10-16 17:15:13 | [teixml](https://crates.io/crates/teixml) | 0.1.0 | 0 | Validate TEI XML documents against RELAX NG schemas, in pure Rust |
-| 2026-10-16 17:16:27 | [ohos-purgeable-memory-sys](https://crates.io/crates/ohos-purgeable-memory-sys) | 0.1.0 | 0 | Raw bindings to the OpenHarmony Purgeable Memory API |
+| 2026-10-16 17:18:56 | [kazoo-cs80](https://crates.io/crates/kazoo-cs80) | 0.1.0 | 0 | Yamaha CS-80 inspired pad synth — 8-voice polyphonic, dual-layer |
+| 2026-10-16 17:21:31 | [mise-ui](https://crates.io/crates/mise-ui) | 0.0.0 | 0 | Terminal UI helpers for mise: progress reports, prompts, and themes (placeholde… |
+| 2026-10-16 17:25:16 | [hrepr-derive](https://crates.io/crates/hrepr-derive) | 0.1.0 | 0 | Derive macro for hrepr's Generic trait |
+| 2026-10-16 17:28:07 | [hrepr](https://crates.io/crates/hrepr) | 0.1.0 | 0 | Structural, type-parameter-agnostic representations for Rust types |
+| 2026-10-16 17:29:58 | [kazoo-dx](https://crates.io/crates/kazoo-dx) | 0.1.0 | 0 | Four-operator FM synth in the DX/TX81Z tradition — pure sine math, eight algori… |
+| 2026-10-16 17:32:28 | [active](https://crates.io/crates/active) | 0.1.0 | 0 | Active is a modern configuration and data language: safer than YAML, more expre… |
+| 2026-10-16 17:37:10 | [gitpm-cli](https://crates.io/crates/gitpm-cli) | 0.1.1 | 0 | Command-line client for gitpm: install, update and roll back packages from Git… |
+| 2026-10-16 17:39:15 | [kazoo-glass](https://crates.io/crates/kazoo-glass) | 0.1.0 | 0 | Polyphonic modal bell synthesizer: tuned glass, chimes and metallic keys |
+| 2026-10-16 17:40:56 | [mosaic-credential-core](https://crates.io/crates/mosaic-credential-core) | 0.1.0 | 0 | Data model, parser, canonical encoder, limits, and prehash for Mosaic Credential |
+| 2026-10-16 17:41:06 | [mosaic-credential-auth](https://crates.io/crates/mosaic-credential-auth) | 0.1.0 | 0 | Enrollment, verification, record validation, and upgrades for Mosaic Credential |
+| 2026-10-16 17:41:15 | [mosaic-credential-cli](https://crates.io/crates/mosaic-credential-cli) | 0.1.0 | 0 | CLI tool for local development and diagnostics of Mosaic Credential |
+| 2026-10-16 17:46:02 | [mise-system-packages](https://crates.io/crates/mise-system-packages) | 0.0.0 | 0 | System package manager drivers for mise (placeholder) |
+| 2026-10-16 17:49:44 | [active-core](https://crates.io/crates/active-core) | 0.1.0 | 0 | Core implementation of the Active configuration and data language: lexer, parse… |
+| 2026-10-16 17:49:48 | [active-cli](https://crates.io/crates/active-cli) | 0.1.0 | 0 | Command-line interface for the Active configuration and data language |
+| 2026-10-16 17:49:50 | [active-fmt](https://crates.io/crates/active-fmt) | 0.1.0 | 0 | Formatter for the Active configuration and data language |
+| 2026-10-16 17:49:54 | [active-lsp](https://crates.io/crates/active-lsp) | 0.1.0 | 0 | Language server for the Active configuration and data language |
+| 2026-10-16 17:50:23 | [kazoo-juno](https://crates.io/crates/kazoo-juno) | 0.1.0 | 0 | Roland Juno inspired procedural polyphonic chorus synth |
+| 2026-10-16 17:50:37 | [cidermill-apple-ble](https://crates.io/crates/cidermill-apple-ble) | 0.1.0 | 0 | Cross-platform decoder for Apple BLE proximity-pairing advertisements (AirPods,… |
+| 2026-10-16 17:52:36 | [iup](https://crates.io/crates/iup) | 0.0.4 | 0 | IUP is a multi-platform toolkit for building graphical user interfaces. |
+| 2026-10-16 17:53:20 | [cidermill-airplay](https://crates.io/crates/cidermill-airplay) | 0.1.0 | 0 | Sans-io AirPlay protocol core: RTSP codec, HAP pairing (SRP-6a, X25519, Ed25519… |
+| 2026-10-16 17:55:40 | [fcidr-cli](https://crates.io/crates/fcidr-cli) | 0.10.6 | 0 | Fragmented Classless Inter-Domain Routing (FCIDR) |
+| 2026-10-16 17:57:35 | [lefsim](https://crates.io/crates/lefsim) | 0.1.0 | 0 | Stochastic, event-driven simulation of loop-extrusion factors on a 1D lattice |
+| 2026-10-16 17:58:51 | [kazoo-mini](https://crates.io/crates/kazoo-mini) | 0.1.0 | 0 | Moog Minimoog inspired bass/lead synth — monophonic, ladder filter |
+| 2026-10-16 18:00:19 | [maolan-asio](https://crates.io/crates/maolan-asio) | 0.0.1 | 0 | Pure-Rust ASIO host backend for Windows: driver enumeration, duplex streaming,… |
+| 2026-10-16 18:02:43 | [idl-drift](https://crates.io/crates/idl-drift) | 0.1.0 | 0 | Compare two versions of a Solana program IDL and sort each change by its effect… |
+| 2026-10-16 18:02:46 | [idl-verify](https://crates.io/crates/idl-verify) | 0.1.0 | 0 | Check a Solana program IDL against real account, instruction and event data. |
+| 2026-10-16 18:06:51 | [quireink-plugin-lock](https://crates.io/crates/quireink-plugin-lock) | 0.3.0 | 0 | QuireInk screen lock: a PIN, a pattern or a password when the device wakes up |
+| 2026-10-16 18:08:38 | [kazoo-mix](https://crates.io/crates/kazoo-mix) | 0.1.0 | 0 | The kazoo desk: the studio hub every instrument plays into, with its mixer |
+| 2026-10-16 18:16:28 | [steam-depot-downloader-mod](https://crates.io/crates/steam-depot-downloader-mod) | 0.1.0 | 0 | Rust library for downloading Steam depot content with user-supplied depot keys… |
+| 2026-10-16 18:18:41 | [kazoo-mouth](https://crates.io/crates/kazoo-mouth) | 0.1.0 | 0 | The mouth: a voice synth and voice source for the desk |
 
 ## Data source
 
