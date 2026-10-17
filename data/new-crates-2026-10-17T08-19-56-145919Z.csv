@@ -1,0 +1,10 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T07:19:36.871591Z,vodnik,0.22.1,0,0,https://github.com/includeamin/vodnik,"On-demand HLS and DASH packaging for MP4 files: serves fragmented MP4 straight from the source, with no pre-generated segments and no transcoding"
+2026-10-17T07:27:44.149047Z,database-mcp-rs-mariadb,0.1.0,0,0,https://github.com/arifulislamat/database-mcp,"MCP server for MariaDB with read-only guardrails, row caps, and statement timeouts"
+2026-10-17T07:31:00.123387Z,girt-cli,0.1.0,0,0,https://github.com/joshka/girt,Command-line tool for inspecting and benchmarking Git repositories with girt
+2026-10-17T07:43:39.553198Z,khagole-engine,0.0.12,0,0,https://github.com/PriyankGahtori/Khagole,High-precision Vedic Jyotish & Astrometric calculation engine on JPL ephemerides
+2026-10-17T07:51:09.050254Z,nettrash-a,0.0.2,0,0,https://github.com/nettrash/a,A library of algorithms in Rust
+2026-10-17T08:05:13.292549Z,khagole-mcp,0.0.12,0,0,https://github.com/PriyankGahtori/Khagole,Model Context Protocol (MCP) server for Khagole Vedic Jyotish & JPL ephemerides
+2026-10-17T08:11:01.896103Z,readstack,1.0.0,0,0,,A single-user RSS aggregator.
+2026-10-17T08:11:40.779342Z,evercoil,0.0.0,0,0,https://github.com/evercoil/evercoil,"Shared building blocks for Evercoil projects, such as TUI components. Work in progress."
+2026-10-17T08:19:54.361823Z,shadcn-iced,0.0.0,0,0,https://github.com/r4ai/shadcn-iced,shadcn/ui components for iced (in development; no components in this release)
