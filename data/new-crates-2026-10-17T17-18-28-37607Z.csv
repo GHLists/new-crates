@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T16:21:54.018249Z,nsh-platform-android,0.1.0,0,0,https://github.com/longbridge/native-shell,"Android backend: JNI glue, StaticLayout text engine, mount batch encoding, native animation driver."
+2026-10-17T16:23:02.749129Z,ironbeam-io-jsonl,5.0.0,0,0,https://github.com/nhubbard/ironbeam,JSON Lines file and object sources and deferred sinks for Ironbeam 5
+2026-10-17T16:23:34.188561Z,barqsync,0.1.1,0,0,https://github.com/Abdurahman-hassan/barqsync,"A parallel, rsync-compatible file synchronizer: local, over ssh, TLS-over-TCP streams or QUIC (macOS and Linux)"
+2026-10-17T16:26:16.317673Z,kkkqkx-tantivy-stacker,0.7.0,0,0,https://github.com/kkkqkx123/tantivy,term hashmap used for indexing
+2026-10-17T16:27:41.70825Z,gamebanking,0.5.0,0,0,https://github.com/ShowBaba/game-banking-sdk-rust,Server-side Rust SDK for the Game Banking Engine
+2026-10-17T16:31:50.767176Z,nsh-platform-ios,0.1.0,0,0,https://github.com/longbridge/native-shell,"UIKit backend: native view mounting, text measurement, input, app hosting and the embedding API (C ABI under the NativeShell Swift module)."
+2026-10-17T16:32:08.418336Z,iowatchd,0.4.1,0,0,https://github.com/Thiapalm/iowatchd,Monitors disk IO usage and logs which processes are consuming it
+2026-10-17T16:33:02.901639Z,ironbeam-io-mongodb,5.0.0,0,0,https://github.com/nhubbard/ironbeam,MongoDB sources and append sinks for Ironbeam 5
+2026-10-17T16:33:53.287188Z,kkkqkx-tantivy-sstable,0.7.0,0,0,https://github.com/kkkqkx123/tantivy,sstables for tantivy
+2026-10-17T16:41:32.067175Z,repame-save,0.3.25,0,0,https://github.com/mlm-games/repame,"one app identity, one versioned save envelope, settings, keybinds, and the repame-reflect sim bridge over game-utils' crash-safe store"
+2026-10-17T16:41:32.593299Z,repame-ui,0.3.25,0,0,https://github.com/mlm-games/repame,"shared game UI kit: action queue, run flow, focus navigation, palette voices, touch overlay"
+2026-10-17T16:41:50.825702Z,nsh-platform-linux,0.1.0,0,0,https://github.com/longbridge/native-shell,"Linux backend (GTK 4): native widget mounting, Pango text engine, input, standalone app."
+2026-10-17T16:42:11.314584Z,crypto-mel,0.11.0,0,0,https://gitlab.com/melodium/melodium,Mélodium cryptography library
+2026-10-17T16:42:26.763864Z,vault-mel,0.11.0,0,0,https://gitlab.com/melodium/melodium,Mélodium vault library
+2026-10-17T16:43:01.874219Z,ironbeam-io-msgpack,5.0.0,0,0,https://github.com/nhubbard/ironbeam,MessagePack sources and deferred sinks for Ironbeam 5
+2026-10-17T16:46:57.767239Z,levi-git,0.11.1,0,0,https://github.com/rsdlt/levi,"A git diff viewer: commits, their files and diffs, with fzf-style search"
+2026-10-17T16:47:14.973038Z,pando-core,3.3.0,0,0,https://github.com/kabirnarang39/pando,"Pando domain kernel: content-addressed objects, changesets, derived data and infrastructure ports"
+2026-10-17T16:47:16.513Z,pando-proto,3.3.0,0,0,https://github.com/kabirnarang39/pando,Pando gRPC wire protocol
+2026-10-17T16:47:18.145428Z,pando-adapters,3.3.0,0,0,https://github.com/kabirnarang39/pando,"Pando infrastructure adapters: memory, SQLite, Postgres, S3/GCS/Azure/local object storage, caches, gRPC upstream tiers"
+2026-10-17T16:47:19.841588Z,pando-server,3.3.0,0,0,https://github.com/kabirnarang39/pando,"Pando server, regional cache and node daemon"
+2026-10-17T16:47:21.612968Z,pando-vcs,3.3.0,0,0,https://github.com/kabirnarang39/pando,Pando: source control for monorepos at agent scale. Command-line client (`pando`) and git remote helper
+2026-10-17T16:47:22.297062Z,usfm_semantic,0.1.0,0,0,https://github.com/mimbrown/usfm,"Checks over a parsed USFM tree, chapter and verse indexes, and references written as text"
+2026-10-17T16:47:45.603967Z,usfm_paratext,0.1.0,0,0,https://github.com/mimbrown/usfm,"Reads a Paratext project folder: settings, book names, book files, stylesheets and interlinear glosses"
+2026-10-17T16:48:05.431851Z,usfm_parser,0.1.0,0,0,https://github.com/mimbrown/usfm,A USFM parser that never fails: it recovers and reports diagnostics
+2026-10-17T16:48:22.732025Z,usfm_usx,0.1.0,0,0,https://github.com/mimbrown/usfm,"USX for the usfm_tools tree: write a document as USX, and read USX into one"
+2026-10-17T16:50:05.012976Z,mcpg-aauth-core,0.1.0-beta.39,0,0,,"AAuth protocol primitives — Ed25519/ES256 JWKs/JWTs, RFC 9421 request signing and verification, Signature-Key schemes"
+2026-10-17T16:50:12.812339Z,mcpg-backend-llm-types,0.1.0-beta.39,0,0,,"Pure data types shared across MCPG's per-provider LLM binding plugins. The leaf layer under `mcpg-backend-llm-shared`: canonical request/response shapes (`NormalizedChatRequest`, `NormalizedChatRespo…"
+2026-10-17T16:50:34.459107Z,mcpg-plugin-protocol,0.1.0-beta.40,0,0,,"The versioned MCPG plugin protocol: types, trait contracts, and compatibility identifiers"
+2026-10-17T16:50:41.991024Z,mcpg-sensitive,0.1.0-beta.39,0,0,,"`Sensitive<T>` newtype: a Debug impl that prints `***`, no Display impl (so accidental `format!(""{}"", value)` won't compile), and serde / schemars pass-through to the inner value. Wrap config fields…"
+2026-10-17T16:51:04.85092Z,esm-parser,0.4.1,0,0,https://github.com/mbolaric/esm-parser,Library for parsing ESM files (.DDD). *.DDD files are digital exports of tachograph data and contain all mandatory information required by EU regulations.
+2026-10-17T16:51:50.293968Z,nsh-platform-macos,0.1.0,0,0,https://github.com/longbridge/native-shell,"macOS backend (AppKit): native view mounting, CoreText text engine, input, standalone app."
+2026-10-17T16:53:04.267292Z,ironbeam-io-parquet,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Parquet sources and sinks for Ironbeam 5
+2026-10-17T16:53:09.404213Z,tickloop,0.2.5,0,0,,Installer and launcher for the official Tickloop terminal agent
+2026-10-17T16:55:23.853405Z,mcpg-backend-llm-shared,0.1.0-beta.40,0,0,https://github.com/mcpg-dev/mcpg-backend-llm-shared,"Provider-agnostic core for MCPG's per-provider LLM binding plugins (`mcpg-plugin-backend-llm-openai`, `…-anthropic`, `…-gemini`, `…-compat`, `…-voyage`, …). Owns: - Canonical request/response shapes…"
+2026-10-17T17:00:51.51502Z,keepassxcr,0.2.0,0,0,https://github.com/tynes/keepassxcr,"A Rust reimplementation of keepassxc-cli, and a library for reading and writing KeePass KDBX 3.1/4.x databases"
+2026-10-17T17:01:52.369393Z,nsh-platform-windows,0.1.0,0,0,https://github.com/longbridge/native-shell,"Windows backend (Win32, Direct2D, DirectWrite): view mounting, text engine, input, standalone app."
+2026-10-17T17:03:02.079694Z,ironbeam-io-protobuf,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Protobuf file sources and deferred sinks for Ironbeam 5
+2026-10-17T17:05:53.417504Z,mcpg-cli-core,0.1.0-beta.39,0,0,https://github.com/mcpg-dev/mcpg-cli-core,"Shared plumbing for MCPG command-line tools: OIDC PKCE login + stored credentials, Bearer/license HTTP client, SSE phase-stream rendering, state-dir paths. Deliberately free of the control-plane serv…"
+2026-10-17T17:11:53.754792Z,nsh-platform-gpui,0.1.0,0,0,https://github.com/longbridge/native-shell,"GPUI backend (macOS, Windows, Linux): nsh apps drawn by GPUI, embeddable in GPUI and GPUI Kit apps."
+2026-10-17T17:12:21.952118Z,imajev-rs,0.1.0,0,0,https://github.com/apiplant/imajev-rs,Rust (candle) inference for the Imajev image decision model: typed answers with probabilities and an explicit can't-tell
+2026-10-17T17:13:03.204541Z,ironbeam-io-sql,5.0.0,0,0,https://github.com/nhubbard/ironbeam,SQL sources and append sinks for Ironbeam 5
+2026-10-17T17:16:18.264282Z,mcpg-cluster-api,0.1.0-beta.40,0,0,https://github.com/mcpg-dev/mcpg-cluster-api,"Trait surface for the MCPG cluster backbone. Exposes two orthogonal primitives that any cluster backend (single-node, redis, nats, …) can implement à la carte: - `KeyValueStore` — durable namespaced…"
+2026-10-17T17:18:22.629672Z,usfm_pipeline,0.1.0,0,0,https://github.com/mimbrown/usfm,Transformations and output dispatch over parsed USFM documents
