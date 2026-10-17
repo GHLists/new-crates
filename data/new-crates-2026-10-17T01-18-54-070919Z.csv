@@ -1,0 +1,20 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T00:26:18.683565Z,mylittlechart-backend,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,Shared data plane (bridge + bubble + indicators + trading + presets) for every mylittlechart consumer — embedded apps and the headless backend daemon.
+2026-10-17T00:29:52.84869Z,ferroui-themes-winui,0.1.0-preview.4,0,0,https://github.com/wieslawsoltes/FerroUI,"The FerroUI WinUI theme: the control styles, templates and theme resources of WinUI 3, in light, dark and high contrast variants"
+2026-10-17T00:36:14.390469Z,mylittlechart-app-sidebar-content,0.1.0,0,0,https://github.com/ZENG3LD/mylittlechart,Right-sidebar content rendering for the chart application.
+2026-10-17T00:43:47.12303Z,petr-protection,0.2.0,0,0,https://github.com/jameshuntt/petr,Portable protection requirements and capability negotiation for PETR execution and memory bridges.
+2026-10-17T00:43:49.9877Z,petr-affinity,0.2.0,0,0,https://github.com/jameshuntt/petr,CPU-set selection and optional operating-system thread affinity for PETR execution plans.
+2026-10-17T00:45:05.044941Z,whytime-abi,0.1.1,0,0,https://github.com/Arinerron/whytime,"Kernel/user ABI of whytime: ring buffer records, the per-task map value and shared constants"
+2026-10-17T00:45:06.969486Z,whytime-bpf,0.1.1,0,0,https://github.com/Arinerron/whytime,"whytime's BPF object (C CO-RE, compiled by clang in build.rs) and its ABI hash"
+2026-10-17T00:45:09.702895Z,whytime,0.1.1,0,0,https://github.com/Arinerron/whytime,"Explains where a command's wall-clock time went: off-CPU and on-CPU attribution across its process tree, from eBPF"
+2026-10-17T00:46:15.325375Z,mylittlechart-app-panels,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,Trading panel state and renderers hosted in chart sidebar slots.
+2026-10-17T00:50:08.996426Z,petr-temporal,0.2.0,0,0,https://github.com/jameshuntt/petr,"Temporal eligibility, phase clocks, cyclic execution and provenance-preserving temporal pointer authority for PETR."
+2026-10-17T00:50:12.799115Z,petr-hw,0.2.0,0,0,https://github.com/jameshuntt/petr,"Experimental AArch64 pointer-authentication and memory-tagging adapters for PETR, with portable software models."
+2026-10-17T00:51:34.00343Z,rok-sqlc,0.1.0,0,0,https://github.com/ateeq1999/rok-sqlc,Generate SQLx Rust database modules from SQL schema files
+2026-10-17T00:56:16.169207Z,mylittlechart-backend-shell-http,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,"Localhost Agent API for bar data, indicator snapshots, layout, and viewport commands."
+2026-10-17T00:58:03.657185Z,p-rs,0.0.1,0,0,https://github.com/crowecawcaw/p-rs,Placeholder for the P modeling language toolchain in Rust
+2026-10-17T00:59:29.368195Z,mise-system,0.0.0,0,0,https://github.com/jdx/mise,"The bootstrap, dotfiles, and history modules of mise (placeholder)"
+2026-10-17T01:03:57.729184Z,affidavit-core,26.10.16,0,0,https://github.com/seanchatmangpt/affidavit,"Zero-dependency, no_std, forbid(unsafe) reference verifier for affidavit receipt chains: make invalid receipts unrepresentable and verify them anywhere."
+2026-10-17T01:06:23.98674Z,mylittlechart-backend-shell-daemon,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,"Mode-2 backend daemon — Arc<BackendCore> + HTTP server, no embedded ChartApp. N external apps attach over HTTP/WS."
+2026-10-17T01:14:40.786394Z,scm-sdk,0.1.0,0,0,https://git.cdot.io/cdot/scm-sdk-rs,"Native async Strata Cloud Manager SDK, beginning with Prisma AIRS"
+2026-10-17T01:16:39.934447Z,mylittlechart-app,0.1.0,0,0,https://github.com/ZENG3LD/mylittlechart,"Chart application: one ChartApp, input routing, and the canvas handler."

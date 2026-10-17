@@ -8,38 +8,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 00:19 UTC
+## Latest list — 2026-10-17 01:18 UTC
 
-New crates published between 2026-10-16 23:19 UTC and 2026-10-17 00:19 UTC.
+New crates published between 2026-10-17 00:19 UTC and 2026-10-17 01:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-17T00-19-03-037114Z.csv)
+[Full CSV](data/new-crates-2026-10-17T01-18-54-070919Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-16 23:23:16 | [rustymath-buffer](https://crates.io/crates/rustymath-buffer) | 0.1.26 | 0 | The Python buffer protocol for rustymath's compact buffers, shared by rustymath… |
-| 2026-10-16 23:23:19 | [wolfpack-driver](https://crates.io/crates/wolfpack-driver) | 0.1.0 | 0 | The in-memory compiler pipeline of wolfpack. Internal part of wolfpack-lang, no… |
-| 2026-10-16 23:26:16 | [mylittlechart-app-layout](https://crates.io/crates/mylittlechart-app-layout) | 0.5.656 | 0 | Desktop/wasm frontend layer for mylittlechart — layout, render, ui widgets, hit… |
-| 2026-10-16 23:33:19 | [wolfpack-fmt](https://crates.io/crates/wolfpack-fmt) | 0.1.0 | 0 | The formatter of wolfpack source, wolf fmt. Internal part of wolfpack-lang, not… |
-| 2026-10-16 23:36:18 | [mylittlechart-app-render-context-vello](https://crates.io/crates/mylittlechart-app-render-context-vello) | 0.5.656 | 0 | VelloGpuRenderContext — chart-aware wrapper delegating to uzor-backend-vello-gpu |
-| 2026-10-16 23:43:22 | [wolfpack-lang](https://crates.io/crates/wolfpack-lang) | 0.1.0 | 0 | Wolfpack: a language that compiles to readable TypeScript, Go and Rust. The wol… |
-| 2026-10-16 23:46:12 | [mylittlechart-app-render-context-vello-cpu](https://crates.io/crates/mylittlechart-app-render-context-vello-cpu) | 0.1.0 | 0 | VelloCpuChartRenderContext, a chart-aware wrapper over the Vello CPU backend. |
-| 2026-10-16 23:52:16 | [rdf-structural-model](https://crates.io/crates/rdf-structural-model) | 0.1.0 | 0 | Owned and borrowed RDF 1.2 structural values with typed extensions and format-n… |
-| 2026-10-16 23:53:56 | [rig-harness-protocol](https://crates.io/crates/rig-harness-protocol) | 0.44.0 | 0 | The protocol between the rig launcher and the rig-harness agent: the RIG_HOME l… |
-| 2026-10-16 23:56:15 | [mylittlechart-app-render-context-vello-hybrid](https://crates.io/crates/mylittlechart-app-render-context-vello-hybrid) | 0.1.0 | 0 | VelloHybridChartRenderContext, a chart-aware wrapper over the Vello hybrid back… |
-| 2026-10-16 23:59:10 | [active-ls](https://crates.io/crates/active-ls) | 0.1.0 | 0 | Reserved name of the Active language project — the real language server ships i… |
-| 2026-10-16 23:59:17 | [active-fuzz](https://crates.io/crates/active-fuzz) | 0.1.0 | 0 | Reserved name of the Active language project — the fuzz harness lives in-repo u… |
-| 2026-10-17 00:01:39 | [gmt_dos-actors_flowchart](https://crates.io/crates/gmt_dos-actors_flowchart) | 0.1.0 | 0 | GMT DOS Actors model flowcharts |
-| 2026-10-17 00:02:50 | [zsuite-typst](https://crates.io/crates/zsuite-typst) | 0.1.0 | 0 | One Typst world for a page: preview as SVG, and export to PDF, PowerPoint and W… |
-| 2026-10-17 00:02:51 | [zsuite-veil](https://crates.io/crates/zsuite-veil) | 0.1.0 | 0 | Finds names, numbers and glossary terms in text and swaps them for tokens that… |
-| 2026-10-17 00:02:53 | [zsuite-finder](https://crates.io/crates/zsuite-finder) | 0.1.0 | 0 | Runs a GLiNER name finder on the CPU and downloads checked model files. |
-| 2026-10-17 00:02:55 | [zsuite-sealed](https://crates.io/crates/zsuite-sealed) | 0.1.0 | 0 | An encrypted SQLCipher file that keeps a glossary, the tokens of hidden text an… |
-| 2026-10-17 00:02:58 | [zsuite-agent](https://crates.io/crates/zsuite-agent) | 0.1.0 | 0 | An assistant that reads and edits a folder of pages through Claude Code or an O… |
-| 2026-10-17 00:06:15 | [mylittlechart-app-render-context-instanced](https://crates.io/crates/mylittlechart-app-render-context-instanced) | 0.1.0 | 0 | InstancedChartRenderContext, a chart-aware instanced renderer. |
-| 2026-10-17 00:12:32 | [flufidb](https://crates.io/crates/flufidb) | 0.1.0 | 0 | A tiny async file-based database |
-| 2026-10-17 00:13:19 | [abtestify](https://crates.io/crates/abtestify) | 0.3.0 | 0 | Deterministic A/B test bucketing with per-experiment hashing, exposure and spli… |
-| 2026-10-17 00:13:58 | [tauri-plugin-zsuite-assistant](https://crates.io/crates/tauri-plugin-zsuite-assistant) | 0.1.0 | 0 | The zsuite assistant and its privacy settings as a Tauri plugin: chats, provide… |
-| 2026-10-17 00:16:13 | [mylittlechart-app-render-context-tiny-skia](https://crates.io/crates/mylittlechart-app-render-context-tiny-skia) | 0.5.656 | 0 | TinySkiaChartRenderContext, a chart-aware wrapper over tiny-skia. |
-| 2026-10-17 00:18:48 | [kext2](https://crates.io/crates/kext2) | 0.1.0 | 0 | Build ext2 filesystem images from directories, tar archives and device tables,… |
+| 2026-10-17 00:26:18 | [mylittlechart-backend](https://crates.io/crates/mylittlechart-backend) | 0.5.656 | 0 | Shared data plane (bridge + bubble + indicators + trading + presets) for every… |
+| 2026-10-17 00:29:52 | [ferroui-themes-winui](https://crates.io/crates/ferroui-themes-winui) | 0.1.0-preview.4 | 0 | The FerroUI WinUI theme: the control styles, templates and theme resources of W… |
+| 2026-10-17 00:36:14 | [mylittlechart-app-sidebar-content](https://crates.io/crates/mylittlechart-app-sidebar-content) | 0.1.0 | 0 | Right-sidebar content rendering for the chart application. |
+| 2026-10-17 00:43:47 | [petr-protection](https://crates.io/crates/petr-protection) | 0.2.0 | 0 | Portable protection requirements and capability negotiation for PETR execution… |
+| 2026-10-17 00:43:49 | [petr-affinity](https://crates.io/crates/petr-affinity) | 0.2.0 | 0 | CPU-set selection and optional operating-system thread affinity for PETR execut… |
+| 2026-10-17 00:45:05 | [whytime-abi](https://crates.io/crates/whytime-abi) | 0.1.1 | 0 | Kernel/user ABI of whytime: ring buffer records, the per-task map value and sha… |
+| 2026-10-17 00:45:06 | [whytime-bpf](https://crates.io/crates/whytime-bpf) | 0.1.1 | 0 | whytime's BPF object (C CO-RE, compiled by clang in build.rs) and its ABI hash |
+| 2026-10-17 00:45:09 | [whytime](https://crates.io/crates/whytime) | 0.1.1 | 0 | Explains where a command's wall-clock time went: off-CPU and on-CPU attribution… |
+| 2026-10-17 00:46:15 | [mylittlechart-app-panels](https://crates.io/crates/mylittlechart-app-panels) | 0.5.656 | 0 | Trading panel state and renderers hosted in chart sidebar slots. |
+| 2026-10-17 00:50:08 | [petr-temporal](https://crates.io/crates/petr-temporal) | 0.2.0 | 0 | Temporal eligibility, phase clocks, cyclic execution and provenance-preserving… |
+| 2026-10-17 00:50:12 | [petr-hw](https://crates.io/crates/petr-hw) | 0.2.0 | 0 | Experimental AArch64 pointer-authentication and memory-tagging adapters for PET… |
+| 2026-10-17 00:51:34 | [rok-sqlc](https://crates.io/crates/rok-sqlc) | 0.1.0 | 0 | Generate SQLx Rust database modules from SQL schema files |
+| 2026-10-17 00:56:16 | [mylittlechart-backend-shell-http](https://crates.io/crates/mylittlechart-backend-shell-http) | 0.5.656 | 0 | Localhost Agent API for bar data, indicator snapshots, layout, and viewport com… |
+| 2026-10-17 00:58:03 | [p-rs](https://crates.io/crates/p-rs) | 0.0.1 | 0 | Placeholder for the P modeling language toolchain in Rust |
+| 2026-10-17 00:59:29 | [mise-system](https://crates.io/crates/mise-system) | 0.0.0 | 0 | The bootstrap, dotfiles, and history modules of mise (placeholder) |
+| 2026-10-17 01:03:57 | [affidavit-core](https://crates.io/crates/affidavit-core) | 26.10.16 | 0 | Zero-dependency, no_std, forbid(unsafe) reference verifier for affidavit receip… |
+| 2026-10-17 01:06:23 | [mylittlechart-backend-shell-daemon](https://crates.io/crates/mylittlechart-backend-shell-daemon) | 0.5.656 | 0 | Mode-2 backend daemon — Arc<BackendCore> + HTTP server, no embedded ChartApp. N… |
+| 2026-10-17 01:14:40 | [scm-sdk](https://crates.io/crates/scm-sdk) | 0.1.0 | 0 | Native async Strata Cloud Manager SDK, beginning with Prisma AIRS |
+| 2026-10-17 01:16:39 | [mylittlechart-app](https://crates.io/crates/mylittlechart-app) | 0.1.0 | 0 | Chart application: one ChartApp, input routing, and the canvas handler. |
 
 ## Data source
 
