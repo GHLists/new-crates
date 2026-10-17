@@ -8,23 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 08:19 UTC
+## Latest list — 2026-10-17 09:18 UTC
 
-New crates published between 2026-10-17 07:18 UTC and 2026-10-17 08:19 UTC.
+New crates published between 2026-10-17 08:19 UTC and 2026-10-17 09:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-17T08-19-56-145919Z.csv)
+[Full CSV](data/new-crates-2026-10-17T09-18-25-383616Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-17 07:19:36 | [vodnik](https://crates.io/crates/vodnik) | 0.22.1 | 0 | On-demand HLS and DASH packaging for MP4 files: serves fragmented MP4 straight… |
-| 2026-10-17 07:27:44 | [database-mcp-rs-mariadb](https://crates.io/crates/database-mcp-rs-mariadb) | 0.1.0 | 0 | MCP server for MariaDB with read-only guardrails, row caps, and statement timeo… |
-| 2026-10-17 07:31:00 | [girt-cli](https://crates.io/crates/girt-cli) | 0.1.0 | 0 | Command-line tool for inspecting and benchmarking Git repositories with girt |
-| 2026-10-17 07:43:39 | [khagole-engine](https://crates.io/crates/khagole-engine) | 0.0.12 | 0 | High-precision Vedic Jyotish & Astrometric calculation engine on JPL ephemerides |
-| 2026-10-17 07:51:09 | [nettrash-a](https://crates.io/crates/nettrash-a) | 0.0.2 | 0 | A library of algorithms in Rust |
-| 2026-10-17 08:05:13 | [khagole-mcp](https://crates.io/crates/khagole-mcp) | 0.0.12 | 0 | Model Context Protocol (MCP) server for Khagole Vedic Jyotish & JPL ephemerides |
-| 2026-10-17 08:11:01 | [readstack](https://crates.io/crates/readstack) | 1.0.0 | 0 | A single-user RSS aggregator. |
-| 2026-10-17 08:11:40 | [evercoil](https://crates.io/crates/evercoil) | 0.0.0 | 0 | Shared building blocks for Evercoil projects, such as TUI components. Work in p… |
-| 2026-10-17 08:19:54 | [shadcn-iced](https://crates.io/crates/shadcn-iced) | 0.0.0 | 0 | shadcn/ui components for iced (in development; no components in this release) |
+| 2026-10-17 08:29:47 | [llm-suite-codec](https://crates.io/crates/llm-suite-codec) | 0.1.0 | 0 | Provider codec layer for llm-suite |
+| 2026-10-17 08:29:54 | [omi](https://crates.io/crates/omi) | 1.0.0 | 0 | Omi, the Omarchy mascot: its kit (every mode, as data) and a player that plays… |
+| 2026-10-17 08:29:56 | [llm-suite-embedding](https://crates.io/crates/llm-suite-embedding) | 0.1.0 | 0 | Embedding client for LLM providers |
+| 2026-10-17 08:30:01 | [llm-suite-chat-basic](https://crates.io/crates/llm-suite-chat-basic) | 0.1.0 | 0 | Basic chat completion client for LLM providers |
+| 2026-10-17 08:30:08 | [llm-suite-rerank](https://crates.io/crates/llm-suite-rerank) | 0.1.0 | 0 | Reranking client for LLM providers |
+| 2026-10-17 08:30:22 | [llm-suite-client](https://crates.io/crates/llm-suite-client) | 0.1.0 | 0 | Unified LLM client abstraction |
+| 2026-10-17 08:38:06 | [beaconcrypt-core](https://crates.io/crates/beaconcrypt-core) | 0.1.0 | 0 | Protocol state transitions for beaconcrypt |
+| 2026-10-17 08:39:40 | [llm-suite-config](https://crates.io/crates/llm-suite-config) | 0.1.0 | 0 | Configuration and provider registry for llm-suite |
+| 2026-10-17 08:42:07 | [sutegi-log](https://crates.io/crates/sutegi-log) | 0.12.0 | 0 | Structured, context-carrying logging for sutegi: levels, per-target filters, JS… |
+| 2026-10-17 08:47:02 | [grfsh](https://crates.io/crates/grfsh) | 1.0.2 | 0 | A small Unix shell with bash style scripting, typed table pipelines and an agen… |
+| 2026-10-17 08:49:15 | [code-buster](https://crates.io/crates/code-buster) | 0.10.0 | 0 | Repository-aware static analysis for AI-assisted development |
+| 2026-10-17 08:49:41 | [crates-city-ua](https://crates.io/crates/crates-city-ua) | 0.1.0 | 0 | Placeholder crate for predefined User-Agent values |
+| 2026-10-17 08:53:05 | [llm-suite-gateway](https://crates.io/crates/llm-suite-gateway) | 0.1.0 | 0 | Request routing gateway for LLM clients |
+| 2026-10-17 09:03:59 | [ihsg-cli](https://crates.io/crates/ihsg-cli) | 0.4.0 | 0 | Indonesian stock market (IDX / IHSG) analysis: the `idx` CLI and MCP server for… |
+| 2026-10-17 09:12:26 | [tryst](https://crates.io/crates/tryst) | 0.0.1 | 0 | Rooms that interoperate with Trystero 0.25 peers: signalling, signal crypto, th… |
+| 2026-10-17 09:13:14 | [compograph-types](https://crates.io/crates/compograph-types) | 0.1.0 | 0 | Geometry primitives for compograph |
+| 2026-10-17 09:13:28 | [compograph-geometry](https://crates.io/crates/compograph-geometry) | 0.1.0 | 0 | Hit testing and curve geometry for compograph |
+| 2026-10-17 09:13:53 | [misarpost](https://crates.io/crates/misarpost) | 1.0.0 | 0 | Async Rust client for MisarPost's social publishing API: schedule and publish p… |
+| 2026-10-17 09:14:02 | [misardev](https://crates.io/crates/misardev) | 1.0.0 | 0 | Async Rust client for the Misar.Dev API: create projects, write files, build an… |
+| 2026-10-17 09:14:05 | [misarseo](https://crates.io/crates/misarseo) | 1.0.0 | 0 | Async Rust client for the MisarSEO API: keyword research, site audits, rank tra… |
+| 2026-10-17 09:14:52 | [compograph-graph](https://crates.io/crates/compograph-graph) | 0.1.0 | 0 | Graph storage and change events for compograph |
 
 ## Data source
 

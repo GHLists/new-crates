@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T08:29:47.58456Z,llm-suite-codec,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,Provider codec layer for llm-suite
+2026-10-17T08:29:54.671973Z,omi,1.0.0,0,0,https://github.com/tahayvr/omi,"Omi, the Omarchy mascot: its kit (every mode, as data) and a player that plays it, as a list of rects to fill"
+2026-10-17T08:29:56.360385Z,llm-suite-embedding,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,Embedding client for LLM providers
+2026-10-17T08:30:01.258201Z,llm-suite-chat-basic,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,Basic chat completion client for LLM providers
+2026-10-17T08:30:08.204095Z,llm-suite-rerank,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,Reranking client for LLM providers
+2026-10-17T08:30:22.714916Z,llm-suite-client,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,Unified LLM client abstraction
+2026-10-17T08:38:06.96423Z,beaconcrypt-core,0.1.0,0,0,https://github.com/0xd6cb6d73/beaconcrypt,Protocol state transitions for beaconcrypt
+2026-10-17T08:39:40.168103Z,llm-suite-config,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,Configuration and provider registry for llm-suite
+2026-10-17T08:42:07.595316Z,sutegi-log,0.12.0,0,0,https://github.com/enekos/sutegi,"Structured, context-carrying logging for sutegi: levels, per-target filters, JSON or text lines, request/job scopes."
+2026-10-17T08:47:02.440726Z,grfsh,1.0.2,0,0,https://github.com/gdprojectsss/goRustlyFast,"A small Unix shell with bash style scripting, typed table pipelines and an agent mode"
+2026-10-17T08:49:15.912818Z,code-buster,0.10.0,0,0,https://github.com/tool-bunker/code-buster,Repository-aware static analysis for AI-assisted development
+2026-10-17T08:49:41.077479Z,crates-city-ua,0.1.0,0,0,,Placeholder crate for predefined User-Agent values
+2026-10-17T08:53:05.268954Z,llm-suite-gateway,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,Request routing gateway for LLM clients
+2026-10-17T09:03:59.268349Z,ihsg-cli,0.4.0,0,0,https://github.com/fzn0x/idx,"Indonesian stock market (IDX / IHSG) analysis: the `idx` CLI and MCP server for people and AI agents, free public data"
+2026-10-17T09:12:26.906176Z,tryst,0.0.1,0,0,https://github.com/stan-ely/qrdrop,"Rooms that interoperate with Trystero 0.25 peers: signalling, signal crypto, the action wire and the handshake"
+2026-10-17T09:13:14.93496Z,compograph-types,0.1.0,0,0,,Geometry primitives for compograph
+2026-10-17T09:13:28.677061Z,compograph-geometry,0.1.0,0,0,,Hit testing and curve geometry for compograph
+2026-10-17T09:13:53.671691Z,misarpost,1.0.0,0,0,https://github.com/Misar-AI/misarpost-sdks,"Async Rust client for MisarPost's social publishing API: schedule and publish posts across every connected channel, generate and repurpose content with AI, research trends, run PersonaForge and read…"
+2026-10-17T09:14:02.569495Z,misardev,1.0.0,0,0,https://github.com/Misar-AI/misardev-sdks,"Async Rust client for the Misar.Dev API: create projects, write files, build and deploy, start from templates, run OpenAI-compatible chat completions, search code and read usage. Retries, typed plan-…"
+2026-10-17T09:14:05.92801Z,misarseo,1.0.0,0,0,https://github.com/Misar-AI/misarseo-sdks,"Async Rust client for the MisarSEO API: keyword research, site audits, rank tracking, backlinks, AI search visibility, Search Console, GA4 and Business Profile. 221 methods, retries, typed plan-limit…"
+2026-10-17T09:14:52.35336Z,compograph-graph,0.1.0,0,0,,Graph storage and change events for compograph
