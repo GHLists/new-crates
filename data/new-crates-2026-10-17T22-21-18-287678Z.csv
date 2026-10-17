@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T21:18:45.732815Z,nedb-wasm,11.12.15,0,0,https://github.com/aiassistsecure/nedb,NEDB v2 engine for the browser — wasm-bindgen bindings over the in-memory Db
+2026-10-17T21:19:45.523328Z,dependency-factory-derive,0.0.1,0,0,https://github.com/jeffparsons/dependency-factory,Derive macros for the `dependency-factory` crate.
+2026-10-17T21:19:47.812708Z,dependency-factory,0.0.1,0,0,https://github.com/jeffparsons/dependency-factory,Type-safe dependency-injection container with auto-building of singletons and query-keyed resources.
+2026-10-17T21:24:32.793714Z,ferrodock,1.6.0,0,0,https://github.com/manimovassagh/Ferrodock,"A fast, native container manager for Docker, written in Rust."
+2026-10-17T21:24:40.346987Z,kuizer,0.1.1,0,0,https://github.com/remcostoeten/kuizer,"Keyboard-driven disk cleanup for developers: generated artifacts, caches and duplicates"
+2026-10-17T21:27:32.871178Z,bcode_model_provider_runtime,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Reusable model provider plugin turn runtime for bcode
+2026-10-17T21:28:38.667023Z,kuizer-gui,0.1.1,0,0,https://github.com/remcostoeten/kuizer,"Desktop interface for kuizer, built on GPUI"
+2026-10-17T21:29:41.926679Z,bromlife-sys,0.1.0,0,0,https://codeberg.org/gemmaro/oml,Bindings to libbromlife for O Markup Language parsing.
+2026-10-17T21:29:53.239216Z,bromlife,0.1.0,0,0,https://codeberg.org/gemmaro/oml,Bindings to libbromlife for O Markup Language parsing.
+2026-10-17T21:35:33.340561Z,pertaro,0.1.0,0,0,https://github.com/13forge/pertaro,"Cache-resident 256-byte neuro-symbolic micro-experts via xorshift64 seed compression, 5-tier ternary tries (3^5 = 243), and in-band stable-model regrounding."
+2026-10-17T21:37:32.827241Z,bcode_auth_broker_provider_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Normalized scoped model gateway provider for Bcode
+2026-10-17T21:43:37.686873Z,yarlg,0.1.0,0,0,https://github.com/paoloanzn/yarlg,A blazingly fast Lexer generator library.
+2026-10-17T21:45:00.699808Z,tsuk,0.1.1,0,0,,Expose local servers to the internet through a tunnel
+2026-10-17T21:47:32.59984Z,bcode_config,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Configuration loading for bcode
+2026-10-17T21:49:13.124111Z,bupha-config-toml,0.1.0,0,0,https://github.com/9aia/bupha,"Config impl: bupha.toml file (explicit path, env, ./, ~/.config)"
+2026-10-17T21:49:15.963182Z,bupha-runner,0.1.0,0,0,https://github.com/9aia/bupha,Runner port: how a job becomes a spawned process
+2026-10-17T21:49:18.521539Z,bupha-secret,0.1.0,0,0,https://github.com/9aia/bupha,Secret port: resolve named secrets from storage
+2026-10-17T21:52:38.125705Z,ahe,0.1.0,0,0,https://github.com/Unka-Malloc/Agent-Hook-Engine,Agent Hook Engine — one hook DSL evaluated by a common runtime and lowered onto every agent harness's native hook surface.
+2026-10-17T21:57:32.259353Z,bcode_model_schema,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Portable model-output JSON Schema normalization for bcode
+2026-10-17T21:58:47.093396Z,bupha-vcs,0.1.0,0,0,https://github.com/9aia/bupha,Vcs port: VCS operations for repos and worktrees
+2026-10-17T22:05:28.410368Z,tspm,2.4.0,0,0,https://github.com/LebedevKondakovSergeyVach/Terminal-Session-Proxy-Manager,"Terminal-session SOCKS/HTTP proxy profiles, latency checks and shell environment exports"
+2026-10-17T22:07:13.093273Z,bupha-status,0.1.0,0,0,https://github.com/9aia/bupha,StatusSink port: where run outcomes are reported
+2026-10-17T22:07:32.631528Z,bcode_openai_responses,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,OpenAI Responses API wire format for bcode
+2026-10-17T22:17:21.754905Z,regexed,0.0.1,0,0,,"Ahead-of-time compiled regular expressions (placeholder, not yet usable)"
+2026-10-17T22:17:23.630052Z,regexed-macros,0.0.1,0,0,,"Procedural macros for regexed (placeholder, not yet usable)"
+2026-10-17T22:17:25.693964Z,rexed,0.0.1,0,0,,"Ahead-of-time compiled regular expressions (placeholder, not yet usable)"
+2026-10-17T22:17:27.006917Z,rexed-macros,0.0.1,0,0,,"Procedural macros for rexed (placeholder, not yet usable)"
+2026-10-17T22:17:32.569221Z,bcode_bedrock_provider_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Amazon Bedrock model provider plugin for bcode

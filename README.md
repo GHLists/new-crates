@@ -8,45 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 21:18 UTC
+## Latest list — 2026-10-17 22:21 UTC
 
-New crates published between 2026-10-17 20:19 UTC and 2026-10-17 21:18 UTC.
+New crates published between 2026-10-17 21:18 UTC and 2026-10-17 22:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-17T21-18-28-005889Z.csv)
+[Full CSV](data/new-crates-2026-10-17T22-21-18-287678Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-17 20:21:21 | [pzmap2img](https://crates.io/crates/pzmap2img) | 0.1.0 | 0 | Builds an optimized runtime representation of a Project Zomboid map and renders… |
-| 2026-10-17 20:27:32 | [bcode_session_view_models](https://crates.io/crates/bcode_session_view_models) | 0.0.1-alpha.0 | 0 | Renderer-neutral session view models for bcode |
-| 2026-10-17 20:29:39 | [sonvik](https://crates.io/crates/sonvik) | 0.1.0 | 0 | Local-first, Git-native API verification |
-| 2026-10-17 20:29:57 | [sdigest](https://crates.io/crates/sdigest) | 0.2.1 | 0 | Fast, tunable sparse digests: fingerprint files by hashing their size and a sam… |
-| 2026-10-17 20:31:49 | [tussl-chemistry](https://crates.io/crates/tussl-chemistry) | 0.1.0 | 0 | Names a single-cell RNA library's layout (kit, chemistry, barcode list, strand,… |
-| 2026-10-17 20:32:38 | [agent-ext](https://crates.io/crates/agent-ext) | 0.1.0 | 0 | Agent extension points: SKILL.md discovery with a deferred skill tool, and Clau… |
-| 2026-10-17 20:32:46 | [llm-wire](https://crates.io/crates/llm-wire) | 0.1.0 | 0 | The provider contract for LLM agent loops: the Provider trait, the neutral requ… |
-| 2026-10-17 20:32:48 | [app-home](https://crates.io/crates/app-home) | 0.1.0 | 0 | Resolve the user home, an app's `$APP_HOME` or `~/.app`, and XDG config/data/ca… |
-| 2026-10-17 20:32:50 | [atomic-replace](https://crates.io/crates/atomic-replace) | 0.1.0 | 0 | Replace a file atomically: write a sibling temp file, keep the old permissions… |
-| 2026-10-17 20:33:03 | [cargo-changed-packages](https://crates.io/crates/cargo-changed-packages) | 0.1.0 | 0 | Workspace packages a set of changed paths affects, including reverse dependenci… |
-| 2026-10-17 20:37:32 | [bcode_usage_models](https://crates.io/crates/bcode_usage_models) | 0.0.1-alpha.0 | 0 | Portable usage reporting contracts for Bcode |
-| 2026-10-17 20:37:40 | [pzmap-tools](https://crates.io/crates/pzmap-tools) | 0.1.0 | 0 | Command-line tools for Project Zomboid map files, built on libpzmap. |
-| 2026-10-17 20:43:01 | [nadir-rs](https://crates.io/crates/nadir-rs) | 0.0.0 | 0 | placeholder |
-| 2026-10-17 20:47:32 | [bcode_workflow_view_models](https://crates.io/crates/bcode_workflow_view_models) | 0.0.1-alpha.0 | 0 | Renderer-neutral workflow view models for bcode |
-| 2026-10-17 20:49:52 | [geoquery](https://crates.io/crates/geoquery) | 0.0.0 | 0 | placeholder |
-| 2026-10-17 20:50:05 | [moult](https://crates.io/crates/moult) | 0.1.0 | 0 | English noun inflection (singularize, pluralize) checked against Open English W… |
-| 2026-10-17 20:52:48 | [isa-core](https://crates.io/crates/isa-core) | 0.1.0 | 0 | A small instruction-set core: decoded listings, first-party SBF and RV32 decode… |
-| 2026-10-17 20:52:59 | [concolic-core](https://crates.io/crates/concolic-core) | 0.1.0 | 0 | Architecture-neutral concolic explore loop, report contract and outcome ledger |
-| 2026-10-17 20:53:01 | [sbf-state](https://crates.io/crates/sbf-state) | 0.1.0 | 0 | SBF chain-state model: paged CoW memory, symbolic regions, the account-context… |
-| 2026-10-17 20:53:18 | [sbf-run](https://crates.io/crates/sbf-run) | 0.1.0 | 0 | Deterministic Wasmtime runner for lifted SBF modules over sbf-state SeedStates |
-| 2026-10-17 20:53:35 | [sbf-symex](https://crates.io/crates/sbf-symex) | 0.1.0 | 0 | Pure symbolic execution over lifted SBF listings: taint as term provenance, inv… |
-| 2026-10-17 20:57:32 | [bcode_workflow](https://crates.io/crates/bcode_workflow) | 0.0.1-alpha.0 | 0 | Typed workflow composition and in-process execution for bcode |
-| 2026-10-17 21:00:42 | [symex](https://crates.io/crates/symex) | 0.0.0 | 0 | Directed bounded symbolic executor over isa_core disassembly, on the smtlite SM… |
-| 2026-10-17 21:01:42 | [scad-deps](https://crates.io/crates/scad-deps) | 0.1.0 | 0 | Dependency manager for OpenSCAD-language projects: scad.toml, scad.lock, a per-… |
-| 2026-10-17 21:07:32 | [bcode_plugin_sdk](https://crates.io/crates/bcode_plugin_sdk) | 0.0.1-alpha.0 | 0 | Plugin author SDK for bcode |
-| 2026-10-17 21:16:55 | [bupha-cache](https://crates.io/crates/bupha-cache) | 0.1.0 | 0 | Cache port: artifact-cache backend for runners |
-| 2026-10-17 21:16:59 | [bupha-cache-sccache](https://crates.io/crates/bupha-cache-sccache) | 0.1.0 | 0 | Cache impl: sccache-compatible conf (file/S3/R2/GCS via conf) |
-| 2026-10-17 21:17:02 | [bupha-core](https://crates.io/crates/bupha-core) | 0.1.0 | 0 | bupha domain core: config types, job queues, shared primitives — no ports, no i… |
-| 2026-10-17 21:17:05 | [bupha-tunnel](https://crates.io/crates/bupha-tunnel) | 0.1.0 | 0 | Tunnel port: expose the webhook listener publicly |
-| 2026-10-17 21:17:08 | [bupha-config](https://crates.io/crates/bupha-config) | 0.1.0 | 0 | Config port: where bupha.toml-shaped config comes from |
-| 2026-10-17 21:17:32 | [bcode_auth_broker_plugin](https://crates.io/crates/bcode_auth_broker_plugin) | 0.0.1-alpha.0 | 0 | Single-owner GitHub OIDC model broker for Bcode |
+| 2026-10-17 21:18:45 | [nedb-wasm](https://crates.io/crates/nedb-wasm) | 11.12.15 | 0 | NEDB v2 engine for the browser — wasm-bindgen bindings over the in-memory Db |
+| 2026-10-17 21:19:45 | [dependency-factory-derive](https://crates.io/crates/dependency-factory-derive) | 0.0.1 | 0 | Derive macros for the `dependency-factory` crate. |
+| 2026-10-17 21:19:47 | [dependency-factory](https://crates.io/crates/dependency-factory) | 0.0.1 | 0 | Type-safe dependency-injection container with auto-building of singletons and q… |
+| 2026-10-17 21:24:32 | [ferrodock](https://crates.io/crates/ferrodock) | 1.6.0 | 0 | A fast, native container manager for Docker, written in Rust. |
+| 2026-10-17 21:24:40 | [kuizer](https://crates.io/crates/kuizer) | 0.1.1 | 0 | Keyboard-driven disk cleanup for developers: generated artifacts, caches and du… |
+| 2026-10-17 21:27:32 | [bcode_model_provider_runtime](https://crates.io/crates/bcode_model_provider_runtime) | 0.0.1-alpha.0 | 0 | Reusable model provider plugin turn runtime for bcode |
+| 2026-10-17 21:28:38 | [kuizer-gui](https://crates.io/crates/kuizer-gui) | 0.1.1 | 0 | Desktop interface for kuizer, built on GPUI |
+| 2026-10-17 21:29:41 | [bromlife-sys](https://crates.io/crates/bromlife-sys) | 0.1.0 | 0 | Bindings to libbromlife for O Markup Language parsing. |
+| 2026-10-17 21:29:53 | [bromlife](https://crates.io/crates/bromlife) | 0.1.0 | 0 | Bindings to libbromlife for O Markup Language parsing. |
+| 2026-10-17 21:35:33 | [pertaro](https://crates.io/crates/pertaro) | 0.1.0 | 0 | Cache-resident 256-byte neuro-symbolic micro-experts via xorshift64 seed compre… |
+| 2026-10-17 21:37:32 | [bcode_auth_broker_provider_plugin](https://crates.io/crates/bcode_auth_broker_provider_plugin) | 0.0.1-alpha.0 | 0 | Normalized scoped model gateway provider for Bcode |
+| 2026-10-17 21:43:37 | [yarlg](https://crates.io/crates/yarlg) | 0.1.0 | 0 | A blazingly fast Lexer generator library. |
+| 2026-10-17 21:45:00 | [tsuk](https://crates.io/crates/tsuk) | 0.1.1 | 0 | Expose local servers to the internet through a tunnel |
+| 2026-10-17 21:47:32 | [bcode_config](https://crates.io/crates/bcode_config) | 0.0.1-alpha.0 | 0 | Configuration loading for bcode |
+| 2026-10-17 21:49:13 | [bupha-config-toml](https://crates.io/crates/bupha-config-toml) | 0.1.0 | 0 | Config impl: bupha.toml file (explicit path, env, ./, ~/.config) |
+| 2026-10-17 21:49:15 | [bupha-runner](https://crates.io/crates/bupha-runner) | 0.1.0 | 0 | Runner port: how a job becomes a spawned process |
+| 2026-10-17 21:49:18 | [bupha-secret](https://crates.io/crates/bupha-secret) | 0.1.0 | 0 | Secret port: resolve named secrets from storage |
+| 2026-10-17 21:52:38 | [ahe](https://crates.io/crates/ahe) | 0.1.0 | 0 | Agent Hook Engine — one hook DSL evaluated by a common runtime and lowered onto… |
+| 2026-10-17 21:57:32 | [bcode_model_schema](https://crates.io/crates/bcode_model_schema) | 0.0.1-alpha.0 | 0 | Portable model-output JSON Schema normalization for bcode |
+| 2026-10-17 21:58:47 | [bupha-vcs](https://crates.io/crates/bupha-vcs) | 0.1.0 | 0 | Vcs port: VCS operations for repos and worktrees |
+| 2026-10-17 22:05:28 | [tspm](https://crates.io/crates/tspm) | 2.4.0 | 0 | Terminal-session SOCKS/HTTP proxy profiles, latency checks and shell environmen… |
+| 2026-10-17 22:07:13 | [bupha-status](https://crates.io/crates/bupha-status) | 0.1.0 | 0 | StatusSink port: where run outcomes are reported |
+| 2026-10-17 22:07:32 | [bcode_openai_responses](https://crates.io/crates/bcode_openai_responses) | 0.0.1-alpha.0 | 0 | OpenAI Responses API wire format for bcode |
+| 2026-10-17 22:17:21 | [regexed](https://crates.io/crates/regexed) | 0.0.1 | 0 | Ahead-of-time compiled regular expressions (placeholder, not yet usable) |
+| 2026-10-17 22:17:23 | [regexed-macros](https://crates.io/crates/regexed-macros) | 0.0.1 | 0 | Procedural macros for regexed (placeholder, not yet usable) |
+| 2026-10-17 22:17:25 | [rexed](https://crates.io/crates/rexed) | 0.0.1 | 0 | Ahead-of-time compiled regular expressions (placeholder, not yet usable) |
+| 2026-10-17 22:17:27 | [rexed-macros](https://crates.io/crates/rexed-macros) | 0.0.1 | 0 | Procedural macros for rexed (placeholder, not yet usable) |
+| 2026-10-17 22:17:32 | [bcode_bedrock_provider_plugin](https://crates.io/crates/bcode_bedrock_provider_plugin) | 0.0.1-alpha.0 | 0 | Amazon Bedrock model provider plugin for bcode |
 
 ## Data source
 
