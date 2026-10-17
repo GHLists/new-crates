@@ -8,38 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 10:18 UTC
+## Latest list — 2026-10-17 11:18 UTC
 
-New crates published between 2026-10-17 09:18 UTC and 2026-10-17 10:18 UTC.
+New crates published between 2026-10-17 10:18 UTC and 2026-10-17 11:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-17T10-18-24-774452Z.csv)
+[Full CSV](data/new-crates-2026-10-17T11-18-28-145903Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-17 09:22:02 | [airthings-client](https://crates.io/crates/airthings-client) | 0.1.0 | 0 | Client for the Airthings Consumer API, with OAuth sign-in and token refresh |
-| 2026-10-17 09:22:30 | [airdash-core](https://crates.io/crates/airdash-core) | 0.1.0 | 0 | Refreshing, credential storage and the saved app state for AirDash |
-| 2026-10-17 09:23:18 | [airdash](https://crates.io/crates/airdash) | 0.1.0 | 0 | Desktop dashboard for Airthings air quality monitors |
-| 2026-10-17 09:25:24 | [ic-wire-derive](https://crates.io/crates/ic-wire-derive) | 0.3.1 | 0 | Explicit-layout Wire derives for ic-wire bounded contracts |
-| 2026-10-17 09:25:26 | [ic-wire](https://crates.io/crates/ic-wire) | 0.3.1 | 0 | Bounded canonical Postcard contracts for controlled Internet Computer endpoints |
-| 2026-10-17 09:26:35 | [compograph-layout](https://crates.io/crates/compograph-layout) | 0.1.0 | 0 | Graph layout engine for compograph |
-| 2026-10-17 09:35:13 | [rf-copy](https://crates.io/crates/rf-copy) | 0.1.1 | 0 | Copy paths or file references to the macOS clipboard; archive directories as ta… |
-| 2026-10-17 09:37:32 | [seo-jaro-core](https://crates.io/crates/seo-jaro-core) | 0.2.0 | 0 | Core SEO content generation, keyword clustering, and on-page auditing engine in… |
-| 2026-10-17 09:38:42 | [compograph-render](https://crates.io/crates/compograph-render) | 0.1.0 | 0 | Graph canvas rendering for compograph |
-| 2026-10-17 09:39:31 | [aorta](https://crates.io/crates/aorta) | 0.0.1 | 0 | Placeholder for the Aorta robotics middleware SDK by VitaDynamics; real release… |
-| 2026-10-17 09:40:25 | [ontomark-profile-estate](https://crates.io/crates/ontomark-profile-estate) | 0.4.0 | 0 | The DreamLab estate profile for ontomark: taxonomy, IRI rules, attribution rost… |
-| 2026-10-17 09:40:42 | [ontomark](https://crates.io/crates/ontomark) | 0.4.0 | 0 | Markdown ontology vaults to standard artefacts: build, validate, gate, conflict… |
-| 2026-10-17 09:42:33 | [inkvault-core](https://crates.io/crates/inkvault-core) | 0.2.1 | 0 | Cryptographic core of InkVault: encryption, record model, HLC merge and PEP syn… |
-| 2026-10-17 09:48:50 | [convx](https://crates.io/crates/convx) | 0.1.0 | 0 | N-dimensional convex hull, Delaunay triangulation, and Voronoi diagram with exa… |
-| 2026-10-17 09:50:54 | [polyoxide-polymarket](https://crates.io/crates/polyoxide-polymarket) | 0.40.0 | 0 | Rust client library for Polymarket's APIs: CLOB, Gamma, Data, Relay, Perps, RTD… |
-| 2026-10-17 09:59:59 | [lodestone-types](https://crates.io/crates/lodestone-types) | 0.0.16 | 0 | Shared semantic types for Lodestone components and public Rust APIs |
-| 2026-10-17 10:00:44 | [lodestone-proto](https://crates.io/crates/lodestone-proto) | 0.0.16 | 0 | Versioned protocol envelopes and transport-neutral requests for Lodestone |
-| 2026-10-17 10:01:53 | [rust-fest](https://crates.io/crates/rust-fest) | 0.1.0 | 0 | Essential Rust utility types. no_std + alloc, optional Serde. |
-| 2026-10-17 10:06:30 | [compograph-interact](https://crates.io/crates/compograph-interact) | 0.1.0 | 0 | Pointer interaction state for compograph |
-| 2026-10-17 10:07:17 | [inkvault-cli](https://crates.io/crates/inkvault-cli) | 0.2.1 | 0 | Terminal client for InkVault, a self-hosted password manager with end-to-end en… |
-| 2026-10-17 10:15:21 | [compograph](https://crates.io/crates/compograph) | 0.1.0 | 0 | Desktop graph visualization application |
-| 2026-10-17 10:15:36 | [madeitpx](https://crates.io/crates/madeitpx) | 0.1.0 | 0 | Rust binding for the madeitpx pixel-art image conversion library |
-| 2026-10-17 10:15:54 | [linkrs-metrics](https://crates.io/crates/linkrs-metrics) | 0.1.0 | 0 | Central observability primitives: StatsManager, latency histograms, error and s… |
-| 2026-10-17 10:16:16 | [linkrs-core](https://crates.io/crates/linkrs-core) | 0.1.0 | 0 | Core data structures, types, and errors for Linkrs |
+| 2026-10-17 10:19:06 | [carro_kv](https://crates.io/crates/carro_kv) | 0.1.0 | 0 | Lightweight pure-native cross-language embedded Key-Value store (small config/s… |
+| 2026-10-17 10:22:57 | [cargo-mantra](https://crates.io/crates/cargo-mantra) | 0.1.0 | 0 | Cargo runner for mantra |
+| 2026-10-17 10:23:11 | [mantra-detect](https://crates.io/crates/mantra-detect) | 0.1.0 | 0 | Detect mantra artifacts in content |
+| 2026-10-17 10:23:13 | [blazing-agents](https://crates.io/crates/blazing-agents) | 0.1.0 | 0 | Official Rust SDK for the Blazing Agents API |
+| 2026-10-17 10:30:08 | [carte-api](https://crates.io/crates/carte-api) | 0.1.0 | 0 | Types for carte's daemon socket and --json output; internal, no stability promi… |
+| 2026-10-17 10:30:19 | [carte-core](https://crates.io/crates/carte-core) | 0.1.0 | 0 | Configuration, naming and policies for carte; internal, no stability promises |
+| 2026-10-17 10:31:11 | [carte](https://crates.io/crates/carte) | 0.1.0 | 0 | Runs your apps' processes on demand behind *.test hostnames, one stack per git… |
+| 2026-10-17 10:31:46 | [graphcal-model-protocol](https://crates.io/crates/graphcal-model-protocol) | 0.0.0 | 0 | Placeholder for the Graphcal model protocol crate; reserved for upcoming releas… |
+| 2026-10-17 10:31:48 | [graphcal-model-client](https://crates.io/crates/graphcal-model-client) | 0.0.0 | 0 | Placeholder for the Graphcal model client crate; reserved for upcoming releases. |
+| 2026-10-17 10:33:18 | [onelf-sysroot](https://crates.io/crates/onelf-sysroot) | 0.4.1 | 0 | Pinned sysroots and package-database closures for onelf |
+| 2026-10-17 10:36:35 | [kogut](https://crates.io/crates/kogut) | 0.0.1 | 0 | Server, container and uptime monitoring in one small binary, with one alert tha… |
+| 2026-10-17 10:41:21 | [harn-source-fingerprint](https://crates.io/crates/harn-source-fingerprint) | 0.10.168 | 0 | Source contributions and compiled fingerprint composition for Harn crates |
+| 2026-10-17 10:41:23 | [harn-source-fingerprint-build](https://crates.io/crates/harn-source-fingerprint-build) | 0.10.168 | 0 | Crate-local source collection for Harn compiler and check fingerprints |
+| 2026-10-17 10:41:39 | [harn-execution-policy](https://crates.io/crates/harn-execution-policy) | 0.10.168 | 0 | Execution capability ceilings, sandbox policy, and tool semantics without a run… |
+| 2026-10-17 10:41:47 | [mr-review](https://crates.io/crates/mr-review) | 0.2.1 | 0 | Review GitLab merge requests, GitHub pull requests, diffs and codebases with an… |
+| 2026-10-17 10:42:22 | [harn-vm-core](https://crates.io/crates/harn-vm-core) | 0.10.168 | 0 | Bytecode interpreter and compiler contracts for Harn execution backends |
+| 2026-10-17 10:42:24 | [harn-llm](https://crates.io/crates/harn-llm) | 0.10.168 | 0 | Provider-neutral message and wire contracts for Harn LLM execution |
+| 2026-10-17 10:44:48 | [pprs](https://crates.io/crates/pprs) | 0.1.0 | 0 | A byte-preserving PHP parser library for Rust |
+| 2026-10-17 10:54:47 | [derive-into-2-error](https://crates.io/crates/derive-into-2-error) | 0.3.0 | 0 | Error types for derive-into conversions |
+| 2026-10-17 10:54:47 | [derive-into-2-macros](https://crates.io/crates/derive-into-2-macros) | 0.3.0 | 0 | Proc-macro implementation for derive-into |
+| 2026-10-17 10:54:49 | [derive-into-2](https://crates.io/crates/derive-into-2) | 0.3.1 | 0 | A Rust derive macro for easily creating conversions between structs and enums |
+| 2026-10-17 10:58:14 | [robcli](https://crates.io/crates/robcli) | 0.6.0 | 0 | Roblox Dashboard and public games, profiles, communities and catalogs with boun… |
+| 2026-10-17 10:58:38 | [ripsem](https://crates.io/crates/ripsem) | 0.1.1 | 0 | Local, offline semantic code search with an MCP server for coding agents |
+| 2026-10-17 11:01:13 | [terminal_graphics_interactive](https://crates.io/crates/terminal_graphics_interactive) | 0.1.0 | 0 | Keyboard and mouse input for terminal_graphics: build interactive terminal game… |
+| 2026-10-17 11:03:46 | [tesmart-proto](https://crates.io/crates/tesmart-proto) | 0.1.0 | 0 | Sans-IO TESmart KVM and HDMI matrix control protocols: the controller side |
+| 2026-10-17 11:03:58 | [tesmart-client](https://crates.io/crates/tesmart-client) | 0.1.0 | 0 | Async driver and operations for TESmart KVM switches and HDMI matrices, over an… |
+| 2026-10-17 11:04:08 | [tesmart-serial](https://crates.io/crates/tesmart-serial) | 0.1.0 | 0 | RS232 transport for TESmart KVM switches (9600 8N1 on a 3-pin Phoenix connector) |
+| 2026-10-17 11:04:12 | [tesmart-device](https://crates.io/crates/tesmart-device) | 0.1.0 | 0 | The switch side of the TESmart protocol: a sans-IO state machine that answers l… |
+| 2026-10-17 11:04:20 | [tesmart-sim](https://crates.io/crates/tesmart-sim) | 0.1.0 | 0 | Serves a tesmart-device over TCP or an in-process pipe, as a Connector for tests |
+| 2026-10-17 11:06:07 | [simvec](https://crates.io/crates/simvec) | 0.1.0 | 0 | Local vector search engine: exact scan, mmap storage, WAL |
+| 2026-10-17 11:08:59 | [harn-orchestration](https://crates.io/crates/harn-orchestration) | 0.10.168 | 0 | Session message delivery and workflow contracts for Harn orchestration |
+| 2026-10-17 11:13:53 | [a4aa-dsh](https://crates.io/crates/a4aa-dsh) | 0.2.0 | 0 | a4aa dialect adapter: the `dsh` mechanism descriptor (hooks, rules, skills, com… |
+| 2026-10-17 11:14:22 | [a4aa-hermes](https://crates.io/crates/a4aa-hermes) | 0.2.0 | 0 | a4aa dialect adapter: the `hermes` mechanism descriptor (hooks, rules, skills,… |
+| 2026-10-17 11:14:32 | [a4aa-kilo-code](https://crates.io/crates/a4aa-kilo-code) | 0.2.0 | 0 | a4aa dialect adapter: the `kilocode` mechanism descriptor (hooks, rules, skills… |
+| 2026-10-17 11:15:34 | [a4aa-dialects](https://crates.io/crates/a4aa-dialects) | 0.2.0 | 0 | Convenience registry over the a4aa-<agent> dialect crates: name lookup and full… |
+| 2026-10-17 11:15:57 | [agents-with-profiles](https://crates.io/crates/agents-with-profiles) | 0.1.0 | 0 | Agents with Profiles (AwP) — a behavior-profile layer on top of a4aa: a base ag… |
+| 2026-10-17 11:15:58 | [vector-client](https://crates.io/crates/vector-client) | 0.1.0 | 0 | A vector database client crate with support for multiple backends |
+| 2026-10-17 11:16:18 | [tourer](https://crates.io/crates/tourer) | 0.1.0 | 0 | Guided, AI-planned tours of unfamiliar folders and codebases, in the terminal a… |
+| 2026-10-17 11:17:31 | [summer-resilience](https://crates.io/crates/summer-resilience) | 0.7.1 | 0 | Resilience policies for summer-rs applications |
 
 ## Data source
 
