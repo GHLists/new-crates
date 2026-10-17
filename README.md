@@ -8,46 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 04:18 UTC
+## Latest list — 2026-10-17 05:18 UTC
 
-New crates published between 2026-10-17 03:19 UTC and 2026-10-17 04:18 UTC.
+New crates published between 2026-10-17 04:18 UTC and 2026-10-17 05:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-17T04-18-43-958334Z.csv)
+[Full CSV](data/new-crates-2026-10-17T05-18-56-038654Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-17 03:24:30 | [fsblame-abi](https://crates.io/crates/fsblame-abi) | 0.1.1 | 0 | Kernel/user ABI of fsblame: ring buffer records, map keys and values, shared co… |
-| 2026-10-17 03:24:32 | [fsblame-bpf](https://crates.io/crates/fsblame-bpf) | 0.1.1 | 0 | fsblame's BPF objects, compiled from C CO-RE sources by build.rs (needs clang) |
-| 2026-10-17 03:24:34 | [fsblame](https://crates.io/crates/fsblame) | 0.1.1 | 0 | Which command changed this file? Live eBPF attribution of file changes to the f… |
-| 2026-10-17 03:26:23 | [tauri-plugin-firebase](https://crates.io/crates/tauri-plugin-firebase) | 0.1.0-alpha.1 | 0 | Tauri plugin that reads Firebase Remote Config and logs Firebase Analytics even… |
-| 2026-10-17 03:27:35 | [bmux_tabs_plugin_api](https://crates.io/crates/bmux_tabs_plugin_api) | 0.0.1-alpha.3 | 0 | Typed public API of the bmux tabs plugin (BPDL-generated bindings) |
-| 2026-10-17 03:27:45 | [zarchive-rust](https://crates.io/crates/zarchive-rust) | 0.0.1-beta.1 | 0 | Read, extract, check, and create zip, 7z, tar, gzip, rar, and other archives fr… |
-| 2026-10-17 03:35:07 | [tessarikv-constants](https://crates.io/crates/tessarikv-constants) | 0.0.2 | 0 | Format constants, defaults and limits shared by the TessariKV crates |
-| 2026-10-17 03:35:23 | [tessarikv-types](https://crates.io/crates/tessarikv-types) | 0.0.2 | 0 | Shared value types of TessariKV: sequence numbers, keyspaces, internal keys |
-| 2026-10-17 03:35:29 | [tessarikv-sync](https://crates.io/crates/tessarikv-sync) | 0.0.2 | 0 | Lock-free and wait-free building blocks of the TessariKV storage engine |
-| 2026-10-17 03:35:38 | [tessarikv-format](https://crates.io/crates/tessarikv-format) | 0.0.2 | 0 | On-disk formats of TessariKV: log records and table blocks |
-| 2026-10-17 03:35:39 | [etag-write](https://crates.io/crates/etag-write) | 0.1.0 | 0 | Atomic file writes with sha256 etags and compare-and-swap, so a reader never se… |
-| 2026-10-17 03:35:52 | [tessarikv](https://crates.io/crates/tessarikv) | 0.0.2 | 0 | A pure-Rust, lock-free-first LSM key-value storage engine |
-| 2026-10-17 03:37:33 | [bmux_workspaces_plugin_api](https://crates.io/crates/bmux_workspaces_plugin_api) | 0.0.1-alpha.3 | 0 | Typed public API of the bmux workspaces plugin |
-| 2026-10-17 03:40:02 | [yui-hfk](https://crates.io/crates/yui-hfk) | 0.1.0 | 0 | Heegaard Floer Knot Homology Library for YUI |
-| 2026-10-17 03:40:05 | [yhf](https://crates.io/crates/yhf) | 0.1.0 | 0 | CLI for Heegaard Floer Knot Homology Computation |
-| 2026-10-17 03:47:02 | [cartographer-ceres](https://crates.io/crates/cartographer-ceres) | 0.1.0 | 0 | Focused pure-Rust port of the subset of Ceres Solver used by Cartographer |
-| 2026-10-17 03:47:07 | [cartographer-sim](https://crates.io/crates/cartographer-sim) | 0.1.0 | 0 | Deterministic synthetic-data simulator (worlds, trajectories, sensors, metrics)… |
-| 2026-10-17 03:47:20 | [cartographer-slam](https://crates.io/crates/cartographer-slam) | 0.1.0 | 0 | Native Rust port of Google Cartographer (2D/3D SLAM) |
-| 2026-10-17 03:47:35 | [bmux_finder_plugin](https://crates.io/crates/bmux_finder_plugin) | 0.0.1-alpha.3 | 0 | Cross-workspace tab finder for bmux |
-| 2026-10-17 03:47:37 | [cartographer-cloud](https://crates.io/crates/cartographer-cloud) | 0.1.0 | 0 | Port of cartographer/cloud: gRPC map builder server, client stubs and local tra… |
-| 2026-10-17 03:57:34 | [bmux_playbook](https://crates.io/crates/bmux_playbook) | 0.0.1-alpha.3 | 0 | Shared playbook domain models, parsers and reusable execution runtime |
-| 2026-10-17 03:57:43 | [uiprobe-hooks](https://crates.io/crates/uiprobe-hooks) | 0.1.0 | 0 | Std-only seams (file pickers, clipboard, opener, data dir) a Slint app calls un… |
-| 2026-10-17 03:58:03 | [uiprobe](https://crates.io/crates/uiprobe) | 0.18.6 | 0 | Headless UI harness for Slint apps: invariant sweep, click-everything smoke, co… |
-| 2026-10-17 03:59:03 | [leankedin-park](https://crates.io/crates/leankedin-park) | 0.1.0-alpha.1 | 0 | Fast, ergonomic and lightweight Rust client for the LinkedIn API |
-| 2026-10-17 04:07:33 | [bmux_playbook_plugin_api](https://crates.io/crates/bmux_playbook_plugin_api) | 0.0.1-alpha.3 | 0 | Typed lifecycle contract for managed headless playbooks |
-| 2026-10-17 04:08:10 | [ironbark-experts](https://crates.io/crates/ironbark-experts) | 0.1.0 | 0 | Event-driven MoE expert store: loader pool, per-layer cache over experts.bin |
-| 2026-10-17 04:08:10 | [ironbark-mlx-sys](https://crates.io/crates/ironbark-mlx-sys) | 0.1.0 | 0 | Rust bindings to mlx-c; builds MLX and its Metal kernels for macOS and iOS |
-| 2026-10-17 04:08:11 | [ironbark-fetch](https://crates.io/crates/ironbark-fetch) | 0.1.0 | 0 | Build a local experts.bin from a remote copy: on-demand records, hash checks, b… |
-| 2026-10-17 04:08:12 | [ironbark-mlx](https://crates.io/crates/ironbark-mlx) | 0.1.0 | 0 | Safe Rust API over MLX for inference on Apple silicon: arrays, ops, fused kerne… |
-| 2026-10-17 04:08:14 | [ironbark-engine](https://crates.io/crates/ironbark-engine) | 0.1.0 | 0 | Ternary MoE (Maple) decode on the Apple GPU through MLX |
-| 2026-10-17 04:12:39 | [hpsvm-fd-fixture](https://crates.io/crates/hpsvm-fd-fixture) | 0.16.2 | 0 | Fork of mollusk-svm-fuzz-fixture-firedancer with version requirements widened f… |
-| 2026-10-17 04:17:34 | [bmux_playbook_plugin](https://crates.io/crates/bmux_playbook_plugin) | 0.0.1-alpha.3 | 0 | Managed headless playbook execution plugin |
+| 2026-10-17 04:21:50 | [ironbark](https://crates.io/crates/ironbark) | 0.1.0 | 0 | Run Maple (ternary MoE) on Apple Silicon with experts streamed from storage, si… |
+| 2026-10-17 04:21:52 | [ironbark-cli](https://crates.io/crates/ironbark-cli) | 0.1.0 | 0 | Run Maple (ternary MoE) on the Apple GPU through MLX |
+| 2026-10-17 04:27:33 | [bmux_mermaid_render](https://crates.io/crates/bmux_mermaid_render) | 0.0.1-alpha.3 | 0 | Bounded Mermaid diagram rendering for BMUX |
+| 2026-10-17 04:36:54 | [annoray-codecs](https://crates.io/crates/annoray-codecs) | 0.0.1-pre0 | 0 | Pure-Rust compression codecs for scientific array formats (Blosc, bzip2, zlib/g… |
+| 2026-10-17 04:36:54 | [annoray-macros](https://crates.io/crates/annoray-macros) | 0.0.1-pre0 | 0 | Procedural macros for annoray: isel!/sel! with Python-style slices |
+| 2026-10-17 04:36:55 | [annoray-units](https://crates.io/crates/annoray-units) | 0.0.1-pre0 | 0 | Physical units with exact scales: UDUNITS-2/CF parsing, conversion, CF calendar… |
+| 2026-10-17 04:36:56 | [annoray-hdf5](https://crates.io/crates/annoray-hdf5) | 0.0.1-pre0 | 0 | Pure-Rust HDF5 reader and writer: every layout and chunk index, common compress… |
+| 2026-10-17 04:36:56 | [annoray-zarr](https://crates.io/crates/annoray-zarr) | 0.0.1-pre0 | 0 | Pure-Rust Zarr v2 and v3 reader and writer for local stores: regular chunks, sh… |
+| 2026-10-17 04:37:04 | [statespace](https://crates.io/crates/statespace) | 0.1.0 | 0 | A/B test multiple versions of your app in production |
+| 2026-10-17 04:37:32 | [bmux_syntax_render](https://crates.io/crates/bmux_syntax_render) | 0.0.1-alpha.3 | 0 | Syntax-highlighted terminal line rendering for terminal surfaces |
+| 2026-10-17 04:41:59 | [vitaminc-normalize](https://crates.io/crates/vitaminc-normalize) | 0.6.0 | 0 | Normalized equality terms for the plaintext data model. Part of the Vitamin-C c… |
+| 2026-10-17 04:43:20 | [kinavis-geoid](https://crates.io/crates/kinavis-geoid) | 0.1.0 | 0 | Geoid heights from a global grid, EGM96 embedded, as a geoid model port for the… |
+| 2026-10-17 04:43:52 | [kinavis-grid](https://crates.io/crates/kinavis-grid) | 0.1.0 | 0 | Map grids for the KINAVIS navigation crates: transverse Mercator, UTM/UPS, Gaus… |
+| 2026-10-17 04:44:07 | [kinavis-ubx](https://crates.io/crates/kinavis-ubx) | 0.1.0 | 0 | The u-blox UBX binary protocol for the KINAVIS navigation crates: framing, navi… |
+| 2026-10-17 04:44:22 | [kinavis-integrity](https://crates.io/crates/kinavis-integrity) | 0.1.0 | 0 | GNSS integrity for the KINAVIS navigation crates: RAIM fault detection and excl… |
+| 2026-10-17 04:44:35 | [annoray](https://crates.io/crates/annoray) | 0.0.1-pre0 | 0 | A units-aware, xarray-like library for labelled n-dimensional arrays, with pure… |
+| 2026-10-17 04:44:36 | [kinavis-j1939](https://crates.io/crates/kinavis-j1939) | 0.1.0 | 0 | SAE J1939 and ISO 11783-3 for the KINAVIS navigation crates: the 29-bit identif… |
+| 2026-10-17 04:45:59 | [vitaminc-aead-frame](https://crates.io/crates/vitaminc-aead-frame) | 0.6.0 | 0 | Transport frame and ciphertext codec for carrying Vitamin-C AEAD values and cip… |
+| 2026-10-17 04:46:20 | [vitaminc-ore](https://crates.io/crates/vitaminc-ore) | 0.6.0 | 0 | Order terms for the plaintext data model: one sealed order encoding per kind, a… |
+| 2026-10-17 04:47:33 | [bmux_markdown](https://crates.io/crates/bmux_markdown) | 0.0.1-alpha.3 | 0 | Markdown to terminal line rendering for terminal surfaces |
+| 2026-10-17 04:51:39 | [kinavis-mavlink](https://crates.io/crates/kinavis-mavlink) | 0.1.0 | 0 | MAVLink 2 for the KINAVIS navigation crates: frames, checksums and signatures,… |
+| 2026-10-17 04:57:33 | [bmux_presenter](https://crates.io/crates/bmux_presenter) | 0.0.1-alpha.3 | 0 | Portable presentation decks and canonical BMUX component composition |
+| 2026-10-17 05:00:03 | [furnace-server](https://crates.io/crates/furnace-server) | 0.6.0 | 0 | Lightweight pure-Rust HTTP inference server for ONNX models, powered by Burn |
+| 2026-10-17 05:04:37 | [kinavis-ros2](https://crates.io/crates/kinavis-ros2) | 0.1.0 | 0 | ROS 2 for the KINAVIS navigation crates: NavSatFix, Imu, Odometry and GeoPoint… |
+| 2026-10-17 05:05:48 | [cinekey](https://crates.io/crates/cinekey) | 0.3.2 | 0 | Fast parser for movie and TV release names |
+| 2026-10-17 05:07:34 | [bmux_presenter_plugin_api](https://crates.io/crates/bmux_presenter_plugin_api) | 0.0.1-alpha.3 | 0 | BPDL contracts for the optional BMUX presentation plugin |
+| 2026-10-17 05:11:17 | [libvirt-hotplug-usb](https://crates.io/crates/libvirt-hotplug-usb) | 0.1.0 | 0 | A daemon that watches Linux USB hot-plug events and passes matching devices thr… |
+| 2026-10-17 05:15:39 | [bunsen-fetch](https://crates.io/crates/bunsen-fetch) | 0.39.0 | 0 | Bunsen's file fetching: stream a URL to disk, hashed as it lands and pinned to… |
+| 2026-10-17 05:17:33 | [kinavis-isobus](https://crates.io/crates/kinavis-isobus) | 0.1.0 | 0 | ISOBUS (ISO 11783-7) for the KINAVIS navigation crates: wheel-based, ground-bas… |
+| 2026-10-17 05:17:38 | [bmux_presenter_runtime](https://crates.io/crates/bmux_presenter_runtime) | 0.0.1-alpha.3 | 0 | Authoritative presentation host and bounded TLS participant transport |
 
 ## Data source
 

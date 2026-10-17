@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T04:21:50.591951Z,ironbark,0.1.0,0,0,https://github.com/russellwmy/ironbark,"Run Maple (ternary MoE) on Apple Silicon with experts streamed from storage, sized to the device's memory"
+2026-10-17T04:21:52.687057Z,ironbark-cli,0.1.0,0,0,https://github.com/russellwmy/ironbark,Run Maple (ternary MoE) on the Apple GPU through MLX
+2026-10-17T04:27:33.126222Z,bmux_mermaid_render,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Bounded Mermaid diagram rendering for BMUX
+2026-10-17T04:36:54.32001Z,annoray-codecs,0.0.1-pre0,0,0,https://github.com/sunipkm/annoray,"Pure-Rust compression codecs for scientific array formats (Blosc, bzip2, zlib/gzip, Zstandard, LZ4, shuffles, CRCs), safe on untrusted input"
+2026-10-17T04:36:54.708107Z,annoray-macros,0.0.1-pre0,0,0,https://github.com/sunipkm/annoray,Procedural macros for annoray: isel!/sel! with Python-style slices
+2026-10-17T04:36:55.104614Z,annoray-units,0.0.1-pre0,0,0,https://github.com/sunipkm/annoray,"Physical units with exact scales: UDUNITS-2/CF parsing, conversion, CF calendars and dimension-typed quantities"
+2026-10-17T04:36:56.259845Z,annoray-hdf5,0.0.1-pre0,0,0,https://github.com/sunipkm/annoray,"Pure-Rust HDF5 reader and writer: every layout and chunk index, common compression filters, safe on untrusted files"
+2026-10-17T04:36:56.62912Z,annoray-zarr,0.0.1-pre0,0,0,https://github.com/sunipkm/annoray,"Pure-Rust Zarr v2 and v3 reader and writer for local stores: regular chunks, sharding, the common codecs, safe on untrusted stores"
+2026-10-17T04:37:04.280457Z,statespace,0.1.0,0,0,https://github.com/statespace-tech/statespace,A/B test multiple versions of your app in production
+2026-10-17T04:37:32.862723Z,bmux_syntax_render,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Syntax-highlighted terminal line rendering for terminal surfaces
+2026-10-17T04:41:59.646519Z,vitaminc-normalize,0.6.0,0,0,https://github.com/cipherstash/vitaminc,Normalized equality terms for the plaintext data model. Part of the Vitamin-C cryptographic suite.
+2026-10-17T04:43:20.632827Z,kinavis-geoid,0.1.0,0,0,https://github.com/KINAVIS/kinavis,"Geoid heights from a global grid, EGM96 embedded, as a geoid model port for the KINAVIS navigation crates, without an allocator."
+2026-10-17T04:43:52.437149Z,kinavis-grid,0.1.0,0,0,https://github.com/KINAVIS/kinavis,"Map grids for the KINAVIS navigation crates: transverse Mercator, UTM/UPS, Gauss-Kruger and national grids, meridian convergence, without an allocator."
+2026-10-17T04:44:07.450295Z,kinavis-ubx,0.1.0,0,0,https://github.com/KINAVIS/kinavis,"The u-blox UBX binary protocol for the KINAVIS navigation crates: framing, navigation, satellites, sensor fusion, without an allocator."
+2026-10-17T04:44:22.418056Z,kinavis-integrity,0.1.0,0,0,https://github.com/KINAVIS/kinavis,"GNSS integrity for the KINAVIS navigation crates: RAIM fault detection and exclusion, horizontal and vertical protection levels, without an allocator."
+2026-10-17T04:44:35.939541Z,annoray,0.0.1-pre0,0,0,https://github.com/sunipkm/annoray,"A units-aware, xarray-like library for labelled n-dimensional arrays, with pure-Rust netCDF and HDF5 I/O"
+2026-10-17T04:44:36.573201Z,kinavis-j1939,0.1.0,0,0,https://github.com/KINAVIS/kinavis,"SAE J1939 and ISO 11783-3 for the KINAVIS navigation crates: the 29-bit identifier, NAME and address claim, the transport protocols, without an allocator."
+2026-10-17T04:45:59.465381Z,vitaminc-aead-frame,0.6.0,0,0,https://github.com/cipherstash/vitaminc,Transport frame and ciphertext codec for carrying Vitamin-C AEAD values and ciphertexts across an FFI boundary. Part of the Vitamin-C cryptographic suite.
+2026-10-17T04:46:20.81039Z,vitaminc-ore,0.6.0,0,0,https://github.com/cipherstash/vitaminc,"Order terms for the plaintext data model: one sealed order encoding per kind, and the scheme trait that encrypts it. Part of the Vitamin-C cryptographic suite."
+2026-10-17T04:47:33.301584Z,bmux_markdown,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Markdown to terminal line rendering for terminal surfaces
+2026-10-17T04:51:39.069112Z,kinavis-mavlink,0.1.0,0,0,https://github.com/KINAVIS/kinavis,"MAVLink 2 for the KINAVIS navigation crates: frames, checksums and signatures, the position, attitude and mission messages of ArduPilot, without an allocator."
+2026-10-17T04:57:33.031787Z,bmux_presenter,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Portable presentation decks and canonical BMUX component composition
+2026-10-17T05:00:03.857788Z,furnace-server,0.6.0,0,0,https://github.com/Gilfeather/furnace,"Lightweight pure-Rust HTTP inference server for ONNX models, powered by Burn"
+2026-10-17T05:04:37.462817Z,kinavis-ros2,0.1.0,0,0,https://github.com/KINAVIS/kinavis,"ROS 2 for the KINAVIS navigation crates: NavSatFix, Imu, Odometry and GeoPoint mirrors with the NED to ENU and FRD to FLU conversions and covariances, without an allocator."
+2026-10-17T05:05:48.327987Z,cinekey,0.3.2,0,0,https://github.com/Sec-ant/cinekey,Fast parser for movie and TV release names
+2026-10-17T05:07:34.298136Z,bmux_presenter_plugin_api,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,BPDL contracts for the optional BMUX presentation plugin
+2026-10-17T05:11:17.8189Z,libvirt-hotplug-usb,0.1.0,0,0,https://github.com/cyrozap/libvirt-hotplug-usb,A daemon that watches Linux USB hot-plug events and passes matching devices through to a libvirt guest.
+2026-10-17T05:15:39.374928Z,bunsen-fetch,0.39.0,0,0,https://github.com/zspacelabs/bunsen,"Bunsen's file fetching: stream a URL to disk, hashed as it lands and pinned to a SHA-256, report the transfer to observers, place the file where it belongs, and lay pinned files out as a pretrained c…"
+2026-10-17T05:17:33.405652Z,kinavis-isobus,0.1.0,0,0,https://github.com/KINAVIS/kinavis,"ISOBUS (ISO 11783-7) for the KINAVIS navigation crates: wheel-based, ground-based and machine selected speed, and the guidance messages, without an allocator."
+2026-10-17T05:17:38.773094Z,bmux_presenter_runtime,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Authoritative presentation host and bounded TLS participant transport
