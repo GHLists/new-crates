@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T18:20:13.549771Z,filament,0.1.0,0,0,https://github.com/noverisp3/filament,"A Minecraft server, written from scratch in Rust"
+2026-10-17T18:20:28.317025Z,lena-adapter-treesitter,0.1.3,0,0,https://github.com/yeajustmars/lena,"A code-to-graph Swiss Army knife for interactive docs, call traces, and LLM context."
+2026-10-17T18:22:36.599261Z,fidmeter,0.1.0,0,0,https://github.com/praveenprk/fid,"Information fidelity measurement: how much a stored fact can still be trusted, calibrated against real data"
+2026-10-17T18:23:02.226105Z,ironbeam-transform-regex,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Regex transforms for Ironbeam 5 logical collections
+2026-10-17T18:24:30.745122Z,smokescreen,0.1.0,0,0,https://github.com/VagabondTech/smokescreen,"Deterministic smoke simulation for games and servers: flood fill through levels, three looks, bullet and explosion holes, bit-identical line-of-sight queries, no engine"
+2026-10-17T18:24:35.081391Z,bevy_smokescreen,0.1.0,0,0,https://github.com/VagabondTech/smokescreen,"Smoke for Bevy that fills rooms, flows through doorways and blocks sight: grenades, smoke walls, gas, fog banks; volumetric, faceted or crystal; deterministic gameplay queries"
+2026-10-17T18:24:39.583836Z,retex-engine,0.9.0,0,0,https://gitlab.com/severin-lemaignan/retex,The TeX typesetting engine for retex
+2026-10-17T18:25:59.332848Z,docxdriver-core,0.4.0,0,0,https://github.com/jhnoel/docxdriver,"Artifact-first DOCX engine: (bytes, DocxCommand JSON) -> (bytes, DocxCommandResult JSON)"
+2026-10-17T18:26:18.130359Z,docxdriver-monty-repl,0.4.0,0,0,https://github.com/jhnoel/docxdriver,"The docxdriver Python API (Document, plan builders) as source for Monty sandbox hosts"
+2026-10-17T18:29:17.640512Z,bcode_agent_policy_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Agent permission policy models for bcode
+2026-10-17T18:29:21.847003Z,bcode_tool_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Serializable model types for Bcode tool runtime contracts
+2026-10-17T18:29:26.07028Z,bcode_tool,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Model-callable tool contract types for bcode
+2026-10-17T18:29:30.327577Z,bcode_skill_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Skill protocol models for bcode
+2026-10-17T18:29:34.561833Z,bcode_session_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Session protocol models for bcode
+2026-10-17T18:31:07.735874Z,ragrig-gpui,0.2.0,0,0,https://github.com/schmettow/ragrig-gpui,"Reusable GPUI components for Ragrig RAG chat, citations, and reference ingestion"
+2026-10-17T18:31:44.926509Z,primitives-rs-macros-core,0.0.1-pre.0,0,0,https://github.com/vormadev/vorma,"The expansion of the primitives-rs TypeScript generation derive, for crates that re-export the derive"
+2026-10-17T18:31:59.427567Z,primitives-rs-macros,0.0.1-pre.0,0,0,https://github.com/vormadev/vorma,Procedural macros for primitives-rs
+2026-10-17T18:32:15.070064Z,paranoid-macros,0.0.0-pre.11,0,0,https://github.com/vormadev/vorma,Procedural macros for paranoid
+2026-10-17T18:33:02.122875Z,ironbeam-transforms,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Convenience transforms for Ironbeam 5 logical collections
+2026-10-17T18:33:04.807748Z,paranoid-testing,0.0.0-pre.11,0,0,https://github.com/vormadev/vorma,PostgreSQL and PgBouncer containers for testing applications that use paranoid.
+2026-10-17T18:33:12.891426Z,vorma-path-wire,0.86.0-pre.4,0,0,https://github.com/vormadev/vorma,Vorma's canonical segment-preserving URL-path wire codec.
+2026-10-17T18:34:37.529371Z,retex-lua,0.9.0,0,0,https://gitlab.com/severin-lemaignan/retex,Embedded Lua and the LuaTeX Lua API for retex
+2026-10-17T18:35:33.637199Z,rust-roll,0.1.0,0,0,https://github.com/Macavitymadcap/roll,"A command-line dice roller for tabletop RPGs, following the D&D 5e rules"
+2026-10-17T18:37:43.98308Z,bcode_shell_command_analysis_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Owned shell command analysis contract types for Bcode
+2026-10-17T18:39:06.940216Z,instinct-core,0.1.0,0,0,https://github.com/hexuria/instinct,"Instinct: core types (Question/Answer shapes, Millis, Confidence, Span, DataVersion, profiles, decide, candidate sets, trail)."
+2026-10-17T18:39:13.72538Z,instinct-text,0.1.0,0,0,https://github.com/hexuria/instinct,"Instinct: canonicalization with an offset map: NFC, Ñ-preserving folds, protected spans, tokens, sentences, confusables."
+2026-10-17T18:39:21.117024Z,instinct-lexicon,0.1.0,0,0,https://github.com/hexuria/instinct,"Instinct: closed-vocabulary matching: token-boundary exact, longest known code, bounded edit distance."
+2026-10-17T18:43:03.257671Z,ironbeam-compat,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Bounded in-process data bridges and migration imports for Ironbeam 4 and 5
+2026-10-17T18:44:21.416934Z,agent-memgc,1.0.0,0,0,https://github.com/ronitgupta138/Agent-MemGC,"High-performance linter, cache-layout optimizer, and generational mark-and-sweep garbage collector for AI agent instruction files (AGENTS.md, CLAUDE.md, .cursorrules) in Rust."
+2026-10-17T18:44:42.173089Z,retex,0.9.0,0,0,https://gitlab.com/severin-lemaignan/retex,"A TeX engine written in Rust: a drop-in replacement for lualatex, with pixel-identical PDF output, automatic multi-pass compilation (BibTeX and biber included) and readable error messages"
+2026-10-17T18:45:54.26741Z,alphagrep,0.1.6,0,0,https://github.com/dragonked2/alphacode,CLI-first code search and retrieval for agents
+2026-10-17T18:46:16.507973Z,crossfire-utils,0.1.0,0,0,https://github.com/frostyplanet/crossfire-rs,Utilities used by crossfire
+2026-10-17T18:47:32.940154Z,bcode_agent_profile,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Agent profile policy contract types for bcode
+2026-10-17T18:52:02.199052Z,http-envelope,0.1.0,0,0,https://git.freshbrewlabs.cloud/freshbrewlabs/http-envelope,"One JSON response envelope for axum APIs - success, payload, errors, warnings, notices - with the loading, saving, creating, and deleting states a frontend reads them into."
+2026-10-17T18:54:00.003072Z,airs-cli,0.3.1,0,0,https://git.cdot.io/cdot/prisma-airs-cli-rs,"Native Rust CLI for Prisma AIRS (executable airs-cli-rs until 1.0), built on the scm-sdk crate"
+2026-10-17T18:54:47.399563Z,wora-observability-linux-mm,0.1.0,0,0,,Typed Linux memory-management readers extending procfs
+2026-10-17T18:55:37.245687Z,n3-lib,0.1.2,0,0,https://github.com/AlicanC/n3-lib,"Read, edit and write Knight Online N3 assets"
+2026-10-17T18:57:32.544139Z,bcode_shell_command_analysis,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Bounded POSIX shell command analysis for Bcode policy evaluation
+2026-10-17T18:57:38.275348Z,openpx-sdk,0.0.1,0,0,,OpenPX SDK (early release): the OpenPX schema for describing products once and publishing them to every channel.
+2026-10-17T18:57:41.881585Z,openpx-cli,0.0.1,0,0,,OpenPX command line (early release).
+2026-10-17T19:06:15.691796Z,ontology-docs-data-0,0.6.0,0,0,https://github.com/Gonzih/ontology,"Embedded documentation datapack, part 0 of 5. Used by ontology-docs at build time."
+2026-10-17T19:06:17.805217Z,ontology-docs-data-1,0.6.0,0,0,https://github.com/Gonzih/ontology,"Embedded documentation datapack, part 1 of 5. Used by ontology-docs at build time."
+2026-10-17T19:06:19.723597Z,ontology-docs-data-2,0.6.0,0,0,https://github.com/Gonzih/ontology,"Embedded documentation datapack, part 2 of 5. Used by ontology-docs at build time."
+2026-10-17T19:06:21.64176Z,ontology-docs-data-3,0.6.0,0,0,https://github.com/Gonzih/ontology,"Embedded documentation datapack, part 3 of 5. Used by ontology-docs at build time."
+2026-10-17T19:06:23.719188Z,ontology-docs-data-4,0.6.0,0,0,https://github.com/Gonzih/ontology,"Embedded documentation datapack, part 4 of 5. Used by ontology-docs at build time."
+2026-10-17T19:07:32.745139Z,bcode_agent_policy,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Pi/OpenCode-style agent policy evaluation for bcode
+2026-10-17T19:11:25.871545Z,inboxjot,0.0.1,0,0,,Official Inboxjot SDK (coming soon)
+2026-10-17T19:17:33.135918Z,bcode_model,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Model provider contract types for bcode

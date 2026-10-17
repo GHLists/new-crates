@@ -8,64 +8,62 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 18:18 UTC
+## Latest list — 2026-10-17 19:18 UTC
 
-New crates published between 2026-10-17 17:18 UTC and 2026-10-17 18:18 UTC.
+New crates published between 2026-10-17 18:18 UTC and 2026-10-17 19:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-17T18-18-34-978144Z.csv)
+[Full CSV](data/new-crates-2026-10-17T19-18-28-075948Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-17 17:18:44 | [usfm_tools](https://crates.io/crates/usfm_tools) | 0.1.0 | 0 | The USFM toolchain behind one name: parse USFM or USX into a tree with diagnost… |
-| 2026-10-17 17:19:55 | [pvq](https://crates.io/crates/pvq) | 0.1.0 | 0 | Partitioned Variable Quantity |
-| 2026-10-17 17:23:17 | [ironbeam-io-tfrecord](https://crates.io/crates/ironbeam-io-tfrecord) | 5.0.0 | 0 | TFRecord file sources and native TensorFlow Example schema for Ironbeam 5 |
-| 2026-10-17 17:26:38 | [mcpg-control-plane-license](https://crates.io/crates/mcpg-control-plane-license) | 0.0.0 | 0 | License-token claims, offline verification, plan envelopes, and entitlement gat… |
-| 2026-10-17 17:28:29 | [basic-pitch-rs](https://crates.io/crates/basic-pitch-rs) | 0.1.0 | 0 | Polyphonic audio-to-MIDI transcription in pure Rust: an unofficial, parity-test… |
-| 2026-10-17 17:28:32 | [basic-pitch-cli](https://crates.io/crates/basic-pitch-cli) | 0.1.0 | 0 | Command-line audio-to-MIDI transcription with basic-pitch-rs, an unofficial Rus… |
-| 2026-10-17 17:28:56 | [negotiate-auth](https://crates.io/crates/negotiate-auth) | 0.4.0 | 0 | Sans-io Kerberos, NTLM and SPNEGO for HTTP Negotiate authentication: what to se… |
-| 2026-10-17 17:29:38 | [lena-adapter-clj](https://crates.io/crates/lena-adapter-clj) | 0.1.2 | 0 | A code-to-graph Swiss Army knife for interactive docs, call traces, and LLM con… |
-| 2026-10-17 17:30:13 | [lena-adapter-rust](https://crates.io/crates/lena-adapter-rust) | 0.1.2 | 0 | A code-to-graph Swiss Army knife for interactive docs, call traces, and LLM con… |
-| 2026-10-17 17:33:03 | [ironbeam-io-xml](https://crates.io/crates/ironbeam-io-xml) | 5.0.0 | 0 | XML sources and deferred sinks for Ironbeam 5 |
-| 2026-10-17 17:34:20 | [wstrace](https://crates.io/crates/wstrace) | 0.2.2 | 0 | High-performance zero-driver Windows system and API monitor in Rust |
-| 2026-10-17 17:34:26 | [triplex-driftguard](https://crates.io/crates/triplex-driftguard) | 0.43.1 | 0 | Schema-regression and statistical-drift checks between a baseline and a candida… |
-| 2026-10-17 17:34:26 | [triplex-mcp](https://crates.io/crates/triplex-mcp) | 0.43.1 | 0 | Local MCP server (stdio) that lets AI agents infer and validate Triplex schema… |
-| 2026-10-17 17:34:27 | [triplex-modelcard](https://crates.io/crates/triplex-modelcard) | 0.43.1 | 0 | Fairness and slice metrics for a binary classifier, computed from a predictions… |
-| 2026-10-17 17:34:28 | [triplex](https://crates.io/crates/triplex) | 0.43.1 | 0 | The triplex command-line tool: schema contracts, pseudonymization, synthetic da… |
-| 2026-10-17 17:37:06 | [mcpg-control-plane-core](https://crates.io/crates/mcpg-control-plane-core) | 0.0.0 | 0 | Shared types, traits, and protocol definitions for the MCPG Control Plane. |
-| 2026-10-17 17:37:42 | [rwe](https://crates.io/crates/rwe) | 0.1.0 | 0 | Pure Rust foundations for an independent Web engine: CSS hex colors and softwar… |
-| 2026-10-17 17:41:58 | [sidermux-image](https://crates.io/crates/sidermux-image) | 0.1.0 | 0 | no_std firmware boot image codecs and checksum primitives |
-| 2026-10-17 17:42:00 | [sidermux-fwtools](https://crates.io/crates/sidermux-fwtools) | 0.1.0 | 0 | Board-aware firmware packaging, inspection, and unpacking for SoC FPGA boot ima… |
-| 2026-10-17 17:42:01 | [cargo-sidermux](https://crates.io/crates/cargo-sidermux) | 0.1.0 | 0 | Package, inspect, and unpack SoC FPGA boot images |
-| 2026-10-17 17:42:41 | [emuchip-8](https://crates.io/crates/emuchip-8) | 0.1.0 | 0 | Platform-agnostic CHIP-8 interpreter core: no_std, no dependencies |
-| 2026-10-17 17:43:02 | [ironbeam-harness](https://crates.io/crates/ironbeam-harness) | 5.0.0 | 0 | In-process Beam Fn API harness embedded in an ironbeam user binary |
-| 2026-10-17 17:44:20 | [retex-arith](https://crates.io/crates/retex-arith) | 0.9.0 | 0 | TeX-exact fixed-point arithmetic for retex |
-| 2026-10-17 17:44:21 | [retex-format](https://crates.io/crates/retex-format) | 0.9.0 | 0 | Format file dump and load for retex |
-| 2026-10-17 17:44:22 | [retex-hyph](https://crates.io/crates/retex-hyph) | 0.9.0 | 0 | Liang hyphenation for retex |
-| 2026-10-17 17:44:23 | [retex-image](https://crates.io/crates/retex-image) | 0.9.0 | 0 | Image inclusion for retex: PNG, JPEG and PDF headers, decoding for embedding |
-| 2026-10-17 17:44:23 | [retex-kpath](https://crates.io/crates/retex-kpath) | 0.9.0 | 0 | kpathsea-compatible file lookup for retex |
-| 2026-10-17 17:47:30 | [mcpg-control-plane-client](https://crates.io/crates/mcpg-control-plane-client) | 0.0.0 | 0 | MCPG control-plane client library: connects a gateway to a Control Plane. Libra… |
-| 2026-10-17 17:51:41 | [nsh-platform-web](https://crates.io/crates/nsh-platform-web) | 0.1.0 | 0 | WebAssembly backend: runs NSH apps in a browser page, rendering to the DOM. |
-| 2026-10-17 17:52:52 | [tiza-core](https://crates.io/crates/tiza-core) | 0.0.1 | 0 | Tiza document model, anchors, layout and rendering (no terminal dependencies) |
-| 2026-10-17 17:52:55 | [tiza-export](https://crates.io/crates/tiza-export) | 0.0.1 | 0 | SVG and PNG export of Tiza canvases with embedded fonts |
-| 2026-10-17 17:52:56 | [tiza-tui](https://crates.io/crates/tiza-tui) | 0.0.1 | 0 | Tiza terminal interface (ratatui + crossterm) and local API server |
-| 2026-10-17 17:52:58 | [tiza-mcp](https://crates.io/crates/tiza-mcp) | 0.0.1 | 0 | MCP server (stdio) that lets agents draw on the code in a live Tiza instance |
-| 2026-10-17 17:53:00 | [tiza](https://crates.io/crates/tiza) | 0.0.1 | 0 | Tiza: a Rust TUI to draw on top of code in the terminal and explain it on video… |
-| 2026-10-17 17:53:01 | [ironbeam-dataflow](https://crates.io/crates/ironbeam-dataflow) | 5.0.0 | 0 | Google Cloud Dataflow backend for ironbeam |
-| 2026-10-17 17:54:36 | [retex-lpeg](https://crates.io/crates/retex-lpeg) | 0.9.0 | 0 | LPeg 1.0 (parsing expression grammars for Lua) and the re module for retex |
-| 2026-10-17 17:56:40 | [gaise-provider-xai](https://crates.io/crates/gaise-provider-xai) | 5.0.0 | 0 | xAI (Grok) provider for GAISe — Chat Completions, text-to-speech, and realtime… |
-| 2026-10-17 17:56:43 | [semver-sync](https://crates.io/crates/semver-sync) | 0.1.1 | 0 | Keep one version across every crate in a cargo workspace; bumps are checked as… |
-| 2026-10-17 17:57:18 | [mise-config](https://crates.io/crates/mise-config) | 0.0.0 | 0 | Placeholder for the mise.toml declaration types |
-| 2026-10-17 17:59:11 | [shadcn_iced_core](https://crates.io/crates/shadcn_iced_core) | 0.1.0 | 0 | Theme tokens, fonts, icons and headless primitives for shadcn_iced |
-| 2026-10-17 18:02:04 | [axiopera](https://crates.io/crates/axiopera) | 0.1.0 | 0 | Orchestrate coding agents (Claude Code, Codex, Grok Build) as sub-agents of eac… |
-| 2026-10-17 18:03:01 | [ironbeam-testing](https://crates.io/crates/ironbeam-testing) | 5.0.0 | 0 | Fixtures, assertions, and local graph inspection for Ironbeam 5 |
-| 2026-10-17 18:04:37 | [retex-font](https://crates.io/crates/retex-font) | 0.9.0 | 0 | OpenType/TFM font loading for retex |
-| 2026-10-17 18:07:37 | [krylov](https://crates.io/crates/krylov) | 0.1.0 | 0 | Matrix-free Krylov methods over user-defined vector types (Lanczos and Arnoldi… |
-| 2026-10-17 18:10:44 | [therapist](https://crates.io/crates/therapist) | 0.1.0 | 0 | A blazingly fast terminal log viewer: open multi-GB logs at once, move with vim… |
-| 2026-10-17 18:11:52 | [cannes](https://crates.io/crates/cannes) | 0.1.0 | 0 | Thread-per-core actor engine for low-latency systems: pinned busy-polling event… |
-| 2026-10-17 18:13:01 | [ironbeam-transform-approx](https://crates.io/crates/ironbeam-transform-approx) | 5.0.0 | 0 | Approximate distinct transforms for Ironbeam 5 logical collections |
-| 2026-10-17 18:13:53 | [magnetite_midi](https://crates.io/crates/magnetite_midi) | 0.1.0 | 0 | A SoundFont MIDI synthesizer written in pure Rust |
-| 2026-10-17 18:14:27 | [blazing-radix](https://crates.io/crates/blazing-radix) | 0.1.0 | 0 | Adaptive hybrid radix sorting for integers and f32 with reusable scratch memory |
-| 2026-10-17 18:14:37 | [retex-pdf](https://crates.io/crates/retex-pdf) | 0.9.0 | 0 | PDF backend for retex |
+| 2026-10-17 18:20:13 | [filament](https://crates.io/crates/filament) | 0.1.0 | 0 | A Minecraft server, written from scratch in Rust |
+| 2026-10-17 18:20:28 | [lena-adapter-treesitter](https://crates.io/crates/lena-adapter-treesitter) | 0.1.3 | 0 | A code-to-graph Swiss Army knife for interactive docs, call traces, and LLM con… |
+| 2026-10-17 18:22:36 | [fidmeter](https://crates.io/crates/fidmeter) | 0.1.0 | 0 | Information fidelity measurement: how much a stored fact can still be trusted,… |
+| 2026-10-17 18:23:02 | [ironbeam-transform-regex](https://crates.io/crates/ironbeam-transform-regex) | 5.0.0 | 0 | Regex transforms for Ironbeam 5 logical collections |
+| 2026-10-17 18:24:30 | [smokescreen](https://crates.io/crates/smokescreen) | 0.1.0 | 0 | Deterministic smoke simulation for games and servers: flood fill through levels… |
+| 2026-10-17 18:24:35 | [bevy_smokescreen](https://crates.io/crates/bevy_smokescreen) | 0.1.0 | 0 | Smoke for Bevy that fills rooms, flows through doorways and blocks sight: grena… |
+| 2026-10-17 18:24:39 | [retex-engine](https://crates.io/crates/retex-engine) | 0.9.0 | 0 | The TeX typesetting engine for retex |
+| 2026-10-17 18:25:59 | [docxdriver-core](https://crates.io/crates/docxdriver-core) | 0.4.0 | 0 | Artifact-first DOCX engine: (bytes, DocxCommand JSON) -> (bytes, DocxCommandRes… |
+| 2026-10-17 18:26:18 | [docxdriver-monty-repl](https://crates.io/crates/docxdriver-monty-repl) | 0.4.0 | 0 | The docxdriver Python API (Document, plan builders) as source for Monty sandbox… |
+| 2026-10-17 18:29:17 | [bcode_agent_policy_models](https://crates.io/crates/bcode_agent_policy_models) | 0.0.1-alpha.0 | 0 | Agent permission policy models for bcode |
+| 2026-10-17 18:29:21 | [bcode_tool_models](https://crates.io/crates/bcode_tool_models) | 0.0.1-alpha.0 | 0 | Serializable model types for Bcode tool runtime contracts |
+| 2026-10-17 18:29:26 | [bcode_tool](https://crates.io/crates/bcode_tool) | 0.0.1-alpha.0 | 0 | Model-callable tool contract types for bcode |
+| 2026-10-17 18:29:30 | [bcode_skill_models](https://crates.io/crates/bcode_skill_models) | 0.0.1-alpha.0 | 0 | Skill protocol models for bcode |
+| 2026-10-17 18:29:34 | [bcode_session_models](https://crates.io/crates/bcode_session_models) | 0.0.1-alpha.0 | 0 | Session protocol models for bcode |
+| 2026-10-17 18:31:07 | [ragrig-gpui](https://crates.io/crates/ragrig-gpui) | 0.2.0 | 0 | Reusable GPUI components for Ragrig RAG chat, citations, and reference ingestion |
+| 2026-10-17 18:31:44 | [primitives-rs-macros-core](https://crates.io/crates/primitives-rs-macros-core) | 0.0.1-pre.0 | 0 | The expansion of the primitives-rs TypeScript generation derive, for crates tha… |
+| 2026-10-17 18:31:59 | [primitives-rs-macros](https://crates.io/crates/primitives-rs-macros) | 0.0.1-pre.0 | 0 | Procedural macros for primitives-rs |
+| 2026-10-17 18:32:15 | [paranoid-macros](https://crates.io/crates/paranoid-macros) | 0.0.0-pre.11 | 0 | Procedural macros for paranoid |
+| 2026-10-17 18:33:02 | [ironbeam-transforms](https://crates.io/crates/ironbeam-transforms) | 5.0.0 | 0 | Convenience transforms for Ironbeam 5 logical collections |
+| 2026-10-17 18:33:04 | [paranoid-testing](https://crates.io/crates/paranoid-testing) | 0.0.0-pre.11 | 0 | PostgreSQL and PgBouncer containers for testing applications that use paranoid. |
+| 2026-10-17 18:33:12 | [vorma-path-wire](https://crates.io/crates/vorma-path-wire) | 0.86.0-pre.4 | 0 | Vorma's canonical segment-preserving URL-path wire codec. |
+| 2026-10-17 18:34:37 | [retex-lua](https://crates.io/crates/retex-lua) | 0.9.0 | 0 | Embedded Lua and the LuaTeX Lua API for retex |
+| 2026-10-17 18:35:33 | [rust-roll](https://crates.io/crates/rust-roll) | 0.1.0 | 0 | A command-line dice roller for tabletop RPGs, following the D&D 5e rules |
+| 2026-10-17 18:37:43 | [bcode_shell_command_analysis_models](https://crates.io/crates/bcode_shell_command_analysis_models) | 0.0.1-alpha.0 | 0 | Owned shell command analysis contract types for Bcode |
+| 2026-10-17 18:39:06 | [instinct-core](https://crates.io/crates/instinct-core) | 0.1.0 | 0 | Instinct: core types (Question/Answer shapes, Millis, Confidence, Span, DataVer… |
+| 2026-10-17 18:39:13 | [instinct-text](https://crates.io/crates/instinct-text) | 0.1.0 | 0 | Instinct: canonicalization with an offset map: NFC, Ñ-preserving folds, protect… |
+| 2026-10-17 18:39:21 | [instinct-lexicon](https://crates.io/crates/instinct-lexicon) | 0.1.0 | 0 | Instinct: closed-vocabulary matching: token-boundary exact, longest known code,… |
+| 2026-10-17 18:43:03 | [ironbeam-compat](https://crates.io/crates/ironbeam-compat) | 5.0.0 | 0 | Bounded in-process data bridges and migration imports for Ironbeam 4 and 5 |
+| 2026-10-17 18:44:21 | [agent-memgc](https://crates.io/crates/agent-memgc) | 1.0.0 | 0 | High-performance linter, cache-layout optimizer, and generational mark-and-swee… |
+| 2026-10-17 18:44:42 | [retex](https://crates.io/crates/retex) | 0.9.0 | 0 | A TeX engine written in Rust: a drop-in replacement for lualatex, with pixel-id… |
+| 2026-10-17 18:45:54 | [alphagrep](https://crates.io/crates/alphagrep) | 0.1.6 | 0 | CLI-first code search and retrieval for agents |
+| 2026-10-17 18:46:16 | [crossfire-utils](https://crates.io/crates/crossfire-utils) | 0.1.0 | 0 | Utilities used by crossfire |
+| 2026-10-17 18:47:32 | [bcode_agent_profile](https://crates.io/crates/bcode_agent_profile) | 0.0.1-alpha.0 | 0 | Agent profile policy contract types for bcode |
+| 2026-10-17 18:52:02 | [http-envelope](https://crates.io/crates/http-envelope) | 0.1.0 | 0 | One JSON response envelope for axum APIs - success, payload, errors, warnings,… |
+| 2026-10-17 18:54:00 | [airs-cli](https://crates.io/crates/airs-cli) | 0.3.1 | 0 | Native Rust CLI for Prisma AIRS (executable airs-cli-rs until 1.0), built on th… |
+| 2026-10-17 18:54:47 | [wora-observability-linux-mm](https://crates.io/crates/wora-observability-linux-mm) | 0.1.0 | 0 | Typed Linux memory-management readers extending procfs |
+| 2026-10-17 18:55:37 | [n3-lib](https://crates.io/crates/n3-lib) | 0.1.2 | 0 | Read, edit and write Knight Online N3 assets |
+| 2026-10-17 18:57:32 | [bcode_shell_command_analysis](https://crates.io/crates/bcode_shell_command_analysis) | 0.0.1-alpha.0 | 0 | Bounded POSIX shell command analysis for Bcode policy evaluation |
+| 2026-10-17 18:57:38 | [openpx-sdk](https://crates.io/crates/openpx-sdk) | 0.0.1 | 0 | OpenPX SDK (early release): the OpenPX schema for describing products once and… |
+| 2026-10-17 18:57:41 | [openpx-cli](https://crates.io/crates/openpx-cli) | 0.0.1 | 0 | OpenPX command line (early release). |
+| 2026-10-17 19:06:15 | [ontology-docs-data-0](https://crates.io/crates/ontology-docs-data-0) | 0.6.0 | 0 | Embedded documentation datapack, part 0 of 5. Used by ontology-docs at build ti… |
+| 2026-10-17 19:06:17 | [ontology-docs-data-1](https://crates.io/crates/ontology-docs-data-1) | 0.6.0 | 0 | Embedded documentation datapack, part 1 of 5. Used by ontology-docs at build ti… |
+| 2026-10-17 19:06:19 | [ontology-docs-data-2](https://crates.io/crates/ontology-docs-data-2) | 0.6.0 | 0 | Embedded documentation datapack, part 2 of 5. Used by ontology-docs at build ti… |
+| 2026-10-17 19:06:21 | [ontology-docs-data-3](https://crates.io/crates/ontology-docs-data-3) | 0.6.0 | 0 | Embedded documentation datapack, part 3 of 5. Used by ontology-docs at build ti… |
+| 2026-10-17 19:06:23 | [ontology-docs-data-4](https://crates.io/crates/ontology-docs-data-4) | 0.6.0 | 0 | Embedded documentation datapack, part 4 of 5. Used by ontology-docs at build ti… |
+| 2026-10-17 19:07:32 | [bcode_agent_policy](https://crates.io/crates/bcode_agent_policy) | 0.0.1-alpha.0 | 0 | Pi/OpenCode-style agent policy evaluation for bcode |
+| 2026-10-17 19:11:25 | [inboxjot](https://crates.io/crates/inboxjot) | 0.0.1 | 0 | Official Inboxjot SDK (coming soon) |
+| 2026-10-17 19:17:33 | [bcode_model](https://crates.io/crates/bcode_model) | 0.0.1-alpha.0 | 0 | Model provider contract types for bcode |
 
 ## Data source
 
