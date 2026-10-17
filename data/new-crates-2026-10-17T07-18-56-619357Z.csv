@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T06:25:04.505797Z,empower-rs-utils,0.1.0,0,0,https://github.com/EmpowerOperations/rs-utils,Shared utilities for EmpowerOps Rust projects: semicolon-CSV reporting and an FFI locking context.
+2026-10-17T06:27:32.268057Z,bmux_codec_derive,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Derive macro for flattening nested enums into one serde variant space
+2026-10-17T06:35:41.550884Z,fatsearch,0.1.0,0,0,https://github.com/fatsearch/fatsearch,"Web pages and documents turned into small, clean, cached Markdown for AI agents"
+2026-10-17T06:45:24.568465Z,ek-dm,0.1.0,0,0,https://cnb.cool/enkeep/ek-dm,"Data-manager runtime for the ek ecosystem: tick-driven bar synthesis, multi-interval routing and fixed-size rolling OHLCV arrays (Python enkeep_trade enkeep_data_manager bar_generator/kline_manager/d…"
+2026-10-17T06:55:11.976379Z,rustls-scytale,0.10.0-dev.2,0,0,https://github.com/user-serviceable-parts/scytale,"A rustls crypto provider implemented with scytale: pure Rust, no C compiler, no build script, post-quantum by default"
+2026-10-17T06:56:33.459256Z,in-progress,0.1.0,0,0,https://github.com/sheaf-pdf/in-progress,Progress reporting and cancellation for long-running operations
+2026-10-17T07:00:24.000001Z,openapi-aggregator-core,0.9.0,0,0,https://github.com/includeamin/openapi-aggregator,"Pure merge logic for openapi-aggregator (no I/O, wasm-compatible)"
+2026-10-17T07:01:09.01387Z,openapi-aggregator,0.9.0,0,0,https://github.com/includeamin/openapi-aggregator,Aggregate and merge OpenAPI specifications from multiple sources
+2026-10-17T07:01:30.261482Z,label-filter,0.3.1,0,0,https://github.com/code-evolve/label-filter,"A small glob-like pattern language for filtering lists of objects by their labels. Parsed to an IR, never compiled to a regex."
+2026-10-17T07:02:07.597739Z,warp-runtime,1.3.0,0,0,https://github.com/pannous/warp,Runs compiled Warp programs without the compiler: the stub of Warp's standalone executables
+2026-10-17T07:02:10.458853Z,warp-lang,1.3.0,0,0,https://github.com/pannous/warp,"Warp: the Warp language, a data notation that is also a programming language, compiled to WebAssembly GC"
+2026-10-17T07:03:08.296127Z,ek-station,0.1.0,0,0,https://cnb.cool/enkeep/ek-station,"Station for the ek ecosystem: headless plugin host bootstrap - assembles ek-core MainEngine from a compile-time plugin factory table, runs the svctl supervisor service (list/start/remove over bus ask…"
+2026-10-17T07:06:55.964084Z,bobview-bob,1.8.1,0,0,https://github.com/gilesknap/bobview,Parser for Phoebus Display Builder .bob files
+2026-10-17T07:06:56.842498Z,bobview-pv,1.8.1,0,0,https://github.com/gilesknap/bobview,"PV access layer for bobview: CA, PVA, loc:// and sim:// behind one interface"
+2026-10-17T07:06:57.400179Z,bobview-testioc,1.8.1,0,0,https://github.com/gilesknap/bobview,Pure-Rust CA and PVA test IOC serving the example-services BL01T PVs
+2026-10-17T07:07:00.002005Z,bobview,1.8.1,0,0,https://github.com/gilesknap/bobview,"A lean viewer for Phoebus Display Builder .bob and CS-Studio BOY .opi screens, with live EPICS PVs"
+2026-10-17T07:07:00.706851Z,bobview-server,1.8.1,0,0,https://github.com/gilesknap/bobview,"Serve bobview to browsers: the web build, .bob files and a PV Web Socket (PVWS) onto CA/PVA"
+2026-10-17T07:12:02.882298Z,database-mcp-rs-core,0.1.0,0,0,https://github.com/arifulislamat/database-mcp,"Shared core for the database-mcp Rust servers: MCP tools, config, SQL guard, secret handling"
+2026-10-17T07:12:06.405933Z,database-mcp-rs-libsql,0.1.0,0,0,https://github.com/arifulislamat/database-mcp,"MCP server for libSQL/Turso (local files and remote databases) with read-only guardrails, row caps, and statement timeouts"
+2026-10-17T07:12:07.626534Z,database-mcp-rs-mysql,0.1.0,0,0,https://github.com/arifulislamat/database-mcp,"MCP server for MySQL with read-only guardrails, row caps, and statement timeouts"
+2026-10-17T07:12:08.956264Z,database-mcp-rs-postgres,0.1.0,0,0,https://github.com/arifulislamat/database-mcp,"MCP server for PostgreSQL with read-only guardrails, row caps, and statement timeouts"
+2026-10-17T07:16:55.384401Z,arona-rs,1.2.0,0,0,https://github.com/YuLinLoli/Arona-rs,Arona 框架：OneBot 连接、管理面板(GUI)、群授权与命令分发；功能由插件提供
+2026-10-17T07:17:41.239671Z,database-mcp-rs-sqlite,0.1.0,0,0,https://github.com/arifulislamat/database-mcp,"MCP server for SQLite with read-only guardrails, row caps, and statement timeouts"

@@ -8,39 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 06:20 UTC
+## Latest list — 2026-10-17 07:18 UTC
 
-New crates published between 2026-10-17 05:18 UTC and 2026-10-17 06:20 UTC.
+New crates published between 2026-10-17 06:20 UTC and 2026-10-17 07:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-17T06-20-15-968905Z.csv)
+[Full CSV](data/new-crates-2026-10-17T07-18-56-619357Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-17 05:20:23 | [bunsen-app](https://crates.io/crates/bunsen-app) | 0.39.0 | 0 | Shared command-line plumbing for bunsen's binaries: device and precision select… |
-| 2026-10-17 05:22:29 | [kinavis-agri](https://crates.io/crates/kinavis-agri) | 0.1.0 | 0 | Field guidance for the KINAVIS navigation crates: a low-distortion field plane,… |
-| 2026-10-17 05:27:33 | [bmux_web_host](https://crates.io/crates/bmux_web_host) | 0.0.1-alpha.3 | 0 | Bounded domain-neutral loopback browser snapshot and viewport hosting |
-| 2026-10-17 05:29:47 | [huffman-cli](https://crates.io/crates/huffman-cli) | 0.1.0 | 0 | A small Huffman coding compressor and decompressor for text files |
-| 2026-10-17 05:34:35 | [llm-suite-types](https://crates.io/crates/llm-suite-types) | 0.1.0 | 0 | Core model and helper types for llm-suite |
-| 2026-10-17 05:34:43 | [llm-suite-common](https://crates.io/crates/llm-suite-common) | 0.1.0 | 0 | Shared utilities for the llm-suite crates |
-| 2026-10-17 05:34:47 | [llm-suite-proxy](https://crates.io/crates/llm-suite-proxy) | 0.1.0 | 0 | Shared proxy construction for the llm-suite HTTP clients |
-| 2026-10-17 05:34:53 | [llm-suite-token](https://crates.io/crates/llm-suite-token) | 0.1.0 | 0 | Token counting and handling for LLM messages |
-| 2026-10-17 05:35:01 | [llm-suite-message](https://crates.io/crates/llm-suite-message) | 0.1.0 | 0 | LLM message construction and manipulation |
-| 2026-10-17 05:37:34 | [bmux_presenter_plugin](https://crates.io/crates/bmux_presenter_plugin) | 0.0.1-alpha.3 | 0 | Plugin-owned native presentation CLI and managed hosting |
-| 2026-10-17 05:40:39 | [dbmcp-ssh](https://crates.io/crates/dbmcp-ssh) | 0.15.0 | 0 | SSH tunnel for dbmcp |
-| 2026-10-17 05:46:22 | [llm-suite-tool-call](https://crates.io/crates/llm-suite-tool-call) | 0.1.0 | 0 | Tool-call parsing and rendering (JSON partial, XML) |
-| 2026-10-17 05:47:33 | [bmux_sidebar_plugin](https://crates.io/crates/bmux_sidebar_plugin) | 0.0.1-alpha.3 | 0 | Bundled vertical tab presentation plugin for bmux |
-| 2026-10-17 05:48:49 | [malt-parser](https://crates.io/crates/malt-parser) | 0.1.1 | 0 | JVM-free Rust port of MaltParser 1.9.2's inference engine (arc-eager + MCSVM) —… |
-| 2026-10-17 05:50:56 | [tltk-core](https://crates.io/crates/tltk-core) | 0.1.1 | 0 | Rust rewrite of TLTK (Thai Language Toolkit) inference primitives — modelless,… |
-| 2026-10-17 05:53:25 | [bunsen-asr](https://crates.io/crates/bunsen-asr) | 0.39.0 | 0 | Speech to text on bunsen, one subcommand per model family: Parakeet TDT (Fermio… |
-| 2026-10-17 05:57:33 | [bmux_tab_bar_plugin](https://crates.io/crates/bmux_tab_bar_plugin) | 0.0.1-alpha.3 | 0 | Bundled horizontal tab presentation plugin for bmux |
-| 2026-10-17 06:07:34 | [bmux_tabs_plugin](https://crates.io/crates/bmux_tabs_plugin) | 0.0.1-alpha.3 | 0 | Shipped tabs plugin for bmux |
-| 2026-10-17 06:15:21 | [wolf-CLI](https://crates.io/crates/wolf-CLI) | 1.3.0 | 0 | Local LLM chat and model inspection CLI powered by llama.cpp |
-| 2026-10-17 06:17:33 | [bmux_workspaces_plugin](https://crates.io/crates/bmux_workspaces_plugin) | 0.0.1-alpha.3 | 0 | Named workspace metadata and switching for bmux |
-| 2026-10-17 06:17:38 | [repame-l10n](https://crates.io/crates/repame-l10n) | 0.3.22 | 0 | runtime localization: catalogs, CLDR plurals, locale registry, missing-key repo… |
-| 2026-10-17 06:17:38 | [repame-reflect](https://crates.io/crates/repame-reflect) | 0.3.22 | 0 | reflected component registry, RON world snapshots, and an inspectable component… |
-| 2026-10-17 06:17:38 | [repame-xr](https://crates.io/crates/repame-xr) | 0.3.22 | 0 | XR: session lifecycle, reference spaces, stereo views, action sets, and the run… |
-| 2026-10-17 06:17:41 | [repame-net](https://crates.io/crates/repame-net) | 0.3.22 | 0 | game networking: TCP and reliable-UDP transports, channels, replication and RPC |
-| 2026-10-17 06:17:45 | [repame-nav](https://crates.io/crates/repame-nav) | 0.3.22 | 0 | Spatial navigation: heightfield navmesh bake, A* path queries, funnel corridors… |
+| 2026-10-17 06:25:04 | [empower-rs-utils](https://crates.io/crates/empower-rs-utils) | 0.1.0 | 0 | Shared utilities for EmpowerOps Rust projects: semicolon-CSV reporting and an F… |
+| 2026-10-17 06:27:32 | [bmux_codec_derive](https://crates.io/crates/bmux_codec_derive) | 0.0.1-alpha.3 | 0 | Derive macro for flattening nested enums into one serde variant space |
+| 2026-10-17 06:35:41 | [fatsearch](https://crates.io/crates/fatsearch) | 0.1.0 | 0 | Web pages and documents turned into small, clean, cached Markdown for AI agents |
+| 2026-10-17 06:45:24 | [ek-dm](https://crates.io/crates/ek-dm) | 0.1.0 | 0 | Data-manager runtime for the ek ecosystem: tick-driven bar synthesis, multi-int… |
+| 2026-10-17 06:55:11 | [rustls-scytale](https://crates.io/crates/rustls-scytale) | 0.10.0-dev.2 | 0 | A rustls crypto provider implemented with scytale: pure Rust, no C compiler, no… |
+| 2026-10-17 06:56:33 | [in-progress](https://crates.io/crates/in-progress) | 0.1.0 | 0 | Progress reporting and cancellation for long-running operations |
+| 2026-10-17 07:00:24 | [openapi-aggregator-core](https://crates.io/crates/openapi-aggregator-core) | 0.9.0 | 0 | Pure merge logic for openapi-aggregator (no I/O, wasm-compatible) |
+| 2026-10-17 07:01:09 | [openapi-aggregator](https://crates.io/crates/openapi-aggregator) | 0.9.0 | 0 | Aggregate and merge OpenAPI specifications from multiple sources |
+| 2026-10-17 07:01:30 | [label-filter](https://crates.io/crates/label-filter) | 0.3.1 | 0 | A small glob-like pattern language for filtering lists of objects by their labe… |
+| 2026-10-17 07:02:07 | [warp-runtime](https://crates.io/crates/warp-runtime) | 1.3.0 | 0 | Runs compiled Warp programs without the compiler: the stub of Warp's standalone… |
+| 2026-10-17 07:02:10 | [warp-lang](https://crates.io/crates/warp-lang) | 1.3.0 | 0 | Warp: the Warp language, a data notation that is also a programming language, c… |
+| 2026-10-17 07:03:08 | [ek-station](https://crates.io/crates/ek-station) | 0.1.0 | 0 | Station for the ek ecosystem: headless plugin host bootstrap - assembles ek-cor… |
+| 2026-10-17 07:06:55 | [bobview-bob](https://crates.io/crates/bobview-bob) | 1.8.1 | 0 | Parser for Phoebus Display Builder .bob files |
+| 2026-10-17 07:06:56 | [bobview-pv](https://crates.io/crates/bobview-pv) | 1.8.1 | 0 | PV access layer for bobview: CA, PVA, loc:// and sim:// behind one interface |
+| 2026-10-17 07:06:57 | [bobview-testioc](https://crates.io/crates/bobview-testioc) | 1.8.1 | 0 | Pure-Rust CA and PVA test IOC serving the example-services BL01T PVs |
+| 2026-10-17 07:07:00 | [bobview](https://crates.io/crates/bobview) | 1.8.1 | 0 | A lean viewer for Phoebus Display Builder .bob and CS-Studio BOY .opi screens,… |
+| 2026-10-17 07:07:00 | [bobview-server](https://crates.io/crates/bobview-server) | 1.8.1 | 0 | Serve bobview to browsers: the web build, .bob files and a PV Web Socket (PVWS)… |
+| 2026-10-17 07:12:02 | [database-mcp-rs-core](https://crates.io/crates/database-mcp-rs-core) | 0.1.0 | 0 | Shared core for the database-mcp Rust servers: MCP tools, config, SQL guard, se… |
+| 2026-10-17 07:12:06 | [database-mcp-rs-libsql](https://crates.io/crates/database-mcp-rs-libsql) | 0.1.0 | 0 | MCP server for libSQL/Turso (local files and remote databases) with read-only g… |
+| 2026-10-17 07:12:07 | [database-mcp-rs-mysql](https://crates.io/crates/database-mcp-rs-mysql) | 0.1.0 | 0 | MCP server for MySQL with read-only guardrails, row caps, and statement timeouts |
+| 2026-10-17 07:12:08 | [database-mcp-rs-postgres](https://crates.io/crates/database-mcp-rs-postgres) | 0.1.0 | 0 | MCP server for PostgreSQL with read-only guardrails, row caps, and statement ti… |
+| 2026-10-17 07:16:55 | [arona-rs](https://crates.io/crates/arona-rs) | 1.2.0 | 0 | Arona 框架：OneBot 连接、管理面板(GUI)、群授权与命令分发；功能由插件提供 |
+| 2026-10-17 07:17:41 | [database-mcp-rs-sqlite](https://crates.io/crates/database-mcp-rs-sqlite) | 0.1.0 | 0 | MCP server for SQLite with read-only guardrails, row caps, and statement timeou… |
 
 ## Data source
 
