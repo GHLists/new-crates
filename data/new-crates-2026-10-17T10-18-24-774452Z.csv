@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T09:22:02.997775Z,airthings-client,0.1.0,0,0,https://github.com/christianhelle/airdash,"Client for the Airthings Consumer API, with OAuth sign-in and token refresh"
+2026-10-17T09:22:30.711321Z,airdash-core,0.1.0,0,0,https://github.com/christianhelle/airdash,"Refreshing, credential storage and the saved app state for AirDash"
+2026-10-17T09:23:18.905691Z,airdash,0.1.0,0,0,https://github.com/christianhelle/airdash,Desktop dashboard for Airthings air quality monitors
+2026-10-17T09:25:24.478527Z,ic-wire-derive,0.3.1,0,0,https://github.com/dragginzgame/ic-wire,Explicit-layout Wire derives for ic-wire bounded contracts
+2026-10-17T09:25:26.94046Z,ic-wire,0.3.1,0,0,https://github.com/dragginzgame/ic-wire,Bounded canonical Postcard contracts for controlled Internet Computer endpoints
+2026-10-17T09:26:35.219257Z,compograph-layout,0.1.0,0,0,,Graph layout engine for compograph
+2026-10-17T09:35:13.940789Z,rf-copy,0.1.1,0,0,,Copy paths or file references to the macOS clipboard; archive directories as tar files
+2026-10-17T09:37:32.205697Z,seo-jaro-core,0.2.0,0,0,https://github.com/jarohull-ai/jarohull-ai-seo-jaro-project,"Core SEO content generation, keyword clustering, and on-page auditing engine in Rust. Pluggable provider system for Google Gemini, OpenAI, Claude, Ollama."
+2026-10-17T09:38:42.940836Z,compograph-render,0.1.0,0,0,,Graph canvas rendering for compograph
+2026-10-17T09:39:31.693688Z,aorta,0.0.1,0,0,,Placeholder for the Aorta robotics middleware SDK by VitaDynamics; real releases coming soon
+2026-10-17T09:40:25.456201Z,ontomark-profile-estate,0.4.0,0,0,https://github.com/DreamLab-AI/ontomark,"The DreamLab estate profile for ontomark: taxonomy, IRI rules, attribution roster and governance kinds of the visionGraph corpus"
+2026-10-17T09:40:42.393658Z,ontomark,0.4.0,0,0,https://github.com/DreamLab-AI/ontomark,"Markdown ontology vaults to standard artefacts: build, validate, gate, conflicts, find, retrieve, tree, guarded edits and migrations for Obsidian vaults and estate repositories"
+2026-10-17T09:42:33.334673Z,inkvault-core,0.2.1,0,0,https://github.com/tzx1z/inkvault-core,"Cryptographic core of InkVault: encryption, record model, HLC merge and PEP sync engine"
+2026-10-17T09:48:50.489366Z,convx,0.1.0,0,0,https://github.com/YUKIKEDA/convx,"N-dimensional convex hull, Delaunay triangulation, and Voronoi diagram with exact predicates"
+2026-10-17T09:50:54.870634Z,polyoxide-polymarket,0.40.0,0,0,https://github.com/dilettante-trading/polyoxide,"Rust client library for Polymarket's APIs: CLOB, Gamma, Data, Relay, Perps, RTDS and Sports, each behind its own feature"
+2026-10-17T09:59:59.728461Z,lodestone-types,0.0.16,0,0,,Shared semantic types for Lodestone components and public Rust APIs
+2026-10-17T10:00:44.293897Z,lodestone-proto,0.0.16,0,0,,Versioned protocol envelopes and transport-neutral requests for Lodestone
+2026-10-17T10:01:53.846386Z,rust-fest,0.1.0,0,0,https://github.com/nonomnonom/rust-fest,"Essential Rust utility types. no_std + alloc, optional Serde."
+2026-10-17T10:06:30.230043Z,compograph-interact,0.1.0,0,0,,Pointer interaction state for compograph
+2026-10-17T10:07:17.258383Z,inkvault-cli,0.2.1,0,0,https://github.com/tzx1z/inkvault-cli,"Terminal client for InkVault, a self-hosted password manager with end-to-end encryption and sync over XMPP"
+2026-10-17T10:15:21.143825Z,compograph,0.1.0,0,0,,Desktop graph visualization application
+2026-10-17T10:15:36.13679Z,madeitpx,0.1.0,0,0,https://github.com/TamKungZ/madeitpx,Rust binding for the madeitpx pixel-art image conversion library
+2026-10-17T10:15:54.236843Z,linkrs-metrics,0.1.0,0,0,,"Central observability primitives: StatsManager, latency histograms, error and slow-query statistics"
+2026-10-17T10:16:16.388181Z,linkrs-core,0.1.0,0,0,,"Core data structures, types, and errors for Linkrs"

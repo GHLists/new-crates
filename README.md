@@ -8,35 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 09:18 UTC
+## Latest list — 2026-10-17 10:18 UTC
 
-New crates published between 2026-10-17 08:19 UTC and 2026-10-17 09:18 UTC.
+New crates published between 2026-10-17 09:18 UTC and 2026-10-17 10:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-17T09-18-25-383616Z.csv)
+[Full CSV](data/new-crates-2026-10-17T10-18-24-774452Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-17 08:29:47 | [llm-suite-codec](https://crates.io/crates/llm-suite-codec) | 0.1.0 | 0 | Provider codec layer for llm-suite |
-| 2026-10-17 08:29:54 | [omi](https://crates.io/crates/omi) | 1.0.0 | 0 | Omi, the Omarchy mascot: its kit (every mode, as data) and a player that plays… |
-| 2026-10-17 08:29:56 | [llm-suite-embedding](https://crates.io/crates/llm-suite-embedding) | 0.1.0 | 0 | Embedding client for LLM providers |
-| 2026-10-17 08:30:01 | [llm-suite-chat-basic](https://crates.io/crates/llm-suite-chat-basic) | 0.1.0 | 0 | Basic chat completion client for LLM providers |
-| 2026-10-17 08:30:08 | [llm-suite-rerank](https://crates.io/crates/llm-suite-rerank) | 0.1.0 | 0 | Reranking client for LLM providers |
-| 2026-10-17 08:30:22 | [llm-suite-client](https://crates.io/crates/llm-suite-client) | 0.1.0 | 0 | Unified LLM client abstraction |
-| 2026-10-17 08:38:06 | [beaconcrypt-core](https://crates.io/crates/beaconcrypt-core) | 0.1.0 | 0 | Protocol state transitions for beaconcrypt |
-| 2026-10-17 08:39:40 | [llm-suite-config](https://crates.io/crates/llm-suite-config) | 0.1.0 | 0 | Configuration and provider registry for llm-suite |
-| 2026-10-17 08:42:07 | [sutegi-log](https://crates.io/crates/sutegi-log) | 0.12.0 | 0 | Structured, context-carrying logging for sutegi: levels, per-target filters, JS… |
-| 2026-10-17 08:47:02 | [grfsh](https://crates.io/crates/grfsh) | 1.0.2 | 0 | A small Unix shell with bash style scripting, typed table pipelines and an agen… |
-| 2026-10-17 08:49:15 | [code-buster](https://crates.io/crates/code-buster) | 0.10.0 | 0 | Repository-aware static analysis for AI-assisted development |
-| 2026-10-17 08:49:41 | [crates-city-ua](https://crates.io/crates/crates-city-ua) | 0.1.0 | 0 | Placeholder crate for predefined User-Agent values |
-| 2026-10-17 08:53:05 | [llm-suite-gateway](https://crates.io/crates/llm-suite-gateway) | 0.1.0 | 0 | Request routing gateway for LLM clients |
-| 2026-10-17 09:03:59 | [ihsg-cli](https://crates.io/crates/ihsg-cli) | 0.4.0 | 0 | Indonesian stock market (IDX / IHSG) analysis: the `idx` CLI and MCP server for… |
-| 2026-10-17 09:12:26 | [tryst](https://crates.io/crates/tryst) | 0.0.1 | 0 | Rooms that interoperate with Trystero 0.25 peers: signalling, signal crypto, th… |
-| 2026-10-17 09:13:14 | [compograph-types](https://crates.io/crates/compograph-types) | 0.1.0 | 0 | Geometry primitives for compograph |
-| 2026-10-17 09:13:28 | [compograph-geometry](https://crates.io/crates/compograph-geometry) | 0.1.0 | 0 | Hit testing and curve geometry for compograph |
-| 2026-10-17 09:13:53 | [misarpost](https://crates.io/crates/misarpost) | 1.0.0 | 0 | Async Rust client for MisarPost's social publishing API: schedule and publish p… |
-| 2026-10-17 09:14:02 | [misardev](https://crates.io/crates/misardev) | 1.0.0 | 0 | Async Rust client for the Misar.Dev API: create projects, write files, build an… |
-| 2026-10-17 09:14:05 | [misarseo](https://crates.io/crates/misarseo) | 1.0.0 | 0 | Async Rust client for the MisarSEO API: keyword research, site audits, rank tra… |
-| 2026-10-17 09:14:52 | [compograph-graph](https://crates.io/crates/compograph-graph) | 0.1.0 | 0 | Graph storage and change events for compograph |
+| 2026-10-17 09:22:02 | [airthings-client](https://crates.io/crates/airthings-client) | 0.1.0 | 0 | Client for the Airthings Consumer API, with OAuth sign-in and token refresh |
+| 2026-10-17 09:22:30 | [airdash-core](https://crates.io/crates/airdash-core) | 0.1.0 | 0 | Refreshing, credential storage and the saved app state for AirDash |
+| 2026-10-17 09:23:18 | [airdash](https://crates.io/crates/airdash) | 0.1.0 | 0 | Desktop dashboard for Airthings air quality monitors |
+| 2026-10-17 09:25:24 | [ic-wire-derive](https://crates.io/crates/ic-wire-derive) | 0.3.1 | 0 | Explicit-layout Wire derives for ic-wire bounded contracts |
+| 2026-10-17 09:25:26 | [ic-wire](https://crates.io/crates/ic-wire) | 0.3.1 | 0 | Bounded canonical Postcard contracts for controlled Internet Computer endpoints |
+| 2026-10-17 09:26:35 | [compograph-layout](https://crates.io/crates/compograph-layout) | 0.1.0 | 0 | Graph layout engine for compograph |
+| 2026-10-17 09:35:13 | [rf-copy](https://crates.io/crates/rf-copy) | 0.1.1 | 0 | Copy paths or file references to the macOS clipboard; archive directories as ta… |
+| 2026-10-17 09:37:32 | [seo-jaro-core](https://crates.io/crates/seo-jaro-core) | 0.2.0 | 0 | Core SEO content generation, keyword clustering, and on-page auditing engine in… |
+| 2026-10-17 09:38:42 | [compograph-render](https://crates.io/crates/compograph-render) | 0.1.0 | 0 | Graph canvas rendering for compograph |
+| 2026-10-17 09:39:31 | [aorta](https://crates.io/crates/aorta) | 0.0.1 | 0 | Placeholder for the Aorta robotics middleware SDK by VitaDynamics; real release… |
+| 2026-10-17 09:40:25 | [ontomark-profile-estate](https://crates.io/crates/ontomark-profile-estate) | 0.4.0 | 0 | The DreamLab estate profile for ontomark: taxonomy, IRI rules, attribution rost… |
+| 2026-10-17 09:40:42 | [ontomark](https://crates.io/crates/ontomark) | 0.4.0 | 0 | Markdown ontology vaults to standard artefacts: build, validate, gate, conflict… |
+| 2026-10-17 09:42:33 | [inkvault-core](https://crates.io/crates/inkvault-core) | 0.2.1 | 0 | Cryptographic core of InkVault: encryption, record model, HLC merge and PEP syn… |
+| 2026-10-17 09:48:50 | [convx](https://crates.io/crates/convx) | 0.1.0 | 0 | N-dimensional convex hull, Delaunay triangulation, and Voronoi diagram with exa… |
+| 2026-10-17 09:50:54 | [polyoxide-polymarket](https://crates.io/crates/polyoxide-polymarket) | 0.40.0 | 0 | Rust client library for Polymarket's APIs: CLOB, Gamma, Data, Relay, Perps, RTD… |
+| 2026-10-17 09:59:59 | [lodestone-types](https://crates.io/crates/lodestone-types) | 0.0.16 | 0 | Shared semantic types for Lodestone components and public Rust APIs |
+| 2026-10-17 10:00:44 | [lodestone-proto](https://crates.io/crates/lodestone-proto) | 0.0.16 | 0 | Versioned protocol envelopes and transport-neutral requests for Lodestone |
+| 2026-10-17 10:01:53 | [rust-fest](https://crates.io/crates/rust-fest) | 0.1.0 | 0 | Essential Rust utility types. no_std + alloc, optional Serde. |
+| 2026-10-17 10:06:30 | [compograph-interact](https://crates.io/crates/compograph-interact) | 0.1.0 | 0 | Pointer interaction state for compograph |
+| 2026-10-17 10:07:17 | [inkvault-cli](https://crates.io/crates/inkvault-cli) | 0.2.1 | 0 | Terminal client for InkVault, a self-hosted password manager with end-to-end en… |
+| 2026-10-17 10:15:21 | [compograph](https://crates.io/crates/compograph) | 0.1.0 | 0 | Desktop graph visualization application |
+| 2026-10-17 10:15:36 | [madeitpx](https://crates.io/crates/madeitpx) | 0.1.0 | 0 | Rust binding for the madeitpx pixel-art image conversion library |
+| 2026-10-17 10:15:54 | [linkrs-metrics](https://crates.io/crates/linkrs-metrics) | 0.1.0 | 0 | Central observability primitives: StatsManager, latency histograms, error and s… |
+| 2026-10-17 10:16:16 | [linkrs-core](https://crates.io/crates/linkrs-core) | 0.1.0 | 0 | Core data structures, types, and errors for Linkrs |
 
 ## Data source
 
