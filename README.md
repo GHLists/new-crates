@@ -8,37 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 02:18 UTC
+## Latest list — 2026-10-17 03:19 UTC
 
-New crates published between 2026-10-17 01:18 UTC and 2026-10-17 02:18 UTC.
+New crates published between 2026-10-17 02:18 UTC and 2026-10-17 03:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-17T02-18-28-218857Z.csv)
+[Full CSV](data/new-crates-2026-10-17T03-19-33-881069Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-17 01:26:14 | [mylittlechart-app-input-shell](https://crates.io/crates/mylittlechart-app-input-shell) | 0.5.656 | 0 | Platform-neutral input pipeline shared by vello and web shells |
-| 2026-10-17 01:30:23 | [harness-lock-core](https://crates.io/crates/harness-lock-core) | 0.1.0 | 0 | Core library for harness-lock: manifest, lockfile, store, tuning. |
-| 2026-10-17 01:30:25 | [harness-lock](https://crates.io/crates/harness-lock) | 0.1.0 | 0 | Lock your agent into place: tune your agent stack and pin it to harness.lock. |
-| 2026-10-17 01:30:25 | [hlock](https://crates.io/crates/hlock) | 0.1.0 | 0 | Short name for harness-lock: lock your agent into place. |
-| 2026-10-17 01:33:47 | [quat_json](https://crates.io/crates/quat_json) | 0.3.1 | 0 | A high-performance quaternary JSON processing and compression library with univ… |
-| 2026-10-17 01:35:11 | [majik-key-client](https://crates.io/crates/majik-key-client) | 0.2.0 | 0 | Account and session client for majik-key: key manager, client state, own-accoun… |
-| 2026-10-17 01:36:17 | [mylittlechart-app-agent-api](https://crates.io/crates/mylittlechart-app-agent-api) | 0.5.656 | 0 | Render-agnostic Agent API plumbing — snapshot builders + command dispatch over… |
-| 2026-10-17 01:36:24 | [rhema-acp](https://crates.io/crates/rhema-acp) | 0.1.0 | 0 | The Agent Client Protocol adapter: rhema's coding agent as an ACP agent subproc… |
-| 2026-10-17 01:37:00 | [magi-tokenizer](https://crates.io/crates/magi-tokenizer) | 0.0.1 | 0 | Exact, fast o200k_base BPE tokenizer with build-time tables and a hand-written… |
-| 2026-10-17 01:46:35 | [mylittlechart-app-shell-headless](https://crates.io/crates/mylittlechart-app-shell-headless) | 0.5.656 | 0 | Render-agnostic mylittlechart backend daemon. Owns ChartApp + AgentState + HTTP… |
-| 2026-10-17 01:52:00 | [ntoseye-macros](https://crates.io/crates/ntoseye-macros) | 0.50.0 | 0 | Procedural macros for the ntoseye kernel debugger |
-| 2026-10-17 01:54:01 | [gantz_edit](https://crates.io/crates/gantz_edit) | 0.0.1 | 0 | The GUI-independent editing model of gantz, an environment for creative systems. |
-| 2026-10-17 01:54:57 | [ruk](https://crates.io/crates/ruk) | 0.0.0 | 0 | Initial sample library for the Ruk agent-native version control project |
-| 2026-10-17 01:55:10 | [ruk-core](https://crates.io/crates/ruk-core) | 0.0.0 | 0 | Initial sample library for the Ruk core module |
-| 2026-10-17 01:55:22 | [ruk-git](https://crates.io/crates/ruk-git) | 0.0.0 | 0 | Initial sample library for the Ruk Git interoperability module |
-| 2026-10-17 01:56:12 | [mylittlechart-app-shell-cli](https://crates.io/crates/mylittlechart-app-shell-cli) | 0.5.656 | 0 | Dual-mode CLI for the mlc backend. Default: HTTP client against a running mlc-b… |
-| 2026-10-17 01:57:08 | [turbojet-fix](https://crates.io/crates/turbojet-fix) | 0.4.0 | 0 | FIX 4.0 to 5.0 SP2 application messages for Turbojet, generated from the offici… |
-| 2026-10-17 02:02:41 | [encoding-guess](https://crates.io/crates/encoding-guess) | 0.1.0 | 0 | Character encoding detection for source code and text files |
-| 2026-10-17 02:04:58 | [mlx-voice](https://crates.io/crates/mlx-voice) | 0.1.1 | 0 | NeMo-compatible ASR and speech AI library for Apple Silicon, built on MLX |
-| 2026-10-17 02:05:04 | [win-multi-file-tail-watcher](https://crates.io/crates/win-multi-file-tail-watcher) | 0.1.1 | 0 | Reports length changes across a large population of files on a beat the caller… |
-| 2026-10-17 02:06:17 | [mylittlechart-app-shell-web](https://crates.io/crates/mylittlechart-app-shell-web) | 0.5.656 | 0 | Browser shell for the chart application. The body compiles on wasm32. |
-| 2026-10-17 02:07:20 | [mise-oci](https://crates.io/crates/mise-oci) | 0.0.0 | 0 | OCI registry client, layers, and image layout for mise (placeholder) |
-| 2026-10-17 02:16:09 | [tg-login-bot](https://crates.io/crates/tg-login-bot) | 0.1.0 | 0 | Telegram login bot for the web login flow. Long-polls the Bot API. |
+| 2026-10-17 02:21:30 | [bmux_plugin_runtime](https://crates.io/crates/bmux_plugin_runtime) | 0.0.1-alpha.3 | 0 | Host-owned plugin runtime primitives for bmux |
+| 2026-10-17 02:21:43 | [bmux_application_resurrection_plugin_api](https://crates.io/crates/bmux_application_resurrection_plugin_api) | 0.0.1-alpha.3 | 0 | Application resurrection host contracts |
+| 2026-10-17 02:23:17 | [mycelium-agent-core](https://crates.io/crates/mycelium-agent-core) | 1.0.0 | 0 | mycelium 领域内核：消息、工具协议、事件、运行状态机、错误体系与配置 |
+| 2026-10-17 02:23:25 | [mycelium-agent-macros](https://crates.io/crates/mycelium-agent-macros) | 1.0.0 | 0 | mycelium 过程宏：#[tool] 由普通函数生成 Tool 实现与 JSON Schema |
+| 2026-10-17 02:23:35 | [mycelium-agent-model](https://crates.io/crates/mycelium-agent-model) | 1.0.0 | 0 | mycelium 模型提供方抽象（SPI）：ModelProvider trait、请求、流式增量与能力声明 |
+| 2026-10-17 02:23:46 | [mycelium-agent-tools](https://crates.io/crates/mycelium-agent-tools) | 1.0.0 | 0 | mycelium 工具抽象（SPI）与注册表：Tool trait、执行上下文、ToolOutput 与 ToolRegistry |
+| 2026-10-17 02:24:07 | [mycelium-agent-mcp](https://crates.io/crates/mycelium-agent-mcp) | 1.0.0 | 0 | mycelium 的 MCP（Model Context Protocol）客户端适配：stdio JSON-RPC、tools/list 与 tools/c… |
+| 2026-10-17 02:24:31 | [katakuri](https://crates.io/crates/katakuri) | 0.1.0 | 0 | Model ecosystem layer over Zunesha — safetensors weight loading, WordPiece toke… |
+| 2026-10-17 02:25:47 | [mycelium-agent-runtime](https://crates.io/crates/mycelium-agent-runtime) | 1.0.0 | 0 | mycelium 执行引擎：AgentRuntime 装配、会话与运行钩子（执行循环自 v0.2 起实现） |
+| 2026-10-17 02:26:13 | [mlc-alert-daemon](https://crates.io/crates/mlc-alert-daemon) | 0.1.0 | 0 | Server-side price-alert evaluation and Telegram delivery. |
+| 2026-10-17 02:32:57 | [bmux_application_resurrection_plugin](https://crates.io/crates/bmux_application_resurrection_plugin) | 0.0.1-alpha.3 | 0 | Application resurrection host adapter |
+| 2026-10-17 02:33:36 | [mycelium-agent-provider-openai](https://crates.io/crates/mycelium-agent-provider-openai) | 1.0.0 | 0 | mycelium 的 OpenAI 兼容 Provider 实现（Chat Completions，流式 SSE） |
+| 2026-10-17 02:34:56 | [bmux_broadcast_plugin_api](https://crates.io/crates/bmux_broadcast_plugin_api) | 0.0.1-alpha.3 | 0 | Typed output-only live broadcast contracts |
+| 2026-10-17 02:35:10 | [bmux_presentation_state](https://crates.io/crates/bmux_presentation_state) | 0.0.1-alpha.3 | 0 | Neutral bounded semantic presentation fact primitives and retained registry |
+| 2026-10-17 02:35:36 | [bmux_web_renderer](https://crates.io/crates/bmux_web_renderer) | 0.0.1-alpha.3 | 0 | Backend-neutral browser presentation of retained bmux TUI output |
+| 2026-10-17 02:36:27 | [mylittlechart-server](https://crates.io/crates/mylittlechart-server) | 0.1.0 | 0 | Account, OAuth, update, and telemetry server for a mylittlechart deployment. |
+| 2026-10-17 02:37:36 | [bmux_broadcast_plugin](https://crates.io/crates/bmux_broadcast_plugin) | 0.0.1-alpha.3 | 0 | Persistent plugin-owned output-only live broadcast publisher |
+| 2026-10-17 02:40:46 | [mise-daemons](https://crates.io/crates/mise-daemons) | 0.0.0 | 0 | Daemon declarations, ports, presets, and runtime for mise (placeholder) |
+| 2026-10-17 02:41:41 | [darktable-import-xmp](https://crates.io/crates/darktable-import-xmp) | 0.2.0 | 0 | Import loose XMP sidecar files into Darktable's library database |
+| 2026-10-17 02:43:37 | [mycelium-agent](https://crates.io/crates/mycelium-agent) | 1.0.0 | 0 | mycelium agent SDK 门面：统一 re-export、prelude 与端到端示例 |
+| 2026-10-17 02:44:57 | [avif-image-buffer](https://crates.io/crates/avif-image-buffer) | 0.1.0 | 0 | Codec-independent checked integer image buffers and immutable views |
+| 2026-10-17 02:46:10 | [mlc-warden](https://crates.io/crates/mlc-warden) | 0.1.0 | 0 | eBPF LSM daemon that confines one protected process. |
+| 2026-10-17 02:47:37 | [bmux_cluster_plugin_api](https://crates.io/crates/bmux_cluster_plugin_api) | 0.0.1-alpha.3 | 0 | Typed public API of the bmux cluster plugin (BPDL-generated bindings) |
+| 2026-10-17 02:49:58 | [verbs](https://crates.io/crates/verbs) | 0.1.0 | 0 | Explicit, named constraints for more verifiable agent-written code |
+| 2026-10-17 02:57:33 | [bmux_connections_plugin_api](https://crates.io/crates/bmux_connections_plugin_api) | 0.0.1-alpha.3 | 0 | Typed public API of the bmux connections plugin (BPDL-generated bindings) |
+| 2026-10-17 02:58:47 | [cortexkit-anthropic-policy](https://crates.io/crates/cortexkit-anthropic-policy) | 0.1.0 | 0 | Anthropic authentication headers, beta tokens, account limits, credits, and quo… |
+| 2026-10-17 03:04:56 | [funbuild-core](https://crates.io/crates/funbuild-core) | 0.1.0 | 0 | funbuild 的发版流程实现：构建类型探测、版本清单读写、命令编排 |
+| 2026-10-17 03:05:11 | [funbuild](https://crates.io/crates/funbuild) | 1.6.104 | 0 | Python / 前端 / Flutter / Rust 仓库的一键发版工具 |
+| 2026-10-17 03:09:03 | [lena-protocol](https://crates.io/crates/lena-protocol) | 0.1.1 | 0 | A code-to-graph Swiss Army knife for interactive docs, call traces, and LLM con… |
+| 2026-10-17 03:09:57 | [pharmaobservatory](https://crates.io/crates/pharmaobservatory) | 0.1.1 | 0 | Rust client for the Pharma Observatory public REST API (https://pharmaobservato… |
+| 2026-10-17 03:10:24 | [bmux_cluster_plugin_client](https://crates.io/crates/bmux_cluster_plugin_client) | 0.0.1-alpha.3 | 0 | Client-side native attach adapter for the bmux cluster plugin |
+| 2026-10-17 03:13:13 | [lena-core](https://crates.io/crates/lena-core) | 0.1.1 | 0 | A code-to-graph Swiss Army knife for interactive docs, call traces, and LLM con… |
+| 2026-10-17 03:15:01 | [lena](https://crates.io/crates/lena) | 0.1.1 | 0 | A code-to-graph Swiss Army knife for interactive docs, call traces, and LLM con… |
+| 2026-10-17 03:17:33 | [bmux_connections_plugin](https://crates.io/crates/bmux_connections_plugin) | 0.0.1-alpha.3 | 0 | Bundled endpoint resolution and remote typed-service plugin for bmux |
 
 ## Data source
 

@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T02:21:30.305608Z,bmux_plugin_runtime,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Host-owned plugin runtime primitives for bmux
+2026-10-17T02:21:43.898481Z,bmux_application_resurrection_plugin_api,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Application resurrection host contracts
+2026-10-17T02:23:17.4904Z,mycelium-agent-core,1.0.0,0,0,https://github.com/oxroot-crypto/mycelium,mycelium 领域内核：消息、工具协议、事件、运行状态机、错误体系与配置
+2026-10-17T02:23:25.89028Z,mycelium-agent-macros,1.0.0,0,0,https://github.com/oxroot-crypto/mycelium,mycelium 过程宏：#[tool] 由普通函数生成 Tool 实现与 JSON Schema
+2026-10-17T02:23:35.928925Z,mycelium-agent-model,1.0.0,0,0,https://github.com/oxroot-crypto/mycelium,mycelium 模型提供方抽象（SPI）：ModelProvider trait、请求、流式增量与能力声明
+2026-10-17T02:23:46.783583Z,mycelium-agent-tools,1.0.0,0,0,https://github.com/oxroot-crypto/mycelium,mycelium 工具抽象（SPI）与注册表：Tool trait、执行上下文、ToolOutput 与 ToolRegistry
+2026-10-17T02:24:07.023417Z,mycelium-agent-mcp,1.0.0,0,0,https://github.com/oxroot-crypto/mycelium,mycelium 的 MCP（Model Context Protocol）客户端适配：stdio JSON-RPC、tools/list 与 tools/call
+2026-10-17T02:24:31.356807Z,katakuri,0.1.0,0,0,https://github.com/Industrial-Algebra/Katakuri,"Model ecosystem layer over Zunesha — safetensors weight loading, WordPiece tokenization, architecture specs, and hub access. Never computes."
+2026-10-17T02:25:47.279179Z,mycelium-agent-runtime,1.0.0,0,0,https://github.com/oxroot-crypto/mycelium,mycelium 执行引擎：AgentRuntime 装配、会话与运行钩子（执行循环自 v0.2 起实现）
+2026-10-17T02:26:13.216711Z,mlc-alert-daemon,0.1.0,0,0,https://github.com/ZENG3LD/mylittlechart-server,Server-side price-alert evaluation and Telegram delivery.
+2026-10-17T02:32:57.010233Z,bmux_application_resurrection_plugin,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Application resurrection host adapter
+2026-10-17T02:33:36.587035Z,mycelium-agent-provider-openai,1.0.0,0,0,https://github.com/oxroot-crypto/mycelium,mycelium 的 OpenAI 兼容 Provider 实现（Chat Completions，流式 SSE）
+2026-10-17T02:34:56.882515Z,bmux_broadcast_plugin_api,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Typed output-only live broadcast contracts
+2026-10-17T02:35:10.49478Z,bmux_presentation_state,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Neutral bounded semantic presentation fact primitives and retained registry
+2026-10-17T02:35:36.701014Z,bmux_web_renderer,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Backend-neutral browser presentation of retained bmux TUI output
+2026-10-17T02:36:27.205899Z,mylittlechart-server,0.1.0,0,0,https://github.com/ZENG3LD/mylittlechart-server,"Account, OAuth, update, and telemetry server for a mylittlechart deployment."
+2026-10-17T02:37:36.7326Z,bmux_broadcast_plugin,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Persistent plugin-owned output-only live broadcast publisher
+2026-10-17T02:40:46.859598Z,mise-daemons,0.0.0,0,0,https://github.com/jdx/mise,"Daemon declarations, ports, presets, and runtime for mise (placeholder)"
+2026-10-17T02:41:41.942122Z,darktable-import-xmp,0.2.0,0,0,https://github.com/rickprice/darktable-import-xmp,Import loose XMP sidecar files into Darktable's library database
+2026-10-17T02:43:37.672685Z,mycelium-agent,1.0.0,0,0,https://github.com/oxroot-crypto/mycelium,mycelium agent SDK 门面：统一 re-export、prelude 与端到端示例
+2026-10-17T02:44:57.559431Z,avif-image-buffer,0.1.0,0,0,https://github.com/mith-mmk/avif-rust,Codec-independent checked integer image buffers and immutable views
+2026-10-17T02:46:10.550417Z,mlc-warden,0.1.0,0,0,https://github.com/ZENG3LD/mylittlechart-server,eBPF LSM daemon that confines one protected process.
+2026-10-17T02:47:37.119259Z,bmux_cluster_plugin_api,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Typed public API of the bmux cluster plugin (BPDL-generated bindings)
+2026-10-17T02:49:58.957041Z,verbs,0.1.0,0,0,https://github.com/antimemeai/verbs,"Explicit, named constraints for more verifiable agent-written code"
+2026-10-17T02:57:33.26702Z,bmux_connections_plugin_api,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Typed public API of the bmux connections plugin (BPDL-generated bindings)
+2026-10-17T02:58:47.810054Z,cortexkit-anthropic-policy,0.1.0,0,0,https://github.com/cortexkit/commons,"Anthropic authentication headers, beta tokens, account limits, credits, and quota-header policy."
+2026-10-17T03:04:56.206003Z,funbuild-core,0.1.0,0,0,https://github.com/farfarfun/funbuild,funbuild 的发版流程实现：构建类型探测、版本清单读写、命令编排
+2026-10-17T03:05:11.995303Z,funbuild,1.6.104,0,0,https://github.com/farfarfun/funbuild,Python / 前端 / Flutter / Rust 仓库的一键发版工具
+2026-10-17T03:09:03.84213Z,lena-protocol,0.1.1,0,0,https://github.com/yeajustmars/lena,"A code-to-graph Swiss Army knife for interactive docs, call traces, and LLM context."
+2026-10-17T03:09:57.649242Z,pharmaobservatory,0.1.1,0,0,https://github.com/scientist-labs/pharmaobservatory-sdks,Rust client for the Pharma Observatory public REST API (https://pharmaobservatory.com/api-reference)
+2026-10-17T03:10:24.696579Z,bmux_cluster_plugin_client,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Client-side native attach adapter for the bmux cluster plugin
+2026-10-17T03:13:13.495115Z,lena-core,0.1.1,0,0,https://github.com/yeajustmars/lena,"A code-to-graph Swiss Army knife for interactive docs, call traces, and LLM context."
+2026-10-17T03:15:01.206177Z,lena,0.1.1,0,0,https://github.com/yeajustmars/lena,"A code-to-graph Swiss Army knife for interactive docs, call traces, and LLM context."
+2026-10-17T03:17:33.218916Z,bmux_connections_plugin,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Bundled endpoint resolution and remote typed-service plugin for bmux
