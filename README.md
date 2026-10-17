@@ -8,52 +8,59 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 12:19 UTC
+## Latest list — 2026-10-17 13:18 UTC
 
-New crates published between 2026-10-17 11:18 UTC and 2026-10-17 12:19 UTC.
+New crates published between 2026-10-17 12:19 UTC and 2026-10-17 13:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-17T12-19-26-161203Z.csv)
+[Full CSV](data/new-crates-2026-10-17T13-18-41-884546Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-17 11:19:23 | [agent-memex](https://crates.io/crates/agent-memex) | 0.1.1 | 0 | A CLI that indexes a repo's authored intent layer so agents read intent before… |
-| 2026-10-17 11:20:24 | [furnace-rs-socket-macros](https://crates.io/crates/furnace-rs-socket-macros) | 2.0.0 | 0 | WebSocket registration attributes for Furnace |
-| 2026-10-17 11:21:45 | [furnace-rs-socket](https://crates.io/crates/furnace-rs-socket) | 2.0.0 | 0 | Managed WebSocket server transport for Furnace |
-| 2026-10-17 11:23:12 | [locks-core](https://crates.io/crates/locks-core) | 0.1.0 | 0 | Protocol and domain types for Pubky Locks |
-| 2026-10-17 11:26:12 | [chid](https://crates.io/crates/chid) | 0.1.8 | 0 | A parser and type for CHID's for FDS (Fire Dynamics Simulator) |
-| 2026-10-17 11:26:24 | [adapay-sdk](https://crates.io/crates/adapay-sdk) | 0.1.0 | 0 | Rust client for the AdaPay OpenAPI (aligned with the official Java 1.2.10 / Nod… |
-| 2026-10-17 11:26:29 | [asign-sdk](https://crates.io/crates/asign-sdk) | 0.1.0 | 0 | 爱签电子合同 OpenAPI 的 Rust 客户端 SDK |
-| 2026-10-17 11:30:56 | [ccorbit](https://crates.io/crates/ccorbit) | 0.1.0 | 0 | A live, read-only terminal view of every Claude Code session on this machine: w… |
-| 2026-10-17 11:33:06 | [tesmart-tcp](https://crates.io/crates/tesmart-tcp) | 0.1.0 | 0 | TCP transport for TESmart KVM switches (the LAN port, 192.168.1.10:5000 by defa… |
-| 2026-10-17 11:33:17 | [tesmart](https://crates.io/crates/tesmart) | 0.1.0 | 0 | Control TESmart KVM switches and HDMI matrices over TCP or RS232 |
-| 2026-10-17 11:33:28 | [tesmart-cli](https://crates.io/crates/tesmart-cli) | 0.1.0 | 0 | Command line tool for TESmart KVM switches and HDMI matrices, over TCP or RS232 |
-| 2026-10-17 11:34:49 | [polybase-client](https://crates.io/crates/polybase-client) | 0.8.3 | 0 | Bounded synchronous loopback HTTP client for the local Polybase database |
-| 2026-10-17 11:37:39 | [catzprint](https://crates.io/crates/catzprint) | 2.1.3 | 0 | Official Rust SDK for the CatzPrint cloud printing API |
-| 2026-10-17 11:38:31 | [madi-core](https://crates.io/crates/madi-core) | 0.1.1 | 0 | madi(마디): pure Rust Korean morphological analyzer — dictionary, lattice, Viterb… |
-| 2026-10-17 11:38:32 | [madi-news](https://crates.io/crates/madi-news) | 0.1.1 | 0 | madi(마디): newspaper archive zip reader (entry names, dates, article text) |
-| 2026-10-17 11:38:34 | [madi-build](https://crates.io/crates/madi-build) | 0.1.1 | 0 | madi(마디): dictionary builder (mecab-ko-dic CSV + word lists -> madi.dict) |
-| 2026-10-17 11:38:35 | [madi-lm](https://crates.io/crates/madi-lm) | 0.1.1 | 0 | madi(마디) language models: Kneser-Ney n-gram, neural LM, precise-mode teacher |
-| 2026-10-17 11:38:38 | [madi](https://crates.io/crates/madi) | 0.1.1 | 0 | madi(마디): pure Rust Korean morphological analyzer — library entry point (Engine… |
-| 2026-10-17 11:41:48 | [madi-cli](https://crates.io/crates/madi-cli) | 0.1.1 | 0 | madi(마디): Korean morphological analyzer — command-line tool (analyze, eval, ben… |
-| 2026-10-17 11:44:32 | [hothash](https://crates.io/crates/hothash) | 0.1.0 | 0 | A fast, non-cryptographic hash function for the hot path on modern x86-64 CPUs. |
-| 2026-10-17 11:49:44 | [graphcal-model-server](https://crates.io/crates/graphcal-model-server) | 0.0.0 | 0 | Placeholder for the Graphcal model server crate; reserved for upcoming releases. |
-| 2026-10-17 11:50:30 | [linkrs-config](https://crates.io/crates/linkrs-config) | 0.1.0 | 0 | Configuration management for Linkrs |
-| 2026-10-17 11:50:40 | [linkrs-wire](https://crates.io/crates/linkrs-wire) | 0.1.0 | 0 | Wire contract DTOs shared between linkrs-api and linkrs-cli |
-| 2026-10-17 11:50:56 | [rpi-ui-adapter](https://crates.io/crates/rpi-ui-adapter) | 0.1.1 | 0 | UI adapters for rpi ACP agents, starting with Open WebUI |
-| 2026-10-17 11:58:28 | [lite-orm-studio](https://crates.io/crates/lite-orm-studio) | 0.1.2 | 0 | A lightweight desktop database studio for LiteORM |
-| 2026-10-17 12:00:46 | [baztet-protos](https://crates.io/crates/baztet-protos) | 0.1.0 | 0 | Vendored Bazel and JetBrains intellij-aspect protobufs for the baztet CLI |
-| 2026-10-17 12:00:54 | [baztet-projectview](https://crates.io/crates/baztet-projectview) | 0.1.0 | 0 | .bazelproject project view parser (hirschgarten format) used by the baztet CLI |
-| 2026-10-17 12:01:02 | [baztet-bep](https://crates.io/crates/baztet-bep) | 0.1.0 | 0 | Bazel Build Event Protocol reader for the baztet CLI |
-| 2026-10-17 12:01:05 | [baztet-snapshot](https://crates.io/crates/baztet-snapshot) | 0.1.0 | 0 | Target graph snapshot model and persistence for the baztet CLI |
-| 2026-10-17 12:01:18 | [baztet-core](https://crates.io/crates/baztet-core) | 0.1.0 | 0 | Sync/execution engine for the baztet Bazel CLI |
-| 2026-10-17 12:03:52 | [whenabouts](https://crates.io/crates/whenabouts) | 0.1.0 | 0 | Fast natural-language date period extraction for search queries |
-| 2026-10-17 12:04:05 | [baztet](https://crates.io/crates/baztet) | 0.1.0 | 0 | Standalone Bazel project sync and execution CLI (Rust port of the hirschgarten… |
-| 2026-10-17 12:08:32 | [hyperoute-codegen](https://crates.io/crates/hyperoute-codegen) | 0.0.1 | 0 | Build-time route scanner and code generator for hyperoute, used from build.rs. |
-| 2026-10-17 12:08:33 | [hyperoute-core](https://crates.io/crates/hyperoute-core) | 0.0.1 | 0 | Runtime for hyperoute: request extraction, parameter errors, filters, WebSocket… |
-| 2026-10-17 12:08:34 | [hyperoute-macro](https://crates.io/crates/hyperoute-macro) | 0.0.1 | 0 | Route / filter / WebSocket attribute macros (#[GET], #[FILTER], #[WEBSOCKET], .… |
-| 2026-10-17 12:14:07 | [cargo-collate](https://crates.io/crates/cargo-collate) | 0.1.0 | 0 | Project-specific hygiene checks for strict Rust projects. |
-| 2026-10-17 12:16:33 | [map_iced](https://crates.io/crates/map_iced) | 0.1.0 | 0 | A map widget for iced with tile caching and interactive way points, regions and… |
-| 2026-10-17 12:18:26 | [quantumforge](https://crates.io/crates/quantumforge) | 0.1.0 | 0 | A small, backend-neutral quantum simulation kernel: CPU, CUDA, and LLVM backend… |
+| 2026-10-17 12:20:38 | [ratatui-lipgloss](https://crates.io/crates/ratatui-lipgloss) | 1.1.0 | 0 | Lip Gloss-style declarative, chainable styling (padding, margins, borders, alig… |
+| 2026-10-17 12:21:15 | [repame-ik](https://crates.io/crates/repame-ik) | 0.3.24 | 0 | IK solvers and skeleton modifiers over repame-view3d skeletons |
+| 2026-10-17 12:23:01 | [g_math_inference](https://crates.io/crates/g_math_inference) | 0.1.1 | 0 | TQ1.9 and five-trit ternary inference kernels over g_math fixed-point formats |
+| 2026-10-17 12:24:02 | [dotune](https://crates.io/crates/dotune) | 0.1.0 | 0 | A cross-platform dotfile manager configured with Lua |
+| 2026-10-17 12:24:22 | [hypereffect](https://crates.io/crates/hypereffect) | 0.1.0 | 0 | Types and helpers for the hypereffect protocol: server messages, a wasm server… |
+| 2026-10-17 12:25:15 | [seylock-tor](https://crates.io/crates/seylock-tor) | 0.1.0 | 0 | Tor for SeyLock's `tor` path, built on the Tor Project's arti: bootstraps in th… |
+| 2026-10-17 12:30:12 | [moye](https://crates.io/crates/moye) | 0.0.1 | 0 | Reserved crate name. |
+| 2026-10-17 12:31:08 | [sirocco](https://crates.io/crates/sirocco) | 0.1.0 | 0 | Fast DEFLATE, zlib and gzip decompression in pure Rust |
+| 2026-10-17 12:32:19 | [id_effect_authz](https://crates.io/crates/id_effect_authz) | 0.9.0 | 0 | Authorization for id_effect services: roles and permissions, named and resource… |
+| 2026-10-17 12:32:47 | [id_effect_auth](https://crates.io/crates/id_effect_auth) | 0.9.0 | 0 | Authentication for id_effect services: password hashing, sessions, JWT, API-key… |
+| 2026-10-17 12:33:15 | [id_effect_redis](https://crates.io/crates/id_effect_redis) | 0.9.0 | 0 | Redis for id_effect services: pooled client layer, typed key-value, hash and JS… |
+| 2026-10-17 12:33:43 | [id_effect_test](https://crates.io/crates/id_effect_test) | 0.9.0 | 0 | Integration-test support for id_effect: effect-native containers, per-test data… |
+| 2026-10-17 12:35:03 | [linkrs-fulltext](https://crates.io/crates/linkrs-fulltext) | 0.1.0 | 0 | Full-text search engine based on BM25 and Tantivy |
+| 2026-10-17 12:35:35 | [linkrs-sync](https://crates.io/crates/linkrs-sync) | 0.1.0 | 0 | Synchronization primitives for Linkrs |
+| 2026-10-17 12:35:54 | [linkrs-transaction](https://crates.io/crates/linkrs-transaction) | 0.1.0 | 0 | Transaction management for Linkrs |
+| 2026-10-17 12:36:34 | [linkrs-storage](https://crates.io/crates/linkrs-storage) | 0.1.0 | 0 | Storage engine with CSR and memory-mapped containers |
+| 2026-10-17 12:37:27 | [linkrs-migration](https://crates.io/crates/linkrs-migration) | 0.1.0 | 0 | Schema and data migration for Linkrs |
+| 2026-10-17 12:38:03 | [runspk](https://crates.io/crates/runspk) | 0.1.0-beta.1 | 0 | A distributed job queue for trusted Linux machines. |
+| 2026-10-17 12:40:04 | [stichos-core](https://crates.io/crates/stichos-core) | 0.2.0 | 0 | Core types, IR, diagnostics, content store, revision model and response envelop… |
+| 2026-10-17 12:40:17 | [stichos-lint](https://crates.io/crates/stichos-lint) | 0.2.0 | 0 | Fidelity linting for stichos — budget, SSIM, contrast, font, diff and crop metr… |
+| 2026-10-17 12:40:29 | [adapters-ooxml](https://crates.io/crates/adapters-ooxml) | 0.2.0 | 0 | OOXML (docx/xlsx/pptx) OPC packaging, XML parsing and read/write adapters for t… |
+| 2026-10-17 12:40:40 | [grokbot_api](https://crates.io/crates/grokbot_api) | 1.1.0 | 0 | Unofficial async client for the (undocumented) Grok Bot gateway API |
+| 2026-10-17 12:40:41 | [adapters-odf](https://crates.io/crates/adapters-odf) | 0.2.0 | 0 | ODF (odt/ods/odp) read/write adapters for the stichos document-fidelity toolcha… |
+| 2026-10-17 12:40:52 | [adapters-pdf](https://crates.io/crates/adapters-pdf) | 0.2.0 | 0 | PDF parser, text, forms, annotations, outlines and incremental writer for the s… |
+| 2026-10-17 12:42:55 | [vj](https://crates.io/crates/vj) | 0.0.0 | 0 | A SystemVerilog (IEEE 1800-2023) compliant simulator. Work in progress; this is… |
+| 2026-10-17 12:45:43 | [phantom-btls-sys](https://crates.io/crates/phantom-btls-sys) | 0.5.6-phantom.1 | 0 | FFI bindings to BoringSSL |
+| 2026-10-17 12:51:21 | [phantom-btls](https://crates.io/crates/phantom-btls) | 0.5.6-phantom.16 | 0 | Phantom fork of btls 0.5.6; not a general-purpose replacement |
+| 2026-10-17 12:52:16 | [corvo-nfse](https://crates.io/crates/corvo-nfse) | 0.1.1 | 0 | Rust SDK for the Corvo NFS-e API: issue Brazilian service invoices, calculate t… |
+| 2026-10-17 12:52:31 | [strhide](https://crates.io/crates/strhide) | 0.1.0 | 0 | Smart format-preserving lossless data hiding library and CLI (PNG/JPEG/MP4/ZIP/… |
+| 2026-10-17 12:52:52 | [engines](https://crates.io/crates/engines) | 0.2.0 | 0 | Render engine management for stichos — spawned LibreOffice/Chromium/Pandoc/Typs… |
+| 2026-10-17 12:52:54 | [slint-kit-core](https://crates.io/crates/slint-kit-core) | 0.1.0 | 0 | Strict domain values, exact arithmetic and state machines for Slint Kit |
+| 2026-10-17 12:52:59 | [slint-kit-slint](https://crates.io/crates/slint-kit-slint) | 0.1.0 | 0 | Slint Kit model projections, weak bindings and public Slint components |
+| 2026-10-17 12:53:02 | [slint-kit-native](https://crates.io/crates/slint-kit-native) | 0.1.0 | 0 | Optional native host services for Slint Kit desktop applications |
+| 2026-10-17 12:53:06 | [slint-kit-build](https://crates.io/crates/slint-kit-build) | 0.1.0 | 0 | Registers versioned Slint Kit library imports at build time |
+| 2026-10-17 12:53:10 | [slint-kit](https://crates.io/crates/slint-kit) | 0.1.0 | 0 | Composable native Slint controls with shared interaction behavior |
+| 2026-10-17 12:54:31 | [phantom-tokio-btls](https://crates.io/crates/phantom-tokio-btls) | 0.5.6-phantom.16 | 0 | Phantom fork of tokio-btls 0.5.6; not a general-purpose replacement |
+| 2026-10-17 12:54:51 | [phantom-quinn-proto](https://crates.io/crates/phantom-quinn-proto) | 0.11.18-phantom.6 | 0 | Phantom fork of quinn-proto 0.11.18; not a general-purpose replacement |
+| 2026-10-17 12:55:09 | [phantom-quinn](https://crates.io/crates/phantom-quinn) | 0.11.12-phantom.6 | 0 | Phantom fork of quinn 0.11.12; not a general-purpose replacement |
+| 2026-10-17 12:55:18 | [phantom-h3](https://crates.io/crates/phantom-h3) | 0.0.8-phantom.16 | 0 | Phantom fork of h3 0.0.8; not a general-purpose replacement |
+| 2026-10-17 13:01:16 | [phantom-h3-datagram](https://crates.io/crates/phantom-h3-datagram) | 0.0.2-phantom.16 | 0 | Phantom fork of h3-datagram 0.0.2; not a general-purpose replacement |
+| 2026-10-17 13:01:36 | [ic-auth-wire](https://crates.io/crates/ic-auth-wire) | 0.9.0 | 0 | Bounded IC Wire transport contracts for portable IC Auth sessions |
+| 2026-10-17 13:03:26 | [datalog-structural-model](https://crates.io/crates/datalog-structural-model) | 0.1.0 | 0 | Typed Datalog rule IR, validation, and stratification |
+| 2026-10-17 13:04:19 | [stichos-mcp](https://crates.io/crates/stichos-mcp) | 0.2.0 | 0 | MCP server for stichos — JSON-RPC transport, tool dispatch and review sessions |
+| 2026-10-17 13:10:56 | [phantom-h3-quinn](https://crates.io/crates/phantom-h3-quinn) | 0.0.10-phantom.16 | 0 | Phantom fork of h3-quinn 0.0.10; not a general-purpose replacement |
+| 2026-10-17 13:13:30 | [stichos](https://crates.io/crates/stichos) | 0.2.0 | 0 | stichos — proof-before-publish toolchain for office documents (inspect, render,… |
 
 ## Data source
 

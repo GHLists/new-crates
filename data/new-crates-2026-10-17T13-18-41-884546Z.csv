@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T12:20:38.018487Z,ratatui-lipgloss,1.1.0,0,0,https://github.com/WeirdBrains/ratatui-lipgloss,"Lip Gloss-style declarative, chainable styling (padding, margins, borders, alignment, sizing, joins) for ratatui widgets and text"
+2026-10-17T12:21:15.406287Z,repame-ik,0.3.24,0,0,https://github.com/mlm-games/repame,IK solvers and skeleton modifiers over repame-view3d skeletons
+2026-10-17T12:23:01.484468Z,g_math_inference,0.1.1,0,0,https://github.com/nierto/g_math_inference,TQ1.9 and five-trit ternary inference kernels over g_math fixed-point formats
+2026-10-17T12:24:02.285697Z,dotune,0.1.0,0,0,https://github.com/Picalines/dotune,A cross-platform dotfile manager configured with Lua
+2026-10-17T12:24:22.032338Z,hypereffect,0.1.0,0,0,https://github.com/andunieee/hypereffect,"Types and helpers for the hypereffect protocol: server messages, a wasm server harness, and a renderer core with CEL evaluation."
+2026-10-17T12:25:15.1542Z,seylock-tor,0.1.0,0,0,https://github.com/Arkhanhel/seylock,"Tor for SeyLock's `tor` path, built on the Tor Project's arti: bootstraps in the background, supports bridges through pluggable transports."
+2026-10-17T12:30:12.065876Z,moye,0.0.1,0,0,,Reserved crate name.
+2026-10-17T12:31:08.134274Z,sirocco,0.1.0,0,0,https://github.com/srijs/sirocco,"Fast DEFLATE, zlib and gzip decompression in pure Rust"
+2026-10-17T12:32:19.374704Z,id_effect_authz,0.9.0,0,0,https://github.com/Industrial/id_effect,"Authorization for id_effect services: roles and permissions, named and resource policies, route guards"
+2026-10-17T12:32:47.310275Z,id_effect_auth,0.9.0,0,0,https://github.com/Industrial/id_effect,"Authentication for id_effect services: password hashing, sessions, JWT, API-key and OIDC credentials"
+2026-10-17T12:33:15.361362Z,id_effect_redis,0.9.0,0,0,https://github.com/Industrial/id_effect,"Redis for id_effect services: pooled client layer, typed key-value, hash and JSON stores, a Cache backend, pub/sub streams, sessions and rate limits"
+2026-10-17T12:33:43.008481Z,id_effect_test,0.9.0,0,0,https://github.com/Industrial/id_effect,"Integration-test support for id_effect: effect-native containers, per-test database isolation, fixtures"
+2026-10-17T12:35:03.341149Z,linkrs-fulltext,0.1.0,0,0,https://github.com/kkkqkx123/linkrs,Full-text search engine based on BM25 and Tantivy
+2026-10-17T12:35:35.746737Z,linkrs-sync,0.1.0,0,0,https://github.com/kkkqkx123/linkrs,Synchronization primitives for Linkrs
+2026-10-17T12:35:54.706353Z,linkrs-transaction,0.1.0,0,0,https://github.com/kkkqkx123/linkrs,Transaction management for Linkrs
+2026-10-17T12:36:34.563538Z,linkrs-storage,0.1.0,0,0,https://github.com/kkkqkx123/linkrs,Storage engine with CSR and memory-mapped containers
+2026-10-17T12:37:27.602466Z,linkrs-migration,0.1.0,0,0,https://github.com/kkkqkx123/linkrs,Schema and data migration for Linkrs
+2026-10-17T12:38:03.03017Z,runspk,0.1.0-beta.1,0,0,https://github.com/pitchaya-s/runspoke,A distributed job queue for trusted Linux machines.
+2026-10-17T12:40:04.167972Z,stichos-core,0.2.0,0,0,https://github.com/reinartz/stichos,"Core types, IR, diagnostics, content store, revision model and response envelopes for the stichos document-fidelity toolchain"
+2026-10-17T12:40:17.174384Z,stichos-lint,0.2.0,0,0,https://github.com/reinartz/stichos,"Fidelity linting for stichos — budget, SSIM, contrast, font, diff and crop metrics"
+2026-10-17T12:40:29.24699Z,adapters-ooxml,0.2.0,0,0,https://github.com/reinartz/stichos,"OOXML (docx/xlsx/pptx) OPC packaging, XML parsing and read/write adapters for the stichos toolchain"
+2026-10-17T12:40:40.905575Z,grokbot_api,1.1.0,0,0,https://github.com/WeirdBrains/grokbot_api,Unofficial async client for the (undocumented) Grok Bot gateway API
+2026-10-17T12:40:41.141691Z,adapters-odf,0.2.0,0,0,https://github.com/reinartz/stichos,ODF (odt/ods/odp) read/write adapters for the stichos document-fidelity toolchain
+2026-10-17T12:40:52.636078Z,adapters-pdf,0.2.0,0,0,https://github.com/reinartz/stichos,"PDF parser, text, forms, annotations, outlines and incremental writer for the stichos toolchain"
+2026-10-17T12:42:55.709373Z,vj,0.0.0,0,0,,A SystemVerilog (IEEE 1800-2023) compliant simulator. Work in progress; this is a placeholder release.
+2026-10-17T12:45:43.013083Z,phantom-btls-sys,0.5.6-phantom.1,0,0,https://github.com/bywayhq/phantom,FFI bindings to BoringSSL
+2026-10-17T12:51:21.624451Z,phantom-btls,0.5.6-phantom.16,0,0,https://github.com/bywayhq/phantom,Phantom fork of btls 0.5.6; not a general-purpose replacement
+2026-10-17T12:52:16.714867Z,corvo-nfse,0.1.1,0,0,https://github.com/corvo-technology/corvo-nfse-rust,"Rust SDK for the Corvo NFS-e API: issue Brazilian service invoices, calculate taxes, verify webhooks."
+2026-10-17T12:52:31.197113Z,strhide,0.1.0,0,0,https://github.com/mcxiaoke/strhide,"Smart format-preserving lossless data hiding library and CLI (PNG/JPEG/MP4/ZIP/PDF/PE carriers, AES-256-GCM, stealth mode)"
+2026-10-17T12:52:52.854702Z,engines,0.2.0,0,0,https://github.com/reinartz/stichos,"Render engine management for stichos — spawned LibreOffice/Chromium/Pandoc/Typst subprocesses, plus MS-Office COM on the Windows host"
+2026-10-17T12:52:54.738469Z,slint-kit-core,0.1.0,0,0,https://github.com/damione1/slint-kit,"Strict domain values, exact arithmetic and state machines for Slint Kit"
+2026-10-17T12:52:59.203668Z,slint-kit-slint,0.1.0,0,0,https://github.com/damione1/slint-kit,"Slint Kit model projections, weak bindings and public Slint components"
+2026-10-17T12:53:02.668267Z,slint-kit-native,0.1.0,0,0,https://github.com/damione1/slint-kit,Optional native host services for Slint Kit desktop applications
+2026-10-17T12:53:06.331512Z,slint-kit-build,0.1.0,0,0,https://github.com/damione1/slint-kit,Registers versioned Slint Kit library imports at build time
+2026-10-17T12:53:10.064326Z,slint-kit,0.1.0,0,0,https://github.com/damione1/slint-kit,Composable native Slint controls with shared interaction behavior
+2026-10-17T12:54:31.849353Z,phantom-tokio-btls,0.5.6-phantom.16,0,0,https://github.com/bywayhq/phantom,Phantom fork of tokio-btls 0.5.6; not a general-purpose replacement
+2026-10-17T12:54:51.976244Z,phantom-quinn-proto,0.11.18-phantom.6,0,0,https://github.com/bywayhq/phantom,Phantom fork of quinn-proto 0.11.18; not a general-purpose replacement
+2026-10-17T12:55:09.075671Z,phantom-quinn,0.11.12-phantom.6,0,0,https://github.com/bywayhq/phantom,Phantom fork of quinn 0.11.12; not a general-purpose replacement
+2026-10-17T12:55:18.983833Z,phantom-h3,0.0.8-phantom.16,0,0,https://github.com/bywayhq/phantom,Phantom fork of h3 0.0.8; not a general-purpose replacement
+2026-10-17T13:01:16.887797Z,phantom-h3-datagram,0.0.2-phantom.16,0,0,https://github.com/bywayhq/phantom,Phantom fork of h3-datagram 0.0.2; not a general-purpose replacement
+2026-10-17T13:01:36.534401Z,ic-auth-wire,0.9.0,0,0,https://github.com/dragginzgame/ic-auth,Bounded IC Wire transport contracts for portable IC Auth sessions
+2026-10-17T13:03:26.929368Z,datalog-structural-model,0.1.0,0,0,https://github.com/legra-ai/datalog-structural-model,"Typed Datalog rule IR, validation, and stratification"
+2026-10-17T13:04:19.559129Z,stichos-mcp,0.2.0,0,0,https://github.com/reinartz/stichos,"MCP server for stichos — JSON-RPC transport, tool dispatch and review sessions"
+2026-10-17T13:10:56.506017Z,phantom-h3-quinn,0.0.10-phantom.16,0,0,https://github.com/bywayhq/phantom,Phantom fork of h3-quinn 0.0.10; not a general-purpose replacement
+2026-10-17T13:13:30.089513Z,stichos,0.2.0,0,0,https://github.com/reinartz/stichos,"stichos — proof-before-publish toolchain for office documents (inspect, render, diff, surgically edit)"
