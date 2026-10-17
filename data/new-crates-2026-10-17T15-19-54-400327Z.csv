@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T14:18:43.346782Z,cudabom-identify,0.1.0,0,0,https://github.com/cpeoples/cudabom,Fingerprint database and matchers that turn ELF/fatbin facts into CUDA component identities with EXACT/LIKELY/UNKNOWN confidence.
+2026-10-17T14:22:40.467908Z,krpii-core,0.1.0,0,0,https://github.com/jisu217/krpii,Detection engine for credentials and Korean PII.
+2026-10-17T14:22:43.275402Z,krpii,0.1.0,0,0,https://github.com/jisu217/krpii,Command-line interface for detecting and masking credentials and Korean PII.
+2026-10-17T14:27:10.580749Z,df-hyperliquid-core,0.0.8-beta.1,0,0,,"Hyperliquid SDK for Rust: markets, account, trading, transfers, earn and deploy, with exact decimals and signing. Native and wasm."
+2026-10-17T14:27:36.295744Z,cctune,0.1.1,0,0,https://github.com/pcangemi/cctune,"Control Apple Music from the terminal and from Claude Code: commands, an MCP server and a live status line"
+2026-10-17T14:27:43.485153Z,phantom-quic-btls,0.1.0,0,0,https://github.com/bywayhq/phantom,BoringSSL crypto provider for Phantom QUIC
+2026-10-17T14:28:05.985809Z,df-papertrade-core,0.0.8-beta.1,0,0,,"Papertrade SDK for Rust on df-hyperliquid-core: intents, relayer, live account, session keys, signed writes, deposits and exact venue math. Wasm-ready."
+2026-10-17T14:28:44.657075Z,cudabom,0.1.0,0,0,https://github.com/cpeoples/cudabom,Find the CUDA your SBOM missed: evidence-backed CUDA identity and security-grade SBOM/VEX for artifacts.
+2026-10-17T14:30:37.125117Z,statenode,0.0.0,0,0,,A graph-based runtime and state machine engine for LLM agent workflows.
+2026-10-17T14:31:11.743318Z,estigia,0.1.0,0,0,https://github.com/asanabrial/estigia,"Guardrails for AI coding agents (Claude Code, Codex, OpenCode, Pi): an MCP server and hooks that verify issue claims, bind reviews to exact commits and gate merges"
+2026-10-17T14:35:02.779003Z,phantom-net,0.1.0,0,0,https://github.com/bywayhq/phantom,"HTTP/1.1, HTTP/2, and HTTP/3 connections for Phantom"
+2026-10-17T14:35:46.57564Z,ironbeam-cloud-ops,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Provider-neutral cloud operation helpers for Ironbeam
+2026-10-17T14:35:50.41713Z,ironbeam-compression,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Pluggable streaming compression for Ironbeam I/O
+2026-10-17T14:35:59.487446Z,ironbeam-core,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Runner-neutral logical graph for Ironbeam 5
+2026-10-17T14:36:46.130271Z,yaml-splice,0.2.1,0,0,https://github.com/osdlc/osdlc,"Edit top-level fields of a YAML mapping in place: set, remove and rename a key while every other byte, comments, key order and quoting included, stays as it was."
+2026-10-17T14:39:35.345574Z,turly,0.1.0,0,0,https://github.com/mwithington/turly,"A terminal API client with Vim keys, workspaces and OpenAPI import"
+2026-10-17T14:43:02.117407Z,ironbeam-coder-row,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Beam schema RowCoder and typed row elements for Ironbeam 5
+2026-10-17T14:44:37.600597Z,pithdb,0.0.1,0,0,,"Pith: lightweight embeddable vector database with built-in ONNX embeddings (name reservation, work in progress)"
+2026-10-17T14:50:10.364205Z,dotenw,0.0.1,0,0,https://github.com/iadev09/dotenw,"Immutable environment snapshots with layered dotenv sources, explicit inheritance, and native change notifications."
+2026-10-17T14:50:58.546736Z,congif,0.0.1,0,0,https://github.com/iadev09/congif,"Typed configuration reading, validated preparation and atomic snapshots with extensible parsers."
+2026-10-17T14:51:16.879513Z,gpui-testing-library,0.1.0,0,0,https://github.com/Ziinc/gpui-testing-library,"Testing Library for GPUI: query views the way users perceive them, simulate user events, and assert with jest-dom style matchers."
+2026-10-17T14:52:22.709379Z,phantom-http,0.1.0,0,0,https://github.com/bywayhq/phantom,HTTP client with browser TLS and HTTP profiles
+2026-10-17T14:53:03.312967Z,ironbeam-graphx,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Translates ironbeam pipelines into Apache Beam portable-pipeline protobufs
+2026-10-17T14:59:47.532713Z,taktwerk-record,0.6.0,0,0,https://github.com/labinetix/taktwerk,"Run files of the taktwerk recorder: manifest, gzipped CSV parts, event log, retention"
+2026-10-17T15:01:08.799167Z,seqarc,0.1.0,0,0,,"Rust archiver for sequencing reads with fast, alignment-based compression"
+2026-10-17T15:02:54.481594Z,crystal-cif-fmt,0.1.0,0,0,https://github.com/TonyWu20/crystal-cif-io,Parser and IR for the IUCr crystallography `cif` format.
+2026-10-17T15:03:01.531772Z,ironbeam-metrics,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Optional custom metrics and reporting for Ironbeam 5 jobs
+2026-10-17T15:05:01.712802Z,midway-config,0.1.0,0,0,https://github.com/hazyio/midway,Configuration types and validation for Midway.
+2026-10-17T15:05:10.48594Z,midway-logging,0.1.0,0,0,https://github.com/hazyio/midway,File logging setup for Midway.
+2026-10-17T15:05:41.135197Z,midway-notifier,0.1.0,0,0,https://github.com/hazyio/midway,Notification delivery for Midway.
+2026-10-17T15:05:59.284204Z,midway-cli,0.1.0,0,0,https://github.com/hazyio/midway,Run commands and get notified when they finish.
+2026-10-17T15:07:03.586575Z,usfm_span,0.1.0,0,0,https://github.com/mimbrown/usfm,Source spans and line/column lookup for the usfm_tools crates
+2026-10-17T15:07:05.382409Z,usfm_style,0.1.0,0,0,https://github.com/mimbrown/usfm,"USFM stylesheets (.sty): the markers, their types and placement rules, with Paratext's usfm.sty built in"
+2026-10-17T15:07:09.594081Z,usfm_ast,0.1.0,0,0,https://github.com/mimbrown/usfm,"The USFM syntax tree, with visitors, folds and a cursor"
+2026-10-17T15:07:13.641842Z,usfm_codegen,0.1.0,0,0,https://github.com/mimbrown/usfm,"USFM output for a parsed USFM document, one canonical spelling per construct"
+2026-10-17T15:07:16.787373Z,usfm_diagnostics,0.1.0,0,0,https://github.com/mimbrown/usfm,"Diagnostics for USFM: codes, severities, parse results and rendering"
+2026-10-17T15:13:02.388851Z,ironbeam-direct,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Direct execution for the Ironbeam 5 logical graph
+2026-10-17T15:14:01.219934Z,seed-core,0.1.0,0,0,https://github.com/jarohull-ai/seed-core,"Deterministic 2-Stage Decision Engine, Real-Time Episodic Memory, and JFP Gatekeeper in native Rust."
+2026-10-17T15:19:48.339547Z,orchestral-agent-claude,0.5.0,0,0,https://github.com/sizzlecar/orchestral,Claude Code session and streaming Agent connector for Orchestral

@@ -8,67 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 14:18 UTC
+## Latest list — 2026-10-17 15:19 UTC
 
-New crates published between 2026-10-17 13:18 UTC and 2026-10-17 14:18 UTC.
+New crates published between 2026-10-17 14:18 UTC and 2026-10-17 15:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-17T14-18-34-619508Z.csv)
+[Full CSV](data/new-crates-2026-10-17T15-19-54-400327Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-17 13:19:15 | [term2gif](https://crates.io/crates/term2gif) | 0.1.0 | 0 | Record a terminal session and save it as a GIF, in a single binary |
-| 2026-10-17 13:21:10 | [phantom-http2](https://crates.io/crates/phantom-http2) | 0.5.20-phantom.18 | 0 | Phantom fork of http2 0.5.20; not a general-purpose replacement |
-| 2026-10-17 13:25:45 | [cudabom-core](https://crates.io/crates/cudabom-core) | 0.1.0 | 0 | Shared domain types for cudabom: Artifact, Location, Component, Evidence, Confi… |
-| 2026-10-17 13:25:56 | [cudabom-fetch](https://crates.io/crates/cudabom-fetch) | 0.1.0 | 0 | Verified HTTP download primitive with retry, exponential backoff, jitter, and r… |
-| 2026-10-17 13:26:05 | [cudabom-extract](https://crates.io/crates/cudabom-extract) | 0.1.0 | 0 | Safe, streaming walkers for wheels, sdists, archives, directories, and containe… |
-| 2026-10-17 13:26:10 | [cudabom-elf](https://crates.io/crates/cudabom-elf) | 0.1.0 | 0 | ELF fact extraction: SONAME, NEEDED, symbols, symbol versions, build-id, sectio… |
-| 2026-10-17 13:26:15 | [cudabom-fatbin](https://crates.io/crates/cudabom-fatbin) | 0.1.0 | 0 | Parsers for NVIDIA fatbin containers, cubins, and PTX embedded in ELF or standa… |
-| 2026-10-17 13:28:12 | [crabmaid](https://crates.io/crates/crabmaid) | 0.1.0 | 0 | Render Mermaid diagrams to SVG and PNG without a browser |
-| 2026-10-17 13:28:15 | [crabmaid-cli](https://crates.io/crates/crabmaid-cli) | 0.1.0 | 0 | Command line interface for crabmaid |
-| 2026-10-17 13:30:46 | [arlloc](https://crates.io/crates/arlloc) | 0.1.0 | 0 | High-performance bump allocator with C core and safe Rust wrapper. O(1) allocat… |
-| 2026-10-17 13:31:13 | [phantom-wreq-proto](https://crates.io/crates/phantom-wreq-proto) | 0.2.5-phantom.18 | 0 | Phantom fork of wreq-proto 0.2.5; not a general-purpose replacement |
-| 2026-10-17 13:37:45 | [yq-core](https://crates.io/crates/yq-core) | 0.1.1 | 0 | Rust implementation of the yq (mikefarah/yq) expression language over YAML and… |
-| 2026-10-17 13:39:51 | [cudabom-pe](https://crates.io/crates/cudabom-pe) | 0.1.0 | 0 | PE/COFF fact extraction for Windows binaries: machine type, subsystem, imported… |
-| 2026-10-17 13:39:54 | [cudabom-policy](https://crates.io/crates/cudabom-policy) | 0.1.0 | 0 | Policy-file evaluation for the `cudabom gate` command (v0.3). |
-| 2026-10-17 13:41:01 | [phantom-tungstenite](https://crates.io/crates/phantom-tungstenite) | 0.30.0-phantom.3 | 0 | Phantom fork of tungstenite 0.30.0; not a general-purpose replacement |
-| 2026-10-17 13:44:09 | [myoxus-yrs](https://crates.io/crates/myoxus-yrs) | 0.28.0-myoxus.1 | 0 | Myoxus-maintained Yrs fork with subdocument ownership fixes, selective undo cle… |
-| 2026-10-17 13:51:10 | [phantom-tokio-tungstenite](https://crates.io/crates/phantom-tokio-tungstenite) | 0.30.0-phantom.3 | 0 | Phantom fork of tokio-tungstenite 0.30.0; not a general-purpose replacement |
-| 2026-10-17 13:53:32 | [guessaeng_game](https://crates.io/crates/guessaeng_game) | 0.1.0 | 0 | A fun game where you guess what number the computer has chosen |
-| 2026-10-17 13:53:55 | [cudabom-report](https://crates.io/crates/cudabom-report) | 0.1.0 | 0 | Deterministic renderers for cudabom output: terminal table, native JSON, SARIF… |
-| 2026-10-17 13:56:40 | [deezer-client](https://crates.io/crates/deezer-client) | 0.1.0 | 0 | A standalone Deezer client library: public and private API access, ARL auth, de… |
-| 2026-10-17 13:56:48 | [deezerd-client](https://crates.io/crates/deezerd-client) | 0.1.0 | 0 | Client library for the deezerd daemon's HTTP surface: playback control and queu… |
-| 2026-10-17 13:57:05 | [episodic-cli](https://crates.io/crates/episodic-cli) | 0.1.0 | 0 | Plan, produce, and publish video and podcast episodes from the command line: au… |
-| 2026-10-17 13:57:17 | [deezerd-tui](https://crates.io/crates/deezerd-tui) | 0.1.0 | 0 | A terminal UI for the deezerd daemon |
-| 2026-10-17 13:57:20 | [itanium-demangle](https://crates.io/crates/itanium-demangle) | 0.1.0 | 0 | A fast Itanium C++ name demangler |
-| 2026-10-17 13:57:50 | [say-hello-raihan](https://crates.io/crates/say-hello-raihan) | 0.1.0 | 0 | This is say hello library |
-| 2026-10-17 13:57:56 | [deezerd](https://crates.io/crates/deezerd) | 0.1.0 | 0 | A headless Deezer daemon that plays decrypted audio through an in-process engin… |
-| 2026-10-17 13:58:42 | [cudabom-sbom](https://crates.io/crates/cudabom-sbom) | 0.1.0 | 0 | CycloneDX 1.6 emit/enrich/merge, PEP 770 declared-SBOM reader, and CycloneDX VE… |
-| 2026-10-17 13:59:39 | [beam-proto](https://crates.io/crates/beam-proto) | 5.0.0 | 0 | Prost/tonic-generated Rust types for Apache Beam's portability .proto files |
-| 2026-10-17 13:59:42 | [ironbeam-cloud-objects](https://crates.io/crates/ironbeam-cloud-objects) | 5.0.0 | 0 | Provider-neutral URI object storage contract for Ironbeam |
-| 2026-10-17 13:59:50 | [ironbeam-cloud-object-store](https://crates.io/crates/ironbeam-cloud-object-store) | 5.0.0 | 0 | Opt-in S3, GCS, and Azure object storage adapters for Ironbeam |
-| 2026-10-17 13:59:53 | [ironbeam-cloud-service-api](https://crates.io/crates/ironbeam-cloud-service-api) | 5.0.0 | 0 | Provider-neutral cloud service contracts for Ironbeam extensions |
-| 2026-10-17 13:59:56 | [ironbeam-cloud-fakes](https://crates.io/crates/ironbeam-cloud-fakes) | 5.0.0 | 0 | Provider-neutral in-memory service implementations for Ironbeam tests |
-| 2026-10-17 14:00:04 | [epub-extract](https://crates.io/crates/epub-extract) | 1.1.0 | 0 | EPUB content extraction: chapters in spine order as structured blocks |
-| 2026-10-17 14:01:14 | [py4uv](https://crates.io/crates/py4uv) | 0.1.0 | 0 | Portable `py` launcher shim, backed by uv (no Python installation needed) |
-| 2026-10-17 14:03:00 | [kala](https://crates.io/crates/kala) | 1.0.0 | 0 | Timing with nanosecond precision on multiple architectures. |
-| 2026-10-17 14:04:11 | [ironbeam-cloud-gcp](https://crates.io/crates/ironbeam-cloud-gcp) | 5.0.0 | 0 | Google Cloud Storage, Pub/Sub, BigQuery, and Secret Manager clients for Ironbea… |
-| 2026-10-17 14:04:28 | [pdfluent-cli](https://crates.io/crates/pdfluent-cli) | 1.1.0 | 0 | PDFluent command-line interface: extract, merge, split, organise, compress, pro… |
-| 2026-10-17 14:04:43 | [pptx-extract](https://crates.io/crates/pptx-extract) | 1.1.0 | 0 | PowerPoint PPTX to pdf-engine block extraction (Epic #636 item 5) |
-| 2026-10-17 14:04:57 | [xlsx-extract](https://crates.io/crates/xlsx-extract) | 1.1.0 | 0 | XLSX workbook extraction to pdf-engine blocks (pdfluent-internal#636 item 4) |
-| 2026-10-17 14:05:11 | [congestimancer](https://crates.io/crates/congestimancer) | 0.1.0-rc.1 | 0 | gate commands on machine congestion: wait until load, memory, disk, IO and othe… |
-| 2026-10-17 14:05:40 | [phantom-testkit](https://crates.io/crates/phantom-testkit) | 0.1.0 | 0 | Deterministic wire capture helpers for Phantom tests |
-| 2026-10-17 14:07:41 | [lovecov](https://crates.io/crates/lovecov) | 1.0.0 | 0 | A simple, cross-platform lcov parser for generating various output formats |
-| 2026-10-17 14:08:43 | [cudabom-advisory](https://crates.io/crates/cudabom-advisory) | 0.1.0 | 0 | NVIDIA CSAF advisory ingestion, normalization, local index, and version-range m… |
-| 2026-10-17 14:09:04 | [mcp-sentinel](https://crates.io/crates/mcp-sentinel) | 1.0.0 | 0 | Zero-Trust Secret Vault & Security Proxy for Model Context Protocol (MCP) |
-| 2026-10-17 14:09:44 | [deboa-multipart](https://crates.io/crates/deboa-multipart) | 0.1.0-beta.1 | 0 | Utilities for handling multipart form with deboa |
-| 2026-10-17 14:10:46 | [bun_browser_dom](https://crates.io/crates/bun_browser_dom) | 1.4.6 | 0 | Bun browser module bun_browser_dom. |
-| 2026-10-17 14:10:46 | [bun_browser_ssrf](https://crates.io/crates/bun_browser_ssrf) | 1.4.6 | 0 | Shared SSRF deny-set and private-network opt-in for BunBrowser network transpor… |
-| 2026-10-17 14:12:53 | [htmlcut-runtime](https://crates.io/crates/htmlcut-runtime) | 23.0.0 | 0 | Fail-closed extraction contracts for caller-owned HTML snapshots, with complete… |
-| 2026-10-17 14:12:58 | [axeon-orm-macros](https://crates.io/crates/axeon-orm-macros) | 0.1.0 | 0 | Derive macros for axeon-orm |
-| 2026-10-17 14:14:09 | [axeon-orm](https://crates.io/crates/axeon-orm) | 0.1.0 | 0 | An Eloquent-style ORM for Rust on top of sqlx, with first-class Axeon integrati… |
-| 2026-10-17 14:15:03 | [gpuq](https://crates.io/crates/gpuq) | 0.2.0 | 0 | GPU scheduler for Linux: priority classes, leases and VRAM accounting for jobs… |
-| 2026-10-17 14:16:26 | [git-cow](https://crates.io/crates/git-cow) | 0.1.0 | 0 | Git worktrees that share files with a template through copy-on-write clones (AP… |
-| 2026-10-17 14:17:24 | [phantom-profile](https://crates.io/crates/phantom-profile) | 0.1.0 | 0 | Browser recipes and connection settings for Phantom |
+| 2026-10-17 14:18:43 | [cudabom-identify](https://crates.io/crates/cudabom-identify) | 0.1.0 | 0 | Fingerprint database and matchers that turn ELF/fatbin facts into CUDA componen… |
+| 2026-10-17 14:22:40 | [krpii-core](https://crates.io/crates/krpii-core) | 0.1.0 | 0 | Detection engine for credentials and Korean PII. |
+| 2026-10-17 14:22:43 | [krpii](https://crates.io/crates/krpii) | 0.1.0 | 0 | Command-line interface for detecting and masking credentials and Korean PII. |
+| 2026-10-17 14:27:10 | [df-hyperliquid-core](https://crates.io/crates/df-hyperliquid-core) | 0.0.8-beta.1 | 0 | Hyperliquid SDK for Rust: markets, account, trading, transfers, earn and deploy… |
+| 2026-10-17 14:27:36 | [cctune](https://crates.io/crates/cctune) | 0.1.1 | 0 | Control Apple Music from the terminal and from Claude Code: commands, an MCP se… |
+| 2026-10-17 14:27:43 | [phantom-quic-btls](https://crates.io/crates/phantom-quic-btls) | 0.1.0 | 0 | BoringSSL crypto provider for Phantom QUIC |
+| 2026-10-17 14:28:05 | [df-papertrade-core](https://crates.io/crates/df-papertrade-core) | 0.0.8-beta.1 | 0 | Papertrade SDK for Rust on df-hyperliquid-core: intents, relayer, live account,… |
+| 2026-10-17 14:28:44 | [cudabom](https://crates.io/crates/cudabom) | 0.1.0 | 0 | Find the CUDA your SBOM missed: evidence-backed CUDA identity and security-grad… |
+| 2026-10-17 14:30:37 | [statenode](https://crates.io/crates/statenode) | 0.0.0 | 0 | A graph-based runtime and state machine engine for LLM agent workflows. |
+| 2026-10-17 14:31:11 | [estigia](https://crates.io/crates/estigia) | 0.1.0 | 0 | Guardrails for AI coding agents (Claude Code, Codex, OpenCode, Pi): an MCP serv… |
+| 2026-10-17 14:35:02 | [phantom-net](https://crates.io/crates/phantom-net) | 0.1.0 | 0 | HTTP/1.1, HTTP/2, and HTTP/3 connections for Phantom |
+| 2026-10-17 14:35:46 | [ironbeam-cloud-ops](https://crates.io/crates/ironbeam-cloud-ops) | 5.0.0 | 0 | Provider-neutral cloud operation helpers for Ironbeam |
+| 2026-10-17 14:35:50 | [ironbeam-compression](https://crates.io/crates/ironbeam-compression) | 5.0.0 | 0 | Pluggable streaming compression for Ironbeam I/O |
+| 2026-10-17 14:35:59 | [ironbeam-core](https://crates.io/crates/ironbeam-core) | 5.0.0 | 0 | Runner-neutral logical graph for Ironbeam 5 |
+| 2026-10-17 14:36:46 | [yaml-splice](https://crates.io/crates/yaml-splice) | 0.2.1 | 0 | Edit top-level fields of a YAML mapping in place: set, remove and rename a key… |
+| 2026-10-17 14:39:35 | [turly](https://crates.io/crates/turly) | 0.1.0 | 0 | A terminal API client with Vim keys, workspaces and OpenAPI import |
+| 2026-10-17 14:43:02 | [ironbeam-coder-row](https://crates.io/crates/ironbeam-coder-row) | 5.0.0 | 0 | Beam schema RowCoder and typed row elements for Ironbeam 5 |
+| 2026-10-17 14:44:37 | [pithdb](https://crates.io/crates/pithdb) | 0.0.1 | 0 | Pith: lightweight embeddable vector database with built-in ONNX embeddings (nam… |
+| 2026-10-17 14:50:10 | [dotenw](https://crates.io/crates/dotenw) | 0.0.1 | 0 | Immutable environment snapshots with layered dotenv sources, explicit inheritan… |
+| 2026-10-17 14:50:58 | [congif](https://crates.io/crates/congif) | 0.0.1 | 0 | Typed configuration reading, validated preparation and atomic snapshots with ex… |
+| 2026-10-17 14:51:16 | [gpui-testing-library](https://crates.io/crates/gpui-testing-library) | 0.1.0 | 0 | Testing Library for GPUI: query views the way users perceive them, simulate use… |
+| 2026-10-17 14:52:22 | [phantom-http](https://crates.io/crates/phantom-http) | 0.1.0 | 0 | HTTP client with browser TLS and HTTP profiles |
+| 2026-10-17 14:53:03 | [ironbeam-graphx](https://crates.io/crates/ironbeam-graphx) | 5.0.0 | 0 | Translates ironbeam pipelines into Apache Beam portable-pipeline protobufs |
+| 2026-10-17 14:59:47 | [taktwerk-record](https://crates.io/crates/taktwerk-record) | 0.6.0 | 0 | Run files of the taktwerk recorder: manifest, gzipped CSV parts, event log, ret… |
+| 2026-10-17 15:01:08 | [seqarc](https://crates.io/crates/seqarc) | 0.1.0 | 0 | Rust archiver for sequencing reads with fast, alignment-based compression |
+| 2026-10-17 15:02:54 | [crystal-cif-fmt](https://crates.io/crates/crystal-cif-fmt) | 0.1.0 | 0 | Parser and IR for the IUCr crystallography `cif` format. |
+| 2026-10-17 15:03:01 | [ironbeam-metrics](https://crates.io/crates/ironbeam-metrics) | 5.0.0 | 0 | Optional custom metrics and reporting for Ironbeam 5 jobs |
+| 2026-10-17 15:05:01 | [midway-config](https://crates.io/crates/midway-config) | 0.1.0 | 0 | Configuration types and validation for Midway. |
+| 2026-10-17 15:05:10 | [midway-logging](https://crates.io/crates/midway-logging) | 0.1.0 | 0 | File logging setup for Midway. |
+| 2026-10-17 15:05:41 | [midway-notifier](https://crates.io/crates/midway-notifier) | 0.1.0 | 0 | Notification delivery for Midway. |
+| 2026-10-17 15:05:59 | [midway-cli](https://crates.io/crates/midway-cli) | 0.1.0 | 0 | Run commands and get notified when they finish. |
+| 2026-10-17 15:07:03 | [usfm_span](https://crates.io/crates/usfm_span) | 0.1.0 | 0 | Source spans and line/column lookup for the usfm_tools crates |
+| 2026-10-17 15:07:05 | [usfm_style](https://crates.io/crates/usfm_style) | 0.1.0 | 0 | USFM stylesheets (.sty): the markers, their types and placement rules, with Par… |
+| 2026-10-17 15:07:09 | [usfm_ast](https://crates.io/crates/usfm_ast) | 0.1.0 | 0 | The USFM syntax tree, with visitors, folds and a cursor |
+| 2026-10-17 15:07:13 | [usfm_codegen](https://crates.io/crates/usfm_codegen) | 0.1.0 | 0 | USFM output for a parsed USFM document, one canonical spelling per construct |
+| 2026-10-17 15:07:16 | [usfm_diagnostics](https://crates.io/crates/usfm_diagnostics) | 0.1.0 | 0 | Diagnostics for USFM: codes, severities, parse results and rendering |
+| 2026-10-17 15:13:02 | [ironbeam-direct](https://crates.io/crates/ironbeam-direct) | 5.0.0 | 0 | Direct execution for the Ironbeam 5 logical graph |
+| 2026-10-17 15:14:01 | [seed-core](https://crates.io/crates/seed-core) | 0.1.0 | 0 | Deterministic 2-Stage Decision Engine, Real-Time Episodic Memory, and JFP Gatek… |
+| 2026-10-17 15:19:48 | [orchestral-agent-claude](https://crates.io/crates/orchestral-agent-claude) | 0.5.0 | 0 | Claude Code session and streaming Agent connector for Orchestral |
 
 ## Data source
 
