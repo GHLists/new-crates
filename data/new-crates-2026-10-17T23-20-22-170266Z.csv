@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T22:26:08.793906Z,soundcloud-tui,0.2.0,0,0,https://github.com/laguser/soundcloud-tui,"A minimalist terminal SoundCloud & YouTube player for Linux in Rust, crafted with @ttype aesthetic."
+2026-10-17T22:27:21.63889Z,frf-memorysafety,0.3.0,0,0,https://github.com/infinityabundance/frf-memorysafety,Candidate-bound memory-safety assurance for unsafe-to-safe Rust compatibility ports
+2026-10-17T22:27:32.928001Z,bcode_metrics,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Lightweight runtime metrics for bcode
+2026-10-17T22:33:59.012976Z,metrale-cudarc,0.19.2,0,0,https://github.com/Metrale/metrale-inference,"Metrale Engine fork of cudarc 0.19.2 (driver + NVRTC only): stream priorities, raw module handles, and a stub for CUDA symbols a runtime lacks"
+2026-10-17T22:35:11.231968Z,metrale-closure,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,Content hash of a kernel target's transitive include closure.
+2026-10-17T22:35:32.37003Z,metrale-core,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"Metrale Engine: shared types (dtype, tensor, arch, device, errors, fault scopes)."
+2026-10-17T22:35:42.442738Z,metrale-error,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"Metrale Engine: the CERF error registry (u16 ErrorCode, registered forms, pointer-sized Error). no_std + alloc, no dependencies."
+2026-10-17T22:36:05.251607Z,bupha-trigger,0.1.0,0,0,https://github.com/9aia/bupha,Trigger port: where pushes come from
+2026-10-17T22:36:09.371242Z,bupha-keyring,0.1.0,0,0,https://github.com/9aia/bupha,Secret impl: OS keyring via secret-tool (libsecret)
+2026-10-17T22:36:15.140016Z,metrale-governance,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,The PR journey ledger: an append-only record of how a change reached main.
+2026-10-17T22:37:14.706815Z,bupha-queue,0.1.0,0,0,https://github.com/9aia/bupha,QueueStore port: queue persistence
+2026-10-17T22:37:32.285983Z,bcode_model_catalog_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Bcode model catalog schema types
+2026-10-17T22:38:27.985571Z,metrale-gpu-sys,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"Metrale Engine: raw FFI only — cuFile (GDS) and NVML dlopen wrappers, NCCL bindings, RDMA verbs C shim."
+2026-10-17T22:46:18.545858Z,luxe-core,0.1.0,0,0,https://github.com/evanwhittaker/luxe,"Luxe's engine: the agent loop, session model, context assembly, permissions, and the Provider/Tool/Hook traits"
+2026-10-17T22:46:20.757889Z,luxe-dap,0.1.0,0,0,https://github.com/evanwhittaker/luxe,"Debug Adapter Protocol client for Luxe: breakpoints, stepping, and variable inspection"
+2026-10-17T22:46:21.247219Z,luxe-lsp,0.1.0,0,0,https://github.com/evanwhittaker/luxe,"Language-server client and offline code graph for Luxe: diagnostics, navigation, and blast radius"
+2026-10-17T22:46:21.752368Z,luxe-mcp,0.1.0,0,0,https://github.com/evanwhittaker/luxe,"Model Context Protocol client for Luxe: stdio and HTTP transports, with OAuth for hosted servers"
+2026-10-17T22:46:22.227191Z,luxe-providers,0.1.0,0,0,https://github.com/evanwhittaker/luxe,"LLM provider adapters for Luxe: OpenAI-compatible and Anthropic streaming, tool calls, usage, and auth"
+2026-10-17T22:47:32.752333Z,bcode_ralph_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Portable Ralph operation contracts for bcode
+2026-10-17T22:47:34.723623Z,metrale-grammar,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,Pure-Rust grammar-constrained decoding (XGrammar port)
+2026-10-17T22:48:40.944742Z,driftmark-core,0.0.0,0,0,https://github.com/cj-ways/driftmark,"The rules of driftmark: document blocks, change detection and ranking, note anchoring and lint rules. No file, git or network access"
+2026-10-17T22:48:45.733168Z,driftmark,0.0.0,0,0,https://github.com/cj-ways/driftmark,"See what your AI agents changed in your Markdown docs, whether it matters, and answer back with notes"
+2026-10-17T22:56:25.984605Z,luxe-tools,0.1.0,0,0,https://github.com/evanwhittaker/luxe,"Built-in tools for Luxe: read, write, edit, bash, glob, grep, git, web fetch, and test running"
+2026-10-17T22:57:32.328831Z,bcode_session_import,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Session import plugin contract types for bcode
+2026-10-17T22:57:35.205698Z,metrale-kernel-tree,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"The repository's kernels/ manifests and sources, embedded at build time."
+2026-10-17T23:00:44.543769Z,cellar-logic,0.1.0,0,0,https://github.com/crabbuild/cellar,Pure state transitions and decision core for Cellar durable cells
+2026-10-17T23:00:45.612804Z,cellar-ltx,0.1.0,0,0,https://github.com/crabbuild/cellar,In-process SQLite WAL replication to object storage (LTX format) for cellar.
+2026-10-17T23:00:46.498581Z,cellar-native,0.1.0,0,0,https://github.com/crabbuild/cellar,Engine-independent application primitives for cellar
+2026-10-17T23:00:48.179015Z,cellar-main,0.1.0,0,0,https://github.com/crabbuild/cellar,Native Rust framework and CLI for durable cells with SQLite state
+2026-10-17T23:00:50.764068Z,cellar-axum,0.1.0,0,0,https://github.com/crabbuild/cellar,Axum application and HTTP hosting adapters for durable Cellar cells
+2026-10-17T23:05:52.861224Z,cordis-harness,0.2.1,0,0,https://github.com/helloworldtang/cordis-rust,Cordis 插件框架的 Rust 实现：服务容器、依赖注入、类型化事件与可逆副作用
+2026-10-17T23:06:26.238368Z,luxe-tui,0.1.0,0,0,https://github.com/evanwhittaker/luxe,"Terminal UI for Luxe, built on ratatui: conversation, guided review, dashboard, and themes"
+2026-10-17T23:07:32.495709Z,bcode_session_search,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Backend-neutral session search contracts for bcode
+2026-10-17T23:07:32.566598Z,metrale-scheduler,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"Metrale Engine: the scheduler's I/O contract — step plans, effects, the device/clock/spill router traits, the effect-trace decorator and the one driver loop. No model dependency."
+2026-10-17T23:07:44.760684Z,wesldoc_ast,0.1.0,0,0,https://github.com/jannik4/wesldoc,WESL documentation generator
+2026-10-17T23:07:45.198024Z,wesldoc_report,0.1.0,0,0,https://github.com/jannik4/wesldoc,WESL documentation generator
+2026-10-17T23:07:48.786517Z,wesldoc_generator,0.1.0,0,0,https://github.com/jannik4/wesldoc,WESL documentation generator
+2026-10-17T23:07:50.218584Z,wesldoc_resolver,0.1.0,0,0,https://github.com/jannik4/wesldoc,WESL documentation generator
+2026-10-17T23:07:52.060221Z,wesldoc_compiler,0.1.0,0,0,https://github.com/jannik4/wesldoc,WESL documentation generator
+2026-10-17T23:09:08.19444Z,sessionize,0.1.0,0,0,https://github.com/sagikazarmark/sessionize-rs,Typed client for the Sessionize API
+2026-10-17T23:09:49.018175Z,ferratable,0.0.1,0,0,,Temporary placeholder for the forthcoming FerraTable crate
+2026-10-17T23:14:53.431083Z,cargo-heli,0.0.1,0,0,https://github.com/vanyastaff/heli,Host-level scheduling for cargo on machines shared by many agents
+2026-10-17T23:16:26.982614Z,luxe-cli,0.1.0,0,0,https://github.com/evanwhittaker/luxe,"A terminal coding agent: streaming chat, tools, guided diff review, and LSP/DAP code intelligence"
+2026-10-17T23:17:33.078157Z,bcode_workflow_store,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Durable workflow persistence for bcode
+2026-10-17T23:17:34.437934Z,metrale-config,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"Metrale Engine: the typed model config tree (HF config.json parsing, GGUF metadata, capabilities)."
+2026-10-17T23:18:06.579593Z,wesldoc_resolver_npm,0.1.0,0,0,https://github.com/jannik4/wesldoc,WESL documentation generator
+2026-10-17T23:18:34.835583Z,kkkqkx-tantivy-columnar,0.7.0,0,0,https://github.com/kkkqkx123/tantivy,column oriented storage for tantivy
+2026-10-17T23:19:05.376736Z,kkkqkx-tantivy,0.27.0,0,0,https://github.com/kkkqkx123/tantivy,Search engine library

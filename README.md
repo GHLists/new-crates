@@ -8,42 +8,62 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 22:21 UTC
+## Latest list — 2026-10-17 23:20 UTC
 
-New crates published between 2026-10-17 21:18 UTC and 2026-10-17 22:21 UTC.
+New crates published between 2026-10-17 22:21 UTC and 2026-10-17 23:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-17T22-21-18-287678Z.csv)
+[Full CSV](data/new-crates-2026-10-17T23-20-22-170266Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-17 21:18:45 | [nedb-wasm](https://crates.io/crates/nedb-wasm) | 11.12.15 | 0 | NEDB v2 engine for the browser — wasm-bindgen bindings over the in-memory Db |
-| 2026-10-17 21:19:45 | [dependency-factory-derive](https://crates.io/crates/dependency-factory-derive) | 0.0.1 | 0 | Derive macros for the `dependency-factory` crate. |
-| 2026-10-17 21:19:47 | [dependency-factory](https://crates.io/crates/dependency-factory) | 0.0.1 | 0 | Type-safe dependency-injection container with auto-building of singletons and q… |
-| 2026-10-17 21:24:32 | [ferrodock](https://crates.io/crates/ferrodock) | 1.6.0 | 0 | A fast, native container manager for Docker, written in Rust. |
-| 2026-10-17 21:24:40 | [kuizer](https://crates.io/crates/kuizer) | 0.1.1 | 0 | Keyboard-driven disk cleanup for developers: generated artifacts, caches and du… |
-| 2026-10-17 21:27:32 | [bcode_model_provider_runtime](https://crates.io/crates/bcode_model_provider_runtime) | 0.0.1-alpha.0 | 0 | Reusable model provider plugin turn runtime for bcode |
-| 2026-10-17 21:28:38 | [kuizer-gui](https://crates.io/crates/kuizer-gui) | 0.1.1 | 0 | Desktop interface for kuizer, built on GPUI |
-| 2026-10-17 21:29:41 | [bromlife-sys](https://crates.io/crates/bromlife-sys) | 0.1.0 | 0 | Bindings to libbromlife for O Markup Language parsing. |
-| 2026-10-17 21:29:53 | [bromlife](https://crates.io/crates/bromlife) | 0.1.0 | 0 | Bindings to libbromlife for O Markup Language parsing. |
-| 2026-10-17 21:35:33 | [pertaro](https://crates.io/crates/pertaro) | 0.1.0 | 0 | Cache-resident 256-byte neuro-symbolic micro-experts via xorshift64 seed compre… |
-| 2026-10-17 21:37:32 | [bcode_auth_broker_provider_plugin](https://crates.io/crates/bcode_auth_broker_provider_plugin) | 0.0.1-alpha.0 | 0 | Normalized scoped model gateway provider for Bcode |
-| 2026-10-17 21:43:37 | [yarlg](https://crates.io/crates/yarlg) | 0.1.0 | 0 | A blazingly fast Lexer generator library. |
-| 2026-10-17 21:45:00 | [tsuk](https://crates.io/crates/tsuk) | 0.1.1 | 0 | Expose local servers to the internet through a tunnel |
-| 2026-10-17 21:47:32 | [bcode_config](https://crates.io/crates/bcode_config) | 0.0.1-alpha.0 | 0 | Configuration loading for bcode |
-| 2026-10-17 21:49:13 | [bupha-config-toml](https://crates.io/crates/bupha-config-toml) | 0.1.0 | 0 | Config impl: bupha.toml file (explicit path, env, ./, ~/.config) |
-| 2026-10-17 21:49:15 | [bupha-runner](https://crates.io/crates/bupha-runner) | 0.1.0 | 0 | Runner port: how a job becomes a spawned process |
-| 2026-10-17 21:49:18 | [bupha-secret](https://crates.io/crates/bupha-secret) | 0.1.0 | 0 | Secret port: resolve named secrets from storage |
-| 2026-10-17 21:52:38 | [ahe](https://crates.io/crates/ahe) | 0.1.0 | 0 | Agent Hook Engine — one hook DSL evaluated by a common runtime and lowered onto… |
-| 2026-10-17 21:57:32 | [bcode_model_schema](https://crates.io/crates/bcode_model_schema) | 0.0.1-alpha.0 | 0 | Portable model-output JSON Schema normalization for bcode |
-| 2026-10-17 21:58:47 | [bupha-vcs](https://crates.io/crates/bupha-vcs) | 0.1.0 | 0 | Vcs port: VCS operations for repos and worktrees |
-| 2026-10-17 22:05:28 | [tspm](https://crates.io/crates/tspm) | 2.4.0 | 0 | Terminal-session SOCKS/HTTP proxy profiles, latency checks and shell environmen… |
-| 2026-10-17 22:07:13 | [bupha-status](https://crates.io/crates/bupha-status) | 0.1.0 | 0 | StatusSink port: where run outcomes are reported |
-| 2026-10-17 22:07:32 | [bcode_openai_responses](https://crates.io/crates/bcode_openai_responses) | 0.0.1-alpha.0 | 0 | OpenAI Responses API wire format for bcode |
-| 2026-10-17 22:17:21 | [regexed](https://crates.io/crates/regexed) | 0.0.1 | 0 | Ahead-of-time compiled regular expressions (placeholder, not yet usable) |
-| 2026-10-17 22:17:23 | [regexed-macros](https://crates.io/crates/regexed-macros) | 0.0.1 | 0 | Procedural macros for regexed (placeholder, not yet usable) |
-| 2026-10-17 22:17:25 | [rexed](https://crates.io/crates/rexed) | 0.0.1 | 0 | Ahead-of-time compiled regular expressions (placeholder, not yet usable) |
-| 2026-10-17 22:17:27 | [rexed-macros](https://crates.io/crates/rexed-macros) | 0.0.1 | 0 | Procedural macros for rexed (placeholder, not yet usable) |
-| 2026-10-17 22:17:32 | [bcode_bedrock_provider_plugin](https://crates.io/crates/bcode_bedrock_provider_plugin) | 0.0.1-alpha.0 | 0 | Amazon Bedrock model provider plugin for bcode |
+| 2026-10-17 22:26:08 | [soundcloud-tui](https://crates.io/crates/soundcloud-tui) | 0.2.0 | 0 | A minimalist terminal SoundCloud & YouTube player for Linux in Rust, crafted wi… |
+| 2026-10-17 22:27:21 | [frf-memorysafety](https://crates.io/crates/frf-memorysafety) | 0.3.0 | 0 | Candidate-bound memory-safety assurance for unsafe-to-safe Rust compatibility p… |
+| 2026-10-17 22:27:32 | [bcode_metrics](https://crates.io/crates/bcode_metrics) | 0.0.1-alpha.0 | 0 | Lightweight runtime metrics for bcode |
+| 2026-10-17 22:33:59 | [metrale-cudarc](https://crates.io/crates/metrale-cudarc) | 0.19.2 | 0 | Metrale Engine fork of cudarc 0.19.2 (driver + NVRTC only): stream priorities,… |
+| 2026-10-17 22:35:11 | [metrale-closure](https://crates.io/crates/metrale-closure) | 1.0.0-beta-preview | 0 | Content hash of a kernel target's transitive include closure. |
+| 2026-10-17 22:35:32 | [metrale-core](https://crates.io/crates/metrale-core) | 1.0.0-beta-preview | 0 | Metrale Engine: shared types (dtype, tensor, arch, device, errors, fault scopes… |
+| 2026-10-17 22:35:42 | [metrale-error](https://crates.io/crates/metrale-error) | 1.0.0-beta-preview | 0 | Metrale Engine: the CERF error registry (u16 ErrorCode, registered forms, point… |
+| 2026-10-17 22:36:05 | [bupha-trigger](https://crates.io/crates/bupha-trigger) | 0.1.0 | 0 | Trigger port: where pushes come from |
+| 2026-10-17 22:36:09 | [bupha-keyring](https://crates.io/crates/bupha-keyring) | 0.1.0 | 0 | Secret impl: OS keyring via secret-tool (libsecret) |
+| 2026-10-17 22:36:15 | [metrale-governance](https://crates.io/crates/metrale-governance) | 1.0.0-beta-preview | 0 | The PR journey ledger: an append-only record of how a change reached main. |
+| 2026-10-17 22:37:14 | [bupha-queue](https://crates.io/crates/bupha-queue) | 0.1.0 | 0 | QueueStore port: queue persistence |
+| 2026-10-17 22:37:32 | [bcode_model_catalog_models](https://crates.io/crates/bcode_model_catalog_models) | 0.0.1-alpha.0 | 0 | Bcode model catalog schema types |
+| 2026-10-17 22:38:27 | [metrale-gpu-sys](https://crates.io/crates/metrale-gpu-sys) | 1.0.0-beta-preview | 0 | Metrale Engine: raw FFI only — cuFile (GDS) and NVML dlopen wrappers, NCCL bind… |
+| 2026-10-17 22:46:18 | [luxe-core](https://crates.io/crates/luxe-core) | 0.1.0 | 0 | Luxe's engine: the agent loop, session model, context assembly, permissions, an… |
+| 2026-10-17 22:46:20 | [luxe-dap](https://crates.io/crates/luxe-dap) | 0.1.0 | 0 | Debug Adapter Protocol client for Luxe: breakpoints, stepping, and variable ins… |
+| 2026-10-17 22:46:21 | [luxe-lsp](https://crates.io/crates/luxe-lsp) | 0.1.0 | 0 | Language-server client and offline code graph for Luxe: diagnostics, navigation… |
+| 2026-10-17 22:46:21 | [luxe-mcp](https://crates.io/crates/luxe-mcp) | 0.1.0 | 0 | Model Context Protocol client for Luxe: stdio and HTTP transports, with OAuth f… |
+| 2026-10-17 22:46:22 | [luxe-providers](https://crates.io/crates/luxe-providers) | 0.1.0 | 0 | LLM provider adapters for Luxe: OpenAI-compatible and Anthropic streaming, tool… |
+| 2026-10-17 22:47:32 | [bcode_ralph_models](https://crates.io/crates/bcode_ralph_models) | 0.0.1-alpha.0 | 0 | Portable Ralph operation contracts for bcode |
+| 2026-10-17 22:47:34 | [metrale-grammar](https://crates.io/crates/metrale-grammar) | 1.0.0-beta-preview | 0 | Pure-Rust grammar-constrained decoding (XGrammar port) |
+| 2026-10-17 22:48:40 | [driftmark-core](https://crates.io/crates/driftmark-core) | 0.0.0 | 0 | The rules of driftmark: document blocks, change detection and ranking, note anc… |
+| 2026-10-17 22:48:45 | [driftmark](https://crates.io/crates/driftmark) | 0.0.0 | 0 | See what your AI agents changed in your Markdown docs, whether it matters, and… |
+| 2026-10-17 22:56:25 | [luxe-tools](https://crates.io/crates/luxe-tools) | 0.1.0 | 0 | Built-in tools for Luxe: read, write, edit, bash, glob, grep, git, web fetch, a… |
+| 2026-10-17 22:57:32 | [bcode_session_import](https://crates.io/crates/bcode_session_import) | 0.0.1-alpha.0 | 0 | Session import plugin contract types for bcode |
+| 2026-10-17 22:57:35 | [metrale-kernel-tree](https://crates.io/crates/metrale-kernel-tree) | 1.0.0-beta-preview | 0 | The repository's kernels/ manifests and sources, embedded at build time. |
+| 2026-10-17 23:00:44 | [cellar-logic](https://crates.io/crates/cellar-logic) | 0.1.0 | 0 | Pure state transitions and decision core for Cellar durable cells |
+| 2026-10-17 23:00:45 | [cellar-ltx](https://crates.io/crates/cellar-ltx) | 0.1.0 | 0 | In-process SQLite WAL replication to object storage (LTX format) for cellar. |
+| 2026-10-17 23:00:46 | [cellar-native](https://crates.io/crates/cellar-native) | 0.1.0 | 0 | Engine-independent application primitives for cellar |
+| 2026-10-17 23:00:48 | [cellar-main](https://crates.io/crates/cellar-main) | 0.1.0 | 0 | Native Rust framework and CLI for durable cells with SQLite state |
+| 2026-10-17 23:00:50 | [cellar-axum](https://crates.io/crates/cellar-axum) | 0.1.0 | 0 | Axum application and HTTP hosting adapters for durable Cellar cells |
+| 2026-10-17 23:05:52 | [cordis-harness](https://crates.io/crates/cordis-harness) | 0.2.1 | 0 | Cordis 插件框架的 Rust 实现：服务容器、依赖注入、类型化事件与可逆副作用 |
+| 2026-10-17 23:06:26 | [luxe-tui](https://crates.io/crates/luxe-tui) | 0.1.0 | 0 | Terminal UI for Luxe, built on ratatui: conversation, guided review, dashboard,… |
+| 2026-10-17 23:07:32 | [bcode_session_search](https://crates.io/crates/bcode_session_search) | 0.0.1-alpha.0 | 0 | Backend-neutral session search contracts for bcode |
+| 2026-10-17 23:07:32 | [metrale-scheduler](https://crates.io/crates/metrale-scheduler) | 1.0.0-beta-preview | 0 | Metrale Engine: the scheduler's I/O contract — step plans, effects, the device/… |
+| 2026-10-17 23:07:44 | [wesldoc_ast](https://crates.io/crates/wesldoc_ast) | 0.1.0 | 0 | WESL documentation generator |
+| 2026-10-17 23:07:45 | [wesldoc_report](https://crates.io/crates/wesldoc_report) | 0.1.0 | 0 | WESL documentation generator |
+| 2026-10-17 23:07:48 | [wesldoc_generator](https://crates.io/crates/wesldoc_generator) | 0.1.0 | 0 | WESL documentation generator |
+| 2026-10-17 23:07:50 | [wesldoc_resolver](https://crates.io/crates/wesldoc_resolver) | 0.1.0 | 0 | WESL documentation generator |
+| 2026-10-17 23:07:52 | [wesldoc_compiler](https://crates.io/crates/wesldoc_compiler) | 0.1.0 | 0 | WESL documentation generator |
+| 2026-10-17 23:09:08 | [sessionize](https://crates.io/crates/sessionize) | 0.1.0 | 0 | Typed client for the Sessionize API |
+| 2026-10-17 23:09:49 | [ferratable](https://crates.io/crates/ferratable) | 0.0.1 | 0 | Temporary placeholder for the forthcoming FerraTable crate |
+| 2026-10-17 23:14:53 | [cargo-heli](https://crates.io/crates/cargo-heli) | 0.0.1 | 0 | Host-level scheduling for cargo on machines shared by many agents |
+| 2026-10-17 23:16:26 | [luxe-cli](https://crates.io/crates/luxe-cli) | 0.1.0 | 0 | A terminal coding agent: streaming chat, tools, guided diff review, and LSP/DAP… |
+| 2026-10-17 23:17:33 | [bcode_workflow_store](https://crates.io/crates/bcode_workflow_store) | 0.0.1-alpha.0 | 0 | Durable workflow persistence for bcode |
+| 2026-10-17 23:17:34 | [metrale-config](https://crates.io/crates/metrale-config) | 1.0.0-beta-preview | 0 | Metrale Engine: the typed model config tree (HF config.json parsing, GGUF metad… |
+| 2026-10-17 23:18:06 | [wesldoc_resolver_npm](https://crates.io/crates/wesldoc_resolver_npm) | 0.1.0 | 0 | WESL documentation generator |
+| 2026-10-17 23:18:34 | [kkkqkx-tantivy-columnar](https://crates.io/crates/kkkqkx-tantivy-columnar) | 0.7.0 | 0 | column oriented storage for tantivy |
+| 2026-10-17 23:19:05 | [kkkqkx-tantivy](https://crates.io/crates/kkkqkx-tantivy) | 0.27.0 | 0 | Search engine library |
 
 ## Data source
 
