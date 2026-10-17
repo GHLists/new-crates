@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T19:19:20.906719Z,gpui-agent,0.1.0,0,0,https://github.com/hexuria/gpui-agent,Opt-in in-process agent control plane for GPUI Kit apps (not CDP).
+2026-10-17T19:19:26.478989Z,gpui-agent-policy,0.1.0,0,0,https://github.com/hexuria/gpui-agent,"Deterministic Instinct-backed policy for gpui-agent (no model, no network)."
+2026-10-17T19:19:29.389994Z,gpui-agent-recipe,0.1.0,0,0,https://github.com/hexuria/gpui-agent,"Experimental recipes, TMP-inspired schema mapping, and receipts for gpui-agent."
+2026-10-17T19:19:36.428425Z,gpui-agent-cli,0.1.0,0,0,https://github.com/hexuria/gpui-agent,CLI and tiny MCP stdio shim for the GPUI agent protocol.
+2026-10-17T19:23:27.695271Z,gmark,0.1.0,0,0,,Pure GTK4 markdown renderer with Rust's markdown crate
+2026-10-17T19:27:32.612273Z,bcode_agent_runtime,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Reusable agent turn runtime for bcode
+2026-10-17T19:29:18.832913Z,tiered-dirs,0.2.0,0,0,https://github.com/osdlc/osdlc,"Per-OS directories for a vendor's programs, by tier (vendor, suite, standalone tool) and home (durable, config, cache, state, logs, runtime), with native or XDG paths, override variables and tests ke…"
+2026-10-17T19:34:54.984742Z,karyon_stun,0.1.0,0,0,https://github.com/karyontech/karyon,"Minimal async STUN (RFC 5389) server and client over UDP, TCP, TLS and QUIC (karyon extension), built on karyon_net."
+2026-10-17T19:37:32.508598Z,bcode_agent_permissions,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Shared agent permission orchestration for bcode
+2026-10-17T19:37:54.45144Z,cli-tool-config,0.5.0,0,0,https://github.com/osdlc/osdlc,"Config files for a command-line tool: a committed project file and a per-machine file, named-path tokens, dotted-key lookup, and the check a command runs for the settings it needs."
+2026-10-17T19:39:52.606968Z,pebble-sdk-macros,0.1.0,0,0,https://codeberg.org/pebble-rust/pebble-sdk,Macros to support the pebble-sdk crate
+2026-10-17T19:39:54.327604Z,pebble-sdk,0.1.0,0,0,https://codeberg.org/pebble-rust/pebble-sdk,Rust bindings and safe Rust wrappers for the Pebble Smartwatch SDK
+2026-10-17T19:47:32.384234Z,bcode_build_info,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Build identity and display version semantics for Bcode artifacts
+2026-10-17T19:54:51.272499Z,clickhouse-lexer-sys,0.1.0,0,0,https://github.com/s5dsn-eqee/clickhouse-lexer-sys,"Rust bindings to ClickHouse's SQL lexer, vendored unchanged from ClickHouse/clickhouse-lexer"
+2026-10-17T19:57:33.346566Z,bcode_command,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Command contract types and service interface for bcode
+2026-10-17T20:00:52.033319Z,suitable-pac-bl808-d0,1.0.0,0,0,https://github.com/suitable-name/suitable-pac-bl808,Peripheral Access Crate for Bouffalo Lab BL808 (RISC-V D0 Core)
+2026-10-17T20:00:53.549466Z,suitable-pac-bl808-lp,1.0.0,0,0,https://github.com/suitable-name/suitable-pac-bl808,Peripheral Access Crate for Bouffalo Lab BL808 (RISC-V LP core)
+2026-10-17T20:00:54.957934Z,suitable-pac-bl808-m0,1.0.0,0,0,https://github.com/suitable-name/suitable-pac-bl808,Peripheral Access Crate for Bouffalo Lab BL808 (RISC-V M0 core)
+2026-10-17T20:00:57.342275Z,suitable-pac-bl808,1.0.0,0,0,https://github.com/suitable-name/suitable-pac-bl808,Universal Wrapper PAC for Bouffalo Lab BL808 (M0/D0/LP cores)
+2026-10-17T20:07:32.707157Z,bcode_plugin_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Portable plugin discovery metadata for bcode
+2026-10-17T20:08:36.611642Z,suitable-hal-bl808,1.0.0,0,0,https://github.com/suitable-name/suitable-hal-bl808,Hardware Abstraction Layer for Bouffalo Lab BL808 (M0/D0/LP cores)
+2026-10-17T20:13:01.733724Z,libpzmap,0.1.0,0,0,https://github.com/LtdJorge/pzmap-rs,"Parsers for Project Zomboid's on-disk map formats: lotheader, lotpack, texture packs and map sidecars."
+2026-10-17T20:14:23.803994Z,suitable-bsp-m1s-dock,1.0.0,0,0,https://github.com/suitable-name/suitable-bsp-m1s-dock,Board Support Package for the Sipeed M1s Dock (Bouffalo Lab BL808 SoC)
+2026-10-17T20:17:40.696215Z,bevy-event-orchestrator,0.1.0,0,0,https://github.com/optiummusic/Bevy-Event-Orchestrator,Condition-driven scripted events with cooldowns and seeded randomness for Bevy
+2026-10-17T20:17:54.400588Z,bcode_provider_auth_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Portable provider authentication contracts for bcode
