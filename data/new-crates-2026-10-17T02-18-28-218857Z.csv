@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T01:26:14.851494Z,mylittlechart-app-input-shell,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,Platform-neutral input pipeline shared by vello and web shells
+2026-10-17T01:30:23.577443Z,harness-lock-core,0.1.0,0,0,https://github.com/unionai-oss/harness-lock,"Core library for harness-lock: manifest, lockfile, store, tuning."
+2026-10-17T01:30:25.303407Z,harness-lock,0.1.0,0,0,https://github.com/unionai-oss/harness-lock,Lock your agent into place: tune your agent stack and pin it to harness.lock.
+2026-10-17T01:30:25.653147Z,hlock,0.1.0,0,0,https://github.com/unionai-oss/harness-lock,Short name for harness-lock: lock your agent into place.
+2026-10-17T01:33:47.901659Z,quat_json,0.3.1,0,0,https://github.com/strahinjastojanovic826-code/quat_json,A high-performance quaternary JSON processing and compression library with universal FFI support
+2026-10-17T01:35:11.962022Z,majik-key-client,0.2.0,0,0,,"Account and session client for majik-key: key manager, client state, own-account registry, SQLite/in-memory repositories."
+2026-10-17T01:36:17.179176Z,mylittlechart-app-agent-api,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,Render-agnostic Agent API plumbing — snapshot builders + command dispatch over ChartApp
+2026-10-17T01:36:24.145384Z,rhema-acp,0.1.0,0,0,https://git.vhaudiquet.fr/vhaudiquet/rhema.git,The Agent Client Protocol adapter: rhema's coding agent as an ACP agent subprocess
+2026-10-17T01:37:00.273839Z,magi-tokenizer,0.0.1,0,0,https://github.com/magimetal/magi-tokenizer,"Exact, fast o200k_base BPE tokenizer with build-time tables and a hand-written pretokenizer"
+2026-10-17T01:46:35.155492Z,mylittlechart-app-shell-headless,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,"Render-agnostic mylittlechart backend daemon. Owns ChartApp + AgentState + HTTP server, ticks at 60Hz, has no GPU."
+2026-10-17T01:52:00.279351Z,ntoseye-macros,0.50.0,0,0,https://github.com/dmaivel/ntoseye,Procedural macros for the ntoseye kernel debugger
+2026-10-17T01:54:01.877672Z,gantz_edit,0.0.1,0,0,https://github.com/nannou-org/gantz,"The GUI-independent editing model of gantz, an environment for creative systems."
+2026-10-17T01:54:57.278858Z,ruk,0.0.0,0,0,https://gitlab.com/metaphorics/git-renewed,Initial sample library for the Ruk agent-native version control project
+2026-10-17T01:55:10.615208Z,ruk-core,0.0.0,0,0,https://gitlab.com/metaphorics/git-renewed,Initial sample library for the Ruk core module
+2026-10-17T01:55:22.300026Z,ruk-git,0.0.0,0,0,https://gitlab.com/metaphorics/git-renewed,Initial sample library for the Ruk Git interoperability module
+2026-10-17T01:56:12.427217Z,mylittlechart-app-shell-cli,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,Dual-mode CLI for the mlc backend. Default: HTTP client against a running mlc-backend-shell-daemon. Mirrors every Mode-2 control plane endpoint as a flat sub-command.
+2026-10-17T01:57:08.985714Z,turbojet-fix,0.4.0,0,0,https://github.com/jrogers/turbojet,"FIX 4.0 to 5.0 SP2 application messages for Turbojet, generated from the official FIX data"
+2026-10-17T02:02:41.202373Z,encoding-guess,0.1.0,0,0,https://github.com/kkkqkx123/encoding-guess,Character encoding detection for source code and text files
+2026-10-17T02:04:58.608905Z,mlx-voice,0.1.1,0,0,https://github.com/animaslabs/mlx-voice-rs,"NeMo-compatible ASR and speech AI library for Apple Silicon, built on MLX"
+2026-10-17T02:05:04.809689Z,win-multi-file-tail-watcher,0.1.1,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"Reports length changes across a large population of files on a beat the caller owns, reading each length through a handle held open, rather than running a timer per file."
+2026-10-17T02:06:17.603166Z,mylittlechart-app-shell-web,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,Browser shell for the chart application. The body compiles on wasm32.
+2026-10-17T02:07:20.738884Z,mise-oci,0.0.0,0,0,https://github.com/jdx/mise,"OCI registry client, layers, and image layout for mise (placeholder)"
+2026-10-17T02:16:09.861027Z,tg-login-bot,0.1.0,0,0,https://github.com/ZENG3LD/mylittlechart-server,Telegram login bot for the web login flow. Long-polls the Bot API.

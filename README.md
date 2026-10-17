@@ -8,33 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 01:18 UTC
+## Latest list — 2026-10-17 02:18 UTC
 
-New crates published between 2026-10-17 00:19 UTC and 2026-10-17 01:18 UTC.
+New crates published between 2026-10-17 01:18 UTC and 2026-10-17 02:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-17T01-18-54-070919Z.csv)
+[Full CSV](data/new-crates-2026-10-17T02-18-28-218857Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-17 00:26:18 | [mylittlechart-backend](https://crates.io/crates/mylittlechart-backend) | 0.5.656 | 0 | Shared data plane (bridge + bubble + indicators + trading + presets) for every… |
-| 2026-10-17 00:29:52 | [ferroui-themes-winui](https://crates.io/crates/ferroui-themes-winui) | 0.1.0-preview.4 | 0 | The FerroUI WinUI theme: the control styles, templates and theme resources of W… |
-| 2026-10-17 00:36:14 | [mylittlechart-app-sidebar-content](https://crates.io/crates/mylittlechart-app-sidebar-content) | 0.1.0 | 0 | Right-sidebar content rendering for the chart application. |
-| 2026-10-17 00:43:47 | [petr-protection](https://crates.io/crates/petr-protection) | 0.2.0 | 0 | Portable protection requirements and capability negotiation for PETR execution… |
-| 2026-10-17 00:43:49 | [petr-affinity](https://crates.io/crates/petr-affinity) | 0.2.0 | 0 | CPU-set selection and optional operating-system thread affinity for PETR execut… |
-| 2026-10-17 00:45:05 | [whytime-abi](https://crates.io/crates/whytime-abi) | 0.1.1 | 0 | Kernel/user ABI of whytime: ring buffer records, the per-task map value and sha… |
-| 2026-10-17 00:45:06 | [whytime-bpf](https://crates.io/crates/whytime-bpf) | 0.1.1 | 0 | whytime's BPF object (C CO-RE, compiled by clang in build.rs) and its ABI hash |
-| 2026-10-17 00:45:09 | [whytime](https://crates.io/crates/whytime) | 0.1.1 | 0 | Explains where a command's wall-clock time went: off-CPU and on-CPU attribution… |
-| 2026-10-17 00:46:15 | [mylittlechart-app-panels](https://crates.io/crates/mylittlechart-app-panels) | 0.5.656 | 0 | Trading panel state and renderers hosted in chart sidebar slots. |
-| 2026-10-17 00:50:08 | [petr-temporal](https://crates.io/crates/petr-temporal) | 0.2.0 | 0 | Temporal eligibility, phase clocks, cyclic execution and provenance-preserving… |
-| 2026-10-17 00:50:12 | [petr-hw](https://crates.io/crates/petr-hw) | 0.2.0 | 0 | Experimental AArch64 pointer-authentication and memory-tagging adapters for PET… |
-| 2026-10-17 00:51:34 | [rok-sqlc](https://crates.io/crates/rok-sqlc) | 0.1.0 | 0 | Generate SQLx Rust database modules from SQL schema files |
-| 2026-10-17 00:56:16 | [mylittlechart-backend-shell-http](https://crates.io/crates/mylittlechart-backend-shell-http) | 0.5.656 | 0 | Localhost Agent API for bar data, indicator snapshots, layout, and viewport com… |
-| 2026-10-17 00:58:03 | [p-rs](https://crates.io/crates/p-rs) | 0.0.1 | 0 | Placeholder for the P modeling language toolchain in Rust |
-| 2026-10-17 00:59:29 | [mise-system](https://crates.io/crates/mise-system) | 0.0.0 | 0 | The bootstrap, dotfiles, and history modules of mise (placeholder) |
-| 2026-10-17 01:03:57 | [affidavit-core](https://crates.io/crates/affidavit-core) | 26.10.16 | 0 | Zero-dependency, no_std, forbid(unsafe) reference verifier for affidavit receip… |
-| 2026-10-17 01:06:23 | [mylittlechart-backend-shell-daemon](https://crates.io/crates/mylittlechart-backend-shell-daemon) | 0.5.656 | 0 | Mode-2 backend daemon — Arc<BackendCore> + HTTP server, no embedded ChartApp. N… |
-| 2026-10-17 01:14:40 | [scm-sdk](https://crates.io/crates/scm-sdk) | 0.1.0 | 0 | Native async Strata Cloud Manager SDK, beginning with Prisma AIRS |
-| 2026-10-17 01:16:39 | [mylittlechart-app](https://crates.io/crates/mylittlechart-app) | 0.1.0 | 0 | Chart application: one ChartApp, input routing, and the canvas handler. |
+| 2026-10-17 01:26:14 | [mylittlechart-app-input-shell](https://crates.io/crates/mylittlechart-app-input-shell) | 0.5.656 | 0 | Platform-neutral input pipeline shared by vello and web shells |
+| 2026-10-17 01:30:23 | [harness-lock-core](https://crates.io/crates/harness-lock-core) | 0.1.0 | 0 | Core library for harness-lock: manifest, lockfile, store, tuning. |
+| 2026-10-17 01:30:25 | [harness-lock](https://crates.io/crates/harness-lock) | 0.1.0 | 0 | Lock your agent into place: tune your agent stack and pin it to harness.lock. |
+| 2026-10-17 01:30:25 | [hlock](https://crates.io/crates/hlock) | 0.1.0 | 0 | Short name for harness-lock: lock your agent into place. |
+| 2026-10-17 01:33:47 | [quat_json](https://crates.io/crates/quat_json) | 0.3.1 | 0 | A high-performance quaternary JSON processing and compression library with univ… |
+| 2026-10-17 01:35:11 | [majik-key-client](https://crates.io/crates/majik-key-client) | 0.2.0 | 0 | Account and session client for majik-key: key manager, client state, own-accoun… |
+| 2026-10-17 01:36:17 | [mylittlechart-app-agent-api](https://crates.io/crates/mylittlechart-app-agent-api) | 0.5.656 | 0 | Render-agnostic Agent API plumbing — snapshot builders + command dispatch over… |
+| 2026-10-17 01:36:24 | [rhema-acp](https://crates.io/crates/rhema-acp) | 0.1.0 | 0 | The Agent Client Protocol adapter: rhema's coding agent as an ACP agent subproc… |
+| 2026-10-17 01:37:00 | [magi-tokenizer](https://crates.io/crates/magi-tokenizer) | 0.0.1 | 0 | Exact, fast o200k_base BPE tokenizer with build-time tables and a hand-written… |
+| 2026-10-17 01:46:35 | [mylittlechart-app-shell-headless](https://crates.io/crates/mylittlechart-app-shell-headless) | 0.5.656 | 0 | Render-agnostic mylittlechart backend daemon. Owns ChartApp + AgentState + HTTP… |
+| 2026-10-17 01:52:00 | [ntoseye-macros](https://crates.io/crates/ntoseye-macros) | 0.50.0 | 0 | Procedural macros for the ntoseye kernel debugger |
+| 2026-10-17 01:54:01 | [gantz_edit](https://crates.io/crates/gantz_edit) | 0.0.1 | 0 | The GUI-independent editing model of gantz, an environment for creative systems. |
+| 2026-10-17 01:54:57 | [ruk](https://crates.io/crates/ruk) | 0.0.0 | 0 | Initial sample library for the Ruk agent-native version control project |
+| 2026-10-17 01:55:10 | [ruk-core](https://crates.io/crates/ruk-core) | 0.0.0 | 0 | Initial sample library for the Ruk core module |
+| 2026-10-17 01:55:22 | [ruk-git](https://crates.io/crates/ruk-git) | 0.0.0 | 0 | Initial sample library for the Ruk Git interoperability module |
+| 2026-10-17 01:56:12 | [mylittlechart-app-shell-cli](https://crates.io/crates/mylittlechart-app-shell-cli) | 0.5.656 | 0 | Dual-mode CLI for the mlc backend. Default: HTTP client against a running mlc-b… |
+| 2026-10-17 01:57:08 | [turbojet-fix](https://crates.io/crates/turbojet-fix) | 0.4.0 | 0 | FIX 4.0 to 5.0 SP2 application messages for Turbojet, generated from the offici… |
+| 2026-10-17 02:02:41 | [encoding-guess](https://crates.io/crates/encoding-guess) | 0.1.0 | 0 | Character encoding detection for source code and text files |
+| 2026-10-17 02:04:58 | [mlx-voice](https://crates.io/crates/mlx-voice) | 0.1.1 | 0 | NeMo-compatible ASR and speech AI library for Apple Silicon, built on MLX |
+| 2026-10-17 02:05:04 | [win-multi-file-tail-watcher](https://crates.io/crates/win-multi-file-tail-watcher) | 0.1.1 | 0 | Reports length changes across a large population of files on a beat the caller… |
+| 2026-10-17 02:06:17 | [mylittlechart-app-shell-web](https://crates.io/crates/mylittlechart-app-shell-web) | 0.5.656 | 0 | Browser shell for the chart application. The body compiles on wasm32. |
+| 2026-10-17 02:07:20 | [mise-oci](https://crates.io/crates/mise-oci) | 0.0.0 | 0 | OCI registry client, layers, and image layout for mise (placeholder) |
+| 2026-10-17 02:16:09 | [tg-login-bot](https://crates.io/crates/tg-login-bot) | 0.1.0 | 0 | Telegram login bot for the web login flow. Long-polls the Bot API. |
 
 ## Data source
 
