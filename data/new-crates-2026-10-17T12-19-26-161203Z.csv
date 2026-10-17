@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T11:19:23.314841Z,agent-memex,0.1.1,0,0,https://github.com/aswemaythink/memex,A CLI that indexes a repo's authored intent layer so agents read intent before code.
+2026-10-17T11:20:24.361907Z,furnace-rs-socket-macros,2.0.0,0,0,https://github.com/Adriannathan89/furnace-rs,WebSocket registration attributes for Furnace
+2026-10-17T11:21:45.266881Z,furnace-rs-socket,2.0.0,0,0,https://github.com/Adriannathan89/furnace-rs,Managed WebSocket server transport for Furnace
+2026-10-17T11:23:12.907424Z,locks-core,0.1.0,0,0,https://github.com/pubky/locks,Protocol and domain types for Pubky Locks
+2026-10-17T11:26:12.777158Z,chid,0.1.8,0,0,,A parser and type for CHID's for FDS (Fire Dynamics Simulator)
+2026-10-17T11:26:24.865201Z,adapay-sdk,0.1.0,0,0,https://github.com/banchen21/adapay-sdk,Rust client for the AdaPay OpenAPI (aligned with the official Java 1.2.10 / Node 1.3.1 SDKs)
+2026-10-17T11:26:29.139834Z,asign-sdk,0.1.0,0,0,https://github.com/banchen21/asign-sdk,爱签电子合同 OpenAPI 的 Rust 客户端 SDK
+2026-10-17T11:30:56.601636Z,ccorbit,0.1.0,0,0,https://github.com/pcangemi/ccorbit,"A live, read-only terminal view of every Claude Code session on this machine: wall, 3D HUD, code city"
+2026-10-17T11:33:06.590722Z,tesmart-tcp,0.1.0,0,0,https://github.com/ferrohd/tesmart,"TCP transport for TESmart KVM switches (the LAN port, 192.168.1.10:5000 by default)"
+2026-10-17T11:33:17.589866Z,tesmart,0.1.0,0,0,https://github.com/ferrohd/tesmart,Control TESmart KVM switches and HDMI matrices over TCP or RS232
+2026-10-17T11:33:28.454354Z,tesmart-cli,0.1.0,0,0,https://github.com/ferrohd/tesmart,"Command line tool for TESmart KVM switches and HDMI matrices, over TCP or RS232"
+2026-10-17T11:34:49.390925Z,polybase-client,0.8.3,0,0,https://github.com/ihabshea/polybase-downloads,Bounded synchronous loopback HTTP client for the local Polybase database
+2026-10-17T11:37:39.801199Z,catzprint,2.1.3,0,0,https://github.com/Catalizo/catzprint-rust,Official Rust SDK for the CatzPrint cloud printing API
+2026-10-17T11:38:31.565981Z,madi-core,0.1.1,0,0,https://github.com/p14jeffwest/madi-release,"madi(마디): pure Rust Korean morphological analyzer — dictionary, lattice, Viterbi search (core)"
+2026-10-17T11:38:32.805395Z,madi-news,0.1.1,0,0,https://github.com/p14jeffwest/madi-release,"madi(마디): newspaper archive zip reader (entry names, dates, article text)"
+2026-10-17T11:38:34.784116Z,madi-build,0.1.1,0,0,https://github.com/p14jeffwest/madi-release,madi(마디): dictionary builder (mecab-ko-dic CSV + word lists -> madi.dict)
+2026-10-17T11:38:35.975213Z,madi-lm,0.1.1,0,0,https://github.com/p14jeffwest/madi-release,"madi(마디) language models: Kneser-Ney n-gram, neural LM, precise-mode teacher"
+2026-10-17T11:38:38.300634Z,madi,0.1.1,0,0,https://github.com/p14jeffwest/madi-release,"madi(마디): pure Rust Korean morphological analyzer — library entry point (Engine, sentence splitting)"
+2026-10-17T11:41:48.137652Z,madi-cli,0.1.1,0,0,https://github.com/p14jeffwest/madi-release,"madi(마디): Korean morphological analyzer — command-line tool (analyze, eval, bench, dict/LM build)"
+2026-10-17T11:44:32.010343Z,hothash,0.1.0,0,0,https://github.com/Bobface/hothash,"A fast, non-cryptographic hash function for the hot path on modern x86-64 CPUs."
+2026-10-17T11:49:44.193941Z,graphcal-model-server,0.0.0,0,0,https://github.com/graphcal-lang/graphcal,Placeholder for the Graphcal model server crate; reserved for upcoming releases.
+2026-10-17T11:50:30.216741Z,linkrs-config,0.1.0,0,0,https://github.com/kkkqkx123/linkrs,Configuration management for Linkrs
+2026-10-17T11:50:40.329954Z,linkrs-wire,0.1.0,0,0,https://github.com/kkkqkx123/linkrs,Wire contract DTOs shared between linkrs-api and linkrs-cli
+2026-10-17T11:50:56.10399Z,rpi-ui-adapter,0.1.1,0,0,https://github.com/pi-rust/rpi-package,"UI adapters for rpi ACP agents, starting with Open WebUI"
+2026-10-17T11:58:28.72923Z,lite-orm-studio,0.1.2,0,0,https://github.com/unixipher/lite-orm,A lightweight desktop database studio for LiteORM
+2026-10-17T12:00:46.721446Z,baztet-protos,0.1.0,0,0,,Vendored Bazel and JetBrains intellij-aspect protobufs for the baztet CLI
+2026-10-17T12:00:54.001519Z,baztet-projectview,0.1.0,0,0,,.bazelproject project view parser (hirschgarten format) used by the baztet CLI
+2026-10-17T12:01:02.020166Z,baztet-bep,0.1.0,0,0,https://github.com/Red-CF/baztet,Bazel Build Event Protocol reader for the baztet CLI
+2026-10-17T12:01:05.887691Z,baztet-snapshot,0.1.0,0,0,https://github.com/Red-CF/baztet,Target graph snapshot model and persistence for the baztet CLI
+2026-10-17T12:01:18.051071Z,baztet-core,0.1.0,0,0,https://github.com/Red-CF/baztet,Sync/execution engine for the baztet Bazel CLI
+2026-10-17T12:03:52.390274Z,whenabouts,0.1.0,0,0,https://github.com/evgiz/whenabouts,Fast natural-language date period extraction for search queries
+2026-10-17T12:04:05.684771Z,baztet,0.1.0,0,0,https://github.com/Red-CF/baztet,Standalone Bazel project sync and execution CLI (Rust port of the hirschgarten engine)
+2026-10-17T12:08:32.539261Z,hyperoute-codegen,0.0.1,0,0,https://github.com/DAIRO-HY/hyperoute,"Build-time route scanner and code generator for hyperoute, used from build.rs."
+2026-10-17T12:08:33.392089Z,hyperoute-core,0.0.1,0,0,https://github.com/DAIRO-HY/hyperoute,"Runtime for hyperoute: request extraction, parameter errors, filters, WebSocket and server helpers."
+2026-10-17T12:08:34.408422Z,hyperoute-macro,0.0.1,0,0,https://github.com/DAIRO-HY/hyperoute,"Route / filter / WebSocket attribute macros (#[GET], #[FILTER], #[WEBSOCKET], ...) for hyperoute."
+2026-10-17T12:14:07.309575Z,cargo-collate,0.1.0,0,0,https://github.com/loxoron218/cargo-collate,Project-specific hygiene checks for strict Rust projects.
+2026-10-17T12:16:33.721074Z,map_iced,0.1.0,0,0,https://github.com/Carbonfreezer/map_iced,"A map widget for iced with tile caching and interactive way points, regions and paths."
+2026-10-17T12:18:26.692768Z,quantumforge,0.1.0,0,0,https://github.com/Junshenhuang-571/QuantumForge,"A small, backend-neutral quantum simulation kernel: CPU, CUDA, and LLVM backends with gate-model circuits, VQE/QML, MBQC, adiabatic QC, and unitary Turing machines."

@@ -8,53 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 11:18 UTC
+## Latest list — 2026-10-17 12:19 UTC
 
-New crates published between 2026-10-17 10:18 UTC and 2026-10-17 11:18 UTC.
+New crates published between 2026-10-17 11:18 UTC and 2026-10-17 12:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-17T11-18-28-145903Z.csv)
+[Full CSV](data/new-crates-2026-10-17T12-19-26-161203Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-17 10:19:06 | [carro_kv](https://crates.io/crates/carro_kv) | 0.1.0 | 0 | Lightweight pure-native cross-language embedded Key-Value store (small config/s… |
-| 2026-10-17 10:22:57 | [cargo-mantra](https://crates.io/crates/cargo-mantra) | 0.1.0 | 0 | Cargo runner for mantra |
-| 2026-10-17 10:23:11 | [mantra-detect](https://crates.io/crates/mantra-detect) | 0.1.0 | 0 | Detect mantra artifacts in content |
-| 2026-10-17 10:23:13 | [blazing-agents](https://crates.io/crates/blazing-agents) | 0.1.0 | 0 | Official Rust SDK for the Blazing Agents API |
-| 2026-10-17 10:30:08 | [carte-api](https://crates.io/crates/carte-api) | 0.1.0 | 0 | Types for carte's daemon socket and --json output; internal, no stability promi… |
-| 2026-10-17 10:30:19 | [carte-core](https://crates.io/crates/carte-core) | 0.1.0 | 0 | Configuration, naming and policies for carte; internal, no stability promises |
-| 2026-10-17 10:31:11 | [carte](https://crates.io/crates/carte) | 0.1.0 | 0 | Runs your apps' processes on demand behind *.test hostnames, one stack per git… |
-| 2026-10-17 10:31:46 | [graphcal-model-protocol](https://crates.io/crates/graphcal-model-protocol) | 0.0.0 | 0 | Placeholder for the Graphcal model protocol crate; reserved for upcoming releas… |
-| 2026-10-17 10:31:48 | [graphcal-model-client](https://crates.io/crates/graphcal-model-client) | 0.0.0 | 0 | Placeholder for the Graphcal model client crate; reserved for upcoming releases. |
-| 2026-10-17 10:33:18 | [onelf-sysroot](https://crates.io/crates/onelf-sysroot) | 0.4.1 | 0 | Pinned sysroots and package-database closures for onelf |
-| 2026-10-17 10:36:35 | [kogut](https://crates.io/crates/kogut) | 0.0.1 | 0 | Server, container and uptime monitoring in one small binary, with one alert tha… |
-| 2026-10-17 10:41:21 | [harn-source-fingerprint](https://crates.io/crates/harn-source-fingerprint) | 0.10.168 | 0 | Source contributions and compiled fingerprint composition for Harn crates |
-| 2026-10-17 10:41:23 | [harn-source-fingerprint-build](https://crates.io/crates/harn-source-fingerprint-build) | 0.10.168 | 0 | Crate-local source collection for Harn compiler and check fingerprints |
-| 2026-10-17 10:41:39 | [harn-execution-policy](https://crates.io/crates/harn-execution-policy) | 0.10.168 | 0 | Execution capability ceilings, sandbox policy, and tool semantics without a run… |
-| 2026-10-17 10:41:47 | [mr-review](https://crates.io/crates/mr-review) | 0.2.1 | 0 | Review GitLab merge requests, GitHub pull requests, diffs and codebases with an… |
-| 2026-10-17 10:42:22 | [harn-vm-core](https://crates.io/crates/harn-vm-core) | 0.10.168 | 0 | Bytecode interpreter and compiler contracts for Harn execution backends |
-| 2026-10-17 10:42:24 | [harn-llm](https://crates.io/crates/harn-llm) | 0.10.168 | 0 | Provider-neutral message and wire contracts for Harn LLM execution |
-| 2026-10-17 10:44:48 | [pprs](https://crates.io/crates/pprs) | 0.1.0 | 0 | A byte-preserving PHP parser library for Rust |
-| 2026-10-17 10:54:47 | [derive-into-2-error](https://crates.io/crates/derive-into-2-error) | 0.3.0 | 0 | Error types for derive-into conversions |
-| 2026-10-17 10:54:47 | [derive-into-2-macros](https://crates.io/crates/derive-into-2-macros) | 0.3.0 | 0 | Proc-macro implementation for derive-into |
-| 2026-10-17 10:54:49 | [derive-into-2](https://crates.io/crates/derive-into-2) | 0.3.1 | 0 | A Rust derive macro for easily creating conversions between structs and enums |
-| 2026-10-17 10:58:14 | [robcli](https://crates.io/crates/robcli) | 0.6.0 | 0 | Roblox Dashboard and public games, profiles, communities and catalogs with boun… |
-| 2026-10-17 10:58:38 | [ripsem](https://crates.io/crates/ripsem) | 0.1.1 | 0 | Local, offline semantic code search with an MCP server for coding agents |
-| 2026-10-17 11:01:13 | [terminal_graphics_interactive](https://crates.io/crates/terminal_graphics_interactive) | 0.1.0 | 0 | Keyboard and mouse input for terminal_graphics: build interactive terminal game… |
-| 2026-10-17 11:03:46 | [tesmart-proto](https://crates.io/crates/tesmart-proto) | 0.1.0 | 0 | Sans-IO TESmart KVM and HDMI matrix control protocols: the controller side |
-| 2026-10-17 11:03:58 | [tesmart-client](https://crates.io/crates/tesmart-client) | 0.1.0 | 0 | Async driver and operations for TESmart KVM switches and HDMI matrices, over an… |
-| 2026-10-17 11:04:08 | [tesmart-serial](https://crates.io/crates/tesmart-serial) | 0.1.0 | 0 | RS232 transport for TESmart KVM switches (9600 8N1 on a 3-pin Phoenix connector) |
-| 2026-10-17 11:04:12 | [tesmart-device](https://crates.io/crates/tesmart-device) | 0.1.0 | 0 | The switch side of the TESmart protocol: a sans-IO state machine that answers l… |
-| 2026-10-17 11:04:20 | [tesmart-sim](https://crates.io/crates/tesmart-sim) | 0.1.0 | 0 | Serves a tesmart-device over TCP or an in-process pipe, as a Connector for tests |
-| 2026-10-17 11:06:07 | [simvec](https://crates.io/crates/simvec) | 0.1.0 | 0 | Local vector search engine: exact scan, mmap storage, WAL |
-| 2026-10-17 11:08:59 | [harn-orchestration](https://crates.io/crates/harn-orchestration) | 0.10.168 | 0 | Session message delivery and workflow contracts for Harn orchestration |
-| 2026-10-17 11:13:53 | [a4aa-dsh](https://crates.io/crates/a4aa-dsh) | 0.2.0 | 0 | a4aa dialect adapter: the `dsh` mechanism descriptor (hooks, rules, skills, com… |
-| 2026-10-17 11:14:22 | [a4aa-hermes](https://crates.io/crates/a4aa-hermes) | 0.2.0 | 0 | a4aa dialect adapter: the `hermes` mechanism descriptor (hooks, rules, skills,… |
-| 2026-10-17 11:14:32 | [a4aa-kilo-code](https://crates.io/crates/a4aa-kilo-code) | 0.2.0 | 0 | a4aa dialect adapter: the `kilocode` mechanism descriptor (hooks, rules, skills… |
-| 2026-10-17 11:15:34 | [a4aa-dialects](https://crates.io/crates/a4aa-dialects) | 0.2.0 | 0 | Convenience registry over the a4aa-<agent> dialect crates: name lookup and full… |
-| 2026-10-17 11:15:57 | [agents-with-profiles](https://crates.io/crates/agents-with-profiles) | 0.1.0 | 0 | Agents with Profiles (AwP) — a behavior-profile layer on top of a4aa: a base ag… |
-| 2026-10-17 11:15:58 | [vector-client](https://crates.io/crates/vector-client) | 0.1.0 | 0 | A vector database client crate with support for multiple backends |
-| 2026-10-17 11:16:18 | [tourer](https://crates.io/crates/tourer) | 0.1.0 | 0 | Guided, AI-planned tours of unfamiliar folders and codebases, in the terminal a… |
-| 2026-10-17 11:17:31 | [summer-resilience](https://crates.io/crates/summer-resilience) | 0.7.1 | 0 | Resilience policies for summer-rs applications |
+| 2026-10-17 11:19:23 | [agent-memex](https://crates.io/crates/agent-memex) | 0.1.1 | 0 | A CLI that indexes a repo's authored intent layer so agents read intent before… |
+| 2026-10-17 11:20:24 | [furnace-rs-socket-macros](https://crates.io/crates/furnace-rs-socket-macros) | 2.0.0 | 0 | WebSocket registration attributes for Furnace |
+| 2026-10-17 11:21:45 | [furnace-rs-socket](https://crates.io/crates/furnace-rs-socket) | 2.0.0 | 0 | Managed WebSocket server transport for Furnace |
+| 2026-10-17 11:23:12 | [locks-core](https://crates.io/crates/locks-core) | 0.1.0 | 0 | Protocol and domain types for Pubky Locks |
+| 2026-10-17 11:26:12 | [chid](https://crates.io/crates/chid) | 0.1.8 | 0 | A parser and type for CHID's for FDS (Fire Dynamics Simulator) |
+| 2026-10-17 11:26:24 | [adapay-sdk](https://crates.io/crates/adapay-sdk) | 0.1.0 | 0 | Rust client for the AdaPay OpenAPI (aligned with the official Java 1.2.10 / Nod… |
+| 2026-10-17 11:26:29 | [asign-sdk](https://crates.io/crates/asign-sdk) | 0.1.0 | 0 | 爱签电子合同 OpenAPI 的 Rust 客户端 SDK |
+| 2026-10-17 11:30:56 | [ccorbit](https://crates.io/crates/ccorbit) | 0.1.0 | 0 | A live, read-only terminal view of every Claude Code session on this machine: w… |
+| 2026-10-17 11:33:06 | [tesmart-tcp](https://crates.io/crates/tesmart-tcp) | 0.1.0 | 0 | TCP transport for TESmart KVM switches (the LAN port, 192.168.1.10:5000 by defa… |
+| 2026-10-17 11:33:17 | [tesmart](https://crates.io/crates/tesmart) | 0.1.0 | 0 | Control TESmart KVM switches and HDMI matrices over TCP or RS232 |
+| 2026-10-17 11:33:28 | [tesmart-cli](https://crates.io/crates/tesmart-cli) | 0.1.0 | 0 | Command line tool for TESmart KVM switches and HDMI matrices, over TCP or RS232 |
+| 2026-10-17 11:34:49 | [polybase-client](https://crates.io/crates/polybase-client) | 0.8.3 | 0 | Bounded synchronous loopback HTTP client for the local Polybase database |
+| 2026-10-17 11:37:39 | [catzprint](https://crates.io/crates/catzprint) | 2.1.3 | 0 | Official Rust SDK for the CatzPrint cloud printing API |
+| 2026-10-17 11:38:31 | [madi-core](https://crates.io/crates/madi-core) | 0.1.1 | 0 | madi(마디): pure Rust Korean morphological analyzer — dictionary, lattice, Viterb… |
+| 2026-10-17 11:38:32 | [madi-news](https://crates.io/crates/madi-news) | 0.1.1 | 0 | madi(마디): newspaper archive zip reader (entry names, dates, article text) |
+| 2026-10-17 11:38:34 | [madi-build](https://crates.io/crates/madi-build) | 0.1.1 | 0 | madi(마디): dictionary builder (mecab-ko-dic CSV + word lists -> madi.dict) |
+| 2026-10-17 11:38:35 | [madi-lm](https://crates.io/crates/madi-lm) | 0.1.1 | 0 | madi(마디) language models: Kneser-Ney n-gram, neural LM, precise-mode teacher |
+| 2026-10-17 11:38:38 | [madi](https://crates.io/crates/madi) | 0.1.1 | 0 | madi(마디): pure Rust Korean morphological analyzer — library entry point (Engine… |
+| 2026-10-17 11:41:48 | [madi-cli](https://crates.io/crates/madi-cli) | 0.1.1 | 0 | madi(마디): Korean morphological analyzer — command-line tool (analyze, eval, ben… |
+| 2026-10-17 11:44:32 | [hothash](https://crates.io/crates/hothash) | 0.1.0 | 0 | A fast, non-cryptographic hash function for the hot path on modern x86-64 CPUs. |
+| 2026-10-17 11:49:44 | [graphcal-model-server](https://crates.io/crates/graphcal-model-server) | 0.0.0 | 0 | Placeholder for the Graphcal model server crate; reserved for upcoming releases. |
+| 2026-10-17 11:50:30 | [linkrs-config](https://crates.io/crates/linkrs-config) | 0.1.0 | 0 | Configuration management for Linkrs |
+| 2026-10-17 11:50:40 | [linkrs-wire](https://crates.io/crates/linkrs-wire) | 0.1.0 | 0 | Wire contract DTOs shared between linkrs-api and linkrs-cli |
+| 2026-10-17 11:50:56 | [rpi-ui-adapter](https://crates.io/crates/rpi-ui-adapter) | 0.1.1 | 0 | UI adapters for rpi ACP agents, starting with Open WebUI |
+| 2026-10-17 11:58:28 | [lite-orm-studio](https://crates.io/crates/lite-orm-studio) | 0.1.2 | 0 | A lightweight desktop database studio for LiteORM |
+| 2026-10-17 12:00:46 | [baztet-protos](https://crates.io/crates/baztet-protos) | 0.1.0 | 0 | Vendored Bazel and JetBrains intellij-aspect protobufs for the baztet CLI |
+| 2026-10-17 12:00:54 | [baztet-projectview](https://crates.io/crates/baztet-projectview) | 0.1.0 | 0 | .bazelproject project view parser (hirschgarten format) used by the baztet CLI |
+| 2026-10-17 12:01:02 | [baztet-bep](https://crates.io/crates/baztet-bep) | 0.1.0 | 0 | Bazel Build Event Protocol reader for the baztet CLI |
+| 2026-10-17 12:01:05 | [baztet-snapshot](https://crates.io/crates/baztet-snapshot) | 0.1.0 | 0 | Target graph snapshot model and persistence for the baztet CLI |
+| 2026-10-17 12:01:18 | [baztet-core](https://crates.io/crates/baztet-core) | 0.1.0 | 0 | Sync/execution engine for the baztet Bazel CLI |
+| 2026-10-17 12:03:52 | [whenabouts](https://crates.io/crates/whenabouts) | 0.1.0 | 0 | Fast natural-language date period extraction for search queries |
+| 2026-10-17 12:04:05 | [baztet](https://crates.io/crates/baztet) | 0.1.0 | 0 | Standalone Bazel project sync and execution CLI (Rust port of the hirschgarten… |
+| 2026-10-17 12:08:32 | [hyperoute-codegen](https://crates.io/crates/hyperoute-codegen) | 0.0.1 | 0 | Build-time route scanner and code generator for hyperoute, used from build.rs. |
+| 2026-10-17 12:08:33 | [hyperoute-core](https://crates.io/crates/hyperoute-core) | 0.0.1 | 0 | Runtime for hyperoute: request extraction, parameter errors, filters, WebSocket… |
+| 2026-10-17 12:08:34 | [hyperoute-macro](https://crates.io/crates/hyperoute-macro) | 0.0.1 | 0 | Route / filter / WebSocket attribute macros (#[GET], #[FILTER], #[WEBSOCKET], .… |
+| 2026-10-17 12:14:07 | [cargo-collate](https://crates.io/crates/cargo-collate) | 0.1.0 | 0 | Project-specific hygiene checks for strict Rust projects. |
+| 2026-10-17 12:16:33 | [map_iced](https://crates.io/crates/map_iced) | 0.1.0 | 0 | A map widget for iced with tile caching and interactive way points, regions and… |
+| 2026-10-17 12:18:26 | [quantumforge](https://crates.io/crates/quantumforge) | 0.1.0 | 0 | A small, backend-neutral quantum simulation kernel: CPU, CUDA, and LLVM backend… |
 
 ## Data source
 
