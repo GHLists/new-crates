@@ -1,0 +1,63 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T15:23:01.760895Z,ironbeam-coder-postcard,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Opt-in Postcard element coder for Ironbeam 5
+2026-10-17T15:25:45.330433Z,clipmelody,0.1.0,0,0,https://github.com/jacky-xbb/clipmelody-rs,"Parse TikTok, Instagram Reel and YouTube Shorts links into a platform, video ID and clean canonical URL."
+2026-10-17T15:26:12.582183Z,usfm_html,0.1.0,0,0,https://github.com/mimbrown/usfm,HTML output for a parsed USFM document
+2026-10-17T15:28:03.416253Z,triplex-core,0.43.1,0,0,https://github.com/triplexanalytics/triplex,Shared error type for the Triplex local-first data privacy tools.
+2026-10-17T15:28:05.12448Z,triplex-datasetcard,0.43.1,0,0,https://github.com/triplexanalytics/triplex,"Privacy-risk scoring for tabular datasets: k-anonymity, l-diversity, t-closeness and row-level risk, computed locally."
+2026-10-17T15:28:05.400817Z,triplex-io,0.43.1,0,0,https://github.com/triplexanalytics/triplex,"Local file I/O for Triplex: CSV, TSV, JSON Lines and Parquet, read from a path or from bytes in memory, never over a network."
+2026-10-17T15:28:06.394166Z,triplex-schemacast,0.43.1,0,0,https://github.com/triplexanalytics/triplex,"Schema inference, .triplex.yaml contracts, validation, pattern checks and format conversion for tabular data, run locally."
+2026-10-17T15:28:08.074758Z,triplex-anonymizer,0.43.1,0,0,https://github.com/triplexanalytics/triplex,"Local pseudonymization with a separate mapping file, and synthetic tabular data with fidelity and leakage reports."
+2026-10-17T15:30:49.343039Z,nsh-animation,0.1.0,0,0,https://github.com/longbridge/native-shell,"Native animation graph: values, drivers (timing, spring, decay), interpolation and bindings."
+2026-10-17T15:30:50.051377Z,nsh-dev,0.1.0,0,0,https://github.com/longbridge/native-shell,"Development tooling: dev-server protocol, server (CLI side) and client (host side)."
+2026-10-17T15:30:50.976242Z,nsh-macros,0.1.0,0,0,https://github.com/longbridge/native-shell,"Derive macros of nsh's Rust components: props, prop enums, events and component metadata."
+2026-10-17T15:30:55.017915Z,nsh-core,0.1.0,0,0,https://github.com/longbridge/native-shell,"Platform-independent core: shadow tree, styles, layout and mount instructions."
+2026-10-17T15:30:56.873224Z,nsh-package,0.1.0,0,0,https://github.com/longbridge/native-shell,"Signed app packages (.nshpkg), two-level signing keys, revocation lists and the trust store."
+2026-10-17T15:31:13.023997Z,sdave-derive-impl,0.4.0,0,0,https://github.com/Prohect/SDAVE,The public codegen internals of sdave-derive.
+2026-10-17T15:31:27.10425Z,cargo-plane,0.0.0,0,0,,"Cargo, but in the cloud(s): offload cargo builds to remote machines (work in progress)"
+2026-10-17T15:32:41.387567Z,sdave-codec,0.4.0,0,0,https://github.com/Prohect/SDAVE,The typed codec layer of SDAVE.
+2026-10-17T15:33:02.076225Z,ironbeam-io,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Bounded file sources and transactional final-result sinks for Ironbeam 5
+2026-10-17T15:33:03.048753Z,feijoada,0.1.0,0,0,https://gitlab.com/feijoadars/feijoada,"A Java 25 parser that accepts the same files as javac and keeps all of the source, whitespace and comments included, in its syntax tree"
+2026-10-17T15:34:08.35245Z,pipelith,0.1.0,0,0,https://github.com/pr0d1r2/pipelith,"Forge-neutral core of CI materializers: pipe-table registry, YAML writer, generated-file drift check, kind catalogue"
+2026-10-17T15:35:11.330526Z,nsh-ui-mobile,0.1.0,0,0,https://github.com/longbridge/native-shell,"The mobile UI set's components, written in Rust: one implementation for iOS and Android, run by the core."
+2026-10-17T15:39:55.324421Z,molt-framework,0.1.0,0,0,https://github.com/micheltlutz/molt,"Fast, type-safe HTML DSL and static site generation engine in Rust and WebAssembly"
+2026-10-17T15:40:56.478012Z,scitok,0.1.0,0,0,https://github.com/aqora-io/scitok,Domain-aware tokenizer producing Qdrant sparse vectors for scientific papers
+2026-10-17T15:41:39.151294Z,wayland-protocols-newton,0.1.0,0,0,https://codeberg.org/WaylandNewton/wayland-protocols-newton,Generated API for the Wayland accessibility protocol
+2026-10-17T15:41:52.287141Z,nsh-bundler,0.1.0,0,0,https://github.com/longbridge/native-shell,JS bundler: rolldown + nsh's JSX compiler; the compiler alone without feature `bundle`.
+2026-10-17T15:43:02.588702Z,ironbeam-io-arrow,5.0.0,0,0,https://github.com/nhubbard/ironbeam,"Arrow IPC sources, batch coders, and sinks for Ironbeam 5"
+2026-10-17T15:44:45.038364Z,vast-skopos,0.1.0,0,0,https://github.com/mi-for-the-rust-of-us/vast-skopos,"A lookout over your rented vast.ai boxes: status, cost, credit, and what the GPU is actually doing (over ssh). Not affiliated with vast.ai."
+2026-10-17T15:46:01.759245Z,rdf-reasoning,0.1.0,0,0,https://github.com/legra-ai/rdf-reasoning,Portable RDF reasoning rules and explicit entailment preset contracts
+2026-10-17T15:46:57.009576Z,archiveview-archiver,0.2.0,0,0,https://github.com/gilesknap/archiveview,"EPICS Archiver Appliance retrieval client: getData.json, PV search and metadata"
+2026-10-17T15:46:57.548486Z,archiveview-mockarchiver,0.2.0,0,0,https://github.com/gilesknap/archiveview,"A mock EPICS Archiver Appliance serving synthetic PV history, for testing archiveview"
+2026-10-17T15:47:02.150561Z,archiveview,0.2.0,0,0,https://github.com/gilesknap/archiveview,A modern archived and live EPICS PV time-series plotter (Archiver Appliance + CA/PVA)
+2026-10-17T15:48:58.635113Z,kkkqkx-tree-sitter-c,0.24.2,0,0,https://github.com/tree-sitter/tree-sitter-c,C grammar for tree-sitter
+2026-10-17T15:49:07.621456Z,kkkqkx-tree-sitter-cpp,0.23.4,0,0,https://github.com/tree-sitter/tree-sitter-cpp,C++ grammar for tree-sitter
+2026-10-17T15:49:08.129615Z,lys-identity,0.3.2,0,0,https://github.com/ablative-io/lys,"The lys directory of people and agents: enduring identifiers, signed identity events, and the projection rebuilt from them."
+2026-10-17T15:49:11.156283Z,usfm_config,0.1.0,0,0,https://github.com/mimbrown/usfm,"usfm.toml, a project's settings for which USFM diagnostics are reported and how"
+2026-10-17T15:49:42.040159Z,kkkqkx-ownedbytes,0.9.0,0,0,https://github.com/kkkqkx123/tantivy,Expose data as static slice
+2026-10-17T15:49:51.789672Z,kkkqkx-tantivy-bitpacker,0.10.0,0,0,https://github.com/kkkqkx123/tantivy,Tantivy-sub crate: bitpacking
+2026-10-17T15:49:58.593214Z,kkkqkx-tantivy-query-grammar,0.26.0,0,0,https://github.com/kkkqkx123/tantivy,Search engine library
+2026-10-17T15:50:57.748796Z,corex-fleet,0.7.0,0,0,https://github.com/sluisr/corex,"Multi-server fleet management, SSH orchestrator, and SysAdmin operations engine for Corex"
+2026-10-17T15:51:06.521899Z,usfm_fix,0.1.0,0,0,https://github.com/mimbrown/usfm,"Fixes for USFM diagnostics, as edits to the source"
+2026-10-17T15:51:28.808848Z,usfm_json,0.1.0,0,0,https://github.com/mimbrown/usfm,"JSON output for a parsed USFM document, one object per node"
+2026-10-17T15:51:33.399083Z,cutrail,0.1.1,0,0,https://github.com/botrail/cutrail,"Material removal simulation core for machining: mesh-based stock, robust booleans, 3- and 5-axis sweeps, STEP/mesh I/O"
+2026-10-17T15:51:53.434649Z,nsh-js,0.1.0,0,0,https://github.com/longbridge/native-shell,"QuickJS host: runtime setup, host APIs, op decoding and bytecode."
+2026-10-17T15:53:01.557143Z,ironbeam-io-avro,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Native Avro sources and sinks for Ironbeam 5
+2026-10-17T15:53:58.276818Z,kkkqkx-tantivy-tokenizer-api,0.7.0,0,0,https://github.com/kkkqkx123/tantivy,Tokenizer API of tantivy
+2026-10-17T16:01:53.237882Z,nsh-engine,0.1.0,0,0,https://github.com/longbridge/native-shell,Engine thread that drives the JS host and the core and emits mount batches.
+2026-10-17T16:02:08.640961Z,ttype-cli,0.1.0,0,0,https://github.com/laguser/ttype,"Minimalist terminal typing speed test in Rust. Smooth conveyor tape, procedural mechanical typewriter sounds, and clean transparent UI."
+2026-10-17T16:02:18.415469Z,wax-letter,0.1.0,0,0,https://github.com/luochen1990/wax-letter,Seal/unseal letters with ssh-ed25519 keys (encrypt+sign)
+2026-10-17T16:03:02.093018Z,ironbeam-io-cbor,5.0.0,0,0,https://github.com/nhubbard/ironbeam,CBOR sources and deferred sinks for Ironbeam 5
+2026-10-17T16:04:05.199646Z,kkkqkx-tantivy-common,0.11.0,0,0,https://github.com/kkkqkx123/tantivy,common traits and utility functions used by multiple tantivy subcrates
+2026-10-17T16:05:32.415852Z,dnet-candle-core,1.0.0-rc.1,0,0,https://github.com/dnettoRaw/candle-zip9-security,Candle 0.11.0 security distribution with zip 9; upstream tensor implementation unchanged
+2026-10-17T16:06:50.446601Z,dnet-candle-nn,1.0.0-rc.1,0,0,https://github.com/dnettoRaw/candle-zip9-security,Candle 0.11.0 security distribution with zip 9; upstream tensor implementation unchanged
+2026-10-17T16:08:39.256272Z,rustyschwab-types,0.2.0,0,0,https://github.com/epistates/rustyschwab,Unofficial wire types for the Charles Schwab Trader and Market Data APIs
+2026-10-17T16:08:41.402813Z,rustyschwab,0.2.0,0,0,https://github.com/epistates/rustyschwab,"Unofficial Rust SDK for the Charles Schwab Trader and Market Data APIs: OAuth, REST, streaming, journaled orders, risk limits and a paper venue"
+2026-10-17T16:08:42.538103Z,rustyschwab-mcp,0.2.0,0,0,https://github.com/epistates/rustyschwab,"Unofficial MCP server (schwab-mcp) exposing the Charles Schwab Trader and Market Data APIs to LLM agents, behind per-principal policy and approvals"
+2026-10-17T16:10:11.03541Z,krasis,0.1.0,0,0,https://codeberg.org/redstrate/Krasis,Library for reading and writing FFXIV 1.x data.
+2026-10-17T16:10:28.756977Z,gpu-recorder-rs,1.1.0,0,0,https://github.com/KunalSiyag/gpu-recorder-rs,"Screen recorder for Linux Wayland whose camera follows your cursor: rootless DRM cursor tracking, spring-physics auto-zoom, NVENC/VAAPI encoding"
+2026-10-17T16:11:53.413922Z,nsh-cli,0.1.0,0,0,https://github.com/longbridge/native-shell,"The nsh command line tool: build, package and run apps."
+2026-10-17T16:12:22.502274Z,actlith,0.1.0,0,0,https://github.com/pr0d1r2/actlith,"Materialize hardened, SHA-pinned GitHub Actions workflows from a small .actlith registry"
+2026-10-17T16:13:01.477947Z,ironbeam-io-csv,5.0.0,0,0,https://github.com/nhubbard/ironbeam,CSV sources and deferred sinks for Ironbeam 5
+2026-10-17T16:16:44.422103Z,kkkqkx-jitexpr,0.1.0,0,0,https://github.com/kkkqkx123/tantivy,JIT-compiled expression evaluation for tantivy
+2026-10-17T16:18:05.474311Z,binary-data,0.2.1,0,0,https://github.com/mbolaric/binary-data,A fast and flexible Rust crate for reading and writing binary data from files or memory.
+2026-10-17T16:18:55.324636Z,athena-ai-manager,0.1.0,0,0,https://github.com/BaankeyBihari/athena,"Install, pin, and sync AI agent skills and plugins from git repositories"

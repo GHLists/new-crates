@@ -8,53 +8,76 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 15:19 UTC
+## Latest list — 2026-10-17 16:19 UTC
 
-New crates published between 2026-10-17 14:18 UTC and 2026-10-17 15:19 UTC.
+New crates published between 2026-10-17 15:19 UTC and 2026-10-17 16:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-17T15-19-54-400327Z.csv)
+[Full CSV](data/new-crates-2026-10-17T16-19-00-752412Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-17 14:18:43 | [cudabom-identify](https://crates.io/crates/cudabom-identify) | 0.1.0 | 0 | Fingerprint database and matchers that turn ELF/fatbin facts into CUDA componen… |
-| 2026-10-17 14:22:40 | [krpii-core](https://crates.io/crates/krpii-core) | 0.1.0 | 0 | Detection engine for credentials and Korean PII. |
-| 2026-10-17 14:22:43 | [krpii](https://crates.io/crates/krpii) | 0.1.0 | 0 | Command-line interface for detecting and masking credentials and Korean PII. |
-| 2026-10-17 14:27:10 | [df-hyperliquid-core](https://crates.io/crates/df-hyperliquid-core) | 0.0.8-beta.1 | 0 | Hyperliquid SDK for Rust: markets, account, trading, transfers, earn and deploy… |
-| 2026-10-17 14:27:36 | [cctune](https://crates.io/crates/cctune) | 0.1.1 | 0 | Control Apple Music from the terminal and from Claude Code: commands, an MCP se… |
-| 2026-10-17 14:27:43 | [phantom-quic-btls](https://crates.io/crates/phantom-quic-btls) | 0.1.0 | 0 | BoringSSL crypto provider for Phantom QUIC |
-| 2026-10-17 14:28:05 | [df-papertrade-core](https://crates.io/crates/df-papertrade-core) | 0.0.8-beta.1 | 0 | Papertrade SDK for Rust on df-hyperliquid-core: intents, relayer, live account,… |
-| 2026-10-17 14:28:44 | [cudabom](https://crates.io/crates/cudabom) | 0.1.0 | 0 | Find the CUDA your SBOM missed: evidence-backed CUDA identity and security-grad… |
-| 2026-10-17 14:30:37 | [statenode](https://crates.io/crates/statenode) | 0.0.0 | 0 | A graph-based runtime and state machine engine for LLM agent workflows. |
-| 2026-10-17 14:31:11 | [estigia](https://crates.io/crates/estigia) | 0.1.0 | 0 | Guardrails for AI coding agents (Claude Code, Codex, OpenCode, Pi): an MCP serv… |
-| 2026-10-17 14:35:02 | [phantom-net](https://crates.io/crates/phantom-net) | 0.1.0 | 0 | HTTP/1.1, HTTP/2, and HTTP/3 connections for Phantom |
-| 2026-10-17 14:35:46 | [ironbeam-cloud-ops](https://crates.io/crates/ironbeam-cloud-ops) | 5.0.0 | 0 | Provider-neutral cloud operation helpers for Ironbeam |
-| 2026-10-17 14:35:50 | [ironbeam-compression](https://crates.io/crates/ironbeam-compression) | 5.0.0 | 0 | Pluggable streaming compression for Ironbeam I/O |
-| 2026-10-17 14:35:59 | [ironbeam-core](https://crates.io/crates/ironbeam-core) | 5.0.0 | 0 | Runner-neutral logical graph for Ironbeam 5 |
-| 2026-10-17 14:36:46 | [yaml-splice](https://crates.io/crates/yaml-splice) | 0.2.1 | 0 | Edit top-level fields of a YAML mapping in place: set, remove and rename a key… |
-| 2026-10-17 14:39:35 | [turly](https://crates.io/crates/turly) | 0.1.0 | 0 | A terminal API client with Vim keys, workspaces and OpenAPI import |
-| 2026-10-17 14:43:02 | [ironbeam-coder-row](https://crates.io/crates/ironbeam-coder-row) | 5.0.0 | 0 | Beam schema RowCoder and typed row elements for Ironbeam 5 |
-| 2026-10-17 14:44:37 | [pithdb](https://crates.io/crates/pithdb) | 0.0.1 | 0 | Pith: lightweight embeddable vector database with built-in ONNX embeddings (nam… |
-| 2026-10-17 14:50:10 | [dotenw](https://crates.io/crates/dotenw) | 0.0.1 | 0 | Immutable environment snapshots with layered dotenv sources, explicit inheritan… |
-| 2026-10-17 14:50:58 | [congif](https://crates.io/crates/congif) | 0.0.1 | 0 | Typed configuration reading, validated preparation and atomic snapshots with ex… |
-| 2026-10-17 14:51:16 | [gpui-testing-library](https://crates.io/crates/gpui-testing-library) | 0.1.0 | 0 | Testing Library for GPUI: query views the way users perceive them, simulate use… |
-| 2026-10-17 14:52:22 | [phantom-http](https://crates.io/crates/phantom-http) | 0.1.0 | 0 | HTTP client with browser TLS and HTTP profiles |
-| 2026-10-17 14:53:03 | [ironbeam-graphx](https://crates.io/crates/ironbeam-graphx) | 5.0.0 | 0 | Translates ironbeam pipelines into Apache Beam portable-pipeline protobufs |
-| 2026-10-17 14:59:47 | [taktwerk-record](https://crates.io/crates/taktwerk-record) | 0.6.0 | 0 | Run files of the taktwerk recorder: manifest, gzipped CSV parts, event log, ret… |
-| 2026-10-17 15:01:08 | [seqarc](https://crates.io/crates/seqarc) | 0.1.0 | 0 | Rust archiver for sequencing reads with fast, alignment-based compression |
-| 2026-10-17 15:02:54 | [crystal-cif-fmt](https://crates.io/crates/crystal-cif-fmt) | 0.1.0 | 0 | Parser and IR for the IUCr crystallography `cif` format. |
-| 2026-10-17 15:03:01 | [ironbeam-metrics](https://crates.io/crates/ironbeam-metrics) | 5.0.0 | 0 | Optional custom metrics and reporting for Ironbeam 5 jobs |
-| 2026-10-17 15:05:01 | [midway-config](https://crates.io/crates/midway-config) | 0.1.0 | 0 | Configuration types and validation for Midway. |
-| 2026-10-17 15:05:10 | [midway-logging](https://crates.io/crates/midway-logging) | 0.1.0 | 0 | File logging setup for Midway. |
-| 2026-10-17 15:05:41 | [midway-notifier](https://crates.io/crates/midway-notifier) | 0.1.0 | 0 | Notification delivery for Midway. |
-| 2026-10-17 15:05:59 | [midway-cli](https://crates.io/crates/midway-cli) | 0.1.0 | 0 | Run commands and get notified when they finish. |
-| 2026-10-17 15:07:03 | [usfm_span](https://crates.io/crates/usfm_span) | 0.1.0 | 0 | Source spans and line/column lookup for the usfm_tools crates |
-| 2026-10-17 15:07:05 | [usfm_style](https://crates.io/crates/usfm_style) | 0.1.0 | 0 | USFM stylesheets (.sty): the markers, their types and placement rules, with Par… |
-| 2026-10-17 15:07:09 | [usfm_ast](https://crates.io/crates/usfm_ast) | 0.1.0 | 0 | The USFM syntax tree, with visitors, folds and a cursor |
-| 2026-10-17 15:07:13 | [usfm_codegen](https://crates.io/crates/usfm_codegen) | 0.1.0 | 0 | USFM output for a parsed USFM document, one canonical spelling per construct |
-| 2026-10-17 15:07:16 | [usfm_diagnostics](https://crates.io/crates/usfm_diagnostics) | 0.1.0 | 0 | Diagnostics for USFM: codes, severities, parse results and rendering |
-| 2026-10-17 15:13:02 | [ironbeam-direct](https://crates.io/crates/ironbeam-direct) | 5.0.0 | 0 | Direct execution for the Ironbeam 5 logical graph |
-| 2026-10-17 15:14:01 | [seed-core](https://crates.io/crates/seed-core) | 0.1.0 | 0 | Deterministic 2-Stage Decision Engine, Real-Time Episodic Memory, and JFP Gatek… |
-| 2026-10-17 15:19:48 | [orchestral-agent-claude](https://crates.io/crates/orchestral-agent-claude) | 0.5.0 | 0 | Claude Code session and streaming Agent connector for Orchestral |
+| 2026-10-17 15:23:01 | [ironbeam-coder-postcard](https://crates.io/crates/ironbeam-coder-postcard) | 5.0.0 | 0 | Opt-in Postcard element coder for Ironbeam 5 |
+| 2026-10-17 15:25:45 | [clipmelody](https://crates.io/crates/clipmelody) | 0.1.0 | 0 | Parse TikTok, Instagram Reel and YouTube Shorts links into a platform, video ID… |
+| 2026-10-17 15:26:12 | [usfm_html](https://crates.io/crates/usfm_html) | 0.1.0 | 0 | HTML output for a parsed USFM document |
+| 2026-10-17 15:28:03 | [triplex-core](https://crates.io/crates/triplex-core) | 0.43.1 | 0 | Shared error type for the Triplex local-first data privacy tools. |
+| 2026-10-17 15:28:05 | [triplex-datasetcard](https://crates.io/crates/triplex-datasetcard) | 0.43.1 | 0 | Privacy-risk scoring for tabular datasets: k-anonymity, l-diversity, t-closenes… |
+| 2026-10-17 15:28:05 | [triplex-io](https://crates.io/crates/triplex-io) | 0.43.1 | 0 | Local file I/O for Triplex: CSV, TSV, JSON Lines and Parquet, read from a path… |
+| 2026-10-17 15:28:06 | [triplex-schemacast](https://crates.io/crates/triplex-schemacast) | 0.43.1 | 0 | Schema inference, .triplex.yaml contracts, validation, pattern checks and forma… |
+| 2026-10-17 15:28:08 | [triplex-anonymizer](https://crates.io/crates/triplex-anonymizer) | 0.43.1 | 0 | Local pseudonymization with a separate mapping file, and synthetic tabular data… |
+| 2026-10-17 15:30:49 | [nsh-animation](https://crates.io/crates/nsh-animation) | 0.1.0 | 0 | Native animation graph: values, drivers (timing, spring, decay), interpolation… |
+| 2026-10-17 15:30:50 | [nsh-dev](https://crates.io/crates/nsh-dev) | 0.1.0 | 0 | Development tooling: dev-server protocol, server (CLI side) and client (host si… |
+| 2026-10-17 15:30:50 | [nsh-macros](https://crates.io/crates/nsh-macros) | 0.1.0 | 0 | Derive macros of nsh's Rust components: props, prop enums, events and component… |
+| 2026-10-17 15:30:55 | [nsh-core](https://crates.io/crates/nsh-core) | 0.1.0 | 0 | Platform-independent core: shadow tree, styles, layout and mount instructions. |
+| 2026-10-17 15:30:56 | [nsh-package](https://crates.io/crates/nsh-package) | 0.1.0 | 0 | Signed app packages (.nshpkg), two-level signing keys, revocation lists and the… |
+| 2026-10-17 15:31:13 | [sdave-derive-impl](https://crates.io/crates/sdave-derive-impl) | 0.4.0 | 0 | The public codegen internals of sdave-derive. |
+| 2026-10-17 15:31:27 | [cargo-plane](https://crates.io/crates/cargo-plane) | 0.0.0 | 0 | Cargo, but in the cloud(s): offload cargo builds to remote machines (work in pr… |
+| 2026-10-17 15:32:41 | [sdave-codec](https://crates.io/crates/sdave-codec) | 0.4.0 | 0 | The typed codec layer of SDAVE. |
+| 2026-10-17 15:33:02 | [ironbeam-io](https://crates.io/crates/ironbeam-io) | 5.0.0 | 0 | Bounded file sources and transactional final-result sinks for Ironbeam 5 |
+| 2026-10-17 15:33:03 | [feijoada](https://crates.io/crates/feijoada) | 0.1.0 | 0 | A Java 25 parser that accepts the same files as javac and keeps all of the sour… |
+| 2026-10-17 15:34:08 | [pipelith](https://crates.io/crates/pipelith) | 0.1.0 | 0 | Forge-neutral core of CI materializers: pipe-table registry, YAML writer, gener… |
+| 2026-10-17 15:35:11 | [nsh-ui-mobile](https://crates.io/crates/nsh-ui-mobile) | 0.1.0 | 0 | The mobile UI set's components, written in Rust: one implementation for iOS and… |
+| 2026-10-17 15:39:55 | [molt-framework](https://crates.io/crates/molt-framework) | 0.1.0 | 0 | Fast, type-safe HTML DSL and static site generation engine in Rust and WebAssem… |
+| 2026-10-17 15:40:56 | [scitok](https://crates.io/crates/scitok) | 0.1.0 | 0 | Domain-aware tokenizer producing Qdrant sparse vectors for scientific papers |
+| 2026-10-17 15:41:39 | [wayland-protocols-newton](https://crates.io/crates/wayland-protocols-newton) | 0.1.0 | 0 | Generated API for the Wayland accessibility protocol |
+| 2026-10-17 15:41:52 | [nsh-bundler](https://crates.io/crates/nsh-bundler) | 0.1.0 | 0 | JS bundler: rolldown + nsh's JSX compiler; the compiler alone without feature `… |
+| 2026-10-17 15:43:02 | [ironbeam-io-arrow](https://crates.io/crates/ironbeam-io-arrow) | 5.0.0 | 0 | Arrow IPC sources, batch coders, and sinks for Ironbeam 5 |
+| 2026-10-17 15:44:45 | [vast-skopos](https://crates.io/crates/vast-skopos) | 0.1.0 | 0 | A lookout over your rented vast.ai boxes: status, cost, credit, and what the GP… |
+| 2026-10-17 15:46:01 | [rdf-reasoning](https://crates.io/crates/rdf-reasoning) | 0.1.0 | 0 | Portable RDF reasoning rules and explicit entailment preset contracts |
+| 2026-10-17 15:46:57 | [archiveview-archiver](https://crates.io/crates/archiveview-archiver) | 0.2.0 | 0 | EPICS Archiver Appliance retrieval client: getData.json, PV search and metadata |
+| 2026-10-17 15:46:57 | [archiveview-mockarchiver](https://crates.io/crates/archiveview-mockarchiver) | 0.2.0 | 0 | A mock EPICS Archiver Appliance serving synthetic PV history, for testing archi… |
+| 2026-10-17 15:47:02 | [archiveview](https://crates.io/crates/archiveview) | 0.2.0 | 0 | A modern archived and live EPICS PV time-series plotter (Archiver Appliance + C… |
+| 2026-10-17 15:48:58 | [kkkqkx-tree-sitter-c](https://crates.io/crates/kkkqkx-tree-sitter-c) | 0.24.2 | 0 | C grammar for tree-sitter |
+| 2026-10-17 15:49:07 | [kkkqkx-tree-sitter-cpp](https://crates.io/crates/kkkqkx-tree-sitter-cpp) | 0.23.4 | 0 | C++ grammar for tree-sitter |
+| 2026-10-17 15:49:08 | [lys-identity](https://crates.io/crates/lys-identity) | 0.3.2 | 0 | The lys directory of people and agents: enduring identifiers, signed identity e… |
+| 2026-10-17 15:49:11 | [usfm_config](https://crates.io/crates/usfm_config) | 0.1.0 | 0 | usfm.toml, a project's settings for which USFM diagnostics are reported and how |
+| 2026-10-17 15:49:42 | [kkkqkx-ownedbytes](https://crates.io/crates/kkkqkx-ownedbytes) | 0.9.0 | 0 | Expose data as static slice |
+| 2026-10-17 15:49:51 | [kkkqkx-tantivy-bitpacker](https://crates.io/crates/kkkqkx-tantivy-bitpacker) | 0.10.0 | 0 | Tantivy-sub crate: bitpacking |
+| 2026-10-17 15:49:58 | [kkkqkx-tantivy-query-grammar](https://crates.io/crates/kkkqkx-tantivy-query-grammar) | 0.26.0 | 0 | Search engine library |
+| 2026-10-17 15:50:57 | [corex-fleet](https://crates.io/crates/corex-fleet) | 0.7.0 | 0 | Multi-server fleet management, SSH orchestrator, and SysAdmin operations engine… |
+| 2026-10-17 15:51:06 | [usfm_fix](https://crates.io/crates/usfm_fix) | 0.1.0 | 0 | Fixes for USFM diagnostics, as edits to the source |
+| 2026-10-17 15:51:28 | [usfm_json](https://crates.io/crates/usfm_json) | 0.1.0 | 0 | JSON output for a parsed USFM document, one object per node |
+| 2026-10-17 15:51:33 | [cutrail](https://crates.io/crates/cutrail) | 0.1.1 | 0 | Material removal simulation core for machining: mesh-based stock, robust boolea… |
+| 2026-10-17 15:51:53 | [nsh-js](https://crates.io/crates/nsh-js) | 0.1.0 | 0 | QuickJS host: runtime setup, host APIs, op decoding and bytecode. |
+| 2026-10-17 15:53:01 | [ironbeam-io-avro](https://crates.io/crates/ironbeam-io-avro) | 5.0.0 | 0 | Native Avro sources and sinks for Ironbeam 5 |
+| 2026-10-17 15:53:58 | [kkkqkx-tantivy-tokenizer-api](https://crates.io/crates/kkkqkx-tantivy-tokenizer-api) | 0.7.0 | 0 | Tokenizer API of tantivy |
+| 2026-10-17 16:01:53 | [nsh-engine](https://crates.io/crates/nsh-engine) | 0.1.0 | 0 | Engine thread that drives the JS host and the core and emits mount batches. |
+| 2026-10-17 16:02:08 | [ttype-cli](https://crates.io/crates/ttype-cli) | 0.1.0 | 0 | Minimalist terminal typing speed test in Rust. Smooth conveyor tape, procedural… |
+| 2026-10-17 16:02:18 | [wax-letter](https://crates.io/crates/wax-letter) | 0.1.0 | 0 | Seal/unseal letters with ssh-ed25519 keys (encrypt+sign) |
+| 2026-10-17 16:03:02 | [ironbeam-io-cbor](https://crates.io/crates/ironbeam-io-cbor) | 5.0.0 | 0 | CBOR sources and deferred sinks for Ironbeam 5 |
+| 2026-10-17 16:04:05 | [kkkqkx-tantivy-common](https://crates.io/crates/kkkqkx-tantivy-common) | 0.11.0 | 0 | common traits and utility functions used by multiple tantivy subcrates |
+| 2026-10-17 16:05:32 | [dnet-candle-core](https://crates.io/crates/dnet-candle-core) | 1.0.0-rc.1 | 0 | Candle 0.11.0 security distribution with zip 9; upstream tensor implementation… |
+| 2026-10-17 16:06:50 | [dnet-candle-nn](https://crates.io/crates/dnet-candle-nn) | 1.0.0-rc.1 | 0 | Candle 0.11.0 security distribution with zip 9; upstream tensor implementation… |
+| 2026-10-17 16:08:39 | [rustyschwab-types](https://crates.io/crates/rustyschwab-types) | 0.2.0 | 0 | Unofficial wire types for the Charles Schwab Trader and Market Data APIs |
+| 2026-10-17 16:08:41 | [rustyschwab](https://crates.io/crates/rustyschwab) | 0.2.0 | 0 | Unofficial Rust SDK for the Charles Schwab Trader and Market Data APIs: OAuth,… |
+| 2026-10-17 16:08:42 | [rustyschwab-mcp](https://crates.io/crates/rustyschwab-mcp) | 0.2.0 | 0 | Unofficial MCP server (schwab-mcp) exposing the Charles Schwab Trader and Marke… |
+| 2026-10-17 16:10:11 | [krasis](https://crates.io/crates/krasis) | 0.1.0 | 0 | Library for reading and writing FFXIV 1.x data. |
+| 2026-10-17 16:10:28 | [gpu-recorder-rs](https://crates.io/crates/gpu-recorder-rs) | 1.1.0 | 0 | Screen recorder for Linux Wayland whose camera follows your cursor: rootless DR… |
+| 2026-10-17 16:11:53 | [nsh-cli](https://crates.io/crates/nsh-cli) | 0.1.0 | 0 | The nsh command line tool: build, package and run apps. |
+| 2026-10-17 16:12:22 | [actlith](https://crates.io/crates/actlith) | 0.1.0 | 0 | Materialize hardened, SHA-pinned GitHub Actions workflows from a small .actlith… |
+| 2026-10-17 16:13:01 | [ironbeam-io-csv](https://crates.io/crates/ironbeam-io-csv) | 5.0.0 | 0 | CSV sources and deferred sinks for Ironbeam 5 |
+| 2026-10-17 16:16:44 | [kkkqkx-jitexpr](https://crates.io/crates/kkkqkx-jitexpr) | 0.1.0 | 0 | JIT-compiled expression evaluation for tantivy |
+| 2026-10-17 16:18:05 | [binary-data](https://crates.io/crates/binary-data) | 0.2.1 | 0 | A fast and flexible Rust crate for reading and writing binary data from files o… |
+| 2026-10-17 16:18:55 | [athena-ai-manager](https://crates.io/crates/athena-ai-manager) | 0.1.0 | 0 | Install, pin, and sync AI agent skills and plugins from git repositories |
 
 ## Data source
 
