@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T20:21:21.56344Z,pzmap2img,0.1.0,0,0,https://github.com/LtdJorge/pzmap-rs,Builds an optimized runtime representation of a Project Zomboid map and renders map tiles from it.
+2026-10-17T20:27:32.635532Z,bcode_session_view_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Renderer-neutral session view models for bcode
+2026-10-17T20:29:39.807417Z,sonvik,0.1.0,0,0,https://github.com/Nanielito/sonvik,"Local-first, Git-native API verification"
+2026-10-17T20:29:57.331593Z,sdigest,0.2.1,0,0,https://github.com/reece/sdigest,"Fast, tunable sparse digests: fingerprint files by hashing their size and a sample of their content"
+2026-10-17T20:31:49.969083Z,tussl-chemistry,0.1.0,0,0,https://github.com/Tussl-Co/TusslChemistry,"Names a single-cell RNA library's layout (kit, chemistry, barcode list, strand, library type) from its first reads"
+2026-10-17T20:32:38.953377Z,agent-ext,0.1.0,0,0,https://github.com/pyrlyn/crates,"Agent extension points: SKILL.md discovery with a deferred skill tool, and Claude-Code-style shell hooks (JSON on stdin, exit 2 blocks) that fail open"
+2026-10-17T20:32:46.16668Z,llm-wire,0.1.0,0,0,https://github.com/pyrlyn/crates,"The provider contract for LLM agent loops: the Provider trait, the neutral request and event types, and test-double helpers"
+2026-10-17T20:32:48.409357Z,app-home,0.1.0,0,0,https://github.com/pyrlyn/crates,"Resolve the user home, an app's `$APP_HOME` or `~/.app`, and XDG config/data/cache/state dirs the same way on every OS"
+2026-10-17T20:32:50.51036Z,atomic-replace,0.1.0,0,0,https://github.com/pyrlyn/crates,"Replace a file atomically: write a sibling temp file, keep the old permissions and symlinks, optionally fsync, then rename it over the target"
+2026-10-17T20:33:03.018003Z,cargo-changed-packages,0.1.0,0,0,https://github.com/pyrlyn/crates,"Workspace packages a set of changed paths affects, including reverse dependencies"
+2026-10-17T20:37:32.650713Z,bcode_usage_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Portable usage reporting contracts for Bcode
+2026-10-17T20:37:40.838751Z,pzmap-tools,0.1.0,0,0,https://github.com/LtdJorge/pzmap-rs,"Command-line tools for Project Zomboid map files, built on libpzmap."
+2026-10-17T20:43:01.925929Z,nadir-rs,0.0.0,0,0,,placeholder
+2026-10-17T20:47:32.405179Z,bcode_workflow_view_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Renderer-neutral workflow view models for bcode
+2026-10-17T20:49:52.275258Z,geoquery,0.0.0,0,0,,placeholder
+2026-10-17T20:50:05.848874Z,moult,0.1.0,0,0,https://github.com/Trivyn/moult,"English noun inflection (singularize, pluralize) checked against Open English WordNet"
+2026-10-17T20:52:48.898166Z,isa-core,0.1.0,0,0,https://github.com/Sing-Security/isa-core,"A small instruction-set core: decoded listings, first-party SBF and RV32 decoders, and the SBF-to-WAT lift used by symbolic executors."
+2026-10-17T20:52:59.467654Z,concolic-core,0.1.0,0,0,https://github.com/Sing-Security/concolic-core,"Architecture-neutral concolic explore loop, report contract and outcome ledger"
+2026-10-17T20:53:01.910707Z,sbf-state,0.1.0,0,0,https://github.com/Sing-Security/sbf-state,"SBF chain-state model: paged CoW memory, symbolic regions, the account-context map, seed files"
+2026-10-17T20:53:18.706206Z,sbf-run,0.1.0,0,0,https://github.com/Sing-Security/sbf-run,Deterministic Wasmtime runner for lifted SBF modules over sbf-state SeedStates
+2026-10-17T20:53:35.969295Z,sbf-symex,0.1.0,0,0,https://github.com/Sing-Security/sbf-symex,"Pure symbolic execution over lifted SBF listings: taint as term provenance, invoke sinks, solver witnesses"
+2026-10-17T20:57:32.794537Z,bcode_workflow,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Typed workflow composition and in-process execution for bcode
+2026-10-17T21:00:42.405551Z,symex,0.0.0,0,0,https://github.com/Sing-Security/symex,"Directed bounded symbolic executor over isa_core disassembly, on the smtlite SMT backend"
+2026-10-17T21:01:42.580252Z,scad-deps,0.1.0,0,0,https://github.com/neoscad/scad-deps,"Dependency manager for OpenSCAD-language projects: scad.toml, scad.lock, a per-machine store of shared git mirrors and read-only checkouts linked into each project"
+2026-10-17T21:07:32.84971Z,bcode_plugin_sdk,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Plugin author SDK for bcode
+2026-10-17T21:16:55.032385Z,bupha-cache,0.1.0,0,0,https://github.com/9aia/bupha,Cache port: artifact-cache backend for runners
+2026-10-17T21:16:59.891023Z,bupha-cache-sccache,0.1.0,0,0,https://github.com/9aia/bupha,Cache impl: sccache-compatible conf (file/S3/R2/GCS via conf)
+2026-10-17T21:17:02.597136Z,bupha-core,0.1.0,0,0,https://github.com/9aia/bupha,"bupha domain core: config types, job queues, shared primitives — no ports, no integrations"
+2026-10-17T21:17:05.066938Z,bupha-tunnel,0.1.0,0,0,https://github.com/9aia/bupha,Tunnel port: expose the webhook listener publicly
+2026-10-17T21:17:08.534464Z,bupha-config,0.1.0,0,0,https://github.com/9aia/bupha,Config port: where bupha.toml-shaped config comes from
+2026-10-17T21:17:32.812184Z,bcode_auth_broker_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Single-owner GitHub OIDC model broker for Bcode
