@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-16T23:23:16.954512Z,rustymath-buffer,0.1.26,0,0,https://github.com/AnswerDotAI/rustymath,"The Python buffer protocol for rustymath's compact buffers, shared by rustymath's and basedpl's Python extensions."
+2026-10-16T23:23:19.804888Z,wolfpack-driver,0.1.0,0,0,https://github.com/realfamousbae/wolfpack,"The in-memory compiler pipeline of wolfpack. Internal part of wolfpack-lang, not a stable API"
+2026-10-16T23:26:16.098229Z,mylittlechart-app-layout,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,"Desktop/wasm frontend layer for mylittlechart — layout, render, ui widgets, hit-testing, input. Consumes mlc-core state; temporary until the tessera app shell lands."
+2026-10-16T23:33:19.252004Z,wolfpack-fmt,0.1.0,0,0,https://github.com/realfamousbae/wolfpack,"The formatter of wolfpack source, wolf fmt. Internal part of wolfpack-lang, not a stable API"
+2026-10-16T23:36:18.741943Z,mylittlechart-app-render-context-vello,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,VelloGpuRenderContext — chart-aware wrapper delegating to uzor-backend-vello-gpu
+2026-10-16T23:43:22.781536Z,wolfpack-lang,0.1.0,0,0,https://github.com/realfamousbae/wolfpack,"Wolfpack: a language that compiles to readable TypeScript, Go and Rust. The wolf command"
+2026-10-16T23:46:12.407555Z,mylittlechart-app-render-context-vello-cpu,0.1.0,0,0,https://github.com/ZENG3LD/mylittlechart,"VelloCpuChartRenderContext, a chart-aware wrapper over the Vello CPU backend."
+2026-10-16T23:52:16.04735Z,rdf-structural-model,0.1.0,0,0,https://github.com/legra-ai/rdf-structural-model,Owned and borrowed RDF 1.2 structural values with typed extensions and format-neutral Serde
+2026-10-16T23:53:56.722507Z,rig-harness-protocol,0.44.0,0,0,https://github.com/0xPlaygrounds/rig,"The protocol between the rig launcher and the rig-harness agent: the RIG_HOME layout, session ids, the launch environment and the reload exit code. std only."
+2026-10-16T23:56:15.249463Z,mylittlechart-app-render-context-vello-hybrid,0.1.0,0,0,https://github.com/ZENG3LD/mylittlechart,"VelloHybridChartRenderContext, a chart-aware wrapper over the Vello hybrid backend."
+2026-10-16T23:59:10.475839Z,active-ls,0.1.0,0,0,https://github.com/Active-Official,Reserved name of the Active language project — the real language server ships in active-lsp
+2026-10-16T23:59:17.005941Z,active-fuzz,0.1.0,0,0,https://github.com/Active-Official,Reserved name of the Active language project — the fuzz harness lives in-repo under active-fuzz
+2026-10-17T00:01:39.975336Z,gmt_dos-actors_flowchart,0.1.0,0,0,https://github.com/rconan/dos-actors,GMT DOS Actors model flowcharts
+2026-10-17T00:02:50.422939Z,zsuite-typst,0.1.0,0,0,https://github.com/ZAL-Analytics/zsuite,"One Typst world for a page: preview as SVG, and export to PDF, PowerPoint and Word from the same compile."
+2026-10-17T00:02:51.309477Z,zsuite-veil,0.1.0,0,0,https://github.com/ZAL-Analytics/zsuite,"Finds names, numbers and glossary terms in text and swaps them for tokens that can be swapped back."
+2026-10-17T00:02:53.176468Z,zsuite-finder,0.1.0,0,0,https://github.com/ZAL-Analytics/zsuite,Runs a GLiNER name finder on the CPU and downloads checked model files.
+2026-10-17T00:02:55.602569Z,zsuite-sealed,0.1.0,0,0,https://github.com/ZAL-Analytics/zsuite,"An encrypted SQLCipher file that keeps a glossary, the tokens of hidden text and a search index of notes."
+2026-10-17T00:02:58.126849Z,zsuite-agent,0.1.0,0,0,https://github.com/ZAL-Analytics/zsuite,"An assistant that reads and edits a folder of pages through Claude Code or an OpenAI-compatible server, with names hidden by zsuite-veil."
+2026-10-17T00:06:15.566012Z,mylittlechart-app-render-context-instanced,0.1.0,0,0,https://github.com/ZENG3LD/mylittlechart,"InstancedChartRenderContext, a chart-aware instanced renderer."
+2026-10-17T00:12:32.326845Z,flufidb,0.1.0,0,0,https://git.flufi.uk/flufi/flufidb,A tiny async file-based database
+2026-10-17T00:13:19.219598Z,abtestify,0.3.0,0,0,https://github.com/pranav2012/abtestify,"Deterministic A/B test bucketing with per-experiment hashing, exposure and split control; identical assignments to the abtestify npm package"
+2026-10-17T00:13:58.356275Z,tauri-plugin-zsuite-assistant,0.1.0,0,0,https://github.com/ZAL-Analytics/zsuite,"The zsuite assistant and its privacy settings as a Tauri plugin: chats, providers and hidden names."
+2026-10-17T00:16:13.951767Z,mylittlechart-app-render-context-tiny-skia,0.5.656,0,0,https://github.com/ZENG3LD/mylittlechart,"TinySkiaChartRenderContext, a chart-aware wrapper over tiny-skia."
+2026-10-17T00:18:48.577806Z,kext2,0.1.0,0,0,https://github.com/tuler/kext2,"Build ext2 filesystem images from directories, tar archives and device tables, without root"
