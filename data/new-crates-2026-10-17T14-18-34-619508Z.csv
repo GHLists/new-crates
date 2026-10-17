@@ -1,0 +1,54 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T13:19:15.98133Z,term2gif,0.1.0,0,0,https://github.com/sbellon/term2gif,"Record a terminal session and save it as a GIF, in a single binary"
+2026-10-17T13:21:10.395831Z,phantom-http2,0.5.20-phantom.18,0,0,https://github.com/bywayhq/phantom,Phantom fork of http2 0.5.20; not a general-purpose replacement
+2026-10-17T13:25:45.278703Z,cudabom-core,0.1.0,0,0,https://github.com/cpeoples/cudabom,"Shared domain types for cudabom: Artifact, Location, Component, Evidence, Confidence, Finding, and tunable safety limits."
+2026-10-17T13:25:56.066484Z,cudabom-fetch,0.1.0,0,0,https://github.com/cpeoples/cudabom,"Verified HTTP download primitive with retry, exponential backoff, jitter, and rate-limit (429/Retry-After) awareness. The single network layer shared by db update and the fingerprint corpus fetcher."
+2026-10-17T13:26:05.087535Z,cudabom-extract,0.1.0,0,0,https://github.com/cpeoples/cudabom,"Safe, streaming walkers for wheels, sdists, archives, directories, and container images, with nesting and bomb protections."
+2026-10-17T13:26:10.764633Z,cudabom-elf,0.1.0,0,0,https://github.com/cpeoples/cudabom,"ELF fact extraction: SONAME, NEEDED, symbols, symbol versions, build-id, sections, notes, rodata strings, and static-archive members."
+2026-10-17T13:26:15.949908Z,cudabom-fatbin,0.1.0,0,0,https://github.com/cpeoples/cudabom,"Parsers for NVIDIA fatbin containers, cubins, and PTX embedded in ELF or standalone GPU code objects."
+2026-10-17T13:28:12.233534Z,crabmaid,0.1.0,0,0,,Render Mermaid diagrams to SVG and PNG without a browser
+2026-10-17T13:28:15.275976Z,crabmaid-cli,0.1.0,0,0,,Command line interface for crabmaid
+2026-10-17T13:30:46.645312Z,arlloc,0.1.0,0,0,https://github.com/Max-Jenever/arlloc,"High-performance bump allocator with C core and safe Rust wrapper. O(1) allocation without fragmentation, locks, or syscalls in the hot path."
+2026-10-17T13:31:13.404632Z,phantom-wreq-proto,0.2.5-phantom.18,0,0,https://github.com/bywayhq/phantom,Phantom fork of wreq-proto 0.2.5; not a general-purpose replacement
+2026-10-17T13:37:45.268985Z,yq-core,0.1.1,0,0,https://github.com/taras/yq.rs,Rust implementation of the yq (mikefarah/yq) expression language over YAML and JSON
+2026-10-17T13:39:51.384448Z,cudabom-pe,0.1.0,0,0,https://github.com/cpeoples/cudabom,"PE/COFF fact extraction for Windows binaries: machine type, subsystem, imported DLLs, exported symbols, and the VS_VERSIONINFO resource (ProductName/ProductVersion/FileVersion)."
+2026-10-17T13:39:54.141802Z,cudabom-policy,0.1.0,0,0,https://github.com/cpeoples/cudabom,Policy-file evaluation for the `cudabom gate` command (v0.3).
+2026-10-17T13:41:01.441101Z,phantom-tungstenite,0.30.0-phantom.3,0,0,https://github.com/bywayhq/phantom,Phantom fork of tungstenite 0.30.0; not a general-purpose replacement
+2026-10-17T13:44:09.370036Z,myoxus-yrs,0.28.0-myoxus.1,0,0,https://github.com/superions/myoxus-yrs,"Myoxus-maintained Yrs fork with subdocument ownership fixes, selective undo clearing, deterministic object encoding and BigInt preservation"
+2026-10-17T13:51:10.466158Z,phantom-tokio-tungstenite,0.30.0-phantom.3,0,0,https://github.com/bywayhq/phantom,Phantom fork of tokio-tungstenite 0.30.0; not a general-purpose replacement
+2026-10-17T13:53:32.913983Z,guessaeng_game,0.1.0,0,0,,A fun game where you guess what number the computer has chosen
+2026-10-17T13:53:55.248512Z,cudabom-report,0.1.0,0,0,https://github.com/cpeoples/cudabom,"Deterministic renderers for cudabom output: terminal table, native JSON, SARIF 2.1.0, and Markdown."
+2026-10-17T13:56:40.581215Z,deezer-client,0.1.0,0,0,https://git.jharmison.dev/james/deezerd,"A standalone Deezer client library: public and private API access, ARL auth, decrypted audio streaming, lyrics, and queue state"
+2026-10-17T13:56:48.090251Z,deezerd-client,0.1.0,0,0,https://git.jharmison.dev/james/deezerd,Client library for the deezerd daemon's HTTP surface: playback control and queue access
+2026-10-17T13:57:05.789486Z,episodic-cli,0.1.0,0,0,https://github.com/pacharanero/episodic,"Plan, produce, and publish video and podcast episodes from the command line: audio mastering, transcripts, captions, chapters, tags, descriptions, thumbnails, and YouTube upload"
+2026-10-17T13:57:17.814989Z,deezerd-tui,0.1.0,0,0,https://git.jharmison.dev/james/deezerd,A terminal UI for the deezerd daemon
+2026-10-17T13:57:20.459035Z,itanium-demangle,0.1.0,0,0,https://github.com/lapla-cogito/itanium-demangle,A fast Itanium C++ name demangler
+2026-10-17T13:57:50.954176Z,say-hello-raihan,0.1.0,0,0,,This is say hello library
+2026-10-17T13:57:56.930004Z,deezerd,0.1.0,0,0,https://git.jharmison.dev/james/deezerd,"A headless Deezer daemon that plays decrypted audio through an in-process engine, with MPRIS, tray, and cloud queue sync"
+2026-10-17T13:58:42.86564Z,cudabom-sbom,0.1.0,0,0,https://github.com/cpeoples/cudabom,"CycloneDX 1.6 emit/enrich/merge, PEP 770 declared-SBOM reader, and CycloneDX VEX generation."
+2026-10-17T13:59:39.203951Z,beam-proto,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Prost/tonic-generated Rust types for Apache Beam's portability .proto files
+2026-10-17T13:59:42.750572Z,ironbeam-cloud-objects,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Provider-neutral URI object storage contract for Ironbeam
+2026-10-17T13:59:50.514633Z,ironbeam-cloud-object-store,5.0.0,0,0,https://github.com/nhubbard/ironbeam,"Opt-in S3, GCS, and Azure object storage adapters for Ironbeam"
+2026-10-17T13:59:53.471414Z,ironbeam-cloud-service-api,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Provider-neutral cloud service contracts for Ironbeam extensions
+2026-10-17T13:59:56.880272Z,ironbeam-cloud-fakes,5.0.0,0,0,https://github.com/nhubbard/ironbeam,Provider-neutral in-memory service implementations for Ironbeam tests
+2026-10-17T14:00:04.3261Z,epub-extract,1.1.0,0,0,https://github.com/pdfluent/pdfluent-sdk,EPUB content extraction: chapters in spine order as structured blocks
+2026-10-17T14:01:14.780944Z,py4uv,0.1.0,0,0,https://github.com/sbellon/py4uv,"Portable `py` launcher shim, backed by uv (no Python installation needed)"
+2026-10-17T14:03:00.112451Z,kala,1.0.0,0,0,https://codeberg.org/Valloric/kala,Timing with nanosecond precision on multiple architectures.
+2026-10-17T14:04:11.837369Z,ironbeam-cloud-gcp,5.0.0,0,0,https://github.com/nhubbard/ironbeam,"Google Cloud Storage, Pub/Sub, BigQuery, and Secret Manager clients for Ironbeam 5"
+2026-10-17T14:04:28.441347Z,pdfluent-cli,1.1.0,0,0,https://github.com/pdfluent/pdfluent-sdk,"PDFluent command-line interface: extract, merge, split, organise, compress, protect, watermark, convert, redact, sign and validate PDFs."
+2026-10-17T14:04:43.433377Z,pptx-extract,1.1.0,0,0,https://github.com/pdfluent/pdfluent-sdk,PowerPoint PPTX to pdf-engine block extraction (Epic #636 item 5)
+2026-10-17T14:04:57.302082Z,xlsx-extract,1.1.0,0,0,https://github.com/pdfluent/pdfluent-sdk,XLSX workbook extraction to pdf-engine blocks (pdfluent-internal#636 item 4)
+2026-10-17T14:05:11.219644Z,congestimancer,0.1.0-rc.1,0,0,https://github.com/pr0d1r2/congestimancer,"gate commands on machine congestion: wait until load, memory, disk, IO and other gates pass, then run"
+2026-10-17T14:05:40.324531Z,phantom-testkit,0.1.0,0,0,https://github.com/bywayhq/phantom,Deterministic wire capture helpers for Phantom tests
+2026-10-17T14:07:41.376Z,lovecov,1.0.0,0,0,https://github.com/alettsy/lovecov,"A simple, cross-platform lcov parser for generating various output formats"
+2026-10-17T14:08:43.590196Z,cudabom-advisory,0.1.0,0,0,https://github.com/cpeoples/cudabom,"NVIDIA CSAF advisory ingestion, normalization, local index, and version-range matching against identified components."
+2026-10-17T14:09:04.200502Z,mcp-sentinel,1.0.0,0,0,https://github.com/joutvhu/mcp-sentinel,Zero-Trust Secret Vault & Security Proxy for Model Context Protocol (MCP)
+2026-10-17T14:09:44.437239Z,deboa-multipart,0.1.0-beta.1,0,0,https://github.com/deboa-client/deboa-multipart,Utilities for handling multipart form with deboa
+2026-10-17T14:10:46.21466Z,bun_browser_dom,1.4.6,0,0,https://github.com/aphrody-labs/bun-os,Bun browser module bun_browser_dom.
+2026-10-17T14:10:46.802305Z,bun_browser_ssrf,1.4.6,0,0,https://github.com/aphrody-labs/bun-os,Shared SSRF deny-set and private-network opt-in for BunBrowser network transports and renderer.
+2026-10-17T14:12:53.195889Z,htmlcut-runtime,23.0.0,0,0,https://github.com/resoltico/HTMLCut,"Fail-closed extraction contracts for caller-owned HTML snapshots, with complete compact results."
+2026-10-17T14:12:58.718198Z,axeon-orm-macros,0.1.0,0,0,https://github.com/axeon-rs/axeon,Derive macros for axeon-orm
+2026-10-17T14:14:09.322334Z,axeon-orm,0.1.0,0,0,https://github.com/axeon-rs/axeon,"An Eloquent-style ORM for Rust on top of sqlx, with first-class Axeon integration"
+2026-10-17T14:15:03.191809Z,gpuq,0.2.0,0,0,https://github.com/elektricM/gpuq,"GPU scheduler for Linux: priority classes, leases and VRAM accounting for jobs and services"
+2026-10-17T14:16:26.567088Z,git-cow,0.1.0,0,0,https://github.com/gabrielkoerich/git-cow,"Git worktrees that share files with a template through copy-on-write clones (APFS, XFS, btrfs)"
+2026-10-17T14:17:24.354174Z,phantom-profile,0.1.0,0,0,https://github.com/bywayhq/phantom,Browser recipes and connection settings for Phantom
