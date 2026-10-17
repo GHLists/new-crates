@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T05:20:23.127407Z,bunsen-app,0.39.0,0,0,https://github.com/zspacelabs/bunsen,"Shared command-line plumbing for bunsen's binaries: device and precision selection, logging, shard selection, and the weights cache's flags and commands."
+2026-10-17T05:22:29.101433Z,kinavis-agri,0.1.0,0,0,https://github.com/KINAVIS/kinavis,"Field guidance for the KINAVIS navigation crates: a low-distortion field plane, AB lines, curves and pivot circles, parallel passes, tilt compensation, pass trackers, headland turns and section contr…"
+2026-10-17T05:27:33.412977Z,bmux_web_host,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Bounded domain-neutral loopback browser snapshot and viewport hosting
+2026-10-17T05:29:47.489038Z,huffman-cli,0.1.0,0,0,https://github.com/shivamkarna/huffman-cli,A small Huffman coding compressor and decompressor for text files
+2026-10-17T05:34:35.388807Z,llm-suite-types,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,Core model and helper types for llm-suite
+2026-10-17T05:34:43.549977Z,llm-suite-common,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,Shared utilities for the llm-suite crates
+2026-10-17T05:34:47.11192Z,llm-suite-proxy,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,Shared proxy construction for the llm-suite HTTP clients
+2026-10-17T05:34:53.450503Z,llm-suite-token,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,Token counting and handling for LLM messages
+2026-10-17T05:35:01.510663Z,llm-suite-message,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,LLM message construction and manipulation
+2026-10-17T05:37:34.655591Z,bmux_presenter_plugin,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Plugin-owned native presentation CLI and managed hosting
+2026-10-17T05:40:39.342757Z,dbmcp-ssh,0.15.0,0,0,https://github.com/haymon-ai/dbmcp,SSH tunnel for dbmcp
+2026-10-17T05:46:22.192628Z,llm-suite-tool-call,0.1.0,0,0,https://github.com/kkkqkx123/llm-suite,"Tool-call parsing and rendering (JSON partial, XML)"
+2026-10-17T05:47:33.355352Z,bmux_sidebar_plugin,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Bundled vertical tab presentation plugin for bmux
+2026-10-17T05:48:49.939557Z,malt-parser,0.1.1,0,0,https://github.com/panudetjt/tltk-rs,JVM-free Rust port of MaltParser 1.9.2's inference engine (arc-eager + MCSVM) — bit-exact parsing from a precompiled malt.bin blob
+2026-10-17T05:50:56.940936Z,tltk-core,0.1.1,0,0,,"Rust rewrite of TLTK (Thai Language Toolkit) inference primitives — modelless, deterministic"
+2026-10-17T05:53:25.876769Z,bunsen-asr,0.39.0,0,0,https://github.com/zspacelabs/bunsen,"Speech to text on bunsen, one subcommand per model family: Parakeet TDT (FermionResearch's Phonon-2 by default), Qwen3-ASR (Phonon-1), and Whisper."
+2026-10-17T05:57:33.965651Z,bmux_tab_bar_plugin,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Bundled horizontal tab presentation plugin for bmux
+2026-10-17T06:07:34.220141Z,bmux_tabs_plugin,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Shipped tabs plugin for bmux
+2026-10-17T06:15:21.826939Z,wolf-CLI,1.3.0,0,0,https://github.com/DA3M0/wolf,Local LLM chat and model inspection CLI powered by llama.cpp
+2026-10-17T06:17:33.243207Z,bmux_workspaces_plugin,0.0.1-alpha.3,0,0,https://github.com/BSteffaniak/bmux,Named workspace metadata and switching for bmux
+2026-10-17T06:17:38.323934Z,repame-l10n,0.3.22,0,0,https://github.com/mlm-games/repame,"runtime localization: catalogs, CLDR plurals, locale registry, missing-key reporting"
+2026-10-17T06:17:38.491596Z,repame-reflect,0.3.22,0,0,https://github.com/mlm-games/repame,"reflected component registry, RON world snapshots, and an inspectable component tree"
+2026-10-17T06:17:38.962241Z,repame-xr,0.3.22,0,0,https://github.com/mlm-games/repame,"XR: session lifecycle, reference spaces, stereo views, action sets, and the runtime seam"
+2026-10-17T06:17:41.819986Z,repame-net,0.3.22,0,0,https://github.com/mlm-games/repame,"game networking: TCP and reliable-UDP transports, channels, replication and RPC"
+2026-10-17T06:17:45.410524Z,repame-nav,0.3.22,0,0,https://github.com/mlm-games/repame,"Spatial navigation: heightfield navmesh bake, A* path queries, funnel corridors, agents, obstacles and links"
