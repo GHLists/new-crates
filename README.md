@@ -8,49 +8,65 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 11:18 UTC
+## Latest list — 2026-10-18 12:18 UTC
 
-New crates published between 2026-10-18 10:19 UTC and 2026-10-18 11:18 UTC.
+New crates published between 2026-10-18 11:18 UTC and 2026-10-18 12:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-18T11-18-43-324402Z.csv)
+[Full CSV](data/new-crates-2026-10-18T12-18-28-846373Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-18 10:26:04 | [mesquite_svelte](https://crates.io/crates/mesquite_svelte) | 0.1.0 | 0 | The Svelte grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-svelt… |
-| 2026-10-18 10:28:50 | [mineral-script](https://crates.io/crates/mineral-script) | 0.5.10 | 0 | daemon 音乐回调与 TUI 本地脚本的独立 Lua 执行宿主 |
-| 2026-10-18 10:31:25 | [arc_ref](https://crates.io/crates/arc_ref) | 0.1.0 | 0 | Zero-copy, reference-like projections of data owned by an Arc |
-| 2026-10-18 10:36:04 | [mesquite_swift](https://crates.io/crates/mesquite_swift) | 0.1.0 | 0 | The Swift grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-swift… |
-| 2026-10-18 10:38:50 | [mineral-client](https://crates.io/crates/mineral-client) | 0.5.10 | 0 | Mineral 与传输无关的 client 会话核心:请求合批、结果配对、状态镜像与 PCM 窗口 |
-| 2026-10-18 10:39:56 | [ek-risk](https://crates.io/crates/ek-risk) | 0.1.0 | 0 | Pre-trade risk gates for the ek ecosystem: assemblable RiskGate implementations… |
-| 2026-10-18 10:41:10 | [costerra](https://crates.io/crates/costerra) | 0.1.0 | 0 | Fast cost estimates and optimization insights for Google Cloud Terraform & Terr… |
-| 2026-10-18 10:41:40 | [living-blueprint](https://crates.io/crates/living-blueprint) | 0.1.0 | 0 | A semantically zoomable, living blueprint of source code |
-| 2026-10-18 10:46:04 | [mesquite_toml](https://crates.io/crates/mesquite_toml) | 0.1.0 | 0 | The TOML grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-toml-ng… |
-| 2026-10-18 10:46:38 | [netlink-packet-macsec](https://crates.io/crates/netlink-packet-macsec) | 0.1.0 | 0 | MACsec generic netlink packet definitions |
-| 2026-10-18 10:48:05 | [wackysnek](https://crates.io/crates/wackysnek) | 0.1.0 | 0 | Full-screen terminal snake: power-ups, chaos, mazes, two players and a 3D mode,… |
-| 2026-10-18 10:48:05 | [gpui-styleguidist-manifest](https://crates.io/crates/gpui-styleguidist-manifest) | 0.1.1 | 0 | Snapshot manifest format shared by gpui-styleguidist and its doc macros. |
-| 2026-10-18 10:48:08 | [cargo-styleguide](https://crates.io/crates/cargo-styleguide) | 0.1.1 | 0 | Builds a gpui-styleguidist styleguide to WebAssembly as a static site. |
-| 2026-10-18 10:48:08 | [gpui-styleguidist-macros](https://crates.io/crates/gpui-styleguidist-macros) | 0.1.1 | 0 | Macros for gpui-styleguidist: rustdoc previews and example source capture. |
-| 2026-10-18 10:48:11 | [gpui-styleguidist](https://crates.io/crates/gpui-styleguidist) | 0.1.1 | 0 | A living styleguide for GPUI components: a Styleguidist-style wasm playground,… |
-| 2026-10-18 10:48:54 | [mineral-server](https://crates.io/crates/mineral-server) | 0.5.10 | 0 | Mineral 后台 server:收纳 audio engine + task scheduler + channels,对外发 ClientHandle |
-| 2026-10-18 10:49:52 | [cargo-guard](https://crates.io/crates/cargo-guard) | 0.0.1 | 0 | Cargo build script allow list |
-| 2026-10-18 10:51:38 | [sol-trade-router-sdk](https://crates.io/crates/sol-trade-router-sdk) | 0.2.0 | 0 | Client SDK for sol-trade-router-sdk — simple multi-hop buys/sells with no RPC o… |
-| 2026-10-18 10:52:08 | [yog-ids](https://crates.io/crates/yog-ids) | 0.1.0 | 0 | Yog's shared names — namespaces, content kinds, schemes, separators, its own id… |
-| 2026-10-18 10:53:20 | [tombit](https://crates.io/crates/tombit) | 0.0.0 | 0 | Toolkit for tombi |
-| 2026-10-18 10:53:52 | [yog-media](https://crates.io/crates/yog-media) | 0.2.0 | 0 | Yog's media as the game takes it: pictures in any format decoded and written as… |
-| 2026-10-18 10:56:05 | [mesquite_verilog](https://crates.io/crates/mesquite_verilog) | 0.1.0 | 0 | The Verilog grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-veri… |
-| 2026-10-18 10:58:50 | [mineral-channel-local](https://crates.io/crates/mineral-channel-local) | 0.5.10 | 0 | Local filesystem music library and playback |
-| 2026-10-18 11:03:56 | [ijsbakje](https://crates.io/crates/ijsbakje) | 1.0.0 | 0 | Simple webui for your personal git forge. |
-| 2026-10-18 11:06:05 | [mesquite_xml](https://crates.io/crates/mesquite_xml) | 0.1.0 | 0 | The XML grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-xml 0.7.0 |
-| 2026-10-18 11:08:54 | [mineral-channel-netease](https://crates.io/crates/mineral-channel-netease) | 0.5.10 | 0 | Mineral 的一个 channel 实现(加密 + cookie + 端点) |
-| 2026-10-18 11:10:45 | [cqlx-core](https://crates.io/crates/cqlx-core) | 0.1.0 | 0 | Core traits, metadata, type-state query plumbing and session wrapper for cqlx,… |
-| 2026-10-18 11:11:25 | [cqlx-macros](https://crates.io/crates/cqlx-macros) | 0.1.0 | 0 | Procedural macros for cqlx: #[derive(CqlEntity)] with type-state query builders |
-| 2026-10-18 11:11:43 | [sbpf-eye](https://crates.io/crates/sbpf-eye) | 0.1.0 | 0 | A CLI for inspecting Solana sBPF binaries and comparing compiler output |
-| 2026-10-18 11:12:02 | [cqlx](https://crates.io/crates/cqlx) | 0.1.0 | 0 | Typesafe, zero-overhead, code-first ORM for ScyllaDB and Cassandra built on pro… |
-| 2026-10-18 11:12:10 | [cqlx-cli](https://crates.io/crates/cqlx-cli) | 0.1.0 | 0 | Extracts CqlEntity schemas from Rust source, generates CREATE TABLE CQL and dif… |
-| 2026-10-18 11:12:20 | [cql-ai-model](https://crates.io/crates/cql-ai-model) | 0.1.0 | 0 | Tiny Transformer encoder over cqlc-core lexer tokens that detects CQL anti-patt… |
-| 2026-10-18 11:16:04 | [mesquite_yaml](https://crates.io/crates/mesquite_yaml) | 0.1.0 | 0 | The YAML grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-yaml 0.… |
-| 2026-10-18 11:17:18 | [pywire-python-ast](https://crates.io/crates/pywire-python-ast) | 0.1.0 | 0 | Owned Rust representations of the Python 3.14 AST, decoded from PyWire Protocol… |
-| 2026-10-18 11:18:35 | [gq](https://crates.io/crates/gq) | 0.1.0 | 0 | GPU job runner that selects idle cards and runs commands with CUDA_VISIBLE_DEVI… |
+| 2026-10-18 11:18:54 | [mineral-tui](https://crates.io/crates/mineral-tui) | 0.5.10 | 0 | Mineral 的 ratatui TUI 前端 |
+| 2026-10-18 11:19:12 | [cql-ai-train](https://crates.io/crates/cql-ai-train) | 0.1.0 | 0 | Synthetic CQL dataset generator (labelled by cqlc-core) and training loop for t… |
+| 2026-10-18 11:25:25 | [kugelaudio](https://crates.io/crates/kugelaudio) | 0.1.0 | 0 | Official Rust SDK for the KugelAudio text-to-speech and speech enhancement API |
+| 2026-10-18 11:26:04 | [mesquite_zig](https://crates.io/crates/mesquite_zig) | 0.1.0 | 0 | The Zig grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-zig 1.1.2 |
+| 2026-10-18 11:26:10 | [dataferry-connector-tls](https://crates.io/crates/dataferry-connector-tls) | 0.1.0-beta.1 | 0 | The TLS policy shared by dataferry connectors |
+| 2026-10-18 11:26:24 | [dataferry-core](https://crates.io/crates/dataferry-core) | 0.1.0-beta.1 | 0 | Core types and contracts shared by every dataferry crate |
+| 2026-10-18 11:26:30 | [dataferry-registry](https://crates.io/crates/dataferry-registry) | 0.1.0-beta.1 | 0 | Connector registry, connection options and the state-capable extension for data… |
+| 2026-10-18 11:27:15 | [dataferry-connector-mongo](https://crates.io/crates/dataferry-connector-mongo) | 0.1.0-beta.1 | 0 | MongoDB source for dataferry |
+| 2026-10-18 11:27:20 | [dataferry-state](https://crates.io/crates/dataferry-state) | 0.1.0-beta.1 | 0 | Run, partition and lease state store for dataferry |
+| 2026-10-18 11:27:22 | [weft-parts](https://crates.io/crates/weft-parts) | 0.0.1 | 0 | Machine-readable chip data (pinouts, address straps, device tree facts) and beh… |
+| 2026-10-18 11:27:45 | [weft-boardchecker](https://crates.io/crates/weft-boardchecker) | 0.0.1 | 0 | Checks a PCB netlist (IPC-2581 or IPC-D-356A) against a Linux device tree overl… |
+| 2026-10-18 11:27:51 | [weft-verifier](https://crates.io/crates/weft-verifier) | 0.0.1 | 0 | Experimental. Trusted core of weft: verifies signed documents and delegations a… |
+| 2026-10-18 11:28:52 | [mineral-cli](https://crates.io/crates/mineral-cli) | 0.5.10 | 0 | Mineral 命令行入口(login / debug 工具) |
+| 2026-10-18 11:29:20 | [cql-ai-cli](https://crates.io/crates/cql-ai-cli) | 0.1.0 | 0 | CI/CD linter that flags CQL anti-patterns with a tiny Transformer running on le… |
+| 2026-10-18 11:29:51 | [ducktape-laya-sys](https://crates.io/crates/ducktape-laya-sys) | 0.1.0 | 0 | Embedded Laya GGUF decisions through a shared native C ABI |
+| 2026-10-18 11:29:54 | [ducktape-laya](https://crates.io/crates/ducktape-laya) | 0.1.0 | 0 | Embedded Laya GGUF decisions through a shared native C ABI |
+| 2026-10-18 11:33:13 | [authway-native](https://crates.io/crates/authway-native) | 0.1.0 | 0 | Sign a desktop or command-line app's user in with the system browser (OAuth 2.0… |
+| 2026-10-18 11:35:35 | [expat](https://crates.io/crates/expat) | 0.1.0-beta.1 | 0 | Memory-safe Rust port of the libexpat XML parser, verified against the C refere… |
+| 2026-10-18 11:36:11 | [khive-lion-core](https://crates.io/crates/khive-lion-core) | 0.4.0 | 0 | Lion microkernel — production types, state machine, and kernel API |
+| 2026-10-18 11:36:37 | [mesquite_jsdoc](https://crates.io/crates/mesquite_jsdoc) | 0.1.0 | 0 | The JSDoc grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-jsdoc… |
+| 2026-10-18 11:38:41 | [dataferry-connector-postgres](https://crates.io/crates/dataferry-connector-postgres) | 0.1.0-beta.1 | 0 | Postgres source and sink for dataferry |
+| 2026-10-18 11:39:08 | [mineral](https://crates.io/crates/mineral) | 0.5.10 | 0 | 多源终端音乐播放器(ratatui),支持本地与云端音乐 |
+| 2026-10-18 11:40:24 | [bcode_settings](https://crates.io/crates/bcode_settings) | 0.0.1-alpha.0 | 0 | Settings database persistence for Bcode |
+| 2026-10-18 11:40:29 | [bcode_skill](https://crates.io/crates/bcode_skill) | 0.0.1-alpha.0 | 0 | Skill discovery, parsing, and registry for bcode |
+| 2026-10-18 11:40:35 | [bcode_skills_plugin](https://crates.io/crates/bcode_skills_plugin) | 0.0.1-alpha.0 | 0 | skills command palette plugin for bcode |
+| 2026-10-18 11:40:41 | [bcode_tantivy_session_search_plugin](https://crates.io/crates/bcode_tantivy_session_search_plugin) | 0.0.1-alpha.0 | 0 | Optional Tantivy transcript search provider for bcode |
+| 2026-10-18 11:40:47 | [bcode_usage](https://crates.io/crates/bcode_usage) | 0.0.1-alpha.0 | 0 | Checked usage aggregation and export for Bcode |
+| 2026-10-18 11:46:05 | [arko_ai](https://crates.io/crates/arko_ai) | 0.1.0 | 0 | Clients for language models from OpenAI, Anthropic, Google Gemini, OpenRouter a… |
+| 2026-10-18 11:46:22 | [cargo-legato](https://crates.io/crates/cargo-legato) | 0.1.0 | 0 | Scaffold new Legato audio applications with `cargo legato init` |
+| 2026-10-18 11:47:33 | [bcode_usage_plugin](https://crates.io/crates/bcode_usage_plugin) | 0.0.1-alpha.0 | 0 | Usage dashboard plugin for Bcode |
+| 2026-10-18 11:48:30 | [pulse-tui](https://crates.io/crates/pulse-tui) | 0.3.0 | 0 | A production-grade terminal system monitor with an animated cyberpunk TUI |
+| 2026-10-18 11:50:00 | [dataferry-runtime](https://crates.io/crates/dataferry-runtime) | 0.1.0-beta.1 | 0 | The dataferry runner: lease, read, transform, write and commit each partition |
+| 2026-10-18 11:50:53 | [actordb-protocol](https://crates.io/crates/actordb-protocol) | 0.4.0 | 0 | Language-neutral peer and application wire contracts for ActorDB |
+| 2026-10-18 11:50:55 | [actordb-query](https://crates.io/crates/actordb-query) | 0.4.0 | 0 | Portable bounded query plans and SQL syntax for actordb |
+| 2026-10-18 11:51:06 | [actordb-client](https://crates.io/crates/actordb-client) | 0.4.0 | 0 | Async Rust companion client for ActorDB's application listener |
+| 2026-10-18 11:56:05 | [arko_agents](https://crates.io/crates/arko_agents) | 0.1.0 | 0 | A runtime for tool-using language model agents, with built-in tools, MCP server… |
+| 2026-10-18 11:57:32 | [bcode_vim_edit](https://crates.io/crates/bcode_vim_edit) | 0.0.1-alpha.0 | 0 | Neovim RPC backed Vim editing for bcode |
+| 2026-10-18 11:59:58 | [elfmint](https://crates.io/crates/elfmint) | 0.2.0 | 0 | Fail-soft ELF metadata validator with loader-referenced, threat-classified chec… |
+| 2026-10-18 12:00:56 | [api-manifest-derive](https://crates.io/crates/api-manifest-derive) | 0.2.1 | 0 | Derive macros for api-manifest configuration traits |
+| 2026-10-18 12:00:57 | [api-manifest](https://crates.io/crates/api-manifest) | 0.2.1 | 0 | AST-driven public API manifest generator and drift detector for Rust |
+| 2026-10-18 12:01:20 | [dataferry-verify](https://crates.io/crates/dataferry-verify) | 0.1.0-beta.1 | 0 | The dataferry verifier: read-time counts, multiset checksums, constraint checks… |
+| 2026-10-18 12:03:09 | [xorany-macros](https://crates.io/crates/xorany-macros) | 0.1.0 | 0 | Proc-macro backend for the xorany crate. Do not use directly. |
+| 2026-10-18 12:03:37 | [xorany](https://crates.io/crates/xorany) | 0.1.1 | 0 | A compile-time string obfuscator for Rust, based on oxorany |
+| 2026-10-18 12:06:05 | [arko_workflows](https://crates.io/crates/arko_workflows) | 0.1.0 | 0 | Multi-agent workflows in plain Rust, with shared memory, messaging, budgets, ho… |
+| 2026-10-18 12:07:32 | [bcode_vim_edit_plugin](https://crates.io/crates/bcode_vim_edit_plugin) | 0.0.1-alpha.0 | 0 | Vim/Neovim edit tool plugin for bcode |
+| 2026-10-18 12:09:45 | [s3dal](https://crates.io/crates/s3dal) | 0.1.0 | 0 | Expose any Apache OpenDAL backend as an S3-compatible endpoint |
+| 2026-10-18 12:13:47 | [dataferry-dsl](https://crates.io/crates/dataferry-dsl) | 0.1.0-beta.1 | 0 | dataferry configuration model, expression language and planner |
+| 2026-10-18 12:15:06 | [dataferry](https://crates.io/crates/dataferry) | 0.1.0-beta.1 | 0 | Data migration engine: move and reshape data from MongoDB and Postgres into Pos… |
+| 2026-10-18 12:16:07 | [arko_index](https://crates.io/crates/arko_index) | 0.3.0 | 0 | Splits source repositories into chunks along their syntax, searches them lexica… |
+| 2026-10-18 12:17:33 | [bcode_web_search_plugin](https://crates.io/crates/bcode_web_search_plugin) | 0.0.1-alpha.0 | 0 | web search and fetch tool plugin for bcode |
+| 2026-10-18 12:18:24 | [pi-poker-eval](https://crates.io/crates/pi-poker-eval) | 0.1.0 | 0 | Poker hand evaluation for Texas Hold'em and Omaha (PLO, PLO5, PLO6): hand ranki… |
 
 ## Data source
 

@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T11:18:54.806835Z,mineral-tui,0.5.10,0,0,https://github.com/10knamesmore/Mineral,Mineral 的 ratatui TUI 前端
+2026-10-18T11:19:12.16307Z,cql-ai-train,0.1.0,0,0,https://github.com/Max-imalgutaussehend/cql-ai,Synthetic CQL dataset generator (labelled by cqlc-core) and training loop for the cql-ai anti-pattern Transformer
+2026-10-18T11:25:25.2317Z,kugelaudio,0.1.0,0,0,https://github.com/Kugelaudio/rust-sdk,Official Rust SDK for the KugelAudio text-to-speech and speech enhancement API
+2026-10-18T11:26:04.742297Z,mesquite_zig,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Zig grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-zig 1.1.2"
+2026-10-18T11:26:10.924446Z,dataferry-connector-tls,0.1.0-beta.1,0,0,https://github.com/0xvasanth/dataferry,The TLS policy shared by dataferry connectors
+2026-10-18T11:26:24.553329Z,dataferry-core,0.1.0-beta.1,0,0,https://github.com/0xvasanth/dataferry,Core types and contracts shared by every dataferry crate
+2026-10-18T11:26:30.13437Z,dataferry-registry,0.1.0-beta.1,0,0,https://github.com/0xvasanth/dataferry,"Connector registry, connection options and the state-capable extension for dataferry"
+2026-10-18T11:27:15.680508Z,dataferry-connector-mongo,0.1.0-beta.1,0,0,https://github.com/0xvasanth/dataferry,MongoDB source for dataferry
+2026-10-18T11:27:20.382026Z,dataferry-state,0.1.0-beta.1,0,0,https://github.com/0xvasanth/dataferry,"Run, partition and lease state store for dataferry"
+2026-10-18T11:27:22.908582Z,weft-parts,0.0.1,0,0,https://github.com/theweft/weft-parts,"Machine-readable chip data (pinouts, address straps, device tree facts) and behavioural I2C/SPI models for board checks and driver tests."
+2026-10-18T11:27:45.755016Z,weft-boardchecker,0.0.1,0,0,https://github.com/theweft/weft-boardchecker,"Checks a PCB netlist (IPC-2581 or IPC-D-356A) against a Linux device tree overlay: buses, addresses, chip selects and GPIOs."
+2026-10-18T11:27:51.559191Z,weft-verifier,0.0.1,0,0,https://github.com/theweft/weft-verifier,"Experimental. Trusted core of weft: verifies signed documents and delegations and decides desired state, offline and deterministically."
+2026-10-18T11:28:52.743138Z,mineral-cli,0.5.10,0,0,https://github.com/10knamesmore/Mineral,Mineral 命令行入口(login / debug 工具)
+2026-10-18T11:29:20.184681Z,cql-ai-cli,0.1.0,0,0,https://github.com/Max-imalgutaussehend/cql-ai,CI/CD linter that flags CQL anti-patterns with a tiny Transformer running on lexer tokens; fetches weights from Hugging Face
+2026-10-18T11:29:51.005936Z,ducktape-laya-sys,0.1.0,0,0,,Embedded Laya GGUF decisions through a shared native C ABI
+2026-10-18T11:29:54.051661Z,ducktape-laya,0.1.0,0,0,,Embedded Laya GGUF decisions through a shared native C ABI
+2026-10-18T11:33:13.570531Z,authway-native,0.1.0,0,0,https://github.com/iyulab/Authway,"Sign a desktop or command-line app's user in with the system browser (OAuth 2.0 for Native Apps: loopback redirect + PKCE), keep the tokens in a store the app chooses, and refresh them before they ex…"
+2026-10-18T11:35:35.60839Z,expat,0.1.0-beta.1,0,0,https://github.com/chemicalpeace/expat-parity,"Memory-safe Rust port of the libexpat XML parser, verified against the C reference"
+2026-10-18T11:36:11.199704Z,khive-lion-core,0.4.0,0,0,https://github.com/ohdearquant/khive,"Lion microkernel — production types, state machine, and kernel API"
+2026-10-18T11:36:37.539111Z,mesquite_jsdoc,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The JSDoc grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-jsdoc 0.23.2"
+2026-10-18T11:38:41.236876Z,dataferry-connector-postgres,0.1.0-beta.1,0,0,https://github.com/0xvasanth/dataferry,Postgres source and sink for dataferry
+2026-10-18T11:39:08.308451Z,mineral,0.5.10,0,0,https://github.com/10knamesmore/Mineral,"多源终端音乐播放器(ratatui),支持本地与云端音乐"
+2026-10-18T11:40:24.141828Z,bcode_settings,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Settings database persistence for Bcode
+2026-10-18T11:40:29.66431Z,bcode_skill,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,"Skill discovery, parsing, and registry for bcode"
+2026-10-18T11:40:35.284673Z,bcode_skills_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,skills command palette plugin for bcode
+2026-10-18T11:40:41.695834Z,bcode_tantivy_session_search_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Optional Tantivy transcript search provider for bcode
+2026-10-18T11:40:47.997605Z,bcode_usage,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Checked usage aggregation and export for Bcode
+2026-10-18T11:46:05.418028Z,arko_ai,0.1.0,0,0,https://github.com/mesa-hills-research/arko_framework,"Clients for language models from OpenAI, Anthropic, Google Gemini, OpenRouter and Claude Code, with streaming, tool calls, usage and cost"
+2026-10-18T11:46:22.369976Z,cargo-legato,0.1.0,0,0,https://github.com/legato-dsp/legato,Scaffold new Legato audio applications with `cargo legato init`
+2026-10-18T11:47:33.126754Z,bcode_usage_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Usage dashboard plugin for Bcode
+2026-10-18T11:48:30.551576Z,pulse-tui,0.3.0,0,0,https://github.com/OminduD/pulse,A production-grade terminal system monitor with an animated cyberpunk TUI
+2026-10-18T11:50:00.153435Z,dataferry-runtime,0.1.0-beta.1,0,0,https://github.com/0xvasanth/dataferry,"The dataferry runner: lease, read, transform, write and commit each partition"
+2026-10-18T11:50:53.308441Z,actordb-protocol,0.4.0,0,0,,Language-neutral peer and application wire contracts for ActorDB
+2026-10-18T11:50:55.135511Z,actordb-query,0.4.0,0,0,https://github.com/slawlor/actordb,Portable bounded query plans and SQL syntax for actordb
+2026-10-18T11:51:06.617517Z,actordb-client,0.4.0,0,0,,Async Rust companion client for ActorDB's application listener
+2026-10-18T11:56:05.803099Z,arko_agents,0.1.0,0,0,https://github.com/mesa-hills-research/arko_framework,"A runtime for tool-using language model agents, with built-in tools, MCP servers, skills, terminals and approvals"
+2026-10-18T11:57:32.959695Z,bcode_vim_edit,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Neovim RPC backed Vim editing for bcode
+2026-10-18T11:59:58.282033Z,elfmint,0.2.0,0,0,https://github.com/SoftengPoliTo/elfmint,"Fail-soft ELF metadata validator with loader-referenced, threat-classified checks"
+2026-10-18T12:00:56.154187Z,api-manifest-derive,0.2.1,0,0,https://github.com/drmartinwimmer/api-manifest,Derive macros for api-manifest configuration traits
+2026-10-18T12:00:57.655355Z,api-manifest,0.2.1,0,0,https://github.com/drmartinwimmer/api-manifest,AST-driven public API manifest generator and drift detector for Rust
+2026-10-18T12:01:20.902571Z,dataferry-verify,0.1.0-beta.1,0,0,https://github.com/0xvasanth/dataferry,"The dataferry verifier: read-time counts, multiset checksums, constraint checks and the run report"
+2026-10-18T12:03:09.218725Z,xorany-macros,0.1.0,0,0,https://github.com/clauadv/xorany,Proc-macro backend for the xorany crate. Do not use directly.
+2026-10-18T12:03:37.09494Z,xorany,0.1.1,0,0,https://github.com/clauadv/xorany,"A compile-time string obfuscator for Rust, based on oxorany"
+2026-10-18T12:06:05.357788Z,arko_workflows,0.1.0,0,0,https://github.com/mesa-hills-research/arko_framework,"Multi-agent workflows in plain Rust, with shared memory, messaging, budgets, hooks, verification and persistence"
+2026-10-18T12:07:32.493832Z,bcode_vim_edit_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Vim/Neovim edit tool plugin for bcode
+2026-10-18T12:09:45.382109Z,s3dal,0.1.0,0,0,https://github.com/linzeyan/s3dal,Expose any Apache OpenDAL backend as an S3-compatible endpoint
+2026-10-18T12:13:47.498896Z,dataferry-dsl,0.1.0-beta.1,0,0,https://github.com/0xvasanth/dataferry,"dataferry configuration model, expression language and planner"
+2026-10-18T12:15:06.542369Z,dataferry,0.1.0-beta.1,0,0,https://github.com/0xvasanth/dataferry,"Data migration engine: move and reshape data from MongoDB and Postgres into Postgres, resumably, one committed partition at a time. The `dataferry` command line."
+2026-10-18T12:16:07.886549Z,arko_index,0.3.0,0,0,https://github.com/mesa-hills-research/arko_framework,"Splits source repositories into chunks along their syntax, searches them lexically, densely or both, and keeps them current with file watchers"
+2026-10-18T12:17:33.276024Z,bcode_web_search_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,web search and fetch tool plugin for bcode
+2026-10-18T12:18:24.022684Z,pi-poker-eval,0.1.0,0,0,https://github.com/pokerinfra/poker-eval,"Poker hand evaluation for Texas Hold'em and Omaha (PLO, PLO5, PLO6): hand ranking, winners, hand descriptions and equity."
