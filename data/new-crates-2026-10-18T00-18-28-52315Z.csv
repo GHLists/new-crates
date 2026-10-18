@@ -1,0 +1,53 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-17T23:21:48.411936Z,postvak-core,0.3.0,0,0,https://github.com/postvak-app/postvak,"Postvak's sync, store, rules and daemon, shared by its command line, window and MCP server"
+2026-10-17T23:21:51.469615Z,postvak-gui,0.3.0,0,0,https://github.com/postvak-app/postvak,"A fast, simple mail client with automatic mailbox rules"
+2026-10-17T23:21:52.178145Z,postvak-mcp,0.3.0,0,0,https://github.com/postvak-app/postvak,"Postvak's MCP server: mail and rules for agents, limited by scopes"
+2026-10-17T23:26:08.047592Z,puregit,0.0.1,0,0,https://github.com/KarpelesLab/puregit,"A pure-Rust implementation of git, in the spirit of libgit2, built on purecrypto. Object model, packfiles, refs, and the smart transport over HTTP and SSH — client and server."
+2026-10-17T23:27:32.496922Z,metrale-comm,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"Metrale Engine: collective-operation backends (NCCL, single-GPU)."
+2026-10-17T23:27:32.646736Z,bcode_worktree_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Shared worktree models for bcode
+2026-10-17T23:29:41.134999Z,wesldoc_resolver_cargo,0.1.0,0,0,https://github.com/jannik4/wesldoc,WESL documentation generator
+2026-10-17T23:31:55.172972Z,yaal,0.13.0,0,0,https://github.com/kirubasankars/yaal,Yaal SQL compiler
+2026-10-17T23:31:58.343227Z,yaal-cli,0.13.0,0,0,https://github.com/kirubasankars/yaal,Yaal SQL compiler CLI
+2026-10-17T23:37:32.79059Z,bcode_ipc,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Client/server IPC protocol for bcode
+2026-10-17T23:37:33.168021Z,metrale-telemetry,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"Metrale Engine: run metrics, kernel audit, launch trace, progress hooks, and the metal-up instruments (NVML device sampling, energy attribution, GPU spans, scheduler/request telemetry) with their exp…"
+2026-10-17T23:38:13.393017Z,rs-strings2offsets,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-strings2offsets,Convert delimited strings to cumulative offsets
+2026-10-17T23:40:02.045587Z,wesldoc_resolver_auto,0.1.0,0,0,https://github.com/jannik4/wesldoc,WESL documentation generator
+2026-10-17T23:42:22.643077Z,bupha-queue-redb,0.1.0,0,0,https://github.com/9aia/bupha,"QueueStore impl: redb embedded store (single file, ACID)"
+2026-10-17T23:42:31.044191Z,bupha-service,0.1.0,0,0,https://github.com/9aia/bupha,Service port: OS service lifecycle
+2026-10-17T23:42:36.992227Z,bupha-github,0.1.0,0,0,https://github.com/9aia/bupha,GitHub impl: push-webhook trigger + commit-status sink
+2026-10-17T23:42:41.795797Z,bupha-git,0.1.0,0,0,https://github.com/9aia/bupha,Vcs impl: git via the git CLI
+2026-10-17T23:42:45.746173Z,bupha-dotenv,0.1.0,0,0,https://github.com/9aia/bupha,Secret impl: KEY=VAL env file (chmod 600)
+2026-10-17T23:43:03.622633Z,quat_ui,0.3.0,0,0,https://github.com/strahinjastojanovic826-code/quat_ui,"A high-performance, modular UI library in Rust leveraging quaternary logic (2-bit states) with FFI support for C#, Python, and C++."
+2026-10-17T23:47:33.60611Z,bcode_daemon_lifecycle,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Daemon lifecycle registry and cleanup models for bcode
+2026-10-17T23:47:36.606652Z,metrale-storage,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"Metrale Engine: GDS/RDMA tiers, expert paging, cache peers, tiered-cache core (SlotArena/SwapStore/Residency)."
+2026-10-17T23:48:06.08119Z,bupha-shell,0.1.0,0,0,https://github.com/9aia/bupha,Runner impl: bash -c <cmd> per job — no containers
+2026-10-17T23:49:35.522607Z,ultralytics-rust-core,0.1.0,0,0,https://github.com/javpower/ultralytics-rust,"A complete pure-Rust reimplementation of Ultralytics YOLO: train, val, predict and export for the full YOLO family (v3/v5/v8/v9/v10/v11/v12/v26), zero Python dependency."
+2026-10-17T23:50:21.330779Z,ultralytics-rust-data,0.1.0,0,0,https://github.com/javpower/ultralytics-rust,"A complete pure-Rust reimplementation of Ultralytics YOLO: train, val, predict and export for the full YOLO family (v3/v5/v8/v9/v10/v11/v12/v26), zero Python dependency."
+2026-10-17T23:50:47.749789Z,ultralytics-rust-nn,0.1.0,0,0,https://github.com/javpower/ultralytics-rust,"A complete pure-Rust reimplementation of Ultralytics YOLO: train, val, predict and export for the full YOLO family (v3/v5/v8/v9/v10/v11/v12/v26), zero Python dependency."
+2026-10-17T23:51:16.155913Z,wesldoc,0.1.0,0,0,https://github.com/jannik4/wesldoc,WESL documentation generator
+2026-10-17T23:51:25.596589Z,ultralytics-rust-engine,0.1.0,0,0,https://github.com/javpower/ultralytics-rust,"A complete pure-Rust reimplementation of Ultralytics YOLO: train, val, predict and export for the full YOLO family (v3/v5/v8/v9/v10/v11/v12/v26), zero Python dependency."
+2026-10-17T23:52:50.018769Z,ultralytics-rust,0.1.0,0,0,https://github.com/javpower/ultralytics-rust,"A complete pure-Rust reimplementation of Ultralytics YOLO: train, val, predict and export for the full YOLO family (v3/v5/v8/v9/v10/v11/v12/v26), zero Python dependency."
+2026-10-17T23:53:48.833127Z,cuaca,1.0.0,0,0,https://github.com/rafiyq/cuaca-rs,"Pure-logic core of the cuaca weather toolchain: typed BMKG forecast models, Waybar and terminal rendering, weather icons, localization, and forecast statistics"
+2026-10-17T23:57:32.561138Z,bcode_provider_auth,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Provider auth materialization helpers for bcode
+2026-10-17T23:57:49.124226Z,bupha-ssh,0.1.0,0,0,https://github.com/9aia/bupha,Runner impl: remote execution over ssh (rsync worktree + run)
+2026-10-18T00:00:15.271358Z,vrtb-core,0.1.0,0,0,https://github.com/mouadja02/veritable,"Core traits, error types and comparison planning for veritable, a cross-database table comparison tool"
+2026-10-18T00:00:17.594258Z,vrtb-utils,0.1.0,0,0,https://github.com/mouadja02/veritable,SQL builders shared by the veritable database adapters
+2026-10-18T00:00:20.046011Z,vrtb-duck,0.1.0,0,0,https://github.com/mouadja02/veritable,DuckDB adapter for veritable
+2026-10-18T00:00:20.688323Z,vrtb-pg,0.1.0,0,0,https://github.com/mouadja02/veritable,PostgreSQL adapter for veritable
+2026-10-18T00:00:22.18339Z,metrale-kernels,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,Metrale Engine CUDA kernel PTX — compiled from kernels/{hw}/{model}/{quant}/*.cu
+2026-10-18T00:00:22.77372Z,veritable,0.1.0,0,0,https://github.com/mouadja02/veritable,"Prove whether two database tables hold the same data: local-first, single-binary table comparison for PostgreSQL and DuckDB"
+2026-10-18T00:02:35.55091Z,semantic-operators,0.1.0-alpha.1,0,0,https://github.com/jasonduncan/semantic-operators-rs,"Provider-neutral semantic operators with typed, confidence-aware answers"
+2026-10-18T00:03:19.794545Z,nanofix,0.1.0,0,0,https://github.com/matthart1983/nanofix,"Low-latency FIX protocol engine: zero-copy parser, serializer, sessions and TCP transport"
+2026-10-18T00:03:21.340681Z,nanofix-sbe,0.1.0,0,0,https://github.com/matthart1983/nanofix,SBE codecs for nanofix's Aeron envelope and normalized order messages (generated by sbetool)
+2026-10-18T00:03:23.706112Z,nanofix-aeron,0.1.0,0,0,https://github.com/matthart1983/nanofix,"Aeron IPC/UDP transport for nanofix, with FIX-to-SBE normalization"
+2026-10-18T00:07:19.958933Z,bupha-cloudflared,0.1.0,0,0,https://github.com/9aia/bupha,"Tunnel impl: cloudflared (named tunnel preferred, quick tunnel fallback)"
+2026-10-18T00:07:33.975287Z,bcode_client,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Programmatic client API for bcode
+2026-10-18T00:07:43.715417Z,metrale-bench,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,Metrale Engine: plugin + benchmark abstraction and registry driven by the met TUI
+2026-10-18T00:08:59.250051Z,sidermux-pac,0.1.0,0,0,https://github.com/sidermux/sidermux-hal,Typed peripheral register access for SoC FPGAs
+2026-10-18T00:09:00.330031Z,sidermux-rt,0.1.0,0,0,https://github.com/sidermux/sidermux-hal,"Runtime startup for sidermux targets, selected per architecture"
+2026-10-18T00:09:02.662393Z,sidermux-hal,0.1.0,0,0,https://github.com/sidermux/sidermux-hal,"Bare-metal HAL for SoC FPGAs: one interface, many architectures and boards"
+2026-10-18T00:09:04.616513Z,sidermux-bsp,0.1.0,0,0,https://github.com/sidermux/sidermux-hal,Board support and initialization for sidermux
+2026-10-18T00:09:07.299931Z,sidermux-bootloader,0.1.0,0,0,https://github.com/sidermux/sidermux-hal,Bootable image flow for sidermux targets
+2026-10-18T00:17:24.832871Z,bupha-systemd,0.1.0,0,0,https://github.com/9aia/bupha,Service impl: systemd user units
+2026-10-18T00:17:33.118777Z,bcode_blims_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Blims AI company simulator plugin for bcode
+2026-10-18T00:17:39.801159Z,metrale-circuit,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"Architecture circuits: an op graph per model, the fusion rules that cover it, and the fused plan."
