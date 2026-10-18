@@ -1,0 +1,59 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T13:19:47.696296Z,elevate-ti,0.1.0,0,0,https://github.com/Z7K9T2Y5X8V4N1Q6P0M3L8R2S9W5H1G7J4D6C0F/elevate-ti,"A safe, idiomatic Rust library to obtain Windows TrustedInstaller privileges"
+2026-10-18T13:21:16.964569Z,foolscap,0.1.0,0,0,https://github.com/thombruce/flexi,"Shared plumbing (XDG paths, config loading, atomic line I/O) for the flexi family of plaintext CLI tools"
+2026-10-18T13:22:53.604734Z,trapbridge,0.1.0,0,0,https://github.com/sorah/trapbridge,Receive SNMP traps and forward them to AWS EventBridge
+2026-10-18T13:24:50.918693Z,cargo-manifesto,0.1.0,0,0,https://github.com/joshka/cargo-manifesto,A satirical Cargo subcommand that derives your project's timeless principles from the choices it already made
+2026-10-18T13:26:04.617458Z,mhr-gpui-shared-string,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"SharedString, the cheaply cloned string type of mhr-gpui, a fork of Zed's gpui"
+2026-10-18T13:27:32.968509Z,bcode_hyperchad,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,HyperChad application host for Bcode sessions
+2026-10-18T13:28:32.109203Z,ychunked,0.0.1,0,0,https://github.com/yaws-rs/codex,Chucnked no_std + no-alloc Encoding-Decoding for the 1%
+2026-10-18T13:29:38.453021Z,toodles,0.1.0,0,0,https://github.com/thombruce/flexi,"A minimal plaintext todo list for the command line, with due dates"
+2026-10-18T13:33:26.23212Z,ferroui-treedatagrid-core,0.2.0,0,0,https://github.com/wieslawsoltes/FerroUI,"The framework-neutral part of FerroUI's TreeDataGrid: flat and hierarchical sources, columns, rows, sorting, expansion, and row and cell selection"
+2026-10-18T13:33:59.041735Z,ferroui-controls-treedatagrid,0.2.0,0,0,https://github.com/wieslawsoltes/FerroUI,"The TreeDataGrid control of FerroUI: hierarchical and tabular data in one virtualizing view, with sorting, selection, editing, drag and drop and its control themes"
+2026-10-18T13:34:57.001706Z,color-kit,0.1.0,0,0,https://github.com/WyattAu/color-kit,"Colour science leaf for Rust — linear-sRGB core, Oklab/OkLCH, WCAG 2.1 AA contrast, perceptual lightness contrast, dichromat simulation, deterministic quantisation. no_std"
+2026-10-18T13:35:06.862093Z,theme-kit,0.1.0,0,0,https://github.com/WyattAu/theme-kit,"Typed design-token contract for the estate — DTCG 2025.10 in/out, semantic role vocabulary, build-failing WCAG contrast gate, derived CVD/high-contrast/monochrome variants, data-only emitters (CSS, V…"
+2026-10-18T13:35:14.157388Z,theme-egui,0.1.0,0,0,https://github.com/WyattAu/theme-egui,"egui/epaint lowering for theme-kit — the adapter that makes the estate token contract real in chisel-doc, chisel-platform's future front-end, and any egui app. One file of placement, zero colour maths"
+2026-10-18T13:35:19.460923Z,a11y-kit,0.1.0,0,0,https://github.com/WyattAu/a11y-kit,"Accessibility semantics layer for the estate — platform-free semantic node model (role, name, states, relations), tree audit as a CI gate, AccessKit conversion behind a feature. The layer nobody fund…"
+2026-10-18T13:36:04.994239Z,mhr-http-client,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"The HTTP client interface of mhr-gpui, a fork of Zed's gpui"
+2026-10-18T13:36:06.185759Z,ratatui-typst,0.1.0,0,0,https://github.com/SosiNone/ratatui-typst,"Typeset equations for Ratatui, powered by Typst"
+2026-10-18T13:37:32.27067Z,bcode_project_instructions,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Confined project instruction discovery and fingerprints for bcode
+2026-10-18T13:39:41.710193Z,trendkit-core,0.2.0,0,0,https://github.com/WyattAu/trendkit,"Core types, SQLite snapshot store, source traits, and velocity scoring for trendkit"
+2026-10-18T13:40:13.106694Z,leptoskit_yoga,0.1.0,0,0,https://github.com/ifiokjr/leptoskit,A from-scratch flexbox and CSS grid layout engine for native leptoskit interfaces.
+2026-10-18T13:40:36.329193Z,statute-cli,0.1.0,0,0,https://github.com/50lo/statute,"Keeps a product's rules written down, linked to code, and checked on every change"
+2026-10-18T13:40:53.236469Z,leptos_testing_library,0.1.0,0,0,https://github.com/ifiokjr/leptoskit,Testing-library helpers for leptos apps: DOM queries and render utilities.
+2026-10-18T13:41:05.554075Z,leptoskit_native,0.1.0,0,0,https://github.com/ifiokjr/leptoskit,"The leptoskit native renderer: shadow tree, diffing, and platform backend contracts."
+2026-10-18T13:41:12.74099Z,unrepresentable,0.0.1-alpha.1,0,0,https://github.com/wtanaka/unrepresentable,An opinionated AST linter (alpha) that rejects Rust code whose types and signatures allow invalid states.
+2026-10-18T13:41:21.073927Z,leptoskit_config,0.1.0,0,0,https://github.com/ifiokjr/leptoskit,Configuration loading for leptoskit projects.
+2026-10-18T13:41:26.146232Z,rivium-util,0.2.0,0,0,https://github.com/rivium-rs/rivium,"Configuration, bounded diagnostics and desired-state task tools"
+2026-10-18T13:41:27.745078Z,rivium-host,0.2.0,0,0,https://github.com/rivium-rs/rivium,Process and embedded hosts for supervised Rivium applications
+2026-10-18T13:41:39.042798Z,leptoskit_plugin,0.1.0,0,0,https://github.com/ifiokjr/leptoskit,The plugin system shared by leptoskit builds and leptos plugins.
+2026-10-18T13:46:04.662823Z,mhr-refineable,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"Refinement types that partially initialize or update a struct, used by mhr-gpui, a fork of Zed's gpui"
+2026-10-18T13:47:32.489065Z,bcode_ralph,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Ralph loop persistence and orchestration primitives for bcode
+2026-10-18T13:49:55.046376Z,tui-actions,0.1.0,0,0,https://github.com/WyattAu/tui-actions,"Terminal action/keymap layer for Rust — chord parsing (ctrl+s, leader sequences), modal context stacks, conflict and unbound-key detection, help rows derived from the live keymap. No terminal depende…"
+2026-10-18T13:50:01.632631Z,leptoskit_codepush,0.1.0,0,0,https://github.com/ifiokjr/leptoskit,"Code push releases, manifests, binary deltas, and update protocol for wasm app bundles."
+2026-10-18T13:50:21.621324Z,yomu,0.1.0,0,0,https://github.com/choplin/yomu,"A terminal Markdown reader with rich image, table, and math rendering"
+2026-10-18T13:54:20.400592Z,profuse,0.1.0,0,0,https://github.com/YOUR_USERNAME/YOUR_REPOSITORY,Shared runtime and context utilities for Rust applications
+2026-10-18T13:54:52.296137Z,mullmd,0.1.1,0,0,https://github.com/bricef/mull,"A keyboard-driven mind mapper for the terminal, with plain Markdown files"
+2026-10-18T13:55:05.73916Z,asar2,0.1.0,0,0,https://github.com/TomieAi/asar2-rs,"A blazing-fast, zero-copy, flat-indexed ASAR archive reader and writer."
+2026-10-18T13:56:04.534649Z,mhr-scheduler,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"The task scheduler and executors of mhr-gpui, a fork of Zed's gpui"
+2026-10-18T13:57:32.570319Z,bcode_database_observability,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Centralized Switchy database observability for Bcode
+2026-10-18T14:00:06.392468Z,trendkit-profile,0.2.0,0,0,https://github.com/WyattAu/trendkit,"Personal relevance profile for trendkit: scan a GitHub user's repos, weight trends by overlap"
+2026-10-18T14:01:54.713015Z,leptoskit_wasm,0.1.0,0,0,https://github.com/ifiokjr/leptoskit,The on-device wasm runtime host that runs the leptoskit app bundle against a native backend.
+2026-10-18T14:02:08.610021Z,dirty-ranges,0.0.0,0,0,https://github.com/ThinkersJournal/dirty-ranges,Detect which byte ranges of a memory region changed between snapshots (name reserved; first release pending).
+2026-10-18T14:06:04.630098Z,mhr-zlog,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"The logger of mhr-gpui, a fork of Zed's gpui"
+2026-10-18T14:07:32.251772Z,bcode_session_migration_target,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Current session persistence capabilities used by session migration
+2026-10-18T14:07:37.322631Z,shellfuse,0.0.1,0,0,https://github.com/YOUR_USERNAME/YOUR_REPOSITORY,Shared runtime and context utilities for Rust applications
+2026-10-18T14:07:59.078828Z,oshi-mcp,0.1.0,0,0,https://github.com/johnzilla/oshi-mcp,Read-only-by-default MCP server for Oshi API Rewards (Bitcoin rewards for any app)
+2026-10-18T14:08:23.675348Z,transfuse,0.1.0,0,0,https://github.com/YOUR_USERNAME/YOUR_REPOSITORY,Shared runtime and context utilities for Rust applications
+2026-10-18T14:09:23.209061Z,compitum-digest,0.1.0,0,0,https://github.com/compitum-dev/compitum,"SHA-256 for content-addressing binaries, with no external dependencies."
+2026-10-18T14:11:28.498321Z,hexcrypt-core,0.1.0,0,0,https://github.com/ablakeman/hexcrypt,Zero-knowledge secret drop: XChaCha20-Poly1305 envelope encryption shared by the hexcrypt CLI and web client
+2026-10-18T14:11:30.175558Z,hexcrypt-cli,0.1.0,0,0,https://github.com/ablakeman/hexcrypt,Zero-knowledge one-time secret drop: CLI client and self-hostable server in one binary
+2026-10-18T14:12:42.214756Z,leptoskit_axum,0.1.0,0,0,https://github.com/ifiokjr/leptoskit,"Axum server toolkit for leptoskit apps: static assets, code push endpoints, and the dev server."
+2026-10-18T14:16:04.637209Z,mhr-ztracing-macro,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"The instrument attribute of mhr-ztracing, used by mhr-gpui, a fork of Zed's gpui"
+2026-10-18T14:17:20.35254Z,compitum-json,0.1.0,0,0,https://github.com/compitum-dev/compitum,"Minimal, dependency-free JSON value, parser and serializer for COMPITUM."
+2026-10-18T14:17:33.479495Z,bcode_session,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Session lifecycle and attachment management for bcode
+2026-10-18T14:18:15.736916Z,compitum-i18n,0.1.0,0,0,https://github.com/compitum-dev/compitum,Localization engine for COMPITUM. English is the base locale; every other language is a drop-in data file.
+2026-10-18T14:18:37.270626Z,shortwin-math,0.1.0,0,0,https://github.com/TodorBonchev/short.win,"short.win protocol math: U256, constant-product quotes, observation/EMA, rent, risk, caps, tiers, waterfalls, lender pool"
+2026-10-18T14:18:38.4909Z,shortwin-venue-state,0.1.0,0,0,https://github.com/TodorBonchev/short.win,"short.win: length-tolerant readers of venue, token, loader and oracle account state (no_std)"
+2026-10-18T14:18:39.802946Z,shortwin,1.0.2,0,0,https://github.com/TodorBonchev/short.win,short.win: permissionless P2P token lending for shorting memecoins (Anchor program)
+2026-10-18T14:19:09.486752Z,compitum-isa,0.1.0,0,0,https://github.com/compitum-dev/compitum,ARM64 instruction-set vocabulary and host capability oracle for COMPITUM.
+2026-10-18T14:19:13.087479Z,liftr,0.1.0,0,0,https://github.com/Rishu/liftr,"Scoped npm dependency updater for GitLab repos: bumps, tests, and opens a merge request"
