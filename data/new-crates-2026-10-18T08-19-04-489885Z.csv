@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T07:26:03.884236Z,mesquite_json,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The JSON grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-json 0.24.8"
+2026-10-18T07:26:18.351736Z,sabiquant,0.1.0-alpha.1,0,0,https://github.com/iceman951/sabiquant,"An independent quantitative finance library written natively in Rust, using only the standard library."
+2026-10-18T07:27:01.220755Z,craber-core,0.1.1,0,0,https://github.com/kobayashiyabako16g/craber,CrabER schema IR: the normalized representation every output is rendered from
+2026-10-18T07:27:03.009405Z,craber-layout,0.1.1,0,0,https://github.com/kobayashiyabako16g/craber,Diagram layout for CrabER: assigns table positions to a schema
+2026-10-18T07:27:03.630638Z,craber-parser,0.1.1,0,0,https://github.com/kobayashiyabako16g/craber,"SQL DDL to CrabER schema IR, via sqlparser-rs"
+2026-10-18T07:27:04.273496Z,craber-site,0.1.1,0,0,https://github.com/kobayashiyabako16g/craber,The deployable static site CrabER writes: the web bundle plus a schema.json
+2026-10-18T07:27:05.362851Z,craber-introspect,0.1.1,0,0,https://github.com/kobayashiyabako16g/craber,"Live database schema to CrabER schema IR, via sqlx"
+2026-10-18T07:33:20.919154Z,rekey-core,0.1.0,0,0,https://github.com/Ezra-Black/rekey,Provider connectors and rotation engine behind the rekey CLI
+2026-10-18T07:33:21.877865Z,rekey,0.1.0,0,0,https://github.com/Ezra-Black/rekey,"Rotate API keys and tokens across AWS, GitLab, Cloudflare, OpenAI and more — CLI and MCP server"
+2026-10-18T07:36:04.561232Z,mesquite_julia,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Julia grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-julia 0.23.1"
+2026-10-18T07:37:49.335448Z,ic-platform,0.1.3,0,0,https://github.com/dragginzgame/ic-platform,Controlled Candid and IC runtime dependency boundary
+2026-10-18T07:41:01.963354Z,craber-render,0.1.1,0,0,https://github.com/kobayashiyabako16g/craber,Server-side SVG rendering for CrabER diagrams
+2026-10-18T07:42:47.055345Z,ferrobridge-operator-api,0.0.0,0,0,https://github.com/FerroHEALTH/FerroBRIDGE,"The documents of the FerroBRIDGE health and operator surfaces, as serde types the bridge and its console share"
+2026-10-18T07:44:04.155174Z,linlog,0.1.0,0,0,https://github.com/linlog-prover/linlog,"A linear logic suite: decides, checks, proves step by step and exports sequents of classical and intuitionistic linear logic, and ordinary propositional logic through its embeddings."
+2026-10-18T07:44:07.782329Z,linlog-cli,0.1.0,0,0,https://github.com/linlog-prover/linlog,"The linlog command: decide, check, prove step by step and export sequents of linear logic, and ordinary logic through its translations."
+2026-10-18T07:44:47.18145Z,kzp,0.1.0,0,0,https://github.com/hiyoriOS/kaze,Kaze protocol: platform-signed admission terms and accountable mandates for AI agents
+2026-10-18T07:46:04.210384Z,mesquite_kotlin,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Kotlin grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-kotlin-ng 1.1.0"
+2026-10-18T07:48:55.339991Z,craber-export,0.1.1,0,0,https://github.com/kobayashiyabako16g/craber,"Diagram output formats for CrabER: JSON, SVG, Mermaid, DBML, PNG"
+2026-10-18T07:56:04.157111Z,mesquite_lua,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Lua grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-lua 0.5.0"
+2026-10-18T07:57:21.89814Z,craber,0.1.1,0,0,https://github.com/kobayashiyabako16g/craber,Visualize ER diagrams from SQL DDL or a live database
+2026-10-18T08:03:15.231032Z,gpui-ce-motion,0.1.0,0,0,https://github.com/1bye/gpui-motion,"Declarative, interruptible motion and presence for native GPUI CE applications"
+2026-10-18T08:04:24.77591Z,layerhop,0.1.0,0,0,https://github.com/layerhop/layerhop-rust,LayerHop SDK — best-price cross-chain and same-chain swaps through one non-custodial API
+2026-10-18T08:06:04.287725Z,mesquite_make,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Make grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-make 1.1.1"
+2026-10-18T08:12:31.096373Z,mdkg,0.0.1,0,0,https://github.com/nickreames/mdkg,Git-native project memory for AI coding agents
+2026-10-18T08:12:32.184765Z,ochatr,0.0.1,0,0,,Omni Chat Room: multi-model AI productivity
+2026-10-18T08:13:42.919112Z,deformable,0.1.0,0,0,,"Finite element deformation and fracture of tetrahedral meshes: a simulation a host drives frame by frame, the render surfaces embedded in its objects and the mesh tools that prepare its inputs. A saf…"
+2026-10-18T08:15:52.747898Z,office2pdf-umya-spreadsheet,0.1.0,0,0,https://github.com/developer0hye/umya-spreadsheet,"Fork of umya-spreadsheet 2.3.3 carrying the reader fixes office2pdf depends on, until they are released upstream. Imported as `umya_spreadsheet`."
+2026-10-18T08:16:04.753184Z,mesquite_markdown,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Markdown (block) grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-md 0.5.3"
+2026-10-18T08:16:05.208605Z,ultra-instinct-core,0.1.0,0,0,https://github.com/hexuria/ultra-instinct,Domain types for the ultra-instinct interaction manifold
+2026-10-18T08:16:13.057256Z,ultra-instinct-cdp,0.1.0,0,0,https://github.com/hexuria/ultra-instinct,"CDP wire for ultra-instinct: transport trait, blocking websocket, replay transport, replay script builder."
+2026-10-18T08:16:16.974577Z,ultra-instinct-hyper,0.1.0,0,0,https://github.com/hexuria/ultra-instinct,Deterministic bipolar hypervectors for ultra-instinct
+2026-10-18T08:16:43.715549Z,ultra-instinct-geometry,0.1.0,0,0,https://github.com/hexuria/ultra-instinct,Viewport-relative geometry and symbolic spatial atoms
+2026-10-18T08:16:53.269826Z,ultra-instinct-observe,0.1.0,0,0,https://github.com/hexuria/ultra-instinct,Temporal matching and manifold diff for ultra-instinct
+2026-10-18T08:17:07.499405Z,office2pdf-docx-rs,0.1.0,0,0,https://github.com/developer0hye/docx-rs,"Fork of docx-rs 0.4.22 carrying the reader fixes office2pdf depends on, until they are released upstream. Imported as `docx_rs`."
+2026-10-18T08:17:32.480132Z,tines-core,0.1.0,0,0,,"Opportunistic shared memory for mostly-offline robots: a no_std core of content-addressed observations, gossip, and store-and-forward exchange."
+2026-10-18T08:17:34.177578Z,tines-sim,0.1.0,0,0,,"Discrete-time simulator for tines: contact traces, convergence scenarios, and property tests."
+2026-10-18T08:18:39.745925Z,kzhz,0.3.3,0,0,https://github.com/tomWhiting/kazoo,"kazoo by its npm name: the same program as kzoo (the desk, the wall, the seat and every instrument), installed as kzhz"
+2026-10-18T08:18:43.038756Z,mineral-config-macros,0.5.10,0,0,https://github.com/10knamesmore/Mineral,Mineral daemon/TUI 配置 schema 与 LuaLS 生成宏
+2026-10-18T08:18:44.190819Z,mineral-macros,0.5.10,0,0,https://github.com/10knamesmore/Mineral,Mineral 内部 macros
+2026-10-18T08:18:45.265888Z,mineral-paths,0.5.10,0,0,https://github.com/10knamesmore/Mineral,标准化的配置 / 缓存 / 数据目录解析
+2026-10-18T08:18:46.339959Z,mineral-spectrum,0.5.10,0,0,https://github.com/10knamesmore/Mineral,音频频谱分析(realfft + 对数桶映射)
+2026-10-18T08:18:48.815639Z,mineral-log,0.5.10,0,0,https://github.com/10knamesmore/Mineral,tracing-based 日志门面 + 文件 appender
