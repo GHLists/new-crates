@@ -8,38 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 22:20 UTC
+## Latest list — 2026-10-18 23:20 UTC
 
-New crates published between 2026-10-18 21:18 UTC and 2026-10-18 22:20 UTC.
+New crates published between 2026-10-18 22:20 UTC and 2026-10-18 23:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-18T22-20-04-493176Z.csv)
+[Full CSV](data/new-crates-2026-10-18T23-20-08-074932Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-18 21:20:22 | [perata-sdk](https://crates.io/crates/perata-sdk) | 0.1.1 | 0 | Peráta's SDK for Rust: products, customers, checkouts, payments, subscriptions… |
-| 2026-10-18 21:20:32 | [clove-tui](https://crates.io/crates/clove-tui) | 0.1.5 | 0 | clove: terminal UI for browsing and editing work items |
-| 2026-10-18 21:22:47 | [egui-pop-platform](https://crates.io/crates/egui-pop-platform) | 0.1.1 | 0 | Platform services for egui-pop applications, as opt-in plugins: a single instan… |
-| 2026-10-18 21:30:54 | [clove-engine](https://crates.io/crates/clove-engine) | 0.1.5 | 0 | clove read tier: the one daemon -> index -> files cascade behind the CLI, MCP,… |
-| 2026-10-18 21:33:00 | [egui-pop-test](https://crates.io/crates/egui-pop-test) | 0.1.1 | 0 | Test kit for egui-pop applications: themed egui_kittest harnesses, a check that… |
-| 2026-10-18 21:33:59 | [quat_input](https://crates.io/crates/quat_input) | 0.1.0 | 0 | High-performance zero-copy quaternary stream library packing 2 bits per quat wi… |
-| 2026-10-18 21:34:19 | [rekka_derives](https://crates.io/crates/rekka_derives) | 0.0.1 | 0 | Derive macros for rekka |
-| 2026-10-18 21:34:27 | [rekka](https://crates.io/crates/rekka) | 0.0.1 | 0 | Redis-backed job queues and typed cache, safe for horizontal scaling |
-| 2026-10-18 21:39:44 | [prow](https://crates.io/crates/prow) | 0.1.0 | 0 | Profiling rows: structured, timestamped measurements from a program and its dev… |
-| 2026-10-18 21:41:37 | [clove-mcp](https://crates.io/crates/clove-mcp) | 0.1.5 | 0 | clove MCP (Model Context Protocol) server: exposes clove to AI agents over stdi… |
-| 2026-10-18 21:42:11 | [necoherence-tools](https://crates.io/crates/necoherence-tools) | 0.2.1 | 0 | Search, derivation and code generation tools for necoherence |
-| 2026-10-18 21:43:21 | [egui-pop-views](https://crates.io/crates/egui-pop-views) | 0.1.1 | 0 | Data views for egui-pop: a live tree over a lazy, asynchronous source, a list a… |
-| 2026-10-18 21:52:04 | [clove-web](https://crates.io/crates/clove-web) | 0.1.5 | 0 | clove web UI: HTTP/WebSocket server and embedded SPA (M4) |
-| 2026-10-18 22:01:15 | [uvunwrap](https://crates.io/crates/uvunwrap) | 0.1.0 | 0 | Pure-Rust automatic UV unwrapping: chart segmentation, LSCM parameterization an… |
-| 2026-10-18 22:02:33 | [cloved](https://crates.io/crates/cloved) | 0.1.5 | 0 | clove optional daemon: file-watch, incremental index, opt-in git sync |
-| 2026-10-18 22:09:19 | [lacuna-core](https://crates.io/crates/lacuna-core) | 0.1.0 | 0 | Diagnosis without repair: typed stops, flip and property ledgers, and trust-car… |
-| 2026-10-18 22:11:43 | [kembec-sunat-model](https://crates.io/crates/kembec-sunat-model) | 1.0.0-rc.4 | 0 | Input model of the SUNAT (Peru) e-invoicing SDK: invoices, receipts, credit and… |
-| 2026-10-18 22:11:43 | [kembec-sunat-transport](https://crates.io/crates/kembec-sunat-transport) | 1.0.0-rc.4 | 0 | Sans-IO SOAP envelopes, ZIP packaging and CDR parsing for the SUNAT (Peru) e-in… |
-| 2026-10-18 22:11:43 | [kembec-sunat-xmldsig](https://crates.io/crates/kembec-sunat-xmldsig) | 1.0.0-rc.4 | 0 | Enveloped XML-DSig (RSA-SHA1, inclusive C14N 1.0) for SUNAT (Peru) electronic d… |
-| 2026-10-18 22:11:45 | [kembec-sunat-sdk](https://crates.io/crates/kembec-sunat-sdk) | 1.0.0-rc.4 | 0 | SUNAT (Peru) e-invoicing calls without I/O: SOAP and REST requests to send, que… |
-| 2026-10-18 22:11:45 | [kembec-sunat-ubl](https://crates.io/crates/kembec-sunat-ubl) | 1.0.0-rc.4 | 0 | UBL 2.1 and 2.0 XML for SUNAT (Peru) electronic invoicing, in canonical form an… |
-| 2026-10-18 22:13:01 | [clove-sync-github](https://crates.io/crates/clove-sync-github) | 0.1.5 | 0 | clove plugin: two-way GitHub Issues sync (clove sync github) |
-| 2026-10-18 22:15:12 | [contact-relationship-management-migration](https://crates.io/crates/contact-relationship-management-migration) | 0.1.0 | 0 | Database migrations for the contact relationship management service |
-| 2026-10-18 22:15:15 | [contact-relationship-management](https://crates.io/crates/contact-relationship-management) | 0.1.0 | 0 | Contact Relationship Management (CRM): service for APIs, inbound contacts, outb… |
+| 2026-10-18 22:23:21 | [hennery-gateway](https://crates.io/crates/hennery-gateway) | 0.1.3 | 0 | MCP gateway for the hennery ACP cockpit |
+| 2026-10-18 22:23:22 | [hennery-sessions](https://crates.io/crates/hennery-sessions) | 0.1.3 | 0 | Session orchestration for the hennery ACP cockpit |
+| 2026-10-18 22:23:22 | [clove-import-tk](https://crates.io/crates/clove-import-tk) | 0.1.5 | 0 | clove plugin: import items from a tk .tickets/ directory (clove import tk) |
+| 2026-10-18 22:23:23 | [hennery](https://crates.io/crates/hennery) | 0.1.3 | 0 | Self-hosted cockpit for ACP coding agents |
+| 2026-10-18 22:33:45 | [clove-import-beads](https://crates.io/crates/clove-import-beads) | 0.1.5 | 0 | clove plugin: import items from a Beads issues.jsonl (clove import beads) |
+| 2026-10-18 22:40:42 | [lunar-dotnet-host](https://crates.io/crates/lunar-dotnet-host) | 0.2.0 | 0 | embed the .NET CoreCLR runtime in a Rust process via hostfxr |
+| 2026-10-18 22:40:46 | [lunar-gltf](https://crates.io/crates/lunar-gltf) | 0.2.0 | 0 | glTF 2.0 / GLB reader producing neutral geometry, skin and material data for lu… |
+| 2026-10-18 22:40:53 | [lunar-audio](https://crates.io/crates/lunar-audio) | 0.2.0 | 0 | audio system: AudioSource trait, mixer, symphonia decoding, sdl3 native + emscr… |
+| 2026-10-18 22:41:44 | [legume-tui](https://crates.io/crates/legume-tui) | 0.2.0 | 0 | Detachable terminal sessions and the shared terminal UI of the legume tools: im… |
+| 2026-10-18 22:44:26 | [clove-cli](https://crates.io/crates/clove-cli) | 0.1.5 | 0 | clove: a fast, git-native, dependency-aware work-item tracker |
+| 2026-10-18 22:49:34 | [zfsctl](https://crates.io/crates/zfsctl) | 0.0.1 | 0 | Placeholder: a terminal UI and daemon for managing ZFS on FreeBSD, Linux and il… |
+| 2026-10-18 22:56:45 | [plain-evm](https://crates.io/crates/plain-evm) | 0.3.2 | 0 | Compile, test and deploy EVM smart contracts with a single binary that needs no… |
+| 2026-10-18 22:57:49 | [aor](https://crates.io/crates/aor) | 0.1.0 | 0 | AgentOps-Runtime core contracts: gate descriptor, enforcement profiles, events,… |
+| 2026-10-18 22:58:59 | [aor-close](https://crates.io/crates/aor-close) | 0.1.0 | 0 | AgentOps-Runtime gate: Close-Gate. |
+| 2026-10-18 22:59:05 | [aor-decision](https://crates.io/crates/aor-decision) | 0.1.0 | 0 | AgentOps-Runtime gate: Decision-Memo. |
+| 2026-10-18 22:59:12 | [aor-dispatch](https://crates.io/crates/aor-dispatch) | 0.1.0 | 0 | AgentOps-Runtime gate: Dispatch-Gate. |
+| 2026-10-18 22:59:17 | [aor-handoff](https://crates.io/crates/aor-handoff) | 0.1.0 | 0 | AgentOps-Runtime gate: Handoff-Protocol. |
+| 2026-10-18 23:04:34 | [aor-payload](https://crates.io/crates/aor-payload) | 0.1.0 | 0 | AgentOps-Runtime gate: Payload-Gate. |
+| 2026-10-18 23:10:19 | [sltop](https://crates.io/crates/sltop) | 0.2.0 | 0 | Lightweight real-time terminal system monitor for Linux by Scoppiato LAB. |
+| 2026-10-18 23:15:37 | [aor-store](https://crates.io/crates/aor-store) | 0.1.0 | 0 | AgentOps-Runtime store: production SQLite implementation of the aor::Store cont… |
+| 2026-10-18 23:15:52 | [rs-redb2keys2strings](https://crates.io/crates/rs-redb2keys2strings) | 0.1.0 | 0 | Fetch values from redb database using stdin keys |
+| 2026-10-18 23:17:05 | [hereticus-il](https://crates.io/crates/hereticus-il) | 0.1.0 | 0 | Decode and lift ARM, Thumb-2, AArch64 and MIPS instructions to a small IL |
+| 2026-10-18 23:17:06 | [hereticus-memory](https://crates.io/crates/hereticus-memory) | 0.1.0 | 0 | Address space management for binary analysis |
+| 2026-10-18 23:17:06 | [hereticus-unpack](https://crates.io/crates/hereticus-unpack) | 0.1.0 | 0 | Unpack firmware containers and images |
+| 2026-10-18 23:17:08 | [hereticus-recovery](https://crates.io/crates/hereticus-recovery) | 0.1.0 | 0 | Recover function boundaries from stripped binaries |
+| 2026-10-18 23:17:10 | [hereticus-arch](https://crates.io/crates/hereticus-arch) | 0.1.0 | 0 | The architecture-specific rules that the matching of functions reads |
 
 ## Data source
 
