@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T05:18:41.236907Z,sqlsplit,0.1.0,0,0,https://github.com/quasi-coherent/sqlsplit,A nom parser for splitting SQL statements
+2026-10-18T05:22:49.967608Z,brevier,0.12.0,0,0,https://github.com/gurov/brevier,"A browser for reading: it turns a page into clean text on your own computer and sets it in the typography you chose, without JavaScript"
+2026-10-18T05:23:59.511932Z,hatcheck,0.2.0,0,0,https://github.com/hatcheck/hatcheck,"Claude Code and Codex accounts on one computer, each kept apart"
+2026-10-18T05:26:04.358342Z,mesquite_diff,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Diff grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-diff 0.1.0"
+2026-10-18T05:27:32.664014Z,bcode_pi_session_import_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Pi session import plugin for bcode
+2026-10-18T05:32:57.659504Z,cottak-core,2.0.0,0,0,https://github.com/Astute-Systems/cot-tak,Typed Cursor on Target (CoT) / TAK event model with lossless XML round-tripping
+2026-10-18T05:32:59.47367Z,cottak-convert,2.0.0,0,0,https://github.com/Astute-Systems/cot-tak,"Convert Cursor on Target events to GeoJSON and KML, and CoT types to MIL-STD-2525 symbol codes"
+2026-10-18T05:32:59.897572Z,cottak-proto,2.0.0,0,0,https://github.com/Astute-Systems/cot-tak,"TAK Protocol v1 (protobuf) mapping, framing and negotiation for Cursor on Target"
+2026-10-18T05:33:00.71117Z,cottak-net,2.0.0,0,0,https://github.com/Astute-Systems/cot-tak,"Async TAK Server client (TCP/TLS), mesh UDP and keepalive/reconnect for Cursor on Target"
+2026-10-18T05:33:02.439484Z,cottak-enroll,2.0.0,0,0,https://github.com/Astute-Systems/cot-tak,"TAK Server certificate enrollment (tak:// onboarding, CSR, signClient) for cottak"
+2026-10-18T05:35:52.534019Z,cottak-marti,2.0.0,0,0,https://github.com/Astute-Systems/cot-tak,"TAK Server Marti REST API client: missions, data sync, files, contacts, groups"
+2026-10-18T05:36:04.439583Z,mesquite_elixir,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Elixir grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-elixir 0.3.5"
+2026-10-18T05:37:32.576329Z,bcode_prompt_profile,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Model-scoped prompt profile contract types for Bcode
+2026-10-18T05:37:58.018072Z,crcbl-app,0.4.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible app core: the GPU backend walk, the adapter pin, window bring-up and text input"
+2026-10-18T05:40:34.020344Z,localgpt-world-audio,0.4.0,0,0,https://github.com/localgpt-app/localgpt,The one mapping from the LocalGPT world format's audio to sound: FunDSP synthesis inside a kira mixer
+2026-10-18T05:40:34.232573Z,localgpt-world-bevy,0.4.0,0,0,https://github.com/localgpt-app/localgpt,"The one Bevy mapping of the LocalGPT world format — meshes, materials, lights, environment — shared by Gen, MD and Verse"
+2026-10-18T05:40:34.45047Z,localgpt-world-export,0.4.0,0,0,https://github.com/localgpt-app/localgpt,Distribution formats for LocalGPT worlds — the web viewer and self-contained HTML export of a WorldManifest (no Bevy)
+2026-10-18T05:40:34.807617Z,localgpt-world-sync,0.4.0,0,0,https://github.com/localgpt-app/localgpt,"Collaborative sessions over the LocalGPT world format: shared document, ops, wire protocol and room authority — no Bevy, no I/O"
+2026-10-18T05:40:37.787534Z,localgpt-previs,0.4.0,0,0,https://github.com/localgpt-app/localgpt,"LocalGPT Previs — a screenplay in (Fountain, a Final Draft .fdx, a PDF, or Markdown script pages), per-scene .world packages with set/cast/coverage, a printable board and a shot-list CSV out. Determi…"
+2026-10-18T05:44:55.389403Z,guestkit-ebpf-common,0.1.0,0,0,,Map key/value layouts shared by the GuestKit in-guest eBPF programs and their loader
+2026-10-18T05:45:23.813697Z,guestkit-ebpf-runtime,0.1.0,0,0,,Loader for the GuestKit in-guest eBPF programs (per-container netpolicy + LSM MAC)
+2026-10-18T05:45:53.408409Z,cottak-server,2.0.0,0,0,https://github.com/Astute-Systems/cot-tak,Embeddable TAK Server for Cursor on Target: a mock server for tests and a small broker for isolated networks
+2026-10-18T05:46:05.292376Z,mesquite_elm,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Elm grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-elm 5.9.4"
+2026-10-18T05:47:32.386974Z,bcode_prompt_profile_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Bundled model-scoped prompt profile plugin for Bcode
+2026-10-18T05:53:55.922381Z,sylk-macros,0.5.0,0,0,https://github.com/efbx/sylk-rs,Procedural macros for sylk
+2026-10-18T05:53:58.39486Z,sylk,0.5.0,0,0,https://github.com/efbx/sylk-rs,"Typed resources, server functions and reconnecting hooks for Dioxus apps, fullstack or standalone"
+2026-10-18T05:56:04.169211Z,mesquite_embedded_template,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Embedded templates (ERB, EJS) grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-embedded-template 0.25.0"
+2026-10-18T05:57:32.685774Z,bcode_question_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,interactive question tool plugin for bcode
+2026-10-18T06:06:04.651129Z,mesquite_erlang,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Erlang grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-erlang 0.20.0"
+2026-10-18T06:07:32.623987Z,bcode_read_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Terminal Markdown reader plugin for bcode
+2026-10-18T06:16:04.381777Z,mesquite_fortran,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Fortran grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-fortran 0.6.0"
+2026-10-18T06:17:32.626566Z,bcode_session_derivation_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Plugin-owned session fork and clone workflows for Bcode
