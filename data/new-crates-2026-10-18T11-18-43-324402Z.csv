@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T10:26:04.676231Z,mesquite_svelte,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Svelte grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-svelte-ng 1.0.2"
+2026-10-18T10:28:50.970387Z,mineral-script,0.5.10,0,0,https://github.com/10knamesmore/Mineral,daemon 音乐回调与 TUI 本地脚本的独立 Lua 执行宿主
+2026-10-18T10:31:25.964197Z,arc_ref,0.1.0,0,0,https://github.com/occasionallydavid/arc-ref-rs,"Zero-copy, reference-like projections of data owned by an Arc"
+2026-10-18T10:36:04.540163Z,mesquite_swift,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Swift grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-swift 0.7.4"
+2026-10-18T10:38:50.791418Z,mineral-client,0.5.10,0,0,https://github.com/10knamesmore/Mineral,Mineral 与传输无关的 client 会话核心:请求合批、结果配对、状态镜像与 PCM 窗口
+2026-10-18T10:39:56.33297Z,ek-risk,0.1.0,0,0,https://cnb.cool/enkeep/ek-risk,"Pre-trade risk gates for the ek ecosystem: assemblable RiskGate implementations (max order volume, per-symbol position limit, price band) for the ek-oms five-stage pipeline (industry-standard pre-tra…"
+2026-10-18T10:41:10.501638Z,costerra,0.1.0,0,0,https://github.com/echaouchna/costerra,Fast cost estimates and optimization insights for Google Cloud Terraform & Terragrunt
+2026-10-18T10:41:40.197398Z,living-blueprint,0.1.0,0,0,https://github.com/rellfy/living-blueprint,"A semantically zoomable, living blueprint of source code"
+2026-10-18T10:46:04.560695Z,mesquite_toml,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The TOML grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-toml-ng 0.7.0"
+2026-10-18T10:46:38.389269Z,netlink-packet-macsec,0.1.0,0,0,https://github.com/rust-netlink/netlink-packet-macsec,MACsec generic netlink packet definitions
+2026-10-18T10:48:05.759655Z,wackysnek,0.1.0,0,0,,"Full-screen terminal snake: power-ups, chaos, mazes, two players and a 3D mode, at 240 fps"
+2026-10-18T10:48:05.93079Z,gpui-styleguidist-manifest,0.1.1,0,0,https://github.com/Ziinc/gpui-styleguidist,Snapshot manifest format shared by gpui-styleguidist and its doc macros.
+2026-10-18T10:48:08.190272Z,cargo-styleguide,0.1.1,0,0,https://github.com/Ziinc/gpui-styleguidist,Builds a gpui-styleguidist styleguide to WebAssembly as a static site.
+2026-10-18T10:48:08.610892Z,gpui-styleguidist-macros,0.1.1,0,0,https://github.com/Ziinc/gpui-styleguidist,Macros for gpui-styleguidist: rustdoc previews and example source capture.
+2026-10-18T10:48:11.381614Z,gpui-styleguidist,0.1.1,0,0,https://github.com/Ziinc/gpui-styleguidist,"A living styleguide for GPUI components: a Styleguidist-style wasm playground, rendered previews in rustdoc and docs.rs, and snapshot tests."
+2026-10-18T10:48:54.939495Z,mineral-server,0.5.10,0,0,https://github.com/10knamesmore/Mineral,"Mineral 后台 server:收纳 audio engine + task scheduler + channels,对外发 ClientHandle"
+2026-10-18T10:49:52.682327Z,cargo-guard,0.0.1,0,0,https://github.com/ranger-ross/cargo-guard.git,Cargo build script allow list
+2026-10-18T10:51:38.714038Z,sol-trade-router-sdk,0.2.0,0,0,https://github.com/0xfnzero/sol-trade-router-sdk,Client SDK for sol-trade-router-sdk — simple multi-hop buys/sells with no RPC on the hot path
+2026-10-18T10:52:08.438362Z,yog-ids,0.1.0,0,0,,"Yog's shared names — namespaces, content kinds, schemes, separators, its own ids — defined once, exported to TypeScript and Java."
+2026-10-18T10:53:20.686041Z,tombit,0.0.0,0,0,,Toolkit for tombi
+2026-10-18T10:53:52.202591Z,yog-media,0.2.0,0,0,,Yog's media as the game takes it: pictures in any format decoded and written as PNG.
+2026-10-18T10:56:05.027621Z,mesquite_verilog,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Verilog grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-verilog 1.0.3"
+2026-10-18T10:58:50.997233Z,mineral-channel-local,0.5.10,0,0,https://github.com/10knamesmore/Mineral,Local filesystem music library and playback
+2026-10-18T11:03:56.82345Z,ijsbakje,1.0.0,0,0,https://forge.nchagnet.eu/ijsbakje,Simple webui for your personal git forge.
+2026-10-18T11:06:05.189454Z,mesquite_xml,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The XML grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-xml 0.7.0"
+2026-10-18T11:08:54.179898Z,mineral-channel-netease,0.5.10,0,0,https://github.com/10knamesmore/Mineral,Mineral 的一个 channel 实现(加密 + cookie + 端点)
+2026-10-18T11:10:45.009296Z,cqlx-core,0.1.0,0,0,https://github.com/Max-imalgutaussehend/cqlx,"Core traits, metadata, type-state query plumbing and session wrapper for cqlx, the code-first ScyllaDB/Cassandra ORM"
+2026-10-18T11:11:25.189495Z,cqlx-macros,0.1.0,0,0,https://github.com/Max-imalgutaussehend/cqlx,Procedural macros for cqlx: #[derive(CqlEntity)] with type-state query builders
+2026-10-18T11:11:43.474991Z,sbpf-eye,0.1.0,0,0,https://github.com/Perelyn-sama/sbpf-eye,A CLI for inspecting Solana sBPF binaries and comparing compiler output
+2026-10-18T11:12:02.808792Z,cqlx,0.1.0,0,0,https://github.com/Max-imalgutaussehend/cqlx,"Typesafe, zero-overhead, code-first ORM for ScyllaDB and Cassandra built on procedural macros"
+2026-10-18T11:12:10.188796Z,cqlx-cli,0.1.0,0,0,https://github.com/Max-imalgutaussehend/cqlx,"Extracts CqlEntity schemas from Rust source, generates CREATE TABLE CQL and diffs against existing schemas"
+2026-10-18T11:12:20.998971Z,cql-ai-model,0.1.0,0,0,https://github.com/Max-imalgutaussehend/cql-ai,Tiny Transformer encoder over cqlc-core lexer tokens that detects CQL anti-patterns
+2026-10-18T11:16:04.329883Z,mesquite_yaml,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The YAML grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-yaml 0.7.2"
+2026-10-18T11:17:18.852431Z,pywire-python-ast,0.1.0,0,0,https://github.com/lpaggen/PyWire,"Owned Rust representations of the Python 3.14 AST, decoded from PyWire Protocol Buffers"
+2026-10-18T11:18:35.676009Z,gq,0.1.0,0,0,https://github.com/TeddyHuang-00/gq,GPU job runner that selects idle cards and runs commands with CUDA_VISIBLE_DEVICES.
