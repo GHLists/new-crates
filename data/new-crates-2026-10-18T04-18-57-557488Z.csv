@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T03:20:33.911066Z,linkrs_cli,0.1.0,0,0,https://github.com/kkkqkx123/linkrs,Command-line interface for Linkrs
+2026-10-18T03:22:57.444134Z,linkrs-migration-cli,0.1.0,0,0,https://github.com/kkkqkx123/linkrs,CLI for linkrs migration management
+2026-10-18T03:24:30.285097Z,openreadout-medical,0.4.0,0,0,https://github.com/openreadout/openreadout,"Readers for medical and preclinical imaging files (DICOM, NIfTI, Analyze, Bruker ParaVision), part of OpenReadout"
+2026-10-18T03:26:04.824991Z,mesquite_javascript,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The JavaScript grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-javascript 0.25.0"
+2026-10-18T03:27:32.401896Z,bcode_jev_provider_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,TypeSafe Jev judgement model provider plugin for bcode
+2026-10-18T03:28:13.937571Z,Tokenary,0.0.1,0,0,,A lexer parser built to be used and performant.
+2026-10-18T03:32:27.414835Z,openreadout-seq,0.4.0,0,0,https://github.com/openreadout/openreadout,"Readers for DNA sequencer output (Illumina run folders, Oxford Nanopore POD5 and FAST5, FASTQ and BAM), part of OpenReadout"
+2026-10-18T03:36:03.840636Z,mesquite_go,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Go grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-go 0.25.0"
+2026-10-18T03:37:32.625032Z,bcode_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Host-side plugin loading and discovery for bcode
+2026-10-18T03:38:00.794745Z,openreadout-plot,0.4.0,0,0,https://github.com/openreadout/openreadout,"Figures from lab files for OpenReadout: name the data by file and selector, get a finished plot as PNG, SVG or PDF"
+2026-10-18T03:41:20.356914Z,rile,0.1.0,0,0,https://github.com/mimbrown/rile,"A typesetting engine: shaping, hyphenation, Knuth-Plass line breaking, bidi and vertical text, math and tagged PDF structure, laid out into a format-neutral layout"
+2026-10-18T03:41:24.882038Z,rile-pages,0.1.0,0,0,https://github.com/mimbrown/rile,"Pages for rile: frames, templates, classes, footnotes, page breaking, tables of contents and indexes"
+2026-10-18T03:41:26.529158Z,rile-pdf,0.1.0,0,0,https://github.com/mimbrown/rile,"Writes a rile layout as PDF, tagged for PDF/UA when the document is"
+2026-10-18T03:41:28.003614Z,rile-svg,0.1.0,0,0,https://github.com/mimbrown/rile,"Writes a rile layout as SVG, one document per page"
+2026-10-18T03:41:32.842188Z,rile-markdown,0.1.0,0,0,https://github.com/mimbrown/rile,"Sets Markdown (CommonMark and GitHub's extensions, with math) with rile"
+2026-10-18T03:42:52.226991Z,pretix,0.4.0,0,0,https://github.com/sagikazarmark/pretix-rs,Unofficial async client for the pretix REST API
+2026-10-18T03:43:24.1912Z,mqtt-sniper,0.1.0,0,0,https://github.com/thitipongroo/mqtt-sniper,"A blazing-fast, memory-efficient MQTT load testing CLI written in Rust using the Tokio async runtime."
+2026-10-18T03:44:55.897913Z,logoxide-app,0.1.0,0,0,https://github.com/Logoxide/logoxide,"What every logoxide front end does: catalogs over HTTP, imports, installs, reading and comparing passages, behind one Logoxide facade"
+2026-10-18T03:45:06.489228Z,logoxide-cli,0.1.0,0,0,https://github.com/Logoxide/logoxide,"lx, logoxide's command line: Bibles, commentaries, lexicons, books, and media as versioned packages"
+2026-10-18T03:45:17.058348Z,logoxide-mcp,0.1.0,0,0,https://github.com/Logoxide/logoxide,"An MCP server for logoxide: search catalogs, read and compare passages, and look into a project's packages"
+2026-10-18T03:46:04.121947Z,mesquite_java,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Java grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-java 0.23.5"
+2026-10-18T03:47:32.744833Z,bcode_session_view,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Renderer-neutral session view projection for bcode
+2026-10-18T03:49:02.551454Z,rightkit-motion,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Product-neutral motion helpers for Right Suite video: bracketed-script beat sync against word timings, and storyboard inspect-sheet planning and assembly"
+2026-10-18T03:50:10.081817Z,scenix-nodes,1.6.0,0,0,https://github.com/AarambhDevHub/scenix,"Typed shader node graphs, node materials, and WGSL/GLSL backends for scenix."
+2026-10-18T03:55:49.387122Z,cortexkit-chatgpt-policy,0.1.0,0,0,https://github.com/cortexkit/commons,"ChatGPT/Codex subscription account-id resolution, refusal classification, and quota-header policy."
+2026-10-18T03:56:04.734179Z,mesquite_c,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The C grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-c 0.24.2"
+2026-10-18T03:56:15.808311Z,uart_16550_x,0.3.2,0,0,https://github.com/qwbpro/uart_16550_x,Minimal support for uart_16550_x serial output.
+2026-10-18T03:57:32.734709Z,bcode_loop_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Deterministic prompt loop plugin for bcode
+2026-10-18T03:59:44.988692Z,rile-cli,0.1.0,0,0,https://github.com/mimbrown/rile,The rile command: typesets Markdown to tagged PDF or SVG
+2026-10-18T04:00:32.493624Z,bake-test,0.3.3,0,0,https://github.com/core-rs/bake-test,Reusable Rust test tasks for Bake
+2026-10-18T04:04:29.759408Z,com_logger_x,0.1.2,0,0,https://github.com/qwbpro/com_logger,Serial port logger through COM ports
+2026-10-18T04:04:42.879478Z,settings-tui,0.1.16,0,0,https://github.com/ziuus/settings-tui,"A hyper-lightweight (near 0% CPU, <9MB) universal Linux Settings Center for the terminal."
+2026-10-18T04:06:04.497489Z,mesquite_cpp,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The C++ grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-cpp 0.23.4"
+2026-10-18T04:06:56.486846Z,core-project,0.1.0,0,0,https://github.com/core-rs/core-project,Shared project conventions and development tasks for Core Rust crates
+2026-10-18T04:07:33.134188Z,bcode_metrics_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,metrics dashboard plugin for bcode
+2026-10-18T04:07:55.675129Z,rightkit-android,0.2.0,0,0,https://github.com/bogusyogi/rightkit,"Android bridge for Right Suite apps: the UniFFI surface and JNI context capture (JavaVM, application Context, app-private paths), the Keystore bridge for rightkit-credentials, a debug logcat sink, an…"
+2026-10-18T04:08:15.412425Z,rightkit-platform-rules,0.1.0,0,0,https://github.com/bogusyogi/rightkit,Versioned catalog of per-platform limits and rules with a stable rule-revision hash and a check of planned values against sourced rules.
+2026-10-18T04:10:19.528557Z,rightkit-spend,0.1.1,0,0,https://github.com/bogusyogi/rightkit,"Spend reservation, allowance and compare-and-swap ledger on SQLite: integer micro-units, idempotent reserve, in-flight and overrun handling."
+2026-10-18T04:10:50.975273Z,rightkit-time,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Time owner: RFC 3339 parse and format, fixed UTC offsets, civil date math and HTTP-date formatting, std only."
+2026-10-18T04:11:26.090474Z,rightkit-typeset,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Typst rendering for titles, captions and math, with mitex LaTeX input, for Right Suite applications; no file access, no package fetching, explicit fonts"
+2026-10-18T04:15:47.010098Z,core-markdown,0.1.0,0,0,https://github.com/core-rs/core-markdown,CommonMark compliant markdown parser in Rust with ASTs and extensions
+2026-10-18T04:16:04.283864Z,mesquite_astro,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Astro grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-astro-next 0.1.1"
+2026-10-18T04:16:20.517207Z,rightkit-google-identity,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Sign in with Google protocol pieces for Right Suite apps: OAuth PKCE request and redirect handling, token response and ID-token claim checks, and refresh-token storage in rightkit-credentials."
+2026-10-18T04:17:32.646101Z,bcode_model_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,model command palette plugin for bcode
