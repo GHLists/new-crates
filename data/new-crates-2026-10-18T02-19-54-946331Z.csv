@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T01:18:51.153306Z,welllas,0.0.1,0,0,https://github.com/GeoLarryLai/welllas-rs,Read LAS well-log files
+2026-10-18T01:21:15.184685Z,lumenui,0.0.10,0,0,https://github.com/lumen-fx/lumen,"Lumen UI framework Rust SDK: an ECS-first app surface over the Lumen engine, linked from the release's prebuilt engine."
+2026-10-18T01:21:16.636403Z,loams-proto,0.1.0-preview.2,0,0,https://github.com/ostrium-labs/loams,"The public loams.*.v1 protos of the unified Connect API (design §44 §7-§8): buffa messages, connect-rust service traits and, with the `client` feature, clients, generated at build time; plus the desc…"
+2026-10-18T01:21:26.086297Z,lumenui-canvas,0.0.10,0,0,https://github.com/lumen-fx/lumen,"Lumen's canvas module: registers the canvas script namespace and paints <canvas> elements on every render backend, as a runtime module or a compiled-in plugin. For Rust SDK (lumenui) apps, linked fro…"
+2026-10-18T01:21:30.223686Z,loams-live-proto,0.1.0-preview.2,0,0,https://github.com/ostrium-labs/loams,"The loams.live.v1 protos of Loams Live: buffa messages and the connect-rust LiveService trait and client, generated at build time."
+2026-10-18T01:21:57.298675Z,bbtree,0.1.1,0,0,https://github.com/XiangpengHao/bbtree,Blessed B-tree.
+2026-10-18T01:22:46.493685Z,loams,0.1.0-preview.2,0,0,https://github.com/ostrium-labs/loams,"The Loams SDK for Rust: one Loams client with namespaced modules over the unified Connect API, generated from proto/."
+2026-10-18T01:24:27.826194Z,flush-core,0.1.1,0,0,,"Tipos centrais do Flush: Snowflake, entidades e eventos (paridade com @fluxerjs/types)"
+2026-10-18T01:24:39.914233Z,flush-gateway,0.1.1,0,0,,Gateway WebSocket v1 do Flush (Hello/Identify/Resume/Heartbeat/Dispatch)
+2026-10-18T01:24:52.327836Z,flush-rest,0.1.1,0,0,,Cliente REST /v1 do Flush sobre surf + discovery /.well-known/fluxer
+2026-10-18T01:25:02.662189Z,flush-framework,0.1.1,0,0,,"Framework de comandos com prefixo do Flush (roteador, cooldown, reply, config por servidor)"
+2026-10-18T01:25:10.046261Z,flush-lib,0.1.1,0,0,,Flush: framework/lib em Rust para bots do Fluxer (gateway + REST + comandos)
+2026-10-18T01:27:32.685323Z,bcode_tui_components,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Reusable terminal UI components for bcode
+2026-10-18T01:27:42.211322Z,metrale-model-arch,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"Metrale Engine: per-family architectures (GLM-5 Next, DeepSeek V4.1, Nemotron, Kimi K3, DFlash/MTP heads) and their weight loaders."
+2026-10-18T01:36:15.348313Z,hyprlnk,2027.0.0,0,0,https://github.com/runepm/rune,"The fastest linker for Windows (x64, ARM64, x86) and macOS (arm64, arm64e, x86_64), and a fast one for Linux (x86-64, AArch64, ARM, RISC-V and more): a drop-in for link.exe, lld-link, ld64, GNU ld an…"
+2026-10-18T01:37:33.19786Z,bcode_document_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,document extraction tool plugin for bcode
+2026-10-18T01:37:38.067886Z,metrale-model-engine,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"Metrale Engine: the Model trait, the transformer model (prefill, decode, verify, SSM state), the generate engine and the model factory."
+2026-10-18T01:38:33.875925Z,hyprcross,2027.0.0-rc.1,0,0,https://github.com/runepm/hyprcross,"Cross-compile and cross-test Rust with Rune or Cargo: on the host when it can, in warm containers when it can't, linking with hyprlnk"
+2026-10-18T01:39:01.003322Z,cargo-hyprcross,2027.0.0-rc.1,0,0,https://github.com/runepm/hyprcross,Cargo subcommand for hyprcross: cross-compile and cross-test Rust with Rune or Cargo
+2026-10-18T01:44:49.537747Z,tpt-strata,0.1.0,0,0,https://github.com/tpt-solutions/tpt-strata,Embeddable columnar query engine with zero external dependencies
+2026-10-18T01:45:42.622644Z,tpt-strata-parquet,0.1.0,0,0,https://github.com/tpt-solutions/tpt-strata,Parquet import bridge for tpt-strata
+2026-10-18T01:46:01.709243Z,readio,0.1.0,0,0,https://github.com/fabriciomichael/readio,A lightweight Rust library for reading and validating console input.
+2026-10-18T01:47:32.749702Z,bcode_eval_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Serializable eval schema types for bcode
+2026-10-18T01:48:08.202734Z,met,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"Metrale Engine: pure Rust LLM inference server (HTTP API, scheduler, TUI, CLI)."
+2026-10-18T01:52:59.271409Z,steel-vulkano-macros,0.35.0,0,0,https://github.com/SSSxCCC/steel,Macros used by vulkano
+2026-10-18T01:54:14.252589Z,steel-vulkano,0.35.2,0,0,https://github.com/SSSxCCC/steel,Safe wrapper for the Vulkan graphics API
+2026-10-18T01:55:16.933656Z,steel-vulkano-util,0.35.0,0,0,https://github.com/SSSxCCC/steel,Utility functionality to make usage of vulkano easier
+2026-10-18T01:56:29.761339Z,steel-egui-winit-vulkano,0.28.0,0,0,https://github.com/SSSxCCC/steel,Egui immediate mode gui integration with winit and Vulkano
+2026-10-18T01:57:32.690859Z,bcode_prompt_cache_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,"Portable prompt-cache expectation, observation, and verification report types for bcode"
+2026-10-18T01:58:53.797159Z,sakuramml-v2,2.1.1,0,0,https://github.com/kujirahand/sakuramml,MML (Music Macro Language) to Standard MIDI File compiler core
+2026-10-18T01:59:03.154679Z,sakuramml-v2-cli,2.1.1,0,0,https://github.com/kujirahand/sakuramml,Command line MML to MIDI compiler (csakura2 command)
+2026-10-18T02:07:54.583072Z,bcode_prompt_cache,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,"Prompt-cache planning, expectations, simulation, and verification for bcode model providers"
+2026-10-18T02:14:28.348173Z,steel-internal,0.3.0,0,0,https://github.com/SSSxCCC/steel,The steel game engine core library.
+2026-10-18T02:15:43.005998Z,mesquite_language,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,The grammar tables and LanguageFn that Mesquite's runtime and grammar crates share
+2026-10-18T02:15:45.968692Z,caprock,0.1.0,0,0,https://github.com/mesa-hills-research/caprock,"A pure, safe Rust vector store with exact and Vamana graph search, int8 and binary codes rescored at full precision, path and language filters, and crash-safe incremental updates"
+2026-10-18T02:15:48.771293Z,mesquite_tsx,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The TSX grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-typescript 0.23.2"
+2026-10-18T02:15:51.710835Z,mesquite_php_only,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The PHP (without HTML) grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-php 0.25.1"
+2026-10-18T02:15:54.989253Z,mesquite_ocaml_interface,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The OCaml (interface) grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-ocaml 0.26.0"
+2026-10-18T02:17:33.261393Z,bcode_eval,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,"Eval runner, judges, reports, and comparisons for bcode"
