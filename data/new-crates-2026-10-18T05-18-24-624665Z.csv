@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T04:26:04.890184Z,mesquite_bash,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Bash grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-bash 0.25.1"
+2026-10-18T04:27:32.407289Z,bcode_tesseract_sys,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Raw Tesseract C API bindings and linker integration for bcode
+2026-10-18T04:29:00.399316Z,proxyres,1.5.5,0,0,https://github.com/proxyres/proxyres-rs,Cross-platform proxy resolution
+2026-10-18T04:32:24.662122Z,lemmata,0.1.0,0,0,https://github.com/arvarik/lemmata,A fast CLI for Laya System 1 decision and classification models
+2026-10-18T04:36:05.28015Z,mesquite_c_sharp,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The C# grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-c-sharp 0.23.5"
+2026-10-18T04:36:05.863542Z,rightkit-vault,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Split-key secret sync for Right Suite apps: a small secret map sealed under a random data key, the key wrapped under a server-held wrapping key combined with a client-held secret, the blob kept in th…"
+2026-10-18T04:37:32.514087Z,bcode_tesseract_ocr,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,"Safe, minimal Tesseract OCR wrapper for bcode"
+2026-10-18T04:38:03.510888Z,ek-ui,0.1.0,0,0,https://cnb.cool/enkeep/ek-ui,"ek 生态常驻主界面(egui/eframe):插件即界面——观测页 + 日志页,车头与 UI 同插件"
+2026-10-18T04:38:34.487059Z,ironevidence,0.1.0,0,0,https://github.com/nervosys/IronEvidence,Compliance evidence for the IronSecurity stack: OSCAL from each project's control mappings
+2026-10-18T04:39:48.551501Z,git-mates,0.0.0,0,0,https://github.com/ToyzZone/git-mates,Per-session git for shared working directories. Under development; this release only reserves the name.
+2026-10-18T04:43:17.077226Z,persistant-migrate,0.8.3,0,0,https://github.com/ciresnave/PersistAnt,"A command-line tool over PersistAnt's migrations: apply, status and fresh-install check for a directory of .up.sql files, on PostgreSQL, SQLite, MySQL and MariaDB."
+2026-10-18T04:46:04.556321Z,mesquite_cmake,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The CMake grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-cmake 0.7.5"
+2026-10-18T04:47:32.70616Z,bcode_ocr_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,OCR tool plugin for bcode
+2026-10-18T04:50:00.728388Z,alkblobs,0.1.0,0,0,https://git.alk.dev/alkdev/alkblobs,"Content-addressed blob storage: multi-hash put/get/verify store with pluggable backends, transport- and protocol-agnostic"
+2026-10-18T04:52:46.814097Z,agentpay,0.1.0,0,0,https://github.com/open-agentpay/AgentPay,The Open-Source Payment Infrastructure & Financial Firewall for Autonomous AI Agents
+2026-10-18T04:52:49.194037Z,open-agentpay,0.1.0,0,0,https://github.com/open-agentpay/AgentPay,The Open-Source Payment Infrastructure & Financial Firewall for Autonomous AI Agents
+2026-10-18T04:52:51.546227Z,agentpay-core,0.1.0,0,0,https://github.com/open-agentpay/AgentPay,Core payment infrastructure for AI agents (Open AgentPay)
+2026-10-18T04:52:53.742152Z,agentpay-gateway,0.1.0,0,0,https://github.com/open-agentpay/AgentPay,Reverse proxy & seller gateway for autonomous AI agent micro-payments
+2026-10-18T04:52:55.806629Z,agentpay-firewall,0.1.0,0,0,https://github.com/open-agentpay/AgentPay,Financial firewall & runaway circuit breaker for autonomous AI agents
+2026-10-18T04:56:04.43945Z,mesquite_css,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The CSS grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-css 0.25.0"
+2026-10-18T04:57:32.370014Z,bcode_model_catalog,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Bcode model catalog loader and static artifact builder
+2026-10-18T05:00:11.471196Z,cortexkit-bus-testkit,0.1.0,0,0,https://github.com/cortexkit/subconscious,"Private, binary-backed NATS and subc daemons for CortexKit module tests."
+2026-10-18T05:00:25.896386Z,doorplate,0.1.0,0,0,https://github.com/jeremeybingham/doorplate,"US address parser: components, USPS Pub 28 and RESO output, a match key and a slug. Pure Rust; does not validate deliverability."
+2026-10-18T05:00:36.330527Z,doorplate-cli,0.1.0,0,0,https://github.com/jeremeybingham/doorplate,"Command-line tool for the doorplate US address parser: JSON, USPS and RESO output, a match key, CSV files"
+2026-10-18T05:00:54.920412Z,konomanoasa-tree-sitter-diagnostic-sh,0.2.0,0,0,https://github.com/konomanoasa/tree-sitter-diagnostic-sh,Tree-sitter grammar for diagnostics of POSIX sh.
+2026-10-18T05:04:05.748174Z,dromos,0.1.0,0,0,,Dromos by Gravion Labs
+2026-10-18T05:05:00.150729Z,dromos-mux,0.1.0,0,0,,Multiplexing for dromos
+2026-10-18T05:06:05.548969Z,mesquite_cuda,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The CUDA grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-cuda 0.21.2"
+2026-10-18T05:07:32.691217Z,bcode_openai_compatible_provider_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,OpenAI-compatible model provider plugin for bcode
+2026-10-18T05:16:04.337416Z,mesquite_dart,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Dart grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-dart 0.2.0"
+2026-10-18T05:17:32.421599Z,bcode_opencode_session_import_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,OpenCode session import plugin for bcode
