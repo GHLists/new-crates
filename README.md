@@ -8,80 +8,62 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 16:19 UTC
+## Latest list — 2026-10-18 17:19 UTC
 
-New crates published between 2026-10-18 15:18 UTC and 2026-10-18 16:19 UTC.
+New crates published between 2026-10-18 16:19 UTC and 2026-10-18 17:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-18T16-19-50-294021Z.csv)
+[Full CSV](data/new-crates-2026-10-18T17-19-33-793009Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-18 15:18:32 | [pedigree-rs](https://crates.io/crates/pedigree-rs) | 0.0.0 | 0 | Motor soberano e biblioteca Rust para manipulação de pedigrees, cálculo de pare… |
-| 2026-10-18 15:21:39 | [config-schema](https://crates.io/crates/config-schema) | 0.1.0 | 0 | Schema-checked TOML config helpers: a stale-JSON-Schema check, figment layering… |
-| 2026-10-18 15:21:42 | [git-changed-paths](https://crates.io/crates/git-changed-paths) | 0.1.0 | 0 | Paths a git working tree changed relative to a base ref: commits, staged, unsta… |
-| 2026-10-18 15:21:45 | [injecta-macros](https://crates.io/crates/injecta-macros) | 0.1.0 | 0 | Procedural macros for injecta: `container!`, `#[derive(Injectable)]`, `#[inject… |
-| 2026-10-18 15:21:57 | [llm-catalog](https://crates.io/crates/llm-catalog) | 0.1.0 | 0 | A model catalog for LLM agents: context windows, efforts, capabilities and pric… |
-| 2026-10-18 15:22:35 | [llm-http](https://crates.io/crates/llm-http) | 0.1.0 | 0 | HTTP plumbing for LLM provider wires: credential lookup, auth headers, error ma… |
-| 2026-10-18 15:22:45 | [serlog](https://crates.io/crates/serlog) | 0.1.1 | 0 | A modern, high-performance logging framework: any number of sinks, each configu… |
-| 2026-10-18 15:22:53 | [ferrox-agent-toolkit](https://crates.io/crates/ferrox-agent-toolkit) | 0.1.1 | 0 | Ferrox Autonomous Agent Engineering Toolkit: Dual-layer Agile Scrum, Pure DDD,… |
-| 2026-10-18 15:23:37 | [infrarust-plugin-common](https://crates.io/crates/infrarust-plugin-common) | 2.0.0-beta.4 | 0 | Dependency-free types shared by the Infrarust plugin API and the WASM guest SDK |
-| 2026-10-18 15:25:09 | [infrarust-plugin-wit](https://crates.io/crates/infrarust-plugin-wit) | 2.0.0-beta.4 | 0 | Frozen WIT contract (infrarust:plugin) shared by the WASM host loader and the g… |
-| 2026-10-18 15:25:14 | [infrarust-loader-wasm](https://crates.io/crates/infrarust-loader-wasm) | 2.0.0-beta.4 | 0 | WebAssembly (Component Model) plugin loader for Infrarust |
-| 2026-10-18 15:25:16 | [infrarust-plugin-stats](https://crates.io/crates/infrarust-plugin-stats) | 2.0.0-beta.4 | 0 | Shared logic for the Infrarust stats plugin (native + WASM double distribution) |
-| 2026-10-18 15:25:19 | [infrarust-plugin-stats-native](https://crates.io/crates/infrarust-plugin-stats-native) | 2.0.0-beta.4 | 0 | Native build of the Infrarust stats plugin |
-| 2026-10-18 15:25:38 | [baton-proto](https://crates.io/crates/baton-proto) | 0.2.11 | 0 | Wire protocol (messages and framing) shared by the baton daemon and TUI |
-| 2026-10-18 15:25:45 | [baton-core](https://crates.io/crates/baton-core) | 0.2.11 | 0 | Core logic for baton: config, session status and attention rules |
-| 2026-10-18 15:26:05 | [mhr-gpui-wgpu](https://crates.io/crates/mhr-gpui-wgpu) | 0.1.0 | 0 | The wgpu renderer and cosmic-text text system of mhr-gpui, a fork of Zed's gpui |
-| 2026-10-18 15:26:22 | [baton-tui](https://crates.io/crates/baton-tui) | 0.2.11 | 0 | Terminal UI for running and supervising several Claude Code sessions |
-| 2026-10-18 15:27:48 | [bcode_docs_site_ui](https://crates.io/crates/bcode_docs_site_ui) | 0.0.1-alpha.0 | 0 | Bcode documentation website UI components |
-| 2026-10-18 15:28:12 | [ferrox-codex](https://crates.io/crates/ferrox-codex) | 0.1.0 | 0 | High-performance zero-JavaScript WebAssembly documentation platform and static… |
-| 2026-10-18 15:28:53 | [d2-render](https://crates.io/crates/d2-render) | 0.1.0 | 0 | Render D2 diagrams to SVG/PNG in pure Rust (or through the optional d2 CLI back… |
-| 2026-10-18 15:29:11 | [script-gate-kit](https://crates.io/crates/script-gate-kit) | 0.1.0 | 0 | Static resource gate for embedded scripts: byte cap, bracket-depth scan, prefix… |
-| 2026-10-18 15:29:29 | [localgpt-world-editor](https://crates.io/crates/localgpt-world-editor) | 0.4.0 | 0 | The non-linear editing model for the Open World Format: tips, forks, folds and… |
-| 2026-10-18 15:29:31 | [localgpt-world-agent](https://crates.io/crates/localgpt-world-agent) | 0.4.0 | 0 | The shared world agent runtime — the tool-call protocol and pure SceneInterpret… |
-| 2026-10-18 15:32:36 | [dacc-rules](https://crates.io/crates/dacc-rules) | 1.0.0 | 0 | DACC: one verdict code for tree-shape rules - production-line lexer, measures,… |
-| 2026-10-18 15:32:39 | [dacc-rules-macro](https://crates.io/crates/dacc-rules-macro) | 1.0.0 | 0 | DACC: the check_crate!() macro - tree-shape rules checked at compile time with… |
-| 2026-10-18 15:34:51 | [claviron-types](https://crates.io/crates/claviron-types) | 0.2.0-alpha.17 | 0 | Shared host identities and optional certificate primitives for Claviron |
-| 2026-10-18 15:34:53 | [claviron-geoip](https://crates.io/crates/claviron-geoip) | 0.2.0-alpha.17 | 0 | Boot-configured MaxMind country lookup for Claviron |
-| 2026-10-18 15:34:57 | [llm-wire-anthropic](https://crates.io/crates/llm-wire-anthropic) | 0.1.0 | 0 | The Anthropic Messages wire for LLM agent loops: request translation with cache… |
-| 2026-10-18 15:36:07 | [mhr-gpui-linux](https://crates.io/crates/mhr-gpui-linux) | 0.1.0 | 0 | The Linux and FreeBSD platform of mhr-gpui, a fork of Zed's gpui, on Wayland an… |
-| 2026-10-18 15:36:26 | [visionclaw-wire](https://crates.io/crates/visionclaw-wire) | 0.1.0 | 0 | The frozen VisionClaw position wire: the 52-byte V3 node record, V5 sequence en… |
-| 2026-10-18 15:37:21 | [commy-wire](https://crates.io/crates/commy-wire) | 0.0.0 | 0 | Commy wire contract (spec, JSON Schema, golden vectors, shared Rust wire types)… |
-| 2026-10-18 15:37:33 | [bcode_docs_site](https://crates.io/crates/bcode_docs_site) | 0.0.1-alpha.0 | 0 | Bcode documentation website |
-| 2026-10-18 15:39:50 | [chisel-kernel](https://crates.io/crates/chisel-kernel) | 0.1.0 | 0 | Chisel platform kernel: typed configuration and validated document/session iden… |
-| 2026-10-18 15:42:34 | [unisql-macro-core](https://crates.io/crates/unisql-macro-core) | 0.0.0 | 0 | Part of UniSQL's compile-time SQL macros (name reserved; first release pending). |
-| 2026-10-18 15:43:09 | [unisql-macros](https://crates.io/crates/unisql-macros) | 0.0.0 | 0 | Part of UniSQL's compile-time SQL macros (name reserved; first release pending). |
-| 2026-10-18 15:43:43 | [unisql-embed](https://crates.io/crates/unisql-embed) | 0.0.0 | 0 | Part of UniSQL's compile-time SQL macros (name reserved; first release pending). |
-| 2026-10-18 15:44:42 | [cpfinder](https://crates.io/crates/cpfinder) | 0.1.0 | 0 | A Language Server Protocol (LSP) implementation for buffer, path, tmux, snippet… |
-| 2026-10-18 15:44:51 | [claviron-metrics](https://crates.io/crates/claviron-metrics) | 0.2.0-alpha.17 | 0 | Composition of independently owned Prometheus metric families for Claviron |
-| 2026-10-18 15:46:08 | [mhr-gpui-macos](https://crates.io/crates/mhr-gpui-macos) | 0.1.0 | 0 | The macOS platform of mhr-gpui, a fork of Zed's gpui |
-| 2026-10-18 15:47:32 | [bcode_hello_plugin](https://crates.io/crates/bcode_hello_plugin) | 0.0.1-alpha.0 | 0 | Example native plugin for bcode |
-| 2026-10-18 15:50:28 | [chisel-assets](https://crates.io/crates/chisel-assets) | 0.1.0 | 0 | Content-addressed document store for Chisel: BLAKE3-addressed, verify-on-read,… |
-| 2026-10-18 15:54:51 | [claviron-orbit](https://crates.io/crates/claviron-orbit) | 0.2.0-alpha.17 | 0 | Claviron lifecycle bindings for Orbitive shared memory, events, locks, counters… |
-| 2026-10-18 15:56:06 | [mhr-gpui-web](https://crates.io/crates/mhr-gpui-web) | 0.1.0 | 0 | The web platform of mhr-gpui, a fork of Zed's gpui, for WebAssembly in the brow… |
-| 2026-10-18 15:57:32 | [bcode_model_discovery](https://crates.io/crates/bcode_model_discovery) | 0.0.1-alpha.0 | 0 | Generated live model catalog discovery |
-| 2026-10-18 16:01:00 | [taba-client](https://crates.io/crates/taba-client) | 0.1.0-rc.3 | 0 | The Taba Rust connector: its own HTTP/1.1, TLS through rustls and a minimal JSO… |
-| 2026-10-18 16:01:08 | [chisel-audit](https://crates.io/crates/chisel-audit) | 0.1.0 | 0 | Tamper-evident document audit trail for Chisel: SHA-256-chained, queryable, ext… |
-| 2026-10-18 16:01:38 | [taba-cli](https://crates.io/crates/taba-cli) | 0.1.0-rc.3 | 0 | The Taba client command line. |
-| 2026-10-18 16:04:26 | [llm-wire-openai](https://crates.io/crates/llm-wire-openai) | 0.1.0 | 0 | OpenAI Chat Completions and Responses wires for LLM agent loops, also used for… |
-| 2026-10-18 16:04:51 | [claviron-app](https://crates.io/crates/claviron-app) | 0.2.0-alpha.17 | 0 | Runtime-qualified application identity, control, status, and events for Claviron |
-| 2026-10-18 16:05:12 | [mcp-client-host](https://crates.io/crates/mcp-client-host) | 0.1.0 | 0 | MCP client host: .mcp.json discovery, fail-open connect_all, OAuth with an inje… |
-| 2026-10-18 16:05:19 | [path-gates](https://crates.io/crates/path-gates) | 0.1.0 | 0 | Map changed paths to named gates by glob rules from a TOML config |
-| 2026-10-18 16:06:02 | [devpane](https://crates.io/crates/devpane) | 0.2.0 | 0 | A terminal-first multi-process workspace and development dashboard |
-| 2026-10-18 16:06:07 | [mhr-gpui-windows](https://crates.io/crates/mhr-gpui-windows) | 0.1.0 | 0 | The Windows platform of mhr-gpui, a fork of Zed's gpui |
-| 2026-10-18 16:06:21 | [owntracks-bridge](https://crates.io/crates/owntracks-bridge) | 0.1.0 | 0 | Owntracks HTTP server that republishes all received payloads via MQTT |
-| 2026-10-18 16:07:32 | [bcode_models_site_ui](https://crates.io/crates/bcode_models_site_ui) | 0.0.1-alpha.0 | 0 | Bcode models catalog website UI components |
-| 2026-10-18 16:08:59 | [doc-section](https://crates.io/crates/doc-section) | 0.1.0 | 0 | Use sections of a Markdown file as Rust documentation |
-| 2026-10-18 16:10:15 | [ek-paper](https://crates.io/crates/ek-paper) | 0.1.0 | 0 | Paper gateway for the enkeep ek ecosystem: a locally simulated gateway (Python… |
-| 2026-10-18 16:11:51 | [chisel-auth](https://crates.io/crates/chisel-auth) | 0.1.0 | 0 | Chisel platform authentication: JWT sessions with a closed role vocabulary, and… |
-| 2026-10-18 16:15:15 | [cctwin](https://crates.io/crates/cctwin) | 0.1.0 | 0 | Menu bar app to switch Claude Code between Claude accounts you own |
-| 2026-10-18 16:16:06 | [mhr-gpui-platform](https://crates.io/crates/mhr-gpui-platform) | 0.1.0 | 0 | Starts mhr-gpui, a fork of Zed's gpui, on macOS, Windows, Linux or the web |
-| 2026-10-18 16:17:32 | [bcode_models_site](https://crates.io/crates/bcode_models_site) | 0.0.1-alpha.0 | 0 | Bcode models catalog website |
-| 2026-10-18 16:17:48 | [rustamp-metal](https://crates.io/crates/rustamp-metal) | 0.1.0 | 0 | Hardware and OS abstraction layer for OpenAMP in Rust (a port of libmetal) |
-| 2026-10-18 16:17:51 | [rustamp-virtio](https://crates.io/crates/rustamp-virtio) | 0.1.0 | 0 | Virtio split virtqueues (driver and device roles) and transports for OpenAMP in… |
-| 2026-10-18 16:17:53 | [rustamp-rpmsg](https://crates.io/crates/rustamp-rpmsg) | 0.1.0 | 0 | RPMsg inter-processor messaging over virtio, compatible with Linux and OpenAMP |
-| 2026-10-18 16:17:56 | [rustamp-remoteproc](https://crates.io/crates/rustamp-remoteproc) | 0.1.0 | 0 | Remote processor lifecycle, ELF loading, resource tables and virtio transport f… |
-| 2026-10-18 16:17:58 | [rustamp-proxy](https://crates.io/crates/rustamp-proxy) | 0.1.0 | 0 | File and console I/O forwarding over rpmsg (rpmsg_retarget), remote client and… |
+| 2026-10-18 16:20:05 | [claviron-cache](https://crates.io/crates/claviron-cache) | 0.2.0-alpha.17 | 0 | Named cache stores, typed values, and fleet-shared caching for Claviron |
+| 2026-10-18 16:21:22 | [atari-sio-link](https://crates.io/crates/atari-sio-link) | 0.4.0 | 0 | Library to boot Atari executables or disks to a real Atari over a SIO2PC-style… |
+| 2026-10-18 16:21:24 | [atari-sio-link-cli](https://crates.io/crates/atari-sio-link-cli) | 0.4.0 | 0 | Tool to boot Atari executables or disks to a real Atari over a SIO2PC-style ser… |
+| 2026-10-18 16:21:35 | [hdf5rs](https://crates.io/crates/hdf5rs) | 0.0.1 | 0 | Pure Rust, minimal-dependency reader and writer for HDF5 files |
+| 2026-10-18 16:21:49 | [clawft-app](https://crates.io/crates/clawft-app) | 0.8.3 | 0 | WeftOS app manifest parser, validator, and local app registry (ADR-015) |
+| 2026-10-18 16:21:58 | [weftos-leaf-types](https://crates.io/crates/weftos-leaf-types) | 0.1.0 | 0 | Shared wire schema for WeftOS kernel → leaf push operations (no_std compatible) |
+| 2026-10-18 16:22:03 | [clawft-bvh](https://crates.io/crates/clawft-bvh) | 0.8.3 | 0 | BVH broad-phase spatial index (ADR-056 Phase A). No kernel/chain deps — pure ge… |
+| 2026-10-18 16:22:26 | [clawft-canon](https://crates.io/crates/clawft-canon) | 0.8.3 | 0 | Primitive canon widgets + return-signal types (ADR-001 / ADR-006) shared by cla… |
+| 2026-10-18 16:23:28 | [clawft-channels](https://crates.io/crates/clawft-channels) | 0.8.3 | 0 | Channel plugin system for clawft |
+| 2026-10-18 16:24:50 | [claviron-hosting](https://crates.io/crates/claviron-hosting) | 0.2.0-alpha.17 | 0 | Hosting persistence, aliases, and certificate records for Claviron |
+| 2026-10-18 16:24:59 | [perm-rules](https://crates.io/crates/perm-rules) | 0.1.0 | 0 | Permission rules for tool calls: Claude Code's Tool(subject) grammar, deny > al… |
+| 2026-10-18 16:25:01 | [codescape-model](https://crates.io/crates/codescape-model) | 0.1.0 | 0 | Codescape code-graph domain model: nodes, edges, interned wire ids, snapshots,… |
+| 2026-10-18 16:25:03 | [proc-sandbox](https://crates.io/crates/proc-sandbox) | 0.1.0 | 0 | Confine a child process: Seatbelt on macOS, bubblewrap or Landlock plus seccomp… |
+| 2026-10-18 16:25:07 | [codescape-collab](https://crates.io/crates/codescape-collab) | 0.1.0 | 0 | Codescape collaboration state: actor registry, activity heat, path-to-node reso… |
+| 2026-10-18 16:26:04 | [mhr-http-client-tls](https://crates.io/crates/mhr-http-client-tls) | 0.1.0 | 0 | The rustls client configuration of mhr-reqwest-client, for mhr-gpui, a fork of… |
+| 2026-10-18 16:27:32 | [bcode_question_dynamic_plugin](https://crates.io/crates/bcode_question_dynamic_plugin) | 0.0.1-alpha.0 | 0 | dynamic ABI fixture for the bcode question plugin |
+| 2026-10-18 16:28:06 | [gpui-motion-kit](https://crates.io/crates/gpui-motion-kit) | 0.2.0 | 0 | Declarative, interruptible animations and text motion for GPUI Kit |
+| 2026-10-18 16:34:34 | [clawft-cow-memory](https://crates.io/crates/clawft-cow-memory) | 0.8.3 | 0 | Branchable, checkpointable memory over rvf-runtime::RvfStore (agenticow semanti… |
+| 2026-10-18 16:34:51 | [claviron-logging](https://crates.io/crates/claviron-logging) | 0.2.0-alpha.17 | 0 | Process diagnostics and fleet-buffered log channels for Claviron |
+| 2026-10-18 16:36:06 | [mhr-reqwest-client](https://crates.io/crates/mhr-reqwest-client) | 0.1.0 | 0 | An HTTP client for mhr-gpui, a fork of Zed's gpui, built on reqwest |
+| 2026-10-18 16:37:28 | [wltile-core](https://crates.io/crates/wltile-core) | 0.1.1 | 0 | Output/display management for wlroots based compositors |
+| 2026-10-18 16:37:32 | [brouter_api_models](https://crates.io/crates/brouter_api_models) | 0.0.1-alpha.0 | 0 | OpenAI-compatible API models for brouter |
+| 2026-10-18 16:42:59 | [image-grid-combine](https://crates.io/crates/image-grid-combine) | 1.0.0 | 0 | Combine several images into one grid image: grid layout maths plus RGBA composi… |
+| 2026-10-18 16:44:52 | [claviron-supervisor](https://crates.io/crates/claviron-supervisor) | 0.2.0-alpha.17 | 0 | Worker process supervision, recovery, rolling restart, and fleet management for… |
+| 2026-10-18 16:45:46 | [clawft-service-llm](https://crates.io/crates/clawft-service-llm) | 0.8.3 | 0 | WeftOS LLM service — HTTP client to a locally-hosted llama.cpp (or any OpenAI-c… |
+| 2026-10-18 16:47:32 | [brouter_catalog_models](https://crates.io/crates/brouter_catalog_models) | 0.0.1-alpha.0 | 0 | Fallback model catalog data models for brouter |
+| 2026-10-18 16:51:14 | [ldf-data](https://crates.io/crates/ldf-data) | 0.1.0 | 0 | Value model, numeric semantics and input readers (JSON, JSONL, CSV, Parquet) fo… |
+| 2026-10-18 16:52:49 | [ldf](https://crates.io/crates/ldf) | 0.1.0 | 0 | Language Data Format: a lossless, line-oriented text encoding of JSON records t… |
+| 2026-10-18 16:54:24 | [shell-completions](https://crates.io/crates/shell-completions) | 0.1.0 | 0 | Shared clap shell completion generation, including Clink |
+| 2026-10-18 16:54:28 | [ldf-mcp](https://crates.io/crates/ldf-mcp) | 0.1.0 | 0 | MCP server over stdio: a proxy that re-encodes JSON tool results as LDF, plus C… |
+| 2026-10-18 16:54:51 | [claviron-tasks](https://crates.io/crates/claviron-tasks) | 0.2.0-alpha.17 | 0 | Lifecycle-managed tasks, scheduling, and fleet dispatch for Claviron |
+| 2026-10-18 16:57:22 | [weftos-worldmodel-core](https://crates.io/crates/weftos-worldmodel-core) | 0.8.3 | 0 | LeWM world-model core traits and latent contract (no_std). WEFT-520. |
+| 2026-10-18 16:57:32 | [brouter_config_models](https://crates.io/crates/brouter_config_models) | 0.0.1-alpha.0 | 0 | Configuration data models for brouter |
+| 2026-10-18 16:57:39 | [input-kit](https://crates.io/crates/input-kit) | 0.1.0 | 0 | Toolkit-neutral text-composition semantics for Rust: IME preedit state machine,… |
+| 2026-10-18 17:04:52 | [claviron-tls](https://crates.io/crates/claviron-tls) | 0.2.0-alpha.17 | 0 | Shared certificate resolution, TLS policy, and mutual TLS configuration for Cla… |
+| 2026-10-18 17:07:12 | [zakura-transparent-recovery-types](https://crates.io/crates/zakura-transparent-recovery-types) | 0.0.0 | 0 | Reserved |
+| 2026-10-18 17:07:32 | [brouter_catalog](https://crates.io/crates/brouter_catalog) | 0.0.1-alpha.0 | 0 | Curated fallback model catalog for brouter |
+| 2026-10-18 17:08:26 | [weftos-worldmodel-impls](https://crates.io/crates/weftos-worldmodel-impls) | 0.8.3 | 0 | LeWM world-model trait implementations (null/stub default; optional candle ViT-… |
+| 2026-10-18 17:08:29 | [weftos-worldmodel](https://crates.io/crates/weftos-worldmodel) | 0.8.3 | 0 | LeWM latent world-model facade: re-exports core traits + default impls (single… |
+| 2026-10-18 17:09:32 | [gled-model](https://crates.io/crates/gled-model) | 2.30.0 | 0 | The data model of gled: projects, scenes, effects, animations, curves and assets |
+| 2026-10-18 17:09:33 | [gled-gpu](https://crates.io/crates/gled-gpu) | 2.30.0 | 0 | The wgpu pipelines of gled: effect rendering, LED output and the LED preview |
+| 2026-10-18 17:09:34 | [gled-protocol](https://crates.io/crates/gled-protocol) | 2.30.0 | 0 | What gled's user interfaces and its engine send each other |
+| 2026-10-18 17:09:36 | [gled-svg](https://crates.io/crates/gled-svg) | 2.30.0 | 0 | gled's lamp layouts: reads fixtures, groups and universes from SVG files |
+| 2026-10-18 17:09:37 | [gled-core](https://crates.io/crates/gled-core) | 2.30.0 | 0 | The engine of gled without a user interface: inputs, timing, rendering, Art-Net… |
+| 2026-10-18 17:12:08 | [cql-hpc-collect](https://crates.io/crates/cql-hpc-collect) | 0.2.0 | 0 | Measures real CQL performance on public workload shapes (NoSQLBench, cassandra-… |
+| 2026-10-18 17:14:52 | [claviron-http](https://crates.io/crates/claviron-http) | 0.2.0-alpha.17 | 0 | Shared HTTP types, request policy, configuration, and routing contracts for Cla… |
+| 2026-10-18 17:16:58 | [onde-cloud-sdk](https://crates.io/crates/onde-cloud-sdk) | 0.1.0 | 0 | A client for the Onde Cloud console API: per-user apps, tier lists, daily limit… |
+| 2026-10-18 17:17:32 | [brouter_provider_models](https://crates.io/crates/brouter_provider_models) | 0.0.1-alpha.0 | 0 | Provider and model metadata types for brouter |
 
 ## Data source
 

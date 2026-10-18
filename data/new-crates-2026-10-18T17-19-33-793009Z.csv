@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T16:20:05.752481Z,claviron-cache,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,"Named cache stores, typed values, and fleet-shared caching for Claviron"
+2026-10-18T16:21:22.602456Z,atari-sio-link,0.4.0,0,0,https://github.com/alexkazik/atari-sio-link,Library to boot Atari executables or disks to a real Atari over a SIO2PC-style serial cable
+2026-10-18T16:21:24.351054Z,atari-sio-link-cli,0.4.0,0,0,https://github.com/alexkazik/atari-sio-link,Tool to boot Atari executables or disks to a real Atari over a SIO2PC-style serial cable
+2026-10-18T16:21:35.77132Z,hdf5rs,0.0.1,0,0,https://github.com/KarpelesLab/hdf5rs,"Pure Rust, minimal-dependency reader and writer for HDF5 files"
+2026-10-18T16:21:49.777987Z,clawft-app,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,"WeftOS app manifest parser, validator, and local app registry (ADR-015)"
+2026-10-18T16:21:58.511255Z,weftos-leaf-types,0.1.0,0,0,https://github.com/weave-logic-ai/weftos,Shared wire schema for WeftOS kernel → leaf push operations (no_std compatible)
+2026-10-18T16:22:03.656344Z,clawft-bvh,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,BVH broad-phase spatial index (ADR-056 Phase A). No kernel/chain deps — pure geometry + registry.
+2026-10-18T16:22:26.053021Z,clawft-canon,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,Primitive canon widgets + return-signal types (ADR-001 / ADR-006) shared by clawft-surface composer and clawft-gui-egui
+2026-10-18T16:23:28.641474Z,clawft-channels,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,Channel plugin system for clawft
+2026-10-18T16:24:50.905902Z,claviron-hosting,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,"Hosting persistence, aliases, and certificate records for Claviron"
+2026-10-18T16:24:59.517659Z,perm-rules,0.1.0,0,0,https://github.com/pyrlyn/crates,"Permission rules for tool calls: Claude Code's Tool(subject) grammar, deny > allow > ask decision order and a risk fallback"
+2026-10-18T16:25:01.032112Z,codescape-model,0.1.0,0,0,https://github.com/DreamLab-AI/codescape,"Codescape code-graph domain model: nodes, edges, interned wire ids, snapshots, deltas, LOD tiers, community matching and the frozen V3 record mapping. I/O-free."
+2026-10-18T16:25:03.933225Z,proc-sandbox,0.1.0,0,0,https://github.com/pyrlyn/crates,"Confine a child process: Seatbelt on macOS, bubblewrap or Landlock plus seccomp on Linux, and a path guard for workspace roots"
+2026-10-18T16:25:07.541902Z,codescape-collab,0.1.0,0,0,https://github.com/DreamLab-AI/codescape,"Codescape collaboration state: actor registry, activity heat, path-to-node resolution, the single-floor push-to-talk arbiter and the voice/typed command grammar that yields a typed Command AST. I/O-f…"
+2026-10-18T16:26:04.764326Z,mhr-http-client-tls,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"The rustls client configuration of mhr-reqwest-client, for mhr-gpui, a fork of Zed's gpui"
+2026-10-18T16:27:32.596255Z,bcode_question_dynamic_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,dynamic ABI fixture for the bcode question plugin
+2026-10-18T16:28:06.723647Z,gpui-motion-kit,0.2.0,0,0,https://github.com/1bye/gpui-motion,"Declarative, interruptible animations and text motion for GPUI Kit"
+2026-10-18T16:34:34.123393Z,clawft-cow-memory,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,"Branchable, checkpointable memory over rvf-runtime::RvfStore (agenticow semantics, ported to Rust)."
+2026-10-18T16:34:51.907702Z,claviron-logging,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,Process diagnostics and fleet-buffered log channels for Claviron
+2026-10-18T16:36:06.836603Z,mhr-reqwest-client,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"An HTTP client for mhr-gpui, a fork of Zed's gpui, built on reqwest"
+2026-10-18T16:37:28.017883Z,wltile-core,0.1.1,0,0,https://github.com/kdehairy/wltile,Output/display management for wlroots based compositors
+2026-10-18T16:37:32.210592Z,brouter_api_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,OpenAI-compatible API models for brouter
+2026-10-18T16:42:59.498044Z,image-grid-combine,1.0.0,0,0,,"Combine several images into one grid image: grid layout maths plus RGBA compositing, with no dependencies."
+2026-10-18T16:44:52.048203Z,claviron-supervisor,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,"Worker process supervision, recovery, rolling restart, and fleet management for Claviron"
+2026-10-18T16:45:46.788176Z,clawft-service-llm,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,"WeftOS LLM service — HTTP client to a locally-hosted llama.cpp (or any OpenAI-compatible) chat-completions endpoint, exposed to the daemon as the `llm.prompt` RPC."
+2026-10-18T16:47:32.268406Z,brouter_catalog_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Fallback model catalog data models for brouter
+2026-10-18T16:51:14.108951Z,ldf-data,0.1.0,0,0,https://github.com/caioricciuti/ldf,"Value model, numeric semantics and input readers (JSON, JSONL, CSV, Parquet) for LDF, the Language Data Format"
+2026-10-18T16:52:49.816056Z,ldf,0.1.0,0,0,https://github.com/caioricciuti/ldf,"Language Data Format: a lossless, line-oriented text encoding of JSON records that language models read for fewer tokens"
+2026-10-18T16:54:24.592116Z,shell-completions,0.1.0,0,0,https://github.com/pyrlyn/crates,"Shared clap shell completion generation, including Clink"
+2026-10-18T16:54:28.157449Z,ldf-mcp,0.1.0,0,0,https://github.com/caioricciuti/ldf,"MCP server over stdio: a proxy that re-encodes JSON tool results as LDF, plus ClickHouse and files sources that return rows as LDF"
+2026-10-18T16:54:51.309135Z,claviron-tasks,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,"Lifecycle-managed tasks, scheduling, and fleet dispatch for Claviron"
+2026-10-18T16:57:22.447494Z,weftos-worldmodel-core,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,LeWM world-model core traits and latent contract (no_std). WEFT-520.
+2026-10-18T16:57:32.226834Z,brouter_config_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Configuration data models for brouter
+2026-10-18T16:57:39.566486Z,input-kit,0.1.0,0,0,https://github.com/WyattAu/input-kit,"Toolkit-neutral text-composition semantics for Rust: IME preedit state machine, grapheme-cluster caret mapping, and dead-key composition. Pure logic, no windowing or widget dependency"
+2026-10-18T17:04:52.053478Z,claviron-tls,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,"Shared certificate resolution, TLS policy, and mutual TLS configuration for Claviron"
+2026-10-18T17:07:12.049261Z,zakura-transparent-recovery-types,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-10-18T17:07:32.299612Z,brouter_catalog,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Curated fallback model catalog for brouter
+2026-10-18T17:08:26.874925Z,weftos-worldmodel-impls,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,LeWM world-model trait implementations (null/stub default; optional candle ViT-tiny + AdaLN skeleton). WEFT-521.
+2026-10-18T17:08:29.679197Z,weftos-worldmodel,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,LeWM latent world-model facade: re-exports core traits + default impls (single entrypoint for consumers). WEFT-522.
+2026-10-18T17:09:32.327052Z,gled-model,2.30.0,0,0,https://gitlab.com/photonenkollektiv/gled2,"The data model of gled: projects, scenes, effects, animations, curves and assets"
+2026-10-18T17:09:33.985315Z,gled-gpu,2.30.0,0,0,https://gitlab.com/photonenkollektiv/gled2,"The wgpu pipelines of gled: effect rendering, LED output and the LED preview"
+2026-10-18T17:09:34.530032Z,gled-protocol,2.30.0,0,0,https://gitlab.com/photonenkollektiv/gled2,What gled's user interfaces and its engine send each other
+2026-10-18T17:09:36.292561Z,gled-svg,2.30.0,0,0,https://gitlab.com/photonenkollektiv/gled2,"gled's lamp layouts: reads fixtures, groups and universes from SVG files"
+2026-10-18T17:09:37.646667Z,gled-core,2.30.0,0,0,https://gitlab.com/photonenkollektiv/gled2,"The engine of gled without a user interface: inputs, timing, rendering, Art-Net/DMX output and storage"
+2026-10-18T17:12:08.130339Z,cql-hpc-collect,0.2.0,0,0,https://github.com/Max-imalgutaussehend/cql-ai,"Measures real CQL performance on public workload shapes (NoSQLBench, cassandra-stress, YCSB, TSBS, KillrVideo) to build the cql-hpc bottleneck dataset"
+2026-10-18T17:14:52.094109Z,claviron-http,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,"Shared HTTP types, request policy, configuration, and routing contracts for Claviron"
+2026-10-18T17:16:58.222714Z,onde-cloud-sdk,0.1.0,0,0,,"A client for the Onde Cloud console API: per-user apps, tier lists, daily limits and the model catalogue."
+2026-10-18T17:17:32.524468Z,brouter_provider_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Provider and model metadata types for brouter
