@@ -1,0 +1,67 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T15:18:32.916962Z,pedigree-rs,0.0.0,0,0,https://codeberg.org/lumenpink/pedigree-rs,"Motor soberano e biblioteca Rust para manipulação de pedigrees, cálculo de parentesco e renderização de heredogramas clínicos conformes com as diretrizes NSGC/ACMG (paridade com pedtools/R)"
+2026-10-18T15:21:39.650633Z,config-schema,0.1.0,0,0,https://github.com/pyrlyn/crates,"Schema-checked TOML config helpers: a stale-JSON-Schema check, figment layering with per-key provenance, and comment-preserving key edits"
+2026-10-18T15:21:42.213805Z,git-changed-paths,0.1.0,0,0,https://github.com/pyrlyn/crates,"Paths a git working tree changed relative to a base ref: commits, staged, unstaged and untracked files"
+2026-10-18T15:21:45.979386Z,injecta-macros,0.1.0,0,0,https://github.com/pyrlyn/crates,"Procedural macros for injecta: `container!`, `#[derive(Injectable)]`, `#[injectable]`"
+2026-10-18T15:21:57.085334Z,llm-catalog,0.1.0,0,0,https://github.com/pyrlyn/crates,"A model catalog for LLM agents: context windows, efforts, capabilities and prices merged from built-in rows, host config and a user price file"
+2026-10-18T15:22:35.645948Z,llm-http,0.1.0,0,0,https://github.com/pyrlyn/crates,"HTTP plumbing for LLM provider wires: credential lookup, auth headers, error mapping, retry with backoff and SSE framing"
+2026-10-18T15:22:45.653179Z,serlog,0.1.1,0,0,https://github.com/LeoHeco/ServerLog,"A modern, high-performance logging framework: any number of sinks, each configured on its own, matching the popular loggers through compat profiles."
+2026-10-18T15:22:53.428001Z,ferrox-agent-toolkit,0.1.1,0,0,https://github.com/AI-Autistic-Intelligence/ferrox-agent-toolkit,"Ferrox Autonomous Agent Engineering Toolkit: Dual-layer Agile Scrum, Pure DDD, 100% TDD, and OWASP WSTG Sentinel architecture"
+2026-10-18T15:23:37.73808Z,infrarust-plugin-common,2.0.0-beta.4,0,0,https://github.com/Shadowner/Infrarust,Dependency-free types shared by the Infrarust plugin API and the WASM guest SDK
+2026-10-18T15:25:09.455881Z,infrarust-plugin-wit,2.0.0-beta.4,0,0,https://github.com/Shadowner/Infrarust,Frozen WIT contract (infrarust:plugin) shared by the WASM host loader and the guest SDK
+2026-10-18T15:25:14.244952Z,infrarust-loader-wasm,2.0.0-beta.4,0,0,https://github.com/Shadowner/Infrarust,WebAssembly (Component Model) plugin loader for Infrarust
+2026-10-18T15:25:16.754696Z,infrarust-plugin-stats,2.0.0-beta.4,0,0,https://github.com/Shadowner/Infrarust,Shared logic for the Infrarust stats plugin (native + WASM double distribution)
+2026-10-18T15:25:19.873058Z,infrarust-plugin-stats-native,2.0.0-beta.4,0,0,https://github.com/Shadowner/Infrarust,Native build of the Infrarust stats plugin
+2026-10-18T15:25:38.940958Z,baton-proto,0.2.11,0,0,https://github.com/ga-lep/baton,Wire protocol (messages and framing) shared by the baton daemon and TUI
+2026-10-18T15:25:45.776567Z,baton-core,0.2.11,0,0,https://github.com/ga-lep/baton,"Core logic for baton: config, session status and attention rules"
+2026-10-18T15:26:05.7439Z,mhr-gpui-wgpu,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"The wgpu renderer and cosmic-text text system of mhr-gpui, a fork of Zed's gpui"
+2026-10-18T15:26:22.902913Z,baton-tui,0.2.11,0,0,https://github.com/ga-lep/baton,Terminal UI for running and supervising several Claude Code sessions
+2026-10-18T15:27:48.403238Z,bcode_docs_site_ui,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Bcode documentation website UI components
+2026-10-18T15:28:12.576558Z,ferrox-codex,0.1.0,0,0,https://github.com/AI-Autistic-Intelligence/ferrox-front,High-performance zero-JavaScript WebAssembly documentation platform and static site generator
+2026-10-18T15:28:53.089396Z,d2-render,0.1.0,0,0,https://github.com/pyrlyn/crates,"Render D2 diagrams to SVG/PNG in pure Rust (or through the optional d2 CLI backend), with diagnostics and freshness checks"
+2026-10-18T15:29:11.510492Z,script-gate-kit,0.1.0,0,0,https://github.com/WyattAu/chisel-platform,"Static resource gate for embedded scripts: byte cap, bracket-depth scan, prefix-run and conditional limits - quote- and comment-aware, language-agnostic."
+2026-10-18T15:29:29.837778Z,localgpt-world-editor,0.4.0,0,0,https://github.com/localgpt-app/localgpt,"The non-linear editing model for the Open World Format: tips, forks, folds and deltas — no engine, no I/O"
+2026-10-18T15:29:31.165783Z,localgpt-world-agent,0.4.0,0,0,https://github.com/localgpt-app/localgpt,"The shared world agent runtime — the tool-call protocol and pure SceneInterpreter that build localgpt-world-types entities, with the mistral.rs session loop behind `llm`"
+2026-10-18T15:32:36.899887Z,dacc-rules,1.0.0,0,0,https://github.com/anishukserg/dacc,"DACC: one verdict code for tree-shape rules - production-line lexer, measures, projection formats, and the strict ratchet"
+2026-10-18T15:32:39.613092Z,dacc-rules-macro,1.0.0,0,0,https://github.com/anishukserg/dacc,DACC: the check_crate!() macro - tree-shape rules checked at compile time with a strict ratchet
+2026-10-18T15:34:51.591435Z,claviron-types,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,Shared host identities and optional certificate primitives for Claviron
+2026-10-18T15:34:53.952951Z,claviron-geoip,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,Boot-configured MaxMind country lookup for Claviron
+2026-10-18T15:34:57.786972Z,llm-wire-anthropic,0.1.0,0,0,https://github.com/pyrlyn/crates,"The Anthropic Messages wire for LLM agent loops: request translation with cache breakpoints, thinking and effort, the SSE stream parser and a streaming client"
+2026-10-18T15:36:07.589998Z,mhr-gpui-linux,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"The Linux and FreeBSD platform of mhr-gpui, a fork of Zed's gpui, on Wayland and X11"
+2026-10-18T15:36:26.955032Z,visionclaw-wire,0.1.0,0,0,https://github.com/DreamLab-AI/VisionClaw,"The frozen VisionClaw position wire: the 52-byte V3 node record, V5 sequence envelope, 0x34 acknowledgement and 0x23 agent-action framing, with byte-exact fixtures."
+2026-10-18T15:37:21.258718Z,commy-wire,0.0.0,0,0,https://github.com/ThinkersJournal/commy-wire,"Commy wire contract (spec, JSON Schema, golden vectors, shared Rust wire types). Name reserved; first release pending."
+2026-10-18T15:37:33.060901Z,bcode_docs_site,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Bcode documentation website
+2026-10-18T15:39:50.209779Z,chisel-kernel,0.1.0,0,0,https://github.com/WyattAu/chisel-platform,Chisel platform kernel: typed configuration and validated document/session identifiers.
+2026-10-18T15:42:34.075983Z,unisql-macro-core,0.0.0,0,0,https://github.com/ThinkersJournal/unisql,Part of UniSQL's compile-time SQL macros (name reserved; first release pending).
+2026-10-18T15:43:09.697352Z,unisql-macros,0.0.0,0,0,https://github.com/ThinkersJournal/unisql,Part of UniSQL's compile-time SQL macros (name reserved; first release pending).
+2026-10-18T15:43:43.005705Z,unisql-embed,0.0.0,0,0,https://github.com/ThinkersJournal/unisql,Part of UniSQL's compile-time SQL macros (name reserved; first release pending).
+2026-10-18T15:44:42.850527Z,cpfinder,0.1.0,0,0,,"A Language Server Protocol (LSP) implementation for buffer, path, tmux, snippets completion."
+2026-10-18T15:44:51.852778Z,claviron-metrics,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,Composition of independently owned Prometheus metric families for Claviron
+2026-10-18T15:46:08.092261Z,mhr-gpui-macos,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"The macOS platform of mhr-gpui, a fork of Zed's gpui"
+2026-10-18T15:47:32.842203Z,bcode_hello_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Example native plugin for bcode
+2026-10-18T15:50:28.235815Z,chisel-assets,0.1.0,0,0,https://github.com/WyattAu/chisel-platform,"Content-addressed document store for Chisel: BLAKE3-addressed, verify-on-read, deduplication by construction — over cas-kit."
+2026-10-18T15:54:51.754489Z,claviron-orbit,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,"Claviron lifecycle bindings for Orbitive shared memory, events, locks, counters, and application transport"
+2026-10-18T15:56:06.802918Z,mhr-gpui-web,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"The web platform of mhr-gpui, a fork of Zed's gpui, for WebAssembly in the browser"
+2026-10-18T15:57:32.86763Z,bcode_model_discovery,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Generated live model catalog discovery
+2026-10-18T16:01:00.839038Z,taba-client,0.1.0-rc.3,0,0,https://github.com/rafaelpontani/taba,"The Taba Rust connector: its own HTTP/1.1, TLS through rustls and a minimal JSON reader."
+2026-10-18T16:01:08.124254Z,chisel-audit,0.1.0,0,0,https://github.com/WyattAu/chisel-platform,"Tamper-evident document audit trail for Chisel: SHA-256-chained, queryable, extendable to a server-side continuation."
+2026-10-18T16:01:38.815771Z,taba-cli,0.1.0-rc.3,0,0,https://github.com/rafaelpontani/taba,The Taba client command line.
+2026-10-18T16:04:26.597466Z,llm-wire-openai,0.1.0,0,0,https://github.com/pyrlyn/crates,"OpenAI Chat Completions and Responses wires for LLM agent loops, also used for every OpenAI-compatible endpoint"
+2026-10-18T16:04:51.955442Z,claviron-app,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,"Runtime-qualified application identity, control, status, and events for Claviron"
+2026-10-18T16:05:12.203974Z,mcp-client-host,0.1.0,0,0,https://github.com/pyrlyn/crates,"MCP client host: .mcp.json discovery, fail-open connect_all, OAuth with an injectable token store, elicitation mapping and deferred tools over rmcp"
+2026-10-18T16:05:19.00528Z,path-gates,0.1.0,0,0,https://github.com/pyrlyn/crates,Map changed paths to named gates by glob rules from a TOML config
+2026-10-18T16:06:02.015584Z,devpane,0.2.0,0,0,https://github.com/Ranjeesh0701/devpane,A terminal-first multi-process workspace and development dashboard
+2026-10-18T16:06:07.014262Z,mhr-gpui-windows,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"The Windows platform of mhr-gpui, a fork of Zed's gpui"
+2026-10-18T16:06:21.576956Z,owntracks-bridge,0.1.0,0,0,https://git.sr.ht/~mvforell/owntracks-bridge,Owntracks HTTP server that republishes all received payloads via MQTT
+2026-10-18T16:07:32.927081Z,bcode_models_site_ui,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Bcode models catalog website UI components
+2026-10-18T16:08:59.008334Z,doc-section,0.1.0,0,0,https://github.com/ytanimura/doc-section,Use sections of a Markdown file as Rust documentation
+2026-10-18T16:10:15.18015Z,ek-paper,0.1.0,0,0,https://cnb.cool/enkeep/ek-paper,"Paper gateway for the enkeep ek ecosystem: a locally simulated gateway (Python enkeep_trade app/paperaccount, GATEWAY_NAME=PAPER) implementing the same four-port ask contract as ek-ctp with bar/tick-…"
+2026-10-18T16:11:51.081806Z,chisel-auth,0.1.0,0,0,https://github.com/WyattAu/chisel-platform,"Chisel platform authentication: JWT sessions with a closed role vocabulary, and the OIDC desktop-loopback seam over the kit estate."
+2026-10-18T16:15:15.576486Z,cctwin,0.1.0,0,0,https://github.com/arifulislamat/cctwin,Menu bar app to switch Claude Code between Claude accounts you own
+2026-10-18T16:16:06.714276Z,mhr-gpui-platform,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"Starts mhr-gpui, a fork of Zed's gpui, on macOS, Windows, Linux or the web"
+2026-10-18T16:17:32.733613Z,bcode_models_site,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Bcode models catalog website
+2026-10-18T16:17:48.489904Z,rustamp-metal,0.1.0,0,0,https://github.com/KorribanMaster/rustamp,Hardware and OS abstraction layer for OpenAMP in Rust (a port of libmetal)
+2026-10-18T16:17:51.227776Z,rustamp-virtio,0.1.0,0,0,https://github.com/KorribanMaster/rustamp,Virtio split virtqueues (driver and device roles) and transports for OpenAMP in Rust
+2026-10-18T16:17:53.600044Z,rustamp-rpmsg,0.1.0,0,0,https://github.com/KorribanMaster/rustamp,"RPMsg inter-processor messaging over virtio, compatible with Linux and OpenAMP"
+2026-10-18T16:17:56.154691Z,rustamp-remoteproc,0.1.0,0,0,https://github.com/KorribanMaster/rustamp,"Remote processor lifecycle, ELF loading, resource tables and virtio transport for OpenAMP in Rust"
+2026-10-18T16:17:58.305658Z,rustamp-proxy,0.1.0,0,0,https://github.com/KorribanMaster/rustamp,"File and console I/O forwarding over rpmsg (rpmsg_retarget), remote client and host server"
