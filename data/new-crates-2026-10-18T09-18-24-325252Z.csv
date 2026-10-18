@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T08:19:13.290236Z,solouder-core,0.1.0,0,0,https://github.com/GabaCool-Games/SoLouder,"SoLouder mixer core: a Rust port of the SoLoud audio engine, independent of Bevy and audio devices"
+2026-10-18T08:19:15.985927Z,solouder-decoders,0.1.0,0,0,https://github.com/GabaCool-Games/SoLouder,SoLouder decoders: turn encoded audio files into solouder-core PCM
+2026-10-18T08:19:17.028825Z,solouder-sources,0.1.0,0,0,https://github.com/GabaCool-Games/SoLouder,"SoLouder sources: SoLoud's generators (noise, sfxr, chip music, speech, vizsn) for solouder-core"
+2026-10-18T08:19:19.363632Z,solouder-cpal,0.1.0,0,0,https://github.com/GabaCool-Games/SoLouder,SoLouder device output through CPAL: runs a solouder-core renderer in the audio callback
+2026-10-18T08:19:19.785806Z,ultra-instinct-protocol,0.1.0,0,0,https://github.com/hexuria/ultra-instinct,"Observe, locate, inspect, act, and verify messages"
+2026-10-18T08:19:21.888003Z,bevy_solouder,0.1.0,0,0,https://github.com/GabaCool-Games/SoLouder,"Bevy plugin for SoLouder: audio assets (decoded, streamed and generated), playback entities and device output"
+2026-10-18T08:22:42.633835Z,ferrohealth-ui,0.0.0,0,0,https://github.com/FerroHEALTH/FerroUI,The shared UI component library of the FerroHEALTH consoles (name reservation; the library is published from https://github.com/FerroHEALTH/FerroUI)
+2026-10-18T08:26:04.479962Z,mesquite_objc,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Objective-C grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-objc 3.0.2"
+2026-10-18T08:28:47.769482Z,mineral-model,0.5.10,0,0,https://github.com/10knamesmore/Mineral,跨 channel 的统一数据模型(Song / Playlist / Lyrics 等)
+2026-10-18T08:29:24.85952Z,ultra-instinct-policy,0.1.0,0,0,https://github.com/hexuria/ultra-instinct,Browser policy: Instinct finite decisions + optional escalation. Hard invalidity stays in guard.
+2026-10-18T08:36:05.077424Z,mesquite_ocaml,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The OCaml grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-ocaml 0.26.0"
+2026-10-18T08:36:22.922509Z,lingose-cli,0.2.0,0,0,https://github.com/englishword/lingose-rust,Command-line interface for offline Lingose word queries and IPS annotation
+2026-10-18T08:38:48.226293Z,mineral-config,0.5.10,0,0,https://github.com/10knamesmore/Mineral,Mineral daemon/TUI 共用的 Lua 配置求值、合并与字段诊断
+2026-10-18T08:39:25.737936Z,ultra-instinct-dojo,0.1.0,0,0,https://github.com/hexuria/ultra-instinct,"Battle diary, replay arena, lessons and trust for ultra-instinct"
+2026-10-18T08:42:16.673203Z,chixsay,0.1.0,0,0,https://github.com/niwatoriiiiiiiii/chixsay,"cowsay, but for chickens."
+2026-10-18T08:42:17.939059Z,axeon-orm-cli,0.2.0,0,0,https://github.com/axeon-rs/axeon,"Command-line tool for axeon-orm migrations: create, run and list them"
+2026-10-18T08:46:05.920638Z,mesquite_odin,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Odin grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-odin 1.3.0"
+2026-10-18T08:48:48.894465Z,mineral-persist,0.5.10,0,0,https://github.com/10knamesmore/Mineral,SQLite 连接与通用文件缓存机制
+2026-10-18T08:49:24.319108Z,evenflow,0.1.1,0,0,https://github.com/cmeister2/evenflow,Opinionated structural Rust linting alongside Clippy
+2026-10-18T08:49:25.224058Z,ultra-instinct-remote,0.1.0,0,0,https://github.com/hexuria/ultra-instinct,ultra-instinct remote decision transports (JEV / Clef) and the HTTP text model
+2026-10-18T08:54:29.715038Z,noms,0.1.1,0,0,https://github.com/OpenRai/noms,Nano Off-chain Message Signing reference implementation
+2026-10-18T08:54:48.496227Z,noms-cli,0.1.0,0,0,https://github.com/OpenRai/noms,Command-line interface for Nano Off-chain Message Signing
+2026-10-18T08:56:04.245888Z,mesquite_perl,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Perl grammar for Mesquite (pure-Rust tree-sitter), from ts-parser-perl 2.0.0"
+2026-10-18T08:58:18.620847Z,h3-rs,0.1.0,0,0,https://github.com/apiplant/h3-rs,"MiniMax H3 text/image-to-video with stereo audio in Rust and CUDA, loading ComfyUI checkpoints"
+2026-10-18T08:58:48.55183Z,mineral-channel-core,0.5.10,0,0,https://github.com/10knamesmore/Mineral,MusicChannel trait + 共享错误 / 类型
+2026-10-18T08:59:24.43301Z,ultra-instinct-resonance,0.1.0,0,0,https://github.com/hexuria/ultra-instinct,Deterministic locate ranking for a static ultra-instinct manifold
+2026-10-18T09:06:04.475199Z,mesquite_php,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The PHP grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-php 0.25.1"
+2026-10-18T09:08:49.526987Z,mineral-playback,0.5.10,0,0,https://github.com/10knamesmore/Mineral,Playback provider、media preparation 与 decoder-ready media contract
+2026-10-18T09:09:26.157036Z,mtcs,0.1.0,0,0,https://github.com/canokeys/mtcs,Offline verification of Merkle Tree Certificates (draft-ietf-plants-merkle-tree-certs)
+2026-10-18T09:12:44.482089Z,volt-chrome,0.5.0,0,0,https://github.com/efbx/volt,"Headless Chrome sessions over chromiumoxide with a persistent profile, timeouts and cookie capture"
+2026-10-18T09:12:45.203176Z,volt-coerce-macros,0.5.0,0,0,https://github.com/efbx/volt,The #[coerce] attribute for volt-coerce: lenient JSON reading on top of serde
+2026-10-18T09:12:45.674594Z,volt-slicex,0.5.0,0,0,https://github.com/efbx/volt,Stable in-place deduplication for vectors of comparable items
+2026-10-18T09:12:46.571251Z,volt-stringx,0.5.0,0,0,https://github.com/efbx/volt,"Blank checks, symbol normalisation, in-place string edits and non-blank joins for str and String"
+2026-10-18T09:12:46.964667Z,volt-templater,0.5.0,0,0,https://github.com/efbx/volt,"Compiled text templates with named tokens and extractors, matched in one Aho-Corasick pass"
+2026-10-18T09:14:04.410762Z,volt-coerce,0.5.0,0,0,https://github.com/efbx/volt,Lenient JSON decoding on top of serde: junk falls to the field default instead of failing the document
+2026-10-18T09:16:04.79606Z,mesquite_powershell,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The PowerShell grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-powershell 0.26.3"
+2026-10-18T09:16:50.203903Z,mercurio,0.1.0,0,0,https://github.com/AlphaJack/mercurio,"Apprise-compatible Rust library, CLI and HTTP server to send notifications to 150+ services via a single URL."
+2026-10-18T09:17:08.510981Z,mercurio-cli,0.1.0,0,0,https://github.com/AlphaJack/mercurio,"Apprise-compatible Rust library, CLI and HTTP server to send notifications to 150+ services via a single URL."

@@ -8,56 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 08:19 UTC
+## Latest list — 2026-10-18 09:18 UTC
 
-New crates published between 2026-10-18 07:18 UTC and 2026-10-18 08:19 UTC.
+New crates published between 2026-10-18 08:19 UTC and 2026-10-18 09:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-18T08-19-04-489885Z.csv)
+[Full CSV](data/new-crates-2026-10-18T09-18-24-325252Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-18 07:26:03 | [mesquite_json](https://crates.io/crates/mesquite_json) | 0.1.0 | 0 | The JSON grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-json 0.… |
-| 2026-10-18 07:26:18 | [sabiquant](https://crates.io/crates/sabiquant) | 0.1.0-alpha.1 | 0 | An independent quantitative finance library written natively in Rust, using onl… |
-| 2026-10-18 07:27:01 | [craber-core](https://crates.io/crates/craber-core) | 0.1.1 | 0 | CrabER schema IR: the normalized representation every output is rendered from |
-| 2026-10-18 07:27:03 | [craber-layout](https://crates.io/crates/craber-layout) | 0.1.1 | 0 | Diagram layout for CrabER: assigns table positions to a schema |
-| 2026-10-18 07:27:03 | [craber-parser](https://crates.io/crates/craber-parser) | 0.1.1 | 0 | SQL DDL to CrabER schema IR, via sqlparser-rs |
-| 2026-10-18 07:27:04 | [craber-site](https://crates.io/crates/craber-site) | 0.1.1 | 0 | The deployable static site CrabER writes: the web bundle plus a schema.json |
-| 2026-10-18 07:27:05 | [craber-introspect](https://crates.io/crates/craber-introspect) | 0.1.1 | 0 | Live database schema to CrabER schema IR, via sqlx |
-| 2026-10-18 07:33:20 | [rekey-core](https://crates.io/crates/rekey-core) | 0.1.0 | 0 | Provider connectors and rotation engine behind the rekey CLI |
-| 2026-10-18 07:33:21 | [rekey](https://crates.io/crates/rekey) | 0.1.0 | 0 | Rotate API keys and tokens across AWS, GitLab, Cloudflare, OpenAI and more — CL… |
-| 2026-10-18 07:36:04 | [mesquite_julia](https://crates.io/crates/mesquite_julia) | 0.1.0 | 0 | The Julia grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-julia… |
-| 2026-10-18 07:37:49 | [ic-platform](https://crates.io/crates/ic-platform) | 0.1.3 | 0 | Controlled Candid and IC runtime dependency boundary |
-| 2026-10-18 07:41:01 | [craber-render](https://crates.io/crates/craber-render) | 0.1.1 | 0 | Server-side SVG rendering for CrabER diagrams |
-| 2026-10-18 07:42:47 | [ferrobridge-operator-api](https://crates.io/crates/ferrobridge-operator-api) | 0.0.0 | 0 | The documents of the FerroBRIDGE health and operator surfaces, as serde types t… |
-| 2026-10-18 07:44:04 | [linlog](https://crates.io/crates/linlog) | 0.1.0 | 0 | A linear logic suite: decides, checks, proves step by step and exports sequents… |
-| 2026-10-18 07:44:07 | [linlog-cli](https://crates.io/crates/linlog-cli) | 0.1.0 | 0 | The linlog command: decide, check, prove step by step and export sequents of li… |
-| 2026-10-18 07:44:47 | [kzp](https://crates.io/crates/kzp) | 0.1.0 | 0 | Kaze protocol: platform-signed admission terms and accountable mandates for AI… |
-| 2026-10-18 07:46:04 | [mesquite_kotlin](https://crates.io/crates/mesquite_kotlin) | 0.1.0 | 0 | The Kotlin grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-kotli… |
-| 2026-10-18 07:48:55 | [craber-export](https://crates.io/crates/craber-export) | 0.1.1 | 0 | Diagram output formats for CrabER: JSON, SVG, Mermaid, DBML, PNG |
-| 2026-10-18 07:56:04 | [mesquite_lua](https://crates.io/crates/mesquite_lua) | 0.1.0 | 0 | The Lua grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-lua 0.5.0 |
-| 2026-10-18 07:57:21 | [craber](https://crates.io/crates/craber) | 0.1.1 | 0 | Visualize ER diagrams from SQL DDL or a live database |
-| 2026-10-18 08:03:15 | [gpui-ce-motion](https://crates.io/crates/gpui-ce-motion) | 0.1.0 | 0 | Declarative, interruptible motion and presence for native GPUI CE applications |
-| 2026-10-18 08:04:24 | [layerhop](https://crates.io/crates/layerhop) | 0.1.0 | 0 | LayerHop SDK — best-price cross-chain and same-chain swaps through one non-cust… |
-| 2026-10-18 08:06:04 | [mesquite_make](https://crates.io/crates/mesquite_make) | 0.1.0 | 0 | The Make grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-make 1.… |
-| 2026-10-18 08:12:31 | [mdkg](https://crates.io/crates/mdkg) | 0.0.1 | 0 | Git-native project memory for AI coding agents |
-| 2026-10-18 08:12:32 | [ochatr](https://crates.io/crates/ochatr) | 0.0.1 | 0 | Omni Chat Room: multi-model AI productivity |
-| 2026-10-18 08:13:42 | [deformable](https://crates.io/crates/deformable) | 0.1.0 | 0 | Finite element deformation and fracture of tetrahedral meshes: a simulation a h… |
-| 2026-10-18 08:15:52 | [office2pdf-umya-spreadsheet](https://crates.io/crates/office2pdf-umya-spreadsheet) | 0.1.0 | 0 | Fork of umya-spreadsheet 2.3.3 carrying the reader fixes office2pdf depends on,… |
-| 2026-10-18 08:16:04 | [mesquite_markdown](https://crates.io/crates/mesquite_markdown) | 0.1.0 | 0 | The Markdown (block) grammar for Mesquite (pure-Rust tree-sitter), from tree-si… |
-| 2026-10-18 08:16:05 | [ultra-instinct-core](https://crates.io/crates/ultra-instinct-core) | 0.1.0 | 0 | Domain types for the ultra-instinct interaction manifold |
-| 2026-10-18 08:16:13 | [ultra-instinct-cdp](https://crates.io/crates/ultra-instinct-cdp) | 0.1.0 | 0 | CDP wire for ultra-instinct: transport trait, blocking websocket, replay transp… |
-| 2026-10-18 08:16:16 | [ultra-instinct-hyper](https://crates.io/crates/ultra-instinct-hyper) | 0.1.0 | 0 | Deterministic bipolar hypervectors for ultra-instinct |
-| 2026-10-18 08:16:43 | [ultra-instinct-geometry](https://crates.io/crates/ultra-instinct-geometry) | 0.1.0 | 0 | Viewport-relative geometry and symbolic spatial atoms |
-| 2026-10-18 08:16:53 | [ultra-instinct-observe](https://crates.io/crates/ultra-instinct-observe) | 0.1.0 | 0 | Temporal matching and manifold diff for ultra-instinct |
-| 2026-10-18 08:17:07 | [office2pdf-docx-rs](https://crates.io/crates/office2pdf-docx-rs) | 0.1.0 | 0 | Fork of docx-rs 0.4.22 carrying the reader fixes office2pdf depends on, until t… |
-| 2026-10-18 08:17:32 | [tines-core](https://crates.io/crates/tines-core) | 0.1.0 | 0 | Opportunistic shared memory for mostly-offline robots: a no_std core of content… |
-| 2026-10-18 08:17:34 | [tines-sim](https://crates.io/crates/tines-sim) | 0.1.0 | 0 | Discrete-time simulator for tines: contact traces, convergence scenarios, and p… |
-| 2026-10-18 08:18:39 | [kzhz](https://crates.io/crates/kzhz) | 0.3.3 | 0 | kazoo by its npm name: the same program as kzoo (the desk, the wall, the seat a… |
-| 2026-10-18 08:18:43 | [mineral-config-macros](https://crates.io/crates/mineral-config-macros) | 0.5.10 | 0 | Mineral daemon/TUI 配置 schema 与 LuaLS 生成宏 |
-| 2026-10-18 08:18:44 | [mineral-macros](https://crates.io/crates/mineral-macros) | 0.5.10 | 0 | Mineral 内部 macros |
-| 2026-10-18 08:18:45 | [mineral-paths](https://crates.io/crates/mineral-paths) | 0.5.10 | 0 | 标准化的配置 / 缓存 / 数据目录解析 |
-| 2026-10-18 08:18:46 | [mineral-spectrum](https://crates.io/crates/mineral-spectrum) | 0.5.10 | 0 | 音频频谱分析(realfft + 对数桶映射) |
-| 2026-10-18 08:18:48 | [mineral-log](https://crates.io/crates/mineral-log) | 0.5.10 | 0 | tracing-based 日志门面 + 文件 appender |
+| 2026-10-18 08:19:13 | [solouder-core](https://crates.io/crates/solouder-core) | 0.1.0 | 0 | SoLouder mixer core: a Rust port of the SoLoud audio engine, independent of Bev… |
+| 2026-10-18 08:19:15 | [solouder-decoders](https://crates.io/crates/solouder-decoders) | 0.1.0 | 0 | SoLouder decoders: turn encoded audio files into solouder-core PCM |
+| 2026-10-18 08:19:17 | [solouder-sources](https://crates.io/crates/solouder-sources) | 0.1.0 | 0 | SoLouder sources: SoLoud's generators (noise, sfxr, chip music, speech, vizsn)… |
+| 2026-10-18 08:19:19 | [solouder-cpal](https://crates.io/crates/solouder-cpal) | 0.1.0 | 0 | SoLouder device output through CPAL: runs a solouder-core renderer in the audio… |
+| 2026-10-18 08:19:19 | [ultra-instinct-protocol](https://crates.io/crates/ultra-instinct-protocol) | 0.1.0 | 0 | Observe, locate, inspect, act, and verify messages |
+| 2026-10-18 08:19:21 | [bevy_solouder](https://crates.io/crates/bevy_solouder) | 0.1.0 | 0 | Bevy plugin for SoLouder: audio assets (decoded, streamed and generated), playb… |
+| 2026-10-18 08:22:42 | [ferrohealth-ui](https://crates.io/crates/ferrohealth-ui) | 0.0.0 | 0 | The shared UI component library of the FerroHEALTH consoles (name reservation;… |
+| 2026-10-18 08:26:04 | [mesquite_objc](https://crates.io/crates/mesquite_objc) | 0.1.0 | 0 | The Objective-C grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-… |
+| 2026-10-18 08:28:47 | [mineral-model](https://crates.io/crates/mineral-model) | 0.5.10 | 0 | 跨 channel 的统一数据模型(Song / Playlist / Lyrics 等) |
+| 2026-10-18 08:29:24 | [ultra-instinct-policy](https://crates.io/crates/ultra-instinct-policy) | 0.1.0 | 0 | Browser policy: Instinct finite decisions + optional escalation. Hard invalidit… |
+| 2026-10-18 08:36:05 | [mesquite_ocaml](https://crates.io/crates/mesquite_ocaml) | 0.1.0 | 0 | The OCaml grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-ocaml… |
+| 2026-10-18 08:36:22 | [lingose-cli](https://crates.io/crates/lingose-cli) | 0.2.0 | 0 | Command-line interface for offline Lingose word queries and IPS annotation |
+| 2026-10-18 08:38:48 | [mineral-config](https://crates.io/crates/mineral-config) | 0.5.10 | 0 | Mineral daemon/TUI 共用的 Lua 配置求值、合并与字段诊断 |
+| 2026-10-18 08:39:25 | [ultra-instinct-dojo](https://crates.io/crates/ultra-instinct-dojo) | 0.1.0 | 0 | Battle diary, replay arena, lessons and trust for ultra-instinct |
+| 2026-10-18 08:42:16 | [chixsay](https://crates.io/crates/chixsay) | 0.1.0 | 0 | cowsay, but for chickens. |
+| 2026-10-18 08:42:17 | [axeon-orm-cli](https://crates.io/crates/axeon-orm-cli) | 0.2.0 | 0 | Command-line tool for axeon-orm migrations: create, run and list them |
+| 2026-10-18 08:46:05 | [mesquite_odin](https://crates.io/crates/mesquite_odin) | 0.1.0 | 0 | The Odin grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-odin 1.… |
+| 2026-10-18 08:48:48 | [mineral-persist](https://crates.io/crates/mineral-persist) | 0.5.10 | 0 | SQLite 连接与通用文件缓存机制 |
+| 2026-10-18 08:49:24 | [evenflow](https://crates.io/crates/evenflow) | 0.1.1 | 0 | Opinionated structural Rust linting alongside Clippy |
+| 2026-10-18 08:49:25 | [ultra-instinct-remote](https://crates.io/crates/ultra-instinct-remote) | 0.1.0 | 0 | ultra-instinct remote decision transports (JEV / Clef) and the HTTP text model |
+| 2026-10-18 08:54:29 | [noms](https://crates.io/crates/noms) | 0.1.1 | 0 | Nano Off-chain Message Signing reference implementation |
+| 2026-10-18 08:54:48 | [noms-cli](https://crates.io/crates/noms-cli) | 0.1.0 | 0 | Command-line interface for Nano Off-chain Message Signing |
+| 2026-10-18 08:56:04 | [mesquite_perl](https://crates.io/crates/mesquite_perl) | 0.1.0 | 0 | The Perl grammar for Mesquite (pure-Rust tree-sitter), from ts-parser-perl 2.0.0 |
+| 2026-10-18 08:58:18 | [h3-rs](https://crates.io/crates/h3-rs) | 0.1.0 | 0 | MiniMax H3 text/image-to-video with stereo audio in Rust and CUDA, loading Comf… |
+| 2026-10-18 08:58:48 | [mineral-channel-core](https://crates.io/crates/mineral-channel-core) | 0.5.10 | 0 | MusicChannel trait + 共享错误 / 类型 |
+| 2026-10-18 08:59:24 | [ultra-instinct-resonance](https://crates.io/crates/ultra-instinct-resonance) | 0.1.0 | 0 | Deterministic locate ranking for a static ultra-instinct manifold |
+| 2026-10-18 09:06:04 | [mesquite_php](https://crates.io/crates/mesquite_php) | 0.1.0 | 0 | The PHP grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-php 0.25… |
+| 2026-10-18 09:08:49 | [mineral-playback](https://crates.io/crates/mineral-playback) | 0.5.10 | 0 | Playback provider、media preparation 与 decoder-ready media contract |
+| 2026-10-18 09:09:26 | [mtcs](https://crates.io/crates/mtcs) | 0.1.0 | 0 | Offline verification of Merkle Tree Certificates (draft-ietf-plants-merkle-tree… |
+| 2026-10-18 09:12:44 | [volt-chrome](https://crates.io/crates/volt-chrome) | 0.5.0 | 0 | Headless Chrome sessions over chromiumoxide with a persistent profile, timeouts… |
+| 2026-10-18 09:12:45 | [volt-coerce-macros](https://crates.io/crates/volt-coerce-macros) | 0.5.0 | 0 | The #[coerce] attribute for volt-coerce: lenient JSON reading on top of serde |
+| 2026-10-18 09:12:45 | [volt-slicex](https://crates.io/crates/volt-slicex) | 0.5.0 | 0 | Stable in-place deduplication for vectors of comparable items |
+| 2026-10-18 09:12:46 | [volt-stringx](https://crates.io/crates/volt-stringx) | 0.5.0 | 0 | Blank checks, symbol normalisation, in-place string edits and non-blank joins f… |
+| 2026-10-18 09:12:46 | [volt-templater](https://crates.io/crates/volt-templater) | 0.5.0 | 0 | Compiled text templates with named tokens and extractors, matched in one Aho-Co… |
+| 2026-10-18 09:14:04 | [volt-coerce](https://crates.io/crates/volt-coerce) | 0.5.0 | 0 | Lenient JSON decoding on top of serde: junk falls to the field default instead… |
+| 2026-10-18 09:16:04 | [mesquite_powershell](https://crates.io/crates/mesquite_powershell) | 0.1.0 | 0 | The PowerShell grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-p… |
+| 2026-10-18 09:16:50 | [mercurio](https://crates.io/crates/mercurio) | 0.1.0 | 0 | Apprise-compatible Rust library, CLI and HTTP server to send notifications to 1… |
+| 2026-10-18 09:17:08 | [mercurio-cli](https://crates.io/crates/mercurio-cli) | 0.1.0 | 0 | Apprise-compatible Rust library, CLI and HTTP server to send notifications to 1… |
 
 ## Data source
 
