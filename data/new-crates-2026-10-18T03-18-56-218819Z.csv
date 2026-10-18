@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T02:26:04.309147Z,mesquite_markdown_inline,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Markdown (inline) grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-md 0.5.3"
+2026-10-18T02:27:33.024635Z,bcode_eval_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,eval run viewer plugin for bcode
+2026-10-18T02:27:48.541968Z,willbooster-tree-sitter-xml,0.0.0-placeholder.0,0,0,https://github.com/WillBooster/tree-sitter-xml,Placeholder for WillBooster's fork of tree-sitter-xml; the first release is 1.0.0
+2026-10-18T02:27:51.08979Z,willbooster-tree-sitter-md,0.0.0-placeholder.0,0,0,https://github.com/WillBooster/tree-sitter-markdown,Placeholder for WillBooster's fork of tree-sitter-md; the first release is 1.0.0
+2026-10-18T02:36:03.927312Z,mesquite_dtd,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The DTD grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-xml 0.7.0"
+2026-10-18T02:37:32.884028Z,bcode_fake_provider_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Fake model provider plugin for bcode tests and smoke flows
+2026-10-18T02:37:49.297283Z,necoherence,0.2.0,0,0,,Revision-aware state transition utilities
+2026-10-18T02:42:40.883168Z,sword-modules,0.1.0,0,0,https://github.com/Logoxide/sword-modules,"Pure-Rust reader for CrossWire SWORD modules (Bibles, commentaries, lexicons, general books): confs, indexes, and entries with their markup named"
+2026-10-18T02:46:04.638136Z,mesquite,0.25.10,0,0,https://github.com/mesa-hills-research/mesquite,"A pure, safe Rust port of the tree-sitter 0.25.10 runtime"
+2026-10-18T02:46:43.546704Z,rightkit-crypto,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Neutral crypto primitives: SHA-256, HMAC-SHA256, constant-time compare, base64/base64url, hex, BLAKE3 text hash, canonical JSON and HMAC approval tokens."
+2026-10-18T02:47:33.294027Z,bcode_filesystem_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,filesystem service plugin for bcode
+2026-10-18T02:50:16.508888Z,rightkit-identity,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Installation identity with clone detection and startup claim, device pairing with signed-transcript confirmation and owner approval, per-device bearer tokens with a per-IP rate limit, and shared buil…"
+2026-10-18T02:54:24.617906Z,ledger_me_sdk_macros,0.1.0,0,0,https://github.com/ecdesa-labs/ledger-me-sdk,"Proc macros for ledger_me_sdk (#[host_fn]) and ledger_me_sdk_guest (#[call], #[import])."
+2026-10-18T02:54:27.717327Z,ledger_me_sdk,0.1.0,0,0,https://github.com/ecdesa-labs/ledger-me-sdk,"Modular blockchain SDK: business logic in WASM pallets (wasmtime), orchestrated with actix actors."
+2026-10-18T02:54:40.373903Z,ledger_me_sdk_guest,0.1.0,0,0,https://github.com/ecdesa-labs/ledger-me-sdk,"no_std runtime support for ledger_me_sdk pallets compiled to WASM: panic handler, allocator, input/output plumbing."
+2026-10-18T02:56:04.30716Z,mesquite_rust,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Rust grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-rust 0.24.2"
+2026-10-18T02:57:32.635002Z,bcode_file_references_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Plugin-owned file path references for the Bcode composer
+2026-10-18T03:00:58.946469Z,openreadout-benchtop,0.4.0,0,0,https://github.com/openreadout/openreadout,"Readers for NanoDrop and Qubit exports, part of OpenReadout"
+2026-10-18T03:01:15.992277Z,id_effect_messaging,0.10.0,0,0,https://github.com/Industrial/id_effect,"Messaging for id_effect services: a broker-agnostic MessageBroker, in-memory broker, outbox, inbox and relay"
+2026-10-18T03:01:43.81757Z,id_effect_storage,0.10.0,0,0,https://github.com/Industrial/id_effect,"Object storage for id_effect services: one store interface over file-system, in-memory and S3-compatible backends"
+2026-10-18T03:02:49.849673Z,openreadout-ce,0.4.0,0,0,https://github.com/openreadout/openreadout,"Readers for capillary and chip electrophoresis files (Applied Biosystems ABIF Sanger traces and fragment analysis), part of OpenReadout"
+2026-10-18T03:04:35.853752Z,openreadout-diffraction,0.4.0,0,0,https://github.com/openreadout/openreadout,"Readers for X-ray and electron diffraction images (CBF/miniCBF, SMV), part of OpenReadout"
+2026-10-18T03:04:48.741651Z,csx,0.0.0,0,0,https://github.com/KarpelesLab/csx,"Pure Rust continuous-structure geometry and material modeling, compatible with CSXCAD and openEMS"
+2026-10-18T03:05:56.694391Z,id_effect_mail,0.10.0,0,0,https://github.com/Industrial/id_effect,"Outgoing mail for id_effect services: SMTP, the SendGrid API, templates and delivery through jobs"
+2026-10-18T03:06:04.550164Z,mesquite_python,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The Python grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-python 0.25.0"
+2026-10-18T03:06:24.971764Z,id_effect_console,0.10.0,0,0,https://github.com/Industrial/id_effect,"Operator console for id_effect services: live fibers, jobs and queues behind authorization guards"
+2026-10-18T03:07:32.50712Z,bcode_git_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Git repository access tool plugin for bcode
+2026-10-18T03:08:22.657037Z,openreadout-figure,0.4.0,0,0,https://github.com/openreadout/openreadout,"Vector figures for OpenReadout: themes, text with real font metrics, axes and charts, rendered to PNG, JPEG or SVG"
+2026-10-18T03:09:56.011681Z,logoxide-markup,0.1.0,0,0,https://github.com/Logoxide/logoxide,"Bible markup (OSIS, ThML, GBF, TEI, USX) as one tree: plain text, HTML with classes, filters, and search"
+2026-10-18T03:09:58.18798Z,logoxide-text,0.1.0,0,0,https://github.com/Logoxide/logoxide,"What's in a Bible or a book: verses from USX, USFM, OSIS, ThML, and GBF, a dictionary's entries, cross-references, verse hashes, titles, versification maps, timings, and an EPUB's citations"
+2026-10-18T03:09:59.935493Z,logoxide,0.1.0,0,0,https://github.com/Logoxide/logoxide,"Bibles, commentaries, lexicons, books, and media as versioned packages: read from USX, USFM, and more, cached, and shared"
+2026-10-18T03:10:01.846884Z,logoxide-import,0.1.0,0,0,https://github.com/Logoxide/logoxide,"Packages from other publishers' downloads: eBible.org, fetch.bible, CCEL, Door43, and SWORD repositories (Bibles, commentaries, dictionaries, and books), as logoxide catalogs and imports"
+2026-10-18T03:10:02.676815Z,logoxide-lsp,0.1.0,0,0,https://github.com/Logoxide/logoxide,"A language server for Bible references and text: completion, hover, symbols, diagnostics, and passages from logoxide packages"
+2026-10-18T03:12:05.427824Z,ems,0.0.0,0,0,https://github.com/KarpelesLab/ems,"Pure Rust FDTD electromagnetic field solver, compatible with openEMS models"
+2026-10-18T03:13:10.981669Z,linkrs-api,0.1.0,0,0,https://github.com/kkkqkx123/linkrs,Transport-independent core API for Linkrs
+2026-10-18T03:16:04.429323Z,mesquite_typescript,0.1.0,0,0,https://github.com/mesa-hills-research/mesquite,"The TypeScript grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-typescript 0.23.2"
+2026-10-18T03:17:32.87963Z,bcode_github_review_publisher_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,GitHub review publisher plugin for bcode
+2026-10-18T03:18:55.554982Z,linkrs-server,0.1.0,0,0,https://github.com/kkkqkx123/linkrs,Linkrs network service layer (HTTP/gRPC)
