@@ -8,62 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 17:19 UTC
+## Latest list — 2026-10-18 18:19 UTC
 
-New crates published between 2026-10-18 16:19 UTC and 2026-10-18 17:19 UTC.
+New crates published between 2026-10-18 17:19 UTC and 2026-10-18 18:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-18T17-19-33-793009Z.csv)
+[Full CSV](data/new-crates-2026-10-18T18-19-36-008156Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-18 16:20:05 | [claviron-cache](https://crates.io/crates/claviron-cache) | 0.2.0-alpha.17 | 0 | Named cache stores, typed values, and fleet-shared caching for Claviron |
-| 2026-10-18 16:21:22 | [atari-sio-link](https://crates.io/crates/atari-sio-link) | 0.4.0 | 0 | Library to boot Atari executables or disks to a real Atari over a SIO2PC-style… |
-| 2026-10-18 16:21:24 | [atari-sio-link-cli](https://crates.io/crates/atari-sio-link-cli) | 0.4.0 | 0 | Tool to boot Atari executables or disks to a real Atari over a SIO2PC-style ser… |
-| 2026-10-18 16:21:35 | [hdf5rs](https://crates.io/crates/hdf5rs) | 0.0.1 | 0 | Pure Rust, minimal-dependency reader and writer for HDF5 files |
-| 2026-10-18 16:21:49 | [clawft-app](https://crates.io/crates/clawft-app) | 0.8.3 | 0 | WeftOS app manifest parser, validator, and local app registry (ADR-015) |
-| 2026-10-18 16:21:58 | [weftos-leaf-types](https://crates.io/crates/weftos-leaf-types) | 0.1.0 | 0 | Shared wire schema for WeftOS kernel → leaf push operations (no_std compatible) |
-| 2026-10-18 16:22:03 | [clawft-bvh](https://crates.io/crates/clawft-bvh) | 0.8.3 | 0 | BVH broad-phase spatial index (ADR-056 Phase A). No kernel/chain deps — pure ge… |
-| 2026-10-18 16:22:26 | [clawft-canon](https://crates.io/crates/clawft-canon) | 0.8.3 | 0 | Primitive canon widgets + return-signal types (ADR-001 / ADR-006) shared by cla… |
-| 2026-10-18 16:23:28 | [clawft-channels](https://crates.io/crates/clawft-channels) | 0.8.3 | 0 | Channel plugin system for clawft |
-| 2026-10-18 16:24:50 | [claviron-hosting](https://crates.io/crates/claviron-hosting) | 0.2.0-alpha.17 | 0 | Hosting persistence, aliases, and certificate records for Claviron |
-| 2026-10-18 16:24:59 | [perm-rules](https://crates.io/crates/perm-rules) | 0.1.0 | 0 | Permission rules for tool calls: Claude Code's Tool(subject) grammar, deny > al… |
-| 2026-10-18 16:25:01 | [codescape-model](https://crates.io/crates/codescape-model) | 0.1.0 | 0 | Codescape code-graph domain model: nodes, edges, interned wire ids, snapshots,… |
-| 2026-10-18 16:25:03 | [proc-sandbox](https://crates.io/crates/proc-sandbox) | 0.1.0 | 0 | Confine a child process: Seatbelt on macOS, bubblewrap or Landlock plus seccomp… |
-| 2026-10-18 16:25:07 | [codescape-collab](https://crates.io/crates/codescape-collab) | 0.1.0 | 0 | Codescape collaboration state: actor registry, activity heat, path-to-node reso… |
-| 2026-10-18 16:26:04 | [mhr-http-client-tls](https://crates.io/crates/mhr-http-client-tls) | 0.1.0 | 0 | The rustls client configuration of mhr-reqwest-client, for mhr-gpui, a fork of… |
-| 2026-10-18 16:27:32 | [bcode_question_dynamic_plugin](https://crates.io/crates/bcode_question_dynamic_plugin) | 0.0.1-alpha.0 | 0 | dynamic ABI fixture for the bcode question plugin |
-| 2026-10-18 16:28:06 | [gpui-motion-kit](https://crates.io/crates/gpui-motion-kit) | 0.2.0 | 0 | Declarative, interruptible animations and text motion for GPUI Kit |
-| 2026-10-18 16:34:34 | [clawft-cow-memory](https://crates.io/crates/clawft-cow-memory) | 0.8.3 | 0 | Branchable, checkpointable memory over rvf-runtime::RvfStore (agenticow semanti… |
-| 2026-10-18 16:34:51 | [claviron-logging](https://crates.io/crates/claviron-logging) | 0.2.0-alpha.17 | 0 | Process diagnostics and fleet-buffered log channels for Claviron |
-| 2026-10-18 16:36:06 | [mhr-reqwest-client](https://crates.io/crates/mhr-reqwest-client) | 0.1.0 | 0 | An HTTP client for mhr-gpui, a fork of Zed's gpui, built on reqwest |
-| 2026-10-18 16:37:28 | [wltile-core](https://crates.io/crates/wltile-core) | 0.1.1 | 0 | Output/display management for wlroots based compositors |
-| 2026-10-18 16:37:32 | [brouter_api_models](https://crates.io/crates/brouter_api_models) | 0.0.1-alpha.0 | 0 | OpenAI-compatible API models for brouter |
-| 2026-10-18 16:42:59 | [image-grid-combine](https://crates.io/crates/image-grid-combine) | 1.0.0 | 0 | Combine several images into one grid image: grid layout maths plus RGBA composi… |
-| 2026-10-18 16:44:52 | [claviron-supervisor](https://crates.io/crates/claviron-supervisor) | 0.2.0-alpha.17 | 0 | Worker process supervision, recovery, rolling restart, and fleet management for… |
-| 2026-10-18 16:45:46 | [clawft-service-llm](https://crates.io/crates/clawft-service-llm) | 0.8.3 | 0 | WeftOS LLM service — HTTP client to a locally-hosted llama.cpp (or any OpenAI-c… |
-| 2026-10-18 16:47:32 | [brouter_catalog_models](https://crates.io/crates/brouter_catalog_models) | 0.0.1-alpha.0 | 0 | Fallback model catalog data models for brouter |
-| 2026-10-18 16:51:14 | [ldf-data](https://crates.io/crates/ldf-data) | 0.1.0 | 0 | Value model, numeric semantics and input readers (JSON, JSONL, CSV, Parquet) fo… |
-| 2026-10-18 16:52:49 | [ldf](https://crates.io/crates/ldf) | 0.1.0 | 0 | Language Data Format: a lossless, line-oriented text encoding of JSON records t… |
-| 2026-10-18 16:54:24 | [shell-completions](https://crates.io/crates/shell-completions) | 0.1.0 | 0 | Shared clap shell completion generation, including Clink |
-| 2026-10-18 16:54:28 | [ldf-mcp](https://crates.io/crates/ldf-mcp) | 0.1.0 | 0 | MCP server over stdio: a proxy that re-encodes JSON tool results as LDF, plus C… |
-| 2026-10-18 16:54:51 | [claviron-tasks](https://crates.io/crates/claviron-tasks) | 0.2.0-alpha.17 | 0 | Lifecycle-managed tasks, scheduling, and fleet dispatch for Claviron |
-| 2026-10-18 16:57:22 | [weftos-worldmodel-core](https://crates.io/crates/weftos-worldmodel-core) | 0.8.3 | 0 | LeWM world-model core traits and latent contract (no_std). WEFT-520. |
-| 2026-10-18 16:57:32 | [brouter_config_models](https://crates.io/crates/brouter_config_models) | 0.0.1-alpha.0 | 0 | Configuration data models for brouter |
-| 2026-10-18 16:57:39 | [input-kit](https://crates.io/crates/input-kit) | 0.1.0 | 0 | Toolkit-neutral text-composition semantics for Rust: IME preedit state machine,… |
-| 2026-10-18 17:04:52 | [claviron-tls](https://crates.io/crates/claviron-tls) | 0.2.0-alpha.17 | 0 | Shared certificate resolution, TLS policy, and mutual TLS configuration for Cla… |
-| 2026-10-18 17:07:12 | [zakura-transparent-recovery-types](https://crates.io/crates/zakura-transparent-recovery-types) | 0.0.0 | 0 | Reserved |
-| 2026-10-18 17:07:32 | [brouter_catalog](https://crates.io/crates/brouter_catalog) | 0.0.1-alpha.0 | 0 | Curated fallback model catalog for brouter |
-| 2026-10-18 17:08:26 | [weftos-worldmodel-impls](https://crates.io/crates/weftos-worldmodel-impls) | 0.8.3 | 0 | LeWM world-model trait implementations (null/stub default; optional candle ViT-… |
-| 2026-10-18 17:08:29 | [weftos-worldmodel](https://crates.io/crates/weftos-worldmodel) | 0.8.3 | 0 | LeWM latent world-model facade: re-exports core traits + default impls (single… |
-| 2026-10-18 17:09:32 | [gled-model](https://crates.io/crates/gled-model) | 2.30.0 | 0 | The data model of gled: projects, scenes, effects, animations, curves and assets |
-| 2026-10-18 17:09:33 | [gled-gpu](https://crates.io/crates/gled-gpu) | 2.30.0 | 0 | The wgpu pipelines of gled: effect rendering, LED output and the LED preview |
-| 2026-10-18 17:09:34 | [gled-protocol](https://crates.io/crates/gled-protocol) | 2.30.0 | 0 | What gled's user interfaces and its engine send each other |
-| 2026-10-18 17:09:36 | [gled-svg](https://crates.io/crates/gled-svg) | 2.30.0 | 0 | gled's lamp layouts: reads fixtures, groups and universes from SVG files |
-| 2026-10-18 17:09:37 | [gled-core](https://crates.io/crates/gled-core) | 2.30.0 | 0 | The engine of gled without a user interface: inputs, timing, rendering, Art-Net… |
-| 2026-10-18 17:12:08 | [cql-hpc-collect](https://crates.io/crates/cql-hpc-collect) | 0.2.0 | 0 | Measures real CQL performance on public workload shapes (NoSQLBench, cassandra-… |
-| 2026-10-18 17:14:52 | [claviron-http](https://crates.io/crates/claviron-http) | 0.2.0-alpha.17 | 0 | Shared HTTP types, request policy, configuration, and routing contracts for Cla… |
-| 2026-10-18 17:16:58 | [onde-cloud-sdk](https://crates.io/crates/onde-cloud-sdk) | 0.1.0 | 0 | A client for the Onde Cloud console API: per-user apps, tier lists, daily limit… |
-| 2026-10-18 17:17:32 | [brouter_provider_models](https://crates.io/crates/brouter_provider_models) | 0.0.1-alpha.0 | 0 | Provider and model metadata types for brouter |
+| 2026-10-18 17:19:33 | [clawft-delegation](https://crates.io/crates/clawft-delegation) | 0.8.3 | 0 | Cognitive work delegation to peer world-model services (client/server + certs).… |
+| 2026-10-18 17:24:51 | [claviron-ffi](https://crates.io/crates/claviron-ffi) | 0.2.0-alpha.17 | 0 | Foreign HTTP handler ABI, response types, and buffer ownership helpers for Clav… |
+| 2026-10-18 17:25:01 | [gage](https://crates.io/crates/gage) | 0.1.0 | 0 | Hand context between agents — files, prompts and decisions — with a trust bound… |
+| 2026-10-18 17:27:28 | [wardex-core](https://crates.io/crates/wardex-core) | 0.0.1 | 0 | Core event model, session manager and store for Wardex |
+| 2026-10-18 17:27:31 | [wardex-drivers](https://crates.io/crates/wardex-drivers) | 0.0.1 | 0 | Claude Code and Codex drivers for Wardex |
+| 2026-10-18 17:27:31 | [wardex-server](https://crates.io/crates/wardex-server) | 0.0.1 | 0 | Wardex daemon: CLI API, MCP server and webhook dispatcher |
+| 2026-10-18 17:27:32 | [brouter_introspection_models](https://crates.io/crates/brouter_introspection_models) | 0.0.1-alpha.0 | 0 | Generic live introspection data models for brouter |
+| 2026-10-18 17:27:33 | [wardex](https://crates.io/crates/wardex) | 0.0.1 | 0 | Daemon and CLI that runs, watches and manages Claude Code and Codex sessions, e… |
+| 2026-10-18 17:31:15 | [clawft-substrate](https://crates.io/crates/clawft-substrate) | 0.8.3 | 0 | WeftOS substrate state tree + OntologyAdapter contract (ADR-017). M1.5 ships th… |
+| 2026-10-18 17:32:45 | [uffda-heap-derive](https://crates.io/crates/uffda-heap-derive) | 0.10.0 | 0 | Derive macros for the Uffda garbage-collected heap |
+| 2026-10-18 17:32:47 | [uffda-heap](https://crates.io/crates/uffda-heap) | 0.10.0 | 0 | Garbage-collected heap abstraction for the Uffda runtime |
+| 2026-10-18 17:32:49 | [uffda-build](https://crates.io/crates/uffda-build) | 0.10.0 | 0 | Build helpers that embed unmodified Uffda compiled declaration JSON |
+| 2026-10-18 17:32:58 | [uffda-runtime](https://crates.io/crates/uffda-runtime) | 0.10.0 | 0 | Uffda pattern/expression runtime, resolver, formatter, and data codec |
+| 2026-10-18 17:34:51 | [claviron-files](https://crates.io/crates/claviron-files) | 0.2.0-alpha.17 | 0 | Static file serving, representation caching, and resource fallback for Claviron |
+| 2026-10-18 17:37:32 | [brouter_router_models](https://crates.io/crates/brouter_router_models) | 0.0.1-alpha.0 | 0 | Routing decision models for brouter |
+| 2026-10-18 17:41:05 | [hennery-proto](https://crates.io/crates/hennery-proto) | 0.1.2 | 0 | Shared wire types for the hennery ACP cockpit |
+| 2026-10-18 17:42:18 | [clawft-treecalc](https://crates.io/crates/clawft-treecalc) | 0.1.0 | 0 | Tree-calculus Form triage (Atom / Sequence / Branch) — shared across kernel, gr… |
+| 2026-10-18 17:45:17 | [legato-macros](https://crates.io/crates/legato-macros) | 0.1.3 | 0 | Compile-time kernel codegen for Legato |
+| 2026-10-18 17:47:32 | [brouter_config](https://crates.io/crates/brouter_config) | 0.0.1-alpha.0 | 0 | Configuration loading and validation for brouter |
+| 2026-10-18 17:51:06 | [gl-transitions](https://crates.io/crates/gl-transitions) | 0.1.0 | 0 | The gl-transitions collection (GLSL transitions between two images) as SkSL, WG… |
+| 2026-10-18 17:52:19 | [hennery-kernel](https://crates.io/crates/hennery-kernel) | 0.1.2 | 0 | Storage, authentication, HTTP kernel and embedded UI for hennery |
+| 2026-10-18 17:52:20 | [jar](https://crates.io/crates/jar) | 0.1.1 | 0 | A lightweight Linux process supervisor |
+| 2026-10-18 17:52:53 | [mr_handy](https://crates.io/crates/mr_handy) | 0.1.0 | 0 | Small and simple utility crate made by me for me. |
+| 2026-10-18 17:53:27 | [weft-licence-wire](https://crates.io/crates/weft-licence-wire) | 0.8.3 | 0 | Wire types of the ADR-106 Seed licence proxy (checkout grant, signed envelope,… |
+| 2026-10-18 17:55:50 | [treedb](https://crates.io/crates/treedb) | 0.1.0 | 0 | A persistent single-node storage engine built from first principles in Rust. |
+| 2026-10-18 17:57:32 | [brouter_provider](https://crates.io/crates/brouter_provider) | 0.0.1-alpha.0 | 0 | Provider registry primitives for brouter |
+| 2026-10-18 18:01:26 | [gpui-playwright-selectors](https://crates.io/crates/gpui-playwright-selectors) | 0.1.0 | 0 | Playwright selector parsing and matching over a semantic element tree. |
+| 2026-10-18 18:01:29 | [gpui-playwright](https://crates.io/crates/gpui-playwright) | 0.1.0 | 0 | A Playwright protocol server inside GPUI apps: drive them with stock Playwright… |
+| 2026-10-18 18:02:41 | [reuse-rs](https://crates.io/crates/reuse-rs) | 0.1.0 | 0 | Real-time speech enhancement with NVIDIA Real-time RE-USE (Mamba), in plain Rus… |
+| 2026-10-18 18:02:41 | [hatchling-host](https://crates.io/crates/hatchling-host) | 0.4.0 | 0 | The frontend host for Hatchling: serves the UI on loopback and carries its chan… |
+| 2026-10-18 18:04:50 | [claviron-websocket](https://crates.io/crates/claviron-websocket) | 0.2.0-alpha.17 | 0 | Listener-owned HTTP/1 WebSocket upgrade integration for Claviron |
+| 2026-10-18 18:05:22 | [git-agecrypt](https://crates.io/crates/git-agecrypt) | 0.6.0 | 0 | Transparent git encryption of selected files using age |
+| 2026-10-18 18:06:06 | [clawft-graphify](https://crates.io/crates/clawft-graphify) | 0.8.3 | 0 | Knowledge graph builder for WeftOS: extracts entities and relationships from co… |
+| 2026-10-18 18:07:32 | [brouter_router](https://crates.io/crates/brouter_router) | 0.0.1-alpha.0 | 0 | Prompt analysis and model routing engine for brouter |
+| 2026-10-18 18:10:13 | [canif](https://crates.io/crates/canif) | 0.1.0 | 0 | Run reviewed scripts with validated arguments, so AI agents can be allowlisted… |
+| 2026-10-18 18:14:51 | [claviron-php](https://crates.io/crates/claviron-php) | 0.2.0-alpha.17 | 0 | Shared PHP route configuration and runtime contracts for Claviron execution bac… |
+| 2026-10-18 18:16:43 | [ssh-agent-kit](https://crates.io/crates/ssh-agent-kit) | 1.0.0 | 0 | A framework for building custom SSH agents: the OpenSSH agent protocol, with pl… |
+| 2026-10-18 18:17:11 | [clawft-security](https://crates.io/crates/clawft-security) | 0.8.3 | 0 | Security audit checks, hardening, and monitors for clawft |
+| 2026-10-18 18:17:33 | [brouter_introspection](https://crates.io/crates/brouter_introspection) | 0.0.1-alpha.0 | 0 | Generic introspection cache and policy helpers for brouter |
+| 2026-10-18 18:17:52 | [clawft-service-agent](https://crates.io/crates/clawft-service-agent) | 0.8.3 | 0 | WeftOS agent service — wraps clawft-core::agent::AgentLoop with per-conversatio… |
 
 ## Data source
 

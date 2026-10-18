@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T17:19:33.827184Z,clawft-delegation,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,Cognitive work delegation to peer world-model services (client/server + certs). WEFT-525.
+2026-10-18T17:24:51.774616Z,claviron-ffi,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,"Foreign HTTP handler ABI, response types, and buffer ownership helpers for Claviron"
+2026-10-18T17:25:01.325337Z,gage,0.1.0,0,0,https://github.com/warewithall2/gage,"Hand context between agents — files, prompts and decisions — with a trust boundary that survives the hop."
+2026-10-18T17:27:28.776534Z,wardex-core,0.0.1,0,0,https://github.com/TNYCL/wardex,"Core event model, session manager and store for Wardex"
+2026-10-18T17:27:31.033582Z,wardex-drivers,0.0.1,0,0,https://github.com/TNYCL/wardex,Claude Code and Codex drivers for Wardex
+2026-10-18T17:27:31.498947Z,wardex-server,0.0.1,0,0,https://github.com/TNYCL/wardex,"Wardex daemon: CLI API, MCP server and webhook dispatcher"
+2026-10-18T17:27:32.258849Z,brouter_introspection_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Generic live introspection data models for brouter
+2026-10-18T17:27:33.327246Z,wardex,0.0.1,0,0,https://github.com/TNYCL/wardex,"Daemon and CLI that runs, watches and manages Claude Code and Codex sessions, exposed over MCP"
+2026-10-18T17:31:15.639925Z,clawft-substrate,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,"WeftOS substrate state tree + OntologyAdapter contract (ADR-017). M1.5 ships the kernel adapter; additional adapters (git, gh, fs, lsp, workspace, deployment) arrive in M1.6+."
+2026-10-18T17:32:45.064802Z,uffda-heap-derive,0.10.0,0,0,https://github.com/justinmchase/uffda,Derive macros for the Uffda garbage-collected heap
+2026-10-18T17:32:47.773104Z,uffda-heap,0.10.0,0,0,https://github.com/justinmchase/uffda,Garbage-collected heap abstraction for the Uffda runtime
+2026-10-18T17:32:49.77195Z,uffda-build,0.10.0,0,0,https://github.com/justinmchase/uffda,Build helpers that embed unmodified Uffda compiled declaration JSON
+2026-10-18T17:32:58.881115Z,uffda-runtime,0.10.0,0,0,https://github.com/justinmchase/uffda,"Uffda pattern/expression runtime, resolver, formatter, and data codec"
+2026-10-18T17:34:51.564089Z,claviron-files,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,"Static file serving, representation caching, and resource fallback for Claviron"
+2026-10-18T17:37:32.334342Z,brouter_router_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Routing decision models for brouter
+2026-10-18T17:41:05.723901Z,hennery-proto,0.1.2,0,0,https://github.com/marcinwadon/hennery,Shared wire types for the hennery ACP cockpit
+2026-10-18T17:42:18.926059Z,clawft-treecalc,0.1.0,0,0,https://github.com/weave-logic-ai/weftos,"Tree-calculus Form triage (Atom / Sequence / Branch) — shared across kernel, graphify, and any other caller that wants structural dispatch"
+2026-10-18T17:45:17.623297Z,legato-macros,0.1.3,0,0,https://github.com/legato-dsp/legato,Compile-time kernel codegen for Legato
+2026-10-18T17:47:32.737911Z,brouter_config,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Configuration loading and validation for brouter
+2026-10-18T17:51:06.529061Z,gl-transitions,0.1.0,0,0,https://github.com/gl-transitions/gl-transitions,"The gl-transitions collection (GLSL transitions between two images) as SkSL, WGSL, GLSL ES 3.00 and Metal sources, with typed parameters and uniform layouts"
+2026-10-18T17:52:19.910961Z,hennery-kernel,0.1.2,0,0,https://github.com/marcinwadon/hennery,"Storage, authentication, HTTP kernel and embedded UI for hennery"
+2026-10-18T17:52:20.207826Z,jar,0.1.1,0,0,https://github.com/cfal/jar,A lightweight Linux process supervisor
+2026-10-18T17:52:53.39864Z,mr_handy,0.1.0,0,0,https://github.com/TaXi0k/mr_handy,Small and simple utility crate made by me for me.
+2026-10-18T17:53:27.808128Z,weft-licence-wire,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,"Wire types of the ADR-106 Seed licence proxy (checkout grant, signed envelope, mesh id), shared by the kernel (member side) and weft-licence (Seed side, armv7/aarch64)."
+2026-10-18T17:55:50.374598Z,treedb,0.1.0,0,0,https://github.com/gtathelegend/TreeDB,A persistent single-node storage engine built from first principles in Rust.
+2026-10-18T17:57:32.73136Z,brouter_provider,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Provider registry primitives for brouter
+2026-10-18T18:01:26.211583Z,gpui-playwright-selectors,0.1.0,0,0,https://github.com/Ziinc/gpui-playwright,Playwright selector parsing and matching over a semantic element tree.
+2026-10-18T18:01:29.108558Z,gpui-playwright,0.1.0,0,0,https://github.com/Ziinc/gpui-playwright,A Playwright protocol server inside GPUI apps: drive them with stock Playwright clients.
+2026-10-18T18:02:41.3119Z,reuse-rs,0.1.0,0,0,https://github.com/altunenes/reuse-rs,"Real-time speech enhancement with NVIDIA Real-time RE-USE (Mamba), in plain Rust on the CPU"
+2026-10-18T18:02:41.631812Z,hatchling-host,0.4.0,0,0,https://github.com/undergroundrap/hatchling,"The frontend host for Hatchling: serves the UI on loopback and carries its channel to the broker's UI socket, unchanged"
+2026-10-18T18:04:50.941955Z,claviron-websocket,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,Listener-owned HTTP/1 WebSocket upgrade integration for Claviron
+2026-10-18T18:05:22.296504Z,git-agecrypt,0.6.0,0,0,https://github.com/vlaci/git-agecrypt,Transparent git encryption of selected files using age
+2026-10-18T18:06:06.563609Z,clawft-graphify,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,"Knowledge graph builder for WeftOS: extracts entities and relationships from code (tree-sitter) and documents, clusters and exports them."
+2026-10-18T18:07:32.505166Z,brouter_router,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Prompt analysis and model routing engine for brouter
+2026-10-18T18:10:13.560655Z,canif,0.1.0,0,0,https://github.com/nanocryk/canif,"Run reviewed scripts with validated arguments, so AI agents can be allowlisted on one command"
+2026-10-18T18:14:51.278971Z,claviron-php,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,Shared PHP route configuration and runtime contracts for Claviron execution backends
+2026-10-18T18:16:43.326232Z,ssh-agent-kit,1.0.0,0,0,https://github.com/rustafariandev/ssh-agent-kit,"A framework for building custom SSH agents: the OpenSSH agent protocol, with pluggable key backends, smartcard providers, policy and extensions"
+2026-10-18T18:17:11.801955Z,clawft-security,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,"Security audit checks, hardening, and monitors for clawft"
+2026-10-18T18:17:33.001726Z,brouter_introspection,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Generic introspection cache and policy helpers for brouter
+2026-10-18T18:17:52.108096Z,clawft-service-agent,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,"WeftOS agent service — wraps clawft-core::agent::AgentLoop with per-conversation locking, cancellation, and a single dispatch entry point shaped for the agent.chat JSON-RPC handler."
