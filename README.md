@@ -8,46 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 06:18 UTC
+## Latest list — 2026-10-18 07:18 UTC
 
-New crates published between 2026-10-18 05:18 UTC and 2026-10-18 06:18 UTC.
+New crates published between 2026-10-18 06:18 UTC and 2026-10-18 07:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-18T06-18-27-956414Z.csv)
+[Full CSV](data/new-crates-2026-10-18T07-18-28-35744Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-18 05:18:41 | [sqlsplit](https://crates.io/crates/sqlsplit) | 0.1.0 | 0 | A nom parser for splitting SQL statements |
-| 2026-10-18 05:22:49 | [brevier](https://crates.io/crates/brevier) | 0.12.0 | 0 | A browser for reading: it turns a page into clean text on your own computer and… |
-| 2026-10-18 05:23:59 | [hatcheck](https://crates.io/crates/hatcheck) | 0.2.0 | 0 | Claude Code and Codex accounts on one computer, each kept apart |
-| 2026-10-18 05:26:04 | [mesquite_diff](https://crates.io/crates/mesquite_diff) | 0.1.0 | 0 | The Diff grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-diff 0.… |
-| 2026-10-18 05:27:32 | [bcode_pi_session_import_plugin](https://crates.io/crates/bcode_pi_session_import_plugin) | 0.0.1-alpha.0 | 0 | Pi session import plugin for bcode |
-| 2026-10-18 05:32:57 | [cottak-core](https://crates.io/crates/cottak-core) | 2.0.0 | 0 | Typed Cursor on Target (CoT) / TAK event model with lossless XML round-tripping |
-| 2026-10-18 05:32:59 | [cottak-convert](https://crates.io/crates/cottak-convert) | 2.0.0 | 0 | Convert Cursor on Target events to GeoJSON and KML, and CoT types to MIL-STD-25… |
-| 2026-10-18 05:32:59 | [cottak-proto](https://crates.io/crates/cottak-proto) | 2.0.0 | 0 | TAK Protocol v1 (protobuf) mapping, framing and negotiation for Cursor on Target |
-| 2026-10-18 05:33:00 | [cottak-net](https://crates.io/crates/cottak-net) | 2.0.0 | 0 | Async TAK Server client (TCP/TLS), mesh UDP and keepalive/reconnect for Cursor… |
-| 2026-10-18 05:33:02 | [cottak-enroll](https://crates.io/crates/cottak-enroll) | 2.0.0 | 0 | TAK Server certificate enrollment (tak:// onboarding, CSR, signClient) for cott… |
-| 2026-10-18 05:35:52 | [cottak-marti](https://crates.io/crates/cottak-marti) | 2.0.0 | 0 | TAK Server Marti REST API client: missions, data sync, files, contacts, groups |
-| 2026-10-18 05:36:04 | [mesquite_elixir](https://crates.io/crates/mesquite_elixir) | 0.1.0 | 0 | The Elixir grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-elixi… |
-| 2026-10-18 05:37:32 | [bcode_prompt_profile](https://crates.io/crates/bcode_prompt_profile) | 0.0.1-alpha.0 | 0 | Model-scoped prompt profile contract types for Bcode |
-| 2026-10-18 05:37:58 | [crcbl-app](https://crates.io/crates/crcbl-app) | 0.4.0 | 0 | Crucible app core: the GPU backend walk, the adapter pin, window bring-up and t… |
-| 2026-10-18 05:40:34 | [localgpt-world-audio](https://crates.io/crates/localgpt-world-audio) | 0.4.0 | 0 | The one mapping from the LocalGPT world format's audio to sound: FunDSP synthes… |
-| 2026-10-18 05:40:34 | [localgpt-world-bevy](https://crates.io/crates/localgpt-world-bevy) | 0.4.0 | 0 | The one Bevy mapping of the LocalGPT world format — meshes, materials, lights,… |
-| 2026-10-18 05:40:34 | [localgpt-world-export](https://crates.io/crates/localgpt-world-export) | 0.4.0 | 0 | Distribution formats for LocalGPT worlds — the web viewer and self-contained HT… |
-| 2026-10-18 05:40:34 | [localgpt-world-sync](https://crates.io/crates/localgpt-world-sync) | 0.4.0 | 0 | Collaborative sessions over the LocalGPT world format: shared document, ops, wi… |
-| 2026-10-18 05:40:37 | [localgpt-previs](https://crates.io/crates/localgpt-previs) | 0.4.0 | 0 | LocalGPT Previs — a screenplay in (Fountain, a Final Draft .fdx, a PDF, or Mark… |
-| 2026-10-18 05:44:55 | [guestkit-ebpf-common](https://crates.io/crates/guestkit-ebpf-common) | 0.1.0 | 0 | Map key/value layouts shared by the GuestKit in-guest eBPF programs and their l… |
-| 2026-10-18 05:45:23 | [guestkit-ebpf-runtime](https://crates.io/crates/guestkit-ebpf-runtime) | 0.1.0 | 0 | Loader for the GuestKit in-guest eBPF programs (per-container netpolicy + LSM M… |
-| 2026-10-18 05:45:53 | [cottak-server](https://crates.io/crates/cottak-server) | 2.0.0 | 0 | Embeddable TAK Server for Cursor on Target: a mock server for tests and a small… |
-| 2026-10-18 05:46:05 | [mesquite_elm](https://crates.io/crates/mesquite_elm) | 0.1.0 | 0 | The Elm grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-elm 5.9.4 |
-| 2026-10-18 05:47:32 | [bcode_prompt_profile_plugin](https://crates.io/crates/bcode_prompt_profile_plugin) | 0.0.1-alpha.0 | 0 | Bundled model-scoped prompt profile plugin for Bcode |
-| 2026-10-18 05:53:55 | [sylk-macros](https://crates.io/crates/sylk-macros) | 0.5.0 | 0 | Procedural macros for sylk |
-| 2026-10-18 05:53:58 | [sylk](https://crates.io/crates/sylk) | 0.5.0 | 0 | Typed resources, server functions and reconnecting hooks for Dioxus apps, fulls… |
-| 2026-10-18 05:56:04 | [mesquite_embedded_template](https://crates.io/crates/mesquite_embedded_template) | 0.1.0 | 0 | The Embedded templates (ERB, EJS) grammar for Mesquite (pure-Rust tree-sitter),… |
-| 2026-10-18 05:57:32 | [bcode_question_plugin](https://crates.io/crates/bcode_question_plugin) | 0.0.1-alpha.0 | 0 | interactive question tool plugin for bcode |
-| 2026-10-18 06:06:04 | [mesquite_erlang](https://crates.io/crates/mesquite_erlang) | 0.1.0 | 0 | The Erlang grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-erlan… |
-| 2026-10-18 06:07:32 | [bcode_read_plugin](https://crates.io/crates/bcode_read_plugin) | 0.0.1-alpha.0 | 0 | Terminal Markdown reader plugin for bcode |
-| 2026-10-18 06:16:04 | [mesquite_fortran](https://crates.io/crates/mesquite_fortran) | 0.1.0 | 0 | The Fortran grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-fort… |
-| 2026-10-18 06:17:32 | [bcode_session_derivation_plugin](https://crates.io/crates/bcode_session_derivation_plugin) | 0.0.1-alpha.0 | 0 | Plugin-owned session fork and clone workflows for Bcode |
+| 2026-10-18 06:21:13 | [doesberg](https://crates.io/crates/doesberg) | 0.1.1 | 0 | The style |
+| 2026-10-18 06:23:43 | [zeroclaw-buildinfo](https://crates.io/crates/zeroclaw-buildinfo) | 0.8.6 | 0 | Compile-time build provenance for ZeroClaw binaries. |
+| 2026-10-18 06:26:05 | [mesquite_fsharp](https://crates.io/crates/mesquite_fsharp) | 0.1.0 | 0 | The F# grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-fsharp 0.… |
+| 2026-10-18 06:27:32 | [bcode_session_milestones_plugin](https://crates.io/crates/bcode_session_milestones_plugin) | 0.0.1-alpha.0 | 0 | Opt-in session milestone generation policy and commands |
+| 2026-10-18 06:36:04 | [mesquite_glsl](https://crates.io/crates/mesquite_glsl) | 0.1.0 | 0 | The GLSL grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-glsl 0.… |
+| 2026-10-18 06:37:32 | [bcode_tool_runtime](https://crates.io/crates/bcode_tool_runtime) | 0.0.1-alpha.0 | 0 | Managed tool execution runtime for bcode |
+| 2026-10-18 06:46:04 | [mesquite_graphql](https://crates.io/crates/mesquite_graphql) | 0.1.0 | 0 | The GraphQL grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-grap… |
+| 2026-10-18 06:47:32 | [bcode_shell_plugin](https://crates.io/crates/bcode_shell_plugin) | 0.0.1-alpha.0 | 0 | shell execution tool plugin for bcode |
+| 2026-10-18 06:54:15 | [minipbx](https://crates.io/crates/minipbx) | 0.0.1 | 0 | An experimental PBX in Rust with S3-backed SIP message and call recording stora… |
+| 2026-10-18 06:56:05 | [mesquite_haskell](https://crates.io/crates/mesquite_haskell) | 0.1.0 | 0 | The Haskell grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-hask… |
+| 2026-10-18 06:59:52 | [renox-pdf](https://crates.io/crates/renox-pdf) | 1.2.0 | 0 | PDF documents from Typst templates, with right-to-left text and embedded fonts,… |
+| 2026-10-18 07:04:28 | [fluidaudio-rs-featmodels](https://crates.io/crates/fluidaudio-rs-featmodels) | 0.17.7 | 0 | Temporary fork of fluidaudio-rs that bumps FluidAudio to 0.17.7 and adds ASR mo… |
+| 2026-10-18 07:05:09 | [x-bone](https://crates.io/crates/x-bone) | 0.0.1 | 0 | A reusable host core for plugin-based Rust systems: plugin sessions, a schedule… |
+| 2026-10-18 07:06:04 | [mesquite_hcl](https://crates.io/crates/mesquite_hcl) | 0.1.0 | 0 | The HCL grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-hcl 1.1.0 |
+| 2026-10-18 07:07:25 | [pia-sdk](https://crates.io/crates/pia-sdk) | 0.1.0 | 0 | Official Rust client SDK for the PIA Market Intelligence Platform |
+| 2026-10-18 07:08:05 | [shellwing](https://crates.io/crates/shellwing) | 0.0.0 | 0 | Reserved name for shellwing, a native SSH client (Rust, GPUI, libghostty-vt). N… |
+| 2026-10-18 07:12:40 | [tree-sitter-dash](https://crates.io/crates/tree-sitter-dash) | 0.1.0 | 0 | Tree-sitter grammar for dash. |
+| 2026-10-18 07:13:54 | [tauri-kit-locale](https://crates.io/crates/tauri-kit-locale) | 0.22.0 | 0 | The UI languages the person prefers, read from the operating system before any… |
+| 2026-10-18 07:16:04 | [mesquite_html](https://crates.io/crates/mesquite_html) | 0.1.0 | 0 | The HTML grammar for Mesquite (pure-Rust tree-sitter), from tree-sitter-html 0.… |
+| 2026-10-18 07:18:15 | [boxmaid](https://crates.io/crates/boxmaid) | 0.1.0 | 0 | Mermaid diagrams for the terminal: flowcharts, sequence, class, state, ER, gant… |
 
 ## Data source
 
