@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T12:26:05.461003Z,arko-tui,0.1.0,0,0,https://github.com/mesa-hills-research/arko,"A general-purpose agent for the terminal, with a shell, background jobs, file tools and workers that run in parallel"
+2026-10-18T12:26:48.489128Z,rok-ui-http,0.8.0,0,0,https://github.com/ateeq1999/rok-ui,"The HTTP client behind rok_ui::http: JSON APIs, API errors, sessions, retries and uploads, without GPUI."
+2026-10-18T12:27:32.549978Z,bcode_workflow_view,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Renderer-neutral workflow view projection for bcode
+2026-10-18T12:32:40.005826Z,mcp-server-core,0.1.0,0,0,https://github.com/Trozz/mcp-server-core-rs,"A batteries-included base for Model Context Protocol (MCP) servers over Streamable HTTP: OAuth 2.1 sign-in, TLS, per-service routing, abuse limits and observability on top of rmcp."
+2026-10-18T12:36:05.152085Z,mhr-bench-metrics,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"Criterion measurements beyond wall time, such as hardware counters and heap allocations, from mhr-gpui, a fork of Zed's gpui"
+2026-10-18T12:36:33.410918Z,completype,0.1.1,0,0,https://github.com/sayef/completype,"Serverless autocompletion engine for Rust and Python: exact, prefix, infix, abbreviation, spelling-tolerant, word-decomposing and semantic completions from object storage"
+2026-10-18T12:37:32.573995Z,bcode_workflow_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,"Workflow discovery, commands, status, and TUI for bcode"
+2026-10-18T12:37:35.428664Z,completype-cli,0.1.1,0,0,https://github.com/sayef/completype,"Command-line tool for completype databases: inspect, import, complete, compact, clean up and ingest"
+2026-10-18T12:43:46.400673Z,surmap,0.1.0,0,0,https://github.com/conradludgate/surmap,Surjective and bijective hash maps with efficient lookups in both directions
+2026-10-18T12:46:05.322107Z,mhr-gpui-util,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"Small utilities of mhr-gpui, a fork of Zed's gpui"
+2026-10-18T12:46:21.387165Z,cargo-plane-provider,0.1.0,0,0,,"Write provider plugins for cargo-plane: start and stop a build machine, say how to reach it"
+2026-10-18T12:46:22.865731Z,cargo-plane-provider-codespace,0.1.0,0,0,,"cargo-plane provider: a GitHub Codespace, reached through the GitHub CLI"
+2026-10-18T12:46:23.257446Z,cargo-plane-provider-fly,0.1.0,0,0,,cargo-plane provider: a Fly.io Machine that starts on demand and stops itself when idle
+2026-10-18T12:46:23.677304Z,cargo-plane-provider-ssh,0.1.0,0,0,,cargo-plane provider: an always-on machine reachable over SSH
+2026-10-18T12:47:32.94626Z,bcode_worktree,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Git worktree orchestration for bcode
+2026-10-18T12:49:41.307423Z,ic-platform-macros,0.1.10,0,0,https://github.com/dragginzgame/ic-platform,IC Platform entrypoint generator with explicit runtime and Candid paths
+2026-10-18T12:52:04.458888Z,waypoint-mcp,0.1.0,0,0,https://github.com/s3bk/waypoint,MCP server exposing a Waypoint graph to AI agents
+2026-10-18T12:54:12.262815Z,printcrab,0.1.0,0,0,https://gitlab.freedesktop.org/fraxinas/printcrab,"Photobooth server: captures a webcam or DSLR with GStreamer, composes photo strips and prints them, driven from a browser GUI over WebRTC"
+2026-10-18T12:57:32.939308Z,bcode_worktree_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Git worktree tool plugin for bcode
+2026-10-18T12:58:19.550414Z,shomareh,0.1.0,0,0,https://github.com/ammarsalahi/shomareh,Persian utilities: Jalali/Gregorian date conversion and phone/email validation with Persian digit support
+2026-10-18T12:58:47.637664Z,sloplint,0.0.0,0,0,,"Agent-first code quality linter for twenty-three languages: complexity, greppability, and AI slop"
+2026-10-18T12:58:53.075948Z,sloplinter,0.0.0,0,0,,"Reserved companion name for the sloplint CLI, an agent-first code quality linter"
+2026-10-18T12:59:42.779508Z,mhr-collections,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"The collection types of mhr-gpui, a fork of Zed's gpui"
+2026-10-18T13:00:21.019817Z,bicho,1.0.0,0,0,https://github.com/bicho-fyi/bicho-rust,Report Rust application errors to Bicho over OTLP/HTTP JSON
+2026-10-18T13:01:30.216108Z,pele-rustdoc,0.1.0,0,0,https://github.com/explodingcamera/pele-rustdoc/,Render Mermaid diagrams in rustdoc with Pele
+2026-10-18T13:05:01.560484Z,sloplint-cli,0.0.0,0,0,,"CLI companion name for sloplint, an agent-first code quality linter"
+2026-10-18T13:06:03.874831Z,strata-wrap,0.2.1,0,0,https://github.com/lindestad/strata-wrap,Strata inference console and elastic VRAM supervisor
+2026-10-18T13:06:04.358558Z,mhr-derive-refineable,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"The derive macro of mhr-refineable, used by mhr-gpui, a fork of Zed's gpui"
+2026-10-18T13:07:33.281093Z,bcode_bundled_plugins,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Static bundled plugin registrations for bcode
+2026-10-18T13:10:39.189952Z,sansio-dns,0.1.0,0,0,https://github.com/FalkWoldmann/sansio-dns,A sans-IO DNS stub resolver built on hickory-proto
+2026-10-18T13:10:50.973933Z,sansio-dns-tokio,0.1.0,0,0,https://github.com/FalkWoldmann/sansio-dns,Tokio driver for sansio-dns: resolve host names to addresses
+2026-10-18T13:15:56.037663Z,nl-macsec,0.1.0,0,0,https://github.com/rust-netlink/nl-macsec,Linux netlink library for MACsec management
+2026-10-18T13:16:04.138625Z,mhr-gpui-macros,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"Procedural macros of mhr-gpui, a fork of Zed's gpui"
+2026-10-18T13:16:15.833196Z,cqlz-markov,0.1.0,0,0,https://github.com/Max-imalgutaussehend/cqlz-lab,Alpha: Markov models for CQL workloads (query-shape session chains) and partition growth (birth-death chains with TTL)
+2026-10-18T13:16:51.342129Z,cqlz-gym,0.1.0,0,0,https://github.com/Max-imalgutaussehend/cqlz-lab,"Alpha: verifier-in-the-loop RL for Cassandra data modelling; cqlc-core checks every candidate table, a small Burn policy picks the table set"
+2026-10-18T13:17:32.759564Z,bcode_hyperchad_ui,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Portable HyperChad UI components for Bcode sessions
