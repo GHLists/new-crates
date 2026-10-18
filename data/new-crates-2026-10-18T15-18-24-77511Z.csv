@@ -1,0 +1,54 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T14:19:25.335131Z,skillctl-cli,0.1.0,0,0,https://github.com/abindran/skillctl,"Store Agent Skills once and symlink them into projects for Claude Code, Cursor and ZohoCode"
+2026-10-18T14:20:06.264899Z,compitum-pe,0.1.0,0,0,https://github.com/compitum-dev/compitum,PE/COFF parsing and ARM64 binary classification for COMPITUM.
+2026-10-18T14:20:10.356035Z,signalkit-core,0.1.0,0,0,https://github.com/WyattAu/signalkit,Subject/observation snapshot store and clamped velocity scoring
+2026-10-18T14:21:01.205274Z,compitum-router,0.1.0,0,0,https://github.com/compitum-dev/compitum,ABI routing engine: decide the fastest correct execution path for a binary.
+2026-10-18T14:21:53.52615Z,chimera-ai,0.1.0,0,0,https://github.com/l0ngsight/chimera,"Multi-agent orchestration across coding CLIs (Claude Code, Codex, opencode, Copilot, pi, Hermes) with a web UI and TUI"
+2026-10-18T14:24:02.883169Z,leptoskit_fns,0.1.0,0,0,https://github.com/ifiokjr/leptoskit,"An ergonomic API over leptos server functions with retry, caching, and native transport support."
+2026-10-18T14:26:06.300366Z,mhr-ztracing,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"Tracing spans that compile away unless enabled, used by mhr-gpui, a fork of Zed's gpui"
+2026-10-18T14:27:32.298006Z,bcode_session_migration,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Historical session storage migration for bcode
+2026-10-18T14:29:56.116278Z,docs-core,0.1.0,0,0,https://github.com/WyattAu/docs-core,"Rust docs pipeline core — CommonMark+GFM to static HTML with astro-island-compatible island emission, so a Rust shell hydrates the estate's existing SolidJS bundles. Consolidates Tachyon + docs-pipel…"
+2026-10-18T14:30:28.860642Z,compitum-oracle,0.1.0,0,0,https://github.com/compitum-dev/compitum,The compatibility ledger: every verified (binary x host x outcome) observation.
+2026-10-18T14:30:55.378203Z,volumectl,0.0.0,0,0,,cli volume controller requiring no brain cells to work with
+2026-10-18T14:35:06.965304Z,leptoskit_cli,0.1.0,0,0,https://github.com/ifiokjr/leptoskit,"The command line interface for building, serving, and shipping leptos apps."
+2026-10-18T14:35:40.729482Z,bsv-messagebox-cloudflare,0.5.5,0,0,https://github.com/Calhooon/bsv-messagebox-cloudflare,"A BSV messaging relay on Cloudflare Workers: BRC-31 authentication, delivery permissions, paid delivery, D1 storage and hibernatable WebSockets."
+2026-10-18T14:36:00.166629Z,bsv-chaintracks-cloudflare,0.4.3,0,0,https://github.com/Calhooon/chaintracks-cloudflare,"A BSV block-header service on Cloudflare Workers: D1 header storage, R2 bulk export, a chain-event feed."
+2026-10-18T14:36:05.015165Z,mhr-sum-tree,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"A sum tree, a concurrency-friendly B-tree, used by mhr-gpui, a fork of Zed's gpui"
+2026-10-18T14:37:32.960191Z,bcode_workflow_discovery,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Bounded workflow source and package discovery for bcode
+2026-10-18T14:39:56.82711Z,signalkit-integrity,0.1.0,0,0,https://github.com/WyattAu/signalkit,"Integrity signals for tracked subjects: fork-ratio verdicts, org-burst detection, velocity outliers"
+2026-10-18T14:40:19.460384Z,buffering-runtime,0.1.0,0,0,https://github.com/fishloa/rust-broadcast,"Sans-IO live-TS playout buffer controller: measures delivery jitter (RFC 5481 PDV), keeps a stall memory, and decides when a player should start, pause and resume and how deep its buffer must be. Int…"
+2026-10-18T14:46:04.995161Z,mhr-perf,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"Types shared by the #[perf] test attribute and its profiler, used by mhr-gpui, a fork of Zed's gpui"
+2026-10-18T14:47:33.238251Z,bcode_server,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Local bcode daemon runtime
+2026-10-18T14:50:45.90241Z,skillkit-core,0.1.0,0,0,https://github.com/WyattAu/skillkit,"Strict SKILL.md parsing and linting: typed manifest, unknown-field denial"
+2026-10-18T14:51:49.131822Z,compitum-cli,0.1.0,0,0,https://github.com/compitum-dev/compitum,"Command-line interface for COMPITUM, the ABI-aware ARM64 compatibility layer."
+2026-10-18T14:52:53.843811Z,ov7670-i2c,0.1.0,0,0,https://github.com/kriomant/ov7670-i2c,A no_std asynchronous driver for the OV7670 camera control registers
+2026-10-18T14:56:04.972679Z,mhr-util-macros,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"Utility macros of mhr-gpui, a fork of Zed's gpui"
+2026-10-18T14:57:33.329896Z,bcode_tui,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Terminal user interface for bcode
+2026-10-18T15:00:30.527195Z,skillkit-store,0.1.0,0,0,https://github.com/WyattAu/skillkit,Deterministic SKILLPACK archives in a cas-kit content-addressed store
+2026-10-18T15:00:52.365834Z,tenshu,0.0.1,0,0,https://github.com/lykoilabs/tenshu,"天守 Tenshu — a modern, zone-actor MMO server engine. Facade crate; see the repository for the roadmap."
+2026-10-18T15:02:00.666191Z,claviron-auth,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,Schema-independent authentication contracts for Claviron
+2026-10-18T15:02:01.973Z,claviron-helpers,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,Shared configuration adapters and encoding conventions for Claviron
+2026-10-18T15:02:03.103617Z,claviron-macros,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,Task registration and configuration override procedural macros for Claviron
+2026-10-18T15:02:04.058729Z,claviron-resolver,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,Shared DNS resolution contracts and an optional Hickory driver for Claviron
+2026-10-18T15:02:05.088527Z,claviron-sys,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,"Native socket, process identity, and OS primitives for Claviron"
+2026-10-18T15:04:31.801832Z,rapid-structure-rs,1.0.0,0,0,https://github.com/jinghu-moon/rapid-structure-rs,"Rust document-structure engine for PaddleOCR-family ONNX models: text detection/recognition (PP-OCRv6), table structure (SLANet-plus) and formula recognition (PP-FormulaNet) on Windows x64 via ONNX R…"
+2026-10-18T15:05:28.844338Z,xad-rs,1.0.0,0,0,https://github.com/sercanatalik/xad-rs,"Exact automatic differentiation for Rust — reverse-mode, first- and second-order, with a unified `Real` trait for mode-agnostic numerical code"
+2026-10-18T15:06:05.981388Z,mhr-gpui,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"A GPU-accelerated UI framework for Rust, a fork of Zed's gpui"
+2026-10-18T15:07:33.701016Z,bcode_cli,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Command-line interface for bcode
+2026-10-18T15:08:37.177543Z,ssot-rs,0.1.0,0,0,https://codeberg.org/lumenpink/ssot-rs,"Motor soberano em Rust para Fonte Única de Dados (SSOT), projeções e filtros tabulares"
+2026-10-18T15:09:06.782846Z,claviron-runtime,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,"Claviron runtime state, service lifecycle, configuration, and process-local events"
+2026-10-18T15:10:20.52771Z,auricle-dsp,0.1.0,0,0,https://github.com/himanshu007-creator/auricle,"Audio DSP for the Auricle listener: polyphase resampler, ring buffer and frame chunker with no allocation in the hot path"
+2026-10-18T15:10:24.184508Z,auricle-text,0.1.0,0,0,https://github.com/himanshu007-creator/auricle,"Deletion-only transcript cleanup for spoken text: fillers, repeats and stutters removed with a subsequence verifier, plus floor-holding cues"
+2026-10-18T15:10:25.059204Z,skillkit,0.1.0,0,0,https://github.com/WyattAu/skillkit,"CLI for the agent-skill economy: lint, package, verify, audit SKILL.md skills"
+2026-10-18T15:10:27.963066Z,auricle-turn,0.1.0,0,0,https://github.com/himanshu007-creator/auricle,"Turn taking for voice agents: graded speech events (candidate, confirmed, end, misfire) and the barge-in arbiter (duck, unduck, interrupt)"
+2026-10-18T15:10:33.817461Z,auricle-vad,0.1.0,0,0,https://github.com/himanshu007-creator/auricle,"Voice activity detection as a hand-written Rust forward pass, no inference runtime: Auricle v1 (foreground-selective, 83k parameters) and, behind a feature, Silero VAD v6"
+2026-10-18T15:11:37.952775Z,unfurl-rs,0.1.0,0,0,https://codeberg.org/lumenpink/unfurl-rs,Motor soberano em Rust para extração de metadados OpenGraph com blindagem SSRF e cartões visuais
+2026-10-18T15:11:50.670976Z,glirulus-core,1.0.0-glirulus.1,0,0,https://github.com/superions/glirulus,Core types and traits for the Glirulus durable workflow engine
+2026-10-18T15:12:08.797376Z,glirulus-persistence,1.0.0-glirulus.1,0,0,https://github.com/superions/glirulus,Pluggable persistence backends for Glirulus workflow snapshots
+2026-10-18T15:12:18.378924Z,glirulus-macros,1.0.0-glirulus.1,0,0,https://github.com/superions/glirulus,Procedural macros for the Glirulus durable workflow engine
+2026-10-18T15:12:38.162962Z,glirulus-runtime,1.0.0-glirulus.1,0,0,https://github.com/superions/glirulus,"Execution runtime, checkpointing runner and distributed workers for Glirulus workflows"
+2026-10-18T15:12:38.620079Z,zakura-filters,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-10-18T15:12:55.56113Z,glirulus-postgres,1.0.0-glirulus.1,0,0,https://github.com/superions/glirulus,PostgreSQL persistence backend for the Glirulus workflow engine
+2026-10-18T15:16:05.203372Z,mhr-gpui-apple,0.1.0,0,0,https://github.com/mesa-hills-research/gpui,"Metal rendering and task dispatch shared by the Apple platforms of mhr-gpui, a fork of Zed's gpui"
+2026-10-18T15:17:34.487057Z,bcode,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Bcode SDK facade and product binary
+2026-10-18T15:18:02.609877Z,claviron-db,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,Typed database configuration and reloadable SQLx pools for Claviron
