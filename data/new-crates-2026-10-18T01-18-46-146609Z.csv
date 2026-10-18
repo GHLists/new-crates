@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T00:27:33.64066Z,metrale-gpu-runtime,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"Metrale Engine: GpuBackend (CUDA/Metal), streams, buffers, op cache, pinned hosts, kernel registry, cuBLASLt/CUTLASS/FlashInfer bridges."
+2026-10-18T00:27:49.566825Z,bcode_code_review_models,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Shared code review models for bcode
+2026-10-18T00:28:08.971857Z,bupha-dagger,0.1.0,0,0,https://github.com/9aia/bupha,Runner impl: `dagger call <fn>` per job
+2026-10-18T00:29:45.803863Z,oatschema,0.0.1,0,0,https://github.com/oatschema/oatschema-rs,"OATS (Open Annotation Task Schemas) JSON schemas, bundled for Rust."
+2026-10-18T00:34:05.614526Z,dodo-bindgen-rust-ir,1.0.2,0,0,https://github.com/kzha0/deno-bindgen2/,Common library used by the deno-bindgen2 project. Contains mainly implmenentations for parsing and transforming Rust source code.
+2026-10-18T00:34:08.190936Z,dodo-bindgen-codegen,1.0.2,0,0,https://github.com/kzha0/deno-bindgen2/,TypeScript codegen for dodo_bindgen
+2026-10-18T00:34:08.771968Z,dodo-bindgen-macros,1.0.2,0,0,https://github.com/kzha0/deno-bindgen2/,Macros for the `dodo_bindgen` crate
+2026-10-18T00:34:11.119745Z,dodo-bindgen-cli,1.0.2,0,0,https://github.com/kzha0/deno-bindgen2/,A CLI tool for parsing rust source code and generating a close TypeScript equivalent. works with the `dodo_bindgen` crate
+2026-10-18T00:34:11.384848Z,dodo-bindgen-utils,1.0.2,0,0,https://github.com/kzha0/deno-bindgen2/,Contains utilities for interacting with rust data structures through FFI. Conditionally-compiled and embedded into the final shared library by the CLI tool
+2026-10-18T00:36:09.763454Z,caseyard,0.1.0,0,0,https://github.com/totto2727-org/e2e,Small async Docker-backed CLI end-to-end test library
+2026-10-18T00:37:33.147695Z,bcode_markdown_render,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Markdown to terminal line rendering for Bcode
+2026-10-18T00:37:35.717287Z,metrale-model-weights,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"Metrale Engine: weight store and loaders (safetensors, fast weights, RDMA weight/LoRA tiers, preflight)."
+2026-10-18T00:38:12.272198Z,bupha,0.1.0,0,0,https://github.com/9aia/bupha,bupha — the oxpecker on your repo's back: headless CI CLI
+2026-10-18T00:40:30.82896Z,nvmrc,0.0.1,0,0,https://github.com/elioseverojunior/nvmrc,"A native Rust port of nvm, the Node Version Manager"
+2026-10-18T00:40:57.521589Z,chymeral-rust-sdk,1.0.0,0,0,https://github.com/Chymeral/chymeral-rust-sdk,Rust client SDK for the Chymeral Link Protocol
+2026-10-18T00:41:27.079348Z,goway-circle,0.2.0,0,0,https://github.com/lognd/goway,"Signed roster operations, deterministic fold and certificate rules for goway circles."
+2026-10-18T00:42:41.537485Z,dodo-bindgen,1.0.2,0,0,https://github.com/kzha0/deno-bindgen2/,An FFI bindings generator for Deno
+2026-10-18T00:47:31.481251Z,metrale-sampling,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,Metrale Engine: the sampler.
+2026-10-18T00:47:33.058752Z,bcode_syntax_render,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Syntax-highlighted terminal line rendering for Bcode
+2026-10-18T00:52:17.255808Z,cargo-shadcn-iced,0.1.0,0,0,https://github.com/r4ai/shadcn-iced,"Copy shadcn_iced components into your project, shadcn/ui style"
+2026-10-18T00:57:33.057314Z,metrale-cache,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"Metrale Engine: KV cache, KV dequant, KV spill, radix-tree prefix cache."
+2026-10-18T00:57:33.610369Z,bcode_code_review_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,local code review plugin for bcode
+2026-10-18T00:58:15.512592Z,subsurfix,0.0.1,0,0,https://github.com/GeoLarryLai/subsurfix,High-performance subsurface stratigraphic analytics and well-log workflows in Rust
+2026-10-18T01:02:03.209104Z,kartta-languages,0.0.0,0,0,https://github.com/GaijinEntertainment/kartta,"Every language the kartta code graph ships, as one set to build with or a selection by name"
+2026-10-18T01:05:35.819306Z,linkrs-query,0.1.0,0,0,https://github.com/kkkqkx123/linkrs,"Query engine, parser, and executor for Linkrs"
+2026-10-18T01:07:32.555445Z,bcode_compressed_session_search_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Optional compressed deep-output session search provider for bcode
+2026-10-18T01:07:42.835029Z,metrale-model-layers,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"Metrale Engine: generic layers (attention, SSM, MoE, FFN, norm, MTP heads, vision, ops), LoRA, weight map, the draft-proposer contract."
+2026-10-18T01:17:32.791248Z,bcode_default_agents_plugin,0.0.1-alpha.0,0,0,https://github.com/BSteffaniak/bcode,Default agent profile policy plugin for bcode
+2026-10-18T01:17:33.977216Z,metrale-speculative,1.0.0-beta-preview,0,0,https://github.com/Metrale/metrale-inference,"Metrale Engine: speculative-decoding policy — MTP gate, adaptive and DFlash rungs, n-gram proposer, spec capacity and stats, scheduler snapshots."
+2026-10-18T01:18:39.951954Z,repame-view2d,0.3.26,0,0,https://github.com/mlm-games/repame,"2D viewport: sprite batch and raster sheets, camera/fit and picking, text, fullscreen post, and .ren vector actors"
