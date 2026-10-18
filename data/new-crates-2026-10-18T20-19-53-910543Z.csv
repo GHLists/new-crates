@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T19:18:56.244936Z,glassmere-syntax,0.1.0,0,0,https://github.com/glassmere/glassmere,"Syntax highlighting for glassmere's code editor, using syntect's bundled grammars and themes."
+2026-10-18T19:19:40.042789Z,sv39,0.1.0,0,0,https://github.com/juanperias/sv39-rs,An implementation of sv39 paging system for RISC-V
+2026-10-18T19:22:17.093593Z,tailfeather-gateway,0.1.0,0,0,https://github.com/no-std-rs/tailfeather,"Allocation-free no_std IPv4 routing, NAT, and peer API for Tailfeather gateways"
+2026-10-18T19:22:58.839748Z,greenter-rs-xcodes,0.1.0,0,0,https://github.com/alvarez25leo/lib-greenter-rust,Catálogo fijo de códigos de error de greenter/xcodes v5.3.0
+2026-10-18T19:24:51.674799Z,claviron-edge,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,"Protocol-independent HTTP host admission, routing, and application dispatch for Claviron"
+2026-10-18T19:25:51.450492Z,oxc-react-docgen-core,0.2.0,0,0,,Fast React prop extraction via OXC — core library
+2026-10-18T19:26:51.223028Z,clawft-wasm,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,WASM entrypoint for clawft (browser + wasip2)
+2026-10-18T19:27:06.335785Z,glassmere-testing,0.1.0,0,0,https://github.com/glassmere/glassmere,"Headless harness, semantic finders and text snapshots for glassmere UI tests."
+2026-10-18T19:28:59.875287Z,speedtestrs,0.1.0,0,0,https://github.com/laguser/speedtestrs,A minimalist terminal internet speed test in Rust with dynamic TUI graph visualizations in Caelestia style.
+2026-10-18T19:29:18.969169Z,solid-engine-core,1.0.1,0,0,https://github.com/nicolasva/solid-engine,Solid engine
+2026-10-18T19:29:20.997857Z,solid-engine-protocol,1.0.1,0,0,https://github.com/nicolasva/solid-engine,Solid engine
+2026-10-18T19:29:21.547338Z,solid-engine-storage,1.0.1,0,0,https://github.com/nicolasva/solid-engine,Solid engine
+2026-10-18T19:29:23.317832Z,solid-engine-server,1.0.1,0,0,https://github.com/nicolasva/solid-engine,Solid engine
+2026-10-18T19:31:52.097436Z,chron-db,0.1.0,0,0,https://github.com/wave-cl/chron,"Embeddable event-sourcing log: append-only segments + redb indexes, multi-aggregate atomic transactions, tags"
+2026-10-18T19:32:14.835743Z,chron-proto,0.1.0,0,0,https://github.com/wave-cl/chron,chron: the gRPC contract (chron.v1) and generated client and server code
+2026-10-18T19:32:24.827356Z,chron-client,0.1.0,0,0,https://github.com/wave-cl/chron,chron: a typed async client for chrond over gRPC
+2026-10-18T19:32:43.442765Z,chrond,0.1.0,0,0,https://github.com/wave-cl/chron,chron: the gRPC daemon serving one database
+2026-10-18T19:32:56.78734Z,chron-cli,0.1.0,0,0,https://github.com/wave-cl/chron,chron: the command-line client and offline maintenance tool
+2026-10-18T19:33:07.170282Z,greenter-rs-xml-parser,0.1.0,0,0,https://github.com/alvarez25leo/lib-greenter-rust,"Lectura de comprobantes electrónicos SUNAT (UBL) a modelos de greenter-rs-core, equivalente a greenter/xml-parser v5.3.0, con perfil XML seguro"
+2026-10-18T19:34:52.048473Z,claviron-laravel,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,"Native Laravel adapters for Claviron authentication, broadcasting, configuration, and console execution"
+2026-10-18T19:37:03.201784Z,onlykey-agent,2.0.0,0,0,https://github.com/rustafariandev/onlykey-rs,Derive SSH keys and sign with an OnlyKey hardware token
+2026-10-18T19:37:35.497399Z,glassmere-render-cpu,0.1.0,0,0,https://github.com/glassmere/glassmere,"CPU renderer for glassmere scenes: screenshots, export, and a desktop fallback without a GPU."
+2026-10-18T19:38:26.110702Z,weftos-exo-core,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,K6 substrate primitives: BLAKE3 content addressing + Hybrid Logical Clock (ADR-043). In-tree stub of the exo-core contract (WEFT-619).
+2026-10-18T19:38:28.46447Z,weftos-exo-dag,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,K6 substrate DAG: in-memory DagStore + MMR + Sparse Merkle Tree (ADR-043 / WEFT-619). No postgres.
+2026-10-18T19:41:07.482114Z,surety,0.0.1,0,0,https://github.com/surety-lang/surety,"Surety: an agent-native language where models write implementations, humans write specs, and a checker is the referee. Placeholder release."
+2026-10-18T19:43:15.098396Z,greenter-rs-cpe-validator,0.1.0,0,0,https://github.com/alvarez25leo/lib-greenter-rust,"Validación de CPE SUNAT con hojas XSL (XSLT 1.0 con libxslt), equivalente a greenter/cpe-validator v5.3.0, con perfil seguro"
+2026-10-18T19:43:47.989986Z,hennery-host,0.1.2,0,0,https://github.com/marcinwadon/hennery,Host supervisor and managed adapter runtime for hennery
+2026-10-18T19:44:51.297389Z,claviron-runner,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,"Shared HTTP and Orbit ingress, routing, and launch support for Claviron application runners"
+2026-10-18T19:48:08.864835Z,glassmere-winit,0.1.0,0,0,https://github.com/glassmere/glassmere,"Event-driven desktop host for glassmere: logical coordinates, a wgpu surface, and native windows."
+2026-10-18T19:48:29.722991Z,ic-blob-storage-client,0.35.0,0,0,https://github.com/dragginzgame/ic-blob-storage,Bounded replicated IC Blob calls without service storage dependencies
+2026-10-18T19:49:32.221336Z,weftos-sensor-pipeline-wire,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,"LeWM sensor observation wire: mesh.sensor.v1.{encoded,consensus,control} CBOR + Ed25519 framing (WEFT-523)."
+2026-10-18T19:53:28.313133Z,greenter-rs-lite,0.1.0,0,0,https://github.com/alvarez25leo/lib-greenter-rust,Fachadas SOAP y GRE de greenter/lite v5.3.0
+2026-10-18T19:53:42.008397Z,tafqit,0.1.0,0,0,https://github.com/AbdeldjalilChougui/tafqit,"Amounts in words (tafqit / تفقيط) in Arabic and French, with dinar/centime currency forms for invoices and cheques"
+2026-10-18T19:53:59.677621Z,geo-algos,0.1.0,0,0,https://github.com/AbdeldjalilChougui/geo-algos,"From-scratch implementations of classic geospatial algorithms (point-in-polygon, Haversine/Vincenty, Douglas-Peucker, R-tree) for learning."
+2026-10-18T19:54:00.720341Z,arabic-normalize,0.1.0,0,0,https://github.com/AbdeldjalilChougui/arabic-normalize,"Fast Arabic text normalization for search: diacritics, tatweel, letter variants, digits, Persian letters, light stemming"
+2026-10-18T19:54:05.513866Z,crdt-sync,0.1.0,0,0,https://github.com/AbdeldjalilChougui/crdt-sync,"Local-first sync engine: LWW register, OR-set, RGA text and map CRDTs, op log with vector clocks, binary encoding, sqlite storage, axum websocket server and CLI"
+2026-10-18T19:54:18.452754Z,tileserver,0.1.0,0,0,https://github.com/AbdeldjalilChougui/tileserver,"Small axum tile server for PMTiles and MBTiles archives: XYZ tiles, TileJSON, ETags and a MapLibre preview page"
+2026-10-18T19:54:51.929492Z,claviron-symfony,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,Symfony integration package boundary for Claviron's embedded PHP runtime
+2026-10-18T19:58:44.294941Z,socks6,0.1.0,0,0,https://github.com/ple1n/socks6,"Rust reference implementation of SOCKS6 protocol, NAT-aware SOCK5 analog that will work for UDP/TCP/Lokinet/Tor"
+2026-10-18T19:58:49.004544Z,glassmere,0.1.0,0,0,https://github.com/glassmere/glassmere,"Immediate-style GUI framework over a retained, incremental UI kernel, with widgets, layout, text, theming and accessibility."
+2026-10-18T20:00:36.495318Z,weftos-sensor-pipeline,0.8.3,0,0,https://github.com/weave-logic-ai/weftos,LeWM sensor pipeline: collect → aggregate → encode → signed wire frames (WEFT-523).
+2026-10-18T20:04:51.568331Z,claviron-bench,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,Opt-in native HTTP benchmark handlers and edge/runner registrations for Claviron
+2026-10-18T20:06:55.778301Z,glassmere-dev,0.1.0,0,0,https://github.com/glassmere/glassmere,"Development runner: rebuilds and restarts a glassmere app when its sources change, keeping its state."
+2026-10-18T20:14:51.158193Z,claviron-h3,0.2.0-alpha.17,0,0,https://github.com/claviron/claviron,"Native QUIC, HTTP/3, and WebTransport ingress for the Claviron edge"
+2026-10-18T20:17:35.815987Z,domite,0.1.0,0,0,https://github.com/nil-malh/domite,"A terminal UI for ns4kafka, built the sofka way"
