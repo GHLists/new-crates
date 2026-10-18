@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-18T21:20:22.294871Z,perata-sdk,0.1.1,0,0,https://github.com/perata-sh/sdk,"Peráta's SDK for Rust: products, customers, checkouts, payments, subscriptions and webhooks."
+2026-10-18T21:20:32.510042Z,clove-tui,0.1.5,0,0,https://github.com/egeapak/clove,clove: terminal UI for browsing and editing work items
+2026-10-18T21:22:47.438922Z,egui-pop-platform,0.1.1,0,0,https://github.com/quazardous/egui-pop,"Platform services for egui-pop applications, as opt-in plugins: a single instance with deep links, desktop notifications with actions, a tray icon with a declared menu, global shortcuts, logs and cra…"
+2026-10-18T21:30:54.585086Z,clove-engine,0.1.5,0,0,https://github.com/egeapak/clove,"clove read tier: the one daemon -> index -> files cascade behind the CLI, MCP, and web read surfaces"
+2026-10-18T21:33:00.986542Z,egui-pop-test,0.1.1,0,0,https://github.com/quazardous/egui-pop,"Test kit for egui-pop applications: themed egui_kittest harnesses, a check that every interactive node has a name, an accessibility tree dump, a double click that registers, keymap checks"
+2026-10-18T21:33:59.298638Z,quat_input,0.1.0,0,0,https://github.com/strahinjastojanovic826-code/quat_input,High-performance zero-copy quaternary stream library packing 2 bits per quat with FFI support.
+2026-10-18T21:34:19.877708Z,rekka_derives,0.0.1,0,0,https://github.com/dinoco-rs/rekka,Derive macros for rekka
+2026-10-18T21:34:27.486965Z,rekka,0.0.1,0,0,https://github.com/dinoco-rs/rekka,"Redis-backed job queues and typed cache, safe for horizontal scaling"
+2026-10-18T21:39:44.597346Z,prow,0.1.0,0,0,https://github.com/tcdent/prow,"Profiling rows: structured, timestamped measurements from a program and its devices, stored per site per run and queried with SQL."
+2026-10-18T21:41:37.24271Z,clove-mcp,0.1.5,0,0,https://github.com/egeapak/clove,clove MCP (Model Context Protocol) server: exposes clove to AI agents over stdio (M4)
+2026-10-18T21:42:11.009516Z,necoherence-tools,0.2.1,0,0,https://github.com/barineco/necoherence,"Search, derivation and code generation tools for necoherence"
+2026-10-18T21:43:21.17504Z,egui-pop-views,0.1.1,0,0,https://github.com/quazardous/egui-pop,"Data views for egui-pop: a live tree over a lazy, asynchronous source, a list and a data table, and a photo library (thumbnail grid, culling, comparison), virtualised, keyboard-driven, every moment a…"
+2026-10-18T21:52:04.423978Z,clove-web,0.1.5,0,0,https://github.com/egeapak/clove,clove web UI: HTTP/WebSocket server and embedded SPA (M4)
+2026-10-18T22:01:15.270331Z,uvunwrap,0.1.0,0,0,https://github.com/archonic/uvunwrap,"Pure-Rust automatic UV unwrapping: chart segmentation, LSCM parameterization and atlas packing (lightmap UVs, baking)"
+2026-10-18T22:02:33.667419Z,cloved,0.1.5,0,0,https://github.com/egeapak/clove,"clove optional daemon: file-watch, incremental index, opt-in git sync"
+2026-10-18T22:09:19.500663Z,lacuna-core,0.1.0,0,0,,"Diagnosis without repair: typed stops, flip and property ledgers, and trust-carrying certificates over a concolic report"
+2026-10-18T22:11:43.133766Z,kembec-sunat-model,1.0.0-rc.4,0,0,https://github.com/Kembec/facturacion-electronica-sunat-sdk,"Input model of the SUNAT (Peru) e-invoicing SDK: invoices, receipts, credit and debit notes, daily summaries, void communications and despatch advices read from JSON and checked against SUNAT rules"
+2026-10-18T22:11:43.754594Z,kembec-sunat-transport,1.0.0-rc.4,0,0,https://github.com/Kembec/facturacion-electronica-sunat-sdk,"Sans-IO SOAP envelopes, ZIP packaging and CDR parsing for the SUNAT (Peru) e-invoicing web services"
+2026-10-18T22:11:43.99945Z,kembec-sunat-xmldsig,1.0.0-rc.4,0,0,https://github.com/Kembec/facturacion-electronica-sunat-sdk,"Enveloped XML-DSig (RSA-SHA1, inclusive C14N 1.0) for SUNAT (Peru) electronic documents, deterministic and sans-IO"
+2026-10-18T22:11:45.341298Z,kembec-sunat-sdk,1.0.0-rc.4,0,0,https://github.com/Kembec/facturacion-electronica-sunat-sdk,"SUNAT (Peru) e-invoicing calls without I/O: SOAP and REST requests to send, query and validate, their answers read and classified"
+2026-10-18T22:11:45.864301Z,kembec-sunat-ubl,1.0.0-rc.4,0,0,https://github.com/Kembec/facturacion-electronica-sunat-sdk,"UBL 2.1 and 2.0 XML for SUNAT (Peru) electronic invoicing, in canonical form and byte-identical to the SDK compatibility vectors"
+2026-10-18T22:13:01.213135Z,clove-sync-github,0.1.5,0,0,https://github.com/egeapak/clove,clove plugin: two-way GitHub Issues sync (clove sync github)
+2026-10-18T22:15:12.082819Z,contact-relationship-management-migration,0.1.0,0,0,https://github.com/contact-relationship-management/contact-relationship-management-service-with-rust,Database migrations for the contact relationship management service
+2026-10-18T22:15:15.267506Z,contact-relationship-management,0.1.0,0,0,https://github.com/contact-relationship-management/contact-relationship-management-service-with-rust,"Contact Relationship Management (CRM): service for APIs, inbound contacts, outbound contacts, conversation automation, engagement analytics"
