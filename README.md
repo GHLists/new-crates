@@ -8,46 +8,69 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 22:22 UTC
+## Latest list — 2026-10-19 23:20 UTC
 
-New crates published between 2026-10-19 21:18 UTC and 2026-10-19 22:22 UTC.
+New crates published between 2026-10-19 22:22 UTC and 2026-10-19 23:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-19T22-22-30-238272Z.csv)
+[Full CSV](data/new-crates-2026-10-19T23-20-01-344288Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-19 21:22:01 | [ztd](https://crates.io/crates/ztd) | 0.0.1 | 0 | Zukunter Standard Library |
-| 2026-10-19 21:23:39 | [alpha2-gpu](https://crates.io/crates/alpha2-gpu) | 0.0.0 | 0 | GPU context and capability boundary for alpha2. Placeholder; the first release… |
-| 2026-10-19 21:24:02 | [cms-dbs](https://crates.io/crates/cms-dbs) | 0.1.0 | 0 | CMS's dataset catalog DBS: dataset search, files, summaries and lineage, read d… |
-| 2026-10-19 21:26:32 | [superdoc-sdk](https://crates.io/crates/superdoc-sdk) | 0.1.0-next.beta.1 | 0 | Typed Rust client for the SuperDoc document runtime |
-| 2026-10-19 21:32:32 | [ansiopt](https://crates.io/crates/ansiopt) | 0.1.0 | 0 | Shrinks text containing ANSI escape sequences without changing what a terminal… |
-| 2026-10-19 21:33:40 | [alpha2-host](https://crates.io/crates/alpha2-host) | 0.0.0 | 0 | Native project-rendering sidecar and batch CLI for alpha2. Placeholder; the fir… |
-| 2026-10-19 21:34:07 | [pspbuild](https://crates.io/crates/pspbuild) | 0.1.0 | 0 | PSP EBOOT toolkit: PRX encryption, MG and EG (NPDRM) EBOOT.PBP construction, in… |
-| 2026-10-19 21:36:25 | [bevy_sdl_gamepad](https://crates.io/crates/bevy_sdl_gamepad) | 0.1.0 | 0 | An SDL3 gamepad backend for Bevy: a drop-in alternative to bevy_gilrs, with gyr… |
-| 2026-10-19 21:38:50 | [aslnut-baker](https://crates.io/crates/aslnut-baker) | 0.1.3 | 0 | Road baker: designs streets from map lines (curves, cross-sections, junction pa… |
-| 2026-10-19 21:40:45 | [berm-libsqlite3-sys](https://crates.io/crates/berm-libsqlite3-sys) | 0.37.0 | 0 | Native bindings to the libsqlite3 library, with libSQL's rows-read and rows-wri… |
-| 2026-10-19 21:40:53 | [berm-rusqlite](https://crates.io/crates/berm-rusqlite) | 0.39.0 | 0 | Ergonomic wrapper for SQLite, with libSQL's rows-read and rows-written statemen… |
-| 2026-10-19 21:43:40 | [alpha2-media](https://crates.io/crates/alpha2-media) | 0.0.0 | 0 | Host-independent media vocabulary and I/O contracts for alpha2. Placeholder; th… |
-| 2026-10-19 21:47:58 | [ridm-auth](https://crates.io/crates/ridm-auth) | 0.4.1 | 0 | Validate rIDM (OpenID Connect) access tokens in a Rust API: JWKS cache, audienc… |
-| 2026-10-19 21:53:39 | [alpha2-model](https://crates.io/crates/alpha2-model) | 0.0.0 | 0 | Versioned project and timeline model for alpha2. Placeholder; the first release… |
-| 2026-10-19 21:55:37 | [spp-rusqlite-migration](https://crates.io/crates/spp-rusqlite-migration) | 2.6.0 | 0 | Temporary fork of rusqlite_migration depending on spp-rusqlite for stellar-priv… |
-| 2026-10-19 21:57:42 | [glassure-core](https://crates.io/crates/glassure-core) | 0.1.1 | 0 | Standalone Glassure total-scattering numerical engine |
-| 2026-10-19 21:57:56 | [glassure-cli](https://crates.io/crates/glassure-cli) | 0.1.0 | 0 | Standalone command-line X-ray total-scattering and PDF analysis with Glassure |
-| 2026-10-19 21:58:34 | [paperstack](https://crates.io/crates/paperstack) | 0.1.0 | 0 | A library of papers in the terminal: PDFs and their references, kept in a folde… |
-| 2026-10-19 21:59:43 | [opiro-core](https://crates.io/crates/opiro-core) | 0.1.0 | 0 | OPIRO-Core SDK: Pinned-memory zero-knowledge provenance, deterministic opiro1 I… |
-| 2026-10-19 22:00:04 | [opiro-text](https://crates.io/crates/opiro-text) | 0.1.0 | 0 | OPIRO-Text SDK: Internationalized NFKC + UAX #29 50/50 Excerpt Hasher and Pinne… |
-| 2026-10-19 22:00:20 | [opiro-media](https://crates.io/crates/opiro-media) | 0.1.0 | 0 | OPIRO-Media SDK: Graded Physical Assurance Levels (PAL 1-3), C2PA Privacy Wrapp… |
-| 2026-10-19 22:00:41 | [opiro-cli](https://crates.io/crates/opiro-cli) | 0.1.0 | 0 | Command-line utility and verifier for the OPIRO Framework (Open Provenance for… |
-| 2026-10-19 22:01:27 | [opiro-unified](https://crates.io/crates/opiro-unified) | 0.1.0 | 0 | OPIRO-Unified SDK (libopiro-unified): Cross-modal semantic isolation, zkTLS ing… |
-| 2026-10-19 22:01:58 | [bluecurve-search-sdk-macros](https://crates.io/crates/bluecurve-search-sdk-macros) | 0.1.0-4 | 0 | Plugin entrypoint procedural macros for the BlueCurve WebAssembly SDK |
-| 2026-10-19 22:02:00 | [bluecurve-search-sdk](https://crates.io/crates/bluecurve-search-sdk) | 0.1.0-4 | 0 | Guest SDK for BlueCurve WASM Search Plugins |
-| 2026-10-19 22:03:40 | [alpha2-native](https://crates.io/crates/alpha2-native) | 0.0.0 | 0 | Native headless and real-time host boundary for alpha2. Placeholder; the first… |
-| 2026-10-19 22:12:25 | [crucible-logging](https://crates.io/crates/crucible-logging) | 0.1.0-alpha | 0 | Logger for Crucible |
-| 2026-10-19 22:13:40 | [alpha2-native-gpu](https://crates.io/crates/alpha2-native-gpu) | 0.0.0 | 0 | Native decoded-surface import and GPU synchronization boundary for alpha2. Plac… |
-| 2026-10-19 22:14:09 | [duckbridge](https://crates.io/crates/duckbridge) | 0.1.0 | 0 | DuckBridge: move databases between DuckDB and SQL Server / PostgreSQL / Parquet… |
-| 2026-10-19 22:17:02 | [wgpu_prism](https://crates.io/crates/wgpu_prism) | 6.0.0 | 0 | A WGPU renderer for Prism drawing instructions. |
-| 2026-10-19 22:17:37 | [pubby-sdk](https://crates.io/crates/pubby-sdk) | 0.3.13 | 0 | A general-purpose library to add ActivityPub federation support to your web app… |
-| 2026-10-19 22:17:43 | [ramose](https://crates.io/crates/ramose) | 0.0.1 | 0 | Name reserved for the ramose authoring language and CLI (formerly artscript). N… |
+| 2026-10-19 22:23:40 | [alpha2-os](https://crates.io/crates/alpha2-os) | 0.0.0 | 0 | Small audited unsafe boundary for the operating-system calls the native host ma… |
+| 2026-10-19 22:32:28 | [fieldextension](https://crates.io/crates/fieldextension) | 0.0.1 | 0 | This crate name is reserved by Field Extension. See https://fieldextension.org… |
+| 2026-10-19 22:32:38 | [field-extension](https://crates.io/crates/field-extension) | 0.0.1 | 0 | This crate name is reserved by Field Extension. See https://fieldextension.org… |
+| 2026-10-19 22:32:40 | [ru_wx](https://crates.io/crates/ru_wx) | 0.7.2 | 0 | Cross-platform GUI library with native API calls per platform (Win32, AppKit, G… |
+| 2026-10-19 22:32:47 | [fieldext](https://crates.io/crates/fieldext) | 0.0.1 | 0 | This crate name is reserved by Field Extension. See https://fieldextension.org… |
+| 2026-10-19 22:32:57 | [fei](https://crates.io/crates/fei) | 0.0.1 | 0 | This crate name is reserved by Field Extension. See https://fieldextension.org… |
+| 2026-10-19 22:33:40 | [alpha2-render](https://crates.io/crates/alpha2-render) | 0.0.0 | 0 | Render graph and effect registry for alpha2. Placeholder; the first release is… |
+| 2026-10-19 22:37:11 | [mailtray](https://crates.io/crates/mailtray) | 0.1.1 | 0 | Tray icon to monitor your mails. |
+| 2026-10-19 22:37:12 | [tenbri-anchor](https://crates.io/crates/tenbri-anchor) | 0.1.0-alpha.1 | 0 | Tenbri checkpoint anchoring: RFC 3161 timestamp tokens and Sigstore Rekor. |
+| 2026-10-19 22:37:12 | [tenbri-core](https://crates.io/crates/tenbri-core) | 0.1.0-alpha.1 | 0 | Tenbri entry types, canonical JSON, hashing, signing and validation. No I/O. |
+| 2026-10-19 22:37:12 | [tenbri-crypt](https://crates.io/crates/tenbri-crypt) | 0.1.0-alpha.1 | 0 | Tenbri blob encryption, per-subject data and digest keys, and erasure. |
+| 2026-10-19 22:37:13 | [tenbri-export](https://crates.io/crates/tenbri-export) | 0.1.0-alpha.1 | 0 | Tenbri exports to OpenLineage and W3C PROV-JSON. |
+| 2026-10-19 22:37:13 | [tenbri-index](https://crates.io/crates/tenbri-index) | 0.1.0-alpha.1 | 0 | Tenbri derived index (SQLite, Parquet, Iceberg): rebuild, query, as-of. |
+| 2026-10-19 22:43:01 | [wenmar-open-db](https://crates.io/crates/wenmar-open-db) | 0.2.0 | 0 | Reads a Wenmar Open data file through the rusqlite crate: VIN decoding and the… |
+| 2026-10-19 22:43:40 | [alpha2-shaders](https://crates.io/crates/alpha2-shaders) | 0.0.0 | 0 | WGSL and WESL shader assets for alpha2. Placeholder; the first release is 0.1.0. |
+| 2026-10-19 22:45:09 | [tenbri-keys](https://crates.io/crates/tenbri-keys) | 0.1.0-alpha.1 | 0 | Tenbri stream keys, session-key certificates, rotation and revocation. |
+| 2026-10-19 22:49:34 | [paperpaw-sdk](https://crates.io/crates/paperpaw-sdk) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-sdk |
+| 2026-10-19 22:49:36 | [paperpaw-platform](https://crates.io/crates/paperpaw-platform) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-platform |
+| 2026-10-19 22:49:40 | [paperpaw-native](https://crates.io/crates/paperpaw-native) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
+| 2026-10-19 22:49:44 | [paperpaw-x4](https://crates.io/crates/paperpaw-x4) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-x4 |
+| 2026-10-19 22:49:47 | [paperpaw-xteink](https://crates.io/crates/paperpaw-xteink) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
+| 2026-10-19 22:50:52 | [paperpaw-update](https://crates.io/crates/paperpaw-update) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
+| 2026-10-19 22:53:40 | [alpha2-text](https://crates.io/crates/alpha2-text) | 0.0.0 | 0 | Portable text shaping and rasterization for alpha2 hosts, native and wasm. Plac… |
+| 2026-10-19 22:54:35 | [keepcrafting-companion-plugin-electric-fence](https://crates.io/crates/keepcrafting-companion-plugin-electric-fence) | 0.1.3 | 0 | Three or four configurable electric-fence symbols and one highlighted safe gap,… |
+| 2026-10-19 22:58:57 | [rs-kvpairs2sqlite](https://crates.io/crates/rs-kvpairs2sqlite) | 0.1.0 | 0 | Convert JSON KV pairs from stdin to SQLite |
+| 2026-10-19 22:59:31 | [tenbri-macros](https://crates.io/crates/tenbri-macros) | 0.1.0-alpha.1 | 0 | The #[tenbri::decision] attribute macro. |
+| 2026-10-19 23:01:13 | [paperpaw-sign](https://crates.io/crates/paperpaw-sign) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
+| 2026-10-19 23:02:03 | [jxl-gainmap](https://crates.io/crates/jxl-gainmap) | 0.8.0 | 0 | Gain-map bundle parsing helpers for the jxl decoder |
+| 2026-10-19 23:03:40 | [alpha2-time](https://crates.io/crates/alpha2-time) | 0.0.0 | 0 | Deterministic media time primitives for alpha2. Placeholder; the first release… |
+| 2026-10-19 23:05:19 | [oxui-core](https://crates.io/crates/oxui-core) | 0.2.0 | 0 | Renderer-independent core of the oxui immediate-mode UI toolkit: geometry, iden… |
+| 2026-10-19 23:05:22 | [oxui-wgpu](https://crates.io/crates/oxui-wgpu) | 0.2.0 | 0 | wgpu renderer for oxui scenes: SDF shapes, text, SVG masks, images, meshes and… |
+| 2026-10-19 23:05:25 | [oxui](https://crates.io/crates/oxui) | 0.2.0 | 0 | An immediate-mode GUI toolkit for Rust, native and on the web: Ui, Widget, Them… |
+| 2026-10-19 23:05:27 | [skillcask](https://crates.io/crates/skillcask) | 0.1.2 | 0 | A lockfile-first package manager for AI agent skills (SKILL.md), backed by Comp… |
+| 2026-10-19 23:05:28 | [oxui-bevy](https://crates.io/crates/oxui-bevy) | 0.2.0 | 0 | Bevy scenes inside oxui: a Bevy app on the host's wgpu device, shown by a Scene… |
+| 2026-10-19 23:05:29 | [oxui-dock](https://crates.io/crates/oxui-dock) | 0.2.0 | 0 | Docking for oxui: an app-owned tree of tab groups, splits and floating panels w… |
+| 2026-10-19 23:06:36 | [respan-gateway-core](https://crates.io/crates/respan-gateway-core) | 0.1.0 | 0 | The respan-gateway kernel. |
+| 2026-10-19 23:06:40 | [respan-gateway-conversation](https://crates.io/crates/respan-gateway-conversation) | 0.1.0 | 0 | The conversation kind: requests, reply events and assembly. |
+| 2026-10-19 23:06:42 | [respan-gateway-http-faults](https://crates.io/crates/respan-gateway-http-faults) | 0.1.0 | 0 | Faults in HTTP's terms: a fault's status and error code, whether it is retryabl… |
+| 2026-10-19 23:06:45 | [respan-gateway-sse](https://crates.io/crates/respan-gateway-sse) | 0.1.0 | 0 | Server-sent events as bytes: an incremental event splitter, and events and comm… |
+| 2026-10-19 23:06:48 | [respan-gateway-http](https://crates.io/crates/respan-gateway-http) | 0.1.0 | 0 | Native HTTP bindings and stream/sink helpers for protocol authors. |
+| 2026-10-19 23:09:42 | [tenbri-mcp](https://crates.io/crates/tenbri-mcp) | 0.1.0-alpha.1 | 0 | Read-only Tenbri MCP server over stdio. |
+| 2026-10-19 23:09:52 | [yorc](https://crates.io/crates/yorc) | 0.1.0 | 0 | Cultivate your research identity and networks: the ORCID message schema v3.0 fo… |
+| 2026-10-19 23:10:27 | [gwicke-markdown-stream](https://crates.io/crates/gwicke-markdown-stream) | 0.2.1 | 0 | Incremental, chunk-safe CommonMark/GFM parser emitting a flat event stream (pur… |
+| 2026-10-19 23:10:29 | [gwicke-markdown-html](https://crates.io/crates/gwicke-markdown-html) | 0.2.1 | 0 | Render a markdown-stream event stream to HTML (used to measure CommonMark/GFM c… |
+| 2026-10-19 23:10:29 | [gwicke-markdown-ratatui](https://crates.io/crates/gwicke-markdown-ratatui) | 0.2.1 | 0 | Render a markdown-stream event stream to ratatui Text (styled, width-aware, no… |
+| 2026-10-19 23:10:30 | [gwicke-markdown-terminal](https://crates.io/crates/gwicke-markdown-terminal) | 0.2.1 | 0 | Render a markdown-stream event stream to styled terminal output (ANSI), with a… |
+| 2026-10-19 23:10:30 | [gwicke-markdown](https://crates.io/crates/gwicke-markdown) | 0.2.1 | 0 | Streaming Markdown: an incremental CommonMark/GFM parser with terminal + HTML r… |
+| 2026-10-19 23:10:40 | [respan-gateway-conversation-http](https://crates.io/crates/respan-gateway-conversation-http) | 0.1.0 | 0 | The conversation kind over HTTP: OpenAI Chat Completions, OpenAI Responses, Ant… |
+| 2026-10-19 23:11:15 | [paperpaw-text](https://crates.io/crates/paperpaw-text) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-text |
+| 2026-10-19 23:11:40 | [ipir-native-client](https://crates.io/crates/ipir-native-client) | 0.1.0-rc.1 | 0 | Native PIR profiles, public material, query generation and response decoding |
+| 2026-10-19 23:13:31 | [oxui-plot](https://crates.io/crates/oxui-plot) | 0.2.0 | 0 | Interactive timestamped plots, heatmaps and streaming data for oxui, drawn thro… |
+| 2026-10-19 23:13:40 | [alpha2-wasm](https://crates.io/crates/alpha2-wasm) | 0.0.0 | 0 | Shared web preview and export wasm binding for alpha2. Placeholder; the first r… |
+| 2026-10-19 23:17:41 | [agent-setup](https://crates.io/crates/agent-setup) | 1.0.0 | 0 | The agent-setup spec: the response contract for agent-driven setup over MCP. Wh… |
+| 2026-10-19 23:18:14 | [twokey](https://crates.io/crates/twokey) | 0.1.1 | 0 | Guardrails for AI-authored code changes: block what agents may never touch, req… |
+| 2026-10-19 23:19:50 | [tenbri-merkle](https://crates.io/crates/tenbri-merkle) | 0.1.0-alpha.1 | 0 | RFC 6962 Merkle tree, inclusion and consistency proofs, C2SP checkpoints for Te… |
 
 ## Data source
 

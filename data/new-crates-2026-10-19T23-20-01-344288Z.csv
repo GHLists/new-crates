@@ -1,0 +1,56 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T22:23:40.534448Z,alpha2-os,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,"Small audited unsafe boundary for the operating-system calls the native host makes: advisory file locks, termination requests, and process memory. Placeholder; the first release is 0.1.0."
+2026-10-19T22:32:28.465427Z,fieldextension,0.0.1,0,0,https://github.com/fieldextension,This crate name is reserved by Field Extension. See https://fieldextension.org for active development.
+2026-10-19T22:32:38.378084Z,field-extension,0.0.1,0,0,https://github.com/fieldextension,This crate name is reserved by Field Extension. See https://fieldextension.org for active development.
+2026-10-19T22:32:40.470505Z,ru_wx,0.7.2,0,0,https://github.com/supermarco74/ru_wx,"Cross-platform GUI library with native API calls per platform (Win32, AppKit, GTK4). No intermediate bindings or C++ dependencies."
+2026-10-19T22:32:47.895729Z,fieldext,0.0.1,0,0,https://github.com/fieldextension,This crate name is reserved by Field Extension. See https://fieldextension.org for active development.
+2026-10-19T22:32:57.814766Z,fei,0.0.1,0,0,https://github.com/fieldextension,This crate name is reserved by Field Extension. See https://fieldextension.org for active development.
+2026-10-19T22:33:40.241308Z,alpha2-render,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,Render graph and effect registry for alpha2. Placeholder; the first release is 0.1.0.
+2026-10-19T22:37:11.999498Z,mailtray,0.1.1,0,0,https://forge.montegasppa.cc/devdacerto/mailtray,Tray icon to monitor your mails.
+2026-10-19T22:37:12.156383Z,tenbri-anchor,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,Tenbri checkpoint anchoring: RFC 3161 timestamp tokens and Sigstore Rekor.
+2026-10-19T22:37:12.399576Z,tenbri-core,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,"Tenbri entry types, canonical JSON, hashing, signing and validation. No I/O."
+2026-10-19T22:37:12.834718Z,tenbri-crypt,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,"Tenbri blob encryption, per-subject data and digest keys, and erasure."
+2026-10-19T22:37:13.144764Z,tenbri-export,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,Tenbri exports to OpenLineage and W3C PROV-JSON.
+2026-10-19T22:37:13.440847Z,tenbri-index,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,"Tenbri derived index (SQLite, Parquet, Iceberg): rebuild, query, as-of."
+2026-10-19T22:43:01.843519Z,wenmar-open-db,0.2.0,0,0,https://github.com/wenmar-pro/wenmar-open,"Reads a Wenmar Open data file through the rusqlite crate: VIN decoding and the vehicle catalog in-process, read-only, from async code."
+2026-10-19T22:43:40.468793Z,alpha2-shaders,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,WGSL and WESL shader assets for alpha2. Placeholder; the first release is 0.1.0.
+2026-10-19T22:45:09.469079Z,tenbri-keys,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,"Tenbri stream keys, session-key certificates, rotation and revocation."
+2026-10-19T22:49:34.247529Z,paperpaw-sdk,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-sdk"
+2026-10-19T22:49:36.892238Z,paperpaw-platform,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-platform"
+2026-10-19T22:49:40.544452Z,paperpaw-native,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-19T22:49:44.179788Z,paperpaw-x4,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-x4"
+2026-10-19T22:49:47.251161Z,paperpaw-xteink,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-19T22:50:52.222067Z,paperpaw-update,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-19T22:53:40.077387Z,alpha2-text,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,"Portable text shaping and rasterization for alpha2 hosts, native and wasm. Placeholder; the first release is 0.1.0."
+2026-10-19T22:54:35.259478Z,keepcrafting-companion-plugin-electric-fence,0.1.3,0,0,https://github.com/ObenStudios/keepcrafting-companion-plugins,"Three or four configurable electric-fence symbols and one highlighted safe gap, with no text."
+2026-10-19T22:58:57.696315Z,rs-kvpairs2sqlite,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-kvpairs2sqlite,Convert JSON KV pairs from stdin to SQLite
+2026-10-19T22:59:31.550638Z,tenbri-macros,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,The #[tenbri::decision] attribute macro.
+2026-10-19T23:01:13.253988Z,paperpaw-sign,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-19T23:02:03.515516Z,jxl-gainmap,0.8.0,0,0,https://github.com/libjxl/jxl-rs,Gain-map bundle parsing helpers for the jxl decoder
+2026-10-19T23:03:40.288364Z,alpha2-time,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,Deterministic media time primitives for alpha2. Placeholder; the first release is 0.1.0.
+2026-10-19T23:05:19.262232Z,oxui-core,0.2.0,0,0,https://github.com/vanmelsem/oxui,"Renderer-independent core of the oxui immediate-mode UI toolkit: geometry, identity, input, actions, interaction, layers, scenes, text and semantics."
+2026-10-19T23:05:22.251496Z,oxui-wgpu,0.2.0,0,0,https://github.com/vanmelsem/oxui,"wgpu renderer for oxui scenes: SDF shapes, text, SVG masks, images, meshes and custom paint, blended in sRGB space."
+2026-10-19T23:05:25.178349Z,oxui,0.2.0,0,0,https://github.com/vanmelsem/oxui,"An immediate-mode GUI toolkit for Rust, native and on the web: Ui, Widget, Theme, the controls, a test harness and the hosts."
+2026-10-19T23:05:27.444845Z,skillcask,0.1.2,0,0,https://github.com/puniserv/skillcask,"A lockfile-first package manager for AI agent skills (SKILL.md), backed by Composer repositories"
+2026-10-19T23:05:28.225086Z,oxui-bevy,0.2.0,0,0,https://github.com/vanmelsem/oxui,"Bevy scenes inside oxui: a Bevy app on the host's wgpu device, shown by a SceneView widget through an oxui-wgpu paint callback."
+2026-10-19T23:05:29.03397Z,oxui-dock,0.2.0,0,0,https://github.com/vanmelsem/oxui,"Docking for oxui: an app-owned tree of tab groups, splits and floating panels with validated, atomic operations and snapshots, and the Dock view that shows it."
+2026-10-19T23:06:36.797229Z,respan-gateway-core,0.1.0,0,0,https://github.com/respanai/respan-gateway,The respan-gateway kernel.
+2026-10-19T23:06:40.691275Z,respan-gateway-conversation,0.1.0,0,0,https://github.com/respanai/respan-gateway,"The conversation kind: requests, reply events and assembly."
+2026-10-19T23:06:42.858208Z,respan-gateway-http-faults,0.1.0,0,0,https://github.com/respanai/respan-gateway,"Faults in HTTP's terms: a fault's status and error code, whether it is retryable, and a provider's error answer as a fault."
+2026-10-19T23:06:45.010878Z,respan-gateway-sse,0.1.0,0,0,https://github.com/respanai/respan-gateway,"Server-sent events as bytes: an incremental event splitter, and events and comments written so no value can forge a field."
+2026-10-19T23:06:48.16476Z,respan-gateway-http,0.1.0,0,0,https://github.com/respanai/respan-gateway,Native HTTP bindings and stream/sink helpers for protocol authors.
+2026-10-19T23:09:42.419439Z,tenbri-mcp,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,Read-only Tenbri MCP server over stdio.
+2026-10-19T23:09:52.241158Z,yorc,0.1.0,0,0,https://github.com/mgbilby/yorc-rs,"Cultivate your research identity and networks: the ORCID message schema v3.0 for Rust (iDs, typed model, XML and JSON read/write, Public Data File streaming, blocking Public API reads)"
+2026-10-19T23:10:27.714851Z,gwicke-markdown-stream,0.2.1,0,0,https://github.com/gwicke/markdown,"Incremental, chunk-safe CommonMark/GFM parser emitting a flat event stream (pure std)"
+2026-10-19T23:10:29.498498Z,gwicke-markdown-html,0.2.1,0,0,https://github.com/gwicke/markdown,Render a markdown-stream event stream to HTML (used to measure CommonMark/GFM compliance)
+2026-10-19T23:10:29.803715Z,gwicke-markdown-ratatui,0.2.1,0,0,https://github.com/gwicke/markdown,"Render a markdown-stream event stream to ratatui Text (styled, width-aware, no ANSI round-trip)"
+2026-10-19T23:10:30.27203Z,gwicke-markdown-terminal,0.2.1,0,0,https://github.com/gwicke/markdown,"Render a markdown-stream event stream to styled terminal output (ANSI), with a live/streaming renderer"
+2026-10-19T23:10:30.896004Z,gwicke-markdown,0.2.1,0,0,https://github.com/gwicke/markdown,Streaming Markdown: an incremental CommonMark/GFM parser with terminal + HTML renderers
+2026-10-19T23:10:40.09675Z,respan-gateway-conversation-http,0.1.0,0,0,https://github.com/respanai/respan-gateway,"The conversation kind over HTTP: OpenAI Chat Completions, OpenAI Responses, Anthropic Messages and Gemini generateContent."
+2026-10-19T23:11:15.265397Z,paperpaw-text,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-text"
+2026-10-19T23:11:40.081606Z,ipir-native-client,0.1.0-rc.1,0,0,https://github.com/valargroup/ipir-sp,"Native PIR profiles, public material, query generation and response decoding"
+2026-10-19T23:13:31.017172Z,oxui-plot,0.2.0,0,0,https://github.com/vanmelsem/oxui,"Interactive timestamped plots, heatmaps and streaming data for oxui, drawn through an oxui-wgpu paint callback."
+2026-10-19T23:13:40.094217Z,alpha2-wasm,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,Shared web preview and export wasm binding for alpha2. Placeholder; the first release is 0.1.0.
+2026-10-19T23:17:41.593817Z,agent-setup,1.0.0,0,0,https://github.com/oxidt/agent-setup,"The agent-setup spec: the response contract for agent-driven setup over MCP. What a setup tool hands back (resource, env vars, install snippets, steps only a human can do) and what a verify tool repo…"
+2026-10-19T23:18:14.048201Z,twokey,0.1.1,0,0,https://github.com/Azazel-Labs/twokey,"Guardrails for AI-authored code changes: block what agents may never touch, require named human approval for the rest. Paths, tree-sitter symbols, markers, CI and agent hooks."
+2026-10-19T23:19:50.485918Z,tenbri-merkle,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,"RFC 6962 Merkle tree, inclusion and consistency proofs, C2SP checkpoints for Tenbri."
