@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T18:19:02.815437Z,manguebyte-host,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"Plugin hosting for the Manguebyte Audio Framework: load CLAP, VST 3 and LV2 plugins and run them as processors."
+2026-10-19T18:19:29.719625Z,oxframe-render,0.1.0,0,0,https://github.com/oxygenframe/oxframe-sdk,"Renderers for oxframe scenes: tiny-skia on the CPU, vello on the GPU"
+2026-10-19T18:20:05.874616Z,lcr-ffi,0.4.0,0,0,https://github.com/TheRincon/lcr-codes,"C ABI for LCR Code: decode, encode, multi-frame combining and CBOR File Transfer"
+2026-10-19T18:23:05.602877Z,deflect-fingerprint,0.1.0,0,0,https://github.com/copyleftdev/deflect-rs,Adaptive attack-fingerprint learning for deflect-rs via bounded heavy-hitter counting.
+2026-10-19T18:25:42.99145Z,medmodels-drm-macros,0.2.0,0,0,https://github.com/medmodels/medmodels-drm,Attribute macro that marks functions requiring a license entitlement
+2026-10-19T18:25:46.55122Z,medmodels-drm,0.2.0,0,0,https://github.com/medmodels/medmodels-drm,License entitlement marker that links the MedModels check at build time
+2026-10-19T18:28:45.632341Z,oxframe-export,0.1.0,0,0,https://github.com/oxygenframe/oxframe-sdk,"Video export for oxframe: frames piped into ffmpeg, PNG sequences, audio muxing"
+2026-10-19T18:29:38.365247Z,ohos-hiappevent-sys,0.1.0,0,0,https://github.com/openharmony-rs/ohos-sys,Raw bindings to the HiAppEvent (application event logging and fault monitoring) API of OpenHarmony
+2026-10-19T18:30:19.792922Z,manguebyte-lv2,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,Builds LV2 plugins from the Manguebyte plugin API.
+2026-10-19T18:31:56.354916Z,deflect-enforce,0.1.0,0,0,https://github.com/copyleftdev/deflect-rs,Enforcement backends for deflect-rs: program bans into nftables (XDP fast path planned).
+2026-10-19T18:38:03.420072Z,oxframe-preview,0.1.0,0,0,https://github.com/oxygenframe/oxframe-sdk,Preview protocol session for oxframe: native WebSocket server and in-browser (wasm) API
+2026-10-19T18:41:56.125523Z,deflect-bgp,0.1.0,0,0,https://github.com/copyleftdev/deflect-rs,"Upstream RTBH (remote-triggered blackhole) announcement for deflect-rs, driven over the ExaBGP text API."
+2026-10-19T18:43:05.584834Z,manguebyte-osc,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"Open Sound Control for the Manguebyte Audio Framework: messages, bundles, address patterns, UDP and TCP transport, and sample-accurate delivery to the audio thread."
+2026-10-19T18:44:10.01415Z,ratatui-slint,0.1.0,0,0,https://github.com/tilladam/ratatui-slint,Embed Slint components as pixel widgets inside ratatui applications
+2026-10-19T18:45:20.001978Z,manguebyte-standalone,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"Runs a Manguebyte plugin as a standalone application, on the sound card and MIDI ports."
+2026-10-19T18:47:28.338973Z,oxframe,0.1.0,0,0,https://github.com/oxygenframe/oxframe-sdk,"Procedural animation in Rust: scenes are coroutines, frames are await points"
+2026-10-19T18:48:38.816194Z,pscat,0.6.0,0,0,https://github.com/jeromebanks/postscript_interpreter,"A PostScript interpreter for watching programs draw, live"
+2026-10-19T18:49:16.783206Z,toml-file-refs,0.1.0,0,0,https://github.com/LuukBlankenstijn/toml-file-refs,"Load TOML config with serde, resolving `*_file` keys to the contents of the referenced files"
+2026-10-19T18:50:39.752678Z,ze-pod-core,0.1.0,0,0,https://github.com/xcrtp/zela,Pod 统一抽象：不透明状态机 + capability 协商 + 函数集合（零依赖 Pod 层核心 crate）
+2026-10-19T18:50:51.71296Z,ze-pod-macro,0.1.0,0,0,https://github.com/xcrtp/zela,ze-pod-core 的 proc-macro：#[capability]（生成持有 &dyn Pod 的 capability struct）
+2026-10-19T18:51:14.889652Z,ze-pod-binding,0.1.0,0,0,https://github.com/xcrtp/zela,语言无关的 Pod 绑定驱动：能力计划 / 调用编排 / JSON 文档
+2026-10-19T18:51:44.304996Z,ze-pod-lua,0.1.0,0,0,https://github.com/xcrtp/zela,纯 Lua 适配器（mlua）：能力注入 + 宿主→脚本入口
+2026-10-19T18:51:56.624564Z,deflect-telemetry,0.1.0,0,0,https://github.com/copyleftdev/deflect-rs,"Flow-telemetry ingestion for deflect-rs: NetFlow v5/v9, IPFIX, and sFlow v5 into unified flow records."
+2026-10-19T18:52:09.500992Z,ze-pod-py,0.1.0,0,0,https://github.com/xcrtp/zela,纯 Python 适配器（pyo3，feature 门控）：重解释器只承担装配期的活
+2026-10-19T18:52:17.418493Z,xlsynth-lean,0.75.0,0,0,https://github.com/xlsynth/xlsynth-crate,Export and evaluate XLSynth gate graphs in Lean
+2026-10-19T18:53:14.924476Z,preset-docs,0.1.1,0,0,https://github.com/preset-nz/packages,"Documentation pages for the preset.nz apps from what the apps declare: one markdown page per node, its controls generated between markers and the prose around them kept."
+2026-10-19T18:54:32.715156Z,rawlink,0.1.0,0,0,,RawLink: reliable encrypted transport with built-in SSH obfuscation
+2026-10-19T18:57:31.240101Z,manguebyte,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"The Manguebyte Audio Framework. Modern, real-time-safe audio for Rust: buffers, DSP, MIDI, audio files and device I/O in one place."
+2026-10-19T18:58:12.70732Z,aula-f87-control,0.5.3,0,0,https://github.com/RadianceADM/aula-f87-control-rs,"Backlight effects, per-key colors, music sync, sleep timer and battery level for AULA F87 / F87 Pro keyboards (GTK 4 / libadwaita app for Linux)"
+2026-10-19T18:59:07.228227Z,marcasite-mcp,0.1.3,0,0,https://github.com/harrydayexe/marcasite,MCP server that serves the marcasite SDK docs (unofficial Polymarket Rust SDK) to coding agents
+2026-10-19T18:59:22.835325Z,oxframe-cli,0.1.0,0,0,https://github.com/oxygenframe/oxframe-cli,"The `oxframe` command: create, preview with hot reload, render and check oxframe projects"
+2026-10-19T19:00:16.640014Z,muse-code-sdk,1.4.11,0,0,https://github.com/meta-models/muse-code-sdk,Async Rust client for Muse Code over MSP
+2026-10-19T19:00:53.593575Z,ze-pod,0.1.0,0,0,https://github.com/xcrtp/zela,zela Pod 统一入口：核心抽象 + 绑定驱动 + capability 宏（不含 lua / py，保持 wasm32）
+2026-10-19T19:01:24.631497Z,comindly,0.1.0,0,0,https://github.com/sayef/comindly,"Deterministic, always-fresh, cross-repo code intelligence for coding agents — self-hosted, single binary."
+2026-10-19T19:07:28.425681Z,vercel-core,0.1.0-alpha.1,0,0,https://github.com/vercel/vercel-rs,"Experimental alpha: shared HTTP, TLS, retry, credential and error plumbing for the Vercel Rust SDKs"
+2026-10-19T19:07:48.234865Z,vercel-blob,0.1.0-alpha.1,0,0,https://github.com/vercel/vercel-rs,"Experimental alpha Vercel Blob object storage SDK: async on tokio, portable static builds"
+2026-10-19T19:10:54.156145Z,ze-node-schema-macros,0.1.0,0,0,https://github.com/xcrtp/zela,Proc-macro support for ze-node-schema: #[derive(NodeSpec)] + #[property].
+2026-10-19T19:12:51.229216Z,jatszoter-agent,0.1.0,0,0,,Host daemon for jatszoter: leases deployments and runs them in QEMU VMs
+2026-10-19T19:13:11.057913Z,cargo-mangue,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"The command-line tool of the Manguebyte Audio Framework: create, bundle, install and validate audio plugins."
+2026-10-19T19:13:39.060629Z,hep-root,0.1.0,0,0,https://gitlab.cern.ch/dgrove/hep-crates,"A pure-Rust ROOT file reader: TFile, TTree, compressed baskets, and flat or jagged numeric columns, read locally or by byte range from anywhere"
+2026-10-19T19:20:54.488369Z,ze-node-core,0.1.0,0,0,https://github.com/xcrtp/zela,"Node editor core trait layer for zela (pure, no project dependencies)"

@@ -8,61 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 18:18 UTC
+## Latest list — 2026-10-19 19:21 UTC
 
-New crates published between 2026-10-19 17:18 UTC and 2026-10-19 18:18 UTC.
+New crates published between 2026-10-19 18:18 UTC and 2026-10-19 19:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-19T18-18-56-781155Z.csv)
+[Full CSV](data/new-crates-2026-10-19T19-21-12-833589Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-19 17:19:19 | [halalfetch](https://crates.io/crates/halalfetch) | 0.1.2 | 0 | A blazing-fast, feature-packed, Islamic-themed system information tool for your… |
-| 2026-10-19 17:19:36 | [manguebyte-ui](https://crates.io/crates/manguebyte-ui) | 0.1.0 | 0 | The Manguebyte user interface: a retained widget tree with layout, parameter ge… |
-| 2026-10-19 17:20:39 | [bevy_rsi](https://crates.io/crates/bevy_rsi) | 0.19.1 | 0 | Bevy plugin for loading Robust Station Image sprites |
-| 2026-10-19 17:22:43 | [styx9p](https://crates.io/crates/styx9p) | 0.1.0 | 0 | Async 9P2000 (Styx) server and client for tokio, faithful to Plan 9 and Inferno… |
-| 2026-10-19 17:22:47 | [lcr-core](https://crates.io/crates/lcr-core) | 0.4.0 | 0 | LCR Code core: geometry, palette, LDPC error correction, framing and masking |
-| 2026-10-19 17:22:50 | [lcr-cft](https://crates.io/crates/lcr-cft) | 0.4.0 | 0 | CFT, CBOR File Transfer: chunked, hash-verified file transfer over any carrier,… |
-| 2026-10-19 17:22:51 | [lcr-decode](https://crates.io/crates/lcr-decode) | 0.4.0 | 0 | LCR Code decoder: detection, sampling, illumination fit, soft demodulation |
-| 2026-10-19 17:22:52 | [lcr-render](https://crates.io/crates/lcr-render) | 0.4.0 | 0 | LCR Code renderers: RGB raster, PNG, compact SVG and one-page GDF |
-| 2026-10-19 17:22:55 | [lcr-verify](https://crates.io/crates/lcr-verify) | 0.4.0 | 0 | LCR Code signed packets: COSE_Sign1, CWT claims, and offline verification (§10) |
-| 2026-10-19 17:25:20 | [m-bus-manufacturer](https://crates.io/crates/m-bus-manufacturer) | 0.5.3 | 0 | Allocation-free framework for manufacturer-specific M-Bus decoders |
-| 2026-10-19 17:26:34 | [repo-search-core](https://crates.io/crates/repo-search-core) | 0.0.0 | 0 | Part of repo-search, repository-local semantic code search for coding agents |
-| 2026-10-19 17:26:38 | [repo-search-coreml](https://crates.io/crates/repo-search-coreml) | 0.0.0 | 0 | Part of repo-search, repository-local semantic code search for coding agents |
-| 2026-10-19 17:27:54 | [implant-hacks-r-us](https://crates.io/crates/implant-hacks-r-us) | 0.1.0 | 0 | Dual-tone auditory matrix and psychoacoustic DSP tools |
-| 2026-10-19 17:32:38 | [manguebyte-vst3](https://crates.io/crates/manguebyte-vst3) | 0.1.0 | 0 | Builds VST 3 plugins from the Manguebyte plugin API. |
-| 2026-10-19 17:38:07 | [lcr-encode](https://crates.io/crates/lcr-encode) | 0.4.0 | 0 | LCR Code encoder: framing, compression, ECC, masking, colourisation |
-| 2026-10-19 17:42:40 | [rustdock-vina](https://crates.io/crates/rustdock-vina) | 0.2.0 | 0 | A Rust implementation of AutoDock Vina molecular docking algorithm |
-| 2026-10-19 17:43:42 | [manguebyte-window](https://crates.io/crates/manguebyte-window) | 0.1.0 | 0 | Platform windows for the Manguebyte user interface: a child window seam, a head… |
-| 2026-10-19 17:46:14 | [dob-calc-core](https://crates.io/crates/dob-calc-core) | 0.1.0 | 0 | Duet Night Abyss build calculator core: builds attribute tables from game data,… |
-| 2026-10-19 17:46:48 | [llminate-core](https://crates.io/crates/llminate-core) | 0.1.0 | 0 | Core client library for llminate — talk to any OpenAI-compatible LLM server (vL… |
-| 2026-10-19 17:47:10 | [lcr-cli](https://crates.io/crates/lcr-cli) | 0.4.0 | 0 | The `lcr` command: encode, decode, probe and transfer files as LCR Code symbols |
-| 2026-10-19 17:47:38 | [llminate](https://crates.io/crates/llminate) | 0.1.0 | 0 | to LLMinate — probe and test any OpenAI-compatible LLM server (vLLM, SGLang) |
-| 2026-10-19 17:48:51 | [pilercr-rs](https://crates.io/crates/pilercr-rs) | 0.1.0 | 0 | Rust reimplementation of PILER-CR for CRISPR array detection, with text, JSON,… |
-| 2026-10-19 17:48:59 | [celox-sv-syntax](https://crates.io/crates/celox-sv-syntax) | 0.0.0 | 0 | Trusted Publishing bootstrap placeholder for the Celox simulator |
-| 2026-10-19 17:53:02 | [envwrap](https://crates.io/crates/envwrap) | 0.3.0 | 0 | Linux transparent proxy and declared container identity with native application… |
-| 2026-10-19 17:55:23 | [manguebyte-gui](https://crates.io/crates/manguebyte-gui) | 0.1.0 | 0 | The glue between Manguebyte's plugin wrappers and its user interface: an editor… |
-| 2026-10-19 17:56:11 | [manguebyte-sampler](https://crates.io/crates/manguebyte-sampler) | 0.1.0 | 0 | An SFZ sampler for the Manguebyte audio framework: parses SFZ instruments, load… |
-| 2026-10-19 17:57:34 | [deflect-core](https://crates.io/crates/deflect-core) | 0.1.0 | 0 | Core contract for deflect-rs: verdicts, source keys, observations, and clocks. |
-| 2026-10-19 17:57:40 | [deflect-packet](https://crates.io/crates/deflect-packet) | 0.1.0 | 0 | Bounds-checked Ethernet/IPv4/IPv6/TCP/UDP header parsing into a 5-tuple for def… |
-| 2026-10-19 17:57:55 | [deflect-ratelimit](https://crates.io/crates/deflect-ratelimit) | 0.1.0 | 0 | Exact integer token-bucket and per-source rate-limiting governors for deflect-r… |
-| 2026-10-19 17:57:57 | [deflect-detect](https://crates.io/crates/deflect-detect) | 0.1.0 | 0 | Traffic-rate monitoring and attack triggers with hysteresis for deflect-rs. |
-| 2026-10-19 17:57:59 | [deflect-syncookie](https://crates.io/crates/deflect-syncookie) | 0.1.0 | 0 | Stateless SYN-cookie issuance and validation for deflect-rs, keyed with SipHash… |
-| 2026-10-19 18:01:55 | [koetin](https://crates.io/crates/koetin) | 0.0.1 | 0 | Koetin: an open-source desktop app for API functional and performance testing (… |
-| 2026-10-19 18:01:56 | [deflect-signature](https://crates.io/crates/deflect-signature) | 0.1.0 | 0 | Protocol/port/flag/payload signature matching engine for deflect-rs. |
-| 2026-10-19 18:07:28 | [pgback](https://crates.io/crates/pgback) | 0.1.0 | 0 | Fleet orchestration for pgBackRest: Docker label discovery, config sync, schedu… |
-| 2026-10-19 18:07:35 | [manguebyte-web](https://crates.io/crates/manguebyte-web) | 0.1.0 | 0 | A Manguebyte engine for the browser: parts with a synth, drum kits, an SFZ samp… |
-| 2026-10-19 18:08:48 | [taraba](https://crates.io/crates/taraba) | 0.1.0 | 0 | Promise-first single-agent Rust/Wasm runtime |
-| 2026-10-19 18:08:56 | [taraba-allocator](https://crates.io/crates/taraba-allocator) | 0.1.0 | 0 | Small single-agent wasm32 allocator for JavaScript hosts |
-| 2026-10-19 18:09:18 | [taraba-helpers](https://crates.io/crates/taraba-helpers) | 0.1.0 | 0 | Opt-in JavaScript builtins for small Rust/Wasm applications |
-| 2026-10-19 18:09:27 | [quat_math](https://crates.io/crates/quat_math) | 0.3.0 | 0 | A high-performance quaternary math library packing 2 bits into a quat with FFI… |
-| 2026-10-19 18:09:40 | [taraba-cli](https://crates.io/crates/taraba-cli) | 0.1.0 | 0 | Build Rust/Wasm applications and matching JS glue for taraba |
-| 2026-10-19 18:11:56 | [deflect-reflect](https://crates.io/crates/deflect-reflect) | 0.1.0 | 0 | Stateful reflection/amplification defense for deflect-rs: unsolicited amplifier… |
-| 2026-10-19 18:13:21 | [cipawebfiltering](https://crates.io/crates/cipawebfiltering) | 1.0.0 | 0 | Rust client for the CIPA Web Filtering lookup API: web-filtering categories for… |
-| 2026-10-19 18:15:52 | [oxframe-macros](https://crates.io/crates/oxframe-macros) | 0.1.0 | 0 | Procedural macros for oxframe (#[scene], color!, ease!, tune!) |
-| 2026-10-19 18:15:52 | [oxframe-protocol](https://crates.io/crates/oxframe-protocol) | 0.1.0 | 0 | Wire protocol and meta.json schema shared by the oxframe engine, CLI and editor |
-| 2026-10-19 18:15:54 | [oxframe-text](https://crates.io/crates/oxframe-text) | 0.1.0 | 0 | Text layout and glyph outlines for oxframe (parley + skrifa, embedded fonts) |
-| 2026-10-19 18:15:57 | [oxframe-core](https://crates.io/crates/oxframe-core) | 0.1.0 | 0 | Signals, tweens and a deterministic single-threaded coroutine executor for oxfr… |
-| 2026-10-19 18:15:59 | [oxframe-2d](https://crates.io/crates/oxframe-2d) | 0.1.0 | 0 | 2D scene graph and nodes for oxframe |
+| 2026-10-19 18:19:02 | [manguebyte-host](https://crates.io/crates/manguebyte-host) | 0.1.0 | 0 | Plugin hosting for the Manguebyte Audio Framework: load CLAP, VST 3 and LV2 plu… |
+| 2026-10-19 18:19:29 | [oxframe-render](https://crates.io/crates/oxframe-render) | 0.1.0 | 0 | Renderers for oxframe scenes: tiny-skia on the CPU, vello on the GPU |
+| 2026-10-19 18:20:05 | [lcr-ffi](https://crates.io/crates/lcr-ffi) | 0.4.0 | 0 | C ABI for LCR Code: decode, encode, multi-frame combining and CBOR File Transfer |
+| 2026-10-19 18:23:05 | [deflect-fingerprint](https://crates.io/crates/deflect-fingerprint) | 0.1.0 | 0 | Adaptive attack-fingerprint learning for deflect-rs via bounded heavy-hitter co… |
+| 2026-10-19 18:25:42 | [medmodels-drm-macros](https://crates.io/crates/medmodels-drm-macros) | 0.2.0 | 0 | Attribute macro that marks functions requiring a license entitlement |
+| 2026-10-19 18:25:46 | [medmodels-drm](https://crates.io/crates/medmodels-drm) | 0.2.0 | 0 | License entitlement marker that links the MedModels check at build time |
+| 2026-10-19 18:28:45 | [oxframe-export](https://crates.io/crates/oxframe-export) | 0.1.0 | 0 | Video export for oxframe: frames piped into ffmpeg, PNG sequences, audio muxing |
+| 2026-10-19 18:29:38 | [ohos-hiappevent-sys](https://crates.io/crates/ohos-hiappevent-sys) | 0.1.0 | 0 | Raw bindings to the HiAppEvent (application event logging and fault monitoring)… |
+| 2026-10-19 18:30:19 | [manguebyte-lv2](https://crates.io/crates/manguebyte-lv2) | 0.1.0 | 0 | Builds LV2 plugins from the Manguebyte plugin API. |
+| 2026-10-19 18:31:56 | [deflect-enforce](https://crates.io/crates/deflect-enforce) | 0.1.0 | 0 | Enforcement backends for deflect-rs: program bans into nftables (XDP fast path… |
+| 2026-10-19 18:38:03 | [oxframe-preview](https://crates.io/crates/oxframe-preview) | 0.1.0 | 0 | Preview protocol session for oxframe: native WebSocket server and in-browser (w… |
+| 2026-10-19 18:41:56 | [deflect-bgp](https://crates.io/crates/deflect-bgp) | 0.1.0 | 0 | Upstream RTBH (remote-triggered blackhole) announcement for deflect-rs, driven… |
+| 2026-10-19 18:43:05 | [manguebyte-osc](https://crates.io/crates/manguebyte-osc) | 0.1.0 | 0 | Open Sound Control for the Manguebyte Audio Framework: messages, bundles, addre… |
+| 2026-10-19 18:44:10 | [ratatui-slint](https://crates.io/crates/ratatui-slint) | 0.1.0 | 0 | Embed Slint components as pixel widgets inside ratatui applications |
+| 2026-10-19 18:45:20 | [manguebyte-standalone](https://crates.io/crates/manguebyte-standalone) | 0.1.0 | 0 | Runs a Manguebyte plugin as a standalone application, on the sound card and MID… |
+| 2026-10-19 18:47:28 | [oxframe](https://crates.io/crates/oxframe) | 0.1.0 | 0 | Procedural animation in Rust: scenes are coroutines, frames are await points |
+| 2026-10-19 18:48:38 | [pscat](https://crates.io/crates/pscat) | 0.6.0 | 0 | A PostScript interpreter for watching programs draw, live |
+| 2026-10-19 18:49:16 | [toml-file-refs](https://crates.io/crates/toml-file-refs) | 0.1.0 | 0 | Load TOML config with serde, resolving `*_file` keys to the contents of the ref… |
+| 2026-10-19 18:50:39 | [ze-pod-core](https://crates.io/crates/ze-pod-core) | 0.1.0 | 0 | Pod 统一抽象：不透明状态机 + capability 协商 + 函数集合（零依赖 Pod 层核心 crate） |
+| 2026-10-19 18:50:51 | [ze-pod-macro](https://crates.io/crates/ze-pod-macro) | 0.1.0 | 0 | ze-pod-core 的 proc-macro：#[capability]（生成持有 &dyn Pod 的 capability struct） |
+| 2026-10-19 18:51:14 | [ze-pod-binding](https://crates.io/crates/ze-pod-binding) | 0.1.0 | 0 | 语言无关的 Pod 绑定驱动：能力计划 / 调用编排 / JSON 文档 |
+| 2026-10-19 18:51:44 | [ze-pod-lua](https://crates.io/crates/ze-pod-lua) | 0.1.0 | 0 | 纯 Lua 适配器（mlua）：能力注入 + 宿主→脚本入口 |
+| 2026-10-19 18:51:56 | [deflect-telemetry](https://crates.io/crates/deflect-telemetry) | 0.1.0 | 0 | Flow-telemetry ingestion for deflect-rs: NetFlow v5/v9, IPFIX, and sFlow v5 int… |
+| 2026-10-19 18:52:09 | [ze-pod-py](https://crates.io/crates/ze-pod-py) | 0.1.0 | 0 | 纯 Python 适配器（pyo3，feature 门控）：重解释器只承担装配期的活 |
+| 2026-10-19 18:52:17 | [xlsynth-lean](https://crates.io/crates/xlsynth-lean) | 0.75.0 | 0 | Export and evaluate XLSynth gate graphs in Lean |
+| 2026-10-19 18:53:14 | [preset-docs](https://crates.io/crates/preset-docs) | 0.1.1 | 0 | Documentation pages for the preset.nz apps from what the apps declare: one mark… |
+| 2026-10-19 18:54:32 | [rawlink](https://crates.io/crates/rawlink) | 0.1.0 | 0 | RawLink: reliable encrypted transport with built-in SSH obfuscation |
+| 2026-10-19 18:57:31 | [manguebyte](https://crates.io/crates/manguebyte) | 0.1.0 | 0 | The Manguebyte Audio Framework. Modern, real-time-safe audio for Rust: buffers,… |
+| 2026-10-19 18:58:12 | [aula-f87-control](https://crates.io/crates/aula-f87-control) | 0.5.3 | 0 | Backlight effects, per-key colors, music sync, sleep timer and battery level fo… |
+| 2026-10-19 18:59:07 | [marcasite-mcp](https://crates.io/crates/marcasite-mcp) | 0.1.3 | 0 | MCP server that serves the marcasite SDK docs (unofficial Polymarket Rust SDK)… |
+| 2026-10-19 18:59:22 | [oxframe-cli](https://crates.io/crates/oxframe-cli) | 0.1.0 | 0 | The `oxframe` command: create, preview with hot reload, render and check oxfram… |
+| 2026-10-19 19:00:16 | [muse-code-sdk](https://crates.io/crates/muse-code-sdk) | 1.4.11 | 0 | Async Rust client for Muse Code over MSP |
+| 2026-10-19 19:00:53 | [ze-pod](https://crates.io/crates/ze-pod) | 0.1.0 | 0 | zela Pod 统一入口：核心抽象 + 绑定驱动 + capability 宏（不含 lua / py，保持 wasm32） |
+| 2026-10-19 19:01:24 | [comindly](https://crates.io/crates/comindly) | 0.1.0 | 0 | Deterministic, always-fresh, cross-repo code intelligence for coding agents — s… |
+| 2026-10-19 19:07:28 | [vercel-core](https://crates.io/crates/vercel-core) | 0.1.0-alpha.1 | 0 | Experimental alpha: shared HTTP, TLS, retry, credential and error plumbing for… |
+| 2026-10-19 19:07:48 | [vercel-blob](https://crates.io/crates/vercel-blob) | 0.1.0-alpha.1 | 0 | Experimental alpha Vercel Blob object storage SDK: async on tokio, portable sta… |
+| 2026-10-19 19:10:54 | [ze-node-schema-macros](https://crates.io/crates/ze-node-schema-macros) | 0.1.0 | 0 | Proc-macro support for ze-node-schema: #[derive(NodeSpec)] + #[property]. |
+| 2026-10-19 19:12:51 | [jatszoter-agent](https://crates.io/crates/jatszoter-agent) | 0.1.0 | 0 | Host daemon for jatszoter: leases deployments and runs them in QEMU VMs |
+| 2026-10-19 19:13:11 | [cargo-mangue](https://crates.io/crates/cargo-mangue) | 0.1.0 | 0 | The command-line tool of the Manguebyte Audio Framework: create, bundle, instal… |
+| 2026-10-19 19:13:39 | [hep-root](https://crates.io/crates/hep-root) | 0.1.0 | 0 | A pure-Rust ROOT file reader: TFile, TTree, compressed baskets, and flat or jag… |
+| 2026-10-19 19:20:54 | [ze-node-core](https://crates.io/crates/ze-node-core) | 0.1.0 | 0 | Node editor core trait layer for zela (pure, no project dependencies) |
 
 ## Data source
 
