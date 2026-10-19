@@ -8,42 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 02:19 UTC
+## Latest list — 2026-10-19 03:21 UTC
 
-New crates published between 2026-10-19 01:19 UTC and 2026-10-19 02:19 UTC.
+New crates published between 2026-10-19 02:19 UTC and 2026-10-19 03:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-19T02-19-14-540443Z.csv)
+[Full CSV](data/new-crates-2026-10-19T03-21-05-905605Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-19 01:20:53 | [winoveride](https://crates.io/crates/winoveride) | 0.1.0 | 0 | A Windows keyboard hook library for handling selected keys and hotkeys |
-| 2026-10-19 01:27:12 | [claviron-acme](https://crates.io/crates/claviron-acme) | 0.2.0-alpha.18 | 0 | ACME certificate issuance and renewal for Claviron |
-| 2026-10-19 01:27:15 | [claviron-dns](https://crates.io/crates/claviron-dns) | 0.2.0-alpha.18 | 0 | Authoritative DNS and managed zone serving for Claviron |
-| 2026-10-19 01:27:17 | [claviron-domains](https://crates.io/crates/claviron-domains) | 0.2.0-alpha.18 | 0 | Registrar-held domains for a Claviron edge: store, delegation, registrar-hosted… |
-| 2026-10-19 01:27:24 | [claviron-grpc](https://crates.io/crates/claviron-grpc) | 0.2.0-alpha.18 | 0 | Typed mTLS-secured administration services for Claviron |
-| 2026-10-19 01:29:47 | [lumenize-cli](https://crates.io/crates/lumenize-cli) | 0.2.0-alpha.18 | 0 | Standalone Artisan console launcher using Lumenize |
-| 2026-10-19 01:34:51 | [claviron-tools](https://crates.io/crates/claviron-tools) | 0.2.0-alpha.18 | 0 | Shared utilities for Claviron operator and client tools |
-| 2026-10-19 01:38:00 | [sillstone-buffer](https://crates.io/crates/sillstone-buffer) | 0.2.0-beta.1 | 0 | Core contiguous memory and strided buffer primitives for Sillstone |
-| 2026-10-19 01:38:08 | [sillstone-math](https://crates.io/crates/sillstone-math) | 0.2.0-beta.1 | 0 | Pure-Rust FFT, DCT, linear algebra, median, and numeric transforms. |
-| 2026-10-19 01:38:15 | [sillstone-digest](https://crates.io/crates/sillstone-digest) | 0.2.0-beta.1 | 0 | Pure-Rust cryptographic and non-cryptographic hash algorithms (SHA-256, SHA-512… |
-| 2026-10-19 01:38:23 | [sillstone-unicode](https://crates.io/crates/sillstone-unicode) | 0.2.0-beta.1 | 0 | Pure-Rust Unicode NFC normalisation and table lookup. |
-| 2026-10-19 01:38:46 | [sillstone-flac](https://crates.io/crates/sillstone-flac) | 0.2.0-beta.1 | 0 | FLAC subset decoding: STREAMINFO, constant/verbatim/fixed subframes, both Rice… |
-| 2026-10-19 01:44:51 | [claviron-acme-cli](https://crates.io/crates/claviron-acme-cli) | 0.2.0-alpha.18 | 0 | Claviron ACME account and certificate CLI |
-| 2026-10-19 01:52:34 | [hereticus-callees](https://crates.io/crates/hereticus-callees) | 0.1.0 | 0 | Resolve function call targets |
-| 2026-10-19 01:52:36 | [hereticus-view](https://crates.io/crates/hereticus-view) | 0.1.0 | 0 | Human-readable output for binary comparison |
-| 2026-10-19 01:52:38 | [hereticus-match](https://crates.io/crates/hereticus-match) | 0.1.0 | 0 | Compare and match functions between binaries |
-| 2026-10-19 01:52:40 | [hereticus](https://crates.io/crates/hereticus) | 0.1.0 | 0 | Compare functions between two binaries, robust to compiler differences |
-| 2026-10-19 01:52:41 | [laden](https://crates.io/crates/laden) | 1.0.1 | 0 | Pressure, load, and memory signals for placing work on the least-loaded host |
-| 2026-10-19 01:52:42 | [hereticus-cli](https://crates.io/crates/hereticus-cli) | 0.1.0 | 0 | Command line tool to compare functions between two binaries |
-| 2026-10-19 01:54:51 | [claviron-cert](https://crates.io/crates/claviron-cert) | 0.2.0-alpha.18 | 0 | Claviron local certificate generation and inspection tool |
-| 2026-10-19 02:04:15 | [aws-shared-config](https://crates.io/crates/aws-shared-config) | 0.1.0 | 0 | Lossless parser and editor for ~/.aws/config and ~/.aws/credentials: edits keep… |
-| 2026-10-19 02:04:51 | [claviron-client](https://crates.io/crates/claviron-client) | 0.2.0-alpha.18 | 0 | Claviron gRPC control-plane client |
-| 2026-10-19 02:13:51 | [t4a-private-gemm-x86](https://crates.io/crates/t4a-private-gemm-x86) | 0.1.23 | 0 | x86-64 matmul impl (tensor4all fork of private-gemm-x86; adds the masked-store… |
-| 2026-10-19 02:14:51 | [claviron-hosting-cli](https://crates.io/crates/claviron-hosting-cli) | 0.2.0-alpha.18 | 0 | Claviron hosting DB and certificate management CLI |
-| 2026-10-19 02:15:38 | [protocol-droid-schema](https://crates.io/crates/protocol-droid-schema) | 0.3.0 | 0 | Per-revision Model Context Protocol wire types generated from the official sche… |
-| 2026-10-19 02:15:43 | [protocol-droid-macros](https://crates.io/crates/protocol-droid-macros) | 0.3.0 | 0 | Procedural macros for the protocol-droid Model Context Protocol toolkit. |
-| 2026-10-19 02:16:00 | [protocol-droid](https://crates.io/crates/protocol-droid) | 0.3.0 | 0 | A Model Context Protocol toolkit that speaks every published spec revision, wit… |
-| 2026-10-19 02:16:37 | [protocol-droid-cli](https://crates.io/crates/protocol-droid-cli) | 0.3.0 | 0 | Command-line Swiss-army knife for the protocol-droid Model Context Protocol too… |
+| 2026-10-19 02:20:10 | [crustly](https://crates.io/crates/crustly) | 0.5.3 | 0 | High-performance terminal AI assistant for software development |
+| 2026-10-19 02:22:59 | [tmuxy](https://crates.io/crates/tmuxy) | 0.0.10-alpha.78 | 0 | The missing tmux GUI — web and desktop interface for tmux |
+| 2026-10-19 02:23:30 | [knock-sdk](https://crates.io/crates/knock-sdk) | 0.1.0 | 0 | Speak Knock: sign in, poll, decrypt, reply. |
+| 2026-10-19 02:24:51 | [claviron-deno](https://crates.io/crates/claviron-deno) | 0.2.0-alpha.18 | 0 | Embeddable JavaScript and TypeScript runtime for Claviron, powered by Deno Core… |
+| 2026-10-19 02:29:08 | [mdbook-pele](https://crates.io/crates/mdbook-pele) | 0.1.0 | 0 | An mdbook preprocessor that renders Mermaid diagrams with Pele (https://pele.ru… |
+| 2026-10-19 02:31:41 | [wechatpay-v3](https://crates.io/crates/wechatpay-v3) | 0.4.0 | 0 | 微信支付 APIv3 的 Rust 客户端（wechat-pay-rust-sdk 的独立 fork，非腾讯官方） |
+| 2026-10-19 02:50:09 | [srvpro](https://crates.io/crates/srvpro) | 0.1.0 | 0 | A Rust rewrite of the srvpro YGOPro duel server. |
+| 2026-10-19 02:50:39 | [srvpro-api](https://crates.io/crates/srvpro-api) | 0.1.0 | 0 | HTTP API and persistence backend for the srvpro duel server. |
+| 2026-10-19 02:59:52 | [brokk-bifrost-tools](https://crates.io/crates/brokk-bifrost-tools) | 0.0.0 | 0 | Reserved name for an upcoming part of brokk-bifrost; the first real release fol… |
+| 2026-10-19 02:59:56 | [brokk-bifrost-semantic](https://crates.io/crates/brokk-bifrost-semantic) | 0.0.0 | 0 | Reserved name for an upcoming part of brokk-bifrost; the first real release fol… |
+| 2026-10-19 03:00:58 | [tauri-plugin-cef-webview](https://crates.io/crates/tauri-plugin-cef-webview) | 0.2.1 | 0 | Embed CEF child webviews in a Tauri frontend with a <webview> element |
+| 2026-10-19 03:02:37 | [brokk-bifrost-store](https://crates.io/crates/brokk-bifrost-store) | 0.0.0 | 0 | Reserved name for an upcoming part of brokk-bifrost; the first real release fol… |
+| 2026-10-19 03:02:40 | [brokk-bifrost-resolution](https://crates.io/crates/brokk-bifrost-resolution) | 0.0.0 | 0 | Reserved name for an upcoming part of brokk-bifrost; the first real release fol… |
+| 2026-10-19 03:02:43 | [brokk-bifrost-rust-analysis](https://crates.io/crates/brokk-bifrost-rust-analysis) | 0.0.0 | 0 | Reserved name for an upcoming part of brokk-bifrost; the first real release fol… |
+| 2026-10-19 03:04:08 | [hauberk](https://crates.io/crates/hauberk) | 0.1.0 | 0 | Rust implementation of the seisin standard. |
+| 2026-10-19 03:08:53 | [macaddr-ouidb-support](https://crates.io/crates/macaddr-ouidb-support) | 0.1.18 | 0 | Parsing and build-support library for macaddr-ouidb |
+| 2026-10-19 03:12:47 | [brokk-bifrost-python-analysis](https://crates.io/crates/brokk-bifrost-python-analysis) | 0.0.0 | 0 | Reserved name for an upcoming part of brokk-bifrost; the first real release fol… |
 
 ## Data source
 

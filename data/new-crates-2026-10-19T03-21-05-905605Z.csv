@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T02:20:10.844471Z,crustly,0.5.3,0,0,https://github.com/jyjeanne/crustly,High-performance terminal AI assistant for software development
+2026-10-19T02:22:59.232873Z,tmuxy,0.0.10-alpha.78,0,0,https://github.com/flplima/tmuxy,The missing tmux GUI — web and desktop interface for tmux
+2026-10-19T02:23:30.902165Z,knock-sdk,0.1.0,0,0,https://github.com/kaichaosun/knock-sdk-rust,"Speak Knock: sign in, poll, decrypt, reply."
+2026-10-19T02:24:51.387417Z,claviron-deno,0.2.0-alpha.18,0,0,https://github.com/claviron/deno,"Embeddable JavaScript and TypeScript runtime for Claviron, powered by Deno Core and V8"
+2026-10-19T02:29:08.140539Z,mdbook-pele,0.1.0,0,0,https://github.com/ld3z/mdbook-pele,An mdbook preprocessor that renders Mermaid diagrams with Pele (https://pele.run)
+2026-10-19T02:31:41.177512Z,wechatpay-v3,0.4.0,0,0,https://github.com/ManhattanCafeee/wechat-pay-rust-sdk,微信支付 APIv3 的 Rust 客户端（wechat-pay-rust-sdk 的独立 fork，非腾讯官方）
+2026-10-19T02:50:09.029098Z,srvpro,0.1.0,0,0,https://github.com/IamIpanda/srvpru,A Rust rewrite of the srvpro YGOPro duel server.
+2026-10-19T02:50:39.513081Z,srvpro-api,0.1.0,0,0,https://github.com/IamIpanda/srvpru,HTTP API and persistence backend for the srvpro duel server.
+2026-10-19T02:59:52.931028Z,brokk-bifrost-tools,0.0.0,0,0,https://github.com/BrokkAi/bifrost,Reserved name for an upcoming part of brokk-bifrost; the first real release follows.
+2026-10-19T02:59:56.738285Z,brokk-bifrost-semantic,0.0.0,0,0,https://github.com/BrokkAi/bifrost,Reserved name for an upcoming part of brokk-bifrost; the first real release follows.
+2026-10-19T03:00:58.96439Z,tauri-plugin-cef-webview,0.2.1,0,0,https://github.com/hairyf/tauri-cef-webview,Embed CEF child webviews in a Tauri frontend with a <webview> element
+2026-10-19T03:02:37.142438Z,brokk-bifrost-store,0.0.0,0,0,https://github.com/BrokkAi/bifrost,Reserved name for an upcoming part of brokk-bifrost; the first real release follows.
+2026-10-19T03:02:40.687058Z,brokk-bifrost-resolution,0.0.0,0,0,https://github.com/BrokkAi/bifrost,Reserved name for an upcoming part of brokk-bifrost; the first real release follows.
+2026-10-19T03:02:43.8838Z,brokk-bifrost-rust-analysis,0.0.0,0,0,https://github.com/BrokkAi/bifrost,Reserved name for an upcoming part of brokk-bifrost; the first real release follows.
+2026-10-19T03:04:08.931296Z,hauberk,0.1.0,0,0,https://github.com/terranesoftware/hauberk,Rust implementation of the seisin standard.
+2026-10-19T03:08:53.228129Z,macaddr-ouidb-support,0.1.18,0,0,https://github.com/tinglou/oh-my-rust-crates,Parsing and build-support library for macaddr-ouidb
+2026-10-19T03:12:47.877234Z,brokk-bifrost-python-analysis,0.0.0,0,0,https://github.com/BrokkAi/bifrost,Reserved name for an upcoming part of brokk-bifrost; the first real release follows.
