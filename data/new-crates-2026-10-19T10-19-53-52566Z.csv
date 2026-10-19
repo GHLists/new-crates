@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T09:21:16.927346Z,diff_history,0.0.1,0,0,https://github.com/jameshuntt,"Reserved: the sequence of typed 1o diff records (v1.<identity>.1o.diff) for a task, loaded, validated and indexed — the record layer of task_history. The first working release follows; nothing in 0.0…"
+2026-10-19T09:22:20.653171Z,egui_native_look,0.1.0,0,0,https://github.com/MojzisekJan/egui_native_look,"egui controls drawn in the manner of the system they run on: macOS, WinUI, GTK 4 / libadwaita, or a plain look of the app's own"
+2026-10-19T09:27:50.837584Z,asknothingx2-http,0.1.0,0,0,https://github.com/m3idnotfree/asknothingx2-http,asknothing
+2026-10-19T09:31:47.256854Z,receipt_history,0.0.1,0,0,https://github.com/jameshuntt,"Reserved: execution receipts over time (what ran, when, on which spec and code digest, with what outcome) as a stored history with its checks — one kind of history in the differences ecosystem. The f…"
+2026-10-19T09:33:55.197369Z,nexusq-kernels,4.1.0,0,0,https://github.com/lecodev-26/nexus-q,Portable scalar reference kernels and audited dispatch boundary for NEXUS-Q
+2026-10-19T09:34:05.314425Z,nexusq-ml-kem,4.1.0,0,0,https://github.com/lecodev-26/nexus-q,"NEXUS-Q fork of the pure Rust ML-KEM (FIPS 203, formerly Kyber) implementation from RustCrypto, with optional NEXUS-Q kernel integration"
+2026-10-19T09:34:08.954113Z,envpatrol,0.1.0,0,0,https://github.com/hariawann/envpatrol,"A CLI tool to check .env synchronization, detect leaked secrets, and generate sanitized .env.example templates"
+2026-10-19T09:34:17.826692Z,nexusq-ml-dsa,4.1.0,0,0,https://github.com/lecodev-26/nexus-q,"NEXUS-Q fork of the pure Rust ML-DSA (FIPS 204, formerly CRYSTALS-Dilithium) implementation from RustCrypto, with optional NEXUS-Q kernel integration"
+2026-10-19T09:34:41.702901Z,cop-cfg,0.1.7,0,0,https://github.com/shaogme/cargo-cop,Shared Rust cfg expression parsing and three-valued evaluation for cargo-cop.
+2026-10-19T09:35:31.888016Z,nexusq-native-backend,0.1.0,0,0,https://github.com/lecodev-26/nexus-q,Experimental: NEXUS-Q Rust API over vendored mlkem-native/mldsa-native (the AWS-LC arithmetic core) with runtime-dispatched x86-64 assembly
+2026-10-19T09:36:04.479503Z,nexusq-core,4.1.0,0,0,https://github.com/lecodev-26/nexus-q,Core library for NEXUS-Q
+2026-10-19T09:40:51.507452Z,maintenance_core,0.1.0,0,0,https://github.com/1o-llc/maintenance,"What maintenance and maintenance_macros both read: the code table, sensitivity levels as a big-bad-bool word, thresholds in time_kit's words, maintenance.toml, and every attribute's reader."
+2026-10-19T09:42:09.512547Z,nexusq-c,4.1.0,0,0,https://github.com/lecodev-26/nexus-q,C bindings for NEXUS-Q
+2026-10-19T09:44:48.892446Z,gopromotional-event-planner,1.0.1,0,0,https://github.com/nbkdevs/GoPromotional,"Event planning helpers: countdown, planning timeline, giveaway quantity estimator and order-by dates for printed merchandise. Library + CLI."
+2026-10-19T09:44:58.726714Z,gopromotional-siplog,1.0.1,0,0,https://github.com/nbkdevs/GoPromotional,"Daily water goal calculator and hydration log: parse 500ml/0.5l/16oz amounts, track daily totals, 7-day history and streaks. Library + CLI."
+2026-10-19T09:45:07.899123Z,gopromotional-packlist,1.0.1,0,0,https://github.com/nbkdevs/GoPromotional,"Packing checklists with work-day, travel, trade-show and gym templates, per-night quantities and a round-trip Markdown checklist format. Library + CLI."
+2026-10-19T09:45:17.950491Z,gopromotional-mugday,1.0.1,0,0,https://github.com/nbkdevs/GoPromotional,"Caffeine and coffee tracker: typical caffeine per drink, daily totals against a limit, half-life estimate of caffeine in your system, sleep-ready time and reusable-cup stats. Library + CLI."
+2026-10-19T09:46:43.061733Z,element-51,0.0.1,0,0,,Placeholder. A Rust/WASM canvas and graph engine for browser node-editor GUIs. Work in progress.
+2026-10-19T09:50:28.436749Z,maintenance_macros,0.1.0,0,0,https://github.com/1o-llc/maintenance,"The attribute macros of maintenance (use them through the maintenance crate): #[sensitivity], #[timed_test], #[owner], #[requires_review], #[deprecated_after], #[mechanism], #[boundary], #[supersedes…"
+2026-10-19T09:52:09.889568Z,nexusq-cli,4.1.0,0,0,https://github.com/lecodev-26/nexus-q,Command-line interface for NEXUS-Q
+2026-10-19T09:58:02.168484Z,bhwi-async-transport,0.1.0,0,0,https://github.com/wizardsardine/bhwi,Native device channels and discovery for bhwi
+2026-10-19T09:58:24.615386Z,bhwi-cli,0.1.0,0,0,https://github.com/wizardsardine/bhwi,"Command-line tool to talk to Bitcoin hardware wallets, plus an hwi parity binary"
+2026-10-19T10:01:51.080122Z,bhwi-wasm,0.1.0,0,0,https://github.com/wizardsardine/bhwi,"WebAssembly bindings for bhwi, the Bitcoin hardware wallet interface"
+2026-10-19T10:01:51.367546Z,differences_kit,0.0.1,0,0,https://github.com/jameshuntt,"Reserved: the library for building a kind of history (records, digests, revisions, verification) that the differences CLI composes — the toolkit under task_history, diff_history, change_history, revi…"
+2026-10-19T10:02:27.046431Z,nexusq-py,4.1.0,0,0,https://github.com/lecodev-26/nexus-q,Python bindings for NEXUS-Q
+2026-10-19T10:08:52.964939Z,ldf-select,0.2.0,0,0,https://github.com/caioricciuti/ldf,"Evidence-based format selector: JSON or LDF per model and data shape, from measured accuracy only"
+2026-10-19T10:10:46.340007Z,custodian_kit,0.1.0,0,0,https://github.com/1o-llc/custodian_kit,"Read a Rust workspace as data: code graph, queries, pins, context windows, Tantivy search receipts, and reading specs that answer one question from klepto's facts into a dated page"
+2026-10-19T10:11:54.101933Z,amont-quiet,1.60.0,0,0,https://github.com/fredericrous/amont,"The quiet-run active entry: one JSON file per running check, for a pane to tail"
+2026-10-19T10:14:19.94992Z,nexusq-server,4.1.0,0,0,https://github.com/lecodev-26/nexus-q,Network server for NEXUS-Q
+2026-10-19T10:17:21.812741Z,gpui-pre-ios,0.3.9,0,0,https://github.com/zed-industries/zed,Zed's `gpui_ios` crate (gpui-pre snapshot of zed@b4ecc45)

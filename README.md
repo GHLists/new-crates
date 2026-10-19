@@ -8,39 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 09:19 UTC
+## Latest list — 2026-10-19 10:19 UTC
 
-New crates published between 2026-10-19 08:20 UTC and 2026-10-19 09:19 UTC.
+New crates published between 2026-10-19 09:19 UTC and 2026-10-19 10:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-19T09-19-46-146009Z.csv)
+[Full CSV](data/new-crates-2026-10-19T10-19-53-52566Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-19 08:20:27 | [klava-pii-guardrail](https://crates.io/crates/klava-pii-guardrail) | 0.1.0 | 0 | PII guardrail extension for klava: span-based detection and redaction in tool o… |
-| 2026-10-19 08:20:40 | [klava-model-escalation](https://crates.io/crates/klava-model-escalation) | 0.1.0 | 0 | Model escalation extension for klava: detect a stuck agent and route to a stron… |
-| 2026-10-19 08:22:46 | [envault-cli](https://crates.io/crates/envault-cli) | 0.1.1 | 0 | Local-first encrypted secrets manager for Rust projects |
-| 2026-10-19 08:24:03 | [arcanist-rs](https://crates.io/crates/arcanist-rs) | 0.3.0 | 0 | Rust port of Arcanist (arc) |
-| 2026-10-19 08:25:49 | [forklaunch-ws](https://crates.io/crates/forklaunch-ws) | 0.1.0 | 0 | ForkLaunch Rust ws APIs and runtime support |
-| 2026-10-19 08:35:50 | [forklaunch-axum](https://crates.io/crates/forklaunch-axum) | 0.1.0 | 0 | ForkLaunch Rust axum APIs and runtime support |
-| 2026-10-19 08:37:13 | [ships](https://crates.io/crates/ships) | 0.2.0 | 0 | Zero-config build, dependency harvester and single-file packager for native app… |
-| 2026-10-19 08:45:49 | [forklaunch-testing](https://crates.io/crates/forklaunch-testing) | 0.1.0 | 0 | ForkLaunch Rust testing APIs and runtime support |
-| 2026-10-19 08:46:30 | [deduco-langs](https://crates.io/crates/deduco-langs) | 0.1.0 | 0 | tree-sitter grammar registry + per-language extraction tables |
-| 2026-10-19 08:46:36 | [deduco-tests](https://crates.io/crates/deduco-tests) | 0.1.0 | 0 | Fixtures, golden files, mutation harness (specs/09) |
-| 2026-10-19 08:46:50 | [deduco](https://crates.io/crates/deduco) | 0.1.0 | 0 | Precision-first structural code-clone detector |
-| 2026-10-19 08:50:17 | [seedrun](https://crates.io/crates/seedrun) | 0.0.0 | 0 | Placeholder for Seedrun, a BitTorrent client. |
-| 2026-10-19 08:53:50 | [codecunit-rs](https://crates.io/crates/codecunit-rs) | 0.1.0 | 0 | Binding |
-| 2026-10-19 08:54:56 | [qsdb-client](https://crates.io/crates/qsdb-client) | 0.1.0 | 0 | Thin Rust client for QSDB: hand-rolled HTTP/1.1, zero network dependencies, col… |
-| 2026-10-19 09:07:46 | [feynrir](https://crates.io/crates/feynrir) | 1.0.0 | 0 | A library for the efficient construction and simplification/canonicalization of… |
-| 2026-10-19 09:10:02 | [task_history](https://crates.io/crates/task_history) | 0.0.1 | 0 | Reserved: typed 1o task-history records (task, intent, problem, diagnosis, solu… |
-| 2026-10-19 09:10:05 | [change_history](https://crates.io/crates/change_history) | 0.0.1 | 0 | Reserved: per-file change records with before/after digests and a verifier of a… |
-| 2026-10-19 09:10:08 | [differences](https://crates.io/crates/differences) | 0.0.1 | 0 | Reserved: comparisons between recorded states — counts, receipts, task historie… |
-| 2026-10-19 09:10:52 | [revision_history](https://crates.io/crates/revision_history) | 0.0.1 | 0 | Reserved: a task's revisions as folders (base, fix1, fix2, …) over typed 1o tas… |
-| 2026-10-19 09:10:55 | [tree_history](https://crates.io/crates/tree_history) | 0.0.1 | 0 | Reserved: digests of a tree over time and the verification of a terminal tree a… |
-| 2026-10-19 09:14:52 | [rustclamp-macros](https://crates.io/crates/rustclamp-macros) | 0.0.0 | 0 | Reserved for the RustClamp framework. Not yet released. |
-| 2026-10-19 09:14:54 | [rustclamp-tooling](https://crates.io/crates/rustclamp-tooling) | 0.0.0 | 0 | Reserved for the RustClamp framework. Not yet released. |
-| 2026-10-19 09:16:48 | [zakura-librocksdb-sys](https://crates.io/crates/zakura-librocksdb-sys) | 0.17.3+10.4.2 | 0 | Native bindings to librocksdb (zakura fork of librocksdb-sys with a unity-build… |
-| 2026-10-19 09:17:10 | [zakura-rocksdb](https://crates.io/crates/zakura-rocksdb) | 0.24.0 | 0 | Rust wrapper for Facebook's RocksDB embeddable database (zakura fork of rocksdb… |
-| 2026-10-19 09:17:54 | [forkspace](https://crates.io/crates/forkspace) | 0.1.0 | 0 | Copy-on-write copies of a project directory, including node_modules, .env and o… |
+| 2026-10-19 09:21:16 | [diff_history](https://crates.io/crates/diff_history) | 0.0.1 | 0 | Reserved: the sequence of typed 1o diff records (v1.<identity>.1o.diff) for a t… |
+| 2026-10-19 09:22:20 | [egui_native_look](https://crates.io/crates/egui_native_look) | 0.1.0 | 0 | egui controls drawn in the manner of the system they run on: macOS, WinUI, GTK… |
+| 2026-10-19 09:27:50 | [asknothingx2-http](https://crates.io/crates/asknothingx2-http) | 0.1.0 | 0 | asknothing |
+| 2026-10-19 09:31:47 | [receipt_history](https://crates.io/crates/receipt_history) | 0.0.1 | 0 | Reserved: execution receipts over time (what ran, when, on which spec and code… |
+| 2026-10-19 09:33:55 | [nexusq-kernels](https://crates.io/crates/nexusq-kernels) | 4.1.0 | 0 | Portable scalar reference kernels and audited dispatch boundary for NEXUS-Q |
+| 2026-10-19 09:34:05 | [nexusq-ml-kem](https://crates.io/crates/nexusq-ml-kem) | 4.1.0 | 0 | NEXUS-Q fork of the pure Rust ML-KEM (FIPS 203, formerly Kyber) implementation… |
+| 2026-10-19 09:34:08 | [envpatrol](https://crates.io/crates/envpatrol) | 0.1.0 | 0 | A CLI tool to check .env synchronization, detect leaked secrets, and generate s… |
+| 2026-10-19 09:34:17 | [nexusq-ml-dsa](https://crates.io/crates/nexusq-ml-dsa) | 4.1.0 | 0 | NEXUS-Q fork of the pure Rust ML-DSA (FIPS 204, formerly CRYSTALS-Dilithium) im… |
+| 2026-10-19 09:34:41 | [cop-cfg](https://crates.io/crates/cop-cfg) | 0.1.7 | 0 | Shared Rust cfg expression parsing and three-valued evaluation for cargo-cop. |
+| 2026-10-19 09:35:31 | [nexusq-native-backend](https://crates.io/crates/nexusq-native-backend) | 0.1.0 | 0 | Experimental: NEXUS-Q Rust API over vendored mlkem-native/mldsa-native (the AWS… |
+| 2026-10-19 09:36:04 | [nexusq-core](https://crates.io/crates/nexusq-core) | 4.1.0 | 0 | Core library for NEXUS-Q |
+| 2026-10-19 09:40:51 | [maintenance_core](https://crates.io/crates/maintenance_core) | 0.1.0 | 0 | What maintenance and maintenance_macros both read: the code table, sensitivity… |
+| 2026-10-19 09:42:09 | [nexusq-c](https://crates.io/crates/nexusq-c) | 4.1.0 | 0 | C bindings for NEXUS-Q |
+| 2026-10-19 09:44:48 | [gopromotional-event-planner](https://crates.io/crates/gopromotional-event-planner) | 1.0.1 | 0 | Event planning helpers: countdown, planning timeline, giveaway quantity estimat… |
+| 2026-10-19 09:44:58 | [gopromotional-siplog](https://crates.io/crates/gopromotional-siplog) | 1.0.1 | 0 | Daily water goal calculator and hydration log: parse 500ml/0.5l/16oz amounts, t… |
+| 2026-10-19 09:45:07 | [gopromotional-packlist](https://crates.io/crates/gopromotional-packlist) | 1.0.1 | 0 | Packing checklists with work-day, travel, trade-show and gym templates, per-nig… |
+| 2026-10-19 09:45:17 | [gopromotional-mugday](https://crates.io/crates/gopromotional-mugday) | 1.0.1 | 0 | Caffeine and coffee tracker: typical caffeine per drink, daily totals against a… |
+| 2026-10-19 09:46:43 | [element-51](https://crates.io/crates/element-51) | 0.0.1 | 0 | Placeholder. A Rust/WASM canvas and graph engine for browser node-editor GUIs.… |
+| 2026-10-19 09:50:28 | [maintenance_macros](https://crates.io/crates/maintenance_macros) | 0.1.0 | 0 | The attribute macros of maintenance (use them through the maintenance crate): #… |
+| 2026-10-19 09:52:09 | [nexusq-cli](https://crates.io/crates/nexusq-cli) | 4.1.0 | 0 | Command-line interface for NEXUS-Q |
+| 2026-10-19 09:58:02 | [bhwi-async-transport](https://crates.io/crates/bhwi-async-transport) | 0.1.0 | 0 | Native device channels and discovery for bhwi |
+| 2026-10-19 09:58:24 | [bhwi-cli](https://crates.io/crates/bhwi-cli) | 0.1.0 | 0 | Command-line tool to talk to Bitcoin hardware wallets, plus an hwi parity binary |
+| 2026-10-19 10:01:51 | [bhwi-wasm](https://crates.io/crates/bhwi-wasm) | 0.1.0 | 0 | WebAssembly bindings for bhwi, the Bitcoin hardware wallet interface |
+| 2026-10-19 10:01:51 | [differences_kit](https://crates.io/crates/differences_kit) | 0.0.1 | 0 | Reserved: the library for building a kind of history (records, digests, revisio… |
+| 2026-10-19 10:02:27 | [nexusq-py](https://crates.io/crates/nexusq-py) | 4.1.0 | 0 | Python bindings for NEXUS-Q |
+| 2026-10-19 10:08:52 | [ldf-select](https://crates.io/crates/ldf-select) | 0.2.0 | 0 | Evidence-based format selector: JSON or LDF per model and data shape, from meas… |
+| 2026-10-19 10:10:46 | [custodian_kit](https://crates.io/crates/custodian_kit) | 0.1.0 | 0 | Read a Rust workspace as data: code graph, queries, pins, context windows, Tant… |
+| 2026-10-19 10:11:54 | [amont-quiet](https://crates.io/crates/amont-quiet) | 1.60.0 | 0 | The quiet-run active entry: one JSON file per running check, for a pane to tail |
+| 2026-10-19 10:14:19 | [nexusq-server](https://crates.io/crates/nexusq-server) | 4.1.0 | 0 | Network server for NEXUS-Q |
+| 2026-10-19 10:17:21 | [gpui-pre-ios](https://crates.io/crates/gpui-pre-ios) | 0.3.9 | 0 | Zed's `gpui_ios` crate (gpui-pre snapshot of zed@b4ecc45) |
 
 ## Data source
 
