@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T05:20:33.345464Z,clap-how-to,0.1.2,0,0,https://github.com/Gonzih/clap-how-to,Bundled offline semantic help search for Clap CLIs: how and how-to
+2026-10-19T05:26:16.115738Z,ultra-instinct-browser,0.1.0,0,0,https://github.com/hexuria/ultra-instinct,CDP browser session for ultra-instinct.
+2026-10-19T05:26:43.415682Z,ultra-instinct-guard,0.1.0,0,0,https://github.com/hexuria/ultra-instinct,Allow / refuse / escalate decisions for ultra-instinct
+2026-10-19T05:27:05.474932Z,ultra-instinct-agent,0.1.0,0,0,https://github.com/hexuria/ultra-instinct,Observe → decide → guard → ticket → execute → verify agent loop
+2026-10-19T05:27:26.359629Z,ultra-instinct-mcp,0.1.0,0,0,https://github.com/hexuria/ultra-instinct,stdio JSON-RPC MCP server for the ultra-instinct action firewall
+2026-10-19T05:28:17.450468Z,ultra-instinct,0.1.0,0,0,https://github.com/hexuria/ultra-instinct,ultra-instinct command line
+2026-10-19T05:30:21.02382Z,workforce-planning-management-migration,0.1.0,0,0,https://github.com/workforce-planning-management/workforce-planning-management/tree/main/workforce-planning-management-service-with-rust/migration,Database migrations for the workforce planning management service
+2026-10-19T05:32:10.794846Z,workforce-planning-management,0.1.0,0,0,https://github.com/workforce-planning-management/workforce-planning-management/workforce-planning-management-service-with-rust,"Workforce Planning Management (WPM): service for worker lifecycle, applicant tracking system, human resources, people and organization development, continuing professional development, payroll, sched…"
+2026-10-19T05:35:09.491826Z,ybd-core,0.4.0,0,0,https://github.com/yumilengjiao/yumi-bilibili-download,Bilibili 资源下载与解析核心库
+2026-10-19T05:35:39.426842Z,netune-ws,0.0.1,0,0,https://github.com/ming2k/netune,"Pure RFC 6455 WebSocket codec: zero-allocation framing, SIMD-accelerated masking, and client handshake"
+2026-10-19T05:36:06.077728Z,ybd-cli,0.4.0,0,0,https://github.com/yumilengjiao/yumi-bilibili-download,Bilibili 资源下载命令行工具
+2026-10-19T05:36:07.936787Z,ybd-tui,0.4.0,0,0,https://github.com/yumilengjiao/yumi-bilibili-download,Bilibili 资源下载终端用户界面工具
+2026-10-19T05:37:48.761092Z,simllms,0.1.0,0,0,https://github.com/SidneyLYZhang/simllms,Unified client for multiple LLM providers
+2026-10-19T05:39:39.944423Z,live-serve,0.2.0,0,0,https://github.com/NguyenTruong354/live-serve,"A tiny static dev server that reloads the page when files change; works from the CLI, VS Code and Zed"
+2026-10-19T05:44:32.357619Z,project-portfolio-management-migration,0.1.0,0,0,https://github.com/project-portfolio-management/project-portfolio-management,Database migrations for the project portfolio management service (sea-orm-migration on loco-rs)
+2026-10-19T06:14:55.4175Z,wsb-prj,0.227.4750,0,0,https://github.com/jowharshamshiri/wsb,"The $PRJ layout: projects, their sibling git worktrees, and the state shared between them"
+2026-10-19T06:14:58.480199Z,wsb-github,0.227.4750,0,0,https://github.com/jowharshamshiri/wsb,"GitHub issues, pull requests, gists and Projects boards, mirrored once per machine for every project under $PRJ"
+2026-10-19T06:17:27.23919Z,primerouter,0.1.0,0,0,,PrimeRouter Rust integration library (initial development release)

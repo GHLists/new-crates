@@ -8,42 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 05:18 UTC
+## Latest list — 2026-10-19 06:19 UTC
 
-New crates published between 2026-10-19 04:18 UTC and 2026-10-19 05:18 UTC.
+New crates published between 2026-10-19 05:18 UTC and 2026-10-19 06:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-19T05-18-58-018228Z.csv)
+[Full CSV](data/new-crates-2026-10-19T06-19-42-956573Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-19 04:21:11 | [shrub-shell](https://crates.io/crates/shrub-shell) | 0.0.2 | 0 | Rust-implemented shell focused on POSIX and bash compatibility |
-| 2026-10-19 04:22:31 | [cpeforge-ubl-validator](https://crates.io/crates/cpeforge-ubl-validator) | 0.1.0 | 0 | Validador XSD 1.0 de documentos UBL 2.0 y 2.1 con recursos locales verificados. |
-| 2026-10-19 04:23:19 | [brokk-bifrost-jvm-analysis](https://crates.io/crates/brokk-bifrost-jvm-analysis) | 0.0.0 | 0 | Reserved name for an upcoming part of brokk-bifrost; the first real release fol… |
-| 2026-10-19 04:24:11 | [sillstone-png](https://crates.io/crates/sillstone-png) | 0.2.0 | 0 | PNG decoding for 8/16-bit colour images, including Adam7 interlacing (zero-dep… |
-| 2026-10-19 04:24:19 | [sillstone-jpeg](https://crates.io/crates/sillstone-jpeg) | 0.2.0 | 0 | pith jpeg lane: baseline and progressive JPEG decoding, byte-exact with libjpeg… |
-| 2026-10-19 04:30:02 | [hypersig_proc_impl](https://crates.io/crates/hypersig_proc_impl) | 0.1.0 | 0 | Token transformation behind hypersig's derive macro |
-| 2026-10-19 04:30:04 | [hypersig_style](https://crates.io/crates/hypersig_style) | 0.1.0 | 0 | Typed atomic CSS for hypersig. Use it through the hypersig crate |
-| 2026-10-19 04:30:05 | [hypersig_proc](https://crates.io/crates/hypersig_proc) | 0.1.0 | 0 | Derive macro for hypersig. Use it through the hypersig crate |
-| 2026-10-19 04:30:08 | [hypersig](https://crates.io/crates/hypersig) | 0.1.0 | 0 | Server-driven hypermedia for Rust where every string the browser runs is genera… |
-| 2026-10-19 04:30:11 | [hypersig_i18n](https://crates.io/crates/hypersig_i18n) | 0.1.0 | 0 | Typed translations for hypersig, where a missing translation is a compile error |
-| 2026-10-19 04:32:25 | [cpeforge-xcodes](https://crates.io/crates/cpeforge-xcodes) | 0.1.0 | 0 | Catálogo fijo de códigos de error de SUNAT. |
-| 2026-10-19 04:37:53 | [snek-core](https://crates.io/crates/snek-core) | 1.0.0 | 0 | UI-free core of wackysnek: game rules, power-ups, arenas, seeded RNG and replays |
-| 2026-10-19 04:42:04 | [hypersig_ui](https://crates.io/crates/hypersig_ui) | 0.1.0 | 0 | Accessible components for hypersig, styled after shadcn/ui |
-| 2026-10-19 04:42:26 | [cpeforge-xml-parser](https://crates.io/crates/cpeforge-xml-parser) | 0.1.0 | 0 | Lectura de comprobantes electrónicos SUNAT (UBL) a modelos de cpeforge-core, co… |
-| 2026-10-19 04:43:06 | [eisler-core](https://crates.io/crates/eisler-core) | 0.0.1 | 0 | KiCad PCB files: parsing, board model, DRC, routing, zone fill, saving |
-| 2026-10-19 04:43:08 | [eisler-render](https://crates.io/crates/eisler-render) | 0.0.1 | 0 | wgpu renderer for Eisler boards |
-| 2026-10-19 04:43:11 | [eisler-app](https://crates.io/crates/eisler-app) | 0.0.1 | 0 | Eisler: a fast PCB editor that opens and saves KiCad files (binary: eisler) |
-| 2026-10-19 04:47:34 | [sillstone-audio](https://crates.io/crates/sillstone-audio) | 0.2.0 | 0 | Audio fingerprinting: RIFF/WAVE and FLAC decode, Shazam-style spectral-peak sig… |
-| 2026-10-19 04:47:43 | [sillstone-video](https://crates.io/crates/sillstone-video) | 0.2.0 | 0 | Video fingerprints: mp4 demux, H.264 decode, 2 fps pHash frames and MinHash cha… |
-| 2026-10-19 04:52:27 | [cpeforge](https://crates.io/crates/cpeforge) | 0.1.0 | 0 | CPEForge: SDK en Rust para facturación electrónica en Perú (envío SOAP y GRE a… |
-| 2026-10-19 04:57:03 | [sillstone-file](https://crates.io/crates/sillstone-file) | 0.2.0 | 0 | File-domain hashing for the pith suite: FastCDC chunk signatures, exact chunk-s… |
-| 2026-10-19 04:58:34 | [yaxpeax-power](https://crates.io/crates/yaxpeax-power) | 0.1.0 | 0 | Power, PowerPC, and related decoders for the yaxpeax project |
-| 2026-10-19 05:00:30 | [socai-worker-protocol](https://crates.io/crates/socai-worker-protocol) | 0.1.0 | 0 | Stable control and event protocol for socai Agent workers |
-| 2026-10-19 05:02:29 | [cpeforge-cpe-validator](https://crates.io/crates/cpeforge-cpe-validator) | 0.1.0 | 0 | Validación de CPE SUNAT con hojas XSL (XSLT 1.0 con libxslt) y perfil seguro. |
-| 2026-10-19 05:04:18 | [socai-worker](https://crates.io/crates/socai-worker) | 0.1.0 | 0 | Reusable isolated session worker backed by socai-core |
-| 2026-10-19 05:08:35 | [sillstone-curator](https://crates.io/crates/sillstone-curator) | 0.2.0 | 0 | The pith suite curator: detect, tier-1 content hash, tier-2 signatures, match,… |
-| 2026-10-19 05:12:13 | [artifactize-mcp](https://crates.io/crates/artifactize-mcp) | 0.13.0 | 0 | The MCP endpoint for artifactize's shared verification and inspection operation… |
-| 2026-10-19 05:18:41 | [pocket-encoder](https://crates.io/crates/pocket-encoder) | 0.1.0 | 0 | A bundled, offline sentence transformer with native Rust CPU inference |
+| 2026-10-19 05:20:33 | [clap-how-to](https://crates.io/crates/clap-how-to) | 0.1.2 | 0 | Bundled offline semantic help search for Clap CLIs: how and how-to |
+| 2026-10-19 05:26:16 | [ultra-instinct-browser](https://crates.io/crates/ultra-instinct-browser) | 0.1.0 | 0 | CDP browser session for ultra-instinct. |
+| 2026-10-19 05:26:43 | [ultra-instinct-guard](https://crates.io/crates/ultra-instinct-guard) | 0.1.0 | 0 | Allow / refuse / escalate decisions for ultra-instinct |
+| 2026-10-19 05:27:05 | [ultra-instinct-agent](https://crates.io/crates/ultra-instinct-agent) | 0.1.0 | 0 | Observe → decide → guard → ticket → execute → verify agent loop |
+| 2026-10-19 05:27:26 | [ultra-instinct-mcp](https://crates.io/crates/ultra-instinct-mcp) | 0.1.0 | 0 | stdio JSON-RPC MCP server for the ultra-instinct action firewall |
+| 2026-10-19 05:28:17 | [ultra-instinct](https://crates.io/crates/ultra-instinct) | 0.1.0 | 0 | ultra-instinct command line |
+| 2026-10-19 05:30:21 | [workforce-planning-management-migration](https://crates.io/crates/workforce-planning-management-migration) | 0.1.0 | 0 | Database migrations for the workforce planning management service |
+| 2026-10-19 05:32:10 | [workforce-planning-management](https://crates.io/crates/workforce-planning-management) | 0.1.0 | 0 | Workforce Planning Management (WPM): service for worker lifecycle, applicant tr… |
+| 2026-10-19 05:35:09 | [ybd-core](https://crates.io/crates/ybd-core) | 0.4.0 | 0 | Bilibili 资源下载与解析核心库 |
+| 2026-10-19 05:35:39 | [netune-ws](https://crates.io/crates/netune-ws) | 0.0.1 | 0 | Pure RFC 6455 WebSocket codec: zero-allocation framing, SIMD-accelerated maskin… |
+| 2026-10-19 05:36:06 | [ybd-cli](https://crates.io/crates/ybd-cli) | 0.4.0 | 0 | Bilibili 资源下载命令行工具 |
+| 2026-10-19 05:36:07 | [ybd-tui](https://crates.io/crates/ybd-tui) | 0.4.0 | 0 | Bilibili 资源下载终端用户界面工具 |
+| 2026-10-19 05:37:48 | [simllms](https://crates.io/crates/simllms) | 0.1.0 | 0 | Unified client for multiple LLM providers |
+| 2026-10-19 05:39:39 | [live-serve](https://crates.io/crates/live-serve) | 0.2.0 | 0 | A tiny static dev server that reloads the page when files change; works from th… |
+| 2026-10-19 05:44:32 | [project-portfolio-management-migration](https://crates.io/crates/project-portfolio-management-migration) | 0.1.0 | 0 | Database migrations for the project portfolio management service (sea-orm-migra… |
+| 2026-10-19 06:14:55 | [wsb-prj](https://crates.io/crates/wsb-prj) | 0.227.4750 | 0 | The $PRJ layout: projects, their sibling git worktrees, and the state shared be… |
+| 2026-10-19 06:14:58 | [wsb-github](https://crates.io/crates/wsb-github) | 0.227.4750 | 0 | GitHub issues, pull requests, gists and Projects boards, mirrored once per mach… |
+| 2026-10-19 06:17:27 | [primerouter](https://crates.io/crates/primerouter) | 0.1.0 | 0 | PrimeRouter Rust integration library (initial development release) |
 
 ## Data source
 
