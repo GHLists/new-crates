@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T03:22:52.143854Z,brokk-bifrost-cpp-analysis,0.0.0,0,0,https://github.com/BrokkAi/bifrost,Reserved name for an upcoming part of brokk-bifrost; the first real release follows.
+2026-10-19T03:24:41.281585Z,horae-time,0.2.0,0,0,https://github.com/ryancinsight/horae,Atlas time-integration policy and orchestration foundation
+2026-10-19T03:25:45.872093Z,sillstone-mp3,0.2.0,0,0,https://github.com/sillstone/sillstone,MP3 decoding for layers I/II/III including the bit reservoir.
+2026-10-19T03:25:53.503116Z,sillstone-mp4,0.2.0,0,0,https://github.com/sillstone/sillstone,pith foundation: mp4 (zero-dep Rust)
+2026-10-19T03:26:02.118396Z,sillstone-h264,0.2.0,0,0,https://github.com/sillstone/sillstone,"H.264/AVC subset decoding: NAL/SPS/PPS, CAVLC+CABAC slices, transforms, in-loop deblocking"
+2026-10-19T03:26:15.249533Z,sillstone-cdc,0.2.0,0,0,https://github.com/sillstone/sillstone,FastCDC content-defined chunking with a 16-level gear mask table (zero-dep Rust)
+2026-10-19T03:26:28.316031Z,sillstone-text,0.2.0,0,0,https://github.com/sillstone/sillstone,"Text fingerprints: NFC canonicalisation, word 3-shingles and a 128-word MinHash signature"
+2026-10-19T03:26:46.182177Z,proteus-mat,0.1.1,0,0,https://github.com/ryancinsight/proteus,Atlas material-property and constitutive-law foundation
+2026-10-19T03:28:40.939249Z,consus-raster,0.3.0,0,0,https://github.com/ryancinsight/consus,Bounded pure-Rust raster codecs
+2026-10-19T03:30:37.744704Z,signalkit,0.1.0,0,0,https://github.com/WyattAu/signalkit,"Snapshot, store, and score any counter — umbrella crate for signalkit-core + signalkit-integrity"
+2026-10-19T03:32:12.263591Z,pyfaro,0.1.0-alpha.1,0,0,https://github.com/pyfaro/pyfaro,Experimental Python project workflows powered by uv
+2026-10-19T03:32:56.39228Z,brokk-bifrost-js-ts-analysis,0.0.0,0,0,https://github.com/BrokkAi/bifrost,Reserved name for an upcoming part of brokk-bifrost; the first real release follows.
+2026-10-19T03:37:06.869049Z,sillstone-inflate,0.2.0,0,0,https://github.com/sillstone/sillstone,Pure-Rust DEFLATE and zlib stream decoding conforming to RFC 1951 and RFC 1950.
+2026-10-19T03:42:12.642077Z,sandfs-core,0.4.0,0,0,https://github.com/lydakis/sandfs,"A lazy, copy-on-write sandbox filesystem for agents: mount any data, fork in O(1), see what changed"
+2026-10-19T03:42:14.387576Z,sandfs-git,0.4.0,0,0,https://github.com/lydakis/sandfs,"An optional sandfs source that mounts a git commit lazily, without a checkout"
+2026-10-19T03:42:14.56719Z,sandfs-mcp,0.4.0,0,0,https://github.com/lydakis/sandfs,MCP file tools over a sandfs workspace: the filesystem you give an agent instead of a bash tool
+2026-10-19T03:42:15.602237Z,sandfs-cli,0.4.0,0,0,https://github.com/lydakis/sandfs,"The sandfs command: mount, fork and list the changes of workspaces over FUSE, or serve one over MCP"
+2026-10-19T03:42:50.142463Z,cpeforge-core,0.1.0,0,0,https://github.com/alvarez25leo/cpeforge,"Modelos y contratos de comprobantes electrónicos peruanos (CPE) para CPEForge, sin XML, firma ni transporte."
+2026-10-19T03:42:57.131712Z,cpeforge-gre-api,0.1.0,0,0,https://github.com/alvarez25leo/cpeforge,"Cliente HTTP de la API GRE de SUNAT (token, envío y consulta de guías de remisión)."
+2026-10-19T03:43:00.105253Z,cpeforge-xml-limits,0.1.0,0,0,https://github.com/alvarez25leo/cpeforge,"Límite de anidamiento XML comprobado sobre el texto, antes de que un parser recursivo agote la pila"
+2026-10-19T03:43:00.711441Z,brokk-bifrost-csharp-analysis,0.0.0,0,0,https://github.com/BrokkAi/bifrost,Reserved name for an upcoming part of brokk-bifrost; the first real release follows.
+2026-10-19T03:43:03.413922Z,cpeforge-xmldsig,0.1.0,0,0,https://github.com/alvarez25leo/cpeforge,"Firma, verificación, canonicalización y cifrado XML (perfil SUNAT)."
+2026-10-19T03:43:08.11773Z,cpeforge-report,0.1.0,0,0,https://github.com/alvarez25leo/cpeforge,"Representación impresa HTML (siete plantillas, CSS y QR SVG) de comprobantes electrónicos peruanos."
+2026-10-19T03:44:58.779474Z,ui-text-edit,0.1.0,0,0,https://github.com/WyattAu/ui-text-edit,"Text-field semantics for Rust GUIs: a buffer-agnostic TextBuffer, a grapheme-correct caret/selection/edit model, and an a11y-state bridge. Composes input-kit for IME. Not a code editor"
+2026-10-19T03:46:01.09289Z,sillstone-pdf,0.2.0,0,0,https://github.com/sillstone/sillstone,"PDF text extraction across classic xref, xref streams, cmap and CID fonts"
+2026-10-19T03:52:30.358833Z,cpeforge-validator,0.1.0,0,0,https://github.com/alvarez25leo/cpeforge,Reglas de validación de modelos de comprobantes electrónicos peruanos de CPEForge.
+2026-10-19T03:53:05.293706Z,brokk-bifrost-ruby-analysis,0.0.0,0,0,https://github.com/BrokkAi/bifrost,Reserved name for an upcoming part of brokk-bifrost; the first real release follows.
+2026-10-19T03:53:50.607582Z,nosfry-core,0.1.0,0,0,https://github.com/qntx/nosfry,Sans-IO Nostr relay protocol core (strict NIP-01)
+2026-10-19T03:53:54.546867Z,flowlog-codegen,0.1.0,0,0,https://github.com/flowlog-rs/flowlog,Code generation for FlowLog: a planned program to differential-dataflow Rust.
+2026-10-19T03:53:57.60575Z,nosfry-lmdb,0.1.0,0,0,https://github.com/qntx/nosfry,Synchronous LMDB event store for the nosfry Nostr relay
+2026-10-19T03:54:29.398433Z,nosfry,0.1.0,0,0,https://github.com/qntx/nosfry,"High-performance Nostr relay (strict NIP-01, LMDB storage)"
+2026-10-19T04:02:27.443527Z,cpeforge-ws,0.1.0,0,0,https://github.com/alvarez25leo/cpeforge,"SOAP, ZIP, CDR y adaptador GRE para los servicios electrónicos de SUNAT."
+2026-10-19T04:03:10.630586Z,brokk-bifrost-php-analysis,0.0.0,0,0,https://github.com/BrokkAi/bifrost,Reserved name for an upcoming part of brokk-bifrost; the first real release follows.
+2026-10-19T04:03:51.012218Z,little-docs,0.1.0,0,0,https://github.com/withlittle/little,A little static site generator for documentation
+2026-10-19T04:05:55.529723Z,sillstone-zip,0.2.0,0,0,https://github.com/sillstone/sillstone,"ZIP container reading: stored and deflated entries, plus a minimal XML reader"
+2026-10-19T04:06:11.093241Z,sillstone-image,0.2.0,0,0,https://github.com/sillstone/sillstone,"pith image lane: raster buffers, BMP decode, tier-3 features, pHash (zero-dep Rust)"
+2026-10-19T04:07:46.053943Z,shrub-parser,0.0.2,0,0,https://github.com/victor-software-house/shrub,POSIX/bash shell tokenizer and parsers (used by shrub-shell)
+2026-10-19T04:08:07.36309Z,shrub-core,0.0.2,0,0,https://github.com/victor-software-house/shrub,Reusable core of a POSIX/bash shell (used by shrub-shell)
+2026-10-19T04:08:29.457407Z,shrub-builtins,0.0.2,0,0,https://github.com/victor-software-house/shrub,Builtins for a POSIX/bash shell (used by shrub-shell)
+2026-10-19T04:08:36.579154Z,shrub-coreutils-builtins,0.0.2,0,0,https://github.com/victor-software-house/shrub,Optional coreutils builtins for shrub-shell (powered by uutils/coreutils)
+2026-10-19T04:08:48.027348Z,shrub-experimental-builtins,0.0.2,0,0,https://github.com/victor-software-house/shrub,*EXPERIMENTAL builtins for a POSIX/bash shell (used by shrub-shell)
+2026-10-19T04:10:41.258381Z,shrub-interactive,0.0.2,0,0,https://github.com/victor-software-house/shrub,Interactive layer of shrub-shell
+2026-10-19T04:12:29.612513Z,cpeforge-xml,0.1.0,0,0,https://github.com/alvarez25leo/cpeforge,XML UBL sin firma de comprobantes electrónicos peruanos.
+2026-10-19T04:13:14.764023Z,brokk-bifrost-go-analysis,0.0.0,0,0,https://github.com/BrokkAi/bifrost,Reserved name for an upcoming part of brokk-bifrost; the first real release follows.
