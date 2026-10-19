@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T17:19:19.833848Z,halalfetch,0.1.2,0,0,https://github.com/0xDrakon/HalalFetch,"A blazing-fast, feature-packed, Islamic-themed system information tool for your terminal, and a Rust-powered parody of neofetch."
+2026-10-19T17:19:36.459156Z,manguebyte-ui,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"The Manguebyte user interface: a retained widget tree with layout, parameter gestures, accessibility and a test harness."
+2026-10-19T17:20:39.95502Z,bevy_rsi,0.19.1,0,0,https://codeberg.org/pheenty/bevy-rsi,Bevy plugin for loading Robust Station Image sprites
+2026-10-19T17:22:43.682155Z,styx9p,0.1.0,0,0,https://github.com/pdfinn/styx9p,"Async 9P2000 (Styx) server and client for tokio, faithful to Plan 9 and Inferno: blocking reads, prompt Tflush, per-open file state"
+2026-10-19T17:22:47.762686Z,lcr-core,0.4.0,0,0,https://github.com/TheRincon/lcr-codes,"LCR Code core: geometry, palette, LDPC error correction, framing and masking"
+2026-10-19T17:22:50.075613Z,lcr-cft,0.4.0,0,0,https://github.com/TheRincon/lcr-codes,"CFT, CBOR File Transfer: chunked, hash-verified file transfer over any carrier, LCR Code included"
+2026-10-19T17:22:51.225876Z,lcr-decode,0.4.0,0,0,https://github.com/TheRincon/lcr-codes,"LCR Code decoder: detection, sampling, illumination fit, soft demodulation"
+2026-10-19T17:22:52.403297Z,lcr-render,0.4.0,0,0,https://github.com/TheRincon/lcr-codes,"LCR Code renderers: RGB raster, PNG, compact SVG and one-page GDF"
+2026-10-19T17:22:55.449606Z,lcr-verify,0.4.0,0,0,https://github.com/TheRincon/lcr-codes,"LCR Code signed packets: COSE_Sign1, CWT claims, and offline verification (§10)"
+2026-10-19T17:25:20.316472Z,m-bus-manufacturer,0.5.3,0,0,https://github.com/maebli/m-bus-parser,Allocation-free framework for manufacturer-specific M-Bus decoders
+2026-10-19T17:26:34.177153Z,repo-search-core,0.0.0,0,0,https://github.com/May-Agent/repo-search,"Part of repo-search, repository-local semantic code search for coding agents"
+2026-10-19T17:26:38.954437Z,repo-search-coreml,0.0.0,0,0,https://github.com/May-Agent/repo-search,"Part of repo-search, repository-local semantic code search for coding agents"
+2026-10-19T17:27:54.394978Z,implant-hacks-r-us,0.1.0,0,0,https://github.com/nw-wood/implant-hacks-r-us,Dual-tone auditory matrix and psychoacoustic DSP tools
+2026-10-19T17:32:38.203878Z,manguebyte-vst3,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,Builds VST 3 plugins from the Manguebyte plugin API.
+2026-10-19T17:38:07.116117Z,lcr-encode,0.4.0,0,0,https://github.com/TheRincon/lcr-codes,"LCR Code encoder: framing, compression, ECC, masking, colourisation"
+2026-10-19T17:42:40.504168Z,rustdock-vina,0.2.0,0,0,https://github.com/HFooladi/rustdock-vina,A Rust implementation of AutoDock Vina molecular docking algorithm
+2026-10-19T17:43:42.480569Z,manguebyte-window,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"Platform windows for the Manguebyte user interface: a child window seam, a headless backend for tests and a Win32 backend."
+2026-10-19T17:46:14.568906Z,dob-calc-core,0.1.0,0,0,https://github.com/pa001024/dna-builder,"Duet Night Abyss build calculator core: builds attribute tables from game data, evaluates build expressions, and exposes a C ABI for wasm/cdylib."
+2026-10-19T17:46:48.876149Z,llminate-core,0.1.0,0,0,https://github.com/WillIsback/llminate,"Core client library for llminate — talk to any OpenAI-compatible LLM server (vLLM, SGLang)"
+2026-10-19T17:47:10.133574Z,lcr-cli,0.4.0,0,0,https://github.com/TheRincon/lcr-codes,"The `lcr` command: encode, decode, probe and transfer files as LCR Code symbols"
+2026-10-19T17:47:38.761757Z,llminate,0.1.0,0,0,https://github.com/WillIsback/llminate,"to LLMinate — probe and test any OpenAI-compatible LLM server (vLLM, SGLang)"
+2026-10-19T17:48:51.015643Z,pilercr-rs,0.1.0,0,0,https://github.com/MrTomRod/pilercr-rs,"Rust reimplementation of PILER-CR for CRISPR array detection, with text, JSON, GFF3 and TSV output"
+2026-10-19T17:48:59.013278Z,celox-sv-syntax,0.0.0,0,0,https://github.com/celox-sim/celox,Trusted Publishing bootstrap placeholder for the Celox simulator
+2026-10-19T17:53:02.617937Z,envwrap,0.3.0,0,0,https://github.com/jacek4yang/envwrap,Linux transparent proxy and declared container identity with native application configuration
+2026-10-19T17:55:23.514068Z,manguebyte-gui,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,The glue between Manguebyte's plugin wrappers and its user interface: an editor spec that opens a widget tree in a child window.
+2026-10-19T17:56:11.337116Z,manguebyte-sampler,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"An SFZ sampler for the Manguebyte audio framework: parses SFZ instruments, loads their samples from files or memory and plays them sample-accurately."
+2026-10-19T17:57:34.583067Z,deflect-core,0.1.0,0,0,https://github.com/copyleftdev/deflect-rs,"Core contract for deflect-rs: verdicts, source keys, observations, and clocks."
+2026-10-19T17:57:40.184655Z,deflect-packet,0.1.0,0,0,https://github.com/copyleftdev/deflect-rs,Bounds-checked Ethernet/IPv4/IPv6/TCP/UDP header parsing into a 5-tuple for deflect-rs.
+2026-10-19T17:57:55.280964Z,deflect-ratelimit,0.1.0,0,0,https://github.com/copyleftdev/deflect-rs,Exact integer token-bucket and per-source rate-limiting governors for deflect-rs.
+2026-10-19T17:57:57.416867Z,deflect-detect,0.1.0,0,0,https://github.com/copyleftdev/deflect-rs,Traffic-rate monitoring and attack triggers with hysteresis for deflect-rs.
+2026-10-19T17:57:59.200132Z,deflect-syncookie,0.1.0,0,0,https://github.com/copyleftdev/deflect-rs,"Stateless SYN-cookie issuance and validation for deflect-rs, keyed with SipHash-2-4."
+2026-10-19T18:01:55.465852Z,koetin,0.0.1,0,0,,Koetin: an open-source desktop app for API functional and performance testing (early development)
+2026-10-19T18:01:56.001372Z,deflect-signature,0.1.0,0,0,https://github.com/copyleftdev/deflect-rs,Protocol/port/flag/payload signature matching engine for deflect-rs.
+2026-10-19T18:07:28.02248Z,pgback,0.1.0,0,0,https://github.com/SridharRG/backupforlife,"Fleet orchestration for pgBackRest: Docker label discovery, config sync, scheduling, lifecycle hooks and Slack / Google Chat / email alerting"
+2026-10-19T18:07:35.965977Z,manguebyte-web,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"A Manguebyte engine for the browser: parts with a synth, drum kits, an SFZ sampler or the instruments of manguebyte-dsp through a chain of effects, a master bus with a true-peak limiter, sample-exact…"
+2026-10-19T18:08:48.104863Z,taraba,0.1.0,0,0,https://github.com/mizchi/taraba,Promise-first single-agent Rust/Wasm runtime
+2026-10-19T18:08:56.748895Z,taraba-allocator,0.1.0,0,0,https://github.com/mizchi/taraba,Small single-agent wasm32 allocator for JavaScript hosts
+2026-10-19T18:09:18.818387Z,taraba-helpers,0.1.0,0,0,https://github.com/mizchi/taraba,Opt-in JavaScript builtins for small Rust/Wasm applications
+2026-10-19T18:09:27.163601Z,quat_math,0.3.0,0,0,https://github.com/strahinjastojanovic826-code/quat_math,A high-performance quaternary math library packing 2 bits into a quat with FFI support.
+2026-10-19T18:09:40.094398Z,taraba-cli,0.1.0,0,0,https://github.com/mizchi/taraba,Build Rust/Wasm applications and matching JS glue for taraba
+2026-10-19T18:11:56.643143Z,deflect-reflect,0.1.0,0,0,https://github.com/copyleftdev/deflect-rs,Stateful reflection/amplification defense for deflect-rs: unsolicited amplifier replies.
+2026-10-19T18:13:21.563185Z,cipawebfiltering,1.0.0,0,0,https://github.com/explainableaixai/cipawebfiltering-rust,"Rust client for the CIPA Web Filtering lookup API: web-filtering categories for 100M+ domains, batch lookups of 1,000, and CIPA policy presets for school and library filters"
+2026-10-19T18:15:52.172609Z,oxframe-macros,0.1.0,0,0,https://github.com/oxygenframe/oxframe-sdk,"Procedural macros for oxframe (#[scene], color!, ease!, tune!)"
+2026-10-19T18:15:52.924899Z,oxframe-protocol,0.1.0,0,0,https://github.com/oxygenframe/oxframe-sdk,"Wire protocol and meta.json schema shared by the oxframe engine, CLI and editor"
+2026-10-19T18:15:54.117861Z,oxframe-text,0.1.0,0,0,https://github.com/oxygenframe/oxframe-sdk,"Text layout and glyph outlines for oxframe (parley + skrifa, embedded fonts)"
+2026-10-19T18:15:57.124257Z,oxframe-core,0.1.0,0,0,https://github.com/oxygenframe/oxframe-sdk,"Signals, tweens and a deterministic single-threaded coroutine executor for oxframe"
+2026-10-19T18:15:59.604603Z,oxframe-2d,0.1.0,0,0,https://github.com/oxygenframe/oxframe-sdk,2D scene graph and nodes for oxframe
