@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T11:19:34.982835Z,tauri-plugin-ads,0.1.0-alpha.1,0,0,https://github.com/hoangmirs/tauri-plugins,"Tauri plugin that shows Google Mobile Ads native ads over a page slot, and rewarded ads, on iOS and Android"
+2026-10-19T11:33:15.693122Z,orbbec-v1-bin-x86_64,1.10.37,0,0,https://github.com/gmmyung/orbbec-v1,Precompiled Orbbec SDK v1.10.37 libraries for Linux GNU x86_64
+2026-10-19T11:33:19.009685Z,orbbec-v1-bin-aarch64,1.10.37,0,0,https://github.com/gmmyung/orbbec-v1,Precompiled Orbbec SDK v1.10.37 libraries for Linux GNU aarch64
+2026-10-19T11:33:21.658311Z,orbbec-v1-sys,0.1.0,0,0,https://github.com/gmmyung/orbbec-v1,Raw C bindings for pinned Orbbec SDK v1.10.37 on Linux
+2026-10-19T11:33:24.199823Z,orbbec-v1,0.1.0,0,0,https://github.com/gmmyung/orbbec-v1,Small synchronous Rust wrapper for legacy Orbbec cameras using SDK v1
+2026-10-19T11:34:09.215163Z,orbbec-v1-viewer,0.1.0,0,0,https://github.com/gmmyung/orbbec-v1,"Simple egui depth, RGB, and infrared viewer for Orbbec SDK v1"
+2026-10-19T11:38:30.388488Z,tpt-math-pde-operators,0.2.0,0,0,https://github.com/tpt-solutions/tpt-math,"Discrete gradient, divergence, Laplacian and central-difference operators on structured grids, with structural contracts (adjointness, discrete conservation, sign of the Laplacian) checked in debug b…"
+2026-10-19T11:39:11.739225Z,uuid_macros,0.1.0,0,0,https://github.com/jameshuntt/uuid_macros,"Macros for strongly typed UUID ids: a newtype per kind of id, random (v4) and name-based (v5) constructors, Display, FromStr and optional serde"
+2026-10-19T11:39:26.94409Z,chrono_macros,0.1.0,0,0,https://github.com/jameshuntt/chrono_macros,"Macros for strongly typed chrono wrappers (a UTC timestamp or a duration per kind), with helpers for expiry, deadlines and durations"
+2026-10-19T11:40:37.758381Z,tpt-math,0.1.0,0,0,https://github.com/tpt-solutions/tpt-math,"Facade: one dependency for the tpt-math numeric substrate, with short feature names and a prelude."
+2026-10-19T11:43:50.060699Z,map-or-original,0.1.0,0,0,https://github.com/Sup2point0/map-or-original,Transform a value or fallback to the original
+2026-10-19T11:45:26.347882Z,bevy_geotilemap,0.1.0,0,0,https://github.com/invap/bevy_geotilemap,GeoTilemap crate for the Bevy game-engine to render slippy tile maps.
+2026-10-19T11:47:51.529401Z,ashlar,0.1.0,0,0,https://github.com/ashlar-display/ashlar,"A display connection stack in Rust: EDID parsing, HDMI 2.1 mode negotiation, InfoFrames, SCDC and FRL link training"
+2026-10-19T11:48:11.891905Z,listen-fire-parser,0.12.0-rc.2,0,0,https://github.com/listen-fire/listen-fire,"The listen-fire movement language parser: source to AST, expression lowering and the catalog snapshot"
+2026-10-19T11:49:39.786064Z,listen-fire-checker,0.12.0-rc.2,0,0,https://github.com/listen-fire/listen-fire,"The listen-fire movement language checker: diagnostics, types and import links for a parsed movement"
+2026-10-19T11:49:42.132012Z,leptos_aria_accordion,0.0.0,0,0,,Components for the leptos_aria component library
+2026-10-19T11:49:45.434407Z,leptos_aria_breadcrumbs,0.0.0,0,0,,Components for the leptos_aria component library
+2026-10-19T11:49:54.154337Z,leptos_aria_calendar,0.0.0,0,0,,Components for the leptos_aria component library
+2026-10-19T11:50:05.03601Z,leptos_aria_checkbox,0.0.0,0,0,,Components for the leptos_aria component library
+2026-10-19T11:50:13.473905Z,leptos_aria_cli,0.0.0,0,0,,The leptos_aria component registry CLI
+2026-10-19T11:50:19.491951Z,utilvo-pdf-merger,1.0.1,0,0,https://github.com/utilvo/utilvo-pdf-merger,"Lightweight library for inspecting PDF binary headers, counting pages, validating xref tables, and merging multiple PDF byte streams."
+2026-10-19T11:51:06.837135Z,mcp-io,0.2.0,0,0,https://github.com/jamesgober/mcp-io,"Model Context Protocol server framework: stateless MCP 2026-07-28 with a 2025-11-25 fallback, a tool registry with validated JSON Schema input, permission tiers, and a stdio transport over rpc-io."
+2026-10-19T11:51:17.59148Z,listen-fire-engine,0.12.0-rc.2,0,0,https://github.com/listen-fire/listen-fire,"The listen-fire movement engine: runs a checked movement against a host you supply, natively or over WASM"
+2026-10-19T11:51:52.390733Z,leakscope-capture,0.2.0-rc.1,0,0,https://github.com/polsala/LeakScope,Streaming checksummed compressed LeakScope capture reader and writer
+2026-10-19T11:51:54.187086Z,leakscope-common,0.2.0-rc.1,0,0,https://github.com/polsala/LeakScope,Stable Linux process identities shared by LeakScope components
+2026-10-19T11:51:55.702182Z,leakscope-protocol,0.2.0-rc.1,0,0,https://github.com/polsala/LeakScope,Bounded versioned local sensor framing for LeakScope
+2026-10-19T11:51:57.405934Z,leakscope-symbolizer,0.2.0-rc.1,0,0,https://github.com/polsala/LeakScope,ELF and DWARF native stack attribution for Linux processes
+2026-10-19T11:51:58.940061Z,leakscope-analyzer,0.2.0-rc.1,0,0,https://github.com/polsala/LeakScope,Quality-aware observed allocation lifecycle and memory growth analysis
+2026-10-19T11:52:11.273475Z,strings2,0.1.1,0,0,https://github.com/ZEROLINGG/strings2,SIMD-accelerated multi-encoding strings extractor
+2026-10-19T11:52:16.305503Z,listen-fire-language,0.12.0-rc.2,0,0,https://github.com/listen-fire/listen-fire,"The listen-fire movement language service: completion, hover, definitions, diagnostics and fixes answered from the checker's own results"
+2026-10-19T11:53:46.27994Z,listen-fire,0.12.0-rc.2,0,0,https://github.com/listen-fire/listen-fire,"listen-fire: the movement language's parser, checker and engine, and the `lf` command that runs movements locally"
+2026-10-19T11:54:48.936832Z,norte-macros,0.0.1,0,0,https://github.com/JeanVydes/Norte,"Attribute macros that turn plain Rust functions into typed, schema-described tools"
+2026-10-19T11:54:51.530803Z,norte-core,0.0.1,0,0,https://github.com/JeanVydes/Norte,"Durable sessions, history reconstruction and a provider-agnostic streaming engine for AI agents"
+2026-10-19T11:54:53.920255Z,norte-http,0.0.1,0,0,https://github.com/JeanVydes/Norte,"HTTP transport for AI provider clients: vendor profiles, auth schemes, retry policy and SSE decoding"
+2026-10-19T11:54:54.423822Z,norte-mcp,0.0.1,0,0,https://github.com/JeanVydes/Norte,"Model Context Protocol client and server: remote tools, resources and prompts as first-class tools"
+2026-10-19T11:54:57.062528Z,norte-media,0.0.1,0,0,https://github.com/JeanVydes/Norte,"Image preprocessing and media handling for model inputs: limits, formats and attachments"
+2026-10-19T12:00:28.339833Z,behavior-machines-circuit,0.1.0,0,0,https://github.com/seuros/behavior-machines,Compiles a behavior-machines tree into a branchless arithmetic circuit: one layered sparse matmul per tick instead of a recursive tree walk
+2026-10-19T12:00:51.741711Z,blaze3d,0.1.0,0,0,https://github.com/Safery472/blaze3d,"wgpu-based 3D rendering library for Rust, targeting Minecraft-style voxel scenes: cameras, meshes, textures, shadows, post-processing and GPU readback."
+2026-10-19T12:05:01.020526Z,norte-tools,0.0.1,0,0,https://github.com/JeanVydes/Norte,"The host tools an agent needs on disk: read, write, edit and run commands, bounded and audited"
+2026-10-19T12:08:57.455299Z,rig-to-mcap,0.2.0,0,0,,"Convert rig recordings (side-by-side stereo + mono H.264 MKVs, IMU/magnetometer CSVs, ZXCZ calibration) to MCAP: as recorded, or with stereo visual odometry"
+2026-10-19T12:14:56.800681Z,leakscope-procfs,0.2.0-rc.1,0,0,https://github.com/polsala/LeakScope,Linux procfs discovery and process memory measurements
+2026-10-19T12:14:57.363887Z,leakscope-sensor,0.2.0-rc.1,0,0,https://github.com/polsala/LeakScope,Bounded Linux process sensor with opt-in native allocation tracing
+2026-10-19T12:15:03.494871Z,norte-anthropic,0.0.1,0,0,https://github.com/JeanVydes/Norte,"Anthropic client: the Messages API with streaming, tool use, citations and prompt caching"
+2026-10-19T12:15:43.655347Z,shadewire-mdl,0.3.0,0,0,https://github.com/rdeioris/shadewire,"NVIDIA MDL reader and writer for Shadewire: MDL modules to the IR, and the IR as a self-contained MDL module"
+2026-10-19T12:20:17.74884Z,epicenter-cli,0.0.1,0,0,https://github.com/TheAnalist/epicenter,"The state layer for Cargo builds: shared cache, durable vault, per-job dirs"
