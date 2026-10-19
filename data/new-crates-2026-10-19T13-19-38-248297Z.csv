@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T12:25:15.330216Z,norte-gemini,0.0.1,0,0,https://github.com/JeanVydes/Norte,"Google Gemini client: generateContent with streaming, function calls, safety ratings and cached content"
+2026-10-19T12:27:01.26394Z,mdr14,0.1.0,0,0,https://codeberg.org/ezmusic/mdr14,Measure the pleasure of your music in everyone's favourite language
+2026-10-19T12:27:03.932606Z,concrete-calculator-benchmark,0.1.0,0,0,https://github.com/tresor4k/concrete-calculator-benchmark,"The 6 input cases and reference volumes (cu ft, cu yd) of the TakeoffMetric concrete calculator benchmark, with a runner to check a volume function against them."
+2026-10-19T12:27:22.696715Z,hush-env,0.4.1,0,0,https://github.com/pinkpixel-dev/hush,"Encrypted, local-first replacement for .env files"
+2026-10-19T12:34:45.102858Z,leptos_aria_date,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T12:35:11.339889Z,norte-openai,0.0.1,0,0,https://github.com/JeanVydes/Norte,"OpenAI client: the Responses and Chat Completions APIs with streaming, tool calls and reasoning"
+2026-10-19T12:36:56.727386Z,leptos_aria_form,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T12:38:21.520402Z,leptos_aria_primitives,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T12:39:38.096949Z,leptos_aria_selection,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T12:39:55.780939Z,leptos_aria_slider,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T12:45:11.145451Z,norte-testing,0.0.1,0,0,https://github.com/JeanVydes/Norte,"Scripted models, fixture replay and conformance suites for testing AI agent code"
+2026-10-19T12:45:39.573158Z,bynk-std,0.371.3,0,0,https://github.com/bynk-lang/bynk,"The Bynk standard library's first-party sources as data: the `bynk` surface, the Bynk-written commons, the `bynk.cloudflare` platform adapter, and their per-platform TypeScript bindings."
+2026-10-19T12:52:11.010169Z,leptos_aria_table,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T12:53:38.490827Z,dumb,0.1.0,0,0,https://github.com/m0rphism/dumb,An interactive TUI version of the standard unix du program.
+2026-10-19T13:01:09.850591Z,changelog-merge,0.1.0,0,0,https://github.com/cachix/changelog-merge,Source-preserving semantic three-way merging for Keep a Changelog
+2026-10-19T13:03:09.997126Z,rostfrei-domain-macros,0.1.1,0,0,https://github.com/elbLabs/rostfrei,Procedural macros for Rostfrei domain declarations
+2026-10-19T13:03:10.539663Z,rostfrei-messaging-core,0.1.1,0,0,https://github.com/elbLabs/rostfrei,"Typed message envelopes, routing, and messaging contracts for Rostfrei"
+2026-10-19T13:03:11.443031Z,rostfrei-structure,0.1.1,0,0,https://github.com/elbLabs/rostfrei,"Domain structure checks, scaffolding, and agent tooling for Rostfrei"
+2026-10-19T13:03:14.559046Z,rostfrei-core,0.1.1,0,0,https://github.com/elbLabs/rostfrei,Event-sourced aggregate execution and coordinated command outcomes for Rostfrei
+2026-10-19T13:03:15.427558Z,rostfrei-domain,0.1.1,0,0,https://github.com/elbLabs/rostfrei,Business domain declarations and bounded-context modules for Rostfrei
+2026-10-19T13:03:22.406859Z,denoshim,0.1.0,0,0,https://gitlab.com/smartlab-solutions/denoshim,"Embed Deno's JavaScript/TypeScript engine in Rust servers. A maintained replacement for rustyscript, by SmartLab Solutions."
+2026-10-19T13:03:53.681003Z,leptos_aria_time_field,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T13:04:27.550167Z,teamy-facet-csv,0.50.0-rc.7,0,0,https://github.com/TeamDman/facet-format,TeamDman-maintained fork of facet-csv: CSV serialization for facet using the new format architecture
+2026-10-19T13:04:40.196506Z,clawsh-tui,1.0.0,0,0,https://github.com/pinkpixel-dev/clawsh,"Claw$h, a ratatui workspace shell for Claude Code sessions"
+2026-10-19T13:09:13.044702Z,leptos_aria_overlay,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Overlay components for the leptos_aria component library
+2026-10-19T13:13:23.26828Z,rostfrei-registry,0.1.1,0,0,https://github.com/elbLabs/rostfrei,Runtime metadata registry for Rostfrei bounded contexts and handlers
+2026-10-19T13:14:59.742165Z,fonderie,0.0.1,0,0,https://github.com/evoluptik/fonderie,"Opinionated, batteries-included web framework on top of Axum, inspired by Laravel"
+2026-10-19T13:16:35.509469Z,trev-h3,0.1.0,0,0,https://github.com/spotdemo4/h3,An async HTTP/3 implementation. Fork of h3 with WebTransport fixes.
+2026-10-19T13:16:39.329689Z,trev-h3-datagram,0.1.0,0,0,https://github.com/spotdemo4/h3,rfc9297 extension for the h3 crate. Fork of h3-datagram for trev-h3.
+2026-10-19T13:16:45.089183Z,trev-h3-quinn,0.1.0,0,0,https://github.com/spotdemo4/h3,QUIC transport implementation based on Quinn. Fork of h3-quinn for trev-h3.
+2026-10-19T13:16:49.392339Z,trev-h3-webtransport,0.1.0,0,0,https://github.com/spotdemo4/h3,webtransport extension for h3. Fork of h3-webtransport for trev-h3.
