@@ -8,40 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 23:20 UTC
+## Latest list — 2026-10-19 00:21 UTC
 
-New crates published between 2026-10-18 22:20 UTC and 2026-10-18 23:20 UTC.
+New crates published between 2026-10-18 23:20 UTC and 2026-10-19 00:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-18T23-20-08-074932Z.csv)
+[Full CSV](data/new-crates-2026-10-19T00-21-34-546692Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-18 22:23:21 | [hennery-gateway](https://crates.io/crates/hennery-gateway) | 0.1.3 | 0 | MCP gateway for the hennery ACP cockpit |
-| 2026-10-18 22:23:22 | [hennery-sessions](https://crates.io/crates/hennery-sessions) | 0.1.3 | 0 | Session orchestration for the hennery ACP cockpit |
-| 2026-10-18 22:23:22 | [clove-import-tk](https://crates.io/crates/clove-import-tk) | 0.1.5 | 0 | clove plugin: import items from a tk .tickets/ directory (clove import tk) |
-| 2026-10-18 22:23:23 | [hennery](https://crates.io/crates/hennery) | 0.1.3 | 0 | Self-hosted cockpit for ACP coding agents |
-| 2026-10-18 22:33:45 | [clove-import-beads](https://crates.io/crates/clove-import-beads) | 0.1.5 | 0 | clove plugin: import items from a Beads issues.jsonl (clove import beads) |
-| 2026-10-18 22:40:42 | [lunar-dotnet-host](https://crates.io/crates/lunar-dotnet-host) | 0.2.0 | 0 | embed the .NET CoreCLR runtime in a Rust process via hostfxr |
-| 2026-10-18 22:40:46 | [lunar-gltf](https://crates.io/crates/lunar-gltf) | 0.2.0 | 0 | glTF 2.0 / GLB reader producing neutral geometry, skin and material data for lu… |
-| 2026-10-18 22:40:53 | [lunar-audio](https://crates.io/crates/lunar-audio) | 0.2.0 | 0 | audio system: AudioSource trait, mixer, symphonia decoding, sdl3 native + emscr… |
-| 2026-10-18 22:41:44 | [legume-tui](https://crates.io/crates/legume-tui) | 0.2.0 | 0 | Detachable terminal sessions and the shared terminal UI of the legume tools: im… |
-| 2026-10-18 22:44:26 | [clove-cli](https://crates.io/crates/clove-cli) | 0.1.5 | 0 | clove: a fast, git-native, dependency-aware work-item tracker |
-| 2026-10-18 22:49:34 | [zfsctl](https://crates.io/crates/zfsctl) | 0.0.1 | 0 | Placeholder: a terminal UI and daemon for managing ZFS on FreeBSD, Linux and il… |
-| 2026-10-18 22:56:45 | [plain-evm](https://crates.io/crates/plain-evm) | 0.3.2 | 0 | Compile, test and deploy EVM smart contracts with a single binary that needs no… |
-| 2026-10-18 22:57:49 | [aor](https://crates.io/crates/aor) | 0.1.0 | 0 | AgentOps-Runtime core contracts: gate descriptor, enforcement profiles, events,… |
-| 2026-10-18 22:58:59 | [aor-close](https://crates.io/crates/aor-close) | 0.1.0 | 0 | AgentOps-Runtime gate: Close-Gate. |
-| 2026-10-18 22:59:05 | [aor-decision](https://crates.io/crates/aor-decision) | 0.1.0 | 0 | AgentOps-Runtime gate: Decision-Memo. |
-| 2026-10-18 22:59:12 | [aor-dispatch](https://crates.io/crates/aor-dispatch) | 0.1.0 | 0 | AgentOps-Runtime gate: Dispatch-Gate. |
-| 2026-10-18 22:59:17 | [aor-handoff](https://crates.io/crates/aor-handoff) | 0.1.0 | 0 | AgentOps-Runtime gate: Handoff-Protocol. |
-| 2026-10-18 23:04:34 | [aor-payload](https://crates.io/crates/aor-payload) | 0.1.0 | 0 | AgentOps-Runtime gate: Payload-Gate. |
-| 2026-10-18 23:10:19 | [sltop](https://crates.io/crates/sltop) | 0.2.0 | 0 | Lightweight real-time terminal system monitor for Linux by Scoppiato LAB. |
-| 2026-10-18 23:15:37 | [aor-store](https://crates.io/crates/aor-store) | 0.1.0 | 0 | AgentOps-Runtime store: production SQLite implementation of the aor::Store cont… |
-| 2026-10-18 23:15:52 | [rs-redb2keys2strings](https://crates.io/crates/rs-redb2keys2strings) | 0.1.0 | 0 | Fetch values from redb database using stdin keys |
-| 2026-10-18 23:17:05 | [hereticus-il](https://crates.io/crates/hereticus-il) | 0.1.0 | 0 | Decode and lift ARM, Thumb-2, AArch64 and MIPS instructions to a small IL |
-| 2026-10-18 23:17:06 | [hereticus-memory](https://crates.io/crates/hereticus-memory) | 0.1.0 | 0 | Address space management for binary analysis |
-| 2026-10-18 23:17:06 | [hereticus-unpack](https://crates.io/crates/hereticus-unpack) | 0.1.0 | 0 | Unpack firmware containers and images |
-| 2026-10-18 23:17:08 | [hereticus-recovery](https://crates.io/crates/hereticus-recovery) | 0.1.0 | 0 | Recover function boundaries from stripped binaries |
-| 2026-10-18 23:17:10 | [hereticus-arch](https://crates.io/crates/hereticus-arch) | 0.1.0 | 0 | The architecture-specific rules that the matching of functions reads |
+| 2026-10-18 23:24:19 | [aor-verify](https://crates.io/crates/aor-verify) | 0.1.0 | 0 | AgentOps-Runtime gate: Verify-Budget. |
+| 2026-10-18 23:29:39 | [hereticus-image](https://crates.io/crates/hereticus-image) | 0.1.0 | 0 | Parse binary files and raw images |
+| 2026-10-18 23:34:10 | [illusion-addon-api](https://crates.io/crates/illusion-addon-api) | 0.1.0 | 0 | The add-on contract: manifest, the Addon and Host traits, scene ops and view tr… |
+| 2026-10-18 23:34:12 | [illusion-addon-sdk](https://crates.io/crates/illusion-addon-sdk) | 0.1.0 | 0 | Write Illusion add-ons in Rust: the guest side of the add-on contract, compiled… |
+| 2026-10-18 23:34:41 | [aor-wait](https://crates.io/crates/aor-wait) | 0.1.0 | 0 | AgentOps-Runtime gate: Wait discipline. |
+| 2026-10-18 23:37:56 | [steam-cryptography](https://crates.io/crates/steam-cryptography) | 0.1.0 | 0 | Cryptography of the Steam CM protocol: the channel handshake and AES-256 packet… |
+| 2026-10-18 23:39:04 | [steam-client-lib](https://crates.io/crates/steam-client-lib) | 0.1.0 | 0 | Steam client over the CM protocol: logon with tokens, events, service calls and… |
+| 2026-10-18 23:43:25 | [wend](https://crates.io/crates/wend) | 0.0.1 | 0 | A terminal text editor built for speed of movement: one buffer, no splits, wayp… |
+| 2026-10-18 23:43:27 | [tokeira-dagger-sdk-macros](https://crates.io/crates/tokeira-dagger-sdk-macros) | 0.1.0 | 0 | Authoring macros for the Rust SDK for Dagger, maintained by Tokeira. Not affili… |
+| 2026-10-18 23:43:51 | [tokeira-dagger-sdk](https://crates.io/crates/tokeira-dagger-sdk) | 0.1.0 | 0 | Rust SDK for Dagger, maintained by Tokeira. Not affiliated with Dagger, Inc. |
+| 2026-10-18 23:44:41 | [aor-resource](https://crates.io/crates/aor-resource) | 0.1.0 | 0 | AgentOps-Runtime gate: Resource-Registry. |
+| 2026-10-18 23:49:42 | [buffoonery](https://crates.io/crates/buffoonery) | 0.0.1 | 0 | A Balatro-style card engine and solver foundation, built on cardpack |
+| 2026-10-18 23:54:06 | [nu_plugin_vulkan_matrix](https://crates.io/crates/nu_plugin_vulkan_matrix) | 0.1.1 | 0 | GPU matrix operations for Nushell using Vulkan |
+| 2026-10-18 23:55:32 | [rpi-btw](https://crates.io/crates/rpi-btw) | 0.1.0 | 0 | Ask a read-only side question without interrupting or adding to the main rpi co… |
+| 2026-10-18 23:56:00 | [pelicode-core](https://crates.io/crates/pelicode-core) | 0.1.0 | 0 | Function extraction, normalization and fingerprinting of source code with Tree-… |
+| 2026-10-18 23:56:02 | [pelicode-db](https://crates.io/crates/pelicode-db) | 0.1.0 | 0 | SQLite storage of function fingerprints and provenance for pelicode |
+| 2026-10-18 23:56:05 | [pelicode-crawl](https://crates.io/crates/pelicode-crawl) | 0.1.0 | 0 | Crawler fetching package sources from PyPI, Maven Central, the Go module proxy,… |
+| 2026-10-18 23:56:06 | [pelicode-detect](https://crates.io/crates/pelicode-detect) | 0.1.0 | 0 | Search for functions similar to known open-source code, for pelicode |
+| 2026-10-18 23:56:08 | [pelicode-cli](https://crates.io/crates/pelicode-cli) | 0.1.0 | 0 | Know where your code came from: finds code similar to published open-source pac… |
+| 2026-10-18 23:56:08 | [ci-bill](https://crates.io/crates/ci-bill) | 0.1.0 | 0 | Rank GitHub Actions cost per workflow from the billing usage CSV and point to l… |
+| 2026-10-18 23:56:12 | [aor-migrate](https://crates.io/crates/aor-migrate) | 0.1.0 | 0 | AgentOps-Runtime tooling: one-time import and parity checks for absorbing exter… |
+| 2026-10-19 00:01:35 | [necromat](https://crates.io/crates/necromat) | 0.1.0 | 0 | NECROTIC MATHEMATICS: a TUI calculator |
+| 2026-10-19 00:03:47 | [zerodev-kora](https://crates.io/crates/zerodev-kora) | 3.1.1 | 0 | Official Rust SDK for Kora licensing |
+| 2026-10-19 00:04:43 | [aor-runtime](https://crates.io/crates/aor-runtime) | 0.1.0 | 0 | AgentOps-Runtime assembly: registers every aor-<gate> crate, drives observe/swe… |
+| 2026-10-19 00:15:34 | [trendkit](https://crates.io/crates/trendkit) | 0.3.0 | 0 | Dev-trend crawler CLI: snapshot collectors, velocity report, personal ranking |
+| 2026-10-19 00:15:35 | [virtual-agent](https://crates.io/crates/virtual-agent) | 0.1.0 | 0 | Virtual Agent — the user-facing profile-management facade over awp: where profi… |
 
 ## Data source
 
