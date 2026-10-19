@@ -1,0 +1,66 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T14:19:02.349903Z,kage-client,0.0.0,0,0,https://github.com/QaidVoid/kage,"Sans-IO Agent Client Protocol client: frames in, state changes out."
+2026-10-19T14:19:09.178569Z,kage-desktop,0.0.0,0,0,https://github.com/QaidVoid/kage,The kage desktop and browser client.
+2026-10-19T14:22:27.515555Z,leptos_aria_combo_box,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T14:23:03.085905Z,ferroui-reactiveui-controls,0.3.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The integration of ReactiveUI with FerroUI: the scheduler of the dispatcher, property observation and command binding for FerroUI objects, activation, the reactive views and view hosts, the data-temp…"
+2026-10-19T14:27:46.764419Z,rostfrei-nats,0.1.1,0,0,https://github.com/elbLabs/rostfrei,"NATS JetStream adapters for Rostfrei messaging, event stores, and read models"
+2026-10-19T14:29:16.173195Z,leptos_aria_drop_zone,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T14:29:20.876772Z,clocrap,0.1.0,0,0,https://github.com/posix4e/clocrap,"Count lines by language and score functions by CRAP, in one fast binary"
+2026-10-19T14:29:39.067165Z,kernix-ops,0.3.0,0,0,https://github.com/moderubias/kernix,Linear algebra and tensor operations for Kernix.
+2026-10-19T14:30:01.335123Z,tambo,0.3.4,0,0,https://github.com/scbrown/tambo,Install and prove the whole AI knowledge-tool kit
+2026-10-19T14:30:11.352304Z,yupana,0.13.0,0,0,https://github.com/scbrown/yupana,"In-memory, multi-tenant code-analysis engine — the structural signal for the Bobbin × Quipu stack"
+2026-10-19T14:30:26.614653Z,seeds-ai,0.4.2,0,0,https://github.com/scbrown/seeds,A beads-compatible issue tracker for AI agents that stores work items as facts in a quipu knowledge graph
+2026-10-19T14:34:06.457972Z,ferroui-reactiveui-testing,0.3.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"A port of ReactiveUI.Testing for ferroui-reactiveui: running code with test schedulers, the builders of test data and the helpers of tests of view models"
+2026-10-19T14:37:12.170777Z,whosthatpokemon,1.0.1,0,0,https://github.com/cmeister2/whosthatpokemon,Recognise trading cards in images with ranked matches and confidence scores
+2026-10-19T14:37:39.775748Z,just-tui,0.6.0,0,0,https://github.com/4less/just-tui,"A file-explorer style browser for just recipes, with Slurm submission and a job browser"
+2026-10-19T14:37:44.97033Z,tari_state_tree,0.47.0,0,0,https://github.com/tari-project/tari-ootle,Sharded state trees and validator set trees for Tari Ootle
+2026-10-19T14:38:18.758586Z,rostfrei-tracer,0.1.1,0,0,https://github.com/elbLabs/rostfrei,"Application-linked diagnostics, observation, and behavioral testing for Rostfrei"
+2026-10-19T14:39:16.841312Z,flockr,0.0.0,0,0,https://github.com/flockr-sh/flockr,Terminal workspace for running many coding agents. This crate holds the name; install flockr from GitHub releases.
+2026-10-19T14:39:23.940458Z,densa-alloc,0.1.0,0,0,https://github.com/densa-rs/densa,Per-thread counting global allocator for proving that hot paths allocate nothing
+2026-10-19T14:39:26.748411Z,densa-core,0.1.0,0,0,https://github.com/densa-rs/densa,"Primitive types shared by every densa crate: Color, Point, Rect"
+2026-10-19T14:39:32.624215Z,densa-text,0.1.0,0,0,https://github.com/densa-rs/densa,"Text for densa: font loading, glyph rasterization and a growable, allocation-free glyph atlas cache"
+2026-10-19T14:39:38.537106Z,densa-draw,0.1.0,0,0,https://github.com/densa-rs/densa,GPU-independent display list for densa: a Canvas that batches rectangles and glyphs into instances
+2026-10-19T14:39:41.488914Z,leptos_aria_file_trigger,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T14:39:42.730855Z,densa-fmt,0.1.0,0,0,https://github.com/densa-rs/densa,Allocation-free number formatting into fixed-capacity stack buffers
+2026-10-19T14:41:58.159064Z,tari_ootle_storage,0.47.0,0,0,https://github.com/tari-project/tari-ootle,"Consensus models, state store traits and proof verification for Tari Ootle"
+2026-10-19T14:42:59.822798Z,tari_ootle_light_client,0.1.0,0,0,https://github.com/tari-project/tari-ootle,Verifies Tari Ootle indexer responses against the validator set handover chain
+2026-10-19T14:43:21.515296Z,metal-oxide-artifact,0.1.0-alpha0,0,0,https://github.com/rust-dd/metal-oxide,Versioned kernel ABI and Metal artifact validation
+2026-10-19T14:43:22.026676Z,metal-oxide-macros,0.1.0-alpha0,0,0,https://github.com/rust-dd/metal-oxide,Kernel entrypoint marker for metal-oxide
+2026-10-19T14:43:24.198594Z,metal-oxide-build,0.1.0-alpha0,0,0,https://github.com/rust-dd/metal-oxide,Builds metal-oxide kernel artifacts for the kernel macros and cargo-metal
+2026-10-19T14:43:24.810066Z,metal-oxide-device,0.1.0-alpha0,0,0,https://github.com/rust-dd/metal-oxide,Device buffers and thread builtins for Metal kernels
+2026-10-19T14:43:25.673345Z,metal-oxide-ir,0.1.0-alpha0,0,0,https://github.com/rust-dd/metal-oxide,Typed kernel IR independent of rustc
+2026-10-19T14:44:52.594372Z,draw-rs,0.1.2,0,0,https://github.com/reekta92/draw-rs,Reusable terminal drawing engine and standalone drawing application
+2026-10-19T14:46:10.149658Z,cleat-il2cpp,0.1.0,0,0,https://github.com/jhq223/cleat,IL2CPP runtime bindings and metadata support for cleat
+2026-10-19T14:46:44.260718Z,metal-oxide-codegen,0.1.0-alpha0,0,0,https://github.com/rust-dd/metal-oxide,Structured Metal Shading Language generation
+2026-10-19T14:50:17.402435Z,org-eclipse-elk-alg-graphviz-dot,0.11.0,0,0,https://github.com/openedges/elk-rs,"Graphviz DOT language model and serialization of the Eclipse Layout Kernel, ported to pure Rust"
+2026-10-19T14:50:17.859876Z,org-eclipse-elk-graph,0.11.0,0,0,https://github.com/openedges/elk-rs,"ElkGraph data model of the Eclipse Layout Kernel (ELK), ported to pure Rust"
+2026-10-19T14:50:19.945431Z,org-eclipse-elk-core,0.11.0,0,0,https://github.com/openedges/elk-rs,"Core layout engine of the Eclipse Layout Kernel (ELK): layout options, algorithm registry and recursive layout, ported to pure Rust"
+2026-10-19T14:50:21.44791Z,densa-chart,0.1.0,0,0,https://github.com/densa-rs/densa,"Charts for densa: time series, candlesticks and volume over your own data, drawn without allocating"
+2026-10-19T14:50:22.708862Z,org-eclipse-elk-alg-common,0.11.0,0,0,https://github.com/openedges/elk-rs,"Shared algorithm utilities of the Eclipse Layout Kernel (ELK): node sizing, spacing, compaction and polyomino packing, ported to pure Rust"
+2026-10-19T14:50:23.815789Z,org-eclipse-elk-alg-topdownpacking,0.11.0,0,0,https://github.com/openedges/elk-rs,"ELK Top-down Packing layout algorithm of the Eclipse Layout Kernel, ported to pure Rust"
+2026-10-19T14:51:37.835669Z,unpushed,0.2.1,0,0,https://github.com/pie-ai/unpushed,Overview of unpushed commits across many git checkouts
+2026-10-19T14:55:48.118916Z,leptos_aria_grid,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T14:55:51.233438Z,metal-oxide-kernels,0.1.0-alpha0,0,0,https://github.com/rust-dd/metal-oxide,Compiles Metal kernels written in a host crate and generates their launch functions
+2026-10-19T14:56:00.124226Z,norte,0.0.1,0,0,https://github.com/JeanVydes/Norte,"Build AI agents in Rust: durable sessions, streaming, tools and adapters for OpenAI, Anthropic and Gemini"
+2026-10-19T14:58:50.783458Z,ferrohealth-smart,0.0.0,0,0,https://github.com/FerroHEALTH/FerroSMART,Reserved: the shared SMART App Launch and OAuth 2.0 resource-server crate of the FerroHEALTH family. The first release follows.
+2026-10-19T14:58:59.800563Z,org-eclipse-elk-alg-disco,0.11.0,0,0,https://github.com/openedges/elk-rs,"ELK DisCo connected components layout algorithm of the Eclipse Layout Kernel, ported to pure Rust"
+2026-10-19T14:59:02.843457Z,medical-markdown,0.1.0,0,0,,A markdown-it plugin for clinical note-taking with structured data extraction
+2026-10-19T14:59:11.730201Z,leptos_aria_text_field,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T14:59:21.834126Z,meerschaum-core,5.0.0-rc.1,0,0,https://github.com/bmeares/Meerschaum,"Internal crate of Meerschaum: pipes, parameters, the config registry, the dtype vocabulary and Python-compatible helpers"
+2026-10-19T14:59:24.039335Z,meerschaum-compose,5.0.0-rc.1,0,0,https://github.com/bmeares/Meerschaum,"Internal crate of Meerschaum: Meerschaum Compose, the declarative mrsm-compose.yaml project model and runner"
+2026-10-19T14:59:24.594805Z,meerschaum-jobs,5.0.0-rc.1,0,0,https://github.com/bmeares/Meerschaum,"Internal crate of Meerschaum: job supervision (daemons, schedules, laps, local, systemd and remote executors)"
+2026-10-19T14:59:25.405404Z,meerschaum-kernel,5.0.0-rc.1,0,0,https://github.com/bmeares/Meerschaum,"Internal crate of Meerschaum: the Arrow/Polars data kernel (dtype enforcement, unseen-row diffs, special columns)"
+2026-10-19T14:59:26.939374Z,meerschaum-connector,5.0.0-rc.1,0,0,https://github.com/bmeares/Meerschaum,Internal crate of Meerschaum: the Connector and InstanceConnector traits shared by every instance connector and the engine
+2026-10-19T15:00:41.787308Z,hx-registry,0.10.0,0,0,https://github.com/arcanist-sh/hx,Client for hx package registries (arcanist.sh registry)
+2026-10-19T15:01:03.257528Z,densa-data,0.1.0,0,0,https://github.com/densa-rs/densa,"Live Arrow tables for densa: keyed upserts, sorted and filtered views and grouped aggregates kept up to date incrementally"
+2026-10-19T15:02:32.785425Z,vibe-coding-analytics,0.3.0,0,0,https://github.com/PaceFlow/ai-engineering-analytics,Vibe Coding Analytics: local-first analytics for agent-assisted engineering.
+2026-10-19T15:03:55.522506Z,maneuver,0.1.0,0,0,https://github.com/MuntasirSZN/maneuver,Generate structured man pages
+2026-10-19T15:05:54.611501Z,metal-oxide,0.1.0-alpha0,0,0,https://github.com/rust-dd/metal-oxide,Metal compute runtime for Rust
+2026-10-19T15:08:50.665857Z,air-tight-core,0.1.0,0,0,https://github.com/Salman-Sali/air-tight,"Core traits, types and condition tree for air-tight"
+2026-10-19T15:08:53.563367Z,air-tight-macros,0.1.0,0,0,https://github.com/Salman-Sali/air-tight,Procedural macros for air-tight
+2026-10-19T15:09:03.846504Z,air-tight,0.1.0,0,0,https://github.com/Salman-Sali/air-tight,Authorization for axum with Postgres-backed grants
+2026-10-19T15:09:49.825466Z,meerschaum-connector-sql,5.0.0-rc.1,0,0,https://github.com/bmeares/Meerschaum,"Internal crate of Meerschaum: the SQL connector (PostgreSQL, MySQL, SQLite, MSSQL, DuckDB, Oracle) with per-flavor query builders"
+2026-10-19T15:10:37.79126Z,org-eclipse-elk-alg-force,0.11.0,0,0,https://github.com/openedges/elk-rs,"ELK Force and Stress layout algorithms of the Eclipse Layout Kernel, ported to pure Rust"
+2026-10-19T15:10:55.670879Z,leptos_aria_color,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T15:11:42.138704Z,densa-grid,0.1.0,0,0,https://github.com/densa-rs/densa,"Data grid for densa: columns, cell styles and an allocation-free painter over your own data"
+2026-10-19T15:15:51.17718Z,metal-oxide-compiler,0.1.0-alpha0,0,0,https://github.com/rust-dd/metal-oxide,Rust frontend for Metal compute kernels
