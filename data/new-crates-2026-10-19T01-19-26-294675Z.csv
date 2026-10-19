@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T00:22:37.69634Z,rust-apk,1.0.0,0,0,,"Build, align, sign, verify, and inspect Android APKs in pure Rust"
+2026-10-19T00:36:04.326456Z,jig-planner-protocol,0.1.1,0,0,,"The protocol between a Jig repository's planner and the runner that runs it: what a planner declares, its session, and the canonical bytes of its candidate. Planners use it through jig-sdk."
+2026-10-19T00:36:09.886666Z,jig-sdk-macros,0.1.1,0,0,,"The macros of jig-sdk, Jig's planner SDK: #[jig::planner] and #[derive(jig::ArtifactTag)]. Planners use them through jig-sdk."
+2026-10-19T00:36:16.123444Z,jig-sdk,0.1.1,0,0,,"Write a Jig repository's planner: the program that declares the checks Jig runs on every save, each in its own virtual machine."
+2026-10-19T00:36:28.920779Z,jig-sdk-cargo,0.1.1,0,0,,"Plan a Cargo workspace's checks with jig-sdk: what its build reads, its crates downloaded once per lock, and the standard fmt, clippy and test checks."
+2026-10-19T00:37:59.320489Z,nwwm,0.1.0,0,0,https://github.com/annaxiomm/github,A WIP tiling window manager for X
+2026-10-19T00:41:07.517223Z,functora-curry,0.1.0,0,0,https://github.com/functora/functora.github.io/tree/master/rust/functora-curry,Macro-free currying on stable Rust.
+2026-10-19T00:48:19.037369Z,structured-ltv,0.8.0,0,0,https://github.com/structured-world/signature-primitives,"Format-neutral long-term signature validation facts over PKIX, CMS and caller-owned sources"
+2026-10-19T00:49:43.691774Z,joaju-csv,0.1.0,0,0,https://codeberg.org/lumenpink/joaju-csv,"A fast and deterministic Rust library for tabular CSV manipulation, relational projections, and filtering"
+2026-10-19T00:50:12.986078Z,joaju-unfurl,0.1.0,0,0,https://codeberg.org/lumenpink/joaju-unfurl,A fast and secure Rust library for OpenGraph metadata extraction with SSRF protection and visual card rendering
+2026-10-19T00:50:33.924244Z,joaju-table,0.1.0,0,0,https://codeberg.org/lumenpink/joaju-table,A fast and deterministic Rust library for rendering 3-line academic tables (ABNT/IBGE/APA) natively in Typst
+2026-10-19T00:50:46.643898Z,joaju-pedigree,0.1.0,0,0,https://codeberg.org/lumenpink/joaju-pedigree,"A high-performance Rust library for pedigree modeling, kinship calculation, and clinical pedigree rendering conforming to NSGC/ACMG guidelines (pedtools/R parity)"
+2026-10-19T00:53:10.02236Z,joaju,0.1.0,0,0,https://codeberg.org/lumenpink/joaju,"A scientific academic compiler and typographical orchestrator in Rust for Typst, clinical pedigrees, and tables"
+2026-10-19T01:02:41.09164Z,libdigidocpp-build,0.1.0,0,0,https://github.com/DanBondarenko/digidocpp-rs,"Build-script helpers to find libdigidocpp on Linux, macOS and Windows, and to emit its runtime rpath"
+2026-10-19T01:03:23.009114Z,libdigidocpp-sys,0.1.0,0,0,https://github.com/DanBondarenko/digidocpp-rs,Low-level bindings to libdigidocpp. See digidocpp crate for safe API.
+2026-10-19T01:04:04.718744Z,digidocpp,0.1.0,0,0,https://github.com/DanBondarenko/digidocpp-rs,Safe bindings to libdigidocpp: create and validate eIDAS digital signatures in ASiC-E/XAdES containers
+2026-10-19T01:05:32.768747Z,qerexa,0.1.0,0,0,https://github.com/rodriguew/Trust-Rails,Gate every action through Qerexa runtime trust enforcement
+2026-10-19T01:05:41.967973Z,tauri-plugin-purchase,0.1.0-alpha.1,0,0,https://github.com/hoangmirs/tauri-plugins,Tauri plugin that buys and restores one-time purchases through the App Store and Google Play
+2026-10-19T01:11:52.718522Z,path-guard,0.2.2,0,0,https://github.com/osdlc/osdlc,"Path containment guard: reject hostile relative paths lexically, then prove the resolved path stays inside its root, following symlinks of whatever part of the path exists. Pluggable resolver for non…"
+2026-10-19T01:17:02.881174Z,math-prime-util,1.0.0,0,0,https://github.com/justanyone/math-prime-util,"Rust port of Perl's Math::Prime::Util: primality, sieves, factoring, number theory"
+2026-10-19T01:18:10.245577Z,slug-collate,0.1.1,0,0,https://github.com/osdlc/osdlc,"Slugify plus deterministic, portable, non-locale string and path collation: NFKD-normalise and drop combining marks for filename-safe slugs, and a total, case- and accent-insensitive order as a subst…"
