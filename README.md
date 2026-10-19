@@ -8,79 +8,78 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 15:18 UTC
+## Latest list — 2026-10-19 16:20 UTC
 
-New crates published between 2026-10-19 14:18 UTC and 2026-10-19 15:18 UTC.
+New crates published between 2026-10-19 15:18 UTC and 2026-10-19 16:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-19T15-18-55-196037Z.csv)
+[Full CSV](data/new-crates-2026-10-19T16-20-40-807121Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-19 14:19:02 | [kage-client](https://crates.io/crates/kage-client) | 0.0.0 | 0 | Sans-IO Agent Client Protocol client: frames in, state changes out. |
-| 2026-10-19 14:19:09 | [kage-desktop](https://crates.io/crates/kage-desktop) | 0.0.0 | 0 | The kage desktop and browser client. |
-| 2026-10-19 14:22:27 | [leptos_aria_combo_box](https://crates.io/crates/leptos_aria_combo_box) | 0.0.1 | 0 | Components for the leptos_aria component library |
-| 2026-10-19 14:23:03 | [ferroui-reactiveui-controls](https://crates.io/crates/ferroui-reactiveui-controls) | 0.3.0-preview.1 | 0 | The integration of ReactiveUI with FerroUI: the scheduler of the dispatcher, pr… |
-| 2026-10-19 14:27:46 | [rostfrei-nats](https://crates.io/crates/rostfrei-nats) | 0.1.1 | 0 | NATS JetStream adapters for Rostfrei messaging, event stores, and read models |
-| 2026-10-19 14:29:16 | [leptos_aria_drop_zone](https://crates.io/crates/leptos_aria_drop_zone) | 0.0.1 | 0 | Components for the leptos_aria component library |
-| 2026-10-19 14:29:20 | [clocrap](https://crates.io/crates/clocrap) | 0.1.0 | 0 | Count lines by language and score functions by CRAP, in one fast binary |
-| 2026-10-19 14:29:39 | [kernix-ops](https://crates.io/crates/kernix-ops) | 0.3.0 | 0 | Linear algebra and tensor operations for Kernix. |
-| 2026-10-19 14:30:01 | [tambo](https://crates.io/crates/tambo) | 0.3.4 | 0 | Install and prove the whole AI knowledge-tool kit |
-| 2026-10-19 14:30:11 | [yupana](https://crates.io/crates/yupana) | 0.13.0 | 0 | In-memory, multi-tenant code-analysis engine — the structural signal for the Bo… |
-| 2026-10-19 14:30:26 | [seeds-ai](https://crates.io/crates/seeds-ai) | 0.4.2 | 0 | A beads-compatible issue tracker for AI agents that stores work items as facts… |
-| 2026-10-19 14:34:06 | [ferroui-reactiveui-testing](https://crates.io/crates/ferroui-reactiveui-testing) | 0.3.0-preview.1 | 0 | A port of ReactiveUI.Testing for ferroui-reactiveui: running code with test sch… |
-| 2026-10-19 14:37:12 | [whosthatpokemon](https://crates.io/crates/whosthatpokemon) | 1.0.1 | 0 | Recognise trading cards in images with ranked matches and confidence scores |
-| 2026-10-19 14:37:39 | [just-tui](https://crates.io/crates/just-tui) | 0.6.0 | 0 | A file-explorer style browser for just recipes, with Slurm submission and a job… |
-| 2026-10-19 14:37:44 | [tari_state_tree](https://crates.io/crates/tari_state_tree) | 0.47.0 | 0 | Sharded state trees and validator set trees for Tari Ootle |
-| 2026-10-19 14:38:18 | [rostfrei-tracer](https://crates.io/crates/rostfrei-tracer) | 0.1.1 | 0 | Application-linked diagnostics, observation, and behavioral testing for Rostfrei |
-| 2026-10-19 14:39:16 | [flockr](https://crates.io/crates/flockr) | 0.0.0 | 0 | Terminal workspace for running many coding agents. This crate holds the name; i… |
-| 2026-10-19 14:39:23 | [densa-alloc](https://crates.io/crates/densa-alloc) | 0.1.0 | 0 | Per-thread counting global allocator for proving that hot paths allocate nothing |
-| 2026-10-19 14:39:26 | [densa-core](https://crates.io/crates/densa-core) | 0.1.0 | 0 | Primitive types shared by every densa crate: Color, Point, Rect |
-| 2026-10-19 14:39:32 | [densa-text](https://crates.io/crates/densa-text) | 0.1.0 | 0 | Text for densa: font loading, glyph rasterization and a growable, allocation-fr… |
-| 2026-10-19 14:39:38 | [densa-draw](https://crates.io/crates/densa-draw) | 0.1.0 | 0 | GPU-independent display list for densa: a Canvas that batches rectangles and gl… |
-| 2026-10-19 14:39:41 | [leptos_aria_file_trigger](https://crates.io/crates/leptos_aria_file_trigger) | 0.0.1 | 0 | Components for the leptos_aria component library |
-| 2026-10-19 14:39:42 | [densa-fmt](https://crates.io/crates/densa-fmt) | 0.1.0 | 0 | Allocation-free number formatting into fixed-capacity stack buffers |
-| 2026-10-19 14:41:58 | [tari_ootle_storage](https://crates.io/crates/tari_ootle_storage) | 0.47.0 | 0 | Consensus models, state store traits and proof verification for Tari Ootle |
-| 2026-10-19 14:42:59 | [tari_ootle_light_client](https://crates.io/crates/tari_ootle_light_client) | 0.1.0 | 0 | Verifies Tari Ootle indexer responses against the validator set handover chain |
-| 2026-10-19 14:43:21 | [metal-oxide-artifact](https://crates.io/crates/metal-oxide-artifact) | 0.1.0-alpha0 | 0 | Versioned kernel ABI and Metal artifact validation |
-| 2026-10-19 14:43:22 | [metal-oxide-macros](https://crates.io/crates/metal-oxide-macros) | 0.1.0-alpha0 | 0 | Kernel entrypoint marker for metal-oxide |
-| 2026-10-19 14:43:24 | [metal-oxide-build](https://crates.io/crates/metal-oxide-build) | 0.1.0-alpha0 | 0 | Builds metal-oxide kernel artifacts for the kernel macros and cargo-metal |
-| 2026-10-19 14:43:24 | [metal-oxide-device](https://crates.io/crates/metal-oxide-device) | 0.1.0-alpha0 | 0 | Device buffers and thread builtins for Metal kernels |
-| 2026-10-19 14:43:25 | [metal-oxide-ir](https://crates.io/crates/metal-oxide-ir) | 0.1.0-alpha0 | 0 | Typed kernel IR independent of rustc |
-| 2026-10-19 14:44:52 | [draw-rs](https://crates.io/crates/draw-rs) | 0.1.2 | 0 | Reusable terminal drawing engine and standalone drawing application |
-| 2026-10-19 14:46:10 | [cleat-il2cpp](https://crates.io/crates/cleat-il2cpp) | 0.1.0 | 0 | IL2CPP runtime bindings and metadata support for cleat |
-| 2026-10-19 14:46:44 | [metal-oxide-codegen](https://crates.io/crates/metal-oxide-codegen) | 0.1.0-alpha0 | 0 | Structured Metal Shading Language generation |
-| 2026-10-19 14:50:17 | [org-eclipse-elk-alg-graphviz-dot](https://crates.io/crates/org-eclipse-elk-alg-graphviz-dot) | 0.11.0 | 0 | Graphviz DOT language model and serialization of the Eclipse Layout Kernel, por… |
-| 2026-10-19 14:50:17 | [org-eclipse-elk-graph](https://crates.io/crates/org-eclipse-elk-graph) | 0.11.0 | 0 | ElkGraph data model of the Eclipse Layout Kernel (ELK), ported to pure Rust |
-| 2026-10-19 14:50:19 | [org-eclipse-elk-core](https://crates.io/crates/org-eclipse-elk-core) | 0.11.0 | 0 | Core layout engine of the Eclipse Layout Kernel (ELK): layout options, algorith… |
-| 2026-10-19 14:50:21 | [densa-chart](https://crates.io/crates/densa-chart) | 0.1.0 | 0 | Charts for densa: time series, candlesticks and volume over your own data, draw… |
-| 2026-10-19 14:50:22 | [org-eclipse-elk-alg-common](https://crates.io/crates/org-eclipse-elk-alg-common) | 0.11.0 | 0 | Shared algorithm utilities of the Eclipse Layout Kernel (ELK): node sizing, spa… |
-| 2026-10-19 14:50:23 | [org-eclipse-elk-alg-topdownpacking](https://crates.io/crates/org-eclipse-elk-alg-topdownpacking) | 0.11.0 | 0 | ELK Top-down Packing layout algorithm of the Eclipse Layout Kernel, ported to p… |
-| 2026-10-19 14:51:37 | [unpushed](https://crates.io/crates/unpushed) | 0.2.1 | 0 | Overview of unpushed commits across many git checkouts |
-| 2026-10-19 14:55:48 | [leptos_aria_grid](https://crates.io/crates/leptos_aria_grid) | 0.0.1 | 0 | Components for the leptos_aria component library |
-| 2026-10-19 14:55:51 | [metal-oxide-kernels](https://crates.io/crates/metal-oxide-kernels) | 0.1.0-alpha0 | 0 | Compiles Metal kernels written in a host crate and generates their launch funct… |
-| 2026-10-19 14:56:00 | [norte](https://crates.io/crates/norte) | 0.0.1 | 0 | Build AI agents in Rust: durable sessions, streaming, tools and adapters for Op… |
-| 2026-10-19 14:58:50 | [ferrohealth-smart](https://crates.io/crates/ferrohealth-smart) | 0.0.0 | 0 | Reserved: the shared SMART App Launch and OAuth 2.0 resource-server crate of th… |
-| 2026-10-19 14:58:59 | [org-eclipse-elk-alg-disco](https://crates.io/crates/org-eclipse-elk-alg-disco) | 0.11.0 | 0 | ELK DisCo connected components layout algorithm of the Eclipse Layout Kernel, p… |
-| 2026-10-19 14:59:02 | [medical-markdown](https://crates.io/crates/medical-markdown) | 0.1.0 | 0 | A markdown-it plugin for clinical note-taking with structured data extraction |
-| 2026-10-19 14:59:11 | [leptos_aria_text_field](https://crates.io/crates/leptos_aria_text_field) | 0.0.1 | 0 | Components for the leptos_aria component library |
-| 2026-10-19 14:59:21 | [meerschaum-core](https://crates.io/crates/meerschaum-core) | 5.0.0-rc.1 | 0 | Internal crate of Meerschaum: pipes, parameters, the config registry, the dtype… |
-| 2026-10-19 14:59:24 | [meerschaum-compose](https://crates.io/crates/meerschaum-compose) | 5.0.0-rc.1 | 0 | Internal crate of Meerschaum: Meerschaum Compose, the declarative mrsm-compose.… |
-| 2026-10-19 14:59:24 | [meerschaum-jobs](https://crates.io/crates/meerschaum-jobs) | 5.0.0-rc.1 | 0 | Internal crate of Meerschaum: job supervision (daemons, schedules, laps, local,… |
-| 2026-10-19 14:59:25 | [meerschaum-kernel](https://crates.io/crates/meerschaum-kernel) | 5.0.0-rc.1 | 0 | Internal crate of Meerschaum: the Arrow/Polars data kernel (dtype enforcement,… |
-| 2026-10-19 14:59:26 | [meerschaum-connector](https://crates.io/crates/meerschaum-connector) | 5.0.0-rc.1 | 0 | Internal crate of Meerschaum: the Connector and InstanceConnector traits shared… |
-| 2026-10-19 15:00:41 | [hx-registry](https://crates.io/crates/hx-registry) | 0.10.0 | 0 | Client for hx package registries (arcanist.sh registry) |
-| 2026-10-19 15:01:03 | [densa-data](https://crates.io/crates/densa-data) | 0.1.0 | 0 | Live Arrow tables for densa: keyed upserts, sorted and filtered views and group… |
-| 2026-10-19 15:02:32 | [vibe-coding-analytics](https://crates.io/crates/vibe-coding-analytics) | 0.3.0 | 0 | Vibe Coding Analytics: local-first analytics for agent-assisted engineering. |
-| 2026-10-19 15:03:55 | [maneuver](https://crates.io/crates/maneuver) | 0.1.0 | 0 | Generate structured man pages |
-| 2026-10-19 15:05:54 | [metal-oxide](https://crates.io/crates/metal-oxide) | 0.1.0-alpha0 | 0 | Metal compute runtime for Rust |
-| 2026-10-19 15:08:50 | [air-tight-core](https://crates.io/crates/air-tight-core) | 0.1.0 | 0 | Core traits, types and condition tree for air-tight |
-| 2026-10-19 15:08:53 | [air-tight-macros](https://crates.io/crates/air-tight-macros) | 0.1.0 | 0 | Procedural macros for air-tight |
-| 2026-10-19 15:09:03 | [air-tight](https://crates.io/crates/air-tight) | 0.1.0 | 0 | Authorization for axum with Postgres-backed grants |
-| 2026-10-19 15:09:49 | [meerschaum-connector-sql](https://crates.io/crates/meerschaum-connector-sql) | 5.0.0-rc.1 | 0 | Internal crate of Meerschaum: the SQL connector (PostgreSQL, MySQL, SQLite, MSS… |
-| 2026-10-19 15:10:37 | [org-eclipse-elk-alg-force](https://crates.io/crates/org-eclipse-elk-alg-force) | 0.11.0 | 0 | ELK Force and Stress layout algorithms of the Eclipse Layout Kernel, ported to… |
-| 2026-10-19 15:10:55 | [leptos_aria_color](https://crates.io/crates/leptos_aria_color) | 0.0.1 | 0 | Components for the leptos_aria component library |
-| 2026-10-19 15:11:42 | [densa-grid](https://crates.io/crates/densa-grid) | 0.1.0 | 0 | Data grid for densa: columns, cell styles and an allocation-free painter over y… |
-| 2026-10-19 15:15:51 | [metal-oxide-compiler](https://crates.io/crates/metal-oxide-compiler) | 0.1.0-alpha0 | 0 | Rust frontend for Metal compute kernels |
+| 2026-10-19 15:19:11 | [leptos_aria_search_field](https://crates.io/crates/leptos_aria_search_field) | 0.0.1 | 0 | Components for the leptos_aria component library |
+| 2026-10-19 15:20:08 | [golem-ai-exec](https://crates.io/crates/golem-ai-exec) | 0.5.4 | 0 | Library for executing dynamic code snippets on Golem Cloud |
+| 2026-10-19 15:20:09 | [meerschaum-connector-api](https://crates.io/crates/meerschaum-connector-api) | 5.0.0-rc.1 | 0 | Internal crate of Meerschaum: the APIConnector HTTP client and the shared API r… |
+| 2026-10-19 15:20:16 | [paperpaw-app](https://crates.io/crates/paperpaw-app) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-app |
+| 2026-10-19 15:20:19 | [paperpaw-config](https://crates.io/crates/paperpaw-config) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-config |
+| 2026-10-19 15:20:21 | [paperpaw-core](https://crates.io/crates/paperpaw-core) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-core |
+| 2026-10-19 15:20:24 | [paperpaw-digest](https://crates.io/crates/paperpaw-digest) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
+| 2026-10-19 15:20:26 | [paperpaw-document](https://crates.io/crates/paperpaw-document) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-document |
+| 2026-10-19 15:22:08 | [paperpaw](https://crates.io/crates/paperpaw) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
+| 2026-10-19 15:22:16 | [org-eclipse-elk-alg-graphviz-layouter](https://crates.io/crates/org-eclipse-elk-alg-graphviz-layouter) | 0.11.0 | 0 | ELK Graphviz layouter integration (metadata and options) of the Eclipse Layout… |
+| 2026-10-19 15:22:37 | [densa-render](https://crates.io/crates/densa-render) | 0.1.0 | 0 | wgpu renderer for densa: draws a frame's instances in one instanced draw call,… |
+| 2026-10-19 15:25:52 | [cargo-metal](https://crates.io/crates/cargo-metal) | 0.1.0-alpha0 | 0 | Cargo subcommand that builds metal-oxide kernel artifacts |
+| 2026-10-19 15:25:55 | [org-eclipse-elk-alg-layered](https://crates.io/crates/org-eclipse-elk-alg-layered) | 0.11.0 | 0 | ELK Layered (Sugiyama-style) layout algorithm of the Eclipse Layout Kernel, por… |
+| 2026-10-19 15:29:11 | [leptos_aria_number_field](https://crates.io/crates/leptos_aria_number_field) | 0.0.1 | 0 | Components for the leptos_aria component library |
+| 2026-10-19 15:30:28 | [meerschaum-plugin](https://crates.io/crates/meerschaum-plugin) | 5.0.0-rc.1 | 0 | The native plugin SDK for Meerschaum: a versioned C ABI, a safe Plugin trait an… |
+| 2026-10-19 15:31:51 | [unpayload](https://crates.io/crates/unpayload) | 0.1.1 | 0 | Extract partition images from Android OTA payloads, full and incremental |
+| 2026-10-19 15:33:24 | [densa-arrow](https://crates.io/crates/densa-arrow) | 0.1.0 | 0 | Apache Arrow tables in densa's data grid: typed, allocation-free cell formatting |
+| 2026-10-19 15:37:38 | [org-eclipse-elk-alg-libavoid](https://crates.io/crates/org-eclipse-elk-alg-libavoid) | 0.11.0 | 0 | ELK Libavoid connector routing integration (metadata and options) of the Eclips… |
+| 2026-10-19 15:38:02 | [imagemark](https://crates.io/crates/imagemark) | 0.1.0 | 0 | Invisible watermark foreground generator: encodes a 36-bit ID into an RGBA over… |
+| 2026-10-19 15:38:11 | [proksi-admin-ui](https://crates.io/crates/proksi-admin-ui) | 0.14.0 | 0 | The admin UI of Proksi, built and embedded (ADR 0008) |
+| 2026-10-19 15:40:17 | [rydantic-derive](https://crates.io/crates/rydantic-derive) | 0.3.0 | 0 | Derive macros for Rydantic |
+| 2026-10-19 15:40:21 | [rydantic](https://crates.io/crates/rydantic) | 0.3.0 | 0 | Type-driven models, validation, JSON Schema and native Cap'n Proto for Rust |
+| 2026-10-19 15:40:30 | [paperpaw-fs](https://crates.io/crates/paperpaw-fs) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-fs |
+| 2026-10-19 15:40:48 | [meerschaum-worker](https://crates.io/crates/meerschaum-worker) | 5.0.0-rc.1 | 0 | Internal crate of Meerschaum: the Python worker pool, its RPC protocol, the Pyt… |
+| 2026-10-19 15:42:48 | [leptos_aria_link](https://crates.io/crates/leptos_aria_link) | 0.0.1 | 0 | Components for the leptos_aria component library |
+| 2026-10-19 15:44:15 | [densa-paragraph](https://crates.io/crates/densa-paragraph) | 0.1.0 | 0 | Paragraph layout for densa on parley: shaping, wrapping, bidi, alignment, hit-t… |
+| 2026-10-19 15:45:17 | [org-eclipse-elk-alg-mrtree](https://crates.io/crates/org-eclipse-elk-alg-mrtree) | 0.11.0 | 0 | ELK Mr. Tree layout algorithm of the Eclipse Layout Kernel, ported to pure Rust |
+| 2026-10-19 15:45:31 | [htui-macros](https://crates.io/crates/htui-macros) | 0.1.0 | 0 | Procedural macros for the htui terminal HTML renderer: #[command] / #[commands]… |
+| 2026-10-19 15:46:00 | [htui](https://crates.io/crates/htui) | 0.1.0 | 0 | A terminal HTML/CSS renderer with an embedded JavaScript engine — build interac… |
+| 2026-10-19 15:49:12 | [leptos_aria_select_box](https://crates.io/crates/leptos_aria_select_box) | 0.0.1 | 0 | Components for the leptos_aria component library |
+| 2026-10-19 15:50:34 | [paperpaw-graphics](https://crates.io/crates/paperpaw-graphics) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-graphics |
+| 2026-10-19 15:51:06 | [meerschaum-connector-valkey](https://crates.io/crates/meerschaum-connector-valkey) | 5.0.0-rc.1 | 0 | Internal crate of Meerschaum: the Valkey (Redis-compatible) instance connector |
+| 2026-10-19 15:54:29 | [dcc-core](https://crates.io/crates/dcc-core) | 1.0.0 | 0 | Core domain types, deterministic normalization, canonical serialization and key… |
+| 2026-10-19 15:54:46 | [dcc-storage](https://crates.io/crates/dcc-storage) | 1.0.0 | 0 | Content-Addressed Storage (CAS), atomic operations, integrity validation, and e… |
+| 2026-10-19 15:54:53 | [densa-platform](https://crates.io/crates/densa-platform) | 0.1.0 | 0 | OS services for low-latency threads: CPU topology, thread pinning and priority |
+| 2026-10-19 15:54:55 | [dcc-runner](https://crates.io/crates/dcc-runner) | 1.0.0 | 0 | Execution engine, cache lookup, process execution, restoration, and miss explan… |
+| 2026-10-19 15:55:04 | [dcc-integrations](https://crates.io/crates/dcc-integrations) | 1.0.0 | 0 | Generic developer integrations and adapters for DCC (build tools, linters, code… |
+| 2026-10-19 15:55:16 | [manguebyte-core](https://crates.io/crates/manguebyte-core) | 0.1.0 | 0 | Core building blocks of the Manguebyte Audio Framework: buffers, samples, smoot… |
+| 2026-10-19 15:55:17 | [dcc-cli](https://crates.io/crates/dcc-cli) | 1.0.0 | 0 | Command-line interface (dcc) for Developer Computation Cache |
+| 2026-10-19 15:55:48 | [manguebyte-midi](https://crates.io/crates/manguebyte-midi) | 0.1.0 | 0 | MIDI 1.0 and 2.0 messages, packets, files, MPE, capability inquiry (MIDI-CI) an… |
+| 2026-10-19 15:56:29 | [manguebyte-dsp](https://crates.io/crates/manguebyte-dsp) | 0.1.0 | 0 | Signal processing for the Manguebyte Audio Framework: oscillators, wavetables,… |
+| 2026-10-19 15:56:45 | [org-eclipse-elk-alg-radial](https://crates.io/crates/org-eclipse-elk-alg-radial) | 0.11.0 | 0 | ELK Radial layout algorithm of the Eclipse Layout Kernel, ported to pure Rust |
+| 2026-10-19 15:57:11 | [manguebyte-analysis](https://crates.io/crates/manguebyte-analysis) | 0.1.0 | 0 | Metering and analysis for the Manguebyte Audio Framework: loudness, true peak,… |
+| 2026-10-19 15:57:41 | [manguebyte-params](https://crates.io/crates/manguebyte-params) | 0.1.0 | 0 | Thread-safe parameters for the Manguebyte Audio Framework: ranges, skew, text c… |
+| 2026-10-19 15:58:59 | [amicu](https://crates.io/crates/amicu) | 0.0.1 | 0 | Terraform for your own LLMs: deploy vLLM and llama.cpp to your machine or GPU c… |
+| 2026-10-19 15:59:16 | [leptos_aria_menu](https://crates.io/crates/leptos_aria_menu) | 0.0.1 | 0 | Components for the leptos_aria component library |
+| 2026-10-19 16:00:38 | [paperpaw-http](https://crates.io/crates/paperpaw-http) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
+| 2026-10-19 16:01:26 | [meerschaum-engine](https://crates.io/crates/meerschaum-engine) | 5.0.0-rc.1 | 0 | Internal crate of Meerschaum: the dependency-aware Syncing Engine (graph, plann… |
+| 2026-10-19 16:04:28 | [paperpaw-hyphen](https://crates.io/crates/paperpaw-hyphen) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-hyphen |
+| 2026-10-19 16:05:34 | [densa-sync](https://crates.io/crates/densa-sync) | 0.1.0 | 0 | Wait-free SPSC triple buffer for low-latency data and UI pipelines, loom-verifi… |
+| 2026-10-19 16:07:35 | [xoev-codelists](https://crates.io/crates/xoev-codelists) | 0.1.0-alpha.1 | 0 | Codelist model shared by the xoev-codelists publisher crates: a codelist is ide… |
+| 2026-10-19 16:07:37 | [xoev-codelists-xwasser](https://crates.io/crates/xoev-codelists-xwasser) | 0.1.0-alpha.1 | 0 | Codelist data published under `urn:xoev-de:xwasser:codeliste:` (XWasser) |
+| 2026-10-19 16:07:39 | [xoev-codelists-destatis](https://crates.io/crates/xoev-codelists-destatis) | 0.1.0-alpha.1 | 0 | Codelist data published under `urn:de:bund:destatis:bevoelkerungsstatistik:schl… |
+| 2026-10-19 16:07:41 | [xoev-codelists-xunternehmen](https://crates.io/crates/xoev-codelists-xunternehmen) | 0.1.0-alpha.1 | 0 | Codelist data published under `urn:xoev-de:xunternehmen:codeliste:` (XUnternehm… |
+| 2026-10-19 16:07:43 | [xoev-codelists-dsmeld](https://crates.io/crates/xoev-codelists-dsmeld) | 0.1.0-alpha.1 | 0 | Codelist data published under `urn:de:dsmeld:schluesseltabelle:` (DSMeld) |
+| 2026-10-19 16:08:11 | [org-eclipse-elk-alg-rectpacking](https://crates.io/crates/org-eclipse-elk-alg-rectpacking) | 0.11.0 | 0 | ELK Rectangle Packing layout algorithm of the Eclipse Layout Kernel, ported to… |
+| 2026-10-19 16:08:46 | [manguebyte-plugin](https://crates.io/crates/manguebyte-plugin) | 0.1.0 | 0 | The format-independent plugin API of the Manguebyte Audio Framework, with a har… |
+| 2026-10-19 16:11:59 | [meerschaum-server](https://crates.io/crates/meerschaum-server) | 5.0.0-rc.1 | 0 | Internal crate of Meerschaum: the axum HTTP API server (OAuth2/JWT, tokens, web… |
+| 2026-10-19 16:12:19 | [leptos_aria_radio](https://crates.io/crates/leptos_aria_radio) | 0.0.1 | 0 | Components for the leptos_aria component library |
+| 2026-10-19 16:14:32 | [paperpaw-i18n](https://crates.io/crates/paperpaw-i18n) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-i18n |
+| 2026-10-19 16:16:25 | [densa-ui](https://crates.io/crates/densa-ui) | 0.1.0 | 0 | The widget layer of densa: a retained widget tree with flexbox layout, pointer… |
+| 2026-10-19 16:19:28 | [active-infinity](https://crates.io/crates/active-infinity) | 1.0.0 | 0 | Active ecosystem reservation crate: future home of Active's unbounded and strea… |
+| 2026-10-19 16:19:37 | [org-eclipse-elk-alg-spore](https://crates.io/crates/org-eclipse-elk-alg-spore) | 0.11.0 | 0 | ELK SPOrE overlap removal and compaction algorithms of the Eclipse Layout Kerne… |
+| 2026-10-19 16:19:43 | [manguebyte-au](https://crates.io/crates/manguebyte-au) | 0.1.0 | 0 | Builds Audio Units (version 2) for macOS from the Manguebyte plugin API. |
 
 ## Data source
 

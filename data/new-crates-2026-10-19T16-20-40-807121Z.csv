@@ -1,0 +1,65 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T15:19:11.711416Z,leptos_aria_search_field,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T15:20:08.495396Z,golem-ai-exec,0.5.4,0,0,https://github.com/golemcloud/golem-ai,Library for executing dynamic code snippets on Golem Cloud
+2026-10-19T15:20:09.80247Z,meerschaum-connector-api,5.0.0-rc.1,0,0,https://github.com/bmeares/Meerschaum,"Internal crate of Meerschaum: the APIConnector HTTP client and the shared API route, auth and wire models"
+2026-10-19T15:20:16.114896Z,paperpaw-app,0.0.0,0,0,https://github.com/hthoene/quireink,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-app"
+2026-10-19T15:20:19.239137Z,paperpaw-config,0.0.0,0,0,https://github.com/hthoene/quireink,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-config"
+2026-10-19T15:20:21.849341Z,paperpaw-core,0.0.0,0,0,https://github.com/hthoene/quireink,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-core"
+2026-10-19T15:20:24.187565Z,paperpaw-digest,0.0.0,0,0,https://github.com/hthoene/quireink,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-19T15:20:26.882951Z,paperpaw-document,0.0.0,0,0,https://github.com/hthoene/quireink,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-document"
+2026-10-19T15:22:08.098277Z,paperpaw,0.0.0,0,0,https://github.com/hthoene/quireink,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-19T15:22:16.207609Z,org-eclipse-elk-alg-graphviz-layouter,0.11.0,0,0,https://github.com/openedges/elk-rs,"ELK Graphviz layouter integration (metadata and options) of the Eclipse Layout Kernel, ported to pure Rust"
+2026-10-19T15:22:37.117483Z,densa-render,0.1.0,0,0,https://github.com/densa-rs/densa,"wgpu renderer for densa: draws a frame's instances in one instanced draw call, with a growing glyph atlas"
+2026-10-19T15:25:52.229435Z,cargo-metal,0.1.0-alpha0,0,0,https://github.com/rust-dd/metal-oxide,Cargo subcommand that builds metal-oxide kernel artifacts
+2026-10-19T15:25:55.599489Z,org-eclipse-elk-alg-layered,0.11.0,0,0,https://github.com/openedges/elk-rs,"ELK Layered (Sugiyama-style) layout algorithm of the Eclipse Layout Kernel, ported to pure Rust"
+2026-10-19T15:29:11.260206Z,leptos_aria_number_field,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T15:30:28.288195Z,meerschaum-plugin,5.0.0-rc.1,0,0,https://github.com/bmeares/Meerschaum,"The native plugin SDK for Meerschaum: a versioned C ABI, a safe Plugin trait and connector adapters"
+2026-10-19T15:31:51.586648Z,unpayload,0.1.1,0,0,https://github.com/kirklin/unpayload,"Extract partition images from Android OTA payloads, full and incremental"
+2026-10-19T15:33:24.882596Z,densa-arrow,0.1.0,0,0,https://github.com/densa-rs/densa,"Apache Arrow tables in densa's data grid: typed, allocation-free cell formatting"
+2026-10-19T15:37:38.381226Z,org-eclipse-elk-alg-libavoid,0.11.0,0,0,https://github.com/openedges/elk-rs,"ELK Libavoid connector routing integration (metadata and options) of the Eclipse Layout Kernel, ported to pure Rust"
+2026-10-19T15:38:02.590414Z,imagemark,0.1.0,0,0,https://github.com/kirklin/imagemark,Invisible watermark foreground generator: encodes a 36-bit ID into an RGBA overlay
+2026-10-19T15:38:11.81318Z,proksi-admin-ui,0.14.0,0,0,https://github.com/luizfonseca/proksi,"The admin UI of Proksi, built and embedded (ADR 0008)"
+2026-10-19T15:40:17.411502Z,rydantic-derive,0.3.0,0,0,https://github.com/trotsky1997/Rydantic,Derive macros for Rydantic
+2026-10-19T15:40:21.658258Z,rydantic,0.3.0,0,0,https://github.com/trotsky1997/Rydantic,"Type-driven models, validation, JSON Schema and native Cap'n Proto for Rust"
+2026-10-19T15:40:30.91514Z,paperpaw-fs,0.0.0,0,0,https://github.com/hthoene/quireink,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-fs"
+2026-10-19T15:40:48.53868Z,meerschaum-worker,5.0.0-rc.1,0,0,https://github.com/bmeares/Meerschaum,"Internal crate of Meerschaum: the Python worker pool, its RPC protocol, the PythonConnector adapter and plugin manifests"
+2026-10-19T15:42:48.623096Z,leptos_aria_link,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T15:44:15.020716Z,densa-paragraph,0.1.0,0,0,https://github.com/densa-rs/densa,"Paragraph layout for densa on parley: shaping, wrapping, bidi, alignment, hit-testing and selection"
+2026-10-19T15:45:17.849886Z,org-eclipse-elk-alg-mrtree,0.11.0,0,0,https://github.com/openedges/elk-rs,"ELK Mr. Tree layout algorithm of the Eclipse Layout Kernel, ported to pure Rust"
+2026-10-19T15:45:31.634096Z,htui-macros,0.1.0,0,0,https://github.com/dDostalker/htui,Procedural macros for the htui terminal HTML renderer: #[command] / #[commands] host bindings and IntoJs / FromJs derives
+2026-10-19T15:46:00.193518Z,htui,0.1.0,0,0,https://github.com/dDostalker/htui,"A terminal HTML/CSS renderer with an embedded JavaScript engine — build interactive TUIs from HTML, CSS and JS"
+2026-10-19T15:49:12.139864Z,leptos_aria_select_box,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T15:50:34.197458Z,paperpaw-graphics,0.0.0,0,0,https://github.com/hthoene/quireink,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-graphics"
+2026-10-19T15:51:06.296936Z,meerschaum-connector-valkey,5.0.0-rc.1,0,0,https://github.com/bmeares/Meerschaum,Internal crate of Meerschaum: the Valkey (Redis-compatible) instance connector
+2026-10-19T15:54:29.93434Z,dcc-core,1.0.0,0,0,https://github.com/Ashish6298/Developer-Computation-Cache,"Core domain types, deterministic normalization, canonical serialization and key generation for DCC"
+2026-10-19T15:54:46.37425Z,dcc-storage,1.0.0,0,0,https://github.com/Ashish6298/Developer-Computation-Cache,"Content-Addressed Storage (CAS), atomic operations, integrity validation, and eviction for DCC"
+2026-10-19T15:54:53.173957Z,densa-platform,0.1.0,0,0,https://github.com/densa-rs/densa,"OS services for low-latency threads: CPU topology, thread pinning and priority"
+2026-10-19T15:54:55.731557Z,dcc-runner,1.0.0,0,0,https://github.com/Ashish6298/Developer-Computation-Cache,"Execution engine, cache lookup, process execution, restoration, and miss explanation for DCC"
+2026-10-19T15:55:04.854914Z,dcc-integrations,1.0.0,0,0,https://github.com/Ashish6298/Developer-Computation-Cache,"Generic developer integrations and adapters for DCC (build tools, linters, code generators)"
+2026-10-19T15:55:16.001268Z,manguebyte-core,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"Core building blocks of the Manguebyte Audio Framework: buffers, samples, smoothing and real-time-safe primitives."
+2026-10-19T15:55:17.833397Z,dcc-cli,1.0.0,0,0,https://github.com/Ashish6298/Developer-Computation-Cache,Command-line interface (dcc) for Developer Computation Cache
+2026-10-19T15:55:48.000143Z,manguebyte-midi,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"MIDI 1.0 and 2.0 messages, packets, files, MPE, capability inquiry (MIDI-CI) and sample-accurate event buffers for the Manguebyte Audio Framework."
+2026-10-19T15:56:29.935071Z,manguebyte-dsp,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"Signal processing for the Manguebyte Audio Framework: oscillators, wavetables, filters, EQ, dynamics with sidechain, delay, modulation, reverb, convolution, FIR, oversampling, a polyphonic synth with…"
+2026-10-19T15:56:45.144148Z,org-eclipse-elk-alg-radial,0.11.0,0,0,https://github.com/openedges/elk-rs,"ELK Radial layout algorithm of the Eclipse Layout Kernel, ported to pure Rust"
+2026-10-19T15:57:11.378996Z,manguebyte-analysis,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"Metering and analysis for the Manguebyte Audio Framework: loudness, true peak, level meters, spectrum and pitch."
+2026-10-19T15:57:41.980329Z,manguebyte-params,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"Thread-safe parameters for the Manguebyte Audio Framework: ranges, skew, text conversion, smoothing and state."
+2026-10-19T15:58:59.909762Z,amicu,0.0.1,0,0,https://github.com/andypalmi/amicu,Terraform for your own LLMs: deploy vLLM and llama.cpp to your machine or GPU cloud providers from HCL. Install via https://amicu.dev/docs/quickstart
+2026-10-19T15:59:16.893749Z,leptos_aria_menu,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T16:00:38.243202Z,paperpaw-http,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-19T16:01:26.87354Z,meerschaum-engine,5.0.0-rc.1,0,0,https://github.com/bmeares/Meerschaum,"Internal crate of Meerschaum: the dependency-aware Syncing Engine (graph, planner, executor, dirty-range ledger)"
+2026-10-19T16:04:28.53432Z,paperpaw-hyphen,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-hyphen"
+2026-10-19T16:05:34.173456Z,densa-sync,0.1.0,0,0,https://github.com/densa-rs/densa,"Wait-free SPSC triple buffer for low-latency data and UI pipelines, loom-verified"
+2026-10-19T16:07:35.673306Z,xoev-codelists,0.1.0-alpha.1,0,0,https://github.com/hd-gmbh-dev/xoev-codelists-rs,Codelist model shared by the xoev-codelists publisher crates: a codelist is identified by its URN plus the concrete version a message refers to
+2026-10-19T16:07:37.426146Z,xoev-codelists-xwasser,0.1.0-alpha.1,0,0,https://github.com/hd-gmbh-dev/xoev-codelists-rs,Codelist data published under `urn:xoev-de:xwasser:codeliste:` (XWasser)
+2026-10-19T16:07:39.226776Z,xoev-codelists-destatis,0.1.0-alpha.1,0,0,https://github.com/hd-gmbh-dev/xoev-codelists-rs,Codelist data published under `urn:de:bund:destatis:bevoelkerungsstatistik:schluessel:` (Destatis)
+2026-10-19T16:07:41.099494Z,xoev-codelists-xunternehmen,0.1.0-alpha.1,0,0,https://github.com/hd-gmbh-dev/xoev-codelists-rs,Codelist data published under `urn:xoev-de:xunternehmen:codeliste:` (XUnternehmen)
+2026-10-19T16:07:43.164641Z,xoev-codelists-dsmeld,0.1.0-alpha.1,0,0,https://github.com/hd-gmbh-dev/xoev-codelists-rs,Codelist data published under `urn:de:dsmeld:schluesseltabelle:` (DSMeld)
+2026-10-19T16:08:11.420562Z,org-eclipse-elk-alg-rectpacking,0.11.0,0,0,https://github.com/openedges/elk-rs,"ELK Rectangle Packing layout algorithm of the Eclipse Layout Kernel, ported to pure Rust"
+2026-10-19T16:08:46.908137Z,manguebyte-plugin,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"The format-independent plugin API of the Manguebyte Audio Framework, with a harness for testing plugins without a host."
+2026-10-19T16:11:59.187885Z,meerschaum-server,5.0.0-rc.1,0,0,https://github.com/bmeares/Meerschaum,"Internal crate of Meerschaum: the axum HTTP API server (OAuth2/JWT, tokens, websockets, MCP, extension-host proxy)"
+2026-10-19T16:12:19.671655Z,leptos_aria_radio,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T16:14:32.274145Z,paperpaw-i18n,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-i18n"
+2026-10-19T16:16:25.067552Z,densa-ui,0.1.0,0,0,https://github.com/densa-rs/densa,"The widget layer of densa: a retained widget tree with flexbox layout, pointer and keyboard events, focus and themes, independent of any window or GPU API"
+2026-10-19T16:19:28.985143Z,active-infinity,1.0.0,0,0,https://github.com/Active-Official/active,Active ecosystem reservation crate: future home of Active's unbounded and streaming evaluation surface.
+2026-10-19T16:19:37.067884Z,org-eclipse-elk-alg-spore,0.11.0,0,0,https://github.com/openedges/elk-rs,"ELK SPOrE overlap removal and compaction algorithms of the Eclipse Layout Kernel, ported to pure Rust"
+2026-10-19T16:19:43.615025Z,manguebyte-au,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,Builds Audio Units (version 2) for macOS from the Manguebyte plugin API.
