@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T06:22:33.567233Z,custodian,0.0.1,0,0,https://github.com/jameshuntt,"Reserved: the custodian of a code base — spec-driven readings, jobs and receipts over klepto. The first working release follows; nothing in 0.0.1 is usable yet."
+2026-10-19T06:25:51.366543Z,hashcli,0.5.4,0,0,https://github.com/wensheng/hash,Hash - Intelligent CLI system with dual-mode functionality (LLM chat and command proxy)
+2026-10-19T06:30:13.269946Z,shelfgauge,0.14.0,0,0,https://github.com/holgertkey/shelfgauge,"Index a folder of ebooks (FB2, EPUB, plain text and HTML, plain and zipped) and browse it in a local web library"
+2026-10-19T06:42:40.93149Z,helix-toolbox-core,1.7.2,0,0,https://github.com/Commanderx-code/Helix-toolbox,"Helix Toolbox's data model: entries, actions, risk and validation. Part of the Helix Toolbox application, not a general-purpose library."
+2026-10-19T06:42:43.361885Z,helix-toolbox-platform,1.7.2,0,0,https://github.com/Commanderx-code/Helix-toolbox,"Linux distribution detection for Helix Toolbox. Part of the Helix Toolbox application, not a general-purpose library."
+2026-10-19T06:42:50.527453Z,helix-toolbox-catalog,1.7.2,0,0,https://github.com/Commanderx-code/Helix-toolbox,"Helix Toolbox's built-in catalog and scripts, and the reader that validates them. Part of the Helix Toolbox application, not a general-purpose library."
+2026-10-19T06:42:50.632395Z,kdbx-core,0.1.0,0,0,https://github.com/queelius/kdbx-core,"Shared vault model and rules for the *-kdbx ecosystem: a keepass-free KDBX snapshot, one path grammar, one visibility rule, keyed fingerprints, safe text rendering and TOTP"
+2026-10-19T06:43:04.053179Z,helix-toolbox-engine,1.7.2,0,0,https://github.com/Commanderx-code/Helix-toolbox,"Helix Toolbox's engine: plans, runners, history, health checks. Part of the Helix Toolbox application, not a general-purpose library."
+2026-10-19T06:43:17.600879Z,coinpaprika-cli,0.1.8,0,0,https://github.com/coinpaprika/coinpaprika-cli,"CoinPaprika CLI: crypto market data from the terminal. 12,000+ cryptocurrencies, real-time prices, OHLCV, exchanges."
+2026-10-19T06:43:44.741587Z,helix-toolbox,1.7.2,0,0,https://github.com/Commanderx-code/Helix-toolbox,"Build, configure and optimize a Linux machine from a terminal menu: installs, dotfiles, updates, backups and health checks, every change planned and confirmed first."
+2026-10-19T06:50:12.928534Z,maintenance,0.0.1,0,0,https://github.com/jameshuntt,"Reserved: the maintenance runner — the declared checks behind maintenance macros (sensitivity, mechanism, boundary, supersedes, reads_env, golden, timed tests), run by custodian or alone. The first w…"
+2026-10-19T06:52:07.568371Z,integrity-mac,0.2.0,0,0,https://github.com/sixarm/main-x-service/tree/main/integrity/integrity-mac-rust-crate,Keyed integrity MACs (HMAC-SHA256) with HKDF domain separation and production-grade key handling for the Main X Index family
+2026-10-19T07:05:21.483452Z,vuio-codec-core,0.0.1,0,0,https://github.com/vuiodev/vuio,"Core types and registries for VuIO audio codecs — timestamps, packets, frames, and registries. Forked from oxideav-core."
+2026-10-19T07:05:25.99233Z,vuio-cast,0.0.4,0,0,https://github.com/vuiodev/vuio,"Async Google Cast (Chromecast) client for Rust, with ring TLS. A fork of oxicast by Dennis Kribl."
+2026-10-19T07:05:29.900864Z,vuio-web,0.0.50,0,0,https://github.com/vuiodev/vuio,"The VuIO browser interface, compiled into the server binary"
+2026-10-19T07:06:11.179959Z,vuio-xaac-sys,0.2.0,0,0,https://github.com/vuiodev/vuio,Rust FFI bindings to the bundled libxaac xHE-AAC encoder and decoder. Fork of the upstream xaac-sys with MSVC support and cross-compile fixes in the bundled cmake build.
+2026-10-19T07:07:40.478117Z,vuio-xaac,0.3.0,0,0,https://github.com/vuiodev/vuio,High-level Rust xHE-AAC encoder/decoder bindings on libxaac. Fork of upstream xaac-rs maintained for VuIO's AAC transcode path.
+2026-10-19T07:11:22.677224Z,laminardb-quickfix-ffi,0.33.0,0,0,https://github.com/laminardb/laminardb,LaminarDB-maintained low-level binding to the QuickFIX C++ engine (quickfix-ffi 0.2.2 plus a length-aware bridge)
+2026-10-19T07:11:25.526323Z,laminardb-libxml2-ffi,0.33.0,0,0,https://github.com/laminardb/laminardb,LaminarDB-maintained static build of libxml2 2.15.4 (XML Schema validation subset) with allowlisted raw bindings
+2026-10-19T07:13:28.36823Z,vuio-codec-ac3,0.0.1,0,0,https://github.com/vuiodev/vuio,"High-performance, SIMD-accelerated AC-3 and E-AC-3 audio decoder and encoder in pure Rust. Forked from oxideav-ac3."
+2026-10-19T07:16:15.701937Z,sense-rs,0.1.0,0,0,https://github.com/rockstar/sense-rs,Unofficial async and blocking client for the Sense energy monitor API
+2026-10-19T07:16:18.191595Z,knotrel-core,0.1.0,0,0,https://github.com/knotrel/knotrel,Exact in-memory connectivity for undirected graphs.
+2026-10-19T07:16:23.217807Z,knotrel-server,0.1.0,0,0,https://github.com/knotrel/knotrel,HTTP API for the Knotrel connectivity engine.
+2026-10-19T07:16:39.530495Z,winnower,0.1.0,0,0,https://github.com/MishkaSimakov/winnower,Frees disk space by deleting generated files listed in per-project .winnow files
+2026-10-19T07:19:27.0246Z,diff-kdbx,0.1.0,0,0,https://github.com/queelius/diff-kdbx,Semantic diff for KeePass KDBX files

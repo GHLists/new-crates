@@ -8,32 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 06:19 UTC
+## Latest list — 2026-10-19 07:22 UTC
 
-New crates published between 2026-10-19 05:18 UTC and 2026-10-19 06:19 UTC.
+New crates published between 2026-10-19 06:19 UTC and 2026-10-19 07:22 UTC.
 
-[Full CSV](data/new-crates-2026-10-19T06-19-42-956573Z.csv)
+[Full CSV](data/new-crates-2026-10-19T07-22-27-625167Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-19 05:20:33 | [clap-how-to](https://crates.io/crates/clap-how-to) | 0.1.2 | 0 | Bundled offline semantic help search for Clap CLIs: how and how-to |
-| 2026-10-19 05:26:16 | [ultra-instinct-browser](https://crates.io/crates/ultra-instinct-browser) | 0.1.0 | 0 | CDP browser session for ultra-instinct. |
-| 2026-10-19 05:26:43 | [ultra-instinct-guard](https://crates.io/crates/ultra-instinct-guard) | 0.1.0 | 0 | Allow / refuse / escalate decisions for ultra-instinct |
-| 2026-10-19 05:27:05 | [ultra-instinct-agent](https://crates.io/crates/ultra-instinct-agent) | 0.1.0 | 0 | Observe → decide → guard → ticket → execute → verify agent loop |
-| 2026-10-19 05:27:26 | [ultra-instinct-mcp](https://crates.io/crates/ultra-instinct-mcp) | 0.1.0 | 0 | stdio JSON-RPC MCP server for the ultra-instinct action firewall |
-| 2026-10-19 05:28:17 | [ultra-instinct](https://crates.io/crates/ultra-instinct) | 0.1.0 | 0 | ultra-instinct command line |
-| 2026-10-19 05:30:21 | [workforce-planning-management-migration](https://crates.io/crates/workforce-planning-management-migration) | 0.1.0 | 0 | Database migrations for the workforce planning management service |
-| 2026-10-19 05:32:10 | [workforce-planning-management](https://crates.io/crates/workforce-planning-management) | 0.1.0 | 0 | Workforce Planning Management (WPM): service for worker lifecycle, applicant tr… |
-| 2026-10-19 05:35:09 | [ybd-core](https://crates.io/crates/ybd-core) | 0.4.0 | 0 | Bilibili 资源下载与解析核心库 |
-| 2026-10-19 05:35:39 | [netune-ws](https://crates.io/crates/netune-ws) | 0.0.1 | 0 | Pure RFC 6455 WebSocket codec: zero-allocation framing, SIMD-accelerated maskin… |
-| 2026-10-19 05:36:06 | [ybd-cli](https://crates.io/crates/ybd-cli) | 0.4.0 | 0 | Bilibili 资源下载命令行工具 |
-| 2026-10-19 05:36:07 | [ybd-tui](https://crates.io/crates/ybd-tui) | 0.4.0 | 0 | Bilibili 资源下载终端用户界面工具 |
-| 2026-10-19 05:37:48 | [simllms](https://crates.io/crates/simllms) | 0.1.0 | 0 | Unified client for multiple LLM providers |
-| 2026-10-19 05:39:39 | [live-serve](https://crates.io/crates/live-serve) | 0.2.0 | 0 | A tiny static dev server that reloads the page when files change; works from th… |
-| 2026-10-19 05:44:32 | [project-portfolio-management-migration](https://crates.io/crates/project-portfolio-management-migration) | 0.1.0 | 0 | Database migrations for the project portfolio management service (sea-orm-migra… |
-| 2026-10-19 06:14:55 | [wsb-prj](https://crates.io/crates/wsb-prj) | 0.227.4750 | 0 | The $PRJ layout: projects, their sibling git worktrees, and the state shared be… |
-| 2026-10-19 06:14:58 | [wsb-github](https://crates.io/crates/wsb-github) | 0.227.4750 | 0 | GitHub issues, pull requests, gists and Projects boards, mirrored once per mach… |
-| 2026-10-19 06:17:27 | [primerouter](https://crates.io/crates/primerouter) | 0.1.0 | 0 | PrimeRouter Rust integration library (initial development release) |
+| 2026-10-19 06:22:33 | [custodian](https://crates.io/crates/custodian) | 0.0.1 | 0 | Reserved: the custodian of a code base — spec-driven readings, jobs and receipt… |
+| 2026-10-19 06:25:51 | [hashcli](https://crates.io/crates/hashcli) | 0.5.4 | 0 | Hash - Intelligent CLI system with dual-mode functionality (LLM chat and comman… |
+| 2026-10-19 06:30:13 | [shelfgauge](https://crates.io/crates/shelfgauge) | 0.14.0 | 0 | Index a folder of ebooks (FB2, EPUB, plain text and HTML, plain and zipped) and… |
+| 2026-10-19 06:42:40 | [helix-toolbox-core](https://crates.io/crates/helix-toolbox-core) | 1.7.2 | 0 | Helix Toolbox's data model: entries, actions, risk and validation. Part of the… |
+| 2026-10-19 06:42:43 | [helix-toolbox-platform](https://crates.io/crates/helix-toolbox-platform) | 1.7.2 | 0 | Linux distribution detection for Helix Toolbox. Part of the Helix Toolbox appli… |
+| 2026-10-19 06:42:50 | [helix-toolbox-catalog](https://crates.io/crates/helix-toolbox-catalog) | 1.7.2 | 0 | Helix Toolbox's built-in catalog and scripts, and the reader that validates the… |
+| 2026-10-19 06:42:50 | [kdbx-core](https://crates.io/crates/kdbx-core) | 0.1.0 | 0 | Shared vault model and rules for the *-kdbx ecosystem: a keepass-free KDBX snap… |
+| 2026-10-19 06:43:04 | [helix-toolbox-engine](https://crates.io/crates/helix-toolbox-engine) | 1.7.2 | 0 | Helix Toolbox's engine: plans, runners, history, health checks. Part of the Hel… |
+| 2026-10-19 06:43:17 | [coinpaprika-cli](https://crates.io/crates/coinpaprika-cli) | 0.1.8 | 0 | CoinPaprika CLI: crypto market data from the terminal. 12,000+ cryptocurrencies… |
+| 2026-10-19 06:43:44 | [helix-toolbox](https://crates.io/crates/helix-toolbox) | 1.7.2 | 0 | Build, configure and optimize a Linux machine from a terminal menu: installs, d… |
+| 2026-10-19 06:50:12 | [maintenance](https://crates.io/crates/maintenance) | 0.0.1 | 0 | Reserved: the maintenance runner — the declared checks behind maintenance macro… |
+| 2026-10-19 06:52:07 | [integrity-mac](https://crates.io/crates/integrity-mac) | 0.2.0 | 0 | Keyed integrity MACs (HMAC-SHA256) with HKDF domain separation and production-g… |
+| 2026-10-19 07:05:21 | [vuio-codec-core](https://crates.io/crates/vuio-codec-core) | 0.0.1 | 0 | Core types and registries for VuIO audio codecs — timestamps, packets, frames,… |
+| 2026-10-19 07:05:25 | [vuio-cast](https://crates.io/crates/vuio-cast) | 0.0.4 | 0 | Async Google Cast (Chromecast) client for Rust, with ring TLS. A fork of oxicas… |
+| 2026-10-19 07:05:29 | [vuio-web](https://crates.io/crates/vuio-web) | 0.0.50 | 0 | The VuIO browser interface, compiled into the server binary |
+| 2026-10-19 07:06:11 | [vuio-xaac-sys](https://crates.io/crates/vuio-xaac-sys) | 0.2.0 | 0 | Rust FFI bindings to the bundled libxaac xHE-AAC encoder and decoder. Fork of t… |
+| 2026-10-19 07:07:40 | [vuio-xaac](https://crates.io/crates/vuio-xaac) | 0.3.0 | 0 | High-level Rust xHE-AAC encoder/decoder bindings on libxaac. Fork of upstream x… |
+| 2026-10-19 07:11:22 | [laminardb-quickfix-ffi](https://crates.io/crates/laminardb-quickfix-ffi) | 0.33.0 | 0 | LaminarDB-maintained low-level binding to the QuickFIX C++ engine (quickfix-ffi… |
+| 2026-10-19 07:11:25 | [laminardb-libxml2-ffi](https://crates.io/crates/laminardb-libxml2-ffi) | 0.33.0 | 0 | LaminarDB-maintained static build of libxml2 2.15.4 (XML Schema validation subs… |
+| 2026-10-19 07:13:28 | [vuio-codec-ac3](https://crates.io/crates/vuio-codec-ac3) | 0.0.1 | 0 | High-performance, SIMD-accelerated AC-3 and E-AC-3 audio decoder and encoder in… |
+| 2026-10-19 07:16:15 | [sense-rs](https://crates.io/crates/sense-rs) | 0.1.0 | 0 | Unofficial async and blocking client for the Sense energy monitor API |
+| 2026-10-19 07:16:18 | [knotrel-core](https://crates.io/crates/knotrel-core) | 0.1.0 | 0 | Exact in-memory connectivity for undirected graphs. |
+| 2026-10-19 07:16:23 | [knotrel-server](https://crates.io/crates/knotrel-server) | 0.1.0 | 0 | HTTP API for the Knotrel connectivity engine. |
+| 2026-10-19 07:16:39 | [winnower](https://crates.io/crates/winnower) | 0.1.0 | 0 | Frees disk space by deleting generated files listed in per-project .winnow files |
+| 2026-10-19 07:19:27 | [diff-kdbx](https://crates.io/crates/diff-kdbx) | 0.1.0 | 0 | Semantic diff for KeePass KDBX files |
 
 ## Data source
 
