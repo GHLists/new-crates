@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T07:22:51.648754Z,deduco-core,0.1.0,0,0,https://git.rndsrv.eu/pi/deduco,"Embeddable core: model (Unit, Pair, Cluster, Signals) and pipeline stages"
+2026-10-19T07:23:17.025941Z,vuio-codec-dts,0.0.1,0,0,https://github.com/vuiodev/vuio,Pure-Rust DTS audio decoder (Core profile) for VuIO. Forked from oxideav-dts.
+2026-10-19T07:26:11.835126Z,forklaunch-referencing-protocol,0.1.0,0,0,https://github.com/Stranger6667/jsonschema,An implementation-agnostic JSON reference resolution library for Rust.
+2026-10-19T07:26:15.429396Z,forklaunch-regress,0.11.1,0,0,https://github.com/ridiculousfish/regress,A regular expression engine targeting EcmaScript syntax
+2026-10-19T07:26:19.209911Z,forklaunch-common,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust common APIs and runtime support
+2026-10-19T07:26:22.920731Z,forklaunch-jsonschema-protocol,0.1.0,0,0,https://github.com/Stranger6667/jsonschema,JSON schema validaton library
+2026-10-19T07:26:26.189116Z,forklaunch-core-macros,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust core macros APIs and runtime support
+2026-10-19T07:29:51.913727Z,sillstone-cli,0.2.1,0,0,https://github.com/sillstone/sillstone,The `pith` command line interface over the pith-hash suite facade.
+2026-10-19T07:29:58.974309Z,sillstone-ffi,0.2.1,0,0,https://github.com/sillstone/sillstone,C ABI and FFI bridge export for Sillstone
+2026-10-19T07:30:04.045011Z,utilvo-shield-filters,1.0.0,0,0,https://github.com/utilvo/utilvo-shield-filters,Zero-dependency parser and domain matcher for Adblock Plus 2.0 and uBlock Origin static network filter rules.
+2026-10-19T07:32:56.183619Z,bixverse-core,0.8.0,0,0,https://github.com/GregorLueg/bixverse-rs,"Core numerics for bixverse: sparse structures, linear algebra, statistics, SIMD and clustering."
+2026-10-19T07:33:16.878268Z,bixverse-methods,0.8.0,0,0,https://github.com/GregorLueg/bixverse-rs,"Bulk omics methods for bixverse: enrichment, graphs, ontologies, matrix factorisation and differential expression."
+2026-10-19T07:33:35.479808Z,uptime-mod,0.1.0,0,0,https://github.com/rubyrack/uptime-mod-sdk,"Guest SDK for Uptime script mods: the Mod trait, typed snapshot and commands, a seeded Rng."
+2026-10-19T07:35:37.635292Z,bixverse-gpu,0.8.0,0,0,https://github.com/GregorLueg/bixverse-rs,"GPU linear algebra and bulk methods for bixverse via cubecl: sparse SVD, correlations, Cholesky and NMF."
+2026-10-19T07:35:48.830505Z,forklaunch-validator,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust validation APIs and runtime support
+2026-10-19T07:36:07.752958Z,bixverse-sc-data,0.8.0,0,0,https://github.com/GregorLueg/bixverse-rs,"The bixverse single cell data layer: binary sparse format, streaming readers and h5ad, 10x h5 and MTX ingestion."
+2026-10-19T07:36:44.465698Z,bixverse-sc,0.8.0,0,0,https://github.com/GregorLueg/bixverse-rs,"Single cell and metacell analysis for bixverse: processing, batch correction, annotation, trajectories and differential expression."
+2026-10-19T07:45:21.262368Z,dragonfly-hashring,0.2.0,0,0,https://github.com/dragonflyoss/hashring.git,"Consistent hash ring shared by the Dragonfly scheduler, client and SDKs"
+2026-10-19T07:45:50.568611Z,forklaunch-core,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust core APIs and runtime support
+2026-10-19T07:46:05.335002Z,dinah,0.1.0,0,0,https://github.com/lecodev-26/dinah,Rust-first modular runtime and high-performance compute foundation
+2026-10-19T07:52:46.066111Z,zejtron,80.0.0-alpha.1,0,0,https://github.com/oxyzenQ/zejtron,"Unified Linux introspection toolkit for paths, ports, processes, files, services, and diagnostics. Boring and serious."
+2026-10-19T07:55:33.757364Z,fast-text-core,0.2.0,0,0,https://github.com/Fast-Text-editor/Fast-text-editor,"The Fast Text editor engine: rope buffer, edits, undo/redo, selections, search."
+2026-10-19T07:55:49.092955Z,forklaunch-infrastructure-redis,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust infrastructure redis APIs and runtime support
+2026-10-19T07:56:01.270808Z,fast-text-syntax,0.2.0,0,0,https://github.com/Fast-Text-editor/Fast-text-editor,"Self-contained, stateful syntax highlighting for Fast Text."
+2026-10-19T07:56:18.573621Z,fast-text-plugin,0.2.0,0,0,https://github.com/Fast-Text-editor/Fast-text-editor,"Scriptable plugin system for Fast Text, powered by Rhai."
+2026-10-19T07:56:34.363004Z,fast-text-lsp,0.2.0,0,0,https://github.com/Fast-Text-editor/Fast-text-editor,A minimal Language Server Protocol client for Fast Text.
+2026-10-19T07:56:45.806329Z,fast-text-update,0.2.0,0,0,https://github.com/Fast-Text-editor/Fast-text-editor,Release checking and self-update for the Fast Text editors.
+2026-10-19T07:57:00.254543Z,maestro-api-rs,0.1.0,0,0,https://github.com/dimms0/maestro,Rust bindings to the Maestro API
+2026-10-19T07:58:00.675946Z,bixverse-sc-gpu,0.8.0,0,0,https://github.com/GregorLueg/bixverse-rs,"GPU single cell methods for bixverse via cubecl: Harmony, PCA, kNN, SEACells, SCENIC and NEBULA."
+2026-10-19T07:59:14.159553Z,layover-update,1.15.0,0,0,https://github.com/KotkaZ/layover-project,"Finds, verifies and applies Layover releases, for the Tower to update itself between runs."
+2026-10-19T07:59:16.107151Z,bixverse-mlx,0.8.0,0,0,https://github.com/GregorLueg/bixverse-rs,"Experimental MLX backend for bixverse on Apple Silicon, via mlx-c. f32 only."
+2026-10-19T08:00:35.538186Z,bixverse-r,0.8.0,0,0,https://github.com/GregorLueg/bixverse-rs,R bindings layer for bixverse: extendr conversions for the bixverse-* crates. Re-exports bixverse-rs.
+2026-10-19T08:03:48.798089Z,scenix-terrain,1.8.0,0,0,https://github.com/AarambhDevHub/scenix,"CPU terrain systems for scenix: seeded heightmaps, chunked LOD meshes, splat maps, streaming, and height sampling."
+2026-10-19T08:04:21.136113Z,scenix-water,1.8.0,0,0,https://github.com/AarambhDevHub/scenix,"CPU water systems for scenix: Gerstner wave fields, deformed surfaces, Schlick fresnel, foam masks, underwater tinting, and reflection helpers."
+2026-10-19T08:05:51.017424Z,forklaunch-infrastructure-s3,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust infrastructure s3 APIs and runtime support
+2026-10-19T08:07:02.870287Z,scenix-sky,1.8.0,0,0,https://github.com/AarambhDevHub/scenix,"CPU-procedural sky, atmosphere evaluation, sun helpers, environment-map baking, and grounded skyboxes for scenix."
+2026-10-19T08:13:50.47697Z,vuio-core,0.0.50,0,0,https://github.com/vuiodev/vuio,"Embeddable VuIO DLNA/UPNP, Chromecast, and Airplay media server runtime"
+2026-10-19T08:14:45.569456Z,vuio-cli,0.0.50,0,0,https://github.com/vuiodev/vuio,VuIO media server command-line application
+2026-10-19T08:15:50.228806Z,forklaunch-universal-sdk,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,Shared native HTTP SDK transport and checked response runtime
+2026-10-19T08:20:06.025284Z,klava-compress,0.1.0,0,0,https://github.com/Partysun/klava,Context compression extension for klava: drop low-value tokens from tool output with kompress.
