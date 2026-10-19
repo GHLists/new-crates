@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T08:20:27.473349Z,klava-pii-guardrail,0.1.0,0,0,https://github.com/Partysun/klava,PII guardrail extension for klava: span-based detection and redaction in tool output.
+2026-10-19T08:20:40.951827Z,klava-model-escalation,0.1.0,0,0,https://github.com/Partysun/klava,Model escalation extension for klava: detect a stuck agent and route to a stronger model.
+2026-10-19T08:22:46.756856Z,envault-cli,0.1.1,0,0,https://github.com/KhadkaRipesh/envault,Local-first encrypted secrets manager for Rust projects
+2026-10-19T08:24:03.642064Z,arcanist-rs,0.3.0,0,0,https://github.com/hhh-pa/arcanist,Rust port of Arcanist (arc)
+2026-10-19T08:25:49.661825Z,forklaunch-ws,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust ws APIs and runtime support
+2026-10-19T08:35:50.600013Z,forklaunch-axum,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust axum APIs and runtime support
+2026-10-19T08:37:13.428019Z,ships,0.2.0,0,0,https://github.com/Ahmad1827/ship,"Zero-config build, dependency harvester and single-file packager for native apps and indie games"
+2026-10-19T08:45:49.997615Z,forklaunch-testing,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust testing APIs and runtime support
+2026-10-19T08:46:30.190884Z,deduco-langs,0.1.0,0,0,https://git.rndsrv.eu/pi/deduco,tree-sitter grammar registry + per-language extraction tables
+2026-10-19T08:46:36.25325Z,deduco-tests,0.1.0,0,0,https://git.rndsrv.eu/pi/deduco,"Fixtures, golden files, mutation harness (specs/09)"
+2026-10-19T08:46:50.324342Z,deduco,0.1.0,0,0,https://git.rndsrv.eu/pi/deduco,Precision-first structural code-clone detector
+2026-10-19T08:50:17.488682Z,seedrun,0.0.0,0,0,https://github.com/shehuphd/seedrun,"Placeholder for Seedrun, a BitTorrent client."
+2026-10-19T08:53:50.164505Z,codecunit-rs,0.1.0,0,0,,Binding
+2026-10-19T08:54:56.712121Z,qsdb-client,0.1.0,0,0,https://github.com/qinwenhui/qsdb,"Thin Rust client for QSDB: hand-rolled HTTP/1.1, zero network dependencies, columnar-batch first"
+2026-10-19T09:07:46.211145Z,feynrir,1.0.0,0,0,https://gitlab.com/kaelingre/feynrir,A library for the efficient construction and simplification/canonicalization of Worldline Effective Field Theory (WEFT) integrands
+2026-10-19T09:10:02.941704Z,task_history,0.0.1,0,0,https://github.com/jameshuntt,"Reserved: typed 1o task-history records (task, intent, problem, diagnosis, solution, change with per-file digests, verification, result, index) with a loader, a writer and a terminal-tree verifier —…"
+2026-10-19T09:10:05.436989Z,change_history,0.0.1,0,0,https://github.com/jameshuntt,"Reserved: per-file change records with before/after digests and a verifier of a tree against its recorded changes, the change layer of task_history. The first working release follows; nothing in 0.0.…"
+2026-10-19T09:10:08.805072Z,differences,0.0.1,0,0,https://github.com/jameshuntt,"Reserved: comparisons between recorded states — counts, receipts, task histories — rendered as reproducible difference reports, the comparison layer over task_history. The first working release follo…"
+2026-10-19T09:10:52.941843Z,revision_history,0.0.1,0,0,https://github.com/jameshuntt,"Reserved: a task's revisions as folders (base, fix1, fix2, …) over typed 1o task-history records — the revision layer of task_history. The first working release follows; nothing in 0.0.1 is usable ye…"
+2026-10-19T09:10:55.273458Z,tree_history,0.0.1,0,0,https://github.com/jameshuntt,Reserved: digests of a tree over time and the verification of a terminal tree against its recorded changes — the tree layer of task_history. The first working release follows; nothing in 0.0.1 is usa…
+2026-10-19T09:14:52.908171Z,rustclamp-macros,0.0.0,0,0,https://github.com/rustclamp/rustclamp,Reserved for the RustClamp framework. Not yet released.
+2026-10-19T09:14:54.965136Z,rustclamp-tooling,0.0.0,0,0,https://github.com/rustclamp/rustclamp,Reserved for the RustClamp framework. Not yet released.
+2026-10-19T09:16:48.075915Z,zakura-librocksdb-sys,0.17.3+10.4.2,0,0,https://github.com/zakura-core/rust-rocksdb-wrapper,Native bindings to librocksdb (zakura fork of librocksdb-sys with a unity-build C++ compile)
+2026-10-19T09:17:10.957098Z,zakura-rocksdb,0.24.0,0,0,https://github.com/zakura-core/rust-rocksdb-wrapper,Rust wrapper for Facebook's RocksDB embeddable database (zakura fork of rocksdb with a unity-build C++ compile)
+2026-10-19T09:17:54.341508Z,forkspace,0.1.0,0,0,https://github.com/berezovyy/forkspace,"Copy-on-write copies of a project directory, including node_modules, .env and other ignored files. Changes stay in the copy until you merge them back. Linux and macOS, no root needed."

@@ -8,54 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 08:20 UTC
+## Latest list — 2026-10-19 09:19 UTC
 
-New crates published between 2026-10-19 07:22 UTC and 2026-10-19 08:20 UTC.
+New crates published between 2026-10-19 08:20 UTC and 2026-10-19 09:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-19T08-20-15-98275Z.csv)
+[Full CSV](data/new-crates-2026-10-19T09-19-46-146009Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-19 07:22:51 | [deduco-core](https://crates.io/crates/deduco-core) | 0.1.0 | 0 | Embeddable core: model (Unit, Pair, Cluster, Signals) and pipeline stages |
-| 2026-10-19 07:23:17 | [vuio-codec-dts](https://crates.io/crates/vuio-codec-dts) | 0.0.1 | 0 | Pure-Rust DTS audio decoder (Core profile) for VuIO. Forked from oxideav-dts. |
-| 2026-10-19 07:26:11 | [forklaunch-referencing-protocol](https://crates.io/crates/forklaunch-referencing-protocol) | 0.1.0 | 0 | An implementation-agnostic JSON reference resolution library for Rust. |
-| 2026-10-19 07:26:15 | [forklaunch-regress](https://crates.io/crates/forklaunch-regress) | 0.11.1 | 0 | A regular expression engine targeting EcmaScript syntax |
-| 2026-10-19 07:26:19 | [forklaunch-common](https://crates.io/crates/forklaunch-common) | 0.1.0 | 0 | ForkLaunch Rust common APIs and runtime support |
-| 2026-10-19 07:26:22 | [forklaunch-jsonschema-protocol](https://crates.io/crates/forklaunch-jsonschema-protocol) | 0.1.0 | 0 | JSON schema validaton library |
-| 2026-10-19 07:26:26 | [forklaunch-core-macros](https://crates.io/crates/forklaunch-core-macros) | 0.1.0 | 0 | ForkLaunch Rust core macros APIs and runtime support |
-| 2026-10-19 07:29:51 | [sillstone-cli](https://crates.io/crates/sillstone-cli) | 0.2.1 | 0 | The `pith` command line interface over the pith-hash suite facade. |
-| 2026-10-19 07:29:58 | [sillstone-ffi](https://crates.io/crates/sillstone-ffi) | 0.2.1 | 0 | C ABI and FFI bridge export for Sillstone |
-| 2026-10-19 07:30:04 | [utilvo-shield-filters](https://crates.io/crates/utilvo-shield-filters) | 1.0.0 | 0 | Zero-dependency parser and domain matcher for Adblock Plus 2.0 and uBlock Origi… |
-| 2026-10-19 07:32:56 | [bixverse-core](https://crates.io/crates/bixverse-core) | 0.8.0 | 0 | Core numerics for bixverse: sparse structures, linear algebra, statistics, SIMD… |
-| 2026-10-19 07:33:16 | [bixverse-methods](https://crates.io/crates/bixverse-methods) | 0.8.0 | 0 | Bulk omics methods for bixverse: enrichment, graphs, ontologies, matrix factori… |
-| 2026-10-19 07:33:35 | [uptime-mod](https://crates.io/crates/uptime-mod) | 0.1.0 | 0 | Guest SDK for Uptime script mods: the Mod trait, typed snapshot and commands, a… |
-| 2026-10-19 07:35:37 | [bixverse-gpu](https://crates.io/crates/bixverse-gpu) | 0.8.0 | 0 | GPU linear algebra and bulk methods for bixverse via cubecl: sparse SVD, correl… |
-| 2026-10-19 07:35:48 | [forklaunch-validator](https://crates.io/crates/forklaunch-validator) | 0.1.0 | 0 | ForkLaunch Rust validation APIs and runtime support |
-| 2026-10-19 07:36:07 | [bixverse-sc-data](https://crates.io/crates/bixverse-sc-data) | 0.8.0 | 0 | The bixverse single cell data layer: binary sparse format, streaming readers an… |
-| 2026-10-19 07:36:44 | [bixverse-sc](https://crates.io/crates/bixverse-sc) | 0.8.0 | 0 | Single cell and metacell analysis for bixverse: processing, batch correction, a… |
-| 2026-10-19 07:45:21 | [dragonfly-hashring](https://crates.io/crates/dragonfly-hashring) | 0.2.0 | 0 | Consistent hash ring shared by the Dragonfly scheduler, client and SDKs |
-| 2026-10-19 07:45:50 | [forklaunch-core](https://crates.io/crates/forklaunch-core) | 0.1.0 | 0 | ForkLaunch Rust core APIs and runtime support |
-| 2026-10-19 07:46:05 | [dinah](https://crates.io/crates/dinah) | 0.1.0 | 0 | Rust-first modular runtime and high-performance compute foundation |
-| 2026-10-19 07:52:46 | [zejtron](https://crates.io/crates/zejtron) | 80.0.0-alpha.1 | 0 | Unified Linux introspection toolkit for paths, ports, processes, files, service… |
-| 2026-10-19 07:55:33 | [fast-text-core](https://crates.io/crates/fast-text-core) | 0.2.0 | 0 | The Fast Text editor engine: rope buffer, edits, undo/redo, selections, search. |
-| 2026-10-19 07:55:49 | [forklaunch-infrastructure-redis](https://crates.io/crates/forklaunch-infrastructure-redis) | 0.1.0 | 0 | ForkLaunch Rust infrastructure redis APIs and runtime support |
-| 2026-10-19 07:56:01 | [fast-text-syntax](https://crates.io/crates/fast-text-syntax) | 0.2.0 | 0 | Self-contained, stateful syntax highlighting for Fast Text. |
-| 2026-10-19 07:56:18 | [fast-text-plugin](https://crates.io/crates/fast-text-plugin) | 0.2.0 | 0 | Scriptable plugin system for Fast Text, powered by Rhai. |
-| 2026-10-19 07:56:34 | [fast-text-lsp](https://crates.io/crates/fast-text-lsp) | 0.2.0 | 0 | A minimal Language Server Protocol client for Fast Text. |
-| 2026-10-19 07:56:45 | [fast-text-update](https://crates.io/crates/fast-text-update) | 0.2.0 | 0 | Release checking and self-update for the Fast Text editors. |
-| 2026-10-19 07:57:00 | [maestro-api-rs](https://crates.io/crates/maestro-api-rs) | 0.1.0 | 0 | Rust bindings to the Maestro API |
-| 2026-10-19 07:58:00 | [bixverse-sc-gpu](https://crates.io/crates/bixverse-sc-gpu) | 0.8.0 | 0 | GPU single cell methods for bixverse via cubecl: Harmony, PCA, kNN, SEACells, S… |
-| 2026-10-19 07:59:14 | [layover-update](https://crates.io/crates/layover-update) | 1.15.0 | 0 | Finds, verifies and applies Layover releases, for the Tower to update itself be… |
-| 2026-10-19 07:59:16 | [bixverse-mlx](https://crates.io/crates/bixverse-mlx) | 0.8.0 | 0 | Experimental MLX backend for bixverse on Apple Silicon, via mlx-c. f32 only. |
-| 2026-10-19 08:00:35 | [bixverse-r](https://crates.io/crates/bixverse-r) | 0.8.0 | 0 | R bindings layer for bixverse: extendr conversions for the bixverse-* crates. R… |
-| 2026-10-19 08:03:48 | [scenix-terrain](https://crates.io/crates/scenix-terrain) | 1.8.0 | 0 | CPU terrain systems for scenix: seeded heightmaps, chunked LOD meshes, splat ma… |
-| 2026-10-19 08:04:21 | [scenix-water](https://crates.io/crates/scenix-water) | 1.8.0 | 0 | CPU water systems for scenix: Gerstner wave fields, deformed surfaces, Schlick… |
-| 2026-10-19 08:05:51 | [forklaunch-infrastructure-s3](https://crates.io/crates/forklaunch-infrastructure-s3) | 0.1.0 | 0 | ForkLaunch Rust infrastructure s3 APIs and runtime support |
-| 2026-10-19 08:07:02 | [scenix-sky](https://crates.io/crates/scenix-sky) | 1.8.0 | 0 | CPU-procedural sky, atmosphere evaluation, sun helpers, environment-map baking,… |
-| 2026-10-19 08:13:50 | [vuio-core](https://crates.io/crates/vuio-core) | 0.0.50 | 0 | Embeddable VuIO DLNA/UPNP, Chromecast, and Airplay media server runtime |
-| 2026-10-19 08:14:45 | [vuio-cli](https://crates.io/crates/vuio-cli) | 0.0.50 | 0 | VuIO media server command-line application |
-| 2026-10-19 08:15:50 | [forklaunch-universal-sdk](https://crates.io/crates/forklaunch-universal-sdk) | 0.1.0 | 0 | Shared native HTTP SDK transport and checked response runtime |
-| 2026-10-19 08:20:06 | [klava-compress](https://crates.io/crates/klava-compress) | 0.1.0 | 0 | Context compression extension for klava: drop low-value tokens from tool output… |
+| 2026-10-19 08:20:27 | [klava-pii-guardrail](https://crates.io/crates/klava-pii-guardrail) | 0.1.0 | 0 | PII guardrail extension for klava: span-based detection and redaction in tool o… |
+| 2026-10-19 08:20:40 | [klava-model-escalation](https://crates.io/crates/klava-model-escalation) | 0.1.0 | 0 | Model escalation extension for klava: detect a stuck agent and route to a stron… |
+| 2026-10-19 08:22:46 | [envault-cli](https://crates.io/crates/envault-cli) | 0.1.1 | 0 | Local-first encrypted secrets manager for Rust projects |
+| 2026-10-19 08:24:03 | [arcanist-rs](https://crates.io/crates/arcanist-rs) | 0.3.0 | 0 | Rust port of Arcanist (arc) |
+| 2026-10-19 08:25:49 | [forklaunch-ws](https://crates.io/crates/forklaunch-ws) | 0.1.0 | 0 | ForkLaunch Rust ws APIs and runtime support |
+| 2026-10-19 08:35:50 | [forklaunch-axum](https://crates.io/crates/forklaunch-axum) | 0.1.0 | 0 | ForkLaunch Rust axum APIs and runtime support |
+| 2026-10-19 08:37:13 | [ships](https://crates.io/crates/ships) | 0.2.0 | 0 | Zero-config build, dependency harvester and single-file packager for native app… |
+| 2026-10-19 08:45:49 | [forklaunch-testing](https://crates.io/crates/forklaunch-testing) | 0.1.0 | 0 | ForkLaunch Rust testing APIs and runtime support |
+| 2026-10-19 08:46:30 | [deduco-langs](https://crates.io/crates/deduco-langs) | 0.1.0 | 0 | tree-sitter grammar registry + per-language extraction tables |
+| 2026-10-19 08:46:36 | [deduco-tests](https://crates.io/crates/deduco-tests) | 0.1.0 | 0 | Fixtures, golden files, mutation harness (specs/09) |
+| 2026-10-19 08:46:50 | [deduco](https://crates.io/crates/deduco) | 0.1.0 | 0 | Precision-first structural code-clone detector |
+| 2026-10-19 08:50:17 | [seedrun](https://crates.io/crates/seedrun) | 0.0.0 | 0 | Placeholder for Seedrun, a BitTorrent client. |
+| 2026-10-19 08:53:50 | [codecunit-rs](https://crates.io/crates/codecunit-rs) | 0.1.0 | 0 | Binding |
+| 2026-10-19 08:54:56 | [qsdb-client](https://crates.io/crates/qsdb-client) | 0.1.0 | 0 | Thin Rust client for QSDB: hand-rolled HTTP/1.1, zero network dependencies, col… |
+| 2026-10-19 09:07:46 | [feynrir](https://crates.io/crates/feynrir) | 1.0.0 | 0 | A library for the efficient construction and simplification/canonicalization of… |
+| 2026-10-19 09:10:02 | [task_history](https://crates.io/crates/task_history) | 0.0.1 | 0 | Reserved: typed 1o task-history records (task, intent, problem, diagnosis, solu… |
+| 2026-10-19 09:10:05 | [change_history](https://crates.io/crates/change_history) | 0.0.1 | 0 | Reserved: per-file change records with before/after digests and a verifier of a… |
+| 2026-10-19 09:10:08 | [differences](https://crates.io/crates/differences) | 0.0.1 | 0 | Reserved: comparisons between recorded states — counts, receipts, task historie… |
+| 2026-10-19 09:10:52 | [revision_history](https://crates.io/crates/revision_history) | 0.0.1 | 0 | Reserved: a task's revisions as folders (base, fix1, fix2, …) over typed 1o tas… |
+| 2026-10-19 09:10:55 | [tree_history](https://crates.io/crates/tree_history) | 0.0.1 | 0 | Reserved: digests of a tree over time and the verification of a terminal tree a… |
+| 2026-10-19 09:14:52 | [rustclamp-macros](https://crates.io/crates/rustclamp-macros) | 0.0.0 | 0 | Reserved for the RustClamp framework. Not yet released. |
+| 2026-10-19 09:14:54 | [rustclamp-tooling](https://crates.io/crates/rustclamp-tooling) | 0.0.0 | 0 | Reserved for the RustClamp framework. Not yet released. |
+| 2026-10-19 09:16:48 | [zakura-librocksdb-sys](https://crates.io/crates/zakura-librocksdb-sys) | 0.17.3+10.4.2 | 0 | Native bindings to librocksdb (zakura fork of librocksdb-sys with a unity-build… |
+| 2026-10-19 09:17:10 | [zakura-rocksdb](https://crates.io/crates/zakura-rocksdb) | 0.24.0 | 0 | Rust wrapper for Facebook's RocksDB embeddable database (zakura fork of rocksdb… |
+| 2026-10-19 09:17:54 | [forkspace](https://crates.io/crates/forkspace) | 0.1.0 | 0 | Copy-on-write copies of a project directory, including node_modules, .env and o… |
 
 ## Data source
 
