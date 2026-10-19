@@ -1,0 +1,53 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T20:21:25.521936Z,adotenv-process,0.7.0,0,0,https://github.com/asamarts/adotenv,Unsafe process-environment adapter for adotenv loaded values.
+2026-10-19T20:21:30.773735Z,adotenv-config,0.7.0,0,0,https://github.com/asamarts/adotenv,config crate source adapter for adotenv documents.
+2026-10-19T20:21:33.618044Z,adotenv-figment,0.7.0,0,0,https://github.com/asamarts/adotenv,Figment provider for adotenv documents.
+2026-10-19T20:21:35.517569Z,adotenv-cli,0.7.0,0,0,https://github.com/asamarts/adotenv,"Command-line tools for reading, checking, formatting and comparing dotenv files."
+2026-10-19T20:23:10.385338Z,fgate,0.2.0,0,0,https://github.com/alexander-frase/fgate,"The fair gate: coding agents sharing one machine take turns for builds, within CPU and memory ceilings"
+2026-10-19T20:26:02.269271Z,prestui,0.1.0,0,0,https://github.com/presvy1-beep/Prestui,Render images in the terminal
+2026-10-19T20:27:54.263352Z,rishe,0.1.0,0,0,https://github.com/MahdiAlikhah/rishe,"Rishe (ریشه): High-performance Persian NLP engine in Rust — tokenization, SBD, lemmatization, ezafe detection, informal→formal normalization"
+2026-10-19T20:32:46.889492Z,xrat-web,0.31.0,0,0,,Shared WebUI API contracts and Dioxus frontend for XRAT
+2026-10-19T20:33:44.007897Z,miniscript-diagnostics,0.1.0-alpha.1,0,0,https://github.com/busayo-OD/miniscript-diagnostics,Diagnostics for Miniscript satisfaction under a supplied spending context.
+2026-10-19T20:34:35.685269Z,weavie,0.1.0,0,0,https://github.com/bboxy450/weavie,Explore Nix flake dependency graphs for selective multi-repository workspaces
+2026-10-19T20:35:20.180175Z,deflect-kit,0.1.0,0,0,https://github.com/copyleftdev/deflect-rs,"Composable DDoS-mitigation primitives: one umbrella over the deflect-rs crates, each behind a feature flag."
+2026-10-19T20:37:49.158259Z,alpha2-assets,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,"Asset identity, proxy selection, and conform reports for alpha2 hosts. Placeholder; the first release is 0.1.0."
+2026-10-19T20:37:51.928143Z,alpha2-audio,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,Platform-independent audio DSP core for alpha2. Placeholder; the first release is 0.1.0.
+2026-10-19T20:37:54.538155Z,alpha2-audio-worklet,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,C-ABI wasm binding for the alpha2 AudioWorklet host. Placeholder; the first release is 0.1.0.
+2026-10-19T20:37:57.329162Z,alpha2-build-support,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,"Build-script helpers, and the C headers their shims share, for the alpha2 crates that link FFmpeg. Placeholder; the first release is 0.1.0."
+2026-10-19T20:37:59.988484Z,alpha2-engine,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,Player and exporter facade for alpha2. Placeholder; the first release is 0.1.0.
+2026-10-19T20:42:19.816391Z,ocracle,1.0.0,0,0,https://github.com/cmeister2/ocracle,"Neural OCR for Magic: The Gathering card text, historic type and italics"
+2026-10-19T20:43:39.839816Z,alpha2-eval,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,Pure alpha2 timeline evaluation. Placeholder; the first release is 0.1.0.
+2026-10-19T20:47:51.913218Z,berthq-client,0.1.0,0,0,https://github.com/talovicnedim/berthq,"Rust client for Berthq, the single-binary message broker"
+2026-10-19T20:48:31.324755Z,uqa-libsqlite3-sys,0.37.1,0,0,https://github.com/jaepil/rusqlite,Native bindings to the libsqlite3 library
+2026-10-19T20:48:34.482149Z,uqa-rusqlite,0.39.1,0,0,https://github.com/jaepil/rusqlite,UQA-maintained rusqlite with per-connection bundled page caches
+2026-10-19T20:51:14.708132Z,transpara-sdk,0.1.0,0,0,https://github.com/transpara/transpara-sdk,Shared Transpara service infrastructure for Rust
+2026-10-19T20:52:18.693073Z,bsed-blockedit,0.1.0,0,0,https://github.com/gwicke/prior,"An @@@OLD/@@@NEW/@@@END block-edit core: block parser, match resolver, and applier."
+2026-10-19T20:52:30.893728Z,bsed,0.1.0,0,0,https://github.com/gwicke/prior,Preview a GNU sed script as line-anchored @@@OLD/@@@NEW/@@@END block edits. Ships the `bsed` binary.
+2026-10-19T20:53:40.473314Z,alpha2-extensions,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,"Extension providers that supply frames of formats the host decoders do not read: SVG, animated images, Lottie, OpenEXR, image sequences. Placeholder; the first release is 0.1.0."
+2026-10-19T20:54:45.663343Z,tenbri,0.0.0,0,0,https://github.com/tenbri/tenbri,Tamper-evident log of AI agent decisions: the facade crate that re-exports the Tenbri API.
+2026-10-19T20:55:57.982559Z,cms-edm,0.1.0,0,0,https://gitlab.cern.ch/dgrove/hep-crates,"CMS files on hep-root: data tier identification, EDM object and FEDRawDataCollection readers, and event indexes"
+2026-10-19T20:55:58.546531Z,grid-trust,0.1.0,0,0,https://gitlab.cern.ch/dgrove/hep-crates,"Whom a grid HTTPS client trusts and what it presents: web, CERN and CA-folder roots, and a rustls client configuration with a grid proxy as client certificate"
+2026-10-19T20:55:58.770781Z,hep-columns,0.1.0,0,0,https://gitlab.cern.ch/dgrove/hep-crates,"Column operations on event and jagged arrays (delta R, masses, pairs, argmin), each the Rust form of one NumPy, Awkward Array or Coffea call"
+2026-10-19T20:55:59.125084Z,wlcg-doors,0.1.0,0,0,https://gitlab.cern.ch/dgrove/hep-crates,"The WLCG storage doors (HTTPS/WebDAV endpoints of CMS, ATLAS and LHCb) as a compiled-in CRIC snapshot, with the strict reader that makes one"
+2026-10-19T20:56:00.934767Z,voms-proxy,0.1.0,0,0,https://gitlab.cern.ch/dgrove/hep-crates,"Find, examine and make VOMS grid proxies: read the user certificate (PEM or .p12), ask a VOMS server for attributes, and build an RFC 3820 proxy"
+2026-10-19T20:57:22.057663Z,ostrya-mount,0.5.0,0,0,https://github.com/growler/ostrya,Mounts an ostrya commit as composefs (EROFS and overlayfs) on Linux
+2026-10-19T20:59:27.057731Z,sikt,0.1.0,0,0,https://github.com/johnae/sikt,"A readable pattern language for searching, extracting and replacing text"
+2026-10-19T20:59:46.513754Z,sikt-cli,0.1.0,0,0,https://github.com/johnae/sikt,Command-line search and replace with sikt patterns
+2026-10-19T21:03:40.5999Z,alpha2-extensions-web,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,"The extension providers as their own wasm module, loaded by a page only when it opens such a source. Placeholder; the first release is 0.1.0."
+2026-10-19T21:03:57.13208Z,grid-catalog,0.1.0,0,0,https://gitlab.cern.ch/dgrove/hep-crates,"The common interface of grid catalogs: dataset and file names, catalog traits, an HTTPS transport that presents the grid proxy, and WebDAV listing of EOS"
+2026-10-19T21:06:17.273577Z,clapback-derive,0.2.0,0,0,https://github.com/drmartinwimmer/clapback,Derive macros for the clapback CLI command builder and runner
+2026-10-19T21:06:18.986134Z,clapback,0.2.0,0,0,https://github.com/drmartinwimmer/clapback,Declarative CLI command builder and runner with clap-style derive macros and composition
+2026-10-19T21:06:53.191771Z,workforce-planning-management-matcher,0.1.0,0,0,https://github.com/workforce-planning-management/workforce-planning-management,"Worker record matcher for workforce planning: deterministic and probabilistic matching of names, dates of birth, emails, phones and employer worker numbers, with nickname and diacritic handling and a…"
+2026-10-19T21:07:04.082477Z,altcha-server,0.1.0,0,0,https://github.com/sagikazarmark/altcha-rs,"Server side of ALTCHA v2 proof-of-work: issuing signed challenges and redeeming each solution once, over a replay store you provide"
+2026-10-19T21:07:05.530833Z,dioxus-altcha,0.1.0,0,0,https://github.com/sagikazarmark/altcha-rs,"ALTCHA v2 proof-of-work for Dioxus: solved in Web Workers on WebCrypto, with a hook and a form field"
+2026-10-19T21:08:22.435074Z,slashdot-tui,0.1.0,0,0,https://github.com/gwicke/prior,"Drawing stack for composing scrollback above raw / frame content: RenderElement/RenderManager, Draw, TermIO, ANSI/width utilities."
+2026-10-19T21:09:44.057612Z,slashdot-menu,0.1.0,0,0,https://github.com/gwicke/prior,"Data-driven slash-menu engine: descriptors, path grammar, filter/sort, and overlay interpreter."
+2026-10-19T21:10:23.229547Z,site-buster,0.1.0,0,0,,A command-line website crawler with HTML dumping and content search
+2026-10-19T21:13:40.238904Z,alpha2-ffmpeg-bridge,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,Small audited unsafe boundary for FFmpeg buffers used by alpha2-native. Placeholder; the first release is 0.1.0.
+2026-10-19T21:14:40.081859Z,spp-rusqlite,0.40.2,0,0,https://github.com/rusqlite/rusqlite,Temporary fork of rusqlite with sqlite-wasm-rs 0.6 support for stellar-private-payments
+2026-10-19T21:14:47.765596Z,rucio-client,0.1.0,0,0,https://gitlab.cern.ch/dgrove/hep-crates,"A Rucio client: where files are stored, the HTTPS copies they can be read from, name search and dataset sizes, for any experiment's Rucio"
+2026-10-19T21:15:13.262747Z,tididi,0.1.0,0,0,https://github.com/Tractables/tididi,"Tree Decision Diagrams: canonical vtree-shaped decision diagrams for Boolean functions, with model counting and semiring evaluation"
+2026-10-19T21:16:35.804668Z,tellers-timeline-core,0.1.0,0,0,https://github.com/tellers-ai/tellers-timeline,"An OpenTimelineIO timeline engine with policy-driven editing, sync, sanitization, and effect conventions."
+2026-10-19T21:17:33.149039Z,rpcsvc,0.7.0,0,0,,"A zero-copy, actor-like RPC framework using rkyv."
+2026-10-19T21:17:47.682536Z,tinystore,0.1.0-rc.6,0,0,https://github.com/tinyshed/tinystore,"A small storage runtime for applications on SQLite: SQL, key-value state, durable jobs, files, search, logs and metrics in one directory"
+2026-10-19T21:18:13.597478Z,tinystore-cli,0.1.0-rc.6,0,0,https://github.com/tinyshed/tinystore,The tinystore command: a store's directory served to other processes
