@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T04:21:11.406898Z,shrub-shell,0.0.2,0,0,https://github.com/victor-software-house/shrub,Rust-implemented shell focused on POSIX and bash compatibility
+2026-10-19T04:22:31.482325Z,cpeforge-ubl-validator,0.1.0,0,0,https://github.com/alvarez25leo/cpeforge,Validador XSD 1.0 de documentos UBL 2.0 y 2.1 con recursos locales verificados.
+2026-10-19T04:23:19.136499Z,brokk-bifrost-jvm-analysis,0.0.0,0,0,https://github.com/BrokkAi/bifrost,Reserved name for an upcoming part of brokk-bifrost; the first real release follows.
+2026-10-19T04:24:11.287088Z,sillstone-png,0.2.0,0,0,https://github.com/sillstone/sillstone,"PNG decoding for 8/16-bit colour images, including Adam7 interlacing (zero-dep Rust)"
+2026-10-19T04:24:19.160461Z,sillstone-jpeg,0.2.0,0,0,https://github.com/sillstone/sillstone,"pith jpeg lane: baseline and progressive JPEG decoding, byte-exact with libjpeg islow (zero-dep Rust)"
+2026-10-19T04:30:02.793518Z,hypersig_proc_impl,0.1.0,0,0,https://github.com/imaimai17468/hypersig,Token transformation behind hypersig's derive macro
+2026-10-19T04:30:04.053776Z,hypersig_style,0.1.0,0,0,https://github.com/imaimai17468/hypersig,Typed atomic CSS for hypersig. Use it through the hypersig crate
+2026-10-19T04:30:05.831195Z,hypersig_proc,0.1.0,0,0,https://github.com/imaimai17468/hypersig,Derive macro for hypersig. Use it through the hypersig crate
+2026-10-19T04:30:08.363655Z,hypersig,0.1.0,0,0,https://github.com/imaimai17468/hypersig,Server-driven hypermedia for Rust where every string the browser runs is generated from a type
+2026-10-19T04:30:11.020143Z,hypersig_i18n,0.1.0,0,0,https://github.com/imaimai17468/hypersig,"Typed translations for hypersig, where a missing translation is a compile error"
+2026-10-19T04:32:25.720232Z,cpeforge-xcodes,0.1.0,0,0,https://github.com/alvarez25leo/cpeforge,Catálogo fijo de códigos de error de SUNAT.
+2026-10-19T04:37:53.123235Z,snek-core,1.0.0,0,0,,"UI-free core of wackysnek: game rules, power-ups, arenas, seeded RNG and replays"
+2026-10-19T04:42:04.833125Z,hypersig_ui,0.1.0,0,0,https://github.com/imaimai17468/hypersig,"Accessible components for hypersig, styled after shadcn/ui"
+2026-10-19T04:42:26.942979Z,cpeforge-xml-parser,0.1.0,0,0,https://github.com/alvarez25leo/cpeforge,"Lectura de comprobantes electrónicos SUNAT (UBL) a modelos de cpeforge-core, con perfil XML seguro."
+2026-10-19T04:43:06.028178Z,eisler-core,0.0.1,0,0,,"KiCad PCB files: parsing, board model, DRC, routing, zone fill, saving"
+2026-10-19T04:43:08.77606Z,eisler-render,0.0.1,0,0,,wgpu renderer for Eisler boards
+2026-10-19T04:43:11.668988Z,eisler-app,0.0.1,0,0,,Eisler: a fast PCB editor that opens and saves KiCad files (binary: eisler)
+2026-10-19T04:47:34.612682Z,sillstone-audio,0.2.0,0,0,https://github.com/sillstone/sillstone,"Audio fingerprinting: RIFF/WAVE and FLAC decode, Shazam-style spectral-peak signatures and delta-t histogram matching"
+2026-10-19T04:47:43.525227Z,sillstone-video,0.2.0,0,0,https://github.com/sillstone/sillstone,"Video fingerprints: mp4 demux, H.264 decode, 2 fps pHash frames and MinHash chain signature (zero-dep Rust)"
+2026-10-19T04:52:27.813508Z,cpeforge,0.1.0,0,0,https://github.com/alvarez25leo/cpeforge,CPEForge: SDK en Rust para facturación electrónica en Perú (envío SOAP y GRE a SUNAT).
+2026-10-19T04:57:03.577486Z,sillstone-file,0.2.0,0,0,https://github.com/sillstone/sillstone,"File-domain hashing for the pith suite: FastCDC chunk signatures, exact chunk-set Jaccard, PDF text extraction"
+2026-10-19T04:58:34.384738Z,yaxpeax-power,0.1.0,0,0,http://git.iximeow.net/yaxpeax-power/,"Power, PowerPC, and related decoders for the yaxpeax project"
+2026-10-19T05:00:30.796349Z,socai-worker-protocol,0.1.0,0,0,https://github.com/socai-io/socai,Stable control and event protocol for socai Agent workers
+2026-10-19T05:02:29.970519Z,cpeforge-cpe-validator,0.1.0,0,0,https://github.com/alvarez25leo/cpeforge,Validación de CPE SUNAT con hojas XSL (XSLT 1.0 con libxslt) y perfil seguro.
+2026-10-19T05:04:18.963639Z,socai-worker,0.1.0,0,0,https://github.com/socai-io/socai,Reusable isolated session worker backed by socai-core
+2026-10-19T05:08:35.591934Z,sillstone-curator,0.2.0,0,0,https://github.com/sillstone/sillstone,"The pith suite curator: detect, tier-1 content hash, tier-2 signatures, match, calibrate and the pith CLI."
+2026-10-19T05:12:13.195627Z,artifactize-mcp,0.13.0,0,0,https://github.com/lhj6102/artifactize,The MCP endpoint for artifactize's shared verification and inspection operations.
+2026-10-19T05:18:41.08251Z,pocket-encoder,0.1.0,0,0,https://github.com/Gonzih/clap-how-to,"A bundled, offline sentence transformer with native Rust CPU inference"
