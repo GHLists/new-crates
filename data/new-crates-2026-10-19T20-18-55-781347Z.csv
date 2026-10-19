@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T19:24:24.866Z,manguebyte-pro-io,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"ASIO driver support for the Manguebyte Audio Framework, under the GPLv3: a device backend for manguebyte-devices."
+2026-10-19T19:24:40.339448Z,cwalk-sys,0.1.0,0,0,https://gitlab.com/flowstatedev/cwalk-rs,Raw FFI bindings for the cwalk C path library
+2026-10-19T19:25:09.895849Z,egui-frame-meter,0.1.1,0,0,https://github.com/hexqnt/egui-frame-meter,A compact frame-time graph widget for egui
+2026-10-19T19:25:24.400033Z,cwalk-rs,0.1.0,0,0,https://gitlab.com/flowstatedev/cwalk-rs,Safe Rust bindings for the cwalk C path library
+2026-10-19T19:25:24.814808Z,dimple,0.0.1,0,0,https://github.com/divotmaker/dimple,"Golf ball-flight physics: aerodynamics, RK4 trajectory, bounce, and rollout"
+2026-10-19T19:26:07.109669Z,forked-core,0.1.0,0,0,https://github.com/clibequilibrium/forked,"Versioned state for AI agents: fork, rewind and replay structured agent state. Core engine: persistent map, commits, branches, diff, effect log."
+2026-10-19T19:26:12.272944Z,forked-api,0.1.0,0,0,https://github.com/clibequilibrium/forked,HTTP API contract for forked: request/response types and a transport-agnostic dispatcher shared by the self-hosted server and forked cloud.
+2026-10-19T19:26:16.266709Z,forked-memory,0.1.0,0,0,https://github.com/clibequilibrium/forked,In-memory storage adapter for forked: tests and local development.
+2026-10-19T19:26:21.876029Z,forked-sqlite,0.1.0,0,0,https://github.com/clibequilibrium/forked,"SQLite storage adapter for forked (rusqlite, bundled SQLite)."
+2026-10-19T19:26:33.67925Z,forked-server,0.1.0,0,0,https://github.com/clibequilibrium/forked,"Self-hostable HTTP server for forked: the same /v1 API as forked cloud, over SQLite or in-memory storage."
+2026-10-19T19:30:55.46681Z,ze-node-schema,0.1.0,0,0,https://github.com/xcrtp/zela,Property model layer for ze-node-core (NodeSpec / Property / NodeRegistry / DynamicObject). No egui dependency.
+2026-10-19T19:40:54.457758Z,ze-graph-algo,0.1.0,0,0,https://github.com/xcrtp/zela,"Graph algorithms (topo sort, dirty propagation, SCC) for ze-node-core"
+2026-10-19T19:50:54.195432Z,ze-graph-eval,0.1.0,0,0,https://github.com/xcrtp/zela,Evaluation strategies (lazy pull) for ze-node-core
+2026-10-19T19:54:13.712898Z,testinfra,0.1.0,0,0,https://github.com/gilesw/testinfra-rs,Testinfra-inspired infrastructure assertions for Linux and Docker
+2026-10-19T19:58:13.661761Z,voicetel,2.2.17,0,0,https://github.com/voicetel/rust-sdk,"Official Rust SDK for the VoiceTel REST API (v2.2.17). Provision numbers, place orders, validate e911, send messages, and manage your account."
+2026-10-19T19:58:54.621075Z,amont-agent-guard,2.45.0,0,0,https://github.com/fredericrous/amont-agent,"amont-agent's guard: shell analysis, rules and stances for an agent's tool calls"
+2026-10-19T19:59:04.206925Z,amont-agent-process,2.45.0,0,0,https://github.com/fredericrous/amont-agent,"amont-agent's work process: plan review, implementation review, preview approvals and provenance"
+2026-10-19T20:00:54.70781Z,ze-node,0.1.0,0,0,https://github.com/xcrtp/zela,zela 节点图统一入口：核心 trait + schema + 图算法 + 求值（不含 UI）
+2026-10-19T20:05:16.940606Z,mise-lsp,0.0.0,0,0,https://github.com/jdx/mise,Language server for mise config files (name reserved)
+2026-10-19T20:08:52.991555Z,stampeded,0.3.1,0,0,https://github.com/seuros/stampeded,"A polyglot job processor on Postgres 18+: claim, execute, schedule, observe"
+2026-10-19T20:09:19.007092Z,symbiont-memory,0.45.0,0,0,https://github.com/MathisWellmann/symbiont,"Optional memory across symbiont evolve calls: an archive of evaluated programs, recurring failures and an ACE playbook of lessons, rendered into the next prompt."
+2026-10-19T20:10:54.325022Z,zela,0.1.0,0,0,https://github.com/xcrtp/zela,zela 统一入口：Pod 层 + 节点图基础层（ze-pod + ze-node）
+2026-10-19T20:11:24.474311Z,gitenv,0.1.0,0,0,https://github.com/mwala-zm/gitenv,Terminal UI that keeps you on the right git identity for the repo you're in
+2026-10-19T20:17:24.819882Z,madcat,0.1.0,0,0,https://github.com/madcat-os/madcat,"madcat — core binary. Memory, MCP, TTS, MQTT mesh, persona system."

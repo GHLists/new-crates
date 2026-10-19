@@ -8,55 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 19:21 UTC
+## Latest list — 2026-10-19 20:18 UTC
 
-New crates published between 2026-10-19 18:18 UTC and 2026-10-19 19:21 UTC.
+New crates published between 2026-10-19 19:21 UTC and 2026-10-19 20:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-19T19-21-12-833589Z.csv)
+[Full CSV](data/new-crates-2026-10-19T20-18-55-781347Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-19 18:19:02 | [manguebyte-host](https://crates.io/crates/manguebyte-host) | 0.1.0 | 0 | Plugin hosting for the Manguebyte Audio Framework: load CLAP, VST 3 and LV2 plu… |
-| 2026-10-19 18:19:29 | [oxframe-render](https://crates.io/crates/oxframe-render) | 0.1.0 | 0 | Renderers for oxframe scenes: tiny-skia on the CPU, vello on the GPU |
-| 2026-10-19 18:20:05 | [lcr-ffi](https://crates.io/crates/lcr-ffi) | 0.4.0 | 0 | C ABI for LCR Code: decode, encode, multi-frame combining and CBOR File Transfer |
-| 2026-10-19 18:23:05 | [deflect-fingerprint](https://crates.io/crates/deflect-fingerprint) | 0.1.0 | 0 | Adaptive attack-fingerprint learning for deflect-rs via bounded heavy-hitter co… |
-| 2026-10-19 18:25:42 | [medmodels-drm-macros](https://crates.io/crates/medmodels-drm-macros) | 0.2.0 | 0 | Attribute macro that marks functions requiring a license entitlement |
-| 2026-10-19 18:25:46 | [medmodels-drm](https://crates.io/crates/medmodels-drm) | 0.2.0 | 0 | License entitlement marker that links the MedModels check at build time |
-| 2026-10-19 18:28:45 | [oxframe-export](https://crates.io/crates/oxframe-export) | 0.1.0 | 0 | Video export for oxframe: frames piped into ffmpeg, PNG sequences, audio muxing |
-| 2026-10-19 18:29:38 | [ohos-hiappevent-sys](https://crates.io/crates/ohos-hiappevent-sys) | 0.1.0 | 0 | Raw bindings to the HiAppEvent (application event logging and fault monitoring)… |
-| 2026-10-19 18:30:19 | [manguebyte-lv2](https://crates.io/crates/manguebyte-lv2) | 0.1.0 | 0 | Builds LV2 plugins from the Manguebyte plugin API. |
-| 2026-10-19 18:31:56 | [deflect-enforce](https://crates.io/crates/deflect-enforce) | 0.1.0 | 0 | Enforcement backends for deflect-rs: program bans into nftables (XDP fast path… |
-| 2026-10-19 18:38:03 | [oxframe-preview](https://crates.io/crates/oxframe-preview) | 0.1.0 | 0 | Preview protocol session for oxframe: native WebSocket server and in-browser (w… |
-| 2026-10-19 18:41:56 | [deflect-bgp](https://crates.io/crates/deflect-bgp) | 0.1.0 | 0 | Upstream RTBH (remote-triggered blackhole) announcement for deflect-rs, driven… |
-| 2026-10-19 18:43:05 | [manguebyte-osc](https://crates.io/crates/manguebyte-osc) | 0.1.0 | 0 | Open Sound Control for the Manguebyte Audio Framework: messages, bundles, addre… |
-| 2026-10-19 18:44:10 | [ratatui-slint](https://crates.io/crates/ratatui-slint) | 0.1.0 | 0 | Embed Slint components as pixel widgets inside ratatui applications |
-| 2026-10-19 18:45:20 | [manguebyte-standalone](https://crates.io/crates/manguebyte-standalone) | 0.1.0 | 0 | Runs a Manguebyte plugin as a standalone application, on the sound card and MID… |
-| 2026-10-19 18:47:28 | [oxframe](https://crates.io/crates/oxframe) | 0.1.0 | 0 | Procedural animation in Rust: scenes are coroutines, frames are await points |
-| 2026-10-19 18:48:38 | [pscat](https://crates.io/crates/pscat) | 0.6.0 | 0 | A PostScript interpreter for watching programs draw, live |
-| 2026-10-19 18:49:16 | [toml-file-refs](https://crates.io/crates/toml-file-refs) | 0.1.0 | 0 | Load TOML config with serde, resolving `*_file` keys to the contents of the ref… |
-| 2026-10-19 18:50:39 | [ze-pod-core](https://crates.io/crates/ze-pod-core) | 0.1.0 | 0 | Pod 统一抽象：不透明状态机 + capability 协商 + 函数集合（零依赖 Pod 层核心 crate） |
-| 2026-10-19 18:50:51 | [ze-pod-macro](https://crates.io/crates/ze-pod-macro) | 0.1.0 | 0 | ze-pod-core 的 proc-macro：#[capability]（生成持有 &dyn Pod 的 capability struct） |
-| 2026-10-19 18:51:14 | [ze-pod-binding](https://crates.io/crates/ze-pod-binding) | 0.1.0 | 0 | 语言无关的 Pod 绑定驱动：能力计划 / 调用编排 / JSON 文档 |
-| 2026-10-19 18:51:44 | [ze-pod-lua](https://crates.io/crates/ze-pod-lua) | 0.1.0 | 0 | 纯 Lua 适配器（mlua）：能力注入 + 宿主→脚本入口 |
-| 2026-10-19 18:51:56 | [deflect-telemetry](https://crates.io/crates/deflect-telemetry) | 0.1.0 | 0 | Flow-telemetry ingestion for deflect-rs: NetFlow v5/v9, IPFIX, and sFlow v5 int… |
-| 2026-10-19 18:52:09 | [ze-pod-py](https://crates.io/crates/ze-pod-py) | 0.1.0 | 0 | 纯 Python 适配器（pyo3，feature 门控）：重解释器只承担装配期的活 |
-| 2026-10-19 18:52:17 | [xlsynth-lean](https://crates.io/crates/xlsynth-lean) | 0.75.0 | 0 | Export and evaluate XLSynth gate graphs in Lean |
-| 2026-10-19 18:53:14 | [preset-docs](https://crates.io/crates/preset-docs) | 0.1.1 | 0 | Documentation pages for the preset.nz apps from what the apps declare: one mark… |
-| 2026-10-19 18:54:32 | [rawlink](https://crates.io/crates/rawlink) | 0.1.0 | 0 | RawLink: reliable encrypted transport with built-in SSH obfuscation |
-| 2026-10-19 18:57:31 | [manguebyte](https://crates.io/crates/manguebyte) | 0.1.0 | 0 | The Manguebyte Audio Framework. Modern, real-time-safe audio for Rust: buffers,… |
-| 2026-10-19 18:58:12 | [aula-f87-control](https://crates.io/crates/aula-f87-control) | 0.5.3 | 0 | Backlight effects, per-key colors, music sync, sleep timer and battery level fo… |
-| 2026-10-19 18:59:07 | [marcasite-mcp](https://crates.io/crates/marcasite-mcp) | 0.1.3 | 0 | MCP server that serves the marcasite SDK docs (unofficial Polymarket Rust SDK)… |
-| 2026-10-19 18:59:22 | [oxframe-cli](https://crates.io/crates/oxframe-cli) | 0.1.0 | 0 | The `oxframe` command: create, preview with hot reload, render and check oxfram… |
-| 2026-10-19 19:00:16 | [muse-code-sdk](https://crates.io/crates/muse-code-sdk) | 1.4.11 | 0 | Async Rust client for Muse Code over MSP |
-| 2026-10-19 19:00:53 | [ze-pod](https://crates.io/crates/ze-pod) | 0.1.0 | 0 | zela Pod 统一入口：核心抽象 + 绑定驱动 + capability 宏（不含 lua / py，保持 wasm32） |
-| 2026-10-19 19:01:24 | [comindly](https://crates.io/crates/comindly) | 0.1.0 | 0 | Deterministic, always-fresh, cross-repo code intelligence for coding agents — s… |
-| 2026-10-19 19:07:28 | [vercel-core](https://crates.io/crates/vercel-core) | 0.1.0-alpha.1 | 0 | Experimental alpha: shared HTTP, TLS, retry, credential and error plumbing for… |
-| 2026-10-19 19:07:48 | [vercel-blob](https://crates.io/crates/vercel-blob) | 0.1.0-alpha.1 | 0 | Experimental alpha Vercel Blob object storage SDK: async on tokio, portable sta… |
-| 2026-10-19 19:10:54 | [ze-node-schema-macros](https://crates.io/crates/ze-node-schema-macros) | 0.1.0 | 0 | Proc-macro support for ze-node-schema: #[derive(NodeSpec)] + #[property]. |
-| 2026-10-19 19:12:51 | [jatszoter-agent](https://crates.io/crates/jatszoter-agent) | 0.1.0 | 0 | Host daemon for jatszoter: leases deployments and runs them in QEMU VMs |
-| 2026-10-19 19:13:11 | [cargo-mangue](https://crates.io/crates/cargo-mangue) | 0.1.0 | 0 | The command-line tool of the Manguebyte Audio Framework: create, bundle, instal… |
-| 2026-10-19 19:13:39 | [hep-root](https://crates.io/crates/hep-root) | 0.1.0 | 0 | A pure-Rust ROOT file reader: TFile, TTree, compressed baskets, and flat or jag… |
-| 2026-10-19 19:20:54 | [ze-node-core](https://crates.io/crates/ze-node-core) | 0.1.0 | 0 | Node editor core trait layer for zela (pure, no project dependencies) |
+| 2026-10-19 19:24:24 | [manguebyte-pro-io](https://crates.io/crates/manguebyte-pro-io) | 0.1.0 | 0 | ASIO driver support for the Manguebyte Audio Framework, under the GPLv3: a devi… |
+| 2026-10-19 19:24:40 | [cwalk-sys](https://crates.io/crates/cwalk-sys) | 0.1.0 | 0 | Raw FFI bindings for the cwalk C path library |
+| 2026-10-19 19:25:09 | [egui-frame-meter](https://crates.io/crates/egui-frame-meter) | 0.1.1 | 0 | A compact frame-time graph widget for egui |
+| 2026-10-19 19:25:24 | [cwalk-rs](https://crates.io/crates/cwalk-rs) | 0.1.0 | 0 | Safe Rust bindings for the cwalk C path library |
+| 2026-10-19 19:25:24 | [dimple](https://crates.io/crates/dimple) | 0.0.1 | 0 | Golf ball-flight physics: aerodynamics, RK4 trajectory, bounce, and rollout |
+| 2026-10-19 19:26:07 | [forked-core](https://crates.io/crates/forked-core) | 0.1.0 | 0 | Versioned state for AI agents: fork, rewind and replay structured agent state.… |
+| 2026-10-19 19:26:12 | [forked-api](https://crates.io/crates/forked-api) | 0.1.0 | 0 | HTTP API contract for forked: request/response types and a transport-agnostic d… |
+| 2026-10-19 19:26:16 | [forked-memory](https://crates.io/crates/forked-memory) | 0.1.0 | 0 | In-memory storage adapter for forked: tests and local development. |
+| 2026-10-19 19:26:21 | [forked-sqlite](https://crates.io/crates/forked-sqlite) | 0.1.0 | 0 | SQLite storage adapter for forked (rusqlite, bundled SQLite). |
+| 2026-10-19 19:26:33 | [forked-server](https://crates.io/crates/forked-server) | 0.1.0 | 0 | Self-hostable HTTP server for forked: the same /v1 API as forked cloud, over SQ… |
+| 2026-10-19 19:30:55 | [ze-node-schema](https://crates.io/crates/ze-node-schema) | 0.1.0 | 0 | Property model layer for ze-node-core (NodeSpec / Property / NodeRegistry / Dyn… |
+| 2026-10-19 19:40:54 | [ze-graph-algo](https://crates.io/crates/ze-graph-algo) | 0.1.0 | 0 | Graph algorithms (topo sort, dirty propagation, SCC) for ze-node-core |
+| 2026-10-19 19:50:54 | [ze-graph-eval](https://crates.io/crates/ze-graph-eval) | 0.1.0 | 0 | Evaluation strategies (lazy pull) for ze-node-core |
+| 2026-10-19 19:54:13 | [testinfra](https://crates.io/crates/testinfra) | 0.1.0 | 0 | Testinfra-inspired infrastructure assertions for Linux and Docker |
+| 2026-10-19 19:58:13 | [voicetel](https://crates.io/crates/voicetel) | 2.2.17 | 0 | Official Rust SDK for the VoiceTel REST API (v2.2.17). Provision numbers, place… |
+| 2026-10-19 19:58:54 | [amont-agent-guard](https://crates.io/crates/amont-agent-guard) | 2.45.0 | 0 | amont-agent's guard: shell analysis, rules and stances for an agent's tool calls |
+| 2026-10-19 19:59:04 | [amont-agent-process](https://crates.io/crates/amont-agent-process) | 2.45.0 | 0 | amont-agent's work process: plan review, implementation review, preview approva… |
+| 2026-10-19 20:00:54 | [ze-node](https://crates.io/crates/ze-node) | 0.1.0 | 0 | zela 节点图统一入口：核心 trait + schema + 图算法 + 求值（不含 UI） |
+| 2026-10-19 20:05:16 | [mise-lsp](https://crates.io/crates/mise-lsp) | 0.0.0 | 0 | Language server for mise config files (name reserved) |
+| 2026-10-19 20:08:52 | [stampeded](https://crates.io/crates/stampeded) | 0.3.1 | 0 | A polyglot job processor on Postgres 18+: claim, execute, schedule, observe |
+| 2026-10-19 20:09:19 | [symbiont-memory](https://crates.io/crates/symbiont-memory) | 0.45.0 | 0 | Optional memory across symbiont evolve calls: an archive of evaluated programs,… |
+| 2026-10-19 20:10:54 | [zela](https://crates.io/crates/zela) | 0.1.0 | 0 | zela 统一入口：Pod 层 + 节点图基础层（ze-pod + ze-node） |
+| 2026-10-19 20:11:24 | [gitenv](https://crates.io/crates/gitenv) | 0.1.0 | 0 | Terminal UI that keeps you on the right git identity for the repo you're in |
+| 2026-10-19 20:17:24 | [madcat](https://crates.io/crates/madcat) | 0.1.0 | 0 | madcat — core binary. Memory, MCP, TTS, MQTT mesh, persona system. |
 
 ## Data source
 
