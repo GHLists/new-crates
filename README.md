@@ -8,35 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 01:19 UTC
+## Latest list — 2026-10-19 02:19 UTC
 
-New crates published between 2026-10-19 00:21 UTC and 2026-10-19 01:19 UTC.
+New crates published between 2026-10-19 01:19 UTC and 2026-10-19 02:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-19T01-19-26-294675Z.csv)
+[Full CSV](data/new-crates-2026-10-19T02-19-14-540443Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-19 00:22:37 | [rust-apk](https://crates.io/crates/rust-apk) | 1.0.0 | 0 | Build, align, sign, verify, and inspect Android APKs in pure Rust |
-| 2026-10-19 00:36:04 | [jig-planner-protocol](https://crates.io/crates/jig-planner-protocol) | 0.1.1 | 0 | The protocol between a Jig repository's planner and the runner that runs it: wh… |
-| 2026-10-19 00:36:09 | [jig-sdk-macros](https://crates.io/crates/jig-sdk-macros) | 0.1.1 | 0 | The macros of jig-sdk, Jig's planner SDK: #[jig::planner] and #[derive(jig::Art… |
-| 2026-10-19 00:36:16 | [jig-sdk](https://crates.io/crates/jig-sdk) | 0.1.1 | 0 | Write a Jig repository's planner: the program that declares the checks Jig runs… |
-| 2026-10-19 00:36:28 | [jig-sdk-cargo](https://crates.io/crates/jig-sdk-cargo) | 0.1.1 | 0 | Plan a Cargo workspace's checks with jig-sdk: what its build reads, its crates… |
-| 2026-10-19 00:37:59 | [nwwm](https://crates.io/crates/nwwm) | 0.1.0 | 0 | A WIP tiling window manager for X |
-| 2026-10-19 00:41:07 | [functora-curry](https://crates.io/crates/functora-curry) | 0.1.0 | 0 | Macro-free currying on stable Rust. |
-| 2026-10-19 00:48:19 | [structured-ltv](https://crates.io/crates/structured-ltv) | 0.8.0 | 0 | Format-neutral long-term signature validation facts over PKIX, CMS and caller-o… |
-| 2026-10-19 00:49:43 | [joaju-csv](https://crates.io/crates/joaju-csv) | 0.1.0 | 0 | A fast and deterministic Rust library for tabular CSV manipulation, relational… |
-| 2026-10-19 00:50:12 | [joaju-unfurl](https://crates.io/crates/joaju-unfurl) | 0.1.0 | 0 | A fast and secure Rust library for OpenGraph metadata extraction with SSRF prot… |
-| 2026-10-19 00:50:33 | [joaju-table](https://crates.io/crates/joaju-table) | 0.1.0 | 0 | A fast and deterministic Rust library for rendering 3-line academic tables (ABN… |
-| 2026-10-19 00:50:46 | [joaju-pedigree](https://crates.io/crates/joaju-pedigree) | 0.1.0 | 0 | A high-performance Rust library for pedigree modeling, kinship calculation, and… |
-| 2026-10-19 00:53:10 | [joaju](https://crates.io/crates/joaju) | 0.1.0 | 0 | A scientific academic compiler and typographical orchestrator in Rust for Typst… |
-| 2026-10-19 01:02:41 | [libdigidocpp-build](https://crates.io/crates/libdigidocpp-build) | 0.1.0 | 0 | Build-script helpers to find libdigidocpp on Linux, macOS and Windows, and to e… |
-| 2026-10-19 01:03:23 | [libdigidocpp-sys](https://crates.io/crates/libdigidocpp-sys) | 0.1.0 | 0 | Low-level bindings to libdigidocpp. See digidocpp crate for safe API. |
-| 2026-10-19 01:04:04 | [digidocpp](https://crates.io/crates/digidocpp) | 0.1.0 | 0 | Safe bindings to libdigidocpp: create and validate eIDAS digital signatures in… |
-| 2026-10-19 01:05:32 | [qerexa](https://crates.io/crates/qerexa) | 0.1.0 | 0 | Gate every action through Qerexa runtime trust enforcement |
-| 2026-10-19 01:05:41 | [tauri-plugin-purchase](https://crates.io/crates/tauri-plugin-purchase) | 0.1.0-alpha.1 | 0 | Tauri plugin that buys and restores one-time purchases through the App Store an… |
-| 2026-10-19 01:11:52 | [path-guard](https://crates.io/crates/path-guard) | 0.2.2 | 0 | Path containment guard: reject hostile relative paths lexically, then prove the… |
-| 2026-10-19 01:17:02 | [math-prime-util](https://crates.io/crates/math-prime-util) | 1.0.0 | 0 | Rust port of Perl's Math::Prime::Util: primality, sieves, factoring, number the… |
-| 2026-10-19 01:18:10 | [slug-collate](https://crates.io/crates/slug-collate) | 0.1.1 | 0 | Slugify plus deterministic, portable, non-locale string and path collation: NFK… |
+| 2026-10-19 01:20:53 | [winoveride](https://crates.io/crates/winoveride) | 0.1.0 | 0 | A Windows keyboard hook library for handling selected keys and hotkeys |
+| 2026-10-19 01:27:12 | [claviron-acme](https://crates.io/crates/claviron-acme) | 0.2.0-alpha.18 | 0 | ACME certificate issuance and renewal for Claviron |
+| 2026-10-19 01:27:15 | [claviron-dns](https://crates.io/crates/claviron-dns) | 0.2.0-alpha.18 | 0 | Authoritative DNS and managed zone serving for Claviron |
+| 2026-10-19 01:27:17 | [claviron-domains](https://crates.io/crates/claviron-domains) | 0.2.0-alpha.18 | 0 | Registrar-held domains for a Claviron edge: store, delegation, registrar-hosted… |
+| 2026-10-19 01:27:24 | [claviron-grpc](https://crates.io/crates/claviron-grpc) | 0.2.0-alpha.18 | 0 | Typed mTLS-secured administration services for Claviron |
+| 2026-10-19 01:29:47 | [lumenize-cli](https://crates.io/crates/lumenize-cli) | 0.2.0-alpha.18 | 0 | Standalone Artisan console launcher using Lumenize |
+| 2026-10-19 01:34:51 | [claviron-tools](https://crates.io/crates/claviron-tools) | 0.2.0-alpha.18 | 0 | Shared utilities for Claviron operator and client tools |
+| 2026-10-19 01:38:00 | [sillstone-buffer](https://crates.io/crates/sillstone-buffer) | 0.2.0-beta.1 | 0 | Core contiguous memory and strided buffer primitives for Sillstone |
+| 2026-10-19 01:38:08 | [sillstone-math](https://crates.io/crates/sillstone-math) | 0.2.0-beta.1 | 0 | Pure-Rust FFT, DCT, linear algebra, median, and numeric transforms. |
+| 2026-10-19 01:38:15 | [sillstone-digest](https://crates.io/crates/sillstone-digest) | 0.2.0-beta.1 | 0 | Pure-Rust cryptographic and non-cryptographic hash algorithms (SHA-256, SHA-512… |
+| 2026-10-19 01:38:23 | [sillstone-unicode](https://crates.io/crates/sillstone-unicode) | 0.2.0-beta.1 | 0 | Pure-Rust Unicode NFC normalisation and table lookup. |
+| 2026-10-19 01:38:46 | [sillstone-flac](https://crates.io/crates/sillstone-flac) | 0.2.0-beta.1 | 0 | FLAC subset decoding: STREAMINFO, constant/verbatim/fixed subframes, both Rice… |
+| 2026-10-19 01:44:51 | [claviron-acme-cli](https://crates.io/crates/claviron-acme-cli) | 0.2.0-alpha.18 | 0 | Claviron ACME account and certificate CLI |
+| 2026-10-19 01:52:34 | [hereticus-callees](https://crates.io/crates/hereticus-callees) | 0.1.0 | 0 | Resolve function call targets |
+| 2026-10-19 01:52:36 | [hereticus-view](https://crates.io/crates/hereticus-view) | 0.1.0 | 0 | Human-readable output for binary comparison |
+| 2026-10-19 01:52:38 | [hereticus-match](https://crates.io/crates/hereticus-match) | 0.1.0 | 0 | Compare and match functions between binaries |
+| 2026-10-19 01:52:40 | [hereticus](https://crates.io/crates/hereticus) | 0.1.0 | 0 | Compare functions between two binaries, robust to compiler differences |
+| 2026-10-19 01:52:41 | [laden](https://crates.io/crates/laden) | 1.0.1 | 0 | Pressure, load, and memory signals for placing work on the least-loaded host |
+| 2026-10-19 01:52:42 | [hereticus-cli](https://crates.io/crates/hereticus-cli) | 0.1.0 | 0 | Command line tool to compare functions between two binaries |
+| 2026-10-19 01:54:51 | [claviron-cert](https://crates.io/crates/claviron-cert) | 0.2.0-alpha.18 | 0 | Claviron local certificate generation and inspection tool |
+| 2026-10-19 02:04:15 | [aws-shared-config](https://crates.io/crates/aws-shared-config) | 0.1.0 | 0 | Lossless parser and editor for ~/.aws/config and ~/.aws/credentials: edits keep… |
+| 2026-10-19 02:04:51 | [claviron-client](https://crates.io/crates/claviron-client) | 0.2.0-alpha.18 | 0 | Claviron gRPC control-plane client |
+| 2026-10-19 02:13:51 | [t4a-private-gemm-x86](https://crates.io/crates/t4a-private-gemm-x86) | 0.1.23 | 0 | x86-64 matmul impl (tensor4all fork of private-gemm-x86; adds the masked-store… |
+| 2026-10-19 02:14:51 | [claviron-hosting-cli](https://crates.io/crates/claviron-hosting-cli) | 0.2.0-alpha.18 | 0 | Claviron hosting DB and certificate management CLI |
+| 2026-10-19 02:15:38 | [protocol-droid-schema](https://crates.io/crates/protocol-droid-schema) | 0.3.0 | 0 | Per-revision Model Context Protocol wire types generated from the official sche… |
+| 2026-10-19 02:15:43 | [protocol-droid-macros](https://crates.io/crates/protocol-droid-macros) | 0.3.0 | 0 | Procedural macros for the protocol-droid Model Context Protocol toolkit. |
+| 2026-10-19 02:16:00 | [protocol-droid](https://crates.io/crates/protocol-droid) | 0.3.0 | 0 | A Model Context Protocol toolkit that speaks every published spec revision, wit… |
+| 2026-10-19 02:16:37 | [protocol-droid-cli](https://crates.io/crates/protocol-droid-cli) | 0.3.0 | 0 | Command-line Swiss-army knife for the protocol-droid Model Context Protocol too… |
 
 ## Data source
 

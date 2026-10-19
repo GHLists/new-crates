@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T01:20:53.983902Z,winoveride,0.1.0,0,0,,A Windows keyboard hook library for handling selected keys and hotkeys
+2026-10-19T01:27:12.747105Z,claviron-acme,0.2.0-alpha.18,0,0,https://github.com/claviron/exta,ACME certificate issuance and renewal for Claviron
+2026-10-19T01:27:15.330612Z,claviron-dns,0.2.0-alpha.18,0,0,https://github.com/claviron/exta,Authoritative DNS and managed zone serving for Claviron
+2026-10-19T01:27:17.654708Z,claviron-domains,0.2.0-alpha.18,0,0,https://github.com/claviron/exta,"Registrar-held domains for a Claviron edge: store, delegation, registrar-hosted records and synchronization over pooled registrar clients"
+2026-10-19T01:27:24.161428Z,claviron-grpc,0.2.0-alpha.18,0,0,https://github.com/claviron/exta,Typed mTLS-secured administration services for Claviron
+2026-10-19T01:29:47.432599Z,lumenize-cli,0.2.0-alpha.18,0,0,https://github.com/claviron/lumenize.git,Standalone Artisan console launcher using Lumenize
+2026-10-19T01:34:51.658916Z,claviron-tools,0.2.0-alpha.18,0,0,https://github.com/claviron/tools,Shared utilities for Claviron operator and client tools
+2026-10-19T01:38:00.956095Z,sillstone-buffer,0.2.0-beta.1,0,0,https://github.com/sillstone/sillstone,Core contiguous memory and strided buffer primitives for Sillstone
+2026-10-19T01:38:08.354847Z,sillstone-math,0.2.0-beta.1,0,0,https://github.com/sillstone/sillstone,"Pure-Rust FFT, DCT, linear algebra, median, and numeric transforms."
+2026-10-19T01:38:15.457138Z,sillstone-digest,0.2.0-beta.1,0,0,https://github.com/sillstone/sillstone,"Pure-Rust cryptographic and non-cryptographic hash algorithms (SHA-256, SHA-512, SHA-1, Murmur3, CRC32c, xxHash64)."
+2026-10-19T01:38:23.866951Z,sillstone-unicode,0.2.0-beta.1,0,0,https://github.com/sillstone/sillstone,Pure-Rust Unicode NFC normalisation and table lookup.
+2026-10-19T01:38:46.932039Z,sillstone-flac,0.2.0-beta.1,0,0,https://github.com/sillstone/sillstone,"FLAC subset decoding: STREAMINFO, constant/verbatim/fixed subframes, both Rice methods (RFC 9639)"
+2026-10-19T01:44:51.79473Z,claviron-acme-cli,0.2.0-alpha.18,0,0,https://github.com/claviron/tools,Claviron ACME account and certificate CLI
+2026-10-19T01:52:34.949109Z,hereticus-callees,0.1.0,0,0,https://github.com/wc0x2b/hereticus,Resolve function call targets
+2026-10-19T01:52:36.905753Z,hereticus-view,0.1.0,0,0,https://github.com/wc0x2b/hereticus,Human-readable output for binary comparison
+2026-10-19T01:52:38.873877Z,hereticus-match,0.1.0,0,0,https://github.com/wc0x2b/hereticus,Compare and match functions between binaries
+2026-10-19T01:52:40.860895Z,hereticus,0.1.0,0,0,https://github.com/wc0x2b/hereticus,"Compare functions between two binaries, robust to compiler differences"
+2026-10-19T01:52:41.220658Z,laden,1.0.1,0,0,https://github.com/manic-systems/laden,"Pressure, load, and memory signals for placing work on the least-loaded host"
+2026-10-19T01:52:42.835814Z,hereticus-cli,0.1.0,0,0,https://github.com/wc0x2b/hereticus,Command line tool to compare functions between two binaries
+2026-10-19T01:54:51.110755Z,claviron-cert,0.2.0-alpha.18,0,0,https://github.com/claviron/tools,Claviron local certificate generation and inspection tool
+2026-10-19T02:04:15.605439Z,aws-shared-config,0.1.0,0,0,https://github.com/AnderEnder/aws-shared-config,"Lossless parser and editor for ~/.aws/config and ~/.aws/credentials: edits keep comments and formatting, reading follows the AWS SDKs' rules, serde support"
+2026-10-19T02:04:51.992265Z,claviron-client,0.2.0-alpha.18,0,0,https://github.com/claviron/tools,Claviron gRPC control-plane client
+2026-10-19T02:13:51.761982Z,t4a-private-gemm-x86,0.1.23,0,0,https://github.com/tensor4all/t4a-private-gemm-x86,x86-64 matmul impl (tensor4all fork of private-gemm-x86; adds the masked-store offset clamp and a triangular-destination regression test)
+2026-10-19T02:14:51.780945Z,claviron-hosting-cli,0.2.0-alpha.18,0,0,https://github.com/claviron/tools,Claviron hosting DB and certificate management CLI
+2026-10-19T02:15:38.808365Z,protocol-droid-schema,0.3.0,0,0,https://github.com/greysquirr3l/protocol-droid,Per-revision Model Context Protocol wire types generated from the official schema.json for every published revision.
+2026-10-19T02:15:43.247054Z,protocol-droid-macros,0.3.0,0,0,https://github.com/greysquirr3l/protocol-droid,Procedural macros for the protocol-droid Model Context Protocol toolkit.
+2026-10-19T02:16:00.548161Z,protocol-droid,0.3.0,0,0,https://github.com/greysquirr3l/protocol-droid,"A Model Context Protocol toolkit that speaks every published spec revision, with one canonical IR behind many per-revision codecs."
+2026-10-19T02:16:37.694408Z,protocol-droid-cli,0.3.0,0,0,https://github.com/greysquirr3l/protocol-droid,"Command-line Swiss-army knife for the protocol-droid Model Context Protocol toolkit: bridge, probe, inspect, record and replay."
