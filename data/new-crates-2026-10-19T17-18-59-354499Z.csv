@@ -1,0 +1,54 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T16:21:30.660193Z,codex-client-cw,0.1.1,0,0,,Typed Rust client for the Codex App Server over a Unix-domain WebSocket.
+2026-10-19T16:22:34.088155Z,meerschaum-web,5.0.0-rc.1,0,0,https://github.com/bmeares/Meerschaum,"Internal crate of Meerschaum: the server-rendered /dash console (askama and HTMX, vendored Plotly, MapLibre and Cytoscape)"
+2026-10-19T16:23:17.206849Z,parkhi,0.0.0,0,0,https://github.com/mira-iitjmu/mira-curate,"Placeholder — High-performance, Indic-first multimodal data curation engine"
+2026-10-19T16:23:27.330561Z,repo-search,0.0.0,0,0,https://github.com/May-Agent/repo-search,Repository-local semantic code search for coding agents
+2026-10-19T16:23:57.160159Z,parkhi-kernels,0.0.0,0,0,https://github.com/mira-iitjmu/mira-curate,Placeholder — High-throughput SIMD vector routines and Arrow kernels for Parkhi
+2026-10-19T16:24:27.187289Z,evai-gui,1.0.0,0,0,https://github.com/sablokg/evaiutilities-desktop,egui desktop application for the evAI variant/genome annotation utilities
+2026-10-19T16:26:58.444488Z,leptos_aria_tabs,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T16:27:14.778649Z,ink-rs,0.0.0,0,0,,"Terminal user interfaces with components and flexbox, in the spirit of Ink. Not related to ink! smart contracts. Name reserved; no code yet."
+2026-10-19T16:27:15.41904Z,densa-window,0.1.0,0,0,https://github.com/densa-rs/densa,"Runs a densa interface in a native window: winit input in, one wgpu draw call per frame out"
+2026-10-19T16:29:39.528782Z,leptos_aria_tag,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T16:30:32.950184Z,xoev-codelists-xauslaender,0.1.0-alpha.1,0,0,https://github.com/hd-gmbh-dev/xoev-codelists-rs,Codelist data published under `urn:xoev-de:xauslaender:codeliste:` (XAusländer)
+2026-10-19T16:30:43.560313Z,manguebyte-clap,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,Builds CLAP plugins from the Manguebyte plugin API.
+2026-10-19T16:31:01.877803Z,org-eclipse-elk-alg-vertiflex,0.11.0,0,0,https://github.com/openedges/elk-rs,"ELK VertiFlex layout algorithm of the Eclipse Layout Kernel, ported to pure Rust"
+2026-10-19T16:31:35.412452Z,xoev-codelists-bmi-bit,0.1.0-alpha.1,0,0,https://github.com/hd-gmbh-dev/xoev-codelists-rs,Codelist data published under `urn:xoev-de:bund:bmi:bit:codeliste:` (BMI/BIT)
+2026-10-19T16:33:32.430475Z,meerschaum-cli,5.0.0-rc.1,0,0,https://github.com/bmeares/Meerschaum,"Internal crate of Meerschaum: the CLI library behind `mrsm` (clap CLI, shell, native actions); install `meerschaum`, not this crate"
+2026-10-19T16:35:36.62671Z,geiserx_ts_portmapper,0.58.0,0,0,https://github.com/GeiserX/tailscale-rs,tailscale NAT port mapper (NAT-PMP and PCP)
+2026-10-19T16:35:52.421852Z,org-eclipse-elk-conn-gmf,0.11.0,0,0,https://github.com/openedges/elk-rs,"ELK GMF connector (Draw2D layouter) of the Eclipse Layout Kernel, ported to pure Rust"
+2026-10-19T16:36:24.879827Z,gitehr-clincalc,0.4.1,0,0,https://github.com/gitehr/gitehr,GitEHR integration plugin for the clincalc clinical-calculator engine
+2026-10-19T16:36:50.621627Z,deepseek-recipe-macros,0.2.0,0,0,https://github.com/deepseek-ai/deepseek-recipe,Procedural macros for deepseek-recipe: the `prompt!` template macro and the `UntaggedDeserialize` derive.
+2026-10-19T16:36:55.441094Z,transliteratio,0.1.0,0,0,https://gitlab.com/transliteratio/transliteratio-rs,"Transliteration tables, string to string: ISO, GOST, BGN/PCGN, ALA-LC, ELOT, DIN 31635, Hepburn, pinyin, Wade–Giles, the Korean systems, Beta Code, the national systems, inverses, Latin-to-ASCII fold…"
+2026-10-19T16:38:02.168755Z,densa-widgets,0.1.0,0,0,https://github.com/densa-rs/densa,"Standard widgets for densa: labels, buttons, text inputs, scroll views, splitters, docking"
+2026-10-19T16:38:16.575378Z,zip-codec,0.0.0,0,0,https://github.com/astral-sh/astral-codec,Placeholder release for zip-codec
+2026-10-19T16:38:35.284371Z,zip-framing,0.0.0,0,0,https://github.com/astral-sh/astral-codec,Placeholder release for zip-framing
+2026-10-19T16:42:22.697095Z,manguebyte-devices,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,Audio and MIDI device input and output for the Manguebyte Audio Framework.
+2026-10-19T16:43:35.456839Z,leptos_aria_toast,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T16:44:08.023482Z,mitosis-db,0.1.0,0,0,https://github.com/irfanfaraaz/mitosis,Copy-on-write Postgres clones for AI agent tasks on macOS APFS
+2026-10-19T16:44:21.179323Z,meerschaum,5.0.0-rc.1,0,0,https://github.com/bmeares/Meerschaum,"Meerschaum: sync pipes of data between databases, APIs and files (the stable Rust API; `cargo install meerschaum` installs the `mrsm` CLI)"
+2026-10-19T16:47:28.697932Z,org-eclipse-elk-graph-json,0.11.0,0,0,https://github.com/openedges/elk-rs,"ELK JSON graph import/export and the elkjs-compatible layout API of the Eclipse Layout Kernel, ported to pure Rust"
+2026-10-19T16:47:56.393129Z,rocketsim_viewer,0.3.0,0,0,https://github.com/ZealanL/RocketSim,3D visualizer for RocketSim Rocket League simulation
+2026-10-19T16:47:56.477587Z,fraiseql-rust,2.17.0,0,0,https://github.com/fraiseql/fraiseql,Rust authoring language for FraiseQL with 100% feature parity
+2026-10-19T16:48:49.83324Z,densa,0.1.0,0,0,https://github.com/densa-rs/densa,"A native Rust platform for data-dense, real-time applications: live Arrow tables, a GPU data grid and charts, widgets with docking and screen reader support, in one stack"
+2026-10-19T16:49:51.166582Z,leptos_aria_toggle,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Toggle button components for the leptos_aria component library
+2026-10-19T16:50:46.855048Z,interpx,0.1.0,0,0,https://github.com/YUKIKEDA/interpx,"Pure Rust interpolation covering the main classes of SciPy 1.18's scipy.interpolate: one variable, curves, regular grids, and scattered data."
+2026-10-19T16:53:36.503952Z,manguebyte-formats,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"Audio files for the Manguebyte Audio Framework: WAV, RF64, AIFF, FLAC, Ogg Vorbis and MP3 reading and writing, Ogg Opus and MPEG audio reading, metadata, waveform thumbnails, system codecs, file play…"
+2026-10-19T16:57:24.590447Z,turmoil-fs,0.1.0,0,0,https://github.com/tokio-rs/turmoil,Simulated filesystem for testing
+2026-10-19T16:57:38.021827Z,veil-proxy-build,0.8.0,0,0,https://github.com/aofusa/veil-proxy,"Code generator for veil gRPC services (prost messages + veil::api::grpc service traits, no tokio/tonic)"
+2026-10-19T16:57:39.15575Z,veil-proxy-macros,0.8.0,0,0,https://github.com/aofusa/veil-proxy,"Procedural macros for the veil API server library (#[veil::route], #[veil::main], #[derive(veil::Schema)])"
+2026-10-19T16:57:40.793936Z,veil-proxy-quiche,0.24.9-veil.1,0,0,https://github.com/aofusa/veil-proxy,quiche 0.24.9 (Cloudflare) vendored for veil-proxy: always coalesces STREAM frames into one packet (see README.veil.md)
+2026-10-19T16:57:43.077565Z,veil-proxy-wasmtime,36.0.18,0,0,https://github.com/aofusa/veil-proxy,wasmtime 36.0.17 vendored for veil-proxy on NetBSD and FreeBSD/OpenBSD aarch64 (Pulley only; see README.veil.md)
+2026-10-19T16:57:46.277582Z,turmoil-io-uring,0.1.0,0,0,https://github.com/tokio-rs/turmoil,Simulated io_uring for testing
+2026-10-19T16:57:47.876877Z,veil-proxy,0.8.0,0,0,https://github.com/aofusa/veil-proxy,"High-performance reverse proxy and API server library on io_uring, kTLS and rustls (HTTP/1.1, 2, 3, gRPC, Proxy-Wasm)"
+2026-10-19T16:59:02.74644Z,elk-layout,0.11.0,0,0,https://github.com/openedges/elk-rs,Pure Rust port of the Eclipse Layout Kernel (ELK): one crate that re-exports the org-eclipse-elk-* workspace and the elkjs-compatible JSON layout API
+2026-10-19T16:59:34.004641Z,nalcos,2.0.0-alpha.2,0,0,https://github.com/thepushkarp/nalcos,Local Git history search for people and coding agents
+2026-10-19T17:00:32.288609Z,leptos_aria_toolbar,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T17:02:33.908214Z,todesktop-updater,0.1.0,0,0,,"ToDesktop's updater for apps ToDesktop builds: checks, verifies and installs signed updates. A library, and the todesktop-updater sidecar."
+2026-10-19T17:04:43.626955Z,manguebyte-graph,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"A dynamic audio processing graph for the Manguebyte Audio Framework: rewire it while it plays, with automatic latency compensation."
+2026-10-19T17:05:05.620065Z,tauri-plugin-todesktop,0.1.0,0,0,,ToDesktop updates for Tauri apps: a thin wrapper over the todesktop-updater crate
+2026-10-19T17:05:09.384563Z,uds_session,0.7.0,0,0,https://github.com/luminartech/uds_stack,"ISO 14229-2 session layer: a transport-agnostic, no_std, sans-io state machine for the client and server roles"
+2026-10-19T17:05:13.07418Z,uds_services,0.7.0,0,0,https://github.com/luminartech/uds_stack,"ISO 14229-1 behaviour: typed UDS service dispatch over caller-defined identifiers, and the clause 8.7 server response implementation rules"
+2026-10-19T17:05:17.331989Z,uds_on_ip,0.7.0,0,0,https://github.com/luminartech/uds_stack,UDS on Internet Protocol (ISO 14229-5): the UDSonIP application profile and the transport mapping onto DoIP
+2026-10-19T17:06:24.818979Z,manguebyte-gfx,0.1.0,0,0,https://github.com/alessonqueirozdev-hub/manguebyte,"2D graphics for the Manguebyte user interface: scenes, a rasteriser behind a seam, text with an embedded typeface."
+2026-10-19T17:10:01.42105Z,leptos_aria_docs,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,The leptos_aria documentation website
+2026-10-19T17:13:46.868926Z,trivia-term,0.1.0,0,0,https://github.com/Squ1ggly/trivia-term,"Terminal trivia game: any AI model on OpenRouter asks and judges, you answer by keyboard or voice, and ElevenLabs reads it aloud."
