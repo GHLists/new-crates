@@ -8,45 +8,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 13:19 UTC
+## Latest list — 2026-10-19 14:18 UTC
 
-New crates published between 2026-10-19 12:20 UTC and 2026-10-19 13:19 UTC.
+New crates published between 2026-10-19 13:19 UTC and 2026-10-19 14:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-19T13-19-38-248297Z.csv)
+[Full CSV](data/new-crates-2026-10-19T14-18-58-992279Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-19 12:25:15 | [norte-gemini](https://crates.io/crates/norte-gemini) | 0.0.1 | 0 | Google Gemini client: generateContent with streaming, function calls, safety ra… |
-| 2026-10-19 12:27:01 | [mdr14](https://crates.io/crates/mdr14) | 0.1.0 | 0 | Measure the pleasure of your music in everyone's favourite language |
-| 2026-10-19 12:27:03 | [concrete-calculator-benchmark](https://crates.io/crates/concrete-calculator-benchmark) | 0.1.0 | 0 | The 6 input cases and reference volumes (cu ft, cu yd) of the TakeoffMetric con… |
-| 2026-10-19 12:27:22 | [hush-env](https://crates.io/crates/hush-env) | 0.4.1 | 0 | Encrypted, local-first replacement for .env files |
-| 2026-10-19 12:34:45 | [leptos_aria_date](https://crates.io/crates/leptos_aria_date) | 0.0.1 | 0 | Components for the leptos_aria component library |
-| 2026-10-19 12:35:11 | [norte-openai](https://crates.io/crates/norte-openai) | 0.0.1 | 0 | OpenAI client: the Responses and Chat Completions APIs with streaming, tool cal… |
-| 2026-10-19 12:36:56 | [leptos_aria_form](https://crates.io/crates/leptos_aria_form) | 0.0.1 | 0 | Components for the leptos_aria component library |
-| 2026-10-19 12:38:21 | [leptos_aria_primitives](https://crates.io/crates/leptos_aria_primitives) | 0.0.1 | 0 | Components for the leptos_aria component library |
-| 2026-10-19 12:39:38 | [leptos_aria_selection](https://crates.io/crates/leptos_aria_selection) | 0.0.1 | 0 | Components for the leptos_aria component library |
-| 2026-10-19 12:39:55 | [leptos_aria_slider](https://crates.io/crates/leptos_aria_slider) | 0.0.1 | 0 | Components for the leptos_aria component library |
-| 2026-10-19 12:45:11 | [norte-testing](https://crates.io/crates/norte-testing) | 0.0.1 | 0 | Scripted models, fixture replay and conformance suites for testing AI agent code |
-| 2026-10-19 12:45:39 | [bynk-std](https://crates.io/crates/bynk-std) | 0.371.3 | 0 | The Bynk standard library's first-party sources as data: the `bynk` surface, th… |
-| 2026-10-19 12:52:11 | [leptos_aria_table](https://crates.io/crates/leptos_aria_table) | 0.0.1 | 0 | Components for the leptos_aria component library |
-| 2026-10-19 12:53:38 | [dumb](https://crates.io/crates/dumb) | 0.1.0 | 0 | An interactive TUI version of the standard unix du program. |
-| 2026-10-19 13:01:09 | [changelog-merge](https://crates.io/crates/changelog-merge) | 0.1.0 | 0 | Source-preserving semantic three-way merging for Keep a Changelog |
-| 2026-10-19 13:03:09 | [rostfrei-domain-macros](https://crates.io/crates/rostfrei-domain-macros) | 0.1.1 | 0 | Procedural macros for Rostfrei domain declarations |
-| 2026-10-19 13:03:10 | [rostfrei-messaging-core](https://crates.io/crates/rostfrei-messaging-core) | 0.1.1 | 0 | Typed message envelopes, routing, and messaging contracts for Rostfrei |
-| 2026-10-19 13:03:11 | [rostfrei-structure](https://crates.io/crates/rostfrei-structure) | 0.1.1 | 0 | Domain structure checks, scaffolding, and agent tooling for Rostfrei |
-| 2026-10-19 13:03:14 | [rostfrei-core](https://crates.io/crates/rostfrei-core) | 0.1.1 | 0 | Event-sourced aggregate execution and coordinated command outcomes for Rostfrei |
-| 2026-10-19 13:03:15 | [rostfrei-domain](https://crates.io/crates/rostfrei-domain) | 0.1.1 | 0 | Business domain declarations and bounded-context modules for Rostfrei |
-| 2026-10-19 13:03:22 | [denoshim](https://crates.io/crates/denoshim) | 0.1.0 | 0 | Embed Deno's JavaScript/TypeScript engine in Rust servers. A maintained replace… |
-| 2026-10-19 13:03:53 | [leptos_aria_time_field](https://crates.io/crates/leptos_aria_time_field) | 0.0.1 | 0 | Components for the leptos_aria component library |
-| 2026-10-19 13:04:27 | [teamy-facet-csv](https://crates.io/crates/teamy-facet-csv) | 0.50.0-rc.7 | 0 | TeamDman-maintained fork of facet-csv: CSV serialization for facet using the ne… |
-| 2026-10-19 13:04:40 | [clawsh-tui](https://crates.io/crates/clawsh-tui) | 1.0.0 | 0 | Claw$h, a ratatui workspace shell for Claude Code sessions |
-| 2026-10-19 13:09:13 | [leptos_aria_overlay](https://crates.io/crates/leptos_aria_overlay) | 0.0.1 | 0 | Overlay components for the leptos_aria component library |
-| 2026-10-19 13:13:23 | [rostfrei-registry](https://crates.io/crates/rostfrei-registry) | 0.1.1 | 0 | Runtime metadata registry for Rostfrei bounded contexts and handlers |
-| 2026-10-19 13:14:59 | [fonderie](https://crates.io/crates/fonderie) | 0.0.1 | 0 | Opinionated, batteries-included web framework on top of Axum, inspired by Larav… |
-| 2026-10-19 13:16:35 | [trev-h3](https://crates.io/crates/trev-h3) | 0.1.0 | 0 | An async HTTP/3 implementation. Fork of h3 with WebTransport fixes. |
-| 2026-10-19 13:16:39 | [trev-h3-datagram](https://crates.io/crates/trev-h3-datagram) | 0.1.0 | 0 | rfc9297 extension for the h3 crate. Fork of h3-datagram for trev-h3. |
-| 2026-10-19 13:16:45 | [trev-h3-quinn](https://crates.io/crates/trev-h3-quinn) | 0.1.0 | 0 | QUIC transport implementation based on Quinn. Fork of h3-quinn for trev-h3. |
-| 2026-10-19 13:16:49 | [trev-h3-webtransport](https://crates.io/crates/trev-h3-webtransport) | 0.1.0 | 0 | webtransport extension for h3. Fork of h3-webtransport for trev-h3. |
+| 2026-10-19 13:20:49 | [embedded-ws](https://crates.io/crates/embedded-ws) | 0.1.0 | 0 | Cancellation-safe WebSocket (RFC6455) client for embedded async applications, g… |
+| 2026-10-19 13:22:11 | [glacier-build](https://crates.io/crates/glacier-build) | 0.1.0 | 0 | Helpers de build.rs para apps glacier-ui: recursos do .exe no Windows, logos re… |
+| 2026-10-19 13:23:02 | [leptos_aria_pagination](https://crates.io/crates/leptos_aria_pagination) | 0.0.1 | 0 | Components for the leptos_aria component library |
+| 2026-10-19 13:23:47 | [rostfrei-domain-runtime](https://crates.io/crates/rostfrei-domain-runtime) | 0.1.1 | 0 | Runtime integration of Rostfrei domain declarations, commands, and metadata |
+| 2026-10-19 13:29:15 | [leptos_aria_date_picker](https://crates.io/crates/leptos_aria_date_picker) | 0.0.1 | 0 | Components for the leptos_aria component library |
+| 2026-10-19 13:29:30 | [weave-certify](https://crates.io/crates/weave-certify) | 0.6.1 | 0 | Independent merge certificate: checks a three-way merge result against the per-… |
+| 2026-10-19 13:32:31 | [juiz_qmp_broker](https://crates.io/crates/juiz_qmp_broker) | 0.0.18 | 0 | QUIC (qmp) broker for JUIZ. juiz_app includes it by default. |
+| 2026-10-19 13:34:13 | [rostfrei-macros](https://crates.io/crates/rostfrei-macros) | 0.1.1 | 0 | Procedural macros for Rostfrei framework registration |
+| 2026-10-19 13:34:46 | [xlb-core](https://crates.io/crates/xlb-core) | 0.8.47 | 0 | xlb's platform-neutral core: BlakeHash, retention policy, ref resolution, BlobS… |
+| 2026-10-19 13:34:49 | [xlb-web](https://crates.io/crates/xlb-web) | 0.8.47 | 0 | xlb browser storage tier: an Origin Private File System BlobStore under xlb-cor… |
+| 2026-10-19 13:36:40 | [firmas-holograficas](https://crates.io/crates/firmas-holograficas) | 0.1.1 | 0 | Async Rust SDK for the Firmas Holográficas e-signing API |
+| 2026-10-19 13:39:19 | [leptos_aria_progress](https://crates.io/crates/leptos_aria_progress) | 0.0.1 | 0 | Components for the leptos_aria component library |
+| 2026-10-19 13:44:35 | [rostfrei](https://crates.io/crates/rostfrei) | 0.1.1 | 0 | Domain modeling, event sourcing, and typed messaging for Rust applications |
+| 2026-10-19 13:49:11 | [leptos_aria_tree](https://crates.io/crates/leptos_aria_tree) | 0.0.1 | 0 | Components for the leptos_aria component library |
+| 2026-10-19 13:50:58 | [tauri-plugin-keep](https://crates.io/crates/tauri-plugin-keep) | 0.1.0-alpha.1 | 0 | Tauri plugin that keeps a few small values on an iPhone or iPad after the app i… |
+| 2026-10-19 13:55:03 | [rostfrei-fixtures](https://crates.io/crates/rostfrei-fixtures) | 0.1.1 | 0 | Versioned aggregate fixtures for isolated Rostfrei test execution |
+| 2026-10-19 13:56:53 | [gpui-webview](https://crates.io/crates/gpui-webview) | 0.8.0 | 0 | WebView support for GPUI, based on Wry. |
+| 2026-10-19 13:58:19 | [golem-ai-http](https://crates.io/crates/golem-ai-http) | 0.5.4 | 0 | WASI HTTP 0.3 transport for Golem AI libraries |
+| 2026-10-19 13:58:37 | [btetri](https://crates.io/crates/btetri) | 0.1.0 | 0 | A deterministic Tetris engine and keyboard-controlled terminal game |
+| 2026-10-19 14:05:09 | [leptos_aria_disclosure](https://crates.io/crates/leptos_aria_disclosure) | 0.0.1 | 0 | Components for the leptos_aria component library |
+| 2026-10-19 14:05:31 | [rostfrei-http](https://crates.io/crates/rostfrei-http) | 0.1.1 | 0 | HTTP command adapters for Rostfrei applications |
+| 2026-10-19 14:07:08 | [sun_guessing_game](https://crates.io/crates/sun_guessing_game) | 0.1.11 | 0 | A fun game where you guess what number the computer has chosen. |
+| 2026-10-19 14:09:11 | [leptos_aria_list_box](https://crates.io/crates/leptos_aria_list_box) | 0.0.1 | 0 | Components for the leptos_aria component library |
+| 2026-10-19 14:11:23 | [ferroui-system](https://crates.io/crates/ferroui-system) | 0.3.0-preview.1 | 0 | The parts of the .NET base class library that FerroUI and its reusable librarie… |
+| 2026-10-19 14:11:30 | [owly_types](https://crates.io/crates/owly_types) | 0.1.1 | 0 | Shared domain types for Owly wiki indexes |
+| 2026-10-19 14:11:49 | [ferroui-reactive](https://crates.io/crates/ferroui-reactive) | 0.3.0-preview.1 | 0 | A port of Rx.NET (System.Reactive) for FerroUI: observable sequences, their ope… |
+| 2026-10-19 14:11:52 | [ferroui-dynamic-data](https://crates.io/crates/ferroui-dynamic-data) | 0.3.0-preview.1 | 0 | A port of DynamicData for FerroUI: reactive collections, change sets, observabl… |
+| 2026-10-19 14:11:54 | [ferroui-reactive-testing](https://crates.io/crates/ferroui-reactive-testing) | 0.3.0-preview.1 | 0 | A port of Microsoft.Reactive.Testing for ferroui-reactive: the virtual-time tes… |
+| 2026-10-19 14:11:57 | [ferroui-splat](https://crates.io/crates/ferroui-splat) | 0.3.0-preview.1 | 0 | A port of Splat for FerroUI: the service locator with its dependency resolvers,… |
+| 2026-10-19 14:11:59 | [ferroui-reactiveui](https://crates.io/crates/ferroui-reactiveui) | 0.3.0-preview.1 | 0 | A port of ReactiveUI for FerroUI, in its System.Reactive flavour with the run t… |
+| 2026-10-19 14:12:08 | [owly_source](https://crates.io/crates/owly_source) | 0.1.1 | 0 | File discovery and Markdown loading for Owly wikis |
+| 2026-10-19 14:12:19 | [owly_cache](https://crates.io/crates/owly_cache) | 0.1.1 | 0 | SQLite cache index for Owly Markdown wikis |
+| 2026-10-19 14:12:53 | [owly_core](https://crates.io/crates/owly_core) | 0.1.1 | 0 | Core library for validating structured Markdown wikis |
+| 2026-10-19 14:14:18 | [openmaintain](https://crates.io/crates/openmaintain) | 0.0.1 | 0 | Reserved crate name for the OpenMaintain project; no public API yet. |
+| 2026-10-19 14:14:20 | [pua](https://crates.io/crates/pua) | 0.0.1 | 0 | Reserved crate name for PUA development in the OpenMaintain project; no public… |
+| 2026-10-19 14:17:14 | [rostfrei-testing](https://crates.io/crates/rostfrei-testing) | 0.1.1 | 0 | Test helpers for Rostfrei domain models and command handlers |
+| 2026-10-19 14:18:18 | [magicextract](https://crates.io/crates/magicextract) | 0.1.0 | 0 | Extract trading card sized outlines from images as perspective-corrected crops |
 
 ## Data source
 

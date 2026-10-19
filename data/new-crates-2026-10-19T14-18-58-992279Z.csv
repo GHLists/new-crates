@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T13:20:49.94765Z,embedded-ws,0.1.0,0,0,https://github.com/wangguanghua2099/embedded-ws,"Cancellation-safe WebSocket (RFC6455) client for embedded async applications, generic over embedded-io-async transports"
+2026-10-19T13:22:11.519907Z,glacier-build,0.1.0,0,0,https://github.com/antoniofernandodj/glacier-ui,"Helpers de build.rs para apps glacier-ui: recursos do .exe no Windows, logos reduzidos e .desktop no cargo install."
+2026-10-19T13:23:02.731011Z,leptos_aria_pagination,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T13:23:47.362796Z,rostfrei-domain-runtime,0.1.1,0,0,https://github.com/elbLabs/rostfrei,"Runtime integration of Rostfrei domain declarations, commands, and metadata"
+2026-10-19T13:29:15.597921Z,leptos_aria_date_picker,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T13:29:30.715074Z,weave-certify,0.6.1,0,0,https://github.com/Ataraxy-Labs/weave,Independent merge certificate: checks a three-way merge result against the per-region selection (pushout) rule. Shares only entity extraction (sem-core) with weave; no weave merge code.
+2026-10-19T13:32:31.856007Z,juiz_qmp_broker,0.0.18,0,0,https://github.com/OpenJUIZ/juiz,QUIC (qmp) broker for JUIZ. juiz_app includes it by default.
+2026-10-19T13:34:13.610575Z,rostfrei-macros,0.1.1,0,0,https://github.com/elbLabs/rostfrei,Procedural macros for Rostfrei framework registration
+2026-10-19T13:34:46.31097Z,xlb-core,0.8.47,0,0,https://github.com/yah-ai/xlb,"xlb's platform-neutral core: BlakeHash, retention policy, ref resolution, BlobStore seam. Compiles for wasm32."
+2026-10-19T13:34:49.204308Z,xlb-web,0.8.47,0,0,https://github.com/yah-ai/xlb,xlb browser storage tier: an Origin Private File System BlobStore under xlb-core's retention policy. wasm32-only in practice.
+2026-10-19T13:36:40.902228Z,firmas-holograficas,0.1.1,0,0,,Async Rust SDK for the Firmas Holográficas e-signing API
+2026-10-19T13:39:19.344418Z,leptos_aria_progress,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T13:44:35.707129Z,rostfrei,0.1.1,0,0,https://github.com/elbLabs/rostfrei,"Domain modeling, event sourcing, and typed messaging for Rust applications"
+2026-10-19T13:49:11.702811Z,leptos_aria_tree,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T13:50:58.821789Z,tauri-plugin-keep,0.1.0-alpha.1,0,0,https://github.com/hoangmirs/tauri-plugins,Tauri plugin that keeps a few small values on an iPhone or iPad after the app is deleted
+2026-10-19T13:55:03.269919Z,rostfrei-fixtures,0.1.1,0,0,https://github.com/elbLabs/rostfrei,Versioned aggregate fixtures for isolated Rostfrei test execution
+2026-10-19T13:56:53.426071Z,gpui-webview,0.8.0,0,0,https://github.com/longbridge/gpui-kit/tree/main/crates/webview,"WebView support for GPUI, based on Wry."
+2026-10-19T13:58:19.946958Z,golem-ai-http,0.5.4,0,0,https://github.com/golemcloud/golem-ai,WASI HTTP 0.3 transport for Golem AI libraries
+2026-10-19T13:58:37.420399Z,btetri,0.1.0,0,0,https://github.com/Bing-su/btetri,A deterministic Tetris engine and keyboard-controlled terminal game
+2026-10-19T14:05:09.38896Z,leptos_aria_disclosure,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T14:05:31.583311Z,rostfrei-http,0.1.1,0,0,https://github.com/elbLabs/rostfrei,HTTP command adapters for Rostfrei applications
+2026-10-19T14:07:08.833569Z,sun_guessing_game,0.1.11,0,0,,A fun game where you guess what number the computer has chosen.
+2026-10-19T14:09:11.110315Z,leptos_aria_list_box,0.0.1,0,0,https://github.com/ifiokjr/leptos_aria,Components for the leptos_aria component library
+2026-10-19T14:11:23.062141Z,ferroui-system,0.3.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The parts of the .NET base class library that FerroUI and its reusable libraries share: thread-local variables for every target, events, property and collection change notification, cancellation"
+2026-10-19T14:11:30.208396Z,owly_types,0.1.1,0,0,https://github.com/edge-m/owly,Shared domain types for Owly wiki indexes
+2026-10-19T14:11:49.958365Z,ferroui-reactive,0.3.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"A port of Rx.NET (System.Reactive) for FerroUI: observable sequences, their operators, schedulers, disposables and subjects, independent of the user interface"
+2026-10-19T14:11:52.473822Z,ferroui-dynamic-data,0.3.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"A port of DynamicData for FerroUI: reactive collections, change sets, observable caches and lists with their operators, independent of the user interface"
+2026-10-19T14:11:54.790875Z,ferroui-reactive-testing,0.3.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"A port of Microsoft.Reactive.Testing for ferroui-reactive: the virtual-time test scheduler, recorded notifications, hot and cold test observables and their assertions"
+2026-10-19T14:11:57.060607Z,ferroui-splat,0.3.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"A port of Splat for FerroUI: the service locator with its dependency resolvers, logging, mode detection, feature usage tracking and the application builder, independent of the user interface"
+2026-10-19T14:11:59.725711Z,ferroui-reactiveui,0.3.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"A port of ReactiveUI for FerroUI, in its System.Reactive flavour with the run time of ReactiveUI.Binding: reactive objects, commands, property observation, bindings, view location, activation and rou…"
+2026-10-19T14:12:08.577543Z,owly_source,0.1.1,0,0,https://github.com/edge-m/owly,File discovery and Markdown loading for Owly wikis
+2026-10-19T14:12:19.130244Z,owly_cache,0.1.1,0,0,https://github.com/edge-m/owly,SQLite cache index for Owly Markdown wikis
+2026-10-19T14:12:53.069543Z,owly_core,0.1.1,0,0,https://github.com/edge-m/owly,Core library for validating structured Markdown wikis
+2026-10-19T14:14:18.994707Z,openmaintain,0.0.1,0,0,https://github.com/openmaintain/openmaintain,Reserved crate name for the OpenMaintain project; no public API yet.
+2026-10-19T14:14:20.044611Z,pua,0.0.1,0,0,https://github.com/openmaintain/pua-web,Reserved crate name for PUA development in the OpenMaintain project; no public API yet.
+2026-10-19T14:17:14.639592Z,rostfrei-testing,0.1.1,0,0,https://github.com/elbLabs/rostfrei,Test helpers for Rostfrei domain models and command handlers
+2026-10-19T14:18:18.668162Z,magicextract,0.1.0,0,0,https://github.com/cmeister2/magicextract,Extract trading card sized outlines from images as perspective-corrected crops
