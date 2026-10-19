@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T21:22:01.298419Z,ztd,0.0.1,0,0,https://github.com/Zukunter/ZtdRust,Zukunter Standard Library
+2026-10-19T21:23:39.358786Z,alpha2-gpu,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,GPU context and capability boundary for alpha2. Placeholder; the first release is 0.1.0.
+2026-10-19T21:24:02.71042Z,cms-dbs,0.1.0,0,0,https://gitlab.cern.ch/dgrove/hep-crates,"CMS's dataset catalog DBS: dataset search, files, summaries and lineage, read directly over HTTPS with the grid proxy"
+2026-10-19T21:26:32.765044Z,superdoc-sdk,0.1.0-next.beta.1,0,0,https://github.com/superdoc/docx-editor,Typed Rust client for the SuperDoc document runtime
+2026-10-19T21:32:32.326092Z,ansiopt,0.1.0,0,0,https://github.com/fdncred/ansiopt,Shrinks text containing ANSI escape sequences without changing what a terminal shows
+2026-10-19T21:33:40.580871Z,alpha2-host,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,Native project-rendering sidecar and batch CLI for alpha2. Placeholder; the first release is 0.1.0.
+2026-10-19T21:34:07.599555Z,pspbuild,0.1.0,0,0,https://github.com/ItsNoHax/pspbuild,"PSP EBOOT toolkit: PRX encryption, MG and EG (NPDRM) EBOOT.PBP construction, inspection and verification"
+2026-10-19T21:36:25.740546Z,bevy_sdl_gamepad,0.1.0,0,0,https://github.com/AddisonH/bevy_sdl_gamepad,"An SDL3 gamepad backend for Bevy: a drop-in alternative to bevy_gilrs, with gyro, touchpads and touch sensors"
+2026-10-19T21:38:50.636151Z,aslnut-baker,0.1.3,0,0,https://github.com/aslnut/aslnut,"Road baker: designs streets from map lines (curves, cross-sections, junction patterns, one planar partition, heights) and writes aslnut's baked roads pack"
+2026-10-19T21:40:45.491251Z,berm-libsqlite3-sys,0.37.0,0,0,https://github.com/crabtalk/rusqlite,"Native bindings to the libsqlite3 library, with libSQL's rows-read and rows-written statement counters"
+2026-10-19T21:40:53.695179Z,berm-rusqlite,0.39.0,0,0,https://github.com/crabtalk/rusqlite,"Ergonomic wrapper for SQLite, with libSQL's rows-read and rows-written statement counters"
+2026-10-19T21:43:40.654728Z,alpha2-media,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,Host-independent media vocabulary and I/O contracts for alpha2. Placeholder; the first release is 0.1.0.
+2026-10-19T21:47:58.750923Z,ridm-auth,0.4.1,0,0,https://github.com/ZerosAndOnesLLC/rIDM,"Validate rIDM (OpenID Connect) access tokens in a Rust API: JWKS cache, audience, scope, role and permission checks, with an axum extractor"
+2026-10-19T21:53:39.909718Z,alpha2-model,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,Versioned project and timeline model for alpha2. Placeholder; the first release is 0.1.0.
+2026-10-19T21:55:37.904064Z,spp-rusqlite-migration,2.6.0,0,0,https://github.com/cljoly/rusqlite_migration,Temporary fork of rusqlite_migration depending on spp-rusqlite for stellar-private-payments
+2026-10-19T21:57:42.726163Z,glassure-core,0.1.1,0,0,https://github.com/CPrescher/Glassure,Standalone Glassure total-scattering numerical engine
+2026-10-19T21:57:56.625842Z,glassure-cli,0.1.0,0,0,https://github.com/CPrescher/Glassure,Standalone command-line X-ray total-scattering and PDF analysis with Glassure
+2026-10-19T21:58:34.879522Z,paperstack,0.1.0,0,0,https://github.com/YPARK/paperstack,"A library of papers in the terminal: PDFs and their references, kept in a folder an agent can read"
+2026-10-19T21:59:43.699586Z,opiro-core,0.1.0,0,0,https://github.com/opiro-org/opiro-rs,"OPIRO-Core SDK: Pinned-memory zero-knowledge provenance, deterministic opiro1 IDs, and Layer 2/3 primitives."
+2026-10-19T22:00:04.366258Z,opiro-text,0.1.0,0,0,https://github.com/opiro-org/opiro-rs,OPIRO-Text SDK: Internationalized NFKC + UAX #29 50/50 Excerpt Hasher and Pinned-Memory zkTLS Sanitizer.
+2026-10-19T22:00:20.220365Z,opiro-media,0.1.0,0,0,https://github.com/opiro-org/opiro-rs,"OPIRO-Media SDK: Graded Physical Assurance Levels (PAL 1-3), C2PA Privacy Wrapper, and H3 Spatial Privacy."
+2026-10-19T22:00:41.280075Z,opiro-cli,0.1.0,0,0,https://github.com/opiro-org/opiro-rs,Command-line utility and verifier for the OPIRO Framework (Open Provenance for Identity & Reality).
+2026-10-19T22:01:27.49427Z,opiro-unified,0.1.0,0,0,https://github.com/opiro-org/opiro-rs,"OPIRO-Unified SDK (libopiro-unified): Cross-modal semantic isolation, zkTLS ingredient binding, and temporal subtitle track isolation."
+2026-10-19T22:01:58.251693Z,bluecurve-search-sdk-macros,0.1.0-4,0,0,,Plugin entrypoint procedural macros for the BlueCurve WebAssembly SDK
+2026-10-19T22:02:00.260476Z,bluecurve-search-sdk,0.1.0-4,0,0,,Guest SDK for BlueCurve WASM Search Plugins
+2026-10-19T22:03:40.583533Z,alpha2-native,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,Native headless and real-time host boundary for alpha2. Placeholder; the first release is 0.1.0.
+2026-10-19T22:12:25.066665Z,crucible-logging,0.1.0-alpha,0,0,,Logger for Crucible
+2026-10-19T22:13:40.301873Z,alpha2-native-gpu,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,Native decoded-surface import and GPU synchronization boundary for alpha2. Placeholder; the first release is 0.1.0.
+2026-10-19T22:14:09.235635Z,duckbridge,0.1.0,0,0,https://github.com/singhpratech/duckbridge,"DuckBridge: move databases between DuckDB and SQL Server / PostgreSQL / Parquet, translate SQL between dialects, and ship results back as a restorable SQL Server .bak."
+2026-10-19T22:17:02.629087Z,wgpu_prism,6.0.0,0,0,https://github.com/ramp-stack/wgpu_canvas.git,A WGPU renderer for Prism drawing instructions.
+2026-10-19T22:17:37.993089Z,pubby-sdk,0.3.13,0,0,https://github.com/blacklight/pubby,A general-purpose library to add ActivityPub federation support to your web application
+2026-10-19T22:17:43.652402Z,ramose,0.0.1,0,0,https://github.com/tvanhens/ramose,Name reserved for the ramose authoring language and CLI (formerly artscript). Not yet released.
