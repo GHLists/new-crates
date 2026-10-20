@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T04:20:35.948538Z,minip2p-webtransport,0.0.0,0,0,https://github.com/deepso7/minip2p,Placeholder; the real crate ships with minip2p 0.11.0
+2026-10-20T04:21:00.873449Z,ferraus-analysis,0.1.0,0,0,https://github.com/djynnius/ferraus,"Audio analysis for ferraus: tempo, loudness (EBU R128), spectrum, chords, diagnostics, comparison"
+2026-10-20T04:25:15.961769Z,leptos-use-core,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,"Small shared types (Position, Size, Direction, …) used by the leptos-use crates"
+2026-10-20T04:26:20.550698Z,ult-testing,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"Headless tests of ult apps' TSX entries: built against the app's crates as ult run builds them, run on an engine without a window."
+2026-10-20T04:27:10.226264Z,dataflow-rs-derive,4.0.0,0,0,https://github.com/GoPlasmatic/dataflow-rs,The derive behind dataflow-rs's host function configs: #[derive(FunctionConfig)]
+2026-10-20T04:28:53.593469Z,jilebi-sdk,0.6.2,0,0,,"Programmatic API for jilebi microVMs, routes, SSH keys, nodes and billing. Authenticate with an API key (`X-API-Key` header or `Authorization: Bearer <key>`), or with a browser session cookie. API ke…"
+2026-10-20T04:30:14.899647Z,plakous-model,0.0.1,0,0,https://github.com/N0xMare/plak,Provider-neutral inference contracts for Plakous
+2026-10-20T04:31:16.394229Z,ferraus-pitch,0.1.0,0,0,https://github.com/djynnius/ferraus,"Pitch tracking (pYIN), note segmentation, key detection, pitch correction, pitch shifting and time stretching for ferraus"
+2026-10-20T04:35:19.889017Z,leptos-use-css-var,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Manipulate CSS variables
+2026-10-20T04:36:43.509886Z,bbtree-disk,0.1.4,0,0,https://github.com/XiangpengHao/bbtree,"bbtree on disk: a compact, read-only map written to a file and looked up where it lies, mapped into memory, at a map's speed."
+2026-10-20T04:36:56.020194Z,ult-ios-app,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,Release app runner: the executable of packaged ult apps (no development features).
+2026-10-20T04:38:22.794992Z,bbtree-datafusion-parquet,0.1.4,0,0,https://github.com/XiangpengHao/bbtree,"bbtree-disk as an index of Parquet files: an index of one or more columns embedded in the file, which DataFusion's Parquet scans look rows up in."
+2026-10-20T04:39:06.683249Z,nixe,0.1.0,0,0,https://github.com/GravionLabs/nixe,Markdown knowledge base with AI and Git sync (work in progress)
+2026-10-20T04:40:10.945356Z,nixe-notes,0.1.0,0,0,https://github.com/GravionLabs/nixe,Markdown knowledge base with AI and Git sync (work in progress)
+2026-10-20T04:41:09.535956Z,iyulab-gil,0.3.0,0,0,https://github.com/iyulab/gil,"Suggests and decides form field values from how settled documents were filled - the decision core, with no I/O."
+2026-10-20T04:41:31.145037Z,ferraus-models,0.1.0,0,0,https://github.com/djynnius/ferraus,"ferraus model registry: signed manifest, resumable verified downloads, cache layout, license policy"
+2026-10-20T04:42:50.431113Z,cargo-verdict,0.1.0,0,0,https://github.com/yah-ai/cargo-verdict,"Structured cargo verdicts: one argv model for build/test requests, a planner that adds only output flags, and a versioned result schema over cargo's and libtest's JSON"
+2026-10-20T04:43:22.019305Z,plakous-py-worker,0.0.1,0,0,https://github.com/N0xMare/plak,Plak Monty subprocess worker using the pinned upstream interpreter and protocol
+2026-10-20T04:45:18.83699Z,leptos-use-cycle-list,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Cycle through a list of items
+2026-10-20T04:47:35.035124Z,ult-ios-host,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,Prebuilt development host app (Mac Catalyst / iOS) that runs an ult bundle.
+2026-10-20T04:49:49.866605Z,deterministic_ai_kernel,0.2.0,0,0,https://github.com/denis0wn/deterministic_ai_kernel,"A deterministic Rust kernel for task execution, replay, snapshotting, and local model control"
+2026-10-20T04:49:58.747792Z,plakous-auth,0.0.1,0,0,https://github.com/N0xMare/plak,Provider-neutral secure authentication foundations for Plakous
+2026-10-20T04:50:57.45156Z,pi_fixed_scale_int,0.1.0,0,0,,Fixed-denominator 64-bit integer arithmetic with decimal conversion and optional serde/fory serialization
+2026-10-20T04:51:54.871115Z,ferraus-ml,0.1.0,0,0,https://github.com/djynnius/ferraus,"ferraus model runtime: ONNX Runtime sessions, execution-provider selection, chunked inference"
+2026-10-20T04:55:15.295395Z,leptos-use-derive-signal,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Macro to create helper functions that derive a Leptos signal
+2026-10-20T04:58:08.463582Z,ult-linux-app,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,Release app runner on Linux: the executable of packaged ult apps (no development features).
+2026-10-20T05:01:15.263693Z,rfd-ashpd,0.17.2,0,0,,RFD with ASHPD used on Linux and FreeBSD instead
+2026-10-20T05:02:13.958068Z,ferraus-denoise,0.1.0,0,0,https://github.com/djynnius/ferraus,"Noise reduction for ferraus: noise profiles, spectral gating, adaptive tracking, RNNoise"
+2026-10-20T05:03:03.974103Z,plakous-code-mode,0.0.1,0,0,https://github.com/N0xMare/plak,Parse/DTO helpers for Plakous Code Mode presentation
+2026-10-20T05:03:55.740642Z,mlirpass-macros,0.1.0-alpha.1,0,0,https://github.com/Jabberwocky238/mlirpass,"Proc macros for mlirpass: #[pass], #[patterns] / #[lowering]"
+2026-10-20T05:05:17.968507Z,leptos-use-device-orientation,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive [DeviceOrientationEvent](https://developer.mozilla.org/en-US/docs/Web/API/DeviceOrientationEvent)
+2026-10-20T05:05:33.194546Z,mlirpass,0.1.0-alpha.1,0,0,https://github.com/Jabberwocky238/mlirpass,"MLIR passes in Rust: mutable IR, pattern rewriting, dialect conversion and the upstream lowerings, on top of mlirformat"
+2026-10-20T05:08:25.352194Z,kaki-bukit,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"KAKI BUKIT (Kernel for Agent-based Key-resource Inventory, Backend for Utility, Key Infrastructure and Transactions). Independent no_std pure-Rust fork/translation of CYCLUS (agent-based nuclear fuel…"
+2026-10-20T05:08:44.392215Z,ult-linux-host,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,Development host app (GTK 4) that runs an ult bundle on Linux.
+2026-10-20T05:09:15.124859Z,bedok,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,BEDOK — systems-level multiphysics coupling: 3-D nodal-diffusion neutronics coupled to thermal hydraulics. Rust translation of Than Yan Ren's (SNRSI) MATLAB implementation.
+2026-10-20T05:09:40.812398Z,plakous-exchange,0.0.1,0,0,https://github.com/N0xMare/plak,Shared physical-exchange plumbing for Plakous protocol-family kernels and providers
+2026-10-20T05:12:27.306831Z,ferraus-separate,0.1.0,0,0,https://github.com/djynnius/ferraus,"ferraus stem separation: model tiers, ensembles, test-time augmentation, residual reassignment, cascades"
+2026-10-20T05:13:56.704387Z,redhill,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,REDHILL (Radionuclide Effluent Dispersion solver for Hydrogeological Infiltration and Leaching through Layers) — groundwater and geological transport of radionuclides after deposition. Placeholder: n…
+2026-10-20T05:15:00.769507Z,paludarium-types,0.1.0,0,0,https://github.com/aletheia-works/paludarium,Shared types for the paludarium x86-64 Linux user-mode emulator
+2026-10-20T05:15:03.623339Z,paludarium-host,0.1.0,0,0,https://github.com/aletheia-works/paludarium,"Host abstraction (stdio, randomness) for paludarium"
+2026-10-20T05:15:06.063016Z,paludarium-mmu,0.1.0,0,0,https://github.com/aletheia-works/paludarium,Software MMU (guest address spaces) for paludarium
+2026-10-20T05:15:08.324013Z,paludarium-vfs,0.1.0,0,0,https://github.com/aletheia-works/paludarium,In-memory virtual file system for paludarium
+2026-10-20T05:15:10.708222Z,paludarium-loader,0.1.0,0,0,https://github.com/aletheia-works/paludarium,Static ELF loader for paludarium
+2026-10-20T05:15:16.841803Z,leptos-use-device-pixel-ratio,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive [`window.devicePixelRatio`](https://developer.mozilla.org/en-US/docs/Web/API/Window/devicePixelRatio)
+2026-10-20T05:18:05.388772Z,changi,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"CHANGI — atmospheric dispersion, plume transport, deposition and ground contamination. Pure-Rust port of FLEXPART. Research, education and V&V only."
+2026-10-20T05:18:05.816098Z,unwreck-core,0.1.0,0,0,https://github.com/ayushdoesdev/unwreck,"Shared types for unwreck: hashes, manifests, triggers, and user config"
+2026-10-20T05:18:34.481699Z,unwreck-store,0.1.0,0,0,https://github.com/ayushdoesdev/unwreck,"Content-addressed snapshot store (BLAKE3, zstd packs) for unwreck"

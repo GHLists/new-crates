@@ -8,48 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 04:19 UTC
+## Latest list — 2026-10-20 05:18 UTC
 
-New crates published between 2026-10-20 03:19 UTC and 2026-10-20 04:19 UTC.
+New crates published between 2026-10-20 04:19 UTC and 2026-10-20 05:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-20T04-19-28-601411Z.csv)
+[Full CSV](data/new-crates-2026-10-20T05-18-54-608438Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-20 03:20:39 | [respan-gateway-vendors-yellow](https://crates.io/crates/respan-gateway-vendors-yellow) | 0.1.0 | 0 | The yellow vendors: maintained, and tested against fakes, but not verified end… |
-| 2026-10-20 03:22:20 | [ult-platform-android](https://crates.io/crates/ult-platform-android) | 3.0.0-alpha.0 | 0 | Android backend: JNI glue, StaticLayout text engine, mount batch encoding, nati… |
-| 2026-10-20 03:23:40 | [bishan](https://crates.io/crates/bishan) | 0.0.1 | 0 | BISHAN (Building Internal Source-term and Hazard Analysis Network) — Level 2 PS… |
-| 2026-10-20 03:23:58 | [datasources-yaml](https://crates.io/crates/datasources-yaml) | 0.1.5 | 0 | yaml datasource stub |
-| 2026-10-20 03:25:20 | [leptos-use-clipboard](https://crates.io/crates/leptos-use-clipboard) | 0.20.0 | 0 | Reactive [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipb… |
-| 2026-10-20 03:26:37 | [fgumi-pipeline-io](https://crates.io/crates/fgumi-pipeline-io) | 0.8.0 | 0 | BAM pipeline I/O types and steps for fgumi |
-| 2026-10-20 03:30:38 | [respan-gateway-vendors](https://crates.io/crates/respan-gateway-vendors) | 0.1.0 | 0 | The vendors, green and yellow: where each is, how it takes a key, and the forma… |
-| 2026-10-20 03:32:54 | [ult-platform-ios](https://crates.io/crates/ult-platform-ios) | 3.0.0-alpha.0 | 0 | UIKit backend: native view mounting, text measurement, input, app hosting and t… |
-| 2026-10-20 03:35:16 | [leptos-use-header](https://crates.io/crates/leptos-use-header) | 0.20.0 | 0 | Read request headers during SSR (axum / actix) for the leptos-use crates |
-| 2026-10-20 03:36:21 | [tc_binpoly](https://crates.io/crates/tc_binpoly) | 0.1.0 | 0 | Binary-polynomial arithmetic over GF(2^n) for cryptography: products, squares a… |
-| 2026-10-20 03:40:38 | [datasources-mysql](https://crates.io/crates/datasources-mysql) | 0.1.5 | 0 | MySQL datasource provider |
-| 2026-10-20 03:40:46 | [respan-gateway](https://crates.io/crates/respan-gateway) | 0.1.0 | 0 | An LLM gateway with a neutral core and compiled-in plugins. |
-| 2026-10-20 03:42:13 | [datasources-sqlserver](https://crates.io/crates/datasources-sqlserver) | 0.1.5 | 0 | sqlserver datasource stub |
-| 2026-10-20 03:43:31 | [ult-platform-linux](https://crates.io/crates/ult-platform-linux) | 3.0.0-alpha.0 | 0 | Linux backend (GTK 4): native widget mounting, Pango text engine, input, standa… |
-| 2026-10-20 03:45:21 | [leptos-use-cookie](https://crates.io/crates/leptos-use-cookie) | 0.20.0 | 0 | SSR-friendly and reactive cookie access |
-| 2026-10-20 03:54:04 | [ult-platform-macos](https://crates.io/crates/ult-platform-macos) | 3.0.0-alpha.0 | 0 | macOS backend (AppKit): native view mounting, CoreText text engine, input, stan… |
-| 2026-10-20 03:55:18 | [leptos-use-preferences](https://crates.io/crates/leptos-use-preferences) | 0.20.0 | 0 | Reactive prefers-color-scheme / prefers-contrast / prefers-reduced-motion for L… |
-| 2026-10-20 03:59:28 | [ferraus-core](https://crates.io/crates/ferraus-core) | 0.1.0 | 0 | Core types for ferraus: audio buffers, unit parsing, operation specs, pipelines… |
-| 2026-10-20 03:59:59 | [ferraus-codec](https://crates.io/crates/ferraus-codec) | 0.1.0 | 0 | Decoding and encoding for ferraus: Symphonia decoders, native WAV/AIFF/FLAC/Vor… |
-| 2026-10-20 04:00:03 | [ferraus-media](https://crates.io/crates/ferraus-media) | 0.1.0 | 0 | The ferraus media bridge: FFmpeg pass-through, container jobs (info, streams, e… |
-| 2026-10-20 04:00:19 | [ferraus-dsp](https://crates.io/crates/ferraus-dsp) | 0.1.0 | 0 | Pure-Rust DSP for ferraus: filters, dynamics, reverbs, delays, modulation, pann… |
-| 2026-10-20 04:00:29 | [ferraus-edit](https://crates.io/crates/ferraus-edit) | 0.1.0 | 0 | Editing commands for ferraus: trim, cut, split, concat, gain, normalize, channe… |
-| 2026-10-20 04:04:07 | [verifyanything](https://crates.io/crates/verifyanything) | 0.1.2 | 0 | VerifyAnything DRAFT VCP and Provider Contract wire SDK |
-| 2026-10-20 04:04:38 | [ult-platform-web](https://crates.io/crates/ult-platform-web) | 3.0.0-alpha.0 | 0 | WebAssembly backend: runs Ult apps in a browser page, rendering to the DOM, and… |
-| 2026-10-20 04:05:22 | [leptos-use-storage](https://crates.io/crates/leptos-use-storage) | 0.20.0 | 0 | Reactive local / session / custom storage for Leptos |
-| 2026-10-20 04:08:29 | [piigrep](https://crates.io/crates/piigrep) | 0.1.0 | 0 | Find personal information (emails, phone numbers, My Numbers, card numbers, nam… |
-| 2026-10-20 04:10:35 | [ferraus-restore](https://crates.io/crates/ferraus-restore) | 0.1.0 | 0 | Audio restoration and utility effects for ferraus (declick, hum, dereverb, and… |
-| 2026-10-20 04:15:17 | [leptos-use-color-mode](https://crates.io/crates/leptos-use-color-mode) | 0.20.0 | 0 | Reactive color mode (dark / light / customs) with auto data persistence |
-| 2026-10-20 04:15:31 | [ult-platform-windows](https://crates.io/crates/ult-platform-windows) | 3.0.0-alpha.0 | 0 | Windows backend (Win32, Direct2D, DirectWrite): view mounting, text engine, inp… |
-| 2026-10-20 04:18:28 | [plakous-attempt](https://crates.io/crates/plakous-attempt) | 0.0.1 | 0 | Family-agnostic attempt lifecycle, observation ledger, and await core for Plako… |
-| 2026-10-20 04:18:31 | [plakous-codex-code-mode-protocol](https://crates.io/crates/plakous-codex-code-mode-protocol) | 0.153.3 | 0 | Reviewed vendor snapshot of the pinned Codex Code Mode description and schema r… |
-| 2026-10-20 04:18:34 | [plakous-host-protocol](https://crates.io/crates/plakous-host-protocol) | 0.0.1 | 0 | Wire types for the plak agent JSONL host protocol |
-| 2026-10-20 04:18:37 | [plakous-http](https://crates.io/crates/plakous-http) | 0.0.1 | 0 | Provider-blind bounded HTTP transport for Plakous |
-| 2026-10-20 04:18:39 | [plakous-js-eval](https://crates.io/crates/plakous-js-eval) | 0.0.1 | 0 | Code Mode evaluator protocol and sidecar client |
+| 2026-10-20 04:20:35 | [minip2p-webtransport](https://crates.io/crates/minip2p-webtransport) | 0.0.0 | 0 | Placeholder; the real crate ships with minip2p 0.11.0 |
+| 2026-10-20 04:21:00 | [ferraus-analysis](https://crates.io/crates/ferraus-analysis) | 0.1.0 | 0 | Audio analysis for ferraus: tempo, loudness (EBU R128), spectrum, chords, diagn… |
+| 2026-10-20 04:25:15 | [leptos-use-core](https://crates.io/crates/leptos-use-core) | 0.20.0 | 0 | Small shared types (Position, Size, Direction, …) used by the leptos-use crates |
+| 2026-10-20 04:26:20 | [ult-testing](https://crates.io/crates/ult-testing) | 3.0.0-alpha.0 | 0 | Headless tests of ult apps' TSX entries: built against the app's crates as ult… |
+| 2026-10-20 04:27:10 | [dataflow-rs-derive](https://crates.io/crates/dataflow-rs-derive) | 4.0.0 | 0 | The derive behind dataflow-rs's host function configs: #[derive(FunctionConfig)] |
+| 2026-10-20 04:28:53 | [jilebi-sdk](https://crates.io/crates/jilebi-sdk) | 0.6.2 | 0 | Programmatic API for jilebi microVMs, routes, SSH keys, nodes and billing. Auth… |
+| 2026-10-20 04:30:14 | [plakous-model](https://crates.io/crates/plakous-model) | 0.0.1 | 0 | Provider-neutral inference contracts for Plakous |
+| 2026-10-20 04:31:16 | [ferraus-pitch](https://crates.io/crates/ferraus-pitch) | 0.1.0 | 0 | Pitch tracking (pYIN), note segmentation, key detection, pitch correction, pitc… |
+| 2026-10-20 04:35:19 | [leptos-use-css-var](https://crates.io/crates/leptos-use-css-var) | 0.20.0 | 0 | Manipulate CSS variables |
+| 2026-10-20 04:36:43 | [bbtree-disk](https://crates.io/crates/bbtree-disk) | 0.1.4 | 0 | bbtree on disk: a compact, read-only map written to a file and looked up where… |
+| 2026-10-20 04:36:56 | [ult-ios-app](https://crates.io/crates/ult-ios-app) | 3.0.0-alpha.0 | 0 | Release app runner: the executable of packaged ult apps (no development feature… |
+| 2026-10-20 04:38:22 | [bbtree-datafusion-parquet](https://crates.io/crates/bbtree-datafusion-parquet) | 0.1.4 | 0 | bbtree-disk as an index of Parquet files: an index of one or more columns embed… |
+| 2026-10-20 04:39:06 | [nixe](https://crates.io/crates/nixe) | 0.1.0 | 0 | Markdown knowledge base with AI and Git sync (work in progress) |
+| 2026-10-20 04:40:10 | [nixe-notes](https://crates.io/crates/nixe-notes) | 0.1.0 | 0 | Markdown knowledge base with AI and Git sync (work in progress) |
+| 2026-10-20 04:41:09 | [iyulab-gil](https://crates.io/crates/iyulab-gil) | 0.3.0 | 0 | Suggests and decides form field values from how settled documents were filled -… |
+| 2026-10-20 04:41:31 | [ferraus-models](https://crates.io/crates/ferraus-models) | 0.1.0 | 0 | ferraus model registry: signed manifest, resumable verified downloads, cache la… |
+| 2026-10-20 04:42:50 | [cargo-verdict](https://crates.io/crates/cargo-verdict) | 0.1.0 | 0 | Structured cargo verdicts: one argv model for build/test requests, a planner th… |
+| 2026-10-20 04:43:22 | [plakous-py-worker](https://crates.io/crates/plakous-py-worker) | 0.0.1 | 0 | Plak Monty subprocess worker using the pinned upstream interpreter and protocol |
+| 2026-10-20 04:45:18 | [leptos-use-cycle-list](https://crates.io/crates/leptos-use-cycle-list) | 0.20.0 | 0 | Cycle through a list of items |
+| 2026-10-20 04:47:35 | [ult-ios-host](https://crates.io/crates/ult-ios-host) | 3.0.0-alpha.0 | 0 | Prebuilt development host app (Mac Catalyst / iOS) that runs an ult bundle. |
+| 2026-10-20 04:49:49 | [deterministic_ai_kernel](https://crates.io/crates/deterministic_ai_kernel) | 0.2.0 | 0 | A deterministic Rust kernel for task execution, replay, snapshotting, and local… |
+| 2026-10-20 04:49:58 | [plakous-auth](https://crates.io/crates/plakous-auth) | 0.0.1 | 0 | Provider-neutral secure authentication foundations for Plakous |
+| 2026-10-20 04:50:57 | [pi_fixed_scale_int](https://crates.io/crates/pi_fixed_scale_int) | 0.1.0 | 0 | Fixed-denominator 64-bit integer arithmetic with decimal conversion and optiona… |
+| 2026-10-20 04:51:54 | [ferraus-ml](https://crates.io/crates/ferraus-ml) | 0.1.0 | 0 | ferraus model runtime: ONNX Runtime sessions, execution-provider selection, chu… |
+| 2026-10-20 04:55:15 | [leptos-use-derive-signal](https://crates.io/crates/leptos-use-derive-signal) | 0.20.0 | 0 | Macro to create helper functions that derive a Leptos signal |
+| 2026-10-20 04:58:08 | [ult-linux-app](https://crates.io/crates/ult-linux-app) | 3.0.0-alpha.0 | 0 | Release app runner on Linux: the executable of packaged ult apps (no developmen… |
+| 2026-10-20 05:01:15 | [rfd-ashpd](https://crates.io/crates/rfd-ashpd) | 0.17.2 | 0 | RFD with ASHPD used on Linux and FreeBSD instead |
+| 2026-10-20 05:02:13 | [ferraus-denoise](https://crates.io/crates/ferraus-denoise) | 0.1.0 | 0 | Noise reduction for ferraus: noise profiles, spectral gating, adaptive tracking… |
+| 2026-10-20 05:03:03 | [plakous-code-mode](https://crates.io/crates/plakous-code-mode) | 0.0.1 | 0 | Parse/DTO helpers for Plakous Code Mode presentation |
+| 2026-10-20 05:03:55 | [mlirpass-macros](https://crates.io/crates/mlirpass-macros) | 0.1.0-alpha.1 | 0 | Proc macros for mlirpass: #[pass], #[patterns] / #[lowering] |
+| 2026-10-20 05:05:17 | [leptos-use-device-orientation](https://crates.io/crates/leptos-use-device-orientation) | 0.20.0 | 0 | Reactive [DeviceOrientationEvent](https://developer.mozilla.org/en-US/docs/Web/… |
+| 2026-10-20 05:05:33 | [mlirpass](https://crates.io/crates/mlirpass) | 0.1.0-alpha.1 | 0 | MLIR passes in Rust: mutable IR, pattern rewriting, dialect conversion and the… |
+| 2026-10-20 05:08:25 | [kaki-bukit](https://crates.io/crates/kaki-bukit) | 0.0.1 | 0 | KAKI BUKIT (Kernel for Agent-based Key-resource Inventory, Backend for Utility,… |
+| 2026-10-20 05:08:44 | [ult-linux-host](https://crates.io/crates/ult-linux-host) | 3.0.0-alpha.0 | 0 | Development host app (GTK 4) that runs an ult bundle on Linux. |
+| 2026-10-20 05:09:15 | [bedok](https://crates.io/crates/bedok) | 0.0.1 | 0 | BEDOK — systems-level multiphysics coupling: 3-D nodal-diffusion neutronics cou… |
+| 2026-10-20 05:09:40 | [plakous-exchange](https://crates.io/crates/plakous-exchange) | 0.0.1 | 0 | Shared physical-exchange plumbing for Plakous protocol-family kernels and provi… |
+| 2026-10-20 05:12:27 | [ferraus-separate](https://crates.io/crates/ferraus-separate) | 0.1.0 | 0 | ferraus stem separation: model tiers, ensembles, test-time augmentation, residu… |
+| 2026-10-20 05:13:56 | [redhill](https://crates.io/crates/redhill) | 0.0.1 | 0 | REDHILL (Radionuclide Effluent Dispersion solver for Hydrogeological Infiltrati… |
+| 2026-10-20 05:15:00 | [paludarium-types](https://crates.io/crates/paludarium-types) | 0.1.0 | 0 | Shared types for the paludarium x86-64 Linux user-mode emulator |
+| 2026-10-20 05:15:03 | [paludarium-host](https://crates.io/crates/paludarium-host) | 0.1.0 | 0 | Host abstraction (stdio, randomness) for paludarium |
+| 2026-10-20 05:15:06 | [paludarium-mmu](https://crates.io/crates/paludarium-mmu) | 0.1.0 | 0 | Software MMU (guest address spaces) for paludarium |
+| 2026-10-20 05:15:08 | [paludarium-vfs](https://crates.io/crates/paludarium-vfs) | 0.1.0 | 0 | In-memory virtual file system for paludarium |
+| 2026-10-20 05:15:10 | [paludarium-loader](https://crates.io/crates/paludarium-loader) | 0.1.0 | 0 | Static ELF loader for paludarium |
+| 2026-10-20 05:15:16 | [leptos-use-device-pixel-ratio](https://crates.io/crates/leptos-use-device-pixel-ratio) | 0.20.0 | 0 | Reactive [`window.devicePixelRatio`](https://developer.mozilla.org/en-US/docs/W… |
+| 2026-10-20 05:18:05 | [changi](https://crates.io/crates/changi) | 0.0.1 | 0 | CHANGI — atmospheric dispersion, plume transport, deposition and ground contami… |
+| 2026-10-20 05:18:05 | [unwreck-core](https://crates.io/crates/unwreck-core) | 0.1.0 | 0 | Shared types for unwreck: hashes, manifests, triggers, and user config |
+| 2026-10-20 05:18:34 | [unwreck-store](https://crates.io/crates/unwreck-store) | 0.1.0 | 0 | Content-addressed snapshot store (BLAKE3, zstd packs) for unwreck |
 
 ## Data source
 
