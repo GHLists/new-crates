@@ -8,48 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 22:19 UTC
+## Latest list — 2026-10-20 23:19 UTC
 
-New crates published between 2026-10-20 21:18 UTC and 2026-10-20 22:19 UTC.
+New crates published between 2026-10-20 22:19 UTC and 2026-10-20 23:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-20T22-19-43-89886Z.csv)
+[Full CSV](data/new-crates-2026-10-20T23-19-13-111889Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-20 21:20:08 | [sympy-poly-core](https://crates.io/crates/sympy-poly-core) | 0.1.0 | 0 | Reusable Rust core: dense polynomial arithmetic over QQ (sympy polys-domain ker… |
-| 2026-10-20 21:20:16 | [docutils-core](https://crates.io/crates/docutils-core) | 0.1.0 | 0 | Rust port of python/docutils: reStructuredText parser, transforms, and publishe… |
-| 2026-10-20 21:24:33 | [vix-keybinding-editor-panel](https://crates.io/crates/vix-keybinding-editor-panel) | 1.7.0 | 0 | Data and table state for the keybinding editor overlay (rebind/reset). |
-| 2026-10-20 21:27:20 | [computer-use](https://crates.io/crates/computer-use) | 0.2.0 | 0 | Cross-platform desktop automation for agents: screenshots, mouse, keyboard, acc… |
-| 2026-10-20 21:28:19 | [audiobox-device](https://crates.io/crates/audiobox-device) | 0.1.0 | 0 | Plays audiobox's real-time mixer on the audio device: natively through cpal, an… |
-| 2026-10-20 21:32:47 | [aauth-protocol](https://crates.io/crates/aauth-protocol) | 0.1.0 | 0 | AAuth (draft-hardt-oauth-aauth-protocol): HTTP message signatures, agent, perso… |
-| 2026-10-20 21:34:33 | [vix-keybindings](https://crates.io/crates/vix-keybindings) | 1.7.0 | 0 | An exhaustive, queryable registry of every built-in keybinding across all 10 ke… |
-| 2026-10-20 21:35:22 | [botus-1-2-3](https://crates.io/crates/botus-1-2-3) | 0.1.0 | 0 | A compact spreadsheet workspace for agents. Recalculate like it is 1989. |
-| 2026-10-20 21:38:01 | [aauth-person-server](https://crates.io/crates/aauth-person-server) | 0.1.0 | 0 | An AAuth Person Server: missions, person and auth tokens, budgets and approvals… |
-| 2026-10-20 21:39:41 | [kiso-tokens](https://crates.io/crates/kiso-tokens) | 0.1.1 | 0 | Kiso design tokens as sRGB themes for terminal and native UIs |
-| 2026-10-20 21:44:33 | [vix-modal](https://crates.io/crates/vix-modal) | 1.7.0 | 0 | A real modal-editing engine for the Vi/Spacemacs keymaps: modes, operator x mot… |
-| 2026-10-20 21:47:40 | [active-ffi](https://crates.io/crates/active-ffi) | 1.4.0 | 0 | Active C ABI for embedding: opaque handles, structured diagnostics, budgets, se… |
-| 2026-10-20 21:47:45 | [active-wasm](https://crates.io/crates/active-wasm) | 1.4.0 | 0 | Active WebAssembly embedding: the same evaluator for browsers, Node, Deno, Bun,… |
-| 2026-10-20 21:50:46 | [mmt-core](https://crates.io/crates/mmt-core) | 0.1.0 | 0 | MMT protocol core library (ISO/IEC 23008-1) |
-| 2026-10-20 21:51:43 | [gpui-updater-release](https://crates.io/crates/gpui-updater-release) | 0.4.3 | 0 | Release-side tooling for gpui-updater: static manifests, Sparkle appcasts, sign… |
-| 2026-10-20 21:52:41 | [pqcseal](https://crates.io/crates/pqcseal) | 0.0.2 | 0 | pqcseal |
-| 2026-10-20 21:54:31 | [ciplink](https://crates.io/crates/ciplink) | 0.3.0 | 0 | EtherNet/IP (CIP) driver for Allen-Bradley Logix, Micro800 and SLC/MicroLogix P… |
-| 2026-10-20 21:54:33 | [vix-org-table](https://crates.io/crates/vix-org-table) | 1.7.0 | 0 | Org-mode pipe-table editing: parsing, alignment, structural edits, and TBLFM fo… |
-| 2026-10-20 21:57:59 | [tower-worker-fetch](https://crates.io/crates/tower-worker-fetch) | 0.1.0 | 0 | A tower::Service over the Cloudflare Workers fetch API, typed with the http cra… |
-| 2026-10-20 22:04:00 | [zynx-macros](https://crates.io/crates/zynx-macros) | 0.1.0 | 0 | Procedural macros for Zynx 🦀 (Internal Crate) |
-| 2026-10-20 22:04:19 | [zynx](https://crates.io/crates/zynx) | 0.0.4 | 0 | Zynx is a Discord API Rust library under development 🦀 |
-| 2026-10-20 22:04:42 | [vix-script](https://crates.io/crates/vix-script) | 1.7.0 | 0 | Rhai-based user scripting: load, sandbox, and run scripts against the active bu… |
-| 2026-10-20 22:06:48 | [mbr-core](https://crates.io/crates/mbr-core) | 0.7.0 | 0 | Render core of mbr, the markdown browser: markdown, templates, config, reposito… |
-| 2026-10-20 22:06:51 | [mbr-server](https://crates.io/crates/mbr-server) | 0.7.0 | 0 | HTTP server for mbr, the markdown browser: routes, live reload, edit endpoints… |
-| 2026-10-20 22:06:51 | [mbr-ssg](https://crates.io/crates/mbr-ssg) | 0.7.0 | 0 | Static site generator for mbr, the markdown browser. Internal crate of mbr-mark… |
-| 2026-10-20 22:06:52 | [mbr-ffi](https://crates.io/crates/mbr-ffi) | 0.7.0 | 0 | UniFFI surface of mbr, the markdown browser, for its Apple shells (QuickLook, a… |
-| 2026-10-20 22:08:30 | [kibbr-core](https://crates.io/crates/kibbr-core) | 0.1.0 | 0 | kibbr - a log line into keys, types and a fingerprint, internal to kibbr; no AP… |
-| 2026-10-20 22:08:48 | [kibbr-storage](https://crates.io/crates/kibbr-storage) | 0.1.0 | 0 | kibbr - the trie, the day files and the write-ahead log, internal to kibbr; no… |
-| 2026-10-20 22:09:19 | [kibbr-engine](https://crates.io/crates/kibbr-engine) | 0.1.0 | 0 | kibbr - plan and execute a query; TrieQL, internal to kibbr; no API stability p… |
-| 2026-10-20 22:09:48 | [kibbr-server](https://crates.io/crates/kibbr-server) | 0.1.0 | 0 | kibbr - the HTTP server, and the loads and compactions it runs, internal to kib… |
-| 2026-10-20 22:10:08 | [kibbr](https://crates.io/crates/kibbr) | 0.1.0 | 0 | kibbr - log store |
-| 2026-10-20 22:12:12 | [cloudillo-extract](https://crates.io/crates/cloudillo-extract) | 0.8.21 | 0 | Text and metadata extraction from stored content for the Cloudillo platform |
-| 2026-10-20 22:12:38 | [cloudillo-site](https://crates.io/crates/cloudillo-site) | 0.8.21 | 0 | Site builder for the Cloudillo platform — publishes a Notillo document as a pub… |
-| 2026-10-20 22:14:52 | [vix-settings-bundle](https://crates.io/crates/vix-settings-bundle) | 1.7.0 | 0 | Bundle a user's config.toml, macros.toml, keybindings.toml, user dictionary, an… |
+| 2026-10-20 22:22:40 | [hakomcp](https://crates.io/crates/hakomcp) | 0.1.0 | 0 | Thin MCP server for the HakoDB embedded document engine |
+| 2026-10-20 22:24:31 | [zelf-sdk](https://crates.io/crates/zelf-sdk) | 1.0.0 | 0 | Rust client for the ZelfAI APIs |
+| 2026-10-20 22:24:33 | [vix-structural-replace](https://crates.io/crates/vix-structural-replace) | 1.7.0 | 0 | Structural search & replace: a pattern language with metavariable holes, matche… |
+| 2026-10-20 22:30:26 | [cnctd_client](https://crates.io/crates/cnctd_client) | 1.0.0-alpha.1 | 0 | Client for servers built with the cnctd_server Rust crate: JSON envelopes over… |
+| 2026-10-20 22:33:56 | [gpui_ce_render](https://crates.io/crates/gpui_ce_render) | 0.3.0 | 0 | A community fork of Zed's GPU-accelerated UI framework |
+| 2026-10-20 22:34:23 | [gpui_ce_parley](https://crates.io/crates/gpui_ce_parley) | 0.3.0 | 0 | A community fork of Zed's GPU-accelerated UI framework |
+| 2026-10-20 22:34:37 | [vix-theme-editor-panel](https://crates.io/crates/vix-theme-editor-panel) | 1.7.0 | 0 | List a theme's color slots and edit each one, live-previewed on the real UI as… |
+| 2026-10-20 22:36:04 | [gpui_ce_apple](https://crates.io/crates/gpui_ce_apple) | 0.3.0 | 0 | A community fork of Zed's GPU-accelerated UI framework |
+| 2026-10-20 22:37:25 | [gpui_ce_mobile](https://crates.io/crates/gpui_ce_mobile) | 0.3.0 | 0 | Android platform backend for GPUI CE |
+| 2026-10-20 22:44:33 | [vix-tutor](https://crates.io/crates/vix-tutor) | 1.7.0 | 0 | An interactive, in-editor tutorial — the vimtutor idea, but its lessons are rea… |
+| 2026-10-20 22:54:34 | [vix-workspace-search](https://crates.io/crates/vix-workspace-search) | 1.7.0 | 0 | Search (and replace) across every file under the workspace root, not just the a… |
+| 2026-10-20 22:56:18 | [clust-libreville-rs](https://crates.io/crates/clust-libreville-rs) | 0.1.0 | 0 | Parallel and deterministic implementation of the Leiden community detection alg… |
+| 2026-10-20 22:56:23 | [trellis-models](https://crates.io/crates/trellis-models) | 0.0.0 | 0 | Name registration for Trellis frozen native-contract models; no model API in th… |
+| 2026-10-20 22:56:57 | [gpui_ce_ios](https://crates.io/crates/gpui_ce_ios) | 0.3.0 | 0 | A community fork of Zed's GPU-accelerated UI framework |
+| 2026-10-20 23:01:42 | [auto_redshift](https://crates.io/crates/auto_redshift) | 0.1.1 | 0 | Shift wlroots display temperature and brightness through the day, relative to y… |
+| 2026-10-20 23:05:36 | [simien_http_h1](https://crates.io/crates/simien_http_h1) | 0.1.1 | 0 | HTTP/1 protocol pieces for the Simien runtime. Forked from Deno's deno_http_h1… |
+| 2026-10-20 23:05:40 | [simien_net](https://crates.io/crates/simien_net) | 0.1.1 | 0 | TCP, TLS and Unix stream types for the Simien runtime. Forked from the stream l… |
+| 2026-10-20 23:05:44 | [simien_websocket](https://crates.io/crates/simien_websocket) | 0.1.1 | 0 | WebSocket for the Simien runtime. Forked from Deno's deno_websocket 0.264.0. |
+| 2026-10-20 23:05:47 | [simien_http](https://crates.io/crates/simien_http) | 0.1.1 | 0 | HTTP server for the Simien runtime. Forked from Deno's deno_http 0.257.0. |
+| 2026-10-20 23:08:23 | [sylva](https://crates.io/crates/sylva) | 0.1.0 | 0 | Graphs and trees that remember: general-purpose structures with a versioned op… |
+| 2026-10-20 23:14:34 | [zipbox](https://crates.io/crates/zipbox) | 0.1.1 | 0 | Drive Zipbox boxes from Rust: create a box, run commands, move files, open a te… |
+| 2026-10-20 23:16:58 | [synthient](https://crates.io/crates/synthient) | 1.0.0 | 0 | The official Rust client for the Synthient API: IP and domain intelligence, acc… |
+| 2026-10-20 23:18:45 | [rs-sqlite2kvpairs](https://crates.io/crates/rs-sqlite2kvpairs) | 0.1.0 | 0 | Export SQLite kvpairs to JSON format |
 
 ## Data source
 

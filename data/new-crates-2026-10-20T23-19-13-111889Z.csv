@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T22:22:40.331439Z,hakomcp,0.1.0,0,0,https://github.com/hakodb/hakomcp,Thin MCP server for the HakoDB embedded document engine
+2026-10-20T22:24:31.376679Z,zelf-sdk,1.0.0,0,0,https://github.com/hellozelf/zelf-sdk,Rust client for the ZelfAI APIs
+2026-10-20T22:24:33.321207Z,vix-structural-replace,1.7.0,0,0,https://github.com/vixide/vix,"Structural search & replace: a pattern language with metavariable holes, matched against source text token-by-token."
+2026-10-20T22:30:26.648336Z,cnctd_client,1.0.0-alpha.1,0,0,https://github.com/Connected-Dot/cnctd_client,"Client for servers built with the cnctd_server Rust crate: JSON envelopes over REST, the WebSocket with reconnect, push routing by channel, request/response over the socket"
+2026-10-20T22:33:56.431646Z,gpui_ce_render,0.3.0,0,0,,A community fork of Zed's GPU-accelerated UI framework
+2026-10-20T22:34:23.738053Z,gpui_ce_parley,0.3.0,0,0,,A community fork of Zed's GPU-accelerated UI framework
+2026-10-20T22:34:37.097456Z,vix-theme-editor-panel,1.7.0,0,0,https://github.com/vixide/vix,"List a theme's color slots and edit each one, live-previewed on the real UI as you go, then save the result as a new custom theme."
+2026-10-20T22:36:04.38843Z,gpui_ce_apple,0.3.0,0,0,,A community fork of Zed's GPU-accelerated UI framework
+2026-10-20T22:37:25.525123Z,gpui_ce_mobile,0.3.0,0,0,,Android platform backend for GPUI CE
+2026-10-20T22:44:33.35959Z,vix-tutor,1.7.0,0,0,https://github.com/vixide/vix,"An interactive, in-editor tutorial — the vimtutor idea, but its lessons are real Vix buffers the learner edits with their own hands, not a scripted walkthrough."
+2026-10-20T22:54:34.246751Z,vix-workspace-search,1.7.0,0,0,https://github.com/vixide/vix,"Search (and replace) across every file under the workspace root, not just the active buffer."
+2026-10-20T22:56:18.101912Z,clust-libreville-rs,0.1.0,0,0,https://github.com/btraven00/clust-libreville-rs,Parallel and deterministic implementation of the Leiden community detection algorithm
+2026-10-20T22:56:23.963281Z,trellis-models,0.0.0,0,0,https://github.com/oats-center/trellis,Name registration for Trellis frozen native-contract models; no model API in this bootstrap version.
+2026-10-20T22:56:57.323175Z,gpui_ce_ios,0.3.0,0,0,,A community fork of Zed's GPU-accelerated UI framework
+2026-10-20T23:01:42.689385Z,auto_redshift,0.1.1,0,0,https://github.com/valeratrades/auto_redshift,"Shift wlroots display temperature and brightness through the day, relative to your waketime"
+2026-10-20T23:05:36.536257Z,simien_http_h1,0.1.1,0,0,https://github.com/simienapp/core,HTTP/1 protocol pieces for the Simien runtime. Forked from Deno's deno_http_h1 0.10.0.
+2026-10-20T23:05:40.1294Z,simien_net,0.1.1,0,0,https://github.com/simienapp/core,"TCP, TLS and Unix stream types for the Simien runtime. Forked from the stream layer of Deno's deno_net 0.251.0."
+2026-10-20T23:05:44.588306Z,simien_websocket,0.1.1,0,0,https://github.com/simienapp/core,WebSocket for the Simien runtime. Forked from Deno's deno_websocket 0.264.0.
+2026-10-20T23:05:47.811134Z,simien_http,0.1.1,0,0,https://github.com/simienapp/core,HTTP server for the Simien runtime. Forked from Deno's deno_http 0.257.0.
+2026-10-20T23:08:23.440362Z,sylva,0.1.0,0,0,https://github.com/vaibhav-gopal/sylva,Graphs and trees that remember: general-purpose structures with a versioned op log on top
+2026-10-20T23:14:34.662119Z,zipbox,0.1.1,0,0,https://github.com/tribes-protocol/zipbox-sdks,"Drive Zipbox boxes from Rust: create a box, run commands, move files, open a terminal, publish a port."
+2026-10-20T23:16:58.756438Z,synthient,1.0.0,0,0,https://github.com/synthient/synthient-rust,"The official Rust client for the Synthient API: IP and domain intelligence, account details, and real-time and bulk data feeds."
+2026-10-20T23:18:45.944003Z,rs-sqlite2kvpairs,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-sqlite2kvpairs,Export SQLite kvpairs to JSON format
