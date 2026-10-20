@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T06:23:30.681289Z,plakous-messages,0.0.1,0,0,https://github.com/N0xMare/plak,Messages-family protocol kernel primitives for Plakous
+2026-10-20T06:24:11.787822Z,ferraus-mcp,0.1.0,0,0,https://github.com/djynnius/ferraus,MCP server exposing every ferraus command as a tool
+2026-10-20T06:25:21.767095Z,leptos-use-element-bounding,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive [bounding box](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect) of an HTML element
+2026-10-20T06:28:55.724371Z,hirust-mapper-cli,0.4.0,0,0,https://github.com/dunpju/hirust-mapper,hirust-mapper 代码生成 CLI：连库反向生成 entity（MapperModel）与 mapper XML 骨架
+2026-10-20T06:29:30.572618Z,opencv-no-c-calib3d,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,"cv::calib3d for opencv-no-c: Rodrigues, homography, PnP and projection."
+2026-10-20T06:30:24.536889Z,plakous-responses-dialect,0.0.1,0,0,https://github.com/N0xMare/plak,Generic Responses-family dialect host shapes (free functions + shared types)
+2026-10-20T06:34:16.848391Z,berm-host,0.1.0,0,0,https://github.com/crabtalk/crab,"The host every berm daemon runs: deployed services, the state they commit, and the calls into them"
+2026-10-20T06:34:18.290843Z,crab-agent,0.1.0,0,0,https://github.com/crabtalk/crab,Command-line client for bermd
+2026-10-20T06:34:19.915166Z,crab-guest-stripe,0.1.0,0,0,https://github.com/crabtalk/crab,"Stripe subscriptions for a product's users: Checkout, the customer portal, and each user's plan."
+2026-10-20T06:34:23.12672Z,orbit-js,0.1.0,0,0,https://github.com/claviron/orbit-js,"Serve a Deno, Node or Bun application behind a Claviron edge over Orbit Link"
+2026-10-20T06:34:24.438782Z,crab-guest,0.1.0,0,0,https://github.com/crabtalk/crab,The guests crab provides
+2026-10-20T06:35:17.575072Z,leptos-use-element-hover,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive element's hover state
+2026-10-20T06:37:16.849378Z,plakous-tool-files,0.0.1,0,0,https://github.com/N0xMare/plak,"One workspace-path rule and one patch preflight: bounded reads, exact-content patching, image inspection, and every provider lowering of them"
+2026-10-20T06:39:35.319601Z,opencv-no-c-gapi,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,"cv::gapi for opencv-no-c: a deferred image-processing graph, compiled once and applied many times."
+2026-10-20T06:42:26.862438Z,blazer,0.1.0,0,0,https://github.com/romishalom/blazer,"A blazing fast, feature-rich library for styling and enhancing CLI output in Rust"
+2026-10-20T06:44:54.907533Z,ffez,0.1.0,0,0,https://github.com/debangshu919/ffez,A minimal FFmpeg CLI wrapper built for your everyday audio and video tasks.
+2026-10-20T06:45:10.840463Z,manny,0.1.0,0,0,,A digital-twin simulation environment for IETF SUIT software update ecosystems.
+2026-10-20T06:45:19.061252Z,leptos-use-element-size,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive size of an HTML element
+2026-10-20T06:47:06.718162Z,respan-gateway-plugin-mcp-router,0.1.0,0,0,https://github.com/respanai/respan-gateway,"First-party plugin: routes an MCP client's request to the MCP server its path names, and fronts many as one at /mcp."
+2026-10-20T06:47:28.445918Z,respan-gateway-tool-vendor-kit,0.1.0,0,0,https://github.com/respanai/respan-gateway,"A tool vendor as a template: an HTTP API's tools, its key and its base URL; and an MCP server of it, in process."
+2026-10-20T06:47:32.900435Z,respan-gateway-tool-vendors-green,0.1.0,0,0,https://github.com/respanai/respan-gateway,"The green tool vendors: maintained, and verified end to end against their live APIs."
+2026-10-20T06:47:35.665242Z,respan-gateway-tool-vendors-yellow,0.1.0,0,0,https://github.com/respanai/respan-gateway,"The yellow tool vendors: maintained, but not verified end to end against their live APIs."
+2026-10-20T06:47:40.126027Z,respan-gateway-tool-vendors,0.1.0,0,0,https://github.com/respanai/respan-gateway,"The tool vendors: HTTP APIs offered as tools, each served as an MCP server in process."
+2026-10-20T06:47:45.445754Z,ccfind,0.1.0,0,0,https://github.com/bbelderbos/ccfind,"Full-text search across Claude Code and Codex sessions, with the command to resume them"
+2026-10-20T06:49:38.830547Z,opencv-no-c-highgui,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,"cv::highgui for opencv-no-c: windows, keys, trackbars and ROI selection, on egui."
+2026-10-20T06:50:40.305462Z,agent-first-pdf,0.1.0,0,0,https://github.com/agentfirstkit/agent-first-pdf,"Recover the reading structure of article PDFs as clean text, images, and source locations."
+2026-10-20T06:51:05.342378Z,plakous-tool-plan,0.0.1,0,0,https://github.com/N0xMare/plak,"The bounded task plan: a revisioned PlanState port, its replacement tool, and the id-merge lowering"
+2026-10-20T06:55:17.209477Z,leptos-use-intersection-observer,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive [IntersectionObserver](https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserver)
+2026-10-20T06:58:06.189804Z,plakous-tool-process,0.0.1,0,0,https://github.com/N0xMare/plak,"Joined process sessions: the four canonical operations, the PTY backend, and the per-vocabulary shell tool"
+2026-10-20T06:59:29.575978Z,opencv-no-c-imgcodecs,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,Pure-Rust port of the OpenCV `imgcodecs` module: image file I/O.
+2026-10-20T07:00:52.492208Z,inchworm,0.1.0,0,0,https://github.com/DominicBurkart/inchworm,local coding agent orchestrator
+2026-10-20T07:04:24.424529Z,nanometer,0.1.0,0,0,https://github.com/merlimat/nanometer,"Metric handles for Rust whose record path costs nanoseconds, exported through OpenTelemetry"
+2026-10-20T07:05:21.251584Z,leptos-use-element-visibility,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Tracks the visibility of an element within the viewport
+2026-10-20T07:09:29.92236Z,opencv-no-c-ml,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,"cv::ml for opencv-no-c: KNN, Bayes, SVM, decision trees, MLP and EM."
+2026-10-20T07:12:04.075793Z,plakous-tool-search,0.0.1,0,0,https://github.com/N0xMare/plak,"Bounded deterministic repository search and directory listing, with its own walker and bound table"
+2026-10-20T07:15:24.741811Z,leptos-use-event-source,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive [EventSource](https://developer.mozilla.org/en-US/docs/Web/API/EventSource)
+2026-10-20T07:15:25.588388Z,bookcicle-eventing,1.0.1,0,0,https://github.com/bookcicle/bookcicle-eventing,Privacy-conscious Eventing by Bookcicle SDK
+2026-10-20T07:17:26.280854Z,rydantic-ai,0.1.0,0,0,https://github.com/trotsky1997/Rydantic,"Typed AI agents, resumable graphs and a Responses gateway for Rydantic"
+2026-10-20T07:18:11.387046Z,boma,0.1.0,0,0,https://github.com/manic-systems/boma,Nix external builder running Linux derivations in a fresh Virtualization.framework VM
+2026-10-20T07:19:10.371802Z,plakous-tool-web,0.0.1,0,0,https://github.com/N0xMare/plak,"Local wrapper tools for provider-hosted web search, page fetch and X search, one isolated side request per call"
+2026-10-20T07:19:31.974057Z,opencv-no-c-objdetect,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,"cv::objdetect for opencv-no-c: HOG descriptors, cascade detection and rectangle grouping."
