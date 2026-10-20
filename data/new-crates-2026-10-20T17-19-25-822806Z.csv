@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T16:20:51.171472Z,oxsearch-enrich,0.2.0,0,0,https://github.com/agentstatelabs/oxsearch,"Enrich policies for oxsearch, generated from the Elasticsearch specification: lookups that add data from one index to documents as they are ingested"
+2026-10-20T16:27:23.945576Z,ra-jit-base-db,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's base-db crate, used by ra-jit"
+2026-10-20T16:27:30.451172Z,tembo-rs,0.2.0,0,0,https://github.com/tembo/tembo-rs,Rust library to access the Tembo SDK API
+2026-10-20T16:28:26.615667Z,dsc_lib,1.0.0,0,0,,DSC lines and config parser
+2026-10-20T16:30:54.201696Z,oxsearch-admin,0.2.0,0,0,https://github.com/agentstatelabs/oxsearch,"Cluster, index and node administration APIs for oxsearch, generated from the Elasticsearch specification"
+2026-10-20T16:36:18.119985Z,utilvo-edge-shield,1.1.0,0,0,https://github.com/utilvo/utilvo-edge-shield,"Open-source server firewall generator, CIDR/ASN threat intelligence feed (AS132203, AS45102, AS136907), and GA4 headless bot detector."
+2026-10-20T16:37:23.986126Z,ra-jit-mbe,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's mbe crate, used by ra-jit"
+2026-10-20T16:37:59.110165Z,cortexkit-role-agent-inbox,0.1.0,0,0,https://github.com/cortexkit/commons,"Wire contract, neutralization and vectors for the CortexKit agent-inbox/v1 capability."
+2026-10-20T16:40:04.694909Z,forklaunch-billing-interface,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust billing interface APIs and runtime support
+2026-10-20T16:40:07.540846Z,forklaunch-cac-interface,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust cac interface APIs and runtime support
+2026-10-20T16:40:10.052303Z,forklaunch-ecommerce-interface,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust ecommerce interface APIs and runtime support
+2026-10-20T16:40:12.54305Z,forklaunch-iam-interface,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust iam interface APIs and runtime support
+2026-10-20T16:40:15.26129Z,forklaunch-worker-interface,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust worker interface APIs and runtime support
+2026-10-20T16:40:52.710851Z,oxsearch-aggs,0.2.0,0,0,https://github.com/agentstatelabs/oxsearch,"Aggregation requests and typed aggregation results for oxsearch, generated from the Elasticsearch specification"
+2026-10-20T16:41:20.707076Z,jsxrs-core,0.1.6,0,0,,"Shared parsing, validation, schema, and route-discovery components for jsxrs."
+2026-10-20T16:41:22.344283Z,jsxrs-macros,0.1.6,0,0,,Compile-time component and route macros for jsxrs.
+2026-10-20T16:42:31.92883Z,nv-redfish-server-core,0.20.0,0,0,https://github.com/dsx-ai-factory/nv-redfish,Serialization primitives for generated Redfish server models
+2026-10-20T16:42:48.82373Z,nv-redfish-quirks,0.20.0,0,0,https://github.com/dsx-ai-factory/nv-redfish,"Platform quirks for nv-redfish: classification, document repairs, and a repairing Bmc"
+2026-10-20T16:43:06.417068Z,retex-svg,1.1.0,0,0,https://gitlab.com/severin-lemaignan/retex,SVG output for retex: the pages of a PDF file as one multi-page SVG document
+2026-10-20T16:44:09.903635Z,dc-core,0.1.0,0,0,https://github.com/DC-Highs/rust-packages,"Shared enums and constants for the DC Highs Dragon City crates (fan-made, not affiliated with SocialPoint)."
+2026-10-20T16:44:41.757408Z,dc-localization,0.1.0,0,0,https://github.com/DC-Highs/rust-packages,"Dragon City localization (translations) fetching and lookup (fan-made, not affiliated with SocialPoint)."
+2026-10-20T16:44:52.828332Z,dc-statistics,0.1.0,0,0,https://github.com/DC-Highs/rust-packages,"Generate comprehensive statistics from Dragon City configuration data (fan-made, not affiliated with SocialPoint)."
+2026-10-20T16:46:32.706838Z,dc-assets,0.1.0,0,0,https://github.com/DC-Highs/rust-packages,"Download static assets (sprites, thumbnails, animations, music) from the Dragon City servers (fan-made, not affiliated with SocialPoint)."
+2026-10-20T16:47:05.929514Z,dc-config,0.1.0,0,0,https://github.com/DC-Highs/rust-packages,"Access Dragon City game configuration data (fan-made, not affiliated with SocialPoint)."
+2026-10-20T16:47:23.504727Z,ra-jit-hir-expand,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's hir-expand crate, used by ra-jit"
+2026-10-20T16:47:26.14528Z,ls-worktrees,0.1.6,0,0,https://github.com/apilot/lsw,"Fast read-only list of git worktrees: branch, dirty state, ahead/behind — at a glance, across all repos in a folder"
+2026-10-20T16:50:10.853862Z,texera-pluggins,0.1.0,0,0,https://github.com/feraxhp/texera-pluggins,"Plugins and extensions for the Texera editor ecosystem, ported from CodeMirror."
+2026-10-20T16:50:24.162078Z,forklaunch-billing-base,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust billing base APIs and runtime support
+2026-10-20T16:50:51.18607Z,oxsearch-eql,0.2.0,0,0,https://github.com/agentstatelabs/oxsearch,"EQL for oxsearch, generated from the Elasticsearch specification: event and sequence queries over time series"
+2026-10-20T16:52:30.051089Z,tv-rs-local,0.2.0,0,0,https://github.com/Zakarialabib/tv-rs,"Local display probing: connector, EDID identity, physical size and TV likelihood without a TV on the network."
+2026-10-20T16:52:33.248274Z,nrfdfu-reset,0.1.0,0,0,https://github.com/twine-rs/nrfdfu-reset,Reset nRF devices into DFU mode over USB with the Nordic USB DFU trigger
+2026-10-20T16:53:11.85381Z,tv-rs-dlna,0.2.0,0,0,https://github.com/Zakarialabib/tv-rs,"DLNA/UPnP MediaRenderer transport: SSDP discovery, AVTransport SOAP control, GENA eventing."
+2026-10-20T16:56:06.459901Z,crtsim-core,1.5.0,0,0,https://github.com/aizumanga/CRTSim-Renderer,"J. Kyle Pittman's CRTSim on wgpu: composite artifacts, persistence, a ray-traced curved screen and bezel, shadow mask and bloom, for stills, video and a host's own frames."
+2026-10-20T16:57:24.00048Z,ra-jit-project-model,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's project-model crate, used by ra-jit"
+2026-10-20T16:59:57.163679Z,cortexkit-role-agent-inbox-conformance,0.1.0,0,0,https://github.com/cortexkit/commons,Conformance runner for a live CortexKit agent-inbox/v1 implementer.
+2026-10-20T17:00:51.587924Z,oxsearch-search-application,0.2.0,0,0,https://github.com/agentstatelabs/oxsearch,"Search applications for oxsearch, generated from the Elasticsearch specification: named search templates over a set of indices"
+2026-10-20T17:02:39.328321Z,stellar-confidential,0.8.0,0,0,https://github.com/OpenZeppelin/stellar-contracts,Confidential token with encrypted balances and zero-knowledge proofs for the Stellar contracts.
+2026-10-20T17:06:53.130541Z,rinai,0.0.1,0,0,https://github.com/pegov/rinai,ai toolkit cli
+2026-10-20T17:06:53.948323Z,rinai-contrib,0.0.1,0,0,https://github.com/pegov/rinai,ai toolkit extra ready for use modules
+2026-10-20T17:06:54.443646Z,rinai-core,0.0.1,0,0,https://github.com/pegov/rinai,ai toolkit core lib
+2026-10-20T17:06:57.639538Z,mojo-sys,0.1.0,0,0,https://github.com/looading/mojo-ipc,FFI types and dynamic dispatch for the unofficial Chromium Mojo Rust SDK
+2026-10-20T17:06:58.809388Z,mojom-build,0.1.0,0,0,https://github.com/looading/mojo-ipc,Cargo integration for the pinned Chromium Mojom Rust generator
+2026-10-20T17:06:59.437306Z,mojom-derive,0.1.0,0,0,https://github.com/looading/mojo-ipc,Mojom serialization derive macros for the unofficial Mojo Rust SDK
+2026-10-20T17:07:00.588825Z,mojo-c-api,0.1.0,0,0,https://github.com/looading/mojo-ipc,Safe Mojo C API wrappers for the unofficial Chromium Mojo Rust SDK
+2026-10-20T17:07:01.004746Z,mojo-sequence,0.1.0,0,0,https://github.com/looading/mojo-ipc,Chromium task sequence integration for the unofficial Mojo Rust SDK
+2026-10-20T17:07:24.051814Z,ra-jit-hir-def,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's hir-def crate, used by ra-jit"
+2026-10-20T17:10:51.967144Z,oxsearch-snapshot,0.2.0,0,0,https://github.com/agentstatelabs/oxsearch,"Snapshots for oxsearch, generated from the Elasticsearch specification: repositories, and snapshots taken, cloned and restored"
+2026-10-20T17:14:59.560744Z,mojo-system,0.1.0,0,0,https://github.com/looading/mojo-ipc,"Mojo handles, message pipes, shared buffers and traps for Rust"
+2026-10-20T17:17:23.680178Z,ra-jit-test-fixture,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's test-fixture crate, used by ra-jit"
