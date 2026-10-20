@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T20:20:01.540842Z,waldo-core,0.4.0,0,0,https://github.com/justusewaldo/waldo,"The tools behind Waldo: read the macOS accessibility tree, act on apps in the background, and gate every risky act behind a human yes."
+2026-10-20T20:20:53.846656Z,waldo-mcp,0.4.0,0,0,https://github.com/justusewaldo/waldo,"Hands for every AI on your Mac. An MCP server that lets any agent use macOS apps, and asks you first before money, messages, passwords, or deletes."
+2026-10-20T20:21:45.610866Z,ramp-nasm,0.1.0,0,0,https://github.com/ramp-stack/ffmpeg-sys,Bundled NASM source for RAMP Stack Intel builds
+2026-10-20T20:22:22.105899Z,simien_tls,0.1.0,0,0,https://github.com/simienapp/core,TLS for the Simien runtime. Forked from Deno's deno_tls 0.246.0.
+2026-10-20T20:24:32.820608Z,vix-hex-rgb,1.7.0,0,0,https://github.com/vixide/vix,"Lenient `#RRGGBB`/`RRGGBB` hex-string to `(r, g, b)` byte-triple parsing, treating any missing or invalid component as 0."
+2026-10-20T20:27:21.932137Z,ytop-rs,0.8.0,0,0,https://github.com/hakuxyz/ytop,A TUI system monitor written in Rust
+2026-10-20T20:32:21.18804Z,simien_webidl,0.1.0,0,0,https://github.com/simienapp/core,WebIDL conversions for Simien's web APIs. Forked from Deno's deno_webidl 0.259.0.
+2026-10-20T20:34:35.467565Z,vix-column-view,1.7.0,0,0,https://github.com/vixide/vix,"The interactive Column View overlay (Org C-c C-x C-c): a live, write-through spreadsheet view onto the outline."
+2026-10-20T20:35:26.199273Z,gatehouse-runtime-protocol,0.1.0,0,0,https://github.com/musutrade/GateHouse,Strict data contract for pinned container runtime adapters
+2026-10-20T20:37:58.954639Z,dc-config-mapper,0.1.0,0,0,https://github.com/DC-Highs/rust-packages,"Restructure and populate Dragon City configuration data (fan-made, not affiliated with SocialPoint)."
+2026-10-20T20:39:11.841561Z,spritebox,0.2.0,0,0,https://github.com/jmsansan/spritebox,"Zero-dependency, safe Rust pixel art as plain text: palettes, sprites, animations, tilesets with autotiling, tilemaps and pixel fonts, rendered to RGBA, PNG and atlases with metadata"
+2026-10-20T20:39:38.170023Z,nvx,0.1.0-alpha.1,0,0,https://github.com/microsoft/nvx,"NVX mechanics: the OpenVMM control protocol and the launch, policy lowering, and supervision of NVX microVMs"
+2026-10-20T20:42:21.353247Z,simien_web,0.1.0,0,0,https://github.com/simienapp/core,"Web APIs for the Simien runtime: streams, encoding, URL, events, timers, Blob and more (WinterTC). Forked from Deno's deno_web 0.290.0."
+2026-10-20T20:43:43.296503Z,algebra_linear,1.0.0,0,0,https://github.com/cpmech/algebra_linear,Pure-Rust BLAS and LAPACK
+2026-10-20T20:44:33.244534Z,vix-coverage,1.7.0,0,0,https://github.com/vixide/vix,"Parse LCOV and Cobertura XML coverage reports into per-file, per-line hit data for the coverage gutter."
+2026-10-20T20:51:29.756891Z,dutchman,0.0.1,0,0,https://github.com/dutchman-cad/dutchman,"Carries CAD designs between formats: decodes native design files into open, editable models (early development)"
+2026-10-20T20:52:20.913888Z,simien_fetch,0.1.0,0,0,https://github.com/simienapp/core,Fetch API for the Simien runtime (WinterTC). Forked from Deno's deno_fetch 0.283.0.
+2026-10-20T20:52:35.391438Z,dutchman-cad,0.0.1,0,0,https://github.com/dutchman-cad/dutchman,Reserved for the Dutchman project; use the `dutchman` crate
+2026-10-20T20:54:36.394973Z,vix-doctor,1.7.0,0,0,https://github.com/vixide/vix,"Environment checks for vix --doctor: git on PATH, configured LSP servers spawnable, the active locale's spellcheck dictionary loadable, terminal color support"
+2026-10-20T20:54:43.059511Z,gpui-agentation-ely,0.1.1,0,0,https://github.com/emmanuel-defreitas/gpui-agentation,Unmodified pinned Ely GPUI Components snapshot for gpui-agentation (da3fdca)
+2026-10-20T20:55:30.849638Z,icao-shared-kernel,0.1.0,0,0,https://github.com/Open-Aviation-Solutions/icao-shared-kernel,"Validated value objects and aggregates for ICAO aviation concepts (flights, aircraft, pilots' licences, flight simulation training devices), shared by the Open Aviation Solutions tools."
+2026-10-20T20:55:37.710858Z,gpui-agentation,0.2.0,0,0,https://github.com/emmanuel-defreitas/gpui-agentation,Native GPUI development annotations with an optional stdio MCP bridge
+2026-10-20T20:57:09.186329Z,opssignal-core,1.0.0-beta.1,0,0,https://github.com/adithyapathipaka/OpsSignal,"Core of OpsSignal: turns application events into routed operational signals (Slack, webhooks, console)"
+2026-10-20T20:57:17.096833Z,opssignal-cli,1.0.0-beta.1,0,0,https://github.com/adithyapathipaka/OpsSignal,Command-line tool for OpsSignal: send routed operational signals from scripts and pipelines
+2026-10-20T21:00:40.911489Z,specfun,0.1.0,0,0,,Mathematical special functions.
+2026-10-20T21:01:34.431221Z,os-shim,0.1.0,0,0,https://github.com/tixena/os-shim,"Mockable abstraction over the environment, filesystem, processes, zip archives and S3-compatible buckets, with in-memory twins for tests"
+2026-10-20T21:04:34.429499Z,vix-edit-outline,1.7.0,0,0,https://github.com/vixide/vix,The outline editor: hierarchical hide/show and restructuring for prose text.
+2026-10-20T21:07:38.587226Z,fusor-ai-phonon,0.1.1,0,0,https://github.com/fusor-rs/fusor-ai,"Phonon-31m-en text to speech: the flow LM, its flow head, the Mimi decoder, the synthesis loop and the English text frontend. No I/O; builds for native and wasm32."
+2026-10-20T21:07:40.336384Z,fusor-ai-phonon-compile,0.1.1,0,0,https://github.com/fusor-rs/fusor-ai,"Compiles the phonon-31m-en checkpoint and its voices into a bundle: renames, compile-time folds and the dtype of every tensor."
+2026-10-20T21:09:18.129424Z,network-device,0.1.0,0,0,https://github.com/kamyar1979/network-device-rust,A strongly typed eDSL and IaC contracts for network device configuration
+2026-10-20T21:14:37.126357Z,vix-edit-table,1.7.0,0,0,https://github.com/vixide/vix,The table editor: a spreadsheet-like grid for viewing and editing delimited data (CSV/TSV) as rows and columns.
+2026-10-20T21:14:48.034578Z,wots-plus,0.1.0-rc1,0,0,https://github.com/p0mvn/wots-plus,Standalone fixed-profile RFC 8391 WOTS+ signatures
+2026-10-20T21:17:21.119778Z,latchkey,0.3.0-dev,0,0,https://github.com/somethim/latchkey,"Sans-IO sign-in building blocks and policy: Argon2id passwords, TOTP, recovery codes, passkeys, tokens, sealing, cookies, lockout, rate limits and sign-in flows as pure state machines"
