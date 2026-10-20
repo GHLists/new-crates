@@ -8,52 +8,58 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 19:19 UTC
+## Latest list — 2026-10-20 20:18 UTC
 
-New crates published between 2026-10-20 18:19 UTC and 2026-10-20 19:19 UTC.
+New crates published between 2026-10-20 19:19 UTC and 2026-10-20 20:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-20T19-19-30-605176Z.csv)
+[Full CSV](data/new-crates-2026-10-20T20-18-55-3208Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-20 18:24:35 | [commonware-allocator](https://crates.io/crates/commonware-allocator) | 2026.9.0 | 0 | Allocate and manage memory. |
-| 2026-10-20 18:25:10 | [krabka-java-regex](https://crates.io/crates/krabka-java-regex) | 1.0.6 | 0 | Java's java.util.regex semantics in Rust: Pattern.matches, replaceAll and repla… |
-| 2026-10-20 18:27:24 | [ra-jit](https://crates.io/crates/ra-jit) | 0.1.0 | 0 | Rust compiler daemon over rust-analyzer's MIR: incremental builds and live edit… |
-| 2026-10-20 18:29:31 | [ramp-ffmpeg-sys](https://crates.io/crates/ramp-ffmpeg-sys) | 9.0.2 | 0 | RAMP Stack FFmpeg bindings with bundled source and Apple static linking |
-| 2026-10-20 18:30:38 | [easyadb](https://crates.io/crates/easyadb) | 0.1.0 | 0 | Pair Android devices for wireless ADB by scanning a QR code in your terminal |
-| 2026-10-20 18:32:36 | [ramp-ffmpeg](https://crates.io/crates/ramp-ffmpeg) | 9.0.1 | 0 | RAMP Stack's FFmpeg wrapper with Apple static-linking fixes |
-| 2026-10-20 18:36:33 | [simien](https://crates.io/crates/simien) | 0.0.0 | 0 | The Simien runtime executable. Not released yet: this version reserves the name. |
-| 2026-10-20 18:36:36 | [simien_boxed_error](https://crates.io/crates/simien_boxed_error) | 0.1.0 | 0 | Macro for easily boxing an error. Forked from Deno's boxed_error 0.2.3. |
-| 2026-10-20 18:36:38 | [simien_crypto_provider](https://crates.io/crates/simien_crypto_provider) | 0.1.0 | 0 | Cryptography provider for simien_crypto. Forked from Deno's deno_crypto_provide… |
-| 2026-10-20 18:36:40 | [simien_error_macro](https://crates.io/crates/simien_error_macro) | 0.1.0 | 0 | Macro for writing simien_error errors. Forked from Deno's deno_error_macro 0.7.… |
-| 2026-10-20 18:36:43 | [simien_native_certs](https://crates.io/crates/simien_native_certs) | 0.1.0 | 0 | Loads the native certificate store for simien_tls. Forked from Deno's deno_nati… |
-| 2026-10-20 18:42:20 | [simien_ops](https://crates.io/crates/simien_ops) | 0.1.0 | 0 | Proc macros for writing simien_core ops. Forked from Deno's deno_ops 0.288.0. |
-| 2026-10-20 18:47:31 | [helios-mesh-macros](https://crates.io/crates/helios-mesh-macros) | 0.1.3 | 0 | Procedural macros for authoring Helios Mesh nodes and routes at compile time. |
-| 2026-10-20 18:47:38 | [helios-mesh-protocol](https://crates.io/crates/helios-mesh-protocol) | 0.1.3 | 0 | Versioned wire protocol shared by Helios Mesh firmware and host software. |
-| 2026-10-20 18:47:48 | [helios-mesh-core](https://crates.io/crates/helios-mesh-core) | 0.1.3 | 0 | Node chassis shared by every Helios Mesh firmware image. |
-| 2026-10-20 18:47:56 | [helios-mesh-drivers](https://crates.io/crates/helios-mesh-drivers) | 0.1.3 | 0 | Driver objects behind embedded-hal traits for Helios Mesh firmware. |
-| 2026-10-20 18:47:58 | [helios-mesh-board-feather-rp2040](https://crates.io/crates/helios-mesh-board-feather-rp2040) | 0.1.3 | 0 | Board support for the Adafruit Feather RP2040 RFM95 used by Helios Mesh firmwar… |
-| 2026-10-20 18:52:20 | [simien_unsync](https://crates.io/crates/simien_unsync) | 0.1.0 | 0 | Adapters for working with Tokio on a single thread. Forked from Deno's deno_uns… |
-| 2026-10-20 18:55:39 | [vsf-derive](https://crates.io/crates/vsf-derive) | 0.10.0 | 0 | Derive macro for VSF section codecs — one struct definition, both codec halves |
-| 2026-10-20 18:57:35 | [smarts-rs](https://crates.io/crates/smarts-rs) | 0.1.0 | 0 | SMARTS parsing, canonicalization, editing, screening, and substructure matching |
-| 2026-10-20 18:57:35 | [utilvo-apache-shield](https://crates.io/crates/utilvo-apache-shield) | 1.1.0 | 0 | Apache 2.4 mod_authz_core CIDR radix-tree, mod_remoteip & .htaccess cloud scrap… |
-| 2026-10-20 18:57:58 | [helios-mesh](https://crates.io/crates/helios-mesh) | 0.1.3 | 0 | Rust facade for discovering and controlling Helios Mesh LoRa nodes from hosts a… |
-| 2026-10-20 18:59:19 | [solistore](https://crates.io/crates/solistore) | 0.1.0 | 0 | Embedded LSM key-value store for SoliDB: pure Rust, durable on every commit by… |
-| 2026-10-20 19:00:42 | [hest](https://crates.io/crates/hest) | 0.0.1 | 0 | Name reservation. Hest is the command architecture of the Mere stack: how a hos… |
-| 2026-10-20 19:02:20 | [simien_v8](https://crates.io/crates/simien_v8) | 0.1.0 | 0 | JavaScript engine facade for simien_core (V8, or QuickJS behind a feature). For… |
-| 2026-10-20 19:04:58 | [rustbase-xtask](https://crates.io/crates/rustbase-xtask) | 0.1.0 | 0 | Shared cargo-xtask tooling for rustbase-derived projects |
-| 2026-10-20 19:08:53 | [anpr-wiegand](https://crates.io/crates/anpr-wiegand) | 1.0.0 | 0 | Format license plates to the Wiegand format (26-bit and 64-bit) for ANPR systems |
-| 2026-10-20 19:09:48 | [soli-yaml](https://crates.io/crates/soli-yaml) | 0.1.0 | 0 | The YAML subset Soli reads (locale files, Yaml.parse) and writes (Yaml.stringif… |
-| 2026-10-20 19:12:20 | [simien_error](https://crates.io/crates/simien_error) | 0.1.0 | 0 | Error representation to JavaScript for simien_core. Forked from Deno's deno_err… |
-| 2026-10-20 19:14:36 | [rosed](https://crates.io/crates/rosed) | 0.10.0 | 0 | A Bitcoin-Core-style JSON-RPC wallet server: the rose daemon and the library be… |
-| 2026-10-20 19:14:55 | [rose-cli](https://crates.io/crates/rose-cli) | 0.10.0 | 0 | rose: the operator's command line for the rosed wallet daemon - wallet setup an… |
-| 2026-10-20 19:18:40 | [weft-decider](https://crates.io/crates/weft-decider) | 0.0.1 | 0 | weft decider: runs weft-verifier, persists its state before acting, drives the… |
-| 2026-10-20 19:18:41 | [weft-sync](https://crates.io/crates/weft-sync) | 0.0.1 | 0 | weft document sync: content-addressed store, push and anti-entropy pull (sans I… |
-| 2026-10-20 19:18:41 | [weft-transport](https://crates.io/crates/weft-transport) | 0.0.1 | 0 | weft transport contract (publish/subscribe subset) and adapters |
-| 2026-10-20 19:18:44 | [weft-agent](https://crates.io/crates/weft-agent) | 0.0.1 | 0 | weft agent for Linux devices and gateways: node runtime (sync, decider, executo… |
-| 2026-10-20 19:18:59 | [fresh-js-macros](https://crates.io/crates/fresh-js-macros) | 0.5.4 | 0 | Proc macros for fresh-js's system-QuickJS backend: #[class], #[methods] and the… |
-| 2026-10-20 19:19:02 | [fresh-quickjs-sys](https://crates.io/crates/fresh-quickjs-sys) | 0.5.4 | 0 | Raw FFI bindings to the system QuickJS library (Debian's libquickjs), generated… |
-| 2026-10-20 19:19:17 | [fresh-js](https://crates.io/crates/fresh-js) | 0.5.4 | 0 | The JavaScript engine boundary for Fresh's plugin runtime: the one crate that n… |
+| 2026-10-20 19:19:36 | [smallvec-macro](https://crates.io/crates/smallvec-macro) | 0.0.0 | 0 | proc-macro crate for SmallVec |
+| 2026-10-20 19:20:34 | [gpui-agentation-mcp](https://crates.io/crates/gpui-agentation-mcp) | 0.1.0 | 0 | Standalone stdio MCP bridge for development annotations in local GPUI apps |
+| 2026-10-20 19:22:18 | [tree-sitter-agentica](https://crates.io/crates/tree-sitter-agentica) | 0.2.1 | 0 | Agentica grammar for tree-sitter |
+| 2026-10-20 19:22:21 | [simien_path_util](https://crates.io/crates/simien_path_util) | 0.1.0 | 0 | Path utilities used by simien_core. Forked from Deno's deno_path_util 0.6.4. |
+| 2026-10-20 19:28:51 | [inty](https://crates.io/crates/inty) | 0.1.2 | 0 | A static type checker for JavaScript |
+| 2026-10-20 19:28:53 | [inty-bundle](https://crates.io/crates/inty-bundle) | 0.1.2 | 0 | Single-file bundler for inty-checked ES modules |
+| 2026-10-20 19:28:54 | [inty-go](https://crates.io/crates/inty-go) | 0.1.2 | 0 | Proof-of-concept Go backend: translates inty-checked JavaScript to Go |
+| 2026-10-20 19:30:36 | [inty-lsp](https://crates.io/crates/inty-lsp) | 0.1.2 | 0 | Language Server Protocol server backed by inty |
+| 2026-10-20 19:30:38 | [dirule-core](https://crates.io/crates/dirule-core) | 0.4.1 | 0 | Configuration, matching, transformation, and planning core for Dirule. |
+| 2026-10-20 19:30:40 | [dirule-fs](https://crates.io/crates/dirule-fs) | 0.4.1 | 0 | Ignore-aware scanning, safe filesystem operations, and recovery journals for Di… |
+| 2026-10-20 19:30:43 | [dirule-app](https://crates.io/crates/dirule-app) | 0.4.1 | 0 | Shared application services for Dirule frontends. |
+| 2026-10-20 19:30:45 | [dirule-assistant](https://crates.io/crates/dirule-assistant) | 0.4.1 | 0 | Provider-neutral assistant and tool orchestration for Dirule. |
+| 2026-10-20 19:30:46 | [dirule](https://crates.io/crates/dirule) | 0.4.1 | 0 | Local-first CLI for naming, renaming, sorting, and checking files and directori… |
+| 2026-10-20 19:32:21 | [simien_serde_v8](https://crates.io/crates/simien_serde_v8) | 0.1.0 | 0 | Rust to V8 serialization and deserialization. Forked from Deno's serde_v8 0.321… |
+| 2026-10-20 19:32:32 | [ironfix-sofh](https://crates.io/crates/ironfix-sofh) | 0.5.0 | 0 | Simple Open Framing Header (SOFH) codec for IronFix: frames SBE and other encod… |
+| 2026-10-20 19:33:13 | [ironfix-fixp](https://crates.io/crates/ironfix-fixp) | 0.5.0 | 0 | FIX Performance Session Layer (FIXP) session core for IronFix: sans-IO, with th… |
+| 2026-10-20 19:38:08 | [cameriere](https://crates.io/crates/cameriere) | 1.0.1 | 0 | A minimal CI runner for self-hosting. |
+| 2026-10-20 19:40:51 | [simple_message](https://crates.io/crates/simple_message) | 0.2.0 | 0 | A library for encoding and decoding SimpleMessage messages using serde. |
+| 2026-10-20 19:42:21 | [simien_wasm_dep_analyzer](https://crates.io/crates/simien_wasm_dep_analyzer) | 0.1.0 | 0 | Wasm module dependency analysis for module resolution. Forked from Deno's wasm_… |
+| 2026-10-20 19:43:08 | [visula-core](https://crates.io/crates/visula-core) | 0.2.0 | 0 | Expressions, buffers and shader generation for visula |
+| 2026-10-20 19:43:09 | [visula-derive](https://crates.io/crates/visula-derive) | 0.2.0 | 0 | Derive macros for visula |
+| 2026-10-20 19:43:11 | [visula](https://crates.io/crates/visula) | 0.2.0 | 0 | Visualization library based on wgpu |
+| 2026-10-20 19:45:05 | [tafrigh](https://crates.io/crates/tafrigh) | 0.0.1 | 0 | Transcribe audio and video into subtitles and text: streaming decoding, Silero… |
+| 2026-10-20 19:46:12 | [tafrigh-wit](https://crates.io/crates/tafrigh-wit) | 0.0.1 | 0 | Wit.ai speech recognizer for tafrigh: rate-limited, multi-token, with retries a… |
+| 2026-10-20 19:47:02 | [tafrigh-cli](https://crates.io/crates/tafrigh-cli) | 0.0.1 | 0 | Command-line transcription of audio, video and playlists into subtitles and tex… |
+| 2026-10-20 19:49:31 | [lapis-agent-redaction](https://crates.io/crates/lapis-agent-redaction) | 0.1.0 | 0 | Native fail-closed agent capture privacy with versioned Kingfisher policies |
+| 2026-10-20 19:52:21 | [simien_core](https://crates.io/crates/simien_core) | 0.1.0 | 0 | Simien's JavaScript engine core: isolates, modules, ops, the event loop and sna… |
+| 2026-10-20 19:52:35 | [ferroui-view-macros](https://crates.io/crates/ferroui-view-macros) | 0.4.0-preview.1 | 0 | The rsx! and #[component] macros of ferroui-view, the declarative Rust API of F… |
+| 2026-10-20 19:52:37 | [merman-core-clin](https://crates.io/crates/merman-core-clin) | 0.6.0 | 0 | Clin compatibility fork of merman-core 0.6 with a maintained YAML backend |
+| 2026-10-20 19:53:53 | [sp-800-90b](https://crates.io/crates/sp-800-90b) | 0.1.0 | 0 | NIST SP 800-90B entropy assessment library and command-line tools |
+| 2026-10-20 19:57:09 | [vix-action-catalog](https://crates.io/crates/vix-action-catalog) | 1.7.0 | 0 | A single (action id -> i18n title key) catalog for every App::run_action id tha… |
+| 2026-10-20 19:57:10 | [vix-ai-core](https://crates.io/crates/vix-ai-core) | 1.7.0 | 0 | Direct HTTP clients for AI providers (Anthropic, OpenAI-compatible, Ollama) plu… |
+| 2026-10-20 19:57:14 | [vix-byte-size](https://crates.io/crates/vix-byte-size) | 1.7.0 | 0 | Format a byte count as a human-readable size (`16.0 KiB`). |
+| 2026-10-20 19:57:15 | [vix-capped-stack](https://crates.io/crates/vix-capped-stack) | 1.7.0 | 0 | Push an item onto a Vec, evicting the oldest entry first if that would grow it… |
+| 2026-10-20 19:57:16 | [vix-civil-date](https://crates.io/crates/vix-civil-date) | 1.7.0 | 0 | Howard Hinnant's civil-date algorithm: convert between a day count since 1970-0… |
+| 2026-10-20 19:58:27 | [indicatrix-web-gpu](https://crates.io/crates/indicatrix-web-gpu) | 0.9.0 | 0 | The WebGPU render Worker entry point of the indicatrix browser app: decodes a m… |
+| 2026-10-20 20:02:21 | [simien_bench_util](https://crates.io/crates/simien_bench_util) | 0.1.0 | 0 | Benchmark and profiling helpers for the simien_* crates. Forked from Deno's den… |
+| 2026-10-20 20:02:58 | [mathra](https://crates.io/crates/mathra) | 1.0.0 | 0 | Equation converter: math LaTeX to a tree of meaning and accessible SVG, with lo… |
+| 2026-10-20 20:03:01 | [mathra-cli](https://crates.io/crates/mathra-cli) | 1.0.0 | 0 | mathra command line: SVG equations without a TeX install. |
+| 2026-10-20 20:04:31 | [vix-greedy-wrap](https://crates.io/crates/vix-greedy-wrap) | 1.7.0 | 0 | Greedy word-wrap of a single paragraph to a column width, hard-breaking any wor… |
+| 2026-10-20 20:12:20 | [simien_crypto](https://crates.io/crates/simien_crypto) | 0.1.0 | 0 | Web Cryptography API for the Simien runtime. Forked from Deno's deno_crypto 0.2… |
+| 2026-10-20 20:14:36 | [vix-list-state](https://crates.io/crates/vix-list-state) | 1.7.0 | 0 | Shared arithmetic for a scrollable, single-selection list — up/down (one row or… |
+| 2026-10-20 20:15:48 | [legume-mcp](https://crates.io/crates/legume-mcp) | 0.1.0 | 0 | A small stdio Model Context Protocol server for legume tools: tools, progress,… |
+| 2026-10-20 20:17:12 | [ferroui-view](https://crates.io/crates/ferroui-view) | 0.4.0-preview.1 | 0 | A declarative Rust API for FerroUI user interfaces without XAML: element builde… |
 
 ## Data source
 

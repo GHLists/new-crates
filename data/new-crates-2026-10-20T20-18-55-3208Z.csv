@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T19:19:36.394993Z,smallvec-macro,0.0.0,0,0,https://github.com/servo/rust-smallvec,proc-macro crate for SmallVec
+2026-10-20T19:20:34.762118Z,gpui-agentation-mcp,0.1.0,0,0,https://github.com/emmanuel-defreitas/gpui-agentation,Standalone stdio MCP bridge for development annotations in local GPUI apps
+2026-10-20T19:22:18.825583Z,tree-sitter-agentica,0.2.1,0,0,https://github.com/sonic182/tree-sitter-agentica,Agentica grammar for tree-sitter
+2026-10-20T19:22:21.020384Z,simien_path_util,0.1.0,0,0,https://github.com/simienapp/core,Path utilities used by simien_core. Forked from Deno's deno_path_util 0.6.4.
+2026-10-20T19:28:51.666898Z,inty,0.1.2,0,0,https://github.com/sinelaw/inty,A static type checker for JavaScript
+2026-10-20T19:28:53.680184Z,inty-bundle,0.1.2,0,0,https://github.com/sinelaw/inty,Single-file bundler for inty-checked ES modules
+2026-10-20T19:28:54.246289Z,inty-go,0.1.2,0,0,https://github.com/sinelaw/inty,Proof-of-concept Go backend: translates inty-checked JavaScript to Go
+2026-10-20T19:30:36.044405Z,inty-lsp,0.1.2,0,0,https://github.com/sinelaw/inty,Language Server Protocol server backed by inty
+2026-10-20T19:30:38.129972Z,dirule-core,0.4.1,0,0,https://github.com/Slyverr/dirule,"Configuration, matching, transformation, and planning core for Dirule."
+2026-10-20T19:30:40.683853Z,dirule-fs,0.4.1,0,0,https://github.com/Slyverr/dirule,"Ignore-aware scanning, safe filesystem operations, and recovery journals for Dirule."
+2026-10-20T19:30:43.100688Z,dirule-app,0.4.1,0,0,https://github.com/Slyverr/dirule,Shared application services for Dirule frontends.
+2026-10-20T19:30:45.572997Z,dirule-assistant,0.4.1,0,0,https://github.com/Slyverr/dirule,Provider-neutral assistant and tool orchestration for Dirule.
+2026-10-20T19:30:46.91951Z,dirule,0.4.1,0,0,https://github.com/Slyverr/dirule,"Local-first CLI for naming, renaming, sorting, and checking files and directories."
+2026-10-20T19:32:21.663286Z,simien_serde_v8,0.1.0,0,0,https://github.com/simienapp/core,Rust to V8 serialization and deserialization. Forked from Deno's serde_v8 0.321.0.
+2026-10-20T19:32:32.058895Z,ironfix-sofh,0.5.0,0,0,https://github.com/joaquinbejar/IronFix,Simple Open Framing Header (SOFH) codec for IronFix: frames SBE and other encodings on a byte stream
+2026-10-20T19:33:13.132728Z,ironfix-fixp,0.5.0,0,0,https://github.com/joaquinbejar/IronFix,"FIX Performance Session Layer (FIXP) session core for IronFix: sans-IO, with the SBE session messages"
+2026-10-20T19:38:08.618002Z,cameriere,1.0.1,0,0,https://repos.nchagnet.eu/cameriere,A minimal CI runner for self-hosting.
+2026-10-20T19:40:51.164052Z,simple_message,0.2.0,0,0,https://github.com/plusone-robotics/serde_simplemessage,A library for encoding and decoding SimpleMessage messages using serde.
+2026-10-20T19:42:21.132051Z,simien_wasm_dep_analyzer,0.1.0,0,0,https://github.com/simienapp/core,Wasm module dependency analysis for module resolution. Forked from Deno's wasm_dep_analyzer 0.4.0.
+2026-10-20T19:43:08.79237Z,visula-core,0.2.0,0,0,https://github.com/dragly/visula,"Expressions, buffers and shader generation for visula"
+2026-10-20T19:43:09.575728Z,visula-derive,0.2.0,0,0,https://github.com/dragly/visula,Derive macros for visula
+2026-10-20T19:43:11.237984Z,visula,0.2.0,0,0,https://github.com/dragly/visula,Visualization library based on wgpu
+2026-10-20T19:45:05.886139Z,tafrigh,0.0.1,0,0,https://github.com/ieasybooks/tafrigh-rs,"Transcribe audio and video into subtitles and text: streaming decoding, Silero VAD chunking and pluggable speech recognizers."
+2026-10-20T19:46:12.671873Z,tafrigh-wit,0.0.1,0,0,https://github.com/ieasybooks/tafrigh-rs,"Wit.ai speech recognizer for tafrigh: rate-limited, multi-token, with retries and word timings."
+2026-10-20T19:47:02.406946Z,tafrigh-cli,0.0.1,0,0,https://github.com/ieasybooks/tafrigh-rs,"Command-line transcription of audio, video and playlists into subtitles and text with tafrigh."
+2026-10-20T19:49:31.122984Z,lapis-agent-redaction,0.1.0,0,0,https://github.com/lapismd/agent-redaction,Native fail-closed agent capture privacy with versioned Kingfisher policies
+2026-10-20T19:52:21.392989Z,simien_core,0.1.0,0,0,https://github.com/simienapp/core,"Simien's JavaScript engine core: isolates, modules, ops, the event loop and snapshots, on V8. Forked from Deno's deno_core 0.412.0."
+2026-10-20T19:52:35.941645Z,ferroui-view-macros,0.4.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"The rsx! and #[component] macros of ferroui-view, the declarative Rust API of FerroUI"
+2026-10-20T19:52:37.348615Z,merman-core-clin,0.6.0,0,0,https://github.com/reekta92/merman,Clin compatibility fork of merman-core 0.6 with a maintained YAML backend
+2026-10-20T19:53:53.474864Z,sp-800-90b,0.1.0,0,0,https://github.com/walters-labs/sp-800-90b,NIST SP 800-90B entropy assessment library and command-line tools
+2026-10-20T19:57:09.499444Z,vix-action-catalog,1.7.0,0,0,https://github.com/vixide/vix,A single (action id -> i18n title key) catalog for every App::run_action id that has no vix-menu item of its own.
+2026-10-20T19:57:10.883448Z,vix-ai-core,1.7.0,0,0,https://github.com/vixide/vix,"Direct HTTP clients for AI providers (Anthropic, OpenAI-compatible, Ollama) plus keyring-backed API-key resolution."
+2026-10-20T19:57:14.253483Z,vix-byte-size,1.7.0,0,0,https://github.com/vixide/vix,Format a byte count as a human-readable size (`16.0 KiB`).
+2026-10-20T19:57:15.31234Z,vix-capped-stack,1.7.0,0,0,https://github.com/vixide/vix,"Push an item onto a Vec, evicting the oldest entry first if that would grow it past a cap."
+2026-10-20T19:57:16.82979Z,vix-civil-date,1.7.0,0,0,https://github.com/vixide/vix,"Howard Hinnant's civil-date algorithm: convert between a day count since 1970-01-01 (the Unix epoch) and a (year, month, day) calendar date, with no dependency on a date/time crate."
+2026-10-20T19:58:27.327595Z,indicatrix-web-gpu,0.9.0,0,0,https://github.com/suitable-name/indicatrix,"The WebGPU render Worker entry point of the indicatrix browser app: decodes a message, runs event-wavefront GPU rendering, posts the reply. Built by Trunk as a worker next to apps/indicatrix-web."
+2026-10-20T20:02:21.844829Z,simien_bench_util,0.1.0,0,0,https://github.com/simienapp/core,Benchmark and profiling helpers for the simien_* crates. Forked from Deno's deno_bench_util 0.253.0.
+2026-10-20T20:02:58.123542Z,mathra,1.0.0,0,0,https://github.com/matheusmota-dev-br/mathra,"Equation converter: math LaTeX to a tree of meaning and accessible SVG, with locale rules (English and pt-BR)."
+2026-10-20T20:03:01.408291Z,mathra-cli,1.0.0,0,0,https://github.com/matheusmota-dev-br/mathra,mathra command line: SVG equations without a TeX install.
+2026-10-20T20:04:31.564771Z,vix-greedy-wrap,1.7.0,0,0,https://github.com/vixide/vix,"Greedy word-wrap of a single paragraph to a column width, hard-breaking any word longer than the width so no line ever overflows."
+2026-10-20T20:12:20.755574Z,simien_crypto,0.1.0,0,0,https://github.com/simienapp/core,Web Cryptography API for the Simien runtime. Forked from Deno's deno_crypto 0.273.0.
+2026-10-20T20:14:36.306957Z,vix-list-state,1.7.0,0,0,https://github.com/vixide/vix,"Shared arithmetic for a scrollable, single-selection list — up/down (one row or one page), select-by-index, and keeping a scroll offset following the highlight within a fixed-height viewport."
+2026-10-20T20:15:48.56767Z,legume-mcp,0.1.0,0,0,https://github.com/causalpathlab/legume-mcp,"A small stdio Model Context Protocol server for legume tools: tools, progress, cancellation and child runs"
+2026-10-20T20:17:12.284398Z,ferroui-view,0.4.0-preview.1,0,0,https://github.com/wieslawsoltes/FerroUI,"A declarative Rust API for FerroUI user interfaces without XAML: element builders generated for every control, an rsx! macro, signals that properties follow, keyed dynamic children"
