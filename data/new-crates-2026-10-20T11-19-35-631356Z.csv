@@ -1,0 +1,56 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T10:20:38.852061Z,felis-pty,0.1.0,0,0,https://github.com/felis-terminal/felis,"Self-hosted async PTY layer (openpty on Unix, ConPTY on Windows)"
+2026-10-20T10:21:13.82408Z,paperpaw-plugin-format-xtc,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-format-xtc"
+2026-10-20T10:24:23.835031Z,bezel-mermaid,0.2.18,0,0,https://github.com/crabtalk/bezel,"Mermaid source drawn as SVG, a port of Pele"
+2026-10-20T10:25:18.049526Z,leptos-use-raf-fn,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Call function on every requestAnimationFrame
+2026-10-20T10:26:00.851462Z,feather-charts,0.1.0,0,0,https://github.com/nimanoori22/feather-charts,"Native financial charts for Iced, ported from TradingView Lightweight Charts"
+2026-10-20T10:26:42.193787Z,smol-tar-fs,0.1.11,0,0,https://github.com/growler/smol-tar.rs,Async filesystem source and sink for smol-tar: a Stream of tar entries from a directory tree and a Sink that writes tar entries to a directory
+2026-10-20T10:27:07.506629Z,encore-postgres-protocol,0.6.8,0,0,https://github.com/encoredev/v2-encore,Low level Postgres protocol APIs
+2026-10-20T10:27:18.262069Z,encore-tokio-postgres,0.7.13,0,0,https://github.com/encoredev/v2-encore,"A native, asynchronous PostgreSQL client"
+2026-10-20T10:27:28.998643Z,encore-postgres-native-tls,0.5.1,0,0,https://github.com/encoredev/v2-encore,TLS support for tokio-postgres via native-tls
+2026-10-20T10:27:39.563966Z,encore-postgres-rustls,0.1.0,0,0,https://github.com/encoredev/v2-encore,TLS support for tokio-postgres via rustls
+2026-10-20T10:27:50.169753Z,encore-os,0.1.0,0,0,https://github.com/encoredev/v2-encore,Operating system utilities for the Encore runtime
+2026-10-20T10:31:11.898155Z,felis-render-core,0.1.0,0,0,https://github.com/felis-terminal/felis,"felis renderer-neutral core: palette, cell appearance, box drawing, glyph index, shelf atlas, cell painter and its display list"
+2026-10-20T10:31:13.711025Z,paperpaw-plugin-home,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-home"
+2026-10-20T10:35:18.137216Z,leptos-use-screen-orientation,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive [Screen Orientation API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Orientation_API)
+2026-10-20T10:37:38.877713Z,bgp-valley-free,0.1.0,0,0,https://github.com/bgp-sentinel/bgp-valley-free,Valley-free AS-path validation using the Gao-Rexford model and CAIDA AS-relationship data
+2026-10-20T10:40:44.686564Z,felis-client-core,0.1.0,0,0,https://github.com/felis-terminal/felis,"felis headless client: shadow screen, action enum, IPC client connector, OS-clipboard trait, shared config"
+2026-10-20T10:41:14.288401Z,paperpaw-plugin-hyphenation,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-hyphenation"
+2026-10-20T10:44:04.869736Z,speccoder,0.0.1,0,0,https://github.com/hupe1980/speccoder,"Spec-driven coding agent for GitHub Spec Kit projects: the spec is the intent, tasks.md the plan, verification evidence decides done (placeholder)"
+2026-10-20T10:45:21.586618Z,leptos-use-service-worker,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive [ServiceWorker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+2026-10-20T10:51:10.619567Z,canvist_canvas,0.0.0,0,0,https://github.com/ifiokjr/canvist,"Headless interaction core for the canvist canvas: camera, spatial index, hit testing, selection, transform handles, snapping, and tools"
+2026-10-20T10:51:13.916129Z,canvist_collab,0.0.0,0,0,https://github.com/ifiokjr/canvist,"Yjs collaboration for canvist documents: a step-to-yrs binding, the y-sync protocol, awareness, and shared undo"
+2026-10-20T10:51:14.133739Z,paperpaw-plugin-joplin,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-20T10:51:17.41943Z,canvist_editor,0.0.0,0,0,https://github.com/ifiokjr/canvist,"Platform-agnostic editing engine for canvist: editor state, commands, selection motion, keymaps, input rules, and history"
+2026-10-20T10:51:20.324907Z,felis-render-wgpu,0.1.0,0,0,https://github.com/felis-terminal/felis,"felis wgpu renderer: pipeline, instance encoding, glyph and image atlas textures, decoration shader"
+2026-10-20T10:51:20.985101Z,canvist_extensions,0.0.0,0,0,https://github.com/ifiokjr/canvist,"The canvist StarterKit: paragraphs, headings, lists, quotes, code, marks, links, history, and more, each behind its own Cargo feature"
+2026-10-20T10:51:27.182578Z,canvist_headless,0.0.0,0,0,https://github.com/ifiokjr/canvist,"The canvist document model without a UI: load, transform, export, and collaborate on rich-text documents on a server"
+2026-10-20T10:55:21.561459Z,leptos-use-signal-debounce-throttle,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Debounced and throttled signals for Leptos
+2026-10-20T10:57:06.364818Z,encore-runtimecfg,0.1.0,0,0,https://github.com/encoredev/v2-encore,Runtime configuration types and loading for Encore
+2026-10-20T10:57:17.142333Z,encore-appconfig,0.1.0,0,0,https://github.com/encoredev/v2-encore,"App config schemas, validation and config files for Encore"
+2026-10-20T10:57:27.686576Z,encore-macros,0.1.0,0,0,https://github.com/encoredev/v2-encore,Procedural macros for the Encore Rust SDK. Use them through the `encore` crate.
+2026-10-20T10:57:29.308042Z,sequoia-core,0.1.0,0,0,,"Sequoia GUI framework — core types (geometry, color, events)"
+2026-10-20T10:57:30.489988Z,sequoia-reactive,0.1.0,0,0,,Sequoia GUI framework — reactive signals and stores
+2026-10-20T10:57:33.604714Z,sequoia-animation,0.1.0,0,0,,"Sequoia GUI framework — Rive-style animation (tween, keyframes, mixer, state machines)"
+2026-10-20T10:57:34.545547Z,sequoia-assets,0.1.0,0,0,,"Sequoia GUI framework — asset registry (icons, fonts)"
+2026-10-20T10:57:35.617887Z,sequoia-async,0.1.0,0,0,,Sequoia GUI framework — async tasks bridged to the UI thread (futures without tokio)
+2026-10-20T10:59:50.463671Z,cap-audio,0.1.0,0,0,https://github.com/z-biz-tool/z-biz-tool-capability,音频处理原语：WAV 编解码/重采样/增益/淡入淡出/裁剪/拼接/混音/倒放/声道拆分/响度（路径进→路径出，无状态）
+2026-10-20T11:00:55.570336Z,felis-client,0.3.0,0,0,https://github.com/felis-terminal/felis,"felis native client: winit event loop, OS clipboard, font picker, wgpu renderer"
+2026-10-20T11:01:14.150203Z,paperpaw-plugin-keyboard,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-keyboard"
+2026-10-20T11:05:15.539945Z,leptos-use-sorted,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive sort of iterable
+2026-10-20T11:06:37.72844Z,ferrodock-core,1.17.0,0,0,https://github.com/manimovassagh/Ferrodock,"Ferrodock's Docker layer: engines, containers, images, volumes, networks, Compose and Quick start templates, shared by the Ferrodock app, CLI and MCP server."
+2026-10-20T11:07:30.912014Z,sequoia-buffer,0.1.0,0,0,,"Sequoia GUI framework — framework-free text buffer engine (piece table, line index, cursors, undo)"
+2026-10-20T11:07:48.857354Z,ferrum-journal,0.14.0,0,0,https://github.com/sizzlecar/ferrum-infer-rs,Bounded JSONL publication and writer lifecycle for Ferrum
+2026-10-20T11:07:49.705608Z,ferrum-output,0.14.0,0,0,https://github.com/sizzlecar/ferrum-infer-rs,Owned output sessions and buffer limits for Ferrum inference
+2026-10-20T11:07:53.585127Z,ferrum-execution,0.14.0,0,0,https://github.com/sizzlecar/ferrum-infer-rs,Product execution protocol and model-program driver for Ferrum
+2026-10-20T11:08:06.813411Z,ferrum-slo,0.14.0,0,0,https://github.com/sizzlecar/ferrum-infer-rs,Bounded instance-local reference service-cost estimator for Ferrum
+2026-10-20T11:10:33.994244Z,efatura,0.1.0,0,0,https://github.com/samuelbarata/efatura,"Unofficial client for Portugal's e-fatura portal, with resumable SMS two-factor login"
+2026-10-20T11:11:14.355116Z,paperpaw-plugin-keys,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-keys"
+2026-10-20T11:11:26.180646Z,felis-daemon,0.3.0,0,0,https://github.com/felis-terminal/felis,"felis daemon: session pool, IPC server, signal handling"
+2026-10-20T11:13:23.538181Z,arty_io_host,0.1.0,0,0,https://github.com/microsoft/oxidizer/tree/main/crates/arty_io_host,Unstable I/O driver hosting utilities for the Arty runtime.
+2026-10-20T11:14:22.274815Z,hexastem,0.1.0,0,0,https://github.com/apilot/hexastem,"Batch AI stem separation (6-stem BS-Roformer): native CUDA engine via ONNX Runtime, SMB pipeline, ratatui TUI"
+2026-10-20T11:15:18.526175Z,leptos-use-textarea-autosize,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Automatically update the height of a textarea depending on the content
+2026-10-20T11:15:35.618412Z,cap-video,0.1.0,0,0,https://github.com/z-biz-tool/z-biz-tool-capability,视频处理原语：MP4/MOV/WebM/MKV 容器元数据探测（时长/宽高/编码/帧数）+ ffmpeg 可用性检测与抽帧（路径进→路径出，无状态）
+2026-10-20T11:16:40.49365Z,unidroid,0.3.0,0,0,https://github.com/zhoupb01/unidroid,"A low-memory unidbg: run Android arm64 and armv7 .so files on a computer, in Rust on Unicorn."
+2026-10-20T11:17:13.203491Z,ferrodock-cli,1.16.0,0,0,https://github.com/manimovassagh/Ferrodock,"fdock: Ferrodock on the command line. Containers, images, logs and Quick start templates on any Docker engine, with compact JSON for scripts and AI tools."
+2026-10-20T11:18:00.556833Z,sequoia-text,0.1.0,0,0,,Sequoia GUI framework — text layout and shaping
