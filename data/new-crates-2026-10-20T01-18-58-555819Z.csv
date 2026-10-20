@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T00:19:45.430409Z,sg-provider-openai,0.1.0,0,0,https://github.com/andygauge/snippet-graph,"A snippet-graph provider for any OpenAI-compatible chat endpoint (llama.cpp, vLLM, hosted APIs)"
+2026-10-20T00:20:40.055311Z,respan-gateway-media-http,0.1.0,0,0,https://github.com/respanai/respan-gateway,"The media kinds over HTTP: OpenAI Images, Audio Transcriptions, Speech, Videos and Embeddings, and Google's Veo."
+2026-10-20T00:20:43.033612Z,tenbri-stream,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,"Delivery of verified Tenbri entries to webhooks, OTLP logs and Kafka."
+2026-10-20T00:23:55.544467Z,gilfit,0.1.0,0,0,https://github.com/iyulab/gilfit,"Suggests and decides form field values from how settled documents were filled - the decision core, with no I/O."
+2026-10-20T00:28:18.222065Z,hyperpane-shell,0.1.0,0,0,https://github.com/fusor-rs/hyperpane,The hyperpane host: a fusor application in WKWebView on macOS and iOS
+2026-10-20T00:28:20.14814Z,hyperpane-cli,0.1.0,0,0,https://github.com/fusor-rs/hyperpane,The hyperpane command: run fusor applications as macOS and iOS apps
+2026-10-20T00:29:48.728566Z,provident,0.2.0,0,0,https://github.com/dangreco/provident,"Unofficial client for the Provident (MeterConnex) utility metering portal: meters, usage history, and reports"
+2026-10-20T00:30:38.664004Z,respan-gateway-passthrough-http,0.1.0,0,0,https://github.com/respanai/respan-gateway,"The passthrough format: HTTP traffic of no kind, relayed unread."
+2026-10-20T00:30:51.483052Z,tenbri-testkit,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,"Tenbri test kit: in-memory store, fixed clock and keys, assertion helpers."
+2026-10-20T00:32:12.716208Z,fusible,0.4.0,0,0,https://github.com/KonoLabs/Fusible,Electronic linter: a fuse that blows to block firmware code generation
+2026-10-20T00:34:03.018628Z,cofferdb,0.1.0,0,0,https://github.com/maredengb/coffered,Single-file embedded retrieval database for explainable local RAG.
+2026-10-20T00:40:39.063943Z,respan-gateway-plugin-credentials,0.1.0,0,0,https://github.com/respanai/respan-gateway,First-party plugin: a client's own provider key goes to the named providers that have none of their own.
+2026-10-20T00:40:58.136655Z,tv-rs-core,0.1.0,0,0,https://github.com/Zakarialabib/tv-rs,"The device model shared by every tv-rs backend: capability traits, an erased device handle, command ids, confidence-tagged observed state and the routing error taxonomy."
+2026-10-20T00:40:59.823071Z,tenbri-tiles,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,C2SP tiled-log read protocol and witness protocol client for Tenbri.
+2026-10-20T00:41:34.093458Z,tv-rs-transport,0.1.0,0,0,https://github.com/Zakarialabib/tv-rs,"Shared transport vocabulary for the tv-rs workspace: the TLS policy and connector, the budgeted WebSocket frame reader and the deferred-capability error type."
+2026-10-20T00:43:06.005001Z,tv-rs-discovery,0.1.0,0,0,https://github.com/Zakarialabib/tv-rs,SSDP / mDNS / Bonjour discovery and UPnP device-descriptor parsing for TV control.
+2026-10-20T00:43:31.398817Z,tv-rs-power,0.1.0,0,0,https://github.com/Zakarialabib/tv-rs,Wake-on-LAN / Wake-on-Wireless-LAN magic packets and TV power-state probing.
+2026-10-20T00:44:01.001813Z,tv-rs-roku,0.1.0,0,0,https://github.com/Zakarialabib/tv-rs,Roku OS control over the unauthenticated External Control Protocol (ECP) REST API on port 8060.
+2026-10-20T00:46:01.948331Z,onim,0.1.8,0,0,https://github.com/LIghtJUNction/OniMods,"Command-line toolkit for creating, building, installing, and managing Oxygen Not Included mods."
+2026-10-20T00:50:38.335447Z,respan-gateway-plugin-fallback,0.1.0,0,0,https://github.com/respanai/respan-gateway,"First-party toolkit: retry, fallback and race over provider attempts."
+2026-10-20T00:51:02.797014Z,leptos-use-document,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,SSR safe `document()`
+2026-10-20T00:51:08.126447Z,tenbri-writer,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,"Tenbri batching, write protocol, HEAD, checkpoints and reconciliation."
+2026-10-20T00:51:22.062587Z,leptos-use-supported,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,SSR compatibe `is_supported`
+2026-10-20T00:51:26.440929Z,sendwrap-fn,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Macro to wrap closures in a `send_wrapper::SendWrapper` so they are `Send + Sync`
+2026-10-20T00:51:36.236368Z,wasm-js-macros,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,"Macros for common JavaScript operations (`in`, property get/set, futures) with wasm-bindgen"
+2026-10-20T00:51:55.07685Z,leptos-use-element,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,ElementMaybeSignal / ElementsMaybeSignal argument types and use_mutation_observer for Leptos
+2026-10-20T00:53:26.839446Z,tv-rs-tizen,0.1.0,0,0,https://github.com/Zakarialabib/tv-rs,"Samsung Tizen TV control: WebSocket remote channel (8001/8002), pairing tokens and DIAL app launching (8080)."
+2026-10-20T00:53:46.024641Z,unmanaged,0.1.0,0,0,https://github.com/wada314/unmanaged,Heap containers that do not store the allocator inline and panic on implicit Drop.
+2026-10-20T00:54:43.172631Z,quickjs-jit-stdlib,0.14.1,0,0,https://github.com/longbridge/quickjs-jit,"LLRT's standard modules for quickjs-jit, vendored into one crate"
+2026-10-20T00:55:15.529729Z,leptos-use-now,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,SSR-safe `Date.now()` used by the leptos-use crates
+2026-10-20T00:55:37.75751Z,rowver,14.1.0,0,0,https://gitlab.cern.ch/dgrove/rowver,"Read, validate and write RowVer .rvr files: event columns as zstd arrays behind a JSON header that carries the recipe, the samples and who signed it"
+2026-10-20T00:55:40.034931Z,rvr-recipe,0.1.0,0,0,https://gitlab.cern.ch/dgrove/rowver,The recipe language of rvr press: TOML whose expressions are evaluated over whole columns of events
+2026-10-20T00:55:46.253317Z,rvr,0.1.0,0,0,https://gitlab.cern.ch/dgrove/rowver,"The rvr command: start a study, resolve its samples (local, EOS or central CMS datasets), press .rvr files from ROOT, and validate, dump, diff and reproduce them; makes grid proxies too"
+2026-10-20T01:00:38.392151Z,respan-gateway-realtime,0.1.0,0,0,https://github.com/respanai/respan-gateway,"The realtime kind: a live session's events, in both directions."
+2026-10-20T01:01:17.145133Z,tenbri-cli,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,The tenbri command-line tool.
+2026-10-20T01:05:30.140958Z,leptos-use-filters,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Debounce/throttle/pausable filters used by the leptos-use crates
+2026-10-20T01:07:02.136853Z,tv-rs-webos,0.1.0,0,0,https://github.com/Zakarialabib/tv-rs,"LG webOS TV control over SSAP: JSON-RPC WebSocket transport (3000/3001), pairing client-key and app launching."
+2026-10-20T01:10:38.995324Z,respan-gateway-plugin-tool-loop,0.1.0,0,0,https://github.com/respanai/respan-gateway,First-party plugin: the gateway runs tools inside a chat request.
+2026-10-20T01:15:24.756645Z,leptos-use-watch-with-options,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,A version of `leptos::watch` but with additional options
+2026-10-20T01:16:03.095275Z,turboreg-registration,0.24.4,0,0,https://github.com/konung-yaropolk/FastTIFF,"Rigid-body, affine and bilinear image registration by the TurboReg/StackReg pyramid method: cubic B-spline interpolation, a least-squares spline pyramid, and Thevenaz's inverse Marquardt-Levenberg op…"
