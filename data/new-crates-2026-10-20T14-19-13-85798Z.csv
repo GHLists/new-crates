@@ -1,0 +1,65 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T13:21:16.98736Z,paperpaw-plugin-settings,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-settings"
+2026-10-20T13:21:34.478981Z,fusor-ai-ming,0.1.0,0,0,https://github.com/fusor-rs/fusor-ai,"Ming-3.0-tts-0.5B: the model (LLM, flow head, aggregator, vocoder), the synthesis loop, prompt and text frontend. No I/O; builds for native and wasm32."
+2026-10-20T13:24:46.321104Z,zoxide-pinyin,0.10.0,0,0,https://github.com/Lineance/zoxide,A smarter cd command with pinyin matching
+2026-10-20T13:24:55.234503Z,re_log_msg,0.40.0-rc.1,0,0,https://github.com/rerun-io/rerun,"The messages that carry Rerun data between the SDK, `.rrd` files and the viewer."
+2026-10-20T13:25:19.694372Z,leptos-use-window-size,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive window size
+2026-10-20T13:26:11.322746Z,minute,0.0.2,0,0,,space-efficient geopositional splines
+2026-10-20T13:29:02.353968Z,sequoia-ui,0.1.0,0,0,,"Sequoia GUI framework — facade crate, single dependency for the whole framework"
+2026-10-20T13:30:19.648479Z,rtatr,0.1.1,0,0,,Rust Task Tracker - a fast file-based task tracker with TQL queries
+2026-10-20T13:30:24.706215Z,gstreamer-hip-sys,0.0.0,0,0,https://gitlab.freedesktop.org/gstreamer/gstreamer-rs,GStreamer HIP FFI bindings (placeholder)
+2026-10-20T13:30:39.333822Z,gstreamer-cuda-sys,0.0.0,0,0,https://gitlab.freedesktop.org/gstreamer/gstreamer-rs,GStreamer CUDA FFI bindings (placeholder)
+2026-10-20T13:30:46.970285Z,gstreamer-cuda,0.0.0,0,0,https://gitlab.freedesktop.org/gstreamer/gstreamer-rs,GStreamer CUDA FFI bindings (placeholder)
+2026-10-20T13:30:56.878304Z,gstreamer-hip,0.0.0,0,0,https://gitlab.freedesktop.org/gstreamer/gstreamer-rs,GStreamer HIP bindings (placeholder)
+2026-10-20T13:31:24.061809Z,paperpaw-plugin-setup,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-20T13:31:42.376532Z,ra-jit-live,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,Applies ra-jit's edits to a program while it runs
+2026-10-20T13:32:19.884681Z,ferrisflow-core,0.1.0,0,0,https://gitee.com/jhorncollerman/warm-flow,Warm-Flow 流程引擎核心（Rust 移植）：领域模型、状态机、流程服务。保持与 Java 版 ferrisflow-core 的表结构/状态码/JSON 契约兼容。
+2026-10-20T13:33:12.511397Z,ferrisflow-orm,0.1.0,0,0,https://gitee.com/jhorncollerman/warm-flow,ferrisflow-core 的 sqlx(MySQL) 持久化实现：实现 FlowStorage 端口，表结构与 warm-flow 官方 sql/mysql/warm-flow-all.sql 对齐。
+2026-10-20T13:33:38.079616Z,rfc2217,0.1.0,0,0,https://github.com/gechelberger/rfc2217,Sans-IO RFC 2217 (Telnet COM Port Control) client and server state machines for serial-over-TCP bridges such as ser2net
+2026-10-20T13:33:57.228766Z,textwrite,0.3.0,0,0,https://github.com/Fast-Text-editor/Fast-text-editor,"TextWrite: the Fast Text scripting language (lexer, parser, interpreter, REPL)."
+2026-10-20T13:34:23.094793Z,fast-text-textwrite,0.3.0,0,0,https://github.com/Fast-Text-editor/Fast-text-editor,Embeds the TextWrite scripting language into the Fast Text editor.
+2026-10-20T13:34:23.824535Z,ferrisflow-web,0.1.0,0,0,https://gitee.com/jhorncollerman/warm-flow,warm-flow 的 actix-web REST 契约层：实现设计器契约接口（save-json / query-def 等，对齐 Java WarmFlowController）。
+2026-10-20T13:35:20.685617Z,fast-text-tui,0.3.0,0,0,https://github.com/Fast-Text-editor/Fast-text-editor,Fast Text terminal user interface.
+2026-10-20T13:36:23.911841Z,fast-text-gui,0.3.0,0,0,https://github.com/Fast-Text-editor/Fast-text-editor,Native desktop frontend for Fast Text (egui/eframe).
+2026-10-20T13:36:54.364784Z,fast-text-wasm,0.3.0,0,0,https://github.com/Fast-Text-editor/Fast-text-editor,WebAssembly bindings for the Fast Text engine.
+2026-10-20T13:41:18.340486Z,paperpaw-plugin-sleep,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-sleep"
+2026-10-20T13:42:51.271371Z,fusor-ai-ming-compile,0.1.0,0,0,https://github.com/fusor-rs/fusor-ai,"Compiles the Ming-3.0-tts-0.5B checkpoint into a bundle: what to keep, renames, q/k/v fusion and the dtype of every tensor."
+2026-10-20T13:44:00.43014Z,opensd,1.0.0,0,0,https://github.com/Open-Stream-Deck/Open-Stream-Deck-SDK,Rust SDK для плагинов Open Stream Deck
+2026-10-20T13:44:02.458946Z,opensd-package,1.0.0,0,0,https://github.com/Open-Stream-Deck/Open-Stream-Deck-SDK,"Формат пакета .opensd для плагинов Open Stream Deck: манифест, проверка, упаковка"
+2026-10-20T13:44:05.326569Z,opensd-cli,1.0.0,0,0,https://github.com/Open-Stream-Deck/Open-Stream-Deck-SDK,"Создание, сборка, проверка и упаковка плагинов Open Stream Deck"
+2026-10-20T13:46:15.350548Z,quickjs-oxide-regexp,0.4.0,0,0,https://github.com/pocket-nexus/quickjs-oxide,"The quickjs-oxide regular-expression engine and Unicode tables, over UTF-16 code units"
+2026-10-20T13:46:21.145951Z,quickjs-oxide-core,0.4.0,0,0,https://github.com/pocket-nexus/quickjs-oxide,"The new quickjs-oxide core: 8-byte values, typed arenas and a mark-sweep heap"
+2026-10-20T13:46:31.50346Z,quickjs-oxide,0.4.0,0,0,https://github.com/pocket-nexus/quickjs-oxide,A safe Rust JavaScript engine targeting semantic parity with QuickJS
+2026-10-20T13:46:38.305951Z,quickjs-oxide-host,0.4.0,0,0,https://github.com/pocket-nexus/quickjs-oxide,"Native host services (time, timezone, randomness, output) for quickjs-oxide"
+2026-10-20T13:46:42.96224Z,quickjs-oxide-cli,0.4.0,0,0,https://github.com/pocket-nexus/quickjs-oxide,The qjs command-line interpreter for the quickjs-oxide JavaScript engine
+2026-10-20T13:47:27.904524Z,cury,0.1.0,0,0,https://github.com/maslenn1koff/cury,Linear algebra primitives for Rust with SIMD acceleration
+2026-10-20T13:49:01.982569Z,rotlog,0.1.1,0,0,https://github.com/hyper-quack/fast-logger,"Fast rotating logger and CLI: time/size rotation, gzip archiving, Google Cloud Storage upload, tail/query/stats, Bun FFI bindings"
+2026-10-20T13:51:16.100415Z,paperpaw-plugin-stats,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-stats"
+2026-10-20T13:53:07.693214Z,ra-jit-edition,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's edition crate, used by ra-jit"
+2026-10-20T13:53:09.724414Z,ra-jit-intern,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's intern crate, used by ra-jit"
+2026-10-20T13:53:11.844358Z,ra-jit-macros,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's macros crate, used by ra-jit"
+2026-10-20T13:53:13.775168Z,ra-jit-paths,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's paths crate, used by ra-jit"
+2026-10-20T13:53:15.746582Z,ra-jit-profile,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's profile crate, used by ra-jit"
+2026-10-20T13:57:02.818757Z,reverie-linux-provider,0.5.0,0,0,https://github.com/facebookexperimental/reverie,Provider-neutral Linux syscall provider interface beneath Reverie backends.
+2026-10-20T13:57:17.709368Z,mimas-ext,0.0.0,0,0,,"Capability-scoped host modules for the mimas scripting language: scoped fs, regex text, UTC time, transactional state, logging, tool calls, events and schema export."
+2026-10-20T13:57:23.330863Z,ra-jit-rustc_abi,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rustc's rustc_abi, used by ra-jit"
+2026-10-20T14:01:17.045694Z,paperpaw-plugin-transfer,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-transfer"
+2026-10-20T14:02:11.613323Z,iced_color_extension,0.1.0,0,0,https://github.com/Drew-Chase/iced_color_extension,"Extended color formats and manipulation for iced: HSL, RGB and OKLAB with compile-time (const) support"
+2026-10-20T14:02:24.45769Z,tracing-finetune,0.1.0,0,0,https://github.com/hds/tracing-finetune,A tracing filter that can be finetuned to enable or disable specific callsites.
+2026-10-20T14:05:08.10564Z,reverie-host,0.5.0,0,0,https://github.com/facebookexperimental/reverie,Host-side runtime support for experimental Reverie in-process instrumentation.
+2026-10-20T14:06:20.666735Z,reverie-inguest,0.5.0,0,0,https://github.com/facebookexperimental/reverie,"Shared LD_PRELOAD + seccomp/SIGSYS instrumentation runtime for Reverie in-guest backends (e9patch, LiteInst, SaBRe)"
+2026-10-20T14:07:23.520212Z,ra-jit-stdx,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's stdx crate, used by ra-jit"
+2026-10-20T14:09:21.28812Z,hermit-record-format,0.5.0,0,0,https://github.com/facebookexperimental/hermit,Record/replay event format and support shared by Hermit's record and replay paths.
+2026-10-20T14:10:51.362406Z,hermit-run-kvm,0.5.0,0,0,https://github.com/facebookexperimental/hermit,"Hermit's KVM run: the root of Detcore's KVM instantiation, compiled apart from the hermit library so it builds in parallel."
+2026-10-20T14:11:25.21188Z,paperpaw-plugin-translate,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-translate"
+2026-10-20T14:12:36.900123Z,hermit-run-ptrace,0.5.0,0,0,https://github.com/facebookexperimental/hermit,"Hermit's plain ptrace run: the root of Detcore's ptrace instantiation, compiled apart from the hermit library so it builds in parallel."
+2026-10-20T14:14:01.160964Z,win-handles-sys,0.1.0,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"Memory-safe Rust over the Win32 handle and object API: duplicating a handle with a chosen access, with a typed access mask, and reading a handle's flags. Thin over Win32, adding no policy."
+2026-10-20T14:14:02.420838Z,win-authorization-sys,0.1.0,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"Memory-safe Rust over the Win32 authorization API: an owned security descriptor, SDDL text to and from one, and a descriptor read from an open handle. Thin over Win32, adding no policy."
+2026-10-20T14:14:28.159308Z,win-pipes-sys,0.1.0,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"Memory-safe Rust over the Win32 pipe API: creating, connecting and disconnecting named pipes with typed open and pipe modes, and creating anonymous pipes. Thin over Win32, adding no policy."
+2026-10-20T14:14:58.137743Z,voxrender-cpu,0.1.0,0,0,https://github.com/tyleo/tyt,The CPU reference renderer for voxrender's render contract.
+2026-10-20T14:15:40.392198Z,telesto-ext,0.1.0,0,0,,"Capability-scoped host modules for the mimas scripting language: scoped fs, regex text, UTC time, transactional state, logging, tool calls, events and schema export."
+2026-10-20T14:15:45.187955Z,hermit-record,0.5.0,0,0,https://github.com/facebookexperimental/hermit,"Hermit's ptrace recording tool, compiled apart from the hermit library so its Detcore instantiation builds in parallel."
+2026-10-20T14:17:23.293723Z,ra-jit-toolchain,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's toolchain crate, used by ra-jit"
+2026-10-20T14:17:58.152433Z,odx-env,0.0.5,0,0,https://github.com/getfluvo/odx,Environment promotion and comparison for odx
+2026-10-20T14:18:34.863492Z,listen-fire-module-wire,0.12.0-rc.3,0,0,https://github.com/listen-fire/listen-fire,"listen-fire adapter protocol 2: the envelope, JSON in JavaScript key order, and every result's schema check"
+2026-10-20T14:18:55.523185Z,composure_macros,0.1.0,0,0,https://github.com/BlueFrog130/composure-rs,"Procedural macros for Composure Discord bots: #[command], #[app], #[view] and rsx! markup"

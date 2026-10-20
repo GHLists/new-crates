@@ -8,84 +8,78 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 13:20 UTC
+## Latest list — 2026-10-20 14:19 UTC
 
-New crates published between 2026-10-20 12:20 UTC and 2026-10-20 13:20 UTC.
+New crates published between 2026-10-20 13:20 UTC and 2026-10-20 14:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-20T13-20-53-756017Z.csv)
+[Full CSV](data/new-crates-2026-10-20T14-19-13-85798Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-20 12:20:57 | [micstudio](https://crates.io/crates/micstudio) | 0.1.0 | 0 | High-performance native Rust audio studio, voice preset manager, and real-time… |
-| 2026-10-20 12:21:23 | [paperpaw-plugin-opds](https://crates.io/crates/paperpaw-plugin-opds) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-o… |
-| 2026-10-20 12:25:16 | [leptos-use-web-lock](https://crates.io/crates/leptos-use-web-lock) | 0.20.0 | 0 | Rustified [Web Locks API](https://developer.mozilla.org/en-US/docs/Web/API/Web_… |
-| 2026-10-20 12:28:21 | [sequoia-view](https://crates.io/crates/sequoia-view) | 0.1.0 | 0 | Sequoia GUI framework — view tree and runtime |
-| 2026-10-20 12:28:49 | [rypsok-core](https://crates.io/crates/rypsok-core) | 0.1.0 | 0 | Core library of rypsok, a headless meta-search service for AI agents: models, p… |
-| 2026-10-20 12:28:51 | [rypsok](https://crates.io/crates/rypsok) | 0.1.0 | 0 | Headless meta-search service for AI agents, served over the Model Context Proto… |
-| 2026-10-20 12:30:46 | [allium-inspect-server](https://crates.io/crates/allium-inspect-server) | 0.1.5 | 0 | Embedded HTTP server exposing the SpecGraph and simulator to the browser UI. Pa… |
-| 2026-10-20 12:31:04 | [allium-inspect](https://crates.io/crates/allium-inspect) | 0.1.5 | 0 | Explore an Allium specification in a browser: an explorable graph, a rule simul… |
-| 2026-10-20 12:31:05 | [qmit](https://crates.io/crates/qmit) | 1.0.0 | 0 | Blazing-fast AI-powered conventional commit generator CLI |
-| 2026-10-20 12:31:13 | [allium-journey](https://crates.io/crates/allium-journey) | 0.1.5 | 0 | Walk user journeys against an Allium specification |
-| 2026-10-20 12:31:17 | [paperpaw-plugin-plugin-manager](https://crates.io/crates/paperpaw-plugin-plugin-manager) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-p… |
-| 2026-10-20 12:34:57 | [graphviz-pure-core](https://crates.io/crates/graphviz-pure-core) | 0.0.0 | 0 | Placeholder for graphviz-pure, a Rust port of Graphviz; the first release is 0.… |
-| 2026-10-20 12:35:06 | [graphviz-pure-parser](https://crates.io/crates/graphviz-pure-parser) | 0.0.0 | 0 | Placeholder for graphviz-pure, a Rust port of Graphviz; the first release is 0.… |
-| 2026-10-20 12:35:08 | [graphviz-pure-geom](https://crates.io/crates/graphviz-pure-geom) | 0.0.0 | 0 | Placeholder for graphviz-pure, a Rust port of Graphviz; the first release is 0.… |
-| 2026-10-20 12:35:11 | [graphviz-pure-layout](https://crates.io/crates/graphviz-pure-layout) | 0.0.0 | 0 | Placeholder for graphviz-pure, a Rust port of Graphviz; the first release is 0.… |
-| 2026-10-20 12:35:13 | [graphviz-pure-render](https://crates.io/crates/graphviz-pure-render) | 0.0.0 | 0 | Placeholder for graphviz-pure, a Rust port of Graphviz; the first release is 0.… |
-| 2026-10-20 12:35:17 | [leptos-use-web-notification](https://crates.io/crates/leptos-use-web-notification) | 0.20.0 | 0 | Reactive [Notification API](https://developer.mozilla.org/en-US/docs/Web/API/No… |
-| 2026-10-20 12:37:09 | [pandubbi](https://crates.io/crates/pandubbi) | 0.1.0 | 0 | A web crawler tool written in Rust |
-| 2026-10-20 12:38:07 | [sequoia-elements](https://crates.io/crates/sequoia-elements) | 0.1.0 | 0 | Sequoia GUI framework — built-in UI elements |
-| 2026-10-20 12:41:15 | [paperpaw-plugin-profiles](https://crates.io/crates/paperpaw-plugin-profiles) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-p… |
-| 2026-10-20 12:42:49 | [oxfuse-core](https://crates.io/crates/oxfuse-core) | 0.1.0 | 0 | Typed tensor-graph IR with shape inference, a verifier and exact optimization p… |
-| 2026-10-20 12:42:51 | [oxfuse-runtime](https://crates.io/crates/oxfuse-runtime) | 0.1.0 | 0 | Tensors, execution plans and the reference CPU backend for oxfuse graphs. |
-| 2026-10-20 12:42:54 | [oxfuse](https://crates.io/crates/oxfuse) | 0.1.0 | 0 | Command-line tool for oxfuse: a small tensor graph compiler with a reference an… |
-| 2026-10-20 12:43:19 | [ic-smtp-gateway-protocol](https://crates.io/crates/ic-smtp-gateway-protocol) | 0.1.0 | 0 | Rust definitions of the Internet Computer SMTP Gateway Protocol |
-| 2026-10-20 12:45:16 | [graphviz-pure-raster](https://crates.io/crates/graphviz-pure-raster) | 0.0.0 | 0 | Placeholder for graphviz-pure, a Rust port of Graphviz; the first release is 0.… |
-| 2026-10-20 12:45:16 | [leptos-use-websocket](https://crates.io/crates/leptos-use-websocket) | 0.20.0 | 0 | Creating and managing a [Websocket](https://developer.mozilla.org/en-US/docs/We… |
-| 2026-10-20 12:45:28 | [ripbi-service](https://crates.io/crates/ripbi-service) | 0.11.0 | 0 | Power BI / Fabric REST client for ripbi: semantic model discovery, downstream r… |
-| 2026-10-20 12:46:32 | [ink-rs-macros](https://crates.io/crates/ink-rs-macros) | 0.1.0 | 0 | The rsx! macro for ink-rs |
-| 2026-10-20 12:46:47 | [light-fw-element-form](https://crates.io/crates/light-fw-element-form) | 0.4.0 | 0 | Компонент Light: элементы формы — флажок, переключатель и список |
-| 2026-10-20 12:46:55 | [light](https://crates.io/crates/light) | 0.4.0 | 0 | Реактивный графический интерфейс для Rust: Proxy-обозреватели и HTML-шаблоны в… |
-| 2026-10-20 12:48:19 | [hypercall-sdk-types](https://crates.io/crates/hypercall-sdk-types) | 0.3.0 | 0 | Public SDK types for Hypercall clients |
-| 2026-10-20 12:48:19 | [hypercall-ws-protocol](https://crates.io/crates/hypercall-ws-protocol) | 0.3.0 | 0 | Stable WebSocket protocol DTOs for Hypercall edge services |
-| 2026-10-20 12:48:20 | [hypercall-client](https://crates.io/crates/hypercall-client) | 0.3.0 | 0 | Client library for interacting with Hypercall trading platform |
-| 2026-10-20 12:48:22 | [hypercall-hyperliquid](https://crates.io/crates/hypercall-hyperliquid) | 0.3.0 | 0 | Direct Hyperliquid perp venue adapter for Hypercall SDK clients |
-| 2026-10-20 12:48:24 | [hypercall-liquidator](https://crates.io/crates/hypercall-liquidator) | 0.3.0 | 0 | Public proof-of-concept standard margin liquidator with external Hyperliquid he… |
-| 2026-10-20 12:50:30 | [sequoia-render](https://crates.io/crates/sequoia-render) | 0.1.0 | 0 | Sequoia GUI framework — wgpu renderer |
-| 2026-10-20 12:54:09 | [nfrp-common](https://crates.io/crates/nfrp-common) | 0.6.2 | 0 | NFrp 公共库：协议、配置、错误、工具与传输层抽象 |
-| 2026-10-20 12:54:32 | [tauri-plugin-better-auth](https://crates.io/crates/tauri-plugin-better-auth) | 0.1.0 | 0 | Better Auth for Tauri 2: browser sign-in with PKCE, a Rust-held session and a t… |
-| 2026-10-20 12:54:39 | [livekit-telemetry](https://crates.io/crates/livekit-telemetry) | 0.1.0 | 0 | Client telemetry core for LiveKit: buffers events on-device and exports them as… |
-| 2026-10-20 12:55:21 | [leptos-use-whenever](https://crates.io/crates/leptos-use-whenever) | 0.20.0 | 0 | Shorthand for watching a signal to be `true` |
-| 2026-10-20 12:55:22 | [nfrp-server](https://crates.io/crates/nfrp-server) | 0.6.2 | 0 | NFrp 服务端：控制连接 + 工作连接，TCP 端口转发 |
-| 2026-10-20 12:55:47 | [nfrp-client](https://crates.io/crates/nfrp-client) | 0.6.2 | 0 | NFrp 客户端：注册代理、按需建立工作连接 |
-| 2026-10-20 12:58:10 | [paperpaw-plugin-reader](https://crates.io/crates/paperpaw-plugin-reader) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-r… |
-| 2026-10-20 12:58:15 | [graphviz-pure](https://crates.io/crates/graphviz-pure) | 0.0.0 | 0 | Placeholder for graphviz-pure, a Rust port of Graphviz; the first release is 0.… |
-| 2026-10-20 13:00:07 | [sequoia-export](https://crates.io/crates/sequoia-export) | 0.1.0 | 0 | Sequoia GUI framework — headless HiDPI PNG export (website-ready screenshots wi… |
-| 2026-10-20 13:00:19 | [ferraus](https://crates.io/crates/ferraus) | 0.1.1 | 0 | A command-line audio workstation for scripts and AI agents |
-| 2026-10-20 13:01:13 | [paperpaw-plugin-readwise](https://crates.io/crates/paperpaw-plugin-readwise) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-r… |
-| 2026-10-20 13:01:17 | [reverie-loader](https://crates.io/crates/reverie-loader) | 0.5.0 | 0 | Hermit's in-guest loader: validation of the fixed-address loader and runtime im… |
-| 2026-10-20 13:04:45 | [reverie-rpc-macros](https://crates.io/crates/reverie-rpc-macros) | 0.5.0 | 0 | Procedural macros for the experimental Reverie RPC framework. |
-| 2026-10-20 13:04:48 | [nachalo](https://crates.io/crates/nachalo) | 0.1.0 | 0 | Reference implementation of Nachalo, a protocol for PAKE-authenticated first co… |
-| 2026-10-20 13:05:17 | [leptos-use-window-focus](https://crates.io/crates/leptos-use-window-focus) | 0.20.0 | 0 | Reactively track window focus |
-| 2026-10-20 13:05:37 | [glyphcast](https://crates.io/crates/glyphcast) | 1.0.0 | 0 | Video as colored glyphs: encode and decode .gcast streams (format 6) and draw t… |
-| 2026-10-20 13:05:53 | [reverie-rpc](https://crates.io/crates/reverie-rpc) | 0.5.0 | 0 | Legacy RPC framework used by experimental Reverie instrumentation backends. |
-| 2026-10-20 13:08:04 | [geomapper-desktop](https://crates.io/crates/geomapper-desktop) | 0.1.0 | 0 | geomapper for German geographical localization |
-| 2026-10-20 13:10:05 | [sequoia-seq](https://crates.io/crates/sequoia-seq) | 0.1.0 | 0 | Sequoia declarative language (.seq): parser, checker, lowering to views |
-| 2026-10-20 13:10:41 | [riptrace-rpc](https://crates.io/crates/riptrace-rpc) | 0.5.0 | 0 | RPC protocol types for the experimental Reverie riptrace tool. |
-| 2026-10-20 13:11:24 | [paperpaw-plugin-rules](https://crates.io/crates/paperpaw-plugin-rules) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-r… |
-| 2026-10-20 13:12:27 | [graphviz-pure-cli](https://crates.io/crates/graphviz-pure-cli) | 0.0.0 | 0 | Placeholder for graphviz-pure, a Rust port of Graphviz; the first release is 0.… |
-| 2026-10-20 13:13:11 | [reverie-kvm-core](https://crates.io/crates/reverie-kvm-core) | 0.5.0 | 0 | Lowest layer of the Reverie KVM backend: its error type and guest address map. |
-| 2026-10-20 13:14:26 | [fusor-ai-team](https://crates.io/crates/fusor-ai-team) | 0.1.0 | 0 | An SPMD thread team for inference kernels: one Rayon broadcast per call, static… |
-| 2026-10-20 13:14:28 | [fusor-ai-kernels](https://crates.io/crates/fusor-ai-kernels) | 0.1.0 | 0 | Block-quantized weights, int8 SIMD matrix multiply (wasm relaxed SIMD / SIMD128… |
-| 2026-10-20 13:14:29 | [fusor-ai-bundle](https://crates.io/crates/fusor-ai-bundle) | 0.1.0 | 0 | Model bundles: a manifest of hashed parts and a store that streams parts straig… |
-| 2026-10-20 13:14:31 | [fusor-ai-blocks](https://crates.io/crates/fusor-ai-blocks) | 0.1.0 | 0 | Architecture blocks built on fusor-ai's kernels and thread team: the Qwen2 deco… |
-| 2026-10-20 13:14:31 | [fusor-ai-compile](https://crates.io/crates/fusor-ai-compile) | 0.1.0 | 0 | Native model compilation for fusor-ai: read safetensors checkpoints, encode ten… |
-| 2026-10-20 13:14:39 | [zoxide-romanized](https://crates.io/crates/zoxide-romanized) | 0.10.0 | 0 | A smarter cd command with pinyin and initials matching |
-| 2026-10-20 13:15:19 | [leptos-use-window-scroll](https://crates.io/crates/leptos-use-window-scroll) | 0.20.0 | 0 | Reactive window scroll |
-| 2026-10-20 13:15:39 | [re_audio](https://crates.io/crates/re_audio) | 0.40.0-rc.1 | 0 | Rerun audio decoding and playback utilities. |
-| 2026-10-20 13:18:47 | [sequoia-platform](https://crates.io/crates/sequoia-platform) | 0.1.0 | 0 | Sequoia GUI framework — windowing platform (winit + wgpu) |
-| 2026-10-20 13:20:01 | [miniepub-cli](https://crates.io/crates/miniepub-cli) | 0.1.0 | 0 | A minimal EPUB reader command line tool |
-| 2026-10-20 13:20:10 | [miniepub-tui](https://crates.io/crates/miniepub-tui) | 0.2.1 | 0 | A minimal EPUB reader terminal user interface |
+| 2026-10-20 13:21:16 | [paperpaw-plugin-settings](https://crates.io/crates/paperpaw-plugin-settings) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-s… |
+| 2026-10-20 13:21:34 | [fusor-ai-ming](https://crates.io/crates/fusor-ai-ming) | 0.1.0 | 0 | Ming-3.0-tts-0.5B: the model (LLM, flow head, aggregator, vocoder), the synthes… |
+| 2026-10-20 13:24:46 | [zoxide-pinyin](https://crates.io/crates/zoxide-pinyin) | 0.10.0 | 0 | A smarter cd command with pinyin matching |
+| 2026-10-20 13:24:55 | [re_log_msg](https://crates.io/crates/re_log_msg) | 0.40.0-rc.1 | 0 | The messages that carry Rerun data between the SDK, `.rrd` files and the viewer. |
+| 2026-10-20 13:25:19 | [leptos-use-window-size](https://crates.io/crates/leptos-use-window-size) | 0.20.0 | 0 | Reactive window size |
+| 2026-10-20 13:26:11 | [minute](https://crates.io/crates/minute) | 0.0.2 | 0 | space-efficient geopositional splines |
+| 2026-10-20 13:29:02 | [sequoia-ui](https://crates.io/crates/sequoia-ui) | 0.1.0 | 0 | Sequoia GUI framework — facade crate, single dependency for the whole framework |
+| 2026-10-20 13:30:19 | [rtatr](https://crates.io/crates/rtatr) | 0.1.1 | 0 | Rust Task Tracker - a fast file-based task tracker with TQL queries |
+| 2026-10-20 13:30:24 | [gstreamer-hip-sys](https://crates.io/crates/gstreamer-hip-sys) | 0.0.0 | 0 | GStreamer HIP FFI bindings (placeholder) |
+| 2026-10-20 13:30:39 | [gstreamer-cuda-sys](https://crates.io/crates/gstreamer-cuda-sys) | 0.0.0 | 0 | GStreamer CUDA FFI bindings (placeholder) |
+| 2026-10-20 13:30:46 | [gstreamer-cuda](https://crates.io/crates/gstreamer-cuda) | 0.0.0 | 0 | GStreamer CUDA FFI bindings (placeholder) |
+| 2026-10-20 13:30:56 | [gstreamer-hip](https://crates.io/crates/gstreamer-hip) | 0.0.0 | 0 | GStreamer HIP bindings (placeholder) |
+| 2026-10-20 13:31:24 | [paperpaw-plugin-setup](https://crates.io/crates/paperpaw-plugin-setup) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
+| 2026-10-20 13:31:42 | [ra-jit-live](https://crates.io/crates/ra-jit-live) | 0.1.0 | 0 | Applies ra-jit's edits to a program while it runs |
+| 2026-10-20 13:32:19 | [ferrisflow-core](https://crates.io/crates/ferrisflow-core) | 0.1.0 | 0 | Warm-Flow 流程引擎核心（Rust 移植）：领域模型、状态机、流程服务。保持与 Java 版 ferrisflow-core 的表结构/状态码/JSO… |
+| 2026-10-20 13:33:12 | [ferrisflow-orm](https://crates.io/crates/ferrisflow-orm) | 0.1.0 | 0 | ferrisflow-core 的 sqlx(MySQL) 持久化实现：实现 FlowStorage 端口，表结构与 warm-flow 官方 sql/mys… |
+| 2026-10-20 13:33:38 | [rfc2217](https://crates.io/crates/rfc2217) | 0.1.0 | 0 | Sans-IO RFC 2217 (Telnet COM Port Control) client and server state machines for… |
+| 2026-10-20 13:33:57 | [textwrite](https://crates.io/crates/textwrite) | 0.3.0 | 0 | TextWrite: the Fast Text scripting language (lexer, parser, interpreter, REPL). |
+| 2026-10-20 13:34:23 | [fast-text-textwrite](https://crates.io/crates/fast-text-textwrite) | 0.3.0 | 0 | Embeds the TextWrite scripting language into the Fast Text editor. |
+| 2026-10-20 13:34:23 | [ferrisflow-web](https://crates.io/crates/ferrisflow-web) | 0.1.0 | 0 | warm-flow 的 actix-web REST 契约层：实现设计器契约接口（save-json / query-def 等，对齐 Java WarmFl… |
+| 2026-10-20 13:35:20 | [fast-text-tui](https://crates.io/crates/fast-text-tui) | 0.3.0 | 0 | Fast Text terminal user interface. |
+| 2026-10-20 13:36:23 | [fast-text-gui](https://crates.io/crates/fast-text-gui) | 0.3.0 | 0 | Native desktop frontend for Fast Text (egui/eframe). |
+| 2026-10-20 13:36:54 | [fast-text-wasm](https://crates.io/crates/fast-text-wasm) | 0.3.0 | 0 | WebAssembly bindings for the Fast Text engine. |
+| 2026-10-20 13:41:18 | [paperpaw-plugin-sleep](https://crates.io/crates/paperpaw-plugin-sleep) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-s… |
+| 2026-10-20 13:42:51 | [fusor-ai-ming-compile](https://crates.io/crates/fusor-ai-ming-compile) | 0.1.0 | 0 | Compiles the Ming-3.0-tts-0.5B checkpoint into a bundle: what to keep, renames,… |
+| 2026-10-20 13:44:00 | [opensd](https://crates.io/crates/opensd) | 1.0.0 | 0 | Rust SDK для плагинов Open Stream Deck |
+| 2026-10-20 13:44:02 | [opensd-package](https://crates.io/crates/opensd-package) | 1.0.0 | 0 | Формат пакета .opensd для плагинов Open Stream Deck: манифест, проверка, упаков… |
+| 2026-10-20 13:44:05 | [opensd-cli](https://crates.io/crates/opensd-cli) | 1.0.0 | 0 | Создание, сборка, проверка и упаковка плагинов Open Stream Deck |
+| 2026-10-20 13:46:15 | [quickjs-oxide-regexp](https://crates.io/crates/quickjs-oxide-regexp) | 0.4.0 | 0 | The quickjs-oxide regular-expression engine and Unicode tables, over UTF-16 cod… |
+| 2026-10-20 13:46:21 | [quickjs-oxide-core](https://crates.io/crates/quickjs-oxide-core) | 0.4.0 | 0 | The new quickjs-oxide core: 8-byte values, typed arenas and a mark-sweep heap |
+| 2026-10-20 13:46:31 | [quickjs-oxide](https://crates.io/crates/quickjs-oxide) | 0.4.0 | 0 | A safe Rust JavaScript engine targeting semantic parity with QuickJS |
+| 2026-10-20 13:46:38 | [quickjs-oxide-host](https://crates.io/crates/quickjs-oxide-host) | 0.4.0 | 0 | Native host services (time, timezone, randomness, output) for quickjs-oxide |
+| 2026-10-20 13:46:42 | [quickjs-oxide-cli](https://crates.io/crates/quickjs-oxide-cli) | 0.4.0 | 0 | The qjs command-line interpreter for the quickjs-oxide JavaScript engine |
+| 2026-10-20 13:47:27 | [cury](https://crates.io/crates/cury) | 0.1.0 | 0 | Linear algebra primitives for Rust with SIMD acceleration |
+| 2026-10-20 13:49:01 | [rotlog](https://crates.io/crates/rotlog) | 0.1.1 | 0 | Fast rotating logger and CLI: time/size rotation, gzip archiving, Google Cloud… |
+| 2026-10-20 13:51:16 | [paperpaw-plugin-stats](https://crates.io/crates/paperpaw-plugin-stats) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-s… |
+| 2026-10-20 13:53:07 | [ra-jit-edition](https://crates.io/crates/ra-jit-edition) | 0.1.0 | 0 | Fork of rust-analyzer's edition crate, used by ra-jit |
+| 2026-10-20 13:53:09 | [ra-jit-intern](https://crates.io/crates/ra-jit-intern) | 0.1.0 | 0 | Fork of rust-analyzer's intern crate, used by ra-jit |
+| 2026-10-20 13:53:11 | [ra-jit-macros](https://crates.io/crates/ra-jit-macros) | 0.1.0 | 0 | Fork of rust-analyzer's macros crate, used by ra-jit |
+| 2026-10-20 13:53:13 | [ra-jit-paths](https://crates.io/crates/ra-jit-paths) | 0.1.0 | 0 | Fork of rust-analyzer's paths crate, used by ra-jit |
+| 2026-10-20 13:53:15 | [ra-jit-profile](https://crates.io/crates/ra-jit-profile) | 0.1.0 | 0 | Fork of rust-analyzer's profile crate, used by ra-jit |
+| 2026-10-20 13:57:02 | [reverie-linux-provider](https://crates.io/crates/reverie-linux-provider) | 0.5.0 | 0 | Provider-neutral Linux syscall provider interface beneath Reverie backends. |
+| 2026-10-20 13:57:17 | [mimas-ext](https://crates.io/crates/mimas-ext) | 0.0.0 | 0 | Capability-scoped host modules for the mimas scripting language: scoped fs, reg… |
+| 2026-10-20 13:57:23 | [ra-jit-rustc_abi](https://crates.io/crates/ra-jit-rustc_abi) | 0.1.0 | 0 | Fork of rustc's rustc_abi, used by ra-jit |
+| 2026-10-20 14:01:17 | [paperpaw-plugin-transfer](https://crates.io/crates/paperpaw-plugin-transfer) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-t… |
+| 2026-10-20 14:02:11 | [iced_color_extension](https://crates.io/crates/iced_color_extension) | 0.1.0 | 0 | Extended color formats and manipulation for iced: HSL, RGB and OKLAB with compi… |
+| 2026-10-20 14:02:24 | [tracing-finetune](https://crates.io/crates/tracing-finetune) | 0.1.0 | 0 | A tracing filter that can be finetuned to enable or disable specific callsites. |
+| 2026-10-20 14:05:08 | [reverie-host](https://crates.io/crates/reverie-host) | 0.5.0 | 0 | Host-side runtime support for experimental Reverie in-process instrumentation. |
+| 2026-10-20 14:06:20 | [reverie-inguest](https://crates.io/crates/reverie-inguest) | 0.5.0 | 0 | Shared LD_PRELOAD + seccomp/SIGSYS instrumentation runtime for Reverie in-guest… |
+| 2026-10-20 14:07:23 | [ra-jit-stdx](https://crates.io/crates/ra-jit-stdx) | 0.1.0 | 0 | Fork of rust-analyzer's stdx crate, used by ra-jit |
+| 2026-10-20 14:09:21 | [hermit-record-format](https://crates.io/crates/hermit-record-format) | 0.5.0 | 0 | Record/replay event format and support shared by Hermit's record and replay pat… |
+| 2026-10-20 14:10:51 | [hermit-run-kvm](https://crates.io/crates/hermit-run-kvm) | 0.5.0 | 0 | Hermit's KVM run: the root of Detcore's KVM instantiation, compiled apart from… |
+| 2026-10-20 14:11:25 | [paperpaw-plugin-translate](https://crates.io/crates/paperpaw-plugin-translate) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-t… |
+| 2026-10-20 14:12:36 | [hermit-run-ptrace](https://crates.io/crates/hermit-run-ptrace) | 0.5.0 | 0 | Hermit's plain ptrace run: the root of Detcore's ptrace instantiation, compiled… |
+| 2026-10-20 14:14:01 | [win-handles-sys](https://crates.io/crates/win-handles-sys) | 0.1.0 | 0 | Memory-safe Rust over the Win32 handle and object API: duplicating a handle wit… |
+| 2026-10-20 14:14:02 | [win-authorization-sys](https://crates.io/crates/win-authorization-sys) | 0.1.0 | 0 | Memory-safe Rust over the Win32 authorization API: an owned security descriptor… |
+| 2026-10-20 14:14:28 | [win-pipes-sys](https://crates.io/crates/win-pipes-sys) | 0.1.0 | 0 | Memory-safe Rust over the Win32 pipe API: creating, connecting and disconnectin… |
+| 2026-10-20 14:14:58 | [voxrender-cpu](https://crates.io/crates/voxrender-cpu) | 0.1.0 | 0 | The CPU reference renderer for voxrender's render contract. |
+| 2026-10-20 14:15:40 | [telesto-ext](https://crates.io/crates/telesto-ext) | 0.1.0 | 0 | Capability-scoped host modules for the mimas scripting language: scoped fs, reg… |
+| 2026-10-20 14:15:45 | [hermit-record](https://crates.io/crates/hermit-record) | 0.5.0 | 0 | Hermit's ptrace recording tool, compiled apart from the hermit library so its D… |
+| 2026-10-20 14:17:23 | [ra-jit-toolchain](https://crates.io/crates/ra-jit-toolchain) | 0.1.0 | 0 | Fork of rust-analyzer's toolchain crate, used by ra-jit |
+| 2026-10-20 14:17:58 | [odx-env](https://crates.io/crates/odx-env) | 0.0.5 | 0 | Environment promotion and comparison for odx |
+| 2026-10-20 14:18:34 | [listen-fire-module-wire](https://crates.io/crates/listen-fire-module-wire) | 0.12.0-rc.3 | 0 | listen-fire adapter protocol 2: the envelope, JSON in JavaScript key order, and… |
+| 2026-10-20 14:18:55 | [composure_macros](https://crates.io/crates/composure_macros) | 0.1.0 | 0 | Procedural macros for Composure Discord bots: #[command], #[app], #[view] and r… |
 
 ## Data source
 
