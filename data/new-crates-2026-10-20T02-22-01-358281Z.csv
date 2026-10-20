@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T01:19:31.104105Z,soniccraft-captions,0.1.0,0,0,https://github.com/user-github-me/soniccraft,"SonicCraft captions: word alignment, caption segmentation, WebVTT/SRT/JSON writers"
+2026-10-20T01:19:33.438509Z,soniccraft-core,0.1.0,0,0,https://github.com/user-github-me/soniccraft,"SonicCraft timeline DSL: parsing, validation, lowering and JSON Schema"
+2026-10-20T01:19:37.531114Z,soniccraft-dsp,0.1.0,0,0,https://github.com/user-github-me/soniccraft,"SonicCraft native DSP: decode, resample, mix, ducking, EBU R128 loudness, true-peak limiting, encode"
+2026-10-20T01:19:43.121671Z,soniccraft-layout,0.1.0,0,0,https://github.com/user-github-me/soniccraft,"SonicCraft timeline geometry: sample-accurate scheduling, overlap policy and plan diagrams"
+2026-10-20T01:19:46.098926Z,soniccraft-tts,0.1.0,0,0,https://github.com/user-github-me/soniccraft,"SonicCraft TTS providers (ElevenLabs, OpenAI-compatible, Cartesia, Kokoro, Piper, macOS say, command, mock) with a content-addressed cache"
+2026-10-20T01:19:49.733798Z,tv-rs,0.1.0,0,0,https://github.com/Zakarialabib/tv-rs,"Cross-platform TV control and communications: SSDP discovery, Wake-on-LAN, Samsung Tizen, LG webOS and Roku ECP, behind one facade."
+2026-10-20T01:20:39.42105Z,respan-gateway-plugin-mcp-aggregate,0.1.0,0,0,https://github.com/respanai/respan-gateway,First-party plugin: one MCP endpoint fronting many MCP servers as a single server.
+2026-10-20T01:23:35.015508Z,fs-issue,0.0.1,0,0,https://github.com/goosy/fs-issue,File-based issue tracking: issues live as Markdown files in your repository
+2026-10-20T01:25:24.873657Z,leptos-use-event-listener,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Use EventListener with ease
+2026-10-20T01:28:31.275841Z,liboauth,0.1.0,0,0,,Sans-io OAuth 2.0 client library.
+2026-10-20T01:30:38.391005Z,respan-gateway-sdk,0.1.0,0,0,https://github.com/respanai/respan-gateway,"What plugins, vendors and hosts share beyond the core: a model's card and its price."
+2026-10-20T01:31:58.612588Z,tv-rs-media,0.1.0,0,0,https://github.com/Zakarialabib/tv-rs,Range-capable HTTP media server (HTTP 206 Partial Content + HLS manifests) for tv-rs.
+2026-10-20T01:31:59.514186Z,soniccraft-engine,0.1.0,0,0,https://github.com/user-github-me/soniccraft,"SonicCraft engine: validate, dry-run and render declarative audio timelines"
+2026-10-20T01:32:37.112143Z,tv-rs-agent,0.1.0,0,0,https://github.com/Zakarialabib/tv-rs,"Reconciliation loop for fleets of televisions: desired state, healing ladder, quarantine and an audit log."
+2026-10-20T01:35:11.823356Z,ruxex,0.0.0,0,0,https://github.com/Ruxex/ruxex,Placeholder for the Git-hosted Ruxex implementation
+2026-10-20T01:35:17.478202Z,leptos-use-option-local-signal,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,OptionLocalSignal / OptionLocalRwSignal for Leptos
+2026-10-20T01:36:08.567198Z,gpui_interop,0.1.0,0,0,https://github.com/bite-gpui/gpui_interop,Zero-copy external GPU surfaces for GPUI windows
+2026-10-20T01:40:17.6377Z,soniccraft-mcp,0.1.0,0,0,https://github.com/user-github-me/soniccraft,SonicCraft Model Context Protocol server (stdio)
+2026-10-20T01:40:38.606472Z,respan-gateway-plugin-pricing,0.1.0,0,0,https://github.com/respanai/respan-gateway,"First-party plugin: what each call to a provider cost, at the provider's price for the model it sent."
+2026-10-20T01:43:19.264853Z,persistant-macros,0.8.21,0,0,https://github.com/ciresnave/PersistAnt,"PersistAnt's compile-time SQL macro: a thin wrapper over unisql-macro-core. Use it through the `persistant` crate (feature `sql-macros`), not directly."
+2026-10-20T01:44:17.088655Z,paddock-core,0.1.0,0,0,https://github.com/belousovAV/paddock,"Domain types, ports and state formats for paddock, a sandboxed Docker environment for AI coding agents"
+2026-10-20T01:44:26.482605Z,paddock-infra,0.1.0,0,0,https://github.com/belousovAV/paddock,"Adapters (docker compose, git, file system, systemd) for paddock"
+2026-10-20T01:44:33.840686Z,paddock,0.1.0,0,0,https://github.com/belousovAV/paddock,Sandboxed Docker environment for running AI coding agents: the host CLI
+2026-10-20T01:44:40.928078Z,tv-rs-cec,0.1.0,0,0,https://github.com/Zakarialabib/tv-rs,"HDMI-CEC control for panels that cannot be reached over the network, via a local cec-client adapter."
+2026-10-20T01:45:22.366778Z,leptos-use-window,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,SSR safe `window()`
+2026-10-20T01:45:33.591937Z,vway-proto,0.1.0,0,0,https://github.com/chpr8/vway,vway control protocol types
+2026-10-20T01:45:59.733769Z,vway-compositor,0.1.0,0,0,https://github.com/chpr8/vway,Headless Smithay compositor and session supervisor behind vway
+2026-10-20T01:46:07.159531Z,sorob-inspect,0.1.0,0,0,https://github.com/bomniop/sorob-inspect,"Inspect Soroban WASM artifacts: structure, imports/exports, custom sections, and contract-spec validation"
+2026-10-20T01:46:21.216198Z,vway,0.1.0,0,0,https://github.com/chpr8/vway,Headless Wayland desktops for testing and driving GUI apps
+2026-10-20T01:50:38.476686Z,respan-gateway-plugin-relay,0.1.0,0,0,https://github.com/respanai/respan-gateway,"The relay plugin: a client's request, key, response head and error body forwarded as they came, between a client and a provider of one format."
+2026-10-20T01:55:19.059855Z,leptos-use-active-element,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive `document.activeElement`
+2026-10-20T01:57:23.186051Z,soniccraft,0.1.0,0,0,https://github.com/user-github-me/soniccraft,"The SonicCraft CLI and MCP server: validate, plan and render declarative audio timelines (TTS speech, music, sound effects) to loudness-mastered audio with subtitles"
+2026-10-20T01:59:37.919525Z,chromodoris,0.0.0,0,0,https://github.com/jaybill/chromodoris,"Placeholder. Chromodoris paints video frames with brushwork, filters and tracer passes on the GPU. Not published yet; see the repository."
+2026-10-20T02:00:39.886287Z,respan-gateway-plugin-respan,0.1.0,0,0,https://github.com/respanai/respan-gateway,"Respan observability: each request a trace, each call to a model or tool server a span, sent to Respan over OTLP."
+2026-10-20T02:02:12.738624Z,ult,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,ult: native apps in Rust and TSX with one vertical stack. The library Rust apps and native modules depend on.
+2026-10-20T02:04:50.021431Z,delta-ai,1.0.0,0,0,https://github.com/nivalume/pi-rs,"Unified LLM API for Rust: provider collections, auth resolution, streaming events, token and cost tracking, tool calling and cross-provider hand-off (Rust port of pi-ai)"
+2026-10-20T02:04:52.099477Z,delta-agent,1.0.0,0,0,https://github.com/nivalume/pi-rs,"Stateful LLM agent for Rust: tool execution (parallel or sequential), steering and follow-up queues, lifecycle events and hooks (Rust port of pi-agent-core)"
+2026-10-20T02:05:19.01611Z,leptos-use-media-query,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive [Media Query](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Testing_media_queries)
+2026-10-20T02:10:38.936998Z,respan-gateway-plugin-responses,0.1.0,0,0,https://github.com/respanai/respan-gateway,"The responses plugin: the conversation state a client or a provider of the conversation kind cannot keep, kept by the gateway: Responses' previous_response_id with any provider, and a Chat client's r…"
+2026-10-20T02:13:17.348605Z,anvil-sys,1.0.0,0,0,https://github.com/happy-dwarf-team/anvil,"Raw bindings to the Anvil plugin API 2 (anvil_plugin.h), the C ABI of the Anvil plugin loader for Europa Universalis IV"
+2026-10-20T02:15:18.200683Z,leptos-use-breakpoints,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive viewport breakpoints
+2026-10-20T02:17:23.789848Z,netrender-vello-encoding,0.11.0,0,0,https://github.com/mark-ik/vello,"Netrender's Vello 0.11 encoding types for wgpu 30: the data that needs to be rendered, with device-pixel curve quality bounds. Library name `vello_encoding`."
+2026-10-20T02:17:48.237558Z,netrender-vello-shaders,0.11.0,0,0,https://github.com/mark-ik/vello,Netrender's Vello 0.11 shaders for wgpu 30: infrastructure to preprocess and cross-compile shaders at compile time. Library name `vello_shaders`.
+2026-10-20T02:20:39.761889Z,respan-gateway-plugin-routing,0.1.0,0,0,https://github.com/respanai/respan-gateway,"First-party plugin: route each request by its model to providers picked by order, price, speed or weight, with fallback and hedging."
