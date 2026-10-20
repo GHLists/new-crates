@@ -1,0 +1,71 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T12:20:57.926994Z,micstudio,0.1.0,0,0,https://github.com/kmanisk/micstudio,"High-performance native Rust audio studio, voice preset manager, and real-time DSP pipeline for PipeWire"
+2026-10-20T12:21:23.117786Z,paperpaw-plugin-opds,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-opds"
+2026-10-20T12:25:16.308601Z,leptos-use-web-lock,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Rustified [Web Locks API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Locks_API)
+2026-10-20T12:28:21.117298Z,sequoia-view,0.1.0,0,0,,Sequoia GUI framework — view tree and runtime
+2026-10-20T12:28:49.273068Z,rypsok-core,0.1.0,0,0,https://github.com/nabbisen/rypsok,"Core library of rypsok, a headless meta-search service for AI agents: models, pipelines, drivers and policies, free of any protocol dependency"
+2026-10-20T12:28:51.706406Z,rypsok,0.1.0,0,0,https://github.com/nabbisen/rypsok,"Headless meta-search service for AI agents, served over the Model Context Protocol"
+2026-10-20T12:30:46.436727Z,allium-inspect-server,0.1.5,0,0,https://github.com/mpecan/allium-inspect,"Embedded HTTP server exposing the SpecGraph and simulator to the browser UI. Part of allium-inspect, published so the `allium-inspect` and `allium-journey` binaries can be installed from crates.io; n…"
+2026-10-20T12:31:04.693604Z,allium-inspect,0.1.5,0,0,https://github.com/mpecan/allium-inspect,"Explore an Allium specification in a browser: an explorable graph, a rule simulator and a journey runner"
+2026-10-20T12:31:05.881988Z,qmit,1.0.0,0,0,https://github.com/rishalsha/qmit,Blazing-fast AI-powered conventional commit generator CLI
+2026-10-20T12:31:13.496607Z,allium-journey,0.1.5,0,0,https://github.com/mpecan/allium-inspect,Walk user journeys against an Allium specification
+2026-10-20T12:31:17.758701Z,paperpaw-plugin-plugin-manager,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-plugin-manager"
+2026-10-20T12:34:57.711066Z,graphviz-pure-core,0.0.0,0,0,https://github.com/graphviz-pure/graphviz-pure,"Placeholder for graphviz-pure, a Rust port of Graphviz; the first release is 0.1.0."
+2026-10-20T12:35:06.208114Z,graphviz-pure-parser,0.0.0,0,0,https://github.com/graphviz-pure/graphviz-pure,"Placeholder for graphviz-pure, a Rust port of Graphviz; the first release is 0.1.0."
+2026-10-20T12:35:08.888562Z,graphviz-pure-geom,0.0.0,0,0,https://github.com/graphviz-pure/graphviz-pure,"Placeholder for graphviz-pure, a Rust port of Graphviz; the first release is 0.1.0."
+2026-10-20T12:35:11.313087Z,graphviz-pure-layout,0.0.0,0,0,https://github.com/graphviz-pure/graphviz-pure,"Placeholder for graphviz-pure, a Rust port of Graphviz; the first release is 0.1.0."
+2026-10-20T12:35:13.64483Z,graphviz-pure-render,0.0.0,0,0,https://github.com/graphviz-pure/graphviz-pure,"Placeholder for graphviz-pure, a Rust port of Graphviz; the first release is 0.1.0."
+2026-10-20T12:35:17.796083Z,leptos-use-web-notification,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive [Notification API](https://developer.mozilla.org/en-US/docs/Web/API/Notification)
+2026-10-20T12:37:09.045228Z,pandubbi,0.1.0,0,0,,A web crawler tool written in Rust
+2026-10-20T12:38:07.099673Z,sequoia-elements,0.1.0,0,0,,Sequoia GUI framework — built-in UI elements
+2026-10-20T12:41:15.299639Z,paperpaw-plugin-profiles,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-profiles"
+2026-10-20T12:42:49.406922Z,oxfuse-core,0.1.0,0,0,https://github.com/sara-star-quant/oxfuse,"Typed tensor-graph IR with shape inference, a verifier and exact optimization passes."
+2026-10-20T12:42:51.946812Z,oxfuse-runtime,0.1.0,0,0,https://github.com/sara-star-quant/oxfuse,"Tensors, execution plans and the reference CPU backend for oxfuse graphs."
+2026-10-20T12:42:54.520269Z,oxfuse,0.1.0,0,0,https://github.com/sara-star-quant/oxfuse,"Command-line tool for oxfuse: a small tensor graph compiler with a reference and a fast CPU backend. Subcommands: check, run, inspect."
+2026-10-20T12:43:19.259543Z,ic-smtp-gateway-protocol,0.1.0,0,0,https://github.com/dfinity/ic-smtp-gateway-protocol,Rust definitions of the Internet Computer SMTP Gateway Protocol
+2026-10-20T12:45:16.792297Z,graphviz-pure-raster,0.0.0,0,0,https://github.com/graphviz-pure/graphviz-pure,"Placeholder for graphviz-pure, a Rust port of Graphviz; the first release is 0.1.0."
+2026-10-20T12:45:16.820606Z,leptos-use-websocket,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Creating and managing a [Websocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket) connection
+2026-10-20T12:45:28.373038Z,ripbi-service,0.11.0,0,0,https://github.com/bgarcevic/ripbi,"Power BI / Fabric REST client for ripbi: semantic model discovery, downstream reports, and item definitions"
+2026-10-20T12:46:32.825277Z,ink-rs-macros,0.1.0,0,0,https://github.com/yexrob/ink-rs,The rsx! macro for ink-rs
+2026-10-20T12:46:47.450414Z,light-fw-element-form,0.4.0,0,0,https://github.com/gifoff/light,"Компонент Light: элементы формы — флажок, переключатель и список"
+2026-10-20T12:46:55.178439Z,light,0.4.0,0,0,https://github.com/gifoff/light,Реактивный графический интерфейс для Rust: Proxy-обозреватели и HTML-шаблоны в духе Vue 3
+2026-10-20T12:48:19.366439Z,hypercall-sdk-types,0.3.0,0,0,,Public SDK types for Hypercall clients
+2026-10-20T12:48:19.693136Z,hypercall-ws-protocol,0.3.0,0,0,,Stable WebSocket protocol DTOs for Hypercall edge services
+2026-10-20T12:48:20.544931Z,hypercall-client,0.3.0,0,0,,Client library for interacting with Hypercall trading platform
+2026-10-20T12:48:22.516213Z,hypercall-hyperliquid,0.3.0,0,0,,Direct Hyperliquid perp venue adapter for Hypercall SDK clients
+2026-10-20T12:48:24.187729Z,hypercall-liquidator,0.3.0,0,0,,Public proof-of-concept standard margin liquidator with external Hyperliquid hedge planning
+2026-10-20T12:50:30.163554Z,sequoia-render,0.1.0,0,0,,Sequoia GUI framework — wgpu renderer
+2026-10-20T12:54:09.760376Z,nfrp-common,0.6.2,0,0,https://github.com/Nu0vo1212/Rust-Frp,NFrp 公共库：协议、配置、错误、工具与传输层抽象
+2026-10-20T12:54:32.662017Z,tauri-plugin-better-auth,0.1.0,0,0,https://github.com/laakal/tauri-plugin-better-auth,"Better Auth for Tauri 2: browser sign-in with PKCE, a Rust-held session and a token-free webview."
+2026-10-20T12:54:39.824963Z,livekit-telemetry,0.1.0,0,0,https://github.com/livekit/rust-sdks,Client telemetry core for LiveKit: buffers events on-device and exports them as OTLP
+2026-10-20T12:55:21.517874Z,leptos-use-whenever,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Shorthand for watching a signal to be `true`
+2026-10-20T12:55:22.15381Z,nfrp-server,0.6.2,0,0,https://github.com/Nu0vo1212/Rust-Frp,NFrp 服务端：控制连接 + 工作连接，TCP 端口转发
+2026-10-20T12:55:47.689355Z,nfrp-client,0.6.2,0,0,https://github.com/Nu0vo1212/Rust-Frp,NFrp 客户端：注册代理、按需建立工作连接
+2026-10-20T12:58:10.917123Z,paperpaw-plugin-reader,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-reader"
+2026-10-20T12:58:15.786109Z,graphviz-pure,0.0.0,0,0,https://github.com/graphviz-pure/graphviz-pure,"Placeholder for graphviz-pure, a Rust port of Graphviz; the first release is 0.1.0."
+2026-10-20T13:00:07.211572Z,sequoia-export,0.1.0,0,0,,Sequoia GUI framework — headless HiDPI PNG export (website-ready screenshots without a window)
+2026-10-20T13:00:19.781166Z,ferraus,0.1.1,0,0,https://github.com/djynnius/ferraus,A command-line audio workstation for scripts and AI agents
+2026-10-20T13:01:13.963234Z,paperpaw-plugin-readwise,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-readwise"
+2026-10-20T13:01:17.7341Z,reverie-loader,0.5.0,0,0,https://github.com/facebookexperimental/reverie,"Hermit's in-guest loader: validation of the fixed-address loader and runtime images, and the loader's initialization stages."
+2026-10-20T13:04:45.48208Z,reverie-rpc-macros,0.5.0,0,0,https://github.com/facebookexperimental/reverie,Procedural macros for the experimental Reverie RPC framework.
+2026-10-20T13:04:48.201066Z,nachalo,0.1.0,0,0,https://github.com/RamsisDev/Nachalo,"Reference implementation of Nachalo, a protocol for PAKE-authenticated first contact from a few words: live, by appointment or with a physical token. CPace + X25519 + ML-KEM-768."
+2026-10-20T13:05:17.71237Z,leptos-use-window-focus,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactively track window focus
+2026-10-20T13:05:37.977285Z,glyphcast,1.0.0,0,0,https://github.com/MrProLopstar/glyphcast,Video as colored glyphs: encode and decode .gcast streams (format 6) and draw them as console cells
+2026-10-20T13:05:53.6243Z,reverie-rpc,0.5.0,0,0,https://github.com/facebookexperimental/reverie,Legacy RPC framework used by experimental Reverie instrumentation backends.
+2026-10-20T13:08:04.915473Z,geomapper-desktop,0.1.0,0,0,https://github.com/sablokg/geomapper-desktop,geomapper for German geographical localization
+2026-10-20T13:10:05.470682Z,sequoia-seq,0.1.0,0,0,,"Sequoia declarative language (.seq): parser, checker, lowering to views"
+2026-10-20T13:10:41.789794Z,riptrace-rpc,0.5.0,0,0,https://github.com/facebookexperimental/reverie,RPC protocol types for the experimental Reverie riptrace tool.
+2026-10-20T13:11:24.0908Z,paperpaw-plugin-rules,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-rules"
+2026-10-20T13:12:27.462512Z,graphviz-pure-cli,0.0.0,0,0,https://github.com/graphviz-pure/graphviz-pure,"Placeholder for graphviz-pure, a Rust port of Graphviz; the first release is 0.1.0."
+2026-10-20T13:13:11.556693Z,reverie-kvm-core,0.5.0,0,0,https://github.com/facebookexperimental/reverie,Lowest layer of the Reverie KVM backend: its error type and guest address map.
+2026-10-20T13:14:26.782011Z,fusor-ai-team,0.1.0,0,0,https://github.com/fusor-rs/fusor-ai,"An SPMD thread team for inference kernels: one Rayon broadcast per call, static splits and barriers inside."
+2026-10-20T13:14:28.389441Z,fusor-ai-kernels,0.1.0,0,0,https://github.com/fusor-rs/fusor-ai,"Block-quantized weights, int8 SIMD matrix multiply (wasm relaxed SIMD / SIMD128, NEON sdot, scalar) and the f32 operations of transformer inference."
+2026-10-20T13:14:29.969184Z,fusor-ai-bundle,0.1.0,0,0,https://github.com/fusor-rs/fusor-ai,Model bundles: a manifest of hashed parts and a store that streams parts straight into their tensors.
+2026-10-20T13:14:31.506865Z,fusor-ai-blocks,0.1.0,0,0,https://github.com/fusor-rs/fusor-ai,"Architecture blocks built on fusor-ai's kernels and thread team: the Qwen2 decoder stack, DiT blocks, flow-matching integration and a streaming inverse STFT."
+2026-10-20T13:14:31.873604Z,fusor-ai-compile,0.1.0,0,0,https://github.com/fusor-rs/fusor-ai,"Native model compilation for fusor-ai: read safetensors checkpoints, encode tensors, write hashed bundle parts and the manifest."
+2026-10-20T13:14:39.980684Z,zoxide-romanized,0.10.0,0,0,https://github.com/Lineance/zoxide,A smarter cd command with pinyin and initials matching
+2026-10-20T13:15:19.948372Z,leptos-use-window-scroll,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive window scroll
+2026-10-20T13:15:39.04969Z,re_audio,0.40.0-rc.1,0,0,https://github.com/rerun-io/rerun,Rerun audio decoding and playback utilities.
+2026-10-20T13:18:47.848232Z,sequoia-platform,0.1.0,0,0,,Sequoia GUI framework — windowing platform (winit + wgpu)
+2026-10-20T13:20:01.572186Z,miniepub-cli,0.1.0,0,0,https://github.com/SzilvasiPeter/miniepub,A minimal EPUB reader command line tool
+2026-10-20T13:20:10.180979Z,miniepub-tui,0.2.1,0,0,https://github.com/SzilvasiPeter/miniepub,A minimal EPUB reader terminal user interface
