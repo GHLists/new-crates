@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T09:22:18.803271Z,plakous-recursive-subagents-store,0.0.1,0,0,https://github.com/N0xMare/plak,The agent tree's durable store: TreeStore over its own subagents.sqlite3
+2026-10-20T09:23:21.971558Z,pemba-store-sqlite,0.1.0-alpha.1,0,0,https://github.com/Joshua-Fields/pemba,SQLite relationship store for pemba.
+2026-10-20T09:23:29.903424Z,pemba,0.1.0-alpha.1,0,0,https://github.com/Joshua-Fields/pemba,"Embedded, Zanzibar-style authorisation engine."
+2026-10-20T09:23:41.216458Z,pemba-cli,0.1.0-alpha.1,0,0,https://github.com/Joshua-Fields/pemba,Command-line tool for pemba.
+2026-10-20T09:25:22.945101Z,leptos-use-locale,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive locale matching
+2026-10-20T09:29:45.754583Z,plakous-hosted,0.0.1,0,0,https://github.com/N0xMare/plak,"Hosted coding sessions, child execution, and product-supplied service ports"
+2026-10-20T09:31:09.1036Z,otf-pixels-codec-jxl,0.3.0,0,0,https://github.com/Open-Tech-Foundation/Pixels,"JPEG XL codec for otf-pixels, implemented from scratch."
+2026-10-20T09:31:23.178562Z,paperpaw-plugin-files,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-files"
+2026-10-20T09:32:40.889787Z,openui,0.1.0,0,0,https://github.com/voxell-tech/openui-rs,A renderer-neutral runtime for OpenUI Lang.
+2026-10-20T09:32:54.765285Z,synapse-agent,0.0.0,0,0,https://github.com/ThinkersJournal/synapse,Part of Synapse: drives a non-Claude model as a Synapse agent (name reserved; first release pending).
+2026-10-20T09:33:42.574601Z,dash-pow,0.1.0-beta,0,0,https://github.com/dashpay/base-sdk,Proof of Work hash primitive for the Dash Base SDK
+2026-10-20T09:35:15.649571Z,leptos-use-math,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive math functions for Leptos
+2026-10-20T09:35:28.190571Z,mithril-circuit-key-registry,0.1.3,0,0,https://github.com/IntersectMBO/mithril/,Genesis-signed registry of the circuit verification keys trusted for Mithril SNARK certificates.
+2026-10-20T09:36:48.946493Z,orbit-base,0.1.0,0,0,https://github.com/nickcorin/orbit,"Event types, encoders, and write contracts for Orbit."
+2026-10-20T09:36:50.798675Z,orbit-sqlite,0.1.0,0,0,https://github.com/nickcorin/orbit,"SQLite adapter for Orbit, built on SQLx."
+2026-10-20T09:37:15.020341Z,plak,0.0.1,0,0,https://github.com/N0xMare/plak,"Plak product library, command-line interface, and terminal application"
+2026-10-20T09:38:11.786641Z,taksh,0.1.0,0,0,https://github.com/MrSheerluck/smbl-taksh,A Rust AI agent toolkit and coding agent inspired by Pi.
+2026-10-20T09:38:42.998917Z,frust-file-dialogs,0.6.2,0,0,https://github.com/frust-rs/frust,"Native file open/save dialogs for Frust apps on Linux, macOS and Windows, backed by the rfd crate."
+2026-10-20T09:41:18.914629Z,paperpaw-plugin-fonts-browser,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-20T09:45:15.726984Z,leptos-use-mouse,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive mouse position
+2026-10-20T09:51:22.851831Z,paperpaw-plugin-fonts-default,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-fonts-default"
+2026-10-20T09:55:21.360546Z,leptos-use-mouse-in-element,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive mouse position related to an element
+2026-10-20T10:00:24.001492Z,kuntakoodit,0.1.0,0,0,https://github.com/code-trust/kuntakoodit,"Look up Finnish municipality codes (kuntakoodi) by municipality name, using Statistics Finland data"
+2026-10-20T10:01:15.773311Z,paperpaw-plugin-format-epub,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-format-epub"
+2026-10-20T10:02:01.513591Z,thirtys3-core,0.1.0,0,0,https://github.com/ThirtyFile/ThirtyS3,"The shared parts of ThirtyS3: Signature Version 4 signing and verification, S3 XML, errors, ETags and checksums"
+2026-10-20T10:02:37.164868Z,thirtys3-client,0.1.0,0,0,https://github.com/ThirtyFile/ThirtyS3,"A small S3 client: the calls a file service needs, with retries, path-style and virtual-hosted addressing"
+2026-10-20T10:02:45.711744Z,thirtys3-server,0.1.0,0,0,https://github.com/ThirtyFile/ThirtyS3,"A small S3 server protocol layer: authentication and routing for the operations a file service offers, on http types"
+2026-10-20T10:05:17.919973Z,leptos-use-on-click-outside,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Listen for clicks outside an element
+2026-10-20T10:10:25.595406Z,felis-protocol,0.1.0,0,0,https://github.com/felis-terminal/felis,"felis IPC protocol types: frame layout, message families, connection modes"
+2026-10-20T10:10:26.584903Z,felis-shaping,0.1.0,0,0,https://github.com/felis-terminal/felis,felis text shaper: swash + font fallback + shape cache
+2026-10-20T10:10:28.288365Z,felis-transport,0.1.0,0,0,https://github.com/felis-terminal/felis,"felis IPC transport: framing, local carrier (Unix socket / Windows named pipe), peer-identity verification, SSH stdio"
+2026-10-20T10:10:29.209094Z,felis-vt,0.1.0,0,0,https://github.com/felis-terminal/felis,"felis VT parser: Williams DFA, UTF-8 buffering, Kitty graphics/keyboard/text-sizing dispatch"
+2026-10-20T10:10:31.387959Z,felis-grid,0.1.0,0,0,https://github.com/felis-terminal/felis,"felis grid model: cells, cursor, scrollback, image store, damage tracker"
+2026-10-20T10:11:14.60892Z,paperpaw-plugin-format-txt,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-format-txt"
+2026-10-20T10:15:21.507584Z,leptos-use-permission,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive [Permissions API](https://developer.mozilla.org/en-US/docs/Web/API/Permissions_API)
+2026-10-20T10:17:03.694905Z,openthread-async,0.0.1,0,0,https://github.com/Vlczakos/openthread-async,"Minimal, asynchronous and safe Rust wrapper for OpenThread"
+2026-10-20T10:18:06.513816Z,ul_unas_rs,0.1.0,0,0,,Dependency-free streaming UL-UNAS DNS3 speech denoising
