@@ -8,57 +8,66 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 08:18 UTC
+## Latest list — 2026-10-20 09:21 UTC
 
-New crates published between 2026-10-20 07:20 UTC and 2026-10-20 08:18 UTC.
+New crates published between 2026-10-20 08:18 UTC and 2026-10-20 09:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-20T08-18-55-606835Z.csv)
+[Full CSV](data/new-crates-2026-10-20T09-21-26-720383Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-20 07:25:17 | [leptos-use-favicon](https://crates.io/crates/leptos-use-favicon) | 0.20.0 | 0 | Reactive favicon |
-| 2026-10-20 07:29:01 | [thirtyftp](https://crates.io/crates/thirtyftp) | 0.1.0 | 0 | A small FTP and FTPS (explicit TLS) server library for receive folders: passive… |
-| 2026-10-20 07:30:36 | [opencv-no-c-photo](https://crates.io/crates/opencv-no-c-photo) | 0.1.0 | 0 | cv::photo for opencv-no-c: denoising, inpainting and edge-preserving filters. |
-| 2026-10-20 07:33:20 | [plakous-compose](https://crates.io/crates/plakous-compose) | 0.0.1 | 0 | Composition presentations: the js/py cell outer tools and the Codex Code Mode e… |
-| 2026-10-20 07:33:41 | [devino](https://crates.io/crates/devino) | 0.1.0 | 0 | Bounded OpenVINO CPU backend for verified local model bundles |
-| 2026-10-20 07:34:30 | [paperpaw-image](https://crates.io/crates/paperpaw-image) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-image |
-| 2026-10-20 07:34:33 | [paperpaw-fat](https://crates.io/crates/paperpaw-fat) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
-| 2026-10-20 07:34:37 | [paperpaw-plugin-store](https://crates.io/crates/paperpaw-plugin-store) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
-| 2026-10-20 07:34:40 | [paperpaw-qr](https://crates.io/crates/paperpaw-qr) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
-| 2026-10-20 07:34:43 | [paperpaw-serve](https://crates.io/crates/paperpaw-serve) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-serve |
-| 2026-10-20 07:35:21 | [leptos-use-fn-debounce-throttle](https://crates.io/crates/leptos-use-fn-debounce-throttle) | 0.20.0 | 0 | Debounced and throttled function wrappers for Leptos |
-| 2026-10-20 07:38:54 | [ruxex-crossterm](https://crates.io/crates/ruxex-crossterm) | 0.29.0 | 0 | A crossplatform terminal library for manipulating terminals. |
-| 2026-10-20 07:39:28 | [opencv-no-c-stitching](https://crates.io/crates/opencv-no-c-stitching) | 0.1.0 | 0 | cv::stitching for opencv-no-c: warpers, blenders and a panorama pipeline. |
-| 2026-10-20 07:40:28 | [plakous-openai](https://crates.io/crates/plakous-openai) | 0.0.1 | 0 | OpenAI Responses protocol integration for Plakous |
-| 2026-10-20 07:41:02 | [ruxex-tungstenite](https://crates.io/crates/ruxex-tungstenite) | 0.27.0 | 0 | Lightweight stream-based WebSocket implementation |
-| 2026-10-20 07:41:13 | [paperpaw-sqlite](https://crates.io/crates/paperpaw-sqlite) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-sqlite |
-| 2026-10-20 07:43:39 | [av-drift-detector](https://crates.io/crates/av-drift-detector) | 0.1.0 | 0 | Generate machine-readable A/V sync test videos and measure audio/video drift fr… |
-| 2026-10-20 07:45:21 | [leptos-use-geolocation](https://crates.io/crates/leptos-use-geolocation) | 0.20.0 | 0 | Reactive [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geo… |
-| 2026-10-20 07:45:40 | [orch-cli](https://crates.io/crates/orch-cli) | 0.86.0 | 0 | Orch, the agent orchestration engine: runs coding agents on tasks and cron jobs |
-| 2026-10-20 07:47:39 | [plakous-xai](https://crates.io/crates/plakous-xai) | 0.0.1 | 0 | xAI Responses and Grok subscription protocol integration for Plakous |
-| 2026-10-20 07:47:46 | [ruxex-tokio-tungstenite](https://crates.io/crates/ruxex-tokio-tungstenite) | 0.28.0 | 0 | Tokio binding for Tungstenite, the Lightweight stream-based WebSocket implement… |
-| 2026-10-20 07:48:34 | [amqp-client](https://crates.io/crates/amqp-client) | 0.1.0 | 0 | An AMQP 0-9-1 client library built on tokio. |
-| 2026-10-20 07:48:40 | [kurogane-cli](https://crates.io/crates/kurogane-cli) | 0.0.6-beta.1 | 0 | Command-line tool to create, run and bundle Kurogane applications |
-| 2026-10-20 07:49:39 | [opencv-no-c-video](https://crates.io/crates/opencv-no-c-video) | 0.1.0 | 0 | cv::video for opencv-no-c: optical flow, background subtraction, tracking and K… |
-| 2026-10-20 07:51:13 | [paperpaw-stardict](https://crates.io/crates/paperpaw-stardict) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-stardict |
-| 2026-10-20 07:55:20 | [leptos-use-idle](https://crates.io/crates/leptos-use-idle) | 0.20.0 | 0 | Tracks whether the user is being inactive |
-| 2026-10-20 07:58:09 | [silverbaths](https://crates.io/crates/silverbaths) | 0.0.1 | 0 | Film looks for photos, camera raws and video, built for people and agents. Plac… |
-| 2026-10-20 07:59:32 | [opencv-no-c-samples](https://crates.io/crates/opencv-no-c-samples) | 0.1.0 | 0 | The OpenCV sample programs, ported to opencv-no-c and runnable under wasm32. |
-| 2026-10-20 08:01:17 | [paperpaw-fontgen](https://crates.io/crates/paperpaw-fontgen) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
-| 2026-10-20 08:02:03 | [plakous-agent](https://crates.io/crates/plakous-agent) | 0.0.1 | 0 | Curated provider-neutral single-agent component for Plakous |
-| 2026-10-20 08:03:54 | [re_walkers](https://crates.io/crates/re_walkers) | 0.63.1 | 0 | Temporary fork of walkers, a slippy map widget for egui. Use the walkers crate… |
-| 2026-10-20 08:05:17 | [rogo-gpu](https://crates.io/crates/rogo-gpu) | 0.1.0 | 0 | Feature forwarder for rogo: turns on llama-cpp-2's Vulkan or CUDA backend away… |
-| 2026-10-20 08:05:18 | [leptos-use-scroll](https://crates.io/crates/leptos-use-scroll) | 0.20.0 | 0 | Reactive scroll position and state |
-| 2026-10-20 08:07:21 | [cf-gears-quota-enforcement-sdk](https://crates.io/crates/cf-gears-quota-enforcement-sdk) | 0.1.0 | 0 | SDK for the quota-enforcement gear: storage plugin contract, domain types, clos… |
-| 2026-10-20 08:08:00 | [mahiro](https://crates.io/crates/mahiro) | 0.1.0 | 0 | [Demo]本地文件搜索工具 |
-| 2026-10-20 08:08:15 | [relay-html](https://crates.io/crates/relay-html) | 0.4.0 | 0 | Разбор HTML-шаблонов Relay для процедурных макросов |
-| 2026-10-20 08:08:20 | [relay-cli-core](https://crates.io/crates/relay-cli-core) | 0.4.0 | 0 | Ядро CLI Relay: анализ проекта, управление компонентами и relay.lock |
-| 2026-10-20 08:09:20 | [plakous-anthropic](https://crates.io/crates/plakous-anthropic) | 0.0.1 | 0 | Anthropic Messages protocol integration for Plakous |
-| 2026-10-20 08:09:31 | [opencv-no-c-videoio](https://crates.io/crates/opencv-no-c-videoio) | 0.1.0 | 0 | cv::videoio for opencv-no-c: AVI, Y4M and image-sequence capture and writing. |
-| 2026-10-20 08:11:14 | [paperpaw-plugin-about](https://crates.io/crates/paperpaw-plugin-about) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-a… |
-| 2026-10-20 08:15:21 | [leptos-use-infinite-scroll](https://crates.io/crates/leptos-use-infinite-scroll) | 0.20.0 | 0 | Infinite scrolling of the element |
-| 2026-10-20 08:16:08 | [pinentry-tmux](https://crates.io/crates/pinentry-tmux) | 0.1.0 | 0 | Run curses pinentry in an explicitly targeted tmux popup |
-| 2026-10-20 08:17:37 | [nft-gate-core](https://crates.io/crates/nft-gate-core) | 0.0.27 | 0 | The nft-gate decision logic in one place: proof, Sui signature verification, gR… |
+| 2026-10-20 08:19:39 | [opencv-no-c](https://crates.io/crates/opencv-no-c) | 0.1.0 | 0 | Facade re-exporting the pure-Rust OpenCV module ports. |
+| 2026-10-20 08:21:14 | [paperpaw-plugin-aids](https://crates.io/crates/paperpaw-plugin-aids) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-a… |
+| 2026-10-20 08:23:41 | [plakous-openrouter](https://crates.io/crates/plakous-openrouter) | 0.0.1 | 0 | Dynamic OpenRouter Chat, Responses, and Messages dialects for Plakous |
+| 2026-10-20 08:25:16 | [leptos-use-interval-fn](https://crates.io/crates/leptos-use-interval-fn) | 0.20.0 | 0 | Wrapper for `set_interval` with controls |
+| 2026-10-20 08:26:25 | [rogo](https://crates.io/crates/rogo) | 2.1.0 | 0 | Multilingual search over a folder of text: BM25 and embeddings, fused |
+| 2026-10-20 08:28:32 | [midwess-hero](https://crates.io/crates/midwess-hero) | 1.0.1 | 0 | Opt-in cross-platform runtime and service integration utilities |
+| 2026-10-20 08:30:57 | [plakous-prompts](https://crates.io/crates/plakous-prompts) | 0.0.1 | 0 | Model-visible instruction text, the first-turn assembler, recommended harness p… |
+| 2026-10-20 08:31:14 | [paperpaw-plugin-battery](https://crates.io/crates/paperpaw-plugin-battery) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
+| 2026-10-20 08:33:53 | [tobii](https://crates.io/crates/tobii) | 0.1.0 | 0 | Tobii Pro Glasses 2, 3 and X in pure Rust: control, live data and video, record… |
+| 2026-10-20 08:35:21 | [leptos-use-interval](https://crates.io/crates/leptos-use-interval) | 0.20.0 | 0 | Reactive counter increases on every interval |
+| 2026-10-20 08:37:57 | [ruxex-ratatui-core](https://crates.io/crates/ruxex-ratatui-core) | 0.1.2 | 0 | Core types and traits for the Ratatui Terminal UI library. Widget libraries sho… |
+| 2026-10-20 08:38:13 | [plakous-py-eval](https://crates.io/crates/plakous-py-eval) | 0.0.1 | 0 | monty-pool py-ptc session for Plak Code Mode |
+| 2026-10-20 08:38:34 | [ruxex-ratatui-crossterm](https://crates.io/crates/ruxex-ratatui-crossterm) | 0.1.2 | 0 | Crossterm backend for the Ratatui Terminal UI library. |
+| 2026-10-20 08:39:13 | [faster_enhancer_rs](https://crates.io/crates/faster_enhancer_rs) | 0.1.0 | 0 | Dependency-free x86-64 streaming FastEnhancer-Medium speech enhancement |
+| 2026-10-20 08:41:16 | [paperpaw-plugin-browser](https://crates.io/crates/paperpaw-plugin-browser) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-b… |
+| 2026-10-20 08:42:05 | [chromaglyph-node](https://crates.io/crates/chromaglyph-node) | 0.4.1 | 0 | @chromaglyph/node — napi-rs bindings for chromaglyph-core |
+| 2026-10-20 08:45:15 | [leptos-use-intl-datetime-format](https://crates.io/crates/leptos-use-intl-datetime-format) | 0.20.0 | 0 | Reactive [`Intl.DateTimeFormat`](https://developer.mozilla.org/en-US/docs/Web/J… |
+| 2026-10-20 08:50:04 | [ruxex-ratatui-widgets](https://crates.io/crates/ruxex-ratatui-widgets) | 0.3.2 | 0 | A collection of Ratatui widgets for building terminal user interfaces using Rat… |
+| 2026-10-20 08:50:38 | [ruxex-ratatui-macros](https://crates.io/crates/ruxex-ratatui-macros) | 0.7.2 | 0 | Macros for Ratatui |
+| 2026-10-20 08:51:13 | [ruxex-ratatui-termina](https://crates.io/crates/ruxex-ratatui-termina) | 0.1.0 | 0 | Termina backend for the Ratatui Terminal UI library. |
+| 2026-10-20 08:51:15 | [paperpaw-plugin-calibre](https://crates.io/crates/paperpaw-plugin-calibre) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-c… |
+| 2026-10-20 08:51:15 | [ruxex-ratatui-termion](https://crates.io/crates/ruxex-ratatui-termion) | 0.1.2 | 0 | Termion backend for the Ratatui Terminal UI library. |
+| 2026-10-20 08:51:38 | [ruxex-ratatui-termwiz](https://crates.io/crates/ruxex-ratatui-termwiz) | 0.1.2 | 0 | Termwiz backend for the Ratatui Terminal UI library. |
+| 2026-10-20 08:51:58 | [pemba-schema](https://crates.io/crates/pemba-schema) | 0.1.0-alpha.1 | 0 | Schema language for pemba: lexer, parser, validator, compiled IR and printer. |
+| 2026-10-20 08:52:01 | [pemba-core](https://crates.io/crates/pemba-core) | 0.1.0-alpha.1 | 0 | Core of pemba: model types, store traits, write logic, evaluator and Engine. |
+| 2026-10-20 08:52:03 | [pemba-sqlite-common](https://crates.io/crates/pemba-sqlite-common) | 0.1.0-alpha.1 | 0 | Driver-independent SQLite text and logic for pemba's SQLite stores. |
+| 2026-10-20 08:52:04 | [pemba-store-memory](https://crates.io/crates/pemba-store-memory) | 0.1.0-alpha.1 | 0 | In-memory relationship store for pemba. |
+| 2026-10-20 08:52:06 | [pemba-fixtures](https://crates.io/crates/pemba-fixtures) | 0.1.0-alpha.1 | 0 | Fixture format and runner for pemba (`pemba test`). |
+| 2026-10-20 08:52:49 | [plakous-store](https://crates.io/crates/plakous-store) | 0.0.1 | 0 | Durable session-store backends for Plakous |
+| 2026-10-20 08:55:21 | [leptos-use-intl-number-format](https://crates.io/crates/leptos-use-intl-number-format) | 0.20.0 | 0 | Reactive [`Intl.NumberFormat`](https://developer.mozilla.org/en-US/docs/Web/Jav… |
+| 2026-10-20 08:56:18 | [maonline_cli](https://crates.io/crates/maonline_cli) | 0.0.1 | 0 | A command-line interface for M&A Online. |
+| 2026-10-20 08:57:13 | [simple_physics_kit_rust](https://crates.io/crates/simple_physics_kit_rust) | 0.1.0 | 0 | A lightweight physics calculation library written in Rust |
+| 2026-10-20 09:00:08 | [cendrillon](https://crates.io/crates/cendrillon) | 0.1.0 | 0 | A macOS background daemon that deletes unused Bazel caches and Cargo build outp… |
+| 2026-10-20 09:00:08 | [plakous](https://crates.io/crates/plakous) | 0.0.1 | 0 | Provider-neutral, library-first agent harness library |
+| 2026-10-20 09:01:25 | [paperpaw-plugin-diagnostics](https://crates.io/crates/paperpaw-plugin-diagnostics) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-d… |
+| 2026-10-20 09:01:25 | [shuvarie-codemode](https://crates.io/crates/shuvarie-codemode) | 0.5.0 | 0 | Blazingly fast AI coding TUI for chivalrous people (codemode scripting module) |
+| 2026-10-20 09:02:11 | [minidbg](https://crates.io/crates/minidbg) | 0.2.0 | 0 | A low-memory unidbg: run Android arm64 and armv7 .so files on a computer, in Ru… |
+| 2026-10-20 09:04:02 | [ruxex-ratatui](https://crates.io/crates/ruxex-ratatui) | 0.30.2 | 0 | A library that's all about cooking up terminal user interfaces |
+| 2026-10-20 09:04:35 | [tsplibp](https://crates.io/crates/tsplibp) | 0.1.0 | 0 | A fast, ergonomic TSPLIB95 parser and distance calculator for Rust |
+| 2026-10-20 09:05:18 | [leptos-use-is](https://crates.io/crates/leptos-use-is) | 0.20.0 | 0 | Reactive is_ok / is_err / is_some / is_none signals for Leptos |
+| 2026-10-20 09:05:52 | [typesafers](https://crates.io/crates/typesafers) | 0.3.1 | 0 | An idiomatic async Rust client for the TypeSafe AI API |
+| 2026-10-20 09:07:31 | [plakous-recursive-subagents](https://crates.io/crates/plakous-recursive-subagents) | 0.0.1 | 0 | One durable agent tree per root session: nodes, grants, attempts, candidates, m… |
+| 2026-10-20 09:11:18 | [paperpaw-plugin-dictionary](https://crates.io/crates/paperpaw-plugin-dictionary) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-d… |
+| 2026-10-20 09:13:53 | [relay-framework-cli](https://crates.io/crates/relay-framework-cli) | 0.4.0 | 0 | Утилита relay: проверка проекта и управление компонентами Relay |
+| 2026-10-20 09:13:57 | [relay-macros](https://crates.io/crates/relay-macros) | 0.4.0 | 0 | Процедурные макросы библиотеки Relay: #[proxy] и #[template] |
+| 2026-10-20 09:14:06 | [opencie-pkcs11](https://crates.io/crates/opencie-pkcs11) | 0.5.0 | 0 | Safe Rust bindings for libopencie-pkcs11: PKCS#11 and CIE extensions for the It… |
+| 2026-10-20 09:14:59 | [open-client-proc-macros](https://crates.io/crates/open-client-proc-macros) | 0.1.0 | 0 | Procedural macros for open-client |
+| 2026-10-20 09:15:21 | [leptos-use-locales](https://crates.io/crates/leptos-use-locales) | 0.20.0 | 0 | Reactive locales |
+| 2026-10-20 09:15:36 | [open-client](https://crates.io/crates/open-client) | 0.1.0 | 0 | Library to use any OpenAI compatible API (OpenAI, DeepSeek, Ollama, vLLM, OpenR… |
+| 2026-10-20 09:19:25 | [worldmonitor](https://crates.io/crates/worldmonitor) | 0.1.0 | 0 | Official Rust SDK for World Monitor intelligence data and MCP tools |
+| 2026-10-20 09:20:47 | [windows-window-pre](https://crates.io/crates/windows-window-pre) | 0.104.0 | 0 | windows-window from microsoft/windows-rs at e978672b0, published for guinea unt… |
+| 2026-10-20 09:21:20 | [paperpaw-plugin-file-manager](https://crates.io/crates/paperpaw-plugin-file-manager) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-f… |
 
 ## Data source
 

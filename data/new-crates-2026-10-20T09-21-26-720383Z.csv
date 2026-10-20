@@ -1,0 +1,53 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T08:19:39.147031Z,opencv-no-c,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,Facade re-exporting the pure-Rust OpenCV module ports.
+2026-10-20T08:21:14.918507Z,paperpaw-plugin-aids,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-aids"
+2026-10-20T08:23:41.381992Z,plakous-openrouter,0.0.1,0,0,https://github.com/N0xMare/plak,"Dynamic OpenRouter Chat, Responses, and Messages dialects for Plakous"
+2026-10-20T08:25:16.574603Z,leptos-use-interval-fn,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Wrapper for `set_interval` with controls
+2026-10-20T08:26:25.014709Z,rogo,2.1.0,0,0,https://github.com/bitboxx/rogo,"Multilingual search over a folder of text: BM25 and embeddings, fused"
+2026-10-20T08:28:32.913019Z,midwess-hero,1.0.1,0,0,https://github.com/Midwess/hero,Opt-in cross-platform runtime and service integration utilities
+2026-10-20T08:30:57.266189Z,plakous-prompts,0.0.1,0,0,https://github.com/N0xMare/plak,"Model-visible instruction text, the first-turn assembler, recommended harness profiles, and AGENTS.md discovery"
+2026-10-20T08:31:14.185396Z,paperpaw-plugin-battery,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-20T08:33:53.716217Z,tobii,0.1.0,0,0,https://github.com/eugenehp/tobii-rs,"Tobii Pro Glasses 2, 3 and X in pure Rust: control, live data and video, recordings, and gaze analysis (I-VT, I2MC, blinks, AOIs)"
+2026-10-20T08:35:21.075268Z,leptos-use-interval,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive counter increases on every interval
+2026-10-20T08:37:57.374967Z,ruxex-ratatui-core,0.1.2,0,0,https://github.com/Ruxex/ruxex-ratatui,Core types and traits for the Ratatui Terminal UI library. Widget libraries should use this crate. Applications should use the main Ratatui crate.
+2026-10-20T08:38:13.583801Z,plakous-py-eval,0.0.1,0,0,https://github.com/N0xMare/plak,monty-pool py-ptc session for Plak Code Mode
+2026-10-20T08:38:34.911739Z,ruxex-ratatui-crossterm,0.1.2,0,0,https://github.com/Ruxex/ruxex-ratatui,Crossterm backend for the Ratatui Terminal UI library.
+2026-10-20T08:39:13.944884Z,faster_enhancer_rs,0.1.0,0,0,https://github.com/TanixLu/faster_enhancer_rs,Dependency-free x86-64 streaming FastEnhancer-Medium speech enhancement
+2026-10-20T08:41:16.490877Z,paperpaw-plugin-browser,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-browser"
+2026-10-20T08:42:05.801085Z,chromaglyph-node,0.4.1,0,0,https://github.com/chromaglyph/chromaglyph,@chromaglyph/node — napi-rs bindings for chromaglyph-core
+2026-10-20T08:45:15.91551Z,leptos-use-intl-datetime-format,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive [`Intl.DateTimeFormat`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat)
+2026-10-20T08:50:04.756605Z,ruxex-ratatui-widgets,0.3.2,0,0,https://github.com/Ruxex/ruxex-ratatui,A collection of Ratatui widgets for building terminal user interfaces using Ratatui.
+2026-10-20T08:50:38.580077Z,ruxex-ratatui-macros,0.7.2,0,0,https://github.com/Ruxex/ruxex-ratatui,Macros for Ratatui
+2026-10-20T08:51:13.42838Z,ruxex-ratatui-termina,0.1.0,0,0,https://github.com/Ruxex/ruxex-ratatui,Termina backend for the Ratatui Terminal UI library.
+2026-10-20T08:51:15.168496Z,paperpaw-plugin-calibre,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-calibre"
+2026-10-20T08:51:15.863583Z,ruxex-ratatui-termion,0.1.2,0,0,https://github.com/Ruxex/ruxex-ratatui,Termion backend for the Ratatui Terminal UI library.
+2026-10-20T08:51:38.723775Z,ruxex-ratatui-termwiz,0.1.2,0,0,https://github.com/Ruxex/ruxex-ratatui,Termwiz backend for the Ratatui Terminal UI library.
+2026-10-20T08:51:58.384601Z,pemba-schema,0.1.0-alpha.1,0,0,https://github.com/Joshua-Fields/pemba,"Schema language for pemba: lexer, parser, validator, compiled IR and printer."
+2026-10-20T08:52:01.086058Z,pemba-core,0.1.0-alpha.1,0,0,https://github.com/Joshua-Fields/pemba,"Core of pemba: model types, store traits, write logic, evaluator and Engine."
+2026-10-20T08:52:03.654741Z,pemba-sqlite-common,0.1.0-alpha.1,0,0,https://github.com/Joshua-Fields/pemba,Driver-independent SQLite text and logic for pemba's SQLite stores.
+2026-10-20T08:52:04.372691Z,pemba-store-memory,0.1.0-alpha.1,0,0,https://github.com/Joshua-Fields/pemba,In-memory relationship store for pemba.
+2026-10-20T08:52:06.39487Z,pemba-fixtures,0.1.0-alpha.1,0,0,https://github.com/Joshua-Fields/pemba,Fixture format and runner for pemba (`pemba test`).
+2026-10-20T08:52:49.346904Z,plakous-store,0.0.1,0,0,https://github.com/N0xMare/plak,Durable session-store backends for Plakous
+2026-10-20T08:55:21.832458Z,leptos-use-intl-number-format,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive [`Intl.NumberFormat`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat)
+2026-10-20T08:56:18.686325Z,maonline_cli,0.0.1,0,0,https://github.com/strikegroup/maonline_cli,A command-line interface for M&A Online.
+2026-10-20T08:57:13.007545Z,simple_physics_kit_rust,0.1.0,0,0,,A lightweight physics calculation library written in Rust
+2026-10-20T09:00:08.000318Z,cendrillon,0.1.0,0,0,https://github.com/ae2rs/cendrillon,A macOS background daemon that deletes unused Bazel caches and Cargo build output
+2026-10-20T09:00:08.885421Z,plakous,0.0.1,0,0,https://github.com/N0xMare/plak,"Provider-neutral, library-first agent harness library"
+2026-10-20T09:01:25.051251Z,paperpaw-plugin-diagnostics,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-diagnostics"
+2026-10-20T09:01:25.975039Z,shuvarie-codemode,0.5.0,0,0,https://github.com/shuvarie/shuvarie.git,Blazingly fast AI coding TUI for chivalrous people (codemode scripting module)
+2026-10-20T09:02:11.252776Z,minidbg,0.2.0,0,0,https://github.com/zhoupb01/minidbg,"A low-memory unidbg: run Android arm64 and armv7 .so files on a computer, in Rust on Unicorn."
+2026-10-20T09:04:02.702201Z,ruxex-ratatui,0.30.2,0,0,https://github.com/Ruxex/ruxex-ratatui,A library that's all about cooking up terminal user interfaces
+2026-10-20T09:04:35.679825Z,tsplibp,0.1.0,0,0,https://github.com/Fereon/tsplibp,"A fast, ergonomic TSPLIB95 parser and distance calculator for Rust"
+2026-10-20T09:05:18.666198Z,leptos-use-is,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive is_ok / is_err / is_some / is_none signals for Leptos
+2026-10-20T09:05:52.249529Z,typesafers,0.3.1,0,0,https://github.com/ppweni/typesafers,An idiomatic async Rust client for the TypeSafe AI API
+2026-10-20T09:07:31.556148Z,plakous-recursive-subagents,0.0.1,0,0,https://github.com/N0xMare/plak,"One durable agent tree per root session: nodes, grants, attempts, candidates, mail, epochs, and the nine topology tools"
+2026-10-20T09:11:18.689543Z,paperpaw-plugin-dictionary,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-dictionary"
+2026-10-20T09:13:53.564962Z,relay-framework-cli,0.4.0,0,0,https://github.com/relay-rs/relay,Утилита relay: проверка проекта и управление компонентами Relay
+2026-10-20T09:13:57.537544Z,relay-macros,0.4.0,0,0,https://github.com/relay-rs/relay,Процедурные макросы библиотеки Relay: #[proxy] и #[template]
+2026-10-20T09:14:06.808Z,opencie-pkcs11,0.5.0,0,0,https://github.com/M0Rf30/opencie-pkcs11-rs,"Safe Rust bindings for libopencie-pkcs11: PKCS#11 and CIE extensions for the Italian electronic identity card, loaded at runtime"
+2026-10-20T09:14:59.680006Z,open-client-proc-macros,0.1.0,0,0,https://github.com/Suryansh-Dey/llms-client,Procedural macros for open-client
+2026-10-20T09:15:21.162597Z,leptos-use-locales,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive locales
+2026-10-20T09:15:36.265383Z,open-client,0.1.0,0,0,https://github.com/Suryansh-Dey/llms-client,"Library to use any OpenAI compatible API (OpenAI, DeepSeek, Ollama, vLLM, OpenRouter...). Automatic context management, schema generation, function calling and more."
+2026-10-20T09:19:25.937168Z,worldmonitor,0.1.0,0,0,https://github.com/koala73/worldmonitor,Official Rust SDK for World Monitor intelligence data and MCP tools
+2026-10-20T09:20:47.222705Z,windows-window-pre,0.104.0,0,0,https://github.com/guinea-rs/guinea,"windows-window from microsoft/windows-rs at e978672b0, published for guinea until windows-rs releases it"
+2026-10-20T09:21:20.545341Z,paperpaw-plugin-file-manager,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-file-manager"
