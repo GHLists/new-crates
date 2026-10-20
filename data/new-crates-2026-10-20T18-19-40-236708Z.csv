@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T17:20:31.094079Z,oxframe-components,0.4.0,0,0,https://github.com/oxygenframe/oxframe-sdk,"Ready-made blocks for explainer videos: titles, lists, diagrams, code"
+2026-10-20T17:20:51.502665Z,oxsearch-synonyms,0.2.0,0,0,https://github.com/agentstatelabs/oxsearch,"Synonym sets for oxsearch, generated from the Elasticsearch specification"
+2026-10-20T17:24:57.631834Z,mojom-codec-core,0.1.0,0,0,https://github.com/looading/mojo-ipc,Mojom wire encoding and decoding for the unofficial Mojo Rust SDK
+2026-10-20T17:25:43.603473Z,forklaunch-cac-base,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust cac base APIs and runtime support
+2026-10-20T17:25:46.401487Z,forklaunch-iam-base,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust iam base APIs and runtime support
+2026-10-20T17:25:49.518276Z,forklaunch-billing-stripe,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust billing stripe APIs and runtime support
+2026-10-20T17:25:52.460474Z,forklaunch-worker-database,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust worker database APIs and runtime support
+2026-10-20T17:26:10.037271Z,graphql-core,0.1.0,0,0,https://github.com/lemonberrylabs/federation-composition,"A Rust port of graphql-js: parser, printer, visitor and schema validation"
+2026-10-20T17:26:24.734809Z,federation-composition,0.1.0,0,0,https://github.com/lemonberrylabs/federation-composition,Apollo Federation schema composition: a Rust port of @theguild/federation-composition
+2026-10-20T17:26:49.699691Z,litek8s,0.1.0,0,0,https://github.com/jairoFernandez/litek8s,"A lightweight Kubernetes in one binary: the real API, dev clusters, a Docker API, a terminal UI and built-in observability"
+2026-10-20T17:27:24.413971Z,ra-jit-hir-ty,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's hir-ty crate, used by ra-jit"
+2026-10-20T17:30:20.895318Z,ridl-transport-ws,0.12.0,0,0,https://github.com/driftsys/ridl,The WebSocket binding of the ridl frame: a no_std codec and a server for ridl-rt ports.
+2026-10-20T17:30:51.384796Z,oxsearch-async-search,0.2.0,0,0,https://github.com/agentstatelabs/oxsearch,"Async search for oxsearch, generated from the Elasticsearch specification: searches that run in the background, read as they progress"
+2026-10-20T17:35:00.101478Z,mojom-codec,0.1.0,0,0,https://github.com/looading/mojo-ipc,Mojom codec facade for the unofficial Chromium Mojo Rust SDK
+2026-10-20T17:35:59.831462Z,forklaunch-ecommerce-base,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust ecommerce base APIs and runtime support
+2026-10-20T17:37:24.182925Z,ra-jit-hir-ide,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's hir-ide crate, used by ra-jit"
+2026-10-20T17:39:47.542965Z,electronic-patient-record-matcher,0.1.0,0,0,,"Electronic patient record matcher: pure, deterministic, explainable patient identity matching for a master patient index"
+2026-10-20T17:40:51.316306Z,oxsearch-sql,0.2.0,0,0,https://github.com/agentstatelabs/oxsearch,"SQL for oxsearch, generated from the Elasticsearch specification: queries, cursors and their translation into search requests"
+2026-10-20T17:44:57.634344Z,mojo-bindings,0.1.0,0,0,https://github.com/looading/mojo-ipc,Typed Mojo Remote and Receiver bindings for the unofficial Rust SDK
+2026-10-20T17:46:07.220308Z,forklaunch-worker-kafka,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust worker kafka APIs and runtime support
+2026-10-20T17:47:06.688343Z,lumenwright-kernel,0.1.0,0,0,https://github.com/stellarfeline/lumenwright,"The no_std path-tracing kernel of the lumenwright Minecraft renderer, shared by its CPU and CUDA backends"
+2026-10-20T17:47:24.274907Z,ra-jit-hir,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's hir crate, used by ra-jit"
+2026-10-20T17:47:47.927971Z,veks-datatypes,4.0.0,0,0,https://github.com/nosqlbench/vectordata-rs,"The element model shared by vectordata and veks: element types, the one extension table, and the conversion rules between types"
+2026-10-20T17:47:55.460862Z,caliper-docgen-core,0.2.1,0,0,,Fast React prop extraction via OXC — core library
+2026-10-20T17:47:55.585834Z,lumenwright,0.1.0,0,0,https://github.com/stellarfeline/lumenwright,"Offline, headless renderer for Minecraft Java Edition worlds: a vanilla-look rasterizer and a path tracer, on the CPU, Metal, Vulkan, DX12 and CUDA"
+2026-10-20T17:48:24.563478Z,caliper-docgen,0.2.1,0,0,,Fast React prop extraction — CLI
+2026-10-20T17:48:46.670308Z,max-inscribed-circle,0.1.1,0,0,https://github.com/Wolren/MaxInscribedCircle,"Finds the largest circle that fits inside a polygon, using closed-form fast paths then a branch-and-bound grid over a BVH nearest-boundary index."
+2026-10-20T17:48:56.967381Z,oriented-bounding-box,0.1.1,0,0,https://github.com/Wolren/OrientedBoundingBox,"Finds the tightest oriented box around a polygon, with rotating-calipers min-area, aspect-ratio constrained expansion, and exact aspect-fit rotation."
+2026-10-20T17:49:32.381169Z,s3-multipartdownload,0.1.0,0,0,https://github.com/ranjithkumarmv/s3-multipartdownload-rs,"Fast parallel S3 downloads: split large Amazon S3 objects into byte ranges, fetch them concurrently with the AWS SDK for Rust and write each straight to its offset on disk, with retries, progress and…"
+2026-10-20T17:50:55.231219Z,purrtop,1.0.0,0,0,https://github.com/pinkpixel-dev/purrtop,"A colorful system monitor and task manager for Linux, built with GPUI Kit"
+2026-10-20T17:53:42.515016Z,dynamo-decisions,0.1.0,0,0,https://github.com/ai-dynamo/frontend-crates.git,"Runtime-independent decision API validation, normalization, and response projection."
+2026-10-20T17:54:33.852353Z,snappea,0.1.0,0,0,https://github.com/crowecawcaw/snappea,"The P modeling language in Rust: emit events from your application and check them against P specs in tests, plus the `snappea` checker"
+2026-10-20T17:54:56.811624Z,mojo-ipc,0.1.0,0,0,https://github.com/looading/mojo-ipc,Standalone Rust IPC SDK using the pinned Chromium Mojo runtime
+2026-10-20T17:56:15.900535Z,forklaunch-worker-redis,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust worker redis APIs and runtime support
+2026-10-20T17:57:23.925116Z,ra-jit-ide-db,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's ide-db crate, used by ra-jit"
+2026-10-20T17:58:13.704155Z,devlanes,0.0.1,0,0,https://github.com/devlanes-run/devlanes,"Parallel local dev environments: run many copies of your stack across git worktrees. Name reserved, under active development."
+2026-10-20T18:04:11.957001Z,unbought-auth,0.1.0,0,0,https://github.com/unbought-games/unbought-rs,Framework-independent OIDC relying party integration for Unbought games
+2026-10-20T18:06:23.442232Z,forklaunch-ecommerce-paypal,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust ecommerce paypal APIs and runtime support
+2026-10-20T18:07:24.319225Z,ra-jit-ide-diagnostics,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's ide-diagnostics crate, used by ra-jit"
+2026-10-20T18:15:30.665944Z,qrunap2,0.1.1,0,0,https://github.com/Medialoco/QRUNAP2,A documented subset of QNAP2 for queueing network simulation
+2026-10-20T18:15:44.033263Z,orchestrator-agent,0.1.0,0,0,https://github.com/hailp-vn38/orchestrator_agent_rs,"Embeddable Root/Subagent orchestrator for Tokio hosts: durable SQLite history, crash recovery, tools, skills and local artifacts"
+2026-10-20T18:16:30.848025Z,forklaunch-ecommerce-stripe,0.1.0,0,0,https://github.com/forklaunch/forklaunch-js,ForkLaunch Rust ecommerce stripe APIs and runtime support
+2026-10-20T18:17:23.839182Z,ra-jit-load-cargo,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's load-cargo crate, used by ra-jit"

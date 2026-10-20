@@ -8,63 +8,57 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 17:19 UTC
+## Latest list — 2026-10-20 18:19 UTC
 
-New crates published between 2026-10-20 16:20 UTC and 2026-10-20 17:19 UTC.
+New crates published between 2026-10-20 17:19 UTC and 2026-10-20 18:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-20T17-19-25-822806Z.csv)
+[Full CSV](data/new-crates-2026-10-20T18-19-40-236708Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-20 16:20:51 | [oxsearch-enrich](https://crates.io/crates/oxsearch-enrich) | 0.2.0 | 0 | Enrich policies for oxsearch, generated from the Elasticsearch specification: l… |
-| 2026-10-20 16:27:23 | [ra-jit-base-db](https://crates.io/crates/ra-jit-base-db) | 0.1.0 | 0 | Fork of rust-analyzer's base-db crate, used by ra-jit |
-| 2026-10-20 16:27:30 | [tembo-rs](https://crates.io/crates/tembo-rs) | 0.2.0 | 0 | Rust library to access the Tembo SDK API |
-| 2026-10-20 16:28:26 | [dsc_lib](https://crates.io/crates/dsc_lib) | 1.0.0 | 0 | DSC lines and config parser |
-| 2026-10-20 16:30:54 | [oxsearch-admin](https://crates.io/crates/oxsearch-admin) | 0.2.0 | 0 | Cluster, index and node administration APIs for oxsearch, generated from the El… |
-| 2026-10-20 16:36:18 | [utilvo-edge-shield](https://crates.io/crates/utilvo-edge-shield) | 1.1.0 | 0 | Open-source server firewall generator, CIDR/ASN threat intelligence feed (AS132… |
-| 2026-10-20 16:37:23 | [ra-jit-mbe](https://crates.io/crates/ra-jit-mbe) | 0.1.0 | 0 | Fork of rust-analyzer's mbe crate, used by ra-jit |
-| 2026-10-20 16:37:59 | [cortexkit-role-agent-inbox](https://crates.io/crates/cortexkit-role-agent-inbox) | 0.1.0 | 0 | Wire contract, neutralization and vectors for the CortexKit agent-inbox/v1 capa… |
-| 2026-10-20 16:40:04 | [forklaunch-billing-interface](https://crates.io/crates/forklaunch-billing-interface) | 0.1.0 | 0 | ForkLaunch Rust billing interface APIs and runtime support |
-| 2026-10-20 16:40:07 | [forklaunch-cac-interface](https://crates.io/crates/forklaunch-cac-interface) | 0.1.0 | 0 | ForkLaunch Rust cac interface APIs and runtime support |
-| 2026-10-20 16:40:10 | [forklaunch-ecommerce-interface](https://crates.io/crates/forklaunch-ecommerce-interface) | 0.1.0 | 0 | ForkLaunch Rust ecommerce interface APIs and runtime support |
-| 2026-10-20 16:40:12 | [forklaunch-iam-interface](https://crates.io/crates/forklaunch-iam-interface) | 0.1.0 | 0 | ForkLaunch Rust iam interface APIs and runtime support |
-| 2026-10-20 16:40:15 | [forklaunch-worker-interface](https://crates.io/crates/forklaunch-worker-interface) | 0.1.0 | 0 | ForkLaunch Rust worker interface APIs and runtime support |
-| 2026-10-20 16:40:52 | [oxsearch-aggs](https://crates.io/crates/oxsearch-aggs) | 0.2.0 | 0 | Aggregation requests and typed aggregation results for oxsearch, generated from… |
-| 2026-10-20 16:41:20 | [jsxrs-core](https://crates.io/crates/jsxrs-core) | 0.1.6 | 0 | Shared parsing, validation, schema, and route-discovery components for jsxrs. |
-| 2026-10-20 16:41:22 | [jsxrs-macros](https://crates.io/crates/jsxrs-macros) | 0.1.6 | 0 | Compile-time component and route macros for jsxrs. |
-| 2026-10-20 16:42:31 | [nv-redfish-server-core](https://crates.io/crates/nv-redfish-server-core) | 0.20.0 | 0 | Serialization primitives for generated Redfish server models |
-| 2026-10-20 16:42:48 | [nv-redfish-quirks](https://crates.io/crates/nv-redfish-quirks) | 0.20.0 | 0 | Platform quirks for nv-redfish: classification, document repairs, and a repairi… |
-| 2026-10-20 16:43:06 | [retex-svg](https://crates.io/crates/retex-svg) | 1.1.0 | 0 | SVG output for retex: the pages of a PDF file as one multi-page SVG document |
-| 2026-10-20 16:44:09 | [dc-core](https://crates.io/crates/dc-core) | 0.1.0 | 0 | Shared enums and constants for the DC Highs Dragon City crates (fan-made, not a… |
-| 2026-10-20 16:44:41 | [dc-localization](https://crates.io/crates/dc-localization) | 0.1.0 | 0 | Dragon City localization (translations) fetching and lookup (fan-made, not affi… |
-| 2026-10-20 16:44:52 | [dc-statistics](https://crates.io/crates/dc-statistics) | 0.1.0 | 0 | Generate comprehensive statistics from Dragon City configuration data (fan-made… |
-| 2026-10-20 16:46:32 | [dc-assets](https://crates.io/crates/dc-assets) | 0.1.0 | 0 | Download static assets (sprites, thumbnails, animations, music) from the Dragon… |
-| 2026-10-20 16:47:05 | [dc-config](https://crates.io/crates/dc-config) | 0.1.0 | 0 | Access Dragon City game configuration data (fan-made, not affiliated with Socia… |
-| 2026-10-20 16:47:23 | [ra-jit-hir-expand](https://crates.io/crates/ra-jit-hir-expand) | 0.1.0 | 0 | Fork of rust-analyzer's hir-expand crate, used by ra-jit |
-| 2026-10-20 16:47:26 | [ls-worktrees](https://crates.io/crates/ls-worktrees) | 0.1.6 | 0 | Fast read-only list of git worktrees: branch, dirty state, ahead/behind — at a… |
-| 2026-10-20 16:50:10 | [texera-pluggins](https://crates.io/crates/texera-pluggins) | 0.1.0 | 0 | Plugins and extensions for the Texera editor ecosystem, ported from CodeMirror. |
-| 2026-10-20 16:50:24 | [forklaunch-billing-base](https://crates.io/crates/forklaunch-billing-base) | 0.1.0 | 0 | ForkLaunch Rust billing base APIs and runtime support |
-| 2026-10-20 16:50:51 | [oxsearch-eql](https://crates.io/crates/oxsearch-eql) | 0.2.0 | 0 | EQL for oxsearch, generated from the Elasticsearch specification: event and seq… |
-| 2026-10-20 16:52:30 | [tv-rs-local](https://crates.io/crates/tv-rs-local) | 0.2.0 | 0 | Local display probing: connector, EDID identity, physical size and TV likelihoo… |
-| 2026-10-20 16:52:33 | [nrfdfu-reset](https://crates.io/crates/nrfdfu-reset) | 0.1.0 | 0 | Reset nRF devices into DFU mode over USB with the Nordic USB DFU trigger |
-| 2026-10-20 16:53:11 | [tv-rs-dlna](https://crates.io/crates/tv-rs-dlna) | 0.2.0 | 0 | DLNA/UPnP MediaRenderer transport: SSDP discovery, AVTransport SOAP control, GE… |
-| 2026-10-20 16:56:06 | [crtsim-core](https://crates.io/crates/crtsim-core) | 1.5.0 | 0 | J. Kyle Pittman's CRTSim on wgpu: composite artifacts, persistence, a ray-trace… |
-| 2026-10-20 16:57:24 | [ra-jit-project-model](https://crates.io/crates/ra-jit-project-model) | 0.1.0 | 0 | Fork of rust-analyzer's project-model crate, used by ra-jit |
-| 2026-10-20 16:59:57 | [cortexkit-role-agent-inbox-conformance](https://crates.io/crates/cortexkit-role-agent-inbox-conformance) | 0.1.0 | 0 | Conformance runner for a live CortexKit agent-inbox/v1 implementer. |
-| 2026-10-20 17:00:51 | [oxsearch-search-application](https://crates.io/crates/oxsearch-search-application) | 0.2.0 | 0 | Search applications for oxsearch, generated from the Elasticsearch specificatio… |
-| 2026-10-20 17:02:39 | [stellar-confidential](https://crates.io/crates/stellar-confidential) | 0.8.0 | 0 | Confidential token with encrypted balances and zero-knowledge proofs for the St… |
-| 2026-10-20 17:06:53 | [rinai](https://crates.io/crates/rinai) | 0.0.1 | 0 | ai toolkit cli |
-| 2026-10-20 17:06:53 | [rinai-contrib](https://crates.io/crates/rinai-contrib) | 0.0.1 | 0 | ai toolkit extra ready for use modules |
-| 2026-10-20 17:06:54 | [rinai-core](https://crates.io/crates/rinai-core) | 0.0.1 | 0 | ai toolkit core lib |
-| 2026-10-20 17:06:57 | [mojo-sys](https://crates.io/crates/mojo-sys) | 0.1.0 | 0 | FFI types and dynamic dispatch for the unofficial Chromium Mojo Rust SDK |
-| 2026-10-20 17:06:58 | [mojom-build](https://crates.io/crates/mojom-build) | 0.1.0 | 0 | Cargo integration for the pinned Chromium Mojom Rust generator |
-| 2026-10-20 17:06:59 | [mojom-derive](https://crates.io/crates/mojom-derive) | 0.1.0 | 0 | Mojom serialization derive macros for the unofficial Mojo Rust SDK |
-| 2026-10-20 17:07:00 | [mojo-c-api](https://crates.io/crates/mojo-c-api) | 0.1.0 | 0 | Safe Mojo C API wrappers for the unofficial Chromium Mojo Rust SDK |
-| 2026-10-20 17:07:01 | [mojo-sequence](https://crates.io/crates/mojo-sequence) | 0.1.0 | 0 | Chromium task sequence integration for the unofficial Mojo Rust SDK |
-| 2026-10-20 17:07:24 | [ra-jit-hir-def](https://crates.io/crates/ra-jit-hir-def) | 0.1.0 | 0 | Fork of rust-analyzer's hir-def crate, used by ra-jit |
-| 2026-10-20 17:10:51 | [oxsearch-snapshot](https://crates.io/crates/oxsearch-snapshot) | 0.2.0 | 0 | Snapshots for oxsearch, generated from the Elasticsearch specification: reposit… |
-| 2026-10-20 17:14:59 | [mojo-system](https://crates.io/crates/mojo-system) | 0.1.0 | 0 | Mojo handles, message pipes, shared buffers and traps for Rust |
-| 2026-10-20 17:17:23 | [ra-jit-test-fixture](https://crates.io/crates/ra-jit-test-fixture) | 0.1.0 | 0 | Fork of rust-analyzer's test-fixture crate, used by ra-jit |
+| 2026-10-20 17:20:31 | [oxframe-components](https://crates.io/crates/oxframe-components) | 0.4.0 | 0 | Ready-made blocks for explainer videos: titles, lists, diagrams, code |
+| 2026-10-20 17:20:51 | [oxsearch-synonyms](https://crates.io/crates/oxsearch-synonyms) | 0.2.0 | 0 | Synonym sets for oxsearch, generated from the Elasticsearch specification |
+| 2026-10-20 17:24:57 | [mojom-codec-core](https://crates.io/crates/mojom-codec-core) | 0.1.0 | 0 | Mojom wire encoding and decoding for the unofficial Mojo Rust SDK |
+| 2026-10-20 17:25:43 | [forklaunch-cac-base](https://crates.io/crates/forklaunch-cac-base) | 0.1.0 | 0 | ForkLaunch Rust cac base APIs and runtime support |
+| 2026-10-20 17:25:46 | [forklaunch-iam-base](https://crates.io/crates/forklaunch-iam-base) | 0.1.0 | 0 | ForkLaunch Rust iam base APIs and runtime support |
+| 2026-10-20 17:25:49 | [forklaunch-billing-stripe](https://crates.io/crates/forklaunch-billing-stripe) | 0.1.0 | 0 | ForkLaunch Rust billing stripe APIs and runtime support |
+| 2026-10-20 17:25:52 | [forklaunch-worker-database](https://crates.io/crates/forklaunch-worker-database) | 0.1.0 | 0 | ForkLaunch Rust worker database APIs and runtime support |
+| 2026-10-20 17:26:10 | [graphql-core](https://crates.io/crates/graphql-core) | 0.1.0 | 0 | A Rust port of graphql-js: parser, printer, visitor and schema validation |
+| 2026-10-20 17:26:24 | [federation-composition](https://crates.io/crates/federation-composition) | 0.1.0 | 0 | Apollo Federation schema composition: a Rust port of @theguild/federation-compo… |
+| 2026-10-20 17:26:49 | [litek8s](https://crates.io/crates/litek8s) | 0.1.0 | 0 | A lightweight Kubernetes in one binary: the real API, dev clusters, a Docker AP… |
+| 2026-10-20 17:27:24 | [ra-jit-hir-ty](https://crates.io/crates/ra-jit-hir-ty) | 0.1.0 | 0 | Fork of rust-analyzer's hir-ty crate, used by ra-jit |
+| 2026-10-20 17:30:20 | [ridl-transport-ws](https://crates.io/crates/ridl-transport-ws) | 0.12.0 | 0 | The WebSocket binding of the ridl frame: a no_std codec and a server for ridl-r… |
+| 2026-10-20 17:30:51 | [oxsearch-async-search](https://crates.io/crates/oxsearch-async-search) | 0.2.0 | 0 | Async search for oxsearch, generated from the Elasticsearch specification: sear… |
+| 2026-10-20 17:35:00 | [mojom-codec](https://crates.io/crates/mojom-codec) | 0.1.0 | 0 | Mojom codec facade for the unofficial Chromium Mojo Rust SDK |
+| 2026-10-20 17:35:59 | [forklaunch-ecommerce-base](https://crates.io/crates/forklaunch-ecommerce-base) | 0.1.0 | 0 | ForkLaunch Rust ecommerce base APIs and runtime support |
+| 2026-10-20 17:37:24 | [ra-jit-hir-ide](https://crates.io/crates/ra-jit-hir-ide) | 0.1.0 | 0 | Fork of rust-analyzer's hir-ide crate, used by ra-jit |
+| 2026-10-20 17:39:47 | [electronic-patient-record-matcher](https://crates.io/crates/electronic-patient-record-matcher) | 0.1.0 | 0 | Electronic patient record matcher: pure, deterministic, explainable patient ide… |
+| 2026-10-20 17:40:51 | [oxsearch-sql](https://crates.io/crates/oxsearch-sql) | 0.2.0 | 0 | SQL for oxsearch, generated from the Elasticsearch specification: queries, curs… |
+| 2026-10-20 17:44:57 | [mojo-bindings](https://crates.io/crates/mojo-bindings) | 0.1.0 | 0 | Typed Mojo Remote and Receiver bindings for the unofficial Rust SDK |
+| 2026-10-20 17:46:07 | [forklaunch-worker-kafka](https://crates.io/crates/forklaunch-worker-kafka) | 0.1.0 | 0 | ForkLaunch Rust worker kafka APIs and runtime support |
+| 2026-10-20 17:47:06 | [lumenwright-kernel](https://crates.io/crates/lumenwright-kernel) | 0.1.0 | 0 | The no_std path-tracing kernel of the lumenwright Minecraft renderer, shared by… |
+| 2026-10-20 17:47:24 | [ra-jit-hir](https://crates.io/crates/ra-jit-hir) | 0.1.0 | 0 | Fork of rust-analyzer's hir crate, used by ra-jit |
+| 2026-10-20 17:47:47 | [veks-datatypes](https://crates.io/crates/veks-datatypes) | 4.0.0 | 0 | The element model shared by vectordata and veks: element types, the one extensi… |
+| 2026-10-20 17:47:55 | [caliper-docgen-core](https://crates.io/crates/caliper-docgen-core) | 0.2.1 | 0 | Fast React prop extraction via OXC — core library |
+| 2026-10-20 17:47:55 | [lumenwright](https://crates.io/crates/lumenwright) | 0.1.0 | 0 | Offline, headless renderer for Minecraft Java Edition worlds: a vanilla-look ra… |
+| 2026-10-20 17:48:24 | [caliper-docgen](https://crates.io/crates/caliper-docgen) | 0.2.1 | 0 | Fast React prop extraction — CLI |
+| 2026-10-20 17:48:46 | [max-inscribed-circle](https://crates.io/crates/max-inscribed-circle) | 0.1.1 | 0 | Finds the largest circle that fits inside a polygon, using closed-form fast pat… |
+| 2026-10-20 17:48:56 | [oriented-bounding-box](https://crates.io/crates/oriented-bounding-box) | 0.1.1 | 0 | Finds the tightest oriented box around a polygon, with rotating-calipers min-ar… |
+| 2026-10-20 17:49:32 | [s3-multipartdownload](https://crates.io/crates/s3-multipartdownload) | 0.1.0 | 0 | Fast parallel S3 downloads: split large Amazon S3 objects into byte ranges, fet… |
+| 2026-10-20 17:50:55 | [purrtop](https://crates.io/crates/purrtop) | 1.0.0 | 0 | A colorful system monitor and task manager for Linux, built with GPUI Kit |
+| 2026-10-20 17:53:42 | [dynamo-decisions](https://crates.io/crates/dynamo-decisions) | 0.1.0 | 0 | Runtime-independent decision API validation, normalization, and response projec… |
+| 2026-10-20 17:54:33 | [snappea](https://crates.io/crates/snappea) | 0.1.0 | 0 | The P modeling language in Rust: emit events from your application and check th… |
+| 2026-10-20 17:54:56 | [mojo-ipc](https://crates.io/crates/mojo-ipc) | 0.1.0 | 0 | Standalone Rust IPC SDK using the pinned Chromium Mojo runtime |
+| 2026-10-20 17:56:15 | [forklaunch-worker-redis](https://crates.io/crates/forklaunch-worker-redis) | 0.1.0 | 0 | ForkLaunch Rust worker redis APIs and runtime support |
+| 2026-10-20 17:57:23 | [ra-jit-ide-db](https://crates.io/crates/ra-jit-ide-db) | 0.1.0 | 0 | Fork of rust-analyzer's ide-db crate, used by ra-jit |
+| 2026-10-20 17:58:13 | [devlanes](https://crates.io/crates/devlanes) | 0.0.1 | 0 | Parallel local dev environments: run many copies of your stack across git workt… |
+| 2026-10-20 18:04:11 | [unbought-auth](https://crates.io/crates/unbought-auth) | 0.1.0 | 0 | Framework-independent OIDC relying party integration for Unbought games |
+| 2026-10-20 18:06:23 | [forklaunch-ecommerce-paypal](https://crates.io/crates/forklaunch-ecommerce-paypal) | 0.1.0 | 0 | ForkLaunch Rust ecommerce paypal APIs and runtime support |
+| 2026-10-20 18:07:24 | [ra-jit-ide-diagnostics](https://crates.io/crates/ra-jit-ide-diagnostics) | 0.1.0 | 0 | Fork of rust-analyzer's ide-diagnostics crate, used by ra-jit |
+| 2026-10-20 18:15:30 | [qrunap2](https://crates.io/crates/qrunap2) | 0.1.1 | 0 | A documented subset of QNAP2 for queueing network simulation |
+| 2026-10-20 18:15:44 | [orchestrator-agent](https://crates.io/crates/orchestrator-agent) | 0.1.0 | 0 | Embeddable Root/Subagent orchestrator for Tokio hosts: durable SQLite history,… |
+| 2026-10-20 18:16:30 | [forklaunch-ecommerce-stripe](https://crates.io/crates/forklaunch-ecommerce-stripe) | 0.1.0 | 0 | ForkLaunch Rust ecommerce stripe APIs and runtime support |
+| 2026-10-20 18:17:23 | [ra-jit-load-cargo](https://crates.io/crates/ra-jit-load-cargo) | 0.1.0 | 0 | Fork of rust-analyzer's load-cargo crate, used by ra-jit |
 
 ## Data source
 
