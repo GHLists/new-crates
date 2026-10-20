@@ -1,0 +1,55 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T05:19:02.295534Z,unwreck-scan,0.1.0,0,0,https://github.com/ayushdoesdev/unwreck,Worktree walker and snapshot builder for unwreck
+2026-10-20T05:19:18.000062Z,ult-macos-app,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,Release app runner on macOS: the executable of packaged ult apps (no development features).
+2026-10-20T05:19:25.923801Z,unwreck-watch,0.1.0,0,0,https://github.com/ayushdoesdev/unwreck,Filesystem quiescence detection for unwreck run/watch
+2026-10-20T05:19:49.862033Z,unwreck-hooks,0.1.0,0,0,https://github.com/ayushdoesdev/unwreck,"Parse and install Claude Code, Codex, and Gemini CLI hooks for unwreck"
+2026-10-20T05:22:46.260914Z,ferraus-midi,0.1.0,0,0,https://github.com/djynnius/ferraus,"MIDI model, editing, quantize, groove, and transcription for ferraus"
+2026-10-20T05:22:55.514522Z,plakous-js-runtime,0.0.1,0,0,https://github.com/N0xMare/plak,QuickJS worker
+2026-10-20T05:25:20.175525Z,leptos-use-display-media,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive [`mediaDevices.getDisplayMedia`](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getDisplayMedia) streaming
+2026-10-20T05:29:24.924293Z,unwreck-restore,0.1.0,0,0,https://github.com/ayushdoesdev/unwreck,Conflict-aware restore planner and atomic apply for unwreck
+2026-10-20T05:29:35.190162Z,plakous-responses,0.0.1,0,0,https://github.com/N0xMare/plak,Responses-family protocol kernel primitives for Plakous
+2026-10-20T05:29:52.520177Z,ult-macos-host,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,Development host app (AppKit) that runs an ult bundle on macOS.
+2026-10-20T05:30:47.505011Z,tinyboot-ch32,0.6.0,0,0,https://github.com/OpenServoCore/tinyboot,tinyboot ch32 implementation
+2026-10-20T05:32:14.602465Z,cardfit,0.1.0,0,0,https://gitlab.cern.ch/dgrove/cardfit,"Read a CMS Combine datacard and fit it: the same likelihood as Combine (asymmetric log-normals, rateParams, autoMCStats), with every step visible"
+2026-10-20T05:32:55.390944Z,ferraus-synth,0.1.0,0,0,https://github.com/djynnius/ferraus,Built-in synthesizer and SF2/SFZ/plugin instrument rendering for ferraus
+2026-10-20T05:35:15.31549Z,leptos-use-docs,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Demo helper components used by the leptos-use examples
+2026-10-20T05:36:32.222476Z,smpp-core,0.1.1,0,0,https://github.com/chrismoos/smpp-hub,"SMPP v3.4 codec, session state machine, text encoding, and Tokio transport."
+2026-10-20T05:38:43.468952Z,unwreck-tui,0.1.0,0,0,https://github.com/ayushdoesdev/unwreck,Interactive snapshot timeline and diff pane for unwreck
+2026-10-20T05:40:40.159678Z,ult-windows-app,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,Release app runner on Windows: the executable of packaged ult apps (no development features).
+2026-10-20T05:41:15.400387Z,ult-windows-host,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,Development host app (Win32) that runs an ult bundle on Windows.
+2026-10-20T05:42:58.192446Z,plakous-tools,0.0.1,0,0,https://github.com/N0xMare/plak,"Portable tool contracts, registries, environments, and coding tools for Plakous"
+2026-10-20T05:43:22.765765Z,ferraus-score,0.1.0,0,0,https://github.com/djynnius/ferraus,"Scores and sheet music for ferraus: MIDI/audio to notation, MusicXML/ABC/LilyPond/MEI/solfa writers, readers, performance, OMR bridges"
+2026-10-20T05:44:48.026612Z,natasha,0.1.2,0,0,https://github.com/iadev09/natasha,natasha project in development.
+2026-10-20T05:45:19.540308Z,leptos-use-document-visibility,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactively track `document.visibilityState`
+2026-10-20T05:45:34.001959Z,tre2ta,0.1.1,0,0,https://github.com/MasWag/tre2ta,A Rust library for translating timed regular expressions into timed automata.
+2026-10-20T05:45:38.201032Z,config-layers,0.6.0,0,0,https://github.com/osdlc/osdlc,"Layered config files: a committed project file and a per-machine file read as YAML, merged by key, with named-directory substitution, dotted-key lookup and the check a program runs for the settings i…"
+2026-10-20T05:47:19.393372Z,ikigai-toolbox,0.1.0,0,0,https://github.com/ikigai-rs/ikigai-toolbox,"The RDF Toolbox (turtle-lsp in the browser) served as ikigai resources: urn:toolbox:* names over a host's own build of the page, for Validate, Format, SHACL and SPARQL over the host's Turtle."
+2026-10-20T05:49:41.686908Z,plakous-workspace,0.0.1,0,0,https://github.com/N0xMare/plak,"VCS-backed agent workspaces: detect, mint, seal, adopt, and the git-redirect fence"
+2026-10-20T05:53:12.074722Z,ult-platform-gpui,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"GPUI backend (macOS, Windows, Linux): ult apps drawn by GPUI, embeddable in GPUI and GPUI Kit apps."
+2026-10-20T05:53:37.450924Z,ferraus-plugins,0.1.0,0,0,https://github.com/djynnius/ferraus,"CLAP and VST3 plugin scanning, the out-of-process plugin host protocol, and the installable sounds registry for ferraus"
+2026-10-20T05:54:40.432361Z,truepeak,0.1.0,0,0,https://github.com/iapyaniv/truepeak,True-peak measurement and lookahead limiting for planar f32 audio
+2026-10-20T05:55:20.956615Z,leptos-use-draggable,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Make elements draggable
+2026-10-20T05:58:22.610149Z,unwreck,0.1.0,0,0,https://github.com/ayushdoesdev/unwreck,"Undo for AI coding agents: snapshot every turn, restore any of them"
+2026-10-20T06:03:05.402737Z,plakous-chat-completions,0.0.1,0,0,https://github.com/N0xMare/plak,Provider-neutral Chat Completions protocol-family kernel for Plakous
+2026-10-20T06:03:46.724416Z,ferraus-plughost,0.1.0,0,0,https://github.com/djynnius/ferraus,Out-of-process CLAP plugin host used by ferraus (one plugin per process)
+2026-10-20T06:04:26.179107Z,ult-gpui-host,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"Development host app (GPUI) that runs an ult bundle on macOS, Windows and Linux."
+2026-10-20T06:05:17.855882Z,leptos-use-drop-zone,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Create a zone where files can be dropped
+2026-10-20T06:07:31.752598Z,paludarium-decoder,0.1.0,0,0,https://github.com/aletheia-works/paludarium,x86-64 instruction decoder wrapper for paludarium
+2026-10-20T06:07:34.083786Z,paludarium-cpu,0.1.0,0,0,https://github.com/aletheia-works/paludarium,x86-64 interpreter for paludarium
+2026-10-20T06:07:36.229015Z,paludarium-jit,0.1.0,0,0,https://github.com/aletheia-works/paludarium,JIT code cache interface for paludarium
+2026-10-20T06:07:38.392125Z,paludarium-kernel,0.1.0,0,0,https://github.com/aletheia-works/paludarium,Linux system call layer for paludarium
+2026-10-20T06:07:40.344728Z,paludarium-runtime,0.1.0,0,0,https://github.com/aletheia-works/paludarium,Session and execution loop for paludarium
+2026-10-20T06:08:35.139589Z,holidays2,0.2.0,0,0,https://github.com/chardoncs/holidays2.git,Rust library to provide accurate and up-to-date holiday dates based on Python holidays package
+2026-10-20T06:09:50.659873Z,plakous-mcp,0.0.1,0,0,https://github.com/N0xMare/plak,"Model Context Protocol client: a process-wide server pool, frozen tool listings, schema lowering, and the MCP tool pack"
+2026-10-20T06:11:43.232078Z,opencv-no-c-core,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,"Pure-Rust port of the OpenCV `core` module: type system, Mat, arithmetic, statistics."
+2026-10-20T06:13:08.211899Z,opencv-no-c-accel,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,Optional RLX-backed acceleration for opencv-no-c. Isolates the only dependency that links C.
+2026-10-20T06:13:14.898836Z,trng,0.1.0,0,0,https://github.com/cet-t/trng,A tiny RNG abstraction crate
+2026-10-20T06:13:46.447607Z,lzcb-lz4-sys,0.1.0+lz4-1.10.0,0,0,https://github.com/algbio/ggcat,"Fork of lz4-sys 1.11.1 (liblz4 1.10.0) whose frame decoder reports every LZ match through a hook and whose C symbols are prefixed, for the lz-copyback crate."
+2026-10-20T06:14:07.179486Z,ferraus-master,0.1.0,0,0,https://github.com/djynnius/ferraus,"Mastering for ferraus: loudness targets, chains, analysis, verification, and deliverables"
+2026-10-20T06:14:18.134606Z,opencv-no-c-flann,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,"cv::flann for opencv-no-c: KD-tree, LSH and linear nearest-neighbour indices."
+2026-10-20T06:15:18.343453Z,leptos-use-resize-observer,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reports changes to the dimensions of an Element's content or the border-box
+2026-10-20T06:15:19.285828Z,ult-gpui-app,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"Release app runner on GPUI (macOS, Windows, Linux): the executable of packaged ult apps (no development features)."
+2026-10-20T06:15:35.829264Z,opencv-no-c-imgproc,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,Pure-Rust port of the OpenCV `imgproc` module.
+2026-10-20T06:16:59.264641Z,opencv-no-c-dnn,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,"cv::dnn for opencv-no-c: blob conversion, NMS and a layer graph executed on RLX."
+2026-10-20T06:19:32.479207Z,opencv-no-c-features2d,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,"cv::features2d for opencv-no-c: FAST/ORB/BRIEF keypoints, descriptors and matching."
+2026-10-20T06:19:49.252029Z,paludarium,0.1.0,0,0,https://github.com/aletheia-works/paludarium,x86-64 Linux user-mode emulator (library and command)
