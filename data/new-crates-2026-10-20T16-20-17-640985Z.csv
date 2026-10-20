@@ -1,0 +1,66 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T15:20:59.499556Z,baijimu-protocol-discovery-contract,1.0.0,0,0,https://gitee.com/zxflimit_admin/baijimu-contracts,Pure environment protocol capability declarations for explicit Baijimu documentation discovery
+2026-10-20T15:21:14.497502Z,paperpaw-plugin-wikipedia,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-wikipedia"
+2026-10-20T15:25:17.510149Z,re_chunk_index,0.40.0-rc.1,0,0,https://github.com/rerun-io/rerun,Indexes of Rerun chunks: RRD manifests and the chunk providers that serve them
+2026-10-20T15:27:23.534001Z,ra-jit-vfs-notify,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's vfs-notify crate, used by ra-jit"
+2026-10-20T15:28:10.847003Z,semantik,0.1.0,0,0,,"Semantic identifiers, JSON-backed semantic definitions, and registry traits."
+2026-10-20T15:28:55.778138Z,re_catalog_client,0.40.0-rc.1,0,0,https://github.com/rerun-io/rerun,High-level client for Rerun catalogs
+2026-10-20T15:29:29.52873Z,snipe-code,0.5.3,0,0,https://github.com/athallaarl66/Snipe-code,Rust project scaffolding and heuristic security-audit CLI
+2026-10-20T15:31:08.275845Z,rdfs-certificate,0.1.0,0,0,https://github.com/DreamLab-AI/ontomark,"RDFS forward chaining that records every derivation step in the oo-cert/1 certificate format an independent Lean 4 checker re-verifies, plus a consequence delta between two graphs"
+2026-10-20T15:32:35.653857Z,re_arrow_json,0.40.0-rc.1,0,0,https://github.com/rerun-io/rerun,"Rerun data as JSON, and back"
+2026-10-20T15:37:23.642031Z,ra-jit-span,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's span crate, used by ra-jit"
+2026-10-20T15:37:53.166918Z,guildsmith-core,0.1.2,0,0,https://github.com/clarkscode/guildsmith,"Pure domain model, spec format, diff and planner for guildsmith. No I/O."
+2026-10-20T15:38:02.482456Z,guildsmith-app,0.1.2,0,0,https://github.com/clarkscode/guildsmith,"Use cases, ports and safety policy for guildsmith."
+2026-10-20T15:38:29.443961Z,guildsmith-discord,0.1.2,0,0,https://github.com/clarkscode/guildsmith,twilight-http adapter implementing guildsmith's DiscordPort. twilight types stay in this crate.
+2026-10-20T15:38:48.36952Z,guildsmith-mcp,0.1.2,0,0,https://github.com/clarkscode/guildsmith,"MCP server for guildsmith: toolsets, schemas and output shaping."
+2026-10-20T15:39:12.291788Z,ligase,0.1.0,0,0,https://github.com/Neoforge-Labs/ligase,"Type-safe, reproducible computational biology pipelines (core engine)"
+2026-10-20T15:39:20.927044Z,fenth,0.1.0,0,0,https://github.com/artemtsitronov/fenth,Small dependency-free collection of color themes with semantic roles
+2026-10-20T15:39:58.345457Z,winptap-core,0.1.0,0,0,https://github.com/shellrow/winptap,Internal packet models and bounded delivery for winptap
+2026-10-20T15:40:00.036718Z,winptap-native,0.1.0,0,0,https://github.com/shellrow/winptap,Independent native Packet Monitor RX capture for Windows x64
+2026-10-20T15:40:00.95627Z,winptap-pktmon,0.1.0,0,0,https://github.com/shellrow/winptap,Official Windows Packet Monitor streaming backend for winptap
+2026-10-20T15:40:02.592352Z,winptap,0.1.0,0,0,https://github.com/shellrow/winptap,Rust-native Windows Packet Monitor packet capture
+2026-10-20T15:41:34.441172Z,rada-core,0.6.0-rc.12,0,0,https://github.com/formikadesk/rada-fm,"The engine of rada, a terminal file manager: filesystem model, plan/execute/undo, journal and platform layer (no stable API)"
+2026-10-20T15:42:44.711386Z,rada-tui,0.6.0-rc.12,0,0,https://github.com/formikadesk/rada-fm,"The terminal interface of rada, a terminal file manager, built on ratatui and crossterm (no stable API)"
+2026-10-20T15:43:44.615197Z,rada,0.6.0-rc.12,0,0,https://github.com/formikadesk/rada-fm,"A safe harbor for your files: a terminal file manager with plan-first operations, permanent undo and robust copying"
+2026-10-20T15:45:02.572771Z,mq-bridge-onnx,0.1.0,0,0,https://github.com/marcomq/mq-bridge-onnx,"Local ONNX inference endpoints for mq-bridge: text embeddings, tabular model scoring and image or tensor models"
+2026-10-20T15:46:54.623999Z,arm-cairn-camera,0.0.1,0,0,,Internal camera service client for Cairn
+2026-10-20T15:47:17.33372Z,arm-cairn-notification,0.0.1,0,0,,Internal notification service client for Cairn
+2026-10-20T15:47:23.374089Z,arm-cairn-perception,0.0.1,0,0,,Internal perception service client for Cairn
+2026-10-20T15:47:23.775957Z,ra-jit-tt,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's tt crate, used by ra-jit"
+2026-10-20T15:47:27.596537Z,arm-cairn,0.0.1,0,0,https://github.com/arm/composable-ai-runtimes,Core Rust library for Cairn
+2026-10-20T15:48:07.189112Z,fast-telemetry-tracing,0.10.0,0,0,https://github.com/eden-dev-inc/fast-telemetry,Optional tracing layer and direct subscriber for fast-telemetry span collection
+2026-10-20T15:49:19.884012Z,paperhands,0.1.0,0,0,https://github.com/bboxy450/paperhands,Agent-first CLI for autonomous trading research; initial scaffold with offline semantic help
+2026-10-20T15:51:58.109785Z,re_view_audio,0.40.0-rc.1,0,0,https://github.com/rerun-io/rerun,A view that shows the waveform of an audio asset and plays it back.
+2026-10-20T15:52:52.348488Z,zeppelin-embed-text,0.8.0,0,0,https://github.com/zepdb/zeppelin-embed,Local text embedding and retrieval for Zeppelin Embed on macOS and Apple silicon
+2026-10-20T15:52:59.511345Z,yajlish-schema-macros,0.1.0,0,0,https://github.com/boydjohnson/yajlish,Proc macro for yajlish-schema: generates a yajlish Handler from JSON Schemas
+2026-10-20T15:53:00.583801Z,fframes_three_d,0.0.0,0,0,https://github.com/dmtrKovalenko/fframes,"3D scenes for fframes: a three.js style scene graph, glTF and STL models, a CPU rasterizer and a wgpu renderer. This version reserves the name; use fframes with the `3d` feature."
+2026-10-20T15:53:03.179709Z,yajlish-ndjson,0.1.0,0,0,https://github.com/boydjohnson/yajlish,"Convert a JSON array inside a JSON document into newline-delimited JSON, streaming"
+2026-10-20T15:53:07.545105Z,yajlish-schema,0.1.0,0,0,https://github.com/boydjohnson/yajlish,"Validate and build typed values from a JSON stream against JSON Schemas, with a generated yajlish Handler"
+2026-10-20T15:55:35.745269Z,rialo-multiaddr,0.23.0-alpha.0,0,0,https://github.com/SubzeroLabs/rialo,"Rialo's network-address type, with its per-epoch port rotation"
+2026-10-20T15:57:23.674178Z,ra-jit-cfg,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's cfg crate, used by ra-jit"
+2026-10-20T16:00:52.369641Z,rialo-s-transaction-view,0.23.0-alpha.0,0,0,https://github.com/SubzeroLabs/rialo,Agave TranactionView
+2026-10-20T16:01:28.967711Z,rsvisa-rs,0.1.4,0,0,https://github.com/nominal-io/rsvisa-rs,"Pure-Rust VISA implementation for test & measurement instruments, ported from pyvisa-py."
+2026-10-20T16:01:30.705638Z,rsvisa-ivi,0.1.4,0,0,https://github.com/nominal-io/rsvisa-rs,VPP-4.3 VISA C ABI (libvisa drop-in) built on rsvisa-rs.
+2026-10-20T16:01:38.454375Z,ozma,0.1.0,0,0,https://github.com/subpop/ozma,A terminal-based AI assistant
+2026-10-20T16:01:39.95056Z,worgl,0.1.0,0,0,https://github.com/zhangheqi/worgl,"The core of a Worgl issuer: tokens that cost one bit each in a layered bitmap, need no accounts, and expire if they sit still"
+2026-10-20T16:01:42.876273Z,worgl-raft,0.1.0,0,0,https://github.com/zhangheqi/worgl,Raft replication for a Worgl issuer: one mint's log kept by a group of replicas
+2026-10-20T16:01:43.553319Z,worgl-sdk,0.1.0,0,0,https://github.com/zhangheqi/worgl,"The holder's side of Worgl: a note store that pays, receives and refreshes notes while keeping the privacy rules"
+2026-10-20T16:01:47.288355Z,worgl-client,0.1.0,0,0,https://github.com/zhangheqi/worgl,"Talks to a Worgl server: typed calls for every route, and a purse that pays, receives and refreshes notes over HTTP"
+2026-10-20T16:01:49.595288Z,worgl-server,0.1.0,0,0,https://github.com/zhangheqi/worgl,"HTTP server that hosts many Worgl mints, alone or as a replicated cluster"
+2026-10-20T16:01:59.513167Z,treble-meta,0.2.0,0,0,https://github.com/MinIndustry/treble-meta,Metadata structures for Treble
+2026-10-20T16:04:41.35638Z,treble-derive,0.2.0,0,0,https://github.com/MinIndustry/treble-derive,Macros for generating filter metadata
+2026-10-20T16:07:23.985969Z,ra-jit-proc-macro-api,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's proc-macro-api crate, used by ra-jit"
+2026-10-20T16:08:39.727664Z,treble,0.4.3,0,0,https://github.com/MinIndustry/treble-core,Treble — modular real-time audio synthesis in Rust
+2026-10-20T16:10:48.39995Z,worgl-cli,0.1.0,0,0,https://github.com/zhangheqi/worgl,"worgl: hold, pay and receive Worgl notes from the command line, in a passphrase-encrypted purse"
+2026-10-20T16:12:01.630474Z,katha-rusqlite,0.3.0,0,0,https://github.com/manchhq/katha,Rusqlite event store for katha with optional managed PowerSync support
+2026-10-20T16:12:13.758012Z,katha-powersync,0.3.0,0,0,https://github.com/manchhq/katha,Managed PowerSync event-sourcing backend for katha
+2026-10-20T16:14:22.599465Z,oxsearch-esql,0.2.0,0,0,https://github.com/agentstatelabs/oxsearch,"ES|QL for oxsearch: queries generated from the Elasticsearch specification, a typed query builder, and rows read into your own types"
+2026-10-20T16:14:22.956196Z,oxsearch-ilm,0.2.0,0,0,https://github.com/agentstatelabs/oxsearch,"Index lifecycle management for oxsearch, generated from the Elasticsearch specification: policies that roll over, shrink and delete indices as they age"
+2026-10-20T16:14:23.787064Z,oxsearch-ingest,0.2.0,0,0,https://github.com/agentstatelabs/oxsearch,"Ingest pipelines and processors for oxsearch, generated from the Elasticsearch specification"
+2026-10-20T16:14:24.210182Z,oxsearch-license,0.2.0,0,0,https://github.com/agentstatelabs/oxsearch,"The license API for oxsearch, generated from the Elasticsearch specification: the cluster's license, and trials"
+2026-10-20T16:14:24.593711Z,oxsearch-query-rules,0.2.0,0,0,https://github.com/agentstatelabs/oxsearch,"Query rules for oxsearch, generated from the Elasticsearch specification: rules that pin or exclude results for matching queries"
+2026-10-20T16:14:33.467036Z,guildsmith,0.1.2,0,0,https://github.com/clarkscode/guildsmith,Fast MCP server and CLI for building and managing Discord servers.
+2026-10-20T16:14:35.650152Z,mcp-stdio-bridge,0.1.0,0,0,https://github.com/yornaath/tauri-plugin-mcp-commands,"stdio <-> HTTP bridge for Tauri apps using tauri-plugin-mcp-commands, for stdio-only MCP clients such as Claude Desktop"
+2026-10-20T16:14:36.350033Z,tauri-plugin-mcp-commands-macros,0.1.0,0,0,https://github.com/yornaath/tauri-plugin-mcp-commands,Proc macros for tauri-plugin-mcp-commands: #[mcp_tool] and collect_mcp_tools!
+2026-10-20T16:14:38.786891Z,tauri-plugin-mcp-commands,0.1.0,0,0,https://github.com/yornaath/tauri-plugin-mcp-commands,"Expose selected Tauri commands as an MCP server, safe to ship in release builds"
+2026-10-20T16:17:23.541423Z,ra-jit-syntax-bridge,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's syntax-bridge crate, used by ra-jit"
