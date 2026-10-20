@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T21:20:08.856768Z,sympy-poly-core,0.1.0,0,0,https://github.com/John-Cusack/sympy-rust,Reusable Rust core: dense polynomial arithmetic over QQ (sympy polys-domain kernel port)
+2026-10-20T21:20:16.72572Z,docutils-core,0.1.0,0,0,https://github.com/John-Cusack/docutils-rust,"Rust port of python/docutils: reStructuredText parser, transforms, and publishers"
+2026-10-20T21:24:33.005401Z,vix-keybinding-editor-panel,1.7.0,0,0,https://github.com/vixide/vix,Data and table state for the keybinding editor overlay (rebind/reset).
+2026-10-20T21:27:20.825916Z,computer-use,0.2.0,0,0,https://github.com/lindoelio/computer-use,"Cross-platform desktop automation for agents: screenshots, mouse, keyboard, accessibility, CDP, and isolation."
+2026-10-20T21:28:19.803842Z,audiobox-device,0.1.0,0,0,https://github.com/jmsansan/audiobox-device,"Plays audiobox's real-time mixer on the audio device: natively through cpal, and in the browser through an AudioWorklet, with one API for both"
+2026-10-20T21:32:47.574064Z,aauth-protocol,0.1.0,0,0,https://github.com/introspection-org/introspection-rust-sdk,"AAuth (draft-hardt-oauth-aauth-protocol): HTTP message signatures, agent, person and auth tokens, and an agent-side Person Server client"
+2026-10-20T21:34:33.575802Z,vix-keybindings,1.7.0,0,0,https://github.com/vixide/vix,"An exhaustive, queryable registry of every built-in keybinding across all 10 keymaps, plus the user/script override layer built on it."
+2026-10-20T21:35:22.637296Z,botus-1-2-3,0.1.0,0,0,https://github.com/lukacf/botus-1-2-3,A compact spreadsheet workspace for agents. Recalculate like it is 1989.
+2026-10-20T21:38:01.876843Z,aauth-person-server,0.1.0,0,0,https://github.com/introspection-org/introspection-rust-sdk,"An AAuth Person Server: missions, person and auth tokens, budgets and approvals, over plain http types"
+2026-10-20T21:39:41.308145Z,kiso-tokens,0.1.1,0,0,https://github.com/momoi-labs/blueprint,Kiso design tokens as sRGB themes for terminal and native UIs
+2026-10-20T21:44:33.493824Z,vix-modal,1.7.0,0,0,https://github.com/vixide/vix,"A real modal-editing engine for the Vi/Spacemacs keymaps: modes, operator x motion composition, counts, registers, text objects, dot-repeat."
+2026-10-20T21:47:40.704474Z,active-ffi,1.4.0,0,0,https://github.com/Active-Official/active,"Active C ABI for embedding: opaque handles, structured diagnostics, budgets, secret discipline."
+2026-10-20T21:47:45.909554Z,active-wasm,1.4.0,0,0,https://github.com/Active-Official/active,"Active WebAssembly embedding: the same evaluator for browsers, Node, Deno, Bun, Workers, and wazero hosts."
+2026-10-20T21:50:46.158792Z,mmt-core,0.1.0,0,0,https://github.com/Blockcast/libmmt,MMT protocol core library (ISO/IEC 23008-1)
+2026-10-20T21:51:43.774416Z,gpui-updater-release,0.4.3,0,0,https://github.com/AprilNEA/gpui-updater,"Release-side tooling for gpui-updater: static manifests, Sparkle appcasts, signing, Sparkle bundling, and binary deltas"
+2026-10-20T21:52:41.377109Z,pqcseal,0.0.2,0,0,https://github.com/pqcseal,pqcseal
+2026-10-20T21:54:31.068057Z,ciplink,0.3.0,0,0,https://github.com/RowanRama/ciplink,"EtherNet/IP (CIP) driver for Allen-Bradley Logix, Micro800 and SLC/MicroLogix PLCs"
+2026-10-20T21:54:33.553025Z,vix-org-table,1.7.0,0,0,https://github.com/vixide/vix,"Org-mode pipe-table editing: parsing, alignment, structural edits, and TBLFM formulas."
+2026-10-20T21:57:59.522708Z,tower-worker-fetch,0.1.0,0,0,https://github.com/sagikazarmark/tower-worker-fetch,"A tower::Service over the Cloudflare Workers fetch API, typed with the http crate"
+2026-10-20T22:04:00.465756Z,zynx-macros,0.1.0,0,0,https://github.com/andrewdotdev/zynx,Procedural macros for Zynx 🦀 (Internal Crate)
+2026-10-20T22:04:19.027479Z,zynx,0.0.4,0,0,https://github.com/andrewdotdev/zynx,Zynx is a Discord API Rust library under development 🦀
+2026-10-20T22:04:42.979942Z,vix-script,1.7.0,0,0,https://github.com/vixide/vix,"Rhai-based user scripting: load, sandbox, and run scripts against the active buffer."
+2026-10-20T22:06:48.327061Z,mbr-core,0.7.0,0,0,https://github.com/zmre/mbr-markdown-browser/,"Render core of mbr, the markdown browser: markdown, templates, config, repository scan, search and indexes. Internal crate of mbr-markdown-browser, versioned in lockstep with it; no API stability gua…"
+2026-10-20T22:06:51.20492Z,mbr-server,0.7.0,0,0,https://github.com/zmre/mbr-markdown-browser/,"HTTP server for mbr, the markdown browser: routes, live reload, edit endpoints and the file watcher. Internal crate of mbr-markdown-browser, versioned in lockstep with it; no API stability guarantees"
+2026-10-20T22:06:51.630448Z,mbr-ssg,0.7.0,0,0,https://github.com/zmre/mbr-markdown-browser/,"Static site generator for mbr, the markdown browser. Internal crate of mbr-markdown-browser, versioned in lockstep with it; no API stability guarantees"
+2026-10-20T22:06:52.219749Z,mbr-ffi,0.7.0,0,0,https://github.com/zmre/mbr-markdown-browser/,"UniFFI surface of mbr, the markdown browser, for its Apple shells (QuickLook, and the iOS app with the mobile feature). Internal crate of mbr-markdown-browser, versioned in lockstep with it; no API s…"
+2026-10-20T22:08:30.38299Z,kibbr-core,0.1.0,0,0,https://github.com/pratyaydeep/kibbr,"kibbr - a log line into keys, types and a fingerprint, internal to kibbr; no API stability promised"
+2026-10-20T22:08:48.053845Z,kibbr-storage,0.1.0,0,0,https://github.com/pratyaydeep/kibbr,"kibbr - the trie, the day files and the write-ahead log, internal to kibbr; no API stability promised"
+2026-10-20T22:09:19.70651Z,kibbr-engine,0.1.0,0,0,https://github.com/pratyaydeep/kibbr,"kibbr - plan and execute a query; TrieQL, internal to kibbr; no API stability promised"
+2026-10-20T22:09:48.972594Z,kibbr-server,0.1.0,0,0,https://github.com/pratyaydeep/kibbr,"kibbr - the HTTP server, and the loads and compactions it runs, internal to kibbr; no API stability promised"
+2026-10-20T22:10:08.626043Z,kibbr,0.1.0,0,0,https://github.com/pratyaydeep/kibbr,kibbr - log store
+2026-10-20T22:12:12.151893Z,cloudillo-extract,0.8.21,0,0,https://github.com/cloudillo/cloudillo-rs,Text and metadata extraction from stored content for the Cloudillo platform
+2026-10-20T22:12:38.63762Z,cloudillo-site,0.8.21,0,0,https://github.com/cloudillo/cloudillo-rs,Site builder for the Cloudillo platform — publishes a Notillo document as a public website
+2026-10-20T22:14:52.741455Z,vix-settings-bundle,1.7.0,0,0,https://github.com/vixide/vix,"Bundle a user's config.toml, macros.toml, keybindings.toml, user dictionary, and active custom theme into one file, and restore them from it"
