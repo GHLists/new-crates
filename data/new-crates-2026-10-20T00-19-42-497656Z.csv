@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-19T23:20:11.40337Z,gwicke-sed-rs,2.0.0,0,0,https://github.com/quinnjr/sed-rs,"A GNU-compatible sed implementation in Rust, powered by sd's regex engine"
+2026-10-19T23:20:38.574104Z,respan-gateway-decision,0.1.0,0,0,https://github.com/respanai/respan-gateway,"The decision kind: questions about a state, answered with probabilities."
+2026-10-19T23:21:13.467365Z,paperpaw-layout,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-layout"
+2026-10-19T23:29:58.229037Z,tenbri-otlp,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,OpenTelemetry GenAI span ingest for Tenbri.
+2026-10-19T23:30:39.257507Z,respan-gateway-decision-http,0.1.0,0,0,https://github.com/respanai/respan-gateway,The decision kind over HTTP: TypeSafe's System One.
+2026-10-19T23:31:14.404404Z,paperpaw-json,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-19T23:40:06.80569Z,tenbri-proxy,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,MCP proxy that records every tool call in a Tenbri stream.
+2026-10-19T23:40:38.61672Z,respan-gateway-http-transport,0.1.0,0,0,https://github.com/respanai/respan-gateway,A pooled Reqwest backend for outbound HTTP provider calls.
+2026-10-19T23:41:15.539764Z,paperpaw-xml,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-xml"
+2026-10-19T23:43:47.247017Z,pentimento,0.0.0,0,0,https://github.com/jaybill/pentimento,"Placeholder. Pentimento paints video frames with brushwork, filters and tracer passes on the GPU. Not published yet; see the repository."
+2026-10-19T23:50:15.250843Z,tenbri-schema,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,"Tenbri action schemas from tenbri.toml, validated at write time."
+2026-10-19T23:50:38.437876Z,respan-gateway-mcp,0.1.0,0,0,https://github.com/respanai/respan-gateway,The Model Context Protocol's kind: typed JSON-RPC messages and their HTTP envelopes.
+2026-10-19T23:50:42.032511Z,zakura-pir-protocol,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-10-19T23:50:46.683054Z,zakura-pir-server-core,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-10-19T23:50:51.255236Z,zakura-pir-publisher,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-10-19T23:50:55.856045Z,zakura-pir-query-server,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-10-19T23:51:00.115993Z,zakura-pir-client,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-10-19T23:51:13.290933Z,paperpaw-zip,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-zip"
+2026-10-19T23:51:56.188147Z,prior-agent,0.1.0,0,0,https://github.com/gwicke/prior,A small coding agent inspired by and session-compatible with pi.
+2026-10-19T23:58:16.896065Z,zakura-receiver-crypto,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-10-20T00:00:23.671571Z,tenbri-server,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,tenbrid: the Tenbri REST and gRPC API.
+2026-10-20T00:00:39.128534Z,respan-gateway-mcp-http,0.1.0,0,0,https://github.com/respanai/respan-gateway,"MCP over HTTP: the streamable-HTTP format, and a stdio server as a transport."
+2026-10-20T00:01:50.534962Z,secret-env,0.1.0,0,0,https://github.com/mortezashojaei/secret-env,Read environment variables straight into memsafe::Secret
+2026-10-20T00:08:16.690563Z,zakura-receiver-directory,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-10-20T00:10:33.826353Z,tenbri-store,0.1.0-alpha.1,0,0,https://github.com/tenbri/tenbri,"Tenbri store trait (get, put-if-absent, compare-and-swap) for local disk and object stores."
+2026-10-20T00:10:38.844931Z,respan-gateway-media,0.1.0,0,0,https://github.com/respanai/respan-gateway,"The media kinds: images, transcription, speech, video and embeddings."
+2026-10-20T00:14:32.564317Z,lynn,0.1.1,0,0,https://github.com/patrickgwsmith/lynn,A small shared shell for humans and coding agents
+2026-10-20T00:17:29.566947Z,colcat,0.2.0,0,0,https://github.com/gene12b/colcat,Text colorization tool for reading
+2026-10-20T00:18:16.381543Z,zakura-receiver-pir,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-10-20T00:19:04.088648Z,snippet-graph,0.1.0,0,0,https://github.com/andygauge/snippet-graph,"Build Rust code one function at a time: a compiling skeleton, tests first, repair of the function the tests blame, and a stored history of every attempt."
+2026-10-20T00:19:08.901035Z,crepuscularity-colors,0.1.0,0,0,https://github.com/tschk/crepuscularity,Shared no-std Tailwind color palette for Crepuscularity renderers.
