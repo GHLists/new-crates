@@ -8,50 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 03:19 UTC
+## Latest list — 2026-10-20 04:19 UTC
 
-New crates published between 2026-10-20 02:22 UTC and 2026-10-20 03:19 UTC.
+New crates published between 2026-10-20 03:19 UTC and 2026-10-20 04:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-20T03-19-17-387138Z.csv)
+[Full CSV](data/new-crates-2026-10-20T04-19-28-601411Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-20 02:25:21 | [leptos-use-broadcast-channel](https://crates.io/crates/leptos-use-broadcast-channel) | 0.20.0 | 0 | Reactive [BroadcastChannel API](https://developer.mozilla.org/en-US/docs/Web/AP… |
-| 2026-10-20 02:26:20 | [zipcore](https://crates.io/crates/zipcore) | 0.2.0 | 0 | Streaming ZIP archive reader and writer with ZIP64 support, CRC-32 verification… |
-| 2026-10-20 02:28:14 | [ult-animation](https://crates.io/crates/ult-animation) | 3.0.0-alpha.0 | 0 | Native animation graph: values, drivers (timing, spring, decay), interpolation… |
-| 2026-10-20 02:28:39 | [ult-macros](https://crates.io/crates/ult-macros) | 3.0.0-alpha.0 | 0 | Derive macros of ult's Rust components: props, prop enums, events and component… |
-| 2026-10-20 02:29:09 | [ult-core](https://crates.io/crates/ult-core) | 3.0.0-alpha.0 | 0 | Platform-independent core: shadow tree, styles, layout and mount instructions. |
-| 2026-10-20 02:29:42 | [ult-ui-mobile](https://crates.io/crates/ult-ui-mobile) | 3.0.0-alpha.0 | 0 | The mobile UI set's components, written in Rust: one implementation for iOS and… |
-| 2026-10-20 02:30:08 | [ult-dev](https://crates.io/crates/ult-dev) | 3.0.0-alpha.0 | 0 | Development tooling: dev-server protocol, server (CLI side) and client (host si… |
-| 2026-10-20 02:30:38 | [respan-gateway-ws](https://crates.io/crates/respan-gateway-ws) | 0.1.0 | 0 | WebSocket sessions at both gateway edges, and a JSON events format. |
-| 2026-10-20 02:31:41 | [ult-js](https://crates.io/crates/ult-js) | 3.0.0-alpha.0 | 0 | QuickJS host: runtime setup, host APIs, op decoding and bytecode. |
-| 2026-10-20 02:35:15 | [leptos-use-rw-signal](https://crates.io/crates/leptos-use-rw-signal) | 0.20.0 | 0 | UseRwSignal: a signal that is either a RwSignal or a split signal pair (Leptos) |
-| 2026-10-20 02:39:30 | [keyroost-windevtree](https://crates.io/crates/keyroost-windevtree) | 0.14.0 | 0 | Windows-only device-tree lookups (HID path / smart-card reader to ancestor devn… |
-| 2026-10-20 02:40:39 | [respan-gateway-realtime-ws](https://crates.io/crates/respan-gateway-realtime-ws) | 0.1.0 | 0 | The realtime kind over WebSocket: a session of JSON events. |
-| 2026-10-20 02:42:19 | [ult-package](https://crates.io/crates/ult-package) | 3.0.0-alpha.0 | 0 | Signed app packages (.ultpkg), two-level signing keys, revocation lists and the… |
-| 2026-10-20 02:44:43 | [keyroost-pgpkey](https://crates.io/crates/keyroost-pgpkey) | 0.13.0 | 0 | Host-side OpenPGP key sets for keyroost: keygen, GnuPG-compatible backups, rest… |
-| 2026-10-20 02:45:20 | [leptos-use-sync-signal](https://crates.io/crates/leptos-use-sync-signal) | 0.20.0 | 0 | Two-way Signals synchronization |
-| 2026-10-20 02:50:38 | [respan-gateway-serve](https://crates.io/crates/respan-gateway-serve) | 0.1.0 | 0 | Hosting a gateway with Axum: HTTP and WebSocket from one router. |
-| 2026-10-20 02:55:17 | [leptos-use-maybe-rw-signal](https://crates.io/crates/leptos-use-maybe-rw-signal) | 0.20.0 | 0 | MaybeRwSignal: accept either a read-only or a read-write signal (Leptos) |
-| 2026-10-20 02:55:45 | [crush-lang-rust](https://crates.io/crates/crush-lang-rust) | 0.7.1 | 0 | Rust language support for Crush — parser + CAST lowering backed by syn |
-| 2026-10-20 02:56:00 | [crush-macros](https://crates.io/crates/crush-macros) | 0.7.1 | 0 | Proc macros for embedding Crush code at compile time in Rust |
-| 2026-10-20 02:56:09 | [crush-aotc](https://crates.io/crates/crush-aotc) | 0.7.1 | 0 | Crush AOT compiler: CASM → C source → shared library (.so) |
-| 2026-10-20 02:56:31 | [mere-surface-api](https://crates.io/crates/mere-surface-api) | 0.1.0 | 0 | Application host contracts above Genet: the settings projection and product sur… |
-| 2026-10-20 02:56:58 | [command-menu](https://crates.io/crates/command-menu) | 0.1.0 | 0 | The commands a host offers, the person's choices among them, and a palette's in… |
-| 2026-10-20 02:59:44 | [ult-bundler](https://crates.io/crates/ult-bundler) | 3.0.0-alpha.0 | 0 | JS bundler: rolldown + ult's JSX compiler; the compiler alone without feature `… |
-| 2026-10-20 03:00:39 | [respan-gateway-vendor-kit](https://crates.io/crates/respan-gateway-vendor-kit) | 0.1.0 | 0 | A vendor as a template, and a provider of it: its formats at their base URLs, i… |
-| 2026-10-20 03:01:27 | [patient-administration-system-migrations](https://crates.io/crates/patient-administration-system-migrations) | 0.1.0 | 0 | Database migrations (SeaORM) for the Patient Administration System, with the pa… |
-| 2026-10-20 03:05:21 | [leptos-use-calendar](https://crates.io/crates/leptos-use-calendar) | 0.20.0 | 0 | Create bare-bone calendar data to use in your component |
-| 2026-10-20 03:10:38 | [respan-gateway-vendors-green](https://crates.io/crates/respan-gateway-vendors-green) | 0.1.0 | 0 | The green vendors: maintained, and verified end to end against their live APIs. |
-| 2026-10-20 03:10:49 | [ult-engine](https://crates.io/crates/ult-engine) | 3.0.0-alpha.0 | 0 | Engine thread that drives the JS host and the core and emits mount batches. |
-| 2026-10-20 03:11:46 | [ult-cli](https://crates.io/crates/ult-cli) | 3.0.0-alpha.0 | 0 | The ult command line tool: build, package and run apps. |
-| 2026-10-20 03:11:53 | [datasources](https://crates.io/crates/datasources) | 0.1.5 | 0 | Async datasource interfaces, middleware, registry, and test doubles |
-| 2026-10-20 03:13:31 | [datasources-json](https://crates.io/crates/datasources-json) | 0.1.5 | 0 | JSON file datasource provider |
-| 2026-10-20 03:13:36 | [datasources-memory](https://crates.io/crates/datasources-memory) | 0.1.5 | 0 | In-memory datasource provider |
-| 2026-10-20 03:13:43 | [datasources-sqlite](https://crates.io/crates/datasources-sqlite) | 0.1.5 | 0 | SQLite datasource provider |
-| 2026-10-20 03:13:48 | [datasources-xml](https://crates.io/crates/datasources-xml) | 0.1.5 | 0 | xml datasource stub |
-| 2026-10-20 03:15:18 | [leptos-use-timeout-fn](https://crates.io/crates/leptos-use-timeout-fn) | 0.20.0 | 0 | Wrapper for `setTimeout` with controls |
-| 2026-10-20 03:16:27 | [cheti](https://crates.io/crates/cheti) | 0.1.0 | 0 | ACME DNS-01 challenge library with pluggable DNS providers |
+| 2026-10-20 03:20:39 | [respan-gateway-vendors-yellow](https://crates.io/crates/respan-gateway-vendors-yellow) | 0.1.0 | 0 | The yellow vendors: maintained, and tested against fakes, but not verified end… |
+| 2026-10-20 03:22:20 | [ult-platform-android](https://crates.io/crates/ult-platform-android) | 3.0.0-alpha.0 | 0 | Android backend: JNI glue, StaticLayout text engine, mount batch encoding, nati… |
+| 2026-10-20 03:23:40 | [bishan](https://crates.io/crates/bishan) | 0.0.1 | 0 | BISHAN (Building Internal Source-term and Hazard Analysis Network) — Level 2 PS… |
+| 2026-10-20 03:23:58 | [datasources-yaml](https://crates.io/crates/datasources-yaml) | 0.1.5 | 0 | yaml datasource stub |
+| 2026-10-20 03:25:20 | [leptos-use-clipboard](https://crates.io/crates/leptos-use-clipboard) | 0.20.0 | 0 | Reactive [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipb… |
+| 2026-10-20 03:26:37 | [fgumi-pipeline-io](https://crates.io/crates/fgumi-pipeline-io) | 0.8.0 | 0 | BAM pipeline I/O types and steps for fgumi |
+| 2026-10-20 03:30:38 | [respan-gateway-vendors](https://crates.io/crates/respan-gateway-vendors) | 0.1.0 | 0 | The vendors, green and yellow: where each is, how it takes a key, and the forma… |
+| 2026-10-20 03:32:54 | [ult-platform-ios](https://crates.io/crates/ult-platform-ios) | 3.0.0-alpha.0 | 0 | UIKit backend: native view mounting, text measurement, input, app hosting and t… |
+| 2026-10-20 03:35:16 | [leptos-use-header](https://crates.io/crates/leptos-use-header) | 0.20.0 | 0 | Read request headers during SSR (axum / actix) for the leptos-use crates |
+| 2026-10-20 03:36:21 | [tc_binpoly](https://crates.io/crates/tc_binpoly) | 0.1.0 | 0 | Binary-polynomial arithmetic over GF(2^n) for cryptography: products, squares a… |
+| 2026-10-20 03:40:38 | [datasources-mysql](https://crates.io/crates/datasources-mysql) | 0.1.5 | 0 | MySQL datasource provider |
+| 2026-10-20 03:40:46 | [respan-gateway](https://crates.io/crates/respan-gateway) | 0.1.0 | 0 | An LLM gateway with a neutral core and compiled-in plugins. |
+| 2026-10-20 03:42:13 | [datasources-sqlserver](https://crates.io/crates/datasources-sqlserver) | 0.1.5 | 0 | sqlserver datasource stub |
+| 2026-10-20 03:43:31 | [ult-platform-linux](https://crates.io/crates/ult-platform-linux) | 3.0.0-alpha.0 | 0 | Linux backend (GTK 4): native widget mounting, Pango text engine, input, standa… |
+| 2026-10-20 03:45:21 | [leptos-use-cookie](https://crates.io/crates/leptos-use-cookie) | 0.20.0 | 0 | SSR-friendly and reactive cookie access |
+| 2026-10-20 03:54:04 | [ult-platform-macos](https://crates.io/crates/ult-platform-macos) | 3.0.0-alpha.0 | 0 | macOS backend (AppKit): native view mounting, CoreText text engine, input, stan… |
+| 2026-10-20 03:55:18 | [leptos-use-preferences](https://crates.io/crates/leptos-use-preferences) | 0.20.0 | 0 | Reactive prefers-color-scheme / prefers-contrast / prefers-reduced-motion for L… |
+| 2026-10-20 03:59:28 | [ferraus-core](https://crates.io/crates/ferraus-core) | 0.1.0 | 0 | Core types for ferraus: audio buffers, unit parsing, operation specs, pipelines… |
+| 2026-10-20 03:59:59 | [ferraus-codec](https://crates.io/crates/ferraus-codec) | 0.1.0 | 0 | Decoding and encoding for ferraus: Symphonia decoders, native WAV/AIFF/FLAC/Vor… |
+| 2026-10-20 04:00:03 | [ferraus-media](https://crates.io/crates/ferraus-media) | 0.1.0 | 0 | The ferraus media bridge: FFmpeg pass-through, container jobs (info, streams, e… |
+| 2026-10-20 04:00:19 | [ferraus-dsp](https://crates.io/crates/ferraus-dsp) | 0.1.0 | 0 | Pure-Rust DSP for ferraus: filters, dynamics, reverbs, delays, modulation, pann… |
+| 2026-10-20 04:00:29 | [ferraus-edit](https://crates.io/crates/ferraus-edit) | 0.1.0 | 0 | Editing commands for ferraus: trim, cut, split, concat, gain, normalize, channe… |
+| 2026-10-20 04:04:07 | [verifyanything](https://crates.io/crates/verifyanything) | 0.1.2 | 0 | VerifyAnything DRAFT VCP and Provider Contract wire SDK |
+| 2026-10-20 04:04:38 | [ult-platform-web](https://crates.io/crates/ult-platform-web) | 3.0.0-alpha.0 | 0 | WebAssembly backend: runs Ult apps in a browser page, rendering to the DOM, and… |
+| 2026-10-20 04:05:22 | [leptos-use-storage](https://crates.io/crates/leptos-use-storage) | 0.20.0 | 0 | Reactive local / session / custom storage for Leptos |
+| 2026-10-20 04:08:29 | [piigrep](https://crates.io/crates/piigrep) | 0.1.0 | 0 | Find personal information (emails, phone numbers, My Numbers, card numbers, nam… |
+| 2026-10-20 04:10:35 | [ferraus-restore](https://crates.io/crates/ferraus-restore) | 0.1.0 | 0 | Audio restoration and utility effects for ferraus (declick, hum, dereverb, and… |
+| 2026-10-20 04:15:17 | [leptos-use-color-mode](https://crates.io/crates/leptos-use-color-mode) | 0.20.0 | 0 | Reactive color mode (dark / light / customs) with auto data persistence |
+| 2026-10-20 04:15:31 | [ult-platform-windows](https://crates.io/crates/ult-platform-windows) | 3.0.0-alpha.0 | 0 | Windows backend (Win32, Direct2D, DirectWrite): view mounting, text engine, inp… |
+| 2026-10-20 04:18:28 | [plakous-attempt](https://crates.io/crates/plakous-attempt) | 0.0.1 | 0 | Family-agnostic attempt lifecycle, observation ledger, and await core for Plako… |
+| 2026-10-20 04:18:31 | [plakous-codex-code-mode-protocol](https://crates.io/crates/plakous-codex-code-mode-protocol) | 0.153.3 | 0 | Reviewed vendor snapshot of the pinned Codex Code Mode description and schema r… |
+| 2026-10-20 04:18:34 | [plakous-host-protocol](https://crates.io/crates/plakous-host-protocol) | 0.0.1 | 0 | Wire types for the plak agent JSONL host protocol |
+| 2026-10-20 04:18:37 | [plakous-http](https://crates.io/crates/plakous-http) | 0.0.1 | 0 | Provider-blind bounded HTTP transport for Plakous |
+| 2026-10-20 04:18:39 | [plakous-js-eval](https://crates.io/crates/plakous-js-eval) | 0.0.1 | 0 | Code Mode evaluator protocol and sidecar client |
 
 ## Data source
 

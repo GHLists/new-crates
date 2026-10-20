@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T03:20:39.265771Z,respan-gateway-vendors-yellow,0.1.0,0,0,https://github.com/respanai/respan-gateway,"The yellow vendors: maintained, and tested against fakes, but not verified end to end against their live APIs."
+2026-10-20T03:22:20.369844Z,ult-platform-android,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"Android backend: JNI glue, StaticLayout text engine, mount batch encoding, native animation driver."
+2026-10-20T03:23:40.302712Z,bishan,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"BISHAN (Building Internal Source-term and Hazard Analysis Network) — Level 2 PSA: severe-accident progression inside the plant, containment and building response, in-building aerosol transport and po…"
+2026-10-20T03:23:58.23803Z,datasources-yaml,0.1.5,0,0,https://github.com/deterministic-code/datasources,yaml datasource stub
+2026-10-20T03:25:20.92091Z,leptos-use-clipboard,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API)
+2026-10-20T03:26:37.232583Z,fgumi-pipeline-io,0.8.0,0,0,https://github.com/fulcrumgenomics/fgumi,BAM pipeline I/O types and steps for fgumi
+2026-10-20T03:30:38.695918Z,respan-gateway-vendors,0.1.0,0,0,https://github.com/respanai/respan-gateway,"The vendors, green and yellow: where each is, how it takes a key, and the formats it speaks, its dialects of a spec among them."
+2026-10-20T03:32:54.986783Z,ult-platform-ios,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"UIKit backend: native view mounting, text measurement, input, app hosting and the embedding API (C ABI under the Ult Swift module)."
+2026-10-20T03:35:16.366678Z,leptos-use-header,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Read request headers during SSR (axum / actix) for the leptos-use crates
+2026-10-20T03:36:21.042245Z,tc_binpoly,0.1.0,0,0,https://github.com/TomiCheng/tc_math,"Binary-polynomial arithmetic over GF(2^n) for cryptography: products, squares and inverses modulo a trinomial or pentanomial, constant time with PCLMULQDQ."
+2026-10-20T03:40:38.504861Z,datasources-mysql,0.1.5,0,0,https://github.com/deterministic-code/datasources,MySQL datasource provider
+2026-10-20T03:40:46.191369Z,respan-gateway,0.1.0,0,0,https://github.com/respanai/respan-gateway,An LLM gateway with a neutral core and compiled-in plugins.
+2026-10-20T03:42:13.586347Z,datasources-sqlserver,0.1.5,0,0,https://github.com/deterministic-code/datasources,sqlserver datasource stub
+2026-10-20T03:43:31.122032Z,ult-platform-linux,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"Linux backend (GTK 4): native widget mounting, Pango text engine, input, standalone app."
+2026-10-20T03:45:21.76994Z,leptos-use-cookie,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,SSR-friendly and reactive cookie access
+2026-10-20T03:54:04.102454Z,ult-platform-macos,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"macOS backend (AppKit): native view mounting, CoreText text engine, input, standalone app."
+2026-10-20T03:55:18.173039Z,leptos-use-preferences,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive prefers-color-scheme / prefers-contrast / prefers-reduced-motion for Leptos
+2026-10-20T03:59:28.852886Z,ferraus-core,0.1.0,0,0,https://github.com/djynnius/ferraus,"Core types for ferraus: audio buffers, unit parsing, operation specs, pipelines, provenance"
+2026-10-20T03:59:59.288408Z,ferraus-codec,0.1.0,0,0,https://github.com/djynnius/ferraus,"Decoding and encoding for ferraus: Symphonia decoders, native WAV/AIFF/FLAC/Vorbis/Opus/MP3 encoders, tags, and the FFmpeg bridge locator"
+2026-10-20T04:00:03.743605Z,ferraus-media,0.1.0,0,0,https://github.com/djynnius/ferraus,"The ferraus media bridge: FFmpeg pass-through, container jobs (info, streams, extract/replace audio, remux), stream inventory, and the managed FFmpeg installer"
+2026-10-20T04:00:19.159547Z,ferraus-dsp,0.1.0,0,0,https://github.com/djynnius/ferraus,"Pure-Rust DSP for ferraus: filters, dynamics, reverbs, delays, modulation, panning, vocoder"
+2026-10-20T04:00:29.552667Z,ferraus-edit,0.1.0,0,0,https://github.com/djynnius/ferraus,"Editing commands for ferraus: trim, cut, split, concat, gain, normalize, channels, silence, mix, waveform, spectrogram"
+2026-10-20T04:04:07.175734Z,verifyanything,0.1.2,0,0,https://github.com/openverifyproject/openverify,VerifyAnything DRAFT VCP and Provider Contract wire SDK
+2026-10-20T04:04:38.158466Z,ult-platform-web,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"WebAssembly backend: runs Ult apps in a browser page, rendering to the DOM, and publishes them as static sites."
+2026-10-20T04:05:22.261196Z,leptos-use-storage,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive local / session / custom storage for Leptos
+2026-10-20T04:08:29.017484Z,piigrep,0.1.0,0,0,https://github.com/cyberneura/piigrep,"Find personal information (emails, phone numbers, My Numbers, card numbers, names, addresses) in files, on-device"
+2026-10-20T04:10:35.920173Z,ferraus-restore,0.1.0,0,0,https://github.com/djynnius/ferraus,"Audio restoration and utility effects for ferraus (declick, hum, dereverb, and more)"
+2026-10-20T04:15:17.919434Z,leptos-use-color-mode,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive color mode (dark / light / customs) with auto data persistence
+2026-10-20T04:15:31.965212Z,ult-platform-windows,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"Windows backend (Win32, Direct2D, DirectWrite): view mounting, text engine, input, standalone app."
+2026-10-20T04:18:28.691043Z,plakous-attempt,0.0.1,0,0,https://github.com/N0xMare/plak,"Family-agnostic attempt lifecycle, observation ledger, and await core for Plakous"
+2026-10-20T04:18:31.378897Z,plakous-codex-code-mode-protocol,0.153.3,0,0,https://github.com/N0xMare/plak,"Reviewed vendor snapshot of the pinned Codex Code Mode description and schema rendering, packaged for Plakous"
+2026-10-20T04:18:34.270118Z,plakous-host-protocol,0.0.1,0,0,https://github.com/N0xMare/plak,Wire types for the plak agent JSONL host protocol
+2026-10-20T04:18:37.353918Z,plakous-http,0.0.1,0,0,https://github.com/N0xMare/plak,Provider-blind bounded HTTP transport for Plakous
+2026-10-20T04:18:39.846618Z,plakous-js-eval,0.0.1,0,0,https://github.com/N0xMare/plak,Code Mode evaluator protocol and sidecar client
