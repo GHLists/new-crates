@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T07:25:17.796485Z,leptos-use-favicon,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive favicon
+2026-10-20T07:29:01.021652Z,thirtyftp,0.1.0,0,0,https://github.com/ThirtyFile/ThirtyFTP,"A small FTP and FTPS (explicit TLS) server library for receive folders: passive mode, uploads, optional listing and downloads"
+2026-10-20T07:30:36.589117Z,opencv-no-c-photo,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,"cv::photo for opencv-no-c: denoising, inpainting and edge-preserving filters."
+2026-10-20T07:33:20.647108Z,plakous-compose,0.0.1,0,0,https://github.com/N0xMare/plak,Composition presentations: the js/py cell outer tools and the Codex Code Mode exec/wait compilers over the coding packs
+2026-10-20T07:33:41.749206Z,devino,0.1.0,0,0,https://github.com/zixcel/devino,Bounded OpenVINO CPU backend for verified local model bundles
+2026-10-20T07:34:30.600426Z,paperpaw-image,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-image"
+2026-10-20T07:34:33.695362Z,paperpaw-fat,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-20T07:34:37.055701Z,paperpaw-plugin-store,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-20T07:34:40.447555Z,paperpaw-qr,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-20T07:34:43.813629Z,paperpaw-serve,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-serve"
+2026-10-20T07:35:21.132558Z,leptos-use-fn-debounce-throttle,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Debounced and throttled function wrappers for Leptos
+2026-10-20T07:38:54.113917Z,ruxex-crossterm,0.29.0,0,0,https://github.com/Ruxex/ruxex-crossterm,A crossplatform terminal library for manipulating terminals.
+2026-10-20T07:39:28.506137Z,opencv-no-c-stitching,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,"cv::stitching for opencv-no-c: warpers, blenders and a panorama pipeline."
+2026-10-20T07:40:28.14858Z,plakous-openai,0.0.1,0,0,https://github.com/N0xMare/plak,OpenAI Responses protocol integration for Plakous
+2026-10-20T07:41:02.465809Z,ruxex-tungstenite,0.27.0,0,0,https://github.com/Ruxex/ruxex-tungstenite,Lightweight stream-based WebSocket implementation
+2026-10-20T07:41:13.549608Z,paperpaw-sqlite,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-sqlite"
+2026-10-20T07:43:39.23843Z,av-drift-detector,0.1.0,0,0,https://github.com/AlexHayton/av-drift-detector,Generate machine-readable A/V sync test videos and measure audio/video drift frame by frame
+2026-10-20T07:45:21.091911Z,leptos-use-geolocation,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
+2026-10-20T07:45:40.582509Z,orch-cli,0.86.0,0,0,https://github.com/gabrielkoerich/orch,"Orch, the agent orchestration engine: runs coding agents on tasks and cron jobs"
+2026-10-20T07:47:39.860586Z,plakous-xai,0.0.1,0,0,https://github.com/N0xMare/plak,xAI Responses and Grok subscription protocol integration for Plakous
+2026-10-20T07:47:46.905993Z,ruxex-tokio-tungstenite,0.28.0,0,0,https://github.com/Ruxex/ruxex-tokio-tungstenite,"Tokio binding for Tungstenite, the Lightweight stream-based WebSocket implementation"
+2026-10-20T07:48:34.846709Z,amqp-client,0.1.0,0,0,https://github.com/cloudamqp/amqp-client.rs,An AMQP 0-9-1 client library built on tokio.
+2026-10-20T07:48:40.9407Z,kurogane-cli,0.0.6-beta.1,0,0,https://github.com/0x48piraj/kurogane,"Command-line tool to create, run and bundle Kurogane applications"
+2026-10-20T07:49:39.806133Z,opencv-no-c-video,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,"cv::video for opencv-no-c: optical flow, background subtraction, tracking and Kalman filtering."
+2026-10-20T07:51:13.766502Z,paperpaw-stardict,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-stardict"
+2026-10-20T07:55:20.624592Z,leptos-use-idle,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Tracks whether the user is being inactive
+2026-10-20T07:58:09.631447Z,silverbaths,0.0.1,0,0,https://github.com/sumukshashidhar/silverbaths,"Film looks for photos, camera raws and video, built for people and agents. Placeholder; first release coming soon."
+2026-10-20T07:59:32.927602Z,opencv-no-c-samples,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,"The OpenCV sample programs, ported to opencv-no-c and runnable under wasm32."
+2026-10-20T08:01:17.829066Z,paperpaw-fontgen,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-20T08:02:03.657051Z,plakous-agent,0.0.1,0,0,https://github.com/N0xMare/plak,Curated provider-neutral single-agent component for Plakous
+2026-10-20T08:03:54.2479Z,re_walkers,0.63.1,0,0,https://github.com/rerun-io/walkers,"Temporary fork of walkers, a slippy map widget for egui. Use the walkers crate instead."
+2026-10-20T08:05:17.502361Z,rogo-gpu,0.1.0,0,0,https://github.com/bitboxx/rogo,Feature forwarder for rogo: turns on llama-cpp-2's Vulkan or CUDA backend away from macOS
+2026-10-20T08:05:18.926375Z,leptos-use-scroll,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive scroll position and state
+2026-10-20T08:07:21.654709Z,cf-gears-quota-enforcement-sdk,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"SDK for the quota-enforcement gear: storage plugin contract, domain types, closed error enums, and GTS plugin spec"
+2026-10-20T08:08:00.792889Z,mahiro,0.1.0,0,0,,[Demo]本地文件搜索工具
+2026-10-20T08:08:15.774386Z,relay-html,0.4.0,0,0,https://github.com/relay-rs/relay,Разбор HTML-шаблонов Relay для процедурных макросов
+2026-10-20T08:08:20.094588Z,relay-cli-core,0.4.0,0,0,https://github.com/relay-rs/relay,"Ядро CLI Relay: анализ проекта, управление компонентами и relay.lock"
+2026-10-20T08:09:20.19214Z,plakous-anthropic,0.0.1,0,0,https://github.com/N0xMare/plak,Anthropic Messages protocol integration for Plakous
+2026-10-20T08:09:31.597463Z,opencv-no-c-videoio,0.1.0,0,0,https://github.com/eugenehp/opencv-no-c,"cv::videoio for opencv-no-c: AVI, Y4M and image-sequence capture and writing."
+2026-10-20T08:11:14.171469Z,paperpaw-plugin-about,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-about"
+2026-10-20T08:15:21.402959Z,leptos-use-infinite-scroll,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Infinite scrolling of the element
+2026-10-20T08:16:08.630359Z,pinentry-tmux,0.1.0,0,0,,Run curses pinentry in an explicitly targeted tmux popup
+2026-10-20T08:17:37.812388Z,nft-gate-core,0.0.27,0,0,https://github.com/meddleware-org/nft-gate,"The nft-gate decision logic in one place: proof, Sui signature verification, gRPC-web chain reads, redemption/nonce/rate state machines, header and config policy, and the request orchestration. No hy…"

@@ -8,55 +8,57 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 07:20 UTC
+## Latest list — 2026-10-20 08:18 UTC
 
-New crates published between 2026-10-20 06:20 UTC and 2026-10-20 07:20 UTC.
+New crates published between 2026-10-20 07:20 UTC and 2026-10-20 08:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-20T07-20-11-52522Z.csv)
+[Full CSV](data/new-crates-2026-10-20T08-18-55-606835Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-20 06:23:30 | [plakous-messages](https://crates.io/crates/plakous-messages) | 0.0.1 | 0 | Messages-family protocol kernel primitives for Plakous |
-| 2026-10-20 06:24:11 | [ferraus-mcp](https://crates.io/crates/ferraus-mcp) | 0.1.0 | 0 | MCP server exposing every ferraus command as a tool |
-| 2026-10-20 06:25:21 | [leptos-use-element-bounding](https://crates.io/crates/leptos-use-element-bounding) | 0.20.0 | 0 | Reactive [bounding box](https://developer.mozilla.org/en-US/docs/Web/API/Elemen… |
-| 2026-10-20 06:28:55 | [hirust-mapper-cli](https://crates.io/crates/hirust-mapper-cli) | 0.4.0 | 0 | hirust-mapper 代码生成 CLI：连库反向生成 entity（MapperModel）与 mapper XML 骨架 |
-| 2026-10-20 06:29:30 | [opencv-no-c-calib3d](https://crates.io/crates/opencv-no-c-calib3d) | 0.1.0 | 0 | cv::calib3d for opencv-no-c: Rodrigues, homography, PnP and projection. |
-| 2026-10-20 06:30:24 | [plakous-responses-dialect](https://crates.io/crates/plakous-responses-dialect) | 0.0.1 | 0 | Generic Responses-family dialect host shapes (free functions + shared types) |
-| 2026-10-20 06:34:16 | [berm-host](https://crates.io/crates/berm-host) | 0.1.0 | 0 | The host every berm daemon runs: deployed services, the state they commit, and… |
-| 2026-10-20 06:34:18 | [crab-agent](https://crates.io/crates/crab-agent) | 0.1.0 | 0 | Command-line client for bermd |
-| 2026-10-20 06:34:19 | [crab-guest-stripe](https://crates.io/crates/crab-guest-stripe) | 0.1.0 | 0 | Stripe subscriptions for a product's users: Checkout, the customer portal, and… |
-| 2026-10-20 06:34:23 | [orbit-js](https://crates.io/crates/orbit-js) | 0.1.0 | 0 | Serve a Deno, Node or Bun application behind a Claviron edge over Orbit Link |
-| 2026-10-20 06:34:24 | [crab-guest](https://crates.io/crates/crab-guest) | 0.1.0 | 0 | The guests crab provides |
-| 2026-10-20 06:35:17 | [leptos-use-element-hover](https://crates.io/crates/leptos-use-element-hover) | 0.20.0 | 0 | Reactive element's hover state |
-| 2026-10-20 06:37:16 | [plakous-tool-files](https://crates.io/crates/plakous-tool-files) | 0.0.1 | 0 | One workspace-path rule and one patch preflight: bounded reads, exact-content p… |
-| 2026-10-20 06:39:35 | [opencv-no-c-gapi](https://crates.io/crates/opencv-no-c-gapi) | 0.1.0 | 0 | cv::gapi for opencv-no-c: a deferred image-processing graph, compiled once and… |
-| 2026-10-20 06:42:26 | [blazer](https://crates.io/crates/blazer) | 0.1.0 | 0 | A blazing fast, feature-rich library for styling and enhancing CLI output in Ru… |
-| 2026-10-20 06:44:54 | [ffez](https://crates.io/crates/ffez) | 0.1.0 | 0 | A minimal FFmpeg CLI wrapper built for your everyday audio and video tasks. |
-| 2026-10-20 06:45:10 | [manny](https://crates.io/crates/manny) | 0.1.0 | 0 | A digital-twin simulation environment for IETF SUIT software update ecosystems. |
-| 2026-10-20 06:45:19 | [leptos-use-element-size](https://crates.io/crates/leptos-use-element-size) | 0.20.0 | 0 | Reactive size of an HTML element |
-| 2026-10-20 06:47:06 | [respan-gateway-plugin-mcp-router](https://crates.io/crates/respan-gateway-plugin-mcp-router) | 0.1.0 | 0 | First-party plugin: routes an MCP client's request to the MCP server its path n… |
-| 2026-10-20 06:47:28 | [respan-gateway-tool-vendor-kit](https://crates.io/crates/respan-gateway-tool-vendor-kit) | 0.1.0 | 0 | A tool vendor as a template: an HTTP API's tools, its key and its base URL; and… |
-| 2026-10-20 06:47:32 | [respan-gateway-tool-vendors-green](https://crates.io/crates/respan-gateway-tool-vendors-green) | 0.1.0 | 0 | The green tool vendors: maintained, and verified end to end against their live… |
-| 2026-10-20 06:47:35 | [respan-gateway-tool-vendors-yellow](https://crates.io/crates/respan-gateway-tool-vendors-yellow) | 0.1.0 | 0 | The yellow tool vendors: maintained, but not verified end to end against their… |
-| 2026-10-20 06:47:40 | [respan-gateway-tool-vendors](https://crates.io/crates/respan-gateway-tool-vendors) | 0.1.0 | 0 | The tool vendors: HTTP APIs offered as tools, each served as an MCP server in p… |
-| 2026-10-20 06:47:45 | [ccfind](https://crates.io/crates/ccfind) | 0.1.0 | 0 | Full-text search across Claude Code and Codex sessions, with the command to res… |
-| 2026-10-20 06:49:38 | [opencv-no-c-highgui](https://crates.io/crates/opencv-no-c-highgui) | 0.1.0 | 0 | cv::highgui for opencv-no-c: windows, keys, trackbars and ROI selection, on egu… |
-| 2026-10-20 06:50:40 | [agent-first-pdf](https://crates.io/crates/agent-first-pdf) | 0.1.0 | 0 | Recover the reading structure of article PDFs as clean text, images, and source… |
-| 2026-10-20 06:51:05 | [plakous-tool-plan](https://crates.io/crates/plakous-tool-plan) | 0.0.1 | 0 | The bounded task plan: a revisioned PlanState port, its replacement tool, and t… |
-| 2026-10-20 06:55:17 | [leptos-use-intersection-observer](https://crates.io/crates/leptos-use-intersection-observer) | 0.20.0 | 0 | Reactive [IntersectionObserver](https://developer.mozilla.org/en-US/docs/Web/AP… |
-| 2026-10-20 06:58:06 | [plakous-tool-process](https://crates.io/crates/plakous-tool-process) | 0.0.1 | 0 | Joined process sessions: the four canonical operations, the PTY backend, and th… |
-| 2026-10-20 06:59:29 | [opencv-no-c-imgcodecs](https://crates.io/crates/opencv-no-c-imgcodecs) | 0.1.0 | 0 | Pure-Rust port of the OpenCV `imgcodecs` module: image file I/O. |
-| 2026-10-20 07:00:52 | [inchworm](https://crates.io/crates/inchworm) | 0.1.0 | 0 | local coding agent orchestrator |
-| 2026-10-20 07:04:24 | [nanometer](https://crates.io/crates/nanometer) | 0.1.0 | 0 | Metric handles for Rust whose record path costs nanoseconds, exported through O… |
-| 2026-10-20 07:05:21 | [leptos-use-element-visibility](https://crates.io/crates/leptos-use-element-visibility) | 0.20.0 | 0 | Tracks the visibility of an element within the viewport |
-| 2026-10-20 07:09:29 | [opencv-no-c-ml](https://crates.io/crates/opencv-no-c-ml) | 0.1.0 | 0 | cv::ml for opencv-no-c: KNN, Bayes, SVM, decision trees, MLP and EM. |
-| 2026-10-20 07:12:04 | [plakous-tool-search](https://crates.io/crates/plakous-tool-search) | 0.0.1 | 0 | Bounded deterministic repository search and directory listing, with its own wal… |
-| 2026-10-20 07:15:24 | [leptos-use-event-source](https://crates.io/crates/leptos-use-event-source) | 0.20.0 | 0 | Reactive [EventSource](https://developer.mozilla.org/en-US/docs/Web/API/EventSo… |
-| 2026-10-20 07:15:25 | [bookcicle-eventing](https://crates.io/crates/bookcicle-eventing) | 1.0.1 | 0 | Privacy-conscious Eventing by Bookcicle SDK |
-| 2026-10-20 07:17:26 | [rydantic-ai](https://crates.io/crates/rydantic-ai) | 0.1.0 | 0 | Typed AI agents, resumable graphs and a Responses gateway for Rydantic |
-| 2026-10-20 07:18:11 | [boma](https://crates.io/crates/boma) | 0.1.0 | 0 | Nix external builder running Linux derivations in a fresh Virtualization.framew… |
-| 2026-10-20 07:19:10 | [plakous-tool-web](https://crates.io/crates/plakous-tool-web) | 0.0.1 | 0 | Local wrapper tools for provider-hosted web search, page fetch and X search, on… |
-| 2026-10-20 07:19:31 | [opencv-no-c-objdetect](https://crates.io/crates/opencv-no-c-objdetect) | 0.1.0 | 0 | cv::objdetect for opencv-no-c: HOG descriptors, cascade detection and rectangle… |
+| 2026-10-20 07:25:17 | [leptos-use-favicon](https://crates.io/crates/leptos-use-favicon) | 0.20.0 | 0 | Reactive favicon |
+| 2026-10-20 07:29:01 | [thirtyftp](https://crates.io/crates/thirtyftp) | 0.1.0 | 0 | A small FTP and FTPS (explicit TLS) server library for receive folders: passive… |
+| 2026-10-20 07:30:36 | [opencv-no-c-photo](https://crates.io/crates/opencv-no-c-photo) | 0.1.0 | 0 | cv::photo for opencv-no-c: denoising, inpainting and edge-preserving filters. |
+| 2026-10-20 07:33:20 | [plakous-compose](https://crates.io/crates/plakous-compose) | 0.0.1 | 0 | Composition presentations: the js/py cell outer tools and the Codex Code Mode e… |
+| 2026-10-20 07:33:41 | [devino](https://crates.io/crates/devino) | 0.1.0 | 0 | Bounded OpenVINO CPU backend for verified local model bundles |
+| 2026-10-20 07:34:30 | [paperpaw-image](https://crates.io/crates/paperpaw-image) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-image |
+| 2026-10-20 07:34:33 | [paperpaw-fat](https://crates.io/crates/paperpaw-fat) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
+| 2026-10-20 07:34:37 | [paperpaw-plugin-store](https://crates.io/crates/paperpaw-plugin-store) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
+| 2026-10-20 07:34:40 | [paperpaw-qr](https://crates.io/crates/paperpaw-qr) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
+| 2026-10-20 07:34:43 | [paperpaw-serve](https://crates.io/crates/paperpaw-serve) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-serve |
+| 2026-10-20 07:35:21 | [leptos-use-fn-debounce-throttle](https://crates.io/crates/leptos-use-fn-debounce-throttle) | 0.20.0 | 0 | Debounced and throttled function wrappers for Leptos |
+| 2026-10-20 07:38:54 | [ruxex-crossterm](https://crates.io/crates/ruxex-crossterm) | 0.29.0 | 0 | A crossplatform terminal library for manipulating terminals. |
+| 2026-10-20 07:39:28 | [opencv-no-c-stitching](https://crates.io/crates/opencv-no-c-stitching) | 0.1.0 | 0 | cv::stitching for opencv-no-c: warpers, blenders and a panorama pipeline. |
+| 2026-10-20 07:40:28 | [plakous-openai](https://crates.io/crates/plakous-openai) | 0.0.1 | 0 | OpenAI Responses protocol integration for Plakous |
+| 2026-10-20 07:41:02 | [ruxex-tungstenite](https://crates.io/crates/ruxex-tungstenite) | 0.27.0 | 0 | Lightweight stream-based WebSocket implementation |
+| 2026-10-20 07:41:13 | [paperpaw-sqlite](https://crates.io/crates/paperpaw-sqlite) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-sqlite |
+| 2026-10-20 07:43:39 | [av-drift-detector](https://crates.io/crates/av-drift-detector) | 0.1.0 | 0 | Generate machine-readable A/V sync test videos and measure audio/video drift fr… |
+| 2026-10-20 07:45:21 | [leptos-use-geolocation](https://crates.io/crates/leptos-use-geolocation) | 0.20.0 | 0 | Reactive [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geo… |
+| 2026-10-20 07:45:40 | [orch-cli](https://crates.io/crates/orch-cli) | 0.86.0 | 0 | Orch, the agent orchestration engine: runs coding agents on tasks and cron jobs |
+| 2026-10-20 07:47:39 | [plakous-xai](https://crates.io/crates/plakous-xai) | 0.0.1 | 0 | xAI Responses and Grok subscription protocol integration for Plakous |
+| 2026-10-20 07:47:46 | [ruxex-tokio-tungstenite](https://crates.io/crates/ruxex-tokio-tungstenite) | 0.28.0 | 0 | Tokio binding for Tungstenite, the Lightweight stream-based WebSocket implement… |
+| 2026-10-20 07:48:34 | [amqp-client](https://crates.io/crates/amqp-client) | 0.1.0 | 0 | An AMQP 0-9-1 client library built on tokio. |
+| 2026-10-20 07:48:40 | [kurogane-cli](https://crates.io/crates/kurogane-cli) | 0.0.6-beta.1 | 0 | Command-line tool to create, run and bundle Kurogane applications |
+| 2026-10-20 07:49:39 | [opencv-no-c-video](https://crates.io/crates/opencv-no-c-video) | 0.1.0 | 0 | cv::video for opencv-no-c: optical flow, background subtraction, tracking and K… |
+| 2026-10-20 07:51:13 | [paperpaw-stardict](https://crates.io/crates/paperpaw-stardict) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-stardict |
+| 2026-10-20 07:55:20 | [leptos-use-idle](https://crates.io/crates/leptos-use-idle) | 0.20.0 | 0 | Tracks whether the user is being inactive |
+| 2026-10-20 07:58:09 | [silverbaths](https://crates.io/crates/silverbaths) | 0.0.1 | 0 | Film looks for photos, camera raws and video, built for people and agents. Plac… |
+| 2026-10-20 07:59:32 | [opencv-no-c-samples](https://crates.io/crates/opencv-no-c-samples) | 0.1.0 | 0 | The OpenCV sample programs, ported to opencv-no-c and runnable under wasm32. |
+| 2026-10-20 08:01:17 | [paperpaw-fontgen](https://crates.io/crates/paperpaw-fontgen) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
+| 2026-10-20 08:02:03 | [plakous-agent](https://crates.io/crates/plakous-agent) | 0.0.1 | 0 | Curated provider-neutral single-agent component for Plakous |
+| 2026-10-20 08:03:54 | [re_walkers](https://crates.io/crates/re_walkers) | 0.63.1 | 0 | Temporary fork of walkers, a slippy map widget for egui. Use the walkers crate… |
+| 2026-10-20 08:05:17 | [rogo-gpu](https://crates.io/crates/rogo-gpu) | 0.1.0 | 0 | Feature forwarder for rogo: turns on llama-cpp-2's Vulkan or CUDA backend away… |
+| 2026-10-20 08:05:18 | [leptos-use-scroll](https://crates.io/crates/leptos-use-scroll) | 0.20.0 | 0 | Reactive scroll position and state |
+| 2026-10-20 08:07:21 | [cf-gears-quota-enforcement-sdk](https://crates.io/crates/cf-gears-quota-enforcement-sdk) | 0.1.0 | 0 | SDK for the quota-enforcement gear: storage plugin contract, domain types, clos… |
+| 2026-10-20 08:08:00 | [mahiro](https://crates.io/crates/mahiro) | 0.1.0 | 0 | [Demo]本地文件搜索工具 |
+| 2026-10-20 08:08:15 | [relay-html](https://crates.io/crates/relay-html) | 0.4.0 | 0 | Разбор HTML-шаблонов Relay для процедурных макросов |
+| 2026-10-20 08:08:20 | [relay-cli-core](https://crates.io/crates/relay-cli-core) | 0.4.0 | 0 | Ядро CLI Relay: анализ проекта, управление компонентами и relay.lock |
+| 2026-10-20 08:09:20 | [plakous-anthropic](https://crates.io/crates/plakous-anthropic) | 0.0.1 | 0 | Anthropic Messages protocol integration for Plakous |
+| 2026-10-20 08:09:31 | [opencv-no-c-videoio](https://crates.io/crates/opencv-no-c-videoio) | 0.1.0 | 0 | cv::videoio for opencv-no-c: AVI, Y4M and image-sequence capture and writing. |
+| 2026-10-20 08:11:14 | [paperpaw-plugin-about](https://crates.io/crates/paperpaw-plugin-about) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-a… |
+| 2026-10-20 08:15:21 | [leptos-use-infinite-scroll](https://crates.io/crates/leptos-use-infinite-scroll) | 0.20.0 | 0 | Infinite scrolling of the element |
+| 2026-10-20 08:16:08 | [pinentry-tmux](https://crates.io/crates/pinentry-tmux) | 0.1.0 | 0 | Run curses pinentry in an explicitly targeted tmux popup |
+| 2026-10-20 08:17:37 | [nft-gate-core](https://crates.io/crates/nft-gate-core) | 0.0.27 | 0 | The nft-gate decision logic in one place: proof, Sui signature verification, gR… |
 
 ## Data source
 
