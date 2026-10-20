@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T18:24:35.308679Z,commonware-allocator,2026.9.0,0,0,https://github.com/commonwarexyz/monorepo/tree/main/allocator,Allocate and manage memory.
+2026-10-20T18:25:10.298058Z,krabka-java-regex,1.0.6,0,0,https://github.com/krabka-io/krabka-broker,"Java's java.util.regex semantics in Rust: Pattern.matches, replaceAll and replaceFirst as JDK 25 reads them"
+2026-10-20T18:27:24.765302Z,ra-jit,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,Rust compiler daemon over rust-analyzer's MIR: incremental builds and live edits through cargo
+2026-10-20T18:29:31.151733Z,ramp-ffmpeg-sys,9.0.2,0,0,https://github.com/ramp-stack/ffmpeg-sys,RAMP Stack FFmpeg bindings with bundled source and Apple static linking
+2026-10-20T18:30:38.113291Z,easyadb,0.1.0,0,0,https://github.com/shamilatesoglu/easyadb,Pair Android devices for wireless ADB by scanning a QR code in your terminal
+2026-10-20T18:32:36.739226Z,ramp-ffmpeg,9.0.1,0,0,https://github.com/ramp-stack/ffmpeg,RAMP Stack's FFmpeg wrapper with Apple static-linking fixes
+2026-10-20T18:36:33.476708Z,simien,0.0.0,0,0,https://github.com/simienapp/runtime,The Simien runtime executable. Not released yet: this version reserves the name.
+2026-10-20T18:36:36.745225Z,simien_boxed_error,0.1.0,0,0,https://github.com/simienapp/core,Macro for easily boxing an error. Forked from Deno's boxed_error 0.2.3.
+2026-10-20T18:36:38.829538Z,simien_crypto_provider,0.1.0,0,0,https://github.com/simienapp/core,Cryptography provider for simien_crypto. Forked from Deno's deno_crypto_provider 0.53.0.
+2026-10-20T18:36:40.839805Z,simien_error_macro,0.1.0,0,0,https://github.com/simienapp/core,Macro for writing simien_error errors. Forked from Deno's deno_error_macro 0.7.1.
+2026-10-20T18:36:43.841278Z,simien_native_certs,0.1.0,0,0,https://github.com/simienapp/core,Loads the native certificate store for simien_tls. Forked from Deno's deno_native_certs 0.3.1.
+2026-10-20T18:42:20.60872Z,simien_ops,0.1.0,0,0,https://github.com/simienapp/core,Proc macros for writing simien_core ops. Forked from Deno's deno_ops 0.288.0.
+2026-10-20T18:47:31.801428Z,helios-mesh-macros,0.1.3,0,0,https://github.com/stokker-technologies/helios-mesh,Procedural macros for authoring Helios Mesh nodes and routes at compile time.
+2026-10-20T18:47:38.962358Z,helios-mesh-protocol,0.1.3,0,0,https://github.com/stokker-technologies/helios-mesh,Versioned wire protocol shared by Helios Mesh firmware and host software.
+2026-10-20T18:47:48.450923Z,helios-mesh-core,0.1.3,0,0,https://github.com/stokker-technologies/helios-mesh,Node chassis shared by every Helios Mesh firmware image.
+2026-10-20T18:47:56.031195Z,helios-mesh-drivers,0.1.3,0,0,https://github.com/stokker-technologies/helios-mesh,Driver objects behind embedded-hal traits for Helios Mesh firmware.
+2026-10-20T18:47:58.614028Z,helios-mesh-board-feather-rp2040,0.1.3,0,0,https://github.com/stokker-technologies/helios-mesh,Board support for the Adafruit Feather RP2040 RFM95 used by Helios Mesh firmware.
+2026-10-20T18:52:20.307898Z,simien_unsync,0.1.0,0,0,https://github.com/simienapp/core,Adapters for working with Tokio on a single thread. Forked from Deno's deno_unsync 0.4.4.
+2026-10-20T18:55:39.37069Z,vsf-derive,0.10.0,0,0,https://github.com/nickspiker/vsf,"Derive macro for VSF section codecs — one struct definition, both codec halves"
+2026-10-20T18:57:35.524172Z,smarts-rs,0.1.0,0,0,https://github.com/earth-metabolome-initiative/smarts-rs,"SMARTS parsing, canonicalization, editing, screening, and substructure matching"
+2026-10-20T18:57:35.716241Z,utilvo-apache-shield,1.1.0,0,0,https://github.com/utilvo/apache-edge-shield,"Apache 2.4 mod_authz_core CIDR radix-tree, mod_remoteip & .htaccess cloud scraper firewall powered by Utilvo EdgeShield."
+2026-10-20T18:57:58.271858Z,helios-mesh,0.1.3,0,0,https://github.com/stokker-technologies/helios-mesh,Rust facade for discovering and controlling Helios Mesh LoRa nodes from hosts and firmware.
+2026-10-20T18:59:19.607078Z,solistore,0.1.0,0,0,https://github.com/solisoft/solistore,"Embedded LSM key-value store for SoliDB: pure Rust, durable on every commit by default"
+2026-10-20T19:00:42.389897Z,hest,0.0.1,0,0,https://github.com/merely-made/mere,"Name reservation. Hest is the command architecture of the Mere stack: how a host declares a command, offers it, invokes it with arguments, and records the result. It will absorb command-menu (the off…"
+2026-10-20T19:02:20.29495Z,simien_v8,0.1.0,0,0,https://github.com/simienapp/core,"JavaScript engine facade for simien_core (V8, or QuickJS behind a feature). Forked from Deno's deno_v8 0.4.0."
+2026-10-20T19:04:58.649393Z,rustbase-xtask,0.1.0,0,0,https://github.com/breki/rustbase,Shared cargo-xtask tooling for rustbase-derived projects
+2026-10-20T19:08:53.366084Z,anpr-wiegand,1.0.0,0,0,https://github.com/looorent/anpr-wiegand-rs,Format license plates to the Wiegand format (26-bit and 64-bit) for ANPR systems
+2026-10-20T19:09:48.271674Z,soli-yaml,0.1.0,0,0,,"The YAML subset Soli reads (locale files, Yaml.parse) and writes (Yaml.stringify), in safe Rust"
+2026-10-20T19:12:20.797203Z,simien_error,0.1.0,0,0,https://github.com/simienapp/core,Error representation to JavaScript for simien_core. Forked from Deno's deno_error 0.7.1.
+2026-10-20T19:14:36.564209Z,rosed,0.10.0,0,0,https://github.com/fathom-x/rose,"A Bitcoin-Core-style JSON-RPC wallet server: the rose daemon and the library behind it, with a BDK Bitcoin engine and an opt-in Zakura Common (librustzcash) Zcash engine"
+2026-10-20T19:14:55.675161Z,rose-cli,0.10.0,0,0,https://github.com/fathom-x/rose,"rose: the operator's command line for the rosed wallet daemon - wallet setup and configuration subcommands, plus a bitcoin-cli-style JSON-RPC client"
+2026-10-20T19:18:40.217452Z,weft-decider,0.0.1,0,0,https://github.com/theweft/weft-agent,"weft decider: runs weft-verifier, persists its state before acting, drives the executor"
+2026-10-20T19:18:41.004116Z,weft-sync,0.0.1,0,0,https://github.com/theweft/weft-agent,"weft document sync: content-addressed store, push and anti-entropy pull (sans I/O)"
+2026-10-20T19:18:41.351843Z,weft-transport,0.0.1,0,0,https://github.com/theweft/weft-agent,weft transport contract (publish/subscribe subset) and adapters
+2026-10-20T19:18:44.123999Z,weft-agent,0.0.1,0,0,https://github.com/theweft/weft-agent,"weft agent for Linux devices and gateways: node runtime (sync, decider, executor)"
+2026-10-20T19:18:59.895391Z,fresh-js-macros,0.5.4,0,0,https://github.com/sinelaw/fresh,"Proc macros for fresh-js's system-QuickJS backend: #[class], #[methods] and the Trace/JsLifetime derives, matching rquickjs's"
+2026-10-20T19:19:02.208025Z,fresh-quickjs-sys,0.5.4,0,0,https://github.com/sinelaw/fresh,"Raw FFI bindings to the system QuickJS library (Debian's libquickjs), generated at build time from the installed quickjs.h"
+2026-10-20T19:19:17.74929Z,fresh-js,0.5.4,0,0,https://github.com/sinelaw/fresh,"The JavaScript engine boundary for Fresh's plugin runtime: the one crate that names the engine, so it can be swapped without touching its users"
