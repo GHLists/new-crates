@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T14:19:14.709947Z,listen-fire-module-kit,0.12.0-rc.3,0,0,https://github.com/listen-fire/listen-fire,"Write listen-fire modules (adapters, plugins, core slots) in Rust and serve them over adapter protocol 2"
+2026-10-20T14:20:05.527109Z,composure_sync,0.1.1,0,0,https://github.com/BlueFrog130/composure-rs,"Deploy-time CLI that syncs a Composure bot's slash commands with Discord: plan, confirm, apply, CI drift checks"
+2026-10-20T14:20:10.662726Z,versioned-egraphs,0.1.0,0,0,https://github.com/jahrim/versioned-egraphs,Versioned E-Graphs for conditional equational reasoning.
+2026-10-20T14:20:49.967482Z,composure_adapter_tokio,0.1.1,0,0,https://github.com/BlueFrog130/composure-rs,"Serve Composure Discord bots from a hosted server on tokio and hyper, with graceful shutdown and health checks"
+2026-10-20T14:21:16.87215Z,paperpaw-plugin-update,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-20T14:24:01.925775Z,hermit-replay,0.5.0,0,0,https://github.com/facebookexperimental/hermit,"Hermit's ptrace replay tool, compiled apart from the hermit library so its Detcore instantiation builds in parallel."
+2026-10-20T14:24:02.170185Z,luxe-remote,0.1.3,0,0,https://github.com/evanwhittaker/luxe,The bridge that lets your own phone or tablet drive Luxe sessions running on this machine
+2026-10-20T14:24:05.932628Z,skiss-core,0.0.1,0,0,https://github.com/mklab-se/skiss,Core types and configuration for skiss
+2026-10-20T14:25:35.135949Z,skiss,0.0.1,0,0,https://github.com/mklab-se/skiss,"An infinite canvas for your notes, stored as Markdown"
+2026-10-20T14:25:42.494295Z,frametime,0.9.1,0,0,https://github.com/KyleTamayo/frametime,"Offline frame-time trace analyser and regression gate: exact, deterministic statistics, hitch and pacing detection, frame-budget and bootstrap regression gates for CI"
+2026-10-20T14:25:57.853448Z,calmlens,0.1.0,0,0,https://github.com/CalmLens/sdks/tree/main/rust,"Rust SDK for CalmLens moderation, storage and CDN delivery"
+2026-10-20T14:27:23.590962Z,ra-jit-parser,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's parser crate, used by ra-jit"
+2026-10-20T14:27:32.39873Z,qr-precise,0.1.0,0,0,https://github.com/den59k/qr-precise,"QR code detector and decoder with sub-pixel corner refinement: a pure-Rust quirc port with Wolf-Jolion adaptive binarization. No unsafe, no per-frame allocation, wasm-friendly."
+2026-10-20T14:28:44.976221Z,cairn-lang-docs,2026.10.0,0,0,https://github.com/kage1020/Cairn,"The Cairn documentation site's Markdown pages, the specification among them, embedded for offline reading"
+2026-10-20T14:29:30.147445Z,ic-testkit-native,0.61.0,0,0,https://github.com/dragginzgame/ic-testkit,Dependency-free native allocation measurement for test workloads
+2026-10-20T14:29:41.781936Z,texera-core,0.99.0,0,0,https://github.com/feraxhp/texera-core,A port of codemirror state to rust.
+2026-10-20T14:29:45.801293Z,gltf-part-validator,0.3.1,0,0,https://github.com/KyleTamayo/gltf-part-validator,"Offline validator for modular game-character glTF parts: shared skeleton and bind pose, naming, scalp masks, material slots, budgets and asset licences"
+2026-10-20T14:30:01.645324Z,dtmbd,0.1.1,0,0,https://github.com/tychenjiajun/dtmbd,"DTMB/DMB-TH USB stick → IPTV (M3U / MPEG-TS) for Raspberry Pi. No kernel driver, no transcoding."
+2026-10-20T14:31:17.100568Z,paperpaw-plugin-vocabulary,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-vocabulary"
+2026-10-20T14:37:23.712085Z,ra-jit-rustc_type_ir,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of ra-ap-rustc_type_ir 0.166.0 on ra-jit-rustc_abi, used by ra-jit"
+2026-10-20T14:39:12.103769Z,foundation_wasmtime,0.1.0,0,0,https://github.com/ewe-studios/ewe_platform,Wasmtime shell — run WASM modules in-process alongside the Tauri shell (Surface 3)
+2026-10-20T14:41:14.999655Z,paperpaw-plugin-wallabag,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-wallabag"
+2026-10-20T14:41:45.976279Z,foundation_platform,0.0.1,0,0,https://github.com/ewe-studios/ewe_platform,"Cross-platform application layer for native, desktop, mobile and web apps: sessions, route policies, capabilities, caching, transport lanes and WebView management, with Tauri as one host"
+2026-10-20T14:47:23.419811Z,ra-jit-test-utils,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's test-utils crate, used by ra-jit"
+2026-10-20T14:48:53.832414Z,risenexa,0.1.0,0,0,https://github.com/envixo/risenexa-rs,"Official Rust client for Risenexa: product tracking events, leads and pageviews."
+2026-10-20T14:50:51.206469Z,layout-check,0.2.0,0,0,https://github.com/KyleTamayo/layout-check,Offline geometry and navigation design-rule checker for greybox levels
+2026-10-20T14:50:53.442477Z,minymaton-core,0.1.0,0,0,https://github.com/immutlex-dev/minymaton,"The durable, event-driven queue behind minymaton's MCP message bus: receive waits, wake signals and a pluggable QueueStore/QueueReader backend with bundled SQLite"
+2026-10-20T14:51:14.150487Z,paperpaw-plugin-weather,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-20T14:51:16.709384Z,minymaton-server,0.1.0,0,0,https://github.com/immutlex-dev/minymaton,"minymaton's loopback Streamable HTTP MCP server, with the minymaton-wait helper and the minymaton-storage-check monitor"
+2026-10-20T14:51:17.614294Z,minymaton,0.1.0,0,0,https://github.com/immutlex-dev/minymaton,"A durable, event-driven MCP message bus for AI agents: installs the minymaton server binary"
+2026-10-20T14:52:07.05803Z,rattler_vfs,0.0.0,0,0,https://github.com/conda/rattler,Placeholder for a crate in the rattler project
+2026-10-20T14:53:26.298302Z,conda-mirror,0.0.0,0,0,https://github.com/conda/rattler,Placeholder for a crate in the rattler project
+2026-10-20T14:53:58.589137Z,pixi-pack,0.0.0,0,0,https://github.com/conda/rattler,Placeholder for a crate in the rattler project
+2026-10-20T14:54:07.955761Z,conda-deny,0.0.0,0,0,https://github.com/conda/rattler,Placeholder for a crate in the rattler project
+2026-10-20T14:54:15.471497Z,pixi-oci,0.0.0,0,0,https://github.com/conda/rattler,Placeholder for a crate in the rattler project
+2026-10-20T14:57:23.499854Z,ra-jit-vfs,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's vfs crate, used by ra-jit"
+2026-10-20T15:01:16.440561Z,paperpaw-plugin-widgets,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-20T15:06:35.351171Z,diffle,0.0.0,0,0,https://github.com/conda/rattler,Placeholder for a crate in the rattler project
+2026-10-20T15:07:23.822232Z,ra-jit-rustc_next_trait_solver,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of ra-ap-rustc_next_trait_solver 0.166.0 on ra-jit-rustc_abi, used by ra-jit"
+2026-10-20T15:07:36.958682Z,kms-aead-keyring,0.30.0,0,0,https://github.com/abdolence/kms-aead-rs,"Versioned data encryption keys for kms-aead: keyrings in Firestore, PostgreSQL, S3 or GCS, with staged rotation, a compromised flag and BigQuery and Tink keyset export"
+2026-10-20T15:08:54.575072Z,hypercli-sdk,0.9.1,0,0,https://github.com/HyperCLI/hypercli,Typed Rust client for HyperCLI agent deployments
+2026-10-20T15:08:55.715834Z,unione-rust-sdk,1.1.3,0,0,https://github.com/unione-repo/unione-rust-sdk,UniOne Web API client library for Rust
+2026-10-20T15:10:50.744596Z,compmerge,0.57.0,0,0,https://github.com/Mari6814/compmerge,Merge an attempted shell completion into the full command line
+2026-10-20T15:10:53.289891Z,unione-axum,1.1.3,0,0,https://github.com/unione-repo/unione-axum,"UniOne Web API for axum: API client from the environment, webhook endpoint"
+2026-10-20T15:10:56.007231Z,compmerge-cli,0.57.0,0,0,https://github.com/Mari6814/compmerge,Command-line interface for compmerge
+2026-10-20T15:11:15.090686Z,paperpaw-plugin-wifi,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk"
+2026-10-20T15:11:17.141391Z,viscii,0.1.0,0,0,https://github.com/shvvkz/viscii,A small Rust CLI that plays a video in your terminal using ASCII characters
+2026-10-20T15:17:23.718958Z,ra-jit-syntax,0.1.0,0,0,https://github.com/indexable-inc/ra-jit,"Fork of rust-analyzer's syntax crate, used by ra-jit"
+2026-10-20T15:18:25.250347Z,http-cache-rules,0.1.0,0,0,,"RFC 9111 caching rules for a private (user agent) HTTP cache: storability, freshness, age, Vary, validation and freshening"
