@@ -1,0 +1,59 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T11:20:14.78474Z,ferrodock-mcp,1.20.0,0,0,https://github.com/manimovassagh/Ferrodock,"ferrodock-mcp: an MCP server that lets AI tools see and manage Docker containers, images and Quick start services, on Ferrodock's own engine or any other."
+2026-10-20T11:20:59.522678Z,felis-cli,0.3.0,0,0,https://github.com/felis-terminal/felis,"felis headless front-door: CLI verbs (sessions, notifications, completions) and the frontend launcher"
+2026-10-20T11:21:13.945596Z,paperpaw-plugin-koreader,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-koreader"
+2026-10-20T11:21:59.758051Z,graphersal-server,0.0.1,0,0,https://github.com/graphersal/graphersal,Network server for the Graphersal graph traversal engine (in development; this release only holds the name)
+2026-10-20T11:22:04.02695Z,graphersal-client,0.0.1,0,0,https://github.com/graphersal/graphersal,Client for the Graphersal server (in development; this release only holds the name)
+2026-10-20T11:25:17.463544Z,leptos-use-timestamp,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive current timestamp
+2026-10-20T11:25:44.008945Z,fastatomstruct-core,2.0.0,0,0,https://zivgitlab.uni-muenster.de/ag-salinga/fastatomstruct,"Core data types for fastatomstruct: atoms, elements, filters, units, and utilities"
+2026-10-20T11:25:48.554655Z,fastatomstruct-distance,2.0.0,0,0,https://zivgitlab.uni-muenster.de/ag-salinga/fastatomstruct,"Distance, neighbour-list and bond-detection kernels for fastatomstruct (MIC, cell lists, Voronoi)"
+2026-10-20T11:25:51.793765Z,fastatomstruct-build,2.0.0,0,0,https://zivgitlab.uni-muenster.de/ag-salinga/fastatomstruct,"Crystal-structure builders and reciprocal-space helpers (bulk, molecule, amorphous, k-paths) for fastatomstruct"
+2026-10-20T11:25:56.470646Z,fastatomstruct-io,2.0.0,0,0,https://zivgitlab.uni-muenster.de/ag-salinga/fastatomstruct,"File-format readers and writers for fastatomstruct (xyz, ASE traj, TACO, XTC, QuantumATK HDF5)"
+2026-10-20T11:26:00.698374Z,fastatomstruct-plot,2.0.0,0,0,https://zivgitlab.uni-muenster.de/ag-salinga/fastatomstruct,"Unified rendering for fastatomstruct: ruviz 3D structures, legacy fast 2D rasterizer, and trajectory GIFs"
+2026-10-20T11:26:51.002367Z,fastatomstruct-simulation,2.0.0,0,0,https://zivgitlab.uni-muenster.de/ag-salinga/fastatomstruct,"Simulation primitives (calculators, MD integrators, optimizers, corrections, MPI worker protocols) for fastatomstruct"
+2026-10-20T11:29:14.72006Z,sequoia-layout,0.1.0,0,0,,Sequoia GUI framework — layout engine
+2026-10-20T11:30:27.270756Z,ihe-atna,0.0.0,0,0,https://github.com/FerroHEALTH/FerroAUDIT,IHE ATNA (ITI-20) and BALP audit for the FerroHEALTH family. Placeholder: the crate is published from FerroHEALTH/FerroAUDIT.
+2026-10-20T11:31:14.688601Z,paperpaw-plugin-kosync,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-kosync"
+2026-10-20T11:35:21.569562Z,leptos-use-to-string,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Leptos-Use: reactive `use_to_string` for Leptos
+2026-10-20T11:36:46.110635Z,fastatomstruct-analysis,2.0.0,0,0,https://zivgitlab.uni-muenster.de/ag-salinga/fastatomstruct,"Trajectory analyses for fastatomstruct: RDF, MSD, phonons, bond order, four-point correlation, etc."
+2026-10-20T11:37:38.142828Z,sequoia-input,0.1.0,0,0,,"Sequoia GUI framework — input events (keyboard, pointer)"
+2026-10-20T11:39:43.371358Z,light-fw-html,0.4.0,0,0,https://github.com/gifoff/light,Разбор HTML-шаблонов Light для процедурных макросов
+2026-10-20T11:39:47.195858Z,light-fw-cli-core,0.4.0,0,0,https://github.com/gifoff/light,"Ядро CLI Light: анализ проекта, управление компонентами и light.lock"
+2026-10-20T11:39:53.939347Z,light-fw-cli,0.4.0,0,0,https://github.com/gifoff/light,Утилита light: проверка проекта и управление компонентами Light
+2026-10-20T11:39:57.835212Z,light-fw-macros,0.4.0,0,0,https://github.com/gifoff/light,Процедурные макросы библиотеки Light: #[proxy] и #[template]
+2026-10-20T11:40:02.318153Z,light-fw-core,0.4.0,0,0,https://github.com/gifoff/light,"Ядро Light: виртуальный DOM, реактивность, раскладка, отрисовка и окно"
+2026-10-20T11:41:18.830178Z,paperpaw-plugin-lock,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-lock"
+2026-10-20T11:45:21.514142Z,leptos-use-toggle,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,A boolean switcher with utility functions
+2026-10-20T11:46:45.334827Z,fastatomstruct-queue,2.0.0,0,0,https://zivgitlab.uni-muenster.de/ag-salinga/fastatomstruct,"Generic file-based worker queue for fastatomstruct (DFT batches, phonon force constants, training jobs)"
+2026-10-20T11:47:37.034581Z,sequoia-style,0.1.0,0,0,,Sequoia GUI framework — styles and themes
+2026-10-20T11:48:27.231917Z,canvist_layout,0.0.0,0,0,https://github.com/ifiokjr/canvist,"Incremental text and block layout for the canvist editor: line breaking, bidi, hit testing, display lists, and SVG/HTML renderers"
+2026-10-20T11:48:31.066132Z,canvist_model,0.0.0,0,0,https://github.com/ifiokjr/canvist,"Block-based rich-text document model for the canvist editor: schema, inline mark runs, invertible steps, and transactions"
+2026-10-20T11:48:34.530432Z,canvist_paint,0.0.0,0,0,https://github.com/ifiokjr/canvist,"Rendering for the canvist canvas: a culled, level-of-detail scene walker over vello (GPU), vello_cpu (PNG), and SVG backends"
+2026-10-20T11:48:38.210166Z,canvist_scene,0.0.0,0,0,https://github.com/ifiokjr/canvist,"Scene model for the canvist canvas: a node tree of frames, shapes, paths, and text frames with invertible, CRDT-shaped steps"
+2026-10-20T11:49:30.329478Z,light-fw-behavior-validation,0.4.0,0,0,https://github.com/gifoff/light,"Компонент Light: валидация форм — required, :validator и @validate"
+2026-10-20T11:51:13.482849Z,paperpaw-plugin-menu-editor,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-menu-editor"
+2026-10-20T11:52:11.910604Z,rogtui,0.1.0,0,0,https://github.com/manisk/rogtui,"Fast, minimal, hardware-direct TUI for ASUS ROG and TUF gaming laptops"
+2026-10-20T11:55:20.455225Z,leptos-use-user-media,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive [`mediaDevices.getUserMedia`](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia) streaming
+2026-10-20T12:00:11.185681Z,sequoia-dock,0.1.0,0,0,,"Sequoia GUI framework — headless dock model (IDE splits, tabs, floating)"
+2026-10-20T12:00:40.59421Z,encore-miniredis,0.1.0,0,0,https://github.com/encoredev/v2-encore,Pure Rust in-memory Redis test server for use in integration tests
+2026-10-20T12:00:51.564149Z,encore-sqlproxy,0.1.0,0,0,https://github.com/encoredev/v2-encore,SQL connection configuration for the Encore runtime
+2026-10-20T12:01:02.317489Z,encore-telemetry,0.1.0,0,0,https://github.com/encoredev/v2-encore,"Telemetry for Encore: semantic conventions, OTLP, the log format and console writer, and the runtime's trace and metrics pipeline"
+2026-10-20T12:01:13.237456Z,encore-sdk-core,0.1.0,0,0,https://github.com/encoredev/v2-encore,Shared runtime core for the Encore SDKs
+2026-10-20T12:01:14.807145Z,paperpaw-plugin-menu,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-menu"
+2026-10-20T12:01:24.315006Z,encore-dev,0.1.0,0,0,https://github.com/encoredev/v2-encore,Rust SDK for Encore applications
+2026-10-20T12:02:50.55557Z,xybrid-zzz-sys,0.12.0,0,0,https://github.com/xybrid-ai/xybrid,FFI and safe Phonon/Kitten sessions for the pinned combined zzz CPU engine. Statically links the privately staged libzzz_embed.a from crates/zzz-sys/natives-manifest.json pins; never compiles zzz fro…
+2026-10-20T12:04:32.305289Z,unikv,0.0.1,0,0,https://github.com/hezhangjian/UniKV,"UniKV is a unified, distributed key-value store written in Rust."
+2026-10-20T12:05:18.266593Z,leptos-use-watch-debounce-throttle,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Debounced and throttled watch for Leptos
+2026-10-20T12:09:25.894704Z,sequoia-draw,0.1.0,0,0,,Sequoia GUI framework — vector paths and rasterization
+2026-10-20T12:10:28.447163Z,slackterm,0.1.0,0,0,https://github.com/simoncdna/slackterm,"Slack in your terminal: real time, threads, search and sections, all from the keyboard"
+2026-10-20T12:10:43.117092Z,chess-trainer,0.1.0,0,0,https://github.com/emilhals/chess-trainer,Practice chess openings in the terminal.
+2026-10-20T12:11:17.690853Z,paperpaw-plugin-news,0.0.0,0,0,https://github.com/hthoene/paperpaw,"Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-news"
+2026-10-20T12:12:28.689583Z,legendary-tui,1.0.2,0,0,https://github.com/kmanisk/legendary-tui,"Fast, keyboard-driven Ratatui TUI frontend for Legendary Epic Games Store CLI"
+2026-10-20T12:15:21.901325Z,leptos-use-watch-pausable,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Pausable [`watch`]
+2026-10-20T12:17:15.948891Z,hyperfly-core,0.1.1-alpha.0,0,0,https://github.com/eliahilse/hyperfly,Rust codec for the hyperfly wire format: schema-compiled binary encoding for typed APIs
+2026-10-20T12:18:30.374512Z,coldfire,0.1.0,0,0,https://github.com/FirestormAudio/coldfire-rs,"Core support for ColdFire V4e: MMIO, status register, interrupts, critical section, EMAC"
+2026-10-20T12:18:37.546098Z,coldfire-rt-macros,0.1.0,0,0,https://github.com/FirestormAudio/coldfire-rs,"Attributes for coldfire-rt: #[entry], #[exception], #[interrupt]"
+2026-10-20T12:18:40.446299Z,coldfire-rt,0.1.0,0,0,https://github.com/FirestormAudio/coldfire-rs,"Minimal runtime for ColdFire V4e: reset, RAM vector table, exception trampolines"
+2026-10-20T12:18:41.487745Z,sequoia-hotkey,0.1.0,0,0,,Sequoia GUI framework — OS-global hotkeys (Windows RegisterHotKey)
+2026-10-20T12:19:40.279396Z,mcf5441x-pac,0.1.0,0,0,https://github.com/FirestormAudio/coldfire-rs,"Peripheral access crate for the NXP MCF5441x (ColdFire V4e), generated from an SVD"
+2026-10-20T12:19:46.709784Z,embassy-mcf5441x,0.1.0,0,0,https://github.com/FirestormAudio/coldfire-rs,Embassy HAL for the NXP MCF5441x (ColdFire V4e)

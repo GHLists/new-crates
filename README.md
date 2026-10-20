@@ -8,69 +8,72 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 11:19 UTC
+## Latest list — 2026-10-20 12:20 UTC
 
-New crates published between 2026-10-20 10:20 UTC and 2026-10-20 11:19 UTC.
+New crates published between 2026-10-20 11:19 UTC and 2026-10-20 12:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-20T11-19-35-631356Z.csv)
+[Full CSV](data/new-crates-2026-10-20T12-20-03-006493Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-20 10:20:38 | [felis-pty](https://crates.io/crates/felis-pty) | 0.1.0 | 0 | Self-hosted async PTY layer (openpty on Unix, ConPTY on Windows) |
-| 2026-10-20 10:21:13 | [paperpaw-plugin-format-xtc](https://crates.io/crates/paperpaw-plugin-format-xtc) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-f… |
-| 2026-10-20 10:24:23 | [bezel-mermaid](https://crates.io/crates/bezel-mermaid) | 0.2.18 | 0 | Mermaid source drawn as SVG, a port of Pele |
-| 2026-10-20 10:25:18 | [leptos-use-raf-fn](https://crates.io/crates/leptos-use-raf-fn) | 0.20.0 | 0 | Call function on every requestAnimationFrame |
-| 2026-10-20 10:26:00 | [feather-charts](https://crates.io/crates/feather-charts) | 0.1.0 | 0 | Native financial charts for Iced, ported from TradingView Lightweight Charts |
-| 2026-10-20 10:26:42 | [smol-tar-fs](https://crates.io/crates/smol-tar-fs) | 0.1.11 | 0 | Async filesystem source and sink for smol-tar: a Stream of tar entries from a d… |
-| 2026-10-20 10:27:07 | [encore-postgres-protocol](https://crates.io/crates/encore-postgres-protocol) | 0.6.8 | 0 | Low level Postgres protocol APIs |
-| 2026-10-20 10:27:18 | [encore-tokio-postgres](https://crates.io/crates/encore-tokio-postgres) | 0.7.13 | 0 | A native, asynchronous PostgreSQL client |
-| 2026-10-20 10:27:28 | [encore-postgres-native-tls](https://crates.io/crates/encore-postgres-native-tls) | 0.5.1 | 0 | TLS support for tokio-postgres via native-tls |
-| 2026-10-20 10:27:39 | [encore-postgres-rustls](https://crates.io/crates/encore-postgres-rustls) | 0.1.0 | 0 | TLS support for tokio-postgres via rustls |
-| 2026-10-20 10:27:50 | [encore-os](https://crates.io/crates/encore-os) | 0.1.0 | 0 | Operating system utilities for the Encore runtime |
-| 2026-10-20 10:31:11 | [felis-render-core](https://crates.io/crates/felis-render-core) | 0.1.0 | 0 | felis renderer-neutral core: palette, cell appearance, box drawing, glyph index… |
-| 2026-10-20 10:31:13 | [paperpaw-plugin-home](https://crates.io/crates/paperpaw-plugin-home) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-h… |
-| 2026-10-20 10:35:18 | [leptos-use-screen-orientation](https://crates.io/crates/leptos-use-screen-orientation) | 0.20.0 | 0 | Reactive [Screen Orientation API](https://developer.mozilla.org/en-US/docs/Web/… |
-| 2026-10-20 10:37:38 | [bgp-valley-free](https://crates.io/crates/bgp-valley-free) | 0.1.0 | 0 | Valley-free AS-path validation using the Gao-Rexford model and CAIDA AS-relatio… |
-| 2026-10-20 10:40:44 | [felis-client-core](https://crates.io/crates/felis-client-core) | 0.1.0 | 0 | felis headless client: shadow screen, action enum, IPC client connector, OS-cli… |
-| 2026-10-20 10:41:14 | [paperpaw-plugin-hyphenation](https://crates.io/crates/paperpaw-plugin-hyphenation) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-h… |
-| 2026-10-20 10:44:04 | [speccoder](https://crates.io/crates/speccoder) | 0.0.1 | 0 | Spec-driven coding agent for GitHub Spec Kit projects: the spec is the intent,… |
-| 2026-10-20 10:45:21 | [leptos-use-service-worker](https://crates.io/crates/leptos-use-service-worker) | 0.20.0 | 0 | Reactive [ServiceWorker API](https://developer.mozilla.org/en-US/docs/Web/API/S… |
-| 2026-10-20 10:51:10 | [canvist_canvas](https://crates.io/crates/canvist_canvas) | 0.0.0 | 0 | Headless interaction core for the canvist canvas: camera, spatial index, hit te… |
-| 2026-10-20 10:51:13 | [canvist_collab](https://crates.io/crates/canvist_collab) | 0.0.0 | 0 | Yjs collaboration for canvist documents: a step-to-yrs binding, the y-sync prot… |
-| 2026-10-20 10:51:14 | [paperpaw-plugin-joplin](https://crates.io/crates/paperpaw-plugin-joplin) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
-| 2026-10-20 10:51:17 | [canvist_editor](https://crates.io/crates/canvist_editor) | 0.0.0 | 0 | Platform-agnostic editing engine for canvist: editor state, commands, selection… |
-| 2026-10-20 10:51:20 | [felis-render-wgpu](https://crates.io/crates/felis-render-wgpu) | 0.1.0 | 0 | felis wgpu renderer: pipeline, instance encoding, glyph and image atlas texture… |
-| 2026-10-20 10:51:20 | [canvist_extensions](https://crates.io/crates/canvist_extensions) | 0.0.0 | 0 | The canvist StarterKit: paragraphs, headings, lists, quotes, code, marks, links… |
-| 2026-10-20 10:51:27 | [canvist_headless](https://crates.io/crates/canvist_headless) | 0.0.0 | 0 | The canvist document model without a UI: load, transform, export, and collabora… |
-| 2026-10-20 10:55:21 | [leptos-use-signal-debounce-throttle](https://crates.io/crates/leptos-use-signal-debounce-throttle) | 0.20.0 | 0 | Debounced and throttled signals for Leptos |
-| 2026-10-20 10:57:06 | [encore-runtimecfg](https://crates.io/crates/encore-runtimecfg) | 0.1.0 | 0 | Runtime configuration types and loading for Encore |
-| 2026-10-20 10:57:17 | [encore-appconfig](https://crates.io/crates/encore-appconfig) | 0.1.0 | 0 | App config schemas, validation and config files for Encore |
-| 2026-10-20 10:57:27 | [encore-macros](https://crates.io/crates/encore-macros) | 0.1.0 | 0 | Procedural macros for the Encore Rust SDK. Use them through the `encore` crate. |
-| 2026-10-20 10:57:29 | [sequoia-core](https://crates.io/crates/sequoia-core) | 0.1.0 | 0 | Sequoia GUI framework — core types (geometry, color, events) |
-| 2026-10-20 10:57:30 | [sequoia-reactive](https://crates.io/crates/sequoia-reactive) | 0.1.0 | 0 | Sequoia GUI framework — reactive signals and stores |
-| 2026-10-20 10:57:33 | [sequoia-animation](https://crates.io/crates/sequoia-animation) | 0.1.0 | 0 | Sequoia GUI framework — Rive-style animation (tween, keyframes, mixer, state ma… |
-| 2026-10-20 10:57:34 | [sequoia-assets](https://crates.io/crates/sequoia-assets) | 0.1.0 | 0 | Sequoia GUI framework — asset registry (icons, fonts) |
-| 2026-10-20 10:57:35 | [sequoia-async](https://crates.io/crates/sequoia-async) | 0.1.0 | 0 | Sequoia GUI framework — async tasks bridged to the UI thread (futures without t… |
-| 2026-10-20 10:59:50 | [cap-audio](https://crates.io/crates/cap-audio) | 0.1.0 | 0 | 音频处理原语：WAV 编解码/重采样/增益/淡入淡出/裁剪/拼接/混音/倒放/声道拆分/响度（路径进→路径出，无状态） |
-| 2026-10-20 11:00:55 | [felis-client](https://crates.io/crates/felis-client) | 0.3.0 | 0 | felis native client: winit event loop, OS clipboard, font picker, wgpu renderer |
-| 2026-10-20 11:01:14 | [paperpaw-plugin-keyboard](https://crates.io/crates/paperpaw-plugin-keyboard) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-k… |
-| 2026-10-20 11:05:15 | [leptos-use-sorted](https://crates.io/crates/leptos-use-sorted) | 0.20.0 | 0 | Reactive sort of iterable |
-| 2026-10-20 11:06:37 | [ferrodock-core](https://crates.io/crates/ferrodock-core) | 1.17.0 | 0 | Ferrodock's Docker layer: engines, containers, images, volumes, networks, Compo… |
-| 2026-10-20 11:07:30 | [sequoia-buffer](https://crates.io/crates/sequoia-buffer) | 0.1.0 | 0 | Sequoia GUI framework — framework-free text buffer engine (piece table, line in… |
-| 2026-10-20 11:07:48 | [ferrum-journal](https://crates.io/crates/ferrum-journal) | 0.14.0 | 0 | Bounded JSONL publication and writer lifecycle for Ferrum |
-| 2026-10-20 11:07:49 | [ferrum-output](https://crates.io/crates/ferrum-output) | 0.14.0 | 0 | Owned output sessions and buffer limits for Ferrum inference |
-| 2026-10-20 11:07:53 | [ferrum-execution](https://crates.io/crates/ferrum-execution) | 0.14.0 | 0 | Product execution protocol and model-program driver for Ferrum |
-| 2026-10-20 11:08:06 | [ferrum-slo](https://crates.io/crates/ferrum-slo) | 0.14.0 | 0 | Bounded instance-local reference service-cost estimator for Ferrum |
-| 2026-10-20 11:10:33 | [efatura](https://crates.io/crates/efatura) | 0.1.0 | 0 | Unofficial client for Portugal's e-fatura portal, with resumable SMS two-factor… |
-| 2026-10-20 11:11:14 | [paperpaw-plugin-keys](https://crates.io/crates/paperpaw-plugin-keys) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-k… |
-| 2026-10-20 11:11:26 | [felis-daemon](https://crates.io/crates/felis-daemon) | 0.3.0 | 0 | felis daemon: session pool, IPC server, signal handling |
-| 2026-10-20 11:13:23 | [arty_io_host](https://crates.io/crates/arty_io_host) | 0.1.0 | 0 | Unstable I/O driver hosting utilities for the Arty runtime. |
-| 2026-10-20 11:14:22 | [hexastem](https://crates.io/crates/hexastem) | 0.1.0 | 0 | Batch AI stem separation (6-stem BS-Roformer): native CUDA engine via ONNX Runt… |
-| 2026-10-20 11:15:18 | [leptos-use-textarea-autosize](https://crates.io/crates/leptos-use-textarea-autosize) | 0.20.0 | 0 | Automatically update the height of a textarea depending on the content |
-| 2026-10-20 11:15:35 | [cap-video](https://crates.io/crates/cap-video) | 0.1.0 | 0 | 视频处理原语：MP4/MOV/WebM/MKV 容器元数据探测（时长/宽高/编码/帧数）+ ffmpeg 可用性检测与抽帧（路径进→路径出，无状态） |
-| 2026-10-20 11:16:40 | [unidroid](https://crates.io/crates/unidroid) | 0.3.0 | 0 | A low-memory unidbg: run Android arm64 and armv7 .so files on a computer, in Ru… |
-| 2026-10-20 11:17:13 | [ferrodock-cli](https://crates.io/crates/ferrodock-cli) | 1.16.0 | 0 | fdock: Ferrodock on the command line. Containers, images, logs and Quick start… |
-| 2026-10-20 11:18:00 | [sequoia-text](https://crates.io/crates/sequoia-text) | 0.1.0 | 0 | Sequoia GUI framework — text layout and shaping |
+| 2026-10-20 11:20:14 | [ferrodock-mcp](https://crates.io/crates/ferrodock-mcp) | 1.20.0 | 0 | ferrodock-mcp: an MCP server that lets AI tools see and manage Docker container… |
+| 2026-10-20 11:20:59 | [felis-cli](https://crates.io/crates/felis-cli) | 0.3.0 | 0 | felis headless front-door: CLI verbs (sessions, notifications, completions) and… |
+| 2026-10-20 11:21:13 | [paperpaw-plugin-koreader](https://crates.io/crates/paperpaw-plugin-koreader) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-k… |
+| 2026-10-20 11:21:59 | [graphersal-server](https://crates.io/crates/graphersal-server) | 0.0.1 | 0 | Network server for the Graphersal graph traversal engine (in development; this… |
+| 2026-10-20 11:22:04 | [graphersal-client](https://crates.io/crates/graphersal-client) | 0.0.1 | 0 | Client for the Graphersal server (in development; this release only holds the n… |
+| 2026-10-20 11:25:17 | [leptos-use-timestamp](https://crates.io/crates/leptos-use-timestamp) | 0.20.0 | 0 | Reactive current timestamp |
+| 2026-10-20 11:25:44 | [fastatomstruct-core](https://crates.io/crates/fastatomstruct-core) | 2.0.0 | 0 | Core data types for fastatomstruct: atoms, elements, filters, units, and utilit… |
+| 2026-10-20 11:25:48 | [fastatomstruct-distance](https://crates.io/crates/fastatomstruct-distance) | 2.0.0 | 0 | Distance, neighbour-list and bond-detection kernels for fastatomstruct (MIC, ce… |
+| 2026-10-20 11:25:51 | [fastatomstruct-build](https://crates.io/crates/fastatomstruct-build) | 2.0.0 | 0 | Crystal-structure builders and reciprocal-space helpers (bulk, molecule, amorph… |
+| 2026-10-20 11:25:56 | [fastatomstruct-io](https://crates.io/crates/fastatomstruct-io) | 2.0.0 | 0 | File-format readers and writers for fastatomstruct (xyz, ASE traj, TACO, XTC, Q… |
+| 2026-10-20 11:26:00 | [fastatomstruct-plot](https://crates.io/crates/fastatomstruct-plot) | 2.0.0 | 0 | Unified rendering for fastatomstruct: ruviz 3D structures, legacy fast 2D raste… |
+| 2026-10-20 11:26:51 | [fastatomstruct-simulation](https://crates.io/crates/fastatomstruct-simulation) | 2.0.0 | 0 | Simulation primitives (calculators, MD integrators, optimizers, corrections, MP… |
+| 2026-10-20 11:29:14 | [sequoia-layout](https://crates.io/crates/sequoia-layout) | 0.1.0 | 0 | Sequoia GUI framework — layout engine |
+| 2026-10-20 11:30:27 | [ihe-atna](https://crates.io/crates/ihe-atna) | 0.0.0 | 0 | IHE ATNA (ITI-20) and BALP audit for the FerroHEALTH family. Placeholder: the c… |
+| 2026-10-20 11:31:14 | [paperpaw-plugin-kosync](https://crates.io/crates/paperpaw-plugin-kosync) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-k… |
+| 2026-10-20 11:35:21 | [leptos-use-to-string](https://crates.io/crates/leptos-use-to-string) | 0.20.0 | 0 | Leptos-Use: reactive `use_to_string` for Leptos |
+| 2026-10-20 11:36:46 | [fastatomstruct-analysis](https://crates.io/crates/fastatomstruct-analysis) | 2.0.0 | 0 | Trajectory analyses for fastatomstruct: RDF, MSD, phonons, bond order, four-poi… |
+| 2026-10-20 11:37:38 | [sequoia-input](https://crates.io/crates/sequoia-input) | 0.1.0 | 0 | Sequoia GUI framework — input events (keyboard, pointer) |
+| 2026-10-20 11:39:43 | [light-fw-html](https://crates.io/crates/light-fw-html) | 0.4.0 | 0 | Разбор HTML-шаблонов Light для процедурных макросов |
+| 2026-10-20 11:39:47 | [light-fw-cli-core](https://crates.io/crates/light-fw-cli-core) | 0.4.0 | 0 | Ядро CLI Light: анализ проекта, управление компонентами и light.lock |
+| 2026-10-20 11:39:53 | [light-fw-cli](https://crates.io/crates/light-fw-cli) | 0.4.0 | 0 | Утилита light: проверка проекта и управление компонентами Light |
+| 2026-10-20 11:39:57 | [light-fw-macros](https://crates.io/crates/light-fw-macros) | 0.4.0 | 0 | Процедурные макросы библиотеки Light: #[proxy] и #[template] |
+| 2026-10-20 11:40:02 | [light-fw-core](https://crates.io/crates/light-fw-core) | 0.4.0 | 0 | Ядро Light: виртуальный DOM, реактивность, раскладка, отрисовка и окно |
+| 2026-10-20 11:41:18 | [paperpaw-plugin-lock](https://crates.io/crates/paperpaw-plugin-lock) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-l… |
+| 2026-10-20 11:45:21 | [leptos-use-toggle](https://crates.io/crates/leptos-use-toggle) | 0.20.0 | 0 | A boolean switcher with utility functions |
+| 2026-10-20 11:46:45 | [fastatomstruct-queue](https://crates.io/crates/fastatomstruct-queue) | 2.0.0 | 0 | Generic file-based worker queue for fastatomstruct (DFT batches, phonon force c… |
+| 2026-10-20 11:47:37 | [sequoia-style](https://crates.io/crates/sequoia-style) | 0.1.0 | 0 | Sequoia GUI framework — styles and themes |
+| 2026-10-20 11:48:27 | [canvist_layout](https://crates.io/crates/canvist_layout) | 0.0.0 | 0 | Incremental text and block layout for the canvist editor: line breaking, bidi,… |
+| 2026-10-20 11:48:31 | [canvist_model](https://crates.io/crates/canvist_model) | 0.0.0 | 0 | Block-based rich-text document model for the canvist editor: schema, inline mar… |
+| 2026-10-20 11:48:34 | [canvist_paint](https://crates.io/crates/canvist_paint) | 0.0.0 | 0 | Rendering for the canvist canvas: a culled, level-of-detail scene walker over v… |
+| 2026-10-20 11:48:38 | [canvist_scene](https://crates.io/crates/canvist_scene) | 0.0.0 | 0 | Scene model for the canvist canvas: a node tree of frames, shapes, paths, and t… |
+| 2026-10-20 11:49:30 | [light-fw-behavior-validation](https://crates.io/crates/light-fw-behavior-validation) | 0.4.0 | 0 | Компонент Light: валидация форм — required, :validator и @validate |
+| 2026-10-20 11:51:13 | [paperpaw-plugin-menu-editor](https://crates.io/crates/paperpaw-plugin-menu-editor) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-m… |
+| 2026-10-20 11:52:11 | [rogtui](https://crates.io/crates/rogtui) | 0.1.0 | 0 | Fast, minimal, hardware-direct TUI for ASUS ROG and TUF gaming laptops |
+| 2026-10-20 11:55:20 | [leptos-use-user-media](https://crates.io/crates/leptos-use-user-media) | 0.20.0 | 0 | Reactive [`mediaDevices.getUserMedia`](https://developer.mozilla.org/en-US/docs… |
+| 2026-10-20 12:00:11 | [sequoia-dock](https://crates.io/crates/sequoia-dock) | 0.1.0 | 0 | Sequoia GUI framework — headless dock model (IDE splits, tabs, floating) |
+| 2026-10-20 12:00:40 | [encore-miniredis](https://crates.io/crates/encore-miniredis) | 0.1.0 | 0 | Pure Rust in-memory Redis test server for use in integration tests |
+| 2026-10-20 12:00:51 | [encore-sqlproxy](https://crates.io/crates/encore-sqlproxy) | 0.1.0 | 0 | SQL connection configuration for the Encore runtime |
+| 2026-10-20 12:01:02 | [encore-telemetry](https://crates.io/crates/encore-telemetry) | 0.1.0 | 0 | Telemetry for Encore: semantic conventions, OTLP, the log format and console wr… |
+| 2026-10-20 12:01:13 | [encore-sdk-core](https://crates.io/crates/encore-sdk-core) | 0.1.0 | 0 | Shared runtime core for the Encore SDKs |
+| 2026-10-20 12:01:14 | [paperpaw-plugin-menu](https://crates.io/crates/paperpaw-plugin-menu) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-m… |
+| 2026-10-20 12:01:24 | [encore-dev](https://crates.io/crates/encore-dev) | 0.1.0 | 0 | Rust SDK for Encore applications |
+| 2026-10-20 12:02:50 | [xybrid-zzz-sys](https://crates.io/crates/xybrid-zzz-sys) | 0.12.0 | 0 | FFI and safe Phonon/Kitten sessions for the pinned combined zzz CPU engine. Sta… |
+| 2026-10-20 12:04:32 | [unikv](https://crates.io/crates/unikv) | 0.0.1 | 0 | UniKV is a unified, distributed key-value store written in Rust. |
+| 2026-10-20 12:05:18 | [leptos-use-watch-debounce-throttle](https://crates.io/crates/leptos-use-watch-debounce-throttle) | 0.20.0 | 0 | Debounced and throttled watch for Leptos |
+| 2026-10-20 12:09:25 | [sequoia-draw](https://crates.io/crates/sequoia-draw) | 0.1.0 | 0 | Sequoia GUI framework — vector paths and rasterization |
+| 2026-10-20 12:10:28 | [slackterm](https://crates.io/crates/slackterm) | 0.1.0 | 0 | Slack in your terminal: real time, threads, search and sections, all from the k… |
+| 2026-10-20 12:10:43 | [chess-trainer](https://crates.io/crates/chess-trainer) | 0.1.0 | 0 | Practice chess openings in the terminal. |
+| 2026-10-20 12:11:17 | [paperpaw-plugin-news](https://crates.io/crates/paperpaw-plugin-news) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk; see quireink-plugin-n… |
+| 2026-10-20 12:12:28 | [legendary-tui](https://crates.io/crates/legendary-tui) | 1.0.2 | 0 | Fast, keyboard-driven Ratatui TUI frontend for Legendary Epic Games Store CLI |
+| 2026-10-20 12:15:21 | [leptos-use-watch-pausable](https://crates.io/crates/leptos-use-watch-pausable) | 0.20.0 | 0 | Pausable [`watch`] |
+| 2026-10-20 12:17:15 | [hyperfly-core](https://crates.io/crates/hyperfly-core) | 0.1.1-alpha.0 | 0 | Rust codec for the hyperfly wire format: schema-compiled binary encoding for ty… |
+| 2026-10-20 12:18:30 | [coldfire](https://crates.io/crates/coldfire) | 0.1.0 | 0 | Core support for ColdFire V4e: MMIO, status register, interrupts, critical sect… |
+| 2026-10-20 12:18:37 | [coldfire-rt-macros](https://crates.io/crates/coldfire-rt-macros) | 0.1.0 | 0 | Attributes for coldfire-rt: #[entry], #[exception], #[interrupt] |
+| 2026-10-20 12:18:40 | [coldfire-rt](https://crates.io/crates/coldfire-rt) | 0.1.0 | 0 | Minimal runtime for ColdFire V4e: reset, RAM vector table, exception trampolines |
+| 2026-10-20 12:18:41 | [sequoia-hotkey](https://crates.io/crates/sequoia-hotkey) | 0.1.0 | 0 | Sequoia GUI framework — OS-global hotkeys (Windows RegisterHotKey) |
+| 2026-10-20 12:19:40 | [mcf5441x-pac](https://crates.io/crates/mcf5441x-pac) | 0.1.0 | 0 | Peripheral access crate for the NXP MCF5441x (ColdFire V4e), generated from an… |
+| 2026-10-20 12:19:46 | [embassy-mcf5441x](https://crates.io/crates/embassy-mcf5441x) | 0.1.0 | 0 | Embassy HAL for the NXP MCF5441x (ColdFire V4e) |
 
 ## Data source
 
