@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T02:25:21.488592Z,leptos-use-broadcast-channel,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Reactive [BroadcastChannel API](https://developer.mozilla.org/en-US/docs/Web/API/BroadcastChannel)
+2026-10-20T02:26:20.700744Z,zipcore,0.2.0,0,0,https://github.com/EdisonJwa/zipcore-rs,"Streaming ZIP archive reader and writer with ZIP64 support, CRC-32 verification and zip-bomb resistance"
+2026-10-20T02:28:14.395885Z,ult-animation,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"Native animation graph: values, drivers (timing, spring, decay), interpolation and bindings."
+2026-10-20T02:28:39.442855Z,ult-macros,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"Derive macros of ult's Rust components: props, prop enums, events and component metadata."
+2026-10-20T02:29:09.466323Z,ult-core,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"Platform-independent core: shadow tree, styles, layout and mount instructions."
+2026-10-20T02:29:42.586837Z,ult-ui-mobile,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"The mobile UI set's components, written in Rust: one implementation for iOS and Android, run by the core."
+2026-10-20T02:30:08.7862Z,ult-dev,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"Development tooling: dev-server protocol, server (CLI side) and client (host side)."
+2026-10-20T02:30:38.814211Z,respan-gateway-ws,0.1.0,0,0,https://github.com/respanai/respan-gateway,"WebSocket sessions at both gateway edges, and a JSON events format."
+2026-10-20T02:31:41.637506Z,ult-js,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"QuickJS host: runtime setup, host APIs, op decoding and bytecode."
+2026-10-20T02:35:15.725782Z,leptos-use-rw-signal,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,UseRwSignal: a signal that is either a RwSignal or a split signal pair (Leptos)
+2026-10-20T02:39:30.087053Z,keyroost-windevtree,0.14.0,0,0,https://github.com/framefilter/keyroost,Windows-only device-tree lookups (HID path / smart-card reader to ancestor devnodes) for keyroost; inert on other platforms.
+2026-10-20T02:40:39.883508Z,respan-gateway-realtime-ws,0.1.0,0,0,https://github.com/respanai/respan-gateway,The realtime kind over WebSocket: a session of JSON events.
+2026-10-20T02:42:19.909754Z,ult-package,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"Signed app packages (.ultpkg), two-level signing keys, revocation lists and the trust store."
+2026-10-20T02:44:43.381002Z,keyroost-pgpkey,0.13.0,0,0,https://github.com/framefilter/keyroost,"Host-side OpenPGP key sets for keyroost: keygen, GnuPG-compatible backups, restore and expiry changes."
+2026-10-20T02:45:20.764615Z,leptos-use-sync-signal,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Two-way Signals synchronization
+2026-10-20T02:50:38.769913Z,respan-gateway-serve,0.1.0,0,0,https://github.com/respanai/respan-gateway,Hosting a gateway with Axum: HTTP and WebSocket from one router.
+2026-10-20T02:55:17.75253Z,leptos-use-maybe-rw-signal,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,MaybeRwSignal: accept either a read-only or a read-write signal (Leptos)
+2026-10-20T02:55:45.024202Z,crush-lang-rust,0.7.1,0,0,https://github.com/nixpt/crush-ast,Rust language support for Crush — parser + CAST lowering backed by syn
+2026-10-20T02:56:00.810915Z,crush-macros,0.7.1,0,0,https://github.com/nixpt/crush-ast,Proc macros for embedding Crush code at compile time in Rust
+2026-10-20T02:56:09.949813Z,crush-aotc,0.7.1,0,0,https://github.com/nixpt/crush-ast,Crush AOT compiler: CASM → C source → shared library (.so)
+2026-10-20T02:56:31.998274Z,mere-surface-api,0.1.0,0,0,https://github.com/merely-made/mere,"Application host contracts above Genet: the settings projection and product surface admission vocabulary. Mere's half of the former genet-host-api, homed here until the platform boundary plan moves i…"
+2026-10-20T02:56:58.93328Z,command-menu,0.1.0,0,0,https://github.com/merely-made/mere,"The commands a host offers, the person's choices among them, and a palette's in-progress state."
+2026-10-20T02:59:44.503092Z,ult-bundler,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,JS bundler: rolldown + ult's JSX compiler; the compiler alone without feature `bundle`.
+2026-10-20T03:00:39.038046Z,respan-gateway-vendor-kit,0.1.0,0,0,https://github.com/respanai/respan-gateway,"A vendor as a template, and a provider of it: its formats at their base URLs, its key and its model list; and what vendors share."
+2026-10-20T03:01:27.233343Z,patient-administration-system-migrations,0.1.0,0,0,https://github.com/patient-administration-system/patient-administration-system,"Database migrations (SeaORM) for the Patient Administration System, with the pas-migrate command"
+2026-10-20T03:05:21.274837Z,leptos-use-calendar,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Create bare-bone calendar data to use in your component
+2026-10-20T03:10:38.6983Z,respan-gateway-vendors-green,0.1.0,0,0,https://github.com/respanai/respan-gateway,"The green vendors: maintained, and verified end to end against their live APIs."
+2026-10-20T03:10:49.934839Z,ult-engine,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,Engine thread that drives the JS host and the core and emits mount batches.
+2026-10-20T03:11:46.562399Z,ult-cli,3.0.0-alpha.0,0,0,https://github.com/kat-tax/ult,"The ult command line tool: build, package and run apps."
+2026-10-20T03:11:53.473335Z,datasources,0.1.5,0,0,https://github.com/deterministic-code/datasources,"Async datasource interfaces, middleware, registry, and test doubles"
+2026-10-20T03:13:31.312379Z,datasources-json,0.1.5,0,0,https://github.com/deterministic-code/datasources,JSON file datasource provider
+2026-10-20T03:13:36.250138Z,datasources-memory,0.1.5,0,0,https://github.com/deterministic-code/datasources,In-memory datasource provider
+2026-10-20T03:13:43.88879Z,datasources-sqlite,0.1.5,0,0,https://github.com/deterministic-code/datasources,SQLite datasource provider
+2026-10-20T03:13:48.473784Z,datasources-xml,0.1.5,0,0,https://github.com/deterministic-code/datasources,xml datasource stub
+2026-10-20T03:15:18.260399Z,leptos-use-timeout-fn,0.20.0,0,0,https://github.com/Synphonyte/leptos-use,Wrapper for `setTimeout` with controls
+2026-10-20T03:16:27.13086Z,cheti,0.1.0,0,0,https://github.com/kemeter/cheti,ACME DNS-01 challenge library with pluggable DNS providers
