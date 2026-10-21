@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T08:20:35.061396Z,devd,1.2.0,0,0,https://github.com/Ceng-0324/Devd,A lightweight local development service supervisor
+2026-10-21T08:20:37.494288Z,iet-cache-memory,0.1.1,0,0,https://github.com/MasLazu/iet-fw,"Bounded typed memory cache. No JSON, Any or trait-object value storage."
+2026-10-21T08:30:39.751759Z,iet-db-timescale,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Timescale-first SQLx adapter. Extension provisioning remains deployment-owned.
+2026-10-21T08:32:13.139632Z,mmcif-cif,0.1.0,0,0,https://github.com/fuyu-myk/mmcif,"Lossless CIF/mmCIF tokenizer, table layer and BinaryCIF decoder"
+2026-10-21T08:32:13.843447Z,mmcif-geom,0.1.0,0,0,https://github.com/fuyu-myk/mmcif,Neighbour grid queries over atomic coordinates
+2026-10-21T08:32:14.376455Z,mmcif-ccd,0.1.0,0,0,https://github.com/fuyu-myk/mmcif,"Compiled, versioned index of the Chemical Component Dictionary"
+2026-10-21T08:32:14.961436Z,mmcif-model,0.1.0,0,0,https://github.com/fuyu-myk/mmcif,"Typed macromolecular structure model over mmCIF, BinaryCIF and PDB"
+2026-10-21T08:40:37.053083Z,iet-http-axum,0.1.1,0,0,https://github.com/MasLazu/iet-fw,"REST transport conventions. No listener, database or authentication selection."
+2026-10-21T08:44:08.524257Z,spire-redb,0.2.0,0,0,https://github.com/spire-rs/spire,"Crash-safe frontier and seen set for the Spire web scraping framework, stored in redb"
+2026-10-21T08:44:08.871548Z,spire-reqwest,0.2.0,0,0,https://github.com/spire-rs/spire,Reqwest-based HTTP client backend for Spire web scraping framework
+2026-10-21T08:44:09.088504Z,spire-thirtyfour,0.2.0,0,0,https://github.com/spire-rs/spire,Thirtyfour-based browser automation backend for Spire web scraping framework
+2026-10-21T08:44:19.759867Z,sourceorrery-core,0.1.1,0,0,https://github.com/Netizine/sourceorrery,"Domain contracts for SourceOrrery: secrets, versions, policies, identities, audit and manifests"
+2026-10-21T08:44:20.417924Z,sourceorrery-crypto,0.1.1,0,0,https://github.com/Netizine/sourceorrery,"Audited-primitive wrappers for SourceOrrery: authenticated encryption, passphrase KDF and envelope key wrapping"
+2026-10-21T08:44:22.052961Z,sourceorrery-storage,0.1.1,0,0,https://github.com/Netizine/sourceorrery,"Encrypted, versioned local vault storage for SourceOrrery with OS-keyring and passphrase key protectors"
+2026-10-21T08:44:23.682793Z,sourceorrery,0.1.1,0,0,https://github.com/Netizine/sourceorrery,"Read-only SourceOrrery client: open a vault, get secrets, resolve references, load a project manifest"
+2026-10-21T08:44:24.233115Z,sourceorrery-cli,0.1.1,0,0,https://github.com/Netizine/sourceorrery,"SourceOrrery command-line interface: secrets belong to the runtime, not the repository"
+2026-10-21T08:48:28.470872Z,rustalign,2.0.1,0,0,https://github.com/zhangtaolab/RustAlign,"BWA-MEM-compatible short-read DNA aligner: minimizer index, staged SIMD pipeline, pure Rust"
+2026-10-21T08:50:37.913547Z,iet-auth-basic-timescale,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Basic-auth persistence without owning identity or profile tables.
+2026-10-21T08:59:29.285139Z,sourceorrery-ffi,0.1.1,0,0,https://github.com/Netizine/sourceorrery,Stable C ABI over the SourceOrrery core for language bindings
+2026-10-21T09:00:37.866886Z,iet-auth-identity-timescale,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Neutral identity schema and shared fail-closed profile policy helpers.
+2026-10-21T09:04:50.606552Z,quantycore,0.1.0,0,0,https://github.com/QuantyRoot/QuantyCore,"Shared foundations of the Quanty projects: wire protocols, TLS and AppArmor, on the standard library alone"
+2026-10-21T09:10:28.341732Z,vasr-quant,0.1.0,0,0,https://github.com/wangmengdi/Qwen3ASR.rs,In-situ quantization and platform-specific matmul kernels for VASR
+2026-10-21T09:10:39.168532Z,iet-auth-login-htmx-axum,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Opt-in browser login UI. Applications inject concrete login and CSRF ports.
+2026-10-21T09:10:42.7209Z,vasr-vad,0.1.0,0,0,https://github.com/wangmengdi/Qwen3ASR.rs,Voice activity detection models and traits for vASR
+2026-10-21T09:10:55.398211Z,vasr-flash-attn,0.1.0,0,0,https://github.com/wangmengdi/Qwen3ASR.rs,Minimal FlashAttention kernels for vASR Qwen3-ASR
+2026-10-21T09:15:21.501758Z,oxfuse-wgpu,0.2.0,0,0,https://github.com/sara-star-quant/oxfuse,"A wgpu GPU compute backend for oxfuse tensor graphs, with a documented numerical contract and a self-test for any adapter."
+2026-10-21T09:15:37.288862Z,hears,0.1.0,0,0,,Composable speech and audio processing pipeline for Rust
+2026-10-21T09:20:38.253864Z,iet-auth-session-timescale,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Session persistence with optional application-selected profile policy.
+2026-10-21T09:20:48.724025Z,pulply-api,0.1.0,0,0,https://github.com/brazok/pulply,Async Pulp 3 REST client driven by the server's OpenAPI schema (used by pulply)
+2026-10-21T09:21:27.207019Z,pulply,0.1.0,0,0,https://github.com/brazok/pulply,"Terminal UI to observe and manage Pulp 3 servers, in the spirit of k9s"

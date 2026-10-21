@@ -8,54 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 08:20 UTC
+## Latest list — 2026-10-21 09:22 UTC
 
-New crates published between 2026-10-21 07:20 UTC and 2026-10-21 08:20 UTC.
+New crates published between 2026-10-21 08:20 UTC and 2026-10-21 09:22 UTC.
 
-[Full CSV](data/new-crates-2026-10-21T08-20-35-053555Z.csv)
+[Full CSV](data/new-crates-2026-10-21T09-22-09-976408Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-21 07:20:37 | [iet-config-env](https://crates.io/crates/iet-config-env) | 0.1.1 | 0 | Explicit immutable environment snapshot. No dotenv or background reload. |
-| 2026-10-21 07:20:45 | [gander-core](https://crates.io/crates/gander-core) | 0.6.2 | 0 | Platform data collection and process model for gander. No UI dependency. |
-| 2026-10-21 07:21:03 | [orbit-te](https://crates.io/crates/orbit-te) | 0.1.0-alpha.1 | 0 | OrbitTE: a Rust-native transfer engine for AI infrastructure (early development) |
-| 2026-10-21 07:21:19 | [gander-config](https://crates.io/crates/gander-config) | 0.6.2 | 0 | TOML configuration and htoprc importer for gander. |
-| 2026-10-21 07:21:42 | [gander-tui](https://crates.io/crates/gander-tui) | 0.6.2 | 0 | ratatui front end for gander. |
-| 2026-10-21 07:21:57 | [gander-bin](https://crates.io/crates/gander-bin) | 0.6.2 | 0 | Executable entry point for gander. |
-| 2026-10-21 07:22:56 | [tola-address](https://crates.io/crates/tola-address) | 0.8.1 | 0 | Address identity for Tola sites: slugs, routes, logical output paths, and brows… |
-| 2026-10-21 07:23:43 | [pptxcraft](https://crates.io/crates/pptxcraft) | 0.1.0 | 0 | Generate editable PPTX presentations with charts, tables, images and SVG drawin… |
-| 2026-10-21 07:24:59 | [docxcraft](https://crates.io/crates/docxcraft) | 0.1.0 | 0 | Generate editable DOCX documents with rich text, tables, charts and SVG drawings |
-| 2026-10-21 07:25:53 | [elecrust-console](https://crates.io/crates/elecrust-console) | 0.0.1 | 0 | A Console use for Elecrust. |
-| 2026-10-21 07:28:47 | [mem_leak](https://crates.io/crates/mem_leak) | 0.1.0 | 0 | Leaks Memory |
-| 2026-10-21 07:30:38 | [iet-config-macros](https://crates.io/crates/iet-config-macros) | 0.1.1 | 0 | Source-independent typed configuration derive. |
-| 2026-10-21 07:34:59 | [proteus-bio-dssp](https://crates.io/crates/proteus-bio-dssp) | 0.12.0 | 0 | Pure-Rust Kabsch-Sander DSSP secondary-structure assignment (DSSP 2.x semantics… |
-| 2026-10-21 07:35:01 | [proteus-bio-esm](https://crates.io/crates/proteus-bio-esm) | 0.12.0 | 0 | ESM-2 protein language model inference in pure Rust (candle): masked-marginal m… |
-| 2026-10-21 07:35:07 | [proteus-bio-core](https://crates.io/crates/proteus-bio-core) | 0.12.0 | 0 | Domain models, FASTA parsing, in-silico mutagenesis, and native biophysical cal… |
-| 2026-10-21 07:35:12 | [proteus-bio-render](https://crates.io/crates/proteus-bio-render) | 0.12.0 | 0 | Pure-Rust software 3D rasterizer, cartoon ribbon extruder, and terminal viewpor… |
-| 2026-10-21 07:35:14 | [proteus-bio-storage](https://crates.io/crates/proteus-bio-storage) | 0.12.0 | 0 | Embedded SQLite persistence and Apache Parquet data lake exporter for Proteus. |
-| 2026-10-21 07:36:14 | [tola-packages](https://crates.io/crates/tola-packages) | 0.8.1 | 0 | The builtin @tola/* Typst packages: their identity, sources, natives, and the e… |
-| 2026-10-21 07:37:50 | [elecrust-panic-handler](https://crates.io/crates/elecrust-panic-handler) | 0.0.1 | 0 | Panic handler for Elecrust |
-| 2026-10-21 07:40:37 | [iet-http-htmx-axum](https://crates.io/crates/iet-http-htmx-axum) | 0.1.1 | 0 | HTMX-aware server-rendered HTML primitives for Axum applications. |
-| 2026-10-21 07:41:38 | [tola-build](https://crates.io/crates/tola-build) | 0.8.1 | 0 | The site construction engine for Tola |
-| 2026-10-21 07:44:27 | [liquid-verre-rs](https://crates.io/crates/liquid-verre-rs) | 0.4.1 | 0 | Windows 桌面玻璃窗口组件库：液态玻璃（WGC/DDA 采集 + D3D11 模糊金字塔 + DirectComposition 合成 + Snell… |
-| 2026-10-21 07:46:24 | [reviewloop](https://crates.io/crates/reviewloop) | 0.0.1 | 0 | Reproducible, guardrailed automation for academic review workflows on paperrevi… |
-| 2026-10-21 07:46:58 | [proteus-bio-engine](https://crates.io/crates/proteus-bio-engine) | 0.12.0 | 0 | Asynchronous DAG pipeline scheduler and OCI/Podman container runner for Proteus. |
-| 2026-10-21 07:50:37 | [iet-telemetry](https://crates.io/crates/iet-telemetry) | 0.1.1 | 0 | Bounded operation identities, concrete futures and compile-time no-op recording. |
-| 2026-10-21 07:51:21 | [parsh](https://crates.io/crates/parsh) | 0.0.0 | 0 | A shell built around S-expressions. |
-| 2026-10-21 07:51:22 | [docrs](https://crates.io/crates/docrs) | 0.1.0 | 0 | Preservation-first DOCX editing: find, replace, tracked changes and comparison… |
-| 2026-10-21 07:51:38 | [docrs-cli](https://crates.io/crates/docrs-cli) | 0.1.0 | 0 | The docrs command: find, replace, review, compare and compose .docx files witho… |
-| 2026-10-21 07:51:50 | [tola-lsp](https://crates.io/crates/tola-lsp) | 0.8.1 | 0 | Host-aware language services for Tola sources |
-| 2026-10-21 07:53:30 | [elecrust-c-allocator](https://crates.io/crates/elecrust-c-allocator) | 0.0.1 | 0 | A C allocator for Elecrust |
-| 2026-10-21 07:53:41 | [gridxcel-rs](https://crates.io/crates/gridxcel-rs) | 0.1.1 | 0 | A pure-Rust reader for Excel and OpenDocument spreadsheet files |
-| 2026-10-21 07:57:36 | [proteus-bio-server](https://crates.io/crates/proteus-bio-server) | 0.12.0 | 0 | Headless Axum daemon (proteusd) with Server-Sent Events and OpenAPI documentati… |
-| 2026-10-21 07:57:39 | [furnace-burn](https://crates.io/crates/furnace-burn) | 0.12.0 | 0 | Serve Burn models with furnace: a forward function, a model of named tensors, B… |
-| 2026-10-21 07:57:42 | [elecrust-bindgen](https://crates.io/crates/elecrust-bindgen) | 0.0.1 | 0 | A bindgen for Elecrust |
-| 2026-10-21 07:59:45 | [furnace-cli](https://crates.io/crates/furnace-cli) | 0.12.0 | 0 | The furnace command: serve ONNX models compiled to Burn over the KServe / Trito… |
-| 2026-10-21 08:00:39 | [iet-auth-basic](https://crates.io/crates/iet-auth-basic) | 0.1.1 | 0 | Email/username + password authentication. Not the HTTP Basic wire scheme. |
-| 2026-10-21 08:05:47 | [proteus-bio](https://crates.io/crates/proteus-bio) | 0.12.0 | 0 | Unified CLI binary for Proteus: mutation, screening, biophysical analysis, and… |
-| 2026-10-21 08:06:59 | [treble-lang](https://crates.io/crates/treble-lang) | 0.6.3 | 0 | A live coding language for treble |
-| 2026-10-21 08:10:37 | [iet-auth-session-opaque](https://crates.io/crates/iet-auth-session-opaque) | 0.1.1 | 0 | Opaque random session keys; storage and transport are independently selected. |
-| 2026-10-21 08:12:33 | [rune-code](https://crates.io/crates/rune-code) | 0.4.0 | 0 | An expert AI coding assistant integrated into software development workspaces,… |
+| 2026-10-21 08:20:35 | [devd](https://crates.io/crates/devd) | 1.2.0 | 0 | A lightweight local development service supervisor |
+| 2026-10-21 08:20:37 | [iet-cache-memory](https://crates.io/crates/iet-cache-memory) | 0.1.1 | 0 | Bounded typed memory cache. No JSON, Any or trait-object value storage. |
+| 2026-10-21 08:30:39 | [iet-db-timescale](https://crates.io/crates/iet-db-timescale) | 0.1.1 | 0 | Timescale-first SQLx adapter. Extension provisioning remains deployment-owned. |
+| 2026-10-21 08:32:13 | [mmcif-cif](https://crates.io/crates/mmcif-cif) | 0.1.0 | 0 | Lossless CIF/mmCIF tokenizer, table layer and BinaryCIF decoder |
+| 2026-10-21 08:32:13 | [mmcif-geom](https://crates.io/crates/mmcif-geom) | 0.1.0 | 0 | Neighbour grid queries over atomic coordinates |
+| 2026-10-21 08:32:14 | [mmcif-ccd](https://crates.io/crates/mmcif-ccd) | 0.1.0 | 0 | Compiled, versioned index of the Chemical Component Dictionary |
+| 2026-10-21 08:32:14 | [mmcif-model](https://crates.io/crates/mmcif-model) | 0.1.0 | 0 | Typed macromolecular structure model over mmCIF, BinaryCIF and PDB |
+| 2026-10-21 08:40:37 | [iet-http-axum](https://crates.io/crates/iet-http-axum) | 0.1.1 | 0 | REST transport conventions. No listener, database or authentication selection. |
+| 2026-10-21 08:44:08 | [spire-redb](https://crates.io/crates/spire-redb) | 0.2.0 | 0 | Crash-safe frontier and seen set for the Spire web scraping framework, stored i… |
+| 2026-10-21 08:44:08 | [spire-reqwest](https://crates.io/crates/spire-reqwest) | 0.2.0 | 0 | Reqwest-based HTTP client backend for Spire web scraping framework |
+| 2026-10-21 08:44:09 | [spire-thirtyfour](https://crates.io/crates/spire-thirtyfour) | 0.2.0 | 0 | Thirtyfour-based browser automation backend for Spire web scraping framework |
+| 2026-10-21 08:44:19 | [sourceorrery-core](https://crates.io/crates/sourceorrery-core) | 0.1.1 | 0 | Domain contracts for SourceOrrery: secrets, versions, policies, identities, aud… |
+| 2026-10-21 08:44:20 | [sourceorrery-crypto](https://crates.io/crates/sourceorrery-crypto) | 0.1.1 | 0 | Audited-primitive wrappers for SourceOrrery: authenticated encryption, passphra… |
+| 2026-10-21 08:44:22 | [sourceorrery-storage](https://crates.io/crates/sourceorrery-storage) | 0.1.1 | 0 | Encrypted, versioned local vault storage for SourceOrrery with OS-keyring and p… |
+| 2026-10-21 08:44:23 | [sourceorrery](https://crates.io/crates/sourceorrery) | 0.1.1 | 0 | Read-only SourceOrrery client: open a vault, get secrets, resolve references, l… |
+| 2026-10-21 08:44:24 | [sourceorrery-cli](https://crates.io/crates/sourceorrery-cli) | 0.1.1 | 0 | SourceOrrery command-line interface: secrets belong to the runtime, not the rep… |
+| 2026-10-21 08:48:28 | [rustalign](https://crates.io/crates/rustalign) | 2.0.1 | 0 | BWA-MEM-compatible short-read DNA aligner: minimizer index, staged SIMD pipelin… |
+| 2026-10-21 08:50:37 | [iet-auth-basic-timescale](https://crates.io/crates/iet-auth-basic-timescale) | 0.1.1 | 0 | Basic-auth persistence without owning identity or profile tables. |
+| 2026-10-21 08:59:29 | [sourceorrery-ffi](https://crates.io/crates/sourceorrery-ffi) | 0.1.1 | 0 | Stable C ABI over the SourceOrrery core for language bindings |
+| 2026-10-21 09:00:37 | [iet-auth-identity-timescale](https://crates.io/crates/iet-auth-identity-timescale) | 0.1.1 | 0 | Neutral identity schema and shared fail-closed profile policy helpers. |
+| 2026-10-21 09:04:50 | [quantycore](https://crates.io/crates/quantycore) | 0.1.0 | 0 | Shared foundations of the Quanty projects: wire protocols, TLS and AppArmor, on… |
+| 2026-10-21 09:10:28 | [vasr-quant](https://crates.io/crates/vasr-quant) | 0.1.0 | 0 | In-situ quantization and platform-specific matmul kernels for VASR |
+| 2026-10-21 09:10:39 | [iet-auth-login-htmx-axum](https://crates.io/crates/iet-auth-login-htmx-axum) | 0.1.1 | 0 | Opt-in browser login UI. Applications inject concrete login and CSRF ports. |
+| 2026-10-21 09:10:42 | [vasr-vad](https://crates.io/crates/vasr-vad) | 0.1.0 | 0 | Voice activity detection models and traits for vASR |
+| 2026-10-21 09:10:55 | [vasr-flash-attn](https://crates.io/crates/vasr-flash-attn) | 0.1.0 | 0 | Minimal FlashAttention kernels for vASR Qwen3-ASR |
+| 2026-10-21 09:15:21 | [oxfuse-wgpu](https://crates.io/crates/oxfuse-wgpu) | 0.2.0 | 0 | A wgpu GPU compute backend for oxfuse tensor graphs, with a documented numerica… |
+| 2026-10-21 09:15:37 | [hears](https://crates.io/crates/hears) | 0.1.0 | 0 | Composable speech and audio processing pipeline for Rust |
+| 2026-10-21 09:20:38 | [iet-auth-session-timescale](https://crates.io/crates/iet-auth-session-timescale) | 0.1.1 | 0 | Session persistence with optional application-selected profile policy. |
+| 2026-10-21 09:20:48 | [pulply-api](https://crates.io/crates/pulply-api) | 0.1.0 | 0 | Async Pulp 3 REST client driven by the server's OpenAPI schema (used by pulply) |
+| 2026-10-21 09:21:27 | [pulply](https://crates.io/crates/pulply) | 0.1.0 | 0 | Terminal UI to observe and manage Pulp 3 servers, in the spirit of k9s |
 
 ## Data source
 
