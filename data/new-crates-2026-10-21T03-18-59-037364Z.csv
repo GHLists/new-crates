@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T02:19:09.394163Z,lilyco-crypto,0.1.1,0,0,https://github.com/lilyco-42/lilyco-crypto,no_std 密码学工具箱：基于 RustCrypto 官方实现，提供爱发电签名、常量时间比较与卡密生成
+2026-10-21T02:21:25.068677Z,mwpromise,0.0.1,0,0,https://github.com/mwpromise,"MW Promise: an append-only, hash-chained, auditable memory engine for AI agents. Official placeholder; first release coming soon."
+2026-10-21T02:22:20.382803Z,simien_node_resolver,0.1.1,0,0,https://github.com/simienapp/core,package.json exports/imports and condition resolution for Simien's module loader. Forked from node_resolver 0.97.0.
+2026-10-21T02:25:24.136525Z,distmarg,0.1.0,0,0,https://github.com/ColmTalbot/distance_marginalization,"Distance-marginalized gravitational-wave likelihood in the (rho_mf, v*) basis"
+2026-10-21T02:26:42.452826Z,mp4-core,0.3.1,0,0,https://github.com/WyattAu/mp4-core,"ISO-BMFF (MP4/M4A/M4B) box reader and writer — ftyp, moov/trak/stbl, fragmented moof/traf, iTunes ilst metadata, Nero chpl chapters, no_std"
+2026-10-21T02:26:53.623802Z,id3-core,0.3.0,0,0,https://github.com/WyattAu/id3-core,"ID3v1/ID3v2 audio tag reader and writer — v2.2/2.3/2.4 frames, CHAP/CTOC chapters, APIC art, unsynchronisation, no_std"
+2026-10-21T02:27:54.3191Z,audiobook-core,0.5.0,0,0,https://github.com/WyattAu/audiobook-core,"Audiobook domain model — format-independent titles, parts and chapters assembled from MP3 (id3-core) and MP4 (mp4-core) containers"
+2026-10-21T02:30:10.22473Z,afdian-cli,0.1.1,0,0,https://github.com/lilyco-42/afdian-cli,爱发电 CLI · 声明式命令骨架，一键对接爱发电开放接口（方案/下单/订单/查询）
+2026-10-21T02:32:21.169386Z,simien_npm,0.1.1,0,0,https://github.com/simienapp/core,npm registry metadata and dependency resolution for Simien. Forked from deno_npm 0.71.0.
+2026-10-21T02:35:32.798591Z,nimbo,0.0.1,0,0,https://github.com/vladkens/nimbo,"A small, fast, custom-drawn desktop UI toolkit: one look on macOS, Windows and Linux."
+2026-10-21T02:36:12.562734Z,formal-ast,0.1.0,0,0,https://github.com/formalmind/formalmind,"Reads a Solidity protocol through solc's AST: the contract graph, its scope, units of work and slices for agents"
+2026-10-21T02:36:25.951692Z,sol-debug,0.1.0,0,0,https://github.com/formalmind/formalmind,"A local Solidity debugger: solc source maps to every opcode, revm to run it, storage decoded by the storage layout"
+2026-10-21T02:36:56.585513Z,opai-agents-core,0.1.0,0,0,https://github.com/charleslyh/openai-agents-rs,"Core of the Rust port of the OpenAI Agents Python SDK: agents, tools, handoffs, HITL, guardrails, the run loop"
+2026-10-21T02:36:58.053379Z,opai-agents-macros,0.1.0,0,0,https://github.com/charleslyh/openai-agents-rs,"Proc-macros for opai-agents (function_tool, ToolMeta)"
+2026-10-21T02:36:58.733035Z,opai-agents-scaffold,0.1.0,0,0,https://github.com/charleslyh/openai-agents-rs,`cargo opai new`: create a project that uses the OpenAI Agents Rust SDK
+2026-10-21T02:37:01.288837Z,opai-agents-guardrails,0.1.0,0,0,https://github.com/charleslyh/openai-agents-rs,"Ready-made guardrails for the Rust OpenAI Agents SDK: length, PII redaction, prompt-injection heuristics, blocked keywords, schema validation"
+2026-10-21T02:37:02.535147Z,opai-agents-mcp,0.1.0,0,0,https://github.com/charleslyh/openai-agents-rs,MCP client (stdio and streamable HTTP) for the Rust OpenAI Agents SDK
+2026-10-21T02:40:42.799029Z,nl-l2tp,0.2.0,0,0,https://github.com/rust-netlink/nl-l2tp,Linux netlink library for L2TP management
+2026-10-21T02:42:21.611639Z,simien_npm_cache,0.1.1,0,0,https://github.com/simienapp/core,"Download cache for npm package tarballs, for Simien. Forked from deno_npm_cache 0.78.0."
+2026-10-21T02:48:17.661439Z,opai-agents-observability,0.1.0,0,0,https://github.com/charleslyh/openai-agents-rs,"Trace processors for the Rust OpenAI Agents SDK: batched export, console, JSONL files, OpenTelemetry"
+2026-10-21T02:48:29.827249Z,clairic-client,0.1.0,0,0,https://github.com/dudykr/ddbase,Standalone async Rust client for Cloudflare Workers AI Clairic
+2026-10-21T02:49:42.487799Z,autodyne,0.1.0,0,0,https://github.com/vaibhav-gopal/autodyne,"Numerics for signals, processes and systems: NumPy / SciPy-style arrays, FFTs, filters, linear algebra and statistics, real-time audio DSP, small geometry and SIMD lanes, differentiable programs; no_…"
+2026-10-21T02:52:21.437618Z,simien_resolver,0.1.1,0,0,https://github.com/simienapp/core,"npm resolution for Simien: lockfiles (and bun, npm, pnpm and yarn lockfile import), npm resolvers and .npmrc discovery. Forked from the npm parts of deno_resolver 0.90.0."
+2026-10-21T02:57:54.393431Z,opai-agents-openai,0.1.0,0,0,https://github.com/charleslyh/openai-agents-rs,"OpenAI and OpenAI-compatible model adapters (Chat Completions, Responses) for the Rust OpenAI Agents SDK"
+2026-10-21T03:01:14.51437Z,instance-handoff,0.1.0-alpha.1,0,0,https://github.com/sheaf-pdf/instance-handoff,"Make a program single-instance: the first launch owns a per-user lock, and later launches hand their request to it over a local socket and exit"
+2026-10-21T03:02:20.578216Z,simien_npm_installer,0.1.1,0,0,https://github.com/simienapp/core,Installs npm packages into node_modules for Simien. Forked from deno_npm_installer 0.54.0.
+2026-10-21T03:04:31.736004Z,oir-reader,0.25.1,0,0,https://github.com/konung-yaropolk/FastTIFF,"Reader for Olympus/Evident FluoView OIR microscopy files: reassembles the scattered image planes of a single or split acquisition, recovers recordings still being written, and translates the embedded…"
+2026-10-21T03:07:31.229339Z,outram-park-fork-offbeat,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"Pure-Rust fork of OFFBEAT (foam-for-nuclear) — multi-dimensional nuclear fuel-performance: solid mechanics, rheology, fuel/cladding gap and contact, material property correlations, burnup and fission…"
+2026-10-21T03:08:22.378666Z,opai-agents-providers,0.1.0,0,0,https://github.com/charleslyh/openai-agents-rs,"Named provider presets (DeepSeek, Gemini, Groq, OpenRouter, Ollama, ...) and a capability matrix for the Rust OpenAI Agents SDK"
+2026-10-21T03:09:08.839395Z,outram-foam-cli,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"OpenFOAM-style command-line utilities (blockMesh, pimpleFoam, gen-foam, ...) as terminal binaries -- an independent OUTRAM PARK fork, not the official OpenFOAM software"
+2026-10-21T03:17:45.268336Z,opai-agents-sessions,0.1.0,0,0,https://github.com/charleslyh/openai-agents-rs,"Session and paused-run storage for the Rust OpenAI Agents SDK: JSONL files, Redis and Postgres"
