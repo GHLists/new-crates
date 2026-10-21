@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T01:22:20.884802Z,simien_sys_traits,0.1.1,0,0,https://github.com/simienapp/core,"Traits for the system calls Simien's crates make, so they can be swapped for tests. Forked from sys_traits 0.1.28."
+2026-10-21T01:24:44.51985Z,vigia-hayro-syntax,0.8.0,0,0,https://github.com/breferrari/vigia,"hayro-syntax 0.8.0 with the patches vigia ships, until upstream releases them. Use hayro-syntax instead."
+2026-10-21T01:25:05.736677Z,vigia-hayro-interpret,0.8.0,0,0,https://github.com/breferrari/vigia,"hayro-interpret 0.8.0 with the patches vigia ships, until upstream releases them. Use hayro-interpret instead."
+2026-10-21T01:25:22.521011Z,vigia-hayro,0.8.0,0,0,https://github.com/breferrari/vigia,"hayro 0.8.0 with the patches vigia ships, until upstream releases them. Use hayro instead."
+2026-10-21T01:29:03.214931Z,cargo-tar,0.0.1,0,0,https://github.com/ulyssa/cargo-tar,Build release tarballs from a Cargo project
+2026-10-21T01:32:20.817604Z,simien_npmrc,0.1.1,0,0,https://github.com/simienapp/core,.npmrc parsing for Simien. Forked from deno_npmrc 0.20.0.
+2026-10-21T01:42:21.140913Z,simien_semver,0.1.1,0,0,https://github.com/simienapp/core,"Semver for npm and JSR specifiers, for Simien. Forked from deno_semver 0.10.1."
+2026-10-21T01:43:11.487505Z,outram-park-fork-pflotran,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"Independent pure-Rust fork/translation of PFLOTRAN (subsurface flow & reactive transport) — enum-dispatched, uom-typed, no PETSc/FFI, no MPI. SCAFFOLD ONLY: no flow mode solves yet, no human V&V — no…"
+2026-10-21T01:49:14.957693Z,hpak,0.1.0,0,0,https://github.com/hardpoint-ai/hpak,High-performance packaging and metadata framing utilities.
+2026-10-21T01:50:08.153432Z,lazykeifu,0.1.2,0,0,https://github.com/watabegg/lazykeifu,A graph-first Git TUI with lazygit-inspired workflows
+2026-10-21T01:52:21.029333Z,simien_cache_dir,0.1.1,0,0,https://github.com/simienapp/core,Cache directory layout for Simien. Forked from deno_cache_dir 0.51.0.
+2026-10-21T02:02:21.373267Z,simien_lockfile,0.1.1,0,0,https://github.com/simienapp/core,Lockfile for Simien. Forked from deno_lockfile 0.61.0.
+2026-10-21T02:02:55.333661Z,csan,0.5.0,0,0,https://github.com/veralvx/csan,Cutter call number generation (Cutter-Sanborn and Library of Congress) for library cataloging
+2026-10-21T02:02:58.248538Z,csan-cli,0.5.0,0,0,https://github.com/veralvx/csan,Command-line Cutter call number generator (Cutter-Sanborn and Library of Congress)
+2026-10-21T02:08:08.816221Z,wai-quantum-cli,0.1.0,0,0,https://git.transaction.science/Transaction-Science/open-standards,"The wai-quantum command line: OpenQASM programs run on this machine as the quantum job service runs them (the strongest method each admits, its accuracy named, the result signed with the user's key),…"
+2026-10-21T02:09:26.550489Z,suiterun,0.7.3,0,0,https://github.com/smartpcr/bdd-code-extension,"The Rust runtime of the BDD suite format: lint, run and list YAML suites, the session a test harness drives, reports and the embedded core actions, extensible by an outside crate; with the testing fe…"
+2026-10-21T02:12:20.736911Z,simien_package_json,0.1.1,0,0,https://github.com/simienapp/core,package.json parsing for Simien. Forked from deno_package_json 0.61.0.

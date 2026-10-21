@@ -8,46 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 01:20 UTC
+## Latest list — 2026-10-21 02:18 UTC
 
-New crates published between 2026-10-21 00:19 UTC and 2026-10-21 01:20 UTC.
+New crates published between 2026-10-21 01:20 UTC and 2026-10-21 02:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-21T01-20-40-119128Z.csv)
+[Full CSV](data/new-crates-2026-10-21T02-18-58-603389Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-21 00:21:18 | [outram-park-mpi](https://crates.io/crates/outram-park-mpi) | 0.0.1 | 0 | Independent pure-Rust translation of an MPICH subset — the MPI-3 API surface (c… |
-| 2026-10-21 00:23:39 | [bic](https://crates.io/crates/bic) | 0.2.0 | 0 | Experimental lossless image codec for screenshots, diagrams and other flat grap… |
-| 2026-10-21 00:23:50 | [dogstyle](https://crates.io/crates/dogstyle) | 1.0.0 | 0 | Imprime un mensaje de hola por pantalla. |
-| 2026-10-21 00:24:43 | [outram-park-fork-thermochimica](https://crates.io/crates/outram-park-fork-thermochimica) | 0.0.1 | 0 | Independent pure-Rust fork/translation of ORNL Thermochimica (BSD-3) — molten-s… |
-| 2026-10-21 00:24:47 | [outram-park-fork-onix](https://crates.io/crates/outram-park-fork-onix) | 0.0.1 | 0 | Independent pure-Rust fork/translation of ONIX (open-source depletion/burnup; M… |
-| 2026-10-21 00:24:50 | [ferrotable](https://crates.io/crates/ferrotable) | 0.0.1 | 0 | Placeholder for the actively developed FerroTable data grid |
-| 2026-10-21 00:30:45 | [tikra](https://crates.io/crates/tikra) | 1.0.0 | 0 | TikZ figures to SVG and PNG with no TeX install; math labels by mathra. |
-| 2026-10-21 00:30:56 | [tikra-cli](https://crates.io/crates/tikra-cli) | 1.0.0 | 0 | Command line for tikra: TikZ to SVG and PNG. |
-| 2026-10-21 00:34:44 | [tiktok-shop-api](https://crates.io/crates/tiktok-shop-api) | 0.1.0 | 0 | TikTok Shop Partner API client for Rust: generated from the documentation, with… |
-| 2026-10-21 00:37:23 | [letratag-protocol](https://crates.io/crates/letratag-protocol) | 0.1.1 | 0 | Bounded LetraTag LT-200B raster and wire protocol encoding |
-| 2026-10-21 00:37:38 | [baukit-data-subject](https://crates.io/crates/baukit-data-subject) | 0.10.32 | 0 | Data subject contract, identifier normalization, and signed DSSE receipts. |
-| 2026-10-21 00:38:17 | [letratag-render](https://crates.io/crates/letratag-render) | 0.1.1 | 0 | Bounded PNG and grayscale rendering for LetraTag rasters |
-| 2026-10-21 00:41:47 | [agentrecorder-store](https://crates.io/crates/agentrecorder-store) | 0.1.0 | 0 | SQLite session and event store for agentrecorder |
-| 2026-10-21 00:41:50 | [agentrecorder-supervisor](https://crates.io/crates/agentrecorder-supervisor) | 0.1.0 | 0 | Per-session PTY supervisor, socket protocol and screen model for agentrecorder |
-| 2026-10-21 00:41:53 | [agentrecorder](https://crates.io/crates/agentrecorder) | 0.1.0 | 0 | Run, inspect, recover and replay terminal sessions of AI coding agents |
-| 2026-10-21 00:49:23 | [deck-based-open-source-visualisation-engine-for-reactors-dover](https://crates.io/crates/deck-based-open-source-visualisation-engine-for-reactors-dover) | 0.0.1 | 0 | DOVER (Deck-based Open-source Visualisation Engine for Reactors) — low-fidelity… |
-| 2026-10-21 00:49:31 | [outram-park-fork-moltres](https://crates.io/crates/outram-park-fork-moltres) | 0.0.1 | 0 | MSR neutronics + thermal-hydraulics on the outram-foam finite-volume layer — ph… |
-| 2026-10-21 00:50:12 | [rmeshopt](https://crates.io/crates/rmeshopt) | 0.1.1 | 0 | Safe, no_std-capable Rust port of meshoptimizer: mesh processing algorithms tha… |
-| 2026-10-21 00:52:38 | [lazydn](https://crates.io/crates/lazydn) | 0.1.0 | 0 | A terminal UI client for dev-null.sh |
-| 2026-10-21 00:52:39 | [polystrata](https://crates.io/crates/polystrata) | 0.1.0 | 0 | High-performance 2D polygon clipping, Boolean operations, and topological heali… |
-| 2026-10-21 00:54:02 | [letratag-transport](https://crates.io/crates/letratag-transport) | 0.1.1 | 0 | Bounded mock and BlueZ transports for LetraTag printers, with adaptive GATT chu… |
-| 2026-10-21 00:57:20 | [simien_capacity_builder_macros](https://crates.io/crates/simien_capacity_builder_macros) | 0.1.1 | 0 | Macros for simien_capacity_builder. Forked from capacity_builder_macros 0.3.0. |
-| 2026-10-21 00:57:23 | [simien_maybe_sync](https://crates.io/crates/simien_maybe_sync) | 0.1.1 | 0 | Rc or Arc depending on a feature, for Simien. Forked from deno_maybe_sync 0.46.… |
-| 2026-10-21 00:57:25 | [simien_media_type](https://crates.io/crates/simien_media_type) | 0.1.1 | 0 | Media types of JavaScript and TypeScript files, for Simien. Forked from deno_me… |
-| 2026-10-21 00:57:27 | [simien_monch](https://crates.io/crates/simien_monch) | 0.1.1 | 0 | Parser combinators, for Simien. Forked from monch 0.6.0. |
-| 2026-10-21 00:57:30 | [simien_sys_traits_macros](https://crates.io/crates/simien_sys_traits_macros) | 0.1.1 | 0 | Macros for simien_sys_traits. Forked from sys_traits_macros 0.1.0. |
-| 2026-10-21 01:02:20 | [simien_terminal](https://crates.io/crates/simien_terminal) | 0.1.1 | 0 | Terminal colours and helpers, for Simien. Forked from deno_terminal 0.2.3. |
-| 2026-10-21 01:12:20 | [simien_capacity_builder](https://crates.io/crates/simien_capacity_builder) | 0.1.1 | 0 | Builders that compute capacity before allocating, for Simien. Forked from capac… |
-| 2026-10-21 01:13:25 | [hdrshot-core](https://crates.io/crates/hdrshot-core) | 2.0.0 | 0 | Library behind hdrshot: decode HDR images and encode HDR PNG, AVIF, Ultra HDR J… |
-| 2026-10-21 01:14:00 | [hdrshot-egui-backend](https://crates.io/crates/hdrshot-egui-backend) | 0.1.0 | 0 | CPU renderer for egui (vendored from egui_software_backend 0.0.3, ported to egu… |
-| 2026-10-21 01:14:13 | [hdrshot](https://crates.io/crates/hdrshot) | 2.0.0 | 0 | HDR image tool: convert HDR screenshots (JXR, EXR, JXL, HDR PNG) to HDR PNG, AV… |
-| 2026-10-21 01:14:44 | [hdrshot-gui](https://crates.io/crates/hdrshot-gui) | 2.0.0 | 0 | HDR image tool: desktop app for converting HDR screenshots and images |
+| 2026-10-21 01:22:20 | [simien_sys_traits](https://crates.io/crates/simien_sys_traits) | 0.1.1 | 0 | Traits for the system calls Simien's crates make, so they can be swapped for te… |
+| 2026-10-21 01:24:44 | [vigia-hayro-syntax](https://crates.io/crates/vigia-hayro-syntax) | 0.8.0 | 0 | hayro-syntax 0.8.0 with the patches vigia ships, until upstream releases them.… |
+| 2026-10-21 01:25:05 | [vigia-hayro-interpret](https://crates.io/crates/vigia-hayro-interpret) | 0.8.0 | 0 | hayro-interpret 0.8.0 with the patches vigia ships, until upstream releases the… |
+| 2026-10-21 01:25:22 | [vigia-hayro](https://crates.io/crates/vigia-hayro) | 0.8.0 | 0 | hayro 0.8.0 with the patches vigia ships, until upstream releases them. Use hay… |
+| 2026-10-21 01:29:03 | [cargo-tar](https://crates.io/crates/cargo-tar) | 0.0.1 | 0 | Build release tarballs from a Cargo project |
+| 2026-10-21 01:32:20 | [simien_npmrc](https://crates.io/crates/simien_npmrc) | 0.1.1 | 0 | .npmrc parsing for Simien. Forked from deno_npmrc 0.20.0. |
+| 2026-10-21 01:42:21 | [simien_semver](https://crates.io/crates/simien_semver) | 0.1.1 | 0 | Semver for npm and JSR specifiers, for Simien. Forked from deno_semver 0.10.1. |
+| 2026-10-21 01:43:11 | [outram-park-fork-pflotran](https://crates.io/crates/outram-park-fork-pflotran) | 0.0.1 | 0 | Independent pure-Rust fork/translation of PFLOTRAN (subsurface flow & reactive… |
+| 2026-10-21 01:49:14 | [hpak](https://crates.io/crates/hpak) | 0.1.0 | 0 | High-performance packaging and metadata framing utilities. |
+| 2026-10-21 01:50:08 | [lazykeifu](https://crates.io/crates/lazykeifu) | 0.1.2 | 0 | A graph-first Git TUI with lazygit-inspired workflows |
+| 2026-10-21 01:52:21 | [simien_cache_dir](https://crates.io/crates/simien_cache_dir) | 0.1.1 | 0 | Cache directory layout for Simien. Forked from deno_cache_dir 0.51.0. |
+| 2026-10-21 02:02:21 | [simien_lockfile](https://crates.io/crates/simien_lockfile) | 0.1.1 | 0 | Lockfile for Simien. Forked from deno_lockfile 0.61.0. |
+| 2026-10-21 02:02:55 | [csan](https://crates.io/crates/csan) | 0.5.0 | 0 | Cutter call number generation (Cutter-Sanborn and Library of Congress) for libr… |
+| 2026-10-21 02:02:58 | [csan-cli](https://crates.io/crates/csan-cli) | 0.5.0 | 0 | Command-line Cutter call number generator (Cutter-Sanborn and Library of Congre… |
+| 2026-10-21 02:08:08 | [wai-quantum-cli](https://crates.io/crates/wai-quantum-cli) | 0.1.0 | 0 | The wai-quantum command line: OpenQASM programs run on this machine as the quan… |
+| 2026-10-21 02:09:26 | [suiterun](https://crates.io/crates/suiterun) | 0.7.3 | 0 | The Rust runtime of the BDD suite format: lint, run and list YAML suites, the s… |
+| 2026-10-21 02:12:20 | [simien_package_json](https://crates.io/crates/simien_package_json) | 0.1.1 | 0 | package.json parsing for Simien. Forked from deno_package_json 0.61.0. |
 
 ## Data source
 
