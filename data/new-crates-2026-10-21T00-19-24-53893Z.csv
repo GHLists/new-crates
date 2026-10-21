@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-20T23:21:29.013898Z,rpi-providers,0.1.2,0,0,https://github.com/pi-rust/rpi-package,"Unified DeepSeek, OpenRouter, llama.cpp and proxy provider extension for rpi"
+2026-10-20T23:24:19.839488Z,vigia-syntect,5.3.0,0,0,https://github.com/breferrari/vigia,"syntect 5.3.0 with the patches vigia ships, until upstream releases them. Use syntect instead."
+2026-10-20T23:35:48.425575Z,htmlspec-schema,1.0.0,0,0,https://github.com/Firefly-Projects/htmlspec,HTMLSpec projected-model schema and the Rust types generated from it
+2026-10-20T23:36:06.32269Z,htmlspec-parse,1.0.0,0,0,https://github.com/Firefly-Projects/htmlspec,HTMLSpec HTML parsing and document-model projection
+2026-10-20T23:36:14.365693Z,htmlspec-assets,1.0.0,0,0,https://github.com/Firefly-Projects/htmlspec,"The templates, stylesheets, and pinned diagram and chart libraries HTMLSpec documents render with"
+2026-10-20T23:36:32.458552Z,pipecircuit-storage-backing,0.0.1,0,0,https://github.com/KenAKAFrosty/pipecircuit-scaffold,Caller-owned dense storage with an isolated unsafe boundary
+2026-10-20T23:36:33.6415Z,htmlspec-format,1.0.0,0,0,https://github.com/Firefly-Projects/htmlspec,HTMLSpec canonical serializer
+2026-10-20T23:37:10.83213Z,htmlspec-validate,1.0.0,0,0,https://github.com/Firefly-Projects/htmlspec,HTMLSpec rule engine and diagnostics
+2026-10-20T23:43:07.283434Z,alphashot,0.1.0,0,0,https://github.com/Sofahamster/alphashot,"Capture Windows windows with transparent backgrounds, rounded corners and shadows"
+2026-10-20T23:45:24.757692Z,orbit-quota,0.1.0,0,0,https://github.com/iadev09/orbitive,Bounded GCRA quota admission with memory and shared-memory backends.
+2026-10-20T23:45:49.10191Z,htmlspec-cli,1.0.0,0,0,https://github.com/Firefly-Projects/htmlspec,"The htmlspec command: create, validate, format, and archive HTMLSpec documents"
+2026-10-21T00:03:01.812837Z,letterbox,0.2.0,0,0,https://github.com/YPARK/letterbox,"Mail in the terminal: IMAP and Outlook accounts, read as easily by an AI agent as by you"
+2026-10-21T00:07:17.21247Z,rtoo,0.1.0,0,0,https://github.com/fanxitong/rtoo,rtos
+2026-10-21T00:10:06.367338Z,wallpaper_carousel,0.2.0,0,0,https://github.com/valeratrades/wallpaper_carousel,"Render a typst document or a photo with a quote, balance and trivia overlay, and set it as the sway wallpaper"
+2026-10-21T00:12:58.165137Z,banlieue-api,0.4.4,0,0,https://github.com/firestoned/banlieue,"API types and CRD generation for banlieue, a Kubernetes-native VM management API"
+2026-10-21T00:14:04.22984Z,pygeomapper,0.0.1,0,0,https://github.com/GeoLarryLai/pyGeoMapper,"Geoscience geospatial and 3D visualization, GIS, remote sensing, and geological mapping toolkit in Rust"
+2026-10-21T00:18:28.736262Z,boatramp-overlay-proto,0.42.0,0,0,https://github.com/BoatRamp/BoatRamp,"boatramp overlay fabric — pure protocol & crypto core (identity, peer policy, relay-blind E2EE, resumable circuit framing, capability dial). No async or transport stack; depends only on boatramp subs…"
+2026-10-21T00:18:42.882162Z,boatramp-overlay,0.42.0,0,0,https://github.com/BoatRamp/BoatRamp,"boatramp overlay fabric — the async runtime: QUIC-on-raw-pubkey-TLS endpoints, relay-blind E2EE splice, resumable circuit pump, ICE/NAT traversal, direct-path promotion, and the relay/egress/client-e…"
