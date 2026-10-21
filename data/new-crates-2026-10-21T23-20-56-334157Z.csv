@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T22:21:01.285708Z,cortexkit-role-classifier-conformance,0.1.0,0,0,https://github.com/cortexkit/commons,Conformance suite for the CortexKit classifier/v1 role: drives a live classifier module against a call-counting stand-in provider and checks its wire replies.
+2026-10-21T22:21:14.353328Z,argmend,0.1.0,0,0,https://github.com/argmend/argmend,Reserved.
+2026-10-21T22:21:44.755556Z,pagesift-sys,0.12.1,0,0,https://github.com/YOLOW92/pagesift,Process-level tuning for the pagesift binary (glibc allocator thresholds).
+2026-10-21T22:26:06.826111Z,genja-cli,0.5.0,0,0,https://github.com/Smertan/genja,First-party command-line interface for Genja automation workflows
+2026-10-21T22:31:49.803533Z,pagesift,0.12.1,0,0,https://github.com/YOLOW92/pagesift,"A single-binary, Firecrawl-compatible web scraping engine that turns pages into clean Markdown."
+2026-10-21T22:38:03.683827Z,better-profanity,0.1.0,0,0,https://github.com/SyntaxSpirits/better-profanity-rs,Port of the better_profanity word filter that censors exactly the same words
+2026-10-21T22:39:50.33061Z,latkit,0.2.0,0,0,https://github.com/lukelowry/latkit,"Columnar data drawn as vertices, edges, lines, and areas on the GPU."
+2026-10-21T22:40:08.608901Z,latkit-cli,0.2.0,0,0,https://github.com/lukelowry/latkit,Render latkit scenes of JSON or binary data to images and videos.
+2026-10-21T22:41:54.338286Z,condesate,0.1.0,0,0,https://github.com/theycallmelj/ai-swarm,A trait-driven AI agent harness with a swarm layer that behaves like a tiny OS.
+2026-10-21T22:42:33.306845Z,martin-tilegen,0.1.0,0,0,https://github.com/maplibre/martin,"Bulk vector tile generation engine: renders features once per zoom, external-sorts the pieces, and assembles MLT/MVT tilesets"
+2026-10-21T22:45:18.699868Z,native-app-contract,0.1.0,0,0,https://github.com/appunni-m/uvicorn-rs,Runtime-neutral contracts for Rust-native web applications
+2026-10-21T22:45:44.521694Z,uvicorn-rs-h3,0.1.0,0,0,https://github.com/appunni-m/uvicorn-rs,Maintained HTTP/3 protocol fork used by uvicorn-rs
+2026-10-21T22:46:05.767947Z,uvicorn-rs-h3-quinn,0.1.0,0,0,https://github.com/appunni-m/uvicorn-rs,QUIC transport adapter for the uvicorn-rs HTTP/3 fork
+2026-10-21T22:46:29.40573Z,uvicorn-rs,0.1.0,0,0,https://github.com/appunni-m/uvicorn-rs,Rust-native HTTP server library
+2026-10-21T22:49:13.154634Z,sys-lib,0.1.0,0,0,https://github.com/jamesgober/sys-lib,"System facts for Rust services: OS, CPU, memory, disks, network, host, this process, virtualization, power, and device identity, container-aware by default, plus build info, instance info, and a proc…"
+2026-10-21T22:54:07.16386Z,bigbertha,0.9.1,0,0,https://github.com/felixowens/bertha,"Error reporting for bertha from Rust: panics, errors with their causes and backtraces, tracing, and tower/axum requests."
+2026-10-21T22:57:33.630323Z,antspawn,0.0.0,0,0,https://github.com/ThinkersJournal/antspawn,"Placeholder: AntSpawn, a sandboxed job runner (one job, one clean environment, then gone). Not yet released."
+2026-10-21T23:00:49.326068Z,cf-gears-durable-execution-sdk,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,Code-defined durable execution contracts for gears-rust
+2026-10-21T23:02:29.126423Z,balius-core,0.5.4,0,0,https://github.com/txpipe/balius,Balius-owned core types and protocol schemas for the runtime <-> WASM interface
+2026-10-21T23:05:40.984868Z,rustable-sql-core,0.1.1,0,0,https://gitlab.krr-software-solutions.com/oss/rustable,"Core library for rustable: migration parsing, schema derivation, and execution"
+2026-10-21T23:05:41.650185Z,rustable-sql-derive,0.1.1,0,0,https://gitlab.krr-software-solutions.com/oss/rustable,"#[derive(Table)] for rustable: declare tables in Rust, diff them against your migrations"
+2026-10-21T23:05:42.371496Z,rustable-sql-db,0.1.1,0,0,https://gitlab.krr-software-solutions.com/oss/rustable,"Apply rustable migrations to a real database (Postgres, MySQL, SQLite) via sqlx"
+2026-10-21T23:05:44.002172Z,rustable-sql,0.1.1,0,0,https://gitlab.krr-software-solutions.com/oss/rustable,"SQL schema migrations in the spirit of Flyway: analyze, plan and apply plain .sql migrations, and declare tables in Rust with #[derive(Table)]"
+2026-10-21T23:05:44.327666Z,rustable-sql-cli,0.1.1,0,0,https://gitlab.krr-software-solutions.com/oss/rustable,The rustable command-line interface
+2026-10-21T23:06:08.880189Z,bowery,0.0.0,0,0,https://github.com/ImperialBower/bowery,"One poker table control, configured not compiled: <bowery-table>."
+2026-10-21T23:20:13.288939Z,jungle-wt,0.1.0,0,0,https://github.com/GopeshSingal/jungle,git worktree management on your machine

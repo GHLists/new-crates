@@ -8,42 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 22:18 UTC
+## Latest list — 2026-10-21 23:20 UTC
 
-New crates published between 2026-10-21 21:22 UTC and 2026-10-21 22:18 UTC.
+New crates published between 2026-10-21 22:18 UTC and 2026-10-21 23:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-21T22-18-37-154386Z.csv)
+[Full CSV](data/new-crates-2026-10-21T23-20-56-334157Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-21 21:23:57 | [cf-stream](https://crates.io/crates/cf-stream) | 0.1.1 | 0 | Unofficial async Rust client for the Cloudflare Stream API: upload, manage, and… |
-| 2026-10-21 21:24:03 | [docvera-engine](https://crates.io/crates/docvera-engine) | 0.1.2 | 0 | Schema-validated, indexed, queryable Markdown knowledge base engine |
-| 2026-10-21 21:24:08 | [frozen-duckdb-builder](https://crates.io/crates/frozen-duckdb-builder) | 2.0.0-dev | 0 | Build-time companion for frozen-duckdb: downloads the prebuilt DuckDB library f… |
-| 2026-10-21 21:24:20 | [frozen-duckdb-sys](https://crates.io/crates/frozen-duckdb-sys) | 2.0.0-dev | 0 | Low-level FFI bindings to the DuckDB analytical database for frozen-duckdb |
-| 2026-10-21 21:24:38 | [michi-core](https://crates.io/crates/michi-core) | 0.3.1 | 0 | AXI response primitives for agent-ergonomic tools: TOON lists, key-value blocks… |
-| 2026-10-21 21:24:49 | [michi-pipeline](https://crates.io/crates/michi-pipeline) | 0.3.1 | 0 | Async pipeline execution for michi: validated step plans, replay-safe retries,… |
-| 2026-10-21 21:25:12 | [docvera-cli](https://crates.io/crates/docvera-cli) | 0.1.2 | 0 | CLI for docvera: validate, index and query Markdown knowledge bases |
-| 2026-10-21 21:29:53 | [qq-cli](https://crates.io/crates/qq-cli) | 0.1.0 | 0 | A modular Rust QQ task interface for coding agents |
-| 2026-10-21 21:31:46 | [pagesift-content](https://crates.io/crates/pagesift-content) | 0.12.1 | 0 | HTML to clean Markdown: main-content extraction, Markdown generation and metada… |
-| 2026-10-21 21:32:32 | [yeda](https://crates.io/crates/yeda) | 0.1.0 | 0 | A reference manager built on plain-text files and a terminal interface |
-| 2026-10-21 21:36:31 | [wolfpack-native](https://crates.io/crates/wolfpack-native) | 0.2.0 | 0 | Readers of the declarations of native modules of wolfpack (Rust, Go and TypeScr… |
-| 2026-10-21 21:37:10 | [oxframe-3d](https://crates.io/crates/oxframe-3d) | 0.20.0 | 0 | 3D scenes for oxframe: meshes, camera, lights and a deterministic software rend… |
-| 2026-10-21 21:37:34 | [http_headers_simd](https://crates.io/crates/http_headers_simd) | 0.1.1 | 0 | SIMD implementation details for http_headers. Do not depend on this crate direc… |
-| 2026-10-21 21:39:50 | [bevy_starling](https://crates.io/crates/bevy_starling) | 0.1.0 | 0 | A tweening library for the Bevy game engine. |
-| 2026-10-21 21:41:45 | [pagesift-extract](https://crates.io/crates/pagesift-extract) | 0.12.1 | 0 | Schema-based structured extraction (CSS/XPath), regex entity extraction, Markdo… |
-| 2026-10-21 21:48:17 | [cortexkit-role-classifier](https://crates.io/crates/cortexkit-role-classifier) | 0.1.0 | 0 | Wire contract of the CortexKit classifier/v1 role: role.describe, classify.run,… |
-| 2026-10-21 21:51:45 | [pagesift-pdf](https://crates.io/crates/pagesift-pdf) | 0.12.1 | 0 | PDF to clean Markdown: text extraction, layout reconstruction and scanned-page… |
-| 2026-10-21 21:53:01 | [hardless-core](https://crates.io/crates/hardless-core) | 0.1.0 | 0 | Sans-IO core of Hardless: device plugin interface, registry, event log, faults… |
-| 2026-10-21 21:53:03 | [hardless-escpos](https://crates.io/crates/hardless-escpos) | 0.1.0 | 0 | Streaming ESC/POS parser for Hardless: byte stream to command AST (sans-IO). |
-| 2026-10-21 21:53:03 | [hardless-render](https://crates.io/crates/hardless-render) | 0.1.0 | 0 | Receipt renderer for Hardless: command AST to HTML, SVG and PNG. |
-| 2026-10-21 21:53:05 | [hardless-devices](https://crates.io/crates/hardless-devices) | 0.1.0 | 0 | Emulated POS devices for Hardless: receipt printer, cash drawer, barcode scanne… |
-| 2026-10-21 21:53:05 | [hardless-http-dialects](https://crates.io/crates/hardless-http-dialects) | 0.1.0 | 0 | ePOS-Print-compatible and WebPRNT-compatible XML to command AST for Hardless. |
-| 2026-10-21 21:58:18 | [air_notifications](https://crates.io/crates/air_notifications) | 0.1.0 | 0 | AIR notification contracts and push delivery server |
-| 2026-10-21 22:01:22 | [polis_core](https://crates.io/crates/polis_core) | 0.1.0 | 0 | Deterministic simulation core for Polis Genesis |
-| 2026-10-21 22:01:44 | [polis_mind](https://crates.io/crates/polis_mind) | 0.1.0 | 0 | Turns what people do into words, and builds the inner voice behind them |
-| 2026-10-21 22:01:45 | [pagesift-policy](https://crates.io/crates/pagesift-policy) | 0.12.1 | 0 | Polite crawling for pagesift: RFC 9309 robots.txt, per-host rate limits, adapti… |
-| 2026-10-21 22:02:04 | [polis_cli](https://crates.io/crates/polis_cli) | 0.1.0 | 0 | Command line runner for Polis Genesis |
-| 2026-10-21 22:11:44 | [pagesift-search](https://crates.io/crates/pagesift-search) | 0.12.1 | 0 | Pluggable web search backends (SearXNG, Brave, Bing, Google CSE, Tavily) behind… |
+| 2026-10-21 22:21:01 | [cortexkit-role-classifier-conformance](https://crates.io/crates/cortexkit-role-classifier-conformance) | 0.1.0 | 0 | Conformance suite for the CortexKit classifier/v1 role: drives a live classifie… |
+| 2026-10-21 22:21:14 | [argmend](https://crates.io/crates/argmend) | 0.1.0 | 0 | Reserved. |
+| 2026-10-21 22:21:44 | [pagesift-sys](https://crates.io/crates/pagesift-sys) | 0.12.1 | 0 | Process-level tuning for the pagesift binary (glibc allocator thresholds). |
+| 2026-10-21 22:26:06 | [genja-cli](https://crates.io/crates/genja-cli) | 0.5.0 | 0 | First-party command-line interface for Genja automation workflows |
+| 2026-10-21 22:31:49 | [pagesift](https://crates.io/crates/pagesift) | 0.12.1 | 0 | A single-binary, Firecrawl-compatible web scraping engine that turns pages into… |
+| 2026-10-21 22:38:03 | [better-profanity](https://crates.io/crates/better-profanity) | 0.1.0 | 0 | Port of the better_profanity word filter that censors exactly the same words |
+| 2026-10-21 22:39:50 | [latkit](https://crates.io/crates/latkit) | 0.2.0 | 0 | Columnar data drawn as vertices, edges, lines, and areas on the GPU. |
+| 2026-10-21 22:40:08 | [latkit-cli](https://crates.io/crates/latkit-cli) | 0.2.0 | 0 | Render latkit scenes of JSON or binary data to images and videos. |
+| 2026-10-21 22:41:54 | [condesate](https://crates.io/crates/condesate) | 0.1.0 | 0 | A trait-driven AI agent harness with a swarm layer that behaves like a tiny OS. |
+| 2026-10-21 22:42:33 | [martin-tilegen](https://crates.io/crates/martin-tilegen) | 0.1.0 | 0 | Bulk vector tile generation engine: renders features once per zoom, external-so… |
+| 2026-10-21 22:45:18 | [native-app-contract](https://crates.io/crates/native-app-contract) | 0.1.0 | 0 | Runtime-neutral contracts for Rust-native web applications |
+| 2026-10-21 22:45:44 | [uvicorn-rs-h3](https://crates.io/crates/uvicorn-rs-h3) | 0.1.0 | 0 | Maintained HTTP/3 protocol fork used by uvicorn-rs |
+| 2026-10-21 22:46:05 | [uvicorn-rs-h3-quinn](https://crates.io/crates/uvicorn-rs-h3-quinn) | 0.1.0 | 0 | QUIC transport adapter for the uvicorn-rs HTTP/3 fork |
+| 2026-10-21 22:46:29 | [uvicorn-rs](https://crates.io/crates/uvicorn-rs) | 0.1.0 | 0 | Rust-native HTTP server library |
+| 2026-10-21 22:49:13 | [sys-lib](https://crates.io/crates/sys-lib) | 0.1.0 | 0 | System facts for Rust services: OS, CPU, memory, disks, network, host, this pro… |
+| 2026-10-21 22:54:07 | [bigbertha](https://crates.io/crates/bigbertha) | 0.9.1 | 0 | Error reporting for bertha from Rust: panics, errors with their causes and back… |
+| 2026-10-21 22:57:33 | [antspawn](https://crates.io/crates/antspawn) | 0.0.0 | 0 | Placeholder: AntSpawn, a sandboxed job runner (one job, one clean environment,… |
+| 2026-10-21 23:00:49 | [cf-gears-durable-execution-sdk](https://crates.io/crates/cf-gears-durable-execution-sdk) | 0.1.0 | 0 | Code-defined durable execution contracts for gears-rust |
+| 2026-10-21 23:02:29 | [balius-core](https://crates.io/crates/balius-core) | 0.5.4 | 0 | Balius-owned core types and protocol schemas for the runtime <-> WASM interface |
+| 2026-10-21 23:05:40 | [rustable-sql-core](https://crates.io/crates/rustable-sql-core) | 0.1.1 | 0 | Core library for rustable: migration parsing, schema derivation, and execution |
+| 2026-10-21 23:05:41 | [rustable-sql-derive](https://crates.io/crates/rustable-sql-derive) | 0.1.1 | 0 | #[derive(Table)] for rustable: declare tables in Rust, diff them against your m… |
+| 2026-10-21 23:05:42 | [rustable-sql-db](https://crates.io/crates/rustable-sql-db) | 0.1.1 | 0 | Apply rustable migrations to a real database (Postgres, MySQL, SQLite) via sqlx |
+| 2026-10-21 23:05:44 | [rustable-sql](https://crates.io/crates/rustable-sql) | 0.1.1 | 0 | SQL schema migrations in the spirit of Flyway: analyze, plan and apply plain .s… |
+| 2026-10-21 23:05:44 | [rustable-sql-cli](https://crates.io/crates/rustable-sql-cli) | 0.1.1 | 0 | The rustable command-line interface |
+| 2026-10-21 23:06:08 | [bowery](https://crates.io/crates/bowery) | 0.0.0 | 0 | One poker table control, configured not compiled: <bowery-table>. |
+| 2026-10-21 23:20:13 | [jungle-wt](https://crates.io/crates/jungle-wt) | 0.1.0 | 0 | git worktree management on your machine |
 
 ## Data source
 
