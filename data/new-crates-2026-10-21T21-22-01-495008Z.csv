@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T20:31:05.783696Z,cog-tiles,0.1.0,0,0,https://github.com/maplibre/martin,"Read web map tiles from tile-aligned Cloud Optimized GeoTIFFs (COG) in local files or object stores, fetching only the bytes each tile needs"
+2026-10-21T20:31:54.056424Z,wkp,0.6.0,0,0,https://github.com/kodonnell/wkp,"Well Known Polylines - compact, fast polyline-style geometry encoding"
+2026-10-21T20:35:42.128649Z,schema-explorer-core,1.0.0,0,0,https://github.com/Matdata-eu/schema-explorer,Reads XML Schema (XSD) and JSON Schema (also OpenAPI and AsyncAPI) sets into one indexed model for the schema-explorer viewer
+2026-10-21T20:35:44.529359Z,schema-explorer,1.0.0,0,0,https://github.com/Matdata-eu/schema-explorer,"Visual explorer for XML Schema (XSD) and JSON Schema (also OpenAPI and AsyncAPI): UML-like diagrams, content-model trees and a readable page per type, in a browser"
+2026-10-21T20:36:22.167385Z,oxfuse-onnx,0.3.0,0,0,https://github.com/sara-star-quant/oxfuse,"ONNX import for oxfuse: a small float32 operator subset lowered into the oxfuse IR, with every unsupported feature rejected by a named error."
+2026-10-21T20:36:27.279101Z,kargo-util,0.1.0,0,0,,"Shared terminal, configuration and filesystem utilities for Kargo"
+2026-10-21T20:36:29.762009Z,kargo-maven,0.1.0,0,0,,Maven repository access and dependency resolution for Kargo
+2026-10-21T20:36:32.335729Z,kargo-manifest,0.1.0,0,0,,The kargo.toml manifest model
+2026-10-21T20:36:34.721762Z,kargo-toolchain,0.1.0,0,0,,"JDK, Kotlin compiler and Kotlin/Native toolchain management for Kargo"
+2026-10-21T20:36:37.187903Z,kargo-compiler,0.1.0,0,0,,"Kotlin JVM, Wasm and Native compiler drivers for Kargo"
+2026-10-21T20:38:11.342758Z,synapse-mailbox-persistant,6.0.0-rc.123,0,0,https://github.com/ThinkersJournal/synapse,A Synapse MailStore over PersistAnt's key-value kind; SQLite opened for power-loss durability.
+2026-10-21T20:43:03.170583Z,kargo-ops,0.1.0,0,0,,Build engine and command implementations for Kargo
+2026-10-21T20:47:17.455662Z,ikonym,0.1.0,0,0,https://github.com/numera11y/ikonym,Deterministic geometric SVG avatars generated from an identifier.
+2026-10-21T20:48:25.099788Z,laterite-cliutil,0.1.0,0,0,https://github.com/niko86/laterite,"Shared CLI presentation (spinner, table, colour, JSON) for the AGS4 CLI binaries"
+2026-10-21T20:48:34.553265Z,tiny-rodriguez-nostd,0.1.0,0,0,https://github.com/jorgeandrecastro/tiny-rodriguez-nostd,"Géométrie différentielle minimale (SO(3), SE(3)) pour la robotique et les drones. #![no_std], sans allocation, sans unsafe."
+2026-10-21T20:48:34.570016Z,laterite-ags4-parity,0.1.0,0,0,https://github.com/niko86/laterite,Shared Rust↔python-ags4 parity verdict model + python oracle bridge
+2026-10-21T20:51:29.847206Z,pagesift-cdp,0.12.1,0,0,https://github.com/YOLOW92/pagesift,"A small, self-contained Chrome DevTools Protocol client and bounded browser pool for rendering pages."
+2026-10-21T20:51:30.293975Z,pagesift-diff,0.12.1,0,0,https://github.com/YOLOW92/pagesift,"Block-level Markdown snapshot diff that separates noise changes (price, date, count) from substantive ones."
+2026-10-21T20:51:30.684305Z,pagesift-html,0.12.1,0,0,https://github.com/YOLOW92/pagesift,Fast HTML parser for content extraction: zero-copy arena DOM with the HTML5 tree-building rules that matter for text.
+2026-10-21T20:51:30.897861Z,pagesift-llm,0.12.1,0,0,https://github.com/YOLOW92/pagesift,OpenAI-compatible Chat Completions client with structured extraction and summarization.
+2026-10-21T20:51:31.059566Z,pagesift-mcp,0.12.1,0,0,https://github.com/YOLOW92/pagesift,"Self-contained MCP server (JSON-RPC 2.0, stdio and Streamable HTTP) for pagesift's scraping tools."
+2026-10-21T20:51:51.935323Z,libytdlp-sys,0.1.0,0,0,https://github.com/SimaoMoreira5228/libytdlp,Raw FFI bindings to the libytdlp C ABI
+2026-10-21T20:52:03.518569Z,libytdlp,0.1.0,0,0,https://github.com/SimaoMoreira5228/libytdlp,Safe Rust wrapper around the libytdlp C ABI
+2026-10-21T20:52:27.156035Z,kargo-lsp,0.1.0,0,0,,The `kargo lsp` language server: kargo.toml support in front of a Kotlin language server
+2026-10-21T20:52:32.420935Z,unpopped-harness,0.0.0,0,0,https://github.com/ThinkersJournal/unpopped-harness,Placeholder: external test and profile harnesses wrapping Unpopped. Not yet released.
+2026-10-21T20:53:21.764187Z,shuyi-core,0.0.0,0,0,https://github.com/Zafnok/shuyi-engine,"Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here yet: the first release will replace this placeholder."
+2026-10-21T20:53:23.711849Z,shuyi-assets,0.0.0,0,0,https://github.com/Zafnok/shuyi-engine,"Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here yet: the first release will replace this placeholder."
+2026-10-21T20:53:25.515608Z,shuyi-ui,0.0.0,0,0,https://github.com/Zafnok/shuyi-engine,"Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here yet: the first release will replace this placeholder."
+2026-10-21T20:53:27.41953Z,shuyi-platform,0.0.0,0,0,https://github.com/Zafnok/shuyi-engine,"Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here yet: the first release will replace this placeholder."
+2026-10-21T20:53:29.236993Z,shuyi-app,0.0.0,0,0,https://github.com/Zafnok/shuyi-engine,"Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here yet: the first release will replace this placeholder."
+2026-10-21T21:01:13.275136Z,durable-cache,0.1.0,0,0,https://github.com/lmalheiro/durable-cache,"A file-system-backed, durable storage backend for Pingora®, implementing the pingora-cache Storage trait"
+2026-10-21T21:01:40.975444Z,webrg,0.1.0,0,0,,WebGPU Render Graph
+2026-10-21T21:01:45.160852Z,pagesift-net,0.12.1,0,0,https://github.com/YOLOW92/pagesift,"Polite HTTP fetcher for pagesift: SSRF-guarded DNS, manual redirects, size caps, charset detection, scoped credentials."
+2026-10-21T21:02:27.946824Z,kargo-cli,0.1.0,0,0,https://github.com/enekocm7/kargo,A Cargo-like build tool and package manager for Kotlin
+2026-10-21T21:03:40.696498Z,shuyi-cli,0.0.0,0,0,https://github.com/Zafnok/shuyi-engine,"Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here yet: the first release will replace this placeholder."
+2026-10-21T21:11:44.934809Z,pagesift-store,0.12.1,0,0,https://github.com/YOLOW92/pagesift,"Embedded append-only log store for pagesift: scrape cache, HTML snapshots and crawl task state."
+2026-10-21T21:21:35.503057Z,yeda-core,0.1.0,0,0,https://github.com/yuvve/yeda,"yeda's library format and logic, without I/O"
+2026-10-21T21:21:36.383162Z,yeda-secrets,0.1.0,0,0,https://github.com/yuvve/yeda,yeda's passwords and API keys in the system secret store
+2026-10-21T21:21:38.348767Z,yeda-fs,0.1.0,0,0,https://github.com/yuvve/yeda,Reads and writes a yeda library on the local filesystem
+2026-10-21T21:21:39.016015Z,yeda-net,0.1.0,0,0,https://github.com/yuvve/yeda,"yeda's networking: metadata lookup, LLM requests and WebDAV transfers"
+2026-10-21T21:21:42.234869Z,yeda-reader,0.1.0,0,0,https://github.com/yuvve/yeda,yeda's PDF reader and annotator
+2026-10-21T21:21:47.993547Z,pagesift-api,0.12.1,0,0,https://github.com/YOLOW92/pagesift,Firecrawl v2 compatible HTTP API for pagesift.
