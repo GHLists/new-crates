@@ -8,45 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 18:20 UTC
+## Latest list — 2026-10-21 19:23 UTC
 
-New crates published between 2026-10-21 17:20 UTC and 2026-10-21 18:20 UTC.
+New crates published between 2026-10-21 18:20 UTC and 2026-10-21 19:23 UTC.
 
-[Full CSV](data/new-crates-2026-10-21T18-20-00-38134Z.csv)
+[Full CSV](data/new-crates-2026-10-21T19-23-58-322527Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-21 17:21:02 | [yav-server](https://crates.io/crates/yav-server) | 0.1.0 | 0 | HTTP server, SSR engine, and middleware for the Yav web framework |
-| 2026-10-21 17:23:29 | [yaml-merge3](https://crates.io/crates/yaml-merge3) | 0.1.0 | 0 | Structure-aware three-way merge for YAML files |
-| 2026-10-21 17:25:31 | [app-agent](https://crates.io/crates/app-agent) | 0.0.1-alpha.1 | 0 | Per-user, single-instance resident agent (ssh-agent/gpg-agent style): lock-firs… |
-| 2026-10-21 17:31:12 | [yav-cli](https://crates.io/crates/yav-cli) | 0.1.0 | 0 | Command-line interface for the Yav web framework |
-| 2026-10-21 17:33:27 | [cf-images](https://crates.io/crates/cf-images) | 0.1.0 | 0 | Unofficial async Rust client for the Cloudflare Images API: upload, manage, and… |
-| 2026-10-21 17:35:58 | [zakura-rt](https://crates.io/crates/zakura-rt) | 0.0.0 | 0 | Reserved |
-| 2026-10-21 17:36:05 | [stream-bridge-client](https://crates.io/crates/stream-bridge-client) | 0.1.0 | 0 | Bot client SDK for receiving Solana Shred packets and typed Yellowstone gRPC up… |
-| 2026-10-21 17:42:33 | [polyoxide-kalshi](https://crates.io/crates/polyoxide-kalshi) | 0.42.0 | 0 | Rust client library for Kalshi's event-contract market data and its order-book,… |
-| 2026-10-21 17:43:53 | [yav](https://crates.io/crates/yav) | 0.1.0 | 0 | A Rust-first web framework with a modern frontend developer experience |
-| 2026-10-21 17:45:22 | [systemprompt-governance](https://crates.io/crates/systemprompt-governance) | 0.71.0 | 0 | Governance for systemprompt.io AI tool calls: the GovernanceEngine policy chain… |
-| 2026-10-21 17:48:53 | [axeon-jobs](https://crates.io/crates/axeon-jobs) | 0.1.0 | 0 | Background jobs on PostgreSQL for Axeon: retries, delays, unique jobs and grace… |
-| 2026-10-21 17:49:26 | [terrain-generator](https://crates.io/crates/terrain-generator) | 0.3.0 | 0 | Procedural terrain generator: fractal noise, hydraulic erosion and river extrac… |
-| 2026-10-21 17:49:36 | [axeon-client](https://crates.io/crates/axeon-client) | 0.1.0 | 0 | An outbound HTTP client for Axeon apps: SSRF-safe egress, timeouts, retries, ci… |
-| 2026-10-21 17:50:18 | [axeon-openapi](https://crates.io/crates/axeon-openapi) | 0.1.0 | 0 | OpenAPI 3.1 documents for Axeon routes, from your Rust types |
-| 2026-10-21 17:50:52 | [axeon-redis](https://crates.io/crates/axeon-redis) | 0.1.0 | 0 | Redis integrations for Axeon: a shared session store |
-| 2026-10-21 17:57:23 | [wl-proxy-clip](https://crates.io/crates/wl-proxy-clip) | 0.1.0 | 0 | Wayland clipboard isolation proxy |
-| 2026-10-21 17:59:12 | [bo4e-edifact-types-base](https://crates.io/crates/bo4e-edifact-types-base) | 0.30.24 | 0 | Shared model, serde helpers and code enums behind bo4e-edifact-types |
-| 2026-10-21 17:59:26 | [turbofox](https://crates.io/crates/turbofox) | 0.0.11 | 0 | Embedded key-value storage engine engineered for on-device persistence |
-| 2026-10-21 17:59:54 | [patamaps-cli](https://crates.io/crates/patamaps-cli) | 0.1.0-alpha.1 | 0 | Native correspondence compiler command line interface |
-| 2026-10-21 18:00:07 | [bo4e-edifact-types-fv2504](https://crates.io/crates/bo4e-edifact-types-fv2504) | 0.30.24 | 0 | FV2504 interchange and PID types behind bo4e-edifact-types |
-| 2026-10-21 18:00:37 | [patamaps-activator](https://crates.io/crates/patamaps-activator) | 0.1.0-alpha.1 | 0 | Fixed Linux root-owned artifact activation for Patamaps |
-| 2026-10-21 18:00:42 | [trail-fm](https://crates.io/crates/trail-fm) | 1.11.1 | 0 | A terminal-first workspace for navigating, inspecting and acting on the filesys… |
-| 2026-10-21 18:00:43 | [bo4e-edifact-types-fv2510](https://crates.io/crates/bo4e-edifact-types-fv2510) | 0.30.24 | 0 | FV2510 interchange and PID types behind bo4e-edifact-types |
-| 2026-10-21 18:01:20 | [bo4e-edifact-types-fv2604](https://crates.io/crates/bo4e-edifact-types-fv2604) | 0.30.24 | 0 | FV2604 interchange and PID types behind bo4e-edifact-types |
-| 2026-10-21 18:01:58 | [bo4e-edifact-types-fv2610](https://crates.io/crates/bo4e-edifact-types-fv2610) | 0.30.24 | 0 | FV2610 interchange and PID types behind bo4e-edifact-types |
-| 2026-10-21 18:02:22 | [iso639-cli](https://crates.io/crates/iso639-cli) | 0.3.0 | 0 | Command line tool for autonyms, default scripts and LCIDs of BCP 47 language ta… |
-| 2026-10-21 18:10:36 | [probation-policy](https://crates.io/crates/probation-policy) | 0.0.0 | 0 | Name reservation for Probation's shared policy rules. The real crate ships with… |
-| 2026-10-21 18:15:29 | [tellus-bootstrap-dns](https://crates.io/crates/tellus-bootstrap-dns) | 0.1.0 | 0 | DNS seed discovery for tellus cluster bootstrap |
-| 2026-10-21 18:15:34 | [tellus-bootstrap-k8s](https://crates.io/crates/tellus-bootstrap-k8s) | 0.1.0 | 0 | Kubernetes seed discovery for tellus cluster bootstrap |
-| 2026-10-21 18:15:37 | [tellus-cluster-inspect](https://crates.io/crates/tellus-cluster-inspect) | 0.1.0 | 0 | An axum router observing a tellus cluster node: a state snapshot and a resumabl… |
-| 2026-10-21 18:18:31 | [astro-rust](https://crates.io/crates/astro-rust) | 2.1.0 | 0 | Advanced algorithms for astronomy (maintained fork of `astro` with Rust 2021 co… |
+| 2026-10-21 18:23:27 | [ttrackii-cli](https://crates.io/crates/ttrackii-cli) | 0.1.0 | 0 | Cross-platform command-line client for ttrackii |
+| 2026-10-21 18:25:01 | [dotmcsg](https://crates.io/crates/dotmcsg) | 0.1.0 | 0 | A Rust library for loading and writing MagicaCSG .mcsg files |
+| 2026-10-21 18:29:16 | [ares-suriv](https://crates.io/crates/ares-suriv) | 0.11.8 | 0 | Suriv language lexer, parser, and code generator: surface text to Cordis entry… |
+| 2026-10-21 18:32:48 | [hyperfluid](https://crates.io/crates/hyperfluid) | 0.1.0 | 0 | Hyperfluid API client |
+| 2026-10-21 18:44:46 | [astro-hd](https://crates.io/crates/astro-hd) | 0.2.0 | 0 | Human Design CLI — calculate a Human Design chart from birth date, time and UTC… |
+| 2026-10-21 18:48:44 | [ukit](https://crates.io/crates/ukit) | 0.1.0 | 0 | A no_std oriented set of Rust utilites |
+| 2026-10-21 18:54:12 | [blutui](https://crates.io/crates/blutui) | 0.1.1 | 0 | A terminal user interface compatible with BluOS, letting you control multi-play… |
+| 2026-10-21 18:55:13 | [keycloak-oauth2](https://crates.io/crates/keycloak-oauth2) | 0.1.0 | 0 | OAuth2/OIDC Authorization Code + PKCE para Keycloak: login no navegador, callba… |
+| 2026-10-21 18:57:31 | [axum-auto-openapi](https://crates.io/crates/axum-auto-openapi) | 0.1.1 | 0 | Zero-annotation OpenAPI 3.1 generation for Axum 0.8 |
+| 2026-10-21 19:04:23 | [lava-aws](https://crates.io/crates/lava-aws) | 0.1.3 | 0 | Tatara-lisp typed surface for AWS resources. Auto-generated by lava-forge from… |
+| 2026-10-21 19:07:39 | [kavita-client](https://crates.io/crates/kavita-client) | 0.1.0 | 0 | An async HTTP client for the Kavita comic, manga and book server API |
+| 2026-10-21 19:07:40 | [komasabi-reader](https://crates.io/crates/komasabi-reader) | 0.1.0 | 0 | The page viewer window of the Komasabi comic and manga app |
+| 2026-10-21 19:07:41 | [komga-client](https://crates.io/crates/komga-client) | 0.1.0 | 0 | An async HTTP client for the Komga comic and manga server API |
+| 2026-10-21 19:07:41 | [opds-client](https://crates.io/crates/opds-client) | 0.1.0 | 0 | An async client for OPDS catalogs that reads OPDS 2 (JSON) and OPDS 1.2 (Atom)… |
+| 2026-10-21 19:07:42 | [suwayomi-client](https://crates.io/crates/suwayomi-client) | 0.1.0 | 0 | An async client for a Suwayomi server's GraphQL API |
+| 2026-10-21 19:08:36 | [oxframe-icons](https://crates.io/crates/oxframe-icons) | 0.16.0 | 0 | icon!() for oxframe: Lucide, Tabler and Simple Icons, only the ones you use end… |
+| 2026-10-21 19:11:23 | [nominal-open62541](https://crates.io/crates/nominal-open62541) | 0.12.1 | 0 | High-level, safe bindings for the C99 library open62541, an open source and fre… |
+| 2026-10-21 19:13:17 | [rebolt](https://crates.io/crates/rebolt) | 0.9.0 | 0 | TODO |
+| 2026-10-21 19:14:40 | [discrec](https://crates.io/crates/discrec) | 0.1.1 | 0 | Records Discord's audio. Press record. |
+| 2026-10-21 19:18:18 | [egui_component_router](https://crates.io/crates/egui_component_router) | 0.2.0 | 0 | Minimal native and Web navigation for egui applications |
 
 ## Data source
 
