@@ -8,60 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 10:18 UTC
+## Latest list — 2026-10-21 11:22 UTC
 
-New crates published between 2026-10-21 09:22 UTC and 2026-10-21 10:18 UTC.
+New crates published between 2026-10-21 10:18 UTC and 2026-10-21 11:22 UTC.
 
-[Full CSV](data/new-crates-2026-10-21T10-18-55-747364Z.csv)
+[Full CSV](data/new-crates-2026-10-21T11-22-02-355566Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-21 09:25:36 | [opentopography_api](https://crates.io/crates/opentopography_api) | 0.1.0 | 0 | A gateway to the OpenTopography API, used for obtaining geographic data. |
-| 2026-10-21 09:29:12 | [paperpaw-android](https://crates.io/crates/paperpaw-android) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
-| 2026-10-21 09:29:15 | [paperpaw-boox](https://crates.io/crates/paperpaw-boox) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
-| 2026-10-21 09:29:18 | [paperpaw-cli](https://crates.io/crates/paperpaw-cli) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
-| 2026-10-21 09:29:23 | [paperpaw-dev](https://crates.io/crates/paperpaw-dev) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
-| 2026-10-21 09:29:27 | [paperpaw-emulator](https://crates.io/crates/paperpaw-emulator) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
-| 2026-10-21 09:30:37 | [iet-auth-acl](https://crates.io/crates/iet-auth-acl) | 0.1.1 | 0 | Explicit resource access policy over a selected grant-store port. |
-| 2026-10-21 09:31:14 | [paperpaw-kobo](https://crates.io/crates/paperpaw-kobo) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
-| 2026-10-21 09:33:31 | [keet](https://crates.io/crates/keet) | 2.0.4 | 0 | A low-CPU terminal audio player with real-time visualizations, a parametric EQ… |
-| 2026-10-21 09:40:38 | [iet-auth-profiles](https://crates.io/crates/iet-auth-profiles) | 0.1.1 | 0 | Optional verified persona selection, independent of token and policy mechanisms. |
-| 2026-10-21 09:41:24 | [paperpaw-plugin-power](https://crates.io/crates/paperpaw-plugin-power) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
-| 2026-10-21 09:50:20 | [wsb-daemon](https://crates.io/crates/wsb-daemon) | 0.248.6265 | 0 | wsb's daemon: the workbench, the GitHub mirror's schedule and peer continuity,… |
-| 2026-10-21 09:50:37 | [iet-auth-rbac](https://crates.io/crates/iet-auth-rbac) | 0.1.1 | 0 | RBAC policy through a selected role-store port. No embedded storage. |
-| 2026-10-21 09:51:14 | [paperpaw-plugin](https://crates.io/crates/paperpaw-plugin) | 0.0.0 | 0 | Reserved for PaperPaw, the e-reader OS formerly QuireInk |
-| 2026-10-21 09:51:20 | [promptdecode-core](https://crates.io/crates/promptdecode-core) | 0.1.0 | 0 | Hidden-Unicode text decoder with a compile-time class table parsed from classes… |
-| 2026-10-21 09:51:39 | [promptdecode-content](https://crates.io/crates/promptdecode-content) | 0.1.0 | 0 | Repository scanner that decodes the hidden payload out of every text file and e… |
-| 2026-10-21 09:52:26 | [tailrace](https://crates.io/crates/tailrace) | 0.0.0 | 0 | Name reservation for the tailrace project — a single-binary data ingestion engi… |
-| 2026-10-21 09:52:39 | [tailrace-console](https://crates.io/crates/tailrace-console) | 0.0.0 | 0 | Name reservation for the tailrace project — a single-binary data ingestion engi… |
-| 2026-10-21 09:52:54 | [tailrace-node](https://crates.io/crates/tailrace-node) | 0.0.0 | 0 | Name reservation for the tailrace project — a single-binary data ingestion engi… |
-| 2026-10-21 09:53:44 | [llm-wiki-rs](https://crates.io/crates/llm-wiki-rs) | 0.1.1 | 0 | Local-first Karpathy LLM Wiki & QMD Hybrid Search Engine compatible with Obsidi… |
-| 2026-10-21 09:56:17 | [anr-core](https://crates.io/crates/anr-core) | 0.1.0 | 0 | Backend-independent streaming audio noise reduction interfaces |
-| 2026-10-21 09:56:19 | [anr-ort](https://crates.io/crates/anr-ort) | 0.1.0 | 0 | Stateful DeepFilterNet3 audio noise reduction with ONNX Runtime |
-| 2026-10-21 09:56:20 | [anr](https://crates.io/crates/anr) | 0.1.0 | 0 | Audio noise reduction with a shared interface and optional inference backends |
-| 2026-10-21 09:56:22 | [anr-cli](https://crates.io/crates/anr-cli) | 0.1.0 | 0 | Cross-platform file and streaming audio noise reduction |
-| 2026-10-21 09:57:24 | [codetics-evse-id](https://crates.io/crates/codetics-evse-id) | 0.1.0 | 0 | Codetics OCPP: e-mobility identifiers (EVSE, pool and station IDs, IDRR / eMI3… |
-| 2026-10-21 09:57:24 | [codetics-ocpp-core](https://crates.io/crates/codetics-ocpp-core) | 0.1.0 | 0 | Codetics OCPP: version-independent OCPP-J building blocks (RPC framing, error c… |
-| 2026-10-21 09:57:25 | [codetics-ocpp-ws](https://crates.io/crates/codetics-ocpp-ws) | 0.1.0 | 0 | Codetics OCPP: dependency-light RFC 6455 WebSocket with RFC 7692 permessage-def… |
-| 2026-10-21 09:57:28 | [codetics-ocpp16](https://crates.io/crates/codetics-ocpp16) | 0.1.0 | 0 | Codetics OCPP: OCPP 1.6 (OCPP-J) message types with validation and typed dispat… |
-| 2026-10-21 09:57:29 | [codetics-ocpp201](https://crates.io/crates/codetics-ocpp201) | 0.1.0 | 0 | Codetics OCPP: OCPP 2.0.1 message types with validation and typed dispatch |
-| 2026-10-21 09:58:40 | [bevy_playtest](https://crates.io/crates/bevy_playtest) | 0.1.0 | 0 | Playtesting harness for Bevy games: in-process driver, oracles, external BRP va… |
-| 2026-10-21 09:58:44 | [clove-service](https://crates.io/crates/clove-service) | 0.2.0 | 0 | clove tool surface: the transport-independent read/write engine behind the MCP… |
-| 2026-10-21 09:59:42 | [sshweave](https://crates.io/crates/sshweave) | 0.1.0 | 0 | Composable SSH configuration and resilient gateway routing |
-| 2026-10-21 10:00:37 | [iet-auth-session-cache](https://crates.io/crates/iet-auth-session-cache) | 0.1.1 | 0 | Authoritative cache session storage. Clones share collision coordination. |
-| 2026-10-21 10:03:29 | [steam-api-web](https://crates.io/crates/steam-api-web) | 0.1.0 | 0 | Resilient async Steam Web API client for user authentication, users, and statis… |
-| 2026-10-21 10:03:41 | [ofdbox-core](https://crates.io/crates/ofdbox-core) | 0.0.1 | 0 | OFD 文档结构读取、解析与严格序列化。 |
-| 2026-10-21 10:03:56 | [ofdbox-crypto](https://crates.io/crates/ofdbox-crypto) | 0.0.1 | 0 | GM/T 0099 密码原语与 OFD 密钥处理。 |
-| 2026-10-21 10:04:08 | [ofdbox-seal](https://crates.io/crates/ofdbox-seal) | 0.0.1 | 0 | 电子印章结构的格式识别与解析。 |
-| 2026-10-21 10:04:14 | [rabbitmq-actor](https://crates.io/crates/rabbitmq-actor) | 0.1.0 | 0 | Actor-based RabbitMQ client on top of lapin with quorum queue support, automati… |
-| 2026-10-21 10:04:23 | [ofdbox-render](https://crates.io/crates/ofdbox-render) | 0.0.1 | 0 | OFD 页面渲染与格式转换的统一 Scene IR、前后端和 CPU 光栅化。 |
-| 2026-10-21 10:04:38 | [ofdbox](https://crates.io/crates/ofdbox) | 0.0.1 | 0 | 基于 GB/T 33190—2016 与 GM/T 0099—2020 的 OFD 版式文档工具箱，覆盖结构读写、加密验签、签章、渲染与转换。 |
-| 2026-10-21 10:07:25 | [datumesh-core](https://crates.io/crates/datumesh-core) | 0.2.1 | 0 | Datumesh protocol core: strict JSON and JCS, canonical forms, cell URIs, receip… |
-| 2026-10-21 10:07:35 | [codetics-ocpp21](https://crates.io/crates/codetics-ocpp21) | 0.1.0 | 0 | Codetics OCPP: OCPP 2.1 message types with validation and typed dispatch, inclu… |
-| 2026-10-21 10:09:31 | [smithay-renderer-vulkan](https://crates.io/crates/smithay-renderer-vulkan) | 0.1.0 | 0 | High-performance native Vulkan 1.3 rendering backend and Smithay Renderer adapt… |
-| 2026-10-21 10:10:38 | [iet-auth-session-jwt](https://crates.io/crates/iet-auth-session-jwt) | 0.1.1 | 0 | Independently selectable HS256 JWT credentials; not opaque stored sessions. |
-| 2026-10-21 10:11:04 | [kage-kura](https://crates.io/crates/kage-kura) | 0.0.0 | 0 | Client for kura, the kage plugin registry: resolve, verify and install packages. |
-| 2026-10-21 10:11:49 | [rust-bash-classify](https://crates.io/crates/rust-bash-classify) | 0.1.4 | 0 | Classify Bash commands by side-effect risk for AI-agent safety hooks |
+| 2026-10-21 10:20:16 | [codetics-ocpp-service](https://crates.io/crates/codetics-ocpp-service) | 0.1.0 | 0 | Codetics OCPP: Charging Station Management System (CSMS) service for OCPP 1.6J,… |
+| 2026-10-21 10:20:37 | [iet-rate-limit](https://crates.io/crates/iet-rate-limit) | 0.1.1 | 0 | Cache-backed first-hit fixed windows. Backend scope determines enforcement scop… |
+| 2026-10-21 10:30:36 | [iet-runtime-tokio](https://crates.io/crates/iet-runtime-tokio) | 0.1.1 | 0 | Owned worker supervision. Does not construct an executor or install signals. |
+| 2026-10-21 10:32:27 | [emet-engine](https://crates.io/crates/emet-engine) | 0.0.1 | 0 | Emet Engine: an AI-native game engine. Facade crate that re-exports the public… |
+| 2026-10-21 10:40:37 | [iet-telemetry-otel](https://crates.io/crates/iet-telemetry-otel) | 0.1.1 | 0 | Explicit process telemetry initialization; libraries never install globals. |
+| 2026-10-21 10:43:00 | [clifpad](https://crates.io/crates/clifpad) | 0.1.0 | 0 | A native scratchpad: Cranelift IR text in, JIT-compiled machine behaviour out,… |
+| 2026-10-21 10:45:21 | [tafrigh-youtube](https://crates.io/crates/tafrigh-youtube) | 0.2.0 | 0 | Existing YouTube captions for tafrigh, retrieved through yt-dlp with caption an… |
+| 2026-10-21 10:45:29 | [hip4-vanity](https://crates.io/crates/hip4-vanity) | 0.4.8 | 0 | Searches for an address that scores well against a set of criteria. |
+| 2026-10-21 10:48:22 | [omochi-ui](https://crates.io/crates/omochi-ui) | 0.1.1 | 0 | Declarative, transport-independent application runtime for A2UI |
+| 2026-10-21 10:49:31 | [rustcast-player](https://crates.io/crates/rustcast-player) | 0.0.3 | 0 | A podcast player built with egui |
+| 2026-10-21 10:50:44 | [iet-auth-acl-timescale](https://crates.io/crates/iet-auth-acl-timescale) | 0.1.1 | 0 | Resource-grant persistence with independently selected profile policy. |
+| 2026-10-21 10:51:21 | [rustbase-updater](https://crates.io/crates/rustbase-updater) | 0.1.0 | 0 | Self-upgrade engine for apps that update from signed release tags |
+| 2026-10-21 10:53:58 | [turbo-surf-v8](https://crates.io/crates/turbo-surf-v8) | 149.3.0 | 0 | Rust bindings to V8 |
+| 2026-10-21 10:55:18 | [ferrotensor-backend](https://crates.io/crates/ferrotensor-backend) | 0.1.0 | 0 | wgpu compute backend with hand-written WGSL kernels for the Ferrotensor ML fram… |
+| 2026-10-21 10:57:00 | [ferrotensor-autograd](https://crates.io/crates/ferrotensor-autograd) | 0.1.0 | 0 | Reverse-mode automatic differentiation for the Ferrotensor GPU ML framework |
+| 2026-10-21 10:57:03 | [ferrotensor-loader](https://crates.io/crates/ferrotensor-loader) | 0.1.0 | 0 | Safetensors model loading and tokenizer support for Ferrotensor |
+| 2026-10-21 10:57:07 | [ferrotensor-graph](https://crates.io/crates/ferrotensor-graph) | 0.1.0 | 0 | Neural network modules and transformer building blocks for Ferrotensor |
+| 2026-10-21 10:59:48 | [ic-host-http](https://crates.io/crates/ic-host-http) | 0.63.2 | 0 | Bounded HTTP response bodies with caller-selected failure evidence |
+| 2026-10-21 11:00:03 | [owly-airdrop](https://crates.io/crates/owly-airdrop) | 0.1.0 | 0 | AirDrop: a sans-IO protocol core, and a driver for it on tokio and rustls. |
+| 2026-10-21 11:00:04 | [owly-awdl](https://crates.io/crates/owly-awdl) | 0.1.0 | 0 | Sans-IO AWDL: frames and TLVs, sync and election, channel sequence, data path a… |
+| 2026-10-21 11:00:07 | [owly-radio](https://crates.io/crates/owly-radio) | 0.1.0 | 0 | The radio on Linux: the Backend trait and its injection backend, capability pro… |
+| 2026-10-21 11:00:37 | [iet-auth-basic-axum](https://crates.io/crates/iet-auth-basic-axum) | 0.1.1 | 0 | Password-login HTTP adapter. |
+| 2026-10-21 11:04:22 | [pi_task_pool](https://crates.io/crates/pi_task_pool) | 0.2.0 | 0 | 任务池 |
+| 2026-10-21 11:05:43 | [ferrotensor-hub](https://crates.io/crates/ferrotensor-hub) | 0.1.0 | 0 | HuggingFace Hub integration for the Ferrotensor ML framework |
+| 2026-10-21 11:08:38 | [localist-top](https://crates.io/crates/localist-top) | 0.0.0 | 0 | btop-styled TUI monitoring only local network, LAN neighbours and disk I/O |
+| 2026-10-21 11:10:38 | [iet-auth-profiles-axum](https://crates.io/crates/iet-auth-profiles-axum) | 0.1.1 | 0 | Profile-selection HTTP adapter. |
+| 2026-10-21 11:15:41 | [genai-prices](https://crates.io/crates/genai-prices) | 0.0.0 | 0 | Calculate the price of generative AI API calls |
+| 2026-10-21 11:16:12 | [amate](https://crates.io/crates/amate) | 0.13.0 | 0 | Dynamic batching on worker threads, with no dependencies: items run alone while… |
+| 2026-10-21 11:16:18 | [kuebiko](https://crates.io/crates/kuebiko) | 0.13.0 | 0 | Lock-free latency histograms with percentile estimates, and the Prometheus text… |
+| 2026-10-21 11:16:22 | [kamui](https://crates.io/crates/kamui) | 0.13.0 | 0 | A global allocator that keeps freed large blocks for reuse, so repeated model p… |
+| 2026-10-21 11:16:27 | [ferrotensor-trainer](https://crates.io/crates/ferrotensor-trainer) | 0.1.0 | 0 | Optimizers, LoRA fine-tuning and training loops for Ferrotensor |
+| 2026-10-21 11:16:34 | [ltop](https://crates.io/crates/ltop) | 0.1.2 | 0 | btop-styled TUI monitoring only local network, LAN neighbours and disk I/O |
+| 2026-10-21 11:17:57 | [echoes](https://crates.io/crates/echoes) | 0.7.0 | 0 | Find duplicated Rust doctests, functions and contexts |
+| 2026-10-21 11:20:12 | [fusor-ai-parakeet](https://crates.io/crates/fusor-ai-parakeet) | 0.1.2 | 0 | Moondream's Parakeet Redux speech to text (parakeet-tdt-0.6b-v3 with ternary en… |
+| 2026-10-21 11:20:14 | [fusor-ai-parakeet-compile](https://crates.io/crates/fusor-ai-parakeet-compile) | 0.1.2 | 0 | Compiles the moondream/parakeet-redux checkpoint into a bundle: its base-3 tern… |
+| 2026-10-21 11:20:39 | [iet-auth-profiles-timescale](https://crates.io/crates/iet-auth-profiles-timescale) | 0.1.1 | 0 | Profile persistence without owning identity or credential tables. |
 
 ## Data source
 
