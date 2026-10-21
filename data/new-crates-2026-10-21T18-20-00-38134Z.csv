@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T17:21:02.154902Z,yav-server,0.1.0,0,0,https://github.com/isaacvay/yav.rs,"HTTP server, SSR engine, and middleware for the Yav web framework"
+2026-10-21T17:23:29.412675Z,yaml-merge3,0.1.0,0,0,https://github.com/jelmer/yaml-edit,Structure-aware three-way merge for YAML files
+2026-10-21T17:25:31.3903Z,app-agent,0.0.1-alpha.1,0,0,https://github.com/earlye/eaux,"Per-user, single-instance resident agent (ssh-agent/gpg-agent style): lock-first startup, connect-or-spawn, and a JSON-lines call/subscribe protocol over a private local socket or named pipe."
+2026-10-21T17:31:12.963369Z,yav-cli,0.1.0,0,0,https://github.com/isaacvay/yav.rs,Command-line interface for the Yav web framework
+2026-10-21T17:33:27.541727Z,cf-images,0.1.0,0,0,https://github.com/BenjaminLucier/cf-rs,"Unofficial async Rust client for the Cloudflare Images API: upload, manage, and deliver images, including signed URLs."
+2026-10-21T17:35:58.831051Z,zakura-rt,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-10-21T17:36:05.133077Z,stream-bridge-client,0.1.0,0,0,https://github.com/0xfnzero/stream-bridge,Bot client SDK for receiving Solana Shred packets and typed Yellowstone gRPC updates
+2026-10-21T17:42:33.170299Z,polyoxide-kalshi,0.42.0,0,0,https://github.com/dilettante-trading/polyoxide,"Rust client library for Kalshi's event-contract market data and its order-book, ticker and trade streams"
+2026-10-21T17:43:53.740985Z,yav,0.1.0,0,0,https://github.com/isaacvay/yav.rs,A Rust-first web framework with a modern frontend developer experience
+2026-10-21T17:45:22.48955Z,systemprompt-governance,0.71.0,0,0,https://github.com/systempromptio/systemprompt-core,"Governance for systemprompt.io AI tool calls: the GovernanceEngine policy chain (secret scan, scope check, blocklist, rate limit, approvals) and the unified authz decision plane (deny-overrides resol…"
+2026-10-21T17:48:53.497235Z,axeon-jobs,0.1.0,0,0,https://github.com/axeon-rs/axeon,"Background jobs on PostgreSQL for Axeon: retries, delays, unique jobs and graceful shutdown"
+2026-10-21T17:49:26.525892Z,terrain-generator,0.3.0,0,0,https://github.com/fabio-t/terrain-generator,"Procedural terrain generator: fractal noise, hydraulic erosion and river extraction"
+2026-10-21T17:49:36.400459Z,axeon-client,0.1.0,0,0,https://github.com/axeon-rs/axeon,"An outbound HTTP client for Axeon apps: SSRF-safe egress, timeouts, retries, circuit breaking, request-ID propagation and metrics"
+2026-10-21T17:50:18.943557Z,axeon-openapi,0.1.0,0,0,https://github.com/axeon-rs/axeon,"OpenAPI 3.1 documents for Axeon routes, from your Rust types"
+2026-10-21T17:50:52.656955Z,axeon-redis,0.1.0,0,0,https://github.com/axeon-rs/axeon,Redis integrations for Axeon: a shared session store
+2026-10-21T17:57:23.82384Z,wl-proxy-clip,0.1.0,0,0,https://github.com/tkr-sh/wl-proxy-clip,Wayland clipboard isolation proxy
+2026-10-21T17:59:12.934715Z,bo4e-edifact-types-base,0.30.24,0,0,https://github.com/Hochfrequenz/edifact_mapper,"Shared model, serde helpers and code enums behind bo4e-edifact-types"
+2026-10-21T17:59:26.391736Z,turbofox,0.0.11,0,0,https://github.com/pid7-org/turbofox,Embedded key-value storage engine engineered for on-device persistence
+2026-10-21T17:59:54.872508Z,patamaps-cli,0.1.0-alpha.1,0,0,https://github.com/roryscot/patamaps,Native correspondence compiler command line interface
+2026-10-21T18:00:07.585931Z,bo4e-edifact-types-fv2504,0.30.24,0,0,https://github.com/Hochfrequenz/edifact_mapper,FV2504 interchange and PID types behind bo4e-edifact-types
+2026-10-21T18:00:37.214927Z,patamaps-activator,0.1.0-alpha.1,0,0,https://github.com/roryscot/patamaps,Fixed Linux root-owned artifact activation for Patamaps
+2026-10-21T18:00:42.935459Z,trail-fm,1.11.1,0,0,https://github.com/WeedonSctt/trail,"A terminal-first workspace for navigating, inspecting and acting on the filesystem"
+2026-10-21T18:00:43.978177Z,bo4e-edifact-types-fv2510,0.30.24,0,0,https://github.com/Hochfrequenz/edifact_mapper,FV2510 interchange and PID types behind bo4e-edifact-types
+2026-10-21T18:01:20.868895Z,bo4e-edifact-types-fv2604,0.30.24,0,0,https://github.com/Hochfrequenz/edifact_mapper,FV2604 interchange and PID types behind bo4e-edifact-types
+2026-10-21T18:01:58.601452Z,bo4e-edifact-types-fv2610,0.30.24,0,0,https://github.com/Hochfrequenz/edifact_mapper,FV2610 interchange and PID types behind bo4e-edifact-types
+2026-10-21T18:02:22.809402Z,iso639-cli,0.3.0,0,0,https://github.com/bbqsrc/iso639,"Command line tool for autonyms, default scripts and LCIDs of BCP 47 language tags"
+2026-10-21T18:10:36.406587Z,probation-policy,0.0.0,0,0,https://github.com/postfix/probation,Name reservation for Probation's shared policy rules. The real crate ships with Probation's management server.
+2026-10-21T18:15:29.957979Z,tellus-bootstrap-dns,0.1.0,0,0,https://github.com/tellus-rs/tellus,DNS seed discovery for tellus cluster bootstrap
+2026-10-21T18:15:34.639235Z,tellus-bootstrap-k8s,0.1.0,0,0,https://github.com/tellus-rs/tellus,Kubernetes seed discovery for tellus cluster bootstrap
+2026-10-21T18:15:37.400704Z,tellus-cluster-inspect,0.1.0,0,0,https://github.com/tellus-rs/tellus,An axum router observing a tellus cluster node: a state snapshot and a resumable stream of every change.
+2026-10-21T18:18:31.308692Z,astro-rust,2.1.0,0,0,https://github.com/nimblemo/astro-rust,Advanced algorithms for astronomy (maintained fork of `astro` with Rust 2021 compatibility fixes)
