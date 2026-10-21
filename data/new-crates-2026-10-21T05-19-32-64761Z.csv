@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T04:24:05.427688Z,mcsmp-rs,0.1.0,0,0,https://github.com/Chiloven945/mcsmp-rs,Async Rust client for the Minecraft Server Management Protocol (MCSMP)
+2026-10-21T04:26:09.21201Z,beholder,0.1.1,0,0,https://github.com/wyrd-company/beholder,"Structural code index: symbols, complexity, and change-scoped risk"
+2026-10-21T04:26:23.474033Z,spin-life,0.1.1,0,0,https://github.com/scottschreckengaust/life,"Simulate a life from rules you write: priorities, preemption, interruptions and sleep, on a zero-dependency virtual-time async runtime."
+2026-10-21T04:28:28.370165Z,beholder-cli,0.1.1,0,0,https://github.com/wyrd-company/beholder,"Command line interface for beholder, a structural code index"
+2026-10-21T04:30:34.135933Z,partii-net,0.1.0,0,0,https://github.com/PartiiGames/partii-sdk,"partii networking for games: rooms and join codes, peer-to-peer WebRTC with relay fallback, recovery, and the partii-host client transport plus the netcode kit."
+2026-10-21T04:32:11.082873Z,ly_games,0.1.0,0,0,,A fun game where you guess what number the computer has chosen.
+2026-10-21T04:34:42.961846Z,bevy_grass,0.20.3,0,0,https://github.com/GEMI/bevy-grass,Grass and foliage for Bevy 3D games: lush fields that sway in the wind and bend where players walk.
+2026-10-21T04:38:48.937705Z,comfyui-kit,0.1.0,0,0,https://github.com/WyattAu/comfyui-kit,"Typed Rust client for the ComfyUI HTTP API — queue workflows, track history, fetch generations"
+2026-10-21T04:40:32.545921Z,bevy_partii,0.1.0,0,0,https://github.com/PartiiGames/partii-sdk,"Bevy plugin for partii: player sign-in and ownership as resources, rooms and join codes, peer-to-peer messages, partii-host match seats and achievements, delivered as Bevy messages."
+2026-10-21T04:41:49.818944Z,rfc2217-cli,0.1.0,0,0,https://github.com/gechelberger/rfc2217,RFC 2217 (Telnet COM Port Control) on the command line: a serial terminal for remote ports and a local pty bridge
+2026-10-21T04:42:48.049047Z,metal-radix,0.1.0,0,0,https://github.com/arrxy/metal-radix,GPU-accelerated radix sorting of u32 key pairs on macOS
+2026-10-21T04:50:31.280514Z,partii-content,0.1.0,0,0,https://github.com/PartiiGames/partii-sdk,"Live content for a game: mirror a partii content channel (levels, data, scripts) into a local folder, fetching only changed files."
+2026-10-21T04:50:31.365343Z,iet-core,0.1.0,0,0,,Implementation-neutral primitives for statically wired applications.
+2026-10-21T04:50:31.790751Z,iet-db-macros,0.1.0,0,0,,"Entity metadata derive, selectively ported from the archived implementation."
+2026-10-21T04:50:32.127553Z,iet-ui-build,0.1.0,0,0,,Build-script helper for pinned standalone Tailwind CSS
+2026-10-21T04:50:32.471264Z,iet-ui-macros,0.1.0,0,0,,HTML parsing is delegated to rstml; expansion emits straight-line string writes.
+2026-10-21T04:50:33.57236Z,iet-authz,0.1.0,0,0,,Authorization ports. Denial is a decision; dependency failure remains an error.
+2026-10-21T05:00:23.626182Z,rpi-web,0.1.0,0,0,https://github.com/pi-rust/rpi-package,Project and chat workspace for the native rpi RPC host
+2026-10-21T05:00:31.547021Z,partii-server,0.1.0,0,0,https://github.com/PartiiGames/partii-sdk,"Write server-authoritative game servers for partii-host in Rust: a Game trait, one macro that exports the partii-host ABI for wasm32-unknown-unknown, and a native test harness that simulates the host…"
+2026-10-21T05:01:08.945395Z,corvus-regex-ecma262,0.1.0,0,0,https://github.com/corvus-dotnet/corvus-regex-ecma262-rs,"ECMA-262 (JavaScript) regular expressions for Rust: the grammar and the answers of RegExp, every flag, over UTF-8 and UTF-16, with no allocation per match."
+2026-10-21T05:06:16.457564Z,feldera-udf-abi,0.0.1,0,0,https://github.com/feldera/feldera,Feldera Gen2 engine UDF ABI definitions
+2026-10-21T05:06:18.548614Z,feldera-udf-macros,0.0.1,0,0,https://github.com/feldera/feldera,The #[feldera_udf] macro for Feldera Gen2 engine UDFs
+2026-10-21T05:06:20.505993Z,feldera-udf,0.0.1,0,0,https://github.com/feldera/feldera,SDK to write user-defined functions in Rust for Feldera's Gen2 engine
+2026-10-21T05:10:32.523511Z,partii,0.1.0,0,0,https://github.com/PartiiGames/partii-sdk,"The partii SDK for Rust games: rooms and peer-to-peer networking, partii-host matches, player accounts, live content and the API client, behind features."
+2026-10-21T05:12:52.036647Z,fastflow-core,0.1.0,0,0,https://github.com/rdxkeerthi/fastflow,High-performance zero-copy network packet and telemetry parsing engine.
+2026-10-21T05:12:59.305861Z,animist,0.1.0,0,0,https://github.com/craft-build/animist,Model inference and agent building for the Craft ecosystem
+2026-10-21T05:13:39.163002Z,buangkok,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"BUANGKOK (Bioeffects, Uncertainty and ALARA for Nuclear Guidance, Keeping Operational Knowledge) — radiation dose and its biological effects, for research-grade safety analysis: dose coefficients, pa…"
+2026-10-21T05:13:49.014409Z,sembawang,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"SEMBAWANG — severe accident and source term, and orchestrator of the offsite chain (source term -> CHANGI dispersion and deposition). TRISO release implemented via boon-lay; accident progression not…"
+2026-10-21T05:15:45.096698Z,dhoby-ghaut,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"Digital High-fidelity Orchestration by GUI for a Human-friendly Automated Unified Toolkit — DHOBY GHAUT, OUTRAM PARK's GUI home: the guided high-fidelity simulation workbench, the meshing and Monte C…"
+2026-10-21T05:16:07.554949Z,triple_s,0.2.2,0,0,https://github.com/Yiheng-Yu/triple-s,Read classic Triple-S survey definition files.
+2026-10-21T05:16:53.456091Z,telmoni,0.1.0,0,0,https://github.com/telmoni/telmoni,"Rust SDK for Telmoni: an agent's runs, steps, model calls and tool calls as OpenTelemetry spans"
