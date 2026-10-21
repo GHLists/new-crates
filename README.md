@@ -8,56 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 21:22 UTC
+## Latest list — 2026-10-21 22:18 UTC
 
-New crates published between 2026-10-21 20:18 UTC and 2026-10-21 21:22 UTC.
+New crates published between 2026-10-21 21:22 UTC and 2026-10-21 22:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-21T21-22-01-495008Z.csv)
+[Full CSV](data/new-crates-2026-10-21T22-18-37-154386Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-21 20:31:05 | [cog-tiles](https://crates.io/crates/cog-tiles) | 0.1.0 | 0 | Read web map tiles from tile-aligned Cloud Optimized GeoTIFFs (COG) in local fi… |
-| 2026-10-21 20:31:54 | [wkp](https://crates.io/crates/wkp) | 0.6.0 | 0 | Well Known Polylines - compact, fast polyline-style geometry encoding |
-| 2026-10-21 20:35:42 | [schema-explorer-core](https://crates.io/crates/schema-explorer-core) | 1.0.0 | 0 | Reads XML Schema (XSD) and JSON Schema (also OpenAPI and AsyncAPI) sets into on… |
-| 2026-10-21 20:35:44 | [schema-explorer](https://crates.io/crates/schema-explorer) | 1.0.0 | 0 | Visual explorer for XML Schema (XSD) and JSON Schema (also OpenAPI and AsyncAPI… |
-| 2026-10-21 20:36:22 | [oxfuse-onnx](https://crates.io/crates/oxfuse-onnx) | 0.3.0 | 0 | ONNX import for oxfuse: a small float32 operator subset lowered into the oxfuse… |
-| 2026-10-21 20:36:27 | [kargo-util](https://crates.io/crates/kargo-util) | 0.1.0 | 0 | Shared terminal, configuration and filesystem utilities for Kargo |
-| 2026-10-21 20:36:29 | [kargo-maven](https://crates.io/crates/kargo-maven) | 0.1.0 | 0 | Maven repository access and dependency resolution for Kargo |
-| 2026-10-21 20:36:32 | [kargo-manifest](https://crates.io/crates/kargo-manifest) | 0.1.0 | 0 | The kargo.toml manifest model |
-| 2026-10-21 20:36:34 | [kargo-toolchain](https://crates.io/crates/kargo-toolchain) | 0.1.0 | 0 | JDK, Kotlin compiler and Kotlin/Native toolchain management for Kargo |
-| 2026-10-21 20:36:37 | [kargo-compiler](https://crates.io/crates/kargo-compiler) | 0.1.0 | 0 | Kotlin JVM, Wasm and Native compiler drivers for Kargo |
-| 2026-10-21 20:38:11 | [synapse-mailbox-persistant](https://crates.io/crates/synapse-mailbox-persistant) | 6.0.0-rc.123 | 0 | A Synapse MailStore over PersistAnt's key-value kind; SQLite opened for power-l… |
-| 2026-10-21 20:43:03 | [kargo-ops](https://crates.io/crates/kargo-ops) | 0.1.0 | 0 | Build engine and command implementations for Kargo |
-| 2026-10-21 20:47:17 | [ikonym](https://crates.io/crates/ikonym) | 0.1.0 | 0 | Deterministic geometric SVG avatars generated from an identifier. |
-| 2026-10-21 20:48:25 | [laterite-cliutil](https://crates.io/crates/laterite-cliutil) | 0.1.0 | 0 | Shared CLI presentation (spinner, table, colour, JSON) for the AGS4 CLI binaries |
-| 2026-10-21 20:48:34 | [tiny-rodriguez-nostd](https://crates.io/crates/tiny-rodriguez-nostd) | 0.1.0 | 0 | Géométrie différentielle minimale (SO(3), SE(3)) pour la robotique et les drone… |
-| 2026-10-21 20:48:34 | [laterite-ags4-parity](https://crates.io/crates/laterite-ags4-parity) | 0.1.0 | 0 | Shared Rust↔python-ags4 parity verdict model + python oracle bridge |
-| 2026-10-21 20:51:29 | [pagesift-cdp](https://crates.io/crates/pagesift-cdp) | 0.12.1 | 0 | A small, self-contained Chrome DevTools Protocol client and bounded browser poo… |
-| 2026-10-21 20:51:30 | [pagesift-diff](https://crates.io/crates/pagesift-diff) | 0.12.1 | 0 | Block-level Markdown snapshot diff that separates noise changes (price, date, c… |
-| 2026-10-21 20:51:30 | [pagesift-html](https://crates.io/crates/pagesift-html) | 0.12.1 | 0 | Fast HTML parser for content extraction: zero-copy arena DOM with the HTML5 tre… |
-| 2026-10-21 20:51:30 | [pagesift-llm](https://crates.io/crates/pagesift-llm) | 0.12.1 | 0 | OpenAI-compatible Chat Completions client with structured extraction and summar… |
-| 2026-10-21 20:51:31 | [pagesift-mcp](https://crates.io/crates/pagesift-mcp) | 0.12.1 | 0 | Self-contained MCP server (JSON-RPC 2.0, stdio and Streamable HTTP) for pagesif… |
-| 2026-10-21 20:51:51 | [libytdlp-sys](https://crates.io/crates/libytdlp-sys) | 0.1.0 | 0 | Raw FFI bindings to the libytdlp C ABI |
-| 2026-10-21 20:52:03 | [libytdlp](https://crates.io/crates/libytdlp) | 0.1.0 | 0 | Safe Rust wrapper around the libytdlp C ABI |
-| 2026-10-21 20:52:27 | [kargo-lsp](https://crates.io/crates/kargo-lsp) | 0.1.0 | 0 | The `kargo lsp` language server: kargo.toml support in front of a Kotlin langua… |
-| 2026-10-21 20:52:32 | [unpopped-harness](https://crates.io/crates/unpopped-harness) | 0.0.0 | 0 | Placeholder: external test and profile harnesses wrapping Unpopped. Not yet rel… |
-| 2026-10-21 20:53:21 | [shuyi-core](https://crates.io/crates/shuyi-core) | 0.0.0 | 0 | Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here… |
-| 2026-10-21 20:53:23 | [shuyi-assets](https://crates.io/crates/shuyi-assets) | 0.0.0 | 0 | Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here… |
-| 2026-10-21 20:53:25 | [shuyi-ui](https://crates.io/crates/shuyi-ui) | 0.0.0 | 0 | Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here… |
-| 2026-10-21 20:53:27 | [shuyi-platform](https://crates.io/crates/shuyi-platform) | 0.0.0 | 0 | Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here… |
-| 2026-10-21 20:53:29 | [shuyi-app](https://crates.io/crates/shuyi-app) | 0.0.0 | 0 | Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here… |
-| 2026-10-21 21:01:13 | [durable-cache](https://crates.io/crates/durable-cache) | 0.1.0 | 0 | A file-system-backed, durable storage backend for Pingora®, implementing the pi… |
-| 2026-10-21 21:01:40 | [webrg](https://crates.io/crates/webrg) | 0.1.0 | 0 | WebGPU Render Graph |
-| 2026-10-21 21:01:45 | [pagesift-net](https://crates.io/crates/pagesift-net) | 0.12.1 | 0 | Polite HTTP fetcher for pagesift: SSRF-guarded DNS, manual redirects, size caps… |
-| 2026-10-21 21:02:27 | [kargo-cli](https://crates.io/crates/kargo-cli) | 0.1.0 | 0 | A Cargo-like build tool and package manager for Kotlin |
-| 2026-10-21 21:03:40 | [shuyi-cli](https://crates.io/crates/shuyi-cli) | 0.0.0 | 0 | Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here… |
-| 2026-10-21 21:11:44 | [pagesift-store](https://crates.io/crates/pagesift-store) | 0.12.1 | 0 | Embedded append-only log store for pagesift: scrape cache, HTML snapshots and c… |
-| 2026-10-21 21:21:35 | [yeda-core](https://crates.io/crates/yeda-core) | 0.1.0 | 0 | yeda's library format and logic, without I/O |
-| 2026-10-21 21:21:36 | [yeda-secrets](https://crates.io/crates/yeda-secrets) | 0.1.0 | 0 | yeda's passwords and API keys in the system secret store |
-| 2026-10-21 21:21:38 | [yeda-fs](https://crates.io/crates/yeda-fs) | 0.1.0 | 0 | Reads and writes a yeda library on the local filesystem |
-| 2026-10-21 21:21:39 | [yeda-net](https://crates.io/crates/yeda-net) | 0.1.0 | 0 | yeda's networking: metadata lookup, LLM requests and WebDAV transfers |
-| 2026-10-21 21:21:42 | [yeda-reader](https://crates.io/crates/yeda-reader) | 0.1.0 | 0 | yeda's PDF reader and annotator |
-| 2026-10-21 21:21:47 | [pagesift-api](https://crates.io/crates/pagesift-api) | 0.12.1 | 0 | Firecrawl v2 compatible HTTP API for pagesift. |
+| 2026-10-21 21:23:57 | [cf-stream](https://crates.io/crates/cf-stream) | 0.1.1 | 0 | Unofficial async Rust client for the Cloudflare Stream API: upload, manage, and… |
+| 2026-10-21 21:24:03 | [docvera-engine](https://crates.io/crates/docvera-engine) | 0.1.2 | 0 | Schema-validated, indexed, queryable Markdown knowledge base engine |
+| 2026-10-21 21:24:08 | [frozen-duckdb-builder](https://crates.io/crates/frozen-duckdb-builder) | 2.0.0-dev | 0 | Build-time companion for frozen-duckdb: downloads the prebuilt DuckDB library f… |
+| 2026-10-21 21:24:20 | [frozen-duckdb-sys](https://crates.io/crates/frozen-duckdb-sys) | 2.0.0-dev | 0 | Low-level FFI bindings to the DuckDB analytical database for frozen-duckdb |
+| 2026-10-21 21:24:38 | [michi-core](https://crates.io/crates/michi-core) | 0.3.1 | 0 | AXI response primitives for agent-ergonomic tools: TOON lists, key-value blocks… |
+| 2026-10-21 21:24:49 | [michi-pipeline](https://crates.io/crates/michi-pipeline) | 0.3.1 | 0 | Async pipeline execution for michi: validated step plans, replay-safe retries,… |
+| 2026-10-21 21:25:12 | [docvera-cli](https://crates.io/crates/docvera-cli) | 0.1.2 | 0 | CLI for docvera: validate, index and query Markdown knowledge bases |
+| 2026-10-21 21:29:53 | [qq-cli](https://crates.io/crates/qq-cli) | 0.1.0 | 0 | A modular Rust QQ task interface for coding agents |
+| 2026-10-21 21:31:46 | [pagesift-content](https://crates.io/crates/pagesift-content) | 0.12.1 | 0 | HTML to clean Markdown: main-content extraction, Markdown generation and metada… |
+| 2026-10-21 21:32:32 | [yeda](https://crates.io/crates/yeda) | 0.1.0 | 0 | A reference manager built on plain-text files and a terminal interface |
+| 2026-10-21 21:36:31 | [wolfpack-native](https://crates.io/crates/wolfpack-native) | 0.2.0 | 0 | Readers of the declarations of native modules of wolfpack (Rust, Go and TypeScr… |
+| 2026-10-21 21:37:10 | [oxframe-3d](https://crates.io/crates/oxframe-3d) | 0.20.0 | 0 | 3D scenes for oxframe: meshes, camera, lights and a deterministic software rend… |
+| 2026-10-21 21:37:34 | [http_headers_simd](https://crates.io/crates/http_headers_simd) | 0.1.1 | 0 | SIMD implementation details for http_headers. Do not depend on this crate direc… |
+| 2026-10-21 21:39:50 | [bevy_starling](https://crates.io/crates/bevy_starling) | 0.1.0 | 0 | A tweening library for the Bevy game engine. |
+| 2026-10-21 21:41:45 | [pagesift-extract](https://crates.io/crates/pagesift-extract) | 0.12.1 | 0 | Schema-based structured extraction (CSS/XPath), regex entity extraction, Markdo… |
+| 2026-10-21 21:48:17 | [cortexkit-role-classifier](https://crates.io/crates/cortexkit-role-classifier) | 0.1.0 | 0 | Wire contract of the CortexKit classifier/v1 role: role.describe, classify.run,… |
+| 2026-10-21 21:51:45 | [pagesift-pdf](https://crates.io/crates/pagesift-pdf) | 0.12.1 | 0 | PDF to clean Markdown: text extraction, layout reconstruction and scanned-page… |
+| 2026-10-21 21:53:01 | [hardless-core](https://crates.io/crates/hardless-core) | 0.1.0 | 0 | Sans-IO core of Hardless: device plugin interface, registry, event log, faults… |
+| 2026-10-21 21:53:03 | [hardless-escpos](https://crates.io/crates/hardless-escpos) | 0.1.0 | 0 | Streaming ESC/POS parser for Hardless: byte stream to command AST (sans-IO). |
+| 2026-10-21 21:53:03 | [hardless-render](https://crates.io/crates/hardless-render) | 0.1.0 | 0 | Receipt renderer for Hardless: command AST to HTML, SVG and PNG. |
+| 2026-10-21 21:53:05 | [hardless-devices](https://crates.io/crates/hardless-devices) | 0.1.0 | 0 | Emulated POS devices for Hardless: receipt printer, cash drawer, barcode scanne… |
+| 2026-10-21 21:53:05 | [hardless-http-dialects](https://crates.io/crates/hardless-http-dialects) | 0.1.0 | 0 | ePOS-Print-compatible and WebPRNT-compatible XML to command AST for Hardless. |
+| 2026-10-21 21:58:18 | [air_notifications](https://crates.io/crates/air_notifications) | 0.1.0 | 0 | AIR notification contracts and push delivery server |
+| 2026-10-21 22:01:22 | [polis_core](https://crates.io/crates/polis_core) | 0.1.0 | 0 | Deterministic simulation core for Polis Genesis |
+| 2026-10-21 22:01:44 | [polis_mind](https://crates.io/crates/polis_mind) | 0.1.0 | 0 | Turns what people do into words, and builds the inner voice behind them |
+| 2026-10-21 22:01:45 | [pagesift-policy](https://crates.io/crates/pagesift-policy) | 0.12.1 | 0 | Polite crawling for pagesift: RFC 9309 robots.txt, per-host rate limits, adapti… |
+| 2026-10-21 22:02:04 | [polis_cli](https://crates.io/crates/polis_cli) | 0.1.0 | 0 | Command line runner for Polis Genesis |
+| 2026-10-21 22:11:44 | [pagesift-search](https://crates.io/crates/pagesift-search) | 0.12.1 | 0 | Pluggable web search backends (SearXNG, Brave, Bing, Google CSE, Tavily) behind… |
 
 ## Data source
 

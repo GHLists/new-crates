@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T21:23:57.716209Z,cf-stream,0.1.1,0,0,https://github.com/BenjaminLucier/cf-rs,"Unofficial async Rust client for the Cloudflare Stream API: upload, manage, and deliver videos and live streams, including signed tokens and webhook verification."
+2026-10-21T21:24:03.7627Z,docvera-engine,0.1.2,0,0,https://github.com/a5i/docvera,"Schema-validated, indexed, queryable Markdown knowledge base engine"
+2026-10-21T21:24:08.987973Z,frozen-duckdb-builder,2.0.0-dev,0,0,https://github.com/seanchatmangpt/frozen-duckdb,"Build-time companion for frozen-duckdb: downloads the prebuilt DuckDB library from GitHub Releases or compiles it from the pinned upstream tag, cached for fast builds"
+2026-10-21T21:24:20.629594Z,frozen-duckdb-sys,2.0.0-dev,0,0,https://github.com/seanchatmangpt/frozen-duckdb,Low-level FFI bindings to the DuckDB analytical database for frozen-duckdb
+2026-10-21T21:24:38.260741Z,michi-core,0.3.1,0,0,https://github.com/orin-dx/michi,"AXI response primitives for agent-ergonomic tools: TOON lists, key-value blocks, hints, errors, truncation and retry policy"
+2026-10-21T21:24:49.169495Z,michi-pipeline,0.3.1,0,0,https://github.com/orin-dx/michi,"Async pipeline execution for michi: validated step plans, replay-safe retries, keyed circuit breakers, cancellation and resume on Tokio"
+2026-10-21T21:25:12.102182Z,docvera-cli,0.1.2,0,0,https://github.com/a5i/docvera,"CLI for docvera: validate, index and query Markdown knowledge bases"
+2026-10-21T21:29:53.011322Z,qq-cli,0.1.0,0,0,https://github.com/noctisynth/qq-cli,A modular Rust QQ task interface for coding agents
+2026-10-21T21:31:46.158651Z,pagesift-content,0.12.1,0,0,https://github.com/YOLOW92/pagesift,"HTML to clean Markdown: main-content extraction, Markdown generation and metadata, built for LLM pipelines."
+2026-10-21T21:32:32.740921Z,yeda,0.1.0,0,0,https://github.com/yuvve/yeda,A reference manager built on plain-text files and a terminal interface
+2026-10-21T21:36:31.711982Z,wolfpack-native,0.2.0,0,0,https://github.com/realfamousbae/wolfpack,"Readers of the declarations of native modules of wolfpack (Rust, Go and TypeScript code). Internal part of wolfpack-lang, not a stable API"
+2026-10-21T21:37:10.345368Z,oxframe-3d,0.20.0,0,0,https://github.com/oxygenframe/oxframe-sdk,"3D scenes for oxframe: meshes, camera, lights and a deterministic software renderer"
+2026-10-21T21:37:34.567011Z,http_headers_simd,0.1.1,0,0,https://github.com/microsoft/oxidizer/tree/main/crates/http_headers_simd,SIMD implementation details for http_headers. Do not depend on this crate directly; use http_headers.
+2026-10-21T21:39:50.919059Z,bevy_starling,0.1.0,0,0,https://github.com/Jaso333/bevy_starling,A tweening library for the Bevy game engine.
+2026-10-21T21:41:45.32707Z,pagesift-extract,0.12.1,0,0,https://github.com/YOLOW92/pagesift,"Schema-based structured extraction (CSS/XPath), regex entity extraction, Markdown chunking and BM25 filtering for pagesift."
+2026-10-21T21:48:17.5372Z,cortexkit-role-classifier,0.1.0,0,0,https://github.com/cortexkit/commons,"Wire contract of the CortexKit classifier/v1 role: role.describe, classify.run, question and answer shapes, batch identity and error codes."
+2026-10-21T21:51:45.844067Z,pagesift-pdf,0.12.1,0,0,https://github.com/YOLOW92/pagesift,"PDF to clean Markdown: text extraction, layout reconstruction and scanned-page detection, built for LLM pipelines."
+2026-10-21T21:53:01.414461Z,hardless-core,0.1.0,0,0,https://github.com/hardlessdev/hardless,"Sans-IO core of Hardless: device plugin interface, registry, event log, faults and clock."
+2026-10-21T21:53:03.015775Z,hardless-escpos,0.1.0,0,0,https://github.com/hardlessdev/hardless,Streaming ESC/POS parser for Hardless: byte stream to command AST (sans-IO).
+2026-10-21T21:53:03.952259Z,hardless-render,0.1.0,0,0,https://github.com/hardlessdev/hardless,"Receipt renderer for Hardless: command AST to HTML, SVG and PNG."
+2026-10-21T21:53:05.664215Z,hardless-devices,0.1.0,0,0,https://github.com/hardlessdev/hardless,"Emulated POS devices for Hardless: receipt printer, cash drawer, barcode scanner and NFC reader (sans-IO)."
+2026-10-21T21:53:05.9851Z,hardless-http-dialects,0.1.0,0,0,https://github.com/hardlessdev/hardless,ePOS-Print-compatible and WebPRNT-compatible XML to command AST for Hardless.
+2026-10-21T21:58:18.502509Z,air_notifications,0.1.0,0,0,https://github.com/ramp-stack/air_notifications,AIR notification contracts and push delivery server
+2026-10-21T22:01:22.637349Z,polis_core,0.1.0,0,0,https://github.com/eyadstein/polis-genesis,Deterministic simulation core for Polis Genesis
+2026-10-21T22:01:44.371479Z,polis_mind,0.1.0,0,0,https://github.com/eyadstein/polis-genesis,"Turns what people do into words, and builds the inner voice behind them"
+2026-10-21T22:01:45.987357Z,pagesift-policy,0.12.1,0,0,https://github.com/YOLOW92/pagesift,"Polite crawling for pagesift: RFC 9309 robots.txt, per-host rate limits, adaptive backoff and unified error codes."
+2026-10-21T22:02:04.874373Z,polis_cli,0.1.0,0,0,https://github.com/eyadstein/polis-genesis,Command line runner for Polis Genesis
+2026-10-21T22:11:44.948817Z,pagesift-search,0.12.1,0,0,https://github.com/YOLOW92/pagesift,"Pluggable web search backends (SearXNG, Brave, Bing, Google CSE, Tavily) behind one trait."
