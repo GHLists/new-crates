@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T15:23:26.995792Z,tear-picker,0.1.47,0,0,https://github.com/pleme-io/tear,"The renderer-agnostic session-picker substrate shared by mado's Ctrl-S overlay and the tear terminal client: generic fuzzy picker model, key-to-action vocabulary, live/latent row union, badge rules a…"
+2026-10-21T15:23:28.696839Z,tear-attach,0.1.47,0,0,https://github.com/pleme-io/tear,"The tear terminal client engine: key bindings, input filter, picker model and renderer over tear-picker, and the attach event loop. No tty access; the tear binary supplies it."
+2026-10-21T15:27:59.415983Z,annotations,0.1.0,0,0,https://github.com/JooseRajamaeki/annotations,"A minimal terminal tool for annotating code: select lines, write a note, get a Markdown file"
+2026-10-21T15:29:00.872938Z,macpepdb_web_common,1.0.0,0,0,https://github.com/medbioinf/macpepdb,Shared web API types for macpepdb's backend and frontend
+2026-10-21T15:29:02.879185Z,macpepdb_peptide_hydrophobicity,1.0.0,0,0,https://github.com/medbioinf/macpepdb,Peptide hydrophobicity prediction (Krokhin et al)
+2026-10-21T15:29:05.79948Z,macpepdb_metrics_peek,1.0.0,0,0,https://github.com/medbioinf/macpepdb,A metrics::Recorder implementation that calls a user-supplied callback immediately or on a periodic interval (in milliseconds)
+2026-10-21T15:29:24.236012Z,macpepdb_tui,1.0.0,0,0,https://github.com/medbioinf/macpepdb,ratatui dashboard that subscribes to tracing events and metrics recorders for macpepdb
+2026-10-21T15:29:31.159938Z,macpepdb_uniprot_reader,1.0.0,0,0,https://github.com/medbioinf/macpepdb,"Streaming/async parser for UniProt text dumps (.txt, .txt.gz)"
+2026-10-21T15:31:03.183467Z,heartflow-proxy,1.3.0,0,0,https://github.com/SantaChains/heartflow,Proxy resolution and routing for heartflow transports
+2026-10-21T15:32:22.448995Z,wg-launcher,0.1.0,0,0,https://github.com/gabrielhamel/wg-launcher,A reusable Rust client and CLI for the Wargaming Update Service
+2026-10-21T15:32:52.536334Z,ansi-nist-itl,0.2.0,0,0,https://github.com/ybdn/ansi-nist-itl,"Read, write and validate ANSI/NIST-ITL biometric files (NIST, EBTS, INT-I), byte for byte compatible with nistitl"
+2026-10-21T15:36:12.401666Z,fedimint-sdk,0.1.0-beta.1,0,0,https://github.com/fedimint/fedimint-sdk,"High-level Fedimint client SDK: one ergonomic API over fedimint-client, and the single surface every binding generates from"
+2026-10-21T15:42:21.536951Z,infers,0.1.0,0,0,,A Rust framework for composable machine learning inference pipelines
+2026-10-21T15:44:58.444836Z,harmos-packaging,0.1.2,0,0,,"Harmos packaging: reusable Cargo builds, inert inspection and guest componentization."
+2026-10-21T15:45:29.414189Z,cargo-harmos,0.1.2,0,0,https://github.com/stokker-technologies/harmos,"Build, inspect and package Harmos plugins and generated bindings"
+2026-10-21T15:45:41.537156Z,harmos-sdk,0.1.2,0,0,,Harmos SDK for authoring plugins and operations over the Harmos runtime.
+2026-10-21T15:45:46.222295Z,harmos-guest,0.1.2,0,0,,Harmos guest kit for WebAssembly component plugins.
+2026-10-21T15:45:59.763439Z,harmos-sidecar,0.1.2,0,0,,Harmos sidecar transport and kit for out-of-process plugins.
+2026-10-21T15:47:33.900762Z,harmos-storage,0.1.2,0,0,,"Harmos storage: durable journals, snapshots and Arrow-backed stream storage."
+2026-10-21T15:51:38.245342Z,specta-rescript,0.0.2,0,0,https://github.com/specta-rs/specta,Export your Rust types to ReScript
+2026-10-21T15:51:39.504608Z,specta-rust,0.0.2,0,0,https://github.com/specta-rs/specta,Export your Rust types to Rust
+2026-10-21T15:51:42.72521Z,specta-valibot,0.0.5,0,0,https://github.com/specta-rs/specta,Export your Rust types to Valibot schemas for TypeScript
+2026-10-21T15:57:34.524446Z,harmos-runtime,0.1.2,0,0,,"Harmos runtime: managed state, undo, recovery, background work and typed streams."
+2026-10-21T15:58:05.43255Z,anr-dfn3,0.1.1,0,0,https://github.com/lona-cn/anr,"Fixed DeepFilterNet3 model, GPU dispatch plan and stream state"
+2026-10-21T15:58:19.801253Z,anr-gl,0.1.1,0,0,https://github.com/lona-cn/anr,Model-specific DeepFilterNet3 inference with OpenGL compute shaders
+2026-10-21T15:58:32.033308Z,anr-gles,0.1.1,0,0,https://github.com/lona-cn/anr,Model-specific DeepFilterNet3 inference with native OpenGL ES compute shaders
+2026-10-21T15:58:43.88415Z,anr-vk,0.1.1,0,0,https://github.com/lona-cn/anr,Model-specific DeepFilterNet3 inference with native Vulkan compute
+2026-10-21T15:58:57.342396Z,metrics233,0.1.0,0,0,https://github.com/neko233-com/metrics-lib-rust,"Bounded, explicitly managed Rust metrics reporting SDK for metrics233-server"
+2026-10-21T15:58:57.700775Z,anr-wgpu,0.1.1,0,0,https://github.com/lona-cn/anr,Model-specific DeepFilterNet3 inference with native wgpu compute shaders
+2026-10-21T15:59:59.612017Z,eawk,0.1.1,0,0,https://github.com/awklib/eawk,"An embeddable AWK interpreter: a zero-dependency Rust library for running awk code, and the standalone `eawk` command."
+2026-10-21T16:00:06.938123Z,frsp,0.1.0,0,0,https://github.com/evecus/frsp,High-performance domain/IP/port ruleset compiler and matcher for proxies (AdGuard / mihomo / Clash / sing-box). Binary format .frs powered by FST.
+2026-10-21T16:00:13.373198Z,stipplefs,0.1.0,0,0,https://github.com/QaidVoid/stipplefs,"A read-only, compressed, deduplicating filesystem image format"
+2026-10-21T16:00:26.056777Z,modelsdesk,0.2.1,0,0,https://github.com/talha7k/modelsdesk,"Local LLM model manager for Mac (provider-agnostic core, macOS first)"
+2026-10-21T16:06:01.437756Z,otel-http,0.34.1,0,0,https://github.com/nivek3/otel-kit/tree/main/crates/otel-http,HTTP server spans and context propagation for OpenTelemetry.
+2026-10-21T16:07:29.986092Z,otel-logger,0.34.1,0,0,https://github.com/nivek3/otel-kit/tree/main/crates/otel-logger,Application logging and OpenTelemetry bootstrap with console and file output.
+2026-10-21T16:07:32.84531Z,harmos,0.1.2,0,0,,"Harmos facade: stateful Rust applications with history, live data and plugins."
+2026-10-21T16:08:08.045156Z,anr-dx,0.1.1,0,0,https://github.com/lona-cn/anr,Model-specific DeepFilterNet3 inference with native D3D12 compute shaders
+2026-10-21T16:08:10.827822Z,rumorph-dict-ru,0.2.0-dev.3,0,0,https://github.com/SergeyShk/ruMorph,"Russian dictionary for the ruMorph morphological analyzer, built from OpenCorpora"
+2026-10-21T16:08:13.525178Z,rumorph,0.2.0-dev.3,0,0,https://github.com/SergeyShk/ruMorph,"Fast Russian morphological analyzer: lemmas, Universal Dependencies features and inflection"
+2026-10-21T16:09:55.805526Z,unor4-hal,0.1.0,0,0,,Independent HAL for the Arduino UNO R4 (Renesas RA4M1)
+2026-10-21T16:09:57.110848Z,yog-sync,0.3.0,0,0,,Yog's locks that outlive a panic: Mutex/RwLock guards whether or not the lock is poisoned.
+2026-10-21T16:10:17.836348Z,soritrading-watch-together,0.1.0,0,0,https://github.com/valueconnectinc/soritrading-watch-together,Client for the SoriTrading agent's local API: WATCH TOGETHER signals and exchange rate-limit coordination
+2026-10-21T16:10:57.067585Z,forge-asset-contracts,0.1.0,0,0,https://github.com/KyleTamayo/forge-asset-libraries,"Versioned asset specifications, strict validation and agent transport contracts"
+2026-10-21T16:11:01.107347Z,forge-desktop-support,0.1.0,0,0,https://github.com/KyleTamayo/forge-asset-libraries,Native graphics preflight and owned-process lifecycle helpers for desktop tools
+2026-10-21T16:11:08.666066Z,forge-glb-codec,0.1.0,0,0,https://github.com/KyleTamayo/forge-asset-libraries,Bounded lossless gzip transport and SHA-256 verification for GLB files
+2026-10-21T16:11:21.919043Z,forge-mesh-kernel,0.1.0,0,0,https://github.com/KyleTamayo/forge-asset-libraries,"Bounded triangle modeling with JSON plans, corner UVs and OBJ export"
+2026-10-21T16:11:29.276192Z,forge-artifact-store,0.1.0,0,0,https://github.com/KyleTamayo/forge-asset-libraries,"Artifact hashing, atomic writes, locks and guarded revision publication"
+2026-10-21T16:13:35.729715Z,tauri-specta-query,2.0.0-rc.26,0,0,https://github.com/specta-rs/tauri-specta,Generate typesafe TanStack Query helpers for Tauri Specta commands
+2026-10-21T16:14:29.539718Z,gcb,0.0.0,0,0,,"Git Credential Broker for gh, glab, etc."
+2026-10-21T16:15:54.924569Z,forge-texture-compiler,0.1.0,0,0,https://github.com/KyleTamayo/forge-asset-libraries,Bounded deterministic CPU compilation of layered PBR texture recipes
+2026-10-21T16:17:29.970707Z,rdnie-emulator,0.1.0,0,0,https://github.com/sgomez/rdnie,"Emulated Spanish electronic ID card (DNIe) behind rdnie's Transport, for tests without a card"

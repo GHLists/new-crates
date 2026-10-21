@@ -8,48 +8,65 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 15:20 UTC
+## Latest list — 2026-10-21 16:19 UTC
 
-New crates published between 2026-10-21 14:20 UTC and 2026-10-21 15:20 UTC.
+New crates published between 2026-10-21 15:20 UTC and 2026-10-21 16:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-21T15-20-42-323942Z.csv)
+[Full CSV](data/new-crates-2026-10-21T16-19-00-521929Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-21 14:21:27 | [gpui-rsx-tools](https://crates.io/crates/gpui-rsx-tools) | 0.8.0 | 0 | Shared diagnostics, formatting, migration and preview for GPUI-RSX tools |
-| 2026-10-21 14:23:14 | [cargo-rsx](https://crates.io/crates/cargo-rsx) | 0.8.0 | 0 | GPUI-RSX doctor, lint, format, migrate, convert, preview and language server |
-| 2026-10-21 14:23:42 | [mermaid-lint](https://crates.io/crates/mermaid-lint) | 0.1.0 | 0 | Lint Mermaid diagrams in Markdown without a browser: the mistakes Pele and Merm… |
-| 2026-10-21 14:23:42 | [forculus](https://crates.io/crates/forculus) | 0.3.1 | 0 | Verify who is calling your Forculus app. |
-| 2026-10-21 14:27:24 | [tang-compile](https://crates.io/crates/tang-compile) | 0.1.0 | 0 | Graph optimization and compilation passes for tang |
-| 2026-10-21 14:28:23 | [cram-codec](https://crates.io/crates/cram-codec) | 0.1.0 | 0 | Error-bounded scientific-data compression: bit-accounted quantized tensor train… |
-| 2026-10-21 14:33:49 | [gelada](https://crates.io/crates/gelada) | 0.1.0 | 0 | Run a program in an OS sandbox, without a container: reads everything but secre… |
-| 2026-10-21 14:35:08 | [feltdb](https://crates.io/crates/feltdb) | 0.2.0 | 0 | Embedded durable state store: an append-only log with atomic multi-record trans… |
-| 2026-10-21 14:36:40 | [mise-tls](https://crates.io/crates/mise-tls) | 0.0.0 | 0 | Placeholder for mise's TLS root certificate helpers |
-| 2026-10-21 14:39:04 | [oojuro](https://crates.io/crates/oojuro) | 0.0.0 | 0 | Reserved for Oojuro: the journal for AI agents. Records everything an agent see… |
-| 2026-10-21 14:39:06 | [oojurod](https://crates.io/crates/oojurod) | 0.0.0 | 0 | Reserved for Oojuro: the journal for AI agents. Records everything an agent see… |
-| 2026-10-21 14:41:06 | [acorn-analysis](https://crates.io/crates/acorn-analysis) | 0.5.1 | 0 | Portable analysis models and supplied-content checks for ACORN |
-| 2026-10-21 14:41:31 | [acorn-service](https://crates.io/crates/acorn-service) | 0.5.1 | 0 | Portable application service boundary for ACORN |
-| 2026-10-21 14:42:33 | [acorn-server](https://crates.io/crates/acorn-server) | 0.5.1 | 0 | Authenticated JSON-RPC and typed gRPC server for ACORN |
-| 2026-10-21 14:45:06 | [patamaps-workspace](https://crates.io/crates/patamaps-workspace) | 0.1.0-alpha.1 | 0 | Explicit local discovery and read-only drift checks for Patamaps |
-| 2026-10-21 14:46:08 | [tracing-web-writer](https://crates.io/crates/tracing-web-writer) | 0.1.0 | 0 | tracing-web-writer |
-| 2026-10-21 14:46:09 | [rbox-masterdb](https://crates.io/crates/rbox-masterdb) | 0.2.0 | 0 | Rekordbox Master database handler |
-| 2026-10-21 14:46:32 | [alias-rs](https://crates.io/crates/alias-rs) | 0.1.1 | 0 | A small, interactive alias manager for Fish, Bash, and Zsh |
-| 2026-10-21 14:47:18 | [rbox-onelib](https://crates.io/crates/rbox-onelib) | 0.2.0 | 0 | Rekordbox One Library database handler |
-| 2026-10-21 14:48:43 | [patamaps-scientific](https://crates.io/crates/patamaps-scientific) | 0.1.0-alpha.1 | 0 | Source-preserving native SSSOM and bounded scientific crates |
-| 2026-10-21 14:49:17 | [phrasebook-catalog](https://crates.io/crates/phrasebook-catalog) | 0.1.0 | 0 | The language identifier and message catalog types of phrasebook, in their own c… |
-| 2026-10-21 14:49:26 | [portpeek](https://crates.io/crates/portpeek) | 0.1.0 | 0 | Find the process listening on a local port, including its command line and work… |
-| 2026-10-21 14:52:05 | [patamaps-inspect](https://crates.io/crates/patamaps-inspect) | 0.1.0-alpha.1 | 0 | Read-only finite repair and captured explanations for Patamaps |
-| 2026-10-21 15:00:52 | [magic_events_derive](https://crates.io/crates/magic_events_derive) | 0.1.0 | 0 | #[derive(Event)] for magic_events: one type is one event, and says its type, ve… |
-| 2026-10-21 15:01:01 | [magic_events](https://crates.io/crates/magic_events) | 0.1.0 | 0 | Events that leave PostgreSQL only if the transaction that raised them committed… |
-| 2026-10-21 15:03:51 | [pmd-cli](https://crates.io/crates/pmd-cli) | 0.1.0 | 0 | A basic CLI for pomodoro user's |
-| 2026-10-21 15:10:07 | [crux-schema](https://crates.io/crates/crux-schema) | 0.5.0 | 0 | Runtime-independent trace schema and combinators for Crux |
-| 2026-10-21 15:11:28 | [crux-regression](https://crates.io/crates/crux-regression) | 0.5.0 | 0 | Golden trace regression storage and evaluation for Crux |
-| 2026-10-21 15:13:58 | [agent-mesh-flock](https://crates.io/crates/agent-mesh-flock) | 0.8.0 | 0 | Pure model of an agent-mesh flock: event schema, admission table and board fold… |
-| 2026-10-21 15:14:26 | [agent-mesh-flock-server](https://crates.io/crates/agent-mesh-flock-server) | 0.8.0 | 0 | The agent-mesh flock server: init, the signed append-only log, admission and re… |
-| 2026-10-21 15:14:54 | [agent-mesh-flock-session](https://crates.io/crates/agent-mesh-flock-session) | 0.8.0 | 0 | The agent-mesh flock session process: an ssh-agent-style holder of one session… |
-| 2026-10-21 15:18:17 | [crux-typesafe](https://crates.io/crates/crux-typesafe) | 0.5.0 | 0 | TypeSafe System One judgment handlers for crux-script pipelines (calibrated sco… |
-| 2026-10-21 15:19:20 | [crux-dsl-cli](https://crates.io/crates/crux-dsl-cli) | 0.5.0 | 0 | Command-line interface for crux pipelines |
-| 2026-10-21 15:20:08 | [crux-dsl](https://crates.io/crates/crux-dsl) | 0.5.0 | 0 | An agentic DSL for Rust — inspectable, serializable, replayable agent execution |
+| 2026-10-21 15:23:26 | [tear-picker](https://crates.io/crates/tear-picker) | 0.1.47 | 0 | The renderer-agnostic session-picker substrate shared by mado's Ctrl-S overlay… |
+| 2026-10-21 15:23:28 | [tear-attach](https://crates.io/crates/tear-attach) | 0.1.47 | 0 | The tear terminal client engine: key bindings, input filter, picker model and r… |
+| 2026-10-21 15:27:59 | [annotations](https://crates.io/crates/annotations) | 0.1.0 | 0 | A minimal terminal tool for annotating code: select lines, write a note, get a… |
+| 2026-10-21 15:29:00 | [macpepdb_web_common](https://crates.io/crates/macpepdb_web_common) | 1.0.0 | 0 | Shared web API types for macpepdb's backend and frontend |
+| 2026-10-21 15:29:02 | [macpepdb_peptide_hydrophobicity](https://crates.io/crates/macpepdb_peptide_hydrophobicity) | 1.0.0 | 0 | Peptide hydrophobicity prediction (Krokhin et al) |
+| 2026-10-21 15:29:05 | [macpepdb_metrics_peek](https://crates.io/crates/macpepdb_metrics_peek) | 1.0.0 | 0 | A metrics::Recorder implementation that calls a user-supplied callback immediat… |
+| 2026-10-21 15:29:24 | [macpepdb_tui](https://crates.io/crates/macpepdb_tui) | 1.0.0 | 0 | ratatui dashboard that subscribes to tracing events and metrics recorders for m… |
+| 2026-10-21 15:29:31 | [macpepdb_uniprot_reader](https://crates.io/crates/macpepdb_uniprot_reader) | 1.0.0 | 0 | Streaming/async parser for UniProt text dumps (.txt, .txt.gz) |
+| 2026-10-21 15:31:03 | [heartflow-proxy](https://crates.io/crates/heartflow-proxy) | 1.3.0 | 0 | Proxy resolution and routing for heartflow transports |
+| 2026-10-21 15:32:22 | [wg-launcher](https://crates.io/crates/wg-launcher) | 0.1.0 | 0 | A reusable Rust client and CLI for the Wargaming Update Service |
+| 2026-10-21 15:32:52 | [ansi-nist-itl](https://crates.io/crates/ansi-nist-itl) | 0.2.0 | 0 | Read, write and validate ANSI/NIST-ITL biometric files (NIST, EBTS, INT-I), byt… |
+| 2026-10-21 15:36:12 | [fedimint-sdk](https://crates.io/crates/fedimint-sdk) | 0.1.0-beta.1 | 0 | High-level Fedimint client SDK: one ergonomic API over fedimint-client, and the… |
+| 2026-10-21 15:42:21 | [infers](https://crates.io/crates/infers) | 0.1.0 | 0 | A Rust framework for composable machine learning inference pipelines |
+| 2026-10-21 15:44:58 | [harmos-packaging](https://crates.io/crates/harmos-packaging) | 0.1.2 | 0 | Harmos packaging: reusable Cargo builds, inert inspection and guest componentiz… |
+| 2026-10-21 15:45:29 | [cargo-harmos](https://crates.io/crates/cargo-harmos) | 0.1.2 | 0 | Build, inspect and package Harmos plugins and generated bindings |
+| 2026-10-21 15:45:41 | [harmos-sdk](https://crates.io/crates/harmos-sdk) | 0.1.2 | 0 | Harmos SDK for authoring plugins and operations over the Harmos runtime. |
+| 2026-10-21 15:45:46 | [harmos-guest](https://crates.io/crates/harmos-guest) | 0.1.2 | 0 | Harmos guest kit for WebAssembly component plugins. |
+| 2026-10-21 15:45:59 | [harmos-sidecar](https://crates.io/crates/harmos-sidecar) | 0.1.2 | 0 | Harmos sidecar transport and kit for out-of-process plugins. |
+| 2026-10-21 15:47:33 | [harmos-storage](https://crates.io/crates/harmos-storage) | 0.1.2 | 0 | Harmos storage: durable journals, snapshots and Arrow-backed stream storage. |
+| 2026-10-21 15:51:38 | [specta-rescript](https://crates.io/crates/specta-rescript) | 0.0.2 | 0 | Export your Rust types to ReScript |
+| 2026-10-21 15:51:39 | [specta-rust](https://crates.io/crates/specta-rust) | 0.0.2 | 0 | Export your Rust types to Rust |
+| 2026-10-21 15:51:42 | [specta-valibot](https://crates.io/crates/specta-valibot) | 0.0.5 | 0 | Export your Rust types to Valibot schemas for TypeScript |
+| 2026-10-21 15:57:34 | [harmos-runtime](https://crates.io/crates/harmos-runtime) | 0.1.2 | 0 | Harmos runtime: managed state, undo, recovery, background work and typed stream… |
+| 2026-10-21 15:58:05 | [anr-dfn3](https://crates.io/crates/anr-dfn3) | 0.1.1 | 0 | Fixed DeepFilterNet3 model, GPU dispatch plan and stream state |
+| 2026-10-21 15:58:19 | [anr-gl](https://crates.io/crates/anr-gl) | 0.1.1 | 0 | Model-specific DeepFilterNet3 inference with OpenGL compute shaders |
+| 2026-10-21 15:58:32 | [anr-gles](https://crates.io/crates/anr-gles) | 0.1.1 | 0 | Model-specific DeepFilterNet3 inference with native OpenGL ES compute shaders |
+| 2026-10-21 15:58:43 | [anr-vk](https://crates.io/crates/anr-vk) | 0.1.1 | 0 | Model-specific DeepFilterNet3 inference with native Vulkan compute |
+| 2026-10-21 15:58:57 | [metrics233](https://crates.io/crates/metrics233) | 0.1.0 | 0 | Bounded, explicitly managed Rust metrics reporting SDK for metrics233-server |
+| 2026-10-21 15:58:57 | [anr-wgpu](https://crates.io/crates/anr-wgpu) | 0.1.1 | 0 | Model-specific DeepFilterNet3 inference with native wgpu compute shaders |
+| 2026-10-21 15:59:59 | [eawk](https://crates.io/crates/eawk) | 0.1.1 | 0 | An embeddable AWK interpreter: a zero-dependency Rust library for running awk c… |
+| 2026-10-21 16:00:06 | [frsp](https://crates.io/crates/frsp) | 0.1.0 | 0 | High-performance domain/IP/port ruleset compiler and matcher for proxies (AdGua… |
+| 2026-10-21 16:00:13 | [stipplefs](https://crates.io/crates/stipplefs) | 0.1.0 | 0 | A read-only, compressed, deduplicating filesystem image format |
+| 2026-10-21 16:00:26 | [modelsdesk](https://crates.io/crates/modelsdesk) | 0.2.1 | 0 | Local LLM model manager for Mac (provider-agnostic core, macOS first) |
+| 2026-10-21 16:06:01 | [otel-http](https://crates.io/crates/otel-http) | 0.34.1 | 0 | HTTP server spans and context propagation for OpenTelemetry. |
+| 2026-10-21 16:07:29 | [otel-logger](https://crates.io/crates/otel-logger) | 0.34.1 | 0 | Application logging and OpenTelemetry bootstrap with console and file output. |
+| 2026-10-21 16:07:32 | [harmos](https://crates.io/crates/harmos) | 0.1.2 | 0 | Harmos facade: stateful Rust applications with history, live data and plugins. |
+| 2026-10-21 16:08:08 | [anr-dx](https://crates.io/crates/anr-dx) | 0.1.1 | 0 | Model-specific DeepFilterNet3 inference with native D3D12 compute shaders |
+| 2026-10-21 16:08:10 | [rumorph-dict-ru](https://crates.io/crates/rumorph-dict-ru) | 0.2.0-dev.3 | 0 | Russian dictionary for the ruMorph morphological analyzer, built from OpenCorpo… |
+| 2026-10-21 16:08:13 | [rumorph](https://crates.io/crates/rumorph) | 0.2.0-dev.3 | 0 | Fast Russian morphological analyzer: lemmas, Universal Dependencies features an… |
+| 2026-10-21 16:09:55 | [unor4-hal](https://crates.io/crates/unor4-hal) | 0.1.0 | 0 | Independent HAL for the Arduino UNO R4 (Renesas RA4M1) |
+| 2026-10-21 16:09:57 | [yog-sync](https://crates.io/crates/yog-sync) | 0.3.0 | 0 | Yog's locks that outlive a panic: Mutex/RwLock guards whether or not the lock i… |
+| 2026-10-21 16:10:17 | [soritrading-watch-together](https://crates.io/crates/soritrading-watch-together) | 0.1.0 | 0 | Client for the SoriTrading agent's local API: WATCH TOGETHER signals and exchan… |
+| 2026-10-21 16:10:57 | [forge-asset-contracts](https://crates.io/crates/forge-asset-contracts) | 0.1.0 | 0 | Versioned asset specifications, strict validation and agent transport contracts |
+| 2026-10-21 16:11:01 | [forge-desktop-support](https://crates.io/crates/forge-desktop-support) | 0.1.0 | 0 | Native graphics preflight and owned-process lifecycle helpers for desktop tools |
+| 2026-10-21 16:11:08 | [forge-glb-codec](https://crates.io/crates/forge-glb-codec) | 0.1.0 | 0 | Bounded lossless gzip transport and SHA-256 verification for GLB files |
+| 2026-10-21 16:11:21 | [forge-mesh-kernel](https://crates.io/crates/forge-mesh-kernel) | 0.1.0 | 0 | Bounded triangle modeling with JSON plans, corner UVs and OBJ export |
+| 2026-10-21 16:11:29 | [forge-artifact-store](https://crates.io/crates/forge-artifact-store) | 0.1.0 | 0 | Artifact hashing, atomic writes, locks and guarded revision publication |
+| 2026-10-21 16:13:35 | [tauri-specta-query](https://crates.io/crates/tauri-specta-query) | 2.0.0-rc.26 | 0 | Generate typesafe TanStack Query helpers for Tauri Specta commands |
+| 2026-10-21 16:14:29 | [gcb](https://crates.io/crates/gcb) | 0.0.0 | 0 | Git Credential Broker for gh, glab, etc. |
+| 2026-10-21 16:15:54 | [forge-texture-compiler](https://crates.io/crates/forge-texture-compiler) | 0.1.0 | 0 | Bounded deterministic CPU compilation of layered PBR texture recipes |
+| 2026-10-21 16:17:29 | [rdnie-emulator](https://crates.io/crates/rdnie-emulator) | 0.1.0 | 0 | Emulated Spanish electronic ID card (DNIe) behind rdnie's Transport, for tests… |
 
 ## Data source
 
