@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T19:29:02.217026Z,jess,0.1.0,0,0,https://github.com/DreamWeave-MP/jess,Native application kernel for Luau applications
+2026-10-21T19:34:13.783025Z,tacitty,1.0.1,0,0,https://github.com/Sriramm07/tacitty,Prompt-aware password alias injector for Linux and macOS terminals: type @alias at any secret prompt and get the real secret from a local encrypted vault
+2026-10-21T19:36:23.06819Z,pactole-config,0.3.0,0,0,https://github.com/etienne-monier/pactole,Layered `pactole.toml` configuration resolution for Pactole tools.
+2026-10-21T19:44:16.163581Z,scp-relay-store,0.1.0,0,0,https://github.com/scphq/scp,SQLite and PostgreSQL persistence for the SCP relay
+2026-10-21T19:44:17.947938Z,scp-relay-server,0.1.0,0,0,https://github.com/scphq/scp,Self-hosted SCP relay server with SQLite and PostgreSQL storage
+2026-10-21T19:48:15.477614Z,boidly,0.0.1,0,0,,Boidly: a coordination kernel for AI coding agents. In development; this release holds the name.
+2026-10-21T19:50:37.59611Z,protochem,0.0.1,0,0,https://github.com/avcopan/protochem,Rust learning sandbox for implementing cheminformatics algorithms
+2026-10-21T19:54:06.687239Z,qnx-ifs,0.1.0,0,0,https://github.com/binwalk-ng/qnx-ifs,Pure-Rust parser and decompressor for QNX IFS (Image File System) firmware images
+2026-10-21T19:59:22.584511Z,tmux-worktrees,0.3.0,0,0,https://codeberg.org/gbrennon/tmux-worktrees,"A tmux plugin for creating, switching between, and cleaning up Git worktrees"
+2026-10-21T20:04:43.796211Z,quorium-core,0.1.0-alpha.1,0,0,https://github.com/canonical/quorium,"Core state machine, Ladder election controller and entity registry for Quorium"
+2026-10-21T20:04:46.376858Z,quorium-macros,0.1.0-alpha.1,0,0,https://github.com/canonical/quorium,Derive and attribute macros for Quorium state types
+2026-10-21T20:04:53.430384Z,quorium-store,0.1.0-alpha.1,0,0,https://github.com/canonical/quorium,Write-ahead log and checkpoint storage for Quorium
+2026-10-21T20:04:58.464382Z,quorium-net,0.1.0-alpha.1,0,0,https://github.com/canonical/quorium,Versioned wire codec and QUIC/TCP transports with mutual TLS for Quorium
+2026-10-21T20:05:15.618598Z,quorium-sim,0.1.0-alpha.1,0,0,https://github.com/canonical/quorium,"Deterministic simulation, fault injection and checkers for testing Quorium"
+2026-10-21T20:11:09.645578Z,tauri-plugin-gpui,0.1.0,0,0,https://github.com/ziinc/tauri-gpui,Render GPUI views inside ordinary Tauri windows
+2026-10-21T20:14:51.003791Z,quorium,0.1.0-alpha.1,0,0,https://github.com/canonical/quorium,Embedded Raft-replicated state for Rust services: every instance is a cluster node
+2026-10-21T20:18:30.115075Z,openbo-rust,0.1.1,0,0,https://github.com/M-Colley/openbo-rust,Native Rust research and teaching library for Bayesian optimization
