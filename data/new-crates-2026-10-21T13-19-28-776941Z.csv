@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T12:20:39.149309Z,iet-stack-auth-htmx-axum,0.1.1,0,0,https://github.com/MasLazu/iet-fw,"Named, statically dispatched account UI presets. Applications still own providers."
+2026-10-21T12:20:55.485929Z,deterministic-shuffle,0.0.2,0,0,https://github.com/Dmytro-Svitkin/deterministic-shuffle,"A lightweight, no_std-compatible Rust library for deterministic shuffling."
+2026-10-21T12:24:33.301542Z,ferrovoker,1.0.0,0,0,https://github.com/cmeister2/ferrovoker,Browser revocation feeds and certificate checks for Rust and C
+2026-10-21T12:25:23.116734Z,turbo-surf-wreq-util,0.2.0,0,0,https://github.com/miaskiewicz/turbo-surf,Reviewed turbo-surf distribution of wreq-util: Common utilities for wreq
+2026-10-21T12:26:47.609649Z,whisper-captions,0.1.1,0,0,https://github.com/madspaaskesen/whisper-captions,"Turn whisper.cpp output (JSON or stdout) into caption-ready segments with whole-word timestamps, plus SRT/VTT export."
+2026-10-21T12:27:52.613064Z,identity-metadata-commons,0.2.0,0,0,https://github.com/dataspace-rs/identity-metadata-commons,Model shared by the identity metadata service and its client.
+2026-10-21T12:29:41.25937Z,tunnelcheck,0.1.0,0,0,https://github.com/ak4duy/tunnelcheck,A small command-line uptime monitor configured with one TOML file
+2026-10-21T12:50:48.926189Z,lapsoss,0.2.0,0,0,https://github.com/seuros/lapsoss,Embeddable vendor-neutral error delivery dispatcher
+2026-10-21T12:57:35.527947Z,vj-abi,0.1.0,0,0,,Kernel ABI shared by the vj SystemVerilog simulator's compiler and runtime.
+2026-10-21T12:57:36.010954Z,vj-sdf,0.1.0,0,0,,SDF (IEEE 1497) back-annotation for the vj SystemVerilog simulator.
+2026-10-21T12:57:37.226417Z,vj-sim,0.1.0,0,0,,"Netlist, scheduler and process model of the vj SystemVerilog simulator."
+2026-10-21T12:57:39.289552Z,vj-harness,0.1.0,0,0,,Test and conformance harness of the vj SystemVerilog simulator.
+2026-10-21T12:57:39.761383Z,vj-runtime,0.1.0,0,0,,Runtime support library of the vj SystemVerilog simulator.
+2026-10-21T12:58:04.549941Z,flattrace,0.1.0,0,0,https://github.com/kyraneth/flattrace,Small local JSONL traces with cross-process parentage (Linux writer)
+2026-10-21T13:01:43.613423Z,identity-metadata-service,0.1.0,0,0,https://github.com/dataspace-rs/identity-metadata-service,Server to present public identity information.
+2026-10-21T13:01:50.082263Z,rok-data-macros,0.2.0,0,0,https://github.com/ateeq1999/rok-data,Derive macros for rok-data
+2026-10-21T13:02:04.719273Z,no-std-repl,0.1.0,0,0,https://github.com/Systemscape/no-std-repl,Minimal no_std REPL building blocks for embedded serial CLIs
+2026-10-21T13:02:12.50145Z,rok-data-core,0.2.0,0,0,https://github.com/ateeq1999/rok-data,"Core runtime for rok-data: models, query builder, values and connection handling"
+2026-10-21T13:02:17.77514Z,rok-data,0.2.0,0,0,https://github.com/ateeq1999/rok-data,"An ergonomic, type-safe async ORM for PostgreSQL built on sqlx"
+2026-10-21T13:02:40.060419Z,rok-data-codegen,0.2.0,0,0,https://github.com/ateeq1999/rok-data,"Generate a rok-data crate (models, typed queries and migrations) from .sql files"
+2026-10-21T13:03:08.966785Z,rok-data-sqlc,0.2.0,0,0,https://github.com/ateeq1999/rok-data,Generate SQLx Rust database modules from SQL schema files
+2026-10-21T13:04:51.047484Z,gatebin,0.1.0,0,0,https://github.com/matszpk/gatebin,The Gate binary format
+2026-10-21T13:04:52.700322Z,crank-cli,0.1.0,0,0,https://github.com/viboko/crank,"Code generation CLI: renders Tera templates against YAML data, driven by a .crank task file."
+2026-10-21T13:07:13.225647Z,id_effect_rpc_macros,0.12.0,0,0,https://github.com/Industrial/id_effect,"Procedural macros for id_effect_rpc: `#[rpc::service]` services with typed procedures, clients and contracts"
+2026-10-21T13:07:39.098946Z,ferrigura-jsmath,0.1.0,0,0,https://github.com/sebastian-software/ferrigura,"JavaScript's Math functions (sin, cos, tan, asin, acos, atan, atan2, log, log10, pow, hypot) as V8 computes them, bit for bit"
+2026-10-21T13:07:43.848029Z,ferrigura-model,0.1.0,0,0,https://github.com/sebastian-software/ferrigura,"Diagram models, configuration and their canonical JSON form for ferrigura"
+2026-10-21T13:07:47.619484Z,ferrigura-text,0.1.0,0,0,https://github.com/sebastian-software/ferrigura,"Text measurement, Mermaid line wrapping and font embedding for ferrigura labels"
+2026-10-21T13:07:52.259488Z,ferrigura-elk,0.1.0,0,0,https://github.com/sebastian-software/ferrigura,ELK Layered layout ported from the Eclipse Layout Kernel Java sources (EPL-2.0)
+2026-10-21T13:07:56.707002Z,ferrigura-path,0.1.0,0,0,https://github.com/sebastian-software/ferrigura,"Chromium's bounding box of an SVG path (getBBox), bit for bit: the path data read as float, the arcs decomposed as Blink does, and Skia's tight bounds in float"
+2026-10-21T13:08:31.583536Z,id_effect_lints,0.12.0,0,0,https://github.com/Industrial/id_effect,"Dylint lints for idiomatic id_effect code: Effect signatures, services, fibers, time, raw SQL"
+2026-10-21T13:10:45.395325Z,vj-exec,0.1.0,0,0,,Execution engine of the vj SystemVerilog simulator.
+2026-10-21T13:15:54.14271Z,domtree-cli,0.3.0,0,0,https://github.com/iamsaquib8/dom-tree-rs,"Query HTML from the command line with CSS selectors — get elements, attributes, readable text, Markdown or JSON. A tiny, zero-dependency, htmlq-compatible CLI."
+2026-10-21T13:17:21.815909Z,termjot,0.1.0,0,0,https://github.com/rdaum/termjot,Djot to ANSI terminal rendering with pluggable syntax highlighting
+2026-10-21T13:18:02.035773Z,ferrigura-cose,0.1.0,0,0,https://github.com/sebastian-software/ferrigura,Force-directed layouts ported from the JavaScript sources: cytoscape-cose-bilkent 4.1.0 (the tree path Mermaid's mindmaps use) and cytoscape-fcose 2.2.0 (architecture diagrams)
+2026-10-21T13:18:32.92894Z,ortho-router,0.1.0,0,0,https://github.com/quazardous/egui-pop,"Orthogonal connector routing around rectangular obstacles: right-angled wires between ports that go around nodes, with few bends (no dependencies)"

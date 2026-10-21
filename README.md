@@ -8,47 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 12:18 UTC
+## Latest list — 2026-10-21 13:19 UTC
 
-New crates published between 2026-10-21 11:22 UTC and 2026-10-21 12:18 UTC.
+New crates published between 2026-10-21 12:18 UTC and 2026-10-21 13:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-21T12-18-58-730899Z.csv)
+[Full CSV](data/new-crates-2026-10-21T13-19-28-776941Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-21 11:24:48 | [turbo-surf-deno-v8](https://crates.io/crates/turbo-surf-deno-v8) | 0.4.0 | 0 | turbo-surf reviewed distribution of deno_v8: JavaScript engine facade for Deno |
-| 2026-10-21 11:24:57 | [turbo-surf-serde-v8](https://crates.io/crates/turbo-surf-serde-v8) | 0.321.0 | 0 | turbo-surf reviewed distribution of serde_v8: Rust to V8 serialization and dese… |
-| 2026-10-21 11:25:20 | [turbo-surf-deno-core](https://crates.io/crates/turbo-surf-deno-core) | 0.412.0 | 0 | turbo-surf reviewed distribution of deno_core: A modern JavaScript/TypeScript r… |
-| 2026-10-21 11:25:29 | [turbo-surf-deno-bench-util](https://crates.io/crates/turbo-surf-deno-bench-util) | 0.253.0 | 0 | turbo-surf reviewed distribution of deno_bench_util: Bench and profiling utilit… |
-| 2026-10-21 11:26:22 | [turbo-surf-deno-crypto](https://crates.io/crates/turbo-surf-deno-crypto) | 0.273.0 | 0 | turbo-surf reviewed distribution of deno_crypto: Web Cryptography API implement… |
-| 2026-10-21 11:26:24 | [turbo-surf-deno-webidl](https://crates.io/crates/turbo-surf-deno-webidl) | 0.259.0 | 0 | turbo-surf reviewed distribution of deno_webidl: WebIDL implementation for Deno |
-| 2026-10-21 11:26:57 | [ferrotensor-monitor](https://crates.io/crates/ferrotensor-monitor) | 0.1.0 | 0 | Terminal dashboard for monitoring Ferrotensor training runs |
-| 2026-10-21 11:30:37 | [iet-auth-rbac-timescale](https://crates.io/crates/iet-auth-rbac-timescale) | 0.1.1 | 0 | Role-based authorization persistence with independently selected profile policy. |
-| 2026-10-21 11:30:54 | [bzip3-rs](https://crates.io/crates/bzip3-rs) | 1.0.1 | 0 | Pure-Rust port of the bzip3 compressor (no C FFI) |
-| 2026-10-21 11:34:28 | [baijimu-device-invocation-contract](https://crates.io/crates/baijimu-device-invocation-contract) | 1.0.1 | 0 | Device invocation timeout value and JSON schema owned by Device Service |
-| 2026-10-21 11:35:39 | [turbo-surf-deno-web](https://crates.io/crates/turbo-surf-deno-web) | 0.290.0 | 0 | turbo-surf reviewed distribution of deno_web: Collection of Web APIs |
-| 2026-10-21 11:38:55 | [kerbo](https://crates.io/crates/kerbo) | 0.7.0 | 0 | Analizador de calidad multi-lenguaje: un binario, una configuración y un reporte |
-| 2026-10-21 11:40:39 | [iet-auth-revocations-timescale](https://crates.io/crates/iet-auth-revocations-timescale) | 0.1.1 | 0 | JWT revocations, independent of identities and all other auth integrations. |
-| 2026-10-21 11:43:40 | [sanko-core](https://crates.io/crates/sanko-core) | 0.5.1 | 0 | Board representation and positional-superko rules engine for the Sanko Go solve… |
-| 2026-10-21 11:43:43 | [sanko-search](https://crates.io/crates/sanko-search) | 0.5.1 | 0 | Depth-first proof-number search with sound proof transfer under positional supe… |
-| 2026-10-21 11:43:45 | [sanko](https://crates.io/crates/sanko) | 0.5.1 | 0 | Solves Go on small rectangular boards under positional superko (command-line so… |
-| 2026-10-21 11:45:47 | [turbo-surf-btls-sys](https://crates.io/crates/turbo-surf-btls-sys) | 0.5.6 | 0 | Reviewed turbo-surf distribution of btls-sys: FFI bindings to BoringSSL |
-| 2026-10-21 11:46:27 | [kuku](https://crates.io/crates/kuku) | 0.1.0 | 0 | A small parser combinator library for Rust |
-| 2026-10-21 11:48:13 | [ferrotensor](https://crates.io/crates/ferrotensor) | 0.1.0 | 0 | GPU-accelerated machine learning library for training and inference in Rust |
-| 2026-10-21 11:50:36 | [iet-auth-session-axum](https://crates.io/crates/iet-auth-session-axum) | 0.1.1 | 0 | Bearer-authenticated session REST adapter. |
-| 2026-10-21 11:50:37 | [kyvault](https://crates.io/crates/kyvault) | 2.6.0 | 0 | Local-first encrypted secret and API key manager CLI (AES-256-GCM); 本地加密密钥管理工具，… |
-| 2026-10-21 11:51:42 | [deliverd-screen](https://crates.io/crates/deliverd-screen) | 0.1.0 | 0 | A pre-send check for every prompt. Find and redact personal data, secrets and y… |
-| 2026-10-21 11:55:17 | [turbo-surf-btls](https://crates.io/crates/turbo-surf-btls) | 0.5.6 | 0 | Reviewed turbo-surf distribution of btls: BoringSSL bindings |
-| 2026-10-21 11:58:43 | [ferrotensor-cli](https://crates.io/crates/ferrotensor-cli) | 0.1.0 | 0 | Command-line interface for training and running models with Ferrotensor |
-| 2026-10-21 12:00:39 | [iet-db-cli](https://crates.io/crates/iet-db-cli) | 0.1.1 | 0 | Composition tool selects providers; feature implementations never depend on pee… |
-| 2026-10-21 12:01:25 | [gpui-kit-markdown-editor](https://crates.io/crates/gpui-kit-markdown-editor) | 0.1.0 | 0 | A block-based WYSIWYG Markdown editor for GPUI, built on gpui-kit's editor host… |
-| 2026-10-21 12:05:08 | [turbo-surf-tokio-btls](https://crates.io/crates/turbo-surf-tokio-btls) | 0.5.6 | 0 | Reviewed turbo-surf distribution of tokio-btls: An implementation of SSL stream… |
-| 2026-10-21 12:09:37 | [juiz_webui](https://crates.io/crates/juiz_webui) | 0.0.19 | 0 | Built web UI (system viewer) of JUIZ, embedded into juiz_core and served at /ui. |
-| 2026-10-21 12:10:37 | [iet-stack-web-axum](https://crates.io/crates/iet-stack-web-axum) | 0.1.1 | 0 | Backend-neutral web composition preset. No listener or providers are installed. |
-| 2026-10-21 12:12:20 | [proksi_store](https://crates.io/crates/proksi_store) | 0.16.0 | 0 | The stores shared by Proksi replicas: routes, certificates, leases and replica… |
-| 2026-10-21 12:14:48 | [pkgstats](https://crates.io/crates/pkgstats) | 0.1.0 | 0 | Desktop app for GitHub, npm, PyPI and crates.io stats: users, packages, downloa… |
-| 2026-10-21 12:15:35 | [turbo-surf-wreq](https://crates.io/crates/turbo-surf-wreq) | 0.16.1 | 0 | Reviewed turbo-surf distribution of wreq: An ergonomic, privacy-aware Rust HTTP… |
-| 2026-10-21 12:17:24 | [oas-forge-cli](https://crates.io/crates/oas-forge-cli) | 0.2.0 | 0 | OpenAPI 3.2/3.1/3.0, Swagger 2.0, JSON Schema and AsyncAPI documents from Rust… |
+| 2026-10-21 12:20:39 | [iet-stack-auth-htmx-axum](https://crates.io/crates/iet-stack-auth-htmx-axum) | 0.1.1 | 0 | Named, statically dispatched account UI presets. Applications still own provide… |
+| 2026-10-21 12:20:55 | [deterministic-shuffle](https://crates.io/crates/deterministic-shuffle) | 0.0.2 | 0 | A lightweight, no_std-compatible Rust library for deterministic shuffling. |
+| 2026-10-21 12:24:33 | [ferrovoker](https://crates.io/crates/ferrovoker) | 1.0.0 | 0 | Browser revocation feeds and certificate checks for Rust and C |
+| 2026-10-21 12:25:23 | [turbo-surf-wreq-util](https://crates.io/crates/turbo-surf-wreq-util) | 0.2.0 | 0 | Reviewed turbo-surf distribution of wreq-util: Common utilities for wreq |
+| 2026-10-21 12:26:47 | [whisper-captions](https://crates.io/crates/whisper-captions) | 0.1.1 | 0 | Turn whisper.cpp output (JSON or stdout) into caption-ready segments with whole… |
+| 2026-10-21 12:27:52 | [identity-metadata-commons](https://crates.io/crates/identity-metadata-commons) | 0.2.0 | 0 | Model shared by the identity metadata service and its client. |
+| 2026-10-21 12:29:41 | [tunnelcheck](https://crates.io/crates/tunnelcheck) | 0.1.0 | 0 | A small command-line uptime monitor configured with one TOML file |
+| 2026-10-21 12:50:48 | [lapsoss](https://crates.io/crates/lapsoss) | 0.2.0 | 0 | Embeddable vendor-neutral error delivery dispatcher |
+| 2026-10-21 12:57:35 | [vj-abi](https://crates.io/crates/vj-abi) | 0.1.0 | 0 | Kernel ABI shared by the vj SystemVerilog simulator's compiler and runtime. |
+| 2026-10-21 12:57:36 | [vj-sdf](https://crates.io/crates/vj-sdf) | 0.1.0 | 0 | SDF (IEEE 1497) back-annotation for the vj SystemVerilog simulator. |
+| 2026-10-21 12:57:37 | [vj-sim](https://crates.io/crates/vj-sim) | 0.1.0 | 0 | Netlist, scheduler and process model of the vj SystemVerilog simulator. |
+| 2026-10-21 12:57:39 | [vj-harness](https://crates.io/crates/vj-harness) | 0.1.0 | 0 | Test and conformance harness of the vj SystemVerilog simulator. |
+| 2026-10-21 12:57:39 | [vj-runtime](https://crates.io/crates/vj-runtime) | 0.1.0 | 0 | Runtime support library of the vj SystemVerilog simulator. |
+| 2026-10-21 12:58:04 | [flattrace](https://crates.io/crates/flattrace) | 0.1.0 | 0 | Small local JSONL traces with cross-process parentage (Linux writer) |
+| 2026-10-21 13:01:43 | [identity-metadata-service](https://crates.io/crates/identity-metadata-service) | 0.1.0 | 0 | Server to present public identity information. |
+| 2026-10-21 13:01:50 | [rok-data-macros](https://crates.io/crates/rok-data-macros) | 0.2.0 | 0 | Derive macros for rok-data |
+| 2026-10-21 13:02:04 | [no-std-repl](https://crates.io/crates/no-std-repl) | 0.1.0 | 0 | Minimal no_std REPL building blocks for embedded serial CLIs |
+| 2026-10-21 13:02:12 | [rok-data-core](https://crates.io/crates/rok-data-core) | 0.2.0 | 0 | Core runtime for rok-data: models, query builder, values and connection handling |
+| 2026-10-21 13:02:17 | [rok-data](https://crates.io/crates/rok-data) | 0.2.0 | 0 | An ergonomic, type-safe async ORM for PostgreSQL built on sqlx |
+| 2026-10-21 13:02:40 | [rok-data-codegen](https://crates.io/crates/rok-data-codegen) | 0.2.0 | 0 | Generate a rok-data crate (models, typed queries and migrations) from .sql files |
+| 2026-10-21 13:03:08 | [rok-data-sqlc](https://crates.io/crates/rok-data-sqlc) | 0.2.0 | 0 | Generate SQLx Rust database modules from SQL schema files |
+| 2026-10-21 13:04:51 | [gatebin](https://crates.io/crates/gatebin) | 0.1.0 | 0 | The Gate binary format |
+| 2026-10-21 13:04:52 | [crank-cli](https://crates.io/crates/crank-cli) | 0.1.0 | 0 | Code generation CLI: renders Tera templates against YAML data, driven by a .cra… |
+| 2026-10-21 13:07:13 | [id_effect_rpc_macros](https://crates.io/crates/id_effect_rpc_macros) | 0.12.0 | 0 | Procedural macros for id_effect_rpc: `#[rpc::service]` services with typed proc… |
+| 2026-10-21 13:07:39 | [ferrigura-jsmath](https://crates.io/crates/ferrigura-jsmath) | 0.1.0 | 0 | JavaScript's Math functions (sin, cos, tan, asin, acos, atan, atan2, log, log10… |
+| 2026-10-21 13:07:43 | [ferrigura-model](https://crates.io/crates/ferrigura-model) | 0.1.0 | 0 | Diagram models, configuration and their canonical JSON form for ferrigura |
+| 2026-10-21 13:07:47 | [ferrigura-text](https://crates.io/crates/ferrigura-text) | 0.1.0 | 0 | Text measurement, Mermaid line wrapping and font embedding for ferrigura labels |
+| 2026-10-21 13:07:52 | [ferrigura-elk](https://crates.io/crates/ferrigura-elk) | 0.1.0 | 0 | ELK Layered layout ported from the Eclipse Layout Kernel Java sources (EPL-2.0) |
+| 2026-10-21 13:07:56 | [ferrigura-path](https://crates.io/crates/ferrigura-path) | 0.1.0 | 0 | Chromium's bounding box of an SVG path (getBBox), bit for bit: the path data re… |
+| 2026-10-21 13:08:31 | [id_effect_lints](https://crates.io/crates/id_effect_lints) | 0.12.0 | 0 | Dylint lints for idiomatic id_effect code: Effect signatures, services, fibers,… |
+| 2026-10-21 13:10:45 | [vj-exec](https://crates.io/crates/vj-exec) | 0.1.0 | 0 | Execution engine of the vj SystemVerilog simulator. |
+| 2026-10-21 13:15:54 | [domtree-cli](https://crates.io/crates/domtree-cli) | 0.3.0 | 0 | Query HTML from the command line with CSS selectors — get elements, attributes,… |
+| 2026-10-21 13:17:21 | [termjot](https://crates.io/crates/termjot) | 0.1.0 | 0 | Djot to ANSI terminal rendering with pluggable syntax highlighting |
+| 2026-10-21 13:18:02 | [ferrigura-cose](https://crates.io/crates/ferrigura-cose) | 0.1.0 | 0 | Force-directed layouts ported from the JavaScript sources: cytoscape-cose-bilke… |
+| 2026-10-21 13:18:32 | [ortho-router](https://crates.io/crates/ortho-router) | 0.1.0 | 0 | Orthogonal connector routing around rectangular obstacles: right-angled wires b… |
 
 ## Data source
 
