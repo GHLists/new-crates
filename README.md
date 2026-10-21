@@ -8,49 +8,70 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 13:19 UTC
+## Latest list — 2026-10-21 14:20 UTC
 
-New crates published between 2026-10-21 12:18 UTC and 2026-10-21 13:19 UTC.
+New crates published between 2026-10-21 13:19 UTC and 2026-10-21 14:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-21T13-19-28-776941Z.csv)
+[Full CSV](data/new-crates-2026-10-21T14-20-54-856472Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-21 12:20:39 | [iet-stack-auth-htmx-axum](https://crates.io/crates/iet-stack-auth-htmx-axum) | 0.1.1 | 0 | Named, statically dispatched account UI presets. Applications still own provide… |
-| 2026-10-21 12:20:55 | [deterministic-shuffle](https://crates.io/crates/deterministic-shuffle) | 0.0.2 | 0 | A lightweight, no_std-compatible Rust library for deterministic shuffling. |
-| 2026-10-21 12:24:33 | [ferrovoker](https://crates.io/crates/ferrovoker) | 1.0.0 | 0 | Browser revocation feeds and certificate checks for Rust and C |
-| 2026-10-21 12:25:23 | [turbo-surf-wreq-util](https://crates.io/crates/turbo-surf-wreq-util) | 0.2.0 | 0 | Reviewed turbo-surf distribution of wreq-util: Common utilities for wreq |
-| 2026-10-21 12:26:47 | [whisper-captions](https://crates.io/crates/whisper-captions) | 0.1.1 | 0 | Turn whisper.cpp output (JSON or stdout) into caption-ready segments with whole… |
-| 2026-10-21 12:27:52 | [identity-metadata-commons](https://crates.io/crates/identity-metadata-commons) | 0.2.0 | 0 | Model shared by the identity metadata service and its client. |
-| 2026-10-21 12:29:41 | [tunnelcheck](https://crates.io/crates/tunnelcheck) | 0.1.0 | 0 | A small command-line uptime monitor configured with one TOML file |
-| 2026-10-21 12:50:48 | [lapsoss](https://crates.io/crates/lapsoss) | 0.2.0 | 0 | Embeddable vendor-neutral error delivery dispatcher |
-| 2026-10-21 12:57:35 | [vj-abi](https://crates.io/crates/vj-abi) | 0.1.0 | 0 | Kernel ABI shared by the vj SystemVerilog simulator's compiler and runtime. |
-| 2026-10-21 12:57:36 | [vj-sdf](https://crates.io/crates/vj-sdf) | 0.1.0 | 0 | SDF (IEEE 1497) back-annotation for the vj SystemVerilog simulator. |
-| 2026-10-21 12:57:37 | [vj-sim](https://crates.io/crates/vj-sim) | 0.1.0 | 0 | Netlist, scheduler and process model of the vj SystemVerilog simulator. |
-| 2026-10-21 12:57:39 | [vj-harness](https://crates.io/crates/vj-harness) | 0.1.0 | 0 | Test and conformance harness of the vj SystemVerilog simulator. |
-| 2026-10-21 12:57:39 | [vj-runtime](https://crates.io/crates/vj-runtime) | 0.1.0 | 0 | Runtime support library of the vj SystemVerilog simulator. |
-| 2026-10-21 12:58:04 | [flattrace](https://crates.io/crates/flattrace) | 0.1.0 | 0 | Small local JSONL traces with cross-process parentage (Linux writer) |
-| 2026-10-21 13:01:43 | [identity-metadata-service](https://crates.io/crates/identity-metadata-service) | 0.1.0 | 0 | Server to present public identity information. |
-| 2026-10-21 13:01:50 | [rok-data-macros](https://crates.io/crates/rok-data-macros) | 0.2.0 | 0 | Derive macros for rok-data |
-| 2026-10-21 13:02:04 | [no-std-repl](https://crates.io/crates/no-std-repl) | 0.1.0 | 0 | Minimal no_std REPL building blocks for embedded serial CLIs |
-| 2026-10-21 13:02:12 | [rok-data-core](https://crates.io/crates/rok-data-core) | 0.2.0 | 0 | Core runtime for rok-data: models, query builder, values and connection handling |
-| 2026-10-21 13:02:17 | [rok-data](https://crates.io/crates/rok-data) | 0.2.0 | 0 | An ergonomic, type-safe async ORM for PostgreSQL built on sqlx |
-| 2026-10-21 13:02:40 | [rok-data-codegen](https://crates.io/crates/rok-data-codegen) | 0.2.0 | 0 | Generate a rok-data crate (models, typed queries and migrations) from .sql files |
-| 2026-10-21 13:03:08 | [rok-data-sqlc](https://crates.io/crates/rok-data-sqlc) | 0.2.0 | 0 | Generate SQLx Rust database modules from SQL schema files |
-| 2026-10-21 13:04:51 | [gatebin](https://crates.io/crates/gatebin) | 0.1.0 | 0 | The Gate binary format |
-| 2026-10-21 13:04:52 | [crank-cli](https://crates.io/crates/crank-cli) | 0.1.0 | 0 | Code generation CLI: renders Tera templates against YAML data, driven by a .cra… |
-| 2026-10-21 13:07:13 | [id_effect_rpc_macros](https://crates.io/crates/id_effect_rpc_macros) | 0.12.0 | 0 | Procedural macros for id_effect_rpc: `#[rpc::service]` services with typed proc… |
-| 2026-10-21 13:07:39 | [ferrigura-jsmath](https://crates.io/crates/ferrigura-jsmath) | 0.1.0 | 0 | JavaScript's Math functions (sin, cos, tan, asin, acos, atan, atan2, log, log10… |
-| 2026-10-21 13:07:43 | [ferrigura-model](https://crates.io/crates/ferrigura-model) | 0.1.0 | 0 | Diagram models, configuration and their canonical JSON form for ferrigura |
-| 2026-10-21 13:07:47 | [ferrigura-text](https://crates.io/crates/ferrigura-text) | 0.1.0 | 0 | Text measurement, Mermaid line wrapping and font embedding for ferrigura labels |
-| 2026-10-21 13:07:52 | [ferrigura-elk](https://crates.io/crates/ferrigura-elk) | 0.1.0 | 0 | ELK Layered layout ported from the Eclipse Layout Kernel Java sources (EPL-2.0) |
-| 2026-10-21 13:07:56 | [ferrigura-path](https://crates.io/crates/ferrigura-path) | 0.1.0 | 0 | Chromium's bounding box of an SVG path (getBBox), bit for bit: the path data re… |
-| 2026-10-21 13:08:31 | [id_effect_lints](https://crates.io/crates/id_effect_lints) | 0.12.0 | 0 | Dylint lints for idiomatic id_effect code: Effect signatures, services, fibers,… |
-| 2026-10-21 13:10:45 | [vj-exec](https://crates.io/crates/vj-exec) | 0.1.0 | 0 | Execution engine of the vj SystemVerilog simulator. |
-| 2026-10-21 13:15:54 | [domtree-cli](https://crates.io/crates/domtree-cli) | 0.3.0 | 0 | Query HTML from the command line with CSS selectors — get elements, attributes,… |
-| 2026-10-21 13:17:21 | [termjot](https://crates.io/crates/termjot) | 0.1.0 | 0 | Djot to ANSI terminal rendering with pluggable syntax highlighting |
-| 2026-10-21 13:18:02 | [ferrigura-cose](https://crates.io/crates/ferrigura-cose) | 0.1.0 | 0 | Force-directed layouts ported from the JavaScript sources: cytoscape-cose-bilke… |
-| 2026-10-21 13:18:32 | [ortho-router](https://crates.io/crates/ortho-router) | 0.1.0 | 0 | Orthogonal connector routing around rectangular obstacles: right-angled wires b… |
+| 2026-10-21 13:20:57 | [vj-codegen](https://crates.io/crates/vj-codegen) | 0.1.0 | 0 | LLVM code generator of the vj SystemVerilog simulator. |
+| 2026-10-21 13:21:15 | [nlipsy-protocol](https://crates.io/crates/nlipsy-protocol) | 0.1.2 | 0 | NLIP message model, and the rules ECMA-430 clause 5 states about it |
+| 2026-10-21 13:21:20 | [nlipsy-core](https://crates.io/crates/nlipsy-core) | 0.1.2 | 0 | The NLIP runtime core: clause 6 of ECMA-430 as values and traits, with no opini… |
+| 2026-10-21 13:21:25 | [nlipsy-http](https://crates.io/crates/nlipsy-http) | 0.1.2 | 0 | ECMA-431 §6 as values: the status map, the header spellings, the two Retry-Afte… |
+| 2026-10-21 13:21:50 | [nlipsy-http-client](https://crates.io/crates/nlipsy-http-client) | 0.1.2 | 0 | The ECMA-431 client binding of NLIP: one HTTP exchange with a peer end-point, o… |
+| 2026-10-21 13:22:02 | [nlipsy-server](https://crates.io/crates/nlipsy-server) | 0.1.2 | 0 | The ECMA-431 server binding of NLIP: an axum router around a clause-6-conforman… |
+| 2026-10-21 13:23:08 | [nlipsy](https://crates.io/crates/nlipsy) | 0.1.2 | 0 | NLIP (ECMA-430) for Rust: the facade over the nlipsy-* crates |
+| 2026-10-21 13:27:08 | [device-driver-lsp](https://crates.io/crates/device-driver-lsp) | 2.2.0 | 0 | LSP implementation for device-driver |
+| 2026-10-21 13:27:27 | [oxidt-mdx](https://crates.io/crates/oxidt-mdx) | 0.11.0 | 0 | MDX parser and document types: Mintlify-style components, OpenAPI specs and Mar… |
+| 2026-10-21 13:27:29 | [oxidt-docs-kit-build](https://crates.io/crates/oxidt-docs-kit-build) | 0.11.0 | 0 | Build-time helper for oxidt-docs-kit and dioxus-docs-kit: parses docs, blog pos… |
+| 2026-10-21 13:27:32 | [oxidt-docs-kit-core](https://crates.io/crates/oxidt-docs-kit-core) | 0.11.0 | 0 | UI-framework-agnostic core of oxidt-docs-kit and dioxus-docs-kit: content bundl… |
+| 2026-10-21 13:27:34 | [topcoat-docs-kit](https://crates.io/crates/topcoat-docs-kit) | 0.11.0 | 0 | Documentation site shell for Topcoat applications, on the oxidt-docs-kit conten… |
+| 2026-10-21 13:28:08 | [ferrigura-venn](https://crates.io/crates/ferrigura-venn) | 0.1.0 | 0 | The layout of @upsetjs/venn.js 2.0.0 (the part Mermaid's venn renderer reaches)… |
+| 2026-10-21 13:31:03 | [vj-vpi](https://crates.io/crates/vj-vpi) | 0.1.0 | 0 | VPI (IEEE 1800-2023 clause 36-38) implementation for the vj SystemVerilog simul… |
+| 2026-10-21 13:34:20 | [gdfmt_text](https://crates.io/crates/gdfmt_text) | 0.1.0-alpha.3 | 0 | Source spans and structured diagnostics for the gdfmt GDScript formatter |
+| 2026-10-21 13:34:30 | [gdfmt_syntax](https://crates.io/crates/gdfmt_syntax) | 0.1.0-alpha.3 | 0 | Lossless syntax trees and language profiles for GDScript |
+| 2026-10-21 13:34:38 | [gdfmt_parser](https://crates.io/crates/gdfmt_parser) | 0.1.0-alpha.3 | 0 | Lossless GDScript lexer and parser for gdfmt |
+| 2026-10-21 13:34:48 | [gdfmt_formatter](https://crates.io/crates/gdfmt_formatter) | 0.1.0-alpha.3 | 0 | Document layout and comment-preserving formatting for GDScript |
+| 2026-10-21 13:34:56 | [gdfmt](https://crates.io/crates/gdfmt) | 0.1.0-alpha.3 | 0 | Validated GDScript formatting with syntax and comment preservation |
+| 2026-10-21 13:35:01 | [polar-rsh](https://crates.io/crates/polar-rsh) | 0.1.0 | 0 | Async Rust SDK for Polar with selectable API versions |
+| 2026-10-21 13:38:14 | [ferrigura-swimlane](https://crates.io/crates/ferrigura-swimlane) | 0.1.0 | 0 | The swimlane layout ported from Mermaid 12.2.0's swimlanes layout engine: the S… |
+| 2026-10-21 13:40:43 | [cp2k-libxs-sys](https://crates.io/crates/cp2k-libxs-sys) | 0.3.2 | 0 | Static LIBXS build for cp2k-rs |
+| 2026-10-21 13:41:08 | [vj-aot](https://crates.io/crates/vj-aot) | 0.1.0 | 0 | Slang-free ahead-of-time runner archive of the vj SystemVerilog simulator. |
+| 2026-10-21 13:43:16 | [identity-metadata-client](https://crates.io/crates/identity-metadata-client) | 0.1.0 | 0 | Client to access and manage public identity information. |
+| 2026-10-21 13:43:50 | [voxl-server](https://crates.io/crates/voxl-server) | 0.1.0 | 0 | Low-latency desktop streaming for the browser: an X11 display or a Mac's screen… |
+| 2026-10-21 13:45:11 | [gdfmt_config](https://crates.io/crates/gdfmt_config) | 0.1.0-alpha.3 | 0 | Configuration and JSON Schema for the gdfmt GDScript formatter |
+| 2026-10-21 13:48:31 | [ferrigura-syntax](https://crates.io/crates/ferrigura-syntax) | 0.1.0 | 0 | Shared lexer base, YAML reader and hand-written parsers for ferrigura diagram t… |
+| 2026-10-21 13:56:57 | [rtnetlink-android](https://crates.io/crates/rtnetlink-android) | 0.16.1 | 0 | manipulate linux networking resources via netlink (fork of rtnetlink with Andro… |
+| 2026-10-21 13:58:56 | [ferrigura-render](https://crates.io/crates/ferrigura-render) | 0.1.0 | 0 | Layout and SVG output of ferrigura diagrams |
+| 2026-10-21 13:59:05 | [bacnet-npdu](https://crates.io/crates/bacnet-npdu) | 0.14.0 | 0 | The no-std BACnet network-layer vocabulary (Clause 6): a borrowed NPDU view and… |
+| 2026-10-21 14:02:07 | [egui-pop-test-macros](https://crates.io/crates/egui-pop-test-macros) | 0.1.0 | 0 | Attributes for the egui-pop test kit: `critical`, the mark of a test that runs… |
+| 2026-10-21 14:05:35 | [avcopan_trialrs](https://crates.io/crates/avcopan_trialrs) | 0.0.1 | 0 | Test repository |
+| 2026-10-21 14:09:13 | [ferrigura](https://crates.io/crates/ferrigura) | 0.1.0 | 0 | Render Mermaid diagram text to SVG, without a browser |
+| 2026-10-21 14:10:52 | [dfir-orc](https://crates.io/crates/dfir-orc) | 0.1.0 | 0 | Alpha Rust implementation of DFIR ORC, a framework to collect forensic artefact… |
+| 2026-10-21 14:11:34 | [csrf-sec](https://crates.io/crates/csrf-sec) | 0.1.0 | 0 | Request-forgery protection for Rust services: signed, session-bound tokens mask… |
+| 2026-10-21 14:14:02 | [patamaps-icu-collator](https://crates.io/crates/patamaps-icu-collator) | 2.2.1-patamaps.1 | 0 | API for comparing strings according to language-dependent conventions |
+| 2026-10-21 14:14:36 | [lattice-inference-core](https://crates.io/crates/lattice-inference-core) | 0.14.0 | 0 | Shared error types for Lattice inference crates |
+| 2026-10-21 14:14:37 | [lattice-tokenizer](https://crates.io/crates/lattice-tokenizer) | 0.14.0 | 0 | Pure Rust tokenizers for Lattice inference |
+| 2026-10-21 14:14:42 | [patamaps-contracts](https://crates.io/crates/patamaps-contracts) | 0.1.0-alpha.1 | 0 | Draft portable contracts and strict canonical JSON for Patamaps |
+| 2026-10-21 14:15:24 | [rbox-anlz](https://crates.io/crates/rbox-anlz) | 0.2.0 | 0 | Rekordbox ANLZ file handler |
+| 2026-10-21 14:16:02 | [patamaps-core](https://crates.io/crates/patamaps-core) | 0.1.0-alpha.1 | 0 | Deterministic correspondence checking and admission for Patamaps |
+| 2026-10-21 14:16:03 | [gdfmt_workspace](https://crates.io/crates/gdfmt_workspace) | 0.1.0-alpha.3 | 0 | File discovery, configuration resolution and guarded writes for gdfmt |
+| 2026-10-21 14:16:07 | [rbox-core](https://crates.io/crates/rbox-core) | 0.2.0 | 0 | Core utilities rbox |
+| 2026-10-21 14:16:18 | [gdfmt_cli](https://crates.io/crates/gdfmt_cli) | 0.1.0-alpha.3 | 0 | Command-line GDScript formatter with validated output |
+| 2026-10-21 14:16:19 | [uad-macros](https://crates.io/crates/uad-macros) | 0.1.0 | 0 | Procedural macros for uad-server: route registration, controllers, middleware,… |
+| 2026-10-21 14:16:21 | [bens-chat-shared](https://crates.io/crates/bens-chat-shared) | 0.1.0 | 0 | This crate lest anyone make programs that send and receive messages for bens ch… |
+| 2026-10-21 14:16:22 | [rbox-db](https://crates.io/crates/rbox-db) | 0.2.0 | 0 | Rekordbox Sqlite database core |
+| 2026-10-21 14:16:31 | [patamaps-projection](https://crates.io/crates/patamaps-projection) | 0.1.0-alpha.1 | 0 | Checked native projections for Patamaps |
+| 2026-10-21 14:16:35 | [rbox-setting](https://crates.io/crates/rbox-setting) | 0.2.0 | 0 | Rekordbox Setting file handler |
+| 2026-10-21 14:16:47 | [rbox-xml](https://crates.io/crates/rbox-xml) | 0.2.0 | 0 | Rekordbox XML file handler |
+| 2026-10-21 14:17:09 | [c2c](https://crates.io/crates/c2c) | 0.1.0 | 0 | Colon type notation to C style type notation translator |
+| 2026-10-21 14:17:14 | [patamaps-governance](https://crates.io/crates/patamaps-governance) | 0.1.0-alpha.1 | 0 | Pure external approval verification for exact native correspondence artifacts |
+| 2026-10-21 14:18:55 | [delegate-trait-macros](https://crates.io/crates/delegate-trait-macros) | 0.1.0 | 0 | Procedural macros for the `delegate-trait` crate |
+| 2026-10-21 14:18:56 | [delegate-trait](https://crates.io/crates/delegate-trait) | 0.1.0 | 0 | Delegate trait implementations to a `dyn Trait` view of a type, enabling blanke… |
+| 2026-10-21 14:19:30 | [ferrigura-cli](https://crates.io/crates/ferrigura-cli) | 0.1.0 | 0 | Render a Mermaid diagram file to SVG from the command line |
+| 2026-10-21 14:19:39 | [gpui-rsx-core](https://crates.io/crates/gpui-rsx-core) | 0.8.0 | 0 | Parser and code generator behind gpui-rsx, usable from tools (CLI, LSP, playgro… |
 
 ## Data source
 

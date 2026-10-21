@@ -1,0 +1,57 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T13:20:57.781963Z,vj-codegen,0.1.0,0,0,,LLVM code generator of the vj SystemVerilog simulator.
+2026-10-21T13:21:15.120064Z,nlipsy-protocol,0.1.2,0,0,https://github.com/laktoosivaba/nlipsy,"NLIP message model, and the rules ECMA-430 clause 5 states about it"
+2026-10-21T13:21:20.851581Z,nlipsy-core,0.1.2,0,0,https://github.com/laktoosivaba/nlipsy,"The NLIP runtime core: clause 6 of ECMA-430 as values and traits, with no opinion about execution"
+2026-10-21T13:21:25.892005Z,nlipsy-http,0.1.2,0,0,https://github.com/laktoosivaba/nlipsy,"ECMA-431 §6 as values: the status map, the header spellings, the two Retry-After directions and the error bodies of the NLIP HTTP binding"
+2026-10-21T13:21:50.19963Z,nlipsy-http-client,0.1.2,0,0,https://github.com/laktoosivaba/nlipsy,"The ECMA-431 client binding of NLIP: one HTTP exchange with a peer end-point, over reqwest or hyper"
+2026-10-21T13:22:02.902524Z,nlipsy-server,0.1.2,0,0,https://github.com/laktoosivaba/nlipsy,The ECMA-431 server binding of NLIP: an axum router around a clause-6-conformant end-point
+2026-10-21T13:23:08.912584Z,nlipsy,0.1.2,0,0,https://github.com/laktoosivaba/nlipsy,NLIP (ECMA-430) for Rust: the facade over the nlipsy-* crates
+2026-10-21T13:27:08.613828Z,device-driver-lsp,2.2.0,0,0,https://github.com/diondokter/device-driver,LSP implementation for device-driver
+2026-10-21T13:27:27.608773Z,oxidt-mdx,0.11.0,0,0,https://github.com/oxidt/oxidt-docs-kit,"MDX parser and document types: Mintlify-style components, OpenAPI specs and Markdown to HTML, with no UI framework"
+2026-10-21T13:27:29.73833Z,oxidt-docs-kit-build,0.11.0,0,0,https://github.com/oxidt/oxidt-docs-kit,"Build-time helper for oxidt-docs-kit and dioxus-docs-kit: parses docs, blog posts and OpenAPI specs into an embeddable content bundle"
+2026-10-21T13:27:32.232892Z,oxidt-docs-kit-core,0.11.0,0,0,https://github.com/oxidt/oxidt-docs-kit,"UI-framework-agnostic core of oxidt-docs-kit and dioxus-docs-kit: content bundle, registries, search and SEO helpers"
+2026-10-21T13:27:34.385324Z,topcoat-docs-kit,0.11.0,0,0,https://github.com/oxidt/oxidt-docs-kit,"Documentation site shell for Topcoat applications, on the oxidt-docs-kit content pipeline"
+2026-10-21T13:28:08.005733Z,ferrigura-venn,0.1.0,0,0,https://github.com/sebastian-software/ferrigura,"The layout of @upsetjs/venn.js 2.0.0 (the part Mermaid's venn renderer reaches), ported from the JavaScript bundle: circle placement, text centres, with fmin's minimisers"
+2026-10-21T13:31:03.878574Z,vj-vpi,0.1.0,0,0,,VPI (IEEE 1800-2023 clause 36-38) implementation for the vj SystemVerilog simulator.
+2026-10-21T13:34:20.202039Z,gdfmt_text,0.1.0-alpha.3,0,0,https://github.com/ntnyq/gdfmt,Source spans and structured diagnostics for the gdfmt GDScript formatter
+2026-10-21T13:34:30.292351Z,gdfmt_syntax,0.1.0-alpha.3,0,0,https://github.com/ntnyq/gdfmt,Lossless syntax trees and language profiles for GDScript
+2026-10-21T13:34:38.7383Z,gdfmt_parser,0.1.0-alpha.3,0,0,https://github.com/ntnyq/gdfmt,Lossless GDScript lexer and parser for gdfmt
+2026-10-21T13:34:48.726208Z,gdfmt_formatter,0.1.0-alpha.3,0,0,https://github.com/ntnyq/gdfmt,Document layout and comment-preserving formatting for GDScript
+2026-10-21T13:34:56.205807Z,gdfmt,0.1.0-alpha.3,0,0,https://github.com/ntnyq/gdfmt,Validated GDScript formatting with syntax and comment preservation
+2026-10-21T13:35:01.841314Z,polar-rsh,0.1.0,0,0,https://github.com/undefined-oss/polar-rsh,Async Rust SDK for Polar with selectable API versions
+2026-10-21T13:38:14.684568Z,ferrigura-swimlane,0.1.0,0,0,https://github.com/sebastian-software/ferrigura,"The swimlane layout ported from Mermaid 12.2.0's swimlanes layout engine: the Sugiyama phases, the orthogonal router and the geometry passes (MIT)"
+2026-10-21T13:40:43.798242Z,cp2k-libxs-sys,0.3.2,0,0,https://gitlab.git.nrw/uni-ms/ag-salinga/cp2k-rs,Static LIBXS build for cp2k-rs
+2026-10-21T13:41:08.345907Z,vj-aot,0.1.0,0,0,,Slang-free ahead-of-time runner archive of the vj SystemVerilog simulator.
+2026-10-21T13:43:16.931305Z,identity-metadata-client,0.1.0,0,0,https://github.com/dataspace-rs/identity-metadata-client,Client to access and manage public identity information.
+2026-10-21T13:43:50.40615Z,voxl-server,0.1.0,0,0,https://github.com/tembo/voxl,Low-latency desktop streaming for the browser: an X11 display or a Mac's screen as H.264 over a WebSocket
+2026-10-21T13:45:11.374992Z,gdfmt_config,0.1.0-alpha.3,0,0,https://github.com/ntnyq/gdfmt,Configuration and JSON Schema for the gdfmt GDScript formatter
+2026-10-21T13:48:31.122548Z,ferrigura-syntax,0.1.0,0,0,https://github.com/sebastian-software/ferrigura,"Shared lexer base, YAML reader and hand-written parsers for ferrigura diagram types"
+2026-10-21T13:56:57.635931Z,rtnetlink-android,0.16.1,0,0,https://github.com/rust-netlink/rtnetlink,manipulate linux networking resources via netlink (fork of rtnetlink with Android build fix)
+2026-10-21T13:58:56.351407Z,ferrigura-render,0.1.0,0,0,https://github.com/sebastian-software/ferrigura,Layout and SVG output of ferrigura diagrams
+2026-10-21T13:59:05.57939Z,bacnet-npdu,0.14.0,0,0,https://github.com/jscott3201/rusty-bacnet,"The no-std BACnet network-layer vocabulary (Clause 6): a borrowed NPDU view and encoder, network message types, reject reasons, network priority and NPDU limits"
+2026-10-21T14:02:07.784134Z,egui-pop-test-macros,0.1.0,0,0,https://github.com/quazardous/egui-pop,"Attributes for the egui-pop test kit: `critical`, the mark of a test that runs on every change (re-exported by egui-pop-test)"
+2026-10-21T14:05:35.379272Z,avcopan_trialrs,0.0.1,0,0,https://github.com/avcopan/avcopan_trialrs,Test repository
+2026-10-21T14:09:13.903392Z,ferrigura,0.1.0,0,0,https://github.com/sebastian-software/ferrigura,"Render Mermaid diagram text to SVG, without a browser"
+2026-10-21T14:10:52.451405Z,dfir-orc,0.1.0,0,0,https://github.com/DFIR-ORC/dfir-orc-rs,"Alpha Rust implementation of DFIR ORC, a framework to collect forensic artefacts on Windows"
+2026-10-21T14:11:34.802508Z,csrf-sec,0.1.0,0,0,https://github.com/jamesgober/csrf-sec,"Request-forgery protection for Rust services: signed, session-bound tokens masked per response, plus Fetch Metadata and Origin policy. Stateless, protocol-free, no allocation on verify."
+2026-10-21T14:14:02.030129Z,patamaps-icu-collator,2.2.1-patamaps.1,0,0,https://github.com/roryscot/patamaps,API for comparing strings according to language-dependent conventions
+2026-10-21T14:14:36.039074Z,lattice-inference-core,0.14.0,0,0,https://github.com/ohdearquant/lattice,Shared error types for Lattice inference crates
+2026-10-21T14:14:37.775536Z,lattice-tokenizer,0.14.0,0,0,https://github.com/ohdearquant/lattice,Pure Rust tokenizers for Lattice inference
+2026-10-21T14:14:42.167683Z,patamaps-contracts,0.1.0-alpha.1,0,0,https://github.com/roryscot/patamaps,Draft portable contracts and strict canonical JSON for Patamaps
+2026-10-21T14:15:24.990351Z,rbox-anlz,0.2.0,0,0,https://github.com/dylanljones/rbox,Rekordbox ANLZ file handler
+2026-10-21T14:16:02.386759Z,patamaps-core,0.1.0-alpha.1,0,0,https://github.com/roryscot/patamaps,Deterministic correspondence checking and admission for Patamaps
+2026-10-21T14:16:03.715666Z,gdfmt_workspace,0.1.0-alpha.3,0,0,https://github.com/ntnyq/gdfmt,"File discovery, configuration resolution and guarded writes for gdfmt"
+2026-10-21T14:16:07.595075Z,rbox-core,0.2.0,0,0,https://github.com/dylanljones/rbox,Core utilities rbox
+2026-10-21T14:16:18.333257Z,gdfmt_cli,0.1.0-alpha.3,0,0,https://github.com/ntnyq/gdfmt,Command-line GDScript formatter with validated output
+2026-10-21T14:16:19.281937Z,uad-macros,0.1.0,0,0,https://github.com/theunal/uad-macros,"Procedural macros for uad-server: route registration, controllers, middleware, authorization and request validation"
+2026-10-21T14:16:21.299156Z,bens-chat-shared,0.1.0,0,0,,This crate lest anyone make programs that send and receive messages for bens chat
+2026-10-21T14:16:22.825393Z,rbox-db,0.2.0,0,0,https://github.com/dylanljones/rbox,Rekordbox Sqlite database core
+2026-10-21T14:16:31.196494Z,patamaps-projection,0.1.0-alpha.1,0,0,https://github.com/roryscot/patamaps,Checked native projections for Patamaps
+2026-10-21T14:16:35.071673Z,rbox-setting,0.2.0,0,0,https://github.com/dylanljones/rbox,Rekordbox Setting file handler
+2026-10-21T14:16:47.695973Z,rbox-xml,0.2.0,0,0,https://github.com/dylanljones/rbox,Rekordbox XML file handler
+2026-10-21T14:17:09.424772Z,c2c,0.1.0,0,0,https://github.com/MilkBomb11/c2c,Colon type notation to C style type notation translator
+2026-10-21T14:17:14.084529Z,patamaps-governance,0.1.0-alpha.1,0,0,https://github.com/roryscot/patamaps,Pure external approval verification for exact native correspondence artifacts
+2026-10-21T14:18:55.173536Z,delegate-trait-macros,0.1.0,0,0,https://github.com/mtimmerm/delegate-trait,Procedural macros for the `delegate-trait` crate
+2026-10-21T14:18:56.151632Z,delegate-trait,0.1.0,0,0,https://github.com/mtimmerm/delegate-trait,"Delegate trait implementations to a `dyn Trait` view of a type, enabling blanket implementations"
+2026-10-21T14:19:30.659859Z,ferrigura-cli,0.1.0,0,0,https://github.com/sebastian-software/ferrigura,Render a Mermaid diagram file to SVG from the command line
+2026-10-21T14:19:39.471744Z,gpui-rsx-core,0.8.0,0,0,https://github.com/wsafight/gpui-rsx,"Parser and code generator behind gpui-rsx, usable from tools (CLI, LSP, playground)"
