@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T16:26:09.573253Z,forge-bevy-assets,0.1.0,0,0,https://github.com/KyleTamayo/forge-asset-libraries,"Bevy asset sidecars, LODs, morphs, root motion, scene instances and optional Rapier integration"
+2026-10-21T16:27:09.22353Z,segul-core,0.24.0,0,0,https://github.com/hhandika/segul,An ultrafast and memory-efficient tool for phylogenomics
+2026-10-21T16:28:32.666917Z,paperstack,0.1.4,0,0,https://github.com/YPARK/paperstack,"A library of papers in the terminal: PDFs and their references, kept in a folder an agent can read"
+2026-10-21T16:32:13.694489Z,systemgen,0.2.0,0,0,https://github.com/matburt/systemgen-rs,"Plausible star systems from a seed: accretion physics, then Traveller-shaped world profiles."
+2026-10-21T16:32:22.51359Z,cmdspec,0.0.1,0,0,https://github.com/cmdspec/cli,"Lint, complete and document CLIs that declare themselves with cmdspec"
+2026-10-21T16:35:40.127624Z,zincha-primitives,0.1.0,0,0,https://github.com/zinchain/zincha-sdk,Public client-safe primitives for the Zincha chain.
+2026-10-21T16:37:47.031767Z,zincha-client,0.1.0,0,0,https://github.com/zinchain/zincha-sdk,HTTP and WebSocket client helpers for the Zincha chain.
+2026-10-21T16:38:07.161439Z,zincha-cli-core,0.1.0,0,0,https://github.com/zinchain/zincha-sdk,Shared public CLI command implementation for Zincha.
+2026-10-21T16:38:16.366482Z,zincha-cli,0.1.0,0,0,https://github.com/zinchain/zincha-sdk,Public Zincha developer CLI.
+2026-10-21T16:51:10.829338Z,thunderprint,0.1.0,0,0,https://github.com/Hexay/thunderprint,"Locate where and when an audio recording was made from the thunder in it, using lightning detection data"
+2026-10-21T16:58:11.815954Z,geometry-types,0.1.0,0,0,,simple geometry collections for 2d graphics
+2026-10-21T16:59:52.413199Z,yav-core,0.1.0,0,0,https://github.com/isaacvay/yav.rs,"Core types, rendering engine, and HTML escaping for the Yav web framework"
+2026-10-21T17:00:08.342359Z,yav-macros,0.1.0,0,0,https://github.com/isaacvay/yav.rs,"Procedural macros (rsx!, #[component]) for the Yav web framework"
+2026-10-21T17:00:23.475219Z,yav-router,0.1.0,0,0,https://github.com/isaacvay/yav.rs,File-based routing system for the Yav web framework
+2026-10-21T17:01:10.876006Z,yav-icons,0.1.0,0,0,https://github.com/isaacvay/yav.rs,"Built-in icon system with Lucide, MynaUI, and Phosphor icons for the Yav web framework"
+2026-10-21T17:01:30.305658Z,yav-build,0.1.0,0,0,https://github.com/isaacvay/yav.rs,Build pipeline and Tailwind CSS integration for the Yav web framework
+2026-10-21T17:10:21.080795Z,git-no-claude-code-attr,0.1.0,0,0,https://github.com/bboxy450/git-no-claude-code-attr,A Git wrapper that removes Claude and Anthropic attribution from new commit messages
+2026-10-21T17:10:53.68704Z,yav-ui,0.1.0,0,0,https://github.com/isaacvay/yav.rs,Official UI component library for the Yav web framework
+2026-10-21T17:11:29.324228Z,quantstats,0.2.0,0,0,https://github.com/whsmacon/quantstats-js,"Portfolio analytics and tearsheet metrics for Rust — a port of quantstats-js (QuantStats-style statistics: Sharpe, Sortino, drawdowns, VaR/CVaR, Omega, probabilistic Sharpe, benchmark greeks, and an…"
+2026-10-21T17:15:04.844738Z,deew,4.0.0,0,0,https://github.com/pcroland/deew,Dolby Encoding Engine Wrapper
