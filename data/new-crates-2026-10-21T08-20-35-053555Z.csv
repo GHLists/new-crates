@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T07:20:37.344875Z,iet-config-env,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Explicit immutable environment snapshot. No dotenv or background reload.
+2026-10-21T07:20:45.071805Z,gander-core,0.6.2,0,0,https://github.com/pandasir/gander,Platform data collection and process model for gander. No UI dependency.
+2026-10-21T07:21:03.191367Z,orbit-te,0.1.0-alpha.1,0,0,https://github.com/OrbitInfra/OrbitTE,OrbitTE: a Rust-native transfer engine for AI infrastructure (early development)
+2026-10-21T07:21:19.953634Z,gander-config,0.6.2,0,0,https://github.com/pandasir/gander,TOML configuration and htoprc importer for gander.
+2026-10-21T07:21:42.83619Z,gander-tui,0.6.2,0,0,https://github.com/pandasir/gander,ratatui front end for gander.
+2026-10-21T07:21:57.400396Z,gander-bin,0.6.2,0,0,https://github.com/pandasir/gander,Executable entry point for gander.
+2026-10-21T07:22:56.724921Z,tola-address,0.8.1,0,0,https://github.com/tola-rs/tola-ssg,"Address identity for Tola sites: slugs, routes, logical output paths, and browser URLs"
+2026-10-21T07:23:43.92955Z,pptxcraft,0.1.0,0,0,https://github.com/AlgForce/pptxcraft,"Generate editable PPTX presentations with charts, tables, images and SVG drawings"
+2026-10-21T07:24:59.031853Z,docxcraft,0.1.0,0,0,https://github.com/AlgForce/docxcraft,"Generate editable DOCX documents with rich text, tables, charts and SVG drawings"
+2026-10-21T07:25:53.995806Z,elecrust-console,0.0.1,0,0,https://github.com/houxd/elecrust_console,A Console use for Elecrust.
+2026-10-21T07:28:47.125921Z,mem_leak,0.1.0,0,0,,Leaks Memory
+2026-10-21T07:30:38.935617Z,iet-config-macros,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Source-independent typed configuration derive.
+2026-10-21T07:34:59.641168Z,proteus-bio-dssp,0.12.0,0,0,https://github.com/OtoYuki/proteus,Pure-Rust Kabsch-Sander DSSP secondary-structure assignment (DSSP 2.x semantics).
+2026-10-21T07:35:01.620677Z,proteus-bio-esm,0.12.0,0,0,https://github.com/OtoYuki/proteus,"ESM-2 protein language model inference in pure Rust (candle): masked-marginal mutation scoring, deep mutational scans."
+2026-10-21T07:35:07.19249Z,proteus-bio-core,0.12.0,0,0,https://github.com/OtoYuki/proteus,"Domain models, FASTA parsing, in-silico mutagenesis, and native biophysical calculations for Proteus."
+2026-10-21T07:35:12.128367Z,proteus-bio-render,0.12.0,0,0,https://github.com/OtoYuki/proteus,"Pure-Rust software 3D rasterizer, cartoon ribbon extruder, and terminal viewport engine for Proteus."
+2026-10-21T07:35:14.099772Z,proteus-bio-storage,0.12.0,0,0,https://github.com/OtoYuki/proteus,Embedded SQLite persistence and Apache Parquet data lake exporter for Proteus.
+2026-10-21T07:36:14.284324Z,tola-packages,0.8.1,0,0,https://github.com/tola-rs/tola-ssg,"The builtin @tola/* Typst packages: their identity, sources, natives, and the engine contract"
+2026-10-21T07:37:50.10674Z,elecrust-panic-handler,0.0.1,0,0,https://github.com/houxd/elecrust-panic-handler,Panic handler for Elecrust
+2026-10-21T07:40:37.533989Z,iet-http-htmx-axum,0.1.1,0,0,https://github.com/MasLazu/iet-fw,HTMX-aware server-rendered HTML primitives for Axum applications.
+2026-10-21T07:41:38.524585Z,tola-build,0.8.1,0,0,https://github.com/tola-rs/tola-ssg,The site construction engine for Tola
+2026-10-21T07:44:27.642679Z,liquid-verre-rs,0.4.1,0,0,https://github.com/baiwusanyu-c/tarui-glass,Windows 桌面玻璃窗口组件库：液态玻璃（WGC/DDA 采集 + D3D11 模糊金字塔 + DirectComposition 合成 + Snell 折射）与透明玻璃两种模式
+2026-10-21T07:46:24.720699Z,reviewloop,0.0.1,0,0,https://github.com/Acture/reviewloop,"Reproducible, guardrailed automation for academic review workflows on paperreview.ai"
+2026-10-21T07:46:58.706835Z,proteus-bio-engine,0.12.0,0,0,https://github.com/OtoYuki/proteus,Asynchronous DAG pipeline scheduler and OCI/Podman container runner for Proteus.
+2026-10-21T07:50:37.497505Z,iet-telemetry,0.1.1,0,0,https://github.com/MasLazu/iet-fw,"Bounded operation identities, concrete futures and compile-time no-op recording."
+2026-10-21T07:51:21.687367Z,parsh,0.0.0,0,0,https://github.com/jmjoy/parsh,A shell built around S-expressions.
+2026-10-21T07:51:22.075629Z,docrs,0.1.0,0,0,https://github.com/endigo/docrs,"Preservation-first DOCX editing: find, replace, tracked changes and comparison that keep everything else byte for byte; Markdown and HTML to Word with a reference template."
+2026-10-21T07:51:38.638404Z,docrs-cli,0.1.0,0,0,https://github.com/endigo/docrs,"The docrs command: find, replace, review, compare and compose .docx files without disturbing the rest, and convert Markdown to Word with a template."
+2026-10-21T07:51:50.901662Z,tola-lsp,0.8.1,0,0,https://github.com/tola-rs/tola-ssg,Host-aware language services for Tola sources
+2026-10-21T07:53:30.712609Z,elecrust-c-allocator,0.0.1,0,0,https://github.com/houxd/elecrust-c-allocator,A C allocator for Elecrust
+2026-10-21T07:53:41.281716Z,gridxcel-rs,0.1.1,0,0,https://github.com/EdisonJwa/gridxcel-rs,A pure-Rust reader for Excel and OpenDocument spreadsheet files
+2026-10-21T07:57:36.653414Z,proteus-bio-server,0.12.0,0,0,https://github.com/OtoYuki/proteus,Headless Axum daemon (proteusd) with Server-Sent Events and OpenAPI documentation for Proteus.
+2026-10-21T07:57:39.277408Z,furnace-burn,0.12.0,0,0,https://github.com/Gilfeather/furnace,"Serve Burn models with furnace: a forward function, a model of named tensors, Burnpack weights and ONNX models compiled to Burn"
+2026-10-21T07:57:42.00482Z,elecrust-bindgen,0.0.1,0,0,https://github.com/houxd/elecrust-bindgen,A bindgen for Elecrust
+2026-10-21T07:59:45.594342Z,furnace-cli,0.12.0,0,0,https://github.com/Gilfeather/furnace,"The furnace command: serve ONNX models compiled to Burn over the KServe / Triton Open Inference Protocol, in pure Rust"
+2026-10-21T08:00:39.00704Z,iet-auth-basic,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Email/username + password authentication. Not the HTTP Basic wire scheme.
+2026-10-21T08:05:47.931484Z,proteus-bio,0.12.0,0,0,https://github.com/OtoYuki/proteus,"Unified CLI binary for Proteus: mutation, screening, biophysical analysis, and terminal 3D inspection."
+2026-10-21T08:06:59.135617Z,treble-lang,0.6.3,0,0,https://github.com/MinIndustry/treble-lang,A live coding language for treble
+2026-10-21T08:10:37.528375Z,iet-auth-session-opaque,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Opaque random session keys; storage and transport are independently selected.
+2026-10-21T08:12:33.614986Z,rune-code,0.4.0,0,0,https://github.com/SickleFire/rune,"An expert AI coding assistant integrated into software development workspaces, CLI, and game engines (Unity/Godot)"
