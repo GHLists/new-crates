@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T00:21:18.711741Z,outram-park-mpi,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"Independent pure-Rust translation of an MPICH subset — the MPI-3 API surface (communicators, datatypes, point-to-point, core collectives) over a shared-memory threads-as-ranks transport. No C/FFI, An…"
+2026-10-21T00:23:39.993714Z,bic,0.2.0,0,0,https://github.com/proteo5/bic,"Experimental lossless image codec for screenshots, diagrams and other flat graphics; little or no gain on photographs"
+2026-10-21T00:23:50.614714Z,dogstyle,1.0.0,0,0,,Imprime un mensaje de hola por pantalla.
+2026-10-21T00:24:43.336202Z,outram-park-fork-thermochimica,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"Independent pure-Rust fork/translation of ORNL Thermochimica (BSD-3) — molten-salt Gibbs-energy-minimisation thermochemistry (fission-product speciation, redox, solubility) for the MSRE digital twin.…"
+2026-10-21T00:24:47.069457Z,outram-park-fork-onix,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,Independent pure-Rust fork/translation of ONIX (open-source depletion/burnup; MIT upstream) — Bateman/CRAM depletion + fission-product inventory for the MSRE digital twin. SCAFFOLD: no human V&V. Not…
+2026-10-21T00:24:50.78825Z,ferrotable,0.0.1,0,0,,Placeholder for the actively developed FerroTable data grid
+2026-10-21T00:30:45.708208Z,tikra,1.0.0,0,0,https://github.com/matheusmota-dev-br/tikra,TikZ figures to SVG and PNG with no TeX install; math labels by mathra.
+2026-10-21T00:30:56.783766Z,tikra-cli,1.0.0,0,0,https://github.com/matheusmota-dev-br/tikra,Command line for tikra: TikZ to SVG and PNG.
+2026-10-21T00:34:44.976835Z,tiktok-shop-api,0.1.0,0,0,https://github.com/isaackogan/TikTok-Shop-Api-SDKs,"TikTok Shop Partner API client for Rust: generated from the documentation, with request signing. Unofficial. Not affiliated with or endorsed by TikTok or ByteDance."
+2026-10-21T00:37:23.440854Z,letratag-protocol,0.1.1,0,0,https://github.com/VikingOwl91/letratag-linux,Bounded LetraTag LT-200B raster and wire protocol encoding
+2026-10-21T00:37:38.588457Z,baukit-data-subject,0.10.32,0,0,https://github.com/PatrickKoss/baukit,"Data subject contract, identifier normalization, and signed DSSE receipts."
+2026-10-21T00:38:17.290205Z,letratag-render,0.1.1,0,0,https://github.com/VikingOwl91/letratag-linux,Bounded PNG and grayscale rendering for LetraTag rasters
+2026-10-21T00:41:47.601261Z,agentrecorder-store,0.1.0,0,0,https://github.com/Druidder-Labs/agentrecorder,SQLite session and event store for agentrecorder
+2026-10-21T00:41:50.09721Z,agentrecorder-supervisor,0.1.0,0,0,https://github.com/Druidder-Labs/agentrecorder,"Per-session PTY supervisor, socket protocol and screen model for agentrecorder"
+2026-10-21T00:41:53.124899Z,agentrecorder,0.1.0,0,0,https://github.com/Druidder-Labs/agentrecorder,"Run, inspect, recover and replay terminal sessions of AI coding agents"
+2026-10-21T00:49:23.107129Z,deck-based-open-source-visualisation-engine-for-reactors-dover,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,"DOVER (Deck-based Open-source Visualisation Engine for Reactors) — low-fidelity reactor models driven by TOML input decks, headless. First case: steam methane reforming in a CSTR."
+2026-10-21T00:49:31.376122Z,outram-park-fork-moltres,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,MSR neutronics + thermal-hydraulics on the outram-foam finite-volume layer — physics formulation from the LGPL Moltres code (circulating-fuel group diffusion + delayed-neutron precursor drift + salt…
+2026-10-21T00:50:12.055448Z,rmeshopt,0.1.1,0,0,https://github.com/CrazyboyQCD/rmeshopt,"Safe, no_std-capable Rust port of meshoptimizer: mesh processing algorithms that make meshes ready for GPU consumption"
+2026-10-21T00:52:38.745384Z,lazydn,0.1.0,0,0,https://github.com/myuron/lazydn,A terminal UI client for dev-null.sh
+2026-10-21T00:52:39.950489Z,polystrata,0.1.0,0,0,https://github.com/pboyer/polystrata,"High-performance 2D polygon clipping, Boolean operations, and topological healing kernel"
+2026-10-21T00:54:02.695226Z,letratag-transport,0.1.1,0,0,https://github.com/VikingOwl91/letratag-linux,"Bounded mock and BlueZ transports for LetraTag printers, with adaptive GATT chunk sizing"
+2026-10-21T00:57:20.837685Z,simien_capacity_builder_macros,0.1.1,0,0,https://github.com/simienapp/core,Macros for simien_capacity_builder. Forked from capacity_builder_macros 0.3.0.
+2026-10-21T00:57:23.578752Z,simien_maybe_sync,0.1.1,0,0,https://github.com/simienapp/core,"Rc or Arc depending on a feature, for Simien. Forked from deno_maybe_sync 0.46.0."
+2026-10-21T00:57:25.842187Z,simien_media_type,0.1.1,0,0,https://github.com/simienapp/core,"Media types of JavaScript and TypeScript files, for Simien. Forked from deno_media_type 0.4.0."
+2026-10-21T00:57:27.953396Z,simien_monch,0.1.1,0,0,https://github.com/simienapp/core,"Parser combinators, for Simien. Forked from monch 0.6.0."
+2026-10-21T00:57:30.930706Z,simien_sys_traits_macros,0.1.1,0,0,https://github.com/simienapp/core,Macros for simien_sys_traits. Forked from sys_traits_macros 0.1.0.
+2026-10-21T01:02:20.906634Z,simien_terminal,0.1.1,0,0,https://github.com/simienapp/core,"Terminal colours and helpers, for Simien. Forked from deno_terminal 0.2.3."
+2026-10-21T01:12:20.294892Z,simien_capacity_builder,0.1.1,0,0,https://github.com/simienapp/core,"Builders that compute capacity before allocating, for Simien. Forked from capacity_builder 0.5.0."
+2026-10-21T01:13:25.681434Z,hdrshot-core,2.0.0,0,0,https://github.com/snaketech-tu/hdrshot,"Library behind hdrshot: decode HDR images and encode HDR PNG, AVIF, Ultra HDR JPEG and tone-mapped SDR PNG"
+2026-10-21T01:14:00.42055Z,hdrshot-egui-backend,0.1.0,0,0,https://github.com/snaketech-tu/hdrshot,"CPU renderer for egui (vendored from egui_software_backend 0.0.3, ported to egui 0.37)"
+2026-10-21T01:14:13.100583Z,hdrshot,2.0.0,0,0,https://github.com/snaketech-tu/hdrshot,"HDR image tool: convert HDR screenshots (JXR, EXR, JXL, HDR PNG) to HDR PNG, AVIF, Ultra HDR JPEG and SDR PNG"
+2026-10-21T01:14:44.159653Z,hdrshot-gui,2.0.0,0,0,https://github.com/snaketech-tu/hdrshot,HDR image tool: desktop app for converting HDR screenshots and images
