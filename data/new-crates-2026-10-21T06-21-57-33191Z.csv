@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T05:21:58.932976Z,telmoni-cli,0.1.0,0,0,https://github.com/telmoni/telmoni-cli,The official Telmoni CLI (`telmoni`).
+2026-10-21T05:22:01.004414Z,pasir-ris,0.0.1,0,0,https://github.com/theodoreOnzGit/outram-park-backend,PASIR RIS (Probabilistic Assessment of Safety In Reactors: Risk & Reliability Integrated Studio) — the reserved home for an integrated risk and reliability GUI over the workspace's safety crates. Pla…
+2026-10-21T05:22:38.158668Z,harmos-macros,0.1.0,0,0,,"Procedural macros for Harmos artifacts, catalogs and identities."
+2026-10-21T05:22:55.094567Z,harmos-domain,0.1.0,0,0,,"Harmos domain model: identifiers, contracts, catalogs and storage identities."
+2026-10-21T05:25:27.289686Z,outram-park,0.1.0,0,0,https://github.com/theodoreOnzGit/outram-park,"OUTRAM PARK metacrate: GUI, CLI/TUI and Python frontend that re-exports every outram-park-backend crate behind its own feature. Research, education and V&V only."
+2026-10-21T05:33:51.964019Z,yaws-app-mirror,0.0.4,0,0,https://github.com/yaws-rs/h11spec,YAWS app Mirror As a Service
+2026-10-21T05:36:12.315749Z,abalone,1.0.1,0,0,https://github.com/Deaadman/abalone,"A full-screen interactive shell for CLI apps: header, input box with a command menu, status bar, help and settings panels, plus a self-updater and installer"
+2026-10-21T05:37:45.872474Z,eure-doc-builder,0.0.0,0,0,https://github.com/Hihaheho/eure,Document builder for EURE format
+2026-10-21T06:01:34.232291Z,rusql-alchemy-migration,0.6.0,0,0,https://github.com/j03-dev/rusql-alchemy,manage migration for rusql-alchemy
+2026-10-21T06:05:24.807181Z,blueprints-known,0.2.0,0,0,https://github.com/yaws-rs/blueprint,Known machine / protocol blueprints
+2026-10-21T06:11:46.132617Z,omnidoc,0.1.0,0,0,,OmniDoc 开放 API 的 Rust 客户端（官网 https://omnidoc.top/）：上传、翻译、下载、积分查询与 Webhook 验签
+2026-10-21T06:14:54.28375Z,tola-config-macros,0.8.1,0,0,,Proc macros for tola-config
+2026-10-21T06:14:56.218225Z,tola-icons,0.8.1,0,0,https://github.com/tola-rs/tola-ssg,"Validated, self-contained SVG icons and Iconify collections"
+2026-10-21T06:14:57.464342Z,tola-minify,0.8.1,0,0,https://github.com/tola-rs/tola-ssg,Deterministic CSS and JavaScript minification for Tola's published assets
+2026-10-21T06:15:00.468093Z,tola-pronunciations,0.8.1,0,0,https://github.com/tola-rs/tola-ssg,The pronunciations Tola names for text: the tables it carries and the lookup over them
+2026-10-21T06:15:01.907717Z,tola-subprocess,0.8.1,0,0,https://github.com/tola-rs/tola-ssg,"Trusted external command execution with bounded output capture, process-tree termination, and cancellation"
+2026-10-21T06:20:25.033461Z,tola-typst,0.8.1,0,0,https://github.com/tola-rs/tola-ssg,"Independent Typst evaluation, compilation, and export with shared resources, virtual files, and structured diagnostics"
