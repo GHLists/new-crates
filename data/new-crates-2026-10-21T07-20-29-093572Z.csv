@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T06:32:31.67067Z,tola-typst-syntax,0.8.1,0,0,https://github.com/tola-rs/tola-ssg,"Typst source analysis: positions, scoped names, imports, syntax selection, and formatting"
+2026-10-21T06:33:41.835479Z,wcmp-bindgen,0.1.0,0,0,https://github.com/dialog-db/wasm-component-model-polyfill,"The bindgen! macro of the Wasm Component Model Polyfill, which writes host bindings from WIT"
+2026-10-21T06:33:42.639079Z,wcmp-macros,0.1.0,0,0,https://github.com/dialog-db/wasm-component-model-polyfill,Procedural macros for the Wasm Component Model Polyfill workspace
+2026-10-21T06:33:44.363541Z,wcmp-wasm-core,0.1.0,0,0,https://github.com/dialog-db/wasm-component-model-polyfill,"The runtime layer of the Wasm Component Model Polyfill: one trait over core WebAssembly, and the types, capabilities, trap kinds, and errors every backend shares"
+2026-10-21T06:33:46.057531Z,wcmp-wasm-core-wasmi,0.1.0,0,0,https://github.com/dialog-db/wasm-component-model-polyfill,"The Wasmi backend of the runtime layer of the Wasm Component Model Polyfill: the practical native backend, over the Wasmi interpreter"
+2026-10-21T06:33:46.725202Z,wcmp-wasm-core-wasmtime,0.1.0,0,0,https://github.com/dialog-db/wasm-component-model-polyfill,"The Wasmtime backend of the runtime layer of the Wasm Component Model Polyfill: the control, which runs beside the other backends so their results can be compared"
+2026-10-21T06:34:53.325578Z,chess-puzzle-solver,0.1.0,0,0,https://github.com/geniomdev/chess-puzzle-solver,Command-line tool for testing chess engines against tactics puzzles
+2026-10-21T06:47:09.904001Z,tola-webp,0.8.1,0,0,https://github.com/tola-rs/tola-ssg,"Pure-Rust, deterministic still-image WebP encoder for tola-image"
+2026-10-21T06:48:21.943886Z,wcmp-wasm-core-web,0.1.0,0,0,https://github.com/dialog-db/wasm-component-model-polyfill,"The browser backend of the runtime layer of the Wasm Component Model Polyfill, over the WebAssembly JavaScript API"
+2026-10-21T06:48:22.021375Z,iet-cache,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Typed cache contracts; storage and serialization belong to implementations.
+2026-10-21T06:48:25.539582Z,iet-config,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Typed configuration contracts. No implicit environment access or global state.
+2026-10-21T06:48:28.928972Z,iet-db,0.1.1,0,0,https://github.com/MasLazu/iet-fw,"Database lifecycle and reviewed migration contracts, without driver SQL types."
+2026-10-21T06:48:31.797916Z,wcmp,0.1.0,0,0,https://github.com/dialog-db/wasm-component-model-polyfill,A polyfill bringing the WebAssembly Component Model (wasip3) to web browsers
+2026-10-21T06:48:32.324056Z,iet-rate-limit-core,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Transport- and backend-neutral request admission contract.
+2026-10-21T06:48:35.778691Z,iet-storage,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Stream-based object contracts. Authorization and tenant scoping are caller policies.
+2026-10-21T06:49:34.909099Z,rustmind,0.1.0,0,0,,A CLI game inspired by the Mastermind® game
+2026-10-21T06:49:51.996035Z,rdnie,0.1.0,0,0,https://github.com/sgomez/rdnie,"Spanish electronic ID card (DNIe) driver over PC/SC: CWA-14890 secure channel, certificates, PIN retry counter and signing"
+2026-10-21T06:50:39.679928Z,iet-ui,0.1.1,0,0,https://github.com/MasLazu/iet-fw,"Typed, escaped inline components and transport-independent compiled assets."
+2026-10-21T06:51:49.808172Z,tola-config,0.8.1,0,0,,"Configuration field paths, templates, and diagnostics for Tola"
+2026-10-21T06:54:37.760397Z,eink-rs-macros,0.1.0,0,0,https://github.com/yexrob/eink-rs,The Commands derive and commands! macro for eink-rs
+2026-10-21T06:54:49.625524Z,eink-rs,0.1.0,0,0,https://github.com/yexrob/eink-rs,Components and a CLI framework for ink-rs
+2026-10-21T07:00:38.025824Z,iet-app,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Static application composition and runtime-neutral lifecycle contracts.
+2026-10-21T07:00:44.991713Z,tola-image,0.8.1,0,0,https://github.com/tola-rs/tola-ssg,"Deterministic image decoding, colour management, resampling, and encoding for Tola"
+2026-10-21T07:10:36.650238Z,iet-auth,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Independent authentication mechanisms and store ports. No storage selection.
+2026-10-21T07:12:28.2143Z,elecrust,0.0.1,0,0,https://github.com/houxd/elecrust,Elecrust is a modern embedded operating system for microcontrollers.
+2026-10-21T07:13:46.094105Z,tola-slugify,0.8.1,0,0,https://github.com/tola-rs/tola-ssg,"Turning text into a slug: the naming rules, the character policy, and the scripts that spell their own pronunciation"
+2026-10-21T07:14:54.18056Z,xlsxcraft,0.1.0,0,0,https://github.com/AlgForce/xlsxcraft,"Generate editable XLSX workbooks with tables, charts, images and SVG drawings"
+2026-10-21T07:15:05.9925Z,botillon-sdk,0.1.0,0,0,https://github.com/Botillon/botillon,"SDK officiel Botillon : statistiques live, heartbeat, shards, commandes et profil."

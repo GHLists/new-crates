@@ -8,31 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 06:21 UTC
+## Latest list — 2026-10-21 07:20 UTC
 
-New crates published between 2026-10-21 05:19 UTC and 2026-10-21 06:21 UTC.
+New crates published between 2026-10-21 06:21 UTC and 2026-10-21 07:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-21T06-21-57-33191Z.csv)
+[Full CSV](data/new-crates-2026-10-21T07-20-29-093572Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-21 05:21:58 | [telmoni-cli](https://crates.io/crates/telmoni-cli) | 0.1.0 | 0 | The official Telmoni CLI (`telmoni`). |
-| 2026-10-21 05:22:01 | [pasir-ris](https://crates.io/crates/pasir-ris) | 0.0.1 | 0 | PASIR RIS (Probabilistic Assessment of Safety In Reactors: Risk & Reliability I… |
-| 2026-10-21 05:22:38 | [harmos-macros](https://crates.io/crates/harmos-macros) | 0.1.0 | 0 | Procedural macros for Harmos artifacts, catalogs and identities. |
-| 2026-10-21 05:22:55 | [harmos-domain](https://crates.io/crates/harmos-domain) | 0.1.0 | 0 | Harmos domain model: identifiers, contracts, catalogs and storage identities. |
-| 2026-10-21 05:25:27 | [outram-park](https://crates.io/crates/outram-park) | 0.1.0 | 0 | OUTRAM PARK metacrate: GUI, CLI/TUI and Python frontend that re-exports every o… |
-| 2026-10-21 05:33:51 | [yaws-app-mirror](https://crates.io/crates/yaws-app-mirror) | 0.0.4 | 0 | YAWS app Mirror As a Service |
-| 2026-10-21 05:36:12 | [abalone](https://crates.io/crates/abalone) | 1.0.1 | 0 | A full-screen interactive shell for CLI apps: header, input box with a command… |
-| 2026-10-21 05:37:45 | [eure-doc-builder](https://crates.io/crates/eure-doc-builder) | 0.0.0 | 0 | Document builder for EURE format |
-| 2026-10-21 06:01:34 | [rusql-alchemy-migration](https://crates.io/crates/rusql-alchemy-migration) | 0.6.0 | 0 | manage migration for rusql-alchemy |
-| 2026-10-21 06:05:24 | [blueprints-known](https://crates.io/crates/blueprints-known) | 0.2.0 | 0 | Known machine / protocol blueprints |
-| 2026-10-21 06:11:46 | [omnidoc](https://crates.io/crates/omnidoc) | 0.1.0 | 0 | OmniDoc 开放 API 的 Rust 客户端（官网 https://omnidoc.top/）：上传、翻译、下载、积分查询与 Webhook 验签 |
-| 2026-10-21 06:14:54 | [tola-config-macros](https://crates.io/crates/tola-config-macros) | 0.8.1 | 0 | Proc macros for tola-config |
-| 2026-10-21 06:14:56 | [tola-icons](https://crates.io/crates/tola-icons) | 0.8.1 | 0 | Validated, self-contained SVG icons and Iconify collections |
-| 2026-10-21 06:14:57 | [tola-minify](https://crates.io/crates/tola-minify) | 0.8.1 | 0 | Deterministic CSS and JavaScript minification for Tola's published assets |
-| 2026-10-21 06:15:00 | [tola-pronunciations](https://crates.io/crates/tola-pronunciations) | 0.8.1 | 0 | The pronunciations Tola names for text: the tables it carries and the lookup ov… |
-| 2026-10-21 06:15:01 | [tola-subprocess](https://crates.io/crates/tola-subprocess) | 0.8.1 | 0 | Trusted external command execution with bounded output capture, process-tree te… |
-| 2026-10-21 06:20:25 | [tola-typst](https://crates.io/crates/tola-typst) | 0.8.1 | 0 | Independent Typst evaluation, compilation, and export with shared resources, vi… |
+| 2026-10-21 06:32:31 | [tola-typst-syntax](https://crates.io/crates/tola-typst-syntax) | 0.8.1 | 0 | Typst source analysis: positions, scoped names, imports, syntax selection, and… |
+| 2026-10-21 06:33:41 | [wcmp-bindgen](https://crates.io/crates/wcmp-bindgen) | 0.1.0 | 0 | The bindgen! macro of the Wasm Component Model Polyfill, which writes host bind… |
+| 2026-10-21 06:33:42 | [wcmp-macros](https://crates.io/crates/wcmp-macros) | 0.1.0 | 0 | Procedural macros for the Wasm Component Model Polyfill workspace |
+| 2026-10-21 06:33:44 | [wcmp-wasm-core](https://crates.io/crates/wcmp-wasm-core) | 0.1.0 | 0 | The runtime layer of the Wasm Component Model Polyfill: one trait over core Web… |
+| 2026-10-21 06:33:46 | [wcmp-wasm-core-wasmi](https://crates.io/crates/wcmp-wasm-core-wasmi) | 0.1.0 | 0 | The Wasmi backend of the runtime layer of the Wasm Component Model Polyfill: th… |
+| 2026-10-21 06:33:46 | [wcmp-wasm-core-wasmtime](https://crates.io/crates/wcmp-wasm-core-wasmtime) | 0.1.0 | 0 | The Wasmtime backend of the runtime layer of the Wasm Component Model Polyfill:… |
+| 2026-10-21 06:34:53 | [chess-puzzle-solver](https://crates.io/crates/chess-puzzle-solver) | 0.1.0 | 0 | Command-line tool for testing chess engines against tactics puzzles |
+| 2026-10-21 06:47:09 | [tola-webp](https://crates.io/crates/tola-webp) | 0.8.1 | 0 | Pure-Rust, deterministic still-image WebP encoder for tola-image |
+| 2026-10-21 06:48:21 | [wcmp-wasm-core-web](https://crates.io/crates/wcmp-wasm-core-web) | 0.1.0 | 0 | The browser backend of the runtime layer of the Wasm Component Model Polyfill,… |
+| 2026-10-21 06:48:22 | [iet-cache](https://crates.io/crates/iet-cache) | 0.1.1 | 0 | Typed cache contracts; storage and serialization belong to implementations. |
+| 2026-10-21 06:48:25 | [iet-config](https://crates.io/crates/iet-config) | 0.1.1 | 0 | Typed configuration contracts. No implicit environment access or global state. |
+| 2026-10-21 06:48:28 | [iet-db](https://crates.io/crates/iet-db) | 0.1.1 | 0 | Database lifecycle and reviewed migration contracts, without driver SQL types. |
+| 2026-10-21 06:48:31 | [wcmp](https://crates.io/crates/wcmp) | 0.1.0 | 0 | A polyfill bringing the WebAssembly Component Model (wasip3) to web browsers |
+| 2026-10-21 06:48:32 | [iet-rate-limit-core](https://crates.io/crates/iet-rate-limit-core) | 0.1.1 | 0 | Transport- and backend-neutral request admission contract. |
+| 2026-10-21 06:48:35 | [iet-storage](https://crates.io/crates/iet-storage) | 0.1.1 | 0 | Stream-based object contracts. Authorization and tenant scoping are caller poli… |
+| 2026-10-21 06:49:34 | [rustmind](https://crates.io/crates/rustmind) | 0.1.0 | 0 | A CLI game inspired by the Mastermind® game |
+| 2026-10-21 06:49:51 | [rdnie](https://crates.io/crates/rdnie) | 0.1.0 | 0 | Spanish electronic ID card (DNIe) driver over PC/SC: CWA-14890 secure channel,… |
+| 2026-10-21 06:50:39 | [iet-ui](https://crates.io/crates/iet-ui) | 0.1.1 | 0 | Typed, escaped inline components and transport-independent compiled assets. |
+| 2026-10-21 06:51:49 | [tola-config](https://crates.io/crates/tola-config) | 0.8.1 | 0 | Configuration field paths, templates, and diagnostics for Tola |
+| 2026-10-21 06:54:37 | [eink-rs-macros](https://crates.io/crates/eink-rs-macros) | 0.1.0 | 0 | The Commands derive and commands! macro for eink-rs |
+| 2026-10-21 06:54:49 | [eink-rs](https://crates.io/crates/eink-rs) | 0.1.0 | 0 | Components and a CLI framework for ink-rs |
+| 2026-10-21 07:00:38 | [iet-app](https://crates.io/crates/iet-app) | 0.1.1 | 0 | Static application composition and runtime-neutral lifecycle contracts. |
+| 2026-10-21 07:00:44 | [tola-image](https://crates.io/crates/tola-image) | 0.8.1 | 0 | Deterministic image decoding, colour management, resampling, and encoding for T… |
+| 2026-10-21 07:10:36 | [iet-auth](https://crates.io/crates/iet-auth) | 0.1.1 | 0 | Independent authentication mechanisms and store ports. No storage selection. |
+| 2026-10-21 07:12:28 | [elecrust](https://crates.io/crates/elecrust) | 0.0.1 | 0 | Elecrust is a modern embedded operating system for microcontrollers. |
+| 2026-10-21 07:13:46 | [tola-slugify](https://crates.io/crates/tola-slugify) | 0.8.1 | 0 | Turning text into a slug: the naming rules, the character policy, and the scrip… |
+| 2026-10-21 07:14:54 | [xlsxcraft](https://crates.io/crates/xlsxcraft) | 0.1.0 | 0 | Generate editable XLSX workbooks with tables, charts, images and SVG drawings |
+| 2026-10-21 07:15:05 | [botillon-sdk](https://crates.io/crates/botillon-sdk) | 0.1.0 | 0 | SDK officiel Botillon : statistiques live, heartbeat, shards, commandes et prof… |
 
 ## Data source
 
