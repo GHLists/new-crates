@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T14:21:27.218471Z,gpui-rsx-tools,0.8.0,0,0,https://github.com/wsafight/gpui-rsx,"Shared diagnostics, formatting, migration and preview for GPUI-RSX tools"
+2026-10-21T14:23:14.583072Z,cargo-rsx,0.8.0,0,0,https://github.com/wsafight/gpui-rsx,"GPUI-RSX doctor, lint, format, migrate, convert, preview and language server"
+2026-10-21T14:23:42.087801Z,mermaid-lint,0.1.0,0,0,https://github.com/startr-trade/kanbanr,"Lint Mermaid diagrams in Markdown without a browser: the mistakes Pele and Mermaid reject, found in pure Rust"
+2026-10-21T14:23:42.73961Z,forculus,0.3.1,0,0,https://github.com/Forculus-Labs/forculus,Verify who is calling your Forculus app.
+2026-10-21T14:27:24.783474Z,tang-compile,0.1.0,0,0,https://github.com/ecto/tang,Graph optimization and compilation passes for tang
+2026-10-21T14:28:23.234158Z,cram-codec,0.1.0,0,0,https://github.com/ecto/tang,Error-bounded scientific-data compression: bit-accounted quantized tensor train (QTT) codec
+2026-10-21T14:33:49.997288Z,gelada,0.1.0,0,0,https://github.com/addiscorp/gelada,"Run a program in an OS sandbox, without a container: reads everything but secrets, writes only where allowed, network on or off. macOS (Seatbelt) and Linux (Landlock + seccomp)."
+2026-10-21T14:35:08.336229Z,feltdb,0.2.0,0,0,https://github.com/rkendel1/flow_db,"Embedded durable state store: an append-only log with atomic multi-record transactions, version-conditional writes, and idempotent retries"
+2026-10-21T14:36:40.462809Z,mise-tls,0.0.0,0,0,https://github.com/jdx/mise,Placeholder for mise's TLS root certificate helpers
+2026-10-21T14:39:04.630777Z,oojuro,0.0.0,0,0,https://github.com/oojuro/oojuro,"Reserved for Oojuro: the journal for AI agents. Records everything an agent sees, thinks and does, losslessly compressed and searchable in milliseconds. Release pending."
+2026-10-21T14:39:06.641012Z,oojurod,0.0.0,0,0,https://github.com/oojuro/oojuro,"Reserved for Oojuro: the journal for AI agents. Records everything an agent sees, thinks and does, losslessly compressed and searchable in milliseconds. Release pending."
+2026-10-21T14:41:06.02715Z,acorn-analysis,0.5.1,0,0,https://code.ornl.gov/research-enablement/acorn,Portable analysis models and supplied-content checks for ACORN
+2026-10-21T14:41:31.279301Z,acorn-service,0.5.1,0,0,https://code.ornl.gov/research-enablement/acorn,Portable application service boundary for ACORN
+2026-10-21T14:42:33.354477Z,acorn-server,0.5.1,0,0,https://code.ornl.gov/research-enablement/acorn,Authenticated JSON-RPC and typed gRPC server for ACORN
+2026-10-21T14:45:06.652546Z,patamaps-workspace,0.1.0-alpha.1,0,0,https://github.com/roryscot/patamaps,Explicit local discovery and read-only drift checks for Patamaps
+2026-10-21T14:46:08.522233Z,tracing-web-writer,0.1.0,0,0,https://git.davidon.top/dot/tracing-web-writer,tracing-web-writer
+2026-10-21T14:46:09.774262Z,rbox-masterdb,0.2.0,0,0,https://github.com/dylanljones/rbox,Rekordbox Master database handler
+2026-10-21T14:46:32.548346Z,alias-rs,0.1.1,0,0,https://github.com/reidliu41/alias-rs,"A small, interactive alias manager for Fish, Bash, and Zsh"
+2026-10-21T14:47:18.385881Z,rbox-onelib,0.2.0,0,0,https://github.com/dylanljones/rbox,Rekordbox One Library database handler
+2026-10-21T14:48:43.208782Z,patamaps-scientific,0.1.0-alpha.1,0,0,https://github.com/roryscot/patamaps,Source-preserving native SSSOM and bounded scientific crates
+2026-10-21T14:49:17.391023Z,phrasebook-catalog,0.1.0,0,0,https://github.com/udoprog/phrasebook,"The language identifier and message catalog types of phrasebook, in their own crate so a library's catalog outlives phrasebook's breaking releases."
+2026-10-21T14:49:26.205125Z,portpeek,0.1.0,0,0,https://github.com/leorossi/portpeek,"Find the process listening on a local port, including its command line and working directory"
+2026-10-21T14:52:05.377581Z,patamaps-inspect,0.1.0-alpha.1,0,0,https://github.com/roryscot/patamaps,Read-only finite repair and captured explanations for Patamaps
+2026-10-21T15:00:52.228061Z,magic_events_derive,0.1.0,0,0,https://github.com/rsansores/magic_events,"#[derive(Event)] for magic_events: one type is one event, and says its type, version and subject"
+2026-10-21T15:01:01.028578Z,magic_events,0.1.0,0,0,https://github.com/rsansores/magic_events,"Events that leave PostgreSQL only if the transaction that raised them committed, and always leave if it did: a transactional outbox relayed to NATS JetStream as CloudEvents"
+2026-10-21T15:03:51.441164Z,pmd-cli,0.1.0,0,0,https://github.com/im-lunex/pomo-cli,A basic CLI for pomodoro user's
+2026-10-21T15:10:07.640171Z,crux-schema,0.5.0,0,0,https://github.com/89jobrien/crux,Runtime-independent trace schema and combinators for Crux
+2026-10-21T15:11:28.352847Z,crux-regression,0.5.0,0,0,https://github.com/89jobrien/crux,Golden trace regression storage and evaluation for Crux
+2026-10-21T15:13:58.180845Z,agent-mesh-flock,0.8.0,0,0,https://github.com/Gilamonster-Foundation/agent-mesh,"Pure model of an agent-mesh flock: event schema, admission table and board fold. No I/O."
+2026-10-21T15:14:26.292091Z,agent-mesh-flock-server,0.8.0,0,0,https://github.com/Gilamonster-Foundation/agent-mesh,"The agent-mesh flock server: init, the signed append-only log, admission and recovery."
+2026-10-21T15:14:54.267988Z,agent-mesh-flock-session,0.8.0,0,0,https://github.com/Gilamonster-Foundation/agent-mesh,The agent-mesh flock session process: an ssh-agent-style holder of one session key.
+2026-10-21T15:18:17.671439Z,crux-typesafe,0.5.0,0,0,https://github.com/89jobrien/crux,"TypeSafe System One judgment handlers for crux-script pipelines (calibrated score, choice, and noul)"
+2026-10-21T15:19:20.958089Z,crux-dsl-cli,0.5.0,0,0,https://github.com/89jobrien/crux,Command-line interface for crux pipelines
+2026-10-21T15:20:08.394509Z,crux-dsl,0.5.0,0,0,https://github.com/89jobrien/crux,"An agentic DSL for Rust — inspectable, serializable, replayable agent execution"
