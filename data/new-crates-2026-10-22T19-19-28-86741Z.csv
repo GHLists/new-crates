@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T18:27:11.2295Z,ebbmem-client-generated,0.2.0,0,0,https://ebbmem.ai,"Production cognitive memory engine and multi-transport gateway for autonomous AI agents. Features continuous mass-dilated logarithmic decay, Hebbian co-activation networks, off-heap mmap storage, and…"
+2026-10-22T18:27:41.342345Z,ebbmem-client,0.2.0,0,0,https://ebbmem.ai,Client SDK for the Ebb cognitive memory HTTP API
+2026-10-22T18:37:06.552235Z,gunnar-common,1.5.0,0,0,https://gunnar.rs/repo/gunnar/gunnar,"Shared command line, logging, and build identity for the gunnar binaries"
+2026-10-22T18:38:12.543298Z,reconform-core,0.1.0,0,0,https://github.com/mashhood0x7E/reconform,Pure observation comparisons and explicit verification verdicts
+2026-10-22T18:38:13.175699Z,renderparity,0.1.0,0,0,https://github.com/mashhood0x7E/reconform,Borrowed RGBA8 frame comparison with explicit tolerances and mismatch bounds
+2026-10-22T18:38:16.507789Z,reconform-cli,0.1.0,0,0,https://github.com/mashhood0x7E/reconform,Bounded executable capture and observation comparisons with reproducible reports
+2026-10-22T18:40:15.862875Z,libresonic-core,0.1.0,0,0,https://github.com/1800alex/libresonic,Server-scoped music models and async service boundary
+2026-10-22T18:40:17.387194Z,libresonic-opensubsonic,0.1.0,0,0,https://github.com/1800alex/libresonic,Bounded OpenSubsonic adapter producing neutral music models
+2026-10-22T18:40:17.811556Z,libresonic-playback,0.1.0,0,0,https://github.com/1800alex/libresonic,"Bounded MP3, FLAC and M4A single-track decoding and neutral PCM transport"
+2026-10-22T18:40:18.789516Z,libresonic,0.1.0,0,0,https://github.com/1800alex/libresonic,"Reusable music domain, OpenSubsonic and local playback foundations for Sonicfast"
+2026-10-22T18:41:02.913514Z,gunnar-grpc,1.5.0,0,0,https://gunnar.rs/repo/gunnar/gunnar,The tonic service implementations and the event bus behind gunnar's gRPC control plane.
+2026-10-22T18:43:07.965224Z,gunnar-http,1.5.0,0,0,https://gunnar.rs/repo/gunnar/gunnar,"The git smart-HTTP transport, wrapping gunnar-wire's state machines"
+2026-10-22T18:48:53.984335Z,crossmatrix,0.3.4,0,0,https://github.com/praxec/crossmatrix,"A sparse, configurable, N-dimensional weighted cross-reference engine (generalized House of Quality): observation-only, valence-by-separation, with fixed operations (marginalize / contract / findings…"
+2026-10-22T18:49:51.592671Z,crossmatrix-mcp,0.3.4,0,0,https://github.com/praxec/crossmatrix,"LLM-facing Model Context Protocol (MCP) server for the crossmatrix weighted cross-reference engine: mutation-first, observation-only writes plus engine-computed analyses, over durable Configuration /…"
+2026-10-22T18:50:36.146933Z,ferox-core,0.1.0,0,0,https://github.com/WilmervH/searxng-rust-rewrite,"In development — do not use. Core types of the ferox meta-search engine: the Engine trait, the result model, the query parser and the config types (ports of the searx core modules)."
+2026-10-22T18:51:04.684546Z,ferox-http,0.1.0,0,0,https://github.com/WilmervH/searxng-rust-rewrite,"In development — do not use. The network layer of ferox: the searcher, the request chain, the retry policy and the suspender (ports of the searx network module)."
+2026-10-22T18:53:41.457724Z,gunnar-repair,1.5.0,0,0,https://gunnar.rs/repo/gunnar/gunnar,"The ONE implementation of gunnar's repair verbs — review_twin, recharge_from_twin, adopt_twin, fence_primary — and of the signed repair order an estate pulls from monetize"
+2026-10-22T18:56:21.794218Z,gunnar-pairing-door,1.5.0,0,0,https://gunnar.rs/repo/gunnar/gunnar,"The front's part of a gunnar installation (edda nordisk-pairing 0.3): the WireGuard relay listing every box the installer admitted, read from the installer's ledger, and the twin's certification with…"
+2026-10-22T19:07:57.021169Z,pers,0.1.0,0,0,https://github.com/secana/PeRs,"Parser for Windows Portable Executable (PE) files that borrows the file data, a Rust port of PeNet"
+2026-10-22T19:11:29.666411Z,gunnar-server,1.1.0,0,0,https://gunnar.rs/repo/gunnar/gunnar,"The gunnar git server: SSH and smart-HTTP git transports and the gRPC control plane. The appliance half, extracted from gunnar-cli so the server code lives in its own crate."
+2026-10-22T19:11:34.401973Z,aws-sdk-continuum,1.0.0,0,0,https://github.com/awslabs/aws-sdk-rust,AWS SDK for AWS Continuum
+2026-10-22T19:12:10.902215Z,ragnarok-api,0.1.0,0,0,,"Rust SDK for the RAGnarok HTTP API (/api/v1): auth, typed errors, SSE query streams."
+2026-10-22T19:13:22.304131Z,sapflow-srt,0.1.0,0,0,https://github.com/forgesworn/sapflow,"SRT (Secure Reliable Transport) for live streams in pure Rust, sans-IO: listener/receiver and caller/sender, optional AES-CTR encryption, no libsrt."
+2026-10-22T19:13:28.42645Z,sapflow-core,0.1.0,0,0,https://github.com/forgesworn/sapflow,"Shared types for the sapflow live media server: stream paths, limits, publish sessions and recording metadata. No networking, no async runtime."
+2026-10-22T19:13:40.599854Z,sapflow-hls,0.1.0,0,0,https://github.com/forgesworn/sapflow,"Low-Latency HLS packaging in pure Rust: FLV and MPEG-TS ingest, fragmented MP4 parts and segments, and playlists that follow Apple's rules."
+2026-10-22T19:13:47.219003Z,sapflow-rtmp,0.1.0,0,0,https://github.com/forgesworn/sapflow,"RTMP publishing in pure Rust, sans-IO: the server side of a publish and a publishing client, original and digest handshakes, AMF0. Fuzzed, no unsafe."
+2026-10-22T19:14:06.397527Z,sapflow,0.1.0,0,0,https://github.com/forgesworn/sapflow,"A small live media server: SRT or RTMP in (H.264, AAC), Low-Latency HLS out, fragmented MP4 recording and a stream-health webhook. Pure Rust, no unsafe."
+2026-10-22T19:14:12.5561Z,truchman,0.1.0,0,0,https://github.com/merely-made/murm,"SAMv3 client for I2P routers: a sans-io core with a tokio shell for destinations, naming and stream sessions."
+2026-10-22T19:14:31.459236Z,agentstat,0.1.0,0,0,https://github.com/dhanushk-offl/agentstat,"Read-only AI provider usage, quota, balance, and reset data"
+2026-10-22T19:18:01.647233Z,hpt-parser,0.1.0,0,0,https://github.com/digitalashes/hpt-parser-rs,Streaming parser for CMS Hospital Price Transparency machine-readable files
+2026-10-22T19:18:32.55136Z,gunnar,1.5.0,0,0,https://gunnar.rs/repo/gunnar/gunnar,"The Gunnar git server: `cargo install gunnar`, then `gunnar`, and it serves git over SSH and smart HTTP on loopback with a health probe at http://127.0.0.1:8080/healthz."
