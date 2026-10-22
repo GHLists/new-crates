@@ -8,40 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 23:20 UTC
+## Latest list — 2026-10-22 00:19 UTC
 
-New crates published between 2026-10-21 22:18 UTC and 2026-10-21 23:20 UTC.
+New crates published between 2026-10-21 23:20 UTC and 2026-10-22 00:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-21T23-20-56-334157Z.csv)
+[Full CSV](data/new-crates-2026-10-22T00-19-10-127404Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-21 22:21:01 | [cortexkit-role-classifier-conformance](https://crates.io/crates/cortexkit-role-classifier-conformance) | 0.1.0 | 0 | Conformance suite for the CortexKit classifier/v1 role: drives a live classifie… |
-| 2026-10-21 22:21:14 | [argmend](https://crates.io/crates/argmend) | 0.1.0 | 0 | Reserved. |
-| 2026-10-21 22:21:44 | [pagesift-sys](https://crates.io/crates/pagesift-sys) | 0.12.1 | 0 | Process-level tuning for the pagesift binary (glibc allocator thresholds). |
-| 2026-10-21 22:26:06 | [genja-cli](https://crates.io/crates/genja-cli) | 0.5.0 | 0 | First-party command-line interface for Genja automation workflows |
-| 2026-10-21 22:31:49 | [pagesift](https://crates.io/crates/pagesift) | 0.12.1 | 0 | A single-binary, Firecrawl-compatible web scraping engine that turns pages into… |
-| 2026-10-21 22:38:03 | [better-profanity](https://crates.io/crates/better-profanity) | 0.1.0 | 0 | Port of the better_profanity word filter that censors exactly the same words |
-| 2026-10-21 22:39:50 | [latkit](https://crates.io/crates/latkit) | 0.2.0 | 0 | Columnar data drawn as vertices, edges, lines, and areas on the GPU. |
-| 2026-10-21 22:40:08 | [latkit-cli](https://crates.io/crates/latkit-cli) | 0.2.0 | 0 | Render latkit scenes of JSON or binary data to images and videos. |
-| 2026-10-21 22:41:54 | [condesate](https://crates.io/crates/condesate) | 0.1.0 | 0 | A trait-driven AI agent harness with a swarm layer that behaves like a tiny OS. |
-| 2026-10-21 22:42:33 | [martin-tilegen](https://crates.io/crates/martin-tilegen) | 0.1.0 | 0 | Bulk vector tile generation engine: renders features once per zoom, external-so… |
-| 2026-10-21 22:45:18 | [native-app-contract](https://crates.io/crates/native-app-contract) | 0.1.0 | 0 | Runtime-neutral contracts for Rust-native web applications |
-| 2026-10-21 22:45:44 | [uvicorn-rs-h3](https://crates.io/crates/uvicorn-rs-h3) | 0.1.0 | 0 | Maintained HTTP/3 protocol fork used by uvicorn-rs |
-| 2026-10-21 22:46:05 | [uvicorn-rs-h3-quinn](https://crates.io/crates/uvicorn-rs-h3-quinn) | 0.1.0 | 0 | QUIC transport adapter for the uvicorn-rs HTTP/3 fork |
-| 2026-10-21 22:46:29 | [uvicorn-rs](https://crates.io/crates/uvicorn-rs) | 0.1.0 | 0 | Rust-native HTTP server library |
-| 2026-10-21 22:49:13 | [sys-lib](https://crates.io/crates/sys-lib) | 0.1.0 | 0 | System facts for Rust services: OS, CPU, memory, disks, network, host, this pro… |
-| 2026-10-21 22:54:07 | [bigbertha](https://crates.io/crates/bigbertha) | 0.9.1 | 0 | Error reporting for bertha from Rust: panics, errors with their causes and back… |
-| 2026-10-21 22:57:33 | [antspawn](https://crates.io/crates/antspawn) | 0.0.0 | 0 | Placeholder: AntSpawn, a sandboxed job runner (one job, one clean environment,… |
-| 2026-10-21 23:00:49 | [cf-gears-durable-execution-sdk](https://crates.io/crates/cf-gears-durable-execution-sdk) | 0.1.0 | 0 | Code-defined durable execution contracts for gears-rust |
-| 2026-10-21 23:02:29 | [balius-core](https://crates.io/crates/balius-core) | 0.5.4 | 0 | Balius-owned core types and protocol schemas for the runtime <-> WASM interface |
-| 2026-10-21 23:05:40 | [rustable-sql-core](https://crates.io/crates/rustable-sql-core) | 0.1.1 | 0 | Core library for rustable: migration parsing, schema derivation, and execution |
-| 2026-10-21 23:05:41 | [rustable-sql-derive](https://crates.io/crates/rustable-sql-derive) | 0.1.1 | 0 | #[derive(Table)] for rustable: declare tables in Rust, diff them against your m… |
-| 2026-10-21 23:05:42 | [rustable-sql-db](https://crates.io/crates/rustable-sql-db) | 0.1.1 | 0 | Apply rustable migrations to a real database (Postgres, MySQL, SQLite) via sqlx |
-| 2026-10-21 23:05:44 | [rustable-sql](https://crates.io/crates/rustable-sql) | 0.1.1 | 0 | SQL schema migrations in the spirit of Flyway: analyze, plan and apply plain .s… |
-| 2026-10-21 23:05:44 | [rustable-sql-cli](https://crates.io/crates/rustable-sql-cli) | 0.1.1 | 0 | The rustable command-line interface |
-| 2026-10-21 23:06:08 | [bowery](https://crates.io/crates/bowery) | 0.0.0 | 0 | One poker table control, configured not compiled: <bowery-table>. |
-| 2026-10-21 23:20:13 | [jungle-wt](https://crates.io/crates/jungle-wt) | 0.1.0 | 0 | git worktree management on your machine |
+| 2026-10-21 23:32:40 | [phantom-cli](https://crates.io/crates/phantom-cli) | 0.3.0 | 0 | Command-line HTTP requests with explicit browser profiles |
+| 2026-10-21 23:33:33 | [rooftop](https://crates.io/crates/rooftop) | 0.1.0 | 0 | iRoof.top: continue a Telegram or WhatsApp chat with an LLM that writes in the… |
+| 2026-10-21 23:36:45 | [frus-svg](https://crates.io/crates/frus-svg) | 0.4.0 | 0 | frus — SVG pictures drawn as the framework's own vector paths |
+| 2026-10-21 23:36:54 | [mmcif-ir](https://crates.io/crates/mmcif-ir) | 0.2.0 | 0 | Design specification IR: slots, the determinacy lattice, constraints and instan… |
+| 2026-10-21 23:36:56 | [mmcif-spec](https://crates.io/crates/mmcif-spec) | 0.2.0 | 0 | Parse and check design specifications against structure files |
+| 2026-10-21 23:36:57 | [mmcif-lower](https://crates.io/crates/mmcif-lower) | 0.2.0 | 0 | Write design specifications out for protein design backends |
+| 2026-10-21 23:36:59 | [mmcif-cli](https://crates.io/crates/mmcif-cli) | 0.2.0 | 0 | Check design specifications and write them out for design backends |
+| 2026-10-21 23:42:22 | [configurant](https://crates.io/crates/configurant) | 0.0.0 | 0 | Placeholder: ConfigurAnt, schema-first configuration and configuration manageme… |
+| 2026-10-21 23:45:20 | [cua-agent-setup](https://crates.io/crates/cua-agent-setup) | 0.6.0 | 0 | Detect AI coding agents, install the bundled cua skills into their skills direc… |
+| 2026-10-21 23:45:21 | [cua-home](https://crates.io/crates/cua-home) | 0.6.0 | 0 | The cua home (`$CUA_HOME`, else `~/.cua`) and the test guard that refuses write… |
+| 2026-10-21 23:45:21 | [cua-hotspot](https://crates.io/crates/cua-hotspot) | 0.6.0 | 0 | Hotspot (reverse-SOCKS egress) tunnel protocol shared by cua-spacesd and the cu… |
+| 2026-10-21 23:45:21 | [cua-proto](https://crates.io/crates/cua-proto) | 0.6.0 | 0 | Protobuf contract (cua.env.v1, cua.daemon.v1) and tonic codegen for cua-spacesd… |
+| 2026-10-21 23:45:22 | [cua-spaces-contract](https://crates.io/crates/cua-spaces-contract) | 0.6.0 | 0 | The Cua Spaces tool contract: which tools exist, what they need from a Space, a… |
+| 2026-10-21 23:47:50 | [rs-sqlite2keys2strings](https://crates.io/crates/rs-sqlite2keys2strings) | 0.1.0 | 0 | Lookup keys in SQLite and output JSON |
+| 2026-10-21 23:49:07 | [exg-volume](https://crates.io/crates/exg-volume) | 0.0.1 | 0 | Shared 3-D medical image envelope (voxels + LPS affine) for the exg volume read… |
+| 2026-10-21 23:49:16 | [exg-signal](https://crates.io/crates/exg-signal) | 0.0.1 | 0 | Shared biosignal envelope (Recording: [channels × time] + names + sampling rate… |
+| 2026-10-21 23:50:35 | [exg-nifti](https://crates.io/crates/exg-nifti) | 0.0.1 | 0 | NIfTI-1 / NIfTI-2 volume reader and writer (.nii, .nii.gz, .hdr/.img) → exg-vol… |
+| 2026-10-21 23:50:38 | [exg-zarr](https://crates.io/crates/exg-zarr) | 0.0.1 | 0 | Zarr v2/v3 array store reader → ndarray / exg-signal Recording |
+| 2026-10-21 23:53:56 | [solana-leader-info](https://crates.io/crates/solana-leader-info) | 0.0.0 | 0 | Solana leader info syscall API (SIMD-0558) |
+| 2026-10-21 23:56:52 | [omnia-compile](https://crates.io/crates/omnia-compile) | 0.37.0 | 0 | Ahead-of-time compiler for omnia guests: the compile-affecting settings and the… |
+| 2026-10-21 23:57:02 | [omnia-wasi-vcs](https://crates.io/crates/omnia-wasi-vcs) | 0.37.0 | 0 | WASI version-control interface (the omnia:vcs boundary) for the Omnia runtime |
+| 2026-10-21 23:59:14 | [aves_macros](https://crates.io/crates/aves_macros) | 0.5.0 | 0 | Procedural macros for the Aves async application runtime |
+| 2026-10-22 00:04:04 | [pencere](https://crates.io/crates/pencere) | 0.1.0 | 0 | Host side of pencere, the terminal side of MCP Apps: frames, messages, session… |
+| 2026-10-22 00:04:32 | [cua-auth](https://crates.io/crates/cua-auth) | 0.6.0 | 0 | Sign in to Cua: browser authorization code + PKCE with a loopback redirect, dev… |
+| 2026-10-22 00:08:22 | [aves](https://crates.io/crates/aves) | 0.5.0 | 0 | Typed async application runtime with domain messaging, RPC, and durable workflo… |
+| 2026-10-22 00:11:51 | [loko-clock](https://crates.io/crates/loko-clock) | 0.2.0 | 0 | loko's Clock service: the time and a timer, with test, tokio, and JavaScript cl… |
+| 2026-10-22 00:11:51 | [loko-console](https://crates.io/crates/loko-console) | 0.2.0 | 0 | loko's Console service: lines to standard output and error, captured in tests,… |
+| 2026-10-22 00:11:52 | [loko-env](https://crates.io/crates/loko-env) | 0.2.0 | 0 | loko's Env service: environment variables, from the process or from a map |
+| 2026-10-22 00:11:52 | [loko-macros](https://crates.io/crates/loko-macros) | 0.2.0 | 0 | loko's macros: #[service] makes a trait a service, #[bundle] wires services int… |
+| 2026-10-22 00:11:52 | [loko-random](https://crates.io/crates/loko-random) | 0.2.0 | 0 | loko's Random service: random numbers, with seeded, operating-system, and JavaS… |
+| 2026-10-22 00:12:01 | [litemcp](https://crates.io/crates/litemcp) | 0.1.0 | 0 | The fastest, lightest MCP (Model Context Protocol) framework for Rust — Streama… |
+| 2026-10-22 00:14:43 | [loko-store](https://crates.io/crates/loko-store) | 0.2.0 | 0 | loko's Store service: objects by URI, with conditional writes, multipart upload… |
+| 2026-10-22 00:16:30 | [parse-net](https://crates.io/crates/parse-net) | 0.1.0 | 0 | Grammar for Internet message fields: RFC 9110 field syntax, media types, RFC 96… |
 
 ## Data source
 

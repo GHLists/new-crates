@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-21T23:32:40.90333Z,phantom-cli,0.3.0,0,0,https://github.com/bywayhq/phantom,Command-line HTTP requests with explicit browser profiles
+2026-10-21T23:33:33.432691Z,rooftop,0.1.0,0,0,https://github.com/irooftop/rooftop,"iRoof.top: continue a Telegram or WhatsApp chat with an LLM that writes in the style of a person from the export (OpenAI-compatible, MCP)"
+2026-10-21T23:36:45.951945Z,frus-svg,0.4.0,0,0,https://github.com/KalybosPro/frus,frus — SVG pictures drawn as the framework's own vector paths
+2026-10-21T23:36:54.614945Z,mmcif-ir,0.2.0,0,0,https://github.com/fuyu-myk/mmcif,"Design specification IR: slots, the determinacy lattice, constraints and instantiation"
+2026-10-21T23:36:56.164146Z,mmcif-spec,0.2.0,0,0,https://github.com/fuyu-myk/mmcif,Parse and check design specifications against structure files
+2026-10-21T23:36:57.760085Z,mmcif-lower,0.2.0,0,0,https://github.com/fuyu-myk/mmcif,Write design specifications out for protein design backends
+2026-10-21T23:36:59.249253Z,mmcif-cli,0.2.0,0,0,https://github.com/fuyu-myk/mmcif,Check design specifications and write them out for design backends
+2026-10-21T23:42:22.610801Z,configurant,0.0.0,0,0,https://github.com/ThinkersJournal/configurant,"Placeholder: ConfigurAnt, schema-first configuration and configuration management. Not yet released."
+2026-10-21T23:45:20.821707Z,cua-agent-setup,0.6.0,0,0,https://github.com/trycua/cua,"Detect AI coding agents, install the bundled cua skills into their skills directories and configure the cua MCP server in their MCP configs (idempotent, backed up, reversible)."
+2026-10-21T23:45:21.330481Z,cua-home,0.6.0,0,0,https://github.com/trycua/cua,"The cua home (`$CUA_HOME`, else `~/.cua`) and the test guard that refuses writes to the user's real `~/.cua` from test processes."
+2026-10-21T23:45:21.719228Z,cua-hotspot,0.6.0,0,0,https://github.com/trycua/cua,Hotspot (reverse-SOCKS egress) tunnel protocol shared by cua-spacesd and the cua SDK: the frame codec and the egress peer that dials targets
+2026-10-21T23:45:21.948367Z,cua-proto,0.6.0,0,0,https://github.com/trycua/cua,"Protobuf contract (cua.env.v1, cua.daemon.v1) and tonic codegen for cua-spacesd and the cua SDK."
+2026-10-21T23:45:22.356199Z,cua-spaces-contract,0.6.0,0,0,https://github.com/trycua/cua,"The Cua Spaces tool contract: which tools exist, what they need from a Space, and their input schemas (the source of spaces-contract/manifest.json)."
+2026-10-21T23:47:50.257869Z,rs-sqlite2keys2strings,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-sqlite2keys2strings,Lookup keys in SQLite and output JSON
+2026-10-21T23:49:07.699819Z,exg-volume,0.0.1,0,0,https://github.com/eugenehp/eegnet-rs,Shared 3-D medical image envelope (voxels + LPS affine) for the exg volume readers
+2026-10-21T23:49:16.038215Z,exg-signal,0.0.1,0,0,https://github.com/eugenehp/eegnet-rs,Shared biosignal envelope (Recording: [channels × time] + names + sampling rate + events) returned by the exg standalone EEG/biosignal file-format reader crates
+2026-10-21T23:50:35.103329Z,exg-nifti,0.0.1,0,0,https://github.com/eugenehp/eegnet-rs,"NIfTI-1 / NIfTI-2 volume reader and writer (.nii, .nii.gz, .hdr/.img) → exg-volume Volume"
+2026-10-21T23:50:38.87953Z,exg-zarr,0.0.1,0,0,https://github.com/eugenehp/eegnet-rs,Zarr v2/v3 array store reader → ndarray / exg-signal Recording
+2026-10-21T23:53:56.542416Z,solana-leader-info,0.0.0,0,0,https://github.com/anza-xyz/solana-sdk,Solana leader info syscall API (SIMD-0558)
+2026-10-21T23:56:52.713412Z,omnia-compile,0.37.0,0,0,https://github.com/augentic/omnia,Ahead-of-time compiler for omnia guests: the compile-affecting settings and the artifact the runtime deserializes
+2026-10-21T23:57:02.818213Z,omnia-wasi-vcs,0.37.0,0,0,https://github.com/augentic/omnia,WASI version-control interface (the omnia:vcs boundary) for the Omnia runtime
+2026-10-21T23:59:14.746005Z,aves_macros,0.5.0,0,0,https://github.com/aves-rs/aves,Procedural macros for the Aves async application runtime
+2026-10-22T00:04:04.985867Z,pencere,0.1.0,0,0,https://github.com/bateri/pencere,"Host side of pencere, the terminal side of MCP Apps: frames, messages, session rules and bundles, without I/O"
+2026-10-22T00:04:32.422931Z,cua-auth,0.6.0,0,0,https://github.com/trycua/cua,"Sign in to Cua: browser authorization code + PKCE with a loopback redirect, device code fallback, refresh, and the one credential store shared by the cua CLI, the SDK, the daemon and the Spaces app."
+2026-10-22T00:08:22.681573Z,aves,0.5.0,0,0,https://github.com/aves-rs/aves,"Typed async application runtime with domain messaging, RPC, and durable workflow automation"
+2026-10-22T00:11:51.578303Z,loko-clock,0.2.0,0,0,https://github.com/polythings/loko,"loko's Clock service: the time and a timer, with test, tokio, and JavaScript clocks"
+2026-10-22T00:11:51.815964Z,loko-console,0.2.0,0,0,https://github.com/polythings/loko,"loko's Console service: lines to standard output and error, captured in tests, or to the JavaScript console"
+2026-10-22T00:11:52.262327Z,loko-env,0.2.0,0,0,https://github.com/polythings/loko,"loko's Env service: environment variables, from the process or from a map"
+2026-10-22T00:11:52.482202Z,loko-macros,0.2.0,0,0,https://github.com/polythings/loko,"loko's macros: #[service] makes a trait a service, #[bundle] wires services into a struct, #[wraps] makes wrappers"
+2026-10-22T00:11:52.719587Z,loko-random,0.2.0,0,0,https://github.com/polythings/loko,"loko's Random service: random numbers, with seeded, operating-system, and JavaScript sources"
+2026-10-22T00:12:01.276022Z,litemcp,0.1.0,0,0,https://github.com/DeamonDev888/litemcp,"The fastest, lightest MCP (Model Context Protocol) framework for Rust — Streamable HTTP only: stateless POST/SSE on a bound socket. Zero async runtime, serde only."
+2026-10-22T00:14:43.840373Z,loko-store,0.2.0,0,0,https://github.com/polythings/loko,"loko's Store service: objects by URI, with conditional writes, multipart uploads, and prefix listing; a store in memory"
+2026-10-22T00:16:30.639837Z,parse-net,0.1.0,0,0,https://github.com/jamesgober/parse-net,"Grammar for Internet message fields: RFC 9110 field syntax, media types, RFC 9651 Structured Fields, HTTP and RFC 5322 dates, negotiation, entity tags, ranges, Content-Disposition, Cache-Control, For…"
