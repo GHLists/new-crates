@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T11:20:17.489296Z,flare-tui,0.9.0,0,0,https://github.com/KidusAlemayehu/flareTUI,A production-grade keyboard-driven Terminal User Interface for Cloudflare management
+2026-10-22T11:20:55.603639Z,zeus-core,0.1.0,0,0,https://github.com/greekfetacheese/zeus/tree/master/crates/zeus-core,"Zeus wallet domain: context, tx pipeline, vault, persistence"
+2026-10-22T11:21:02.140663Z,nym-contract-attestation,2.0.0,0,0,https://github.com/nymtech/nym,Shared library for attesting nym contract state
+2026-10-22T11:27:25.016269Z,objrust-compiler,1.0.0,0,0,https://github.com/amrhasanain/objrust,A Rust source-to-source transpiler with class-style syntax
+2026-10-22T11:27:40.41883Z,hulladb_client,0.1.0,0,0,https://github.com/hulladev/db,Generic HTTP and SSE transport for hulladb function clients
+2026-10-22T11:28:34.02148Z,kosmetic-cli,0.1.0,0,0,https://github.com/GeneralKoski/kosmetic,"A fast, hand-written TOML linter"
+2026-10-22T11:29:16.447641Z,ppvm-tui,0.1.0,0,0,https://github.com/QuEraComputing/ppvm,Composable ratatui components and app state for the ppvm terminal UI.
+2026-10-22T11:35:49.828828Z,py-check-updates,0.0.4,0,0,https://github.com/narumiruna/check-updates,Check and update Python project dependencies
+2026-10-22T11:36:52.670481Z,eska-analyzer,0.15.0,0,0,https://github.com/1c-tooling/eska,External bsl-analyzer process contract and derived project configuration
+2026-10-22T11:37:09.011869Z,eska-terminal,0.15.0,0,0,https://github.com/1c-tooling/eska,Shared keyboard selection and terminal progress for ESKA CLI tools
+2026-10-22T11:37:11.626706Z,keel-berth,0.1.0,0,0,https://github.com/keelstackhq/berth,"Give each parallel coding agent an isolated, ready workspace in a git repo"
+2026-10-22T11:37:15.594335Z,eska-project,0.15.0,0,0,https://github.com/1c-tooling/eska,Standalone Designer XML project operations and metadata presentation
+2026-10-22T11:37:43.400108Z,hulladb_postgres,0.1.0,0,0,https://github.com/hulladev/db,"Transactional PostgreSQL function runtime, authorization and recovery for hulladb"
+2026-10-22T11:38:00.401497Z,eska-vcs,0.15.0,0,0,https://github.com/1c-tooling/eska,Standalone Git workflow and semantic Designer XML comparisons
+2026-10-22T11:38:04.699466Z,eska-build-runtime,0.15.0,0,0,https://github.com/1c-tooling/eska,Shared 1C platform runner and reversible native artifact execution
+2026-10-22T11:39:34.571796Z,ppvm-cli,0.1.0,0,0,https://github.com/QuEraComputing/ppvm,"Command-line tool and TUI for parsing, running and stepping through ppvm `.sst` programs."
+2026-10-22T11:40:37.472146Z,pounce-minima,0.13.0,0,0,https://github.com/jkitchin/pounce,"Multistart / find-minima global search for POUNCE: six strategies (multistart, MLSL, basin-hopping, flooding, deflation, tunneling) over a pluggable local solver."
+2026-10-22T11:40:45.976673Z,eska-build,0.15.0,0,0,https://github.com/1c-tooling/eska,Standalone native 1C artifact build and Designer XML export
+2026-10-22T11:47:43.232921Z,hulladb_server,0.1.0,0,0,https://github.com/hulladev/db,Authenticated HTTP and SSE hosting and native bridge executables for hulladb
+2026-10-22T11:50:09.423328Z,shdo,0.1.0,0,0,https://github.com/AxelRHD/rust-shdo,A kanban board for the terminal: tasks are Markdown files in a git repository
+2026-10-22T11:50:36.785239Z,eska-check,0.15.0,0,0,https://github.com/1c-tooling/eska,Complete Designer XML and external BSL analysis for CI
+2026-10-22T11:57:39.270567Z,hulladb,0.1.0,0,0,https://github.com/hulladev/db,Typed PostgreSQL database authoring and durable remote function clients
+2026-10-22T11:58:14.107593Z,llm-universal,0.2.0,0,0,,"One async client for Anthropic, OpenAI, Gemini, Cohere, Azure OpenAI and OpenAI-compatible APIs (Groq, Mistral, DeepSeek, xAI, OpenRouter, Ollama), with tool calling and SDK-style errors"
+2026-10-22T11:59:37.956622Z,chain-if,0.1.0,0,0,https://github.com/Imagination12357/chain-if,"Lightweight, no_std iterator extensions for conditional chaining with optional lazy evaluation"
+2026-10-22T12:03:46.961588Z,insitu-protocol,0.2.0-rc.1,0,0,https://github.com/marcusinthesky/insitu,Version 1 typed JSON-RPC and stdio framing for Insitu extensions
+2026-10-22T12:03:50.587891Z,insitu-core,0.2.0-rc.1,0,0,https://github.com/marcusinthesky/insitu,Concrete reconciliation engine and built-in capabilities for Insitu
+2026-10-22T12:03:52.057478Z,insitu-sdk,0.2.0-rc.1,0,0,https://github.com/marcusinthesky/insitu,Typed Rust SDK for authoring Insitu process extensions
+2026-10-22T12:03:55.781709Z,insitu,0.2.0-rc.1,0,0,https://github.com/marcusinthesky/insitu,Native CLI for reactive Markdown and front-matter materializations
+2026-10-22T12:10:17.335849Z,csi-gui-rs,2.0.0,0,0,https://github.com/csi-rs/csi-gui-rs,Desktop GUI for live Wi-Fi CSI capture from one or many ESP32 boards running esp-csi-cli-rs
+2026-10-22T12:15:26.441311Z,kagami-cli,0.1.0,0,0,https://github.com/zunda-inc/kagami,This simple tool checks whether there are any publicly disclosed vulnerabilities in a list of defined software.
+2026-10-22T12:17:51.957548Z,nym-authorised-network-monitors,2.0.0,0,0,https://github.com/nymtech/nym,Structures derived from the set of network monitor agents authorised by the network-monitors contract

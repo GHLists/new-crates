@@ -8,59 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 11:19 UTC
+## Latest list — 2026-10-22 12:18 UTC
 
-New crates published between 2026-10-22 10:19 UTC and 2026-10-22 11:19 UTC.
+New crates published between 2026-10-22 11:19 UTC and 2026-10-22 12:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-22T11-19-08-932268Z.csv)
+[Full CSV](data/new-crates-2026-10-22T12-18-43-389755Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-22 10:25:10 | [ppoppo-pcs-external-test](https://crates.io/crates/ppoppo-pcs-external-test) | 2.0.0 | 0 | Test kit for ppoppo-pcs-external: ServedExternalFace, the PCS External face (pc… |
-| 2026-10-22 10:25:17 | [csan-core](https://crates.io/crates/csan-core) | 0.6.1 | 0 | Cutter call number generation (Cutter-Sanborn and Library of Congress) for libr… |
-| 2026-10-22 10:27:24 | [crawlora-google](https://crates.io/crates/crawlora-google) | 0.2.0 | 0 | Typed Rust client for Crawlora's hosted Google API. Requires a Crawlora API key. |
-| 2026-10-22 10:33:41 | [hugepage](https://crates.io/crates/hugepage) | 0.1.0 | 0 | Linux hugepage |
-| 2026-10-22 10:37:24 | [crawlora-googleplay](https://crates.io/crates/crawlora-googleplay) | 0.1.2 | 0 | Typed Rust client for Crawlora's hosted Google Play API. Requires a Crawlora AP… |
-| 2026-10-22 10:38:36 | [monaco-wasm](https://crates.io/crates/monaco-wasm) | 0.1.0 | 0 | The Monaco editor for Rust/WASM, with the editor runtime and workers bundled: n… |
-| 2026-10-22 10:38:39 | [monaco-leptos](https://crates.io/crates/monaco-leptos) | 0.1.0 | 0 | Leptos component for the Monaco editor (CSR, SSR, hydration), with the editor r… |
-| 2026-10-22 10:38:40 | [monaco-yew](https://crates.io/crates/monaco-yew) | 0.1.0 | 0 | Yew component for the Monaco editor, with the editor runtime and workers bundled |
-| 2026-10-22 10:39:37 | [solana_kit](https://crates.io/crates/solana_kit) | 0.0.0 | 0 | Reserved for the portable Rust Solana Kit ecosystem; no SDK APIs are available… |
-| 2026-10-22 10:47:45 | [crawlora-imdb](https://crates.io/crates/crawlora-imdb) | 0.2.0 | 0 | Typed Rust client for Crawlora's hosted IMDb API. Requires a Crawlora API key. |
-| 2026-10-22 10:52:57 | [discrete_math](https://crates.io/crates/discrete_math) | 0.2.0 | 0 | Axiomatic discrete mathematics in Rust: finite sets, binary relations and funct… |
-| 2026-10-22 10:53:28 | [identity-notifications](https://crates.io/crates/identity-notifications) | 0.1.0 | 0 | Notify Internet Identity users from a Rust canister: one send call, the library… |
-| 2026-10-22 10:53:45 | [nym-config-score](https://crates.io/crates/nym-config-score) | 2.0.0 | 0 | Shared node config-score computation used by nym-api and the network monitor or… |
-| 2026-10-22 10:55:24 | [anonymous-mmap](https://crates.io/crates/anonymous-mmap) | 0.1.0 | 0 | Linux anonymous mmap |
-| 2026-10-22 10:57:24 | [crawlora-spotify](https://crates.io/crates/crawlora-spotify) | 0.2.0 | 0 | Typed Rust client for Crawlora's hosted Spotify API. Requires a Crawlora API ke… |
-| 2026-10-22 11:01:22 | [io-uring-bufring](https://crates.io/crates/io-uring-bufring) | 0.2.0-pre5 | 0 | io_uring bufring |
-| 2026-10-22 11:03:27 | [minigrep-sakis](https://crates.io/crates/minigrep-sakis) | 0.1.5 | 0 | A simple case-insensitive text search library with cool colored output |
-| 2026-10-22 11:04:40 | [hatchzip-core](https://crates.io/crates/hatchzip-core) | 0.1.0 | 0 | The engine behind HatchZip: extract ZIP, 7z and tar archives in place, freeing… |
-| 2026-10-22 11:05:16 | [io-uring-op-accept-multi](https://crates.io/crates/io-uring-op-accept-multi) | 0.0.1 | 0 | AcceptMulti OpCode for io-uring-bearer |
-| 2026-10-22 11:05:20 | [hatchzip](https://crates.io/crates/hatchzip) | 0.1.0 | 0 | Extract huge archives in place: the archive shrinks as your files hatch, so you… |
-| 2026-10-22 11:05:26 | [eska-project-core](https://crates.io/crates/eska-project-core) | 0.15.0 | 0 | Shared Designer XML project model and checked metadata operations |
-| 2026-10-22 11:05:31 | [eska-tool-runtime](https://crates.io/crates/eska-tool-runtime) | 0.15.0 | 0 | Owned component processes and bounded internal tool protocols |
-| 2026-10-22 11:05:48 | [eska-presentation](https://crates.io/crates/eska-presentation) | 0.15.0 | 0 | Shared localization and path presentation for ESKA tools |
-| 2026-10-22 11:06:36 | [io-uring-op-socket](https://crates.io/crates/io-uring-op-socket) | 0.0.2 | 0 | Socket OpCode for io-uring-bearer |
-| 2026-10-22 11:07:18 | [civilkit-calcs-engine](https://crates.io/crates/civilkit-calcs-engine) | 0.1.0 | 0 | Calculation engine of CivilKit Calcs: a Rust port of the CalcpadCE worksheet en… |
-| 2026-10-22 11:09:04 | [civilkit-calcs-highlighter](https://crates.io/crates/civilkit-calcs-highlighter) | 0.1.0 | 0 | Editor services for CalcpadCE worksheets, in Rust: tokenizer, linter, content r… |
-| 2026-10-22 11:09:44 | [civilkit-calcs-docx](https://crates.io/crates/civilkit-calcs-docx) | 0.1.0 | 0 | Word (.docx) and Excel (.xlsx) export of CalcpadCE worksheet reports, in Rust:… |
-| 2026-10-22 11:13:20 | [spl-asdlc](https://crates.io/crates/spl-asdlc) | 1.3.2 | 0 | The bridge of SPL-ASDLC: turns GitHub facts into tracker state and tracker stat… |
-| 2026-10-22 11:14:51 | [homura-derive](https://crates.io/crates/homura-derive) | 0.3.0 | 0 | Procedural macros for homura |
-| 2026-10-22 11:16:17 | [io-uring-opcode-sets](https://crates.io/crates/io-uring-opcode-sets) | 0.0.2 | 0 | io_uring opcode trait contract between bearer and opcodes |
-| 2026-10-22 11:17:34 | [hulladb_schema](https://crates.io/crates/hulladb_schema) | 0.1.0 | 0 | Language-neutral schema, validation and lossless value contracts for hulladb |
-| 2026-10-22 11:17:38 | [hulladb_protocol](https://crates.io/crates/hulladb_protocol) | 0.1.0 | 0 | Shared function and synchronization protocol contracts for hulladb |
-| 2026-10-22 11:17:42 | [hulladb_macros](https://crates.io/crates/hulladb_macros) | 0.1.0 | 0 | Procedural macros for hulladb typed schemas and function declarations |
-| 2026-10-22 11:17:43 | [kosmetic-diagnostics](https://crates.io/crates/kosmetic-diagnostics) | 0.1.0 | 0 | Spans, diagnostics and rendering for kosmetic |
-| 2026-10-22 11:17:48 | [hulladb_js](https://crates.io/crates/hulladb_js) | 0.1.0 | 0 | Restricted JavaScript handler process for hulladb |
-| 2026-10-22 11:17:49 | [kosmetic-syntax](https://crates.io/crates/kosmetic-syntax) | 0.1.0 | 0 | Hand-written TOML lexer and lossless parser for kosmetic |
-| 2026-10-22 11:17:53 | [kosmetic-rules](https://crates.io/crates/kosmetic-rules) | 0.1.0 | 0 | Lint rules and rule engine for kosmetic |
-| 2026-10-22 11:17:56 | [kosmetic-format](https://crates.io/crates/kosmetic-format) | 0.1.0 | 0 | TOML formatter built on the lossless tree of kosmetic |
-| 2026-10-22 11:17:57 | [hulladb_wire](https://crates.io/crates/hulladb_wire) | 0.1.0 | 0 | Binary row and schema codecs for hulladb |
-| 2026-10-22 11:18:00 | [kosmetic-lsp](https://crates.io/crates/kosmetic-lsp) | 0.1.0 | 0 | Language server for kosmetic, speaking LSP over stdio |
-| 2026-10-22 11:18:35 | [ppvm-sym](https://crates.io/crates/ppvm-sym) | 0.1.0 | 0 | Symbolic, parametric Pauli propagation for ppvm. |
-| 2026-10-22 11:18:40 | [ppvm-tableau](https://crates.io/crates/ppvm-tableau) | 0.1.0 | 0 | Generalized stabilizer-tableau simulator for ppvm. |
-| 2026-10-22 11:18:48 | [ppvm-stim](https://crates.io/crates/ppvm-stim) | 0.1.0 | 0 | Parse and run Stim circuits on the ppvm generalized stabilizer tableau. |
-| 2026-10-22 11:18:53 | [ppvm-tableau-sum](https://crates.io/crates/ppvm-tableau-sum) | 0.1.0 | 0 | Sums of generalized stabilizer tableaux with sampling, measurement and noise, f… |
-| 2026-10-22 11:19:02 | [ppvm-vihaco](https://crates.io/crates/ppvm-vihaco) | 0.1.0 | 0 | Run vihaco circuit programs on the ppvm simulators. |
+| 2026-10-22 11:20:17 | [flare-tui](https://crates.io/crates/flare-tui) | 0.9.0 | 0 | A production-grade keyboard-driven Terminal User Interface for Cloudflare manag… |
+| 2026-10-22 11:20:55 | [zeus-core](https://crates.io/crates/zeus-core) | 0.1.0 | 0 | Zeus wallet domain: context, tx pipeline, vault, persistence |
+| 2026-10-22 11:21:02 | [nym-contract-attestation](https://crates.io/crates/nym-contract-attestation) | 2.0.0 | 0 | Shared library for attesting nym contract state |
+| 2026-10-22 11:27:25 | [objrust-compiler](https://crates.io/crates/objrust-compiler) | 1.0.0 | 0 | A Rust source-to-source transpiler with class-style syntax |
+| 2026-10-22 11:27:40 | [hulladb_client](https://crates.io/crates/hulladb_client) | 0.1.0 | 0 | Generic HTTP and SSE transport for hulladb function clients |
+| 2026-10-22 11:28:34 | [kosmetic-cli](https://crates.io/crates/kosmetic-cli) | 0.1.0 | 0 | A fast, hand-written TOML linter |
+| 2026-10-22 11:29:16 | [ppvm-tui](https://crates.io/crates/ppvm-tui) | 0.1.0 | 0 | Composable ratatui components and app state for the ppvm terminal UI. |
+| 2026-10-22 11:35:49 | [py-check-updates](https://crates.io/crates/py-check-updates) | 0.0.4 | 0 | Check and update Python project dependencies |
+| 2026-10-22 11:36:52 | [eska-analyzer](https://crates.io/crates/eska-analyzer) | 0.15.0 | 0 | External bsl-analyzer process contract and derived project configuration |
+| 2026-10-22 11:37:09 | [eska-terminal](https://crates.io/crates/eska-terminal) | 0.15.0 | 0 | Shared keyboard selection and terminal progress for ESKA CLI tools |
+| 2026-10-22 11:37:11 | [keel-berth](https://crates.io/crates/keel-berth) | 0.1.0 | 0 | Give each parallel coding agent an isolated, ready workspace in a git repo |
+| 2026-10-22 11:37:15 | [eska-project](https://crates.io/crates/eska-project) | 0.15.0 | 0 | Standalone Designer XML project operations and metadata presentation |
+| 2026-10-22 11:37:43 | [hulladb_postgres](https://crates.io/crates/hulladb_postgres) | 0.1.0 | 0 | Transactional PostgreSQL function runtime, authorization and recovery for hulla… |
+| 2026-10-22 11:38:00 | [eska-vcs](https://crates.io/crates/eska-vcs) | 0.15.0 | 0 | Standalone Git workflow and semantic Designer XML comparisons |
+| 2026-10-22 11:38:04 | [eska-build-runtime](https://crates.io/crates/eska-build-runtime) | 0.15.0 | 0 | Shared 1C platform runner and reversible native artifact execution |
+| 2026-10-22 11:39:34 | [ppvm-cli](https://crates.io/crates/ppvm-cli) | 0.1.0 | 0 | Command-line tool and TUI for parsing, running and stepping through ppvm `.sst`… |
+| 2026-10-22 11:40:37 | [pounce-minima](https://crates.io/crates/pounce-minima) | 0.13.0 | 0 | Multistart / find-minima global search for POUNCE: six strategies (multistart,… |
+| 2026-10-22 11:40:45 | [eska-build](https://crates.io/crates/eska-build) | 0.15.0 | 0 | Standalone native 1C artifact build and Designer XML export |
+| 2026-10-22 11:47:43 | [hulladb_server](https://crates.io/crates/hulladb_server) | 0.1.0 | 0 | Authenticated HTTP and SSE hosting and native bridge executables for hulladb |
+| 2026-10-22 11:50:09 | [shdo](https://crates.io/crates/shdo) | 0.1.0 | 0 | A kanban board for the terminal: tasks are Markdown files in a git repository |
+| 2026-10-22 11:50:36 | [eska-check](https://crates.io/crates/eska-check) | 0.15.0 | 0 | Complete Designer XML and external BSL analysis for CI |
+| 2026-10-22 11:57:39 | [hulladb](https://crates.io/crates/hulladb) | 0.1.0 | 0 | Typed PostgreSQL database authoring and durable remote function clients |
+| 2026-10-22 11:58:14 | [llm-universal](https://crates.io/crates/llm-universal) | 0.2.0 | 0 | One async client for Anthropic, OpenAI, Gemini, Cohere, Azure OpenAI and OpenAI… |
+| 2026-10-22 11:59:37 | [chain-if](https://crates.io/crates/chain-if) | 0.1.0 | 0 | Lightweight, no_std iterator extensions for conditional chaining with optional… |
+| 2026-10-22 12:03:46 | [insitu-protocol](https://crates.io/crates/insitu-protocol) | 0.2.0-rc.1 | 0 | Version 1 typed JSON-RPC and stdio framing for Insitu extensions |
+| 2026-10-22 12:03:50 | [insitu-core](https://crates.io/crates/insitu-core) | 0.2.0-rc.1 | 0 | Concrete reconciliation engine and built-in capabilities for Insitu |
+| 2026-10-22 12:03:52 | [insitu-sdk](https://crates.io/crates/insitu-sdk) | 0.2.0-rc.1 | 0 | Typed Rust SDK for authoring Insitu process extensions |
+| 2026-10-22 12:03:55 | [insitu](https://crates.io/crates/insitu) | 0.2.0-rc.1 | 0 | Native CLI for reactive Markdown and front-matter materializations |
+| 2026-10-22 12:10:17 | [csi-gui-rs](https://crates.io/crates/csi-gui-rs) | 2.0.0 | 0 | Desktop GUI for live Wi-Fi CSI capture from one or many ESP32 boards running es… |
+| 2026-10-22 12:15:26 | [kagami-cli](https://crates.io/crates/kagami-cli) | 0.1.0 | 0 | This simple tool checks whether there are any publicly disclosed vulnerabilitie… |
+| 2026-10-22 12:17:51 | [nym-authorised-network-monitors](https://crates.io/crates/nym-authorised-network-monitors) | 2.0.0 | 0 | Structures derived from the set of network monitor agents authorised by the net… |
 
 ## Data source
 
