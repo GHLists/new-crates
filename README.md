@@ -8,41 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 20:20 UTC
+## Latest list — 2026-10-22 21:18 UTC
 
-New crates published between 2026-10-22 19:19 UTC and 2026-10-22 20:20 UTC.
+New crates published between 2026-10-22 20:20 UTC and 2026-10-22 21:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-22T20-20-52-305388Z.csv)
+[Full CSV](data/new-crates-2026-10-22T21-18-41-630684Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-22 19:20:12 | [ferox-engines](https://crates.io/crates/ferox-engines) | 0.1.0 | 0 | In development — do not use. The ferox engine ports: SearXNG search engines rew… |
-| 2026-10-22 19:20:31 | [ferox-search](https://crates.io/crates/ferox-search) | 0.1.0 | 0 | In development — do not use. Search fan-out, ranking and result assembly for th… |
-| 2026-10-22 19:25:53 | [tafrigh-cohere](https://crates.io/crates/tafrigh-cohere) | 0.4.0 | 0 | Local Cohere Transcribe Arabic recognition for tafrigh through transcribe.cpp. |
-| 2026-10-22 19:26:39 | [ccp-kernel](https://crates.io/crates/ccp-kernel) | 0.5.0 | 0 | Portable CCP kernel: canonical JSON, Ed25519, schema subset, decision, state ma… |
-| 2026-10-22 19:29:17 | [domq-derive](https://crates.io/crates/domq-derive) | 0.4.0 | 0 | #[derive(FromHtml)] for domq: declarative extraction of structs from HTML with… |
-| 2026-10-22 19:29:46 | [domq](https://crates.io/crates/domq) | 0.4.0 | 0 | Tiny, zero-dependency, forgiving HTML parser: turn messy real-world HTML into a… |
-| 2026-10-22 19:30:19 | [domq-cli](https://crates.io/crates/domq-cli) | 0.4.0 | 0 | Query HTML from the command line with CSS selectors — get elements, attributes,… |
-| 2026-10-22 19:31:06 | [halcyon-xrpl-cli](https://crates.io/crates/halcyon-xrpl-cli) | 0.4.0 | 0 | hxrpl: the XRP Ledger from the command line — wallets, faucet, queries, signing… |
-| 2026-10-22 19:43:28 | [pierre-highlights-rs](https://crates.io/crates/pierre-highlights-rs) | 0.1.0 | 0 | Unofficial Rust port of Pierre Highlights |
-| 2026-10-22 19:44:42 | [nc-parser](https://crates.io/crates/nc-parser) | 0.1.0 | 0 | An incremental ANSI and terminal escape sequence parser for Rust |
-| 2026-10-22 19:45:39 | [bevy_preload](https://crates.io/crates/bevy_preload) | 0.1.0 | 0 | A library for preloading assets in the Bevy game engine. |
-| 2026-10-22 19:46:20 | [aethonan](https://crates.io/crates/aethonan) | 2.8.5 | 0 | A Rust HTTP server for Python applications (a fork of Granian with native route… |
-| 2026-10-22 19:47:47 | [forge-rbmt](https://crates.io/crates/forge-rbmt) | 0.1.0 | 0 | CLI tool for common rust-bitcoin forge patterns |
-| 2026-10-22 19:54:08 | [kree](https://crates.io/crates/kree) | 1.2.0 | 0 | A directory tree visualizer and fuzzy finder for the terminal |
-| 2026-10-22 19:54:48 | [crtsim-bevy](https://crates.io/crates/crtsim-bevy) | 1.6.0 | 0 | J. Kyle Pittman's CRTSim in Bevy: each camera's picture drawn through the CRT o… |
-| 2026-10-22 19:56:28 | [papyra-tables](https://crates.io/crates/papyra-tables) | 0.0.0 | 0 | Placeholder that reserves this name for papyra (https://github.com/BuildQube/Pa… |
-| 2026-10-22 19:56:30 | [papyra-tiff](https://crates.io/crates/papyra-tiff) | 0.0.0 | 0 | Placeholder that reserves this name for papyra (https://github.com/BuildQube/Pa… |
-| 2026-10-22 19:59:09 | [aethonan-tls-listener](https://crates.io/crates/aethonan-tls-listener) | 0.11.2 | 0 | Wrap an incoming stream of connections in TLS. Fork of tls-listener (by Thayne… |
-| 2026-10-22 20:02:18 | [tans](https://crates.io/crates/tans) | 0.1.0 | 0 | tANS/FSE entropy codec implementation |
-| 2026-10-22 20:09:38 | [chalkline-mcp](https://crates.io/crates/chalkline-mcp) | 0.1.0-beta.1 | 0 | Model Context Protocol (MCP) stdio server for chalkline |
-| 2026-10-22 20:10:05 | [pane-extension](https://crates.io/crates/pane-extension) | 0.2.0 | 0 | Write Pane extensions in Rust: the bindings, host functions, extension UI build… |
-| 2026-10-22 20:12:01 | [dado-mcp](https://crates.io/crates/dado-mcp) | 0.1.0-beta.1 | 0 | Model Context Protocol (MCP) server for dado |
-| 2026-10-22 20:12:41 | [win-text-sys](https://crates.io/crates/win-text-sys) | 0.0.2 | 0 | Memory-safe Rust over the Win32 text-handling API, starting with CompareStringO… |
-| 2026-10-22 20:12:52 | [win-debugging-sys](https://crates.io/crates/win-debugging-sys) | 0.0.2 | 0 | Memory-safe Rust over the Win32 debugging API, starting with OutputDebugStringW… |
-| 2026-10-22 20:13:54 | [win-etw-sys](https://crates.io/crates/win-etw-sys) | 0.1.0 | 0 | Memory-safe Rust over the Win32 Event Tracing provider functions: register a pr… |
-| 2026-10-22 20:14:43 | [batten-mcp](https://crates.io/crates/batten-mcp) | 0.1.0-beta.1 | 0 | Model Context Protocol server for batten grammar compiler |
-| 2026-10-22 20:16:00 | [clienthlo](https://crates.io/crates/clienthlo) | 0.1.0 | 0 | Client HLO (CHLO) dialect for pliron: ergonomic client ops that augment StableH… |
+| 2026-10-22 20:20:55 | [xlahlo](https://crates.io/crates/xlahlo) | 0.1.0 | 0 | OpenXLA HLO dialect for pliron |
+| 2026-10-22 20:25:42 | [monochange_cocoapods](https://crates.io/crates/monochange_cocoapods) | 0.0.0 | 0 | CocoaPods ecosystem adapter for monochange — discovers podspecs and publishes t… |
+| 2026-10-22 20:25:45 | [monochange_gradle](https://crates.io/crates/monochange_gradle) | 0.0.0 | 0 | Gradle ecosystem adapter for monochange — discovers Gradle projects and publish… |
+| 2026-10-22 20:25:49 | [monochange_swift](https://crates.io/crates/monochange_swift) | 0.0.0 | 0 | Swift package ecosystem adapter for monochange — discovers Swift packages and r… |
+| 2026-10-22 20:26:39 | [softbuffer-kora](https://crates.io/crates/softbuffer-kora) | 0.4.8 | 0 | Cross-platform software buffer (Playtron's Kora fork of softbuffer) |
+| 2026-10-22 20:29:00 | [joiner-mcp](https://crates.io/crates/joiner-mcp) | 0.1.0-beta.1 | 0 | Model Context Protocol (MCP) server for joiner |
+| 2026-10-22 20:32:14 | [mojo-service](https://crates.io/crates/mojo-service) | 0.3.0 | 0 | Local application service discovery and endpoint brokering over Mojo IPC |
+| 2026-10-22 20:33:22 | [pdfsurgeon](https://crates.io/crates/pdfsurgeon) | 0.2.0 | 0 | Page level surgery for PDF files: merge, split, select and rotate, with output… |
+| 2026-10-22 20:35:15 | [aai-cli](https://crates.io/crates/aai-cli) | 0.1.2 | 0 | Agent-friendly CLI for work APIs with consistent JSON output and bundled skills |
+| 2026-10-22 20:38:59 | [rm-sim](https://crates.io/crates/rm-sim) | 0.0.0-dev | 0 | Development placeholder for the RoboMaster simulator and modular robotics simul… |
+| 2026-10-22 20:42:47 | [durable-ioring-events](https://crates.io/crates/durable-ioring-events) | 0.1.0 | 0 | The ETW provider for durable-ioring: its events and manifest, and EtwDiagnostic… |
+| 2026-10-22 20:43:20 | [rades](https://crates.io/crates/rades) | 0.1.0 | 0 | AdES signature formats from the ETSI standards: CAdES, PAdES, XAdES, JAdES and… |
+| 2026-10-22 20:57:30 | [syntra-core](https://crates.io/crates/syntra-core) | 1.0.0-rc.1 | 0 | Syntra v1 protocol core: Frame codec, envelope validation, version negotiation,… |
+| 2026-10-22 20:57:45 | [syntra-runtime](https://crates.io/crates/syntra-runtime) | 1.0.0-rc.1 | 0 | Syntra v1 connection runtime: initiator + host engines and connection-bound ses… |
+| 2026-10-22 20:59:05 | [syntra-ws](https://crates.io/crates/syntra-ws) | 1.0.0-rc.1 | 0 | Syntra WSS/WS transport adapters (native tokio + browser wasm). Binary-only, on… |
+| 2026-10-22 20:59:09 | [syntra-ffi](https://crates.io/crates/syntra-ffi) | 1.0.0-rc.1 | 0 | Native C ABI surface: test fixture plus production frame-pump; no default ABI e… |
+| 2026-10-22 20:59:45 | [syntra-web](https://crates.io/crates/syntra-web) | 1.0.0-rc.1 | 0 | Browser client for Syntra v1 (connect/call/notify/close JS-facing API over synt… |
+| 2026-10-22 21:13:47 | [vti-voting](https://crates.io/crates/vti-voting) | 0.1.0 | 0 | Community voting on the Predicate Credential System: unlinkable voting tickets,… |
+| 2026-10-22 21:16:08 | [cargo-siblings](https://crates.io/crates/cargo-siblings) | 0.1.0 | 0 | Generate Cargo patches for crates in sibling repositories |
+| 2026-10-22 21:18:13 | [figma2json](https://crates.io/crates/figma2json) | 0.0.1 | 0 | CLI tool to convert Figma .fig files to LLM-friendly JSON format |
 
 ## Data source
 

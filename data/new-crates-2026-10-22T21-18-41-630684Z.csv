@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T20:20:55.922364Z,xlahlo,0.1.0,0,0,https://github.com/calebbuffa/hlo-rs,OpenXLA HLO dialect for pliron
+2026-10-22T20:25:42.760666Z,monochange_cocoapods,0.0.0,0,0,https://github.com/monochange/monochange,CocoaPods ecosystem adapter for monochange — discovers podspecs and publishes them to the CocoaPods trunk
+2026-10-22T20:25:45.838263Z,monochange_gradle,0.0.0,0,0,https://github.com/monochange/monochange,Gradle ecosystem adapter for monochange — discovers Gradle projects and publishes their libraries to Maven Central
+2026-10-22T20:25:49.512672Z,monochange_swift,0.0.0,0,0,https://github.com/monochange/monochange,Swift package ecosystem adapter for monochange — discovers Swift packages and resolves versions from git tags
+2026-10-22T20:26:39.130891Z,softbuffer-kora,0.4.8,0,0,https://github.com/playtron-os/softbuffer,Cross-platform software buffer (Playtron's Kora fork of softbuffer)
+2026-10-22T20:29:00.067918Z,joiner-mcp,0.1.0-beta.1,0,0,https://github.com/gaugeblock/joiner,Model Context Protocol (MCP) server for joiner
+2026-10-22T20:32:14.972081Z,mojo-service,0.3.0,0,0,https://github.com/looading/mojo-ipc,Local application service discovery and endpoint brokering over Mojo IPC
+2026-10-22T20:33:22.051107Z,pdfsurgeon,0.2.0,0,0,https://github.com/wlkr73/pdfsurgeon,"Page level surgery for PDF files: merge, split, select and rotate, with output that other readers do not complain about"
+2026-10-22T20:35:15.017065Z,aai-cli,0.1.2,0,0,https://github.com/aai-labs/aai-cli,Agent-friendly CLI for work APIs with consistent JSON output and bundled skills
+2026-10-22T20:38:59.8383Z,rm-sim,0.0.0-dev,0,0,https://github.com/trident-rm/rm-simulator,Development placeholder for the RoboMaster simulator and modular robotics simulation engine
+2026-10-22T20:42:47.129829Z,durable-ioring-events,0.1.0,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"The ETW provider for durable-ioring: its events and manifest, and EtwDiagnostics, a diagnostic sink that writes each event to the provider. Costs a test of whether a session is listening when nobody…"
+2026-10-22T20:43:20.475743Z,rades,0.1.0,0,0,https://github.com/sgomez/rades,"AdES signature formats from the ETSI standards: CAdES, PAdES, XAdES, JAdES and ASiC"
+2026-10-22T20:57:30.115339Z,syntra-core,1.0.0-rc.1,0,0,https://github.com/tinklehq/syntra,"Syntra v1 protocol core: Frame codec, envelope validation, version negotiation, request-id rules. No transport, no application semantics."
+2026-10-22T20:57:45.021228Z,syntra-runtime,1.0.0-rc.1,0,0,https://github.com/tinklehq/syntra,Syntra v1 connection runtime: initiator + host engines and connection-bound session manager over transport-agnostic byte channels. No Tinkle types.
+2026-10-22T20:59:05.770517Z,syntra-ws,1.0.0-rc.1,0,0,https://github.com/tinklehq/syntra,"Syntra WSS/WS transport adapters (native tokio + browser wasm). Binary-only, one message per Frame."
+2026-10-22T20:59:09.534966Z,syntra-ffi,1.0.0-rc.1,0,0,https://github.com/tinklehq/syntra,Native C ABI surface: test fixture plus production frame-pump; no default ABI exports; WASM unsupported.
+2026-10-22T20:59:45.085918Z,syntra-web,1.0.0-rc.1,0,0,https://github.com/tinklehq/syntra,Browser client for Syntra v1 (connect/call/notify/close JS-facing API over syntra-ws).
+2026-10-22T21:13:47.618044Z,vti-voting,0.1.0,0,0,https://github.com/OpenVTC/verifiable-trust-infrastructure,"Community voting on the Predicate Credential System: unlinkable voting tickets, casts bound to their ballot, and the ballot box's one-ballot-per-ticket check"
+2026-10-22T21:16:08.397208Z,cargo-siblings,0.1.0,0,0,https://opendev.org/inaugust/cargo-siblings,Generate Cargo patches for crates in sibling repositories
+2026-10-22T21:18:13.021775Z,figma2json,0.0.1,0,0,https://github.com/obscode-io/figma2json,CLI tool to convert Figma .fig files to LLM-friendly JSON format
