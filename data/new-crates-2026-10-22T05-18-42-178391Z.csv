@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T04:20:30.788202Z,joiner,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/joiner,Neurosymbolic code synthesis orchestrator uniting deterministic AST templates with constrained LLMs.
+2026-10-22T04:22:30.849445Z,eu-vat,0.1.0,0,0,https://github.com/cipansor/crateworks,Validation of European Union VAT identification numbers for all 27 member states plus Northern Ireland.
+2026-10-22T04:23:37.391361Z,nsh-macos-host,0.2.0,0,0,https://github.com/longbridge/nsh,Development host app (AppKit) that runs a nsh bundle on macOS.
+2026-10-22T04:30:34.970528Z,benchwork-core,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/benchwork,Core library and traits for benchwork:Modular visual workbench UI and local daemon for neurosymbolic code synthesis and DAG inspection.
+2026-10-22T04:32:25.091522Z,leptris-descriptor,1.9.379,0,0,https://github.com/leptris/leptris,"Shared descriptor-plan ABI for the leptris engine family (leptris, yeptris, teptris) — repr(C) mirrors of the tree-shaped descriptor plan records"
+2026-10-22T04:32:30.763818Z,iso8583-msg,0.1.0,0,0,https://github.com/cipansor/crateworks,"ISO 8583 card transaction messages: bitmap, message type indicator, field encoding and decoding."
+2026-10-22T04:34:14.732419Z,nsh-windows-app,0.2.0,0,0,https://github.com/longbridge/nsh,Release app runner on Windows: the executable of packaged nsh apps (no development features).
+2026-10-22T04:36:55.589557Z,system-suite,0.1.0,0,0,https://github.com/jamesgober/system-suite,"The foundation package for Rust services: system facts, paths, environment, configuration, logging, metrics, audit, registry, signals, and a kernel that starts and stops them in order. One dependency…"
+2026-10-22T04:40:27.359186Z,agave-worker-pool,0.0.1-reserved,0,0,https://github.com/anza-xyz/agave,reserved for future use
+2026-10-22T04:40:32.084949Z,benchwork-cli,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/benchwork,Command-line interface and MCP server for benchwork:Modular visual workbench UI and local daemon for neurosymbolic code synthesis and DAG inspection.
+2026-10-22T04:42:30.5167Z,arabic,0.1.0,0,0,https://github.com/cipansor/crateworks,"Arabic text shaping: contextual letter forms, ligatures, harakat handling and normalization."
+2026-10-22T04:43:08.298328Z,nsh-windows-host,0.2.0,0,0,https://github.com/longbridge/nsh,Development host app (Win32) that runs a nsh bundle on Windows.
+2026-10-22T04:45:11.526606Z,iji,0.1.0,0,0,https://github.com/Gr1shma/iji,A simple package manager that builds packages from git repos
+2026-10-22T04:50:32.189132Z,benchwork,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/benchwork,Modular visual workbench UI and local daemon for neurosymbolic code synthesis and DAG inspection.
+2026-10-22T04:52:31.60327Z,adhan,0.1.0,0,0,https://github.com/cipansor/crateworks,"Prayer times from a date and coordinates: Fajr, sunrise, Dhuhr, Asr, Maghrib and Isha, by the usual calculation methods."
+2026-10-22T04:56:49.426645Z,nsh-gpui-host,0.2.0,0,0,https://github.com/longbridge/nsh,"Development host app (GPUI) that runs a nsh bundle on macOS, Windows and Linux."
+2026-10-22T05:00:26.256279Z,hammer-plugin-kit,0.6.0,0,0,https://github.com/Darkrock-Studios/hammer-plugin-sdk,"Write plugins for the Hammer editor in Rust: Hammer's imports, typed operations, and the action and text check types."
+2026-10-22T05:00:30.768393Z,rabbet-core,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/rabbet,Core library and traits for rabbet:AST-anonymized telemetry corpus hub and open-weight micro-model training foundry.
+2026-10-22T05:02:30.576785Z,object-hash,0.1.0,0,0,https://github.com/cipansor/crateworks,"A stable hash of a structured value: the same value always hashes the same, whatever order its fields are in."
+2026-10-22T05:04:00.858657Z,transbank-pos,1.0.0,0,0,https://github.com/Demiannnnnn/transbank-SDK,Unofficial Rust SDK for Transbank POS terminals (POS Integrado / Autoservicio) over serial or TCP
+2026-10-22T05:04:17.797349Z,transbank-pos-sim,1.0.0,0,0,https://github.com/Demiannnnnn/transbank-SDK,Unofficial Transbank POS simulator (library and TCP server) for testing transbank-pos without hardware
+2026-10-22T05:04:49.533434Z,transbank-pos-cli,1.0.0,0,0,https://github.com/Demiannnnnn/transbank-SDK,Unofficial command-line tool (tbk-pos) to operate and diagnose Transbank POS terminals
+2026-10-22T05:04:59.881249Z,atuin-service-manager,0.12.0,0,0,https://github.com/atuinsh/service-manager-rs,Provides adapters to communicate with various operating system service managers
+2026-10-22T05:09:18.009049Z,xodr-types,0.1.0+OpenDRIVEv1.9.0,0,0,https://github.com/ZXY595/xodr-types,Rust types for ASAM OpenDRIVE 1.9 XML nodes
+2026-10-22T05:10:07.748684Z,niuse-core,0.1.0,0,0,https://github.com/niuverse/niuse,"Identity, memory, journal, and loops for niuse"
+2026-10-22T05:10:34.929953Z,rabbet-cli,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/rabbet,Command-line interface and MCP server for rabbet:AST-anonymized telemetry corpus hub and open-weight micro-model training foundry.
+2026-10-22T05:10:40.558169Z,niuse,0.1.0,0,0,https://github.com/niuverse/niuse,A personal engineering companion built on niucode
+2026-10-22T05:12:30.686571Z,javaproperties,0.1.0,0,0,https://github.com/cipansor/crateworks,"Java .properties files: escapes, line continuations and the ISO-8859-1 default, read the way java.util.Properties reads them."
