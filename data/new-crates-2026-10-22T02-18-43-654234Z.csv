@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T01:21:55.075874Z,neblina-wm,0.0.2,0,0,https://github.com/luccappaz/neblina,A Wang-Mendel model written for Neblina
+2026-10-22T01:24:02.876418Z,omnia-git,0.31.0,0,0,https://github.com/augentic/omnia-backends,Git version-control backend (the omnia:vcs boundary) over the operator's git binary
+2026-10-22T01:24:07.537959Z,omnia-sandbox,0.31.0,0,0,https://github.com/augentic/omnia-backends,"Host subprocess sandbox for the model trust domain: supervised child, scrubbed environment, kernel boundary, and vetted egress"
+2026-10-22T01:24:08.251784Z,neblina-anfis,0.0.2,0,0,https://github.com/luccappaz/neblina,A ANFIS model written for neblina
+2026-10-22T01:24:15.321807Z,rea-core,0.6.1,0,0,https://github.com/kliberty/rea,"rea runtime: template language, alias file format, process execution"
+2026-10-22T01:24:16.159455Z,rea,0.6.1,0,0,https://github.com/kliberty/rea,"Command aliases with numbered arguments and real pipelines, no shell"
+2026-10-22T01:27:37.141124Z,antline,0.0.0,0,0,https://github.com/ThinkersJournal/line-of-worker-ants,"Placeholder: antline, short alias for LineOfWorkerAnts. Not yet released."
+2026-10-22T01:27:39.730311Z,apiant,0.0.0,0,0,https://github.com/ThinkersJournal/apiant,"Placeholder: APIAnt, API scaffolding on HTTPAnt. Not yet released."
+2026-10-22T01:27:41.235485Z,auditant,0.0.0,0,0,https://github.com/ThinkersJournal/auditant,"Placeholder: AuditAnt, structured events and a tamper-evident audit trail. Not yet released."
+2026-10-22T01:27:43.932336Z,capant,0.0.0,0,0,https://github.com/ThinkersJournal/capant,"Placeholder: CapAnt, the capability engine (needs in, tested providers out, open by stored id). Not yet released."
+2026-10-22T01:27:46.740645Z,communicant,0.0.0,0,0,https://github.com/ThinkersJournal/communicant,"Placeholder: CommunicAnt, communication channels chosen by capability. Not yet released."
+2026-10-22T01:28:46.554215Z,alint-testkit,0.20.0,0,0,https://github.com/asamarts/alint,"Versioned policy-test models, hermetic runner, and repository fixture tools for alint rulesets."
+2026-10-22T01:29:49.618865Z,zeminus,0.0.1,0,0,https://github.com/zeminus,Zeminus — official crate name reservation. See https://zeminus.com
+2026-10-22T01:31:57.623437Z,tenrai,1.0.1,0,0,https://github.com/dragmine149/Tenrai_rs,Bindings for the Tenrai API.
+2026-10-22T01:34:45.950054Z,nexusq-x509,4.1.1,0,0,https://github.com/lecodev-26/nexus-q,RFC 5280 X.509 certificate issuance with post-quantum signatures for NexusQ
+2026-10-22T01:35:05.218044Z,nexusq-tsa,4.1.1,0,0,https://github.com/lecodev-26/nexus-q,RFC 3161 timestamp authority with ML-DSA post-quantum signatures
+2026-10-22T01:35:14.111275Z,nexusq-ha,4.1.1,0,0,https://github.com/lecodev-26/nexus-q,"Tenant isolation, durable journal and HA fencing primitives for NexusQ PKI services"
+2026-10-22T01:35:25.335038Z,nexusq-admin,4.1.1,0,0,https://github.com/lecodev-26/nexus-q,"RBAC, encrypted HA snapshots, and tamper-evident operational audit for NexusQ"
+2026-10-22T01:35:54.990484Z,nexusq-enrollment,4.1.1,0,0,https://github.com/lecodev-26/nexus-q,Policy-driven PQC certificate enrollment with EST and ACME support
+2026-10-22T01:40:20.485897Z,sumavia,0.0.0,0,0,,Rust LLM inference stack for MoE models on consumer GPUs (in development).
+2026-10-22T01:42:07.873412Z,nexusq-ocsp,4.1.1,0,0,https://github.com/lecodev-26/nexus-q,Post-quantum OCSP response and X.509 CRL issuance for NexusQ
+2026-10-22T01:42:11.535561Z,httpant,0.0.0,0,0,https://github.com/ThinkersJournal/httpant,"Placeholder: HTTPAnt, framework-agnostic HTTP, server and client halves. Not yet released."
+2026-10-22T01:49:33.913788Z,waveformrs,0.2.0,0,0,https://github.com/ColmTalbot/waveformrs,Gravitational-wave models that reproduce LALSimulation
+2026-10-22T01:52:07.77387Z,nexusq-hsm,4.1.1,0,0,https://github.com/lecodev-26/nexus-q,PKCS#11 ML-DSA-65 HSM signing and M-of-N CA key ceremonies for NexusQ
+2026-10-22T01:52:31.769808Z,secretant,0.0.0,0,0,https://github.com/ThinkersJournal/secretant,"Placeholder: SecretAnt, secrets handling. Not yet released."
+2026-10-22T01:54:23.924921Z,storypole,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/storypole,"Git-native SQLite and JSONL backlog, task DAG, and MCP memory store for AI coding agents."
+2026-10-22T01:54:40.282507Z,storypole-core,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/storypole,"Core library and traits for storypole:Git-native SQLite and JSONL backlog, task DAG, and MCP memory store for AI coding agents."
+2026-10-22T01:54:56.942905Z,storypole-cli,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/storypole,"Command-line interface and MCP server for storypole:Git-native SQLite and JSONL backlog, task DAG, and MCP memory store for AI coding agents."
+2026-10-22T01:55:14.602818Z,sawhorse,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/sawhorse,"Provider-agnostic LLM runtime supporting embedded Candle weights, local GGUF, and OpenAI-compatible APIs."
+2026-10-22T01:55:31.137533Z,sawhorse-core,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/sawhorse,"Core library and traits for sawhorse:Provider-agnostic LLM runtime supporting embedded Candle weights, local GGUF, and OpenAI-compatible APIs."
+2026-10-22T02:02:50.961543Z,releaseant,0.0.0,0,0,https://github.com/ThinkersJournal/releaseant,"Placeholder: ReleaseAnt, ordered publish, package verification and read-back. Not yet released."
+2026-10-22T02:03:00.190762Z,legado-core,0.1.0,0,0,https://gitea.slcomplex.party/OpenToGithub/legado-rust-engine-code,模型 / 错误 / 跨模块 trait
+2026-10-22T02:03:22.262091Z,legado-regex,0.1.0,0,0,https://gitea.slcomplex.party/OpenToGithub/legado-rust-engine-code,ICU4C 正则绑定：对齐 Android 的 java.util.regex 后端（AOSP PatternNative），供规则/净化/书源链路共用
+2026-10-22T02:03:45.308399Z,legado-rule,0.1.0,0,0,https://gitea.slcomplex.party/OpenToGithub/legado-rust-engine-code,规则引擎：切分 / AST / 求值
+2026-10-22T02:04:00.746841Z,sawhorse-cli,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/sawhorse,"Command-line interface and MCP server for sawhorse:Provider-agnostic LLM runtime supporting embedded Candle weights, local GGUF, and OpenAI-compatible APIs."
+2026-10-22T02:04:07.454909Z,legado-net,0.1.0,0,0,https://gitea.slcomplex.party/OpenToGithub/legado-rust-engine-code,URL 模板 / HTTP / Cookie / 编码 / 限速
+2026-10-22T02:04:29.437931Z,legado-js,0.1.0,0,0,https://gitea.slcomplex.party/OpenToGithub/legado-rust-engine-code,JS 运行时 + java.* + 加解密
+2026-10-22T02:04:47.865162Z,barracuda-spirv,0.4.0,0,0,https://github.com/ecoPrimals/barraCuda,SPIR-V passthrough bridge for barraCuda — isolates the single unsafe create_shader_module_spirv call
+2026-10-22T02:05:17.774184Z,barracuda-naga-exec,0.4.0,0,0,https://github.com/ecoPrimals/barraCuda,CPU interpreter for naga IR — executes WGSL compute shaders without GPU
+2026-10-22T02:10:27.149809Z,chalkline-cli,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/chalkline,"Command-line interface and MCP server for chalkline:Interactive specification planner, ambiguity resolver, and topological task DAG compiler."
+2026-10-22T02:12:26.557254Z,atuin-vte,0.15.1,0,0,https://github.com/atuinsh/vte,"Atuin's fork of vte, a parser for implementing terminal emulators"
+2026-10-22T02:13:11.390264Z,supervisorant,0.0.0,0,0,https://github.com/ThinkersJournal/supervisorant,"Placeholder: SupervisorAnt, process supervision. Not yet released."
+2026-10-22T02:15:24.838991Z,cua-spacesd-client,0.6.0,0,0,https://github.com/trycua/cua,Ergonomic async client for cua-spacesd (cua.env.v1) over native gRPC or gRPC-Web.
+2026-10-22T02:15:25.506092Z,cua-telemetry,0.6.0,0,0,https://github.com/trycua/cua,"Anonymous, content-free product telemetry shared by the cua SDK, the `cua` CLI, `cua daemon`, cua-spacesd, the Spaces app and cua-driver: one schema, one install id, one set of switches."
+2026-10-22T02:15:26.170939Z,cua-agents,0.6.0,0,0,https://github.com/trycua/cua,"Coding agents (Claude Code, Codex, Gemini CLI, Antigravity, OpenCode, Goose, Pi, Hermes, OpenClaw) inside any sandbox with cua-spacesd: pinned, verified installs, one ACP-normalized event stream, fol…"
+2026-10-22T02:15:26.47925Z,primal-barracuda,0.4.0,0,0,https://github.com/ecoPrimals/barraCuda,barraCuda — BARrier-free Rust Abstracted Cross-platform Unified Dimensional Algebra. Vendor-agnostic GPU compute via WGSL.
+2026-10-22T02:15:26.604652Z,cua-mesh,0.6.0,0,0,https://github.com/trycua/cua,"WireGuard®-based in-app mesh for Cua Spaces: userspace tunnels, NAT traversal, an encrypted fallback relay client and QUIC streams between peers"
+2026-10-22T02:15:27.627164Z,cua-create-failure,0.6.0,0,0,https://github.com/trycua/cua,"Why a sandbox or Space create failed, as a fixed telemetry word (`image_pull_not_found`, `vm_boot_timeout`, ...) read from the error text inside the process; the text never leaves. Also the preflight…"
+2026-10-22T02:17:33.464089Z,primal-barracuda-core,0.4.0,0,0,https://github.com/ecoPrimals/barraCuda,Core primal lifecycle for barraCuda — BARrier-free Rust Abstracted Cross-platform Unified Dimensional Algebra
