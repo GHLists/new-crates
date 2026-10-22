@@ -8,62 +8,68 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 03:21 UTC
+## Latest list — 2026-10-22 04:19 UTC
 
-New crates published between 2026-10-22 02:18 UTC and 2026-10-22 03:21 UTC.
+New crates published between 2026-10-22 03:21 UTC and 2026-10-22 04:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-22T03-21-49-635239Z.csv)
+[Full CSV](data/new-crates-2026-10-22T04-19-31-659434Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-22 02:21:06 | [primal-sourdough-core](https://crates.io/crates/primal-sourdough-core) | 0.4.0 | 0 | Core traits and patterns for ecoPrimals - the starter culture for new primals |
-| 2026-10-22 02:21:26 | [primal-sourdough-genomebin](https://crates.io/crates/primal-sourdough-genomebin) | 0.4.0 | 0 | Pure Rust genomeBin infrastructure - type-safe, concurrent, universal deployment |
-| 2026-10-22 02:23:32 | [redactant](https://crates.io/crates/redactant) | 0.0.0 | 0 | Placeholder: RedactAnt, redaction types and safe formatting. Not yet released. |
-| 2026-10-22 02:25:06 | [primal-sourdough](https://crates.io/crates/primal-sourdough) | 0.4.0 | 0 | The reference UniBin for ecoPrimals - tooling and scaffolding platform |
-| 2026-10-22 02:32:05 | [hapin-utils-rs](https://crates.io/crates/hapin-utils-rs) | 5.0.0 | 0 | Native Rust Hapin, Kazakh Arabic/Cyrillic and IPA conversion with contextual se… |
-| 2026-10-22 02:32:19 | [cua-vmm](https://crates.io/crates/cua-vmm) | 0.7.0 | 0 | Local sandbox runtimes for the cua SDK: Lume, QEMU and OCI containers (gVisor). |
-| 2026-10-22 02:33:38 | [authant](https://crates.io/crates/authant) | 0.0.0 | 0 | Placeholder: AuthAnt, authentication and authorization (the future name of auth… |
-| 2026-10-22 02:35:42 | [primal-bingocube-core](https://crates.io/crates/primal-bingocube-core) | 0.5.0 | 0 | Core BingoCube implementation: two-board cross-binding with progressive reveal |
-| 2026-10-22 02:39:12 | [cortexkit-model-batch](https://crates.io/crates/cortexkit-model-batch) | 0.1.0 | 0 | Batch rules shared by the CortexKit model-batch roles: error vocabulary and Wor… |
-| 2026-10-22 02:40:25 | [bart-rs](https://crates.io/crates/bart-rs) | 0.1.0 | 0 | Command line tool and library for exploring BART's GTFS schedule and realtime d… |
-| 2026-10-22 02:43:54 | [schedulant](https://crates.io/crates/schedulant) | 0.0.0 | 0 | Placeholder: SchedulAnt, a generic scheduling library. Not yet released. |
-| 2026-10-22 02:46:32 | [primal-bingocube-adapters](https://crates.io/crates/primal-bingocube-adapters) | 0.5.0 | 0 | Visualization adapters for BingoCube - helps systems render BingoCube data |
-| 2026-10-22 02:48:04 | [trit-core](https://crates.io/crates/trit-core) | 0.3.2 | 0 | 三值逻辑核心：Kleene / Łukasiewicz / Bochvar 语义、AST、解析器、位并行表示与二进制互操作 |
-| 2026-10-22 02:48:18 | [trit-eval](https://crates.io/crates/trit-eval) | 0.3.2 | 0 | 三值求值、真值表与化简 |
-| 2026-10-22 02:48:31 | [trit-sat](https://crates.io/crates/trit-sat) | 0.3.2 | 0 | 三值等价的 dual-rail + SAT 符号化判定 |
-| 2026-10-22 02:48:35 | [trit-circuit](https://crates.io/crates/trit-circuit) | 0.3.2 | 0 | 三值组合网表的 X 传播与 stuck-at 可测性分析 |
-| 2026-10-22 02:48:41 | [trit-bdd](https://crates.io/crates/trit-bdd) | 0.3.2 | 0 | 三值等价的 BDD（canonical）判定 |
-| 2026-10-22 02:48:46 | [rustls-pure](https://crates.io/crates/rustls-pure) | 0.13.0 | 0 | A pure-Rust crypto provider for rustls: TLS 1.3 only, RustCrypto primitives wit… |
-| 2026-10-22 02:48:49 | [cua-image](https://crates.io/crates/cua-image) | 0.7.0 | 0 | OCI images for the cua SDK: pull/push, containerDisk and rootfs formats, ImageS… |
-| 2026-10-22 02:48:51 | [cua-disk](https://crates.io/crates/cua-disk) | 0.7.0 | 0 | Disk accounting, cache budget and garbage collection for the cua SDK: every loc… |
-| 2026-10-22 02:51:12 | [bbtree-mmap](https://crates.io/crates/bbtree-mmap) | 0.1.5 | 0 | bbtree on disk: a compact, read-only map written to a file and looked up where… |
-| 2026-10-22 02:52:23 | [incised-text](https://crates.io/crates/incised-text) | 0.1.0 | 0 | Text for embedded-graphics draw targets from pre-rendered 2bpp glyph atlases of… |
-| 2026-10-22 02:52:50 | [bbtree-store](https://crates.io/crates/bbtree-store) | 0.1.5 | 0 | A memory-bounded store of byte strings on bbtree: every byte of its keys and va… |
-| 2026-10-22 02:54:14 | [line-of-worker-ants](https://crates.io/crates/line-of-worker-ants) | 0.0.0 | 0 | Placeholder: LineOfWorkerAnts, durable lines and workers. Not yet released. |
-| 2026-10-22 02:58:38 | [trit-policy](https://crates.io/crates/trit-policy) | 0.3.2 | 0 | 三值决策表的构建期验证：定义展开 + 全赋值断言检查 |
-| 2026-10-22 03:04:25 | [sdr-hal-bladerf-sys](https://crates.io/crates/sdr-hal-bladerf-sys) | 0.1.0 | 0 | Low-level FFI bindings to the libbladeRF library for bladeRF devices |
-| 2026-10-22 03:04:25 | [sdr-hal-limesuite-sys](https://crates.io/crates/sdr-hal-limesuite-sys) | 0.1.0 | 0 | Low-level bindings to the LimeSuite library for LimeSDR devices |
-| 2026-10-22 03:04:26 | [sdr-hal-uhd-sys](https://crates.io/crates/sdr-hal-uhd-sys) | 0.1.0 | 0 | Low-level FFI bindings to the UHD library for USRP devices |
-| 2026-10-22 03:04:27 | [sdr-hal-bladerf](https://crates.io/crates/sdr-hal-bladerf) | 0.1.0 | 0 | Safe Rust bindings to the libbladeRF library for bladeRF devices |
-| 2026-10-22 03:04:27 | [sdr-hal-limesuite](https://crates.io/crates/sdr-hal-limesuite) | 0.1.0 | 0 | Safe Rust bindings to the LimeSuite library for LimeSDR devices |
-| 2026-10-22 03:04:34 | [notificant](https://crates.io/crates/notificant) | 0.0.0 | 0 | Placeholder: NotificAnt, notification policy on top of CommunicAnt. Not yet rel… |
-| 2026-10-22 03:05:52 | [cua-sandbox-core](https://crates.io/crates/cua-sandbox-core) | 0.7.0 | 0 | One daemon-agnostic Sandbox over the local (VMM), contrib and direct providers,… |
-| 2026-10-22 03:05:54 | [cua-contrib](https://crates.io/crates/cua-contrib) | 0.6.0 | 0 | Contrib sandbox providers for the cua SDK: third-party platforms (E2B, Daytona,… |
-| 2026-10-22 03:06:35 | [sdr-hal-uhd](https://crates.io/crates/sdr-hal-uhd) | 0.1.0 | 0 | Safe Rust bindings to the UHD library for USRP devices |
-| 2026-10-22 03:08:43 | [sansheng](https://crates.io/crates/sansheng) | 0.3.2 | 0 | 三生（Sansheng）：三值推理工具箱的伞包（K3/Ł3/B3、SAT、BDD、网表、策略验证） |
-| 2026-10-22 03:10:12 | [primal-bingocube-nautilus](https://crates.io/crates/primal-bingocube-nautilus) | 0.5.0 | 0 | Evolutionary reservoir computing via BingoCube board populations — the nautilus… |
-| 2026-10-22 03:10:22 | [primal-bingocube-demos](https://crates.io/crates/primal-bingocube-demos) | 0.5.0 | 0 | Interactive demonstrations of BingoCube |
-| 2026-10-22 03:11:09 | [offdiff](https://crates.io/crates/offdiff) | 0.4.0 | 0 | Extract Office and PDF documents into deterministic JSON or Markdown, built for… |
-| 2026-10-22 03:12:25 | [gresil](https://crates.io/crates/gresil) | 0.1.0-alpha.9 | 0 | Spiking neural networks in no_std Rust, i16 fixed point, for microcontrollers |
-| 2026-10-22 03:14:55 | [sentinelant](https://crates.io/crates/sentinelant) | 0.0.0 | 0 | Placeholder: SentinelAnt, detection. Not yet released. |
-| 2026-10-22 03:16:38 | [sdr-hal](https://crates.io/crates/sdr-hal) | 0.1.0 | 0 | Protocol-neutral SDR IQ interfaces, drivers, DSP and remote radio service. |
-| 2026-10-22 03:17:33 | [gbz-construct](https://crates.io/crates/gbz-construct) | 0.1.0 | 0 | GBZ file format and construction for pangenome graphs |
-| 2026-10-22 03:18:49 | [trit-cli](https://crates.io/crates/trit-cli) | 0.3.2 | 0 | trit 命令行：求值、真值表、等价判定、化简与网表分析 |
-| 2026-10-22 03:19:17 | [niucode-core](https://crates.io/crates/niucode-core) | 0.1.0 | 0 | Event model and append-only session log for niucode |
-| 2026-10-22 03:19:45 | [niucode-auth](https://crates.io/crates/niucode-auth) | 0.1.0 | 0 | Credential resolution and secure storage for niucode |
-| 2026-10-22 03:20:15 | [niucode-provider](https://crates.io/crates/niucode-provider) | 0.1.0 | 0 | OpenAI-compatible streaming providers for niucode |
-| 2026-10-22 03:20:43 | [niucode-tools](https://crates.io/crates/niucode-tools) | 0.1.0 | 0 | Workspace tools for the niucode coding agent |
-| 2026-10-22 03:21:11 | [niucode-extension](https://crates.io/crates/niucode-extension) | 0.1.0 | 0 | Sidecar extension host for niucode external tools |
+| 2026-10-22 03:21:50 | [cua-spaces](https://crates.io/crates/cua-spaces) | 0.7.0 | 0 | Cua Spaces runtime: a registry of spacesd sandboxes plus the Spaces primitives… |
+| 2026-10-22 03:22:25 | [xmlkit](https://crates.io/crates/xmlkit) | 0.1.0 | 0 | Minimal, allocation-friendly XML reading and writing used across the crateworks… |
+| 2026-10-22 03:22:48 | [iso20022-rs](https://crates.io/crates/iso20022-rs) | 0.1.0 | 0 | ISO 20022 payment messages: parse and build camt, pain and pacs documents. |
+| 2026-10-22 03:22:52 | [soap-client](https://crates.io/crates/soap-client) | 0.1.0 | 0 | SOAP 1.1 and 1.2 envelopes, plus WSDL reading, for calling legacy web services. |
+| 2026-10-22 03:22:55 | [chalkline-core](https://crates.io/crates/chalkline-core) | 0.0.1-alpha.1 | 0 | Core library and traits for chalkline:Interactive specification planner, ambigu… |
+| 2026-10-22 03:22:56 | [wssec](https://crates.io/crates/wssec) | 0.1.0 | 0 | WS-Security headers: UsernameToken, timestamp, and password digests, for SOAP s… |
+| 2026-10-22 03:23:00 | [factur-x](https://crates.io/crates/factur-x) | 0.1.0 | 0 | Factur-X and ZUGFeRD hybrid e-invoices: EN 16931 CII and UBL generation, parsin… |
+| 2026-10-22 03:23:12 | [chalkline](https://crates.io/crates/chalkline) | 0.0.1-alpha.1 | 0 | Interactive specification planner, ambiguity resolver, and topological task DAG… |
+| 2026-10-22 03:23:29 | [dado-core](https://crates.io/crates/dado-core) | 0.0.1-alpha.1 | 0 | Core library and traits for dado:Deterministic polyglot AST pattern engine with… |
+| 2026-10-22 03:23:47 | [dado-cli](https://crates.io/crates/dado-cli) | 0.0.1-alpha.1 | 0 | Command-line interface and MCP server for dado:Deterministic polyglot AST patte… |
+| 2026-10-22 03:24:05 | [dado](https://crates.io/crates/dado) | 0.0.1-alpha.1 | 0 | Deterministic polyglot AST pattern engine with composable Typed Holes. |
+| 2026-10-22 03:26:30 | [httpant-core](https://crates.io/crates/httpant-core) | 0.0.0 | 0 | Placeholder: HTTPAnt-core, shared HTTP types, URL redaction and the capability… |
+| 2026-10-22 03:26:33 | [scutum-management](https://crates.io/crates/scutum-management) | 0.1.0 | 0 | Typed Scutum management protocol and mTLS client |
+| 2026-10-22 03:26:44 | [scutum](https://crates.io/crates/scutum) | 0.1.0 | 0 | Event-driven host firewall for Linux and FreeBSD, powered by Orbit Link |
+| 2026-10-22 03:26:53 | [scutum-cli](https://crates.io/crates/scutum-cli) | 0.1.0 | 0 | Scutum TCP/mTLS management client |
+| 2026-10-22 03:29:41 | [niucode-agent](https://crates.io/crates/niucode-agent) | 0.1.0 | 0 | Minimal turn loop for the niucode coding agent |
+| 2026-10-22 03:30:30 | [batten-core](https://crates.io/crates/batten-core) | 0.0.1-alpha.1 | 0 | Core library and traits for batten:Dynamic variable-scope to Context-Free Gramm… |
+| 2026-10-22 03:33:20 | [pdfa](https://crates.io/crates/pdfa) | 0.1.0 | 0 | PDF/A conformance: XMP metadata, embedded files, and the Factur-X container for… |
+| 2026-10-22 03:35:57 | [majik-signature-client](https://crates.io/crates/majik-signature-client) | 0.1.0 | 0 | Signature client for Majikah apps: composes majik-key-client with contacts, sta… |
+| 2026-10-22 03:36:51 | [httpant-server](https://crates.io/crates/httpant-server) | 0.0.0 | 0 | Placeholder: HTTPAnt-server, the server half of HTTPAnt. Not yet released. |
+| 2026-10-22 03:38:00 | [cua-byoc](https://crates.io/crates/cua-byoc) | 0.7.0 | 0 | Your own cloud account as a sandbox location (`--on aws\|gcp\|modal`): the AWS EC… |
+| 2026-10-22 03:38:02 | [cua-daemon](https://crates.io/crates/cua-daemon) | 0.7.0 | 0 | The cua SDK runtime (sandboxes, env passthrough, media bridge) hosted as cua.da… |
+| 2026-10-22 03:38:52 | [flashmind-types](https://crates.io/crates/flashmind-types) | 0.1.0 | 0 | Shared types for the Flashmind AI agent framework |
+| 2026-10-22 03:39:49 | [niucode](https://crates.io/crates/niucode) | 0.1.0 | 0 | Minimal, observable coding agent |
+| 2026-10-22 03:40:00 | [flashmind-core](https://crates.io/crates/flashmind-core) | 0.1.0 | 0 | Core agent runtime for the Flashmind AI agent framework |
+| 2026-10-22 03:40:46 | [flashmind-llm](https://crates.io/crates/flashmind-llm) | 0.1.0 | 0 | LLM provider implementations for the Flashmind AI agent framework |
+| 2026-10-22 03:40:53 | [flashmind-skills](https://crates.io/crates/flashmind-skills) | 0.1.0 | 0 | Skill discovery, loading, and execution for Flashmind |
+| 2026-10-22 03:41:41 | [flashmind-tools](https://crates.io/crates/flashmind-tools) | 0.1.0 | 0 | Built-in tool implementations for the Flashmind AI agent framework |
+| 2026-10-22 03:42:31 | [holidays-rs](https://crates.io/crates/holidays-rs) | 0.1.0 | 0 | Public holiday calendars for multiple countries, with fixed, Easter-relative an… |
+| 2026-10-22 03:43:47 | [flashmind-memory](https://crates.io/crates/flashmind-memory) | 0.1.0 | 0 | Vector memory store with hybrid search |
+| 2026-10-22 03:44:08 | [feltdb-server](https://crates.io/crates/feltdb-server) | 0.2.0 | 0 | The FeltDB server: the managed FeltDB authority over HTTP (scoped state, transa… |
+| 2026-10-22 03:46:11 | [batten-cli](https://crates.io/crates/batten-cli) | 0.0.1-alpha.1 | 0 | Command-line interface and MCP server for batten:Dynamic variable-scope to Cont… |
+| 2026-10-22 03:47:12 | [httpant-client](https://crates.io/crates/httpant-client) | 0.0.0 | 0 | Placeholder: HTTPAnt-client, the client half of HTTPAnt. Not yet released. |
+| 2026-10-22 03:51:14 | [batten](https://crates.io/crates/batten) | 0.0.1-alpha.1 | 0 | Dynamic variable-scope to Context-Free Grammar (GBNF/Lark) compiler and token m… |
+| 2026-10-22 03:52:30 | [hijridate](https://crates.io/crates/hijridate) | 0.1.0 | 0 | Hijri (Islamic) and Gregorian date conversion using the Umm al-Qura calendar. |
+| 2026-10-22 03:52:49 | [nsh-base](https://crates.io/crates/nsh-base) | 0.2.0 | 0 | Behavior and infrastructure foundations of NSH apps' UI (`nsh/base`), unstyled:… |
+| 2026-10-22 03:52:55 | [nsh-testing](https://crates.io/crates/nsh-testing) | 0.2.0 | 0 | Headless tests of nsh apps: the driver that runs an app on an engine without a… |
+| 2026-10-22 03:53:02 | [nsh-ios-app](https://crates.io/crates/nsh-ios-app) | 0.2.0 | 0 | Release app runner: the executable of packaged nsh apps (no development feature… |
+| 2026-10-22 03:53:02 | [nsh-ios-host](https://crates.io/crates/nsh-ios-host) | 0.2.0 | 0 | Prebuilt development host app (Mac Catalyst / iOS) that runs a nsh bundle. |
+| 2026-10-22 03:53:02 | [nsh-linux-app](https://crates.io/crates/nsh-linux-app) | 0.2.0 | 0 | Release app runner on Linux: the executable of packaged nsh apps (no developmen… |
+| 2026-10-22 03:53:26 | [feltdb-client](https://crates.io/crates/feltdb-client) | 0.2.0 | 0 | Native async Rust client for a FeltDB server: records, atomic and idempotent tr… |
+| 2026-10-22 03:53:46 | [flashmind-tui](https://crates.io/crates/flashmind-tui) | 0.1.0 | 0 | TUI primitives for building interactive agent CLIs with Flashmind |
+| 2026-10-22 03:54:49 | [cua-sdk](https://crates.io/crates/cua-sdk) | 0.7.0 | 0 | The cua SDK: the MIT #[uniffi::export] crate. One Cua object (embedded or conne… |
+| 2026-10-22 03:57:42 | [notepipe](https://crates.io/crates/notepipe) | 0.1.0 | 0 | Extensible engine and CLI that turns video and audio into Markdown notes |
+| 2026-10-22 03:59:16 | [qualia-bioauth](https://crates.io/crates/qualia-bioauth) | 0.1.0 | 0 | Auth-bound key storage: wrapping a 32-byte key behind platform user authenticat… |
+| 2026-10-22 04:00:30 | [joiner-core](https://crates.io/crates/joiner-core) | 0.0.1-alpha.1 | 0 | Core library and traits for joiner:Neurosymbolic code synthesis orchestrator un… |
+| 2026-10-22 04:02:31 | [stdnum-rs](https://crates.io/crates/stdnum-rs) | 0.1.0 | 0 | Validation of national identification numbers, VAT numbers, IBANs and other sta… |
+| 2026-10-22 04:05:41 | [nsh-linux-host](https://crates.io/crates/nsh-linux-host) | 0.2.0 | 0 | Development host app (GTK 4) that runs a nsh bundle on Linux. |
+| 2026-10-22 04:10:30 | [joiner-cli](https://crates.io/crates/joiner-cli) | 0.0.1-alpha.1 | 0 | Command-line interface and MCP server for joiner:Neurosymbolic code synthesis o… |
+| 2026-10-22 04:12:30 | [spreadsheet-formula](https://crates.io/crates/spreadsheet-formula) | 0.1.0 | 0 | Parser and evaluator for spreadsheet formulas, independent of any particular fi… |
+| 2026-10-22 04:12:48 | [timerd-rs](https://crates.io/crates/timerd-rs) | 0.1.0 | 0 | A small foreground/background terminal timer for Linux |
+| 2026-10-22 04:13:48 | [nsh-macos-app](https://crates.io/crates/nsh-macos-app) | 0.2.0 | 0 | Release app runner on macOS: the executable of packaged nsh apps (no developmen… |
+| 2026-10-22 04:15:10 | [flashmind-cli](https://crates.io/crates/flashmind-cli) | 0.1.0 | 0 | AI chat & coding agent powered by flashmind |
+| 2026-10-22 04:15:17 | [flashmind-cron](https://crates.io/crates/flashmind-cron) | 0.1.0 | 0 | Cron job scheduling with pluggable storage for Flashmind |
 
 ## Data source
 

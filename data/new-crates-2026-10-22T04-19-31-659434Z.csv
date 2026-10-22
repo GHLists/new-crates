@@ -1,0 +1,55 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T03:21:50.490761Z,cua-spaces,0.7.0,0,0,https://github.com/trycua/cua,"Cua Spaces runtime: a registry of spacesd sandboxes plus the Spaces primitives (files, streams, presence, hotspot, services, agents), the Spaces MCP server and the extension points for teleport, the…"
+2026-10-22T03:22:25.027668Z,xmlkit,0.1.0,0,0,https://github.com/cipansor/crateworks,"Minimal, allocation-friendly XML reading and writing used across the crateworks workspace."
+2026-10-22T03:22:48.538803Z,iso20022-rs,0.1.0,0,0,https://github.com/cipansor/crateworks,"ISO 20022 payment messages: parse and build camt, pain and pacs documents."
+2026-10-22T03:22:52.537468Z,soap-client,0.1.0,0,0,https://github.com/cipansor/crateworks,"SOAP 1.1 and 1.2 envelopes, plus WSDL reading, for calling legacy web services."
+2026-10-22T03:22:55.014789Z,chalkline-core,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/chalkline,"Core library and traits for chalkline:Interactive specification planner, ambiguity resolver, and topological task DAG compiler."
+2026-10-22T03:22:56.712427Z,wssec,0.1.0,0,0,https://github.com/cipansor/crateworks,"WS-Security headers: UsernameToken, timestamp, and password digests, for SOAP services that require them."
+2026-10-22T03:23:00.919844Z,factur-x,0.1.0,0,0,https://github.com/cipansor/crateworks,"Factur-X and ZUGFeRD hybrid e-invoices: EN 16931 CII and UBL generation, parsing and validation."
+2026-10-22T03:23:12.036653Z,chalkline,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/chalkline,"Interactive specification planner, ambiguity resolver, and topological task DAG compiler."
+2026-10-22T03:23:29.929279Z,dado-core,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/dado,Core library and traits for dado:Deterministic polyglot AST pattern engine with composable Typed Holes.
+2026-10-22T03:23:47.731216Z,dado-cli,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/dado,Command-line interface and MCP server for dado:Deterministic polyglot AST pattern engine with composable Typed Holes.
+2026-10-22T03:24:05.366703Z,dado,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/dado,Deterministic polyglot AST pattern engine with composable Typed Holes.
+2026-10-22T03:26:30.431692Z,httpant-core,0.0.0,0,0,https://github.com/ThinkersJournal/httpant,"Placeholder: HTTPAnt-core, shared HTTP types, URL redaction and the capability vocabulary. Not yet released."
+2026-10-22T03:26:33.048989Z,scutum-management,0.1.0,0,0,https://github.com/claviron/scutum,Typed Scutum management protocol and mTLS client
+2026-10-22T03:26:44.622816Z,scutum,0.1.0,0,0,https://github.com/claviron/scutum,"Event-driven host firewall for Linux and FreeBSD, powered by Orbit Link"
+2026-10-22T03:26:53.295826Z,scutum-cli,0.1.0,0,0,https://github.com/claviron/scutum,Scutum TCP/mTLS management client
+2026-10-22T03:29:41.509547Z,niucode-agent,0.1.0,0,0,https://github.com/niuverse/niucode,Minimal turn loop for the niucode coding agent
+2026-10-22T03:30:30.928044Z,batten-core,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/batten,Core library and traits for batten:Dynamic variable-scope to Context-Free Grammar (GBNF/Lark) compiler and token mask generator.
+2026-10-22T03:33:20.345942Z,pdfa,0.1.0,0,0,https://github.com/cipansor/crateworks,"PDF/A conformance: XMP metadata, embedded files, and the Factur-X container for e-invoices."
+2026-10-22T03:35:57.663029Z,majik-signature-client,0.1.0,0,0,,"Signature client for Majikah apps: composes majik-key-client with contacts, stamps, logs and signing."
+2026-10-22T03:36:51.475852Z,httpant-server,0.0.0,0,0,https://github.com/ThinkersJournal/httpant,"Placeholder: HTTPAnt-server, the server half of HTTPAnt. Not yet released."
+2026-10-22T03:38:00.121787Z,cua-byoc,0.7.0,0,0,https://github.com/trycua/cua,"Your own cloud account as a sandbox location (`--on aws|gcp|modal`): the AWS EC2, Google Compute Engine and Modal providers of the sandbox layer, `cua cloud` connect/test/sweep, ownership tags and re…"
+2026-10-22T03:38:02.069471Z,cua-daemon,0.7.0,0,0,https://github.com/trycua/cua,"The cua SDK runtime (sandboxes, env passthrough, media bridge) hosted as cua.daemon.v1 over a Unix socket or loopback + token, and its client."
+2026-10-22T03:38:52.886661Z,flashmind-types,0.1.0,0,0,https://github.com/flashmind-labs/flashmind,Shared types for the Flashmind AI agent framework
+2026-10-22T03:39:49.036941Z,niucode,0.1.0,0,0,https://github.com/niuverse/niucode,"Minimal, observable coding agent"
+2026-10-22T03:40:00.398086Z,flashmind-core,0.1.0,0,0,https://github.com/flashmind-labs/flashmind,Core agent runtime for the Flashmind AI agent framework
+2026-10-22T03:40:46.715781Z,flashmind-llm,0.1.0,0,0,https://github.com/flashmind-labs/flashmind,LLM provider implementations for the Flashmind AI agent framework
+2026-10-22T03:40:53.087707Z,flashmind-skills,0.1.0,0,0,https://github.com/flashmind-labs/flashmind,"Skill discovery, loading, and execution for Flashmind"
+2026-10-22T03:41:41.072993Z,flashmind-tools,0.1.0,0,0,https://github.com/flashmind-labs/flashmind,Built-in tool implementations for the Flashmind AI agent framework
+2026-10-22T03:42:31.148108Z,holidays-rs,0.1.0,0,0,https://github.com/cipansor/crateworks,"Public holiday calendars for multiple countries, with fixed, Easter-relative and nth-weekday rules."
+2026-10-22T03:43:47.142839Z,flashmind-memory,0.1.0,0,0,https://github.com/flashmind-labs/flashmind,Vector memory store with hybrid search
+2026-10-22T03:44:08.072832Z,feltdb-server,0.2.0,0,0,https://github.com/rkendel1/flow_db,"The FeltDB server: the managed FeltDB authority over HTTP (scoped state, transactions, CAS, history, principals, events), installed as the `feltdb-server` binary"
+2026-10-22T03:46:11.668201Z,batten-cli,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/batten,Command-line interface and MCP server for batten:Dynamic variable-scope to Context-Free Grammar (GBNF/Lark) compiler and token mask generator.
+2026-10-22T03:47:12.288312Z,httpant-client,0.0.0,0,0,https://github.com/ThinkersJournal/httpant,"Placeholder: HTTPAnt-client, the client half of HTTPAnt. Not yet released."
+2026-10-22T03:51:14.283639Z,batten,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/batten,Dynamic variable-scope to Context-Free Grammar (GBNF/Lark) compiler and token mask generator.
+2026-10-22T03:52:30.457586Z,hijridate,0.1.0,0,0,https://github.com/cipansor/crateworks,Hijri (Islamic) and Gregorian date conversion using the Umm al-Qura calendar.
+2026-10-22T03:52:49.375139Z,nsh-base,0.2.0,0,0,https://github.com/longbridge/nsh,"Behavior and infrastructure foundations of NSH apps' UI (`nsh/base`), unstyled: navigation, safe areas, dialogs, the keyboard and the status bar."
+2026-10-22T03:52:55.832357Z,nsh-testing,0.2.0,0,0,https://github.com/longbridge/nsh,"Headless tests of nsh apps: the driver that runs an app on an engine without a window and takes a user's steps on it, and the runner of nsh test."
+2026-10-22T03:53:02.444814Z,nsh-ios-app,0.2.0,0,0,https://github.com/longbridge/nsh,Release app runner: the executable of packaged nsh apps (no development features).
+2026-10-22T03:53:02.700388Z,nsh-ios-host,0.2.0,0,0,https://github.com/longbridge/nsh,Prebuilt development host app (Mac Catalyst / iOS) that runs a nsh bundle.
+2026-10-22T03:53:02.980874Z,nsh-linux-app,0.2.0,0,0,https://github.com/longbridge/nsh,Release app runner on Linux: the executable of packaged nsh apps (no development features).
+2026-10-22T03:53:26.998077Z,feltdb-client,0.2.0,0,0,https://github.com/rkendel1/flow_db,"Native async Rust client for a FeltDB server: records, atomic and idempotent transactions, compare-and-set, bounded queries, read-basis fences, events, and the canonical application API"
+2026-10-22T03:53:46.064895Z,flashmind-tui,0.1.0,0,0,https://github.com/flashmind-labs/flashmind,TUI primitives for building interactive agent CLIs with Flashmind
+2026-10-22T03:54:49.033246Z,cua-sdk,0.7.0,0,0,https://github.com/trycua/cua,"The cua SDK: the MIT #[uniffi::export] crate. One Cua object (embedded or connected to `cua daemon`) exposing env, sandboxes, local and spaces modules to Python, TypeScript, Swift and Kotlin."
+2026-10-22T03:57:42.211053Z,notepipe,0.1.0,0,0,https://github.com/3ae3ae/notepipe,Extensible engine and CLI that turns video and audio into Markdown notes
+2026-10-22T03:59:16.871525Z,qualia-bioauth,0.1.0,0,0,https://github.com/Qualia2FA/QualiaBioAuth,"Auth-bound key storage: wrapping a 32-byte key behind platform user authentication (Android BiometricPrompt, Windows Hello)."
+2026-10-22T04:00:30.260001Z,joiner-core,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/joiner,Core library and traits for joiner:Neurosymbolic code synthesis orchestrator uniting deterministic AST templates with constrained LLMs.
+2026-10-22T04:02:31.067581Z,stdnum-rs,0.1.0,0,0,https://github.com/cipansor/crateworks,"Validation of national identification numbers, VAT numbers, IBANs and other standard numbers."
+2026-10-22T04:05:41.895971Z,nsh-linux-host,0.2.0,0,0,https://github.com/longbridge/nsh,Development host app (GTK 4) that runs a nsh bundle on Linux.
+2026-10-22T04:10:30.319373Z,joiner-cli,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/joiner,Command-line interface and MCP server for joiner:Neurosymbolic code synthesis orchestrator uniting deterministic AST templates with constrained LLMs.
+2026-10-22T04:12:30.812932Z,spreadsheet-formula,0.1.0,0,0,https://github.com/cipansor/crateworks,"Parser and evaluator for spreadsheet formulas, independent of any particular file format."
+2026-10-22T04:12:48.757874Z,timerd-rs,0.1.0,0,0,https://github.com/reidliu41/timer-rs,A small foreground/background terminal timer for Linux
+2026-10-22T04:13:48.304225Z,nsh-macos-app,0.2.0,0,0,https://github.com/longbridge/nsh,Release app runner on macOS: the executable of packaged nsh apps (no development features).
+2026-10-22T04:15:10.516093Z,flashmind-cli,0.1.0,0,0,https://github.com/flashmind-labs/flashmind,AI chat & coding agent powered by flashmind
+2026-10-22T04:15:17.762257Z,flashmind-cron,0.1.0,0,0,https://github.com/flashmind-labs/flashmind,Cron job scheduling with pluggable storage for Flashmind
