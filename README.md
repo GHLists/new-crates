@@ -8,63 +8,62 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 02:18 UTC
+## Latest list — 2026-10-22 03:21 UTC
 
-New crates published between 2026-10-22 01:19 UTC and 2026-10-22 02:18 UTC.
+New crates published between 2026-10-22 02:18 UTC and 2026-10-22 03:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-22T02-18-43-654234Z.csv)
+[Full CSV](data/new-crates-2026-10-22T03-21-49-635239Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-22 01:21:55 | [neblina-wm](https://crates.io/crates/neblina-wm) | 0.0.2 | 0 | A Wang-Mendel model written for Neblina |
-| 2026-10-22 01:24:02 | [omnia-git](https://crates.io/crates/omnia-git) | 0.31.0 | 0 | Git version-control backend (the omnia:vcs boundary) over the operator's git bi… |
-| 2026-10-22 01:24:07 | [omnia-sandbox](https://crates.io/crates/omnia-sandbox) | 0.31.0 | 0 | Host subprocess sandbox for the model trust domain: supervised child, scrubbed… |
-| 2026-10-22 01:24:08 | [neblina-anfis](https://crates.io/crates/neblina-anfis) | 0.0.2 | 0 | A ANFIS model written for neblina |
-| 2026-10-22 01:24:15 | [rea-core](https://crates.io/crates/rea-core) | 0.6.1 | 0 | rea runtime: template language, alias file format, process execution |
-| 2026-10-22 01:24:16 | [rea](https://crates.io/crates/rea) | 0.6.1 | 0 | Command aliases with numbered arguments and real pipelines, no shell |
-| 2026-10-22 01:27:37 | [antline](https://crates.io/crates/antline) | 0.0.0 | 0 | Placeholder: antline, short alias for LineOfWorkerAnts. Not yet released. |
-| 2026-10-22 01:27:39 | [apiant](https://crates.io/crates/apiant) | 0.0.0 | 0 | Placeholder: APIAnt, API scaffolding on HTTPAnt. Not yet released. |
-| 2026-10-22 01:27:41 | [auditant](https://crates.io/crates/auditant) | 0.0.0 | 0 | Placeholder: AuditAnt, structured events and a tamper-evident audit trail. Not… |
-| 2026-10-22 01:27:43 | [capant](https://crates.io/crates/capant) | 0.0.0 | 0 | Placeholder: CapAnt, the capability engine (needs in, tested providers out, ope… |
-| 2026-10-22 01:27:46 | [communicant](https://crates.io/crates/communicant) | 0.0.0 | 0 | Placeholder: CommunicAnt, communication channels chosen by capability. Not yet… |
-| 2026-10-22 01:28:46 | [alint-testkit](https://crates.io/crates/alint-testkit) | 0.20.0 | 0 | Versioned policy-test models, hermetic runner, and repository fixture tools for… |
-| 2026-10-22 01:29:49 | [zeminus](https://crates.io/crates/zeminus) | 0.0.1 | 0 | Zeminus — official crate name reservation. See https://zeminus.com |
-| 2026-10-22 01:31:57 | [tenrai](https://crates.io/crates/tenrai) | 1.0.1 | 0 | Bindings for the Tenrai API. |
-| 2026-10-22 01:34:45 | [nexusq-x509](https://crates.io/crates/nexusq-x509) | 4.1.1 | 0 | RFC 5280 X.509 certificate issuance with post-quantum signatures for NexusQ |
-| 2026-10-22 01:35:05 | [nexusq-tsa](https://crates.io/crates/nexusq-tsa) | 4.1.1 | 0 | RFC 3161 timestamp authority with ML-DSA post-quantum signatures |
-| 2026-10-22 01:35:14 | [nexusq-ha](https://crates.io/crates/nexusq-ha) | 4.1.1 | 0 | Tenant isolation, durable journal and HA fencing primitives for NexusQ PKI serv… |
-| 2026-10-22 01:35:25 | [nexusq-admin](https://crates.io/crates/nexusq-admin) | 4.1.1 | 0 | RBAC, encrypted HA snapshots, and tamper-evident operational audit for NexusQ |
-| 2026-10-22 01:35:54 | [nexusq-enrollment](https://crates.io/crates/nexusq-enrollment) | 4.1.1 | 0 | Policy-driven PQC certificate enrollment with EST and ACME support |
-| 2026-10-22 01:40:20 | [sumavia](https://crates.io/crates/sumavia) | 0.0.0 | 0 | Rust LLM inference stack for MoE models on consumer GPUs (in development). |
-| 2026-10-22 01:42:07 | [nexusq-ocsp](https://crates.io/crates/nexusq-ocsp) | 4.1.1 | 0 | Post-quantum OCSP response and X.509 CRL issuance for NexusQ |
-| 2026-10-22 01:42:11 | [httpant](https://crates.io/crates/httpant) | 0.0.0 | 0 | Placeholder: HTTPAnt, framework-agnostic HTTP, server and client halves. Not ye… |
-| 2026-10-22 01:49:33 | [waveformrs](https://crates.io/crates/waveformrs) | 0.2.0 | 0 | Gravitational-wave models that reproduce LALSimulation |
-| 2026-10-22 01:52:07 | [nexusq-hsm](https://crates.io/crates/nexusq-hsm) | 4.1.1 | 0 | PKCS#11 ML-DSA-65 HSM signing and M-of-N CA key ceremonies for NexusQ |
-| 2026-10-22 01:52:31 | [secretant](https://crates.io/crates/secretant) | 0.0.0 | 0 | Placeholder: SecretAnt, secrets handling. Not yet released. |
-| 2026-10-22 01:54:23 | [storypole](https://crates.io/crates/storypole) | 0.0.1-alpha.1 | 0 | Git-native SQLite and JSONL backlog, task DAG, and MCP memory store for AI codi… |
-| 2026-10-22 01:54:40 | [storypole-core](https://crates.io/crates/storypole-core) | 0.0.1-alpha.1 | 0 | Core library and traits for storypole:Git-native SQLite and JSONL backlog, task… |
-| 2026-10-22 01:54:56 | [storypole-cli](https://crates.io/crates/storypole-cli) | 0.0.1-alpha.1 | 0 | Command-line interface and MCP server for storypole:Git-native SQLite and JSONL… |
-| 2026-10-22 01:55:14 | [sawhorse](https://crates.io/crates/sawhorse) | 0.0.1-alpha.1 | 0 | Provider-agnostic LLM runtime supporting embedded Candle weights, local GGUF, a… |
-| 2026-10-22 01:55:31 | [sawhorse-core](https://crates.io/crates/sawhorse-core) | 0.0.1-alpha.1 | 0 | Core library and traits for sawhorse:Provider-agnostic LLM runtime supporting e… |
-| 2026-10-22 02:02:50 | [releaseant](https://crates.io/crates/releaseant) | 0.0.0 | 0 | Placeholder: ReleaseAnt, ordered publish, package verification and read-back. N… |
-| 2026-10-22 02:03:00 | [legado-core](https://crates.io/crates/legado-core) | 0.1.0 | 0 | 模型 / 错误 / 跨模块 trait |
-| 2026-10-22 02:03:22 | [legado-regex](https://crates.io/crates/legado-regex) | 0.1.0 | 0 | ICU4C 正则绑定：对齐 Android 的 java.util.regex 后端（AOSP PatternNative），供规则/净化/书源链路共用 |
-| 2026-10-22 02:03:45 | [legado-rule](https://crates.io/crates/legado-rule) | 0.1.0 | 0 | 规则引擎：切分 / AST / 求值 |
-| 2026-10-22 02:04:00 | [sawhorse-cli](https://crates.io/crates/sawhorse-cli) | 0.0.1-alpha.1 | 0 | Command-line interface and MCP server for sawhorse:Provider-agnostic LLM runtim… |
-| 2026-10-22 02:04:07 | [legado-net](https://crates.io/crates/legado-net) | 0.1.0 | 0 | URL 模板 / HTTP / Cookie / 编码 / 限速 |
-| 2026-10-22 02:04:29 | [legado-js](https://crates.io/crates/legado-js) | 0.1.0 | 0 | JS 运行时 + java.* + 加解密 |
-| 2026-10-22 02:04:47 | [barracuda-spirv](https://crates.io/crates/barracuda-spirv) | 0.4.0 | 0 | SPIR-V passthrough bridge for barraCuda — isolates the single unsafe create_sha… |
-| 2026-10-22 02:05:17 | [barracuda-naga-exec](https://crates.io/crates/barracuda-naga-exec) | 0.4.0 | 0 | CPU interpreter for naga IR — executes WGSL compute shaders without GPU |
-| 2026-10-22 02:10:27 | [chalkline-cli](https://crates.io/crates/chalkline-cli) | 0.0.1-alpha.1 | 0 | Command-line interface and MCP server for chalkline:Interactive specification p… |
-| 2026-10-22 02:12:26 | [atuin-vte](https://crates.io/crates/atuin-vte) | 0.15.1 | 0 | Atuin's fork of vte, a parser for implementing terminal emulators |
-| 2026-10-22 02:13:11 | [supervisorant](https://crates.io/crates/supervisorant) | 0.0.0 | 0 | Placeholder: SupervisorAnt, process supervision. Not yet released. |
-| 2026-10-22 02:15:24 | [cua-spacesd-client](https://crates.io/crates/cua-spacesd-client) | 0.6.0 | 0 | Ergonomic async client for cua-spacesd (cua.env.v1) over native gRPC or gRPC-We… |
-| 2026-10-22 02:15:25 | [cua-telemetry](https://crates.io/crates/cua-telemetry) | 0.6.0 | 0 | Anonymous, content-free product telemetry shared by the cua SDK, the `cua` CLI,… |
-| 2026-10-22 02:15:26 | [cua-agents](https://crates.io/crates/cua-agents) | 0.6.0 | 0 | Coding agents (Claude Code, Codex, Gemini CLI, Antigravity, OpenCode, Goose, Pi… |
-| 2026-10-22 02:15:26 | [primal-barracuda](https://crates.io/crates/primal-barracuda) | 0.4.0 | 0 | barraCuda — BARrier-free Rust Abstracted Cross-platform Unified Dimensional Alg… |
-| 2026-10-22 02:15:26 | [cua-mesh](https://crates.io/crates/cua-mesh) | 0.6.0 | 0 | WireGuard®-based in-app mesh for Cua Spaces: userspace tunnels, NAT traversal,… |
-| 2026-10-22 02:15:27 | [cua-create-failure](https://crates.io/crates/cua-create-failure) | 0.6.0 | 0 | Why a sandbox or Space create failed, as a fixed telemetry word (`image_pull_no… |
-| 2026-10-22 02:17:33 | [primal-barracuda-core](https://crates.io/crates/primal-barracuda-core) | 0.4.0 | 0 | Core primal lifecycle for barraCuda — BARrier-free Rust Abstracted Cross-platfo… |
+| 2026-10-22 02:21:06 | [primal-sourdough-core](https://crates.io/crates/primal-sourdough-core) | 0.4.0 | 0 | Core traits and patterns for ecoPrimals - the starter culture for new primals |
+| 2026-10-22 02:21:26 | [primal-sourdough-genomebin](https://crates.io/crates/primal-sourdough-genomebin) | 0.4.0 | 0 | Pure Rust genomeBin infrastructure - type-safe, concurrent, universal deployment |
+| 2026-10-22 02:23:32 | [redactant](https://crates.io/crates/redactant) | 0.0.0 | 0 | Placeholder: RedactAnt, redaction types and safe formatting. Not yet released. |
+| 2026-10-22 02:25:06 | [primal-sourdough](https://crates.io/crates/primal-sourdough) | 0.4.0 | 0 | The reference UniBin for ecoPrimals - tooling and scaffolding platform |
+| 2026-10-22 02:32:05 | [hapin-utils-rs](https://crates.io/crates/hapin-utils-rs) | 5.0.0 | 0 | Native Rust Hapin, Kazakh Arabic/Cyrillic and IPA conversion with contextual se… |
+| 2026-10-22 02:32:19 | [cua-vmm](https://crates.io/crates/cua-vmm) | 0.7.0 | 0 | Local sandbox runtimes for the cua SDK: Lume, QEMU and OCI containers (gVisor). |
+| 2026-10-22 02:33:38 | [authant](https://crates.io/crates/authant) | 0.0.0 | 0 | Placeholder: AuthAnt, authentication and authorization (the future name of auth… |
+| 2026-10-22 02:35:42 | [primal-bingocube-core](https://crates.io/crates/primal-bingocube-core) | 0.5.0 | 0 | Core BingoCube implementation: two-board cross-binding with progressive reveal |
+| 2026-10-22 02:39:12 | [cortexkit-model-batch](https://crates.io/crates/cortexkit-model-batch) | 0.1.0 | 0 | Batch rules shared by the CortexKit model-batch roles: error vocabulary and Wor… |
+| 2026-10-22 02:40:25 | [bart-rs](https://crates.io/crates/bart-rs) | 0.1.0 | 0 | Command line tool and library for exploring BART's GTFS schedule and realtime d… |
+| 2026-10-22 02:43:54 | [schedulant](https://crates.io/crates/schedulant) | 0.0.0 | 0 | Placeholder: SchedulAnt, a generic scheduling library. Not yet released. |
+| 2026-10-22 02:46:32 | [primal-bingocube-adapters](https://crates.io/crates/primal-bingocube-adapters) | 0.5.0 | 0 | Visualization adapters for BingoCube - helps systems render BingoCube data |
+| 2026-10-22 02:48:04 | [trit-core](https://crates.io/crates/trit-core) | 0.3.2 | 0 | 三值逻辑核心：Kleene / Łukasiewicz / Bochvar 语义、AST、解析器、位并行表示与二进制互操作 |
+| 2026-10-22 02:48:18 | [trit-eval](https://crates.io/crates/trit-eval) | 0.3.2 | 0 | 三值求值、真值表与化简 |
+| 2026-10-22 02:48:31 | [trit-sat](https://crates.io/crates/trit-sat) | 0.3.2 | 0 | 三值等价的 dual-rail + SAT 符号化判定 |
+| 2026-10-22 02:48:35 | [trit-circuit](https://crates.io/crates/trit-circuit) | 0.3.2 | 0 | 三值组合网表的 X 传播与 stuck-at 可测性分析 |
+| 2026-10-22 02:48:41 | [trit-bdd](https://crates.io/crates/trit-bdd) | 0.3.2 | 0 | 三值等价的 BDD（canonical）判定 |
+| 2026-10-22 02:48:46 | [rustls-pure](https://crates.io/crates/rustls-pure) | 0.13.0 | 0 | A pure-Rust crypto provider for rustls: TLS 1.3 only, RustCrypto primitives wit… |
+| 2026-10-22 02:48:49 | [cua-image](https://crates.io/crates/cua-image) | 0.7.0 | 0 | OCI images for the cua SDK: pull/push, containerDisk and rootfs formats, ImageS… |
+| 2026-10-22 02:48:51 | [cua-disk](https://crates.io/crates/cua-disk) | 0.7.0 | 0 | Disk accounting, cache budget and garbage collection for the cua SDK: every loc… |
+| 2026-10-22 02:51:12 | [bbtree-mmap](https://crates.io/crates/bbtree-mmap) | 0.1.5 | 0 | bbtree on disk: a compact, read-only map written to a file and looked up where… |
+| 2026-10-22 02:52:23 | [incised-text](https://crates.io/crates/incised-text) | 0.1.0 | 0 | Text for embedded-graphics draw targets from pre-rendered 2bpp glyph atlases of… |
+| 2026-10-22 02:52:50 | [bbtree-store](https://crates.io/crates/bbtree-store) | 0.1.5 | 0 | A memory-bounded store of byte strings on bbtree: every byte of its keys and va… |
+| 2026-10-22 02:54:14 | [line-of-worker-ants](https://crates.io/crates/line-of-worker-ants) | 0.0.0 | 0 | Placeholder: LineOfWorkerAnts, durable lines and workers. Not yet released. |
+| 2026-10-22 02:58:38 | [trit-policy](https://crates.io/crates/trit-policy) | 0.3.2 | 0 | 三值决策表的构建期验证：定义展开 + 全赋值断言检查 |
+| 2026-10-22 03:04:25 | [sdr-hal-bladerf-sys](https://crates.io/crates/sdr-hal-bladerf-sys) | 0.1.0 | 0 | Low-level FFI bindings to the libbladeRF library for bladeRF devices |
+| 2026-10-22 03:04:25 | [sdr-hal-limesuite-sys](https://crates.io/crates/sdr-hal-limesuite-sys) | 0.1.0 | 0 | Low-level bindings to the LimeSuite library for LimeSDR devices |
+| 2026-10-22 03:04:26 | [sdr-hal-uhd-sys](https://crates.io/crates/sdr-hal-uhd-sys) | 0.1.0 | 0 | Low-level FFI bindings to the UHD library for USRP devices |
+| 2026-10-22 03:04:27 | [sdr-hal-bladerf](https://crates.io/crates/sdr-hal-bladerf) | 0.1.0 | 0 | Safe Rust bindings to the libbladeRF library for bladeRF devices |
+| 2026-10-22 03:04:27 | [sdr-hal-limesuite](https://crates.io/crates/sdr-hal-limesuite) | 0.1.0 | 0 | Safe Rust bindings to the LimeSuite library for LimeSDR devices |
+| 2026-10-22 03:04:34 | [notificant](https://crates.io/crates/notificant) | 0.0.0 | 0 | Placeholder: NotificAnt, notification policy on top of CommunicAnt. Not yet rel… |
+| 2026-10-22 03:05:52 | [cua-sandbox-core](https://crates.io/crates/cua-sandbox-core) | 0.7.0 | 0 | One daemon-agnostic Sandbox over the local (VMM), contrib and direct providers,… |
+| 2026-10-22 03:05:54 | [cua-contrib](https://crates.io/crates/cua-contrib) | 0.6.0 | 0 | Contrib sandbox providers for the cua SDK: third-party platforms (E2B, Daytona,… |
+| 2026-10-22 03:06:35 | [sdr-hal-uhd](https://crates.io/crates/sdr-hal-uhd) | 0.1.0 | 0 | Safe Rust bindings to the UHD library for USRP devices |
+| 2026-10-22 03:08:43 | [sansheng](https://crates.io/crates/sansheng) | 0.3.2 | 0 | 三生（Sansheng）：三值推理工具箱的伞包（K3/Ł3/B3、SAT、BDD、网表、策略验证） |
+| 2026-10-22 03:10:12 | [primal-bingocube-nautilus](https://crates.io/crates/primal-bingocube-nautilus) | 0.5.0 | 0 | Evolutionary reservoir computing via BingoCube board populations — the nautilus… |
+| 2026-10-22 03:10:22 | [primal-bingocube-demos](https://crates.io/crates/primal-bingocube-demos) | 0.5.0 | 0 | Interactive demonstrations of BingoCube |
+| 2026-10-22 03:11:09 | [offdiff](https://crates.io/crates/offdiff) | 0.4.0 | 0 | Extract Office and PDF documents into deterministic JSON or Markdown, built for… |
+| 2026-10-22 03:12:25 | [gresil](https://crates.io/crates/gresil) | 0.1.0-alpha.9 | 0 | Spiking neural networks in no_std Rust, i16 fixed point, for microcontrollers |
+| 2026-10-22 03:14:55 | [sentinelant](https://crates.io/crates/sentinelant) | 0.0.0 | 0 | Placeholder: SentinelAnt, detection. Not yet released. |
+| 2026-10-22 03:16:38 | [sdr-hal](https://crates.io/crates/sdr-hal) | 0.1.0 | 0 | Protocol-neutral SDR IQ interfaces, drivers, DSP and remote radio service. |
+| 2026-10-22 03:17:33 | [gbz-construct](https://crates.io/crates/gbz-construct) | 0.1.0 | 0 | GBZ file format and construction for pangenome graphs |
+| 2026-10-22 03:18:49 | [trit-cli](https://crates.io/crates/trit-cli) | 0.3.2 | 0 | trit 命令行：求值、真值表、等价判定、化简与网表分析 |
+| 2026-10-22 03:19:17 | [niucode-core](https://crates.io/crates/niucode-core) | 0.1.0 | 0 | Event model and append-only session log for niucode |
+| 2026-10-22 03:19:45 | [niucode-auth](https://crates.io/crates/niucode-auth) | 0.1.0 | 0 | Credential resolution and secure storage for niucode |
+| 2026-10-22 03:20:15 | [niucode-provider](https://crates.io/crates/niucode-provider) | 0.1.0 | 0 | OpenAI-compatible streaming providers for niucode |
+| 2026-10-22 03:20:43 | [niucode-tools](https://crates.io/crates/niucode-tools) | 0.1.0 | 0 | Workspace tools for the niucode coding agent |
+| 2026-10-22 03:21:11 | [niucode-extension](https://crates.io/crates/niucode-extension) | 0.1.0 | 0 | Sidecar extension host for niucode external tools |
 
 ## Data source
 

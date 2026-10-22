@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T02:21:06.510927Z,primal-sourdough-core,0.4.0,0,0,https://github.com/ecoPrimals/sourDough,Core traits and patterns for ecoPrimals - the starter culture for new primals
+2026-10-22T02:21:26.796767Z,primal-sourdough-genomebin,0.4.0,0,0,https://github.com/ecoPrimals/sourDough,"Pure Rust genomeBin infrastructure - type-safe, concurrent, universal deployment"
+2026-10-22T02:23:32.372693Z,redactant,0.0.0,0,0,https://github.com/ThinkersJournal/redactant,"Placeholder: RedactAnt, redaction types and safe formatting. Not yet released."
+2026-10-22T02:25:06.515121Z,primal-sourdough,0.4.0,0,0,https://github.com/ecoPrimals/sourDough,The reference UniBin for ecoPrimals - tooling and scaffolding platform
+2026-10-22T02:32:05.726049Z,hapin-utils-rs,5.0.0,0,0,https://github.com/ha-pin/hapin-utils-rs,"Native Rust Hapin, Kazakh Arabic/Cyrillic and IPA conversion with contextual segmentation"
+2026-10-22T02:32:19.647846Z,cua-vmm,0.7.0,0,0,https://github.com/trycua/cua,"Local sandbox runtimes for the cua SDK: Lume, QEMU and OCI containers (gVisor)."
+2026-10-22T02:33:38.395631Z,authant,0.0.0,0,0,https://github.com/ThinkersJournal/authant,"Placeholder: AuthAnt, authentication and authorization (the future name of auth-framework). Not yet released."
+2026-10-22T02:35:42.029864Z,primal-bingocube-core,0.5.0,0,0,https://github.com/ecoPrimals/bingoCube,Core BingoCube implementation: two-board cross-binding with progressive reveal
+2026-10-22T02:39:12.829034Z,cortexkit-model-batch,0.1.0,0,0,https://github.com/cortexkit/commons,"Batch rules shared by the CortexKit model-batch roles: error vocabulary and Workers AI code table, batch identity, item images, conservative cost estimate."
+2026-10-22T02:40:25.422923Z,bart-rs,0.1.0,0,0,https://github.com/gamersekofy/bart-rs,Command line tool and library for exploring BART's GTFS schedule and realtime data
+2026-10-22T02:43:54.093869Z,schedulant,0.0.0,0,0,https://github.com/ThinkersJournal/schedulant,"Placeholder: SchedulAnt, a generic scheduling library. Not yet released."
+2026-10-22T02:46:32.016703Z,primal-bingocube-adapters,0.5.0,0,0,https://github.com/ecoPrimals/bingoCube,Visualization adapters for BingoCube - helps systems render BingoCube data
+2026-10-22T02:48:04.57135Z,trit-core,0.3.2,0,0,https://github.com/bfxh/trit,三值逻辑核心：Kleene / Łukasiewicz / Bochvar 语义、AST、解析器、位并行表示与二进制互操作
+2026-10-22T02:48:18.98988Z,trit-eval,0.3.2,0,0,https://github.com/bfxh/trit,三值求值、真值表与化简
+2026-10-22T02:48:31.895337Z,trit-sat,0.3.2,0,0,https://github.com/bfxh/trit,三值等价的 dual-rail + SAT 符号化判定
+2026-10-22T02:48:35.756928Z,trit-circuit,0.3.2,0,0,https://github.com/bfxh/trit,三值组合网表的 X 传播与 stuck-at 可测性分析
+2026-10-22T02:48:41.992843Z,trit-bdd,0.3.2,0,0,https://github.com/bfxh/trit,三值等价的 BDD（canonical）判定
+2026-10-22T02:48:46.24517Z,rustls-pure,0.13.0,0,0,https://github.com/Gilfeather/furnace,"A pure-Rust crypto provider for rustls: TLS 1.3 only, RustCrypto primitives with no C or assembly, checked against Wycheproof and strict about malformed input"
+2026-10-22T02:48:49.967541Z,cua-image,0.7.0,0,0,https://github.com/trycua/cua,"OCI images for the cua SDK: pull/push, containerDisk and rootfs formats, ImageSpec, local builder."
+2026-10-22T02:48:51.813369Z,cua-disk,0.7.0,0,0,https://github.com/trycua/cua,"Disk accounting, cache budget and garbage collection for the cua SDK: every location it writes, `cua cache ls|du|prune`."
+2026-10-22T02:51:12.840807Z,bbtree-mmap,0.1.5,0,0,https://github.com/XiangpengHao/bbtree,"bbtree on disk: a compact, read-only map written to a file and looked up where it lies, mapped into memory, at a map's speed."
+2026-10-22T02:52:23.465416Z,incised-text,0.1.0,0,0,https://github.com/tobymurray/watch-apps/tree/main/IncisedText,"Text for embedded-graphics draw targets from pre-rendered 2bpp glyph atlases of Poppins and Atkinson Hyperlegible Next: measurement, alignment, word wrap and a size ladder, no_std and allocation-free."
+2026-10-22T02:52:50.532305Z,bbtree-store,0.1.5,0,0,https://github.com/XiangpengHao/bbtree,A memory-bounded store of byte strings on bbtree: every byte of its keys and values lies in pages from its allocator.
+2026-10-22T02:54:14.184617Z,line-of-worker-ants,0.0.0,0,0,https://github.com/ThinkersJournal/line-of-worker-ants,"Placeholder: LineOfWorkerAnts, durable lines and workers. Not yet released."
+2026-10-22T02:58:38.211446Z,trit-policy,0.3.2,0,0,https://github.com/bfxh/trit,三值决策表的构建期验证：定义展开 + 全赋值断言检查
+2026-10-22T03:04:25.440081Z,sdr-hal-bladerf-sys,0.1.0,0,0,https://github.com/chrismoos/sdr-hal,Low-level FFI bindings to the libbladeRF library for bladeRF devices
+2026-10-22T03:04:25.952227Z,sdr-hal-limesuite-sys,0.1.0,0,0,https://github.com/chrismoos/sdr-hal,Low-level bindings to the LimeSuite library for LimeSDR devices
+2026-10-22T03:04:26.412926Z,sdr-hal-uhd-sys,0.1.0,0,0,https://github.com/chrismoos/sdr-hal,Low-level FFI bindings to the UHD library for USRP devices
+2026-10-22T03:04:27.345064Z,sdr-hal-bladerf,0.1.0,0,0,https://github.com/chrismoos/sdr-hal,Safe Rust bindings to the libbladeRF library for bladeRF devices
+2026-10-22T03:04:27.623367Z,sdr-hal-limesuite,0.1.0,0,0,https://github.com/chrismoos/sdr-hal,Safe Rust bindings to the LimeSuite library for LimeSDR devices
+2026-10-22T03:04:34.75155Z,notificant,0.0.0,0,0,https://github.com/ThinkersJournal/notificant,"Placeholder: NotificAnt, notification policy on top of CommunicAnt. Not yet released."
+2026-10-22T03:05:52.781242Z,cua-sandbox-core,0.7.0,0,0,https://github.com/trycua/cua,"One daemon-agnostic Sandbox over the local (VMM), contrib and direct providers, with cua-sandbox-compatible state files."
+2026-10-22T03:05:54.598671Z,cua-contrib,0.6.0,0,0,https://github.com/trycua/cua,"Contrib sandbox providers for the cua SDK: third-party platforms (E2B, Daytona, Modal) behind `--on <provider>`, one cargo feature each, off by default."
+2026-10-22T03:06:35.711405Z,sdr-hal-uhd,0.1.0,0,0,https://github.com/chrismoos/sdr-hal,Safe Rust bindings to the UHD library for USRP devices
+2026-10-22T03:08:43.864524Z,sansheng,0.3.2,0,0,https://github.com/bfxh/trit,三生（Sansheng）：三值推理工具箱的伞包（K3/Ł3/B3、SAT、BDD、网表、策略验证）
+2026-10-22T03:10:12.281882Z,primal-bingocube-nautilus,0.5.0,0,0,https://github.com/ecoPrimals/bingoCube,Evolutionary reservoir computing via BingoCube board populations — the nautilus shell
+2026-10-22T03:10:22.32614Z,primal-bingocube-demos,0.5.0,0,0,https://github.com/ecoPrimals/bingoCube,Interactive demonstrations of BingoCube
+2026-10-22T03:11:09.66411Z,offdiff,0.4.0,0,0,https://github.com/SidneyLYZhang/OffDiff,"Extract Office and PDF documents into deterministic JSON or Markdown, built for git diffs and exports"
+2026-10-22T03:12:25.469152Z,gresil,0.1.0-alpha.9,0,0,https://gitea.com/gresil-rs/gresil,"Spiking neural networks in no_std Rust, i16 fixed point, for microcontrollers"
+2026-10-22T03:14:55.406161Z,sentinelant,0.0.0,0,0,https://github.com/ThinkersJournal/sentinelant,"Placeholder: SentinelAnt, detection. Not yet released."
+2026-10-22T03:16:38.252808Z,sdr-hal,0.1.0,0,0,https://github.com/chrismoos/sdr-hal,"Protocol-neutral SDR IQ interfaces, drivers, DSP and remote radio service."
+2026-10-22T03:17:33.326426Z,gbz-construct,0.1.0,0,0,https://github.com/samuelburger27/gbz-construct,GBZ file format and construction for pangenome graphs
+2026-10-22T03:18:49.927185Z,trit-cli,0.3.2,0,0,https://github.com/bfxh/trit,trit 命令行：求值、真值表、等价判定、化简与网表分析
+2026-10-22T03:19:17.439613Z,niucode-core,0.1.0,0,0,https://github.com/niuverse/niucode,Event model and append-only session log for niucode
+2026-10-22T03:19:45.215031Z,niucode-auth,0.1.0,0,0,https://github.com/niuverse/niucode,Credential resolution and secure storage for niucode
+2026-10-22T03:20:15.336046Z,niucode-provider,0.1.0,0,0,https://github.com/niuverse/niucode,OpenAI-compatible streaming providers for niucode
+2026-10-22T03:20:43.809775Z,niucode-tools,0.1.0,0,0,https://github.com/niuverse/niucode,Workspace tools for the niucode coding agent
+2026-10-22T03:21:11.444093Z,niucode-extension,0.1.0,0,0,https://github.com/niuverse/niucode,Sidecar extension host for niucode external tools
