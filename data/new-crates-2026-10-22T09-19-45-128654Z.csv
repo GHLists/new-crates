@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T08:21:27.953817Z,gnomon-gnss,0.1.1,0,0,https://github.com/tanyorg/gnomon,"GNSS/NMEA 0183 monitor modelled on gpsd's gpsmon: gpsd, raw NMEA over TCP, or serial port"
+2026-10-22T08:22:04.281907Z,ados-rtcm,0.1.0,0,0,https://github.com/altnautica/ADOSDroneAgent,"RTCM3 framing, CRC-24Q and MAVLink GPS_RTCM_DATA fragmentation for injecting RTK corrections into a flight controller."
+2026-10-22T08:28:15.523787Z,keel-hoist,0.1.0,0,0,https://github.com/keelstackhq/hoist,Provision and verify a repo's GitHub and Cloudflare setup from what the repo already says
+2026-10-22T08:28:24.627906Z,simien_node,0.1.1,0,0,https://github.com/simienapp/core,"Node's APIs for Simien, for code granted dangerouslyUseNode (APS 2). Forked from deno_node 0.197.0."
+2026-10-22T08:30:57.414902Z,opencrs,0.0.0,0,0,https://github.com/OpenCRS-Org,"Tooling for OpenCRS, the Open Creative Requirements Specification (placeholder)"
+2026-10-22T08:32:21.967937Z,simien_napi,0.1.0,0,0,https://github.com/simienapp/core,Node-API: native addons for code granted dangerouslyUseNode. Forked from deno_napi 0.190.0.
+2026-10-22T08:32:44.013434Z,ados-sdk,0.106.2,0,0,https://github.com/altnautica/ADOSDroneAgent,"Build Rust plugins for the ADOS Drone Agent: async IPC client, plugin context, hardware driver traits and lifecycle runner."
+2026-10-22T08:37:46.24624Z,cortexkit-role-extractor,0.1.0,0,0,https://github.com/cortexkit/commons,"Wire contract of the CortexKit extractor/v1 role: role.describe, extract.run requests and typed fields, admission rules, and the Clairic request and reply mapping."
+2026-10-22T08:38:16.24692Z,koan-relay-client,0.1.2,0,0,https://github.com/radiosilence/koan-push-relay,"A client for kōan's push relay: registering devices and Live Activities, and pushing to them."
+2026-10-22T08:42:22.166684Z,simien_node_runtime,0.1.0,0,0,https://github.com/simienapp/core,"The Deno namespace simien_node reads, as a hidden global in isolates granted dangerouslyUseNode, with the ops behind it and the TypeScript transpiler its extensions need. Forked from deno_runtime 0.2…"
+2026-10-22T08:43:19.319844Z,ados-sensorhub,0.1.0,0,0,https://github.com/altnautica/ADOSDroneAgent,"Sensor hub wire protocol: COBS framing, CRC-16/CCITT-FALSE and fixed-layout IMU, barometer, magnetometer, trigger, PPS and GNSS packets. no_std, no allocation."
+2026-10-22T08:47:14.354653Z,weft-cli,0.0.1,0,0,https://github.com/theweft/weft-cli,"Operator tool for weft: keys, signed documents (delegations, config, deployments, revocations) and dry runs"
+2026-10-22T08:48:54.837341Z,oar-ocr-cli,0.10.1,0,0,https://github.com/greatv/oar-ocr,Command-line OCR and document parsing with automatic model downloads
+2026-10-22T08:53:04.218502Z,crawlora-sofascore,0.4.0,0,0,https://github.com/Crawlora-org/crawlora-sofascore,Typed Rust client for Crawlora's hosted SofaScore API. Requires a Crawlora API key.
+2026-10-22T08:53:53.438632Z,crawlora-flashscore,0.3.6,0,0,https://github.com/Crawlora-org/crawlora-flashscore,Typed Rust client for Crawlora's hosted Flashscore API. Requires a Crawlora API key.
+2026-10-22T08:54:02.492197Z,crawlora-fotmob,0.1.10,0,0,https://github.com/Crawlora-org/crawlora-fotmob,Typed Rust client for Crawlora's hosted FotMob API. Requires a Crawlora API key.
+2026-10-22T08:54:35.636167Z,crawlora-youtube,0.2.0,0,0,https://github.com/Crawlora-org/crawlora-youtube,Typed Rust client for Crawlora's hosted YouTube API. Requires a Crawlora API key.
+2026-10-22T08:54:47.660454Z,crawlora-bbb,0.7.1,0,0,https://github.com/Crawlora-org/crawlora-bbb,Typed Rust client for Crawlora's hosted Better Business Bureau API. Requires a Crawlora API key.
+2026-10-22T08:58:34.413881Z,crawlora-reddit,0.2.0,0,0,https://github.com/Crawlora-org/crawlora-reddit,Typed Rust client for Crawlora's hosted Reddit API. Requires a Crawlora API key.
+2026-10-22T09:05:41.411598Z,ctp-crategen,0.1.0,0,0,https://github.com/yingmanwumen/ctp-crategen,Generate standalone Rust crates from CTP SDKs
+2026-10-22T09:07:39.041003Z,crawlora-tiktok,0.4.0,0,0,https://github.com/Crawlora-org/crawlora-tiktok,Typed Rust client for Crawlora's hosted TikTok API. Requires a Crawlora API key.
+2026-10-22T09:08:52.568126Z,cortexkit-role-extractor-conformance,0.1.0,0,0,https://github.com/cortexkit/commons,"Conformance suite for the CortexKit extractor/v1 role: drives a live extractor module against a call-counting stand-in provider that replays Clairic's replies, and checks its admission refusals, prov…"
+2026-10-22T09:17:02.577327Z,vst-audio-ring,0.1.0,0,0,https://github.com/115dkk/vst-audio,Bounded atomic shared-memory audio block ring for isolated plugin workers
+2026-10-22T09:17:04.765523Z,vst-audio-protocol,0.1.0,0,0,https://github.com/115dkk/vst-audio,Bounded control protocol and supervision state machines for vst-audio
+2026-10-22T09:17:05.340639Z,vst-audio-transport-sys,0.1.0,0,0,https://github.com/115dkk/vst-audio,Platform process and shared-memory ownership for vst-audio
+2026-10-22T09:17:07.528452Z,vst-audio,0.1.0,0,0,https://github.com/115dkk/vst-audio,GUI-independent VST2 and VST3 audio plugin hosting in isolated processes
+2026-10-22T09:17:08.404548Z,vst-audio-worker-sys,0.1.0,0,0,https://github.com/115dkk/vst-audio,Internal native plugin ABI and editor implementation for vst-audio workers
+2026-10-22T09:17:23.63621Z,crawlora-airbnb,0.1.2,0,0,https://github.com/Crawlora-org/crawlora-airbnb,Typed Rust client for Crawlora's hosted Airbnb API. Requires a Crawlora API key.
+2026-10-22T09:19:12.103054Z,vst-audio-worker-runtime,0.1.0,0,0,https://github.com/115dkk/vst-audio,Isolated VST2 and VST3 worker runtime for vst-audio
