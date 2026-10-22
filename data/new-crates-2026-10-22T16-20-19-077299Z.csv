@@ -1,0 +1,54 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T15:20:59.679891Z,thadam-sparkplug,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,"Sparkplug B wire schema (prost), topic namespace parser, and the stateful BIRTH/alias/seq decoder behind dataset `decode: sparkplug_b`"
+2026-10-22T15:25:01.209871Z,deltaui_masonry_imaging,0.4.0,0,0,https://github.com/linebender/xilem,Backend adapters for rendering Masonry retained imaging scenes. Fork for deltaui; imported as `masonry_imaging`.
+2026-10-22T15:30:06.660095Z,cargo-changelogs,0.0.0,0,0,https://github.com/iulianR/changelog-rs,Print changelogs for your direct dependencies (changelogs.rs). Work in progress; first release coming soon.
+2026-10-22T15:30:41.447488Z,atlas-tauri,0.1.0,0,0,https://github.com/nyssance/atlas,Native trackpad support for Nyssance Atlas
+2026-10-22T15:31:11.997058Z,thadam-wal,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,"Capture-first write-ahead log with segmented files, durable cursors, and retention for Thadam"
+2026-10-22T15:31:39.463468Z,tailrace-conn-file,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,File connector: tailing source (jsonl/csv text + parquet batch) and jsonl/parquet writers
+2026-10-22T15:32:14.844884Z,tailrace-conn-doris,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,"Doris sink: BE-direct stream load with idempotent labels, bounded retries, group commit and sequence columns"
+2026-10-22T15:34:15.208923Z,silverscript-debugger-session,1.0.1,0,0,https://github.com/kaspanet/silverscript,Debug sessions and test execution for SilverScript contracts
+2026-10-22T15:34:17.791465Z,silverscript-cli-debugger,1.0.1,0,0,https://github.com/kaspanet/silverscript,Command-line debugger for SilverScript contracts
+2026-10-22T15:35:02.576898Z,deltaui_masonry_winit,0.4.0,0,0,https://github.com/linebender/xilem,Data-oriented Rust UI design toolkit. Fork for deltaui; imported as `masonry_winit`.
+2026-10-22T15:35:29.06659Z,lumi-email,1.0.4,0,0,https://github.com/deveterim/lumi-rust,Official Rust SDK for Lumi Email Infrastructure Platform
+2026-10-22T15:40:17.270665Z,rskhd,0.1.0,0,0,,A hotkey to shell command daemon for macos
+2026-10-22T15:41:24.516387Z,thadam-clickhouse,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,ClickHouse native-block batch sink connector with schema validation for Thadam
+2026-10-22T15:41:40.439173Z,parhel,0.1.1,0,0,https://github.com/myrk-kale/parhel,"Create Git worktrees with filesystem copy-on-write, ignored build output (node_modules, target/) included. Currently macOS/APFS; Linux and Windows planned"
+2026-10-22T15:43:27.23541Z,sheet-lang,0.0.0,0,0,https://github.com/Hihaheho/sheet,Sheet-lang: a typed dataflow language for node sheets
+2026-10-22T15:43:30.17545Z,sheet-lang-cli,0.0.0,0,0,https://github.com/Hihaheho/sheet,Command-line interface for Sheet-lang
+2026-10-22T15:43:33.071139Z,sheet-lang-model,0.0.0,0,0,https://github.com/Hihaheho/sheet,"Types, values, IR and workspace model of Sheet-lang"
+2026-10-22T15:43:35.200041Z,sheet-lang-compiler,0.0.0,0,0,https://github.com/Hihaheho/sheet,Incremental compiler of Sheet-lang
+2026-10-22T15:43:38.2001Z,sheet-lang-runtime,0.0.0,0,0,https://github.com/Hihaheho/sheet,Runtime and standard library of Sheet-lang
+2026-10-22T15:45:04.04957Z,deltaui_masonry,0.4.0,0,0,https://github.com/linebender/xilem,Traits and types of the Masonry toolkit. Fork for deltaui; imported as `masonry`.
+2026-10-22T15:48:01.824056Z,silverscript-tree-sitter,1.0.1,0,0,https://github.com/tree-sitter/tree-sitter-silverscript,Kaspa SilverScript Lang
+2026-10-22T15:49:01.54493Z,ffsync,0.3.0,0,0,https://github.com/bennischober/ffsync,Chunk-level file synchronization for big files and fast links
+2026-10-22T15:51:40.458168Z,thadam-mcap,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,Resumable MCAP and rosbag2 file replay source connector for Thadam
+2026-10-22T15:52:23.912014Z,unlatch,0.1.0,0,0,https://github.com/Romanok2805/unlatch,"A small, self-hosted OpenID Connect provider for single sign-on"
+2026-10-22T15:53:52.312272Z,sheet-lang-parol,0.0.0,0,0,https://github.com/Hihaheho/sheet,Grammar and parser of Sheet-lang
+2026-10-22T15:55:20.038424Z,michi-graph,0.5.0,0,0,https://github.com/orin-dx/michi,"Deterministic dependency graphs: validation that reports every problem at once, topological order, layers, ready sets and cycle reports"
+2026-10-22T15:55:33.337289Z,kondor,0.1.0,0,0,https://github.com/gblach/kondor,"Cleans build artifacts from software projects, including nested projects."
+2026-10-22T15:56:11.647538Z,mailisk,0.1.0,0,0,https://github.com/mailisk-app/mailisk-rs,Typed async Rust client for the Mailisk API
+2026-10-22T15:56:56.41756Z,iso8583-codec,0.1.1,0,0,https://github.com/iso-rs/iso8583-codec,"A safe, spec-driven ISO 8583 message codec with no_std support"
+2026-10-22T15:57:56.541503Z,tailrace-conn-jdbc,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,JDBC-style batch source: MySQL/PostgreSQL keyset incremental polling (cursor = Cursor::JdbcKey)
+2026-10-22T15:59:01.122068Z,deltaui_reactive,0.0.1,0,0,https://git.hibas.dev/hibas123/deltaui,"Fine-grained reactivity (signals, memos, effects) and a local async executor."
+2026-10-22T15:59:11.414927Z,papyra-core,0.0.0,0,0,https://github.com/BuildQube/Papyra,Placeholder that reserves this name for papyra (https://github.com/BuildQube/Papyra). The first real release is 0.5.0.
+2026-10-22T15:59:13.332866Z,tailrace-runtime,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,"Micro-batch pipeline executor: per-statement threads, ledger-backed at-least-once commits, serve-mode pipeline registry"
+2026-10-22T15:59:13.84739Z,papyra-encode,0.0.0,0,0,https://github.com/BuildQube/Papyra,Placeholder that reserves this name for papyra (https://github.com/BuildQube/Papyra). The first real release is 0.5.0.
+2026-10-22T15:59:16.092676Z,papyra-hayro,0.0.0,0,0,https://github.com/BuildQube/Papyra,Placeholder that reserves this name for papyra (https://github.com/BuildQube/Papyra). The first real release is 0.5.0.
+2026-10-22T15:59:18.356984Z,tauri-plugin-papyra,0.0.0,0,0,https://github.com/BuildQube/Papyra,Placeholder that reserves this name for papyra (https://github.com/BuildQube/Papyra). The first real release is 0.5.0.
+2026-10-22T16:01:05.777708Z,tailrace-api,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,"axum REST: /healthz, /v1/compile, /v1/pipelines (+plan/stats/logs/offsets/actions) and the node heartbeat against the console"
+2026-10-22T16:02:28.736066Z,thadam-ros2-live,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,Experimental live ROS 2 topic source connector over rmw_zenoh for Thadam
+2026-10-22T16:03:57.487986Z,sheet-lang-ls,0.0.0,0,0,https://github.com/Hihaheho/sheet,Language server for Sheet-lang
+2026-10-22T16:05:00.316976Z,deltaui_macros,0.0.1,0,0,https://git.hibas.dev/hibas123/deltaui,Derive macros for deltaui.
+2026-10-22T16:05:14.991999Z,candle-timestral,0.1.0,0,0,https://github.com/nfnt/datafusion-forecast,Inference for Mistral AI's Timestral time-series forecasting models with Candle
+2026-10-22T16:05:21.403026Z,datafusion-forecast,0.1.0,0,0,https://github.com/nfnt/datafusion-forecast,Time-series forecasting as Apache DataFusion SQL functions
+2026-10-22T16:08:47.436448Z,packet-gen,0.1.0,0,0,https://github.com/Grapple-Systems/grapple-probe,A procedural macro for generating zero-copy packet parsers
+2026-10-22T16:08:53.244511Z,pgman,0.1.0,0,0,https://github.com/tombaldwin/pgman,k9s-style Postgres TUI for Java/AWS shops
+2026-10-22T16:11:42.249893Z,grapple-probe,0.1.0,0,0,https://github.com/Grapple-Systems/grapple-probe,Library and tools to interact with the Grapple Probe
+2026-10-22T16:12:27.378119Z,wyrd-skald-agent,0.3.0,0,0,https://github.com/bohmian-ai/wyrd,"Live Skald agent: identity, single provider, tools, bounded tool loop."
+2026-10-22T16:12:30.831172Z,wyrd-telemetry,0.3.0,0,0,https://github.com/bohmian-ai/wyrd,"Wyrd process telemetry: tracing, OTLP export, and W3C trace context."
+2026-10-22T16:12:35.249661Z,wyrd-config,0.3.0,0,0,https://github.com/bohmian-ai/wyrd,Wyrd workspace configuration: parses wyrd.toml into card metadata defaults.
+2026-10-22T16:12:37.170733Z,wyrd-cards,0.3.0,0,0,https://github.com/bohmian-ai/wyrd,Wyrd Card implementations.
+2026-10-22T16:12:39.111477Z,wyrd-loader,0.3.0,0,0,https://github.com/bohmian-ai/wyrd,Offline Wyrd card authoring loader.
+2026-10-22T16:12:51.262642Z,thadam-segments,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,"Parquet segment sink, CRC-checked segment catalog, and quarantine writer for Thadam"
+2026-10-22T16:15:08.474985Z,deltaui,0.0.1,0,0,https://git.hibas.dev/hibas123/deltaui,A fine-grained reactive GUI library on top of Masonry.
+2026-10-22T16:17:04.772787Z,wikiknit,0.8.1,0,0,https://github.com/victor-kwak/wikiknit,"Lint wikilinks in Markdown vaults (Obsidian and friends): broken links, link rules, unlinked mentions, notes that drifted from their repo, and a check for staged changes."
