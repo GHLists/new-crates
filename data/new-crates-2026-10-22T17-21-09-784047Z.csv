@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T16:21:32.992258Z,anr-bench,0.2.0,0,0,https://github.com/lona-cn/anr,Streaming DFN3 inference benchmark for native compute and ONNX Runtime GPU providers
+2026-10-22T16:22:53.158121Z,veks-apicore,4.1.0,0,0,https://github.com/nosqlbench/vectordata-rs,"The vectordata API: the dataset, catalog, reader, source, streaming and progress contracts, and every descriptor, value and error type they name. Implemented by vectordata, veks-io and veks-transport"
+2026-10-22T16:23:01.496278Z,thadam-transform,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,Synchronous transform chain from raw WAL frames to typed event batches for Thadam
+2026-10-22T16:23:16.869975Z,loamz,0.0.1,0,0,,Loamz client for Rust. Placeholder: the first release is coming.
+2026-10-22T16:23:39.098282Z,veks-transport,4.1.0,0,0,https://github.com/nosqlbench/vectordata-rs,"Remote access and streaming storage for vector datasets: a pooled blocking HTTP client with TLS trust, offline gate, retry and read credentials, range reads and whole-file transfers, uploads, and mer…"
+2026-10-22T16:24:47.835593Z,sonar-code,0.1.0,0,0,https://github.com/BeepBoopBit/sonar-code,Local navigation briefs for coding agents
+2026-10-22T16:25:17.634437Z,rayvn,0.1.1,0,0,https://github.com/mfrawley/rayvn,"A fast, Maven-compatible build tool in Rust"
+2026-10-22T16:27:00.457233Z,usb-integrity,0.2.1,0,0,https://github.com/modemnakata/usb-integrity,Detect bit rot on USB sticks and other storage media by comparing a BLAKE3 hash against a saved baseline
+2026-10-22T16:28:06.397887Z,lore-docs,0.1.0,0,0,https://github.com/BeepBoopBit/lore-docs,Local Markdown discovery for agents
+2026-10-22T16:28:18.46231Z,chromy-core,0.1.0,0,0,https://github.com/castlaboratory/chromy-core,"Chromy's sequential sampling with probability minimum replacement: serpentine sorting, multivariate size measures, expected hits, equal-CV allocation, and the multiplicity estimator"
+2026-10-22T16:32:11.857323Z,mdt-minecraft,0.3.1,0,0,https://github.com/Lavaver/MDT,"Minecraft Download Toolkit — an ergonomic, low-level library for downloading and installing Minecraft versions and mod loaders."
+2026-10-22T16:33:49.786001Z,thadam-iceberg,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,Experimental Apache Iceberg table registrar for uploaded Parquet segments in Thadam
+2026-10-22T16:39:09.230402Z,praeco-client,0.5.0,0,0,https://github.com/AlfredWeirich/praeco-rs,CLI client for praeco-rs
+2026-10-22T16:39:58.821525Z,aiwire,0.1.0,0,0,https://github.com/nettanvirdev/aiwire,"Fast, lean async client for any OpenAI- or Anthropic-compatible LLM API: chat, streaming, tools, MCP, embeddings."
+2026-10-22T16:44:14.633636Z,thadam-object-store,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,Shipper of finalized Parquet segments to S3-compatible object storage for Thadam
+2026-10-22T16:48:33.783021Z,cargo-ctx,0.20.0-beta.5,0,0,https://github.com/foresterre/cargo-msrv,Utilities to resolve cargo environments
+2026-10-22T16:55:15.89171Z,thadam-runtime,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,"Pipeline assembly, driver tasks, supervision, recovery, and replay runtime for Thadam"
+2026-10-22T16:59:18.451774Z,divine-mtp,0.1.0,0,0,https://github.com/divine-framework/divine,"Divine-MTP: Open Multi-Token Prediction specification, recurrent draft architecture, and speculative verification for LLM creators"
+2026-10-22T17:05:35.483635Z,bindep,3.0.0,0,0,https://opendev.org/inaugust/bindep-rs,Binary dependency utility
+2026-10-22T17:05:37.805665Z,rekuiper-conf,1.0.0-rc4,0,0,https://github.com/Indus-Stack/rekuiper,Configuration loading and management library for rekuiper
+2026-10-22T17:06:12.341632Z,thadam,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,Command-line interface and composition root for the Thadam telemetry data plane
+2026-10-22T17:07:02.169798Z,blue-lang-host-macros,0.0.84,0,0,https://github.com/pleme-io/blue,The #[host] attribute behind blue-lang-host: a Rust impl block becomes blue host functions.
+2026-10-22T17:07:17.497186Z,blue-lang-host,0.0.84,0,0,https://github.com/pleme-io/blue,"Embed blue in a Rust program: one dependency, a #[host] impl block, typed calls into blue definitions."
+2026-10-22T17:07:26.142507Z,git-pulse,0.1.0,0,0,https://github.com/weaztoven/git-pulse,A terminal-based GitHub tracking and control tool
+2026-10-22T17:10:50.685246Z,logshrubs,0.1.0,0,0,https://github.com/CaroJoya/LogShrubs,"A fast, local-first log analyzer built with Rust"
+2026-10-22T17:17:36.673501Z,tines-bt,0.4.0,0,0,https://github.com/kisom/tines,BLE transport for tines over BlueZ via the bluer crate: identity-preserving (Addr = NodeId) messaging with testable radio I/O.
+2026-10-22T17:17:52.063341Z,tines-store,0.4.0,0,0,https://github.com/kisom/tines,Persistent append-only LogStore backend for tines: memory survives reboot with rebased ages and persisted release/sequence state.
+2026-10-22T17:20:08.953066Z,tines,0.4.0,0,0,https://github.com/kisom/tines,Standalone tines service: hosts a tines Node over a Unix-domain-socket IPC for robots without ROS2.
