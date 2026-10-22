@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T19:20:12.229294Z,ferox-engines,0.1.0,0,0,https://github.com/WilmervH/searxng-rust-rewrite,"In development — do not use. The ferox engine ports: SearXNG search engines rewritten in Rust, each verified field-by-field against the Python original."
+2026-10-22T19:20:31.15813Z,ferox-search,0.1.0,0,0,https://github.com/WilmervH/searxng-rust-rewrite,"In development — do not use. Search fan-out, ranking and result assembly for the ferox meta-search engine."
+2026-10-22T19:25:53.637452Z,tafrigh-cohere,0.4.0,0,0,https://github.com/ieasybooks/tafrigh-rs,Local Cohere Transcribe Arabic recognition for tafrigh through transcribe.cpp.
+2026-10-22T19:26:39.982433Z,ccp-kernel,0.5.0,0,0,,"Portable CCP kernel: canonical JSON, Ed25519, schema subset, decision, state machine"
+2026-10-22T19:29:17.343971Z,domq-derive,0.4.0,0,0,https://github.com/iamsaquib8/domq,#[derive(FromHtml)] for domq: declarative extraction of structs from HTML with CSS selectors. Use it through domq's `derive` feature.
+2026-10-22T19:29:46.734779Z,domq,0.4.0,0,0,https://github.com/iamsaquib8/domq,"Tiny, zero-dependency, forgiving HTML parser: turn messy real-world HTML into a clean DOM tree (and JSON). WASM-first, no_std-friendly."
+2026-10-22T19:30:19.583353Z,domq-cli,0.4.0,0,0,https://github.com/iamsaquib8/domq,"Query HTML from the command line with CSS selectors — get elements, attributes, readable text, Markdown or JSON. A tiny, zero-dependency, htmlq-compatible CLI."
+2026-10-22T19:31:06.334099Z,halcyon-xrpl-cli,0.4.0,0,0,https://github.com/ilubxrp589/xrpl-sdk,"hxrpl: the XRP Ledger from the command line — wallets, faucet, queries, signing, sending, hashes, ledger entry IDs, live streams — on halcyon-xrpl-sdk"
+2026-10-22T19:43:28.608208Z,pierre-highlights-rs,0.1.0,0,0,https://github.com/ozanvos/pierre-highlights-rs,Unofficial Rust port of Pierre Highlights
+2026-10-22T19:44:42.38493Z,nc-parser,0.1.0,0,0,https://github.com/DeepArnav1102/nc-parser,An incremental ANSI and terminal escape sequence parser for Rust
+2026-10-22T19:45:39.168764Z,bevy_preload,0.1.0,0,0,https://github.com/Jaso333/bevy_preload,A library for preloading assets in the Bevy game engine.
+2026-10-22T19:46:20.755991Z,aethonan,2.8.5,0,0,https://github.com/fiduswriter/aethonan,A Rust HTTP server for Python applications (a fork of Granian with native routes and websockets over HTTP/2)
+2026-10-22T19:47:47.510251Z,forge-rbmt,0.1.0,0,0,https://git.rust-bitcoin.org/rust-bitcoin/rust-bitcoin-maintainer-tools,CLI tool for common rust-bitcoin forge patterns
+2026-10-22T19:54:08.386625Z,kree,1.2.0,0,0,https://github.com/alexlm78/Kree,A directory tree visualizer and fuzzy finder for the terminal
+2026-10-22T19:54:48.176189Z,crtsim-bevy,1.6.0,0,0,https://github.com/aizumanga/CRTSim-Renderer,"J. Kyle Pittman's CRTSim in Bevy: each camera's picture drawn through the CRT on Bevy's own device, every look and setting of the app included."
+2026-10-22T19:56:28.313442Z,papyra-tables,0.0.0,0,0,https://github.com/BuildQube/Papyra,Placeholder that reserves this name for papyra (https://github.com/BuildQube/Papyra). The first real release is 0.6.0.
+2026-10-22T19:56:30.416035Z,papyra-tiff,0.0.0,0,0,https://github.com/BuildQube/Papyra,Placeholder that reserves this name for papyra (https://github.com/BuildQube/Papyra). The first real release is 0.6.0.
+2026-10-22T19:59:09.827074Z,aethonan-tls-listener,0.11.2,0,0,https://github.com/fiduswriter/aethonan,"Wrap an incoming stream of connections in TLS. Fork of tls-listener (by Thayne McCombs) adding the rustls-tls12 feature, maintained for Aethonan."
+2026-10-22T20:02:18.814286Z,tans,0.1.0,0,0,https://github.com/danalec/tans,tANS/FSE entropy codec implementation
+2026-10-22T20:09:38.48415Z,chalkline-mcp,0.1.0-beta.1,0,0,https://github.com/gaugeblock/chalkline,Model Context Protocol (MCP) stdio server for chalkline
+2026-10-22T20:10:05.499491Z,pane-extension,0.2.0,0,0,https://github.com/pane-app/pane,"Write Pane extensions in Rust: the bindings, host functions, extension UI builder and logging"
+2026-10-22T20:12:01.346701Z,dado-mcp,0.1.0-beta.1,0,0,https://github.com/gaugeblock/dado,Model Context Protocol (MCP) server for dado
+2026-10-22T20:12:41.037345Z,win-text-sys,0.0.2,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"Memory-safe Rust over the Win32 text-handling API, starting with CompareStringOrdinal: an ordinal comparison of two counted UTF-16 strings, case-sensitive or not, as an Ordering. Thin over Win32, add…"
+2026-10-22T20:12:52.493714Z,win-debugging-sys,0.0.2,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"Memory-safe Rust over the Win32 debugging API, starting with OutputDebugStringW: send a string to the debugger. Thin over Win32, adding no policy."
+2026-10-22T20:13:54.562988Z,win-etw-sys,0.1.0,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"Memory-safe Rust over the Win32 Event Tracing provider functions: register a provider, ask whether a session is listening, write an event from typed fields, and unregister when dropped. Thin over Win…"
+2026-10-22T20:14:43.639395Z,batten-mcp,0.1.0-beta.1,0,0,https://github.com/gaugeblock/batten,Model Context Protocol server for batten grammar compiler
+2026-10-22T20:16:00.132486Z,clienthlo,0.1.0,0,0,https://github.com/calebbuffa/hlo-rs,Client HLO (CHLO) dialect for pliron: ergonomic client ops that augment StableHLO

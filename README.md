@@ -8,45 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 19:19 UTC
+## Latest list — 2026-10-22 20:20 UTC
 
-New crates published between 2026-10-22 18:21 UTC and 2026-10-22 19:19 UTC.
+New crates published between 2026-10-22 19:19 UTC and 2026-10-22 20:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-22T19-19-28-86741Z.csv)
+[Full CSV](data/new-crates-2026-10-22T20-20-52-305388Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-22 18:27:11 | [ebbmem-client-generated](https://crates.io/crates/ebbmem-client-generated) | 0.2.0 | 0 | Production cognitive memory engine and multi-transport gateway for autonomous A… |
-| 2026-10-22 18:27:41 | [ebbmem-client](https://crates.io/crates/ebbmem-client) | 0.2.0 | 0 | Client SDK for the Ebb cognitive memory HTTP API |
-| 2026-10-22 18:37:06 | [gunnar-common](https://crates.io/crates/gunnar-common) | 1.5.0 | 0 | Shared command line, logging, and build identity for the gunnar binaries |
-| 2026-10-22 18:38:12 | [reconform-core](https://crates.io/crates/reconform-core) | 0.1.0 | 0 | Pure observation comparisons and explicit verification verdicts |
-| 2026-10-22 18:38:13 | [renderparity](https://crates.io/crates/renderparity) | 0.1.0 | 0 | Borrowed RGBA8 frame comparison with explicit tolerances and mismatch bounds |
-| 2026-10-22 18:38:16 | [reconform-cli](https://crates.io/crates/reconform-cli) | 0.1.0 | 0 | Bounded executable capture and observation comparisons with reproducible reports |
-| 2026-10-22 18:40:15 | [libresonic-core](https://crates.io/crates/libresonic-core) | 0.1.0 | 0 | Server-scoped music models and async service boundary |
-| 2026-10-22 18:40:17 | [libresonic-opensubsonic](https://crates.io/crates/libresonic-opensubsonic) | 0.1.0 | 0 | Bounded OpenSubsonic adapter producing neutral music models |
-| 2026-10-22 18:40:17 | [libresonic-playback](https://crates.io/crates/libresonic-playback) | 0.1.0 | 0 | Bounded MP3, FLAC and M4A single-track decoding and neutral PCM transport |
-| 2026-10-22 18:40:18 | [libresonic](https://crates.io/crates/libresonic) | 0.1.0 | 0 | Reusable music domain, OpenSubsonic and local playback foundations for Sonicfast |
-| 2026-10-22 18:41:02 | [gunnar-grpc](https://crates.io/crates/gunnar-grpc) | 1.5.0 | 0 | The tonic service implementations and the event bus behind gunnar's gRPC contro… |
-| 2026-10-22 18:43:07 | [gunnar-http](https://crates.io/crates/gunnar-http) | 1.5.0 | 0 | The git smart-HTTP transport, wrapping gunnar-wire's state machines |
-| 2026-10-22 18:48:53 | [crossmatrix](https://crates.io/crates/crossmatrix) | 0.3.4 | 0 | A sparse, configurable, N-dimensional weighted cross-reference engine (generali… |
-| 2026-10-22 18:49:51 | [crossmatrix-mcp](https://crates.io/crates/crossmatrix-mcp) | 0.3.4 | 0 | LLM-facing Model Context Protocol (MCP) server for the crossmatrix weighted cro… |
-| 2026-10-22 18:50:36 | [ferox-core](https://crates.io/crates/ferox-core) | 0.1.0 | 0 | In development — do not use. Core types of the ferox meta-search engine: the En… |
-| 2026-10-22 18:51:04 | [ferox-http](https://crates.io/crates/ferox-http) | 0.1.0 | 0 | In development — do not use. The network layer of ferox: the searcher, the requ… |
-| 2026-10-22 18:53:41 | [gunnar-repair](https://crates.io/crates/gunnar-repair) | 1.5.0 | 0 | The ONE implementation of gunnar's repair verbs — review_twin, recharge_from_tw… |
-| 2026-10-22 18:56:21 | [gunnar-pairing-door](https://crates.io/crates/gunnar-pairing-door) | 1.5.0 | 0 | The front's part of a gunnar installation (edda nordisk-pairing 0.3): the WireG… |
-| 2026-10-22 19:07:57 | [pers](https://crates.io/crates/pers) | 0.1.0 | 0 | Parser for Windows Portable Executable (PE) files that borrows the file data, a… |
-| 2026-10-22 19:11:29 | [gunnar-server](https://crates.io/crates/gunnar-server) | 1.1.0 | 0 | The gunnar git server: SSH and smart-HTTP git transports and the gRPC control p… |
-| 2026-10-22 19:11:34 | [aws-sdk-continuum](https://crates.io/crates/aws-sdk-continuum) | 1.0.0 | 0 | AWS SDK for AWS Continuum |
-| 2026-10-22 19:12:10 | [ragnarok-api](https://crates.io/crates/ragnarok-api) | 0.1.0 | 0 | Rust SDK for the RAGnarok HTTP API (/api/v1): auth, typed errors, SSE query str… |
-| 2026-10-22 19:13:22 | [sapflow-srt](https://crates.io/crates/sapflow-srt) | 0.1.0 | 0 | SRT (Secure Reliable Transport) for live streams in pure Rust, sans-IO: listene… |
-| 2026-10-22 19:13:28 | [sapflow-core](https://crates.io/crates/sapflow-core) | 0.1.0 | 0 | Shared types for the sapflow live media server: stream paths, limits, publish s… |
-| 2026-10-22 19:13:40 | [sapflow-hls](https://crates.io/crates/sapflow-hls) | 0.1.0 | 0 | Low-Latency HLS packaging in pure Rust: FLV and MPEG-TS ingest, fragmented MP4… |
-| 2026-10-22 19:13:47 | [sapflow-rtmp](https://crates.io/crates/sapflow-rtmp) | 0.1.0 | 0 | RTMP publishing in pure Rust, sans-IO: the server side of a publish and a publi… |
-| 2026-10-22 19:14:06 | [sapflow](https://crates.io/crates/sapflow) | 0.1.0 | 0 | A small live media server: SRT or RTMP in (H.264, AAC), Low-Latency HLS out, fr… |
-| 2026-10-22 19:14:12 | [truchman](https://crates.io/crates/truchman) | 0.1.0 | 0 | SAMv3 client for I2P routers: a sans-io core with a tokio shell for destination… |
-| 2026-10-22 19:14:31 | [agentstat](https://crates.io/crates/agentstat) | 0.1.0 | 0 | Read-only AI provider usage, quota, balance, and reset data |
-| 2026-10-22 19:18:01 | [hpt-parser](https://crates.io/crates/hpt-parser) | 0.1.0 | 0 | Streaming parser for CMS Hospital Price Transparency machine-readable files |
-| 2026-10-22 19:18:32 | [gunnar](https://crates.io/crates/gunnar) | 1.5.0 | 0 | The Gunnar git server: `cargo install gunnar`, then `gunnar`, and it serves git… |
+| 2026-10-22 19:20:12 | [ferox-engines](https://crates.io/crates/ferox-engines) | 0.1.0 | 0 | In development — do not use. The ferox engine ports: SearXNG search engines rew… |
+| 2026-10-22 19:20:31 | [ferox-search](https://crates.io/crates/ferox-search) | 0.1.0 | 0 | In development — do not use. Search fan-out, ranking and result assembly for th… |
+| 2026-10-22 19:25:53 | [tafrigh-cohere](https://crates.io/crates/tafrigh-cohere) | 0.4.0 | 0 | Local Cohere Transcribe Arabic recognition for tafrigh through transcribe.cpp. |
+| 2026-10-22 19:26:39 | [ccp-kernel](https://crates.io/crates/ccp-kernel) | 0.5.0 | 0 | Portable CCP kernel: canonical JSON, Ed25519, schema subset, decision, state ma… |
+| 2026-10-22 19:29:17 | [domq-derive](https://crates.io/crates/domq-derive) | 0.4.0 | 0 | #[derive(FromHtml)] for domq: declarative extraction of structs from HTML with… |
+| 2026-10-22 19:29:46 | [domq](https://crates.io/crates/domq) | 0.4.0 | 0 | Tiny, zero-dependency, forgiving HTML parser: turn messy real-world HTML into a… |
+| 2026-10-22 19:30:19 | [domq-cli](https://crates.io/crates/domq-cli) | 0.4.0 | 0 | Query HTML from the command line with CSS selectors — get elements, attributes,… |
+| 2026-10-22 19:31:06 | [halcyon-xrpl-cli](https://crates.io/crates/halcyon-xrpl-cli) | 0.4.0 | 0 | hxrpl: the XRP Ledger from the command line — wallets, faucet, queries, signing… |
+| 2026-10-22 19:43:28 | [pierre-highlights-rs](https://crates.io/crates/pierre-highlights-rs) | 0.1.0 | 0 | Unofficial Rust port of Pierre Highlights |
+| 2026-10-22 19:44:42 | [nc-parser](https://crates.io/crates/nc-parser) | 0.1.0 | 0 | An incremental ANSI and terminal escape sequence parser for Rust |
+| 2026-10-22 19:45:39 | [bevy_preload](https://crates.io/crates/bevy_preload) | 0.1.0 | 0 | A library for preloading assets in the Bevy game engine. |
+| 2026-10-22 19:46:20 | [aethonan](https://crates.io/crates/aethonan) | 2.8.5 | 0 | A Rust HTTP server for Python applications (a fork of Granian with native route… |
+| 2026-10-22 19:47:47 | [forge-rbmt](https://crates.io/crates/forge-rbmt) | 0.1.0 | 0 | CLI tool for common rust-bitcoin forge patterns |
+| 2026-10-22 19:54:08 | [kree](https://crates.io/crates/kree) | 1.2.0 | 0 | A directory tree visualizer and fuzzy finder for the terminal |
+| 2026-10-22 19:54:48 | [crtsim-bevy](https://crates.io/crates/crtsim-bevy) | 1.6.0 | 0 | J. Kyle Pittman's CRTSim in Bevy: each camera's picture drawn through the CRT o… |
+| 2026-10-22 19:56:28 | [papyra-tables](https://crates.io/crates/papyra-tables) | 0.0.0 | 0 | Placeholder that reserves this name for papyra (https://github.com/BuildQube/Pa… |
+| 2026-10-22 19:56:30 | [papyra-tiff](https://crates.io/crates/papyra-tiff) | 0.0.0 | 0 | Placeholder that reserves this name for papyra (https://github.com/BuildQube/Pa… |
+| 2026-10-22 19:59:09 | [aethonan-tls-listener](https://crates.io/crates/aethonan-tls-listener) | 0.11.2 | 0 | Wrap an incoming stream of connections in TLS. Fork of tls-listener (by Thayne… |
+| 2026-10-22 20:02:18 | [tans](https://crates.io/crates/tans) | 0.1.0 | 0 | tANS/FSE entropy codec implementation |
+| 2026-10-22 20:09:38 | [chalkline-mcp](https://crates.io/crates/chalkline-mcp) | 0.1.0-beta.1 | 0 | Model Context Protocol (MCP) stdio server for chalkline |
+| 2026-10-22 20:10:05 | [pane-extension](https://crates.io/crates/pane-extension) | 0.2.0 | 0 | Write Pane extensions in Rust: the bindings, host functions, extension UI build… |
+| 2026-10-22 20:12:01 | [dado-mcp](https://crates.io/crates/dado-mcp) | 0.1.0-beta.1 | 0 | Model Context Protocol (MCP) server for dado |
+| 2026-10-22 20:12:41 | [win-text-sys](https://crates.io/crates/win-text-sys) | 0.0.2 | 0 | Memory-safe Rust over the Win32 text-handling API, starting with CompareStringO… |
+| 2026-10-22 20:12:52 | [win-debugging-sys](https://crates.io/crates/win-debugging-sys) | 0.0.2 | 0 | Memory-safe Rust over the Win32 debugging API, starting with OutputDebugStringW… |
+| 2026-10-22 20:13:54 | [win-etw-sys](https://crates.io/crates/win-etw-sys) | 0.1.0 | 0 | Memory-safe Rust over the Win32 Event Tracing provider functions: register a pr… |
+| 2026-10-22 20:14:43 | [batten-mcp](https://crates.io/crates/batten-mcp) | 0.1.0-beta.1 | 0 | Model Context Protocol server for batten grammar compiler |
+| 2026-10-22 20:16:00 | [clienthlo](https://crates.io/crates/clienthlo) | 0.1.0 | 0 | Client HLO (CHLO) dialect for pliron: ergonomic client ops that augment StableH… |
 
 ## Data source
 
