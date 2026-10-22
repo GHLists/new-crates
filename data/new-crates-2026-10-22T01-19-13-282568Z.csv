@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T00:22:00.399214Z,cua-host,0.6.0,0,0,https://github.com/trycua/cua,"Set this machine up for unattended access: install cua-spacesd as a per-OS service that joins a cua-relay (account mode) or serves on a direct ip:port, plus the relay machine-directory client."
+2026-10-22T00:22:01.204952Z,cua-icon-cache,0.6.0,0,0,https://github.com/trycua/cua,"App icons cached once for every cua UI: an in-memory LRU over an on-disk cache under $CUA_HOME/cache/icons, keyed by a stable app identity, with single-flight fetches, short-lived negative results an…"
+2026-10-22T00:22:13.097044Z,aves-kea,0.5.0,0,0,https://github.com/aves-rs/aves,Specialized knowledge domain for the Aves async application runtime
+2026-10-22T00:24:45.099392Z,loko-object-store,0.2.0,0,0,https://github.com/polythings/loko,"A loko store over an object_store client: S3, GCS, Azure, local files, memory, and more"
+2026-10-22T00:29:42.717499Z,physis-kernel,1.8.2,0,0,https://github.com/ilPez00/physis-next,"Physis-next kernel: identity, observation, facts, relations, deltas, events, revisions, invariants. No IO, no models, no UI."
+2026-10-22T00:29:55.80114Z,physis-language,1.8.2,0,0,https://github.com/ilPez00/physis-next,"Bounded, evidence-bearing language normalization and checked Horn inference."
+2026-10-22T00:31:58.122451Z,aves-corv,0.5.0,0,0,https://github.com/aves-rs/aves,Specialized discussion domain for the Aves async application runtime
+2026-10-22T00:32:27.783983Z,aves-tyto,0.5.0,0,0,https://github.com/aves-rs/aves,Specialized messaging domain for the Aves async application runtime
+2026-10-22T00:34:44.27576Z,lakekit-core,0.1.0,0,0,https://github.com/polythings/lakekit,"The I/O boundary shared by lakekit's table format crates: loko's Store, Clock, and Random, and one error type"
+2026-10-22T00:39:00.695046Z,eda-view,0.1.0,0,0,https://github.com/meawoppl/pastebom.com,"EDA file parsing and vector rendering: KiCad schematics, PCB and Gerber parsers, a reified 2D scene with SVG/Canvas renderers, and Yew/wasm viewer components, each behind a feature"
+2026-10-22T00:41:18.410989Z,pterobacter,0.1.0,0,0,https://github.com/mbhall88/pterobacter,"Standalone, self-contained Enterobacter isolate classification"
+2026-10-22T00:42:01.810023Z,neblina,0.0.1,0,0,https://github.com/luccappaz/neblina,Neblina is a fuzzy operational library.
+2026-10-22T00:44:46.166238Z,lakekit-iceberg,0.1.0,0,0,https://github.com/polythings/lakekit,"Apache Iceberg table metadata, manifests and commits without I/O of its own, for WebAssembly and native"
+2026-10-22T00:48:24.845044Z,mostra-host,0.2.0,0,0,https://github.com/mostra-dev/mostra,"Host Mostra, the agent artifact runtime, from Rust: the host protocol's wire types, a tokio client, spawn and attach, the runtime bundle and the host ports."
+2026-10-22T00:50:35.157453Z,mspark-df,0.1.0,0,0,https://github.com/zhongsanming/mspark,"Compile-time dataflow framework: a node is a data type, dependencies are resolved statically."
+2026-10-22T00:50:49.637634Z,mspark-model,0.1.0,0,0,https://github.com/zhongsanming/mspark,"Ascend profiling record decoders, immutable context, and dataflow nodes."
+2026-10-22T00:51:03.605594Z,mspark,0.1.0,0,0,https://github.com/zhongsanming/mspark,Reimplementation of the MindStudio Profiler (msprof) analysis pipeline: raw Ascend captures to CSVs and a Chrome-trace timeline.
+2026-10-22T00:51:17.339167Z,webmentions-sdk,0.2.0,0,0,https://github.com/blacklight/webmentions,A general-purpose library to add Webmentions support to your website
+2026-10-22T00:54:45.971377Z,lakekit,0.1.0,0,0,https://github.com/polythings/lakekit,"Table formats (Apache Iceberg first) read and written without I/O of their own, for WebAssembly and native"
+2026-10-22T01:06:42.147247Z,pipedash-plugin-gitea,0.3.0,0,0,https://github.com/hcavarsan/pipedash,Gitea Actions plugin for Pipedash
+2026-10-22T01:08:29.114654Z,synctex-parser,0.1.0,0,0,https://github.com/DavidLapous/synctex-parser,Pure-Rust SyncTeX parser and forward/inverse query engine with LaTeX/Beamer heuristics
+2026-10-22T01:11:05.286833Z,gethangar,0.0.1,0,0,https://github.com/talos-defence/hangar,"Hangar: booked NVIDIA H100 runs and CPU runs in AWS Sydney, each with a signed certificate. The hangar command line, by TALOS Defence Pty Ltd."
+2026-10-22T01:13:53.623831Z,polystrata-3d,0.1.0,0,0,https://github.com/pboyer/polystrata-3d,"High-performance 3D Planar B-Rep Boolean operations, coplanar face unification, and topological healing kernel"
+2026-10-22T01:14:08.544488Z,wolfpack-vm,0.3.0,0,0,https://github.com/realfamousbae/wolfpack,"The bytecode virtual machine of the wolfpack compiler. Internal part of wolfpack-lang, not a stable API"
+2026-10-22T01:14:47.261219Z,tc_ec_core,0.1.0,0,0,https://github.com/TomiCheng/tc_math,"Elliptic-curve traits and algorithms for cryptography: the curve, point and field-element traits, wNAF, GLV, tau-adic NAF and fixed-base comb multiplication."
+2026-10-22T01:15:03.363332Z,tc_fp_curve,0.1.0,0,0,https://github.com/TomiCheng/tc_math,"Prime-field short-Weierstrass elliptic curves for cryptography: constant-time complete formulas, variable-time wNAF and GLV, and the SEC named curves."
+2026-10-22T01:15:14.082706Z,tc_f2m_curve,0.1.0,0,0,https://github.com/TomiCheng/tc_math,"Binary-field short-Weierstrass elliptic curves over GF(2^m) for cryptography: a constant-time ladder, variable-time wNAF and tau-adic NAF, and the SEC named curves."
+2026-10-22T01:15:28.207708Z,tc_fp_custom,0.1.0,0,0,https://github.com/TomiCheng/tc_math,"The SEC and SM2 prime elliptic curves with per-field specialized arithmetic, after Bouncy Castle's custom curves."
+2026-10-22T01:15:46.341372Z,tc_f2m_custom,0.1.0,0,0,https://github.com/TomiCheng/tc_math,"The SEC binary elliptic curves with per-field specialized arithmetic, after Bouncy Castle's custom curves."

@@ -8,47 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 00:19 UTC
+## Latest list — 2026-10-22 01:19 UTC
 
-New crates published between 2026-10-21 23:20 UTC and 2026-10-22 00:19 UTC.
+New crates published between 2026-10-22 00:19 UTC and 2026-10-22 01:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-22T00-19-10-127404Z.csv)
+[Full CSV](data/new-crates-2026-10-22T01-19-13-282568Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-21 23:32:40 | [phantom-cli](https://crates.io/crates/phantom-cli) | 0.3.0 | 0 | Command-line HTTP requests with explicit browser profiles |
-| 2026-10-21 23:33:33 | [rooftop](https://crates.io/crates/rooftop) | 0.1.0 | 0 | iRoof.top: continue a Telegram or WhatsApp chat with an LLM that writes in the… |
-| 2026-10-21 23:36:45 | [frus-svg](https://crates.io/crates/frus-svg) | 0.4.0 | 0 | frus — SVG pictures drawn as the framework's own vector paths |
-| 2026-10-21 23:36:54 | [mmcif-ir](https://crates.io/crates/mmcif-ir) | 0.2.0 | 0 | Design specification IR: slots, the determinacy lattice, constraints and instan… |
-| 2026-10-21 23:36:56 | [mmcif-spec](https://crates.io/crates/mmcif-spec) | 0.2.0 | 0 | Parse and check design specifications against structure files |
-| 2026-10-21 23:36:57 | [mmcif-lower](https://crates.io/crates/mmcif-lower) | 0.2.0 | 0 | Write design specifications out for protein design backends |
-| 2026-10-21 23:36:59 | [mmcif-cli](https://crates.io/crates/mmcif-cli) | 0.2.0 | 0 | Check design specifications and write them out for design backends |
-| 2026-10-21 23:42:22 | [configurant](https://crates.io/crates/configurant) | 0.0.0 | 0 | Placeholder: ConfigurAnt, schema-first configuration and configuration manageme… |
-| 2026-10-21 23:45:20 | [cua-agent-setup](https://crates.io/crates/cua-agent-setup) | 0.6.0 | 0 | Detect AI coding agents, install the bundled cua skills into their skills direc… |
-| 2026-10-21 23:45:21 | [cua-home](https://crates.io/crates/cua-home) | 0.6.0 | 0 | The cua home (`$CUA_HOME`, else `~/.cua`) and the test guard that refuses write… |
-| 2026-10-21 23:45:21 | [cua-hotspot](https://crates.io/crates/cua-hotspot) | 0.6.0 | 0 | Hotspot (reverse-SOCKS egress) tunnel protocol shared by cua-spacesd and the cu… |
-| 2026-10-21 23:45:21 | [cua-proto](https://crates.io/crates/cua-proto) | 0.6.0 | 0 | Protobuf contract (cua.env.v1, cua.daemon.v1) and tonic codegen for cua-spacesd… |
-| 2026-10-21 23:45:22 | [cua-spaces-contract](https://crates.io/crates/cua-spaces-contract) | 0.6.0 | 0 | The Cua Spaces tool contract: which tools exist, what they need from a Space, a… |
-| 2026-10-21 23:47:50 | [rs-sqlite2keys2strings](https://crates.io/crates/rs-sqlite2keys2strings) | 0.1.0 | 0 | Lookup keys in SQLite and output JSON |
-| 2026-10-21 23:49:07 | [exg-volume](https://crates.io/crates/exg-volume) | 0.0.1 | 0 | Shared 3-D medical image envelope (voxels + LPS affine) for the exg volume read… |
-| 2026-10-21 23:49:16 | [exg-signal](https://crates.io/crates/exg-signal) | 0.0.1 | 0 | Shared biosignal envelope (Recording: [channels × time] + names + sampling rate… |
-| 2026-10-21 23:50:35 | [exg-nifti](https://crates.io/crates/exg-nifti) | 0.0.1 | 0 | NIfTI-1 / NIfTI-2 volume reader and writer (.nii, .nii.gz, .hdr/.img) → exg-vol… |
-| 2026-10-21 23:50:38 | [exg-zarr](https://crates.io/crates/exg-zarr) | 0.0.1 | 0 | Zarr v2/v3 array store reader → ndarray / exg-signal Recording |
-| 2026-10-21 23:53:56 | [solana-leader-info](https://crates.io/crates/solana-leader-info) | 0.0.0 | 0 | Solana leader info syscall API (SIMD-0558) |
-| 2026-10-21 23:56:52 | [omnia-compile](https://crates.io/crates/omnia-compile) | 0.37.0 | 0 | Ahead-of-time compiler for omnia guests: the compile-affecting settings and the… |
-| 2026-10-21 23:57:02 | [omnia-wasi-vcs](https://crates.io/crates/omnia-wasi-vcs) | 0.37.0 | 0 | WASI version-control interface (the omnia:vcs boundary) for the Omnia runtime |
-| 2026-10-21 23:59:14 | [aves_macros](https://crates.io/crates/aves_macros) | 0.5.0 | 0 | Procedural macros for the Aves async application runtime |
-| 2026-10-22 00:04:04 | [pencere](https://crates.io/crates/pencere) | 0.1.0 | 0 | Host side of pencere, the terminal side of MCP Apps: frames, messages, session… |
-| 2026-10-22 00:04:32 | [cua-auth](https://crates.io/crates/cua-auth) | 0.6.0 | 0 | Sign in to Cua: browser authorization code + PKCE with a loopback redirect, dev… |
-| 2026-10-22 00:08:22 | [aves](https://crates.io/crates/aves) | 0.5.0 | 0 | Typed async application runtime with domain messaging, RPC, and durable workflo… |
-| 2026-10-22 00:11:51 | [loko-clock](https://crates.io/crates/loko-clock) | 0.2.0 | 0 | loko's Clock service: the time and a timer, with test, tokio, and JavaScript cl… |
-| 2026-10-22 00:11:51 | [loko-console](https://crates.io/crates/loko-console) | 0.2.0 | 0 | loko's Console service: lines to standard output and error, captured in tests,… |
-| 2026-10-22 00:11:52 | [loko-env](https://crates.io/crates/loko-env) | 0.2.0 | 0 | loko's Env service: environment variables, from the process or from a map |
-| 2026-10-22 00:11:52 | [loko-macros](https://crates.io/crates/loko-macros) | 0.2.0 | 0 | loko's macros: #[service] makes a trait a service, #[bundle] wires services int… |
-| 2026-10-22 00:11:52 | [loko-random](https://crates.io/crates/loko-random) | 0.2.0 | 0 | loko's Random service: random numbers, with seeded, operating-system, and JavaS… |
-| 2026-10-22 00:12:01 | [litemcp](https://crates.io/crates/litemcp) | 0.1.0 | 0 | The fastest, lightest MCP (Model Context Protocol) framework for Rust — Streama… |
-| 2026-10-22 00:14:43 | [loko-store](https://crates.io/crates/loko-store) | 0.2.0 | 0 | loko's Store service: objects by URI, with conditional writes, multipart upload… |
-| 2026-10-22 00:16:30 | [parse-net](https://crates.io/crates/parse-net) | 0.1.0 | 0 | Grammar for Internet message fields: RFC 9110 field syntax, media types, RFC 96… |
+| 2026-10-22 00:22:00 | [cua-host](https://crates.io/crates/cua-host) | 0.6.0 | 0 | Set this machine up for unattended access: install cua-spacesd as a per-OS serv… |
+| 2026-10-22 00:22:01 | [cua-icon-cache](https://crates.io/crates/cua-icon-cache) | 0.6.0 | 0 | App icons cached once for every cua UI: an in-memory LRU over an on-disk cache… |
+| 2026-10-22 00:22:13 | [aves-kea](https://crates.io/crates/aves-kea) | 0.5.0 | 0 | Specialized knowledge domain for the Aves async application runtime |
+| 2026-10-22 00:24:45 | [loko-object-store](https://crates.io/crates/loko-object-store) | 0.2.0 | 0 | A loko store over an object_store client: S3, GCS, Azure, local files, memory,… |
+| 2026-10-22 00:29:42 | [physis-kernel](https://crates.io/crates/physis-kernel) | 1.8.2 | 0 | Physis-next kernel: identity, observation, facts, relations, deltas, events, re… |
+| 2026-10-22 00:29:55 | [physis-language](https://crates.io/crates/physis-language) | 1.8.2 | 0 | Bounded, evidence-bearing language normalization and checked Horn inference. |
+| 2026-10-22 00:31:58 | [aves-corv](https://crates.io/crates/aves-corv) | 0.5.0 | 0 | Specialized discussion domain for the Aves async application runtime |
+| 2026-10-22 00:32:27 | [aves-tyto](https://crates.io/crates/aves-tyto) | 0.5.0 | 0 | Specialized messaging domain for the Aves async application runtime |
+| 2026-10-22 00:34:44 | [lakekit-core](https://crates.io/crates/lakekit-core) | 0.1.0 | 0 | The I/O boundary shared by lakekit's table format crates: loko's Store, Clock,… |
+| 2026-10-22 00:39:00 | [eda-view](https://crates.io/crates/eda-view) | 0.1.0 | 0 | EDA file parsing and vector rendering: KiCad schematics, PCB and Gerber parsers… |
+| 2026-10-22 00:41:18 | [pterobacter](https://crates.io/crates/pterobacter) | 0.1.0 | 0 | Standalone, self-contained Enterobacter isolate classification |
+| 2026-10-22 00:42:01 | [neblina](https://crates.io/crates/neblina) | 0.0.1 | 0 | Neblina is a fuzzy operational library. |
+| 2026-10-22 00:44:46 | [lakekit-iceberg](https://crates.io/crates/lakekit-iceberg) | 0.1.0 | 0 | Apache Iceberg table metadata, manifests and commits without I/O of its own, fo… |
+| 2026-10-22 00:48:24 | [mostra-host](https://crates.io/crates/mostra-host) | 0.2.0 | 0 | Host Mostra, the agent artifact runtime, from Rust: the host protocol's wire ty… |
+| 2026-10-22 00:50:35 | [mspark-df](https://crates.io/crates/mspark-df) | 0.1.0 | 0 | Compile-time dataflow framework: a node is a data type, dependencies are resolv… |
+| 2026-10-22 00:50:49 | [mspark-model](https://crates.io/crates/mspark-model) | 0.1.0 | 0 | Ascend profiling record decoders, immutable context, and dataflow nodes. |
+| 2026-10-22 00:51:03 | [mspark](https://crates.io/crates/mspark) | 0.1.0 | 0 | Reimplementation of the MindStudio Profiler (msprof) analysis pipeline: raw Asc… |
+| 2026-10-22 00:51:17 | [webmentions-sdk](https://crates.io/crates/webmentions-sdk) | 0.2.0 | 0 | A general-purpose library to add Webmentions support to your website |
+| 2026-10-22 00:54:45 | [lakekit](https://crates.io/crates/lakekit) | 0.1.0 | 0 | Table formats (Apache Iceberg first) read and written without I/O of their own,… |
+| 2026-10-22 01:06:42 | [pipedash-plugin-gitea](https://crates.io/crates/pipedash-plugin-gitea) | 0.3.0 | 0 | Gitea Actions plugin for Pipedash |
+| 2026-10-22 01:08:29 | [synctex-parser](https://crates.io/crates/synctex-parser) | 0.1.0 | 0 | Pure-Rust SyncTeX parser and forward/inverse query engine with LaTeX/Beamer heu… |
+| 2026-10-22 01:11:05 | [gethangar](https://crates.io/crates/gethangar) | 0.0.1 | 0 | Hangar: booked NVIDIA H100 runs and CPU runs in AWS Sydney, each with a signed… |
+| 2026-10-22 01:13:53 | [polystrata-3d](https://crates.io/crates/polystrata-3d) | 0.1.0 | 0 | High-performance 3D Planar B-Rep Boolean operations, coplanar face unification,… |
+| 2026-10-22 01:14:08 | [wolfpack-vm](https://crates.io/crates/wolfpack-vm) | 0.3.0 | 0 | The bytecode virtual machine of the wolfpack compiler. Internal part of wolfpac… |
+| 2026-10-22 01:14:47 | [tc_ec_core](https://crates.io/crates/tc_ec_core) | 0.1.0 | 0 | Elliptic-curve traits and algorithms for cryptography: the curve, point and fie… |
+| 2026-10-22 01:15:03 | [tc_fp_curve](https://crates.io/crates/tc_fp_curve) | 0.1.0 | 0 | Prime-field short-Weierstrass elliptic curves for cryptography: constant-time c… |
+| 2026-10-22 01:15:14 | [tc_f2m_curve](https://crates.io/crates/tc_f2m_curve) | 0.1.0 | 0 | Binary-field short-Weierstrass elliptic curves over GF(2^m) for cryptography: a… |
+| 2026-10-22 01:15:28 | [tc_fp_custom](https://crates.io/crates/tc_fp_custom) | 0.1.0 | 0 | The SEC and SM2 prime elliptic curves with per-field specialized arithmetic, af… |
+| 2026-10-22 01:15:46 | [tc_f2m_custom](https://crates.io/crates/tc_f2m_custom) | 0.1.0 | 0 | The SEC binary elliptic curves with per-field specialized arithmetic, after Bou… |
 
 ## Data source
 
