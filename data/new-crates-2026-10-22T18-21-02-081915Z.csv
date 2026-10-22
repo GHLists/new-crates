@@ -1,0 +1,59 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T17:23:52.008909Z,rekuiper-core,1.0.0-rc4,0,0,https://github.com/Indus-Stack/rekuiper,Core stream processing runtime primitives and models for rekuiper
+2026-10-22T17:25:23.680032Z,gitgraphd,0.1.0,0,0,https://github.com/lsp1138/gitgraphd,"Minimal tig: a Git Graph style commit tree, and Space opens the diff in delta"
+2026-10-22T17:25:56.164039Z,tines-ros2,0.4.0,0,0,https://github.com/kisom/tines,Self-contained ROS2 node for tines: bridges tines topics to ROS2 topics with a /tines/receipts channel for confidence events. rclrs is an optional feature (off by default) so the crate builds without…
+2026-10-22T17:26:56.57437Z,rekuiper-sql,1.0.0-rc4,0,0,https://github.com/Indus-Stack/rekuiper,"Streaming SQL parser, planner, and evaluator with windowing functions for rekuiper"
+2026-10-22T17:28:10.447209Z,zbitmap,0.1.0,0,0,https://github.com/valentinogrande/zbitmap,Pure-Rust LZBITMAP decompressor and APFS decmpfs (types 13/14) decoder
+2026-10-22T17:28:10.986512Z,wyrd-types,0.3.0,0,0,https://github.com/bohmian-ai/wyrd,"Wyrd column types: the three timestamp types, Variant, and their JSON Schema and Arrow forms"
+2026-10-22T17:28:13.505839Z,wyrd-queue,0.3.0,0,0,https://github.com/bohmian-ai/wyrd,Generic bounded producer + BatchSink seam for Wyrd observation write surfaces
+2026-10-22T17:28:15.745564Z,wyrd-tonic,0.3.0,0,0,https://github.com/bohmian-ai/wyrd,Wyrd-owned tonic facade with the client-safe tonic surface.
+2026-10-22T17:28:18.482066Z,wyrd-client,0.3.0,0,0,https://github.com/bohmian-ai/wyrd,"Shared Wyrd client: transport, authentication, and composed client capabilities."
+2026-10-22T17:28:21.295266Z,wyrd-mcp,0.3.0,0,0,https://github.com/bohmian-ai/wyrd,First-party Rust MCP client connectivity for Wyrd.
+2026-10-22T17:29:34.892433Z,future-slot,0.1.0,0,0,https://github.com/Fuzzyzilla/future-slot,A no-std no-alloc `Box<dyn Future>` analogue
+2026-10-22T17:30:54.773843Z,rekuiper-connectors,1.0.0-rc4,0,0,https://github.com/Indus-Stack/rekuiper,"High-performance connectors (MQTT, Kafka, Redis, WebSocket, SQL, HTTP, File) for rekuiper"
+2026-10-22T17:31:13.593828Z,gunnar-crypt,1.5.0,0,0,https://gunnar.rs/repo/gunnar/gunnar,"Encrypted repositories: the content envelope, the per-repo key ring, its members, the server's plaintext check, and the key wrap to members' SSH public keys"
+2026-10-22T17:31:30.217145Z,gunnar-lfs,1.5.0,0,0,https://gunnar.rs/repo/gunnar/gunnar,"Git LFS over pure SSH: the git-lfs 3.0 `git-lfs-transfer` protocol, server side, streaming and without HTTP."
+2026-10-22T17:32:47.492287Z,gunnar-proto,1.5.0,0,0,https://gunnar.rs/repo/gunnar/gunnar,"The .proto files for gunnar's gRPC control-plane surface, and their tonic-build output."
+2026-10-22T17:33:25.77066Z,gunnar-recipe,0.1.0,0,0,https://gunnar.rs/repo/gunnar/gunnar,"gunnar's build thing: which atoms (gunnar-server, gunnar, gunnar-cli, gunnar-ui, gunnar-solo) can be assembled into which delivery columns (exe, container, iso-installer, iso-live, rpm), as typed Rus…"
+2026-10-22T17:33:36.211441Z,gunnar-store,1.5.0,0,0,https://gunnar.rs/repo/gunnar/gunnar,"The gunnar server's storage seam: RepoStore (which repository), SecretStore (what has no git equivalent), and the one conformance suite both GitOps backends run"
+2026-10-22T17:35:13.520759Z,kube-city,0.1.1,0,0,https://github.com/braveadmin/kube-city,"A living isometric city of your Kubernetes cluster, in the browser or the terminal"
+2026-10-22T17:36:28.071808Z,halcyon-xrpl-core,0.3.0,0,0,https://github.com/ilubxrp589/xrpl-sdk,"XRP Ledger types, binary codec, Ed25519/secp256k1 signing, transaction hashes and ledger entry IDs, checked byte for byte against rippled"
+2026-10-22T17:36:29.90599Z,halcyon-xrpl-client,0.3.0,0,0,https://github.com/ilubxrp589/xrpl-sdk,"XRP Ledger clients: one async Client trait over HTTP JSON-RPC, WebSocket (subscriptions, auto-reconnect) and browser WebSocket, with typed requests and responses"
+2026-10-22T17:36:31.62532Z,halcyon-xrpl-sdk,0.3.0,0,0,https://github.com/ilubxrp589/xrpl-sdk,"Rust SDK for the XRP Ledger (XRPL): wallets, signing, multisign, autofill and submit, HTTP and WebSocket clients, typed ledger objects, hashes, faucet; checked against rippled"
+2026-10-22T17:40:49.771142Z,ferris-cli,0.2.0,0,0,https://github.com/iskurama/ferris-uz,High-performance systems engineering & developer infrastructure CLI for Ferris.uz
+2026-10-22T17:42:09.670207Z,rangecomp,0.1.0,0,0,https://github.com/developmentseed/rangecomp,"Sets of ranges over any ordered type, with exact open, closed and unbounded endpoints"
+2026-10-22T17:42:26.781896Z,agglutinative,0.2.0,0,0,,"Composable agglutinative morphology kernel with ordered morphemes, allomorphy, harmony conditions, reduplication, and morphophonological rewrites"
+2026-10-22T17:42:29.339757Z,fusional,0.1.0,0,0,,Composable cumulative-exponence morphology kernel for fusional language patterns
+2026-10-22T17:42:30.564094Z,simple_impl_language_derive,0.3.0,0,0,,Procedural derives for simple_impl_language declarations
+2026-10-22T17:42:32.994301Z,simple_impl_language,0.3.0,0,0,,Composable language-pattern and intention IR layer with morphology backends
+2026-10-22T17:42:36.217516Z,simple_impl_language_interpreter,0.1.0,0,0,,"Higher-level interpreter shell for keyed language contracts, feature-routed drivers, POS structure contracts, and intention preparation"
+2026-10-22T17:49:40.794901Z,yog-script,0.2.0,0,0,,"Yog Script (.ys, .yns): the language a Yog mod is written in — its parser, syntax tree and diagnostics."
+2026-10-22T17:51:21.840738Z,shuyi,0.0.0,0,0,https://github.com/Zafnok/shuyi-engine,"Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here yet: the first release will replace this placeholder."
+2026-10-22T17:51:56.069513Z,gunnar-core,1.5.0,0,0,https://gunnar.rs/repo/gunnar/gunnar,"gunnar's repository model, identity table, ACL and path sandbox. gunnar-ssh, gunnar-grpc and gunnar-cli all sit on it."
+2026-10-22T17:53:15.573796Z,gunnar-policy,1.5.0,0,0,https://gunnar.rs/repo/gunnar/gunnar,"gunnar's pre-receive policy gate: branch protection, ref-name policy, ssh-sig verification, size limits"
+2026-10-22T17:57:17.669559Z,stablehlo,0.1.0,0,0,https://github.com/calebbuffa/hlo-rs,StableHLO dialect for pliron
+2026-10-22T17:58:01.52831Z,crabpot,0.0.0,0,0,https://github.com/shep-pm/crabpot,A sandbox runtime for AI agents. Placeholder: under active development.
+2026-10-22T17:59:47.333753Z,crorust-common,0.0.1,0,0,https://github.com/adi1ahmad/crorust,"Shared cryptographic, image scaling, and packaging utilities for CroRust."
+2026-10-22T18:00:15.863638Z,wyrd-cli,0.3.0,0,0,https://github.com/bohmian-ai/wyrd,Wyrd command-line interface.
+2026-10-22T18:00:25.397891Z,texera-macros,0.0.1,0,0,,"A modular code-editor widget for ratatui, following the **""Bring Your Own"" (BYO)** philosophy"
+2026-10-22T18:00:34.828327Z,trl_json,1.0.0,0,0,,very bad json serializer and deserializer
+2026-10-22T18:03:19.290592Z,ToRustifyListCLI,1.0.1,0,0,https://github.com/Detalexpl/ToRustifyListCLI,to do list writen in rust
+2026-10-22T18:04:10.536354Z,crorust-mvn,0.0.1,0,0,https://github.com/adi1ahmad/crorust,Library for fetching and resolving maven dependencies for CroRust.
+2026-10-22T18:04:29.723718Z,crorust-android,0.0.1,0,0,https://github.com/adi1ahmad/crorust,"Pure-Rust library for creating, compiling resources, and signing Android APK and AAB packages for CroRust."
+2026-10-22T18:04:33.036814Z,gunnar-ssh,1.5.0,0,0,https://gunnar.rs/repo/gunnar/gunnar,"gunnar's SSH server: a russh listener with publickey identity, a strict git exec dispatch, and the repository path sandbox."
+2026-10-22T18:04:55.257159Z,crorust-apple,0.0.1,0,0,https://github.com/adi1ahmad/crorust,"Library for assembling and codesigning macOS, iOS, visionOS, and tvOS app bundles for CroRust."
+2026-10-22T18:05:10.974794Z,crorust-linux,0.0.1,0,0,https://github.com/adi1ahmad/crorust,Pure-Rust library for assembling Linux AppDirs and SquashFS Type-2 AppImages for CroRust.
+2026-10-22T18:05:40.023607Z,tokencheat,0.0.1,0,0,https://github.com/cmartinzip/tokencheat,Context hygiene and instruction-file auditing for AI coding agents. Placeholder release reserving the name for the TokenCheat CLI — see tokencheat.com.
+2026-10-22T18:06:52.300022Z,snapsbom,0.2.2,0,0,https://github.com/kawacukennedy/snapsbom,"Deterministic SBOM generator that runs in CLI and WASM with zero cloud, zero friction"
+2026-10-22T18:06:55.424096Z,models-dev-rs,0.1.0,0,0,https://github.com/lib-x/models-dev-rs,"Typed, bounded models.dev catalog parser and asynchronous Rust client"
+2026-10-22T18:07:29.244306Z,tailbench,0.1.0,0,0,https://github.com/tatavishnurao/tailbench,"Latency benchmark harness that audits itself: provenance manifest, calibrated verdicts that can refuse"
+2026-10-22T18:07:48.346853Z,tailbench-phantom,0.1.0,0,0,https://github.com/tatavishnurao/tailbench,"Scripted fake OpenAI-compatible LLM server that logs per-request and per-token ground truth, for auditing latency benchmarks."
+2026-10-22T18:10:46.687722Z,crorust-windows,0.0.1,0,0,https://github.com/adi1ahmad/crorust,"Pure-Rust library for creating Windows MSIX packages, MRM PRI resource tables, and portable directories for CroRust."
+2026-10-22T18:14:36.541981Z,lowline,0.1.0,0,0,https://github.com/iyulab/lowline,Form engine that learns from confirmed records: tracks what a person did with each suggestion and turns it into the settlement a decider learns from.
+2026-10-22T18:15:37.435739Z,gunnar-wire,1.5.0,0,0,https://gunnar.rs/repo/gunnar/gunnar,"git smart-protocol state machines: upload-pack (v2 with a v0 fallback) and receive-pack (v0), transport-agnostic"
+2026-10-22T18:15:42.393978Z,rekuiper-server,1.0.0-rc4,0,0,https://github.com/Indus-Stack/rekuiper,"REST API, OpenAPI routes, Prometheus metrics, and streaming hub for rekuiper"
+2026-10-22T18:16:15.284457Z,kuiperd,1.0.0-rc4,0,0,https://github.com/Indus-Stack/rekuiper,High-performance edge stream processing engine daemon (100% eKuiper drop-in replacement)
+2026-10-22T18:16:41.215301Z,rekuiper-cli,1.0.0-rc4,0,0,https://github.com/Indus-Stack/rekuiper,Command-line interface (kuiper) for the rekuiper stream processing engine
+2026-10-22T18:17:09.24327Z,rule-engine,1.0.0-rc4,0,0,https://github.com/Indus-Stack/rekuiper,High-performance edge stream processing engine and MQTT rule engine daemon (rekuiper / eKuiper drop-in)
+2026-10-22T18:17:41.232198Z,ruleengine,1.0.0-rc4,0,0,https://github.com/Indus-Stack/rekuiper,High-performance edge stream processing engine and MQTT rule engine daemon (alias for rule-engine / rekuiper)
+2026-10-22T18:20:21.874753Z,crorust,0.0.1,0,0,https://github.com/adi1ahmad/crorust,Cross-platform build and packaging tool for Rust desktop & mobile apps without external toolchains.
