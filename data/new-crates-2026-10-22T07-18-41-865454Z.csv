@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T06:19:17.920248Z,flashmind,0.1.0,0,0,https://github.com/flashmind-labs/flashmind,"AI agent framework for building, composing, and running LLM-powered agents in Rust"
+2026-10-22T06:19:28.19012Z,flashmind-jev-cli,0.1.0,0,0,https://github.com/flashmind-labs/flashmind,Command-line client for Jev decisions through OpenRouter
+2026-10-22T06:41:19.174839Z,scutum-service,0.2.0,0,0,https://github.com/claviron/scutum,Standalone Scutum firewall policy consumer
+2026-10-22T06:47:19.196246Z,brokapi-core,0.1.0-alpha.1,0,0,https://github.com/runinfra/brokapi,"Domain types, capability traits, Envelope, errors - public connector API surface"
+2026-10-22T06:47:23.990154Z,brokapi-finam-protocol,0.1.0-alpha.1,0,0,https://github.com/runinfra/brokapi,"Finam Trade API gRPC client: generated from the official .proto, JWT token manager, channel setup"
+2026-10-22T06:47:28.592459Z,brokapi-tbank-protocol,0.1.0-alpha.1,0,0,https://github.com/runinfra/brokapi,T-Bank Invest API wire protocol: gRPC client generated from the official .proto (tonic + prost)
+2026-10-22T06:47:34.402717Z,brokapi-bcs-protocol,0.1.0-alpha.1,0,0,https://github.com/runinfra/brokapi,"Low-level BCS broker wire protocol: REST + WebSocket client, serde models, parsing"
+2026-10-22T06:47:38.048348Z,brokapi-sansio,0.1.0-alpha.1,0,0,https://github.com/runinfra/brokapi,Sans-io BrokerCore trait and recorded-frame test harness
+2026-10-22T06:49:00.032641Z,storypole-mcp,0.1.0-beta.1,0,0,https://github.com/gaugeblock/storypole,Model Context Protocol (MCP) stdio server for storypole
+2026-10-22T06:51:49.349008Z,simien_core_icudata,0.1.0,0,0,https://github.com/simienapp/core,ICU 78 data for simien_core's include_icu_data feature (V8 152). Forked from deno_core_icudata 0.78.0.
+2026-10-22T06:51:53.703787Z,simien_node_shim,0.1.0,0,0,,Node's command-line options for simien_node. Forked from node_shim 0.34.0.
+2026-10-22T06:51:56.137331Z,simien_signals,0.1.0,0,0,https://github.com/simienapp/core,Signal handling for simien_net and the Node layer. Forked from deno_signals 0.50.0.
+2026-10-22T06:51:58.310521Z,simien_subprocess_windows,0.1.0,0,0,https://github.com/simienapp/core,Child processes on Windows for Simien's Node layer. Forked from deno_subprocess_windows 0.54.0.
+2026-10-22T06:52:01.111764Z,simien_whoami,0.1.0,0,0,https://github.com/simienapp/core,"The user's name, for os.userInfo() in simien_node. Forked from deno_whoami 0.1.0."
+2026-10-22T06:52:35.601776Z,simien_permissions,0.1.0,0,0,https://github.com/simienapp/core,"The permission checks Simien's Node layer makes, answered by the embedder's policy. Keeps the interface of Deno's permissions crate (0.118.0) without its permission model."
+2026-10-22T06:55:51.857579Z,ados-clock,0.1.1,0,0,https://github.com/altnautica/ADOSDroneAgent,"Map remote clocks onto a host monotonic timebase: windowed least-squares and lower-envelope fits, NTP-style TIMESYNC estimation and a chrony SOCK refclock sink."
+2026-10-22T06:55:53.190525Z,ados-crsf-codec,0.1.1,0,0,https://github.com/altnautica/ADOSDroneAgent,"no_std CRSF (Crossfire / ExpressLRS) codec: frames, packed RC channels, telemetry and parameter frames, axis scaling and link liveness."
+2026-10-22T06:55:54.727965Z,ados-display-driver,0.1.1,0,0,https://github.com/altnautica/ADOSDroneAgent,"Linux output for small displays: SSD1306/SH1106 OLED over I2C, RGB565/RGB888/xRGB pixel packers and an off-thread latest-wins framebuffer writer."
+2026-10-22T06:55:56.244505Z,ados-hmi,0.1.1,0,0,https://github.com/altnautica/ADOSDroneAgent,"Input state machines for hardware front panels: touchscreen affine calibration and gestures, button press classification, quadrature encoder decoding and a pilot-in-command arbiter."
+2026-10-22T06:56:04.912991Z,ados-lora,0.1.1,0,0,https://github.com/altnautica/ADOSDroneAgent,"LoRa transmit governor with cited regional band plans: time-on-air, duty cycle, dwell time, listen-before-talk, power limits and a persisted airtime ledger."
+2026-10-22T06:57:54.116339Z,brokapi-runtime,0.1.0-alpha.1,0,0,https://github.com/runinfra/brokapi,"Supervisor, reconciler, connection multiplexer, backpressure, BrokerLimiter, shutdown"
+2026-10-22T06:58:52.89527Z,sheetpatch,1.0.0,0,0,https://github.com/Cameron-Lyons/sheetpatch,"Surgical cell edits in existing Excel workbooks, preserving untouched package parts"
+2026-10-22T07:02:21.506243Z,simien_dotenv,0.1.0,0,0,https://github.com/simienapp/core,.env parsing for simien_node. Forked from deno_dotenv 0.28.0.
+2026-10-22T07:06:36.025489Z,ados-macpin,0.1.1,0,0,https://github.com/altnautica/ADOSDroneAgent,"Stable MAC addresses for Linux network adapters that randomize theirs every boot: chipset quirk table, deterministic per-machine derivation and systemd-networkd .link files."
+2026-10-22T07:08:05.431432Z,brokapi-bcs,0.1.0-alpha.1,0,0,https://github.com/runinfra/brokapi,BCS MarketDataConnector and UserDataConnector
+2026-10-22T07:10:26.768677Z,ipsa,0.1.0,0,0,https://github.com/ipsadev/ipsa-dev-kit,"Building blocks for IBC v2 on Stellar: commitment proofs, the Soroban router interface, GMP and ICS-20"
+2026-10-22T07:12:21.407714Z,simien_features,0.1.0,0,0,https://github.com/simienapp/core,Unstable-feature flags for simien_net's Node ops. Forked from deno_features 0.56.0.
+2026-10-22T07:18:13.748593Z,ados-mavlink-tunnel,0.1.0,0,0,https://github.com/altnautica/ADOSDroneAgent,Chunk and reassemble large messages over MAVLink TUNNEL frames with a 12-byte header and bounded reassembly.
+2026-10-22T07:18:16.870079Z,brokapi-finam,0.1.0-alpha.1,0,0,https://github.com/runinfra/brokapi,Finam MarketDataConnector and UserDataConnector (Trade API over gRPC)
