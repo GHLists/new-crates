@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T13:21:53.080556Z,contentid,1.0.0,0,0,https://github.com/humacss/contentid,"Deterministic, platform-agnostic, content-derived, decentralized ID generator."
+2026-10-22T13:31:36.450577Z,invar-sdk,0.8.14-beta.1,0,0,https://github.com/ektorthebigbro/invar,"Rust contract matching, optional module runtime and developer CLI for Invar"
+2026-10-22T13:32:02.326471Z,maclean-cli-contract,0.2.0,0,0,https://github.com/jamesfeng2009/maclean,maclean CLI 契约层：命令解析 / envelope 渲染 / 语义退出码 / 人类可读输出（Open Core）
+2026-10-22T13:33:32.733142Z,maclean-cli,0.2.0,0,0,https://github.com/jamesfeng2009/maclean,maclean CLI — 永久免费开源的 macOS 磁盘清理与存储智能命令行工具
+2026-10-22T13:36:01.905377Z,json-schema-editor,0.2.0,0,0,https://github.com/wertasy/json-schema-editor-rs,Terminal JSON/JSONC/YAML/TOML schema-driven config editor
+2026-10-22T13:36:19.339475Z,membrane-lens,1.0.0,0,0,,Portable MCP server for seeing inside the membrane. Zero runtime deps beyond stdlib + TLS.
+2026-10-22T13:37:57.045456Z,tailrace-ir,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,Plan IR: datafusion-proto serialized LogicalPlan statements plus the Cursor/SourceChunk contract
+2026-10-22T13:38:23.071478Z,tailrace-decode,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,Decoder trait plus ogg/json/csv/parquet decoders writing directly into Arrow columns
+2026-10-22T13:38:41.262116Z,cellmembrane-types,0.1.0,0,0,,"Typed domain models for cellMembrane deployment: channels, compositions, firewall, validation"
+2026-10-22T13:38:47.16456Z,litho-core,0.1.0,0,0,,"Shared substrate for Zola-based sporePrint sites — frontmatter, manifests, graphs, verification"
+2026-10-22T13:38:47.469964Z,tailrace-transform,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,DataFusion execution integration: register the decoded batch as `src` and run select_sql
+2026-10-22T13:39:07.014384Z,opsonize,0.3.0,0,0,,Immune tagging + visitor traces + discussion relay + membrane analysis chain
+2026-10-22T13:39:32.117063Z,ebics,0.1.1,0,0,https://github.com/cipansor/crateworks,"EBICS 3.0 (H004 and H005): the XML messages and the RSA, AES and SHA-256 cryptography a corporate banking client needs."
+2026-10-22T13:39:35.912216Z,tailrace-conn-mqtt,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,MQTT connector placeholder: crate name reserved for the parked MQTT route — no source or sink is registered yet
+2026-10-22T13:39:42.036056Z,tailrace-conn-s3,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,S3 connector placeholder: crate name reserved for the parked S3 route — no source or sink is registered yet
+2026-10-22T13:43:17.686638Z,shiprocket,0.1.0,0,0,https://github.com/Salman-Sali/shiprocket,Async client for the Shiprocket shipping API
+2026-10-22T13:47:27.608733Z,plasmidbin-types,0.3.0,0,0,,"Typed domain models for plasmidBin metadata: manifest, checksums, ports, sources, arch"
+2026-10-22T13:49:37.835212Z,duckdb-neo,0.20000.0,0,0,https://github.com/duckdb/duckdb-rs,Ergonomic wrapper for DuckDB's v2 C API (experimental)
+2026-10-22T13:50:07.549673Z,tailrace-metadata,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,"Metadata clients for console discover / infer-schema: Kafka topic listing + tail sampling (rdkafka), Doris FE / MySQL SHOW-DESC over the MySQL wire protocol, PostgreSQL catalog (sqlx subcrates)"
+2026-10-22T13:52:28.715783Z,completion-backend,0.2.0,0,0,https://github.com/xhebox/completion-rt,"Completion-model I/O backend: io_uring, IOCP, and polling."
+2026-10-22T13:52:40.516093Z,completion-async,0.2.0,0,0,https://github.com/xhebox/completion-rt,The async runtime over completion-backend: executor and resource handles.
+2026-10-22T13:58:23.37528Z,thadam-core,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,"Canonical in-memory event model, value types, and connector traits for Thadam"
+2026-10-22T13:58:35.908377Z,thadam-arrow,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,Encoding of Thadam dataset events into Apache Arrow record batches with stable field IDs
+2026-10-22T13:58:48.775975Z,thadam-can,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,Linux SocketCAN frame capture and DBC signal decoding source connector for Thadam
+2026-10-22T13:59:00.581209Z,thadam-config,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,"YAML pipeline configuration loading, interpolation, validation, and JSON Schema for Thadam"
+2026-10-22T13:59:18.289491Z,thadam-grpc,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,gRPC ingest server source connector with TLS and ack-after-commit for Thadam
+2026-10-22T14:00:43.943183Z,console-store,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,"SQLite metadata store for the tailrace console: single WAL file, versioned migrations, argon2 password hashing and AES-GCM secret sealing"
+2026-10-22T14:00:48.58979Z,marcr-rules,0.1.0,0,0,https://github.com/fredericd/marcr,"Rule language to convert MARC records between formats (UNIMARC, MARC21), built on marcr"
+2026-10-22T14:01:43.359877Z,hypersig_cli,0.3.0,0,0,https://github.com/imaimai17468/hypersig,"cargo hypersig: create a hypersig project for a host, or move a project you have to one"
+2026-10-22T14:05:51.054358Z,invar-webtools,0.1.0-beta.1,0,0,https://github.com/ektorthebigbro/invar-webtools,"Optional HTTP and TLS server tools for Rust, C and C++ Invar applications"
+2026-10-22T14:07:20.085927Z,console-proxy,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,"Console-to-node HTTP layer: shared reqwest client factories, typed /v1 node endpoint wrapper and datasource connectivity probes"
+2026-10-22T14:09:35.073497Z,thadam-http,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,HTTP ingest server and polling source connector with TLS for Thadam
+2026-10-22T14:10:03.106528Z,tds-driver-macros,0.1.0,0,0,https://github.com/CommonwealthPasta/tds-driver,Derive macros for tds-driver (e.g. TableValueRow for table-valued parameters).
+2026-10-22T14:10:13.157056Z,tds-driver,0.1.0,0,0,https://github.com/CommonwealthPasta/tds-driver,A TDS (Microsoft SQL Server) driver for Rust
+2026-10-22T14:18:02.959611Z,tailrace-state,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,OffsetStore trait (commit only after write success — the at-least-once anchor) plus the local JSON ledger
