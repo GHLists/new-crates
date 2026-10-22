@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T22:19:12.874688Z,opencraw,0.1.0,0,0,https://github.com/Open-Craw/OpenCraw,"Crawl with OpenCraw from Rust, with no Node to install: the engine through its driver, downloaded once."
+2026-10-22T22:42:21.053383Z,licoup-foundation,0.3.0,0,0,https://github.com/LicoLand/LicoUp-CLI.git,"Shared LicoUp foundations: bounded private file I/O, portable data-home paths, secret bytes, safe archive expansion and process supervision."
+2026-10-22T22:42:27.707303Z,licoup-application,0.3.0,0,0,https://github.com/LicoLand/LicoUp-CLI.git,"Protocol-neutral application contract types for LicoUp: typed failures, namespaced fields and shared JSON shapes."
+2026-10-22T22:42:40.685168Z,licoup-extension-contracts,0.3.0,0,0,https://github.com/LicoLand/LicoUp-CLI.git,"Language-agnostic extension SDK contract: the C09-C13 profiles, package closure and capability ownership."
+2026-10-22T22:44:59.293352Z,rndr_core,0.1.0,0,0,https://github.com/EntasisLabs/rndr,"Application ECS for rndr: entities, hierarchy, layout, events, tasks"
+2026-10-22T22:45:07.406655Z,rndr_paint,0.1.0,0,0,https://github.com/EntasisLabs/rndr,World-to-quad paint step for rndr
+2026-10-22T22:45:10.611008Z,rndr_std,0.1.0,0,0,https://github.com/EntasisLabs/rndr,std::fs plugin for rndr
+2026-10-22T22:46:18.597705Z,rndr_render,0.1.0,0,0,https://github.com/EntasisLabs/rndr,winit + wgpu window plugin for rndr
+2026-10-22T22:46:24.57844Z,rs-strings2set2sqlite,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-strings2set2sqlite,Insert strings from stdin into a SQLite set
+2026-10-22T22:46:28.457428Z,rndr,0.1.0,0,0,https://github.com/EntasisLabs/rndr,"Desktop application toolkit: entities, layout, paint, and a window"
+2026-10-22T22:49:35.188742Z,token-usage-detector,0.1.0,0,0,https://github.com/Unka-Malloc/Agent-Statistics.git,"Detects token usage from conversation, session and stream records: the push, bounded-pull and cursor collection protocol, the host-side source binding, and the boundary normalizers."
+2026-10-22T22:49:40.889474Z,balance-detector,0.1.0,0,0,https://github.com/Unka-Malloc/Agent-Statistics.git,"Queries provider account surfaces for remaining credit and subscription quota windows (weekly/monthly remaining share), with the account bound by the host and responses mapped declaratively."
+2026-10-22T22:51:00.45899Z,nostr-remote-signer-core,0.1.0,0,0,https://github.com/bonpiedlaroute/nostr-remote-signer,Traits for a NIP-46 remote signer: the root-of-trust boundary and the audit record.
+2026-10-22T22:51:05.274018Z,nostr-remote-signer,0.1.0,0,0,https://github.com/bonpiedlaroute/nostr-remote-signer,"NIP-46 remote signer daemon with key custody, policy enforcement and audit."
+2026-10-22T22:59:49.388618Z,lp-ip-craft,0.29.0,0,0,https://github.com/dietmarwo/LP-IP-craft,"Validated LP/MIP models, solver contracts and independent numerical checks"
+2026-10-22T22:59:53.846319Z,lp-ip-craft-native,0.29.0,0,0,https://github.com/dietmarwo/LP-IP-craft,"Native Rust LP/MIP engine: dual revised simplex on a sparse LU factorization, presolve, cuts and branch-and-bound"
+2026-10-22T23:06:59.069498Z,jartodynamiclibrary,0.1.0,0,0,,Pack a Forge/NeoForge/Fabric mod .jar into a dynamic library (.dll/.so/.dylib) that loads it into a running Minecraft JVM
+2026-10-22T23:12:02.775843Z,luce,0.1.0,0,0,,Native Rust matrices and computer vision foundations
+2026-10-22T23:14:28.154804Z,spiral-contract,0.0.0,0,0,https://github.com/spiraldb/spiraldb,Language-neutral Spiral service wire values (initial publishing bootstrap)
+2026-10-22T23:14:30.051627Z,spiral-auth,0.0.0,0,0,https://github.com/spiraldb/spiraldb,Spiral credentials and authentication providers (initial publishing bootstrap)
+2026-10-22T23:14:31.801818Z,spiral-sdk,0.0.0,0,0,https://github.com/spiraldb/spiraldb,Rust SDK for Spiral resource and table APIs (initial publishing bootstrap)
