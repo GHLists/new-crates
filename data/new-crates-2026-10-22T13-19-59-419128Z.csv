@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T12:19:42.614778Z,sunns-hearth,0.0.0,0,0,,"Reserved name for sunns-hearth, an open source modular backend framework in Rust. Under development, no code yet."
+2026-10-22T12:19:55.349342Z,sunns,0.0.0,0,0,,"Reserved name for Sunns, the home of sunns-hearth, an open source modular backend framework in Rust. No code yet."
+2026-10-22T12:24:42.409716Z,scenix-ui,1.10.0,0,0,https://github.com/AarambhDevHub/scenix,"Renderer-agnostic scene UI tooling for scenix: splash-free overlay layouts, panel stacks, renderer stats, and tool widgets for desktop, mobile, and web."
+2026-10-22T12:25:14.972422Z,scenix-editor,1.10.0,0,0,https://github.com/AarambhDevHub/scenix,"Offline CPU editor tooling for scenix: undoable scene editing sessions, gizmo drag math, scene panel models, material field editing, asset browsing, timeline previews, and project metadata exchange."
+2026-10-22T12:26:25.950324Z,monaco-dioxus,0.1.2,0,0,https://github.com/ctron/monaco-wasm,"Dioxus component for the Monaco editor (web, fullstack), with the editor runtime and workers bundled"
+2026-10-22T12:30:15.228594Z,opensk,0.1.0,0,0,https://github.com/google/OpenSK,"OpenSK's CTAP2 (FIDO2) authenticator, as a library"
+2026-10-22T12:32:16.870354Z,salsabox,0.1.0,0,0,https://github.com/paddor/salsabox,NaCl-compatible XSalsa20-Poly1305 boxes with a portable SIMD Salsa20 core.
+2026-10-22T12:35:55.414288Z,veilway-hpack,0.3.1-veilway.1,0,0,https://github.com/veilway-project/veilway,"fluke-hpack 0.3.1 with the patches of the Veilway project: no panic on a cut-off size update, size updates only at the start of a block, the Huffman table built once"
+2026-10-22T12:35:59.453422Z,gridity,0.1.0,0,0,https://github.com/kazuito/gridity,"Arrange PDF pages, video frames and images into labeled grid sheets for LLM vision"
+2026-10-22T12:36:24.759929Z,veilway-xray,0.2.13,0,0,https://github.com/veilway-project/veilway,"The Xray-core add-on of the Veilway client: pinned install, supervisor, and a run of a legacy profile on the platform layer."
+2026-10-22T12:38:40.287405Z,metrics233-client-sdk-rust,0.1.0,0,0,https://github.com/neko233-com/metrics233-client-sdk-rust,Explicit-lifecycle Rust client SDK for metrics233-server
+2026-10-22T12:40:16.807969Z,thaud-macro-util-derive,0.1.0,0,0,https://github.com/timothee-haudebourg/macro-util-rs,Derive macros for thaud-macro-util
+2026-10-22T12:40:19.471447Z,thaud-macro-util,0.1.0,0,0,https://github.com/timothee-haudebourg/macro-util-rs,Utilities to define procedural macros
+2026-10-22T12:44:49.696569Z,test-crate-20261022,0.1.0,0,0,,"test crate, do not use"
+2026-10-22T12:56:30.560976Z,voff-core,0.1.0,0,0,,Core domain types for Voff coding agent workflows.
+2026-10-22T12:56:31.122877Z,voff-prompts,0.1.0,0,0,,Built-in prompts for Voff coding agent workflows.
+2026-10-22T12:56:33.646118Z,voff-provider,0.1.0,0,0,,Provider integrations for Voff coding agents.
+2026-10-22T12:56:34.209669Z,voff-storage,0.1.0,0,0,,"SQLite persistence for Voff sessions, tasks, and activity."
+2026-10-22T12:56:34.636652Z,voff-tools,0.1.0,0,0,,Workspace tools and controlled command execution for Voff agents.
+2026-10-22T12:59:39.795982Z,tyra-macros,0.1.0,0,0,https://github.com/sers-dev/tyra/tree/master/tyra-macros,Typed Actor System
+2026-10-22T13:03:15.383665Z,tauri-plugin-keep-awake,0.1.0-alpha.1,0,0,https://github.com/hoangmirs/tauri-plugins,Tauri plugin that keeps a phone's screen on while the app asks it to
+2026-10-22T13:07:13.396623Z,php2shell_checker,0.1.0,0,0,https://github.com/hebertcisco/php2shell_checker,Static PHP runtime exposure and misconfiguration analyzer
+2026-10-22T13:09:42.308634Z,hardless-mcp,0.1.0,0,0,https://github.com/hardlessdev/hardless,MCP server for Hardless so AI coding agents can drive emulated POS devices.
+2026-10-22T13:10:17.474599Z,hardless-server,0.1.0,0,0,https://github.com/hardlessdev/hardless,"Hardless server: WebSocket bridge, HTTP printer endpoints, REST API and dashboard."
+2026-10-22T13:10:41.720473Z,hardless-cli,0.1.0,0,0,https://github.com/hardlessdev/hardless,"The hardless binary: start the server, scan, tap, toggle faults, read receipts, run the MCP server."
+2026-10-22T13:14:25.006011Z,invar-checks,0.8.14-beta.1,0,0,https://github.com/ektorthebigbro/invar,Optional allocation-free native value and sample checks
+2026-10-22T13:17:00.778388Z,invar-ffi,0.4.5-beta.1,0,0,https://github.com/ektorthebigbro/invar,Raw C ABI declarations for Invar core and extension interfaces
+2026-10-22T13:17:09.003725Z,invar-components-ffi,0.4.5-beta.1,0,0,https://github.com/ektorthebigbro/invar,Raw C ABI declarations for Invar stream and boundary components
+2026-10-22T13:17:16.885046Z,invar-core,0.8.14-beta.1,0,0,https://github.com/ektorthebigbro/invar,Allocation-free canonical Invar validation and hashing
+2026-10-22T13:17:21.669599Z,invar-module-ffi,0.8.14-beta.1,0,0,https://github.com/ektorthebigbro/invar,Raw C ABI declarations for Invar module loading and binding
