@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T10:25:10.355976Z,ppoppo-pcs-external-test,2.0.0,0,0,https://github.com/hakchin/ppoppo,"Test kit for ppoppo-pcs-external: ServedExternalFace, the PCS External face (pcs.external.v1) served in-process and scripted in the face's own types, and MemoryExternalFace, an in-memory model of it.…"
+2026-10-22T10:25:17.330864Z,csan-core,0.6.1,0,0,https://github.com/veralvx/csan,Cutter call number generation (Cutter-Sanborn and Library of Congress) for library cataloging
+2026-10-22T10:27:24.946774Z,crawlora-google,0.2.0,0,0,https://github.com/Crawlora-org/crawlora-google,Typed Rust client for Crawlora's hosted Google API. Requires a Crawlora API key.
+2026-10-22T10:33:41.985426Z,hugepage,0.1.0,0,0,https://github.com/yaws-rs/ylibc,Linux hugepage
+2026-10-22T10:37:24.568294Z,crawlora-googleplay,0.1.2,0,0,https://github.com/Crawlora-org/crawlora-googleplay,Typed Rust client for Crawlora's hosted Google Play API. Requires a Crawlora API key.
+2026-10-22T10:38:36.412734Z,monaco-wasm,0.1.0,0,0,https://github.com/ctron/monaco-wasm,"The Monaco editor for Rust/WASM, with the editor runtime and workers bundled: no npm, no CDN"
+2026-10-22T10:38:39.377809Z,monaco-leptos,0.1.0,0,0,https://github.com/ctron/monaco-wasm,"Leptos component for the Monaco editor (CSR, SSR, hydration), with the editor runtime and workers bundled"
+2026-10-22T10:38:40.148687Z,monaco-yew,0.1.0,0,0,https://github.com/ctron/monaco-wasm,"Yew component for the Monaco editor, with the editor runtime and workers bundled"
+2026-10-22T10:39:37.026376Z,solana_kit,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit,Reserved for the portable Rust Solana Kit ecosystem; no SDK APIs are available yet
+2026-10-22T10:47:45.524352Z,crawlora-imdb,0.2.0,0,0,https://github.com/Crawlora-org/crawlora-imdb,Typed Rust client for Crawlora's hosted IMDb API. Requires a Crawlora API key.
+2026-10-22T10:52:57.593488Z,discrete_math,0.2.0,0,0,https://github.com/as061125/rust_discrete_math,"Axiomatic discrete mathematics in Rust: finite sets, binary relations and functions"
+2026-10-22T10:53:28.908725Z,identity-notifications,0.1.0,0,0,https://github.com/dfinity/identity-notifications,"Notify Internet Identity users from a Rust canister: one send call, the library handles the rest."
+2026-10-22T10:53:45.292312Z,nym-config-score,2.0.0,0,0,https://github.com/nymtech/nym,Shared node config-score computation used by nym-api and the network monitor orchestrator
+2026-10-22T10:55:24.581177Z,anonymous-mmap,0.1.0,0,0,https://github.com/yaws-rs/ylibc,Linux anonymous mmap
+2026-10-22T10:57:24.409305Z,crawlora-spotify,0.2.0,0,0,https://github.com/Crawlora-org/crawlora-spotify,Typed Rust client for Crawlora's hosted Spotify API. Requires a Crawlora API key.
+2026-10-22T11:01:22.48263Z,io-uring-bufring,0.2.0-pre5,0,0,https://github.com/yaws-rs/io_uring-utils,io_uring bufring
+2026-10-22T11:03:27.255976Z,minigrep-sakis,0.1.5,0,0,https://github.com/kraglin-labs/minigrep-sakis,A simple case-insensitive text search library with cool colored output
+2026-10-22T11:04:40.538177Z,hatchzip-core,0.1.0,0,0,https://github.com/xevrion/hatchzip,"The engine behind HatchZip: extract ZIP, 7z and tar archives in place, freeing the archive as it goes."
+2026-10-22T11:05:16.6284Z,io-uring-op-accept-multi,0.0.1,0,0,https://github.com/yaws-rs/io_uring-utils/tree/main/op-accept-multi,AcceptMulti OpCode for io-uring-bearer
+2026-10-22T11:05:20.318514Z,hatchzip,0.1.0,0,0,https://github.com/xevrion/hatchzip,"Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output."
+2026-10-22T11:05:26.47444Z,eska-project-core,0.15.0,0,0,https://github.com/1c-tooling/eska,Shared Designer XML project model and checked metadata operations
+2026-10-22T11:05:31.94611Z,eska-tool-runtime,0.15.0,0,0,https://github.com/1c-tooling/eska,Owned component processes and bounded internal tool protocols
+2026-10-22T11:05:48.303067Z,eska-presentation,0.15.0,0,0,https://github.com/1c-tooling/eska,Shared localization and path presentation for ESKA tools
+2026-10-22T11:06:36.159834Z,io-uring-op-socket,0.0.2,0,0,https://github.com/yaws-rs/io_uring-utils/tree/main/op-socket,Socket OpCode for io-uring-bearer
+2026-10-22T11:07:18.398436Z,civilkit-calcs-engine,0.1.0,0,0,https://github.com/mageaustralia/civilkit-calcs,"Calculation engine of CivilKit Calcs: a Rust port of the CalcpadCE worksheet engine (units, vectors, matrices, plots, input forms, HTML reports)"
+2026-10-22T11:09:04.543889Z,civilkit-calcs-highlighter,0.1.0,0,0,https://github.com/mageaustralia/civilkit-calcs,"Editor services for CalcpadCE worksheets, in Rust: tokenizer, linter, content resolution, prettifier and snippet library"
+2026-10-22T11:09:44.670746Z,civilkit-calcs-docx,0.1.0,0,0,https://github.com/mageaustralia/civilkit-calcs,"Word (.docx) and Excel (.xlsx) export of CalcpadCE worksheet reports, in Rust: Office Math equations, tables, pictures and native charts"
+2026-10-22T11:13:20.9138Z,spl-asdlc,1.3.2,0,0,https://github.com/Martin-Rancourt/spl-asdlc,The bridge of SPL-ASDLC: turns GitHub facts into tracker state and tracker state into GitHub actions.
+2026-10-22T11:14:51.039797Z,homura-derive,0.3.0,0,0,https://github.com/TOBYYH/homura,Procedural macros for homura
+2026-10-22T11:16:17.492214Z,io-uring-opcode-sets,0.0.2,0,0,https://github.com/yaws-rs/io_uring-utils,io_uring opcode trait contract between bearer and opcodes
+2026-10-22T11:17:34.623605Z,hulladb_schema,0.1.0,0,0,https://github.com/hulladev/db,"Language-neutral schema, validation and lossless value contracts for hulladb"
+2026-10-22T11:17:38.635924Z,hulladb_protocol,0.1.0,0,0,https://github.com/hulladev/db,Shared function and synchronization protocol contracts for hulladb
+2026-10-22T11:17:42.465868Z,hulladb_macros,0.1.0,0,0,https://github.com/hulladev/db,Procedural macros for hulladb typed schemas and function declarations
+2026-10-22T11:17:43.452028Z,kosmetic-diagnostics,0.1.0,0,0,https://github.com/GeneralKoski/kosmetic,"Spans, diagnostics and rendering for kosmetic"
+2026-10-22T11:17:48.915452Z,hulladb_js,0.1.0,0,0,https://github.com/hulladev/db,Restricted JavaScript handler process for hulladb
+2026-10-22T11:17:49.662681Z,kosmetic-syntax,0.1.0,0,0,https://github.com/GeneralKoski/kosmetic,Hand-written TOML lexer and lossless parser for kosmetic
+2026-10-22T11:17:53.830513Z,kosmetic-rules,0.1.0,0,0,https://github.com/GeneralKoski/kosmetic,Lint rules and rule engine for kosmetic
+2026-10-22T11:17:56.237605Z,kosmetic-format,0.1.0,0,0,https://github.com/GeneralKoski/kosmetic,TOML formatter built on the lossless tree of kosmetic
+2026-10-22T11:17:57.285948Z,hulladb_wire,0.1.0,0,0,https://github.com/hulladev/db,Binary row and schema codecs for hulladb
+2026-10-22T11:18:00.221647Z,kosmetic-lsp,0.1.0,0,0,https://github.com/GeneralKoski/kosmetic,"Language server for kosmetic, speaking LSP over stdio"
+2026-10-22T11:18:35.091598Z,ppvm-sym,0.1.0,0,0,https://github.com/QuEraComputing/ppvm,"Symbolic, parametric Pauli propagation for ppvm."
+2026-10-22T11:18:40.683302Z,ppvm-tableau,0.1.0,0,0,https://github.com/QuEraComputing/ppvm,Generalized stabilizer-tableau simulator for ppvm.
+2026-10-22T11:18:48.418455Z,ppvm-stim,0.1.0,0,0,https://github.com/QuEraComputing/ppvm,Parse and run Stim circuits on the ppvm generalized stabilizer tableau.
+2026-10-22T11:18:53.827711Z,ppvm-tableau-sum,0.1.0,0,0,https://github.com/QuEraComputing/ppvm,"Sums of generalized stabilizer tableaux with sampling, measurement and noise, for ppvm."
+2026-10-22T11:19:02.640023Z,ppvm-vihaco,0.1.0,0,0,https://github.com/QuEraComputing/ppvm,Run vihaco circuit programs on the ppvm simulators.
