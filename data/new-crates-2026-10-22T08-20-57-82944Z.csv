@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T07:22:02.272509Z,yog-mirror,0.1.0,0,0,,"Yog mirrors: hot game data in shared memory, declared, read in place by mods and the host."
+2026-10-22T07:22:09.798934Z,quincy-forked,0.0.1,0,0,https://github.com/claviron/quincy,Unofficial Quincy fork: QUIC VPN core for host-managed runtimes
+2026-10-22T07:22:12.237658Z,quincy-server-forked,0.0.1,0,0,https://github.com/claviron/quincy,Unofficial Quincy server fork with lifecycle observers and host-owned shutdown
+2026-10-22T07:22:21.530127Z,simien_inspector_server,0.1.0,0,0,https://github.com/simienapp/core,node:inspector's server for simien_node. Forked from deno_inspector_server 0.33.0.
+2026-10-22T07:28:27.585883Z,brokapi-tbank,0.1.0-alpha.2,0,0,https://github.com/runinfra/brokapi,T-Bank MarketDataConnector and UserDataConnector
+2026-10-22T07:28:47.923601Z,ados-offload,0.1.0,0,0,https://github.com/altnautica/ADOSDroneAgent,"Decide where drone perception runs (onboard, offloaded or hybrid) and gate stale or link-lost results so the vehicle holds instead of extrapolating."
+2026-10-22T07:32:09.274715Z,meatus,0.1.0,0,0,https://github.com/claviron/meatus,An Orbit-connected VPN service powered by Quincy
+2026-10-22T07:32:21.550412Z,simien_io,0.1.0,0,0,https://github.com/simienapp/core,Standard streams and resources for Simien's Node layer. Forked from deno_io 0.169.0.
+2026-10-22T07:35:59.660939Z,nanofuzz-runtime,0.3.9,0,0,https://github.com/nanofuzz/nanofuzz,Runtime support and types for NaNofuzz test suites and property validators in Rust
+2026-10-22T07:38:39.785195Z,brokapi,0.1.0-alpha.2,0,0,https://github.com/runinfra/brokapi,"One interface to the APIs of Russian brokers (BCS, T-Bank, Finam, ALOR): market data, orders, reconciliation, rate limits."
+2026-10-22T07:39:30.284134Z,ados-positioning,0.1.0,0,0,https://github.com/altnautica/ADOSDroneAgent,"Split a mixed UBX, NMEA and RTCM3 byte stream with resync, build u-blox VALSET commands and run an RTK base survey-in state machine."
+2026-10-22T07:41:59.80455Z,tc_keccak,0.1.0,0,0,https://github.com/TomiCheng/tc_digest,"Keccak, SHA-3, SHAKE, cSHAKE, TupleHash and ParallelHash (FIPS 202, NIST SP 800-185)."
+2026-10-22T07:42:20.813745Z,simien_node_crypto,0.1.0,0,0,https://github.com/simienapp/core,node:crypto's native parts for simien_node. Forked from deno_node_crypto 0.29.0.
+2026-10-22T07:43:32.265607Z,yt-audio,0.1.1,0,0,https://git.hu-tao.dev/hutao/cli-utils,Download YouTube audio with tidy tags and filenames
+2026-10-22T07:43:47.006428Z,dlsym,0.0.1,0,0,https://github.com/KarpelesLab/dlsym,Memory-safe bindings around the platform's dynamic library loading primitives
+2026-10-22T07:49:32.626058Z,brokapi-alor-protocol,0.1.0-alpha.2,0,0,https://github.com/runinfra/brokapi,"Low-level ALOR Broker wire protocol: HTTP + WebSocket client, serde models, parsing"
+2026-10-22T07:50:14.275258Z,ados-protocol,0.106.2,0,0,https://github.com/altnautica/ADOSDroneAgent,"Wire contracts for the ADOS Drone Agent: length-prefixed IPC framing, plugin RPC envelope and capability tokens, the vision frame bus, MSP and MAVLink helpers."
+2026-10-22T07:50:17.894995Z,hashtree-bittorrent,0.1.0,0,0,https://git.iris.to/#/npub1xdhnr9mrv47kkrn95k6cwecearydeh8e895990n3acntwvmgk2dsdeeycm/hashtree,Opt-in BitTorrent import and snapshot seeding for Hashtree
+2026-10-22T07:52:21.278711Z,simien_os,0.1.0,0,0,https://github.com/simienapp/core,OS information and signals for Simien's Node layer. Forked from deno_os 0.76.0.
+2026-10-22T07:52:53.94923Z,axeon-webhooks,0.1.0,0,0,https://github.com/axeon-rs/axeon,"Signed webhooks for Axeon apps: HMAC-SHA256 signing and verification with timestamps, replay protection and secret rotation"
+2026-10-22T07:53:38.402421Z,ojosito,0.1.0,0,0,,"A calm, self-hosted uptime monitor in one binary"
+2026-10-22T07:59:22.219387Z,shelfgauge-core,0.17.0,0,0,https://github.com/holgertkey/shelfgauge,"The book model, reader split, HTML rendering and text search of shelfgauge, shared with its WebAssembly reader"
+2026-10-22T08:00:05.097242Z,brokapi-alor,0.1.0-alpha.2,0,0,https://github.com/runinfra/brokapi,ALOR Broker MarketDataConnector and UserDataConnector
+2026-10-22T08:02:13.727182Z,lomboksimhash,0.1.0,0,0,https://github.com/codinglombok/LombokSimHash,"Locality-sensitive hashing for near-duplicate document detection. SimHash, MinHash, LSH, SHA-256, and shingling."
+2026-10-22T08:02:21.245943Z,simien_fs,0.1.0,0,0,https://github.com/simienapp/core,"File system ops for Simien's Node layer, checked against Simien's permissions. Forked from deno_fs 0.169.0."
+2026-10-22T08:06:57.29282Z,canvist,0.0.0,0,0,https://github.com/canvist/canvist,"The canvist rich-text editor engine in one crate: the document model, editing engine, extensions, and headless engine, with layout, collaboration, and the canvas behind features"
+2026-10-22T08:07:02.083854Z,canvist_core,0.0.0,0,0,https://github.com/canvist/canvist,"Platform-agnostic editing engine for canvist: editor state, commands, selection motion, keymaps, input rules, and history"
+2026-10-22T08:07:15.771831Z,links-fs,0.21.0,0,0,https://github.com/link-foundation/lfs,"LFS: a links file system driver (Linux, macOS, Windows) with an embedded doublets links database, one shared journal and no fragmentation"
+2026-10-22T08:11:34.906236Z,ados-gpio,0.106.2,0,0,https://github.com/altnautica/ADOSDroneAgent,"Drive a buzzer or LED on a Linux GPIO character-device line and compute bounded software-PWM beep schedules, as used by the ADOS Drone Agent."
+2026-10-22T08:11:36.527225Z,ados-hal-probe,0.106.2,0,0,https://github.com/altnautica/ADOSDroneAgent,"Probe-first hardware capability detection for Linux single-board computers: CPU, SoC, USB, serial, V4L2 encoders and board profiles, read from the real silicon by the ADOS Drone Agent."
+2026-10-22T08:12:21.352837Z,simien_process,0.1.0,0,0,https://github.com/simienapp/core,"Child processes for Simien's Node layer, checked against Simien's permissions. Forked from deno_process 0.74.0."
+2026-10-22T08:13:13.271995Z,dokt,0.1.1,0,0,https://github.com/SatelliteDish/dokt,"Build documentation from Markdown that lives inside a repo. Navigate using Obsidian-style wikilinks, render Mermaid, and build or serve a static docs site."
+2026-10-22T08:14:25.633434Z,gst-plugin-overlaycompositor,0.0.0,0,0,https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs,GStreamer overlay compositor plugin (placeholder)
+2026-10-22T08:15:23.154584Z,praman-sdk,0.1.0,0,0,,"Verify Praman access tokens and webhooks, and call Praman from an app's backend."

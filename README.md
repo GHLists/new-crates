@@ -8,43 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 07:18 UTC
+## Latest list — 2026-10-22 08:20 UTC
 
-New crates published between 2026-10-22 06:18 UTC and 2026-10-22 07:18 UTC.
+New crates published between 2026-10-22 07:18 UTC and 2026-10-22 08:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-22T07-18-41-865454Z.csv)
+[Full CSV](data/new-crates-2026-10-22T08-20-57-82944Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-22 06:19:17 | [flashmind](https://crates.io/crates/flashmind) | 0.1.0 | 0 | AI agent framework for building, composing, and running LLM-powered agents in R… |
-| 2026-10-22 06:19:28 | [flashmind-jev-cli](https://crates.io/crates/flashmind-jev-cli) | 0.1.0 | 0 | Command-line client for Jev decisions through OpenRouter |
-| 2026-10-22 06:41:19 | [scutum-service](https://crates.io/crates/scutum-service) | 0.2.0 | 0 | Standalone Scutum firewall policy consumer |
-| 2026-10-22 06:47:19 | [brokapi-core](https://crates.io/crates/brokapi-core) | 0.1.0-alpha.1 | 0 | Domain types, capability traits, Envelope, errors - public connector API surface |
-| 2026-10-22 06:47:23 | [brokapi-finam-protocol](https://crates.io/crates/brokapi-finam-protocol) | 0.1.0-alpha.1 | 0 | Finam Trade API gRPC client: generated from the official .proto, JWT token mana… |
-| 2026-10-22 06:47:28 | [brokapi-tbank-protocol](https://crates.io/crates/brokapi-tbank-protocol) | 0.1.0-alpha.1 | 0 | T-Bank Invest API wire protocol: gRPC client generated from the official .proto… |
-| 2026-10-22 06:47:34 | [brokapi-bcs-protocol](https://crates.io/crates/brokapi-bcs-protocol) | 0.1.0-alpha.1 | 0 | Low-level BCS broker wire protocol: REST + WebSocket client, serde models, pars… |
-| 2026-10-22 06:47:38 | [brokapi-sansio](https://crates.io/crates/brokapi-sansio) | 0.1.0-alpha.1 | 0 | Sans-io BrokerCore trait and recorded-frame test harness |
-| 2026-10-22 06:49:00 | [storypole-mcp](https://crates.io/crates/storypole-mcp) | 0.1.0-beta.1 | 0 | Model Context Protocol (MCP) stdio server for storypole |
-| 2026-10-22 06:51:49 | [simien_core_icudata](https://crates.io/crates/simien_core_icudata) | 0.1.0 | 0 | ICU 78 data for simien_core's include_icu_data feature (V8 152). Forked from de… |
-| 2026-10-22 06:51:53 | [simien_node_shim](https://crates.io/crates/simien_node_shim) | 0.1.0 | 0 | Node's command-line options for simien_node. Forked from node_shim 0.34.0. |
-| 2026-10-22 06:51:56 | [simien_signals](https://crates.io/crates/simien_signals) | 0.1.0 | 0 | Signal handling for simien_net and the Node layer. Forked from deno_signals 0.5… |
-| 2026-10-22 06:51:58 | [simien_subprocess_windows](https://crates.io/crates/simien_subprocess_windows) | 0.1.0 | 0 | Child processes on Windows for Simien's Node layer. Forked from deno_subprocess… |
-| 2026-10-22 06:52:01 | [simien_whoami](https://crates.io/crates/simien_whoami) | 0.1.0 | 0 | The user's name, for os.userInfo() in simien_node. Forked from deno_whoami 0.1.… |
-| 2026-10-22 06:52:35 | [simien_permissions](https://crates.io/crates/simien_permissions) | 0.1.0 | 0 | The permission checks Simien's Node layer makes, answered by the embedder's pol… |
-| 2026-10-22 06:55:51 | [ados-clock](https://crates.io/crates/ados-clock) | 0.1.1 | 0 | Map remote clocks onto a host monotonic timebase: windowed least-squares and lo… |
-| 2026-10-22 06:55:53 | [ados-crsf-codec](https://crates.io/crates/ados-crsf-codec) | 0.1.1 | 0 | no_std CRSF (Crossfire / ExpressLRS) codec: frames, packed RC channels, telemet… |
-| 2026-10-22 06:55:54 | [ados-display-driver](https://crates.io/crates/ados-display-driver) | 0.1.1 | 0 | Linux output for small displays: SSD1306/SH1106 OLED over I2C, RGB565/RGB888/xR… |
-| 2026-10-22 06:55:56 | [ados-hmi](https://crates.io/crates/ados-hmi) | 0.1.1 | 0 | Input state machines for hardware front panels: touchscreen affine calibration… |
-| 2026-10-22 06:56:04 | [ados-lora](https://crates.io/crates/ados-lora) | 0.1.1 | 0 | LoRa transmit governor with cited regional band plans: time-on-air, duty cycle,… |
-| 2026-10-22 06:57:54 | [brokapi-runtime](https://crates.io/crates/brokapi-runtime) | 0.1.0-alpha.1 | 0 | Supervisor, reconciler, connection multiplexer, backpressure, BrokerLimiter, sh… |
-| 2026-10-22 06:58:52 | [sheetpatch](https://crates.io/crates/sheetpatch) | 1.0.0 | 0 | Surgical cell edits in existing Excel workbooks, preserving untouched package p… |
-| 2026-10-22 07:02:21 | [simien_dotenv](https://crates.io/crates/simien_dotenv) | 0.1.0 | 0 | .env parsing for simien_node. Forked from deno_dotenv 0.28.0. |
-| 2026-10-22 07:06:36 | [ados-macpin](https://crates.io/crates/ados-macpin) | 0.1.1 | 0 | Stable MAC addresses for Linux network adapters that randomize theirs every boo… |
-| 2026-10-22 07:08:05 | [brokapi-bcs](https://crates.io/crates/brokapi-bcs) | 0.1.0-alpha.1 | 0 | BCS MarketDataConnector and UserDataConnector |
-| 2026-10-22 07:10:26 | [ipsa](https://crates.io/crates/ipsa) | 0.1.0 | 0 | Building blocks for IBC v2 on Stellar: commitment proofs, the Soroban router in… |
-| 2026-10-22 07:12:21 | [simien_features](https://crates.io/crates/simien_features) | 0.1.0 | 0 | Unstable-feature flags for simien_net's Node ops. Forked from deno_features 0.5… |
-| 2026-10-22 07:18:13 | [ados-mavlink-tunnel](https://crates.io/crates/ados-mavlink-tunnel) | 0.1.0 | 0 | Chunk and reassemble large messages over MAVLink TUNNEL frames with a 12-byte h… |
-| 2026-10-22 07:18:16 | [brokapi-finam](https://crates.io/crates/brokapi-finam) | 0.1.0-alpha.1 | 0 | Finam MarketDataConnector and UserDataConnector (Trade API over gRPC) |
+| 2026-10-22 07:22:02 | [yog-mirror](https://crates.io/crates/yog-mirror) | 0.1.0 | 0 | Yog mirrors: hot game data in shared memory, declared, read in place by mods an… |
+| 2026-10-22 07:22:09 | [quincy-forked](https://crates.io/crates/quincy-forked) | 0.0.1 | 0 | Unofficial Quincy fork: QUIC VPN core for host-managed runtimes |
+| 2026-10-22 07:22:12 | [quincy-server-forked](https://crates.io/crates/quincy-server-forked) | 0.0.1 | 0 | Unofficial Quincy server fork with lifecycle observers and host-owned shutdown |
+| 2026-10-22 07:22:21 | [simien_inspector_server](https://crates.io/crates/simien_inspector_server) | 0.1.0 | 0 | node:inspector's server for simien_node. Forked from deno_inspector_server 0.33… |
+| 2026-10-22 07:28:27 | [brokapi-tbank](https://crates.io/crates/brokapi-tbank) | 0.1.0-alpha.2 | 0 | T-Bank MarketDataConnector and UserDataConnector |
+| 2026-10-22 07:28:47 | [ados-offload](https://crates.io/crates/ados-offload) | 0.1.0 | 0 | Decide where drone perception runs (onboard, offloaded or hybrid) and gate stal… |
+| 2026-10-22 07:32:09 | [meatus](https://crates.io/crates/meatus) | 0.1.0 | 0 | An Orbit-connected VPN service powered by Quincy |
+| 2026-10-22 07:32:21 | [simien_io](https://crates.io/crates/simien_io) | 0.1.0 | 0 | Standard streams and resources for Simien's Node layer. Forked from deno_io 0.1… |
+| 2026-10-22 07:35:59 | [nanofuzz-runtime](https://crates.io/crates/nanofuzz-runtime) | 0.3.9 | 0 | Runtime support and types for NaNofuzz test suites and property validators in R… |
+| 2026-10-22 07:38:39 | [brokapi](https://crates.io/crates/brokapi) | 0.1.0-alpha.2 | 0 | One interface to the APIs of Russian brokers (BCS, T-Bank, Finam, ALOR): market… |
+| 2026-10-22 07:39:30 | [ados-positioning](https://crates.io/crates/ados-positioning) | 0.1.0 | 0 | Split a mixed UBX, NMEA and RTCM3 byte stream with resync, build u-blox VALSET… |
+| 2026-10-22 07:41:59 | [tc_keccak](https://crates.io/crates/tc_keccak) | 0.1.0 | 0 | Keccak, SHA-3, SHAKE, cSHAKE, TupleHash and ParallelHash (FIPS 202, NIST SP 800… |
+| 2026-10-22 07:42:20 | [simien_node_crypto](https://crates.io/crates/simien_node_crypto) | 0.1.0 | 0 | node:crypto's native parts for simien_node. Forked from deno_node_crypto 0.29.0. |
+| 2026-10-22 07:43:32 | [yt-audio](https://crates.io/crates/yt-audio) | 0.1.1 | 0 | Download YouTube audio with tidy tags and filenames |
+| 2026-10-22 07:43:47 | [dlsym](https://crates.io/crates/dlsym) | 0.0.1 | 0 | Memory-safe bindings around the platform's dynamic library loading primitives |
+| 2026-10-22 07:49:32 | [brokapi-alor-protocol](https://crates.io/crates/brokapi-alor-protocol) | 0.1.0-alpha.2 | 0 | Low-level ALOR Broker wire protocol: HTTP + WebSocket client, serde models, par… |
+| 2026-10-22 07:50:14 | [ados-protocol](https://crates.io/crates/ados-protocol) | 0.106.2 | 0 | Wire contracts for the ADOS Drone Agent: length-prefixed IPC framing, plugin RP… |
+| 2026-10-22 07:50:17 | [hashtree-bittorrent](https://crates.io/crates/hashtree-bittorrent) | 0.1.0 | 0 | Opt-in BitTorrent import and snapshot seeding for Hashtree |
+| 2026-10-22 07:52:21 | [simien_os](https://crates.io/crates/simien_os) | 0.1.0 | 0 | OS information and signals for Simien's Node layer. Forked from deno_os 0.76.0. |
+| 2026-10-22 07:52:53 | [axeon-webhooks](https://crates.io/crates/axeon-webhooks) | 0.1.0 | 0 | Signed webhooks for Axeon apps: HMAC-SHA256 signing and verification with times… |
+| 2026-10-22 07:53:38 | [ojosito](https://crates.io/crates/ojosito) | 0.1.0 | 0 | A calm, self-hosted uptime monitor in one binary |
+| 2026-10-22 07:59:22 | [shelfgauge-core](https://crates.io/crates/shelfgauge-core) | 0.17.0 | 0 | The book model, reader split, HTML rendering and text search of shelfgauge, sha… |
+| 2026-10-22 08:00:05 | [brokapi-alor](https://crates.io/crates/brokapi-alor) | 0.1.0-alpha.2 | 0 | ALOR Broker MarketDataConnector and UserDataConnector |
+| 2026-10-22 08:02:13 | [lomboksimhash](https://crates.io/crates/lomboksimhash) | 0.1.0 | 0 | Locality-sensitive hashing for near-duplicate document detection. SimHash, MinH… |
+| 2026-10-22 08:02:21 | [simien_fs](https://crates.io/crates/simien_fs) | 0.1.0 | 0 | File system ops for Simien's Node layer, checked against Simien's permissions.… |
+| 2026-10-22 08:06:57 | [canvist](https://crates.io/crates/canvist) | 0.0.0 | 0 | The canvist rich-text editor engine in one crate: the document model, editing e… |
+| 2026-10-22 08:07:02 | [canvist_core](https://crates.io/crates/canvist_core) | 0.0.0 | 0 | Platform-agnostic editing engine for canvist: editor state, commands, selection… |
+| 2026-10-22 08:07:15 | [links-fs](https://crates.io/crates/links-fs) | 0.21.0 | 0 | LFS: a links file system driver (Linux, macOS, Windows) with an embedded double… |
+| 2026-10-22 08:11:34 | [ados-gpio](https://crates.io/crates/ados-gpio) | 0.106.2 | 0 | Drive a buzzer or LED on a Linux GPIO character-device line and compute bounded… |
+| 2026-10-22 08:11:36 | [ados-hal-probe](https://crates.io/crates/ados-hal-probe) | 0.106.2 | 0 | Probe-first hardware capability detection for Linux single-board computers: CPU… |
+| 2026-10-22 08:12:21 | [simien_process](https://crates.io/crates/simien_process) | 0.1.0 | 0 | Child processes for Simien's Node layer, checked against Simien's permissions.… |
+| 2026-10-22 08:13:13 | [dokt](https://crates.io/crates/dokt) | 0.1.1 | 0 | Build documentation from Markdown that lives inside a repo. Navigate using Obsi… |
+| 2026-10-22 08:14:25 | [gst-plugin-overlaycompositor](https://crates.io/crates/gst-plugin-overlaycompositor) | 0.0.0 | 0 | GStreamer overlay compositor plugin (placeholder) |
+| 2026-10-22 08:15:23 | [praman-sdk](https://crates.io/crates/praman-sdk) | 0.1.0 | 0 | Verify Praman access tokens and webhooks, and call Praman from an app's backend. |
 
 ## Data source
 
