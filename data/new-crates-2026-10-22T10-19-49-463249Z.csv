@@ -1,0 +1,55 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T09:20:35.299973Z,datumesh-store,0.1.0,0,0,https://github.com/datumesh-com/datumesh-store,"PostgreSQL store for Datumesh: descriptors, receipts, blobs, versions over transaction time, lineage, namespaces and names; a datumesh-core Resolver."
+2026-10-22T09:20:50.234151Z,datumesh-store-cli,0.1.0,0,0,https://github.com/datumesh-com/datumesh-store,"Command-line tool for datumesh-store: migrate, import, export, bench."
+2026-10-22T09:21:49.997811Z,core_rpc_client,0.2.0,0,0,https://github.com/bitcoindevkit/bdk-bitcoind-client,A minimal `bitcoind` RPC client
+2026-10-22T09:27:24.3284Z,crawlora-amazon,0.1.3,0,0,https://github.com/Crawlora-org/crawlora-amazon,Typed Rust client for Crawlora's hosted Amazon API. Requires a Crawlora API key.
+2026-10-22T09:27:59.336213Z,lingxia-network-dev,0.27.0,0,0,https://github.com/LingXia-Dev/LingXia,"Development and test network layer for LingXia: Logic fetch and SSE interception, mocks and scenarios, and traffic observation for lxdev and host automation runs"
+2026-10-22T09:28:43.932651Z,vst-audio-worker,0.1.0,0,0,https://github.com/115dkk/vst-audio,Isolated VST2 and VST3 worker executable for vst-audio
+2026-10-22T09:33:01.416525Z,boatramp-overlay-client,0.43.0,0,0,https://github.com/BoatRamp/BoatRamp,"Embeddable client SDK for the boatramp overlay fabric — a lean, linkable crate external programs use to dial, forward, expose, and pair over the relay-blind overlay (client-edge only; no relay/egress…"
+2026-10-22T09:33:40.011263Z,rabbit-av1,0.1.0,0,0,https://github.com/Rabbit-Company/rabbit-av1,"Read and rewrite AV1 bitstreams without decoding: OBUs, sequence and frame headers, film grain, HDR metadata, IVF and Annex B"
+2026-10-22T09:34:30.078227Z,better-feed,3.0.0,0,0,https://github.com/Just-Replicant/better-feed.git,"A feed parser that handles Atom, RSS 2.0, RSS 1.0, RSS 0.x and JSON Feed"
+2026-10-22T09:35:17.90363Z,zooport,0.1.0,0,0,https://github.com/sprensis/zooport,A terminal UI for managing local ports and Cloudflare quick tunnels
+2026-10-22T09:35:20.995861Z,ados-swarm,0.1.0,0,0,https://github.com/altnautica/ADOSDroneAgent,"Swarm control laws for multirotors: separation, braking-aware barriers, alpha-lattice flocking, formations, CBBA task allocation and a deterministic point-mass simulator."
+2026-10-22T09:35:22.639828Z,ados-vision,0.106.2,0,0,https://github.com/altnautica/ADOSDroneAgent,"Single-object visual tracker for drones: Kalman motion model with appearance re-identification, YOLOv8 head decoding and OSNet embedding helpers."
+2026-10-22T09:35:38.680987Z,tc_camellia,0.1.0,0,0,https://github.com/TomiCheng/tc_block_cipher,"Camellia-128, Camellia-192 and Camellia-256 block ciphers (RFC 3713) with table, small-footprint and RustCrypto engines."
+2026-10-22T09:36:41.84807Z,zeus-poseidon,0.1.0,0,0,https://github.com/greekfetacheese/zeus/tree/master/crates/zeus-poseidon,"Circom-compatible Poseidon hash for BN254, with hashing of an arbitrary number of field elements"
+2026-10-22T09:37:01.370023Z,tsrs-span,0.1.0,0,0,,"Tiny, zero-dependency time-span parsing and formatting (e.g. ""1h30m"" <-> Duration)"
+2026-10-22T09:37:24.056515Z,crawlora-appstore,0.1.2,0,0,https://github.com/Crawlora-org/crawlora-appstore,Typed Rust client for Crawlora's hosted App Store API. Requires a Crawlora API key.
+2026-10-22T09:38:06.843541Z,telm,0.0.1,0,0,https://github.com/telm-lx/telm,A text-based lighting control console for theatre (in early development)
+2026-10-22T09:38:10.017248Z,nepdate,0.1.0-beta.1,0,0,https://github.com/sanamhub/nepdate-rust,"Bikram Sambat (Nepali) calendar: fast, no_std, zero-dependency BS↔AD conversion"
+2026-10-22T09:38:12.954525Z,nepdate-patro,0.1.0-beta.1,0,0,https://github.com/sanamhub/nepdate-rust,"Tithi, Nepal public holidays and events per Bikram Sambat day, for the nepdate crate"
+2026-10-22T09:43:51.622344Z,arora-animation,1.0.0,0,0,https://github.com/semio-ai/arora-sdk,"Keyframe animation for Arora: the clip format, exact evaluation with velocities, and players that run unattended on a device clock."
+2026-10-22T09:43:53.956214Z,arora-animation-module,1.0.0,0,0,https://github.com/semio-ai/arora-sdk,Arora animation playback and baking as a host-linked module or WebAssembly guest.
+2026-10-22T09:44:29.437685Z,opencode-session-restore,0.1.4,0,0,https://github.com/ZENG3LD/session-restore,List and load OpenCode session data for context restoration
+2026-10-22T09:44:36.639644Z,minimax-session-restore,0.1.4,0,0,https://github.com/ZENG3LD/session-restore,List and load MiniMax Code session data for context restoration
+2026-10-22T09:45:00.354407Z,atomic-bitflags,0.1.1,0,0,https://github.com/sacha-renault/atomic-bitflags,Atomic storage for bitflags flag sets
+2026-10-22T09:47:01.511147Z,nfviewer,0.1.0,0,0,,A basic tool to listen for packets in Netfilter Queues
+2026-10-22T09:47:24.051606Z,crawlora-bing,0.2.0,0,0,https://github.com/Crawlora-org/crawlora-bing,Typed Rust client for Crawlora's hosted Bing API. Requires a Crawlora API key.
+2026-10-22T09:50:26.777482Z,bevy_fixed_viewport,0.1.0,0,0,https://github.com/Jaso333/bevy_fixed_viewport,Adds capability for a dynamic fixed viewport in the Bevy game engine.
+2026-10-22T09:50:46.727922Z,stickies,0.10.0,0,0,https://github.com/0atxl/stickies,Local sticky notes for Linux Wayland and Windows
+2026-10-22T09:52:40.815531Z,zeus-userop-kit,0.1.0,0,0,https://github.com/greekfetacheese/zeus/tree/master/crates/zeus-userop-kit,ERC-4337 user operation builder and bundler client for EntryPoint 0.7 and 0.8
+2026-10-22T09:55:41.496909Z,maclean-types,0.2.0,0,0,https://github.com/jamesfeng2009/maclean,maclean 公开契约层：领域模型 / CLI envelope / 错误码 / Feature 门控
+2026-10-22T09:56:25.337335Z,maclean-core,0.2.0,0,0,https://github.com/jamesfeng2009/maclean,maclean 核心逻辑：扫描 / 安全闸门 / 删除执行 / 调度（UI 无关）
+2026-10-22T09:57:23.94806Z,crawlora-brave,0.2.0,0,0,https://github.com/Crawlora-org/crawlora-brave,Typed Rust client for Crawlora's hosted Brave Search API. Requires a Crawlora API key.
+2026-10-22T09:58:41.791347Z,ppoppo-identity-proto,1.0.0,0,0,https://github.com/hakchin/ppoppo,Identity wire vocabulary shared by every ppoppo face (package ppoppo.identity.v1) — .proto SSOT + generated enums
+2026-10-22T09:58:49.968622Z,ppoppo-sigil,2.0.0,0,0,https://github.com/hakchin/ppoppo,"The ppoppo `/` chat sigil grammar and its parser — entity references, verbs, scope prefixes, modifiers"
+2026-10-22T09:58:59.907607Z,ppoppo-chat,1.0.0,0,0,https://github.com/hakchin/ppoppo,"Chat vocabulary shared by the PCS faces — the channel, message and invitation ids and the channel and message value-sets"
+2026-10-22T09:59:35.529361Z,ppoppo-served,1.0.0,0,0,https://github.com/hakchin/ppoppo,"What a ppoppo face's test kit scripts and records — route markers, a scripted stream dial, the calls a served face received"
+2026-10-22T09:59:48.785556Z,ppoppo-engine-jwt-verify,4.0.0,0,0,https://github.com/hakchin/ppoppo,"JWT (RFC 9068 access token + OIDC id_token, EdDSA) verification engine for the Ppoppo SDK family: the one decode function behind RFC 8725 mitigations, KeySet / JWKS parsing, and the JWKS cache's fres…"
+2026-10-22T10:04:02.006631Z,sdustrs,0.2.0,0,0,https://github.com/keithyin/sdustrs,Symmetric DUST: low-complexity DNA region masking (Rust port of lh3/sdust)
+2026-10-22T10:04:27.312434Z,histdata,0.1.0,0,0,https://github.com/Navirl/histdata-rs,Download FX historical data from HistData.com (Rust port of the Python histdata package)
+2026-10-22T10:05:10.194208Z,ppoppo-engine-jwt-issue,4.0.0,0,0,https://github.com/hakchin/ppoppo,"JWT (RFC 9068 access token + OIDC id_token, EdDSA) issuance engine for the Ppoppo SDK family: SigningKey and the one encoder per profile. PAS mints with it; the SDK test kits mint through it so a fak…"
+2026-10-22T10:07:31.370448Z,crawlora-duckduckgo,0.1.2,0,0,https://github.com/Crawlora-org/crawlora-duckduckgo,Typed Rust client for Crawlora's hosted DuckDuckGo API. Requires a Crawlora API key.
+2026-10-22T10:08:44.702773Z,tree-sitter-bolt,0.1.0,0,0,https://github.com/boltlang/tree-sitter-bolt,Bolt grammar for tree-sitter
+2026-10-22T10:11:20.604605Z,zeus-railgun,0.1.1,0,0,https://github.com/greekfetacheese/zeus/tree/master/crates/zeus-railgun,"Railgun shielded-pool client: keys, notes, merkle trees, Groth16 proving and indexer sync"
+2026-10-22T10:13:32.40985Z,xark-frontend,0.0.0,0,0,,xark-frontend
+2026-10-22T10:13:41.663158Z,xark-groth16,0.0.0,0,0,,xark-groth16
+2026-10-22T10:14:10.185032Z,xark-schema,0.0.0,0,0,,xark-schema
+2026-10-22T10:14:34.703098Z,ppoppo-pas-plims-test,3.0.0,0,0,https://github.com/hakchin/ppoppo,"Test kit for ppoppo-pas-plims: ServedPlimsFace, the PAS PLIMS face (pas.plims.v1) served in-process and scripted in the face's own types. For [dev-dependencies] only."
+2026-10-22T10:14:40.687659Z,rupunct,0.19.1,0,0,https://github.com/ekhodzitsky/rupunct-rs,On-device Russian punctuation and casing restoration. One binary. No cloud.
+2026-10-22T10:17:30.432595Z,crawlora-ebay,0.1.2,0,0,https://github.com/Crawlora-org/crawlora-ebay,Typed Rust client for Crawlora's hosted eBay API. Requires a Crawlora API key.
+2026-10-22T10:17:58.095901Z,ppvm-traits,0.1.0,0,0,https://github.com/QuEraComputing/ppvm,"Core traits, the `Config` bundle and the single-qubit Pauli alphabet shared by the ppvm crates."
+2026-10-22T10:17:58.599669Z,stim-parser,0.1.0,0,0,https://github.com/QuEraComputing/ppvm,"Parser for the Stim circuit format, including an extended dialect."
+2026-10-22T10:17:59.221245Z,vihaco-circuit-isa,0.1.0,0,0,https://github.com/QuEraComputing/ppvm,"Quantum-circuit instruction set for the vihaco virtual machine, used by ppvm."
+2026-10-22T10:18:01.730632Z,ppvm-pauli-word,0.1.0,0,0,https://github.com/QuEraComputing/ppvm,"Packed Pauli-string types (plain, phased, lossy and pattern) for the ppvm simulators."
+2026-10-22T10:18:03.974629Z,ppvm-pauli-sum,0.1.0,0,0,https://github.com/QuEraComputing/ppvm,"Pauli-propagation engine for ppvm: `PauliSum`, truncation strategies and ready-made configs."
