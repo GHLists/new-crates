@@ -8,42 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 05:18 UTC
+## Latest list — 2026-10-22 06:18 UTC
 
-New crates published between 2026-10-22 04:19 UTC and 2026-10-22 05:18 UTC.
+New crates published between 2026-10-22 05:18 UTC and 2026-10-22 06:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-22T05-18-42-178391Z.csv)
+[Full CSV](data/new-crates-2026-10-22T06-18-43-999411Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-22 04:20:30 | [joiner](https://crates.io/crates/joiner) | 0.0.1-alpha.1 | 0 | Neurosymbolic code synthesis orchestrator uniting deterministic AST templates w… |
-| 2026-10-22 04:22:30 | [eu-vat](https://crates.io/crates/eu-vat) | 0.1.0 | 0 | Validation of European Union VAT identification numbers for all 27 member state… |
-| 2026-10-22 04:23:37 | [nsh-macos-host](https://crates.io/crates/nsh-macos-host) | 0.2.0 | 0 | Development host app (AppKit) that runs a nsh bundle on macOS. |
-| 2026-10-22 04:30:34 | [benchwork-core](https://crates.io/crates/benchwork-core) | 0.0.1-alpha.1 | 0 | Core library and traits for benchwork:Modular visual workbench UI and local dae… |
-| 2026-10-22 04:32:25 | [leptris-descriptor](https://crates.io/crates/leptris-descriptor) | 1.9.379 | 0 | Shared descriptor-plan ABI for the leptris engine family (leptris, yeptris, tep… |
-| 2026-10-22 04:32:30 | [iso8583-msg](https://crates.io/crates/iso8583-msg) | 0.1.0 | 0 | ISO 8583 card transaction messages: bitmap, message type indicator, field encod… |
-| 2026-10-22 04:34:14 | [nsh-windows-app](https://crates.io/crates/nsh-windows-app) | 0.2.0 | 0 | Release app runner on Windows: the executable of packaged nsh apps (no developm… |
-| 2026-10-22 04:36:55 | [system-suite](https://crates.io/crates/system-suite) | 0.1.0 | 0 | The foundation package for Rust services: system facts, paths, environment, con… |
-| 2026-10-22 04:40:27 | [agave-worker-pool](https://crates.io/crates/agave-worker-pool) | 0.0.1-reserved | 0 | reserved for future use |
-| 2026-10-22 04:40:32 | [benchwork-cli](https://crates.io/crates/benchwork-cli) | 0.0.1-alpha.1 | 0 | Command-line interface and MCP server for benchwork:Modular visual workbench UI… |
-| 2026-10-22 04:42:30 | [arabic](https://crates.io/crates/arabic) | 0.1.0 | 0 | Arabic text shaping: contextual letter forms, ligatures, harakat handling and n… |
-| 2026-10-22 04:43:08 | [nsh-windows-host](https://crates.io/crates/nsh-windows-host) | 0.2.0 | 0 | Development host app (Win32) that runs a nsh bundle on Windows. |
-| 2026-10-22 04:45:11 | [iji](https://crates.io/crates/iji) | 0.1.0 | 0 | A simple package manager that builds packages from git repos |
-| 2026-10-22 04:50:32 | [benchwork](https://crates.io/crates/benchwork) | 0.0.1-alpha.1 | 0 | Modular visual workbench UI and local daemon for neurosymbolic code synthesis a… |
-| 2026-10-22 04:52:31 | [adhan](https://crates.io/crates/adhan) | 0.1.0 | 0 | Prayer times from a date and coordinates: Fajr, sunrise, Dhuhr, Asr, Maghrib an… |
-| 2026-10-22 04:56:49 | [nsh-gpui-host](https://crates.io/crates/nsh-gpui-host) | 0.2.0 | 0 | Development host app (GPUI) that runs a nsh bundle on macOS, Windows and Linux. |
-| 2026-10-22 05:00:26 | [hammer-plugin-kit](https://crates.io/crates/hammer-plugin-kit) | 0.6.0 | 0 | Write plugins for the Hammer editor in Rust: Hammer's imports, typed operations… |
-| 2026-10-22 05:00:30 | [rabbet-core](https://crates.io/crates/rabbet-core) | 0.0.1-alpha.1 | 0 | Core library and traits for rabbet:AST-anonymized telemetry corpus hub and open… |
-| 2026-10-22 05:02:30 | [object-hash](https://crates.io/crates/object-hash) | 0.1.0 | 0 | A stable hash of a structured value: the same value always hashes the same, wha… |
-| 2026-10-22 05:04:00 | [transbank-pos](https://crates.io/crates/transbank-pos) | 1.0.0 | 0 | Unofficial Rust SDK for Transbank POS terminals (POS Integrado / Autoservicio)… |
-| 2026-10-22 05:04:17 | [transbank-pos-sim](https://crates.io/crates/transbank-pos-sim) | 1.0.0 | 0 | Unofficial Transbank POS simulator (library and TCP server) for testing transba… |
-| 2026-10-22 05:04:49 | [transbank-pos-cli](https://crates.io/crates/transbank-pos-cli) | 1.0.0 | 0 | Unofficial command-line tool (tbk-pos) to operate and diagnose Transbank POS te… |
-| 2026-10-22 05:04:59 | [atuin-service-manager](https://crates.io/crates/atuin-service-manager) | 0.12.0 | 0 | Provides adapters to communicate with various operating system service managers |
-| 2026-10-22 05:09:18 | [xodr-types](https://crates.io/crates/xodr-types) | 0.1.0+OpenDRIVEv1.9… | 0 | Rust types for ASAM OpenDRIVE 1.9 XML nodes |
-| 2026-10-22 05:10:07 | [niuse-core](https://crates.io/crates/niuse-core) | 0.1.0 | 0 | Identity, memory, journal, and loops for niuse |
-| 2026-10-22 05:10:34 | [rabbet-cli](https://crates.io/crates/rabbet-cli) | 0.0.1-alpha.1 | 0 | Command-line interface and MCP server for rabbet:AST-anonymized telemetry corpu… |
-| 2026-10-22 05:10:40 | [niuse](https://crates.io/crates/niuse) | 0.1.0 | 0 | A personal engineering companion built on niucode |
-| 2026-10-22 05:12:30 | [javaproperties](https://crates.io/crates/javaproperties) | 0.1.0 | 0 | Java .properties files: escapes, line continuations and the ISO-8859-1 default,… |
+| 2026-10-22 05:19:52 | [hare](https://crates.io/crates/hare) | 0.1.1 | 0 | A #![no_std] embedded bridge library for the Celestia IoT ecosystem: hardware m… |
+| 2026-10-22 05:20:33 | [rabbet](https://crates.io/crates/rabbet) | 0.0.1-alpha.1 | 0 | AST-anonymized telemetry corpus hub and open-weight micro-model training foundr… |
+| 2026-10-22 05:22:30 | [mllp](https://crates.io/crates/mllp) | 0.1.0 | 0 | MLLP (Minimal Lower Layer Protocol) framing for HL7 v2 messages, with a streami… |
+| 2026-10-22 05:29:06 | [nishiki](https://crates.io/crates/nishiki) | 0.0.1 | 0 | A syntax highlighting engine, written from scratch |
+| 2026-10-22 05:32:48 | [frontmatter-lossless](https://crates.io/crates/frontmatter-lossless) | 1.1.0 | 0 | Pure, byte-exact Markdown frontmatter framing: split a note into verbatim YAML… |
+| 2026-10-22 05:43:35 | [schnellui-debug](https://crates.io/crates/schnellui-debug) | 0.1.0 | 0 | CLI client for SchnellUI's local debug instrumentation server |
+| 2026-10-22 05:43:36 | [schnellui-localization](https://crates.io/crates/schnellui-localization) | 0.1.0 | 0 | Locale negotiation and message catalogs for schnellui applications |
+| 2026-10-22 05:43:36 | [schnellui-motion](https://crates.io/crates/schnellui-motion) | 0.1.0 | 0 | Declarative animation declarations shared by every schnellui backend - sampled… |
+| 2026-10-22 05:43:36 | [schnellui-scene](https://crates.io/crates/schnellui-scene) | 0.1.0 | 0 | schnellui retained scene: WidgetId slotmap + ECS SecondaryMap columns, interned… |
+| 2026-10-22 05:43:36 | [schnellui-signal](https://crates.io/crates/schnellui-signal) | 0.1.0 | 0 | schnellui reactive arena: NodeId, Signal, Memo, Effect, push-pull coloring (SOU… |
+| 2026-10-22 05:48:32 | [trit-belnap](https://crates.io/crates/trit-belnap) | 0.4.2 | 0 | Belnap 四值逻辑（FOUR）：T / F / B / N 的 opt-in 语义 |
+| 2026-10-22 05:49:00 | [trit-wasm](https://crates.io/crates/trit-wasm) | 0.4.2 | 0 | trit 的 WASM 绑定：浏览器里跑求值、真值表、等价与 Belnap 四值 |
+| 2026-10-22 05:50:26 | [mailrs-fraud](https://crates.io/crates/mailrs-fraud) | 0.1.0 | 0 | Signals that a message is a fraud attempt rather than mail — display names clai… |
+| 2026-10-22 05:50:29 | [mailrs-keywords](https://crates.io/crates/mailrs-keywords) | 0.1.0 | 0 | Dovecot-compatible `dovecot-keywords` reader and writer: the map from a Maildir… |
+| 2026-10-22 05:50:37 | [mailrs-textguard](https://crates.io/crates/mailrs-textguard) | 0.1.0 | 0 | Detects characters placed in a sender's name to deceive a reader — bidi overrid… |
+| 2026-10-22 05:50:38 | [mailrs-threadstate](https://crates.io/crates/mailrs-threadstate) | 0.1.0 | 0 | An append-only, newest-wins log of per-thread decisions stored beside the mail:… |
+| 2026-10-22 05:50:41 | [mailrs-uidlist](https://crates.io/crates/mailrs-uidlist) | 0.1.0 | 0 | Dovecot-compatible `dovecot-uidlist` reader and writer: the stable UID ↔ filena… |
+| 2026-10-22 05:57:17 | [crawlora](https://crates.io/crates/crawlora) | 1.49.0-sdk.1 | 0 | Official async Rust client for the Crawlora public web data API |
+| 2026-10-22 05:59:50 | [sshunnel-mux](https://crates.io/crates/sshunnel-mux) | 0.1.0 | 0 | sshunnel's wire protocol and stream multiplexer, shared by the client and the r… |
+| 2026-10-22 06:00:00 | [sshunnel-relay](https://crates.io/crates/sshunnel-relay) | 0.1.0 | 0 | sshunnel's remote half: a small static binary pushed over SSH that dials TCP on… |
+| 2026-10-22 06:00:20 | [sshunnel](https://crates.io/crates/sshunnel) | 0.1.0 | 0 | A userspace VPN over plain SSH: push-exec a static musl relay, cache it by hash… |
+| 2026-10-22 06:11:12 | [asterust](https://crates.io/crates/asterust) | 0.1.0 | 0 | Reusable parsing primitives for network device CLI output (prompts, timestamp b… |
+| 2026-10-22 06:11:28 | [legado-replace](https://crates.io/crates/legado-replace) | 0.1.0 | 0 | 替换净化 |
+| 2026-10-22 06:11:51 | [legado-book](https://crates.io/crates/legado-book) | 0.1.0 | 0 | 书源链路：搜索 / 发现 / 详情 / 目录 / 正文 |
+| 2026-10-22 06:12:14 | [legado-rss](https://crates.io/crates/legado-rss) | 0.1.0 | 0 | RSS：默认解析 + 规则解析 |
+| 2026-10-22 06:12:36 | [legado-rust-engine](https://crates.io/crates/legado-rust-engine) | 0.1.0 | 0 | Rust 重写 legado 核心引擎：门面 crate，统一再导出各模块 |
+| 2026-10-22 06:16:26 | [bullet-inverse-dynamics](https://crates.io/crates/bullet-inverse-dynamics) | 0.2.0 | 0 | Inverse dynamics for tree-structured multibody systems: the Rust port of Bullet… |
+| 2026-10-22 06:18:17 | [flashmind-prompts](https://crates.io/crates/flashmind-prompts) | 0.1.0 | 0 | Common prompt helpers for Flashmind agents |
+| 2026-10-22 06:18:23 | [flashmind-tailscale](https://crates.io/crates/flashmind-tailscale) | 0.1.0 | 0 | Tailscale local API client and Funnel helpers |
 
 ## Data source
 

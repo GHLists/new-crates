@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T05:19:52.336335Z,hare,0.1.1,0,0,https://github.com/celestia-island/hare,"A #![no_std] embedded bridge library for the Celestia IoT ecosystem: hardware manifest schema, wire protocol, protocol hub and type identifiers, HAL traits, and an ANSI/VT parser shared by embassy se…"
+2026-10-22T05:20:33.828145Z,rabbet,0.0.1-alpha.1,0,0,https://github.com/gaugeblock/rabbet,AST-anonymized telemetry corpus hub and open-weight micro-model training foundry.
+2026-10-22T05:22:30.642883Z,mllp,0.1.0,0,0,https://github.com/cipansor/crateworks,"MLLP (Minimal Lower Layer Protocol) framing for HL7 v2 messages, with a streaming decoder."
+2026-10-22T05:29:06.234165Z,nishiki,0.0.1,0,0,https://github.com/victor-software-house/nishiki,"A syntax highlighting engine, written from scratch"
+2026-10-22T05:32:48.017105Z,frontmatter-lossless,1.1.0,0,0,https://github.com/osdlc/osdlc,"Pure, byte-exact Markdown frontmatter framing: split a note into verbatim YAML and body with source byte offsets, and recompose it losslessly. BOM, CRLF, and fence bytes are preserved; a malformed or…"
+2026-10-22T05:43:35.741672Z,schnellui-debug,0.1.0,0,0,https://github.com/codefionn/schnellui,CLI client for SchnellUI's local debug instrumentation server
+2026-10-22T05:43:36.13556Z,schnellui-localization,0.1.0,0,0,https://github.com/codefionn/schnellui,Locale negotiation and message catalogs for schnellui applications
+2026-10-22T05:43:36.295332Z,schnellui-motion,0.1.0,0,0,https://github.com/codefionn/schnellui,Declarative animation declarations shared by every schnellui backend - sampled per frame for GPU rendering or compiled to CSS @keyframes for the HTML renderer
+2026-10-22T05:43:36.609044Z,schnellui-scene,0.1.0,0,0,https://github.com/codefionn/schnellui,"schnellui retained scene: WidgetId slotmap + ECS SecondaryMap columns, interned primitives, damage (SOUL §3.2, §8.1)"
+2026-10-22T05:43:36.857876Z,schnellui-signal,0.1.0,0,0,https://github.com/codefionn/schnellui,"schnellui reactive arena: NodeId, Signal, Memo, Effect, push-pull coloring (SOUL §3.1)"
+2026-10-22T05:48:32.879501Z,trit-belnap,0.4.2,0,0,https://github.com/bfxh/trit,Belnap 四值逻辑（FOUR）：T / F / B / N 的 opt-in 语义
+2026-10-22T05:49:00.769541Z,trit-wasm,0.4.2,0,0,https://github.com/bfxh/trit,trit 的 WASM 绑定：浏览器里跑求值、真值表、等价与 Belnap 四值
+2026-10-22T05:50:26.377493Z,mailrs-fraud,0.1.0,0,0,https://github.com/goliajp/mailrs,"Signals that a message is a fraud attempt rather than mail — display names claiming an organisation they are not from, mailer strings no client writes — each one measured against a real corpus and sc…"
+2026-10-22T05:50:29.966015Z,mailrs-keywords,0.1.0,0,0,https://github.com/goliajp/mailrs,"Dovecot-compatible `dovecot-keywords` reader and writer: the map from a Maildir++ keyword bit (a lowercase letter in the `:2,` suffix) to the name it stands for, stored beside the mail."
+2026-10-22T05:50:37.970489Z,mailrs-textguard,0.1.0,0,0,https://github.com/goliajp/mailrs,"Detects characters placed in a sender's name to deceive a reader — bidi overrides and zero-width padding — while leaving alone the invisibles real typography needs (ZWJ, ZWNJ, BOM, soft hyphen)."
+2026-10-22T05:50:38.770188Z,mailrs-threadstate,0.1.0,0,0,https://github.com/goliajp/mailrs,"An append-only, newest-wins log of per-thread decisions stored beside the mail: snooze times, classifier verdicts and importance. The facts a Maildir flag or keyword bit cannot hold, kept where a reb…"
+2026-10-22T05:50:41.201277Z,mailrs-uidlist,0.1.0,0,0,https://github.com/goliajp/mailrs,"Dovecot-compatible `dovecot-uidlist` reader and writer: the stable UID ↔ filename map that lives beside the mail rather than in a server's index, so a rebuilt index does not force every IMAP client t…"
+2026-10-22T05:57:17.572503Z,crawlora,1.49.0-sdk.1,0,0,https://github.com/Crawlora-org/crawlora-rust-sdk,Official async Rust client for the Crawlora public web data API
+2026-10-22T05:59:50.074511Z,sshunnel-mux,0.1.0,0,0,https://github.com/twitchax/sshunnel,"sshunnel's wire protocol and stream multiplexer, shared by the client and the relay."
+2026-10-22T06:00:00.917288Z,sshunnel-relay,0.1.0,0,0,https://github.com/twitchax/sshunnel,sshunnel's remote half: a small static binary pushed over SSH that dials TCP on the client's behalf.
+2026-10-22T06:00:20.473425Z,sshunnel,0.1.0,0,0,https://github.com/twitchax/sshunnel,"A userspace VPN over plain SSH: push-exec a static musl relay, cache it by hash, route through it."
+2026-10-22T06:11:12.796176Z,asterust,0.1.0,0,0,https://github.com/asterust/asterust,"Reusable parsing primitives for network device CLI output (prompts, timestamp banners, terminal artifact cleanup, path sanitization)."
+2026-10-22T06:11:28.182236Z,legado-replace,0.1.0,0,0,https://gitea.slcomplex.party/OpenToGithub/legado-rust-engine-code,替换净化
+2026-10-22T06:11:51.383095Z,legado-book,0.1.0,0,0,https://gitea.slcomplex.party/OpenToGithub/legado-rust-engine-code,书源链路：搜索 / 发现 / 详情 / 目录 / 正文
+2026-10-22T06:12:14.098783Z,legado-rss,0.1.0,0,0,https://gitea.slcomplex.party/OpenToGithub/legado-rust-engine-code,RSS：默认解析 + 规则解析
+2026-10-22T06:12:36.852892Z,legado-rust-engine,0.1.0,0,0,https://gitea.slcomplex.party/OpenToGithub/legado-rust-engine-code,Rust 重写 legado 核心引擎：门面 crate，统一再导出各模块
+2026-10-22T06:16:26.633068Z,bullet-inverse-dynamics,0.2.0,0,0,https://github.com/CrazyboyQCD/bullet-physics,Inverse dynamics for tree-structured multibody systems: the Rust port of Bullet's BulletInverseDynamics
+2026-10-22T06:18:17.653973Z,flashmind-prompts,0.1.0,0,0,https://github.com/flashmind-labs/flashmind,Common prompt helpers for Flashmind agents
+2026-10-22T06:18:23.907668Z,flashmind-tailscale,0.1.0,0,0,https://github.com/flashmind-labs/flashmind,Tailscale local API client and Funnel helpers
