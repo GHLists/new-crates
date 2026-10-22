@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T14:19:49.842684Z,thadam-kafka,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,Pure-Rust Apache Kafka batch sink connector with TLS and SASL for Thadam
+2026-10-22T14:24:40.929676Z,seam-rs-core,0.1.0,0,0,https://github.com/parzivale/seam,Sans-effect capability traits and operation types. no_std.
+2026-10-22T14:24:42.625516Z,seam-rs-std,0.1.0,0,0,https://github.com/parzivale/seam,std backend for seam: real implementations of seam operations over std.
+2026-10-22T14:24:43.523434Z,seam-rs-test,0.1.0,0,0,https://github.com/parzivale/seam,A pure test backend for seam: a simulated world whose only real effect is allocation.
+2026-10-22T14:24:43.943414Z,seam-rs-tokio,0.1.0,0,0,https://github.com/parzivale/seam,Tokio backend for seam: async implementations of seam operations over Tokio.
+2026-10-22T14:24:45.101412Z,seam-rs,0.1.0,0,0,https://github.com/parzivale/seam,"Sans-effect programming: hoist every effect out of the core, behind capability traits."
+2026-10-22T14:29:55.496573Z,thadam-modbus,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,Modbus TCP register and coil polling source connector for Thadam
+2026-10-22T14:33:32.80003Z,infx-native-x86_64-unknown-linux-gnu,0.1.0,0,0,https://github.com/acking-you/infx,Precompiled fx static library for INFX on x86_64-unknown-linux-gnu
+2026-10-22T14:33:39.880187Z,infx-native-aarch64-unknown-linux-gnu,0.1.0,0,0,https://github.com/acking-you/infx,Precompiled fx static library for INFX on aarch64-unknown-linux-gnu
+2026-10-22T14:33:47.470376Z,infx-native-x86_64-apple-darwin,0.1.0,0,0,https://github.com/acking-you/infx,Precompiled fx static library for INFX on x86_64-apple-darwin
+2026-10-22T14:33:54.613713Z,infx-native-aarch64-apple-darwin,0.1.0,0,0,https://github.com/acking-you/infx,Precompiled fx static library for INFX on aarch64-apple-darwin
+2026-10-22T14:34:01.906444Z,infx-native-x86_64-pc-windows-msvc,0.1.0,0,0,https://github.com/acking-you/infx,Precompiled fx static library for INFX on x86_64-pc-windows-msvc
+2026-10-22T14:36:50.925687Z,anr-cuda,0.2.0,0,0,https://github.com/lona-cn/anr,Model-specific DeepFilterNet3 inference with native CUDA graph compute
+2026-10-22T14:37:00.261863Z,anr-tensorrt,0.2.0,0,0,https://github.com/lona-cn/anr,Native TensorRT standard-layer DFN3 inference with CUDA DSP
+2026-10-22T14:37:12.049377Z,anr-openvino,0.2.0,0,0,https://github.com/lona-cn/anr,Native OpenVINO Runtime DeepFilterNet3 streaming inference
+2026-10-22T14:37:17.198954Z,anr-opencl,0.2.0,0,0,https://github.com/lona-cn/anr,Model-specific DeepFilterNet3 inference with native OpenCL GPU compute
+2026-10-22T14:37:51.115819Z,anr-lite,0.2.0,0,0,https://github.com/lona-cn/anr,Trainable ANR-Lite-48 speech enhancement architecture in Burn
+2026-10-22T14:37:59.771456Z,deltaui_winit,0.30.13,0,0,https://github.com/rust-windowing/winit,"Fork of winit 0.30 with soft-keyboard text input on Android, for deltaui. Same API, imported as `winit`."
+2026-10-22T14:38:51.665773Z,deltaui_accesskit_android,0.7.5,0,0,https://github.com/AccessKit/accesskit,"Fork of accesskit_android that survives Java exceptions while raising events, for deltaui. Imported as `accesskit_android`."
+2026-10-22T14:39:39.421665Z,deltaui_imaging_vello_hybrid,0.0.1,0,0,https://github.com/forest-rs/imaging,"Fork of imaging_vello_hybrid that keeps its native scene (and glyph caches) between frames, for deltaui. Imported as `imaging_vello_hybrid`."
+2026-10-22T14:40:04.514687Z,thadam-mqtt,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,"MQTT source connector with persistent sessions, TLS, and ack-after-commit for Thadam"
+2026-10-22T14:41:34.660829Z,infx-sys,0.1.0,0,0,https://github.com/acking-you/infx,Native fx runtime bindings for INFX
+2026-10-22T14:41:56.614817Z,deltaui_accesskit_winit,0.32.2,0,0,https://github.com/AccessKit/accesskit,"Fork of accesskit_winit that builds on deltaui_winit and deltaui_accesskit_android, for deltaui. Imported as `accesskit_winit`."
+2026-10-22T14:44:15.553888Z,deltaui_ui_events_winit,0.3.0,0,0,https://github.com/endoli/ui-events,"Fork of ui-events-winit that builds on deltaui_winit, for deltaui. Imported as `ui_events_winit`."
+2026-10-22T14:45:17.902638Z,deltaui_include_doc_path,0.1.0,0,0,https://github.com/linebender/xilem,Helper macro for linking to files in docs.rs. Fork for deltaui; imported as `linebender_include_doc_path`.
+2026-10-22T14:45:30.599218Z,tailrace-catalog,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,"CatalogProvider with three backends: local toml file (standalone), plan body (serve), console REST (managed skeleton)"
+2026-10-22T14:50:17.285052Z,thadam-nats,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,NATS JetStream batch sink connector with message deduplication headers for Thadam
+2026-10-22T14:51:31.445712Z,infx,0.1.0,0,0,https://github.com/acking-you/infx,"A small, embeddable agent harness with shared Rust SDK and ACP control"
+2026-10-22T14:53:45.439589Z,pdfmake,0.1.1,0,0,https://github.com/cipansor/crateworks,"Build paginated PDFs from a plain Rust data structure: text, columns, lists and tables, with repeated table headers and page numbers."
+2026-10-22T14:54:59.623661Z,deltaui_tree_arena,0.2.0,0,0,https://github.com/linebender/xilem,An arena allocated tree. Fork for deltaui; imported as `tree_arena`.
+2026-10-22T15:00:43.252232Z,thadam-opcua,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,Pure-Rust OPC UA subscription and polling client source connector for Thadam
+2026-10-22T15:04:24.191708Z,tailrace-parser,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,"SQL frontend: ${ds:} reference extraction, FlinkDialect parsing, statement lowering and validation"
+2026-10-22T15:05:01.715068Z,console-auth,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,"Authentication plane of the tailrace console: argon2id login with brute-force lockout, opaque session tokens and the node bootstrap/token channel"
+2026-10-22T15:05:20.676194Z,tailrace-connector,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,Source/Sink connector traits plus the explicit ConnectorRegistry
+2026-10-22T15:05:22.359612Z,deltaui_masonry_core,0.4.0,0,0,https://github.com/linebender/xilem,Traits and types of the Masonry toolkit. Fork for deltaui; imported as `masonry_core`.
+2026-10-22T15:06:00.425694Z,tailrace-conn-kafka,1.0.0,0,0,https://github.com/SeekerGalahad/tailrace,"Kafka connector: BaseConsumer source (assign-only resume, partition discovery) and idempotent BaseProducer sink"
+2026-10-22T15:07:16.300105Z,orchestrator-flow,0.1.2,0,0,https://github.com/hailp-vn38/orchestrator_task_rs,"Background Task, Followup, Reminder/Cron Scheduler and Wiki Auto-Flow Manager for multi-Orchestrator hosts"
+2026-10-22T15:07:37.71766Z,tauri-plugin-window-controls-overlay,0.1.0,0,0,https://github.com/tauri-apps/tauri-plugin-window-controls-overlay,"Native window controls (minimize / maximize / close) overlaid on a frameless window, ported from Electron's `titleBarOverlay`."
+2026-10-22T15:08:26.489408Z,serviceless-actor,0.7.0,0,0,,"An simple actor model in rust, like actix"
+2026-10-22T15:08:33.860863Z,serviceless-macros,0.7.0,0,0,,Procedural macros for serviceless
+2026-10-22T15:08:38.980701Z,serviceless-tokio,0.7.0,0,0,,Tokio runtime integration for Serviceless actors
+2026-10-22T15:08:50.736109Z,serviceless-jsonrpc,0.7.0,0,0,,Transport-independent JSON-RPC 2.0 router for Serviceless actors
+2026-10-22T15:08:54.288716Z,serviceless-jsonrpc-server,0.7.0,0,0,,"HTTP, WebSocket, Unix socket, and stdio transports for Serviceless JSON-RPC"
+2026-10-22T15:10:48.649697Z,thadam-ros2-msg,0.1.0-beta.1,0,0,https://github.com/Dineshkarthik/thadam,Transport-independent ROS 2 .msg schema parser and XCDR1 payload decoder for Thadam
+2026-10-22T15:11:52.076368Z,lua-doc-extractor,4.0.0,0,0,https://github.com/rhys-vdw/lua-doc-extractor-rs,Extracts EmmyLua docs from C-style comments.
+2026-10-22T15:15:01.683255Z,deltaui_masonry_testing,0.4.0,0,0,https://github.com/linebender/xilem,Helper tools for writing unit tests for Masonry. Fork for deltaui; imported as `masonry_testing`.
+2026-10-22T15:15:50.477796Z,cognicloud-sdk,0.4.0,0,0,https://github.com/Flippico/cognicloud-rust-sdk,CogniCloud SDK: call AI Gateway endpoints and manage them.

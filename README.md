@@ -8,49 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 14:18 UTC
+## Latest list — 2026-10-22 15:18 UTC
 
-New crates published between 2026-10-22 13:19 UTC and 2026-10-22 14:18 UTC.
+New crates published between 2026-10-22 14:18 UTC and 2026-10-22 15:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-22T14-18-43-496214Z.csv)
+[Full CSV](data/new-crates-2026-10-22T15-18-37-332886Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-22 13:21:53 | [contentid](https://crates.io/crates/contentid) | 1.0.0 | 0 | Deterministic, platform-agnostic, content-derived, decentralized ID generator. |
-| 2026-10-22 13:31:36 | [invar-sdk](https://crates.io/crates/invar-sdk) | 0.8.14-beta.1 | 0 | Rust contract matching, optional module runtime and developer CLI for Invar |
-| 2026-10-22 13:32:02 | [maclean-cli-contract](https://crates.io/crates/maclean-cli-contract) | 0.2.0 | 0 | maclean CLI 契约层：命令解析 / envelope 渲染 / 语义退出码 / 人类可读输出（Open Core） |
-| 2026-10-22 13:33:32 | [maclean-cli](https://crates.io/crates/maclean-cli) | 0.2.0 | 0 | maclean CLI — 永久免费开源的 macOS 磁盘清理与存储智能命令行工具 |
-| 2026-10-22 13:36:01 | [json-schema-editor](https://crates.io/crates/json-schema-editor) | 0.2.0 | 0 | Terminal JSON/JSONC/YAML/TOML schema-driven config editor |
-| 2026-10-22 13:36:19 | [membrane-lens](https://crates.io/crates/membrane-lens) | 1.0.0 | 0 | Portable MCP server for seeing inside the membrane. Zero runtime deps beyond st… |
-| 2026-10-22 13:37:57 | [tailrace-ir](https://crates.io/crates/tailrace-ir) | 1.0.0 | 0 | Plan IR: datafusion-proto serialized LogicalPlan statements plus the Cursor/Sou… |
-| 2026-10-22 13:38:23 | [tailrace-decode](https://crates.io/crates/tailrace-decode) | 1.0.0 | 0 | Decoder trait plus ogg/json/csv/parquet decoders writing directly into Arrow co… |
-| 2026-10-22 13:38:41 | [cellmembrane-types](https://crates.io/crates/cellmembrane-types) | 0.1.0 | 0 | Typed domain models for cellMembrane deployment: channels, compositions, firewa… |
-| 2026-10-22 13:38:47 | [litho-core](https://crates.io/crates/litho-core) | 0.1.0 | 0 | Shared substrate for Zola-based sporePrint sites — frontmatter, manifests, grap… |
-| 2026-10-22 13:38:47 | [tailrace-transform](https://crates.io/crates/tailrace-transform) | 1.0.0 | 0 | DataFusion execution integration: register the decoded batch as `src` and run s… |
-| 2026-10-22 13:39:07 | [opsonize](https://crates.io/crates/opsonize) | 0.3.0 | 0 | Immune tagging + visitor traces + discussion relay + membrane analysis chain |
-| 2026-10-22 13:39:32 | [ebics](https://crates.io/crates/ebics) | 0.1.1 | 0 | EBICS 3.0 (H004 and H005): the XML messages and the RSA, AES and SHA-256 crypto… |
-| 2026-10-22 13:39:35 | [tailrace-conn-mqtt](https://crates.io/crates/tailrace-conn-mqtt) | 1.0.0 | 0 | MQTT connector placeholder: crate name reserved for the parked MQTT route — no… |
-| 2026-10-22 13:39:42 | [tailrace-conn-s3](https://crates.io/crates/tailrace-conn-s3) | 1.0.0 | 0 | S3 connector placeholder: crate name reserved for the parked S3 route — no sour… |
-| 2026-10-22 13:43:17 | [shiprocket](https://crates.io/crates/shiprocket) | 0.1.0 | 0 | Async client for the Shiprocket shipping API |
-| 2026-10-22 13:47:27 | [plasmidbin-types](https://crates.io/crates/plasmidbin-types) | 0.3.0 | 0 | Typed domain models for plasmidBin metadata: manifest, checksums, ports, source… |
-| 2026-10-22 13:49:37 | [duckdb-neo](https://crates.io/crates/duckdb-neo) | 0.20000.0 | 0 | Ergonomic wrapper for DuckDB's v2 C API (experimental) |
-| 2026-10-22 13:50:07 | [tailrace-metadata](https://crates.io/crates/tailrace-metadata) | 1.0.0 | 0 | Metadata clients for console discover / infer-schema: Kafka topic listing + tai… |
-| 2026-10-22 13:52:28 | [completion-backend](https://crates.io/crates/completion-backend) | 0.2.0 | 0 | Completion-model I/O backend: io_uring, IOCP, and polling. |
-| 2026-10-22 13:52:40 | [completion-async](https://crates.io/crates/completion-async) | 0.2.0 | 0 | The async runtime over completion-backend: executor and resource handles. |
-| 2026-10-22 13:58:23 | [thadam-core](https://crates.io/crates/thadam-core) | 0.1.0-beta.1 | 0 | Canonical in-memory event model, value types, and connector traits for Thadam |
-| 2026-10-22 13:58:35 | [thadam-arrow](https://crates.io/crates/thadam-arrow) | 0.1.0-beta.1 | 0 | Encoding of Thadam dataset events into Apache Arrow record batches with stable… |
-| 2026-10-22 13:58:48 | [thadam-can](https://crates.io/crates/thadam-can) | 0.1.0-beta.1 | 0 | Linux SocketCAN frame capture and DBC signal decoding source connector for Thad… |
-| 2026-10-22 13:59:00 | [thadam-config](https://crates.io/crates/thadam-config) | 0.1.0-beta.1 | 0 | YAML pipeline configuration loading, interpolation, validation, and JSON Schema… |
-| 2026-10-22 13:59:18 | [thadam-grpc](https://crates.io/crates/thadam-grpc) | 0.1.0-beta.1 | 0 | gRPC ingest server source connector with TLS and ack-after-commit for Thadam |
-| 2026-10-22 14:00:43 | [console-store](https://crates.io/crates/console-store) | 1.0.0 | 0 | SQLite metadata store for the tailrace console: single WAL file, versioned migr… |
-| 2026-10-22 14:00:48 | [marcr-rules](https://crates.io/crates/marcr-rules) | 0.1.0 | 0 | Rule language to convert MARC records between formats (UNIMARC, MARC21), built… |
-| 2026-10-22 14:01:43 | [hypersig_cli](https://crates.io/crates/hypersig_cli) | 0.3.0 | 0 | cargo hypersig: create a hypersig project for a host, or move a project you hav… |
-| 2026-10-22 14:05:51 | [invar-webtools](https://crates.io/crates/invar-webtools) | 0.1.0-beta.1 | 0 | Optional HTTP and TLS server tools for Rust, C and C++ Invar applications |
-| 2026-10-22 14:07:20 | [console-proxy](https://crates.io/crates/console-proxy) | 1.0.0 | 0 | Console-to-node HTTP layer: shared reqwest client factories, typed /v1 node end… |
-| 2026-10-22 14:09:35 | [thadam-http](https://crates.io/crates/thadam-http) | 0.1.0-beta.1 | 0 | HTTP ingest server and polling source connector with TLS for Thadam |
-| 2026-10-22 14:10:03 | [tds-driver-macros](https://crates.io/crates/tds-driver-macros) | 0.1.0 | 0 | Derive macros for tds-driver (e.g. TableValueRow for table-valued parameters). |
-| 2026-10-22 14:10:13 | [tds-driver](https://crates.io/crates/tds-driver) | 0.1.0 | 0 | A TDS (Microsoft SQL Server) driver for Rust |
-| 2026-10-22 14:18:02 | [tailrace-state](https://crates.io/crates/tailrace-state) | 1.0.0 | 0 | OffsetStore trait (commit only after write success — the at-least-once anchor)… |
+| 2026-10-22 14:19:49 | [thadam-kafka](https://crates.io/crates/thadam-kafka) | 0.1.0-beta.1 | 0 | Pure-Rust Apache Kafka batch sink connector with TLS and SASL for Thadam |
+| 2026-10-22 14:24:40 | [seam-rs-core](https://crates.io/crates/seam-rs-core) | 0.1.0 | 0 | Sans-effect capability traits and operation types. no_std. |
+| 2026-10-22 14:24:42 | [seam-rs-std](https://crates.io/crates/seam-rs-std) | 0.1.0 | 0 | std backend for seam: real implementations of seam operations over std. |
+| 2026-10-22 14:24:43 | [seam-rs-test](https://crates.io/crates/seam-rs-test) | 0.1.0 | 0 | A pure test backend for seam: a simulated world whose only real effect is alloc… |
+| 2026-10-22 14:24:43 | [seam-rs-tokio](https://crates.io/crates/seam-rs-tokio) | 0.1.0 | 0 | Tokio backend for seam: async implementations of seam operations over Tokio. |
+| 2026-10-22 14:24:45 | [seam-rs](https://crates.io/crates/seam-rs) | 0.1.0 | 0 | Sans-effect programming: hoist every effect out of the core, behind capability… |
+| 2026-10-22 14:29:55 | [thadam-modbus](https://crates.io/crates/thadam-modbus) | 0.1.0-beta.1 | 0 | Modbus TCP register and coil polling source connector for Thadam |
+| 2026-10-22 14:33:32 | [infx-native-x86_64-unknown-linux-gnu](https://crates.io/crates/infx-native-x86_64-unknown-linux-gnu) | 0.1.0 | 0 | Precompiled fx static library for INFX on x86_64-unknown-linux-gnu |
+| 2026-10-22 14:33:39 | [infx-native-aarch64-unknown-linux-gnu](https://crates.io/crates/infx-native-aarch64-unknown-linux-gnu) | 0.1.0 | 0 | Precompiled fx static library for INFX on aarch64-unknown-linux-gnu |
+| 2026-10-22 14:33:47 | [infx-native-x86_64-apple-darwin](https://crates.io/crates/infx-native-x86_64-apple-darwin) | 0.1.0 | 0 | Precompiled fx static library for INFX on x86_64-apple-darwin |
+| 2026-10-22 14:33:54 | [infx-native-aarch64-apple-darwin](https://crates.io/crates/infx-native-aarch64-apple-darwin) | 0.1.0 | 0 | Precompiled fx static library for INFX on aarch64-apple-darwin |
+| 2026-10-22 14:34:01 | [infx-native-x86_64-pc-windows-msvc](https://crates.io/crates/infx-native-x86_64-pc-windows-msvc) | 0.1.0 | 0 | Precompiled fx static library for INFX on x86_64-pc-windows-msvc |
+| 2026-10-22 14:36:50 | [anr-cuda](https://crates.io/crates/anr-cuda) | 0.2.0 | 0 | Model-specific DeepFilterNet3 inference with native CUDA graph compute |
+| 2026-10-22 14:37:00 | [anr-tensorrt](https://crates.io/crates/anr-tensorrt) | 0.2.0 | 0 | Native TensorRT standard-layer DFN3 inference with CUDA DSP |
+| 2026-10-22 14:37:12 | [anr-openvino](https://crates.io/crates/anr-openvino) | 0.2.0 | 0 | Native OpenVINO Runtime DeepFilterNet3 streaming inference |
+| 2026-10-22 14:37:17 | [anr-opencl](https://crates.io/crates/anr-opencl) | 0.2.0 | 0 | Model-specific DeepFilterNet3 inference with native OpenCL GPU compute |
+| 2026-10-22 14:37:51 | [anr-lite](https://crates.io/crates/anr-lite) | 0.2.0 | 0 | Trainable ANR-Lite-48 speech enhancement architecture in Burn |
+| 2026-10-22 14:37:59 | [deltaui_winit](https://crates.io/crates/deltaui_winit) | 0.30.13 | 0 | Fork of winit 0.30 with soft-keyboard text input on Android, for deltaui. Same… |
+| 2026-10-22 14:38:51 | [deltaui_accesskit_android](https://crates.io/crates/deltaui_accesskit_android) | 0.7.5 | 0 | Fork of accesskit_android that survives Java exceptions while raising events, f… |
+| 2026-10-22 14:39:39 | [deltaui_imaging_vello_hybrid](https://crates.io/crates/deltaui_imaging_vello_hybrid) | 0.0.1 | 0 | Fork of imaging_vello_hybrid that keeps its native scene (and glyph caches) bet… |
+| 2026-10-22 14:40:04 | [thadam-mqtt](https://crates.io/crates/thadam-mqtt) | 0.1.0-beta.1 | 0 | MQTT source connector with persistent sessions, TLS, and ack-after-commit for T… |
+| 2026-10-22 14:41:34 | [infx-sys](https://crates.io/crates/infx-sys) | 0.1.0 | 0 | Native fx runtime bindings for INFX |
+| 2026-10-22 14:41:56 | [deltaui_accesskit_winit](https://crates.io/crates/deltaui_accesskit_winit) | 0.32.2 | 0 | Fork of accesskit_winit that builds on deltaui_winit and deltaui_accesskit_andr… |
+| 2026-10-22 14:44:15 | [deltaui_ui_events_winit](https://crates.io/crates/deltaui_ui_events_winit) | 0.3.0 | 0 | Fork of ui-events-winit that builds on deltaui_winit, for deltaui. Imported as… |
+| 2026-10-22 14:45:17 | [deltaui_include_doc_path](https://crates.io/crates/deltaui_include_doc_path) | 0.1.0 | 0 | Helper macro for linking to files in docs.rs. Fork for deltaui; imported as `li… |
+| 2026-10-22 14:45:30 | [tailrace-catalog](https://crates.io/crates/tailrace-catalog) | 1.0.0 | 0 | CatalogProvider with three backends: local toml file (standalone), plan body (s… |
+| 2026-10-22 14:50:17 | [thadam-nats](https://crates.io/crates/thadam-nats) | 0.1.0-beta.1 | 0 | NATS JetStream batch sink connector with message deduplication headers for Thad… |
+| 2026-10-22 14:51:31 | [infx](https://crates.io/crates/infx) | 0.1.0 | 0 | A small, embeddable agent harness with shared Rust SDK and ACP control |
+| 2026-10-22 14:53:45 | [pdfmake](https://crates.io/crates/pdfmake) | 0.1.1 | 0 | Build paginated PDFs from a plain Rust data structure: text, columns, lists and… |
+| 2026-10-22 14:54:59 | [deltaui_tree_arena](https://crates.io/crates/deltaui_tree_arena) | 0.2.0 | 0 | An arena allocated tree. Fork for deltaui; imported as `tree_arena`. |
+| 2026-10-22 15:00:43 | [thadam-opcua](https://crates.io/crates/thadam-opcua) | 0.1.0-beta.1 | 0 | Pure-Rust OPC UA subscription and polling client source connector for Thadam |
+| 2026-10-22 15:04:24 | [tailrace-parser](https://crates.io/crates/tailrace-parser) | 1.0.0 | 0 | SQL frontend: ${ds:} reference extraction, FlinkDialect parsing, statement lowe… |
+| 2026-10-22 15:05:01 | [console-auth](https://crates.io/crates/console-auth) | 1.0.0 | 0 | Authentication plane of the tailrace console: argon2id login with brute-force l… |
+| 2026-10-22 15:05:20 | [tailrace-connector](https://crates.io/crates/tailrace-connector) | 1.0.0 | 0 | Source/Sink connector traits plus the explicit ConnectorRegistry |
+| 2026-10-22 15:05:22 | [deltaui_masonry_core](https://crates.io/crates/deltaui_masonry_core) | 0.4.0 | 0 | Traits and types of the Masonry toolkit. Fork for deltaui; imported as `masonry… |
+| 2026-10-22 15:06:00 | [tailrace-conn-kafka](https://crates.io/crates/tailrace-conn-kafka) | 1.0.0 | 0 | Kafka connector: BaseConsumer source (assign-only resume, partition discovery)… |
+| 2026-10-22 15:07:16 | [orchestrator-flow](https://crates.io/crates/orchestrator-flow) | 0.1.2 | 0 | Background Task, Followup, Reminder/Cron Scheduler and Wiki Auto-Flow Manager f… |
+| 2026-10-22 15:07:37 | [tauri-plugin-window-controls-overlay](https://crates.io/crates/tauri-plugin-window-controls-overlay) | 0.1.0 | 0 | Native window controls (minimize / maximize / close) overlaid on a frameless wi… |
+| 2026-10-22 15:08:26 | [serviceless-actor](https://crates.io/crates/serviceless-actor) | 0.7.0 | 0 | An simple actor model in rust, like actix |
+| 2026-10-22 15:08:33 | [serviceless-macros](https://crates.io/crates/serviceless-macros) | 0.7.0 | 0 | Procedural macros for serviceless |
+| 2026-10-22 15:08:38 | [serviceless-tokio](https://crates.io/crates/serviceless-tokio) | 0.7.0 | 0 | Tokio runtime integration for Serviceless actors |
+| 2026-10-22 15:08:50 | [serviceless-jsonrpc](https://crates.io/crates/serviceless-jsonrpc) | 0.7.0 | 0 | Transport-independent JSON-RPC 2.0 router for Serviceless actors |
+| 2026-10-22 15:08:54 | [serviceless-jsonrpc-server](https://crates.io/crates/serviceless-jsonrpc-server) | 0.7.0 | 0 | HTTP, WebSocket, Unix socket, and stdio transports for Serviceless JSON-RPC |
+| 2026-10-22 15:10:48 | [thadam-ros2-msg](https://crates.io/crates/thadam-ros2-msg) | 0.1.0-beta.1 | 0 | Transport-independent ROS 2 .msg schema parser and XCDR1 payload decoder for Th… |
+| 2026-10-22 15:11:52 | [lua-doc-extractor](https://crates.io/crates/lua-doc-extractor) | 4.0.0 | 0 | Extracts EmmyLua docs from C-style comments. |
+| 2026-10-22 15:15:01 | [deltaui_masonry_testing](https://crates.io/crates/deltaui_masonry_testing) | 0.4.0 | 0 | Helper tools for writing unit tests for Masonry. Fork for deltaui; imported as… |
+| 2026-10-22 15:15:50 | [cognicloud-sdk](https://crates.io/crates/cognicloud-sdk) | 0.4.0 | 0 | CogniCloud SDK: call AI Gateway endpoints and manage them. |
 
 ## Data source
 
