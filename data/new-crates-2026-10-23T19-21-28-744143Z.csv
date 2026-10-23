@@ -1,0 +1,53 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T18:19:05.112705Z,aphrody-nu,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,Nushell embedded in Aphrody OS: structured evaluation for agents (the shell subsystem).
+2026-10-23T18:20:12.452405Z,weida-http-codec,0.1.0-alpha.9,0,0,https://github.com/tuco86/weida,"HTTP/1.1, HPACK, HTTP/2 framing, QPACK and HTTP/3 framing, sans-I/O"
+2026-10-23T18:20:20.37543Z,weida-http,0.1.0-alpha.9,0,0,https://github.com/tuco86/weida,"An HTTP/1.1 and HTTP/2 client and server in Rust on a sans-I/O codec, usable with no weida in the picture"
+2026-10-23T18:25:00.469103Z,grpc-codec-capnp,0.0.1,0,0,https://github.com/trunkszi/grpc-rs,Cap'n Proto codec for grpc-rs
+2026-10-23T18:27:02.124373Z,yog-script-analyze,0.2.0,0,0,,"Yog Script (.ys, .yns) analyzed: its lexer, parser and syntax tree, names resolved, the class index model — what the build and the editors read a source with."
+2026-10-23T18:29:04.596232Z,aphrody-toolchains,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Unified Bun / uv / Nushell runtime layer: shell-free discovery, repo-file version pins and consistent launch environment."
+2026-10-23T18:34:54.424903Z,grpc-rs-build,0.0.1,0,0,https://github.com/trunkszi/grpc-rs,"Schema compiler and code generator for grpc-rs (Protobuf, Apache Fory, Cap'n Proto)"
+2026-10-23T18:37:33.753742Z,yog-script-build,0.2.0,0,0,,Yog Script's compiler: a .ys/.yns source checked against the game's class index (built from its jars) — what the Yog CLI and the yog-script tool compile with.
+2026-10-23T18:39:01.292805Z,mc3000-mcp,0.2.1,0,0,https://github.com/nietonchique/mc3000-mcp,Safe MCP server for SKYRC MC3000-compatible battery chargers over Bluetooth Low Energy
+2026-10-23T18:39:05.023893Z,aphrody-fsindex,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Persistent local-filesystem search index (SQLite FTS5), mirroring the Google desktop app's local_files.db. Metadata-only, privacy-bounded."
+2026-10-23T18:39:42.744895Z,publisle,0.0.1,0,0,https://github.com/publisle/publisle-rs,Reserved name for the upcoming Rust implementation of Publisle: the Publisle document model and core. Not usable yet.
+2026-10-23T18:39:46.885733Z,publisle-math,0.0.1,0,0,https://github.com/publisle/publisle-rs,Reserved name for the upcoming Rust implementation of Publisle: math typesetting for Publisle documents. Not usable yet.
+2026-10-23T18:39:50.797825Z,publisle-pdf,0.0.1,0,0,https://github.com/publisle/publisle-rs,Reserved name for the upcoming Rust implementation of Publisle: the native PDF engine for Publisle documents. Not usable yet.
+2026-10-23T18:39:54.872976Z,publisle-research,0.0.1,0,0,https://github.com/publisle/publisle-rs,Reserved name for the upcoming Rust implementation of Publisle: research article export for Publisle documents. Not usable yet.
+2026-10-23T18:40:00.245465Z,publisle-cli,0.0.1,0,0,https://github.com/publisle/publisle-rs,Reserved name for the upcoming Rust implementation of Publisle: the publisle command-line interface. Not usable yet.
+2026-10-23T18:42:14.222452Z,aril-core,0.1.0,0,0,https://github.com/digital-tamil/aril,"Ultra-fast, deterministic Tamil font converter: compiles 29+ legacy encodings (Bamini, TSCII, Vanavil, ShreeLipi) into single-pass Aho–Corasick automatons for O(N) bidirectional Unicode conversion."
+2026-10-23T18:42:33.372404Z,aril-cli,0.1.0,0,0,https://github.com/digital-tamil/aril,"High-throughput CLI tool for batch converting and archiving legacy Tamil fonts (Bamini, TSCII, ShreeLipi) and legacy-encoded PDF documents to standard Unicode."
+2026-10-23T18:42:40.104349Z,cybercore-core,0.1.2,0,0,https://github.com/cybercoretech/cybercore,"Stable core contracts for Cybercore themes, resources, validation, and packs"
+2026-10-23T18:43:16.758293Z,cybercore-effects,0.1.2,0,0,https://github.com/cybercoretech/cybercore,Governed Cybercore visual effect recipes and reduced-motion adapters
+2026-10-23T18:43:18.925078Z,cybercore-components,0.1.2,0,0,https://github.com/cybercoretech/cybercore,Governed Cybercore component contracts and shared component styles
+2026-10-23T18:43:20.907649Z,cybercore-publish,0.1.2,0,0,https://github.com/cybercoretech/cybercore,"Cybercore publish plans, pack checks, and consumer packaging contracts"
+2026-10-23T18:44:56.094841Z,grpc-rs,0.0.2,0,0,https://github.com/trunkszi/grpc-rs,Runtime-free gRPC client and server framework for Rust over nexora-proto HTTP/2 and Linux io_uring
+2026-10-23T18:45:29.128693Z,wasvy_interface,0.0.10,0,0,https://github.com/wasvy-org/wasvy,Re-exported WIT declarations for Wasvy and the Bevy ECS
+2026-10-23T18:45:45.096203Z,wasvy_runtime,0.0.10,0,0,https://github.com/wasvy-org/wasvy,"Host-side modding framework for Bevy. Manages mod lifecycle, scheduling, and access control."
+2026-10-23T18:45:47.501928Z,wasvy_wasm,0.0.10,0,0,https://github.com/wasvy-org/wasvy,WASM mod loader for wasvy_runtime. Execute WebAssembly mods powered by Wasmtime and WASI.
+2026-10-23T18:49:07.330988Z,aphrody-gateway,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Provider-agnostic OpenAI-compatible AI gateway: Cloudflare AI Gateway, Vercel AI Gateway, and BYOK OpenAI proxy."
+2026-10-23T18:50:04.075741Z,mhr-gpui-screenshot,0.1.6,0,0,https://github.com/mesa-hills-research/gpui,"Golden-image screenshot tests for GPUI views, rendered headlessly on Linux, for mhr-gpui"
+2026-10-23T18:50:05.890945Z,niucode-computer,0.1.8,0,0,https://github.com/niuverse/niucode,"Computer-use protocol, permissions, and observation contracts for niucode"
+2026-10-23T18:50:46.59368Z,niucode-computer-x11,0.1.8,0,0,https://github.com/niuverse/niucode,Linux X11 observe backend for niucode computer use
+2026-10-23T18:51:16.42753Z,niucode-computer-macos,0.1.8,0,0,https://github.com/niuverse/niucode,macOS native backend for niucode computer use
+2026-10-23T18:51:45.409249Z,niucode-attachments,0.1.8,0,0,https://github.com/niuverse/niucode,Content-addressed image and text attachments for niucode
+2026-10-23T18:51:53.370377Z,solana_kit_wallet,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_wallet,Reserved wallet contract crate for the off-chain Solana Kit SDK; this placeholder supplies no SDK APIs
+2026-10-23T18:56:59.707453Z,greptimedb-proto,0.0.1,0,0,https://github.com/trunkszi/greptimedb-rs,Generated protobuf messages and grpc-rs service bindings for GreptimeDB and Arrow Flight
+2026-10-23T18:59:08.222512Z,aphrody-ovh,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Native OVHcloud engine: OAuth2 service account and SHA-1 signing, services, domains, DNS, VPS, email and IAM management."
+2026-10-23T18:59:17.73332Z,polyhedron-parser,0.1.0,0,0,https://github.com/QazCetelic/polyhedron,Prism / MultiMC Minecraft log parsing and crash analysis library
+2026-10-23T19:01:13.535498Z,mcf5441x-emu,0.1.0,0,0,https://github.com/FirestormAudio/coldfire-rs,"An exact MCF5441x (ColdFire V4e) emulator, the core and the chip's peripherals, for host-side testing; with mcf5441x-run, a semihosting runner"
+2026-10-23T19:01:55.383707Z,axiom-query-rs,0.1.0,0,0,https://github.com/Axiom-Dev-Labs/axiom-query-rs,"Specification-based query and aggregation engine for SeaORM: JSON domain filters, relational paths and read_group aggregation"
+2026-10-23T19:04:52.881152Z,greptimedb-macros,0.0.1,0,0,https://github.com/trunkszi/greptimedb-rs,Procedural macros for typed GreptimeDB row and columnar batch types
+2026-10-23T19:09:04.610573Z,aphrody-vpn,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,Native Mullvad VPN controller and auto-proxy/geo-unblock driver for Aphrody and agy.
+2026-10-23T19:14:08.519178Z,vinted-core,0.2.0,0,0,https://github.com/ezraclintoc/vinted-cli,"Async Rust client for Vinted's unofficial marketplace API (search, items, sellers)."
+2026-10-23T19:14:10.659494Z,vinted-cli,0.2.0,0,0,https://github.com/ezraclintoc/vinted-cli,Search and filter Vinted from your terminal.
+2026-10-23T19:14:54.056942Z,sourceorrery-provider-aws,0.2.0,0,0,https://github.com/Netizine/sourceorrery,AWS Secrets Manager behind the SourceOrrery secret contract
+2026-10-23T19:14:54.521078Z,sourceorrery-provider-vault,0.2.0,0,0,https://github.com/Netizine/sourceorrery,HashiCorp Vault (KV version 2) behind the SourceOrrery secret contract
+2026-10-23T19:14:55.302378Z,sourceorrery-provider,0.2.0,0,0,https://github.com/Netizine/sourceorrery,Adapters between SourceOrrery's synchronous and asynchronous secret clients; the base of the remote providers
+2026-10-23T19:15:01.259501Z,greptimedb,0.0.1,0,0,https://github.com/trunkszi/greptimedb-rs,"Synchronous, completion-driven, thread-affine Rust SDK for GreptimeDB"
+2026-10-23T19:15:26.655158Z,ubuntu-info-rust,0.1.0,0,0,https://github.com/canonical/ubuntu-info-rust,Ubuntu distribution information modeled for Rust applications
+2026-10-23T19:17:02.219609Z,ironrdp-rdpeai,0.1.0,0,0,https://github.com/Devolutions/IronRDP,AUDIO_INPUT dynamic channel for audio capture as described in MS-RDPEAI
+2026-10-23T19:17:03.252606Z,ironrdp-rdpemt,0.1.0,0,0,https://github.com/Devolutions/IronRDP,Multitransport Extension ([MS-RDPEMT]) tunnel implementation for IronRDP
+2026-10-23T19:17:04.433285Z,ironrdp-rdpeudp,0.1.0,0,0,https://github.com/Devolutions/IronRDP,RDP-UDP transport ([MS-RDPEUDP] and [MS-RDPEUDP2]) implementation for IronRDP
+2026-10-23T19:17:05.561154Z,ironrdp-rdpeusb,0.1.0,0,0,https://github.com/Devolutions/IronRDP,Remote Desktop Protocol: USB Devices Virtual Channel Extension implementation
+2026-10-23T19:17:06.017265Z,ironrdp-rdpewa,0.1.0,0,0,https://github.com/Devolutions/IronRDP,MS-RDPEWA WebAuthn dynamic virtual channel protocol
+2026-10-23T19:19:04.821733Z,aphrody-jobs,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Persistent background job queue (SQLite): submission, leased claims, crash recovery, retries, NDJSON logs."

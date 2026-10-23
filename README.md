@@ -8,44 +8,66 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 18:18 UTC
+## Latest list — 2026-10-23 19:21 UTC
 
-New crates published between 2026-10-23 17:18 UTC and 2026-10-23 18:18 UTC.
+New crates published between 2026-10-23 18:18 UTC and 2026-10-23 19:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-23T18-18-36-952293Z.csv)
+[Full CSV](data/new-crates-2026-10-23T19-21-28-744143Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-23 17:18:53 | [aphrody-code-graph](https://crates.io/crates/aphrody-code-graph) | 1.4.7 | 0 | aphrody-code-graph: native code graph (nodes, EXTRACTED/INFERRED edges with con… |
-| 2026-10-23 17:20:14 | [compact-analyzer](https://crates.io/crates/compact-analyzer) | 0.2.1 | 0 | Analysis engines (diagnostics, formatter, tree-sitter parser) for the Compact s… |
-| 2026-10-23 17:20:28 | [compact-lsp](https://crates.io/crates/compact-lsp) | 0.2.1 | 0 | Language Server Protocol implementation for the Compact smart contract language |
-| 2026-10-23 17:24:53 | [rdkafka-macros](https://crates.io/crates/rdkafka-macros) | 0.0.1 | 0 | Procedural macros for typed Kafka records and zero-copy/SoA batching in librdka… |
-| 2026-10-23 17:28:59 | [aphrody-embed](https://crates.io/crates/aphrody-embed) | 1.4.7 | 0 | Local, offline text embeddings for aphrody — fastembed (ONNX Runtime) text vect… |
-| 2026-10-23 17:33:39 | [iyulab-gil-review](https://crates.io/crates/iyulab-gil-review) | 0.1.0 | 0 | Review statistics for checking automated decisions by hand: stratified samples,… |
-| 2026-10-23 17:34:55 | [librdkafka-rs](https://crates.io/crates/librdkafka-rs) | 0.0.1 | 0 | Synchronous, thread-affine Rust Kafka producer, consumer, and admin client over… |
-| 2026-10-23 17:38:17 | [libgodot](https://crates.io/crates/libgodot) | 0.1.0 | 0 | Embed the Godot engine in Rust through libgodot |
-| 2026-10-23 17:39:30 | [aphrody-app-protocol](https://crates.io/crates/aphrody-app-protocol) | 1.4.7 | 0 | Pure, wasm32-safe Codex app-server v2 protocol types: JSON-RPC wire types, Tier… |
-| 2026-10-23 17:44:54 | [grpc-core](https://crates.io/crates/grpc-core) | 0.0.1 | 0 | Core HTTP/2, Linux io_uring transport, compression, and service abstractions fo… |
-| 2026-10-23 17:46:57 | [worf-warden](https://crates.io/crates/worf-warden) | 0.1.0 | 0 | Bitwarden frontend and password manager using the Worf API. Integrates with rbw… |
-| 2026-10-23 17:47:38 | [solana_kit_address_lookup_table](https://crates.io/crates/solana_kit_address_lookup_table) | 0.0.0 | 0 | Reserved address lookup table client crate for the off-chain Solana Kit SDK; th… |
-| 2026-10-23 17:52:09 | [octri-auditor](https://crates.io/crates/octri-auditor) | 0.1.3 | 0 | Source-aware OpenAPI readiness auditing without ambient I/O |
-| 2026-10-23 17:52:11 | [octri-auditor-cli](https://crates.io/crates/octri-auditor-cli) | 0.1.3 | 0 | Octri Spec Auditor command-line interface |
-| 2026-10-23 17:52:41 | [bevy_fairy](https://crates.io/crates/bevy_fairy) | 0.2.0 | 0 | An agentic debugger for Bevy games: a Bevy plugin that exposes the game's state… |
-| 2026-10-23 17:54:53 | [grpc-macros](https://crates.io/crates/grpc-macros) | 0.0.1 | 0 | Procedural macros for grpc-rs service definitions |
-| 2026-10-23 17:59:26 | [mcp-ctl](https://crates.io/crates/mcp-ctl) | 0.1.0 | 0 | A unified manager, secret resolver, and runner for Model Context Protocol (MCP)… |
-| 2026-10-23 17:59:53 | [lightbulb](https://crates.io/crates/lightbulb) | 0.0.0 | 0 | Name reserved for Lightbulb, an ML inference and training runner with an OpenAI… |
-| 2026-10-23 18:03:47 | [salvo-from-config](https://crates.io/crates/salvo-from-config) | 1.0.0 | 0 | Set up a Salvo server from config |
-| 2026-10-23 18:04:54 | [grpc-codec-prost](https://crates.io/crates/grpc-codec-prost) | 0.0.1 | 0 | Protobuf (prost) codec for grpc-rs |
-| 2026-10-23 18:08:02 | [aphrody-rag](https://crates.io/crates/aphrody-rag) | 1.4.7 | 0 | Unified RAG storage, embedding, vector scan, hybrid search, and agent tools for… |
-| 2026-10-23 18:09:37 | [aphrody-backend](https://crates.io/crates/aphrody-backend) | 1.4.7 | 0 | Aphrody forensics and backend logic (Rust). |
-| 2026-10-23 18:10:01 | [yog-codegen](https://crates.io/crates/yog-codegen) | 0.1.0 | 0 | Yog's toolkit for code generators: name cases, string literals of each language… |
-| 2026-10-23 18:10:06 | [yog-codegen-typescript](https://crates.io/crates/yog-codegen-typescript) | 0.1.0 | 0 | TypeScript for yog-codegen: its comments, string literals, reserved words and b… |
-| 2026-10-23 18:10:10 | [yog-codegen-java](https://crates.io/crates/yog-codegen-java) | 0.1.0 | 0 | Java for yog-codegen: its comments, string literals, reserved words and blocks. |
-| 2026-10-23 18:10:44 | [yog-analysis](https://crates.io/crates/yog-analysis) | 0.1.0 | 0 | Yog's toolkit for analyzers: the sources under a folder and their fingerprint,… |
-| 2026-10-23 18:11:47 | [aphrody-kernel-client](https://crates.io/crates/aphrody-kernel-client) | 1.4.7 | 0 | Cross-platform local JSON-RPC client for the Aphrody OS kernel endpoint served… |
-| 2026-10-23 18:12:07 | [yog-codegen-rust](https://crates.io/crates/yog-codegen-rust) | 0.1.0 | 0 | Rust for yog-codegen: its comments, string literals, reserved words and blocks. |
-| 2026-10-23 18:14:54 | [grpc-codec-fory](https://crates.io/crates/grpc-codec-fory) | 0.0.1 | 0 | Apache Fory codec for grpc-rs |
-| 2026-10-23 18:18:23 | [yog-mappings](https://crates.io/crates/yog-mappings) | 0.1.0 | 0 | Minecraft's names: Mojang's mappings joined with a host's run-time names (Fabri… |
+| 2026-10-23 18:19:05 | [aphrody-nu](https://crates.io/crates/aphrody-nu) | 1.4.7 | 0 | Nushell embedded in Aphrody OS: structured evaluation for agents (the shell sub… |
+| 2026-10-23 18:20:12 | [weida-http-codec](https://crates.io/crates/weida-http-codec) | 0.1.0-alpha.9 | 0 | HTTP/1.1, HPACK, HTTP/2 framing, QPACK and HTTP/3 framing, sans-I/O |
+| 2026-10-23 18:20:20 | [weida-http](https://crates.io/crates/weida-http) | 0.1.0-alpha.9 | 0 | An HTTP/1.1 and HTTP/2 client and server in Rust on a sans-I/O codec, usable wi… |
+| 2026-10-23 18:25:00 | [grpc-codec-capnp](https://crates.io/crates/grpc-codec-capnp) | 0.0.1 | 0 | Cap'n Proto codec for grpc-rs |
+| 2026-10-23 18:27:02 | [yog-script-analyze](https://crates.io/crates/yog-script-analyze) | 0.2.0 | 0 | Yog Script (.ys, .yns) analyzed: its lexer, parser and syntax tree, names resol… |
+| 2026-10-23 18:29:04 | [aphrody-toolchains](https://crates.io/crates/aphrody-toolchains) | 1.4.7 | 0 | Unified Bun / uv / Nushell runtime layer: shell-free discovery, repo-file versi… |
+| 2026-10-23 18:34:54 | [grpc-rs-build](https://crates.io/crates/grpc-rs-build) | 0.0.1 | 0 | Schema compiler and code generator for grpc-rs (Protobuf, Apache Fory, Cap'n Pr… |
+| 2026-10-23 18:37:33 | [yog-script-build](https://crates.io/crates/yog-script-build) | 0.2.0 | 0 | Yog Script's compiler: a .ys/.yns source checked against the game's class index… |
+| 2026-10-23 18:39:01 | [mc3000-mcp](https://crates.io/crates/mc3000-mcp) | 0.2.1 | 0 | Safe MCP server for SKYRC MC3000-compatible battery chargers over Bluetooth Low… |
+| 2026-10-23 18:39:05 | [aphrody-fsindex](https://crates.io/crates/aphrody-fsindex) | 1.4.7 | 0 | Persistent local-filesystem search index (SQLite FTS5), mirroring the Google de… |
+| 2026-10-23 18:39:42 | [publisle](https://crates.io/crates/publisle) | 0.0.1 | 0 | Reserved name for the upcoming Rust implementation of Publisle: the Publisle do… |
+| 2026-10-23 18:39:46 | [publisle-math](https://crates.io/crates/publisle-math) | 0.0.1 | 0 | Reserved name for the upcoming Rust implementation of Publisle: math typesettin… |
+| 2026-10-23 18:39:50 | [publisle-pdf](https://crates.io/crates/publisle-pdf) | 0.0.1 | 0 | Reserved name for the upcoming Rust implementation of Publisle: the native PDF… |
+| 2026-10-23 18:39:54 | [publisle-research](https://crates.io/crates/publisle-research) | 0.0.1 | 0 | Reserved name for the upcoming Rust implementation of Publisle: research articl… |
+| 2026-10-23 18:40:00 | [publisle-cli](https://crates.io/crates/publisle-cli) | 0.0.1 | 0 | Reserved name for the upcoming Rust implementation of Publisle: the publisle co… |
+| 2026-10-23 18:42:14 | [aril-core](https://crates.io/crates/aril-core) | 0.1.0 | 0 | Ultra-fast, deterministic Tamil font converter: compiles 29+ legacy encodings (… |
+| 2026-10-23 18:42:33 | [aril-cli](https://crates.io/crates/aril-cli) | 0.1.0 | 0 | High-throughput CLI tool for batch converting and archiving legacy Tamil fonts… |
+| 2026-10-23 18:42:40 | [cybercore-core](https://crates.io/crates/cybercore-core) | 0.1.2 | 0 | Stable core contracts for Cybercore themes, resources, validation, and packs |
+| 2026-10-23 18:43:16 | [cybercore-effects](https://crates.io/crates/cybercore-effects) | 0.1.2 | 0 | Governed Cybercore visual effect recipes and reduced-motion adapters |
+| 2026-10-23 18:43:18 | [cybercore-components](https://crates.io/crates/cybercore-components) | 0.1.2 | 0 | Governed Cybercore component contracts and shared component styles |
+| 2026-10-23 18:43:20 | [cybercore-publish](https://crates.io/crates/cybercore-publish) | 0.1.2 | 0 | Cybercore publish plans, pack checks, and consumer packaging contracts |
+| 2026-10-23 18:44:56 | [grpc-rs](https://crates.io/crates/grpc-rs) | 0.0.2 | 0 | Runtime-free gRPC client and server framework for Rust over nexora-proto HTTP/2… |
+| 2026-10-23 18:45:29 | [wasvy_interface](https://crates.io/crates/wasvy_interface) | 0.0.10 | 0 | Re-exported WIT declarations for Wasvy and the Bevy ECS |
+| 2026-10-23 18:45:45 | [wasvy_runtime](https://crates.io/crates/wasvy_runtime) | 0.0.10 | 0 | Host-side modding framework for Bevy. Manages mod lifecycle, scheduling, and ac… |
+| 2026-10-23 18:45:47 | [wasvy_wasm](https://crates.io/crates/wasvy_wasm) | 0.0.10 | 0 | WASM mod loader for wasvy_runtime. Execute WebAssembly mods powered by Wasmtime… |
+| 2026-10-23 18:49:07 | [aphrody-gateway](https://crates.io/crates/aphrody-gateway) | 1.4.7 | 0 | Provider-agnostic OpenAI-compatible AI gateway: Cloudflare AI Gateway, Vercel A… |
+| 2026-10-23 18:50:04 | [mhr-gpui-screenshot](https://crates.io/crates/mhr-gpui-screenshot) | 0.1.6 | 0 | Golden-image screenshot tests for GPUI views, rendered headlessly on Linux, for… |
+| 2026-10-23 18:50:05 | [niucode-computer](https://crates.io/crates/niucode-computer) | 0.1.8 | 0 | Computer-use protocol, permissions, and observation contracts for niucode |
+| 2026-10-23 18:50:46 | [niucode-computer-x11](https://crates.io/crates/niucode-computer-x11) | 0.1.8 | 0 | Linux X11 observe backend for niucode computer use |
+| 2026-10-23 18:51:16 | [niucode-computer-macos](https://crates.io/crates/niucode-computer-macos) | 0.1.8 | 0 | macOS native backend for niucode computer use |
+| 2026-10-23 18:51:45 | [niucode-attachments](https://crates.io/crates/niucode-attachments) | 0.1.8 | 0 | Content-addressed image and text attachments for niucode |
+| 2026-10-23 18:51:53 | [solana_kit_wallet](https://crates.io/crates/solana_kit_wallet) | 0.0.0 | 0 | Reserved wallet contract crate for the off-chain Solana Kit SDK; this placehold… |
+| 2026-10-23 18:56:59 | [greptimedb-proto](https://crates.io/crates/greptimedb-proto) | 0.0.1 | 0 | Generated protobuf messages and grpc-rs service bindings for GreptimeDB and Arr… |
+| 2026-10-23 18:59:08 | [aphrody-ovh](https://crates.io/crates/aphrody-ovh) | 1.4.7 | 0 | Native OVHcloud engine: OAuth2 service account and SHA-1 signing, services, dom… |
+| 2026-10-23 18:59:17 | [polyhedron-parser](https://crates.io/crates/polyhedron-parser) | 0.1.0 | 0 | Prism / MultiMC Minecraft log parsing and crash analysis library |
+| 2026-10-23 19:01:13 | [mcf5441x-emu](https://crates.io/crates/mcf5441x-emu) | 0.1.0 | 0 | An exact MCF5441x (ColdFire V4e) emulator, the core and the chip's peripherals,… |
+| 2026-10-23 19:01:55 | [axiom-query-rs](https://crates.io/crates/axiom-query-rs) | 0.1.0 | 0 | Specification-based query and aggregation engine for SeaORM: JSON domain filter… |
+| 2026-10-23 19:04:52 | [greptimedb-macros](https://crates.io/crates/greptimedb-macros) | 0.0.1 | 0 | Procedural macros for typed GreptimeDB row and columnar batch types |
+| 2026-10-23 19:09:04 | [aphrody-vpn](https://crates.io/crates/aphrody-vpn) | 1.4.7 | 0 | Native Mullvad VPN controller and auto-proxy/geo-unblock driver for Aphrody and… |
+| 2026-10-23 19:14:08 | [vinted-core](https://crates.io/crates/vinted-core) | 0.2.0 | 0 | Async Rust client for Vinted's unofficial marketplace API (search, items, selle… |
+| 2026-10-23 19:14:10 | [vinted-cli](https://crates.io/crates/vinted-cli) | 0.2.0 | 0 | Search and filter Vinted from your terminal. |
+| 2026-10-23 19:14:54 | [sourceorrery-provider-aws](https://crates.io/crates/sourceorrery-provider-aws) | 0.2.0 | 0 | AWS Secrets Manager behind the SourceOrrery secret contract |
+| 2026-10-23 19:14:54 | [sourceorrery-provider-vault](https://crates.io/crates/sourceorrery-provider-vault) | 0.2.0 | 0 | HashiCorp Vault (KV version 2) behind the SourceOrrery secret contract |
+| 2026-10-23 19:14:55 | [sourceorrery-provider](https://crates.io/crates/sourceorrery-provider) | 0.2.0 | 0 | Adapters between SourceOrrery's synchronous and asynchronous secret clients; th… |
+| 2026-10-23 19:15:01 | [greptimedb](https://crates.io/crates/greptimedb) | 0.0.1 | 0 | Synchronous, completion-driven, thread-affine Rust SDK for GreptimeDB |
+| 2026-10-23 19:15:26 | [ubuntu-info-rust](https://crates.io/crates/ubuntu-info-rust) | 0.1.0 | 0 | Ubuntu distribution information modeled for Rust applications |
+| 2026-10-23 19:17:02 | [ironrdp-rdpeai](https://crates.io/crates/ironrdp-rdpeai) | 0.1.0 | 0 | AUDIO_INPUT dynamic channel for audio capture as described in MS-RDPEAI |
+| 2026-10-23 19:17:03 | [ironrdp-rdpemt](https://crates.io/crates/ironrdp-rdpemt) | 0.1.0 | 0 | Multitransport Extension ([MS-RDPEMT]) tunnel implementation for IronRDP |
+| 2026-10-23 19:17:04 | [ironrdp-rdpeudp](https://crates.io/crates/ironrdp-rdpeudp) | 0.1.0 | 0 | RDP-UDP transport ([MS-RDPEUDP] and [MS-RDPEUDP2]) implementation for IronRDP |
+| 2026-10-23 19:17:05 | [ironrdp-rdpeusb](https://crates.io/crates/ironrdp-rdpeusb) | 0.1.0 | 0 | Remote Desktop Protocol: USB Devices Virtual Channel Extension implementation |
+| 2026-10-23 19:17:06 | [ironrdp-rdpewa](https://crates.io/crates/ironrdp-rdpewa) | 0.1.0 | 0 | MS-RDPEWA WebAuthn dynamic virtual channel protocol |
+| 2026-10-23 19:19:04 | [aphrody-jobs](https://crates.io/crates/aphrody-jobs) | 1.4.7 | 0 | Persistent background job queue (SQLite): submission, leased claims, crash reco… |
 
 ## Data source
 
