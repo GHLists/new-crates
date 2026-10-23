@@ -8,34 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 06:18 UTC
+## Latest list — 2026-10-23 07:18 UTC
 
-New crates published between 2026-10-23 05:20 UTC and 2026-10-23 06:18 UTC.
+New crates published between 2026-10-23 06:18 UTC and 2026-10-23 07:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-23T06-18-58-203374Z.csv)
+[Full CSV](data/new-crates-2026-10-23T07-18-49-527236Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-23 05:31:15 | [safesweep](https://crates.io/crates/safesweep) | 0.3.1 | 0 | Clean caches and temp files that are provably safe to delete |
-| 2026-10-23 05:31:59 | [tididi-cnf](https://crates.io/crates/tididi-cnf) | 0.1.1 | 0 | Knowledge compiler and model counter for CNF: compiles a DIMACS formula into a… |
-| 2026-10-23 05:34:52 | [aphrody-secrets](https://crates.io/crates/aphrody-secrets) | 1.4.7 | 0 | Secret store abstraction (env + plaintext file + AES-256-GCM/Argon2id encrypted… |
-| 2026-10-23 05:37:55 | [tilers_core](https://crates.io/crates/tilers_core) | 0.2.2 | 0 | Framework-agnostic engine for the tilers packed-grid tiling layout: the grid mo… |
-| 2026-10-23 05:39:07 | [tilers_leptos](https://crates.io/crates/tilers_leptos) | 0.2.2 | 0 | Leptos binding for the tilers packed-grid tiling layout. Drives the framework-a… |
-| 2026-10-23 05:39:38 | [tilers_dioxus](https://crates.io/crates/tilers_dioxus) | 0.2.3 | 0 | Dioxus binding for the tilers packed-grid tiling layout — panes split, resize,… |
-| 2026-10-23 05:39:48 | [tilers](https://crates.io/crates/tilers) | 0.2.2 | 0 | Packed-grid tiling/docking layout — a framework-agnostic engine with optional D… |
-| 2026-10-23 05:41:27 | [htmlcut](https://crates.io/crates/htmlcut) | 24.0.0 | 0 | Fail-closed extraction contracts for caller-owned HTML snapshots, with complete… |
-| 2026-10-23 05:43:10 | [form-net](https://crates.io/crates/form-net) | 0.2.0 | 0 | Sans-IO form parsing for Rust: application/x-www-form-urlencoded and streaming… |
-| 2026-10-23 05:51:50 | [ansi-crop](https://crates.io/crates/ansi-crop) | 0.1.0 | 0 | Crop ANSI-styled text (such as tmux capture-pane -e output) to a rectangle whil… |
-| 2026-10-23 05:53:41 | [glyphux](https://crates.io/crates/glyphux) | 0.3.0 | 0 | Pure Rust multi-channel signed distance field generator (SDF, PSDF, MSDF, MTSDF… |
-| 2026-10-23 05:53:43 | [glyphux-atlas](https://crates.io/crates/glyphux-atlas) | 0.3.0 | 0 | Font atlas generator built on glyphux: charsets, glyph packing, SDF/PSDF/MSDF/M… |
-| 2026-10-23 05:53:44 | [glyphux-gpu](https://crates.io/crates/glyphux-gpu) | 0.3.0 | 0 | GPU (wgpu / WGSL compute) generation of SDF, PSDF, MSDF and MTSDF glyphs for gl… |
-| 2026-10-23 05:53:45 | [glyphux-cli](https://crates.io/crates/glyphux-cli) | 0.3.0 | 0 | Command line tools for glyphux: glyphux (single shapes, msdfgen compatible) and… |
-| 2026-10-23 05:59:57 | [rndr_term](https://crates.io/crates/rndr_term) | 0.2.0 | 0 | Embedded terminal session for rndr |
-| 2026-10-23 06:02:19 | [agent-driver](https://crates.io/crates/agent-driver) | 0.1.0 | 0 | Unified abstraction over LLM providers with streaming, tools, MCP, and agent lo… |
-| 2026-10-23 06:02:51 | [bufo](https://crates.io/crates/bufo) | 0.1.0 | 0 | A survey of text buffers |
-| 2026-10-23 06:03:12 | [corbin](https://crates.io/crates/corbin) | 0.0.0 | 0 | A Rust web framework. In development. |
-| 2026-10-23 06:17:44 | [aphrody-guard](https://crates.io/crates/aphrody-guard) | 1.4.7 | 0 | Autonomous-agent safety guardrails: pre-main process hardening (disable core du… |
-| 2026-10-23 06:18:19 | [gbk-macro](https://crates.io/crates/gbk-macro) | 0.0.1 | 0 | Compile-time UTF-8 to GBK/GB2312 byte array macros for embedded (no_std) targets |
+| 2026-10-23 06:28:48 | [aphrody-capture](https://crates.io/crates/aphrody-capture) | 1.4.7 | 0 | Native Windows screen and window capture: GDI to PNG and GPU window capture thr… |
+| 2026-10-23 06:30:34 | [bevy_3d_dice](https://crates.io/crates/bevy_3d_dice) | 0.5.0 | 0 | Physics-driven dice for Bevy 0.20. Parse a dice expression, roll it in an arena… |
+| 2026-10-23 06:31:25 | [koha](https://crates.io/crates/koha) | 0.0.1 | 0 | Structural analysis. |
+| 2026-10-23 06:35:57 | [logi-vhid](https://crates.io/crates/logi-vhid) | 0.1.0 | 0 | Keyboard/mouse input through Logitech G HUB's virtual HID bus |
+| 2026-10-23 06:39:21 | [aphrody-term](https://crates.io/crates/aphrody-term) | 1.4.7 | 0 | Headless VT terminal engine (cell grid, native PTY, screen scraping, quad batch… |
+| 2026-10-23 06:42:01 | [veil-engine](https://crates.io/crates/veil-engine) | 0.2.0 | 0 | Detection, placeholders and restoration. No I/O. |
+| 2026-10-23 06:42:07 | [veil-vault](https://crates.io/crates/veil-vault) | 0.2.0 | 0 | Encrypted on-disk vault for placeholder mappings. |
+| 2026-10-23 06:43:28 | [pyrowave](https://crates.io/crates/pyrowave) | 0.0.0 | 0 | Placeholder for upcoming PyroWave bindings |
+| 2026-10-23 06:43:31 | [pyrowave-sys](https://crates.io/crates/pyrowave-sys) | 0.0.0 | 0 | Placeholder for upcoming PyroWave bindings |
+| 2026-10-23 06:45:58 | [openreview-sdk](https://crates.io/crates/openreview-sdk) | 1.12.1 | 0 | Typed Rust client for the open-review Go engine |
+| 2026-10-23 06:48:11 | [distruct](https://crates.io/crates/distruct) | 0.1.0 | 0 | Raft-based cluster coordination and strongly-consistent distributed data struct… |
+| 2026-10-23 06:49:49 | [aphrody-nie-data](https://crates.io/crates/aphrody-nie-data) | 1.4.7 | 0 | Modèles de données de jeu IEVR portés en Rust pur (skills, auras, chara_param,… |
+| 2026-10-23 06:52:47 | [gdcli-cli](https://crates.io/crates/gdcli-cli) | 0.9.1 | 0 | Drive a running Godot editor through its own APIs |
+| 2026-10-23 06:56:05 | [vl-web](https://crates.io/crates/vl-web) | 1.2.77 | 0 | Web server for Vulnerability-Lookup (Hyper + QUIC/HTTP3 + HTMX + Askama) |
+| 2026-10-23 06:59:26 | [cortical_neuron](https://crates.io/crates/cortical_neuron) | 0.0.2 | 0 | Neuron model. Part of cortex |
+| 2026-10-23 07:01:07 | [fuju-trace](https://crates.io/crates/fuju-trace) | 0.1.11 | 0 | Fuju Trace instrumentation SDK for Rust agents |
+| 2026-10-23 07:01:21 | [aphrody-nie-index](https://crates.io/crates/aphrody-nie-index) | 1.4.7 | 0 | Bounded in-memory and host-backed knowledge indexes for nie.exe reverse enginee… |
+| 2026-10-23 07:03:51 | [ezcapsolver-rs](https://crates.io/crates/ezcapsolver-rs) | 0.1.0 | 0 | Rust SDK for EzCaptchaSolver. |
+| 2026-10-23 07:04:49 | [framework-system](https://crates.io/crates/framework-system) | 26.8.151 | 0 | lingting framework |
+| 2026-10-23 07:05:06 | [framework-startup](https://crates.io/crates/framework-startup) | 26.8.151 | 0 | lingting framework |
+| 2026-10-23 07:05:17 | [solana_kit_core](https://crates.io/crates/solana_kit_core) | 0.0.0 | 0 | Reserved core crate for the off-chain Solana Kit client SDK; no SDK APIs are av… |
+| 2026-10-23 07:05:41 | [framework-proc-timer](https://crates.io/crates/framework-proc-timer) | 26.8.151 | 0 | lingting framework |
+| 2026-10-23 07:06:00 | [framework-timer](https://crates.io/crates/framework-timer) | 26.8.151 | 0 | lingting framework |
+| 2026-10-23 07:11:43 | [aphrody-nie-geom](https://crates.io/crates/aphrody-nie-geom) | 1.4.7 | 0 | Shared POD geometry types (Vec2/Vec3) and scalar math for the IECODE workspace. |
 
 ## Data source
 

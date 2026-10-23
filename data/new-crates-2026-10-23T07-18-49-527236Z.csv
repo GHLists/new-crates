@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T06:28:48.688444Z,aphrody-capture,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,Native Windows screen and window capture: GDI to PNG and GPU window capture through Windows.Graphics.Capture with frame pacing; SendInput mouse and keyboard.
+2026-10-23T06:30:34.835635Z,bevy_3d_dice,0.5.0,0,0,https://github.com/atavistock/bevy_3d_dice,"Physics-driven dice for Bevy 0.20. Parse a dice expression, roll it in an arena, watch the dice tumble and settle, read the result."
+2026-10-23T06:31:25.433355Z,koha,0.0.1,0,0,,Structural analysis.
+2026-10-23T06:35:57.021933Z,logi-vhid,0.1.0,0,0,https://github.com/lona-cn/logi-vhid,Keyboard/mouse input through Logitech G HUB's virtual HID bus
+2026-10-23T06:39:21.725059Z,aphrody-term,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Headless VT terminal engine (cell grid, native PTY, screen scraping, quad batching) for Aphrody computer use."
+2026-10-23T06:42:01.939574Z,veil-engine,0.2.0,0,0,https://github.com/Oram-Labs/veil-engine,"Detection, placeholders and restoration. No I/O."
+2026-10-23T06:42:07.812805Z,veil-vault,0.2.0,0,0,https://github.com/Oram-Labs/veil-engine,Encrypted on-disk vault for placeholder mappings.
+2026-10-23T06:43:28.815328Z,pyrowave,0.0.0,0,0,https://github.com/amaanq/pyrowave-rs,Placeholder for upcoming PyroWave bindings
+2026-10-23T06:43:31.24615Z,pyrowave-sys,0.0.0,0,0,https://github.com/amaanq/pyrowave-rs,Placeholder for upcoming PyroWave bindings
+2026-10-23T06:45:58.324824Z,openreview-sdk,1.12.1,0,0,https://github.com/scale-sync/open-review,Typed Rust client for the open-review Go engine
+2026-10-23T06:48:11.53761Z,distruct,0.1.0,0,0,https://github.com/michel-kraemer/distruct,Raft-based cluster coordination and strongly-consistent distributed data structures
+2026-10-23T06:49:49.530666Z,aphrody-nie-data,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Modèles de données de jeu IEVR portés en Rust pur (skills, auras, chara_param, items, growth/exp tables, passifs) depuis le pipeline inagle — no_std+alloc, wasm-friendly"
+2026-10-23T06:52:47.588692Z,gdcli-cli,0.9.1,0,0,https://github.com/haytham818/gdcli,Drive a running Godot editor through its own APIs
+2026-10-23T06:56:05.019237Z,vl-web,1.2.77,0,0,https://gitlab.com/vPierre/ndaal_public_nvulnlookup,Web server for Vulnerability-Lookup (Hyper + QUIC/HTTP3 + HTMX + Askama)
+2026-10-23T06:59:26.812847Z,cortical_neuron,0.0.2,0,0,,Neuron model. Part of cortex
+2026-10-23T07:01:07.867569Z,fuju-trace,0.1.11,0,0,https://github.com/vibeinging/fuju-trace,Fuju Trace instrumentation SDK for Rust agents
+2026-10-23T07:01:21.935564Z,aphrody-nie-index,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,Bounded in-memory and host-backed knowledge indexes for nie.exe reverse engineering
+2026-10-23T07:03:51.436571Z,ezcapsolver-rs,0.1.0,0,0,https://github.com/EZXLabs/ezcapsolver-rs,Rust SDK for EzCaptchaSolver.
+2026-10-23T07:04:49.309049Z,framework-system,26.8.151,0,0,https://github.com/lingting-projects/lingting-rust-framework,lingting framework
+2026-10-23T07:05:06.204634Z,framework-startup,26.8.151,0,0,https://github.com/lingting-projects/lingting-rust-framework,lingting framework
+2026-10-23T07:05:17.139153Z,solana_kit_core,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_core,Reserved core crate for the off-chain Solana Kit client SDK; no SDK APIs are available in this placeholder
+2026-10-23T07:05:41.498299Z,framework-proc-timer,26.8.151,0,0,https://github.com/lingting-projects/lingting-rust-framework,lingting framework
+2026-10-23T07:06:00.719176Z,framework-timer,26.8.151,0,0,https://github.com/lingting-projects/lingting-rust-framework,lingting framework
+2026-10-23T07:11:43.225503Z,aphrody-nie-geom,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,Shared POD geometry types (Vec2/Vec3) and scalar math for the IECODE workspace.
