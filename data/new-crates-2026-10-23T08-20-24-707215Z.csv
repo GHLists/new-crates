@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T07:23:03.169125Z,hashleaf,0.0.1,0,0,,"Hashleaf: a native read-later and notes suite with a live Markdown editor, built in Rust and GPUI. Placeholder release."
+2026-10-23T07:25:28.792959Z,logblur-core,0.2.0,0,0,https://github.com/HiroGitea/logblur,"Library behind logblur: detect and mask sensitive data in log archives, streaming and in memory"
+2026-10-23T07:25:41.626602Z,logblur,0.2.0,0,0,https://github.com/HiroGitea/logblur,Scrub sensitive data from Linux log archives (zip / tar.gz / files) in memory
+2026-10-23T07:26:40.026583Z,logblur-gui,0.2.0,0,0,https://github.com/HiroGitea/logblur,Drag-and-drop desktop app for logblur: scrub sensitive data from Linux log archives
+2026-10-23T07:32:45.475782Z,cainary-core,0.1.0,0,0,https://github.com/SkeLLLa/cainary,"cAInary core: model, harness, parsers, scanners and analysis"
+2026-10-23T07:32:48.590185Z,cainary,0.1.0,0,0,https://github.com/SkeLLLa/cainary,Shows what your AI tools and the device monitoring around them track and send
+2026-10-23T07:36:13.629397Z,lingting-gpui-core,26.10.1,0,0,https://github.com/lingting/lingting-gpui-kit,lingting network control
+2026-10-23T07:36:31.506121Z,lingting-gpui-nav,26.10.1,0,0,https://github.com/lingting/lingting-gpui-kit,lingting network control
+2026-10-23T07:36:51.949315Z,lingting-gpui-components,26.10.1,0,0,https://github.com/lingting/lingting-gpui-kit,lingting network control
+2026-10-23T07:37:12.295101Z,lingting-gpui-layout,26.10.1,0,0,https://github.com/lingting/lingting-gpui-kit,lingting network control
+2026-10-23T07:47:43.547682Z,libwireshark-derive,0.0.0-alpha.0,0,0,https://github.com/jose-pr/libwireshark-rs,Derive macros for libwireshark; use them through libwireshark's `derive` feature
+2026-10-23T07:47:57.301955Z,cargo-wireshark,0.0.0-alpha.0,0,0,https://github.com/jose-pr/libwireshark-rs,"Cargo subcommand for Wireshark plugin development: find the installation, and generate, fetch or publish libwireshark-sys header bundles"
+2026-10-23T07:49:02.961394Z,soroban-fuzz-core,0.1.0,0,0,https://github.com/OrderStream/soroban-fuzz,Deterministic host storage lifecycle and invariant fuzzer engine for Soroban smart contracts on Stellar
+2026-10-23T07:50:23.040091Z,soroban-security-kit,0.1.0,0,0,https://github.com/OrderStream/soroban-kit,"Production-ready security utilities, sliding-window event deduplication, and fixed-point math safeguards for Stellar Soroban smart contracts."
+2026-10-23T07:56:31.366697Z,lingting-gpui-kit,26.10.1,0,0,https://github.com/lingting/lingting-gpui-kit,lingting network control
+2026-10-23T07:56:34.556408Z,shellflow-dsl,0.4.11,0,0,https://github.com/longcipher/shellflow,"The shellflow deploy-script DSL: scanner, plan model, and target resolution."
+2026-10-23T07:58:37.803856Z,asm198x-ir,0.0.71,0,0,https://github.com/asm198x/asm198x,The contract between Asm198x's dialect front ends and its assembler back end
+2026-10-23T07:59:50.17567Z,bun-dotnet-host,1.4.7,0,0,https://github.com/aphrody-labs/bun,"CLR host for Bun: locates hostfxr (nethost semantics), runs the dotnet muxer in-process and binds UnmanagedCallersOnly entry points"
+2026-10-23T07:59:50.740382Z,bun_browser_detect,1.4.7,0,0,https://github.com/aphrody-labs/bun,Native technology and challenge detection for Bun
+2026-10-23T07:59:51.59246Z,bun_browser_extract,1.4.7,0,0,https://github.com/aphrody-labs/bun,"Bun content extraction, Markdown, chunking, SimHash, URL metadata, media and embed resolution."
+2026-10-23T07:59:52.124162Z,bun_browser_index,1.4.7,0,0,https://github.com/aphrody-labs/bun,HNSW approximate nearest-neighbour index with scalar int8 quantisation and mmap persistence
+2026-10-23T07:59:53.247744Z,bun_browser_net,1.4.7,0,0,https://github.com/aphrody-labs/bun-os,Bun browser module bun_browser_net.
+2026-10-23T08:00:15.838699Z,libwireshark-sys,0.0.0-alpha.0,0,0,https://github.com/jose-pr/libwireshark-rs,"Raw bindings to Wireshark's libwireshark (EPAN), generated from bundled public headers for each release line"
+2026-10-23T08:00:52.450896Z,thruput-rpc-api,0.3.2,0,0,https://github.com/thruputchain/xdrs,Stable API boundary for the Thruput ONC-RPC stack: sender/handler traits and shared response/error types.
+2026-10-23T08:04:14.290047Z,llm-prices,1.0.0,0,0,https://github.com/Mattbusel/llm-prices,"Dated, source-cited LLM API prices (Anthropic, OpenAI, Gemini, DeepSeek) per 1M tokens, with model-id lookup. No dependencies."
+2026-10-23T08:04:16.685902Z,libwireshark,0.0.0-alpha.0,0,0,https://github.com/jose-pr/libwireshark-rs,"Write Wireshark dissector plugins in Rust: a trait per protocol, typed preferences and fields, one macro for the plugin"
+2026-10-23T08:07:07.645216Z,appkit-rs,0.1.0,0,0,https://github.com/doom-fish/appkit-rs,"Safe Rust bindings for Apple's AppKit framework on macOS: windows, views, screens, the application and accessibility settings"
+2026-10-23T08:07:11.429736Z,foundation-rs,0.1.0,0,0,https://github.com/doom-fish/foundation-rs,Safe Rust bindings for Apple's Foundation framework on macOS: user defaults and process information
+2026-10-23T08:08:01.10254Z,tyx-derive,0.0.0,0,0,https://github.com/shllcd/tyx,Derive macro for tyx: binary codecs and IR export
+2026-10-23T08:08:09.819547Z,tyx-ir,0.0.0,0,0,https://github.com/shllcd/tyx,"IR model for tyx: schema description, merge, validation, compatibility"
+2026-10-23T08:08:14.976376Z,tyx,0.0.0,0,0,https://github.com/shllcd/tyx,Rust types are the schema: derive a compact binary codec and a language-neutral IR
+2026-10-23T08:12:04.460085Z,bun_browser_crawl,1.4.7,0,0,https://github.com/aphrody-labs/bun,Shared persistent crawl frontier and bounded Rust crawler for Bun.
+2026-10-23T08:15:02.693483Z,thruput-xdr-common,0.16.1,0,0,https://github.com/thruputchain/xdrs,XDR Serialization Library
+2026-10-23T08:15:09.883596Z,thruput-xdr-derive,0.16.1,0,0,https://github.com/thruputchain/xdrs,XDR Serialization Library
+2026-10-23T08:15:14.452646Z,thruput-xdr-repr,0.16.1,0,0,https://github.com/thruputchain/xdrs,Representations of XDR specs
+2026-10-23T08:15:19.376417Z,thruput-xdrs,0.16.1,0,0,https://github.com/thruputchain/xdrs,XDR Serialization Library
+2026-10-23T08:15:28.997691Z,thruput-rpc-driver,0.16.1,0,0,https://github.com/thruputchain/xdrs,Async ONC-RPC (RFC 5531) client/server library built on tokio.
+2026-10-23T08:16:57.348933Z,solana_kit_client,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_client,Reserved client crate for the off-chain Solana Kit client SDK; no SDK APIs are available in this placeholder
