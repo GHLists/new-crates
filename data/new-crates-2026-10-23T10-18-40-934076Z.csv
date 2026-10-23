@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T09:18:39.747169Z,filmcraft-apv,0.9.0,0,0,,"Clean-room Advanced Professional Video (APV, IETF RFC 9924) decoder and encoder"
+2026-10-23T09:19:03.042585Z,surform,0.1.0,0,0,https://github.com/jquesada2016/surform,Surform — a declarative Schema Definition Language (SDL) that compiles to SurrealQL DDL for SurrealDB v3
+2026-10-23T09:19:28.611096Z,kalua,0.1.0,0,0,https://github.com/lumen-oss/lux,Transpile Luau source code to Lua (kālua: cooking in an underground oven).
+2026-10-23T09:22:28.570659Z,grafana_utils,0.1.0,0,0,https://github.com/valeratrades/grafana_utils,"Published rate series (ECB, BLS, Eurostat) and deflated money bases, for SQLite-backed Grafana dashboards"
+2026-10-23T09:26:21.178903Z,fuzzy-score,0.1.4,0,0,https://github.com/cipansor/crateworks,"Fuzzy string matching scores compatible with Python's fuzzywuzzy: ratio, partial, token sort, token set and WRatio, plus extract and dedupe."
+2026-10-23T09:28:55.716592Z,encdr-skia,0.8.0,0,0,https://github.com/RufusIbiza/Encdr,GPU-accelerated Skia 2D screen renderer for encdr controller screens
+2026-10-23T09:29:57.149532Z,etalii-lark,0.2.1,0,0,https://github.com/vrenken/EtAlii.Lark,"A port of the Lark parsing toolkit to Rust: Lark EBNF grammars, Earley/LALR(1)/CYK parsers, basic/contextual/dynamic lexers, tree building, transformers and visitors."
+2026-10-23T09:30:41.683109Z,hopchat,0.1.0,0,0,https://github.com/bahdotsh/hopchat,"Offline terminal chat over an Offline Protocol mesh: no internet, no server"
+2026-10-23T09:30:47.827778Z,solana_kit_native,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_native,Reserved native adapter crate for the off-chain Solana Kit client SDK; no SDK APIs are available in this placeholder
+2026-10-23T09:31:16.618831Z,filmcraft-audio-dsp,0.9.0,0,0,,Real-time audio DSP for FilmCraft: BS.1770 / EBU R128 loudness metering and audio effects
+2026-10-23T09:32:22.392619Z,cjson-safe,0.0.1,0,0,https://github.com/Gordion-Solutions/cjson-rs,Memory-safe Rust replacement for cJSON (name reserved; real release coming)
+2026-10-23T09:39:37.523095Z,soroban-audit,0.1.0,0,0,https://github.com/OrderStream/soroban-fuzz,"Unified CLI binary for Soroban smart contracts: hooks WASM bytecode, executes invariant campaigns, tests TTL boundaries, and generates SHA-256 tamper-evident security audit certificates."
+2026-10-23T09:42:40.483099Z,merkle-log-db,0.1.0,0,0,https://github.com/OrderStream/merkle-log-db,"High-throughput, zero-dependency embedded append-only audit database in Rust with automated SHA-256 Merkle root computation on every write."
+2026-10-23T09:43:08.955664Z,filmcraft-docpath,0.1.0,0,0,https://github.com/storytold/craft-libs,Decide whether a file path or file URL stored in a document refers to a local file (vendored craft-docpath).
+2026-10-23T09:44:10.016043Z,prompt-firewall-wasm,0.1.0,0,0,https://github.com/OrderStream/prompt-firewall-wasm,"Sub-millisecond WebAssembly edge firewall detecting prompt injection, system prompt exfiltration, and jailbreak payloads via AST regex automata."
+2026-10-23T09:44:14.824277Z,dns-over-websocket,0.0.3,0,0,https://github.com/Sn0wo2/dns-over-websocket,Transport-independent DNS over WebSocket protocol
+2026-10-23T09:45:50.056141Z,amb,0.1.0,0,0,https://github.com/hasansezertasan/amb,"A terminal ambient-sound mixer: rain, thunder, wind, waves, fire and more, synthesised live"
+2026-10-23T09:46:08.223387Z,soroban-telemetry,0.1.0,0,0,https://github.com/OrderStream/soroban-telemetry,High-speed event listener and storage TTL monitor daemon for Stellar Soroban with abnormal gas surge detection and webhook dispatch.
+2026-10-23T09:46:45.807972Z,bothy-oauth,0.3.0,0,0,https://github.com/bothy-sync/bothy,"Google OAuth helpers for Bothy: loopback and device sign-in, token refresh and a token store."
+2026-10-23T09:48:54.585737Z,filmcraft-color,0.9.0,0,0,,"Colour science for FilmCraft: YUV matrices, transfer functions, camera log curves, gamuts, tone mapping and LUTs."
+2026-10-23T09:50:31.485255Z,spacelab-autodiff,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,Forward-mode automatic differentiation: dual numbers for exact Jacobians and sensitivities.
+2026-10-23T09:50:33.418896Z,spacelab-core,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"Typed epochs, angles and units for space data computation"
+2026-10-23T09:50:35.404677Z,spacelab-geomagnetism,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,IGRF-14 geomagnetic field and centred-dipole magnetic coordinates.
+2026-10-23T09:50:37.344656Z,spacelab-geometry,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"Computational geometry: exact predicates, convex hull, Delaunay triangulation and spherical Voronoi."
+2026-10-23T09:50:40.906488Z,spacelab-ionosphere,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"NeQuick-G (Galileo) ionospheric electron-density and slant-TEC model, verified against the JRC reference implementation."
+2026-10-23T09:52:25.170915Z,bixverse-sparse,0.9.1,0,0,https://github.com/GregorLueg/bixverse-rs,"Compressed sparse structures for bixverse: CSR/CSC storage, transposition and sparse arithmetic, with no dense linear algebra dependency."
+2026-10-23T09:52:55.908076Z,spacelab-signal,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,Space signal processing: the Radon transform and filtered back-projection (tomography / SAR back-projection).
+2026-10-23T09:53:31.14573Z,soroban-sdk-codegen,0.1.0,0,0,https://github.com/OrderStream/soroban-sdk-codegen,Multi-language client SDK generator CLI for Stellar Soroban: generates type-safe TypeScript and Python client SDKs from contract specs.
+2026-10-23T09:55:53.065221Z,vanagandr,0.1.0,0,0,https://gitlab.com/cyberactivity/tyr,"Tools for NVD, Cisa (kev), Att&ck, Mitre data exploration and collecting"
+2026-10-23T09:56:26.370944Z,baldur,0.1.0,0,0,https://gitlab.com/cyberactivity/tyr,"Application for CAPEC, CISA, CPE, CVE, CWE and MITRE Att&ck managing and following the associated threats"
+2026-10-23T09:56:54.109399Z,configurant-gui,0.2.14,0,0,https://github.com/ThinkersJournal/configurant,"Graphical front end for ConfigurAnt: edit a project's configuration file against its schema, review the changes, and confirm before anything is written."
+2026-10-23T09:56:55.135115Z,configurant-scan,0.2.14,0,0,https://github.com/ThinkersJournal/configurant,Scan assist for ConfigurAnt: find the environment variables a Rust project reads (language-server confirmed) and propose schema entries for a human to accept. Suggests only; writes nothing.
+2026-10-23T09:56:55.992769Z,configurant-tui,0.2.14,0,0,https://github.com/ThinkersJournal/configurant,"Terminal front end for ConfigurAnt: edit a project's configuration file against its schema, review the changes, and confirm before anything is written."
+2026-10-23T09:59:09.039107Z,filmcraft-geom,0.9.0,0,0,,"2D geometry for FilmCraft: vectors, rectangles and affine transforms."
+2026-10-23T09:59:13.142639Z,wasm-gas-profiler,0.1.0,0,0,https://github.com/OrderStream/wasm-gas-profiler,Instruction-level WASM opcode analyzer and CPU fuel profiler for Soroban smart contracts.
+2026-10-23T10:02:55.324664Z,spacelab-slr,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"Satellite laser ranging: CRD normal points, SINEX station coordinates, Mendes-Pavlis refraction, IERS station displacement and the two-way range observation model."
+2026-10-23T10:04:17.942368Z,tidyup-cli,0.1.1,0,0,https://github.com/utkarsh-saxena271/tidyup,A CLI tool to organize files by type.
+2026-10-23T10:05:23.760179Z,licentivo-launch,0.1.1,0,0,https://github.com/spf86/licentivo-launch-sdk,Launch account lifecycle with official Licentivo runtime authorization
+2026-10-23T10:09:00.391203Z,filmcraft-dng,0.9.0,0,0,,"Clean-room DNG / CinemaDNG camera RAW decoder (TIFF container, lossless JPEG, DNG colour pipeline)"
+2026-10-23T10:12:55.472691Z,spacelab-vision,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"deepvision: pure-Rust CNN inference primitives (conv2d, relu, pooling, dense, softmax) for on-board / offline image models."
+2026-10-23T10:16:20.850928Z,soroban-snapshot-diff,0.1.0,0,0,https://github.com/OrderStream/soroban-snapshot-diff,Ledger state snapshot forking and local mock replayer for Stellar Soroban contracts.

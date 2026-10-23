@@ -8,35 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 09:18 UTC
+## Latest list — 2026-10-23 10:18 UTC
 
-New crates published between 2026-10-23 08:20 UTC and 2026-10-23 09:18 UTC.
+New crates published between 2026-10-23 09:18 UTC and 2026-10-23 10:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-23T09-18-38-069668Z.csv)
+[Full CSV](data/new-crates-2026-10-23T10-18-40-934076Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-23 08:20:55 | [bun_git](https://crates.io/crates/bun_git) | 1.4.7 | 0 | Native Git (gix) and GitHub (octocrab) integration: repository inspection, hist… |
-| 2026-10-23 08:21:02 | [erbridge-core](https://crates.io/crates/erbridge-core) | 0.3.0 | 0 | TCP/UDP forwarding and reverse tunnels over Noise, with a multi-tenant SNI-rout… |
-| 2026-10-23 08:21:04 | [erbridge](https://crates.io/crates/erbridge) | 0.3.0 | 0 | TCP/UDP port forwarder and reverse (NAT-traversal) tunnel with a terminal UI an… |
-| 2026-10-23 08:22:39 | [iond-server](https://crates.io/crates/iond-server) | 0.4.0 | 0 | iond server: dispatches HTTP requests to wasm component apps |
-| 2026-10-23 08:22:56 | [iond](https://crates.io/crates/iond) | 0.4.0 | 0 | The iond app SDK: bindings for iond's HTTP interface, streamed bodies and serve… |
-| 2026-10-23 08:23:06 | [gukhanmun-loanwords](https://crates.io/crates/gukhanmun-loanwords) | 0.3.0-dev.0 | 0 | Bundled NIKL loanword spelling examples for Gukhanmun. |
-| 2026-10-23 08:29:28 | [bun_x](https://crates.io/crates/bun_x) | 1.4.7 | 0 | X / Twitter native GraphQL + REST client (cookie auth, no API key required). |
-| 2026-10-23 08:37:18 | [pq-glue](https://crates.io/crates/pq-glue) | 0.1.0 | 0 | Glue Parquet files together by copying their encoded row groups, without decodi… |
-| 2026-10-23 08:46:11 | [var-io](https://crates.io/crates/var-io) | 0.1.0 | 0 | A small crate to provide reading/writing capabilities for VarInts as per the Mi… |
-| 2026-10-23 08:49:03 | [filmcraft-bitstream](https://crates.io/crates/filmcraft-bitstream) | 0.9.0 | 0 | Bit-level reading and writing shared by FilmCraft's codec crates, with Exp-Golo… |
-| 2026-10-23 08:49:14 | [native-solver](https://crates.io/crates/native-solver) | 0.1.0 | 0 | Heads-up postflop No-Limit Hold'em solver: hand evaluator, ranges, betting tree… |
-| 2026-10-23 08:59:01 | [filmcraft-aac](https://crates.io/crates/filmcraft-aac) | 0.9.0 | 0 | Clean-room AAC-LC encoder and decoder (ISO/IEC 14496-3) |
-| 2026-10-23 09:01:25 | [lang198x-syntax](https://crates.io/crates/lang198x-syntax) | 0.1.0 | 0 | The shared lossless syntax tree for Lang198x language front ends: source text,… |
-| 2026-10-23 09:01:57 | [hpsvm-fixture-bench](https://crates.io/crates/hpsvm-fixture-bench) | 0.2.2 | 0 | Compute-unit benchmarking and reporting for hpsvm fixtures |
-| 2026-10-23 09:02:20 | [hpsvm-fixture-firedancer](https://crates.io/crates/hpsvm-fixture-firedancer) | 0.2.2 | 0 | FireDancer protobuf fixture codec for hpsvm |
-| 2026-10-23 09:02:37 | [socksaddr](https://crates.io/crates/socksaddr) | 0.0.4 | 0 | SOCKS and Xray address encoding and decoding |
-| 2026-10-23 09:03:29 | [invisible-watermark](https://crates.io/crates/invisible-watermark) | 0.2.0 | 0 | Hide a short payload in the least significant bits of an image |
-| 2026-10-23 09:03:56 | [iwm](https://crates.io/crates/iwm) | 0.2.0 | 0 | Embed and extract invisible text watermarks in images |
-| 2026-10-23 09:09:51 | [filmcraft-ac3](https://crates.io/crates/filmcraft-ac3) | 0.9.0 | 0 | Clean-room AC-3 and E-AC-3 (Dolby Digital / Dolby Digital Plus, ATSC A/52) audi… |
-| 2026-10-23 09:10:47 | [accesskit-rs](https://crates.io/crates/accesskit-rs) | 0.1.0 | 0 | AccessKit adapter for AppKit on macOS, with a Swift bridge in place of Objectiv… |
-| 2026-10-23 09:16:57 | [fireargs](https://crates.io/crates/fireargs) | 0.1.0 | 0 | Build CLIs from serde structs: typed input and output, JSON I/O and LLM-ready m… |
+| 2026-10-23 09:18:39 | [filmcraft-apv](https://crates.io/crates/filmcraft-apv) | 0.9.0 | 0 | Clean-room Advanced Professional Video (APV, IETF RFC 9924) decoder and encoder |
+| 2026-10-23 09:19:03 | [surform](https://crates.io/crates/surform) | 0.1.0 | 0 | Surform — a declarative Schema Definition Language (SDL) that compiles to Surre… |
+| 2026-10-23 09:19:28 | [kalua](https://crates.io/crates/kalua) | 0.1.0 | 0 | Transpile Luau source code to Lua (kālua: cooking in an underground oven). |
+| 2026-10-23 09:22:28 | [grafana_utils](https://crates.io/crates/grafana_utils) | 0.1.0 | 0 | Published rate series (ECB, BLS, Eurostat) and deflated money bases, for SQLite… |
+| 2026-10-23 09:26:21 | [fuzzy-score](https://crates.io/crates/fuzzy-score) | 0.1.4 | 0 | Fuzzy string matching scores compatible with Python's fuzzywuzzy: ratio, partia… |
+| 2026-10-23 09:28:55 | [encdr-skia](https://crates.io/crates/encdr-skia) | 0.8.0 | 0 | GPU-accelerated Skia 2D screen renderer for encdr controller screens |
+| 2026-10-23 09:29:57 | [etalii-lark](https://crates.io/crates/etalii-lark) | 0.2.1 | 0 | A port of the Lark parsing toolkit to Rust: Lark EBNF grammars, Earley/LALR(1)/… |
+| 2026-10-23 09:30:41 | [hopchat](https://crates.io/crates/hopchat) | 0.1.0 | 0 | Offline terminal chat over an Offline Protocol mesh: no internet, no server |
+| 2026-10-23 09:30:47 | [solana_kit_native](https://crates.io/crates/solana_kit_native) | 0.0.0 | 0 | Reserved native adapter crate for the off-chain Solana Kit client SDK; no SDK A… |
+| 2026-10-23 09:31:16 | [filmcraft-audio-dsp](https://crates.io/crates/filmcraft-audio-dsp) | 0.9.0 | 0 | Real-time audio DSP for FilmCraft: BS.1770 / EBU R128 loudness metering and aud… |
+| 2026-10-23 09:32:22 | [cjson-safe](https://crates.io/crates/cjson-safe) | 0.0.1 | 0 | Memory-safe Rust replacement for cJSON (name reserved; real release coming) |
+| 2026-10-23 09:39:37 | [soroban-audit](https://crates.io/crates/soroban-audit) | 0.1.0 | 0 | Unified CLI binary for Soroban smart contracts: hooks WASM bytecode, executes i… |
+| 2026-10-23 09:42:40 | [merkle-log-db](https://crates.io/crates/merkle-log-db) | 0.1.0 | 0 | High-throughput, zero-dependency embedded append-only audit database in Rust wi… |
+| 2026-10-23 09:43:08 | [filmcraft-docpath](https://crates.io/crates/filmcraft-docpath) | 0.1.0 | 0 | Decide whether a file path or file URL stored in a document refers to a local f… |
+| 2026-10-23 09:44:10 | [prompt-firewall-wasm](https://crates.io/crates/prompt-firewall-wasm) | 0.1.0 | 0 | Sub-millisecond WebAssembly edge firewall detecting prompt injection, system pr… |
+| 2026-10-23 09:44:14 | [dns-over-websocket](https://crates.io/crates/dns-over-websocket) | 0.0.3 | 0 | Transport-independent DNS over WebSocket protocol |
+| 2026-10-23 09:45:50 | [amb](https://crates.io/crates/amb) | 0.1.0 | 0 | A terminal ambient-sound mixer: rain, thunder, wind, waves, fire and more, synt… |
+| 2026-10-23 09:46:08 | [soroban-telemetry](https://crates.io/crates/soroban-telemetry) | 0.1.0 | 0 | High-speed event listener and storage TTL monitor daemon for Stellar Soroban wi… |
+| 2026-10-23 09:46:45 | [bothy-oauth](https://crates.io/crates/bothy-oauth) | 0.3.0 | 0 | Google OAuth helpers for Bothy: loopback and device sign-in, token refresh and… |
+| 2026-10-23 09:48:54 | [filmcraft-color](https://crates.io/crates/filmcraft-color) | 0.9.0 | 0 | Colour science for FilmCraft: YUV matrices, transfer functions, camera log curv… |
+| 2026-10-23 09:50:31 | [spacelab-autodiff](https://crates.io/crates/spacelab-autodiff) | 0.1.0 | 0 | Forward-mode automatic differentiation: dual numbers for exact Jacobians and se… |
+| 2026-10-23 09:50:33 | [spacelab-core](https://crates.io/crates/spacelab-core) | 0.1.0 | 0 | Typed epochs, angles and units for space data computation |
+| 2026-10-23 09:50:35 | [spacelab-geomagnetism](https://crates.io/crates/spacelab-geomagnetism) | 0.1.0 | 0 | IGRF-14 geomagnetic field and centred-dipole magnetic coordinates. |
+| 2026-10-23 09:50:37 | [spacelab-geometry](https://crates.io/crates/spacelab-geometry) | 0.1.0 | 0 | Computational geometry: exact predicates, convex hull, Delaunay triangulation a… |
+| 2026-10-23 09:50:40 | [spacelab-ionosphere](https://crates.io/crates/spacelab-ionosphere) | 0.1.0 | 0 | NeQuick-G (Galileo) ionospheric electron-density and slant-TEC model, verified… |
+| 2026-10-23 09:52:25 | [bixverse-sparse](https://crates.io/crates/bixverse-sparse) | 0.9.1 | 0 | Compressed sparse structures for bixverse: CSR/CSC storage, transposition and s… |
+| 2026-10-23 09:52:55 | [spacelab-signal](https://crates.io/crates/spacelab-signal) | 0.1.0 | 0 | Space signal processing: the Radon transform and filtered back-projection (tomo… |
+| 2026-10-23 09:53:31 | [soroban-sdk-codegen](https://crates.io/crates/soroban-sdk-codegen) | 0.1.0 | 0 | Multi-language client SDK generator CLI for Stellar Soroban: generates type-saf… |
+| 2026-10-23 09:55:53 | [vanagandr](https://crates.io/crates/vanagandr) | 0.1.0 | 0 | Tools for NVD, Cisa (kev), Att&ck, Mitre data exploration and collecting |
+| 2026-10-23 09:56:26 | [baldur](https://crates.io/crates/baldur) | 0.1.0 | 0 | Application for CAPEC, CISA, CPE, CVE, CWE and MITRE Att&ck managing and follow… |
+| 2026-10-23 09:56:54 | [configurant-gui](https://crates.io/crates/configurant-gui) | 0.2.14 | 0 | Graphical front end for ConfigurAnt: edit a project's configuration file agains… |
+| 2026-10-23 09:56:55 | [configurant-scan](https://crates.io/crates/configurant-scan) | 0.2.14 | 0 | Scan assist for ConfigurAnt: find the environment variables a Rust project read… |
+| 2026-10-23 09:56:55 | [configurant-tui](https://crates.io/crates/configurant-tui) | 0.2.14 | 0 | Terminal front end for ConfigurAnt: edit a project's configuration file against… |
+| 2026-10-23 09:59:09 | [filmcraft-geom](https://crates.io/crates/filmcraft-geom) | 0.9.0 | 0 | 2D geometry for FilmCraft: vectors, rectangles and affine transforms. |
+| 2026-10-23 09:59:13 | [wasm-gas-profiler](https://crates.io/crates/wasm-gas-profiler) | 0.1.0 | 0 | Instruction-level WASM opcode analyzer and CPU fuel profiler for Soroban smart… |
+| 2026-10-23 10:02:55 | [spacelab-slr](https://crates.io/crates/spacelab-slr) | 0.1.0 | 0 | Satellite laser ranging: CRD normal points, SINEX station coordinates, Mendes-P… |
+| 2026-10-23 10:04:17 | [tidyup-cli](https://crates.io/crates/tidyup-cli) | 0.1.1 | 0 | A CLI tool to organize files by type. |
+| 2026-10-23 10:05:23 | [licentivo-launch](https://crates.io/crates/licentivo-launch) | 0.1.1 | 0 | Launch account lifecycle with official Licentivo runtime authorization |
+| 2026-10-23 10:09:00 | [filmcraft-dng](https://crates.io/crates/filmcraft-dng) | 0.9.0 | 0 | Clean-room DNG / CinemaDNG camera RAW decoder (TIFF container, lossless JPEG, D… |
+| 2026-10-23 10:12:55 | [spacelab-vision](https://crates.io/crates/spacelab-vision) | 0.1.0 | 0 | deepvision: pure-Rust CNN inference primitives (conv2d, relu, pooling, dense, s… |
+| 2026-10-23 10:16:20 | [soroban-snapshot-diff](https://crates.io/crates/soroban-snapshot-diff) | 0.1.0 | 0 | Ledger state snapshot forking and local mock replayer for Stellar Soroban contr… |
 
 ## Data source
 
