@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T16:18:50.140128Z,aphrody-llama,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,Safe Rust bindings for llama.cpp with runtime dynamic loading.
+2026-10-23T16:24:11.82897Z,solana_kit_token,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_token,Reserved SPL Token codecs and instruction builders for the off-chain Solana Kit SDK; this placeholder supplies no SDK APIs
+2026-10-23T16:24:55.470833Z,rockets-engine,0.1.0,0,0,https://github.com/ajokela/rockets-engine,Point-mass powered flight with ballistics-engine forces and guidance hooks
+2026-10-23T16:25:44.002192Z,bdk_turso,0.1.0,0,0,,Turso persistence backend for BDK
+2026-10-23T16:26:46.638552Z,miju-core,0.1.0,0,0,https://github.com/nanfeng-labs/miju,"Task backends, worker execution, and lifecycle management for miju"
+2026-10-23T16:26:52.881184Z,miju-codec,0.1.0,0,0,https://github.com/nanfeng-labs/miju,"JSON, MessagePack, and Bincode codecs for miju task data and results"
+2026-10-23T16:26:57.772295Z,miju-file-storage,0.1.0,0,0,https://github.com/nanfeng-labs/miju,File-backed task storage with JSON and CSV adapters for miju
+2026-10-23T16:27:06.485247Z,miju-workflow,0.1.0,0,0,https://github.com/nanfeng-labs/miju,Sequential and graph workflow execution with in-memory task results for miju
+2026-10-23T16:27:12.530832Z,miju,0.1.0,0,0,https://github.com/nanfeng-labs/miju,Application-facing task processing APIs and worker middleware for miju
+2026-10-23T16:28:29.114845Z,custyn,0.0.1,0,0,,Custyn CLI (early placeholder release; prints its version).
+2026-10-23T16:28:49.287261Z,aphrody-ml-config,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,Extensible typed TOML configuration storage of the Aphrody ML base (~/.koharu/config.toml).
+2026-10-23T16:30:51.008172Z,opnsense-client,0.1.1,0,0,https://github.com/boondocklabs/opnsense-client,Asynchronous OPNsense API client for Tokio
+2026-10-23T16:30:58.783878Z,nexora-macros,0.0.1,0,0,https://github.com/trunkszi/nexora-rs,Validated protocol literals and declarative Nexora interfaces
+2026-10-23T16:34:05.905195Z,tmux-zj,0.1.0,0,0,https://github.com/Melon-cream/tmux-zj,"Zellij-style modal keybindings for tmux, with a status bar that can never get stuck"
+2026-10-23T16:34:40.690325Z,sisim-core,0.0.0-alpha.0,0,0,,Placeholder for soon-to-be-published crate
+2026-10-23T16:35:02.153784Z,nexora,0.0.1,0,0,https://github.com/trunkszi/nexora-rs,"Single-threaded io_uring HTTP/1.1, HTTP/2, WebSocket, and TLS proactor client and server SDK"
+2026-10-23T16:35:05.238416Z,sisim,0.0.0-alpha.0,0,0,,Placeholder for soon-to-be-published crate
+2026-10-23T16:36:00.271644Z,siperf,0.0.0-alpha.0,0,0,,Placeholder for soon-to-be-published crate
+2026-10-23T16:38:50.693373Z,aphrody-ml-runtime,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Runtime package discovery, downloading, and dynamic library loading for the Aphrody ML base."
+2026-10-23T16:47:45.776658Z,clickhouse-sys,0.0.1,0,0,https://github.com/trunkszi/clickhouse-cxx,Static clickhouse-cpp bridge for the clickhouse-cxx workspace
+2026-10-23T16:48:52.863556Z,aphrody-llama-server,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Managed local inference: a supervisor for llama.cpp's `llama-server`, driven as an external binary (never linked). Reads GGUF facts, probes what the installed build supports, plans the launch (contex…"
+2026-10-23T16:52:06.063039Z,drevo-auth,0.1.0,0,0,https://github.com/ice1x/drevo,"Authentication and role-based access control: Argon2id users, session tokens, roles and a deny-overrides access policy"
+2026-10-23T16:53:48.659491Z,mux-cool-rs,0.0.3,0,0,https://github.com/Sn0wo2/mux-cool-rs,Xray mux.cool frame encoding and decoding
+2026-10-23T16:54:53.048574Z,clickhouse-cxx-macros,0.0.1,0,0,https://github.com/trunkszi/clickhouse-cxx,Procedural macros for typed ClickHouse rows and zero-copy batches in clickhouse-cxx
+2026-10-23T16:55:01.061446Z,synaping,0.0.1,0,0,,Reserved by Synaping Inc.
+2026-10-23T16:57:14.066516Z,cortexkit-llm-tools,0.1.0,0,0,https://github.com/cortexkit/commons,"Shared wire contracts, schemas and validation for CortexKit's single-call LLM tools."
+2026-10-23T16:58:50.118318Z,aphrody-sql,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Shared SQL owner for Aphrody: PostgreSQL pool (TLS by URL, pgvector), SQLite open policy (WAL, sqlite-vec), checksummed plain-SQL migrations and database URL resolution."
+2026-10-23T17:00:15.294436Z,nu-lint-analysis,1.6.0,0,0,https://codeberg.org/wvhulle/nu-lint,"AST analysis, rule trait and lint engine shared by nu-lint and its rules"
+2026-10-23T17:00:42.113812Z,nu-lint-rules,1.6.0,0,0,https://codeberg.org/wvhulle/nu-lint,Lint rules for Nushell scripts used by nu-lint
+2026-10-23T17:04:59.572781Z,clickhouse-cxx,0.0.1,0,0,https://github.com/trunkszi/clickhouse-cxx,Synchronous ClickHouse client with derived row batches and Native TCP transport
+2026-10-23T17:05:43.858193Z,fips204-ffi,0.5.0,0,0,https://github.com/integritychain/fips204,C shared library exposing FIPS 204: Module-Lattice-Based Digital Signature Standard
+2026-10-23T17:05:57.888993Z,fips205-ffi,0.5.0,0,0,https://github.com/integritychain/fips205,C shared library exposing FIPS 205: Stateless Hash-Based Digital Signature Standard
+2026-10-23T17:07:26.029575Z,solvano,0.0.1,0,0,,Reserved for the Solvano SDK — https://solvano.ai
+2026-10-23T17:08:51.710333Z,aphrody-store,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"aphrody-store: the single agent-home database (`<home>/db/aphrody.sqlite`): per-profile path resolution, versioned migrations, source/file fingerprints, pipeline journal, sync state and checksum-veri…"
+2026-10-23T17:14:23.741246Z,messh,0.1.0,0,0,https://github.com/messhio/messh,"Sign and verify HTTP requests as a messh identity (Web Bot Auth, RFC 9421, Ed25519)"
+2026-10-23T17:14:55.223569Z,librdkafka-rs-sys,0.0.1,0,0,https://github.com/trunkszi/librdkafka-rs,Bundled librdkafka C/C++ bridge for the librdkafka-rs workspace
