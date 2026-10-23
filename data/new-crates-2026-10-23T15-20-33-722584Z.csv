@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T14:22:29.879223Z,dawkey-app,0.1.0,0,0,https://github.com/quonic/dawkey.git,"Dawkey's application: views, UI actions, and the App state shared by the GUI and MCP"
+2026-10-23T14:23:26.26497Z,larust-image,0.9.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-23T14:24:25.25711Z,oxibrain-tokenizer-local,0.20.1,0,0,,Offline tokenizer artifact adapter for oxibrain
+2026-10-23T14:28:55.498782Z,aphrody-nie-formats,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Parsers de formats Level-5 (CPK, cfg.bin, G4*, CriLayla, Criware) portés en Rust no_std-friendly pour nie headless + wasm"
+2026-10-23T14:29:33.222513Z,elrio,0.0.1,0,0,,Workflow engine for biotech. Not yet released.
+2026-10-23T14:29:39.833867Z,uhh,0.1.0,0,0,https://github.com/Oliv3rmoon/uhh,"Explains a shell command flag by flag, from the man pages already on your machine. Offline explainshell for your terminal."
+2026-10-23T14:30:26.651329Z,fluxgate,1.0.0,0,0,https://github.com/forgeopslabs/fluxgate-rust,"Client for the FluxGate feature toggle edge server, over OFREP, with an optional OpenFeature provider"
+2026-10-23T14:30:54.548728Z,octri-parser,0.1.2,0,0,https://github.com/octridev/octri-openapi-parser,"Source-aware OpenAPI parser and reference graph, with no ambient I/O"
+2026-10-23T14:30:57.523639Z,octri-parser-native,0.1.2,0,0,https://github.com/octridev/octri-openapi-parser,Explicit file and HTTP resolver policies for the Octri parser
+2026-10-23T14:30:59.668775Z,octri-parser-cli,0.1.2,0,0,https://github.com/octridev/octri-openapi-parser,Native Octri OpenAPI parser command-line interface
+2026-10-23T14:31:00.116546Z,octri-parser-sdk,0.1.2,0,0,https://github.com/octridev/octri-openapi-parser,Ergonomic native Rust facade for the Octri OpenAPI parser
+2026-10-23T14:37:14.105628Z,knut-llm,2023.8.1,0,0,,knut llm tool - part of knut
+2026-10-23T14:37:25.886401Z,evm2,0.0.0-reserved,0,0,,evm2
+2026-10-23T14:37:29.127095Z,evm2-cli,0.0.0-reserved,0,0,,evm2-cli
+2026-10-23T14:37:31.79209Z,evm2-macros,0.0.0-reserved,0,0,,evm2-macros
+2026-10-23T14:37:34.908314Z,evm2-eest,0.0.0-reserved,0,0,,evm2-eest
+2026-10-23T14:37:38.056426Z,evm2-inspectors,0.0.0-reserved,0,0,,evm2-inspectors
+2026-10-23T14:38:50.9351Z,aphrody-nie-render3d,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Renderer 3D du moteur nie : charge un GLB réel (assets CPK) et le rend en perspective (rastérisation CPU z-buffer + éclairage) → PNG/MP4 turntable, headless"
+2026-10-23T14:40:11.713599Z,knut-plan,2023.8.1,0,0,,knut plan tool - part of knut
+2026-10-23T14:43:38.999273Z,dawkey-wayland,0.1.0,0,0,https://github.com/quonic/dawkey.git,"Dawkey's Wayland window: client-side decorations, input, fractional scaling, wgpu surface"
+2026-10-23T14:48:50.608028Z,aphrody-nie-runtime,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Moteur de jeu nie : boucle intégrée monde + physique + rendu top-down → frames/MP4 (headless, déterministe)"
+2026-10-23T14:50:18.01242Z,nmcl,0.1.0,0,0,https://github.com/nasyt233/nmcl,A Minecraft Starter Based on Terminal，一个基于终端的Minecraft启动器
+2026-10-23T14:53:04.043468Z,dawkey-mcp,0.1.0,0,0,https://github.com/quonic/dawkey.git,Dawkey's MCP server: tools for Claude and for the test harness
+2026-10-23T14:53:40.459691Z,dawkey,0.1.0,0,0,https://github.com/quonic/dawkey.git,A digital audio workstation for the Linux (Wayland + PipeWire) desktop
+2026-10-23T14:54:55.303686Z,nosqlsync-core,0.1.1,0,0,https://github.com/NoSQLSync/nosqlsync,"Schema inference and relational modeling for NoSQL-to-SQL migrations. Pure, no I/O."
+2026-10-23T14:54:57.208718Z,nosqlsync,0.1.1,0,0,https://github.com/NoSQLSync/nosqlsync,"Migrate MongoDB to PostgreSQL with a real relational schema: analyze, plan, migrate, validate."
+2026-10-23T14:56:51.213789Z,dispost,0.1.1,0,0,https://github.com/michel-kraemer/dispost,An event bus based on strongly consistent distributed data structures
+2026-10-23T14:58:51.458219Z,aphrody-nie-net,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"nie online mode — multiplayer networking engine, Inacode room lobby, matchmaking, and deterministic rollback/lockstep synchronization"
+2026-10-23T15:08:40.090548Z,aktor-remote,0.0.9,0,0,https://github.com/Viterkim/aktor,Typed Aktor calls to independently running services
+2026-10-23T15:08:47.075412Z,gled-migrate,2.31.0,0,0,https://gitlab.com/photonenkollektiv/gled2,"Brings gled's asset files to the current format: converts old SVG lamps and projects, and stamps every file with its version"
+2026-10-23T15:08:51.051826Z,bun-steam,1.4.7,0,0,https://github.com/aphrody-labs/bun-os,"Bun OS Steam owner: VDF text/binary parser and writer, install and library discovery, client configuration, Proton launch tuning, Remote Play state and the native depot client."
+2026-10-23T15:16:04.863402Z,refquiem,0.1.0,0,0,https://github.com/LucaCappelletti94/cargo-refquiem,A cargo requiem for the refs your Rust code left behind
+2026-10-23T15:16:06.261573Z,knut-py,2023.8.1,0,0,,Python bindings for knut
+2026-10-23T15:16:07.041131Z,knut-tiles,2023.8.1,0,0,,knut tiles tool - part of knut
+2026-10-23T15:16:07.515414Z,knut-train,2023.8.1,0,0,,knut train tool - part of knut
+2026-10-23T15:18:04.640956Z,jackdaw_input,0.20.0-rc.1,0,0,https://github.com/jbuehler23/jackdaw,"Input actions for the jackdaw editor: contexts, actions and bindings evaluated from bevy_input"
+2026-10-23T15:18:26.353349Z,jackdaw_package,0.20.0-rc.1,0,0,https://github.com/jbuehler23/jackdaw,"Signed .jdext extension bundles for Jackdaw: format, verification and installation"
+2026-10-23T15:18:30.558725Z,jackdaw_releases,0.20.0-rc.1,0,0,https://github.com/jbuehler23/jackdaw,"Jackdaw's signed release index and the registry of installed editors, shared by jd and the editor"
+2026-10-23T15:18:39.584786Z,solana_kit_signers,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_signers,Reserved portable signer capabilities for the off-chain Solana Kit SDK; this placeholder supplies no SDK APIs
+2026-10-23T15:18:54.139487Z,bun-windows-winclean,1.4.7,0,0,https://github.com/aphrody-labs/bun,Canonical Bun Windows SDK for WinClean-compatible automation and diagnostics.
+2026-10-23T15:19:21.70018Z,evm2-jit,0.0.0-reserved,0,0,,evm2-jit
+2026-10-23T15:19:30.583824Z,evm2-jit-backend,0.0.0-reserved,0,0,,evm2-jit-backend
+2026-10-23T15:19:40.786552Z,evm2-jit-build,0.0.0-reserved,0,0,,evm2-jit-build
+2026-10-23T15:19:42.342098Z,cw32l012-hal,0.8.0,0,0,,no_std HAL for the CW32L012 Cortex-M0+ low-power MCU (Wuhan Xinyuan / CMSemicon)
+2026-10-23T15:19:54.36509Z,evm2-jit-builtins,0.0.0-reserved,0,0,,evm2-jit-builtins
+2026-10-23T15:20:15.452716Z,knut-web,2023.8.1,0,0,,knut web tool - part of knut
