@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T10:18:43.08742Z,filmcraft-time,0.9.0,0,0,,"Exact media time for FilmCraft: integer ticks, rational frame rates and timecode."
+2026-10-23T10:19:39.886102Z,soroban-multisig-timelock,0.1.0,0,0,https://github.com/OrderStream/soroban-multisig-timelock,Production-ready multi-signature treasury and streaming timelock smart contract in Rust with emergency veto controls and storage TTL management.
+2026-10-23T10:20:06.306803Z,shipcheck,0.0.1,0,0,https://github.com/gabrielkoerich/shipcheck,"Run your CI checks locally and post the required GitHub check. Launching soon, see https://shipcheck.run"
+2026-10-23T10:20:16.447826Z,rs_calc,0.1.3,0,0,https://github.com/Jim-2330/rs_calc,A small calculator made using Rust
+2026-10-23T10:22:05.801672Z,infrarust-plugin-admin-api,2.0.0-beta.4,0,0,https://github.com/Shadowner/Infrarust,HTTP REST API plugin for Infrarust proxy administration
+2026-10-23T10:22:18.032252Z,infrarust-plugin-server-wake,2.0.0-beta.4,0,0,https://github.com/Shadowner/Infrarust,On-demand backend wake-up plugin for the Infrarust Minecraft proxy
+2026-10-23T10:22:20.798464Z,infrarust-plugin-macros,2.0.0-beta.4,0,0,https://github.com/Shadowner/Infrarust,Proc-macros for authoring Infrarust WASM plugins with infrarust-plugin-sdk
+2026-10-23T10:22:38.426805Z,infrarust-plugin-sdk,2.0.0-beta.4,0,0,https://github.com/Shadowner/Infrarust,Guest SDK for authoring Infrarust WASM plugins (infrarust:plugin@0.3.0)
+2026-10-23T10:22:56.213383Z,spacelab-astro,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"Two-body and conic mission design: universal-variable Kepler, Lambert transfers, patched conics."
+2026-10-23T10:23:14.597917Z,infrarust-plugin-auth,2.0.0-beta.4,0,0,https://github.com/Shadowner/Infrarust,"Offline-mode authentication plugin for the Infrarust Minecraft proxy (login/register, premium auto-login)"
+2026-10-23T10:29:09.246339Z,filmcraft-frame,0.9.0,0,0,,Video frames and audio buffers with explicit colour metadata
+2026-10-23T10:29:49.073006Z,soroban-oracle-verifier,0.1.0,0,0,https://github.com/OrderStream/soroban-oracle-verifier,Multi-source decentralized price oracle aggregator contract with Chauvenet outlier rejection and TWAP calculations.
+2026-10-23T10:30:14.699368Z,geopotential,0.1.1,0,0,https://github.com/FusionVault/quantum-gravimeter,"Spherical-harmonic gravity fields: stable normalized Legendre functions to degree 2700, potential and gradient synthesis, grids of geoid/gravity/water height, degree spectra, tide systems and ICGEM t…"
+2026-10-23T10:30:29.372039Z,gravity-field,0.1.0,0,0,https://github.com/FusionVault/quantum-gravimeter,"Readers for satellite gravity-field files: ICGEM .gfc models, static and time-variable (icgem1.0/2.0), tolerant of real COST-G, Swarm and GOCO files."
+2026-10-23T10:30:33.41243Z,gravimetry,0.1.0,0,0,https://github.com/FusionVault/quantum-gravimeter,"GRACE-style processing of monthly gravity fields: load Love numbers, Gaussian smoothing, anomalies against a baseline mean, for equivalent water height maps."
+2026-10-23T10:30:37.956115Z,satgrav,0.1.0,0,0,https://github.com/FusionVault/quantum-gravimeter,"Instrument and mission models for satellite gravimetry: electrostatic and cold-atom (atom-interferometer) accelerometers and gradiometers, laser ranging, pair line-of-sight noise, and gravity-field e…"
+2026-10-23T10:31:15.053862Z,rutis-macros,0.15.0,0,0,https://github.com/arcships/rutis,"The procedural macros of rutis: #[rutis::service], which serves a Rust type's methods to the plugins of other languages"
+2026-10-23T10:32:52.994027Z,tree-sitter-ratslang,0.2.0,0,0,https://codeberg.org/stelzo/tree-sitter-ratslang,Tree-sitter grammar for the Ratslang configuration language
+2026-10-23T10:32:57.912965Z,spacelab-earthvision,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,Earth-observation foundations: viewing geometry (sun/sensor angles) and Monte Carlo atmospheric radiative transfer (Marchuk's method).
+2026-10-23T10:34:56.625742Z,solana_kit_browser,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_browser,Reserved browser adapter crate for the off-chain Solana Kit client SDK; no SDK APIs are available in this placeholder
+2026-10-23T10:36:13.43555Z,nexusq-pki-cluster,4.1.1,0,0,https://github.com/lecodev-26/nexus-q,Tenant-routed CA and OCSP runtime for NexusQ HA deployments
+2026-10-23T10:37:22.351048Z,reddb-io-engine,1.26.1,0,0,https://github.com/reddb-io/reddb,Shared RedDB query execution and storage primitives for native and WebAssembly runtimes.
+2026-10-23T10:38:51.92357Z,filmcraft-media,0.9.0,0,0,,"Media sources: probing, decoding traits, frame cache, generators, stills"
+2026-10-23T10:39:35.963584Z,universalmotif,0.1.0,0,0,https://github.com/bjmt/universalmotif-rs,"Sequence motif types, conversions and analysis, following the universalmotif R package"
+2026-10-23T10:42:56.078953Z,spacelab-elements,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"Osculating Keplerian orbital elements: state vector to elements and back, singular cases handled."
+2026-10-23T10:45:47.412779Z,embedded-rtp,0.1.0,0,0,https://github.com/jcorrie/embedded-rtp,"no_std, allocation-free RTP/RTCP with RFC 3550 statistics and a jitter buffer"
+2026-10-23T10:50:34.495895Z,filmcraft-project,0.9.0,0,0,,"FilmCraft document model: projects, bins, clips, sequences, tracks, effects, keyframes, markers"
+2026-10-23T10:52:55.236992Z,spacelab-eop,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"IERS Earth-orientation parameters: parsing, provenance, interpolation"
+2026-10-23T10:53:43.210587Z,targrep,0.4.0,0,0,https://github.com/codedeviate/trg,"Search inside compressed log archives (.tgz, .tar.zst, .tar.xz) with ripgrep's flags and per-member line numbers"
+2026-10-23T10:58:45.75192Z,aphrody-models,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Local model lifecycle for aphrody: pinned HuggingFace/URL references, a curated catalog of OCR / visual-transcription / speech-to-text / embedding models, a digest-checked resumable downloader, hand-…"
+2026-10-23T11:02:55.880213Z,spacelab-estimation,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"Orbit determination and estimation: square-root information and Kalman-family filters, smoothers, and conjunction probability."
+2026-10-23T11:12:06.52514Z,sub1k,0.1.0,0,0,https://github.com/fabjan4u/sub1k,A terminal player designed to rescue indie tracks from Spotify's <1000 stream demonetization threshold.
+2026-10-23T11:12:42.744449Z,aphrody-nie-core,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Logique de jeu reversée en Rust pur (ballon, IA tactique, états de match, calcul gardien, stats joueur)"
+2026-10-23T11:12:55.299555Z,spacelab-fa,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"Fundamental astronomy: time scales, Earth rotation, reference frames"
+2026-10-23T11:17:43.123295Z,arto-frontend,0.0.0,0,0,https://github.com/arto-app/Arto,"Arto's frontend bundles, for rendering arto-markdown's output in an app of your own"

@@ -8,55 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 10:18 UTC
+## Latest list — 2026-10-23 11:18 UTC
 
-New crates published between 2026-10-23 09:18 UTC and 2026-10-23 10:18 UTC.
+New crates published between 2026-10-23 10:18 UTC and 2026-10-23 11:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-23T10-18-40-934076Z.csv)
+[Full CSV](data/new-crates-2026-10-23T11-18-42-233155Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-23 09:18:39 | [filmcraft-apv](https://crates.io/crates/filmcraft-apv) | 0.9.0 | 0 | Clean-room Advanced Professional Video (APV, IETF RFC 9924) decoder and encoder |
-| 2026-10-23 09:19:03 | [surform](https://crates.io/crates/surform) | 0.1.0 | 0 | Surform — a declarative Schema Definition Language (SDL) that compiles to Surre… |
-| 2026-10-23 09:19:28 | [kalua](https://crates.io/crates/kalua) | 0.1.0 | 0 | Transpile Luau source code to Lua (kālua: cooking in an underground oven). |
-| 2026-10-23 09:22:28 | [grafana_utils](https://crates.io/crates/grafana_utils) | 0.1.0 | 0 | Published rate series (ECB, BLS, Eurostat) and deflated money bases, for SQLite… |
-| 2026-10-23 09:26:21 | [fuzzy-score](https://crates.io/crates/fuzzy-score) | 0.1.4 | 0 | Fuzzy string matching scores compatible with Python's fuzzywuzzy: ratio, partia… |
-| 2026-10-23 09:28:55 | [encdr-skia](https://crates.io/crates/encdr-skia) | 0.8.0 | 0 | GPU-accelerated Skia 2D screen renderer for encdr controller screens |
-| 2026-10-23 09:29:57 | [etalii-lark](https://crates.io/crates/etalii-lark) | 0.2.1 | 0 | A port of the Lark parsing toolkit to Rust: Lark EBNF grammars, Earley/LALR(1)/… |
-| 2026-10-23 09:30:41 | [hopchat](https://crates.io/crates/hopchat) | 0.1.0 | 0 | Offline terminal chat over an Offline Protocol mesh: no internet, no server |
-| 2026-10-23 09:30:47 | [solana_kit_native](https://crates.io/crates/solana_kit_native) | 0.0.0 | 0 | Reserved native adapter crate for the off-chain Solana Kit client SDK; no SDK A… |
-| 2026-10-23 09:31:16 | [filmcraft-audio-dsp](https://crates.io/crates/filmcraft-audio-dsp) | 0.9.0 | 0 | Real-time audio DSP for FilmCraft: BS.1770 / EBU R128 loudness metering and aud… |
-| 2026-10-23 09:32:22 | [cjson-safe](https://crates.io/crates/cjson-safe) | 0.0.1 | 0 | Memory-safe Rust replacement for cJSON (name reserved; real release coming) |
-| 2026-10-23 09:39:37 | [soroban-audit](https://crates.io/crates/soroban-audit) | 0.1.0 | 0 | Unified CLI binary for Soroban smart contracts: hooks WASM bytecode, executes i… |
-| 2026-10-23 09:42:40 | [merkle-log-db](https://crates.io/crates/merkle-log-db) | 0.1.0 | 0 | High-throughput, zero-dependency embedded append-only audit database in Rust wi… |
-| 2026-10-23 09:43:08 | [filmcraft-docpath](https://crates.io/crates/filmcraft-docpath) | 0.1.0 | 0 | Decide whether a file path or file URL stored in a document refers to a local f… |
-| 2026-10-23 09:44:10 | [prompt-firewall-wasm](https://crates.io/crates/prompt-firewall-wasm) | 0.1.0 | 0 | Sub-millisecond WebAssembly edge firewall detecting prompt injection, system pr… |
-| 2026-10-23 09:44:14 | [dns-over-websocket](https://crates.io/crates/dns-over-websocket) | 0.0.3 | 0 | Transport-independent DNS over WebSocket protocol |
-| 2026-10-23 09:45:50 | [amb](https://crates.io/crates/amb) | 0.1.0 | 0 | A terminal ambient-sound mixer: rain, thunder, wind, waves, fire and more, synt… |
-| 2026-10-23 09:46:08 | [soroban-telemetry](https://crates.io/crates/soroban-telemetry) | 0.1.0 | 0 | High-speed event listener and storage TTL monitor daemon for Stellar Soroban wi… |
-| 2026-10-23 09:46:45 | [bothy-oauth](https://crates.io/crates/bothy-oauth) | 0.3.0 | 0 | Google OAuth helpers for Bothy: loopback and device sign-in, token refresh and… |
-| 2026-10-23 09:48:54 | [filmcraft-color](https://crates.io/crates/filmcraft-color) | 0.9.0 | 0 | Colour science for FilmCraft: YUV matrices, transfer functions, camera log curv… |
-| 2026-10-23 09:50:31 | [spacelab-autodiff](https://crates.io/crates/spacelab-autodiff) | 0.1.0 | 0 | Forward-mode automatic differentiation: dual numbers for exact Jacobians and se… |
-| 2026-10-23 09:50:33 | [spacelab-core](https://crates.io/crates/spacelab-core) | 0.1.0 | 0 | Typed epochs, angles and units for space data computation |
-| 2026-10-23 09:50:35 | [spacelab-geomagnetism](https://crates.io/crates/spacelab-geomagnetism) | 0.1.0 | 0 | IGRF-14 geomagnetic field and centred-dipole magnetic coordinates. |
-| 2026-10-23 09:50:37 | [spacelab-geometry](https://crates.io/crates/spacelab-geometry) | 0.1.0 | 0 | Computational geometry: exact predicates, convex hull, Delaunay triangulation a… |
-| 2026-10-23 09:50:40 | [spacelab-ionosphere](https://crates.io/crates/spacelab-ionosphere) | 0.1.0 | 0 | NeQuick-G (Galileo) ionospheric electron-density and slant-TEC model, verified… |
-| 2026-10-23 09:52:25 | [bixverse-sparse](https://crates.io/crates/bixverse-sparse) | 0.9.1 | 0 | Compressed sparse structures for bixverse: CSR/CSC storage, transposition and s… |
-| 2026-10-23 09:52:55 | [spacelab-signal](https://crates.io/crates/spacelab-signal) | 0.1.0 | 0 | Space signal processing: the Radon transform and filtered back-projection (tomo… |
-| 2026-10-23 09:53:31 | [soroban-sdk-codegen](https://crates.io/crates/soroban-sdk-codegen) | 0.1.0 | 0 | Multi-language client SDK generator CLI for Stellar Soroban: generates type-saf… |
-| 2026-10-23 09:55:53 | [vanagandr](https://crates.io/crates/vanagandr) | 0.1.0 | 0 | Tools for NVD, Cisa (kev), Att&ck, Mitre data exploration and collecting |
-| 2026-10-23 09:56:26 | [baldur](https://crates.io/crates/baldur) | 0.1.0 | 0 | Application for CAPEC, CISA, CPE, CVE, CWE and MITRE Att&ck managing and follow… |
-| 2026-10-23 09:56:54 | [configurant-gui](https://crates.io/crates/configurant-gui) | 0.2.14 | 0 | Graphical front end for ConfigurAnt: edit a project's configuration file agains… |
-| 2026-10-23 09:56:55 | [configurant-scan](https://crates.io/crates/configurant-scan) | 0.2.14 | 0 | Scan assist for ConfigurAnt: find the environment variables a Rust project read… |
-| 2026-10-23 09:56:55 | [configurant-tui](https://crates.io/crates/configurant-tui) | 0.2.14 | 0 | Terminal front end for ConfigurAnt: edit a project's configuration file against… |
-| 2026-10-23 09:59:09 | [filmcraft-geom](https://crates.io/crates/filmcraft-geom) | 0.9.0 | 0 | 2D geometry for FilmCraft: vectors, rectangles and affine transforms. |
-| 2026-10-23 09:59:13 | [wasm-gas-profiler](https://crates.io/crates/wasm-gas-profiler) | 0.1.0 | 0 | Instruction-level WASM opcode analyzer and CPU fuel profiler for Soroban smart… |
-| 2026-10-23 10:02:55 | [spacelab-slr](https://crates.io/crates/spacelab-slr) | 0.1.0 | 0 | Satellite laser ranging: CRD normal points, SINEX station coordinates, Mendes-P… |
-| 2026-10-23 10:04:17 | [tidyup-cli](https://crates.io/crates/tidyup-cli) | 0.1.1 | 0 | A CLI tool to organize files by type. |
-| 2026-10-23 10:05:23 | [licentivo-launch](https://crates.io/crates/licentivo-launch) | 0.1.1 | 0 | Launch account lifecycle with official Licentivo runtime authorization |
-| 2026-10-23 10:09:00 | [filmcraft-dng](https://crates.io/crates/filmcraft-dng) | 0.9.0 | 0 | Clean-room DNG / CinemaDNG camera RAW decoder (TIFF container, lossless JPEG, D… |
-| 2026-10-23 10:12:55 | [spacelab-vision](https://crates.io/crates/spacelab-vision) | 0.1.0 | 0 | deepvision: pure-Rust CNN inference primitives (conv2d, relu, pooling, dense, s… |
-| 2026-10-23 10:16:20 | [soroban-snapshot-diff](https://crates.io/crates/soroban-snapshot-diff) | 0.1.0 | 0 | Ledger state snapshot forking and local mock replayer for Stellar Soroban contr… |
+| 2026-10-23 10:18:43 | [filmcraft-time](https://crates.io/crates/filmcraft-time) | 0.9.0 | 0 | Exact media time for FilmCraft: integer ticks, rational frame rates and timecod… |
+| 2026-10-23 10:19:39 | [soroban-multisig-timelock](https://crates.io/crates/soroban-multisig-timelock) | 0.1.0 | 0 | Production-ready multi-signature treasury and streaming timelock smart contract… |
+| 2026-10-23 10:20:06 | [shipcheck](https://crates.io/crates/shipcheck) | 0.0.1 | 0 | Run your CI checks locally and post the required GitHub check. Launching soon,… |
+| 2026-10-23 10:20:16 | [rs_calc](https://crates.io/crates/rs_calc) | 0.1.3 | 0 | A small calculator made using Rust |
+| 2026-10-23 10:22:05 | [infrarust-plugin-admin-api](https://crates.io/crates/infrarust-plugin-admin-api) | 2.0.0-beta.4 | 0 | HTTP REST API plugin for Infrarust proxy administration |
+| 2026-10-23 10:22:18 | [infrarust-plugin-server-wake](https://crates.io/crates/infrarust-plugin-server-wake) | 2.0.0-beta.4 | 0 | On-demand backend wake-up plugin for the Infrarust Minecraft proxy |
+| 2026-10-23 10:22:20 | [infrarust-plugin-macros](https://crates.io/crates/infrarust-plugin-macros) | 2.0.0-beta.4 | 0 | Proc-macros for authoring Infrarust WASM plugins with infrarust-plugin-sdk |
+| 2026-10-23 10:22:38 | [infrarust-plugin-sdk](https://crates.io/crates/infrarust-plugin-sdk) | 2.0.0-beta.4 | 0 | Guest SDK for authoring Infrarust WASM plugins (infrarust:plugin@0.3.0) |
+| 2026-10-23 10:22:56 | [spacelab-astro](https://crates.io/crates/spacelab-astro) | 0.1.0 | 0 | Two-body and conic mission design: universal-variable Kepler, Lambert transfers… |
+| 2026-10-23 10:23:14 | [infrarust-plugin-auth](https://crates.io/crates/infrarust-plugin-auth) | 2.0.0-beta.4 | 0 | Offline-mode authentication plugin for the Infrarust Minecraft proxy (login/reg… |
+| 2026-10-23 10:29:09 | [filmcraft-frame](https://crates.io/crates/filmcraft-frame) | 0.9.0 | 0 | Video frames and audio buffers with explicit colour metadata |
+| 2026-10-23 10:29:49 | [soroban-oracle-verifier](https://crates.io/crates/soroban-oracle-verifier) | 0.1.0 | 0 | Multi-source decentralized price oracle aggregator contract with Chauvenet outl… |
+| 2026-10-23 10:30:14 | [geopotential](https://crates.io/crates/geopotential) | 0.1.1 | 0 | Spherical-harmonic gravity fields: stable normalized Legendre functions to degr… |
+| 2026-10-23 10:30:29 | [gravity-field](https://crates.io/crates/gravity-field) | 0.1.0 | 0 | Readers for satellite gravity-field files: ICGEM .gfc models, static and time-v… |
+| 2026-10-23 10:30:33 | [gravimetry](https://crates.io/crates/gravimetry) | 0.1.0 | 0 | GRACE-style processing of monthly gravity fields: load Love numbers, Gaussian s… |
+| 2026-10-23 10:30:37 | [satgrav](https://crates.io/crates/satgrav) | 0.1.0 | 0 | Instrument and mission models for satellite gravimetry: electrostatic and cold-… |
+| 2026-10-23 10:31:15 | [rutis-macros](https://crates.io/crates/rutis-macros) | 0.15.0 | 0 | The procedural macros of rutis: #[rutis::service], which serves a Rust type's m… |
+| 2026-10-23 10:32:52 | [tree-sitter-ratslang](https://crates.io/crates/tree-sitter-ratslang) | 0.2.0 | 0 | Tree-sitter grammar for the Ratslang configuration language |
+| 2026-10-23 10:32:57 | [spacelab-earthvision](https://crates.io/crates/spacelab-earthvision) | 0.1.0 | 0 | Earth-observation foundations: viewing geometry (sun/sensor angles) and Monte C… |
+| 2026-10-23 10:34:56 | [solana_kit_browser](https://crates.io/crates/solana_kit_browser) | 0.0.0 | 0 | Reserved browser adapter crate for the off-chain Solana Kit client SDK; no SDK… |
+| 2026-10-23 10:36:13 | [nexusq-pki-cluster](https://crates.io/crates/nexusq-pki-cluster) | 4.1.1 | 0 | Tenant-routed CA and OCSP runtime for NexusQ HA deployments |
+| 2026-10-23 10:37:22 | [reddb-io-engine](https://crates.io/crates/reddb-io-engine) | 1.26.1 | 0 | Shared RedDB query execution and storage primitives for native and WebAssembly… |
+| 2026-10-23 10:38:51 | [filmcraft-media](https://crates.io/crates/filmcraft-media) | 0.9.0 | 0 | Media sources: probing, decoding traits, frame cache, generators, stills |
+| 2026-10-23 10:39:35 | [universalmotif](https://crates.io/crates/universalmotif) | 0.1.0 | 0 | Sequence motif types, conversions and analysis, following the universalmotif R… |
+| 2026-10-23 10:42:56 | [spacelab-elements](https://crates.io/crates/spacelab-elements) | 0.1.0 | 0 | Osculating Keplerian orbital elements: state vector to elements and back, singu… |
+| 2026-10-23 10:45:47 | [embedded-rtp](https://crates.io/crates/embedded-rtp) | 0.1.0 | 0 | no_std, allocation-free RTP/RTCP with RFC 3550 statistics and a jitter buffer |
+| 2026-10-23 10:50:34 | [filmcraft-project](https://crates.io/crates/filmcraft-project) | 0.9.0 | 0 | FilmCraft document model: projects, bins, clips, sequences, tracks, effects, ke… |
+| 2026-10-23 10:52:55 | [spacelab-eop](https://crates.io/crates/spacelab-eop) | 0.1.0 | 0 | IERS Earth-orientation parameters: parsing, provenance, interpolation |
+| 2026-10-23 10:53:43 | [targrep](https://crates.io/crates/targrep) | 0.4.0 | 0 | Search inside compressed log archives (.tgz, .tar.zst, .tar.xz) with ripgrep's… |
+| 2026-10-23 10:58:45 | [aphrody-models](https://crates.io/crates/aphrody-models) | 1.4.7 | 0 | Local model lifecycle for aphrody: pinned HuggingFace/URL references, a curated… |
+| 2026-10-23 11:02:55 | [spacelab-estimation](https://crates.io/crates/spacelab-estimation) | 0.1.0 | 0 | Orbit determination and estimation: square-root information and Kalman-family f… |
+| 2026-10-23 11:12:06 | [sub1k](https://crates.io/crates/sub1k) | 0.1.0 | 0 | A terminal player designed to rescue indie tracks from Spotify's <1000 stream d… |
+| 2026-10-23 11:12:42 | [aphrody-nie-core](https://crates.io/crates/aphrody-nie-core) | 1.4.7 | 0 | Logique de jeu reversée en Rust pur (ballon, IA tactique, états de match, calcu… |
+| 2026-10-23 11:12:55 | [spacelab-fa](https://crates.io/crates/spacelab-fa) | 0.1.0 | 0 | Fundamental astronomy: time scales, Earth rotation, reference frames |
+| 2026-10-23 11:17:43 | [arto-frontend](https://crates.io/crates/arto-frontend) | 0.0.0 | 0 | Arto's frontend bundles, for rendering arto-markdown's output in an app of your… |
 
 ## Data source
 
