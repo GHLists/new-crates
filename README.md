@@ -8,52 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 08:20 UTC
+## Latest list — 2026-10-23 09:18 UTC
 
-New crates published between 2026-10-23 07:18 UTC and 2026-10-23 08:20 UTC.
+New crates published between 2026-10-23 08:20 UTC and 2026-10-23 09:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-23T08-20-24-707215Z.csv)
+[Full CSV](data/new-crates-2026-10-23T09-18-38-069668Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-23 07:23:03 | [hashleaf](https://crates.io/crates/hashleaf) | 0.0.1 | 0 | Hashleaf: a native read-later and notes suite with a live Markdown editor, buil… |
-| 2026-10-23 07:25:28 | [logblur-core](https://crates.io/crates/logblur-core) | 0.2.0 | 0 | Library behind logblur: detect and mask sensitive data in log archives, streami… |
-| 2026-10-23 07:25:41 | [logblur](https://crates.io/crates/logblur) | 0.2.0 | 0 | Scrub sensitive data from Linux log archives (zip / tar.gz / files) in memory |
-| 2026-10-23 07:26:40 | [logblur-gui](https://crates.io/crates/logblur-gui) | 0.2.0 | 0 | Drag-and-drop desktop app for logblur: scrub sensitive data from Linux log arch… |
-| 2026-10-23 07:32:45 | [cainary-core](https://crates.io/crates/cainary-core) | 0.1.0 | 0 | cAInary core: model, harness, parsers, scanners and analysis |
-| 2026-10-23 07:32:48 | [cainary](https://crates.io/crates/cainary) | 0.1.0 | 0 | Shows what your AI tools and the device monitoring around them track and send |
-| 2026-10-23 07:36:13 | [lingting-gpui-core](https://crates.io/crates/lingting-gpui-core) | 26.10.1 | 0 | lingting network control |
-| 2026-10-23 07:36:31 | [lingting-gpui-nav](https://crates.io/crates/lingting-gpui-nav) | 26.10.1 | 0 | lingting network control |
-| 2026-10-23 07:36:51 | [lingting-gpui-components](https://crates.io/crates/lingting-gpui-components) | 26.10.1 | 0 | lingting network control |
-| 2026-10-23 07:37:12 | [lingting-gpui-layout](https://crates.io/crates/lingting-gpui-layout) | 26.10.1 | 0 | lingting network control |
-| 2026-10-23 07:47:43 | [libwireshark-derive](https://crates.io/crates/libwireshark-derive) | 0.0.0-alpha.0 | 0 | Derive macros for libwireshark; use them through libwireshark's `derive` feature |
-| 2026-10-23 07:47:57 | [cargo-wireshark](https://crates.io/crates/cargo-wireshark) | 0.0.0-alpha.0 | 0 | Cargo subcommand for Wireshark plugin development: find the installation, and g… |
-| 2026-10-23 07:49:02 | [soroban-fuzz-core](https://crates.io/crates/soroban-fuzz-core) | 0.1.0 | 0 | Deterministic host storage lifecycle and invariant fuzzer engine for Soroban sm… |
-| 2026-10-23 07:50:23 | [soroban-security-kit](https://crates.io/crates/soroban-security-kit) | 0.1.0 | 0 | Production-ready security utilities, sliding-window event deduplication, and fi… |
-| 2026-10-23 07:56:31 | [lingting-gpui-kit](https://crates.io/crates/lingting-gpui-kit) | 26.10.1 | 0 | lingting network control |
-| 2026-10-23 07:56:34 | [shellflow-dsl](https://crates.io/crates/shellflow-dsl) | 0.4.11 | 0 | The shellflow deploy-script DSL: scanner, plan model, and target resolution. |
-| 2026-10-23 07:58:37 | [asm198x-ir](https://crates.io/crates/asm198x-ir) | 0.0.71 | 0 | The contract between Asm198x's dialect front ends and its assembler back end |
-| 2026-10-23 07:59:50 | [bun-dotnet-host](https://crates.io/crates/bun-dotnet-host) | 1.4.7 | 0 | CLR host for Bun: locates hostfxr (nethost semantics), runs the dotnet muxer in… |
-| 2026-10-23 07:59:50 | [bun_browser_detect](https://crates.io/crates/bun_browser_detect) | 1.4.7 | 0 | Native technology and challenge detection for Bun |
-| 2026-10-23 07:59:51 | [bun_browser_extract](https://crates.io/crates/bun_browser_extract) | 1.4.7 | 0 | Bun content extraction, Markdown, chunking, SimHash, URL metadata, media and em… |
-| 2026-10-23 07:59:52 | [bun_browser_index](https://crates.io/crates/bun_browser_index) | 1.4.7 | 0 | HNSW approximate nearest-neighbour index with scalar int8 quantisation and mmap… |
-| 2026-10-23 07:59:53 | [bun_browser_net](https://crates.io/crates/bun_browser_net) | 1.4.7 | 0 | Bun browser module bun_browser_net. |
-| 2026-10-23 08:00:15 | [libwireshark-sys](https://crates.io/crates/libwireshark-sys) | 0.0.0-alpha.0 | 0 | Raw bindings to Wireshark's libwireshark (EPAN), generated from bundled public… |
-| 2026-10-23 08:00:52 | [thruput-rpc-api](https://crates.io/crates/thruput-rpc-api) | 0.3.2 | 0 | Stable API boundary for the Thruput ONC-RPC stack: sender/handler traits and sh… |
-| 2026-10-23 08:04:14 | [llm-prices](https://crates.io/crates/llm-prices) | 1.0.0 | 0 | Dated, source-cited LLM API prices (Anthropic, OpenAI, Gemini, DeepSeek) per 1M… |
-| 2026-10-23 08:04:16 | [libwireshark](https://crates.io/crates/libwireshark) | 0.0.0-alpha.0 | 0 | Write Wireshark dissector plugins in Rust: a trait per protocol, typed preferen… |
-| 2026-10-23 08:07:07 | [appkit-rs](https://crates.io/crates/appkit-rs) | 0.1.0 | 0 | Safe Rust bindings for Apple's AppKit framework on macOS: windows, views, scree… |
-| 2026-10-23 08:07:11 | [foundation-rs](https://crates.io/crates/foundation-rs) | 0.1.0 | 0 | Safe Rust bindings for Apple's Foundation framework on macOS: user defaults and… |
-| 2026-10-23 08:08:01 | [tyx-derive](https://crates.io/crates/tyx-derive) | 0.0.0 | 0 | Derive macro for tyx: binary codecs and IR export |
-| 2026-10-23 08:08:09 | [tyx-ir](https://crates.io/crates/tyx-ir) | 0.0.0 | 0 | IR model for tyx: schema description, merge, validation, compatibility |
-| 2026-10-23 08:08:14 | [tyx](https://crates.io/crates/tyx) | 0.0.0 | 0 | Rust types are the schema: derive a compact binary codec and a language-neutral… |
-| 2026-10-23 08:12:04 | [bun_browser_crawl](https://crates.io/crates/bun_browser_crawl) | 1.4.7 | 0 | Shared persistent crawl frontier and bounded Rust crawler for Bun. |
-| 2026-10-23 08:15:02 | [thruput-xdr-common](https://crates.io/crates/thruput-xdr-common) | 0.16.1 | 0 | XDR Serialization Library |
-| 2026-10-23 08:15:09 | [thruput-xdr-derive](https://crates.io/crates/thruput-xdr-derive) | 0.16.1 | 0 | XDR Serialization Library |
-| 2026-10-23 08:15:14 | [thruput-xdr-repr](https://crates.io/crates/thruput-xdr-repr) | 0.16.1 | 0 | Representations of XDR specs |
-| 2026-10-23 08:15:19 | [thruput-xdrs](https://crates.io/crates/thruput-xdrs) | 0.16.1 | 0 | XDR Serialization Library |
-| 2026-10-23 08:15:28 | [thruput-rpc-driver](https://crates.io/crates/thruput-rpc-driver) | 0.16.1 | 0 | Async ONC-RPC (RFC 5531) client/server library built on tokio. |
-| 2026-10-23 08:16:57 | [solana_kit_client](https://crates.io/crates/solana_kit_client) | 0.0.0 | 0 | Reserved client crate for the off-chain Solana Kit client SDK; no SDK APIs are… |
+| 2026-10-23 08:20:55 | [bun_git](https://crates.io/crates/bun_git) | 1.4.7 | 0 | Native Git (gix) and GitHub (octocrab) integration: repository inspection, hist… |
+| 2026-10-23 08:21:02 | [erbridge-core](https://crates.io/crates/erbridge-core) | 0.3.0 | 0 | TCP/UDP forwarding and reverse tunnels over Noise, with a multi-tenant SNI-rout… |
+| 2026-10-23 08:21:04 | [erbridge](https://crates.io/crates/erbridge) | 0.3.0 | 0 | TCP/UDP port forwarder and reverse (NAT-traversal) tunnel with a terminal UI an… |
+| 2026-10-23 08:22:39 | [iond-server](https://crates.io/crates/iond-server) | 0.4.0 | 0 | iond server: dispatches HTTP requests to wasm component apps |
+| 2026-10-23 08:22:56 | [iond](https://crates.io/crates/iond) | 0.4.0 | 0 | The iond app SDK: bindings for iond's HTTP interface, streamed bodies and serve… |
+| 2026-10-23 08:23:06 | [gukhanmun-loanwords](https://crates.io/crates/gukhanmun-loanwords) | 0.3.0-dev.0 | 0 | Bundled NIKL loanword spelling examples for Gukhanmun. |
+| 2026-10-23 08:29:28 | [bun_x](https://crates.io/crates/bun_x) | 1.4.7 | 0 | X / Twitter native GraphQL + REST client (cookie auth, no API key required). |
+| 2026-10-23 08:37:18 | [pq-glue](https://crates.io/crates/pq-glue) | 0.1.0 | 0 | Glue Parquet files together by copying their encoded row groups, without decodi… |
+| 2026-10-23 08:46:11 | [var-io](https://crates.io/crates/var-io) | 0.1.0 | 0 | A small crate to provide reading/writing capabilities for VarInts as per the Mi… |
+| 2026-10-23 08:49:03 | [filmcraft-bitstream](https://crates.io/crates/filmcraft-bitstream) | 0.9.0 | 0 | Bit-level reading and writing shared by FilmCraft's codec crates, with Exp-Golo… |
+| 2026-10-23 08:49:14 | [native-solver](https://crates.io/crates/native-solver) | 0.1.0 | 0 | Heads-up postflop No-Limit Hold'em solver: hand evaluator, ranges, betting tree… |
+| 2026-10-23 08:59:01 | [filmcraft-aac](https://crates.io/crates/filmcraft-aac) | 0.9.0 | 0 | Clean-room AAC-LC encoder and decoder (ISO/IEC 14496-3) |
+| 2026-10-23 09:01:25 | [lang198x-syntax](https://crates.io/crates/lang198x-syntax) | 0.1.0 | 0 | The shared lossless syntax tree for Lang198x language front ends: source text,… |
+| 2026-10-23 09:01:57 | [hpsvm-fixture-bench](https://crates.io/crates/hpsvm-fixture-bench) | 0.2.2 | 0 | Compute-unit benchmarking and reporting for hpsvm fixtures |
+| 2026-10-23 09:02:20 | [hpsvm-fixture-firedancer](https://crates.io/crates/hpsvm-fixture-firedancer) | 0.2.2 | 0 | FireDancer protobuf fixture codec for hpsvm |
+| 2026-10-23 09:02:37 | [socksaddr](https://crates.io/crates/socksaddr) | 0.0.4 | 0 | SOCKS and Xray address encoding and decoding |
+| 2026-10-23 09:03:29 | [invisible-watermark](https://crates.io/crates/invisible-watermark) | 0.2.0 | 0 | Hide a short payload in the least significant bits of an image |
+| 2026-10-23 09:03:56 | [iwm](https://crates.io/crates/iwm) | 0.2.0 | 0 | Embed and extract invisible text watermarks in images |
+| 2026-10-23 09:09:51 | [filmcraft-ac3](https://crates.io/crates/filmcraft-ac3) | 0.9.0 | 0 | Clean-room AC-3 and E-AC-3 (Dolby Digital / Dolby Digital Plus, ATSC A/52) audi… |
+| 2026-10-23 09:10:47 | [accesskit-rs](https://crates.io/crates/accesskit-rs) | 0.1.0 | 0 | AccessKit adapter for AppKit on macOS, with a Swift bridge in place of Objectiv… |
+| 2026-10-23 09:16:57 | [fireargs](https://crates.io/crates/fireargs) | 0.1.0 | 0 | Build CLIs from serde structs: typed input and output, JSON I/O and LLM-ready m… |
 
 ## Data source
 

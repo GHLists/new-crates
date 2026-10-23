@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T08:20:55.315358Z,bun_git,1.4.7,0,0,https://github.com/aphrody-labs/bun,"Native Git (gix) and GitHub (octocrab) integration: repository inspection, history, ingest, search and upstream tracking."
+2026-10-23T08:21:02.905697Z,erbridge-core,0.3.0,0,0,https://github.com/single9/erbridge,"TCP/UDP forwarding and reverse tunnels over Noise, with a multi-tenant SNI-routed server, as a library"
+2026-10-23T08:21:04.646557Z,erbridge,0.3.0,0,0,https://github.com/single9/erbridge,TCP/UDP port forwarder and reverse (NAT-traversal) tunnel with a terminal UI and a multi-tenant mode
+2026-10-23T08:22:39.454747Z,iond-server,0.4.0,0,0,https://github.com/avkonst/iond,iond server: dispatches HTTP requests to wasm component apps
+2026-10-23T08:22:56.29073Z,iond,0.4.0,0,0,https://github.com/avkonst/iond,"The iond app SDK: bindings for iond's HTTP interface, streamed bodies and server-sent events, requests to other services, and serving a reflectapi API"
+2026-10-23T08:23:06.226015Z,gukhanmun-loanwords,0.3.0-dev.0,0,0,https://github.com/dahlia/gukhanmun,Bundled NIKL loanword spelling examples for Gukhanmun.
+2026-10-23T08:29:28.455335Z,bun_x,1.4.7,0,0,https://github.com/aphrody-labs/bun,"X / Twitter native GraphQL + REST client (cookie auth, no API key required)."
+2026-10-23T08:37:18.94542Z,pq-glue,0.1.0,0,0,https://github.com/lmmx/pq-glue,"Glue Parquet files together by copying their encoded row groups, without decoding them"
+2026-10-23T08:46:11.79069Z,var-io,0.1.0,0,0,,A small crate to provide reading/writing capabilities for VarInts as per the Minecraft: Java Edition server protocol
+2026-10-23T08:49:03.61369Z,filmcraft-bitstream,0.9.0,0,0,,"Bit-level reading and writing shared by FilmCraft's codec crates, with Exp-Golomb codes."
+2026-10-23T08:49:14.995785Z,native-solver,0.1.0,0,0,https://github.com/N-K-Kota/native-solver,"Heads-up postflop No-Limit Hold'em solver: hand evaluator, ranges, betting trees, and combo-vectorized CFR / CFR+ / DCFR."
+2026-10-23T08:59:01.84939Z,filmcraft-aac,0.9.0,0,0,,Clean-room AAC-LC encoder and decoder (ISO/IEC 14496-3)
+2026-10-23T09:01:25.095372Z,lang198x-syntax,0.1.0,0,0,https://github.com/lang198x/syntax,"The shared lossless syntax tree for Lang198x language front ends: source text, tokens, provenance and diagnostics, with no runtime dependencies."
+2026-10-23T09:01:57.030608Z,hpsvm-fixture-bench,0.2.2,0,0,https://github.com/longcipher/hpsvm,Compute-unit benchmarking and reporting for hpsvm fixtures
+2026-10-23T09:02:20.009286Z,hpsvm-fixture-firedancer,0.2.2,0,0,https://github.com/longcipher/hpsvm,FireDancer protobuf fixture codec for hpsvm
+2026-10-23T09:02:37.890749Z,socksaddr,0.0.4,0,0,https://github.com/Sn0wo2/socksaddr,SOCKS and Xray address encoding and decoding
+2026-10-23T09:03:29.090527Z,invisible-watermark,0.2.0,0,0,https://github.com/ataoytun/InvisibleWatermark,Hide a short payload in the least significant bits of an image
+2026-10-23T09:03:56.411151Z,iwm,0.2.0,0,0,https://github.com/ataoytun/InvisibleWatermark,Embed and extract invisible text watermarks in images
+2026-10-23T09:09:51.909522Z,filmcraft-ac3,0.9.0,0,0,,"Clean-room AC-3 and E-AC-3 (Dolby Digital / Dolby Digital Plus, ATSC A/52) audio decoder"
+2026-10-23T09:10:47.605555Z,accesskit-rs,0.1.0,0,0,https://github.com/doom-fish/accesskit-rs,"AccessKit adapter for AppKit on macOS, with a Swift bridge in place of Objective-C runtime bindings"
+2026-10-23T09:16:57.869089Z,fireargs,0.1.0,0,0,https://github.com/datisthq/fireargs,"Build CLIs from serde structs: typed input and output, JSON I/O and LLM-ready manifests"
