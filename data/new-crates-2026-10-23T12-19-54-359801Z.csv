@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T11:22:56.108027Z,spacelab-gnss,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"Multi-constellation GNSS: GPS, Galileo, BeiDou, QZSS, NavIC and GLONASS broadcast orbits, RINEX 3/4 and SP3 parsing, observation processing, tropospheric mapping and DOP."
+2026-10-23T11:22:57.070901Z,aphrody-nie-video,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,Streaming RGBA-to-video encoding capability for IECODE.
+2026-10-23T11:23:33.726153Z,infrarust-plugin-hello,2.0.0-beta.4,0,0,https://github.com/Shadowner/Infrarust,Minimal example plugin for the Infrarust Minecraft proxy
+2026-10-23T11:26:50.890075Z,pcron,0.1.0,0,0,https://github.com/joaquin-rossi/pcron,Probabilistic cron: run commands at random intervals drawn from probability distributions
+2026-10-23T11:28:23.022477Z,atomix-core,0.1.0,0,0,https://github.com/atomix-labs/atomix,"the typed atomic of atomix, the values it holds, and the orderings and primitives under it."
+2026-10-23T11:28:24.3601Z,atomix-derive-impl,0.1.0,0,0,https://github.com/atomix-labs/atomix,"the logic of atomix's derives: reads a type's definition, and writes its impls or the errors that refuse it."
+2026-10-23T11:28:26.117727Z,atomix-derive,0.1.0,0,0,https://github.com/atomix-labs/atomix,"the derives of atomix: `Atom`, and the read-modify-writes a newtype takes from its field."
+2026-10-23T11:28:28.62628Z,atomix-rs,0.1.0,0,0,https://github.com/atomix-labs/atomix,"typed atomics for any value that fits one atomic, and the locks built on them."
+2026-10-23T11:29:38.906533Z,ebb-core,0.2.0,0,0,https://github.com/francescomengarelli/ebb,"ebb's platform-agnostic models: power, charging, behaviour, forecasts, backtest scoring"
+2026-10-23T11:29:44.171548Z,ebb-platform,0.2.0,0,0,https://github.com/francescomengarelli/ebb,"ebb's platforms: Linux sysfs/procfs, and a fake machine with known behaviour for tests"
+2026-10-23T11:29:50.524244Z,ebb-store,0.2.0,0,0,https://github.com/francescomengarelli/ebb,ebb's SQLite store (schema v4)
+2026-10-23T11:30:03.861937Z,ebb-battery,0.2.0,0,0,https://github.com/francescomengarelli/ebb,Query the local ebb: battery forecasts learned from how you use your machine
+2026-10-23T11:30:13.17936Z,ebb-cli,0.2.0,0,0,https://github.com/francescomengarelli/ebb,The ebb command: battery estimates learned from how you use your machine
+2026-10-23T11:31:13.94774Z,filmcraft-text,0.9.0,0,0,,"FilmCraft text engine: font database (bundled + system), shaping, bidi, line breaking, paragraph layout and anti-aliased glyph/path rasterisation"
+2026-10-23T11:32:10.968561Z,crabpot-core,0.1.0,0,0,https://github.com/shep-pm/crabpot,"The platform-independent half of crabpot: config, globs, path entries and proxies"
+2026-10-23T11:32:16.248608Z,crabpot-macos,0.1.0,0,0,https://github.com/shep-pm/crabpot,"The macOS half of crabpot: the seatbelt profile, the child environment and the sandbox-exec argv"
+2026-10-23T11:32:40.7034Z,tevy,0.0.0,0,0,,"A Rust game engine for building fast, great looking 3D and 2D games that run in the browser with WebGPU. In early development."
+2026-10-23T11:32:55.241824Z,spacelab-ndm,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"CCSDS Navigation Data Messages: OPM and OEM readers and writers, CDM reader, in KVN."
+2026-10-23T11:35:01.868246Z,agave-validator-config,0.0.1-reserved,0,0,https://github.com/anza-xyz/agave,reserved for future use
+2026-10-23T11:35:24.663091Z,h2mux-rs,0.0.2,0,0,https://github.com/Sn0wo2/h2mux-rs,HTTP/2 multiplexed stream protocol
+2026-10-23T11:36:29.985426Z,idora,1.0.0,0,0,https://github.com/SrKleRAimBot/Idora,"Idora.Rust: prefixed, time-ordered entity identifiers (usr_01k2f9v8ta7m3x0qbrn4dzeh5c) built on ULID or UUIDv7, with zero dependencies."
+2026-10-23T11:38:50.26226Z,filmcraft-captions,0.9.0,0,0,,"FilmCraft captions: SRT, WebVTT, SCC, MCC, EBU STL and TTML/IMSC1/DFXP import/export, caption layout and burn-in rasterisation"
+2026-10-23T11:42:55.012221Z,spacelab-sensors,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"Coverage constraints: continuous scalar predicates over (satellite, cell, sensor)."
+2026-10-23T11:43:15.77779Z,solana_kit_wasi,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_wasi,Reserved WASI adapter crate for the off-chain Solana Kit client SDK; no SDK APIs are available in this placeholder
+2026-10-23T11:52:55.229873Z,spacelab-constellation,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"Constellation design: generators (Walker, Street-of-Coverage, Flower, 2-D Lattice, kinematically-regular, Draim, two-tier shell/SSA) plus the Mozhaev group classification and the alpha-characteristic…"
+2026-10-23T11:54:09.485168Z,ironrdp-rail,0.1.0,0,0,https://github.com/Devolutions/IronRDP,RAIL static virtual channel wire protocol implementation
+2026-10-23T11:54:10.018104Z,ironrdp-rdpei,0.1.0,0,0,https://github.com/Devolutions/IronRDP,Input virtual channel extension (MS-RDPEI) implementation
+2026-10-23T11:54:10.847479Z,ironrdp-rdpel,0.0.0,0,0,https://github.com/Devolutions/IronRDP,Location dynamic channel client as described in MS-RDPEL
+2026-10-23T11:54:11.191977Z,ironrdp-usb,0.1.0,0,0,https://github.com/Devolutions/IronRDP,Protocol-independent USB data structures and semantics
+2026-10-23T11:54:18.161199Z,filmcraft-av1,0.9.0,0,0,,Clean-room AV1 decoder (AV1 Bitstream & Decoding Process Specification v1.0.0 with Errata 1)
+2026-10-23T11:59:10.862689Z,abyss-terminal-auth,1.2.0,0,0,https://github.com/lexmount/abyss-rs,Reusable terminal PKCE authentication contracts and credential helpers
+2026-10-23T11:59:17.554935Z,abyss-data-client,1.2.0,0,0,https://github.com/lexmount/abyss-rs,Read-only HTTP client for Abyss event data backends
+2026-10-23T11:59:31.136093Z,abyss-query-cli,1.2.0,0,0,https://github.com/lexmount/abyss-rs,"Cross-platform, agent-friendly CLI for Abyss backend data"
+2026-10-23T11:59:56.160781Z,glacierdb,0.1.0,0,0,https://github.com/openglacier/glacierdb-rust,"Rust driver for glacierdb (ogd): framed MessagePack over TCP, streamed results, .ogid identities, byte-bounded bulk loading"
+2026-10-23T12:00:19.394359Z,oxrok,0.1.0-alpha.1,0,0,https://github.com/mangelajo/oxrok,"An experimental sigrok compatible logic analyzer, multimeter and oscilloscope stack in Rust: library and command line tool"
+2026-10-23T12:02:58.091586Z,spacelab-coverage,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,Access-window detection: sign-change bracketing and bracket-preserving root refinement.
+2026-10-23T12:04:41.827589Z,filmcraft-avi,0.9.0,0,0,,Clean-room AVI (RIFF) and OpenDML demuxer
+2026-10-23T12:08:43.353711Z,localenvx,0.4.0,0,0,https://github.com/ctxinf/localenvx,Encrypted environment-variable manager for local development: no plaintext secrets on disk
+2026-10-23T12:09:21.619234Z,filmcraft-dnx,0.9.0,0,0,,Clean-room Avid DNxHD / DNxHR (SMPTE ST 2019-1 VC-3) decoder and encoder
+2026-10-23T12:12:21.553248Z,seamless_info,0.15.0,0,0,https://github.com/jsdw/seamless,"The no_std types describing a 'seamless' API, eg as returned from `Api::info()`"
+2026-10-23T12:12:24.964358Z,seamless_ts,0.15.0,0,0,https://github.com/jsdw/seamless,Generate TypeScript types from the info describing a 'seamless' API
+2026-10-23T12:12:28.127739Z,seamless_ts_bin,0.15.0,0,0,https://github.com/jsdw/seamless,A CLI tool to generate TypeScript types from the info describing a 'seamless' API
+2026-10-23T12:12:56.147685Z,spacelab-frames,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,Type-level reference frames: rotations that compose only when they should
