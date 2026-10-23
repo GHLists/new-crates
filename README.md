@@ -8,60 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 13:20 UTC
+## Latest list — 2026-10-23 14:21 UTC
 
-New crates published between 2026-10-23 12:19 UTC and 2026-10-23 13:20 UTC.
+New crates published between 2026-10-23 13:20 UTC and 2026-10-23 14:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-23T13-20-04-682159Z.csv)
+[Full CSV](data/new-crates-2026-10-23T14-21-55-765718Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-23 12:22:55 | [spacelab-astrometry](https://crates.io/crates/spacelab-astrometry) | 0.1.0 | 0 | Astrometric plate solving: source detection, TAN/SIP world coordinates, blind a… |
-| 2026-10-23 12:29:50 | [alkgit](https://crates.io/crates/alkgit) | 0.1.0 | 0 | Git smart protocol for the alk family: pkt-line substrates, protocol V2 serving… |
-| 2026-10-23 12:30:38 | [aphrody-patch](https://crates.io/crates/aphrody-patch) | 1.4.7 | 0 | LLM-native file-edit patch format (*** Begin Patch / Add\|Update\|Delete File / @… |
-| 2026-10-23 12:31:08 | [aphrody-toolcall-repair](https://crates.io/crates/aphrody-toolcall-repair) | 1.4.7 | 0 | Weak open-source model tool-calling robustness layer: a tolerant JSON repairer… |
-| 2026-10-23 12:32:55 | [spacelab-earth](https://crates.io/crates/spacelab-earth) | 0.1.0 | 0 | The WGS-84 ellipsoid: geodetic and Cartesian coordinates |
-| 2026-10-23 12:37:17 | [cargo-elicit](https://crates.io/crates/cargo-elicit) | 0.2.0 | 0 | Model-independent Rust verification workflow and evidence tracking |
-| 2026-10-23 12:37:19 | [wit-bindgen-wrpc-test](https://crates.io/crates/wit-bindgen-wrpc-test) | 0.1.0 | 0 | Test runner for the wRPC bindings generators, exposed as `wit-bindgen-wrpc test… |
-| 2026-10-23 12:37:53 | [one-instance-plz](https://crates.io/crates/one-instance-plz) | 0.1.0 | 0 | One instance of your app coming right up! |
-| 2026-10-23 12:38:39 | [filmcraft-h264](https://crates.io/crates/filmcraft-h264) | 0.9.0 | 0 | Clean-room pure-Rust H.264/AVC decoder (ITU-T H.264) |
-| 2026-10-23 12:39:28 | [oriel](https://crates.io/crates/oriel) | 0.0.0 | 0 | A desktop UI framework for Rust, built for deterministic testing and agent-driv… |
-| 2026-10-23 12:40:45 | [wrpc-http](https://crates.io/crates/wrpc-http) | 0.1.0 | 0 | wRPC HTTP transport |
-| 2026-10-23 12:40:53 | [wrpc-quic](https://crates.io/crates/wrpc-quic) | 0.1.0 | 0 | wRPC QUIC transport |
-| 2026-10-23 12:41:00 | [wrpc-websockets](https://crates.io/crates/wrpc-websockets) | 0.1.0 | 0 | wRPC WebSockets integration |
-| 2026-10-23 12:41:11 | [wrpc-webtransport](https://crates.io/crates/wrpc-webtransport) | 0.1.0 | 0 | wRPC WebTransport transport |
-| 2026-10-23 12:42:59 | [spacelab-propagation](https://crates.io/crates/spacelab-propagation) | 0.1.0 | 0 | Orbit propagation: verified integrators (Runge-Kutta, multistep, symplectic, Ta… |
-| 2026-10-23 12:44:28 | [wrpc-wasmtime](https://crates.io/crates/wrpc-wasmtime) | 0.1.0 | 0 | wRPC wasmtime integration |
-| 2026-10-23 12:46:23 | [solana_kit_system](https://crates.io/crates/solana_kit_system) | 0.0.0 | 0 | Reserved System Program client crate for the off-chain Solana Kit SDK; no SDK A… |
-| 2026-10-23 12:48:41 | [filmcraft-hevc](https://crates.io/crates/filmcraft-hevc) | 0.9.0 | 0 | Clean-room pure-Rust H.265/HEVC decoder (ITU-T H.265) |
-| 2026-10-23 12:49:53 | [keel-bosun](https://crates.io/crates/keel-bosun) | 0.1.0 | 0 | Orchestration helper for repos where agents write all the code |
-| 2026-10-23 12:52:56 | [spacelab-sgp4](https://crates.io/crates/spacelab-sgp4) | 0.1.0 | 0 | Typed, batch-shaped SGP4 propagation for many satellites |
-| 2026-10-23 12:55:46 | [smudge](https://crates.io/crates/smudge) | 0.0.0 | 0 | Placeholder for the Smudge native GUI library. Under development. |
-| 2026-10-23 12:55:49 | [smudge-core](https://crates.io/crates/smudge-core) | 0.0.0 | 0 | Placeholder for the Smudge native GUI library. Under development. |
-| 2026-10-23 12:55:51 | [smudge-cpu](https://crates.io/crates/smudge-cpu) | 0.0.0 | 0 | Placeholder for the Smudge native GUI library. Under development. |
-| 2026-10-23 12:55:54 | [smudge-platform](https://crates.io/crates/smudge-platform) | 0.0.0 | 0 | Placeholder for the Smudge native GUI library. Under development. |
-| 2026-10-23 12:55:57 | [smudge-text](https://crates.io/crates/smudge-text) | 0.0.0 | 0 | Placeholder for the Smudge native GUI library. Under development. |
-| 2026-10-23 12:56:46 | [oxframe-math](https://crates.io/crates/oxframe-math) | 0.21.0 | 0 | Typst math to SVG for oxframe's Math node (feature `math` of oxframe) |
-| 2026-10-23 12:57:31 | [cydonia-acp-agents](https://crates.io/crates/cydonia-acp-agents) | 0.2.6 | 0 | Find, install, and run ACP agents |
-| 2026-10-23 12:57:34 | [cydonia-acp-proto](https://crates.io/crates/cydonia-acp-proto) | 0.2.6 | 0 | ACP v1 wire types and method names |
-| 2026-10-23 12:57:43 | [cydonia-acp](https://crates.io/crates/cydonia-acp) | 0.2.6 | 0 | A compact implementation of the Agent Client Protocol |
-| 2026-10-23 12:57:47 | [cydonia-acp-events](https://crates.io/crates/cydonia-acp-events) | 0.2.6 | 0 | A channel-based ACP client for cydonia-acp |
-| 2026-10-23 12:58:25 | [emoji-expander](https://crates.io/crates/emoji-expander) | 1.2.1 | 0 | Expands :shortcodes: into emoji, in arguments, stdin or as you type in the shel… |
-| 2026-10-23 12:58:59 | [aphrody-a2a](https://crates.io/crates/aphrody-a2a) | 1.4.7 | 0 | A2A v1 protocol types and core definitions |
-| 2026-10-23 13:02:57 | [spacelab](https://crates.io/crates/spacelab) | 0.1.0 | 0 | Space data computation: time, Earth orientation, frames, propagation, geodesy |
-| 2026-10-23 13:06:21 | [smudge-widgets](https://crates.io/crates/smudge-widgets) | 0.0.0 | 0 | Placeholder for the Smudge native GUI library. Under development. |
-| 2026-10-23 13:07:45 | [chat-tui-core](https://crates.io/crates/chat-tui-core) | 1.11.1 | 0 | Terminal chat interface for messaging clients: chat list, inline images, reacti… |
-| 2026-10-23 13:09:02 | [aphrody-a2a-pb](https://crates.io/crates/aphrody-a2a-pb) | 1.4.7 | 0 | A2A v1 protobuf-generated types and conversion layer |
-| 2026-10-23 13:09:49 | [agent-coordinator-core](https://crates.io/crates/agent-coordinator-core) | 0.1.0 | 0 | 与传输无关的协调层内核：类型、预算、失败判定、运行记录 |
-| 2026-10-23 13:10:08 | [agent-coordinator-acp](https://crates.io/crates/agent-coordinator-acp) | 0.1.0 | 0 | ACP（Agent Client Protocol）stdio 运行时：起进程、归一事件、审批桥 |
-| 2026-10-23 13:10:37 | [cadencr-tab-backend](https://crates.io/crates/cadencr-tab-backend) | 0.1.0 | 0 | Helper for writing native backends of Cadencr custom tabs (stdio protocol v1) |
-| 2026-10-23 13:11:12 | [gmessages-proto](https://crates.io/crates/gmessages-proto) | 0.1.0 | 0 | Client library for the Google Messages for web protocol, implemented from a wri… |
-| 2026-10-23 13:12:44 | [agent-coordinator-cli](https://crates.io/crates/agent-coordinator-cli) | 0.1.0 | 0 | 命令 `ac`：把一个有界任务派给用户自选的 ACP harness，归一事件、守审批与预算、落审计 |
-| 2026-10-23 13:12:55 | [spacelab-control](https://crates.io/crates/spacelab-control) | 0.1.0 | 0 | Closed-loop guidance, navigation and control: feedback laws, and the sensor/com… |
-| 2026-10-23 13:13:52 | [kzx](https://crates.io/crates/kzx) | 0.1.0 | 0 | Kernel compression: a no_std, zero-dependency context-mixing compressor tuned f… |
-| 2026-10-23 13:16:21 | [gmessages-tui](https://crates.io/crates/gmessages-tui) | 1.3.1 | 0 | Google Messages (RCS and SMS) in your terminal, paired with your Android phone.… |
-| 2026-10-23 13:16:45 | [smudge-gpu](https://crates.io/crates/smudge-gpu) | 0.0.0 | 0 | Placeholder for the Smudge native GUI library. Under development. |
-| 2026-10-23 13:18:48 | [filmcraft-isobmff](https://crates.io/crates/filmcraft-isobmff) | 0.9.0 | 0 | Clean-room ISO BMFF (MP4) and QuickTime (MOV) demuxer and muxer |
+| 2026-10-23 13:21:34 | [dawkey-core](https://crates.io/crates/dawkey-core) | 0.1.0 | 0 | Dawkey project model, command bus, undo history and project files |
+| 2026-10-23 13:21:34 | [dawkey-media](https://crates.io/crates/dawkey-media) | 0.1.0 | 0 | Dawkey audio file decoding, resampling, WAV writing and analysis |
+| 2026-10-23 13:21:34 | [dawkey-ui](https://crates.io/crates/dawkey-ui) | 0.1.0 | 0 | Dawkey's UI toolkit: widget tree with stable IDs, layout, input, scene, accessi… |
+| 2026-10-23 13:21:35 | [dawkey-dsp](https://crates.io/crates/dawkey-dsp) | 0.1.0 | 0 | Dawkey's built-in DSP: the polyphonic synth |
+| 2026-10-23 13:21:36 | [dawkey-text](https://crates.io/crates/dawkey-text) | 0.1.0 | 0 | Dawkey text shaping, measuring and glyph rasterization with embedded fonts |
+| 2026-10-23 13:22:56 | [spacelab-ephemeris](https://crates.io/crates/spacelab-ephemeris) | 0.1.0 | 0 | High-fidelity planetary ephemerides over ANISE (JPL DE440), for cislunar and de… |
+| 2026-10-23 13:26:36 | [ferrolink](https://crates.io/crates/ferrolink) | 0.1.0 | 0 | Fast, parallel link checker for static HTML builds: cross-page links, anchors,… |
+| 2026-10-23 13:26:44 | [prochist-gui](https://crates.io/crates/prochist-gui) | 0.3.0 | 0 | phg - interactive GUI for the process tree around a PID |
+| 2026-10-23 13:27:11 | [smudge-a11y](https://crates.io/crates/smudge-a11y) | 0.0.0 | 0 | Placeholder for the Smudge native GUI library. Under development. |
+| 2026-10-23 13:29:00 | [aphrody-a2a-client](https://crates.io/crates/aphrody-a2a-client) | 1.4.7 | 0 | A2A v1 async client with protocol binding factory |
+| 2026-10-23 13:31:54 | [cakestry-clock](https://crates.io/crates/cakestry-clock) | 0.1.0 | 0 | A clock to show current time |
+| 2026-10-23 13:32:56 | [spacelab-grid](https://crates.io/crates/spacelab-grid) | 0.1.0 | 0 | H3 geodesic grid: tessellate a region into equal-area cells and place each cent… |
+| 2026-10-23 13:33:44 | [cadencr-provider-sdk](https://crates.io/crates/cadencr-provider-sdk) | 0.1.0 | 0 | Command harness for code-backed Cadencr agent provider packages (ACP v1) |
+| 2026-10-23 13:34:18 | [dawkey-engine](https://crates.io/crates/dawkey-engine) | 0.1.0 | 0 | Dawkey's real-time audio engine: mix graph, transport and metering |
+| 2026-10-23 13:38:57 | [aphrody-a2a-server](https://crates.io/crates/aphrody-a2a-server) | 1.4.7 | 0 | A2A v1 async server framework |
+| 2026-10-23 13:39:48 | [claude-deck](https://crates.io/crates/claude-deck) | 0.2.0 | 0 | Watch Claude Code sessions: scratchpad files, tasks and every tool call, standa… |
+| 2026-10-23 13:43:08 | [dawkey-backend-pipewire](https://crates.io/crates/dawkey-backend-pipewire) | 0.1.0 | 0 | Dawkey's PipeWire audio backend (a pw_filter node) |
+| 2026-10-23 13:47:32 | [fluent-iterable](https://crates.io/crates/fluent-iterable) | 0.0.1 | 0 | Fluent extension trait for std Iterator, port of @codibre/fluent-iterable vocab… |
+| 2026-10-23 13:48:25 | [originguard](https://crates.io/crates/originguard) | 0.1.0 | 0 | Web origin, cookie partitioning and Content-Security-Policy rules, implemented… |
+| 2026-10-23 13:49:03 | [aphrody-a2a-coord](https://crates.io/crates/aphrody-a2a-coord) | 1.4.7 | 0 | Aphrody A2A coordination: ai.json manifest, JSONL mailboxes and their NDJSON/SS… |
+| 2026-10-23 13:52:34 | [etw-rs-macros](https://crates.io/crates/etw-rs-macros) | 0.1.0 | 0 | Proc macros for etw-rs |
+| 2026-10-23 13:52:37 | [dawkey-render](https://crates.io/crates/dawkey-render) | 0.1.0 | 0 | Dawkey's GPU renderer (wgpu/Vulkan): draws dawkey-ui scenes to a window or an i… |
+| 2026-10-23 13:52:38 | [etw-rs](https://crates.io/crates/etw-rs) | 0.1.0 | 0 | Rust bindings for Event Tracing for Windows (ETW) with minimal abstraction |
+| 2026-10-23 13:52:42 | [etw-rs-generate-provider](https://crates.io/crates/etw-rs-generate-provider) | 0.1.0 | 0 | CLI tool to generate ETW provider definitions from registered metadata |
+| 2026-10-23 13:58:17 | [larust-cashier-stripe](https://crates.io/crates/larust-cashier-stripe) | 0.9.0 | 0 | A Laravel-shaped web framework for Rust. |
+| 2026-10-23 13:58:51 | [aphrody-config](https://crates.io/crates/aphrody-config) | 1.4.7 | 0 | Codex-compatible config.toml model for aphrody: ConfigToml, model providers (ma… |
+| 2026-10-23 13:59:32 | [larust-passport](https://crates.io/crates/larust-passport) | 0.9.0 | 0 | A Laravel-shaped web framework for Rust. |
+| 2026-10-23 13:59:39 | [larust-pennant](https://crates.io/crates/larust-pennant) | 0.9.0 | 0 | A Laravel-shaped web framework for Rust. |
+| 2026-10-23 13:59:53 | [larust-scout](https://crates.io/crates/larust-scout) | 0.9.0 | 0 | A Laravel-shaped web framework for Rust. |
+| 2026-10-23 14:00:15 | [haybarn-neo](https://crates.io/crates/haybarn-neo) | 0.20000.0-rc.5 | 0 | Ergonomic wrapper for the Haybarn engine's v2 C API (powered by DuckDB; experim… |
+| 2026-10-23 14:02:05 | [dawkey-plugins](https://crates.io/crates/dawkey-plugins) | 0.1.0 | 0 | Dawkey's plugin hosting: CLAP, LV2 and VST3 discovery, scanning and processing |
+| 2026-10-23 14:03:27 | [gamut-cmm](https://crates.io/crates/gamut-cmm) | 0.1.0 | 0 | ICC colour management module: builds and applies colour transforms from parsed… |
+| 2026-10-23 14:04:11 | [knut-format](https://crates.io/crates/knut-format) | 2023.8.1 | 0 | knut file format: structures, codecs and block encoding (no I/O) |
+| 2026-10-23 14:04:14 | [knut-builder](https://crates.io/crates/knut-builder) | 2023.8.1 | 0 | knut converter: OSM history PBF -> .knut |
+| 2026-10-23 14:04:17 | [knut](https://crates.io/crates/knut) | 2023.8.1 | 0 | knut mmap reader and query engine |
+| 2026-10-23 14:04:19 | [knut-cli](https://crates.io/crates/knut-cli) | 2023.8.1 | 0 | knut command line tool |
+| 2026-10-23 14:04:20 | [knut-exec](https://crates.io/crates/knut-exec) | 2023.8.1 | 0 | knut exec tool - part of knut |
+| 2026-10-23 14:07:20 | [solana_kit_token_2022](https://crates.io/crates/solana_kit_token_2022) | 0.0.0 | 0 | Reserved portable Token-2022 client for the off-chain Solana Kit SDK; this plac… |
+| 2026-10-23 14:07:32 | [wg-launcher-cli](https://crates.io/crates/wg-launcher-cli) | 1.3.0 | 0 | Command-line launcher for World of Tanks assets |
+| 2026-10-23 14:08:56 | [aphrody-agent-home](https://crates.io/crates/aphrody-agent-home) | 1.4.7 | 0 | aphrody-agent-home — the agent's persistent home: Soul / Identity / User / Tool… |
+| 2026-10-23 14:11:47 | [dawkey-studio](https://crates.io/crates/dawkey-studio) | 0.1.0 | 0 | A running Dawkey instance: session, decoded media, engine and audio backend |
+| 2026-10-23 14:13:39 | [wrpc-wave](https://crates.io/crates/wrpc-wave) | 0.1.0 | 0 | wRPC runtime-agnostic encoding and decoding support for wasm-wave traits |
+| 2026-10-23 14:14:01 | [knut-isea3h](https://crates.io/crates/knut-isea3h) | 2023.8.1 | 0 | knut isea3h tool - part of knut |
+| 2026-10-23 14:15:41 | [ytrs-tty](https://crates.io/crates/ytrs-tty) | 0.1.0 | 0 | Fast minimalist YouTube CLI / TUI viewer in Rust with real picture thumbnails (… |
+| 2026-10-23 14:18:51 | [aphrody-nie-lua](https://crates.io/crates/aphrody-nie-lua) | 1.4.7 | 0 | VM Lua 5.2 réelle (mlua, PUC-Rio 5.2.4 vendored) — exécute les vrais scripts .l… |
+| 2026-10-23 14:19:14 | [geohueo](https://crates.io/crates/geohueo) | 0.1.0 | 0 | IP geolocation lookup via geoiplookup.io |
+| 2026-10-23 14:20:09 | [knut-lang](https://crates.io/crates/knut-lang) | 2023.8.1 | 0 | knut lang tool - part of knut |
 
 ## Data source
 

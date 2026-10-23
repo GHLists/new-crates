@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T13:21:34.087183Z,dawkey-core,0.1.0,0,0,https://github.com/quonic/dawkey.git,"Dawkey project model, command bus, undo history and project files"
+2026-10-23T13:21:34.521731Z,dawkey-media,0.1.0,0,0,https://github.com/quonic/dawkey.git,"Dawkey audio file decoding, resampling, WAV writing and analysis"
+2026-10-23T13:21:34.838648Z,dawkey-ui,0.1.0,0,0,https://github.com/quonic/dawkey.git,"Dawkey's UI toolkit: widget tree with stable IDs, layout, input, scene, accessibility tree"
+2026-10-23T13:21:35.87297Z,dawkey-dsp,0.1.0,0,0,https://github.com/quonic/dawkey.git,Dawkey's built-in DSP: the polyphonic synth
+2026-10-23T13:21:36.414536Z,dawkey-text,0.1.0,0,0,https://github.com/quonic/dawkey.git,"Dawkey text shaping, measuring and glyph rasterization with embedded fonts"
+2026-10-23T13:22:56.031419Z,spacelab-ephemeris,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"High-fidelity planetary ephemerides over ANISE (JPL DE440), for cislunar and deep space."
+2026-10-23T13:26:36.495915Z,ferrolink,0.1.0,0,0,https://github.com/sebastian-software/ferrolink,"Fast, parallel link checker for static HTML builds: cross-page links, anchors, and assets."
+2026-10-23T13:26:44.224541Z,prochist-gui,0.3.0,0,0,,phg - interactive GUI for the process tree around a PID
+2026-10-23T13:27:11.191292Z,smudge-a11y,0.0.0,0,0,,Placeholder for the Smudge native GUI library. Under development.
+2026-10-23T13:29:00.501642Z,aphrody-a2a-client,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,A2A v1 async client with protocol binding factory
+2026-10-23T13:31:54.526211Z,cakestry-clock,0.1.0,0,0,https://github.com/VioletsOleander/cakestry,A clock to show current time
+2026-10-23T13:32:56.951674Z,spacelab-grid,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,H3 geodesic grid: tessellate a region into equal-area cells and place each centre in ITRF.
+2026-10-23T13:33:44.932858Z,cadencr-provider-sdk,0.1.0,0,0,https://github.com/merkr-software/CadencR,Command harness for code-backed Cadencr agent provider packages (ACP v1)
+2026-10-23T13:34:18.684123Z,dawkey-engine,0.1.0,0,0,https://github.com/quonic/dawkey.git,"Dawkey's real-time audio engine: mix graph, transport and metering"
+2026-10-23T13:38:57.320106Z,aphrody-a2a-server,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,A2A v1 async server framework
+2026-10-23T13:39:48.887319Z,claude-deck,0.2.0,0,0,https://github.com/bigsan/claude-deck,"Watch Claude Code sessions: scratchpad files, tasks and every tool call, standalone or as a herdr plugin"
+2026-10-23T13:43:08.021641Z,dawkey-backend-pipewire,0.1.0,0,0,https://github.com/quonic/dawkey.git,Dawkey's PipeWire audio backend (a pw_filter node)
+2026-10-23T13:47:32.656155Z,fluent-iterable,0.0.1,0,0,https://github.com/codibre/fluent-iterable,"Fluent extension trait for std Iterator, port of @codibre/fluent-iterable vocabulary: joins, grouping, distinctness, cardinality checks"
+2026-10-23T13:48:25.176128Z,originguard,0.1.0,0,0,https://github.com/christian-gregorcik/originguard,"Web origin, cookie partitioning and Content-Security-Policy rules, implemented from the specifications with no dependencies."
+2026-10-23T13:49:03.253128Z,aphrody-a2a-coord,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Aphrody A2A coordination: ai.json manifest, JSONL mailboxes and their NDJSON/SSE proxy, native Claude/Grok/agy peers, HTTP listener."
+2026-10-23T13:52:34.854616Z,etw-rs-macros,0.1.0,0,0,https://github.com/originsec/etw-rs,Proc macros for etw-rs
+2026-10-23T13:52:37.739093Z,dawkey-render,0.1.0,0,0,https://github.com/quonic/dawkey.git,Dawkey's GPU renderer (wgpu/Vulkan): draws dawkey-ui scenes to a window or an image
+2026-10-23T13:52:38.854817Z,etw-rs,0.1.0,0,0,https://github.com/originsec/etw-rs,Rust bindings for Event Tracing for Windows (ETW) with minimal abstraction
+2026-10-23T13:52:42.412269Z,etw-rs-generate-provider,0.1.0,0,0,https://github.com/originsec/etw-rs,CLI tool to generate ETW provider definitions from registered metadata
+2026-10-23T13:58:17.907371Z,larust-cashier-stripe,0.9.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-23T13:58:51.545971Z,aphrody-config,1.4.7,0,0,https://source.aphrody.app/aphrody-dev/bun-crate-aphrody-config,"Codex-compatible config.toml model for aphrody: ConfigToml, model providers (managed llama-server, Ollama, LM Studio, vLLM, Antigravity, OpenAI, Anthropic, ChatGPT), layered merge (built-ins < Codex-…"
+2026-10-23T13:59:32.062703Z,larust-passport,0.9.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-23T13:59:39.327899Z,larust-pennant,0.9.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-23T13:59:53.674414Z,larust-scout,0.9.0,0,0,https://github.com/wallabydesigns/Larust,A Laravel-shaped web framework for Rust.
+2026-10-23T14:00:15.994288Z,haybarn-neo,0.20000.0-rc.5,0,0,https://github.com/Query-farm-haybarn/haybarn-rust,Ergonomic wrapper for the Haybarn engine's v2 C API (powered by DuckDB; experimental)
+2026-10-23T14:02:05.280536Z,dawkey-plugins,0.1.0,0,0,https://github.com/quonic/dawkey.git,"Dawkey's plugin hosting: CLAP, LV2 and VST3 discovery, scanning and processing"
+2026-10-23T14:03:27.711495Z,gamut-cmm,0.1.0,0,0,https://github.com/justin13888/gamut,ICC colour management module: builds and applies colour transforms from parsed ICC profiles.
+2026-10-23T14:04:11.536234Z,knut-format,2023.8.1,0,0,,"knut file format: structures, codecs and block encoding (no I/O)"
+2026-10-23T14:04:14.717936Z,knut-builder,2023.8.1,0,0,,knut converter: OSM history PBF -> .knut
+2026-10-23T14:04:17.645358Z,knut,2023.8.1,0,0,,knut mmap reader and query engine
+2026-10-23T14:04:19.011559Z,knut-cli,2023.8.1,0,0,,knut command line tool
+2026-10-23T14:04:20.00809Z,knut-exec,2023.8.1,0,0,,knut exec tool - part of knut
+2026-10-23T14:07:20.131175Z,solana_kit_token_2022,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_token_2022,Reserved portable Token-2022 client for the off-chain Solana Kit SDK; this placeholder supplies no SDK APIs
+2026-10-23T14:07:32.469485Z,wg-launcher-cli,1.3.0,0,0,https://github.com/gabrielhamel/wg-launcher,Command-line launcher for World of Tanks assets
+2026-10-23T14:08:56.141215Z,aphrody-agent-home,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"aphrody-agent-home — the agent's persistent home: Soul / Identity / User / Tools, mmap zero-copy file cache, content-addressed cache, bootstrap budget, system-prompt assembler, hot-reload, git backup."
+2026-10-23T14:11:47.361996Z,dawkey-studio,0.1.0,0,0,https://github.com/quonic/dawkey.git,"A running Dawkey instance: session, decoded media, engine and audio backend"
+2026-10-23T14:13:39.558252Z,wrpc-wave,0.1.0,0,0,https://github.com/bytecodealliance/wrpc,wRPC runtime-agnostic encoding and decoding support for wasm-wave traits
+2026-10-23T14:14:01.929568Z,knut-isea3h,2023.8.1,0,0,,knut isea3h tool - part of knut
+2026-10-23T14:15:41.605998Z,ytrs-tty,0.1.0,0,0,https://github.com/laguser/ytrs-tty,"Fast minimalist YouTube CLI / TUI viewer in Rust with real picture thumbnails (Kitty/Sixel/Chafa), Yandex Voice-Over translation, and smart AI summaries."
+2026-10-23T14:18:51.558157Z,aphrody-nie-lua,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"VM Lua 5.2 réelle (mlua, PUC-Rio 5.2.4 vendored) — exécute les vrais scripts .lua.bin du jeu (logique de menus/scènes). Cœur de la boucle moteur."
+2026-10-23T14:19:14.740283Z,geohueo,0.1.0,0,0,https://github.com/sesav/geohueo,IP geolocation lookup via geoiplookup.io
+2026-10-23T14:20:09.045998Z,knut-lang,2023.8.1,0,0,,knut lang tool - part of knut
