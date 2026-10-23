@@ -1,0 +1,54 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T15:21:15.932739Z,orgcst,0.1.0,0,0,https://github.com/vbuzin/orgcst,"Lossless concrete syntax tree parser for Org-mode, with typed views and structural edits."
+2026-10-23T15:21:33.258425Z,tree-sitter-compact,0.1.0,0,0,https://github.com/1NickPappas/compact-tree-sitter,A zero-knowledge smart contract programming language
+2026-10-23T15:22:20.650924Z,nimiq-blockchain-interface,2.0.0,0,0,https://github.com/nimiq/core-rs-albatross,Generic blockchain structures
+2026-10-23T15:23:00.770021Z,nimiq-genesis-builder,1.7.2,0,0,https://github.com/nimiq/core-rs-albatross,Tools for building a Nimiq genesis
+2026-10-23T15:24:04.750331Z,nimiq-genesis,1.7.2,0,0,https://github.com/nimiq/core-rs-albatross,Nimiq Genesis configuration
+2026-10-23T15:26:12.062706Z,nimiq-light-blockchain,1.7.2,0,0,https://github.com/nimiq/core-rs-albatross,Block storage for Nimiq's Light Nodes
+2026-10-23T15:27:29.338311Z,jackdaw_scaffold,0.20.0-rc.1,0,0,https://github.com/jbuehler23/jackdaw,"Jackdaw project templates, import planning and upgrades, shared by the editor and jd"
+2026-10-23T15:27:50.698702Z,blakity,0.1.0,0,0,https://github.com/tailwags/blakity,"A tiny, portable, no_std BLAKE3, optimized for size and speed without SIMD"
+2026-10-23T15:27:53.385978Z,nimiq-blockchain-proxy,1.7.2,0,0,https://github.com/nimiq/core-rs-albatross,Persistent block storage for Nimiq's Albatross implementation
+2026-10-23T15:28:02.901366Z,arto-types,0.0.0,0,0,https://github.com/arto-app/Arto,Values Arto's configuration and its wire protocol both spell: the theme preference and where an opened file goes
+2026-10-23T15:28:10.655691Z,tree-sitter-wasm,0.1.0,0,0,https://github.com/tsukinoko-kun/tree-sitter-wasm,"Tree-sitter WASM grammar registry, shared download cache, and parser runtime"
+2026-10-23T15:28:49.475086Z,aphrody-rollout,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Resilient agent-session recorder: appends timestamped JSONL items to ~/.aphrody/sessions/rollout-*.jsonl through an async actor (mpsc + background writer task with Flush/Persist/Shutdown), and resume…"
+2026-10-23T15:29:26.278886Z,epicenter-graph,0.1.0-alpha.1,0,0,https://github.com/migraf/epicenter,"Deterministic code graph for reviewing changes: blast radius, QA plans, and MCP tools for coding agents"
+2026-10-23T15:29:38.926079Z,jd,0.20.0-rc.1,0,0,https://github.com/jbuehler23/jackdaw,"jd, the Jackdaw command-line tool: projects, builds, extension publishing and downloads"
+2026-10-23T15:30:02.413779Z,nimiq-dht,1.7.2,0,0,https://github.com/nimiq/core-rs-albatross,Nimiq Dht verifier implementation.
+2026-10-23T15:30:37.911759Z,evm2-jit-codegen,0.0.0-reserved,0,0,,evm2-jit-codegen
+2026-10-23T15:30:58.452359Z,perseid,0.1.0,0,0,https://github.com/andyintheshell/perseid,"A lightweight web security workbench for inspecting, modifying, and replaying HTTP traffic"
+2026-10-23T15:32:58.854401Z,rzp,1.6.0,0,0,,"RZP — a from-scratch, streaming, integrity-checked compression format"
+2026-10-23T15:35:05.726561Z,json-volcano,1.0.0,0,0,https://github.com/joeledwards/json-volcano,Reproducible streaming JSON fixtures with bounded memory
+2026-10-23T15:36:17.684101Z,brz-schedule,0.0.1,0,0,https://github.com/we-breeze/schedule,Provider-independent durable job execution and periodic scheduling
+2026-10-23T15:36:26.242634Z,brz-schedule-redis,0.0.1,0,0,https://github.com/we-breeze/schedule,Atomic Redis job and lock providers for brz-schedule
+2026-10-23T15:37:27.380719Z,asaas-client,1.0.0,0,0,https://github.com/Olimi-org/asaas-client,Rust client generated from the Asaas OpenAPI spec using openapi-to-rust
+2026-10-23T15:38:50.798415Z,aphrody-engine,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"The unified aphrody agent turn loop: drives a ModelClient stream, maps unified ModelStreamEvent into the SQ/EQ EventMsg protocol, runs tool calls via a ToolRegistry, re-injects tool results for multi…"
+2026-10-23T15:39:02.718763Z,uwoniri,0.2.1,0,0,https://github.com/jbeaurivage/uwoniri,Dynamic window resizing for niri on ultrawide monitors
+2026-10-23T15:39:11.219852Z,liburing-macros,0.0.1,0,0,https://github.com/trunkszi/liburing-rs,Compile-time 56-bit operation payload and subsystem id macros.
+2026-10-23T15:40:42.378921Z,evm2-jit-context,0.0.0-reserved,0,0,,evm2-jit-context
+2026-10-23T15:41:12.190273Z,nimiq-mempool-task,1.7.2,0,0,https://github.com/nimiq/core-rs-albatross,Mempool task implementation for Nimiq
+2026-10-23T15:42:14.08787Z,sentinel4rust,0.0.1,0,0,https://github.com/umbgtt10/sentinel4rust,Runs mutation testing around the clock on a dedicated machine and publishes each repository's surviving mutants on its own branch
+2026-10-23T15:42:21.437225Z,liburing-proactor,0.0.1,0,0,https://github.com/trunkszi/liburing-rs,Thread-confined io_uring proactor with subsystem dispatch and bounded staging
+2026-10-23T15:42:48.995947Z,retex-odp,1.3.0-alpha.1,0,0,https://gitlab.com/severin-lemaignan/retex,OpenDocument output for retex: the pages of a PDF file as an ODP presentation
+2026-10-23T15:43:22.503424Z,nimiq-rpc-interface,1.7.2,0,0,https://github.com/nimiq/core-rs-albatross,JSON RPC server for the Nimiq Rust implementation
+2026-10-23T15:45:11.299951Z,cares-macros,0.0.1,0,0,https://github.com/trunkszi/cares-rs,Procedural macros for typed DNS record extraction and zero-allocation query tables.
+2026-10-23T15:45:11.987864Z,cares-sys,0.0.1,0,0,https://github.com/trunkszi/cares-rs,Threadless static CMake build and modern FFI bindings for c-ares
+2026-10-23T15:45:15.437619Z,cares,0.0.1,0,0,https://github.com/trunkszi/cares-rs,"Threadless, completion-driven c-ares resolver for single-threaded proactor runtimes"
+2026-10-23T15:46:30.75035Z,euv-chart,0.32.3,0,0,https://github.com/euv-dev/euv.git,"A high-performance charting library for the euv framework, providing an ECharts-compatible option model with WebGPU, WebGL2, and Canvas2D backends behind one API."
+2026-10-23T15:48:49.457338Z,aphrody-infer,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Local ONNX inference backend for aphrody: runtime discovery, execution-provider selection with CUDA/DirectML/CPU fallback, and session loading driven by the aphrody-models catalog."
+2026-10-23T15:48:58.55138Z,json-skimmer,0.1.0,0,0,https://github.com/joeledwards/json-skimmer,"A recoverable, event-driven streaming JSON parser"
+2026-10-23T15:49:19.313973Z,nexora-proto,0.0.1,0,0,https://github.com/trunkszi/nexora-rs,"Sans-IO HTTP, TLS, and WebSocket protocol codecs"
+2026-10-23T15:50:41.221482Z,flon,0.1.0,0,0,https://github.com/joeledwards/flon,"Stream JSON as flat, grep-friendly assignments"
+2026-10-23T15:50:46.865198Z,evm2-jit-llvm,0.0.0-reserved,0,0,,evm2-jit-llvm
+2026-10-23T15:54:30.614827Z,nimiq-validator,1.7.2,0,0,https://github.com/nimiq/core-rs-albatross,Validator logic of Albatross
+2026-10-23T15:57:01.000872Z,dynamo-structural-tag,0.1.0,0,0,https://github.com/ai-dynamo/frontend-crates.git,Shared native Kimi grammars for Dynamo guided decoding
+2026-10-23T15:58:07.425193Z,ikigai-json,0.1.0,0,0,https://github.com/ikigai-rs/ikigai-json,"JSON and CSV as resources for ikigai: urn:json:query runs a jq program (jaq) over any resource, and CSV reads as JSON through a registered transreptor."
+2026-10-23T15:58:49.521149Z,aphrody-bindgen,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,Bindgen-based generator for dynamically loaded native-library bindings.
+2026-10-23T16:00:51.447443Z,evm2-jit-runtime,0.0.0-reserved,0,0,,evm2-jit-runtime
+2026-10-23T16:04:29.252062Z,zerolog-core,0.1.0,0,0,https://github.com/trunkszi/zerolog-rs,"Core runtime for zerolog-rs: lock-free SPSC queues, background poller, and binary encoding"
+2026-10-23T16:05:08.111719Z,zerolog-macros,0.1.0,0,0,https://github.com/trunkszi/zerolog-rs,Proc macros for zerolog-rs: log!() macro and #[derive(Encode)]
+2026-10-23T16:05:43.281714Z,nimiq-rpc-client,1.7.2,0,0,https://github.com/nimiq/core-rs-albatross,JSON RPC client for the Nimiq Rust implementation
+2026-10-23T16:08:55.45264Z,aphrody-llama-sys,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,Low-level dynamically loaded FFI bindings for llama.cpp.
+2026-10-23T16:10:38.76471Z,config-util,1.0.0,0,0,https://github.com/wdonne/config-util,Configuration utilities
+2026-10-23T16:14:15.580636Z,structured-stemmers,1.2.0,0,0,https://github.com/structured-world/rust-stemmers,"Pure Rust Snowball stemming, including Ukrainian, maintained by structured-world"
+2026-10-23T16:15:06.969476Z,zerolog-rs,0.1.0,0,0,https://github.com/trunkszi/zerolog-rs,High-performance lock-free structured logging with sub-30ns hot-path latency
+2026-10-23T16:15:45.502159Z,exponential-ui,0.1.0,0,0,https://github.com/Niach/exponential,"Exponential UI core: the A2UI reducer (core + basic catalog, macros, extensions), runtime themes with recipe resolution, taffy layout with batched measurement, overlay layers and windowed lists — the…"

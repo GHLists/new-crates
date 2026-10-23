@@ -8,60 +8,67 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 15:20 UTC
+## Latest list — 2026-10-23 16:18 UTC
 
-New crates published between 2026-10-23 14:21 UTC and 2026-10-23 15:20 UTC.
+New crates published between 2026-10-23 15:20 UTC and 2026-10-23 16:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-23T15-20-33-722584Z.csv)
+[Full CSV](data/new-crates-2026-10-23T16-18-36-554175Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-23 14:22:29 | [dawkey-app](https://crates.io/crates/dawkey-app) | 0.1.0 | 0 | Dawkey's application: views, UI actions, and the App state shared by the GUI an… |
-| 2026-10-23 14:23:26 | [larust-image](https://crates.io/crates/larust-image) | 0.9.0 | 0 | A Laravel-shaped web framework for Rust. |
-| 2026-10-23 14:24:25 | [oxibrain-tokenizer-local](https://crates.io/crates/oxibrain-tokenizer-local) | 0.20.1 | 0 | Offline tokenizer artifact adapter for oxibrain |
-| 2026-10-23 14:28:55 | [aphrody-nie-formats](https://crates.io/crates/aphrody-nie-formats) | 1.4.7 | 0 | Parsers de formats Level-5 (CPK, cfg.bin, G4*, CriLayla, Criware) portés en Rus… |
-| 2026-10-23 14:29:33 | [elrio](https://crates.io/crates/elrio) | 0.0.1 | 0 | Workflow engine for biotech. Not yet released. |
-| 2026-10-23 14:29:39 | [uhh](https://crates.io/crates/uhh) | 0.1.0 | 0 | Explains a shell command flag by flag, from the man pages already on your machi… |
-| 2026-10-23 14:30:26 | [fluxgate](https://crates.io/crates/fluxgate) | 1.0.0 | 0 | Client for the FluxGate feature toggle edge server, over OFREP, with an optiona… |
-| 2026-10-23 14:30:54 | [octri-parser](https://crates.io/crates/octri-parser) | 0.1.2 | 0 | Source-aware OpenAPI parser and reference graph, with no ambient I/O |
-| 2026-10-23 14:30:57 | [octri-parser-native](https://crates.io/crates/octri-parser-native) | 0.1.2 | 0 | Explicit file and HTTP resolver policies for the Octri parser |
-| 2026-10-23 14:30:59 | [octri-parser-cli](https://crates.io/crates/octri-parser-cli) | 0.1.2 | 0 | Native Octri OpenAPI parser command-line interface |
-| 2026-10-23 14:31:00 | [octri-parser-sdk](https://crates.io/crates/octri-parser-sdk) | 0.1.2 | 0 | Ergonomic native Rust facade for the Octri OpenAPI parser |
-| 2026-10-23 14:37:14 | [knut-llm](https://crates.io/crates/knut-llm) | 2023.8.1 | 0 | knut llm tool - part of knut |
-| 2026-10-23 14:37:25 | [evm2](https://crates.io/crates/evm2) | 0.0.0-reserved | 0 | evm2 |
-| 2026-10-23 14:37:29 | [evm2-cli](https://crates.io/crates/evm2-cli) | 0.0.0-reserved | 0 | evm2-cli |
-| 2026-10-23 14:37:31 | [evm2-macros](https://crates.io/crates/evm2-macros) | 0.0.0-reserved | 0 | evm2-macros |
-| 2026-10-23 14:37:34 | [evm2-eest](https://crates.io/crates/evm2-eest) | 0.0.0-reserved | 0 | evm2-eest |
-| 2026-10-23 14:37:38 | [evm2-inspectors](https://crates.io/crates/evm2-inspectors) | 0.0.0-reserved | 0 | evm2-inspectors |
-| 2026-10-23 14:38:50 | [aphrody-nie-render3d](https://crates.io/crates/aphrody-nie-render3d) | 1.4.7 | 0 | Renderer 3D du moteur nie : charge un GLB réel (assets CPK) et le rend en persp… |
-| 2026-10-23 14:40:11 | [knut-plan](https://crates.io/crates/knut-plan) | 2023.8.1 | 0 | knut plan tool - part of knut |
-| 2026-10-23 14:43:38 | [dawkey-wayland](https://crates.io/crates/dawkey-wayland) | 0.1.0 | 0 | Dawkey's Wayland window: client-side decorations, input, fractional scaling, wg… |
-| 2026-10-23 14:48:50 | [aphrody-nie-runtime](https://crates.io/crates/aphrody-nie-runtime) | 1.4.7 | 0 | Moteur de jeu nie : boucle intégrée monde + physique + rendu top-down → frames/… |
-| 2026-10-23 14:50:18 | [nmcl](https://crates.io/crates/nmcl) | 0.1.0 | 0 | A Minecraft Starter Based on Terminal，一个基于终端的Minecraft启动器 |
-| 2026-10-23 14:53:04 | [dawkey-mcp](https://crates.io/crates/dawkey-mcp) | 0.1.0 | 0 | Dawkey's MCP server: tools for Claude and for the test harness |
-| 2026-10-23 14:53:40 | [dawkey](https://crates.io/crates/dawkey) | 0.1.0 | 0 | A digital audio workstation for the Linux (Wayland + PipeWire) desktop |
-| 2026-10-23 14:54:55 | [nosqlsync-core](https://crates.io/crates/nosqlsync-core) | 0.1.1 | 0 | Schema inference and relational modeling for NoSQL-to-SQL migrations. Pure, no… |
-| 2026-10-23 14:54:57 | [nosqlsync](https://crates.io/crates/nosqlsync) | 0.1.1 | 0 | Migrate MongoDB to PostgreSQL with a real relational schema: analyze, plan, mig… |
-| 2026-10-23 14:56:51 | [dispost](https://crates.io/crates/dispost) | 0.1.1 | 0 | An event bus based on strongly consistent distributed data structures |
-| 2026-10-23 14:58:51 | [aphrody-nie-net](https://crates.io/crates/aphrody-nie-net) | 1.4.7 | 0 | nie online mode — multiplayer networking engine, Inacode room lobby, matchmakin… |
-| 2026-10-23 15:08:40 | [aktor-remote](https://crates.io/crates/aktor-remote) | 0.0.9 | 0 | Typed Aktor calls to independently running services |
-| 2026-10-23 15:08:47 | [gled-migrate](https://crates.io/crates/gled-migrate) | 2.31.0 | 0 | Brings gled's asset files to the current format: converts old SVG lamps and pro… |
-| 2026-10-23 15:08:51 | [bun-steam](https://crates.io/crates/bun-steam) | 1.4.7 | 0 | Bun OS Steam owner: VDF text/binary parser and writer, install and library disc… |
-| 2026-10-23 15:16:04 | [refquiem](https://crates.io/crates/refquiem) | 0.1.0 | 0 | A cargo requiem for the refs your Rust code left behind |
-| 2026-10-23 15:16:06 | [knut-py](https://crates.io/crates/knut-py) | 2023.8.1 | 0 | Python bindings for knut |
-| 2026-10-23 15:16:07 | [knut-tiles](https://crates.io/crates/knut-tiles) | 2023.8.1 | 0 | knut tiles tool - part of knut |
-| 2026-10-23 15:16:07 | [knut-train](https://crates.io/crates/knut-train) | 2023.8.1 | 0 | knut train tool - part of knut |
-| 2026-10-23 15:18:04 | [jackdaw_input](https://crates.io/crates/jackdaw_input) | 0.20.0-rc.1 | 0 | Input actions for the jackdaw editor: contexts, actions and bindings evaluated… |
-| 2026-10-23 15:18:26 | [jackdaw_package](https://crates.io/crates/jackdaw_package) | 0.20.0-rc.1 | 0 | Signed .jdext extension bundles for Jackdaw: format, verification and installat… |
-| 2026-10-23 15:18:30 | [jackdaw_releases](https://crates.io/crates/jackdaw_releases) | 0.20.0-rc.1 | 0 | Jackdaw's signed release index and the registry of installed editors, shared by… |
-| 2026-10-23 15:18:39 | [solana_kit_signers](https://crates.io/crates/solana_kit_signers) | 0.0.0 | 0 | Reserved portable signer capabilities for the off-chain Solana Kit SDK; this pl… |
-| 2026-10-23 15:18:54 | [bun-windows-winclean](https://crates.io/crates/bun-windows-winclean) | 1.4.7 | 0 | Canonical Bun Windows SDK for WinClean-compatible automation and diagnostics. |
-| 2026-10-23 15:19:21 | [evm2-jit](https://crates.io/crates/evm2-jit) | 0.0.0-reserved | 0 | evm2-jit |
-| 2026-10-23 15:19:30 | [evm2-jit-backend](https://crates.io/crates/evm2-jit-backend) | 0.0.0-reserved | 0 | evm2-jit-backend |
-| 2026-10-23 15:19:40 | [evm2-jit-build](https://crates.io/crates/evm2-jit-build) | 0.0.0-reserved | 0 | evm2-jit-build |
-| 2026-10-23 15:19:42 | [cw32l012-hal](https://crates.io/crates/cw32l012-hal) | 0.8.0 | 0 | no_std HAL for the CW32L012 Cortex-M0+ low-power MCU (Wuhan Xinyuan / CMSemicon) |
-| 2026-10-23 15:19:54 | [evm2-jit-builtins](https://crates.io/crates/evm2-jit-builtins) | 0.0.0-reserved | 0 | evm2-jit-builtins |
-| 2026-10-23 15:20:15 | [knut-web](https://crates.io/crates/knut-web) | 2023.8.1 | 0 | knut web tool - part of knut |
+| 2026-10-23 15:21:15 | [orgcst](https://crates.io/crates/orgcst) | 0.1.0 | 0 | Lossless concrete syntax tree parser for Org-mode, with typed views and structu… |
+| 2026-10-23 15:21:33 | [tree-sitter-compact](https://crates.io/crates/tree-sitter-compact) | 0.1.0 | 0 | A zero-knowledge smart contract programming language |
+| 2026-10-23 15:22:20 | [nimiq-blockchain-interface](https://crates.io/crates/nimiq-blockchain-interface) | 2.0.0 | 0 | Generic blockchain structures |
+| 2026-10-23 15:23:00 | [nimiq-genesis-builder](https://crates.io/crates/nimiq-genesis-builder) | 1.7.2 | 0 | Tools for building a Nimiq genesis |
+| 2026-10-23 15:24:04 | [nimiq-genesis](https://crates.io/crates/nimiq-genesis) | 1.7.2 | 0 | Nimiq Genesis configuration |
+| 2026-10-23 15:26:12 | [nimiq-light-blockchain](https://crates.io/crates/nimiq-light-blockchain) | 1.7.2 | 0 | Block storage for Nimiq's Light Nodes |
+| 2026-10-23 15:27:29 | [jackdaw_scaffold](https://crates.io/crates/jackdaw_scaffold) | 0.20.0-rc.1 | 0 | Jackdaw project templates, import planning and upgrades, shared by the editor a… |
+| 2026-10-23 15:27:50 | [blakity](https://crates.io/crates/blakity) | 0.1.0 | 0 | A tiny, portable, no_std BLAKE3, optimized for size and speed without SIMD |
+| 2026-10-23 15:27:53 | [nimiq-blockchain-proxy](https://crates.io/crates/nimiq-blockchain-proxy) | 1.7.2 | 0 | Persistent block storage for Nimiq's Albatross implementation |
+| 2026-10-23 15:28:02 | [arto-types](https://crates.io/crates/arto-types) | 0.0.0 | 0 | Values Arto's configuration and its wire protocol both spell: the theme prefere… |
+| 2026-10-23 15:28:10 | [tree-sitter-wasm](https://crates.io/crates/tree-sitter-wasm) | 0.1.0 | 0 | Tree-sitter WASM grammar registry, shared download cache, and parser runtime |
+| 2026-10-23 15:28:49 | [aphrody-rollout](https://crates.io/crates/aphrody-rollout) | 1.4.7 | 0 | Resilient agent-session recorder: appends timestamped JSONL items to ~/.aphrody… |
+| 2026-10-23 15:29:26 | [epicenter-graph](https://crates.io/crates/epicenter-graph) | 0.1.0-alpha.1 | 0 | Deterministic code graph for reviewing changes: blast radius, QA plans, and MCP… |
+| 2026-10-23 15:29:38 | [jd](https://crates.io/crates/jd) | 0.20.0-rc.1 | 0 | jd, the Jackdaw command-line tool: projects, builds, extension publishing and d… |
+| 2026-10-23 15:30:02 | [nimiq-dht](https://crates.io/crates/nimiq-dht) | 1.7.2 | 0 | Nimiq Dht verifier implementation. |
+| 2026-10-23 15:30:37 | [evm2-jit-codegen](https://crates.io/crates/evm2-jit-codegen) | 0.0.0-reserved | 0 | evm2-jit-codegen |
+| 2026-10-23 15:30:58 | [perseid](https://crates.io/crates/perseid) | 0.1.0 | 0 | A lightweight web security workbench for inspecting, modifying, and replaying H… |
+| 2026-10-23 15:32:58 | [rzp](https://crates.io/crates/rzp) | 1.6.0 | 0 | RZP — a from-scratch, streaming, integrity-checked compression format |
+| 2026-10-23 15:35:05 | [json-volcano](https://crates.io/crates/json-volcano) | 1.0.0 | 0 | Reproducible streaming JSON fixtures with bounded memory |
+| 2026-10-23 15:36:17 | [brz-schedule](https://crates.io/crates/brz-schedule) | 0.0.1 | 0 | Provider-independent durable job execution and periodic scheduling |
+| 2026-10-23 15:36:26 | [brz-schedule-redis](https://crates.io/crates/brz-schedule-redis) | 0.0.1 | 0 | Atomic Redis job and lock providers for brz-schedule |
+| 2026-10-23 15:37:27 | [asaas-client](https://crates.io/crates/asaas-client) | 1.0.0 | 0 | Rust client generated from the Asaas OpenAPI spec using openapi-to-rust |
+| 2026-10-23 15:38:50 | [aphrody-engine](https://crates.io/crates/aphrody-engine) | 1.4.7 | 0 | The unified aphrody agent turn loop: drives a ModelClient stream, maps unified… |
+| 2026-10-23 15:39:02 | [uwoniri](https://crates.io/crates/uwoniri) | 0.2.1 | 0 | Dynamic window resizing for niri on ultrawide monitors |
+| 2026-10-23 15:39:11 | [liburing-macros](https://crates.io/crates/liburing-macros) | 0.0.1 | 0 | Compile-time 56-bit operation payload and subsystem id macros. |
+| 2026-10-23 15:40:42 | [evm2-jit-context](https://crates.io/crates/evm2-jit-context) | 0.0.0-reserved | 0 | evm2-jit-context |
+| 2026-10-23 15:41:12 | [nimiq-mempool-task](https://crates.io/crates/nimiq-mempool-task) | 1.7.2 | 0 | Mempool task implementation for Nimiq |
+| 2026-10-23 15:42:14 | [sentinel4rust](https://crates.io/crates/sentinel4rust) | 0.0.1 | 0 | Runs mutation testing around the clock on a dedicated machine and publishes eac… |
+| 2026-10-23 15:42:21 | [liburing-proactor](https://crates.io/crates/liburing-proactor) | 0.0.1 | 0 | Thread-confined io_uring proactor with subsystem dispatch and bounded staging |
+| 2026-10-23 15:42:48 | [retex-odp](https://crates.io/crates/retex-odp) | 1.3.0-alpha.1 | 0 | OpenDocument output for retex: the pages of a PDF file as an ODP presentation |
+| 2026-10-23 15:43:22 | [nimiq-rpc-interface](https://crates.io/crates/nimiq-rpc-interface) | 1.7.2 | 0 | JSON RPC server for the Nimiq Rust implementation |
+| 2026-10-23 15:45:11 | [cares-macros](https://crates.io/crates/cares-macros) | 0.0.1 | 0 | Procedural macros for typed DNS record extraction and zero-allocation query tab… |
+| 2026-10-23 15:45:11 | [cares-sys](https://crates.io/crates/cares-sys) | 0.0.1 | 0 | Threadless static CMake build and modern FFI bindings for c-ares |
+| 2026-10-23 15:45:15 | [cares](https://crates.io/crates/cares) | 0.0.1 | 0 | Threadless, completion-driven c-ares resolver for single-threaded proactor runt… |
+| 2026-10-23 15:46:30 | [euv-chart](https://crates.io/crates/euv-chart) | 0.32.3 | 0 | A high-performance charting library for the euv framework, providing an ECharts… |
+| 2026-10-23 15:48:49 | [aphrody-infer](https://crates.io/crates/aphrody-infer) | 1.4.7 | 0 | Local ONNX inference backend for aphrody: runtime discovery, execution-provider… |
+| 2026-10-23 15:48:58 | [json-skimmer](https://crates.io/crates/json-skimmer) | 0.1.0 | 0 | A recoverable, event-driven streaming JSON parser |
+| 2026-10-23 15:49:19 | [nexora-proto](https://crates.io/crates/nexora-proto) | 0.0.1 | 0 | Sans-IO HTTP, TLS, and WebSocket protocol codecs |
+| 2026-10-23 15:50:41 | [flon](https://crates.io/crates/flon) | 0.1.0 | 0 | Stream JSON as flat, grep-friendly assignments |
+| 2026-10-23 15:50:46 | [evm2-jit-llvm](https://crates.io/crates/evm2-jit-llvm) | 0.0.0-reserved | 0 | evm2-jit-llvm |
+| 2026-10-23 15:54:30 | [nimiq-validator](https://crates.io/crates/nimiq-validator) | 1.7.2 | 0 | Validator logic of Albatross |
+| 2026-10-23 15:57:01 | [dynamo-structural-tag](https://crates.io/crates/dynamo-structural-tag) | 0.1.0 | 0 | Shared native Kimi grammars for Dynamo guided decoding |
+| 2026-10-23 15:58:07 | [ikigai-json](https://crates.io/crates/ikigai-json) | 0.1.0 | 0 | JSON and CSV as resources for ikigai: urn:json:query runs a jq program (jaq) ov… |
+| 2026-10-23 15:58:49 | [aphrody-bindgen](https://crates.io/crates/aphrody-bindgen) | 1.4.7 | 0 | Bindgen-based generator for dynamically loaded native-library bindings. |
+| 2026-10-23 16:00:51 | [evm2-jit-runtime](https://crates.io/crates/evm2-jit-runtime) | 0.0.0-reserved | 0 | evm2-jit-runtime |
+| 2026-10-23 16:04:29 | [zerolog-core](https://crates.io/crates/zerolog-core) | 0.1.0 | 0 | Core runtime for zerolog-rs: lock-free SPSC queues, background poller, and bina… |
+| 2026-10-23 16:05:08 | [zerolog-macros](https://crates.io/crates/zerolog-macros) | 0.1.0 | 0 | Proc macros for zerolog-rs: log!() macro and #[derive(Encode)] |
+| 2026-10-23 16:05:43 | [nimiq-rpc-client](https://crates.io/crates/nimiq-rpc-client) | 1.7.2 | 0 | JSON RPC client for the Nimiq Rust implementation |
+| 2026-10-23 16:08:55 | [aphrody-llama-sys](https://crates.io/crates/aphrody-llama-sys) | 1.4.7 | 0 | Low-level dynamically loaded FFI bindings for llama.cpp. |
+| 2026-10-23 16:10:38 | [config-util](https://crates.io/crates/config-util) | 1.0.0 | 0 | Configuration utilities |
+| 2026-10-23 16:14:15 | [structured-stemmers](https://crates.io/crates/structured-stemmers) | 1.2.0 | 0 | Pure Rust Snowball stemming, including Ukrainian, maintained by structured-world |
+| 2026-10-23 16:15:06 | [zerolog-rs](https://crates.io/crates/zerolog-rs) | 0.1.0 | 0 | High-performance lock-free structured logging with sub-30ns hot-path latency |
+| 2026-10-23 16:15:45 | [exponential-ui](https://crates.io/crates/exponential-ui) | 0.1.0 | 0 | Exponential UI core: the A2UI reducer (core + basic catalog, macros, extensions… |
 
 ## Data source
 
