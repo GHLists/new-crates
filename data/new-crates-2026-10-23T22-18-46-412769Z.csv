@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T21:19:46.794628Z,nuvec-macros,0.4.0,0,0,https://github.com/hupe1980/nuvec,"Derive macros for nuvec: #[derive(Tree)], #[derive(Module)] and #[derive(Static)]"
+2026-10-23T21:21:04.709521Z,configurant-secrets,0.2.25,0,0,https://github.com/ThinkersJournal/configurant,"Secret sources for ConfigurAnt: fetch a secret by reference at load time, hand it to the loader as redacted text, never print, log or write it."
+2026-10-23T21:23:00.437374Z,rgx-adapters-tabular,0.1.0,0,0,https://github.com/danalec/rgx,"rgx adapters for tabular & geospatial data (SQLite, DBF, Shapefile)"
+2026-10-23T21:23:14.369228Z,spacedatalab,0.2.0,0,0,https://github.com/SpaceDataLab/spacedatalab,"SpaceDataLab's Rust entry point: the spacelab core, and every other spacelab crate behind a feature of its own"
+2026-10-23T21:25:46.542822Z,sofie-check,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T21:26:33.475118Z,runsignal,0.1.0,0,0,https://github.com/gokhanertogan/RunSignal,"Monitor Rust background work that no HTTP status code describes (scheduled jobs, consumers, pipelines) with OpenTelemetry, and alert on missed, overrunning, stalled or low-output jobs."
+2026-10-23T21:28:51.290068Z,aphrody-ctr,0.1.1,0,0,,Pure Nintendo 3DS PICA command encoding and register stream decoding
+2026-10-23T21:31:13.083151Z,nidl-client,0.1.0,0,0,https://github.com/crissmoldovan/nidl,"Drive a running nidl core from a Rust program, over its local socket or its remote port."
+2026-10-23T21:31:50.342031Z,rgx-adapters-threed,0.1.0,0,0,https://github.com/danalec/rgx,"rgx adapters: 3D model formats (glb, stl, ply, fbx, pcd, las, vtk, obj)"
+2026-10-23T21:35:50.735121Z,sofie-client,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T21:38:51.262019Z,aphrody-emu-utils-macros,0.0.1,0,0,,Procedural macros for IECODE emulator utilities.
+2026-10-23T21:39:30.201818Z,solana_kit_associated_token_account,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_associated_token_account,Reserved associated token account client crate for the off-chain Solana Kit SDK; this placeholder supplies no SDK APIs
+2026-10-23T21:41:03.794303Z,retex-odf,1.3.0-rc.1,0,0,https://gitlab.com/severin-lemaignan/retex,OpenDocument output for retex: the pages of a PDF file as an ODP presentation or an ODT text document
+2026-10-23T21:42:03.171115Z,rgx-adapters-docs,0.1.0,0,0,https://github.com/danalec/rgx,"rgx adapters that shell out to external tools (soffice, tesseract) when present on PATH"
+2026-10-23T21:42:34.196489Z,linux-observability-mm,0.3.0,0,0,,Typed Linux memory-management readers extending procfs
+2026-10-23T21:43:32.932628Z,seaorm-auto-audit,0.1.1,0,0,https://github.com/mudhairless/seaorm-auto-audit,"Automatic audit trails for SeaORM entities: lifecycle hooks, a task-local actor, before/after snapshots and credential redaction."
+2026-10-23T21:45:34.357201Z,soroban-agent-account,0.1.0,0,0,https://github.com/OrderStream/soroban-agent-account,"Autonomous AI Agent Smart Account & Policy-Enforced Spending Wallet for Stellar Soroban Protocol 22 with daily spending caps, target whitelisting, and session TTLs."
+2026-10-23T21:45:55.424328Z,sofie-testing,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T21:48:51.592566Z,aphrody-emu-utils,0.0.1,0,0,,Shared utilities for IECODE emulator cores and adapters.
+2026-10-23T21:49:47.974305Z,baracuda-cuda-seam,0.0.1-alpha.161,0,0,https://github.com/ciresnave/baracuda,The Fuel kernel-seam `Synthesizer` implementation (`BaracudaSynthesizer`) over the CUDA backend in `baracuda-cuda-emit`.
+2026-10-23T21:50:57.389321Z,bivia,0.0.0,0,0,https://github.com/articul8/bivia,A8 Bivia. (Name reservation placeholder.)
+2026-10-23T21:51:07.00301Z,bivia-serve,0.0.0,0,0,https://github.com/articul8/bivia,A8 Bivia serving core. (Name reservation placeholder.)
+2026-10-23T21:52:30.269363Z,rgx-search,0.1.0,0,0,https://github.com/danalec/rgx,"Search inside everything — PDFs, Office documents, archives, 3D models, LLM checkpoints, databases, e-mail — with ripgrep-compatible flags and lightweight in-process content adapters"
+2026-10-23T21:53:47.504561Z,cortexkit-role-routing,0.1.0,0,0,https://github.com/cortexkit/commons,"Wire contract of the CortexKit routing/v1 role: role.describe, route.select, route.report, route.account_for and route.account_observe, with refusal codes and vectors."
+2026-10-23T21:54:47.639478Z,cortexkit-role-routing-conformance,0.1.0,0,0,https://github.com/cortexkit/commons,Conformance kit for the CortexKit routing/v1 role: drives a live routing provider through every contract rule and checks its wire replies.
+2026-10-23T21:56:00.050008Z,sofie-cache,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T21:56:44.518596Z,neosian,1.12.1,0,0,https://github.com/mausa-ai/neosian,"The state layer for LLM agents, as one static binary: the record, memory and the state process"
+2026-10-23T21:58:51.777424Z,aphrody-wii-image,0.1.1,0,0,,Wii disc and executable image inspection.
+2026-10-23T22:06:05.67028Z,sofie-mail,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T22:08:51.355514Z,aphrody-wii-dff,0.1.1,0,0,,Portable Wii DFF container parsing and serialization.
+2026-10-23T22:11:28.311221Z,terminet,0.0.1-alpha,0,0,https://tangled.org/joshuaward.roomy.chat/terminet,Rust library for the Terminet protocol
+2026-10-23T22:16:11.403469Z,sofie-notify,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T22:16:30.962405Z,almila-unpdf,0.48.0,0,0,https://github.com/almila-app/almila-unpdf,"High-performance PDF content extraction to Markdown, text, and JSON"
