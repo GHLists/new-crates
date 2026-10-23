@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T01:25:50.947531Z,rustyssl,1.0.0,0,0,https://github.com/zebra-rs/rustyssl,Memory-safe drop-in replacement for OpenSSL 3's libcrypto and libssl; this crate only points to the releases
+2026-10-23T01:28:49.960556Z,rs_lvgl_codegen,0.1.0,0,0,https://github.com/umbrella22/rs_lvgl,Code generation based on LVGL source code
+2026-10-23T01:29:48.350544Z,rs_lvgl_sys,0.1.0,0,0,https://github.com/umbrella22/rs_lvgl,Raw bindings to the LVGL C library (LVGL 9.6.x).
+2026-10-23T01:30:47.963478Z,rs_lvgl,0.1.0,0,0,https://github.com/umbrella22/rs_lvgl,"Rust widget, display, input and timer wrappers for the vendored LVGL 9.6 engine."
+2026-10-23T01:31:47.224307Z,rs_lvgl_ui,0.1.0,0,0,https://github.com/umbrella22/rs_lvgl,"Declarative, typed Rust UI layer for LVGL 9.6 with keyed reconciliation."
+2026-10-23T01:39:00.005162Z,pades,0.1.4,0,0,https://github.com/cipansor/crateworks,"PAdES PDF signatures: read a signed document, check what it covers, and report how far its long-term validation reaches."
+2026-10-23T01:42:01.406151Z,recon-kit,0.1.0,0,0,https://github.com/WyattAu/recon-kit,"Bank statement types and a matching engine for reconciling statements against a ledger — no format parsing, no floats, no silent auto-matching"
+2026-10-23T01:42:39.564937Z,coordx,0.0.1,0,0,,CoordX: shared identifiers and version information for the CoordX crates.
+2026-10-23T01:45:14.402407Z,iso6346,0.1.4,0,0,https://github.com/cipansor/crateworks,"Shipping container codes (ISO 6346): parse, validate and generate the check digit for BIC container numbers."
+2026-10-23T01:46:19.64719Z,coordx-core,0.0.1,0,0,,Core types shared by the CoordX crates.
+2026-10-23T01:46:23.545806Z,coordx-sdk,0.0.1,0,0,,Client SDK for CoordX.
+2026-10-23T01:46:26.200023Z,coordx-cli,0.0.1,0,0,,Command-line tool for CoordX.
+2026-10-23T01:51:23.087303Z,wist-stackcheck-core,0.1.3,0,0,https://github.com/dayu-sec/wist-stack-tools,"Shared engine for wist stack-level config checks: Flow Result v1, CLI, profiles, compose/ports/x509 helpers."
+2026-10-23T01:51:51.273064Z,radio-cli,0.8.0,0,0,https://github.com/hmgle/radio-cli,A lightweight terminal radio with local favorites and recordings
+2026-10-23T01:54:03.675606Z,credential-lease,0.1.0,0,0,https://github.com/Unka-Malloc/Credential-Lease,"Host-neutral credential lease contract: custody holds root credentials; runtimes receive process-bound, revocable, time-limited leases."
+2026-10-23T01:55:20.791492Z,nonius-format,0.1.0,0,0,,"NSB1: a binary columnar container with Arrow-compatible buffers, for dense time series."
+2026-10-23T01:55:21.516643Z,nonius-live,0.1.0,0,0,,"The client side of a Nonius live feed, sans-IO: frame codec, sequence rules, recovery and reconnection backoff."
+2026-10-23T01:55:24.164743Z,nonius-core,0.1.0,0,0,,"Domain-agnostic core types for dense time series: Point { t, v, w } and Scale."
+2026-10-23T01:55:26.762928Z,nonius-text,0.1.0,0,0,,"The text Nonius draws: its axis-label font, rasterised into an atlas at the screen's pixel size."
+2026-10-23T01:55:29.045025Z,nonius-render,0.1.0,0,0,,"Renderer for Nonius dense time series: on the GPU with wgpu (native, WebGPU, WebGL2), or on the CPU with no device."
+2026-10-23T01:58:02.586947Z,startup-task-sdk,0.1.0,0,0,https://github.com/kuun993/startup-task-sdk,Cross-language startup task coordination SDK (Rust implementation)
+2026-10-23T02:03:41.827715Z,nonius-capi,0.1.0,0,0,,"The C-ABI of Nonius: dense time series in memory, drawn on the CPU, from C and any language that calls C."
+2026-10-23T02:10:49.448496Z,ymir-code,0.1.0,0,0,https://github.com/rsdlt/ymir,"Browse and search your Claude Code sessions: prompts, replies, tool calls and edits, with fzf-style search"
+2026-10-23T02:13:19.76524Z,nonius-server,0.1.0,0,0,,"The reference server of the Nonius protocol: a series' history served in tiles over HTTP, cut by the same core that draws it."
+2026-10-23T02:17:24.043388Z,fipe-host,0.2.0-dev.2,0,0,https://github.com/ds1sqe/fipe,The std host: Fipe scripts against the real machine
+2026-10-23T02:17:25.639379Z,fipe-lsp,0.2.0-dev.2,0,0,https://github.com/ds1sqe/fipe,A language server for Fipe over the fipe crate
+2026-10-23T02:17:26.644073Z,fipe-native-core,0.2.0-dev.2,0,0,https://github.com/ds1sqe/fipe,Shared formats and operand layout for Fipe native backends
+2026-10-23T02:17:27.766776Z,fipe-repl-core,0.2.0-dev.2,0,0,https://github.com/ds1sqe/fipe,"The Fipe REPL without I/O: bytes in, bytes and file requests out"
+2026-10-23T02:17:29.272691Z,tree-sitter-fipe,0.2.0-dev.2,0,0,https://github.com/ds1sqe/fipe,Fipe grammar for tree-sitter
