@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T02:21:02.943097Z,fipe-dap,0.2.0-dev.2,0,0,https://github.com/ds1sqe/fipe,A debug adapter for Fipe over the Debug Adapter Protocol
+2026-10-23T02:30:15.306163Z,fipe-llvm,0.2.0-dev.2,0,0,https://github.com/ds1sqe/fipe,Fipe's LLVM backend: textual LLVM IR compiled by clang
+2026-10-23T02:40:15.018774Z,fipe-native-rt,0.2.0-dev.2,0,0,https://github.com/ds1sqe/fipe,The runtime the code of Fipe's native backend links against
+2026-10-23T02:40:45.988781Z,sci-sparse,0.1.0,0,0,https://github.com/p-sira/sci,Sparse matrices and linear algebra for scientific computing
+2026-10-23T02:40:51.823414Z,dht11-trace,0.1.0,0,0,https://github.com/marcelobns/dht11-trace,DHT11 driver for embedded-hal 1.0 that reports the protocol stage where a read failed
+2026-10-23T02:42:28.875513Z,phoenixcitestrust,0.1.5,0,0,https://gitlab.in2p3.fr/CTA-LAPP/PHOENIX_LIBS2/citoolkit/citestprojects/phoenixcitestrust,PhoenixCITestRust is an example Rust project to test PhoenixCIToolkit CI/CD components
+2026-10-23T02:42:31.555858Z,sci-io,0.1.0,0,0,https://github.com/p-sira/sci,Bounded scientific file interchange for Sci
+2026-10-23T02:50:14.22709Z,fipe-repl,0.2.0-dev.2,0,0,https://github.com/ds1sqe/fipe,The Fipe REPL program
+2026-10-23T02:51:13.178501Z,taixu,0.1.0,0,0,https://github.com/paxoscn/taixu,"General-purpose, embeddable game backend building blocks"
+2026-10-23T02:51:26.832831Z,rootcause-types-derive,0.1.0,0,0,https://github.com/mkatychev/rootcause-types,handle big errors ¯\_(ツ)_/¯
+2026-10-23T02:51:27.977068Z,document-session-api,0.1.0,0,0,https://github.com/merely-made/genet,"Engine-facing document contracts: retained session traits, the accessibility projection, document capabilities, page capture, and the engine-id namespace. The half of inker an engine implements."
+2026-10-23T02:51:28.625304Z,rootcause-types,0.13.0,0,0,https://github.com/mkatychev/rootcause-types,handle big errors ¯\_(ツ)_/¯
+2026-10-23T02:53:50.123325Z,webcue,0.1.0,0,0,https://github.com/merely-made/wgpu-cue,"Renderer-free surface control, capabilities, ordered requests and semantic publications"
+2026-10-23T02:55:10.756837Z,wgpu-cue,0.1.0,0,0,https://github.com/merely-made/wgpu-cue,Host-device presentation and owned native-frame integration for Webcue surfaces
+2026-10-23T03:00:12.297115Z,newt-flock,0.8.4,0,0,https://github.com/hartsock/newt-agent,"Newt's side of an agent-mesh flock: a verified follower, with tasks, asks and signed replies."
+2026-10-23T03:00:15.967509Z,fipe-native,0.2.0-dev.2,0,0,https://github.com/ds1sqe/fipe,Fipe's native backend: x86-64 machine code in an ELF object
+2026-10-23T03:00:23.385324Z,xihan-framework,0.0.1,0,0,https://github.com/XiHanFun/framework-sdk-rust,"XiHan Framework SDK for Rust: primitives, manifest, invocation context, pipeline and plugin runtimes (placeholder release; implementation planned)."
+2026-10-23T03:04:54.221426Z,originet,1.0.0,0,0,https://github.com/estcarisimo/originet,"Map IP addresses to origin ASNs with CAIDA's RouteViews prefix-to-AS snapshots, fetched on the fly or read from a local file"
+2026-10-23T03:05:03.443859Z,surfra,0.1.0,0,0,https://github.com/surfra-io/surfra-rust,"Surfra SDK: volumes, apps and jobs on serverless GPUs across your own clouds"
+2026-10-23T03:10:15.478183Z,fipe-cli,0.2.0-dev.2,0,0,https://github.com/ds1sqe/fipe,"The fipe command: run, check, build and talk to Fipe scripts"
+2026-10-23T03:17:24.602774Z,licoup-client-state,0.3.0,0,0,,"Portable private client-state collections, snapshots and activity log"
+2026-10-23T03:17:37.031558Z,licoup-model-catalog,0.3.0,0,0,,"Model identity, pricing and routing catalogue with a cached registry snapshot"
