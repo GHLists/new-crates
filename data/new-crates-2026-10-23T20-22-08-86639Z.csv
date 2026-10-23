@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T19:25:11.401596Z,context-sanitizer,0.1.0,0,0,https://github.com/reidlai/context-sanitizer,"Pure-Rust System One semantic firewall, split-secret shadow vault, and syntax-safe token compressor for LLM and Agentic AI contexts."
+2026-10-23T19:29:05.201789Z,aphrody-firefly,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Pure-Rust Adobe Firefly Services client for aphrody — IMS OAuth server-to-server token core, v3 async image generation (Image model), job polling and output download. Cross-platform (rustls), headles…"
+2026-10-23T19:29:41.299039Z,context-sanitizer-cli,0.1.0,0,0,https://github.com/reidlai/context-sanitizer,Context X-Ray diagnostic and benchmarking CLI for the context-sanitizer framework.
+2026-10-23T19:29:55.812379Z,consensus-ccp,0.0.0,0,0,https://github.com/tgrospic/consensus-ccp,Consensus as expansion and collapse over an explicit semantic carrier (name reserved; first release in preparation)
+2026-10-23T19:29:58.04586Z,consensus-ccp-runtime,0.0.0,0,0,https://github.com/tgrospic/consensus-ccp,Constructive carrier and machine interpreters for CCP (name reserved; first release in preparation)
+2026-10-23T19:30:00.819629Z,ccp-core,0.0.0,0,0,https://github.com/tgrospic/consensus-ccp,"CCP candidate and collapse sorts, expansion, restrictions, and realization (name reserved; first release in preparation)"
+2026-10-23T19:30:03.431911Z,ccp-quorum,0.0.0,0,0,https://github.com/tgrospic/consensus-ccp,CCP validator sorts and quorum composition (name reserved; first release in preparation)
+2026-10-23T19:30:04.510434Z,ccp-communication,0.0.0,0,0,https://github.com/tgrospic/consensus-ccp,"CCP message carrier, admission, and communication evidence (name reserved; first release in preparation)"
+2026-10-23T19:34:37.429741Z,sofie-framework,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T19:34:40.841769Z,sofie-cli,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T19:34:44.42901Z,sofie-core,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T19:34:48.12725Z,sofie-macros,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T19:34:50.832455Z,sofie-http,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T19:38:28.328399Z,ironrdp-rpc,0.1.0,0,0,https://github.com/Devolutions/IronRDP,Shared local RPC protocol and transport for IronRDP clients
+2026-10-23T19:39:04.878219Z,aphrody-ocr-core,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Portable versioned OCR result contract, provenance and quality states for aphrody."
+2026-10-23T19:40:26.938675Z,ccp-leader,0.0.0,0,0,https://github.com/tgrospic/consensus-ccp,CCP leader scheduling and policy products (name reserved; first release in preparation)
+2026-10-23T19:40:38.547001Z,manatan-srs-sdk,0.1.0,0,0,https://github.com/KolbyML/Manatan-SRS,Public SDK for building Manatan SRS extensions as WebAssembly components.
+2026-10-23T19:41:44.033357Z,sunasty-color-math,1.0.0,0,0,https://github.com/bsulyan/sunasty-color-math-rs,Zero-dependency sRGB and OKLCH color conversions and WCAG 2.1 accessibility contrast calculation in Rust
+2026-10-23T19:42:39.858117Z,agno,0.3.1,0,0,https://github.com/agnogad/agno,"A fast, content-first static site generator"
+2026-10-23T19:42:59.615682Z,ironrdp-rdpeudp-tokio,0.1.0,0,0,https://github.com/Devolutions/IronRDP,"Tokio driver wiring RDP-UDP, TLS and the multitransport tunnel into a usable transport"
+2026-10-23T19:44:55.500796Z,sofie-db,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T19:49:06.106645Z,aphrody-ocr-onnx,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,PP-OCR ONNX recognition primitives for aphrody.
+2026-10-23T19:50:49.033867Z,app-tracking,0.1.0,0,0,https://github.com/sebastian-software/app-tracking,"Bounded, cached update checks for CLI tools, independent of telemetry"
+2026-10-23T19:50:49.883479Z,ccp-confidence,0.0.0,0,0,https://github.com/tgrospic/consensus-ccp,CCP confidence and acceptance (name reserved; first release in preparation)
+2026-10-23T19:52:19.394125Z,octri-converter,0.1.3,0,0,https://github.com/octridev/octri-spec-converter,Offline API description conversion with source provenance and reviewed fidelity
+2026-10-23T19:52:20.957039Z,octri-converter-cli,0.1.3,0,0,https://github.com/octridev/octri-spec-converter,Octri Spec Converter command-line interface
+2026-10-23T19:55:00.934513Z,sofie-postgres,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T19:59:04.144879Z,aphrody-ocr-vlm,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,llama.cpp VLM backends for Aphrody OCR: one-shot and resident document transcription.
+2026-10-23T20:01:12.644133Z,ccp-mysticeti,0.0.0,0,0,https://github.com/tgrospic/consensus-ccp,CCP Mysticeti specification and laws (name reserved; first release in preparation)
+2026-10-23T20:03:31.17422Z,typed-dsp,0.1.0,0,0,https://github.com/Dust-and-Coil/typed-dsp,"Strongly typed audio units (peak amplitude, dBFS level, linear gain, gain in dB) that can't hold NaN."
+2026-10-23T20:05:07.197663Z,sofie-sqlite,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T20:06:55.712873Z,osc7501-parser,0.1.0,0,0,https://github.com/nlopes/osc7501-rs,"Bounded, allocation-free OSC 7501 program-status parsing"
+2026-10-23T20:07:07.70045Z,osc7501-store,0.1.0,0,0,https://github.com/nlopes/osc7501-rs,Bounded OSC 7501 terminal records with optional allocation
+2026-10-23T20:07:26.593838Z,osc7501-rs,0.1.0,0,0,https://github.com/nlopes/osc7501-rs,Typed OSC 7501 reports and terminal capability replies
+2026-10-23T20:09:03.40323Z,aphrody-ocr,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Image-to-text pipeline for aphrody: drives a local vision-language model over one image or a whole directory, parses its DocTags output into markdown, and reports which pages carry no text at all."
+2026-10-23T20:11:35.565306Z,ccp-cordial,0.0.0,0,0,https://github.com/tgrospic/consensus-ccp,CCP Cordial Miners specification and laws (name reserved; first release in preparation)
+2026-10-23T20:15:11.309825Z,sofie-engine,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T20:15:52.042265Z,mhr-gpui-kit-assets,0.7.2,0,0,https://github.com/mesa-hills-research/gpui_kit,Default bundled assets for GPUI Kit.
+2026-10-23T20:15:56.185959Z,mhr-gpui-kit-component-macros,0.7.2,0,0,https://github.com/mesa-hills-research/gpui_kit,"Procedural macros for GPUI Component, the styled layer of GPUI Kit."
+2026-10-23T20:16:01.421053Z,mhr-gpui-kit-base,0.7.2,0,0,https://github.com/mesa-hills-research/gpui_kit,"Behavior, interaction, and infrastructure foundations for GPUI applications."
+2026-10-23T20:16:07.921473Z,mhr-gpui-kit-writing,0.7.2,0,0,https://github.com/mesa-hills-research/gpui_kit,Spell checking and learned word suggestions for GPUI Kit text areas.
+2026-10-23T20:16:14.410921Z,mhr-gpui-kit-component,0.7.2,0,0,https://github.com/mesa-hills-research/gpui_kit,"GPUI Component: the styled component library of GPUI Kit, with 60+ desktop UI components for GPUI."
+2026-10-23T20:19:02.486575Z,aphrody-vision,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Visual transcription over local GGUF vision models: caption, dense-region description, full-page OCR and VQA."
+2026-10-23T20:20:05.413491Z,mynet,0.1.0,0,0,https://github.com/laguser/mynet,Fastfetch-styled minimal network auditor and local LAN device topology discoverer
+2026-10-23T20:21:58.658477Z,ccp-adaptive,0.0.0,0,0,https://github.com/tgrospic/consensus-ccp,CCP Adaptive specification and laws (name reserved; first release in preparation)
