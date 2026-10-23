@@ -8,57 +8,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 12:19 UTC
+## Latest list — 2026-10-23 13:20 UTC
 
-New crates published between 2026-10-23 11:18 UTC and 2026-10-23 12:19 UTC.
+New crates published between 2026-10-23 12:19 UTC and 2026-10-23 13:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-23T12-19-54-359801Z.csv)
+[Full CSV](data/new-crates-2026-10-23T13-20-04-682159Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-23 11:22:56 | [spacelab-gnss](https://crates.io/crates/spacelab-gnss) | 0.1.0 | 0 | Multi-constellation GNSS: GPS, Galileo, BeiDou, QZSS, NavIC and GLONASS broadca… |
-| 2026-10-23 11:22:57 | [aphrody-nie-video](https://crates.io/crates/aphrody-nie-video) | 1.4.7 | 0 | Streaming RGBA-to-video encoding capability for IECODE. |
-| 2026-10-23 11:23:33 | [infrarust-plugin-hello](https://crates.io/crates/infrarust-plugin-hello) | 2.0.0-beta.4 | 0 | Minimal example plugin for the Infrarust Minecraft proxy |
-| 2026-10-23 11:26:50 | [pcron](https://crates.io/crates/pcron) | 0.1.0 | 0 | Probabilistic cron: run commands at random intervals drawn from probability dis… |
-| 2026-10-23 11:28:23 | [atomix-core](https://crates.io/crates/atomix-core) | 0.1.0 | 0 | the typed atomic of atomix, the values it holds, and the orderings and primitiv… |
-| 2026-10-23 11:28:24 | [atomix-derive-impl](https://crates.io/crates/atomix-derive-impl) | 0.1.0 | 0 | the logic of atomix's derives: reads a type's definition, and writes its impls… |
-| 2026-10-23 11:28:26 | [atomix-derive](https://crates.io/crates/atomix-derive) | 0.1.0 | 0 | the derives of atomix: `Atom`, and the read-modify-writes a newtype takes from… |
-| 2026-10-23 11:28:28 | [atomix-rs](https://crates.io/crates/atomix-rs) | 0.1.0 | 0 | typed atomics for any value that fits one atomic, and the locks built on them. |
-| 2026-10-23 11:29:38 | [ebb-core](https://crates.io/crates/ebb-core) | 0.2.0 | 0 | ebb's platform-agnostic models: power, charging, behaviour, forecasts, backtest… |
-| 2026-10-23 11:29:44 | [ebb-platform](https://crates.io/crates/ebb-platform) | 0.2.0 | 0 | ebb's platforms: Linux sysfs/procfs, and a fake machine with known behaviour fo… |
-| 2026-10-23 11:29:50 | [ebb-store](https://crates.io/crates/ebb-store) | 0.2.0 | 0 | ebb's SQLite store (schema v4) |
-| 2026-10-23 11:30:03 | [ebb-battery](https://crates.io/crates/ebb-battery) | 0.2.0 | 0 | Query the local ebb: battery forecasts learned from how you use your machine |
-| 2026-10-23 11:30:13 | [ebb-cli](https://crates.io/crates/ebb-cli) | 0.2.0 | 0 | The ebb command: battery estimates learned from how you use your machine |
-| 2026-10-23 11:31:13 | [filmcraft-text](https://crates.io/crates/filmcraft-text) | 0.9.0 | 0 | FilmCraft text engine: font database (bundled + system), shaping, bidi, line br… |
-| 2026-10-23 11:32:10 | [crabpot-core](https://crates.io/crates/crabpot-core) | 0.1.0 | 0 | The platform-independent half of crabpot: config, globs, path entries and proxi… |
-| 2026-10-23 11:32:16 | [crabpot-macos](https://crates.io/crates/crabpot-macos) | 0.1.0 | 0 | The macOS half of crabpot: the seatbelt profile, the child environment and the… |
-| 2026-10-23 11:32:40 | [tevy](https://crates.io/crates/tevy) | 0.0.0 | 0 | A Rust game engine for building fast, great looking 3D and 2D games that run in… |
-| 2026-10-23 11:32:55 | [spacelab-ndm](https://crates.io/crates/spacelab-ndm) | 0.1.0 | 0 | CCSDS Navigation Data Messages: OPM and OEM readers and writers, CDM reader, in… |
-| 2026-10-23 11:35:01 | [agave-validator-config](https://crates.io/crates/agave-validator-config) | 0.0.1-reserved | 0 | reserved for future use |
-| 2026-10-23 11:35:24 | [h2mux-rs](https://crates.io/crates/h2mux-rs) | 0.0.2 | 0 | HTTP/2 multiplexed stream protocol |
-| 2026-10-23 11:36:29 | [idora](https://crates.io/crates/idora) | 1.0.0 | 0 | Idora.Rust: prefixed, time-ordered entity identifiers (usr_01k2f9v8ta7m3x0qbrn4… |
-| 2026-10-23 11:38:50 | [filmcraft-captions](https://crates.io/crates/filmcraft-captions) | 0.9.0 | 0 | FilmCraft captions: SRT, WebVTT, SCC, MCC, EBU STL and TTML/IMSC1/DFXP import/e… |
-| 2026-10-23 11:42:55 | [spacelab-sensors](https://crates.io/crates/spacelab-sensors) | 0.1.0 | 0 | Coverage constraints: continuous scalar predicates over (satellite, cell, senso… |
-| 2026-10-23 11:43:15 | [solana_kit_wasi](https://crates.io/crates/solana_kit_wasi) | 0.0.0 | 0 | Reserved WASI adapter crate for the off-chain Solana Kit client SDK; no SDK API… |
-| 2026-10-23 11:52:55 | [spacelab-constellation](https://crates.io/crates/spacelab-constellation) | 0.1.0 | 0 | Constellation design: generators (Walker, Street-of-Coverage, Flower, 2-D Latti… |
-| 2026-10-23 11:54:09 | [ironrdp-rail](https://crates.io/crates/ironrdp-rail) | 0.1.0 | 0 | RAIL static virtual channel wire protocol implementation |
-| 2026-10-23 11:54:10 | [ironrdp-rdpei](https://crates.io/crates/ironrdp-rdpei) | 0.1.0 | 0 | Input virtual channel extension (MS-RDPEI) implementation |
-| 2026-10-23 11:54:10 | [ironrdp-rdpel](https://crates.io/crates/ironrdp-rdpel) | 0.0.0 | 0 | Location dynamic channel client as described in MS-RDPEL |
-| 2026-10-23 11:54:11 | [ironrdp-usb](https://crates.io/crates/ironrdp-usb) | 0.1.0 | 0 | Protocol-independent USB data structures and semantics |
-| 2026-10-23 11:54:18 | [filmcraft-av1](https://crates.io/crates/filmcraft-av1) | 0.9.0 | 0 | Clean-room AV1 decoder (AV1 Bitstream & Decoding Process Specification v1.0.0 w… |
-| 2026-10-23 11:59:10 | [abyss-terminal-auth](https://crates.io/crates/abyss-terminal-auth) | 1.2.0 | 0 | Reusable terminal PKCE authentication contracts and credential helpers |
-| 2026-10-23 11:59:17 | [abyss-data-client](https://crates.io/crates/abyss-data-client) | 1.2.0 | 0 | Read-only HTTP client for Abyss event data backends |
-| 2026-10-23 11:59:31 | [abyss-query-cli](https://crates.io/crates/abyss-query-cli) | 1.2.0 | 0 | Cross-platform, agent-friendly CLI for Abyss backend data |
-| 2026-10-23 11:59:56 | [glacierdb](https://crates.io/crates/glacierdb) | 0.1.0 | 0 | Rust driver for glacierdb (ogd): framed MessagePack over TCP, streamed results,… |
-| 2026-10-23 12:00:19 | [oxrok](https://crates.io/crates/oxrok) | 0.1.0-alpha.1 | 0 | An experimental sigrok compatible logic analyzer, multimeter and oscilloscope s… |
-| 2026-10-23 12:02:58 | [spacelab-coverage](https://crates.io/crates/spacelab-coverage) | 0.1.0 | 0 | Access-window detection: sign-change bracketing and bracket-preserving root ref… |
-| 2026-10-23 12:04:41 | [filmcraft-avi](https://crates.io/crates/filmcraft-avi) | 0.9.0 | 0 | Clean-room AVI (RIFF) and OpenDML demuxer |
-| 2026-10-23 12:08:43 | [localenvx](https://crates.io/crates/localenvx) | 0.4.0 | 0 | Encrypted environment-variable manager for local development: no plaintext secr… |
-| 2026-10-23 12:09:21 | [filmcraft-dnx](https://crates.io/crates/filmcraft-dnx) | 0.9.0 | 0 | Clean-room Avid DNxHD / DNxHR (SMPTE ST 2019-1 VC-3) decoder and encoder |
-| 2026-10-23 12:12:21 | [seamless_info](https://crates.io/crates/seamless_info) | 0.15.0 | 0 | The no_std types describing a 'seamless' API, eg as returned from `Api::info()` |
-| 2026-10-23 12:12:24 | [seamless_ts](https://crates.io/crates/seamless_ts) | 0.15.0 | 0 | Generate TypeScript types from the info describing a 'seamless' API |
-| 2026-10-23 12:12:28 | [seamless_ts_bin](https://crates.io/crates/seamless_ts_bin) | 0.15.0 | 0 | A CLI tool to generate TypeScript types from the info describing a 'seamless' A… |
-| 2026-10-23 12:12:56 | [spacelab-frames](https://crates.io/crates/spacelab-frames) | 0.1.0 | 0 | Type-level reference frames: rotations that compose only when they should |
+| 2026-10-23 12:22:55 | [spacelab-astrometry](https://crates.io/crates/spacelab-astrometry) | 0.1.0 | 0 | Astrometric plate solving: source detection, TAN/SIP world coordinates, blind a… |
+| 2026-10-23 12:29:50 | [alkgit](https://crates.io/crates/alkgit) | 0.1.0 | 0 | Git smart protocol for the alk family: pkt-line substrates, protocol V2 serving… |
+| 2026-10-23 12:30:38 | [aphrody-patch](https://crates.io/crates/aphrody-patch) | 1.4.7 | 0 | LLM-native file-edit patch format (*** Begin Patch / Add\|Update\|Delete File / @… |
+| 2026-10-23 12:31:08 | [aphrody-toolcall-repair](https://crates.io/crates/aphrody-toolcall-repair) | 1.4.7 | 0 | Weak open-source model tool-calling robustness layer: a tolerant JSON repairer… |
+| 2026-10-23 12:32:55 | [spacelab-earth](https://crates.io/crates/spacelab-earth) | 0.1.0 | 0 | The WGS-84 ellipsoid: geodetic and Cartesian coordinates |
+| 2026-10-23 12:37:17 | [cargo-elicit](https://crates.io/crates/cargo-elicit) | 0.2.0 | 0 | Model-independent Rust verification workflow and evidence tracking |
+| 2026-10-23 12:37:19 | [wit-bindgen-wrpc-test](https://crates.io/crates/wit-bindgen-wrpc-test) | 0.1.0 | 0 | Test runner for the wRPC bindings generators, exposed as `wit-bindgen-wrpc test… |
+| 2026-10-23 12:37:53 | [one-instance-plz](https://crates.io/crates/one-instance-plz) | 0.1.0 | 0 | One instance of your app coming right up! |
+| 2026-10-23 12:38:39 | [filmcraft-h264](https://crates.io/crates/filmcraft-h264) | 0.9.0 | 0 | Clean-room pure-Rust H.264/AVC decoder (ITU-T H.264) |
+| 2026-10-23 12:39:28 | [oriel](https://crates.io/crates/oriel) | 0.0.0 | 0 | A desktop UI framework for Rust, built for deterministic testing and agent-driv… |
+| 2026-10-23 12:40:45 | [wrpc-http](https://crates.io/crates/wrpc-http) | 0.1.0 | 0 | wRPC HTTP transport |
+| 2026-10-23 12:40:53 | [wrpc-quic](https://crates.io/crates/wrpc-quic) | 0.1.0 | 0 | wRPC QUIC transport |
+| 2026-10-23 12:41:00 | [wrpc-websockets](https://crates.io/crates/wrpc-websockets) | 0.1.0 | 0 | wRPC WebSockets integration |
+| 2026-10-23 12:41:11 | [wrpc-webtransport](https://crates.io/crates/wrpc-webtransport) | 0.1.0 | 0 | wRPC WebTransport transport |
+| 2026-10-23 12:42:59 | [spacelab-propagation](https://crates.io/crates/spacelab-propagation) | 0.1.0 | 0 | Orbit propagation: verified integrators (Runge-Kutta, multistep, symplectic, Ta… |
+| 2026-10-23 12:44:28 | [wrpc-wasmtime](https://crates.io/crates/wrpc-wasmtime) | 0.1.0 | 0 | wRPC wasmtime integration |
+| 2026-10-23 12:46:23 | [solana_kit_system](https://crates.io/crates/solana_kit_system) | 0.0.0 | 0 | Reserved System Program client crate for the off-chain Solana Kit SDK; no SDK A… |
+| 2026-10-23 12:48:41 | [filmcraft-hevc](https://crates.io/crates/filmcraft-hevc) | 0.9.0 | 0 | Clean-room pure-Rust H.265/HEVC decoder (ITU-T H.265) |
+| 2026-10-23 12:49:53 | [keel-bosun](https://crates.io/crates/keel-bosun) | 0.1.0 | 0 | Orchestration helper for repos where agents write all the code |
+| 2026-10-23 12:52:56 | [spacelab-sgp4](https://crates.io/crates/spacelab-sgp4) | 0.1.0 | 0 | Typed, batch-shaped SGP4 propagation for many satellites |
+| 2026-10-23 12:55:46 | [smudge](https://crates.io/crates/smudge) | 0.0.0 | 0 | Placeholder for the Smudge native GUI library. Under development. |
+| 2026-10-23 12:55:49 | [smudge-core](https://crates.io/crates/smudge-core) | 0.0.0 | 0 | Placeholder for the Smudge native GUI library. Under development. |
+| 2026-10-23 12:55:51 | [smudge-cpu](https://crates.io/crates/smudge-cpu) | 0.0.0 | 0 | Placeholder for the Smudge native GUI library. Under development. |
+| 2026-10-23 12:55:54 | [smudge-platform](https://crates.io/crates/smudge-platform) | 0.0.0 | 0 | Placeholder for the Smudge native GUI library. Under development. |
+| 2026-10-23 12:55:57 | [smudge-text](https://crates.io/crates/smudge-text) | 0.0.0 | 0 | Placeholder for the Smudge native GUI library. Under development. |
+| 2026-10-23 12:56:46 | [oxframe-math](https://crates.io/crates/oxframe-math) | 0.21.0 | 0 | Typst math to SVG for oxframe's Math node (feature `math` of oxframe) |
+| 2026-10-23 12:57:31 | [cydonia-acp-agents](https://crates.io/crates/cydonia-acp-agents) | 0.2.6 | 0 | Find, install, and run ACP agents |
+| 2026-10-23 12:57:34 | [cydonia-acp-proto](https://crates.io/crates/cydonia-acp-proto) | 0.2.6 | 0 | ACP v1 wire types and method names |
+| 2026-10-23 12:57:43 | [cydonia-acp](https://crates.io/crates/cydonia-acp) | 0.2.6 | 0 | A compact implementation of the Agent Client Protocol |
+| 2026-10-23 12:57:47 | [cydonia-acp-events](https://crates.io/crates/cydonia-acp-events) | 0.2.6 | 0 | A channel-based ACP client for cydonia-acp |
+| 2026-10-23 12:58:25 | [emoji-expander](https://crates.io/crates/emoji-expander) | 1.2.1 | 0 | Expands :shortcodes: into emoji, in arguments, stdin or as you type in the shel… |
+| 2026-10-23 12:58:59 | [aphrody-a2a](https://crates.io/crates/aphrody-a2a) | 1.4.7 | 0 | A2A v1 protocol types and core definitions |
+| 2026-10-23 13:02:57 | [spacelab](https://crates.io/crates/spacelab) | 0.1.0 | 0 | Space data computation: time, Earth orientation, frames, propagation, geodesy |
+| 2026-10-23 13:06:21 | [smudge-widgets](https://crates.io/crates/smudge-widgets) | 0.0.0 | 0 | Placeholder for the Smudge native GUI library. Under development. |
+| 2026-10-23 13:07:45 | [chat-tui-core](https://crates.io/crates/chat-tui-core) | 1.11.1 | 0 | Terminal chat interface for messaging clients: chat list, inline images, reacti… |
+| 2026-10-23 13:09:02 | [aphrody-a2a-pb](https://crates.io/crates/aphrody-a2a-pb) | 1.4.7 | 0 | A2A v1 protobuf-generated types and conversion layer |
+| 2026-10-23 13:09:49 | [agent-coordinator-core](https://crates.io/crates/agent-coordinator-core) | 0.1.0 | 0 | 与传输无关的协调层内核：类型、预算、失败判定、运行记录 |
+| 2026-10-23 13:10:08 | [agent-coordinator-acp](https://crates.io/crates/agent-coordinator-acp) | 0.1.0 | 0 | ACP（Agent Client Protocol）stdio 运行时：起进程、归一事件、审批桥 |
+| 2026-10-23 13:10:37 | [cadencr-tab-backend](https://crates.io/crates/cadencr-tab-backend) | 0.1.0 | 0 | Helper for writing native backends of Cadencr custom tabs (stdio protocol v1) |
+| 2026-10-23 13:11:12 | [gmessages-proto](https://crates.io/crates/gmessages-proto) | 0.1.0 | 0 | Client library for the Google Messages for web protocol, implemented from a wri… |
+| 2026-10-23 13:12:44 | [agent-coordinator-cli](https://crates.io/crates/agent-coordinator-cli) | 0.1.0 | 0 | 命令 `ac`：把一个有界任务派给用户自选的 ACP harness，归一事件、守审批与预算、落审计 |
+| 2026-10-23 13:12:55 | [spacelab-control](https://crates.io/crates/spacelab-control) | 0.1.0 | 0 | Closed-loop guidance, navigation and control: feedback laws, and the sensor/com… |
+| 2026-10-23 13:13:52 | [kzx](https://crates.io/crates/kzx) | 0.1.0 | 0 | Kernel compression: a no_std, zero-dependency context-mixing compressor tuned f… |
+| 2026-10-23 13:16:21 | [gmessages-tui](https://crates.io/crates/gmessages-tui) | 1.3.1 | 0 | Google Messages (RCS and SMS) in your terminal, paired with your Android phone.… |
+| 2026-10-23 13:16:45 | [smudge-gpu](https://crates.io/crates/smudge-gpu) | 0.0.0 | 0 | Placeholder for the Smudge native GUI library. Under development. |
+| 2026-10-23 13:18:48 | [filmcraft-isobmff](https://crates.io/crates/filmcraft-isobmff) | 0.9.0 | 0 | Clean-room ISO BMFF (MP4) and QuickTime (MOV) demuxer and muxer |
 
 ## Data source
 

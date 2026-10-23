@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T12:22:55.423242Z,spacelab-astrometry,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"Astrometric plate solving: source detection, TAN/SIP world coordinates, blind asterism matching and reduction to a true topocentric direction."
+2026-10-23T12:29:50.27039Z,alkgit,0.1.0,0,0,https://git.alk.dev/alkdev/alkgit,"Git smart protocol for the alk family: pkt-line substrates, protocol V2 serving (upload-pack/receive-pack), producer/consumer halves on alkcall channels, and the backend seam traits — the shipped alk…"
+2026-10-23T12:30:38.032084Z,aphrody-patch,1.4.7,0,0,https://source.aphrody.app/aphrody-dev/bun-crate-aphrody-patch,"LLM-native file-edit patch format (*** Begin Patch / Add|Update|Delete File / @@ context) with a parser, Unicode-tolerant fuzzy line seeking, a streaming parser, and application over a pluggable file…"
+2026-10-23T12:31:08.463258Z,aphrody-toolcall-repair,1.4.7,0,0,https://source.aphrody.app/aphrody-dev/bun-crate-aphrody-toolcall-repair,"Weak open-source model tool-calling robustness layer: a tolerant JSON repairer (markdown fences, trailing commas, single-quoted strings, unquoted keys, Python literals, truncation, double-encoding),…"
+2026-10-23T12:32:55.703893Z,spacelab-earth,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,The WGS-84 ellipsoid: geodetic and Cartesian coordinates
+2026-10-23T12:37:17.284605Z,cargo-elicit,0.2.0,0,0,https://github.com/proofs-rs/cargo-elicit,Model-independent Rust verification workflow and evidence tracking
+2026-10-23T12:37:19.026473Z,wit-bindgen-wrpc-test,0.1.0,0,0,https://github.com/bytecodealliance/wrpc,"Test runner for the wRPC bindings generators, exposed as `wit-bindgen-wrpc test`."
+2026-10-23T12:37:53.510989Z,one-instance-plz,0.1.0,0,0,https://codeberg.org/pricklythorn/one-instance-plz,One instance of your app coming right up!
+2026-10-23T12:38:39.279737Z,filmcraft-h264,0.9.0,0,0,,Clean-room pure-Rust H.264/AVC decoder (ITU-T H.264)
+2026-10-23T12:39:28.884269Z,oriel,0.0.0,0,0,,"A desktop UI framework for Rust, built for deterministic testing and agent-driven verification. Early development."
+2026-10-23T12:40:45.46807Z,wrpc-http,0.1.0,0,0,https://github.com/bytecodealliance/wrpc,wRPC HTTP transport
+2026-10-23T12:40:53.354257Z,wrpc-quic,0.1.0,0,0,https://github.com/bytecodealliance/wrpc,wRPC QUIC transport
+2026-10-23T12:41:00.676354Z,wrpc-websockets,0.1.0,0,0,https://github.com/bytecodealliance/wrpc,wRPC WebSockets integration
+2026-10-23T12:41:11.89723Z,wrpc-webtransport,0.1.0,0,0,https://github.com/bytecodealliance/wrpc,wRPC WebTransport transport
+2026-10-23T12:42:59.196103Z,spacelab-propagation,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"Orbit propagation: verified integrators (Runge-Kutta, multistep, symplectic, Taylor), the IERS 2010 force model, atmospheric density models, DSST and attitude."
+2026-10-23T12:44:28.85948Z,wrpc-wasmtime,0.1.0,0,0,https://github.com/bytecodealliance/wrpc,wRPC wasmtime integration
+2026-10-23T12:46:23.728609Z,solana_kit_system,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_system,Reserved System Program client crate for the off-chain Solana Kit SDK; no SDK APIs are available in this placeholder
+2026-10-23T12:48:41.710677Z,filmcraft-hevc,0.9.0,0,0,,Clean-room pure-Rust H.265/HEVC decoder (ITU-T H.265)
+2026-10-23T12:49:53.268163Z,keel-bosun,0.1.0,0,0,https://github.com/keelstackhq/bosun,Orchestration helper for repos where agents write all the code
+2026-10-23T12:52:56.132824Z,spacelab-sgp4,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"Typed, batch-shaped SGP4 propagation for many satellites"
+2026-10-23T12:55:46.699037Z,smudge,0.0.0,0,0,,Placeholder for the Smudge native GUI library. Under development.
+2026-10-23T12:55:49.36675Z,smudge-core,0.0.0,0,0,,Placeholder for the Smudge native GUI library. Under development.
+2026-10-23T12:55:51.183968Z,smudge-cpu,0.0.0,0,0,,Placeholder for the Smudge native GUI library. Under development.
+2026-10-23T12:55:54.725669Z,smudge-platform,0.0.0,0,0,,Placeholder for the Smudge native GUI library. Under development.
+2026-10-23T12:55:57.23364Z,smudge-text,0.0.0,0,0,,Placeholder for the Smudge native GUI library. Under development.
+2026-10-23T12:56:46.387647Z,oxframe-math,0.21.0,0,0,https://github.com/oxygenframe/oxframe-sdk,Typst math to SVG for oxframe's Math node (feature `math` of oxframe)
+2026-10-23T12:57:31.741196Z,cydonia-acp-agents,0.2.6,0,0,https://github.com/crabtalk/cydonia,"Find, install, and run ACP agents"
+2026-10-23T12:57:34.284722Z,cydonia-acp-proto,0.2.6,0,0,https://github.com/crabtalk/cydonia,ACP v1 wire types and method names
+2026-10-23T12:57:43.437302Z,cydonia-acp,0.2.6,0,0,https://github.com/crabtalk/cydonia,A compact implementation of the Agent Client Protocol
+2026-10-23T12:57:47.613831Z,cydonia-acp-events,0.2.6,0,0,https://github.com/crabtalk/cydonia,A channel-based ACP client for cydonia-acp
+2026-10-23T12:58:25.917528Z,emoji-expander,1.2.1,0,0,https://github.com/louisrubet/emoji-expander,"Expands :shortcodes: into emoji, in arguments, stdin or as you type in the shell (with gitmoji)"
+2026-10-23T12:58:59.241008Z,aphrody-a2a,1.4.7,0,0,https://source.aphrody.app/aphrody-dev/bun-crate-aphrody-a2a,A2A v1 protocol types and core definitions
+2026-10-23T13:02:57.463685Z,spacelab,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"Space data computation: time, Earth orientation, frames, propagation, geodesy"
+2026-10-23T13:06:21.026986Z,smudge-widgets,0.0.0,0,0,,Placeholder for the Smudge native GUI library. Under development.
+2026-10-23T13:07:45.057592Z,chat-tui-core,1.11.1,0,0,https://github.com/louisrubet/chat-tui-core,"Terminal chat interface for messaging clients: chat list, inline images, reactions, emoji picker; the client brings its service"
+2026-10-23T13:09:02.630412Z,aphrody-a2a-pb,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,A2A v1 protobuf-generated types and conversion layer
+2026-10-23T13:09:49.767821Z,agent-coordinator-core,0.1.0,0,0,https://github.com/hi-agents/agent-coordinator,与传输无关的协调层内核：类型、预算、失败判定、运行记录
+2026-10-23T13:10:08.41307Z,agent-coordinator-acp,0.1.0,0,0,https://github.com/hi-agents/agent-coordinator,ACP（Agent Client Protocol）stdio 运行时：起进程、归一事件、审批桥
+2026-10-23T13:10:37.793923Z,cadencr-tab-backend,0.1.0,0,0,https://github.com/merkr-software/CadencR,Helper for writing native backends of Cadencr custom tabs (stdio protocol v1)
+2026-10-23T13:11:12.413776Z,gmessages-proto,0.1.0,0,0,https://github.com/louisrubet/gmessages-tui,"Client library for the Google Messages for web protocol, implemented from a written specification"
+2026-10-23T13:12:44.363611Z,agent-coordinator-cli,0.1.0,0,0,https://github.com/hi-agents/agent-coordinator,命令 `ac`：把一个有界任务派给用户自选的 ACP harness，归一事件、守审批与预算、落审计
+2026-10-23T13:12:55.431043Z,spacelab-control,0.1.0,0,0,https://github.com/SpaceDataLab/spacelab,"Closed-loop guidance, navigation and control: feedback laws, and the sensor/compute/actuator latency the loop actually runs at."
+2026-10-23T13:13:52.192611Z,kzx,0.1.0,0,0,https://github.com/tbraun96/kzx,"Kernel compression: a no_std, zero-dependency context-mixing compressor tuned for GPU kernel artifacts (PTX, cubin/SASS) and postcard blueprint bodies, with bomb-proof decoding for untrusted input."
+2026-10-23T13:16:21.798006Z,gmessages-tui,1.3.1,0,0,https://github.com/louisrubet/gmessages-tui,"Google Messages (RCS and SMS) in your terminal, paired with your Android phone. Not affiliated with Google."
+2026-10-23T13:16:45.464798Z,smudge-gpu,0.0.0,0,0,,Placeholder for the Smudge native GUI library. Under development.
+2026-10-23T13:18:48.651341Z,filmcraft-isobmff,0.9.0,0,0,,Clean-room ISO BMFF (MP4) and QuickTime (MOV) demuxer and muxer
