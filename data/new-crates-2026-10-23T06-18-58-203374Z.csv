@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T05:31:15.070653Z,safesweep,0.3.1,0,0,https://github.com/dpologdvinity/safesweep,Clean caches and temp files that are provably safe to delete
+2026-10-23T05:31:59.717896Z,tididi-cnf,0.1.1,0,0,https://github.com/Tractables/tididi-cnf,"Knowledge compiler and model counter for CNF: compiles a DIMACS formula into a canonical Tree Decision Diagram (TDD) and counts its models — plain, weighted, projected, or projected and weighted."
+2026-10-23T05:34:52.117598Z,aphrody-secrets,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Secret store abstraction (env + plaintext file + AES-256-GCM/Argon2id encrypted file) with redacted Display/Debug, constant-time equality, and Zeroize-on-drop SecretValue newtype."
+2026-10-23T05:37:55.115263Z,tilers_core,0.2.2,0,0,https://github.com/EV-Main/tilers,"Framework-agnostic engine for the tilers packed-grid tiling layout: the grid model, the gesture reducer, the seed cache, and CSS — no UI framework."
+2026-10-23T05:39:07.917461Z,tilers_leptos,0.2.2,0,0,https://github.com/EV-Main/tilers,Leptos binding for the tilers packed-grid tiling layout. Drives the framework-agnostic tilers_core engine.
+2026-10-23T05:39:38.485376Z,tilers_dioxus,0.2.3,0,0,https://github.com/EV-Main/tilers,"Dioxus binding for the tilers packed-grid tiling layout — panes split, resize, tab, float, and maximize, cached per screen band. Drives the framework-agnostic tilers_core engine."
+2026-10-23T05:39:48.311983Z,tilers,0.2.2,0,0,https://github.com/EV-Main/tilers,"Packed-grid tiling/docking layout — a framework-agnostic engine with optional Dioxus and Leptos bindings behind feature flags. Panes split, resize, tab, float, and maximize, cached per screen band."
+2026-10-23T05:41:27.534907Z,htmlcut,24.0.0,0,0,https://github.com/resoltico/HTMLCut,"Fail-closed extraction contracts for caller-owned HTML snapshots, with complete compact results."
+2026-10-23T05:43:10.080619Z,form-net,0.2.0,0,0,https://github.com/jamesgober/form-net,"Sans-IO form parsing for Rust: application/x-www-form-urlencoded and streaming multipart/form-data, with budgets checked before allocation, safe upload spilling, and typed extraction. No third-party…"
+2026-10-23T05:51:50.635487Z,ansi-crop,0.1.0,0,0,https://github.com/geraschenko/ansi-crop,Crop ANSI-styled text (such as tmux capture-pane -e output) to a rectangle while keeping its styling
+2026-10-23T05:53:41.987728Z,glyphux,0.3.0,0,0,https://github.com/Azazel-Labs/Glyphux,"Pure Rust multi-channel signed distance field generator (SDF, PSDF, MSDF, MTSDF) - a fast, dependency-light take on msdfgen"
+2026-10-23T05:53:43.948362Z,glyphux-atlas,0.3.0,0,0,https://github.com/Azazel-Labs/Glyphux,"Font atlas generator built on glyphux: charsets, glyph packing, SDF/PSDF/MSDF/MTSDF atlases and JSON/CSV layouts (msdf-atlas-gen compatible)"
+2026-10-23T05:53:44.283969Z,glyphux-gpu,0.3.0,0,0,https://github.com/Azazel-Labs/Glyphux,"GPU (wgpu / WGSL compute) generation of SDF, PSDF, MSDF and MTSDF glyphs for glyphux, with an atlas cache and text rendering"
+2026-10-23T05:53:45.235744Z,glyphux-cli,0.3.0,0,0,https://github.com/Azazel-Labs/Glyphux,"Command line tools for glyphux: glyphux (single shapes, msdfgen compatible) and glyphux-atlas (font atlases, msdf-atlas-gen compatible)"
+2026-10-23T05:59:57.97077Z,rndr_term,0.2.0,0,0,https://github.com/EntasisLabs/rndr,Embedded terminal session for rndr
+2026-10-23T06:02:19.407805Z,agent-driver,0.1.0,0,0,https://github.com/Shearerbeard/agent-driver-rs,"Unified abstraction over LLM providers with streaming, tools, MCP, and agent loops"
+2026-10-23T06:02:51.232248Z,bufo,0.1.0,0,0,,A survey of text buffers
+2026-10-23T06:03:12.829153Z,corbin,0.0.0,0,0,,A Rust web framework. In development.
+2026-10-23T06:17:44.119971Z,aphrody-guard,1.4.7,0,0,https://source.aphrody.app/aphrody-dev/bun-crate-aphrody-guard,"Autonomous-agent safety guardrails: pre-main process hardening (disable core dumps, block ptrace attach, strip LD_*/DYLD_* loader env) and a cross-platform shell command-safety classifier (Allow / Pr…"
+2026-10-23T06:18:19.146035Z,gbk-macro,0.0.1,0,0,,Compile-time UTF-8 to GBK/GB2312 byte array macros for embedded (no_std) targets
