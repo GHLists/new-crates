@@ -1,0 +1,59 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T22:19:03.931091Z,aphrody-switch,0.1.1,0,0,,Portable Switch CPU and Tegra texture primitives
+2026-10-23T22:20:06.507955Z,lang198x-z80-asm,0.1.0,0,0,https://github.com/lang198x/z80-asm,"The Z80 assembler family for Lang198x: one lossless parser for PasmoNext and the Z80 assemblers like it, a profile per dialect, lowering to asm198x-ir."
+2026-10-23T22:23:35.059953Z,steamkit-rs-protos,0.1.0,0,0,https://github.com/CottonDestroyer/steamkit-rs,"Steam protobuf message and enum types, generated with prost."
+2026-10-23T22:25:22.346712Z,gittop,0.1.0,0,0,https://github.com/wakamex/gittop,Live view of your latest Git activity across every repository under a folder
+2026-10-23T22:25:44.374219Z,steamkit-rs,0.1.0,0,0,https://github.com/CottonDestroyer/steamkit-rs,"Rust port of SteamKit2, a .NET library that aims to interoperate with the Steam network."
+2026-10-23T22:26:15.392209Z,sofie-storage,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T22:27:03.632791Z,astroceleste,0.0.0,0,0,https://github.com/ffalcinelli/astroceleste-cli,Command-line interface for the Astroceleste astrological calculations
+2026-10-23T22:29:22.449581Z,rs-tars2sqlite4wasi,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-tars2sqlite4wasi,Convert tar(.gz) files to SQLite tables
+2026-10-23T22:29:35.039384Z,aphrody-homebrew,0.1.1,0,0,,Rust build orchestration and stable ABI types for IECODE Nintendo homebrew
+2026-10-23T22:31:49.659942Z,ramp-ffmpeg-ios-arm64,9.0.2,0,0,https://github.com/ramp-stack/ffmpeg-sys,Precompiled FFmpeg 9.0.2 libraries for aarch64-apple-ios
+2026-10-23T22:32:07.977206Z,long-read-rad,0.1.0,0,0,https://github.com/COMBINE-lab/spearfish,"RAD records for bulk long-read mappings (one record per read, all of its alignments), shared by spearfish and oarfish"
+2026-10-23T22:32:08.371633Z,spearfish-lcp,0.1.0,0,0,https://github.com/COMBINE-lab/spearfish,"Locally consistent parsing (LCP) of DNA with SIMD kernels, the seeding parser of the spearfish long-read mapper"
+2026-10-23T22:32:08.954749Z,spearfish-seeds,0.1.0,0,0,https://github.com/COMBINE-lab/spearfish,"Seed schemes (LCP cores, minimizers, syncmers, strobemers) behind one interface, for the spearfish long-read mapper"
+2026-10-23T22:32:10.449738Z,spearfish-index,0.1.0,0,0,https://github.com/COMBINE-lab/spearfish,"The spearfish transcriptome index: a colored, compacted graph over seeds"
+2026-10-23T22:32:12.059291Z,spearfish-map,0.1.0,0,0,https://github.com/COMBINE-lab/spearfish,"Long-read mapping for spearfish: seeding, candidate genes, exact chaining shared across isoforms, and base-level tie-breaking"
+2026-10-23T22:32:13.698379Z,ramp-ffmpeg-ios-sim-arm64,9.0.2,0,0,https://github.com/ramp-stack/ffmpeg-sys,Precompiled FFmpeg 9.0.2 libraries for aarch64-apple-ios-sim
+2026-10-23T22:32:31.831828Z,ramp-ffmpeg-ios-sim-x86_64,9.0.2,0,0,https://github.com/ramp-stack/ffmpeg-sys,Precompiled FFmpeg 9.0.2 libraries for x86_64-apple-ios
+2026-10-23T22:33:30.755836Z,etalii-lark-derive,0.3.0,0,0,https://github.com/vrenken/EtAlii.Lark,"The #[lark_grammar] macro of etalii-lark: a typed parser, node wrappers and a typed visitor for a Lark grammar, generated at compile time."
+2026-10-23T22:36:20.440362Z,sofie-flags,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T22:40:08.226887Z,solana_kit_compute_budget,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_compute_budget,Reserved Compute Budget client crate for the off-chain Solana Kit SDK; this placeholder supplies no SDK APIs
+2026-10-23T22:40:36.460444Z,aphrody-nie-sql,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,Shared read-only SQL boundary for NIE hosts
+2026-10-23T22:40:39.029699Z,spearfish,0.1.0,0,0,https://github.com/COMBINE-lab/spearfish,Fast long-read RNA-seq mapping to a transcriptome with locally consistent parsing (library)
+2026-10-23T22:42:49.018349Z,tauto,0.0.0,0,0,https://github.com/Hihaheho/tauto,"Tauto, re-exporting its component crates"
+2026-10-23T22:42:50.80043Z,tauto-cli,0.0.0,0,0,https://github.com/Hihaheho/tauto,Command-line interface for Tauto
+2026-10-23T22:42:54.877639Z,tauto-tree,0.0.0,0,0,https://github.com/Hihaheho/tauto,Concrete syntax tree for Tauto
+2026-10-23T22:42:58.997511Z,tauto-parol,0.0.0,0,0,https://github.com/Hihaheho/tauto,Parol grammar and generated parser for Tauto
+2026-10-23T22:43:04.054926Z,tauto-ast,0.0.0,0,0,https://github.com/Hihaheho/tauto,Semantic abstract syntax tree for Tauto
+2026-10-23T22:45:21.837704Z,flight-entity,0.5.1-next.3232.9835e26,0,0,https://github.com/flighthq/flight,"Entity lifecycle management: allocation, finalization, runtime keys, and component storage"
+2026-10-23T22:45:24.839559Z,flight-host,0.5.1-next.3232.9835e26,0,0,https://github.com/flighthq/flight,"Bottom host vocabulary (D26): opaque platform handles, provider-issued ids, ProviderRef, timer and spawn seams, and explanation records"
+2026-10-23T22:45:27.4822Z,flight-resource,0.5.1-next.3232.9835e26,0,0,https://github.com/flighthq/flight,Resource reference lifecycle shared by audio and image: ResourceResolutionState
+2026-10-23T22:45:30.227317Z,flight-binpack,0.5.1-next.3232.9835e26,0,0,https://github.com/flighthq/flight,Rectangle bin packing algorithm
+2026-10-23T22:45:32.942075Z,flight-importdiagnostics,0.5.1-next.3232.9835e26,0,0,https://github.com/flighthq/flight,Structured diagnostics collector and formatter for Flight importers
+2026-10-23T22:45:47.042227Z,pbcp,0.1.0,0,0,https://github.com/0x44-labs/rs-pbcp,A protocol for producing claims whose assertion is backed by proof of resources spent.
+2026-10-23T22:46:06.002182Z,spearfish-cli,0.1.0,0,0,https://github.com/COMBINE-lab/spearfish,Command-line interface to spearfish (long-read RNA-seq mapping with locally consistent parsing)
+2026-10-23T22:46:24.964631Z,sofie-tenancy,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T22:51:13.470826Z,tauto-kernel,0.0.0,0,0,https://github.com/Hihaheho/tauto,Proof kernel for Tauto
+2026-10-23T22:52:42.994399Z,aphrody-nie-explore,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,Moteur partagé d'aperçu/description des entrées VFS (CPK) par format — utilisé par `nie vfs cat` (aphrody-nie-cli) et l'app desktop `nie-explorer` (Tauri)
+2026-10-23T22:52:59.194466Z,nova-ta,0.1.0,0,0,https://gitlab.chipatrade.com/Rick-29/nova,Core traits and state primitives for streaming technical-analysis indicators.
+2026-10-23T22:54:41.119397Z,silo-rs,0.2.7,0,0,https://github.com/pzzld-org/silo.git,A token efficient knowledge & memory solution for agentic workflows.
+2026-10-23T22:54:42.934298Z,silo-cli,0.2.7,0,0,https://github.com/pzzld-org/silo.git,A token efficient knowledge & memory solution for agentic workflows.
+2026-10-23T22:54:43.65983Z,silo-mcp,0.2.7,0,0,https://github.com/pzzld-org/silo.git,A token efficient knowledge & memory solution for agentic workflows.
+2026-10-23T22:55:25.447224Z,flight-geolocation,0.5.1-next.3232.9835e26,0,0,https://github.com/flighthq/flight,"Geolocation capability seam: position reads, watches and access prompts routed through a host provider"
+2026-10-23T22:56:30.57197Z,sofie-billing,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T22:57:39.976498Z,jtag-scanner,0.1.0,0,0,https://codeberg.org/wuwbobo/jtag-scanner,A JTAG boundary scanning module
+2026-10-23T23:01:20.307458Z,tauto-nibcheck,0.0.0,0,0,https://github.com/Hihaheho/tauto,Checker for Nib in Tauto
+2026-10-23T23:02:05.971027Z,aphrody-nie-app,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Cœur du jeu nie : la machine à états (GameState) + le rendu abstrait (trait Renderer), extraits en bibliothèque réutilisable. aphrody-nie-play (headless/golden) et aphrody-nie-game (interactif GPU) e…"
+2026-10-23T23:06:35.674019Z,sofie-content,0.0.1,0,0,https://github.com/sofie-rs/sofie,Reserved for the sofie web framework (https://github.com/sofie-rs); not usable yet.
+2026-10-23T23:07:37.729014Z,argonauts-core,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,"Shared types, traits, event log, config, and spend meter for Argonauts Code."
+2026-10-23T23:08:05.59323Z,argonauts-adapter-acp,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,"The generic ACP worker for Argonauts Code: any Agent Client Protocol agent in the crew, from a profile of data."
+2026-10-23T23:08:25.842857Z,argonauts-adapter-antigravity-cli,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,agy adapter for Argonauts Code.
+2026-10-23T23:08:28.948981Z,argonauts-adapter-claude-code,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,Claude Code adapter for Argonauts Code.
+2026-10-23T23:08:32.999297Z,argonauts-adapter-codex,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,Codex adapter for Argonauts Code.
+2026-10-23T23:08:48.561466Z,aphrody-nie-asm,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,Encodeur x86-64 (dialecte MSVC) — régénère les corps de fonctions de nie.exe depuis une source symbolique
+2026-10-23T23:10:31.646166Z,s3pe,0.1.0,0,0,https://github.com/StrategicProjects/s3pe,"Small, dependable S3 client and CLI: read, write, list and delete objects on s3.pe.gov.br (Garage) or any S3-style store, with SigV4 signing, retries and integrity checks"
+2026-10-23T23:11:26.869477Z,tauto-eval,0.0.0,0,0,https://github.com/Hihaheho/tauto,Evaluator for Tauto
+2026-10-23T23:17:59.467654Z,argonauts-adapter-manifest,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,Argonauts Code CLI manifests: a generic adapter for simple CLIs described as data.
+2026-10-23T23:19:01.692474Z,aphrody-nie-bench,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Banc d'essai inter-langages : mesure les hot paths du dépôt en Rust, et produit les échantillons que les harnais C++/C#/TS rejouent"
+2026-10-23T23:19:33.74412Z,tauto-macro,0.0.0,0,0,https://github.com/Hihaheho/tauto,Macro expander for Tauto
