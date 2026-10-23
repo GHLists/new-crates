@@ -1,0 +1,16 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T04:38:47.648297Z,quokkadb-hg,0.1.0,0,0,,"In-memory hypergraph bitmap database: dual Roaring incidence index, set algebra, containment queries"
+2026-10-23T04:38:52.782249Z,quokkadb,0.1.0,0,0,,"A hypergraph knowledge database: text becomes grammar trees, then hyperedges, then roaring bitmaps, and questions are answered by first-order logic with proofs"
+2026-10-23T04:41:39.197747Z,riskgrep-core,1.0.0,0,0,https://github.com/jkotzker/riskgrep,"Scoring engine of RiskGrep: scores files from 0 to 100 for secrets and biometric embeddings with YARA-X rules and structural checks, without recording matched values"
+2026-10-23T04:41:41.156423Z,riskgrep,1.0.0,0,0,https://github.com/jkotzker/riskgrep,"Local scanner that scores files from 0 to 100 for secrets and biometric embeddings, with a git pre-commit hook; never records matched values"
+2026-10-23T04:41:41.524248Z,riskgrep-claude,1.0.0,0,0,https://github.com/jkotzker/riskgrep,Claude Code PreToolUse hook that asks or denies before an agent reads files RiskGrep scores as secrets or biometric embeddings
+2026-10-23T04:41:54.149088Z,ikigai-ui,0.1.0,0,0,https://github.com/ikigai-rs/ikigai-ui,"The shared UI path for ikigai hosts, as resources: vendored htmx, the token stylesheet, the shell script and the page shell, compiled in or overridden from a directory, plus the UI test kit."
+2026-10-23T04:49:50.217286Z,tmux-agent-notifier,0.1.0,0,0,,"Surface coding agent activity (Claude Code, Cursor, Goose) in tmux"
+2026-10-23T04:53:36.955493Z,crcbl-mixer,0.9.0,0,0,https://github.com/kryptic-sh/crcbl,"Crucible mixer control: the system's volume, devices and streams"
+2026-10-23T05:00:41.741429Z,ah-id-macros,0.1.0,0,0,https://github.com/AzVs32/asset-hub,Derive implementation for ah-id
+2026-10-23T05:02:14.77496Z,welp,0.1.1,0,0,https://github.com/Oliv3rmoon/welp,Fixes the command you just typed wrong. A fast successor to thefuck.
+2026-10-23T05:06:57.07421Z,ah-id,0.1.0,0,0,https://github.com/AzVs32/asset-hub,"Typed identifiers with explicit capabilities and validated UUID v7, ULID and NanoID values"
+2026-10-23T05:09:43.078985Z,quantpicker,0.1.0,0,0,https://github.com/alleyxd/quantpicker,Measures which GGUF quant of a model to run on your GPU: real speed and real quality loss
+2026-10-23T05:09:57.086596Z,piroh,0.1.0,0,0,https://github.com/cosys-work/tda,An iroh endpoint that reaches one relay and the peers it introduces: the direct transport of the cosys peer network.
+2026-10-23T05:10:08.441995Z,prelay,0.1.0,0,0,https://github.com/cosys-work/tda,"iroh-relay 1.2.0 with an access check, so only the application's own builds can use the relay."
+2026-10-23T05:17:34.453287Z,betbetter,1.0.0,0,0,https://gitlab.com/betbetterworld/betbetter-rs,"Client for the free Bet Better sports model API - win probabilities, fair odds and plain-English verdicts for 12 sports. No API key."
