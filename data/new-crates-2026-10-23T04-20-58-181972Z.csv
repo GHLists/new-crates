@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T03:26:10.986393Z,mlx-c-rust,0.7.0-alpha.1,0,0,https://github.com/aosama/mlx-c-rust,"A complete, low-level, policy-free Rust bridge to the MLX-C API of Apple's MLX (binds MLX-C 0.7, MLX 0.32) for Apple silicon."
+2026-10-23T03:28:45.03144Z,bouncer-io,0.2.0,0,0,https://github.com/jamesgober/bouncer-io,"Connection gate for Rust services: admission by address, prefix, fingerprint, session, and account; in-flight revocation through cheap checkpoints; wipe, replace, and eject of revoked requests; ban m…"
+2026-10-23T03:29:15.708229Z,sentry-viewercontext,0.1.0,0,0,https://github.com/getsentry/viewercontext,Caller identity propagated between Sentry services
+2026-10-23T03:29:41.809152Z,whoisport,0.2.0,0,0,https://github.com/dpologdvinity/whoisport,"Show what is listening on a TCP port, and optionally kill it"
+2026-10-23T03:36:51.239647Z,stream-pcre-sys,0.32.0,0,0,https://github.com/epics-rs/epics-rs,"Vendored C PCRE 8.45 (PCRE1), built 8-bit without UTF-8: the test oracle for epics-stream-rs's Rust PCRE port (a dev-dependency only)"
+2026-10-23T03:37:10.089631Z,epics-snc-rs,0.32.0,0,0,https://github.com/epics-rs/epics-rs,Rust port of the EPICS sequencer's SNL compiler (snc): turns an unchanged .st program into Rust at build time
+2026-10-23T03:37:21.43569Z,epics-seq-rs,0.32.0,0,0,https://github.com/epics-rs/epics-rs,"Rust port of the EPICS sequencer run-time (seq, pv) that snc-rs generated programs run on"
+2026-10-23T03:37:34.52944Z,epics-stream-rs,0.32.0,0,0,https://github.com/epics-rs/epics-rs,"Rust port of PSI StreamDevice: protocol parser, buffers and the bus/converter/core boundaries"
+2026-10-23T03:37:40.451549Z,sscan-rs,0.32.0,0,0,https://github.com/epics-rs/epics-rs,Rust port of the EPICS synApps sscan module (sscan and scanparm records)
+2026-10-23T03:40:08.867544Z,chanto,0.0.0,0,0,https://github.com/chanto-sh,"Name reserved for Chanto, a coding agent that checks its own work. Real releases coming soon."
+2026-10-23T03:40:10.579762Z,chanto-proto,0.0.0,0,0,https://github.com/chanto-sh,"Name reserved for Chanto, a coding agent that checks its own work. Real releases coming soon."
+2026-10-23T03:45:19.244899Z,report-kit,0.1.0,0,0,https://github.com/WyattAu/report-kit,"Trial balance and aging reports over a double-entry ledger — per-currency by construction, with the accounting equation as a runtime check"
+2026-10-23T03:50:48.471638Z,nimiq-bls,1.7.2,0,0,https://github.com/nimiq/core-rs-albatross,BLS signatures
+2026-10-23T03:51:24.540512Z,nimiq-handel,1.7.2,0,0,https://github.com/nimiq/core-rs-albatross,Nimiq implementation of the handel protocol
+2026-10-23T03:51:37.260498Z,impresa,0.0.1,0,0,https://github.com/merely-made/eidetic,"The association organ: validated records of what a pointable thing has come to be associated with, and what has lapsed, over time"
+2026-10-23T03:52:21.302137Z,net-io,0.2.0,0,0,https://github.com/jamesgober/net-io,"Network IO substrate for Rust: TCP, UDP and local-socket listeners, connection lifecycle, limits, graceful drain, PROXY protocol, and a TLS seam. Protocol-free and dependency-free."
+2026-10-23T03:53:49.413919Z,nimiq-trie,1.7.2,0,0,https://github.com/nimiq/core-rs-albatross,Merkle radix trie primitive for Nimiq's Rust implementation
+2026-10-23T03:57:28.08784Z,elm-connect-gen,0.1.0,0,0,https://github.com/bruckner/elm-connect,Generate Elm clients for protobuf APIs: the library behind protoc-gen-elm-connect and elm-connect
+2026-10-23T03:58:24.198407Z,adlx-lite,1.0.0,0,0,https://github.com/yihuishou/adlx-rs-lite,Bindings for AMD's Device Library eXtra
+2026-10-23T03:58:33.660092Z,protoc-gen-elm-connect,0.1.0,0,0,https://github.com/bruckner/elm-connect,protoc plugin that generates Elm clients for protobuf APIs
+2026-10-23T03:58:46.294926Z,elm-connect,0.1.0,0,0,https://github.com/bruckner/elm-connect,"Generate Elm clients for protobuf APIs from .proto files, without protoc"
+2026-10-23T03:59:51.210453Z,nimiq-validator-network,1.7.2,0,0,https://github.com/nimiq/core-rs-albatross,Nimiq's validator network abstraction in Rust
+2026-10-23T04:00:35.629847Z,nimiq-network-libp2p,1.7.2,0,0,https://github.com/nimiq/core-rs-albatross,Nimiq network implementation based on libp2p
+2026-10-23T04:02:43.396426Z,nimiq-subscription,1.7.2,0,0,https://github.com/nimiq/core-rs-albatross,Subscription primitives to be used in Nimiq's Albatross implementation
+2026-10-23T04:03:18.426411Z,nimiq-transaction-builder,1.7.2,0,0,https://github.com/nimiq/core-rs-albatross,Wallet logic for Nimiq's Rust implementation
+2026-10-23T04:08:19.905608Z,redis-mcp,0.1.0,0,0,https://github.com/redis-developer/redis-database-mcp-rs,Composable MCP tools for Redis databases
+2026-10-23T04:08:26.589107Z,define-err,0.1.0,0,0,https://github.com/jamesgober/define-err,"Typed error definitions without a proc macro: thiserror-style Display, source, and From, plus optional stable error codes, severity, categories, kind masks, a code catalog, and a reporting facade any…"
+2026-10-23T04:09:45.060482Z,report-err,0.1.0,0,0,https://github.com/jamesgober/report-err,"Dynamic errors for Rust applications: one error type for any error, with context, a propagation trace, typed attachments, several causes, error codes, exit codes, and a panic boundary. One machine wo…"
+2026-10-23T04:11:30.584992Z,statement-ofx,0.1.0,0,0,https://github.com/WyattAu/statement-ofx,"OFX bank statement adapter producing recon-kit Statements — sign-normalising, float-free amounts, hand-rolled SGML scan with zero dependencies"
+2026-10-23T04:12:11.39921Z,agent-statistics,0.1.0,0,0,https://github.com/Unka-Malloc/Agent-Statistics.git,"Local usage measurement, aggregation and metering journal engine: the usage journal, incremental projection, windowing, attribution, retained-report persistence, source-host composition and request c…"
+2026-10-23T04:14:00.029484Z,nimiq-wallet,1.7.2,0,0,https://github.com/nimiq/core-rs-albatross,Wallet logic for Nimiq's Rust implementation
+2026-10-23T04:14:21.3361Z,niucode-mcp,0.1.5,0,0,https://github.com/niuverse/niucode,Minimal read-only MCP stdio client for niucode
+2026-10-23T04:14:53.929526Z,responsa,0.0.1,0,0,https://github.com/merely-made/eidetic,"Answers kept as cases and reconciled into a doctrine: manifest, register, link journal, lookup, budget and links across repositories"
+2026-10-23T04:17:00.41523Z,stitchpane-core,0.1.0,0,0,https://github.com/iamjpotts/stitchpane,Spec-Driven Image Editor In Rust
+2026-10-23T04:17:02.396534Z,stitchpane-gtk,0.1.0,0,0,https://github.com/iamjpotts/stitchpane,Spec-Driven Image Editor In Rust
+2026-10-23T04:17:02.783945Z,stitchpane-iced,0.1.0,0,0,https://github.com/iamjpotts/stitchpane,Spec-Driven Image Editor In Rust
+2026-10-23T04:17:03.861695Z,stitchpane,0.1.0,0,0,https://github.com/iamjpotts/stitchpane,Spec-Driven Image Editor In Rust
+2026-10-23T04:17:46.875693Z,tcs-xtce,0.1.0,0,0,https://github.com/vomlehn/tcs-xtce,"Flight software: serialization and deserialization of OMG XTCE documents into managed, preallocated buffers, being integrated with NASA's cFS and JPL's F Prime"
+2026-10-23T04:18:45.355397Z,vat-return,0.1.0,0,0,https://github.com/WyattAu/vat-return,"VAT return boxes from AR invoices and AP bills — deductible-only input tax, per-currency, tax-point filtered"
+2026-10-23T04:19:17.622063Z,s3-fleet,0.1.0,0,0,https://github.com/ticpu/s3-fleet,"A fleet of SSH hosts kept in one S3 object: pinned host keys, labels, discovery over DNS"
+2026-10-23T04:20:08.918596Z,cookie-net,0.1.0,0,0,https://github.com/jamesgober/cookie-net,"HTTP cookies for Rust (RFC 6265bis): strict parsing of Cookie headers, Set-Cookie serialization with Secure, HttpOnly, SameSite, Max-Age and the __Host- and __Secure- prefixes, plus signed and encryp…"
