@@ -1,0 +1,56 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-22T23:19:26.007455Z,regia,0.0.1,0,0,,Name reservation for the Regia Engine project. Nothing to use here yet.
+2026-10-22T23:19:28.163324Z,regia-engine,0.0.1,0,0,,Name reservation for the Regia Engine project. Nothing to use here yet.
+2026-10-22T23:19:30.333072Z,regia_cli,0.0.1,0,0,,Name reservation for the Regia Engine project. Nothing to use here yet.
+2026-10-22T23:19:32.316569Z,regia_core,0.0.1,0,0,,Name reservation for the Regia Engine project. Nothing to use here yet.
+2026-10-22T23:19:34.497756Z,regia_render,0.0.1,0,0,,Name reservation for the Regia Engine project. Nothing to use here yet.
+2026-10-22T23:21:41.546179Z,unitype-core,0.1.0,0,0,https://github.com/CarterCole/unitype,"Symbolic type IR, canonical form, content addressing, and checker for unitype"
+2026-10-22T23:21:43.647966Z,unitype-codegen,0.1.0,0,0,https://github.com/CarterCole/unitype,"TypeScript, Python, and Rust code generation backends for unitype"
+2026-10-22T23:21:45.456338Z,unitype-runtime,0.1.0,0,0,https://github.com/CarterCole/unitype,"Implementation registry, pluggable executors, and policy dispatch for unitype"
+2026-10-22T23:21:47.305535Z,unitype-cli,0.1.0,0,0,https://github.com/CarterCole/unitype,Command-line interface for unitype
+2026-10-22T23:23:22.507681Z,sqp-craft,0.17.0,0,0,https://github.com/dietmarwo/SQP-craft,"Problem, callback, solver and result contracts for SQP with sparse constraint Jacobians, with KKT and derivative checks"
+2026-10-22T23:23:24.614366Z,sqp-craft-parallel,0.17.0,0,0,https://github.com/dietmarwo/SQP-craft,Explicit bounded native execution resources for sqp-craft
+2026-10-22T23:23:28.040215Z,sqp-craft-activeset,0.17.0,0,0,https://github.com/dietmarwo/SQP-craft,Dense dual active-set (Goldfarb-Idnani) QP backend for the sqp-craft QP seam
+2026-10-22T23:23:30.462119Z,sqp-craft-clarabel,0.17.0,0,0,https://github.com/dietmarwo/SQP-craft,Clarabel QP backend for the sqp-craft QP seam
+2026-10-22T23:23:32.815709Z,sqp-craft-solver,0.17.0,0,0,https://github.com/dietmarwo/SQP-craft,Native dense-BFGS SQP driver for the sqp-craft contracts
+2026-10-22T23:24:58.608227Z,devsweep,0.1.0,0,0,,"Sweep away stale build artifacts, safely. Activity-aware, workspace-aware cleanup for Rust build directories."
+2026-10-22T23:25:46.787038Z,nv-telemetry-schema,0.1.0,0,0,https://github.com/dsx-ai-factory/nv-telemetry,"Protobuf contract for nv-telemetry, and its compiled descriptor set"
+2026-10-22T23:25:48.687947Z,nv-telemetry-model,0.1.0,0,0,https://github.com/dsx-ai-factory/nv-telemetry,"Observation data plane for nv-telemetry, generated from the schema"
+2026-10-22T23:25:50.5345Z,nv-telemetry-source,0.1.0,0,0,https://github.com/dsx-ai-factory/nv-telemetry,Acquisition contract implemented by every nv-telemetry protocol source
+2026-10-22T23:25:52.132633Z,nv-telemetry-orchestration,0.1.0,0,0,https://github.com/dsx-ai-factory/nv-telemetry,Planning and dispatcher vocabulary for nv-telemetry
+2026-10-22T23:25:52.535122Z,nv-telemetry-redfish,0.1.0,0,0,https://github.com/dsx-ai-factory/nv-telemetry,Redfish acquisition for nv-telemetry
+2026-10-22T23:28:42.876892Z,oxiploitability-mcp,0.1.0,0,0,https://github.com/abelreqma/oxiploitability-mcp,"MCP server for sourced, evidence-aware CVE research: exploitability from NVD, EPSS and KEV, and CVEs for products, SBOMs, lockfiles and images"
+2026-10-22T23:30:36.785985Z,regia_app,0.0.1,0,0,,Name reservation for the Regia Engine project. Nothing to use here yet.
+2026-10-22T23:32:04.974218Z,playtest,0.0.0,0,0,https://github.com/Archont561/playtest,Reserved package name on crates.io for playtest
+2026-10-22T23:32:10.369152Z,playtest-macros,0.0.0,0,0,https://github.com/Archont561/playtest-macros,Reserved package name on crates.io for playtest-macros
+2026-10-22T23:33:56.28225Z,msb_smoltcp,0.14.0,0,0,https://github.com/superradcompany/smoltcp.git,Microsandbox-maintained fork of smoltcp with SYN-ACK scheduling fix.
+2026-10-22T23:35:35.335341Z,bulbul,1.0.0,0,0,https://git.caveat.cc/caveat/bulbul,Bulbul is a SystemVerilog CPU with Rust bindings.
+2026-10-22T23:41:06.940891Z,optimization-job-api,0.3.0,0,0,https://github.com/dietmarwo/optimization-jobs,"Versioned optimization jobs for agents: job envelope, result contract with claims and evidence, checked journals and the worker SDK"
+2026-10-22T23:41:12.540681Z,optimization-runner,0.3.0,0,0,https://github.com/dietmarwo/optimization-jobs,Local runner (optimization-run) and MCP server (optimization-mcp) for versioned optimization jobs on one CPU budget
+2026-10-22T23:41:29.815971Z,proksi_plugins,0.17.0,0,0,https://github.com/luizfonseca/proksi,"Proksi's built-in plugins: authentication, limits, CORS, redirects, static files and more."
+2026-10-22T23:41:39.427664Z,regia_scene,0.0.1,0,0,,Name reservation for the Regia Engine project. Nothing to use here yet.
+2026-10-22T23:41:44.615974Z,maplibre-native-ffi-sys,0.202610.2,0,0,https://github.com/maplibre/maplibre-native-ffi,"Raw declarations for the MapLibre Native C API, and the native library they link."
+2026-10-22T23:41:48.650296Z,maplibre-native-ffi-core,0.202610.2,0,0,https://github.com/maplibre/maplibre-native-ffi,Runtime shared by the MapLibre Native FFI Rust and Python bindings. Depend on maplibre-native-ffi instead.
+2026-10-22T23:41:53.09028Z,maplibre-native-ffi,0.202610.2,0,0,https://github.com/maplibre/maplibre-native-ffi,"Low-level, memory-safe Rust bindings for the MapLibre Native map renderer's C API."
+2026-10-22T23:43:18.611585Z,rightkit-overlay-win,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Native Win32 layered-window overlays for Right Suite apps: software painter, DWM-paced animation, hover and hit regions, per-monitor DPI, no WebView."
+2026-10-22T23:51:10.308717Z,bynn-decisionnode,0.4.0,0,0,https://github.com/Bynn-Intelligence/decision-node-rust,"The official Rust client for the DecisionNode decision engine API: typed truth, choice, score and number decisions, images and videos, boosters, sessions and batches."
+2026-10-22T23:52:41.567321Z,regia_macros,0.0.1,0,0,,Name reservation for the Regia Engine project. Nothing to use here yet.
+2026-10-22T23:56:59.764462Z,horme,0.4.0,0,0,https://github.com/horme-rs/horme,On-demand connection leases and transaction scopes for Diesel async queries
+2026-10-22T23:58:11.519306Z,terse-modal,0.1.0,0,0,https://github.com/TerseAI/modal-rs,"Unofficial Rust client for Modal Sandboxes, ported from Modal's Go SDK"
+2026-10-23T00:03:43.8391Z,regiaengine,0.0.1,0,0,,Name reservation for the Regia Engine project. Nothing to use here yet.
+2026-10-23T00:04:35.994694Z,moto-sdk,0.1.0,0,0,https://github.com/moturus/motor-os,"Motor OS userspace SDK: IPC, async runtime, I/O, logging, and stats."
+2026-10-23T00:05:35.0141Z,chromite,0.0.1,0,0,https://github.com/JosepBove/chromite,"Chromium for Rust apps: embed full Chromium as a native compositor layer or GPU texture, with zero setup."
+2026-10-23T00:05:37.549031Z,chromite-wgpu,0.0.1,0,0,https://github.com/JosepBove/chromite,Zero-copy Chromium web views as wgpu textures (part of Chromite).
+2026-10-23T00:05:40.171299Z,egui_chromite,0.0.1,0,0,https://github.com/JosepBove/chromite,Chromium web views as egui widgets (part of Chromite).
+2026-10-23T00:05:42.90527Z,bevy_chromite,0.0.1,0,0,https://github.com/JosepBove/chromite,"Chromium web views in Bevy: on meshes, in UI, fully interactive (part of Chromite)."
+2026-10-23T00:05:45.981754Z,cargo-chromite,0.0.1,0,0,https://github.com/JosepBove/chromite,Cargo subcommand for Chromite: fetch and bundle the Chromium runtime.
+2026-10-23T00:08:05.579092Z,structured-cades,0.12.0,0,0,https://github.com/structured-world/signature-primitives,Source-bound CAdES baseline composition over CMS and long-term validation facts
+2026-10-23T00:10:07.132651Z,harpoon-core,0.1.0,0,0,,Traffic processing engine for Harpoon proxy
+2026-10-23T00:10:28.241307Z,harpoon-app,0.1.1,0,0,,Harpoon MITM/traffic-analysis proxy binary
+2026-10-23T00:11:16.37115Z,bulbul-asm,0.1.0,0,0,https://git.caveat.cc/caveat/bulbulasm,An assembly language library definition and library for the Bulbul CPU.
+2026-10-23T00:16:13.227358Z,an-accounts-vault-envelope,0.1.0,0,0,https://github.com/monetic-labs/an-account,"Canonical, pure-client encryption envelope for the user-owned Vault primitive. Every byte the substrate ever stores under a `VaultLocation::ServerHosted` location passes through `seal` here on the wa…"
+2026-10-23T00:16:30.759655Z,an-accounts-mnemonic-derive,0.1.0,0,0,https://github.com/monetic-labs/an-account,"Pure, WASM-buildable BIP-39 + SLIP-10 derivation primitives. Takes a Trust-Wallet-compatible mnemonic and emits per-chain (EVM / BTC / SOL / TRX) addresses + key material at the standard derivation p…"
+2026-10-23T00:16:40.960365Z,an-accounts-vault-types,0.1.0,0,0,https://github.com/monetic-labs/an-account,"Types for the self-custodial vault: locations, entry metadata, and domain payloads. No database and no network."
+2026-10-23T00:16:48.202868Z,an-accounts-vault-sharing,0.1.0,0,0,https://github.com/monetic-labs/an-account,Per-resource selective-disclosure sharing for the canonical Vault primitive. HPKE (RFC 9180) seals a resource to a specific peer's public key; the peer opens with their own private key. Cross-pair su…
+2026-10-23T00:17:06.352487Z,an-accounts-vault-providers,0.1.0,0,0,https://github.com/monetic-labs/an-account,"Vault storage providers: the VaultProvider trait, an in-memory provider, and optional macOS Keychain, server-hosted, network, and browser-local adapters."
+2026-10-23T00:17:34.160703Z,an-accounts-vault-client-sdk,0.1.0,0,0,https://github.com/monetic-labs/an-account,"Client SDK for self-custodial account vaults: seal and open entries, share with a peer, derive multi-chain addresses. WASM-buildable. Providers are feature-flagged."
