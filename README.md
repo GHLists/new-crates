@@ -8,59 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 20:22 UTC
+## Latest list — 2026-10-23 21:19 UTC
 
-New crates published between 2026-10-23 19:21 UTC and 2026-10-23 20:22 UTC.
+New crates published between 2026-10-23 20:22 UTC and 2026-10-23 21:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-23T20-22-08-86639Z.csv)
+[Full CSV](data/new-crates-2026-10-23T21-19-29-236329Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-23 19:25:11 | [context-sanitizer](https://crates.io/crates/context-sanitizer) | 0.1.0 | 0 | Pure-Rust System One semantic firewall, split-secret shadow vault, and syntax-s… |
-| 2026-10-23 19:29:05 | [aphrody-firefly](https://crates.io/crates/aphrody-firefly) | 1.4.7 | 0 | Pure-Rust Adobe Firefly Services client for aphrody — IMS OAuth server-to-serve… |
-| 2026-10-23 19:29:41 | [context-sanitizer-cli](https://crates.io/crates/context-sanitizer-cli) | 0.1.0 | 0 | Context X-Ray diagnostic and benchmarking CLI for the context-sanitizer framewo… |
-| 2026-10-23 19:29:55 | [consensus-ccp](https://crates.io/crates/consensus-ccp) | 0.0.0 | 0 | Consensus as expansion and collapse over an explicit semantic carrier (name res… |
-| 2026-10-23 19:29:58 | [consensus-ccp-runtime](https://crates.io/crates/consensus-ccp-runtime) | 0.0.0 | 0 | Constructive carrier and machine interpreters for CCP (name reserved; first rel… |
-| 2026-10-23 19:30:00 | [ccp-core](https://crates.io/crates/ccp-core) | 0.0.0 | 0 | CCP candidate and collapse sorts, expansion, restrictions, and realization (nam… |
-| 2026-10-23 19:30:03 | [ccp-quorum](https://crates.io/crates/ccp-quorum) | 0.0.0 | 0 | CCP validator sorts and quorum composition (name reserved; first release in pre… |
-| 2026-10-23 19:30:04 | [ccp-communication](https://crates.io/crates/ccp-communication) | 0.0.0 | 0 | CCP message carrier, admission, and communication evidence (name reserved; firs… |
-| 2026-10-23 19:34:37 | [sofie-framework](https://crates.io/crates/sofie-framework) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
-| 2026-10-23 19:34:40 | [sofie-cli](https://crates.io/crates/sofie-cli) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
-| 2026-10-23 19:34:44 | [sofie-core](https://crates.io/crates/sofie-core) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
-| 2026-10-23 19:34:48 | [sofie-macros](https://crates.io/crates/sofie-macros) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
-| 2026-10-23 19:34:50 | [sofie-http](https://crates.io/crates/sofie-http) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
-| 2026-10-23 19:38:28 | [ironrdp-rpc](https://crates.io/crates/ironrdp-rpc) | 0.1.0 | 0 | Shared local RPC protocol and transport for IronRDP clients |
-| 2026-10-23 19:39:04 | [aphrody-ocr-core](https://crates.io/crates/aphrody-ocr-core) | 1.4.7 | 0 | Portable versioned OCR result contract, provenance and quality states for aphro… |
-| 2026-10-23 19:40:26 | [ccp-leader](https://crates.io/crates/ccp-leader) | 0.0.0 | 0 | CCP leader scheduling and policy products (name reserved; first release in prep… |
-| 2026-10-23 19:40:38 | [manatan-srs-sdk](https://crates.io/crates/manatan-srs-sdk) | 0.1.0 | 0 | Public SDK for building Manatan SRS extensions as WebAssembly components. |
-| 2026-10-23 19:41:44 | [sunasty-color-math](https://crates.io/crates/sunasty-color-math) | 1.0.0 | 0 | Zero-dependency sRGB and OKLCH color conversions and WCAG 2.1 accessibility con… |
-| 2026-10-23 19:42:39 | [agno](https://crates.io/crates/agno) | 0.3.1 | 0 | A fast, content-first static site generator |
-| 2026-10-23 19:42:59 | [ironrdp-rdpeudp-tokio](https://crates.io/crates/ironrdp-rdpeudp-tokio) | 0.1.0 | 0 | Tokio driver wiring RDP-UDP, TLS and the multitransport tunnel into a usable tr… |
-| 2026-10-23 19:44:55 | [sofie-db](https://crates.io/crates/sofie-db) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
-| 2026-10-23 19:49:06 | [aphrody-ocr-onnx](https://crates.io/crates/aphrody-ocr-onnx) | 1.4.7 | 0 | PP-OCR ONNX recognition primitives for aphrody. |
-| 2026-10-23 19:50:49 | [app-tracking](https://crates.io/crates/app-tracking) | 0.1.0 | 0 | Bounded, cached update checks for CLI tools, independent of telemetry |
-| 2026-10-23 19:50:49 | [ccp-confidence](https://crates.io/crates/ccp-confidence) | 0.0.0 | 0 | CCP confidence and acceptance (name reserved; first release in preparation) |
-| 2026-10-23 19:52:19 | [octri-converter](https://crates.io/crates/octri-converter) | 0.1.3 | 0 | Offline API description conversion with source provenance and reviewed fidelity |
-| 2026-10-23 19:52:20 | [octri-converter-cli](https://crates.io/crates/octri-converter-cli) | 0.1.3 | 0 | Octri Spec Converter command-line interface |
-| 2026-10-23 19:55:00 | [sofie-postgres](https://crates.io/crates/sofie-postgres) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
-| 2026-10-23 19:59:04 | [aphrody-ocr-vlm](https://crates.io/crates/aphrody-ocr-vlm) | 1.4.7 | 0 | llama.cpp VLM backends for Aphrody OCR: one-shot and resident document transcri… |
-| 2026-10-23 20:01:12 | [ccp-mysticeti](https://crates.io/crates/ccp-mysticeti) | 0.0.0 | 0 | CCP Mysticeti specification and laws (name reserved; first release in preparati… |
-| 2026-10-23 20:03:31 | [typed-dsp](https://crates.io/crates/typed-dsp) | 0.1.0 | 0 | Strongly typed audio units (peak amplitude, dBFS level, linear gain, gain in dB… |
-| 2026-10-23 20:05:07 | [sofie-sqlite](https://crates.io/crates/sofie-sqlite) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
-| 2026-10-23 20:06:55 | [osc7501-parser](https://crates.io/crates/osc7501-parser) | 0.1.0 | 0 | Bounded, allocation-free OSC 7501 program-status parsing |
-| 2026-10-23 20:07:07 | [osc7501-store](https://crates.io/crates/osc7501-store) | 0.1.0 | 0 | Bounded OSC 7501 terminal records with optional allocation |
-| 2026-10-23 20:07:26 | [osc7501-rs](https://crates.io/crates/osc7501-rs) | 0.1.0 | 0 | Typed OSC 7501 reports and terminal capability replies |
-| 2026-10-23 20:09:03 | [aphrody-ocr](https://crates.io/crates/aphrody-ocr) | 1.4.7 | 0 | Image-to-text pipeline for aphrody: drives a local vision-language model over o… |
-| 2026-10-23 20:11:35 | [ccp-cordial](https://crates.io/crates/ccp-cordial) | 0.0.0 | 0 | CCP Cordial Miners specification and laws (name reserved; first release in prep… |
-| 2026-10-23 20:15:11 | [sofie-engine](https://crates.io/crates/sofie-engine) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
-| 2026-10-23 20:15:52 | [mhr-gpui-kit-assets](https://crates.io/crates/mhr-gpui-kit-assets) | 0.7.2 | 0 | Default bundled assets for GPUI Kit. |
-| 2026-10-23 20:15:56 | [mhr-gpui-kit-component-macros](https://crates.io/crates/mhr-gpui-kit-component-macros) | 0.7.2 | 0 | Procedural macros for GPUI Component, the styled layer of GPUI Kit. |
-| 2026-10-23 20:16:01 | [mhr-gpui-kit-base](https://crates.io/crates/mhr-gpui-kit-base) | 0.7.2 | 0 | Behavior, interaction, and infrastructure foundations for GPUI applications. |
-| 2026-10-23 20:16:07 | [mhr-gpui-kit-writing](https://crates.io/crates/mhr-gpui-kit-writing) | 0.7.2 | 0 | Spell checking and learned word suggestions for GPUI Kit text areas. |
-| 2026-10-23 20:16:14 | [mhr-gpui-kit-component](https://crates.io/crates/mhr-gpui-kit-component) | 0.7.2 | 0 | GPUI Component: the styled component library of GPUI Kit, with 60+ desktop UI c… |
-| 2026-10-23 20:19:02 | [aphrody-vision](https://crates.io/crates/aphrody-vision) | 1.4.7 | 0 | Visual transcription over local GGUF vision models: caption, dense-region descr… |
-| 2026-10-23 20:20:05 | [mynet](https://crates.io/crates/mynet) | 0.1.0 | 0 | Fastfetch-styled minimal network auditor and local LAN device topology discover… |
-| 2026-10-23 20:21:58 | [ccp-adaptive](https://crates.io/crates/ccp-adaptive) | 0.0.0 | 0 | CCP Adaptive specification and laws (name reserved; first release in preparatio… |
+| 2026-10-23 20:23:05 | [simorgh-springs](https://crates.io/crates/simorgh-springs) | 0.1.0 | 0 | Open-data spring sources, normalization, deterministic merge, and CLI |
+| 2026-10-23 20:25:16 | [sofie-model](https://crates.io/crates/sofie-model) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
+| 2026-10-23 20:25:34 | [cybermeta](https://crates.io/crates/cybermeta) | 0.3.1 | 0 | Find and remove what your photos give away: lossless metadata scrubbing, privac… |
+| 2026-10-23 20:26:08 | [mhr-gpui-kit](https://crates.io/crates/mhr-gpui-kit) | 0.7.2 | 0 | GPUI Kit: one dependency for building desktop applications with GPUI, GPUI Base… |
+| 2026-10-23 20:29:05 | [aphrody-voice](https://crates.io/crates/aphrody-voice) | 1.4.7 | 0 | Voice I/O (TTS + STT) provider traits + ElevenLabs/Whisper adapters + Discord s… |
+| 2026-10-23 20:31:34 | [rgx-core](https://crates.io/crates/rgx-core) | 0.1.0 | 0 | Core adapter trait and extraction pipeline for rgx |
+| 2026-10-23 20:31:38 | [rar-codec](https://crates.io/crates/rar-codec) | 0.1.0 | 0 | Pure-Rust, no_std RAR codec: RAR4/RAR5 parsing, LZ+Huffman and PPMd decode (sol… |
+| 2026-10-23 20:31:47 | [rgx-adapters-archive](https://crates.io/crates/rgx-adapters-archive) | 0.1.0 | 0 | rgx adapters: zip, tar, cpio, 7z, single-file decompressors |
+| 2026-10-23 20:31:56 | [rgx-adapters-inspect](https://crates.io/crates/rgx-adapters-inspect) | 0.1.0 | 0 | rgx adapter: forensic binary inspection — magic identification, embedded-struct… |
+| 2026-10-23 20:32:04 | [rgx-adapters-llm](https://crates.io/crates/rgx-adapters-llm) | 0.1.0 | 0 | rgx adapters for machine-learning model files (GGUF, safetensors, NumPy, protob… |
+| 2026-10-23 20:32:08 | [comtrya-lib](https://crates.io/crates/comtrya-lib) | 0.9.2 | 0 | Contains the interfaces for comtrya plugins |
+| 2026-10-23 20:32:22 | [ccp-dense-leader](https://crates.io/crates/ccp-dense-leader) | 0.0.0 | 0 | CCP dense-leader specification and laws (name reserved; first release in prepar… |
+| 2026-10-23 20:32:44 | [comtrya](https://crates.io/crates/comtrya) | 0.9.2 | 0 | A tool to simplify reprovisioning a fresh OS. Installs packages and manages dot… |
+| 2026-10-23 20:34:30 | [solana_kit_anchor](https://crates.io/crates/solana_kit_anchor) | 0.0.0 | 0 | Reserved portable Anchor contract crate for the off-chain Solana Kit SDK; this… |
+| 2026-10-23 20:35:21 | [sofie-values](https://crates.io/crates/sofie-values) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
+| 2026-10-23 20:39:05 | [aphrody-rag-eval](https://crates.io/crates/aphrody-rag-eval) | 1.4.7 | 0 | RAG retrieval evaluation harness (Recall@k, MRR, nDCG) over HTTP, MCP or a loca… |
+| 2026-10-23 20:40:50 | [nova-ta-core](https://crates.io/crates/nova-ta-core) | 0.1.1 | 0 | Core traits and state primitives for streaming technical-analysis indicators. |
+| 2026-10-23 20:41:34 | [fildes](https://crates.io/crates/fildes) | 0.1.0 | 0 | File descriptor wrapper and configurable socket server/client interface |
+| 2026-10-23 20:42:15 | [rgx-adapters-mail](https://crates.io/crates/rgx-adapters-mail) | 0.1.0 | 0 | rgx adapters for e-mail archives (mbox, eml) with MIME attachment recursion |
+| 2026-10-23 20:42:45 | [ccp-nakamoto](https://crates.io/crates/ccp-nakamoto) | 0.0.0 | 0 | CCP proof-of-work specification and laws (name reserved; first release in prepa… |
+| 2026-10-23 20:44:09 | [audio-code](https://crates.io/crates/audio-code) | 0.1.0 | 0 | A simple, high level game engine for audio games: 3D sound, speech, virtual men… |
+| 2026-10-23 20:45:00 | [overridepulse](https://crates.io/crates/overridepulse) | 0.1.0 | 0 | Ultralightweight TUI for Android & Gradle development (Lazygit for Android deve… |
+| 2026-10-23 20:45:26 | [sofie-auth](https://crates.io/crates/sofie-auth) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
+| 2026-10-23 20:49:06 | [aphrody-train](https://crates.io/crates/aphrody-train) | 1.4.7 | 0 | Training surface for aphrody: exclusive GPU lease, job runner, streaming event… |
+| 2026-10-23 20:52:23 | [rgx-adapters-media](https://crates.io/crates/rgx-adapters-media) | 0.1.0 | 0 | rgx adapters for media metadata (EXIF/TIFF, audio tags, FITS, DICOM) |
+| 2026-10-23 20:53:09 | [ccp-scenarios](https://crates.io/crates/ccp-scenarios) | 0.0.0 | 0 | CCP scenario-authoring language and protocol scenarios (name reserved; first re… |
+| 2026-10-23 20:53:52 | [belthasar](https://crates.io/crates/belthasar) | 0.0.1 | 0 | Orchestration agent that works with and prioritizes graph engineering on a virt… |
+| 2026-10-23 20:54:29 | [atma](https://crates.io/crates/atma) | 0.0.1 | 0 | Reasoning agent: dynamically self-assembling graph nodes from LLMs, extractors,… |
+| 2026-10-23 20:55:31 | [sofie-identity](https://crates.io/crates/sofie-identity) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
+| 2026-10-23 20:59:03 | [aphrody-translate](https://crates.io/crates/aphrody-translate) | 1.4.7 | 0 | aphrody — translate code comments to French, scrub AI-isms and emoji, apply Aph… |
+| 2026-10-23 21:00:15 | [boatramp-overlay-tunnel](https://crates.io/crates/boatramp-overlay-tunnel) | 0.44.0 | 0 | Service-by-name consumption layer over the boatramp overlay fabric (OpenZiti-st… |
+| 2026-10-23 21:02:34 | [rgx-adapters-office](https://crates.io/crates/rgx-adapters-office) | 0.1.0 | 0 | rgx adapters for Office/OpenDocument/e-book containers, parsed in-process (zip… |
+| 2026-10-23 21:03:32 | [ccp-comparison](https://crates.io/crates/ccp-comparison) | 0.0.0 | 0 | CCP cross-protocol scenarios (name reserved; first release in preparation) |
+| 2026-10-23 21:05:24 | [spacelab-python](https://crates.io/crates/spacelab-python) | 0.2.0 | 0 | The PyO3 bindings of the spacelab crates, added to a Python module by `register… |
+| 2026-10-23 21:05:34 | [sofie-identity-unverified](https://crates.io/crates/sofie-identity-unverified) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
+| 2026-10-23 21:07:08 | [allthechanges](https://crates.io/crates/allthechanges) | 0.1.0 | 0 | Changelog fragments: keep CHANGELOG.md conflict-free by collecting per-change f… |
+| 2026-10-23 21:09:04 | [aphrody-a2a-grpc](https://crates.io/crates/aphrody-a2a-grpc) | 1.4.7 | 0 | A2A v1 gRPC protocol binding for client and server |
+| 2026-10-23 21:12:43 | [rgx-adapters-pdf](https://crates.io/crates/rgx-adapters-pdf) | 0.1.0 | 0 | rgx in-process PDF text adapter (full: classic xref + xref streams + ObjStm + C… |
+| 2026-10-23 21:14:50 | [bupdate](https://crates.io/crates/bupdate) | 0.4.0 | 0 | Universal package updater — parallel updates for Linux, BSD and Windows |
+| 2026-10-23 21:15:40 | [sofie-telemetry](https://crates.io/crates/sofie-telemetry) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
+| 2026-10-23 21:15:45 | [jargonaut](https://crates.io/crates/jargonaut) | 0.1.0 | 0 | Define a command-line interface with JSON Schema: parsing, validation, defaults… |
+| 2026-10-23 21:18:53 | [aphrody-certificates](https://crates.io/crates/aphrody-certificates) | 1.4.7 | 0 | Native ACME certificate lifecycle using owned OVH DNS challenges |
 
 ## Data source
 
