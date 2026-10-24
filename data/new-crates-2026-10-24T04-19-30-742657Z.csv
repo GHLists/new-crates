@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T03:25:26.563777Z,flight-clock,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Hierarchical, pausable, scalable time primitive for time-driven systems"
+2026-10-24T03:26:04.647118Z,statement-camt,0.1.0,0,0,https://github.com/WyattAu/statement-camt,"ISO 20022 CAMT.053 bank statement adapter producing recon-kit Statements — both balances verified, booked-only entries, sign-normalised"
+2026-10-24T03:28:49.587518Z,aphrody-nie-play,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Front-end HEADLESS/GOLDEN du jeu nie : exécute la machine à états de aphrody-nie-app via un flow scripté + un Renderer CPU, et écrit le playthrough en PNG/MP4 déterministes. Le match vient de la vrai…"
+2026-10-24T03:35:27.138686Z,flight-keyboard,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,Soft-keyboard signals and commands over explicit host capabilities
+2026-10-24T03:38:48.673081Z,aphrody-nie-render,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Façade de rendu nie: 2D, 3D CPU/GPU, GUI et WASM"
+2026-10-24T03:38:51.420763Z,ferrum-diffusion,0.15.0,0,0,https://github.com/sizzlecar/ferrum-infer-rs,Diffusion schedules and numerical contracts for Ferrum
+2026-10-24T03:41:00.365222Z,rgba2hex,2.1.1,0,0,https://github.com/j4ck4L0up3/rgba2hex,A crate for converting rgb or rgba values to hex string representation.
+2026-10-24T03:43:23.285054Z,norm-adapter-engine,0.1.0,0,0,https://github.com/CyanoOrg/norm-adapter-sdk,Shared host-agnostic engine for norm-spec host adapters
+2026-10-24T03:45:26.641247Z,flight-mediasession,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"OS media session: now-playing metadata, playback/position state commands and per-action signals over host capabilities"
+2026-10-24T03:48:52.1978Z,aphrody-nie-tasks,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Cancelable, pausable asynchronous job orchestration with progress reporting."
+2026-10-24T03:53:32.079205Z,safegl,0.1.0,0,0,https://github.com/viniciusmorgado/safegl,Safe OpenGL bindings for Rust.
+2026-10-24T03:55:27.139672Z,flight-notification,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Notification delivery, scheduling, permission, subscription lifecycle and entity identity over host capabilities"
+2026-10-24T03:59:19.576295Z,aphrody-nie-ui,1.0.1,0,0,https://github.com/aphrody-labs/bun-distribution,"Source unique, typée, des jetons de design du jeu (couleurs OKLCH, géométrie, mouvement) — génère le CSS de packages/inacord-ui/src/shell/game-tokens.css et relie nie_formats::sprite_sheet (icônes) a…"
+2026-10-24T04:04:22.190479Z,rahti-js,0.0.57,0,0,https://github.com/TheSteelNinjaCode/rahti,Compiles the client code in Rahti templates ahead of time. Not used directly — `html!` calls it at compile time.
+2026-10-24T04:05:27.377265Z,flight-power,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Power status, keep-awake, battery health, thermal state and idle monitoring over host capabilities"
+2026-10-24T04:10:24.345366Z,preludio,0.0.1,0,0,https://github.com/chorust/preludio,"On-device radar nowcasting — Forecast the rain before it begins, right on your device."
+2026-10-24T04:10:53.141009Z,tauri-plugin-vault,0.1.0-alpha.1,0,0,https://github.com/hoangmirs/tauri-plugins,"Tauri plugin that keeps a value signed by a key on the device, so an edit made outside the app fails its check"
+2026-10-24T04:11:07.657914Z,aphrody-rust,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,PyO3 extension module aphrody.aphrody_rust of the aphrody Python SDK (abi3-py311)
+2026-10-24T04:12:45.524573Z,opentele2-browser,2.0.0,0,0,https://github.com/DedInc/opentele2,"Browser HTTP headers and fingerprints from Bayesian networks over the Apify fingerprint datapoints, deterministic by seed; based on browserforge"
+2026-10-24T04:12:53.272752Z,opentele2-core,2.0.0,0,0,https://github.com/DedInc/opentele2,"Telegram client identity core: Telegram Desktop tdata, Telethon/mtcute/grammers sessions, official API profiles, devices, fingerprint checks and MTProto crypto"
+2026-10-24T04:13:11.489971Z,opentele2-versions,2.0.0,0,0,https://github.com/DedInc/opentele2,"Current official Telegram client versions and stable Chrome/Firefox versions, as a patch onto opentele2-core Versions"
+2026-10-24T04:13:26.97753Z,opentele2-grammers,2.0.0,0,0,https://github.com/DedInc/opentele2,"grammers 0.11 bridge for opentele2: sessions and initConnection params from tdata and API profiles; QR login, 2FA, session admin and consistency checks (feature `client`)"
+2026-10-24T04:15:26.883583Z,flight-protocol,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Custom protocol URL parsing, registration and open-event delivery over host capabilities"
