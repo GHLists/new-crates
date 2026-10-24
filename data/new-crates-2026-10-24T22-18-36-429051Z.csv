@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T21:20:51.059374Z,nextcloud-kaccounts,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,KDE Plasma Online Accounts (KAccounts / Accounts-SSO) integration for Nextcloud system accounts
+2026-10-24T21:21:02.31752Z,rdkit-cxx,0.0.0,0,0,https://github.com/skearnes/rdkit-cxx,"Rust bindings for RDKit's C++ API, mirroring its nanobind Python wrappers (placeholder release)"
+2026-10-24T21:21:08.329377Z,vpsadmin-client,0.1.0,0,0,https://github.com/vpsfreecz/vpsadmin-rust-client,Typed async and blocking client for vpsAdmin API 7.0
+2026-10-24T21:25:27.498042Z,flight-movieclip,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"MovieClip display node: a Node2D whose frames are driven by a timeline, with spritesheet timeline sources and opt-in guards"
+2026-10-24T21:26:02.372237Z,dengjen-stt,3.0.0,0,0,https://github.com/ZirekHQ/dengjen,Offline Kurmanji speech recognition on sherpa-onnx
+2026-10-24T21:27:11.609284Z,dengjen-voices,3.0.0,0,0,https://github.com/ZirekHQ/dengjen,"Voice catalogue, resumable verified download, install and removal for dengjen"
+2026-10-24T21:28:53.77937Z,crabcrop-url,0.1.0,0,0,https://github.com/dayvson/crabcrop,URL building and signing for crabcrop image service URLs
+2026-10-24T21:30:50.09643Z,nextcloud-notifications,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Nextcloud Notifications API (v2) client and domain models
+2026-10-24T21:33:37.608931Z,sparkless-server,4.16.0,0,0,https://github.com/eddiethedean/robin-sparkless,Native read-only HTTP SQL service for Robin Sparkless.
+2026-10-24T21:35:27.033829Z,flight-particleemitter,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Particle emitter 2D/3D: typed-array buffer management, burst emission, simulation stepping, and bounds computation"
+2026-10-24T21:36:56.699762Z,armin,0.1.0,0,0,https://github.com/rsdlt/armin,"Autocomplete for zsh: a menu of your likeliest commands as you type, ranked from your history"
+2026-10-24T21:38:46.659553Z,pushups-macros,0.1.0,0,0,https://github.com/LucaCappelletti94/pushups,Macros for pushups
+2026-10-24T21:38:49.471566Z,pushups,0.1.0,0,0,https://github.com/LucaCappelletti94/pushups,"Receive push notifications in a Rust app: APNs on iOS and macOS, FCM on Android, WNS on Windows, UnifiedPush on Linux, Web Push in the browser, under any toolkit"
+2026-10-24T21:39:28.082178Z,uffda-codec,0.10.6,0,0,https://github.com/justinmchase/uffda,Strict streaming Uffda data codec with lossless strings and fixed native values
+2026-10-24T21:40:49.468639Z,nextcloud-preview,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Nextcloud preview and thumbnail generation client
+2026-10-24T21:43:35.436543Z,macp-conform,0.9.0,0,0,https://github.com/multiagentcoordinationprotocol/macp-runtime,MACP conformance runner: drives the spec's conformance fixtures and commitment-hash vectors against an implementation (in-process or over gRPC) and reports the conformance level it reaches.
+2026-10-24T21:45:26.765451Z,flight-particles-formats,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Particle format detection, parsing and serialization (Pixi, Particle Designer, Spine, Unity, libGDX, Starling PEX)"
+2026-10-24T21:45:54.420306Z,batchinf,0.1.0,0,0,https://github.com/khammersmith17/batchinf,A drop in harness for dynamic ML inference batching. This is useful to saturate a device (TPU/GPU) and increase throughput for expensive ML inference.
+2026-10-24T21:49:05.046346Z,plied,0.1.0,0,0,https://github.com/jupsh/plied,"A git-tracked work record for teams of agents and people: a work tree, commitments, open questions, messages to whoever is on a node, and checked citations of cleared literature."
+2026-10-24T21:50:54.007045Z,nextcloud-sdk-fuse,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Transient VFS FUSE driver for desktop filesystem mounting
+2026-10-24T21:54:48.199182Z,git-zero-core,0.1.0,0,0,https://github.com/no-std-rs/git-zero,"Allocation-free no_std Git objects, repositories, packs, zlib and delta primitives"
+2026-10-24T21:54:49.935994Z,git-zero-client,0.1.0,0,0,https://github.com/no-std-rs/git-zero,Allocation-free no_std Git HTTP client with host-provided transports
+2026-10-24T21:54:51.685957Z,git-zero-server,0.1.0,0,0,https://github.com/no-std-rs/git-zero,Allocation-free no_std Git smart/dumb HTTP serving and receive-pack primitives
+2026-10-24T21:54:53.235409Z,git-zero,0.1.0,0,0,https://github.com/no-std-rs/git-zero,"Allocation-free no_std Git toolkit for objects, packs, clients and servers"
+2026-10-24T21:54:54.898345Z,git-zero-rustix,0.1.0,0,0,https://github.com/no-std-rs/git-zero,Bounded rustix HTTP and file storage adapters for git-zero
+2026-10-24T21:55:27.338775Z,flight-spritesheet-formats,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Spritesheet descriptor codecs, detection, and caller-owned format registration"
+2026-10-24T22:00:28.94382Z,clama-macros,0.1.0,0,0,https://github.com/PsychoRosse/clama,Procedural macros for the Clama ECS library.
+2026-10-24T22:00:50.146433Z,nextcloud-shares,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Nextcloud Files Sharing API client and domain types
+2026-10-24T22:02:27.449608Z,candlevm,1.0.1,0,0,https://github.com/candle-ecosystem/candlevm,Candle Virtual Machine
+2026-10-24T22:04:15.314258Z,ferry-rs,0.1.0,0,0,https://github.com/patwrall/ferry,"Parallel AI agents, one warm build: forkable, isolated Cargo target dirs per git worktree"
+2026-10-24T22:04:25.462696Z,ras-commander-fast-hdf,0.2.0,0,0,https://github.com/gpt-cmdr/ras-commander-fast-hdf,"Native, read-only HEC-RAS project, plan and HDF5 results engine in pure Rust; also the Python extension behind ras-commander"
+2026-10-24T22:04:51.085051Z,clama,0.1.0,0,0,https://github.com/PsychoRosse/plam,"A lightweight, fast sparse set ECS for Kodanu engine."
+2026-10-24T22:05:27.32375Z,flight-physics3d-abi,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"The target-neutral Physics3D execution boundary: a little-endian command stream, packed readback buffers and an executable reference backend over flight-physics3d"
+2026-10-24T22:06:05.100241Z,knot-core,0.0.0,0,0,https://github.com/sagikazarmark/knot,"Celtic knotwork model: Sources, Scaffold (planar graph), Knot topology, symmetry, generation and repair (no_std)"
+2026-10-24T22:06:11.711815Z,knot-geom,0.0.0,0,0,https://github.com/sagikazarmark/knot,"Celtic knotwork geometry: centrelines, ribbons, cusps, under-gaps and true cut geometry from a Knot and a Style"
+2026-10-24T22:06:18.314195Z,knot-render,0.0.0,0,0,https://github.com/sagikazarmark/knot,"Celtic knotwork rendering: Scene to SVG, display lists and raster images"
+2026-10-24T22:06:24.956534Z,knot-fab,0.0.0,0,0,https://github.com/sagikazarmark/knot,"Celtic knotwork fabrication: print, stencil, laser, plotter, CNC, 3D and chart exports with material validation"
+2026-10-24T22:06:31.456131Z,knot-format,0.0.0,0,0,https://github.com/sagikazarmark/knot,"Celtic knotwork document format: the .knot JSON schema, migrations, compact share codes, embedding and importers"
+2026-10-24T22:10:50.04442Z,nextcloud-talk,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Nextcloud Talk (Spreed) API client and domain types
+2026-10-24T22:15:27.399246Z,flight-scene3d-formats,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,3D scene format codecs: glTF and related importers/exporters
+2026-10-24T22:16:40.442456Z,xylem-fm,0.2.0,0,0,https://github.com/andrelnfernandes/xylem,Text-mode file manager inspired by XTree and ZTreeWin
