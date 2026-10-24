@@ -8,35 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 06:19 UTC
+## Latest list — 2026-10-24 07:18 UTC
 
-New crates published between 2026-10-24 05:20 UTC and 2026-10-24 06:19 UTC.
+New crates published between 2026-10-24 06:19 UTC and 2026-10-24 07:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-24T06-19-56-706564Z.csv)
+[Full CSV](data/new-crates-2026-10-24T07-18-38-214161Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-24 05:25:27 | [flight-sensors](https://crates.io/crates/flight-sensors) | 0.5.1-next.3241.169… | 0 | Device sensor event seam with reusable readings, conversion helpers and explici… |
-| 2026-10-24 05:26:51 | [cadcraft-geom](https://crates.io/crates/cadcraft-geom) | 1.4.7 | 0 | CADCraft geometry: f64 vectors, curves, arcs, splines, intersections, offsets,… |
-| 2026-10-24 05:35:27 | [flight-useragent](https://crates.io/crates/flight-useragent) | 0.5.1-next.3241.169… | 0 | Pure user-agent string parsing to device and platform identity tokens |
-| 2026-10-24 05:37:20 | [cadcraft-doc](https://crates.io/crates/cadcraft-doc) | 1.4.7 | 0 | CADCraft drawing database: entities, symbol tables, blocks, layouts, copy-on-wr… |
-| 2026-10-24 05:39:50 | [bizkit-core](https://crates.io/crates/bizkit-core) | 0.1.0 | 0 | EDGAR filing signals, idea taxonomy, and sector trend scoring for bizkit |
-| 2026-10-24 05:40:04 | [bizkit](https://crates.io/crates/bizkit) | 0.1.0 | 0 | Business-trend crawler CLI: EDGAR M&A signals, idea taxonomy reports |
-| 2026-10-24 05:42:11 | [solana_kit_config](https://crates.io/crates/solana_kit_config) | 0.0.0 | 0 | Reserved Config client for off-chain Solana Kit applications; no implementation… |
-| 2026-10-24 05:45:26 | [flight-shortcut](https://crates.io/crates/flight-shortcut) | 0.5.1-next.3241.169… | 0 | Accelerator parsing and explicit global-shortcut lifecycle over host capabiliti… |
-| 2026-10-24 05:46:45 | [rquickjs-napi](https://crates.io/crates/rquickjs-napi) | 0.0.1 | 0 | Node-API (N-API) support and native addon loading for rquickjs |
-| 2026-10-24 05:47:49 | [cadcraft-constraints](https://crates.io/crates/cadcraft-constraints) | 1.4.7 | 0 | CADCraft parametric solver: geometric and dimensional constraints (own damped G… |
-| 2026-10-24 05:51:11 | [ttmux-vt100](https://crates.io/crates/ttmux-vt100) | 0.16.2 | 0 | The fork of the vt100 crate that ttmux uses (emoji widths, scrollback and SGR f… |
-| 2026-10-24 05:51:28 | [ttmux](https://crates.io/crates/ttmux) | 1.0.1 | 0 | A modern terminal multiplexer: tiling + free-floating panes, mouse, curved bord… |
-| 2026-10-24 05:55:50 | [bloui](https://crates.io/crates/bloui) | 0.1.0 | 0 | Size analyzer for ELF files, with a tree list and a treemap |
-| 2026-10-24 06:07:43 | [flight-geometry](https://crates.io/crates/flight-geometry) | 0.5.1-next.3241.169… | 0 | 2D/3D math primitives: vectors, matrices, rectangles, and object pools |
-| 2026-10-24 06:07:47 | [flight-input](https://crates.io/crates/flight-input) | 0.5.1-next.3241.169… | 0 | Input capability seam: normalized keyboard, pointer, wheel, text and gamepad ev… |
-| 2026-10-24 06:12:12 | [sgpu-shaders](https://crates.io/crates/sgpu-shaders) | 0.1.0 | 0 | Shader-side bindless ABI for sgpu |
-| 2026-10-24 06:14:22 | [sgpu](https://crates.io/crates/sgpu) | 0.1.0 | 0 | A lightweight Rust Vulkan abstraction |
-| 2026-10-24 06:14:39 | [sgpu-taskgraph](https://crates.io/crates/sgpu-taskgraph) | 0.1.0 | 0 | Task graph scheduling and synchronization for sgpu |
-| 2026-10-24 06:15:27 | [flight-net](https://crates.io/crates/flight-net) | 0.5.1-next.3241.169… | 0 | HTTP capability facade with portable requests, form encoding and opt-in diagnos… |
-| 2026-10-24 06:17:36 | [ppoppo-engine-grpc-serve](https://crates.io/crates/ppoppo-engine-grpc-serve) | 1.0.0 | 0 | The scripted gRPC face the Ppoppo SDK family's test kits serve: per-RPC answer… |
-| 2026-10-24 06:17:37 | [biaspay](https://crates.io/crates/biaspay) | 2.0.0 | 0 | Rust server SDK for the Bias payments API |
+| 2026-10-24 06:22:19 | [lockwire-accept](https://crates.io/crates/lockwire-accept) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
+| 2026-10-24 06:22:22 | [lockwire-acme](https://crates.io/crates/lockwire-acme) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
+| 2026-10-24 06:22:27 | [lockwire-acme-server](https://crates.io/crates/lockwire-acme-server) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
+| 2026-10-24 06:22:31 | [lockwire-attest](https://crates.io/crates/lockwire-attest) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
+| 2026-10-24 06:22:35 | [lockwire-attest-agent](https://crates.io/crates/lockwire-attest-agent) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
+| 2026-10-24 06:25:26 | [flight-easing](https://crates.io/crates/flight-easing) | 0.5.1-next.3241.169… | 0 | Easing functions: back, bounce, circular, cubic, elastic, exponential, sine, an… |
+| 2026-10-24 06:32:40 | [lockwire-attest-posture](https://crates.io/crates/lockwire-attest-posture) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
+| 2026-10-24 06:35:27 | [flight-flow](https://crates.io/crates/flight-flow) | 0.5.1-next.3241.169… | 0 | Dataflow graph: node-based processing pipelines with typed connections |
+| 2026-10-24 06:35:38 | [prism-llvm](https://crates.io/crates/prism-llvm) | 0.1.0 | 0 | A Rust abstraction layer for LLVM with a compilation pipeline. |
+| 2026-10-24 06:38:56 | [konomanoasa-tree-sitter-posix-sed](https://crates.io/crates/konomanoasa-tree-sitter-posix-sed) | 0.2.0 | 0 | Tree-sitter grammars for POSIX sed. |
+| 2026-10-24 06:40:23 | [hyperlane-plugin-compression](https://crates.io/crates/hyperlane-plugin-compression) | 22.0.5 | 0 | A compression plugin for the Hyperlane framework, answering a client with the e… |
+| 2026-10-24 06:40:30 | [hyperlane-plugin-cors](https://crates.io/crates/hyperlane-plugin-cors) | 22.0.5 | 0 | A cross origin plugin for the Hyperlane framework, answering the browsers that… |
+| 2026-10-24 06:40:34 | [hyperlane-plugin-logger](https://crates.io/crates/hyperlane-plugin-logger) | 22.0.5 | 0 | A logging plugin for the Hyperlane framework, writing the log of a server to th… |
+| 2026-10-24 06:40:39 | [hyperlane-plugin-shutdown](https://crates.io/crates/hyperlane-plugin-shutdown) | 22.0.5 | 0 | A shutdown plugin for the Hyperlane framework, turning the termination signals… |
+| 2026-10-24 06:40:45 | [hyperlane-plugin-static-files](https://crates.io/crates/hyperlane-plugin-static-files) | 22.0.5 | 0 | A static file plugin for the Hyperlane framework, serving the files of a direct… |
+| 2026-10-24 06:40:50 | [rustify-classification-macros](https://crates.io/crates/rustify-classification-macros) | 0.2.0 | 0 | Byte classification derive for the Rustify Tailwind scanner |
+| 2026-10-24 06:41:12 | [rustify-style](https://crates.io/crates/rustify-style) | 0.2.0 | 0 | Pure Rust class merging, content scanning and utility compilation. |
+| 2026-10-24 06:42:25 | [asgi-lifespan-protocol-rs](https://crates.io/crates/asgi-lifespan-protocol-rs) | 0.2.0 | 0 | Runtime-neutral contracts for Rust-native web applications |
+| 2026-10-24 06:42:27 | [flaque](https://crates.io/crates/flaque) | 0.1.0 | 0 | A fast, concurrent, lock-free, and sometimes wait-free, pool implementation |
+| 2026-10-24 06:42:45 | [lockwire-attest-verifier](https://crates.io/crates/lockwire-attest-verifier) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
+| 2026-10-24 06:45:21 | [prpr-runtime](https://crates.io/crates/prpr-runtime) | 0.1.0 | 0 | Runtime support for parsers generated by prpr |
+| 2026-10-24 06:45:23 | [prpr-codegen](https://crates.io/crates/prpr-codegen) | 0.1.0 | 0 | Code generator of prpr, a Packrat parser generator |
+| 2026-10-24 06:45:26 | [prpr-cli](https://crates.io/crates/prpr-cli) | 0.1.0 | 0 | Command line interface of prpr, a Packrat parser generator |
+| 2026-10-24 06:45:26 | [flight-textsegment](https://crates.io/crates/flight-textsegment) | 0.5.1-next.3241.169… | 0 | Unicode text segmentation: grapheme cluster, word, and sentence boundary detect… |
+| 2026-10-24 06:45:26 | [prpr-macros](https://crates.io/crates/prpr-macros) | 0.1.0 | 0 | The grammar! and include_grammar! macros of prpr, a Packrat parser generator |
+| 2026-10-24 06:45:28 | [prpr](https://crates.io/crates/prpr) | 0.1.0 | 0 | A Packrat parser generator for Parsing Expression Grammars |
+| 2026-10-24 06:50:31 | [proj-janitor](https://crates.io/crates/proj-janitor) | 0.2.0 | 0 | Scan, back up, restore, and clean old projects safely |
+| 2026-10-24 06:52:50 | [lockwire-audit](https://crates.io/crates/lockwire-audit) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
+| 2026-10-24 06:53:06 | [rustify-docs-syntax](https://crates.io/crates/rustify-docs-syntax) | 0.2.0 | 0 | Shared native parser for Rustify Docs site declarations |
+| 2026-10-24 06:53:45 | [threeypay-sdk](https://crates.io/crates/threeypay-sdk) | 1.1.0 | 0 | 3ypay (汇联支付) Rust SDK - 统一支付、查询、退款、转账、分账等 |
+| 2026-10-24 06:53:50 | [rustify-docs-macros](https://crates.io/crates/rustify-docs-macros) | 0.2.0 | 0 | Procedural site registry declarations for Rustify Docs |
+| 2026-10-24 06:55:27 | [flight-snapshot](https://crates.io/crates/flight-snapshot) | 0.5.1-next.3241.169… | 0 | Immutable point-in-time snapshots of plain state: capture, restore, interpolate… |
+| 2026-10-24 07:01:42 | [rustify-dom](https://crates.io/crates/rustify-dom) | 0.2.0 | 0 | The shared Rustify core: DOM runtime, bindings, theming and diagnostics, with n… |
+| 2026-10-24 07:02:42 | [rustify-components](https://crates.io/crates/rustify-components) | 0.2.0 | 0 | DOM components for the Rustify UI SDK, forked from Rust/UI and rewritten to be… |
+| 2026-10-24 07:02:54 | [lockwire-audit-conformance](https://crates.io/crates/lockwire-audit-conformance) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
+| 2026-10-24 07:04:02 | [rustify-docs](https://crates.io/crates/rustify-docs) | 0.2.0 | 0 | Rustify Docs: Markdown content rendered on the host into a static documentation… |
+| 2026-10-24 07:05:27 | [flight-socket](https://crates.io/crates/flight-socket) | 0.5.1-next.3241.169… | 0 | Socket capability seam: framed connection lifecycle, opt-in event signals and r… |
+| 2026-10-24 07:05:33 | [rustify-docs-cli](https://crates.io/crates/rustify-docs-cli) | 0.2.0 | 0 | The rustify-docs command: new, dev, build, preview and check for Rustify Docs s… |
+| 2026-10-24 07:12:59 | [lockwire-authn](https://crates.io/crates/lockwire-authn) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
+| 2026-10-24 07:15:27 | [flight-statechart](https://crates.io/crates/flight-statechart) | 0.5.1-next.3241.169… | 0 | Hierarchical state machine: Harel statecharts with guards, transitions, and sig… |
+| 2026-10-24 07:16:08 | [pocket-ark-client-shared](https://crates.io/crates/pocket-ark-client-shared) | 0.0.1 | 0 | Shared logic for pocket ark client variants |
+| 2026-10-24 07:17:44 | [rustify-style-wasm](https://crates.io/crates/rustify-style-wasm) | 0.2.0 | 0 | WebAssembly bindings for Rustify Style. |
 
 ## Data source
 
