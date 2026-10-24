@@ -8,55 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 20:19 UTC
+## Latest list — 2026-10-24 21:20 UTC
 
-New crates published between 2026-10-24 19:19 UTC and 2026-10-24 20:19 UTC.
+New crates published between 2026-10-24 20:19 UTC and 2026-10-24 21:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-24T20-19-21-642929Z.csv)
+[Full CSV](data/new-crates-2026-10-24T21-20-13-070752Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-24 19:20:54 | [ozx-cli](https://crates.io/crates/ozx-cli) | 0.1.1 | 0 | ozx, a plugin launcher: `ozx <name>` runs the ozx-<name> executable on the PATH… |
-| 2026-10-24 19:22:03 | [florn-cli](https://crates.io/crates/florn-cli) | 0.1.0 | 0 | The headless runner as a library: run, replay, admit, probe; the binary `florn`… |
-| 2026-10-24 19:22:17 | [pipedash-plugin-fluxcd](https://crates.io/crates/pipedash-plugin-fluxcd) | 0.4.0 | 0 | FluxCD plugin for Pipedash |
-| 2026-10-24 19:23:30 | [nextcloud-sdk-core](https://crates.io/crates/nextcloud-sdk-core) | 0.1.1 | 0 | Core primitives shared by the Nextcloud Rust SDK crates |
-| 2026-10-24 19:23:57 | [nextcloud-sdk-keyring](https://crates.io/crates/nextcloud-sdk-keyring) | 0.1.1 | 0 | Multi-platform secure keyring abstraction for Nextcloud Rust SDK with Flatpak a… |
-| 2026-10-24 19:25:28 | [flight-textureatlas-formats](https://crates.io/crates/flight-textureatlas-formats) | 0.5.1-next.3241.169… | 0 | Texture-atlas descriptor parsers, detection, and caller-owned format registrati… |
-| 2026-10-24 19:26:32 | [messenger-webhook](https://crates.io/crates/messenger-webhook) | 0.2.0 | 0 | Normalise messenger webhooks (WhatsApp, Telegram, Matrix) into one common messa… |
-| 2026-10-24 19:28:02 | [inwx-client](https://crates.io/crates/inwx-client) | 0.1.0 | 0 | Typed client for the INWX DomRobot JSON-RPC API: domains, DNS records, contacts… |
-| 2026-10-24 19:29:31 | [sprcmtrd](https://crates.io/crates/sprcmtrd) | 0.4.0 | 0 | Terminal viewer for COMTRADE (IEEE C37.111) power system recordings |
-| 2026-10-24 19:31:44 | [nextcloud-ocs](https://crates.io/crates/nextcloud-ocs) | 0.1.1 | 0 | OCS API envelope and client for the Nextcloud Rust SDK |
-| 2026-10-24 19:33:58 | [ngsi-ld](https://crates.io/crates/ngsi-ld) | 1.0.0 | 0 | Typed, ergonomic NGSI-LD (ETSI GS CIM 009 v1.9.1): the data model, the query la… |
-| 2026-10-24 19:34:41 | [lineshapes](https://crates.io/crates/lineshapes) | 0.1.0 | 0 | Fast composable optical-constant models: analytic Kramers-Kronig-paired linesha… |
-| 2026-10-24 19:35:28 | [flight-media](https://crates.io/crates/flight-media) | 0.5.1-next.3241.169… | 0 | Portable audio and video playback channels, mixer routing, and lifecycle signals |
-| 2026-10-24 19:35:29 | [ledger-pg](https://crates.io/crates/ledger-pg) | 0.1.3 | 0 | PostgreSQL persistence for double-entry ledgers — per-tenant isolation, optimis… |
-| 2026-10-24 19:40:45 | [nextcloud-dav](https://crates.io/crates/nextcloud-dav) | 0.1.1 | 0 | WebDAV client foundation for the Nextcloud Rust SDK |
-| 2026-10-24 19:45:28 | [flight-physics3d](https://crates.io/crates/flight-physics3d) | 0.5.1-next.3241.169… | 0 | Portable three-dimensional rigid-body dynamics and constraint solving |
-| 2026-10-24 19:49:05 | [rekuest-session](https://crates.io/crates/rekuest-session) | 0.12.0 | 0 | The rekuest agent session as a sans-IO state machine: runs under tokio, on wasm… |
-| 2026-10-24 19:50:42 | [raw_term](https://crates.io/crates/raw_term) | 0.1.0 | 0 | Library for putting the terminal into raw mode and parsing keyboard input |
-| 2026-10-24 19:50:44 | [nextcloud-sdk-ratelimit](https://crates.io/crates/nextcloud-sdk-ratelimit) | 0.1.1 | 0 | Bandwidth rate limiting and token-bucket traffic shaping for the Nextcloud Rust… |
-| 2026-10-24 19:54:18 | [v5gdb-cli](https://crates.io/crates/v5gdb-cli) | 0.1.0-beta.1 | 0 | Connects GDB to the v5gdb debugger on a VEX V5 brain |
-| 2026-10-24 19:55:26 | [flight-picking](https://crates.io/crates/flight-picking) | 0.5.1-next.3241.169… | 0 | 3D picking: camera-ray scene selection (ray vs bounds + brute-force ray vs tria… |
-| 2026-10-24 19:55:47 | [deckcraft-geom](https://crates.io/crates/deckcraft-geom) | 0.6.1 | 0 | DeckCraft geometry: units (EMU/pt), transforms, preset shape generators, adjust… |
-| 2026-10-24 19:56:04 | [codewhale-commands](https://crates.io/crates/codewhale-commands) | 0.10.2 | 0 | Portable command handlers and diagnostic reports for Codewhale |
-| 2026-10-24 19:58:56 | [symlog](https://crates.io/crates/symlog) | 0.1.0 | 0 | Terminal-logviewer voor Symfony/Monolog-logs, met vim-toetsen. |
-| 2026-10-24 19:59:07 | [cua-microvm-init](https://crates.io/crates/cua-microvm-init) | 0.9.0 | 0 | PID 1 of a Cua microVM Space (Firecracker on Linux, Virtualization.framework on… |
-| 2026-10-24 19:59:08 | [cua-snapshot-sync](https://crates.io/crates/cua-snapshot-sync) | 0.9.0 | 0 | Copies checkpoints between your machines: content-addressed manifests, read gra… |
-| 2026-10-24 19:59:18 | [cua-cluster](https://crates.io/crates/cua-cluster) | 0.9.0 | 0 | Batch work on all of your machines, the MIT parts: the host's job runner (durab… |
-| 2026-10-24 19:59:24 | [cua-share](https://crates.io/crates/cua-share) | 0.9.0 | 0 | Share a link to anything you run: share records, the read-only file server and… |
-| 2026-10-24 20:00:44 | [nextcloud-sdk-request](https://crates.io/crates/nextcloud-sdk-request) | 0.1.1 | 0 | Per-call lifecycle and retry policy for the Nextcloud Rust SDK |
-| 2026-10-24 20:04:35 | [tetraglass-core](https://crates.io/crates/tetraglass-core) | 0.1.0 | 0 | Data model: unstructured grids, cell types, typed arrays, time series. No GPU,… |
-| 2026-10-24 20:05:28 | [flight-skeleton3d](https://crates.io/crates/flight-skeleton3d) | 0.5.1-next.3241.169… | 0 | Source-defined skeletal palettes, CPU skinning and posed bounds |
-| 2026-10-24 20:05:58 | [tetraglass-io](https://crates.io/crates/tetraglass-io) | 0.1.0 | 0 | Readers and writers for VTK and Gmsh files, working on byte buffers. |
-| 2026-10-24 20:06:16 | [deckcraft-color](https://crates.io/crates/deckcraft-color) | 0.6.1 | 0 | DeckCraft colour: RGB/HSL, theme colour slots, DrawingML-style colour transforms |
-| 2026-10-24 20:06:45 | [tetraglass-filters](https://crates.io/crates/tetraglass-filters) | 0.1.0 | 0 | Linearization, surface extraction and visualization filters on tetrahedral view… |
-| 2026-10-24 20:08:18 | [tetraglass-scene](https://crates.io/crates/tetraglass-scene) | 0.1.0 | 0 | Serializable scene model, JSON Schema and cached pipeline evaluation. |
-| 2026-10-24 20:10:04 | [tetraglass-render](https://crates.io/crates/tetraglass-render) | 0.1.0 | 0 | wgpu renderer drawing into host-provided textures, plus a headless helper. |
-| 2026-10-24 20:10:49 | [nextcloud-sdk-vfs](https://crates.io/crates/nextcloud-sdk-vfs) | 0.1.1 | 0 | Transient virtual file system mounting layer for Nextcloud file hierarchies and… |
-| 2026-10-24 20:11:27 | [tetraglass-egui](https://crates.io/crates/tetraglass-egui) | 0.1.0 | 0 | egui viewport widget built on the renderer. |
-| 2026-10-24 20:15:26 | [flight-render](https://crates.io/crates/flight-render) | 0.5.1-next.3241.169… | 0 | Backend-neutral render state, registries, proxy preparation, queues, targets, c… |
-| 2026-10-24 20:16:51 | [deckcraft-model](https://crates.io/crates/deckcraft-model) | 0.6.1 | 0 | DeckCraft document model: presentations, masters, layouts, slides, shapes, text… |
-| 2026-10-24 20:18:29 | [slint-themekit](https://crates.io/crates/slint-themekit) | 0.1.0 | 0 | A small, fully themeable Slint component library driven by design tokens |
+| 2026-10-24 20:19:29 | [tetraglass-viewer](https://crates.io/crates/tetraglass-viewer) | 0.1.0 | 0 | eframe desktop and web viewer application for Tetraglass scenes and meshes. |
+| 2026-10-24 20:20:44 | [nextcloud-sdk-session](https://crates.io/crates/nextcloud-sdk-session) | 0.1.1 | 0 | Account lifecycle state machine for the Nextcloud Rust SDK |
+| 2026-10-24 20:23:50 | [wdio-dioxus](https://crates.io/crates/wdio-dioxus) | 1.1.0 | 0 | Connects a Dioxus desktop app to @wdio/dioxus-service for WebdriverIO testing |
+| 2026-10-24 20:27:20 | [deckcraft-anim](https://crates.io/crates/deckcraft-anim) | 0.6.1 | 0 | DeckCraft slide show timing: animation sequences, per-shape animation state ove… |
+| 2026-10-24 20:28:26 | [arora-geometry](https://crates.io/crates/arora-geometry) | 1.0.0 | 0 | Arora's geometry types over its Value: 2-, 3- and 4-component vectors, quaterni… |
+| 2026-10-24 20:28:46 | [arora-dataflow-nodes](https://crates.io/crates/arora-dataflow-nodes) | 1.0.0 | 0 | Arora's dataflow nodes: the node vocabulary as the functions of @arora/dataflow… |
+| 2026-10-24 20:28:58 | [tetraglass-cli](https://crates.io/crates/tetraglass-cli) | 0.1.0 | 0 | Command-line tool: inspect, render, validate, schema, view, export. |
+| 2026-10-24 20:29:44 | [flight-shape-formats](https://crates.io/crates/flight-shape-formats) | 0.5.1-next.3241.169… | 0 | Native JSON codec and shared command schemas for retained flight-shape streams |
+| 2026-10-24 20:30:16 | [ferrotide](https://crates.io/crates/ferrotide) | 0.1.0 | 0 | Robust statistics for time series |
+| 2026-10-24 20:30:44 | [nextcloud-sdk-storage](https://crates.io/crates/nextcloud-sdk-storage) | 0.1.1 | 0 | Encrypted SQLite storage and keychain-held keys for the Nextcloud Rust SDK |
+| 2026-10-24 20:33:15 | [taowire-btauth](https://crates.io/crates/taowire-btauth) | 0.1.0-alpha.1 | 0 | ALPHA, not security-reviewed, not for mainnet value: btauth/1 signed requests a… |
+| 2026-10-24 20:35:27 | [flight-textinput](https://crates.io/crates/flight-textinput) | 0.5.1-next.3241.169… | 0 | Portable RichText editing and selection management |
+| 2026-10-24 20:38:14 | [deckcraft-fonts](https://crates.io/crates/deckcraft-fonts) | 0.6.1 | 0 | DeckCraft fonts: font database (craft-fonts + system), substitutes for Office f… |
+| 2026-10-24 20:44:54 | [nextcloud-activity](https://crates.io/crates/nextcloud-activity) | 0.1.1 | 0 | Nextcloud Activity API client and domain types |
+| 2026-10-24 20:45:27 | [flight-scene2d-formats](https://crates.io/crates/flight-scene2d-formats) | 0.5.1-next.3241.169… | 0 | SVG, Lottie, and Rive document importers with caller-owned format registries |
+| 2026-10-24 20:46:30 | [crabtables](https://crates.io/crates/crabtables) | 0.1.0 | 0 | Pure-Rust nftables: atomic rule batches, sets and maps, counters, monitoring, N… |
+| 2026-10-24 20:50:50 | [nextcloud-client-config](https://crates.io/crates/nextcloud-client-config) | 0.1.1 | 0 | Desktop configuration and account discovery for the official Nextcloud desktop… |
+| 2026-10-24 20:51:34 | [nfcrt](https://crates.io/crates/nfcrt) | 0.1.0 | 0 | Pure-Rust nftables command line tool, compatible with nft (built on crabtables) |
+| 2026-10-24 20:55:27 | [flight-physics2d-abi](https://crates.io/crates/flight-physics2d-abi) | 0.5.1-next.3241.169… | 0 | The target-neutral Physics2D execution boundary: a little-endian command stream… |
+| 2026-10-24 21:00:50 | [nextcloud-deck](https://crates.io/crates/nextcloud-deck) | 0.1.1 | 0 | Nextcloud Deck REST API client and domain models |
+| 2026-10-24 21:05:26 | [flight-bitmapfont-formats](https://crates.io/crates/flight-bitmapfont-formats) | 0.5.1-next.3241.169… | 0 | AngelCode bitmap-font codecs, diagnostics, detection, and caller-owned registra… |
+| 2026-10-24 21:10:50 | [nextcloud-goa](https://crates.io/crates/nextcloud-goa) | 0.1.1 | 0 | GNOME Online Accounts integration for the Nextcloud Rust SDK |
+| 2026-10-24 21:15:27 | [flight-tilemap-formats](https://crates.io/crates/flight-tilemap-formats) | 0.5.1-next.3241.169… | 0 | Tilemap format codecs: TMX/Tiled and related importers |
+| 2026-10-24 21:17:01 | [pathwatch](https://crates.io/crates/pathwatch) | 0.0.0 | 0 | A path-based file event watcher |
+| 2026-10-24 21:17:40 | [asnkit-gen-rust-codec](https://crates.io/crates/asnkit-gen-rust-codec) | 2.0.0-rc1 | 0 | asnkit plugin that makes Rust code that encodes and decodes ASN.1 with BER, DER… |
 
 ## Data source
 

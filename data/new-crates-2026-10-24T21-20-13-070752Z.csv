@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T20:19:29.11542Z,tetraglass-viewer,0.1.0,0,0,https://github.com/Tetraglass/tetraglass,eframe desktop and web viewer application for Tetraglass scenes and meshes.
+2026-10-24T20:20:44.683449Z,nextcloud-sdk-session,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Account lifecycle state machine for the Nextcloud Rust SDK
+2026-10-24T20:23:50.53522Z,wdio-dioxus,1.1.0,0,0,https://github.com/webdriverio/desktop-mobile,Connects a Dioxus desktop app to @wdio/dioxus-service for WebdriverIO testing
+2026-10-24T20:27:20.746096Z,deckcraft-anim,0.6.1,0,0,,"DeckCraft slide show timing: animation sequences, per-shape animation state over time, and transition frame layouts"
+2026-10-24T20:28:26.454145Z,arora-geometry,1.0.0,0,0,https://github.com/semio-ai/arora-sdk,"Arora's geometry types over its Value: 2-, 3- and 4-component vectors, quaternions and transforms, with blending."
+2026-10-24T20:28:46.847406Z,arora-dataflow-nodes,1.0.0,0,0,https://github.com/semio-ai/arora-sdk,"Arora's dataflow nodes: the node vocabulary as the functions of @arora/dataflow, @arora/geometry and @arora/kinematics, computing on Arora's values, for a loader to put on a behavior tree."
+2026-10-24T20:28:58.898641Z,tetraglass-cli,0.1.0,0,0,https://github.com/Tetraglass/tetraglass,"Command-line tool: inspect, render, validate, schema, view, export."
+2026-10-24T20:29:44.03771Z,flight-shape-formats,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Native JSON codec and shared command schemas for retained flight-shape streams
+2026-10-24T20:30:16.005091Z,ferrotide,0.1.0,0,0,https://github.com/makay12345/ferrotide,Robust statistics for time series
+2026-10-24T20:30:44.845487Z,nextcloud-sdk-storage,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Encrypted SQLite storage and keychain-held keys for the Nextcloud Rust SDK
+2026-10-24T20:33:15.620496Z,taowire-btauth,0.1.0-alpha.1,0,0,https://github.com/anindhabiswas25/TaoWire,"ALPHA, not security-reviewed, not for mainnet value: btauth/1 signed requests and twresp/1 signed responses for Bittensor v11 subnets (TaoWire)"
+2026-10-24T20:35:27.012798Z,flight-textinput,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Portable RichText editing and selection management
+2026-10-24T20:38:14.572267Z,deckcraft-fonts,0.6.1,0,0,,"DeckCraft fonts: font database (craft-fonts + system), substitutes for Office fonts, metrics, outlines, shaping"
+2026-10-24T20:44:54.492177Z,nextcloud-activity,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Nextcloud Activity API client and domain types
+2026-10-24T20:45:27.143786Z,flight-scene2d-formats,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"SVG, Lottie, and Rive document importers with caller-owned format registries"
+2026-10-24T20:46:30.059958Z,crabtables,0.1.0,0,0,https://github.com/finnbear/crabtables,"Pure-Rust nftables: atomic rule batches, sets and maps, counters, monitoring, NFLOG and NFQUEUE, sync or async, and optionally the nft language"
+2026-10-24T20:50:50.308032Z,nextcloud-client-config,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,"Desktop configuration and account discovery for the official Nextcloud desktop client across Linux, macOS, and Windows"
+2026-10-24T20:51:34.882946Z,nfcrt,0.1.0,0,0,https://github.com/finnbear/crabtables,"Pure-Rust nftables command line tool, compatible with nft (built on crabtables)"
+2026-10-24T20:55:27.115489Z,flight-physics2d-abi,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"The target-neutral Physics2D execution boundary: a little-endian command stream, packed readback buffers and an executable reference backend over flight-physics2d"
+2026-10-24T21:00:50.793954Z,nextcloud-deck,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Nextcloud Deck REST API client and domain models
+2026-10-24T21:05:26.634268Z,flight-bitmapfont-formats,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"AngelCode bitmap-font codecs, diagnostics, detection, and caller-owned registration"
+2026-10-24T21:10:50.831797Z,nextcloud-goa,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,GNOME Online Accounts integration for the Nextcloud Rust SDK
+2026-10-24T21:15:27.050703Z,flight-tilemap-formats,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Tilemap format codecs: TMX/Tiled and related importers
+2026-10-24T21:17:01.912859Z,pathwatch,0.0.0,0,0,https://github.com/shulaoda/pathwatch,A path-based file event watcher
+2026-10-24T21:17:40.383782Z,asnkit-gen-rust-codec,2.0.0-rc1,0,0,https://github.com/boxtheta/asnkit,"asnkit plugin that makes Rust code that encodes and decodes ASN.1 with BER, DER and UPER, without the specification and without allocating"
