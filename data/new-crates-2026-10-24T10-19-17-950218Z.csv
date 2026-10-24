@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T09:19:19.161206Z,katana-chat-ui,0.1.0,0,0,https://github.com/HiroyukiFuruno/katana-chat-ui,Framework-neutral AI chat state and KUC render model with provider-neutral request types.
+2026-10-24T09:20:25.806539Z,sunns-hearth-auth,0.1.0,0,0,https://github.com/SunnsTechnologies/sunns-hearth,"Authentication: passwords, codes, sessions and tokens, built as a module on the kernel."
+2026-10-24T09:21:53.116711Z,katana-chat-ui-egui,0.1.0,0,0,https://github.com/HiroyukiFuruno/katana-chat-ui,egui adapter for the standard katana-chat-ui surface.
+2026-10-24T09:23:58.572041Z,lockwire-forge-api,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T09:24:01.700771Z,katana-chat-ui-floem,0.1.0,0,0,https://github.com/HiroyukiFuruno/katana-chat-ui,Floem-oriented reference surface for katana-chat-ui render models.
+2026-10-24T09:25:27.340997Z,flight-spatial,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Spatial indexing: BVH, 2D/3D spatial grids, insert/remove/query"
+2026-10-24T09:27:50.827919Z,katana-chat-ui-gpui,0.1.0,0,0,https://github.com/HiroyukiFuruno/katana-chat-ui,GPUI adapter for the standard katana-chat-ui surface.
+2026-10-24T09:30:26.911059Z,sunns-hearth-axum,0.1.0,0,0,https://github.com/SunnsTechnologies/sunns-hearth,"HTTP routes, extractors and middleware for the auth module."
+2026-10-24T09:34:03.227523Z,lockwire-forge-github,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T09:34:25.07808Z,leptoskit_plugin_crypto,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"Portable digests, secure random bytes and UUID v4 for LeptosKit."
+2026-10-24T09:34:28.047968Z,leptoskit_plugin_device,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Device and operating system information for LeptosKit applications.
+2026-10-24T09:35:26.76749Z,flight-spring,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Spring physics simulation: 1D, 2D, and 3D springs with configurable frequency and damping"
+2026-10-24T09:37:05.500883Z,encoding-negotiator,10.3.0,0,0,https://github.com/crates-dev/ctares,"A library that negotiates the content encoding of an HTTP answer. It picks the encoding a client asked for out of the encodings that are offered, and tells whether a body of a content type is worth c…"
+2026-10-24T09:37:07.999501Z,cors-policy,10.3.0,0,0,https://github.com/crates-dev/ctares,A library that decides the cross origin policy of an HTTP answer. It tells whether an origin is allowed and builds the cross origin headers of the answer.
+2026-10-24T09:37:10.465861Z,signal-watcher,10.3.0,0,0,https://github.com/crates-dev/ctares,"A library that waits for the signal that asks a process to stop. It turns the interrupt and the terminate signal of the operating system into a call of a handler, so a server can shut down in an orde…"
+2026-10-24T09:37:13.488361Z,static-file-resolver,10.3.0,0,0,https://github.com/crates-dev/ctares,"A library that resolves the file a request asks for under a root directory. It refuses a path that climbs out of the root, so a request cannot reach a file the root does not hold."
+2026-10-24T09:37:55.978755Z,paperpaw-plugin-help,0.5.0-beta.1,0,0,https://github.com/hthoene/paperpaw,"PaperPaw first-time help: what a screen's controls do, shown over it the first time it opens"
+2026-10-24T09:40:33.414649Z,sunns-hearth-server,0.1.0,0,0,https://github.com/SunnsTechnologies/sunns-hearth,"The single server binary: configuration, migrations on start, health, shutdown, logs and metrics."
+2026-10-24T09:44:07.526268Z,lockwire-forge-gitlab,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T09:45:27.241967Z,flight-tray,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"System tray icons over explicit host capabilities: lifecycle, image/title/tooltip/menu, balloons and events"
+2026-10-24T09:50:40.984511Z,odx-bot,0.0.7,0,0,https://github.com/getfluvo/odx,Upstream dashboard issue and actionable pull requests for odx in CI
+2026-10-24T09:51:01.371787Z,blvm-wallet-index,0.1.1,0,0,https://github.com/BTCDecoded/blvm-wallet-index,Script history index module for blvm-node. Own database and Electrum history port.
+2026-10-24T09:51:27.994502Z,blvm-payment,0.1.1,0,0,https://github.com/BTCDecoded/blvm-payment,Payment request module. Loaded by default. Not linked into the blvm binary.
+2026-10-24T09:51:46.44995Z,metrology,0.1.0,0,0,https://github.com/FusionVault/quantum-gravimeter,"The physical constants the quantum-gravimeter crates share: CODATA 2018 fundamental constants, standard gravity, and the astronomical units of mass, distance and time."
+2026-10-24T09:51:51.078455Z,gravitational,0.1.0,0,0,https://github.com/FusionVault/quantum-gravimeter,"Gravitational waves from nanohertz to terahertz: strain conventions, detector noise curves (LIGO, Einstein Telescope, LISA), inspirals and binary pulsars, radiated energy, memory, propagation and the…"
+2026-10-24T09:54:10.883842Z,leptoskit_plugin_dialog,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Asynchronous native desktop dialogs and browser file selection for LeptosKit.
+2026-10-24T09:54:12.084031Z,lockwire-fs-perms,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T09:54:14.280946Z,leptoskit_plugin_document_picker,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Bounded document import through native and browser file pickers.
+2026-10-24T09:55:27.071081Z,flight-loader,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Executor-neutral resource loading with host-owned scheduling
+2026-10-24T10:01:28.508835Z,paperpaw-plugin-reading-goal,0.5.0-beta.1,0,0,https://github.com/hthoene/paperpaw,"PaperPaw reading goal: minutes to read a day, and a cat on the home screen whose mood follows today's reading"
+2026-10-24T10:04:06.272667Z,neuronx,0.1.0,0,0,https://github.com/LaurentMazare/neuronx-rs,Bindings for the AWS Neuron runtime (libnrt).
+2026-10-24T10:04:16.765834Z,lockwire-git,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T10:05:27.456021Z,flight-audio,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Decoded audio resources, format routing, and caller-owned audio decoder dispatch"
+2026-10-24T10:14:21.42707Z,lockwire-l3-ipsec,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T10:14:35.331448Z,leptoskit_plugin_filesystem,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Capability-scoped application files for LeptosKit.
+2026-10-24T10:14:39.435352Z,leptoskit_plugin_global_shortcut,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Scoped desktop global shortcuts with bounded events for LeptosKit.
+2026-10-24T10:15:27.03217Z,flight-tween,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Tween animation: property interpolation, color tweens, stagger, timing, and tween management"
