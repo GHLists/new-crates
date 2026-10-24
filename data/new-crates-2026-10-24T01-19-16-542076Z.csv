@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T00:18:49.629721Z,aphrody-nie-launcher,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Native Rust launcher, save editor, and mod package manager for Inazuma Eleven: Victory Road"
+2026-10-24T00:19:12.176184Z,multidouble,0.1.0,0,0,https://github.com/nmoinvaz/multidouble,"Double-double and quad-double arithmetic, scalar and 8-lane SIMD (AVX-512, AVX2, SSE2, NEON, portable) with bitwise identical results, dual numbers and double-double LU"
+2026-10-24T00:20:20.132221Z,tauto-bind,0.0.0,0,0,https://github.com/Hihaheho/tauto,Generate Tauto declarations from rustdoc JSON
+2026-10-24T00:21:40.184134Z,rgy-discovery-dispatch,0.1.0,0,0,https://github.com/danalec/rgy,"The Source selector (docs/design.md §2.2): the native walk per platform by cfg, the portable walk elsewhere"
+2026-10-24T00:22:41.468096Z,coordinode-modality,0.8.0,0,0,https://github.com/structured-world/coordinode,"Layer 4 modality stores: typed per-modality APIs over the multimodal coordinator (NodeStore, EdgeStore, VectorStore, DocumentStore, TimeSeriesStore, SpatialStore, IndexStore, BlobStore, SchemaStore)"
+2026-10-24T00:24:49.869344Z,vlajmaji-lexicon,0.1.0,0,0,https://github.com/oxur/vlajmaji,"Source-preserving lexical records, provenance, and archives for (Re)Lojban dictionaries."
+2026-10-24T00:24:51.560736Z,vlajmaji-store,0.1.0,0,0,https://github.com/oxur/vlajmaji,Rebuildable SQLite and optional Oxigraph indexes for source-preserving lexical archives.
+2026-10-24T00:24:53.486149Z,vlajmaji-search,0.1.0,0,0,https://github.com/oxur/vlajmaji,"Source-preserving lexical search with spelling, phonology, prosody, and compound queries."
+2026-10-24T00:24:55.234989Z,vlajmaji-cli,0.1.0,0,0,https://github.com/oxur/vlajmaji,JSON command-line tools for building and searching (Re)Lojban lexical stores.
+2026-10-24T00:25:26.923715Z,flight-requirement,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Canonical requirement collection, set comparison, and merging"
+2026-10-24T00:26:06.366297Z,cadkit-geom,0.4.0,0,0,https://github.com/TNYCL/cadkit,"Independent f64 analytic geometry, polygon booleans and certified NURBS operations"
+2026-10-24T00:28:10.798095Z,argonauts-tui,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,"Argonauts Code terminal interface: the inline conversation screen, its overlays, and the screen-reader mode."
+2026-10-24T00:28:49.820147Z,aphrody-nie-ocgen,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,Pipeline de génération 3D d'un personnage original : références mesurées → CHARA_EDIT_PARAM → composition → plan d'assemblage
+2026-10-24T00:31:42.834211Z,rgy-search-ui,0.1.0,0,0,https://github.com/danalec/rgy,Terminal search UI (from zen-rs ui.rs; sparkline latency view)
+2026-10-24T00:31:50.590538Z,amph,0.2.0-beta,0,0,https://github.com/DAMIOTF/Arch-Meta-Package-Harmonizer,A CLI and TUI package harmonizer for Arch Linux
+2026-10-24T00:32:41.510043Z,coordinode-query,0.8.0,0,0,https://github.com/structured-world/coordinode,"Query layer: OpenCypher parser, query planner, GraphQL auto-generation"
+2026-10-24T00:34:50.599322Z,wolfpack-lsp,0.4.0,0,0,https://github.com/realfamousbae/wolfpack,"The language server of the wolfpack compiler (`wolf lsp`). Internal part of wolfpack-lang, not a stable API"
+2026-10-24T00:35:27.645512Z,flight-xml,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,XML parsing and querying: DOM-style element tree with attribute and child access
+2026-10-24T00:38:10.58599Z,argonauts-crew,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,"Argonauts Code run engine: a workflow runner for Understand, planning, dividing, task pipelines, merge, and the run review."
+2026-10-24T00:38:47.748363Z,aphrody-nie-queue,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,Bounded deduplicated BFS frontiers for the nie reverse-engineering loop
+2026-10-24T00:41:39.652831Z,solana_kit_leptoskit,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_leptoskit,Reserved LeptosKit adapter for off-chain Solana Kit clients; no implementation is included
+2026-10-24T00:41:41.180485Z,rgy-searchctl,0.1.0,0,0,https://github.com/danalec/rgy,The merged name-search CLI (fsearch ergonomics + zen-rs filters)
+2026-10-24T00:42:41.50661Z,coordinode-replicate,0.8.0,0,0,https://github.com/structured-world/coordinode,Replication-orchestration layer: replicated writes and consumer-retention tracking
+2026-10-24T00:45:27.20636Z,flight-math,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Scalar math utilities: clamping, interpolation, rounding, hashing, number theory, random distributions"
+2026-10-24T00:45:32.084791Z,garmin-rs,0.1.0,0,0,https://github.com/cameronpickham/garmin-rs,"Async client for the Garmin Connect Personal API: activities, sleep, HRV, Body Battery, stress, weight, and more."
+2026-10-24T00:48:02.534401Z,argonauts-registry,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,"Argonauts Code settings resolution, workflows and their files, CLI profiles, the model registry, and discovery."
+2026-10-24T00:48:48.879588Z,aphrody-nie-seed,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Import du savoir fusionné (index Ghidra aphrody-nie-index.json, RTTI, formats iecode, hash→nom inagle) comme ancres de la boucle RE nie"
+2026-10-24T00:51:42.901186Z,rgy-searchd,0.1.0,0,0,https://github.com/danalec/rgy,"The merged search daemon: JSON-lines over stdio/pipe/UDS, plus the rgx --serve front"
+2026-10-24T00:52:08.832644Z,gitarena-issues,0.1.0,0,0,https://github.com/mellowagain/gitarena,Rust library for interacting with `git-bug` as used by the GitArena forge
+2026-10-24T00:52:41.063661Z,coordinode-embed,0.8.0,0,0,https://github.com/structured-world/coordinode,"Embedded library API: open database, execute Cypher, vector search"
+2026-10-24T00:55:26.64064Z,flight-layout,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Layout algorithms: anchor, flex, and grid layout resolution with tree-shaking support"
+2026-10-24T00:56:10.184087Z,alpha2-geometry,0.3.0,0,0,https://github.com/alpha2-sh/alpha2,Deterministic vector geometry and coverage rasterization for alpha2 shapes.
+2026-10-24T00:58:00.644867Z,argonauts-mcp,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,"Argonauts Code MCP servers: start and watch runs from another agent (no approve tool), and the read-only status tool."
+2026-10-24T00:58:15.595658Z,ndac-api,0.1.0,0,0,https://github.com/Esl1h/ndac,Typed client for the NextDNS API used by ndac
+2026-10-24T00:58:28.556306Z,ndac-core,0.1.0,0,0,https://github.com/Esl1h/ndac,"Configuration model, diff engine and planner for ndac"
+2026-10-24T00:58:38.267481Z,incurs-mcp-events,0.1.0,0,0,https://github.com/douglance/incurs,"Platform-neutral MCP Events webhook delivery: subscribe, verify, sign, deliver, and receive"
+2026-10-24T00:58:40.779893Z,ndac,0.1.0,0,0,https://github.com/Esl1h/ndac,NextDNS-as-Code: manage NextDNS profiles declaratively from TOML files
+2026-10-24T00:58:49.383597Z,aphrody-nie-viola,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Opérations de modding LEVEL-5 (dump, pack, merge, crypto Criware) en Rust — périmètre de l'outil Viola, ordonnancement et empreinte mémoire revus"
+2026-10-24T00:59:04.320794Z,incurs-mcp-events-cloudflare,0.1.0,0,0,https://github.com/douglance/incurs,"Cloudflare Durable Object storage, alarms, and fetch for incurs MCP Events webhooks"
+2026-10-24T01:01:43.694927Z,rgy-zen,0.1.0,0,0,https://github.com/danalec/rgy,"The zen-rs CLI/TUI, unchanged behaviour, now built on the rgy workspace crates"
+2026-10-24T01:05:27.315918Z,flight-regexp,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,ECMAScript regular expressions with shared lastIndex state and UTF-16 match indices
+2026-10-24T01:08:31.656462Z,argonauts-app,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,"Argonauts Code's app controller and run host: the conversation, routing, choosing Captain or crew, and the run host each run has."
+2026-10-24T01:08:53.877904Z,aphrody-nie-wiki,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,Explore IEVR game data from the SQLite mirror
+2026-10-24T01:11:40.625611Z,rgy-autostart,0.1.0,0,0,https://github.com/danalec/rgy,"Registering the rgy search daemon to start at login, per platform (parity row 4.13)"
+2026-10-24T01:12:31.482631Z,blackbook,0.1.0,0,0,https://github.com/brian-summers/blackbook,"A Dockerized, end-to-end-encrypted secrets engine driven from a CLI: TLS 1.3 + mandatory mTLS, per-domain namespaces, group ACLs, TOTP MFA, and K-of-N threshold approvals."
+2026-10-24T01:15:26.826888Z,flight-textformat,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Text format records, font variation settings, and UTF-16 format ranges"
+2026-10-24T01:18:04.173558Z,argonauts-code,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,"Orchestrate any mix of coding agents and models, from Claude Code and Codex to open-weight models on your own machine."
+2026-10-24T01:18:50.84266Z,aphrody-nie-zukan,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Level-5 Inagle encyclopedia ingestion, parsing, and matching"

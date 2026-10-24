@@ -8,73 +8,62 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 00:18 UTC
+## Latest list — 2026-10-24 01:19 UTC
 
-New crates published between 2026-10-23 23:21 UTC and 2026-10-24 00:18 UTC.
+New crates published between 2026-10-24 00:18 UTC and 2026-10-24 01:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-24T00-18-36-5498Z.csv)
+[Full CSV](data/new-crates-2026-10-24T01-19-16-542076Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-23 23:26:46 | [tc_hc](https://crates.io/crates/tc_hc) | 0.1.0 | 0 | The HC-128 and HC-256 stream ciphers, kept for Bouncy Castle compatibility. |
-| 2026-10-23 23:26:47 | [tc_rc4_family](https://crates.io/crates/tc_rc4_family) | 0.1.0 | 0 | RC4 and its descendants VMPC and ISAAC as stream ciphers, with portable and Rus… |
-| 2026-10-23 23:26:49 | [tc_salsa20](https://crates.io/crates/tc_salsa20) | 0.1.0 | 0 | The Salsa20 and XSalsa20 stream ciphers, with portable and RustCrypto engines. |
-| 2026-10-23 23:27:59 | [argonauts-adapter-opencode](https://crates.io/crates/argonauts-adapter-opencode) | 0.1.0 | 0 | Argonauts Code adapter for OpenCode: headless runs with open-weight models thro… |
-| 2026-10-23 23:28:57 | [aphrody-nie-bevy](https://crates.io/crates/aphrody-nie-bevy) | 1.4.7 | 0 | Intégration native Bevy : les formats réels du jeu (G4TX, G4MD/G4MG) deviennent… |
-| 2026-10-23 23:29:40 | [tauto-syntax](https://crates.io/crates/tauto-syntax) | 0.0.0 | 0 | Runtime for Tauto syntax declarations |
-| 2026-10-23 23:34:51 | [brokapi-client](https://crates.io/crates/brokapi-client) | 0.1.0-alpha.4 | 0 | One account at any broker behind one type: the four connectors, the event chann… |
-| 2026-10-23 23:34:54 | [brokapi-gateway](https://crates.io/crates/brokapi-gateway) | 0.1.0-alpha.4 | 0 | The brokapi gateway: one process holds the connection to a broker account and s… |
-| 2026-10-23 23:35:14 | [teloxide-router](https://crates.io/crates/teloxide-router) | 0.1.0-alpha.1 | 0 | Attribute-macro handler registration and self-assembling routers for teloxide |
-| 2026-10-23 23:37:00 | [sigring](https://crates.io/crates/sigring) | 0.1.0 | 0 | Exact, streaming, sliding-window truncated path signatures in a wrapping intege… |
-| 2026-10-23 23:37:21 | [teloxide-router-macros](https://crates.io/crates/teloxide-router-macros) | 0.1.0-alpha.1 | 0 | Procedural macros for teloxide-router |
-| 2026-10-23 23:38:03 | [argonauts-conductor](https://crates.io/crates/argonauts-conductor) | 0.1.0 | 0 | Argonauts Code conductor: runs agent sessions, worktrees, checks, and merges. |
-| 2026-10-23 23:38:48 | [aphrody-nie-trace](https://crates.io/crates/aphrody-nie-trace) | 1.4.7 | 0 | RE en direct (runtime) : lecture de la mémoire live d'un nie.exe — process_vm_r… |
-| 2026-10-23 23:39:48 | [tauto-nir](https://crates.io/crates/tauto-nir) | 0.0.0 | 0 | Nib IR for Tauto |
-| 2026-10-23 23:40:05 | [core-design](https://crates.io/crates/core-design) | 0.1.0 | 0 | Project design requirements and agent skills for authoring and review |
-| 2026-10-23 23:40:51 | [solana_kit_memo](https://crates.io/crates/solana_kit_memo) | 0.0.0 | 0 | Reserved Memo client crate for the off-chain Solana Kit SDK; this placeholder s… |
-| 2026-10-23 23:42:29 | [uzor-fonts-cjk-a](https://crates.io/crates/uzor-fonts-cjk-a) | 1.5.7 | 0 | Noto Sans CJK SC Regular for uzor-fonts, half a (font bytes only; uzor-fonts' b… |
-| 2026-10-23 23:42:34 | [uzor-fonts-cjk-b](https://crates.io/crates/uzor-fonts-cjk-b) | 1.5.7 | 0 | Noto Sans CJK SC Regular for uzor-fonts, half b (font bytes only; uzor-fonts' b… |
-| 2026-10-23 23:42:37 | [uzor-fonts-emoji](https://crates.io/crates/uzor-fonts-emoji) | 1.5.7 | 0 | Noto Color Emoji for uzor-fonts (font bytes only; its build script copies them… |
-| 2026-10-23 23:45:44 | [coordinode-core](https://crates.io/crates/coordinode-core) | 0.8.0 | 0 | Core graph engine: property graph model, schema, MVCC transactions |
-| 2026-10-23 23:45:47 | [coordinode-swarm](https://crates.io/crates/coordinode-swarm) | 0.8.0 | 0 | BitTorrent-inspired swarm segment transfer: segment piece model (manifest, spli… |
-| 2026-10-23 23:45:48 | [coordinode-wire](https://crates.io/crates/coordinode-wire) | 0.8.0 | 0 | Inter-node wire transport codec: pure-Rust zstd compression for gRPC messages |
-| 2026-10-23 23:45:51 | [coordinode-storage](https://crates.io/crates/coordinode-storage) | 0.8.0 | 0 | Storage engine: LSM-tree, WAL, BlobStore, compression |
-| 2026-10-23 23:45:53 | [coordinode-vector](https://crates.io/crates/coordinode-vector) | 0.8.0 | 0 | Vector search: HNSW index, scalar quantization, distance metrics with SIMD |
-| 2026-10-23 23:47:59 | [argonauts-endpoints](https://crates.io/crates/argonauts-endpoints) | 0.1.0 | 0 | Argonauts Code endpoint runner: direct OpenAI-compatible model APIs with no too… |
-| 2026-10-23 23:48:49 | [aphrody-nie-camera](https://crates.io/crates/aphrody-nie-camera) | 1.4.7 | 0 | Caméra d'Inazuma Eleven: Victory Road — modèle, contrôleurs portés (CCameraCtrl… |
-| 2026-10-23 23:49:55 | [tauto-rustgen](https://crates.io/crates/tauto-rustgen) | 0.0.0 | 0 | Rust code generator from Nib IR for Tauto |
-| 2026-10-23 23:50:51 | [tokio-lsp-client](https://crates.io/crates/tokio-lsp-client) | 0.0.1 | 0 | A client for communicating asynchronously with language servers, fully complian… |
-| 2026-10-23 23:50:54 | [flight-webcam](https://crates.io/crates/flight-webcam) | 0.5.1-next.3236.44a… | 0 | Reserved portable webcam package surface |
-| 2026-10-23 23:50:57 | [flight-abc](https://crates.io/crates/flight-abc) | 0.5.1-next.3236.44a… | 0 | Reader and instruction decoder for ActionScript byte code containers |
-| 2026-10-23 23:51:01 | [flight-signals](https://crates.io/crates/flight-signals) | 0.5.1-next.3236.44a… | 0 | Signal-slot event system: signals, connections, scopes, emitters, and throttling |
-| 2026-10-23 23:51:05 | [flight-color](https://crates.io/crates/flight-color) | 0.5.1-next.3236.44a… | 0 | Color space conversions: HSL, HSV, Oklab, sRGB transfer, luminance, pack/unpack… |
-| 2026-10-23 23:51:09 | [flight-buffer](https://crates.io/crates/flight-buffer) | 0.5.1-next.3236.44a… | 0 | Shared ArrayBuffer, ArrayBufferView and Blob vocabulary foundation |
-| 2026-10-23 23:51:14 | [rgy-proto](https://crates.io/crates/rgy-proto) | 0.1.0 | 0 | JSON-lines protocol types shared by daemon, stdio, and CLI (skeleton) |
-| 2026-10-23 23:51:17 | [rgy-discovery](https://crates.io/crates/rgy-discovery) | 0.1.0 | 0 | Platform discovery seam (Source/Watch) and the shared change vocabulary |
-| 2026-10-23 23:51:26 | [rgy-name-core](https://crates.io/crates/rgy-name-core) | 0.1.0 | 0 | Name index, query filters, fuzzy ranking (fsearch engine + zen query vocabulary) |
-| 2026-10-23 23:51:38 | [rgy-engine](https://crates.io/crates/rgy-engine) | 0.1.0 | 0 | Orchestration: keep-warm, TV pack store glue |
-| 2026-10-23 23:51:43 | [rgy-discovery-windows](https://crates.io/crates/rgy-discovery-windows) | 0.1.0 | 0 | Windows discovery backend: NTFS MFT streaming + USN journal (from zen-rs) |
-| 2026-10-23 23:51:47 | [rgy-discovery-linux](https://crates.io/crates/rgy-discovery-linux) | 0.1.0 | 0 | Linux discovery backend: getdents64 bulk walk + recursive inotify |
-| 2026-10-23 23:52:41 | [coordinode-search](https://crates.io/crates/coordinode-search) | 0.8.0 | 0 | Full-text search, multilingual stemming, CJK, encrypted search (SSE) |
-| 2026-10-23 23:55:26 | [flight-stream](https://crates.io/crates/flight-stream) | 0.5.1-next.3236.44a… | 0 | D20 shared-future and byte-stream vocabulary: cloneable stored promises and Asy… |
-| 2026-10-23 23:56:25 | [libesxi2pve](https://crates.io/crates/libesxi2pve) | 0.1.2 | 0 | A Rust library for verified VMware ESXi to Proxmox VE migrations |
-| 2026-10-23 23:56:40 | [esxi2pve](https://crates.io/crates/esxi2pve) | 0.1.2 | 0 | A command-line tool for verified VMware ESXi to Proxmox VE migrations |
-| 2026-10-23 23:58:01 | [argonauts-learning](https://crates.io/crates/argonauts-learning) | 0.1.0 | 0 | Argonauts Code learning: the outcome log and track records, routing and predict… |
-| 2026-10-23 23:58:48 | [aphrody-nie-computer-use](https://crates.io/crates/aphrody-nie-computer-use) | 1.4.7 | 0 | Native, bounded Computer Use probes for nie.exe and Ghidra. |
-| 2026-10-24 00:00:03 | [tauto-rt](https://crates.io/crates/tauto-rt) | 0.0.0 | 0 | Runtime library for code generated by Tauto |
-| 2026-10-24 00:01:43 | [rgy-discovery-macos](https://crates.io/crates/rgy-discovery-macos) | 0.1.0 | 0 | macOS discovery backend: getattrlistbulk walk + FSEvents watch (from fsearch) |
-| 2026-10-24 00:02:40 | [coordinode-cluster](https://crates.io/crates/coordinode-cluster) | 0.8.0 | 0 | Layer 6 cluster topology: ClusterTopology + ShardRouting traits with CE SingleN… |
-| 2026-10-24 00:05:26 | [flight-encoding](https://crates.io/crates/flight-encoding) | 0.5.1-next.3236.44a… | 0 | Text encoding utilities: UTF-8 encode/decode |
-| 2026-10-24 00:07:59 | [argonauts-policy](https://crates.io/crates/argonauts-policy) | 0.1.0 | 0 | Argonauts Code approvals and narrator: approval modes, hard limits, the judge,… |
-| 2026-10-24 00:08:48 | [aphrody-nie-save](https://crates.io/crates/aphrody-nie-save) | 1.4.7 | 0 | Déchiffrement, lecture et édition des saves IEVR (Lives format CRC32-keyed XOR) |
-| 2026-10-24 00:09:06 | [textinputsources-rs](https://crates.io/crates/textinputsources-rs) | 0.1.0 | 0 | Safe Rust bindings for macOS Text Input Sources and keyboard layout translation |
-| 2026-10-24 00:10:11 | [tauto-build](https://crates.io/crates/tauto-build) | 0.0.0 | 0 | Compile Tauto sources from build.rs |
-| 2026-10-24 00:11:40 | [rgy-discovery-freebsd](https://crates.io/crates/rgy-discovery-freebsd) | 0.1.0 | 0 | FreeBSD discovery backend: getdirentries bulk walk with d_type from the dirent |
-| 2026-10-24 00:12:41 | [coordinode-raft](https://crates.io/crates/coordinode-raft) | 0.8.0 | 0 | Consensus: openraft wrapper, leader election, streaming snapshots |
-| 2026-10-24 00:15:27 | [flight-registry](https://crates.io/crates/flight-registry) | 0.5.1-next.3236.44a… | 0 | Immutable kind-map and ordinal-table helpers for Flight registries |
-| 2026-10-24 00:18:00 | [argonauts-runner](https://crates.io/crates/argonauts-runner) | 0.1.0 | 0 | Runs a workflow: a file of steps or a script, in a sandboxed JavaScript engine… |
-| 2026-10-24 00:18:13 | [bauske-phonology](https://crates.io/crates/bauske-phonology) | 0.1.0 | 0 | Source-grounded Relojban phonology, articulatory features, and prosodic analysi… |
-| 2026-10-24 00:18:15 | [bauske-cli](https://crates.io/crates/bauske-cli) | 0.1.0 | 0 | Command-line exploration of Relojban phonology, sound comparisons, and prosody. |
+| 2026-10-24 00:18:49 | [aphrody-nie-launcher](https://crates.io/crates/aphrody-nie-launcher) | 1.4.7 | 0 | Native Rust launcher, save editor, and mod package manager for Inazuma Eleven:… |
+| 2026-10-24 00:19:12 | [multidouble](https://crates.io/crates/multidouble) | 0.1.0 | 0 | Double-double and quad-double arithmetic, scalar and 8-lane SIMD (AVX-512, AVX2… |
+| 2026-10-24 00:20:20 | [tauto-bind](https://crates.io/crates/tauto-bind) | 0.0.0 | 0 | Generate Tauto declarations from rustdoc JSON |
+| 2026-10-24 00:21:40 | [rgy-discovery-dispatch](https://crates.io/crates/rgy-discovery-dispatch) | 0.1.0 | 0 | The Source selector (docs/design.md §2.2): the native walk per platform by cfg,… |
+| 2026-10-24 00:22:41 | [coordinode-modality](https://crates.io/crates/coordinode-modality) | 0.8.0 | 0 | Layer 4 modality stores: typed per-modality APIs over the multimodal coordinato… |
+| 2026-10-24 00:24:49 | [vlajmaji-lexicon](https://crates.io/crates/vlajmaji-lexicon) | 0.1.0 | 0 | Source-preserving lexical records, provenance, and archives for (Re)Lojban dict… |
+| 2026-10-24 00:24:51 | [vlajmaji-store](https://crates.io/crates/vlajmaji-store) | 0.1.0 | 0 | Rebuildable SQLite and optional Oxigraph indexes for source-preserving lexical… |
+| 2026-10-24 00:24:53 | [vlajmaji-search](https://crates.io/crates/vlajmaji-search) | 0.1.0 | 0 | Source-preserving lexical search with spelling, phonology, prosody, and compoun… |
+| 2026-10-24 00:24:55 | [vlajmaji-cli](https://crates.io/crates/vlajmaji-cli) | 0.1.0 | 0 | JSON command-line tools for building and searching (Re)Lojban lexical stores. |
+| 2026-10-24 00:25:26 | [flight-requirement](https://crates.io/crates/flight-requirement) | 0.5.1-next.3236.44a… | 0 | Canonical requirement collection, set comparison, and merging |
+| 2026-10-24 00:26:06 | [cadkit-geom](https://crates.io/crates/cadkit-geom) | 0.4.0 | 0 | Independent f64 analytic geometry, polygon booleans and certified NURBS operati… |
+| 2026-10-24 00:28:10 | [argonauts-tui](https://crates.io/crates/argonauts-tui) | 0.1.0 | 0 | Argonauts Code terminal interface: the inline conversation screen, its overlays… |
+| 2026-10-24 00:28:49 | [aphrody-nie-ocgen](https://crates.io/crates/aphrody-nie-ocgen) | 1.4.7 | 0 | Pipeline de génération 3D d'un personnage original : références mesurées → CHAR… |
+| 2026-10-24 00:31:42 | [rgy-search-ui](https://crates.io/crates/rgy-search-ui) | 0.1.0 | 0 | Terminal search UI (from zen-rs ui.rs; sparkline latency view) |
+| 2026-10-24 00:31:50 | [amph](https://crates.io/crates/amph) | 0.2.0-beta | 0 | A CLI and TUI package harmonizer for Arch Linux |
+| 2026-10-24 00:32:41 | [coordinode-query](https://crates.io/crates/coordinode-query) | 0.8.0 | 0 | Query layer: OpenCypher parser, query planner, GraphQL auto-generation |
+| 2026-10-24 00:34:50 | [wolfpack-lsp](https://crates.io/crates/wolfpack-lsp) | 0.4.0 | 0 | The language server of the wolfpack compiler (`wolf lsp`). Internal part of wol… |
+| 2026-10-24 00:35:27 | [flight-xml](https://crates.io/crates/flight-xml) | 0.5.1-next.3236.44a… | 0 | XML parsing and querying: DOM-style element tree with attribute and child access |
+| 2026-10-24 00:38:10 | [argonauts-crew](https://crates.io/crates/argonauts-crew) | 0.1.0 | 0 | Argonauts Code run engine: a workflow runner for Understand, planning, dividing… |
+| 2026-10-24 00:38:47 | [aphrody-nie-queue](https://crates.io/crates/aphrody-nie-queue) | 1.4.7 | 0 | Bounded deduplicated BFS frontiers for the nie reverse-engineering loop |
+| 2026-10-24 00:41:39 | [solana_kit_leptoskit](https://crates.io/crates/solana_kit_leptoskit) | 0.0.0 | 0 | Reserved LeptosKit adapter for off-chain Solana Kit clients; no implementation… |
+| 2026-10-24 00:41:41 | [rgy-searchctl](https://crates.io/crates/rgy-searchctl) | 0.1.0 | 0 | The merged name-search CLI (fsearch ergonomics + zen-rs filters) |
+| 2026-10-24 00:42:41 | [coordinode-replicate](https://crates.io/crates/coordinode-replicate) | 0.8.0 | 0 | Replication-orchestration layer: replicated writes and consumer-retention track… |
+| 2026-10-24 00:45:27 | [flight-math](https://crates.io/crates/flight-math) | 0.5.1-next.3236.44a… | 0 | Scalar math utilities: clamping, interpolation, rounding, hashing, number theor… |
+| 2026-10-24 00:45:32 | [garmin-rs](https://crates.io/crates/garmin-rs) | 0.1.0 | 0 | Async client for the Garmin Connect Personal API: activities, sleep, HRV, Body… |
+| 2026-10-24 00:48:02 | [argonauts-registry](https://crates.io/crates/argonauts-registry) | 0.1.0 | 0 | Argonauts Code settings resolution, workflows and their files, CLI profiles, th… |
+| 2026-10-24 00:48:48 | [aphrody-nie-seed](https://crates.io/crates/aphrody-nie-seed) | 1.4.7 | 0 | Import du savoir fusionné (index Ghidra aphrody-nie-index.json, RTTI, formats i… |
+| 2026-10-24 00:51:42 | [rgy-searchd](https://crates.io/crates/rgy-searchd) | 0.1.0 | 0 | The merged search daemon: JSON-lines over stdio/pipe/UDS, plus the rgx --serve… |
+| 2026-10-24 00:52:08 | [gitarena-issues](https://crates.io/crates/gitarena-issues) | 0.1.0 | 0 | Rust library for interacting with `git-bug` as used by the GitArena forge |
+| 2026-10-24 00:52:41 | [coordinode-embed](https://crates.io/crates/coordinode-embed) | 0.8.0 | 0 | Embedded library API: open database, execute Cypher, vector search |
+| 2026-10-24 00:55:26 | [flight-layout](https://crates.io/crates/flight-layout) | 0.5.1-next.3236.44a… | 0 | Layout algorithms: anchor, flex, and grid layout resolution with tree-shaking s… |
+| 2026-10-24 00:56:10 | [alpha2-geometry](https://crates.io/crates/alpha2-geometry) | 0.3.0 | 0 | Deterministic vector geometry and coverage rasterization for alpha2 shapes. |
+| 2026-10-24 00:58:00 | [argonauts-mcp](https://crates.io/crates/argonauts-mcp) | 0.1.0 | 0 | Argonauts Code MCP servers: start and watch runs from another agent (no approve… |
+| 2026-10-24 00:58:15 | [ndac-api](https://crates.io/crates/ndac-api) | 0.1.0 | 0 | Typed client for the NextDNS API used by ndac |
+| 2026-10-24 00:58:28 | [ndac-core](https://crates.io/crates/ndac-core) | 0.1.0 | 0 | Configuration model, diff engine and planner for ndac |
+| 2026-10-24 00:58:38 | [incurs-mcp-events](https://crates.io/crates/incurs-mcp-events) | 0.1.0 | 0 | Platform-neutral MCP Events webhook delivery: subscribe, verify, sign, deliver,… |
+| 2026-10-24 00:58:40 | [ndac](https://crates.io/crates/ndac) | 0.1.0 | 0 | NextDNS-as-Code: manage NextDNS profiles declaratively from TOML files |
+| 2026-10-24 00:58:49 | [aphrody-nie-viola](https://crates.io/crates/aphrody-nie-viola) | 1.4.7 | 0 | Opérations de modding LEVEL-5 (dump, pack, merge, crypto Criware) en Rust — pér… |
+| 2026-10-24 00:59:04 | [incurs-mcp-events-cloudflare](https://crates.io/crates/incurs-mcp-events-cloudflare) | 0.1.0 | 0 | Cloudflare Durable Object storage, alarms, and fetch for incurs MCP Events webh… |
+| 2026-10-24 01:01:43 | [rgy-zen](https://crates.io/crates/rgy-zen) | 0.1.0 | 0 | The zen-rs CLI/TUI, unchanged behaviour, now built on the rgy workspace crates |
+| 2026-10-24 01:05:27 | [flight-regexp](https://crates.io/crates/flight-regexp) | 0.5.1-next.3236.44a… | 0 | ECMAScript regular expressions with shared lastIndex state and UTF-16 match ind… |
+| 2026-10-24 01:08:31 | [argonauts-app](https://crates.io/crates/argonauts-app) | 0.1.0 | 0 | Argonauts Code's app controller and run host: the conversation, routing, choosi… |
+| 2026-10-24 01:08:53 | [aphrody-nie-wiki](https://crates.io/crates/aphrody-nie-wiki) | 1.4.7 | 0 | Explore IEVR game data from the SQLite mirror |
+| 2026-10-24 01:11:40 | [rgy-autostart](https://crates.io/crates/rgy-autostart) | 0.1.0 | 0 | Registering the rgy search daemon to start at login, per platform (parity row 4… |
+| 2026-10-24 01:12:31 | [blackbook](https://crates.io/crates/blackbook) | 0.1.0 | 0 | A Dockerized, end-to-end-encrypted secrets engine driven from a CLI: TLS 1.3 +… |
+| 2026-10-24 01:15:26 | [flight-textformat](https://crates.io/crates/flight-textformat) | 0.5.1-next.3236.44a… | 0 | Text format records, font variation settings, and UTF-16 format ranges |
+| 2026-10-24 01:18:04 | [argonauts-code](https://crates.io/crates/argonauts-code) | 0.1.0 | 0 | Orchestrate any mix of coding agents and models, from Claude Code and Codex to… |
+| 2026-10-24 01:18:50 | [aphrody-nie-zukan](https://crates.io/crates/aphrody-nie-zukan) | 1.4.7 | 0 | Level-5 Inagle encyclopedia ingestion, parsing, and matching |
 
 ## Data source
 
