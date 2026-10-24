@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T11:20:51.171521Z,flits,0.3.0,0,0,https://github.com/ArjandenHartog/flits,Blazing-fast GPU video and podcast renderer (JSON scene -> MP4) with built-in transcription
+2026-10-24T11:24:53.790298Z,lockwire-mail-headers,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T11:25:26.892337Z,flight-clip,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Hard geometric clip regions, pooling, and opt-in lifecycle diagnostics"
+2026-10-24T11:26:06.570622Z,jmap-did-types,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP Decentralized Identifiers extension data types (draft-atwood-jmap-did-00)
+2026-10-24T11:26:12.776967Z,jmap-graph-types,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP Graph extension data types (draft-atwood-jmap-graph-00)
+2026-10-24T11:26:24.878265Z,jmap-scene-types,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP Scene extension data types (draft-atwood-jmap-scene-00)
+2026-10-24T11:26:35.16304Z,jmap-vtc-types,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP VTC extension data types (draft-atwood-jmap-vtc-00)
+2026-10-24T11:26:42.268393Z,jmap-web-push,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"Web Push delivery (RFC 8291 encryption, RFC 8292 VAPID, retry) for JMAP push messages"
+2026-10-24T11:30:22.04859Z,picusbase-errors,0.1.0,0,0,https://github.com/picusbase/picusbase-sdk-rust,Standardized error types for PicusBase SDKs
+2026-10-24T11:31:41.480549Z,picusbase-sdk,0.1.0,0,0,https://github.com/picusbase/picusbase-sdk-rust,"Rust SDK for the PicusBase platform: auth, platform, storage, functions, realtime"
+2026-10-24T11:32:19.380012Z,coretriage-core,0.0.0,0,0,https://github.com/rolandjitsu/coretriage,"Offline triage of Linux ELF core dumps: parse, unwind, symbolicate, and bucket crashes and hangs."
+2026-10-24T11:32:30.826503Z,coretriage,0.0.0,0,0,https://github.com/rolandjitsu/coretriage,"CLI to triage Linux ELF core dumps: unwind, symbolicate, and bucket crashes and hangs offline."
+2026-10-24T11:34:00.941479Z,bigtext,0.1.1,0,0,https://github.com/Erkinbek/bigtext,"Fast text editor for huge files (1-50+ GB): opens instantly, never freezes, streaming search/replace and atomic save"
+2026-10-24T11:34:55.946108Z,leptoskit_plugin_linking,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Validated external links and app settings for LeptosKit.
+2026-10-24T11:34:58.771587Z,lockwire-mail-interop,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T11:35:01.191403Z,leptoskit_plugin_local_authentication,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Explicit local biometric or device-credential authentication for LeptosKit.
+2026-10-24T11:35:27.525262Z,flight-motionpath,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Arc-length motion-path markers: position, heading, progress, direction and clamp/loop/pingpong stepping over a Path"
+2026-10-24T11:36:31.647138Z,jmap-did-resolver,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"did:key, did:web, did:plc and did:webvh resolution with a refresh-on-failure cache for the jmap-* crates"
+2026-10-24T11:36:32.292568Z,openapi-spec-validator-rs,0.1.0,0,0,https://github.com/Arjun-Aravind/openapi-spec-validator-rs,"A fast, drop-in Rust companion to openapi-spec-validator."
+2026-10-24T11:36:49.34731Z,openapi-spec-validator-rs-cli,0.1.0,0,0,https://github.com/Arjun-Aravind/openapi-spec-validator-rs,Command-line interface for openapi-spec-validator-rs.
+2026-10-24T11:37:05.337013Z,refslots,0.1.0,0,0,https://codeberg.org/joshleeb/refslots,Reference-counted handles to slots in a slotmap
+2026-10-24T11:45:03.375976Z,lockwire-mail-proxy,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T11:45:27.179693Z,flight-path-boolean,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Boolean path operations: union, intersect, difference, XOR, offset, simplify"
+2026-10-24T11:46:42.751045Z,jmap-graph-server,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP Graph method handlers (draft-atwood-jmap-graph-00) — backend-agnostic, plugs into jmap-server Dispatcher"
+2026-10-24T11:53:52.639593Z,foxpaw-habanero,0.1.0,0,0,https://github.com/foxpaw-rs/habanero/,"A lightweight, custom, multi-threaded HTTP client/server implementation without async."
+2026-10-24T11:54:27.798627Z,leptoskit_plugin_localization,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"Locale, language, region and calendar preferences for LeptosKit."
+2026-10-24T11:54:31.177969Z,leptoskit_plugin_location,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Explicit foreground location permissions and cancellable bounded fixes for LeptosKit.
+2026-10-24T11:55:08.074748Z,lockwire-mail-server,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T11:56:52.355953Z,jmap-peer-auth,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP Chat federation peer authentication: RFC 9421 request signing and verification (draft-atwood-jmap-chat-federation-00), no I/O"
+2026-10-24T11:57:00.827908Z,kasane-pdf,0.1.0,0,0,https://github.com/akam1o/kasane-pdf,"Independent PDF engine: parsing, rendering, text extraction, rewriting and incremental editing with strict resource limits"
+2026-10-24T11:57:58.338758Z,ironrdp-rdpewa-native,0.1.0,0,0,https://github.com/Devolutions/IronRDP,Windows WebAuthn backend for IronRDP MS-RDPEWA client
+2026-10-24T11:58:10.676803Z,ironrdp-vmconnect,0.1.0,0,0,https://github.com/Devolutions/IronRDP,Hyper-V VM console (vmconnect) connection ordering for IronRDP
+2026-10-24T12:03:05.376125Z,quantbits-derive,0.1.0,0,0,https://github.com/d4per/quantbits,Procedural macros for quantbits
+2026-10-24T12:04:23.210878Z,quantbits,0.1.0,0,0,https://github.com/d4per/quantbits,"Packed bit fields of arbitrary width: integers, bools, enums and floats quantized to a range"
+2026-10-24T12:05:12.967478Z,lockwire-mail-store,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T12:05:25.382034Z,strided-nn,0.1.0,0,0,https://github.com/tensor4all/strided-rs,Fused neural-network kernels (softmax) over strided CPU slices.
+2026-10-24T12:06:58.644252Z,jmap-scene-server,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP Scene method handlers (draft-atwood-jmap-scene-00 SceneAsset) — backend-agnostic, plugs into jmap-server Dispatcher"
+2026-10-24T12:08:40.726556Z,mix_vector,0.1.1,0,0,,A simple heterogeneous container for Rust
+2026-10-24T12:10:12.161825Z,nova-codec,0.2.0,0,0,https://github.com/SarK0Y/Nova_Musique.git,FFI bindings to the vendored No_FFT codecs (.no_fft / .nadc / .nfm)
+2026-10-24T12:10:16.909383Z,fermaid,0.2.0,0,0,https://github.com/tenyi/fermaid,Render Mermaid diagram text to SVG in pure Rust
+2026-10-24T12:10:39.706314Z,fermaid-cli,0.2.0,0,0,https://github.com/tenyi/fermaid,Command-line tool that renders Mermaid diagram text to SVG
+2026-10-24T12:14:38.80362Z,leptoskit_plugin_logging,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"Structured, bounded application logging for LeptosKit."
+2026-10-24T12:14:42.814353Z,leptoskit_plugin_magnetometer,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Cancellable magnetometer readings for LeptosKit.
+2026-10-24T12:15:17.608532Z,lockwire-mcp,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T12:17:11.618984Z,jmap-vtc-server,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP VTC method handlers (draft-atwood-jmap-vtc-00 VTCCall, VTCRecording, VTCLivestream) — backend-agnostic, plugs into jmap-server Dispatcher"
