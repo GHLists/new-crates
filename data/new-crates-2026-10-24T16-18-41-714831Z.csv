@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T15:24:23.756836Z,kunobi-openidconnect,4.0.1-kunobi.1,0,0,https://github.com/kunobi-ninja/kunobi-auth,OpenID Connect library with maintained Kunobi cryptographic dependencies
+2026-10-24T15:25:27.576049Z,flight-glyphatlas,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Dynamic rasterized glyph atlases with bounded caching and dirty-region tracking
+2026-10-24T15:25:54.845075Z,kunobi-ssh-agent-client-rs,1.1.4-kunobi.1,0,0,https://github.com/kunobi-ninja/kunobi-auth,Pure rust implementation of the ssh-agent protocol. It can be used to write clients that interact with the ssh agent.
+2026-10-24T15:26:45.350691Z,lockwire-server,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T15:35:08.290363Z,leptoskit_plugin_websocket,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Scoped WebSocket connections with bounded messages and explicit lifecycle for LeptosKit.
+2026-10-24T15:35:11.660041Z,leptoskit_plugin_window_state,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Validated window placement and explicit native window restoration for LeptosKit.
+2026-10-24T15:35:27.30429Z,flight-capture,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Capture verification: tolerant fingerprint parity/regression checks and the canonical committed baseline record
+2026-10-24T15:36:49.6395Z,ollivier-ricci,0.1.0,0,0,https://github.com/btraven00/orc-rs,"Exact Ollivier-Ricci curvature of weighted graphs, in parallel"
+2026-10-24T15:36:50.079277Z,lockwire-siem-export,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T15:38:35.642421Z,si_unit_parser,0.1.0,0,0,https://github.com/Slacker201/slackers_si_units,A parser for slackers_si_units
+2026-10-24T15:38:45.188758Z,si_unit_type,0.1.0,0,0,https://github.com/Slacker201/slackers_si_units,The types for slackers_si_units
+2026-10-24T15:39:00.660549Z,bitinfer,0.0.1,0,0,https://github.com/sumeeth05/bitinfer.git,bitinfer
+2026-10-24T15:40:41.323843Z,ws-mixer,0.2.1,0,0,https://github.com/mcpwarp/ws-mixer-rust,Rust client SDK for the ws-mixer.v1 protocol: N byte streams multiplexed over one WebSocket
+2026-10-24T15:41:01.459708Z,ws-mixer-mcpwarp,0.1.1,0,0,https://github.com/mcpwarp/ws-mixer-rust,The mcpwarp layer over ws-mixer: expose a local MCP server at a public mcpwarp URL
+2026-10-24T15:45:27.368015Z,flight-image,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Host image resources, encoded image references, and texture-source integration"
+2026-10-24T15:46:55.659384Z,lockwire-signing-service,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T15:48:47.680761Z,tmpmail,0.1.0,0,0,https://github.com/eel-brah/tmpmail,"Temporary email from the terminal: multiple providers, automatic fallback, wait/OTP/JSON for automation"
+2026-10-24T15:54:45.863038Z,leptoskit_query,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"Async state management for leptos in the style of TanStack Query: cached, deduplicated, retrying queries, infinite queries, and mutations built on fine-grained signals."
+2026-10-24T15:54:49.304127Z,leptoskit_router,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Typed file routes for leptoskit: the runtime behind the generated `Route` enum.
+2026-10-24T15:55:27.381991Z,flight-filesystem,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Path utilities and file operations over an explicit host file-system capability
+2026-10-24T15:57:00.914003Z,lockwire-ssh,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T16:05:06.009647Z,sentinela-config,0.1.31,0,0,https://github.com/pleme-io/sentinela,sentinela-config — the shikumi-typed config surface (mirrors the pleme.gitops nix option surface)
+2026-10-24T16:05:08.361783Z,sentinela,0.1.31,0,0,https://github.com/pleme-io/sentinela,sentinela — the pure-Rust Darwin GitOps node-sync daemon (the Mac peer of NixOS comin)
+2026-10-24T16:05:27.186291Z,flight-textlayout,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Renderer-agnostic text line layout, bounds, metrics, and hit queries"
+2026-10-24T16:07:05.856054Z,lockwire-svn,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T16:14:01.313194Z,mime-message,0.2.0,0,0,https://github.com/floffel/mime-message,"Build and parse RFC 5322 / MIME email messages, without an SMTP dependency"
+2026-10-24T16:14:22.58452Z,telegram-api-client,0.1.0,0,0,https://github.com/floffel/telegram-api-client,Minimal typed client and webhook toolkit for the Telegram Bot API
+2026-10-24T16:14:26.226402Z,meta-whatsapp,0.1.0,0,0,https://github.com/floffel/meta-whatsapp,Typed client and webhook toolkit for the WhatsApp Cloud API (Meta Graph API)
+2026-10-24T16:15:09.395576Z,leptoskit_router_codegen,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Reads a leptoskit `src/routes/` directory and writes its typed `routes.rs`.
+2026-10-24T16:15:12.701688Z,leptoskit_router_macros,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,The `#[derive(Route)]` macro for leptoskit file routes.
+2026-10-24T16:15:27.584896Z,flight-scene2d,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Display object tree for composited 2D rendering: the Node2D family, sprites, nine-slice sprites, html views and the Scene2D presentation context"
+2026-10-24T16:15:55.042049Z,derive-handy-impl,0.1.0,0,0,https://github.com/ChieloNewctle/derive-handy,Internal implementation of `derive-handy` crate
+2026-10-24T16:16:01.970487Z,derive-handy,0.1.0,0,0,https://github.com/ChieloNewctle/derive-handy,Adds #[derive(x)] macros for more traits
+2026-10-24T16:17:14.142181Z,lockwire-tls-testkit,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T16:17:19.607822Z,lockwire-tsa,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
