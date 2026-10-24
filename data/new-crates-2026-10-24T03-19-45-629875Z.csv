@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T02:23:36.981334Z,avb-net,0.1.0,0,0,https://github.com/scrambletools/avb,"Raw Ethernet for AVB protocols: MAC addresses, interfaces, and frames with hardware timestamps"
+2026-10-24T02:23:38.711689Z,avb-mrp,0.1.0,0,0,https://github.com/scrambletools/avb,"IEEE 802.1Q MRP, MSRP and MVRP: attribute declaration and stream reservation state machines, without I/O"
+2026-10-24T02:23:40.855356Z,atdecc,0.1.0,0,0,https://github.com/scrambletools/avb,"IEEE 1722.1 ATDECC (AVDECC) with Milan: frames, controller and entity state machines, without I/O"
+2026-10-24T02:23:42.830646Z,avb-lite,0.1.0,0,0,https://github.com/scrambletools/avb,"The AVB Lite profile: falling back from AVB where no bridge reserves streams, and CVU SRP's declarations, admission and escalation, without I/O"
+2026-10-24T02:23:43.53082Z,avb-stream,0.1.0,0,0,https://github.com/scrambletools/avb,"AVTP audio streams: AAF and AM824 talkers and listeners paced on gPTP time, CRF media clocks, with audio through cpal"
+2026-10-24T02:25:27.113522Z,flight-updater,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Updater capability seam: app update checks, installs and updater destruction routed through a provider-pinned host command"
+2026-10-24T02:27:15.463341Z,cybercore-theme-studio,0.1.1,0,0,https://github.com/cybercoretech/cybercore,Standalone local theme creator for the Cybercore Systems Framework
+2026-10-24T02:27:19.392289Z,cybercore-theme-wasm,0.1.1,0,0,https://github.com/cybercoretech/cybercore,Browser bindings for the Cybercore theme engine
+2026-10-24T02:27:23.990355Z,cybercore-agent,0.1.1,0,0,https://github.com/cybercoretech/cybercore-mission-control,Outbound-only heartbeat connector for Cybercore Mission Control
+2026-10-24T02:27:42.277542Z,docparser-core,0.1.0,0,0,https://github.com/hi-agents/text-docparser,docparser 独立解析核心：IR / 统一错误 / 能力 trait / Registry / Router / Policy（零 native 依赖）
+2026-10-24T02:28:33.423644Z,docparser-epub,0.1.0,0,0,https://github.com/hi-agents/text-docparser,docparser EPUB 后端：container/OPF/spine 结构解析，每章复用 HTML 块解析（标题/段落/列表/表格）
+2026-10-24T02:28:48.551098Z,aphrody-nie-inventory,1.4.7,0,0,,IEVR (Inazuma Eleven Victory Road) reverse-engineering analysis tools — consumes binary inventory JSON for static catalog work.
+2026-10-24T02:29:27.538278Z,docparser-pdf,0.1.0,0,0,https://github.com/hi-agents/text-docparser,docparser PDF 后端：PDFium 常驻 worker 逐文本对象抽取（CJK/CID 可用）+ pdf-extract 纯 Rust 兜底
+2026-10-24T02:30:07.219569Z,docparser-office,0.1.0,0,0,https://github.com/hi-agents/text-docparser,docparser Office 后端：DOCX / XLSX / PPTX 解析（zip + quick-xml 流式）
+2026-10-24T02:31:04.903417Z,docparser-cli,0.1.0,0,0,https://github.com/hi-agents/text-docparser,docparser 命令行：PDF / DOCX / XLSX / PPTX / TXT / MD / CSV / HTML → text / markdown / json
+2026-10-24T02:31:29.240816Z,tsorder-core,0.1.0,0,0,https://github.com/castlaboratory/tsorder,Order selection for time-series models: classical information criteria and Fine–Hwang threshold estimators (dependency-free core)
+2026-10-24T02:31:42.06431Z,docparser-sdk,0.1.0,0,0,https://github.com/hi-agents/text-docparser,docparser 一体化入口：一次依赖拿到 core + PDF + Office 后端，输出统一 IR
+2026-10-24T02:31:42.281044Z,mhome-script-sdk-macros,0.1.0,0,0,https://github.com/mhome-ai/foundation,Typed Automation Script Input/Output derives for mhome-script-sdk
+2026-10-24T02:32:30.390462Z,mhome-script-sdk,0.2.0,0,0,https://github.com/mhome-ai/foundation,"Automation script values, bounded binary codec and guest ABI"
+2026-10-24T02:35:26.460085Z,flight-log,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Structured logging: log sinks, memory logs, log-once dedup, and log level filtering"
+2026-10-24T02:36:01.928868Z,mhome-wasm-runtime,0.2.0,0,0,https://github.com/mhome-ai/foundation,Shared Wasmtime engine and bounded script invocation
+2026-10-24T02:38:48.912975Z,aphrody-nie-lua-web,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Browser-callable surface over the real aphrody-nie-lua VM (mlua, vendored Lua 5.2.4 C), built for wasm32-unknown-emscripten only. Mirrors crates/tools/nie-site's POST /api/v1/menu/runtime/{screen} co…"
+2026-10-24T02:45:27.076433Z,flight-animation,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Animation system: clips, keyframes, sampling, blending, and animation state management"
+2026-10-24T02:48:56.60311Z,aphrody-nie-mcp,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,Native Rust MCP stdio server for the complete nie tool surface
+2026-10-24T02:51:43.852373Z,gwsens,0.1.0,0,0,https://github.com/FusionVault/quantum-gravimeter,"Gravitational-wave sensitivity in one place: strain conventions, detector noise curves (LIGO, Einstein Telescope, LISA), signal-to-noise and horizons, stochastic backgrounds and pulsar timing, high-f…"
+2026-10-24T02:55:26.85442Z,flight-lifecycle,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Application lifecycle: state, launch kind, memory pressure and save/restore signals over a host capability"
+2026-10-24T02:58:52.291426Z,aphrody-nie-model-serve,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,Portable IEVR model catalogs and menu compositor with an optional live GLB HTTP server
+2026-10-24T02:59:14.609841Z,gravity-claims,0.1.0,0,0,https://github.com/FusionVault/quantum-gravimeter,"Reality checks for extraordinary gravity claims: the published numbers of Li–Baker gravitational-wave detectors, Pais patents, Tajmar and Podkletnov superconductors, EmDrive, Mach-effect and ion-wind…"
+2026-10-24T03:01:47.165805Z,volsmith,0.0.1,0,0,https://github.com/volsmith/volsmith,"Craft-first volatility engine for crypto options — SVI surfaces, VRP signals, testnet-first execution."
+2026-10-24T03:05:27.547838Z,flight-menu,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Menu capability seam: application menu installation, context-menu popups, highlight/select event entities and default menu templates routed through explicit host providers"
+2026-10-24T03:08:48.494091Z,aphrody-nie-pe-inspect,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Bounded PE/COFF inspector over the bun-re triage, string extraction and x86 disassembly primitives."
+2026-10-24T03:09:24.129167Z,solana_kit_stake,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_stake,Reserved Stake client for off-chain Solana Kit applications; no implementation is included
+2026-10-24T03:14:54.397529Z,fireargs-macros,0.2.0,0,0,https://github.com/datisthq/fireargs,"The attribute macros of fireargs: #[fireargs::input], #[fireargs::output], #[fireargs::argument] and #[fireargs::option]"
+2026-10-24T03:14:56.134308Z,tv-rs-mdc,0.3.0,0,0,https://github.com/Zakarialabib/tv-rs,"Samsung Multiple Display Control (MDC) over TCP 1515: frames, display IDs, power, input, volume, mute and brightness."
+2026-10-24T03:15:27.207291Z,flight-clipboard,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Clipboard capability seam: text, HTML, RTF, image, bookmark and generic format reads/writes plus change watches routed through explicit host capabilities"
+2026-10-24T03:15:55.09746Z,dma-libfabric-protocol,0.1.0,0,0,https://github.com/momentohq/vdma,Types and definitions for dma-libfabric
+2026-10-24T03:16:17.298306Z,dma-libfabric,0.1.0,0,0,https://github.com/momentohq/vdma,Tools for building server-initiated RDMA side-channels
+2026-10-24T03:18:26.369506Z,tv-rs-app,0.3.0,0,0,https://github.com/Zakarialabib/tv-rs,"Package a supplied web/wasm payload as an installable TV app: Tizen .wgt manifests, webOS app directories and plain web bundles, with D-pad key mapping."
+2026-10-24T03:18:49.68868Z,aphrody-nie-pg,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Import des cfg.bin du VFS IEVR (RDBN et T2B) dans PostgreSQL, schéma `nie`, sans étape JSON"
