@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T07:23:03.933433Z,lockwire-authn-client,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T07:24:01.893238Z,tree-sitter-asl,0.1.0,0,0,https://github.com/tabulatejarl8/tree-sitter-asl,ACPI Source Language
+2026-10-24T07:25:26.861722Z,flight-textbidi,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Unicode Bidirectional Algorithm: bidi class resolution, level assignment, and visual reordering"
+2026-10-24T07:25:44.510322Z,natplus,0.1.1,0,0,https://github.com/GeneticxCln/natplus,Nat+ — A natural English programming language that compiles to standalone native binaries via rustc
+2026-10-24T07:32:09.145526Z,konomanoasa-tree-sitter-awk,0.11.0,0,0,https://github.com/konomanoasa/tree-sitter-awk,Tree-sitter grammar for GNU Awk 5.4.1.
+2026-10-24T07:33:08.645525Z,lockwire-authz,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T07:33:21.851912Z,leptoskit_appkit,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,The leptoskit AppKit backend: renders leptoskit element trees as real macOS views.
+2026-10-24T07:33:26.339664Z,leptoskit_bridge,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Bounded binary calls and events between LeptosKit guests and native plugins.
+2026-10-24T07:33:30.817838Z,leptoskit_bridge_ffi,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"C ABI for Swift, C++, and Android NDK LeptosKit plugin hosts."
+2026-10-24T07:33:35.706311Z,leptoskit_build,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Cargo build-script support for leptoskit's shared application modules.
+2026-10-24T07:33:41.826283Z,leptoskit_docs,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"Markdown with leptos components, in the style of MDX, and the static documentation site generator built on it."
+2026-10-24T07:35:27.500081Z,flight-permissions,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Read-only permission queries and explicit permission requests over caller-supplied host capabilities
+2026-10-24T07:38:21.298364Z,nova-codegen-wasm,0.4.0,0,0,https://github.com/Sakeerin/nova,The Nova language's WebAssembly code generator (internal to the nova toolchain)
+2026-10-24T07:42:57.977264Z,cadcraft-dwg,1.4.7,0,0,https://source.aphrody.app/aphrody-dev/bun-crate-cadcraft-dwg,"CADCraft DWG bridge: converts DWG to and from DXF bytes using the acadrust crate (MPL-2.0, used unmodified)"
+2026-10-24T07:43:13.279897Z,lockwire-ca,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T07:45:26.778914Z,flight-requirement-codegen,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Emission-neutral requirement planning against a caller-owned catalog
+2026-10-24T07:49:30.562683Z,leptoskit_fmt,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"The formatter behind `leptoskit format`: rustfmt for Rust, and a layout engine for the markup inside `view!` macros."
+2026-10-24T07:49:33.822684Z,leptoskit_macros,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,The view! markup macro and #[component] attribute for leptoskit's cross-platform components.
+2026-10-24T07:53:17.9505Z,lockwire-ca-server,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T07:53:28.538958Z,cadcraft-dxf,1.4.7,0,0,https://source.aphrody.app/aphrody-dev/bun-crate-cadcraft-dxf,"Standalone DXF tag reader/writer (ASCII and binary, pre-2007 code pages), from the published DXF reference"
+2026-10-24T07:54:13.610622Z,rossi-backend,0.0.0,0,0,,.
+2026-10-24T07:55:27.21327Z,flight-device,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Device identity, capabilities, display metrics and safe-area insets read through an explicit host capability"
+2026-10-24T07:57:41.159294Z,hw_ultra,0.2.0,0,0,,"A no_std bare-metal hardware abstraction layer — all port I/O, memory and swap allocations are guarded at runtime. Do not consider this dependency stable before x.1.x"
+2026-10-24T08:03:22.478539Z,lockwire-contribution-gate,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T08:04:29.251148Z,cadcraft-fonts,1.4.7,0,0,https://source.aphrody.app/aphrody-dev/bun-crate-cadcraft-fonts,CADCraft text: the built-in single-stroke drafting font and TEXT/MTEXT layout
+2026-10-24T08:05:26.715099Z,flight-accessibility,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Accessibility capability seam: plain node/state descriptors, operation outcomes and a provider-backed mirrored-tree facade"
+2026-10-24T08:13:27.03781Z,lockwire-crypto,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T08:14:35.834991Z,leptoskit_plugin_accelerometer,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Cancellable accelerometer readings for LeptosKit.
+2026-10-24T08:14:39.396946Z,leptoskit_plugin_application,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Installed application identity and build metadata for LeptosKit.
+2026-10-24T08:15:27.351779Z,flight-texture,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Texture sampling views, open pixel-source identities, cube faces, UV transforms, color-space policy and voxel sources"
+2026-10-24T08:15:38.672464Z,cadcraft-render,1.4.7,0,0,https://source.aphrody.app/aphrody-dev/bun-crate-cadcraft-render,"CADCraft rendering: display lists (linetypes, hatches, text, blocks, dimensions) and a CPU rasteriser"
