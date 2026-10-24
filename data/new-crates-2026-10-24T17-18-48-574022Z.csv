@@ -1,0 +1,65 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T16:20:00.766125Z,lmsdrive,0.1.0,0,0,https://github.com/hack-soongsil/lms-drive,SSU Canvas LMS conversation API client
+2026-10-24T16:24:08.04776Z,rustyschwab-console,0.3.0,0,0,https://github.com/epistates/rustyschwab,"Unofficial operator console core for rustyschwab-mcp agents: a live snapshot of what they do and commands to approve, delegate, halt and kill, for any user interface"
+2026-10-24T16:24:09.35693Z,rustyschwab-dash,0.3.0,0,0,https://github.com/epistates/rustyschwab,Unofficial terminal dashboard for following and supervising agents that trade through rustyschwab-mcp
+2026-10-24T16:25:27.430292Z,flight-command,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Reversible command history: D16 kind-tagged commands, kind-registry bindings, undo/redo stacks and transactions over the node graph"
+2026-10-24T16:27:26.216512Z,lockwire-tsa-client,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T16:28:17.872599Z,leptos-press-llms,0.0.0-wip,0,0,https://github.com/nebula-rs/leptos-press,"leptos-press plugin that generates llms.txt, llms-full.txt and per-page Markdown copies (work in progress — placeholder release)"
+2026-10-24T16:28:20.417495Z,leptos-press-okf,0.0.0-wip,0,0,https://github.com/nebula-rs/leptos-press,leptos-press plugin that publishes the documentation as an Open Knowledge Format (OKF) bundle (work in progress — placeholder release)
+2026-10-24T16:33:10.17836Z,unpakt-core,0.1.0,0,0,https://github.com/krotrn/unpakt,"Engine for installing and managing portable Linux apps (AppImages, tarballs) per user"
+2026-10-24T16:33:50.436133Z,unpakt-cli,0.1.0,0,0,https://github.com/krotrn/unpakt,"Install, update and roll back AppImages and tarballs per user"
+2026-10-24T16:34:32.826534Z,leptoskit_rpc,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"An ergonomic API over leptos server functions: retry policies, error classification, reactive queries and mutations, and publishing the RPC to generated clients."
+2026-10-24T16:34:36.106983Z,leptoskit_rpc_codegen,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"The RPC specification behind leptoskit server functions, and the typed clients generated from it for TypeScript, Python, Go, Rust, Dart, and the command line."
+2026-10-24T16:35:26.247802Z,openrtc-dtls,0.17.1,0,0,https://github.com/bluestarburst/webrtc/tree/master/dtls,A pure Rust implementation of DTLS
+2026-10-24T16:35:27.45143Z,flight-selection,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Ordered node selection plus marquee, lasso, and pointer selection policies"
+2026-10-24T16:36:33.361849Z,openrtc-webrtc,0.17.1,0,0,https://github.com/bluestarburst/webrtc,A pure Rust implementation of WebRTC API
+2026-10-24T16:37:31.904145Z,lockwire-tsa-server,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T16:40:25.389308Z,airbus-client,0.1.1,0,0,https://github.com/ghhwer/airbus,Async Rust client for the Airbus JSON-RPC event bus
+2026-10-24T16:41:44.417231Z,uzor-anim-js,1.5.10,0,0,https://github.com/UZOR-dev/uzor,"Run canvas-style JS animations through uzor: page engine on web, embedded QuickJS on native"
+2026-10-24T16:41:49.070427Z,terminus-framework,0.0.1,0,0,https://github.com/prateekbhujel/terminus,"Terminus — High-performance, batteries-included web and API application framework for Rust and Axum."
+2026-10-24T16:45:27.775235Z,flight-skeleton2d,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"2D skeletal rig: bones, slots, attachments, skinning, constraints, guards and explanations"
+2026-10-24T16:46:05.635466Z,nexapipe-proto,1.0.0,0,0,https://github.com/open-nexa/nexapipe,"The wire formats the nexapipe client and server share: the L4 preface, the UDP framing, the handshake and the secret types"
+2026-10-24T16:46:30.538527Z,nexapipe-client,1.0.0,0,0,https://github.com/open-nexa/nexapipe,"Client library for the nexapipe proxy: connection pooling, domain routing, a local HTTP proxy and a smoltcp TUN proxy over iroh/QUIC"
+2026-10-24T16:46:53.849478Z,nexapipe,1.0.0,0,0,https://github.com/open-nexa/nexapipe,"An iroh/QUIC reverse proxy that forwards HTTP, HTTPS, WebSocket, TCP and UDP to services behind NAT, without terminating TLS"
+2026-10-24T16:47:37.589259Z,lockwire-tun-device,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T16:48:04.482205Z,gridoxide-sparse,0.1.0,0,0,https://github.com/m-mirz/gridoxide,"Sparse LU backends for gridoxide: faer, a pure-Rust port of KLU, and optionally SuiteSparse KLU and oneMKL PARDISO"
+2026-10-24T16:48:04.722978Z,hardware-info,0.1.0,0,0,https://github.com/jheanlee/hardware-info,A Library to fetch hardware information
+2026-10-24T16:48:06.542602Z,gridoxide-core,0.1.0,0,0,https://github.com/m-mirz/gridoxide,"gridoxide's solvers: the network model, AC power flow and what is built on it, state estimation and short circuit"
+2026-10-24T16:48:10.67592Z,gridoxide-mcp,0.1.0,0,0,https://github.com/m-mirz/gridoxide,"gridmcp: Model Context Protocol server for gridoxide — lets an LLM chat find, summarise and solve the power networks of a workspace"
+2026-10-24T16:53:15.26576Z,celebrity,0.1.0,0,0,https://github.com/maslenn1koff/celebrity,Numerical Computing Core
+2026-10-24T16:54:55.249489Z,parse-torrent-title,2.0.1,0,0,https://github.com/TheBeastLT/parse-torrent-title,Parse torrent title to extract useful information
+2026-10-24T16:55:27.550671Z,flight-textureatlas,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Texture atlases: regions, grid slicing, UVs, and constructors over image resources"
+2026-10-24T16:55:52.331395Z,openfdap,0.1.1,0,0,https://github.com/andrewbaxter/openfdap,A minimal FDAP server
+2026-10-24T16:56:16.826258Z,rill-highlight,0.1.0,0,0,https://github.com/2018kguo/rill-highlight,"Shiki's syntax highlighting in Rust and WebAssembly: TextMate grammars on a JavaScript-compatible regex engine, with identical tokens."
+2026-10-24T16:57:00.852491Z,powerio-tnd,0.11.6,0,0,https://github.com/eigenergy/powerio,"Integrated transmission/distribution models, transformations, and format adapters."
+2026-10-24T16:57:42.671267Z,lockwire-update,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T16:59:28.152872Z,si_unit_macro,0.1.0,0,0,https://github.com/Slacker201/slackers_si_units,The macros for slackers_si_units
+2026-10-24T16:59:37.427053Z,slackers_si_units,0.1.0,0,0,https://github.com/Slacker201/slackers_si_units,A small SI unit crate with compile time unit macros and generic holding types
+2026-10-24T17:00:08.639082Z,craft-cms,1.4.7,0,0,https://github.com/aphrody-labs/craft-libs,"Pure-Rust ICC v2/v4 colour management: profile parsing and writing, transforms, rendering intents, black point compensation"
+2026-10-24T17:00:45.424396Z,gc-core,0.1.0,0,0,https://gitcode.com/ghhhJoshrjnrhr/gc,gc 公共层：API 客户端、认证、配置
+2026-10-24T17:04:16.999616Z,rigtop-core,0.1.0,0,0,https://github.com/akivajp/rigtop,"Data collection core of rigtop: CPU, memory, GPU (NVML), sensors, storage health (SMART, btrfs, mdadm), network and processes as serializable snapshots"
+2026-10-24T17:04:19.782325Z,rigtop,0.1.0,0,0,https://github.com/akivajp/rigtop,"btop-inspired terminal system monitor with storage health (SMART, btrfs RAID, mdadm), per-process GPU usage and power draw"
+2026-10-24T17:04:20.885173Z,rigtop-gui,0.1.0,0,0,https://github.com/akivajp/rigtop,"btop-inspired native GUI system monitor (egui) with resizable panels, storage health and per-process GPU usage"
+2026-10-24T17:04:52.266463Z,koyori-arc-core,0.1.0-alpha.1,0,0,https://github.com/koyori-app/arc,Gantt chart dependency graph renderer — Rust core (Wasm target)
+2026-10-24T17:04:59.937853Z,oxirush-utils,0.1.0,0,0,https://github.com/linouxis9/oxirush-utils,"3GPP identities as Rust values (PLMN, IMSI, IMEI, SUPI, SUCI, 5G-GUTI, GUTI, TAI) in their NAS, AP and text forms, and the JSON tree and paths that the OxiRush crates share. no_std."
+2026-10-24T17:05:13.22384Z,osu-memory-reader,0.1.0,0,0,https://github.com/Manolo-dl/Osu-memory-reader,Reads the selected beatmap and its files from a running osu! stable process's memory
+2026-10-24T17:05:28.244977Z,flight-video,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Video resources, URL loaders and video format detection over an explicit host video capability"
+2026-10-24T17:05:39.049353Z,gc-search,0.1.0,0,0,https://gitcode.com/ghhhJoshrjnrhr/gc,gc 搜索域（全站）：网页端 v1 搜索与摘要
+2026-10-24T17:06:04.21793Z,gc-grep,0.1.0,0,0,https://gitcode.com/ghhhJoshrjnrhr/gc,gc 搜索域（仓库内容）：文件列表 / 下载 / tree SHA（供 ripgrep 稀疏缓存搜索）
+2026-10-24T17:06:16.827925Z,gc-skill,0.1.0,0,0,https://gitcode.com/ghhhJoshrjnrhr/gc,gc 技能域：把 gc 用法安装到 AI 编码工具（Claude Code / Codex / OpenCode / CodeBuddy / Gemini / AtomCode）
+2026-10-24T17:06:25.015005Z,gc-issues,0.1.0,0,0,https://gitcode.com/ghhhJoshrjnrhr/gc,gc Issue 域：Issue 网页端 v2 API 层（创建 / 列表 / 评论 / 附件 / 编辑）
+2026-10-24T17:06:57.838485Z,rp-supabase-http,0.1.0,0,0,https://github.com/roberts-pumpurs/supabase-rs-rp,Bounded rate-limit retry policy for Supabase HTTP clients
+2026-10-24T17:07:48.009292Z,lockwire-update-server,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T17:08:22.116788Z,retell-sdk,0.1.0,0,0,https://github.com/antoniodds/retell-sdk-rust,Asynchronous Rust client for the Retell AI API
+2026-10-24T17:08:26.197629Z,oxirush-aper,0.1.0,0,0,https://github.com/linouxis9/oxirush-aper,"Aligned PER (ITU-T X.691) in Rust: the runtime of the bindings that oxirush-ngap and oxirush-s1ap generate from the 3GPP ASN.1, and the macros they share. no_std, no unsafe code."
+2026-10-24T17:08:36.319463Z,rp-supabase-graphql,0.1.0,0,0,https://github.com/roberts-pumpurs/supabase-rs-rp,Typed GraphQL requests and partial responses for Supabase
+2026-10-24T17:10:25.703338Z,gc-repo,0.1.0,0,0,https://gitcode.com/ghhhJoshrjnrhr/gc,gc 仓库域：仓库 API 层（fork / star / sync / compare / wiki / 文件树）
+2026-10-24T17:10:43.466756Z,craft-metafile,0.6.1,0,0,,"Craft metafiles: parses Windows WMF and EMF records into a neutral vector model (paths, bitmaps and text)"
+2026-10-24T17:14:53.340731Z,leptoskit_rpc_macros,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,The #[api] attribute behind leptoskit_rpc: publishes leptos server functions to generated clients.
+2026-10-24T17:14:56.649559Z,leptoskit_sensor,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Shared sensor protocol and native lifecycle for LeptosKit sensor plugins.
+2026-10-24T17:15:00.168496Z,leptoskit_testing,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Widget and native OS UI testing for leptoskit.
+2026-10-24T17:15:03.12886Z,leptoskit_use,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"Cross-platform reactive primitives for Leptos, inspired by leptos-use."
+2026-10-24T17:15:27.025935Z,flight-text-markup,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"htmlText-subset markup: the open tag registry, standard dialect, named colors, class styles and opt-in parse guards"
+2026-10-24T17:16:08.200563Z,anch,0.1.0,0,0,https://github.com/EngosSoftware/anch.git,Anotated characters
+2026-10-24T17:17:50.391525Z,emlop-lib,0.9.1,0,0,https://github.com/vincentdephily/emlop,Emerge and portage log/files/process parsing library
+2026-10-24T17:17:53.084988Z,lockwire-vcs,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
