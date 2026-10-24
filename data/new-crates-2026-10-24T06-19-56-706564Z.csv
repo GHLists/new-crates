@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T05:25:27.178174Z,flight-sensors,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Device sensor event seam with reusable readings, conversion helpers and explicit host subscriptions"
+2026-10-24T05:26:51.221822Z,cadcraft-geom,1.4.7,0,0,https://source.aphrody.app/aphrody-dev/bun-crate-cadcraft-geom,"CADCraft geometry: f64 vectors, curves, arcs, splines, intersections, offsets, snaps"
+2026-10-24T05:35:27.032316Z,flight-useragent,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Pure user-agent string parsing to device and platform identity tokens
+2026-10-24T05:37:20.819403Z,cadcraft-doc,1.4.7,0,0,https://source.aphrody.app/aphrody-dev/bun-crate-cadcraft-doc,"CADCraft drawing database: entities, symbol tables, blocks, layouts, copy-on-write store"
+2026-10-24T05:39:50.198195Z,bizkit-core,0.1.0,0,0,https://github.com/WyattAu/bizkit,"EDGAR filing signals, idea taxonomy, and sector trend scoring for bizkit"
+2026-10-24T05:40:04.169735Z,bizkit,0.1.0,0,0,https://github.com/WyattAu/bizkit,"Business-trend crawler CLI: EDGAR M&A signals, idea taxonomy reports"
+2026-10-24T05:42:11.967537Z,solana_kit_config,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_config,Reserved Config client for off-chain Solana Kit applications; no implementation is included
+2026-10-24T05:45:26.819372Z,flight-shortcut,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Accelerator parsing and explicit global-shortcut lifecycle over host capabilities
+2026-10-24T05:46:45.439782Z,rquickjs-napi,0.0.1,0,0,https://github.com/nabetti1720/rquickjs-napi,Node-API (N-API) support and native addon loading for rquickjs
+2026-10-24T05:47:49.650073Z,cadcraft-constraints,1.4.7,0,0,https://source.aphrody.app/aphrody-dev/bun-crate-cadcraft-constraints,"CADCraft parametric solver: geometric and dimensional constraints (own damped Gauss-Newton solver), expressions"
+2026-10-24T05:51:11.863636Z,ttmux-vt100,0.16.2,0,0,https://github.com/statico/ttmux,"The fork of the vt100 crate that ttmux uses (emoji widths, scrollback and SGR fixes). See TTMUX.md."
+2026-10-24T05:51:28.201344Z,ttmux,1.0.1,0,0,https://github.com/statico/ttmux,"A modern terminal multiplexer: tiling + free-floating panes, mouse, curved borders, in-UI config"
+2026-10-24T05:55:50.537993Z,bloui,0.1.0,0,0,https://github.com/pengi/bloui,"Size analyzer for ELF files, with a tree list and a treemap"
+2026-10-24T06:07:43.53787Z,flight-geometry,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"2D/3D math primitives: vectors, matrices, rectangles, and object pools"
+2026-10-24T06:07:47.705928Z,flight-input,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Input capability seam: normalized keyboard, pointer, wheel, text and gamepad events with held-state and frame-edge tracking routed through explicit host ingress"
+2026-10-24T06:12:12.090724Z,sgpu-shaders,0.1.0,0,0,https://github.com/pingpong74/sgpu,Shader-side bindless ABI for sgpu
+2026-10-24T06:14:22.66777Z,sgpu,0.1.0,0,0,https://github.com/pingpong74/sgpu,A lightweight Rust Vulkan abstraction
+2026-10-24T06:14:39.590168Z,sgpu-taskgraph,0.1.0,0,0,https://github.com/pingpong74/sgpu,Task graph scheduling and synchronization for sgpu
+2026-10-24T06:15:27.174237Z,flight-net,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"HTTP capability facade with portable requests, form encoding and opt-in diagnostics"
+2026-10-24T06:17:36.618106Z,ppoppo-engine-grpc-serve,1.0.0,0,0,https://github.com/hakchin/ppoppo,"The scripted gRPC face the Ppoppo SDK family's test kits serve: per-RPC answer queues, the call record, and the in-process loopback server. Each face's -test kit adds only its route markers, encoder…"
+2026-10-24T06:17:37.301358Z,biaspay,2.0.0,0,0,https://github.com/BiasPay/rust-sdk,Rust server SDK for the Bias payments API
