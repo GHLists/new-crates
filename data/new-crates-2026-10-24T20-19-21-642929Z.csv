@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T19:20:54.566835Z,ozx-cli,0.1.1,0,0,,"ozx, a plugin launcher: `ozx <name>` runs the ozx-<name> executable on the PATH, as git and kubectl do"
+2026-10-24T19:22:03.814001Z,florn-cli,0.1.0,0,0,https://github.com/nabbisen/florn,"The headless runner as a library: run, replay, admit, probe; the binary `florn` is the florn crate"
+2026-10-24T19:22:17.920516Z,pipedash-plugin-fluxcd,0.4.0,0,0,https://github.com/hcavarsan/pipedash,FluxCD plugin for Pipedash
+2026-10-24T19:23:30.35276Z,nextcloud-sdk-core,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Core primitives shared by the Nextcloud Rust SDK crates
+2026-10-24T19:23:57.449512Z,nextcloud-sdk-keyring,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Multi-platform secure keyring abstraction for Nextcloud Rust SDK with Flatpak and native OS support
+2026-10-24T19:25:28.159884Z,flight-textureatlas-formats,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Texture-atlas descriptor parsers, detection, and caller-owned format registration"
+2026-10-24T19:26:32.599133Z,messenger-webhook,0.2.0,0,0,https://github.com/floffel/messenger-webhook,"Normalise messenger webhooks (WhatsApp, Telegram, Matrix) into one common message type and encode them back"
+2026-10-24T19:28:02.409136Z,inwx-client,0.1.0,0,0,https://github.com/floffel/inwx-client,"Typed client for the INWX DomRobot JSON-RPC API: domains, DNS records, contacts and prices"
+2026-10-24T19:29:31.568606Z,sprcmtrd,0.4.0,0,0,https://github.com/smolkov/sprcmtrd,Terminal viewer for COMTRADE (IEEE C37.111) power system recordings
+2026-10-24T19:31:44.776302Z,nextcloud-ocs,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,OCS API envelope and client for the Nextcloud Rust SDK
+2026-10-24T19:33:58.731722Z,ngsi-ld,1.0.0,0,0,https://github.com/mskvarc/ngsi-ld,"Typed, ergonomic NGSI-LD (ETSI GS CIM 009 v1.9.1): the data model, the query languages and a client for context brokers"
+2026-10-24T19:34:41.400033Z,lineshapes,0.1.0,0,0,https://github.com/ALS-RSOXS/lineshapes,"Fast composable optical-constant models: analytic Kramers-Kronig-paired lineshape peaks (Gaussian, Lorentzian, Voigt, pseudo-Voigt) plus a continuum."
+2026-10-24T19:35:28.86983Z,flight-media,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Portable audio and video playback channels, mixer routing, and lifecycle signals"
+2026-10-24T19:35:29.895255Z,ledger-pg,0.1.3,0,0,https://github.com/WyattAu/ledger-pg,"PostgreSQL persistence for double-entry ledgers — per-tenant isolation, optimistic concurrency via conditional update, period close, atomic reversal"
+2026-10-24T19:40:45.459851Z,nextcloud-dav,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,WebDAV client foundation for the Nextcloud Rust SDK
+2026-10-24T19:45:28.411517Z,flight-physics3d,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Portable three-dimensional rigid-body dynamics and constraint solving
+2026-10-24T19:49:05.471355Z,rekuest-session,0.12.0,0,0,https://github.com/arkitektio/arkirust,"The rekuest agent session as a sans-IO state machine: runs under tokio, on wasm and on embassy"
+2026-10-24T19:50:42.438625Z,raw_term,0.1.0,0,0,https://github.com/demergor/raw_term,Library for putting the terminal into raw mode and parsing keyboard input
+2026-10-24T19:50:44.582349Z,nextcloud-sdk-ratelimit,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Bandwidth rate limiting and token-bucket traffic shaping for the Nextcloud Rust SDK
+2026-10-24T19:54:18.916717Z,v5gdb-cli,0.1.0-beta.1,0,0,https://github.com/vexide/v5gdb,Connects GDB to the v5gdb debugger on a VEX V5 brain
+2026-10-24T19:55:26.979645Z,flight-picking,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,3D picking: camera-ray scene selection (ray vs bounds + brute-force ray vs triangle)
+2026-10-24T19:55:47.738039Z,deckcraft-geom,0.6.1,0,0,,"DeckCraft geometry: units (EMU/pt), transforms, preset shape generators, adjust handles, hit testing"
+2026-10-24T19:56:04.842886Z,codewhale-commands,0.10.2,0,0,https://github.com/codewhale-hq/CodeWhale,Portable command handlers and diagnostic reports for Codewhale
+2026-10-24T19:58:56.327823Z,symlog,0.1.0,0,0,,"Terminal-logviewer voor Symfony/Monolog-logs, met vim-toetsen."
+2026-10-24T19:59:07.114669Z,cua-microvm-init,0.9.0,0,0,https://github.com/trycua/cua,"PID 1 of a Cua microVM Space (Firecracker on Linux, Virtualization.framework on macOS): mounts the image over a writable overlay, runs the workload, and answers the host over vsock (identity after a…"
+2026-10-24T19:59:08.152862Z,cua-snapshot-sync,0.9.0,0,0,https://github.com/trycua/cua,"Copies checkpoints between your machines: content-addressed manifests, read grants, resumable LAN transfer with verification, and a fallback copy in S3 or a shared folder (the Cua Volume)."
+2026-10-24T19:59:18.32949Z,cua-cluster,0.9.0,0,0,https://github.com/trycua/cua,"Batch work on all of your machines, the MIT parts: the host's job runner (durable ledger, attempt fencing, per-account job ids), placement scoring and node links (direct, relay, mesh). The coordinato…"
+2026-10-24T19:59:24.033108Z,cua-share,0.9.0,0,0,https://github.com/trycua/cua,"Share a link to anything you run: share records, the read-only file server and the access-checked gateway behind `cua share`."
+2026-10-24T20:00:44.840572Z,nextcloud-sdk-request,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Per-call lifecycle and retry policy for the Nextcloud Rust SDK
+2026-10-24T20:04:35.89784Z,tetraglass-core,0.1.0,0,0,https://github.com/Tetraglass/tetraglass,"Data model: unstructured grids, cell types, typed arrays, time series. No GPU, no I/O."
+2026-10-24T20:05:28.303807Z,flight-skeleton3d,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Source-defined skeletal palettes, CPU skinning and posed bounds"
+2026-10-24T20:05:58.434652Z,tetraglass-io,0.1.0,0,0,https://github.com/Tetraglass/tetraglass,"Readers and writers for VTK and Gmsh files, working on byte buffers."
+2026-10-24T20:06:16.084623Z,deckcraft-color,0.6.1,0,0,,"DeckCraft colour: RGB/HSL, theme colour slots, DrawingML-style colour transforms"
+2026-10-24T20:06:45.652307Z,tetraglass-filters,0.1.0,0,0,https://github.com/Tetraglass/tetraglass,"Linearization, surface extraction and visualization filters on tetrahedral views."
+2026-10-24T20:08:18.192022Z,tetraglass-scene,0.1.0,0,0,https://github.com/Tetraglass/tetraglass,"Serializable scene model, JSON Schema and cached pipeline evaluation."
+2026-10-24T20:10:04.243071Z,tetraglass-render,0.1.0,0,0,https://github.com/Tetraglass/tetraglass,"wgpu renderer drawing into host-provided textures, plus a headless helper."
+2026-10-24T20:10:49.422068Z,nextcloud-sdk-vfs,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Transient virtual file system mounting layer for Nextcloud file hierarchies and metadata
+2026-10-24T20:11:27.005213Z,tetraglass-egui,0.1.0,0,0,https://github.com/Tetraglass/tetraglass,egui viewport widget built on the renderer.
+2026-10-24T20:15:26.576615Z,flight-render,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Backend-neutral render state, registries, proxy preparation, queues, targets, coverage, and scene preparation"
+2026-10-24T20:16:51.593076Z,deckcraft-model,0.6.1,0,0,,"DeckCraft document model: presentations, masters, layouts, slides, shapes, text, themes, transitions, animations"
+2026-10-24T20:18:29.199168Z,slint-themekit,0.1.0,0,0,https://github.com/ufoscout/slint-themekit,"A small, fully themeable Slint component library driven by design tokens"
