@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T10:24:25.885945Z,lockwire-l3-ipsec-mesh,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T10:25:26.817963Z,flight-midi,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Origin-pinned MIDI access, port resources, permission queries and subscriptions over caller-supplied providers"
+2026-10-24T10:27:26.372457Z,access-gate-gateway-core,0.0.31,0,0,https://github.com/meddleware-org/access-gate-gateway,"The access-gate-gateway decision logic in one place: proof, Sui signature verification, gRPC-web chain reads, redemption/nonce/rate state machines, header and config policy, and the request orchestra…"
+2026-10-24T10:27:47.276752Z,access-gate-gateway,0.0.31,0,0,https://github.com/meddleware-org/access-gate-gateway,"Generic NFT-gated reverse-proxy: verifies wallet-signed access proofs against on-chain NFT ownership, then forwards to any upstream."
+2026-10-24T10:30:01.779227Z,schnellui-debug,0.1.0,0,0,https://github.com/codefionn/schnellui,CLI client for SchnellUI's local debug instrumentation server
+2026-10-24T10:30:02.074729Z,schnellui-view-parser,0.1.0,0,0,https://github.com/codefionn/schnellui,"schnellui view! parser + AST, separate from the proc-macro for tooling & hot-reload (SOUL §3.3)"
+2026-10-24T10:30:03.603348Z,schnellui-macro,0.1.0,0,0,https://github.com/codefionn/schnellui,schnellui view! proc-macro: codegen to a typed builder chain with static/dynamic split (SOUL §3.3)
+2026-10-24T10:30:05.672013Z,schnellui,0.1.0,0,0,https://github.com/codefionn/schnellui,"schnellui: the reactive signal arena, retained scene, layout, text, widgets, themes, GPU + HTML renderers, platform integration and the App runtime (SOUL §8)"
+2026-10-24T10:30:07.659154Z,schnellui-icons-md,0.1.0,0,0,https://github.com/codefionn/schnellui,Material Design md-icons adapter for schnellui's cached icon layer
+2026-10-24T10:31:28.182187Z,mzizi-harness,0.4.0,0,0,https://github.com/mzizi-dev/mzizi-registry,"The Mzizi harness: one scoped log, motion and announce interface, the same for the UI, the language and every server component."
+2026-10-24T10:31:30.704244Z,mzizi-data,0.4.0,0,0,https://github.com/mzizi-dev/mzizi-registry,"Mzizi data: the transport trait, error type and Cloudflare Workers socket shared by Mzizi's sans-IO database clients (mzizi-mongodb), and the data layer above them (fetch cascade, sync, tombstones, l…"
+2026-10-24T10:31:33.771537Z,mzizi-mongodb,0.4.0,0,0,https://github.com/mzizi-dev/mzizi-registry,"Mzizi MongoDB: a read-only MongoDB client over the wire protocol (OP_MSG, SCRAM-SHA-256, a small BSON codec), sans-IO, for Cloudflare Workers."
+2026-10-24T10:34:30.516652Z,lockwire-l3-vpn,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T10:34:50.381183Z,leptoskit_plugin_gyroscope,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Cancellable gyroscope readings for LeptosKit.
+2026-10-24T10:34:53.742955Z,leptoskit_plugin_haptics,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Native haptic feedback for LeptosKit applications.
+2026-10-24T10:35:27.586056Z,flight-preferences,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Key/value storage, namespaced access, boolean/number/JSON parsing, batch mutations, migration and change signals over host capabilities"
+2026-10-24T10:40:20.623806Z,schnellui-servo,0.1.0,0,0,https://github.com/codefionn/schnellui,Servo browser embedding and persistent shared-session primitives for SchnellUI
+2026-10-24T10:40:59.293593Z,dsd-workbench-dsf,0.1.0,0,0,https://github.com/malkhuzanie/dsd-workbench,Read and write DSF (DSD Stream File) headers and ID3v2 metadata
+2026-10-24T10:41:01.386094Z,dsd-workbench-dsdiff,0.1.0,0,0,https://github.com/malkhuzanie/dsd-workbench,Read the header of DSDIFF (.dff) files: format and audio location
+2026-10-24T10:41:08.198019Z,dsd-workbench-release-lookup,0.1.0,0,0,https://github.com/malkhuzanie/dsd-workbench,"Find an album release on MusicBrainz or Discogs and read its track list: request builders and parsers, with no HTTP client unless you ask for one"
+2026-10-24T10:44:14.782862Z,youplot-core,0.5.1,0,0,https://github.com/funny233-github/YouPlot-rs,Unicode plotting library (Rust port of YouPlot's backend)
+2026-10-24T10:44:35.211067Z,lockwire-l3-vpn-mesh,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T10:45:27.285092Z,flight-materials,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Material types, constructors, validation, conversion, presets and ColorScaleBias for the Flight SDK"
+2026-10-24T10:48:26.481885Z,uplot,0.5.2,0,0,https://github.com/funny233-github/YouPlot-rs,uplot: terminal plotting CLI (Rust port of YouPlot)
+2026-10-24T10:51:28.318706Z,fhirkit,0.1.0,0,0,https://github.com/holg/hl7v2,"FHIR R4 for Rust: typed models for every resource and datatype generated from the official specification, lossless JSON with path-precise validation, typed search queries, FHIRPath"
+2026-10-24T10:54:25.840673Z,leptoskit_plugin_http,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"Scoped, bounded asynchronous HTTP requests for LeptosKit hosts and browsers."
+2026-10-24T10:54:28.694681Z,leptoskit_plugin_image_manipulator,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Bounded JPEG and PNG transformations for LeptosKit.
+2026-10-24T10:54:39.797898Z,lockwire-local-ipc,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T10:55:27.053349Z,flight-lighting,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Light descriptors, photometric conversion, probes, influence analysis, and forward-light selection"
+2026-10-24T10:59:06.808243Z,jengaicons,0.1.0,0,0,https://github.com/outpostHQ/jengaicons,"The Jenga icon set for Rust: 2805 SVG icons in three styles, as constants a binary links only when it uses them."
+2026-10-24T11:04:44.223075Z,lockwire-mail,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T11:05:27.639187Z,flight-app,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Application identity, lifecycle control, events and windows over explicit host capabilities"
+2026-10-24T11:08:58.215203Z,datumesh-engine,0.1.0,0,0,https://github.com/datumesh-com/datumesh-engine,"The Datumesh engine: the value of a cell as of a time, from stored receipts or by evaluating functions; memoised, and signed for computed cells."
+2026-10-24T11:14:22.325431Z,leptoskit_plugin_keep_awake,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"Scoped, cancellation-safe display wake locks for LeptosKit."
+2026-10-24T11:14:25.307949Z,leptoskit_plugin_light_sensor,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Cancellable light_sensor readings for LeptosKit.
+2026-10-24T11:14:49.010875Z,lockwire-mail-client,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T11:15:27.326799Z,flight-font,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Portable font resources, format helpers, and glyph rasterization seams"
+2026-10-24T11:15:54.809226Z,prototext-upb,0.3.5,0,0,https://github.com/douzebis/prototools,"A safe Rust wrapper over upb, Google's C protobuf runtime: descriptor pools with editions support"
+2026-10-24T11:16:06.335497Z,okbot-peer,0.10.0,0,0,https://github.com/tidusvn05/okbot,okbot peers and teams (ADR 0014): signed A2A delegation between okbots.
+2026-10-24T11:17:28.545557Z,bynk-registry-core,0.403.3,0,0,https://github.com/bynk-lang/bynk,"The Bynk registry's admission rules as one I/O-free crate: unpack, pack and admit an archive in memory. The native registry links it; it also builds to a standalone wasm32 module."
