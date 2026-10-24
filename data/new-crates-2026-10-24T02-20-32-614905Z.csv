@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T01:22:02.577428Z,gpui-monaco-codicons,0.2.0,0,0,https://github.com/ty-ler/gpui-monaco,"Microsoft's codicon icon font (CC-BY-4.0), for gpui-monaco's optional `codicons` feature."
+2026-10-24T01:22:03.129236Z,gpui-monaco-text,0.2.0,0,0,https://github.com/ty-ler/gpui-monaco,"Rope, coordinates, anchors and undo history for gpui-monaco. No gpui dependency."
+2026-10-24T01:22:04.306219Z,gpui-monaco-syntax,0.2.0,0,0,https://github.com/ty-ler/gpui-monaco,"Pluggable highlighting, tree-sitter backend and language registry for gpui-monaco."
+2026-10-24T01:22:05.983366Z,gpui-monaco-languages,0.2.0,0,0,https://github.com/ty-ler/gpui-monaco,Feature-flagged tree-sitter grammars and queries for gpui-monaco.
+2026-10-24T01:22:07.863939Z,gpui-monaco,0.2.0,0,0,https://github.com/ty-ler/gpui-monaco,A Monaco-like code editor component for GPUI.
+2026-10-24T01:25:20.874474Z,ezdwg-core,0.17.0,0,0,https://github.com/monozukuri-ai/ezdwg,Pure Rust DWG reader and native AC1015 writer
+2026-10-24T01:25:27.495901Z,flight-image-codec,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,Image codec dispatch: MIME detection and host-capability decode/encode routing
+2026-10-24T01:29:21.039811Z,aphrody-nie-cli,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Binaire `nie` : pilote la boucle RE (seed, propagate, coverage) et la frontière redis"
+2026-10-24T01:35:26.577616Z,flight-compression,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Data compression algorithms: deflate, zlib, and streaming codec interfaces"
+2026-10-24T01:39:04.180322Z,aphrody-nie-editor,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Native NIE 3D editor with a shared DirectX 12, Vulkan, or OpenGL viewport"
+2026-10-24T01:39:26.822713Z,cortexkit-persona,0.1.0,0,0,https://github.com/cortexkit/commons,"Load, merge and render persona/v1 role bundles: tiers with trust classes, project-tier approvals, typed extensions, sealed MiniJinja templates, LF-normalised digests and a resolution report."
+2026-10-24T01:45:27.232425Z,flight-platform,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Platform identity (name, kind, runtime, engine, version) read through an explicit host capability"
+2026-10-24T01:48:48.980518Z,aphrody-nie-pe,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,Lecture/écriture byte-exacte du PE64 nie.exe + découpage du fichier en unités de forge
+2026-10-24T01:55:08.410981Z,walkthebeat,0.0.1,0,0,https://github.com/walkthebeat,Name reserved for walkthebeat (https://walkthebeat.dev). Under development.
+2026-10-24T01:55:27.307622Z,flight-haptics,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,Haptic feedback over caller-supplied host capabilities
+2026-10-24T01:58:29.36389Z,beat-sensor,0.0.1,0,0,https://github.com/walkthebeat,Name reserved for walkthebeat (https://walkthebeat.dev). Under development.
+2026-10-24T01:58:31.206042Z,beat-probe,0.0.1,0,0,https://github.com/walkthebeat,Name reserved for walkthebeat (https://walkthebeat.dev). Under development.
+2026-10-24T01:58:49.97777Z,aphrody-nie-forge,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Forge de nie.exe — découpe, régénère et mesure le binaire produit depuis le workspace Rust"
+2026-10-24T01:58:54.444733Z,releaseant-rehearsal-core,0.0.1,0,0,https://github.com/ThinkersJournal/releaseant,"rehearsal crate for releaseant, no functionality"
+2026-10-24T01:58:58.950106Z,releaseant-rehearsal-mid,0.0.1,0,0,https://github.com/ThinkersJournal/releaseant,"rehearsal crate for releaseant, no functionality"
+2026-10-24T01:59:03.864749Z,releaseant-rehearsal-top,0.0.1,0,0,https://github.com/ThinkersJournal/releaseant,"rehearsal crate for releaseant, no functionality"
+2026-10-24T02:05:26.938663Z,flight-intl,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Locale-aware formatting seam: locale input, ordered option records, a bounded formatter cache and the Intl wrapper contract"
+2026-10-24T02:08:49.681103Z,aphrody-nie-headless,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,Runner CLI headless : détecte un format IEVR et affiche un résumé JSON sans moteur Windows
+2026-10-24T02:12:17.963209Z,fhrr-resilient,0.4.0,0,0,https://github.com/Rylow999/fhrr-rho-collapse,Resilient VSA/FHRR decoding routed by operator placement + spectral head profiling. Frame-Dual Stability: ambient decoding collapses at the square point while the dual projector stays exact. Includes…
+2026-10-24T02:15:27.545541Z,flight-ipc,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,Inter-process messaging over explicit operation-tight host capabilities
+2026-10-24T02:18:49.882725Z,aphrody-nie-identity-source,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Aphrody depuis le jeu : dossier natif (chara_param, skill_config, aura), contrat 3D et exporteur `export_aphrody`, au-dessus d'aphrody-identity"
+2026-10-24T02:20:14.596675Z,rewrite-bridge,0.2.1,0,0,https://github.com/patodois/rewrite-bridge,Common model types and a provider trait so game rewrites can load each other's assets into one scene
+2026-10-24T02:20:17.890972Z,rewrite-bridge-bevy,0.2.1,0,0,https://github.com/patodois/rewrite-bridge,"Bevy plugin that spawns rewrite-bridge models, skins, animations and scenes from any game rewrite's provider"
+2026-10-24T02:20:26.621863Z,gip-pad,0.1.0,0,0,https://github.com/patodois/gip-pad,"Reads Xbox One / Series controllers (GIP over USB) on macOS, which has no driver for wired third-party pads"
