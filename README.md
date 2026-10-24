@@ -8,55 +8,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 22:18 UTC
+## Latest list — 2026-10-24 23:19 UTC
 
-New crates published between 2026-10-24 21:20 UTC and 2026-10-24 22:18 UTC.
+New crates published between 2026-10-24 22:18 UTC and 2026-10-24 23:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-24T22-18-36-429051Z.csv)
+[Full CSV](data/new-crates-2026-10-24T23-19-25-117095Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-24 21:20:51 | [nextcloud-kaccounts](https://crates.io/crates/nextcloud-kaccounts) | 0.1.1 | 0 | KDE Plasma Online Accounts (KAccounts / Accounts-SSO) integration for Nextcloud… |
-| 2026-10-24 21:21:02 | [rdkit-cxx](https://crates.io/crates/rdkit-cxx) | 0.0.0 | 0 | Rust bindings for RDKit's C++ API, mirroring its nanobind Python wrappers (plac… |
-| 2026-10-24 21:21:08 | [vpsadmin-client](https://crates.io/crates/vpsadmin-client) | 0.1.0 | 0 | Typed async and blocking client for vpsAdmin API 7.0 |
-| 2026-10-24 21:25:27 | [flight-movieclip](https://crates.io/crates/flight-movieclip) | 0.5.1-next.3241.169… | 0 | MovieClip display node: a Node2D whose frames are driven by a timeline, with sp… |
-| 2026-10-24 21:26:02 | [dengjen-stt](https://crates.io/crates/dengjen-stt) | 3.0.0 | 0 | Offline Kurmanji speech recognition on sherpa-onnx |
-| 2026-10-24 21:27:11 | [dengjen-voices](https://crates.io/crates/dengjen-voices) | 3.0.0 | 0 | Voice catalogue, resumable verified download, install and removal for dengjen |
-| 2026-10-24 21:28:53 | [crabcrop-url](https://crates.io/crates/crabcrop-url) | 0.1.0 | 0 | URL building and signing for crabcrop image service URLs |
-| 2026-10-24 21:30:50 | [nextcloud-notifications](https://crates.io/crates/nextcloud-notifications) | 0.1.1 | 0 | Nextcloud Notifications API (v2) client and domain models |
-| 2026-10-24 21:33:37 | [sparkless-server](https://crates.io/crates/sparkless-server) | 4.16.0 | 0 | Native read-only HTTP SQL service for Robin Sparkless. |
-| 2026-10-24 21:35:27 | [flight-particleemitter](https://crates.io/crates/flight-particleemitter) | 0.5.1-next.3241.169… | 0 | Particle emitter 2D/3D: typed-array buffer management, burst emission, simulati… |
-| 2026-10-24 21:36:56 | [armin](https://crates.io/crates/armin) | 0.1.0 | 0 | Autocomplete for zsh: a menu of your likeliest commands as you type, ranked fro… |
-| 2026-10-24 21:38:46 | [pushups-macros](https://crates.io/crates/pushups-macros) | 0.1.0 | 0 | Macros for pushups |
-| 2026-10-24 21:38:49 | [pushups](https://crates.io/crates/pushups) | 0.1.0 | 0 | Receive push notifications in a Rust app: APNs on iOS and macOS, FCM on Android… |
-| 2026-10-24 21:39:28 | [uffda-codec](https://crates.io/crates/uffda-codec) | 0.10.6 | 0 | Strict streaming Uffda data codec with lossless strings and fixed native values |
-| 2026-10-24 21:40:49 | [nextcloud-preview](https://crates.io/crates/nextcloud-preview) | 0.1.1 | 0 | Nextcloud preview and thumbnail generation client |
-| 2026-10-24 21:43:35 | [macp-conform](https://crates.io/crates/macp-conform) | 0.9.0 | 0 | MACP conformance runner: drives the spec's conformance fixtures and commitment-… |
-| 2026-10-24 21:45:26 | [flight-particles-formats](https://crates.io/crates/flight-particles-formats) | 0.5.1-next.3241.169… | 0 | Particle format detection, parsing and serialization (Pixi, Particle Designer,… |
-| 2026-10-24 21:45:54 | [batchinf](https://crates.io/crates/batchinf) | 0.1.0 | 0 | A drop in harness for dynamic ML inference batching. This is useful to saturate… |
-| 2026-10-24 21:49:05 | [plied](https://crates.io/crates/plied) | 0.1.0 | 0 | A git-tracked work record for teams of agents and people: a work tree, commitme… |
-| 2026-10-24 21:50:54 | [nextcloud-sdk-fuse](https://crates.io/crates/nextcloud-sdk-fuse) | 0.1.1 | 0 | Transient VFS FUSE driver for desktop filesystem mounting |
-| 2026-10-24 21:54:48 | [git-zero-core](https://crates.io/crates/git-zero-core) | 0.1.0 | 0 | Allocation-free no_std Git objects, repositories, packs, zlib and delta primiti… |
-| 2026-10-24 21:54:49 | [git-zero-client](https://crates.io/crates/git-zero-client) | 0.1.0 | 0 | Allocation-free no_std Git HTTP client with host-provided transports |
-| 2026-10-24 21:54:51 | [git-zero-server](https://crates.io/crates/git-zero-server) | 0.1.0 | 0 | Allocation-free no_std Git smart/dumb HTTP serving and receive-pack primitives |
-| 2026-10-24 21:54:53 | [git-zero](https://crates.io/crates/git-zero) | 0.1.0 | 0 | Allocation-free no_std Git toolkit for objects, packs, clients and servers |
-| 2026-10-24 21:54:54 | [git-zero-rustix](https://crates.io/crates/git-zero-rustix) | 0.1.0 | 0 | Bounded rustix HTTP and file storage adapters for git-zero |
-| 2026-10-24 21:55:27 | [flight-spritesheet-formats](https://crates.io/crates/flight-spritesheet-formats) | 0.5.1-next.3241.169… | 0 | Spritesheet descriptor codecs, detection, and caller-owned format registration |
-| 2026-10-24 22:00:28 | [clama-macros](https://crates.io/crates/clama-macros) | 0.1.0 | 0 | Procedural macros for the Clama ECS library. |
-| 2026-10-24 22:00:50 | [nextcloud-shares](https://crates.io/crates/nextcloud-shares) | 0.1.1 | 0 | Nextcloud Files Sharing API client and domain types |
-| 2026-10-24 22:02:27 | [candlevm](https://crates.io/crates/candlevm) | 1.0.1 | 0 | Candle Virtual Machine |
-| 2026-10-24 22:04:15 | [ferry-rs](https://crates.io/crates/ferry-rs) | 0.1.0 | 0 | Parallel AI agents, one warm build: forkable, isolated Cargo target dirs per gi… |
-| 2026-10-24 22:04:25 | [ras-commander-fast-hdf](https://crates.io/crates/ras-commander-fast-hdf) | 0.2.0 | 0 | Native, read-only HEC-RAS project, plan and HDF5 results engine in pure Rust; a… |
-| 2026-10-24 22:04:51 | [clama](https://crates.io/crates/clama) | 0.1.0 | 0 | A lightweight, fast sparse set ECS for Kodanu engine. |
-| 2026-10-24 22:05:27 | [flight-physics3d-abi](https://crates.io/crates/flight-physics3d-abi) | 0.5.1-next.3241.169… | 0 | The target-neutral Physics3D execution boundary: a little-endian command stream… |
-| 2026-10-24 22:06:05 | [knot-core](https://crates.io/crates/knot-core) | 0.0.0 | 0 | Celtic knotwork model: Sources, Scaffold (planar graph), Knot topology, symmetr… |
-| 2026-10-24 22:06:11 | [knot-geom](https://crates.io/crates/knot-geom) | 0.0.0 | 0 | Celtic knotwork geometry: centrelines, ribbons, cusps, under-gaps and true cut… |
-| 2026-10-24 22:06:18 | [knot-render](https://crates.io/crates/knot-render) | 0.0.0 | 0 | Celtic knotwork rendering: Scene to SVG, display lists and raster images |
-| 2026-10-24 22:06:24 | [knot-fab](https://crates.io/crates/knot-fab) | 0.0.0 | 0 | Celtic knotwork fabrication: print, stencil, laser, plotter, CNC, 3D and chart… |
-| 2026-10-24 22:06:31 | [knot-format](https://crates.io/crates/knot-format) | 0.0.0 | 0 | Celtic knotwork document format: the .knot JSON schema, migrations, compact sha… |
-| 2026-10-24 22:10:50 | [nextcloud-talk](https://crates.io/crates/nextcloud-talk) | 0.1.1 | 0 | Nextcloud Talk (Spreed) API client and domain types |
-| 2026-10-24 22:15:27 | [flight-scene3d-formats](https://crates.io/crates/flight-scene3d-formats) | 0.5.1-next.3241.169… | 0 | 3D scene format codecs: glTF and related importers/exporters |
-| 2026-10-24 22:16:40 | [xylem-fm](https://crates.io/crates/xylem-fm) | 0.2.0 | 0 | Text-mode file manager inspired by XTree and ZTreeWin |
+| 2026-10-24 22:20:50 | [nextcloud-transport](https://crates.io/crates/nextcloud-transport) | 0.1.1 | 0 | HTTP transport for the Nextcloud Rust SDK |
+| 2026-10-24 22:21:53 | [alkgit-substrate](https://crates.io/crates/alkgit-substrate) | 0.1.0 | 0 | The shipped alkgit backend composition: the reactive alkstore + alkblobs backen… |
+| 2026-10-24 22:24:10 | [rsread](https://crates.io/crates/rsread) | 0.1.4 | 0 | Fast multi-language code reader: structure tree, syntax highlighting, duplicate… |
+| 2026-10-24 22:25:27 | [flight-debug](https://crates.io/crates/flight-debug) | 0.5.1-next.3241.169… | 0 | Debug umbrella: subsystem registry, debug sessions over caller-owned log state,… |
+| 2026-10-24 22:27:41 | [brok-sdk](https://crates.io/crates/brok-sdk) | 0.1.1 | 0 | Protocol, shard manifest and IPC client for building Brokspace shards |
+| 2026-10-24 22:30:50 | [nextcloud-trashbin](https://crates.io/crates/nextcloud-trashbin) | 0.1.1 | 0 | Nextcloud Trashbin WebDAV API client and domain types |
+| 2026-10-24 22:35:26 | [flight-effects](https://crates.io/crates/flight-effects) | 0.5.1-next.3241.169… | 0 | Backend-neutral render effect intents, recipes, padding, and diagnostics |
+| 2026-10-24 22:35:58 | [dree-derive](https://crates.io/crates/dree-derive) | 0.0.1 | 0 | Proc macros for dree: dree_site!, dree_page! and dree_component!. |
+| 2026-10-24 22:36:07 | [dree](https://crates.io/crates/dree) | 0.0.1 | 0 | Macro-first web framework with security, accessibility and SEO defaults. |
+| 2026-10-24 22:36:24 | [dree-cli](https://crates.io/crates/dree-cli) | 0.0.1 | 0 | The dree command line: check and run a dree application. |
+| 2026-10-24 22:36:58 | [yobuild](https://crates.io/crates/yobuild) | 0.1.0 | 0 | Build an agent by choosing its parts: plugins from other ecosystems on the yoag… |
+| 2026-10-24 22:40:50 | [nextcloud-uploads](https://crates.io/crates/nextcloud-uploads) | 0.1.1 | 0 | WebDAV Chunked Upload v2 client for the Nextcloud Rust SDK |
+| 2026-10-24 22:40:53 | [plam](https://crates.io/crates/plam) | 0.2.0 | 0 | A lightweight mathematics library for 2D and 3D game development. |
+| 2026-10-24 22:45:27 | [flight-render-gl](https://crates.io/crates/flight-render-gl) | 0.5.1-next.3241.169… | 0 | Native glow-backed GL render state, targets, shaders, textures, passes, and sur… |
+| 2026-10-24 22:50:49 | [nextcloud-users](https://crates.io/crates/nextcloud-users) | 0.1.1 | 0 | Nextcloud user provisioning and server capabilities client |
+| 2026-10-24 22:52:22 | [brok-agent](https://crates.io/crates/brok-agent) | 0.2.0 | 0 | Default Brokspace system shard: git change tracking, pre-indexation review and… |
+| 2026-10-24 22:52:44 | [deckcraft-format](https://crates.io/crates/deckcraft-format) | 0.6.1 | 0 | DeckCraft native file format (.deckcraft: zip of a JSON manifest plus media) an… |
+| 2026-10-24 22:53:13 | [brok-bus](https://crates.io/crates/brok-bus) | 0.2.0 | 0 | Local IPC event bus for Brokspace (Unix sockets / named pipes) |
+| 2026-10-24 22:53:13 | [brok-core](https://crates.io/crates/brok-core) | 0.2.0 | 0 | Workspace discovery, configuration and layout for Brokspace |
+| 2026-10-24 22:53:15 | [brok-index](https://crates.io/crates/brok-index) | 0.2.0 | 0 | AST chunking, embeddings and hybrid (BM25 + vector) search for Brokspace |
+| 2026-10-24 22:53:16 | [brok-shard](https://crates.io/crates/brok-shard) | 0.2.0 | 0 | Shard registry, installer, sandbox and process supervisor for Brokspace |
+| 2026-10-24 22:54:56 | [go-canon](https://crates.io/crates/go-canon) | 0.1.0 | 0 | Go source → structural canonicalization + package-level definition scan (tree-s… |
+| 2026-10-24 22:55:27 | [flight-scene-document](https://crates.io/crates/flight-scene-document) | 0.5.1-next.3241.169… | 0 | Flight scene documents: the YAML text codec, logical validation, resource depen… |
+| 2026-10-24 22:56:43 | [rs-cat4sqlite](https://crates.io/crates/rs-cat4sqlite) | 0.1.0 | 0 | Concatenates the string/blob value of the rows in the db. |
+| 2026-10-24 23:00:49 | [nextcloud-versions](https://crates.io/crates/nextcloud-versions) | 0.1.1 | 0 | WebDAV file versions client for the Nextcloud Rust SDK |
+| 2026-10-24 23:03:29 | [filmcraft-matroska](https://crates.io/crates/filmcraft-matroska) | 0.7.2 | 0 | Clean-room Matroska (MKV) and WebM demuxer and muxer |
+| 2026-10-24 23:04:49 | [brok-skills](https://crates.io/crates/brok-skills) | 0.2.0 | 0 | Agent skills (SKILL.md) for Brokspace: built-in catalog, skill shards, export t… |
+| 2026-10-24 23:05:26 | [flight-scene2d-resources](https://crates.io/crates/flight-scene2d-resources) | 0.5.1-next.3241.169… | 0 | Scene2D document import, slot resolution, and image/audio resource loading |
+| 2026-10-24 23:08:40 | [aclfolio](https://crates.io/crates/aclfolio) | 0.1.0 | 0 | Unofficial offline, read-only Rust interface to ACL Anthology metadata |
+| 2026-10-24 23:08:57 | [tilesmith-gemm](https://crates.io/crates/tilesmith-gemm) | 0.1.0 | 0 | Pure-Rust GEMM engine. |
+| 2026-10-24 23:08:59 | [tilesmith](https://crates.io/crates/tilesmith) | 0.1.0 | 0 | Pure-Rust tile-based compute kernels: the facade over the tilesmith engines. |
+| 2026-10-24 23:10:56 | [nextcloud-rust-sdk](https://crates.io/crates/nextcloud-rust-sdk) | 0.1.1 | 0 | Rust client for the Nextcloud APIs, with app-facing session and request state m… |
+| 2026-10-24 23:13:51 | [filmcraft-ogg](https://crates.io/crates/filmcraft-ogg) | 0.7.2 | 0 | Clean-room Ogg (RFC 3533) demuxer with Ogg Opus (RFC 7845) and Ogg Vorbis strea… |
+| 2026-10-24 23:14:52 | [brok-cli](https://crates.io/crates/brok-cli) | 0.2.0 | 0 | Brokspace: local-first knowledge index and event-driven agents for your workspa… |
+| 2026-10-24 23:15:26 | [flight-scene3d-resources](https://crates.io/crates/flight-scene3d-resources) | 0.5.1-next.3241.169… | 0 | Renderer-neutral scene-document URL acquisition and caller-driven resolution of… |
+| 2026-10-24 23:18:20 | [rappin-rs](https://crates.io/crates/rappin-rs) | 0.1.0 | 0 | Fast, idiomatic Rust client and bot framework for Yapin’ (yapin.gg) |
 
 ## Data source
 

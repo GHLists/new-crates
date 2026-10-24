@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T22:20:50.887949Z,nextcloud-transport,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,HTTP transport for the Nextcloud Rust SDK
+2026-10-24T22:21:53.320124Z,alkgit-substrate,0.1.0,0,0,https://git.alk.dev/alkdev/alkgit,"The shipped alkgit backend composition: the reactive alkstore + alkblobs backend implementing alkgit's backend seam — reactive halves, cached read provider, engine twins, migrations, GC wiring, and t…"
+2026-10-24T22:24:10.792657Z,rsread,0.1.4,0,0,https://github.com/cumulus13/rsread,"Fast multi-language code reader: structure tree, syntax highlighting, duplicate detection and Git change markers for Python, Rust, Go and JavaScript"
+2026-10-24T22:25:27.262636Z,flight-debug,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Debug umbrella: subsystem registry, debug sessions over caller-owned log state, and timing spans"
+2026-10-24T22:27:41.785087Z,brok-sdk,0.1.1,0,0,https://github.com/brokspace/brok-sdk,"Protocol, shard manifest and IPC client for building Brokspace shards"
+2026-10-24T22:30:50.06088Z,nextcloud-trashbin,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Nextcloud Trashbin WebDAV API client and domain types
+2026-10-24T22:35:26.709112Z,flight-effects,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Backend-neutral render effect intents, recipes, padding, and diagnostics"
+2026-10-24T22:35:58.168985Z,dree-derive,0.0.1,0,0,https://github.com/LukasLow/dree,"Proc macros for dree: dree_site!, dree_page! and dree_component!."
+2026-10-24T22:36:07.917944Z,dree,0.0.1,0,0,https://github.com/LukasLow/dree,"Macro-first web framework with security, accessibility and SEO defaults."
+2026-10-24T22:36:24.734866Z,dree-cli,0.0.1,0,0,https://github.com/LukasLow/dree,The dree command line: check and run a dree application.
+2026-10-24T22:36:58.816585Z,yobuild,0.1.0,0,0,https://github.com/yologdev/yobuild,"Build an agent by choosing its parts: plugins from other ecosystems on the yoagent loop, a few built-ins of its own, and a frontend"
+2026-10-24T22:40:50.98698Z,nextcloud-uploads,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,WebDAV Chunked Upload v2 client for the Nextcloud Rust SDK
+2026-10-24T22:40:53.055045Z,plam,0.2.0,0,0,https://github.com/PsychoRosse/plam,A lightweight mathematics library for 2D and 3D game development.
+2026-10-24T22:45:27.434772Z,flight-render-gl,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Native glow-backed GL render state, targets, shaders, textures, passes, and surface integration"
+2026-10-24T22:50:49.164517Z,nextcloud-users,0.1.1,0,0,,Nextcloud user provisioning and server capabilities client
+2026-10-24T22:52:22.164862Z,brok-agent,0.2.0,0,0,https://github.com/brokspace/brok-agent,"Default Brokspace system shard: git change tracking, pre-indexation review and RAG answers"
+2026-10-24T22:52:44.245824Z,deckcraft-format,0.6.1,0,0,,DeckCraft native file format (.deckcraft: zip of a JSON manifest plus media) and outline text import/export
+2026-10-24T22:53:13.181243Z,brok-bus,0.2.0,0,0,https://github.com/brokspace/brok,Local IPC event bus for Brokspace (Unix sockets / named pipes)
+2026-10-24T22:53:13.786791Z,brok-core,0.2.0,0,0,https://github.com/brokspace/brok,"Workspace discovery, configuration and layout for Brokspace"
+2026-10-24T22:53:15.447857Z,brok-index,0.2.0,0,0,https://github.com/brokspace/brok,"AST chunking, embeddings and hybrid (BM25 + vector) search for Brokspace"
+2026-10-24T22:53:16.065262Z,brok-shard,0.2.0,0,0,https://github.com/brokspace/brok,"Shard registry, installer, sandbox and process supervisor for Brokspace"
+2026-10-24T22:54:56.81574Z,go-canon,0.1.0,0,0,https://github.com/prostomarkeloff/find-dup-defs,Go source → structural canonicalization + package-level definition scan (tree-sitter parser). The Go frontend for find-dup-defs.
+2026-10-24T22:55:27.367965Z,flight-scene-document,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Flight scene documents: the YAML text codec, logical validation, resource dependencies and 2D/3D scene materialization"
+2026-10-24T22:56:43.367697Z,rs-cat4sqlite,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-cat4sqlite,Concatenates the string/blob value of the rows in the db.
+2026-10-24T23:00:49.5955Z,nextcloud-versions,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,WebDAV file versions client for the Nextcloud Rust SDK
+2026-10-24T23:03:29.272701Z,filmcraft-matroska,0.7.2,0,0,,Clean-room Matroska (MKV) and WebM demuxer and muxer
+2026-10-24T23:04:49.089169Z,brok-skills,0.2.0,0,0,https://github.com/brokspace/brok,"Agent skills (SKILL.md) for Brokspace: built-in catalog, skill shards, export to coding agents"
+2026-10-24T23:05:26.959436Z,flight-scene2d-resources,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Scene2D document import, slot resolution, and image/audio resource loading"
+2026-10-24T23:08:40.866885Z,aclfolio,0.1.0,0,0,https://github.com/rice8y/aclfolio,"Unofficial offline, read-only Rust interface to ACL Anthology metadata"
+2026-10-24T23:08:57.367738Z,tilesmith-gemm,0.1.0,0,0,https://github.com/tilesmith/gemm,Pure-Rust GEMM engine.
+2026-10-24T23:08:59.825873Z,tilesmith,0.1.0,0,0,https://github.com/tilesmith/gemm,Pure-Rust tile-based compute kernels: the facade over the tilesmith engines.
+2026-10-24T23:10:56.249775Z,nextcloud-rust-sdk,0.1.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,"Rust client for the Nextcloud APIs, with app-facing session and request state machines"
+2026-10-24T23:13:51.813197Z,filmcraft-ogg,0.7.2,0,0,,Clean-room Ogg (RFC 3533) demuxer with Ogg Opus (RFC 7845) and Ogg Vorbis stream mapping
+2026-10-24T23:14:52.507395Z,brok-cli,0.2.0,0,0,https://github.com/brokspace/brok,Brokspace: local-first knowledge index and event-driven agents for your workspace
+2026-10-24T23:15:26.625013Z,flight-scene3d-resources,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Renderer-neutral scene-document URL acquisition and caller-driven resolution of scene texture references into live ImageResources
+2026-10-24T23:18:20.930782Z,rappin-rs,0.1.0,0,0,https://github.com/Lost1419/Rappin,"Fast, idiomatic Rust client and bot framework for Yapin’ (yapin.gg)"
