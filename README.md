@@ -8,43 +8,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 18:20 UTC
+## Latest list — 2026-10-24 19:19 UTC
 
-New crates published between 2026-10-24 17:18 UTC and 2026-10-24 18:20 UTC.
+New crates published between 2026-10-24 18:20 UTC and 2026-10-24 19:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-24T18-20-07-228585Z.csv)
+[Full CSV](data/new-crates-2026-10-24T19-19-52-32725Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-24 17:19:47 | [gc-mcp](https://crates.io/crates/gc-mcp) | 0.1.0 | 0 | gc 的 MCP 服务端：stdio JSON-RPC 传输、工具注册表（迁移到 rmcp SDK） |
-| 2026-10-24 17:21:11 | [craft-print](https://crates.io/crates/craft-print) | 1.4.7 | 0 | System PDF print spooler for the Craft apps: CUPS and Windows |
-| 2026-10-24 17:25:27 | [flight-scene3d](https://crates.io/crates/flight-scene3d) | 0.5.1-next.3241.169… | 0 | Portable 3D scene documents and open node families |
-| 2026-10-24 17:26:37 | [disc-id](https://crates.io/crates/disc-id) | 0.4.2 | 0 | Identify a CD/DVD disc image: which system it is for, and the serial printed on… |
-| 2026-10-24 17:26:37 | [rom-id](https://crates.io/crates/rom-id) | 0.4.2 | 0 | Identify a cartridge ROM dump: its system, its header, and the hardware on its… |
-| 2026-10-24 17:27:57 | [lockwire-web-client](https://crates.io/crates/lockwire-web-client) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
-| 2026-10-24 17:29:03 | [gc-pr](https://crates.io/crates/gc-pr) | 0.1.0 | 0 | gc PR 域：PR 网页端 API 层（cherry-pick / revert / 审批 / 列表统计 / 评论） |
-| 2026-10-24 17:31:38 | [craft-quit](https://crates.io/crates/craft-quit) | 1.4.7 | 0 | Quit a Craft app the platform's own way: on macOS through `-[NSApplication term… |
-| 2026-10-24 17:34:47 | [fdap-login](https://crates.io/crates/fdap-login) | 0.1.1 | 0 | A minimal login page backed by FDAP |
-| 2026-10-24 17:35:27 | [flight-shape](https://crates.io/crates/flight-shape) | 0.5.1-next.3241.169… | 0 | Vector shape nodes: retained command streams, solid fill/stroke regions, bounds… |
-| 2026-10-24 17:38:02 | [lockwire-web-server](https://crates.io/crates/lockwire-web-server) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
-| 2026-10-24 17:38:43 | [gc-cli](https://crates.io/crates/gc-cli) | 0.1.0 | 0 | gc 命令行层：参数定义、子命令分发与人类可读输出 |
-| 2026-10-24 17:42:15 | [craft-settings](https://crates.io/crates/craft-settings) | 1.4.7 | 0 | Shared settings storage for the Craft suite: platform folders, config.toml, ato… |
-| 2026-10-24 17:43:47 | [oxirush-gtp-u](https://crates.io/crates/oxirush-gtp-u) | 0.1.0 | 0 | GTP-U for 5G and LTE in Rust (3GPP TS 29.281, TS 38.415): a codec, a Tokio endp… |
-| 2026-10-24 17:45:26 | [flight-text](https://crates.io/crates/flight-text) | 0.5.1-next.3241.169… | 0 | Portable TextLabel, NativeText, and RichText display nodes |
-| 2026-10-24 17:45:57 | [embedded-nats](https://crates.io/crates/embedded-nats) | 1.0.0 | 0 | embededded-nal-async based implementation of the NATS client protocol |
-| 2026-10-24 17:48:08 | [lockwire-webauthn](https://crates.io/crates/lockwire-webauthn) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
-| 2026-10-24 17:48:57 | [gitcode-gc](https://crates.io/crates/gitcode-gc) | 0.1.0 | 0 | GitCode (AtomGit) 命令行工具，类似 gh（提供 gc 命令） |
-| 2026-10-24 17:49:17 | [octane_http](https://crates.io/crates/octane_http) | 0.1.0 | 0 | HTTP/1.x parsing and types for Octane. |
-| 2026-10-24 17:51:27 | [oxirush-sctp](https://crates.io/crates/oxirush-sctp) | 0.1.0 | 0 | Async SCTP for Tokio on the Linux kernel stack (RFC 6458): one-to-one and one-t… |
-| 2026-10-24 17:53:46 | [litemcp-macros](https://crates.io/crates/litemcp-macros) | 0.1.0 | 0 | Macros procédurales de litemcp (#[tool]) — feature « macros » du crate litemcp. |
-| 2026-10-24 17:55:27 | [flight-timeline](https://crates.io/crates/flight-timeline) | 0.5.1-next.3241.169… | 0 | Timeline playback: sources, playheads, labels, frame scripts and lifecycle sign… |
-| 2026-10-24 17:56:41 | [textifyopendocument](https://crates.io/crates/textifyopendocument) | 0.1.1 | 0 | Fast OpenDocument to plain text converter for previews |
-| 2026-10-24 17:58:12 | [lockwire-wintun-ring](https://crates.io/crates/lockwire-wintun-ring) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
-| 2026-10-24 18:05:26 | [flight-physics2d](https://crates.io/crates/flight-physics2d) | 0.5.1-next.3241.169… | 0 | Portable 2D rigid-body dynamics: a sequential-impulse solver over the spatial b… |
-| 2026-10-24 18:06:09 | [excubia](https://crates.io/crates/excubia) | 0.0.1 | 0 | Name reservation for Excubia (placeholder, no code yet) |
-| 2026-10-24 18:07:48 | [art_trpl_book](https://crates.io/crates/art_trpl_book) | 0.1.0 | 0 | Just an example of publishing Crate to Crates.io. |
-| 2026-10-24 18:15:26 | [flight-skeleton2d-formats](https://crates.io/crates/flight-skeleton2d-formats) | 0.5.1-next.3241.169… | 0 | Spine and DragonBones skeletal rig importers, probes, and caller-owned registri… |
-| 2026-10-24 18:19:41 | [simplex-trace](https://crates.io/crates/simplex-trace) | 0.1.0 | 0 | Exact-arithmetic simplex (primal, Big-M, two-phase) that records every tableau… |
+| 2026-10-24 18:22:14 | [tiptap-rusty-markdown](https://crates.io/crates/tiptap-rusty-markdown) | 0.1.1 | 0 | Fast Markdown <-> Tiptap/ProseMirror JSONContent conversion on top of tiptap-ru… |
+| 2026-10-24 18:24:30 | [brokapi-bybit-protocol](https://crates.io/crates/brokapi-bybit-protocol) | 0.1.0-alpha.5 | 0 | Low-level Bybit API V5 wire protocol: HTTP + WebSocket client, serde models, re… |
+| 2026-10-24 18:24:43 | [brokapi-bybit](https://crates.io/crates/brokapi-bybit) | 0.1.0-alpha.5 | 0 | Bybit MarketDataConnector and UserDataConnector (API V5, USDT perpetuals and fu… |
+| 2026-10-24 18:25:27 | [flight-bitmapfont](https://crates.io/crates/flight-bitmapfont) | 0.5.1-next.3241.169… | 0 | Static bitmap fonts, glyph-source adapters, diagnostics, and atlas snapshots |
+| 2026-10-24 18:27:28 | [wkit](https://crates.io/crates/wkit) | 0.1.1 | 0 | One CLI for versioning, formatting, checking, building and testing C, C++ and R… |
+| 2026-10-24 18:33:43 | [micropb-cli](https://crates.io/crates/micropb-cli) | 0.7.0 | 0 | CLI tool for micropb-gen Protobuf compiler |
+| 2026-10-24 18:33:51 | [koof](https://crates.io/crates/koof) | 0.1.0 | 0 | Runtime for Kubernetes operators generated by koof-gen |
+| 2026-10-24 18:33:52 | [koof-gen](https://crates.io/crates/koof-gen) | 0.1.0 | 0 | Generates Kubernetes operator code from OpenAPI + overlays |
+| 2026-10-24 18:35:27 | [flight-bitmaptext](https://crates.io/crates/flight-bitmaptext) | 0.5.1-next.3241.169… | 0 | Glyph-source-backed bitmap text layout and scene node |
+| 2026-10-24 18:38:39 | [uniflo-client](https://crates.io/crates/uniflo-client) | 0.2.0 | 0 | Typed blocking HTTP client for the Uniflo daemon's local gateway |
+| 2026-10-24 18:45:27 | [flight-quadbatch](https://crates.io/crates/flight-quadbatch) | 0.5.1-next.3241.169… | 0 | Atlas-based multi-quad scene node and instance-buffer operations |
+| 2026-10-24 18:55:27 | [flight-tilemap](https://crates.io/crates/flight-tilemap) | 0.5.1-next.3241.169… | 0 | Tile-based 2D map: grid of cell indices over a shared texture atlas |
+| 2026-10-24 18:57:11 | [rustyass](https://crates.io/crates/rustyass) | 0.1.0 | 0 | An ASS/SSA subtitle renderer in pure Rust |
+| 2026-10-24 19:00:28 | [sdk-core](https://crates.io/crates/sdk-core) | 0.1.0 | 0 | Core primitives shared by the Nextcloud Rust SDK crates |
+| 2026-10-24 19:04:24 | [bauske](https://crates.io/crates/bauske) | 0.2.0 | 0 | Umbrella crate for (Re)Lojban phonology and linguistic tools. |
+| 2026-10-24 19:05:19 | [sdk-ratelimit](https://crates.io/crates/sdk-ratelimit) | 0.1.0 | 0 | Bandwidth rate limiting and token-bucket traffic shaping for the Nextcloud Rust… |
+| 2026-10-24 19:05:27 | [flight-spritesheet](https://crates.io/crates/flight-spritesheet) | 0.5.1-next.3241.169… | 0 | Spritesheets: frames, animations, data hydration, validation and pooled animati… |
+| 2026-10-24 19:05:28 | [sdk-keyring](https://crates.io/crates/sdk-keyring) | 0.1.0 | 0 | Multi-platform secure keyring abstraction for Nextcloud Rust SDK with Flatpak a… |
+| 2026-10-24 19:05:37 | [nextcloud-auth](https://crates.io/crates/nextcloud-auth) | 0.1.0 | 0 | Credential types for the Nextcloud Rust SDK |
+| 2026-10-24 19:05:46 | [sdk-request](https://crates.io/crates/sdk-request) | 0.1.0 | 0 | Per-call lifecycle and retry policy for the Nextcloud Rust SDK |
+| 2026-10-24 19:05:51 | [glyphux-wgpu](https://crates.io/crates/glyphux-wgpu) | 0.4.1 | 0 | wgpu backend of glyphux-gpu: the glyph atlas texture, field generation passes,… |
+| 2026-10-24 19:06:04 | [bevy_settings_plus](https://crates.io/crates/bevy_settings_plus) | 0.1.0 | 0 | Capability-aware extension to bevy_settings: adapter detection, platform defaul… |
+| 2026-10-24 19:06:36 | [vlajmaji](https://crates.io/crates/vlajmaji) | 0.2.0 | 0 | Umbrella crate for source-preserving (Re)Lojban dictionaries, storage, and sear… |
+| 2026-10-24 19:07:35 | [florn-admission](https://crates.io/crates/florn-admission) | 0.1.0 | 0 | The admission step: validation, both custom sections, estimate, transformation… |
+| 2026-10-24 19:07:38 | [florn-control](https://crates.io/crates/florn-control) | 0.1.0 | 0 | The control interface: commands, queries, subscriptions, notifications, and the… |
+| 2026-10-24 19:07:41 | [florn-engine](https://crates.io/crates/florn-engine) | 0.1.0 | 0 | The engine adapter trait (RFC 005 rule 5), and the conformance cases every adap… |
+| 2026-10-24 19:07:46 | [florn-engine-wasmtime](https://crates.io/crates/florn-engine-wasmtime) | 0.1.0 | 0 | The Wasmtime engine adapter (RFC 005 rule 9) |
+| 2026-10-24 19:07:49 | [florn-platform-native](https://crates.io/crates/florn-platform-native) | 0.1.0 | 0 | The native platform adapter: files, standard streams, pacing clock, watchdog, c… |
+| 2026-10-24 19:08:05 | [draglet](https://crates.io/crates/draglet) | 0.1.0 | 0 | Thread-bound native mouse capture and cross-window drag targeting for winit |
+| 2026-10-24 19:08:09 | [rxui-draw](https://crates.io/crates/rxui-draw) | 0.1.0 | 0 | GPU 2D drawing, paths and text rendering on wgpu, used by RXUI |
+| 2026-10-24 19:08:14 | [rxui-host](https://crates.io/crates/rxui-host) | 0.1.0 | 0 | Native window and presentation lifecycle for RXUI on winit and wgpu |
+| 2026-10-24 19:08:16 | [cadmpeg-measure](https://crates.io/crates/cadmpeg-measure) | 0.6.6 | 0 | Geometric measurement of decoded cadmpeg CAD models. |
+| 2026-10-24 19:08:20 | [cadmpeg-codec-pvz](https://crates.io/crates/cadmpeg-codec-pvz) | 0.6.6 | 0 | Inspect and decode PTC Creo View .pvz packages. |
+| 2026-10-24 19:12:13 | [florn-host](https://crates.io/crates/florn-host) | 0.1.0 | 0 | The Host: kernel, admission, model, and domains over the engine and platform ad… |
+| 2026-10-24 19:14:02 | [blulib](https://crates.io/crates/blulib) | 0.12.0 | 0 | Backup tool with content-defined chunking and deduplicated, versioned snapshots |
+| 2026-10-24 19:15:26 | [flight-particles](https://crates.io/crates/flight-particles) | 0.5.1-next.3241.169… | 0 | Particle system simulation: emitters, forces, collisions, curves, and object li… |
+| 2026-10-24 19:18:53 | [cron-ledger](https://crates.io/crates/cron-ledger) | 0.1.0 | 0 | Read-only audit of crontab and systemd-timer schedules against syslog/journal e… |
 
 ## Data source
 
