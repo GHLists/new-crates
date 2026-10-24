@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T12:22:32.572669Z,jmap-chat-federation-types,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP Chat federation extension data types (draft-atwood-jmap-chat-federation-00)
+2026-10-24T12:25:22.218656Z,lockwire-mesh,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T12:27:18.571249Z,gluish,0.0.0,0,0,,"A UI toolkit for macroquad apps, native and wasm. This release only reserves the name."
+2026-10-24T12:28:33.105502Z,mumble-speech,0.1.1-rc.1,0,0,https://github.com/basteez/mumble-speech,"Video-game mumble speech synthesis (beep, grunt, alphabet styles). Deterministic, no_std."
+2026-10-24T12:31:56.905367Z,canopus-core,0.1.0,0,0,https://github.com/AstralSightStudios/Canopus,"Canopus target packs, schemas, generators and build planner (used by the canopus CLI)"
+2026-10-24T12:31:58.977357Z,canopus-elf,0.1.0,0,0,https://github.com/AstralSightStudios/Canopus,"Canopus module ELF verifier: zero-import, relocation and firmware-address checks"
+2026-10-24T12:31:59.795041Z,canopus-package,0.1.0,0,0,https://github.com/AstralSightStudios/Canopus,Builds and verifies .canopus module packages
+2026-10-24T12:32:03.186149Z,canopus-re,0.1.0,0,0,https://github.com/AstralSightStudios/Canopus,"RE orchestrator — task/evidence store, read-only IDA MCP adapter, evidence workflows (Phase 9)"
+2026-10-24T12:32:06.096621Z,canopus-cli,0.1.0,0,0,https://github.com/AstralSightStudios/Canopus,"Create, build, verify and package Canopus firmware modules for Xiaomi Band 10 Pro / Band 11"
+2026-10-24T12:32:37.910122Z,jmap-chat-mimi-types,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP Chat MIMI provider extension data types (draft-atwood-jmap-chat-mimi-00)
+2026-10-24T12:34:29.154984Z,leptoskit_plugin_menu,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Bounded native menu definitions and explicit desktop menu ownership for LeptosKit.
+2026-10-24T12:34:32.460543Z,leptoskit_plugin_network,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Network connection hints and cancellable change observation for LeptosKit.
+2026-10-24T12:35:26.773246Z,lockwire-mesh-broker,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T12:37:41.340917Z,sid-crypto,0.1.0,0,0,https://github.com/structured-id/sid,Independently selectable cryptographic primitives and TLS/JWT provider adapters
+2026-10-24T12:39:33.137723Z,nova-faav,0.2.0,0,0,https://github.com/SarK0Y/Nova_Musique.git,"Process-wide get/set cells (faav), in the style of TAM's faav.rs"
+2026-10-24T12:42:12.733598Z,undercoat,0.12.0,0,0,https://github.com/gaojunran/undercoat,"Native Rust compiler for Less and Sass/SCSS — byte-compatible with lessc and dart-sass, no Node runtime"
+2026-10-24T12:42:43.442879Z,jmap-chat-scene-server,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"Chat binding for the JMAP Scene server (draft-atwood-jmap-scene-wss-00 with draft-atwood-jmap-chat-wss-00): the ChatStreamEnable ""scene"" and SceneStreamEnable subscription union"
+2026-10-24T12:45:31.479962Z,lockwire-mesh-client,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T12:52:13.026688Z,cadkit-scene,0.5.0,0,0,https://github.com/TNYCL/cadkit,GPU-free scene data for cadkit: a chunked 2D line/arc store with an f32 error budget and neutral 3D meshes.
+2026-10-24T12:52:18.634457Z,cadkit-gpu,0.5.0,0,0,https://github.com/TNYCL/cadkit,"wgpu renderers for cadkit-scene: analytic 2D lines and arcs, lit 3D meshes, offscreen rendering."
+2026-10-24T12:53:05.278424Z,jmap-graph-client,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP Graph client (draft-atwood-jmap-graph-00, -graph-edit-00) — Graph, GraphNode, GraphEdge and GraphNodeOp method bindings over jmap-base-client"
+2026-10-24T12:53:15.217614Z,magnetics,0.1.0,0,0,https://github.com/FusionVault/quantum-gravimeter,"Magnetism and magnetohydrodynamics: Earth's main field from WMM2025 or any Gauss-coefficient model, evaluated with geopotential's spherical-harmonic engine."
+2026-10-24T12:53:19.242109Z,physica,0.1.0,0,0,https://github.com/FusionVault/quantum-gravimeter,"The quantum-gravimeter crate family in one dependency: constants, Earth's gravity and magnetic fields, satellite gravimetry, gravitational waves, frontier gravity, fusion plasma and magnetism, plus t…"
+2026-10-24T12:54:34.585618Z,leptoskit_plugin_notifications,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Immediate local system notifications for LeptosKit.
+2026-10-24T12:54:37.989591Z,leptoskit_plugin_os,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Host platform and architecture information for LeptosKit.
+2026-10-24T12:55:36.301849Z,lockwire-mesh-flow-authz,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T12:58:32.622264Z,luma-wgpu,0.4.0,0,0,https://github.com/MoleSir/luma.git,luma wgpu device
+2026-10-24T12:59:30.554805Z,luma-dist,0.4.0,0,0,https://github.com/MoleSir/luma.git,Distributed (collective communication) library for luma
+2026-10-24T13:01:41.057118Z,topcoat-l10n,0.0.0,0,0,https://github.com/tokio-rs/topcoat,Placeholder for the Topcoat localization crate. Real releases follow.
+2026-10-24T13:01:43.653566Z,topcoat-l10n-grammar,0.0.0,0,0,https://github.com/tokio-rs/topcoat,Placeholder for the Topcoat localization crate. Real releases follow.
+2026-10-24T13:01:47.009266Z,topcoat-l10n-macro,0.0.0,0,0,https://github.com/tokio-rs/topcoat,Placeholder for the Topcoat localization crate. Real releases follow.
+2026-10-24T13:03:25.919205Z,jmap-peer-auth-io,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP Chat federation peer-auth I/O: peerSigningKeys fetch and cache, DNSSEC _jmap-peer lookup, replay store (draft-atwood-jmap-chat-federation-00)"
+2026-10-24T13:04:51.546666Z,cadcraft-engine,1.4.7,0,0,https://source.aphrody.app/aphrody-dev/bun-crate-cadcraft-engine,"CADCraft engine: sessions, commands, the command line and prompts, snaps, selection, undo"
+2026-10-24T13:05:40.710639Z,lockwire-nts,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T13:09:14.48617Z,auric-data,0.2.4,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Data framework for the Ember-inspired Auric SPA framework
+2026-10-24T13:13:19.490807Z,dpdk-stdlib-net,0.3.0,0,0,https://github.com/gspivey/dpdk-stdlib-rust,Shared networking traits and backends for dpdk-stdlib crates
+2026-10-24T13:13:20.965581Z,dpdk-stdlib-tcp,0.3.0,0,0,https://github.com/gspivey/dpdk-stdlib-rust,DPDK-accelerated TCP stack for dpdk-stdlib-rust
+2026-10-24T13:13:22.568605Z,dpdk-stdlib-quic,0.3.0,0,0,https://github.com/gspivey/dpdk-stdlib-rust,Native DPDK I/O provider for s2n-quic (kernel-bypass QUIC transport)
+2026-10-24T13:13:26.405079Z,lmfpd,0.1.0,0,0,https://github.com/Ikaleio/lm-detector,"Language-model fingerprint detection: offline scoring, challenges, and live detection"
+2026-10-24T13:13:32.172565Z,jmap-scene-client,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP Scene client (draft-atwood-jmap-scene-00) — Scene method bindings over jmap-base-client, https-only assetUri fetch with sha256 verification, Scene WebSocket events (draft-atwood-jmap-scene-wss-0…"
+2026-10-24T13:14:51.360358Z,leptoskit_plugin_pedometer,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Cancellable pedometer readings for LeptosKit.
+2026-10-24T13:14:54.894422Z,leptoskit_plugin_permissions,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Explicit camera and microphone permission requests for LeptosKit.
+2026-10-24T13:15:23.011522Z,OpenVDB-rs,0.1.0,0,0,https://github.com/OxidePicturesAlliance/vdb,A Rust port of OpenVDB: sparse volumetric data structures and tools
+2026-10-24T13:15:33.033755Z,cadcraft-mcp,1.4.7,0,0,https://source.aphrody.app/aphrody-dev/bun-crate-cadcraft-mcp,"CADCraft MCP server: JSON-RPC 2.0 over stdio, driving a running app or a headless session"
+2026-10-24T13:15:45.358395Z,lockwire-oidc,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T13:15:56.937769Z,sctui,0.3.0,0,0,https://github.com/laguser/soundcloud-tui,"A minimalist terminal SoundCloud & YouTube player for Linux in Rust, crafted with @ttype aesthetic."
+2026-10-24T13:16:35.437379Z,sctui-bin,0.3.0,0,0,https://github.com/laguser/soundcloud-tui,"A minimalist terminal SoundCloud & YouTube player for Linux in Rust, crafted with @ttype aesthetic."
+2026-10-24T13:20:17.948251Z,globetrotter-typst,0.0.17,0,0,https://github.com/LuupSystems/globetrotter,"Polyglot, type-safe internationalization"
