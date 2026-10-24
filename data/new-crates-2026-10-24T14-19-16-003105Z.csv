@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T13:21:51.830367Z,nova-core357_11,0.3.0,0,0,https://github.com/SarK0Y/Nova_Musique.git,"Library, metadata, queue and playback engine for Nova"
+2026-10-24T13:22:31.50003Z,cosmos-rs,0.1.0,0,0,https://github.com/ryuuft/cosmos-rs,COSMOS: learning as gauge dynamics on the Grassmannian — reference implementation of the Continuous Subspace Manifold Operating System
+2026-10-24T13:23:27.605508Z,strata-platform,2027.0.0-alpha.1,0,0,https://github.com/OxidePicturesAlliance/strata,Strata 2027: the Oxide Pictures Alliance reference platform for pure-Rust VFX and animation libraries
+2026-10-24T13:23:38.724014Z,jmap-scene-vtc-server,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"VTC binding for the JMAP Scene server (draft-atwood-jmap-scene-00 with draft-atwood-jmap-vtc-00): SceneRegion.activeCallId cleared when its VTCCall ends, region avatars hidden from non-participants o…"
+2026-10-24T13:23:52.544246Z,seki-core,0.1.20,0,0,https://github.com/pleme-io/seki,seki-core — typed config + segment rendering engine
+2026-10-24T13:23:54.885401Z,seki-modules,0.1.20,0,0,https://github.com/pleme-io/seki,seki-modules — typed Module impls for each shipped segment
+2026-10-24T13:25:50.08946Z,lockwire-oidc-server,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T13:25:52.793653Z,nova-app,0.3.0,0,0,https://github.com/SarK0Y/Nova_Musique.git,Desktop music player for Nova (egui/eframe)
+2026-10-24T13:27:40.821705Z,craft-ui,1.4.7,0,0,https://github.com/aphrody-labs/craft-libs,Reusable egui controls and icon catalogs for Craft frontends
+2026-10-24T13:30:47.750388Z,adbw,0.1.0,0,0,https://github.com/Jaapp-/adbw,Minimal CLI to connect to Android devices over wireless ADB
+2026-10-24T13:34:01.196347Z,jmap-vtc-client,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP VTC HTTP client (draft-atwood-jmap-vtc-00) — extension trait over jmap-base-client
+2026-10-24T13:35:54.468496Z,lockwire-ops,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T13:39:11.643387Z,tower-ten,0.1.1,0,0,https://github.com/hxragi/tower-ten,Adaptive concurrency limiter middleware for tower
+2026-10-24T13:40:46.015139Z,cadcraft-ui-egui,1.4.7,0,0,https://source.aphrody.app/aphrody-dev/bun-crate-cadcraft-ui-egui,CADCraft user interface (egui): the swappable front end
+2026-10-24T13:44:08.091843Z,jmap-chat-calendars-server,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"Chat binding for the JMAP Calendars server (draft-atwood-jmap-chat-calendars-00): Space calendarId binding, auto-bind on create, capability co-advertisement"
+2026-10-24T13:45:59.063214Z,lockwire-otp,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T13:46:03.765262Z,sheetkit-zip,1.0.0,0,0,https://github.com/Nebu1eto/sheetkit,Library to support the reading and writing of zip files.
+2026-10-24T13:47:31.824424Z,kdpika-licensing,0.1.0,0,0,https://github.com/kdpika/kdpika-licensing-rust,"Official KDPika Licensing client: signed activation, validation and bounded offline access"
+2026-10-24T13:51:07.391846Z,craft-atomic,1.4.7,0,0,https://github.com/aphrody-labs/craft-libs,Crash-safe atomic file writing and replacement for the Craft suite
+2026-10-24T13:54:15.586299Z,jmap-chat-federation-server,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP Chat federation server rules (draft-atwood-jmap-chat-federation-00): peer-role method access control and the Peer/deliver, Peer/receipt, Peer/typing, Peer/retract, Peer/groupUpdate and optional…"
+2026-10-24T13:54:35.057918Z,leptoskit_plugin_screen_capture,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Window-scoped capture prevention and native capture observation for LeptosKit.
+2026-10-24T13:54:38.184485Z,leptoskit_plugin_screen_orientation,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Scoped activity and scene orientation requests for LeptosKit.
+2026-10-24T13:54:41.638752Z,leptoskit_plugin_secure_store,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Small secrets in platform credential stores for LeptosKit.
+2026-10-24T13:54:44.735802Z,leptoskit_plugin_sharing,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Bounded text and web URL sharing through user-selected native share UI.
+2026-10-24T13:54:48.260759Z,revault_migrate_v4,0.1.0,0,0,https://github.com/onepub-dev/reVault,Isolated migration exporter for reVault archive/container format 4
+2026-10-24T13:56:03.618024Z,lockwire-pki,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T13:56:42.196914Z,batter,0.1.0,0,0,https://github.com/KamijoToma/batter,A small macOS CLI for Apple's private PowerUI charging controls
+2026-10-24T14:00:21.166251Z,velox-protocol,0.2.0,0,0,https://github.com/levlavryniuk/velox,The velox plugin wire protocol: serializable types only.
+2026-10-24T14:00:23.619089Z,velox-plugin,0.2.0,0,0,https://github.com/levlavryniuk/velox,The wire Plugin trait and the call plumbing around it (Rust only).
+2026-10-24T14:00:25.841249Z,velox-sdk,0.2.0,0,0,https://github.com/levlavryniuk/velox,Plugin SDK for velox: the typed author API over the wire Plugin trait.
+2026-10-24T14:00:28.709537Z,http_ext,1.0.0,0,0,https://github.com/DoumanAsh/http_ext,Extensions to provide useful utilities for http crate
+2026-10-24T14:04:21.7517Z,jmap-chat-filenode-server,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"Chat binding for the JMAP FileNode server (draft-atwood-jmap-chat-filenode-00): Space file tree root validation, per-Space quota, auto-created roots"
+2026-10-24T14:06:07.913507Z,lockwire-provenance,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T14:08:11.165593Z,slain-rt,0.1.0,0,0,https://github.com/GodlessVVanderer/SLAIN,"SLAIN's own runtime: thread pool with helping waits, parallel splitters, wavefront, CPU dispatch, an error-enum macro and an x86-64 assembler with executable buffers."
+2026-10-24T14:08:29.824854Z,slain-num,0.1.0,0,0,https://github.com/GodlessVVanderer/SLAIN,"SLAIN's own numeric crate: dense matrices, least squares, polynomials, FFT, convolution, statistics and 1-D/N-D minimisation, with AVX2 kernels."
+2026-10-24T14:09:24.899515Z,slain-av1,0.1.0,0,0,https://github.com/GodlessVVanderer/SLAIN,"Clean-room, GPL-free, pure-Rust AV1 software decoder. From-spec implementation with register-mapped transforms, symbol runs, and zero-spill entropy coding. 347 fps 1080p on Zen 2 (8 threads)."
+2026-10-24T14:09:59.796552Z,shft,0.1.0,0,0,https://github.com/aditipolkam/shft,"Fast, offline, safe-by-default image conversion and optimization"
+2026-10-24T14:14:30.79773Z,jmap-chat-mimi-client,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP Chat MIMI provider client (draft-atwood-jmap-chat-mimi-00 KeyPackage/*, KeyMaterial/fetch, Room/* and GroupInfo/fetch bindings, GroupInfoResponse check) — extension trait over jmap-base-client"
+2026-10-24T14:14:31.931117Z,leptoskit_plugin_shell,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"Scoped, bounded, cancellable desktop child processes for LeptosKit."
+2026-10-24T14:14:35.398276Z,leptoskit_plugin_single_instance,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Explicit process-lifetime desktop instance locks for LeptosKit.
+2026-10-24T14:16:12.580123Z,lockwire-qr,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T14:16:21.59294Z,apisip,0.1.0,0,0,https://github.com/b-luu/apisip,"Point it at an OpenAPI spec, get JSONL or Parquet files: API ingestion in one binary"
+2026-10-24T14:18:58.789255Z,heavy,0.1.0,0,0,https://github.com/mokevnin/heavy,A machine-wide counting semaphore for heavy commands: N slots shared by every checkout and agent on one machine
