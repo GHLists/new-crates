@@ -1,0 +1,49 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T08:21:07.279078Z,gravitics,0.2.0,0,0,https://github.com/FusionVault/quantum-gravimeter,"Gravitics: the physics of gravity control and exotic propulsion, computed both ways. Each proposal's own model (Li–Baker gravitational-wave detectors, Pais, Tajmar and Podkletnov superconductors, EmD…"
+2026-10-24T08:23:31.620677Z,lockwire-crypto-core,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T08:25:26.988465Z,flight-screen,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Host-explicit display enumeration, geometry, work area, scale factor and display events"
+2026-10-24T08:27:20.631967Z,cadcraft-io,1.4.7,0,0,https://source.aphrody.app/aphrody-dev/bun-crate-cadcraft-io,"CADCraft file formats: DXF read/write mapping, SVG, PNG and PDF export"
+2026-10-24T08:27:35.440566Z,gsuno,0.13.0,0,0,https://github.com/anggi-susanto/suno-cli,"Generate AI music from your terminal — Suno music with headless auth, v6, resumable jobs, and reliable downloads"
+2026-10-24T08:31:58.973784Z,sunns-hearth-core,0.1.0,0,0,https://github.com/SunnsTechnologies/sunns-hearth,"Typed ids, Clock, Rng, Secret, identifiers, errors and Policy. Runtime-free."
+2026-10-24T08:32:15.415033Z,sunns-hearth-runtime,0.1.0,0,0,https://github.com/SunnsTechnologies/sunns-hearth,Bounded CPU pool and other async-runtime helpers.
+2026-10-24T08:32:29.910215Z,smolgen,0.1.0,0,0,https://github.com/alloy-rs/smolgen,Generate 'cargo:rustc-env' instructions via 'build.rs' for use in your code via the 'env!' macro
+2026-10-24T08:32:37.112459Z,sunns-hearth-kernel,0.1.0,0,0,https://github.com/SunnsTechnologies/sunns-hearth,"Module contract, registry, event bus and guard pipeline."
+2026-10-24T08:33:18.547875Z,sunns-hearth-testkit,0.1.0,0,0,https://github.com/SunnsTechnologies/sunns-hearth,"Test support: fake clock, seeded randomness, log capture and a secret scanner. Dev-dependency only."
+2026-10-24T08:33:36.309115Z,lockwire-dispose,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T08:33:51.207325Z,sunns-hearth-db,0.1.0,0,0,https://github.com/SunnsTechnologies/sunns-hearth,"Database engine layer: SQLite writer and read pool, Postgres pool, transactions, migrations."
+2026-10-24T08:34:19.0951Z,leptoskit_plugin_arguments,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Explicit application argument snapshots and typed parsing for LeptosKit.
+2026-10-24T08:34:22.342517Z,leptoskit_plugin_autostart,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Explicit per-user desktop login registration for LeptosKit.
+2026-10-24T08:35:27.518124Z,flight-path,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"2D path geometry: creation, tessellation, stroke, morph, bounds, arc lengths, curvature"
+2026-10-24T08:38:20.104386Z,plasmoid,0.1.0,0,0,https://github.com/FusionVault/quantum-gravimeter,"Fusion and self-organising plasma physics, computed: Coulomb barriers and Gamow peaks, Bosch–Hale and p–¹¹B reactivities, Lawson, screening and muon catalysis; Z-pinches and the plasma focus; plasmoi…"
+2026-10-24T08:40:35.907669Z,sunns-hearth-store,0.1.0,0,0,https://github.com/SunnsTechnologies/sunns-hearth,Store traits and the shared conformance suite.
+2026-10-24T08:43:41.117046Z,lockwire-dns,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T08:45:27.472779Z,flight-camera,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Mathematical 2D/3D cameras: projection descriptors, view matrices, culling, picking, reflection and shadow fit helpers"
+2026-10-24T08:46:39.239873Z,prometheus-parking-lot-core,0.3.0,0,0,https://github.com/Prometheus-AGS/prometheus-parking-lot-rs,"Runtime-free core of prometheus_parking_lot: scheduling contracts, hooks, in-memory queue and mailbox."
+2026-10-24T08:46:40.321941Z,prometheus-parking-lot-embedded,0.3.0,0,0,https://github.com/Prometheus-AGS/prometheus-parking-lot-rs,Crash-safe embedded (redb) lease queue and result mailbox for prometheus_parking_lot (desktop and single-node).
+2026-10-24T08:46:40.716252Z,prometheus-parking-lot-iggy,0.3.0,0,0,https://github.com/Prometheus-AGS/prometheus-parking-lot-rs,Apache Iggy lifecycle events and mailbox notifications for prometheus_parking_lot.
+2026-10-24T08:46:43.201009Z,prometheus-parking-lot-pg,0.3.0,0,0,https://github.com/Prometheus-AGS/prometheus-parking-lot-rs,Postgres lease queue and result mailbox backends for prometheus_parking_lot.
+2026-10-24T08:46:43.858953Z,prometheus-parking-lot-runtime-tokio,0.3.0,0,0,https://github.com/Prometheus-AGS/prometheus-parking-lot-rs,"Tokio runtime layer of prometheus_parking_lot: ResourcePool, native WorkerPool, shutdown and cancellation."
+2026-10-24T08:49:23.475551Z,ownserp-core,0.1.1,0,0,https://github.com/devops-infinity/ownserp,"Engine for the OwnSERP MCP server: Serper client, tools, shaping, cost ledger"
+2026-10-24T08:49:39.012378Z,ownserp,0.1.1,0,0,https://github.com/devops-infinity/ownserp,"MCP server for the Serper.dev search API, over stdio and Streamable HTTP"
+2026-10-24T08:50:29.4227Z,sunns-hearth-notify,0.1.0,0,0,https://github.com/SunnsTechnologies/sunns-hearth,"SMS and email gateway traits, mocks and the gateway conformance suite."
+2026-10-24T08:51:15.280216Z,prometheus-parking-lot-wasm,0.3.0,0,0,https://github.com/Prometheus-AGS/prometheus-parking-lot-rs,WASM WorkerPool for prometheus_parking_lot (async tasks instead of OS threads).
+2026-10-24T08:53:45.577624Z,lockwire-enclave,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T08:54:20.664141Z,leptoskit_plugin_barometer,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Cancellable barometer readings for LeptosKit.
+2026-10-24T08:54:23.577254Z,leptoskit_plugin_battery,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Battery charge and power state for LeptosKit applications.
+2026-10-24T08:55:26.924757Z,flight-collision,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Collision detection: GJK/EPA, contact manifolds, raycasting, support functions, sweep tests"
+2026-10-24T08:56:43.440409Z,martini-cli,0.1.1,0,0,https://github.com/Lychee-Martini/martini,"A modern, extensible CLI format converter built in Rust and optimized for Agent Skills."
+2026-10-24T08:57:18.952446Z,SnapAPI,0.1.0,0,0,https://github.com/Jam-Hejrati/snapapi,Detect potentially breaking changes between OpenAPI specifications.
+2026-10-24T09:00:32.139365Z,sunns-hearth-client,0.1.0,0,0,https://github.com/SunnsTechnologies/sunns-hearth,Minimal Rust client for the login path.
+2026-10-24T09:01:57.927015Z,prometheus_parking_lot,0.3.0,0,0,https://github.com/Prometheus-AGS/prometheus-parking-lot-rs,"Runtime-agnostic, resource-aware parking-lot scheduler for AI agent and inference workloads."
+2026-10-24T09:03:12.444076Z,ns2pro-proto,0.3.1,0,0,https://github.com/Cookiekira/ns2pro-bridge,"Pure Switch 2 Pro Controller BLE protocol: reports, commands, pairing and ATT codecs"
+2026-10-24T09:03:14.959187Z,ns2pro-usb,0.3.1,0,0,https://github.com/Cookiekira/ns2pro-bridge,Pure virtual NS2Pro USB device model and USB/IP codec
+2026-10-24T09:03:31.182493Z,ns2pro-bridge,0.3.1,0,0,https://github.com/Cookiekira/ns2pro-bridge,Bridge a Switch 2 Pro Controller over BLE to a virtual USB NS2Pro device
+2026-10-24T09:03:50.609148Z,lockwire-ffi,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T09:05:27.061952Z,flight-meshgeometry,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Mesh geometry: creation, vertex attributes, procedural builders, compute normals/tangents, transforms"
+2026-10-24T09:10:26.857118Z,sunns-hearth-store-sqlite,0.1.0,0,0,https://github.com/SunnsTechnologies/sunns-hearth,SQLite implementation of the store traits.
+2026-10-24T09:13:55.14095Z,lockwire-forge,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T09:14:15.119461Z,leptoskit_plugin_brightness,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Scoped native screen and window brightness for LeptosKit.
+2026-10-24T09:14:18.03284Z,leptoskit_plugin_clipboard,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,System text clipboard access for LeptosKit.
+2026-10-24T09:15:14.531014Z,upg,0.1.0,0,0,https://github.com/qntx/sh,Self-upgrade helper for QuantX CLIs: re-runs the official sh.qntx.org installer.
+2026-10-24T09:15:26.4077Z,flight-velocity,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Velocity fields and transforms for motion systems
+2026-10-24T09:18:20.232092Z,katana-acp-client,0.1.0,0,0,https://github.com/HiroyukiFuruno/katana-chat-ui,"Provider-neutral LLM request types, ACP v1 stdio transport, and a direct Ollama provider."
