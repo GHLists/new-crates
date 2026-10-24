@@ -8,72 +8,73 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 23:21 UTC
+## Latest list — 2026-10-24 00:18 UTC
 
-New crates published between 2026-10-23 22:18 UTC and 2026-10-23 23:21 UTC.
+New crates published between 2026-10-23 23:21 UTC and 2026-10-24 00:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-23T23-21-06-371676Z.csv)
+[Full CSV](data/new-crates-2026-10-24T00-18-36-5498Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-23 22:19:03 | [aphrody-switch](https://crates.io/crates/aphrody-switch) | 0.1.1 | 0 | Portable Switch CPU and Tegra texture primitives |
-| 2026-10-23 22:20:06 | [lang198x-z80-asm](https://crates.io/crates/lang198x-z80-asm) | 0.1.0 | 0 | The Z80 assembler family for Lang198x: one lossless parser for PasmoNext and th… |
-| 2026-10-23 22:23:35 | [steamkit-rs-protos](https://crates.io/crates/steamkit-rs-protos) | 0.1.0 | 0 | Steam protobuf message and enum types, generated with prost. |
-| 2026-10-23 22:25:22 | [gittop](https://crates.io/crates/gittop) | 0.1.0 | 0 | Live view of your latest Git activity across every repository under a folder |
-| 2026-10-23 22:25:44 | [steamkit-rs](https://crates.io/crates/steamkit-rs) | 0.1.0 | 0 | Rust port of SteamKit2, a .NET library that aims to interoperate with the Steam… |
-| 2026-10-23 22:26:15 | [sofie-storage](https://crates.io/crates/sofie-storage) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
-| 2026-10-23 22:27:03 | [astroceleste](https://crates.io/crates/astroceleste) | 0.0.0 | 0 | Command-line interface for the Astroceleste astrological calculations |
-| 2026-10-23 22:29:22 | [rs-tars2sqlite4wasi](https://crates.io/crates/rs-tars2sqlite4wasi) | 0.1.0 | 0 | Convert tar(.gz) files to SQLite tables |
-| 2026-10-23 22:29:35 | [aphrody-homebrew](https://crates.io/crates/aphrody-homebrew) | 0.1.1 | 0 | Rust build orchestration and stable ABI types for IECODE Nintendo homebrew |
-| 2026-10-23 22:31:49 | [ramp-ffmpeg-ios-arm64](https://crates.io/crates/ramp-ffmpeg-ios-arm64) | 9.0.2 | 0 | Precompiled FFmpeg 9.0.2 libraries for aarch64-apple-ios |
-| 2026-10-23 22:32:07 | [long-read-rad](https://crates.io/crates/long-read-rad) | 0.1.0 | 0 | RAD records for bulk long-read mappings (one record per read, all of its alignm… |
-| 2026-10-23 22:32:08 | [spearfish-lcp](https://crates.io/crates/spearfish-lcp) | 0.1.0 | 0 | Locally consistent parsing (LCP) of DNA with SIMD kernels, the seeding parser o… |
-| 2026-10-23 22:32:08 | [spearfish-seeds](https://crates.io/crates/spearfish-seeds) | 0.1.0 | 0 | Seed schemes (LCP cores, minimizers, syncmers, strobemers) behind one interface… |
-| 2026-10-23 22:32:10 | [spearfish-index](https://crates.io/crates/spearfish-index) | 0.1.0 | 0 | The spearfish transcriptome index: a colored, compacted graph over seeds |
-| 2026-10-23 22:32:12 | [spearfish-map](https://crates.io/crates/spearfish-map) | 0.1.0 | 0 | Long-read mapping for spearfish: seeding, candidate genes, exact chaining share… |
-| 2026-10-23 22:32:13 | [ramp-ffmpeg-ios-sim-arm64](https://crates.io/crates/ramp-ffmpeg-ios-sim-arm64) | 9.0.2 | 0 | Precompiled FFmpeg 9.0.2 libraries for aarch64-apple-ios-sim |
-| 2026-10-23 22:32:31 | [ramp-ffmpeg-ios-sim-x86_64](https://crates.io/crates/ramp-ffmpeg-ios-sim-x86_64) | 9.0.2 | 0 | Precompiled FFmpeg 9.0.2 libraries for x86_64-apple-ios |
-| 2026-10-23 22:33:30 | [etalii-lark-derive](https://crates.io/crates/etalii-lark-derive) | 0.3.0 | 0 | The #[lark_grammar] macro of etalii-lark: a typed parser, node wrappers and a t… |
-| 2026-10-23 22:36:20 | [sofie-flags](https://crates.io/crates/sofie-flags) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
-| 2026-10-23 22:40:08 | [solana_kit_compute_budget](https://crates.io/crates/solana_kit_compute_budget) | 0.0.0 | 0 | Reserved Compute Budget client crate for the off-chain Solana Kit SDK; this pla… |
-| 2026-10-23 22:40:36 | [aphrody-nie-sql](https://crates.io/crates/aphrody-nie-sql) | 1.4.7 | 0 | Shared read-only SQL boundary for NIE hosts |
-| 2026-10-23 22:40:39 | [spearfish](https://crates.io/crates/spearfish) | 0.1.0 | 0 | Fast long-read RNA-seq mapping to a transcriptome with locally consistent parsi… |
-| 2026-10-23 22:42:49 | [tauto](https://crates.io/crates/tauto) | 0.0.0 | 0 | Tauto, re-exporting its component crates |
-| 2026-10-23 22:42:50 | [tauto-cli](https://crates.io/crates/tauto-cli) | 0.0.0 | 0 | Command-line interface for Tauto |
-| 2026-10-23 22:42:54 | [tauto-tree](https://crates.io/crates/tauto-tree) | 0.0.0 | 0 | Concrete syntax tree for Tauto |
-| 2026-10-23 22:42:58 | [tauto-parol](https://crates.io/crates/tauto-parol) | 0.0.0 | 0 | Parol grammar and generated parser for Tauto |
-| 2026-10-23 22:43:04 | [tauto-ast](https://crates.io/crates/tauto-ast) | 0.0.0 | 0 | Semantic abstract syntax tree for Tauto |
-| 2026-10-23 22:45:21 | [flight-entity](https://crates.io/crates/flight-entity) | 0.5.1-next.3232.983… | 0 | Entity lifecycle management: allocation, finalization, runtime keys, and compon… |
-| 2026-10-23 22:45:24 | [flight-host](https://crates.io/crates/flight-host) | 0.5.1-next.3232.983… | 0 | Bottom host vocabulary (D26): opaque platform handles, provider-issued ids, Pro… |
-| 2026-10-23 22:45:27 | [flight-resource](https://crates.io/crates/flight-resource) | 0.5.1-next.3232.983… | 0 | Resource reference lifecycle shared by audio and image: ResourceResolutionState |
-| 2026-10-23 22:45:30 | [flight-binpack](https://crates.io/crates/flight-binpack) | 0.5.1-next.3232.983… | 0 | Rectangle bin packing algorithm |
-| 2026-10-23 22:45:32 | [flight-importdiagnostics](https://crates.io/crates/flight-importdiagnostics) | 0.5.1-next.3232.983… | 0 | Structured diagnostics collector and formatter for Flight importers |
-| 2026-10-23 22:45:47 | [pbcp](https://crates.io/crates/pbcp) | 0.1.0 | 0 | A protocol for producing claims whose assertion is backed by proof of resources… |
-| 2026-10-23 22:46:06 | [spearfish-cli](https://crates.io/crates/spearfish-cli) | 0.1.0 | 0 | Command-line interface to spearfish (long-read RNA-seq mapping with locally con… |
-| 2026-10-23 22:46:24 | [sofie-tenancy](https://crates.io/crates/sofie-tenancy) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
-| 2026-10-23 22:51:13 | [tauto-kernel](https://crates.io/crates/tauto-kernel) | 0.0.0 | 0 | Proof kernel for Tauto |
-| 2026-10-23 22:52:42 | [aphrody-nie-explore](https://crates.io/crates/aphrody-nie-explore) | 1.4.7 | 0 | Moteur partagé d'aperçu/description des entrées VFS (CPK) par format — utilisé… |
-| 2026-10-23 22:52:59 | [nova-ta](https://crates.io/crates/nova-ta) | 0.1.0 | 0 | Core traits and state primitives for streaming technical-analysis indicators. |
-| 2026-10-23 22:54:41 | [silo-rs](https://crates.io/crates/silo-rs) | 0.2.7 | 0 | A token efficient knowledge & memory solution for agentic workflows. |
-| 2026-10-23 22:54:42 | [silo-cli](https://crates.io/crates/silo-cli) | 0.2.7 | 0 | A token efficient knowledge & memory solution for agentic workflows. |
-| 2026-10-23 22:54:43 | [silo-mcp](https://crates.io/crates/silo-mcp) | 0.2.7 | 0 | A token efficient knowledge & memory solution for agentic workflows. |
-| 2026-10-23 22:55:25 | [flight-geolocation](https://crates.io/crates/flight-geolocation) | 0.5.1-next.3232.983… | 0 | Geolocation capability seam: position reads, watches and access prompts routed… |
-| 2026-10-23 22:56:30 | [sofie-billing](https://crates.io/crates/sofie-billing) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
-| 2026-10-23 22:57:39 | [jtag-scanner](https://crates.io/crates/jtag-scanner) | 0.1.0 | 0 | A JTAG boundary scanning module |
-| 2026-10-23 23:01:20 | [tauto-nibcheck](https://crates.io/crates/tauto-nibcheck) | 0.0.0 | 0 | Checker for Nib in Tauto |
-| 2026-10-23 23:02:05 | [aphrody-nie-app](https://crates.io/crates/aphrody-nie-app) | 1.4.7 | 0 | Cœur du jeu nie : la machine à états (GameState) + le rendu abstrait (trait Ren… |
-| 2026-10-23 23:06:35 | [sofie-content](https://crates.io/crates/sofie-content) | 0.0.1 | 0 | Reserved for the sofie web framework (https://github.com/sofie-rs); not usable… |
-| 2026-10-23 23:07:37 | [argonauts-core](https://crates.io/crates/argonauts-core) | 0.1.0 | 0 | Shared types, traits, event log, config, and spend meter for Argonauts Code. |
-| 2026-10-23 23:08:05 | [argonauts-adapter-acp](https://crates.io/crates/argonauts-adapter-acp) | 0.1.0 | 0 | The generic ACP worker for Argonauts Code: any Agent Client Protocol agent in t… |
-| 2026-10-23 23:08:25 | [argonauts-adapter-antigravity-cli](https://crates.io/crates/argonauts-adapter-antigravity-cli) | 0.1.0 | 0 | agy adapter for Argonauts Code. |
-| 2026-10-23 23:08:28 | [argonauts-adapter-claude-code](https://crates.io/crates/argonauts-adapter-claude-code) | 0.1.0 | 0 | Claude Code adapter for Argonauts Code. |
-| 2026-10-23 23:08:32 | [argonauts-adapter-codex](https://crates.io/crates/argonauts-adapter-codex) | 0.1.0 | 0 | Codex adapter for Argonauts Code. |
-| 2026-10-23 23:08:48 | [aphrody-nie-asm](https://crates.io/crates/aphrody-nie-asm) | 1.4.7 | 0 | Encodeur x86-64 (dialecte MSVC) — régénère les corps de fonctions de nie.exe de… |
-| 2026-10-23 23:10:31 | [s3pe](https://crates.io/crates/s3pe) | 0.1.0 | 0 | Small, dependable S3 client and CLI: read, write, list and delete objects on s3… |
-| 2026-10-23 23:11:26 | [tauto-eval](https://crates.io/crates/tauto-eval) | 0.0.0 | 0 | Evaluator for Tauto |
-| 2026-10-23 23:17:59 | [argonauts-adapter-manifest](https://crates.io/crates/argonauts-adapter-manifest) | 0.1.0 | 0 | Argonauts Code CLI manifests: a generic adapter for simple CLIs described as da… |
-| 2026-10-23 23:19:01 | [aphrody-nie-bench](https://crates.io/crates/aphrody-nie-bench) | 1.4.7 | 0 | Banc d'essai inter-langages : mesure les hot paths du dépôt en Rust, et produit… |
-| 2026-10-23 23:19:33 | [tauto-macro](https://crates.io/crates/tauto-macro) | 0.0.0 | 0 | Macro expander for Tauto |
+| 2026-10-23 23:26:46 | [tc_hc](https://crates.io/crates/tc_hc) | 0.1.0 | 0 | The HC-128 and HC-256 stream ciphers, kept for Bouncy Castle compatibility. |
+| 2026-10-23 23:26:47 | [tc_rc4_family](https://crates.io/crates/tc_rc4_family) | 0.1.0 | 0 | RC4 and its descendants VMPC and ISAAC as stream ciphers, with portable and Rus… |
+| 2026-10-23 23:26:49 | [tc_salsa20](https://crates.io/crates/tc_salsa20) | 0.1.0 | 0 | The Salsa20 and XSalsa20 stream ciphers, with portable and RustCrypto engines. |
+| 2026-10-23 23:27:59 | [argonauts-adapter-opencode](https://crates.io/crates/argonauts-adapter-opencode) | 0.1.0 | 0 | Argonauts Code adapter for OpenCode: headless runs with open-weight models thro… |
+| 2026-10-23 23:28:57 | [aphrody-nie-bevy](https://crates.io/crates/aphrody-nie-bevy) | 1.4.7 | 0 | Intégration native Bevy : les formats réels du jeu (G4TX, G4MD/G4MG) deviennent… |
+| 2026-10-23 23:29:40 | [tauto-syntax](https://crates.io/crates/tauto-syntax) | 0.0.0 | 0 | Runtime for Tauto syntax declarations |
+| 2026-10-23 23:34:51 | [brokapi-client](https://crates.io/crates/brokapi-client) | 0.1.0-alpha.4 | 0 | One account at any broker behind one type: the four connectors, the event chann… |
+| 2026-10-23 23:34:54 | [brokapi-gateway](https://crates.io/crates/brokapi-gateway) | 0.1.0-alpha.4 | 0 | The brokapi gateway: one process holds the connection to a broker account and s… |
+| 2026-10-23 23:35:14 | [teloxide-router](https://crates.io/crates/teloxide-router) | 0.1.0-alpha.1 | 0 | Attribute-macro handler registration and self-assembling routers for teloxide |
+| 2026-10-23 23:37:00 | [sigring](https://crates.io/crates/sigring) | 0.1.0 | 0 | Exact, streaming, sliding-window truncated path signatures in a wrapping intege… |
+| 2026-10-23 23:37:21 | [teloxide-router-macros](https://crates.io/crates/teloxide-router-macros) | 0.1.0-alpha.1 | 0 | Procedural macros for teloxide-router |
+| 2026-10-23 23:38:03 | [argonauts-conductor](https://crates.io/crates/argonauts-conductor) | 0.1.0 | 0 | Argonauts Code conductor: runs agent sessions, worktrees, checks, and merges. |
+| 2026-10-23 23:38:48 | [aphrody-nie-trace](https://crates.io/crates/aphrody-nie-trace) | 1.4.7 | 0 | RE en direct (runtime) : lecture de la mémoire live d'un nie.exe — process_vm_r… |
+| 2026-10-23 23:39:48 | [tauto-nir](https://crates.io/crates/tauto-nir) | 0.0.0 | 0 | Nib IR for Tauto |
+| 2026-10-23 23:40:05 | [core-design](https://crates.io/crates/core-design) | 0.1.0 | 0 | Project design requirements and agent skills for authoring and review |
+| 2026-10-23 23:40:51 | [solana_kit_memo](https://crates.io/crates/solana_kit_memo) | 0.0.0 | 0 | Reserved Memo client crate for the off-chain Solana Kit SDK; this placeholder s… |
+| 2026-10-23 23:42:29 | [uzor-fonts-cjk-a](https://crates.io/crates/uzor-fonts-cjk-a) | 1.5.7 | 0 | Noto Sans CJK SC Regular for uzor-fonts, half a (font bytes only; uzor-fonts' b… |
+| 2026-10-23 23:42:34 | [uzor-fonts-cjk-b](https://crates.io/crates/uzor-fonts-cjk-b) | 1.5.7 | 0 | Noto Sans CJK SC Regular for uzor-fonts, half b (font bytes only; uzor-fonts' b… |
+| 2026-10-23 23:42:37 | [uzor-fonts-emoji](https://crates.io/crates/uzor-fonts-emoji) | 1.5.7 | 0 | Noto Color Emoji for uzor-fonts (font bytes only; its build script copies them… |
+| 2026-10-23 23:45:44 | [coordinode-core](https://crates.io/crates/coordinode-core) | 0.8.0 | 0 | Core graph engine: property graph model, schema, MVCC transactions |
+| 2026-10-23 23:45:47 | [coordinode-swarm](https://crates.io/crates/coordinode-swarm) | 0.8.0 | 0 | BitTorrent-inspired swarm segment transfer: segment piece model (manifest, spli… |
+| 2026-10-23 23:45:48 | [coordinode-wire](https://crates.io/crates/coordinode-wire) | 0.8.0 | 0 | Inter-node wire transport codec: pure-Rust zstd compression for gRPC messages |
+| 2026-10-23 23:45:51 | [coordinode-storage](https://crates.io/crates/coordinode-storage) | 0.8.0 | 0 | Storage engine: LSM-tree, WAL, BlobStore, compression |
+| 2026-10-23 23:45:53 | [coordinode-vector](https://crates.io/crates/coordinode-vector) | 0.8.0 | 0 | Vector search: HNSW index, scalar quantization, distance metrics with SIMD |
+| 2026-10-23 23:47:59 | [argonauts-endpoints](https://crates.io/crates/argonauts-endpoints) | 0.1.0 | 0 | Argonauts Code endpoint runner: direct OpenAI-compatible model APIs with no too… |
+| 2026-10-23 23:48:49 | [aphrody-nie-camera](https://crates.io/crates/aphrody-nie-camera) | 1.4.7 | 0 | Caméra d'Inazuma Eleven: Victory Road — modèle, contrôleurs portés (CCameraCtrl… |
+| 2026-10-23 23:49:55 | [tauto-rustgen](https://crates.io/crates/tauto-rustgen) | 0.0.0 | 0 | Rust code generator from Nib IR for Tauto |
+| 2026-10-23 23:50:51 | [tokio-lsp-client](https://crates.io/crates/tokio-lsp-client) | 0.0.1 | 0 | A client for communicating asynchronously with language servers, fully complian… |
+| 2026-10-23 23:50:54 | [flight-webcam](https://crates.io/crates/flight-webcam) | 0.5.1-next.3236.44a… | 0 | Reserved portable webcam package surface |
+| 2026-10-23 23:50:57 | [flight-abc](https://crates.io/crates/flight-abc) | 0.5.1-next.3236.44a… | 0 | Reader and instruction decoder for ActionScript byte code containers |
+| 2026-10-23 23:51:01 | [flight-signals](https://crates.io/crates/flight-signals) | 0.5.1-next.3236.44a… | 0 | Signal-slot event system: signals, connections, scopes, emitters, and throttling |
+| 2026-10-23 23:51:05 | [flight-color](https://crates.io/crates/flight-color) | 0.5.1-next.3236.44a… | 0 | Color space conversions: HSL, HSV, Oklab, sRGB transfer, luminance, pack/unpack… |
+| 2026-10-23 23:51:09 | [flight-buffer](https://crates.io/crates/flight-buffer) | 0.5.1-next.3236.44a… | 0 | Shared ArrayBuffer, ArrayBufferView and Blob vocabulary foundation |
+| 2026-10-23 23:51:14 | [rgy-proto](https://crates.io/crates/rgy-proto) | 0.1.0 | 0 | JSON-lines protocol types shared by daemon, stdio, and CLI (skeleton) |
+| 2026-10-23 23:51:17 | [rgy-discovery](https://crates.io/crates/rgy-discovery) | 0.1.0 | 0 | Platform discovery seam (Source/Watch) and the shared change vocabulary |
+| 2026-10-23 23:51:26 | [rgy-name-core](https://crates.io/crates/rgy-name-core) | 0.1.0 | 0 | Name index, query filters, fuzzy ranking (fsearch engine + zen query vocabulary) |
+| 2026-10-23 23:51:38 | [rgy-engine](https://crates.io/crates/rgy-engine) | 0.1.0 | 0 | Orchestration: keep-warm, TV pack store glue |
+| 2026-10-23 23:51:43 | [rgy-discovery-windows](https://crates.io/crates/rgy-discovery-windows) | 0.1.0 | 0 | Windows discovery backend: NTFS MFT streaming + USN journal (from zen-rs) |
+| 2026-10-23 23:51:47 | [rgy-discovery-linux](https://crates.io/crates/rgy-discovery-linux) | 0.1.0 | 0 | Linux discovery backend: getdents64 bulk walk + recursive inotify |
+| 2026-10-23 23:52:41 | [coordinode-search](https://crates.io/crates/coordinode-search) | 0.8.0 | 0 | Full-text search, multilingual stemming, CJK, encrypted search (SSE) |
+| 2026-10-23 23:55:26 | [flight-stream](https://crates.io/crates/flight-stream) | 0.5.1-next.3236.44a… | 0 | D20 shared-future and byte-stream vocabulary: cloneable stored promises and Asy… |
+| 2026-10-23 23:56:25 | [libesxi2pve](https://crates.io/crates/libesxi2pve) | 0.1.2 | 0 | A Rust library for verified VMware ESXi to Proxmox VE migrations |
+| 2026-10-23 23:56:40 | [esxi2pve](https://crates.io/crates/esxi2pve) | 0.1.2 | 0 | A command-line tool for verified VMware ESXi to Proxmox VE migrations |
+| 2026-10-23 23:58:01 | [argonauts-learning](https://crates.io/crates/argonauts-learning) | 0.1.0 | 0 | Argonauts Code learning: the outcome log and track records, routing and predict… |
+| 2026-10-23 23:58:48 | [aphrody-nie-computer-use](https://crates.io/crates/aphrody-nie-computer-use) | 1.4.7 | 0 | Native, bounded Computer Use probes for nie.exe and Ghidra. |
+| 2026-10-24 00:00:03 | [tauto-rt](https://crates.io/crates/tauto-rt) | 0.0.0 | 0 | Runtime library for code generated by Tauto |
+| 2026-10-24 00:01:43 | [rgy-discovery-macos](https://crates.io/crates/rgy-discovery-macos) | 0.1.0 | 0 | macOS discovery backend: getattrlistbulk walk + FSEvents watch (from fsearch) |
+| 2026-10-24 00:02:40 | [coordinode-cluster](https://crates.io/crates/coordinode-cluster) | 0.8.0 | 0 | Layer 6 cluster topology: ClusterTopology + ShardRouting traits with CE SingleN… |
+| 2026-10-24 00:05:26 | [flight-encoding](https://crates.io/crates/flight-encoding) | 0.5.1-next.3236.44a… | 0 | Text encoding utilities: UTF-8 encode/decode |
+| 2026-10-24 00:07:59 | [argonauts-policy](https://crates.io/crates/argonauts-policy) | 0.1.0 | 0 | Argonauts Code approvals and narrator: approval modes, hard limits, the judge,… |
+| 2026-10-24 00:08:48 | [aphrody-nie-save](https://crates.io/crates/aphrody-nie-save) | 1.4.7 | 0 | Déchiffrement, lecture et édition des saves IEVR (Lives format CRC32-keyed XOR) |
+| 2026-10-24 00:09:06 | [textinputsources-rs](https://crates.io/crates/textinputsources-rs) | 0.1.0 | 0 | Safe Rust bindings for macOS Text Input Sources and keyboard layout translation |
+| 2026-10-24 00:10:11 | [tauto-build](https://crates.io/crates/tauto-build) | 0.0.0 | 0 | Compile Tauto sources from build.rs |
+| 2026-10-24 00:11:40 | [rgy-discovery-freebsd](https://crates.io/crates/rgy-discovery-freebsd) | 0.1.0 | 0 | FreeBSD discovery backend: getdirentries bulk walk with d_type from the dirent |
+| 2026-10-24 00:12:41 | [coordinode-raft](https://crates.io/crates/coordinode-raft) | 0.8.0 | 0 | Consensus: openraft wrapper, leader election, streaming snapshots |
+| 2026-10-24 00:15:27 | [flight-registry](https://crates.io/crates/flight-registry) | 0.5.1-next.3236.44a… | 0 | Immutable kind-map and ordinal-table helpers for Flight registries |
+| 2026-10-24 00:18:00 | [argonauts-runner](https://crates.io/crates/argonauts-runner) | 0.1.0 | 0 | Runs a workflow: a file of steps or a script, in a sandboxed JavaScript engine… |
+| 2026-10-24 00:18:13 | [bauske-phonology](https://crates.io/crates/bauske-phonology) | 0.1.0 | 0 | Source-grounded Relojban phonology, articulatory features, and prosodic analysi… |
+| 2026-10-24 00:18:15 | [bauske-cli](https://crates.io/crates/bauske-cli) | 0.1.0 | 0 | Command-line exploration of Relojban phonology, sound comparisons, and prosody. |
 
 ## Data source
 

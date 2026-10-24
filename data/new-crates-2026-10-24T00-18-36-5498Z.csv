@@ -1,0 +1,60 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-23T23:26:46.584341Z,tc_hc,0.1.0,0,0,https://github.com/TomiCheng/tc_stream_cipher,"The HC-128 and HC-256 stream ciphers, kept for Bouncy Castle compatibility."
+2026-10-23T23:26:47.94432Z,tc_rc4_family,0.1.0,0,0,https://github.com/TomiCheng/tc_stream_cipher,"RC4 and its descendants VMPC and ISAAC as stream ciphers, with portable and RustCrypto RC4 engines, kept for legacy interoperability."
+2026-10-23T23:26:49.120873Z,tc_salsa20,0.1.0,0,0,https://github.com/TomiCheng/tc_stream_cipher,"The Salsa20 and XSalsa20 stream ciphers, with portable and RustCrypto engines."
+2026-10-23T23:27:59.152173Z,argonauts-adapter-opencode,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,Argonauts Code adapter for OpenCode: headless runs with open-weight models through OpenCode's providers.
+2026-10-23T23:28:57.53964Z,aphrody-nie-bevy,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Intégration native Bevy : les formats réels du jeu (G4TX, G4MD/G4MG) deviennent des assets Bevy — Image, Mesh — via un greffon et des AssetLoaders"
+2026-10-23T23:29:40.817372Z,tauto-syntax,0.0.0,0,0,https://github.com/Hihaheho/tauto,Runtime for Tauto syntax declarations
+2026-10-23T23:34:51.987563Z,brokapi-client,0.1.0-alpha.4,0,0,https://github.com/runinfra/brokapi,"One account at any broker behind one type: the four connectors, the event channel, the rate limiter and the call by method name (the layer under the Python module and the gateway)."
+2026-10-23T23:34:54.398647Z,brokapi-gateway,0.1.0-alpha.4,0,0,https://github.com/runinfra/brokapi,"The brokapi gateway: one process holds the connection to a broker account and serves many bots over gRPC. The server, a client that speaks the traits of brokapi-core, and the program `brokapi` that r…"
+2026-10-23T23:35:14.797169Z,teloxide-router,0.1.0-alpha.1,0,0,https://github.com/YouKnow-sys/teloxide-router,Attribute-macro handler registration and self-assembling routers for teloxide
+2026-10-23T23:37:00.684649Z,sigring,0.1.0,0,0,https://github.com/metapozza/sigring,"Exact, streaming, sliding-window truncated path signatures in a wrapping integer ring (division-free, bit-reproducible, with an overflow guard)."
+2026-10-23T23:37:21.810998Z,teloxide-router-macros,0.1.0-alpha.1,0,0,https://github.com/YouKnow-sys/teloxide-router,Procedural macros for teloxide-router
+2026-10-23T23:38:03.355843Z,argonauts-conductor,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,"Argonauts Code conductor: runs agent sessions, worktrees, checks, and merges."
+2026-10-23T23:38:48.744741Z,aphrody-nie-trace,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"RE en direct (runtime) : lecture de la mémoire live d'un nie.exe — process_vm_readv(2) si Wine/Linux, ReadProcessMemory si Windows natif. Résolution de module, hex dump, dump de plages, scan. Binaire…"
+2026-10-23T23:39:48.233572Z,tauto-nir,0.0.0,0,0,https://github.com/Hihaheho/tauto,Nib IR for Tauto
+2026-10-23T23:40:05.855429Z,core-design,0.1.0,0,0,https://github.com/core-rs/core-design,Project design requirements and agent skills for authoring and review
+2026-10-23T23:40:51.679289Z,solana_kit_memo,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_memo,Reserved Memo client crate for the off-chain Solana Kit SDK; this placeholder supplies no SDK APIs
+2026-10-23T23:42:29.936642Z,uzor-fonts-cjk-a,1.5.7,0,0,https://github.com/UZOR-dev/uzor,"Noto Sans CJK SC Regular for uzor-fonts, half a (font bytes only; uzor-fonts' build script joins the halves)."
+2026-10-23T23:42:34.164354Z,uzor-fonts-cjk-b,1.5.7,0,0,https://github.com/UZOR-dev/uzor,"Noto Sans CJK SC Regular for uzor-fonts, half b (font bytes only; uzor-fonts' build script joins the halves)."
+2026-10-23T23:42:37.820551Z,uzor-fonts-emoji,1.5.7,0,0,https://github.com/UZOR-dev/uzor,Noto Color Emoji for uzor-fonts (font bytes only; its build script copies them into uzor-fonts).
+2026-10-23T23:45:44.821736Z,coordinode-core,0.8.0,0,0,https://github.com/structured-world/coordinode,"Core graph engine: property graph model, schema, MVCC transactions"
+2026-10-23T23:45:47.287683Z,coordinode-swarm,0.8.0,0,0,https://github.com/structured-world/coordinode,"BitTorrent-inspired swarm segment transfer: segment piece model (manifest, split, verify, assemble) and rarest-first scheduling. Transport for replication repair, operator-commanded shard migration,…"
+2026-10-23T23:45:48.798429Z,coordinode-wire,0.8.0,0,0,https://github.com/structured-world/coordinode,Inter-node wire transport codec: pure-Rust zstd compression for gRPC messages
+2026-10-23T23:45:51.087306Z,coordinode-storage,0.8.0,0,0,https://github.com/structured-world/coordinode,"Storage engine: LSM-tree, WAL, BlobStore, compression"
+2026-10-23T23:45:53.059588Z,coordinode-vector,0.8.0,0,0,https://github.com/structured-world/coordinode,"Vector search: HNSW index, scalar quantization, distance metrics with SIMD"
+2026-10-23T23:47:59.563818Z,argonauts-endpoints,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,Argonauts Code endpoint runner: direct OpenAI-compatible model APIs with no tools.
+2026-10-23T23:48:49.672756Z,aphrody-nie-camera,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Caméra d'Inazuma Eleven: Victory Road — modèle, contrôleurs portés (CCameraCtrl*), codec G4CM (décode/encode byte-exact), configs cfg.bin, carte RE et pilotage live du process."
+2026-10-23T23:49:55.904406Z,tauto-rustgen,0.0.0,0,0,https://github.com/Hihaheho/tauto,Rust code generator from Nib IR for Tauto
+2026-10-23T23:50:51.864925Z,tokio-lsp-client,0.0.1,0,0,https://github.com/ryanmab/tokio-lsp-client,"A client for communicating asynchronously with language servers, fully compliant with v3.18.0 of the LSP specification, with support for streamed results, automatic cancellation, and much more."
+2026-10-23T23:50:54.094827Z,flight-webcam,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,Reserved portable webcam package surface
+2026-10-23T23:50:57.91008Z,flight-abc,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,Reader and instruction decoder for ActionScript byte code containers
+2026-10-23T23:51:01.814724Z,flight-signals,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Signal-slot event system: signals, connections, scopes, emitters, and throttling"
+2026-10-23T23:51:05.541814Z,flight-color,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Color space conversions: HSL, HSV, Oklab, sRGB transfer, luminance, pack/unpack, premultiply alpha"
+2026-10-23T23:51:09.297171Z,flight-buffer,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Shared ArrayBuffer, ArrayBufferView and Blob vocabulary foundation"
+2026-10-23T23:51:14.119698Z,rgy-proto,0.1.0,0,0,https://github.com/danalec/rgy,"JSON-lines protocol types shared by daemon, stdio, and CLI (skeleton)"
+2026-10-23T23:51:17.660914Z,rgy-discovery,0.1.0,0,0,https://github.com/danalec/rgy,Platform discovery seam (Source/Watch) and the shared change vocabulary
+2026-10-23T23:51:26.097574Z,rgy-name-core,0.1.0,0,0,https://github.com/danalec/rgy,"Name index, query filters, fuzzy ranking (fsearch engine + zen query vocabulary)"
+2026-10-23T23:51:38.167385Z,rgy-engine,0.1.0,0,0,https://github.com/danalec/rgy,"Orchestration: keep-warm, TV pack store glue"
+2026-10-23T23:51:43.544482Z,rgy-discovery-windows,0.1.0,0,0,https://github.com/danalec/rgy,Windows discovery backend: NTFS MFT streaming + USN journal (from zen-rs)
+2026-10-23T23:51:47.131Z,rgy-discovery-linux,0.1.0,0,0,https://github.com/danalec/rgy,Linux discovery backend: getdents64 bulk walk + recursive inotify
+2026-10-23T23:52:41.3191Z,coordinode-search,0.8.0,0,0,https://github.com/structured-world/coordinode,"Full-text search, multilingual stemming, CJK, encrypted search (SSE)"
+2026-10-23T23:55:26.694668Z,flight-stream,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,D20 shared-future and byte-stream vocabulary: cloneable stored promises and AsyncRead/AsyncWrite-backed ReadableStream/WritableStream
+2026-10-23T23:56:25.339773Z,libesxi2pve,0.1.2,0,0,https://github.com/oktay454/esxi2pve,A Rust library for verified VMware ESXi to Proxmox VE migrations
+2026-10-23T23:56:40.559183Z,esxi2pve,0.1.2,0,0,https://github.com/oktay454/esxi2pve,A command-line tool for verified VMware ESXi to Proxmox VE migrations
+2026-10-23T23:58:01.89265Z,argonauts-learning,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,"Argonauts Code learning: the outcome log and track records, routing and predictions, learned workflows and the evolution loop, replays, skills, and memory safety."
+2026-10-23T23:58:48.887515Z,aphrody-nie-computer-use,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Native, bounded Computer Use probes for nie.exe and Ghidra."
+2026-10-24T00:00:03.121896Z,tauto-rt,0.0.0,0,0,https://github.com/Hihaheho/tauto,Runtime library for code generated by Tauto
+2026-10-24T00:01:43.011112Z,rgy-discovery-macos,0.1.0,0,0,https://github.com/danalec/rgy,macOS discovery backend: getattrlistbulk walk + FSEvents watch (from fsearch)
+2026-10-24T00:02:40.979437Z,coordinode-cluster,0.8.0,0,0,https://github.com/structured-world/coordinode,Layer 6 cluster topology: ClusterTopology + ShardRouting traits with CE SingleNodeTopology + SingleShardRouting implementations over a 5-level failure-domain hierarchy
+2026-10-24T00:05:26.936964Z,flight-encoding,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,Text encoding utilities: UTF-8 encode/decode
+2026-10-24T00:07:59.855431Z,argonauts-policy,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,"Argonauts Code approvals and narrator: approval modes, hard limits, the judge, spot checks, and the live narrator."
+2026-10-24T00:08:48.299457Z,aphrody-nie-save,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Déchiffrement, lecture et édition des saves IEVR (Lives format CRC32-keyed XOR)"
+2026-10-24T00:09:06.38395Z,textinputsources-rs,0.1.0,0,0,https://github.com/doom-fish/textinputsources-rs,Safe Rust bindings for macOS Text Input Sources and keyboard layout translation
+2026-10-24T00:10:11.11388Z,tauto-build,0.0.0,0,0,https://github.com/Hihaheho/tauto,Compile Tauto sources from build.rs
+2026-10-24T00:11:40.899104Z,rgy-discovery-freebsd,0.1.0,0,0,https://github.com/danalec/rgy,FreeBSD discovery backend: getdirentries bulk walk with d_type from the dirent
+2026-10-24T00:12:41.169043Z,coordinode-raft,0.8.0,0,0,https://github.com/structured-world/coordinode,"Consensus: openraft wrapper, leader election, streaming snapshots"
+2026-10-24T00:15:27.285366Z,flight-registry,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,Immutable kind-map and ordinal-table helpers for Flight registries
+2026-10-24T00:18:00.419531Z,argonauts-runner,0.1.0,0,0,https://github.com/sheng-tse/argonauts-code,"Runs a workflow: a file of steps or a script, in a sandboxed JavaScript engine that can only ask for agents."
+2026-10-24T00:18:13.478633Z,bauske-phonology,0.1.0,0,0,https://github.com/oxur/bauske,"Source-grounded Relojban phonology, articulatory features, and prosodic analysis."
+2026-10-24T00:18:15.415186Z,bauske-cli,0.1.0,0,0,https://github.com/oxur/bauske,"Command-line exploration of Relojban phonology, sound comparisons, and prosody."
