@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T17:19:47.608738Z,gc-mcp,0.1.0,0,0,https://gitcode.com/ghhhJoshrjnrhr/gc,gc 的 MCP 服务端：stdio JSON-RPC 传输、工具注册表（迁移到 rmcp SDK）
+2026-10-24T17:21:11.24148Z,craft-print,1.4.7,0,0,https://github.com/aphrody-labs/craft-libs,System PDF print spooler for the Craft apps: CUPS and Windows
+2026-10-24T17:25:27.697418Z,flight-scene3d,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Portable 3D scene documents and open node families
+2026-10-24T17:26:37.253686Z,disc-id,0.4.2,0,0,https://github.com/one-retro/one-saves,"Identify a CD/DVD disc image: which system it is for, and the serial printed on the disc"
+2026-10-24T17:26:37.916635Z,rom-id,0.4.2,0,0,https://github.com/one-retro/one-saves,"Identify a cartridge ROM dump: its system, its header, and the hardware on its cartridge"
+2026-10-24T17:27:57.736785Z,lockwire-web-client,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T17:29:03.732711Z,gc-pr,0.1.0,0,0,https://gitcode.com/ghhhJoshrjnrhr/gc,gc PR 域：PR 网页端 API 层（cherry-pick / revert / 审批 / 列表统计 / 评论）
+2026-10-24T17:31:38.877008Z,craft-quit,1.4.7,0,0,https://github.com/aphrody-labs/craft-libs,Quit a Craft app the platform's own way: on macOS through `-[NSApplication terminate:]`.
+2026-10-24T17:34:47.394224Z,fdap-login,0.1.1,0,0,https://github.com/andrewbaxter/fdap-login,A minimal login page backed by FDAP
+2026-10-24T17:35:27.004622Z,flight-shape,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Vector shape nodes: retained command streams, solid fill/stroke regions, bounds traversal, morph shapes and nine-slice command mapping"
+2026-10-24T17:38:02.669901Z,lockwire-web-server,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T17:38:43.613013Z,gc-cli,0.1.0,0,0,https://gitcode.com/ghhhJoshrjnrhr/gc,gc 命令行层：参数定义、子命令分发与人类可读输出
+2026-10-24T17:42:15.03085Z,craft-settings,1.4.7,0,0,https://github.com/aphrody-labs/craft-libs,"Shared settings storage for the Craft suite: platform folders, config.toml, atomic saves, recovery and migration"
+2026-10-24T17:43:47.91675Z,oxirush-gtp-u,0.1.0,0,0,https://github.com/linouxis9/oxirush-gtp-u,"GTP-U for 5G and LTE in Rust (3GPP TS 29.281, TS 38.415): a codec, a Tokio endpoint for the tunnels of a gNB or an eNB, a test UPF, Linux TUN devices and an eBPF fast path."
+2026-10-24T17:45:26.942817Z,flight-text,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Portable TextLabel, NativeText, and RichText display nodes"
+2026-10-24T17:45:57.130071Z,embedded-nats,1.0.0,0,0,https://github.com/S2outh/embedded-nats.git,embededded-nal-async based implementation of the NATS client protocol
+2026-10-24T17:48:08.138014Z,lockwire-webauthn,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T17:48:57.658283Z,gitcode-gc,0.1.0,0,0,https://gitcode.com/ghhhJoshrjnrhr/gc,GitCode (AtomGit) 命令行工具，类似 gh（提供 gc 命令）
+2026-10-24T17:49:17.197835Z,octane_http,0.1.0,0,0,,HTTP/1.x parsing and types for Octane.
+2026-10-24T17:51:27.931753Z,oxirush-sctp,0.1.0,0,0,https://github.com/linouxis9/oxirush-sctp,"Async SCTP for Tokio on the Linux kernel stack (RFC 6458): one-to-one and one-to-many sockets, multihoming, notifications, and batched sends and receives."
+2026-10-24T17:53:46.74933Z,litemcp-macros,0.1.0,0,0,https://github.com/DeamonDev888/litemcp,Macros procédurales de litemcp (#[tool]) — feature « macros » du crate litemcp.
+2026-10-24T17:55:27.808985Z,flight-timeline,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Timeline playback: sources, playheads, labels, frame scripts and lifecycle signals over canonical scene2d nodes"
+2026-10-24T17:56:41.056755Z,textifyopendocument,0.1.1,0,0,https://codeberg.org/jbrains/textifyopendocument,Fast OpenDocument to plain text converter for previews
+2026-10-24T17:58:12.684225Z,lockwire-wintun-ring,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T18:05:26.818088Z,flight-physics2d,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Portable 2D rigid-body dynamics: a sequential-impulse solver over the spatial broadphase and collision narrow phase
+2026-10-24T18:06:09.059023Z,excubia,0.0.1,0,0,https://github.com/maxiusofmaximus/excubia,"Name reservation for Excubia (placeholder, no code yet)"
+2026-10-24T18:07:48.948609Z,art_trpl_book,0.1.0,0,0,,Just an example of publishing Crate to Crates.io.
+2026-10-24T18:15:26.868295Z,flight-skeleton2d-formats,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Spine and DragonBones skeletal rig importers, probes, and caller-owned registries"
+2026-10-24T18:19:41.516812Z,simplex-trace,0.1.0,0,0,https://github.com/angelariasus/simplex-trace,"Exact-arithmetic simplex (primal, Big-M, two-phase) that records every tableau and pivot as data, with sensitivity analysis."
