@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T04:21:16.377197Z,async-geotiff,0.13.0,0,0,https://github.com/mapseekai/async-geotiff-rs,"Async COG → XYZ tile renderer (pure Rust, no GDAL)"
+2026-10-24T04:21:26.388445Z,aphrody-shell-session,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Transport-neutral shell session and engine traits (input bytes in, output bytes out) with a scripted fake engine."
+2026-10-24T04:25:26.700734Z,flight-share,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,Portable sharing commands over explicit host capabilities and caller-owned signal state
+2026-10-24T04:28:57.848794Z,fx-kit,0.1.0,0,0,https://github.com/WyattAu/fx-kit,"Currency revaluation per IAS 21 — exact rational rates, closing-rate restatement of monetary items, unrealized gain/loss with the posting split"
+2026-10-24T04:29:02.031886Z,safeimage,0.3.30,0,0,https://github.com/ThinkersJournal/SafeImage,"Known-image matching, evidence handling and report building for platforms that accept image uploads."
+2026-10-24T04:30:07.300687Z,inodex,0.1.2,0,0,,Native Rust forensic disk image and filesystem readers
+2026-10-24T04:31:45.231769Z,aphrody-shell-vfs,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Byte-path virtual filesystem trait, in-memory backend and shared conformance suite for the WASM shell."
+2026-10-24T04:32:27.276049Z,oxibrain-llama-runtime,0.21.1,0,0,https://github.com/a7garden/oxibrain,Shared process-wide llama.cpp runtime for oxibrain local adapters
+2026-10-24T04:33:31.633702Z,oxinfer,0.0.0,0,0,https://github.com/KarpelesLab/oxinfer,"Local LLM inference in pure Rust (Gemma 4, Qwen 3.5/3.8): SIMD CPU kernels everywhere, GPUs detected at run time, and a WebAssembly + WebGPU browser build."
+2026-10-24T04:35:27.348813Z,flight-statusbar,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Mobile status bar: snapshot, change signal, commands and a per-provider style stack over host capabilities"
+2026-10-24T04:35:59.923017Z,phi-canvas,0.1.0,0,0,https://github.com/hibuka-labs/phi-canvas,"Design canvas server for the phi family — local visual companion: screens, options, selection events"
+2026-10-24T04:36:01.802942Z,datasources-postgres,0.1.6,0,0,https://github.com/deterministic-code/datasources,Postgres datasource provider
+2026-10-24T04:36:07.542845Z,datasources-oracle,0.1.6,0,0,https://github.com/deterministic-code/datasources,oracle datasource stub
+2026-10-24T04:36:11.218494Z,datasources-mongodb,0.1.12,0,0,https://github.com/deterministic-code/datasources,mongodb datasource stub
+2026-10-24T04:36:14.891846Z,datasources-dynamodb,0.1.12,0,0,https://github.com/deterministic-code/datasources,dynamodb datasource stub
+2026-10-24T04:40:41.804406Z,collection-selection-confection,0.0.1,0,0,https://github.com/jeffparsons/collection-selection-confection,Exploring a new way to work with Rust collections
+2026-10-24T04:45:27.15976Z,flight-texture-formats,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,Dependency-free GPU texture container parsing and level layout
+2026-10-24T04:51:42.981519Z,libsmol-reaper,0.1.0,0,0,https://github.com/libsmol/smol,"Kills the process groups a process started, however it dies"
+2026-10-24T04:51:44.800647Z,libsmol,0.1.0,0,0,https://github.com/libsmol/smol,A CodeMode ACP agent that works by writing Python through a single eval tool
+2026-10-24T04:51:46.525031Z,libsmol-tui,0.1.0,0,0,https://github.com/libsmol/smol,"smol, the terminal client for libsmol and other ACP agents"
+2026-10-24T04:55:26.910312Z,flight-connectivity,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Connectivity status, change diff signals and reachability over host capabilities"
+2026-10-24T04:55:43.856328Z,group-kit,0.1.0,0,0,https://github.com/WyattAu/group-kit,"Multi-entity consolidation — intercompany matching that surfaces instead of guessing, eliminations that must cancel, same-currency first"
+2026-10-24T04:57:46.684431Z,a2f-core,0.1.0,0,0,https://github.com/neeboo/a2f-rs,"Backend-agnostic Audio2Face-3D runtime pieces: framing, emotion vectors, wav and npy IO"
+2026-10-24T04:57:48.062845Z,a2f-mlx,0.1.0,0,0,https://github.com/neeboo/a2f-rs,NVIDIA Audio2Face-3D (James) inference on Apple MLX via mlx-rs
+2026-10-24T04:57:48.7616Z,a2f-onnx,0.1.0,0,0,https://github.com/neeboo/a2f-rs,"NVIDIA Audio2Face-3D (James) inference on ONNX Runtime (ort, load-dynamic)"
+2026-10-24T04:57:51.316897Z,a2f-cli,0.1.0,0,0,https://github.com/neeboo/a2f-rs,Command-line runner and parity checker for Audio2Face-3D in Rust (MLX and ONNX)
+2026-10-24T04:58:01.363259Z,rustls-rustcrypto-azul,0.1.0,0,0,https://github.com/fschutt/rustls-rustcrypto-azul,Pure Rust cryptography provider for the Rustls TLS library using algorithm implementations from the RustCrypto organization (azul's fork of rustls-rustcrypto: the unreleased upstream master on the el…
+2026-10-24T05:02:52.082228Z,mc-unpack,0.1.0,0,0,https://github.com/patodois/mc-unpack,"Reader for the block and item models and textures in your own Minecraft Java Edition client jar, with a rewrite-bridge provider (unofficial, for Minecraft)"
+2026-10-24T05:05:27.635961Z,flight-shell,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,"Shell capability seam: external URL policy, trash, path open/reveal, shortcut links, beep and child processes routed through host providers"
+2026-10-24T05:05:58.810956Z,aphrody-nie-wasm,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Bindings WebAssembly pour le savoir nie vérifié : aphrody-nie-formats (detect/CRILAYLA/@UTF/G4*), aphrody-nie-core (stats growth + FSM de match) et aphrody-nie-data (lookup skill/aura/item) exposés a…"
+2026-10-24T05:06:20.572126Z,rpi-extcore,0.1.0,0,0,https://github.com/pi-rust/rpi-package,"Shared native RPC, session and workspace services for rpi extensions"
+2026-10-24T05:06:33.794693Z,rpi-http,0.1.0,0,0,https://github.com/pi-rust/rpi-package,HTTP and SSE protocol adapter for the shared rpi extension core
+2026-10-24T05:15:27.307656Z,flight-requirement-catalog,0.5.1-next.3236.44a3706,0,0,https://github.com/flighthq/flight,Caller-owned requirement catalog data and deterministic built-in ownership rows
+2026-10-24T05:16:25.615005Z,cadcraft-color,1.4.7,0,0,https://source.aphrody.app/aphrody-dev/bun-crate-cadcraft-color,"CADCraft colour: AutoCAD Color Index palette, true colour, ByLayer/ByBlock"

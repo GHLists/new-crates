@@ -8,37 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 04:19 UTC
+## Latest list — 2026-10-24 05:20 UTC
 
-New crates published between 2026-10-24 03:19 UTC and 2026-10-24 04:19 UTC.
+New crates published between 2026-10-24 04:19 UTC and 2026-10-24 05:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-24T04-19-30-742657Z.csv)
+[Full CSV](data/new-crates-2026-10-24T05-20-33-440071Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-24 03:25:26 | [flight-clock](https://crates.io/crates/flight-clock) | 0.5.1-next.3236.44a… | 0 | Hierarchical, pausable, scalable time primitive for time-driven systems |
-| 2026-10-24 03:26:04 | [statement-camt](https://crates.io/crates/statement-camt) | 0.1.0 | 0 | ISO 20022 CAMT.053 bank statement adapter producing recon-kit Statements — both… |
-| 2026-10-24 03:28:49 | [aphrody-nie-play](https://crates.io/crates/aphrody-nie-play) | 1.4.7 | 0 | Front-end HEADLESS/GOLDEN du jeu nie : exécute la machine à états de aphrody-ni… |
-| 2026-10-24 03:35:27 | [flight-keyboard](https://crates.io/crates/flight-keyboard) | 0.5.1-next.3236.44a… | 0 | Soft-keyboard signals and commands over explicit host capabilities |
-| 2026-10-24 03:38:48 | [aphrody-nie-render](https://crates.io/crates/aphrody-nie-render) | 1.4.7 | 0 | Façade de rendu nie: 2D, 3D CPU/GPU, GUI et WASM |
-| 2026-10-24 03:38:51 | [ferrum-diffusion](https://crates.io/crates/ferrum-diffusion) | 0.15.0 | 0 | Diffusion schedules and numerical contracts for Ferrum |
-| 2026-10-24 03:41:00 | [rgba2hex](https://crates.io/crates/rgba2hex) | 2.1.1 | 0 | A crate for converting rgb or rgba values to hex string representation. |
-| 2026-10-24 03:43:23 | [norm-adapter-engine](https://crates.io/crates/norm-adapter-engine) | 0.1.0 | 0 | Shared host-agnostic engine for norm-spec host adapters |
-| 2026-10-24 03:45:26 | [flight-mediasession](https://crates.io/crates/flight-mediasession) | 0.5.1-next.3236.44a… | 0 | OS media session: now-playing metadata, playback/position state commands and pe… |
-| 2026-10-24 03:48:52 | [aphrody-nie-tasks](https://crates.io/crates/aphrody-nie-tasks) | 1.4.7 | 0 | Cancelable, pausable asynchronous job orchestration with progress reporting. |
-| 2026-10-24 03:53:32 | [safegl](https://crates.io/crates/safegl) | 0.1.0 | 0 | Safe OpenGL bindings for Rust. |
-| 2026-10-24 03:55:27 | [flight-notification](https://crates.io/crates/flight-notification) | 0.5.1-next.3236.44a… | 0 | Notification delivery, scheduling, permission, subscription lifecycle and entit… |
-| 2026-10-24 03:59:19 | [aphrody-nie-ui](https://crates.io/crates/aphrody-nie-ui) | 1.0.1 | 0 | Source unique, typée, des jetons de design du jeu (couleurs OKLCH, géométrie, m… |
-| 2026-10-24 04:04:22 | [rahti-js](https://crates.io/crates/rahti-js) | 0.0.57 | 0 | Compiles the client code in Rahti templates ahead of time. Not used directly —… |
-| 2026-10-24 04:05:27 | [flight-power](https://crates.io/crates/flight-power) | 0.5.1-next.3236.44a… | 0 | Power status, keep-awake, battery health, thermal state and idle monitoring ove… |
-| 2026-10-24 04:10:24 | [preludio](https://crates.io/crates/preludio) | 0.0.1 | 0 | On-device radar nowcasting — Forecast the rain before it begins, right on your… |
-| 2026-10-24 04:10:53 | [tauri-plugin-vault](https://crates.io/crates/tauri-plugin-vault) | 0.1.0-alpha.1 | 0 | Tauri plugin that keeps a value signed by a key on the device, so an edit made… |
-| 2026-10-24 04:11:07 | [aphrody-rust](https://crates.io/crates/aphrody-rust) | 1.4.7 | 0 | PyO3 extension module aphrody.aphrody_rust of the aphrody Python SDK (abi3-py31… |
-| 2026-10-24 04:12:45 | [opentele2-browser](https://crates.io/crates/opentele2-browser) | 2.0.0 | 0 | Browser HTTP headers and fingerprints from Bayesian networks over the Apify fin… |
-| 2026-10-24 04:12:53 | [opentele2-core](https://crates.io/crates/opentele2-core) | 2.0.0 | 0 | Telegram client identity core: Telegram Desktop tdata, Telethon/mtcute/grammers… |
-| 2026-10-24 04:13:11 | [opentele2-versions](https://crates.io/crates/opentele2-versions) | 2.0.0 | 0 | Current official Telegram client versions and stable Chrome/Firefox versions, a… |
-| 2026-10-24 04:13:26 | [opentele2-grammers](https://crates.io/crates/opentele2-grammers) | 2.0.0 | 0 | grammers 0.11 bridge for opentele2: sessions and initConnection params from tda… |
-| 2026-10-24 04:15:26 | [flight-protocol](https://crates.io/crates/flight-protocol) | 0.5.1-next.3236.44a… | 0 | Custom protocol URL parsing, registration and open-event delivery over host cap… |
+| 2026-10-24 04:21:16 | [async-geotiff](https://crates.io/crates/async-geotiff) | 0.13.0 | 0 | Async COG → XYZ tile renderer (pure Rust, no GDAL) |
+| 2026-10-24 04:21:26 | [aphrody-shell-session](https://crates.io/crates/aphrody-shell-session) | 1.4.7 | 0 | Transport-neutral shell session and engine traits (input bytes in, output bytes… |
+| 2026-10-24 04:25:26 | [flight-share](https://crates.io/crates/flight-share) | 0.5.1-next.3236.44a… | 0 | Portable sharing commands over explicit host capabilities and caller-owned sign… |
+| 2026-10-24 04:28:57 | [fx-kit](https://crates.io/crates/fx-kit) | 0.1.0 | 0 | Currency revaluation per IAS 21 — exact rational rates, closing-rate restatemen… |
+| 2026-10-24 04:29:02 | [safeimage](https://crates.io/crates/safeimage) | 0.3.30 | 0 | Known-image matching, evidence handling and report building for platforms that… |
+| 2026-10-24 04:30:07 | [inodex](https://crates.io/crates/inodex) | 0.1.2 | 0 | Native Rust forensic disk image and filesystem readers |
+| 2026-10-24 04:31:45 | [aphrody-shell-vfs](https://crates.io/crates/aphrody-shell-vfs) | 1.4.7 | 0 | Byte-path virtual filesystem trait, in-memory backend and shared conformance su… |
+| 2026-10-24 04:32:27 | [oxibrain-llama-runtime](https://crates.io/crates/oxibrain-llama-runtime) | 0.21.1 | 0 | Shared process-wide llama.cpp runtime for oxibrain local adapters |
+| 2026-10-24 04:33:31 | [oxinfer](https://crates.io/crates/oxinfer) | 0.0.0 | 0 | Local LLM inference in pure Rust (Gemma 4, Qwen 3.5/3.8): SIMD CPU kernels ever… |
+| 2026-10-24 04:35:27 | [flight-statusbar](https://crates.io/crates/flight-statusbar) | 0.5.1-next.3236.44a… | 0 | Mobile status bar: snapshot, change signal, commands and a per-provider style s… |
+| 2026-10-24 04:35:59 | [phi-canvas](https://crates.io/crates/phi-canvas) | 0.1.0 | 0 | Design canvas server for the phi family — local visual companion: screens, opti… |
+| 2026-10-24 04:36:01 | [datasources-postgres](https://crates.io/crates/datasources-postgres) | 0.1.6 | 0 | Postgres datasource provider |
+| 2026-10-24 04:36:07 | [datasources-oracle](https://crates.io/crates/datasources-oracle) | 0.1.6 | 0 | oracle datasource stub |
+| 2026-10-24 04:36:11 | [datasources-mongodb](https://crates.io/crates/datasources-mongodb) | 0.1.12 | 0 | mongodb datasource stub |
+| 2026-10-24 04:36:14 | [datasources-dynamodb](https://crates.io/crates/datasources-dynamodb) | 0.1.12 | 0 | dynamodb datasource stub |
+| 2026-10-24 04:40:41 | [collection-selection-confection](https://crates.io/crates/collection-selection-confection) | 0.0.1 | 0 | Exploring a new way to work with Rust collections |
+| 2026-10-24 04:45:27 | [flight-texture-formats](https://crates.io/crates/flight-texture-formats) | 0.5.1-next.3236.44a… | 0 | Dependency-free GPU texture container parsing and level layout |
+| 2026-10-24 04:51:42 | [libsmol-reaper](https://crates.io/crates/libsmol-reaper) | 0.1.0 | 0 | Kills the process groups a process started, however it dies |
+| 2026-10-24 04:51:44 | [libsmol](https://crates.io/crates/libsmol) | 0.1.0 | 0 | A CodeMode ACP agent that works by writing Python through a single eval tool |
+| 2026-10-24 04:51:46 | [libsmol-tui](https://crates.io/crates/libsmol-tui) | 0.1.0 | 0 | smol, the terminal client for libsmol and other ACP agents |
+| 2026-10-24 04:55:26 | [flight-connectivity](https://crates.io/crates/flight-connectivity) | 0.5.1-next.3236.44a… | 0 | Connectivity status, change diff signals and reachability over host capabilities |
+| 2026-10-24 04:55:43 | [group-kit](https://crates.io/crates/group-kit) | 0.1.0 | 0 | Multi-entity consolidation — intercompany matching that surfaces instead of gue… |
+| 2026-10-24 04:57:46 | [a2f-core](https://crates.io/crates/a2f-core) | 0.1.0 | 0 | Backend-agnostic Audio2Face-3D runtime pieces: framing, emotion vectors, wav an… |
+| 2026-10-24 04:57:48 | [a2f-mlx](https://crates.io/crates/a2f-mlx) | 0.1.0 | 0 | NVIDIA Audio2Face-3D (James) inference on Apple MLX via mlx-rs |
+| 2026-10-24 04:57:48 | [a2f-onnx](https://crates.io/crates/a2f-onnx) | 0.1.0 | 0 | NVIDIA Audio2Face-3D (James) inference on ONNX Runtime (ort, load-dynamic) |
+| 2026-10-24 04:57:51 | [a2f-cli](https://crates.io/crates/a2f-cli) | 0.1.0 | 0 | Command-line runner and parity checker for Audio2Face-3D in Rust (MLX and ONNX) |
+| 2026-10-24 04:58:01 | [rustls-rustcrypto-azul](https://crates.io/crates/rustls-rustcrypto-azul) | 0.1.0 | 0 | Pure Rust cryptography provider for the Rustls TLS library using algorithm impl… |
+| 2026-10-24 05:02:52 | [mc-unpack](https://crates.io/crates/mc-unpack) | 0.1.0 | 0 | Reader for the block and item models and textures in your own Minecraft Java Ed… |
+| 2026-10-24 05:05:27 | [flight-shell](https://crates.io/crates/flight-shell) | 0.5.1-next.3236.44a… | 0 | Shell capability seam: external URL policy, trash, path open/reveal, shortcut l… |
+| 2026-10-24 05:05:58 | [aphrody-nie-wasm](https://crates.io/crates/aphrody-nie-wasm) | 1.4.7 | 0 | Bindings WebAssembly pour le savoir nie vérifié : aphrody-nie-formats (detect/C… |
+| 2026-10-24 05:06:20 | [rpi-extcore](https://crates.io/crates/rpi-extcore) | 0.1.0 | 0 | Shared native RPC, session and workspace services for rpi extensions |
+| 2026-10-24 05:06:33 | [rpi-http](https://crates.io/crates/rpi-http) | 0.1.0 | 0 | HTTP and SSE protocol adapter for the shared rpi extension core |
+| 2026-10-24 05:15:27 | [flight-requirement-catalog](https://crates.io/crates/flight-requirement-catalog) | 0.5.1-next.3236.44a… | 0 | Caller-owned requirement catalog data and deterministic built-in ownership rows |
+| 2026-10-24 05:16:25 | [cadcraft-color](https://crates.io/crates/cadcraft-color) | 1.4.7 | 0 | CADCraft colour: AutoCAD Color Index palette, true colour, ByLayer/ByBlock |
 
 ## Data source
 
