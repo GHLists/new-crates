@@ -1,0 +1,57 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T14:19:53.569346Z,vjuu,0.3.2,0,0,https://github.com/kimvais/vjuu,"Fast review window for AI-agent handoffs: markdown, diffs and code with inline comments."
+2026-10-24T14:24:32.410509Z,flight-path-formats,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Path serialization codecs for flight-path (SVG path data)
+2026-10-24T14:24:36.312378Z,flight-camera-controls,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Stateful camera controllers: orbit and fly intents with damping, 2D follow, sphere framing, and deterministic trauma-based shake"
+2026-10-24T14:24:39.03082Z,jmap-chat-mimi-server,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP Chat MIMI provider server rules (draft-atwood-jmap-chat-mimi-00 KeyPackage, KeyMaterial, Room and GroupInfo methods) — backend-agnostic, plugs into jmap-server Dispatcher"
+2026-10-24T14:24:40.301286Z,flight-assets,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Open asset registry and reference-counted loading over the canonical scheduler
+2026-10-24T14:24:44.437103Z,flight-adjustments,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Color adjustment math: color matrices, brightness, contrast, hue, saturation, LUT, grading"
+2026-10-24T14:24:48.401185Z,flight-bitmap,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Software bitmap operations: pixel manipulation, filters, compositing, transforms, and image analysis"
+2026-10-24T14:25:26.674431Z,flight-shading,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Composable shading modifier descriptors, registries, ordering, and define keys"
+2026-10-24T14:25:46.008935Z,bamboo-orchestration,2026.10.16,0,0,,Bounded host-authorized Ready Work orchestration over the canonical Ticket ledger
+2026-10-24T14:26:17.07056Z,lockwire-reachability,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T14:34:27.786066Z,leptoskit_plugin_speech,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"Bounded, cancellable text-to-speech for LeptosKit applications."
+2026-10-24T14:34:31.363137Z,leptoskit_plugin_sqlite,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"Bounded, application-private SQLite databases for LeptosKit."
+2026-10-24T14:34:45.562709Z,jmap-chat-tasks-server,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"Chat binding for the JMAP Tasks server (draft-atwood-jmap-chat-tasks-00): Space taskListId binding, auto-bind on create, Task chatId rules, and destroy cascades"
+2026-10-24T14:35:27.862964Z,flight-surface,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Drawable surface entity: opaque host handle on the private runtime, canvas context seam and display/resize capabilities"
+2026-10-24T14:36:21.539314Z,lockwire-rig,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T14:42:05.818822Z,florn-abi,0.1.0,0,0,https://github.com/nabbisen/florn,"Canonical ABI lifting and lowering of the type subset of RFC 002 §2, shared by both engine adapters. The one place besides the adapters where `unsafe` may appear, with the invariant stated at each use"
+2026-10-24T14:42:06.665835Z,florn-guest,0.1.0,0,0,https://github.com/nabbisen/florn,"The guest SDK (RFC 002 section 8): bindings, the manifest declaration, distributions, telemetry encoders, profiles"
+2026-10-24T14:42:07.722403Z,florn-kernel,0.1.0,0,0,https://github.com/nabbisen/florn,"Time, queue, order, activation, effects, trace, digest, replay (RFC 001; RFC 005 section 5)"
+2026-10-24T14:42:08.565353Z,florn-model,0.1.0,0,0,https://github.com/nabbisen/florn,"Manifest, package, canonical encoding, scenario hash, validation (RFC 004)"
+2026-10-24T14:42:09.41855Z,florn-platform,0.1.0,0,0,https://github.com/nabbisen/florn,The platform adapter trait
+2026-10-24T14:43:15.326837Z,agentlink,0.6.3,0,0,https://github.com/weifengchui/AgentLink,AgentLink core - LAN message bus transport (open source)
+2026-10-24T14:44:52.174441Z,jmap-chat-vtc-server,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"Chat binding for the JMAP VTC server (draft-atwood-jmap-vtc-00 with draft-atwood-jmap-chat-00): Chat.activeCallId, chatId membership, start_call, Space cascades and contact blocks"
+2026-10-24T14:45:27.663842Z,flight-dialog,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Host-explicit open/save file, message, confirm, prompt and media dialog operations"
+2026-10-24T14:46:26.135603Z,lockwire-rig-app,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T14:50:40.186283Z,deployraft,0.1.0,0,0,https://github.com/Synframe-Labs/deployraft,SSH deployments
+2026-10-24T14:54:37.488328Z,leptoskit_plugin_store,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"Bounded, transactional application settings for LeptosKit."
+2026-10-24T14:54:40.810117Z,leptoskit_plugin_store_review,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Owned-window store review requests for LeptosKit.
+2026-10-24T14:54:58.459901Z,jmap-graph-projection-server,0.4.0,0,0,https://github.com/MarkAtwood/crate-jmap,"Mail and Contacts binding for the JMAP Graph server (draft-atwood-jmap-graph-projection-00): projected nodes and edges, objectUri filter, visibility by native rights"
+2026-10-24T14:55:26.94955Z,flight-font-formats,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Pure CFF, OpenType, WOFF and WOFF2 font codecs"
+2026-10-24T14:56:13.953793Z,liblup,0.3.0,0,0,https://github.com/NavistAu/lup,Walk up the directory hierarchy looking for a path.
+2026-10-24T14:56:26.249893Z,lup-cli,0.3.0,0,0,https://github.com/NavistAu/lup,"lup: walk up the directory hierarchy looking for a path, from the shell."
+2026-10-24T14:56:30.997486Z,lockwire-saddle,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T14:56:34.93703Z,callgraph-verify,0.1.0,0,0,https://github.com/stackmator/callgraph-verify-macro,"Pure-byte x86 call-graph verifier for reverse-engineering rebuilds — disassembles the target PE/LE at build time, no decompiler input"
+2026-10-24T14:56:45.654949Z,callgraph-verify-macro,0.1.0,0,0,https://github.com/stackmator/callgraph-verify-macro,`#[origin]` compile-time call-graph gate: fails the build when a rebuild function calls what the binary never calls
+2026-10-24T14:57:35.284681Z,selx,0.1.0,0,0,https://github.com/hungryhorace/selx,selx: editor selection bridge for terminal AI agents
+2026-10-24T14:58:18.235801Z,iced_code,0.1.0,0,0,https://github.com/matt-baech/iced_code,"A code editor widget for Iced, with line numbers, undo/redo, find and replace, and code-editing shortcuts"
+2026-10-24T14:58:36.947541Z,iced_grid,0.1.0,0,0,https://github.com/matt-baech/iced_grid,"A fast, virtualized data grid widget for Iced, with cell selection, copy and resizable columns"
+2026-10-24T14:59:03.143038Z,querydeck,0.1.0,0,0,https://github.com/matt-baech/querydeck,Lightweight desktop SQL client for SQL Server and PostgreSQL
+2026-10-24T15:00:31.192226Z,structured-pades,0.15.0,0,0,https://github.com/structured-world/signature-primitives,Original-source PDF signatures and provider-neutral PAdES baseline validation
+2026-10-24T15:01:46.699654Z,structured-asic,0.15.0,0,0,https://github.com/structured-world/signature-primitives,Original-range ASiC containers and source-bound signature profile composition
+2026-10-24T15:02:03.15503Z,wirewolf-core,0.1.0,0,0,https://github.com/joshka/wirewolf,"Core types, diagnosis engine, and state hub for wirewolf."
+2026-10-24T15:02:21.133474Z,wirewolf-probe,0.1.0,0,0,https://github.com/joshka/wirewolf,"Network probes, speed tests, and history storage for wirewolf."
+2026-10-24T15:02:26.834946Z,wirewolf-tui,0.1.0,0,0,https://github.com/joshka/wirewolf,Terminal UI client for wirewolf.
+2026-10-24T15:02:41.657453Z,wirewolf-web,0.1.0,0,0,https://github.com/joshka/wirewolf,Web API and dashboard for wirewolf.
+2026-10-24T15:02:53.884614Z,wirewolf-cli,0.1.0,0,0,https://github.com/joshka/wirewolf,Command line interface for wirewolf.
+2026-10-24T15:03:10.788098Z,bevy_macos_open_files,0.20.1,0,0,https://github.com/rterheide/bevy_macos_open_files,"Receive the files and URLs that macOS asks a Bevy app to open (Finder, Open With, the Dock, custom URL schemes) as Bevy messages."
+2026-10-24T15:05:26.908541Z,flight-textshaper,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Text-shaping seam: measure and shape text into advances and glyph runs over an explicit host shaper
+2026-10-24T15:06:35.80876Z,lockwire-saddle-core,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.
+2026-10-24T15:06:49.613603Z,rust-airplay,0.2.0,0,0,https://github.com/rust-airplay/rust-airplay,"A library for building AirPlay 1 and AirPlay 2 receivers: the protocol, the media sessions and the renderer boundary"
+2026-10-24T15:07:45.776807Z,rust-airplay-gstream,0.2.0,0,0,https://github.com/rust-airplay/rust-airplay-gstream,GStreamer backend for the rust-airplay receiver: decodes the coded frames the library hands over and plays them
+2026-10-24T15:09:56.068285Z,wirewolf,0.1.0,0,0,https://github.com/joshka/wirewolf,"Network diagnostics you can point a browser at: where the path breaks, how bad, since when."
+2026-10-24T15:15:23.909588Z,leptoskit_plugin_tracking_transparency,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Explicit iOS App Tracking Transparency authorization for LeptosKit.
+2026-10-24T15:15:27.213329Z,flight-node,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Scene node graph: D16 node fields/feature groups, private runtime tiers, hierarchy, traversal, transforms and revision in"
+2026-10-24T15:15:27.344585Z,leptoskit_plugin_tray,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,Explicitly owned native desktop tray icons and bounded events for LeptosKit.
+2026-10-24T15:16:15.107703Z,surfacekit,0.1.0,0,0,https://github.com/arclabs561/surfacekit,Surface-neutral observation and evidence packets for agentic testing.
+2026-10-24T15:16:40.800459Z,lockwire-secret,0.0.0,0,0,https://github.com/lockwire-org/lockwire,Reserved for the LockWire framework (lockwire.org); the crate is published from the framework's release.

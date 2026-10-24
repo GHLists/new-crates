@@ -8,57 +8,70 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 14:19 UTC
+## Latest list — 2026-10-24 15:22 UTC
 
-New crates published between 2026-10-24 13:20 UTC and 2026-10-24 14:19 UTC.
+New crates published between 2026-10-24 14:19 UTC and 2026-10-24 15:22 UTC.
 
-[Full CSV](data/new-crates-2026-10-24T14-19-16-003105Z.csv)
+[Full CSV](data/new-crates-2026-10-24T15-22-22-189879Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-24 13:21:51 | [nova-core357_11](https://crates.io/crates/nova-core357_11) | 0.3.0 | 0 | Library, metadata, queue and playback engine for Nova |
-| 2026-10-24 13:22:31 | [cosmos-rs](https://crates.io/crates/cosmos-rs) | 0.1.0 | 0 | COSMOS: learning as gauge dynamics on the Grassmannian — reference implementati… |
-| 2026-10-24 13:23:27 | [strata-platform](https://crates.io/crates/strata-platform) | 2027.0.0-alpha.1 | 0 | Strata 2027: the Oxide Pictures Alliance reference platform for pure-Rust VFX a… |
-| 2026-10-24 13:23:38 | [jmap-scene-vtc-server](https://crates.io/crates/jmap-scene-vtc-server) | 0.4.0 | 0 | VTC binding for the JMAP Scene server (draft-atwood-jmap-scene-00 with draft-at… |
-| 2026-10-24 13:23:52 | [seki-core](https://crates.io/crates/seki-core) | 0.1.20 | 0 | seki-core — typed config + segment rendering engine |
-| 2026-10-24 13:23:54 | [seki-modules](https://crates.io/crates/seki-modules) | 0.1.20 | 0 | seki-modules — typed Module impls for each shipped segment |
-| 2026-10-24 13:25:50 | [lockwire-oidc-server](https://crates.io/crates/lockwire-oidc-server) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
-| 2026-10-24 13:25:52 | [nova-app](https://crates.io/crates/nova-app) | 0.3.0 | 0 | Desktop music player for Nova (egui/eframe) |
-| 2026-10-24 13:27:40 | [craft-ui](https://crates.io/crates/craft-ui) | 1.4.7 | 0 | Reusable egui controls and icon catalogs for Craft frontends |
-| 2026-10-24 13:30:47 | [adbw](https://crates.io/crates/adbw) | 0.1.0 | 0 | Minimal CLI to connect to Android devices over wireless ADB |
-| 2026-10-24 13:34:01 | [jmap-vtc-client](https://crates.io/crates/jmap-vtc-client) | 0.4.0 | 0 | JMAP VTC HTTP client (draft-atwood-jmap-vtc-00) — extension trait over jmap-bas… |
-| 2026-10-24 13:35:54 | [lockwire-ops](https://crates.io/crates/lockwire-ops) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
-| 2026-10-24 13:39:11 | [tower-ten](https://crates.io/crates/tower-ten) | 0.1.1 | 0 | Adaptive concurrency limiter middleware for tower |
-| 2026-10-24 13:40:46 | [cadcraft-ui-egui](https://crates.io/crates/cadcraft-ui-egui) | 1.4.7 | 0 | CADCraft user interface (egui): the swappable front end |
-| 2026-10-24 13:44:08 | [jmap-chat-calendars-server](https://crates.io/crates/jmap-chat-calendars-server) | 0.4.0 | 0 | Chat binding for the JMAP Calendars server (draft-atwood-jmap-chat-calendars-00… |
-| 2026-10-24 13:45:59 | [lockwire-otp](https://crates.io/crates/lockwire-otp) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
-| 2026-10-24 13:46:03 | [sheetkit-zip](https://crates.io/crates/sheetkit-zip) | 1.0.0 | 0 | Library to support the reading and writing of zip files. |
-| 2026-10-24 13:47:31 | [kdpika-licensing](https://crates.io/crates/kdpika-licensing) | 0.1.0 | 0 | Official KDPika Licensing client: signed activation, validation and bounded off… |
-| 2026-10-24 13:51:07 | [craft-atomic](https://crates.io/crates/craft-atomic) | 1.4.7 | 0 | Crash-safe atomic file writing and replacement for the Craft suite |
-| 2026-10-24 13:54:15 | [jmap-chat-federation-server](https://crates.io/crates/jmap-chat-federation-server) | 0.4.0 | 0 | JMAP Chat federation server rules (draft-atwood-jmap-chat-federation-00): peer-… |
-| 2026-10-24 13:54:35 | [leptoskit_plugin_screen_capture](https://crates.io/crates/leptoskit_plugin_screen_capture) | 0.0.0 | 0 | Window-scoped capture prevention and native capture observation for LeptosKit. |
-| 2026-10-24 13:54:38 | [leptoskit_plugin_screen_orientation](https://crates.io/crates/leptoskit_plugin_screen_orientation) | 0.0.0 | 0 | Scoped activity and scene orientation requests for LeptosKit. |
-| 2026-10-24 13:54:41 | [leptoskit_plugin_secure_store](https://crates.io/crates/leptoskit_plugin_secure_store) | 0.0.0 | 0 | Small secrets in platform credential stores for LeptosKit. |
-| 2026-10-24 13:54:44 | [leptoskit_plugin_sharing](https://crates.io/crates/leptoskit_plugin_sharing) | 0.0.0 | 0 | Bounded text and web URL sharing through user-selected native share UI. |
-| 2026-10-24 13:54:48 | [revault_migrate_v4](https://crates.io/crates/revault_migrate_v4) | 0.1.0 | 0 | Isolated migration exporter for reVault archive/container format 4 |
-| 2026-10-24 13:56:03 | [lockwire-pki](https://crates.io/crates/lockwire-pki) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
-| 2026-10-24 13:56:42 | [batter](https://crates.io/crates/batter) | 0.1.0 | 0 | A small macOS CLI for Apple's private PowerUI charging controls |
-| 2026-10-24 14:00:21 | [velox-protocol](https://crates.io/crates/velox-protocol) | 0.2.0 | 0 | The velox plugin wire protocol: serializable types only. |
-| 2026-10-24 14:00:23 | [velox-plugin](https://crates.io/crates/velox-plugin) | 0.2.0 | 0 | The wire Plugin trait and the call plumbing around it (Rust only). |
-| 2026-10-24 14:00:25 | [velox-sdk](https://crates.io/crates/velox-sdk) | 0.2.0 | 0 | Plugin SDK for velox: the typed author API over the wire Plugin trait. |
-| 2026-10-24 14:00:28 | [http_ext](https://crates.io/crates/http_ext) | 1.0.0 | 0 | Extensions to provide useful utilities for http crate |
-| 2026-10-24 14:04:21 | [jmap-chat-filenode-server](https://crates.io/crates/jmap-chat-filenode-server) | 0.4.0 | 0 | Chat binding for the JMAP FileNode server (draft-atwood-jmap-chat-filenode-00):… |
-| 2026-10-24 14:06:07 | [lockwire-provenance](https://crates.io/crates/lockwire-provenance) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
-| 2026-10-24 14:08:11 | [slain-rt](https://crates.io/crates/slain-rt) | 0.1.0 | 0 | SLAIN's own runtime: thread pool with helping waits, parallel splitters, wavefr… |
-| 2026-10-24 14:08:29 | [slain-num](https://crates.io/crates/slain-num) | 0.1.0 | 0 | SLAIN's own numeric crate: dense matrices, least squares, polynomials, FFT, con… |
-| 2026-10-24 14:09:24 | [slain-av1](https://crates.io/crates/slain-av1) | 0.1.0 | 0 | Clean-room, GPL-free, pure-Rust AV1 software decoder. From-spec implementation… |
-| 2026-10-24 14:09:59 | [shft](https://crates.io/crates/shft) | 0.1.0 | 0 | Fast, offline, safe-by-default image conversion and optimization |
-| 2026-10-24 14:14:30 | [jmap-chat-mimi-client](https://crates.io/crates/jmap-chat-mimi-client) | 0.4.0 | 0 | JMAP Chat MIMI provider client (draft-atwood-jmap-chat-mimi-00 KeyPackage/*, Ke… |
-| 2026-10-24 14:14:31 | [leptoskit_plugin_shell](https://crates.io/crates/leptoskit_plugin_shell) | 0.0.0 | 0 | Scoped, bounded, cancellable desktop child processes for LeptosKit. |
-| 2026-10-24 14:14:35 | [leptoskit_plugin_single_instance](https://crates.io/crates/leptoskit_plugin_single_instance) | 0.0.0 | 0 | Explicit process-lifetime desktop instance locks for LeptosKit. |
-| 2026-10-24 14:16:12 | [lockwire-qr](https://crates.io/crates/lockwire-qr) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
-| 2026-10-24 14:16:21 | [apisip](https://crates.io/crates/apisip) | 0.1.0 | 0 | Point it at an OpenAPI spec, get JSONL or Parquet files: API ingestion in one b… |
-| 2026-10-24 14:18:58 | [heavy](https://crates.io/crates/heavy) | 0.1.0 | 0 | A machine-wide counting semaphore for heavy commands: N slots shared by every c… |
+| 2026-10-24 14:19:53 | [vjuu](https://crates.io/crates/vjuu) | 0.3.2 | 0 | Fast review window for AI-agent handoffs: markdown, diffs and code with inline… |
+| 2026-10-24 14:24:32 | [flight-path-formats](https://crates.io/crates/flight-path-formats) | 0.5.1-next.3241.169… | 0 | Path serialization codecs for flight-path (SVG path data) |
+| 2026-10-24 14:24:36 | [flight-camera-controls](https://crates.io/crates/flight-camera-controls) | 0.5.1-next.3241.169… | 0 | Stateful camera controllers: orbit and fly intents with damping, 2D follow, sph… |
+| 2026-10-24 14:24:39 | [jmap-chat-mimi-server](https://crates.io/crates/jmap-chat-mimi-server) | 0.4.0 | 0 | JMAP Chat MIMI provider server rules (draft-atwood-jmap-chat-mimi-00 KeyPackage… |
+| 2026-10-24 14:24:40 | [flight-assets](https://crates.io/crates/flight-assets) | 0.5.1-next.3241.169… | 0 | Open asset registry and reference-counted loading over the canonical scheduler |
+| 2026-10-24 14:24:44 | [flight-adjustments](https://crates.io/crates/flight-adjustments) | 0.5.1-next.3241.169… | 0 | Color adjustment math: color matrices, brightness, contrast, hue, saturation, L… |
+| 2026-10-24 14:24:48 | [flight-bitmap](https://crates.io/crates/flight-bitmap) | 0.5.1-next.3241.169… | 0 | Software bitmap operations: pixel manipulation, filters, compositing, transform… |
+| 2026-10-24 14:25:26 | [flight-shading](https://crates.io/crates/flight-shading) | 0.5.1-next.3241.169… | 0 | Composable shading modifier descriptors, registries, ordering, and define keys |
+| 2026-10-24 14:25:46 | [bamboo-orchestration](https://crates.io/crates/bamboo-orchestration) | 2026.10.16 | 0 | Bounded host-authorized Ready Work orchestration over the canonical Ticket ledg… |
+| 2026-10-24 14:26:17 | [lockwire-reachability](https://crates.io/crates/lockwire-reachability) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
+| 2026-10-24 14:34:27 | [leptoskit_plugin_speech](https://crates.io/crates/leptoskit_plugin_speech) | 0.0.0 | 0 | Bounded, cancellable text-to-speech for LeptosKit applications. |
+| 2026-10-24 14:34:31 | [leptoskit_plugin_sqlite](https://crates.io/crates/leptoskit_plugin_sqlite) | 0.0.0 | 0 | Bounded, application-private SQLite databases for LeptosKit. |
+| 2026-10-24 14:34:45 | [jmap-chat-tasks-server](https://crates.io/crates/jmap-chat-tasks-server) | 0.4.0 | 0 | Chat binding for the JMAP Tasks server (draft-atwood-jmap-chat-tasks-00): Space… |
+| 2026-10-24 14:35:27 | [flight-surface](https://crates.io/crates/flight-surface) | 0.5.1-next.3241.169… | 0 | Drawable surface entity: opaque host handle on the private runtime, canvas cont… |
+| 2026-10-24 14:36:21 | [lockwire-rig](https://crates.io/crates/lockwire-rig) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
+| 2026-10-24 14:42:05 | [florn-abi](https://crates.io/crates/florn-abi) | 0.1.0 | 0 | Canonical ABI lifting and lowering of the type subset of RFC 002 §2, shared by… |
+| 2026-10-24 14:42:06 | [florn-guest](https://crates.io/crates/florn-guest) | 0.1.0 | 0 | The guest SDK (RFC 002 section 8): bindings, the manifest declaration, distribu… |
+| 2026-10-24 14:42:07 | [florn-kernel](https://crates.io/crates/florn-kernel) | 0.1.0 | 0 | Time, queue, order, activation, effects, trace, digest, replay (RFC 001; RFC 00… |
+| 2026-10-24 14:42:08 | [florn-model](https://crates.io/crates/florn-model) | 0.1.0 | 0 | Manifest, package, canonical encoding, scenario hash, validation (RFC 004) |
+| 2026-10-24 14:42:09 | [florn-platform](https://crates.io/crates/florn-platform) | 0.1.0 | 0 | The platform adapter trait |
+| 2026-10-24 14:43:15 | [agentlink](https://crates.io/crates/agentlink) | 0.6.3 | 0 | AgentLink core - LAN message bus transport (open source) |
+| 2026-10-24 14:44:52 | [jmap-chat-vtc-server](https://crates.io/crates/jmap-chat-vtc-server) | 0.4.0 | 0 | Chat binding for the JMAP VTC server (draft-atwood-jmap-vtc-00 with draft-atwoo… |
+| 2026-10-24 14:45:27 | [flight-dialog](https://crates.io/crates/flight-dialog) | 0.5.1-next.3241.169… | 0 | Host-explicit open/save file, message, confirm, prompt and media dialog operati… |
+| 2026-10-24 14:46:26 | [lockwire-rig-app](https://crates.io/crates/lockwire-rig-app) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
+| 2026-10-24 14:50:40 | [deployraft](https://crates.io/crates/deployraft) | 0.1.0 | 0 | SSH deployments |
+| 2026-10-24 14:54:37 | [leptoskit_plugin_store](https://crates.io/crates/leptoskit_plugin_store) | 0.0.0 | 0 | Bounded, transactional application settings for LeptosKit. |
+| 2026-10-24 14:54:40 | [leptoskit_plugin_store_review](https://crates.io/crates/leptoskit_plugin_store_review) | 0.0.0 | 0 | Owned-window store review requests for LeptosKit. |
+| 2026-10-24 14:54:58 | [jmap-graph-projection-server](https://crates.io/crates/jmap-graph-projection-server) | 0.4.0 | 0 | Mail and Contacts binding for the JMAP Graph server (draft-atwood-jmap-graph-pr… |
+| 2026-10-24 14:55:26 | [flight-font-formats](https://crates.io/crates/flight-font-formats) | 0.5.1-next.3241.169… | 0 | Pure CFF, OpenType, WOFF and WOFF2 font codecs |
+| 2026-10-24 14:56:13 | [liblup](https://crates.io/crates/liblup) | 0.3.0 | 0 | Walk up the directory hierarchy looking for a path. |
+| 2026-10-24 14:56:26 | [lup-cli](https://crates.io/crates/lup-cli) | 0.3.0 | 0 | lup: walk up the directory hierarchy looking for a path, from the shell. |
+| 2026-10-24 14:56:30 | [lockwire-saddle](https://crates.io/crates/lockwire-saddle) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
+| 2026-10-24 14:56:34 | [callgraph-verify](https://crates.io/crates/callgraph-verify) | 0.1.0 | 0 | Pure-byte x86 call-graph verifier for reverse-engineering rebuilds — disassembl… |
+| 2026-10-24 14:56:45 | [callgraph-verify-macro](https://crates.io/crates/callgraph-verify-macro) | 0.1.0 | 0 | `#[origin]` compile-time call-graph gate: fails the build when a rebuild functi… |
+| 2026-10-24 14:57:35 | [selx](https://crates.io/crates/selx) | 0.1.0 | 0 | selx: editor selection bridge for terminal AI agents |
+| 2026-10-24 14:58:18 | [iced_code](https://crates.io/crates/iced_code) | 0.1.0 | 0 | A code editor widget for Iced, with line numbers, undo/redo, find and replace,… |
+| 2026-10-24 14:58:36 | [iced_grid](https://crates.io/crates/iced_grid) | 0.1.0 | 0 | A fast, virtualized data grid widget for Iced, with cell selection, copy and re… |
+| 2026-10-24 14:59:03 | [querydeck](https://crates.io/crates/querydeck) | 0.1.0 | 0 | Lightweight desktop SQL client for SQL Server and PostgreSQL |
+| 2026-10-24 15:00:31 | [structured-pades](https://crates.io/crates/structured-pades) | 0.15.0 | 0 | Original-source PDF signatures and provider-neutral PAdES baseline validation |
+| 2026-10-24 15:01:46 | [structured-asic](https://crates.io/crates/structured-asic) | 0.15.0 | 0 | Original-range ASiC containers and source-bound signature profile composition |
+| 2026-10-24 15:02:03 | [wirewolf-core](https://crates.io/crates/wirewolf-core) | 0.1.0 | 0 | Core types, diagnosis engine, and state hub for wirewolf. |
+| 2026-10-24 15:02:21 | [wirewolf-probe](https://crates.io/crates/wirewolf-probe) | 0.1.0 | 0 | Network probes, speed tests, and history storage for wirewolf. |
+| 2026-10-24 15:02:26 | [wirewolf-tui](https://crates.io/crates/wirewolf-tui) | 0.1.0 | 0 | Terminal UI client for wirewolf. |
+| 2026-10-24 15:02:41 | [wirewolf-web](https://crates.io/crates/wirewolf-web) | 0.1.0 | 0 | Web API and dashboard for wirewolf. |
+| 2026-10-24 15:02:53 | [wirewolf-cli](https://crates.io/crates/wirewolf-cli) | 0.1.0 | 0 | Command line interface for wirewolf. |
+| 2026-10-24 15:03:10 | [bevy_macos_open_files](https://crates.io/crates/bevy_macos_open_files) | 0.20.1 | 0 | Receive the files and URLs that macOS asks a Bevy app to open (Finder, Open Wit… |
+| 2026-10-24 15:05:26 | [flight-textshaper](https://crates.io/crates/flight-textshaper) | 0.5.1-next.3241.169… | 0 | Text-shaping seam: measure and shape text into advances and glyph runs over an… |
+| 2026-10-24 15:06:35 | [lockwire-saddle-core](https://crates.io/crates/lockwire-saddle-core) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
+| 2026-10-24 15:06:49 | [rust-airplay](https://crates.io/crates/rust-airplay) | 0.2.0 | 0 | A library for building AirPlay 1 and AirPlay 2 receivers: the protocol, the med… |
+| 2026-10-24 15:07:45 | [rust-airplay-gstream](https://crates.io/crates/rust-airplay-gstream) | 0.2.0 | 0 | GStreamer backend for the rust-airplay receiver: decodes the coded frames the l… |
+| 2026-10-24 15:09:56 | [wirewolf](https://crates.io/crates/wirewolf) | 0.1.0 | 0 | Network diagnostics you can point a browser at: where the path breaks, how bad,… |
+| 2026-10-24 15:15:23 | [leptoskit_plugin_tracking_transparency](https://crates.io/crates/leptoskit_plugin_tracking_transparency) | 0.0.0 | 0 | Explicit iOS App Tracking Transparency authorization for LeptosKit. |
+| 2026-10-24 15:15:27 | [flight-node](https://crates.io/crates/flight-node) | 0.5.1-next.3241.169… | 0 | Scene node graph: D16 node fields/feature groups, private runtime tiers, hierar… |
+| 2026-10-24 15:15:27 | [leptoskit_plugin_tray](https://crates.io/crates/leptoskit_plugin_tray) | 0.0.0 | 0 | Explicitly owned native desktop tray icons and bounded events for LeptosKit. |
+| 2026-10-24 15:16:15 | [surfacekit](https://crates.io/crates/surfacekit) | 0.1.0 | 0 | Surface-neutral observation and evidence packets for agentic testing. |
+| 2026-10-24 15:16:40 | [lockwire-secret](https://crates.io/crates/lockwire-secret) | 0.0.0 | 0 | Reserved for the LockWire framework (lockwire.org); the crate is published from… |
 
 ## Data source
 
