@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T18:20:34.98669Z,kache-protocol,2.0.0-rc.1,0,0,https://github.com/kunobi-ninja/kache,Shared data types for Kache's local client and daemon protocol.
+2026-10-25T18:20:57.795745Z,kache-ipc,2.0.0-rc.1,0,0,https://github.com/kunobi-ninja/kache,"Local sockets, endpoint naming, and peer checks for Kache."
+2026-10-25T18:21:04.562596Z,ezviz-openapi,0.1.0,0,0,https://github.com/Zakarialabib/ezviz-openapi-rs,"Async Rust client for the EZVIZ Open Platform (open.ys7.com / isgpopen.ezvizlife.com) HTTP API: access tokens, device list/info/status, live and playback stream URLs, PTZ control and presets, mirrors…"
+2026-10-25T18:21:48.944713Z,cctv-core,0.1.0,0,0,https://github.com/Zakarialabib/cctv-rs,"Camera device model for cctv-rs: traits, state, error taxonomy, mock backend, conformance. NO tokio, NO protocol."
+2026-10-25T18:22:18.327069Z,cctv-transport,0.1.0,0,0,https://github.com/Zakarialabib/cctv-rs,"TLS policy, budgeted frame reader, XML scanner and Digest-capable HTTP transport for cctv-rs drivers."
+2026-10-25T18:23:20.450559Z,cctv-onvif,0.1.0,0,0,https://github.com/Zakarialabib/cctv-rs,"ONVIF (Device / Media / PTZ) driver for cctv-rs: SOAP 1.2 builders, WS-Security UsernameToken auth, a session over the shared HTTP client and a CameraBackend."
+2026-10-25T18:23:35.414686Z,rupg-shim,0.1.84,0,0,https://github.com/tamnd/rupg,"The differences of versions 14 to 18 from 19: version strings, catalog columns, settings, behaviors."
+2026-10-25T18:24:04.201733Z,cctv-discovery,0.1.0,0,0,https://github.com/Zakarialabib/cctv-rs,Camera discovery for cctv-rs: SSDP M-SEARCH and WS-Discovery sweeps over UDP multicast.
+2026-10-25T18:25:45.577546Z,kache-config,2.0.0-rc.1,0,0,https://github.com/kunobi-ninja/kache,Invocation inputs and shared configuration for Kache.
+2026-10-25T18:26:08.150911Z,kache-client,2.0.0-rc.1,0,0,https://github.com/kunobi-ninja/kache,Synchronous compiler client for the Kache daemon.
+2026-10-25T18:26:44.685959Z,glaux,0.1.0,0,0,https://github.com/dghilardi/glaux,"Read-only Microsoft 365 mail from the terminal and MCP, through Outlook on the web"
+2026-10-25T18:27:18.691875Z,rumen,0.1.0,0,0,https://github.com/A-Minos/rumen,Fumen v115 decoder with optional Python bindings
+2026-10-25T18:27:46.327617Z,arkitekt-mesh-embassy,0.8.0,0,0,https://github.com/arkitektio/arkitekt-mesh,"arkitekt-mesh on embassy: a node of the deployment's tailnet without std, over the app's UDP and TLS streams"
+2026-10-25T18:32:45.783445Z,mentat-claim,0.25.0,0,0,https://github.com/kindlingai/mentat,"Places sets of nodes on a probed cluster as a mesh, ring, line or star"
+2026-10-25T18:33:51.799207Z,rupg-summary,0.1.84,0,0,https://github.com/tamnd/rupg,"The scalar summaries, zone maps, frequency synopses and gram sets of H1 to H4 as plain data."
+2026-10-25T18:34:19.114985Z,terrio-crs,0.1.0,0,0,https://github.com/opengeos/terrio,"Coordinate reference systems and transformations in Rust, with EPSG/ESRI tables and datum grids"
+2026-10-25T18:36:24.821856Z,cctv-ezviz,0.1.0,0,0,https://github.com/Zakarialabib/cctv-rs,"Ezviz Open Platform (open.ys7.com) driver for cctv-rs: token, device list, stream, PTZ, presets, alarms, capture."
+2026-10-25T18:36:43.058853Z,pwaudio,0.1.0,0,0,https://github.com/pr0sp3ro/pwaudio,Terminal audio control panel for PipeWire
+2026-10-25T18:41:50.697007Z,shirase-discord,0.1.1,0,0,https://github.com/GoldenPoisonedApple/shirase-discord,Async notification library for Discord
+2026-10-25T18:44:07.541248Z,rupg-wasm,0.1.84,0,0,https://github.com/tamnd/rupg,The WebAssembly module and its storage on the OPFS.
+2026-10-25T18:47:38.344868Z,cctv-agent,0.1.0,0,0,https://github.com/Zakarialabib/cctv-rs,"Fleet reconciler for cctv-rs: desired state -> graded remediation, audit trail."
+2026-10-25T18:51:29.902893Z,waybar_gpui,0.1.0,0,0,https://github.com/Cerclique/waybar-gpui,"Write a GPUI panel, get a Waybar popover on Hyprland"
+2026-10-25T18:53:17.788527Z,comindly-core,0.4.0-beta.1,0,0,https://github.com/sayef/comindly,"comindly's engine: cross-repo code intelligence — parsing, binding, the graph, search and the ledger."
+2026-10-25T18:53:20.25679Z,netrc-jdx,1.0.0,0,0,https://github.com/jdx/netrc-jdx,"Small .netrc parser that accepts # comment lines, forked from netrc-rs"
+2026-10-25T18:53:20.300063Z,comindly-ui,0.4.0-beta.1,0,0,https://github.com/sayef/comindly,"comindly's web app, built and embedded."
+2026-10-25T18:53:22.36343Z,arkitekt-mesh-web,0.8.0,0,0,https://github.com/arkitektio/arkitekt-mesh,"arkitekt-mesh in the browser: a node of the deployment's tailnet over WebSockets (DERP only), on wasm32"
+2026-10-25T18:54:18.904633Z,vibelight,0.1.0,0,0,https://github.com/cppalliance/vibelight,"Writes a C++-header-style outline of a Rust crate's declarations and comments, as markdown and linked HTML"
+2026-10-25T18:55:57.066199Z,pencere-wire,0.2.0,0,0,https://github.com/bateri/pencere,"The wire of pencere that a program and a terminal share: frames, the payloads of the handshake, bundle manifests and digests, and the six messages of a program and its view"
+2026-10-25T18:56:03.34094Z,pencere-host,0.2.0,0,0,https://github.com/bateri/pencere,"Host side of pencere, a program's view in its terminal pane: sessions, the rules a terminal follows and the policy it asks the person about, without I/O"
+2026-10-25T18:56:08.365172Z,pencere-view,0.2.0,0,0,https://github.com/bateri/pencere,"The page engine of pencere's native views: a tree of boxes and lines of text, laid out as flexbox and grid, that comes out as a draw list a terminal draws"
+2026-10-25T18:56:45.510099Z,pencere-sandbox,0.2.0,0,0,https://github.com/bateri/pencere,"The sandbox of pencere's native views: a WebAssembly component or a Lua script that runs with no file, network or clock, and is asked for a page to lay out and draw"
+2026-10-25T18:56:52.643132Z,landlock-policy,0.0.0,0,0,,WIP
+2026-10-25T18:57:01.989628Z,pencere-page,0.2.0,0,0,https://github.com/bateri/pencere,"Write the page of a pencere view as a WebAssembly component: the SDK of the kit, in the style language of the page engine and with the six messages of a program and its view"
+2026-10-25T18:57:30.67133Z,landlock-top,0.0.0,0,0,,WIP
+2026-10-25T18:58:12.258565Z,landlock-policy-cli,0.0.0,0,0,,WIP
+2026-10-25T18:58:36.649594Z,landlock-exec,0.0.0,0,0,,WIP
+2026-10-25T18:59:03.076485Z,landlock-trace,0.0.0,0,0,,WIP
+2026-10-25T18:59:05.040217Z,cctv-rs,0.1.0,0,0,https://github.com/Zakarialabib/cctv-rs,"Facade over the cctv-rs workspace: discovery, frames, PTZ, stats and fleet reconciliation behind one API."
+2026-10-25T19:00:21.570471Z,comindly-server,0.4.0-beta.1,0,0,https://github.com/sayef/comindly,"comindly as a server: the web app and API, MCP for agents, indexing jobs, members and roles."
+2026-10-25T19:03:38.373268Z,saar-sdk,1.3.0,0,0,,Thin Rust client over the Saar command-line interface
+2026-10-25T19:05:30.849303Z,monokl,0.1.0,0,0,https://github.com/orin-dx/monokl,AST-aware semantic code search for TypeScript/JavaScript and Rust.
+2026-10-25T19:06:01.265934Z,cortexkit-agent-identity,0.1.0,0,0,https://github.com/cortexkit/commons,Serde-only agent identity and context read types for the project-identity module
+2026-10-25T19:06:05.042345Z,landlock-policy-ffi,0.0.0,0,0,,WIP
+2026-10-25T19:13:26.733752Z,codync-network,0.1.0,0,0,https://github.com/leepokai/codync-network,"Agent Tailscale: the agents on your computers find and message each other, peer to peer"

@@ -8,37 +8,58 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 18:20 UTC
+## Latest list — 2026-10-25 19:19 UTC
 
-New crates published between 2026-10-25 17:19 UTC and 2026-10-25 18:20 UTC.
+New crates published between 2026-10-25 18:20 UTC and 2026-10-25 19:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-25T18-20-06-799968Z.csv)
+[Full CSV](data/new-crates-2026-10-25T19-19-14-93946Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-25 17:21:56 | [rupg-ext](https://crates.io/crates/rupg-ext) | 0.1.84 | 0 | The extension API, CREATE EXTENSION for built-in extensions. |
-| 2026-10-25 17:26:11 | [miniwasm_traits](https://crates.io/crates/miniwasm_traits) | 0.2.0 | 0 | Supplemental crate for miniwasm, a minimal WASM v1 runtime with a simple API fo… |
-| 2026-10-25 17:29:16 | [json-schema-profiler](https://crates.io/crates/json-schema-profiler) | 0.0.1 | 0 | Profile JSON corpora, infer JSON Schemas with explicit policies, and validate r… |
-| 2026-10-25 17:30:22 | [hepfig](https://crates.io/crates/hepfig) | 0.1.0 | 0 | Publication figures for HEP fits without ROOT: CascadesCombine-style stack, sig… |
-| 2026-10-25 17:32:11 | [rupg-graph](https://crates.io/crates/rupg-graph) | 0.1.84 | 0 | The link index and the CSR adjacency of document 13, lifted from rudb. |
-| 2026-10-25 17:38:05 | [celebrity-nn](https://crates.io/crates/celebrity-nn) | 0.1.0 | 0 | Machine Learning core |
-| 2026-10-25 17:38:12 | [sjon-host](https://crates.io/crates/sjon-host) | 1.5.0 | 0 | Rust host wrapping sjon.wasm — validate_document(source, options) for SJON mult… |
-| 2026-10-25 17:38:17 | [rust-analyzer-mcp-server](https://crates.io/crates/rust-analyzer-mcp-server) | 0.0.0 | 0 | Name reserved for rust-analyzer-mcp-server, an MCP server exposing rust-analyze… |
-| 2026-10-25 17:39:13 | [kpea-cli](https://crates.io/crates/kpea-cli) | 0.4.2 | 0 | CPIO archive reader/writer tool. Supports New ASCII and Old character formats.… |
-| 2026-10-25 17:42:27 | [rupg-import](https://crates.io/crates/rupg-import) | 0.1.84 | 0 | The reader of PostgreSQL data directories and pg_dump archives. |
-| 2026-10-25 17:45:32 | [miniwasm_structures_macros](https://crates.io/crates/miniwasm_structures_macros) | 0.2.0 | 0 | Supplemental crate for miniwasm, a minimal WASM v1 runtime with a simple API fo… |
-| 2026-10-25 17:45:48 | [miniwasm_structures](https://crates.io/crates/miniwasm_structures) | 0.2.0 | 0 | Supplemental crate for miniwasm, a minimal WASM v1 runtime with a simple API fo… |
-| 2026-10-25 17:52:43 | [rupg-index](https://crates.io/crates/rupg-index) | 0.1.84 | 0 | The B-tree, hash, GIN, GiST, SP-GiST and BRIN access methods and their operator… |
-| 2026-10-25 17:53:26 | [gpui-specular](https://crates.io/crates/gpui-specular) | 0.1.0 | 0 | Subtle inset lighting and pointer-following bezels for GPUI |
-| 2026-10-25 18:00:12 | [variable_size_enum_macro](https://crates.io/crates/variable_size_enum_macro) | 0.1.0 | 0 | Compact representations for Rust enums macro crate |
-| 2026-10-25 18:00:27 | [noctiluca](https://crates.io/crates/noctiluca) | 0.0.1 | 0 | A terminal web browser: page text as terminal text, media as media |
-| 2026-10-25 18:00:28 | [rs-rich-marketplace](https://crates.io/crates/rs-rich-marketplace) | 0.0.1 | 0 | The rs-rich plugin marketplace client: a minisign-signed index, its key chain,… |
-| 2026-10-25 18:00:30 | [variable_size_enum](https://crates.io/crates/variable_size_enum) | 0.1.0 | 0 | Compact representations for Rust enums |
-| 2026-10-25 18:02:59 | [rupg-jit](https://crates.io/crates/rupg-jit) | 0.1.84 | 0 | The compile tiers of document 14, lifted from rudb's query compiler. |
-| 2026-10-25 18:05:10 | [m17n-im](https://crates.io/crates/m17n-im) | 0.1.0 | 0 | A generalized parser, interpreter engine, and Rust code generator for the m17n… |
-| 2026-10-25 18:12:30 | [alloy-lbfgsb](https://crates.io/crates/alloy-lbfgsb) | 0.1.0 | 0 | Standalone callback-first L-BFGS-B solver |
-| 2026-10-25 18:13:15 | [rupg-raft](https://crates.io/crates/rupg-raft) | 0.1.84 | 0 | One Raft group per shard: the election, the log, snapshots, membership changes. |
-| 2026-10-25 18:19:15 | [wi-mesh-login](https://crates.io/crates/wi-mesh-login) | 0.3.4 | 0 | A quick CLI for logging into Wi-MESH (VN) and claim rewards |
+| 2026-10-25 18:20:34 | [kache-protocol](https://crates.io/crates/kache-protocol) | 2.0.0-rc.1 | 0 | Shared data types for Kache's local client and daemon protocol. |
+| 2026-10-25 18:20:57 | [kache-ipc](https://crates.io/crates/kache-ipc) | 2.0.0-rc.1 | 0 | Local sockets, endpoint naming, and peer checks for Kache. |
+| 2026-10-25 18:21:04 | [ezviz-openapi](https://crates.io/crates/ezviz-openapi) | 0.1.0 | 0 | Async Rust client for the EZVIZ Open Platform (open.ys7.com / isgpopen.ezvizlif… |
+| 2026-10-25 18:21:48 | [cctv-core](https://crates.io/crates/cctv-core) | 0.1.0 | 0 | Camera device model for cctv-rs: traits, state, error taxonomy, mock backend, c… |
+| 2026-10-25 18:22:18 | [cctv-transport](https://crates.io/crates/cctv-transport) | 0.1.0 | 0 | TLS policy, budgeted frame reader, XML scanner and Digest-capable HTTP transpor… |
+| 2026-10-25 18:23:20 | [cctv-onvif](https://crates.io/crates/cctv-onvif) | 0.1.0 | 0 | ONVIF (Device / Media / PTZ) driver for cctv-rs: SOAP 1.2 builders, WS-Security… |
+| 2026-10-25 18:23:35 | [rupg-shim](https://crates.io/crates/rupg-shim) | 0.1.84 | 0 | The differences of versions 14 to 18 from 19: version strings, catalog columns,… |
+| 2026-10-25 18:24:04 | [cctv-discovery](https://crates.io/crates/cctv-discovery) | 0.1.0 | 0 | Camera discovery for cctv-rs: SSDP M-SEARCH and WS-Discovery sweeps over UDP mu… |
+| 2026-10-25 18:25:45 | [kache-config](https://crates.io/crates/kache-config) | 2.0.0-rc.1 | 0 | Invocation inputs and shared configuration for Kache. |
+| 2026-10-25 18:26:08 | [kache-client](https://crates.io/crates/kache-client) | 2.0.0-rc.1 | 0 | Synchronous compiler client for the Kache daemon. |
+| 2026-10-25 18:26:44 | [glaux](https://crates.io/crates/glaux) | 0.1.0 | 0 | Read-only Microsoft 365 mail from the terminal and MCP, through Outlook on the… |
+| 2026-10-25 18:27:18 | [rumen](https://crates.io/crates/rumen) | 0.1.0 | 0 | Fumen v115 decoder with optional Python bindings |
+| 2026-10-25 18:27:46 | [arkitekt-mesh-embassy](https://crates.io/crates/arkitekt-mesh-embassy) | 0.8.0 | 0 | arkitekt-mesh on embassy: a node of the deployment's tailnet without std, over… |
+| 2026-10-25 18:32:45 | [mentat-claim](https://crates.io/crates/mentat-claim) | 0.25.0 | 0 | Places sets of nodes on a probed cluster as a mesh, ring, line or star |
+| 2026-10-25 18:33:51 | [rupg-summary](https://crates.io/crates/rupg-summary) | 0.1.84 | 0 | The scalar summaries, zone maps, frequency synopses and gram sets of H1 to H4 a… |
+| 2026-10-25 18:34:19 | [terrio-crs](https://crates.io/crates/terrio-crs) | 0.1.0 | 0 | Coordinate reference systems and transformations in Rust, with EPSG/ESRI tables… |
+| 2026-10-25 18:36:24 | [cctv-ezviz](https://crates.io/crates/cctv-ezviz) | 0.1.0 | 0 | Ezviz Open Platform (open.ys7.com) driver for cctv-rs: token, device list, stre… |
+| 2026-10-25 18:36:43 | [pwaudio](https://crates.io/crates/pwaudio) | 0.1.0 | 0 | Terminal audio control panel for PipeWire |
+| 2026-10-25 18:41:50 | [shirase-discord](https://crates.io/crates/shirase-discord) | 0.1.1 | 0 | Async notification library for Discord |
+| 2026-10-25 18:44:07 | [rupg-wasm](https://crates.io/crates/rupg-wasm) | 0.1.84 | 0 | The WebAssembly module and its storage on the OPFS. |
+| 2026-10-25 18:47:38 | [cctv-agent](https://crates.io/crates/cctv-agent) | 0.1.0 | 0 | Fleet reconciler for cctv-rs: desired state -> graded remediation, audit trail. |
+| 2026-10-25 18:51:29 | [waybar_gpui](https://crates.io/crates/waybar_gpui) | 0.1.0 | 0 | Write a GPUI panel, get a Waybar popover on Hyprland |
+| 2026-10-25 18:53:17 | [comindly-core](https://crates.io/crates/comindly-core) | 0.4.0-beta.1 | 0 | comindly's engine: cross-repo code intelligence — parsing, binding, the graph,… |
+| 2026-10-25 18:53:20 | [netrc-jdx](https://crates.io/crates/netrc-jdx) | 1.0.0 | 0 | Small .netrc parser that accepts # comment lines, forked from netrc-rs |
+| 2026-10-25 18:53:20 | [comindly-ui](https://crates.io/crates/comindly-ui) | 0.4.0-beta.1 | 0 | comindly's web app, built and embedded. |
+| 2026-10-25 18:53:22 | [arkitekt-mesh-web](https://crates.io/crates/arkitekt-mesh-web) | 0.8.0 | 0 | arkitekt-mesh in the browser: a node of the deployment's tailnet over WebSocket… |
+| 2026-10-25 18:54:18 | [vibelight](https://crates.io/crates/vibelight) | 0.1.0 | 0 | Writes a C++-header-style outline of a Rust crate's declarations and comments,… |
+| 2026-10-25 18:55:57 | [pencere-wire](https://crates.io/crates/pencere-wire) | 0.2.0 | 0 | The wire of pencere that a program and a terminal share: frames, the payloads o… |
+| 2026-10-25 18:56:03 | [pencere-host](https://crates.io/crates/pencere-host) | 0.2.0 | 0 | Host side of pencere, a program's view in its terminal pane: sessions, the rule… |
+| 2026-10-25 18:56:08 | [pencere-view](https://crates.io/crates/pencere-view) | 0.2.0 | 0 | The page engine of pencere's native views: a tree of boxes and lines of text, l… |
+| 2026-10-25 18:56:45 | [pencere-sandbox](https://crates.io/crates/pencere-sandbox) | 0.2.0 | 0 | The sandbox of pencere's native views: a WebAssembly component or a Lua script… |
+| 2026-10-25 18:56:52 | [landlock-policy](https://crates.io/crates/landlock-policy) | 0.0.0 | 0 | WIP |
+| 2026-10-25 18:57:01 | [pencere-page](https://crates.io/crates/pencere-page) | 0.2.0 | 0 | Write the page of a pencere view as a WebAssembly component: the SDK of the kit… |
+| 2026-10-25 18:57:30 | [landlock-top](https://crates.io/crates/landlock-top) | 0.0.0 | 0 | WIP |
+| 2026-10-25 18:58:12 | [landlock-policy-cli](https://crates.io/crates/landlock-policy-cli) | 0.0.0 | 0 | WIP |
+| 2026-10-25 18:58:36 | [landlock-exec](https://crates.io/crates/landlock-exec) | 0.0.0 | 0 | WIP |
+| 2026-10-25 18:59:03 | [landlock-trace](https://crates.io/crates/landlock-trace) | 0.0.0 | 0 | WIP |
+| 2026-10-25 18:59:05 | [cctv-rs](https://crates.io/crates/cctv-rs) | 0.1.0 | 0 | Facade over the cctv-rs workspace: discovery, frames, PTZ, stats and fleet reco… |
+| 2026-10-25 19:00:21 | [comindly-server](https://crates.io/crates/comindly-server) | 0.4.0-beta.1 | 0 | comindly as a server: the web app and API, MCP for agents, indexing jobs, membe… |
+| 2026-10-25 19:03:38 | [saar-sdk](https://crates.io/crates/saar-sdk) | 1.3.0 | 0 | Thin Rust client over the Saar command-line interface |
+| 2026-10-25 19:05:30 | [monokl](https://crates.io/crates/monokl) | 0.1.0 | 0 | AST-aware semantic code search for TypeScript/JavaScript and Rust. |
+| 2026-10-25 19:06:01 | [cortexkit-agent-identity](https://crates.io/crates/cortexkit-agent-identity) | 0.1.0 | 0 | Serde-only agent identity and context read types for the project-identity module |
+| 2026-10-25 19:06:05 | [landlock-policy-ffi](https://crates.io/crates/landlock-policy-ffi) | 0.0.0 | 0 | WIP |
+| 2026-10-25 19:13:26 | [codync-network](https://crates.io/crates/codync-network) | 0.1.0 | 0 | Agent Tailscale: the agents on your computers find and message each other, peer… |
 
 ## Data source
 
