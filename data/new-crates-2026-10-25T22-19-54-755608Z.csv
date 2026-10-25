@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T21:19:26.527013Z,rlx-nnpack,0.2.19,0,0,https://github.com/MIT-RLX/rlx,"torch CPU's NNPACK 16x16 Fourier convolution reproduced bit-for-bit in pure Rust (portable, wasm-ready)"
+2026-10-25T21:22:06.311133Z,astli-package,0.4.0,0,0,https://github.com/fischeti/astli,"Finding a SystemVerilog package's root, and reading its astli.toml"
+2026-10-25T21:22:45.929943Z,wtl,0.1.1,0,0,https://github.com/mxrguspxrt/win-test-lab,The wtl command of win-test-lab: test Windows software on real Windows in QEMU (cargo install wtl)
+2026-10-25T21:23:20.160717Z,astli-resolve,0.4.0,0,0,https://github.com/fischeti/astli,"Fetching and resolving a SystemVerilog design's dependencies, for the astli driver"
+2026-10-25T21:23:58.717986Z,platoon-tui,1.0.0,0,0,https://github.com/ctrader2/platoon,"A terminal app for running and managing Claude Code and Codex sessions: every conversation in one list, projects with notes, tasks run by squads"
+2026-10-25T21:25:51.180716Z,basilisco,0.4.0,0,0,https://github.com/alexandevs2309/nexo,Intérprete del lenguaje de programación BASILISCO
+2026-10-25T21:34:29.687415Z,signers,0.1.0,0,0,https://github.com/Fly-elf/signers,"Hard-to-misuse Rust API over code signing tools, starting with macOS codesign"
+2026-10-25T21:35:54.030464Z,directories-app,1.0.1,0,0,https://codeberg.org/Serpulo/rs-directories-app.git,Extension of the directories crate to centralize its usage for an application. ProjectDirs can now be created once and then queried without knowing its details.
+2026-10-25T21:36:54.067328Z,libwebpop,0.1.0,0,0,https://github.com/FauxFaux/webpop,"A direct port of parts of the WebP encoder, with identical output"
+2026-10-25T21:37:02.612791Z,livequery-derive,0.1.0-alpha.1,0,0,https://github.com/LioRael/livequery,"Derive explicit, field-filtered LiveQuery inspection"
+2026-10-25T21:37:16.567397Z,livequery,0.1.0-alpha.1,0,0,https://github.com/LioRael/livequery,Read-only runtime state inspection and bounded queries for Rust applications
+2026-10-25T21:37:44.040113Z,livequery-cli,0.1.0-alpha.1,0,0,https://github.com/LioRael/livequery,Local CLI for querying LiveQuery-enabled Rust programs
+2026-10-25T21:43:27.590322Z,undo-cli,0.1.1,0,0,https://github.com/dpologdvinity/undo,Ctrl-Z for your terminal and your AI agent
+2026-10-25T21:44:32.187783Z,cwebpop,0.1.0,0,0,https://github.com/FauxFaux/webpop,"A cli for libwebpop, a port of libwebp"
+2026-10-25T21:44:55.523705Z,lpcli,0.2.0,0,0,https://github.com/canonical/lpcli,A command-line client for Launchpad.net
+2026-10-25T21:50:53.19093Z,univrs,0.0.1,0,0,https://github.com/reece/univrs,Rust models (with Python bindings) generated from the UniVRS JSON Schema. Prototype.
+2026-10-25T21:51:13.583064Z,bring-browser,0.1.0,0,0,,"bring: browser-in-ling -- a tiny no_std HTML-subset layout engine, the rendering heart of LingOS's browser, in the lineage of links/lynx"
+2026-10-25T21:51:17.070319Z,ling-messenger,0.1.0,0,0,,"ling-messenger: P2P end-to-end-encrypted chat core for LingOS -- identity, an authenticated handshake, and encrypted framing. no_std + alloc. The kernel embedder (ling-kernel/src/drivers/messenger.rs…"
+2026-10-25T21:51:19.173245Z,horizon-browser,0.1.0,0,0,,"Horizon: a real box-model HTML/CSS layout engine with a Canvas 2D surface, no_std + alloc, zero dependencies -- LingOS's next-generation browser engine, sibling to bring-browser"
+2026-10-25T21:51:36.345326Z,day-persistence-macros,0.0.1,0,0,https://github.com/daybrite/day-persistence,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T21:51:38.837387Z,day-sqlite-worker,0.0.1,0,0,https://github.com/daybrite/day-persistence,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T21:51:41.257483Z,day-persistence,0.0.1,0,0,https://github.com/daybrite/day-persistence,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T21:51:43.461825Z,day-piece-webview,0.0.1,0,0,https://github.com/daybrite/day-piece-webview,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T21:51:45.609483Z,day-piece-webview-servo,0.0.1,0,0,https://github.com/daybrite/day-piece-webview,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T21:55:34.097434Z,rmetric,0.1.1,0,0,https://github.com/cumulus13/rmetric,"Colorful CLI to view and re-prioritise default-route metrics (Linux, Windows)"
+2026-10-25T21:56:42.592631Z,day-piece-charts,0.0.1,0,0,https://github.com/daybrite/day-piece-charts,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T21:58:00.146117Z,univar,0.0.1,0,0,https://github.com/reece/univar,Mock client of the univrs models: hello-world serialization. Prototype.
+2026-10-25T22:01:22.833215Z,zil-macros,0.5.0,0,0,https://github.com/zbu1/zil,Proc macros for zil's builtins
+2026-10-25T22:03:32.602332Z,tiny-diff,0.5.0-rc.13,0,0,https://github.com/marc2332/freya,Keyed tree diffing with no_std support
+2026-10-25T22:05:23.196021Z,jack-http-server,0.2.1,0,0,https://github.com/jackrizza/http-server,"Browse, share, and upload files from your current directory with an embedded web UI"
+2026-10-25T22:06:42.598163Z,day-piece-charts-gallery,0.0.1,0,0,https://github.com/daybrite/day-piece-charts,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T22:15:57.927955Z,bevy_declarative_plugins,0.0.1,0,0,https://github.com/CreativeBevians/bevy_declarative_plugins,"Dependencies (and other cool features) for bevy plugins, via a declarative API."
+2026-10-25T22:16:31.685877Z,contentauth-sans-io-core,0.1.0,0,0,https://github.com/contentauth/contentauth-sans-io-core,"Host-driven, sans-I/O workflows for C2PA and CAWG crates"
+2026-10-25T22:16:42.581841Z,day-piece-lottie,0.0.1,0,0,https://github.com/daybrite/day-piece-lottie,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T22:16:53.885087Z,id_effect_i18n,0.13.0,0,0,https://github.com/Industrial/id_effect,"Internationalization for id_effect services: locales, message catalogs and per-request locale selection"
+2026-10-25T22:16:58.963246Z,id_effect_admin,0.13.0,0,0,https://github.com/Industrial/id_effect,"Admin back office for id_effect services: entity registration, guarded list/detail/edit pages and per-action permissions"
+2026-10-25T22:18:54.059662Z,xenolith-lang-python,0.2.0,0,0,https://github.com/pr0d1r2/xenolith,"Python support for xenolith: the python guest, its triviality rule and ruff defaults"

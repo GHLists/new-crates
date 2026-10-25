@@ -8,41 +8,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 21:18 UTC
+## Latest list — 2026-10-25 22:19 UTC
 
-New crates published between 2026-10-25 20:19 UTC and 2026-10-25 21:18 UTC.
+New crates published between 2026-10-25 21:18 UTC and 2026-10-25 22:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-25T21-18-36-287173Z.csv)
+[Full CSV](data/new-crates-2026-10-25T22-19-54-755608Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-25 20:19:45 | [tahweel-cli](https://crates.io/crates/tahweel-cli) | 0.1.1 | 0 | Command-line OCR of PDFs and images into TXT, DOCX and JSON with tahweel. |
-| 2026-10-25 20:20:23 | [ai-crosshair](https://crates.io/crates/ai-crosshair) | 0.1.0 | 0 | Crosshair connection game engine with AlphaZero PUCT, UCT, alpha-beta, and WebA… |
-| 2026-10-25 20:21:25 | [toro-auth-postgres](https://crates.io/crates/toro-auth-postgres) | 1.0.5 | 0 | This crate provides a postgres backend implementation for the toro-auth-core cr… |
-| 2026-10-25 20:24:26 | [lztans](https://crates.io/crates/lztans) | 0.1.0 | 0 | Safe, dependency-free decoder for a family of LZ + Huffman/tANS block-compresse… |
-| 2026-10-25 20:26:11 | [acdp-chain](https://crates.io/crates/acdp-chain) | 0.16.1 | 0 | Offline, as-of chain verification over evidence bundles (RFC-ACDP-0017) for the… |
-| 2026-10-25 20:35:29 | [matma-derive](https://crates.io/crates/matma-derive) | 0.2.0 | 0 | Derive macros for matma's std140/std430 GPU buffer layouts (#[derive(Std140)],… |
-| 2026-10-25 20:35:37 | [matma](https://crates.io/crates/matma) | 0.2.0 | 0 | SIMD-first game math for Vulkan with Slang/HLSL naming: float3, float4x4, quat,… |
-| 2026-10-25 20:36:39 | [carpa](https://crates.io/crates/carpa) | 0.1.0 | 0 | Superintelligence for Topcoat apps: Claude, Jev and Firecrawl |
-| 2026-10-25 20:37:42 | [win-test-lab](https://crates.io/crates/win-test-lab) | 0.1.0 | 0 | Test Windows software on real Windows in QEMU: unattended installs, Active Dire… |
-| 2026-10-25 20:39:42 | [invoiceninja-sdk](https://crates.io/crates/invoiceninja-sdk) | 0.2.0 | 0 | An async Rust client for the Invoice Ninja v5 API |
-| 2026-10-25 20:40:50 | [raikiri-js](https://crates.io/crates/raikiri-js) | 0.0.0 | 0 | Bootstrap placeholder for Raikiri JavaScript runtime integration; contains no i… |
-| 2026-10-25 20:41:03 | [raikiri-paint](https://crates.io/crates/raikiri-paint) | 0.0.0 | 0 | Bootstrap placeholder for Raikiri page painting; contains no implementation |
-| 2026-10-25 20:48:28 | [mcp-warden-core](https://crates.io/crates/mcp-warden-core) | 0.4.1 | 0 | Core traits and types for mcp-warden — local-first credential broker for AI age… |
-| 2026-10-25 20:48:31 | [mcp-warden](https://crates.io/crates/mcp-warden) | 0.4.1 | 0 | Local-first credential broker MCP server for AI coding agents. |
-| 2026-10-25 20:50:54 | [nb-clean](https://crates.io/crates/nb-clean) | 5.0.0 | 0 | Clean Jupyter notebooks for versioning |
-| 2026-10-25 20:59:03 | [drmanhattan-core](https://crates.io/crates/drmanhattan-core) | 0.1.0 | 0 | Core library of watchmaker (wmk): deduplicated chunk packs, a SQLite catalog, a… |
-| 2026-10-25 20:59:17 | [drmanhattan](https://crates.io/crates/drmanhattan) | 0.1.0 | 0 | watchmaker (wmk): disassemble directories into storage units and rebuild them e… |
-| 2026-10-25 21:01:30 | [caesium-log](https://crates.io/crates/caesium-log) | 0.5.0 | 0 | A colorized logger that prefixes each line with the time elapsed since start, b… |
-| 2026-10-25 21:05:31 | [oid4vc-core](https://crates.io/crates/oid4vc-core) | 0.2.0 | 0 | Core types and traits shared by the Rust implementations of the OpenID4VC speci… |
-| 2026-10-25 21:05:34 | [oid4vc-manager](https://crates.io/crates/oid4vc-manager) | 0.0.0 | 0 | Reserved for the impierce/openid4vc workspace; the first release is 0.2.0. |
-| 2026-10-25 21:07:23 | [wt-formats](https://crates.io/crates/wt-formats) | 0.1.0 | 0 | Readers for the Dagor Engine resource formats of War Thunder: GRP packs, DXP te… |
-| 2026-10-25 21:08:45 | [mhfe-core](https://crates.io/crates/mhfe-core) | 0.1.0 | 0 | Experimental memory-hard Feistel encryption for BIP39 mnemonics |
-| 2026-10-25 21:11:52 | [rlx-program](https://crates.io/crates/rlx-program) | 0.2.19 | 0 | RLX programs — the host logic a package runs as WebAssembly (tokenize, phonemiz… |
-| 2026-10-25 21:12:59 | [rlx-search](https://crates.io/crates/rlx-search) | 0.2.19 | 0 | Host-side sequence search shared by every decoder: argmax/top-k/log-softmax, be… |
-| 2026-10-25 21:14:08 | [rlx-numpy](https://crates.io/crates/rlx-numpy) | 0.2.19 | 0 | Host-side numpy and torch-CPU numerics reproduced bit-for-bit: pairwise and cas… |
-| 2026-10-25 21:15:17 | [rlx-special](https://crates.io/crates/rlx-special) | 0.2.19 | 0 | Boost.Math special functions (incomplete beta/gamma, erf, lgamma, Student-t, ch… |
-| 2026-10-25 21:16:26 | [rlx-pocketfft](https://crates.io/crates/rlx-pocketfft) | 0.2.19 | 0 | scipy.fft (pocketfft) reproduced bit-for-bit in pure Rust, with selectable FMA… |
+| 2026-10-25 21:19:26 | [rlx-nnpack](https://crates.io/crates/rlx-nnpack) | 0.2.19 | 0 | torch CPU's NNPACK 16x16 Fourier convolution reproduced bit-for-bit in pure Rus… |
+| 2026-10-25 21:22:06 | [astli-package](https://crates.io/crates/astli-package) | 0.4.0 | 0 | Finding a SystemVerilog package's root, and reading its astli.toml |
+| 2026-10-25 21:22:45 | [wtl](https://crates.io/crates/wtl) | 0.1.1 | 0 | The wtl command of win-test-lab: test Windows software on real Windows in QEMU… |
+| 2026-10-25 21:23:20 | [astli-resolve](https://crates.io/crates/astli-resolve) | 0.4.0 | 0 | Fetching and resolving a SystemVerilog design's dependencies, for the astli dri… |
+| 2026-10-25 21:23:58 | [platoon-tui](https://crates.io/crates/platoon-tui) | 1.0.0 | 0 | A terminal app for running and managing Claude Code and Codex sessions: every c… |
+| 2026-10-25 21:25:51 | [basilisco](https://crates.io/crates/basilisco) | 0.4.0 | 0 | Intérprete del lenguaje de programación BASILISCO |
+| 2026-10-25 21:34:29 | [signers](https://crates.io/crates/signers) | 0.1.0 | 0 | Hard-to-misuse Rust API over code signing tools, starting with macOS codesign |
+| 2026-10-25 21:35:54 | [directories-app](https://crates.io/crates/directories-app) | 1.0.1 | 0 | Extension of the directories crate to centralize its usage for an application.… |
+| 2026-10-25 21:36:54 | [libwebpop](https://crates.io/crates/libwebpop) | 0.1.0 | 0 | A direct port of parts of the WebP encoder, with identical output |
+| 2026-10-25 21:37:02 | [livequery-derive](https://crates.io/crates/livequery-derive) | 0.1.0-alpha.1 | 0 | Derive explicit, field-filtered LiveQuery inspection |
+| 2026-10-25 21:37:16 | [livequery](https://crates.io/crates/livequery) | 0.1.0-alpha.1 | 0 | Read-only runtime state inspection and bounded queries for Rust applications |
+| 2026-10-25 21:37:44 | [livequery-cli](https://crates.io/crates/livequery-cli) | 0.1.0-alpha.1 | 0 | Local CLI for querying LiveQuery-enabled Rust programs |
+| 2026-10-25 21:43:27 | [undo-cli](https://crates.io/crates/undo-cli) | 0.1.1 | 0 | Ctrl-Z for your terminal and your AI agent |
+| 2026-10-25 21:44:32 | [cwebpop](https://crates.io/crates/cwebpop) | 0.1.0 | 0 | A cli for libwebpop, a port of libwebp |
+| 2026-10-25 21:44:55 | [lpcli](https://crates.io/crates/lpcli) | 0.2.0 | 0 | A command-line client for Launchpad.net |
+| 2026-10-25 21:50:53 | [univrs](https://crates.io/crates/univrs) | 0.0.1 | 0 | Rust models (with Python bindings) generated from the UniVRS JSON Schema. Proto… |
+| 2026-10-25 21:51:13 | [bring-browser](https://crates.io/crates/bring-browser) | 0.1.0 | 0 | bring: browser-in-ling -- a tiny no_std HTML-subset layout engine, the renderin… |
+| 2026-10-25 21:51:17 | [ling-messenger](https://crates.io/crates/ling-messenger) | 0.1.0 | 0 | ling-messenger: P2P end-to-end-encrypted chat core for LingOS -- identity, an a… |
+| 2026-10-25 21:51:19 | [horizon-browser](https://crates.io/crates/horizon-browser) | 0.1.0 | 0 | Horizon: a real box-model HTML/CSS layout engine with a Canvas 2D surface, no_s… |
+| 2026-10-25 21:51:36 | [day-persistence-macros](https://crates.io/crates/day-persistence-macros) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 21:51:38 | [day-sqlite-worker](https://crates.io/crates/day-sqlite-worker) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 21:51:41 | [day-persistence](https://crates.io/crates/day-persistence) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 21:51:43 | [day-piece-webview](https://crates.io/crates/day-piece-webview) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 21:51:45 | [day-piece-webview-servo](https://crates.io/crates/day-piece-webview-servo) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 21:55:34 | [rmetric](https://crates.io/crates/rmetric) | 0.1.1 | 0 | Colorful CLI to view and re-prioritise default-route metrics (Linux, Windows) |
+| 2026-10-25 21:56:42 | [day-piece-charts](https://crates.io/crates/day-piece-charts) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 21:58:00 | [univar](https://crates.io/crates/univar) | 0.0.1 | 0 | Mock client of the univrs models: hello-world serialization. Prototype. |
+| 2026-10-25 22:01:22 | [zil-macros](https://crates.io/crates/zil-macros) | 0.5.0 | 0 | Proc macros for zil's builtins |
+| 2026-10-25 22:03:32 | [tiny-diff](https://crates.io/crates/tiny-diff) | 0.5.0-rc.13 | 0 | Keyed tree diffing with no_std support |
+| 2026-10-25 22:05:23 | [jack-http-server](https://crates.io/crates/jack-http-server) | 0.2.1 | 0 | Browse, share, and upload files from your current directory with an embedded we… |
+| 2026-10-25 22:06:42 | [day-piece-charts-gallery](https://crates.io/crates/day-piece-charts-gallery) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 22:15:57 | [bevy_declarative_plugins](https://crates.io/crates/bevy_declarative_plugins) | 0.0.1 | 0 | Dependencies (and other cool features) for bevy plugins, via a declarative API. |
+| 2026-10-25 22:16:31 | [contentauth-sans-io-core](https://crates.io/crates/contentauth-sans-io-core) | 0.1.0 | 0 | Host-driven, sans-I/O workflows for C2PA and CAWG crates |
+| 2026-10-25 22:16:42 | [day-piece-lottie](https://crates.io/crates/day-piece-lottie) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 22:16:53 | [id_effect_i18n](https://crates.io/crates/id_effect_i18n) | 0.13.0 | 0 | Internationalization for id_effect services: locales, message catalogs and per-… |
+| 2026-10-25 22:16:58 | [id_effect_admin](https://crates.io/crates/id_effect_admin) | 0.13.0 | 0 | Admin back office for id_effect services: entity registration, guarded list/det… |
+| 2026-10-25 22:18:54 | [xenolith-lang-python](https://crates.io/crates/xenolith-lang-python) | 0.2.0 | 0 | Python support for xenolith: the python guest, its triviality rule and ruff def… |
 
 ## Data source
 
