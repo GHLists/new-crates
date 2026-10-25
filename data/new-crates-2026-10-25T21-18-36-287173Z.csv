@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T20:19:45.575948Z,tahweel-cli,0.1.1,0,0,https://github.com/ieasybooks/tahweel-rs,"Command-line OCR of PDFs and images into TXT, DOCX and JSON with tahweel."
+2026-10-25T20:20:23.192019Z,ai-crosshair,0.1.0,0,0,https://github.com/TheGustafson/ai-crosshair,"Crosshair connection game engine with AlphaZero PUCT, UCT, alpha-beta, and WebAssembly support"
+2026-10-25T20:21:25.845019Z,toro-auth-postgres,1.0.5,0,0,https://github.com/HideakiToro/toro-auth/postgres,This crate provides a postgres backend implementation for the toro-auth-core crate. Note that this crate has been implemented without any security meassures in mind.
+2026-10-25T20:24:26.998819Z,lztans,0.1.0,0,0,https://github.com/patodois/lztans,"Safe, dependency-free decoder for a family of LZ + Huffman/tANS block-compressed streams (Kraken, Mermaid/Selkie and Leviathan block formats)."
+2026-10-25T20:26:11.881861Z,acdp-chain,0.16.1,0,0,https://github.com/agentcontextdistributionprotocol/acdp-rs,"Offline, as-of chain verification over evidence bundles (RFC-ACDP-0017) for the Agent Context Distribution Protocol (ACDP)"
+2026-10-25T20:35:29.909459Z,matma-derive,0.2.0,0,0,https://github.com/qbart/matma,"Derive macros for matma's std140/std430 GPU buffer layouts (#[derive(Std140)], #[derive(Std430)])."
+2026-10-25T20:35:37.256422Z,matma,0.2.0,0,0,https://github.com/qbart/matma,"SIMD-first game math for Vulkan with Slang/HLSL naming: float3, float4x4, quat, std140/std430 layout helpers, GPU packing. Pure Rust, no third-party dependencies (only the in-repo derive crate)."
+2026-10-25T20:36:39.258196Z,carpa,0.1.0,0,0,https://github.com/matthiasdebernardini/carpa,"Superintelligence for Topcoat apps: Claude, Jev and Firecrawl"
+2026-10-25T20:37:42.314907Z,win-test-lab,0.1.0,0,0,https://github.com/mxrguspxrt/win-test-lab,"Test Windows software on real Windows in QEMU: unattended installs, Active Directory labs, a frozen 0 state, one command per run"
+2026-10-25T20:39:42.323663Z,invoiceninja-sdk,0.2.0,0,0,https://github.com/awkawb1/invoiceninja-sdk,An async Rust client for the Invoice Ninja v5 API
+2026-10-25T20:40:50.562748Z,raikiri-js,0.0.0,0,0,https://github.com/fulgur-rs/raikiri,Bootstrap placeholder for Raikiri JavaScript runtime integration; contains no implementation
+2026-10-25T20:41:03.429091Z,raikiri-paint,0.0.0,0,0,https://github.com/fulgur-rs/raikiri,Bootstrap placeholder for Raikiri page painting; contains no implementation
+2026-10-25T20:48:28.205392Z,mcp-warden-core,0.4.1,0,0,https://github.com/ermoluk/mcp-warden,"Core traits and types for mcp-warden — local-first credential broker for AI agents. Implement these traits to plug in alternate keychain, approval, audit, or preset backends."
+2026-10-25T20:48:31.402752Z,mcp-warden,0.4.1,0,0,https://github.com/ermoluk/mcp-warden,Local-first credential broker MCP server for AI coding agents.
+2026-10-25T20:50:54.63706Z,nb-clean,5.0.0,0,0,https://github.com/srstevenson/nb-clean,Clean Jupyter notebooks for versioning
+2026-10-25T20:59:03.279989Z,drmanhattan-core,0.1.0,0,0,https://github.com/AtlantisAnalytics/drmanhattan,"Core library of watchmaker (wmk): deduplicated chunk packs, a SQLite catalog, and byte-exact restore"
+2026-10-25T20:59:17.395404Z,drmanhattan,0.1.0,0,0,https://github.com/AtlantisAnalytics/drmanhattan,watchmaker (wmk): disassemble directories into storage units and rebuild them exactly
+2026-10-25T21:01:30.692957Z,caesium-log,0.5.0,0,0,https://github.com/Cerclique/caesium,"A colorized logger that prefixes each line with the time elapsed since start, built on env_logger"
+2026-10-25T21:05:31.491102Z,oid4vc-core,0.2.0,0,0,https://github.com/impierce/openid4vc,Core types and traits shared by the Rust implementations of the OpenID4VC specifications
+2026-10-25T21:05:34.901808Z,oid4vc-manager,0.0.0,0,0,https://github.com/impierce/openid4vc,Reserved for the impierce/openid4vc workspace; the first release is 0.2.0.
+2026-10-25T21:07:23.147598Z,wt-formats,0.1.0,0,0,https://github.com/patodois/wt-formats,"Readers for the Dagor Engine resource formats of War Thunder: GRP packs, DXP texture packs, DDSx textures, DynModels and skeletons"
+2026-10-25T21:08:45.154357Z,mhfe-core,0.1.0,0,0,https://github.com/hobby-eng/mhfe_core,Experimental memory-hard Feistel encryption for BIP39 mnemonics
+2026-10-25T21:11:52.144769Z,rlx-program,0.2.19,0,0,https://github.com/MIT-RLX/rlx,"RLX programs — the host logic a package runs as WebAssembly (tokenize, phonemize, search, decode loops) around its graphs: the guest SDK and the message format both sides share."
+2026-10-25T21:12:59.918638Z,rlx-search,0.2.19,0,0,https://github.com/MIT-RLX/rlx,"Host-side sequence search shared by every decoder: argmax/top-k/log-softmax, beam search, CTC greedy/prefix-beam/forced alignment over log and tropical semirings"
+2026-10-25T21:14:08.180809Z,rlx-numpy,0.2.19,0,0,https://github.com/MIT-RLX/rlx,"Host-side numpy and torch-CPU numerics reproduced bit-for-bit: pairwise and cascade sums, half-to-even round, linspace, unmerged sin/cos, SIMD tanh, SLEEF exp, .npy I/O"
+2026-10-25T21:15:17.326095Z,rlx-special,0.2.19,0,0,https://github.com/MIT-RLX/rlx,"Boost.Math special functions (incomplete beta/gamma, erf, lgamma, Student-t, chi-squared) reproduced bit-for-bit as SciPy computes them"
+2026-10-25T21:16:26.081828Z,rlx-pocketfft,0.2.19,0,0,https://github.com/MIT-RLX/rlx,"scipy.fft (pocketfft) reproduced bit-for-bit in pure Rust, with selectable FMA contraction and twiddle rounding"

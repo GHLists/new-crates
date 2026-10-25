@@ -8,50 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 20:19 UTC
+## Latest list — 2026-10-25 21:18 UTC
 
-New crates published between 2026-10-25 19:19 UTC and 2026-10-25 20:19 UTC.
+New crates published between 2026-10-25 20:19 UTC and 2026-10-25 21:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-25T20-19-25-698848Z.csv)
+[Full CSV](data/new-crates-2026-10-25T21-18-36-287173Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-25 19:22:12 | [orcastrator](https://crates.io/crates/orcastrator) | 0.0.0 | 0 | Orcastrator, a self-hostable deployment platform with typed TypeScript configs.… |
-| 2026-10-25 19:24:49 | [au-casa](https://crates.io/crates/au-casa) | 0.1.0 | 0 | CASA (Australia) Part 61 rules that the ICAO-universal icao-shared-kernel leave… |
-| 2026-10-25 19:26:48 | [interactive_date_selector](https://crates.io/crates/interactive_date_selector) | 0.1.1 | 0 | A simple utility that allows prompting for a date from the command line. |
-| 2026-10-25 19:32:12 | [agbench](https://crates.io/crates/agbench) | 0.3.0 | 0 | Microbenchmark harness comparing targets doing the same work against a baseline |
-| 2026-10-25 19:32:49 | [promin-core](https://crates.io/crates/promin-core) | 0.1.1 | 0 | Library behind promin, a read-only local monitor for Deye solar inverters |
-| 2026-10-25 19:32:51 | [promin](https://crates.io/crates/promin) | 0.1.1 | 0 | Read-only local monitor for Deye solar inverters: polls the logger on your netw… |
-| 2026-10-25 19:34:31 | [wampproto](https://crates.io/crates/wampproto) | 0.1.0 | 0 | Sans-I/O WAMP protocol engine for clients and routers |
-| 2026-10-25 19:34:32 | [xconn-crypto](https://crates.io/crates/xconn-crypto) | 0.1.0 | 0 | Portable X25519 key agreement and authenticated packet encryption |
-| 2026-10-25 19:34:33 | [xconn-framing](https://crates.io/crates/xconn-framing) | 0.1.0 | 0 | Portable bounded data-channel message framing |
-| 2026-10-25 19:34:37 | [xconn-core](https://crates.io/crates/xconn-core) | 0.1.0 | 0 | Async and blocking WAMP clients, routers, and transports |
-| 2026-10-25 19:37:44 | [xlsmith](https://crates.io/crates/xlsmith) | 0.1.0 | 0 | Read spreadsheets and write them as CSV or JSON, from one binary |
-| 2026-10-25 19:39:36 | [cffdrs-fire](https://crates.io/crates/cffdrs-fire) | 0.4.1 | 0 | Pure-Rust Fire Behaviour Prediction (FBP) equations of the Canadian Forest Fire… |
-| 2026-10-25 19:42:03 | [bcn-decode](https://crates.io/crates/bcn-decode) | 0.1.0 | 0 | Block-compression texture decoder: BC1, BC2, BC3, BC4, BC5, BC6H and BC7, writt… |
-| 2026-10-25 19:44:03 | [uklad_derive](https://crates.io/crates/uklad_derive) | 1.0.0 | 0 | Derive macros for uklad |
-| 2026-10-25 19:44:10 | [uklad](https://crates.io/crates/uklad) | 1.0.0 | 0 | A compact binary encoder and decoder |
-| 2026-10-25 19:44:40 | [tafrigh-transcribe](https://crates.io/crates/tafrigh-transcribe) | 0.5.0 | 0 | Pinned transcribe.cpp runtime and Rust bindings with tafrigh's Cohere CUDA fixe… |
-| 2026-10-25 19:46:55 | [tafrigh-llama](https://crates.io/crates/tafrigh-llama) | 0.5.0 | 0 | Bundled llama.cpp and mtmd bindings sharing tafrigh-transcribe's ggml runtime. |
-| 2026-10-25 19:51:09 | [tafrigh-audar](https://crates.io/crates/tafrigh-audar) | 0.5.0 | 0 | Local Audar-ASR V1 Arabic recognition for tafrigh through bundled llama.cpp. |
-| 2026-10-25 19:54:22 | [core-scheduler](https://crates.io/crates/core-scheduler) | 0.1.0 | 0 | Explicit, runtime-independent scheduler capabilities for protocol libraries |
-| 2026-10-25 19:54:27 | [crc-guard](https://crates.io/crates/crc-guard) | 0.1.0 | 0 | CRC protects a value to be safely stored in .uninit memory |
-| 2026-10-25 19:54:30 | [core-scheduler-timers](https://crates.io/crates/core-scheduler-timers) | 0.1.0 | 0 | Reusable batched monotonic timers with constant-time cancellation |
-| 2026-10-25 19:54:40 | [core-scheduler-conformance](https://crates.io/crates/core-scheduler-conformance) | 0.1.0 | 0 | Reusable capability conformance tests for core-scheduler |
-| 2026-10-25 19:54:49 | [core-scheduler-direct](https://crates.io/crates/core-scheduler-direct) | 0.1.0 | 0 | Reference thread-based scheduler implementation for core-scheduler |
-| 2026-10-25 19:54:57 | [core-scheduler-selector](https://crates.io/crates/core-scheduler-selector) | 0.1.0 | 0 | Independent native I/O selectors and lifecycle contracts |
-| 2026-10-25 19:55:19 | [diagramdiff](https://crates.io/crates/diagramdiff) | 0.0.1 | 0 | Shows what changed between two diagram files, in the diagram's own terms |
-| 2026-10-25 19:56:33 | [kafkarrow-core](https://crates.io/crates/kafkarrow-core) | 0.1.1 | 0 | Core implementation of kafkarrow, exposing arrow-rs and rdkafka types. Pins spe… |
-| 2026-10-25 19:56:35 | [kafkarrow](https://crates.io/crates/kafkarrow) | 0.1.1 | 0 | Kafka consumer that replays topics in timestamp order into Apache Arrow record… |
-| 2026-10-25 19:59:12 | [core-scheduler-tokio](https://crates.io/crates/core-scheduler-tokio) | 0.1.0 | 0 | Tokio runtime adapter for explicit scheduler capabilities |
-| 2026-10-25 20:04:13 | [ahi](https://crates.io/crates/ahi) | 0.1.0 | 0 | Fail-closed pre-commit runner. Reads .pre-commit-config.yaml and runs offline b… |
-| 2026-10-25 20:06:31 | [tackline](https://crates.io/crates/tackline) | 0.1.0 | 0 | Steer coding agents from your terminal: put prompt instructions on lines of cod… |
-| 2026-10-25 20:06:58 | [libfima](https://crates.io/crates/libfima) | 0.1.0 | 0 | A library for creating Fast, Incredible, Minimal and Awesome file managers |
-| 2026-10-25 20:09:15 | [core-scheduler-native](https://crates.io/crates/core-scheduler-native) | 0.1.0 | 0 | Native work-stealing scheduler with readiness I/O and batched timers |
-| 2026-10-25 20:14:43 | [patronus-ark-core](https://crates.io/crates/patronus-ark-core) | 0.1.12 | 0 | Synchronous native security scanning with optional local Wolf inference |
-| 2026-10-25 20:18:37 | [tahweel](https://crates.io/crates/tahweel) | 0.1.0 | 0 | OCR for PDFs and images into TXT, DOCX and JSON: page rendering, pluggable reco… |
-| 2026-10-25 20:19:14 | [core-scheduler-iouring](https://crates.io/crates/core-scheduler-iouring) | 0.1.0 | 0 | Independently driven io_uring file and socket operations for Core schedulers |
-| 2026-10-25 20:19:25 | [tahweel-drive](https://crates.io/crates/tahweel-drive) | 0.1.0 | 0 | Google Drive OCR recognizer for tahweel, with service-account and OAuth sign-in. |
+| 2026-10-25 20:19:45 | [tahweel-cli](https://crates.io/crates/tahweel-cli) | 0.1.1 | 0 | Command-line OCR of PDFs and images into TXT, DOCX and JSON with tahweel. |
+| 2026-10-25 20:20:23 | [ai-crosshair](https://crates.io/crates/ai-crosshair) | 0.1.0 | 0 | Crosshair connection game engine with AlphaZero PUCT, UCT, alpha-beta, and WebA… |
+| 2026-10-25 20:21:25 | [toro-auth-postgres](https://crates.io/crates/toro-auth-postgres) | 1.0.5 | 0 | This crate provides a postgres backend implementation for the toro-auth-core cr… |
+| 2026-10-25 20:24:26 | [lztans](https://crates.io/crates/lztans) | 0.1.0 | 0 | Safe, dependency-free decoder for a family of LZ + Huffman/tANS block-compresse… |
+| 2026-10-25 20:26:11 | [acdp-chain](https://crates.io/crates/acdp-chain) | 0.16.1 | 0 | Offline, as-of chain verification over evidence bundles (RFC-ACDP-0017) for the… |
+| 2026-10-25 20:35:29 | [matma-derive](https://crates.io/crates/matma-derive) | 0.2.0 | 0 | Derive macros for matma's std140/std430 GPU buffer layouts (#[derive(Std140)],… |
+| 2026-10-25 20:35:37 | [matma](https://crates.io/crates/matma) | 0.2.0 | 0 | SIMD-first game math for Vulkan with Slang/HLSL naming: float3, float4x4, quat,… |
+| 2026-10-25 20:36:39 | [carpa](https://crates.io/crates/carpa) | 0.1.0 | 0 | Superintelligence for Topcoat apps: Claude, Jev and Firecrawl |
+| 2026-10-25 20:37:42 | [win-test-lab](https://crates.io/crates/win-test-lab) | 0.1.0 | 0 | Test Windows software on real Windows in QEMU: unattended installs, Active Dire… |
+| 2026-10-25 20:39:42 | [invoiceninja-sdk](https://crates.io/crates/invoiceninja-sdk) | 0.2.0 | 0 | An async Rust client for the Invoice Ninja v5 API |
+| 2026-10-25 20:40:50 | [raikiri-js](https://crates.io/crates/raikiri-js) | 0.0.0 | 0 | Bootstrap placeholder for Raikiri JavaScript runtime integration; contains no i… |
+| 2026-10-25 20:41:03 | [raikiri-paint](https://crates.io/crates/raikiri-paint) | 0.0.0 | 0 | Bootstrap placeholder for Raikiri page painting; contains no implementation |
+| 2026-10-25 20:48:28 | [mcp-warden-core](https://crates.io/crates/mcp-warden-core) | 0.4.1 | 0 | Core traits and types for mcp-warden — local-first credential broker for AI age… |
+| 2026-10-25 20:48:31 | [mcp-warden](https://crates.io/crates/mcp-warden) | 0.4.1 | 0 | Local-first credential broker MCP server for AI coding agents. |
+| 2026-10-25 20:50:54 | [nb-clean](https://crates.io/crates/nb-clean) | 5.0.0 | 0 | Clean Jupyter notebooks for versioning |
+| 2026-10-25 20:59:03 | [drmanhattan-core](https://crates.io/crates/drmanhattan-core) | 0.1.0 | 0 | Core library of watchmaker (wmk): deduplicated chunk packs, a SQLite catalog, a… |
+| 2026-10-25 20:59:17 | [drmanhattan](https://crates.io/crates/drmanhattan) | 0.1.0 | 0 | watchmaker (wmk): disassemble directories into storage units and rebuild them e… |
+| 2026-10-25 21:01:30 | [caesium-log](https://crates.io/crates/caesium-log) | 0.5.0 | 0 | A colorized logger that prefixes each line with the time elapsed since start, b… |
+| 2026-10-25 21:05:31 | [oid4vc-core](https://crates.io/crates/oid4vc-core) | 0.2.0 | 0 | Core types and traits shared by the Rust implementations of the OpenID4VC speci… |
+| 2026-10-25 21:05:34 | [oid4vc-manager](https://crates.io/crates/oid4vc-manager) | 0.0.0 | 0 | Reserved for the impierce/openid4vc workspace; the first release is 0.2.0. |
+| 2026-10-25 21:07:23 | [wt-formats](https://crates.io/crates/wt-formats) | 0.1.0 | 0 | Readers for the Dagor Engine resource formats of War Thunder: GRP packs, DXP te… |
+| 2026-10-25 21:08:45 | [mhfe-core](https://crates.io/crates/mhfe-core) | 0.1.0 | 0 | Experimental memory-hard Feistel encryption for BIP39 mnemonics |
+| 2026-10-25 21:11:52 | [rlx-program](https://crates.io/crates/rlx-program) | 0.2.19 | 0 | RLX programs — the host logic a package runs as WebAssembly (tokenize, phonemiz… |
+| 2026-10-25 21:12:59 | [rlx-search](https://crates.io/crates/rlx-search) | 0.2.19 | 0 | Host-side sequence search shared by every decoder: argmax/top-k/log-softmax, be… |
+| 2026-10-25 21:14:08 | [rlx-numpy](https://crates.io/crates/rlx-numpy) | 0.2.19 | 0 | Host-side numpy and torch-CPU numerics reproduced bit-for-bit: pairwise and cas… |
+| 2026-10-25 21:15:17 | [rlx-special](https://crates.io/crates/rlx-special) | 0.2.19 | 0 | Boost.Math special functions (incomplete beta/gamma, erf, lgamma, Student-t, ch… |
+| 2026-10-25 21:16:26 | [rlx-pocketfft](https://crates.io/crates/rlx-pocketfft) | 0.2.19 | 0 | scipy.fft (pocketfft) reproduced bit-for-bit in pure Rust, with selectable FMA… |
 
 ## Data source
 
