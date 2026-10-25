@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T19:22:12.977608Z,orcastrator,0.0.0,0,0,,"Orcastrator, a self-hostable deployment platform with typed TypeScript configs. Not released yet; this version reserves the name."
+2026-10-25T19:24:49.592616Z,au-casa,0.1.0,0,0,https://github.com/Open-Aviation-Solutions/au-casa,"CASA (Australia) Part 61 rules that the ICAO-universal icao-shared-kernel leaves out: aircraft classification, simulator recognition and titles of licence."
+2026-10-25T19:26:48.075516Z,interactive_date_selector,0.1.1,0,0,https://github.com/detranam/interactive-date-selector,A simple utility that allows prompting for a date from the command line.
+2026-10-25T19:32:12.160734Z,agbench,0.3.0,0,0,https://github.com/agnesoft/agnesoft,Microbenchmark harness comparing targets doing the same work against a baseline
+2026-10-25T19:32:49.074071Z,promin-core,0.1.1,0,0,https://github.com/serhii-pokrovskyi/promin,"Library behind promin, a read-only local monitor for Deye solar inverters"
+2026-10-25T19:32:51.884605Z,promin,0.1.1,0,0,https://github.com/serhii-pokrovskyi/promin,"Read-only local monitor for Deye solar inverters: polls the logger on your network, stores every sample, serves it over HTTP"
+2026-10-25T19:34:31.268939Z,wampproto,0.1.0,0,0,https://github.com/xconnio/xconn-core,Sans-I/O WAMP protocol engine for clients and routers
+2026-10-25T19:34:32.581495Z,xconn-crypto,0.1.0,0,0,https://github.com/xconnio/xconn-core,Portable X25519 key agreement and authenticated packet encryption
+2026-10-25T19:34:33.638963Z,xconn-framing,0.1.0,0,0,https://github.com/xconnio/xconn-core,Portable bounded data-channel message framing
+2026-10-25T19:34:37.284825Z,xconn-core,0.1.0,0,0,https://github.com/xconnio/xconn-core,"Async and blocking WAMP clients, routers, and transports"
+2026-10-25T19:37:44.228035Z,xlsmith,0.1.0,0,0,https://github.com/marceanlabs/xlsmith,"Read spreadsheets and write them as CSV or JSON, from one binary"
+2026-10-25T19:39:36.820511Z,cffdrs-fire,0.4.1,0,0,https://github.com/gagreene/cffdrs,"Pure-Rust Fire Behaviour Prediction (FBP) equations of the Canadian Forest Fire Danger Rating System: scalar core, grid pass and pipeline stages. FBP only, no Fire Weather Index."
+2026-10-25T19:42:03.663817Z,bcn-decode,0.1.0,0,0,https://github.com/patodois/bcn-decode,"Block-compression texture decoder: BC1, BC2, BC3, BC4, BC5, BC6H and BC7, written from the public specifications"
+2026-10-25T19:44:03.721768Z,uklad_derive,1.0.0,0,0,https://github.com/19h/uklad,Derive macros for uklad
+2026-10-25T19:44:10.636358Z,uklad,1.0.0,0,0,https://github.com/19h/uklad,A compact binary encoder and decoder
+2026-10-25T19:44:40.947874Z,tafrigh-transcribe,0.5.0,0,0,https://github.com/ieasybooks/tafrigh-rs,Pinned transcribe.cpp runtime and Rust bindings with tafrigh's Cohere CUDA fixes.
+2026-10-25T19:46:55.73246Z,tafrigh-llama,0.5.0,0,0,https://github.com/ieasybooks/tafrigh-rs,Bundled llama.cpp and mtmd bindings sharing tafrigh-transcribe's ggml runtime.
+2026-10-25T19:51:09.900237Z,tafrigh-audar,0.5.0,0,0,https://github.com/ieasybooks/tafrigh-rs,Local Audar-ASR V1 Arabic recognition for tafrigh through bundled llama.cpp.
+2026-10-25T19:54:22.068653Z,core-scheduler,0.1.0,0,0,https://github.com/core-rs/core-scheduler,"Explicit, runtime-independent scheduler capabilities for protocol libraries"
+2026-10-25T19:54:27.211148Z,crc-guard,0.1.0,0,0,,CRC protects a value to be safely stored in .uninit memory
+2026-10-25T19:54:30.234151Z,core-scheduler-timers,0.1.0,0,0,https://github.com/core-rs/core-scheduler,Reusable batched monotonic timers with constant-time cancellation
+2026-10-25T19:54:40.04383Z,core-scheduler-conformance,0.1.0,0,0,https://github.com/core-rs/core-scheduler,Reusable capability conformance tests for core-scheduler
+2026-10-25T19:54:49.382272Z,core-scheduler-direct,0.1.0,0,0,https://github.com/core-rs/core-scheduler,Reference thread-based scheduler implementation for core-scheduler
+2026-10-25T19:54:57.790731Z,core-scheduler-selector,0.1.0,0,0,https://github.com/core-rs/core-scheduler,Independent native I/O selectors and lifecycle contracts
+2026-10-25T19:55:19.068179Z,diagramdiff,0.0.1,0,0,https://github.com/mrvcoachmo/diagramdiff,"Shows what changed between two diagram files, in the diagram's own terms"
+2026-10-25T19:56:33.719648Z,kafkarrow-core,0.1.1,0,0,https://github.com/0x26res/kafkarrow,"Core implementation of kafkarrow, exposing arrow-rs and rdkafka types. Pins specific arrow and rdkafka versions; for an arrow-version-independent API use the kafkarrow crate."
+2026-10-25T19:56:35.469428Z,kafkarrow,0.1.1,0,0,https://github.com/0x26res/kafkarrow,"Kafka consumer that replays topics in timestamp order into Apache Arrow record batches, without pinning you to an arrow version"
+2026-10-25T19:59:12.278872Z,core-scheduler-tokio,0.1.0,0,0,https://github.com/core-rs/core-scheduler,Tokio runtime adapter for explicit scheduler capabilities
+2026-10-25T20:04:13.350441Z,ahi,0.1.0,0,0,https://github.com/iancleary/ahi,Fail-closed pre-commit runner. Reads .pre-commit-config.yaml and runs offline builtin checks.
+2026-10-25T20:06:31.749531Z,tackline,0.1.0,0,0,https://github.com/terminalkitten/tackline,"Steer coding agents from your terminal: put prompt instructions on lines of code, group them in sessions, and compile one prompt for Claude Code."
+2026-10-25T20:06:58.712454Z,libfima,0.1.0,0,0,https://github.com/SCSDC-co/FIMA,"A library for creating Fast, Incredible, Minimal and Awesome file managers"
+2026-10-25T20:09:15.208565Z,core-scheduler-native,0.1.0,0,0,https://github.com/core-rs/core-scheduler,Native work-stealing scheduler with readiness I/O and batched timers
+2026-10-25T20:14:43.976198Z,patronus-ark-core,0.1.12,0,0,https://github.com/patronus-protect/patronus-security,Synchronous native security scanning with optional local Wolf inference
+2026-10-25T20:18:37.081344Z,tahweel,0.1.0,0,0,https://github.com/ieasybooks/tahweel-rs,"OCR for PDFs and images into TXT, DOCX and JSON: page rendering, pluggable recognizers and output writers."
+2026-10-25T20:19:14.230267Z,core-scheduler-iouring,0.1.0,0,0,https://github.com/core-rs/core-scheduler,Independently driven io_uring file and socket operations for Core schedulers
+2026-10-25T20:19:25.001667Z,tahweel-drive,0.1.0,0,0,https://github.com/ieasybooks/tahweel-rs,"Google Drive OCR recognizer for tahweel, with service-account and OAuth sign-in."
