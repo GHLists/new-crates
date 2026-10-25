@@ -8,54 +8,68 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 06:19 UTC
+## Latest list — 2026-10-25 07:18 UTC
 
-New crates published between 2026-10-25 05:19 UTC and 2026-10-25 06:19 UTC.
+New crates published between 2026-10-25 06:19 UTC and 2026-10-25 07:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-25T06-19-39-715312Z.csv)
+[Full CSV](data/new-crates-2026-10-25T07-18-37-440391Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-25 05:20:33 | [kumizo](https://crates.io/crates/kumizo) | 0.11.0 | 0 | Command-line control tool (kumizo) for the Kumizo shell |
-| 2026-10-25 05:21:16 | [kumizo-aurora](https://crates.io/crates/kumizo-aurora) | 0.11.0 | 0 | Aurora shell: floating bar, control center, launcher, tasks, power, notifs, toa… |
-| 2026-10-25 05:21:44 | [podtrack](https://crates.io/crates/podtrack) | 0.2.1 | 0 | Tracker de la parrilla y del ciclo de vida de los episodios de un podcast: parr… |
-| 2026-10-25 05:25:37 | [rsmix-logger-middleware](https://crates.io/crates/rsmix-logger-middleware) | 1.0.0 | 0 | Middleware for logging HTTP requests and responses (remix logger-middleware) |
-| 2026-10-25 05:25:55 | [karen-ai](https://crates.io/crates/karen-ai) | 0.1.0 | 0 | Karen-AI — Fast, policy-driven guardrails engine for AI coding runtimes |
-| 2026-10-25 05:26:40 | [konomanoasa-tree-sitter-zsh](https://crates.io/crates/konomanoasa-tree-sitter-zsh) | 0.2.0 | 0 | Tree-sitter grammar for Zsh. |
-| 2026-10-25 05:26:42 | [day-spec](https://crates.io/crates/day-spec) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 05:30:46 | [tokenspeed-wire](https://crates.io/crates/tokenspeed-wire) | 0.1.0 | 0 | TokenSpeed engine IPC schema and msgpack codec |
-| 2026-10-25 05:30:49 | [tokenspeed-collective](https://crates.io/crates/tokenspeed-collective) | 0.1.0 | 0 | CPU collectives among the ranks of a TokenSpeed engine, over a TCP mesh |
-| 2026-10-25 05:30:52 | [tokenspeed-mooncake](https://crates.io/crates/tokenspeed-mooncake) | 0.1.0 | 0 | The Mooncake transfer engine and store client through tokenspeed-mooncake's C e… |
-| 2026-10-25 05:30:54 | [tokenspeed-grammar](https://crates.io/crates/tokenspeed-grammar) | 0.1.0 | 0 | Constrained decoding for the TokenSpeed control plane: xgrammar's C++ core behi… |
-| 2026-10-25 05:30:57 | [tokenspeed-scheduler](https://crates.io/crates/tokenspeed-scheduler) | 0.1.0 | 0 | The TokenSpeed C++ scheduler, embedded with its Python module |
-| 2026-10-25 05:31:27 | [cargo-blaze](https://crates.io/crates/cargo-blaze) | 0.0.1 | 0 | blaze: blazingly fast incremental Rust builds, tests and hot reload (the ra-jit… |
-| 2026-10-25 05:35:28 | [vix-input](https://crates.io/crates/vix-input) | 1.8.0 | 0 | Backend-neutral keyboard and mouse input types for Vix (key codes, modifiers, k… |
-| 2026-10-25 05:35:42 | [rsmix-node-fetch-server](https://crates.io/crates/rsmix-node-fetch-server) | 1.0.0 | 0 | Serve an rsmix Router over HTTP/1 and HTTP/2 with hyper and tokio |
-| 2026-10-25 05:36:42 | [day-toolkit-xaml-sys](https://crates.io/crates/day-toolkit-xaml-sys) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 05:36:59 | [ryl-yaml-parser](https://crates.io/crates/ryl-yaml-parser) | 0.1.0 | 0 | The YAML parser behind ryl: events with spans, comments and style, in pure Rust |
-| 2026-10-25 05:40:51 | [tokenspeed-client](https://crates.io/crates/tokenspeed-client) | 0.1.0 | 0 | Frontend client for TokenSpeed engines over the msgpack ZMQ wire |
-| 2026-10-25 05:41:19 | [wl-cast](https://crates.io/crates/wl-cast) | 0.2.1 | 0 | Screen capture, encoding and input for Wayland compositors |
-| 2026-10-25 05:45:40 | [rsmix-render-middleware](https://crates.io/crates/rsmix-render-middleware) | 1.0.1 | 0 | Server rendering for rsmix-fetch-router handlers: ctx.render(node) with streame… |
-| 2026-10-25 05:46:42 | [day-bridge](https://crates.io/crates/day-bridge) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 05:47:23 | [llamm](https://crates.io/crates/llamm) | 0.1.0 | 0 | Lamma.cpp Model Monitor - A terminal application for monitoring which models ar… |
-| 2026-10-25 05:50:58 | [tokenspeed-metrics](https://crates.io/crates/tokenspeed-metrics) | 0.1.0 | 0 | TokenSpeed's engine metrics: the metric definitions, Prometheus multiprocess ex… |
-| 2026-10-25 05:51:04 | [rust-cp](https://crates.io/crates/rust-cp) | 0.1.3-alpha.1 | 0 | A data mover with minimal dependencies: copy, verify, resume, sync and scan acr… |
-| 2026-10-25 05:55:38 | [rsmix-session-middleware](https://crates.io/crates/rsmix-session-middleware) | 1.0.1 | 0 | Middleware for managing sessions with cookie-based storage (remix session-middl… |
-| 2026-10-25 05:55:42 | [parkett](https://crates.io/crates/parkett) | 0.1.0 | 0 | View Apache Parquet files |
-| 2026-10-25 05:56:42 | [day-core](https://crates.io/crates/day-core) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 06:01:05 | [tokenspeed-l3](https://crates.io/crates/tokenspeed-l3) | 0.1.0 | 0 | The L3 storage tier's Host-only executor: bounded I/O queues, worker threads an… |
-| 2026-10-25 06:03:34 | [wsq-codec](https://crates.io/crates/wsq-codec) | 0.1.1 | 0 | Decoder and encoder for WSQ (Wavelet Scalar Quantization) fingerprint images |
-| 2026-10-25 06:04:02 | [ttyl](https://crates.io/crates/ttyl) | 0.1.0 | 0 | A terminal client for the dev-null.sh social network |
-| 2026-10-25 06:05:34 | [rsmix-spa](https://crates.io/crates/rsmix-spa) | 1.0.1 | 0 | Run an rsmix-fetch-router in the browser: client-only apps with the server's Re… |
-| 2026-10-25 06:06:07 | [pomdp](https://crates.io/crates/pomdp) | 0.1.1 | 0 | A Rust port of Julia's POMDPs.jl: an interface and toolkit for defining and sol… |
-| 2026-10-25 06:06:42 | [day-mock](https://crates.io/crates/day-mock) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 06:11:12 | [tokenspeed-pd](https://crates.io/crates/tokenspeed-pd) | 0.1.0 | 0 | TokenSpeed's PD transfer peer: the P/D handshake, room states and KV transfers… |
-| 2026-10-25 06:15:40 | [rsmix-csrf-middleware](https://crates.io/crates/rsmix-csrf-middleware) | 1.0.0 | 0 | Session-backed CSRF protection middleware (remix csrf-middleware) |
-| 2026-10-25 06:16:42 | [day-part-sensors](https://crates.io/crates/day-part-sensors) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 06:17:09 | [rustploy-update-core](https://crates.io/crates/rustploy-update-core) | 0.1.0 | 0 | Shared update logic for the Rustploy daemon and desktop app: release version co… |
-| 2026-10-25 06:18:10 | [luciola-ip](https://crates.io/crates/luciola-ip) | 0.3.0 | 0 | Pure algorithms for RFC IPv6 scoping, domestic broadband GUA LAN detection, and… |
-| 2026-10-25 06:18:43 | [luciola-proto](https://crates.io/crates/luciola-proto) | 0.3.0 | 0 | Zero-IO protocol state machine for Luciola P2P discovery: frames, jitter schedu… |
-| 2026-10-25 06:19:00 | [cube](https://crates.io/crates/cube) | 0.1.0 | 0 | Lightweight macOS ARM64 Hypervisor.framework Virtual Machine Monitor and CLI ma… |
+| 2026-10-25 06:19:46 | [luciola-net](https://crates.io/crates/luciola-net) | 0.3.0 | 0 | Network interface intelligence, physical/virtual scoring, WSL2 passthrough, and… |
+| 2026-10-25 06:20:27 | [oxstack-audio](https://crates.io/crates/oxstack-audio) | 0.1.0 | 0 | Allocation-free audio building blocks: level metering, tone generation |
+| 2026-10-25 06:20:27 | [luciola](https://crates.io/crates/luciola) | 0.3.0 | 0 | Lightweight, resilient LAN peer discovery and interface intelligence engine |
+| 2026-10-25 06:20:28 | [oxstack-drivers](https://crates.io/crates/oxstack-drivers) | 0.1.0 | 0 | Async, allocation-free drivers for the chips found on M5Stack devices |
+| 2026-10-25 06:20:28 | [oxstack-gfx](https://crates.io/crates/oxstack-gfx) | 0.1.0 | 0 | Wire-format RGB565 framebuffer with dirty-row tracking for small SPI displays |
+| 2026-10-25 06:20:29 | [oxstack-input](https://crates.io/crates/oxstack-input) | 0.1.0 | 0 | Keyboard model for M5Stack devices: physical keys, modifiers, layers, matrix ma… |
+| 2026-10-25 06:20:30 | [oxstack-ir](https://crates.io/crates/oxstack-ir) | 0.1.0 | 0 | Infrared remote-control protocol encoders (NEC) as mark/space timings |
+| 2026-10-25 06:21:20 | [tokenspeed-control](https://crates.io/crates/tokenspeed-control) | 0.1.0 | 0 | The TokenSpeed engine's control plane: request state, the scheduling loop, outp… |
+| 2026-10-25 06:23:12 | [luciola-cli](https://crates.io/crates/luciola-cli) | 0.3.0 | 0 | Command-line interface and diagnostic radar for the Luciola P2P discovery engine |
+| 2026-10-25 06:23:17 | [thdscaner](https://crates.io/crates/thdscaner) | 0.0.1 | 0 | 3D scanning: turning captures of a real object into a 3D digital model |
+| 2026-10-25 06:23:18 | [thdsimuer](https://crates.io/crates/thdsimuer) | 0.0.1 | 0 | 3D simulation: verifying a 3D model by simulating it in its intended environment |
+| 2026-10-25 06:24:11 | [oxstack-net](https://crates.io/crates/oxstack-net) | 0.1.0 | 0 | Transport-agnostic network protocol pieces: SNTP, calendar time |
+| 2026-10-25 06:25:19 | [serde_perl_dumper](https://crates.io/crates/serde_perl_dumper) | 0.1.0 | 0 | A Serde implementation for Perl data structures |
+| 2026-10-25 06:25:39 | [rsmix-method-override-middleware](https://crates.io/crates/rsmix-method-override-middleware) | 1.0.0 | 0 | Middleware for overriding HTTP request methods from form data (remix method-ove… |
+| 2026-10-25 06:26:42 | [day-part-biometrics](https://crates.io/crates/day-part-biometrics) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 06:31:27 | [tokenspeed-py](https://crates.io/crates/tokenspeed-py) | 0.1.0 | 0 | Python bindings: the frontend of the Python Engine API over ts-client, the L3 e… |
+| 2026-10-25 06:34:04 | [oxstack-cardputer](https://crates.io/crates/oxstack-cardputer) | 0.1.0 | 0 | Board support for the M5Stack Cardputer ADV on esp-hal + Embassy |
+| 2026-10-25 06:35:35 | [rsmix-static-middleware](https://crates.io/crates/rsmix-static-middleware) | 1.0.1 | 0 | Middleware for serving static files from the filesystem (remix static-middlewar… |
+| 2026-10-25 06:36:42 | [day-part-clipboard](https://crates.io/crates/day-part-clipboard) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 06:41:34 | [tokenspeed-host](https://crates.io/crates/tokenspeed-host) | 0.1.0 | 0 | One TokenSpeed engine rank: the Rust control plane, with the data plane in an e… |
+| 2026-10-25 06:42:08 | [openlist](https://crates.io/crates/openlist) | 0.4.1 | 0 | Rust SDK for the OpenList API |
+| 2026-10-25 06:42:14 | [openlist-cli](https://crates.io/crates/openlist-cli) | 0.4.1 | 0 | Command-line interface for the OpenList API |
+| 2026-10-25 06:45:36 | [rsmix](https://crates.io/crates/rsmix) | 3.1.0 | 0 | Remix 3 for Rust in one dependency: components and rsx! at the root, plus the r… |
+| 2026-10-25 06:45:54 | [pay-kit](https://crates.io/crates/pay-kit) | 0.1.0 | 0 | Payment webhooks to settled ledger entries — Stripe and GoCardless signature ve… |
+| 2026-10-25 06:46:42 | [day-part-connectivity](https://crates.io/crates/day-part-connectivity) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 06:47:03 | [mc683xx-cpu32](https://crates.io/crates/mc683xx-cpu32) | 0.1.0 | 0 | The Motorola CPU32 core: instructions, exceptions and bus cycles |
+| 2026-10-25 06:47:05 | [mc683xx-modules](https://crates.io/crates/mc683xx-modules) | 0.1.0 | 0 | The SIM and QSM of the Motorola 683xx parts, on the cpu32 core's bus |
+| 2026-10-25 06:47:06 | [mc683xx-mc68331](https://crates.io/crates/mc683xx-mc68331) | 0.1.0 | 0 | The Motorola MC68331: the CPU32 core, SIM, QSM and GPT composed into the chip |
+| 2026-10-25 06:47:08 | [mc683xx-board](https://crates.io/crates/mc683xx-board) | 0.1.0 | 0 | Board files for 683xx chips, the MC68331 among them: memories, peripherals from… |
+| 2026-10-25 06:47:10 | [mc683xx-gdb](https://crates.io/crates/mc683xx-gdb) | 0.1.0 | 0 | A GDB remote stub for the CPU32: the bare CPU, the MC68331 and its boards |
+| 2026-10-25 06:47:25 | [duscope-walk](https://crates.io/crates/duscope-walk) | 0.0.1 | 0 | Parallel work-stealing filesystem scanner and platform providers for duscope |
+| 2026-10-25 06:47:28 | [duscope-core](https://crates.io/crates/duscope-core) | 0.0.1 | 0 | Arena, accounting, SQLite index and queries for duscope |
+| 2026-10-25 06:47:30 | [duscope-treemap](https://crates.io/crates/duscope-treemap) | 0.0.1 | 0 | Treemap layout and static rendering for duscope |
+| 2026-10-25 06:47:33 | [duscope-tui](https://crates.io/crates/duscope-tui) | 0.0.1 | 0 | Interactive treemap viewer for duscope |
+| 2026-10-25 06:47:35 | [duscope-mcp](https://crates.io/crates/duscope-mcp) | 0.0.1 | 0 | Stdio MCP server layer for duscope |
+| 2026-10-25 06:53:47 | [aitp-cli](https://crates.io/crates/aitp-cli) | 0.22.0 | 0 | Command-line tool for AITP: keys, TCT and Manifest verification, and live hands… |
+| 2026-10-25 06:55:10 | [datumesh-formula](https://crates.io/crates/datumesh-formula) | 0.1.0 | 0 | The Datumesh formula dialect: parser, resolver, type and unit checker, printer,… |
+| 2026-10-25 06:55:22 | [mc683xx-peripherals](https://crates.io/crates/mc683xx-peripherals) | 0.1.0 | 0 | Stock chips for MC68331 boards: memories, converters and UARTs as board-file pe… |
+| 2026-10-25 06:56:38 | [zgx-cosmic-text](https://crates.io/crates/zgx-cosmic-text) | 0.19.0 | 0 | cosmic-text 0.19.0 with zgx's shaping fixes (see ZGX_PATCH.md): pure Rust multi… |
+| 2026-10-25 06:56:42 | [day-part-device](https://crates.io/crates/day-part-device) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 06:56:44 | [zgx-taffy](https://crates.io/crates/zgx-taffy) | 0.9.0 | 0 | taffy 0.9.0 with zgx's flexbox fix (see ZGX_PATCH.md): a flexible UI layout lib… |
+| 2026-10-25 06:56:53 | [zgx-mlua](https://crates.io/crates/zgx-mlua) | 0.12.2 | 0 | mlua 0.12.2 with zgx's table walk and userdata fixes (see ZGX_PATCH.md). High l… |
+| 2026-10-25 06:58:49 | [duscope](https://crates.io/crates/duscope) | 0.0.1 | 0 | Fast, queryable disk-usage analyzer with JSON output and an MCP server |
+| 2026-10-25 07:04:14 | [mc683xx-run](https://crates.io/crates/mc683xx-run) | 0.1.0 | 0 | Runs an MC68331 board file: the board crate's run loop as a command |
+| 2026-10-25 07:06:42 | [day-part-haptics](https://crates.io/crates/day-part-haptics) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 07:09:53 | [bonsai-windows-process](https://crates.io/crates/bonsai-windows-process) | 0.1.0 | 0 | Windows Job ownership and bounded native process lifecycle for Bonsai |
+| 2026-10-25 07:09:56 | [bonsai-windows-credentials](https://crates.io/crates/bonsai-windows-credentials) | 0.1.0 | 0 | Private Windows credential provisioning for the Bonsai development launcher |
+| 2026-10-25 07:10:10 | [vix-tui](https://crates.io/crates/vix-tui) | 1.8.0 | 0 | Vix IDE: a visual integrated development environment that is TUI, friendly, fea… |
+| 2026-10-25 07:11:07 | [bonsai-prism](https://crates.io/crates/bonsai-prism) | 0.1.0 | 0 | Bounded immutable LoRA B-vector sharing policy and Prism native adapter |
+| 2026-10-25 07:11:07 | [bonsai-ternary](https://crates.io/crates/bonsai-ternary) | 0.1.0 | 0 | Validated PQ2 and PTQ1 codecs and numerical utilities for Bonsai |
+| 2026-10-25 07:11:52 | [bonsai-gguf](https://crates.io/crates/bonsai-gguf) | 0.1.0 | 0 | Bounded GGUF inspection, pinned PQ2 census and exact PTQ1 export |
+| 2026-10-25 07:16:30 | [oxdock-mcp](https://crates.io/crates/oxdock-mcp) | 0.31.0-alpha | 0 | MCP tool hosting for exported OxDock script functions over stdio JSON-RPC. |
+| 2026-10-25 07:16:40 | [pouncer](https://crates.io/crates/pouncer) | 0.1.0 | 0 | Terminal-agnostic single-keystroke hint picker for scrollback |
+| 2026-10-25 07:16:42 | [day-part-http](https://crates.io/crates/day-part-http) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
 
 ## Data source
 

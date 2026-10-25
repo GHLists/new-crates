@@ -1,0 +1,55 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T06:19:46.28776Z,luciola-net,0.3.0,0,0,https://github.com/luciola-p2p/luciola,"Network interface intelligence, physical/virtual scoring, WSL2 passthrough, and subnet broadcast calculation"
+2026-10-25T06:20:27.254394Z,oxstack-audio,0.1.0,0,0,https://github.com/theashraf/oxstack,"Allocation-free audio building blocks: level metering, tone generation"
+2026-10-25T06:20:27.255385Z,luciola,0.3.0,0,0,https://github.com/luciola-p2p/luciola,"Lightweight, resilient LAN peer discovery and interface intelligence engine"
+2026-10-25T06:20:28.394595Z,oxstack-drivers,0.1.0,0,0,https://github.com/theashraf/oxstack,"Async, allocation-free drivers for the chips found on M5Stack devices"
+2026-10-25T06:20:28.874907Z,oxstack-gfx,0.1.0,0,0,https://github.com/theashraf/oxstack,Wire-format RGB565 framebuffer with dirty-row tracking for small SPI displays
+2026-10-25T06:20:29.329177Z,oxstack-input,0.1.0,0,0,https://github.com/theashraf/oxstack,"Keyboard model for M5Stack devices: physical keys, modifiers, layers, matrix maps"
+2026-10-25T06:20:30.384754Z,oxstack-ir,0.1.0,0,0,https://github.com/theashraf/oxstack,Infrared remote-control protocol encoders (NEC) as mark/space timings
+2026-10-25T06:21:20.386402Z,tokenspeed-control,0.1.0,0,0,https://github.com/lightseekorg/tokenspeed,"The TokenSpeed engine's control plane: request state, the scheduling loop, outputs"
+2026-10-25T06:23:12.785972Z,luciola-cli,0.3.0,0,0,https://github.com/luciola-p2p/luciola,Command-line interface and diagnostic radar for the Luciola P2P discovery engine
+2026-10-25T06:23:17.984009Z,thdscaner,0.0.1,0,0,https://github.com/fn-a/thdmaker,3D scanning: turning captures of a real object into a 3D digital model
+2026-10-25T06:23:18.56893Z,thdsimuer,0.0.1,0,0,https://github.com/fn-a/thdmaker,3D simulation: verifying a 3D model by simulating it in its intended environment
+2026-10-25T06:24:11.826773Z,oxstack-net,0.1.0,0,0,https://github.com/theashraf/oxstack,"Transport-agnostic network protocol pieces: SNTP, calendar time"
+2026-10-25T06:25:19.715384Z,serde_perl_dumper,0.1.0,0,0,https://github.com/dylanwh/serde_perl,A Serde implementation for Perl data structures
+2026-10-25T06:25:39.043992Z,rsmix-method-override-middleware,1.0.0,0,0,https://github.com/todd-skelton/rsmix,Middleware for overriding HTTP request methods from form data (remix method-override-middleware)
+2026-10-25T06:26:42.72803Z,day-part-biometrics,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T06:31:27.584094Z,tokenspeed-py,0.1.0,0,0,https://github.com/lightseekorg/tokenspeed,"Python bindings: the frontend of the Python Engine API over ts-client, the L3 executor and the disaggregation bootstrap server"
+2026-10-25T06:34:04.7026Z,oxstack-cardputer,0.1.0,0,0,https://github.com/theashraf/oxstack,Board support for the M5Stack Cardputer ADV on esp-hal + Embassy
+2026-10-25T06:35:35.886025Z,rsmix-static-middleware,1.0.1,0,0,https://github.com/todd-skelton/rsmix,Middleware for serving static files from the filesystem (remix static-middleware)
+2026-10-25T06:36:42.584832Z,day-part-clipboard,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T06:41:34.769971Z,tokenspeed-host,0.1.0,0,0,https://github.com/lightseekorg/tokenspeed,"One TokenSpeed engine rank: the Rust control plane, with the data plane in an embedded interpreter"
+2026-10-25T06:42:08.403195Z,openlist,0.4.1,0,0,https://github.com/Syndim/openlist-rs,Rust SDK for the OpenList API
+2026-10-25T06:42:14.945848Z,openlist-cli,0.4.1,0,0,https://github.com/Syndim/openlist-rs,Command-line interface for the OpenList API
+2026-10-25T06:45:36.322425Z,rsmix,3.1.0,0,0,https://github.com/todd-skelton/rsmix,"Remix 3 for Rust in one dependency: components and rsx! at the root, plus the router, middleware, auth, sessions and the rest of the toolkit as modules"
+2026-10-25T06:45:54.205329Z,pay-kit,0.1.0,0,0,https://github.com/WyattAu/pay-kit,"Payment webhooks to settled ledger entries — Stripe and GoCardless signature verification via webhookkit, settlements posted through double-entry"
+2026-10-25T06:46:42.635161Z,day-part-connectivity,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T06:47:03.032069Z,mc683xx-cpu32,0.1.0,0,0,https://github.com/charlieh0tel/mc683xx,"The Motorola CPU32 core: instructions, exceptions and bus cycles"
+2026-10-25T06:47:05.066745Z,mc683xx-modules,0.1.0,0,0,https://github.com/charlieh0tel/mc683xx,"The SIM and QSM of the Motorola 683xx parts, on the cpu32 core's bus"
+2026-10-25T06:47:06.913653Z,mc683xx-mc68331,0.1.0,0,0,https://github.com/charlieh0tel/mc683xx,"The Motorola MC68331: the CPU32 core, SIM, QSM and GPT composed into the chip"
+2026-10-25T06:47:08.998436Z,mc683xx-board,0.1.0,0,0,https://github.com/charlieh0tel/mc683xx,"Board files for 683xx chips, the MC68331 among them: memories, peripherals from a registry, decoders and nets around the chip"
+2026-10-25T06:47:10.558655Z,mc683xx-gdb,0.1.0,0,0,https://github.com/charlieh0tel/mc683xx,"A GDB remote stub for the CPU32: the bare CPU, the MC68331 and its boards"
+2026-10-25T06:47:25.676902Z,duscope-walk,0.0.1,0,0,https://github.com/kawadeomkar/duscope,Parallel work-stealing filesystem scanner and platform providers for duscope
+2026-10-25T06:47:28.409492Z,duscope-core,0.0.1,0,0,https://github.com/kawadeomkar/duscope,"Arena, accounting, SQLite index and queries for duscope"
+2026-10-25T06:47:30.909913Z,duscope-treemap,0.0.1,0,0,https://github.com/kawadeomkar/duscope,Treemap layout and static rendering for duscope
+2026-10-25T06:47:33.560639Z,duscope-tui,0.0.1,0,0,https://github.com/kawadeomkar/duscope,Interactive treemap viewer for duscope
+2026-10-25T06:47:35.817341Z,duscope-mcp,0.0.1,0,0,https://github.com/kawadeomkar/duscope,Stdio MCP server layer for duscope
+2026-10-25T06:53:47.758061Z,aitp-cli,0.22.0,0,0,https://github.com/agentidentitytrustprotocol/aitp-rs,"Command-line tool for AITP: keys, TCT and Manifest verification, and live handshakes"
+2026-10-25T06:55:10.799973Z,datumesh-formula,0.1.0,0,0,https://github.com/datumesh-com/datumesh-formula,"The Datumesh formula dialect: parser, resolver, type and unit checker, printer, canonical AST hash, exact decimal arithmetic and an evaluator with lineage and fuel."
+2026-10-25T06:55:22.699243Z,mc683xx-peripherals,0.1.0,0,0,https://github.com/charlieh0tel/mc683xx,"Stock chips for MC68331 boards: memories, converters and UARTs as board-file peripherals"
+2026-10-25T06:56:38.066622Z,zgx-cosmic-text,0.19.0,0,0,https://github.com/zeronsh/zgx,cosmic-text 0.19.0 with zgx's shaping fixes (see ZGX_PATCH.md): pure Rust multi-line text handling
+2026-10-25T06:56:42.690017Z,day-part-device,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T06:56:44.501113Z,zgx-taffy,0.9.0,0,0,https://github.com/zeronsh/zgx,taffy 0.9.0 with zgx's flexbox fix (see ZGX_PATCH.md): a flexible UI layout library
+2026-10-25T06:56:53.111835Z,zgx-mlua,0.12.2,0,0,https://github.com/zeronsh/zgx,mlua 0.12.2 with zgx's table walk and userdata fixes (see ZGX_PATCH.md). High level bindings to Lua 5.5/5.4/5.3/5.2/5.1 (including LuaJIT) and Luau with async/await features and support of writing na…
+2026-10-25T06:58:49.273966Z,duscope,0.0.1,0,0,https://github.com/kawadeomkar/duscope,"Fast, queryable disk-usage analyzer with JSON output and an MCP server"
+2026-10-25T07:04:14.595547Z,mc683xx-run,0.1.0,0,0,https://github.com/charlieh0tel/mc683xx,Runs an MC68331 board file: the board crate's run loop as a command
+2026-10-25T07:06:42.888349Z,day-part-haptics,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T07:09:53.722772Z,bonsai-windows-process,0.1.0,0,0,https://github.com/symbiogenesis/SwiftBonsai2,Windows Job ownership and bounded native process lifecycle for Bonsai
+2026-10-25T07:09:56.238718Z,bonsai-windows-credentials,0.1.0,0,0,https://github.com/symbiogenesis/SwiftBonsai2,Private Windows credential provisioning for the Bonsai development launcher
+2026-10-25T07:10:10.323732Z,vix-tui,1.8.0,0,0,https://github.com/vixide/vix,"Vix IDE: a visual integrated development environment that is TUI, friendly, featureful, high-speed, and high-security."
+2026-10-25T07:11:07.274747Z,bonsai-prism,0.1.0,0,0,https://github.com/symbiogenesis/prism-inference,Bounded immutable LoRA B-vector sharing policy and Prism native adapter
+2026-10-25T07:11:07.285037Z,bonsai-ternary,0.1.0,0,0,https://github.com/symbiogenesis/prism-inference,Validated PQ2 and PTQ1 codecs and numerical utilities for Bonsai
+2026-10-25T07:11:52.994215Z,bonsai-gguf,0.1.0,0,0,https://github.com/symbiogenesis/prism-inference,"Bounded GGUF inspection, pinned PQ2 census and exact PTQ1 export"
+2026-10-25T07:16:30.534823Z,oxdock-mcp,0.31.0-alpha,0,0,https://github.com/jzombie/rust-oxdock,MCP tool hosting for exported OxDock script functions over stdio JSON-RPC.
+2026-10-25T07:16:40.262628Z,pouncer,0.1.0,0,0,https://github.com/felis-terminal/pouncer,Terminal-agnostic single-keystroke hint picker for scrollback
+2026-10-25T07:16:42.552311Z,day-part-http,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
