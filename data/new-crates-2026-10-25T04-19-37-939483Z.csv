@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T03:25:44.538872Z,rsmix-response,1.0.1,0,0,https://github.com/todd-skelton/rsmix,"Response helpers for rsmix (remix response): html, redirect, file and compress"
+2026-10-25T03:27:49.214968Z,workclock,0.1.1,0,0,https://github.com/Karthik-beta/workclock,"Business-time arithmetic over working hours, breaks, holidays and time zones, including overnight shifts"
+2026-10-25T03:35:38.801554Z,rsmix-fetch-router,1.0.0,0,0,https://github.com/todd-skelton/rsmix,"A composable router on Request/Response with route maps, middleware and typed request context (port of remix fetch-router)"
+2026-10-25T03:45:43.535356Z,rsmix-lazy-file,5.0.8,0,0,https://github.com/todd-skelton/rsmix,"Lazy, streaming files and blobs for rsmix (Remix's lazy-file): LazyFile and LazyBlob read their content only when streamed, with byte-range slicing"
+2026-10-25T03:55:53.288543Z,rsmix-assets,1.0.1,0,0,https://github.com/todd-skelton/rsmix,"Serve browser assets from source directories: access rules, fingerprints, file transforms, CSS url() and module import rewriting (port of remix/assets)"
+2026-10-25T03:56:32.543726Z,the-mm-core,0.1.0,0,0,https://github.com/zhongyuan3/the-mm-core,Shared physical address and page-frame primitives for the the-* memory allocators
+2026-10-25T03:56:50.929674Z,quanttide-founder,0.1.0-alpha.4,0,0,https://github.com/quanttide/quanttide-founder-toolkit,量潮创始人工具箱（quanttide-founder-toolkit）的 Rust 包，面向创始人角色的事务与工具集合。
+2026-10-25T03:59:28.884065Z,mqp2p,0.3.0,0,0,https://github.com/LabOverWire/stitch-rs,Peer-to-peer transport (QUIC + NAT traversal) over an MQTT signaling channel.
+2026-10-25T04:01:32.515832Z,stitch-p2p,0.2.0,0,0,https://github.com/LabOverWire/stitch-rs,"Pure peer-to-peer state-sync engine: multi-leader, HLC last-writer-wins, signed writes, owner-controlled membership."
+2026-10-25T04:05:37.088529Z,rsmix-auth,1.0.0,0,0,https://github.com/todd-skelton/rsmix,"OAuth 2 and OpenID Connect login for rsmix (remix/auth): PKCE flows plus GitHub, Google, X, Facebook, Microsoft, Okta, Auth0 and generic OIDC providers"
+2026-10-25T04:11:09.115688Z,novnow,0.1.0,0,0,https://github.com/sonneko/novnow,小説プロジェクト（[title]/ レイアウト）向け執筆 IDE — egui + ropey
+2026-10-25T04:14:54.130078Z,day-app,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T04:15:14.597818Z,day-async,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T04:15:16.856373Z,day-geometry,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T04:15:19.011272Z,day-platform-linux,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T04:15:20.981548Z,day-platform-windows,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T04:15:37.169195Z,rsmix-auth-middleware,1.0.0,0,0,https://github.com/todd-skelton/rsmix,Pluggable authentication middleware for rsmix (remix auth-middleware): resolve who is making the request and require it on routes
+2026-10-25T04:16:42.820945Z,day-reactive,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
