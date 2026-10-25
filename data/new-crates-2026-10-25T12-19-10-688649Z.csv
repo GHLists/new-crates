@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T11:22:40.476768Z,sofd-search,0.5.1,0,0,https://github.com/emfox/sOFD,"Full-text search over an OFD document, answering with page, run and rectangle"
+2026-10-25T11:26:35.814861Z,rupg-catalog,0.1.84,0,0,https://github.com/tamnd/rupg,"The rupg catalog of user objects: schemas, tables, columns, constraints, indexes, roles, privileges."
+2026-10-25T11:26:42.527692Z,day-tweak-slider-tick-marks,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T11:27:27.381071Z,provcheck-image,1.5.1,0,0,https://github.com/CreativeMayhemLtd/provcheck,Image-modality neural-watermark detection for provcheck (TrustMark-B via ort with BCH-5 ecosystem interop; full detect + embed).
+2026-10-25T11:28:34.008407Z,k9o,1.0.0,0,0,https://github.com/k9o-dev/sdk-rust,"Kilimanjaro platform SDK — createClient + data DSL + projects + gate + studio (workflows/dashboards) + compute.llms + realtime subscriptions + KError. Rust idiomatic (snake_case; Result<Response<T>,…"
+2026-10-25T11:36:42.490113Z,day-tweak-tooltip,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T11:36:55.967886Z,rupg-pgcatalog,0.1.84,0,0,https://github.com/tamnd/rupg,"The built-in objects with their PostgreSQL OIDs, generated from the vendored .dat files, and the 64 virtual catalogs, 86 system views and 65 information_schema views."
+2026-10-25T11:37:00.788241Z,provcheck-synthid-text,1.5.1,0,0,https://github.com/CreativeMayhemLtd/provcheck,Google SynthID-text Bayesian tournament-sampling detection for provcheck.
+2026-10-25T11:40:41.521912Z,bevy_tween_lookup_curve,0.14.1,0,0,https://github.com/Multirious/bevy_tween,bevy_lookup_curve support for bevy_tween
+2026-10-25T11:45:34.212585Z,sapphire-framework-settings,0.22.0,0,0,https://github.com/sapphire-turtle/sapphire-framework,"Settings registry for sapphire-framework: owners, scope files and value resolution"
+2026-10-25T11:46:42.756745Z,day-tweak-tree-style,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T11:47:02.788588Z,provcheck-video,1.5.1,0,0,https://github.com/CreativeMayhemLtd/provcheck,Video-modality watermark detection for provcheck (per-frame TrustMark via ffmpeg shell-out + temporal majority vote).
+2026-10-25T11:47:14.488287Z,rupg-snowball,0.1.84,0,0,https://github.com/tamnd/rupg,"The 33 Snowball stemmers of PostgreSQL 19, from the Rust code that Snowball generates at the commit of the PostgreSQL pin."
+2026-10-25T11:47:31.136103Z,solana_kit_loader,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_loader,Reserved Loader v3 and v4 client crate for the off-chain Solana Kit SDK; this placeholder supplies no SDK APIs
+2026-10-25T11:48:52.798374Z,sofd-sign,0.5.1,0,0,https://github.com/emfox/sOFD,Read and verify OFD electronic signatures (GB/T 33190 clause 18)
+2026-10-25T11:49:16.484387Z,sofd,0.5.1,0,0,https://github.com/emfox/sOFD,"Open and use an OFD document: render, convert, print, sign, edit, search and audit behind one facade"
+2026-10-25T11:52:40.649959Z,sofd-i18n,0.5.1,0,0,https://github.com/emfox/sOFD,sOFD localization message layer built on Fluent
+2026-10-25T11:53:16.843972Z,acorde-omr,1.2.18,0,0,https://github.com/kent-tokyo/acorde,"Bounded, provider-neutral image analysis for Acorde OMR proposals"
+2026-10-25T11:53:49.420012Z,acorde-pdf,1.2.18,0,0,https://github.com/kent-tokyo/acorde,Vector PDF export for acorde scores through the Harumi backend
+2026-10-25T11:54:28.885963Z,medialinker-cli,0.3.1,0,0,https://github.com/marxnoe/MediaLinker-cli,Share files and text through MediaLinker with 5-character codes
+2026-10-25T11:57:05.650269Z,provcheck-kit,1.5.1,0,0,https://github.com/CreativeMayhemLtd/provcheck,"Artist-side CLI for provcheck: cert generation, C2PA signing, atproto attestation publishing."
+2026-10-25T11:57:40.542249Z,rupg-sql,0.1.84,0,0,https://github.com/tamnd/rupg,"The lexer, the parser from the vendored gram.y, the parse tree and its printer."
+2026-10-25T12:03:00.833154Z,df-lighter-core,0.0.1-beta,0,0,,"Lighter SDK for Rust: markets, account, trading, transfers, pools and binary options on Lighter and on Robinhood Chain, with exact decimals and the API key signer in Rust. Native and wasm."
+2026-10-25T12:05:00.185535Z,sofd-cli,0.5.1,0,0,https://github.com/emfox/sOFD,"The `sofd` command: inspect, render, convert, verify, search, audit and print an OFD document"
+2026-10-25T12:08:03.257351Z,rupg-types,0.1.84,0,0,https://github.com/tamnd/rupg,"The value model, Datum, Vector of 1024 values, TypeId, the text and binary forms of the 197 types, numeric, date and time, JSON, arrays, ranges."
+2026-10-25T12:10:06.689092Z,dumpling-cli,0.0.1,0,0,https://github.com/chocks/dumpling,Copy MySQL databases into local environments while anonymizing sensitive data
+2026-10-25T12:15:14.848386Z,a4aa-copilot,0.4.1,0,0,https://github.com/Unka-Malloc/Adapter-For-All-Agents,"a4aa dialect adapter: the `copilot` mechanism descriptor (hooks, rules, skills, commands, subagents, plugins, permissions, MCP) for a4aa's adaptation engine."
+2026-10-25T12:16:42.613246Z,rpi-durable,0.1.0,0,0,https://github.com/pi-rust/rpi-package,"Durable, resumable workflow checkpoints for the rpi Rust agent"
+2026-10-25T12:18:34.861653Z,rupg-analyze,0.1.84,0,0,https://github.com/tamnd/rupg,"Name resolution, type resolution, the query tree, the rewriter for views and rules."
