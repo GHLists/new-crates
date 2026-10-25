@@ -1,0 +1,16 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T08:26:42.629151Z,day-pieces,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T08:30:19.662736Z,cjson-safe-core,0.3.0,0,0,https://github.com/Gordion-Solutions/cjson-rs,"Safe-Rust engine behind cjson-safe. Not a general-purpose JSON library: if you are writing Rust and don't need cJSON's API or ABI, use serde_json."
+2026-10-25T08:34:04.689989Z,dlin-sqllineage,0.0.0,0,0,https://github.com/eitsupi/dlin,Column-level SQL lineage engine used by dlin (a fork of sqllineage). Placeholder release.
+2026-10-25T08:36:42.762578Z,day-platform-macos,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T08:41:05.725001Z,cargo-modfmt,0.1.0,0,0,https://github.com/lusingander/cargo-modfmt,Cargo subcommand that sorts and groups Rust mod and use declarations
+2026-10-25T08:46:42.586147Z,day-localization-ui,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T08:48:16.07658Z,picturesque-marks,0.2.0,0,0,https://github.com/sosuisen/picturesque-marks,Generate SVG icons from tag strings and sketchy underlines from seeds.
+2026-10-25T08:56:18.428186Z,yog-script-run,0.1.0,0,0,,"Yog Script's interpreter: checked code run over its tree — for macros at build time, constants, `yog test`, and as the semantics the compiled code must keep."
+2026-10-25T08:56:23.414584Z,yog-script-java,0.1.0,0,0,,"Yog Script compiled to Java: a checked source written as one Java class (its types nested), for javac to make the bytecode the hosts load."
+2026-10-25T08:56:42.718222Z,day-part-downloads,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T09:04:23.774956Z,shipkit,0.1.0,0,0,https://github.com/acus9345/shipkit,"Take a project from a local folder to a public GitHub repo and a registry release, safely. JSON in, JSON out."
+2026-10-25T09:06:42.762506Z,day-part-keychain,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T09:06:57.918051Z,tauto-jsgen,0.0.0,0,0,https://github.com/Hihaheho/tauto,JavaScript code generator from Nib IR for Tauto
+2026-10-25T09:07:41.056114Z,system-runtime-spec,0.1.0,0,0,https://github.com/rugix/system-runtime-spec,"System component compatibility, operational health, and filesystem discovery."
+2026-10-25T09:16:42.719741Z,day-toolkit-arkui,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."

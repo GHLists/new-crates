@@ -8,37 +8,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 08:19 UTC
+## Latest list — 2026-10-25 09:19 UTC
 
-New crates published between 2026-10-25 07:18 UTC and 2026-10-25 08:19 UTC.
+New crates published between 2026-10-25 08:19 UTC and 2026-10-25 09:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-25T08-19-13-842128Z.csv)
+[Full CSV](data/new-crates-2026-10-25T09-19-29-152327Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-25 07:20:04 | [prism-inference](https://crates.io/crates/prism-inference) | 0.1.1 | 0 | Bounded Rust CPU inference and tokenization for Prism-compatible GGUF models |
-| 2026-10-25 07:21:25 | [movoa](https://crates.io/crates/movoa) | 0.1.0 | 0 | Unlimited AI video generator with sound: on paid plans the tenth take of a shot… |
-| 2026-10-25 07:25:05 | [sortlab](https://crates.io/crates/sortlab) | 0.1.0 | 0 | An experimental, extensible Rust library of sorting algorithms with a unified A… |
-| 2026-10-25 07:26:42 | [day-part-local-notify](https://crates.io/crates/day-part-local-notify) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 07:30:32 | [prism-inference-server](https://crates.io/crates/prism-inference-server) | 0.1.1 | 0 | Bounded private HTTP server for Prism CPU inference |
-| 2026-10-25 07:35:47 | [openraster](https://crates.io/crates/openraster) | 0.0.1 | 0 | OpenRaster image encoding and decoding |
-| 2026-10-25 07:36:42 | [day-part-location](https://crates.io/crates/day-part-location) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 07:41:21 | [askama-lsp](https://crates.io/crates/askama-lsp) | 0.1.0 | 0 | LSP Server for askama rust |
-| 2026-10-25 07:43:44 | [web-core-backup](https://crates.io/crates/web-core-backup) | 0.4.0 | 0 | Postgres and folder backups to S3, with backup/restore subcommands, for web-cor… |
-| 2026-10-25 07:46:42 | [day-part-permissions](https://crates.io/crates/day-part-permissions) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 07:56:42 | [day-part-preferences](https://crates.io/crates/day-part-preferences) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 08:05:32 | [scenario-weaver](https://crates.io/crates/scenario-weaver) | 0.1.0 | 0 | Generates driving-scenario trajectories from YAML specs with LTL and the Z3 SMT… |
-| 2026-10-25 08:06:42 | [day-part-sound](https://crates.io/crates/day-part-sound) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 08:07:04 | [cachelet](https://crates.io/crates/cachelet) | 0.1.0 | 0 | a small, async cache library built, with a focus on simplicity, predictable beh… |
-| 2026-10-25 08:10:41 | [pictogram-icons-flag](https://crates.io/crates/pictogram-icons-flag) | 0.5.0 | 0 | Flag Icons export for pictogram |
-| 2026-10-25 08:10:46 | [pictogram-icons-fluent-emoji](https://crates.io/crates/pictogram-icons-fluent-emoji) | 0.5.0 | 0 | Fluent Emoji export for pictogram |
-| 2026-10-25 08:14:34 | [hyperlane-performance](https://crates.io/crates/hyperlane-performance) | 22.0.8 | 0 | Reproducible multi-protocol performance tools for Hyperlane. |
-| 2026-10-25 08:15:17 | [hullcheck](https://crates.io/crates/hullcheck) | 0.1.0 | 0 | Read-only security review for the SaaS you built with an AI agent. Zero depende… |
-| 2026-10-25 08:15:36 | [radveil-core](https://crates.io/crates/radveil-core) | 0.1.0 | 0 | CPU-only NIfTI face renderer and anonymizer: orientation-aware volume rendering… |
-| 2026-10-25 08:15:50 | [radveil-cli](https://crates.io/crates/radveil-cli) | 0.1.0 | 0 | CLI for radveil: NIfTI face rendering and anonymization |
-| 2026-10-25 08:16:42 | [day-part-wakelock](https://crates.io/crates/day-part-wakelock) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 08:18:20 | [arkitekt-embassy](https://crates.io/crates/arkitekt-embassy) | 0.14.0 | 0 | Arkitekt apps on embassy: the rekuest agent, fakts' login and rath over embedde… |
-| 2026-10-25 08:18:21 | [scico](https://crates.io/crates/scico) | 0.5.0 | 0 | A scientific Markdown editor with integrated RAG co-writing and reference manag… |
+| 2026-10-25 08:26:42 | [day-pieces](https://crates.io/crates/day-pieces) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 08:30:19 | [cjson-safe-core](https://crates.io/crates/cjson-safe-core) | 0.3.0 | 0 | Safe-Rust engine behind cjson-safe. Not a general-purpose JSON library: if you… |
+| 2026-10-25 08:34:04 | [dlin-sqllineage](https://crates.io/crates/dlin-sqllineage) | 0.0.0 | 0 | Column-level SQL lineage engine used by dlin (a fork of sqllineage). Placeholde… |
+| 2026-10-25 08:36:42 | [day-platform-macos](https://crates.io/crates/day-platform-macos) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 08:41:05 | [cargo-modfmt](https://crates.io/crates/cargo-modfmt) | 0.1.0 | 0 | Cargo subcommand that sorts and groups Rust mod and use declarations |
+| 2026-10-25 08:46:42 | [day-localization-ui](https://crates.io/crates/day-localization-ui) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 08:48:16 | [picturesque-marks](https://crates.io/crates/picturesque-marks) | 0.2.0 | 0 | Generate SVG icons from tag strings and sketchy underlines from seeds. |
+| 2026-10-25 08:56:18 | [yog-script-run](https://crates.io/crates/yog-script-run) | 0.1.0 | 0 | Yog Script's interpreter: checked code run over its tree — for macros at build… |
+| 2026-10-25 08:56:23 | [yog-script-java](https://crates.io/crates/yog-script-java) | 0.1.0 | 0 | Yog Script compiled to Java: a checked source written as one Java class (its ty… |
+| 2026-10-25 08:56:42 | [day-part-downloads](https://crates.io/crates/day-part-downloads) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 09:04:23 | [shipkit](https://crates.io/crates/shipkit) | 0.1.0 | 0 | Take a project from a local folder to a public GitHub repo and a registry relea… |
+| 2026-10-25 09:06:42 | [day-part-keychain](https://crates.io/crates/day-part-keychain) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 09:06:57 | [tauto-jsgen](https://crates.io/crates/tauto-jsgen) | 0.0.0 | 0 | JavaScript code generator from Nib IR for Tauto |
+| 2026-10-25 09:07:41 | [system-runtime-spec](https://crates.io/crates/system-runtime-spec) | 0.1.0 | 0 | System component compatibility, operational health, and filesystem discovery. |
+| 2026-10-25 09:16:42 | [day-toolkit-arkui](https://crates.io/crates/day-toolkit-arkui) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
 
 ## Data source
 
