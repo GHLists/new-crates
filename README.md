@@ -8,45 +8,59 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 15:22 UTC
+## Latest list — 2026-10-25 16:18 UTC
 
-New crates published between 2026-10-25 14:18 UTC and 2026-10-25 15:22 UTC.
+New crates published between 2026-10-25 15:22 UTC and 2026-10-25 16:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-25T15-22-32-832777Z.csv)
+[Full CSV](data/new-crates-2026-10-25T16-18-48-419115Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-25 14:21:30 | [apidoc-idl](https://crates.io/crates/apidoc-idl) | 2.1.0 | 0 | Generate apidoc annotations from .proto / .thrift IDL files |
-| 2026-10-25 14:22:48 | [srvdb](https://crates.io/crates/srvdb) | 0.2.0 | 0 | Embedded vector database for local and offline AI applications |
-| 2026-10-25 14:22:51 | [kade-sql](https://crates.io/crates/kade-sql) | 0.1.0 | 0 | Minimal AI-assisted SQL client for Postgres |
-| 2026-10-25 14:27:13 | [ongo](https://crates.io/crates/ongo) | 0.1.0 | 0 | A small, fast, Django-style web framework |
-| 2026-10-25 14:40:25 | [gpsd-binder](https://crates.io/crates/gpsd-binder) | 0.1.0 | 0 | Android GNSS driver (AIDL android.hardware.gnss) backed by gpsd, in pure Rust o… |
-| 2026-10-25 14:44:42 | [cortexkit-project-identity](https://crates.io/crates/cortexkit-project-identity) | 0.1.1 | 0 | Transport-independent request and reply types for the project-identity module |
-| 2026-10-25 14:47:00 | [adbkit](https://crates.io/crates/adbkit) | 0.1.0 | 0 | Shared adb helpers for the android-tools workspace |
-| 2026-10-25 14:47:05 | [apkctl](https://crates.io/crates/apkctl) | 0.1.0 | 0 | App lifecycle over adb — clear data/cache, restart, kill, uninstall, deep links… |
-| 2026-10-25 14:47:22 | [assetgen](https://crates.io/crates/assetgen) | 0.1.0 | 0 | Android density asset generator — launcher, notification, adaptive, 9-patch, de… |
-| 2026-10-25 14:47:24 | [dp2px](https://crates.io/crates/dp2px) | 0.1.0 | 0 | px ↔ dp ↔ sp converter — offline, or against the device's real density |
-| 2026-10-25 14:47:28 | [layoutlint](https://crates.io/crates/layoutlint) | 0.1.0 | 0 | UI hierarchy lint — touch targets, overlap, labels, from a uiautomator dump |
-| 2026-10-25 14:47:31 | [connpool-rs](https://crates.io/crates/connpool-rs) | 1.0.11 | 0 | A battle-tested connection-pool model: slot-reserved sizing, health & rotation… |
-| 2026-10-25 14:48:17 | [fastjs-regex](https://crates.io/crates/fastjs-regex) | 0.1.0 | 0 | ECMAScript regex semantics with a linear-time fast path |
-| 2026-10-25 14:56:34 | [bier_derive](https://crates.io/crates/bier_derive) | 1.0.0 | 0 | Trait derive for Bierpc |
-| 2026-10-25 14:56:36 | [bierpc](https://crates.io/crates/bierpc) | 1.0.0 | 0 | Binary Encoder and Remote Procedure Calling |
-| 2026-10-25 14:56:49 | [zenpac](https://crates.io/crates/zenpac) | 0.0.0 | 0 | The package manager of Zen Linux (in development). This name is reserved; the f… |
-| 2026-10-25 14:56:52 | [libzenpac](https://crates.io/crates/libzenpac) | 0.0.0 | 0 | The zenpac library for embedding the Zen Linux package manager (Rust API and C… |
-| 2026-10-25 14:56:54 | [df-elysium-core](https://crates.io/crates/df-elysium-core) | 0.0.1-beta | 0 | Elysium SDK for Rust on df-hyperliquid-core: Nitro JSON-RPC, ArbOS precompiles,… |
-| 2026-10-25 14:56:55 | [zenbuild](https://crates.io/crates/zenbuild) | 0.0.0 | 0 | The build tool of Zen Linux (in development). This name is reserved; the first… |
-| 2026-10-25 14:56:57 | [zp-core](https://crates.io/crates/zp-core) | 0.0.0 | 0 | Core library of zenpac, the Zen Linux package manager (in development). This na… |
-| 2026-10-25 14:58:16 | [logstream](https://crates.io/crates/logstream) | 0.1.0 | 0 | Live Android log streamer - logcat, but actually nice |
-| 2026-10-25 15:00:02 | [validity-proto](https://crates.io/crates/validity-proto) | 0.1.1 | 0 | Protocol for Synaptics/Validity match-on-chip fingerprint sensors |
-| 2026-10-25 15:00:16 | [validity-vendor](https://crates.io/crates/validity-vendor) | 0.1.1 | 0 | Installs the Synaptics vendor files (driver DLL, firmware extension) that valid… |
-| 2026-10-25 15:00:38 | [vkrust](https://crates.io/crates/vkrust) | 0.3.0 | 0 | Registry-generated Vulkan ABI and per-device dispatch for Rust |
-| 2026-10-25 15:00:39 | [validity-daemon](https://crates.io/crates/validity-daemon) | 0.1.1 | 0 | fprintd-compatible D-Bus service (net.reactivated.Fprint) for Synaptics/Validit… |
-| 2026-10-25 15:04:29 | [appmem](https://crates.io/crates/appmem) | 0.1.3 | 0 | See which macOS app is using your memory, grouped per app, in the terminal |
-| 2026-10-25 15:07:21 | [perfpoll](https://crates.io/crates/perfpoll) | 0.1.0 | 0 | Per-app perf sampler over adb — CPU, RAM, battery drain, fps to CSV |
-| 2026-10-25 15:09:38 | [natty](https://crates.io/crates/natty) | 0.0.0 | 0 | NAT traversal library: QUIC to a peer's public key, direct by hole punching or… |
-| 2026-10-25 15:09:49 | [natty-relay](https://crates.io/crates/natty-relay) | 0.0.0 | 0 | Relay server for natty: key-addressed sessions, packet forwarding, STUN |
-| 2026-10-25 15:17:21 | [resclean](https://crates.io/crates/resclean) | 0.1.0 | 0 | Dead res/ resource detector for Android projects — CI gate |
-| 2026-10-25 15:18:23 | [zonetrace](https://crates.io/crates/zonetrace) | 0.1.1 | 0 | Zones timed into a call tree: a polite, low-overhead Rust profiler that subtrac… |
+| 2026-10-25 15:23:56 | [soroban-sim-host](https://crates.io/crates/soroban-sim-host) | 29.0.2 | 0 | Isolated Soroban application host for soroban-sim exact transaction metering |
+| 2026-10-25 15:24:13 | [soroban-sim-core](https://crates.io/crates/soroban-sim-core) | 0.1.0 | 0 | Portable Soroban simulation and forked network sessions |
+| 2026-10-25 15:24:47 | [soroban-sim-facade](https://crates.io/crates/soroban-sim-facade) | 0.1.0 | 0 | A Stellar RPC facade over a network session, without a transport: stellar-rpc a… |
+| 2026-10-25 15:25:17 | [soroban-sim-component](https://crates.io/crates/soroban-sim-component) | 0.1.0 | 0 | WASI component interface for portable Soroban simulation |
+| 2026-10-25 15:25:50 | [yoto-cli](https://crates.io/crates/yoto-cli) | 0.1.0 | 0 | Manage Yoto Make Your Own playlists from the command line: sign in, upload audi… |
+| 2026-10-25 15:26:05 | [soroban-sim-cli](https://crates.io/crates/soroban-sim-cli) | 0.1.0 | 0 | Rehearse a multi-transaction Soroban setup on a forked network |
+| 2026-10-25 15:27:21 | [scenediff](https://crates.io/crates/scenediff) | 0.1.0 | 0 | Visual regression diff of two screenshots, files or device captures |
+| 2026-10-25 15:27:46 | [rupg-session](https://crates.io/crates/rupg-session) | 0.1.84 | 0 | Sessions, the 438 settings, portals, prepared statements, the plan cache, LISTE… |
+| 2026-10-25 15:27:58 | [arkitekt-mesh-core](https://crates.io/crates/arkitekt-mesh-core) | 0.0.0 | 0 | Placeholder for the arkitekt-mesh release (arkitektio/arkitekt-mesh); the real… |
+| 2026-10-25 15:28:08 | [rupg-server](https://crates.io/crates/rupg-server) | 0.1.84 | 0 | The listener, TLS, authentication, pg_hba.conf, the task per connection, cancel. |
+| 2026-10-25 15:28:16 | [rupg-tree](https://crates.io/crates/rupg-tree) | 0.1.84 | 0 | A B+ tree over PageAccess with optimistic latch coupling, used by the hot store… |
+| 2026-10-25 15:28:24 | [rupg-hot](https://crates.io/crates/rupg-hot) | 0.1.84 | 0 | The hot row pages, in-place update with undo pointers, the row id map. |
+| 2026-10-25 15:28:30 | [rupg-table](https://crates.io/crates/rupg-table) | 0.1.84 | 0 | A table as one object over both stores, TOAST, the system columns, the row id a… |
+| 2026-10-25 15:31:38 | [ntfs-ng](https://crates.io/crates/ntfs-ng) | 0.1.0 | 0 | Fast, hardened NTFS and $MFT parsing: zero-copy records, a parallel MFT scan en… |
+| 2026-10-25 15:37:21 | [startperf](https://crates.io/crates/startperf) | 0.1.0 | 0 | App cold/warm start benchmark over adb |
+| 2026-10-25 15:38:52 | [rupg-txn](https://crates.io/crates/rupg-txn) | 0.1.84 | 0 | MVCC, snapshots, undo, row and advisory locks, SSI, savepoints, two-phase commi… |
+| 2026-10-25 15:39:37 | [msi-rgb](https://crates.io/crates/msi-rgb) | 0.2.1 | 0 | Native Linux RGB keyboard controller for MSI Katana 15 HX laptops |
+| 2026-10-25 15:41:50 | [devpage](https://crates.io/crates/devpage) | 0.1.0 | 0 | Live documents from Markdown in a repository: sites, docs and slides, with comm… |
+| 2026-10-25 15:43:22 | [xdg-focus](https://crates.io/crates/xdg-focus) | 0.1.0 | 0 | Try our very best to take back focus, it's rightfully ours! |
+| 2026-10-25 15:47:21 | [svg2vd](https://crates.io/crates/svg2vd) | 0.1.0 | 0 | SVG → Android VectorDrawable XML converter — pure, no device, no Android SDK |
+| 2026-10-25 15:47:57 | [writz-spv-client](https://crates.io/crates/writz-spv-client) | 0.1.0 | 0 | Soroban client for the Writz bitcoin-spv contract: prove a Bitcoin transaction… |
+| 2026-10-25 15:48:49 | [duct-graphics-core](https://crates.io/crates/duct-graphics-core) | 0.1.0 | 0 | Core C-ABI vtable interface and common types for Project32 duct graphics pipeli… |
+| 2026-10-25 15:48:59 | [duct-graphics](https://crates.io/crates/duct-graphics) | 0.1.0 | 0 | Central router and dynamic pipeline loader for Project32 duct graphics subsystem |
+| 2026-10-25 15:49:16 | [rupg](https://crates.io/crates/rupg) | 0.1.84 | 0 | The Rust API, the facade crate that a user adds to Cargo.toml. |
+| 2026-10-25 15:54:47 | [talechime-moss-tts](https://crates.io/crates/talechime-moss-tts) | 0.1.0 | 0 | Native Candle computation for MOSS speech models |
+| 2026-10-25 15:57:21 | [iconkit](https://crates.io/crates/iconkit) | 0.1.0 | 0 | Material Symbols icon search and downloader — browse fonts.google.com/icons, fe… |
+| 2026-10-25 15:59:05 | [talechime-voxcpm](https://crates.io/crates/talechime-voxcpm) | 0.1.0 | 0 | Native Candle VoxCPM2 inference from the production GGUF weights |
+| 2026-10-25 15:59:27 | [talechime-omnivoice](https://crates.io/crates/talechime-omnivoice) | 0.1.0 | 0 | Native Candle OmniVoice inference for Talechime |
+| 2026-10-25 15:59:33 | [rupg-ann](https://crates.io/crates/rupg-ann) | 0.1.84 | 0 | The vector index of document 13, which hnsw and ivfflat map to. |
+| 2026-10-25 15:59:45 | [talechime-cosyvoice3](https://crates.io/crates/talechime-cosyvoice3) | 0.1.0 | 0 | Native Candle inference for Fun-CosyVoice3-0.5B with optional ORT reference pat… |
+| 2026-10-25 16:00:04 | [talechime-indextts](https://crates.io/crates/talechime-indextts) | 0.1.0 | 0 | Native Candle IndexTTS 2.5 inference from converted official checkpoints |
+| 2026-10-25 16:04:03 | [scx](https://crates.io/crates/scx) | 0.5.0 | 0 | Local query-aware evidence-selection compressor for agent contexts (seed-region… |
+| 2026-10-25 16:07:21 | [uitool](https://crates.io/crates/uitool) | 0.1.0 | 0 | Practical Android UI driver — dump, find, tap, shot over adb |
+| 2026-10-25 16:09:47 | [rupg-capi](https://crates.io/crates/rupg-capi) | 0.1.84 | 0 | The C API and the libpq exports of document 17. |
+| 2026-10-25 16:11:24 | [pbc-core](https://crates.io/crates/pbc-core) | 0.1.0 | 0 | Typed BLS12-381 pairing API with strict encodings and RFC 9380 hash-to-curve |
+| 2026-10-25 16:11:32 | [pbc-legacy](https://crates.io/crates/pbc-legacy) | 0.1.0 | 0 | Independent reimplementation of PBC's arbitrary-parameter pairing families, leg… |
+| 2026-10-25 16:11:40 | [pbc-compat](https://crates.io/crates/pbc-compat) | 0.1.0 | 0 | Safe PBC-style element/context operations over pbc-core (modern) and pbc-legacy… |
+| 2026-10-25 16:11:45 | [pbc-rs](https://crates.io/crates/pbc-rs) | 0.1.0 | 0 | User-facing facade re-exporting pbc-compat. |
+| 2026-10-25 16:11:50 | [pbc-rs-ffi](https://crates.io/crates/pbc-rs-ffi) | 0.1.0 | 0 | Modern C/C++ migration interface (libpbc_rs) over pbc-compat. |
+| 2026-10-25 16:12:03 | [nouride-run](https://crates.io/crates/nouride-run) | 0.1.0 | 0 | Headless task and mission runner utility for the Nouride multi-agent engine. |
+| 2026-10-25 16:14:53 | [ochrepad-lsp](https://crates.io/crates/ochrepad-lsp) | 0.4.0 | 0 | The language server client of the ochrepad text editor (internal; no stable API) |
+| 2026-10-25 16:15:37 | [ek-tq](https://crates.io/crates/ek-tq) | 0.1.0 | 0 | TianQin (TqSdk) data-side gateway plugin for the ek ecosystem, via a Python sid… |
+| 2026-10-25 16:17:35 | [petri-core](https://crates.io/crates/petri-core) | 0.1.0 | 0 | Generic places, transitions, tokens and markings for state-machine Petri nets |
+| 2026-10-25 16:18:34 | [akku-drive](https://crates.io/crates/akku-drive) | 0.0.1 | 0 | Attribute macros for Akku: HTTP routes and the async entry point. |
+| 2026-10-25 16:18:43 | [akku](https://crates.io/crates/akku) | 0.0.1 | 0 | A pragmatic Rust battery pack: one namespace, clear APIs, opt-in power. |
 
 ## Data source
 

@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T15:23:56.663664Z,soroban-sim-host,29.0.2,0,0,https://github.com/theahaco/soroban-sim,Isolated Soroban application host for soroban-sim exact transaction metering
+2026-10-25T15:24:13.816249Z,soroban-sim-core,0.1.0,0,0,https://github.com/theahaco/soroban-sim,Portable Soroban simulation and forked network sessions
+2026-10-25T15:24:47.568609Z,soroban-sim-facade,0.1.0,0,0,https://github.com/theahaco/soroban-sim,"A Stellar RPC facade over a network session, without a transport: stellar-rpc and fork_* JSON-RPC methods, the step log and the session report"
+2026-10-25T15:25:17.799591Z,soroban-sim-component,0.1.0,0,0,https://github.com/theahaco/soroban-sim,WASI component interface for portable Soroban simulation
+2026-10-25T15:25:50.564206Z,yoto-cli,0.1.0,0,0,https://github.com/rvben/yoto-cli,"Manage Yoto Make Your Own playlists from the command line: sign in, upload audio, create and inspect content."
+2026-10-25T15:26:05.875793Z,soroban-sim-cli,0.1.0,0,0,https://github.com/theahaco/soroban-sim,Rehearse a multi-transaction Soroban setup on a forked network
+2026-10-25T15:27:21.069193Z,scenediff,0.1.0,0,0,https://github.com/YoannDev90/android-tools,"Visual regression diff of two screenshots, files or device captures"
+2026-10-25T15:27:46.169716Z,rupg-session,0.1.84,0,0,https://github.com/tamnd/rupg,"Sessions, the 438 settings, portals, prepared statements, the plan cache, LISTEN and NOTIFY."
+2026-10-25T15:27:58.221438Z,arkitekt-mesh-core,0.0.0,0,0,https://github.com/arkitektio/arkitekt-mesh,Placeholder for the arkitekt-mesh release (arkitektio/arkitekt-mesh); the real crate is released from there.
+2026-10-25T15:28:08.268405Z,rupg-server,0.1.84,0,0,https://github.com/tamnd/rupg,"The listener, TLS, authentication, pg_hba.conf, the task per connection, cancel."
+2026-10-25T15:28:16.69497Z,rupg-tree,0.1.84,0,0,https://github.com/tamnd/rupg,"A B+ tree over PageAccess with optimistic latch coupling, used by the hot store, the catalog, TOAST and the B-tree index."
+2026-10-25T15:28:24.116058Z,rupg-hot,0.1.84,0,0,https://github.com/tamnd/rupg,"The hot row pages, in-place update with undo pointers, the row id map."
+2026-10-25T15:28:30.515883Z,rupg-table,0.1.84,0,0,https://github.com/tamnd/rupg,"A table as one object over both stores, TOAST, the system columns, the row id allocator per shard, the scan that merges the stores."
+2026-10-25T15:31:38.758183Z,ntfs-ng,0.1.0,0,0,https://github.com/xangelix/ntfs-ng,"Fast, hardened NTFS and $MFT parsing: zero-copy records, a parallel MFT scan engine, path resolution with explicit policies, and volume streams."
+2026-10-25T15:37:21.589205Z,startperf,0.1.0,0,0,https://github.com/YoannDev90/android-tools,App cold/warm start benchmark over adb
+2026-10-25T15:38:52.781638Z,rupg-txn,0.1.84,0,0,https://github.com/tamnd/rupg,"MVCC, snapshots, undo, row and advisory locks, SSI, savepoints, two-phase commit, commit timestamps, the mover of document 04 section 4.4."
+2026-10-25T15:39:37.496188Z,msi-rgb,0.2.1,0,0,https://github.com/jeremylanes/msi-rgb,Native Linux RGB keyboard controller for MSI Katana 15 HX laptops
+2026-10-25T15:41:50.515529Z,devpage,0.1.0,0,0,https://github.com/andrei512/devpage,"Live documents from Markdown in a repository: sites, docs and slides, with comments, link checking and PDF"
+2026-10-25T15:43:22.762854Z,xdg-focus,0.1.0,0,0,https://codeberg.org/pricklythorn/xdg-focus,"Try our very best to take back focus, it's rightfully ours!"
+2026-10-25T15:47:21.282679Z,svg2vd,0.1.0,0,0,https://github.com/YoannDev90/android-tools,"SVG → Android VectorDrawable XML converter — pure, no device, no Android SDK"
+2026-10-25T15:47:57.028417Z,writz-spv-client,0.1.0,0,0,https://github.com/WritzProtocol/writz,Soroban client for the Writz bitcoin-spv contract: prove a Bitcoin transaction from a Stellar smart contract
+2026-10-25T15:48:49.555447Z,duct-graphics-core,0.1.0,0,0,https://github.com/Retroboi64/duct,Core C-ABI vtable interface and common types for Project32 duct graphics pipeline
+2026-10-25T15:48:59.082482Z,duct-graphics,0.1.0,0,0,https://github.com/Retroboi64/duct,Central router and dynamic pipeline loader for Project32 duct graphics subsystem
+2026-10-25T15:49:16.650239Z,rupg,0.1.84,0,0,https://github.com/tamnd/rupg,"The Rust API, the facade crate that a user adds to Cargo.toml."
+2026-10-25T15:54:47.673018Z,talechime-moss-tts,0.1.0,0,0,https://github.com/yexiyue/talechime,Native Candle computation for MOSS speech models
+2026-10-25T15:57:21.337997Z,iconkit,0.1.0,0,0,https://github.com/YoannDev90/android-tools,"Material Symbols icon search and downloader — browse fonts.google.com/icons, fetch SVG or VectorDrawable"
+2026-10-25T15:59:05.394239Z,talechime-voxcpm,0.1.0,0,0,https://github.com/yexiyue/talechime,Native Candle VoxCPM2 inference from the production GGUF weights
+2026-10-25T15:59:27.185825Z,talechime-omnivoice,0.1.0,0,0,https://github.com/yexiyue/talechime,Native Candle OmniVoice inference for Talechime
+2026-10-25T15:59:33.434075Z,rupg-ann,0.1.84,0,0,https://github.com/tamnd/rupg,"The vector index of document 13, which hnsw and ivfflat map to."
+2026-10-25T15:59:45.557916Z,talechime-cosyvoice3,0.1.0,0,0,https://github.com/yexiyue/talechime,Native Candle inference for Fun-CosyVoice3-0.5B with optional ORT reference paths
+2026-10-25T16:00:04.814172Z,talechime-indextts,0.1.0,0,0,https://github.com/yexiyue/talechime,Native Candle IndexTTS 2.5 inference from converted official checkpoints
+2026-10-25T16:04:03.952325Z,scx,0.5.0,0,0,https://github.com/spapient/scx,"Local query-aware evidence-selection compressor for agent contexts (seed-region gated optional layer, structural seed invariant, deterministic, offline, zero deps)"
+2026-10-25T16:07:21.232195Z,uitool,0.1.0,0,0,https://github.com/YoannDev90/android-tools,"Practical Android UI driver — dump, find, tap, shot over adb"
+2026-10-25T16:09:47.852128Z,rupg-capi,0.1.84,0,0,https://github.com/tamnd/rupg,The C API and the libpq exports of document 17.
+2026-10-25T16:11:24.485369Z,pbc-core,0.1.0,0,0,https://gitlab.com/wykwit/pbc-rs,Typed BLS12-381 pairing API with strict encodings and RFC 9380 hash-to-curve
+2026-10-25T16:11:32.092406Z,pbc-legacy,0.1.0,0,0,https://gitlab.com/wykwit/pbc-rs,"Independent reimplementation of PBC's arbitrary-parameter pairing families, legacy formats and hashes."
+2026-10-25T16:11:40.118263Z,pbc-compat,0.1.0,0,0,https://gitlab.com/wykwit/pbc-rs,Safe PBC-style element/context operations over pbc-core (modern) and pbc-legacy (legacy).
+2026-10-25T16:11:45.809094Z,pbc-rs,0.1.0,0,0,https://gitlab.com/wykwit/pbc-rs,User-facing facade re-exporting pbc-compat.
+2026-10-25T16:11:50.739529Z,pbc-rs-ffi,0.1.0,0,0,https://gitlab.com/wykwit/pbc-rs,Modern C/C++ migration interface (libpbc_rs) over pbc-compat.
+2026-10-25T16:12:03.68257Z,nouride-run,0.1.0,0,0,https://github.com/nouverse/nouride,Headless task and mission runner utility for the Nouride multi-agent engine.
+2026-10-25T16:14:53.033572Z,ochrepad-lsp,0.4.0,0,0,https://github.com/xor295/ochrepad,The language server client of the ochrepad text editor (internal; no stable API)
+2026-10-25T16:15:37.011644Z,ek-tq,0.1.0,0,0,,"TianQin (TqSdk) data-side gateway plugin for the ek ecosystem, via a Python sidecar bridge"
+2026-10-25T16:17:35.963533Z,petri-core,0.1.0,0,0,https://github.com/Lsh0x/petri-net,"Generic places, transitions, tokens and markings for state-machine Petri nets"
+2026-10-25T16:18:34.49398Z,akku-drive,0.0.1,0,0,https://github.com/LukasLow/akku,Attribute macros for Akku: HTTP routes and the async entry point.
+2026-10-25T16:18:43.29299Z,akku,0.0.1,0,0,https://github.com/LukasLow/akku,"A pragmatic Rust battery pack: one namespace, clear APIs, opt-in power."
