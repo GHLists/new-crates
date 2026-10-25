@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T14:21:30.728904Z,apidoc-idl,2.1.0,0,0,https://github.com/erikwang2013/apidoc-rust,Generate apidoc annotations from .proto / .thrift IDL files
+2026-10-25T14:22:48.960036Z,srvdb,0.2.0,0,0,https://github.com/Srinivas26k/srvdb,Embedded vector database for local and offline AI applications
+2026-10-25T14:22:51.654238Z,kade-sql,0.1.0,0,0,https://github.com/KjetilIN/kade,Minimal AI-assisted SQL client for Postgres
+2026-10-25T14:27:13.541339Z,ongo,0.1.0,0,0,https://github.com/uoxone/ongo,"A small, fast, Django-style web framework"
+2026-10-25T14:40:25.43842Z,gpsd-binder,0.1.0,0,0,https://github.com/anelson/gpsd-binder,"Android GNSS driver (AIDL android.hardware.gnss) backed by gpsd, in pure Rust over binder"
+2026-10-25T14:44:42.374849Z,cortexkit-project-identity,0.1.1,0,0,https://github.com/cortexkit/commons,Transport-independent request and reply types for the project-identity module
+2026-10-25T14:47:00.255504Z,adbkit,0.1.0,0,0,https://github.com/YoannDev90/android-tools,Shared adb helpers for the android-tools workspace
+2026-10-25T14:47:05.742718Z,apkctl,0.1.0,0,0,https://github.com/YoannDev90/android-tools,"App lifecycle over adb — clear data/cache, restart, kill, uninstall, deep links, one or every device"
+2026-10-25T14:47:22.790606Z,assetgen,0.1.0,0,0,https://github.com/YoannDev90/android-tools,"Android density asset generator — launcher, notification, adaptive, 9-patch, debug badges from one source PNG"
+2026-10-25T14:47:24.730727Z,dp2px,0.1.0,0,0,https://github.com/YoannDev90/android-tools,"px ↔ dp ↔ sp converter — offline, or against the device's real density"
+2026-10-25T14:47:28.672563Z,layoutlint,0.1.0,0,0,https://github.com/YoannDev90/android-tools,"UI hierarchy lint — touch targets, overlap, labels, from a uiautomator dump"
+2026-10-25T14:47:31.720579Z,connpool-rs,1.0.11,0,0,https://github.com/Jeffeek/poolyglot,"A battle-tested connection-pool model: slot-reserved sizing, health & rotation rules, a circuit breaker, backoff retries, and first-class observability. The blocking pool is dependency-free (std only…"
+2026-10-25T14:48:17.72476Z,fastjs-regex,0.1.0,0,0,https://github.com/TheBeastLT/parse-torrent-title,ECMAScript regex semantics with a linear-time fast path
+2026-10-25T14:56:34.641697Z,bier_derive,1.0.0,0,0,,Trait derive for Bierpc
+2026-10-25T14:56:36.835141Z,bierpc,1.0.0,0,0,,Binary Encoder and Remote Procedure Calling
+2026-10-25T14:56:49.784454Z,zenpac,0.0.0,0,0,,The package manager of Zen Linux (in development). This name is reserved; the first real release follows.
+2026-10-25T14:56:52.550702Z,libzenpac,0.0.0,0,0,,"The zenpac library for embedding the Zen Linux package manager (Rust API and C ABI, in development). This name is reserved; the first real release follows."
+2026-10-25T14:56:54.605627Z,df-elysium-core,0.0.1-beta,0,0,,"Elysium SDK for Rust on df-hyperliquid-core: Nitro JSON-RPC, ArbOS precompiles, gas, HyperEVM bridging, deploys and polling, with exact amounts and signing. Native and wasm."
+2026-10-25T14:56:55.346592Z,zenbuild,0.0.0,0,0,,The build tool of Zen Linux (in development). This name is reserved; the first real release follows.
+2026-10-25T14:56:57.589638Z,zp-core,0.0.0,0,0,,"Core library of zenpac, the Zen Linux package manager (in development). This name is reserved; the first real release follows."
+2026-10-25T14:58:16.64589Z,logstream,0.1.0,0,0,https://github.com/YoannDev90/android-tools,"Live Android log streamer - logcat, but actually nice"
+2026-10-25T15:00:02.806852Z,validity-proto,0.1.1,0,0,https://github.com/validity-rs/validity-rs,Protocol for Synaptics/Validity match-on-chip fingerprint sensors
+2026-10-25T15:00:16.181999Z,validity-vendor,0.1.1,0,0,https://github.com/validity-rs/validity-rs,"Installs the Synaptics vendor files (driver DLL, firmware extension) that validity-daemon needs, from Lenovo's driver package, checked by SHA-256"
+2026-10-25T15:00:38.457445Z,vkrust,0.3.0,0,0,https://github.com/realminc/vk,Registry-generated Vulkan ABI and per-device dispatch for Rust
+2026-10-25T15:00:39.475458Z,validity-daemon,0.1.1,0,0,https://github.com/validity-rs/validity-rs,fprintd-compatible D-Bus service (net.reactivated.Fprint) for Synaptics/Validity match-on-chip fingerprint sensors
+2026-10-25T15:04:29.442772Z,appmem,0.1.3,0,0,https://github.com/FraCata00/appmem,"See which macOS app is using your memory, grouped per app, in the terminal"
+2026-10-25T15:07:21.043268Z,perfpoll,0.1.0,0,0,https://github.com/YoannDev90/android-tools,"Per-app perf sampler over adb — CPU, RAM, battery drain, fps to CSV"
+2026-10-25T15:09:38.935966Z,natty,0.0.0,0,0,https://github.com/razvandimescu/natty,"NAT traversal library: QUIC to a peer's public key, direct by hole punching or relayed"
+2026-10-25T15:09:49.679804Z,natty-relay,0.0.0,0,0,https://github.com/razvandimescu/natty,"Relay server for natty: key-addressed sessions, packet forwarding, STUN"
+2026-10-25T15:17:21.257544Z,resclean,0.1.0,0,0,https://github.com/YoannDev90/android-tools,Dead res/ resource detector for Android projects — CI gate
+2026-10-25T15:18:23.114509Z,zonetrace,0.1.1,0,0,https://github.com/pigface-io/zonetrace,"Zones timed into a call tree: a polite, low-overhead Rust profiler that subtracts its own cost. 4 to 27 ns a zone by machine, no dependencies, kernel counts per zone on Linux, and perf samples joined…"

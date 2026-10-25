@@ -8,46 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 14:18 UTC
+## Latest list — 2026-10-25 15:22 UTC
 
-New crates published between 2026-10-25 13:18 UTC and 2026-10-25 14:18 UTC.
+New crates published between 2026-10-25 14:18 UTC and 2026-10-25 15:22 UTC.
 
-[Full CSV](data/new-crates-2026-10-25T14-18-39-918368Z.csv)
+[Full CSV](data/new-crates-2026-10-25T15-22-32-832777Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-25 13:21:03 | [rupg-wire](https://crates.io/crates/rupg-wire) | 0.1.84 | 0 | The message codec of protocols 3.0 and 3.2, the SCRAM exchange, the COPY sub-pr… |
-| 2026-10-25 13:23:17 | [worker-shared](https://crates.io/crates/worker-shared) | 0.1.0 | 0 | AWS Lambda plumbing for Rust: secrets cache, EventBridge/SQS dispatch, handler… |
-| 2026-10-25 13:23:21 | [letterxpress](https://crates.io/crates/letterxpress) | 0.1.0 | 0 | Typed async client for the LetterXpress API v3 (physical letter mailing): print… |
-| 2026-10-25 13:23:39 | [mock-ddb](https://crates.io/crates/mock-ddb) | 0.1.0 | 0 | In-process DynamoDB mock for Rust tests: tables, expressions, queries, batches,… |
-| 2026-10-25 13:24:14 | [chidev-core](https://crates.io/crates/chidev-core) | 0.1.0 | 0 | Core (SDK) of chidev: Contract, Interface and Harness as the assets of a codeba… |
-| 2026-10-25 13:24:16 | [chidev-provider-rust](https://crates.io/crates/chidev-provider-rust) | 0.1.0 | 0 | The Rust providers of chidev: pure functions from a source text to single-site… |
-| 2026-10-25 13:24:18 | [chidev](https://crates.io/crates/chidev) | 0.1.0 | 0 | Contract, Interface and Harness as the assets of a codebase; the code is a cach… |
-| 2026-10-25 13:24:20 | [chidev-cli](https://crates.io/crates/chidev-cli) | 0.1.0 | 0 | Command-line interface of chidev: Contract, Interface and Harness as the assets… |
-| 2026-10-25 13:27:44 | [framer](https://crates.io/crates/framer) | 0.1.0 | 0 | Generate and maintain a Rust repository's configuration files from typed Rust c… |
-| 2026-10-25 13:27:46 | [cargo-framer](https://crates.io/crates/cargo-framer) | 0.1.0 | 0 | The `cargo framer` command: run a repository's .framer/ project |
-| 2026-10-25 13:29:23 | [sillstone-qoi](https://crates.io/crates/sillstone-qoi) | 0.3.0-beta.1 | 0 | QOI (Quite OK Image format) pure-Rust lossless encoder and decoder (zero-dep Ru… |
-| 2026-10-25 13:29:30 | [sillstone-tensor](https://crates.io/crates/sillstone-tensor) | 0.3.0-beta.1 | 0 | Pure-Rust N-dimensional strided tensor and array computing engine (NumPy replac… |
-| 2026-10-25 13:36:25 | [polyllm-core](https://crates.io/crates/polyllm-core) | 0.1.0 | 0 | PolyLLM core protocol, param policy, registry, and client (Rust implementation,… |
-| 2026-10-25 13:36:52 | [polyllm-openai](https://crates.io/crates/polyllm-openai) | 0.1.0 | 0 | PolyLLM OpenAI Chat Completions adapter (Rust implementation, experimental). |
-| 2026-10-25 13:37:53 | [polyllm-openai-compatible](https://crates.io/crates/polyllm-openai-compatible) | 0.1.0 | 0 | PolyLLM OpenAI-compatible gateway adapter with presets (Rust implementation, ex… |
-| 2026-10-25 13:38:11 | [polyllm-deepseek](https://crates.io/crates/polyllm-deepseek) | 0.1.0 | 0 | PolyLLM DeepSeek adapter (Rust implementation, experimental). |
-| 2026-10-25 13:38:25 | [polyllm-ollama](https://crates.io/crates/polyllm-ollama) | 0.1.0 | 0 | PolyLLM Ollama local adapter (Rust implementation, experimental). |
-| 2026-10-25 13:39:46 | [read-after-link](https://crates.io/crates/read-after-link) | 0.1.0 | 0 | A rustc wrapper that reads each newly linked proc-macro DLL once before cargo l… |
-| 2026-10-25 13:40:50 | [mlmf-stablehlo](https://crates.io/crates/mlmf-stablehlo) | 0.7.15 | 0 | Reads and writes the MLIR bytecode container that StableHLO portable artifacts… |
-| 2026-10-25 13:41:00 | [mlmf-pt2](https://crates.io/crates/mlmf-pt2) | 0.7.15 | 0 | Reads and writes PyTorch torch.export .pt2 archives: the zip layout, the weight… |
-| 2026-10-25 13:41:39 | [bevy_society](https://crates.io/crates/bevy_society) | 0.2.0 | 0 | Living societies for Bevy: personalities, moods, needs, memories, relationships… |
-| 2026-10-25 13:44:13 | [polyllm-anthropic](https://crates.io/crates/polyllm-anthropic) | 0.1.0 | 0 | PolyLLM Anthropic Messages API adapter (Rust implementation, experimental). |
-| 2026-10-25 13:52:00 | [vyd-core](https://crates.io/crates/vyd-core) | 0.1.0 | 0 | Managed frames and composable video processing pipelines |
-| 2026-10-25 13:56:27 | [itl-core](https://crates.io/crates/itl-core) | 0.1.0 | 0 | Read/write for iTunes Library.itl. Vendored and patched fork of itl-rs. |
-| 2026-10-25 13:56:39 | [itl-sync](https://crates.io/crates/itl-sync) | 0.1.0 | 0 | Sync layer for iTunes libraries: advisory rescan and safe writes |
-| 2026-10-25 13:59:36 | [tuinews](https://crates.io/crates/tuinews) | 0.1.0 | 0 | The news in your terminal: a vim-style RSS reader with a sidebar of sources and… |
-| 2026-10-25 14:12:26 | [oxstack-3d](https://crates.io/crates/oxstack-3d) | 0.2.1 | 0 | Allocation-free software 3D: f32 math, camera, clipping, culling, flat shading… |
-| 2026-10-25 14:13:17 | [ecat-data-2pc](https://crates.io/crates/ecat-data-2pc) | 7.2.1 | 0 | Opt-in XA two-phase commit coordinator for e-cat |
-| 2026-10-25 14:13:17 | [laxjson](https://crates.io/crates/laxjson) | 1.0.0 | 0 | Fork of serde_json (https://github.com/serde-rs/json) that accepts comments and… |
-| 2026-10-25 14:13:56 | [ecat-data-tiering](https://crates.io/crates/ecat-data-tiering) | 7.2.1 | 0 | Hot/cold data tiering for e-cat |
-| 2026-10-25 14:14:32 | [ecat-data-sharding](https://crates.io/crates/ecat-data-sharding) | 7.2.1 | 0 | Sharding catalog and validation for e-cat |
-| 2026-10-25 14:15:21 | [ecat-saga](https://crates.io/crates/ecat-saga) | 7.2.1 | 0 | Lightweight Saga engine for e-cat |
+| 2026-10-25 14:21:30 | [apidoc-idl](https://crates.io/crates/apidoc-idl) | 2.1.0 | 0 | Generate apidoc annotations from .proto / .thrift IDL files |
+| 2026-10-25 14:22:48 | [srvdb](https://crates.io/crates/srvdb) | 0.2.0 | 0 | Embedded vector database for local and offline AI applications |
+| 2026-10-25 14:22:51 | [kade-sql](https://crates.io/crates/kade-sql) | 0.1.0 | 0 | Minimal AI-assisted SQL client for Postgres |
+| 2026-10-25 14:27:13 | [ongo](https://crates.io/crates/ongo) | 0.1.0 | 0 | A small, fast, Django-style web framework |
+| 2026-10-25 14:40:25 | [gpsd-binder](https://crates.io/crates/gpsd-binder) | 0.1.0 | 0 | Android GNSS driver (AIDL android.hardware.gnss) backed by gpsd, in pure Rust o… |
+| 2026-10-25 14:44:42 | [cortexkit-project-identity](https://crates.io/crates/cortexkit-project-identity) | 0.1.1 | 0 | Transport-independent request and reply types for the project-identity module |
+| 2026-10-25 14:47:00 | [adbkit](https://crates.io/crates/adbkit) | 0.1.0 | 0 | Shared adb helpers for the android-tools workspace |
+| 2026-10-25 14:47:05 | [apkctl](https://crates.io/crates/apkctl) | 0.1.0 | 0 | App lifecycle over adb — clear data/cache, restart, kill, uninstall, deep links… |
+| 2026-10-25 14:47:22 | [assetgen](https://crates.io/crates/assetgen) | 0.1.0 | 0 | Android density asset generator — launcher, notification, adaptive, 9-patch, de… |
+| 2026-10-25 14:47:24 | [dp2px](https://crates.io/crates/dp2px) | 0.1.0 | 0 | px ↔ dp ↔ sp converter — offline, or against the device's real density |
+| 2026-10-25 14:47:28 | [layoutlint](https://crates.io/crates/layoutlint) | 0.1.0 | 0 | UI hierarchy lint — touch targets, overlap, labels, from a uiautomator dump |
+| 2026-10-25 14:47:31 | [connpool-rs](https://crates.io/crates/connpool-rs) | 1.0.11 | 0 | A battle-tested connection-pool model: slot-reserved sizing, health & rotation… |
+| 2026-10-25 14:48:17 | [fastjs-regex](https://crates.io/crates/fastjs-regex) | 0.1.0 | 0 | ECMAScript regex semantics with a linear-time fast path |
+| 2026-10-25 14:56:34 | [bier_derive](https://crates.io/crates/bier_derive) | 1.0.0 | 0 | Trait derive for Bierpc |
+| 2026-10-25 14:56:36 | [bierpc](https://crates.io/crates/bierpc) | 1.0.0 | 0 | Binary Encoder and Remote Procedure Calling |
+| 2026-10-25 14:56:49 | [zenpac](https://crates.io/crates/zenpac) | 0.0.0 | 0 | The package manager of Zen Linux (in development). This name is reserved; the f… |
+| 2026-10-25 14:56:52 | [libzenpac](https://crates.io/crates/libzenpac) | 0.0.0 | 0 | The zenpac library for embedding the Zen Linux package manager (Rust API and C… |
+| 2026-10-25 14:56:54 | [df-elysium-core](https://crates.io/crates/df-elysium-core) | 0.0.1-beta | 0 | Elysium SDK for Rust on df-hyperliquid-core: Nitro JSON-RPC, ArbOS precompiles,… |
+| 2026-10-25 14:56:55 | [zenbuild](https://crates.io/crates/zenbuild) | 0.0.0 | 0 | The build tool of Zen Linux (in development). This name is reserved; the first… |
+| 2026-10-25 14:56:57 | [zp-core](https://crates.io/crates/zp-core) | 0.0.0 | 0 | Core library of zenpac, the Zen Linux package manager (in development). This na… |
+| 2026-10-25 14:58:16 | [logstream](https://crates.io/crates/logstream) | 0.1.0 | 0 | Live Android log streamer - logcat, but actually nice |
+| 2026-10-25 15:00:02 | [validity-proto](https://crates.io/crates/validity-proto) | 0.1.1 | 0 | Protocol for Synaptics/Validity match-on-chip fingerprint sensors |
+| 2026-10-25 15:00:16 | [validity-vendor](https://crates.io/crates/validity-vendor) | 0.1.1 | 0 | Installs the Synaptics vendor files (driver DLL, firmware extension) that valid… |
+| 2026-10-25 15:00:38 | [vkrust](https://crates.io/crates/vkrust) | 0.3.0 | 0 | Registry-generated Vulkan ABI and per-device dispatch for Rust |
+| 2026-10-25 15:00:39 | [validity-daemon](https://crates.io/crates/validity-daemon) | 0.1.1 | 0 | fprintd-compatible D-Bus service (net.reactivated.Fprint) for Synaptics/Validit… |
+| 2026-10-25 15:04:29 | [appmem](https://crates.io/crates/appmem) | 0.1.3 | 0 | See which macOS app is using your memory, grouped per app, in the terminal |
+| 2026-10-25 15:07:21 | [perfpoll](https://crates.io/crates/perfpoll) | 0.1.0 | 0 | Per-app perf sampler over adb — CPU, RAM, battery drain, fps to CSV |
+| 2026-10-25 15:09:38 | [natty](https://crates.io/crates/natty) | 0.0.0 | 0 | NAT traversal library: QUIC to a peer's public key, direct by hole punching or… |
+| 2026-10-25 15:09:49 | [natty-relay](https://crates.io/crates/natty-relay) | 0.0.0 | 0 | Relay server for natty: key-addressed sessions, packet forwarding, STUN |
+| 2026-10-25 15:17:21 | [resclean](https://crates.io/crates/resclean) | 0.1.0 | 0 | Dead res/ resource detector for Android projects — CI gate |
+| 2026-10-25 15:18:23 | [zonetrace](https://crates.io/crates/zonetrace) | 0.1.1 | 0 | Zones timed into a call tree: a polite, low-overhead Rust profiler that subtrac… |
 
 ## Data source
 
