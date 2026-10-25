@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T07:20:04.553216Z,prism-inference,0.1.1,0,0,https://github.com/symbiogenesis/prism-inference,Bounded Rust CPU inference and tokenization for Prism-compatible GGUF models
+2026-10-25T07:21:25.685745Z,movoa,0.1.0,0,0,https://github.com/hanshs474/movoa-rs,"Unlimited AI video generator with sound: on paid plans the tenth take of a shot costs what the first did, and your first clip is free to make right now. Official Rust SDK for Movoa (movoa.ai): text t…"
+2026-10-25T07:25:05.297356Z,sortlab,0.1.0,0,0,https://github.com/ApTx2012/sortlab,"An experimental, extensible Rust library of sorting algorithms with a unified API."
+2026-10-25T07:26:42.811826Z,day-part-local-notify,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T07:30:32.909129Z,prism-inference-server,0.1.1,0,0,https://github.com/symbiogenesis/prism-inference,Bounded private HTTP server for Prism CPU inference
+2026-10-25T07:35:47.36347Z,openraster,0.0.1,0,0,https://github.com/mraof/openraster-rs,OpenRaster image encoding and decoding
+2026-10-25T07:36:42.694932Z,day-part-location,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T07:41:21.817061Z,askama-lsp,0.1.0,0,0,https://github.com/0DoubleDare/askama-lsp,LSP Server for askama rust
+2026-10-25T07:43:44.985649Z,web-core-backup,0.4.0,0,0,,"Postgres and folder backups to S3, with backup/restore subcommands, for web-core apps"
+2026-10-25T07:46:42.610039Z,day-part-permissions,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T07:56:42.735994Z,day-part-preferences,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T08:05:32.345256Z,scenario-weaver,0.1.0,0,0,https://github.com/ashfaqfarooqui/Scenario-Weaver,"Generates driving-scenario trajectories from YAML specs with LTL and the Z3 SMT solver, and exports JSON, OpenSCENARIO, OpenDRIVE, SVG, GIF and OpenLABEL"
+2026-10-25T08:06:42.922553Z,day-part-sound,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T08:07:04.2361Z,cachelet,0.1.0,0,0,https://github.com/sablelabs-de/cachelet,"a small, async cache library built, with a focus on simplicity, predictable behavior, and low overhead. Works in both in-memory and redis."
+2026-10-25T08:10:41.17725Z,pictogram-icons-flag,0.5.0,0,0,https://github.com/tdymel/pictogram,Flag Icons export for pictogram
+2026-10-25T08:10:46.391328Z,pictogram-icons-fluent-emoji,0.5.0,0,0,https://github.com/tdymel/pictogram,Fluent Emoji export for pictogram
+2026-10-25T08:14:34.213209Z,hyperlane-performance,22.0.8,0,0,https://github.com/hyperlane-dev/hyperlane.git,Reproducible multi-protocol performance tools for Hyperlane.
+2026-10-25T08:15:17.058606Z,hullcheck,0.1.0,0,0,https://github.com/glferreira-devsecops/hullcheck,"Read-only security review for the SaaS you built with an AI agent. Zero dependencies, zero network. Evidence by file and line, no false certainty."
+2026-10-25T08:15:36.13121Z,radveil-core,0.1.0,0,0,https://github.com/rAum/radveil,"CPU-only NIfTI face renderer and anonymizer: orientation-aware volume rendering, 2D-3D landmark lifting, and defacing (blur/cut/block) that keeps all other voxels bit-exact"
+2026-10-25T08:15:50.073608Z,radveil-cli,0.1.0,0,0,https://github.com/rAum/radveil,CLI for radveil: NIfTI face rendering and anonymization
+2026-10-25T08:16:42.759284Z,day-part-wakelock,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T08:18:20.633676Z,arkitekt-embassy,0.14.0,0,0,https://github.com/arkitektio/arkirust,"Arkitekt apps on embassy: the rekuest agent, fakts' login and rath over embedded-nal-async TCP and TLS, without std"
+2026-10-25T08:18:21.416043Z,scico,0.5.0,0,0,https://github.com/schmettow/scico,A scientific Markdown editor with integrated RAG co-writing and reference management
