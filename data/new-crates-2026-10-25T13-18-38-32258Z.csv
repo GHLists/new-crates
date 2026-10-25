@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T12:28:59.28054Z,rupg-plan,0.1.84,0,0,https://github.com/tamnd/rupg,"The physical plan, its text form, EXPLAIN output (document 15 section 15.9)."
+2026-10-25T12:31:59.726176Z,filmcraft-vp9,0.9.0,0,0,,Clean-room pure-Rust VP9 decoder (VP9 Bitstream & Decoding Process Specification)
+2026-10-25T12:37:20.249454Z,ferrohealth-authz,0.0.0,0,0,https://github.com/FerroHEALTH/FerroSMART,"The policy decision crate of the FerroHEALTH products: attribute-based access control over the ferrohealth-smart subject, with a Cedar engine and a remote policy decision point. This 0.0.0 release ho…"
+2026-10-25T12:39:30.923444Z,rupg-func,0.1.84,0,0,https://github.com/tamnd/rupg,"The 3,414 built-in functions, the 805 operators, the 249 casts, the aggregates and window functions, the regular expression engine."
+2026-10-25T12:42:59.82864Z,deckcraft-media,0.6.1,0,0,,"DeckCraft media: probing, audio decoding (MP3, AAC/M4A, WAV, AIFF, FLAC, ALAC, Vorbis, Opus) to f32 PCM, H.264/HEVC/VP9/AV1 video decoding, poster frames, trim/fade/volume and the playback mixer and…"
+2026-10-25T12:49:54.918365Z,rupg-opt,0.1.84,0,0,https://github.com/tamnd/rupg,"The optimizer, statistics, ANALYZE, the cost model, join order, the use of summaries."
+2026-10-25T12:51:44.357554Z,ecalc,0.2.12,0,0,https://github.com/vincev/ecalc.git,Terminal RPN calculator
+2026-10-25T12:57:42.242939Z,habeas,0.1.0,0,0,https://github.com/nikomatsakis/habeas-codicem,Requirement evidence for mdBook and Cargo projects
+2026-10-25T13:00:20.166237Z,rupg-exec,0.1.84,0,0,https://github.com/tamnd/rupg,"The vectorized executor, the point path, compressed execution, spill, the per-distinct result tables of document 14 section 14.6."
+2026-10-25T13:02:00.132579Z,arkitekt-spec,0.16.0,0,0,https://github.com/arkitektio/arkirust,"What an Arkitekt app is: the action language, the app's declaration (actions, states, hooks, services) and the runtime interface it runs on"
+2026-10-25T13:02:03.129733Z,arkitekt-macros,0.16.0,0,0,https://github.com/arkitektio/arkirust,"Proc-macros for arkitekt-spec: #[action], #[derive(State)] and #[service]"
+2026-10-25T13:02:06.269922Z,arkitekt-core,0.16.0,0,0,https://github.com/arkitektio/arkirust,"Connect and serve an Arkitekt app on any platform: the Platform a backend implements (tokio, the browser, embassy) and the Runtime over it"
+2026-10-25T13:02:09.103749Z,arkitekt-tokio,0.16.0,0,0,https://github.com/arkitektio/arkirust,"Arkitekt apps on tokio: the desktop and server platform (reqwest, tungstenite, a login file, the SQLite journal, Ctrl-C)"
+2026-10-25T13:02:11.266637Z,arkitekt-web,0.16.0,0,0,https://github.com/arkitektio/arkirust,Arkitekt apps in a browser or node (wasm32): the platform over fetch and the JS WebSocket
+2026-10-25T13:02:44.955237Z,arkitekt-serve,0.16.0,0,0,https://github.com/arkitektio/arkirust,"Serve an Arkitekt app over HTTP and a websocket, without a rekuest server (the port of Python's arkitekt-fastapi)"
+2026-10-25T13:03:35.92003Z,easement,0.1.0,0,0,https://github.com/mokevnin/easement,Architecture quality gate for polyglot codebases
+2026-10-25T13:06:38.736439Z,mruniverse-hasher,0.1.0,0,0,https://wbsp.ai/catalog/monorepo-management-tool,Deterministic input hashing for MR Universe task caching.
+2026-10-25T13:06:45.769632Z,mruniverse-scanner,0.1.0,0,0,https://wbsp.ai/catalog/monorepo-management-tool,"Import scanners (TypeScript/JavaScript, Python, Go, Rust) for MR Universe dependency detection."
+2026-10-25T13:06:53.800314Z,mruniverse-cache,0.1.0,0,0,https://wbsp.ai/catalog/monorepo-management-tool,Content-addressed local and remote build cache for MR Universe.
+2026-10-25T13:07:06.15486Z,mruniverse-core,0.1.0,0,0,https://wbsp.ai/catalog/monorepo-management-tool,"Dependency graph, affected detection, task orchestration, SBOM, vulnerability and release logic for MR Universe."
+2026-10-25T13:07:19.069455Z,mruniverse,0.1.0,0,0,https://wbsp.ai/catalog/monorepo-management-tool,"Polyglot monorepo build orchestration: affected builds, caching, SBOMs, vulnerability scanning, releases and an MCP interface."
+2026-10-25T13:10:42.897561Z,rupg-plpgsql,0.1.84,0,0,https://github.com/tamnd/rupg,"PL/pgSQL, trigger execution, event triggers."

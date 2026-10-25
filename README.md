@@ -8,43 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 12:19 UTC
+## Latest list — 2026-10-25 13:18 UTC
 
-New crates published between 2026-10-25 11:20 UTC and 2026-10-25 12:19 UTC.
+New crates published between 2026-10-25 12:19 UTC and 2026-10-25 13:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-25T12-19-10-688649Z.csv)
+[Full CSV](data/new-crates-2026-10-25T13-18-38-32258Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-25 11:22:40 | [sofd-search](https://crates.io/crates/sofd-search) | 0.5.1 | 0 | Full-text search over an OFD document, answering with page, run and rectangle |
-| 2026-10-25 11:26:35 | [rupg-catalog](https://crates.io/crates/rupg-catalog) | 0.1.84 | 0 | The rupg catalog of user objects: schemas, tables, columns, constraints, indexe… |
-| 2026-10-25 11:26:42 | [day-tweak-slider-tick-marks](https://crates.io/crates/day-tweak-slider-tick-marks) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 11:27:27 | [provcheck-image](https://crates.io/crates/provcheck-image) | 1.5.1 | 0 | Image-modality neural-watermark detection for provcheck (TrustMark-B via ort wi… |
-| 2026-10-25 11:28:34 | [k9o](https://crates.io/crates/k9o) | 1.0.0 | 0 | Kilimanjaro platform SDK — createClient + data DSL + projects + gate + studio (… |
-| 2026-10-25 11:36:42 | [day-tweak-tooltip](https://crates.io/crates/day-tweak-tooltip) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 11:36:55 | [rupg-pgcatalog](https://crates.io/crates/rupg-pgcatalog) | 0.1.84 | 0 | The built-in objects with their PostgreSQL OIDs, generated from the vendored .d… |
-| 2026-10-25 11:37:00 | [provcheck-synthid-text](https://crates.io/crates/provcheck-synthid-text) | 1.5.1 | 0 | Google SynthID-text Bayesian tournament-sampling detection for provcheck. |
-| 2026-10-25 11:40:41 | [bevy_tween_lookup_curve](https://crates.io/crates/bevy_tween_lookup_curve) | 0.14.1 | 0 | bevy_lookup_curve support for bevy_tween |
-| 2026-10-25 11:45:34 | [sapphire-framework-settings](https://crates.io/crates/sapphire-framework-settings) | 0.22.0 | 0 | Settings registry for sapphire-framework: owners, scope files and value resolut… |
-| 2026-10-25 11:46:42 | [day-tweak-tree-style](https://crates.io/crates/day-tweak-tree-style) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 11:47:02 | [provcheck-video](https://crates.io/crates/provcheck-video) | 1.5.1 | 0 | Video-modality watermark detection for provcheck (per-frame TrustMark via ffmpe… |
-| 2026-10-25 11:47:14 | [rupg-snowball](https://crates.io/crates/rupg-snowball) | 0.1.84 | 0 | The 33 Snowball stemmers of PostgreSQL 19, from the Rust code that Snowball gen… |
-| 2026-10-25 11:47:31 | [solana_kit_loader](https://crates.io/crates/solana_kit_loader) | 0.0.0 | 0 | Reserved Loader v3 and v4 client crate for the off-chain Solana Kit SDK; this p… |
-| 2026-10-25 11:48:52 | [sofd-sign](https://crates.io/crates/sofd-sign) | 0.5.1 | 0 | Read and verify OFD electronic signatures (GB/T 33190 clause 18) |
-| 2026-10-25 11:49:16 | [sofd](https://crates.io/crates/sofd) | 0.5.1 | 0 | Open and use an OFD document: render, convert, print, sign, edit, search and au… |
-| 2026-10-25 11:52:40 | [sofd-i18n](https://crates.io/crates/sofd-i18n) | 0.5.1 | 0 | sOFD localization message layer built on Fluent |
-| 2026-10-25 11:53:16 | [acorde-omr](https://crates.io/crates/acorde-omr) | 1.2.18 | 0 | Bounded, provider-neutral image analysis for Acorde OMR proposals |
-| 2026-10-25 11:53:49 | [acorde-pdf](https://crates.io/crates/acorde-pdf) | 1.2.18 | 0 | Vector PDF export for acorde scores through the Harumi backend |
-| 2026-10-25 11:54:28 | [medialinker-cli](https://crates.io/crates/medialinker-cli) | 0.3.1 | 0 | Share files and text through MediaLinker with 5-character codes |
-| 2026-10-25 11:57:05 | [provcheck-kit](https://crates.io/crates/provcheck-kit) | 1.5.1 | 0 | Artist-side CLI for provcheck: cert generation, C2PA signing, atproto attestati… |
-| 2026-10-25 11:57:40 | [rupg-sql](https://crates.io/crates/rupg-sql) | 0.1.84 | 0 | The lexer, the parser from the vendored gram.y, the parse tree and its printer. |
-| 2026-10-25 12:03:00 | [df-lighter-core](https://crates.io/crates/df-lighter-core) | 0.0.1-beta | 0 | Lighter SDK for Rust: markets, account, trading, transfers, pools and binary op… |
-| 2026-10-25 12:05:00 | [sofd-cli](https://crates.io/crates/sofd-cli) | 0.5.1 | 0 | The `sofd` command: inspect, render, convert, verify, search, audit and print a… |
-| 2026-10-25 12:08:03 | [rupg-types](https://crates.io/crates/rupg-types) | 0.1.84 | 0 | The value model, Datum, Vector of 1024 values, TypeId, the text and binary form… |
-| 2026-10-25 12:10:06 | [dumpling-cli](https://crates.io/crates/dumpling-cli) | 0.0.1 | 0 | Copy MySQL databases into local environments while anonymizing sensitive data |
-| 2026-10-25 12:15:14 | [a4aa-copilot](https://crates.io/crates/a4aa-copilot) | 0.4.1 | 0 | a4aa dialect adapter: the `copilot` mechanism descriptor (hooks, rules, skills,… |
-| 2026-10-25 12:16:42 | [rpi-durable](https://crates.io/crates/rpi-durable) | 0.1.0 | 0 | Durable, resumable workflow checkpoints for the rpi Rust agent |
-| 2026-10-25 12:18:34 | [rupg-analyze](https://crates.io/crates/rupg-analyze) | 0.1.84 | 0 | Name resolution, type resolution, the query tree, the rewriter for views and ru… |
+| 2026-10-25 12:28:59 | [rupg-plan](https://crates.io/crates/rupg-plan) | 0.1.84 | 0 | The physical plan, its text form, EXPLAIN output (document 15 section 15.9). |
+| 2026-10-25 12:31:59 | [filmcraft-vp9](https://crates.io/crates/filmcraft-vp9) | 0.9.0 | 0 | Clean-room pure-Rust VP9 decoder (VP9 Bitstream & Decoding Process Specificatio… |
+| 2026-10-25 12:37:20 | [ferrohealth-authz](https://crates.io/crates/ferrohealth-authz) | 0.0.0 | 0 | The policy decision crate of the FerroHEALTH products: attribute-based access c… |
+| 2026-10-25 12:39:30 | [rupg-func](https://crates.io/crates/rupg-func) | 0.1.84 | 0 | The 3,414 built-in functions, the 805 operators, the 249 casts, the aggregates… |
+| 2026-10-25 12:42:59 | [deckcraft-media](https://crates.io/crates/deckcraft-media) | 0.6.1 | 0 | DeckCraft media: probing, audio decoding (MP3, AAC/M4A, WAV, AIFF, FLAC, ALAC,… |
+| 2026-10-25 12:49:54 | [rupg-opt](https://crates.io/crates/rupg-opt) | 0.1.84 | 0 | The optimizer, statistics, ANALYZE, the cost model, join order, the use of summ… |
+| 2026-10-25 12:51:44 | [ecalc](https://crates.io/crates/ecalc) | 0.2.12 | 0 | Terminal RPN calculator |
+| 2026-10-25 12:57:42 | [habeas](https://crates.io/crates/habeas) | 0.1.0 | 0 | Requirement evidence for mdBook and Cargo projects |
+| 2026-10-25 13:00:20 | [rupg-exec](https://crates.io/crates/rupg-exec) | 0.1.84 | 0 | The vectorized executor, the point path, compressed execution, spill, the per-d… |
+| 2026-10-25 13:02:00 | [arkitekt-spec](https://crates.io/crates/arkitekt-spec) | 0.16.0 | 0 | What an Arkitekt app is: the action language, the app's declaration (actions, s… |
+| 2026-10-25 13:02:03 | [arkitekt-macros](https://crates.io/crates/arkitekt-macros) | 0.16.0 | 0 | Proc-macros for arkitekt-spec: #[action], #[derive(State)] and #[service] |
+| 2026-10-25 13:02:06 | [arkitekt-core](https://crates.io/crates/arkitekt-core) | 0.16.0 | 0 | Connect and serve an Arkitekt app on any platform: the Platform a backend imple… |
+| 2026-10-25 13:02:09 | [arkitekt-tokio](https://crates.io/crates/arkitekt-tokio) | 0.16.0 | 0 | Arkitekt apps on tokio: the desktop and server platform (reqwest, tungstenite,… |
+| 2026-10-25 13:02:11 | [arkitekt-web](https://crates.io/crates/arkitekt-web) | 0.16.0 | 0 | Arkitekt apps in a browser or node (wasm32): the platform over fetch and the JS… |
+| 2026-10-25 13:02:44 | [arkitekt-serve](https://crates.io/crates/arkitekt-serve) | 0.16.0 | 0 | Serve an Arkitekt app over HTTP and a websocket, without a rekuest server (the… |
+| 2026-10-25 13:03:35 | [easement](https://crates.io/crates/easement) | 0.1.0 | 0 | Architecture quality gate for polyglot codebases |
+| 2026-10-25 13:06:38 | [mruniverse-hasher](https://crates.io/crates/mruniverse-hasher) | 0.1.0 | 0 | Deterministic input hashing for MR Universe task caching. |
+| 2026-10-25 13:06:45 | [mruniverse-scanner](https://crates.io/crates/mruniverse-scanner) | 0.1.0 | 0 | Import scanners (TypeScript/JavaScript, Python, Go, Rust) for MR Universe depen… |
+| 2026-10-25 13:06:53 | [mruniverse-cache](https://crates.io/crates/mruniverse-cache) | 0.1.0 | 0 | Content-addressed local and remote build cache for MR Universe. |
+| 2026-10-25 13:07:06 | [mruniverse-core](https://crates.io/crates/mruniverse-core) | 0.1.0 | 0 | Dependency graph, affected detection, task orchestration, SBOM, vulnerability a… |
+| 2026-10-25 13:07:19 | [mruniverse](https://crates.io/crates/mruniverse) | 0.1.0 | 0 | Polyglot monorepo build orchestration: affected builds, caching, SBOMs, vulnera… |
+| 2026-10-25 13:10:42 | [rupg-plpgsql](https://crates.io/crates/rupg-plpgsql) | 0.1.84 | 0 | PL/pgSQL, trigger execution, event triggers. |
 
 ## Data source
 
