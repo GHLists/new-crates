@@ -8,36 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 13:18 UTC
+## Latest list — 2026-10-25 14:18 UTC
 
-New crates published between 2026-10-25 12:19 UTC and 2026-10-25 13:18 UTC.
+New crates published between 2026-10-25 13:18 UTC and 2026-10-25 14:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-25T13-18-38-32258Z.csv)
+[Full CSV](data/new-crates-2026-10-25T14-18-39-918368Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-25 12:28:59 | [rupg-plan](https://crates.io/crates/rupg-plan) | 0.1.84 | 0 | The physical plan, its text form, EXPLAIN output (document 15 section 15.9). |
-| 2026-10-25 12:31:59 | [filmcraft-vp9](https://crates.io/crates/filmcraft-vp9) | 0.9.0 | 0 | Clean-room pure-Rust VP9 decoder (VP9 Bitstream & Decoding Process Specificatio… |
-| 2026-10-25 12:37:20 | [ferrohealth-authz](https://crates.io/crates/ferrohealth-authz) | 0.0.0 | 0 | The policy decision crate of the FerroHEALTH products: attribute-based access c… |
-| 2026-10-25 12:39:30 | [rupg-func](https://crates.io/crates/rupg-func) | 0.1.84 | 0 | The 3,414 built-in functions, the 805 operators, the 249 casts, the aggregates… |
-| 2026-10-25 12:42:59 | [deckcraft-media](https://crates.io/crates/deckcraft-media) | 0.6.1 | 0 | DeckCraft media: probing, audio decoding (MP3, AAC/M4A, WAV, AIFF, FLAC, ALAC,… |
-| 2026-10-25 12:49:54 | [rupg-opt](https://crates.io/crates/rupg-opt) | 0.1.84 | 0 | The optimizer, statistics, ANALYZE, the cost model, join order, the use of summ… |
-| 2026-10-25 12:51:44 | [ecalc](https://crates.io/crates/ecalc) | 0.2.12 | 0 | Terminal RPN calculator |
-| 2026-10-25 12:57:42 | [habeas](https://crates.io/crates/habeas) | 0.1.0 | 0 | Requirement evidence for mdBook and Cargo projects |
-| 2026-10-25 13:00:20 | [rupg-exec](https://crates.io/crates/rupg-exec) | 0.1.84 | 0 | The vectorized executor, the point path, compressed execution, spill, the per-d… |
-| 2026-10-25 13:02:00 | [arkitekt-spec](https://crates.io/crates/arkitekt-spec) | 0.16.0 | 0 | What an Arkitekt app is: the action language, the app's declaration (actions, s… |
-| 2026-10-25 13:02:03 | [arkitekt-macros](https://crates.io/crates/arkitekt-macros) | 0.16.0 | 0 | Proc-macros for arkitekt-spec: #[action], #[derive(State)] and #[service] |
-| 2026-10-25 13:02:06 | [arkitekt-core](https://crates.io/crates/arkitekt-core) | 0.16.0 | 0 | Connect and serve an Arkitekt app on any platform: the Platform a backend imple… |
-| 2026-10-25 13:02:09 | [arkitekt-tokio](https://crates.io/crates/arkitekt-tokio) | 0.16.0 | 0 | Arkitekt apps on tokio: the desktop and server platform (reqwest, tungstenite,… |
-| 2026-10-25 13:02:11 | [arkitekt-web](https://crates.io/crates/arkitekt-web) | 0.16.0 | 0 | Arkitekt apps in a browser or node (wasm32): the platform over fetch and the JS… |
-| 2026-10-25 13:02:44 | [arkitekt-serve](https://crates.io/crates/arkitekt-serve) | 0.16.0 | 0 | Serve an Arkitekt app over HTTP and a websocket, without a rekuest server (the… |
-| 2026-10-25 13:03:35 | [easement](https://crates.io/crates/easement) | 0.1.0 | 0 | Architecture quality gate for polyglot codebases |
-| 2026-10-25 13:06:38 | [mruniverse-hasher](https://crates.io/crates/mruniverse-hasher) | 0.1.0 | 0 | Deterministic input hashing for MR Universe task caching. |
-| 2026-10-25 13:06:45 | [mruniverse-scanner](https://crates.io/crates/mruniverse-scanner) | 0.1.0 | 0 | Import scanners (TypeScript/JavaScript, Python, Go, Rust) for MR Universe depen… |
-| 2026-10-25 13:06:53 | [mruniverse-cache](https://crates.io/crates/mruniverse-cache) | 0.1.0 | 0 | Content-addressed local and remote build cache for MR Universe. |
-| 2026-10-25 13:07:06 | [mruniverse-core](https://crates.io/crates/mruniverse-core) | 0.1.0 | 0 | Dependency graph, affected detection, task orchestration, SBOM, vulnerability a… |
-| 2026-10-25 13:07:19 | [mruniverse](https://crates.io/crates/mruniverse) | 0.1.0 | 0 | Polyglot monorepo build orchestration: affected builds, caching, SBOMs, vulnera… |
-| 2026-10-25 13:10:42 | [rupg-plpgsql](https://crates.io/crates/rupg-plpgsql) | 0.1.84 | 0 | PL/pgSQL, trigger execution, event triggers. |
+| 2026-10-25 13:21:03 | [rupg-wire](https://crates.io/crates/rupg-wire) | 0.1.84 | 0 | The message codec of protocols 3.0 and 3.2, the SCRAM exchange, the COPY sub-pr… |
+| 2026-10-25 13:23:17 | [worker-shared](https://crates.io/crates/worker-shared) | 0.1.0 | 0 | AWS Lambda plumbing for Rust: secrets cache, EventBridge/SQS dispatch, handler… |
+| 2026-10-25 13:23:21 | [letterxpress](https://crates.io/crates/letterxpress) | 0.1.0 | 0 | Typed async client for the LetterXpress API v3 (physical letter mailing): print… |
+| 2026-10-25 13:23:39 | [mock-ddb](https://crates.io/crates/mock-ddb) | 0.1.0 | 0 | In-process DynamoDB mock for Rust tests: tables, expressions, queries, batches,… |
+| 2026-10-25 13:24:14 | [chidev-core](https://crates.io/crates/chidev-core) | 0.1.0 | 0 | Core (SDK) of chidev: Contract, Interface and Harness as the assets of a codeba… |
+| 2026-10-25 13:24:16 | [chidev-provider-rust](https://crates.io/crates/chidev-provider-rust) | 0.1.0 | 0 | The Rust providers of chidev: pure functions from a source text to single-site… |
+| 2026-10-25 13:24:18 | [chidev](https://crates.io/crates/chidev) | 0.1.0 | 0 | Contract, Interface and Harness as the assets of a codebase; the code is a cach… |
+| 2026-10-25 13:24:20 | [chidev-cli](https://crates.io/crates/chidev-cli) | 0.1.0 | 0 | Command-line interface of chidev: Contract, Interface and Harness as the assets… |
+| 2026-10-25 13:27:44 | [framer](https://crates.io/crates/framer) | 0.1.0 | 0 | Generate and maintain a Rust repository's configuration files from typed Rust c… |
+| 2026-10-25 13:27:46 | [cargo-framer](https://crates.io/crates/cargo-framer) | 0.1.0 | 0 | The `cargo framer` command: run a repository's .framer/ project |
+| 2026-10-25 13:29:23 | [sillstone-qoi](https://crates.io/crates/sillstone-qoi) | 0.3.0-beta.1 | 0 | QOI (Quite OK Image format) pure-Rust lossless encoder and decoder (zero-dep Ru… |
+| 2026-10-25 13:29:30 | [sillstone-tensor](https://crates.io/crates/sillstone-tensor) | 0.3.0-beta.1 | 0 | Pure-Rust N-dimensional strided tensor and array computing engine (NumPy replac… |
+| 2026-10-25 13:36:25 | [polyllm-core](https://crates.io/crates/polyllm-core) | 0.1.0 | 0 | PolyLLM core protocol, param policy, registry, and client (Rust implementation,… |
+| 2026-10-25 13:36:52 | [polyllm-openai](https://crates.io/crates/polyllm-openai) | 0.1.0 | 0 | PolyLLM OpenAI Chat Completions adapter (Rust implementation, experimental). |
+| 2026-10-25 13:37:53 | [polyllm-openai-compatible](https://crates.io/crates/polyllm-openai-compatible) | 0.1.0 | 0 | PolyLLM OpenAI-compatible gateway adapter with presets (Rust implementation, ex… |
+| 2026-10-25 13:38:11 | [polyllm-deepseek](https://crates.io/crates/polyllm-deepseek) | 0.1.0 | 0 | PolyLLM DeepSeek adapter (Rust implementation, experimental). |
+| 2026-10-25 13:38:25 | [polyllm-ollama](https://crates.io/crates/polyllm-ollama) | 0.1.0 | 0 | PolyLLM Ollama local adapter (Rust implementation, experimental). |
+| 2026-10-25 13:39:46 | [read-after-link](https://crates.io/crates/read-after-link) | 0.1.0 | 0 | A rustc wrapper that reads each newly linked proc-macro DLL once before cargo l… |
+| 2026-10-25 13:40:50 | [mlmf-stablehlo](https://crates.io/crates/mlmf-stablehlo) | 0.7.15 | 0 | Reads and writes the MLIR bytecode container that StableHLO portable artifacts… |
+| 2026-10-25 13:41:00 | [mlmf-pt2](https://crates.io/crates/mlmf-pt2) | 0.7.15 | 0 | Reads and writes PyTorch torch.export .pt2 archives: the zip layout, the weight… |
+| 2026-10-25 13:41:39 | [bevy_society](https://crates.io/crates/bevy_society) | 0.2.0 | 0 | Living societies for Bevy: personalities, moods, needs, memories, relationships… |
+| 2026-10-25 13:44:13 | [polyllm-anthropic](https://crates.io/crates/polyllm-anthropic) | 0.1.0 | 0 | PolyLLM Anthropic Messages API adapter (Rust implementation, experimental). |
+| 2026-10-25 13:52:00 | [vyd-core](https://crates.io/crates/vyd-core) | 0.1.0 | 0 | Managed frames and composable video processing pipelines |
+| 2026-10-25 13:56:27 | [itl-core](https://crates.io/crates/itl-core) | 0.1.0 | 0 | Read/write for iTunes Library.itl. Vendored and patched fork of itl-rs. |
+| 2026-10-25 13:56:39 | [itl-sync](https://crates.io/crates/itl-sync) | 0.1.0 | 0 | Sync layer for iTunes libraries: advisory rescan and safe writes |
+| 2026-10-25 13:59:36 | [tuinews](https://crates.io/crates/tuinews) | 0.1.0 | 0 | The news in your terminal: a vim-style RSS reader with a sidebar of sources and… |
+| 2026-10-25 14:12:26 | [oxstack-3d](https://crates.io/crates/oxstack-3d) | 0.2.1 | 0 | Allocation-free software 3D: f32 math, camera, clipping, culling, flat shading… |
+| 2026-10-25 14:13:17 | [ecat-data-2pc](https://crates.io/crates/ecat-data-2pc) | 7.2.1 | 0 | Opt-in XA two-phase commit coordinator for e-cat |
+| 2026-10-25 14:13:17 | [laxjson](https://crates.io/crates/laxjson) | 1.0.0 | 0 | Fork of serde_json (https://github.com/serde-rs/json) that accepts comments and… |
+| 2026-10-25 14:13:56 | [ecat-data-tiering](https://crates.io/crates/ecat-data-tiering) | 7.2.1 | 0 | Hot/cold data tiering for e-cat |
+| 2026-10-25 14:14:32 | [ecat-data-sharding](https://crates.io/crates/ecat-data-sharding) | 7.2.1 | 0 | Sharding catalog and validation for e-cat |
+| 2026-10-25 14:15:21 | [ecat-saga](https://crates.io/crates/ecat-saga) | 7.2.1 | 0 | Lightweight Saga engine for e-cat |
 
 ## Data source
 

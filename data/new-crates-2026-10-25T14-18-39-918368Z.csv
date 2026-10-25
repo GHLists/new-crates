@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T13:21:03.687175Z,rupg-wire,0.1.84,0,0,https://github.com/tamnd/rupg,"The message codec of protocols 3.0 and 3.2, the SCRAM exchange, the COPY sub-protocol, the replication messages."
+2026-10-25T13:23:17.958105Z,worker-shared,0.1.0,0,0,https://github.com/floffel/worker-shared,"AWS Lambda plumbing for Rust: secrets cache, EventBridge/SQS dispatch, handler glue"
+2026-10-25T13:23:21.284373Z,letterxpress,0.1.0,0,0,https://github.com/floffel/letterxpress,"Typed async client for the LetterXpress API v3 (physical letter mailing): print jobs, SMART@MAIL email jobs, prices, balance, journal, transactions and invoices"
+2026-10-25T13:23:39.604205Z,mock-ddb,0.1.0,0,0,https://github.com/floffel/mock-ddb,"In-process DynamoDB mock for Rust tests: tables, expressions, queries, batches, transactions, TTL and streams"
+2026-10-25T13:24:14.818077Z,chidev-core,0.1.0,0,0,https://github.com/ynishi/chidev,"Core (SDK) of chidev: Contract, Interface and Harness as the assets of a codebase; the code is a cache pinned to them"
+2026-10-25T13:24:16.224274Z,chidev-provider-rust,0.1.0,0,0,https://github.com/ynishi/chidev,The Rust providers of chidev: pure functions from a source text to single-site mutants (chidev-mutants 1) and to the keys and lines of its declarations (chidev-items 1)
+2026-10-25T13:24:18.813582Z,chidev,0.1.0,0,0,https://github.com/ynishi/chidev,"Contract, Interface and Harness as the assets of a codebase; the code is a cache pinned to them"
+2026-10-25T13:24:20.44783Z,chidev-cli,0.1.0,0,0,https://github.com/ynishi/chidev,"Command-line interface of chidev: Contract, Interface and Harness as the assets of a codebase; the code is a cache pinned to them"
+2026-10-25T13:27:44.495115Z,framer,0.1.0,0,0,,Generate and maintain a Rust repository's configuration files from typed Rust code
+2026-10-25T13:27:46.279169Z,cargo-framer,0.1.0,0,0,,The `cargo framer` command: run a repository's .framer/ project
+2026-10-25T13:29:23.213356Z,sillstone-qoi,0.3.0-beta.1,0,0,https://github.com/n24q02m/sillstone,QOI (Quite OK Image format) pure-Rust lossless encoder and decoder (zero-dep Rust)
+2026-10-25T13:29:30.508425Z,sillstone-tensor,0.3.0-beta.1,0,0,https://github.com/n24q02m/sillstone,"Pure-Rust N-dimensional strided tensor and array computing engine (NumPy replacement, zero-dep Rust)"
+2026-10-25T13:36:25.419087Z,polyllm-core,0.1.0,0,0,,"PolyLLM core protocol, param policy, registry, and client (Rust implementation, experimental)."
+2026-10-25T13:36:52.005461Z,polyllm-openai,0.1.0,0,0,,"PolyLLM OpenAI Chat Completions adapter (Rust implementation, experimental)."
+2026-10-25T13:37:53.343978Z,polyllm-openai-compatible,0.1.0,0,0,,"PolyLLM OpenAI-compatible gateway adapter with presets (Rust implementation, experimental)."
+2026-10-25T13:38:11.053204Z,polyllm-deepseek,0.1.0,0,0,,"PolyLLM DeepSeek adapter (Rust implementation, experimental)."
+2026-10-25T13:38:25.233718Z,polyllm-ollama,0.1.0,0,0,,"PolyLLM Ollama local adapter (Rust implementation, experimental)."
+2026-10-25T13:39:46.223911Z,read-after-link,0.1.0,0,0,https://github.com/xangelix/read-after-link,"A rustc wrapper that reads each newly linked proc-macro DLL once before cargo loads it, working around a Windows race that maps it with zeroed pages"
+2026-10-25T13:40:50.491846Z,mlmf-stablehlo,0.7.15,0,0,https://github.com/CireSnave/mlmf,"Reads and writes the MLIR bytecode container that StableHLO portable artifacts use: header, producer string and sections. Section contents are opaque. No I/O."
+2026-10-25T13:41:00.661812Z,mlmf-pt2,0.7.15,0,0,https://github.com/CireSnave/mlmf,"Reads and writes PyTorch torch.export .pt2 archives: the zip layout, the weights and constants configs, and the raw tensor bytes. The exported graph is an opaque JSON payload. No I/O, nothing execute…"
+2026-10-25T13:41:39.039929Z,bevy_society,0.2.0,0,0,https://github.com/Ladvien/bevy_society,"Living societies for Bevy: personalities, moods, needs, memories, relationships, opinions, rumors, reputation and factions; utility-AI daily lives; Rhai triggers; dialogue through bevy_speech_bubbles."
+2026-10-25T13:44:13.363443Z,polyllm-anthropic,0.1.0,0,0,,"PolyLLM Anthropic Messages API adapter (Rust implementation, experimental)."
+2026-10-25T13:52:00.520384Z,vyd-core,0.1.0,0,0,https://github.com/sdd/vyd,Managed frames and composable video processing pipelines
+2026-10-25T13:56:27.775574Z,itl-core,0.1.0,0,0,,Read/write for iTunes Library.itl. Vendored and patched fork of itl-rs.
+2026-10-25T13:56:39.615764Z,itl-sync,0.1.0,0,0,,Sync layer for iTunes libraries: advisory rescan and safe writes
+2026-10-25T13:59:36.869173Z,tuinews,0.1.0,0,0,https://github.com/erictran308/tuinews,The news in your terminal: a vim-style RSS reader with a sidebar of sources and a grid of article cards
+2026-10-25T14:12:26.986811Z,oxstack-3d,0.2.1,0,0,https://github.com/theashraf/oxstack,"Allocation-free software 3D: f32 math, camera, clipping, culling, flat shading and a z-buffered rasteriser for small displays"
+2026-10-25T14:13:17.225724Z,ecat-data-2pc,7.2.1,0,0,https://github.com/erikwang2013/e-cat,Opt-in XA two-phase commit coordinator for e-cat
+2026-10-25T14:13:17.957877Z,laxjson,1.0.0,0,0,https://github.com/Scramjet911/laxjson,Fork of serde_json (https://github.com/serde-rs/json) that accepts comments and trailing commas
+2026-10-25T14:13:56.005991Z,ecat-data-tiering,7.2.1,0,0,https://github.com/erikwang2013/e-cat,Hot/cold data tiering for e-cat
+2026-10-25T14:14:32.543828Z,ecat-data-sharding,7.2.1,0,0,https://github.com/erikwang2013/e-cat,Sharding catalog and validation for e-cat
+2026-10-25T14:15:21.173017Z,ecat-saga,7.2.1,0,0,https://github.com/erikwang2013/e-cat,Lightweight Saga engine for e-cat
