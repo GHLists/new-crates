@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T04:19:44.461854Z,tst-webrtc,0.0.0,0,0,https://github.com/aklofas/ts-transformer,WebRTC (WHEP) playback for ts-transformer. This 0.0.0 release only reserves the name; the crate's first real release is 0.9.0.
+2026-10-25T04:23:46.952626Z,raikiri-traits,0.0.0,0,0,https://github.com/fulgur-rs/raikiri,Placeholder — under development
+2026-10-25T04:24:21.814722Z,raikiri-style,0.0.0,0,0,https://github.com/fulgur-rs/raikiri,Placeholder — under development
+2026-10-25T04:24:24.487344Z,raikiri-layout-geometry,0.0.0,0,0,https://github.com/fulgur-rs/raikiri,Placeholder — under development
+2026-10-25T04:24:27.06775Z,raikiri-layout-style,0.0.0,0,0,https://github.com/fulgur-rs/raikiri,Placeholder — under development
+2026-10-25T04:24:29.585442Z,raikiri-svg,0.0.0,0,0,https://github.com/fulgur-rs/raikiri,Placeholder — under development
+2026-10-25T04:25:38.449919Z,rsmix-compression-middleware,1.0.1,0,0,https://github.com/todd-skelton/rsmix,Middleware for compressing HTTP responses (remix compression-middleware)
+2026-10-25T04:26:42.767265Z,day-script-protocol,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T04:27:34.856568Z,raikiri-net,0.0.0,0,0,https://github.com/fulgur-rs/raikiri,Placeholder — under development
+2026-10-25T04:29:53.380946Z,dathren,0.1.1,0,0,https://github.com/gavin-rose/dathren,"Public health data, cleaned up and documented: normalized, caveat-aware access to CDC datasets"
+2026-10-25T04:29:55.034442Z,dathren-cli,0.1.1,0,0,https://github.com/gavin-rose/dathren,"Command-line access to public health datasets, cleaned up and documented"
+2026-10-25T04:34:50.075523Z,cure-ts-ast,0.1.10,0,0,https://github.com/ejfkdev/cure,TypeScript/JavaScript AST (arena + TsId) for the cure simplifier engine
+2026-10-25T04:34:57.871559Z,cure-ts-parser,0.1.10,0,0,https://github.com/ejfkdev/cure,Fault-tolerant TypeScript/JavaScript parser (lexer + ASI + modern syntax) for cure
+2026-10-25T04:35:05.818888Z,cure-ts-print,0.1.10,0,0,https://github.com/ejfkdev/cure,Code printer for cure's TypeScript/JavaScript backend
+2026-10-25T04:35:13.652116Z,cure-ts-simplify,0.1.10,0,0,https://github.com/ejfkdev/cure,Simplification rules and module pipeline for cure's TypeScript/JavaScript backend
+2026-10-25T04:35:36.287382Z,rsmix-cop-middleware,1.0.0,0,0,https://github.com/todd-skelton/rsmix,Tokenless cross-origin protection middleware (remix cop-middleware)
+2026-10-25T04:35:58.025593Z,oidn-webgpu-native,0.1.0,0,0,https://github.com/pissang/oidn-webgpu,"Experimental GPU denoising on host-owned wgpu devices and buffers, with a standalone C API"
+2026-10-25T04:36:08.975331Z,vat-mtd,0.1.0,0,0,https://github.com/WyattAu/vat-mtd,"HMRC Making Tax Digital VAT bridge — the typed submit/obligations contract, fraud-prevention headers, and the mapping from vat-return boxes"
+2026-10-25T04:36:42.58698Z,day-toolkit-qt-sys,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T04:37:23.859378Z,raikiri-dom,0.0.0,0,0,https://github.com/fulgur-rs/raikiri,Placeholder — under development
+2026-10-25T04:39:18.259443Z,ghd,0.0.0,0,0,,"Name reservation for ghd: a cached, batched, budget-aware GitHub (gh) gateway daemon. Real releases start at 0.1.0."
+2026-10-25T04:41:20.047848Z,radargen,1.28.0,0,0,https://github.com/evensolberg/radargen,"Render a technology radar from CSV to a self-contained HTML page, a PNG image, an SVG file or a PDF"
+2026-10-25T04:45:33.519525Z,rsmix-cors-middleware,1.0.1,0,0,https://github.com/todd-skelton/rsmix,Middleware for handling CORS (remix cors-middleware)
+2026-10-25T04:45:52.619377Z,alhazen-gpui-pre,0.1.0,0,0,https://github.com/mo7984130/alhazen-gpui-pre,alhazen-gpui ported to gpui-pre 0.3.8
+2026-10-25T04:46:43.04456Z,day-localization,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T04:47:23.873449Z,raikiri-html,0.0.0,0,0,https://github.com/fulgur-rs/raikiri,Placeholder — under development
+2026-10-25T04:54:00.131879Z,hash-workflow,1.0.0,0,0,https://github.com/rust-playground/alfred-workflows-rs/tree/master/hash-workflow,"Hash Alfred Workflow to quickly hash, encode and decode strings."
+2026-10-25T04:54:22.252633Z,errserve,0.3.0,0,0,https://github.com/atareao/errserve,Servidor de páginas de error para Traefik que devuelve el código de error real
+2026-10-25T04:55:34.722542Z,rsmix-form-data-middleware,1.1.0,0,0,https://github.com/todd-skelton/rsmix,Middleware for parsing FormData from request bodies (remix form-data-middleware)
+2026-10-25T04:56:42.555415Z,day-model,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T05:05:40.104428Z,rsmix-fs,1.0.0,0,0,https://github.com/todd-skelton/rsmix,"Local files as lazy files for rsmix (Remix's fs): open_lazy_file streams a file from disk on demand, write_file streams any file or blob to disk"
+2026-10-25T05:06:42.882238Z,day-part-filesystem,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T05:06:55.117958Z,aquarela,0.0.1,0,0,https://github.com/aquarelahq/aquarela,"Open source data labeling tool. Paint, draw and label freely."
+2026-10-25T05:09:49.796914Z,chora,0.1.1,0,0,https://gitlab.com/gidrex/chora,"Lightweight CLI organizer: markdown notes, day events, git sync"
+2026-10-25T05:13:10.705467Z,boundml-core,0.1.0,0,0,https://github.com/MahmoudYahiaAhmed/boundml,"Graph IR, CPU kernels, reverse-mode autodiff, static tensor-memory planning and optimizers for small dense models (BoundML core)."
+2026-10-25T05:13:12.526575Z,boundml-data,0.1.0,0,0,https://github.com/MahmoudYahiaAhmed/boundml,"Schema-checked numeric CSV input, train-only fitted preprocessing and bounded deterministic minibatch streaming for BoundML."
+2026-10-25T05:13:14.169446Z,boundml-artifact,0.1.0,0,0,https://github.com/MahmoudYahiaAhmed/boundml,"Versioned BoundML model packages: schema, fitted preprocessing, weights, self-tests, memory plan, embeddable Predictor and package comparison."
+2026-10-25T05:13:15.528824Z,boundml-train,0.1.0,0,0,https://github.com/MahmoudYahiaAhmed/boundml,"Declarative training, metrics, exactly resumable checkpoints and packaging for BoundML dense models."
+2026-10-25T05:13:17.052658Z,boundml-cli,0.1.0,0,0,https://github.com/MahmoudYahiaAhmed/boundml,"BoundML command-line tool: train small dense models from CSV, package them with their preprocessing, verify, compare, predict and serve locally."
+2026-10-25T05:15:40.755025Z,rsmix-live-reload-middleware,1.0.0,0,0,https://github.com/todd-skelton/rsmix,Reload open pages when `rsmix dev` restarts the app (stands in for remix node-hmr)
+2026-10-25T05:16:42.7285Z,day-platform-android,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T05:18:09.466531Z,jev-datafusion,1.0.0,0,0,https://github.com/parable-work/jev-datafusion,DataFusion SQL functions for typed judgments across System One servers

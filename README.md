@@ -8,32 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 04:19 UTC
+## Latest list — 2026-10-25 05:19 UTC
 
-New crates published between 2026-10-25 03:18 UTC and 2026-10-25 04:19 UTC.
+New crates published between 2026-10-25 04:19 UTC and 2026-10-25 05:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-25T04-19-37-939483Z.csv)
+[Full CSV](data/new-crates-2026-10-25T05-19-52-197921Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-25 03:25:44 | [rsmix-response](https://crates.io/crates/rsmix-response) | 1.0.1 | 0 | Response helpers for rsmix (remix response): html, redirect, file and compress |
-| 2026-10-25 03:27:49 | [workclock](https://crates.io/crates/workclock) | 0.1.1 | 0 | Business-time arithmetic over working hours, breaks, holidays and time zones, i… |
-| 2026-10-25 03:35:38 | [rsmix-fetch-router](https://crates.io/crates/rsmix-fetch-router) | 1.0.0 | 0 | A composable router on Request/Response with route maps, middleware and typed r… |
-| 2026-10-25 03:45:43 | [rsmix-lazy-file](https://crates.io/crates/rsmix-lazy-file) | 5.0.8 | 0 | Lazy, streaming files and blobs for rsmix (Remix's lazy-file): LazyFile and Laz… |
-| 2026-10-25 03:55:53 | [rsmix-assets](https://crates.io/crates/rsmix-assets) | 1.0.1 | 0 | Serve browser assets from source directories: access rules, fingerprints, file… |
-| 2026-10-25 03:56:32 | [the-mm-core](https://crates.io/crates/the-mm-core) | 0.1.0 | 0 | Shared physical address and page-frame primitives for the the-* memory allocato… |
-| 2026-10-25 03:56:50 | [quanttide-founder](https://crates.io/crates/quanttide-founder) | 0.1.0-alpha.4 | 0 | 量潮创始人工具箱（quanttide-founder-toolkit）的 Rust 包，面向创始人角色的事务与工具集合。 |
-| 2026-10-25 03:59:28 | [mqp2p](https://crates.io/crates/mqp2p) | 0.3.0 | 0 | Peer-to-peer transport (QUIC + NAT traversal) over an MQTT signaling channel. |
-| 2026-10-25 04:01:32 | [stitch-p2p](https://crates.io/crates/stitch-p2p) | 0.2.0 | 0 | Pure peer-to-peer state-sync engine: multi-leader, HLC last-writer-wins, signed… |
-| 2026-10-25 04:05:37 | [rsmix-auth](https://crates.io/crates/rsmix-auth) | 1.0.0 | 0 | OAuth 2 and OpenID Connect login for rsmix (remix/auth): PKCE flows plus GitHub… |
-| 2026-10-25 04:11:09 | [novnow](https://crates.io/crates/novnow) | 0.1.0 | 0 | 小説プロジェクト（[title]/ レイアウト）向け執筆 IDE — egui + ropey |
-| 2026-10-25 04:14:54 | [day-app](https://crates.io/crates/day-app) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 04:15:14 | [day-async](https://crates.io/crates/day-async) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 04:15:16 | [day-geometry](https://crates.io/crates/day-geometry) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 04:15:19 | [day-platform-linux](https://crates.io/crates/day-platform-linux) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 04:15:20 | [day-platform-windows](https://crates.io/crates/day-platform-windows) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 04:15:37 | [rsmix-auth-middleware](https://crates.io/crates/rsmix-auth-middleware) | 1.0.0 | 0 | Pluggable authentication middleware for rsmix (remix auth-middleware): resolve… |
-| 2026-10-25 04:16:42 | [day-reactive](https://crates.io/crates/day-reactive) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 04:19:44 | [tst-webrtc](https://crates.io/crates/tst-webrtc) | 0.0.0 | 0 | WebRTC (WHEP) playback for ts-transformer. This 0.0.0 release only reserves the… |
+| 2026-10-25 04:23:46 | [raikiri-traits](https://crates.io/crates/raikiri-traits) | 0.0.0 | 0 | Placeholder — under development |
+| 2026-10-25 04:24:21 | [raikiri-style](https://crates.io/crates/raikiri-style) | 0.0.0 | 0 | Placeholder — under development |
+| 2026-10-25 04:24:24 | [raikiri-layout-geometry](https://crates.io/crates/raikiri-layout-geometry) | 0.0.0 | 0 | Placeholder — under development |
+| 2026-10-25 04:24:27 | [raikiri-layout-style](https://crates.io/crates/raikiri-layout-style) | 0.0.0 | 0 | Placeholder — under development |
+| 2026-10-25 04:24:29 | [raikiri-svg](https://crates.io/crates/raikiri-svg) | 0.0.0 | 0 | Placeholder — under development |
+| 2026-10-25 04:25:38 | [rsmix-compression-middleware](https://crates.io/crates/rsmix-compression-middleware) | 1.0.1 | 0 | Middleware for compressing HTTP responses (remix compression-middleware) |
+| 2026-10-25 04:26:42 | [day-script-protocol](https://crates.io/crates/day-script-protocol) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 04:27:34 | [raikiri-net](https://crates.io/crates/raikiri-net) | 0.0.0 | 0 | Placeholder — under development |
+| 2026-10-25 04:29:53 | [dathren](https://crates.io/crates/dathren) | 0.1.1 | 0 | Public health data, cleaned up and documented: normalized, caveat-aware access… |
+| 2026-10-25 04:29:55 | [dathren-cli](https://crates.io/crates/dathren-cli) | 0.1.1 | 0 | Command-line access to public health datasets, cleaned up and documented |
+| 2026-10-25 04:34:50 | [cure-ts-ast](https://crates.io/crates/cure-ts-ast) | 0.1.10 | 0 | TypeScript/JavaScript AST (arena + TsId) for the cure simplifier engine |
+| 2026-10-25 04:34:57 | [cure-ts-parser](https://crates.io/crates/cure-ts-parser) | 0.1.10 | 0 | Fault-tolerant TypeScript/JavaScript parser (lexer + ASI + modern syntax) for c… |
+| 2026-10-25 04:35:05 | [cure-ts-print](https://crates.io/crates/cure-ts-print) | 0.1.10 | 0 | Code printer for cure's TypeScript/JavaScript backend |
+| 2026-10-25 04:35:13 | [cure-ts-simplify](https://crates.io/crates/cure-ts-simplify) | 0.1.10 | 0 | Simplification rules and module pipeline for cure's TypeScript/JavaScript backe… |
+| 2026-10-25 04:35:36 | [rsmix-cop-middleware](https://crates.io/crates/rsmix-cop-middleware) | 1.0.0 | 0 | Tokenless cross-origin protection middleware (remix cop-middleware) |
+| 2026-10-25 04:35:58 | [oidn-webgpu-native](https://crates.io/crates/oidn-webgpu-native) | 0.1.0 | 0 | Experimental GPU denoising on host-owned wgpu devices and buffers, with a stand… |
+| 2026-10-25 04:36:08 | [vat-mtd](https://crates.io/crates/vat-mtd) | 0.1.0 | 0 | HMRC Making Tax Digital VAT bridge — the typed submit/obligations contract, fra… |
+| 2026-10-25 04:36:42 | [day-toolkit-qt-sys](https://crates.io/crates/day-toolkit-qt-sys) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 04:37:23 | [raikiri-dom](https://crates.io/crates/raikiri-dom) | 0.0.0 | 0 | Placeholder — under development |
+| 2026-10-25 04:39:18 | [ghd](https://crates.io/crates/ghd) | 0.0.0 | 0 | Name reservation for ghd: a cached, batched, budget-aware GitHub (gh) gateway d… |
+| 2026-10-25 04:41:20 | [radargen](https://crates.io/crates/radargen) | 1.28.0 | 0 | Render a technology radar from CSV to a self-contained HTML page, a PNG image,… |
+| 2026-10-25 04:45:33 | [rsmix-cors-middleware](https://crates.io/crates/rsmix-cors-middleware) | 1.0.1 | 0 | Middleware for handling CORS (remix cors-middleware) |
+| 2026-10-25 04:45:52 | [alhazen-gpui-pre](https://crates.io/crates/alhazen-gpui-pre) | 0.1.0 | 0 | alhazen-gpui ported to gpui-pre 0.3.8 |
+| 2026-10-25 04:46:43 | [day-localization](https://crates.io/crates/day-localization) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 04:47:23 | [raikiri-html](https://crates.io/crates/raikiri-html) | 0.0.0 | 0 | Placeholder — under development |
+| 2026-10-25 04:54:00 | [hash-workflow](https://crates.io/crates/hash-workflow) | 1.0.0 | 0 | Hash Alfred Workflow to quickly hash, encode and decode strings. |
+| 2026-10-25 04:54:22 | [errserve](https://crates.io/crates/errserve) | 0.3.0 | 0 | Servidor de páginas de error para Traefik que devuelve el código de error real |
+| 2026-10-25 04:55:34 | [rsmix-form-data-middleware](https://crates.io/crates/rsmix-form-data-middleware) | 1.1.0 | 0 | Middleware for parsing FormData from request bodies (remix form-data-middleware) |
+| 2026-10-25 04:56:42 | [day-model](https://crates.io/crates/day-model) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 05:05:40 | [rsmix-fs](https://crates.io/crates/rsmix-fs) | 1.0.0 | 0 | Local files as lazy files for rsmix (Remix's fs): open_lazy_file streams a file… |
+| 2026-10-25 05:06:42 | [day-part-filesystem](https://crates.io/crates/day-part-filesystem) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 05:06:55 | [aquarela](https://crates.io/crates/aquarela) | 0.0.1 | 0 | Open source data labeling tool. Paint, draw and label freely. |
+| 2026-10-25 05:09:49 | [chora](https://crates.io/crates/chora) | 0.1.1 | 0 | Lightweight CLI organizer: markdown notes, day events, git sync |
+| 2026-10-25 05:13:10 | [boundml-core](https://crates.io/crates/boundml-core) | 0.1.0 | 0 | Graph IR, CPU kernels, reverse-mode autodiff, static tensor-memory planning and… |
+| 2026-10-25 05:13:12 | [boundml-data](https://crates.io/crates/boundml-data) | 0.1.0 | 0 | Schema-checked numeric CSV input, train-only fitted preprocessing and bounded d… |
+| 2026-10-25 05:13:14 | [boundml-artifact](https://crates.io/crates/boundml-artifact) | 0.1.0 | 0 | Versioned BoundML model packages: schema, fitted preprocessing, weights, self-t… |
+| 2026-10-25 05:13:15 | [boundml-train](https://crates.io/crates/boundml-train) | 0.1.0 | 0 | Declarative training, metrics, exactly resumable checkpoints and packaging for… |
+| 2026-10-25 05:13:17 | [boundml-cli](https://crates.io/crates/boundml-cli) | 0.1.0 | 0 | BoundML command-line tool: train small dense models from CSV, package them with… |
+| 2026-10-25 05:15:40 | [rsmix-live-reload-middleware](https://crates.io/crates/rsmix-live-reload-middleware) | 1.0.0 | 0 | Reload open pages when `rsmix dev` restarts the app (stands in for remix node-h… |
+| 2026-10-25 05:16:42 | [day-platform-android](https://crates.io/crates/day-platform-android) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 05:18:09 | [jev-datafusion](https://crates.io/crates/jev-datafusion) | 1.0.0 | 0 | DataFusion SQL functions for typed judgments across System One servers |
 
 ## Data source
 
