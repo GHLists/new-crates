@@ -8,51 +8,64 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 22:19 UTC
+## Latest list — 2026-10-25 23:19 UTC
 
-New crates published between 2026-10-25 21:18 UTC and 2026-10-25 22:19 UTC.
+New crates published between 2026-10-25 22:19 UTC and 2026-10-25 23:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-25T22-19-54-755608Z.csv)
+[Full CSV](data/new-crates-2026-10-25T23-19-09-82339Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-25 21:19:26 | [rlx-nnpack](https://crates.io/crates/rlx-nnpack) | 0.2.19 | 0 | torch CPU's NNPACK 16x16 Fourier convolution reproduced bit-for-bit in pure Rus… |
-| 2026-10-25 21:22:06 | [astli-package](https://crates.io/crates/astli-package) | 0.4.0 | 0 | Finding a SystemVerilog package's root, and reading its astli.toml |
-| 2026-10-25 21:22:45 | [wtl](https://crates.io/crates/wtl) | 0.1.1 | 0 | The wtl command of win-test-lab: test Windows software on real Windows in QEMU… |
-| 2026-10-25 21:23:20 | [astli-resolve](https://crates.io/crates/astli-resolve) | 0.4.0 | 0 | Fetching and resolving a SystemVerilog design's dependencies, for the astli dri… |
-| 2026-10-25 21:23:58 | [platoon-tui](https://crates.io/crates/platoon-tui) | 1.0.0 | 0 | A terminal app for running and managing Claude Code and Codex sessions: every c… |
-| 2026-10-25 21:25:51 | [basilisco](https://crates.io/crates/basilisco) | 0.4.0 | 0 | Intérprete del lenguaje de programación BASILISCO |
-| 2026-10-25 21:34:29 | [signers](https://crates.io/crates/signers) | 0.1.0 | 0 | Hard-to-misuse Rust API over code signing tools, starting with macOS codesign |
-| 2026-10-25 21:35:54 | [directories-app](https://crates.io/crates/directories-app) | 1.0.1 | 0 | Extension of the directories crate to centralize its usage for an application.… |
-| 2026-10-25 21:36:54 | [libwebpop](https://crates.io/crates/libwebpop) | 0.1.0 | 0 | A direct port of parts of the WebP encoder, with identical output |
-| 2026-10-25 21:37:02 | [livequery-derive](https://crates.io/crates/livequery-derive) | 0.1.0-alpha.1 | 0 | Derive explicit, field-filtered LiveQuery inspection |
-| 2026-10-25 21:37:16 | [livequery](https://crates.io/crates/livequery) | 0.1.0-alpha.1 | 0 | Read-only runtime state inspection and bounded queries for Rust applications |
-| 2026-10-25 21:37:44 | [livequery-cli](https://crates.io/crates/livequery-cli) | 0.1.0-alpha.1 | 0 | Local CLI for querying LiveQuery-enabled Rust programs |
-| 2026-10-25 21:43:27 | [undo-cli](https://crates.io/crates/undo-cli) | 0.1.1 | 0 | Ctrl-Z for your terminal and your AI agent |
-| 2026-10-25 21:44:32 | [cwebpop](https://crates.io/crates/cwebpop) | 0.1.0 | 0 | A cli for libwebpop, a port of libwebp |
-| 2026-10-25 21:44:55 | [lpcli](https://crates.io/crates/lpcli) | 0.2.0 | 0 | A command-line client for Launchpad.net |
-| 2026-10-25 21:50:53 | [univrs](https://crates.io/crates/univrs) | 0.0.1 | 0 | Rust models (with Python bindings) generated from the UniVRS JSON Schema. Proto… |
-| 2026-10-25 21:51:13 | [bring-browser](https://crates.io/crates/bring-browser) | 0.1.0 | 0 | bring: browser-in-ling -- a tiny no_std HTML-subset layout engine, the renderin… |
-| 2026-10-25 21:51:17 | [ling-messenger](https://crates.io/crates/ling-messenger) | 0.1.0 | 0 | ling-messenger: P2P end-to-end-encrypted chat core for LingOS -- identity, an a… |
-| 2026-10-25 21:51:19 | [horizon-browser](https://crates.io/crates/horizon-browser) | 0.1.0 | 0 | Horizon: a real box-model HTML/CSS layout engine with a Canvas 2D surface, no_s… |
-| 2026-10-25 21:51:36 | [day-persistence-macros](https://crates.io/crates/day-persistence-macros) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 21:51:38 | [day-sqlite-worker](https://crates.io/crates/day-sqlite-worker) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 21:51:41 | [day-persistence](https://crates.io/crates/day-persistence) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 21:51:43 | [day-piece-webview](https://crates.io/crates/day-piece-webview) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 21:51:45 | [day-piece-webview-servo](https://crates.io/crates/day-piece-webview-servo) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 21:55:34 | [rmetric](https://crates.io/crates/rmetric) | 0.1.1 | 0 | Colorful CLI to view and re-prioritise default-route metrics (Linux, Windows) |
-| 2026-10-25 21:56:42 | [day-piece-charts](https://crates.io/crates/day-piece-charts) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 21:58:00 | [univar](https://crates.io/crates/univar) | 0.0.1 | 0 | Mock client of the univrs models: hello-world serialization. Prototype. |
-| 2026-10-25 22:01:22 | [zil-macros](https://crates.io/crates/zil-macros) | 0.5.0 | 0 | Proc macros for zil's builtins |
-| 2026-10-25 22:03:32 | [tiny-diff](https://crates.io/crates/tiny-diff) | 0.5.0-rc.13 | 0 | Keyed tree diffing with no_std support |
-| 2026-10-25 22:05:23 | [jack-http-server](https://crates.io/crates/jack-http-server) | 0.2.1 | 0 | Browse, share, and upload files from your current directory with an embedded we… |
-| 2026-10-25 22:06:42 | [day-piece-charts-gallery](https://crates.io/crates/day-piece-charts-gallery) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 22:15:57 | [bevy_declarative_plugins](https://crates.io/crates/bevy_declarative_plugins) | 0.0.1 | 0 | Dependencies (and other cool features) for bevy plugins, via a declarative API. |
-| 2026-10-25 22:16:31 | [contentauth-sans-io-core](https://crates.io/crates/contentauth-sans-io-core) | 0.1.0 | 0 | Host-driven, sans-I/O workflows for C2PA and CAWG crates |
-| 2026-10-25 22:16:42 | [day-piece-lottie](https://crates.io/crates/day-piece-lottie) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 22:16:53 | [id_effect_i18n](https://crates.io/crates/id_effect_i18n) | 0.13.0 | 0 | Internationalization for id_effect services: locales, message catalogs and per-… |
-| 2026-10-25 22:16:58 | [id_effect_admin](https://crates.io/crates/id_effect_admin) | 0.13.0 | 0 | Admin back office for id_effect services: entity registration, guarded list/det… |
-| 2026-10-25 22:18:54 | [xenolith-lang-python](https://crates.io/crates/xenolith-lang-python) | 0.2.0 | 0 | Python support for xenolith: the python guest, its triviality rule and ruff def… |
+| 2026-10-25 22:20:53 | [brightwork](https://crates.io/crates/brightwork) | 0.1.0 | 0 | Brightwork: a local-first photo-enhancement library in Rust - hash-pinned ONNX… |
+| 2026-10-25 22:23:22 | [sdr-fec](https://crates.io/crates/sdr-fec) | 0.1.0 | 0 | Forward-error-correction primitives for the MimoSDR codecs: GF fields, Reed-Sol… |
+| 2026-10-25 22:23:22 | [sdr-stream](https://crates.io/crates/sdr-stream) | 1.9.0 | 0 | DigitalStream — the .sdr call container: framing, the P25 and DMR record layout… |
+| 2026-10-25 22:23:24 | [sdr-p25](https://crates.io/crates/sdr-p25) | 0.1.0 | 0 | P25 (Project 25) protocol and codecs: FEC, framing, trunking grammar, the IMBE… |
+| 2026-10-25 22:23:26 | [sdr-decode](https://crates.io/crates/sdr-decode) | 0.10.0 | 0 | Renders a .sdr call archive to 8 kHz PCM and describes it — the one decode shar… |
+| 2026-10-25 22:23:57 | [envoy_extproc_sdk](https://crates.io/crates/envoy_extproc_sdk) | 0.1.0 | 0 | Envoy External Processor SDK for Rust (gRPC, tokio/tonic) |
+| 2026-10-25 22:26:42 | [day-piece-lottie-gallery](https://crates.io/crates/day-piece-lottie-gallery) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 22:30:28 | [invariant-workspace-core](https://crates.io/crates/invariant-workspace-core) | 0.1.0 | 0 | Host-owned capability grants and fail-closed permission checks for INVARIANT |
+| 2026-10-25 22:31:22 | [invariant-broker](https://crates.io/crates/invariant-broker) | 0.1.0 | 0 | Execution-bound capability broker with durable admission, audit and bounded HTT… |
+| 2026-10-25 22:31:51 | [ling-llm](https://crates.io/crates/ling-llm) | 2030.0.2 | 0 | A freestanding (no_std + alloc) GGUF inference engine for Qwen3: reads the mode… |
+| 2026-10-25 22:31:53 | [ling-osdaw](https://crates.io/crates/ling-osdaw) | 2030.0.2 | 0 | LingStation for LingOS: a freestanding (no_std) tracker sequencer and synthesiz… |
+| 2026-10-25 22:31:59 | [ling-body](https://crates.io/crates/ling-body) | 2030.0.2 | 0 | Acoustic body toolkit for Ling: humanoid SDF scaffolds, FDTD wave solver, level… |
+| 2026-10-25 22:32:08 | [ling-daw](https://crates.io/crates/ling-daw) | 2030.0.2 | 0 | Ling DAW engine: synth, physical-modeling drums, effects, mixer, sequencer, pro… |
+| 2026-10-25 22:32:25 | [livequery-core](https://crates.io/crates/livequery-core) | 0.1.0-alpha.2 | 0 | Explicit schemas, registration and safe runtime snapshots |
+| 2026-10-25 22:32:30 | [livequery-query](https://crates.io/crates/livequery-query) | 0.1.0-alpha.2 | 0 | Bounded SQL selection and revision-aware runtime observation |
+| 2026-10-25 22:32:33 | [livequery-transport](https://crates.io/crates/livequery-transport) | 0.1.0-alpha.2 | 0 | Read-only wire protocol and bounded local Unix transport |
+| 2026-10-25 22:32:38 | [livequery-agent](https://crates.io/crates/livequery-agent) | 0.1.0-alpha.2 | 0 | Runtime query dispatch and local agent lifecycle |
+| 2026-10-25 22:33:21 | [omnidrop](https://crates.io/crates/omnidrop) | 0.1.0 | 0 | Ultra-High-Throughput Multi-Path P2P Content-Defined Mesh File & Stream Fabric |
+| 2026-10-25 22:33:53 | [silentmic-rt](https://crates.io/crates/silentmic-rt) | 0.1.0 | 0 | Deterministic, Zero-Allocation Sub-3ms Hard Real-Time Neural Voice Isolator & V… |
+| 2026-10-25 22:35:16 | [omnibrain](https://crates.io/crates/omnibrain) | 0.1.0 | 0 | Embedded Local-First Temporal Semantic Knowledge Graph & Reader Engine |
+| 2026-10-25 22:35:22 | [ling-kernel](https://crates.io/crates/ling-kernel) | 2030.1.37 | 0 | Minimal kernel runtime for Ling — no_std CPU intrinsics, VGA, serial, and boot… |
+| 2026-10-25 22:35:51 | [goldpan](https://crates.io/crates/goldpan) | 0.0.1 | 0 | Analysis of digitized pulses together with their scalar quantities (placeholder… |
+| 2026-10-25 22:36:26 | [goldsluice](https://crates.io/crates/goldsluice) | 0.0.1 | 0 | Reduction of raw digitized pulses to scalar quantities, stored with the pulses… |
+| 2026-10-25 22:36:42 | [day-part-auth](https://crates.io/crates/day-part-auth) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 22:37:15 | [winds-engine](https://crates.io/crates/winds-engine) | 0.1.0 | 0 | Deterministic wind profiles and radiosonde validation for trajectory simulation |
+| 2026-10-25 22:42:22 | [shep-tree](https://crates.io/crates/shep-tree) | 0.17.0 | 0 | Signal a process group, own a Windows job and stop a child and everything it st… |
+| 2026-10-25 22:43:37 | [ai-protocol](https://crates.io/crates/ai-protocol) | 0.1.0 | 0 | Cooperative agent access to HTTP services with shared workload budgets |
+| 2026-10-25 22:44:13 | [rlx-stablehlo](https://crates.io/crates/rlx-stablehlo) | 0.2.19 | 0 | Export RLX graphs as StableHLO MLIR (for IREE and other MLIR toolchains) |
+| 2026-10-25 22:46:42 | [day-part-speech](https://crates.io/crates/day-part-speech) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 22:50:34 | [sa430](https://crates.io/crates/sa430) | 0.1.1 | 0 | A library for the SA430 Sub 1GHz Spectrum Analyzer, from Texas Instruments |
+| 2026-10-25 22:56:43 | [day-part-zeroconf](https://crates.io/crates/day-part-zeroconf) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 22:57:40 | [talos-sdk](https://crates.io/crates/talos-sdk) | 0.1.0 | 0 | Talos SDK for Rust applications: license activation and validation, offline lic… |
+| 2026-10-25 22:58:16 | [rs-ltsv2sqlite](https://crates.io/crates/rs-ltsv2sqlite) | 0.1.0 | 0 | Convert LTSV logs to SQLite database |
+| 2026-10-25 23:03:45 | [ninthsubstrate-core](https://crates.io/crates/ninthsubstrate-core) | 0.0.1 | 0 | Core crate of Ninth Substrate Intelligence Systems LLC: recursive language mode… |
+| 2026-10-25 23:03:49 | [ninthsubstrate](https://crates.io/crates/ninthsubstrate) | 0.0.1 | 0 | Ninth Substrate Intelligence Systems LLC: recursive language model (RLM) buildi… |
+| 2026-10-25 23:05:42 | [speccoder-core](https://crates.io/crates/speccoder-core) | 0.1.0 | 0 | Pure domain types of speccoder: ids, task graph, state machines, command result… |
+| 2026-10-25 23:05:49 | [speccoder-speckit](https://crates.io/crates/speccoder-speckit) | 0.1.0 | 0 | GitHub Spec Kit adapter for speccoder: artifact discovery and tasks.md parsing. |
+| 2026-10-25 23:05:59 | [speccoder-openspec](https://crates.io/crates/speccoder-openspec) | 0.1.0 | 0 | OpenSpec adapter for speccoder: change discovery, tasks.md and spec delta parsi… |
+| 2026-10-25 23:06:42 | [day-piece-crash-reporter](https://crates.io/crates/day-piece-crash-reporter) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 23:07:29 | [speccoder-runtime](https://crates.io/crates/speccoder-runtime) | 0.1.0 | 0 | Application services of speccoder: the only crate that executes anything. |
+| 2026-10-25 23:08:25 | [speccoder-web](https://crates.io/crates/speccoder-web) | 0.1.0 | 0 | speccoder's web interface: a loopback host serving the embedded UI and an API o… |
+| 2026-10-25 23:16:38 | [health-checks](https://crates.io/crates/health-checks) | 0.1.0 | 0 | Health checks modelled on ASP.NET Core's Microsoft.Extensions.Diagnostics.Healt… |
+| 2026-10-25 23:16:42 | [day-piece-camera](https://crates.io/crates/day-piece-camera) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 23:17:02 | [sntrup-kem](https://crates.io/crates/sntrup-kem) | 0.1.0-rc.0 | 0 | Pure Rust implementation of the Streamlined NTRU Prime KEM for all parameter si… |
+| 2026-10-25 23:17:44 | [rlx-signal](https://crates.io/crates/rlx-signal) | 0.2.19 | 0 | scipy.signal reproduced bit-for-bit: Butterworth design, zpk2sos, lfilter/sosfi… |
+| 2026-10-25 23:18:04 | [paperpaw-plugin-hyphenation-da](https://crates.io/crates/paperpaw-plugin-hyphenation-da) | 1.0.0 | 0 | PaperPaw hyphenation patterns for Danish |
+| 2026-10-25 23:18:05 | [paperpaw-plugin-hyphenation-de](https://crates.io/crates/paperpaw-plugin-hyphenation-de) | 1.0.0 | 0 | PaperPaw hyphenation patterns for German |
+| 2026-10-25 23:18:05 | [paperpaw-plugin-hyphenation-es](https://crates.io/crates/paperpaw-plugin-hyphenation-es) | 1.0.0 | 0 | PaperPaw hyphenation patterns for Spanish |
+| 2026-10-25 23:18:06 | [paperpaw-plugin-hyphenation-fr](https://crates.io/crates/paperpaw-plugin-hyphenation-fr) | 1.0.0 | 0 | PaperPaw hyphenation patterns for French |
+| 2026-10-25 23:18:06 | [paperpaw-plugin-hyphenation-it](https://crates.io/crates/paperpaw-plugin-hyphenation-it) | 1.0.0 | 0 | PaperPaw hyphenation patterns for Italian |
 
 ## Data source
 

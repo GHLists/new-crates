@@ -1,0 +1,51 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T22:20:53.918137Z,brightwork,0.1.0,0,0,,"Brightwork: a local-first photo-enhancement library in Rust - hash-pinned ONNX model manager (matting, inpainting, face restoration) that embeds as finishing tools inside media producers. Name reserv…"
+2026-10-25T22:23:22.043562Z,sdr-fec,0.1.0,0,0,https://github.com/MimoCAD/sdr-decode,"Forward-error-correction primitives for the MimoSDR codecs: GF fields, Reed-Solomon, Golay, Hamming, BPTC, CRC — no_std, zero dependencies."
+2026-10-25T22:23:22.662126Z,sdr-stream,1.9.0,0,0,https://github.com/MimoCAD/sdr-stream,"DigitalStream — the .sdr call container: framing, the P25 and DMR record layouts, the sidecar document, the filename grammar, RIFF and JSON — no_std, zero dependencies."
+2026-10-25T22:23:24.206792Z,sdr-p25,0.1.0,0,0,https://github.com/MimoCAD/sdr-decode,"P25 (Project 25) protocol and codecs: FEC, framing, trunking grammar, the IMBE and AMBE+2 vocoders, Phase 2, ADP — no_std, wasm-portable."
+2026-10-25T22:23:26.290925Z,sdr-decode,0.10.0,0,0,https://github.com/MimoCAD/sdr-decode,"Renders a .sdr call archive to 8 kHz PCM and describes it — the one decode shared by the mimosdr receiver, the browser and the apps."
+2026-10-25T22:23:57.058824Z,envoy_extproc_sdk,0.1.0,0,0,https://github.com/wrossmorrow/envoy-extproc-sdk-rust,"Envoy External Processor SDK for Rust (gRPC, tokio/tonic)"
+2026-10-25T22:26:42.97701Z,day-piece-lottie-gallery,0.0.1,0,0,https://github.com/daybrite/day-piece-lottie,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T22:30:28.754103Z,invariant-workspace-core,0.1.0,0,0,https://github.com/Xenox-developer/invariant,Host-owned capability grants and fail-closed permission checks for INVARIANT
+2026-10-25T22:31:22.096501Z,invariant-broker,0.1.0,0,0,https://github.com/Xenox-developer/invariant,"Execution-bound capability broker with durable admission, audit and bounded HTTP dispatch"
+2026-10-25T22:31:51.506407Z,ling-llm,2030.0.2,0,0,https://github.com/taellinglin/ling,"A freestanding (no_std + alloc) GGUF inference engine for Qwen3: reads the model and its tokenizer from a GGUF file, runs on the CPU, needs no operating system. For LingOS."
+2026-10-25T22:31:53.856094Z,ling-osdaw,2030.0.2,0,0,https://github.com/taellinglin/ling,LingStation for LingOS: a freestanding (no_std) tracker sequencer and synthesizer engine
+2026-10-25T22:31:59.706562Z,ling-body,2030.0.2,0,0,,"Acoustic body toolkit for Ling: humanoid SDF scaffolds, FDTD wave solver, level-set membrane, surface extraction, mesh and WAV codecs"
+2026-10-25T22:32:08.73207Z,ling-daw,2030.0.2,0,0,,"Ling DAW engine: synth, physical-modeling drums, effects, mixer, sequencer, project I/O"
+2026-10-25T22:32:25.441902Z,livequery-core,0.1.0-alpha.2,0,0,https://github.com/LioRael/livequery,"Explicit schemas, registration and safe runtime snapshots"
+2026-10-25T22:32:30.034144Z,livequery-query,0.1.0-alpha.2,0,0,https://github.com/LioRael/livequery,Bounded SQL selection and revision-aware runtime observation
+2026-10-25T22:32:33.691188Z,livequery-transport,0.1.0-alpha.2,0,0,https://github.com/LioRael/livequery,Read-only wire protocol and bounded local Unix transport
+2026-10-25T22:32:38.504494Z,livequery-agent,0.1.0-alpha.2,0,0,https://github.com/LioRael/livequery,Runtime query dispatch and local agent lifecycle
+2026-10-25T22:33:21.030232Z,omnidrop,0.1.0,0,0,https://github.com/shahmdmahi15/omnidrop,Ultra-High-Throughput Multi-Path P2P Content-Defined Mesh File & Stream Fabric
+2026-10-25T22:33:53.335574Z,silentmic-rt,0.1.0,0,0,https://github.com/shahmdmahi15/silentmic-rt,"Deterministic, Zero-Allocation Sub-3ms Hard Real-Time Neural Voice Isolator & Virtual Microphone Driver"
+2026-10-25T22:35:16.81612Z,omnibrain,0.1.0,0,0,https://github.com/shahmdmahi15/omnibrain,Embedded Local-First Temporal Semantic Knowledge Graph & Reader Engine
+2026-10-25T22:35:22.224669Z,ling-kernel,2030.1.37,0,0,,"Minimal kernel runtime for Ling — no_std CPU intrinsics, VGA, serial, and boot support"
+2026-10-25T22:35:51.181326Z,goldpan,0.0.1,0,0,https://github.com/villano-lab/NSDF-Data,"Analysis of digitized pulses together with their scalar quantities (placeholder release, in development)."
+2026-10-25T22:36:26.522754Z,goldsluice,0.0.1,0,0,https://github.com/villano-lab/NSDF-Data,"Reduction of raw digitized pulses to scalar quantities, stored with the pulses (placeholder: not yet developed)."
+2026-10-25T22:36:42.902964Z,day-part-auth,0.0.1,0,0,https://github.com/daybrite/day-part-auth,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T22:37:15.220235Z,winds-engine,0.1.0,0,0,https://github.com/ajokela/winds-engine,Deterministic wind profiles and radiosonde validation for trajectory simulation
+2026-10-25T22:42:22.112447Z,shep-tree,0.17.0,0,0,https://github.com/shep-pm/shep,"Signal a process group, own a Windows job and stop a child and everything it started, for any process"
+2026-10-25T22:43:37.414773Z,ai-protocol,0.1.0,0,0,https://github.com/Xenox-developer/ai-protocol,Cooperative agent access to HTTP services with shared workload budgets
+2026-10-25T22:44:13.31304Z,rlx-stablehlo,0.2.19,0,0,https://github.com/MIT-RLX/rlx,Export RLX graphs as StableHLO MLIR (for IREE and other MLIR toolchains)
+2026-10-25T22:46:42.996784Z,day-part-speech,0.0.1,0,0,https://github.com/daybrite/day-part-speech,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T22:50:34.022693Z,sa430,0.1.1,0,0,https://github.com/DKrepsky/sa430,"A library for the SA430 Sub 1GHz Spectrum Analyzer, from Texas Instruments"
+2026-10-25T22:56:43.010044Z,day-part-zeroconf,0.0.1,0,0,https://github.com/daybrite/day-part-zeroconf,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T22:57:40.472536Z,talos-sdk,0.1.0,0,0,https://github.com/antondziuin/talos-sdk,"Talos SDK for Rust applications: license activation and validation, offline licensing, feature entitlements, floating seats, and signed software updates."
+2026-10-25T22:58:16.612246Z,rs-ltsv2sqlite,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-ltsv2sqlite,Convert LTSV logs to SQLite database
+2026-10-25T23:03:45.226428Z,ninthsubstrate-core,0.0.1,0,0,,"Core crate of Ninth Substrate Intelligence Systems LLC: recursive language model (RLM) building, AI research and AI safety research."
+2026-10-25T23:03:49.815801Z,ninthsubstrate,0.0.1,0,0,,"Ninth Substrate Intelligence Systems LLC: recursive language model (RLM) building, AI research and AI safety research."
+2026-10-25T23:05:42.005527Z,speccoder-core,0.1.0,0,0,https://github.com/hupe1980/speccoder,"Pure domain types of speccoder: ids, task graph, state machines, command results. No IO, no async."
+2026-10-25T23:05:49.003356Z,speccoder-speckit,0.1.0,0,0,https://github.com/hupe1980/speccoder,GitHub Spec Kit adapter for speccoder: artifact discovery and tasks.md parsing.
+2026-10-25T23:05:59.010785Z,speccoder-openspec,0.1.0,0,0,https://github.com/hupe1980/speccoder,"OpenSpec adapter for speccoder: change discovery, tasks.md and spec delta parsing, preflight."
+2026-10-25T23:06:42.886409Z,day-piece-crash-reporter,0.0.1,0,0,https://github.com/daybrite/day-piece-break,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T23:07:29.854024Z,speccoder-runtime,0.1.0,0,0,https://github.com/hupe1980/speccoder,Application services of speccoder: the only crate that executes anything.
+2026-10-25T23:08:25.687159Z,speccoder-web,0.1.0,0,0,https://github.com/hupe1980/speccoder,speccoder's web interface: a loopback host serving the embedded UI and an API over speccoder's own payloads
+2026-10-25T23:16:38.246844Z,health-checks,0.1.0,0,0,https://github.com/fakhrulhilal/health-check-rs,"Health checks modelled on ASP.NET Core's Microsoft.Extensions.Diagnostics.HealthChecks, with optional axum endpoint and ready-made checks for SQL Server, PostgreSQL, SQLite, Redis, Elasticsearch and…"
+2026-10-25T23:16:42.499032Z,day-piece-camera,0.0.1,0,0,https://github.com/daybrite/day-piece-camera,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T23:17:02.828218Z,sntrup-kem,0.1.0-rc.0,0,0,https://github.com/RustCrypto/KEMs,Pure Rust implementation of the Streamlined NTRU Prime KEM for all parameter sizes
+2026-10-25T23:17:44.646149Z,rlx-signal,0.2.19,0,0,https://github.com/MIT-RLX/rlx,"scipy.signal reproduced bit-for-bit: Butterworth design, zpk2sos, lfilter/sosfilt (+zi, filtfilt), firwin and cosine windows"
+2026-10-25T23:18:04.854185Z,paperpaw-plugin-hyphenation-da,1.0.0,0,0,https://github.com/hthoene/paperpaw,PaperPaw hyphenation patterns for Danish
+2026-10-25T23:18:05.31161Z,paperpaw-plugin-hyphenation-de,1.0.0,0,0,https://github.com/hthoene/paperpaw,PaperPaw hyphenation patterns for German
+2026-10-25T23:18:05.721331Z,paperpaw-plugin-hyphenation-es,1.0.0,0,0,https://github.com/hthoene/paperpaw,PaperPaw hyphenation patterns for Spanish
+2026-10-25T23:18:06.256385Z,paperpaw-plugin-hyphenation-fr,1.0.0,0,0,https://github.com/hthoene/paperpaw,PaperPaw hyphenation patterns for French
+2026-10-25T23:18:06.785947Z,paperpaw-plugin-hyphenation-it,1.0.0,0,0,https://github.com/hthoene/paperpaw,PaperPaw hyphenation patterns for Italian
