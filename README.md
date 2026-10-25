@@ -8,59 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 16:18 UTC
+## Latest list — 2026-10-25 17:19 UTC
 
-New crates published between 2026-10-25 15:22 UTC and 2026-10-25 16:18 UTC.
+New crates published between 2026-10-25 16:18 UTC and 2026-10-25 17:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-25T16-18-48-419115Z.csv)
+[Full CSV](data/new-crates-2026-10-25T17-19-44-598005Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-25 15:23:56 | [soroban-sim-host](https://crates.io/crates/soroban-sim-host) | 29.0.2 | 0 | Isolated Soroban application host for soroban-sim exact transaction metering |
-| 2026-10-25 15:24:13 | [soroban-sim-core](https://crates.io/crates/soroban-sim-core) | 0.1.0 | 0 | Portable Soroban simulation and forked network sessions |
-| 2026-10-25 15:24:47 | [soroban-sim-facade](https://crates.io/crates/soroban-sim-facade) | 0.1.0 | 0 | A Stellar RPC facade over a network session, without a transport: stellar-rpc a… |
-| 2026-10-25 15:25:17 | [soroban-sim-component](https://crates.io/crates/soroban-sim-component) | 0.1.0 | 0 | WASI component interface for portable Soroban simulation |
-| 2026-10-25 15:25:50 | [yoto-cli](https://crates.io/crates/yoto-cli) | 0.1.0 | 0 | Manage Yoto Make Your Own playlists from the command line: sign in, upload audi… |
-| 2026-10-25 15:26:05 | [soroban-sim-cli](https://crates.io/crates/soroban-sim-cli) | 0.1.0 | 0 | Rehearse a multi-transaction Soroban setup on a forked network |
-| 2026-10-25 15:27:21 | [scenediff](https://crates.io/crates/scenediff) | 0.1.0 | 0 | Visual regression diff of two screenshots, files or device captures |
-| 2026-10-25 15:27:46 | [rupg-session](https://crates.io/crates/rupg-session) | 0.1.84 | 0 | Sessions, the 438 settings, portals, prepared statements, the plan cache, LISTE… |
-| 2026-10-25 15:27:58 | [arkitekt-mesh-core](https://crates.io/crates/arkitekt-mesh-core) | 0.0.0 | 0 | Placeholder for the arkitekt-mesh release (arkitektio/arkitekt-mesh); the real… |
-| 2026-10-25 15:28:08 | [rupg-server](https://crates.io/crates/rupg-server) | 0.1.84 | 0 | The listener, TLS, authentication, pg_hba.conf, the task per connection, cancel. |
-| 2026-10-25 15:28:16 | [rupg-tree](https://crates.io/crates/rupg-tree) | 0.1.84 | 0 | A B+ tree over PageAccess with optimistic latch coupling, used by the hot store… |
-| 2026-10-25 15:28:24 | [rupg-hot](https://crates.io/crates/rupg-hot) | 0.1.84 | 0 | The hot row pages, in-place update with undo pointers, the row id map. |
-| 2026-10-25 15:28:30 | [rupg-table](https://crates.io/crates/rupg-table) | 0.1.84 | 0 | A table as one object over both stores, TOAST, the system columns, the row id a… |
-| 2026-10-25 15:31:38 | [ntfs-ng](https://crates.io/crates/ntfs-ng) | 0.1.0 | 0 | Fast, hardened NTFS and $MFT parsing: zero-copy records, a parallel MFT scan en… |
-| 2026-10-25 15:37:21 | [startperf](https://crates.io/crates/startperf) | 0.1.0 | 0 | App cold/warm start benchmark over adb |
-| 2026-10-25 15:38:52 | [rupg-txn](https://crates.io/crates/rupg-txn) | 0.1.84 | 0 | MVCC, snapshots, undo, row and advisory locks, SSI, savepoints, two-phase commi… |
-| 2026-10-25 15:39:37 | [msi-rgb](https://crates.io/crates/msi-rgb) | 0.2.1 | 0 | Native Linux RGB keyboard controller for MSI Katana 15 HX laptops |
-| 2026-10-25 15:41:50 | [devpage](https://crates.io/crates/devpage) | 0.1.0 | 0 | Live documents from Markdown in a repository: sites, docs and slides, with comm… |
-| 2026-10-25 15:43:22 | [xdg-focus](https://crates.io/crates/xdg-focus) | 0.1.0 | 0 | Try our very best to take back focus, it's rightfully ours! |
-| 2026-10-25 15:47:21 | [svg2vd](https://crates.io/crates/svg2vd) | 0.1.0 | 0 | SVG → Android VectorDrawable XML converter — pure, no device, no Android SDK |
-| 2026-10-25 15:47:57 | [writz-spv-client](https://crates.io/crates/writz-spv-client) | 0.1.0 | 0 | Soroban client for the Writz bitcoin-spv contract: prove a Bitcoin transaction… |
-| 2026-10-25 15:48:49 | [duct-graphics-core](https://crates.io/crates/duct-graphics-core) | 0.1.0 | 0 | Core C-ABI vtable interface and common types for Project32 duct graphics pipeli… |
-| 2026-10-25 15:48:59 | [duct-graphics](https://crates.io/crates/duct-graphics) | 0.1.0 | 0 | Central router and dynamic pipeline loader for Project32 duct graphics subsystem |
-| 2026-10-25 15:49:16 | [rupg](https://crates.io/crates/rupg) | 0.1.84 | 0 | The Rust API, the facade crate that a user adds to Cargo.toml. |
-| 2026-10-25 15:54:47 | [talechime-moss-tts](https://crates.io/crates/talechime-moss-tts) | 0.1.0 | 0 | Native Candle computation for MOSS speech models |
-| 2026-10-25 15:57:21 | [iconkit](https://crates.io/crates/iconkit) | 0.1.0 | 0 | Material Symbols icon search and downloader — browse fonts.google.com/icons, fe… |
-| 2026-10-25 15:59:05 | [talechime-voxcpm](https://crates.io/crates/talechime-voxcpm) | 0.1.0 | 0 | Native Candle VoxCPM2 inference from the production GGUF weights |
-| 2026-10-25 15:59:27 | [talechime-omnivoice](https://crates.io/crates/talechime-omnivoice) | 0.1.0 | 0 | Native Candle OmniVoice inference for Talechime |
-| 2026-10-25 15:59:33 | [rupg-ann](https://crates.io/crates/rupg-ann) | 0.1.84 | 0 | The vector index of document 13, which hnsw and ivfflat map to. |
-| 2026-10-25 15:59:45 | [talechime-cosyvoice3](https://crates.io/crates/talechime-cosyvoice3) | 0.1.0 | 0 | Native Candle inference for Fun-CosyVoice3-0.5B with optional ORT reference pat… |
-| 2026-10-25 16:00:04 | [talechime-indextts](https://crates.io/crates/talechime-indextts) | 0.1.0 | 0 | Native Candle IndexTTS 2.5 inference from converted official checkpoints |
-| 2026-10-25 16:04:03 | [scx](https://crates.io/crates/scx) | 0.5.0 | 0 | Local query-aware evidence-selection compressor for agent contexts (seed-region… |
-| 2026-10-25 16:07:21 | [uitool](https://crates.io/crates/uitool) | 0.1.0 | 0 | Practical Android UI driver — dump, find, tap, shot over adb |
-| 2026-10-25 16:09:47 | [rupg-capi](https://crates.io/crates/rupg-capi) | 0.1.84 | 0 | The C API and the libpq exports of document 17. |
-| 2026-10-25 16:11:24 | [pbc-core](https://crates.io/crates/pbc-core) | 0.1.0 | 0 | Typed BLS12-381 pairing API with strict encodings and RFC 9380 hash-to-curve |
-| 2026-10-25 16:11:32 | [pbc-legacy](https://crates.io/crates/pbc-legacy) | 0.1.0 | 0 | Independent reimplementation of PBC's arbitrary-parameter pairing families, leg… |
-| 2026-10-25 16:11:40 | [pbc-compat](https://crates.io/crates/pbc-compat) | 0.1.0 | 0 | Safe PBC-style element/context operations over pbc-core (modern) and pbc-legacy… |
-| 2026-10-25 16:11:45 | [pbc-rs](https://crates.io/crates/pbc-rs) | 0.1.0 | 0 | User-facing facade re-exporting pbc-compat. |
-| 2026-10-25 16:11:50 | [pbc-rs-ffi](https://crates.io/crates/pbc-rs-ffi) | 0.1.0 | 0 | Modern C/C++ migration interface (libpbc_rs) over pbc-compat. |
-| 2026-10-25 16:12:03 | [nouride-run](https://crates.io/crates/nouride-run) | 0.1.0 | 0 | Headless task and mission runner utility for the Nouride multi-agent engine. |
-| 2026-10-25 16:14:53 | [ochrepad-lsp](https://crates.io/crates/ochrepad-lsp) | 0.4.0 | 0 | The language server client of the ochrepad text editor (internal; no stable API) |
-| 2026-10-25 16:15:37 | [ek-tq](https://crates.io/crates/ek-tq) | 0.1.0 | 0 | TianQin (TqSdk) data-side gateway plugin for the ek ecosystem, via a Python sid… |
-| 2026-10-25 16:17:35 | [petri-core](https://crates.io/crates/petri-core) | 0.1.0 | 0 | Generic places, transitions, tokens and markings for state-machine Petri nets |
-| 2026-10-25 16:18:34 | [akku-drive](https://crates.io/crates/akku-drive) | 0.0.1 | 0 | Attribute macros for Akku: HTTP routes and the async entry point. |
-| 2026-10-25 16:18:43 | [akku](https://crates.io/crates/akku) | 0.0.1 | 0 | A pragmatic Rust battery pack: one namespace, clear APIs, opt-in power. |
+| 2026-10-25 16:18:52 | [akku-cli](https://crates.io/crates/akku-cli) | 0.0.1 | 0 | Command line helper for Akku projects. |
+| 2026-10-25 16:20:22 | [rupg-cli](https://crates.io/crates/rupg-cli) | 0.1.84 | 0 | The rupg binary: serve, check, strip, upgrade, import, dump. |
+| 2026-10-25 16:21:44 | [pbc-ffi](https://crates.io/crates/pbc-ffi) | 0.1.0 | 0 | Binary-compatible replacement libpbc over pbc-legacy. |
+| 2026-10-25 16:24:02 | [paperpaw-hid](https://crates.io/crates/paperpaw-hid) | 0.5.0-beta.7 | 0 | Decodes HID input reports of Bluetooth keyboards and remotes (HID over GATT) in… |
+| 2026-10-25 16:24:36 | [paperpaw-plugin-bluetooth](https://crates.io/crates/paperpaw-plugin-bluetooth) | 1.0.0 | 0 | PaperPaw Bluetooth: pairs remotes, keyboards and sensors, forgets them, and say… |
+| 2026-10-25 16:25:51 | [launchline](https://crates.io/crates/launchline) | 0.1.0 | 0 | A lightweight terminal launcher for interactive CLI tools. |
+| 2026-10-25 16:27:19 | [ah-config-macros](https://crates.io/crates/ah-config-macros) | 0.1.0 | 0 | Derive implementation for ah-config |
+| 2026-10-25 16:27:53 | [ah-config](https://crates.io/crates/ah-config) | 0.1.0 | 0 | Typed TOML configuration declarations with isolated spaces and shared snapshots |
+| 2026-10-25 16:30:38 | [cure-python-ast](https://crates.io/crates/cure-python-ast) | 0.2.0 | 0 | Python AST (arena + PyId) for the cure simplifier engine |
+| 2026-10-25 16:30:38 | [dimpl13](https://crates.io/crates/dimpl13) | 0.8.0 | 0 | DTLS 1.3 implementation (Sans‑IO, Sync) |
+| 2026-10-25 16:30:38 | [rupg-cluster](https://crates.io/crates/rupg-cluster) | 0.1.84 | 0 | Placement, the shard map, distributed commit, distributed query, rebalancing. |
+| 2026-10-25 16:30:45 | [cure-python-parser](https://crates.io/crates/cure-python-parser) | 0.2.0 | 0 | Fault-tolerant Python parser (indentation, implicit joins, 3.15 syntax) for cure |
+| 2026-10-25 16:30:52 | [cure-python-print](https://crates.io/crates/cure-python-print) | 0.2.0 | 0 | Python source printer/formatter for cure |
+| 2026-10-25 16:30:59 | [cure-python-simplify](https://crates.io/crates/cure-python-simplify) | 0.2.0 | 0 | Python constant folding and control-flow simplification for cure |
+| 2026-10-25 16:33:00 | [teamy-facet-toml](https://crates.io/crates/teamy-facet-toml) | 0.50.0-rc.7 | 0 | Manifest-only Facet TOML parser subset for embed-resource |
+| 2026-10-25 16:39:59 | [teamy-embed-resource](https://crates.io/crates/teamy-embed-resource) | 0.1.0 | 0 | A Cargo library to handle compilation and inclusion of Windows resources in the… |
+| 2026-10-25 16:40:53 | [rupg-column](https://crates.io/crates/rupg-column) | 0.1.84 | 0 | The cold segments, the global dictionaries of document 09 section 9.5, the sort… |
+| 2026-10-25 16:46:09 | [appliance-grow](https://crates.io/crates/appliance-grow) | 0.1.0 | 0 | The runtime data-set growth every nordisk appliance runs the same way: a phase… |
+| 2026-10-25 16:46:47 | [monetize-proto](https://crates.io/crates/monetize-proto) | 0.1.3 | 0 | The .proto files for monetize's gRPC surface (server ⇄ console ⇄ product), and… |
+| 2026-10-25 16:47:19 | [qk-trace](https://crates.io/crates/qk-trace) | 0.11.0 | 0 | qk's eBPF recorder of what a task reads |
+| 2026-10-25 16:47:52 | [lombokvector](https://crates.io/crates/lombokvector) | 0.1.0 | 0 | Vector math with bit-identical results across Rust, TypeScript, Python, Go and… |
+| 2026-10-25 16:51:08 | [rupg-contrib](https://crates.io/crates/rupg-contrib) | 0.1.84 | 0 | The contrib extensions that document 16 lists, in Rust. |
+| 2026-10-25 16:53:38 | [git-kb](https://crates.io/crates/git-kb) | 0.1.0 | 0 | A knowledge base of Markdown in git: served or built as a site, reviewed in pla… |
+| 2026-10-25 16:58:50 | [rp2350-hazard3-hall](https://crates.io/crates/rp2350-hazard3-hall) | 0.1.0 | 0 | Bare-metal MISRA-compliant HAL for RP2350 (Hazard3 RISC-V) |
+| 2026-10-25 16:58:56 | [smbcloud-ascapi-play](https://crates.io/crates/smbcloud-ascapi-play) | 0.5.0 | 0 | Google Play Developer API (Edits v3): store listings, listing images, and track… |
+| 2026-10-25 17:01:24 | [rupg-encode](https://crates.io/crates/rupg-encode) | 0.1.84 | 0 | The encodings of document 09, the chooser, and the codecs: zstd, lz4, pglz and… |
+| 2026-10-25 17:11:40 | [rupg-exchange](https://crates.io/crates/rupg-exchange) | 0.1.84 | 0 | The exchange operators between workers and between nodes. |
+| 2026-10-25 17:13:40 | [palp](https://crates.io/crates/palp) | 0.1.1 | 0 | A fast, safe, and friendly mobile screen driver for AI coding agents and develo… |
 
 ## Data source
 
