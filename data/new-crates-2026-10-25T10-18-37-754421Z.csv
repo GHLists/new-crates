@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T09:21:09.099636Z,oj_stylex,0.2.46,0,0,https://github.com/lovablelabs/oj,"StyleX compiler: transforms, rule registry and stylesheet assembly"
+2026-10-25T09:21:11.660774Z,fru,0.2.46,0,0,https://github.com/lovablelabs/oj,Standalone StyleX compiler CLI (the `oj stylex` command set)
+2026-10-25T09:21:31.456867Z,crabpot-windows,0.2.0,0,0,https://github.com/shep-pm/crabpot,"The Windows half of crabpot: upstream's srt-win source, taken in under crabpot's name"
+2026-10-25T09:21:38.698566Z,crabpot-linux,0.2.0,0,0,https://github.com/shep-pm/crabpot,"The Linux half of crabpot: the bwrap argv, the mandatory-deny walker, the seccomp filters and the dependency checks"
+2026-10-25T09:22:26.772215Z,sofd-error,0.5.1,0,0,https://github.com/emfox/sOFD,"One error type per OFD subsystem, all converting losslessly into a single taxonomy"
+2026-10-25T09:22:36.079326Z,sofd-common,0.5.1,0,0,https://github.com/emfox/sOFD,Foundational types shared across the OFD stack
+2026-10-25T09:22:40.387274Z,sofd-geometry,0.5.1,0,0,https://github.com/emfox/sOFD,Backend-independent paths and affine transforms for OFD layout
+2026-10-25T09:22:43.987744Z,prek-ignore,0.4.33,0,0,https://github.com/prek-ci/ripgrep,"A fork of ignore for prek, providing fast matching of ignore files such as `.gitignore` against file paths."
+2026-10-25T09:22:55.03872Z,sofd-font,0.5.1,0,0,https://github.com/emfox/sOFD,"Embedded fonts, system-resolved names, CID indices and metrics for OFD text"
+2026-10-25T09:23:06.521846Z,sofd-display,0.5.1,0,0,https://github.com/emfox/sOFD,"The display list that the nested OFD template tree flattens into, shared by every consumer"
+2026-10-25T09:24:03.524421Z,yagmath,0.1.1,0,0,https://github.com/YagirProtect/Rust-Yagmath-Lib,"Game math for Rust: generic 2D/3D/4D vectors, AABB bounds, planes, interpolation, angle helpers and numeric conversions"
+2026-10-25T09:24:29.904967Z,euv-automation,0.32.9,0,0,https://github.com/euv-dev/euv.git,Real-browser UI automation and assertions for euv components.
+2026-10-25T09:25:16.542063Z,tauri-plugin-text-recognition,0.1.1,0,0,https://github.com/kosmotheka/tauri-plugin-text-recognition,"Read printed text from images on the device, with ML Kit on Android. No network."
+2026-10-25T09:25:23.207811Z,euv-performance,0.32.9,0,0,https://github.com/euv-dev/euv.git,"Reproducible CPU and heap benchmarks for the euv runtime, game engine, and chart library."
+2026-10-25T09:26:16.933101Z,imgsmith,0.1.0,0,0,https://github.com/wlkr73/imgsmith,"Convert, resize, crop and thumbnail images from one static binary, with no delegates"
+2026-10-25T09:26:18.417549Z,tplink-m7200,0.1.0,0,0,https://gitlab.com/brightopen/tplink-m7200,Async Rust client and TUI for the TP-Link M7200 LTE router SMS API
+2026-10-25T09:26:42.824936Z,day-toolkit-dom,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T09:34:34.054354Z,sofd-crypto,0.5.1,0,0,https://github.com/emfox/sOFD,"SM3, SM4, SM2, X.509 inspection and GB/T 20520 timestamps, for OFD signatures"
+2026-10-25T09:34:41.169087Z,dengjen-core,3.0.0,0,0,https://github.com/ZirekHQ/dengjen,"Shared runtime primitives for the dengjen speech engines: cancellation, ONNX Runtime providers, path confinement and poison-tolerant locks"
+2026-10-25T09:36:42.984854Z,day-toolkit-gtk,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T09:37:48.858361Z,espforge-diagnostics,0.6.0,0,0,https://github.com/mohankumargupta/espforge,a scaffolding++ tool for creating esp32 no_std esphal without the hassle
+2026-10-25T09:37:53.403605Z,espf,0.6.0,0,0,https://github.com/mohankumargupta/espforge,a scaffolding++ tool for creating esp32 no_std esphal without the hassle
+2026-10-25T09:37:56.756927Z,espforge-bindings,0.6.0,0,0,https://github.com/mohankumargupta/espforge,a scaffolding++ tool for creating esp32 no_std esphal without the hassle
+2026-10-25T09:38:00.393496Z,espforge-espgenerate-template,0.6.0,0,0,https://github.com/mohankumargupta/espforge,The ESPF schema and prose the generator is built from
+2026-10-25T09:44:26.390467Z,memsaga-core,0.1.1,0,0,https://github.com/grimmerk/memsaga,"Library behind the memsaga CLI: mirror, commit, two-way sync and backfill for Claude Code's memory and config."
+2026-10-25T09:44:40.777784Z,memsaga,0.1.1,0,0,https://github.com/grimmerk/memsaga,"Version control and two-way sync for Claude Code's memory, skills, hooks and config, plus other files you choose, in a git repository you own."
+2026-10-25T09:46:42.680122Z,day-toolkit-material,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T09:56:33.021836Z,rtmpbc-runtime,0.1.0,0,0,https://github.com/shahmdmahi15/rt-mpbc,"Hard real-time, zero-allocation Port-Hamiltonian symplectic solver for bare-metal systems"
+2026-10-25T09:56:42.569356Z,day-toolkit-qt,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T09:56:59.073694Z,rtmpbc-compiler,0.1.0,0,0,https://github.com/shahmdmahi15/rt-mpbc,"Bond-graph causality solver, Dirac structure synthesizer, and symbolic unroller"
+2026-10-25T09:57:30.689452Z,sofd-io,0.5.1,0,0,https://github.com/emfox/sOFD,"Byte sources and sinks, and the one decoder every reader of an image resource shares"
+2026-10-25T09:57:55.607199Z,sofd-package,0.5.1,0,0,https://github.com/emfox/sOFD,"Open the ZIP container an OFD file is, and hand out its entries as bytes"
+2026-10-25T10:02:37.142244Z,sofd-xml,0.5.1,0,0,https://github.com/emfox/sOFD,"Typed reading of OFD XML, where attributes are abbreviated and values carry units"
+2026-10-25T10:06:42.382087Z,day-toolkit-uikit,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T10:07:17.640804Z,crates14,0.1.0,0,0,,test crates
+2026-10-25T10:12:40.636951Z,sofd-archive,0.5.1,0,0,https://github.com/emfox/sOFD,Audit an OFD file for archival readiness under GB/T 33190-2016 and GB/T 42133-2022
+2026-10-25T10:14:21.548218Z,aircraft-type-descriptions,0.1.0,0,0,https://github.com/Open-Aviation-Solutions/aircraft-type-descriptions,"The airframe, engines and wake turbulence category of aircraft types, by type designator, each row citing its sources."
+2026-10-25T10:14:46.165949Z,provcheck-attestation-spec,1.5.1,0,0,https://github.com/CreativeMayhemLtd/provcheck,Wire-format types for app.provcheck.signingKey records: shared between provcheck-platform (verifier) and provcheck-publish (artist tool) so the two sides cannot drift on the on-the-wire contract.
+2026-10-25T10:14:46.87476Z,provcheck-detect,1.5.1,0,0,https://github.com/CreativeMayhemLtd/provcheck,AI-content detection trait for provcheck. Defines the contract operators implement against to plug in their own deepfake / anti-spoofing / AI-generated-content classifier. This crate is FOSS plumbing…
+2026-10-25T10:14:47.949108Z,provcheck-dlc,1.5.1,0,0,https://github.com/CreativeMayhemLtd/provcheck,provcheck DLC framework: offline-verifiable Pro (seat) licenses + add-on pack metadata. Apache-2.0 framework; packs carry their own license (the Pro Watermarking pack bundles the BUSL-1.1 Backfire +…
+2026-10-25T10:14:48.916677Z,provcheck-weights,1.5.1,0,0,https://github.com/CreativeMayhemLtd/provcheck,"DLC-style downloadable detector weights — manifest, download, verify, cache."
+2026-10-25T10:14:52.535552Z,provcheck,1.5.1,0,0,https://github.com/CreativeMayhemLtd/provcheck,Verify C2PA Content Credentials on any supported media file.
+2026-10-25T10:16:42.522069Z,day-toolkit-winui,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T10:18:16.097296Z,provcheck-sign,1.5.1,0,0,https://github.com/CreativeMayhemLtd/provcheck,"Cert generation, key custody, and C2PA signing for provcheck-kit. Pure-Rust, sync. Owns every secret a creator has on disk."
