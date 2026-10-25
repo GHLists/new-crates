@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T02:24:01.708882Z,designcraft-geom,0.7.1,0,0,,"DesignCraft geometry: anchor paths, shapes, units and measurements, hit testing"
+2026-10-25T02:25:38.160425Z,rsmix-session,1.0.0,0,0,https://github.com/todd-skelton/rsmix,"Sessions for rsmix: a Session with values and flash data, and cookie, memory and filesystem storages (Remix's session package)"
+2026-10-25T02:26:51.831923Z,connectivity-core,0.1.0,0,0,https://github.com/csiro/connectivity,"Multi-resolution landscape connectivity, PARC connectedness and BERI on in-memory raster arrays"
+2026-10-25T02:27:12.582293Z,nd-async-rusqlite,0.1.0,0,0,https://github.com/nathaniel-daniel/nd-async-rusqlite-rs,Utilities for accessing an Sqlite database via rusqlite in an async runtime.
+2026-10-25T02:28:53.18485Z,imgres,0.1.0,0,0,https://github.com/LillyPK/imgres/tree/main,Uses WGPU to resize an image to the target resolution
+2026-10-25T02:29:05.642024Z,ferrocad_inventor_py,0.1.3,0,0,https://github.com/ferrocad/ferrocad,The pivy-compatible `coin` facade over ferrocad_inventor (surfaced as `pivy.coin`)
+2026-10-25T02:32:07.536114Z,cortexkit-usage-steps,0.1.0,0,0,https://github.com/cortexkit/commons,"Wire contract, vectors and a last-row-wins helper for the CortexKit live usage step feed (usage.steps.subscribe and usage.steps.read)."
+2026-10-25T02:35:37.321588Z,rsmix-fetch,1.0.0,0,0,https://github.com/todd-skelton/rsmix,"The Fetch API for rsmix: Request, Response, streaming Body, FormData and AbortSignal on the standard http crate"
+2026-10-25T02:38:43.835429Z,ferrocad_stage_py,0.1.3,0,0,https://github.com/ferrocad/ferrocad,The PyO3 surface of ferrocad_stage (surfaced as `ferrocad.stage`)
+2026-10-25T02:40:57.139028Z,flashraw-camera-db,0.1.0,0,0,https://github.com/ybouane/flashraw,"Camera database for FlashRaw: aliases, crops, black/white levels, CFA patterns and colour matrices compiled into static tables, with the validation tooling"
+2026-10-25T02:40:59.528069Z,flashraw-core,0.1.0,0,0,https://github.com/ybouane/flashraw,"Internal crate of FlashRaw: core types, bounds-safe readers, bit pumps and parallel helpers. Use the `flashraw` crate instead."
+2026-10-25T02:41:04.450332Z,flashraw-codecs,0.1.0,0,0,https://github.com/ybouane/flashraw,"Internal crate of FlashRaw: RAW compression codecs (lossless JPEG, packed bits, vendor entropy coders). Use the `flashraw` crate instead."
+2026-10-25T02:41:09.768913Z,flashraw-formats,0.1.0,0,0,https://github.com/ybouane/flashraw,Internal crate of FlashRaw: RAW container parsers and per-vendor format decoders. Use the `flashraw` crate instead.
+2026-10-25T02:41:12.6098Z,flashraw-gpu,0.1.0,0,0,https://github.com/ybouane/flashraw,"Optional wgpu/WebGPU compute backend for FlashRaw (Vulkan, Metal, DX12, WebGPU). Use the `flashraw` crate with its `gpu` feature instead."
+2026-10-25T02:45:37.654317Z,rsmix-ui,0.12.1,0,0,https://github.com/todd-skelton/rsmix,"Headless, accessible UI primitives and animation utilities for rsmix components (remix ui): accordion, anchor, combobox, listbox, menu, popover, select, tabs, toggle, springs and layout animation"
+2026-10-25T02:49:11.540563Z,ferrocad_wgpu,0.1.3,0,0,https://github.com/ferrocad/ferrocad,"FerroCAD's wgpu backend: hardware commands, WGSL pipelines, dynamic uniforms and g-buffer picking"
+2026-10-25T02:52:18.48413Z,flashraw,0.1.0,0,0,https://github.com/ybouane/flashraw,"Extremely fast, safe RAW image decoding: DNG, CR2, CR3, NEF, ARW, RAF, RW2, ORF, PEF and more"
+2026-10-25T02:52:33.588825Z,a4mp,0.1.0,0,0,https://github.com/Unka-Malloc/Adapters-For-Model-Providers,Independently implemented adapters for model providers: one typed SDK plus optional wire codecs
+2026-10-25T02:54:03.2515Z,rpi-runtime,0.9.0,0,0,https://github.com/bigfish1913/pi-rust,"Embeddable model catalog, credential resolution and provider execution bindings"
+2026-10-25T02:54:12.736929Z,payroof,0.1.0,0,0,https://github.com/payroof/payroof,"Watch-only cryptocurrency payment references, scanning, and signed webhooks"
+2026-10-25T02:55:35.398055Z,rsmix-data-schema,1.0.0,0,0,https://github.com/todd-skelton/rsmix,"Small, sync data validation for rsmix (Remix's data-schema): schemas, checks, coercion and FormData parsing"
+2026-10-25T02:55:49.655986Z,yacomplex,0.1.0,0,0,,A complex number library with high-level modular structure.
+2026-10-25T02:56:46.542102Z,stortop,0.1.0,0,0,https://github.com/payroof/stor,Multi-tenant storefronts with exact cryptocurrency checkout and confirmed delivery
+2026-10-25T02:57:12.994956Z,conpty-bin-vendored,1.25.2609300030,0,0,https://github.com/felis-terminal/conpty-bin-vendored,"Microsoft's out-of-band ConPTY (conpty.dll and OpenConsole.exe) as embedded bytes, with the API of that version"
+2026-10-25T02:57:59.168071Z,corundum-framework-platform,0.1.0,0,0,https://github.com/sapphire-turtle/corundum-framework,"What sapphire and asteria apps ask of the OS, without egui: app directories (phones included), the system's languages, the JNI / Objective-C bridging"
+2026-10-25T02:59:21.514613Z,corundum-framework-gui,0.1.0,0,0,https://github.com/sapphire-turtle/corundum-framework,"The look shared by sapphire and asteria apps: egui shell, system fonts, Lucide icons, translations"
+2026-10-25T02:59:24.275145Z,corundum-framework,0.1.0,0,0,https://github.com/sapphire-turtle/corundum-framework,The application framework shared by sapphire and asteria apps - single-dependency facade over the corundum-framework-* crates
+2026-10-25T03:00:30.302398Z,ferrocad_viewport,0.1.3,0,0,https://github.com/ferrocad/ferrocad,"FerroCAD's bite-gpui viewport: presents an Inventor scene (image path), the navigation cube, and the sample scene"
+2026-10-25T03:03:09.622215Z,payroof-wallet-core,0.1.0,0,0,https://github.com/payroof/wallet,"Local mnemonic vault, deterministic addresses, and cryptocurrency signing for Payroof Wallet"
+2026-10-25T03:03:27.523824Z,flashraw-cli,0.1.0,0,0,https://github.com/ybouane/flashraw,"The flashraw command-line tool: inspect, decode, convert and benchmark camera RAW files"
+2026-10-25T03:05:34.618865Z,rsmix-fetch-proxy,1.0.1,0,0,https://github.com/todd-skelton/rsmix,Forward requests to another server and rewrite the response for the client (port of remix fetch-proxy)
+2026-10-25T03:07:21.379034Z,roofer,0.1.0,0,0,https://github.com/payroof/roofer,"Command line for the Payroof workspace: run the local stack (Anvil, Payroof, Stor, Wallet) and its end-to-end tests"
+2026-10-25T03:08:04.780475Z,nysiris-core,0.1.2,0,0,https://github.com/TribeWarez/nysiris-core,"Shared primitives for Nysiris native clients: identity, message framing, crypto, contacts, and transport traits."
+2026-10-25T03:08:38.110848Z,nysiris-chat-history,0.1.2,0,0,https://github.com/TribeWarez/nysiris-core,Encrypted append-only local chat history for Nysiris native clients. Flat files only; no SQLite.
+2026-10-25T03:09:10.354163Z,nysiris-testkit,0.1.2,0,0,https://github.com/TribeWarez/nysiris-core,Test transport and fixtures for Nysiris native clients.
+2026-10-25T03:09:43.41152Z,nysiris-chat-core,0.1.2,0,0,https://github.com/TribeWarez/nysiris-core,"P2P chat engine for Nysiris native clients: sealed DMs, contacts, conversation summaries, and encrypted local history."
+2026-10-25T03:10:17.300634Z,nysiris-transport-nym,0.1.2,0,0,https://github.com/TribeWarez/nysiris-core,Nym transport adapter for Nysiris native clients. The real nym-sdk adapter is behind the nym feature and was verified on mainnet; default builds use an explicit unavailable stub.
+2026-10-25T03:15:36.022127Z,rsmix-file-storage,1.0.0,0,0,https://github.com/todd-skelton/rsmix,Key/value storage for files with memory and filesystem backends (Remix's file-storage package)
+2026-10-25T03:15:51.153102Z,core-console,0.1.0,0,0,https://github.com/core-rs/core-console,Automatic terminal and JSON diagnostics for tracing

@@ -8,42 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 02:21 UTC
+## Latest list — 2026-10-25 03:18 UTC
 
-New crates published between 2026-10-25 01:18 UTC and 2026-10-25 02:21 UTC.
+New crates published between 2026-10-25 02:21 UTC and 2026-10-25 03:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-25T02-21-43-860382Z.csv)
+[Full CSV](data/new-crates-2026-10-25T03-18-58-698263Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-25 01:25:27 | [flight-sdk](https://crates.io/crates/flight-sdk) | 0.5.1-next.3241.169… | 0 | The Flight SDK: every SDK crate's public lane in one dependency (TS @flighthq/s… |
-| 2026-10-25 01:25:38 | [rsmix-cli](https://crates.io/crates/rsmix-cli) | 1.0.1 | 0 | The rsmix command (remix cli): new, dev, build, doctor, completion, routes, ass… |
-| 2026-10-25 01:34:53 | [idlepack](https://crates.io/crates/idlepack) | 0.2.0 | 0 | Idle compaction for the Claude and Codex desktop apps: compacts a big idle sess… |
-| 2026-10-25 01:35:44 | [rsmix-component](https://crates.io/crates/rsmix-component) | 1.1.0 | 0 | A Remix 3 style component model for Rust: setup once, render on update(), serve… |
-| 2026-10-25 01:38:09 | [nextcloud-sdk-orchestrator](https://crates.io/crates/nextcloud-sdk-orchestrator) | 0.1.3 | 0 | High-level background orchestrator, actor runtime, and multi-mount synchronizat… |
-| 2026-10-25 01:39:39 | [deckcraft-render](https://crates.io/crates/deckcraft-render) | 0.6.1 | 0 | DeckCraft renderer: slides, layouts and masters to pixels (vello_cpu): fills, o… |
-| 2026-10-25 01:42:19 | [strided-exec](https://crates.io/crates/strided-exec) | 0.7.0 | 0 | Splittable CPU placement token (Pool, Exec) for strided kernels: the only place… |
-| 2026-10-25 01:42:23 | [xlcalc](https://crates.io/crates/xlcalc) | 0.1.1 | 0 | A faithful clone of Excel's calculation engine |
-| 2026-10-25 01:43:34 | [xlcalc-cli](https://crates.io/crates/xlcalc-cli) | 0.1.1 | 0 | Interactive console for the xlcalc engine |
-| 2026-10-25 01:45:37 | [rsmix-cookie](https://crates.io/crates/rsmix-cookie) | 1.0.1 | 0 | Cookie header parsing and Set-Cookie serialization for rsmix (Remix's cookie pa… |
-| 2026-10-25 01:47:41 | [tauri-plugin-devdeck](https://crates.io/crates/tauri-plugin-devdeck) | 1.0.0 | 0 | A developer deck for Tauri apps: live memory, CPU and resource-leak monitor in… |
-| 2026-10-25 01:50:25 | [ml-convertant](https://crates.io/crates/ml-convertant) | 0.0.0 | 0 | Reserved name: conversions of machine learning model data (quantization, packin… |
-| 2026-10-25 01:51:58 | [deckcraft-pdf](https://crates.io/crates/deckcraft-pdf) | 0.6.1 | 0 | DeckCraft PDF export (krilla): slides, notes pages and handouts with a selectab… |
-| 2026-10-25 01:54:10 | [ek-cfg](https://crates.io/crates/ek-cfg) | 0.1.0 | 0 | Configuration underlay for the ek plugin chain: line-key text store per namespa… |
-| 2026-10-25 01:55:33 | [rsmix-html-template](https://crates.io/crates/rsmix-html-template) | 1.0.0 | 0 | html! templates that escape interpolations into SafeHtml (remix/html-template) |
-| 2026-10-25 02:02:47 | [deckcraft-pptx](https://crates.io/crates/deckcraft-pptx) | 0.6.1 | 0 | DeckCraft PPTX: Office Open XML (PresentationML/DrawingML) import and export, w… |
-| 2026-10-25 02:02:53 | [ferrocad_theme](https://crates.io/crates/ferrocad_theme) | 0.1.3 | 0 | FerroCAD's visual-language tokens: linear at the draw contract, packed sRGB at… |
-| 2026-10-25 02:02:56 | [ferrocad_lineage](https://crates.io/crates/ferrocad_lineage) | 0.1.3 | 0 | FerroCAD lineage vocabulary: element references, operation history and the stab… |
-| 2026-10-25 02:02:59 | [ferrocad_curves](https://crates.io/crates/ferrocad_curves) | 0.1.3 | 0 | FerroCAD analytic curves: lines, segments, circles, arcs, ellipses and wires (n… |
-| 2026-10-25 02:03:02 | [ferrocad_ui](https://crates.io/crates/ferrocad_ui) | 0.1.3 | 0 | Qt Designer .ui XML reader and typed form model (no Qt, no rendering) |
-| 2026-10-25 02:03:12 | [ferrocad_graphics](https://crates.io/crates/ferrocad_graphics) | 0.1.3 | 0 | FerroCAD's neutral graphics primitives: the draw-batch contract, the camera/vie… |
-| 2026-10-25 02:03:58 | [orkstage-scan](https://crates.io/crates/orkstage-scan) | 0.1.0 | 0 | OrkStage scan engine: turns IaC and project files into a ScanReport and a platf… |
-| 2026-10-25 02:04:43 | [orkstage-cli](https://crates.io/crates/orkstage-cli) | 0.1.0 | 0 | The ork command line for OrkStage: scan a project into a template, push it, dep… |
-| 2026-10-25 02:05:36 | [rsmix-multipart-parser](https://crates.io/crates/rsmix-multipart-parser) | 1.1.0 | 0 | A streaming multipart/form-data parser (remix/multipart-parser) with header, pa… |
-| 2026-10-25 02:08:22 | [ferrocad_inventor](https://crates.io/crates/ferrocad_inventor) | 0.1.3 | 0 | FerroCAD's Coin/Inventor scene core: node AST, state accumulator and mesh compi… |
-| 2026-10-25 02:13:21 | [designcraft-color](https://crates.io/crates/designcraft-color) | 0.7.1 | 0 | DesignCraft color |
-| 2026-10-25 02:15:45 | [rsmix-route-pattern](https://crates.io/crates/rsmix-route-pattern) | 1.0.0 | 0 | URL pattern matching, ranking and href generation (port of remix route-pattern) |
-| 2026-10-25 02:17:25 | [ferrocad_stage](https://crates.io/crates/ferrocad_stage) | 0.1.3 | 0 | FerroCAD's modern declarative CAD presentation: stage items that compile straig… |
+| 2026-10-25 02:24:01 | [designcraft-geom](https://crates.io/crates/designcraft-geom) | 0.7.1 | 0 | DesignCraft geometry: anchor paths, shapes, units and measurements, hit testing |
+| 2026-10-25 02:25:38 | [rsmix-session](https://crates.io/crates/rsmix-session) | 1.0.0 | 0 | Sessions for rsmix: a Session with values and flash data, and cookie, memory an… |
+| 2026-10-25 02:26:51 | [connectivity-core](https://crates.io/crates/connectivity-core) | 0.1.0 | 0 | Multi-resolution landscape connectivity, PARC connectedness and BERI on in-memo… |
+| 2026-10-25 02:27:12 | [nd-async-rusqlite](https://crates.io/crates/nd-async-rusqlite) | 0.1.0 | 0 | Utilities for accessing an Sqlite database via rusqlite in an async runtime. |
+| 2026-10-25 02:28:53 | [imgres](https://crates.io/crates/imgres) | 0.1.0 | 0 | Uses WGPU to resize an image to the target resolution |
+| 2026-10-25 02:29:05 | [ferrocad_inventor_py](https://crates.io/crates/ferrocad_inventor_py) | 0.1.3 | 0 | The pivy-compatible `coin` facade over ferrocad_inventor (surfaced as `pivy.coi… |
+| 2026-10-25 02:32:07 | [cortexkit-usage-steps](https://crates.io/crates/cortexkit-usage-steps) | 0.1.0 | 0 | Wire contract, vectors and a last-row-wins helper for the CortexKit live usage… |
+| 2026-10-25 02:35:37 | [rsmix-fetch](https://crates.io/crates/rsmix-fetch) | 1.0.0 | 0 | The Fetch API for rsmix: Request, Response, streaming Body, FormData and AbortS… |
+| 2026-10-25 02:38:43 | [ferrocad_stage_py](https://crates.io/crates/ferrocad_stage_py) | 0.1.3 | 0 | The PyO3 surface of ferrocad_stage (surfaced as `ferrocad.stage`) |
+| 2026-10-25 02:40:57 | [flashraw-camera-db](https://crates.io/crates/flashraw-camera-db) | 0.1.0 | 0 | Camera database for FlashRaw: aliases, crops, black/white levels, CFA patterns… |
+| 2026-10-25 02:40:59 | [flashraw-core](https://crates.io/crates/flashraw-core) | 0.1.0 | 0 | Internal crate of FlashRaw: core types, bounds-safe readers, bit pumps and para… |
+| 2026-10-25 02:41:04 | [flashraw-codecs](https://crates.io/crates/flashraw-codecs) | 0.1.0 | 0 | Internal crate of FlashRaw: RAW compression codecs (lossless JPEG, packed bits,… |
+| 2026-10-25 02:41:09 | [flashraw-formats](https://crates.io/crates/flashraw-formats) | 0.1.0 | 0 | Internal crate of FlashRaw: RAW container parsers and per-vendor format decoder… |
+| 2026-10-25 02:41:12 | [flashraw-gpu](https://crates.io/crates/flashraw-gpu) | 0.1.0 | 0 | Optional wgpu/WebGPU compute backend for FlashRaw (Vulkan, Metal, DX12, WebGPU)… |
+| 2026-10-25 02:45:37 | [rsmix-ui](https://crates.io/crates/rsmix-ui) | 0.12.1 | 0 | Headless, accessible UI primitives and animation utilities for rsmix components… |
+| 2026-10-25 02:49:11 | [ferrocad_wgpu](https://crates.io/crates/ferrocad_wgpu) | 0.1.3 | 0 | FerroCAD's wgpu backend: hardware commands, WGSL pipelines, dynamic uniforms an… |
+| 2026-10-25 02:52:18 | [flashraw](https://crates.io/crates/flashraw) | 0.1.0 | 0 | Extremely fast, safe RAW image decoding: DNG, CR2, CR3, NEF, ARW, RAF, RW2, ORF… |
+| 2026-10-25 02:52:33 | [a4mp](https://crates.io/crates/a4mp) | 0.1.0 | 0 | Independently implemented adapters for model providers: one typed SDK plus opti… |
+| 2026-10-25 02:54:03 | [rpi-runtime](https://crates.io/crates/rpi-runtime) | 0.9.0 | 0 | Embeddable model catalog, credential resolution and provider execution bindings |
+| 2026-10-25 02:54:12 | [payroof](https://crates.io/crates/payroof) | 0.1.0 | 0 | Watch-only cryptocurrency payment references, scanning, and signed webhooks |
+| 2026-10-25 02:55:35 | [rsmix-data-schema](https://crates.io/crates/rsmix-data-schema) | 1.0.0 | 0 | Small, sync data validation for rsmix (Remix's data-schema): schemas, checks, c… |
+| 2026-10-25 02:55:49 | [yacomplex](https://crates.io/crates/yacomplex) | 0.1.0 | 0 | A complex number library with high-level modular structure. |
+| 2026-10-25 02:56:46 | [stortop](https://crates.io/crates/stortop) | 0.1.0 | 0 | Multi-tenant storefronts with exact cryptocurrency checkout and confirmed deliv… |
+| 2026-10-25 02:57:12 | [conpty-bin-vendored](https://crates.io/crates/conpty-bin-vendored) | 1.25.2609300030 | 0 | Microsoft's out-of-band ConPTY (conpty.dll and OpenConsole.exe) as embedded byt… |
+| 2026-10-25 02:57:59 | [corundum-framework-platform](https://crates.io/crates/corundum-framework-platform) | 0.1.0 | 0 | What sapphire and asteria apps ask of the OS, without egui: app directories (ph… |
+| 2026-10-25 02:59:21 | [corundum-framework-gui](https://crates.io/crates/corundum-framework-gui) | 0.1.0 | 0 | The look shared by sapphire and asteria apps: egui shell, system fonts, Lucide… |
+| 2026-10-25 02:59:24 | [corundum-framework](https://crates.io/crates/corundum-framework) | 0.1.0 | 0 | The application framework shared by sapphire and asteria apps - single-dependen… |
+| 2026-10-25 03:00:30 | [ferrocad_viewport](https://crates.io/crates/ferrocad_viewport) | 0.1.3 | 0 | FerroCAD's bite-gpui viewport: presents an Inventor scene (image path), the nav… |
+| 2026-10-25 03:03:09 | [payroof-wallet-core](https://crates.io/crates/payroof-wallet-core) | 0.1.0 | 0 | Local mnemonic vault, deterministic addresses, and cryptocurrency signing for P… |
+| 2026-10-25 03:03:27 | [flashraw-cli](https://crates.io/crates/flashraw-cli) | 0.1.0 | 0 | The flashraw command-line tool: inspect, decode, convert and benchmark camera R… |
+| 2026-10-25 03:05:34 | [rsmix-fetch-proxy](https://crates.io/crates/rsmix-fetch-proxy) | 1.0.1 | 0 | Forward requests to another server and rewrite the response for the client (por… |
+| 2026-10-25 03:07:21 | [roofer](https://crates.io/crates/roofer) | 0.1.0 | 0 | Command line for the Payroof workspace: run the local stack (Anvil, Payroof, St… |
+| 2026-10-25 03:08:04 | [nysiris-core](https://crates.io/crates/nysiris-core) | 0.1.2 | 0 | Shared primitives for Nysiris native clients: identity, message framing, crypto… |
+| 2026-10-25 03:08:38 | [nysiris-chat-history](https://crates.io/crates/nysiris-chat-history) | 0.1.2 | 0 | Encrypted append-only local chat history for Nysiris native clients. Flat files… |
+| 2026-10-25 03:09:10 | [nysiris-testkit](https://crates.io/crates/nysiris-testkit) | 0.1.2 | 0 | Test transport and fixtures for Nysiris native clients. |
+| 2026-10-25 03:09:43 | [nysiris-chat-core](https://crates.io/crates/nysiris-chat-core) | 0.1.2 | 0 | P2P chat engine for Nysiris native clients: sealed DMs, contacts, conversation… |
+| 2026-10-25 03:10:17 | [nysiris-transport-nym](https://crates.io/crates/nysiris-transport-nym) | 0.1.2 | 0 | Nym transport adapter for Nysiris native clients. The real nym-sdk adapter is b… |
+| 2026-10-25 03:15:36 | [rsmix-file-storage](https://crates.io/crates/rsmix-file-storage) | 1.0.0 | 0 | Key/value storage for files with memory and filesystem backends (Remix's file-s… |
+| 2026-10-25 03:15:51 | [core-console](https://crates.io/crates/core-console) | 0.1.0 | 0 | Automatic terminal and JSON diagnostics for tracing |
 
 ## Data source
 
