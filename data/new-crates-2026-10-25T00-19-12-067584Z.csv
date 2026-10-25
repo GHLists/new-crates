@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-24T23:24:15.610809Z,filmcraft-opus,0.7.2,0,0,,"Clean-room pure-Rust Opus decoder (RFC 6716 / RFC 8251; OpusHead, multistream surround)"
+2026-10-24T23:25:27.394581Z,flight-render-wgpu,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"WebGPU render backend over host-supplied native wgpu devices: device tiers, frames, passes, targets, texture realization and capture"
+2026-10-24T23:29:04.992508Z,rstory,0.1.0,0,0,https://github.com/lucasvmigotto/rstory,"A small, private clipboard history for Linux (Wayland and X11)"
+2026-10-24T23:31:38.061363Z,graphrecords-pyo3,0.8.0,0,0,https://github.com/medmodels/graphrecords,High-performance graph-based data records
+2026-10-24T23:34:27.885267Z,ezel-rkyv_dyn_derive08,0.8.18,0,0,https://github.com/rkyv/rkyv,Macros for rkyv_dyn
+2026-10-24T23:34:39.414414Z,ezel-rkyv_dyn08,0.8.18,0,0,https://github.com/rkyv/rkyv,Trait object support for rkyv
+2026-10-24T23:35:01.482597Z,deckcraft-text,0.6.1,0,0,,"DeckCraft text layout: runs to shaped glyph lines with bullets, indents, spacing, alignment, anchoring, autofit and caret hit testing"
+2026-10-24T23:35:27.246383Z,flight-effects-gl,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Native glow-backed GL shader recipes for render effects and the MSAA-aware post-process pipeline
+2026-10-24T23:45:27.230797Z,flight-scene2d-gl,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Native glow-backed WebGL2-shaped display-object renderers (bitmap, shape, sprite, text, tilemap, particles)"
+2026-10-24T23:51:19.452028Z,ruvane,0.1.0-alpha.1,0,0,https://github.com/ruvane-rs/Ruvane,Dependency-free HTML rendering primitives for the Ruvane web framework.
+2026-10-24T23:55:26.670654Z,flight-interaction,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Hit testing, pointer/keyboard dispatch, focus management, and interactive state binding"
+2026-10-24T23:59:47.496499Z,raterm,0.0.1,0,0,https://github.com/tforgione/raterm,"A terminal emulator for Linux that shows Markdown, HTML, SVG, images, videos and audio inline, as rich blocks"
+2026-10-24T23:59:50.477793Z,raterm-rat,0.0.1,0,0,https://github.com/tforgione/raterm,"Shows a file as a rich block in the raterm terminal: rendered Markdown, HTML, SVG, images, videos and audio"
+2026-10-25T00:02:47.53226Z,deadlock-api,0.1.0,0,0,https://github.com/cynkhme/deadlock-api,Unofficial client for the deadlock-api.com Deadlock match data API
+2026-10-25T00:05:27.376575Z,flight-tokens,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Explicit mode resolution and substitution for flight document scene tokens
+2026-10-25T00:07:43.059636Z,zgx,0.0.1,0,0,https://github.com/zeronsh/zgx,"Part of zgx, a retained, GPU-rendered desktop GUI framework for Rust and Luau. Placeholder release; the first real release is coming. See the repository."
+2026-10-25T00:07:53.025316Z,zgx-desktop,0.0.1,0,0,https://github.com/zeronsh/zgx,"Part of zgx, a retained, GPU-rendered desktop GUI framework for Rust and Luau. Placeholder release; the first real release is coming. See the repository."
+2026-10-25T00:08:02.894362Z,zgx-gpu,0.0.1,0,0,https://github.com/zeronsh/zgx,"Part of zgx, a retained, GPU-rendered desktop GUI framework for Rust and Luau. Placeholder release; the first real release is coming. See the repository."
+2026-10-25T00:08:12.839506Z,zgx-script,0.0.1,0,0,https://github.com/zeronsh/zgx,"Part of zgx, a retained, GPU-rendered desktop GUI framework for Rust and Luau. Placeholder release; the first real release is coming. See the repository."
+2026-10-25T00:08:22.54791Z,zgx-components,0.0.1,0,0,https://github.com/zeronsh/zgx,"Part of zgx, a retained, GPU-rendered desktop GUI framework for Rust and Luau. Placeholder release; the first real release is coming. See the repository."
+2026-10-25T00:11:19.337411Z,teamy-tracing,0.1.0,0,0,https://github.com/TeamDman/teamy-tracing,Facet JSON formatting for upstream tracing-subscriber
+2026-10-25T00:15:27.302985Z,flight-swf,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Backend-neutral SWF parsing and Scene2D document import
+2026-10-25T00:16:20.686179Z,sillyecs-build,0.0.7,0,0,https://github.com/sunsided/sillyecs.git,A silly little compile-time generated archetype ECS in Rust
