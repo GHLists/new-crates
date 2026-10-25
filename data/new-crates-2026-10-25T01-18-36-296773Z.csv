@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T00:19:19.309243Z,zgx-run,0.0.1,0,0,https://github.com/zeronsh/zgx,"Part of zgx, a retained, GPU-rendered desktop GUI framework for Rust and Luau. Placeholder release; the first real release is coming. See the repository."
+2026-10-25T00:25:27.430247Z,flight-effects-wgpu,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,WebGPU shader recipes for render effects over native wgpu (substrate-agnostic post-process pipeline)
+2026-10-25T00:29:00.942609Z,zgx-ghostty-sys,0.0.1,0,0,https://github.com/zeronsh/zgx,"Part of zgx, a retained, GPU-rendered desktop GUI framework for Rust and Luau. Placeholder release; the first real release is coming. See the repository."
+2026-10-25T00:31:19.927306Z,hatchery-gitkeys,0.2.98,0,0,https://github.com/HATCHERY-lab/hatchery,"Hatchery git keys: per-nick Forgejo users and tokens held in RAM by a key agent, role-based repo and branch access reconciled into Forgejo, git credential helper that never takes a nick from the call…"
+2026-10-25T00:31:23.262166Z,hatchery-fed,0.2.98,0,0,https://github.com/HATCHERY-lab/hatchery,"Hatchery federation phase 1: signed event logs encrypted to per-stream group keys, a blind core blob queue (plaintext metadata, opaque content, catch-up since seq N, acks, TTL GC), one access policy,…"
+2026-10-25T00:35:27.543808Z,flight-scene2d-wgpu,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Native wgpu-backed WebGPU display-object renderers (bitmap, shape, sprite, text, tilemap, particles)"
+2026-10-25T00:36:21.446033Z,taba,0.0.0,0,0,https://github.com/chippers/taba,"Runtime for Taba, a Rolldown-based TypeScript bundler for Rust"
+2026-10-25T00:36:22.070946Z,taba-rolldown,0.0.0,0,0,https://github.com/chippers/taba,Pinned version of Rolldown for Taba
+2026-10-25T00:36:22.675471Z,taba-build,0.0.0,0,0,https://github.com/chippers/taba,"Build-time bundling for Taba, a Rolldown-based TypeScript bundler for Rust"
+2026-10-25T00:39:56.53442Z,bevy_orca,0.2.0,0,0,https://github.com/Ladvien/bevy_orca,"Reciprocal Velocity Obstacles (ORCA) local collision avoidance on bevy_math's Vec2 — the 2-D linear program, no ECS."
+2026-10-25T00:41:10.701864Z,bevy_stigmergy,0.2.0,0,0,https://github.com/Ladvien/bevy_stigmergy,"Stigmergic influence fields over a fixed cell grid: decaying scalar channels plus a vectorial rally pheromone, on bevy_math."
+2026-10-25T00:42:26.991661Z,bevy_speech_bubbles,0.2.1,0,0,https://github.com/Ladvien/bevy_speech_bubbles,"Dialog kit for Bevy: world-space speech and thought balloons (CPU ab_glyph raster on a billboarded quad), a conversation graph and runtime, barks, and a skinnable screen dialog box."
+2026-10-25T00:45:27.646845Z,flight-scene3d-gl,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"GL 3D scene rendering: material renderers, shader programs, environment maps, shadow maps, and particle emitters for the glow backend"
+2026-10-25T00:46:46.021793Z,bevy_emerge_rng,0.1.0,0,0,https://github.com/Ladvien/bevy_emerge,"One deterministic RNG for a whole simulation: a seeded ChaCha8 stream plus the unbiased integer and float draws generators actually need, reproducible from a single u64 across platforms and thread co…"
+2026-10-25T00:47:02.619485Z,glumy,1.0.0,0,0,https://github.com/PsychoRosse/glumy,A lightweight graphics abstraction layer built on wgpu and winit.
+2026-10-25T00:49:46.260725Z,catfive,0.1.0,0,0,https://github.com/kreivetech/catfive,"Category-5 fluent, zero-dependency schema and form validation for Rust."
+2026-10-25T00:55:00.029868Z,rsmix-crypto,1.0.0,0,0,https://github.com/todd-skelton/rsmix,"SHA-256, HMAC, PBKDF2, base64 and OS randomness for rsmix, with no dependencies (what Remix gets from Web Crypto)"
+2026-10-25T00:55:06.911075Z,rsmix-headers,1.0.1,0,0,https://github.com/todd-skelton/rsmix,"Typed HTTP header values for rsmix (Remix's headers package): Accept*, Cache-Control, Content-*, Cookie, Set-Cookie, conditional and range headers, Vary"
+2026-10-25T00:55:15.884855Z,rsmix-macros,1.1.0,0,0,https://github.com/todd-skelton/rsmix,rsx! macro for rsmix
+2026-10-25T00:55:20.36313Z,rsmix-mime,1.0.0,0,0,https://github.com/todd-skelton/rsmix,"MIME types by file extension for rsmix (Remix's mime package): the mime-db table, charset and compressibility rules, custom types"
+2026-10-25T00:55:25.919308Z,rsmix-tar-parser,1.0.1,0,0,https://github.com/todd-skelton/rsmix,"A streaming tar parser (remix/tar-parser): ustar, GNU and PAX headers, with size limits and path checks"
+2026-10-25T00:55:27.615844Z,flight-gizmo,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"Screen-space 2D transform gizmos, alignment helpers, and Node2D feature adapters"
+2026-10-25T01:05:27.392122Z,flight-gui,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,Portable controllers over caller-owned scene visuals and canonical interaction signals
+2026-10-25T01:05:33.664799Z,rsmix-terminal,1.0.0,0,0,https://github.com/todd-skelton/rsmix,"ANSI styles, color detection and terminal output for rsmix (Remix's remix/terminal)"
+2026-10-25T01:08:29.166306Z,nextcloud-theming,0.1.2,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,"Nextcloud theming, custom branding metadata, and server status client"
+2026-10-25T01:08:35.434071Z,nextcloud-sync,0.1.2,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,"Bidirectional synchronization engine, reconciliation logic, and sync journal for Nextcloud"
+2026-10-25T01:15:27.454259Z,flight-scene3d-wgpu,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,"WebGPU 3D scene rendering: material renderers, shader pipelines, environment maps, shadow maps, and particle emitters for the wgpu backend"
+2026-10-25T01:15:36.890153Z,rsmix-url,1.0.0,0,0,https://github.com/todd-skelton/rsmix,"Minimal URL, percent-encoding and URLSearchParams utilities for rsmix (no dependencies)"

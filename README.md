@@ -8,37 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 00:19 UTC
+## Latest list — 2026-10-25 01:18 UTC
 
-New crates published between 2026-10-24 23:19 UTC and 2026-10-25 00:19 UTC.
+New crates published between 2026-10-25 00:19 UTC and 2026-10-25 01:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-25T00-19-12-067584Z.csv)
+[Full CSV](data/new-crates-2026-10-25T01-18-36-296773Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-24 23:24:15 | [filmcraft-opus](https://crates.io/crates/filmcraft-opus) | 0.7.2 | 0 | Clean-room pure-Rust Opus decoder (RFC 6716 / RFC 8251; OpusHead, multistream s… |
-| 2026-10-24 23:25:27 | [flight-render-wgpu](https://crates.io/crates/flight-render-wgpu) | 0.5.1-next.3241.169… | 0 | WebGPU render backend over host-supplied native wgpu devices: device tiers, fra… |
-| 2026-10-24 23:29:04 | [rstory](https://crates.io/crates/rstory) | 0.1.0 | 0 | A small, private clipboard history for Linux (Wayland and X11) |
-| 2026-10-24 23:31:38 | [graphrecords-pyo3](https://crates.io/crates/graphrecords-pyo3) | 0.8.0 | 0 | High-performance graph-based data records |
-| 2026-10-24 23:34:27 | [ezel-rkyv_dyn_derive08](https://crates.io/crates/ezel-rkyv_dyn_derive08) | 0.8.18 | 0 | Macros for rkyv_dyn |
-| 2026-10-24 23:34:39 | [ezel-rkyv_dyn08](https://crates.io/crates/ezel-rkyv_dyn08) | 0.8.18 | 0 | Trait object support for rkyv |
-| 2026-10-24 23:35:01 | [deckcraft-text](https://crates.io/crates/deckcraft-text) | 0.6.1 | 0 | DeckCraft text layout: runs to shaped glyph lines with bullets, indents, spacin… |
-| 2026-10-24 23:35:27 | [flight-effects-gl](https://crates.io/crates/flight-effects-gl) | 0.5.1-next.3241.169… | 0 | Native glow-backed GL shader recipes for render effects and the MSAA-aware post… |
-| 2026-10-24 23:45:27 | [flight-scene2d-gl](https://crates.io/crates/flight-scene2d-gl) | 0.5.1-next.3241.169… | 0 | Native glow-backed WebGL2-shaped display-object renderers (bitmap, shape, sprit… |
-| 2026-10-24 23:51:19 | [ruvane](https://crates.io/crates/ruvane) | 0.1.0-alpha.1 | 0 | Dependency-free HTML rendering primitives for the Ruvane web framework. |
-| 2026-10-24 23:55:26 | [flight-interaction](https://crates.io/crates/flight-interaction) | 0.5.1-next.3241.169… | 0 | Hit testing, pointer/keyboard dispatch, focus management, and interactive state… |
-| 2026-10-24 23:59:47 | [raterm](https://crates.io/crates/raterm) | 0.0.1 | 0 | A terminal emulator for Linux that shows Markdown, HTML, SVG, images, videos an… |
-| 2026-10-24 23:59:50 | [raterm-rat](https://crates.io/crates/raterm-rat) | 0.0.1 | 0 | Shows a file as a rich block in the raterm terminal: rendered Markdown, HTML, S… |
-| 2026-10-25 00:02:47 | [deadlock-api](https://crates.io/crates/deadlock-api) | 0.1.0 | 0 | Unofficial client for the deadlock-api.com Deadlock match data API |
-| 2026-10-25 00:05:27 | [flight-tokens](https://crates.io/crates/flight-tokens) | 0.5.1-next.3241.169… | 0 | Explicit mode resolution and substitution for flight document scene tokens |
-| 2026-10-25 00:07:43 | [zgx](https://crates.io/crates/zgx) | 0.0.1 | 0 | Part of zgx, a retained, GPU-rendered desktop GUI framework for Rust and Luau.… |
-| 2026-10-25 00:07:53 | [zgx-desktop](https://crates.io/crates/zgx-desktop) | 0.0.1 | 0 | Part of zgx, a retained, GPU-rendered desktop GUI framework for Rust and Luau.… |
-| 2026-10-25 00:08:02 | [zgx-gpu](https://crates.io/crates/zgx-gpu) | 0.0.1 | 0 | Part of zgx, a retained, GPU-rendered desktop GUI framework for Rust and Luau.… |
-| 2026-10-25 00:08:12 | [zgx-script](https://crates.io/crates/zgx-script) | 0.0.1 | 0 | Part of zgx, a retained, GPU-rendered desktop GUI framework for Rust and Luau.… |
-| 2026-10-25 00:08:22 | [zgx-components](https://crates.io/crates/zgx-components) | 0.0.1 | 0 | Part of zgx, a retained, GPU-rendered desktop GUI framework for Rust and Luau.… |
-| 2026-10-25 00:11:19 | [teamy-tracing](https://crates.io/crates/teamy-tracing) | 0.1.0 | 0 | Facet JSON formatting for upstream tracing-subscriber |
-| 2026-10-25 00:15:27 | [flight-swf](https://crates.io/crates/flight-swf) | 0.5.1-next.3241.169… | 0 | Backend-neutral SWF parsing and Scene2D document import |
-| 2026-10-25 00:16:20 | [sillyecs-build](https://crates.io/crates/sillyecs-build) | 0.0.7 | 0 | A silly little compile-time generated archetype ECS in Rust |
+| 2026-10-25 00:19:19 | [zgx-run](https://crates.io/crates/zgx-run) | 0.0.1 | 0 | Part of zgx, a retained, GPU-rendered desktop GUI framework for Rust and Luau.… |
+| 2026-10-25 00:25:27 | [flight-effects-wgpu](https://crates.io/crates/flight-effects-wgpu) | 0.5.1-next.3241.169… | 0 | WebGPU shader recipes for render effects over native wgpu (substrate-agnostic p… |
+| 2026-10-25 00:29:00 | [zgx-ghostty-sys](https://crates.io/crates/zgx-ghostty-sys) | 0.0.1 | 0 | Part of zgx, a retained, GPU-rendered desktop GUI framework for Rust and Luau.… |
+| 2026-10-25 00:31:19 | [hatchery-gitkeys](https://crates.io/crates/hatchery-gitkeys) | 0.2.98 | 0 | Hatchery git keys: per-nick Forgejo users and tokens held in RAM by a key agent… |
+| 2026-10-25 00:31:23 | [hatchery-fed](https://crates.io/crates/hatchery-fed) | 0.2.98 | 0 | Hatchery federation phase 1: signed event logs encrypted to per-stream group ke… |
+| 2026-10-25 00:35:27 | [flight-scene2d-wgpu](https://crates.io/crates/flight-scene2d-wgpu) | 0.5.1-next.3241.169… | 0 | Native wgpu-backed WebGPU display-object renderers (bitmap, shape, sprite, text… |
+| 2026-10-25 00:36:21 | [taba](https://crates.io/crates/taba) | 0.0.0 | 0 | Runtime for Taba, a Rolldown-based TypeScript bundler for Rust |
+| 2026-10-25 00:36:22 | [taba-rolldown](https://crates.io/crates/taba-rolldown) | 0.0.0 | 0 | Pinned version of Rolldown for Taba |
+| 2026-10-25 00:36:22 | [taba-build](https://crates.io/crates/taba-build) | 0.0.0 | 0 | Build-time bundling for Taba, a Rolldown-based TypeScript bundler for Rust |
+| 2026-10-25 00:39:56 | [bevy_orca](https://crates.io/crates/bevy_orca) | 0.2.0 | 0 | Reciprocal Velocity Obstacles (ORCA) local collision avoidance on bevy_math's V… |
+| 2026-10-25 00:41:10 | [bevy_stigmergy](https://crates.io/crates/bevy_stigmergy) | 0.2.0 | 0 | Stigmergic influence fields over a fixed cell grid: decaying scalar channels pl… |
+| 2026-10-25 00:42:26 | [bevy_speech_bubbles](https://crates.io/crates/bevy_speech_bubbles) | 0.2.1 | 0 | Dialog kit for Bevy: world-space speech and thought balloons (CPU ab_glyph rast… |
+| 2026-10-25 00:45:27 | [flight-scene3d-gl](https://crates.io/crates/flight-scene3d-gl) | 0.5.1-next.3241.169… | 0 | GL 3D scene rendering: material renderers, shader programs, environment maps, s… |
+| 2026-10-25 00:46:46 | [bevy_emerge_rng](https://crates.io/crates/bevy_emerge_rng) | 0.1.0 | 0 | One deterministic RNG for a whole simulation: a seeded ChaCha8 stream plus the… |
+| 2026-10-25 00:47:02 | [glumy](https://crates.io/crates/glumy) | 1.0.0 | 0 | A lightweight graphics abstraction layer built on wgpu and winit. |
+| 2026-10-25 00:49:46 | [catfive](https://crates.io/crates/catfive) | 0.1.0 | 0 | Category-5 fluent, zero-dependency schema and form validation for Rust. |
+| 2026-10-25 00:55:00 | [rsmix-crypto](https://crates.io/crates/rsmix-crypto) | 1.0.0 | 0 | SHA-256, HMAC, PBKDF2, base64 and OS randomness for rsmix, with no dependencies… |
+| 2026-10-25 00:55:06 | [rsmix-headers](https://crates.io/crates/rsmix-headers) | 1.0.1 | 0 | Typed HTTP header values for rsmix (Remix's headers package): Accept*, Cache-Co… |
+| 2026-10-25 00:55:15 | [rsmix-macros](https://crates.io/crates/rsmix-macros) | 1.1.0 | 0 | rsx! macro for rsmix |
+| 2026-10-25 00:55:20 | [rsmix-mime](https://crates.io/crates/rsmix-mime) | 1.0.0 | 0 | MIME types by file extension for rsmix (Remix's mime package): the mime-db tabl… |
+| 2026-10-25 00:55:25 | [rsmix-tar-parser](https://crates.io/crates/rsmix-tar-parser) | 1.0.1 | 0 | A streaming tar parser (remix/tar-parser): ustar, GNU and PAX headers, with siz… |
+| 2026-10-25 00:55:27 | [flight-gizmo](https://crates.io/crates/flight-gizmo) | 0.5.1-next.3241.169… | 0 | Screen-space 2D transform gizmos, alignment helpers, and Node2D feature adapters |
+| 2026-10-25 01:05:27 | [flight-gui](https://crates.io/crates/flight-gui) | 0.5.1-next.3241.169… | 0 | Portable controllers over caller-owned scene visuals and canonical interaction… |
+| 2026-10-25 01:05:33 | [rsmix-terminal](https://crates.io/crates/rsmix-terminal) | 1.0.0 | 0 | ANSI styles, color detection and terminal output for rsmix (Remix's remix/termi… |
+| 2026-10-25 01:08:29 | [nextcloud-theming](https://crates.io/crates/nextcloud-theming) | 0.1.2 | 0 | Nextcloud theming, custom branding metadata, and server status client |
+| 2026-10-25 01:08:35 | [nextcloud-sync](https://crates.io/crates/nextcloud-sync) | 0.1.2 | 0 | Bidirectional synchronization engine, reconciliation logic, and sync journal fo… |
+| 2026-10-25 01:15:27 | [flight-scene3d-wgpu](https://crates.io/crates/flight-scene3d-wgpu) | 0.5.1-next.3241.169… | 0 | WebGPU 3D scene rendering: material renderers, shader pipelines, environment ma… |
+| 2026-10-25 01:15:36 | [rsmix-url](https://crates.io/crates/rsmix-url) | 1.0.0 | 0 | Minimal URL, percent-encoding and URLSearchParams utilities for rsmix (no depen… |
 
 ## Data source
 
