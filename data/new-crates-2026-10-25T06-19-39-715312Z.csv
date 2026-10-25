@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T05:20:33.561717Z,kumizo,0.11.0,0,0,https://github.com/noobmaisfier/kumizo,Command-line control tool (kumizo) for the Kumizo shell
+2026-10-25T05:21:16.849145Z,kumizo-aurora,0.11.0,0,0,https://github.com/noobmaisfier/kumizo,"Aurora shell: floating bar, control center, launcher, tasks, power, notifs, toasts, OSD, pomodoro"
+2026-10-25T05:21:44.07802Z,podtrack,0.2.1,0,0,https://github.com/atareao/podtrack,"Tracker de la parrilla y del ciclo de vida de los episodios de un podcast: parrilla, material de guion y clasificacion de etapas del SRT."
+2026-10-25T05:25:37.428808Z,rsmix-logger-middleware,1.0.0,0,0,https://github.com/todd-skelton/rsmix,Middleware for logging HTTP requests and responses (remix logger-middleware)
+2026-10-25T05:25:55.647279Z,karen-ai,0.1.0,0,0,https://github.com/hypn0tick/Karen-AI,"Karen-AI — Fast, policy-driven guardrails engine for AI coding runtimes"
+2026-10-25T05:26:40.698975Z,konomanoasa-tree-sitter-zsh,0.2.0,0,0,https://github.com/konomanoasa/tree-sitter-zsh,Tree-sitter grammar for Zsh.
+2026-10-25T05:26:42.667033Z,day-spec,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T05:30:46.943459Z,tokenspeed-wire,0.1.0,0,0,https://github.com/lightseekorg/tokenspeed,TokenSpeed engine IPC schema and msgpack codec
+2026-10-25T05:30:49.539387Z,tokenspeed-collective,0.1.0,0,0,https://github.com/lightseekorg/tokenspeed,"CPU collectives among the ranks of a TokenSpeed engine, over a TCP mesh"
+2026-10-25T05:30:52.230502Z,tokenspeed-mooncake,0.1.0,0,0,https://github.com/lightseekorg/tokenspeed,"The Mooncake transfer engine and store client through tokenspeed-mooncake's C entry points, loaded at run time"
+2026-10-25T05:30:54.762745Z,tokenspeed-grammar,0.1.0,0,0,https://github.com/lightseekorg/tokenspeed,Constrained decoding for the TokenSpeed control plane: xgrammar's C++ core behind a cxx facade
+2026-10-25T05:30:57.60077Z,tokenspeed-scheduler,0.1.0,0,0,https://github.com/lightseekorg/tokenspeed,"The TokenSpeed C++ scheduler, embedded with its Python module"
+2026-10-25T05:31:27.105987Z,cargo-blaze,0.0.1,0,0,https://github.com/indexable-inc/ra-jit,"blaze: blazingly fast incremental Rust builds, tests and hot reload (the ra-jit daemon, renaming to blaze)"
+2026-10-25T05:35:28.217083Z,vix-input,1.8.0,0,0,https://github.com/vixide/vix,"Backend-neutral keyboard and mouse input types for Vix (key codes, modifiers, key and mouse events), mirroring crossterm's shapes, with an optional lossless conversion from crossterm."
+2026-10-25T05:35:42.020433Z,rsmix-node-fetch-server,1.0.0,0,0,https://github.com/todd-skelton/rsmix,Serve an rsmix Router over HTTP/1 and HTTP/2 with hyper and tokio
+2026-10-25T05:36:42.511473Z,day-toolkit-xaml-sys,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T05:36:59.484281Z,ryl-yaml-parser,0.1.0,0,0,https://github.com/owenlamont/ryl,"The YAML parser behind ryl: events with spans, comments and style, in pure Rust"
+2026-10-25T05:40:51.268648Z,tokenspeed-client,0.1.0,0,0,https://github.com/lightseekorg/tokenspeed,Frontend client for TokenSpeed engines over the msgpack ZMQ wire
+2026-10-25T05:41:19.041922Z,wl-cast,0.2.1,0,0,https://github.com/samjoshuadud/wl-cast,"Screen capture, encoding and input for Wayland compositors"
+2026-10-25T05:45:40.578538Z,rsmix-render-middleware,1.0.1,0,0,https://github.com/todd-skelton/rsmix,Server rendering for rsmix-fetch-router handlers: ctx.render(node) with streamed <Frame> resolution
+2026-10-25T05:46:42.430601Z,day-bridge,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T05:47:23.640207Z,llamm,0.1.0,0,0,https://github.com/HellButcher/llamm.git,Lamma.cpp Model Monitor - A terminal application for monitoring which models are loaded in llama.cpp and to load/unload them
+2026-10-25T05:50:58.122565Z,tokenspeed-metrics,0.1.0,0,0,https://github.com/lightseekorg/tokenspeed,"TokenSpeed's engine metrics: the metric definitions, Prometheus multiprocess export and the plugin relay feed"
+2026-10-25T05:51:04.628949Z,rust-cp,0.1.3-alpha.1,0,0,https://github.com/rust-cp/rcp,"A data mover with minimal dependencies: copy, verify, resume, sync and scan across local paths, NFS, S3, SMB, SFTP, WebDAV, HDFS, OCI registries and tar."
+2026-10-25T05:55:38.868352Z,rsmix-session-middleware,1.0.1,0,0,https://github.com/todd-skelton/rsmix,Middleware for managing sessions with cookie-based storage (remix session-middleware)
+2026-10-25T05:55:42.65183Z,parkett,0.1.0,0,0,https://github.com/excelano/parkett,View Apache Parquet files
+2026-10-25T05:56:42.527538Z,day-core,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T06:01:05.470099Z,tokenspeed-l3,0.1.0,0,0,https://github.com/lightseekorg/tokenspeed,"The L3 storage tier's Host-only executor: bounded I/O queues, worker threads and the store backends"
+2026-10-25T06:03:34.48279Z,wsq-codec,0.1.1,0,0,https://github.com/ybdn/wsq-codec,Decoder and encoder for WSQ (Wavelet Scalar Quantization) fingerprint images
+2026-10-25T06:04:02.105392Z,ttyl,0.1.0,0,0,https://github.com/younes-io/ttyl,A terminal client for the dev-null.sh social network
+2026-10-25T06:05:34.421722Z,rsmix-spa,1.0.1,0,0,https://github.com/todd-skelton/rsmix,Run an rsmix-fetch-router in the browser: client-only apps with the server's Request/Response contract (port of remix/spa)
+2026-10-25T06:06:07.892528Z,pomdp,0.1.1,0,0,,"A Rust port of Julia's POMDPs.jl: an interface and toolkit for defining and solving Markov decision processes (MDPs) and partially observable MDPs (POMDPs), with Python bindings."
+2026-10-25T06:06:42.696297Z,day-mock,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T06:11:12.794366Z,tokenspeed-pd,0.1.0,0,0,https://github.com/lightseekorg/tokenspeed,"TokenSpeed's PD transfer peer: the P/D handshake, room states and KV transfers over the Mooncake transfer engine"
+2026-10-25T06:15:40.184263Z,rsmix-csrf-middleware,1.0.0,0,0,https://github.com/todd-skelton/rsmix,Session-backed CSRF protection middleware (remix csrf-middleware)
+2026-10-25T06:16:42.553185Z,day-part-sensors,0.0.1,0,0,https://github.com/daybrite/day,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the 0.7.0 release."
+2026-10-25T06:17:09.651515Z,rustploy-update-core,0.1.0,0,0,https://github.com/antoniofernandodj/rustploy-shared,Shared update logic for the Rustploy daemon and desktop app: release version comparison
+2026-10-25T06:18:10.043658Z,luciola-ip,0.3.0,0,0,https://github.com/luciola-p2p/luciola,"Pure algorithms for RFC IPv6 scoping, domestic broadband GUA LAN detection, and proxy TUN IP filtering"
+2026-10-25T06:18:43.436881Z,luciola-proto,0.3.0,0,0,https://github.com/luciola-p2p/luciola,"Zero-IO protocol state machine for Luciola P2P discovery: frames, jitter scheduling, and revision sync"
+2026-10-25T06:19:00.170178Z,cube,0.1.0,0,0,https://github.com/darcyliu/cube,Lightweight macOS ARM64 Hypervisor.framework Virtual Machine Monitor and CLI manager
