@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T17:21:56.091191Z,rupg-ext,0.1.84,0,0,https://github.com/tamnd/rupg,"The extension API, CREATE EXTENSION for built-in extensions."
+2026-10-25T17:26:11.181008Z,miniwasm_traits,0.2.0,0,0,https://codeberg.org/prochazkaml/miniwasm,"Supplemental crate for miniwasm, a minimal WASM v1 runtime with a simple API for core-only environments."
+2026-10-25T17:29:16.903728Z,json-schema-profiler,0.0.1,0,0,https://github.com/terjekv/json-schema-profiler,"Profile JSON corpora, infer JSON Schemas with explicit policies, and validate replayed records."
+2026-10-25T17:30:22.157177Z,hepfig,0.1.0,0,0,https://gitlab.cern.ch/dgrove/hepfig,"Publication figures for HEP fits without ROOT: CascadesCombine-style stack, significance, 2D yield, impacts, limit and z-score figures, from CascadesCombine runs, Combine files, cardfit or cascades_y…"
+2026-10-25T17:32:11.217183Z,rupg-graph,0.1.84,0,0,https://github.com/tamnd/rupg,"The link index and the CSR adjacency of document 13, lifted from rudb."
+2026-10-25T17:38:05.817766Z,celebrity-nn,0.1.0,0,0,https://github.com/maslenn1koff/celebrity-nn,Machine Learning core
+2026-10-25T17:38:12.029756Z,sjon-host,1.5.0,0,0,https://github.com/HugoDaniel/SJON,"Rust host wrapping sjon.wasm — validate_document(source, options) for SJON multi-plugin documents"
+2026-10-25T17:38:17.142724Z,rust-analyzer-mcp-server,0.0.0,0,0,https://github.com/ciresnave/rust-analyzer-mcp-server,"Name reserved for rust-analyzer-mcp-server, an MCP server exposing rust-analyzer to AI agents; first real release is coming."
+2026-10-25T17:39:13.646749Z,kpea-cli,0.4.2,0,0,https://github.com/igankevich/kpea,CPIO archive reader/writer tool. Supports New ASCII and Old character formats. Fuzz-tested against GNU cpio.
+2026-10-25T17:42:27.521489Z,rupg-import,0.1.84,0,0,https://github.com/tamnd/rupg,The reader of PostgreSQL data directories and pg_dump archives.
+2026-10-25T17:45:32.082947Z,miniwasm_structures_macros,0.2.0,0,0,https://codeberg.org/prochazkaml/miniwasm,"Supplemental crate for miniwasm, a minimal WASM v1 runtime with a simple API for core-only environments."
+2026-10-25T17:45:48.258334Z,miniwasm_structures,0.2.0,0,0,https://codeberg.org/prochazkaml/miniwasm,"Supplemental crate for miniwasm, a minimal WASM v1 runtime with a simple API for core-only environments."
+2026-10-25T17:52:43.730126Z,rupg-index,0.1.84,0,0,https://github.com/tamnd/rupg,"The B-tree, hash, GIN, GiST, SP-GiST and BRIN access methods and their operator class interface."
+2026-10-25T17:53:26.637058Z,gpui-specular,0.1.0,0,0,https://github.com/emmanuel-defreitas/specular,Subtle inset lighting and pointer-following bezels for GPUI
+2026-10-25T18:00:12.214394Z,variable_size_enum_macro,0.1.0,0,0,https://github.com/tim-tim707/variable_size_enum,Compact representations for Rust enums macro crate
+2026-10-25T18:00:27.495319Z,noctiluca,0.0.1,0,0,https://github.com/buchochelliq-labs/rs-rich-cli,"A terminal web browser: page text as terminal text, media as media"
+2026-10-25T18:00:28.087409Z,rs-rich-marketplace,0.0.1,0,0,https://github.com/buchochelliq-labs/rs-rich-cli,"The rs-rich plugin marketplace client: a minisign-signed index, its key chain, listings, version resolution, verified downloads and the lockfile"
+2026-10-25T18:00:30.060881Z,variable_size_enum,0.1.0,0,0,https://github.com/tim-tim707/variable_size_enum,Compact representations for Rust enums
+2026-10-25T18:02:59.423689Z,rupg-jit,0.1.84,0,0,https://github.com/tamnd/rupg,"The compile tiers of document 14, lifted from rudb's query compiler."
+2026-10-25T18:05:10.586639Z,m17n-im,0.1.0,0,0,https://github.com/RagibHasin/m17n-im,"A generalized parser, interpreter engine, and Rust code generator for the m17n input method (.mim) database format"
+2026-10-25T18:12:30.064432Z,alloy-lbfgsb,0.1.0,0,0,https://github.com/adam-t-burke/alloy-lbfgsb,Standalone callback-first L-BFGS-B solver
+2026-10-25T18:13:15.043901Z,rupg-raft,0.1.84,0,0,https://github.com/tamnd/rupg,"One Raft group per shard: the election, the log, snapshots, membership changes."
+2026-10-25T18:19:15.670604Z,wi-mesh-login,0.3.4,0,0,https://github.com/ak4duy/wi-mesh-login,A quick CLI for logging into Wi-MESH (VN) and claim rewards
