@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T01:25:27.138028Z,flight-sdk,0.5.1-next.3241.1691faa,0,0,https://github.com/flighthq/flight,The Flight SDK: every SDK crate's public lane in one dependency (TS @flighthq/sdk)
+2026-10-25T01:25:38.130014Z,rsmix-cli,1.0.1,0,0,https://github.com/todd-skelton/rsmix,"The rsmix command (remix cli): new, dev, build, doctor, completion, routes, assets, test"
+2026-10-25T01:34:53.362456Z,idlepack,0.2.0,0,0,https://github.com/JackRozells/RIC-RustIdleCompacting,Idle compaction for the Claude and Codex desktop apps: compacts a big idle session while its prompt cache is still warm.
+2026-10-25T01:35:44.764521Z,rsmix-component,1.1.0,0,0,https://github.com/todd-skelton/rsmix,"A Remix 3 style component model for Rust: setup once, render on update(), server HTML, client entries"
+2026-10-25T01:38:09.764889Z,nextcloud-sdk-orchestrator,0.1.3,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,"High-level background orchestrator, actor runtime, and multi-mount synchronization engine for Nextcloud"
+2026-10-25T01:39:39.968636Z,deckcraft-render,0.6.1,0,0,,"DeckCraft renderer: slides, layouts and masters to pixels (vello_cpu): fills, outlines, effects, pictures, text, tables, charts"
+2026-10-25T01:42:19.651045Z,strided-exec,0.7.0,0,0,https://github.com/tensor4all/strided-rs,"Splittable CPU placement token (Pool, Exec) for strided kernels: the only place that starts tasks."
+2026-10-25T01:42:23.945061Z,xlcalc,0.1.1,0,0,https://github.com/zac-scheiwe/xlcalc,A faithful clone of Excel's calculation engine
+2026-10-25T01:43:34.055312Z,xlcalc-cli,0.1.1,0,0,https://github.com/zac-scheiwe/xlcalc,Interactive console for the xlcalc engine
+2026-10-25T01:45:37.403343Z,rsmix-cookie,1.0.1,0,0,https://github.com/todd-skelton/rsmix,Cookie header parsing and Set-Cookie serialization for rsmix (Remix's cookie package)
+2026-10-25T01:47:41.13195Z,tauri-plugin-devdeck,1.0.0,0,0,https://github.com/n0t4u404/tauri-plugin-devdeck,"A developer deck for Tauri apps: live memory, CPU and resource-leak monitor in its own window."
+2026-10-25T01:50:25.194542Z,ml-convertant,0.0.0,0,0,https://github.com/ThinkersJournal/ml-convertant,"Reserved name: conversions of machine learning model data (quantization, packing, merging). Placeholder, no code yet."
+2026-10-25T01:51:58.575539Z,deckcraft-pdf,0.6.1,0,0,,"DeckCraft PDF export (krilla): slides, notes pages and handouts with a selectable text layer, links and bookmarks"
+2026-10-25T01:54:10.407836Z,ek-cfg,0.1.0,0,0,https://cnb.cool/enkeep/ek-cfg,"Configuration underlay for the ek plugin chain: line-key text store per namespace with crash-safe three-step atomic writes, OS-credential-backed secret references, and a bus receiver plugin (cfg.save…"
+2026-10-25T01:55:33.74507Z,rsmix-html-template,1.0.0,0,0,https://github.com/todd-skelton/rsmix,html! templates that escape interpolations into SafeHtml (remix/html-template)
+2026-10-25T02:02:47.06697Z,deckcraft-pptx,0.6.1,0,0,,"DeckCraft PPTX: Office Open XML (PresentationML/DrawingML) import and export, written from the public ECMA-376 standard"
+2026-10-25T02:02:53.538043Z,ferrocad_theme,0.1.3,0,0,https://github.com/ferrocad/ferrocad,"FerroCAD's visual-language tokens: linear at the draw contract, packed sRGB at the gpui boundary"
+2026-10-25T02:02:56.006353Z,ferrocad_lineage,0.1.3,0,0,https://github.com/ferrocad/ferrocad,"FerroCAD lineage vocabulary: element references, operation history and the stable-name map, generic over an opaque payload"
+2026-10-25T02:02:59.498276Z,ferrocad_curves,0.1.3,0,0,https://github.com/ferrocad/ferrocad,"FerroCAD analytic curves: lines, segments, circles, arcs, ellipses and wires (no kernel)"
+2026-10-25T02:03:02.13619Z,ferrocad_ui,0.1.3,0,0,https://github.com/ferrocad/ferrocad,"Qt Designer .ui XML reader and typed form model (no Qt, no rendering)"
+2026-10-25T02:03:12.900926Z,ferrocad_graphics,0.1.3,0,0,https://github.com/ferrocad/ferrocad,"FerroCAD's neutral graphics primitives: the draw-batch contract, the camera/viewport, and CPU picking"
+2026-10-25T02:03:58.312273Z,orkstage-scan,0.1.0,0,0,https://github.com/orkstage/orkstage-cli,OrkStage scan engine: turns IaC and project files into a ScanReport and a platform/v1 template
+2026-10-25T02:04:43.701467Z,orkstage-cli,0.1.0,0,0,https://github.com/orkstage/orkstage-cli,"The ork command line for OrkStage: scan a project into a template, push it, deploy and operate cloud environments"
+2026-10-25T02:05:36.189611Z,rsmix-multipart-parser,1.1.0,0,0,https://github.com/todd-skelton/rsmix,"A streaming multipart/form-data parser (remix/multipart-parser) with header, part, file and total size limits"
+2026-10-25T02:08:22.514891Z,ferrocad_inventor,0.1.3,0,0,https://github.com/ferrocad/ferrocad,"FerroCAD's Coin/Inventor scene core: node AST, state accumulator and mesh compiler"
+2026-10-25T02:13:21.397222Z,designcraft-color,0.7.1,0,0,,DesignCraft color
+2026-10-25T02:15:45.633597Z,rsmix-route-pattern,1.0.0,0,0,https://github.com/todd-skelton/rsmix,"URL pattern matching, ranking and href generation (port of remix route-pattern)"
+2026-10-25T02:17:25.254349Z,ferrocad_stage,0.1.3,0,0,https://github.com/ferrocad/ferrocad,FerroCAD's modern declarative CAD presentation: stage items that compile straight to the shared draw-batch vocabulary

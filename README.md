@@ -8,42 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 01:18 UTC
+## Latest list — 2026-10-25 02:21 UTC
 
-New crates published between 2026-10-25 00:19 UTC and 2026-10-25 01:18 UTC.
+New crates published between 2026-10-25 01:18 UTC and 2026-10-25 02:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-25T01-18-36-296773Z.csv)
+[Full CSV](data/new-crates-2026-10-25T02-21-43-860382Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-25 00:19:19 | [zgx-run](https://crates.io/crates/zgx-run) | 0.0.1 | 0 | Part of zgx, a retained, GPU-rendered desktop GUI framework for Rust and Luau.… |
-| 2026-10-25 00:25:27 | [flight-effects-wgpu](https://crates.io/crates/flight-effects-wgpu) | 0.5.1-next.3241.169… | 0 | WebGPU shader recipes for render effects over native wgpu (substrate-agnostic p… |
-| 2026-10-25 00:29:00 | [zgx-ghostty-sys](https://crates.io/crates/zgx-ghostty-sys) | 0.0.1 | 0 | Part of zgx, a retained, GPU-rendered desktop GUI framework for Rust and Luau.… |
-| 2026-10-25 00:31:19 | [hatchery-gitkeys](https://crates.io/crates/hatchery-gitkeys) | 0.2.98 | 0 | Hatchery git keys: per-nick Forgejo users and tokens held in RAM by a key agent… |
-| 2026-10-25 00:31:23 | [hatchery-fed](https://crates.io/crates/hatchery-fed) | 0.2.98 | 0 | Hatchery federation phase 1: signed event logs encrypted to per-stream group ke… |
-| 2026-10-25 00:35:27 | [flight-scene2d-wgpu](https://crates.io/crates/flight-scene2d-wgpu) | 0.5.1-next.3241.169… | 0 | Native wgpu-backed WebGPU display-object renderers (bitmap, shape, sprite, text… |
-| 2026-10-25 00:36:21 | [taba](https://crates.io/crates/taba) | 0.0.0 | 0 | Runtime for Taba, a Rolldown-based TypeScript bundler for Rust |
-| 2026-10-25 00:36:22 | [taba-rolldown](https://crates.io/crates/taba-rolldown) | 0.0.0 | 0 | Pinned version of Rolldown for Taba |
-| 2026-10-25 00:36:22 | [taba-build](https://crates.io/crates/taba-build) | 0.0.0 | 0 | Build-time bundling for Taba, a Rolldown-based TypeScript bundler for Rust |
-| 2026-10-25 00:39:56 | [bevy_orca](https://crates.io/crates/bevy_orca) | 0.2.0 | 0 | Reciprocal Velocity Obstacles (ORCA) local collision avoidance on bevy_math's V… |
-| 2026-10-25 00:41:10 | [bevy_stigmergy](https://crates.io/crates/bevy_stigmergy) | 0.2.0 | 0 | Stigmergic influence fields over a fixed cell grid: decaying scalar channels pl… |
-| 2026-10-25 00:42:26 | [bevy_speech_bubbles](https://crates.io/crates/bevy_speech_bubbles) | 0.2.1 | 0 | Dialog kit for Bevy: world-space speech and thought balloons (CPU ab_glyph rast… |
-| 2026-10-25 00:45:27 | [flight-scene3d-gl](https://crates.io/crates/flight-scene3d-gl) | 0.5.1-next.3241.169… | 0 | GL 3D scene rendering: material renderers, shader programs, environment maps, s… |
-| 2026-10-25 00:46:46 | [bevy_emerge_rng](https://crates.io/crates/bevy_emerge_rng) | 0.1.0 | 0 | One deterministic RNG for a whole simulation: a seeded ChaCha8 stream plus the… |
-| 2026-10-25 00:47:02 | [glumy](https://crates.io/crates/glumy) | 1.0.0 | 0 | A lightweight graphics abstraction layer built on wgpu and winit. |
-| 2026-10-25 00:49:46 | [catfive](https://crates.io/crates/catfive) | 0.1.0 | 0 | Category-5 fluent, zero-dependency schema and form validation for Rust. |
-| 2026-10-25 00:55:00 | [rsmix-crypto](https://crates.io/crates/rsmix-crypto) | 1.0.0 | 0 | SHA-256, HMAC, PBKDF2, base64 and OS randomness for rsmix, with no dependencies… |
-| 2026-10-25 00:55:06 | [rsmix-headers](https://crates.io/crates/rsmix-headers) | 1.0.1 | 0 | Typed HTTP header values for rsmix (Remix's headers package): Accept*, Cache-Co… |
-| 2026-10-25 00:55:15 | [rsmix-macros](https://crates.io/crates/rsmix-macros) | 1.1.0 | 0 | rsx! macro for rsmix |
-| 2026-10-25 00:55:20 | [rsmix-mime](https://crates.io/crates/rsmix-mime) | 1.0.0 | 0 | MIME types by file extension for rsmix (Remix's mime package): the mime-db tabl… |
-| 2026-10-25 00:55:25 | [rsmix-tar-parser](https://crates.io/crates/rsmix-tar-parser) | 1.0.1 | 0 | A streaming tar parser (remix/tar-parser): ustar, GNU and PAX headers, with siz… |
-| 2026-10-25 00:55:27 | [flight-gizmo](https://crates.io/crates/flight-gizmo) | 0.5.1-next.3241.169… | 0 | Screen-space 2D transform gizmos, alignment helpers, and Node2D feature adapters |
-| 2026-10-25 01:05:27 | [flight-gui](https://crates.io/crates/flight-gui) | 0.5.1-next.3241.169… | 0 | Portable controllers over caller-owned scene visuals and canonical interaction… |
-| 2026-10-25 01:05:33 | [rsmix-terminal](https://crates.io/crates/rsmix-terminal) | 1.0.0 | 0 | ANSI styles, color detection and terminal output for rsmix (Remix's remix/termi… |
-| 2026-10-25 01:08:29 | [nextcloud-theming](https://crates.io/crates/nextcloud-theming) | 0.1.2 | 0 | Nextcloud theming, custom branding metadata, and server status client |
-| 2026-10-25 01:08:35 | [nextcloud-sync](https://crates.io/crates/nextcloud-sync) | 0.1.2 | 0 | Bidirectional synchronization engine, reconciliation logic, and sync journal fo… |
-| 2026-10-25 01:15:27 | [flight-scene3d-wgpu](https://crates.io/crates/flight-scene3d-wgpu) | 0.5.1-next.3241.169… | 0 | WebGPU 3D scene rendering: material renderers, shader pipelines, environment ma… |
-| 2026-10-25 01:15:36 | [rsmix-url](https://crates.io/crates/rsmix-url) | 1.0.0 | 0 | Minimal URL, percent-encoding and URLSearchParams utilities for rsmix (no depen… |
+| 2026-10-25 01:25:27 | [flight-sdk](https://crates.io/crates/flight-sdk) | 0.5.1-next.3241.169… | 0 | The Flight SDK: every SDK crate's public lane in one dependency (TS @flighthq/s… |
+| 2026-10-25 01:25:38 | [rsmix-cli](https://crates.io/crates/rsmix-cli) | 1.0.1 | 0 | The rsmix command (remix cli): new, dev, build, doctor, completion, routes, ass… |
+| 2026-10-25 01:34:53 | [idlepack](https://crates.io/crates/idlepack) | 0.2.0 | 0 | Idle compaction for the Claude and Codex desktop apps: compacts a big idle sess… |
+| 2026-10-25 01:35:44 | [rsmix-component](https://crates.io/crates/rsmix-component) | 1.1.0 | 0 | A Remix 3 style component model for Rust: setup once, render on update(), serve… |
+| 2026-10-25 01:38:09 | [nextcloud-sdk-orchestrator](https://crates.io/crates/nextcloud-sdk-orchestrator) | 0.1.3 | 0 | High-level background orchestrator, actor runtime, and multi-mount synchronizat… |
+| 2026-10-25 01:39:39 | [deckcraft-render](https://crates.io/crates/deckcraft-render) | 0.6.1 | 0 | DeckCraft renderer: slides, layouts and masters to pixels (vello_cpu): fills, o… |
+| 2026-10-25 01:42:19 | [strided-exec](https://crates.io/crates/strided-exec) | 0.7.0 | 0 | Splittable CPU placement token (Pool, Exec) for strided kernels: the only place… |
+| 2026-10-25 01:42:23 | [xlcalc](https://crates.io/crates/xlcalc) | 0.1.1 | 0 | A faithful clone of Excel's calculation engine |
+| 2026-10-25 01:43:34 | [xlcalc-cli](https://crates.io/crates/xlcalc-cli) | 0.1.1 | 0 | Interactive console for the xlcalc engine |
+| 2026-10-25 01:45:37 | [rsmix-cookie](https://crates.io/crates/rsmix-cookie) | 1.0.1 | 0 | Cookie header parsing and Set-Cookie serialization for rsmix (Remix's cookie pa… |
+| 2026-10-25 01:47:41 | [tauri-plugin-devdeck](https://crates.io/crates/tauri-plugin-devdeck) | 1.0.0 | 0 | A developer deck for Tauri apps: live memory, CPU and resource-leak monitor in… |
+| 2026-10-25 01:50:25 | [ml-convertant](https://crates.io/crates/ml-convertant) | 0.0.0 | 0 | Reserved name: conversions of machine learning model data (quantization, packin… |
+| 2026-10-25 01:51:58 | [deckcraft-pdf](https://crates.io/crates/deckcraft-pdf) | 0.6.1 | 0 | DeckCraft PDF export (krilla): slides, notes pages and handouts with a selectab… |
+| 2026-10-25 01:54:10 | [ek-cfg](https://crates.io/crates/ek-cfg) | 0.1.0 | 0 | Configuration underlay for the ek plugin chain: line-key text store per namespa… |
+| 2026-10-25 01:55:33 | [rsmix-html-template](https://crates.io/crates/rsmix-html-template) | 1.0.0 | 0 | html! templates that escape interpolations into SafeHtml (remix/html-template) |
+| 2026-10-25 02:02:47 | [deckcraft-pptx](https://crates.io/crates/deckcraft-pptx) | 0.6.1 | 0 | DeckCraft PPTX: Office Open XML (PresentationML/DrawingML) import and export, w… |
+| 2026-10-25 02:02:53 | [ferrocad_theme](https://crates.io/crates/ferrocad_theme) | 0.1.3 | 0 | FerroCAD's visual-language tokens: linear at the draw contract, packed sRGB at… |
+| 2026-10-25 02:02:56 | [ferrocad_lineage](https://crates.io/crates/ferrocad_lineage) | 0.1.3 | 0 | FerroCAD lineage vocabulary: element references, operation history and the stab… |
+| 2026-10-25 02:02:59 | [ferrocad_curves](https://crates.io/crates/ferrocad_curves) | 0.1.3 | 0 | FerroCAD analytic curves: lines, segments, circles, arcs, ellipses and wires (n… |
+| 2026-10-25 02:03:02 | [ferrocad_ui](https://crates.io/crates/ferrocad_ui) | 0.1.3 | 0 | Qt Designer .ui XML reader and typed form model (no Qt, no rendering) |
+| 2026-10-25 02:03:12 | [ferrocad_graphics](https://crates.io/crates/ferrocad_graphics) | 0.1.3 | 0 | FerroCAD's neutral graphics primitives: the draw-batch contract, the camera/vie… |
+| 2026-10-25 02:03:58 | [orkstage-scan](https://crates.io/crates/orkstage-scan) | 0.1.0 | 0 | OrkStage scan engine: turns IaC and project files into a ScanReport and a platf… |
+| 2026-10-25 02:04:43 | [orkstage-cli](https://crates.io/crates/orkstage-cli) | 0.1.0 | 0 | The ork command line for OrkStage: scan a project into a template, push it, dep… |
+| 2026-10-25 02:05:36 | [rsmix-multipart-parser](https://crates.io/crates/rsmix-multipart-parser) | 1.1.0 | 0 | A streaming multipart/form-data parser (remix/multipart-parser) with header, pa… |
+| 2026-10-25 02:08:22 | [ferrocad_inventor](https://crates.io/crates/ferrocad_inventor) | 0.1.3 | 0 | FerroCAD's Coin/Inventor scene core: node AST, state accumulator and mesh compi… |
+| 2026-10-25 02:13:21 | [designcraft-color](https://crates.io/crates/designcraft-color) | 0.7.1 | 0 | DesignCraft color |
+| 2026-10-25 02:15:45 | [rsmix-route-pattern](https://crates.io/crates/rsmix-route-pattern) | 1.0.0 | 0 | URL pattern matching, ranking and href generation (port of remix route-pattern) |
+| 2026-10-25 02:17:25 | [ferrocad_stage](https://crates.io/crates/ferrocad_stage) | 0.1.3 | 0 | FerroCAD's modern declarative CAD presentation: stage items that compile straig… |
 
 ## Data source
 
