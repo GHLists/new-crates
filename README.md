@@ -8,58 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 10:18 UTC
+## Latest list — 2026-10-25 11:20 UTC
 
-New crates published between 2026-10-25 09:19 UTC and 2026-10-25 10:18 UTC.
+New crates published between 2026-10-25 10:18 UTC and 2026-10-25 11:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-25T10-18-37-754421Z.csv)
+[Full CSV](data/new-crates-2026-10-25T11-20-15-557702Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-25 09:21:09 | [oj_stylex](https://crates.io/crates/oj_stylex) | 0.2.46 | 0 | StyleX compiler: transforms, rule registry and stylesheet assembly |
-| 2026-10-25 09:21:11 | [fru](https://crates.io/crates/fru) | 0.2.46 | 0 | Standalone StyleX compiler CLI (the `oj stylex` command set) |
-| 2026-10-25 09:21:31 | [crabpot-windows](https://crates.io/crates/crabpot-windows) | 0.2.0 | 0 | The Windows half of crabpot: upstream's srt-win source, taken in under crabpot'… |
-| 2026-10-25 09:21:38 | [crabpot-linux](https://crates.io/crates/crabpot-linux) | 0.2.0 | 0 | The Linux half of crabpot: the bwrap argv, the mandatory-deny walker, the secco… |
-| 2026-10-25 09:22:26 | [sofd-error](https://crates.io/crates/sofd-error) | 0.5.1 | 0 | One error type per OFD subsystem, all converting losslessly into a single taxon… |
-| 2026-10-25 09:22:36 | [sofd-common](https://crates.io/crates/sofd-common) | 0.5.1 | 0 | Foundational types shared across the OFD stack |
-| 2026-10-25 09:22:40 | [sofd-geometry](https://crates.io/crates/sofd-geometry) | 0.5.1 | 0 | Backend-independent paths and affine transforms for OFD layout |
-| 2026-10-25 09:22:43 | [prek-ignore](https://crates.io/crates/prek-ignore) | 0.4.33 | 0 | A fork of ignore for prek, providing fast matching of ignore files such as `.gi… |
-| 2026-10-25 09:22:55 | [sofd-font](https://crates.io/crates/sofd-font) | 0.5.1 | 0 | Embedded fonts, system-resolved names, CID indices and metrics for OFD text |
-| 2026-10-25 09:23:06 | [sofd-display](https://crates.io/crates/sofd-display) | 0.5.1 | 0 | The display list that the nested OFD template tree flattens into, shared by eve… |
-| 2026-10-25 09:24:03 | [yagmath](https://crates.io/crates/yagmath) | 0.1.1 | 0 | Game math for Rust: generic 2D/3D/4D vectors, AABB bounds, planes, interpolatio… |
-| 2026-10-25 09:24:29 | [euv-automation](https://crates.io/crates/euv-automation) | 0.32.9 | 0 | Real-browser UI automation and assertions for euv components. |
-| 2026-10-25 09:25:16 | [tauri-plugin-text-recognition](https://crates.io/crates/tauri-plugin-text-recognition) | 0.1.1 | 0 | Read printed text from images on the device, with ML Kit on Android. No network. |
-| 2026-10-25 09:25:23 | [euv-performance](https://crates.io/crates/euv-performance) | 0.32.9 | 0 | Reproducible CPU and heap benchmarks for the euv runtime, game engine, and char… |
-| 2026-10-25 09:26:16 | [imgsmith](https://crates.io/crates/imgsmith) | 0.1.0 | 0 | Convert, resize, crop and thumbnail images from one static binary, with no dele… |
-| 2026-10-25 09:26:18 | [tplink-m7200](https://crates.io/crates/tplink-m7200) | 0.1.0 | 0 | Async Rust client and TUI for the TP-Link M7200 LTE router SMS API |
-| 2026-10-25 09:26:42 | [day-toolkit-dom](https://crates.io/crates/day-toolkit-dom) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 09:34:34 | [sofd-crypto](https://crates.io/crates/sofd-crypto) | 0.5.1 | 0 | SM3, SM4, SM2, X.509 inspection and GB/T 20520 timestamps, for OFD signatures |
-| 2026-10-25 09:34:41 | [dengjen-core](https://crates.io/crates/dengjen-core) | 3.0.0 | 0 | Shared runtime primitives for the dengjen speech engines: cancellation, ONNX Ru… |
-| 2026-10-25 09:36:42 | [day-toolkit-gtk](https://crates.io/crates/day-toolkit-gtk) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 09:37:48 | [espforge-diagnostics](https://crates.io/crates/espforge-diagnostics) | 0.6.0 | 0 | a scaffolding++ tool for creating esp32 no_std esphal without the hassle |
-| 2026-10-25 09:37:53 | [espf](https://crates.io/crates/espf) | 0.6.0 | 0 | a scaffolding++ tool for creating esp32 no_std esphal without the hassle |
-| 2026-10-25 09:37:56 | [espforge-bindings](https://crates.io/crates/espforge-bindings) | 0.6.0 | 0 | a scaffolding++ tool for creating esp32 no_std esphal without the hassle |
-| 2026-10-25 09:38:00 | [espforge-espgenerate-template](https://crates.io/crates/espforge-espgenerate-template) | 0.6.0 | 0 | The ESPF schema and prose the generator is built from |
-| 2026-10-25 09:44:26 | [memsaga-core](https://crates.io/crates/memsaga-core) | 0.1.1 | 0 | Library behind the memsaga CLI: mirror, commit, two-way sync and backfill for C… |
-| 2026-10-25 09:44:40 | [memsaga](https://crates.io/crates/memsaga) | 0.1.1 | 0 | Version control and two-way sync for Claude Code's memory, skills, hooks and co… |
-| 2026-10-25 09:46:42 | [day-toolkit-material](https://crates.io/crates/day-toolkit-material) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 09:56:33 | [rtmpbc-runtime](https://crates.io/crates/rtmpbc-runtime) | 0.1.0 | 0 | Hard real-time, zero-allocation Port-Hamiltonian symplectic solver for bare-met… |
-| 2026-10-25 09:56:42 | [day-toolkit-qt](https://crates.io/crates/day-toolkit-qt) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 09:56:59 | [rtmpbc-compiler](https://crates.io/crates/rtmpbc-compiler) | 0.1.0 | 0 | Bond-graph causality solver, Dirac structure synthesizer, and symbolic unroller |
-| 2026-10-25 09:57:30 | [sofd-io](https://crates.io/crates/sofd-io) | 0.5.1 | 0 | Byte sources and sinks, and the one decoder every reader of an image resource s… |
-| 2026-10-25 09:57:55 | [sofd-package](https://crates.io/crates/sofd-package) | 0.5.1 | 0 | Open the ZIP container an OFD file is, and hand out its entries as bytes |
-| 2026-10-25 10:02:37 | [sofd-xml](https://crates.io/crates/sofd-xml) | 0.5.1 | 0 | Typed reading of OFD XML, where attributes are abbreviated and values carry uni… |
-| 2026-10-25 10:06:42 | [day-toolkit-uikit](https://crates.io/crates/day-toolkit-uikit) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 10:07:17 | [crates14](https://crates.io/crates/crates14) | 0.1.0 | 0 | test crates |
-| 2026-10-25 10:12:40 | [sofd-archive](https://crates.io/crates/sofd-archive) | 0.5.1 | 0 | Audit an OFD file for archival readiness under GB/T 33190-2016 and GB/T 42133-2… |
-| 2026-10-25 10:14:21 | [aircraft-type-descriptions](https://crates.io/crates/aircraft-type-descriptions) | 0.1.0 | 0 | The airframe, engines and wake turbulence category of aircraft types, by type d… |
-| 2026-10-25 10:14:46 | [provcheck-attestation-spec](https://crates.io/crates/provcheck-attestation-spec) | 1.5.1 | 0 | Wire-format types for app.provcheck.signingKey records: shared between provchec… |
-| 2026-10-25 10:14:46 | [provcheck-detect](https://crates.io/crates/provcheck-detect) | 1.5.1 | 0 | AI-content detection trait for provcheck. Defines the contract operators implem… |
-| 2026-10-25 10:14:47 | [provcheck-dlc](https://crates.io/crates/provcheck-dlc) | 1.5.1 | 0 | provcheck DLC framework: offline-verifiable Pro (seat) licenses + add-on pack m… |
-| 2026-10-25 10:14:48 | [provcheck-weights](https://crates.io/crates/provcheck-weights) | 1.5.1 | 0 | DLC-style downloadable detector weights — manifest, download, verify, cache. |
-| 2026-10-25 10:14:52 | [provcheck](https://crates.io/crates/provcheck) | 1.5.1 | 0 | Verify C2PA Content Credentials on any supported media file. |
-| 2026-10-25 10:16:42 | [day-toolkit-winui](https://crates.io/crates/day-toolkit-winui) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 10:18:16 | [provcheck-sign](https://crates.io/crates/provcheck-sign) | 1.5.1 | 0 | Cert generation, key custody, and C2PA signing for provcheck-kit. Pure-Rust, sy… |
+| 2026-10-25 10:21:22 | [collection-store](https://crates.io/crates/collection-store) | 0.1.0 | 0 | Bounded, atomically written JSON collection storage for local client state: a b… |
+| 2026-10-25 10:22:38 | [sofd-render](https://crates.io/crates/sofd-render) | 0.5.1 | 0 | Rasterise a display list to pixels |
+| 2026-10-25 10:26:42 | [day-script](https://crates.io/crates/day-script) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 10:27:01 | [provcheck-publish](https://crates.io/crates/provcheck-publish) | 1.5.1 | 0 | atproto record CRUD for provcheck-kit: publishes app.provcheck.signingKey recor… |
+| 2026-10-25 10:27:02 | [agent-store-cli](https://crates.io/crates/agent-store-cli) | 0.1.3 | 0 | Persistent, queryable memory for coding agents: one binary, one SQLite file in… |
+| 2026-10-25 10:28:16 | [rustmind-core](https://crates.io/crates/rustmind-core) | 0.1.0 | 0 | Core logic library for Rustmind |
+| 2026-10-25 10:30:56 | [hyprstatus](https://crates.io/crates/hyprstatus) | 1.0.0 | 0 | A blazing-fast, zero-bloat, i3-style status bar daemon designed specifically fo… |
+| 2026-10-25 10:32:50 | [ortho_l10n](https://crates.io/crates/ortho_l10n) | 0.10.0 | 0 | Reusable Fluent localization runtime and message identifier convention. |
+| 2026-10-25 10:36:42 | [day-toolkit-appkit](https://crates.io/crates/day-toolkit-appkit) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 10:37:00 | [provcheck-stream-detect](https://crates.io/crates/provcheck-stream-detect) | 1.5.1 | 0 | Streaming intake pipeline for AI-content detection in provcheck. PCM chunk feed… |
+| 2026-10-25 10:37:28 | [minigrep_wyy](https://crates.io/crates/minigrep_wyy) | 0.1.1 | 0 | A fun game where you guess what number the computer has chosen. |
+| 2026-10-25 10:41:48 | [mq-bridge-faucet](https://crates.io/crates/mq-bridge-faucet) | 0.1.0 | 0 | faucet-stream connectors as an mq-bridge endpoint |
+| 2026-10-25 10:42:27 | [axle-split](https://crates.io/crates/axle-split) | 0.1.0 | 0 | Check tractor-trailer axle group weights against US federal limits (steer, driv… |
+| 2026-10-25 10:46:42 | [day-piece-settings](https://crates.io/crates/day-piece-settings) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 10:47:01 | [provcheck-platform](https://crates.io/crates/provcheck-platform) | 1.5.1 | 0 | C2PA Content Credentials verification platform |
+| 2026-10-25 10:47:37 | [mlmf-bnb](https://crates.io/crates/mlmf-bnb) | 0.7.11 | 0 | bitsandbytes 4-bit (NF4/FP4) checkpoints: locate a layer's tensors in a safeten… |
+| 2026-10-25 10:47:39 | [mlmf-onnx](https://crates.io/crates/mlmf-onnx) | 0.7.11 | 0 | Writes ONNX model files (ModelProto): initializers, metadata and graph structur… |
+| 2026-10-25 10:47:40 | [mlmf-pickle](https://crates.io/crates/mlmf-pickle) | 0.7.11 | 0 | Reads PyTorch .pth/.bin checkpoints: the zip directory and the tensor index in… |
+| 2026-10-25 10:56:08 | [baijimu-owner-call](https://crates.io/crates/baijimu-owner-call) | 1.0.0 | 0 | Public compiled Owner invocation and trusted resource boundary contracts |
+| 2026-10-25 10:56:42 | [day-piece-swiftui](https://crates.io/crates/day-piece-swiftui) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 10:57:07 | [provcheck-watermark](https://crates.io/crates/provcheck-watermark) | 1.5.1 | 0 | Neural-watermark detection for provcheck (silentcipher). |
+| 2026-10-25 11:02:56 | [sofd-convert](https://crates.io/crates/sofd-convert) | 0.5.1 | 0 | Write a display list as SVG, PDF or PNG |
+| 2026-10-25 11:03:18 | [sofd-model](https://crates.io/crates/sofd-model) | 0.5.1 | 0 | The OFD document model of GB/T 33190-2016 as pure data, with no I/O |
+| 2026-10-25 11:03:41 | [sofd-edit](https://crates.io/crates/sofd-edit) | 0.5.1 | 0 | Command-pattern editing of an OFD document with an undo stack |
+| 2026-10-25 11:04:05 | [sofd-parser](https://crates.io/crates/sofd-parser) | 0.5.1 | 0 | Parse an OFD document into display lists, one flattening for every output |
+| 2026-10-25 11:06:42 | [day-piece-text-editor](https://crates.io/crates/day-piece-text-editor) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 11:07:05 | [provcheck-audioseal](https://crates.io/crates/provcheck-audioseal) | 1.5.1 | 0 | AudioSeal neural-watermark detection for provcheck. |
+| 2026-10-25 11:10:05 | [kvist-blad](https://crates.io/crates/kvist-blad) | 0.3.0 | 0 | A standalone terminal Markdown viewer with syntax highlighting, search, and tex… |
+| 2026-10-25 11:10:33 | [desmack](https://crates.io/crates/desmack) | 0.1.0 | 0 | Extracts the assets of a Super Mario Kart SNES ROM |
+| 2026-10-25 11:12:40 | [sofd-print](https://crates.io/crates/sofd-print) | 0.5.1 | 0 | Turn a display list into a print job, from the same list the screen draws |
+| 2026-10-25 11:15:46 | [rupg-common](https://crates.io/crates/rupg-common) | 0.1.84 | 0 | Error with its SqlState, the identifiers Oid, ShardId, RowId, Hlc, Xid and Lsn… |
+| 2026-10-25 11:15:53 | [rupg-platform](https://crates.io/crates/rupg-platform) | 0.1.84 | 0 | The traits Io, Clock, Net, Tasks and Entropy, their operating system and simula… |
+| 2026-10-25 11:15:55 | [baijimu-runtime-resource](https://crates.io/crates/baijimu-runtime-resource) | 1.0.0 | 0 | Public Workflow and Timer resource method contracts |
+| 2026-10-25 11:16:00 | [rupg-file](https://crates.io/crates/rupg-file) | 0.1.84 | 0 | The bytes of the .rupg file: the header slots, the page and extent formats, the… |
+| 2026-10-25 11:16:06 | [rupg-buffer](https://crates.io/crates/rupg-buffer) | 0.1.84 | 0 | The buffer manager of document 08 section 8.8: frames, page latches, eviction,… |
+| 2026-10-25 11:16:10 | [rupg-kernels](https://crates.io/crates/rupg-kernels) | 0.1.84 | 0 | The vector kernels, lifted from rudb: bit unpacking, frame of reference, delta,… |
+| 2026-10-25 11:16:16 | [rupg-log](https://crates.io/crates/rupg-log) | 0.1.84 | 0 | The per-worker log rings, the record format, group commit, checkpoints, recover… |
+| 2026-10-25 11:16:36 | [cargo-test-prune](https://crates.io/crates/cargo-test-prune) | 0.1.0 | 0 | Find Rust tests with overlapping mutation detection |
+| 2026-10-25 11:16:42 | [day-tweak-button-bezel](https://crates.io/crates/day-tweak-button-bezel) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 11:17:03 | [provcheck-wavmark](https://crates.io/crates/provcheck-wavmark) | 1.5.1 | 0 | WavMark neural-watermark detection for provcheck. |
+| 2026-10-25 11:19:36 | [emu198x-test-skip](https://crates.io/crates/emu198x-test-skip) | 0.1.0 | 0 | Declare a test skipped for a missing fixture, so it cannot pass silently |
 
 ## Data source
 
