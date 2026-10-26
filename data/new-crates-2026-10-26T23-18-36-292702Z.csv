@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T22:21:25.666055Z,nova-core-macros,0.1.0,0,0,https://gitlab.chipatrade.com/Rick-29/nova-core,Procedural macros for nova-ta-core: fallible Num arithmetic written as infix expressions.
+2026-10-26T22:24:41.148597Z,bboxy450-rt,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,"Shared IO runtime and bounded, non-blocking UI handoff"
+2026-10-26T22:25:27.439499Z,libra-query,0.1.0,0,0,https://github.com/thomasjonesdev/libra,Libra query helpers
+2026-10-26T22:32:36.760497Z,hearth-mp-protocol,0.1.1,0,0,https://github.com/tigwyk/hearth-mp,"Hearth wire protocol v1: frames, opcodes, codec and patch ops."
+2026-10-26T22:32:37.1912Z,hearth-mp-sync-derive,0.1.1,0,0,https://github.com/tigwyk/hearth-mp,Derive macros for Hearth state sync: #[derive(Schema)] and #[derive(HearthState)].
+2026-10-26T22:32:38.067927Z,hearth-mp-client,0.1.1,0,0,https://github.com/tigwyk/hearth-mp,"Hearth v0.1 sans-IO client core: handshake, patch apply, intent batching, send pacing, interpolation and prediction."
+2026-10-26T22:32:38.352978Z,hearth-mp-sync,0.1.1,0,0,https://github.com/tigwyk/hearth-mp,"Hearth v0.1 state sync: SyncMap, tree diff, schema hashing and owner-scoped views."
+2026-10-26T22:32:39.233364Z,hearth-mp-server,0.1.1,0,0,https://github.com/tigwyk/hearth-mp,"Hearth room runtime: Room trait, Ctx, buffered effects and the Durable Object adapter."
+2026-10-26T22:34:17.097577Z,rrdr,0.2.4,0,0,https://github.com/NoloxoYT/RRDR2,"Build and install RRDR, the Rust mod framework for Red Dead Redemption 2"
+2026-10-26T22:34:41.547989Z,bboxy450-term-core,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,Forked terminal model and parser with resumable checkpoints
+2026-10-26T22:35:27.761122Z,libra-components,0.1.0,0,0,https://github.com/thomasjonesdev/libra,Libra component catalog and layout
+2026-10-26T22:37:27.75237Z,irmin_rs,1.0.0,0,0,https://github.com/elysiae-project/irmin,"A Sophon download management library, for use on Linux with 'Anime Games'"
+2026-10-26T22:44:41.888875Z,bboxy450-ui-core,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,"Portable terminal cockpit state, layout data and generated design tokens"
+2026-10-26T22:45:28.173645Z,libra-raster,0.1.0,0,0,https://github.com/thomasjonesdev/libra,Libra deterministic rasterizer
+2026-10-26T22:48:18.319033Z,plantuml-core,0.1.0,0,0,https://github.com/bjornharrtell/plantuml-rs,"PlantUML diagram rendering core (no I/O, wasm-compatible)"
+2026-10-26T22:48:58.60471Z,plantuml-cli,0.1.0,0,0,https://github.com/bjornharrtell/plantuml-rs,Command line renderer for plantuml-core
+2026-10-26T22:50:20.273834Z,brewscale,0.1.2,0,0,https://github.com/michidk/brewscale,Protocol-agnostic BLE coffee-scale API for desktop and embedded systems
+2026-10-26T22:52:51.179124Z,address-parser,0.1.5,0,0,https://github.com/cipansor/crateworks,"Parse free-text US postal addresses into house number, street, unit, city, state and ZIP, with no dependencies."
+2026-10-26T22:53:28.823098Z,unstirred-core,0.1.0,0,0,https://github.com/DrApkFile/Unstirred,"The shared contract of Unstirred: the gate manifest, the window and context rules, the proof package schema, the binding message and the closed verdict code set."
+2026-10-26T22:53:48.108299Z,rrdr-bridge,0.1.0,0,0,,"Rust <-> ScriptHookRDR2DotNet bridge: native call ABI, Mod trait and loader glue"
+2026-10-26T22:54:11.232997Z,rrdr-natives,0.1.0,0,0,,Generated typed Rust bindings for the RDR2 native API
+2026-10-26T22:54:33.605246Z,rrdr-game,0.1.0,0,0,,High-level Rust object API for Red Dead Redemption 2
+2026-10-26T22:54:37.442386Z,unstirred-prover,0.1.0,0,0,https://github.com/DrApkFile/Unstirred,"The holder's half of Unstirred: read-only wallet access, note selection, historical witnesses at h0, the private nullifier lookup at h1, and the proof and binding signature that go in a proof package."
+2026-10-26T22:54:41.278457Z,bboxy450-yarn-macros,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,Procedural macros for the yarn async reactor kernel
+2026-10-26T22:55:06.399457Z,unstirred-verifier,0.1.0,0,0,https://github.com/DrApkFile/Unstirred,"The gate's half of Unstirred: the verification engine over roots it authenticates itself from two independent sources, and the SQLite store that admits one set of coins per context exactly once."
+2026-10-26T22:55:28.162101Z,libra-interp,0.1.0,0,0,https://github.com/thomasjonesdev/libra,Libra view interpreter (development engine)
+2026-10-26T22:55:44.978435Z,unstirred-gate,0.1.0,0,0,https://github.com/DrApkFile/Unstirred,"The Unstirred gate as an HTTP service: one room per manifest, challenge and admit routes that add no check of their own, and the Holders' Room page it serves itself."
+2026-10-26T22:57:16.351392Z,unstirred,0.1.0,0,0,https://github.com/DrApkFile/Unstirred,"Prove you held Zcash, unmoved, between two blocks - without revealing your address, balance or coins. The Unstirred command line: prove, verify, knock, and run a gate."
+2026-10-26T23:00:21.182384Z,rs-sqlite-blob2zstd,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-sqlite-blob2zstd,Compress SQLite BLOBs using zstd
+2026-10-26T23:03:21.775728Z,mars-schema,0.20.1,0,0,https://github.com/haowjy/mars-agents,Pure schema reader and editor for Mars agent packages
+2026-10-26T23:04:37.806812Z,rain-math-float-macro,0.1.1,0,0,https://github.com/rainlanguage/rain.math.float.deploy,Compile-time and fallible literal macros for rain-math-float
+2026-10-26T23:04:42.784922Z,rain-math-float-serde,0.1.1,0,0,https://github.com/rainlanguage/rain.math.float.deploy,Serde helpers and decimal debug formatting for rain-math-float
+2026-10-26T23:05:28.704755Z,libra-effects,0.1.0,0,0,https://github.com/thomasjonesdev/libra,Libra effect runtime
+2026-10-26T23:08:18.057792Z,hearth-mp-cli,0.1.1,0,0,https://github.com/tigwyk/hearth-mp,"Hearth CLI: `hearth-mp new`, `hearth-mp dev`, `hearth-mp deploy`."
+2026-10-26T23:08:18.596166Z,hearth-mp-server-macros,0.1.1,0,0,https://github.com/tigwyk/hearth-mp,Hearth `#[hearth_mp::room]` attribute macro: generates the Durable Object wrapper.
+2026-10-26T23:08:19.048154Z,hearth-mp-test,0.1.1,0,0,https://github.com/tigwyk/hearth-mp,"Hearth test harness: in-memory Host, TestRoom, TestClient and hibernation fuzz."
+2026-10-26T23:12:26.293519Z,letify-link,0.0.0,0,0,https://github.com/DarkPyonix/letify,Reserved for the letify project. The first release ships with letify 3.0.
+2026-10-26T23:12:28.914502Z,letify-proto,0.0.0,0,0,https://github.com/DarkPyonix/letify,Reserved for the letify project. The first release ships with letify 3.0.
+2026-10-26T23:12:42.679974Z,promessa-posture-controller,0.1.4,0,0,https://github.com/pleme-io/promessa,"The tick-by-tick posture PromessaController — a Viggy TargetController that continuously enforces a WHOLE cluster posture (breathe mem/cpu/storage bands at setpoint, scale-to-zero, 100% spot, arm, ne…"
+2026-10-26T23:13:17.077594Z,hearth-mp-matchmaker,0.1.1,0,0,https://github.com/tigwyk/hearth-mp,"Hearth v0.3a matchmaker: quick-join with seat reservations, pools and a lobby listing."
+2026-10-26T23:14:41.345684Z,bboxy-firehose,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,Embedded synthetic terminal scenes for PTY throughput and fidelity checks
+2026-10-26T23:15:27.696142Z,libra-build,0.1.0,0,0,https://github.com/thomasjonesdev/libra,"Build-time view codegen for Libra apps (ARCHITECTURE.md §6.4, PLAN-PACKAGE P0)"
