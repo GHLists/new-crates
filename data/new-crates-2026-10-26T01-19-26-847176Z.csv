@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T00:18:57.179814Z,base-scheduler,0.1.0,0,0,https://github.com/base-rs/base-scheduler,"Explicit, runtime-independent scheduler capabilities for protocol libraries"
+2026-10-26T00:19:03.383155Z,base-scheduler-timers,0.1.0,0,0,https://github.com/base-rs/base-scheduler,Reusable batched monotonic timers with constant-time cancellation
+2026-10-26T00:19:12.15685Z,base-scheduler-conformance,0.1.0,0,0,https://github.com/base-rs/base-scheduler,Reusable capability conformance tests for base-scheduler
+2026-10-26T00:19:20.62355Z,base-scheduler-direct,0.1.0,0,0,https://github.com/base-rs/base-scheduler,Reference thread-based scheduler implementation for base-scheduler
+2026-10-26T00:19:29.420919Z,base-scheduler-selector,0.1.0,0,0,https://github.com/base-rs/base-scheduler,Independent native I/O selectors and lifecycle contracts
+2026-10-26T00:22:26.403664Z,paperpaw-plugin-hyphenation-uk,1.0.0,0,0,https://github.com/hthoene/paperpaw,PaperPaw hyphenation patterns for Ukrainian
+2026-10-26T00:24:40.051038Z,sapphire-tally-core,0.1.0,0,0,https://github.com/sapphire-turtle/sapphire-tally,"A stamp tracker with GitHub-style heatmaps built on sapphire-framework - file-based, local-first, made for human-agent collaboration"
+2026-10-26T00:25:29.164845Z,sapphire-timer-core,0.1.0,0,0,https://github.com/sapphire-turtle/sapphire-timer,"A preset-based timer built on sapphire-framework - file-based, local-first, made for human-agent collaboration"
+2026-10-26T00:25:38.749089Z,espforge-emit,0.6.0,0,0,https://github.com/mohankumargupta/espforge,a scaffolding++ tool for creating esp32 no_std esphal without the hassle
+2026-10-26T00:25:55.474828Z,sapphire-tally-mcp,0.1.0,0,0,https://github.com/sapphire-turtle/sapphire-tally,"MCP tools for sapphire-tally: the tally's methods on its app server, and the tools that call them"
+2026-10-26T00:26:03.415897Z,sapphire-tally,0.1.0,0,0,https://github.com/sapphire-turtle/sapphire-tally,"A stamp tracker with GitHub-style heatmaps built on sapphire-framework - file-based, local-first, made for human-agent collaboration"
+2026-10-26T00:26:35.616152Z,sapphire-timer-mcp,0.1.0,0,0,https://github.com/sapphire-turtle/sapphire-timer,"MCP for sapphire-timer: presets and logs on its app server, and a timer per client that it can subscribe to"
+2026-10-26T00:26:50.257965Z,betteroffice-metafile,0.5.0,0,0,https://github.com/openooxml/betteroffice,"Bounded EMF, EMF+ and WMF metafile replay into vector drawings and SVG."
+2026-10-26T00:29:25.044539Z,base-scheduler-tokio,0.1.0,0,0,https://github.com/base-rs/base-scheduler,Tokio runtime adapter for explicit scheduler capabilities
+2026-10-26T00:31:05.749818Z,provenance-porcelain,0.0.0,0,0,https://github.com/quality-sh/provenance,Placeholder for the Provenance release
+2026-10-26T00:31:09.479862Z,provenance-report,0.0.0,0,0,https://github.com/quality-sh/provenance,Placeholder for the Provenance release
+2026-10-26T00:32:05.408819Z,drivemole,1.0.0,0,0,https://github.com/kbcrumbs/drivemole,"Fast disk analyzer with tree, treemap and sunburst views"
+2026-10-26T00:33:29.701421Z,polyllm-gemini,0.1.0,0,0,,"PolyLLM Google Gemini REST adapter (Rust implementation, experimental)."
+2026-10-26T00:34:06.189328Z,pest_stack_guard,1.0.0,0,0,https://github.com/pest-parser/pest_stack_guard,Internal native stack probing for pest
+2026-10-26T00:36:05.839513Z,espforge-hardware,0.6.0,0,0,https://github.com/mohankumargupta/espforge,a scaffolding++ tool for creating esp32 no_std esphal without the hassle
+2026-10-26T00:38:32.239971Z,privatus-analytics,1.0.0,0,0,https://github.com/Privatus-Analytics/rust,"Prints the cookieless Privatus Analytics script tag, event and click map attributes, and page props for Rust web apps. Optional axum and actix-web middleware, askama and maud support."
+2026-10-26T00:39:25.102198Z,base-scheduler-native,0.1.0,0,0,https://github.com/base-rs/base-scheduler,Native work-stealing scheduler with readiness I/O and batched timers
+2026-10-26T00:45:39.545684Z,kohaku-merkle-tree,0.1.0,0,0,https://github.com/ethereum/kohaku-rs,Generic Merkle Tree implementation
+2026-10-26T00:46:45.598305Z,kohaku-tornadocash-circuit,0.1.0,0,0,https://github.com/ethereum/kohaku-rs,Tornado Cash withdrawal circuit artifacts and Groth16 prover
+2026-10-26T00:47:33.615046Z,kohaku-tornadocash,0.1.0,0,0,https://github.com/ethereum/kohaku-rs,Tornado Cash core types
+2026-10-26T00:48:15.33709Z,kohaku-tornadocash-keychain,0.0.1,0,0,https://github.com/ethereum/kohaku-rs,Tornado Cash deterministic keyring
+2026-10-26T00:49:02.725509Z,kohaku-userop-kit,0.0.1,0,0,https://github.com/ethereum/kohaku-rs,EIP-4337 client
+2026-10-26T00:49:30.08072Z,base-scheduler-iouring,0.1.0,0,0,https://github.com/base-rs/base-scheduler,Independently driven io_uring file and socket operations for Base schedulers
+2026-10-26T00:50:06.498588Z,kohaku-rpc-provider,0.0.1,0,0,https://github.com/ethereum/kohaku-rs,Kohaku RPC provider utilities
+2026-10-26T00:56:09.210728Z,kohaku-tornadocash-syncer,0.0.1,0,0,https://github.com/ethereum/kohaku-rs,Tornado Cash event syncing utilities
+2026-10-26T00:56:21.985047Z,actualised-core,0.1.1,0,0,https://github.com/sejori/actualised-ai,Autonomous multi-agent orchestration engine for AI teams and game studios
+2026-10-26T00:56:57.594283Z,espforge-core,0.6.0,0,0,https://github.com/mohankumargupta/espforge,a scaffolding++ tool for creating esp32 no_std esphal without the hassle
+2026-10-26T01:00:01.216418Z,sapphire-timer,0.1.0,0,0,https://github.com/sapphire-turtle/sapphire-timer,"A preset-based timer built on sapphire-framework - file-based, local-first, made for human-agent collaboration"
+2026-10-26T01:01:35.473262Z,lxmf-propagation,0.15.0,0,0,https://github.com/FreeTAKTeam/LXMF-rs,Shared daemon-free LXMF propagation storage and owned-message custody.
+2026-10-26T01:01:46.048942Z,reticulum-rs-bluetooth,0.15.0,0,0,https://github.com/FreeTAKTeam/LXMF-rs,Protocol-neutral Bluetooth sessions and optional platform backends
+2026-10-26T01:07:55.721167Z,blake3-bend,1.8.7,0,0,https://github.com/gunta/BLAKE3-bend,"the BLAKE3 hash function, with big inputs hashed on every core by a Bend2 engine: a drop-in for the blake3 crate"
+2026-10-26T01:08:31.921682Z,turboblake,1.8.7,0,0,https://github.com/gunta/BLAKE3-bend,"BLAKE3, turbocharged: the official b3sum with many files and big ones hashed at once by a Bend2 engine, a drop-in for b3sum and sha256sum"
+2026-10-26T01:17:47.345785Z,bm78x,0.1.0,0,0,https://github.com/kevstewa/bm78x,Protocol decoder and client for Brymen BM78xBT Bluetooth multimeters
+2026-10-26T01:17:59.599393Z,espforge-runtime,0.6.0,0,0,https://github.com/mohankumargupta/espforge,a scaffolding++ tool for creating esp32 no_std esphal without the hassle
