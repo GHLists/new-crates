@@ -8,55 +8,59 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 14:19 UTC
+## Latest list — 2026-10-26 15:18 UTC
 
-New crates published between 2026-10-26 13:20 UTC and 2026-10-26 14:19 UTC.
+New crates published between 2026-10-26 14:19 UTC and 2026-10-26 15:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-26T14-19-39-166129Z.csv)
+[Full CSV](data/new-crates-2026-10-26T15-18-37-010036Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-26 13:21:10 | [threadteam](https://crates.io/crates/threadteam) | 0.1.0 | 0 | Scoped CPU thread-team placement token: a Pool and a non-Clone Exec with fork,… |
-| 2026-10-26 13:21:20 | [emu198x-motorola-pia-6821](https://crates.io/crates/emu198x-motorola-pia-6821) | 0.1.0 | 0 | Motorola MC6821 Peripheral Interface Adapter |
-| 2026-10-26 13:21:43 | [agent-preflight](https://crates.io/crates/agent-preflight) | 0.1.0 | 0 | Pre-flight guard for coding agents: blocks launch when untrusted instruction fi… |
-| 2026-10-26 13:28:14 | [ely-generative](https://crates.io/crates/ely-generative) | 0.1.1 | 0 | Ely's generative components for GPUI: prompts, results, galleries and model con… |
-| 2026-10-26 13:31:25 | [emu198x-motorola-sam-6883](https://crates.io/crates/emu198x-motorola-sam-6883) | 0.1.0 | 0 | Motorola MC6883 Synchronous Address Multiplexer state model |
-| 2026-10-26 13:31:51 | [lazyui-ratatui](https://crates.io/crates/lazyui-ratatui) | 0.1.0 | 0 | Lazygit-style panels for Ratatui: rounded windows named with their focus key, c… |
-| 2026-10-26 13:38:02 | [ely-mail](https://crates.io/crates/ely-mail) | 0.1.1 | 0 | Ely's mail components for GPUI: mailboxes, threads, the composer and scheduling. |
-| 2026-10-26 13:41:31 | [emu198x-motorola-vdg-6847](https://crates.io/crates/emu198x-motorola-vdg-6847) | 0.1.0 | 0 | Motorola MC6847 VDG text-mode helpers |
-| 2026-10-26 13:42:00 | [dxcomp-attributes](https://crates.io/crates/dxcomp-attributes) | 0.0.1 | 0 | Dioxus attribute macros forked from dioxus-attributes for dxcomp-primitives |
-| 2026-10-26 13:42:00 | [dxform](https://crates.io/crates/dxform) | 0.0.1 | 0 | Headless form state, validation, and submission for Dioxus |
-| 2026-10-26 13:42:01 | [dxhighlight](https://crates.io/crates/dxhighlight) | 0.0.1 | 0 | Tree-sitter highlighting and a read-only code viewer for Dioxus |
-| 2026-10-26 13:42:02 | [dxterm_core](https://crates.io/crates/dxterm_core) | 0.0.1 | 0 | Headless terminal model, snapshots and input encoding |
-| 2026-10-26 13:42:02 | [dxutil](https://crates.io/crates/dxutil) | 0.0.1 | 0 | Shared IDs, clocks, and browser listeners for Dioxus |
-| 2026-10-26 13:48:01 | [gasket-ui](https://crates.io/crates/gasket-ui) | 0.1.0 | 0 | Native shell for Gasket apps. This is the crate an application depends on. |
-| 2026-10-26 13:48:03 | [ely-desktop](https://crates.io/crates/ely-desktop) | 0.1.1 | 0 | Ely's desktop integrations for GPUI: the tray icon, the Dock badge and Omarchy'… |
-| 2026-10-26 13:51:24 | [dxcomp-primitives](https://crates.io/crates/dxcomp-primitives) | 0.0.1 | 0 | Unstyled Dioxus components forked from dioxus-primitives for dxcomp |
-| 2026-10-26 13:51:37 | [emu198x-nec-upd765a](https://crates.io/crates/emu198x-nec-upd765a) | 0.1.0 | 0 | NEC µPD765A floppy disk controller, clocked and wired by its host |
-| 2026-10-26 13:52:36 | [bstk-proto](https://crates.io/crates/bstk-proto) | 0.5.1 | 0 | The beanstalkd wire protocol in Rust: command parsing, response encoding and st… |
-| 2026-10-26 13:52:45 | [bstk-engine-oracle](https://crates.io/crates/bstk-engine-oracle) | 0.5.1 | 0 | A frozen copy of bstk-engine, used only as the differential-test oracle of bean… |
-| 2026-10-26 13:52:53 | [bstk-engine](https://crates.io/crates/bstk-engine) | 0.5.1 | 0 | The deterministic beanstalkd state machine in Rust: jobs, tubes, priorities, TT… |
-| 2026-10-26 13:53:00 | [bstk-net](https://crates.io/crates/bstk-net) | 0.5.1 | 0 | Tokio codec and socket helpers for the beanstalkd protocol |
-| 2026-10-26 13:53:13 | [bstk-store](https://crates.io/crates/bstk-store) | 0.5.1 | 0 | The crash-safe write-ahead log behind beanstalkd-rs: preallocated segments, fsy… |
-| 2026-10-26 13:56:06 | [wsi-annotation-tests](https://crates.io/crates/wsi-annotation-tests) | 0.1.3 | 0 | DICOM Annotation Test Suite for WSI ANN, SEG, SR, and Parametric Map |
-| 2026-10-26 13:58:02 | [ely-media](https://crates.io/crates/ely-media) | 0.1.1 | 0 | Ely's media components for GPUI: pictures, video, audio and the controls around… |
-| 2026-10-26 13:59:50 | [resolvo-cargo](https://crates.io/crates/resolvo-cargo) | 0.1.0 | 0 | Generate and update Cargo.lock without cargo, with a resolvo-based resolver |
-| 2026-10-26 14:01:35 | [dxcomp](https://crates.io/crates/dxcomp) | 0.0.1 | 0 | Prestyled Dioxus components, floating surfaces, and virtual lists |
-| 2026-10-26 14:01:43 | [emu198x-nintendo-game-boy-apu](https://crates.io/crates/emu198x-nintendo-game-boy-apu) | 0.1.0 | 0 | Game Boy DMG APU — four channels (2× square, wave, LFSR noise) mixed to stereo… |
-| 2026-10-26 14:02:56 | [jag-cli](https://crates.io/crates/jag-cli) | 0.0.0 | 0 | Grep with a model that ranks the matches by how well they answer your question.… |
-| 2026-10-26 14:02:58 | [bstk-raft](https://crates.io/crates/bstk-raft) | 0.5.1 | 0 | Raft replication for beanstalkd-rs: every engine input is a log entry, every no… |
-| 2026-10-26 14:03:13 | [baka-ac4-cli](https://crates.io/crates/baka-ac4-cli) | 0.1.0 | 0 | AC-4 decoding command line tool |
-| 2026-10-26 14:04:56 | [nk-store](https://crates.io/crates/nk-store) | 0.15.0 | 0 | Synchronous event stores for the nostr protocol |
-| 2026-10-26 14:08:03 | [ely-project](https://crates.io/crates/ely-project) | 0.1.1 | 0 | Ely's project components for GPUI: boards, timelines, tasks and time tracking. |
-| 2026-10-26 14:08:10 | [rastok-core](https://crates.io/crates/rastok-core) | 0.0.0 | 0 | Name reservation for the core crate of the Rastok project. Public release plann… |
-| 2026-10-26 14:08:23 | [rastok](https://crates.io/crates/rastok) | 0.0.0 | 0 | Name reservation for the Rastok project. Public release planned for November 20… |
-| 2026-10-26 14:09:30 | [qrtxt-winprobe](https://crates.io/crates/qrtxt-winprobe) | 0.1.0 | 0 | Safe terminal capability queries over the Windows console |
-| 2026-10-26 14:11:18 | [dxeditor](https://crates.io/crates/dxeditor) | 0.0.1 | 0 | A Rust rich-text and Markdown editor for Dioxus |
-| 2026-10-26 14:11:45 | [matsya](https://crates.io/crates/matsya) | 0.2.0 | 0 | Lock files and SBOMs for OS package managers: apt, dnf/yum/zypper (rpm), apk, p… |
-| 2026-10-26 14:11:49 | [emu198x-nintendo-game-boy-mbc](https://crates.io/crates/emu198x-nintendo-game-boy-mbc) | 0.1.0 | 0 | Game Boy memory bank controllers (MBC1 / MBC3 / MBC5 + ROM-only) |
-| 2026-10-26 14:13:01 | [bstkd](https://crates.io/crates/bstkd) | 0.5.1 | 0 | A drop-in replacement for beanstalkd in Rust, byte for byte: TLS, authenticatio… |
-| 2026-10-26 14:13:12 | [automata-learning](https://crates.io/crates/automata-learning) | 0.1.0 | 0 | Passive and active learning algorithms for automata (RPNI-style sprout, DPAInf,… |
-| 2026-10-26 14:18:12 | [ely-tooling](https://crates.io/crates/ely-tooling) | 0.1.1 | 0 | Ely's tooling for GPUI: the inspector, render and frame meters, and an event lo… |
+| 2026-10-26 14:20:02 | [quicguard](https://crates.io/crates/quicguard) | 0.1.0 | 0 | WireGuard over a QUIC bridge, with a shared server and client CLI |
+| 2026-10-26 14:21:27 | [dxgraph](https://crates.io/crates/dxgraph) | 0.0.1 | 0 | A content-agnostic Dioxus graph canvas with native Rust layouts |
+| 2026-10-26 14:21:55 | [emu198x-nintendo-game-boy-ppu](https://crates.io/crates/emu198x-nintendo-game-boy-ppu) | 0.1.0 | 0 | Game Boy DMG and CGB PPU — pixel FIFO, BG/window/sprite compositing, 160×144 ou… |
+| 2026-10-26 14:22:34 | [lichexternal-core](https://crates.io/crates/lichexternal-core) | 0.1.1 | 0 | Core protocol models, UCI parsing, and schemas for Lichess External Engine brid… |
+| 2026-10-26 14:23:46 | [runa-fm](https://crates.io/crates/runa-fm) | 0.15.0 | 0 | A fast, keyboard-focused terminal file manager (TUI). Highly configurable and l… |
+| 2026-10-26 14:24:26 | [ledgermill-beancount-parser](https://crates.io/crates/ledgermill-beancount-parser) | 0.16.3 | 0 | A zero-copy parser for Beancount: a fork of beancount-parser-lima without its G… |
+| 2026-10-26 14:25:32 | [ledgermill-beancount-booking](https://crates.io/crates/ledgermill-beancount-booking) | 0.10.5 | 0 | Beancount booking algorithms: a fork of limabean-booking that depends on ledger… |
+| 2026-10-26 14:28:01 | [ely-messaging](https://crates.io/crates/ely-messaging) | 0.1.1 | 0 | Ely's messaging components for GPUI: channels, threads, calls, reactions and pi… |
+| 2026-10-26 14:31:14 | [dxterm](https://crates.io/crates/dxterm) | 0.0.1 | 0 | A Rust terminal component for Dioxus web, desktop and Native |
+| 2026-10-26 14:32:01 | [emu198x-nintendo-game-boy-timer](https://crates.io/crates/emu198x-nintendo-game-boy-timer) | 0.1.0 | 0 | Game Boy DIV / TIMA / TMA / TAC timer block (part of the SM83 SoC) |
+| 2026-10-26 14:38:03 | [ely-misc](https://crates.io/crates/ely-misc) | 0.1.1 | 0 | Ely's assorted components for GPUI: clocks, calculators, codes, web views and m… |
+| 2026-10-26 14:42:06 | [mucad-hash](https://crates.io/crates/mucad-hash) | 0.6.0 | 0 | µcad hash utilities |
+| 2026-10-26 14:42:10 | [emu198x-nintendo-s-ppu](https://crates.io/crates/emu198x-nintendo-s-ppu) | 0.1.0 | 0 | Nintendo S-PPU1 5C77 and S-PPU2 5C78: the SNES picture processor pair, stepped… |
+| 2026-10-26 14:42:31 | [mucad-core](https://crates.io/crates/mucad-core) | 0.6.0 | 0 | µcad core |
+| 2026-10-26 14:43:08 | [chinese-identification-card](https://crates.io/crates/chinese-identification-card) | 10.3.1 | 0 | A Rust library for validating Chinese identification card numbers based on offi… |
+| 2026-10-26 14:43:52 | [mucad-macros](https://crates.io/crates/mucad-macros) | 0.6.0 | 0 | Procedural macros for µcad language and built-ins. |
+| 2026-10-26 14:44:11 | [mucad-lang-base](https://crates.io/crates/mucad-lang-base) | 0.6.0 | 0 | µcad language basics |
+| 2026-10-26 14:44:37 | [mucad-lang-types](https://crates.io/crates/mucad-lang-types) | 0.6.0 | 0 | µcad language types |
+| 2026-10-26 14:45:19 | [mucad-lang-parse](https://crates.io/crates/mucad-lang-parse) | 0.6.0 | 0 | µcad language syntax lexer and parser |
+| 2026-10-26 14:48:02 | [ely-gpui-component](https://crates.io/crates/ely-gpui-component) | 0.1.1 | 0 | A restrained component library for GPUI, in light and dark. |
+| 2026-10-26 14:48:52 | [solana_kit_mpl_token_metadata](https://crates.io/crates/solana_kit_mpl_token_metadata) | 0.0.0 | 0 | Reserved off-chain Token Metadata client crate for the portable Solana Kit SDK |
+| 2026-10-26 14:49:29 | [lon](https://crates.io/crates/lon) | 0.1.0 | 0 | Compact, canonical, lossless JSON codec for AI-first data exchange with self-de… |
+| 2026-10-26 14:50:33 | [win-com-rs](https://crates.io/crates/win-com-rs) | 0.2.0 | 0 | Small owned COM core for Windows: GUIDs, HRESULT errors, interface pointers, ap… |
+| 2026-10-26 14:50:38 | [win-kernel-rs](https://crates.io/crates/win-kernel-rs) | 0.1.2 | 0 | Small owned kernel32 subset for Windows: handles, named pipes, overlapped I/O,… |
+| 2026-10-26 14:50:43 | [win-user-rs](https://crates.io/crates/win-user-rs) | 0.1.4 | 0 | Small owned user32 subset for Windows: windows, input, monitors, DPI, IME, DWM,… |
+| 2026-10-26 14:50:47 | [uiautomation-rs](https://crates.io/crates/uiautomation-rs) | 0.2.0 | 0 | Small owned UI Automation provider subset for Windows: provider interfaces, eve… |
+| 2026-10-26 14:50:52 | [accesskit-windows-rs](https://crates.io/crates/accesskit-windows-rs) | 0.1.2 | 0 | AccessKit adapter for Windows UI Automation on the doom-fish Windows crates |
+| 2026-10-26 14:52:18 | [emu198x-peripheral-commodore-amiga-floppy](https://crates.io/crates/emu198x-peripheral-commodore-amiga-floppy) | 0.1.0 | 0 | Amiga floppy drive mechanism — head positioning, motor control, disk change det… |
+| 2026-10-26 14:54:25 | [ruda-driver-metal](https://crates.io/crates/ruda-driver-metal) | 0.1.104 | 0 | Native Metal driver backend for Ruda |
+| 2026-10-26 14:54:54 | [directmanipulation-rs](https://crates.io/crates/directmanipulation-rs) | 0.2.0 | 0 | Small owned DirectManipulation subset for Windows: the manager, viewports, thei… |
+| 2026-10-26 14:56:51 | [mucad-lang-markdown](https://crates.io/crates/mucad-lang-markdown) | 0.6.0 | 0 | µcad language markdown support |
+| 2026-10-26 15:02:23 | [emu198x-peripheral-commodore-amiga-keyboard](https://crates.io/crates/emu198x-peripheral-commodore-amiga-keyboard) | 0.1.0 | 0 | Amiga keyboard controller emulator — power-up init sequence, rotated keycode tr… |
+| 2026-10-26 15:04:17 | [gled-midi](https://crates.io/crates/gled-midi) | 2.31.1 | 0 | MIDI controllers for gled: the mapping runtime and the ports of a machine or a… |
+| 2026-10-26 15:04:55 | [directwrite-rs](https://crates.io/crates/directwrite-rs) | 0.2.0 | 0 | Small owned DirectWrite subset for Windows: fonts, fallback, text layout, glyph… |
+| 2026-10-26 15:08:21 | [shopify_api_graphql](https://crates.io/crates/shopify_api_graphql) | 1.0.0-rc.1 | 0 | Internal to shopify_api, no semver guarantee: checks Shopify Admin GraphQL oper… |
+| 2026-10-26 15:08:23 | [shopify_api_macros](https://crates.io/crates/shopify_api_macros) | 1.0.0-rc.1 | 0 | The `graphql!` macro of `shopify_api`: Shopify Admin GraphQL operations checked… |
+| 2026-10-26 15:08:38 | [mucad-lang-format](https://crates.io/crates/mucad-lang-format) | 0.6.0 | 0 | µcad language formatter |
+| 2026-10-26 15:12:13 | [mucad-std](https://crates.io/crates/mucad-std) | 0.6.0 | 0 | µcad Standard Library |
+| 2026-10-26 15:12:29 | [emu198x-peripheral-ultimate-uci-net](https://crates.io/crates/emu198x-peripheral-ultimate-uci-net) | 0.1.0 | 0 | Network target of the Ultimate Command Interface, as exposed by 1541 Ultimate-I… |
+| 2026-10-26 15:14:08 | [vcon](https://crates.io/crates/vcon) | 0.1.0 | 0 | A library for vCons. It reads and checks a vCon: form, compression, uuid and cr… |
+| 2026-10-26 15:14:57 | [vcon-server](https://crates.io/crates/vcon-server) | 0.1.0 | 0 | Stores vCons encrypted at rest and returns them to authorised readers. |
+| 2026-10-26 15:14:58 | [directx11-rs](https://crates.io/crates/directx11-rs) | 0.1.2 | 0 | Small owned Direct3D 11, DXGI and DirectComposition subset for Windows: devices… |
+| 2026-10-26 15:15:20 | [bezier_approx](https://crates.io/crates/bezier_approx) | 0.1.0 | 0 | Approximate functions on a box in D dimensions with tensor-product Bézier (Bern… |
+| 2026-10-26 15:16:33 | [sis2zarr](https://crates.io/crates/sis2zarr) | 0.1.0 | 0 | Convert arivis SIS (.sis) files to OME-Zarr |
+| 2026-10-26 15:17:26 | [shm_generational_cache](https://crates.io/crates/shm_generational_cache) | 0.0.1 | 0 | Process-shared, crash-tolerant byte cache with approximate-LRU generational evi… |
 
 ## Data source
 

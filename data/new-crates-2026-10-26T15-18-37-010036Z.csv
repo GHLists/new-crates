@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T14:20:02.794873Z,quicguard,0.1.0,0,0,https://github.com/guptadagger/quicguard,"WireGuard over a QUIC bridge, with a shared server and client CLI"
+2026-10-26T14:21:27.893306Z,dxgraph,0.0.1,0,0,https://github.com/theduke/dxutil,A content-agnostic Dioxus graph canvas with native Rust layouts
+2026-10-26T14:21:55.828997Z,emu198x-nintendo-game-boy-ppu,0.1.0,0,0,https://github.com/emu198x/emu198x,"Game Boy DMG and CGB PPU — pixel FIFO, BG/window/sprite compositing, 160×144 output"
+2026-10-26T14:22:34.98191Z,lichexternal-core,0.1.1,0,0,https://github.com/Chexperts/Lichexternal,"Core protocol models, UCI parsing, and schemas for Lichess External Engine bridges"
+2026-10-26T14:23:46.95551Z,runa-fm,0.15.0,0,0,https://github.com/runa-fm/runa,"A fast, keyboard-focused terminal file manager (TUI). Highly configurable and lightweight."
+2026-10-26T14:24:26.699246Z,ledgermill-beancount-parser,0.16.3,0,0,https://github.com/srod/beancount-parser-lima,"A zero-copy parser for Beancount: a fork of beancount-parser-lima without its GPL files, published for ledgermill"
+2026-10-26T14:25:32.785377Z,ledgermill-beancount-booking,0.10.5,0,0,https://github.com/srod/limabean-booking,"Beancount booking algorithms: a fork of limabean-booking that depends on ledgermill-beancount-parser, published for ledgermill"
+2026-10-26T14:28:01.849547Z,ely-messaging,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's messaging components for GPUI: channels, threads, calls, reactions and pickers."
+2026-10-26T14:31:14.942815Z,dxterm,0.0.1,0,0,https://github.com/theduke/dxutil,"A Rust terminal component for Dioxus web, desktop and Native"
+2026-10-26T14:32:01.469977Z,emu198x-nintendo-game-boy-timer,0.1.0,0,0,https://github.com/emu198x/emu198x,Game Boy DIV / TIMA / TMA / TAC timer block (part of the SM83 SoC)
+2026-10-26T14:38:03.380379Z,ely-misc,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's assorted components for GPUI: clocks, calculators, codes, web views and more."
+2026-10-26T14:42:06.88543Z,mucad-hash,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad hash utilities
+2026-10-26T14:42:10.338273Z,emu198x-nintendo-s-ppu,0.1.0,0,0,https://github.com/emu198x/emu198x,"Nintendo S-PPU1 5C77 and S-PPU2 5C78: the SNES picture processor pair, stepped one dot at a time"
+2026-10-26T14:42:31.770105Z,mucad-core,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad core
+2026-10-26T14:43:08.001312Z,chinese-identification-card,10.3.1,0,0,https://github.com/crates-dev/ctares,A Rust library for validating Chinese identification card numbers based on official rules and checksums.
+2026-10-26T14:43:52.676039Z,mucad-macros,0.6.0,0,0,https://codeberg.org/mucad/mucad,Procedural macros for µcad language and built-ins.
+2026-10-26T14:44:11.546408Z,mucad-lang-base,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad language basics
+2026-10-26T14:44:37.602431Z,mucad-lang-types,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad language types
+2026-10-26T14:45:19.391546Z,mucad-lang-parse,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad language syntax lexer and parser
+2026-10-26T14:48:02.479951Z,ely-gpui-component,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"A restrained component library for GPUI, in light and dark."
+2026-10-26T14:48:52.521492Z,solana_kit_mpl_token_metadata,0.0.0,0,0,https://github.com/pina-rs/solana_kit,Reserved off-chain Token Metadata client crate for the portable Solana Kit SDK
+2026-10-26T14:49:29.778507Z,lon,0.1.0,0,0,https://github.com/fluttercandies/lon,"Compact, canonical, lossless JSON codec for AI-first data exchange with self-describing record tables."
+2026-10-26T14:50:33.859643Z,win-com-rs,0.2.0,0,0,https://github.com/doom-fish/win-com-rs,"Small owned COM core for Windows: GUIDs, HRESULT errors, interface pointers, apartments, server objects, BSTR, VARIANT and PROPVARIANT"
+2026-10-26T14:50:38.587102Z,win-kernel-rs,0.1.2,0,0,https://github.com/doom-fish/win-kernel-rs,"Small owned kernel32 subset for Windows: handles, named pipes, overlapped I/O, events, processes, threads, the thread pool, modules, memory, time, power requests and locale"
+2026-10-26T14:50:43.454559Z,win-user-rs,0.1.4,0,0,https://github.com/doom-fish/win-user-rs,"Small owned user32 subset for Windows: windows, input, monitors, DPI, IME, DWM, clipboard and the OS version"
+2026-10-26T14:50:47.628706Z,uiautomation-rs,0.2.0,0,0,https://github.com/doom-fish/uiautomation-rs,"Small owned UI Automation provider subset for Windows: provider interfaces, events and identifiers"
+2026-10-26T14:50:52.895605Z,accesskit-windows-rs,0.1.2,0,0,https://github.com/doom-fish/accesskit-windows-rs,AccessKit adapter for Windows UI Automation on the doom-fish Windows crates
+2026-10-26T14:52:18.036108Z,emu198x-peripheral-commodore-amiga-floppy,0.1.0,0,0,https://github.com/emu198x/emu198x,"Amiga floppy drive mechanism — head positioning, motor control, disk change detection, MFM track encoding."
+2026-10-26T14:54:25.744525Z,ruda-driver-metal,0.1.104,0,0,https://github.com/shuqi2077/RUDA,Native Metal driver backend for Ruda
+2026-10-26T14:54:54.71436Z,directmanipulation-rs,0.2.0,0,0,https://github.com/doom-fish/directmanipulation-rs,"Small owned DirectManipulation subset for Windows: the manager, viewports, their content and the viewport event handler"
+2026-10-26T14:56:51.083686Z,mucad-lang-markdown,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad language markdown support
+2026-10-26T15:02:23.536477Z,emu198x-peripheral-commodore-amiga-keyboard,0.1.0,0,0,https://github.com/emu198x/emu198x,"Amiga keyboard controller emulator — power-up init sequence, rotated keycode transmission via CIA-A SDR."
+2026-10-26T15:04:17.817039Z,gled-midi,2.31.1,0,0,https://gitlab.com/photonenkollektiv/gled2,MIDI controllers for gled: the mapping runtime and the ports of a machine or a browser
+2026-10-26T15:04:55.590292Z,directwrite-rs,0.2.0,0,0,https://github.com/doom-fish/directwrite-rs,"Small owned DirectWrite subset for Windows: fonts, fallback, text layout, glyph rasterization and renderer callbacks"
+2026-10-26T15:08:21.654049Z,shopify_api_graphql,1.0.0-rc.1,0,0,https://github.com/0xtlt/shopify_api,"Internal to shopify_api, no semver guarantee: checks Shopify Admin GraphQL operations against the schema and generates their Rust types for its `graphql!` macro. Depend on `shopify_api` instead."
+2026-10-26T15:08:23.434653Z,shopify_api_macros,1.0.0-rc.1,0,0,https://github.com/0xtlt/shopify_api,"The `graphql!` macro of `shopify_api`: Shopify Admin GraphQL operations checked at compile time, with typed variables and results."
+2026-10-26T15:08:38.601836Z,mucad-lang-format,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad language formatter
+2026-10-26T15:12:13.830268Z,mucad-std,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad Standard Library
+2026-10-26T15:12:29.193236Z,emu198x-peripheral-ultimate-uci-net,0.1.0,0,0,https://github.com/emu198x/emu198x,"Network target of the Ultimate Command Interface, as exposed by 1541 Ultimate-II and Ultimate 64 hardware"
+2026-10-26T15:14:08.977917Z,vcon,0.1.0,0,0,https://github.com/NormB/vcon-server,"A library for vCons. It reads and checks a vCon: form, compression, uuid and critical extensions."
+2026-10-26T15:14:57.134395Z,vcon-server,0.1.0,0,0,https://github.com/NormB/vcon-server,Stores vCons encrypted at rest and returns them to authorised readers.
+2026-10-26T15:14:58.79904Z,directx11-rs,0.1.2,0,0,https://github.com/doom-fish/directx11-rs,"Small owned Direct3D 11, DXGI and DirectComposition subset for Windows: devices, pipelines, swap chains and run-time shader compilation"
+2026-10-26T15:15:20.309391Z,bezier_approx,0.1.0,0,0,https://github.com/d4per/bezier_approx,Approximate functions on a box in D dimensions with tensor-product Bézier (Bernstein) polynomials
+2026-10-26T15:16:33.13757Z,sis2zarr,0.1.0,0,0,https://github.com/camlloyd/sis2zarr,Convert arivis SIS (.sis) files to OME-Zarr
+2026-10-26T15:17:26.740879Z,shm_generational_cache,0.0.1,0,0,,"Process-shared, crash-tolerant byte cache with approximate-LRU generational eviction, in a fixed-size shared memory mapping with bounded waits"
