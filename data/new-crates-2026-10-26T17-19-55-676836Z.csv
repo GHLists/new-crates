@@ -1,0 +1,82 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T16:20:40.321748Z,container-mount,0.1.0,0,0,https://github.com/daphnediane/container-mount,"Guest-side file server and host client for reaching Linux-guest filesystems over a relayed socket (`\\wsl$`-style), with a mutual-token handshake and a validating host client"
+2026-10-26T16:22:12.563199Z,mucad-export,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad export API
+2026-10-26T16:23:13.984742Z,emu198x-snk-lspc2,0.1.0,0,0,https://github.com/emu198x/emu198x,"SNK LSPC2 video chip and palette: 381 shrinking sprite strips and the fix layer, line-stepped — SNK Neo Geo"
+2026-10-26T16:24:54.05773Z,graphicscapture-rs,0.1.1,0,0,https://github.com/doom-fish/graphicscapture-rs,"Small Windows.Graphics.Capture subset for Windows: monitor capture items, free-threaded Direct3D 11 frame pools and capture sessions"
+2026-10-26T16:25:49.20218Z,bright-term,0.0.1,0,0,https://github.com/moonbase2090/lumen,"Bright Term, the reference terminal for the Lumen protocol."
+2026-10-26T16:25:53.871215Z,lumen-term,0.0.1,0,0,https://github.com/moonbase2090/lumen,Reserved name in the Lumen terminal project.
+2026-10-26T16:25:58.484247Z,lumen-protocol,0.0.1,0,0,https://github.com/moonbase2090/lumen,The Lumen protocol for structured terminal content.
+2026-10-26T16:26:12.995396Z,prismattyc,0.0.1,0,0,https://github.com/moonbase2090/prismattyc,Reserved name for the prismattyc project by Moonbase 2090 LLC.
+2026-10-26T16:26:15.100287Z,lunatui,0.0.1,0,0,https://github.com/moonbase2090/lunatui,Reserved name for the lunatui project by Moonbase 2090 LLC.
+2026-10-26T16:27:47.420811Z,cairn-ai,0.1.0,0,0,https://github.com/whatstask/Cairn,"Durable, governed, model-agnostic agents in Rust."
+2026-10-26T16:30:26.162058Z,miresidian_pack,0.10.0,0,0,https://github.com/MyMires/miresidian,Miresidian 节点发布包整理工具。
+2026-10-26T16:33:20.266891Z,emu198x-sony-s-dsp,0.1.0,0,0,https://github.com/emu198x/emu198x,"Sony S-DSP: the SNES sound generator, eight BRR voices with echo, stepped by its host"
+2026-10-26T16:34:54.099106Z,xaudio2-rs,0.1.1,0,0,https://github.com/doom-fish/xaudio2-rs,"Small owned XAudio2 2.9 subset for Windows, loaded at run time: the engine, mastering and source voices, owned buffers and the engine and voice callbacks"
+2026-10-26T16:36:27.551556Z,rookrunner,0.0.1,0,0,https://github.com/moonbase2090/rookrunner,Reserved name for the rookrunner project by Moonbase 2090 LLC.
+2026-10-26T16:37:22.346404Z,zohal,0.1.0,0,0,https://github.com/kfv/zohal-rs,"Unofficial client for the Zohal (zohal.io) identity, banking and general enquiry API"
+2026-10-26T16:37:22.360692Z,gpty,0.7.0,0,0,https://github.com/godot-pty/gpty,gpty CLI — control the terminal workspace over JSON-RPC IPC
+2026-10-26T16:37:46.865894Z,sisa-caching-core,0.1.0,0,0,https://github.com/sisaio/sisa-caching-rs,"Cache keys, entries, settings and the store contract of Sisa Caching"
+2026-10-26T16:37:51.443859Z,sisa-caching-memory,0.1.0,0,0,https://github.com/sisaio/sisa-caching-rs,"The in-process local store of Sisa Caching, with TTLs and an optional entry limit"
+2026-10-26T16:38:13.270759Z,sisa-caching-redis,0.1.0,0,0,https://github.com/sisaio/sisa-caching-rs,"The Redis-family distributed store of Sisa Caching, tested on Redis, Valkey, Dragonfly and Garnet"
+2026-10-26T16:38:17.901206Z,sisa-caching-hybrid,0.1.0,0,0,https://github.com/sisaio/sisa-caching-rs,"The hybrid store of Sisa Caching: an in-memory layer in front of a Redis-family store, kept coherent across nodes by pub/sub invalidation"
+2026-10-26T16:38:20.366111Z,sisa-caching,0.1.0,0,0,https://github.com/sisaio/sisa-caching-rs,"Composable caching for Rust: an in-memory store, a Redis-family store, and a hybrid that keeps local copies coherent across nodes"
+2026-10-26T16:38:33.068957Z,miresidian_testflow_windows,0.10.0,0,0,https://github.com/MyMires/miresidian,Miresidian TestFlow Windows 自包含 BAT 生成与执行工具。
+2026-10-26T16:38:50.198328Z,cairn-gateway,0.1.0,0,0,https://github.com/whatstask/Cairn,"Drop-in OpenAI- and Anthropic-compatible gateway with budgets, failover and audit."
+2026-10-26T16:39:33.024674Z,mucad-docgen,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad Documentation Generators
+2026-10-26T16:42:19.185725Z,rynx,0.2.0-beta.3,0,0,https://github.com/rry-web/rynx-browser,"A private, hardened terminal web browser with no JavaScript: web, Gemini, Gopher, feeds, and site tools over MCP"
+2026-10-26T16:43:26.71345Z,emu198x-tape-playback,0.1.0,0,0,https://github.com/emu198x/emu198x,Machine-agnostic tape timing spans and playback
+2026-10-26T16:43:28.083927Z,mucad-driver,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad high-level API
+2026-10-26T16:46:39.891972Z,scorecard,0.0.1,0,0,https://github.com/moonbase2090/scorecard,Reserved name for the scorecard project by Moonbase 2090 LLC.
+2026-10-26T16:46:48.746007Z,slain-chacha,0.1.0,0,0,,"Constant-time ChaCha20-Poly1305 AEAD (RFC 8439) with run-time selected AVX2, SSE2, NEON and portable backends; no_std, no allocation in the core API."
+2026-10-26T16:47:01.216864Z,tfhe-common,0.0.0,0,0,,Placeholder for tfhe-common crate
+2026-10-26T16:47:03.725773Z,slain-x25519,0.1.0,0,0,,"Constant-time X25519 key exchange (RFC 7748); no_std core, optional C API."
+2026-10-26T16:47:19.301668Z,slain-aes,0.1.0,0,0,,"Constant-time AES (FIPS 197) and AES-GCM (NIST SP 800-38D) in pure Rust with run-time selected backends; no_std capable, optional C API."
+2026-10-26T16:47:29.159262Z,tls-rs,0.1.0,0,0,https://github.com/doom-fish/tls-rs,Blocking TLS client streams on the TLS of the operating system: SecureTransport on macOS and Schannel on Windows
+2026-10-26T16:47:33.112147Z,zyzyr,0.1.0,0,0,,"ZYZYR: a Zstandard (RFC 8878) decompressor in pure Rust with no dependencies; no_std + alloc core, optional C API."
+2026-10-26T16:47:44.578493Z,tfhe-commons,0.0.0,0,0,,Placeholder for tfhe-commons crate
+2026-10-26T16:48:09.659404Z,tfhe-core,0.0.0,0,0,,Placeholder for tfhe-core crate
+2026-10-26T16:48:35.448808Z,tfhe-core-crypto,0.0.0,0,0,,Placeholder for tfhe-core-crypto crate
+2026-10-26T16:49:07.87584Z,tfhe-shortint,0.0.0,0,0,,Placeholder for tfhe-shortint crate
+2026-10-26T16:50:39.522716Z,aimetadatacleaner-url-tools,0.1.0,0,0,https://github.com/wangneo276-lgtm/aimetadatacleaner-url-tools,"Offline URL builder for AI Metadata Cleaner image, video, and PDF metadata pages. Not an official SDK."
+2026-10-26T16:50:49.630144Z,bse-core,0.1.0,0,0,https://github.com/jarohull-ai/BALD-ENGINE,"BALD domain types, provider contract and gate contract"
+2026-10-26T16:51:03.152566Z,bse-config,0.1.0,0,0,https://github.com/jarohull-ai/BALD-ENGINE,BALD configuration: TOML file + environment overrides
+2026-10-26T16:51:09.989011Z,slain-sha2,0.1.0,0,0,,"SHA-224, SHA-256, SHA-384 and SHA-512 (FIPS 180-4) with run-time selected hardware backends; no_std capable."
+2026-10-26T16:51:14.266302Z,bse-guard,0.1.0,0,0,https://github.com/jarohull-ai/BALD-ENGINE,"BALD deterministic person gate, citation gate and hash-chained audit log"
+2026-10-26T16:51:29.226372Z,bse-fetch,0.1.0,0,0,https://github.com/jarohull-ai/BALD-ENGINE,"BALD HTTP fetcher: SSRF policy, redirects, extraction and local cache"
+2026-10-26T16:51:41.151879Z,slain-p256,0.1.0,0,0,,"Constant-time NIST P-256 and P-384 ECDSA (FIPS 186-5, RFC 6979) and ECDH (SP 800-56A); no_std core, optional C API."
+2026-10-26T16:51:44.705487Z,veo-clip-planner,0.1.0,0,0,https://github.com/theluckystrike/veo-clip-planner,"Plan a target video length as Veo 3.1 clips or Gemini API extensions: clip count, request count, final length and frames, using Google's documented 4/6/8 s clip and 7 s x 20 extension limits."
+2026-10-26T16:52:14.448564Z,mucad,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad Command Line Interface
+2026-10-26T16:52:49.48067Z,bse-index,0.1.0,0,0,https://github.com/jarohull-ai/BALD-ENGINE,BALD local full-text index (Tantivy/BM25) for fetched documents
+2026-10-26T16:53:10.349524Z,teamy-weavy,0.2.3-rc.1,0,0,https://github.com/TeamDman/vox,Teamy fork: shared lowered-program substrate for interpreters and copy-and-patch backends.
+2026-10-26T16:53:33.490168Z,emu198x-ti-sn76489,0.1.0,0,0,https://github.com/emu198x/emu198x,Texas Instruments SN76489 Programmable Sound Generator
+2026-10-26T16:53:39.23035Z,bse-store,0.1.0,0,0,https://github.com/jarohull-ai/BALD-ENGINE,"BALD SQLite store (runs, documents, evidence ledger skeleton)"
+2026-10-26T16:54:28.471488Z,fastwarc-grpc,1.1.0,0,0,https://github.com/chatnoir-eu/chatnoir-resiliparse/,Streaming gRPC server for the FastWARC WARC parser
+2026-10-26T16:55:33.117375Z,cooking-yield,0.1.0,0,0,https://github.com/theluckystrike/cooking-yield,"Raw-to-cooked weight conversion with USDA cooking yields, and calorie density before and after cooking"
+2026-10-26T16:55:43.760599Z,boxfs-api,0.1.3,0,0,https://github.com/xhebox/filesystem-rs,Traits and zero-copy types for file systems served over FUSE-style operations and volume APIs
+2026-10-26T16:55:45.36519Z,boxfs-erofs,0.1.3,0,0,https://github.com/xhebox/filesystem-rs,Read-only EROFS image back-end for boxfs
+2026-10-26T16:55:46.605321Z,boxfs-juicefs,0.1.3,0,0,https://github.com/xhebox/filesystem-rs,"JuiceFS volume back-end for boxfs, linking the Go c-archive"
+2026-10-26T16:55:47.804389Z,boxfs-localpath,0.1.3,0,0,https://github.com/xhebox/filesystem-rs,"Host-directory back-end for boxfs, with every name resolved beneath one descriptor"
+2026-10-26T16:55:48.825435Z,boxfs-memfs,0.1.3,0,0,https://github.com/xhebox/filesystem-rs,"In-memory file system back-end for boxfs, with persistent-tree snapshots"
+2026-10-26T16:56:52.602545Z,lightwell,0.0.1,0,0,https://github.com/moonbase2090/lightwell,Reserved name for the lightwell project by Moonbase 2090 LLC.
+2026-10-26T16:57:51.416779Z,tfhe-integer,0.0.0,0,0,,Placeholder for tfhe-integer crate
+2026-10-26T17:00:02.870787Z,slain-blake3,0.1.0,0,0,,"BLAKE3 hash, keyed hash and key derivation with extendable output; run-time selected AVX2, SSE4.1, SSE2, NEON and portable backends; no_std core, optional C API."
+2026-10-26T17:02:28.417396Z,mb132-sys,0.0.1,0,0,https://github.com/996666925/tauri-runtime-mb,Raw FFI bindings for the Miniblink (mb132) browser engine
+2026-10-26T17:02:55.915355Z,mb132,0.0.1,0,0,https://github.com/996666925/tauri-runtime-mb,"Safe, minimal Rust wrapper around the Miniblink browser engine"
+2026-10-26T17:03:15.980382Z,dbmcp-cli,0.15.1,0,0,https://github.com/haymon-ai/dbmcp,Command-line interface for dbmcp
+2026-10-26T17:03:39.99797Z,tauri-runtime-mb,0.0.1,0,0,https://github.com/996666925/tauri-runtime-mb,Miniblink (mb132) runtime for Tauri 3
+2026-10-26T17:03:40.205204Z,emu198x-ti-tms9918,0.1.0,0,0,https://github.com/emu198x/emu198x,Texas Instruments TMS9918A/9928A/9929A Video Display Processor
+2026-10-26T17:04:30.439735Z,bse-llm,0.1.0,0,0,https://github.com/jarohull-ai/BALD-ENGINE,BALD LLM transport: local Ollama and OpenAI-compatible endpoints
+2026-10-26T17:06:13.975067Z,finetune-server,0.1.0,0,0,https://github.com/hds/tracing-finetune,A web-server that provides an API to control a `tracing-finetune` filter.
+2026-10-26T17:07:04.015878Z,mucad-viewer-ipc,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad Viewer Interprocess Communication API
+2026-10-26T17:07:05.097652Z,vectorvault,0.0.1,0,0,,Reserved name for the vectorvault project by Moonbase 2090 LLC.
+2026-10-26T17:08:58.406848Z,slain-sha3,0.1.0,0,0,,"SHA3-224/256/384/512, SHAKE128/256 and Keccak-256 (FIPS 202) in pure Rust with run-time selected backends; no_std capable, optional C API."
+2026-10-26T17:10:14.886167Z,starlink-ast,0.1.0,0,0,https://github.com/Starlink/starlink-ast-rs,"World coordinate systems for astronomy: a pure-Rust port of the Starlink AST library (FITS-WCS, celestial, spectral and time frames)"
+2026-10-26T17:12:24.780535Z,tfhe-experimental,0.0.0,0,0,,Placeholder for tfhe-experimental crate
+2026-10-26T17:12:25.821326Z,mucad-viewer,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad Viewer
+2026-10-26T17:12:39.570442Z,sqx,0.0.0,0,0,https://github.com/getsqx/sqx,"SQL with proof: build, run and prove your SQL models. Placeholder for the upcoming release."
+2026-10-26T17:13:45.879996Z,emu198x-western-digital-wd1770,0.1.0,0,0,https://github.com/emu198x/emu198x,Western Digital WD1770 floppy disk controller — Tatung Einstein (and the WD177x/179x family)
+2026-10-26T17:13:53.951003Z,bse-providers,0.1.0,0,0,https://github.com/jarohull-ai/BALD-ENGINE,"BALD provider adapters: SearXNG, Brave, offline demo"
+2026-10-26T17:17:17.366644Z,skillsaw,0.0.1,0,0,,Reserved name for the skillsaw project by Moonbase 2090 LLC.
+2026-10-26T17:18:04.93229Z,ledgermill,0.1.0,0,0,https://github.com/srod/ledgermill,Portable ledger engine core: loads journals from memory and answers through typed values.
+2026-10-26T17:19:03.364354Z,slain-crc32c,0.1.0,0,0,,"CRC-32C (Castagnoli) and CRC-32 (IEEE) with run-time selected hardware backends; no_std, no allocation, optional C API."
+2026-10-26T17:19:35.283913Z,ledgermill-wasm,0.1.0,0,0,https://github.com/srod/ledgermill,Thin wasm-bindgen binding over the ledgermill core.
