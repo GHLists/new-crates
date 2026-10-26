@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-25T23:20:13.956595Z,ratscope,0.10.0,0,0,https://github.com/schnnjuan/ratscope,"Terminal dashboard for docker, systemd services, listening ports and hardware — pixel-art TUI"
+2026-10-25T23:26:41.730041Z,snowflake-handlers,0.1.0,0,0,https://github.com/meloncholera/tree-sitter-snowflake.git,"Extract, parse, and check embedded Snowflake procedure and function bodies"
+2026-10-25T23:26:42.792471Z,day-piece-media,0.0.1,0,0,https://github.com/daybrite/day-piece-media,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T23:29:49.17188Z,paperpaw-plugin-hyphenation-nb,1.0.0,0,0,https://github.com/hthoene/paperpaw,PaperPaw hyphenation patterns for Norwegian Bokmål
+2026-10-25T23:31:50.735485Z,paperpaw-plugin-hyphenation-nl,1.0.0,0,0,https://github.com/hthoene/paperpaw,PaperPaw hyphenation patterns for Dutch
+2026-10-25T23:34:54.050237Z,sourceorrery-os,0.3.0,0,0,https://github.com/Netizine/sourceorrery,Operating-system file primitives for SourceOrrery: a new file only its creator can open
+2026-10-25T23:34:54.250594Z,sourceorrery-provider-azure,0.3.0,0,0,https://github.com/Netizine/sourceorrery,Azure Key Vault behind the SourceOrrery secret contract
+2026-10-25T23:36:42.661561Z,day-self-update-core,0.0.1,0,0,https://github.com/daybrite/day-piece-selfupdate,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T23:40:37.939754Z,zmux-h3,1.2.0,0,0,https://github.com/zmuxio/zmux-rs,"HTTP/3 request streams as zmux carriers over h3 and quinn: pipes on requests, client lanes on further requests"
+2026-10-25T23:40:44.962479Z,zmux-http,1.2.0,0,0,https://github.com/zmuxio/zmux-rs,HTTP/1.1 and HTTP/2 exchanges as zmux pipes over hyper: request and response bodies paired
+2026-10-25T23:40:54.201965Z,zmux-rustls,1.2.0,0,0,https://github.com/zmuxio/zmux-rs,"TLS 1.3 pipe carriers for zmux over tokio-rustls, with the exporter wired for carrier-bound joins"
+2026-10-25T23:41:05.843712Z,zmux-websocket,1.2.0,0,0,https://github.com/zmuxio/zmux-rs,WebSocket pipe carriers for zmux over tokio-tungstenite: one message per record
+2026-10-25T23:41:08.473305Z,zmux-webtransport,1.2.0,0,0,https://github.com/zmuxio/zmux-rs,"WebTransport sessions as zmux carriers: pipes on bidirectional streams, lanes on unidirectional ones"
+2026-10-25T23:41:36.930195Z,paperpaw-plugin-hyphenation-pl,1.0.0,0,0,https://github.com/hthoene/paperpaw,PaperPaw hyphenation patterns for Polish
+2026-10-25T23:42:09.309684Z,matchbook-engine,1.0.1,0,0,https://github.com/joaquinbejar/matchbook,"Deterministic, allocation-free limit order book matching engine shared by the Matchbook Solana program and off-chain tools"
+2026-10-25T23:42:11.880969Z,matchbook-program,1.0.1,0,0,https://github.com/joaquinbejar/matchbook,Matchbook: crankless on-chain central limit order book for Solana
+2026-10-25T23:42:16.720967Z,matchbook-client,1.0.1,0,0,https://github.com/joaquinbejar/matchbook,Command-line client and market-making bot for the MatchBook order book on Solana
+2026-10-25T23:44:08.34879Z,base-markdown,0.1.0,0,0,https://github.com/base-rs/base-markdown,CommonMark compliant markdown parser in Rust with ASTs and extensions
+2026-10-25T23:44:19.297163Z,base-design,0.1.0,0,0,https://github.com/base-rs/base-design,Project design requirements and agent skills for authoring and review
+2026-10-25T23:46:28.752181Z,b3bend,0.1.0,0,0,https://github.com/gunta/BLAKE3-bend,"b3sum written in Bend2: a BLAKE3 CLI that hashes many files and big files in parallel, byte-identical to the official b3sum"
+2026-10-25T23:46:42.805804Z,day-piece-self-update,0.0.1,0,0,https://github.com/daybrite/day-piece-selfupdate,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T23:47:16.06659Z,wt-unpack,0.3.0,0,0,https://github.com/patodois/wt-unpack,Reader for Dagor Engine vromfs archives and binary BLK files (War Thunder game data)
+2026-10-25T23:49:11.20861Z,ostiarius,0.1.0,0,0,https://github.com/JustinGeoSci/ostiarius,"Checks that a cargo test gate proves what it claims, by asserting test counts and by running declared mutations that must fail named tests"
+2026-10-25T23:51:40.687998Z,paperpaw-plugin-hyphenation-pt,1.0.0,0,0,https://github.com/hthoene/paperpaw,PaperPaw hyphenation patterns for Portuguese
+2026-10-25T23:52:50.182084Z,system-one-core,0.1.0,0,0,https://github.com/DreamLab-AI/agentbox,"The System One typed-decision protocol in pure Rust: choice / score / noul request and response types, validation, token budgeting, option fitting, state windowing and per-window aggregation. No I/O,…"
+2026-10-25T23:53:07.017556Z,system-one-client,0.1.0,0,0,https://github.com/DreamLab-AI/agentbox,"Async HTTP client for any System One typed-decision endpoint: bearer auth, timeouts, bounded retries on 429/529, and errors that separate transport from timeout from HTTP status from a malformed body."
+2026-10-25T23:56:43.086901Z,day-lite,0.0.1,0,0,https://github.com/daybrite/day-lite,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-25T23:57:43.48533Z,dldota,0.1.0,0,0,https://github.com/KarpelesLab/dldota,Load shared libraries from statically linked programs by bootstrapping the system's own dynamic loader
+2026-10-25T23:59:54.402008Z,ffibox,0.1.0,0,0,https://github.com/crustify-rs/ffibox,Generic smart pointers and lifecycle traits for building safe Rust wrappers over C pointers and types
+2026-10-26T00:01:29.08407Z,base-project,0.1.0,0,0,https://github.com/base-rs/base-project,Shared project conventions and development tasks for Base Rust crates
+2026-10-26T00:01:37.282495Z,paperpaw-plugin-hyphenation-ru,1.0.0,0,0,https://github.com/hthoene/paperpaw,PaperPaw hyphenation patterns for Russian
+2026-10-26T00:04:41.476535Z,espforge-model,0.6.0,0,0,https://github.com/mohankumargupta/espforge,a scaffolding++ tool for creating esp32 no_std esphal without the hassle
+2026-10-26T00:04:57.165691Z,dolang-ext-compress,0.1.0,0,0,https://github.com/dolang-org/dolang,Streaming compression extension for the Do language.
+2026-10-26T00:07:11.482831Z,base-console,0.1.0,0,0,https://github.com/base-rs/base-console,Automatic terminal and JSON diagnostics for tracing
+2026-10-26T00:11:35.781474Z,paperpaw-plugin-hyphenation-sv,1.0.0,0,0,https://github.com/hthoene/paperpaw,PaperPaw hyphenation patterns for Swedish
+2026-10-26T00:15:10.217111Z,espforge-options,0.6.0,0,0,https://github.com/mohankumargupta/espforge,a scaffolding++ tool for creating esp32 no_std esphal without the hassle
+2026-10-26T00:15:31.488594Z,vulnbell,0.1.0,0,0,https://github.com/dertin/vulnbell,Security monitoring and evidence-backed reports for your software
+2026-10-26T00:18:29.107634Z,nprpc-udp,2.1.0,0,0,https://github.com/jamesmunns/nprpc,Blocking UDP clients and servers for nprpc

@@ -8,64 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 23:19 UTC
+## Latest list — 2026-10-26 00:18 UTC
 
-New crates published between 2026-10-25 22:19 UTC and 2026-10-25 23:19 UTC.
+New crates published between 2026-10-25 23:19 UTC and 2026-10-26 00:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-25T23-19-09-82339Z.csv)
+[Full CSV](data/new-crates-2026-10-26T00-18-40-281775Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-25 22:20:53 | [brightwork](https://crates.io/crates/brightwork) | 0.1.0 | 0 | Brightwork: a local-first photo-enhancement library in Rust - hash-pinned ONNX… |
-| 2026-10-25 22:23:22 | [sdr-fec](https://crates.io/crates/sdr-fec) | 0.1.0 | 0 | Forward-error-correction primitives for the MimoSDR codecs: GF fields, Reed-Sol… |
-| 2026-10-25 22:23:22 | [sdr-stream](https://crates.io/crates/sdr-stream) | 1.9.0 | 0 | DigitalStream — the .sdr call container: framing, the P25 and DMR record layout… |
-| 2026-10-25 22:23:24 | [sdr-p25](https://crates.io/crates/sdr-p25) | 0.1.0 | 0 | P25 (Project 25) protocol and codecs: FEC, framing, trunking grammar, the IMBE… |
-| 2026-10-25 22:23:26 | [sdr-decode](https://crates.io/crates/sdr-decode) | 0.10.0 | 0 | Renders a .sdr call archive to 8 kHz PCM and describes it — the one decode shar… |
-| 2026-10-25 22:23:57 | [envoy_extproc_sdk](https://crates.io/crates/envoy_extproc_sdk) | 0.1.0 | 0 | Envoy External Processor SDK for Rust (gRPC, tokio/tonic) |
-| 2026-10-25 22:26:42 | [day-piece-lottie-gallery](https://crates.io/crates/day-piece-lottie-gallery) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 22:30:28 | [invariant-workspace-core](https://crates.io/crates/invariant-workspace-core) | 0.1.0 | 0 | Host-owned capability grants and fail-closed permission checks for INVARIANT |
-| 2026-10-25 22:31:22 | [invariant-broker](https://crates.io/crates/invariant-broker) | 0.1.0 | 0 | Execution-bound capability broker with durable admission, audit and bounded HTT… |
-| 2026-10-25 22:31:51 | [ling-llm](https://crates.io/crates/ling-llm) | 2030.0.2 | 0 | A freestanding (no_std + alloc) GGUF inference engine for Qwen3: reads the mode… |
-| 2026-10-25 22:31:53 | [ling-osdaw](https://crates.io/crates/ling-osdaw) | 2030.0.2 | 0 | LingStation for LingOS: a freestanding (no_std) tracker sequencer and synthesiz… |
-| 2026-10-25 22:31:59 | [ling-body](https://crates.io/crates/ling-body) | 2030.0.2 | 0 | Acoustic body toolkit for Ling: humanoid SDF scaffolds, FDTD wave solver, level… |
-| 2026-10-25 22:32:08 | [ling-daw](https://crates.io/crates/ling-daw) | 2030.0.2 | 0 | Ling DAW engine: synth, physical-modeling drums, effects, mixer, sequencer, pro… |
-| 2026-10-25 22:32:25 | [livequery-core](https://crates.io/crates/livequery-core) | 0.1.0-alpha.2 | 0 | Explicit schemas, registration and safe runtime snapshots |
-| 2026-10-25 22:32:30 | [livequery-query](https://crates.io/crates/livequery-query) | 0.1.0-alpha.2 | 0 | Bounded SQL selection and revision-aware runtime observation |
-| 2026-10-25 22:32:33 | [livequery-transport](https://crates.io/crates/livequery-transport) | 0.1.0-alpha.2 | 0 | Read-only wire protocol and bounded local Unix transport |
-| 2026-10-25 22:32:38 | [livequery-agent](https://crates.io/crates/livequery-agent) | 0.1.0-alpha.2 | 0 | Runtime query dispatch and local agent lifecycle |
-| 2026-10-25 22:33:21 | [omnidrop](https://crates.io/crates/omnidrop) | 0.1.0 | 0 | Ultra-High-Throughput Multi-Path P2P Content-Defined Mesh File & Stream Fabric |
-| 2026-10-25 22:33:53 | [silentmic-rt](https://crates.io/crates/silentmic-rt) | 0.1.0 | 0 | Deterministic, Zero-Allocation Sub-3ms Hard Real-Time Neural Voice Isolator & V… |
-| 2026-10-25 22:35:16 | [omnibrain](https://crates.io/crates/omnibrain) | 0.1.0 | 0 | Embedded Local-First Temporal Semantic Knowledge Graph & Reader Engine |
-| 2026-10-25 22:35:22 | [ling-kernel](https://crates.io/crates/ling-kernel) | 2030.1.37 | 0 | Minimal kernel runtime for Ling — no_std CPU intrinsics, VGA, serial, and boot… |
-| 2026-10-25 22:35:51 | [goldpan](https://crates.io/crates/goldpan) | 0.0.1 | 0 | Analysis of digitized pulses together with their scalar quantities (placeholder… |
-| 2026-10-25 22:36:26 | [goldsluice](https://crates.io/crates/goldsluice) | 0.0.1 | 0 | Reduction of raw digitized pulses to scalar quantities, stored with the pulses… |
-| 2026-10-25 22:36:42 | [day-part-auth](https://crates.io/crates/day-part-auth) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 22:37:15 | [winds-engine](https://crates.io/crates/winds-engine) | 0.1.0 | 0 | Deterministic wind profiles and radiosonde validation for trajectory simulation |
-| 2026-10-25 22:42:22 | [shep-tree](https://crates.io/crates/shep-tree) | 0.17.0 | 0 | Signal a process group, own a Windows job and stop a child and everything it st… |
-| 2026-10-25 22:43:37 | [ai-protocol](https://crates.io/crates/ai-protocol) | 0.1.0 | 0 | Cooperative agent access to HTTP services with shared workload budgets |
-| 2026-10-25 22:44:13 | [rlx-stablehlo](https://crates.io/crates/rlx-stablehlo) | 0.2.19 | 0 | Export RLX graphs as StableHLO MLIR (for IREE and other MLIR toolchains) |
-| 2026-10-25 22:46:42 | [day-part-speech](https://crates.io/crates/day-part-speech) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 22:50:34 | [sa430](https://crates.io/crates/sa430) | 0.1.1 | 0 | A library for the SA430 Sub 1GHz Spectrum Analyzer, from Texas Instruments |
-| 2026-10-25 22:56:43 | [day-part-zeroconf](https://crates.io/crates/day-part-zeroconf) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 22:57:40 | [talos-sdk](https://crates.io/crates/talos-sdk) | 0.1.0 | 0 | Talos SDK for Rust applications: license activation and validation, offline lic… |
-| 2026-10-25 22:58:16 | [rs-ltsv2sqlite](https://crates.io/crates/rs-ltsv2sqlite) | 0.1.0 | 0 | Convert LTSV logs to SQLite database |
-| 2026-10-25 23:03:45 | [ninthsubstrate-core](https://crates.io/crates/ninthsubstrate-core) | 0.0.1 | 0 | Core crate of Ninth Substrate Intelligence Systems LLC: recursive language mode… |
-| 2026-10-25 23:03:49 | [ninthsubstrate](https://crates.io/crates/ninthsubstrate) | 0.0.1 | 0 | Ninth Substrate Intelligence Systems LLC: recursive language model (RLM) buildi… |
-| 2026-10-25 23:05:42 | [speccoder-core](https://crates.io/crates/speccoder-core) | 0.1.0 | 0 | Pure domain types of speccoder: ids, task graph, state machines, command result… |
-| 2026-10-25 23:05:49 | [speccoder-speckit](https://crates.io/crates/speccoder-speckit) | 0.1.0 | 0 | GitHub Spec Kit adapter for speccoder: artifact discovery and tasks.md parsing. |
-| 2026-10-25 23:05:59 | [speccoder-openspec](https://crates.io/crates/speccoder-openspec) | 0.1.0 | 0 | OpenSpec adapter for speccoder: change discovery, tasks.md and spec delta parsi… |
-| 2026-10-25 23:06:42 | [day-piece-crash-reporter](https://crates.io/crates/day-piece-crash-reporter) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 23:07:29 | [speccoder-runtime](https://crates.io/crates/speccoder-runtime) | 0.1.0 | 0 | Application services of speccoder: the only crate that executes anything. |
-| 2026-10-25 23:08:25 | [speccoder-web](https://crates.io/crates/speccoder-web) | 0.1.0 | 0 | speccoder's web interface: a loopback host serving the embedded UI and an API o… |
-| 2026-10-25 23:16:38 | [health-checks](https://crates.io/crates/health-checks) | 0.1.0 | 0 | Health checks modelled on ASP.NET Core's Microsoft.Extensions.Diagnostics.Healt… |
-| 2026-10-25 23:16:42 | [day-piece-camera](https://crates.io/crates/day-piece-camera) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
-| 2026-10-25 23:17:02 | [sntrup-kem](https://crates.io/crates/sntrup-kem) | 0.1.0-rc.0 | 0 | Pure Rust implementation of the Streamlined NTRU Prime KEM for all parameter si… |
-| 2026-10-25 23:17:44 | [rlx-signal](https://crates.io/crates/rlx-signal) | 0.2.19 | 0 | scipy.signal reproduced bit-for-bit: Butterworth design, zpk2sos, lfilter/sosfi… |
-| 2026-10-25 23:18:04 | [paperpaw-plugin-hyphenation-da](https://crates.io/crates/paperpaw-plugin-hyphenation-da) | 1.0.0 | 0 | PaperPaw hyphenation patterns for Danish |
-| 2026-10-25 23:18:05 | [paperpaw-plugin-hyphenation-de](https://crates.io/crates/paperpaw-plugin-hyphenation-de) | 1.0.0 | 0 | PaperPaw hyphenation patterns for German |
-| 2026-10-25 23:18:05 | [paperpaw-plugin-hyphenation-es](https://crates.io/crates/paperpaw-plugin-hyphenation-es) | 1.0.0 | 0 | PaperPaw hyphenation patterns for Spanish |
-| 2026-10-25 23:18:06 | [paperpaw-plugin-hyphenation-fr](https://crates.io/crates/paperpaw-plugin-hyphenation-fr) | 1.0.0 | 0 | PaperPaw hyphenation patterns for French |
-| 2026-10-25 23:18:06 | [paperpaw-plugin-hyphenation-it](https://crates.io/crates/paperpaw-plugin-hyphenation-it) | 1.0.0 | 0 | PaperPaw hyphenation patterns for Italian |
+| 2026-10-25 23:20:13 | [ratscope](https://crates.io/crates/ratscope) | 0.10.0 | 0 | Terminal dashboard for docker, systemd services, listening ports and hardware —… |
+| 2026-10-25 23:26:41 | [snowflake-handlers](https://crates.io/crates/snowflake-handlers) | 0.1.0 | 0 | Extract, parse, and check embedded Snowflake procedure and function bodies |
+| 2026-10-25 23:26:42 | [day-piece-media](https://crates.io/crates/day-piece-media) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 23:29:49 | [paperpaw-plugin-hyphenation-nb](https://crates.io/crates/paperpaw-plugin-hyphenation-nb) | 1.0.0 | 0 | PaperPaw hyphenation patterns for Norwegian Bokmål |
+| 2026-10-25 23:31:50 | [paperpaw-plugin-hyphenation-nl](https://crates.io/crates/paperpaw-plugin-hyphenation-nl) | 1.0.0 | 0 | PaperPaw hyphenation patterns for Dutch |
+| 2026-10-25 23:34:54 | [sourceorrery-os](https://crates.io/crates/sourceorrery-os) | 0.3.0 | 0 | Operating-system file primitives for SourceOrrery: a new file only its creator… |
+| 2026-10-25 23:34:54 | [sourceorrery-provider-azure](https://crates.io/crates/sourceorrery-provider-azure) | 0.3.0 | 0 | Azure Key Vault behind the SourceOrrery secret contract |
+| 2026-10-25 23:36:42 | [day-self-update-core](https://crates.io/crates/day-self-update-core) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 23:40:37 | [zmux-h3](https://crates.io/crates/zmux-h3) | 1.2.0 | 0 | HTTP/3 request streams as zmux carriers over h3 and quinn: pipes on requests, c… |
+| 2026-10-25 23:40:44 | [zmux-http](https://crates.io/crates/zmux-http) | 1.2.0 | 0 | HTTP/1.1 and HTTP/2 exchanges as zmux pipes over hyper: request and response bo… |
+| 2026-10-25 23:40:54 | [zmux-rustls](https://crates.io/crates/zmux-rustls) | 1.2.0 | 0 | TLS 1.3 pipe carriers for zmux over tokio-rustls, with the exporter wired for c… |
+| 2026-10-25 23:41:05 | [zmux-websocket](https://crates.io/crates/zmux-websocket) | 1.2.0 | 0 | WebSocket pipe carriers for zmux over tokio-tungstenite: one message per record |
+| 2026-10-25 23:41:08 | [zmux-webtransport](https://crates.io/crates/zmux-webtransport) | 1.2.0 | 0 | WebTransport sessions as zmux carriers: pipes on bidirectional streams, lanes o… |
+| 2026-10-25 23:41:36 | [paperpaw-plugin-hyphenation-pl](https://crates.io/crates/paperpaw-plugin-hyphenation-pl) | 1.0.0 | 0 | PaperPaw hyphenation patterns for Polish |
+| 2026-10-25 23:42:09 | [matchbook-engine](https://crates.io/crates/matchbook-engine) | 1.0.1 | 0 | Deterministic, allocation-free limit order book matching engine shared by the M… |
+| 2026-10-25 23:42:11 | [matchbook-program](https://crates.io/crates/matchbook-program) | 1.0.1 | 0 | Matchbook: crankless on-chain central limit order book for Solana |
+| 2026-10-25 23:42:16 | [matchbook-client](https://crates.io/crates/matchbook-client) | 1.0.1 | 0 | Command-line client and market-making bot for the MatchBook order book on Solana |
+| 2026-10-25 23:44:08 | [base-markdown](https://crates.io/crates/base-markdown) | 0.1.0 | 0 | CommonMark compliant markdown parser in Rust with ASTs and extensions |
+| 2026-10-25 23:44:19 | [base-design](https://crates.io/crates/base-design) | 0.1.0 | 0 | Project design requirements and agent skills for authoring and review |
+| 2026-10-25 23:46:28 | [b3bend](https://crates.io/crates/b3bend) | 0.1.0 | 0 | b3sum written in Bend2: a BLAKE3 CLI that hashes many files and big files in pa… |
+| 2026-10-25 23:46:42 | [day-piece-self-update](https://crates.io/crates/day-piece-self-update) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 23:47:16 | [wt-unpack](https://crates.io/crates/wt-unpack) | 0.3.0 | 0 | Reader for Dagor Engine vromfs archives and binary BLK files (War Thunder game… |
+| 2026-10-25 23:49:11 | [ostiarius](https://crates.io/crates/ostiarius) | 0.1.0 | 0 | Checks that a cargo test gate proves what it claims, by asserting test counts a… |
+| 2026-10-25 23:51:40 | [paperpaw-plugin-hyphenation-pt](https://crates.io/crates/paperpaw-plugin-hyphenation-pt) | 1.0.0 | 0 | PaperPaw hyphenation patterns for Portuguese |
+| 2026-10-25 23:52:50 | [system-one-core](https://crates.io/crates/system-one-core) | 0.1.0 | 0 | The System One typed-decision protocol in pure Rust: choice / score / noul requ… |
+| 2026-10-25 23:53:07 | [system-one-client](https://crates.io/crates/system-one-client) | 0.1.0 | 0 | Async HTTP client for any System One typed-decision endpoint: bearer auth, time… |
+| 2026-10-25 23:56:43 | [day-lite](https://crates.io/crates/day-lite) | 0.0.1 | 0 | Part of Day, which builds native apps from one Rust codebase. This placeholder… |
+| 2026-10-25 23:57:43 | [dldota](https://crates.io/crates/dldota) | 0.1.0 | 0 | Load shared libraries from statically linked programs by bootstrapping the syst… |
+| 2026-10-25 23:59:54 | [ffibox](https://crates.io/crates/ffibox) | 0.1.0 | 0 | Generic smart pointers and lifecycle traits for building safe Rust wrappers ove… |
+| 2026-10-26 00:01:29 | [base-project](https://crates.io/crates/base-project) | 0.1.0 | 0 | Shared project conventions and development tasks for Base Rust crates |
+| 2026-10-26 00:01:37 | [paperpaw-plugin-hyphenation-ru](https://crates.io/crates/paperpaw-plugin-hyphenation-ru) | 1.0.0 | 0 | PaperPaw hyphenation patterns for Russian |
+| 2026-10-26 00:04:41 | [espforge-model](https://crates.io/crates/espforge-model) | 0.6.0 | 0 | a scaffolding++ tool for creating esp32 no_std esphal without the hassle |
+| 2026-10-26 00:04:57 | [dolang-ext-compress](https://crates.io/crates/dolang-ext-compress) | 0.1.0 | 0 | Streaming compression extension for the Do language. |
+| 2026-10-26 00:07:11 | [base-console](https://crates.io/crates/base-console) | 0.1.0 | 0 | Automatic terminal and JSON diagnostics for tracing |
+| 2026-10-26 00:11:35 | [paperpaw-plugin-hyphenation-sv](https://crates.io/crates/paperpaw-plugin-hyphenation-sv) | 1.0.0 | 0 | PaperPaw hyphenation patterns for Swedish |
+| 2026-10-26 00:15:10 | [espforge-options](https://crates.io/crates/espforge-options) | 0.6.0 | 0 | a scaffolding++ tool for creating esp32 no_std esphal without the hassle |
+| 2026-10-26 00:15:31 | [vulnbell](https://crates.io/crates/vulnbell) | 0.1.0 | 0 | Security monitoring and evidence-backed reports for your software |
+| 2026-10-26 00:18:29 | [nprpc-udp](https://crates.io/crates/nprpc-udp) | 2.1.0 | 0 | Blocking UDP clients and servers for nprpc |
 
 ## Data source
 
