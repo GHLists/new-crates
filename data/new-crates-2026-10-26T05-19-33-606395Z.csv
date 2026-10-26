@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T04:22:58.411009Z,teamy-vox-types,0.10.0-rc.7,0,0,https://github.com/TeamDman/vox,Base types used by vox crates
+2026-10-26T04:25:17.373826Z,ramtree,0.1.0,0,0,https://github.com/dmoore-dwmmholdings/ramtree,"Memory usage TUI: see which processes are using your RAM, and end them safely"
+2026-10-26T04:28:00.647028Z,hearth-tailwind,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T04:31:17.390533Z,pdf-tokenizer,0.1.0,0,0,https://github.com/sheaf-pdf/pdf-lint,"A lossless, zero-copy PDF tokenizer that never rejects and never repairs"
+2026-10-26T04:35:15.905631Z,teamy-vox-core,0.10.0-rc.7,0,0,https://github.com/TeamDman/vox,"Core implementations for Vox connections, lanes, drivers, and links"
+2026-10-26T04:38:11.06091Z,hearth-view,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T04:38:51.26612Z,vt1k,0.1.0,0,0,https://github.com/kryptic-sh/vt1k,"A terminal emulator's screen: escape sequences in, cells, history and modes out"
+2026-10-26T04:40:35.60427Z,uvicorn-rs,0.2.1,0,0,https://github.com/appunni-m/uvicorn-rs,Rust-native HTTP server library
+2026-10-26T04:42:09.913191Z,gry-core,1.0.0,0,0,https://github.com/PizenLabs/gry,"Core domain model, identities, and shared algorithms for gry"
+2026-10-26T04:42:13.783722Z,gry-parse,1.0.0,0,0,https://github.com/PizenLabs/gry,Tree-sitter parsing and language extraction for gry
+2026-10-26T04:42:15.379261Z,gry-store,1.0.0,0,0,https://github.com/PizenLabs/gry,SQLite-backed graph storage for gry
+2026-10-26T04:42:19.051389Z,gry-index,1.0.0,0,0,https://github.com/PizenLabs/gry,Incremental repository indexing pipeline for gry
+2026-10-26T04:42:22.095003Z,gry-query,1.0.0,0,0,https://github.com/PizenLabs/gry,Query engine for gry code knowledge graphs
+2026-10-26T04:45:33.121918Z,teamy-vox-macros-parse,0.10.0-rc.7,0,0,https://github.com/TeamDman/vox,Parser grammar for vox RPC service trait definitions
+2026-10-26T04:47:54.897291Z,hearth-router,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T04:47:58.54706Z,shellflow-text,0.5.0,0,0,https://github.com/longcipher/shellflow,"The shell-text rules shared by the shellflow DSL, runtime, and secrets crates."
+2026-10-26T04:50:16.225766Z,baka-ac4-core,0.1.0,0,0,https://github.com/Zencok/baka-ac4,Pure Rust Dolby AC-4 audio decoder
+2026-10-26T04:51:11.674248Z,pdf-lint,0.1.0,0,0,https://github.com/sheaf-pdf/pdf-lint,Checks PDF files against the Arlington PDF Model
+2026-10-26T04:55:50.585424Z,teamy-vox-macros-core,0.10.0-rc.7,0,0,https://github.com/TeamDman/vox,Code generation core for vox RPC service macros
+2026-10-26T04:58:04.02229Z,hearth-router-macro,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T05:00:09.442251Z,iet-db-sqlite,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Embedded SQLite provider for local/desktop applications. Uses the framework session and migration contracts.
+2026-10-26T05:01:12.223018Z,iet-tauri,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Safe IPC response conventions for explicitly composed Tauri applications.
+2026-10-26T05:02:18.497738Z,iet-ui-tauri,0.1.1,0,0,https://github.com/MasLazu/iet-fw,Rust-authored local UI assets and declarative fragment interactions for Tauri.
+2026-10-26T05:07:09.663891Z,mirabox-n4pro,0.1.0,0,0,https://github.com/kriomant/mirabox,Async Rust API for communicating with the MiraBox N4 Pro
+2026-10-26T05:07:50.617692Z,hearth-view-grammar,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T05:16:01.294781Z,solana_kit_subscriptions,0.0.0,0,0,https://github.com/pina-rs/solana_kit,Reserved off-chain Subscriptions client crate for the portable Solana Kit SDK
