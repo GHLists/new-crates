@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T02:20:45.461576Z,zakura-pir-config,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-10-26T02:20:46.388399Z,zakura-service-config,0.0.0,0,0,https://github.com/zakura-core/zakura,Reserved
+2026-10-26T02:22:14.11884Z,nocturne-unpack,0.2.0,0,0,https://github.com/patodois/nocturne-unpack,Reader for the Unity asset bundles of Shin Megami Tensei III Nocturne HD Remaster
+2026-10-26T02:24:53.284348Z,veryl2chip-sim,1.1.0,0,0,https://github.com/ccc-eda/veryl2chip,"Event-driven simulator for Veryl HDL testbenches ($tb::clock_gen, $assert, VCD), part of veryl2chip"
+2026-10-26T02:25:28.940205Z,veryl2chip-eda,1.1.0,0,0,https://github.com/ccc-eda/veryl2chip,"Veryl HDL to chip: synthesis, iCE40 FPGA place & route and bitstream, ASIC standard-cell flow; part of veryl2chip"
+2026-10-26T02:26:39.00643Z,kohaku-tornadocash-paymaster,0.0.1,0,0,https://github.com/ethereum/kohaku-rs,Tornado Cash 4337 paymaster client
+2026-10-26T02:26:44.880549Z,kohaku-tornadocash-relayer,0.0.1,0,0,https://github.com/ethereum/kohaku-rs,Tornado Cash relayer client
+2026-10-26T02:26:49.903138Z,kohaku-tornadocash-wasm,0.0.1,0,0,https://github.com/ethereum/kohaku-rs,Tornado Cash wasm bindings
+2026-10-26T02:27:37.306111Z,kohaku-tor-rpc,0.0.1,0,0,https://github.com/ethereum/kohaku-rs,Alloy JSON-RPC over Arti with shared or session-isolated circuits
+2026-10-26T02:38:47.618565Z,ocserve-ui-11831-a,0.6.9,0,0,https://github.com/Reliary/ocserve,"Embedded web-UI pack part (1.18.31, part a) for ocserve"
+2026-10-26T02:39:20.450971Z,ocserve-ui-11831-b,0.6.9,0,0,https://github.com/Reliary/ocserve,"Embedded web-UI pack part (1.18.31, part b) for ocserve"
+2026-10-26T02:39:53.326643Z,ocserve-ui-2028-a,0.6.9,0,0,https://github.com/Reliary/ocserve,"Embedded web-UI pack part (2.0.28, part a) for ocserve"
+2026-10-26T02:40:26.132072Z,ocserve-ui-2028-b,0.6.9,0,0,https://github.com/Reliary/ocserve,"Embedded web-UI pack part (2.0.28, part b) for ocserve"
+2026-10-26T02:40:59.235587Z,ocserve-ui-2028-c,0.6.9,0,0,https://github.com/Reliary/ocserve,"Embedded web-UI pack part (2.0.28, part c) for ocserve"
+2026-10-26T02:41:32.337714Z,ocserve-ui-2028-d,0.6.9,0,0,https://github.com/Reliary/ocserve,"Embedded web-UI pack part (2.0.28, part d) for ocserve"
+2026-10-26T02:50:17.539056Z,trfrs,4.10.0,0,0,https://github.com/keithyin/trfrs,Tandem Repeats Finder: Rust port of the reference C implementation
+2026-10-26T02:59:35.75422Z,datumesh-http,0.1.0,0,0,https://github.com/datumesh-com/datumesh-http,"The Datumesh engine behind HTTPS: cell envelopes, batches, slices (JSON and Arrow), receipts, jobs, verification and cross-mesh resolution; the datumesh-mesh server."
+2026-10-26T03:11:08.765553Z,rustmax-macros,0.0.11,0,0,https://github.com/brson/rustmax,Procedural macros for the `rustmax` crate.
+2026-10-26T03:16:51.773593Z,ohos-avplayer-sys,0.1.0,0,0,,Generated OpenHarmony AVPlayer API declarations
+2026-10-26T03:16:55.413847Z,ohos-avplayer-binding,0.1.0,0,0,,Owned OpenHarmony AVPlayer handles and callback-borrowed metadata
+2026-10-26T03:17:11.536291Z,ohos-native-image-sys,0.1.0,0,0,,OpenHarmony NativeImage consumer surface ABI
+2026-10-26T03:17:15.212475Z,ohos-native-image-binding,0.1.0,0,0,,Thin OpenHarmony NativeImage consumers and fenced native buffers
+2026-10-26T03:18:51.629736Z,enkhjile-srw-e2e-core,0.1.0,0,0,https://github.com/enkhjile/semantic-release-workspace-e2e-cargo,Dedicated semantic-release-workspace Cargo acceptance core

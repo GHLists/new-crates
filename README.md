@@ -8,32 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 02:19 UTC
+## Latest list — 2026-10-26 03:18 UTC
 
-New crates published between 2026-10-26 01:19 UTC and 2026-10-26 02:19 UTC.
+New crates published between 2026-10-26 02:19 UTC and 2026-10-26 03:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-26T02-19-20-687109Z.csv)
+[Full CSV](data/new-crates-2026-10-26T03-18-56-133348Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-26 01:19:50 | [cargo-credential-fido](https://crates.io/crates/cargo-credential-fido) | 1.0.1 | 0 | Cargo credential provider that keeps registry tokens encrypted with a FIDO2 sec… |
-| 2026-10-26 01:21:09 | [rutis-migrate](https://crates.io/crates/rutis-migrate) | 0.17.0 | 0 | Migrate Rust code that uses rutis to the next API (0.16 → 0.17: one plugin trai… |
-| 2026-10-26 01:26:17 | [compose-rust-macros](https://crates.io/crates/compose-rust-macros) | 0.0.3 | 0 | The #[composable] attribute for compose-rust's slot table runtime. |
-| 2026-10-26 01:33:32 | [twip](https://crates.io/crates/twip) | 0.0.0 | 0 | DOCX layout, editing and rendering engine. Name reserved; the first release (0.… |
-| 2026-10-26 01:39:27 | [inshellah](https://crates.io/crates/inshellah) | 0.1.3 | 0 | Nushell completions indexed from manpages, native generators, and --help output |
-| 2026-10-26 01:42:14 | [bm78x-tui](https://crates.io/crates/bm78x-tui) | 0.1.0 | 0 | Terminal UI for Brymen BM78xBT Bluetooth multimeters |
-| 2026-10-26 01:45:10 | [bevy_lights](https://crates.io/crates/bevy_lights) | 0.1.0 | 0 | Practical lights for Bevy: fires that flicker and flare as they kindle, a budge… |
-| 2026-10-26 01:45:38 | [flate-zoo](https://crates.io/crates/flate-zoo) | 1.0.0 | 0 | A zoo of DEFLATE encoders behind one interface, for DEFLATE research |
-| 2026-10-26 01:46:48 | [vecnook-accel](https://crates.io/crates/vecnook-accel) | 0.1.0-rc.1 | 0 | Optional SIMD and immutable-generation mmap adapters for Vecnook |
-| 2026-10-26 02:01:27 | [jalapeno](https://crates.io/crates/jalapeno) | 0.0.1 | 0 | Procedural additive tones and harmonic icons in a small Rust toolkit |
-| 2026-10-26 02:04:24 | [unity-bundle](https://crates.io/crates/unity-bundle) | 0.1.0 | 0 | Reads Unity 2018.4 and 2019.4 UnityFS asset bundles and serialized files, and d… |
-| 2026-10-26 02:04:27 | [protokit-sys](https://crates.io/crates/protokit-sys) | 0.7.0 | 0 | Low-level bindings to the protokit library |
-| 2026-10-26 02:04:45 | [openpgm-sys](https://crates.io/crates/openpgm-sys) | 0.7.0 | 0 | Low-level bindings to the openpgm library |
-| 2026-10-26 02:05:07 | [libnorm-sys](https://crates.io/crates/libnorm-sys) | 0.7.0 | 0 | Low-level bindings to the norm library |
-| 2026-10-26 02:07:29 | [hxr-picker](https://crates.io/crates/hxr-picker) | 0.1.0 | 0 | One fzf picker for every coding-agent CLI: list and resume sessions from openco… |
-| 2026-10-26 02:08:43 | [xlite-h2-pool](https://crates.io/crates/xlite-h2-pool) | 0.1.0 | 0 | Native HTTP/2 upstream connection pool with Go-x/net/http2-equivalent per-conne… |
-| 2026-10-26 02:09:01 | [xlite-transport](https://crates.io/crates/xlite-transport) | 0.1.0 | 0 | In-process server-side transport client for AI upstreams: exactly one attempt p… |
-| 2026-10-26 02:09:48 | [xlite](https://crates.io/crates/xlite) | 0.9.0 | 0 | Headless multi-protocol AI traffic gateway. High-concurrency HTTP/2 pooling, ch… |
+| 2026-10-26 02:20:45 | [zakura-pir-config](https://crates.io/crates/zakura-pir-config) | 0.0.0 | 0 | Reserved |
+| 2026-10-26 02:20:46 | [zakura-service-config](https://crates.io/crates/zakura-service-config) | 0.0.0 | 0 | Reserved |
+| 2026-10-26 02:22:14 | [nocturne-unpack](https://crates.io/crates/nocturne-unpack) | 0.2.0 | 0 | Reader for the Unity asset bundles of Shin Megami Tensei III Nocturne HD Remast… |
+| 2026-10-26 02:24:53 | [veryl2chip-sim](https://crates.io/crates/veryl2chip-sim) | 1.1.0 | 0 | Event-driven simulator for Veryl HDL testbenches ($tb::clock_gen, $assert, VCD)… |
+| 2026-10-26 02:25:28 | [veryl2chip-eda](https://crates.io/crates/veryl2chip-eda) | 1.1.0 | 0 | Veryl HDL to chip: synthesis, iCE40 FPGA place & route and bitstream, ASIC stan… |
+| 2026-10-26 02:26:39 | [kohaku-tornadocash-paymaster](https://crates.io/crates/kohaku-tornadocash-paymaster) | 0.0.1 | 0 | Tornado Cash 4337 paymaster client |
+| 2026-10-26 02:26:44 | [kohaku-tornadocash-relayer](https://crates.io/crates/kohaku-tornadocash-relayer) | 0.0.1 | 0 | Tornado Cash relayer client |
+| 2026-10-26 02:26:49 | [kohaku-tornadocash-wasm](https://crates.io/crates/kohaku-tornadocash-wasm) | 0.0.1 | 0 | Tornado Cash wasm bindings |
+| 2026-10-26 02:27:37 | [kohaku-tor-rpc](https://crates.io/crates/kohaku-tor-rpc) | 0.0.1 | 0 | Alloy JSON-RPC over Arti with shared or session-isolated circuits |
+| 2026-10-26 02:38:47 | [ocserve-ui-11831-a](https://crates.io/crates/ocserve-ui-11831-a) | 0.6.9 | 0 | Embedded web-UI pack part (1.18.31, part a) for ocserve |
+| 2026-10-26 02:39:20 | [ocserve-ui-11831-b](https://crates.io/crates/ocserve-ui-11831-b) | 0.6.9 | 0 | Embedded web-UI pack part (1.18.31, part b) for ocserve |
+| 2026-10-26 02:39:53 | [ocserve-ui-2028-a](https://crates.io/crates/ocserve-ui-2028-a) | 0.6.9 | 0 | Embedded web-UI pack part (2.0.28, part a) for ocserve |
+| 2026-10-26 02:40:26 | [ocserve-ui-2028-b](https://crates.io/crates/ocserve-ui-2028-b) | 0.6.9 | 0 | Embedded web-UI pack part (2.0.28, part b) for ocserve |
+| 2026-10-26 02:40:59 | [ocserve-ui-2028-c](https://crates.io/crates/ocserve-ui-2028-c) | 0.6.9 | 0 | Embedded web-UI pack part (2.0.28, part c) for ocserve |
+| 2026-10-26 02:41:32 | [ocserve-ui-2028-d](https://crates.io/crates/ocserve-ui-2028-d) | 0.6.9 | 0 | Embedded web-UI pack part (2.0.28, part d) for ocserve |
+| 2026-10-26 02:50:17 | [trfrs](https://crates.io/crates/trfrs) | 4.10.0 | 0 | Tandem Repeats Finder: Rust port of the reference C implementation |
+| 2026-10-26 02:59:35 | [datumesh-http](https://crates.io/crates/datumesh-http) | 0.1.0 | 0 | The Datumesh engine behind HTTPS: cell envelopes, batches, slices (JSON and Arr… |
+| 2026-10-26 03:11:08 | [rustmax-macros](https://crates.io/crates/rustmax-macros) | 0.0.11 | 0 | Procedural macros for the `rustmax` crate. |
+| 2026-10-26 03:16:51 | [ohos-avplayer-sys](https://crates.io/crates/ohos-avplayer-sys) | 0.1.0 | 0 | Generated OpenHarmony AVPlayer API declarations |
+| 2026-10-26 03:16:55 | [ohos-avplayer-binding](https://crates.io/crates/ohos-avplayer-binding) | 0.1.0 | 0 | Owned OpenHarmony AVPlayer handles and callback-borrowed metadata |
+| 2026-10-26 03:17:11 | [ohos-native-image-sys](https://crates.io/crates/ohos-native-image-sys) | 0.1.0 | 0 | OpenHarmony NativeImage consumer surface ABI |
+| 2026-10-26 03:17:15 | [ohos-native-image-binding](https://crates.io/crates/ohos-native-image-binding) | 0.1.0 | 0 | Thin OpenHarmony NativeImage consumers and fenced native buffers |
+| 2026-10-26 03:18:51 | [enkhjile-srw-e2e-core](https://crates.io/crates/enkhjile-srw-e2e-core) | 0.1.0 | 0 | Dedicated semantic-release-workspace Cargo acceptance core |
 
 ## Data source
 
