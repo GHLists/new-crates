@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T20:23:43.501595Z,emoji-mixer,2.1.0,0,0,https://github.com/MattFor/emoji-mixer,Get a Google Emoji Kitchen mixed emoji .png link from 2 other emojis. (and some more)
+2026-10-26T20:32:38.692216Z,satnogs_api_client,0.4.0,0,0,https://codeberg.org/akira25/satnogs-api-client,A Rust abstraction of the SatNOGS Network API
+2026-10-26T20:33:06.534265Z,unistroke_recognition,0.1.0,0,0,https://github.com/ygharsallah/unistroke_recognition,A unistroke gesture recognition library based on stroke direction similarity.
+2026-10-26T20:34:50.307728Z,chymeral-rust-sdk,1.7.1,0,0,https://github.com/Chymeral/chymeral-rust-sdk,Rust client SDK for the Chymeral Link Protocol
+2026-10-26T20:41:37.14515Z,cleft,0.1.0,0,0,https://github.com/dfrg/winkin,"Unicode character properties, and grapheme, word and line segmentation with dictionaries, case mapping and CSS classes, for no_std."
+2026-10-26T20:54:34.429279Z,pavise-cli,0.1.2,0,0,https://github.com/ahmetmutlugun/pavise,Fast static security analyzer for iOS IPA files
+2026-10-26T20:55:40.825699Z,si-git-commit,0.1.0,0,0,https://github.com/encapsa-ai/si-git-commit,Super Intelligent Git Commit — AI-powered git commit messages and workflow automation with modern model support
+2026-10-26T20:55:50.743561Z,speccoder-verify,0.2.0,0,0,https://github.com/hupe1980/speccoder,"Checks every ticked task of a branch against its signed speccoder evidence: no model, no network, nothing from the branch executed"
+2026-10-26T20:58:11.275794Z,moondial-time,0.1.0,0,0,https://github.com/moondial-engine/moondial,"Time-evaluated state for the Moondial engine: values that are curves over a waterline, computed when read, never ticked, with pausable clock scopes."
+2026-10-26T20:58:12.827361Z,moondial,0.0.2,0,0,https://github.com/moondial-engine/moondial,Moondial: an open-source world engine where every value is computed from the clock when it is read. The driver crate; pre-alpha.
+2026-10-26T21:00:21.698419Z,stable_auto_macros,0.1.0,0,0,https://github.com/bobbothe2nd/stable_auto,Simulating `auto trait`s on stable Rust through blanket `impl`s
+2026-10-26T21:00:23.585191Z,stable_auto,0.1.0,0,0,https://github.com/bobbothe2nd/stable_auto,Simulating `auto trait`s on stable Rust through blanket `impl`s
+2026-10-26T21:09:30.220082Z,isospec,0.1.0+2.6.0,0,0,https://github.com/MatteoLacki/IsoSpec,"Fine-structure isotopic distributions of molecules: the IsoSpec C++ library, built from source, behind a safe Rust API"
+2026-10-26T21:09:37.621934Z,trellis-pg,0.1.0-alpha,0,0,https://github.com/salesforce-misc/trellis,"Streaming SQL transforms (aggregates, JOINs, copies) maintained inside your own Postgres"
+2026-10-26T21:10:05.13049Z,selectl-vision,0.1.0,0,0,https://github.com/philocalyst/dvd,"An embeddable terminal renderer: rio-vt in, a display list of quads, glyphs and images out"
+2026-10-26T21:10:07.125926Z,selectl,0.1.0,0,0,https://github.com/philocalyst/dvd,"Record terminal sessions from .dvd/.tape scripts and asciicasts to SVG, MP4, GIF and PNG"
+2026-10-26T21:10:07.897753Z,selectl-gpui,0.1.0,0,0,https://github.com/philocalyst/dvd,"A terminal view for GPUI applications, drawn by selectl-vision"
+2026-10-26T21:16:14.352603Z,rune-toolchain-edit,0.2.0,0,0,https://github.com/ruvnet/rune,"Confined, hash-checked edit appliers for Rune: pure-Rust exact replace and an Agent Booster Node sidecar"
+2026-10-26T21:16:14.832371Z,rune-toolchain-eval,0.2.0,0,0,https://github.com/ruvnet/rune,Rune's own independent evaluator (ADR 005) and copy-on-write candidate workspace (ADR 007)
+2026-10-26T21:16:15.254466Z,rune-toolchain-gc,0.2.0,0,0,https://github.com/ruvnet/rune,"Ownership manifest, leases and quarantine-first safe cleanup for Rune generated objects (ADR 007)"
+2026-10-26T21:16:15.695775Z,rune-toolchain-memory,0.2.0,0,0,https://github.com/ruvnet/rune,"Evidence and transfer memory for the Rune learning toolchain: recipes, approval keys, ranking, frozen snapshots"
+2026-10-26T21:16:16.152648Z,rune-toolchain-target,0.2.0,0,0,https://github.com/ruvnet/rune,"Hardware contracts, cross builds, executors and the artifact evidence envelope for the Rune learning toolchain"
+2026-10-26T21:16:30.211397Z,crx-gate,0.1.0,0,0,https://github.com/crx-gate/crx-gate,"Zero-dependency CLI for pre-commit extension security, permission blast-radius auditing, and CWS rejection prediction"
