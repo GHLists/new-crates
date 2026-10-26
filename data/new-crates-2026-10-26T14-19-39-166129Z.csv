@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T13:21:10.956596Z,threadteam,0.1.0,0,0,https://github.com/tensor4all/threadteam-rs,"Scoped CPU thread-team placement token: a Pool and a non-Clone Exec with fork, for_ranges, external and broadcast; no Rayon type in the public API."
+2026-10-26T13:21:20.656612Z,emu198x-motorola-pia-6821,0.1.0,0,0,https://github.com/emu198x/emu198x,Motorola MC6821 Peripheral Interface Adapter
+2026-10-26T13:21:43.325544Z,agent-preflight,0.1.0,0,0,https://github.com/GabrielePicco/preflight,Pre-flight guard for coding agents: blocks launch when untrusted instruction files are in reach
+2026-10-26T13:28:14.968744Z,ely-generative,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's generative components for GPUI: prompts, results, galleries and model controls."
+2026-10-26T13:31:25.928601Z,emu198x-motorola-sam-6883,0.1.0,0,0,https://github.com/emu198x/emu198x,Motorola MC6883 Synchronous Address Multiplexer state model
+2026-10-26T13:31:51.772551Z,lazyui-ratatui,0.1.0,0,0,https://github.com/lutianyu2001/lazyui-ratatui,"Lazygit-style panels for Ratatui: rounded windows named with their focus key, corner notes, arrows between windows, scrolling one-line fields"
+2026-10-26T13:38:02.094382Z,ely-mail,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's mail components for GPUI: mailboxes, threads, the composer and scheduling."
+2026-10-26T13:41:31.476922Z,emu198x-motorola-vdg-6847,0.1.0,0,0,https://github.com/emu198x/emu198x,Motorola MC6847 VDG text-mode helpers
+2026-10-26T13:42:00.316769Z,dxcomp-attributes,0.0.1,0,0,https://github.com/theduke/dxutil,Dioxus attribute macros forked from dioxus-attributes for dxcomp-primitives
+2026-10-26T13:42:00.710723Z,dxform,0.0.1,0,0,https://github.com/theduke/dxutil,"Headless form state, validation, and submission for Dioxus"
+2026-10-26T13:42:01.775762Z,dxhighlight,0.0.1,0,0,https://github.com/theduke/dxutil,Tree-sitter highlighting and a read-only code viewer for Dioxus
+2026-10-26T13:42:02.340182Z,dxterm_core,0.0.1,0,0,https://github.com/theduke/dxutil,"Headless terminal model, snapshots and input encoding"
+2026-10-26T13:42:02.766826Z,dxutil,0.0.1,0,0,https://github.com/theduke/dxutil,"Shared IDs, clocks, and browser listeners for Dioxus"
+2026-10-26T13:48:01.218112Z,gasket-ui,0.1.0,0,0,https://github.com/feldenserra/Gasket,Native shell for Gasket apps. This is the crate an application depends on.
+2026-10-26T13:48:03.855063Z,ely-desktop,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's desktop integrations for GPUI: the tray icon, the Dock badge and Omarchy's theme."
+2026-10-26T13:51:24.041848Z,dxcomp-primitives,0.0.1,0,0,https://github.com/theduke/dxutil,Unstyled Dioxus components forked from dioxus-primitives for dxcomp
+2026-10-26T13:51:37.400344Z,emu198x-nec-upd765a,0.1.0,0,0,https://github.com/emu198x/emu198x,"NEC µPD765A floppy disk controller, clocked and wired by its host"
+2026-10-26T13:52:36.562167Z,bstk-proto,0.5.1,0,0,https://github.com/shaunlee/beanstalkd-rs,"The beanstalkd wire protocol in Rust: command parsing, response encoding and stats types"
+2026-10-26T13:52:45.84435Z,bstk-engine-oracle,0.5.1,0,0,https://github.com/shaunlee/beanstalkd-rs,"A frozen copy of bstk-engine, used only as the differential-test oracle of beanstalkd-rs"
+2026-10-26T13:52:53.329122Z,bstk-engine,0.5.1,0,0,https://github.com/shaunlee/beanstalkd-rs,"The deterministic beanstalkd state machine in Rust: jobs, tubes, priorities, TTR, delays and pause, with no I/O or clock"
+2026-10-26T13:53:00.002684Z,bstk-net,0.5.1,0,0,https://github.com/shaunlee/beanstalkd-rs,Tokio codec and socket helpers for the beanstalkd protocol
+2026-10-26T13:53:13.000164Z,bstk-store,0.5.1,0,0,https://github.com/shaunlee/beanstalkd-rs,"The crash-safe write-ahead log behind beanstalkd-rs: preallocated segments, fsync policies, compaction and replay"
+2026-10-26T13:56:06.5932Z,wsi-annotation-tests,0.1.3,0,0,https://github.com/frames-sg/wsi-annotation-tests,"DICOM Annotation Test Suite for WSI ANN, SEG, SR, and Parametric Map"
+2026-10-26T13:58:02.670769Z,ely-media,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's media components for GPUI: pictures, video, audio and the controls around them."
+2026-10-26T13:59:50.746933Z,resolvo-cargo,0.1.0,0,0,https://github.com/baszalmstra/resolvo-cargo,"Generate and update Cargo.lock without cargo, with a resolvo-based resolver"
+2026-10-26T14:01:35.611794Z,dxcomp,0.0.1,0,0,https://github.com/theduke/dxutil,"Prestyled Dioxus components, floating surfaces, and virtual lists"
+2026-10-26T14:01:43.301818Z,emu198x-nintendo-game-boy-apu,0.1.0,0,0,https://github.com/emu198x/emu198x,"Game Boy DMG APU — four channels (2× square, wave, LFSR noise) mixed to stereo f32"
+2026-10-26T14:02:56.755026Z,jag-cli,0.0.0,0,0,https://github.com/ai-ready-future/jag,Grep with a model that ranks the matches by how well they answer your question. This version holds no program.
+2026-10-26T14:02:58.440708Z,bstk-raft,0.5.1,0,0,https://github.com/shaunlee/beanstalkd-rs,"Raft replication for beanstalkd-rs: every engine input is a log entry, every node replies for its own connections"
+2026-10-26T14:03:13.073667Z,baka-ac4-cli,0.1.0,0,0,https://github.com/Zencok/baka-ac4,AC-4 decoding command line tool
+2026-10-26T14:04:56.470263Z,nk-store,0.15.0,0,0,https://github.com/qntx/nostr,Synchronous event stores for the nostr protocol
+2026-10-26T14:08:03.324963Z,ely-project,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's project components for GPUI: boards, timelines, tasks and time tracking."
+2026-10-26T14:08:10.439021Z,rastok-core,0.0.0,0,0,,Name reservation for the core crate of the Rastok project. Public release planned for November 2026.
+2026-10-26T14:08:23.267458Z,rastok,0.0.0,0,0,,Name reservation for the Rastok project. Public release planned for November 2026.
+2026-10-26T14:09:30.775094Z,qrtxt-winprobe,0.1.0,0,0,https://github.com/can2049/qrtxt,Safe terminal capability queries over the Windows console
+2026-10-26T14:11:18.361389Z,dxeditor,0.0.1,0,0,https://github.com/theduke/dxutil,A Rust rich-text and Markdown editor for Dioxus
+2026-10-26T14:11:45.840704Z,matsya,0.2.0,0,0,https://github.com/dmdhrumilmistry/matsya,"Lock files and SBOMs for OS package managers: apt, dnf/yum/zypper (rpm), apk, pacman and Homebrew"
+2026-10-26T14:11:49.076928Z,emu198x-nintendo-game-boy-mbc,0.1.0,0,0,https://github.com/emu198x/emu198x,Game Boy memory bank controllers (MBC1 / MBC3 / MBC5 + ROM-only)
+2026-10-26T14:13:01.610492Z,bstkd,0.5.1,0,0,https://github.com/shaunlee/beanstalkd-rs,"A drop-in replacement for beanstalkd in Rust, byte for byte: TLS, authentication, Prometheus metrics and Raft replication"
+2026-10-26T14:13:12.967093Z,automata-learning,0.1.0,0,0,https://github.com/leonbohn/automata-learning,"Passive and active learning algorithms for automata (RPNI-style sprout, DPAInf, L*)."
+2026-10-26T14:18:12.789872Z,ely-tooling,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's tooling for GPUI: the inspector, render and frame meters, and an event logger."
