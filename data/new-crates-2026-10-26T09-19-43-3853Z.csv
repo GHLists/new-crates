@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T08:19:12.252287Z,lyr-shell,0.1.0,0,0,https://github.com/kryptic-sh/lyr,"Bar and popup windows for lyr over crcbl-shell: outputs, placement and input."
+2026-10-26T08:19:14.099316Z,waclay-wasmer,2.0.1,0,0,https://github.com/HemantKArya/waclay,wasmer (Cranelift JIT) backend for Waclay; not built on Windows.
+2026-10-26T08:19:40.709244Z,billion-context-tool,0.1.0,0,0,https://github.com/MoRanYue/billion-context-rs,Tool-call adapter: exposes billion-context's fold and retrieve to a model
+2026-10-26T08:19:43.585326Z,waclay-cli,2.0.1,0,0,https://github.com/HemantKArya/waclay,Command-line tool to inspect and run WebAssembly components on any Waclay engine.
+2026-10-26T08:19:53.883708Z,lyr-render,0.1.0,0,0,https://github.com/kryptic-sh/lyr,"Rendering for lyr: draw lists through crcbl's GPU layer, and fonts."
+2026-10-26T08:20:34.376301Z,lyr-sources,0.1.0,0,0,https://github.com/kryptic-sh/lyr,"Module data sources for lyr: audio, network, bluetooth, battery, power, tray and notifications."
+2026-10-26T08:20:44.130648Z,justssh,0.1.0,0,0,https://github.com/kihyun1998/justssh,"Sans-IO SSH client and server: transport, authentication and connection state machines"
+2026-10-26T08:21:24.933439Z,lyr-bin,0.1.0,0,0,https://github.com/kryptic-sh/lyr,"A desktop status bar for Linux (Wayland), Windows and macOS."
+2026-10-26T08:21:37.567013Z,justssh-keys,0.1.0,0,0,https://github.com/kihyun1998/justssh,"Private key files for justssh: OpenSSH keys read and written, PPK and PEM keys read"
+2026-10-26T08:22:14.774612Z,biscuit-quote-atestum,0.4.0-r1,0,0,https://github.com/atestum/biscuit-rust,macros for compile time datalog parsing for Biscuit authorization tokens
+2026-10-26T08:22:36.996893Z,reifydb-wal,0.10.0,0,0,https://github.com/reifydb/reifydb,Typed write-ahead log over the segmented log store
+2026-10-26T08:22:42.751705Z,panweave-hub,0.3.0,0,0,https://github.com/ARyaskov/panweave,"Panweave Zigbee hub: device registry, interview, IAS Zone and lighting logic, and the Panweave Hub Protocol shared with host applications"
+2026-10-26T08:22:47.747036Z,justssh-tokio,0.1.0,0,0,https://github.com/kihyun1998/justssh,Tokio adapter that drives the justssh sans-IO core over TCP
+2026-10-26T08:25:10.143387Z,marklab-cli,0.2.8,0,0,https://github.com/lyonbrown4d/marklab,"Standalone, local Markdown export and publishing CLI"
+2026-10-26T08:28:16.754407Z,tetraglass-export,0.2.0,0,0,https://github.com/Tetraglass/tetraglass,Scene exporters for Binary glTF 2.0 (.glb) and the renderer-neutral Blender bundle format.
+2026-10-26T08:29:03.754107Z,biscuit-auth-atestum,7.0.0-r1,0,0,https://github.com/atestum/biscuit-rust,an authorization token with decentralized verification and offline attenuation
+2026-10-26T08:29:21.730237Z,teamy-vox-stream,0.10.0-rc.7,0,0,https://github.com/TeamDman/vox,"Byte-stream transport (TCP, Unix, stdio) for vox — length-prefix framing over AsyncRead/AsyncWrite"
+2026-10-26T08:32:32.835714Z,diskhalo,0.1.0,0,0,https://github.com/Eeman1113/diskhalo,"See what's eating your disk — as a sunburst or a treemap, in your terminal."
+2026-10-26T08:33:38.24341Z,oxaria,0.1.0,0,0,https://github.com/BaptisteRoseau/oxaria,"Check a web page against a curated set of accessibility rules such as WCAG 2.2, WAI-ARIA 1.2, ARIA in HTML and ACT."
+2026-10-26T08:33:54.095104Z,reifydb-flow-async,0.10.0,0,0,https://github.com/reifydb/reifydb,Flow execution substrate: the flow transaction/state layer and the operator contract
+2026-10-26T08:36:33.042499Z,reifydb-flow-sync,0.10.0,0,0,https://github.com/reifydb/reifydb,Transactional view flows maintained inside the user transaction
+2026-10-26T08:39:56.374851Z,teamy-vox,0.10.0-rc.7,0,0,https://github.com/TeamDman/vox,Core Vox library crate
+2026-10-26T08:42:00.85776Z,sortition,0.1.1,0,0,https://github.com/small-gear-lab/libsortition,Minimal unbiased random lottery (sampling without replacement) core with a C ABI
+2026-10-26T08:43:02.131995Z,sortition-cli,0.1.1,0,0,https://github.com/small-gear-lab/libsortition,"Command-line tool to draw winners reproducibly from a list, and to verify a recorded draw (libsortition)"
+2026-10-26T08:48:11.825708Z,reifydb-console-protocol,0.10.0,0,0,https://github.com/reifydb/reifydb,Tunnel protocol between a ReifyDB instance and the console
+2026-10-26T08:48:37.203624Z,hearth-asset,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T08:48:44.863431Z,hearth-cookie,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T08:48:53.243585Z,hearth-datastar,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T08:48:58.5904Z,hearth-htmx,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T08:49:10.268299Z,hearth-mail,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T08:49:46.249588Z,daemonize-next,0.1.0,0,0,https://github.com/MohibShaikh/daemonize-next,"Drop-in replacement for the unmaintained daemonize crate, with its privilege-drop and error-reporting bugs fixed"
+2026-10-26T08:50:59.44215Z,nazz-core,0.1.0,0,0,https://github.com/open-ai-sdk/nazz-core,"Agent identity, scope, grants, and execution contracts."
+2026-10-26T08:51:14.81368Z,nazz-storage,0.1.0,0,0,https://github.com/open-ai-sdk/nazz-core,Host-neutral storage ports and durable execution protocol types.
+2026-10-26T08:51:22.016038Z,teamy-vox-proto,0.2.2,0,0,,Service definitions used by the canonical vox compliance suite
+2026-10-26T08:52:09.275828Z,nazz-runtime,0.1.0,0,0,https://github.com/open-ai-sdk/nazz-core,Rig step driver with effect reconciliation. No second inference loop.
+2026-10-26T08:52:19.293845Z,nazz-sandbox,0.1.0,0,0,https://github.com/open-ai-sdk/nazz-core,Host-approved operating system sandbox for agent execution.
+2026-10-26T08:57:20.271348Z,codeatlas-domain,0.3.1,0,0,https://github.com/giauphan/codeatlas-mcp-rust,"Pure domain models, entities, value objects, and port traits for CodeAtlas"
+2026-10-26T08:58:00.460582Z,codeatlas-application,0.3.1,0,0,https://github.com/giauphan/codeatlas-mcp-rust,Application layer use cases and orchestrators for CodeAtlas
+2026-10-26T08:58:20.141818Z,hearth-view-macro,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T08:58:38.382135Z,codeatlas-infrastructure,0.3.1,0,0,https://github.com/giauphan/codeatlas-mcp-rust,"Infrastructure engines: Tree-sitter parsers, petgraph store, file watchers, and caching"
+2026-10-26T08:59:23.290108Z,codeatlas-adapters,0.3.1,0,0,https://github.com/giauphan/codeatlas-mcp-rust,"Interface adapters: MCP stdio transport, CLI controllers, and outbound clients"
+2026-10-26T09:01:52.598637Z,blochs,0.1.0,0,0,https://github.com/qompassai/bloch,"Ranked, budgeted codebase maps for coding agents with session handoff fidelity"
+2026-10-26T09:04:33.820742Z,brz-socket-io-macros,0.0.1,0,0,https://github.com/we-breeze/socket-io,Namespace and event exports for brz-socket-io
+2026-10-26T09:06:30.304181Z,proptest-z3,0.1.0,0,0,https://github.com/asobininn/z3-toolkit/tree/main/crates/proptest-z3,"Generate test inputs with name dependencies for proptest: build the skeleton with strategies, solve the relations with z3"
+2026-10-26T09:07:02.740282Z,brz-socket-io,0.0.1,0,0,https://github.com/we-breeze/socket-io,Provider-based Socket.IO services for Breeze applications
+2026-10-26T09:08:39.583909Z,hearth-font,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T09:11:29.394874Z,bevy_assets_hmr,0.1.0,0,0,https://github.com/remloyal/bevy_assets_hmr,Minimal config-file hot-reload for Bevy 0.20: watch a RON/JSON (or custom-format) file and read it from a Resource anywhere.
+2026-10-26T09:13:01.912917Z,codeatlas-cli,0.3.1,0,0,https://github.com/giauphan/codeatlas-mcp-rust,High-performance Rust MCP server for CodeAtlas
+2026-10-26T09:15:21.50881Z,easy-api,0.1.2,0,0,https://github.com/JoshRuds/easy-api,A lightweight Rust HTTP API server with callback-based endpoints
+2026-10-26T09:17:23.966086Z,orbiv-macros,0.3.0,0,0,,"Orbit, the migration framework."
+2026-10-26T09:18:00.244503Z,hearth-icon,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."

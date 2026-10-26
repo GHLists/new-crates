@@ -8,45 +8,65 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 08:19 UTC
+## Latest list — 2026-10-26 09:19 UTC
 
-New crates published between 2026-10-26 07:20 UTC and 2026-10-26 08:19 UTC.
+New crates published between 2026-10-26 08:19 UTC and 2026-10-26 09:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-26T08-19-07-85875Z.csv)
+[Full CSV](data/new-crates-2026-10-26T09-19-43-3853Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-26 07:20:54 | [tokeai](https://crates.io/crates/tokeai) | 0.0.1 | 0 | Keeps your tokens out of your AI agent's reach. Early development. |
-| 2026-10-26 07:28:18 | [obeliskd](https://crates.io/crates/obeliskd) | 0.1.2 | 0 | Local-dev DNS and IP allocation (supernets, subnets, ips, hosts under obd.inter… |
-| 2026-10-26 07:36:49 | [gudo](https://crates.io/crates/gudo) | 0.0.1 | 0 | Work in progress |
-| 2026-10-26 07:37:51 | [vaza](https://crates.io/crates/vaza) | 0.0.1 | 0 | Work in progress |
-| 2026-10-26 07:40:04 | [tempmail-rs](https://crates.io/crates/tempmail-rs) | 0.1.0 | 0 | Fast, async unofficial Temp-Mail SDK and CLI in Rust |
-| 2026-10-26 07:53:04 | [chertmem](https://crates.io/crates/chertmem) | 0.1.0 | 0 | Persistent, partitioned memory for coding agents |
-| 2026-10-26 07:54:00 | [marklab-document](https://crates.io/crates/marklab-document) | 0.2.8 | 0 | Shared local document rendering for Marklab |
-| 2026-10-26 07:56:07 | [redisevents](https://crates.io/crates/redisevents) | 0.2.0 | 0 | Wire-compatible Rust port of RedisEvents: partitioned Redis Streams topics, per… |
-| 2026-10-26 07:58:35 | [ferrohealth-secret](https://crates.io/crates/ferrohealth-secret) | 0.0.0 | 0 | The secrets and redaction of the FerroHEALTH products: secret values, file-held… |
-| 2026-10-26 07:59:38 | [ferrohealth-config](https://crates.io/crates/ferrohealth-config) | 0.0.0 | 0 | The configuration loader of the FerroHEALTH products: TOML with environment ove… |
-| 2026-10-26 08:00:39 | [ferrohealth-telemetry](https://crates.io/crates/ferrohealth-telemetry) | 0.0.0 | 0 | The logging and OpenTelemetry of the FerroHEALTH products: the console log, the… |
-| 2026-10-26 08:01:40 | [ferrohealth-health](https://crates.io/crates/ferrohealth-health) | 0.0.0 | 0 | The health checks of the FerroHEALTH products: the readiness document, the indi… |
-| 2026-10-26 08:02:42 | [ferrohealth-server](https://crates.io/crates/ferrohealth-server) | 0.0.0 | 0 | The server plumbing of the FerroHEALTH products: the HTTP stack, the graceful d… |
-| 2026-10-26 08:03:44 | [ferrohealth-usage-report](https://crates.io/crates/ferrohealth-usage-report) | 0.0.0 | 0 | The installation usage report of the FerroHEALTH products to FerroPULSE, on its… |
-| 2026-10-26 08:04:43 | [alwith-module-store](https://crates.io/crates/alwith-module-store) | 0.1.0 | 0 | Named JSON key-value stores with atomic writes, backups and change broadcast fo… |
-| 2026-10-26 08:05:21 | [acyclic](https://crates.io/crates/acyclic) | 0.0.0 | 0 | Reserved. |
-| 2026-10-26 08:14:28 | [msime-script-sdk](https://crates.io/crates/msime-script-sdk) | 0.1.0 | 0 | Rust bindings for the 水杉输入法 (Metasequoia IME) desktop script plugin ABI v1: no_… |
-| 2026-10-26 08:16:54 | [obeliskd-cli](https://crates.io/crates/obeliskd-cli) | 0.1.2 | 0 | obeliskd: a local-dev DNS server and IP allocator (the daemon and its CLI) |
-| 2026-10-26 08:17:48 | [waclay-wasmi](https://crates.io/crates/waclay-wasmi) | 2.0.1 | 0 | wasmi interpreter backend for Waclay — the reference implementation. |
-| 2026-10-26 08:18:11 | [biscuit-parser-atestum](https://crates.io/crates/biscuit-parser-atestum) | 0.2.0-r1 | 0 | Datalog parser used in the biscuit-auth and biscuit-quote crates |
-| 2026-10-26 08:18:12 | [tex2word-latexwalker](https://crates.io/crates/tex2word-latexwalker) | 2.0.0 | 0 | A Rust port of pylatexenc's LaTeX walker (node tree, macro specs, latex2text) f… |
-| 2026-10-26 08:18:17 | [tex2word-bib](https://crates.io/crates/tex2word-bib) | 2.0.0 | 0 | tex2word bibliography: BibTeX/.bbl parsing and citation rendering |
-| 2026-10-26 08:18:27 | [redisevents-msgpack](https://crates.io/crates/redisevents-msgpack) | 0.2.0 | 0 | MessagePack typed publish/consume for redisevents, with MessagePack-CSharp comp… |
-| 2026-10-26 08:18:29 | [redisevents-projections](https://crates.io/crates/redisevents-projections) | 0.2.0 | 0 | Typed event projections and view stores over any redisevents topic. |
-| 2026-10-26 08:18:35 | [redisevents-restate](https://crates.io/crates/redisevents-restate) | 0.2.0 | 0 | Batched Restate workflow starts from a redisevents stream. |
-| 2026-10-26 08:18:35 | [grobx](https://crates.io/crates/grobx) | 0.73.0 | 0 | Reduced Gröbner bases of polynomial ideals over GF(p) and over the rationals |
-| 2026-10-26 08:18:41 | [redisevents-axum](https://crates.io/crates/redisevents-axum) | 0.2.0 | 0 | Admin endpoints and health checks for redisevents, on axum. |
-| 2026-10-26 08:18:42 | [lyr-core](https://crates.io/crates/lyr-core) | 0.1.0 | 0 | Platform-free core of lyr: module state, formats, layout, draw lists and hit te… |
-| 2026-10-26 08:18:44 | [redisevents-eventsourcing](https://crates.io/crates/redisevents-eventsourcing) | 0.2.0 | 0 | Event-sourced aggregates and an optimistic-concurrency repository on redisevent… |
-| 2026-10-26 08:18:51 | [waclay-wasmtime](https://crates.io/crates/waclay-wasmtime) | 2.0.1 | 0 | wasmtime (Cranelift JIT) backend for Waclay — near-native performance. |
-| 2026-10-26 08:18:52 | [teamy-vox-service-macros](https://crates.io/crates/teamy-vox-service-macros) | 0.10.0-rc.7 | 0 | Procedural macros for vox RPC services |
+| 2026-10-26 08:19:12 | [lyr-shell](https://crates.io/crates/lyr-shell) | 0.1.0 | 0 | Bar and popup windows for lyr over crcbl-shell: outputs, placement and input. |
+| 2026-10-26 08:19:14 | [waclay-wasmer](https://crates.io/crates/waclay-wasmer) | 2.0.1 | 0 | wasmer (Cranelift JIT) backend for Waclay; not built on Windows. |
+| 2026-10-26 08:19:40 | [billion-context-tool](https://crates.io/crates/billion-context-tool) | 0.1.0 | 0 | Tool-call adapter: exposes billion-context's fold and retrieve to a model |
+| 2026-10-26 08:19:43 | [waclay-cli](https://crates.io/crates/waclay-cli) | 2.0.1 | 0 | Command-line tool to inspect and run WebAssembly components on any Waclay engin… |
+| 2026-10-26 08:19:53 | [lyr-render](https://crates.io/crates/lyr-render) | 0.1.0 | 0 | Rendering for lyr: draw lists through crcbl's GPU layer, and fonts. |
+| 2026-10-26 08:20:34 | [lyr-sources](https://crates.io/crates/lyr-sources) | 0.1.0 | 0 | Module data sources for lyr: audio, network, bluetooth, battery, power, tray an… |
+| 2026-10-26 08:20:44 | [justssh](https://crates.io/crates/justssh) | 0.1.0 | 0 | Sans-IO SSH client and server: transport, authentication and connection state m… |
+| 2026-10-26 08:21:24 | [lyr-bin](https://crates.io/crates/lyr-bin) | 0.1.0 | 0 | A desktop status bar for Linux (Wayland), Windows and macOS. |
+| 2026-10-26 08:21:37 | [justssh-keys](https://crates.io/crates/justssh-keys) | 0.1.0 | 0 | Private key files for justssh: OpenSSH keys read and written, PPK and PEM keys… |
+| 2026-10-26 08:22:14 | [biscuit-quote-atestum](https://crates.io/crates/biscuit-quote-atestum) | 0.4.0-r1 | 0 | macros for compile time datalog parsing for Biscuit authorization tokens |
+| 2026-10-26 08:22:36 | [reifydb-wal](https://crates.io/crates/reifydb-wal) | 0.10.0 | 0 | Typed write-ahead log over the segmented log store |
+| 2026-10-26 08:22:42 | [panweave-hub](https://crates.io/crates/panweave-hub) | 0.3.0 | 0 | Panweave Zigbee hub: device registry, interview, IAS Zone and lighting logic, a… |
+| 2026-10-26 08:22:47 | [justssh-tokio](https://crates.io/crates/justssh-tokio) | 0.1.0 | 0 | Tokio adapter that drives the justssh sans-IO core over TCP |
+| 2026-10-26 08:25:10 | [marklab-cli](https://crates.io/crates/marklab-cli) | 0.2.8 | 0 | Standalone, local Markdown export and publishing CLI |
+| 2026-10-26 08:28:16 | [tetraglass-export](https://crates.io/crates/tetraglass-export) | 0.2.0 | 0 | Scene exporters for Binary glTF 2.0 (.glb) and the renderer-neutral Blender bun… |
+| 2026-10-26 08:29:03 | [biscuit-auth-atestum](https://crates.io/crates/biscuit-auth-atestum) | 7.0.0-r1 | 0 | an authorization token with decentralized verification and offline attenuation |
+| 2026-10-26 08:29:21 | [teamy-vox-stream](https://crates.io/crates/teamy-vox-stream) | 0.10.0-rc.7 | 0 | Byte-stream transport (TCP, Unix, stdio) for vox — length-prefix framing over A… |
+| 2026-10-26 08:32:32 | [diskhalo](https://crates.io/crates/diskhalo) | 0.1.0 | 0 | See what's eating your disk — as a sunburst or a treemap, in your terminal. |
+| 2026-10-26 08:33:38 | [oxaria](https://crates.io/crates/oxaria) | 0.1.0 | 0 | Check a web page against a curated set of accessibility rules such as WCAG 2.2,… |
+| 2026-10-26 08:33:54 | [reifydb-flow-async](https://crates.io/crates/reifydb-flow-async) | 0.10.0 | 0 | Flow execution substrate: the flow transaction/state layer and the operator con… |
+| 2026-10-26 08:36:33 | [reifydb-flow-sync](https://crates.io/crates/reifydb-flow-sync) | 0.10.0 | 0 | Transactional view flows maintained inside the user transaction |
+| 2026-10-26 08:39:56 | [teamy-vox](https://crates.io/crates/teamy-vox) | 0.10.0-rc.7 | 0 | Core Vox library crate |
+| 2026-10-26 08:42:00 | [sortition](https://crates.io/crates/sortition) | 0.1.1 | 0 | Minimal unbiased random lottery (sampling without replacement) core with a C ABI |
+| 2026-10-26 08:43:02 | [sortition-cli](https://crates.io/crates/sortition-cli) | 0.1.1 | 0 | Command-line tool to draw winners reproducibly from a list, and to verify a rec… |
+| 2026-10-26 08:48:11 | [reifydb-console-protocol](https://crates.io/crates/reifydb-console-protocol) | 0.10.0 | 0 | Tunnel protocol between a ReifyDB instance and the console |
+| 2026-10-26 08:48:37 | [hearth-asset](https://crates.io/crates/hearth-asset) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 08:48:44 | [hearth-cookie](https://crates.io/crates/hearth-cookie) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 08:48:53 | [hearth-datastar](https://crates.io/crates/hearth-datastar) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 08:48:58 | [hearth-htmx](https://crates.io/crates/hearth-htmx) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 08:49:10 | [hearth-mail](https://crates.io/crates/hearth-mail) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 08:49:46 | [daemonize-next](https://crates.io/crates/daemonize-next) | 0.1.0 | 0 | Drop-in replacement for the unmaintained daemonize crate, with its privilege-dr… |
+| 2026-10-26 08:50:59 | [nazz-core](https://crates.io/crates/nazz-core) | 0.1.0 | 0 | Agent identity, scope, grants, and execution contracts. |
+| 2026-10-26 08:51:14 | [nazz-storage](https://crates.io/crates/nazz-storage) | 0.1.0 | 0 | Host-neutral storage ports and durable execution protocol types. |
+| 2026-10-26 08:51:22 | [teamy-vox-proto](https://crates.io/crates/teamy-vox-proto) | 0.2.2 | 0 | Service definitions used by the canonical vox compliance suite |
+| 2026-10-26 08:52:09 | [nazz-runtime](https://crates.io/crates/nazz-runtime) | 0.1.0 | 0 | Rig step driver with effect reconciliation. No second inference loop. |
+| 2026-10-26 08:52:19 | [nazz-sandbox](https://crates.io/crates/nazz-sandbox) | 0.1.0 | 0 | Host-approved operating system sandbox for agent execution. |
+| 2026-10-26 08:57:20 | [codeatlas-domain](https://crates.io/crates/codeatlas-domain) | 0.3.1 | 0 | Pure domain models, entities, value objects, and port traits for CodeAtlas |
+| 2026-10-26 08:58:00 | [codeatlas-application](https://crates.io/crates/codeatlas-application) | 0.3.1 | 0 | Application layer use cases and orchestrators for CodeAtlas |
+| 2026-10-26 08:58:20 | [hearth-view-macro](https://crates.io/crates/hearth-view-macro) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 08:58:38 | [codeatlas-infrastructure](https://crates.io/crates/codeatlas-infrastructure) | 0.3.1 | 0 | Infrastructure engines: Tree-sitter parsers, petgraph store, file watchers, and… |
+| 2026-10-26 08:59:23 | [codeatlas-adapters](https://crates.io/crates/codeatlas-adapters) | 0.3.1 | 0 | Interface adapters: MCP stdio transport, CLI controllers, and outbound clients |
+| 2026-10-26 09:01:52 | [blochs](https://crates.io/crates/blochs) | 0.1.0 | 0 | Ranked, budgeted codebase maps for coding agents with session handoff fidelity |
+| 2026-10-26 09:04:33 | [brz-socket-io-macros](https://crates.io/crates/brz-socket-io-macros) | 0.0.1 | 0 | Namespace and event exports for brz-socket-io |
+| 2026-10-26 09:06:30 | [proptest-z3](https://crates.io/crates/proptest-z3) | 0.1.0 | 0 | Generate test inputs with name dependencies for proptest: build the skeleton wi… |
+| 2026-10-26 09:07:02 | [brz-socket-io](https://crates.io/crates/brz-socket-io) | 0.0.1 | 0 | Provider-based Socket.IO services for Breeze applications |
+| 2026-10-26 09:08:39 | [hearth-font](https://crates.io/crates/hearth-font) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 09:11:29 | [bevy_assets_hmr](https://crates.io/crates/bevy_assets_hmr) | 0.1.0 | 0 | Minimal config-file hot-reload for Bevy 0.20: watch a RON/JSON (or custom-forma… |
+| 2026-10-26 09:13:01 | [codeatlas-cli](https://crates.io/crates/codeatlas-cli) | 0.3.1 | 0 | High-performance Rust MCP server for CodeAtlas |
+| 2026-10-26 09:15:21 | [easy-api](https://crates.io/crates/easy-api) | 0.1.2 | 0 | A lightweight Rust HTTP API server with callback-based endpoints |
+| 2026-10-26 09:17:23 | [orbiv-macros](https://crates.io/crates/orbiv-macros) | 0.3.0 | 0 | Orbit, the migration framework. |
+| 2026-10-26 09:18:00 | [hearth-icon](https://crates.io/crates/hearth-icon) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
 
 ## Data source
 
