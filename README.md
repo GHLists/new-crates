@@ -8,68 +8,57 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 10:18 UTC
+## Latest list — 2026-10-26 11:22 UTC
 
-New crates published between 2026-10-26 09:19 UTC and 2026-10-26 10:18 UTC.
+New crates published between 2026-10-26 10:18 UTC and 2026-10-26 11:22 UTC.
 
-[Full CSV](data/new-crates-2026-10-26T10-18-40-165397Z.csv)
+[Full CSV](data/new-crates-2026-10-26T11-22-06-01102Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-26 09:20:04 | [rustnum](https://crates.io/crates/rustnum) | 0.1.0 | 6 | NumPy-style n-dimensional arrays for Rust: one array type, NumPy names, pure Ru… |
-| 2026-10-26 09:20:08 | [harn-signals](https://crates.io/crates/harn-signals) | 0.10.180 | 29 | Per-machine signal inbox, session registry, and router for delivering alerts to… |
-| 2026-10-26 09:20:17 | [harn-builtins](https://crates.io/crates/harn-builtins) | 0.10.180 | 10 | Native builtin families of the Harn standard library that sit above the VM |
-| 2026-10-26 09:20:20 | [harn-flow](https://crates.io/crates/harn-flow) | 0.10.180 | 15 | Harn Flow shipping substrate: atoms, intents, slices, and invariant predicates |
-| 2026-10-26 09:20:23 | [harn-runtime](https://crates.io/crates/harn-runtime) | 0.10.180 | 22 | The complete native Harn runtime: the VM and every builtin family crate |
-| 2026-10-26 09:23:44 | [emu198x-amstrad-gate-array](https://crates.io/crates/emu198x-amstrad-gate-array) | 0.1.0 | 4 | Amstrad Gate Array (40007 / 40010) — the CPC's video, palette and ROM-paging ch… |
-| 2026-10-26 09:23:48 | [emu198x-atari-gtia](https://crates.io/crates/emu198x-atari-gtia) | 0.1.0 | 5 | Atari GTIA video output chip — Atari 5200, 800XL, 130XE |
-| 2026-10-26 09:23:52 | [emu198x-atari-maria](https://crates.io/crates/emu198x-atari-maria) | 0.1.0 | 2 | Atari 7800 MARIA display processor — zone-based display list renderer |
-| 2026-10-26 09:23:57 | [emu198x-atari-pokey](https://crates.io/crates/emu198x-atari-pokey) | 0.1.0 | 10 | Atari POKEY sound + I/O chip — Atari 5200, 7800, 800XL, 130XE |
-| 2026-10-26 09:24:00 | [emu198x-atari-sio](https://crates.io/crates/emu198x-atari-sio) | 0.1.0 | 9 | Atari 8-bit SIO serial bus and the disk drives on it, modelled at byte granular… |
-| 2026-10-26 09:26:07 | [houyidb-client](https://crates.io/crates/houyidb-client) | 0.2.0-beta.5 | 3 | Official Rust client for HouyiDB vector database (collections HTTP API) |
-| 2026-10-26 09:26:29 | [tokio-dtls](https://crates.io/crates/tokio-dtls) | 0.1.0 | 6 | Async DTLS 1.3 for Tokio, powered by dimpl |
-| 2026-10-26 09:27:44 | [guigu-matrix-sdk-base](https://crates.io/crates/guigu-matrix-sdk-base) | 0.13.0-guigu.1 | 12 | The base component to build a Matrix client library. |
-| 2026-10-26 09:28:01 | [hearth-mail-grammar](https://crates.io/crates/hearth-mail-grammar) | 0.1.0 | 4 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 09:31:02 | [emu198x-atari-st-glue-mmu](https://crates.io/crates/emu198x-atari-st-glue-mmu) | 0.1.0 | 10 | Atari ST GLUE and MMU: video timing, the video counter and fetch, memory config… |
-| 2026-10-26 09:31:37 | [solana_kit_mpl_core](https://crates.io/crates/solana_kit_mpl_core) | 0.0.0 | 6 | Reserved off-chain MPL Core client crate for the portable Solana Kit SDK |
-| 2026-10-26 09:35:11 | [neurondump-gguf](https://crates.io/crates/neurondump-gguf) | 0.1.3 | 17 | Zero-copy GGUF parser, dequantization and writer |
-| 2026-10-26 09:35:41 | [teamy-vox-codegen](https://crates.io/crates/teamy-vox-codegen) | 0.10.0-rc.8 | 8 | Language bindings codegen for vox |
-| 2026-10-26 09:36:35 | [serwus-test](https://crates.io/crates/serwus-test) | 0.2.6 | 6 | Helpers for end-to-end tests of serwus services - Postgres in a container and t… |
-| 2026-10-26 09:37:57 | [hearth-runtime](https://crates.io/crates/hearth-runtime) | 0.1.0 | 5 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 09:39:22 | [eorscope](https://crates.io/crates/eorscope) | 0.1.0 | 2 | Dated statutory employer-contribution changes by country, read from official so… |
-| 2026-10-26 09:39:54 | [pubky-social-specs](https://crates.io/crates/pubky-social-specs) | 1.0.0-rc.1 | 7 | Pubky social data models with validation, sanitization, and URI helpers |
-| 2026-10-26 09:40:37 | [genotype_tree](https://crates.io/crates/genotype_tree) | 0.18.0 | 17 | Genotype language AST crate |
-| 2026-10-26 09:40:53 | [neurondump-core](https://crates.io/crates/neurondump-core) | 0.1.3 | 14 | Discovery, extraction, analysis, slimming and jobs for NeuronDump |
-| 2026-10-26 09:41:00 | [genotype_fmt](https://crates.io/crates/genotype_fmt) | 0.18.0 | 8 | Genotype source formatter for native and Wasm hosts |
-| 2026-10-26 09:41:02 | [neurondump-cli](https://crates.io/crates/neurondump-cli) | 0.1.3 | 4 | CLI and interactive REPL front end for NeuronDump |
-| 2026-10-26 09:41:07 | [emu198x-atari-st-shifter](https://crates.io/crates/emu198x-atari-st-shifter) | 0.1.0 | 4 | Atari ST Shifter: palette, resolution and the bitplane-to-pixel shift registers… |
-| 2026-10-26 09:41:09 | [neurondump-trace](https://crates.io/crates/neurondump-trace) | 0.1.3 | 6 | Candle-based inference tracing for NeuronDump |
-| 2026-10-26 09:41:19 | [neurondump-web](https://crates.io/crates/neurondump-web) | 0.1.3 | 5 | Local web interface for NeuronDump |
-| 2026-10-26 09:42:25 | [alpha2-compose](https://crates.io/crates/alpha2-compose) | 0.4.3 | 6 | Compiles alpha2 compose specs (sequences, stacks, grids, presets) into project… |
-| 2026-10-26 09:46:41 | [guigu-matrix-sdk-sqlite](https://crates.io/crates/guigu-matrix-sdk-sqlite) | 0.13.0-guigu.1 | 9 | Sqlite storage backend for matrix-sdk |
-| 2026-10-26 09:48:16 | [filemux-core](https://crates.io/crates/filemux-core) | 0.1.0 | 5 | Shared configuration, service lifecycle, and event types for Filemux file serve… |
-| 2026-10-26 09:48:17 | [hearth-session](https://crates.io/crates/hearth-session) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 09:48:18 | [filemux-fs](https://crates.io/crates/filemux-fs) | 0.1.0 | 13 | Rooted capability filesystem with persistent object identities for Filemux |
-| 2026-10-26 09:48:54 | [mooce](https://crates.io/crates/mooce) | 0.1.6 | 10 | An unintuitive list |
-| 2026-10-26 09:49:40 | [deccy-cli](https://crates.io/crates/deccy-cli) | 0.1.0 | 4 | Maintain a decision graph in any repo: one CLI for humans and agents alike. |
-| 2026-10-26 09:51:14 | [emu198x-atari-tia](https://crates.io/crates/emu198x-atari-tia) | 0.1.0 | 10 | Atari TIA (Television Interface Adaptor) — Atari 2600, 7800 |
-| 2026-10-26 09:53:20 | [nvpn-dtls](https://crates.io/crates/nvpn-dtls) | 0.17.3 | 2 | A pure Rust implementation of DTLS |
-| 2026-10-26 09:54:42 | [fastops](https://crates.io/crates/fastops) | 0.1.2 | 1 | Fast, safe copy, move, delete, clean and size for large folders |
-| 2026-10-26 09:57:52 | [filemux-http](https://crates.io/crates/filemux-http) | 0.1.0 | 0 | Read-only HTTP/1 file server backed by the Filemux rooted filesystem |
-| 2026-10-26 09:58:13 | [hearth-font-grammar](https://crates.io/crates/hearth-font-grammar) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 09:58:45 | [guigu-matrix-sdk](https://crates.io/crates/guigu-matrix-sdk) | 0.13.0-guigu.1 | 0 | A high level Matrix client-server library. |
-| 2026-10-26 09:59:13 | [neurondump](https://crates.io/crates/neurondump) | 0.1.3 | 0 | Reverse-engineer, analyze and slim down local GGUF LLMs |
-| 2026-10-26 10:00:06 | [filemux-nfs](https://crates.io/crates/filemux-nfs) | 0.1.0 | 0 | Read-only userspace NFSv3 file server over UDP and TCP for Filemux |
-| 2026-10-26 10:00:07 | [filemux-tftp](https://crates.io/crates/filemux-tftp) | 0.1.0 | 0 | TFTP file server with bounded transfers and optional uploads for Filemux |
-| 2026-10-26 10:01:20 | [unlit3dx](https://crates.io/crates/unlit3dx) | 0.1.0-dev.3 | 0 | Multi-world extension for unlit3d: physics, audio and gameplay worlds on their… |
-| 2026-10-26 10:01:21 | [emu198x-commodore-agnus-ocs](https://crates.io/crates/emu198x-commodore-agnus-ocs) | 0.1.0 | 0 | Commodore Agnus OCS — DMA controller, beam generator, copper coprocessor. Per-C… |
-| 2026-10-26 10:02:39 | [store-claim](https://crates.io/crates/store-claim) | 0.8.48 | 0 | Object-store fencing primitives: BackupTarget, the store-side ownership claim (… |
-| 2026-10-26 10:07:15 | [filemux-engine](https://crates.io/crates/filemux-engine) | 0.1.0 | 0 | Shared service orchestration for Filemux HTTP, TFTP, and NFSv3 file servers |
-| 2026-10-26 10:08:17 | [hearth-icon-grammar](https://crates.io/crates/hearth-icon-grammar) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 10:09:08 | [yah-runner-cp](https://crates.io/crates/yah-runner-cp) | 0.8.48 | 0 | GitHub Copilot CLI server-mode process-cell (cp) host for the yah agent runner |
-| 2026-10-26 10:10:54 | [measured-prometheus-text](https://crates.io/crates/measured-prometheus-text) | 0.1.0 | 0 | Prometheus text exposition format for measured |
-| 2026-10-26 10:11:27 | [emu198x-commodore-amiga-autoconfig](https://crates.io/crates/emu198x-commodore-amiga-autoconfig) | 0.1.0 | 0 | Amiga Zorro-II autoconfig board state machine — probe-window register reads, ba… |
-| 2026-10-26 10:18:23 | [hearth-mail-macro](https://crates.io/crates/hearth-mail-macro) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 10:21:32 | [emu198x-commodore-denise-ocs](https://crates.io/crates/emu198x-commodore-denise-ocs) | 0.1.0 | 0 | Commodore Denise OCS — pixel shifter and sprite engine. Bitplane-to-pixel conve… |
+| 2026-10-26 10:21:39 | [csp-format](https://crates.io/crates/csp-format) | 0.1.0 | 0 | Read, verify and write CLIP STUDIO PAINT files (.clip / .cmc) |
+| 2026-10-26 10:21:49 | [papr-pdf](https://crates.io/crates/papr-pdf) | 0.1.0 | 0 | A fast, keyboard-first CLI tool to compile Markdown, LaTeX, and plain text file… |
+| 2026-10-26 10:21:57 | [ic3-teams](https://crates.io/crates/ic3-teams) | 0.1.0 | 0 | Unofficial client library for Microsoft Teams chat (IC3/chatsvc). Unsupported A… |
+| 2026-10-26 10:22:05 | [csp-assets](https://crates.io/crates/csp-assets) | 0.1.0 | 0 | Read and write CLIP STUDIO PAINT's other files: sub tools (.sut), auto actions,… |
+| 2026-10-26 10:22:23 | [cspf](https://crates.io/crates/cspf) | 0.1.0 | 0 | Command line tool for CLIP STUDIO PAINT files: inspect, extract, render, verify… |
+| 2026-10-26 10:28:24 | [hearth-runtime-grammar](https://crates.io/crates/hearth-runtime-grammar) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 10:29:08 | [flake_macros](https://crates.io/crates/flake_macros) | 0.1.0 | 0 | Proc macros for flake-engine |
+| 2026-10-26 10:31:38 | [emu198x-commodore-gary](https://crates.io/crates/emu198x-commodore-gary) | 0.1.0 | 0 | Commodore Gary — Amiga central address decoder. Maps 24-bit addresses to chip s… |
+| 2026-10-26 10:33:27 | [flake-engine](https://crates.io/crates/flake-engine) | 0.1.0 | 0 | Immediate-mode game framework built on wgpu + winit |
+| 2026-10-26 10:37:26 | [mcp-starter](https://crates.io/crates/mcp-starter) | 0.1.3 | 0 | Building blocks for a single-owner MCP server: OAuth, state file, HTTP server,… |
+| 2026-10-26 10:38:25 | [hearth-ui-registry](https://crates.io/crates/hearth-ui-registry) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 10:41:47 | [emu198x-commodore-gayle](https://crates.io/crates/emu198x-commodore-gayle) | 0.1.0 | 0 | Commodore Gayle gate array — IDE task-file registers, four Gayle control regist… |
+| 2026-10-26 10:43:48 | [ely-account](https://crates.io/crates/ely-account) | 0.1.1 | 0 | Ely's account components for GPUI: sign-in, billing, teams and access. |
+| 2026-10-26 10:43:56 | [ely-calendar](https://crates.io/crates/ely-calendar) | 0.1.1 | 0 | Ely's calendar components for GPUI: months, weeks, agendas, events and recurren… |
+| 2026-10-26 10:44:05 | [ely-canvas](https://crates.io/crates/ely-canvas) | 0.1.1 | 0 | Ely's canvas components for GPUI: tools, layers, design panels and mind maps. |
+| 2026-10-26 10:44:13 | [ely-charts](https://crates.io/crates/ely-charts) | 0.1.1 | 0 | Ely's charts for GPUI: lines, bars, areas, pies, scatter and the axes under the… |
+| 2026-10-26 10:44:19 | [ely-dashboard](https://crates.io/crates/ely-dashboard) | 0.1.1 | 0 | Ely's dashboard components for GPUI: tiles, grids, metrics and monitors. |
+| 2026-10-26 10:45:25 | [enola-guides](https://crates.io/crates/enola-guides) | 0.8.0 | 0 | The enola guides, examples, laws, skills, hooks, recipes and templates, listed,… |
+| 2026-10-26 10:46:01 | [amqp-helpers](https://crates.io/crates/amqp-helpers) | 3.2.4 | 0 | Thin helpers on top of lapin: RabbitMQ producer and consumers with a broker-sid… |
+| 2026-10-26 10:47:01 | [runnet](https://crates.io/crates/runnet) | 0.1.0 | 0 | Run ONNX neural network models in plain Rust, zero dependencies |
+| 2026-10-26 10:48:02 | [ely-files](https://crates.io/crates/ely-files) | 0.1.1 | 0 | Ely's file components for GPUI: explorers, grids, transfers and archives. |
+| 2026-10-26 10:48:16 | [hearth-cli](https://crates.io/crates/hearth-cli) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 10:48:47 | [filemux-cli](https://crates.io/crates/filemux-cli) | 0.1.1 | 0 | Command-line HTTP, TFTP, and NFSv3 file-sharing server |
+| 2026-10-26 10:48:49 | [filemux-gui](https://crates.io/crates/filemux-gui) | 0.1.1 | 0 | Native desktop HTTP, TFTP, and NFSv3 file-sharing server |
+| 2026-10-26 10:52:45 | [rama-masque](https://crates.io/crates/rama-masque) | 0.0.0-reserved | 0 | MASQUE support for rama |
+| 2026-10-26 10:53:57 | [sdt](https://crates.io/crates/sdt) | 0.1.0 | 0 | Skill Discovery Toggle: manage shared agent skills via SKILL.md frontmatter |
+| 2026-10-26 10:58:02 | [ely-interaction](https://crates.io/crates/ely-interaction) | 0.1.1 | 0 | Ely's interaction components for GPUI: dragging, resizing, rotating and selecti… |
+| 2026-10-26 10:58:15 | [hearth-font-macro](https://crates.io/crates/hearth-font-macro) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 10:58:38 | [emu198x-bus-sinclair-zx-spectrum](https://crates.io/crates/emu198x-bus-sinclair-zx-spectrum) | 0.1.0 | 0 | ZX Spectrum family wiring: the Ula, MemoryBus, Peripheral and MemoryIntercept t… |
+| 2026-10-26 11:03:08 | [pg-fenced-lease](https://crates.io/crates/pg-fenced-lease) | 0.1.0 | 0 | One owner per background job across instances: a lease row in Postgres with an… |
+| 2026-10-26 11:03:24 | [nncpu](https://crates.io/crates/nncpu) | 0.1.0 | 0 | Run Gemma, Llama and Qwen GGUF language models on the CPU, with AVX2/FMA kernel… |
+| 2026-10-26 11:08:03 | [ely-rendering](https://crates.io/crates/ely-rendering) | 0.1.1 | 0 | Ely's render surface for GPUI: pixels a host draws at a box's size. |
+| 2026-10-26 11:08:11 | [hearth-icon-macro](https://crates.io/crates/hearth-icon-macro) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 11:09:29 | [emu198x-intel-8255](https://crates.io/crates/emu198x-intel-8255) | 0.1.0 | 0 | Intel 8255 Programmable Peripheral Interface |
+| 2026-10-26 11:11:41 | [tashkeel](https://crates.io/crates/tashkeel) | 0.1.0 | 0 | Arabic diacritization with Shakkelha and CATT on the CPU. |
+| 2026-10-26 11:12:21 | [tashkeel-cli](https://crates.io/crates/tashkeel-cli) | 0.1.0 | 0 | CPU Arabic diacritization of text and DOCX documents. |
+| 2026-10-26 11:18:15 | [hearth-runtime-macro](https://crates.io/crates/hearth-runtime-macro) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 11:18:17 | [wg-update-client](https://crates.io/crates/wg-update-client) | 1.7.0 | 0 | A reusable Rust client for the Wargaming Update Service |
+| 2026-10-26 11:18:18 | [ely-debug](https://crates.io/crates/ely-debug) | 0.1.1 | 0 | Ely's debugger components for GPUI: stacks, variables, breakpoints and profiles. |
+| 2026-10-26 11:18:38 | [rspack-lightningcss-derive](https://crates.io/crates/rspack-lightningcss-derive) | 0.1.0 | 0 | Derive macros for lightningcss |
+| 2026-10-26 11:18:39 | [rspack-lightningcss-static-self-derive](https://crates.io/crates/rspack-lightningcss-static-self-derive) | 0.1.0 | 0 | Derive macros for static-self |
+| 2026-10-26 11:19:35 | [emu198x-konami-scc](https://crates.io/crates/emu198x-konami-scc) | 0.1.0 | 0 | Konami SCC and SCC-I (SCC+) wavetable sound chips: five channels of 32-byte wav… |
 
 ## Data source
 

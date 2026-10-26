@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T10:21:32.960602Z,emu198x-commodore-denise-ocs,0.1.0,0,0,https://github.com/emu198x/emu198x,"Commodore Denise OCS — pixel shifter and sprite engine. Bitplane-to-pixel conversion, playfield composition, 8 sprites, palette lookup."
+2026-10-26T10:21:39.619864Z,csp-format,0.1.0,0,0,https://github.com/nanikasheila/CLIP_STUDIO_PAINT_Format,"Read, verify and write CLIP STUDIO PAINT files (.clip / .cmc)"
+2026-10-26T10:21:49.904907Z,papr-pdf,0.1.0,0,0,https://github.com/rishalsha/papr,"A fast, keyboard-first CLI tool to compile Markdown, LaTeX, and plain text files into publication-grade PDFs."
+2026-10-26T10:21:57.59599Z,ic3-teams,0.1.0,0,0,https://github.com/Jezza/ic3,Unofficial client library for Microsoft Teams chat (IC3/chatsvc). Unsupported API; may break at any time.
+2026-10-26T10:22:05.878147Z,csp-assets,0.1.0,0,0,https://github.com/nanikasheila/CLIP_STUDIO_PAINT_Format,"Read and write CLIP STUDIO PAINT's other files: sub tools (.sut), auto actions, colour sets, gradient sets, material folders"
+2026-10-26T10:22:23.865634Z,cspf,0.1.0,0,0,https://github.com/nanikasheila/CLIP_STUDIO_PAINT_Format,"Command line tool for CLIP STUDIO PAINT files: inspect, extract, render, verify, corpus checks"
+2026-10-26T10:28:24.082547Z,hearth-runtime-grammar,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T10:29:08.441469Z,flake_macros,0.1.0,0,0,https://github.com/creepersaur/flake,Proc macros for flake-engine
+2026-10-26T10:31:38.283235Z,emu198x-commodore-gary,0.1.0,0,0,https://github.com/emu198x/emu198x,"Commodore Gary — Amiga central address decoder. Maps 24-bit addresses to chip selects for custom registers, CIAs, ROM, and RAM regions."
+2026-10-26T10:33:27.686666Z,flake-engine,0.1.0,0,0,https://github.com/creepersaur/flake,Immediate-mode game framework built on wgpu + winit
+2026-10-26T10:37:26.941969Z,mcp-starter,0.1.3,0,0,https://github.com/risan/mcp-starter,"Building blocks for a single-owner MCP server: OAuth, state file, HTTP server, tool helpers"
+2026-10-26T10:38:25.962911Z,hearth-ui-registry,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T10:41:47.110993Z,emu198x-commodore-gayle,0.1.0,0,0,https://github.com/emu198x/emu198x,"Commodore Gayle gate array — IDE task-file registers, four Gayle control registers, and (when wired) the A1200/A600 PCMCIA slot. Stage A: bare control-register I/O + no-drive IDE defaults, no PCMCIA.…"
+2026-10-26T10:43:48.698418Z,ely-account,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's account components for GPUI: sign-in, billing, teams and access."
+2026-10-26T10:43:56.482169Z,ely-calendar,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's calendar components for GPUI: months, weeks, agendas, events and recurrence."
+2026-10-26T10:44:05.375117Z,ely-canvas,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's canvas components for GPUI: tools, layers, design panels and mind maps."
+2026-10-26T10:44:13.849662Z,ely-charts,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's charts for GPUI: lines, bars, areas, pies, scatter and the axes under them."
+2026-10-26T10:44:19.473715Z,ely-dashboard,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's dashboard components for GPUI: tiles, grids, metrics and monitors."
+2026-10-26T10:45:25.283875Z,enola-guides,0.8.0,0,0,https://github.com/misabegovic/enola-guides,"The enola guides, examples, laws, skills, hooks, recipes and templates, listed, shown and copied from one command"
+2026-10-26T10:46:01.426689Z,amqp-helpers,3.2.4,0,0,https://github.com/Apocentre/amqp-helpers,Thin helpers on top of lapin: RabbitMQ producer and consumers with a broker-side retry mechanism (dead-letter exchanges and TTLs)
+2026-10-26T10:47:01.457337Z,runnet,0.1.0,0,0,https://github.com/josoriom/runnet,"Run ONNX neural network models in plain Rust, zero dependencies"
+2026-10-26T10:48:02.401843Z,ely-files,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's file components for GPUI: explorers, grids, transfers and archives."
+2026-10-26T10:48:16.687127Z,hearth-cli,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T10:48:47.61632Z,filemux-cli,0.1.1,0,0,https://github.com/lona-cn/filemux,"Command-line HTTP, TFTP, and NFSv3 file-sharing server"
+2026-10-26T10:48:49.955866Z,filemux-gui,0.1.1,0,0,https://github.com/lona-cn/filemux,"Native desktop HTTP, TFTP, and NFSv3 file-sharing server"
+2026-10-26T10:52:45.841649Z,rama-masque,0.0.0-reserved,0,0,https://github.com/plabayo/rama,MASQUE support for rama
+2026-10-26T10:53:57.693027Z,sdt,0.1.0,0,0,https://github.com/Shaurya-Sethi/sdt,Skill Discovery Toggle: manage shared agent skills via SKILL.md frontmatter
+2026-10-26T10:58:02.663374Z,ely-interaction,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's interaction components for GPUI: dragging, resizing, rotating and selecting."
+2026-10-26T10:58:15.064786Z,hearth-font-macro,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T10:58:38.477897Z,emu198x-bus-sinclair-zx-spectrum,0.1.0,0,0,https://github.com/emu198x/emu198x,"ZX Spectrum family wiring: the Ula, MemoryBus, Peripheral and MemoryIntercept traits and the FrameTiming data ULAs and peripherals connect through"
+2026-10-26T11:03:08.494128Z,pg-fenced-lease,0.1.0,0,0,https://github.com/rainlanguage/pg-fenced-lease,One owner per background job across instances: a lease row in Postgres with an epoch fencing token checked inside every write transaction.
+2026-10-26T11:03:24.806147Z,nncpu,0.1.0,0,0,https://github.com/ZacWalk/nncpu,"Run Gemma, Llama and Qwen GGUF language models on the CPU, with AVX2/FMA kernels and no GPU"
+2026-10-26T11:08:03.10728Z,ely-rendering,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,Ely's render surface for GPUI: pixels a host draws at a box's size.
+2026-10-26T11:08:11.244755Z,hearth-icon-macro,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T11:09:29.411801Z,emu198x-intel-8255,0.1.0,0,0,https://github.com/emu198x/emu198x,Intel 8255 Programmable Peripheral Interface
+2026-10-26T11:11:41.864078Z,tashkeel,0.1.0,0,0,https://github.com/ieasybooks/tashkeel-rs,Arabic diacritization with Shakkelha and CATT on the CPU.
+2026-10-26T11:12:21.993903Z,tashkeel-cli,0.1.0,0,0,https://github.com/ieasybooks/tashkeel-rs,CPU Arabic diacritization of text and DOCX documents.
+2026-10-26T11:18:15.896432Z,hearth-runtime-macro,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T11:18:17.818801Z,wg-update-client,1.7.0,0,0,https://github.com/gabrielhamel/wg-launcher,A reusable Rust client for the Wargaming Update Service
+2026-10-26T11:18:18.906929Z,ely-debug,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's debugger components for GPUI: stacks, variables, breakpoints and profiles."
+2026-10-26T11:18:38.964161Z,rspack-lightningcss-derive,0.1.0,0,0,https://github.com/rstackjs/lightningcss,Derive macros for lightningcss
+2026-10-26T11:18:39.463317Z,rspack-lightningcss-static-self-derive,0.1.0,0,0,https://github.com/rstackjs/lightningcss,Derive macros for static-self
+2026-10-26T11:19:35.647965Z,emu198x-konami-scc,0.1.0,0,0,https://github.com/emu198x/emu198x,"Konami SCC and SCC-I (SCC+) wavetable sound chips: five channels of 32-byte waveforms, as on Konami's MSX MegaROM cartridges"
