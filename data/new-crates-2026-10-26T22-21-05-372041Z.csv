@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T21:19:18.726634Z,autumn-plugin-shopify,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-shopify,"Autumn plugin: Shopify apps — signed webhooks routed by topic, OAuth install with expiring tokens, and a throttle-aware Admin GraphQL client."
+2026-10-26T21:23:05.204121Z,retex-bib,1.4.0,0,0,https://gitlab.com/severin-lemaignan/retex,"Bibliographies for retex: BibTeX (.bst styles) and biber (biblatex) processing, in process"
+2026-10-26T21:23:07.04041Z,retex-index,1.4.0,0,0,https://gitlab.com/severin-lemaignan/retex,"Index processing for retex: makeindex (.idx and .ist files to .ind), in process"
+2026-10-26T21:24:13.369147Z,warpcrypto,2.1.0,0,0,https://github.com/rjriajul/WarpCrypto,"Fast AES-256-IGE, AES-256-CTR and MTProto 2.0 message packing for Telegram clients"
+2026-10-26T21:24:25.911727Z,osmocore-rs,0.1.0,0,0,https://github.com/Silent-Wolf-Labs/osmocore-rs,"Rust-native telecom and core primitives with checked buffers, explicit runtimes and compatibility adapters"
+2026-10-26T21:25:54.741847Z,framer-presets,0.1.0,0,0,https://github.com/jcarver989/framer,Ready-made framer presets for setting up Rust repositories
+2026-10-26T21:31:26.687307Z,ario,0.1.0,0,0,https://github.com/peymanAzad/ario,A batteries-included terminal download manager powered by aria2
+2026-10-26T21:32:46.459426Z,invoiceninja-cli,0.1.0,0,0,https://github.com/awkawb1/invoiceninja-cli,"A command-line client for the Invoice Ninja v5 API, built on invoiceninja-sdk"
+2026-10-26T21:35:20.697508Z,libra-markup,0.1.0,0,0,https://github.com/thomasjonesdev/libra,Libra .lx markup parser
+2026-10-26T21:35:31.682269Z,libra-text,0.1.0,0,0,https://github.com/thomasjonesdev/libra,Libra text editing core
+2026-10-26T21:35:42.868835Z,libra-markdown,0.1.0,0,0,https://github.com/thomasjonesdev/libra,Display-only CommonMark parse for Libra <Markdown> and Gloss preview
+2026-10-26T21:35:56.306963Z,libra-kv,0.1.0,0,0,https://github.com/thomasjonesdev/libra,Libra key-value effect backend
+2026-10-26T21:36:05.978254Z,libra-draw,0.1.0,0,0,https://github.com/thomasjonesdev/libra,Libra display list and theme tokens
+2026-10-26T21:37:01.653467Z,win-icu-rs,0.1.0,0,0,https://github.com/doom-fish/win-icu-rs,Small owned ICU subset for Windows: the length of a UTF-16 string
+2026-10-26T21:38:22.169763Z,laravel-rust-encryption,0.1.0,0,0,https://github.com/Rene-Roscher/laravel-rust-encryption,"Rust port of Laravel's Illuminate\Encryption\Encrypter, wire-compatible with Laravel 10 through 13"
+2026-10-26T21:41:29.46802Z,cargo-rdme-with-mermaid,0.1.0,0,0,https://github.com/rockyyliang/cargo-rdme-with-mermaid,"Cargo command that generates your README from crate docs, like cargo-rdme, with simple-mermaid diagrams expanded inline"
+2026-10-26T21:44:34.117026Z,httpwatch-wasm-api,0.0.0,0,0,,Placeholder for the forthcoming HttpWatch WASM API; no functional API is included.
+2026-10-26T21:45:26.902486Z,libra-reflect,0.1.0,0,0,https://github.com/thomasjonesdev/libra,"Libra derive macros for state, actions, and app assembly"
+2026-10-26T21:49:27.551012Z,autumn-plugin-teams,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-teams,"Microsoft Teams plugin for autumn-web: verified Bot Framework activities, typed handlers, and a Connector client"
+2026-10-26T21:49:39.469522Z,praeco,0.1.1,0,0,https://github.com/jrimmer/praeco,Update checks and in-place updates for Linux desktop apps released on GitHub or Forgejo
+2026-10-26T21:55:27.129151Z,libra-ui-core,0.1.0,0,0,https://github.com/thomasjonesdev/libra,"Libra app contract: state, actions, and effects"
+2026-10-26T22:04:03.706343Z,edit-session,0.1.0-alpha.4,0,0,https://github.com/PerchAnton/edit-session,"Toolkit-independent preview, validation and commit lifecycle"
+2026-10-26T22:05:00.339146Z,istmo-barcode-scanner,0.1.1-alpha.4,0,0,https://github.com/SergioRibera/istmo,"Cross-platform barcode and QR scanner plugin for the istmo framework — Google code scanner on Android, AVFoundation on iOS."
+2026-10-26T22:05:27.697409Z,libra-data,0.1.0,0,0,https://github.com/thomasjonesdev/libra,Libra data plane
+2026-10-26T22:05:29.106973Z,istmo-opener,0.1.1-alpha.4,0,0,https://github.com/SergioRibera/istmo,"Open URLs with the system for the istmo framework — browser, mail, maps and files via Android intents, UIApplication.open and the desktop opener."
+2026-10-26T22:13:01.924482Z,bboxy450-desktop-notifications-linux,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,Explicit Linux placeholder for bboxy450 desktop notifications
+2026-10-26T22:13:02.377162Z,bboxy450-desktop-notifications-macos,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,UserNotifications backend for bboxy450 desktop notifications
+2026-10-26T22:13:02.819376Z,bboxy450-desktop-notifications-windows,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,Explicit Windows placeholder for bboxy450 desktop notifications
+2026-10-26T22:13:03.190608Z,bboxy450-keychain-windows,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,Windows custody boundary and owner-only file permissions
+2026-10-26T22:13:03.578992Z,bboxy450-mermaid,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,"Mermaid flowchart and sequence diagrams: parse and lay out to plain geometry, no rendering"
+2026-10-26T22:14:41.537843Z,bboxy450-plugin,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,Portable contracts for bboxy450 suite providers
+2026-10-26T22:14:51.908246Z,typed-css,0.2.0,0,0,https://github.com/lpotthast/typed-css,"Typed, grammar-checked CSS values and declarations"
+2026-10-26T22:15:27.667644Z,libra-codegen,0.1.0,0,0,https://github.com/thomasjonesdev/libra,Libra view codegen (release engine)
+2026-10-26T22:16:13.571626Z,strati-core,0.1.0,0,0,https://github.com/ShafSpecs/strati,"Platform-independent core of Strati: typed bridge protocol, capability enforcement, quotas, handles and TypeScript generation."
+2026-10-26T22:16:15.095958Z,strati-macros,0.1.0,0,0,https://github.com/ShafSpecs/strati,"Procedural macros for Strati: #[command], #[derive(Schema)], #[derive(Event)]."
+2026-10-26T22:16:18.763969Z,strati-gpu,0.1.0,0,0,https://github.com/ShafSpecs/strati,"Strati GPU layer: shared wgpu device, NativeView trait, independent render thread and frame statistics."
+2026-10-26T22:16:21.682586Z,strati-native,0.1.0,0,0,https://github.com/ShafSpecs/strati,"Strati's native-first runtime: a React app in a sandboxed script process, laid out and painted natively (Blitz, Vello), with Rust GPU views composited in the same tree"
+2026-10-26T22:16:24.662012Z,strati,0.1.0,0,0,https://github.com/ShafSpecs/strati,Strati: compose React interfaces and Rust GPU views as one native application.
+2026-10-26T22:17:58.407653Z,ras-commander-fast-map,0.8.0,0,0,https://github.com/gpt-cmdr/ras-commander-fast-map,"Native Rust 2D flood inundation mapping: horizontal and sloping surfaces, bounded timesteps and terrain windows"
+2026-10-26T22:19:05.828684Z,solana_kit_squads,0.0.0,0,0,https://github.com/pina-rs/solana_kit,Reserved off-chain Squads multisig client crate for the portable Solana Kit SDK
