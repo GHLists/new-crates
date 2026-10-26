@@ -8,59 +8,75 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 15:18 UTC
+## Latest list — 2026-10-26 16:18 UTC
 
-New crates published between 2026-10-26 14:19 UTC and 2026-10-26 15:18 UTC.
+New crates published between 2026-10-26 15:18 UTC and 2026-10-26 16:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-26T15-18-37-010036Z.csv)
+[Full CSV](data/new-crates-2026-10-26T16-18-59-78076Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-26 14:20:02 | [quicguard](https://crates.io/crates/quicguard) | 0.1.0 | 0 | WireGuard over a QUIC bridge, with a shared server and client CLI |
-| 2026-10-26 14:21:27 | [dxgraph](https://crates.io/crates/dxgraph) | 0.0.1 | 0 | A content-agnostic Dioxus graph canvas with native Rust layouts |
-| 2026-10-26 14:21:55 | [emu198x-nintendo-game-boy-ppu](https://crates.io/crates/emu198x-nintendo-game-boy-ppu) | 0.1.0 | 0 | Game Boy DMG and CGB PPU — pixel FIFO, BG/window/sprite compositing, 160×144 ou… |
-| 2026-10-26 14:22:34 | [lichexternal-core](https://crates.io/crates/lichexternal-core) | 0.1.1 | 0 | Core protocol models, UCI parsing, and schemas for Lichess External Engine brid… |
-| 2026-10-26 14:23:46 | [runa-fm](https://crates.io/crates/runa-fm) | 0.15.0 | 0 | A fast, keyboard-focused terminal file manager (TUI). Highly configurable and l… |
-| 2026-10-26 14:24:26 | [ledgermill-beancount-parser](https://crates.io/crates/ledgermill-beancount-parser) | 0.16.3 | 0 | A zero-copy parser for Beancount: a fork of beancount-parser-lima without its G… |
-| 2026-10-26 14:25:32 | [ledgermill-beancount-booking](https://crates.io/crates/ledgermill-beancount-booking) | 0.10.5 | 0 | Beancount booking algorithms: a fork of limabean-booking that depends on ledger… |
-| 2026-10-26 14:28:01 | [ely-messaging](https://crates.io/crates/ely-messaging) | 0.1.1 | 0 | Ely's messaging components for GPUI: channels, threads, calls, reactions and pi… |
-| 2026-10-26 14:31:14 | [dxterm](https://crates.io/crates/dxterm) | 0.0.1 | 0 | A Rust terminal component for Dioxus web, desktop and Native |
-| 2026-10-26 14:32:01 | [emu198x-nintendo-game-boy-timer](https://crates.io/crates/emu198x-nintendo-game-boy-timer) | 0.1.0 | 0 | Game Boy DIV / TIMA / TMA / TAC timer block (part of the SM83 SoC) |
-| 2026-10-26 14:38:03 | [ely-misc](https://crates.io/crates/ely-misc) | 0.1.1 | 0 | Ely's assorted components for GPUI: clocks, calculators, codes, web views and m… |
-| 2026-10-26 14:42:06 | [mucad-hash](https://crates.io/crates/mucad-hash) | 0.6.0 | 0 | µcad hash utilities |
-| 2026-10-26 14:42:10 | [emu198x-nintendo-s-ppu](https://crates.io/crates/emu198x-nintendo-s-ppu) | 0.1.0 | 0 | Nintendo S-PPU1 5C77 and S-PPU2 5C78: the SNES picture processor pair, stepped… |
-| 2026-10-26 14:42:31 | [mucad-core](https://crates.io/crates/mucad-core) | 0.6.0 | 0 | µcad core |
-| 2026-10-26 14:43:08 | [chinese-identification-card](https://crates.io/crates/chinese-identification-card) | 10.3.1 | 0 | A Rust library for validating Chinese identification card numbers based on offi… |
-| 2026-10-26 14:43:52 | [mucad-macros](https://crates.io/crates/mucad-macros) | 0.6.0 | 0 | Procedural macros for µcad language and built-ins. |
-| 2026-10-26 14:44:11 | [mucad-lang-base](https://crates.io/crates/mucad-lang-base) | 0.6.0 | 0 | µcad language basics |
-| 2026-10-26 14:44:37 | [mucad-lang-types](https://crates.io/crates/mucad-lang-types) | 0.6.0 | 0 | µcad language types |
-| 2026-10-26 14:45:19 | [mucad-lang-parse](https://crates.io/crates/mucad-lang-parse) | 0.6.0 | 0 | µcad language syntax lexer and parser |
-| 2026-10-26 14:48:02 | [ely-gpui-component](https://crates.io/crates/ely-gpui-component) | 0.1.1 | 0 | A restrained component library for GPUI, in light and dark. |
-| 2026-10-26 14:48:52 | [solana_kit_mpl_token_metadata](https://crates.io/crates/solana_kit_mpl_token_metadata) | 0.0.0 | 0 | Reserved off-chain Token Metadata client crate for the portable Solana Kit SDK |
-| 2026-10-26 14:49:29 | [lon](https://crates.io/crates/lon) | 0.1.0 | 0 | Compact, canonical, lossless JSON codec for AI-first data exchange with self-de… |
-| 2026-10-26 14:50:33 | [win-com-rs](https://crates.io/crates/win-com-rs) | 0.2.0 | 0 | Small owned COM core for Windows: GUIDs, HRESULT errors, interface pointers, ap… |
-| 2026-10-26 14:50:38 | [win-kernel-rs](https://crates.io/crates/win-kernel-rs) | 0.1.2 | 0 | Small owned kernel32 subset for Windows: handles, named pipes, overlapped I/O,… |
-| 2026-10-26 14:50:43 | [win-user-rs](https://crates.io/crates/win-user-rs) | 0.1.4 | 0 | Small owned user32 subset for Windows: windows, input, monitors, DPI, IME, DWM,… |
-| 2026-10-26 14:50:47 | [uiautomation-rs](https://crates.io/crates/uiautomation-rs) | 0.2.0 | 0 | Small owned UI Automation provider subset for Windows: provider interfaces, eve… |
-| 2026-10-26 14:50:52 | [accesskit-windows-rs](https://crates.io/crates/accesskit-windows-rs) | 0.1.2 | 0 | AccessKit adapter for Windows UI Automation on the doom-fish Windows crates |
-| 2026-10-26 14:52:18 | [emu198x-peripheral-commodore-amiga-floppy](https://crates.io/crates/emu198x-peripheral-commodore-amiga-floppy) | 0.1.0 | 0 | Amiga floppy drive mechanism — head positioning, motor control, disk change det… |
-| 2026-10-26 14:54:25 | [ruda-driver-metal](https://crates.io/crates/ruda-driver-metal) | 0.1.104 | 0 | Native Metal driver backend for Ruda |
-| 2026-10-26 14:54:54 | [directmanipulation-rs](https://crates.io/crates/directmanipulation-rs) | 0.2.0 | 0 | Small owned DirectManipulation subset for Windows: the manager, viewports, thei… |
-| 2026-10-26 14:56:51 | [mucad-lang-markdown](https://crates.io/crates/mucad-lang-markdown) | 0.6.0 | 0 | µcad language markdown support |
-| 2026-10-26 15:02:23 | [emu198x-peripheral-commodore-amiga-keyboard](https://crates.io/crates/emu198x-peripheral-commodore-amiga-keyboard) | 0.1.0 | 0 | Amiga keyboard controller emulator — power-up init sequence, rotated keycode tr… |
-| 2026-10-26 15:04:17 | [gled-midi](https://crates.io/crates/gled-midi) | 2.31.1 | 0 | MIDI controllers for gled: the mapping runtime and the ports of a machine or a… |
-| 2026-10-26 15:04:55 | [directwrite-rs](https://crates.io/crates/directwrite-rs) | 0.2.0 | 0 | Small owned DirectWrite subset for Windows: fonts, fallback, text layout, glyph… |
-| 2026-10-26 15:08:21 | [shopify_api_graphql](https://crates.io/crates/shopify_api_graphql) | 1.0.0-rc.1 | 0 | Internal to shopify_api, no semver guarantee: checks Shopify Admin GraphQL oper… |
-| 2026-10-26 15:08:23 | [shopify_api_macros](https://crates.io/crates/shopify_api_macros) | 1.0.0-rc.1 | 0 | The `graphql!` macro of `shopify_api`: Shopify Admin GraphQL operations checked… |
-| 2026-10-26 15:08:38 | [mucad-lang-format](https://crates.io/crates/mucad-lang-format) | 0.6.0 | 0 | µcad language formatter |
-| 2026-10-26 15:12:13 | [mucad-std](https://crates.io/crates/mucad-std) | 0.6.0 | 0 | µcad Standard Library |
-| 2026-10-26 15:12:29 | [emu198x-peripheral-ultimate-uci-net](https://crates.io/crates/emu198x-peripheral-ultimate-uci-net) | 0.1.0 | 0 | Network target of the Ultimate Command Interface, as exposed by 1541 Ultimate-I… |
-| 2026-10-26 15:14:08 | [vcon](https://crates.io/crates/vcon) | 0.1.0 | 0 | A library for vCons. It reads and checks a vCon: form, compression, uuid and cr… |
-| 2026-10-26 15:14:57 | [vcon-server](https://crates.io/crates/vcon-server) | 0.1.0 | 0 | Stores vCons encrypted at rest and returns them to authorised readers. |
-| 2026-10-26 15:14:58 | [directx11-rs](https://crates.io/crates/directx11-rs) | 0.1.2 | 0 | Small owned Direct3D 11, DXGI and DirectComposition subset for Windows: devices… |
-| 2026-10-26 15:15:20 | [bezier_approx](https://crates.io/crates/bezier_approx) | 0.1.0 | 0 | Approximate functions on a box in D dimensions with tensor-product Bézier (Bern… |
-| 2026-10-26 15:16:33 | [sis2zarr](https://crates.io/crates/sis2zarr) | 0.1.0 | 0 | Convert arivis SIS (.sis) files to OME-Zarr |
-| 2026-10-26 15:17:26 | [shm_generational_cache](https://crates.io/crates/shm_generational_cache) | 0.0.1 | 0 | Process-shared, crash-tolerant byte cache with approximate-LRU generational evi… |
+| 2026-10-26 15:21:07 | [livegraph](https://crates.io/crates/livegraph) | 0.1.0 | 0 | Typed dependency graphs with transactional snapshot publication |
+| 2026-10-26 15:22:35 | [emu198x-ricoh-ppu-2c02](https://crates.io/crates/emu198x-ricoh-ppu-2c02) | 0.1.0 | 0 | Ricoh 2C02 PPU — dot-level NES picture processing unit. One tick() = one PPU do… |
+| 2026-10-26 15:22:48 | [mucad-import](https://crates.io/crates/mucad-import) | 0.6.0 | 0 | µcad import API |
+| 2026-10-26 15:24:56 | [mediafoundation-rs](https://crates.io/crates/mediafoundation-rs) | 0.2.0 | 0 | Small owned media engine subset for Windows, loaded at run time: playback into… |
+| 2026-10-26 15:25:04 | [gpty-core](https://crates.io/crates/gpty-core) | 0.7.0 | 0 | Core library for gpty: PTY management, terminal parsing, and concept-based orch… |
+| 2026-10-26 15:28:12 | [filterkit](https://crates.io/crates/filterkit) | 0.1.0 | 0 | Composable DSP filters and processors for embedded and desktop Rust. |
+| 2026-10-26 15:32:41 | [emu198x-ricoh-rp5c01](https://crates.io/crates/emu198x-ricoh-rp5c01) | 0.1.0 | 0 | Ricoh RP5C01 real-time clock: BCD time and calendar, alarm block, 26 nibbles of… |
+| 2026-10-26 15:33:26 | [mucad-builtin](https://crates.io/crates/mucad-builtin) | 0.6.0 | 0 | Provides the built-in functionalities available in the µcad language. |
+| 2026-10-26 15:34:09 | [lightshadedb-codegen](https://crates.io/crates/lightshadedb-codegen) | 2.0.0 | 0 | Lightshade DB IR, validation, and specialized code generation. |
+| 2026-10-26 15:34:20 | [lightshadedb-macros](https://crates.io/crates/lightshadedb-macros) | 2.0.0 | 0 | Rust-native schema and operation macros for Lightshade DB. |
+| 2026-10-26 15:34:33 | [lightshadedb](https://crates.io/crates/lightshadedb) | 2.0.0 | 0 | Lightshade DB: Rust-native schema, specialized queries, embedded and connected… |
+| 2026-10-26 15:36:14 | [axkit-macros](https://crates.io/crates/axkit-macros) | 0.1.0 | 0 | Route attribute macros for axkit: axum routing, OpenAPI and tracing from one an… |
+| 2026-10-26 15:36:17 | [axkit](https://crates.io/crates/axkit) | 0.1.0 | 0 | A small layer over axum: auto-registered routes, OpenAPI, config, telemetry, ta… |
+| 2026-10-26 15:36:47 | [win-registry-rs](https://crates.io/crates/win-registry-rs) | 0.1.2 | 0 | Small owned registry subset for Windows: string values under predefined and ope… |
+| 2026-10-26 15:40:00 | [gpty-ipc](https://crates.io/crates/gpty-ipc) | 0.7.0 | 0 | JSON-RPC IPC transport, client, and server for gpty workspace control |
+| 2026-10-26 15:42:02 | [ironrdp-egfx-native](https://crates.io/crates/ironrdp-egfx-native) | 0.1.0 | 0 | Native H.264 decoders for the IronRDP graphics and video channels |
+| 2026-10-26 15:42:03 | [ironrdp-rdpecam](https://crates.io/crates/ironrdp-rdpecam) | 0.1.0 | 0 | Video capture dynamic channel client as described in MS-RDPECAM |
+| 2026-10-26 15:42:04 | [ironrdp-rdpegt](https://crates.io/crates/ironrdp-rdpegt) | 0.1.0 | 0 | Geometry tracking dynamic channel client as described in MS-RDPEGT |
+| 2026-10-26 15:42:07 | [ironrdp-rdpecam-native](https://crates.io/crates/ironrdp-rdpecam-native) | 0.1.0 | 0 | Native camera capture backends for the IronRDP MS-RDPECAM client |
+| 2026-10-26 15:42:07 | [ironrdp-rdpevor](https://crates.io/crates/ironrdp-rdpevor) | 0.1.0 | 0 | Video optimized remoting dynamic channel client as described in MS-RDPEVOR |
+| 2026-10-26 15:42:25 | [mucad-lang-lower](https://crates.io/crates/mucad-lang-lower) | 0.6.0 | 0 | µcad language lower compiler stage and intermediate representation (IR) |
+| 2026-10-26 15:42:47 | [emu198x-sega-315-5124](https://crates.io/crates/emu198x-sega-315-5124) | 0.1.0 | 0 | Sega Master System / Game Gear VDP (315-5124 / 315-5246) |
+| 2026-10-26 15:44:42 | [authkestra-mcp](https://crates.io/crates/authkestra-mcp) | 0.13.1 | 0 | Embedded Model Context Protocol (MCP) security, delegated authorization, and cr… |
+| 2026-10-26 15:44:53 | [win-security-rs](https://crates.io/crates/win-security-rs) | 0.1.3 | 0 | Small owned security subset for Windows: process tokens, SIDs, security descrip… |
+| 2026-10-26 15:52:54 | [emu198x-sega-315-5313](https://crates.io/crates/emu198x-sega-315-5313) | 0.1.0 | 0 | Sega 315-5313 video display processor, stepped slot by slot — Sega Mega Drive |
+| 2026-10-26 15:55:56 | [win-shell-rs](https://crates.io/crates/win-shell-rs) | 0.1.2 | 0 | Small owned shell subset for Windows: known folders, shell links, property stor… |
+| 2026-10-26 15:56:52 | [mucad-lang-resolve](https://crates.io/crates/mucad-lang-resolve) | 0.6.0 | 0 | µcad language resolve compiler stage |
+| 2026-10-26 16:02:21 | [codescope-cli](https://crates.io/crates/codescope-cli) | 0.3.0 | 0 | A single-binary, blazing-fast code-intelligence engine that turns any repositor… |
+| 2026-10-26 16:02:45 | [weituo-expr](https://crates.io/crates/weituo-expr) | 0.2.5 | 0 | Rule-engine DSL parser and evaluator for weituo |
+| 2026-10-26 16:03:02 | [emu198x-sharp-lr35902](https://crates.io/crates/emu198x-sharp-lr35902) | 0.1.0 | 0 | Sharp LR35902 (SM83) CPU — Game Boy SoC core, m-cycle pin-level bus |
+| 2026-10-26 16:03:06 | [libdd-trace-model](https://crates.io/crates/libdd-trace-model) | 1.0.0 | 0 | Shared data model (attribute values and traits) for Datadog trace data |
+| 2026-10-26 16:03:35 | [weituo-core](https://crates.io/crates/weituo-core) | 0.2.5 | 0 | Reusable EVM WAF rule-check engine: rules, DSL builtins, checker (no HTTP serve… |
+| 2026-10-26 16:04:54 | [winrt-desktop-rs](https://crates.io/crates/winrt-desktop-rs) | 0.1.1 | 0 | Small WinRT subset for Windows desktop apps: HSTRING, activation, UI settings,… |
+| 2026-10-26 16:05:21 | [ic3-irc](https://crates.io/crates/ic3-irc) | 0.1.0 | 0 | An IRCv3 server backed by Microsoft Teams chat (ic3-teams) |
+| 2026-10-26 16:06:03 | [mucad-lang-eval](https://crates.io/crates/mucad-lang-eval) | 0.6.0 | 0 | µcad language eval compiler stage |
+| 2026-10-26 16:07:28 | [reactive-db](https://crates.io/crates/reactive-db) | 0.1.0-alpha.1 | 0 | Typed, synchronous incremental collections and delta subscriptions |
+| 2026-10-26 16:07:56 | [tcp-info-analogs](https://crates.io/crates/tcp-info-analogs) | 0.1.0 | 0 | Portable analog of TCP_INFO: normalized TCP connection metrics across Linux, ma… |
+| 2026-10-26 16:12:09 | [simdriver](https://crates.io/crates/simdriver) | 0.1.0 | 0 | Native iOS simulator frames, input, device controls, and accessibility for macOS |
+| 2026-10-26 16:12:30 | [simdriver-agent](https://crates.io/crates/simdriver-agent) | 0.1.0 | 0 | Agent layer over simdriver: element refs, annotated screenshots, validated taps… |
+| 2026-10-26 16:12:49 | [mucad-render](https://crates.io/crates/mucad-render) | 0.6.0 | 0 | µcad render utilities |
+| 2026-10-26 16:13:07 | [emu198x-sinclair-zx81-ula](https://crates.io/crates/emu198x-sinclair-zx81-ula) | 0.1.0 | 0 | Sinclair ZX81 ULA — display, NMI timing, keyboard scan (used by ZX80 too) |
+| 2026-10-26 16:13:14 | [ciplink-server](https://crates.io/crates/ciplink-server) | 0.3.4 | 0 | One server per site that owns the PLC connections and serves tag values over a… |
+| 2026-10-26 16:14:46 | [ratslang-cli](https://crates.io/crates/ratslang-cli) | 0.5.0 | 0 | Check, format, explain and migrate Ratslang configuration files. |
+| 2026-10-26 16:15:09 | [xinput-rs](https://crates.io/crates/xinput-rs) | 0.1.1 | 0 | Small owned XInput binding for Windows: gamepad state, buttons, triggers and st… |
+| 2026-10-26 16:15:57 | [ratslang-lsp](https://crates.io/crates/ratslang-lsp) | 0.5.0 | 0 | Language Server Protocol implementation for Ratslang |
+| 2026-10-26 16:16:02 | [windows-clang-sys](https://crates.io/crates/windows-clang-sys) | 0.0.0 | 0 | windows |
+| 2026-10-26 16:16:45 | [monetize-estate-side](https://crates.io/crates/monetize-estate-side) | 0.3.0 | 0 | The estate side of the ONE monetize's wire, shared by every product: the box pu… |
+| 2026-10-26 16:16:56 | [monetize-mail](https://crates.io/crates/monetize-mail) | 0.3.0 | 0 | monetize's one mail path: an SMTP submission relay, TLS always, the relay's acc… |
+| 2026-10-26 16:17:00 | [cairn-runtime](https://crates.io/crates/cairn-runtime) | 0.1.0 | 0 | Event-sourced, durable, model-agnostic agent runtime core. |
+| 2026-10-26 16:17:02 | [cairn-ai-cli](https://crates.io/crates/cairn-ai-cli) | 0.1.0 | 0 | Inspect and time-travel through Cairn run journals. |
+| 2026-10-26 16:17:04 | [cairn-ai-mcp](https://crates.io/crates/cairn-ai-mcp) | 0.1.0 | 0 | Model Context Protocol client for Cairn: use any MCP server's tools in Cairn ag… |
+| 2026-10-26 16:17:06 | [cairn-journal-postgres](https://crates.io/crates/cairn-journal-postgres) | 0.1.0 | 0 | PostgreSQL journal for Cairn: multi-process-safe durable agent runs. |
+| 2026-10-26 16:17:07 | [cairn-models](https://crates.io/crates/cairn-models) | 0.1.0 | 0 | Model adapters for Cairn: Anthropic and any OpenAI-compatible API. |
+| 2026-10-26 16:17:10 | [nordisk-estate-svg](https://crates.io/crates/nordisk-estate-svg) | 0.1.0 | 0 | The estate, drawn: one self-contained SVG board of an estate's machines, shared… |
+| 2026-10-26 16:17:51 | [celox-heap](https://crates.io/crates/celox-heap) | 0.0.0 | 0 | Initial publication placeholder for celox-heap; use a later version for the imp… |
+| 2026-10-26 16:17:56 | [aplite](https://crates.io/crates/aplite) | 0.0.0 | 0 | Initial publication placeholder for aplite; use a later version for the impleme… |
+| 2026-10-26 16:18:23 | [miresidian_abi](https://crates.io/crates/miresidian_abi) | 0.10.0 | 0 | Miresidian 的稳定 C ABI 契约、状态码与公共 FFI 类型。 |
+| 2026-10-26 16:18:25 | [miresidian_codec](https://crates.io/crates/miresidian_codec) | 0.10.0 | 0 | Miresidian 数据编解码、参数解析与跨语言值模型。 |
+| 2026-10-26 16:18:28 | [miresidian_macro](https://crates.io/crates/miresidian_macro) | 0.10.0 | 0 | Miresidian 的设备节点属性过程宏。 |
+| 2026-10-26 16:18:37 | [miresidian_lease](https://crates.io/crates/miresidian_lease) | 0.10.0 | 0 | Miresidian 通用跨进程资源租约协议与本地 IPC 基础。 |
+| 2026-10-26 16:18:48 | [miresidian](https://crates.io/crates/miresidian) | 0.10.0 | 0 | A Rust runtime for cross-language test-device nodes. |
 
 ## Data source
 

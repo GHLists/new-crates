@@ -1,0 +1,62 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T15:21:07.287812Z,livegraph,0.1.0,0,0,https://github.com/LioRael/livegraph,Typed dependency graphs with transactional snapshot publication
+2026-10-26T15:22:35.618819Z,emu198x-ricoh-ppu-2c02,0.1.0,0,0,https://github.com/emu198x/emu198x,"Ricoh 2C02 PPU — dot-level NES picture processing unit. One tick() = one PPU dot. Background tile pipeline, sprite evaluation with hardware overflow bug, loopy scroll registers, NMI timing with 2-dot…"
+2026-10-26T15:22:48.103499Z,mucad-import,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad import API
+2026-10-26T15:24:56.094021Z,mediafoundation-rs,0.2.0,0,0,https://github.com/doom-fish/mediafoundation-rs,"Small owned media engine subset for Windows, loaded at run time: playback into Direct3D 11 textures"
+2026-10-26T15:25:04.877492Z,gpty-core,0.7.0,0,0,https://github.com/godot-pty/gpty,"Core library for gpty: PTY management, terminal parsing, and concept-based orchestration"
+2026-10-26T15:28:12.873654Z,filterkit,0.1.0,0,0,https://github.com/Rechenmaschine/filterkit,Composable DSP filters and processors for embedded and desktop Rust.
+2026-10-26T15:32:41.858772Z,emu198x-ricoh-rp5c01,0.1.0,0,0,https://github.com/emu198x/emu198x,"Ricoh RP5C01 real-time clock: BCD time and calendar, alarm block, 26 nibbles of battery-backed RAM"
+2026-10-26T15:33:26.107789Z,mucad-builtin,0.6.0,0,0,,Provides the built-in functionalities available in the µcad language.
+2026-10-26T15:34:09.203685Z,lightshadedb-codegen,2.0.0,0,0,https://github.com/burak-colakkadioglu/lightshadedb,"Lightshade DB IR, validation, and specialized code generation."
+2026-10-26T15:34:20.643664Z,lightshadedb-macros,2.0.0,0,0,https://github.com/burak-colakkadioglu/lightshadedb,Rust-native schema and operation macros for Lightshade DB.
+2026-10-26T15:34:33.103826Z,lightshadedb,2.0.0,0,0,https://github.com/burak-colakkadioglu/lightshadedb,"Lightshade DB: Rust-native schema, specialized queries, embedded and connected deployment."
+2026-10-26T15:36:14.370201Z,axkit-macros,0.1.0,0,0,https://github.com/Amjad50/axkit,"Route attribute macros for axkit: axum routing, OpenAPI and tracing from one annotation."
+2026-10-26T15:36:17.534014Z,axkit,0.1.0,0,0,https://github.com/Amjad50/axkit,"A small layer over axum: auto-registered routes, OpenAPI, config, telemetry, tasks."
+2026-10-26T15:36:47.394855Z,win-registry-rs,0.1.2,0,0,https://github.com/doom-fish/win-registry-rs,Small owned registry subset for Windows: string values under predefined and opened keys
+2026-10-26T15:40:00.960913Z,gpty-ipc,0.7.0,0,0,https://github.com/godot-pty/gpty,"JSON-RPC IPC transport, client, and server for gpty workspace control"
+2026-10-26T15:42:02.727843Z,ironrdp-egfx-native,0.1.0,0,0,https://github.com/Devolutions/IronRDP,Native H.264 decoders for the IronRDP graphics and video channels
+2026-10-26T15:42:03.682183Z,ironrdp-rdpecam,0.1.0,0,0,https://github.com/Devolutions/IronRDP,Video capture dynamic channel client as described in MS-RDPECAM
+2026-10-26T15:42:04.611754Z,ironrdp-rdpegt,0.1.0,0,0,https://github.com/Devolutions/IronRDP,Geometry tracking dynamic channel client as described in MS-RDPEGT
+2026-10-26T15:42:07.474768Z,ironrdp-rdpecam-native,0.1.0,0,0,https://github.com/Devolutions/IronRDP,Native camera capture backends for the IronRDP MS-RDPECAM client
+2026-10-26T15:42:07.943009Z,ironrdp-rdpevor,0.1.0,0,0,https://github.com/Devolutions/IronRDP,Video optimized remoting dynamic channel client as described in MS-RDPEVOR
+2026-10-26T15:42:25.011586Z,mucad-lang-lower,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad language lower compiler stage and intermediate representation (IR)
+2026-10-26T15:42:47.290207Z,emu198x-sega-315-5124,0.1.0,0,0,https://github.com/emu198x/emu198x,Sega Master System / Game Gear VDP (315-5124 / 315-5246)
+2026-10-26T15:44:42.680953Z,authkestra-mcp,0.13.1,0,0,https://github.com/marcjazz/authkestra,"Embedded Model Context Protocol (MCP) security, delegated authorization, and cryptographic step-up approval crate for the authkestra framework"
+2026-10-26T15:44:53.863415Z,win-security-rs,0.1.3,0,0,https://github.com/doom-fish/win-security-rs,"Small owned security subset for Windows: process tokens, SIDs, security descriptors, credentials and system random numbers"
+2026-10-26T15:52:54.627566Z,emu198x-sega-315-5313,0.1.0,0,0,https://github.com/emu198x/emu198x,"Sega 315-5313 video display processor, stepped slot by slot — Sega Mega Drive"
+2026-10-26T15:55:56.43216Z,win-shell-rs,0.1.2,0,0,https://github.com/doom-fish/win-shell-rs,"Small owned shell subset for Windows: known folders, shell links, property stores, dialogs, jump lists and drag and drop"
+2026-10-26T15:56:52.425206Z,mucad-lang-resolve,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad language resolve compiler stage
+2026-10-26T16:02:21.812393Z,codescope-cli,0.3.0,0,0,https://github.com/adventurewave-labs/codescope,"A single-binary, blazing-fast code-intelligence engine that turns any repository into a queryable structural graph — purpose-built for AI coding agents."
+2026-10-26T16:02:45.647531Z,weituo-expr,0.2.5,0,0,https://github.com/jsvisa/weituo,Rule-engine DSL parser and evaluator for weituo
+2026-10-26T16:03:02.032855Z,emu198x-sharp-lr35902,0.1.0,0,0,https://github.com/emu198x/emu198x,"Sharp LR35902 (SM83) CPU — Game Boy SoC core, m-cycle pin-level bus"
+2026-10-26T16:03:06.186615Z,libdd-trace-model,1.0.0,0,0,https://github.com/DataDog/libdatadog/tree/main/libdd-trace-model,Shared data model (attribute values and traits) for Datadog trace data
+2026-10-26T16:03:35.324513Z,weituo-core,0.2.5,0,0,https://github.com/jsvisa/weituo,"Reusable EVM WAF rule-check engine: rules, DSL builtins, checker (no HTTP server)"
+2026-10-26T16:04:54.309705Z,winrt-desktop-rs,0.1.1,0,0,https://github.com/doom-fish/winrt-desktop-rs,"Small WinRT subset for Windows desktop apps: HSTRING, activation, UI settings, XML documents and toast notifications"
+2026-10-26T16:05:21.628905Z,ic3-irc,0.1.0,0,0,https://github.com/Jezza/ic3,An IRCv3 server backed by Microsoft Teams chat (ic3-teams)
+2026-10-26T16:06:03.331748Z,mucad-lang-eval,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad language eval compiler stage
+2026-10-26T16:07:28.572392Z,reactive-db,0.1.0-alpha.1,0,0,https://github.com/LioRael/reactive-db,"Typed, synchronous incremental collections and delta subscriptions"
+2026-10-26T16:07:56.52303Z,tcp-info-analogs,0.1.0,0,0,https://github.com/deveyus/tcp-info-analogs,"Portable analog of TCP_INFO: normalized TCP connection metrics across Linux, macOS, and Windows"
+2026-10-26T16:12:09.470912Z,simdriver,0.1.0,0,0,,"Native iOS simulator frames, input, device controls, and accessibility for macOS"
+2026-10-26T16:12:30.664007Z,simdriver-agent,0.1.0,0,0,,"Agent layer over simdriver: element refs, annotated screenshots, validated taps, multi-step flows"
+2026-10-26T16:12:49.772193Z,mucad-render,0.6.0,0,0,https://codeberg.org/mucad/mucad,µcad render utilities
+2026-10-26T16:13:07.617943Z,emu198x-sinclair-zx81-ula,0.1.0,0,0,https://github.com/emu198x/emu198x,"Sinclair ZX81 ULA — display, NMI timing, keyboard scan (used by ZX80 too)"
+2026-10-26T16:13:14.45372Z,ciplink-server,0.3.4,0,0,https://github.com/RowanRama/ciplink,One server per site that owns the PLC connections and serves tag values over a WebSocket
+2026-10-26T16:14:46.382279Z,ratslang-cli,0.5.0,0,0,https://codeberg.org/stelzo/ratslang,"Check, format, explain and migrate Ratslang configuration files."
+2026-10-26T16:15:09.826561Z,xinput-rs,0.1.1,0,0,https://github.com/doom-fish/xinput-rs,"Small owned XInput binding for Windows: gamepad state, buttons, triggers and sticks"
+2026-10-26T16:15:57.695127Z,ratslang-lsp,0.5.0,0,0,https://codeberg.org/stelzo/ratslang,Language Server Protocol implementation for Ratslang
+2026-10-26T16:16:02.898081Z,windows-clang-sys,0.0.0,0,0,https://github.com/microsoft/windows-rs,windows
+2026-10-26T16:16:45.022967Z,monetize-estate-side,0.3.0,0,0,https://git.gunnar.rs/nordisk/monetize,"The estate side of the ONE monetize's wire, shared by every product: the box pump (Fleet.Report / Orders / Ask: the box key, verify, run through the product's executor, ack; the jera round) and the f…"
+2026-10-26T16:16:56.285037Z,monetize-mail,0.3.0,0,0,https://git.gunnar.rs/nordisk/monetize,"monetize's one mail path: an SMTP submission relay, TLS always, the relay's acceptance as the audit record"
+2026-10-26T16:17:00.332077Z,cairn-runtime,0.1.0,0,0,https://github.com/whatstask/Cairn,"Event-sourced, durable, model-agnostic agent runtime core."
+2026-10-26T16:17:02.799017Z,cairn-ai-cli,0.1.0,0,0,https://github.com/whatstask/Cairn,Inspect and time-travel through Cairn run journals.
+2026-10-26T16:17:04.851818Z,cairn-ai-mcp,0.1.0,0,0,https://github.com/whatstask/Cairn,Model Context Protocol client for Cairn: use any MCP server's tools in Cairn agents.
+2026-10-26T16:17:06.394148Z,cairn-journal-postgres,0.1.0,0,0,https://github.com/whatstask/Cairn,PostgreSQL journal for Cairn: multi-process-safe durable agent runs.
+2026-10-26T16:17:07.695261Z,cairn-models,0.1.0,0,0,https://github.com/whatstask/Cairn,Model adapters for Cairn: Anthropic and any OpenAI-compatible API.
+2026-10-26T16:17:10.075417Z,nordisk-estate-svg,0.1.0,0,0,https://git.gunnar.rs/nordisk/monetize,"The estate, drawn: one self-contained SVG board of an estate's machines, shared by the gunnar and monetize consoles"
+2026-10-26T16:17:51.571622Z,celox-heap,0.0.0,0,0,https://github.com/celox-sim/celox,Initial publication placeholder for celox-heap; use a later version for the implementation
+2026-10-26T16:17:56.070576Z,aplite,0.0.0,0,0,https://github.com/celox-sim/celox,Initial publication placeholder for aplite; use a later version for the implementation
+2026-10-26T16:18:23.267646Z,miresidian_abi,0.10.0,0,0,https://github.com/MyMires/miresidian,Miresidian 的稳定 C ABI 契约、状态码与公共 FFI 类型。
+2026-10-26T16:18:25.642739Z,miresidian_codec,0.10.0,0,0,https://github.com/MyMires/miresidian,Miresidian 数据编解码、参数解析与跨语言值模型。
+2026-10-26T16:18:28.149969Z,miresidian_macro,0.10.0,0,0,https://github.com/MyMires/miresidian,Miresidian 的设备节点属性过程宏。
+2026-10-26T16:18:37.699269Z,miresidian_lease,0.10.0,0,0,https://github.com/MyMires/miresidian,Miresidian 通用跨进程资源租约协议与本地 IPC 基础。
+2026-10-26T16:18:48.209263Z,miresidian,0.10.0,0,0,https://github.com/MyMires/miresidian,A Rust runtime for cross-language test-device nodes.
