@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T19:19:20.464236Z,ffmpeg-src,0.0.0,0,0,,FFMPEG sources and native build support.
+2026-10-26T19:19:24.817406Z,madcat-relay-proto,0.1.0,0,0,https://git.saiden.dev/madcat-os/madcat-mcp,"Frame protocol between the madcat relay ({instance}.madcat-os.com) and the Madcat.app agent: binary codec, per-stream flow control, fair outbound scheduler"
+2026-10-26T19:20:26.786788Z,lexlean,0.4.0,0,0,https://github.com/UOR-Foundation/LexLean,A closed-lexicon LaTeX-to-Lean 4 compiler whose canonical document and prose-free Lean program are generated from one semantic representation.
+2026-10-26T19:20:35.743032Z,gstreamer-src,0.0.0,0,0,,GStreamer sources and native build support.
+2026-10-26T19:22:08.555703Z,kanzo,0.1.2,0,0,https://github.com/emanuele-em/kanzo,"A local kanban board for you and your agents, with an MCP server"
+2026-10-26T19:27:23.833788Z,emu198x-peripheral-romantic-robot-sinclair-zx-spectrum-multiface,0.1.0,0,0,https://github.com/emu198x/emu198x,Romantic Robot Multiface 128 and Multiface 3 — Spectrum edge-connector peripheral
+2026-10-26T19:29:45.729056Z,cloud-tasks-emulator,0.1.0,0,0,https://github.com/mwpryer/cloud-tasks-emulator,Local emulator of the Google Cloud Tasks v2 API
+2026-10-26T19:30:21.957479Z,cargo-nux,0.1.0,0,0,https://codeberg.org/AntonWetzel/Nux,Use nushell as a command runner
+2026-10-26T19:33:17.435806Z,constrs,0.1.0,0,0,https://github.com/Davoodeh/constrs,"A low-level collection of no alloc, `const`-time one-pass parsers, encoders and formatters"
+2026-10-26T19:37:32.363914Z,emu198x-peripheral-sinclair-zx-spectrum-divmmc,0.1.0,0,0,https://github.com/emu198x/emu198x,DivMMC SD card interface — Spectrum edge-connector peripheral
+2026-10-26T19:47:40.73794Z,emu198x-peripheral-sinclair-zx-spectrum-interface1,0.1.0,0,0,https://github.com/emu198x/emu198x,Sinclair ZX Interface 1 and ZX Microdrives — Spectrum edge-connector peripheral
+2026-10-26T19:47:41.836619Z,chamber-vault-fork,0.5.4,0,0,https://github.com/koko1111/chamber,Core vault functionality for Chamber secrets manager
+2026-10-26T19:47:50.457974Z,chamber-import-export-fork,0.5.4,0,0,https://github.com/koko1111/chamber,Import/export functionality for Chamber secrets manager
+2026-10-26T19:48:01.916312Z,chamber-password-gen-fork,0.5.4,0,0,https://github.com/koko1111/chamber,Password generation utilities for Chamber secrets manager
+2026-10-26T19:48:12.316544Z,chamber-backup-fork,0.5.4,0,0,https://github.com/koko1111/chamber,Backup functionality for Chamber secrets manager
+2026-10-26T19:48:35.291521Z,chamber-ui-fork,0.5.4,0,0,https://github.com/koko1111/chamber,TUI interface for Chamber secrets manager
+2026-10-26T19:49:17.059896Z,indexly,0.1.0,0,0,https://github.com/arrxy/indexly,A disk-backed BM25 search engine with compressed posting lists and parallel indexing
+2026-10-26T19:49:20.25633Z,aura-ui-core,0.1.0,0,0,,"Núcleo de Aura UI: entidades, tareas, geometría, color y animaciones."
+2026-10-26T19:49:49.709658Z,aura-ui-gpu,0.1.0,0,0,,"Renderizador de Aura UI sobre wgpu (Metal, Vulkan, DX12, GLES) con texto, sombras e imágenes."
+2026-10-26T19:50:16.671162Z,aura-ui-view,0.1.0,0,0,,"Árbol de elementos de Aura UI: estilo tipo Tailwind, layout flexbox, foco, teclado y accesibilidad."
+2026-10-26T19:50:43.41535Z,aura-ui-widgets,0.1.0,0,0,,"Componentes de Aura UI al estilo shadcn: botones, pestañas, entradas, menús, selectores."
+2026-10-26T19:51:10.948149Z,aura-ui-app,0.1.0,0,0,,"Ventana y bucle de eventos de Aura UI para escritorio, Android e iOS."
+2026-10-26T19:53:37.016612Z,gsl-oxide-special,0.1.0,0,0,https://github.com/jware-solutions/gsl-oxide,Native Rust implementations of selected GSL special functions
+2026-10-26T19:53:38.954535Z,gsl-oxide-integration,0.1.0,0,0,https://github.com/jware-solutions/gsl-oxide,"Safe Rust adaptive quadrature for finite, infinite, and endpoint-singular integrals"
+2026-10-26T19:53:41.420749Z,gsl-oxide-statistics,0.1.0,0,0,https://github.com/jware-solutions/gsl-oxide,"Safe Rust slice, weighted, and mergeable streaming statistics"
+2026-10-26T19:54:09.205328Z,vimlet,0.1.0,0,0,https://github.com/codersauce/vimlet,A headless Vim editing engine for Rust
+2026-10-26T19:54:45.352515Z,uk-bank-details-validator,0.1.0,0,0,https://github.com/bp7968h/uk-bank-details-validator,Validate UK sort code and account number pairs using the Vocalink modulus checking specification
+2026-10-26T19:58:40.075241Z,mdzip-core,0.1.0,0,0,https://github.com/mdzip-project/mdzip-core-rust,Read and write MDZip (.mdz) archives: Markdown documents and their images in one portable file.
+2026-10-26T20:00:45.653026Z,aura-ui-ai,0.1.0,0,0,,"Agentes de IA para apps de Aura UI: HTTP, ACP y MCP sobre el estado de la aplicación."
+2026-10-26T20:04:02.521387Z,togematch,0.1.0,0,0,https://github.com/kurodaze/togematch,Finds a track's official audio upload on YouTube
+2026-10-26T20:08:48.00225Z,fast-worktree,0.2.0,0,0,https://github.com/t09tanaka/fast-worktree,"Create a git worktree with its dependencies in seconds, and remove it in one"
+2026-10-26T20:10:51.896824Z,aura-ui,0.1.0,0,0,,"UI nativa acelerada por GPU para escritorio, Android e iOS: estilo tipo Tailwind, componentes, sombras y animaciones, con reposo a cero."
+2026-10-26T20:11:55.79889Z,appd,0.2.0,0,0,,"A thin, hardened frontend for systemd"
+2026-10-26T20:12:16.615534Z,tembra-core,0.1.0,0,0,https://github.com/syntropika/tembra,Language-neutral ownership and execution kernel for Tembra
+2026-10-26T20:12:18.365049Z,tembra,0.1.0,0,0,https://github.com/syntropika/tembra,Managed Rust orbs and native execution for Tembra
+2026-10-26T20:12:18.715748Z,tembra-bridge,0.1.0,0,0,https://github.com/syntropika/tembra,Metadata-only adapter protocol for the Tembra kernel
+2026-10-26T20:12:19.529926Z,tembra-browser-wasm,0.1.0,0,0,https://github.com/syntropika/tembra,WebAssembly adapter for the Tembra metadata kernel
+2026-10-26T20:12:19.744919Z,tembra-executor-js,0.1.0,0,0,https://github.com/syntropika/tembra,Optional V8 execution adapter for Tembra
+2026-10-26T20:14:32.713984Z,xavier-cli,1.0.0,0,0,https://github.com/zeromask1337/xavier,Agent-first CLI for searching X posts via xAI X Search
+2026-10-26T20:16:18.698534Z,tembra-mobile,0.1.0,0,0,https://github.com/syntropika/tembra,Thread-safe Swift and Kotlin bindings for the Tembra metadata kernel
+2026-10-26T20:18:13.3406Z,kernel-utils,0.1.0,0,0,,Rust implementation of linux kernel module management
+2026-10-26T20:18:21.536159Z,git2mail-core,0.8.0,0,0,,"Pure std-only core of git2mail: URL parsing, email/noreply rules, sanitization, correlation, variant engine and payload parsing - shared by the CLI crate and the WASM bindings, compiles to wasm32-unk…"

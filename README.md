@@ -8,61 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 19:18 UTC
+## Latest list — 2026-10-26 20:18 UTC
 
-New crates published between 2026-10-26 18:18 UTC and 2026-10-26 19:18 UTC.
+New crates published between 2026-10-26 19:18 UTC and 2026-10-26 20:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-26T19-18-58-585337Z.csv)
+[Full CSV](data/new-crates-2026-10-26T20-18-36-355219Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-26 18:19:38 | [envdoc](https://crates.io/crates/envdoc) | 0.1.0 | 0 | Fast, safe-by-construction AST auditor keeping .env.example in sync with Rust &… |
-| 2026-10-26 18:21:05 | [macp-cli](https://crates.io/crates/macp-cli) | 0.10.0 | 0 | The `macp` command line: run the self-host stack, verify decision receipts, run… |
-| 2026-10-26 18:21:41 | [kvd-lsp](https://crates.io/crates/kvd-lsp) | 0.4.0 | 0 | Language server for the KVD config/data format |
-| 2026-10-26 18:22:00 | [flashblocks](https://crates.io/crates/flashblocks) | 0.1.0 | 0 | Decode Base Flashblocks in real time: Chainlink price updates straight from the… |
-| 2026-10-26 18:22:53 | [sentinel-fleet](https://crates.io/crates/sentinel-fleet) | 0.0.0 | 0 | Fleet mode for Sentinel: coordinate policy-gated agents across multiple hosts |
-| 2026-10-26 18:24:31 | [emu198x-commodore-agnus-ecs](https://crates.io/crates/emu198x-commodore-agnus-ecs) | 0.1.0 | 0 | Commodore Super Agnus (ECS) — thin wrapper over emu198x-commodore-agnus-ocs tha… |
-| 2026-10-26 18:27:06 | [rustev-pkg-lodging](https://crates.io/crates/rustev-pkg-lodging) | 0.1.0 | 0 | Rustev reference package: the lodging recommendation definition and SYNTHETIC m… |
-| 2026-10-26 18:27:25 | [hydrax-core](https://crates.io/crates/hydrax-core) | 0.1.0 | 0 | Units, tensors, numerical conventions, and error types for Hydrax |
-| 2026-10-26 18:27:25 | [hydrax-io](https://crates.io/crates/hydrax-io) | 0.1.0 | 0 | Run configuration, provenance records, and output serialization for Hydrax |
-| 2026-10-26 18:27:26 | [hydrax-wave](https://crates.io/crates/hydrax-wave) | 0.1.0 | 0 | Quadrupole sources, polarizations, spectra, and radiated-energy diagnostics for… |
-| 2026-10-26 18:27:28 | [hydrax](https://crates.io/crates/hydrax) | 0.1.0 | 0 | Core-collapse supernova gravitational-wave simulation tools |
-| 2026-10-26 18:27:29 | [hydrax-cli](https://crates.io/crates/hydrax-cli) | 0.1.0 | 0 | Command-line interface for the Hydrax gravitational-wave tools |
-| 2026-10-26 18:27:33 | [weir-status](https://crates.io/crates/weir-status) | 4.1.0 | 0 | Status model, Conditions evaluator and probe predicates shared by the weir daem… |
-| 2026-10-26 18:34:23 | [solana_kit_helius](https://crates.io/crates/solana_kit_helius) | 0.0.0 | 0 | Reserved off-chain Helius provider client crate for the portable Solana Kit SDK |
-| 2026-10-26 18:37:06 | [rustev](https://crates.io/crates/rustev) | 0.1.0 | 0 | Rustev, an embeddable decision engine: one facade over the release family, with… |
-| 2026-10-26 18:37:43 | [flow-agent-core](https://crates.io/crates/flow-agent-core) | 0.0.1 | 0 | Placeholder for flow-agent-core, part of flow-agent: LangChain/LangGraph-style… |
-| 2026-10-26 18:37:45 | [flow-agent-models](https://crates.io/crates/flow-agent-models) | 0.0.1 | 0 | Placeholder for flow-agent-models, part of flow-agent: LangChain/LangGraph-styl… |
-| 2026-10-26 18:37:47 | [flow-agent-graph](https://crates.io/crates/flow-agent-graph) | 0.0.1 | 0 | Placeholder for flow-agent-graph, part of flow-agent: LangChain/LangGraph-style… |
-| 2026-10-26 18:37:48 | [flow-agent-checkpoint](https://crates.io/crates/flow-agent-checkpoint) | 0.0.1 | 0 | Placeholder for flow-agent-checkpoint, part of flow-agent: LangChain/LangGraph-… |
-| 2026-10-26 18:37:50 | [flow-agent-prebuilt](https://crates.io/crates/flow-agent-prebuilt) | 0.0.1 | 0 | Placeholder for flow-agent-prebuilt, part of flow-agent: LangChain/LangGraph-st… |
-| 2026-10-26 18:39:06 | [lang198x-ca65](https://crates.io/crates/lang198x-ca65) | 0.0.1 | 0 | The ca65 assembler family for Lang198x: one lossless parser for the cc65 suite'… |
-| 2026-10-26 18:41:23 | [sentinel-mcp](https://crates.io/crates/sentinel-mcp) | 0.0.0 | 0 | MCP (Model Context Protocol) policy gate for Sentinel: lets coding agents query… |
-| 2026-10-26 18:43:58 | [bridgy](https://crates.io/crates/bridgy) | 0.1.0 | 0 | Cross-platform SIMD abstraction |
-| 2026-10-26 18:44:43 | [particledb-sdk](https://crates.io/crates/particledb-sdk) | 0.2.0 | 0 | Official Rust SDK for ParticleDB |
-| 2026-10-26 18:45:20 | [rune-toolchain-core](https://crates.io/crates/rune-toolchain-core) | 0.1.0 | 0 | Immutable, content-addressed build plans and evidence for the Rune learning too… |
-| 2026-10-26 18:45:23 | [rune-toolchain-cargo](https://crates.io/crates/rune-toolchain-cargo) | 0.1.0 | 0 | Cargo adapter for the Rune learning toolchain: toolchain identity, locked offli… |
-| 2026-10-26 18:45:27 | [rune-toolchain](https://crates.io/crates/rune-toolchain) | 0.1.0 | 0 | Rune: the learning toolchain for Rust. Frozen build plans, offline replay, inde… |
-| 2026-10-26 18:48:52 | [flow-agent](https://crates.io/crates/flow-agent) | 0.0.1 | 0 | Placeholder for flow-agent, part of flow-agent: LangChain/LangGraph-style LLM c… |
-| 2026-10-26 18:49:37 | [wgx-proto](https://crates.io/crates/wgx-proto) | 0.8.6 | 0 | Sans-io implementation of the WireGuard protocol for the SNAP underlay |
-| 2026-10-26 18:51:27 | [commoncrypto-rs](https://crates.io/crates/commoncrypto-rs) | 0.1.0 | 0 | Stream SHA-256 data with Apple's CommonCrypto |
-| 2026-10-26 18:53:55 | [reddb-io-tonic](https://crates.io/crates/reddb-io-tonic) | 1.26.8 | 0 | RedDB compatibility distribution of Tonic with current zstd bindings. |
-| 2026-10-26 18:53:59 | [reddb-io-tonic-prost](https://crates.io/crates/reddb-io-tonic-prost) | 1.26.8 | 0 | RedDB compatibility distribution of the upstream Tonic Prost codec. |
-| 2026-10-26 18:54:55 | [alarmant](https://crates.io/crates/alarmant) | 0.0.0 | 0 | Reserved name: an emergency alert that cannot be ignored (Android app plus send… |
-| 2026-10-26 19:02:39 | [fofa-rs](https://crates.io/crates/fofa-rs) | 0.1.0 | 0 | A fast, lightweight Rust CLI tool for parsing FOFA.io search results |
-| 2026-10-26 19:07:38 | [msquic-src](https://crates.io/crates/msquic-src) | 0.0.0 | 0 | MsQuic sources and native build support. |
-| 2026-10-26 19:07:42 | [contact-sheet](https://crates.io/crates/contact-sheet) | 0.5.0 | 0 | Create A4, A3 or Letter contact sheets (JPEG or PDF/X-4) from Canon, Nikon, Fuj… |
-| 2026-10-26 19:09:54 | [rpm-utils](https://crates.io/crates/rpm-utils) | 0.2.0 | 0 | Read, build, compare, edit, and lint RPM packages and CPIO archives |
-| 2026-10-26 19:10:27 | [cardputer-adv](https://crates.io/crates/cardputer-adv) | 0.1.0 | 0 | Board support for the M5Stack Cardputer ADV (ESP32-S3) on esp-hal: display, key… |
-| 2026-10-26 19:10:54 | [emu198x-commodore-denise-ecs](https://crates.io/crates/emu198x-commodore-denise-ecs) | 0.1.0 | 0 | Commodore Super Denise (ECS) — thin wrapper over emu198x-commodore-denise-ocs t… |
-| 2026-10-26 19:10:58 | [emu198x-gi-ay-3-8912](https://crates.io/crates/emu198x-gi-ay-3-8912) | 0.1.0 | 0 | General Instrument AY-3-8912 PSG — single-I/O-port facade over the AY-3-8910 co… |
-| 2026-10-26 19:11:03 | [emu198x-peripheral-kempston-sinclair-zx-spectrum-joystick](https://crates.io/crates/emu198x-peripheral-kempston-sinclair-zx-spectrum-joystick) | 0.1.0 | 0 | Kempston Interface joystick — Spectrum edge-connector peripheral |
-| 2026-10-26 19:11:10 | [emu198x-peripheral-kempston-sinclair-zx-spectrum-mouse](https://crates.io/crates/emu198x-peripheral-kempston-sinclair-zx-spectrum-mouse) | 0.1.0 | 0 | Kempston mouse interface — Spectrum edge-connector peripheral |
-| 2026-10-26 19:14:38 | [manifold-codec](https://crates.io/crates/manifold-codec) | 1.3.0 | 0 | Lossless RGB8 shared-patch atlas image codecs (MNF5/MNF6/MNF7/MNF8) |
-| 2026-10-26 19:14:47 | [manifold-codec-capi](https://crates.io/crates/manifold-codec-capi) | 1.3.0 | 0 | C FFI for the Manifold lossless RGB8 codecs |
-| 2026-10-26 19:16:48 | [lance-csr-catalog](https://crates.io/crates/lance-csr-catalog) | 0.3.0 | 0 | Catalog and namespace utilities for Lance graph |
-| 2026-10-26 19:16:48 | [mnn-src](https://crates.io/crates/mnn-src) | 0.0.0 | 0 | MNN sources and native build support. |
-| 2026-10-26 19:16:49 | [lance-csr](https://crates.io/crates/lance-csr) | 0.3.0 | 0 | Graph query engine for Lance datasets with Cypher support |
+| 2026-10-26 19:19:20 | [ffmpeg-src](https://crates.io/crates/ffmpeg-src) | 0.0.0 | 0 | FFMPEG sources and native build support. |
+| 2026-10-26 19:19:24 | [madcat-relay-proto](https://crates.io/crates/madcat-relay-proto) | 0.1.0 | 0 | Frame protocol between the madcat relay ({instance}.madcat-os.com) and the Madc… |
+| 2026-10-26 19:20:26 | [lexlean](https://crates.io/crates/lexlean) | 0.4.0 | 0 | A closed-lexicon LaTeX-to-Lean 4 compiler whose canonical document and prose-fr… |
+| 2026-10-26 19:20:35 | [gstreamer-src](https://crates.io/crates/gstreamer-src) | 0.0.0 | 0 | GStreamer sources and native build support. |
+| 2026-10-26 19:22:08 | [kanzo](https://crates.io/crates/kanzo) | 0.1.2 | 0 | A local kanban board for you and your agents, with an MCP server |
+| 2026-10-26 19:27:23 | [emu198x-peripheral-romantic-robot-sinclair-zx-spectrum-multiface](https://crates.io/crates/emu198x-peripheral-romantic-robot-sinclair-zx-spectrum-multiface) | 0.1.0 | 0 | Romantic Robot Multiface 128 and Multiface 3 — Spectrum edge-connector peripher… |
+| 2026-10-26 19:29:45 | [cloud-tasks-emulator](https://crates.io/crates/cloud-tasks-emulator) | 0.1.0 | 0 | Local emulator of the Google Cloud Tasks v2 API |
+| 2026-10-26 19:30:21 | [cargo-nux](https://crates.io/crates/cargo-nux) | 0.1.0 | 0 | Use nushell as a command runner |
+| 2026-10-26 19:33:17 | [constrs](https://crates.io/crates/constrs) | 0.1.0 | 0 | A low-level collection of no alloc, `const`-time one-pass parsers, encoders and… |
+| 2026-10-26 19:37:32 | [emu198x-peripheral-sinclair-zx-spectrum-divmmc](https://crates.io/crates/emu198x-peripheral-sinclair-zx-spectrum-divmmc) | 0.1.0 | 0 | DivMMC SD card interface — Spectrum edge-connector peripheral |
+| 2026-10-26 19:47:40 | [emu198x-peripheral-sinclair-zx-spectrum-interface1](https://crates.io/crates/emu198x-peripheral-sinclair-zx-spectrum-interface1) | 0.1.0 | 0 | Sinclair ZX Interface 1 and ZX Microdrives — Spectrum edge-connector peripheral |
+| 2026-10-26 19:47:41 | [chamber-vault-fork](https://crates.io/crates/chamber-vault-fork) | 0.5.4 | 0 | Core vault functionality for Chamber secrets manager |
+| 2026-10-26 19:47:50 | [chamber-import-export-fork](https://crates.io/crates/chamber-import-export-fork) | 0.5.4 | 0 | Import/export functionality for Chamber secrets manager |
+| 2026-10-26 19:48:01 | [chamber-password-gen-fork](https://crates.io/crates/chamber-password-gen-fork) | 0.5.4 | 0 | Password generation utilities for Chamber secrets manager |
+| 2026-10-26 19:48:12 | [chamber-backup-fork](https://crates.io/crates/chamber-backup-fork) | 0.5.4 | 0 | Backup functionality for Chamber secrets manager |
+| 2026-10-26 19:48:35 | [chamber-ui-fork](https://crates.io/crates/chamber-ui-fork) | 0.5.4 | 0 | TUI interface for Chamber secrets manager |
+| 2026-10-26 19:49:17 | [indexly](https://crates.io/crates/indexly) | 0.1.0 | 0 | A disk-backed BM25 search engine with compressed posting lists and parallel ind… |
+| 2026-10-26 19:49:20 | [aura-ui-core](https://crates.io/crates/aura-ui-core) | 0.1.0 | 0 | Núcleo de Aura UI: entidades, tareas, geometría, color y animaciones. |
+| 2026-10-26 19:49:49 | [aura-ui-gpu](https://crates.io/crates/aura-ui-gpu) | 0.1.0 | 0 | Renderizador de Aura UI sobre wgpu (Metal, Vulkan, DX12, GLES) con texto, sombr… |
+| 2026-10-26 19:50:16 | [aura-ui-view](https://crates.io/crates/aura-ui-view) | 0.1.0 | 0 | Árbol de elementos de Aura UI: estilo tipo Tailwind, layout flexbox, foco, tecl… |
+| 2026-10-26 19:50:43 | [aura-ui-widgets](https://crates.io/crates/aura-ui-widgets) | 0.1.0 | 0 | Componentes de Aura UI al estilo shadcn: botones, pestañas, entradas, menús, se… |
+| 2026-10-26 19:51:10 | [aura-ui-app](https://crates.io/crates/aura-ui-app) | 0.1.0 | 0 | Ventana y bucle de eventos de Aura UI para escritorio, Android e iOS. |
+| 2026-10-26 19:53:37 | [gsl-oxide-special](https://crates.io/crates/gsl-oxide-special) | 0.1.0 | 0 | Native Rust implementations of selected GSL special functions |
+| 2026-10-26 19:53:38 | [gsl-oxide-integration](https://crates.io/crates/gsl-oxide-integration) | 0.1.0 | 0 | Safe Rust adaptive quadrature for finite, infinite, and endpoint-singular integ… |
+| 2026-10-26 19:53:41 | [gsl-oxide-statistics](https://crates.io/crates/gsl-oxide-statistics) | 0.1.0 | 0 | Safe Rust slice, weighted, and mergeable streaming statistics |
+| 2026-10-26 19:54:09 | [vimlet](https://crates.io/crates/vimlet) | 0.1.0 | 0 | A headless Vim editing engine for Rust |
+| 2026-10-26 19:54:45 | [uk-bank-details-validator](https://crates.io/crates/uk-bank-details-validator) | 0.1.0 | 0 | Validate UK sort code and account number pairs using the Vocalink modulus check… |
+| 2026-10-26 19:58:40 | [mdzip-core](https://crates.io/crates/mdzip-core) | 0.1.0 | 0 | Read and write MDZip (.mdz) archives: Markdown documents and their images in on… |
+| 2026-10-26 20:00:45 | [aura-ui-ai](https://crates.io/crates/aura-ui-ai) | 0.1.0 | 0 | Agentes de IA para apps de Aura UI: HTTP, ACP y MCP sobre el estado de la aplic… |
+| 2026-10-26 20:04:02 | [togematch](https://crates.io/crates/togematch) | 0.1.0 | 0 | Finds a track's official audio upload on YouTube |
+| 2026-10-26 20:08:48 | [fast-worktree](https://crates.io/crates/fast-worktree) | 0.2.0 | 0 | Create a git worktree with its dependencies in seconds, and remove it in one |
+| 2026-10-26 20:10:51 | [aura-ui](https://crates.io/crates/aura-ui) | 0.1.0 | 0 | UI nativa acelerada por GPU para escritorio, Android e iOS: estilo tipo Tailwin… |
+| 2026-10-26 20:11:55 | [appd](https://crates.io/crates/appd) | 0.2.0 | 0 | A thin, hardened frontend for systemd |
+| 2026-10-26 20:12:16 | [tembra-core](https://crates.io/crates/tembra-core) | 0.1.0 | 0 | Language-neutral ownership and execution kernel for Tembra |
+| 2026-10-26 20:12:18 | [tembra](https://crates.io/crates/tembra) | 0.1.0 | 0 | Managed Rust orbs and native execution for Tembra |
+| 2026-10-26 20:12:18 | [tembra-bridge](https://crates.io/crates/tembra-bridge) | 0.1.0 | 0 | Metadata-only adapter protocol for the Tembra kernel |
+| 2026-10-26 20:12:19 | [tembra-browser-wasm](https://crates.io/crates/tembra-browser-wasm) | 0.1.0 | 0 | WebAssembly adapter for the Tembra metadata kernel |
+| 2026-10-26 20:12:19 | [tembra-executor-js](https://crates.io/crates/tembra-executor-js) | 0.1.0 | 0 | Optional V8 execution adapter for Tembra |
+| 2026-10-26 20:14:32 | [xavier-cli](https://crates.io/crates/xavier-cli) | 1.0.0 | 0 | Agent-first CLI for searching X posts via xAI X Search |
+| 2026-10-26 20:16:18 | [tembra-mobile](https://crates.io/crates/tembra-mobile) | 0.1.0 | 0 | Thread-safe Swift and Kotlin bindings for the Tembra metadata kernel |
+| 2026-10-26 20:18:13 | [kernel-utils](https://crates.io/crates/kernel-utils) | 0.1.0 | 0 | Rust implementation of linux kernel module management |
+| 2026-10-26 20:18:21 | [git2mail-core](https://crates.io/crates/git2mail-core) | 0.8.0 | 0 | Pure std-only core of git2mail: URL parsing, email/noreply rules, sanitization,… |
 
 ## Data source
 
