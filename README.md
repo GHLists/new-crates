@@ -8,39 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 07:20 UTC
+## Latest list — 2026-10-26 08:19 UTC
 
-New crates published between 2026-10-26 06:19 UTC and 2026-10-26 07:20 UTC.
+New crates published between 2026-10-26 07:20 UTC and 2026-10-26 08:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-26T07-20-42-077597Z.csv)
+[Full CSV](data/new-crates-2026-10-26T08-19-07-85875Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-26 06:19:44 | [lyr-wm](https://crates.io/crates/lyr-wm) | 0.1.0 | 0 | Workspace backends for lyr: Hyprland, Windows virtual desktops and AeroSpace. |
-| 2026-10-26 06:22:25 | [tex2word-ooxml](https://crates.io/crates/tex2word-ooxml) | 2.0.0 | 0 | tex2word OOXML plumbing: an lxml-compatible XML tree, parser and serializer, an… |
-| 2026-10-26 06:25:14 | [lombokasync](https://crates.io/crates/lombokasync) | 0.2.0 | 0 | Small single-threaded async runtime: block_on, spawn, timers, mpsc and oneshot… |
-| 2026-10-26 06:25:49 | [prek-update](https://crates.io/crates/prek-update) | 0.5.7 | 0 | Self-update support for standalone prek installations |
-| 2026-10-26 06:26:44 | [waclay-macros](https://crates.io/crates/waclay-macros) | 2.0.0 | 0 | Procedural macros for Waclay: `bindgen!` generates typed WIT bindings. |
-| 2026-10-26 06:26:50 | [belfry](https://crates.io/crates/belfry) | 0.1.0 | 0 | ai-native game engine |
-| 2026-10-26 06:29:31 | [zgx-harfrust](https://crates.io/crates/zgx-harfrust) | 0.5.3 | 0 | A complete HarfBuzz shaping algorithm port to Rust. |
-| 2026-10-26 06:34:30 | [heart-node-macros](https://crates.io/crates/heart-node-macros) | 0.1.0 | 0 | Compile-time validation for Heart Workflow node registration |
-| 2026-10-26 06:37:40 | [outfeed-core](https://crates.io/crates/outfeed-core) | 0.1.0-beta.1 | 0 | Core release engine, conventional commit parser, SemVer calculator, and toml_ed… |
-| 2026-10-26 06:37:51 | [justssh-wire](https://crates.io/crates/justssh-wire) | 0.1.0 | 0 | SSH message encoding and decoding, with no dependencies |
-| 2026-10-26 06:39:51 | [craftainer-crud](https://crates.io/crates/craftainer-crud) | 0.1.0 | 0 | Generic async CRUD layer for Axum services: repository trait, filtering, bulk a… |
-| 2026-10-26 06:43:52 | [safenum](https://crates.io/crates/safenum) | 0.0.1 | 0 | Exact fixed-point arithmetic for safety-critical systems (placeholder release;… |
-| 2026-10-26 06:44:44 | [codetopo-bridge](https://crates.io/crates/codetopo-bridge) | 0.7.0 | 0 | codetopo's Stripe billing bridge: turns subscription events into hosted API key… |
-| 2026-10-26 06:50:34 | [outfeed](https://crates.io/crates/outfeed) | 0.1.0-beta.1 | 0 | Neurosymbolic release gate, AST drift inspector & changelog synthesizer |
-| 2026-10-26 06:51:55 | [outfeed-mcp](https://crates.io/crates/outfeed-mcp) | 0.1.0-beta.1 | 0 | Model Context Protocol (MCP) server for outfeed |
-| 2026-10-26 06:53:17 | [outfeed-cli](https://crates.io/crates/outfeed-cli) | 0.1.0-beta.1 | 0 | Command-line interface and release gate automation for outfeed |
-| 2026-10-26 07:00:25 | [craftainer-observability](https://crates.io/crates/craftainer-observability) | 0.1.0 | 0 | Health checks, JSON logging and OpenTelemetry for Axum services |
-| 2026-10-26 07:03:10 | [leptoskit_table](https://crates.io/crates/leptoskit_table) | 0.0.0 | 0 | Headless table model for the leptoskit element tree, in the style of TanStack T… |
-| 2026-10-26 07:04:14 | [leptoskit_virtual](https://crates.io/crates/leptoskit_virtual) | 0.0.0 | 0 | Headless list virtualization for the leptoskit element tree, in the style of Ta… |
-| 2026-10-26 07:09:19 | [hexbag](https://crates.io/crates/hexbag) | 0.0.1 | 0 | A bag of holding for your assets: embed or bundle them, from any root. |
-| 2026-10-26 07:09:19 | [hexbag-bundler](https://crates.io/crates/hexbag-bundler) | 0.0.1 | 0 | Reads hexbag assets out of a built binary and bundles them into a folder. |
-| 2026-10-26 07:09:20 | [hexbag-core](https://crates.io/crates/hexbag-core) | 0.0.1 | 0 | Path resolving, settings and image processing shared by the hexbag crates. |
-| 2026-10-26 07:09:20 | [hexbag-macros](https://crates.io/crates/hexbag-macros) | 0.0.1 | 0 | The proc macros behind hexbag. |
-| 2026-10-26 07:09:50 | [billion-context](https://crates.io/crates/billion-context) | 0.1.0 | 0 | Lossless-tiered context compression for LLM agents: stable refs, blocks, two-pa… |
-| 2026-10-26 07:13:43 | [billion-context-wire](https://crates.io/crates/billion-context-wire) | 0.1.0 | 0 | Provider wire types for billion-context: the narrowest shape that survives a ro… |
+| 2026-10-26 07:20:54 | [tokeai](https://crates.io/crates/tokeai) | 0.0.1 | 0 | Keeps your tokens out of your AI agent's reach. Early development. |
+| 2026-10-26 07:28:18 | [obeliskd](https://crates.io/crates/obeliskd) | 0.1.2 | 0 | Local-dev DNS and IP allocation (supernets, subnets, ips, hosts under obd.inter… |
+| 2026-10-26 07:36:49 | [gudo](https://crates.io/crates/gudo) | 0.0.1 | 0 | Work in progress |
+| 2026-10-26 07:37:51 | [vaza](https://crates.io/crates/vaza) | 0.0.1 | 0 | Work in progress |
+| 2026-10-26 07:40:04 | [tempmail-rs](https://crates.io/crates/tempmail-rs) | 0.1.0 | 0 | Fast, async unofficial Temp-Mail SDK and CLI in Rust |
+| 2026-10-26 07:53:04 | [chertmem](https://crates.io/crates/chertmem) | 0.1.0 | 0 | Persistent, partitioned memory for coding agents |
+| 2026-10-26 07:54:00 | [marklab-document](https://crates.io/crates/marklab-document) | 0.2.8 | 0 | Shared local document rendering for Marklab |
+| 2026-10-26 07:56:07 | [redisevents](https://crates.io/crates/redisevents) | 0.2.0 | 0 | Wire-compatible Rust port of RedisEvents: partitioned Redis Streams topics, per… |
+| 2026-10-26 07:58:35 | [ferrohealth-secret](https://crates.io/crates/ferrohealth-secret) | 0.0.0 | 0 | The secrets and redaction of the FerroHEALTH products: secret values, file-held… |
+| 2026-10-26 07:59:38 | [ferrohealth-config](https://crates.io/crates/ferrohealth-config) | 0.0.0 | 0 | The configuration loader of the FerroHEALTH products: TOML with environment ove… |
+| 2026-10-26 08:00:39 | [ferrohealth-telemetry](https://crates.io/crates/ferrohealth-telemetry) | 0.0.0 | 0 | The logging and OpenTelemetry of the FerroHEALTH products: the console log, the… |
+| 2026-10-26 08:01:40 | [ferrohealth-health](https://crates.io/crates/ferrohealth-health) | 0.0.0 | 0 | The health checks of the FerroHEALTH products: the readiness document, the indi… |
+| 2026-10-26 08:02:42 | [ferrohealth-server](https://crates.io/crates/ferrohealth-server) | 0.0.0 | 0 | The server plumbing of the FerroHEALTH products: the HTTP stack, the graceful d… |
+| 2026-10-26 08:03:44 | [ferrohealth-usage-report](https://crates.io/crates/ferrohealth-usage-report) | 0.0.0 | 0 | The installation usage report of the FerroHEALTH products to FerroPULSE, on its… |
+| 2026-10-26 08:04:43 | [alwith-module-store](https://crates.io/crates/alwith-module-store) | 0.1.0 | 0 | Named JSON key-value stores with atomic writes, backups and change broadcast fo… |
+| 2026-10-26 08:05:21 | [acyclic](https://crates.io/crates/acyclic) | 0.0.0 | 0 | Reserved. |
+| 2026-10-26 08:14:28 | [msime-script-sdk](https://crates.io/crates/msime-script-sdk) | 0.1.0 | 0 | Rust bindings for the 水杉输入法 (Metasequoia IME) desktop script plugin ABI v1: no_… |
+| 2026-10-26 08:16:54 | [obeliskd-cli](https://crates.io/crates/obeliskd-cli) | 0.1.2 | 0 | obeliskd: a local-dev DNS server and IP allocator (the daemon and its CLI) |
+| 2026-10-26 08:17:48 | [waclay-wasmi](https://crates.io/crates/waclay-wasmi) | 2.0.1 | 0 | wasmi interpreter backend for Waclay — the reference implementation. |
+| 2026-10-26 08:18:11 | [biscuit-parser-atestum](https://crates.io/crates/biscuit-parser-atestum) | 0.2.0-r1 | 0 | Datalog parser used in the biscuit-auth and biscuit-quote crates |
+| 2026-10-26 08:18:12 | [tex2word-latexwalker](https://crates.io/crates/tex2word-latexwalker) | 2.0.0 | 0 | A Rust port of pylatexenc's LaTeX walker (node tree, macro specs, latex2text) f… |
+| 2026-10-26 08:18:17 | [tex2word-bib](https://crates.io/crates/tex2word-bib) | 2.0.0 | 0 | tex2word bibliography: BibTeX/.bbl parsing and citation rendering |
+| 2026-10-26 08:18:27 | [redisevents-msgpack](https://crates.io/crates/redisevents-msgpack) | 0.2.0 | 0 | MessagePack typed publish/consume for redisevents, with MessagePack-CSharp comp… |
+| 2026-10-26 08:18:29 | [redisevents-projections](https://crates.io/crates/redisevents-projections) | 0.2.0 | 0 | Typed event projections and view stores over any redisevents topic. |
+| 2026-10-26 08:18:35 | [redisevents-restate](https://crates.io/crates/redisevents-restate) | 0.2.0 | 0 | Batched Restate workflow starts from a redisevents stream. |
+| 2026-10-26 08:18:35 | [grobx](https://crates.io/crates/grobx) | 0.73.0 | 0 | Reduced Gröbner bases of polynomial ideals over GF(p) and over the rationals |
+| 2026-10-26 08:18:41 | [redisevents-axum](https://crates.io/crates/redisevents-axum) | 0.2.0 | 0 | Admin endpoints and health checks for redisevents, on axum. |
+| 2026-10-26 08:18:42 | [lyr-core](https://crates.io/crates/lyr-core) | 0.1.0 | 0 | Platform-free core of lyr: module state, formats, layout, draw lists and hit te… |
+| 2026-10-26 08:18:44 | [redisevents-eventsourcing](https://crates.io/crates/redisevents-eventsourcing) | 0.2.0 | 0 | Event-sourced aggregates and an optimistic-concurrency repository on redisevent… |
+| 2026-10-26 08:18:51 | [waclay-wasmtime](https://crates.io/crates/waclay-wasmtime) | 2.0.1 | 0 | wasmtime (Cranelift JIT) backend for Waclay — near-native performance. |
+| 2026-10-26 08:18:52 | [teamy-vox-service-macros](https://crates.io/crates/teamy-vox-service-macros) | 0.10.0-rc.7 | 0 | Procedural macros for vox RPC services |
 
 ## Data source
 

@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T07:20:54.775837Z,tokeai,0.0.1,0,0,,Keeps your tokens out of your AI agent's reach. Early development.
+2026-10-26T07:28:18.666888Z,obeliskd,0.1.2,0,0,https://github.com/krr-software-solutions/obeliskd,"Local-dev DNS and IP allocation (supernets, subnets, ips, hosts under obd.internal): the library"
+2026-10-26T07:36:49.615862Z,gudo,0.0.1,0,0,,Work in progress
+2026-10-26T07:37:51.997573Z,vaza,0.0.1,0,0,,Work in progress
+2026-10-26T07:40:04.565696Z,tempmail-rs,0.1.0,0,0,https://github.com/neurals-et/tempmail-rs,"Fast, async unofficial Temp-Mail SDK and CLI in Rust"
+2026-10-26T07:53:04.721829Z,chertmem,0.1.0,0,0,https://github.com/pr0d1r2/chertmem,"Persistent, partitioned memory for coding agents"
+2026-10-26T07:54:00.660772Z,marklab-document,0.2.8,0,0,https://github.com/lyonbrown4d/marklab,Shared local document rendering for Marklab
+2026-10-26T07:56:07.743107Z,redisevents,0.2.0,0,0,https://github.com/bklooste/RedisEvents-rs,"Wire-compatible Rust port of RedisEvents: partitioned Redis Streams topics, per-key ordering, at-least-once delivery."
+2026-10-26T07:58:35.544427Z,ferrohealth-secret,0.0.0,0,0,https://github.com/FerroHEALTH/FerroSYS,"The secrets and redaction of the FerroHEALTH products: secret values, file-held secrets, URL credential masking and redacted payloads. This 0.0.0 release holds the name; the first working release is…"
+2026-10-26T07:59:38.2775Z,ferrohealth-config,0.0.0,0,0,https://github.com/FerroHEALTH/FerroSYS,"The configuration loader of the FerroHEALTH products: TOML with environment overrides, file-held secrets and strict key checks. This 0.0.0 release holds the name; the first working release is 0.1.0."
+2026-10-26T08:00:39.748405Z,ferrohealth-telemetry,0.0.0,0,0,https://github.com/FerroHEALTH/FerroSYS,"The logging and OpenTelemetry of the FerroHEALTH products: the console log, the request log, traces and metrics. This 0.0.0 release holds the name; the first working release is 0.1.0."
+2026-10-26T08:01:40.909379Z,ferrohealth-health,0.0.0,0,0,https://github.com/FerroHEALTH/FerroSYS,"The health checks of the FerroHEALTH products: the readiness document, the indicator registry and the server lifecycle. This 0.0.0 release holds the name; the first working release is 0.1.0."
+2026-10-26T08:02:42.738547Z,ferrohealth-server,0.0.0,0,0,https://github.com/FerroHEALTH/FerroSYS,"The server plumbing of the FerroHEALTH products: the HTTP stack, the graceful drain, the healthcheck client and the command line. This 0.0.0 release holds the name; the first working release is 0.1.0."
+2026-10-26T08:03:44.886266Z,ferrohealth-usage-report,0.0.0,0,0,https://github.com/FerroHEALTH/FerroSYS,"The installation usage report of the FerroHEALTH products to FerroPULSE, on its envelope v2. This 0.0.0 release holds the name; the first working release is 0.1.0."
+2026-10-26T08:04:43.212453Z,alwith-module-store,0.1.0,0,0,https://github.com/ALwith-ai/alwith-modules,"Named JSON key-value stores with atomic writes, backups and change broadcast for ALwith applications"
+2026-10-26T08:05:21.174321Z,acyclic,0.0.0,0,0,,Reserved.
+2026-10-26T08:14:28.696695Z,msime-script-sdk,0.1.0,0,0,https://github.com/metasequoiaime/msime,"Rust bindings for the 水杉输入法 (Metasequoia IME) desktop script plugin ABI v1: no_std, no dependencies, for plugins compiled to wasm32-unknown-unknown."
+2026-10-26T08:16:54.037421Z,obeliskd-cli,0.1.2,0,0,https://github.com/krr-software-solutions/obeliskd,obeliskd: a local-dev DNS server and IP allocator (the daemon and its CLI)
+2026-10-26T08:17:48.645167Z,waclay-wasmi,2.0.1,0,0,https://github.com/HemantKArya/waclay,wasmi interpreter backend for Waclay — the reference implementation.
+2026-10-26T08:18:11.701608Z,biscuit-parser-atestum,0.2.0-r1,0,0,https://github.com/atestum/biscuit-rust,Datalog parser used in the biscuit-auth and biscuit-quote crates
+2026-10-26T08:18:12.008763Z,tex2word-latexwalker,2.0.0,0,0,https://github.com/yfyang86/rstex2word,"A Rust port of pylatexenc's LaTeX walker (node tree, macro specs, latex2text) for tex2word"
+2026-10-26T08:18:17.632961Z,tex2word-bib,2.0.0,0,0,https://github.com/yfyang86/rstex2word,tex2word bibliography: BibTeX/.bbl parsing and citation rendering
+2026-10-26T08:18:27.224751Z,redisevents-msgpack,0.2.0,0,0,https://github.com/bklooste/RedisEvents-rs,"MessagePack typed publish/consume for redisevents, with MessagePack-CSharp compatible size-gated LZ4."
+2026-10-26T08:18:29.42163Z,redisevents-projections,0.2.0,0,0,https://github.com/bklooste/RedisEvents-rs,Typed event projections and view stores over any redisevents topic.
+2026-10-26T08:18:35.12953Z,redisevents-restate,0.2.0,0,0,https://github.com/bklooste/RedisEvents-rs,Batched Restate workflow starts from a redisevents stream.
+2026-10-26T08:18:35.204501Z,grobx,0.73.0,0,0,https://github.com/code1-de/grobx,Reduced Gröbner bases of polynomial ideals over GF(p) and over the rationals
+2026-10-26T08:18:41.456302Z,redisevents-axum,0.2.0,0,0,https://github.com/bklooste/RedisEvents-rs,"Admin endpoints and health checks for redisevents, on axum."
+2026-10-26T08:18:42.581704Z,lyr-core,0.1.0,0,0,https://github.com/kryptic-sh/lyr,"Platform-free core of lyr: module state, formats, layout, draw lists and hit testing."
+2026-10-26T08:18:44.430107Z,redisevents-eventsourcing,0.2.0,0,0,https://github.com/bklooste/RedisEvents-rs,Event-sourced aggregates and an optimistic-concurrency repository on redisevents.
+2026-10-26T08:18:51.904632Z,waclay-wasmtime,2.0.1,0,0,https://github.com/HemantKArya/waclay,wasmtime (Cranelift JIT) backend for Waclay — near-native performance.
+2026-10-26T08:18:52.500989Z,teamy-vox-service-macros,0.10.0-rc.7,0,0,https://github.com/TeamDman/vox,Procedural macros for vox RPC services
