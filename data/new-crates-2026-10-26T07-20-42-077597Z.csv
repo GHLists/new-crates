@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T06:19:44.764834Z,lyr-wm,0.1.0,0,0,https://github.com/kryptic-sh/lyr,"Workspace backends for lyr: Hyprland, Windows virtual desktops and AeroSpace."
+2026-10-26T06:22:25.60891Z,tex2word-ooxml,2.0.0,0,0,https://github.com/yfyang86/rstex2word,"tex2word OOXML plumbing: an lxml-compatible XML tree, parser and serializer, and ZIP (deflate/inflate) I/O"
+2026-10-26T06:25:14.552299Z,lombokasync,0.2.0,0,0,https://github.com/codinglombok/LombokAsync,"Small single-threaded async runtime: block_on, spawn, timers, mpsc and oneshot channels, join/select/timeout. No dependencies, no unsafe code."
+2026-10-26T06:25:49.893397Z,prek-update,0.5.7,0,0,https://github.com/j178/prek,Self-update support for standalone prek installations
+2026-10-26T06:26:44.139409Z,waclay-macros,2.0.0,0,0,https://github.com/HemantKArya/waclay,Procedural macros for Waclay: `bindgen!` generates typed WIT bindings.
+2026-10-26T06:26:50.736609Z,belfry,0.1.0,0,0,,ai-native game engine
+2026-10-26T06:29:31.642907Z,zgx-harfrust,0.5.3,0,0,https://github.com/harfbuzz/harfrust,A complete HarfBuzz shaping algorithm port to Rust.
+2026-10-26T06:34:30.129041Z,heart-node-macros,0.1.0,0,0,https://github.com/halo-space/heart,Compile-time validation for Heart Workflow node registration
+2026-10-26T06:37:40.885393Z,outfeed-core,0.1.0-beta.1,0,0,https://github.com/gaugeblock/outfeed,"Core release engine, conventional commit parser, SemVer calculator, and toml_edit manifest synchronizer"
+2026-10-26T06:37:51.086852Z,justssh-wire,0.1.0,0,0,https://github.com/kihyun1998/justssh,"SSH message encoding and decoding, with no dependencies"
+2026-10-26T06:39:51.771603Z,craftainer-crud,0.1.0,0,0,https://github.com/craftainer/lib-crud-rs,"Generic async CRUD layer for Axum services: repository trait, filtering, bulk actions, stats and SSE events"
+2026-10-26T06:43:52.654739Z,safenum,0.0.1,0,0,https://github.com/driftsys/safenum,Exact fixed-point arithmetic for safety-critical systems (placeholder release; no API yet)
+2026-10-26T06:44:44.839774Z,codetopo-bridge,0.7.0,0,0,,"codetopo's Stripe billing bridge: turns subscription events into hosted API keys in the server's runtime key store, and delivers each key once through a claim page"
+2026-10-26T06:50:34.878298Z,outfeed,0.1.0-beta.1,0,0,https://github.com/gaugeblock/outfeed,"Neurosymbolic release gate, AST drift inspector & changelog synthesizer"
+2026-10-26T06:51:55.857521Z,outfeed-mcp,0.1.0-beta.1,0,0,https://github.com/gaugeblock/outfeed,Model Context Protocol (MCP) server for outfeed
+2026-10-26T06:53:17.088253Z,outfeed-cli,0.1.0-beta.1,0,0,https://github.com/gaugeblock/outfeed,Command-line interface and release gate automation for outfeed
+2026-10-26T07:00:25.549576Z,craftainer-observability,0.1.0,0,0,https://github.com/craftainer/lib-observability-rs,"Health checks, JSON logging and OpenTelemetry for Axum services"
+2026-10-26T07:03:10.979965Z,leptoskit_table,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"Headless table model for the leptoskit element tree, in the style of TanStack Table: typed columns, sortable headers, row filtering, and pagination as plain state plus a renderable grid of ARIA roles."
+2026-10-26T07:04:14.29302Z,leptoskit_virtual,0.0.0,0,0,https://github.com/ifiokjr/leptoskit,"Headless list virtualization for the leptoskit element tree, in the style of TanStack Virtual: fixed or measured item sizes, overscan, and alignment scroll targets over the shared renderer."
+2026-10-26T07:09:19.252883Z,hexbag,0.0.1,0,0,https://gitlab.com/Breached-Skye/hexbag,"A bag of holding for your assets: embed or bundle them, from any root."
+2026-10-26T07:09:19.877325Z,hexbag-bundler,0.0.1,0,0,https://gitlab.com/Breached-Skye/hexbag,Reads hexbag assets out of a built binary and bundles them into a folder.
+2026-10-26T07:09:20.50609Z,hexbag-core,0.0.1,0,0,https://gitlab.com/Breached-Skye/hexbag,"Path resolving, settings and image processing shared by the hexbag crates."
+2026-10-26T07:09:20.981951Z,hexbag-macros,0.0.1,0,0,https://gitlab.com/Breached-Skye/hexbag,The proc macros behind hexbag.
+2026-10-26T07:09:50.821941Z,billion-context,0.1.0,0,0,https://github.com/MoRanYue/billion-context-rs,"Lossless-tiered context compression for LLM agents: stable refs, blocks, two-pass fold protocol"
+2026-10-26T07:13:43.851215Z,billion-context-wire,0.1.0,0,0,https://github.com/MoRanYue/billion-context-rs,Provider wire types for billion-context: the narrowest shape that survives a round trip
