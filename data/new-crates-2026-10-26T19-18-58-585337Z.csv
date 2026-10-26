@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T18:19:38.442868Z,envdoc,0.1.0,0,0,https://github.com/jayasurya261/envdoc,"Fast, safe-by-construction AST auditor keeping .env.example in sync with Rust & TypeScript source code"
+2026-10-26T18:21:05.466753Z,macp-cli,0.10.0,0,0,https://github.com/multiagentcoordinationprotocol/macp-runtime,"The `macp` command line: run the self-host stack, verify decision receipts, run conformance, tail sessions and replay them."
+2026-10-26T18:21:41.089943Z,kvd-lsp,0.4.0,0,0,https://github.com/key-value-document/kvd-lsp,Language server for the KVD config/data format
+2026-10-26T18:22:00.798701Z,flashblocks,0.1.0,0,0,https://github.com/Dimanoshe/flashblocks-rs,"Decode Base Flashblocks in real time: Chainlink price updates straight from the 200 ms pre-confirmation stream, with logs_bloom confirmation"
+2026-10-26T18:22:53.461486Z,sentinel-fleet,0.0.0,0,0,,Fleet mode for Sentinel: coordinate policy-gated agents across multiple hosts
+2026-10-26T18:24:31.591369Z,emu198x-commodore-agnus-ecs,0.1.0,0,0,https://github.com/emu198x/emu198x,"Commodore Super Agnus (ECS) — thin wrapper over emu198x-commodore-agnus-ocs that adds the BEAMCON0 register, programmable sync generator, and ECS-specific timing extensions. Used by ECS machines (A50…"
+2026-10-26T18:27:06.868622Z,rustev-pkg-lodging,0.1.0,0,0,https://github.com/statecrafting/rustev,Rustev reference package: the lodging recommendation definition and SYNTHETIC mechanics material.
+2026-10-26T18:27:25.443077Z,hydrax-core,0.1.0,0,0,https://github.com/isaac-cf-wong/hydrax,"Units, tensors, numerical conventions, and error types for Hydrax"
+2026-10-26T18:27:25.653302Z,hydrax-io,0.1.0,0,0,https://github.com/isaac-cf-wong/hydrax,"Run configuration, provenance records, and output serialization for Hydrax"
+2026-10-26T18:27:26.480579Z,hydrax-wave,0.1.0,0,0,https://github.com/isaac-cf-wong/hydrax,"Quadrupole sources, polarizations, spectra, and radiated-energy diagnostics for Hydrax"
+2026-10-26T18:27:28.03767Z,hydrax,0.1.0,0,0,https://github.com/isaac-cf-wong/hydrax,Core-collapse supernova gravitational-wave simulation tools
+2026-10-26T18:27:29.695217Z,hydrax-cli,0.1.0,0,0,https://github.com/isaac-cf-wong/hydrax,Command-line interface for the Hydrax gravitational-wave tools
+2026-10-26T18:27:33.736958Z,weir-status,4.1.0,0,0,https://github.com/miki-przygoda/weir,"Status model, Conditions evaluator and probe predicates shared by the weir daemon and weir-ctl"
+2026-10-26T18:34:23.34003Z,solana_kit_helius,0.0.0,0,0,https://github.com/pina-rs/solana_kit,Reserved off-chain Helius provider client crate for the portable Solana Kit SDK
+2026-10-26T18:37:06.066811Z,rustev,0.1.0,0,0,https://github.com/statecrafting/rustev,"Rustev, an embeddable decision engine: one facade over the release family, with one optional feature per adoptable slice."
+2026-10-26T18:37:43.704341Z,flow-agent-core,0.0.1,0,0,https://github.com/babandeepsingh/flow-agent,"Placeholder for flow-agent-core, part of flow-agent: LangChain/LangGraph-style LLM chains, agents and graphs for Rust. Real release coming as 0.1.0."
+2026-10-26T18:37:45.570544Z,flow-agent-models,0.0.1,0,0,https://github.com/babandeepsingh/flow-agent,"Placeholder for flow-agent-models, part of flow-agent: LangChain/LangGraph-style LLM chains, agents and graphs for Rust. Real release coming as 0.1.0."
+2026-10-26T18:37:47.424919Z,flow-agent-graph,0.0.1,0,0,https://github.com/babandeepsingh/flow-agent,"Placeholder for flow-agent-graph, part of flow-agent: LangChain/LangGraph-style LLM chains, agents and graphs for Rust. Real release coming as 0.1.0."
+2026-10-26T18:37:48.349076Z,flow-agent-checkpoint,0.0.1,0,0,https://github.com/babandeepsingh/flow-agent,"Placeholder for flow-agent-checkpoint, part of flow-agent: LangChain/LangGraph-style LLM chains, agents and graphs for Rust. Real release coming as 0.1.0."
+2026-10-26T18:37:50.044609Z,flow-agent-prebuilt,0.0.1,0,0,https://github.com/babandeepsingh/flow-agent,"Placeholder for flow-agent-prebuilt, part of flow-agent: LangChain/LangGraph-style LLM chains, agents and graphs for Rust. Real release coming as 0.1.0."
+2026-10-26T18:39:06.814664Z,lang198x-ca65,0.0.1,0,0,https://github.com/lang198x/ca65,"The ca65 assembler family for Lang198x: one lossless parser for the cc65 suite's macro assembler, its CPU modes as a profile axis, lowering to asm198x-ir."
+2026-10-26T18:41:23.486398Z,sentinel-mcp,0.0.0,0,0,https://github.com/marcuspat/Sentinel,"MCP (Model Context Protocol) policy gate for Sentinel: lets coding agents query policy, run read-only investigations, and propose plans that only an operator can approve"
+2026-10-26T18:43:58.768126Z,bridgy,0.1.0,0,0,https://github.com/maslenn1koff/bridgy,Cross-platform SIMD abstraction
+2026-10-26T18:44:43.549077Z,particledb-sdk,0.2.0,0,0,,Official Rust SDK for ParticleDB
+2026-10-26T18:45:20.820491Z,rune-toolchain-core,0.1.0,0,0,https://github.com/ruvnet/rune,"Immutable, content-addressed build plans and evidence for the Rune learning toolchain"
+2026-10-26T18:45:23.912224Z,rune-toolchain-cargo,0.1.0,0,0,https://github.com/ruvnet/rune,"Cargo adapter for the Rune learning toolchain: toolchain identity, locked offline builds, artifact digests"
+2026-10-26T18:45:27.427736Z,rune-toolchain,0.1.0,0,0,https://github.com/ruvnet/rune,"Rune: the learning toolchain for Rust. Frozen build plans, offline replay, independent verification"
+2026-10-26T18:48:52.213023Z,flow-agent,0.0.1,0,0,https://github.com/babandeepsingh/flow-agent,"Placeholder for flow-agent, part of flow-agent: LangChain/LangGraph-style LLM chains, agents and graphs for Rust. Real release coming as 0.1.0."
+2026-10-26T18:49:37.958232Z,wgx-proto,0.8.6,0,0,https://github.com/anapaya/scion-sdk,Sans-io implementation of the WireGuard protocol for the SNAP underlay
+2026-10-26T18:51:27.376255Z,commoncrypto-rs,0.1.0,0,0,https://github.com/doom-fish/commoncrypto-rs,Stream SHA-256 data with Apple's CommonCrypto
+2026-10-26T18:53:55.492616Z,reddb-io-tonic,1.26.8,0,0,https://github.com/reddb-io/reddb,RedDB compatibility distribution of Tonic with current zstd bindings.
+2026-10-26T18:53:59.599291Z,reddb-io-tonic-prost,1.26.8,0,0,https://github.com/reddb-io/reddb,RedDB compatibility distribution of the upstream Tonic Prost codec.
+2026-10-26T18:54:55.181952Z,alarmant,0.0.0,0,0,https://github.com/ThinkersJournal/AlarmAnt,"Reserved name: an emergency alert that cannot be ignored (Android app plus sender). Placeholder, no functionality yet."
+2026-10-26T19:02:39.334972Z,fofa-rs,0.1.0,0,0,https://github.com/mnk-works/fofa-rs,"A fast, lightweight Rust CLI tool for parsing FOFA.io search results"
+2026-10-26T19:07:38.061233Z,msquic-src,0.0.0,0,0,,MsQuic sources and native build support.
+2026-10-26T19:07:42.224143Z,contact-sheet,0.5.0,0,0,https://github.com/msetkowski/contact-sheet,"Create A4, A3 or Letter contact sheets (JPEG or PDF/X-4) from Canon, Nikon, Fujifilm and Hasselblad RAW, DNG, TIFF and JPEG photos"
+2026-10-26T19:09:54.857769Z,rpm-utils,0.2.0,0,0,https://github.com/AnderEnder/rpm-utils-rs,"Read, build, compare, edit, and lint RPM packages and CPIO archives"
+2026-10-26T19:10:27.804536Z,cardputer-adv,0.1.0,0,0,https://github.com/tszarzynski/cardputer-adv,"Board support for the M5Stack Cardputer ADV (ESP32-S3) on esp-hal: display, keyboard, motion sensor, speaker, backlight and battery voltage"
+2026-10-26T19:10:54.376546Z,emu198x-commodore-denise-ecs,0.1.0,0,0,https://github.com/emu198x/emu198x,"Commodore Super Denise (ECS) — thin wrapper over emu198x-commodore-denise-ocs that adds the BPLCON3 register and ECS display-mode extensions. Used by ECS machines (A500+, A600, A3000) and consumed by…"
+2026-10-26T19:10:58.972313Z,emu198x-gi-ay-3-8912,0.1.0,0,0,https://github.com/emu198x/emu198x,General Instrument AY-3-8912 PSG — single-I/O-port facade over the AY-3-8910 core
+2026-10-26T19:11:03.706896Z,emu198x-peripheral-kempston-sinclair-zx-spectrum-joystick,0.1.0,0,0,https://github.com/emu198x/emu198x,Kempston Interface joystick — Spectrum edge-connector peripheral
+2026-10-26T19:11:10.827809Z,emu198x-peripheral-kempston-sinclair-zx-spectrum-mouse,0.1.0,0,0,https://github.com/emu198x/emu198x,Kempston mouse interface — Spectrum edge-connector peripheral
+2026-10-26T19:14:38.382915Z,manifold-codec,1.3.0,0,0,https://github.com/bageera/manifold,Lossless RGB8 shared-patch atlas image codecs (MNF5/MNF6/MNF7/MNF8)
+2026-10-26T19:14:47.807754Z,manifold-codec-capi,1.3.0,0,0,,C FFI for the Manifold lossless RGB8 codecs
+2026-10-26T19:16:48.164029Z,lance-csr-catalog,0.3.0,0,0,https://github.com/hyperdimensionalcomputingai/lance-csr,Catalog and namespace utilities for Lance graph
+2026-10-26T19:16:48.386943Z,mnn-src,0.0.0,0,0,,MNN sources and native build support.
+2026-10-26T19:16:49.997302Z,lance-csr,0.3.0,0,0,https://github.com/hyperdimensionalcomputingai/lance-csr,Graph query engine for Lance datasets with Cypher support

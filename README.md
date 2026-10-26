@@ -8,54 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 18:18 UTC
+## Latest list — 2026-10-26 19:18 UTC
 
-New crates published between 2026-10-26 17:19 UTC and 2026-10-26 18:18 UTC.
+New crates published between 2026-10-26 18:18 UTC and 2026-10-26 19:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-26T18-18-40-827289Z.csv)
+[Full CSV](data/new-crates-2026-10-26T19-18-58-585337Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-26 17:20:03 | [libspd](https://crates.io/crates/libspd) | 0.0.3 | 0 | Hardware-independent SPD image parsing and manipulation |
-| 2026-10-26 17:22:13 | [mucad-lsp](https://crates.io/crates/mucad-lsp) | 0.6.0 | 0 | LSP implementation for µcad language |
-| 2026-10-26 17:23:14 | [packagist-stats-tracker](https://crates.io/crates/packagist-stats-tracker) | 0.1.3 | 0 | Track download statistics for Composer packages from Packagist |
-| 2026-10-26 17:23:51 | [emu198x-yamaha-v9938](https://crates.io/crates/emu198x-yamaha-v9938) | 0.1.0 | 0 | Yamaha V9938 MSX2 Video Display Processor: 128 KB VRAM, Graphic 1-7 and Text 1-… |
-| 2026-10-26 17:27:11 | [bse-classify](https://crates.io/crates/bse-classify) | 0.1.0 | 0 | BALD claim extraction, non-person entities and source stance classification |
-| 2026-10-26 17:28:55 | [mlmf-tensor-names](https://crates.io/crates/mlmf-tensor-names) | 0.7.26 | 0 | Translate tensor names between HuggingFace and GGUF spellings for the dense Lla… |
-| 2026-10-26 17:28:58 | [mlmf-gguf-arch](https://crates.io/crates/mlmf-gguf-arch) | 0.7.26 | 0 | Name the architecture family a GGUF file declares (general.architecture), or th… |
-| 2026-10-26 17:29:28 | [slain-ed25519](https://crates.io/crates/slain-ed25519) | 0.1.0 | 0 | Constant-time Ed25519 signatures (RFC 8032) in pure Rust; no_std core, optional… |
-| 2026-10-26 17:29:33 | [rustev-contract](https://crates.io/crates/rustev-contract) | 0.1.0 | 0 | Rustev's versioned wire contract: documents, bounded parsing, canonical form an… |
-| 2026-10-26 17:29:46 | [rustev-core](https://crates.io/crates/rustev-core) | 0.1.0 | 0 | Rustev's pure core: validation, value kinds, exact operators, compiler, calibra… |
-| 2026-10-26 17:29:59 | [rustev-runtime](https://crates.io/crates/rustev-runtime) | 0.1.0 | 0 | Rustev's runtime: bounded execution of compiled plans through backend seams, wi… |
-| 2026-10-26 17:30:01 | [rustev-backend-rules](https://crates.io/crates/rustev-backend-rules) | 0.1.0 | 0 | Rustev's deterministic rules backend: an identified, bounded rules program answ… |
-| 2026-10-26 17:30:13 | [rustev-eval](https://crates.io/crates/rustev-eval) | 0.1.0 | 0 | Rustev's offline evaluation: bounded replay bundles, historical reproduction, c… |
-| 2026-10-26 17:30:27 | [egui-agent-chat](https://crates.io/crates/egui-agent-chat) | 0.1.0 | 0 | An egui chat widget for agentai agents: streamed answers, reasoning and tool ca… |
-| 2026-10-26 17:31:36 | [caliper-docgen-tsc-client](https://crates.io/crates/caliper-docgen-tsc-client) | 0.1.1 | 0 | Process supervisor and JSON-RPC transport client for TypeScript 7's tsc --api |
-| 2026-10-26 17:31:49 | [caliper-docgen-semantic](https://crates.io/crates/caliper-docgen-semantic) | 0.1.1 | 0 | Experimental TypeScript 7.1 checker backend for caliper-docgen: asks `tsc --api… |
-| 2026-10-26 17:33:58 | [emu198x-yamaha-ym2413](https://crates.io/crates/emu198x-yamaha-ym2413) | 0.1.0 | 0 | Yamaha YM2413 (OPLL) FM synthesis chip and the Konami VRC7 core, cycle-stepped… |
-| 2026-10-26 17:37:03 | [rustev-otel](https://crates.io/crates/rustev-otel) | 0.1.0 | 0 | Rustev's OpenTelemetry evidence sink: delivered run records as redacted spans,… |
-| 2026-10-26 17:37:19 | [kry-core](https://crates.io/crates/kry-core) | 1.0.0 | 0 | Biblioteca nativa para criptografia e descriptografia de arquivos utilizando AE… |
-| 2026-10-26 17:40:09 | [slain-core](https://crates.io/crates/slain-core) | 0.1.0 | 0 | Universal core: the cornerstone engines (AES-GCM, BLAKE3, ChaCha20-Poly1305, CR… |
-| 2026-10-26 17:44:04 | [emu198x-yamaha-ym2612](https://crates.io/crates/emu198x-yamaha-ym2612) | 0.1.0 | 0 | Yamaha YM2612 (OPN2) and YM3438 FM synthesis chip, cycle-stepped — Sega Mega Dr… |
-| 2026-10-26 17:45:57 | [htmlpress](https://crates.io/crates/htmlpress) | 0.0.0 | 0 | Turn a folder of HTML pages into a site: one layout, one theme, live reload, ma… |
-| 2026-10-26 17:47:04 | [rustev-remote-http](https://crates.io/crates/rustev-remote-http) | 0.1.0 | 0 | Rustev's remote adapter machinery and the rustev.remote/1 HTTP binding: a clien… |
-| 2026-10-26 17:54:01 | [sentinel-sysadmin-core](https://crates.io/crates/sentinel-sysadmin-core) | 0.2.0 | 0 | Capability model, policy engine core, and shared types for the Sentinel agentic… |
-| 2026-10-26 17:54:08 | [sentinel-exec](https://crates.io/crates/sentinel-exec) | 0.2.0 | 0 | Confined command execution for Sentinel: allow/deny policy, dry-run, and audit… |
-| 2026-10-26 17:54:09 | [emu198x-z80-cadence](https://crates.io/crates/emu198x-z80-cadence) | 0.1.0 | 0 | The Z80 cadence every Z80 machine shares: two CPU half-cycles per T-state, inte… |
-| 2026-10-26 17:54:15 | [sentinel-policy](https://crates.io/crates/sentinel-policy) | 0.2.0 | 0 | Human-readable policy definitions and evaluation for the Sentinel agentic sysad… |
-| 2026-10-26 17:54:22 | [sentinel-audit](https://crates.io/crates/sentinel-audit) | 0.2.0 | 0 | Append-only audit log and Prometheus metrics for the Sentinel agentic sysadmin… |
-| 2026-10-26 17:55:30 | [veylog](https://crates.io/crates/veylog) | 0.1.0 | 0 | Laravel log dosyalarını okunabilir bir özete çeviren komut satırı aracı: kalıpl… |
-| 2026-10-26 17:57:03 | [rustev-surface](https://crates.io/crates/rustev-surface) | 0.1.0 | 0 | Rustev's pure command surface: check, compile, show, offline replay, evaluation… |
-| 2026-10-26 17:59:14 | [bse-pipeline](https://crates.io/crates/bse-pipeline) | 0.1.0 | 0 | BALD search pipeline: guard, fan-out, canonicalization, RRF, store |
-| 2026-10-26 18:01:46 | [bse-api](https://crates.io/crates/bse-api) | 0.1.0 | 0 | BALD local service API: claims, evidence and settings |
-| 2026-10-26 18:02:14 | [bald-engine](https://crates.io/crates/bald-engine) | 0.1.0 | 0 | BALD sovereign OSINT search engine and cryptographic evidence ledger |
-| 2026-10-26 18:03:50 | [sentinel-capabilities](https://crates.io/crates/sentinel-capabilities) | 0.2.0 | 0 | Confinement-checked sysadmin capabilities (files, processes, packages, network)… |
-| 2026-10-26 18:04:14 | [emu198x-zilog-z80-ctc](https://crates.io/crates/emu198x-zilog-z80-ctc) | 0.1.0 | 0 | Zilog Z80 CTC (Z8430) Counter/Timer Circuit — Sord M5, MSX, Memotech MTX, Tatun… |
-| 2026-10-26 18:07:08 | [slain-bench](https://crates.io/crates/slain-bench) | 0.1.0 | 0 | Benchmark tool for SLAIN cornerstone primitives — galvanized fused operations |
-| 2026-10-26 18:07:09 | [rustev-cli](https://crates.io/crates/rustev-cli) | 0.1.0 | 0 | Rustev's command-line host: plan check, compile and show; rules-backed runs wit… |
-| 2026-10-26 18:12:37 | [sentinel-runner](https://crates.io/crates/sentinel-runner) | 0.2.0 | 0 | The one plan executor for Sentinel: policy check, audit, timeout, halt-on-failu… |
-| 2026-10-26 18:14:22 | [emu198x-atari-antic](https://crates.io/crates/emu198x-atari-antic) | 0.1.0 | 0 | Atari ANTIC display list processor — Atari 5200, 800XL, 130XE |
-| 2026-10-26 18:17:03 | [rustev-pkg-support-routing](https://crates.io/crates/rustev-pkg-support-routing) | 0.1.0 | 0 | Rustev reference package: the support-routing decision definition, its evaluati… |
+| 2026-10-26 18:19:38 | [envdoc](https://crates.io/crates/envdoc) | 0.1.0 | 0 | Fast, safe-by-construction AST auditor keeping .env.example in sync with Rust &… |
+| 2026-10-26 18:21:05 | [macp-cli](https://crates.io/crates/macp-cli) | 0.10.0 | 0 | The `macp` command line: run the self-host stack, verify decision receipts, run… |
+| 2026-10-26 18:21:41 | [kvd-lsp](https://crates.io/crates/kvd-lsp) | 0.4.0 | 0 | Language server for the KVD config/data format |
+| 2026-10-26 18:22:00 | [flashblocks](https://crates.io/crates/flashblocks) | 0.1.0 | 0 | Decode Base Flashblocks in real time: Chainlink price updates straight from the… |
+| 2026-10-26 18:22:53 | [sentinel-fleet](https://crates.io/crates/sentinel-fleet) | 0.0.0 | 0 | Fleet mode for Sentinel: coordinate policy-gated agents across multiple hosts |
+| 2026-10-26 18:24:31 | [emu198x-commodore-agnus-ecs](https://crates.io/crates/emu198x-commodore-agnus-ecs) | 0.1.0 | 0 | Commodore Super Agnus (ECS) — thin wrapper over emu198x-commodore-agnus-ocs tha… |
+| 2026-10-26 18:27:06 | [rustev-pkg-lodging](https://crates.io/crates/rustev-pkg-lodging) | 0.1.0 | 0 | Rustev reference package: the lodging recommendation definition and SYNTHETIC m… |
+| 2026-10-26 18:27:25 | [hydrax-core](https://crates.io/crates/hydrax-core) | 0.1.0 | 0 | Units, tensors, numerical conventions, and error types for Hydrax |
+| 2026-10-26 18:27:25 | [hydrax-io](https://crates.io/crates/hydrax-io) | 0.1.0 | 0 | Run configuration, provenance records, and output serialization for Hydrax |
+| 2026-10-26 18:27:26 | [hydrax-wave](https://crates.io/crates/hydrax-wave) | 0.1.0 | 0 | Quadrupole sources, polarizations, spectra, and radiated-energy diagnostics for… |
+| 2026-10-26 18:27:28 | [hydrax](https://crates.io/crates/hydrax) | 0.1.0 | 0 | Core-collapse supernova gravitational-wave simulation tools |
+| 2026-10-26 18:27:29 | [hydrax-cli](https://crates.io/crates/hydrax-cli) | 0.1.0 | 0 | Command-line interface for the Hydrax gravitational-wave tools |
+| 2026-10-26 18:27:33 | [weir-status](https://crates.io/crates/weir-status) | 4.1.0 | 0 | Status model, Conditions evaluator and probe predicates shared by the weir daem… |
+| 2026-10-26 18:34:23 | [solana_kit_helius](https://crates.io/crates/solana_kit_helius) | 0.0.0 | 0 | Reserved off-chain Helius provider client crate for the portable Solana Kit SDK |
+| 2026-10-26 18:37:06 | [rustev](https://crates.io/crates/rustev) | 0.1.0 | 0 | Rustev, an embeddable decision engine: one facade over the release family, with… |
+| 2026-10-26 18:37:43 | [flow-agent-core](https://crates.io/crates/flow-agent-core) | 0.0.1 | 0 | Placeholder for flow-agent-core, part of flow-agent: LangChain/LangGraph-style… |
+| 2026-10-26 18:37:45 | [flow-agent-models](https://crates.io/crates/flow-agent-models) | 0.0.1 | 0 | Placeholder for flow-agent-models, part of flow-agent: LangChain/LangGraph-styl… |
+| 2026-10-26 18:37:47 | [flow-agent-graph](https://crates.io/crates/flow-agent-graph) | 0.0.1 | 0 | Placeholder for flow-agent-graph, part of flow-agent: LangChain/LangGraph-style… |
+| 2026-10-26 18:37:48 | [flow-agent-checkpoint](https://crates.io/crates/flow-agent-checkpoint) | 0.0.1 | 0 | Placeholder for flow-agent-checkpoint, part of flow-agent: LangChain/LangGraph-… |
+| 2026-10-26 18:37:50 | [flow-agent-prebuilt](https://crates.io/crates/flow-agent-prebuilt) | 0.0.1 | 0 | Placeholder for flow-agent-prebuilt, part of flow-agent: LangChain/LangGraph-st… |
+| 2026-10-26 18:39:06 | [lang198x-ca65](https://crates.io/crates/lang198x-ca65) | 0.0.1 | 0 | The ca65 assembler family for Lang198x: one lossless parser for the cc65 suite'… |
+| 2026-10-26 18:41:23 | [sentinel-mcp](https://crates.io/crates/sentinel-mcp) | 0.0.0 | 0 | MCP (Model Context Protocol) policy gate for Sentinel: lets coding agents query… |
+| 2026-10-26 18:43:58 | [bridgy](https://crates.io/crates/bridgy) | 0.1.0 | 0 | Cross-platform SIMD abstraction |
+| 2026-10-26 18:44:43 | [particledb-sdk](https://crates.io/crates/particledb-sdk) | 0.2.0 | 0 | Official Rust SDK for ParticleDB |
+| 2026-10-26 18:45:20 | [rune-toolchain-core](https://crates.io/crates/rune-toolchain-core) | 0.1.0 | 0 | Immutable, content-addressed build plans and evidence for the Rune learning too… |
+| 2026-10-26 18:45:23 | [rune-toolchain-cargo](https://crates.io/crates/rune-toolchain-cargo) | 0.1.0 | 0 | Cargo adapter for the Rune learning toolchain: toolchain identity, locked offli… |
+| 2026-10-26 18:45:27 | [rune-toolchain](https://crates.io/crates/rune-toolchain) | 0.1.0 | 0 | Rune: the learning toolchain for Rust. Frozen build plans, offline replay, inde… |
+| 2026-10-26 18:48:52 | [flow-agent](https://crates.io/crates/flow-agent) | 0.0.1 | 0 | Placeholder for flow-agent, part of flow-agent: LangChain/LangGraph-style LLM c… |
+| 2026-10-26 18:49:37 | [wgx-proto](https://crates.io/crates/wgx-proto) | 0.8.6 | 0 | Sans-io implementation of the WireGuard protocol for the SNAP underlay |
+| 2026-10-26 18:51:27 | [commoncrypto-rs](https://crates.io/crates/commoncrypto-rs) | 0.1.0 | 0 | Stream SHA-256 data with Apple's CommonCrypto |
+| 2026-10-26 18:53:55 | [reddb-io-tonic](https://crates.io/crates/reddb-io-tonic) | 1.26.8 | 0 | RedDB compatibility distribution of Tonic with current zstd bindings. |
+| 2026-10-26 18:53:59 | [reddb-io-tonic-prost](https://crates.io/crates/reddb-io-tonic-prost) | 1.26.8 | 0 | RedDB compatibility distribution of the upstream Tonic Prost codec. |
+| 2026-10-26 18:54:55 | [alarmant](https://crates.io/crates/alarmant) | 0.0.0 | 0 | Reserved name: an emergency alert that cannot be ignored (Android app plus send… |
+| 2026-10-26 19:02:39 | [fofa-rs](https://crates.io/crates/fofa-rs) | 0.1.0 | 0 | A fast, lightweight Rust CLI tool for parsing FOFA.io search results |
+| 2026-10-26 19:07:38 | [msquic-src](https://crates.io/crates/msquic-src) | 0.0.0 | 0 | MsQuic sources and native build support. |
+| 2026-10-26 19:07:42 | [contact-sheet](https://crates.io/crates/contact-sheet) | 0.5.0 | 0 | Create A4, A3 or Letter contact sheets (JPEG or PDF/X-4) from Canon, Nikon, Fuj… |
+| 2026-10-26 19:09:54 | [rpm-utils](https://crates.io/crates/rpm-utils) | 0.2.0 | 0 | Read, build, compare, edit, and lint RPM packages and CPIO archives |
+| 2026-10-26 19:10:27 | [cardputer-adv](https://crates.io/crates/cardputer-adv) | 0.1.0 | 0 | Board support for the M5Stack Cardputer ADV (ESP32-S3) on esp-hal: display, key… |
+| 2026-10-26 19:10:54 | [emu198x-commodore-denise-ecs](https://crates.io/crates/emu198x-commodore-denise-ecs) | 0.1.0 | 0 | Commodore Super Denise (ECS) — thin wrapper over emu198x-commodore-denise-ocs t… |
+| 2026-10-26 19:10:58 | [emu198x-gi-ay-3-8912](https://crates.io/crates/emu198x-gi-ay-3-8912) | 0.1.0 | 0 | General Instrument AY-3-8912 PSG — single-I/O-port facade over the AY-3-8910 co… |
+| 2026-10-26 19:11:03 | [emu198x-peripheral-kempston-sinclair-zx-spectrum-joystick](https://crates.io/crates/emu198x-peripheral-kempston-sinclair-zx-spectrum-joystick) | 0.1.0 | 0 | Kempston Interface joystick — Spectrum edge-connector peripheral |
+| 2026-10-26 19:11:10 | [emu198x-peripheral-kempston-sinclair-zx-spectrum-mouse](https://crates.io/crates/emu198x-peripheral-kempston-sinclair-zx-spectrum-mouse) | 0.1.0 | 0 | Kempston mouse interface — Spectrum edge-connector peripheral |
+| 2026-10-26 19:14:38 | [manifold-codec](https://crates.io/crates/manifold-codec) | 1.3.0 | 0 | Lossless RGB8 shared-patch atlas image codecs (MNF5/MNF6/MNF7/MNF8) |
+| 2026-10-26 19:14:47 | [manifold-codec-capi](https://crates.io/crates/manifold-codec-capi) | 1.3.0 | 0 | C FFI for the Manifold lossless RGB8 codecs |
+| 2026-10-26 19:16:48 | [lance-csr-catalog](https://crates.io/crates/lance-csr-catalog) | 0.3.0 | 0 | Catalog and namespace utilities for Lance graph |
+| 2026-10-26 19:16:48 | [mnn-src](https://crates.io/crates/mnn-src) | 0.0.0 | 0 | MNN sources and native build support. |
+| 2026-10-26 19:16:49 | [lance-csr](https://crates.io/crates/lance-csr) | 0.3.0 | 0 | Graph query engine for Lance datasets with Cypher support |
 
 ## Data source
 
