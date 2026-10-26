@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T17:20:03.527578Z,libspd,0.0.3,0,0,https://github.com/TeskesLab/libspd,Hardware-independent SPD image parsing and manipulation
+2026-10-26T17:22:13.180284Z,mucad-lsp,0.6.0,0,0,https://codeberg.org/mucad/mucad,LSP implementation for µcad language
+2026-10-26T17:23:14.741142Z,packagist-stats-tracker,0.1.3,0,0,https://github.com/raphaelstolt/packagist-stats-tracker,Track download statistics for Composer packages from Packagist
+2026-10-26T17:23:51.808655Z,emu198x-yamaha-v9938,0.1.0,0,0,https://github.com/emu198x/emu198x,"Yamaha V9938 MSX2 Video Display Processor: 128 KB VRAM, Graphic 1-7 and Text 1-2, sprite mode 2 and the command engine"
+2026-10-26T17:27:11.787793Z,bse-classify,0.1.0,0,0,https://github.com/jarohull-ai/BALD-ENGINE,"BALD claim extraction, non-person entities and source stance classification"
+2026-10-26T17:28:55.614222Z,mlmf-tensor-names,0.7.26,0,0,https://github.com/CireSnave/mlmf,"Translate tensor names between HuggingFace and GGUF spellings for the dense Llama-style layout, from a declared table. A name with no entry is reported, never guessed."
+2026-10-26T17:28:58.745107Z,mlmf-gguf-arch,0.7.26,0,0,https://github.com/CireSnave/mlmf,"Name the architecture family a GGUF file declares (general.architecture), or that its tensor names unambiguously show. No I/O; absent when neither says."
+2026-10-26T17:29:28.462118Z,slain-ed25519,0.1.0,0,0,,"Constant-time Ed25519 signatures (RFC 8032) in pure Rust; no_std core, optional C API."
+2026-10-26T17:29:33.836995Z,rustev-contract,0.1.0,0,0,https://github.com/statecrafting/rustev,"Rustev's versioned wire contract: documents, bounded parsing, canonical form and identities."
+2026-10-26T17:29:46.629486Z,rustev-core,0.1.0,0,0,https://github.com/statecrafting/rustev,"Rustev's pure core: validation, value kinds, exact operators, compiler, calibration binding and selection policy."
+2026-10-26T17:29:59.407803Z,rustev-runtime,0.1.0,0,0,https://github.com/statecrafting/rustev,"Rustev's runtime: bounded execution of compiled plans through backend seams, with honest cost, cancellation and evidence."
+2026-10-26T17:30:01.101323Z,rustev-backend-rules,0.1.0,0,0,https://github.com/statecrafting/rustev,"Rustev's deterministic rules backend: an identified, bounded rules program answering semantic requests with authored logits."
+2026-10-26T17:30:13.666647Z,rustev-eval,0.1.0,0,0,https://github.com/statecrafting/rustev,"Rustev's offline evaluation: bounded replay bundles, historical reproduction, candidate comparison, datasets, metrics and calibration fitting."
+2026-10-26T17:30:27.375358Z,egui-agent-chat,0.1.0,0,0,https://github.com/AxonPod/egui-agent-chat,"An egui chat widget for agentai agents: streamed answers, reasoning and tool calls"
+2026-10-26T17:31:36.81597Z,caliper-docgen-tsc-client,0.1.1,0,0,https://github.com/orin-dx/caliper,Process supervisor and JSON-RPC transport client for TypeScript 7's tsc --api
+2026-10-26T17:31:49.040907Z,caliper-docgen-semantic,0.1.1,0,0,https://github.com/orin-dx/caliper,Experimental TypeScript 7.1 checker backend for caliper-docgen: asks `tsc --api` for each component's props
+2026-10-26T17:33:58.023688Z,emu198x-yamaha-ym2413,0.1.0,0,0,https://github.com/emu198x/emu198x,"Yamaha YM2413 (OPLL) FM synthesis chip and the Konami VRC7 core, cycle-stepped — Master System FM, MSX-MUSIC, VRC7"
+2026-10-26T17:37:03.433544Z,rustev-otel,0.1.0,0,0,https://github.com/statecrafting/rustev,"Rustev's OpenTelemetry evidence sink: delivered run records as redacted spans, metrics and logs."
+2026-10-26T17:37:19.70573Z,kry-core,1.0.0,0,0,https://github.com/dioleti/kry-core,Biblioteca nativa para criptografia e descriptografia de arquivos utilizando AES-256-GCM e Argon2id.
+2026-10-26T17:40:09.295473Z,slain-core,0.1.0,0,0,,"Universal core: the cornerstone engines (AES-GCM, BLAKE3, ChaCha20-Poly1305, CRC-32C, ECDSA/ECDH P-256/P-384, Ed25519, SHA-2, SHA-3, X25519, Zstandard) behind one Rust API and one C ABI; no_std core."
+2026-10-26T17:44:04.571147Z,emu198x-yamaha-ym2612,0.1.0,0,0,https://github.com/emu198x/emu198x,"Yamaha YM2612 (OPN2) and YM3438 FM synthesis chip, cycle-stepped — Sega Mega Drive"
+2026-10-26T17:45:57.026301Z,htmlpress,0.0.0,0,0,https://github.com/datisthq/htmlpress,"Turn a folder of HTML pages into a site: one layout, one theme, live reload, made for agents"
+2026-10-26T17:47:04.674047Z,rustev-remote-http,0.1.0,0,0,https://github.com/statecrafting/rustev,Rustev's remote adapter machinery and the rustev.remote/1 HTTP binding: a client implementing the backend seam and a server hosting any backend.
+2026-10-26T17:54:01.821039Z,sentinel-sysadmin-core,0.2.0,0,0,,"Capability model, policy engine core, and shared types for the Sentinel agentic sysadmin family"
+2026-10-26T17:54:08.292779Z,sentinel-exec,0.2.0,0,0,,"Confined command execution for Sentinel: allow/deny policy, dry-run, and audit hooks"
+2026-10-26T17:54:09.908099Z,emu198x-z80-cadence,0.1.0,0,0,https://github.com/emu198x/emu198x,"The Z80 cadence every Z80 machine shares: two CPU half-cycles per T-state, interrupt pins fed before each"
+2026-10-26T17:54:15.473168Z,sentinel-policy,0.2.0,0,0,,Human-readable policy definitions and evaluation for the Sentinel agentic sysadmin family
+2026-10-26T17:54:22.296813Z,sentinel-audit,0.2.0,0,0,,Append-only audit log and Prometheus metrics for the Sentinel agentic sysadmin family
+2026-10-26T17:55:30.566027Z,veylog,0.1.0,0,0,https://github.com/Veysel440/veylog,"Laravel log dosyalarını okunabilir bir özete çeviren komut satırı aracı: kalıplar, hata parmak izleri, karşılaştırma ve ani artışlar"
+2026-10-26T17:57:03.658838Z,rustev-surface,0.1.0,0,0,https://github.com/statecrafting/rustev,"Rustev's pure command surface: check, compile, show, offline replay, evaluation, gates and calibration, rendered once for every host."
+2026-10-26T17:59:14.493428Z,bse-pipeline,0.1.0,0,0,https://github.com/jarohull-ai/BALD-ENGINE,"BALD search pipeline: guard, fan-out, canonicalization, RRF, store"
+2026-10-26T18:01:46.987069Z,bse-api,0.1.0,0,0,https://github.com/jarohull-ai/BALD-ENGINE,"BALD local service API: claims, evidence and settings"
+2026-10-26T18:02:14.638413Z,bald-engine,0.1.0,0,0,https://github.com/jarohull-ai/BALD-ENGINE,BALD sovereign OSINT search engine and cryptographic evidence ledger
+2026-10-26T18:03:50.427934Z,sentinel-capabilities,0.2.0,0,0,,"Confinement-checked sysadmin capabilities (files, processes, packages, network) for Sentinel"
+2026-10-26T18:04:14.842185Z,emu198x-zilog-z80-ctc,0.1.0,0,0,https://github.com/emu198x/emu198x,"Zilog Z80 CTC (Z8430) Counter/Timer Circuit — Sord M5, MSX, Memotech MTX, Tatung Einstein"
+2026-10-26T18:07:08.522099Z,slain-bench,0.1.0,0,0,https://github.com/the-see-people/slain,Benchmark tool for SLAIN cornerstone primitives — galvanized fused operations
+2026-10-26T18:07:09.853839Z,rustev-cli,0.1.0,0,0,https://github.com/statecrafting/rustev,"Rustev's command-line host: plan check, compile and show; rules-backed runs with bounded capture; offline replay, evaluation, gates and calibration fitting."
+2026-10-26T18:12:37.997264Z,sentinel-runner,0.2.0,0,0,https://github.com/marcuspat/Sentinel,"The one plan executor for Sentinel: policy check, audit, timeout, halt-on-failure and rollback, shared by `sentinel run` and `sentinel execute`"
+2026-10-26T18:14:22.980558Z,emu198x-atari-antic,0.1.0,0,0,https://github.com/emu198x/emu198x,"Atari ANTIC display list processor — Atari 5200, 800XL, 130XE"
+2026-10-26T18:17:03.275875Z,rustev-pkg-support-routing,0.1.0,0,0,https://github.com/statecrafting/rustev,"Rustev reference package: the support-routing decision definition, its evaluation material and a SYNTHETIC dataset."
