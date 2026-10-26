@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T12:20:37.258519Z,emu198x-mos-via-6522,0.1.0,0,0,https://github.com/emu198x/emu198x,MOS 6522 Versatile Interface Adapter
+2026-10-26T12:20:41.109238Z,emu198x-mos-vic-i,0.1.0,0,0,https://github.com/emu198x/emu198x,"MOS Technology 6560 (NTSC) / 6561 (PAL) — VIC chip used by the VIC-20, handling video and audio. Extracted from machine-commodore-vic-20."
+2026-10-26T12:21:49.834787Z,firewatch-core,0.1.0-rc.2,0,0,https://github.com/Chibey-max/Firewatch,"Shared types, version matching and verdict engine for Firewatch"
+2026-10-26T12:21:52.577675Z,firewatch-alerts,0.1.0-rc.2,0,0,https://github.com/Chibey-max/Firewatch,Private alerts for Firewatch (Nostr NIP-17 DMs)
+2026-10-26T12:21:53.482127Z,firewatch-connectors,0.1.0-rc.2,0,0,https://github.com/Chibey-max/Firewatch,Read-only node connectors for Firewatch
+2026-10-26T12:21:59.93167Z,firewatch,0.1.0-rc.2,0,0,https://github.com/Chibey-max/Firewatch,Security alerts for Lightning nodes: checks your node against published advisories
+2026-10-26T12:22:29.446147Z,solvi-core,0.0.1,0,0,https://github.com/solvi-ai/solvi,Certified promotion for decision systems: a paired gate with an exact sign test and a hash-chained version log
+2026-10-26T12:22:43.374717Z,solvi,0.0.1,0,0,https://github.com/solvi-ai/solvi,solvi for Rust: certified decision systems (early release; re-exports solvi-core)
+2026-10-26T12:22:46.994145Z,solvi-rs,0.0.1,0,0,https://github.com/solvi-ai/solvi,solvi for Rust: certified decision systems (early release; re-exports solvi-core)
+2026-10-26T12:28:04.167563Z,ely-terminal,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's terminal for GPUI: a grid, a pseudo-terminal, colored text and its search."
+2026-10-26T12:30:47.844443Z,emu198x-mos-vic-ii,0.1.0,0,0,https://github.com/emu198x/emu198x,MOS 6569/8565 PAL and 6567/8562 NTSC VIC-II video chip for Commodore systems
+2026-10-26T12:32:09.615906Z,snapfire_fsr_terminal,0.1.0,0,0,https://github.com/excsn/snapfire,Ink's Box and Text laid out with flexbox and drawn to a terminal as cells.
+2026-10-26T12:34:51.338513Z,solana_kit_mpl_bubblegum,0.0.0,0,0,https://github.com/pina-rs/solana_kit,Reserved off-chain Bubblegum client crate for the portable Solana Kit SDK
+2026-10-26T12:35:02.982437Z,snapfire_svelte,0.1.0,0,0,https://github.com/excsn/snapfire,Compile Svelte components for snapfirec. No NodeJS required.
+2026-10-26T12:36:12.760517Z,snapfire_fsr_oidc,0.1.0,0,0,https://github.com/excsn/snapfire,"OpenID Connect sign-in for SnapFire FSR: an IdentityProvider over any issuer, with presets for the common ones."
+2026-10-26T12:36:37.048277Z,snapfire_fsr_passkey,0.1.0,0,0,https://github.com/excsn/snapfire,"Passkey sign-in for SnapFire FSR: WebAuthn as an IdentityProvider, with a credential store seam."
+2026-10-26T12:37:12.441312Z,Nova-Musique,0.6.0,0,0,,"(cargo install Nova-Musique --features install) Media player for innovative codecs, Dear User :)"
+2026-10-26T12:38:02.445779Z,ely-chat,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's AI chat components for GPUI: messages, the composer, citations and tool calls."
+2026-10-26T12:40:54.479079Z,emu198x-motorola-6809,0.1.0,0,0,https://github.com/emu198x/emu198x,Motorola MC6809 CPU with a bus-facing state model
+2026-10-26T12:40:57.101747Z,snapfire_fsr_migrate,0.1.0,0,0,https://github.com/excsn/snapfire,"Rewrites an application written for Next.js, SvelteKit or Nuxt into a SnapFire FSR application, naming each line it left for a person."
+2026-10-26T12:42:54.845914Z,aethel-auth,0.1.0,0,0,https://github.com/0x307/aethel-runtime,"Delegated authority for post-quantum agent identities: per-request login proofs, bounded delegation, step-up approval, and succession and revocation statements over aethel-core's ML-DSA-65 identities…"
+2026-10-26T12:48:03.186388Z,ely-collab,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's collaboration components for GPUI: presence, comments, cursors and shared editing."
+2026-10-26T12:51:01.211148Z,emu198x-motorola-6845,0.1.0,0,0,https://github.com/emu198x/emu198x,Motorola 6845 CRT Controller (CRTC)
+2026-10-26T12:54:24.995178Z,matter-peek-core,0.0.0,0,0,https://github.com/sysgrok/matter-peek,"Placeholder for the matter-peek API and its Matter controller, not released yet"
+2026-10-26T12:54:27.814262Z,matter-peek-server,0.0.0,0,0,https://github.com/sysgrok/matter-peek,"Placeholder for the matter-peek server, not released yet"
+2026-10-26T12:54:31.07234Z,matter-peek-web,0.0.0,0,0,https://github.com/sysgrok/matter-peek,"Placeholder for the matter-peek web UI (Yew/Wasm), not released yet"
+2026-10-26T12:54:34.786966Z,matter-peek,0.0.0,0,0,https://github.com/sysgrok/matter-peek,"Placeholder for the matter-peek executable (server, web UI, CLI, MCP), not released yet"
+2026-10-26T12:54:38.463536Z,matter-peek-app,0.0.0,0,0,https://github.com/sysgrok/matter-peek,"Placeholder for the matter-peek app (Tauri), not released yet"
+2026-10-26T12:58:02.750971Z,ely-onboarding,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's onboarding components for GPUI: tours, hotspots, checklists and help."
+2026-10-26T13:01:07.487489Z,emu198x-motorola-acia-6850,0.1.0,0,0,https://github.com/emu198x/emu198x,"Motorola MC6850 Asynchronous Communications Interface Adapter, clocked by its host"
+2026-10-26T13:06:40.717406Z,slintplot-gallery,0.1.0,0,0,https://github.com/trondegil/slintplot,"Sample browser for SlintPlot: every chart type, with live data editing, themes and dark mode"
+2026-10-26T13:06:41.896364Z,slintplot-stress,0.1.0,0,0,https://github.com/trondegil/slintplot,"Stress test for SlintPlot: up to 8 x 1,000,000 points, 60 Hz streaming and headless benchmarks"
+2026-10-26T13:08:03.832493Z,ely-agent,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's agent components for GPUI: plans, steps, changes, permissions and memory."
+2026-10-26T13:09:12.502443Z,pybids-rs,0.0.4,0,0,https://github.com/eugenehp/bids-rs,"Python bindings for bids-rs, a Rust implementation of PyBIDS"
+2026-10-26T13:11:14.635405Z,emu198x-motorola-mfp-68901,0.1.0,0,0,https://github.com/emu198x/emu198x,"Motorola MC68901 Multi-Function Peripheral: GPIO with edge interrupts, four timers, a 16-source vectored interrupt controller and a USART"
+2026-10-26T13:11:18.848096Z,sysfile3,0.2.0,0,0,https://github.com/nettanvirdev/sysfile3,"A multi-tenant virtual file system for AI agents: Postgres for the tree, S3-compatible storage for the bytes"
+2026-10-26T13:17:26.234962Z,rivet-sqlite-types,3.0.0-preview.1,0,0,https://github.com/rivet-dev/rivet-ee,Shared SQLite execution types for depot client
+2026-10-26T13:17:48.806566Z,sqlite-embedded,3.0.0-preview.1,0,0,https://github.com/rivet-dev/rivet-ee,Native SQLite VFS client for Rivet actors
+2026-10-26T13:18:03.611179Z,ely-devtools,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's developer tools for GPUI: requests, data viewers, encoders and contrast."
+2026-10-26T13:18:25.186187Z,context-retriever,0.1.0,0,0,,"Broad Retrieval -> Deep Re-ranking: a provider-agnostic, recall-first RAG retrieval engine"
+2026-10-26T13:18:52.567158Z,devpage-design,0.2.0,0,0,https://github.com/andrei512/devpage,"The design engine: parses, resolves, lays out and paints devpage designs"
