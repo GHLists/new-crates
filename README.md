@@ -8,65 +8,68 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 09:19 UTC
+## Latest list — 2026-10-26 10:18 UTC
 
-New crates published between 2026-10-26 08:19 UTC and 2026-10-26 09:19 UTC.
+New crates published between 2026-10-26 09:19 UTC and 2026-10-26 10:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-26T09-19-43-3853Z.csv)
+[Full CSV](data/new-crates-2026-10-26T10-18-40-165397Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-26 08:19:12 | [lyr-shell](https://crates.io/crates/lyr-shell) | 0.1.0 | 0 | Bar and popup windows for lyr over crcbl-shell: outputs, placement and input. |
-| 2026-10-26 08:19:14 | [waclay-wasmer](https://crates.io/crates/waclay-wasmer) | 2.0.1 | 0 | wasmer (Cranelift JIT) backend for Waclay; not built on Windows. |
-| 2026-10-26 08:19:40 | [billion-context-tool](https://crates.io/crates/billion-context-tool) | 0.1.0 | 0 | Tool-call adapter: exposes billion-context's fold and retrieve to a model |
-| 2026-10-26 08:19:43 | [waclay-cli](https://crates.io/crates/waclay-cli) | 2.0.1 | 0 | Command-line tool to inspect and run WebAssembly components on any Waclay engin… |
-| 2026-10-26 08:19:53 | [lyr-render](https://crates.io/crates/lyr-render) | 0.1.0 | 0 | Rendering for lyr: draw lists through crcbl's GPU layer, and fonts. |
-| 2026-10-26 08:20:34 | [lyr-sources](https://crates.io/crates/lyr-sources) | 0.1.0 | 0 | Module data sources for lyr: audio, network, bluetooth, battery, power, tray an… |
-| 2026-10-26 08:20:44 | [justssh](https://crates.io/crates/justssh) | 0.1.0 | 0 | Sans-IO SSH client and server: transport, authentication and connection state m… |
-| 2026-10-26 08:21:24 | [lyr-bin](https://crates.io/crates/lyr-bin) | 0.1.0 | 0 | A desktop status bar for Linux (Wayland), Windows and macOS. |
-| 2026-10-26 08:21:37 | [justssh-keys](https://crates.io/crates/justssh-keys) | 0.1.0 | 0 | Private key files for justssh: OpenSSH keys read and written, PPK and PEM keys… |
-| 2026-10-26 08:22:14 | [biscuit-quote-atestum](https://crates.io/crates/biscuit-quote-atestum) | 0.4.0-r1 | 0 | macros for compile time datalog parsing for Biscuit authorization tokens |
-| 2026-10-26 08:22:36 | [reifydb-wal](https://crates.io/crates/reifydb-wal) | 0.10.0 | 0 | Typed write-ahead log over the segmented log store |
-| 2026-10-26 08:22:42 | [panweave-hub](https://crates.io/crates/panweave-hub) | 0.3.0 | 0 | Panweave Zigbee hub: device registry, interview, IAS Zone and lighting logic, a… |
-| 2026-10-26 08:22:47 | [justssh-tokio](https://crates.io/crates/justssh-tokio) | 0.1.0 | 0 | Tokio adapter that drives the justssh sans-IO core over TCP |
-| 2026-10-26 08:25:10 | [marklab-cli](https://crates.io/crates/marklab-cli) | 0.2.8 | 0 | Standalone, local Markdown export and publishing CLI |
-| 2026-10-26 08:28:16 | [tetraglass-export](https://crates.io/crates/tetraglass-export) | 0.2.0 | 0 | Scene exporters for Binary glTF 2.0 (.glb) and the renderer-neutral Blender bun… |
-| 2026-10-26 08:29:03 | [biscuit-auth-atestum](https://crates.io/crates/biscuit-auth-atestum) | 7.0.0-r1 | 0 | an authorization token with decentralized verification and offline attenuation |
-| 2026-10-26 08:29:21 | [teamy-vox-stream](https://crates.io/crates/teamy-vox-stream) | 0.10.0-rc.7 | 0 | Byte-stream transport (TCP, Unix, stdio) for vox — length-prefix framing over A… |
-| 2026-10-26 08:32:32 | [diskhalo](https://crates.io/crates/diskhalo) | 0.1.0 | 0 | See what's eating your disk — as a sunburst or a treemap, in your terminal. |
-| 2026-10-26 08:33:38 | [oxaria](https://crates.io/crates/oxaria) | 0.1.0 | 0 | Check a web page against a curated set of accessibility rules such as WCAG 2.2,… |
-| 2026-10-26 08:33:54 | [reifydb-flow-async](https://crates.io/crates/reifydb-flow-async) | 0.10.0 | 0 | Flow execution substrate: the flow transaction/state layer and the operator con… |
-| 2026-10-26 08:36:33 | [reifydb-flow-sync](https://crates.io/crates/reifydb-flow-sync) | 0.10.0 | 0 | Transactional view flows maintained inside the user transaction |
-| 2026-10-26 08:39:56 | [teamy-vox](https://crates.io/crates/teamy-vox) | 0.10.0-rc.7 | 0 | Core Vox library crate |
-| 2026-10-26 08:42:00 | [sortition](https://crates.io/crates/sortition) | 0.1.1 | 0 | Minimal unbiased random lottery (sampling without replacement) core with a C ABI |
-| 2026-10-26 08:43:02 | [sortition-cli](https://crates.io/crates/sortition-cli) | 0.1.1 | 0 | Command-line tool to draw winners reproducibly from a list, and to verify a rec… |
-| 2026-10-26 08:48:11 | [reifydb-console-protocol](https://crates.io/crates/reifydb-console-protocol) | 0.10.0 | 0 | Tunnel protocol between a ReifyDB instance and the console |
-| 2026-10-26 08:48:37 | [hearth-asset](https://crates.io/crates/hearth-asset) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 08:48:44 | [hearth-cookie](https://crates.io/crates/hearth-cookie) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 08:48:53 | [hearth-datastar](https://crates.io/crates/hearth-datastar) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 08:48:58 | [hearth-htmx](https://crates.io/crates/hearth-htmx) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 08:49:10 | [hearth-mail](https://crates.io/crates/hearth-mail) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 08:49:46 | [daemonize-next](https://crates.io/crates/daemonize-next) | 0.1.0 | 0 | Drop-in replacement for the unmaintained daemonize crate, with its privilege-dr… |
-| 2026-10-26 08:50:59 | [nazz-core](https://crates.io/crates/nazz-core) | 0.1.0 | 0 | Agent identity, scope, grants, and execution contracts. |
-| 2026-10-26 08:51:14 | [nazz-storage](https://crates.io/crates/nazz-storage) | 0.1.0 | 0 | Host-neutral storage ports and durable execution protocol types. |
-| 2026-10-26 08:51:22 | [teamy-vox-proto](https://crates.io/crates/teamy-vox-proto) | 0.2.2 | 0 | Service definitions used by the canonical vox compliance suite |
-| 2026-10-26 08:52:09 | [nazz-runtime](https://crates.io/crates/nazz-runtime) | 0.1.0 | 0 | Rig step driver with effect reconciliation. No second inference loop. |
-| 2026-10-26 08:52:19 | [nazz-sandbox](https://crates.io/crates/nazz-sandbox) | 0.1.0 | 0 | Host-approved operating system sandbox for agent execution. |
-| 2026-10-26 08:57:20 | [codeatlas-domain](https://crates.io/crates/codeatlas-domain) | 0.3.1 | 0 | Pure domain models, entities, value objects, and port traits for CodeAtlas |
-| 2026-10-26 08:58:00 | [codeatlas-application](https://crates.io/crates/codeatlas-application) | 0.3.1 | 0 | Application layer use cases and orchestrators for CodeAtlas |
-| 2026-10-26 08:58:20 | [hearth-view-macro](https://crates.io/crates/hearth-view-macro) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 08:58:38 | [codeatlas-infrastructure](https://crates.io/crates/codeatlas-infrastructure) | 0.3.1 | 0 | Infrastructure engines: Tree-sitter parsers, petgraph store, file watchers, and… |
-| 2026-10-26 08:59:23 | [codeatlas-adapters](https://crates.io/crates/codeatlas-adapters) | 0.3.1 | 0 | Interface adapters: MCP stdio transport, CLI controllers, and outbound clients |
-| 2026-10-26 09:01:52 | [blochs](https://crates.io/crates/blochs) | 0.1.0 | 0 | Ranked, budgeted codebase maps for coding agents with session handoff fidelity |
-| 2026-10-26 09:04:33 | [brz-socket-io-macros](https://crates.io/crates/brz-socket-io-macros) | 0.0.1 | 0 | Namespace and event exports for brz-socket-io |
-| 2026-10-26 09:06:30 | [proptest-z3](https://crates.io/crates/proptest-z3) | 0.1.0 | 0 | Generate test inputs with name dependencies for proptest: build the skeleton wi… |
-| 2026-10-26 09:07:02 | [brz-socket-io](https://crates.io/crates/brz-socket-io) | 0.0.1 | 0 | Provider-based Socket.IO services for Breeze applications |
-| 2026-10-26 09:08:39 | [hearth-font](https://crates.io/crates/hearth-font) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 09:11:29 | [bevy_assets_hmr](https://crates.io/crates/bevy_assets_hmr) | 0.1.0 | 0 | Minimal config-file hot-reload for Bevy 0.20: watch a RON/JSON (or custom-forma… |
-| 2026-10-26 09:13:01 | [codeatlas-cli](https://crates.io/crates/codeatlas-cli) | 0.3.1 | 0 | High-performance Rust MCP server for CodeAtlas |
-| 2026-10-26 09:15:21 | [easy-api](https://crates.io/crates/easy-api) | 0.1.2 | 0 | A lightweight Rust HTTP API server with callback-based endpoints |
-| 2026-10-26 09:17:23 | [orbiv-macros](https://crates.io/crates/orbiv-macros) | 0.3.0 | 0 | Orbit, the migration framework. |
-| 2026-10-26 09:18:00 | [hearth-icon](https://crates.io/crates/hearth-icon) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 09:20:04 | [rustnum](https://crates.io/crates/rustnum) | 0.1.0 | 6 | NumPy-style n-dimensional arrays for Rust: one array type, NumPy names, pure Ru… |
+| 2026-10-26 09:20:08 | [harn-signals](https://crates.io/crates/harn-signals) | 0.10.180 | 29 | Per-machine signal inbox, session registry, and router for delivering alerts to… |
+| 2026-10-26 09:20:17 | [harn-builtins](https://crates.io/crates/harn-builtins) | 0.10.180 | 10 | Native builtin families of the Harn standard library that sit above the VM |
+| 2026-10-26 09:20:20 | [harn-flow](https://crates.io/crates/harn-flow) | 0.10.180 | 15 | Harn Flow shipping substrate: atoms, intents, slices, and invariant predicates |
+| 2026-10-26 09:20:23 | [harn-runtime](https://crates.io/crates/harn-runtime) | 0.10.180 | 22 | The complete native Harn runtime: the VM and every builtin family crate |
+| 2026-10-26 09:23:44 | [emu198x-amstrad-gate-array](https://crates.io/crates/emu198x-amstrad-gate-array) | 0.1.0 | 4 | Amstrad Gate Array (40007 / 40010) — the CPC's video, palette and ROM-paging ch… |
+| 2026-10-26 09:23:48 | [emu198x-atari-gtia](https://crates.io/crates/emu198x-atari-gtia) | 0.1.0 | 5 | Atari GTIA video output chip — Atari 5200, 800XL, 130XE |
+| 2026-10-26 09:23:52 | [emu198x-atari-maria](https://crates.io/crates/emu198x-atari-maria) | 0.1.0 | 2 | Atari 7800 MARIA display processor — zone-based display list renderer |
+| 2026-10-26 09:23:57 | [emu198x-atari-pokey](https://crates.io/crates/emu198x-atari-pokey) | 0.1.0 | 10 | Atari POKEY sound + I/O chip — Atari 5200, 7800, 800XL, 130XE |
+| 2026-10-26 09:24:00 | [emu198x-atari-sio](https://crates.io/crates/emu198x-atari-sio) | 0.1.0 | 9 | Atari 8-bit SIO serial bus and the disk drives on it, modelled at byte granular… |
+| 2026-10-26 09:26:07 | [houyidb-client](https://crates.io/crates/houyidb-client) | 0.2.0-beta.5 | 3 | Official Rust client for HouyiDB vector database (collections HTTP API) |
+| 2026-10-26 09:26:29 | [tokio-dtls](https://crates.io/crates/tokio-dtls) | 0.1.0 | 6 | Async DTLS 1.3 for Tokio, powered by dimpl |
+| 2026-10-26 09:27:44 | [guigu-matrix-sdk-base](https://crates.io/crates/guigu-matrix-sdk-base) | 0.13.0-guigu.1 | 12 | The base component to build a Matrix client library. |
+| 2026-10-26 09:28:01 | [hearth-mail-grammar](https://crates.io/crates/hearth-mail-grammar) | 0.1.0 | 4 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 09:31:02 | [emu198x-atari-st-glue-mmu](https://crates.io/crates/emu198x-atari-st-glue-mmu) | 0.1.0 | 10 | Atari ST GLUE and MMU: video timing, the video counter and fetch, memory config… |
+| 2026-10-26 09:31:37 | [solana_kit_mpl_core](https://crates.io/crates/solana_kit_mpl_core) | 0.0.0 | 6 | Reserved off-chain MPL Core client crate for the portable Solana Kit SDK |
+| 2026-10-26 09:35:11 | [neurondump-gguf](https://crates.io/crates/neurondump-gguf) | 0.1.3 | 17 | Zero-copy GGUF parser, dequantization and writer |
+| 2026-10-26 09:35:41 | [teamy-vox-codegen](https://crates.io/crates/teamy-vox-codegen) | 0.10.0-rc.8 | 8 | Language bindings codegen for vox |
+| 2026-10-26 09:36:35 | [serwus-test](https://crates.io/crates/serwus-test) | 0.2.6 | 6 | Helpers for end-to-end tests of serwus services - Postgres in a container and t… |
+| 2026-10-26 09:37:57 | [hearth-runtime](https://crates.io/crates/hearth-runtime) | 0.1.0 | 5 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 09:39:22 | [eorscope](https://crates.io/crates/eorscope) | 0.1.0 | 2 | Dated statutory employer-contribution changes by country, read from official so… |
+| 2026-10-26 09:39:54 | [pubky-social-specs](https://crates.io/crates/pubky-social-specs) | 1.0.0-rc.1 | 7 | Pubky social data models with validation, sanitization, and URI helpers |
+| 2026-10-26 09:40:37 | [genotype_tree](https://crates.io/crates/genotype_tree) | 0.18.0 | 17 | Genotype language AST crate |
+| 2026-10-26 09:40:53 | [neurondump-core](https://crates.io/crates/neurondump-core) | 0.1.3 | 14 | Discovery, extraction, analysis, slimming and jobs for NeuronDump |
+| 2026-10-26 09:41:00 | [genotype_fmt](https://crates.io/crates/genotype_fmt) | 0.18.0 | 8 | Genotype source formatter for native and Wasm hosts |
+| 2026-10-26 09:41:02 | [neurondump-cli](https://crates.io/crates/neurondump-cli) | 0.1.3 | 4 | CLI and interactive REPL front end for NeuronDump |
+| 2026-10-26 09:41:07 | [emu198x-atari-st-shifter](https://crates.io/crates/emu198x-atari-st-shifter) | 0.1.0 | 4 | Atari ST Shifter: palette, resolution and the bitplane-to-pixel shift registers… |
+| 2026-10-26 09:41:09 | [neurondump-trace](https://crates.io/crates/neurondump-trace) | 0.1.3 | 6 | Candle-based inference tracing for NeuronDump |
+| 2026-10-26 09:41:19 | [neurondump-web](https://crates.io/crates/neurondump-web) | 0.1.3 | 5 | Local web interface for NeuronDump |
+| 2026-10-26 09:42:25 | [alpha2-compose](https://crates.io/crates/alpha2-compose) | 0.4.3 | 6 | Compiles alpha2 compose specs (sequences, stacks, grids, presets) into project… |
+| 2026-10-26 09:46:41 | [guigu-matrix-sdk-sqlite](https://crates.io/crates/guigu-matrix-sdk-sqlite) | 0.13.0-guigu.1 | 9 | Sqlite storage backend for matrix-sdk |
+| 2026-10-26 09:48:16 | [filemux-core](https://crates.io/crates/filemux-core) | 0.1.0 | 5 | Shared configuration, service lifecycle, and event types for Filemux file serve… |
+| 2026-10-26 09:48:17 | [hearth-session](https://crates.io/crates/hearth-session) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 09:48:18 | [filemux-fs](https://crates.io/crates/filemux-fs) | 0.1.0 | 13 | Rooted capability filesystem with persistent object identities for Filemux |
+| 2026-10-26 09:48:54 | [mooce](https://crates.io/crates/mooce) | 0.1.6 | 10 | An unintuitive list |
+| 2026-10-26 09:49:40 | [deccy-cli](https://crates.io/crates/deccy-cli) | 0.1.0 | 4 | Maintain a decision graph in any repo: one CLI for humans and agents alike. |
+| 2026-10-26 09:51:14 | [emu198x-atari-tia](https://crates.io/crates/emu198x-atari-tia) | 0.1.0 | 10 | Atari TIA (Television Interface Adaptor) — Atari 2600, 7800 |
+| 2026-10-26 09:53:20 | [nvpn-dtls](https://crates.io/crates/nvpn-dtls) | 0.17.3 | 2 | A pure Rust implementation of DTLS |
+| 2026-10-26 09:54:42 | [fastops](https://crates.io/crates/fastops) | 0.1.2 | 1 | Fast, safe copy, move, delete, clean and size for large folders |
+| 2026-10-26 09:57:52 | [filemux-http](https://crates.io/crates/filemux-http) | 0.1.0 | 0 | Read-only HTTP/1 file server backed by the Filemux rooted filesystem |
+| 2026-10-26 09:58:13 | [hearth-font-grammar](https://crates.io/crates/hearth-font-grammar) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 09:58:45 | [guigu-matrix-sdk](https://crates.io/crates/guigu-matrix-sdk) | 0.13.0-guigu.1 | 0 | A high level Matrix client-server library. |
+| 2026-10-26 09:59:13 | [neurondump](https://crates.io/crates/neurondump) | 0.1.3 | 0 | Reverse-engineer, analyze and slim down local GGUF LLMs |
+| 2026-10-26 10:00:06 | [filemux-nfs](https://crates.io/crates/filemux-nfs) | 0.1.0 | 0 | Read-only userspace NFSv3 file server over UDP and TCP for Filemux |
+| 2026-10-26 10:00:07 | [filemux-tftp](https://crates.io/crates/filemux-tftp) | 0.1.0 | 0 | TFTP file server with bounded transfers and optional uploads for Filemux |
+| 2026-10-26 10:01:20 | [unlit3dx](https://crates.io/crates/unlit3dx) | 0.1.0-dev.3 | 0 | Multi-world extension for unlit3d: physics, audio and gameplay worlds on their… |
+| 2026-10-26 10:01:21 | [emu198x-commodore-agnus-ocs](https://crates.io/crates/emu198x-commodore-agnus-ocs) | 0.1.0 | 0 | Commodore Agnus OCS — DMA controller, beam generator, copper coprocessor. Per-C… |
+| 2026-10-26 10:02:39 | [store-claim](https://crates.io/crates/store-claim) | 0.8.48 | 0 | Object-store fencing primitives: BackupTarget, the store-side ownership claim (… |
+| 2026-10-26 10:07:15 | [filemux-engine](https://crates.io/crates/filemux-engine) | 0.1.0 | 0 | Shared service orchestration for Filemux HTTP, TFTP, and NFSv3 file servers |
+| 2026-10-26 10:08:17 | [hearth-icon-grammar](https://crates.io/crates/hearth-icon-grammar) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 10:09:08 | [yah-runner-cp](https://crates.io/crates/yah-runner-cp) | 0.8.48 | 0 | GitHub Copilot CLI server-mode process-cell (cp) host for the yah agent runner |
+| 2026-10-26 10:10:54 | [measured-prometheus-text](https://crates.io/crates/measured-prometheus-text) | 0.1.0 | 0 | Prometheus text exposition format for measured |
+| 2026-10-26 10:11:27 | [emu198x-commodore-amiga-autoconfig](https://crates.io/crates/emu198x-commodore-amiga-autoconfig) | 0.1.0 | 0 | Amiga Zorro-II autoconfig board state machine — probe-window register reads, ba… |
+| 2026-10-26 10:18:23 | [hearth-mail-macro](https://crates.io/crates/hearth-mail-macro) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
 
 ## Data source
 

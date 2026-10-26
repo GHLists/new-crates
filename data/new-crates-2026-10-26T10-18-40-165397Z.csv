@@ -1,0 +1,55 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T09:20:04.800345Z,rustnum,0.1.0,6,0,https://github.com/shauryaaojha/rustnum,"NumPy-style n-dimensional arrays for Rust: one array type, NumPy names, pure Rust."
+2026-10-26T09:20:08.5324Z,harn-signals,0.10.180,29,0,https://github.com/burin-labs/harn,"Per-machine signal inbox, session registry, and router for delivering alerts to running agent sessions"
+2026-10-26T09:20:17.631247Z,harn-builtins,0.10.180,10,0,https://github.com/burin-labs/harn,Native builtin families of the Harn standard library that sit above the VM
+2026-10-26T09:20:20.603333Z,harn-flow,0.10.180,15,0,https://github.com/burin-labs/harn,"Harn Flow shipping substrate: atoms, intents, slices, and invariant predicates"
+2026-10-26T09:20:23.113346Z,harn-runtime,0.10.180,22,0,https://github.com/burin-labs/harn,The complete native Harn runtime: the VM and every builtin family crate
+2026-10-26T09:23:44.723742Z,emu198x-amstrad-gate-array,0.1.0,4,0,https://github.com/emu198x/emu198x,"Amstrad Gate Array (40007 / 40010) — the CPC's video, palette and ROM-paging chip"
+2026-10-26T09:23:48.829638Z,emu198x-atari-gtia,0.1.0,5,0,https://github.com/emu198x/emu198x,"Atari GTIA video output chip — Atari 5200, 800XL, 130XE"
+2026-10-26T09:23:52.989243Z,emu198x-atari-maria,0.1.0,2,0,https://github.com/emu198x/emu198x,Atari 7800 MARIA display processor — zone-based display list renderer
+2026-10-26T09:23:57.088921Z,emu198x-atari-pokey,0.1.0,10,0,https://github.com/emu198x/emu198x,"Atari POKEY sound + I/O chip — Atari 5200, 7800, 800XL, 130XE"
+2026-10-26T09:24:00.97237Z,emu198x-atari-sio,0.1.0,9,0,https://github.com/emu198x/emu198x,"Atari 8-bit SIO serial bus and the disk drives on it, modelled at byte granularity"
+2026-10-26T09:26:07.515904Z,houyidb-client,0.2.0-beta.5,3,0,https://github.com/houyidb-community/houyidb,Official Rust client for HouyiDB vector database (collections HTTP API)
+2026-10-26T09:26:29.251393Z,tokio-dtls,0.1.0,6,0,https://github.com/SemyonTs/tokio-dtls,"Async DTLS 1.3 for Tokio, powered by dimpl"
+2026-10-26T09:27:44.134206Z,guigu-matrix-sdk-base,0.13.0-guigu.1,12,0,https://github.com/matrix-org/matrix-rust-sdk,The base component to build a Matrix client library.
+2026-10-26T09:28:01.807016Z,hearth-mail-grammar,0.1.0,4,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T09:31:02.249402Z,emu198x-atari-st-glue-mmu,0.1.0,10,0,https://github.com/emu198x/emu198x,"Atari ST GLUE and MMU: video timing, the video counter and fetch, memory configuration and DRAM address mapping, and the DMA address counter"
+2026-10-26T09:31:37.867454Z,solana_kit_mpl_core,0.0.0,6,0,https://github.com/pina-rs/solana_kit,Reserved off-chain MPL Core client crate for the portable Solana Kit SDK
+2026-10-26T09:35:11.043597Z,neurondump-gguf,0.1.3,17,0,https://github.com/aymen94/NeuronDump,"Zero-copy GGUF parser, dequantization and writer"
+2026-10-26T09:35:41.416585Z,teamy-vox-codegen,0.10.0-rc.8,8,0,https://github.com/TeamDman/vox,Language bindings codegen for vox
+2026-10-26T09:36:35.696665Z,serwus-test,0.2.6,6,0,https://github.com/sfisol/serwus,Helpers for end-to-end tests of serwus services - Postgres in a container and the service as a process
+2026-10-26T09:37:57.410115Z,hearth-runtime,0.1.0,5,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T09:39:22.482339Z,eorscope,0.1.0,2,0,https://github.com/eorscope/eorscope-rs,"Dated statutory employer-contribution changes by country, read from official sources, as published by EOR Scope."
+2026-10-26T09:39:54.120982Z,pubky-social-specs,1.0.0-rc.1,7,0,https://github.com/pubky/pubky-social-specs,"Pubky social data models with validation, sanitization, and URI helpers"
+2026-10-26T09:40:37.40822Z,genotype_tree,0.18.0,17,0,https://github.com/kossnocorp/genotype,Genotype language AST crate
+2026-10-26T09:40:53.269717Z,neurondump-core,0.1.3,14,0,https://github.com/aymen94/NeuronDump,"Discovery, extraction, analysis, slimming and jobs for NeuronDump"
+2026-10-26T09:41:00.037713Z,genotype_fmt,0.18.0,8,0,https://github.com/kossnocorp/genotype,Genotype source formatter for native and Wasm hosts
+2026-10-26T09:41:02.085887Z,neurondump-cli,0.1.3,4,0,https://github.com/aymen94/NeuronDump,CLI and interactive REPL front end for NeuronDump
+2026-10-26T09:41:07.577911Z,emu198x-atari-st-shifter,0.1.0,4,0,https://github.com/emu198x/emu198x,"Atari ST Shifter: palette, resolution and the bitplane-to-pixel shift registers fed by the MMU's video fetches"
+2026-10-26T09:41:09.045175Z,neurondump-trace,0.1.3,6,0,https://github.com/aymen94/NeuronDump,Candle-based inference tracing for NeuronDump
+2026-10-26T09:41:19.591872Z,neurondump-web,0.1.3,5,0,https://github.com/aymen94/NeuronDump,Local web interface for NeuronDump
+2026-10-26T09:42:25.187885Z,alpha2-compose,0.4.3,6,0,https://github.com/alpha2-sh/alpha2,"Compiles alpha2 compose specs (sequences, stacks, grids, presets) into project documents."
+2026-10-26T09:46:41.847169Z,guigu-matrix-sdk-sqlite,0.13.0-guigu.1,9,0,https://github.com/matrix-org/matrix-rust-sdk,Sqlite storage backend for matrix-sdk
+2026-10-26T09:48:16.682443Z,filemux-core,0.1.0,5,0,https://github.com/lona-cn/filemux,"Shared configuration, service lifecycle, and event types for Filemux file servers"
+2026-10-26T09:48:17.142274Z,hearth-session,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T09:48:18.084921Z,filemux-fs,0.1.0,13,0,https://github.com/lona-cn/filemux,Rooted capability filesystem with persistent object identities for Filemux
+2026-10-26T09:48:54.182261Z,mooce,0.1.6,10,0,https://github.com/chimmus/mooce,An unintuitive list
+2026-10-26T09:49:40.885865Z,deccy-cli,0.1.0,4,0,https://github.com/edawise/deccy-cli,Maintain a decision graph in any repo: one CLI for humans and agents alike.
+2026-10-26T09:51:14.585087Z,emu198x-atari-tia,0.1.0,10,0,https://github.com/emu198x/emu198x,"Atari TIA (Television Interface Adaptor) — Atari 2600, 7800"
+2026-10-26T09:53:20.506155Z,nvpn-dtls,0.17.3,2,0,https://git.iris.to/#/npub1xdhnr9mrv47kkrn95k6cwecearydeh8e895990n3acntwvmgk2dsdeeycm/fips,A pure Rust implementation of DTLS
+2026-10-26T09:54:42.136514Z,fastops,0.1.2,1,0,,"Fast, safe copy, move, delete, clean and size for large folders"
+2026-10-26T09:57:52.196841Z,filemux-http,0.1.0,0,0,https://github.com/lona-cn/filemux,Read-only HTTP/1 file server backed by the Filemux rooted filesystem
+2026-10-26T09:58:13.71753Z,hearth-font-grammar,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T09:58:45.555986Z,guigu-matrix-sdk,0.13.0-guigu.1,0,0,https://github.com/matrix-org/matrix-rust-sdk,A high level Matrix client-server library.
+2026-10-26T09:59:13.853052Z,neurondump,0.1.3,0,0,https://github.com/aymen94/NeuronDump,"Reverse-engineer, analyze and slim down local GGUF LLMs"
+2026-10-26T10:00:06.44783Z,filemux-nfs,0.1.0,0,0,https://github.com/lona-cn/filemux,Read-only userspace NFSv3 file server over UDP and TCP for Filemux
+2026-10-26T10:00:07.762815Z,filemux-tftp,0.1.0,0,0,https://github.com/lona-cn/filemux,TFTP file server with bounded transfers and optional uploads for Filemux
+2026-10-26T10:01:20.425784Z,unlit3dx,0.1.0-dev.3,0,0,https://github.com/beicause/unlit3d,"Multi-world extension for unlit3d: physics, audio and gameplay worlds on their own threads, joined by jobs and snapshots."
+2026-10-26T10:01:21.11862Z,emu198x-commodore-agnus-ocs,0.1.0,0,0,https://github.com/emu198x/emu198x,"Commodore Agnus OCS — DMA controller, beam generator, copper coprocessor. Per-CCK (colour clock) DMA slot allocation matching real hardware arbitration."
+2026-10-26T10:02:39.979999Z,store-claim,0.8.48,0,0,https://github.com/yah-ai/turso-backup,"Object-store fencing primitives: BackupTarget, the store-side ownership claim (epoch mint + assert), and the conditional-put preflight probe. Depends on object_store and anyhow only."
+2026-10-26T10:07:15.528709Z,filemux-engine,0.1.0,0,0,https://github.com/lona-cn/filemux,"Shared service orchestration for Filemux HTTP, TFTP, and NFSv3 file servers"
+2026-10-26T10:08:17.363078Z,hearth-icon-grammar,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T10:09:08.443025Z,yah-runner-cp,0.8.48,0,0,https://github.com/yah-ai/runner,GitHub Copilot CLI server-mode process-cell (cp) host for the yah agent runner
+2026-10-26T10:10:54.265984Z,measured-prometheus-text,0.1.0,0,0,https://github.com/conradludgate/measured,Prometheus text exposition format for measured
+2026-10-26T10:11:27.407656Z,emu198x-commodore-amiga-autoconfig,0.1.0,0,0,https://github.com/emu198x/emu198x,"Amiga Zorro-II autoconfig board state machine — probe-window register reads, base-address configuration writes, shut-up escape, post-config RAM backing."
+2026-10-26T10:18:23.740777Z,hearth-mail-macro,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
