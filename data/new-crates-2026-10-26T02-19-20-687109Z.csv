@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T01:19:50.022411Z,cargo-credential-fido,1.0.1,0,0,https://github.com/rustafariandev/cargo-credential-fido,Cargo credential provider that keeps registry tokens encrypted with a FIDO2 security key
+2026-10-26T01:21:09.216613Z,rutis-migrate,0.17.0,0,0,https://github.com/arcships/rutis,"Migrate Rust code that uses rutis to the next API (0.16 → 0.17: one plugin trait, rutis::host and rutis::internal, events on Ctx, rutis::Error)"
+2026-10-26T01:26:17.784948Z,compose-rust-macros,0.0.3,0,0,https://github.com/DarkPyonix/compose-rust,The #[composable] attribute for compose-rust's slot table runtime.
+2026-10-26T01:33:32.148937Z,twip,0.0.0,0,0,https://github.com/jaxcksn/twip,"DOCX layout, editing and rendering engine. Name reserved; the first release (0.1.0) is in development."
+2026-10-26T01:39:27.409136Z,inshellah,0.1.3,0,0,https://github.com/manic-systems/inshellah,"Nushell completions indexed from manpages, native generators, and --help output"
+2026-10-26T01:42:14.540616Z,bm78x-tui,0.1.0,0,0,https://github.com/kevstewa/bm78x-tui,Terminal UI for Brymen BM78xBT Bluetooth multimeters
+2026-10-26T01:45:10.641339Z,bevy_lights,0.1.0,0,0,https://github.com/Ladvien/bevy_lights,"Practical lights for Bevy: fires that flicker and flare as they kindle, a budgeted pool of real lights placed over thousands of virtual ones, and billboard shader flames."
+2026-10-26T01:45:38.422224Z,flate-zoo,1.0.0,0,0,https://github.com/lifthrasiir/flate-zoo,"A zoo of DEFLATE encoders behind one interface, for DEFLATE research"
+2026-10-26T01:46:48.576999Z,vecnook-accel,0.1.0-rc.1,0,0,https://github.com/gay00ung/vecnook,Optional SIMD and immutable-generation mmap adapters for Vecnook
+2026-10-26T02:01:27.197468Z,jalapeno,0.0.1,0,0,https://github.com/DecapodLabs/jalapeno,Procedural additive tones and harmonic icons in a small Rust toolkit
+2026-10-26T02:04:24.016437Z,unity-bundle,0.1.0,0,0,https://github.com/patodois/unity-bundle,"Reads Unity 2018.4 and 2019.4 UnityFS asset bundles and serialized files, and deserializes objects through their type trees with serde"
+2026-10-26T02:04:27.716751Z,protokit-sys,0.7.0,0,0,https://github.com/mgaertne/arzmq,Low-level bindings to the protokit library
+2026-10-26T02:04:45.785996Z,openpgm-sys,0.7.0,0,0,https://github.com/mgaertne/arzmq,Low-level bindings to the openpgm library
+2026-10-26T02:05:07.783437Z,libnorm-sys,0.7.0,0,0,https://github.com/mgaertne/arzmq,Low-level bindings to the norm library
+2026-10-26T02:07:29.50155Z,hxr-picker,0.1.0,0,0,https://github.com/stondo/hxr,"One fzf picker for every coding-agent CLI: list and resume sessions from opencode, Claude Code, Codex, pi, omp, Qwen Code and reasonix"
+2026-10-26T02:08:43.654542Z,xlite-h2-pool,0.1.0,0,0,https://github.com/EeroEternal/xlite,Native HTTP/2 upstream connection pool with Go-x/net/http2-equivalent per-connection stream accounting: reads the peer's real SETTINGS_MAX_CONCURRENT_STREAMS and dials a fresh connection instead of q…
+2026-10-26T02:09:01.076905Z,xlite-transport,0.1.0,0,0,https://github.com/EeroEternal/xlite,"In-process server-side transport client for AI upstreams: exactly one attempt per call, with routing, retries and deadlines owned by the caller (issue #96)."
+2026-10-26T02:09:48.996223Z,xlite,0.9.0,0,0,https://github.com/EeroEternal/xlite,"Headless multi-protocol AI traffic gateway. High-concurrency HTTP/2 pooling, channel routing, and protocol translation."

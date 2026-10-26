@@ -8,53 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 01:19 UTC
+## Latest list — 2026-10-26 02:19 UTC
 
-New crates published between 2026-10-26 00:18 UTC and 2026-10-26 01:19 UTC.
+New crates published between 2026-10-26 01:19 UTC and 2026-10-26 02:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-26T01-19-26-847176Z.csv)
+[Full CSV](data/new-crates-2026-10-26T02-19-20-687109Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-26 00:18:57 | [base-scheduler](https://crates.io/crates/base-scheduler) | 0.1.0 | 0 | Explicit, runtime-independent scheduler capabilities for protocol libraries |
-| 2026-10-26 00:19:03 | [base-scheduler-timers](https://crates.io/crates/base-scheduler-timers) | 0.1.0 | 0 | Reusable batched monotonic timers with constant-time cancellation |
-| 2026-10-26 00:19:12 | [base-scheduler-conformance](https://crates.io/crates/base-scheduler-conformance) | 0.1.0 | 0 | Reusable capability conformance tests for base-scheduler |
-| 2026-10-26 00:19:20 | [base-scheduler-direct](https://crates.io/crates/base-scheduler-direct) | 0.1.0 | 0 | Reference thread-based scheduler implementation for base-scheduler |
-| 2026-10-26 00:19:29 | [base-scheduler-selector](https://crates.io/crates/base-scheduler-selector) | 0.1.0 | 0 | Independent native I/O selectors and lifecycle contracts |
-| 2026-10-26 00:22:26 | [paperpaw-plugin-hyphenation-uk](https://crates.io/crates/paperpaw-plugin-hyphenation-uk) | 1.0.0 | 0 | PaperPaw hyphenation patterns for Ukrainian |
-| 2026-10-26 00:24:40 | [sapphire-tally-core](https://crates.io/crates/sapphire-tally-core) | 0.1.0 | 0 | A stamp tracker with GitHub-style heatmaps built on sapphire-framework - file-b… |
-| 2026-10-26 00:25:29 | [sapphire-timer-core](https://crates.io/crates/sapphire-timer-core) | 0.1.0 | 0 | A preset-based timer built on sapphire-framework - file-based, local-first, mad… |
-| 2026-10-26 00:25:38 | [espforge-emit](https://crates.io/crates/espforge-emit) | 0.6.0 | 0 | a scaffolding++ tool for creating esp32 no_std esphal without the hassle |
-| 2026-10-26 00:25:55 | [sapphire-tally-mcp](https://crates.io/crates/sapphire-tally-mcp) | 0.1.0 | 0 | MCP tools for sapphire-tally: the tally's methods on its app server, and the to… |
-| 2026-10-26 00:26:03 | [sapphire-tally](https://crates.io/crates/sapphire-tally) | 0.1.0 | 0 | A stamp tracker with GitHub-style heatmaps built on sapphire-framework - file-b… |
-| 2026-10-26 00:26:35 | [sapphire-timer-mcp](https://crates.io/crates/sapphire-timer-mcp) | 0.1.0 | 0 | MCP for sapphire-timer: presets and logs on its app server, and a timer per cli… |
-| 2026-10-26 00:26:50 | [betteroffice-metafile](https://crates.io/crates/betteroffice-metafile) | 0.5.0 | 0 | Bounded EMF, EMF+ and WMF metafile replay into vector drawings and SVG. |
-| 2026-10-26 00:29:25 | [base-scheduler-tokio](https://crates.io/crates/base-scheduler-tokio) | 0.1.0 | 0 | Tokio runtime adapter for explicit scheduler capabilities |
-| 2026-10-26 00:31:05 | [provenance-porcelain](https://crates.io/crates/provenance-porcelain) | 0.0.0 | 0 | Placeholder for the Provenance release |
-| 2026-10-26 00:31:09 | [provenance-report](https://crates.io/crates/provenance-report) | 0.0.0 | 0 | Placeholder for the Provenance release |
-| 2026-10-26 00:32:05 | [drivemole](https://crates.io/crates/drivemole) | 1.0.0 | 0 | Fast disk analyzer with tree, treemap and sunburst views |
-| 2026-10-26 00:33:29 | [polyllm-gemini](https://crates.io/crates/polyllm-gemini) | 0.1.0 | 0 | PolyLLM Google Gemini REST adapter (Rust implementation, experimental). |
-| 2026-10-26 00:34:06 | [pest_stack_guard](https://crates.io/crates/pest_stack_guard) | 1.0.0 | 0 | Internal native stack probing for pest |
-| 2026-10-26 00:36:05 | [espforge-hardware](https://crates.io/crates/espforge-hardware) | 0.6.0 | 0 | a scaffolding++ tool for creating esp32 no_std esphal without the hassle |
-| 2026-10-26 00:38:32 | [privatus-analytics](https://crates.io/crates/privatus-analytics) | 1.0.0 | 0 | Prints the cookieless Privatus Analytics script tag, event and click map attrib… |
-| 2026-10-26 00:39:25 | [base-scheduler-native](https://crates.io/crates/base-scheduler-native) | 0.1.0 | 0 | Native work-stealing scheduler with readiness I/O and batched timers |
-| 2026-10-26 00:45:39 | [kohaku-merkle-tree](https://crates.io/crates/kohaku-merkle-tree) | 0.1.0 | 0 | Generic Merkle Tree implementation |
-| 2026-10-26 00:46:45 | [kohaku-tornadocash-circuit](https://crates.io/crates/kohaku-tornadocash-circuit) | 0.1.0 | 0 | Tornado Cash withdrawal circuit artifacts and Groth16 prover |
-| 2026-10-26 00:47:33 | [kohaku-tornadocash](https://crates.io/crates/kohaku-tornadocash) | 0.1.0 | 0 | Tornado Cash core types |
-| 2026-10-26 00:48:15 | [kohaku-tornadocash-keychain](https://crates.io/crates/kohaku-tornadocash-keychain) | 0.0.1 | 0 | Tornado Cash deterministic keyring |
-| 2026-10-26 00:49:02 | [kohaku-userop-kit](https://crates.io/crates/kohaku-userop-kit) | 0.0.1 | 0 | EIP-4337 client |
-| 2026-10-26 00:49:30 | [base-scheduler-iouring](https://crates.io/crates/base-scheduler-iouring) | 0.1.0 | 0 | Independently driven io_uring file and socket operations for Base schedulers |
-| 2026-10-26 00:50:06 | [kohaku-rpc-provider](https://crates.io/crates/kohaku-rpc-provider) | 0.0.1 | 0 | Kohaku RPC provider utilities |
-| 2026-10-26 00:56:09 | [kohaku-tornadocash-syncer](https://crates.io/crates/kohaku-tornadocash-syncer) | 0.0.1 | 0 | Tornado Cash event syncing utilities |
-| 2026-10-26 00:56:21 | [actualised-core](https://crates.io/crates/actualised-core) | 0.1.1 | 0 | Autonomous multi-agent orchestration engine for AI teams and game studios |
-| 2026-10-26 00:56:57 | [espforge-core](https://crates.io/crates/espforge-core) | 0.6.0 | 0 | a scaffolding++ tool for creating esp32 no_std esphal without the hassle |
-| 2026-10-26 01:00:01 | [sapphire-timer](https://crates.io/crates/sapphire-timer) | 0.1.0 | 0 | A preset-based timer built on sapphire-framework - file-based, local-first, mad… |
-| 2026-10-26 01:01:35 | [lxmf-propagation](https://crates.io/crates/lxmf-propagation) | 0.15.0 | 0 | Shared daemon-free LXMF propagation storage and owned-message custody. |
-| 2026-10-26 01:01:46 | [reticulum-rs-bluetooth](https://crates.io/crates/reticulum-rs-bluetooth) | 0.15.0 | 0 | Protocol-neutral Bluetooth sessions and optional platform backends |
-| 2026-10-26 01:07:55 | [blake3-bend](https://crates.io/crates/blake3-bend) | 1.8.7 | 0 | the BLAKE3 hash function, with big inputs hashed on every core by a Bend2 engin… |
-| 2026-10-26 01:08:31 | [turboblake](https://crates.io/crates/turboblake) | 1.8.7 | 0 | BLAKE3, turbocharged: the official b3sum with many files and big ones hashed at… |
-| 2026-10-26 01:17:47 | [bm78x](https://crates.io/crates/bm78x) | 0.1.0 | 0 | Protocol decoder and client for Brymen BM78xBT Bluetooth multimeters |
-| 2026-10-26 01:17:59 | [espforge-runtime](https://crates.io/crates/espforge-runtime) | 0.6.0 | 0 | a scaffolding++ tool for creating esp32 no_std esphal without the hassle |
+| 2026-10-26 01:19:50 | [cargo-credential-fido](https://crates.io/crates/cargo-credential-fido) | 1.0.1 | 0 | Cargo credential provider that keeps registry tokens encrypted with a FIDO2 sec… |
+| 2026-10-26 01:21:09 | [rutis-migrate](https://crates.io/crates/rutis-migrate) | 0.17.0 | 0 | Migrate Rust code that uses rutis to the next API (0.16 → 0.17: one plugin trai… |
+| 2026-10-26 01:26:17 | [compose-rust-macros](https://crates.io/crates/compose-rust-macros) | 0.0.3 | 0 | The #[composable] attribute for compose-rust's slot table runtime. |
+| 2026-10-26 01:33:32 | [twip](https://crates.io/crates/twip) | 0.0.0 | 0 | DOCX layout, editing and rendering engine. Name reserved; the first release (0.… |
+| 2026-10-26 01:39:27 | [inshellah](https://crates.io/crates/inshellah) | 0.1.3 | 0 | Nushell completions indexed from manpages, native generators, and --help output |
+| 2026-10-26 01:42:14 | [bm78x-tui](https://crates.io/crates/bm78x-tui) | 0.1.0 | 0 | Terminal UI for Brymen BM78xBT Bluetooth multimeters |
+| 2026-10-26 01:45:10 | [bevy_lights](https://crates.io/crates/bevy_lights) | 0.1.0 | 0 | Practical lights for Bevy: fires that flicker and flare as they kindle, a budge… |
+| 2026-10-26 01:45:38 | [flate-zoo](https://crates.io/crates/flate-zoo) | 1.0.0 | 0 | A zoo of DEFLATE encoders behind one interface, for DEFLATE research |
+| 2026-10-26 01:46:48 | [vecnook-accel](https://crates.io/crates/vecnook-accel) | 0.1.0-rc.1 | 0 | Optional SIMD and immutable-generation mmap adapters for Vecnook |
+| 2026-10-26 02:01:27 | [jalapeno](https://crates.io/crates/jalapeno) | 0.0.1 | 0 | Procedural additive tones and harmonic icons in a small Rust toolkit |
+| 2026-10-26 02:04:24 | [unity-bundle](https://crates.io/crates/unity-bundle) | 0.1.0 | 0 | Reads Unity 2018.4 and 2019.4 UnityFS asset bundles and serialized files, and d… |
+| 2026-10-26 02:04:27 | [protokit-sys](https://crates.io/crates/protokit-sys) | 0.7.0 | 0 | Low-level bindings to the protokit library |
+| 2026-10-26 02:04:45 | [openpgm-sys](https://crates.io/crates/openpgm-sys) | 0.7.0 | 0 | Low-level bindings to the openpgm library |
+| 2026-10-26 02:05:07 | [libnorm-sys](https://crates.io/crates/libnorm-sys) | 0.7.0 | 0 | Low-level bindings to the norm library |
+| 2026-10-26 02:07:29 | [hxr-picker](https://crates.io/crates/hxr-picker) | 0.1.0 | 0 | One fzf picker for every coding-agent CLI: list and resume sessions from openco… |
+| 2026-10-26 02:08:43 | [xlite-h2-pool](https://crates.io/crates/xlite-h2-pool) | 0.1.0 | 0 | Native HTTP/2 upstream connection pool with Go-x/net/http2-equivalent per-conne… |
+| 2026-10-26 02:09:01 | [xlite-transport](https://crates.io/crates/xlite-transport) | 0.1.0 | 0 | In-process server-side transport client for AI upstreams: exactly one attempt p… |
+| 2026-10-26 02:09:48 | [xlite](https://crates.io/crates/xlite) | 0.9.0 | 0 | Headless multi-protocol AI traffic gateway. High-concurrency HTTP/2 pooling, ch… |
 
 ## Data source
 
