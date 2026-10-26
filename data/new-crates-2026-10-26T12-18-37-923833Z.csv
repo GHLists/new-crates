@@ -1,0 +1,56 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T11:22:36.452764Z,casemap,0.5.1,0,0,https://github.com/Ross-cripto/casemap,"The living map of your app's use cases: check, render and diff Mermaid flows"
+2026-10-26T11:28:02.950243Z,ely-editor,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's code editor for GPUI: text, highlighting, find, folds and the panels around them."
+2026-10-26T11:28:09.056129Z,hearth,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T11:29:42.051559Z,emu198x-mos-acia-6551,0.1.0,0,0,https://github.com/emu198x/emu198x,MOS 6551 Asynchronous Communication Interface Adapter (ACIA)
+2026-10-26T11:29:55.854776Z,trust-tasks-build,0.1.0,0,0,https://github.com/trustoverip/dtgwg-trust-tasks-tf,Build-time generator for Trust Tasks: turns the specification versions an application pins in trust-tasks.lock into Rust types for trust-tasks-rs.
+2026-10-26T11:30:04.264983Z,trust-tasks-cli,0.1.0,0,0,https://github.com/trustoverip/dtgwg-trust-tasks-tf,"The `trust-tasks` command: pin the Trust Task specifications an application uses, vendor their registry bundles by digest, and verify them in CI."
+2026-10-26T11:38:03.306798Z,ely-finance,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's market components for GPUI: quotes, order books, depth, candles and trades."
+2026-10-26T11:38:14.47734Z,cargo-seed,0.1.0,0,0,https://github.com/samoylenkodmitry/cargo-seed,New git worktrees start with a warm cargo target copied from a seed; unused build output is removed
+2026-10-26T11:39:48.300533Z,emu198x-mos-cia-6526,0.1.0,0,0,https://github.com/emu198x/emu198x,"MOS 6526 CIA with timer, port, TOD, and IRQ behaviour"
+2026-10-26T11:41:36.57765Z,tpt-press-core,0.1.0,0,0,https://github.com/tpt-solutions/tpt-press,"Shared traits, IO, chunking and error handling for tpt-press"
+2026-10-26T11:41:54.919485Z,tpt-press-logs,0.1.0,0,0,https://github.com/tpt-solutions/tpt-press,"Semantic, indexed archiving for JSON, CSV and log data"
+2026-10-26T11:42:00.791557Z,tpt-press-assets,0.1.0,0,0,https://github.com/tpt-solutions/tpt-press,"Game asset packing with zero-copy, memory-mapped archives (.tpa)"
+2026-10-26T11:42:09.417365Z,tpt-press-tensors,0.1.0,0,0,https://github.com/tpt-solutions/tpt-press,"ML model weight archiving (tensor-aware chunking, sharded streaming)"
+2026-10-26T11:42:14.338397Z,tpt-press-genomics,0.1.0,0,0,https://github.com/tpt-solutions/tpt-press,"Lossless archiving for FASTA and FASTQ, with random access by record name"
+2026-10-26T11:43:47.70691Z,slintplot,0.1.0,0,0,https://docs.rs/crate/slintplot/latest/source/,"Native, interactive charts for Slint"
+2026-10-26T11:45:13.606268Z,mejl-jmap,0.2.0,0,0,https://github.com/jgabor/mejl,"JMAP for mejl: wire types, typed methods, request builder, HTTP transport and EventSource push parser"
+2026-10-26T11:45:14.673374Z,mejl-render,0.2.0,0,0,https://github.com/jgabor/mejl,"Message body to semantic styled lines: html2text, link footnotes, quote and signature folding"
+2026-10-26T11:45:15.142892Z,mejl-sieve,0.2.0,0,0,https://github.com/jgabor/mejl,"mejl's rule model: Sieve rendering, validation and a local dry-run matcher"
+2026-10-26T11:45:18.342583Z,mejl-fake,0.2.0,0,0,https://github.com/jgabor/mejl,"Fake JMAP server for mejl with fictional demo data, in process or over loopback HTTP"
+2026-10-26T11:45:19.59972Z,mejl-ui,0.2.0,0,0,https://github.com/jgabor/mejl,"mejl's terminal UI: state, update, views, keymap, mouse hit testing and themes"
+2026-10-26T11:46:02.581141Z,asset-transform-geometry,0.6.7,0,0,https://github.com/gridhra/atx-mcp,Geometry detection for deterministic image transforms: scan tilt (Hough) and document quadrilateral detection. Part of the atx-mcp MCP server.
+2026-10-26T11:46:25.885232Z,asset-transform-core,0.6.7,0,0,https://github.com/gridhra/atx-mcp,"Deterministic, non-generative image transform engine: pure recipe DSL (crop, resize, rotate, tone, LUT, mask, layers) with byte-identical output. Core of the atx-mcp MCP server."
+2026-10-26T11:46:34.679157Z,asset-transform-store,0.6.7,0,0,https://github.com/gridhra/atx-mcp,"Content-addressed, append-only asset store for deterministic image transforms: immutable revisions with recipe lineage. Part of the atx-mcp MCP server."
+2026-10-26T11:46:54.26241Z,atx-mcp,0.6.7,0,0,https://github.com/gridhra/atx-mcp,"Deterministic (non-generative) asset transformation MCP server: immutable, content-addressed image transforms for AI agents."
+2026-10-26T11:47:59.824405Z,ic-http-gateway-protocol,0.6.2,0,0,https://github.com/dfinity/ic-http-gateway-protocol,An HTTP Gateway implementation for interfacing with the Internet Computer over HTTP
+2026-10-26T11:48:02.464845Z,ely-maps,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's map components for GPUI: tiles, pins, clusters, layers and the world's countries."
+2026-10-26T11:49:53.333858Z,emu198x-mos-cia-8520,0.1.0,0,0,https://github.com/emu198x/emu198x,"MOS 8520 Complex Interface Adapter — Amiga variant of the 6526 CIA. Binary 24-bit TOD (not BCD), two 16-bit timers, 8-bit I/O ports, serial shift register, interrupt controller."
+2026-10-26T11:52:06.889132Z,tpt-press-arrays,0.1.0,0,0,https://github.com/tpt-solutions/tpt-press,"Lossless chunked storage for n-dimensional arrays, with .npy support and slice reads"
+2026-10-26T11:55:42.748663Z,mejl-store,0.2.0,0,0,https://github.com/jgabor/mejl,"SQLite cache and state store for mejl: sync application, page reads, local search, outbox with overlays"
+2026-10-26T11:56:03.171446Z,palrup-proof-graph,0.1.0,0,0,https://github.com/simonwuelker/masterarbeit,Utilities for finding the minimal proof graph in a PalRUP proof
+2026-10-26T11:56:03.974638Z,merkle-bplustree,0.1.0,0,0,https://github.com/daimond113/merkle-bplustree,Implementation of a B+Tree that utilises Merkle Trees.
+2026-10-26T11:58:02.870131Z,ely-settings,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's settings components for GPUI: pages, appearance, shortcuts, importers and Omarchy's theme."
+2026-10-26T11:58:21.83932Z,flymcprust-macros,0.1.0,0,0,https://github.com/charlesmmorais/flymcprust,"Procedural macros (`#[tool]`, `#[resource]`, `#[prompt]`) of FlyMCPRust. Use the `flymcprust` crate."
+2026-10-26T11:58:22.939053Z,flymcprust-spec,0.1.0,0,0,https://github.com/charlesmmorais/flymcprust,"Model Context Protocol types generated from the official schema, for FlyMCPRust."
+2026-10-26T11:58:26.38406Z,flymcprust-core,0.1.0,0,0,https://github.com/charlesmmorais/flymcprust,"Runtime and transports of FlyMCPRust, a high-performance MCP server SDK for Rust. Use the `flymcprust` crate."
+2026-10-26T11:58:29.426144Z,flymcprust,0.1.0,0,0,https://github.com/charlesmmorais/flymcprust,"High-performance MCP server SDK for Rust: fast, safe, simple and stateless Model Context Protocol servers"
+2026-10-26T11:59:59.42094Z,emu198x-mos-pia-6520,0.1.0,0,0,https://github.com/emu198x/emu198x,MOS 6520 / Motorola 6821 Peripheral Interface Adapter
+2026-10-26T12:01:28.194193Z,tpt-press-datasets,0.1.0,0,0,https://github.com/tpt-solutions/tpt-press,"Sharded ML training datasets: samples grouped by key, random access, WebDataset tar import"
+2026-10-26T12:03:05.339558Z,onceover-report,0.1.0,0,0,https://github.com/fcela/onceover,"Findings ledger, report schema and serialization for onceover"
+2026-10-26T12:04:33.260246Z,onceover-core,0.1.0,0,0,https://github.com/fcela/onceover,"Column cards, typed extraction and PLI primitives for onceover"
+2026-10-26T12:04:37.32267Z,onceover-deps,0.1.0,0,0,https://github.com/fcela/onceover,"Keys and exact relationships: UCC, FD/AFD discovery for onceover"
+2026-10-26T12:04:41.384912Z,onceover-mines,0.1.0,0,0,https://github.com/fcela/onceover,"Predictability screening, decision tables, PRISM rules, dependence, dates for onceover"
+2026-10-26T12:04:46.041073Z,onceover,0.1.0,0,0,https://github.com/fcela/onceover,"Evidence-first, Rust-native data profiler for Polars DataFrames"
+2026-10-26T12:05:41.013379Z,mejl-sync,0.2.0,0,0,https://github.com/jgabor/mejl,"The mejl sync engine: session, cold and warm sync, push, outbox flusher, bodies, sending, server search and Masked Email"
+2026-10-26T12:08:03.228957Z,ely-documents,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's document components for GPUI: Markdown read and written, block editing, math, diagrams and reading aids."
+2026-10-26T12:09:47.362126Z,piraeus,1.0.0,0,0,https://github.com/nikomatsakis/piraeus,Terminal UI for managing SSH port forwards
+2026-10-26T12:10:06.509749Z,emu198x-mos-riot-6532,0.1.0,0,0,https://github.com/emu198x/emu198x,"MOS 6532 RIOT (RAM-I/O-Timer) — Atari 2600, 7800"
+2026-10-26T12:11:18.817934Z,zzq-proto,0.1.0,0,0,https://github.com/paddor/zzq,"Sans-I/O MQTT 3.1.1 and 5.0 codec, topic matching and topic trie."
+2026-10-26T12:11:21.360245Z,zzq-tokio,0.1.0,0,0,https://github.com/paddor/zzq,"Tokio engine for zzq: IO lanes, transports and endpoints."
+2026-10-26T12:11:23.959201Z,zzq-client,0.1.0,0,0,https://github.com/paddor/zzq,MQTT 3.1.1 and 5.0 client on zzq IO lanes.
+2026-10-26T12:11:26.482451Z,zzq-broker,0.1.0,0,0,https://github.com/paddor/zzq,MQTT 3.1.1 and 5.0 broker on zzq IO lanes.
+2026-10-26T12:11:30.128774Z,tpt-press-cli,0.1.0,0,0,https://github.com/tpt-solutions/tpt-press,The tpt-press command-line tool
+2026-10-26T12:13:00.352585Z,ome-zarr,0.1.0,0,0,https://github.com/eugenehp/ome-zarr-rs,Implementation of images in Zarr files (OME-Zarr / OME-NGFF). A Rust port of ome-zarr-py.
+2026-10-26T12:15:36.43637Z,mejl,0.2.0,0,0,https://github.com/jgabor/mejl,"Fast, keyboard-first terminal email client for Fastmail"
+2026-10-26T12:18:03.96207Z,ely-git,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's git components for GPUI: diffs, merges, history and the working tree."

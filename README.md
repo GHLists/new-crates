@@ -8,57 +8,69 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 11:22 UTC
+## Latest list — 2026-10-26 12:18 UTC
 
-New crates published between 2026-10-26 10:18 UTC and 2026-10-26 11:22 UTC.
+New crates published between 2026-10-26 11:22 UTC and 2026-10-26 12:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-26T11-22-06-01102Z.csv)
+[Full CSV](data/new-crates-2026-10-26T12-18-37-923833Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-26 10:21:32 | [emu198x-commodore-denise-ocs](https://crates.io/crates/emu198x-commodore-denise-ocs) | 0.1.0 | 0 | Commodore Denise OCS — pixel shifter and sprite engine. Bitplane-to-pixel conve… |
-| 2026-10-26 10:21:39 | [csp-format](https://crates.io/crates/csp-format) | 0.1.0 | 0 | Read, verify and write CLIP STUDIO PAINT files (.clip / .cmc) |
-| 2026-10-26 10:21:49 | [papr-pdf](https://crates.io/crates/papr-pdf) | 0.1.0 | 0 | A fast, keyboard-first CLI tool to compile Markdown, LaTeX, and plain text file… |
-| 2026-10-26 10:21:57 | [ic3-teams](https://crates.io/crates/ic3-teams) | 0.1.0 | 0 | Unofficial client library for Microsoft Teams chat (IC3/chatsvc). Unsupported A… |
-| 2026-10-26 10:22:05 | [csp-assets](https://crates.io/crates/csp-assets) | 0.1.0 | 0 | Read and write CLIP STUDIO PAINT's other files: sub tools (.sut), auto actions,… |
-| 2026-10-26 10:22:23 | [cspf](https://crates.io/crates/cspf) | 0.1.0 | 0 | Command line tool for CLIP STUDIO PAINT files: inspect, extract, render, verify… |
-| 2026-10-26 10:28:24 | [hearth-runtime-grammar](https://crates.io/crates/hearth-runtime-grammar) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 10:29:08 | [flake_macros](https://crates.io/crates/flake_macros) | 0.1.0 | 0 | Proc macros for flake-engine |
-| 2026-10-26 10:31:38 | [emu198x-commodore-gary](https://crates.io/crates/emu198x-commodore-gary) | 0.1.0 | 0 | Commodore Gary — Amiga central address decoder. Maps 24-bit addresses to chip s… |
-| 2026-10-26 10:33:27 | [flake-engine](https://crates.io/crates/flake-engine) | 0.1.0 | 0 | Immediate-mode game framework built on wgpu + winit |
-| 2026-10-26 10:37:26 | [mcp-starter](https://crates.io/crates/mcp-starter) | 0.1.3 | 0 | Building blocks for a single-owner MCP server: OAuth, state file, HTTP server,… |
-| 2026-10-26 10:38:25 | [hearth-ui-registry](https://crates.io/crates/hearth-ui-registry) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 10:41:47 | [emu198x-commodore-gayle](https://crates.io/crates/emu198x-commodore-gayle) | 0.1.0 | 0 | Commodore Gayle gate array — IDE task-file registers, four Gayle control regist… |
-| 2026-10-26 10:43:48 | [ely-account](https://crates.io/crates/ely-account) | 0.1.1 | 0 | Ely's account components for GPUI: sign-in, billing, teams and access. |
-| 2026-10-26 10:43:56 | [ely-calendar](https://crates.io/crates/ely-calendar) | 0.1.1 | 0 | Ely's calendar components for GPUI: months, weeks, agendas, events and recurren… |
-| 2026-10-26 10:44:05 | [ely-canvas](https://crates.io/crates/ely-canvas) | 0.1.1 | 0 | Ely's canvas components for GPUI: tools, layers, design panels and mind maps. |
-| 2026-10-26 10:44:13 | [ely-charts](https://crates.io/crates/ely-charts) | 0.1.1 | 0 | Ely's charts for GPUI: lines, bars, areas, pies, scatter and the axes under the… |
-| 2026-10-26 10:44:19 | [ely-dashboard](https://crates.io/crates/ely-dashboard) | 0.1.1 | 0 | Ely's dashboard components for GPUI: tiles, grids, metrics and monitors. |
-| 2026-10-26 10:45:25 | [enola-guides](https://crates.io/crates/enola-guides) | 0.8.0 | 0 | The enola guides, examples, laws, skills, hooks, recipes and templates, listed,… |
-| 2026-10-26 10:46:01 | [amqp-helpers](https://crates.io/crates/amqp-helpers) | 3.2.4 | 0 | Thin helpers on top of lapin: RabbitMQ producer and consumers with a broker-sid… |
-| 2026-10-26 10:47:01 | [runnet](https://crates.io/crates/runnet) | 0.1.0 | 0 | Run ONNX neural network models in plain Rust, zero dependencies |
-| 2026-10-26 10:48:02 | [ely-files](https://crates.io/crates/ely-files) | 0.1.1 | 0 | Ely's file components for GPUI: explorers, grids, transfers and archives. |
-| 2026-10-26 10:48:16 | [hearth-cli](https://crates.io/crates/hearth-cli) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 10:48:47 | [filemux-cli](https://crates.io/crates/filemux-cli) | 0.1.1 | 0 | Command-line HTTP, TFTP, and NFSv3 file-sharing server |
-| 2026-10-26 10:48:49 | [filemux-gui](https://crates.io/crates/filemux-gui) | 0.1.1 | 0 | Native desktop HTTP, TFTP, and NFSv3 file-sharing server |
-| 2026-10-26 10:52:45 | [rama-masque](https://crates.io/crates/rama-masque) | 0.0.0-reserved | 0 | MASQUE support for rama |
-| 2026-10-26 10:53:57 | [sdt](https://crates.io/crates/sdt) | 0.1.0 | 0 | Skill Discovery Toggle: manage shared agent skills via SKILL.md frontmatter |
-| 2026-10-26 10:58:02 | [ely-interaction](https://crates.io/crates/ely-interaction) | 0.1.1 | 0 | Ely's interaction components for GPUI: dragging, resizing, rotating and selecti… |
-| 2026-10-26 10:58:15 | [hearth-font-macro](https://crates.io/crates/hearth-font-macro) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 10:58:38 | [emu198x-bus-sinclair-zx-spectrum](https://crates.io/crates/emu198x-bus-sinclair-zx-spectrum) | 0.1.0 | 0 | ZX Spectrum family wiring: the Ula, MemoryBus, Peripheral and MemoryIntercept t… |
-| 2026-10-26 11:03:08 | [pg-fenced-lease](https://crates.io/crates/pg-fenced-lease) | 0.1.0 | 0 | One owner per background job across instances: a lease row in Postgres with an… |
-| 2026-10-26 11:03:24 | [nncpu](https://crates.io/crates/nncpu) | 0.1.0 | 0 | Run Gemma, Llama and Qwen GGUF language models on the CPU, with AVX2/FMA kernel… |
-| 2026-10-26 11:08:03 | [ely-rendering](https://crates.io/crates/ely-rendering) | 0.1.1 | 0 | Ely's render surface for GPUI: pixels a host draws at a box's size. |
-| 2026-10-26 11:08:11 | [hearth-icon-macro](https://crates.io/crates/hearth-icon-macro) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 11:09:29 | [emu198x-intel-8255](https://crates.io/crates/emu198x-intel-8255) | 0.1.0 | 0 | Intel 8255 Programmable Peripheral Interface |
-| 2026-10-26 11:11:41 | [tashkeel](https://crates.io/crates/tashkeel) | 0.1.0 | 0 | Arabic diacritization with Shakkelha and CATT on the CPU. |
-| 2026-10-26 11:12:21 | [tashkeel-cli](https://crates.io/crates/tashkeel-cli) | 0.1.0 | 0 | CPU Arabic diacritization of text and DOCX documents. |
-| 2026-10-26 11:18:15 | [hearth-runtime-macro](https://crates.io/crates/hearth-runtime-macro) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 11:18:17 | [wg-update-client](https://crates.io/crates/wg-update-client) | 1.7.0 | 0 | A reusable Rust client for the Wargaming Update Service |
-| 2026-10-26 11:18:18 | [ely-debug](https://crates.io/crates/ely-debug) | 0.1.1 | 0 | Ely's debugger components for GPUI: stacks, variables, breakpoints and profiles. |
-| 2026-10-26 11:18:38 | [rspack-lightningcss-derive](https://crates.io/crates/rspack-lightningcss-derive) | 0.1.0 | 0 | Derive macros for lightningcss |
-| 2026-10-26 11:18:39 | [rspack-lightningcss-static-self-derive](https://crates.io/crates/rspack-lightningcss-static-self-derive) | 0.1.0 | 0 | Derive macros for static-self |
-| 2026-10-26 11:19:35 | [emu198x-konami-scc](https://crates.io/crates/emu198x-konami-scc) | 0.1.0 | 0 | Konami SCC and SCC-I (SCC+) wavetable sound chips: five channels of 32-byte wav… |
+| 2026-10-26 11:22:36 | [casemap](https://crates.io/crates/casemap) | 0.5.1 | 0 | The living map of your app's use cases: check, render and diff Mermaid flows |
+| 2026-10-26 11:28:02 | [ely-editor](https://crates.io/crates/ely-editor) | 0.1.1 | 0 | Ely's code editor for GPUI: text, highlighting, find, folds and the panels arou… |
+| 2026-10-26 11:28:09 | [hearth](https://crates.io/crates/hearth) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 11:29:42 | [emu198x-mos-acia-6551](https://crates.io/crates/emu198x-mos-acia-6551) | 0.1.0 | 0 | MOS 6551 Asynchronous Communication Interface Adapter (ACIA) |
+| 2026-10-26 11:29:55 | [trust-tasks-build](https://crates.io/crates/trust-tasks-build) | 0.1.0 | 0 | Build-time generator for Trust Tasks: turns the specification versions an appli… |
+| 2026-10-26 11:30:04 | [trust-tasks-cli](https://crates.io/crates/trust-tasks-cli) | 0.1.0 | 0 | The `trust-tasks` command: pin the Trust Task specifications an application use… |
+| 2026-10-26 11:38:03 | [ely-finance](https://crates.io/crates/ely-finance) | 0.1.1 | 0 | Ely's market components for GPUI: quotes, order books, depth, candles and trade… |
+| 2026-10-26 11:38:14 | [cargo-seed](https://crates.io/crates/cargo-seed) | 0.1.0 | 0 | New git worktrees start with a warm cargo target copied from a seed; unused bui… |
+| 2026-10-26 11:39:48 | [emu198x-mos-cia-6526](https://crates.io/crates/emu198x-mos-cia-6526) | 0.1.0 | 0 | MOS 6526 CIA with timer, port, TOD, and IRQ behaviour |
+| 2026-10-26 11:41:36 | [tpt-press-core](https://crates.io/crates/tpt-press-core) | 0.1.0 | 0 | Shared traits, IO, chunking and error handling for tpt-press |
+| 2026-10-26 11:41:54 | [tpt-press-logs](https://crates.io/crates/tpt-press-logs) | 0.1.0 | 0 | Semantic, indexed archiving for JSON, CSV and log data |
+| 2026-10-26 11:42:00 | [tpt-press-assets](https://crates.io/crates/tpt-press-assets) | 0.1.0 | 0 | Game asset packing with zero-copy, memory-mapped archives (.tpa) |
+| 2026-10-26 11:42:09 | [tpt-press-tensors](https://crates.io/crates/tpt-press-tensors) | 0.1.0 | 0 | ML model weight archiving (tensor-aware chunking, sharded streaming) |
+| 2026-10-26 11:42:14 | [tpt-press-genomics](https://crates.io/crates/tpt-press-genomics) | 0.1.0 | 0 | Lossless archiving for FASTA and FASTQ, with random access by record name |
+| 2026-10-26 11:43:47 | [slintplot](https://crates.io/crates/slintplot) | 0.1.0 | 0 | Native, interactive charts for Slint |
+| 2026-10-26 11:45:13 | [mejl-jmap](https://crates.io/crates/mejl-jmap) | 0.2.0 | 0 | JMAP for mejl: wire types, typed methods, request builder, HTTP transport and E… |
+| 2026-10-26 11:45:14 | [mejl-render](https://crates.io/crates/mejl-render) | 0.2.0 | 0 | Message body to semantic styled lines: html2text, link footnotes, quote and sig… |
+| 2026-10-26 11:45:15 | [mejl-sieve](https://crates.io/crates/mejl-sieve) | 0.2.0 | 0 | mejl's rule model: Sieve rendering, validation and a local dry-run matcher |
+| 2026-10-26 11:45:18 | [mejl-fake](https://crates.io/crates/mejl-fake) | 0.2.0 | 0 | Fake JMAP server for mejl with fictional demo data, in process or over loopback… |
+| 2026-10-26 11:45:19 | [mejl-ui](https://crates.io/crates/mejl-ui) | 0.2.0 | 0 | mejl's terminal UI: state, update, views, keymap, mouse hit testing and themes |
+| 2026-10-26 11:46:02 | [asset-transform-geometry](https://crates.io/crates/asset-transform-geometry) | 0.6.7 | 0 | Geometry detection for deterministic image transforms: scan tilt (Hough) and do… |
+| 2026-10-26 11:46:25 | [asset-transform-core](https://crates.io/crates/asset-transform-core) | 0.6.7 | 0 | Deterministic, non-generative image transform engine: pure recipe DSL (crop, re… |
+| 2026-10-26 11:46:34 | [asset-transform-store](https://crates.io/crates/asset-transform-store) | 0.6.7 | 0 | Content-addressed, append-only asset store for deterministic image transforms:… |
+| 2026-10-26 11:46:54 | [atx-mcp](https://crates.io/crates/atx-mcp) | 0.6.7 | 0 | Deterministic (non-generative) asset transformation MCP server: immutable, cont… |
+| 2026-10-26 11:47:59 | [ic-http-gateway-protocol](https://crates.io/crates/ic-http-gateway-protocol) | 0.6.2 | 0 | An HTTP Gateway implementation for interfacing with the Internet Computer over… |
+| 2026-10-26 11:48:02 | [ely-maps](https://crates.io/crates/ely-maps) | 0.1.1 | 0 | Ely's map components for GPUI: tiles, pins, clusters, layers and the world's co… |
+| 2026-10-26 11:49:53 | [emu198x-mos-cia-8520](https://crates.io/crates/emu198x-mos-cia-8520) | 0.1.0 | 0 | MOS 8520 Complex Interface Adapter — Amiga variant of the 6526 CIA. Binary 24-b… |
+| 2026-10-26 11:52:06 | [tpt-press-arrays](https://crates.io/crates/tpt-press-arrays) | 0.1.0 | 0 | Lossless chunked storage for n-dimensional arrays, with .npy support and slice… |
+| 2026-10-26 11:55:42 | [mejl-store](https://crates.io/crates/mejl-store) | 0.2.0 | 0 | SQLite cache and state store for mejl: sync application, page reads, local sear… |
+| 2026-10-26 11:56:03 | [palrup-proof-graph](https://crates.io/crates/palrup-proof-graph) | 0.1.0 | 0 | Utilities for finding the minimal proof graph in a PalRUP proof |
+| 2026-10-26 11:56:03 | [merkle-bplustree](https://crates.io/crates/merkle-bplustree) | 0.1.0 | 0 | Implementation of a B+Tree that utilises Merkle Trees. |
+| 2026-10-26 11:58:02 | [ely-settings](https://crates.io/crates/ely-settings) | 0.1.1 | 0 | Ely's settings components for GPUI: pages, appearance, shortcuts, importers and… |
+| 2026-10-26 11:58:21 | [flymcprust-macros](https://crates.io/crates/flymcprust-macros) | 0.1.0 | 0 | Procedural macros (`#[tool]`, `#[resource]`, `#[prompt]`) of FlyMCPRust. Use th… |
+| 2026-10-26 11:58:22 | [flymcprust-spec](https://crates.io/crates/flymcprust-spec) | 0.1.0 | 0 | Model Context Protocol types generated from the official schema, for FlyMCPRust. |
+| 2026-10-26 11:58:26 | [flymcprust-core](https://crates.io/crates/flymcprust-core) | 0.1.0 | 0 | Runtime and transports of FlyMCPRust, a high-performance MCP server SDK for Rus… |
+| 2026-10-26 11:58:29 | [flymcprust](https://crates.io/crates/flymcprust) | 0.1.0 | 0 | High-performance MCP server SDK for Rust: fast, safe, simple and stateless Mode… |
+| 2026-10-26 11:59:59 | [emu198x-mos-pia-6520](https://crates.io/crates/emu198x-mos-pia-6520) | 0.1.0 | 0 | MOS 6520 / Motorola 6821 Peripheral Interface Adapter |
+| 2026-10-26 12:01:28 | [tpt-press-datasets](https://crates.io/crates/tpt-press-datasets) | 0.1.0 | 0 | Sharded ML training datasets: samples grouped by key, random access, WebDataset… |
+| 2026-10-26 12:03:05 | [onceover-report](https://crates.io/crates/onceover-report) | 0.1.0 | 0 | Findings ledger, report schema and serialization for onceover |
+| 2026-10-26 12:04:33 | [onceover-core](https://crates.io/crates/onceover-core) | 0.1.0 | 0 | Column cards, typed extraction and PLI primitives for onceover |
+| 2026-10-26 12:04:37 | [onceover-deps](https://crates.io/crates/onceover-deps) | 0.1.0 | 0 | Keys and exact relationships: UCC, FD/AFD discovery for onceover |
+| 2026-10-26 12:04:41 | [onceover-mines](https://crates.io/crates/onceover-mines) | 0.1.0 | 0 | Predictability screening, decision tables, PRISM rules, dependence, dates for o… |
+| 2026-10-26 12:04:46 | [onceover](https://crates.io/crates/onceover) | 0.1.0 | 0 | Evidence-first, Rust-native data profiler for Polars DataFrames |
+| 2026-10-26 12:05:41 | [mejl-sync](https://crates.io/crates/mejl-sync) | 0.2.0 | 0 | The mejl sync engine: session, cold and warm sync, push, outbox flusher, bodies… |
+| 2026-10-26 12:08:03 | [ely-documents](https://crates.io/crates/ely-documents) | 0.1.1 | 0 | Ely's document components for GPUI: Markdown read and written, block editing, m… |
+| 2026-10-26 12:09:47 | [piraeus](https://crates.io/crates/piraeus) | 1.0.0 | 0 | Terminal UI for managing SSH port forwards |
+| 2026-10-26 12:10:06 | [emu198x-mos-riot-6532](https://crates.io/crates/emu198x-mos-riot-6532) | 0.1.0 | 0 | MOS 6532 RIOT (RAM-I/O-Timer) — Atari 2600, 7800 |
+| 2026-10-26 12:11:18 | [zzq-proto](https://crates.io/crates/zzq-proto) | 0.1.0 | 0 | Sans-I/O MQTT 3.1.1 and 5.0 codec, topic matching and topic trie. |
+| 2026-10-26 12:11:21 | [zzq-tokio](https://crates.io/crates/zzq-tokio) | 0.1.0 | 0 | Tokio engine for zzq: IO lanes, transports and endpoints. |
+| 2026-10-26 12:11:23 | [zzq-client](https://crates.io/crates/zzq-client) | 0.1.0 | 0 | MQTT 3.1.1 and 5.0 client on zzq IO lanes. |
+| 2026-10-26 12:11:26 | [zzq-broker](https://crates.io/crates/zzq-broker) | 0.1.0 | 0 | MQTT 3.1.1 and 5.0 broker on zzq IO lanes. |
+| 2026-10-26 12:11:30 | [tpt-press-cli](https://crates.io/crates/tpt-press-cli) | 0.1.0 | 0 | The tpt-press command-line tool |
+| 2026-10-26 12:13:00 | [ome-zarr](https://crates.io/crates/ome-zarr) | 0.1.0 | 0 | Implementation of images in Zarr files (OME-Zarr / OME-NGFF). A Rust port of om… |
+| 2026-10-26 12:15:36 | [mejl](https://crates.io/crates/mejl) | 0.2.0 | 0 | Fast, keyboard-first terminal email client for Fastmail |
+| 2026-10-26 12:18:03 | [ely-git](https://crates.io/crates/ely-git) | 0.1.1 | 0 | Ely's git components for GPUI: diffs, merges, history and the working tree. |
 
 ## Data source
 
