@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T03:19:19.943522Z,enkhjile-srw-e2e-adapter,0.1.0,0,0,https://github.com/enkhjile/semantic-release-workspace-e2e-cargo,Dedicated semantic-release-workspace Cargo acceptance adapter
+2026-10-26T03:25:08.987232Z,teamy-phon-schema,0.2.0-rc.6,0,0,https://github.com/TeamDman/vox,"phon's wire contract: schema model, schema identity, Value, and the self-describing codec."
+2026-10-26T03:26:22.404622Z,teamy-phon-ir,0.2.0-rc.7,0,0,https://github.com/TeamDman/vox,"The IR both phon backends run, the descriptor model, and thunk bindings — the shared vocabulary of execution."
+2026-10-26T03:26:28.242939Z,teamy-phon-engine,0.2.0-rc.7,0,0,https://github.com/TeamDman/vox,"phon's backend-blind baseline: compact codec, compatibility planning, and the IR interpreter."
+2026-10-26T03:26:32.22106Z,teamy-phon-jit,0.2.0-rc.7,0,0,https://github.com/TeamDman/vox,phon's optional copy-and-patch JIT: lowers the IR to machine code via rustc/LLVM stencils.
+2026-10-26T03:26:39.838278Z,teamy-phon,0.2.0-rc.7,0,0,https://github.com/TeamDman/vox,"The phon front door: facet-derived schemas and descriptors, typed encode/decode, Weavy-controlled JIT."
+2026-10-26T03:26:48.063067Z,solana_kit_account_compression,0.0.0,0,0,https://github.com/pina-rs/solana_kit,Reserved off-chain Account Compression client crate for the portable Solana Kit SDK
+2026-10-26T03:36:30.87357Z,sandfs,0.7.0,0,0,https://github.com/lydakis/sandfs,"Lazy, copy-on-write workspaces over folders and git repositories, saved on disk and mounted as directories (FUSE on Linux, NFS on macOS): the library behind the sandfs command"
+2026-10-26T03:37:10.708204Z,teamy-vox-rt-macros,0.10.0-rc.7,0,0,https://github.com/TeamDman/vox,No-op runtime facade macros for Vox
+2026-10-26T03:42:30.356105Z,enshwick-macros,1.0.0-alpha.1,0,0,https://github.com/enshwick/enshwick,"Internal, not for mods: the macros enshwick re-exports"
+2026-10-26T03:42:43.221757Z,enshwick-reflect,1.0.0-alpha.1,0,0,https://github.com/enshwick/enshwick,"Internal, not for mods: reads the reflection data and ECS system records of Keen's Holistic engine from a PE image"
+2026-10-26T03:43:15.674336Z,enshwick,1.0.0-alpha.1,0,0,https://github.com/enshwick/enshwick,The Enshwick Loader's modding API for Enshrouded: the one crate mods are written against
+2026-10-26T03:43:39.544415Z,enshwick-gamedata,1.0.0-alpha.1,0,0,https://github.com/enshwick/enshwick,"Internal, not for mods: the per-build tables of engine addresses the Enshwick loader pins, embedded as data"
+2026-10-26T03:44:19.604847Z,cargo-enshwick,1.0.0-alpha.1,0,0,https://github.com/enshwick/enshwick,"Cargo subcommand for Enshwick mods: start a mod, build it, install it into the game and port build rows to a new game build"
+2026-10-26T03:47:26.684176Z,teamy-vox-rt,0.10.0-rc.7,0,0,https://github.com/TeamDman/vox,Small runtime facade for Vox
+2026-10-26T03:51:51.347075Z,tauri-plugin-home-icon,0.1.0-alpha.1,0,0,https://github.com/hoangmirs/tauri-plugins,Tauri plugin that reads and changes the home-screen icon on iOS
+2026-10-26T03:57:20.803333Z,hearth-foundation,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T03:57:29.390013Z,hearth-foundation-grammar,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T03:57:35.738017Z,hearth-macro,0.1.0,0,0,https://github.com/wbunting/hearth,Procedural macros for Hearth local-first tables and queries.
+2026-10-26T03:57:42.634073Z,hearth-ui,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T03:57:47.039487Z,hearth-alpine-ajax,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T03:59:30.633792Z,teamy-vox-phon,0.10.0-rc.7,0,0,https://github.com/TeamDman/vox,phon as a vox codec: encode/decode facet types through phon's typed (schema-driven) path.
+2026-10-26T04:04:28.333168Z,model-signin,0.1.1,0,0,https://github.com/nu-sync/model-signin,"Sign in with ChatGPT and OpenRouter's OAuth PKCE for Rust apps, with an optional rig-core connector."
+2026-10-26T04:07:47.495929Z,hearth-foundation-macro,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."
+2026-10-26T04:09:50.805588Z,teamy-vox-schema,0.10.0-rc.7,0,0,https://github.com/TeamDman/vox,Canonical schema model for vox
+2026-10-26T04:10:37.563725Z,bridge-screen-core,0.1.2,0,0,https://github.com/bedantsharma/session-plugin,"Core library for bridge-screen: event store, plan tree, sessions, navigator."
+2026-10-26T04:10:51.476222Z,bridge-screen,0.1.2,0,0,https://github.com/bedantsharma/session-plugin,"Keeps track of where your Claude Code agents are: progress, tangents, and handoffs."
+2026-10-26T04:12:49.976283Z,rhapsody,0.0.1,0,0,https://github.com/OwlRoute/minerva,Owned register and observed-set frontends over Minerva's causal stores
+2026-10-26T04:13:00.009087Z,intuitif,0.0.1,0,0,https://github.com/OwlRoute/minerva,Bounded selection from caller-offered intuitionistic frontier probes.
+2026-10-26T04:17:47.261045Z,hearth-router-grammar,0.1.0,0,0,https://github.com/wbunting/hearth,"Local-first web applications written in Rust. Server rendering, reactive queries and optimistic writes."

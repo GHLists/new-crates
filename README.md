@@ -8,37 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 03:18 UTC
+## Latest list — 2026-10-26 04:19 UTC
 
-New crates published between 2026-10-26 02:19 UTC and 2026-10-26 03:18 UTC.
+New crates published between 2026-10-26 03:18 UTC and 2026-10-26 04:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-26T03-18-56-133348Z.csv)
+[Full CSV](data/new-crates-2026-10-26T04-19-17-523083Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-26 02:20:45 | [zakura-pir-config](https://crates.io/crates/zakura-pir-config) | 0.0.0 | 0 | Reserved |
-| 2026-10-26 02:20:46 | [zakura-service-config](https://crates.io/crates/zakura-service-config) | 0.0.0 | 0 | Reserved |
-| 2026-10-26 02:22:14 | [nocturne-unpack](https://crates.io/crates/nocturne-unpack) | 0.2.0 | 0 | Reader for the Unity asset bundles of Shin Megami Tensei III Nocturne HD Remast… |
-| 2026-10-26 02:24:53 | [veryl2chip-sim](https://crates.io/crates/veryl2chip-sim) | 1.1.0 | 0 | Event-driven simulator for Veryl HDL testbenches ($tb::clock_gen, $assert, VCD)… |
-| 2026-10-26 02:25:28 | [veryl2chip-eda](https://crates.io/crates/veryl2chip-eda) | 1.1.0 | 0 | Veryl HDL to chip: synthesis, iCE40 FPGA place & route and bitstream, ASIC stan… |
-| 2026-10-26 02:26:39 | [kohaku-tornadocash-paymaster](https://crates.io/crates/kohaku-tornadocash-paymaster) | 0.0.1 | 0 | Tornado Cash 4337 paymaster client |
-| 2026-10-26 02:26:44 | [kohaku-tornadocash-relayer](https://crates.io/crates/kohaku-tornadocash-relayer) | 0.0.1 | 0 | Tornado Cash relayer client |
-| 2026-10-26 02:26:49 | [kohaku-tornadocash-wasm](https://crates.io/crates/kohaku-tornadocash-wasm) | 0.0.1 | 0 | Tornado Cash wasm bindings |
-| 2026-10-26 02:27:37 | [kohaku-tor-rpc](https://crates.io/crates/kohaku-tor-rpc) | 0.0.1 | 0 | Alloy JSON-RPC over Arti with shared or session-isolated circuits |
-| 2026-10-26 02:38:47 | [ocserve-ui-11831-a](https://crates.io/crates/ocserve-ui-11831-a) | 0.6.9 | 0 | Embedded web-UI pack part (1.18.31, part a) for ocserve |
-| 2026-10-26 02:39:20 | [ocserve-ui-11831-b](https://crates.io/crates/ocserve-ui-11831-b) | 0.6.9 | 0 | Embedded web-UI pack part (1.18.31, part b) for ocserve |
-| 2026-10-26 02:39:53 | [ocserve-ui-2028-a](https://crates.io/crates/ocserve-ui-2028-a) | 0.6.9 | 0 | Embedded web-UI pack part (2.0.28, part a) for ocserve |
-| 2026-10-26 02:40:26 | [ocserve-ui-2028-b](https://crates.io/crates/ocserve-ui-2028-b) | 0.6.9 | 0 | Embedded web-UI pack part (2.0.28, part b) for ocserve |
-| 2026-10-26 02:40:59 | [ocserve-ui-2028-c](https://crates.io/crates/ocserve-ui-2028-c) | 0.6.9 | 0 | Embedded web-UI pack part (2.0.28, part c) for ocserve |
-| 2026-10-26 02:41:32 | [ocserve-ui-2028-d](https://crates.io/crates/ocserve-ui-2028-d) | 0.6.9 | 0 | Embedded web-UI pack part (2.0.28, part d) for ocserve |
-| 2026-10-26 02:50:17 | [trfrs](https://crates.io/crates/trfrs) | 4.10.0 | 0 | Tandem Repeats Finder: Rust port of the reference C implementation |
-| 2026-10-26 02:59:35 | [datumesh-http](https://crates.io/crates/datumesh-http) | 0.1.0 | 0 | The Datumesh engine behind HTTPS: cell envelopes, batches, slices (JSON and Arr… |
-| 2026-10-26 03:11:08 | [rustmax-macros](https://crates.io/crates/rustmax-macros) | 0.0.11 | 0 | Procedural macros for the `rustmax` crate. |
-| 2026-10-26 03:16:51 | [ohos-avplayer-sys](https://crates.io/crates/ohos-avplayer-sys) | 0.1.0 | 0 | Generated OpenHarmony AVPlayer API declarations |
-| 2026-10-26 03:16:55 | [ohos-avplayer-binding](https://crates.io/crates/ohos-avplayer-binding) | 0.1.0 | 0 | Owned OpenHarmony AVPlayer handles and callback-borrowed metadata |
-| 2026-10-26 03:17:11 | [ohos-native-image-sys](https://crates.io/crates/ohos-native-image-sys) | 0.1.0 | 0 | OpenHarmony NativeImage consumer surface ABI |
-| 2026-10-26 03:17:15 | [ohos-native-image-binding](https://crates.io/crates/ohos-native-image-binding) | 0.1.0 | 0 | Thin OpenHarmony NativeImage consumers and fenced native buffers |
-| 2026-10-26 03:18:51 | [enkhjile-srw-e2e-core](https://crates.io/crates/enkhjile-srw-e2e-core) | 0.1.0 | 0 | Dedicated semantic-release-workspace Cargo acceptance core |
+| 2026-10-26 03:19:19 | [enkhjile-srw-e2e-adapter](https://crates.io/crates/enkhjile-srw-e2e-adapter) | 0.1.0 | 0 | Dedicated semantic-release-workspace Cargo acceptance adapter |
+| 2026-10-26 03:25:08 | [teamy-phon-schema](https://crates.io/crates/teamy-phon-schema) | 0.2.0-rc.6 | 0 | phon's wire contract: schema model, schema identity, Value, and the self-descri… |
+| 2026-10-26 03:26:22 | [teamy-phon-ir](https://crates.io/crates/teamy-phon-ir) | 0.2.0-rc.7 | 0 | The IR both phon backends run, the descriptor model, and thunk bindings — the s… |
+| 2026-10-26 03:26:28 | [teamy-phon-engine](https://crates.io/crates/teamy-phon-engine) | 0.2.0-rc.7 | 0 | phon's backend-blind baseline: compact codec, compatibility planning, and the I… |
+| 2026-10-26 03:26:32 | [teamy-phon-jit](https://crates.io/crates/teamy-phon-jit) | 0.2.0-rc.7 | 0 | phon's optional copy-and-patch JIT: lowers the IR to machine code via rustc/LLV… |
+| 2026-10-26 03:26:39 | [teamy-phon](https://crates.io/crates/teamy-phon) | 0.2.0-rc.7 | 0 | The phon front door: facet-derived schemas and descriptors, typed encode/decode… |
+| 2026-10-26 03:26:48 | [solana_kit_account_compression](https://crates.io/crates/solana_kit_account_compression) | 0.0.0 | 0 | Reserved off-chain Account Compression client crate for the portable Solana Kit… |
+| 2026-10-26 03:36:30 | [sandfs](https://crates.io/crates/sandfs) | 0.7.0 | 0 | Lazy, copy-on-write workspaces over folders and git repositories, saved on disk… |
+| 2026-10-26 03:37:10 | [teamy-vox-rt-macros](https://crates.io/crates/teamy-vox-rt-macros) | 0.10.0-rc.7 | 0 | No-op runtime facade macros for Vox |
+| 2026-10-26 03:42:30 | [enshwick-macros](https://crates.io/crates/enshwick-macros) | 1.0.0-alpha.1 | 0 | Internal, not for mods: the macros enshwick re-exports |
+| 2026-10-26 03:42:43 | [enshwick-reflect](https://crates.io/crates/enshwick-reflect) | 1.0.0-alpha.1 | 0 | Internal, not for mods: reads the reflection data and ECS system records of Kee… |
+| 2026-10-26 03:43:15 | [enshwick](https://crates.io/crates/enshwick) | 1.0.0-alpha.1 | 0 | The Enshwick Loader's modding API for Enshrouded: the one crate mods are writte… |
+| 2026-10-26 03:43:39 | [enshwick-gamedata](https://crates.io/crates/enshwick-gamedata) | 1.0.0-alpha.1 | 0 | Internal, not for mods: the per-build tables of engine addresses the Enshwick l… |
+| 2026-10-26 03:44:19 | [cargo-enshwick](https://crates.io/crates/cargo-enshwick) | 1.0.0-alpha.1 | 0 | Cargo subcommand for Enshwick mods: start a mod, build it, install it into the… |
+| 2026-10-26 03:47:26 | [teamy-vox-rt](https://crates.io/crates/teamy-vox-rt) | 0.10.0-rc.7 | 0 | Small runtime facade for Vox |
+| 2026-10-26 03:51:51 | [tauri-plugin-home-icon](https://crates.io/crates/tauri-plugin-home-icon) | 0.1.0-alpha.1 | 0 | Tauri plugin that reads and changes the home-screen icon on iOS |
+| 2026-10-26 03:57:20 | [hearth-foundation](https://crates.io/crates/hearth-foundation) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 03:57:29 | [hearth-foundation-grammar](https://crates.io/crates/hearth-foundation-grammar) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 03:57:35 | [hearth-macro](https://crates.io/crates/hearth-macro) | 0.1.0 | 0 | Procedural macros for Hearth local-first tables and queries. |
+| 2026-10-26 03:57:42 | [hearth-ui](https://crates.io/crates/hearth-ui) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 03:57:47 | [hearth-alpine-ajax](https://crates.io/crates/hearth-alpine-ajax) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 03:59:30 | [teamy-vox-phon](https://crates.io/crates/teamy-vox-phon) | 0.10.0-rc.7 | 0 | phon as a vox codec: encode/decode facet types through phon's typed (schema-dri… |
+| 2026-10-26 04:04:28 | [model-signin](https://crates.io/crates/model-signin) | 0.1.1 | 0 | Sign in with ChatGPT and OpenRouter's OAuth PKCE for Rust apps, with an optiona… |
+| 2026-10-26 04:07:47 | [hearth-foundation-macro](https://crates.io/crates/hearth-foundation-macro) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
+| 2026-10-26 04:09:50 | [teamy-vox-schema](https://crates.io/crates/teamy-vox-schema) | 0.10.0-rc.7 | 0 | Canonical schema model for vox |
+| 2026-10-26 04:10:37 | [bridge-screen-core](https://crates.io/crates/bridge-screen-core) | 0.1.2 | 0 | Core library for bridge-screen: event store, plan tree, sessions, navigator. |
+| 2026-10-26 04:10:51 | [bridge-screen](https://crates.io/crates/bridge-screen) | 0.1.2 | 0 | Keeps track of where your Claude Code agents are: progress, tangents, and hando… |
+| 2026-10-26 04:12:49 | [rhapsody](https://crates.io/crates/rhapsody) | 0.0.1 | 0 | Owned register and observed-set frontends over Minerva's causal stores |
+| 2026-10-26 04:13:00 | [intuitif](https://crates.io/crates/intuitif) | 0.0.1 | 0 | Bounded selection from caller-offered intuitionistic frontier probes. |
+| 2026-10-26 04:17:47 | [hearth-router-grammar](https://crates.io/crates/hearth-router-grammar) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
 
 ## Data source
 
