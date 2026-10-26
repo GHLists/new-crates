@@ -8,40 +8,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 05:19 UTC
+## Latest list — 2026-10-26 06:19 UTC
 
-New crates published between 2026-10-26 04:19 UTC and 2026-10-26 05:19 UTC.
+New crates published between 2026-10-26 05:19 UTC and 2026-10-26 06:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-26T05-19-33-606395Z.csv)
+[Full CSV](data/new-crates-2026-10-26T06-19-12-146399Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-26 04:22:58 | [teamy-vox-types](https://crates.io/crates/teamy-vox-types) | 0.10.0-rc.7 | 0 | Base types used by vox crates |
-| 2026-10-26 04:25:17 | [ramtree](https://crates.io/crates/ramtree) | 0.1.0 | 0 | Memory usage TUI: see which processes are using your RAM, and end them safely |
-| 2026-10-26 04:28:00 | [hearth-tailwind](https://crates.io/crates/hearth-tailwind) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 04:31:17 | [pdf-tokenizer](https://crates.io/crates/pdf-tokenizer) | 0.1.0 | 0 | A lossless, zero-copy PDF tokenizer that never rejects and never repairs |
-| 2026-10-26 04:35:15 | [teamy-vox-core](https://crates.io/crates/teamy-vox-core) | 0.10.0-rc.7 | 0 | Core implementations for Vox connections, lanes, drivers, and links |
-| 2026-10-26 04:38:11 | [hearth-view](https://crates.io/crates/hearth-view) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 04:38:51 | [vt1k](https://crates.io/crates/vt1k) | 0.1.0 | 0 | A terminal emulator's screen: escape sequences in, cells, history and modes out |
-| 2026-10-26 04:40:35 | [uvicorn-rs](https://crates.io/crates/uvicorn-rs) | 0.2.1 | 0 | Rust-native HTTP server library |
-| 2026-10-26 04:42:09 | [gry-core](https://crates.io/crates/gry-core) | 1.0.0 | 0 | Core domain model, identities, and shared algorithms for gry |
-| 2026-10-26 04:42:13 | [gry-parse](https://crates.io/crates/gry-parse) | 1.0.0 | 0 | Tree-sitter parsing and language extraction for gry |
-| 2026-10-26 04:42:15 | [gry-store](https://crates.io/crates/gry-store) | 1.0.0 | 0 | SQLite-backed graph storage for gry |
-| 2026-10-26 04:42:19 | [gry-index](https://crates.io/crates/gry-index) | 1.0.0 | 0 | Incremental repository indexing pipeline for gry |
-| 2026-10-26 04:42:22 | [gry-query](https://crates.io/crates/gry-query) | 1.0.0 | 0 | Query engine for gry code knowledge graphs |
-| 2026-10-26 04:45:33 | [teamy-vox-macros-parse](https://crates.io/crates/teamy-vox-macros-parse) | 0.10.0-rc.7 | 0 | Parser grammar for vox RPC service trait definitions |
-| 2026-10-26 04:47:54 | [hearth-router](https://crates.io/crates/hearth-router) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 04:47:58 | [shellflow-text](https://crates.io/crates/shellflow-text) | 0.5.0 | 0 | The shell-text rules shared by the shellflow DSL, runtime, and secrets crates. |
-| 2026-10-26 04:50:16 | [baka-ac4-core](https://crates.io/crates/baka-ac4-core) | 0.1.0 | 0 | Pure Rust Dolby AC-4 audio decoder |
-| 2026-10-26 04:51:11 | [pdf-lint](https://crates.io/crates/pdf-lint) | 0.1.0 | 0 | Checks PDF files against the Arlington PDF Model |
-| 2026-10-26 04:55:50 | [teamy-vox-macros-core](https://crates.io/crates/teamy-vox-macros-core) | 0.10.0-rc.7 | 0 | Code generation core for vox RPC service macros |
-| 2026-10-26 04:58:04 | [hearth-router-macro](https://crates.io/crates/hearth-router-macro) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 05:00:09 | [iet-db-sqlite](https://crates.io/crates/iet-db-sqlite) | 0.1.1 | 0 | Embedded SQLite provider for local/desktop applications. Uses the framework ses… |
-| 2026-10-26 05:01:12 | [iet-tauri](https://crates.io/crates/iet-tauri) | 0.1.1 | 0 | Safe IPC response conventions for explicitly composed Tauri applications. |
-| 2026-10-26 05:02:18 | [iet-ui-tauri](https://crates.io/crates/iet-ui-tauri) | 0.1.1 | 0 | Rust-authored local UI assets and declarative fragment interactions for Tauri. |
-| 2026-10-26 05:07:09 | [mirabox-n4pro](https://crates.io/crates/mirabox-n4pro) | 0.1.0 | 0 | Async Rust API for communicating with the MiraBox N4 Pro |
-| 2026-10-26 05:07:50 | [hearth-view-grammar](https://crates.io/crates/hearth-view-grammar) | 0.1.0 | 0 | Local-first web applications written in Rust. Server rendering, reactive querie… |
-| 2026-10-26 05:16:01 | [solana_kit_subscriptions](https://crates.io/crates/solana_kit_subscriptions) | 0.0.0 | 0 | Reserved off-chain Subscriptions client crate for the portable Solana Kit SDK |
+| 2026-10-26 05:23:10 | [teamy-vox-websocket](https://crates.io/crates/teamy-vox-websocket) | 0.10.0-rc.7 | 0 | WebSocket transport for vox — message-framed Link over tungstenite |
+| 2026-10-26 05:25:30 | [gry-mcp](https://crates.io/crates/gry-mcp) | 1.0.0 | 0 | Model Context Protocol server for gry |
+| 2026-10-26 05:30:14 | [mpx](https://crates.io/crates/mpx) | 0.1.1 | 0 | A simple, ultra-performant process and stream multiplexer in Rust |
+| 2026-10-26 05:34:37 | [teamy-vox-ffi](https://crates.io/crates/teamy-vox-ffi) | 0.10.0-rc.7 | 0 | FFI transport for vox — C-ABI function-pointer link for cross-language IPC |
+| 2026-10-26 05:36:57 | [gasket-macros](https://crates.io/crates/gasket-macros) | 0.1.0 | 0 | Compile-time route discovery used by gasket-ui. Applications should depend on g… |
+| 2026-10-26 05:37:40 | [ely-core](https://crates.io/crates/ely-core) | 0.1.1 | 0 | Ely's core for GPUI: theme, motion, primitives, typography, layout, shell, cont… |
+| 2026-10-26 05:38:16 | [gasket-core](https://crates.io/crates/gasket-core) | 0.1.0 | 0 | HTTP and WebSocket engine used by gasket-ui. Applications should depend on gask… |
+| 2026-10-26 05:45:53 | [gasket-cli](https://crates.io/crates/gasket-cli) | 0.1.0 | 0 | The gasket command. Install this package; applications depend on gasket-ui. |
+| 2026-10-26 05:45:58 | [teamy-vox-fdpass](https://crates.io/crates/teamy-vox-fdpass) | 0.10.0-rc.7 | 0 | Cross-platform file descriptor / handle passing for vox |
+| 2026-10-26 05:57:26 | [teamy-phon-codegen](https://crates.io/crates/teamy-phon-codegen) | 0.2.0-rc.7 | 0 | The phon codegen tool: reads Rust types (facet) or schema bundles, emits target… |
+| 2026-10-26 06:04:15 | [cartomics](https://crates.io/crates/cartomics) | 0.0.1 | 0 | Cartomics: a fast, SpatialData-compatible engine for spatial multi-omics imagin… |
+| 2026-10-26 06:06:46 | [grobx-checker](https://crates.io/crates/grobx-checker) | 0.73.0 | 0 | Checks a Gröbner basis and its cofactors against the ideal's generators, over G… |
+| 2026-10-26 06:18:14 | [lyr-config](https://crates.io/crates/lyr-config) | 0.1.0 | 0 | Config for lyr: TOML schema, the built-in defaults and reload. |
 
 ## Data source
 

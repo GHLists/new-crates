@@ -1,0 +1,14 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T05:23:10.68248Z,teamy-vox-websocket,0.10.0-rc.7,0,0,https://github.com/TeamDman/vox,WebSocket transport for vox — message-framed Link over tungstenite
+2026-10-26T05:25:30.743698Z,gry-mcp,1.0.0,0,0,https://github.com/PizenLabs/gry,Model Context Protocol server for gry
+2026-10-26T05:30:14.627083Z,mpx,0.1.1,0,0,https://github.com/casonadams/mpx,"A simple, ultra-performant process and stream multiplexer in Rust"
+2026-10-26T05:34:37.143455Z,teamy-vox-ffi,0.10.0-rc.7,0,0,https://github.com/TeamDman/vox,FFI transport for vox — C-ABI function-pointer link for cross-language IPC
+2026-10-26T05:36:57.314259Z,gasket-macros,0.1.0,0,0,https://github.com/feldenserra/Gasket,Compile-time route discovery used by gasket-ui. Applications should depend on gasket-ui.
+2026-10-26T05:37:40.108515Z,ely-core,0.1.1,0,0,https://github.com/ELY-Open-Source/Ely-GPUI-Components,"Ely's core for GPUI: theme, motion, primitives, typography, layout, shell, controls, overlays, lists and tables."
+2026-10-26T05:38:16.792813Z,gasket-core,0.1.0,0,0,https://github.com/feldenserra/Gasket,HTTP and WebSocket engine used by gasket-ui. Applications should depend on gasket-ui.
+2026-10-26T05:45:53.522711Z,gasket-cli,0.1.0,0,0,https://github.com/feldenserra/Gasket,The gasket command. Install this package; applications depend on gasket-ui.
+2026-10-26T05:45:58.694111Z,teamy-vox-fdpass,0.10.0-rc.7,0,0,https://github.com/TeamDman/vox,Cross-platform file descriptor / handle passing for vox
+2026-10-26T05:57:26.922602Z,teamy-phon-codegen,0.2.0-rc.7,0,0,https://github.com/TeamDman/vox,"The phon codegen tool: reads Rust types (facet) or schema bundles, emits target-language source plus schema-bytes constants."
+2026-10-26T06:04:15.713472Z,cartomics,0.0.1,0,0,https://github.com/Cartomics/cartomics,"Cartomics: a fast, SpatialData-compatible engine for spatial multi-omics imaging (early development)."
+2026-10-26T06:06:46.886977Z,grobx-checker,0.73.0,0,0,https://github.com/code1-de/grobx,"Checks a Gröbner basis and its cofactors against the ideal's generators, over GF(p) and over the rationals"
+2026-10-26T06:18:14.832692Z,lyr-config,0.1.0,0,0,https://github.com/kryptic-sh/lyr,"Config for lyr: TOML schema, the built-in defaults and reload."
