@@ -1,0 +1,60 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T09:21:13.545449Z,thruput-syscall,0.63.0,0,0,https://github.com/thruputchain/thruput-protocol-rs,Raw syscall dispatch ABI for the Thruput guest
+2026-10-27T09:21:21.806615Z,thruput-xdr-macros,0.63.0,0,0,https://github.com/thruputchain/thruput-protocol-rs,Macros for generating Thruput syscall bindings
+2026-10-27T09:21:28.581467Z,thruput-xdr,0.63.0,0,0,https://github.com/thruputchain/thruput-protocol-rs,Bindings for Thruput protocol structures
+2026-10-27T09:21:34.805643Z,thruput-spec,0.63.0,0,0,https://github.com/thruputchain/thruput-protocol-rs,Bindings for Thruput specs
+2026-10-27T09:21:43.336616Z,thruput-trace,0.63.0,0,0,https://github.com/thruputchain/thruput-protocol-rs,Thruput transaction traces
+2026-10-27T09:22:09.812569Z,thruput-scp,0.63.0,0,0,https://github.com/thruputchain/thruput-protocol-rs,Bindings for Thruput scp rpcs
+2026-10-27T09:23:35.289415Z,sheeter,0.1.1,0,0,https://github.com/marceanlabs/sheeter,"Impose PDF pages onto press-ready sheets: n-up, saddle-stitch booklets, cut stacks, crop marks, unattended folders"
+2026-10-27T09:27:05.642384Z,hybit-distributed,0.9.0,0,0,https://github.com/michioga/hybit,MPI-independent partition and halo topology for HyBIT distributed solvers
+2026-10-27T09:27:24.484925Z,emu198x-sinclair-ula-7k010e,0.1.0,0,0,https://github.com/emu198x/emu198x,Sinclair 7K010E ULA — the 128K and +2 ZX Spectrum's custom chip
+2026-10-27T09:27:41.935219Z,hunspell-dictgen,0.1.0,0,0,https://github.com/microsoft/ox-tools/tree/main/crates/hunspell-dictgen,Generate deterministic Hunspell dictionaries from human-maintained word lists
+2026-10-27T09:28:56.934246Z,scenekit-xr,0.2.0,0,0,https://github.com/launcher-rs/scenekit,scenekit 的 CPU 端 XR 会话规划：沉浸式 AR/VR 会话计划、WebXR/OpenXR 特性协商、控制器姿态、手部追踪、命中测试、锚点、平面与估计光照。
+2026-10-27T09:32:10.639121Z,thruput-node-types,0.63.0,0,0,https://github.com/thruputchain/thruput-protocol-rs,"Thruput node types shared by the node RPC bindings: transaction batches, block proposals, consensus values and common RPC results"
+2026-10-27T09:34:52.543931Z,esp-template-sdk,0.1.0,0,0,https://github.com/esp-rs/esp-generate,"Versioned template contract for esp-generate: option-tree parsing, the relationship engine, and the pure file-directive processor."
+2026-10-27T09:35:08.299852Z,esp-template-plugin-chip,0.5.0,0,0,https://github.com/esp-rs/esp-generate,Espressif chip data as an esp-template-sdk plugin
+2026-10-27T09:37:32.611575Z,emu198x-timex-scld,0.1.0,0,0,https://github.com/emu198x/emu198x,Timex SCLD (Semi-Custom Logic Device) — TC2048 / TC2068 / TS2068
+2026-10-27T09:39:11.119188Z,scenekit-editor,0.2.0,0,0,https://github.com/launcher-rs/scenekit,scenekit 的离线 CPU 编辑器工具：可撤销的场景编辑会话、gizmo 拖拽数学、场景面板模型、材质字段编辑、资产浏览、时间线预览与项目元数据交换。
+2026-10-27T09:40:36.491489Z,specfold-core,0.1.0,0,0,https://github.com/modootoday/specfold,"Library behind specfold: typed Markdown documents, owners, a derived graph and checks."
+2026-10-27T09:40:39.449645Z,specfold,0.1.0,0,0,https://github.com/modootoday/specfold,"One CLI for a repository's design, planning and maintenance documents, built for people and AI agents."
+2026-10-27T09:41:24.696589Z,db9s,0.1.1,0,0,https://github.com/damien-mathieu1/db9s,"k9s-style terminal UI to browse, query, and edit Postgres and MongoDB"
+2026-10-27T09:42:10.211464Z,thruput-node-rpc,0.63.0,0,0,https://github.com/thruputchain/thruput-protocol-rs,"Bindings for the Thruput node's internal RPCs between the scheduler, coordinator, database, executor, event, mempool/auth and gateway services"
+2026-10-27T09:44:20.096933Z,plana-dispatch-client,0.1.0,0,0,https://github.com/celestia-island/plana,"Broker dispatch client for the terminal command routing contract: request envelope, idempotency window, Unix-socket transport, error classification and target-scope guarding."
+2026-10-27T09:47:44.275699Z,opentide-core,0.5.0,0,0,https://github.com/opentidehq/language-server,Shared types for the opentide language server (I/O-free)
+2026-10-27T09:47:50.790914Z,opentide-highlight,0.5.0,0,0,https://github.com/opentidehq/language-server,"HighlightSpec loader, semantic tokens, and generated editor maps"
+2026-10-27T09:48:08.29745Z,opentide-syntax,0.5.0,0,0,https://github.com/opentidehq/language-server,"Tree-sitter language bindings for opentide KQL, SPL, ES|QL, EQL, kuery, and Lucene"
+2026-10-27T09:48:14.393634Z,opentide-kql,0.5.0,0,0,https://github.com/opentidehq/language-server,"I/O-free KQL engine (parse, HIR, catalog, profiles)"
+2026-10-27T09:48:16.606613Z,opentide-spl,0.5.0,0,0,https://github.com/opentidehq/language-server,"I/O-free SPL engine (parse, catalog, diagnostics)"
+2026-10-27T09:48:47.521533Z,GraphoOS,0.0.2,0,0,,Placeholder reserving the 'GraphoOS' name on crates.io. Real GraphoOS IDE coming soon.
+2026-10-27T09:50:04.4462Z,format198x-deflate,0.1.0,0,0,https://github.com/format198x/format198x,"DEFLATE (RFC 1951) with its zlib (RFC 1950) and gzip (RFC 1952) wrappers — dependency-free, no_std, panic-free inflate and deflate."
+2026-10-27T09:52:01.120966Z,newrelic-rust-agent,0.1.1,0,0,,"Native New Relic APM agent for Rust: transactions, distributed tracing, errors, logs, via tracing and tower"
+2026-10-27T09:52:11.852403Z,thruput-coordinator,0.63.0,0,0,https://github.com/thruputchain/thruput-protocol-rs,Bindings for Thruput coordinator rpcs
+2026-10-27T09:52:54.396548Z,lxephemeris-core,1.0.0,0,0,https://github.com/procoders/lxephemeris,"Clean-room, thread-safe astronomical and astrological ephemeris engine in pure Rust"
+2026-10-27T09:53:14.91482Z,lxephemeris-cli,1.0.1,0,0,https://github.com/procoders/lxephemeris,"Command-line interface for lxephemeris: calc, houses, panchanga, swetest, fetch-kernel, data-sync, chart-bench, and license-verify"
+2026-10-27T09:54:18.097186Z,weimo-wdf,0.1.1,0,0,https://github.com/jiaowenjun/weimo-wdf-rs,"Strict canonical rich-text document model with adapters for Markdown, Tiptap/ProseMirror JSON, Apple document JSON, and terminal output"
+2026-10-27T09:54:31.868467Z,slotlock,0.3.0,0,0,https://github.com/PILOTAAI/slotlock,A client for Slotlock's REST API: calendars AI agents cannot double-book.
+2026-10-27T09:54:54.572243Z,sarah,0.1.3,0,0,https://github.com/aiman2039/sarah,"Count tokens, lines and function sizes per file to help AI agents decide what to refactor"
+2026-10-27T09:54:54.96317Z,oji,0.1.0,0,0,,Oji
+2026-10-27T09:55:15.669459Z,keylease-core,0.1.0,0,0,https://github.com/tidusvn05/keylease,"Domain, request, identity, trust and audit types for KeyLease"
+2026-10-27T09:55:21.679007Z,keylease-1pux,0.1.0,0,0,https://github.com/tidusvn05/keylease,Bounded 1Password Unencrypted Export (1PUX) import for KeyLease
+2026-10-27T09:55:27.477568Z,keylease-crypto,0.1.0,0,0,https://github.com/tidusvn05/keylease,Envelope encryption and key derivation for the KeyLease vault
+2026-10-27T09:55:33.561018Z,keylease-kdbx,0.1.0,0,0,https://github.com/tidusvn05/keylease,Bounded KeePass KDBX 4 import and export for KeyLease
+2026-10-27T09:55:39.196832Z,leasegate-connectors,0.1.0,0,0,https://github.com/tidusvn05/keylease,Typed SaaS connector actions executed by KeyLease without revealing credentials
+2026-10-27T09:58:09.282837Z,enumerator-derive,0.1.0,0,0,https://github.com/merl-twin/enumerator/derive,Recursive enum variant enumerator derive macro
+2026-10-27T09:58:29.681178Z,enchant-iced,0.29.0,0,0,https://github.com/FerrisMind/enchant,"Premium interaction layer for iced — animated text, glow surfaces, patterned backgrounds, builder-first widgets"
+2026-10-27T09:59:19.344778Z,opentide-lucene,0.5.0,0,0,https://github.com/opentidehq/language-server,I/O-free Lucene query syntax engine
+2026-10-27T09:59:34.08686Z,enumerator,0.1.0,0,0,https://github.com/merl-twin/enumerator,Recursive enum variant enumerator
+2026-10-27T09:59:53.493672Z,ipv6-anchor,0.2.0,0,0,https://github.com/rusthing/ipv6-anchor,把本机公网 IPv6 地址锚定到 dynv6 的 AAAA 记录，整个程序就是一个 GET
+2026-10-27T10:00:10.470942Z,format198x-acorn-atom-atm,0.1.0,0,0,https://github.com/format198x/format198x,Acorn Atom .atm program images — dependency-free decoding and encoding of the 22-byte header and body.
+2026-10-27T10:02:10.99603Z,thruput-indexer,0.63.0,0,0,https://github.com/thruputchain/thruput-protocol-rs,"Bindings for Thruput indexer RPCs (IndexerBlockExplorer, EventIndexer)"
+2026-10-27T10:02:47.731338Z,active-rpc,1.0.0,0,0,https://github.com/Active-Official/active-rpc,"Active RPC — capability-based, promise-pipelined, multi-lane RPC for Active Infinity payloads and multi-agent systems"
+2026-10-27T10:04:02.173259Z,leasegate-policy,0.1.0,0,0,https://github.com/tidusvn05/keylease,Deny-by-default policy rules and approvals used by KeyLease
+2026-10-27T10:04:14.970762Z,active-infinity-cli,0.1.0,0,0,https://github.com/Active-Official/active-infinity,Reserved name for the Active Infinity command-line tool; the CLI ships with the active-infinity crate today
+2026-10-27T10:04:17.961486Z,active-rpc-cli,0.1.0,0,0,https://github.com/Active-Official/active-rpc,Reserved name for the Active RPC command-line tool; the peer binary ships with the active-rpc crate today
+2026-10-27T10:09:29.024181Z,haecceity,0.2.1,0,0,https://github.com/pzfreo/quiddity-rust,"An exact B-rep geometry kernel in pure Rust: STEP import, rays, classification, volumes and surface recovery."
+2026-10-27T10:09:48.759933Z,quiddity,0.2.1,0,0,https://github.com/pzfreo/quiddity-rust,"Manufacturing feature recognition from STEP B-rep models: holes, bosses, pockets, slots, steps, patterns and turned features, with measured sizes."
+2026-10-27T10:10:18.577036Z,format198x-acorn-uef,0.1.0,0,0,https://github.com/format198x/format198x,"Acorn UEF tape images — decoding and encoding of the chunk container and its tape chunks, gzipped or not."
+2026-10-27T10:10:23.206705Z,opentide-esql,0.5.0,0,0,https://github.com/opentidehq/language-server,"I/O-free ES|QL engine (parse, catalog, diagnostics) for Elastic Security esql rules"
+2026-10-27T10:12:10.451798Z,thruput-db-gateway,0.63.0,0,0,https://github.com/thruputchain/thruput-protocol-rs,"Bindings for Thruput DbGateway1, the database's read interface for the public RPC gateway"
+2026-10-27T10:14:03.498706Z,keylease-store,0.1.0,0,0,https://github.com/tidusvn05/keylease,Encrypted SQLite store and journals for the KeyLease vault
+2026-10-27T10:15:13.513534Z,tuilook,0.1.0,0,0,https://github.com/christianhelle/tuilook,"A terminal mail client for Outlook.com and Microsoft 365, with vim-style keys"

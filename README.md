@@ -8,51 +8,73 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 09:19 UTC
+## Latest list — 2026-10-27 10:19 UTC
 
-New crates published between 2026-10-27 08:19 UTC and 2026-10-27 09:19 UTC.
+New crates published between 2026-10-27 09:19 UTC and 2026-10-27 10:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-27T09-19-59-714769Z.csv)
+[Full CSV](data/new-crates-2026-10-27T10-19-40-956509Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-27 08:26:36 | [emu198x-amstrad-ula-40077](https://crates.io/crates/emu198x-amstrad-ula-40077) | 0.1.0 | 0 | Amstrad 40077 gate array — the +2A/+2B/+3 ZX Spectrum's custom chip |
-| 2026-10-27 08:27:39 | [wasmnest-wasm-core](https://crates.io/crates/wasmnest-wasm-core) | 0.0.1 | 0 | WasmNest 插件机制整核（单一形态，2026-10-13 起无 common/bare 之分）：wasmtime 组件模型宿主 + host-* 原语… |
-| 2026-10-27 08:29:08 | [nornir-identity-session](https://crates.io/crates/nornir-identity-session) | 0.1.1 | 0 | Sessions, invites and step-up for the nordisk servers, one copy for every produ… |
-| 2026-10-27 08:29:14 | [nornir-identity-directory](https://crates.io/crates/nornir-identity-directory) | 0.1.0 | 0 | The directory rules for the nordisk servers, one copy for every product (A34 M-… |
-| 2026-10-27 08:29:48 | [chamber-api-fork](https://crates.io/crates/chamber-api-fork) | 0.5.4 | 0 | REST API server for Chamber secrets manager |
-| 2026-10-27 08:30:00 | [chamber-secret-manager-cli-fork](https://crates.io/crates/chamber-secret-manager-cli-fork) | 0.5.4 | 0 | CLI interface for Chamber secrets manager |
-| 2026-10-27 08:30:18 | [chamber-tui-fork](https://crates.io/crates/chamber-tui-fork) | 0.5.4 | 0 | A secure, local-first secrets manager with encrypted storage and zero-knowledge… |
-| 2026-10-27 08:33:19 | [tradecraft](https://crates.io/crates/tradecraft) | 0.3.5 | 0 | A command-line tool that publishes a vault of markdown skill notes into the for… |
-| 2026-10-27 08:36:45 | [emu198x-commodore-agnus-aga](https://crates.io/crates/emu198x-commodore-agnus-aga) | 0.1.0 | 0 | Commodore Alice (AGA Agnus) — thin wrapper over emu198x-commodore-agnus-ecs tha… |
-| 2026-10-27 08:36:48 | [picoguard](https://crates.io/crates/picoguard) | 0.3.0 | 0 | DNS ad and malware blocker for 256 MB boards |
-| 2026-10-27 08:38:11 | [wasmnest-headless-host-probe](https://crates.io/crates/wasmnest-headless-host-probe) | 0.0.1 | 0 | 无头测试宿主探针：以非桌面宿主形态默认引用全部能力域 crate（不开 common-host feature），钉死「能力域默认形态任何宿主可直接引用、零… |
-| 2026-10-27 08:38:32 | [git-sweep-rs](https://crates.io/crates/git-sweep-rs) | 1.0.3 | 0 | A command-line tool to clean up merged Git branches |
-| 2026-10-27 08:46:22 | [architecturekit-macros](https://crates.io/crates/architecturekit-macros) | 0.1.0 | 0 | The derive macros of architecturekit. Use them through architecturekit, which r… |
-| 2026-10-27 08:46:24 | [architecturekit](https://crates.io/crates/architecturekit) | 0.1.0 | 0 | Building blocks for DDD-based applications with CQRS and event sourcing, on top… |
-| 2026-10-27 08:46:53 | [emu198x-commodore-denise-aga](https://crates.io/crates/emu198x-commodore-denise-aga) | 0.1.0 | 0 | Commodore Lisa (AGA Denise) — thin wrapper over emu198x-commodore-denise-ecs th… |
-| 2026-10-27 08:49:36 | [ownsearch-core](https://crates.io/crates/ownsearch-core) | 0.1.0 | 0 | Engine for the OwnSearch MCP server: SearXNG fleet discovery, scanning, search,… |
-| 2026-10-27 08:50:02 | [ownsearch](https://crates.io/crates/ownsearch) | 0.1.0 | 0 | OwnSearch, an MCP server for quality-ranked public SearXNG search |
-| 2026-10-27 08:50:51 | [c-canon](https://crates.io/crates/c-canon) | 0.1.0 | 0 | C source → structural canonicalization + file-scope definition scan (tree-sitte… |
-| 2026-10-27 08:56:24 | [scenekit-nodes](https://crates.io/crates/scenekit-nodes) | 0.2.0 | 0 | scenekit 的带类型着色器节点图、节点材质与 WGSL/GLSL 后端。 |
-| 2026-10-27 08:56:29 | [scenekit-particles](https://crates.io/crates/scenekit-particles) | 0.2.0 | 0 | scenekit 的 CPU 端粒子系统：发射器、曲线、修改器模块、确定性模拟与渲染批次。 |
-| 2026-10-27 08:56:34 | [scenekit-physics](https://crates.io/crates/scenekit-physics) | 0.2.0 | 0 | scenekit 的 CPU 物理桥接：刚体、碰撞体、确定性惩罚求解器世界步进、运动学角色控制器、变换同步记账与碰撞体线框调试数据。 |
-| 2026-10-27 08:56:38 | [scenekit-audio](https://crates.io/crates/scenekit-audio) | 0.2.0 | 0 | scenekit 的 CPU 音频系统：位置化监听器与声源、距离衰减、等功率声像、指向圆锥、多普勒频移、流式缓冲与 PCM 分析器。 |
-| 2026-10-27 08:56:43 | [scenekit-ui](https://crates.io/crates/scenekit-ui) | 0.2.0 | 0 | 与渲染器无关的 scenekit 场景 UI 工具：无闪屏的叠层布局、面板栈、渲染器统计，以及面向桌面、移动与 Web 的工具控件。 |
-| 2026-10-27 08:57:02 | [emu198x-ferranti-ula-6c001e](https://crates.io/crates/emu198x-ferranti-ula-6c001e) | 0.1.0 | 0 | Ferranti 6C001E ULA for the ZX Spectrum 48K |
-| 2026-10-27 08:59:24 | [scenekit-sky](https://crates.io/crates/scenekit-sky) | 0.2.0 | 0 | scenekit 的纯 CPU 程序化天空、大气求值、太阳助手、环境贴图烘焙与接地天空盒。 |
-| 2026-10-27 09:02:21 | [server-watch](https://crates.io/crates/server-watch) | 0.1.1 | 0 | Small CLI that watches a server for pending patches, low disk/RAM, and signs of… |
-| 2026-10-27 09:04:52 | [ferrumec-perms](https://crates.io/crates/ferrumec-perms) | 0.1.0 | 0 | Bitset-based, route-level authorization middleware for Actix Web, built for the… |
-| 2026-10-27 09:07:10 | [emu198x-pentagon-ula](https://crates.io/crates/emu198x-pentagon-ula) | 0.1.0 | 0 | Pentagon ULA — Russian Spectrum clone, no contention, 14.336 MHz crystal |
-| 2026-10-27 09:08:56 | [scenekit-terrain](https://crates.io/crates/scenekit-terrain) | 0.2.0 | 0 | scenekit 的 CPU 地形系统：带种子的地形图、分块 LOD 网格、权重贴图、流式加载与高度采样。 |
-| 2026-10-27 09:09:03 | [jans-trace-core](https://crates.io/crates/jans-trace-core) | 0.0.126 | 0 | Deterministic TRACE cryptography: strict JSON, RFC 8785 JCS, Ed25519, SHA-256 d… |
-| 2026-10-27 09:17:16 | [emu198x-scorpion-ula](https://crates.io/crates/emu198x-scorpion-ula) | 0.1.0 | 0 | Scorpion ZS-256 ULA — Russian extended Spectrum, no contention, 48K-style geome… |
-| 2026-10-27 09:18:18 | [mimalloc-ng-sys](https://crates.io/crates/mimalloc-ng-sys) | 0.2.0 | 0 | Raw bindings to mimalloc, built from vendored source |
-| 2026-10-27 09:18:20 | [mimalloc-ng](https://crates.io/crates/mimalloc-ng) | 0.2.0 | 0 | Rust global allocator backed by mimalloc |
-| 2026-10-27 09:18:42 | [fframes-kit-macros](https://crates.io/crates/fframes-kit-macros) | 0.1.0 | 0 | The ui! macro and the Props derives of fframes-kit |
-| 2026-10-27 09:18:50 | [wasmnest-plugin-api-mobile](https://crates.io/crates/wasmnest-plugin-api-mobile) | 0.0.1 | 0 | WasmNest Mobile Plugin API — trait definitions and shared types for WasmNest pl… |
-| 2026-10-27 09:18:55 | [scenekit-water](https://crates.io/crates/scenekit-water) | 0.2.0 | 0 | scenekit 的 CPU 水面系统：Gerstner 波场、形变曲面、Schlick 菲涅尔、泡沫遮罩、水下着色与反射助手。 |
-| 2026-10-27 09:19:03 | [fframes-kit](https://crates.io/crates/fframes-kit) | 0.1.0 | 0 | Components for fframes videos: time containers, shapes, Manim-named animations… |
+| 2026-10-27 09:21:13 | [thruput-syscall](https://crates.io/crates/thruput-syscall) | 0.63.0 | 0 | Raw syscall dispatch ABI for the Thruput guest |
+| 2026-10-27 09:21:21 | [thruput-xdr-macros](https://crates.io/crates/thruput-xdr-macros) | 0.63.0 | 0 | Macros for generating Thruput syscall bindings |
+| 2026-10-27 09:21:28 | [thruput-xdr](https://crates.io/crates/thruput-xdr) | 0.63.0 | 0 | Bindings for Thruput protocol structures |
+| 2026-10-27 09:21:34 | [thruput-spec](https://crates.io/crates/thruput-spec) | 0.63.0 | 0 | Bindings for Thruput specs |
+| 2026-10-27 09:21:43 | [thruput-trace](https://crates.io/crates/thruput-trace) | 0.63.0 | 0 | Thruput transaction traces |
+| 2026-10-27 09:22:09 | [thruput-scp](https://crates.io/crates/thruput-scp) | 0.63.0 | 0 | Bindings for Thruput scp rpcs |
+| 2026-10-27 09:23:35 | [sheeter](https://crates.io/crates/sheeter) | 0.1.1 | 0 | Impose PDF pages onto press-ready sheets: n-up, saddle-stitch booklets, cut sta… |
+| 2026-10-27 09:27:05 | [hybit-distributed](https://crates.io/crates/hybit-distributed) | 0.9.0 | 0 | MPI-independent partition and halo topology for HyBIT distributed solvers |
+| 2026-10-27 09:27:24 | [emu198x-sinclair-ula-7k010e](https://crates.io/crates/emu198x-sinclair-ula-7k010e) | 0.1.0 | 0 | Sinclair 7K010E ULA — the 128K and +2 ZX Spectrum's custom chip |
+| 2026-10-27 09:27:41 | [hunspell-dictgen](https://crates.io/crates/hunspell-dictgen) | 0.1.0 | 0 | Generate deterministic Hunspell dictionaries from human-maintained word lists |
+| 2026-10-27 09:28:56 | [scenekit-xr](https://crates.io/crates/scenekit-xr) | 0.2.0 | 0 | scenekit 的 CPU 端 XR 会话规划：沉浸式 AR/VR 会话计划、WebXR/OpenXR 特性协商、控制器姿态、手部追踪、命中测试、锚点、平面… |
+| 2026-10-27 09:32:10 | [thruput-node-types](https://crates.io/crates/thruput-node-types) | 0.63.0 | 0 | Thruput node types shared by the node RPC bindings: transaction batches, block… |
+| 2026-10-27 09:34:52 | [esp-template-sdk](https://crates.io/crates/esp-template-sdk) | 0.1.0 | 0 | Versioned template contract for esp-generate: option-tree parsing, the relation… |
+| 2026-10-27 09:35:08 | [esp-template-plugin-chip](https://crates.io/crates/esp-template-plugin-chip) | 0.5.0 | 0 | Espressif chip data as an esp-template-sdk plugin |
+| 2026-10-27 09:37:32 | [emu198x-timex-scld](https://crates.io/crates/emu198x-timex-scld) | 0.1.0 | 0 | Timex SCLD (Semi-Custom Logic Device) — TC2048 / TC2068 / TS2068 |
+| 2026-10-27 09:39:11 | [scenekit-editor](https://crates.io/crates/scenekit-editor) | 0.2.0 | 0 | scenekit 的离线 CPU 编辑器工具：可撤销的场景编辑会话、gizmo 拖拽数学、场景面板模型、材质字段编辑、资产浏览、时间线预览与项目元数据交换。 |
+| 2026-10-27 09:40:36 | [specfold-core](https://crates.io/crates/specfold-core) | 0.1.0 | 0 | Library behind specfold: typed Markdown documents, owners, a derived graph and… |
+| 2026-10-27 09:40:39 | [specfold](https://crates.io/crates/specfold) | 0.1.0 | 0 | One CLI for a repository's design, planning and maintenance documents, built fo… |
+| 2026-10-27 09:41:24 | [db9s](https://crates.io/crates/db9s) | 0.1.1 | 0 | k9s-style terminal UI to browse, query, and edit Postgres and MongoDB |
+| 2026-10-27 09:42:10 | [thruput-node-rpc](https://crates.io/crates/thruput-node-rpc) | 0.63.0 | 0 | Bindings for the Thruput node's internal RPCs between the scheduler, coordinato… |
+| 2026-10-27 09:44:20 | [plana-dispatch-client](https://crates.io/crates/plana-dispatch-client) | 0.1.0 | 0 | Broker dispatch client for the terminal command routing contract: request envel… |
+| 2026-10-27 09:47:44 | [opentide-core](https://crates.io/crates/opentide-core) | 0.5.0 | 0 | Shared types for the opentide language server (I/O-free) |
+| 2026-10-27 09:47:50 | [opentide-highlight](https://crates.io/crates/opentide-highlight) | 0.5.0 | 0 | HighlightSpec loader, semantic tokens, and generated editor maps |
+| 2026-10-27 09:48:08 | [opentide-syntax](https://crates.io/crates/opentide-syntax) | 0.5.0 | 0 | Tree-sitter language bindings for opentide KQL, SPL, ES\|QL, EQL, kuery, and Luc… |
+| 2026-10-27 09:48:14 | [opentide-kql](https://crates.io/crates/opentide-kql) | 0.5.0 | 0 | I/O-free KQL engine (parse, HIR, catalog, profiles) |
+| 2026-10-27 09:48:16 | [opentide-spl](https://crates.io/crates/opentide-spl) | 0.5.0 | 0 | I/O-free SPL engine (parse, catalog, diagnostics) |
+| 2026-10-27 09:48:47 | [GraphoOS](https://crates.io/crates/GraphoOS) | 0.0.2 | 0 | Placeholder reserving the 'GraphoOS' name on crates.io. Real GraphoOS IDE comin… |
+| 2026-10-27 09:50:04 | [format198x-deflate](https://crates.io/crates/format198x-deflate) | 0.1.0 | 0 | DEFLATE (RFC 1951) with its zlib (RFC 1950) and gzip (RFC 1952) wrappers — depe… |
+| 2026-10-27 09:52:01 | [newrelic-rust-agent](https://crates.io/crates/newrelic-rust-agent) | 0.1.1 | 0 | Native New Relic APM agent for Rust: transactions, distributed tracing, errors,… |
+| 2026-10-27 09:52:11 | [thruput-coordinator](https://crates.io/crates/thruput-coordinator) | 0.63.0 | 0 | Bindings for Thruput coordinator rpcs |
+| 2026-10-27 09:52:54 | [lxephemeris-core](https://crates.io/crates/lxephemeris-core) | 1.0.0 | 0 | Clean-room, thread-safe astronomical and astrological ephemeris engine in pure… |
+| 2026-10-27 09:53:14 | [lxephemeris-cli](https://crates.io/crates/lxephemeris-cli) | 1.0.1 | 0 | Command-line interface for lxephemeris: calc, houses, panchanga, swetest, fetch… |
+| 2026-10-27 09:54:18 | [weimo-wdf](https://crates.io/crates/weimo-wdf) | 0.1.1 | 0 | Strict canonical rich-text document model with adapters for Markdown, Tiptap/Pr… |
+| 2026-10-27 09:54:31 | [slotlock](https://crates.io/crates/slotlock) | 0.3.0 | 0 | A client for Slotlock's REST API: calendars AI agents cannot double-book. |
+| 2026-10-27 09:54:54 | [sarah](https://crates.io/crates/sarah) | 0.1.3 | 0 | Count tokens, lines and function sizes per file to help AI agents decide what t… |
+| 2026-10-27 09:54:54 | [oji](https://crates.io/crates/oji) | 0.1.0 | 0 | Oji |
+| 2026-10-27 09:55:15 | [keylease-core](https://crates.io/crates/keylease-core) | 0.1.0 | 0 | Domain, request, identity, trust and audit types for KeyLease |
+| 2026-10-27 09:55:21 | [keylease-1pux](https://crates.io/crates/keylease-1pux) | 0.1.0 | 0 | Bounded 1Password Unencrypted Export (1PUX) import for KeyLease |
+| 2026-10-27 09:55:27 | [keylease-crypto](https://crates.io/crates/keylease-crypto) | 0.1.0 | 0 | Envelope encryption and key derivation for the KeyLease vault |
+| 2026-10-27 09:55:33 | [keylease-kdbx](https://crates.io/crates/keylease-kdbx) | 0.1.0 | 0 | Bounded KeePass KDBX 4 import and export for KeyLease |
+| 2026-10-27 09:55:39 | [leasegate-connectors](https://crates.io/crates/leasegate-connectors) | 0.1.0 | 0 | Typed SaaS connector actions executed by KeyLease without revealing credentials |
+| 2026-10-27 09:58:09 | [enumerator-derive](https://crates.io/crates/enumerator-derive) | 0.1.0 | 0 | Recursive enum variant enumerator derive macro |
+| 2026-10-27 09:58:29 | [enchant-iced](https://crates.io/crates/enchant-iced) | 0.29.0 | 0 | Premium interaction layer for iced — animated text, glow surfaces, patterned ba… |
+| 2026-10-27 09:59:19 | [opentide-lucene](https://crates.io/crates/opentide-lucene) | 0.5.0 | 0 | I/O-free Lucene query syntax engine |
+| 2026-10-27 09:59:34 | [enumerator](https://crates.io/crates/enumerator) | 0.1.0 | 0 | Recursive enum variant enumerator |
+| 2026-10-27 09:59:53 | [ipv6-anchor](https://crates.io/crates/ipv6-anchor) | 0.2.0 | 0 | 把本机公网 IPv6 地址锚定到 dynv6 的 AAAA 记录，整个程序就是一个 GET |
+| 2026-10-27 10:00:10 | [format198x-acorn-atom-atm](https://crates.io/crates/format198x-acorn-atom-atm) | 0.1.0 | 0 | Acorn Atom .atm program images — dependency-free decoding and encoding of the 2… |
+| 2026-10-27 10:02:10 | [thruput-indexer](https://crates.io/crates/thruput-indexer) | 0.63.0 | 0 | Bindings for Thruput indexer RPCs (IndexerBlockExplorer, EventIndexer) |
+| 2026-10-27 10:02:47 | [active-rpc](https://crates.io/crates/active-rpc) | 1.0.0 | 0 | Active RPC — capability-based, promise-pipelined, multi-lane RPC for Active Inf… |
+| 2026-10-27 10:04:02 | [leasegate-policy](https://crates.io/crates/leasegate-policy) | 0.1.0 | 0 | Deny-by-default policy rules and approvals used by KeyLease |
+| 2026-10-27 10:04:14 | [active-infinity-cli](https://crates.io/crates/active-infinity-cli) | 0.1.0 | 0 | Reserved name for the Active Infinity command-line tool; the CLI ships with the… |
+| 2026-10-27 10:04:17 | [active-rpc-cli](https://crates.io/crates/active-rpc-cli) | 0.1.0 | 0 | Reserved name for the Active RPC command-line tool; the peer binary ships with… |
+| 2026-10-27 10:09:29 | [haecceity](https://crates.io/crates/haecceity) | 0.2.1 | 0 | An exact B-rep geometry kernel in pure Rust: STEP import, rays, classification,… |
+| 2026-10-27 10:09:48 | [quiddity](https://crates.io/crates/quiddity) | 0.2.1 | 0 | Manufacturing feature recognition from STEP B-rep models: holes, bosses, pocket… |
+| 2026-10-27 10:10:18 | [format198x-acorn-uef](https://crates.io/crates/format198x-acorn-uef) | 0.1.0 | 0 | Acorn UEF tape images — decoding and encoding of the chunk container and its ta… |
+| 2026-10-27 10:10:23 | [opentide-esql](https://crates.io/crates/opentide-esql) | 0.5.0 | 0 | I/O-free ES\|QL engine (parse, catalog, diagnostics) for Elastic Security esql r… |
+| 2026-10-27 10:12:10 | [thruput-db-gateway](https://crates.io/crates/thruput-db-gateway) | 0.63.0 | 0 | Bindings for Thruput DbGateway1, the database's read interface for the public R… |
+| 2026-10-27 10:14:03 | [keylease-store](https://crates.io/crates/keylease-store) | 0.1.0 | 0 | Encrypted SQLite store and journals for the KeyLease vault |
+| 2026-10-27 10:15:13 | [tuilook](https://crates.io/crates/tuilook) | 0.1.0 | 0 | A terminal mail client for Outlook.com and Microsoft 365, with vim-style keys |
 
 ## Data source
 
