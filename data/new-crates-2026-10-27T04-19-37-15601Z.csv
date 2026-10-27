@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T03:24:09.155938Z,zk-gpu,0.1.0,0,0,https://github.com/zerotruss/zk-gpu,"Portable GPU MSM and NTT for BN254 (wgpu / WGSL, native + WebGPU)"
+2026-10-27T03:25:52.406318Z,bnf_analyzer,0.1.0,0,0,https://github.com/yingquelou/bnf_analyzer,"Configurable source analyzer: lexical rules plus a grammar, with JSON configuration and a CLI"
+2026-10-27T03:27:33.045818Z,buffer-queue,0.1.0,0,0,https://github.com/itzArka1407/UltimateBufferQueue/,"A flexible performant buffer for different use cases like SPSC, MPSC, etc..."
+2026-10-27T03:28:48.468497Z,photon-evt-lambda,0.1.0,0,0,https://github.com/photon-grove/evt,"AWS Lambda helpers for photon-evt: DynamoDB Streams event decode, event-source filter patterns, journal wake-ups, and partial batch failures."
+2026-10-27T03:48:21.432886Z,turbo-luxury-cabin-heat,1.0.0,0,0,https://github.com/nbkdevs/turbo-luxury,"Estimate how hot a parked car gets in UAE summer sun: cabin and surface temperatures, risk level, and when paint is cool enough to wash."
+2026-10-27T03:53:31.779672Z,unicodeit-repl,0.2.2,0,0,https://github.com/Techcable/unicodeit.rs,An interactive REPL for unicodeit that copies results to the clipboard
+2026-10-27T04:00:36.091542Z,common-lingua-macros,0.1.0,0,0,https://github.com/neodyland/common-lingua-rs,"Rust port of common lingua, a language detection model."
+2026-10-27T04:00:40.712794Z,common-lingua,0.1.0,0,0,https://github.com/neodyland/common-lingua-rs,"Rust port of common lingua, a language detection model."
+2026-10-27T04:11:45.605106Z,cure-dart-ast,0.3.0,0,0,https://github.com/ejfkdev/cure,Lossless Dart token document (Dart 1/2/3 syntax) for the cure simplifier engine
+2026-10-27T04:11:52.937612Z,cure-dart-parser,0.3.0,0,0,https://github.com/ejfkdev/cure,Fault-tolerant Dart lexer and token-document parser (Dart 1/2/3 syntax) for cure
+2026-10-27T04:11:59.830814Z,cure-dart-print,0.3.0,0,0,https://github.com/ejfkdev/cure,Comment-preserving Dart source printer/formatter for cure
+2026-10-27T04:12:07.482514Z,cure-dart-simplify,0.3.0,0,0,https://github.com/ejfkdev/cure,Dart constant folding and structural simplification for cure
+2026-10-27T04:13:05.174098Z,gpudb-api,7.2.3-0,0,0,https://github.com/kineticadb/kinetica-api-rust,Async client for the Kinetica database
+2026-10-27T04:14:10.135613Z,eqiora-build,0.1.4,0,0,https://github.com/nkiyohara/eqiora,Eqiora build-time dependency release projection
+2026-10-27T04:14:18.954573Z,eqiora-io-xml,0.1.4,0,0,https://github.com/nkiyohara/eqiora,Bounded VTU and XDMF adapters with shared XML admission for Eqiora
+2026-10-27T04:14:47.417551Z,eqiora-backend-sundials,0.1.4,0,0,https://github.com/nkiyohara/eqiora,Eqiora L3: residual-native SUNDIALS IDA time adapter
