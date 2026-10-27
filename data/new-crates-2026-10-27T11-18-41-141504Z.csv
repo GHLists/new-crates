@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T10:20:24.052028Z,format198x-atari-8bit-atr,0.1.0,0,0,https://github.com/format198x/format198x,"Atari 8-bit ATR disk images — dependency-free decoding, sector access and encoding."
+2026-10-27T10:20:29.416899Z,format198x-commodore-c128-d71,0.1.0,0,0,https://github.com/format198x/format198x,"Commodore 1571 D71 disk images — dependency-free sector access, directory reading and encoding."
+2026-10-27T10:21:21.091262Z,glob-async,0.1.0,0,0,,Async support for matching file paths against Unix shell style patterns.
+2026-10-27T10:21:28.586254Z,opentide-ecs,0.5.0,0,0,https://github.com/opentidehq/language-server,Elastic Common Schema field catalog for the Elastic query engines (I/O-free)
+2026-10-27T10:21:56.104498Z,rocky-core,0.1.0-alpha.1,0,0,https://github.com/BierDav/rocky,"Shared Rocky identities, operation envelopes, versions and protocol errors"
+2026-10-27T10:21:57.899894Z,rocky-credentials,0.1.0-alpha.1,0,0,https://github.com/BierDav/rocky,"Signed manifests, capabilities and revocations, identities, key providers, issuance and enrollment messages"
+2026-10-27T10:21:58.380721Z,rocky-iroh,0.1.0-alpha.1,0,0,https://github.com/BierDav/rocky,Rocky's network port on iroh: handlers for an application's router and a starter endpoint
+2026-10-27T10:21:58.57755Z,rocky-storage,0.1.0-alpha.1,0,0,https://github.com/BierDav/rocky,"SQLite access, row capture and errors shared by the runtimes"
+2026-10-27T10:21:59.789236Z,rocky-coordinator,0.1.0-alpha.1,0,0,https://github.com/BierDav/rocky,"Generic execution fencing, head confirmation and request deduplication"
+2026-10-27T10:22:11.27112Z,thruput-view,0.63.0,0,0,https://github.com/thruputchain/thruput-protocol-rs,Bindings for Thruput ViewGateway1 read-only invocation RPC
+2026-10-27T10:23:00.474133Z,juiz_types,0.0.23,0,0,https://github.com/OpenJUIZ/juiz,"Data type model (Avro schemas, fingerprints, compatibility) for juiz."
+2026-10-27T10:23:02.260577Z,juiz_idl,0.0.23,0,0,https://github.com/OpenJUIZ/juiz,"IDL (JIDL) compiler for juiz: generates Avro schemas, JSON Schema and Rust code."
+2026-10-27T10:24:04.464961Z,keylease-service,0.1.0,0,0,https://github.com/tidusvn05/keylease,"KeyLease vault service: policy, approvals, trust, SSH signing, SCRAM and secret injection"
+2026-10-27T10:25:09.222922Z,Ennooia,0.0.1,0,0,,Placeholder reserving the 'Ennooia' name on crates.io for the Ennooia workspace app.
+2026-10-27T10:25:22.140647Z,EmpooScan,0.0.1,0,0,,Placeholder reserving the 'EmpooScan' name on crates.io for the EmpoorioChain explorer.
+2026-10-27T10:28:37.724942Z,plana-config,0.1.51,0,0,,Configuration loading with provider-registry data and interpolation for celestia-island services
+2026-10-27T10:29:04.445649Z,plana-llm-provider,0.1.51,0,0,,LLM provider abstraction with metering and a generated pricing fallback for celestia-island services
+2026-10-27T10:29:14.298522Z,plana-infra-utils,0.1.51,0,0,,Circuit breaker and rate limiter primitives for celestia-island services
+2026-10-27T10:29:16.147565Z,plana-build-info,0.1.51,0,0,,Build-time version and commit-hash plumbing for celestia-island services
+2026-10-27T10:30:34.9459Z,format198x-commodore-c64-crt,0.1.0,0,0,https://github.com/format198x/format198x,Commodore 64 CRT cartridge images — dependency-free decoding and encoding of the header and CHIP packets.
+2026-10-27T10:32:31.743377Z,opentide-eql,0.5.0,0,0,https://github.com/opentidehq/language-server,"I/O-free EQL engine (parse, builder checks, catalog) for Elastic Security eql rules"
+2026-10-27T10:34:05.197952Z,keylease-rpc,0.1.0,0,0,https://github.com/tidusvn05/keylease,Local RPC contract between KeyLease clients and the vault daemon
+2026-10-27T10:36:42.666394Z,oci-arm-catcher-core,0.1.1,0,0,https://github.com/deeplabua/oci-arm-catcher,"OCI API client and capacity-retry loop behind oci-arm-catcher — no OCI CLI, no Python"
+2026-10-27T10:37:08.477865Z,oci-arm-catcher,0.1.1,0,0,https://github.com/deeplabua/oci-arm-catcher,"Grab Oracle Cloud's free ARM (A1.Flex) capacity the moment it appears — one binary, no OCI CLI"
+2026-10-27T10:37:14.499575Z,opus1,0.2.1,0,0,https://github.com/RealEffect/opus1,"Pure-Rust implementation of the Opus audio codec (RFC 6716), following libopus 1.x"
+2026-10-27T10:40:40.500447Z,format198x-commodore-c64-d64,0.1.0,0,0,https://github.com/format198x/format198x,"Commodore 1541 D64 disk images — dependency-free sector access, directory reading and encoding."
+2026-10-27T10:43:33.994315Z,opentide-kuery,0.5.0,0,0,https://github.com/opentidehq/language-server,I/O-free Kibana Query Language (kuery) engine
+2026-10-27T10:44:05.625096Z,keylease,0.1.0,0,0,https://github.com/tidusvn05/keylease,"Local-first secret vault that lets AI agents use credentials without seeing them: CLI, daemon, SSH/database brokers and MCP server"
+2026-10-27T10:50:45.418506Z,format198x-commodore-c64-d81,0.1.0,0,0,https://github.com/format198x/format198x,"Commodore 1581 D81 disk images — dependency-free sector access, directory reading and encoding."
+2026-10-27T10:52:48.319354Z,mibz2,0.1.1,0,0,https://github.com/lmmx/mibz2,"A bzip2 decoder built for memory-level parallelism: block-parallel, its inverse BWT walked as interleaved chains, SIMD kernels chosen at run time"
+2026-10-27T10:54:41.08309Z,opentide-tide,0.5.0,0,0,https://github.com/opentidehq/language-server,"Tide YAML objects: schema, vocabs, UUID graph, query injection"
+2026-10-27T11:00:50.886146Z,format198x-commodore-c64-g64,0.1.0,0,0,https://github.com/format198x/format198x,Commodore 1541 G64 raw-GCR disk images — dependency-free decoding and encoding.
+2026-10-27T11:01:26.623873Z,system1router,0.1.0,0,0,https://github.com/Valkea/System1Router,Sets the reasoning effort of each Claude Code or OpenCode prompt with a local classifier
+2026-10-27T11:04:57.544106Z,pyaio,0.1.0,0,0,https://github.com/ppmpreetham/pyaio,Tokio to AsyncIO bridge. Uses Ring. 40% Faster than pyo3-async-runtimes
+2026-10-27T11:05:44.842543Z,opentide-analysis,0.5.0,0,0,https://github.com/opentidehq/language-server,I/O-free analysis orchestrator (WorkspaceHost + analyze/highlight)
+2026-10-27T11:08:36.026563Z,codemycel,0.0.0,0,0,https://github.com/msaeedsakib/codemycel,Placeholder for the codemycel code-intelligence tool; see the GitHub repository.
+2026-10-27T11:08:45.06538Z,cardthing,0.1.1,0,0,https://github.com/markryall/cardthing,A simple CLI tool for managing task cards
+2026-10-27T11:10:55.534471Z,format198x-commodore-c64-p00,0.1.0,0,0,https://github.com/format198x/format198x,Commodore PC64 P00 containers — dependency-free decoding and encoding.
+2026-10-27T11:16:58.770246Z,opentide-lsp,0.5.0,0,0,https://github.com/opentidehq/language-server,opentide language server binary (stdio LSP + analyze/highlight CLI)
