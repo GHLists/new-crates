@@ -1,0 +1,51 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T17:20:27.272411Z,coherynui-core,1.0.0,0,0,https://github.com/Coheryn/coheryn-ui,Core data structures and runtime for CoherynUI CSS Engine
+2026-10-27T17:20:39.242991Z,coherynui-syntax,1.0.0,0,0,https://github.com/Coheryn/coheryn-ui,CSS parser and AST tokenizer for CoherynUI
+2026-10-27T17:20:51.353009Z,coherynui-source,1.0.0,0,0,https://github.com/Coheryn/coheryn-ui,"Source file loading, span tracking, and line index utilities for CoherynUI"
+2026-10-27T17:21:03.448748Z,coherynui-design,1.0.0,0,0,https://github.com/Coheryn/coheryn-ui,"Design token models, typography scales, and theme definitions for CoherynUI"
+2026-10-27T17:21:15.635799Z,coherynui-diagnostics,1.0.0,0,0,https://github.com/Coheryn/coheryn-ui,Structured compiler error diagnostic schemas (CY1001-CY3002) for CoherynUI
+2026-10-27T17:25:46.680672Z,fleetring,0.0.1,0,0,https://github.com/fleetring/fleetring,"Consistent-hashing placement and routing for fleets of SQLite, libSQL, and Turso databases: one database per agent, tenant, or device."
+2026-10-27T17:29:16.822553Z,shoin,0.1.9,0,0,https://github.com/nol00p/Shoin,A no-clutter terminal Markdown editor with modal editing
+2026-10-27T17:29:25.200745Z,keyhive_codec,0.1.0,0,0,https://github.com/inkandswitch/keyhive,Encoding traits and the Encoded<T> byte container shared by Keyhive crates
+2026-10-27T17:29:35.056777Z,hharness-tls,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,The workspace's one TLS home (R4.5c; ADR-0365): HTTPS client sessions over the admitted rustls/ring graph with webpki root verification (extra roots only via an explicitly named PEM file — the local-…
+2026-10-27T17:29:35.502887Z,hharness-wire,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"Transport primitives for the hh-embed/1 boundary: canonical JSON, SHA-256 content addressing, newline-delimited JSON-RPC 2.0 framing. No verbs or fields — a binding may add transport facts but never…"
+2026-10-27T17:29:36.506149Z,hharness-embed-client-generated,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The generated, drift-checked hh-embed/1 client (ADR-0179: a generated client, no runtime logic). src/generated.rs is emitted by hh-codegen from the single schema source; the CI drift check fails the…"
+2026-10-27T17:29:36.823345Z,hharness-provenance,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C0/Stage-1 provenance & authority model (spec §8.1, R-2.1.5; ADR-0033/0034/0035): one ProvenanceRecord carrying one Label in one product lattice (CC1/CC2 anchor here), the seven-class AuthorityCl…"
+2026-10-27T17:29:37.856813Z,hharness-identity,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C0/Stage-1 identity, versioning & artifact-identity model (spec §8.3, R-2.12.1): the idp/1 identity profile, ContentAddress, VersionedRef and the five identity kinds, address/identify/verify over…"
+2026-10-27T17:32:14.602599Z,keyline,0.1.0,0,0,https://github.com/inkandswitch/keyhive,Keyline: Keyhive's convergent authority graph of signed delegations and revocations
+2026-10-27T17:32:26.534335Z,evorule-audit-chain,0.9.0,0,0,https://gitee.com/evorule/evorule,EvoRule 审计链 no_std 内核——Fact 数据形态 + 稳定 JSON 序列化 + BLAKE3 链哈希单一真相源
+2026-10-27T17:32:37.709553Z,evid-verify-core,0.9.0,0,0,https://gitee.com/evorule/evorule,EVID 移动端审计链独立验证内核：导出/WAL 双面判定 + 锚点封条 v2 验签（no_std）
+2026-10-27T17:32:48.734899Z,evid-verify-wasm,0.9.0,0,0,https://gitee.com/evorule/evorule,"EVID 移动端验证器 wasm 绑定：extern ""C"" 字节 ABI（免安装主产物）+ wasm-bindgen 绑定面（feature bindgen）"
+2026-10-27T17:33:18.073731Z,atomix,0.2.0,0,0,https://github.com/atomix-labs/atomix,"typed atomics for any value that fits one atomic, and the locks built on them."
+2026-10-27T17:33:23.808526Z,evorule-mcu,0.9.0,0,0,https://gitee.com/evorule/evorule,EvoRule MCU no_std 内核——紧凑规则包 + RAM WAL + tick 时钟 + 同步执行器
+2026-10-27T17:36:45.132548Z,coherynui-class-opt,1.0.0,0,0,https://github.com/Coheryn/coheryn-ui,"Deterministic class name optimizer, mangler, and reverse explain lookup for CoherynUI"
+2026-10-27T17:37:10.172547Z,iridia-interface,0.1.0,0,0,https://github.com/Kalmarv/iridia,"A shader program's interface as plain serializable data: varyings, resources, constant layouts, fixed-function state and what its code shows"
+2026-10-27T17:37:19.772083Z,iridia,0.1.0,0,0,https://github.com/Kalmarv/iridia,"Compiled Direct3D shaders as naga modules: the program type the iridia readers produce, with validation, a WGSL writer and analyses"
+2026-10-27T17:37:28.48657Z,iridia-exec,0.1.0,0,0,https://github.com/Kalmarv/iridia,CPU reference executor for lifted Direct3D shaders: run a program on explicit inputs to check a translation
+2026-10-27T17:37:33.775974Z,iridia-dxbc,0.1.0,0,0,https://github.com/Kalmarv/iridia,"Translate Direct3D Shader Model 4 and 5 bytecode (DXBC, fxc output) to naga modules, for WGSL or SPIR-V output"
+2026-10-27T17:40:24.423714Z,hharness-embed-schema,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The single schema source (CC7) for the hh-embed/1 Stage-0 message set: hello, ContractIdentity, the closed error sum, and the JSON-Schema exporter every binding is generated from."
+2026-10-27T17:41:08.957974Z,srl-core,0.1.1,0,0,https://github.com/ChrisVilches/srl,"The core of srl: store, notes, items, cards, scheduling. No CLI code."
+2026-10-27T17:41:18.277569Z,srl,0.1.1,0,0,https://github.com/ChrisVilches/srl,Spaced repetition for the command line.
+2026-10-27T17:46:08.938998Z,qorechain-qoresign,0.1.0,0,0,https://github.com/qorechain/qoresign,"Hybrid secp256k1 + ML-DSA-87 (FIPS 204) signing, verification and Sign In With QoreChain."
+2026-10-27T17:47:27.472707Z,nepal-messaging-http,0.1.0,0,0,https://git.ninjainfosys.com/ninja-infosys/nepal-messaging,"Shared HTTP client policy for Nepal messaging provider adapters: pool and keep-alive limits, typed transport errors with the full cause chain, and retries that cannot duplicate a send"
+2026-10-27T17:49:33.06145Z,coherynui-incremental,1.0.0,0,0,https://github.com/Coheryn/coheryn-ui,Incremental dependency graph and invalidation engine for CoherynUI
+2026-10-27T17:50:28.908289Z,coherynui-plugin-api,1.0.0,0,0,https://github.com/Coheryn/coheryn-ui,Plugin interface and transformation traits for the CoherynUI compiler
+2026-10-27T17:50:33.288138Z,harmos-operations,0.1.7,0,0,,Portable Harmos built-in operations and optional execution.
+2026-10-27T17:51:45.770693Z,hharness-codegen,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The schema-export → codegen pipeline (ADR-0050 (e), CC7). Reads the single schema source (hharness-embed-schema) and emits the checked-in, drift-checked artifacts: the canonical schema export and the…"
+2026-10-27T17:58:02.136395Z,iridia-dxil,0.1.0,0,0,https://github.com/Kalmarv/iridia,"Translate Direct3D Shader Model 6 bytecode (DXIL, dxc output) to naga modules, for WGSL or SPIR-V output"
+2026-10-27T17:58:06.547267Z,iridia-d3d9,0.1.0,0,0,https://github.com/Kalmarv/iridia,"Read raw Direct3D 9 ps_3_0 and vs_3_0 shader tokens and translate them to naga modules, for WGSL or SPIR-V output"
+2026-10-27T18:01:16.43893Z,coherynui-registry,1.0.0,0,0,https://github.com/Coheryn/coheryn-ui,CoherynUI machine-readable Component & Recipe Registry with intent-based search
+2026-10-27T18:03:06.21977Z,hharness-ontology,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C0/Stage-1 ontology and formal model (spec §2, R-2.1.1): the seven-plane home-plane rule (CC10 originates here), the policy-stack formalism, validity vs compliance, the compatibility surface, the…"
+2026-10-27T18:05:21.378788Z,high-mlir,0.1.0,0,0,https://github.com/YuantianDing/high-mlir,"Build MLIR as typed Rust expressions: the arith, affine, linalg, tensor, memref, scf, vector, gpu and other upstream dialects, printed as text or converted to melior"
+2026-10-27T18:05:23.158485Z,geo-straight-skeleton,0.1.0,0,0,,"Straight skeleton of polygons with holes in f64, pure Rust: robust against simultaneous events, checked against CGAL"
+2026-10-27T18:05:36.871215Z,iridia-mojo,0.1.0,0,0,https://github.com/Kalmarv/iridia,"Translate the GLSL that MojoShader writes from Direct3D 9 shaders to naga modules, for WGSL or SPIR-V output"
+2026-10-27T18:07:48.5851Z,trongoscript-parser,0.1.0,0,0,https://github.com/durable-oss/trongoscript,Nom-based parser for Trongoscript
+2026-10-27T18:07:49.096863Z,trongoscript-stdlib,0.1.0,0,0,https://github.com/durable-oss/trongoscript,Inventory-registered standard library for Trongoscript
+2026-10-27T18:07:50.418013Z,trongoscript,0.1.0,0,0,https://github.com/durable-oss/trongoscript,A YAMLScript-inspired DSL for producing nested data structures
+2026-10-27T18:07:52.298768Z,trongoscript-cli,0.1.0,0,0,https://github.com/durable-oss/trongoscript,Command-line interface for Trongoscript
+2026-10-27T18:14:28.836222Z,hharness-hir,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C0/Stage-1 Harness IR — the HIR/1 dialect (spec §3.1, R-2.1.2; ADR-0015/0016/0017/0018): thirteen entity kinds, two opaque leaves, seven edges, a provenance and version record on every node and e…"
+2026-10-27T18:15:18.496639Z,image-registration,0.1.0,0,0,https://git.pomppervova.nl/wim/image-registration,Find and apply affine transformations.
+2026-10-27T18:15:19.363285Z,ndbioimage-tiff,0.11.3,0,0,https://git.pomppervova.nl/wim/image-tiff,TIFF decoding and encoding library in pure Rust
+2026-10-27T18:16:14.674099Z,ada-md,1.0.0,0,0,https://github.com/junkdog/ada-md,A terminal markdown viewer
+2026-10-27T18:17:40.522729Z,rust-zod,0.1.1,0,0,https://github.com/leandroluk/rust-zod,"Idiomatic, macro-free port of Zod v4 in Rust: pure runtime AST, closure builders, i18n error catalog, and multi-target exporters."
+2026-10-27T18:18:06.032691Z,normalmapai-url-tools,0.1.0,0,0,https://github.com/wangneo276-lgtm/normalmapai-url-tools,"Free normal map generator by NormalMapAI. Convert any photo into a normal map with live 3D preview — plus height, roughness, AO and more. Private in-browser; export for Unity, Unreal, Godot and Blend…"

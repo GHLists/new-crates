@@ -8,54 +8,64 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 17:19 UTC
+## Latest list — 2026-10-27 18:18 UTC
 
-New crates published between 2026-10-27 16:18 UTC and 2026-10-27 17:19 UTC.
+New crates published between 2026-10-27 17:19 UTC and 2026-10-27 18:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-27T17-19-15-360927Z.csv)
+[Full CSV](data/new-crates-2026-10-27T18-18-48-287709Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-27 16:19:34 | [rlmesh-session-core](https://crates.io/crates/rlmesh-session-core) | 0.0.1 | 0 | Part of RLMesh (https://rlmesh.dev). Name reserved; the first release is 0.2.0. |
-| 2026-10-27 16:19:47 | [rlmesh-session](https://crates.io/crates/rlmesh-session) | 0.0.1 | 0 | Part of RLMesh (https://rlmesh.dev). Name reserved; the first release is 0.2.0. |
-| 2026-10-27 16:23:50 | [canonprims-core](https://crates.io/crates/canonprims-core) | 0.1.1 | 0 | Canonical serialization for structured data (RFC 8785 and successors): schemes,… |
-| 2026-10-27 16:33:21 | [sayso-ink](https://crates.io/crates/sayso-ink) | 0.11.0 | 0 | The ink, palette, and appearance types of Sayso: contrast-checked colors for pa… |
-| 2026-10-27 16:33:21 | [sayso-protocol](https://crates.io/crates/sayso-protocol) | 0.11.0 | 0 | The messages of the Sayso Host API and the engine protocol: serde types, error… |
-| 2026-10-27 16:33:22 | [sayso-engine-sdk](https://crates.io/crates/sayso-engine-sdk) | 0.11.0 | 0 | Start a Sayso speech engine from your own app and talk to it over stdio with th… |
-| 2026-10-27 16:33:23 | [sayso-extension](https://crates.io/crates/sayso-extension) | 0.11.0 | 0 | The client of the Sayso Host API: connect to Sayso, send requests, and get even… |
-| 2026-10-27 16:33:24 | [sayso-ui](https://crates.io/crates/sayso-ui) | 0.11.0 | 0 | Sayso's tactile paper design system on GPUI and gpui-kit. |
-| 2026-10-27 16:35:22 | [canonprims-json](https://crates.io/crates/canonprims-json) | 0.1.1 | 0 | Canonical serialization for structured data (RFC 8785 and successors): the RFC… |
-| 2026-10-27 16:37:20 | [tps_cose](https://crates.io/crates/tps_cose) | 0.10.0 | 0 | COSE (RFC 9052) encoder/decoder supporting a selection of crypto algorithms, us… |
-| 2026-10-27 16:39:00 | [tps_cddl](https://crates.io/crates/tps_cddl) | 0.10.0 | 0 | IETF CDDL (RFC 8610, RFC9165, RFC9682) parser, validator, and code generator |
-| 2026-10-27 16:39:46 | [task-tracke-rs](https://crates.io/crates/task-tracke-rs) | 0.1.0 | 0 | A command-line task tracker with short ids, repeating tasks, and undo and redo. |
-| 2026-10-27 16:40:07 | [rescale-core](https://crates.io/crates/rescale-core) | 0.2.0 | 0 | Pure Rust DSP audio engine core (FFT, filter, DRC, WAV I/O) - zero dependency |
-| 2026-10-27 16:40:25 | [tps_cose_tool](https://crates.io/crates/tps_cose_tool) | 0.10.0 | 0 | Command-line tool for COSE_Sign1/COSE_Encrypt0 operations and COSE key manageme… |
-| 2026-10-27 16:41:11 | [tps_edn_tool](https://crates.io/crates/tps_edn_tool) | 0.10.0 | 0 | CBOR diagnostic notation (EDN) encoder/decoder — RFC 8949 §8 |
-| 2026-10-27 16:42:31 | [tree-sitter-cddl](https://crates.io/crates/tree-sitter-cddl) | 0.10.0 | 0 | tree-sitter grammar for CDDL (RFC 8610 / RFC 9165 / RFC 9682 / cddl-modules) |
-| 2026-10-27 16:42:47 | [fount-core](https://crates.io/crates/fount-core) | 0.1.1 | 0 | The backend library for the Fount Linux application launcher |
-| 2026-10-27 16:43:06 | [tree-sitter-edn](https://crates.io/crates/tree-sitter-edn) | 0.10.0 | 0 | tree-sitter grammar for CBOR Extended Diagnostic Notation (EDN, RFC 8610 Append… |
-| 2026-10-27 16:47:00 | [rage-engine-formats](https://crates.io/crates/rage-engine-formats) | 0.1.0 | 0 | Readers for the RAGE engine's GTA V file formats: RPF7 archives, resources, MET… |
-| 2026-10-27 16:47:09 | [anvil-formats](https://crates.io/crates/anvil-formats) | 0.1.0 | 0 | Readers for Ubisoft Anvil engine data: .forge archives and the meshes, textures… |
-| 2026-10-27 16:47:17 | [rme-formats](https://crates.io/crates/rme-formats) | 0.1.0 | 0 | Readers for the game data of Tony Hawk's SHRED (PS3): PAK archives, level meshe… |
-| 2026-10-27 16:47:26 | [frostbite-formats](https://crates.io/crates/frostbite-formats) | 0.1.0 | 0 | Read and write the Frostbite containers and resources of skate. (2025): TOCs, b… |
-| 2026-10-27 16:47:55 | [fount-daemon](https://crates.io/crates/fount-daemon) | 0.1.0 | 0 | A lightweight application launcher backend for Linux |
-| 2026-10-27 16:49:22 | [soroban-breakwater](https://crates.io/crates/soroban-breakwater) | 0.1.0 | 0 | Foundry-style invariant testing for Soroban: stateful fuzzing, shrinking and re… |
-| 2026-10-27 16:49:35 | [breakwater-pack-policy-bypass](https://crates.io/crates/breakwater-pack-policy-bypass) | 0.1.0 | 0 | Breakwater attack pack: invariants and generators for OpenZeppelin smart-accoun… |
-| 2026-10-27 16:49:44 | [breakwater-pack-ttl-archival](https://crates.io/crates/breakwater-pack-ttl-archival) | 0.1.0 | 0 | Breakwater attack pack: invariants and ledger-advance strategies for Soroban TT… |
-| 2026-10-27 16:49:57 | [breakwater-pack-budget-snapshot](https://crates.io/crates/breakwater-pack-budget-snapshot) | 0.1.0 | 0 | Breakwater attack pack: per-handler resource snapshots and a regression gate fo… |
-| 2026-10-27 16:50:09 | [breakwater-cli](https://crates.io/crates/breakwater-cli) | 0.1.0 | 0 | Command-line interface for Breakwater, invariant testing for Soroban: run, expo… |
-| 2026-10-27 16:54:18 | [factoria-derive](https://crates.io/crates/factoria-derive) | 0.1.0 | 0 | Derive macro for the factoria test factory library |
-| 2026-10-27 16:54:22 | [factoria](https://crates.io/crates/factoria) | 0.1.0 | 0 | Async test data factories for Rust (SeaORM, sqlx) |
-| 2026-10-27 16:55:25 | [ccc-harness](https://crates.io/crates/ccc-harness) | 0.3.0 | 0 | Dispatches agent types to Claude Code or Codex subprocesses |
-| 2026-10-27 16:58:08 | [relic-oxide](https://crates.io/crates/relic-oxide) | 0.1.0 | 0 | Send Rust `tracing` spans to New Relic over OpenTelemetry (OTLP), disabled by d… |
-| 2026-10-27 17:03:31 | [pwrs-host](https://crates.io/crates/pwrs-host) | 0.8.0 | 0 | Runs PowerShell 7 inside a Rust process: finds the installed pwsh without start… |
-| 2026-10-27 17:03:53 | [hcrrw4-luminia-runner](https://crates.io/crates/hcrrw4-luminia-runner) | 0.1.1 | 0 | A runtime for a simple language |
-| 2026-10-27 17:03:56 | [hcrrw4-luminia-cli](https://crates.io/crates/hcrrw4-luminia-cli) | 0.1.1 | 0 | A simple CLI for a simple language |
-| 2026-10-27 17:11:37 | [fromsoft-formats](https://crates.io/crates/fromsoft-formats) | 0.1.0 | 0 | Checked readers for Sekiro and Elden Ring data: BHD5 archives, DCX, BND4, FLVER… |
-| 2026-10-27 17:12:06 | [tps_cbor_tui](https://crates.io/crates/tps_cbor_tui) | 0.10.0 | 0 | Terminal (ratatui) workbench for CDDL editing, CBOR/EDN viewing, and COSE sign/… |
-| 2026-10-27 17:12:35 | [tprom](https://crates.io/crates/tprom) | 0.1.0 | 0 | Terminal UI for Prometheus - A modern TUI for monitoring Prometheus servers |
-| 2026-10-27 17:13:22 | [rebirth-ik](https://crates.io/crates/rebirth-ik) | 0.1.0 | 0 | Inverse kinematics in safe Rust: FABRIK for arbitrary bone trees, analytic one/… |
-| 2026-10-27 17:14:38 | [typedenv](https://crates.io/crates/typedenv) | 0.1.0 | 0 | Tiny, zero-dependency typed access to environment variables |
+| 2026-10-27 17:20:27 | [coherynui-core](https://crates.io/crates/coherynui-core) | 1.0.0 | 0 | Core data structures and runtime for CoherynUI CSS Engine |
+| 2026-10-27 17:20:39 | [coherynui-syntax](https://crates.io/crates/coherynui-syntax) | 1.0.0 | 0 | CSS parser and AST tokenizer for CoherynUI |
+| 2026-10-27 17:20:51 | [coherynui-source](https://crates.io/crates/coherynui-source) | 1.0.0 | 0 | Source file loading, span tracking, and line index utilities for CoherynUI |
+| 2026-10-27 17:21:03 | [coherynui-design](https://crates.io/crates/coherynui-design) | 1.0.0 | 0 | Design token models, typography scales, and theme definitions for CoherynUI |
+| 2026-10-27 17:21:15 | [coherynui-diagnostics](https://crates.io/crates/coherynui-diagnostics) | 1.0.0 | 0 | Structured compiler error diagnostic schemas (CY1001-CY3002) for CoherynUI |
+| 2026-10-27 17:25:46 | [fleetring](https://crates.io/crates/fleetring) | 0.0.1 | 0 | Consistent-hashing placement and routing for fleets of SQLite, libSQL, and Turs… |
+| 2026-10-27 17:29:16 | [shoin](https://crates.io/crates/shoin) | 0.1.9 | 0 | A no-clutter terminal Markdown editor with modal editing |
+| 2026-10-27 17:29:25 | [keyhive_codec](https://crates.io/crates/keyhive_codec) | 0.1.0 | 0 | Encoding traits and the Encoded<T> byte container shared by Keyhive crates |
+| 2026-10-27 17:29:35 | [hharness-tls](https://crates.io/crates/hharness-tls) | 0.1.0 | 0 | The workspace's one TLS home (R4.5c; ADR-0365): HTTPS client sessions over the… |
+| 2026-10-27 17:29:35 | [hharness-wire](https://crates.io/crates/hharness-wire) | 0.1.0 | 0 | Transport primitives for the hh-embed/1 boundary: canonical JSON, SHA-256 conte… |
+| 2026-10-27 17:29:36 | [hharness-embed-client-generated](https://crates.io/crates/hharness-embed-client-generated) | 0.1.0 | 0 | The generated, drift-checked hh-embed/1 client (ADR-0179: a generated client, n… |
+| 2026-10-27 17:29:36 | [hharness-provenance](https://crates.io/crates/hharness-provenance) | 0.1.0 | 0 | The C0/Stage-1 provenance & authority model (spec §8.1, R-2.1.5; ADR-0033/0034/… |
+| 2026-10-27 17:29:37 | [hharness-identity](https://crates.io/crates/hharness-identity) | 0.1.0 | 0 | The C0/Stage-1 identity, versioning & artifact-identity model (spec §8.3, R-2.1… |
+| 2026-10-27 17:32:14 | [keyline](https://crates.io/crates/keyline) | 0.1.0 | 0 | Keyline: Keyhive's convergent authority graph of signed delegations and revocat… |
+| 2026-10-27 17:32:26 | [evorule-audit-chain](https://crates.io/crates/evorule-audit-chain) | 0.9.0 | 0 | EvoRule 审计链 no_std 内核——Fact 数据形态 + 稳定 JSON 序列化 + BLAKE3 链哈希单一真相源 |
+| 2026-10-27 17:32:37 | [evid-verify-core](https://crates.io/crates/evid-verify-core) | 0.9.0 | 0 | EVID 移动端审计链独立验证内核：导出/WAL 双面判定 + 锚点封条 v2 验签（no_std） |
+| 2026-10-27 17:32:48 | [evid-verify-wasm](https://crates.io/crates/evid-verify-wasm) | 0.9.0 | 0 | EVID 移动端验证器 wasm 绑定：extern "C" 字节 ABI（免安装主产物）+ wasm-bindgen 绑定面（feature bindgen） |
+| 2026-10-27 17:33:18 | [atomix](https://crates.io/crates/atomix) | 0.2.0 | 0 | typed atomics for any value that fits one atomic, and the locks built on them. |
+| 2026-10-27 17:33:23 | [evorule-mcu](https://crates.io/crates/evorule-mcu) | 0.9.0 | 0 | EvoRule MCU no_std 内核——紧凑规则包 + RAM WAL + tick 时钟 + 同步执行器 |
+| 2026-10-27 17:36:45 | [coherynui-class-opt](https://crates.io/crates/coherynui-class-opt) | 1.0.0 | 0 | Deterministic class name optimizer, mangler, and reverse explain lookup for Coh… |
+| 2026-10-27 17:37:10 | [iridia-interface](https://crates.io/crates/iridia-interface) | 0.1.0 | 0 | A shader program's interface as plain serializable data: varyings, resources, c… |
+| 2026-10-27 17:37:19 | [iridia](https://crates.io/crates/iridia) | 0.1.0 | 0 | Compiled Direct3D shaders as naga modules: the program type the iridia readers… |
+| 2026-10-27 17:37:28 | [iridia-exec](https://crates.io/crates/iridia-exec) | 0.1.0 | 0 | CPU reference executor for lifted Direct3D shaders: run a program on explicit i… |
+| 2026-10-27 17:37:33 | [iridia-dxbc](https://crates.io/crates/iridia-dxbc) | 0.1.0 | 0 | Translate Direct3D Shader Model 4 and 5 bytecode (DXBC, fxc output) to naga mod… |
+| 2026-10-27 17:40:24 | [hharness-embed-schema](https://crates.io/crates/hharness-embed-schema) | 0.1.0 | 0 | The single schema source (CC7) for the hh-embed/1 Stage-0 message set: hello, C… |
+| 2026-10-27 17:41:08 | [srl-core](https://crates.io/crates/srl-core) | 0.1.1 | 0 | The core of srl: store, notes, items, cards, scheduling. No CLI code. |
+| 2026-10-27 17:41:18 | [srl](https://crates.io/crates/srl) | 0.1.1 | 0 | Spaced repetition for the command line. |
+| 2026-10-27 17:46:08 | [qorechain-qoresign](https://crates.io/crates/qorechain-qoresign) | 0.1.0 | 0 | Hybrid secp256k1 + ML-DSA-87 (FIPS 204) signing, verification and Sign In With… |
+| 2026-10-27 17:47:27 | [nepal-messaging-http](https://crates.io/crates/nepal-messaging-http) | 0.1.0 | 0 | Shared HTTP client policy for Nepal messaging provider adapters: pool and keep-… |
+| 2026-10-27 17:49:33 | [coherynui-incremental](https://crates.io/crates/coherynui-incremental) | 1.0.0 | 0 | Incremental dependency graph and invalidation engine for CoherynUI |
+| 2026-10-27 17:50:28 | [coherynui-plugin-api](https://crates.io/crates/coherynui-plugin-api) | 1.0.0 | 0 | Plugin interface and transformation traits for the CoherynUI compiler |
+| 2026-10-27 17:50:33 | [harmos-operations](https://crates.io/crates/harmos-operations) | 0.1.7 | 0 | Portable Harmos built-in operations and optional execution. |
+| 2026-10-27 17:51:45 | [hharness-codegen](https://crates.io/crates/hharness-codegen) | 0.1.0 | 0 | The schema-export → codegen pipeline (ADR-0050 (e), CC7). Reads the single sche… |
+| 2026-10-27 17:58:02 | [iridia-dxil](https://crates.io/crates/iridia-dxil) | 0.1.0 | 0 | Translate Direct3D Shader Model 6 bytecode (DXIL, dxc output) to naga modules,… |
+| 2026-10-27 17:58:06 | [iridia-d3d9](https://crates.io/crates/iridia-d3d9) | 0.1.0 | 0 | Read raw Direct3D 9 ps_3_0 and vs_3_0 shader tokens and translate them to naga… |
+| 2026-10-27 18:01:16 | [coherynui-registry](https://crates.io/crates/coherynui-registry) | 1.0.0 | 0 | CoherynUI machine-readable Component & Recipe Registry with intent-based search |
+| 2026-10-27 18:03:06 | [hharness-ontology](https://crates.io/crates/hharness-ontology) | 0.1.0 | 0 | The C0/Stage-1 ontology and formal model (spec §2, R-2.1.1): the seven-plane ho… |
+| 2026-10-27 18:05:21 | [high-mlir](https://crates.io/crates/high-mlir) | 0.1.0 | 0 | Build MLIR as typed Rust expressions: the arith, affine, linalg, tensor, memref… |
+| 2026-10-27 18:05:23 | [geo-straight-skeleton](https://crates.io/crates/geo-straight-skeleton) | 0.1.0 | 0 | Straight skeleton of polygons with holes in f64, pure Rust: robust against simu… |
+| 2026-10-27 18:05:36 | [iridia-mojo](https://crates.io/crates/iridia-mojo) | 0.1.0 | 0 | Translate the GLSL that MojoShader writes from Direct3D 9 shaders to naga modul… |
+| 2026-10-27 18:07:48 | [trongoscript-parser](https://crates.io/crates/trongoscript-parser) | 0.1.0 | 0 | Nom-based parser for Trongoscript |
+| 2026-10-27 18:07:49 | [trongoscript-stdlib](https://crates.io/crates/trongoscript-stdlib) | 0.1.0 | 0 | Inventory-registered standard library for Trongoscript |
+| 2026-10-27 18:07:50 | [trongoscript](https://crates.io/crates/trongoscript) | 0.1.0 | 0 | A YAMLScript-inspired DSL for producing nested data structures |
+| 2026-10-27 18:07:52 | [trongoscript-cli](https://crates.io/crates/trongoscript-cli) | 0.1.0 | 0 | Command-line interface for Trongoscript |
+| 2026-10-27 18:14:28 | [hharness-hir](https://crates.io/crates/hharness-hir) | 0.1.0 | 0 | The C0/Stage-1 Harness IR — the HIR/1 dialect (spec §3.1, R-2.1.2; ADR-0015/001… |
+| 2026-10-27 18:15:18 | [image-registration](https://crates.io/crates/image-registration) | 0.1.0 | 0 | Find and apply affine transformations. |
+| 2026-10-27 18:15:19 | [ndbioimage-tiff](https://crates.io/crates/ndbioimage-tiff) | 0.11.3 | 0 | TIFF decoding and encoding library in pure Rust |
+| 2026-10-27 18:16:14 | [ada-md](https://crates.io/crates/ada-md) | 1.0.0 | 0 | A terminal markdown viewer |
+| 2026-10-27 18:17:40 | [rust-zod](https://crates.io/crates/rust-zod) | 0.1.1 | 0 | Idiomatic, macro-free port of Zod v4 in Rust: pure runtime AST, closure builder… |
+| 2026-10-27 18:18:06 | [normalmapai-url-tools](https://crates.io/crates/normalmapai-url-tools) | 0.1.0 | 0 | Free normal map generator by NormalMapAI. Convert any photo into a normal map w… |
 
 ## Data source
 
