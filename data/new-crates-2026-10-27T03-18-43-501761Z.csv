@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T02:26:07.134046Z,mcp_intruder,0.6.2,0,0,https://github.com/DeamonDev888/veridy-scanner,"MCP Intruder — serveur Model Context Protocol offensif : expose le moteur de scan de surface (DNS, ports, TLS, HTTP, 39 modules lecture-seule) comme outils MCP (Streamable HTTP, litemcp) + catalogue…"
+2026-10-27T02:33:52.11965Z,multiavatar,1.0.1,0,0,https://github.com/Demon1110/multiavatar-rust,"Deterministic multicultural avatar generator — pure Rust port of multiavatar.js with SVG/PNG/JPEG/GIF/favicon/ICO/data-URI outputs; part library embedded in the binary, no runtime files"
+2026-10-27T02:34:00.49995Z,stonecrab,0.1.0,0,0,https://github.com/themadbotter/stonecrab,"Apache PLC4X, carcinized. An independent, native Rust port of Apache PLC4X: one API for industrial protocols, built for sensor acquisition first."
+2026-10-27T02:46:06.224028Z,sales-tax,0.1.0,0,0,https://github.com/WyattAu/sales-tax,"US sales tax document arithmetic — nexus-gated, destination-sourced, exact rational rates, explicit rounding scope. Rates and taxability are inputs; the rate database is a data service, not a library"
+2026-10-27T02:48:27.233415Z,moondream-rs,0.1.0,0,0,https://github.com/zuramai/moondream-rs,Rust port of the Moondream vision-language model client: ONNX Runtime and candle backends plus an HTTP server
+2026-10-27T02:51:39.41192Z,loonfs-types,0.5.0,0,0,https://github.com/loonfs/loonfs,"Shared LoonFS types: validated ids and paths, HTTP API shapes, and durable-format codecs."
+2026-10-27T03:04:48.332542Z,hush-secrets,0.1.28,0,0,https://github.com/matteo1994/hush,"A placeholder-swap credential proxy that keeps real API keys out of an AI coding agent's environment, context and transcript"
+2026-10-27T03:07:50.800817Z,win-reveal,0.1.0,0,0,https://github.com/jinghu-moon/win-reveal,Windows-only: open a file's containing folder in Explorer and select the item
+2026-10-27T03:08:30.233987Z,eka-ls,0.5.9,0,0,https://github.com/alexlm78/eka,A modern replacement for ls with GNU-compatible output (installs the eka command)
+2026-10-27T03:11:19.398005Z,halo-agent,0.1.0,0,0,https://github.com/halo-space/heart,Halo Agent and Workflow execution kernel
+2026-10-27T03:13:33.264474Z,ashlar-command,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Commands: registry, typed params, one execute chokepoint, discovery"
+2026-10-27T03:13:33.778492Z,ashlar-docs,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Documentation library for agents: folders are categories, markdown files are documents, embedded at build time"
+2026-10-27T03:13:34.245733Z,ashlar-fs,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Files and settings: app dirs, durable atomic writes, keyed settings, recent files"
+2026-10-27T03:13:34.569933Z,ashlar-jobs,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Background jobs: progress, cancel, panic isolation, apply-on-UI-thread"
+2026-10-27T03:13:34.92587Z,ashlar-log,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Headless logging and crash safety: directive filters, stderr + rotating file + in-memory ring, panic hook, launch guard"
+2026-10-27T03:18:41.645493Z,solana-record,0.0.0,0,0,,Initial publish of solana-record
