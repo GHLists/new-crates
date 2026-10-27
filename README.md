@@ -8,30 +8,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 04:19 UTC
+## Latest list — 2026-10-27 05:19 UTC
 
-New crates published between 2026-10-27 03:18 UTC and 2026-10-27 04:19 UTC.
+New crates published between 2026-10-27 04:19 UTC and 2026-10-27 05:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-27T04-19-37-15601Z.csv)
+[Full CSV](data/new-crates-2026-10-27T05-19-34-851298Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-27 03:24:09 | [zk-gpu](https://crates.io/crates/zk-gpu) | 0.1.0 | 0 | Portable GPU MSM and NTT for BN254 (wgpu / WGSL, native + WebGPU) |
-| 2026-10-27 03:25:52 | [bnf_analyzer](https://crates.io/crates/bnf_analyzer) | 0.1.0 | 0 | Configurable source analyzer: lexical rules plus a grammar, with JSON configura… |
-| 2026-10-27 03:27:33 | [buffer-queue](https://crates.io/crates/buffer-queue) | 0.1.0 | 0 | A flexible performant buffer for different use cases like SPSC, MPSC, etc... |
-| 2026-10-27 03:28:48 | [photon-evt-lambda](https://crates.io/crates/photon-evt-lambda) | 0.1.0 | 0 | AWS Lambda helpers for photon-evt: DynamoDB Streams event decode, event-source… |
-| 2026-10-27 03:48:21 | [turbo-luxury-cabin-heat](https://crates.io/crates/turbo-luxury-cabin-heat) | 1.0.0 | 0 | Estimate how hot a parked car gets in UAE summer sun: cabin and surface tempera… |
-| 2026-10-27 03:53:31 | [unicodeit-repl](https://crates.io/crates/unicodeit-repl) | 0.2.2 | 0 | An interactive REPL for unicodeit that copies results to the clipboard |
-| 2026-10-27 04:00:36 | [common-lingua-macros](https://crates.io/crates/common-lingua-macros) | 0.1.0 | 0 | Rust port of common lingua, a language detection model. |
-| 2026-10-27 04:00:40 | [common-lingua](https://crates.io/crates/common-lingua) | 0.1.0 | 0 | Rust port of common lingua, a language detection model. |
-| 2026-10-27 04:11:45 | [cure-dart-ast](https://crates.io/crates/cure-dart-ast) | 0.3.0 | 0 | Lossless Dart token document (Dart 1/2/3 syntax) for the cure simplifier engine |
-| 2026-10-27 04:11:52 | [cure-dart-parser](https://crates.io/crates/cure-dart-parser) | 0.3.0 | 0 | Fault-tolerant Dart lexer and token-document parser (Dart 1/2/3 syntax) for cure |
-| 2026-10-27 04:11:59 | [cure-dart-print](https://crates.io/crates/cure-dart-print) | 0.3.0 | 0 | Comment-preserving Dart source printer/formatter for cure |
-| 2026-10-27 04:12:07 | [cure-dart-simplify](https://crates.io/crates/cure-dart-simplify) | 0.3.0 | 0 | Dart constant folding and structural simplification for cure |
-| 2026-10-27 04:13:05 | [gpudb-api](https://crates.io/crates/gpudb-api) | 7.2.3-0 | 0 | Async client for the Kinetica database |
-| 2026-10-27 04:14:10 | [eqiora-build](https://crates.io/crates/eqiora-build) | 0.1.4 | 0 | Eqiora build-time dependency release projection |
-| 2026-10-27 04:14:18 | [eqiora-io-xml](https://crates.io/crates/eqiora-io-xml) | 0.1.4 | 0 | Bounded VTU and XDMF adapters with shared XML admission for Eqiora |
-| 2026-10-27 04:14:47 | [eqiora-backend-sundials](https://crates.io/crates/eqiora-backend-sundials) | 0.1.4 | 0 | Eqiora L3: residual-native SUNDIALS IDA time adapter |
+| 2026-10-27 04:20:29 | [ashlar-agents](https://crates.io/crates/ashlar-agents) | 0.1.0 | 0 | Connect coding agents to an app: its MCP server in each agent's config, skills… |
+| 2026-10-27 04:20:30 | [ashlar-control](https://crates.io/crates/ashlar-control) | 0.1.0 | 0 | Agent control port: hardened JSON-lines server, client, standard method set |
+| 2026-10-27 04:20:30 | [ashlar-integrations](https://crates.io/crates/ashlar-integrations) | 0.1.0 | 0 | Integrations: downloadable, code-signed tool servers an app installs from a cat… |
+| 2026-10-27 04:20:31 | [ashlar-mcp-http](https://crates.io/crates/ashlar-mcp-http) | 0.1.0 | 0 | MCP over streamable HTTP on loopback: bearer token, Host/Origin checks, a gate,… |
+| 2026-10-27 04:20:31 | [ashlar-native](https://crates.io/crates/ashlar-native) | 0.1.0 | 0 | Native OS features behind one API: dialogs, menus, clipboard, power, notificati… |
+| 2026-10-27 04:23:54 | [hao-il2cpp-runtime](https://crates.io/crates/hao-il2cpp-runtime) | 0.0.1 | 0 | Hook and call into Unity Il2Cpp games from inside the game process |
+| 2026-10-27 04:23:56 | [hao-il2cpp](https://crates.io/crates/hao-il2cpp) | 0.0.1 | 0 | Read Unity Il2Cpp metadata and generate .net proxy assemblies with hao |
+| 2026-10-27 04:23:57 | [hao-il2cpp-unity](https://crates.io/crates/hao-il2cpp-unity) | 0.0.1 | 0 | Typed Unity wrappers for mods of Unity Il2Cpp games |
+| 2026-10-27 04:23:58 | [hao-runtime](https://crates.io/crates/hao-runtime) | 0.0.1 | 0 | Host the .net runtime (CoreCLR or Mono) in a rust process |
+| 2026-10-27 04:24:00 | [hao-runtime-macros](https://crates.io/crates/hao-runtime-macros) | 0.0.1 | 0 | Generate rust bindings to .net assemblies for hao-runtime |
+| 2026-10-27 04:31:10 | [ashlar-mcp](https://crates.io/crates/ashlar-mcp) | 0.1.0 | 0 | MCP server generated from the command registry (stdio), headless or bridged |
+| 2026-10-27 04:41:45 | [ashlar-assistant](https://crates.io/crates/ashlar-assistant) | 0.1.0 | 0 | An in-app AI assistant harness, independent of the model: conversation and tool… |
+| 2026-10-27 04:51:45 | [u18n-ast](https://crates.io/crates/u18n-ast) | 0.1.0 | 0 | Shared source-spanned AST types for u18n schema and locale formats. |
+| 2026-10-27 04:51:46 | [u18n-locale-tag](https://crates.io/crates/u18n-locale-tag) | 0.1.0 | 0 | A borrowed BCP 47 syntax parser and packed locale-key codec. |
+| 2026-10-27 04:51:47 | [u18n-macros](https://crates.io/crates/u18n-macros) | 0.1.0 | 0 | Procedural macro helpers for generated u18n message APIs. |
+| 2026-10-27 04:51:48 | [u18n-locale](https://crates.io/crates/u18n-locale) | 0.1.0 | 0 | A no_std parser for u18n locale catalogs and typed message patterns. |
+| 2026-10-27 04:51:49 | [u18n-schema](https://crates.io/crates/u18n-schema) | 0.1.0 | 0 | A no_std parser for typed u18n schema source files. |
+| 2026-10-27 04:52:15 | [ashlar-cli](https://crates.io/crates/ashlar-cli) | 0.1.0 | 0 | Standard CLI verbs over the command registry |
+| 2026-10-27 05:00:13 | [yog-script-ids](https://crates.io/crates/yog-script-ids) | 0.1.0 | 0 | Yog Script's names, one place each: the System library's types and namespaces,… |
+| 2026-10-27 05:00:54 | [yog-codegen-ys](https://crates.io/crates/yog-codegen-ys) | 0.1.0 | 0 | Yog Script for yog-codegen: its comments, string literals, reserved words and b… |
+| 2026-10-27 05:02:45 | [ashlar-debug](https://crates.io/crates/ashlar-debug) | 0.1.0 | 0 | ashlar-debug: drive a running app's UI from the shell (snapshot, refs, click, w… |
+| 2026-10-27 05:04:07 | [brainglobe-atlasapi](https://crates.io/crates/brainglobe-atlasapi) | 0.1.0 | 0 | Read BrainGlobe atlases (the BrainGlobe Atlas API v3 format). A Rust port of br… |
+| 2026-10-27 05:04:18 | [openmvg-core](https://crates.io/crates/openmvg-core) | 0.1.0 | 0 | Camera models, identifiers, graphs, poses, typed units and deterministic seeds… |
+| 2026-10-27 05:04:20 | [openmvg-ba](https://crates.io/crates/openmvg-ba) | 0.1.0 | 0 | Checked bundle adjustment and nonlinear numerical primitives for OpenMVG-rs |
+| 2026-10-27 05:04:21 | [openmvg-features](https://crates.io/crates/openmvg-features) | 0.1.0 | 0 | Feature detection, description, matching and tracking for OpenMVG-rs |
+| 2026-10-27 05:04:22 | [openmvg-geometry](https://crates.io/crates/openmvg-geometry) | 0.1.0 | 0 | Multiple view geometry solvers, triangulation, averaging and robust estimation… |
+| 2026-10-27 05:04:25 | [openmvg-sfm](https://crates.io/crates/openmvg-sfm) | 0.1.0 | 0 | Incremental and Global Structure from Motion (SfM) engines for OpenMVG-rs |
+| 2026-10-27 05:05:37 | [iroh-fedimint](https://crates.io/crates/iroh-fedimint) | 0.35.0 | 0 | Fedimint's compatibility fork of iroh 0.35: p2p QUIC connections dialed by publ… |
+| 2026-10-27 05:09:16 | [u18n](https://crates.io/crates/u18n) | 0.1.0 | 0 | A no_std runtime for rendering compiled, typed localization catalogs. |
+| 2026-10-27 05:09:17 | [u18n-compiler](https://crates.io/crates/u18n-compiler) | 0.1.0 | 0 | Compile typed schemas and locale catalogs into static Rust localization catalog… |
+| 2026-10-27 05:10:44 | [rostr](https://crates.io/crates/rostr) | 0.1.0 | 0 | AI Model Resource Registry — discover, evaluate, and select AI models |
+| 2026-10-27 05:11:36 | [hsf-core](https://crates.io/crates/hsf-core) | 0.1.0-alpha.1 | 0 | Bounded, independent HSF syntax and generic scene reader |
+| 2026-10-27 05:12:41 | [iyulab-ffi-support](https://crates.io/crates/iyulab-ffi-support) | 0.1.0 | 0 | Plumbing for a C ABI over Rust: status codes, a per-thread last error and last… |
+| 2026-10-27 05:13:13 | [ashlar-obfuscate](https://crates.io/crates/ashlar-obfuscate) | 0.1.0 | 0 | Compile-time string obfuscation: keep build-time values out of a strings dump o… |
+| 2026-10-27 05:13:24 | [u18n-cli](https://crates.io/crates/u18n-cli) | 0.1.0 | 0 | Command-line tools for compiling u18n catalogs, extracting translator context,… |
+| 2026-10-27 05:15:51 | [seabelt](https://crates.io/crates/seabelt) | 0.0.1 | 0 | macOS Seatbelt sandboxing for Rust, without sandbox-exec (name reserved; under… |
+| 2026-10-27 05:17:33 | [ciber_term](https://crates.io/crates/ciber_term) | 0.1.0 | 0 | Next-generation native ANSI terminal control and formatting. |
 
 ## Data source
 

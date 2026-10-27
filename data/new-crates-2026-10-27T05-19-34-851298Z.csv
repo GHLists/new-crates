@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T04:20:29.523486Z,ashlar-agents,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Connect coding agents to an app: its MCP server in each agent's config, skills and rules made from a docs category, install and uninstall"
+2026-10-27T04:20:30.0176Z,ashlar-control,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Agent control port: hardened JSON-lines server, client, standard method set"
+2026-10-27T04:20:30.606777Z,ashlar-integrations,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Integrations: downloadable, code-signed tool servers an app installs from a catalog and runs as MCP servers over stdio, their tools offered to an in-app assistant"
+2026-10-27T04:20:31.033189Z,ashlar-mcp-http,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"MCP over streamable HTTP on loopback: bearer token, Host/Origin checks, a gate, sessions"
+2026-10-27T04:20:31.419449Z,ashlar-native,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Native OS features behind one API: dialogs, menus, clipboard, power, notifications, secrets"
+2026-10-27T04:23:54.904461Z,hao-il2cpp-runtime,0.0.1,0,0,https://github.com/pigeonhands/hao,Hook and call into Unity Il2Cpp games from inside the game process
+2026-10-27T04:23:56.731807Z,hao-il2cpp,0.0.1,0,0,https://github.com/pigeonhands/hao,Read Unity Il2Cpp metadata and generate .net proxy assemblies with hao
+2026-10-27T04:23:57.502239Z,hao-il2cpp-unity,0.0.1,0,0,https://github.com/pigeonhands/hao,Typed Unity wrappers for mods of Unity Il2Cpp games
+2026-10-27T04:23:58.849223Z,hao-runtime,0.0.1,0,0,https://github.com/pigeonhands/hao,Host the .net runtime (CoreCLR or Mono) in a rust process
+2026-10-27T04:24:00.155967Z,hao-runtime-macros,0.0.1,0,0,https://github.com/pigeonhands/hao,Generate rust bindings to .net assemblies for hao-runtime
+2026-10-27T04:31:10.712712Z,ashlar-mcp,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"MCP server generated from the command registry (stdio), headless or bridged"
+2026-10-27T04:41:45.540817Z,ashlar-assistant,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"An in-app AI assistant harness, independent of the model: conversation and tool types, providers (an account backend, Anthropic, OpenAI-compatible), the agent loop with approvals, keys in the OS keyc…"
+2026-10-27T04:51:45.549367Z,u18n-ast,0.1.0,0,0,https://github.com/shaogme/u18n,Shared source-spanned AST types for u18n schema and locale formats.
+2026-10-27T04:51:46.341446Z,u18n-locale-tag,0.1.0,0,0,https://github.com/shaogme/u18n,A borrowed BCP 47 syntax parser and packed locale-key codec.
+2026-10-27T04:51:47.260749Z,u18n-macros,0.1.0,0,0,https://github.com/shaogme/u18n,Procedural macro helpers for generated u18n message APIs.
+2026-10-27T04:51:48.997159Z,u18n-locale,0.1.0,0,0,https://github.com/shaogme/u18n,A no_std parser for u18n locale catalogs and typed message patterns.
+2026-10-27T04:51:49.846318Z,u18n-schema,0.1.0,0,0,https://github.com/shaogme/u18n,A no_std parser for typed u18n schema source files.
+2026-10-27T04:52:15.394485Z,ashlar-cli,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,Standard CLI verbs over the command registry
+2026-10-27T05:00:13.850737Z,yog-script-ids,0.1.0,0,0,,"Yog Script's names, one place each: the System library's types and namespaces, the CLR's member names, units, and where the runtime is on the JVM."
+2026-10-27T05:00:54.384523Z,yog-codegen-ys,0.1.0,0,0,,"Yog Script for yog-codegen: its comments, string literals, reserved words and blocks."
+2026-10-27T05:02:45.67654Z,ashlar-debug,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"ashlar-debug: drive a running app's UI from the shell (snapshot, refs, click, wait, screenshot, scripted UI tests)"
+2026-10-27T05:04:07.625476Z,brainglobe-atlasapi,0.1.0,0,0,https://github.com/eugenehp/brainglobe-rs,Read BrainGlobe atlases (the BrainGlobe Atlas API v3 format). A Rust port of brainglobe-atlasapi.
+2026-10-27T05:04:18.313899Z,openmvg-core,0.1.0,0,0,https://github.com/openMVG/openmvg-rs,"Camera models, identifiers, graphs, poses, typed units and deterministic seeds for OpenMVG-rs"
+2026-10-27T05:04:20.420742Z,openmvg-ba,0.1.0,0,0,https://github.com/openMVG/openmvg-rs,Checked bundle adjustment and nonlinear numerical primitives for OpenMVG-rs
+2026-10-27T05:04:21.719502Z,openmvg-features,0.1.0,0,0,https://github.com/openMVG/openmvg-rs,"Feature detection, description, matching and tracking for OpenMVG-rs"
+2026-10-27T05:04:22.914487Z,openmvg-geometry,0.1.0,0,0,https://github.com/openMVG/openmvg-rs,"Multiple view geometry solvers, triangulation, averaging and robust estimation for OpenMVG-rs"
+2026-10-27T05:04:25.213225Z,openmvg-sfm,0.1.0,0,0,https://github.com/openMVG/openmvg-rs,Incremental and Global Structure from Motion (SfM) engines for OpenMVG-rs
+2026-10-27T05:05:37.563392Z,iroh-fedimint,0.35.0,0,0,https://github.com/fedimint/iroh,Fedimint's compatibility fork of iroh 0.35: p2p QUIC connections dialed by public key
+2026-10-27T05:09:16.382218Z,u18n,0.1.0,0,0,https://github.com/shaogme/u18n,"A no_std runtime for rendering compiled, typed localization catalogs."
+2026-10-27T05:09:17.849129Z,u18n-compiler,0.1.0,0,0,https://github.com/shaogme/u18n,Compile typed schemas and locale catalogs into static Rust localization catalogs.
+2026-10-27T05:10:44.753154Z,rostr,0.1.0,0,0,https://github.com/kookyleo/rostr,"AI Model Resource Registry — discover, evaluate, and select AI models"
+2026-10-27T05:11:36.72118Z,hsf-core,0.1.0-alpha.1,0,0,https://github.com/monozukuri-ai/hsf-core,"Bounded, independent HSF syntax and generic scene reader"
+2026-10-27T05:12:41.665855Z,iyulab-ffi-support,0.1.0,0,0,https://github.com/iyulab/gil,"Plumbing for a C ABI over Rust: status codes, a per-thread last error and last result, a panic guard, (pointer, length) UTF-8 and caller-owned output buffers, and handle rules."
+2026-10-27T05:13:13.707611Z,ashlar-obfuscate,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,Compile-time string obfuscation: keep build-time values out of a strings dump of the binary
+2026-10-27T05:13:24.184933Z,u18n-cli,0.1.0,0,0,https://github.com/shaogme/u18n,"Command-line tools for compiling u18n catalogs, extracting translator context, and reporting coverage."
+2026-10-27T05:15:51.602278Z,seabelt,0.0.1,0,0,https://github.com/hupe1980/seabelt,"macOS Seatbelt sandboxing for Rust, without sandbox-exec (name reserved; under development)"
+2026-10-27T05:17:33.849921Z,ciber_term,0.1.0,0,0,https://github.com/CiberCodes/ciber_term,Next-generation native ANSI terminal control and formatting.
