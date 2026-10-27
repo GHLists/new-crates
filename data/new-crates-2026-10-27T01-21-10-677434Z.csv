@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T00:22:53.289075Z,cronoq-store-sqlite,0.2.0,0,0,https://github.com/synaptiai/cronoq,"SQLite store for cronoq: durable state in a local file, with standby processes and fencing"
+2026-10-27T00:23:03.433455Z,xur-std,0.1.1,0,0,https://github.com/pigeonhands/xur,The standard library of the Xur language
+2026-10-27T00:24:41.191668Z,bboxy450-yarn,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,"A no_std reactor kernel for explicit, compile-checked async orchestration"
+2026-10-27T00:32:27.258603Z,xur-bytecode,0.1.1,0,0,https://github.com/pigeonhands/xur,"The register-based bytecode of the Xur language, and lowering to it"
+2026-10-27T00:33:31.353491Z,cronoq-server,0.2.0,0,0,https://github.com/synaptiai/cronoq,gRPC/HTTP server for the cronoq scheduler with remote workers
+2026-10-27T00:34:41.760457Z,bboxy450-doc,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,Native Markdown documents on bboxy's retained UI and text pipeline
+2026-10-27T00:35:31.0824Z,verdict-gate,0.0.0,0,0,https://github.com/scottconverse/verdict,"Verdict: the agent writes claims, never verdicts. Command-line tool (vdt)."
+2026-10-27T00:42:57.571061Z,xur-jit,0.1.1,0,0,https://github.com/pigeonhands/xur,A Cranelift JIT for Xur bytecode (not implemented yet)
+2026-10-27T00:44:41.239619Z,bboxy450-keychain,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,Explicit identity custody backend selection
+2026-10-27T00:48:05.483169Z,countyroot-verify,0.1.0,0,0,https://github.com/JG21OX/countyroot,"Verify CountyRoot parcel proofs (leaf v2) against on-chain CountyRoot roots inside any Solana program, without CPI"
+2026-10-27T00:52:27.573113Z,xur-vm,0.1.1,0,0,https://github.com/pigeonhands/xur,The bytecode interpreter of the Xur language
+2026-10-27T00:53:03.538667Z,libmap,0.1.0,0,0,https://github.com/LoganBaird-Levenick/libmap,"System-wide ELF dependency index: reverse deps, symbol-version ABI checks, and removal impact"
+2026-10-27T00:54:41.726434Z,bboxy450-render,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,"Retained GPU rendering, terminal text shaping and compositor primitives"
+2026-10-27T01:04:42.317745Z,bboxy450-book,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,"Native component gallery, document rendering and visual parity tools"
+2026-10-27T01:06:56.200347Z,codex-commit,0.2.0,0,0,https://github.com/syz51/codex-commit,"Commit Git changes with Codex Luna at Max reasoning, with optional push"
+2026-10-27T01:14:42.199106Z,bboxy450-mux,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,"Local terminal sessions, durable messaging and knowledge-provider coordination"
