@@ -8,47 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 13:21 UTC
+## Latest list — 2026-10-27 14:18 UTC
 
-New crates published between 2026-10-27 12:18 UTC and 2026-10-27 13:21 UTC.
+New crates published between 2026-10-27 13:21 UTC and 2026-10-27 14:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-27T13-21-17-059731Z.csv)
+[Full CSV](data/new-crates-2026-10-27T14-18-38-328357Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-27 12:19:24 | [torsor](https://crates.io/crates/torsor) | 0.0.1 | 0 | PoC programmable protocol proxy and traffic routing server built on orbifold. |
-| 2026-10-27 12:20:42 | [tano-native](https://crates.io/crates/tano-native) | 0.8.1 | 0 | Tano local filesystem, search and desktop host core |
-| 2026-10-27 12:21:36 | [format198x-dragon-data-dragon-disk](https://crates.io/crates/format198x-dragon-data-dragon-disk) | 0.1.0 | 0 | Dragon VDK disk images — dependency-free decoding and encoding. |
-| 2026-10-27 12:23:38 | [pyinput](https://crates.io/crates/pyinput) | 0.1.1 | 0 | A simple python-like input macro for Rust |
-| 2026-10-27 12:23:47 | [freeoxide-gpui-form-derive](https://crates.io/crates/freeoxide-gpui-form-derive) | 0.11.0 | 0 | Macro crate for gpui-form |
-| 2026-10-27 12:31:42 | [format198x-dragon-data-dragon-pak](https://crates.io/crates/format198x-dragon-data-dragon-pak) | 0.1.0 | 0 | Dragon cartridge ROM and PC-Dragon PAK images — dependency-free decoding and en… |
-| 2026-10-27 12:31:54 | [corundum-framework-update](https://crates.io/crates/corundum-framework-update) | 0.3.0 | 0 | Find newer GitHub releases of an app's binary, and replace it with one |
-| 2026-10-27 12:33:16 | [corundum-framework-build](https://crates.io/crates/corundum-framework-build) | 0.3.0 | 0 | Build-time helpers for corundum apps: the app icon embedded in a Windows execut… |
-| 2026-10-27 12:33:45 | [freeoxide-gpui-form](https://crates.io/crates/freeoxide-gpui-form) | 0.11.0 | 0 | The gpui-form crate |
-| 2026-10-27 12:36:25 | [velvet-otter-lantern](https://crates.io/crates/velvet-otter-lantern) | 3.0.0 | 0 | Imprime un mensaje de hola por pantalla. |
-| 2026-10-27 12:41:47 | [format198x-jupiter-ace-ace](https://crates.io/crates/format198x-jupiter-ace-ace) | 0.1.0 | 0 | Jupiter Ace .ace snapshots — dependency-free decoding and encoding of the ACE32… |
-| 2026-10-27 12:43:45 | [freeoxide-gpui-form-prototyping-core](https://crates.io/crates/freeoxide-gpui-form-prototyping-core) | 0.11.0 | 0 | Consumer-facing prototyping utilities for gpui-form. |
-| 2026-10-27 12:45:39 | [arkitekt-mesh-smoltcp](https://crates.io/crates/arkitekt-mesh-smoltcp) | 0.9.0 | 0 | arkitekt-mesh's fork of smoltcp 0.13.1, for its fast-tcp mode: upstream's behav… |
-| 2026-10-27 12:46:32 | [homura-models](https://crates.io/crates/homura-models) | 0.4.0 | 0 | Models for homura that read Hugging Face repositories as they are |
-| 2026-10-27 12:47:35 | [che-sync-protocol](https://crates.io/crates/che-sync-protocol) | 0.1.0 | 0 | Backend-independent offline synchronization protocol for che-orm |
-| 2026-10-27 12:49:41 | [wgpu-dmabuf](https://crates.io/crates/wgpu-dmabuf) | 0.1.0 | 0 | Linux dma-buf interop for wgpu: import a dmabuf as a wgpu::Texture, export a wg… |
-| 2026-10-27 12:50:31 | [neurostats](https://crates.io/crates/neurostats) | 0.2.0 | 0 | no_std, WASM-ready neuroimaging statistics: TFCE enhancement over masked-volume… |
-| 2026-10-27 12:51:52 | [format198x-memotech-mtx-mtx](https://crates.io/crates/format198x-memotech-mtx-mtx) | 0.1.0 | 0 | Memotech MTX .mtx tape images and .RUN programs — dependency-free decoding and… |
-| 2026-10-27 12:52:56 | [che-sync](https://crates.io/crates/che-sync) | 0.1.0 | 0 | Durable offline-first synchronization engine for che-orm |
-| 2026-10-27 12:53:50 | [talechime-kokoro](https://crates.io/crates/talechime-kokoro) | 0.1.0 | 0 | Native Kokoro inference from official weights for Talechime |
-| 2026-10-27 12:54:33 | [ohos-device-sys](https://crates.io/crates/ohos-device-sys) | 0.1.0 | 0 | OpenHarmony's device sys binding for rust |
-| 2026-10-27 12:54:37 | [ohos-device-binding](https://crates.io/crates/ohos-device-binding) | 0.1.0 | 0 | OpenHarmony's device info binding for rust |
-| 2026-10-27 13:02:00 | [format198x-sinclair-zx-spectrum-rzx](https://crates.io/crates/format198x-sinclair-zx-spectrum-rzx) | 0.1.0 | 0 | ZX Spectrum RZX input recordings — decoding and encoding of blocks and frame st… |
-| 2026-10-27 13:07:19 | [ratriyx](https://crates.io/crates/ratriyx) | 0.1.0 | 0 | Cross-platform per-process privacy routing through Tor and Privoxy |
-| 2026-10-27 13:08:31 | [gtk-mcp-protocol](https://crates.io/crates/gtk-mcp-protocol) | 0.1.1 | 0 | Wire protocol types shared by the gtk-mcp broker and the in-app agent |
-| 2026-10-27 13:08:34 | [gtk-mcp](https://crates.io/crates/gtk-mcp) | 0.1.1 | 0 | MCP server for inspecting and driving GTK4/libadwaita apps from inside the proc… |
-| 2026-10-27 13:08:35 | [gtk-mcp-agent](https://crates.io/crates/gtk-mcp-agent) | 0.1.1 | 0 | In-process agent that lets the gtk-mcp MCP server inspect and drive a GTK4 app |
-| 2026-10-27 13:09:12 | [glasspane](https://crates.io/crates/glasspane) | 0.2.0 | 0 | A tenant Wayland compositor as a library: hosts Wayland clients and hands you o… |
-| 2026-10-27 13:12:05 | [format198x-sinclair-zx-spectrum-sna](https://crates.io/crates/format198x-sinclair-zx-spectrum-sna) | 0.1.0 | 0 | ZX Spectrum .sna snapshots — dependency-free decoding and encoding of the 48K a… |
-| 2026-10-27 13:17:15 | [snowflake-core](https://crates.io/crates/snowflake-core) | 0.1.0 | 0 | Snowflake SQL API client: login, query, chunk download. No Arrow dependency. |
-| 2026-10-27 13:17:44 | [snowflake-arrow](https://crates.io/crates/snowflake-arrow) | 0.1.0 | 0 | Strict Snowflake rowtype to Arrow conversion for JSON and Arrow IPC results. |
-| 2026-10-27 13:18:08 | [snowflake-adbc](https://crates.io/crates/snowflake-adbc) | 0.1.0 | 0 | ADBC driver for Snowflake, implemented on snowflake-core. |
-| 2026-10-27 13:18:32 | [snowflake-adbc-ffi](https://crates.io/crates/snowflake-adbc-ffi) | 0.1.0 | 0 | C ABI export of the Snowflake ADBC driver. |
+| 2026-10-27 13:21:36 | [bifti](https://crates.io/crates/bifti) | 0.1.0 | 0 | Load, save and resample BIfTI MRI simulation phantoms (JSON + NIfTI) |
+| 2026-10-27 13:22:12 | [format198x-sinclair-zx-spectrum-szx](https://crates.io/crates/format198x-sinclair-zx-spectrum-szx) | 0.1.0 | 0 | ZX Spectrum SZX (ZX-State) snapshots — decoding and encoding of the chunk conta… |
+| 2026-10-27 13:23:07 | [neco-quotient-encoding](https://crates.io/crates/neco-quotient-encoding) | 0.1.0 | 0 | 証明書の正規 JSON の符号化と SHA-256 ダイジェスト |
+| 2026-10-27 13:23:10 | [neco-quotient-certificate](https://crates.io/crates/neco-quotient-certificate) | 0.1.0 | 0 | 観測による同一視の証明書を期待値と照合する |
+| 2026-10-27 13:23:14 | [neco-quotient-retention](https://crates.io/crates/neco-quotient-retention) | 0.1.0 | 0 | 宣言された利用と復元可能性から、商の値を保持するか実体化解除するかを判定する |
+| 2026-10-27 13:28:24 | [imposter](https://crates.io/crates/imposter) | 0.1.0 | 0 | A zero-dependency CLI that fakes a Claude Code session so you look busy. Satire. |
+| 2026-10-27 13:29:06 | [substrate-data-derive](https://crates.io/crates/substrate-data-derive) | 0.1.0 | 0 | #[derive(Schema)] for substrate-data. |
+| 2026-10-27 13:29:21 | [substrate-data](https://crates.io/crates/substrate-data) | 0.1.0 | 0 | One data model, text syntax, binary form, packed frames and schema system — for… |
+| 2026-10-27 13:30:45 | [nuvek-core](https://crates.io/crates/nuvek-core) | 1.0.0 | 0 | Portable mechanism for small operational tools: environment primitives, a harde… |
+| 2026-10-27 13:31:07 | [nuvek-chroma](https://crates.io/crates/nuvek-chroma) | 1.0.0 | 0 | ChromaDB v2 client with Ollama embeddings, a scoped semantic cache and HyDE. En… |
+| 2026-10-27 13:31:31 | [nuvek-neo4j](https://crates.io/crates/nuvek-neo4j) | 1.0.0 | 0 | Read-only Neo4j Bolt client with a client-side write-clause guard and bounded q… |
+| 2026-10-27 13:31:35 | [nuvek-ollama](https://crates.io/crates/nuvek-ollama) | 1.0.0 | 0 | Local Ollama client: summarization, grammar-constrained JSON extraction, and cl… |
+| 2026-10-27 13:32:17 | [format198x-sinclair-zx-spectrum-z80](https://crates.io/crates/format198x-sinclair-zx-spectrum-z80) | 0.1.0 | 0 | ZX Spectrum .z80 snapshots — dependency-free decoding and encoding of versions… |
+| 2026-10-27 13:41:22 | [simdriver-cli](https://crates.io/crates/simdriver-cli) | 0.1.3 | 0 | Drive an iOS simulator from the command line: see the screen, tap, type, run fl… |
+| 2026-10-27 13:42:23 | [format198x-sinclair-zx80-o](https://crates.io/crates/format198x-sinclair-zx80-o) | 0.1.0 | 0 | Sinclair ZX80 .o/.80 tape images — dependency-free decoding and encoding. |
+| 2026-10-27 13:45:41 | [bauherr](https://crates.io/crates/bauherr) | 0.0.1 | 0 | Open-source software factory: describe what you need, Bauherr builds it. |
+| 2026-10-27 13:46:08 | [csaf-common](https://crates.io/crates/csaf-common) | 0.5.1 | 0 | This crate proves functionality to work with CSAF files. |
+| 2026-10-27 13:51:43 | [oxiron](https://crates.io/crates/oxiron) | 0.1.0 | 0 | A lightweight, zero-dependency utility library for Rust. |
+| 2026-10-27 13:52:29 | [format198x-sinclair-zx81-p](https://crates.io/crates/format198x-sinclair-zx81-p) | 0.1.0 | 0 | Sinclair ZX81 .p/.p81 tape images — dependency-free decoding and encoding. |
+| 2026-10-27 14:02:05 | [agenticon](https://crates.io/crates/agenticon) | 0.1.0 | 0 | agenticon is a library built around custom generation of identicon images for A… |
+| 2026-10-27 14:04:28 | [slip39-core](https://crates.io/crates/slip39-core) | 0.1.0 | 0 | A minimal implementation of SLIP-39, Shamir's Secret Sharing for mnemonic codes |
+| 2026-10-27 14:06:01 | [anne-de-breuil](https://crates.io/crates/anne-de-breuil) | 0.4.0 | 0 | Listening-port surface enumeration correlated with process, service, and firewa… |
+| 2026-10-27 14:06:50 | [anne-de-breuil-cli](https://crates.io/crates/anne-de-breuil-cli) | 0.4.0 | 0 | Listening-port surface enumeration correlated with process, service, and firewa… |
+| 2026-10-27 14:09:43 | [caretly](https://crates.io/crates/caretly) | 0.1.0 | 0 | Client for the Caretly API: render ZPL labels to PDF or PNG. |
+| 2026-10-27 14:14:17 | [tm-store](https://crates.io/crates/tm-store) | 0.8.0 | 0 | Tiramemsu storage trait: typed ReadStore/WriteStore, one transaction engine ove… |
+| 2026-10-27 14:14:21 | [tm-redb](https://crates.io/crates/tm-redb) | 0.8.0 | 0 | Tiramemsu storage backend on redb: six live permutations, exact statistics and… |
+| 2026-10-27 14:14:25 | [tm-native](https://crates.io/crates/tm-native) | 0.8.0 | 0 | Tiramemsu native query runner: the whole IR over the storage traits, with hybri… |
+| 2026-10-27 14:14:30 | [tm-bench](https://crates.io/crates/tm-bench) | 0.8.0 | 0 | Tiramemsu backend benchmark harness: seeded WatDiv-style and cyclic workloads,… |
+| 2026-10-27 14:14:33 | [tiramemsu-cli](https://crates.io/crates/tiramemsu-cli) | 0.8.0 | 0 | The `tm` command line for tiramemsu files: create on SQLite or redb, inspect, q… |
 
 ## Data source
 

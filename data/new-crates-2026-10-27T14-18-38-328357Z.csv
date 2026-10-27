@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T13:21:36.581882Z,bifti,0.1.0,0,0,https://github.com/mrx-org/bifti-phantoms,"Load, save and resample BIfTI MRI simulation phantoms (JSON + NIfTI)"
+2026-10-27T13:22:12.051174Z,format198x-sinclair-zx-spectrum-szx,0.1.0,0,0,https://github.com/format198x/format198x,"ZX Spectrum SZX (ZX-State) snapshots — decoding and encoding of the chunk container and its machine-state chunks, compressed RAM pages included."
+2026-10-27T13:23:07.631311Z,neco-quotient-encoding,0.1.0,0,0,https://github.com/barineco/neco-quotient,証明書の正規 JSON の符号化と SHA-256 ダイジェスト
+2026-10-27T13:23:10.953229Z,neco-quotient-certificate,0.1.0,0,0,https://github.com/barineco/neco-quotient,観測による同一視の証明書を期待値と照合する
+2026-10-27T13:23:14.236398Z,neco-quotient-retention,0.1.0,0,0,https://github.com/barineco/neco-quotient,宣言された利用と復元可能性から、商の値を保持するか実体化解除するかを判定する
+2026-10-27T13:28:24.191753Z,imposter,0.1.0,0,0,https://github.com/partrita/imposter-cli,A zero-dependency CLI that fakes a Claude Code session so you look busy. Satire.
+2026-10-27T13:29:06.251291Z,substrate-data-derive,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Data,#[derive(Schema)] for substrate-data.
+2026-10-27T13:29:21.072286Z,substrate-data,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Data,"One data model, text syntax, binary form, packed frames and schema system — for any program's files, saves and wire messages."
+2026-10-27T13:30:45.18408Z,nuvek-core,1.0.0,0,0,https://github.com/jean1880/nuvek-core,"Portable mechanism for small operational tools: environment primitives, a hardened SSH runner, secret scrubbing with a configurable secret-surface contract, a journald audit logger, Prometheus textfi…"
+2026-10-27T13:31:07.426226Z,nuvek-chroma,1.0.0,0,0,https://github.com/jean1880/nuvek-core,"ChromaDB v2 client with Ollama embeddings, a scoped semantic cache and HyDE. Endpoints, models and tenant path are supplied by the caller."
+2026-10-27T13:31:31.219074Z,nuvek-neo4j,1.0.0,0,0,https://github.com/jean1880/nuvek-core,Read-only Neo4j Bolt client with a client-side write-clause guard and bounded queries. Connection settings are supplied by the caller.
+2026-10-27T13:31:35.750863Z,nuvek-ollama,1.0.0,0,0,https://github.com/jean1880/nuvek-core,"Local Ollama client: summarization, grammar-constrained JSON extraction, and closed-question decisions with log-probability confidence. Endpoint and model names are supplied by the caller."
+2026-10-27T13:32:17.817597Z,format198x-sinclair-zx-spectrum-z80,0.1.0,0,0,https://github.com/format198x/format198x,ZX Spectrum .z80 snapshots — dependency-free decoding and encoding of versions 1 to 3 and their ED ED compression.
+2026-10-27T13:41:22.538105Z,simdriver-cli,0.1.3,0,0,,"Drive an iOS simulator from the command line: see the screen, tap, type, run flows"
+2026-10-27T13:42:23.46223Z,format198x-sinclair-zx80-o,0.1.0,0,0,https://github.com/format198x/format198x,Sinclair ZX80 .o/.80 tape images — dependency-free decoding and encoding.
+2026-10-27T13:45:41.403522Z,bauherr,0.0.1,0,0,https://github.com/getbauherr/bauherr,"Open-source software factory: describe what you need, Bauherr builds it."
+2026-10-27T13:46:08.448688Z,csaf-common,0.5.1,0,0,https://github.com/csaf-rs/csaf,This crate proves functionality to work with CSAF files.
+2026-10-27T13:51:43.818097Z,oxiron,0.1.0,0,0,https://github.com/oxiron-rs/oxiron,"A lightweight, zero-dependency utility library for Rust."
+2026-10-27T13:52:29.163313Z,format198x-sinclair-zx81-p,0.1.0,0,0,https://github.com/format198x/format198x,Sinclair ZX81 .p/.p81 tape images — dependency-free decoding and encoding.
+2026-10-27T14:02:05.372122Z,agenticon,0.1.0,0,0,https://github.com/cryptopatrick/agenticon,agenticon is a library built around custom generation of identicon images for AI agents.
+2026-10-27T14:04:28.10781Z,slip39-core,0.1.0,0,0,https://github.com/ironbirdlabs/slip39-core,"A minimal implementation of SLIP-39, Shamir's Secret Sharing for mnemonic codes"
+2026-10-27T14:06:01.909893Z,anne-de-breuil,0.4.0,0,0,https://github.com/greysquirr3l/anne_de_breuil,"Listening-port surface enumeration correlated with process, service, and firewall policy."
+2026-10-27T14:06:50.087835Z,anne-de-breuil-cli,0.4.0,0,0,https://github.com/greysquirr3l/anne_de_breuil,"Listening-port surface enumeration correlated with process, service, and firewall policy."
+2026-10-27T14:09:43.992189Z,caretly,0.1.0,0,0,https://github.com/jaapieaapie1/zpl,Client for the Caretly API: render ZPL labels to PDF or PNG.
+2026-10-27T14:14:17.750886Z,tm-store,0.8.0,0,0,https://github.com/Volland/tiramemsu,"Tiramemsu storage trait: typed ReadStore/WriteStore, one transaction engine over it, and an in-memory reference store"
+2026-10-27T14:14:21.980767Z,tm-redb,0.8.0,0,0,https://github.com/Volland/tiramemsu,"Tiramemsu storage backend on redb: six live permutations, exact statistics and an FTS5-compatible text index"
+2026-10-27T14:14:25.907643Z,tm-native,0.8.0,0,0,https://github.com/Volland/tiramemsu,"Tiramemsu native query runner: the whole IR over the storage traits, with hybrid and worst-case-optimal joins"
+2026-10-27T14:14:30.504468Z,tm-bench,0.8.0,0,0,https://github.com/Volland/tiramemsu,"Tiramemsu backend benchmark harness: seeded WatDiv-style and cyclic workloads, result checks before timing, honest reports"
+2026-10-27T14:14:33.693511Z,tiramemsu-cli,0.8.0,0,0,https://github.com/Volland/tiramemsu,"The `tm` command line for tiramemsu files: create on SQLite or redb, inspect, query, import, export, convert and compact"
