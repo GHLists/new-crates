@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T14:23:47.103763Z,rsint,0.1.0,0,0,,"Mechanical C→Rust transliteration of libcint (analytical Gaussian integrals), generated with c2rust"
+2026-10-27T14:24:17.75111Z,frame-agent-connectors,0.1.1,0,0,https://github.com/poziel/frame-server,Explicit local agent connectors for Frame applications
+2026-10-27T14:24:18.259591Z,frame-terminal,0.1.1,0,0,https://github.com/poziel/frame-server,Host-independent PTY terminal engine for Frame applications
+2026-10-27T14:40:35.549321Z,wg-update-client,1.0.0,0,0,https://github.com/gabrielhamel/wg-launcher,A reusable Rust client for the Wargaming Update Service
+2026-10-27T14:40:38.41532Z,wg-launcher-cli,1.0.0,0,0,https://github.com/gabrielhamel/wg-launcher,Command-line launcher for Wargaming game assets
+2026-10-27T14:43:00.811991Z,rustytm,1.1.0,0,0,https://github.com/hansipie/RustyTM,"Task manager for Linux in Rust: processes, performance, sensors, connections, drivers, disk space, benchmarks, flight recorder"
+2026-10-27T14:43:53.027912Z,fdroid-watch,0.1.0,0,0,https://github.com/software-ace/fdroid-watch,Terminal dashboard showing where each release of an F-Droid app is: tagged → picked up by the bot → built → live on f-droid.org
+2026-10-27T14:44:46.100161Z,wg-update-service,1.0.0,0,0,https://github.com/gabrielhamel/wg-launcher,File-backed WGUS-compatible update service
+2026-10-27T14:45:06.766148Z,primase-oozextract,0.5.6,0,0,https://github.com/Kalmarv/primase-oozextract,"Pure-Rust Oodle decompressor: Kraken, Mermaid, Selkie, Leviathan, LZNA, Bitknit and LZB16"
+2026-10-27T14:45:17.716502Z,primase-naga,30.0.1,0,0,https://github.com/Kalmarv/primase-naga,"naga 30.0.1 (the wgpu project's shader translator and validator) with three additions: WGSL output of ray queries, an optional result for ImageAtomic, and Exchange on 32-bit images"
+2026-10-27T14:46:17.929041Z,primase-testdata,0.1.0,0,0,https://github.com/Kalmarv/primase-testdata,"Declare the game installs, tools and reference outputs your tests read; one TOML file per machine says where they are, and unconfigured inputs skip"
+2026-10-27T14:50:12.008629Z,omgbase-git-adapter,0.2.0,0,0,https://github.com/omgbase/omgbase,"omgbase git history provider: the checkpoint worker that builds commits in a bare repository from the change feed, the git-backed history reader and the git plumbing wrapper (spec/store §5.12) — Rust…"
+2026-10-27T14:56:32.361153Z,primase-foundations,0.1.0,0,0,https://github.com/Kalmarv/primase-foundations,"Checked byte readers, game-file hashes, vertex decoding, texture sampling and the compression codecs (LZ4, deflate, zstd, LZO2A, Oodle) game files use"
+2026-10-27T14:56:43.539027Z,dxcontainer,0.1.0,0,0,https://github.com/Kalmarv/dx,"Parser for the DXBC container that holds Direct3D shader bytecode (DXBC and DXIL, Shader Model 4 to 6): reads the part directory and computes the digest"
+2026-10-27T14:56:48.40948Z,dxbc-reader,0.1.0,0,0,https://github.com/Kalmarv/dx,"DXBC parser: reads Direct3D 10/11 shader bytecode (Shader Model 4 and 5) into typed declarations and instructions, with RDEF reflection and signatures"
+2026-10-27T14:56:56.796475Z,ooidget,0.0.0,0,0,https://github.com/Ooidget/ooidget,"Ooidget: an open spec for interactive UI components and apps, drawn alike on every platform. Placeholder; work in progress."
+2026-10-27T14:59:39.746886Z,falcon-pqc,0.1.0,0,0,,Rust implementation of Falcon post-quantum signatures; no cryptographic functionality yet
+2026-10-27T15:04:46.773129Z,hatls-proto,0.1.0,0,0,https://github.com/Hinsir-zxc/http-api-tls-sdk,Generated protobuf types for the http-api-tls-sdk v1 wire protocol
+2026-10-27T15:08:22.407546Z,hatls-core,0.1.0,0,0,https://github.com/Hinsir-zxc/http-api-tls-sdk,"http-api-tls-sdk protocol core: session keys, canonical AAD, transcripts, replay window"
+2026-10-27T15:09:01.626419Z,hatls-client,0.1.0,0,0,https://github.com/Hinsir-zxc/http-api-tls-sdk,http-api-tls-sdk client: transport-agnostic secure channel (handshake + encrypted exchange)
+2026-10-27T15:09:35.128732Z,data-genie,0.1.1,0,0,https://github.com/pujansrt/data-genie-rs.git,"High-performance, streaming-first ETL engine in Rust"
+2026-10-27T15:09:44.663042Z,hatls-server,0.1.0,0,0,https://github.com/Hinsir-zxc/http-api-tls-sdk,http-api-tls-sdk server: framework-agnostic handshake + secure-envelope engine (trait-injected IO)
+2026-10-27T15:09:54.498021Z,hatls-client-http,0.1.0,0,0,https://github.com/Hinsir-zxc/http-api-tls-sdk,http-api-tls-sdk client HTTP transport adapter (reqwest + rustls)
+2026-10-27T15:12:34.037833Z,hatls-server-axum,0.1.0,0,0,https://github.com/Hinsir-zxc/http-api-tls-sdk,http-api-tls-sdk axum adapter: handshake routes + secure_channel middleware
+2026-10-27T15:12:59.517449Z,waf-capture,1.0.0,0,0,https://github.com/0x00spor3/Light-WAF,"Request capture for Light WAF: buffers full denied requests off the datapath and ships them to the control plane for drill-down. Opt-in, with redaction."
+2026-10-27T15:13:01.532306Z,waf-state-redis,1.0.0,0,0,https://github.com/0x00spor3/Light-WAF,"Distributed state for Light WAF over Redis: cluster-wide rate limiting, IP reputation and a shared certificate store."
+2026-10-27T15:13:09.051399Z,waf-schema-enforcement,1.0.0,0,0,https://github.com/0x00spor3/Light-WAF,"Advanced detection modules for Light WAF: GraphQL and gRPC schema enforcement, OpenAPI positive security, bot detection."
+2026-10-27T15:13:09.525447Z,waf-threatintel,1.0.0,0,0,https://github.com/0x00spor3/Light-WAF,Threat intelligence for Light WAF: reputation feeds and a cluster-wide IP-reputation detection module.
+2026-10-27T15:13:09.929578Z,waf-wasm-signing,1.0.0,0,0,https://github.com/0x00spor3/Light-WAF,Signed WASM plugins for Light WAF: verifies a minisign signature before handing the plugin to the Proxy-Wasm runtime.
+2026-10-27T15:14:01.577617Z,covenant-data,0.2.1,0,0,https://github.com/lucheeseng827/covenant,"Data-contract enforcement runtime: one compiled contract, run at every boundary the data crosses. `covenant check` gates files in CI (NDJSON/CSV/Parquet), `covenant gate` is a stdin-to-stdout stream…"
+2026-10-27T15:16:42.671014Z,wfreq,0.1.0,0,0,https://github.com/yashksaini-coder/wordfreq,"Show the top N most frequent words in .txt, .md, .pdf and .docx files, folders or stdin"
+2026-10-27T15:17:48.103257Z,phenocal,0.1.2,0,0,https://github.com/genpat-it/phenocal,"Genome-anchored calibration of a continuous phenotype across cohorts/batches, with uncertainty-propagated probabilistic labels."

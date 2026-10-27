@@ -8,43 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 14:18 UTC
+## Latest list — 2026-10-27 15:20 UTC
 
-New crates published between 2026-10-27 13:21 UTC and 2026-10-27 14:18 UTC.
+New crates published between 2026-10-27 14:18 UTC and 2026-10-27 15:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-27T14-18-38-328357Z.csv)
+[Full CSV](data/new-crates-2026-10-27T15-20-31-523559Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-27 13:21:36 | [bifti](https://crates.io/crates/bifti) | 0.1.0 | 0 | Load, save and resample BIfTI MRI simulation phantoms (JSON + NIfTI) |
-| 2026-10-27 13:22:12 | [format198x-sinclair-zx-spectrum-szx](https://crates.io/crates/format198x-sinclair-zx-spectrum-szx) | 0.1.0 | 0 | ZX Spectrum SZX (ZX-State) snapshots — decoding and encoding of the chunk conta… |
-| 2026-10-27 13:23:07 | [neco-quotient-encoding](https://crates.io/crates/neco-quotient-encoding) | 0.1.0 | 0 | 証明書の正規 JSON の符号化と SHA-256 ダイジェスト |
-| 2026-10-27 13:23:10 | [neco-quotient-certificate](https://crates.io/crates/neco-quotient-certificate) | 0.1.0 | 0 | 観測による同一視の証明書を期待値と照合する |
-| 2026-10-27 13:23:14 | [neco-quotient-retention](https://crates.io/crates/neco-quotient-retention) | 0.1.0 | 0 | 宣言された利用と復元可能性から、商の値を保持するか実体化解除するかを判定する |
-| 2026-10-27 13:28:24 | [imposter](https://crates.io/crates/imposter) | 0.1.0 | 0 | A zero-dependency CLI that fakes a Claude Code session so you look busy. Satire. |
-| 2026-10-27 13:29:06 | [substrate-data-derive](https://crates.io/crates/substrate-data-derive) | 0.1.0 | 0 | #[derive(Schema)] for substrate-data. |
-| 2026-10-27 13:29:21 | [substrate-data](https://crates.io/crates/substrate-data) | 0.1.0 | 0 | One data model, text syntax, binary form, packed frames and schema system — for… |
-| 2026-10-27 13:30:45 | [nuvek-core](https://crates.io/crates/nuvek-core) | 1.0.0 | 0 | Portable mechanism for small operational tools: environment primitives, a harde… |
-| 2026-10-27 13:31:07 | [nuvek-chroma](https://crates.io/crates/nuvek-chroma) | 1.0.0 | 0 | ChromaDB v2 client with Ollama embeddings, a scoped semantic cache and HyDE. En… |
-| 2026-10-27 13:31:31 | [nuvek-neo4j](https://crates.io/crates/nuvek-neo4j) | 1.0.0 | 0 | Read-only Neo4j Bolt client with a client-side write-clause guard and bounded q… |
-| 2026-10-27 13:31:35 | [nuvek-ollama](https://crates.io/crates/nuvek-ollama) | 1.0.0 | 0 | Local Ollama client: summarization, grammar-constrained JSON extraction, and cl… |
-| 2026-10-27 13:32:17 | [format198x-sinclair-zx-spectrum-z80](https://crates.io/crates/format198x-sinclair-zx-spectrum-z80) | 0.1.0 | 0 | ZX Spectrum .z80 snapshots — dependency-free decoding and encoding of versions… |
-| 2026-10-27 13:41:22 | [simdriver-cli](https://crates.io/crates/simdriver-cli) | 0.1.3 | 0 | Drive an iOS simulator from the command line: see the screen, tap, type, run fl… |
-| 2026-10-27 13:42:23 | [format198x-sinclair-zx80-o](https://crates.io/crates/format198x-sinclair-zx80-o) | 0.1.0 | 0 | Sinclair ZX80 .o/.80 tape images — dependency-free decoding and encoding. |
-| 2026-10-27 13:45:41 | [bauherr](https://crates.io/crates/bauherr) | 0.0.1 | 0 | Open-source software factory: describe what you need, Bauherr builds it. |
-| 2026-10-27 13:46:08 | [csaf-common](https://crates.io/crates/csaf-common) | 0.5.1 | 0 | This crate proves functionality to work with CSAF files. |
-| 2026-10-27 13:51:43 | [oxiron](https://crates.io/crates/oxiron) | 0.1.0 | 0 | A lightweight, zero-dependency utility library for Rust. |
-| 2026-10-27 13:52:29 | [format198x-sinclair-zx81-p](https://crates.io/crates/format198x-sinclair-zx81-p) | 0.1.0 | 0 | Sinclair ZX81 .p/.p81 tape images — dependency-free decoding and encoding. |
-| 2026-10-27 14:02:05 | [agenticon](https://crates.io/crates/agenticon) | 0.1.0 | 0 | agenticon is a library built around custom generation of identicon images for A… |
-| 2026-10-27 14:04:28 | [slip39-core](https://crates.io/crates/slip39-core) | 0.1.0 | 0 | A minimal implementation of SLIP-39, Shamir's Secret Sharing for mnemonic codes |
-| 2026-10-27 14:06:01 | [anne-de-breuil](https://crates.io/crates/anne-de-breuil) | 0.4.0 | 0 | Listening-port surface enumeration correlated with process, service, and firewa… |
-| 2026-10-27 14:06:50 | [anne-de-breuil-cli](https://crates.io/crates/anne-de-breuil-cli) | 0.4.0 | 0 | Listening-port surface enumeration correlated with process, service, and firewa… |
-| 2026-10-27 14:09:43 | [caretly](https://crates.io/crates/caretly) | 0.1.0 | 0 | Client for the Caretly API: render ZPL labels to PDF or PNG. |
-| 2026-10-27 14:14:17 | [tm-store](https://crates.io/crates/tm-store) | 0.8.0 | 0 | Tiramemsu storage trait: typed ReadStore/WriteStore, one transaction engine ove… |
-| 2026-10-27 14:14:21 | [tm-redb](https://crates.io/crates/tm-redb) | 0.8.0 | 0 | Tiramemsu storage backend on redb: six live permutations, exact statistics and… |
-| 2026-10-27 14:14:25 | [tm-native](https://crates.io/crates/tm-native) | 0.8.0 | 0 | Tiramemsu native query runner: the whole IR over the storage traits, with hybri… |
-| 2026-10-27 14:14:30 | [tm-bench](https://crates.io/crates/tm-bench) | 0.8.0 | 0 | Tiramemsu backend benchmark harness: seeded WatDiv-style and cyclic workloads,… |
-| 2026-10-27 14:14:33 | [tiramemsu-cli](https://crates.io/crates/tiramemsu-cli) | 0.8.0 | 0 | The `tm` command line for tiramemsu files: create on SQLite or redb, inspect, q… |
+| 2026-10-27 14:23:47 | [rsint](https://crates.io/crates/rsint) | 0.1.0 | 0 | Mechanical C→Rust transliteration of libcint (analytical Gaussian integrals), g… |
+| 2026-10-27 14:24:17 | [frame-agent-connectors](https://crates.io/crates/frame-agent-connectors) | 0.1.1 | 0 | Explicit local agent connectors for Frame applications |
+| 2026-10-27 14:24:18 | [frame-terminal](https://crates.io/crates/frame-terminal) | 0.1.1 | 0 | Host-independent PTY terminal engine for Frame applications |
+| 2026-10-27 14:40:35 | [wg-update-client](https://crates.io/crates/wg-update-client) | 1.0.0 | 0 | A reusable Rust client for the Wargaming Update Service |
+| 2026-10-27 14:40:38 | [wg-launcher-cli](https://crates.io/crates/wg-launcher-cli) | 1.0.0 | 0 | Command-line launcher for Wargaming game assets |
+| 2026-10-27 14:43:00 | [rustytm](https://crates.io/crates/rustytm) | 1.1.0 | 0 | Task manager for Linux in Rust: processes, performance, sensors, connections, d… |
+| 2026-10-27 14:43:53 | [fdroid-watch](https://crates.io/crates/fdroid-watch) | 0.1.0 | 0 | Terminal dashboard showing where each release of an F-Droid app is: tagged → pi… |
+| 2026-10-27 14:44:46 | [wg-update-service](https://crates.io/crates/wg-update-service) | 1.0.0 | 0 | File-backed WGUS-compatible update service |
+| 2026-10-27 14:45:06 | [primase-oozextract](https://crates.io/crates/primase-oozextract) | 0.5.6 | 0 | Pure-Rust Oodle decompressor: Kraken, Mermaid, Selkie, Leviathan, LZNA, Bitknit… |
+| 2026-10-27 14:45:17 | [primase-naga](https://crates.io/crates/primase-naga) | 30.0.1 | 0 | naga 30.0.1 (the wgpu project's shader translator and validator) with three add… |
+| 2026-10-27 14:46:17 | [primase-testdata](https://crates.io/crates/primase-testdata) | 0.1.0 | 0 | Declare the game installs, tools and reference outputs your tests read; one TOM… |
+| 2026-10-27 14:50:12 | [omgbase-git-adapter](https://crates.io/crates/omgbase-git-adapter) | 0.2.0 | 0 | omgbase git history provider: the checkpoint worker that builds commits in a ba… |
+| 2026-10-27 14:56:32 | [primase-foundations](https://crates.io/crates/primase-foundations) | 0.1.0 | 0 | Checked byte readers, game-file hashes, vertex decoding, texture sampling and t… |
+| 2026-10-27 14:56:43 | [dxcontainer](https://crates.io/crates/dxcontainer) | 0.1.0 | 0 | Parser for the DXBC container that holds Direct3D shader bytecode (DXBC and DXI… |
+| 2026-10-27 14:56:48 | [dxbc-reader](https://crates.io/crates/dxbc-reader) | 0.1.0 | 0 | DXBC parser: reads Direct3D 10/11 shader bytecode (Shader Model 4 and 5) into t… |
+| 2026-10-27 14:56:56 | [ooidget](https://crates.io/crates/ooidget) | 0.0.0 | 0 | Ooidget: an open spec for interactive UI components and apps, drawn alike on ev… |
+| 2026-10-27 14:59:39 | [falcon-pqc](https://crates.io/crates/falcon-pqc) | 0.1.0 | 0 | Rust implementation of Falcon post-quantum signatures; no cryptographic functio… |
+| 2026-10-27 15:04:46 | [hatls-proto](https://crates.io/crates/hatls-proto) | 0.1.0 | 0 | Generated protobuf types for the http-api-tls-sdk v1 wire protocol |
+| 2026-10-27 15:08:22 | [hatls-core](https://crates.io/crates/hatls-core) | 0.1.0 | 0 | http-api-tls-sdk protocol core: session keys, canonical AAD, transcripts, repla… |
+| 2026-10-27 15:09:01 | [hatls-client](https://crates.io/crates/hatls-client) | 0.1.0 | 0 | http-api-tls-sdk client: transport-agnostic secure channel (handshake + encrypt… |
+| 2026-10-27 15:09:35 | [data-genie](https://crates.io/crates/data-genie) | 0.1.1 | 0 | High-performance, streaming-first ETL engine in Rust |
+| 2026-10-27 15:09:44 | [hatls-server](https://crates.io/crates/hatls-server) | 0.1.0 | 0 | http-api-tls-sdk server: framework-agnostic handshake + secure-envelope engine… |
+| 2026-10-27 15:09:54 | [hatls-client-http](https://crates.io/crates/hatls-client-http) | 0.1.0 | 0 | http-api-tls-sdk client HTTP transport adapter (reqwest + rustls) |
+| 2026-10-27 15:12:34 | [hatls-server-axum](https://crates.io/crates/hatls-server-axum) | 0.1.0 | 0 | http-api-tls-sdk axum adapter: handshake routes + secure_channel middleware |
+| 2026-10-27 15:12:59 | [waf-capture](https://crates.io/crates/waf-capture) | 1.0.0 | 0 | Request capture for Light WAF: buffers full denied requests off the datapath an… |
+| 2026-10-27 15:13:01 | [waf-state-redis](https://crates.io/crates/waf-state-redis) | 1.0.0 | 0 | Distributed state for Light WAF over Redis: cluster-wide rate limiting, IP repu… |
+| 2026-10-27 15:13:09 | [waf-schema-enforcement](https://crates.io/crates/waf-schema-enforcement) | 1.0.0 | 0 | Advanced detection modules for Light WAF: GraphQL and gRPC schema enforcement,… |
+| 2026-10-27 15:13:09 | [waf-threatintel](https://crates.io/crates/waf-threatintel) | 1.0.0 | 0 | Threat intelligence for Light WAF: reputation feeds and a cluster-wide IP-reput… |
+| 2026-10-27 15:13:09 | [waf-wasm-signing](https://crates.io/crates/waf-wasm-signing) | 1.0.0 | 0 | Signed WASM plugins for Light WAF: verifies a minisign signature before handing… |
+| 2026-10-27 15:14:01 | [covenant-data](https://crates.io/crates/covenant-data) | 0.2.1 | 0 | Data-contract enforcement runtime: one compiled contract, run at every boundary… |
+| 2026-10-27 15:16:42 | [wfreq](https://crates.io/crates/wfreq) | 0.1.0 | 0 | Show the top N most frequent words in .txt, .md, .pdf and .docx files, folders… |
+| 2026-10-27 15:17:48 | [phenocal](https://crates.io/crates/phenocal) | 0.1.2 | 0 | Genome-anchored calibration of a continuous phenotype across cohorts/batches, w… |
 
 ## Data source
 
