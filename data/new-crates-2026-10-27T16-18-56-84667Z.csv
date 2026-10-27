@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T15:21:38.722131Z,waf-crs-curated,1.0.0,0,0,https://github.com/0x00spor3/Light-WAF,"Curated CRS/ModSecurity rule content for Light WAF: CVE, application and evasion signatures, loaded through the core CRS engine."
+2026-10-27T15:25:40.140142Z,opsec-rs,13.37.420,0,0,https://github.com/mnk-works/opsec-rs,🥷 Maximum OPSEC achieved. A parody CLI that installs fake operational security with style. Not actual security. Do not use for real opsec. You have been warned. 🫡
+2026-10-27T15:25:52.519952Z,morphir-json,0.2.0,0,0,https://github.com/finos/morphir-rust,Literal JSON value traversal with caller-owned resource budgets
+2026-10-27T15:26:36.983999Z,testls-data,0.4.1,0,0,https://github.com/kjpopov/testls,"TLS registry data (cipher suites, groups, signature schemes) derived from IANA registries."
+2026-10-27T15:26:37.834517Z,testls-wire,0.4.1,0,0,https://github.com/kjpopov/testls,TLS record and handshake codec: ClientHello builder and ServerHello/Alert/Certificate parsers. No I/O.
+2026-10-27T15:26:40.451115Z,testls-probe,0.4.1,0,0,https://github.com/kjpopov/testls,Async TLS probes over TCP built on testls-wire.
+2026-10-27T15:26:43.268437Z,testls-checks,0.4.1,0,0,https://github.com/kjpopov/testls,"Scan findings, severity model, and check implementations."
+2026-10-27T15:26:46.355812Z,testls-report,0.4.1,0,0,https://github.com/kjpopov/testls,"Text, JSON, SARIF, JUnit, Markdown, CSV and HTML report renderers and exit-code policy."
+2026-10-27T15:27:00.01978Z,winxdp-sys,0.1.0,0,0,https://github.com/shellrow/winxdp-rs,Pinned XDP for Windows API v3 bindings and header-only bridge
+2026-10-27T15:27:02.311345Z,winxdp,0.1.0,0,0,https://github.com/shellrow/winxdp-rs,Safe scoped packet I/O for Microsoft XDP for Windows
+2026-10-27T15:31:08.659615Z,plazr-billiards,0.1.0,0,0,https://github.com/PlazrStudio/plazr-billiards,"Open-source, modular 2D/3D billiards physics simulation engine by Plazr Studio."
+2026-10-27T15:32:05.233858Z,dxil-reader,0.1.1,0,0,https://github.com/Kalmarv/dx,"DXIL reader: decodes Direct3D Shader Model 6 programs (LLVM bitcode in a DXBC container) to modules, with resource, signature and RDAT reflection records"
+2026-10-27T15:32:19.475632Z,rsx-reader,0.1.1,0,0,https://github.com/Kalmarv/dx,"PlayStation 3 RSX reader: CellGcmTexture descriptors, CgBinaryProgram shader containers and fragment program microcode decoded to typed instructions"
+2026-10-27T15:32:24.139152Z,havok-formats,0.1.1,0,0,https://github.com/Kalmarv/havok-formats,"Bounds-checked readers of Havok tagfiles, packfiles, compressed collision meshes, cloth and spline animation, as game files store them"
+2026-10-27T15:32:33.240096Z,offline-protocol-web,0.31.0,0,0,https://github.com/Offline-Protocol/offline-protocol-sdk,The Offline Protocol engine for the browser: a full mesh node compiled to WebAssembly
+2026-10-27T15:33:24.210614Z,waf-tls-managed,1.0.0,0,0,https://github.com/0x00spor3/Light-WAF,"Managed TLS for Light WAF: ACME certificates with hitless rotation (TLS-ALPN-01, DNS-01) and mTLS client authentication."
+2026-10-27T15:35:16.910389Z,h12tiny-tls-system,0.6.0,0,0,https://github.com/laputa-systems/h12tiny,Operating-system TLS trust for h12tiny clients
+2026-10-27T15:37:05.521384Z,testls,0.4.1,0,0,https://github.com/kjpopov/testls,"TLS/SSL scanner for the web era, inspired by testssl.sh."
+2026-10-27T15:38:02.097369Z,wb-api-client,1.20261027.0,0,0,https://github.com/ValeryVerkhoturov/wb-api-client-rust,Wildberries Seller API client (generated)
+2026-10-27T15:38:30.130932Z,www,3.0.0,0,0,https://github.com/nbari/www,A simple static web server with automatic HTTPS
+2026-10-27T15:39:06.375486Z,lua51-bytecode,0.1.1,0,0,https://github.com/Kalmarv/lua51-bytecode,"Strict, panic-free reader for Lua 5.1 precompiled bytecode (luac output, either byte order), with a lister of calls made with constant arguments"
+2026-10-27T15:46:08.451972Z,morpheme-formats,0.1.0,0,0,https://github.com/Kalmarv/morpheme-formats,Checked reader for 32-bit big-endian NaturalMotion Morpheme bundles and the skeleton rigs in them
+2026-10-27T15:46:12.025637Z,waf-enterprise,1.0.0,0,0,https://github.com/0x00spor3/Light-WAF,"Light WAF data-plane binary with every component wired in: Redis state, managed TLS, threat intel, advanced detection modules, request capture."
+2026-10-27T15:57:21.246768Z,arvalez-target-terraform,2.1.0,0,0,https://github.com/Sygmei/arvalez,Terraform Plugin Framework adapters for Arvalez Go SDKs
+2026-10-27T15:58:03.560597Z,annoray-pyo3,0.0.1-pre3,0,0,https://github.com/sunipkm/annoray,"Exchange annoray units, quantities, data arrays, datasets and trees with the annoray Python package from other PyO3 extension modules"
+2026-10-27T15:59:26.264756Z,poirot-parsing,0.1.0,0,0,https://github.com/yiblet/poirot,Spreadsheet formula and text parsing
+2026-10-27T15:59:32.710392Z,poirot-functions,0.1.0,0,0,https://github.com/yiblet/poirot,"Workbook-independent spreadsheet functions, coercion, and display formatting"
+2026-10-27T15:59:41.574794Z,poirot-io,0.1.0,0,0,https://github.com/yiblet/poirot,XLS and XLSX workbook import and XLSX export
+2026-10-27T16:00:05.716261Z,poirot,0.1.0,0,0,https://github.com/yiblet/poirot,"Read, edit, evaluate and write Excel workbooks"
+2026-10-27T16:03:36.516244Z,monogame-formats,0.1.0,0,0,https://github.com/Kalmarv/monogame-formats,"Read MonoGame/XNA content: the XNB container and compiled MGFX effects, with checked reads that never panic on untrusted bytes"
+2026-10-27T16:07:40.291545Z,unity-formats,0.1.0,0,0,https://github.com/Kalmarv/unity-formats,"Reads Unity games' data files: SerializedFiles, scenes, meshes, textures, shader programs and Animator data"
+2026-10-27T16:12:36.773958Z,execution_tape_footfall,0.1.0,0,0,https://github.com/forest-rs/execution,Semantic Footfall observations for Execution Tape.
+2026-10-27T16:12:49.175406Z,execution_tape_tracy,0.1.0,0,0,https://github.com/forest-rs/execution,Tracy profiling scopes for Execution Tape.
