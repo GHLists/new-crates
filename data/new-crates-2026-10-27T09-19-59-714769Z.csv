@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T08:26:36.072955Z,emu198x-amstrad-ula-40077,0.1.0,0,0,https://github.com/emu198x/emu198x,Amstrad 40077 gate array — the +2A/+2B/+3 ZX Spectrum's custom chip
+2026-10-27T08:27:39.857249Z,wasmnest-wasm-core,0.0.1,0,0,https://github.com/7ZAI/BedCode,WasmNest 插件机制整核（单一形态，2026-10-13 起无 common/bare 之分）：wasmtime 组件模型宿主 + host-* 原语 + 安全闸门 + 引擎面（pty/db）
+2026-10-27T08:29:08.648485Z,nornir-identity-session,0.1.1,0,0,https://git.gunnar.rs/nordisk/edda,"Sessions, invites and step-up for the nordisk servers, one copy for every product (A34 M-5): session revocation floors, single-use hashed invites that never make an admin, the step-up window and the…"
+2026-10-27T08:29:14.868287Z,nornir-identity-directory,0.1.0,0,0,https://git.gunnar.rs/nordisk/edda,"The directory rules for the nordisk servers, one copy for every product (A34 M-6): how a directory user name and an e-mail domain are compared, and the CSV an account without SCIM imports. SCIM 2.0 f…"
+2026-10-27T08:29:48.042532Z,chamber-api-fork,0.5.4,0,0,https://github.com/koko1111/chamber,REST API server for Chamber secrets manager
+2026-10-27T08:30:00.30144Z,chamber-secret-manager-cli-fork,0.5.4,0,0,https://github.com/koko1111/chamber,CLI interface for Chamber secrets manager
+2026-10-27T08:30:18.861898Z,chamber-tui-fork,0.5.4,0,0,https://github.com/koko1111/chamber,"A secure, local-first secrets manager with encrypted storage and zero-knowledge architecture"
+2026-10-27T08:33:19.605731Z,tradecraft,0.3.5,0,0,https://github.com/osdlc/osdlc,"A command-line tool that publishes a vault of markdown skill notes into the formats of coding-agent tools (Claude Code, Codex, Cursor and Pi), checks them for drift, and authors and reorganises the v…"
+2026-10-27T08:36:45.535078Z,emu198x-commodore-agnus-aga,0.1.0,0,0,https://github.com/emu198x/emu198x,Commodore Alice (AGA Agnus) — thin wrapper over emu198x-commodore-agnus-ecs that adds the FMODE register (bitplane / sprite DMA fetch widths) and AGA-specific bus arbitration. Used by AGA machines (A…
+2026-10-27T08:36:48.187286Z,picoguard,0.3.0,0,0,https://github.com/risan/picoguard,DNS ad and malware blocker for 256 MB boards
+2026-10-27T08:38:11.462008Z,wasmnest-headless-host-probe,0.0.1,0,0,,无头测试宿主探针：以非桌面宿主形态默认引用全部能力域 crate（不开 common-host feature），钉死「能力域默认形态任何宿主可直接引用、零 WIT / 零桌面 SDK 依赖」——能力域脱绑 P6 验证矩阵的长期载体（P1–P5 落地）
+2026-10-27T08:38:32.515498Z,git-sweep-rs,1.0.3,0,0,https://github.com/leo-yi/git-sweep-rs,A command-line tool to clean up merged Git branches
+2026-10-27T08:46:22.203526Z,architecturekit-macros,0.1.0,0,0,https://github.com/thenativeweb/architecturekit-rust,"The derive macros of architecturekit. Use them through architecturekit, which re-exports them."
+2026-10-27T08:46:24.557366Z,architecturekit,0.1.0,0,0,https://github.com/thenativeweb/architecturekit-rust,"Building blocks for DDD-based applications with CQRS and event sourcing, on top of the EventSourcingDB by the native web."
+2026-10-27T08:46:53.71528Z,emu198x-commodore-denise-aga,0.1.0,0,0,https://github.com/emu198x/emu198x,"Commodore Lisa (AGA Denise) — thin wrapper over emu198x-commodore-denise-ecs that adds the 24-bit / 256-entry palette, HAM8, BPLCON4 (bitplane XOR + sprite bank), and FMODE-driven wide sprite handlin…"
+2026-10-27T08:49:36.456719Z,ownsearch-core,0.1.0,0,0,https://github.com/devops-infinity/ownsearch,"Engine for the OwnSearch MCP server: SearXNG fleet discovery, scanning, search, merge, and local state"
+2026-10-27T08:50:02.315293Z,ownsearch,0.1.0,0,0,https://github.com/devops-infinity/ownsearch,"OwnSearch, an MCP server for quality-ranked public SearXNG search"
+2026-10-27T08:50:51.799908Z,c-canon,0.1.0,0,0,https://github.com/prostomarkeloff/find-dup-defs,C source → structural canonicalization + file-scope definition scan (tree-sitter parser). The C frontend for find-dup-defs.
+2026-10-27T08:56:24.61005Z,scenekit-nodes,0.2.0,0,0,https://github.com/launcher-rs/scenekit,scenekit 的带类型着色器节点图、节点材质与 WGSL/GLSL 后端。
+2026-10-27T08:56:29.636021Z,scenekit-particles,0.2.0,0,0,https://github.com/launcher-rs/scenekit,scenekit 的 CPU 端粒子系统：发射器、曲线、修改器模块、确定性模拟与渲染批次。
+2026-10-27T08:56:34.182106Z,scenekit-physics,0.2.0,0,0,https://github.com/launcher-rs/scenekit,scenekit 的 CPU 物理桥接：刚体、碰撞体、确定性惩罚求解器世界步进、运动学角色控制器、变换同步记账与碰撞体线框调试数据。
+2026-10-27T08:56:38.590224Z,scenekit-audio,0.2.0,0,0,https://github.com/launcher-rs/scenekit,scenekit 的 CPU 音频系统：位置化监听器与声源、距离衰减、等功率声像、指向圆锥、多普勒频移、流式缓冲与 PCM 分析器。
+2026-10-27T08:56:43.930328Z,scenekit-ui,0.2.0,0,0,https://github.com/launcher-rs/scenekit,与渲染器无关的 scenekit 场景 UI 工具：无闪屏的叠层布局、面板栈、渲染器统计，以及面向桌面、移动与 Web 的工具控件。
+2026-10-27T08:57:02.79494Z,emu198x-ferranti-ula-6c001e,0.1.0,0,0,https://github.com/emu198x/emu198x,Ferranti 6C001E ULA for the ZX Spectrum 48K
+2026-10-27T08:59:24.573848Z,scenekit-sky,0.2.0,0,0,https://github.com/launcher-rs/scenekit,scenekit 的纯 CPU 程序化天空、大气求值、太阳助手、环境贴图烘焙与接地天空盒。
+2026-10-27T09:02:21.641729Z,server-watch,0.1.1,0,0,https://github.com/kon-rad/server-watch,"Small CLI that watches a server for pending patches, low disk/RAM, and signs of intrusion, and alerts you on Telegram only when something is new or worse."
+2026-10-27T09:04:52.889067Z,ferrumec-perms,0.1.0,0,0,,"Bitset-based, route-level authorization middleware for Actix Web, built for the Ferrumec microservice ecosystem."
+2026-10-27T09:07:10.008774Z,emu198x-pentagon-ula,0.1.0,0,0,https://github.com/emu198x/emu198x,"Pentagon ULA — Russian Spectrum clone, no contention, 14.336 MHz crystal"
+2026-10-27T09:08:56.926741Z,scenekit-terrain,0.2.0,0,0,https://github.com/launcher-rs/scenekit,scenekit 的 CPU 地形系统：带种子的地形图、分块 LOD 网格、权重贴图、流式加载与高度采样。
+2026-10-27T09:09:03.107672Z,jans-trace-core,0.0.126,0,0,,"Deterministic TRACE cryptography: strict JSON, RFC 8785 JCS, Ed25519, SHA-256 digests"
+2026-10-27T09:17:16.763802Z,emu198x-scorpion-ula,0.1.0,0,0,https://github.com/emu198x/emu198x,"Scorpion ZS-256 ULA — Russian extended Spectrum, no contention, 48K-style geometry"
+2026-10-27T09:18:18.59442Z,mimalloc-ng-sys,0.2.0,0,0,https://github.com/quality-forks/mimalloc-ng,"Raw bindings to mimalloc, built from vendored source"
+2026-10-27T09:18:20.768591Z,mimalloc-ng,0.2.0,0,0,https://github.com/quality-forks/mimalloc-ng,Rust global allocator backed by mimalloc
+2026-10-27T09:18:42.977307Z,fframes-kit-macros,0.1.0,0,0,https://github.com/khanhthanhdev/fframes-kit,The ui! macro and the Props derives of fframes-kit
+2026-10-27T09:18:50.393024Z,wasmnest-plugin-api-mobile,0.0.1,0,0,https://github.com/7ZAI/wasmnest,WasmNest Mobile Plugin API — trait definitions and shared types for WasmNest plugins
+2026-10-27T09:18:55.806753Z,scenekit-water,0.2.0,0,0,https://github.com/launcher-rs/scenekit,scenekit 的 CPU 水面系统：Gerstner 波场、形变曲面、Schlick 菲涅尔、泡沫遮罩、水下着色与反射助手。
+2026-10-27T09:19:03.556251Z,fframes-kit,0.1.0,0,0,https://github.com/khanhthanhdev/fframes-kit,"Components for fframes videos: time containers, shapes, Manim-named animations and explainer kits"
