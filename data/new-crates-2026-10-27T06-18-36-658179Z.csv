@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T05:20:08.530931Z,aihist,0.1.1,0,0,https://github.com/AnswerDotAI/aihist,"Turn notebook dialogs into LLM input, and chats into dialog text and back"
+2026-10-27T05:21:52.30774Z,embedded-keycode,0.1.1,0,0,https://github.com/ypsitau/embedded-keycode,Embedded keycode handling library
+2026-10-27T05:23:42.681541Z,ashlar-print,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,System PDF print spooler: CUPS and Windows
+2026-10-27T05:27:32.290356Z,openmvg-io,0.1.0,0,0,https://github.com/openMVG/openmvg-rs,"Reader, writer, and validator of the OMVG community format, and COLMAP export, for OpenMVG-rs"
+2026-10-27T05:28:23.476371Z,openmvg,0.1.0,0,0,https://github.com/openMVG/openmvg-rs,"Umbrella crate re-exporting the OpenMVG-rs core, geometry, features, Structure from Motion and OMVG format crates"
+2026-10-27T05:34:12.499436Z,ashlar-store,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Documents: Arc snapshots, revisions, undo history, versioned formats with migrations, autosave"
+2026-10-27T05:37:16.113059Z,one-note-converter,0.1.2,0,0,https://github.com/wsmontes/one-note-converter,"Convert Microsoft OneNote .one sections, .onetoc2 notebooks and .onepkg packages to Markdown"
+2026-10-27T05:37:22.088688Z,procage,0.0.1,0,0,https://github.com/hupe1980/procage,Process sandboxing for Rust: macOS Seatbelt without sandbox-exec (name reserved; under development)
+2026-10-27T05:38:49.10381Z,openpaw-core,0.1.0,0,0,https://github.com/KunlunMeta-Limited/openpaw.git,"Foundation layer: LLM provider traits, message/session types, evolution policy traits."
+2026-10-27T05:39:19.731844Z,hao-godot,0.0.3,0,0,,Attach to a Godot (CoreCLR / .NET) game's runtime for native mods
+2026-10-27T05:41:02.003038Z,json-sampler,1.0.0,0,0,https://github.com/joeledwards/json-sampler,Streaming JSON structure profiling for mixed-content streams
+2026-10-27T05:43:34.920026Z,openmvg-cli,0.1.0,0,0,https://github.com/openMVG/openmvg-rs,Command-line Structure from Motion for OpenMVG-rs: reconstruct a folder of images
+2026-10-27T05:44:40.37849Z,ashlar-trace-proto,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,Wire types shared by the ashlar-trace telemetry SDK and server
+2026-10-27T05:49:16.891795Z,aviation-data,0.1.6,0,0,https://github.com/cipansor/crateworks,"Airport reference data: look up airports by IATA, ICAO, GPS or local code, search them, and measure the distance between them."
+2026-10-27T05:49:21.341279Z,runits,0.1.6,0,0,https://github.com/cipansor/crateworks,"Runtime unit conversion: parse and convert quantities written as text, such as ""3.5 kg"" to ""lb"", from a table compiled in from pint."
+2026-10-27T05:51:48.538122Z,markdown-link,0.5.0,0,0,https://github.com/osdlc/osdlc,"Parse and resolve Markdown and wiki-style links in notes: every `[[link]]`, `![[embed]]`, and relative Markdown link in a note body or its frontmatter, with code spans excluded, plus a LinkIndex that…"
+2026-10-27T05:51:55.442077Z,markdown-vault-fs,0.3.1,0,0,https://github.com/osdlc/osdlc,"Vault filesystem primitives: the visibility-policy walk, the excluded-files rules, the `_system/` rules, statSync-shaped timestamps, and a re-export of the path-guard containment guard"
+2026-10-27T05:52:00.5027Z,typed-git,0.4.0,0,0,https://github.com/osdlc/osdlc,"Typed functions over the git command line: repository queries and a parsed status, commits and reverts limited to named paths, push to the upstream, cache clones, worktrees, and a command builder for…"
+2026-10-27T05:53:52.016295Z,mdown,0.1.0,0,0,https://github.com/RAZKOM/mdown,"A lightweight native Markdown viewer and editor with math, diagrams, charts and 3D models"
+2026-10-27T05:54:31.190537Z,ikigai-module-abi,0.1.0,0,0,https://github.com/ikigai-rs/ikigai-module,"The ikigai module session's wire types (ModuleCall/ModuleReply and everything they carry) as plain no_std + alloc data, byte-compatible with ikigai-module and free of ikigai-core: for wasm guests and…"
+2026-10-27T05:55:09.930106Z,ashlar-trace,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Crash, performance and usage telemetry for desktop apps, with a self-hostable backend"
+2026-10-27T06:01:54.233867Z,quan-observability,0.1.0,0,0,https://codeup.aliyun.com/688c5c5d725067d38cf099e7/quan/quan-observability,"Non-blocking MSE monitoring, OpenTelemetry export, and trace-correlated logging for Rust services"
+2026-10-27T06:05:35.560942Z,ashlar-telemetry,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Always-on crash, performance and usage telemetry to a self-hosted ashlar-trace server: one client, hooks for the command chokepoint, logging, the frame loop and native dialogs"
+2026-10-27T06:10:02.489639Z,openpaw-llm,0.1.0,0,0,https://github.com/KunlunMeta-Limited/openpaw.git,"LLM providers over the core trait: echo, deterministic mock, real providers (M1+)."
+2026-10-27T06:10:53.877582Z,openpaw-plugins,0.1.0,0,0,https://github.com/KunlunMeta-Limited/openpaw.git,"Plugin discovery, manifest, and the 24 HookPoint event system (M3)."
+2026-10-27T06:12:01.750058Z,openpaw-sandbox,0.1.0,0,0,https://github.com/KunlunMeta-Limited/openpaw.git,"Cross-platform sandbox for secure command execution (Windows Restricted Token + Job Object, Linux bwrap, macOS Seatbelt)."
+2026-10-27T06:12:36.672258Z,openpaw-store,0.1.0,0,0,,"Plain-file persistence: frontmatter documents, session JSONL transcripts."
+2026-10-27T06:13:05.946663Z,openpaw-tools,0.1.0,0,0,https://github.com/KunlunMeta-Limited/openpaw.git,"Core tool set: 21 tools, ToolHost registry, bash AST guard, local sandbox (M2, staged)."
+2026-10-27T06:15:59.583493Z,ashlar-trace-server,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,Self-hosted backend and dashboard for ashlar-trace telemetry
