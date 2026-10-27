@@ -8,43 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 06:18 UTC
+## Latest list — 2026-10-27 07:20 UTC
 
-New crates published between 2026-10-27 05:19 UTC and 2026-10-27 06:18 UTC.
+New crates published between 2026-10-27 06:18 UTC and 2026-10-27 07:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-27T06-18-36-658179Z.csv)
+[Full CSV](data/new-crates-2026-10-27T07-20-40-174464Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-27 05:20:08 | [aihist](https://crates.io/crates/aihist) | 0.1.1 | 0 | Turn notebook dialogs into LLM input, and chats into dialog text and back |
-| 2026-10-27 05:21:52 | [embedded-keycode](https://crates.io/crates/embedded-keycode) | 0.1.1 | 0 | Embedded keycode handling library |
-| 2026-10-27 05:23:42 | [ashlar-print](https://crates.io/crates/ashlar-print) | 0.1.0 | 0 | System PDF print spooler: CUPS and Windows |
-| 2026-10-27 05:27:32 | [openmvg-io](https://crates.io/crates/openmvg-io) | 0.1.0 | 0 | Reader, writer, and validator of the OMVG community format, and COLMAP export,… |
-| 2026-10-27 05:28:23 | [openmvg](https://crates.io/crates/openmvg) | 0.1.0 | 0 | Umbrella crate re-exporting the OpenMVG-rs core, geometry, features, Structure… |
-| 2026-10-27 05:34:12 | [ashlar-store](https://crates.io/crates/ashlar-store) | 0.1.0 | 0 | Documents: Arc snapshots, revisions, undo history, versioned formats with migra… |
-| 2026-10-27 05:37:16 | [one-note-converter](https://crates.io/crates/one-note-converter) | 0.1.2 | 0 | Convert Microsoft OneNote .one sections, .onetoc2 notebooks and .onepkg package… |
-| 2026-10-27 05:37:22 | [procage](https://crates.io/crates/procage) | 0.0.1 | 0 | Process sandboxing for Rust: macOS Seatbelt without sandbox-exec (name reserved… |
-| 2026-10-27 05:38:49 | [openpaw-core](https://crates.io/crates/openpaw-core) | 0.1.0 | 0 | Foundation layer: LLM provider traits, message/session types, evolution policy… |
-| 2026-10-27 05:39:19 | [hao-godot](https://crates.io/crates/hao-godot) | 0.0.3 | 0 | Attach to a Godot (CoreCLR / .NET) game's runtime for native mods |
-| 2026-10-27 05:41:02 | [json-sampler](https://crates.io/crates/json-sampler) | 1.0.0 | 0 | Streaming JSON structure profiling for mixed-content streams |
-| 2026-10-27 05:43:34 | [openmvg-cli](https://crates.io/crates/openmvg-cli) | 0.1.0 | 0 | Command-line Structure from Motion for OpenMVG-rs: reconstruct a folder of imag… |
-| 2026-10-27 05:44:40 | [ashlar-trace-proto](https://crates.io/crates/ashlar-trace-proto) | 0.1.0 | 0 | Wire types shared by the ashlar-trace telemetry SDK and server |
-| 2026-10-27 05:49:16 | [aviation-data](https://crates.io/crates/aviation-data) | 0.1.6 | 0 | Airport reference data: look up airports by IATA, ICAO, GPS or local code, sear… |
-| 2026-10-27 05:49:21 | [runits](https://crates.io/crates/runits) | 0.1.6 | 0 | Runtime unit conversion: parse and convert quantities written as text, such as… |
-| 2026-10-27 05:51:48 | [markdown-link](https://crates.io/crates/markdown-link) | 0.5.0 | 0 | Parse and resolve Markdown and wiki-style links in notes: every `[[link]]`, `![… |
-| 2026-10-27 05:51:55 | [markdown-vault-fs](https://crates.io/crates/markdown-vault-fs) | 0.3.1 | 0 | Vault filesystem primitives: the visibility-policy walk, the excluded-files rul… |
-| 2026-10-27 05:52:00 | [typed-git](https://crates.io/crates/typed-git) | 0.4.0 | 0 | Typed functions over the git command line: repository queries and a parsed stat… |
-| 2026-10-27 05:53:52 | [mdown](https://crates.io/crates/mdown) | 0.1.0 | 0 | A lightweight native Markdown viewer and editor with math, diagrams, charts and… |
-| 2026-10-27 05:54:31 | [ikigai-module-abi](https://crates.io/crates/ikigai-module-abi) | 0.1.0 | 0 | The ikigai module session's wire types (ModuleCall/ModuleReply and everything t… |
-| 2026-10-27 05:55:09 | [ashlar-trace](https://crates.io/crates/ashlar-trace) | 0.1.0 | 0 | Crash, performance and usage telemetry for desktop apps, with a self-hostable b… |
-| 2026-10-27 06:01:54 | [quan-observability](https://crates.io/crates/quan-observability) | 0.1.0 | 0 | Non-blocking MSE monitoring, OpenTelemetry export, and trace-correlated logging… |
-| 2026-10-27 06:05:35 | [ashlar-telemetry](https://crates.io/crates/ashlar-telemetry) | 0.1.0 | 0 | Always-on crash, performance and usage telemetry to a self-hosted ashlar-trace… |
-| 2026-10-27 06:10:02 | [openpaw-llm](https://crates.io/crates/openpaw-llm) | 0.1.0 | 0 | LLM providers over the core trait: echo, deterministic mock, real providers (M1… |
-| 2026-10-27 06:10:53 | [openpaw-plugins](https://crates.io/crates/openpaw-plugins) | 0.1.0 | 0 | Plugin discovery, manifest, and the 24 HookPoint event system (M3). |
-| 2026-10-27 06:12:01 | [openpaw-sandbox](https://crates.io/crates/openpaw-sandbox) | 0.1.0 | 0 | Cross-platform sandbox for secure command execution (Windows Restricted Token +… |
-| 2026-10-27 06:12:36 | [openpaw-store](https://crates.io/crates/openpaw-store) | 0.1.0 | 0 | Plain-file persistence: frontmatter documents, session JSONL transcripts. |
-| 2026-10-27 06:13:05 | [openpaw-tools](https://crates.io/crates/openpaw-tools) | 0.1.0 | 0 | Core tool set: 21 tools, ToolHost registry, bash AST guard, local sandbox (M2,… |
-| 2026-10-27 06:15:59 | [ashlar-trace-server](https://crates.io/crates/ashlar-trace-server) | 0.1.0 | 0 | Self-hosted backend and dashboard for ashlar-trace telemetry |
+| 2026-10-27 06:26:19 | [ashlar-ui](https://crates.io/crates/ashlar-ui) | 0.1.0 | 0 | ashlar UI components: theme tokens, controls, layout, docking, icons |
+| 2026-10-27 06:27:32 | [typed-fuse-core](https://crates.io/crates/typed-fuse-core) | 0.7.0 | 0 | Backend-neutral, node-tracking core for building FUSE filesystems |
+| 2026-10-27 06:27:32 | [typed-fuse-sys](https://crates.io/crates/typed-fuse-sys) | 0.6.0 | 0 | Raw bindings to libfuse 3, used by typed-fuse (fork of libfuse-sys) |
+| 2026-10-27 06:27:33 | [typed-fuse](https://crates.io/crates/typed-fuse) | 0.8.2 | 0 | High-level, safe Rust wrapper for building FUSE 3 filesystems |
+| 2026-10-27 06:33:33 | [wasmnest-plugin-api-macros](https://crates.io/crates/wasmnest-plugin-api-macros) | 0.0.1 | 0 | WasmNest Plugin API proc macros — #[plugin_api] trait 生成 JSON-RPC 分派/客户端 + 构建期… |
+| 2026-10-27 06:33:57 | [wasmnest-plugin-api](https://crates.io/crates/wasmnest-plugin-api) | 0.0.1 | 0 | WasmNest Plugin API — trait definitions and shared types for WasmNest plugins |
+| 2026-10-27 06:34:38 | [wasmnest-contract](https://crates.io/crates/wasmnest-contract) | 0.0.1 | 0 | WasmNest 插件契约常量（包名 / 版本唯一手写真源）——零依赖，只装常量、不装 WIT |
+| 2026-10-27 06:34:43 | [wasmnest-notify-engine](https://crates.io/crates/wasmnest-notify-engine) | 0.0.1 | 0 | WasmNest 通知域契约房（只持 WIT 契约，零实现）— 双端 host-notify 的唯一真源 |
+| 2026-10-27 06:35:30 | [wasmnest-link-crypto](https://crates.io/crates/wasmnest-link-crypto) | 0.0.1 | 0 | WasmNest 局域网链路报文加密协议核心——桌面 server 与移动端 Rust 侧（event WS）共享，消除第三份实现 |
+| 2026-10-27 06:36:20 | [wasmnest-host-api-core](https://crates.io/crates/wasmnest-host-api-core) | 0.0.1 | 0 | WasmNest host_api 共享实现核：无 WIT 依赖域的机制实现层（双端 wasm-core 各持 adapter） |
+| 2026-10-27 06:36:39 | [ashlar-app](https://crates.io/crates/ashlar-app) | 0.1.0 | 0 | ashlar runtime: App builder, frame scheduler, crash guard, logging, telemetry,… |
+| 2026-10-27 06:38:53 | [plana-evernight-client](https://crates.io/crates/plana-evernight-client) | 0.1.0 | 0 | Shared evernight broker dispatch client for the PoleMos terminal command routin… |
+| 2026-10-27 06:39:56 | [openpaw-engine](https://crates.io/crates/openpaw-engine) | 0.1.0 | 0 | Agent loop: run_turn, three-phase tool execution, compaction, fallback (M2, sta… |
+| 2026-10-27 06:40:48 | [openpaw-memory](https://crates.io/crates/openpaw-memory) | 0.1.0 | 0 | Memory and skills: nine memory types, spaced repetition, skill lifecycle (M3). |
+| 2026-10-27 06:41:04 | [openpaw-reflect-lite](https://crates.io/crates/openpaw-reflect-lite) | 0.1.0 | 0 | Minimal reflection loop: trigger → single-shot reflect → persist unverified (M4… |
+| 2026-10-27 06:41:38 | [olangc-ods](https://crates.io/crates/olangc-ods) | 1.0.0-rc.4 | 0 | ods — the numerical engine behind olang's data stack. Pure kernels, no olang de… |
+| 2026-10-27 06:41:41 | [olangc](https://crates.io/crates/olangc) | 1.0.0-rc.4 | 0 | olang, a functional language for real work: pipelines, pattern matching and imm… |
+| 2026-10-27 06:46:14 | [wasmnest-ws-client-engine](https://crates.io/crates/wasmnest-ws-client-engine) | 0.0.1 | 0 | WasmNest WS 出站连接能力域：主句柄表 + reader/writer 双任务 + 心跳 + 退避重连 + 帧信封 + 停用回收。默认形态 = 纯引… |
+| 2026-10-27 06:46:55 | [ashlar-rs](https://crates.io/crates/ashlar-rs) | 0.1.0 | 0 | Build fast desktop and web apps in Rust: store, commands, UI, native, agent con… |
+| 2026-10-27 06:50:12 | [zhandu](https://crates.io/crates/zhandu) | 0.1.1 | 0 | Fast terminal disk usage explorer with group and user accounting |
+| 2026-10-27 06:50:32 | [skidbladnir-systemd](https://crates.io/crates/skidbladnir-systemd) | 0.1.0 | 0 | Skíðblaðnir's systemd lifecycle on its own: the backend-neutral ServiceSpec and… |
+| 2026-10-27 06:56:13 | [wasmnest-host-kit](https://crates.io/crates/wasmnest-host-kit) | 0.0.1 | 0 | WasmNest 插件宿主机制内核：能力模块契约 + 插件实例状态 + 自动注册表（双端共享锚点） |
+| 2026-10-27 06:57:09 | [ashlar-update](https://crates.io/crates/ashlar-update) | 0.1.0 | 0 | Update checks: an app's latest release from a releases API, semantic-version co… |
+| 2026-10-27 07:01:03 | [solana-authority-scan](https://crates.io/crates/solana-authority-scan) | 0.1.0 | 0 | Who can change a Solana program, and how fast: upgrade authority, Squads v4 mul… |
+| 2026-10-27 07:06:17 | [wasmnest-server-base](https://crates.io/crates/wasmnest-server-base) | 0.0.1 | 0 | WasmNest 桌面 server 基础层：错误/常量/错误边界/系统信息/网络配置形状/连接身份/端口 traits（server-lib-split 票… |
+| 2026-10-27 07:16:33 | [wasmnest-crypto-engine](https://crates.io/crates/wasmnest-crypto-engine) | 0.0.1 | 0 | WasmNest 加密引擎：算法实现（x25519/aes_gcm/chacha/hkdf/rsa/hybrid）+ 名称寻址注册表（provider/reg… |
+| 2026-10-27 07:17:35 | [gitop](https://crates.io/crates/gitop) | 0.1.0 | 0 | A real-time top-like terminal dashboard for git repositories with branch graph… |
+| 2026-10-27 07:20:35 | [markdown-relink](https://crates.io/crates/markdown-relink) | 0.1.5 | 0 | Rename and move a note without breaking the vault: the inbound-wikilink rewrite… |
 
 ## Data source
 

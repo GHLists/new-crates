@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T06:26:19.923425Z,ashlar-ui,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"ashlar UI components: theme tokens, controls, layout, docking, icons"
+2026-10-27T06:27:32.388226Z,typed-fuse-core,0.7.0,0,0,https://github.com/vgough/typed-fuse,"Backend-neutral, node-tracking core for building FUSE filesystems"
+2026-10-27T06:27:32.911167Z,typed-fuse-sys,0.6.0,0,0,https://github.com/vgough/typed-fuse,"Raw bindings to libfuse 3, used by typed-fuse (fork of libfuse-sys)"
+2026-10-27T06:27:33.580188Z,typed-fuse,0.8.2,0,0,https://github.com/vgough/typed-fuse,"High-level, safe Rust wrapper for building FUSE 3 filesystems"
+2026-10-27T06:33:33.383424Z,wasmnest-plugin-api-macros,0.0.1,0,0,https://github.com/7ZAI/wasmnest,WasmNest Plugin API proc macros — #[plugin_api] trait 生成 JSON-RPC 分派/客户端 + 构建期 manifest 防漂移比对
+2026-10-27T06:33:57.516228Z,wasmnest-plugin-api,0.0.1,0,0,https://github.com/7ZAI/wasmnest,WasmNest Plugin API — trait definitions and shared types for WasmNest plugins
+2026-10-27T06:34:38.108449Z,wasmnest-contract,0.0.1,0,0,,WasmNest 插件契约常量（包名 / 版本唯一手写真源）——零依赖，只装常量、不装 WIT
+2026-10-27T06:34:43.511478Z,wasmnest-notify-engine,0.0.1,0,0,,WasmNest 通知域契约房（只持 WIT 契约，零实现）— 双端 host-notify 的唯一真源
+2026-10-27T06:35:30.08935Z,wasmnest-link-crypto,0.0.1,0,0,,WasmNest 局域网链路报文加密协议核心——桌面 server 与移动端 Rust 侧（event WS）共享，消除第三份实现
+2026-10-27T06:36:20.370964Z,wasmnest-host-api-core,0.0.1,0,0,https://github.com/7ZAI/BedCode,WasmNest host_api 共享实现核：无 WIT 依赖域的机制实现层（双端 wasm-core 各持 adapter）
+2026-10-27T06:36:39.442844Z,ashlar-app,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"ashlar runtime: App builder, frame scheduler, crash guard, logging, telemetry, agent control"
+2026-10-27T06:38:53.162141Z,plana-evernight-client,0.1.0,0,0,https://github.com/celestia-island/plana,"Shared evernight broker dispatch client for the PoleMos terminal command routing contract (P83/M1): request envelope, idempotency window, Unix-socket transport, error classification and target-scope…"
+2026-10-27T06:39:56.550168Z,openpaw-engine,0.1.0,0,0,https://github.com/KunlunMeta-Limited/openpaw.git,"Agent loop: run_turn, three-phase tool execution, compaction, fallback (M2, staged E1/E2)."
+2026-10-27T06:40:48.991036Z,openpaw-memory,0.1.0,0,0,https://github.com/KunlunMeta-Limited/openpaw.git,"Memory and skills: nine memory types, spaced repetition, skill lifecycle (M3)."
+2026-10-27T06:41:04.36591Z,openpaw-reflect-lite,0.1.0,0,0,https://github.com/KunlunMeta-Limited/openpaw.git,Minimal reflection loop: trigger → single-shot reflect → persist unverified (M4).
+2026-10-27T06:41:38.903398Z,olangc-ods,1.0.0-rc.4,0,0,https://github.com/ooyeku/olang,"ods — the numerical engine behind olang's data stack. Pure kernels, no olang dependency."
+2026-10-27T06:41:41.833642Z,olangc,1.0.0-rc.4,0,0,https://github.com/ooyeku/olang,"olang, a functional language for real work: pipelines, pattern matching and immutable data, with data frames, an HTTP server and SQLite in the standard library, and a bytecode VM and JIT. Installs th…"
+2026-10-27T06:46:14.817274Z,wasmnest-ws-client-engine,0.0.1,0,0,https://github.com/7ZAI/BedCode,WasmNest WS 出站连接能力域：主句柄表 + reader/writer 双任务 + 心跳 + 退避重连 + 帧信封 + 停用回收。默认形态 = 纯引擎机制 + 端口抽象（零 WIT / 零 SDK / 零平台依赖），任何宿主可直接引用
+2026-10-27T06:46:55.428853Z,ashlar-rs,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Build fast desktop and web apps in Rust: store, commands, UI, native, agent control"
+2026-10-27T06:50:12.293179Z,zhandu,0.1.1,0,0,https://github.com/zhanxw/zhandu,Fast terminal disk usage explorer with group and user accounting
+2026-10-27T06:50:32.536415Z,skidbladnir-systemd,0.1.0,0,0,https://git.gunnar.rs/nordisk/Skidbladnir,"Skíðblaðnir's systemd lifecycle on its own: the backend-neutral ServiceSpec and its init renderers, the shared systemd installer (unit, scope, user and dirs, start/stop/status over D-Bus), the drop-i…"
+2026-10-27T06:56:13.884541Z,wasmnest-host-kit,0.0.1,0,0,https://github.com/7ZAI/BedCode,WasmNest 插件宿主机制内核：能力模块契约 + 插件实例状态 + 自动注册表（双端共享锚点）
+2026-10-27T06:57:09.501988Z,ashlar-update,0.1.0,0,0,https://github.com/Himasnhu-AT/ashlar,"Update checks: an app's latest release from a releases API, semantic-version comparison, a background schedule, a cached last result, 'later' per version"
+2026-10-27T07:01:03.050875Z,solana-authority-scan,0.1.0,0,0,https://github.com/centrob/solana-authority-scan,"Who can change a Solana program, and how fast: upgrade authority, Squads v4 multisig settings and proposals, from public chain data. Read-only; holds no keys"
+2026-10-27T07:06:17.472334Z,wasmnest-server-base,0.0.1,0,0,,WasmNest 桌面 server 基础层：错误/常量/错误边界/系统信息/网络配置形状/连接身份/端口 traits（server-lib-split 票 02）
+2026-10-27T07:16:33.680055Z,wasmnest-crypto-engine,0.0.1,0,0,,WasmNest 加密引擎：算法实现（x25519/aes_gcm/chacha/hkdf/rsa/hybrid）+ 名称寻址注册表（provider/registry）——server-lib-split 票 02（D5）
+2026-10-27T07:17:35.055653Z,gitop,0.1.0,0,0,https://github.com/sebastianmichaelsturm/gitop,A real-time top-like terminal dashboard for git repositories with branch graph and commit inspector
+2026-10-27T07:20:35.27693Z,markdown-relink,0.1.5,0,0,https://github.com/osdlc/osdlc,"Rename and move a note without breaking the vault: the inbound-wikilink rewrite set, computed as a reviewable plan and applied under per-file compare-and-swap"
