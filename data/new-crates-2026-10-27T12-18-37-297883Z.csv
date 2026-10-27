@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T11:19:23.523049Z,esp-hal-co5300,0.1.0,0,0,https://github.com/tssujt/esp-hal-co5300,A no_std CO5300 AMOLED QSPI driver built on esp-hal (ESP32-S3)
+2026-10-27T11:21:01.423162Z,format198x-commodore-c64-prg,0.1.0,0,0,https://github.com/format198x/format198x,Commodore PRG program files — dependency-free decoding and encoding of the load address and payload.
+2026-10-27T11:21:32.380156Z,ticoraw,0.2.0,0,0,https://github.com/lukaj99/ticoraw,Clean-room decoder for Nikon High Efficiency (HE/HE*) NEF raw files (JPEG XS / TicoRAW codestreams)
+2026-10-27T11:21:35.869225Z,ticoraw-dng,0.2.0,0,0,https://github.com/lukaj99/ticoraw,"Complete DNG writer for Nikon HE/HE* NEF raw files decoded by ticoraw: lossless JPEG tiles, previews, EXIF/XMP/MakerNote carry-over"
+2026-10-27T11:21:41.074926Z,ticoraw-cli,0.2.0,0,0,https://github.com/lukaj99/ticoraw,"Command-line tool to convert Nikon HE/HE* NEF raw files to DNG, and to inspect, decode and verify them"
+2026-10-27T11:21:43.869947Z,ticoraw-capi,0.2.0,0,0,https://github.com/lukaj99/ticoraw,Stable C ABI for the ticoraw Nikon HE/HE* NEF decoder and DNG writer
+2026-10-27T11:23:27.455088Z,simd-json5,0.1.0,0,0,https://github.com/lxl66566/simd-json5,Fastest JSON5 parser and serializer with serde support
+2026-10-27T11:24:54.969202Z,ferrumec-main,0.1.0,0,0,,Rust library for bootstrapping an Actix Web server around Ferrumec⁠� modules.
+2026-10-27T11:30:21.04408Z,session-auth,0.1.0,0,0,https://github.com/faassen/session-auth,"Session-based authentication for web applications, with optional axum and clap integration."
+2026-10-27T11:31:06.95402Z,format198x-commodore-c64-t64,0.1.0,0,0,https://github.com/format198x/format198x,Commodore 64 T64 tape containers — dependency-free decoding and encoding of the directory and entries.
+2026-10-27T11:31:47.29237Z,kovadb,0.1.0,0,0,https://github.com/mdaparte/kova,"Database you talk to with a MongoDB driver. Stores documents, answers SQL, and searches text."
+2026-10-27T11:35:32.704996Z,basert-format,0.4.2,0,0,https://github.com/basecompute/baseRT,Reader and writer for the BaseRT .base model format
+2026-10-27T11:35:35.009683Z,basert-quant,0.4.2,0,0,https://github.com/basecompute/baseRT,Quantization packing routines for BaseRT .base models
+2026-10-27T11:35:37.110563Z,basert-readers,0.4.2,0,0,https://github.com/basecompute/baseRT,"GGUF, MLX-safetensors and HF-safetensors readers for the BaseRT converter"
+2026-10-27T11:35:39.03356Z,basert-sign,0.4.2,0,0,https://github.com/basecompute/baseRT,ed25519 signing and verification of BaseRT .base manifests
+2026-10-27T11:35:41.033745Z,basert-hub,0.4.2,0,0,https://github.com/basecompute/baseRT,"Model hub for BaseRT: resolve, download and catalog .base models"
+2026-10-27T11:38:05.33Z,meant,0.1.0,0,0,https://github.com/b3hr4d/candid-core,Canonical runtime Contract graph projection for Candid DID interfaces
+2026-10-27T11:41:11.897832Z,format198x-commodore-c64-tap,0.1.0,0,0,https://github.com/format198x/format198x,Commodore TAP datasette pulse images — dependency-free decoding and encoding.
+2026-10-27T11:46:01.021362Z,flowsurface-indicator-engine,0.9.0,0,0,https://github.com/flowsurface-rs/flowsurface,Aggr-level live scripting engine for Flowsurface indicator sources
+2026-10-27T11:46:33.099592Z,raypx-core,0.0.0-alpha.0,0,0,https://github.com/raypx/raypx,Foundational Rust primitives for Raypx
+2026-10-27T11:46:38.324327Z,raypx,0.0.0-alpha.0,0,0,https://github.com/raypx/raypx,The Rust entry point for Raypx
+2026-10-27T11:49:29.484892Z,gh-activity-report,0.1.1,0,0,https://github.com/bwestlin/gh-activity-report,Generate pull-request-focused standup reports from recent GitHub activity
+2026-10-27T11:51:18.448856Z,format198x-commodore-vic-20-crt,0.1.0,0,0,https://github.com/format198x/format198x,Commodore VIC-20 CRT and raw cartridge images — dependency-free decoding and encoding.
+2026-10-27T11:51:48.678353Z,kui-trace,0.1.0-alpha.68,0,0,https://github.com/qxuken/kui,"kui's recording format: a timeline of frames and what happened between them, its reader and writer, and adapters to Chrome's trace, Perfetto, speedscope and the Firefox Profiler (docs/adr/0058)"
+2026-10-27T11:52:53.463291Z,spiderweb-async,0.1.0,0,0,https://github.com/hchap1/spiderweb,Minimal crate allowing P2P connection with automatic MDNS resolution connecting nodes over TCP
+2026-10-27T11:53:00.377973Z,keydex-core,0.0.1,0,0,https://github.com/carlosemart/keydex,"Motor de configuración de keydex: fuentes, precedencia, interpolación y procedencia."
+2026-10-27T11:55:35.857002Z,libglass,0.1.0-alpha.1,0,0,https://github.com/aga-luna/LunaOS,"ALPHA, under construction. LunaGlass primitives: hexagons, icons, palette, easing curves and bitmap text, drawn into any &mut [u8]. no_std, one dependency by default."
+2026-10-27T11:58:04.281454Z,lsmdb-rs,0.1.0,0,0,https://github.com/monaaoua9/lsmdb,"LSM-tree storage engine: WAL, skiplist memtable, mmap SSTables with bloom filters, leveled compaction, MVCC snapshot isolation"
+2026-10-27T12:00:38.174885Z,meant-format,0.1.0,0,0,https://github.com/b3hr4d/candid-core,Exact conversion between the amounts people write and the base units a contract call carries. Never rounds.
+2026-10-27T12:01:24.166919Z,format198x-dragon-data-dragon-bin,0.1.0,0,0,https://github.com/format198x/format198x,DragonDOS BIN machine-code program files — dependency-free decoding and encoding.
+2026-10-27T12:05:43.098685Z,nodelink-rs,0.1.0,0,0,https://github.com/kam1ya/nodelink-rs.git,High-performance client for Lavalink v4 and NodeLink audio nodes.
+2026-10-27T12:08:05.093804Z,freeoxide-gpui-form-schema,0.11.0,0,0,https://github.com/freeoxide/gpui-form,Schema crate for gpui-form
+2026-10-27T12:08:08.367278Z,freeoxide-gpui-form-core,0.11.0,0,0,https://github.com/freeoxide/gpui-form,Core helpers for gpui-form.
+2026-10-27T12:09:24.012803Z,libwau,0.1.0,0,0,https://github.com/Gigas002/wau,World of Warcraft Addon Updater
+2026-10-27T12:09:28.785366Z,freeoxide-gpui-form-i18n,0.11.0,0,0,https://github.com/freeoxide/gpui-form,GPUI global-state i18n bridge backed by rust-i18n
+2026-10-27T12:09:35.744221Z,freeoxide-gpui-form-component-derive,0.11.0,0,0,https://github.com/freeoxide/gpui-form,Component-oriented proc macros for gpui-form runtime helpers.
+2026-10-27T12:09:47.870935Z,freeoxide-gpui-form-codegen,0.11.0,0,0,https://github.com/freeoxide/gpui-form,Code generation support for gpui-form derive macros.
+2026-10-27T12:11:29.522143Z,orbifold,0.0.1,0,0,https://github.com/ZnqbuZ/orbifold,PoC sans-I/O stateful packet processing framework.
+2026-10-27T12:11:31.267882Z,format198x-dragon-data-dragon-cas,0.1.0,0,0,https://github.com/format198x/format198x,"Dragon CAS cassette images — dependency-free decoding and encoding of leaders, blocks and checksums."
+2026-10-27T12:13:46.508609Z,freeoxide-gpui-form-component,0.11.0,0,0,https://github.com/freeoxide/gpui-form,"Custom components for gpui-form, including InfiniteSelect for nested enum support"
+2026-10-27T12:14:06.485025Z,basert-awq,0.4.2,0,0,https://github.com/basecompute/baseRT,AWQ (activation-aware weight quantization) calibration for BaseRT models
+2026-10-27T12:14:08.664199Z,basert-arch,0.4.2,0,0,https://github.com/basecompute/baseRT,Per-architecture tensor-name normalization for the BaseRT converter
+2026-10-27T12:14:11.061793Z,basert-cli,0.4.2,0,0,https://github.com/basecompute/baseRT,"The basert CLI: pull, convert and run LLMs locally with BaseRT"
+2026-10-27T12:15:28.132136Z,booksmart,0.1.0,0,0,https://github.com/markryall/booksmart,A terminal bookmark launcher: fuzzy-filter TOML bookmarks and open them in the right browser space
+2026-10-27T12:15:33.210997Z,baseRT,0.4.2,0,0,https://github.com/basecompute/baseRT,Safe Rust bindings for the BaseRT LLM inference engine (Apple Silicon)
