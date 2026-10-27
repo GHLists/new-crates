@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T07:20:56.020525Z,tradecraft-core,0.39.1,0,0,https://github.com/osdlc/osdlc,"The Tradecraft core: model a vault of markdown skill notes, scan it, and publish or build each note into the on-disk formats of coding-agent tools, through a filesystem seam that also runs under WebA…"
+2026-10-27T07:22:38.073342Z,openharmony-ability-plugin-audio,1.0.0-beta.3,0,0,https://github.com/harmony-contrib/openharmony-ability,Audio playback bridge plugin facade for openharmony-ability
+2026-10-27T07:27:09.077504Z,wasmnest-server-core,0.0.1,0,0,,WasmNest 桌面 server 内核层：生命周期/流量过滤链/链路加密/指标/组合装配（TransportFace+serve）——server-lib-split 票 03
+2026-10-27T07:32:15.819979Z,twill-core,0.3.0,0,0,https://github.com/FerrisMind/twill,Backend-agnostic style engine for the Twill Rust styling ecosystem
+2026-10-27T07:32:30.46872Z,twill-backend-common,0.3.0,0,0,https://github.com/FerrisMind/twill,Shared backend adapter glue for the Twill Rust styling ecosystem
+2026-10-27T07:32:44.075287Z,csaf-schema,0.1.0,0,0,https://github.com/csaf-rs/csaf-schema,This crate provides typified types derived from the CSAF JSON schema.
+2026-10-27T07:34:34.347451Z,twill-egui,0.3.0,0,0,https://github.com/FerrisMind/twill,egui adapter crate for the Twill Rust styling ecosystem
+2026-10-27T07:34:37.6867Z,culmen_core,0.1.0,0,0,https://github.com/FelixKahle/culmen,"The program as data, a modelling layer, a backend seam and a solve API with observation and a cooperative stop."
+2026-10-27T07:34:49.915478Z,culmen_macros,0.1.0,0,0,https://github.com/FelixKahle/culmen,"The modelling macros of culmen: variable!, constraint!, objective! and sum!, expanding to its methods."
+2026-10-27T07:35:21.999155Z,twill-iced,0.3.0,0,0,https://github.com/FerrisMind/twill,iced adapter crate for the Twill Rust styling ecosystem
+2026-10-27T07:36:13.189091Z,culmen_highs,0.1.0,0,0,https://github.com/FelixKahle/culmen,"The HiGHS backend of culmen: every HiGHS callback as a typed, safe context, typed options and statuses."
+2026-10-27T07:36:22.028826Z,twill-slint,0.3.0,0,0,https://github.com/FerrisMind/twill,slint adapter crate for the Twill Rust styling ecosystem
+2026-10-27T07:36:28.004605Z,culmen,0.1.0,0,0,https://github.com/FelixKahle/culmen,"Linear, mixed-integer and convex quadratic programming: models that read like the mathematics, a switchable backend, live observation and a cooperative stop."
+2026-10-27T07:37:01.677466Z,tenaz,0.0.1,0,0,https://github.com/aartiles/tenaz,"Placeholder for Tenaz, a runner that drives a local model through a coding agent until the goal passes its checks. Install it from https://github.com/aartiles/tenaz."
+2026-10-27T07:37:09.93602Z,uagent,0.1.0,0,0,https://github.com/spire-rs/uagent,Browser user agents with matching navigation headers and deterministic profile selection.
+2026-10-27T07:37:10.024261Z,wasmnest-server-http,0.0.1,0,0,,WasmNest 桌面 HTTP 传输面：动态端点注册表/协议网关/插件代理控制器/认证与流量过滤中间件/DTO 形状锚点 + host-http 能力域的插件绑定层（入站 2 + 出站 1 原语，wasm-core-lib-split 票 06）。默认形态 = 纯引擎机制 + 端口抽象（零 WIT 依赖），任何宿主可直接引用；`common-host` feature 装配 WIT 绑定层（b…
+2026-10-27T07:39:17.700592Z,hosting-di,0.1.0,0,0,https://github.com/aaxxios/host-rs,"Service collection, provider and scopes for the hosting crate"
+2026-10-27T07:39:18.641243Z,hosting-macros,0.1.0,0,0,https://github.com/aaxxios/host-rs,Derive and attribute macros for the hosting crate
+2026-10-27T07:39:21.70099Z,hosting-core,0.1.0,0,0,https://github.com/aaxxios/host-rs,Host and HostBuilder for the hosting crate
+2026-10-27T07:39:24.22256Z,hosting,0.1.0,0,0,https://github.com/aaxxios/host-rs,Dependency injection and application hosting modeled on Microsoft.Extensions.Hosting
+2026-10-27T07:39:48.646067Z,bionic-reader,0.1.0,0,0,https://github.com/arturoaviles/bionic-reader,Configurable bionic reading for text streams and interactive shells
+2026-10-27T07:40:17.402929Z,peephole,0.1.0,0,0,https://github.com/twitchax/peephole,"An MCP server that lets an agent see and drive a remote desktop over VNC, including macOS Screen Sharing"
+2026-10-27T07:41:08.58473Z,blamr,0.0.3,0,0,https://github.com/ajmalbuv/blamr,Concurrent git-blame author attribution and line statistics
+2026-10-27T07:44:33.672053Z,eska-fmt,0.19.0,0,0,https://github.com/1c-tooling/eska,Configurable standalone formatter for 1C BSL and SDBL sources
+2026-10-27T07:45:34.678779Z,pagesift-office,0.80.0,0,0,https://github.com/YOLOW92/pagesift,"Office documents to Markdown: Word (.docx), Excel (.xlsx), PowerPoint (.pptx), EPUB and CSV, with its own ZIP and XML readers."
+2026-10-27T07:46:27.060508Z,shadcn-common,0.5.0,0,0,https://github.com/FerrisMind/shadcn-rs,"Shared shadcn design tokens for iced-shadcn and egui-shadcn, built on twill"
+2026-10-27T07:48:05.611258Z,miju-cron,0.1.1,0,0,https://github.com/nanfeng-labs/miju-cron,A simple and extensible library for scheduling recurring tasks in rust.
+2026-10-27T07:48:39.467346Z,wasmnest-server-websocket,0.0.1,0,0,,WasmNest 桌面 WebSocket 传输面：连接骨架/插件端点通道/连接与端点注册表/生命周期与优雅停机 + host-websocket 能力域的插件绑定层（server-lib-split 票 05 / wasm-core-lib-split 票 04）。默认形态 = 纯引擎机制 + 端口抽象（零 WIT 依赖），任何宿主可直接引用；`common-host` feature 装配…
+2026-10-27T07:54:38.457078Z,iced-shadcn-v2,0.5.0,0,0,https://github.com/FerrisMind/shadcn-rs,Builder-first shadcn-inspired component kit for iced (v2 API)
+2026-10-27T07:55:10.269258Z,stl_say_hello,0.1.1,0,0,,Say Hello Library
+2026-10-27T07:57:00.00985Z,toolconfig,0.0.0,0,0,,"EditorConfig, extended to your tools. Name reserved; ToolConfig is under development."
+2026-10-27T07:57:16.829309Z,controlresell-sdk,1.0.0,0,0,https://github.com/controlresell/rust-sdk,Rust SDK for the ControlResell public API
+2026-10-27T07:57:22.074726Z,wasmnest-server-peer-net,0.0.1,0,0,,WasmNest 桌面对等网络引擎域：节点身份/节点与发现守护生命周期/host-peer 引擎转发 + host-peer 能力域的插件绑定层（server-lib-split 票 06 / wasm-core-lib-split 票 05）。默认形态 = 纯引擎机制 + 端口抽象（零 WIT 依赖，仅保留 base 契约的 BusMessage 类型依赖——P4 记录），任何宿主可直接引用；…
+2026-10-27T08:08:19.862637Z,wasmnest-discovery-engine,0.0.1,0,0,https://github.com/7ZAI/BedCode,WasmNest 组播发现能力域：mDNS 共享守护 + 浏览/广播句柄表。默认形态 = 纯引擎机制 + 端口抽象（零 WIT 依赖），任何宿主可直接引用；`common-host` feature 装配 WIT 绑定层（bindgen!/HostModule/inventory/impl Host）——能力域脱绑 P2
+2026-10-27T08:10:06.010878Z,flattrace-read,0.2.0,0,0,https://github.com/kyraneth/flattrace,"Offline reader engine for flattrace v1 JSONL: check, pair, quantiles, digest and query"
+2026-10-27T08:15:23.868575Z,vaegram,0.1.0,0,0,https://github.com/rjriajul/vaegram,Telegram MTProto client library for users and bots
+2026-10-27T08:16:11.476559Z,emu198x-peripheral-sinclair-zx-spectrum-beta-disk,0.1.0,0,0,https://github.com/emu198x/emu198x,Beta 128 disk interface — TR-DOS ROM paging and WD1793 stub used by Russian Spectrum clones
+2026-10-27T08:16:16.182991Z,emu198x-sinclair-zx-spectrum-ula,0.1.0,0,0,https://github.com/emu198x/emu198x,"The ZX Spectrum ULA's shared video engine — screen fetch, two-stage shifter, border, flash, interrupt timing and floating bus — that every Spectrum-family ULA crate wraps"
+2026-10-27T08:16:19.547393Z,emu198x-sony-spc700,0.1.0,0,0,https://github.com/emu198x/emu198x,Sony SPC700 (S-SMP) CPU with a cycle-accurate pin-level bus interface
+2026-10-27T08:16:22.783313Z,emu198x-wdc-65c816,0.1.0,0,0,https://github.com/emu198x/emu198x,WDC 65C816 CPU with a cycle-accurate pin-level bus interface
+2026-10-27T08:16:27.895848Z,emu198x-yamaha-ym2610,0.1.0,0,0,https://github.com/emu198x/emu198x,"Yamaha YM2610 (OPNB): FM, SSG, ADPCM-A and ADPCM-B, cycle-stepped — SNK Neo Geo"
+2026-10-27T08:17:21.988203Z,vae,0.1.0,0,0,https://github.com/rjriajul/vaegram,"Short name for vaegram, a Telegram MTProto client library for users and bots"
+2026-10-27T08:17:35.389007Z,wasmnest-pty-engine,0.0.1,0,0,,WasmNest PTY 能力域（host-pty 6 原语 + 插件私有伪终端引擎面）：跨平台伪终端管理与输出环形缓冲 + WIT 接线（pty-capability-domain 票 D1：引擎面与能力域同 crate）。默认形态 = 纯引擎机制 + 端口抽象（零 WIT 依赖），任何宿主可直接引用；`common-host` feature 装配 WIT 绑定层（bindgen!/Host…
