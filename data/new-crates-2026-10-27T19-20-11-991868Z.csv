@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T18:23:23.47812Z,coherynui-agent-api,1.0.1,0,0,https://github.com/Coheryn/coheryn-ui,"CoherynUI agent introspection, diagnostic verification, and project planning API"
+2026-10-27T18:23:39.765704Z,coherynui-plugin-host,1.0.1,0,0,https://github.com/Coheryn/coheryn-ui,WebAssembly sandboxed plugin execution host for CoherynUI
+2026-10-27T18:24:25.046667Z,quiet-list,0.1.0,0,0,https://github.com/trypsynth/quiet-list,A wxDragon list of any length whose rows can change without the screen reader reading them out again
+2026-10-27T18:24:36.846321Z,esdieff,0.1.0,0,0,https://github.com/pederbe/esdieff,An SDF toolkit for connected-device models (RFC 9880)
+2026-10-27T18:25:50.356738Z,hharness-ledger,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C0/Stage-1 event store / run ledger (spec §5a.1, R-2.2.1; ADR-0026/0027/0028/0029): the sole authoritative record of what a run decided, did and observed — a typed append-only hash-chained event…"
+2026-10-27T18:31:57.809937Z,centrifuge-client-core,0.1.0,0,0,https://github.com/centrifugal/centrifuge-rust,Sans-IO protocol state machine behind centrifuge-client. Not a stable API: use centrifuge-client.
+2026-10-27T18:32:11.821689Z,centrifuge-client,0.1.0,0,0,https://github.com/centrifugal/centrifuge-rust,"Real-time client SDK for Centrifugo and Centrifuge: WebSocket and HTTP-streaming, subscriptions, recovery"
+2026-10-27T18:32:20.05889Z,coherynui-compiler,1.0.1,0,0,https://github.com/Coheryn/coheryn-ui,Incremental CSS compiler and cascade layer assembler for CoherynUI
+2026-10-27T18:37:13.861743Z,hharness-budget,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C0/Stage-1 resource-economics & accounting model (spec §8.2, R-2.1.6): the canonical resource/accounting schema — ResourceQuantity/Vector, usage_mapping lowering to exclusive token roles, Attribu…"
+2026-10-27T18:41:10.927164Z,benchwork-mcp,0.1.0-beta.6,0,0,https://github.com/gaugeblock/benchwork,Model Context Protocol stdio server for benchwork
+2026-10-27T18:41:13.713201Z,coherynui-mcp,1.0.1,0,0,https://github.com/Coheryn/coheryn-ui,Official CoherynUI Model Context Protocol (MCP) server for coding agents
+2026-10-27T18:45:54.036143Z,mumcord-protocol,0.4.2,0,0,https://github.com/Mumcord/mumcord,"Mumble protocol: TLS control channel, protobuf messages, UDP voice crypto"
+2026-10-27T18:46:51.893166Z,coqui-net-acl,0.0.0-alpha.0,0,0,https://github.com/Boriken-Dev/coqui-net-acl,"Ordered, first-match access control lists over source networks, with pre-read and post-handshake evaluation"
+2026-10-27T18:48:35.929777Z,hharness-hosting,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The hh-hosting/1 Hosting ABI schema slice (spec §6.6, R-2.10.6⁰; ticket S3.4d; ADR-0164/0165/0166 (e)): the HostedEvent envelope with I-1…I-5 validation, proj_ABI (native-ledger → hosted presentation…"
+2026-10-27T18:49:29.376561Z,guish,0.0.0,0,0,,A UI toolkit for native and WASM applications. This release only reserves the name.
+2026-10-27T18:50:18.144739Z,coqui-peer,0.0.0-alpha.0,0,0,https://github.com/Boriken-Dev/coqui-peer,"Peer identity and trust independent of the authentication method: ids, a trust store with pairing, and a sans-IO handshake trait"
+2026-10-27T18:51:26.639354Z,coherynui-cli,1.0.1,0,0,https://github.com/Coheryn/coheryn-ui,"CoherynUI CLI — Incremental styling compiler, development server, and agent orchestration"
+2026-10-27T18:51:34.630973Z,fabric2rust,0.1.0,0,0,,A JSON-mapped Rust API for interacting with a running Minecraft Fabric client
+2026-10-27T18:54:06.80435Z,coqui-peer-tls,0.0.0-alpha.0,0,0,https://github.com/Boriken-Dev/coqui-peer-tls,"The TLS method of coqui-peer: mutual-TLS identity with pinned, CA and key-proof trust, policy profiles and encrypted streams"
+2026-10-27T18:54:40.58596Z,mhfe-core,0.1.0,0,0,https://github.com/hobby-eng/mhfe_core,Experimental Memory-Hard Feistel Encryption for BIP39 mnemonics: suites 3 and 4 and their profiles
+2026-10-27T18:56:00.165975Z,rebirth-box2d,0.1.0,0,0,https://github.com/markankamaransheogarat-sys/rebirth-box2d,"A safe, zero-unsafe Rust port of Erin Catto's classic Box2D-Lite 2D physics engine. Features sequential impulses, warm starting, joint constraints, no_std, and WebAssembly support."
+2026-10-27T18:56:39.985561Z,compmd,0.0.1,0,0,https://github.com/comp-markdown/compmd,"The CompMD processor: parses, validates and expands CompMD (Component Markdown) documents. In development."
+2026-10-27T18:56:55.684773Z,fact-kit,0.3.0-alpha.1,0,0,https://github.com/carlos-space/fact-kit,Read the facts of a fact-kit index.json from Rust
+2026-10-27T18:59:22.559082Z,tmax,0.5.0,0,0,https://github.com/rektide/tmax,"Native tmux commands, typed queries, and persistent control sessions"
+2026-10-27T18:59:59.966095Z,hharness-plugin,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C0/Stage-1 extensibility / plugin-architecture contract surface (spec §8.4, R-2.12.2; ticket S1.27; ADR-0180…0182): `ContractRef`/`ContractVersionPolicy`/`check_compatibility` (version-range ∩ su…"
+2026-10-27T19:00:23.531205Z,hharness-registry,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C0/Stage-1 component-variation registry store (spec §6.2, R-2.10.2⁰): the closed registry/1 record kinds, the one RegistryEnvelope with its three status axes, the hh/ + local/ namespaces, registe…"
+2026-10-27T19:03:16.363912Z,nornir-identity-web,0.1.0,0,0,https://git.gunnar.rs/nordisk/edda,"The consoles' shared identity web assets, one copy for every product (A34 M-7): the login page helpers (where a login may send the person, the invite panel's end, the hint words) as one script both c…"
+2026-10-27T19:07:39.738301Z,mumcord-audio,0.4.2,0,0,https://github.com/Mumcord/mumcord,"Voice audio for Mumble clients and bots: Opus codec, jitter buffer, mixer, device I/O and processing chain"
+2026-10-27T19:07:50.875604Z,quinn-udp-plus,0.6.3,0,0,https://github.com/acking-you/quinn,"UDP sockets with ECN information for the QUIC transport protocol (the fork pb-mapper pins, published as quinn-udp-plus)"
+2026-10-27T19:07:50.991589Z,authzoo-server,0.1.0,0,0,https://github.com/nresare/authzoo,"Axum server utilities for identity services: TLS, request logging and graceful shutdown"
+2026-10-27T19:08:09.651302Z,authzoo-oauth,0.1.0,0,0,https://github.com/nresare/authzoo,OAuth 2.0 and OpenID Connect building blocks for identity providers and MCP brokers
+2026-10-27T19:08:09.863254Z,quinn-proto-plus,0.12.0,0,0,https://github.com/acking-you/quinn,"State machine for the QUIC transport protocol (the fork pb-mapper pins, published as quinn-proto-plus)"
+2026-10-27T19:08:18.127885Z,quinn-plus,0.12.0,0,0,https://github.com/acking-you/quinn,"Versatile QUIC transport protocol implementation (the fork pb-mapper pins, published as quinn-plus)"
+2026-10-27T19:08:24.913948Z,rcgen-plus,0.15.0,0,0,https://github.com/acking-you/rcgen,"Rust X.509 certificate generator (the fork pb-mapper pins, published as rcgen-plus)"
+2026-10-27T19:12:01.993588Z,hharness-assembly,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C0/Stage-1 configuration & composition model (spec §3.3, R-2.1.4): the assembly grammar in the HIR/1 schema, the class catalog for control_strategy and context_policy over the registry's ClassRec…"
+2026-10-27T19:14:21.462135Z,cvlr-rule-manifest,0.6.2,0,0,https://github.com/Certora/cvlr,The .cvlr_rules section that lists a program's compiled rules
+2026-10-27T19:15:26.414765Z,ktx-rs-macros,4.4.2,0,0,https://github.com/qbart/ktx-rs,Internal proc macros of the ktx-rs crate
+2026-10-27T19:15:42.236929Z,ktx-rs,4.4.2,0,0,https://github.com/qbart/ktx-rs,Rust port of Khronos KTX-Software (libktx and ktx CLI)
+2026-10-27T19:17:36.257771Z,dynamo-custom-policy-builtin,0.0.0-alpha.0,0,0,,Placeholder for soon-to-be-published crate
