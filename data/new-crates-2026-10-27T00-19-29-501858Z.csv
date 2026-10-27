@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-26T23:23:35.459472Z,hearth-mp-gateway,0.1.1,0,0,https://github.com/tigwyk/hearth-mp,"Hearth Gateway Worker library: auth providers, token verification and room routing."
+2026-10-26T23:24:42.07956Z,bboxy450-desktop-notifications,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,Desktop notifications with stable identifiers and response callbacks
+2026-10-26T23:25:28.163887Z,libra-test,0.1.0,0,0,https://github.com/thomasjonesdev/libra,Libra in-process test harness
+2026-10-26T23:26:14.236004Z,letify,2.8.7,0,0,https://github.com/DarkPyonix/letify,"The Rust face of letify, a declarative tool for running Python and PyTorch work on remote GPUs."
+2026-10-26T23:31:54.43821Z,solana_kit_attestation_service,0.0.0,0,0,https://github.com/pina-rs/solana_kit,Reserved off-chain Attestation Service client crate for the portable Solana Kit SDK
+2026-10-26T23:33:52.079751Z,hearth-mp-admin,0.1.1,0,0,https://github.com/tigwyk/hearth-mp,Hearth v0.2c admin: room registry Durable Object and the token-gated /admin router.
+2026-10-26T23:34:41.846513Z,bboxy450-harness-host,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,"Local PTY supervisor, fenced clients and capture rings without Tokio"
+2026-10-26T23:35:28.259152Z,libra-platform,0.1.0,0,0,https://github.com/thomasjonesdev/libra,Libra windowed shell
+2026-10-26T23:39:44.501725Z,oxide-charts,0.1.0,0,0,https://github.com/pullcut/oxide,"Framework-neutral chart maths for oxide: scales, ticks and mark geometry."
+2026-10-26T23:39:45.256485Z,oxide-statechart,0.1.0,0,0,https://github.com/pullcut/oxide,The machine contract behind oxide UI components: pure state machines that return state and commands.
+2026-10-26T23:39:45.877701Z,oxide-tokens,0.1.0,0,0,https://github.com/pullcut/oxide,"Design tokens and component styles for oxide as plain CSS, with light and dark themes."
+2026-10-26T23:39:48.68409Z,oxide-machines,0.1.0,0,0,https://github.com/pullcut/oxide,"Framework-neutral, tested state machines for accessible UI components (tabs, menus, dialogs, comboboxes and more)."
+2026-10-26T23:39:50.98253Z,oxide-headless,0.1.0,0,0,https://github.com/pullcut/oxide,"Headless UI connectors: ARIA attributes, roving focus, key mapping and overlay placement as plain data, shared by oxide adapters."
+2026-10-26T23:44:06.730078Z,hearth-mp,0.1.1,0,0,https://github.com/tigwyk/hearth-mp,Hearth: a Rust framework for Durable Object game servers.
+2026-10-26T23:44:42.35652Z,bboxy450-harness-wake-up,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,"Launch, observe and safely wake terminal harnesses through their native protocols"
+2026-10-26T23:45:30.010995Z,libra-ui,0.1.0,0,0,https://github.com/thomasjonesdev/libra,Deterministic native UI framework
+2026-10-26T23:49:15.025169Z,prv,0.1.0,0,0,,"Call a function, print its return value, and return that value to the caller."
+2026-10-26T23:49:48.023422Z,kitctl-core,2.0.0,0,0,https://github.com/Zwin-ux/kit,"Shared contracts for Kit: runs, receipts, gates, and configuration"
+2026-10-26T23:49:53.471831Z,kitctl-gate,2.0.0,0,0,https://github.com/Zwin-ux/kit,Definition-of-done gate and blast-radius firewall for Kit
+2026-10-26T23:49:55.827594Z,kitctl-agents,2.0.0,0,0,https://github.com/Zwin-ux/kit,"Agent adapters for Codex, Claude Code, Grok Build, and Ollama"
+2026-10-26T23:50:05.738721Z,kitctl-tui,2.0.0,0,0,https://github.com/Zwin-ux/kit,Kit Control Room — the terminal surface
+2026-10-26T23:50:10.189374Z,oxide-dioxus,0.1.0,0,0,https://github.com/pullcut/oxide,"Accessible UI components for Dioxus (web, desktop, mobile), built on oxide state machines and headless connectors."
+2026-10-26T23:50:18.314334Z,kitctl,2.0.0,0,0,https://github.com/Zwin-ux/kit,"Set up Claude Code, Codex and Grok for one job with kits of skills, rules, MCP servers and hooks, then run agents in isolated worktrees and prove the result with your repo's own checks"
+2026-10-26T23:54:42.146274Z,bboxy450-keychain-file,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,Private passphrase-less file custody for caller-owned key material
+2026-10-27T00:00:09.777869Z,oxide-leptos,0.1.0,0,0,https://github.com/pullcut/oxide,"Accessible UI components for Leptos, built on oxide state machines and headless connectors. Works with server rendering."
+2026-10-27T00:00:58.059658Z,paping,0.1.0,0,0,https://github.com/Ariazonaa/paping,"TCP port ping: a modern, drop-in compatible rewrite of paping"
+2026-10-27T00:04:41.996725Z,bboxy450-proto,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,Terminal viewport and GUI wire types shared by app and logic
+2026-10-27T00:09:42.139179Z,xur-span,0.1.1,0,0,https://github.com/pigeonhands/xur,"Source map, spans and interned symbols for the Xur language"
+2026-10-27T00:09:45.060912Z,xur-ast,0.1.1,0,0,https://github.com/pigeonhands/xur,The abstract syntax tree of the Xur language
+2026-10-27T00:09:46.210936Z,xur-errors,0.1.1,0,0,https://github.com/pigeonhands/xur,Diagnostics and their rendering for the Xur language
+2026-10-27T00:09:48.788943Z,xur-parser,0.1.1,0,0,https://github.com/pigeonhands/xur,Lexer and parser for the Xur language
+2026-10-27T00:09:51.914559Z,xur-resolve,0.1.1,0,0,https://github.com/pigeonhands/xur,Module loading and name resolution for the Xur language
+2026-10-27T00:11:41.288145Z,cronoq-core,0.2.0,0,0,https://github.com/synaptiai/cronoq,Sans-IO core engine of the cronoq elastic priority scheduler
+2026-10-27T00:11:55.598109Z,cronoq-proto,0.2.0,0,0,https://github.com/synaptiai/cronoq,Protocol buffer definitions and generated gRPC code for cronoq
+2026-10-27T00:12:02.662948Z,cronoq,0.2.0,0,0,https://github.com/synaptiai/cronoq,"Elastic, priority-aware task scheduler: aging, deadlines, fixed starts, DAGs, retries and autoscaling"
+2026-10-27T00:12:24.389065Z,cronoq-cli,0.2.0,0,0,https://github.com/synaptiai/cronoq,"Command-line client for cronoq-server, with a live top view"
+2026-10-27T00:12:36.035933Z,xur-runtime,0.1.1,0,0,https://github.com/pigeonhands/xur,"Values, native-function registry and facet conversions for the Xur language"
+2026-10-27T00:12:41.665072Z,cronoq-store-postgres,0.2.0,0,0,https://github.com/synaptiai/cronoq,"PostgreSQL store for cronoq: durable state, leader election and fencing"
+2026-10-27T00:13:09.064508Z,autumn-figma,0.1.0,0,0,https://github.com/autumn-foundation/autumn-figma,"A CLI that turns Figma designs into Maud components, CSS design tokens, and htmx-ready fragments for Autumn apps."
+2026-10-27T00:13:16.824481Z,libra-ui-cli,0.1.0,0,0,https://github.com/thomasjonesdev/libra,"Libra CLI: new, dev, check, test, build, package"
+2026-10-27T00:14:41.935957Z,bboxy450-ui,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,bboxy450-term: token-resolved UI styles and components

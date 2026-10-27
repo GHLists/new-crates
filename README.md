@@ -8,56 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 23:18 UTC
+## Latest list — 2026-10-27 00:19 UTC
 
-New crates published between 2026-10-26 22:21 UTC and 2026-10-26 23:18 UTC.
+New crates published between 2026-10-26 23:18 UTC and 2026-10-27 00:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-26T23-18-36-292702Z.csv)
+[Full CSV](data/new-crates-2026-10-27T00-19-29-501858Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-26 22:21:25 | [nova-core-macros](https://crates.io/crates/nova-core-macros) | 0.1.0 | 0 | Procedural macros for nova-ta-core: fallible Num arithmetic written as infix ex… |
-| 2026-10-26 22:24:41 | [bboxy450-rt](https://crates.io/crates/bboxy450-rt) | 0.1.0 | 0 | Shared IO runtime and bounded, non-blocking UI handoff |
-| 2026-10-26 22:25:27 | [libra-query](https://crates.io/crates/libra-query) | 0.1.0 | 0 | Libra query helpers |
-| 2026-10-26 22:32:36 | [hearth-mp-protocol](https://crates.io/crates/hearth-mp-protocol) | 0.1.1 | 0 | Hearth wire protocol v1: frames, opcodes, codec and patch ops. |
-| 2026-10-26 22:32:37 | [hearth-mp-sync-derive](https://crates.io/crates/hearth-mp-sync-derive) | 0.1.1 | 0 | Derive macros for Hearth state sync: #[derive(Schema)] and #[derive(HearthState… |
-| 2026-10-26 22:32:38 | [hearth-mp-client](https://crates.io/crates/hearth-mp-client) | 0.1.1 | 0 | Hearth v0.1 sans-IO client core: handshake, patch apply, intent batching, send… |
-| 2026-10-26 22:32:38 | [hearth-mp-sync](https://crates.io/crates/hearth-mp-sync) | 0.1.1 | 0 | Hearth v0.1 state sync: SyncMap, tree diff, schema hashing and owner-scoped vie… |
-| 2026-10-26 22:32:39 | [hearth-mp-server](https://crates.io/crates/hearth-mp-server) | 0.1.1 | 0 | Hearth room runtime: Room trait, Ctx, buffered effects and the Durable Object a… |
-| 2026-10-26 22:34:17 | [rrdr](https://crates.io/crates/rrdr) | 0.2.4 | 0 | Build and install RRDR, the Rust mod framework for Red Dead Redemption 2 |
-| 2026-10-26 22:34:41 | [bboxy450-term-core](https://crates.io/crates/bboxy450-term-core) | 0.1.0 | 0 | Forked terminal model and parser with resumable checkpoints |
-| 2026-10-26 22:35:27 | [libra-components](https://crates.io/crates/libra-components) | 0.1.0 | 0 | Libra component catalog and layout |
-| 2026-10-26 22:37:27 | [irmin_rs](https://crates.io/crates/irmin_rs) | 1.0.0 | 0 | A Sophon download management library, for use on Linux with 'Anime Games' |
-| 2026-10-26 22:44:41 | [bboxy450-ui-core](https://crates.io/crates/bboxy450-ui-core) | 0.1.0 | 0 | Portable terminal cockpit state, layout data and generated design tokens |
-| 2026-10-26 22:45:28 | [libra-raster](https://crates.io/crates/libra-raster) | 0.1.0 | 0 | Libra deterministic rasterizer |
-| 2026-10-26 22:48:18 | [plantuml-core](https://crates.io/crates/plantuml-core) | 0.1.0 | 0 | PlantUML diagram rendering core (no I/O, wasm-compatible) |
-| 2026-10-26 22:48:58 | [plantuml-cli](https://crates.io/crates/plantuml-cli) | 0.1.0 | 0 | Command line renderer for plantuml-core |
-| 2026-10-26 22:50:20 | [brewscale](https://crates.io/crates/brewscale) | 0.1.2 | 0 | Protocol-agnostic BLE coffee-scale API for desktop and embedded systems |
-| 2026-10-26 22:52:51 | [address-parser](https://crates.io/crates/address-parser) | 0.1.5 | 0 | Parse free-text US postal addresses into house number, street, unit, city, stat… |
-| 2026-10-26 22:53:28 | [unstirred-core](https://crates.io/crates/unstirred-core) | 0.1.0 | 0 | The shared contract of Unstirred: the gate manifest, the window and context rul… |
-| 2026-10-26 22:53:48 | [rrdr-bridge](https://crates.io/crates/rrdr-bridge) | 0.1.0 | 0 | Rust <-> ScriptHookRDR2DotNet bridge: native call ABI, Mod trait and loader glue |
-| 2026-10-26 22:54:11 | [rrdr-natives](https://crates.io/crates/rrdr-natives) | 0.1.0 | 0 | Generated typed Rust bindings for the RDR2 native API |
-| 2026-10-26 22:54:33 | [rrdr-game](https://crates.io/crates/rrdr-game) | 0.1.0 | 0 | High-level Rust object API for Red Dead Redemption 2 |
-| 2026-10-26 22:54:37 | [unstirred-prover](https://crates.io/crates/unstirred-prover) | 0.1.0 | 0 | The holder's half of Unstirred: read-only wallet access, note selection, histor… |
-| 2026-10-26 22:54:41 | [bboxy450-yarn-macros](https://crates.io/crates/bboxy450-yarn-macros) | 0.1.0 | 0 | Procedural macros for the yarn async reactor kernel |
-| 2026-10-26 22:55:06 | [unstirred-verifier](https://crates.io/crates/unstirred-verifier) | 0.1.0 | 0 | The gate's half of Unstirred: the verification engine over roots it authenticat… |
-| 2026-10-26 22:55:28 | [libra-interp](https://crates.io/crates/libra-interp) | 0.1.0 | 0 | Libra view interpreter (development engine) |
-| 2026-10-26 22:55:44 | [unstirred-gate](https://crates.io/crates/unstirred-gate) | 0.1.0 | 0 | The Unstirred gate as an HTTP service: one room per manifest, challenge and adm… |
-| 2026-10-26 22:57:16 | [unstirred](https://crates.io/crates/unstirred) | 0.1.0 | 0 | Prove you held Zcash, unmoved, between two blocks - without revealing your addr… |
-| 2026-10-26 23:00:21 | [rs-sqlite-blob2zstd](https://crates.io/crates/rs-sqlite-blob2zstd) | 0.1.0 | 0 | Compress SQLite BLOBs using zstd |
-| 2026-10-26 23:03:21 | [mars-schema](https://crates.io/crates/mars-schema) | 0.20.1 | 0 | Pure schema reader and editor for Mars agent packages |
-| 2026-10-26 23:04:37 | [rain-math-float-macro](https://crates.io/crates/rain-math-float-macro) | 0.1.1 | 0 | Compile-time and fallible literal macros for rain-math-float |
-| 2026-10-26 23:04:42 | [rain-math-float-serde](https://crates.io/crates/rain-math-float-serde) | 0.1.1 | 0 | Serde helpers and decimal debug formatting for rain-math-float |
-| 2026-10-26 23:05:28 | [libra-effects](https://crates.io/crates/libra-effects) | 0.1.0 | 0 | Libra effect runtime |
-| 2026-10-26 23:08:18 | [hearth-mp-cli](https://crates.io/crates/hearth-mp-cli) | 0.1.1 | 0 | Hearth CLI: `hearth-mp new`, `hearth-mp dev`, `hearth-mp deploy`. |
-| 2026-10-26 23:08:18 | [hearth-mp-server-macros](https://crates.io/crates/hearth-mp-server-macros) | 0.1.1 | 0 | Hearth `#[hearth_mp::room]` attribute macro: generates the Durable Object wrapp… |
-| 2026-10-26 23:08:19 | [hearth-mp-test](https://crates.io/crates/hearth-mp-test) | 0.1.1 | 0 | Hearth test harness: in-memory Host, TestRoom, TestClient and hibernation fuzz. |
-| 2026-10-26 23:12:26 | [letify-link](https://crates.io/crates/letify-link) | 0.0.0 | 0 | Reserved for the letify project. The first release ships with letify 3.0. |
-| 2026-10-26 23:12:28 | [letify-proto](https://crates.io/crates/letify-proto) | 0.0.0 | 0 | Reserved for the letify project. The first release ships with letify 3.0. |
-| 2026-10-26 23:12:42 | [promessa-posture-controller](https://crates.io/crates/promessa-posture-controller) | 0.1.4 | 0 | The tick-by-tick posture PromessaController — a Viggy TargetController that con… |
-| 2026-10-26 23:13:17 | [hearth-mp-matchmaker](https://crates.io/crates/hearth-mp-matchmaker) | 0.1.1 | 0 | Hearth v0.3a matchmaker: quick-join with seat reservations, pools and a lobby l… |
-| 2026-10-26 23:14:41 | [bboxy-firehose](https://crates.io/crates/bboxy-firehose) | 0.1.0 | 0 | Embedded synthetic terminal scenes for PTY throughput and fidelity checks |
-| 2026-10-26 23:15:27 | [libra-build](https://crates.io/crates/libra-build) | 0.1.0 | 0 | Build-time view codegen for Libra apps (ARCHITECTURE.md §6.4, PLAN-PACKAGE P0) |
+| 2026-10-26 23:23:35 | [hearth-mp-gateway](https://crates.io/crates/hearth-mp-gateway) | 0.1.1 | 0 | Hearth Gateway Worker library: auth providers, token verification and room rout… |
+| 2026-10-26 23:24:42 | [bboxy450-desktop-notifications](https://crates.io/crates/bboxy450-desktop-notifications) | 0.1.0 | 0 | Desktop notifications with stable identifiers and response callbacks |
+| 2026-10-26 23:25:28 | [libra-test](https://crates.io/crates/libra-test) | 0.1.0 | 0 | Libra in-process test harness |
+| 2026-10-26 23:26:14 | [letify](https://crates.io/crates/letify) | 2.8.7 | 0 | The Rust face of letify, a declarative tool for running Python and PyTorch work… |
+| 2026-10-26 23:31:54 | [solana_kit_attestation_service](https://crates.io/crates/solana_kit_attestation_service) | 0.0.0 | 0 | Reserved off-chain Attestation Service client crate for the portable Solana Kit… |
+| 2026-10-26 23:33:52 | [hearth-mp-admin](https://crates.io/crates/hearth-mp-admin) | 0.1.1 | 0 | Hearth v0.2c admin: room registry Durable Object and the token-gated /admin rou… |
+| 2026-10-26 23:34:41 | [bboxy450-harness-host](https://crates.io/crates/bboxy450-harness-host) | 0.1.0 | 0 | Local PTY supervisor, fenced clients and capture rings without Tokio |
+| 2026-10-26 23:35:28 | [libra-platform](https://crates.io/crates/libra-platform) | 0.1.0 | 0 | Libra windowed shell |
+| 2026-10-26 23:39:44 | [oxide-charts](https://crates.io/crates/oxide-charts) | 0.1.0 | 0 | Framework-neutral chart maths for oxide: scales, ticks and mark geometry. |
+| 2026-10-26 23:39:45 | [oxide-statechart](https://crates.io/crates/oxide-statechart) | 0.1.0 | 0 | The machine contract behind oxide UI components: pure state machines that retur… |
+| 2026-10-26 23:39:45 | [oxide-tokens](https://crates.io/crates/oxide-tokens) | 0.1.0 | 0 | Design tokens and component styles for oxide as plain CSS, with light and dark… |
+| 2026-10-26 23:39:48 | [oxide-machines](https://crates.io/crates/oxide-machines) | 0.1.0 | 0 | Framework-neutral, tested state machines for accessible UI components (tabs, me… |
+| 2026-10-26 23:39:50 | [oxide-headless](https://crates.io/crates/oxide-headless) | 0.1.0 | 0 | Headless UI connectors: ARIA attributes, roving focus, key mapping and overlay… |
+| 2026-10-26 23:44:06 | [hearth-mp](https://crates.io/crates/hearth-mp) | 0.1.1 | 0 | Hearth: a Rust framework for Durable Object game servers. |
+| 2026-10-26 23:44:42 | [bboxy450-harness-wake-up](https://crates.io/crates/bboxy450-harness-wake-up) | 0.1.0 | 0 | Launch, observe and safely wake terminal harnesses through their native protoco… |
+| 2026-10-26 23:45:30 | [libra-ui](https://crates.io/crates/libra-ui) | 0.1.0 | 0 | Deterministic native UI framework |
+| 2026-10-26 23:49:15 | [prv](https://crates.io/crates/prv) | 0.1.0 | 0 | Call a function, print its return value, and return that value to the caller. |
+| 2026-10-26 23:49:48 | [kitctl-core](https://crates.io/crates/kitctl-core) | 2.0.0 | 0 | Shared contracts for Kit: runs, receipts, gates, and configuration |
+| 2026-10-26 23:49:53 | [kitctl-gate](https://crates.io/crates/kitctl-gate) | 2.0.0 | 0 | Definition-of-done gate and blast-radius firewall for Kit |
+| 2026-10-26 23:49:55 | [kitctl-agents](https://crates.io/crates/kitctl-agents) | 2.0.0 | 0 | Agent adapters for Codex, Claude Code, Grok Build, and Ollama |
+| 2026-10-26 23:50:05 | [kitctl-tui](https://crates.io/crates/kitctl-tui) | 2.0.0 | 0 | Kit Control Room — the terminal surface |
+| 2026-10-26 23:50:10 | [oxide-dioxus](https://crates.io/crates/oxide-dioxus) | 0.1.0 | 0 | Accessible UI components for Dioxus (web, desktop, mobile), built on oxide stat… |
+| 2026-10-26 23:50:18 | [kitctl](https://crates.io/crates/kitctl) | 2.0.0 | 0 | Set up Claude Code, Codex and Grok for one job with kits of skills, rules, MCP… |
+| 2026-10-26 23:54:42 | [bboxy450-keychain-file](https://crates.io/crates/bboxy450-keychain-file) | 0.1.0 | 0 | Private passphrase-less file custody for caller-owned key material |
+| 2026-10-27 00:00:09 | [oxide-leptos](https://crates.io/crates/oxide-leptos) | 0.1.0 | 0 | Accessible UI components for Leptos, built on oxide state machines and headless… |
+| 2026-10-27 00:00:58 | [paping](https://crates.io/crates/paping) | 0.1.0 | 0 | TCP port ping: a modern, drop-in compatible rewrite of paping |
+| 2026-10-27 00:04:41 | [bboxy450-proto](https://crates.io/crates/bboxy450-proto) | 0.1.0 | 0 | Terminal viewport and GUI wire types shared by app and logic |
+| 2026-10-27 00:09:42 | [xur-span](https://crates.io/crates/xur-span) | 0.1.1 | 0 | Source map, spans and interned symbols for the Xur language |
+| 2026-10-27 00:09:45 | [xur-ast](https://crates.io/crates/xur-ast) | 0.1.1 | 0 | The abstract syntax tree of the Xur language |
+| 2026-10-27 00:09:46 | [xur-errors](https://crates.io/crates/xur-errors) | 0.1.1 | 0 | Diagnostics and their rendering for the Xur language |
+| 2026-10-27 00:09:48 | [xur-parser](https://crates.io/crates/xur-parser) | 0.1.1 | 0 | Lexer and parser for the Xur language |
+| 2026-10-27 00:09:51 | [xur-resolve](https://crates.io/crates/xur-resolve) | 0.1.1 | 0 | Module loading and name resolution for the Xur language |
+| 2026-10-27 00:11:41 | [cronoq-core](https://crates.io/crates/cronoq-core) | 0.2.0 | 0 | Sans-IO core engine of the cronoq elastic priority scheduler |
+| 2026-10-27 00:11:55 | [cronoq-proto](https://crates.io/crates/cronoq-proto) | 0.2.0 | 0 | Protocol buffer definitions and generated gRPC code for cronoq |
+| 2026-10-27 00:12:02 | [cronoq](https://crates.io/crates/cronoq) | 0.2.0 | 0 | Elastic, priority-aware task scheduler: aging, deadlines, fixed starts, DAGs, r… |
+| 2026-10-27 00:12:24 | [cronoq-cli](https://crates.io/crates/cronoq-cli) | 0.2.0 | 0 | Command-line client for cronoq-server, with a live top view |
+| 2026-10-27 00:12:36 | [xur-runtime](https://crates.io/crates/xur-runtime) | 0.1.1 | 0 | Values, native-function registry and facet conversions for the Xur language |
+| 2026-10-27 00:12:41 | [cronoq-store-postgres](https://crates.io/crates/cronoq-store-postgres) | 0.2.0 | 0 | PostgreSQL store for cronoq: durable state, leader election and fencing |
+| 2026-10-27 00:13:09 | [autumn-figma](https://crates.io/crates/autumn-figma) | 0.1.0 | 0 | A CLI that turns Figma designs into Maud components, CSS design tokens, and htm… |
+| 2026-10-27 00:13:16 | [libra-ui-cli](https://crates.io/crates/libra-ui-cli) | 0.1.0 | 0 | Libra CLI: new, dev, check, test, build, package |
+| 2026-10-27 00:14:41 | [bboxy450-ui](https://crates.io/crates/bboxy450-ui) | 0.1.0 | 0 | bboxy450-term: token-resolved UI styles and components |
 
 ## Data source
 
