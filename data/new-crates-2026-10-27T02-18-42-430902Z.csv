@@ -1,0 +1,14 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T01:24:42.496057Z,bboxy450-term,0.1.0,0,0,https://github.com/bboxy450/bboxy450-term,GPU-rendered terminal and local control surface for agent swarms
+2026-10-27T01:30:57.894779Z,monctl,0.1.0,0,0,https://github.com/evaera/monctl,Monitor input switching and hotkey-driven modes over DDC/CI and USB
+2026-10-27T01:47:57.632222Z,pdfcer-color,0.99.0,0,0,https://github.com/KenM76/pdfcer,"pdfcer colour: device colour-space conversion (ISO 32000-1 8.6.4), the calibrated CMYK table and rendering intents (8.6.5.8). Re-exported by pdfcer-core."
+2026-10-27T01:48:18.581314Z,pdfcer-model,0.99.0,0,0,https://github.com/KenM76/pdfcer,"pdfcer COS model layer: objects, lexer, parser, filters, xref, object streams, recovery, Document/DocumentView, the full and incremental writer, standard-handler crypto, content parsing and the page…"
+2026-10-27T01:48:28.950434Z,pdfcer-pkix,0.99.0,0,0,https://github.com/KenM76/pdfcer,"pdfcer public-key infrastructure: DER/ASN.1, CMS SignedData and X.509 parsing, certificate-chain validation and the trust store. Re-exported by pdfcer-core."
+2026-10-27T01:57:36.136846Z,mediamaster-core,0.1.0,0,0,https://github.com/Zakarialabib/mediamaster-rs,"Shared event bus, traits, and types for the mediamaster-rs ecosystem"
+2026-10-27T01:59:05.617519Z,mediamaster-rf,0.1.0,0,0,https://github.com/Zakarialabib/mediamaster-rs,"SDR IQ pipeline, FFT detection, and protocol parsing for the mediamaster-rs ecosystem"
+2026-10-27T01:59:12.574453Z,mediamaster-sensors,0.1.0,0,0,https://github.com/Zakarialabib/mediamaster-rs,"Async sensor polling, debouncing, and context fusion for the mediamaster-rs ecosystem"
+2026-10-27T02:00:05.259989Z,mediamaster-audio,0.1.0,0,0,https://github.com/Zakarialabib/mediamaster-rs,"Lock-free PCM mixing, ducking, and routing for the mediamaster-rs ecosystem"
+2026-10-27T02:06:39.85279Z,acta-ffi,0.7.2,0,0,https://github.com/Sn0wo2/acta,C foreign function interface for acta
+2026-10-27T02:06:49.416179Z,acta-napi,0.7.2,0,0,https://github.com/Sn0wo2/acta,Node.js N-API bindings for acta
+2026-10-27T02:06:57.220629Z,acta-wasm,0.7.2,0,0,https://github.com/Sn0wo2/acta,WebAssembly bindings for acta
+2026-10-27T02:10:46.620135Z,aura-gui,0.1.0,0,0,,"UI nativa acelerada por GPU para escritorio, Android e iOS, en un solo crate: estilo tipo Tailwind, componentes, sombras, animaciones y agentes de IA. Reposo a cero. Licencia AGPL-3.0 o comercial."
