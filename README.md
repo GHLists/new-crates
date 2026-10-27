@@ -8,47 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 16:18 UTC
+## Latest list — 2026-10-27 17:19 UTC
 
-New crates published between 2026-10-27 15:20 UTC and 2026-10-27 16:18 UTC.
+New crates published between 2026-10-27 16:18 UTC and 2026-10-27 17:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-27T16-18-56-84667Z.csv)
+[Full CSV](data/new-crates-2026-10-27T17-19-15-360927Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-27 15:21:38 | [waf-crs-curated](https://crates.io/crates/waf-crs-curated) | 1.0.0 | 0 | Curated CRS/ModSecurity rule content for Light WAF: CVE, application and evasio… |
-| 2026-10-27 15:25:40 | [opsec-rs](https://crates.io/crates/opsec-rs) | 13.37.420 | 0 | 🥷 Maximum OPSEC achieved. A parody CLI that installs fake operational security… |
-| 2026-10-27 15:25:52 | [morphir-json](https://crates.io/crates/morphir-json) | 0.2.0 | 0 | Literal JSON value traversal with caller-owned resource budgets |
-| 2026-10-27 15:26:36 | [testls-data](https://crates.io/crates/testls-data) | 0.4.1 | 0 | TLS registry data (cipher suites, groups, signature schemes) derived from IANA… |
-| 2026-10-27 15:26:37 | [testls-wire](https://crates.io/crates/testls-wire) | 0.4.1 | 0 | TLS record and handshake codec: ClientHello builder and ServerHello/Alert/Certi… |
-| 2026-10-27 15:26:40 | [testls-probe](https://crates.io/crates/testls-probe) | 0.4.1 | 0 | Async TLS probes over TCP built on testls-wire. |
-| 2026-10-27 15:26:43 | [testls-checks](https://crates.io/crates/testls-checks) | 0.4.1 | 0 | Scan findings, severity model, and check implementations. |
-| 2026-10-27 15:26:46 | [testls-report](https://crates.io/crates/testls-report) | 0.4.1 | 0 | Text, JSON, SARIF, JUnit, Markdown, CSV and HTML report renderers and exit-code… |
-| 2026-10-27 15:27:00 | [winxdp-sys](https://crates.io/crates/winxdp-sys) | 0.1.0 | 0 | Pinned XDP for Windows API v3 bindings and header-only bridge |
-| 2026-10-27 15:27:02 | [winxdp](https://crates.io/crates/winxdp) | 0.1.0 | 0 | Safe scoped packet I/O for Microsoft XDP for Windows |
-| 2026-10-27 15:31:08 | [plazr-billiards](https://crates.io/crates/plazr-billiards) | 0.1.0 | 0 | Open-source, modular 2D/3D billiards physics simulation engine by Plazr Studio. |
-| 2026-10-27 15:32:05 | [dxil-reader](https://crates.io/crates/dxil-reader) | 0.1.1 | 0 | DXIL reader: decodes Direct3D Shader Model 6 programs (LLVM bitcode in a DXBC c… |
-| 2026-10-27 15:32:19 | [rsx-reader](https://crates.io/crates/rsx-reader) | 0.1.1 | 0 | PlayStation 3 RSX reader: CellGcmTexture descriptors, CgBinaryProgram shader co… |
-| 2026-10-27 15:32:24 | [havok-formats](https://crates.io/crates/havok-formats) | 0.1.1 | 0 | Bounds-checked readers of Havok tagfiles, packfiles, compressed collision meshe… |
-| 2026-10-27 15:32:33 | [offline-protocol-web](https://crates.io/crates/offline-protocol-web) | 0.31.0 | 0 | The Offline Protocol engine for the browser: a full mesh node compiled to WebAs… |
-| 2026-10-27 15:33:24 | [waf-tls-managed](https://crates.io/crates/waf-tls-managed) | 1.0.0 | 0 | Managed TLS for Light WAF: ACME certificates with hitless rotation (TLS-ALPN-01… |
-| 2026-10-27 15:35:16 | [h12tiny-tls-system](https://crates.io/crates/h12tiny-tls-system) | 0.6.0 | 0 | Operating-system TLS trust for h12tiny clients |
-| 2026-10-27 15:37:05 | [testls](https://crates.io/crates/testls) | 0.4.1 | 0 | TLS/SSL scanner for the web era, inspired by testssl.sh. |
-| 2026-10-27 15:38:02 | [wb-api-client](https://crates.io/crates/wb-api-client) | 1.20261027.0 | 0 | Wildberries Seller API client (generated) |
-| 2026-10-27 15:38:30 | [www](https://crates.io/crates/www) | 3.0.0 | 0 | A simple static web server with automatic HTTPS |
-| 2026-10-27 15:39:06 | [lua51-bytecode](https://crates.io/crates/lua51-bytecode) | 0.1.1 | 0 | Strict, panic-free reader for Lua 5.1 precompiled bytecode (luac output, either… |
-| 2026-10-27 15:46:08 | [morpheme-formats](https://crates.io/crates/morpheme-formats) | 0.1.0 | 0 | Checked reader for 32-bit big-endian NaturalMotion Morpheme bundles and the ske… |
-| 2026-10-27 15:46:12 | [waf-enterprise](https://crates.io/crates/waf-enterprise) | 1.0.0 | 0 | Light WAF data-plane binary with every component wired in: Redis state, managed… |
-| 2026-10-27 15:57:21 | [arvalez-target-terraform](https://crates.io/crates/arvalez-target-terraform) | 2.1.0 | 0 | Terraform Plugin Framework adapters for Arvalez Go SDKs |
-| 2026-10-27 15:58:03 | [annoray-pyo3](https://crates.io/crates/annoray-pyo3) | 0.0.1-pre3 | 0 | Exchange annoray units, quantities, data arrays, datasets and trees with the an… |
-| 2026-10-27 15:59:26 | [poirot-parsing](https://crates.io/crates/poirot-parsing) | 0.1.0 | 0 | Spreadsheet formula and text parsing |
-| 2026-10-27 15:59:32 | [poirot-functions](https://crates.io/crates/poirot-functions) | 0.1.0 | 0 | Workbook-independent spreadsheet functions, coercion, and display formatting |
-| 2026-10-27 15:59:41 | [poirot-io](https://crates.io/crates/poirot-io) | 0.1.0 | 0 | XLS and XLSX workbook import and XLSX export |
-| 2026-10-27 16:00:05 | [poirot](https://crates.io/crates/poirot) | 0.1.0 | 0 | Read, edit, evaluate and write Excel workbooks |
-| 2026-10-27 16:03:36 | [monogame-formats](https://crates.io/crates/monogame-formats) | 0.1.0 | 0 | Read MonoGame/XNA content: the XNB container and compiled MGFX effects, with ch… |
-| 2026-10-27 16:07:40 | [unity-formats](https://crates.io/crates/unity-formats) | 0.1.0 | 0 | Reads Unity games' data files: SerializedFiles, scenes, meshes, textures, shade… |
-| 2026-10-27 16:12:36 | [execution_tape_footfall](https://crates.io/crates/execution_tape_footfall) | 0.1.0 | 0 | Semantic Footfall observations for Execution Tape. |
-| 2026-10-27 16:12:49 | [execution_tape_tracy](https://crates.io/crates/execution_tape_tracy) | 0.1.0 | 0 | Tracy profiling scopes for Execution Tape. |
+| 2026-10-27 16:19:34 | [rlmesh-session-core](https://crates.io/crates/rlmesh-session-core) | 0.0.1 | 0 | Part of RLMesh (https://rlmesh.dev). Name reserved; the first release is 0.2.0. |
+| 2026-10-27 16:19:47 | [rlmesh-session](https://crates.io/crates/rlmesh-session) | 0.0.1 | 0 | Part of RLMesh (https://rlmesh.dev). Name reserved; the first release is 0.2.0. |
+| 2026-10-27 16:23:50 | [canonprims-core](https://crates.io/crates/canonprims-core) | 0.1.1 | 0 | Canonical serialization for structured data (RFC 8785 and successors): schemes,… |
+| 2026-10-27 16:33:21 | [sayso-ink](https://crates.io/crates/sayso-ink) | 0.11.0 | 0 | The ink, palette, and appearance types of Sayso: contrast-checked colors for pa… |
+| 2026-10-27 16:33:21 | [sayso-protocol](https://crates.io/crates/sayso-protocol) | 0.11.0 | 0 | The messages of the Sayso Host API and the engine protocol: serde types, error… |
+| 2026-10-27 16:33:22 | [sayso-engine-sdk](https://crates.io/crates/sayso-engine-sdk) | 0.11.0 | 0 | Start a Sayso speech engine from your own app and talk to it over stdio with th… |
+| 2026-10-27 16:33:23 | [sayso-extension](https://crates.io/crates/sayso-extension) | 0.11.0 | 0 | The client of the Sayso Host API: connect to Sayso, send requests, and get even… |
+| 2026-10-27 16:33:24 | [sayso-ui](https://crates.io/crates/sayso-ui) | 0.11.0 | 0 | Sayso's tactile paper design system on GPUI and gpui-kit. |
+| 2026-10-27 16:35:22 | [canonprims-json](https://crates.io/crates/canonprims-json) | 0.1.1 | 0 | Canonical serialization for structured data (RFC 8785 and successors): the RFC… |
+| 2026-10-27 16:37:20 | [tps_cose](https://crates.io/crates/tps_cose) | 0.10.0 | 0 | COSE (RFC 9052) encoder/decoder supporting a selection of crypto algorithms, us… |
+| 2026-10-27 16:39:00 | [tps_cddl](https://crates.io/crates/tps_cddl) | 0.10.0 | 0 | IETF CDDL (RFC 8610, RFC9165, RFC9682) parser, validator, and code generator |
+| 2026-10-27 16:39:46 | [task-tracke-rs](https://crates.io/crates/task-tracke-rs) | 0.1.0 | 0 | A command-line task tracker with short ids, repeating tasks, and undo and redo. |
+| 2026-10-27 16:40:07 | [rescale-core](https://crates.io/crates/rescale-core) | 0.2.0 | 0 | Pure Rust DSP audio engine core (FFT, filter, DRC, WAV I/O) - zero dependency |
+| 2026-10-27 16:40:25 | [tps_cose_tool](https://crates.io/crates/tps_cose_tool) | 0.10.0 | 0 | Command-line tool for COSE_Sign1/COSE_Encrypt0 operations and COSE key manageme… |
+| 2026-10-27 16:41:11 | [tps_edn_tool](https://crates.io/crates/tps_edn_tool) | 0.10.0 | 0 | CBOR diagnostic notation (EDN) encoder/decoder — RFC 8949 §8 |
+| 2026-10-27 16:42:31 | [tree-sitter-cddl](https://crates.io/crates/tree-sitter-cddl) | 0.10.0 | 0 | tree-sitter grammar for CDDL (RFC 8610 / RFC 9165 / RFC 9682 / cddl-modules) |
+| 2026-10-27 16:42:47 | [fount-core](https://crates.io/crates/fount-core) | 0.1.1 | 0 | The backend library for the Fount Linux application launcher |
+| 2026-10-27 16:43:06 | [tree-sitter-edn](https://crates.io/crates/tree-sitter-edn) | 0.10.0 | 0 | tree-sitter grammar for CBOR Extended Diagnostic Notation (EDN, RFC 8610 Append… |
+| 2026-10-27 16:47:00 | [rage-engine-formats](https://crates.io/crates/rage-engine-formats) | 0.1.0 | 0 | Readers for the RAGE engine's GTA V file formats: RPF7 archives, resources, MET… |
+| 2026-10-27 16:47:09 | [anvil-formats](https://crates.io/crates/anvil-formats) | 0.1.0 | 0 | Readers for Ubisoft Anvil engine data: .forge archives and the meshes, textures… |
+| 2026-10-27 16:47:17 | [rme-formats](https://crates.io/crates/rme-formats) | 0.1.0 | 0 | Readers for the game data of Tony Hawk's SHRED (PS3): PAK archives, level meshe… |
+| 2026-10-27 16:47:26 | [frostbite-formats](https://crates.io/crates/frostbite-formats) | 0.1.0 | 0 | Read and write the Frostbite containers and resources of skate. (2025): TOCs, b… |
+| 2026-10-27 16:47:55 | [fount-daemon](https://crates.io/crates/fount-daemon) | 0.1.0 | 0 | A lightweight application launcher backend for Linux |
+| 2026-10-27 16:49:22 | [soroban-breakwater](https://crates.io/crates/soroban-breakwater) | 0.1.0 | 0 | Foundry-style invariant testing for Soroban: stateful fuzzing, shrinking and re… |
+| 2026-10-27 16:49:35 | [breakwater-pack-policy-bypass](https://crates.io/crates/breakwater-pack-policy-bypass) | 0.1.0 | 0 | Breakwater attack pack: invariants and generators for OpenZeppelin smart-accoun… |
+| 2026-10-27 16:49:44 | [breakwater-pack-ttl-archival](https://crates.io/crates/breakwater-pack-ttl-archival) | 0.1.0 | 0 | Breakwater attack pack: invariants and ledger-advance strategies for Soroban TT… |
+| 2026-10-27 16:49:57 | [breakwater-pack-budget-snapshot](https://crates.io/crates/breakwater-pack-budget-snapshot) | 0.1.0 | 0 | Breakwater attack pack: per-handler resource snapshots and a regression gate fo… |
+| 2026-10-27 16:50:09 | [breakwater-cli](https://crates.io/crates/breakwater-cli) | 0.1.0 | 0 | Command-line interface for Breakwater, invariant testing for Soroban: run, expo… |
+| 2026-10-27 16:54:18 | [factoria-derive](https://crates.io/crates/factoria-derive) | 0.1.0 | 0 | Derive macro for the factoria test factory library |
+| 2026-10-27 16:54:22 | [factoria](https://crates.io/crates/factoria) | 0.1.0 | 0 | Async test data factories for Rust (SeaORM, sqlx) |
+| 2026-10-27 16:55:25 | [ccc-harness](https://crates.io/crates/ccc-harness) | 0.3.0 | 0 | Dispatches agent types to Claude Code or Codex subprocesses |
+| 2026-10-27 16:58:08 | [relic-oxide](https://crates.io/crates/relic-oxide) | 0.1.0 | 0 | Send Rust `tracing` spans to New Relic over OpenTelemetry (OTLP), disabled by d… |
+| 2026-10-27 17:03:31 | [pwrs-host](https://crates.io/crates/pwrs-host) | 0.8.0 | 0 | Runs PowerShell 7 inside a Rust process: finds the installed pwsh without start… |
+| 2026-10-27 17:03:53 | [hcrrw4-luminia-runner](https://crates.io/crates/hcrrw4-luminia-runner) | 0.1.1 | 0 | A runtime for a simple language |
+| 2026-10-27 17:03:56 | [hcrrw4-luminia-cli](https://crates.io/crates/hcrrw4-luminia-cli) | 0.1.1 | 0 | A simple CLI for a simple language |
+| 2026-10-27 17:11:37 | [fromsoft-formats](https://crates.io/crates/fromsoft-formats) | 0.1.0 | 0 | Checked readers for Sekiro and Elden Ring data: BHD5 archives, DCX, BND4, FLVER… |
+| 2026-10-27 17:12:06 | [tps_cbor_tui](https://crates.io/crates/tps_cbor_tui) | 0.10.0 | 0 | Terminal (ratatui) workbench for CDDL editing, CBOR/EDN viewing, and COSE sign/… |
+| 2026-10-27 17:12:35 | [tprom](https://crates.io/crates/tprom) | 0.1.0 | 0 | Terminal UI for Prometheus - A modern TUI for monitoring Prometheus servers |
+| 2026-10-27 17:13:22 | [rebirth-ik](https://crates.io/crates/rebirth-ik) | 0.1.0 | 0 | Inverse kinematics in safe Rust: FABRIK for arbitrary bone trees, analytic one/… |
+| 2026-10-27 17:14:38 | [typedenv](https://crates.io/crates/typedenv) | 0.1.0 | 0 | Tiny, zero-dependency typed access to environment variables |
 
 ## Data source
 

@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T16:19:34.164255Z,rlmesh-session-core,0.0.1,0,0,https://github.com/ArenaX-Labs/rlmesh,Part of RLMesh (https://rlmesh.dev). Name reserved; the first release is 0.2.0.
+2026-10-27T16:19:47.540612Z,rlmesh-session,0.0.1,0,0,https://github.com/ArenaX-Labs/rlmesh,Part of RLMesh (https://rlmesh.dev). Name reserved; the first release is 0.2.0.
+2026-10-27T16:23:50.608874Z,canonprims-core,0.1.1,0,0,https://github.com/3leaps/canonprims,"Canonical serialization for structured data (RFC 8785 and successors): schemes, refusals, limits, digests"
+2026-10-27T16:33:21.414266Z,sayso-ink,0.11.0,0,0,https://github.com/watzon/sayso,"The ink, palette, and appearance types of Sayso: contrast-checked colors for paper-and-ink interfaces."
+2026-10-27T16:33:21.850604Z,sayso-protocol,0.11.0,0,0,https://github.com/watzon/sayso,"The messages of the Sayso Host API and the engine protocol: serde types, error codes, capabilities, PCM helpers, and the socket path rules."
+2026-10-27T16:33:22.617481Z,sayso-engine-sdk,0.11.0,0,0,https://github.com/watzon/sayso,"Start a Sayso speech engine from your own app and talk to it over stdio with the engine protocol. Blocking calls, no async runtime."
+2026-10-27T16:33:23.311619Z,sayso-extension,0.11.0,0,0,https://github.com/watzon/sayso,"The client of the Sayso Host API: connect to Sayso, send requests, and get events. Blocking calls, no async runtime."
+2026-10-27T16:33:24.223763Z,sayso-ui,0.11.0,0,0,https://github.com/watzon/sayso,Sayso's tactile paper design system on GPUI and gpui-kit.
+2026-10-27T16:35:22.878479Z,canonprims-json,0.1.1,0,0,https://github.com/3leaps/canonprims,Canonical serialization for structured data (RFC 8785 and successors): the RFC 8785 JSON scheme over a strict I-JSON loader
+2026-10-27T16:37:20.219586Z,tps_cose,0.10.0,0,0,https://github.com/GlobalPlatform/TPS-API-Reference-Implementations,"COSE (RFC 9052) encoder/decoder supporting a selection of crypto algorithms, usable without an allocator or the standard library"
+2026-10-27T16:39:00.758824Z,tps_cddl,0.10.0,0,0,https://github.com/GlobalPlatform/TPS-API-Reference-Implementations,"IETF CDDL (RFC 8610, RFC9165, RFC9682) parser, validator, and code generator"
+2026-10-27T16:39:46.436806Z,task-tracke-rs,0.1.0,0,0,https://github.com/meihapps/task-tracke-rs,"A command-line task tracker with short ids, repeating tasks, and undo and redo."
+2026-10-27T16:40:07.928935Z,rescale-core,0.2.0,0,0,https://github.com/0xjantoko/REScale,"Pure Rust DSP audio engine core (FFT, filter, DRC, WAV I/O) - zero dependency"
+2026-10-27T16:40:25.258822Z,tps_cose_tool,0.10.0,0,0,https://github.com/GlobalPlatform/TPS-API-Reference-Implementations,Command-line tool for COSE_Sign1/COSE_Encrypt0 operations and COSE key management
+2026-10-27T16:41:11.33403Z,tps_edn_tool,0.10.0,0,0,https://github.com/GlobalPlatform/TPS-API-Reference-Implementations,CBOR diagnostic notation (EDN) encoder/decoder — RFC 8949 §8
+2026-10-27T16:42:31.777742Z,tree-sitter-cddl,0.10.0,0,0,https://github.com/GlobalPlatform/TPS-API-Reference-Implementations,tree-sitter grammar for CDDL (RFC 8610 / RFC 9165 / RFC 9682 / cddl-modules)
+2026-10-27T16:42:47.820959Z,fount-core,0.1.1,0,0,https://github.com/bmalia/fount-launcher,The backend library for the Fount Linux application launcher
+2026-10-27T16:43:06.889538Z,tree-sitter-edn,0.10.0,0,0,https://github.com/GlobalPlatform/TPS-API-Reference-Implementations,"tree-sitter grammar for CBOR Extended Diagnostic Notation (EDN, RFC 8610 Appendix G)"
+2026-10-27T16:47:00.525801Z,rage-engine-formats,0.1.0,0,0,https://github.com/Kalmarv/rage-engine-formats,"Readers for the RAGE engine's GTA V file formats: RPF7 archives, resources, META, drawables, textures, collision bounds, clips and shader containers"
+2026-10-27T16:47:09.159838Z,anvil-formats,0.1.0,0,0,https://github.com/Kalmarv/anvil-formats,"Readers for Ubisoft Anvil engine data: .forge archives and the meshes, textures, materials, entities and terrain inside (Riders Republic, Shaun White Skateboarding)"
+2026-10-27T16:47:17.167856Z,rme-formats,0.1.0,0,0,https://github.com/Kalmarv/rme-formats,"Readers for the game data of Tony Hawk's SHRED (PS3): PAK archives, level meshes, materials, textures, MAIN.DB and level scripts"
+2026-10-27T16:47:26.264407Z,frostbite-formats,0.1.0,0,0,https://github.com/Kalmarv/frostbite-formats,"Read and write the Frostbite containers and resources of skate. (2025): TOCs, bundles, CAS, EBX documents, shaders, meshes, physics, .fbmod mods"
+2026-10-27T16:47:55.43781Z,fount-daemon,0.1.0,0,0,https://github.com/bmalia/fount-launcher,A lightweight application launcher backend for Linux
+2026-10-27T16:49:22.62095Z,soroban-breakwater,0.1.0,0,0,https://github.com/Belvast-Innovation/Breakwater,"Foundry-style invariant testing for Soroban: stateful fuzzing, shrinking and regression export"
+2026-10-27T16:49:35.15142Z,breakwater-pack-policy-bypass,0.1.0,0,0,https://github.com/Belvast-Innovation/Breakwater,Breakwater attack pack: invariants and generators for OpenZeppelin smart-account policies
+2026-10-27T16:49:44.309366Z,breakwater-pack-ttl-archival,0.1.0,0,0,https://github.com/Belvast-Innovation/Breakwater,Breakwater attack pack: invariants and ledger-advance strategies for Soroban TTL state archival
+2026-10-27T16:49:57.579405Z,breakwater-pack-budget-snapshot,0.1.0,0,0,https://github.com/Belvast-Innovation/Breakwater,Breakwater attack pack: per-handler resource snapshots and a regression gate for Soroban contracts
+2026-10-27T16:50:09.758765Z,breakwater-cli,0.1.0,0,0,https://github.com/Belvast-Innovation/Breakwater,"Command-line interface for Breakwater, invariant testing for Soroban: run, export, report and snapshot"
+2026-10-27T16:54:18.128613Z,factoria-derive,0.1.0,0,0,https://github.com/AhmadRaza-Khan/factoria,Derive macro for the factoria test factory library
+2026-10-27T16:54:22.518629Z,factoria,0.1.0,0,0,https://github.com/AhmadRaza-Khan/factoria,"Async test data factories for Rust (SeaORM, sqlx)"
+2026-10-27T16:55:25.013359Z,ccc-harness,0.3.0,0,0,https://github.com/rnortman/ccc,Dispatches agent types to Claude Code or Codex subprocesses
+2026-10-27T16:58:08.484147Z,relic-oxide,0.1.0,0,0,https://gitlab.com/mportela/relic-oxide,"Send Rust `tracing` spans to New Relic over OpenTelemetry (OTLP), disabled by default"
+2026-10-27T17:03:31.052486Z,pwrs-host,0.8.0,0,0,https://github.com/Variably-Constant/PWRS,"Runs PowerShell 7 inside a Rust process: finds the installed pwsh without starting it, starts its .NET runtime through hostfxr, and binds an assembly's UnmanagedCallersOnly entry points"
+2026-10-27T17:03:53.368237Z,hcrrw4-luminia-runner,0.1.1,0,0,https://github.com/Not-A-Normal-Robot/hackclub-resolution-rust-w4,A runtime for a simple language
+2026-10-27T17:03:56.738006Z,hcrrw4-luminia-cli,0.1.1,0,0,https://github.com/Not-A-Normal-Robot/hackclub-resolution-rust-w4,A simple CLI for a simple language
+2026-10-27T17:11:37.525151Z,fromsoft-formats,0.1.0,0,0,https://github.com/Kalmarv/fromsoft-formats,"Checked readers for Sekiro and Elden Ring data: BHD5 archives, DCX, BND4, FLVER, MSB, TPF, MTD/MATBIN, params and more"
+2026-10-27T17:12:06.554098Z,tps_cbor_tui,0.10.0,0,0,https://github.com/GlobalPlatform/TPS-API-Reference-Implementations,"Terminal (ratatui) workbench for CDDL editing, CBOR/EDN viewing, and COSE sign/encrypt"
+2026-10-27T17:12:35.262281Z,tprom,0.1.0,0,0,https://github.com/huseyinbabal/tprom,Terminal UI for Prometheus - A modern TUI for monitoring Prometheus servers
+2026-10-27T17:13:22.065641Z,rebirth-ik,0.1.0,0,0,https://github.com/markankamaransheogarat-sys/rebirth-ik,"Inverse kinematics in safe Rust: FABRIK for arbitrary bone trees, analytic one/two-bone solvers, no_std, WebAssembly-ready. A rebirth of TheComet/ik."
+2026-10-27T17:14:38.214321Z,typedenv,0.1.0,0,0,https://github.com/KidusAlemayehu/envtyped,"Tiny, zero-dependency typed access to environment variables"
