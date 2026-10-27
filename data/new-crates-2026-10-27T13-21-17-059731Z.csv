@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T12:19:24.728661Z,torsor,0.0.1,0,0,https://github.com/enC1ph3r/torsor,PoC programmable protocol proxy and traffic routing server built on orbifold.
+2026-10-27T12:20:42.948418Z,tano-native,0.8.1,0,0,,"Tano local filesystem, search and desktop host core"
+2026-10-27T12:21:36.448166Z,format198x-dragon-data-dragon-disk,0.1.0,0,0,https://github.com/format198x/format198x,Dragon VDK disk images — dependency-free decoding and encoding.
+2026-10-27T12:23:38.63147Z,pyinput,0.1.1,0,0,https://github.com/RodrigoAroeira/pyinput,A simple python-like input macro for Rust
+2026-10-27T12:23:47.01264Z,freeoxide-gpui-form-derive,0.11.0,0,0,https://github.com/freeoxide/gpui-form,Macro crate for gpui-form
+2026-10-27T12:31:42.066397Z,format198x-dragon-data-dragon-pak,0.1.0,0,0,https://github.com/format198x/format198x,Dragon cartridge ROM and PC-Dragon PAK images — dependency-free decoding and encoding.
+2026-10-27T12:31:54.383344Z,corundum-framework-update,0.3.0,0,0,https://github.com/sapphire-turtle/corundum-framework,"Find newer GitHub releases of an app's binary, and replace it with one"
+2026-10-27T12:33:16.911388Z,corundum-framework-build,0.3.0,0,0,https://github.com/sapphire-turtle/corundum-framework,Build-time helpers for corundum apps: the app icon embedded in a Windows executable
+2026-10-27T12:33:45.681795Z,freeoxide-gpui-form,0.11.0,0,0,https://github.com/freeoxide/gpui-form,The gpui-form crate
+2026-10-27T12:36:25.548214Z,velvet-otter-lantern,3.0.0,0,0,,Imprime un mensaje de hola por pantalla.
+2026-10-27T12:41:47.166389Z,format198x-jupiter-ace-ace,0.1.0,0,0,https://github.com/format198x/format198x,Jupiter Ace .ace snapshots — dependency-free decoding and encoding of the ACE32 RLE container.
+2026-10-27T12:43:45.447497Z,freeoxide-gpui-form-prototyping-core,0.11.0,0,0,https://github.com/freeoxide/gpui-form,Consumer-facing prototyping utilities for gpui-form.
+2026-10-27T12:45:39.995359Z,arkitekt-mesh-smoltcp,0.9.0,0,0,https://github.com/arkitektio/arkitekt-mesh,"arkitekt-mesh's fork of smoltcp 0.13.1, for its fast-tcp mode: upstream's behaviour by default, faster loss recovery where asked"
+2026-10-27T12:46:32.811128Z,homura-models,0.4.0,0,0,https://github.com/TOBYYH/homura,Models for homura that read Hugging Face repositories as they are
+2026-10-27T12:47:35.799924Z,che-sync-protocol,0.1.0,0,0,https://github.com/che4web/che-orm,Backend-independent offline synchronization protocol for che-orm
+2026-10-27T12:49:41.40571Z,wgpu-dmabuf,0.1.0,0,0,https://github.com/oneilltomhq/wgpu-dmabuf,"Linux dma-buf interop for wgpu: import a dmabuf as a wgpu::Texture, export a wgpu texture as a dmabuf, enumerate DRM format modifiers, and fence across devices with sync_file. Vulkan backend only."
+2026-10-27T12:50:31.805855Z,neurostats,0.2.0,0,0,https://github.com/pawlenartowicz/faststats,"no_std, WASM-ready neuroimaging statistics: TFCE enhancement over masked-volume adjacency graphs, validated against MNE-Python."
+2026-10-27T12:51:52.655899Z,format198x-memotech-mtx-mtx,0.1.0,0,0,https://github.com/format198x/format198x,Memotech MTX .mtx tape images and .RUN programs — dependency-free decoding and encoding.
+2026-10-27T12:52:56.568818Z,che-sync,0.1.0,0,0,https://github.com/che4web/che-orm,Durable offline-first synchronization engine for che-orm
+2026-10-27T12:53:50.88943Z,talechime-kokoro,0.1.0,0,0,https://github.com/yexiyue/talechime,Native Kokoro inference from official weights for Talechime
+2026-10-27T12:54:33.396999Z,ohos-device-sys,0.1.0,0,0,,OpenHarmony's device sys binding for rust
+2026-10-27T12:54:37.962292Z,ohos-device-binding,0.1.0,0,0,,OpenHarmony's device info binding for rust
+2026-10-27T13:02:00.026122Z,format198x-sinclair-zx-spectrum-rzx,0.1.0,0,0,https://github.com/format198x/format198x,"ZX Spectrum RZX input recordings — decoding and encoding of blocks and frame streams, compressed or not."
+2026-10-27T13:07:19.349945Z,ratriyx,0.1.0,0,0,https://github.com/rickyreza12/ratriyx,Cross-platform per-process privacy routing through Tor and Privoxy
+2026-10-27T13:08:31.595677Z,gtk-mcp-protocol,0.1.1,0,0,https://github.com/alex-oleshkevich/gtk-mcp,Wire protocol types shared by the gtk-mcp broker and the in-app agent
+2026-10-27T13:08:34.308499Z,gtk-mcp,0.1.1,0,0,https://github.com/alex-oleshkevich/gtk-mcp,MCP server for inspecting and driving GTK4/libadwaita apps from inside the process
+2026-10-27T13:08:35.088347Z,gtk-mcp-agent,0.1.1,0,0,https://github.com/alex-oleshkevich/gtk-mcp,In-process agent that lets the gtk-mcp MCP server inspect and drive a GTK4 app
+2026-10-27T13:09:12.022262Z,glasspane,0.2.0,0,0,https://github.com/oneilltomhq/glasspane,"A tenant Wayland compositor as a library: hosts Wayland clients and hands you one wgpu::Texture per client, plus an input-injection API. No placement policy, no scene, no scanout."
+2026-10-27T13:12:05.992911Z,format198x-sinclair-zx-spectrum-sna,0.1.0,0,0,https://github.com/format198x/format198x,ZX Spectrum .sna snapshots — dependency-free decoding and encoding of the 48K and 128K layouts.
+2026-10-27T13:17:15.714351Z,snowflake-core,0.1.0,0,0,https://github.com/nlimpid/snowflake-adbc-rust,"Snowflake SQL API client: login, query, chunk download. No Arrow dependency."
+2026-10-27T13:17:44.192498Z,snowflake-arrow,0.1.0,0,0,https://github.com/nlimpid/snowflake-adbc-rust,Strict Snowflake rowtype to Arrow conversion for JSON and Arrow IPC results.
+2026-10-27T13:18:08.030628Z,snowflake-adbc,0.1.0,0,0,https://github.com/nlimpid/snowflake-adbc-rust,"ADBC driver for Snowflake, implemented on snowflake-core."
+2026-10-27T13:18:32.631337Z,snowflake-adbc-ffi,0.1.0,0,0,https://github.com/nlimpid/snowflake-adbc-rust,C ABI export of the Snowflake ADBC driver.
