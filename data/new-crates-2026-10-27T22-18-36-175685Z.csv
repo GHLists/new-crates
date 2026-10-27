@@ -1,0 +1,60 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T21:21:01.177269Z,msgpack-tree,0.0.1,0,0,https://github.com/SahiBkom/msgpack-tree,A CLI tool and library for visualizing and inspecting the structure and content of MessagePack files.
+2026-10-27T21:21:51.814678Z,otf-pdf-syntax,0.1.0,0,0,https://github.com/Open-Tech-Foundation/PDF,"PDF syntax layer for otf-pdf: byte sources, header, lexer, objects, xref, filters, decryption and repair."
+2026-10-27T21:21:58.145379Z,otf-pdf-doc,0.1.0,0,0,https://github.com/Open-Tech-Foundation/PDF,"Document layer for otf-pdf: page tree, metadata, outlines, attachments; editing and saving from Phase 2."
+2026-10-27T21:22:01.982396Z,otf-pdf-content,0.1.0,0,0,https://github.com/Open-Tech-Foundation/PDF,"Content layer for otf-pdf: content-stream parsing, graphics and text state, and an interpreter that drives a Device."
+2026-10-27T21:22:19.056302Z,otf-pdf-font,0.1.0,0,0,https://github.com/Open-Tech-Foundation/PDF,"Font layer for otf-pdf: simple and composite fonts, encodings, CMaps, ToUnicode and widths."
+2026-10-27T21:22:23.452548Z,otf-pdf-text,0.1.0,0,0,https://github.com/Open-Tech-Foundation/PDF,"Text extraction for otf-pdf: characters, lines and words with positions, in reading order."
+2026-10-27T21:22:26.335256Z,otf-pdf,0.1.0,0,0,https://github.com/Open-Tech-Foundation/PDF,"A from-scratch toolkit to parse, edit, sign, verify, generate, validate and render PDFs."
+2026-10-27T21:24:09.305407Z,permio,0.1.0,0,0,https://github.com/PrivateJAR/permio-rust,"Rust SDK for perms.io: permission checks, grants, groups and the raw gRPC API"
+2026-10-27T21:25:32.078941Z,spr-zk-macros,0.1.0,0,0,https://github.com/helius-labs/zk-tools,"Derives of the zk circuit DSL: CircuitType, ProofInput and ErrorName."
+2026-10-27T21:26:36.879022Z,atlatl-ingest,0.1.0-rc.1,0,0,https://github.com/camconn/atlatl,"atlatl's ingest modes, staging and source-schema checks"
+2026-10-27T21:28:04.344901Z,kitty-rc-exchange,0.1.0,0,0,https://github.com/rektide/kitty-rc-rs,"Kitty remote-control exchange preparation and evidence: immutable bounded plaintext, fresh first-send encryption, and structured causes and progress"
+2026-10-27T21:28:21.616813Z,yip-obf,0.1.0,0,0,https://github.com/femboyisp/yip,Anti-DPI packet length quantization (DAITA) and SipHash-CTR wire masking for yip
+2026-10-27T21:29:04.498125Z,terrustrial-core,0.2.0,0,0,https://github.com/cutlerjake/terrustrial,Joint geostatistical modeling with explicit resource and numerical contracts
+2026-10-27T21:30:18.686198Z,senn,0.0.0,0,0,https://github.com/mrbandler/senn,"Git-native infrastructure for single operators, built on Nix and OpenTofu. Placeholder: the first release follows from the repository."
+2026-10-27T21:34:24.799999Z,uison-core,0.1.0,0,0,https://github.com/uisonlab/uison,"Core types of uison: geometry, colors, fonts, the Canvas, TextMeasure and Host traits, events, App. Internal part of uison: use the `uison` crate."
+2026-10-27T21:34:25.578084Z,uison-derive,0.1.0,0,0,https://github.com/uisonlab/uison,"#[derive(Data)] for uison: struct <-> data model (IntoJson + FromJson), no dependencies"
+2026-10-27T21:34:26.230875Z,uison-json,0.1.0,0,0,https://github.com/uisonlab/uison,"Pull JSON parser, mutable Value tree and writer for uison (relaxed JSON: comments, trailing commas, bare keys). Internal part of uison: use the `uison` crate."
+2026-10-27T21:34:29.377712Z,uison-frame,0.1.0,0,0,https://github.com/uisonlab/uison,"Primitive frames of uison: parsing, diff to damage regions, hit testing, painting, console mode. Internal part of uison: use the `uison` crate."
+2026-10-27T21:34:31.506081Z,uison-android,0.1.0,0,0,https://github.com/uisonlab/uison,"Android backend of uison (hand-written JNI, android.graphics.Canvas). Internal part of uison: use the `uison` crate."
+2026-10-27T21:36:03.37921Z,uison-apple,0.1.0,0,0,https://github.com/uisonlab/uison,"Shared macOS/iOS code of uison: hand-written Objective-C, CoreGraphics and CoreText FFI. Internal part of uison: use the `uison` crate."
+2026-10-27T21:36:36.689925Z,atlatl-conn-delta,0.1.0-rc.1,0,0,https://github.com/camconn/atlatl,atlatl's Delta Lake source
+2026-10-27T21:37:09.435392Z,rueca-lang-cpp,0.1.0-alpha.2,0,0,https://github.com/DevArKaDiA/rueca,C and C++ language pack for Rueca
+2026-10-27T21:37:18.578135Z,rueca-lang-data,0.1.0-alpha.2,0,0,https://github.com/DevArKaDiA/rueca,"Structured data pack for Rueca: JSON, YAML, TOML, .env, INI, .properties, XML kinds, HCL/Terraform and Dockerfile, with file kinds and the code-config bridge"
+2026-10-27T21:37:23.080325Z,rueca-lang-go,0.1.0-alpha.2,0,0,https://github.com/DevArKaDiA/rueca,Go language pack for Rueca
+2026-10-27T21:37:26.473857Z,rueca-lang-java,0.1.0-alpha.2,0,0,https://github.com/DevArKaDiA/rueca,Java language pack for Rueca
+2026-10-27T21:37:32.303902Z,rueca-lang-markdown,0.1.0-alpha.2,0,0,https://github.com/DevArKaDiA/rueca,Markdown language pack for Rueca: heading sections and file links
+2026-10-27T21:38:04.390327Z,kitty-rc-credentials,0.1.0,0,0,https://github.com/rektide/kitty-rc-rs,"Endpoint-scoped kitty credentials: selected key/password sources, pure validation, and explicit resolution policy"
+2026-10-27T21:38:22.109299Z,yip-utls,0.1.0,0,0,https://github.com/femboyisp/yip,Browser TLS 1.3 ClientHello fingerprint mimicry and REALITY active-probe defense for yip
+2026-10-27T21:44:54.349736Z,rueca-lang-php,0.1.0-alpha.2,0,0,https://github.com/DevArKaDiA/rueca,PHP language pack for Rueca
+2026-10-27T21:45:15.76844Z,uison-linux,0.1.0,0,0,https://github.com/uisonlab/uison,"Linux backend of uison: Wayland and X11, Cairo and Pango, all loaded with dlopen. Internal part of uison: use the `uison` crate."
+2026-10-27T21:46:35.676748Z,atlatl-conn-ducklake,0.1.0-rc.1,0,0,https://github.com/camconn/atlatl,atlatl's DuckLake and DuckDB-file targets and sources
+2026-10-27T21:47:45.878925Z,ularyt-swap,0.1.0,0,0,https://github.com/yedoma-labs/ularyt-swap,"cargo subcommand that swaps unmaintained dependencies (atty, instant, fxhash, number_prefix, paste) for their maintained successors - manifest and source, with a dry-run diff"
+2026-10-27T21:48:05.532475Z,kitty-rc-tokio,0.1.0,0,0,https://github.com/rektide/kitty-rc-rs,"Reusable single-owner kitty remote-control sessions over Tokio: persistent framing state, absolute deadlines, and verified clean-boundary socket return"
+2026-10-27T21:48:24.424973Z,yip-ca,0.1.0,0,0,https://github.com/femboyisp/yip,Certificate Authority CLI and online threshold (RFC 9591 FROST) signing daemon for yip
+2026-10-27T21:52:52.552336Z,envairon,0.1.0,0,0,https://github.com/eduardozitinho1/envairon,Keep .env files in sync without losing comments or formatting
+2026-10-27T21:54:51.687324Z,rueca-lang-python,0.1.0-alpha.2,0,0,https://github.com/DevArKaDiA/rueca,Python language pack for Rueca
+2026-10-27T21:55:29.485246Z,uison-ui,0.1.0,0,0,https://github.com/uisonlab/uison,"Screen compiler of uison: templates, bindings, styles, layout and widgets from JSON to primitive frames. Internal part of uison: use the `uison` crate."
+2026-10-27T21:55:32.484115Z,juiz_std_types,0.0.24,0,0,https://github.com/OpenJUIZ/juiz,"Standard data types (geometry, time, sensor) for juiz, generated from the JIDL built into juiz_idl."
+2026-10-27T21:56:34.830746Z,spr-tree,0.1.0,0,0,https://github.com/helius-labs/zolana,Merkle tree accounts and nullifier trees for the SPR protocol.
+2026-10-27T21:56:37.136289Z,atlatl-conn-files,0.1.0-rc.1,0,0,https://github.com/camconn/atlatl,"atlatl's file sources: local, S3, HTTP(S), SFTP"
+2026-10-27T21:56:37.940064Z,spr-interface,0.1.0,0,0,https://github.com/helius-labs/zolana,"Shared instructions, account layouts, and verification interfaces for the SPR shielded pool."
+2026-10-27T21:56:40.847821Z,spr-event-parser,0.1.0,0,0,https://github.com/helius-labs/zolana,Locate shielded-pool events in a transaction and rebuild the indexer-facing GeneralEvent from the emitting instruction.
+2026-10-27T21:58:05.237173Z,kitty-rc-registry,0.1.0,0,0,https://github.com/rektide/kitty-rc-rs,"Bounded concurrent kitty remote-control registry: caller-known tokens, fair endpoint selection, native result custody, cancel and shutdown"
+2026-10-27T21:58:37.401476Z,yipd,0.1.0,0,0,https://github.com/femboyisp/yip,High-performance userspace WireGuard-alternative overlay network daemon for yip
+2026-10-27T21:58:40.758465Z,slopfilter,0.1.0,0,0,https://github.com/SRv6d/slopfilter,"Scores Matter articles, web feeds, and local text for likely AI authorship."
+2026-10-27T22:01:30.713131Z,tuiscotti-tui-test,0.2.0,0,0,https://github.com/donbeave/tui-test,"In-process terminal automation, inspection, assertions, and recording"
+2026-10-27T22:02:25.762344Z,oreo,0.1.0,0,0,https://codeberg.org/burgerware/oreo,A cookie library
+2026-10-27T22:04:43.049826Z,github-pr-check,0.1.2,0,0,https://github.com/z-x/github-pr-check,Terminal dashboard for the CI status of your open GitHub pull requests
+2026-10-27T22:05:04.072172Z,rueca-lang-typescript,0.1.0-alpha.2,0,0,https://github.com/DevArKaDiA/rueca,TypeScript / TSX / JavaScript language pack for Rueca
+2026-10-27T22:05:40.967797Z,uison-web,0.1.0,0,0,https://github.com/uisonlab/uison,"Browser backend of uison: WebAssembly with canvas 2D, no wasm-bindgen. Internal part of uison: use the `uison` crate."
+2026-10-27T22:05:55.903881Z,spr-instruction,0.1.0,0,0,https://github.com/helius-labs/zolana,"SPP instructions for Solana programs and clients: shielded-pool instruction builders, the transact CPI, and the derivations a program recomputes on-chain, buildable for the SBF target."
+2026-10-27T22:06:37.106945Z,atlatl-conn-pgrepl,0.1.0-rc.1,0,0,https://github.com/camconn/atlatl,atlatl's Postgres logical-replication CDC source
+2026-10-27T22:08:04.551993Z,kitty-rc-listing,0.2.0,0,0,https://github.com/rektide/kitty-rc-rs,"Finite scoped kitty window listings over managed custody: snapshots, detachable receipts, sampled changes, and caller-driven polling"
+2026-10-27T22:08:23.407036Z,yip-mesh,0.1.0,0,0,https://github.com/femboyisp/yip,High-performance userspace WireGuard-alternative overlay network protocol and SDK
+2026-10-27T22:08:54.454229Z,pq-crypto,0.1.0-rc2,0,0,https://github.com/p0mvn/wots-plus,Post-quantum hash-based signatures: standalone fixed-profile RFC 8391 WOTS+
+2026-10-27T22:14:55.934581Z,rueca-resolve,0.1.0-alpha.2,0,0,https://github.com/DevArKaDiA/rueca,Per-snapshot name and call resolution for Rueca
+2026-10-27T22:15:53.553716Z,uison-windows,0.1.0,0,0,https://github.com/uisonlab/uison,"Windows backend of uison (Win32, Direct2D, DirectWrite, hand-written COM). Internal part of uison: use the `uison` crate."
+2026-10-27T22:16:38.63345Z,atlatl-conn-redshift,0.1.0-rc.1,0,0,https://github.com/camconn/atlatl,"atlatl's Redshift source: Data API, wire protocol, UNLOAD"
+2026-10-27T22:18:05.101493Z,kitty-rc-check,0.1.0,0,0,https://github.com/rektide/kitty-rc-rs,Fresh listing checks after uncertain kitty effects: matching and satisfaction kept separate from original native outcomes
