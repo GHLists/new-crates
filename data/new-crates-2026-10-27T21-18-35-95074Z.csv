@@ -1,0 +1,74 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T20:20:38.24035Z,cargo-lean,0.1.0,0,0,https://github.com/raphaelstolt/cargo-lean,Validate and manage Cargo.toml package exclude lists
+2026-10-27T20:22:47.855349Z,xslash,26.10.27,0,0,,simplified distribution of prebuilt executables
+2026-10-27T20:25:18.514666Z,abece,0.1.0,0,0,https://github.com/fodunkiran/abece,"Turkish text handling: dotted and dotless i case mapping, search and accent folding, a Turkish-alphabet sort key, suffixes, numbers and dates in words"
+2026-10-27T20:27:28.517689Z,hharness-fleet,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C4/Stage-4 human-agent organizational layer — the fleet reconciler (spec §5i.1, R-2.12.6; ticket S4.9): `run_kind = fleet` activations over durable `FleetSpec` records (`lifecycle.fleet.activated…"
+2026-10-27T20:27:36.68003Z,spr-account-checks,0.1.0,0,0,https://github.com/helius-labs/zolana,Checks for solana accounts.
+2026-10-27T20:27:37.35455Z,spr-event,0.1.0,0,0,https://github.com/helius-labs/zolana,Shielded-pool event types and binary codecs for the SPR protocol.
+2026-10-27T20:27:37.838342Z,spr-hasher,0.1.1,0,0,https://github.com/helius-labs/zolana,Trait for generic usage of hash functions on Solana
+2026-10-27T20:27:38.236037Z,spr-indexer-api,0.1.0,0,0,https://github.com/helius-labs/zolana,Shared JSON-RPC contract for the Zolana indexer.
+2026-10-27T20:27:39.038036Z,spr-prover-tee,0.1.0,0,0,https://github.com/helius-labs/zolana,"The encrypted prover wire contract: attestation verification, policy pins and HPKE request encryption for a prover in a confidential computing environment."
+2026-10-27T20:37:24.320307Z,spr-user-registry-interface,0.1.0,0,0,https://github.com/helius-labs/zolana,Account types and instructions for the SPR user registry.
+2026-10-27T20:38:45.755068Z,hharness-fleet-adapter,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C4/Stage-5 work-source adapter boundary (spec §5i.1, R-2.12.6; ticket S5.6): the `work_source_adapter` plugin class contract — the one wire codec (`ops` ↔ canonical-JSON records), the host-side `…"
+2026-10-27T20:41:09.909354Z,agecrypt,0.6.5,0,0,https://github.com/Crynspier/git-agecrypt,"Modern, GPG-free Git secrets filter using age encryption and SSH keys"
+2026-10-27T20:41:11.675885Z,dynamo-sidecar-common,1.6.1,0,0,https://github.com/ai-dynamo/dynamo.git,Shared gRPC transport and CLI infrastructure for Dynamo sidecars
+2026-10-27T20:41:14.434326Z,dynamo-vllm-sidecar,1.6.1,0,0,https://github.com/ai-dynamo/dynamo.git,Rust sidecar for vLLM's native gRPC server
+2026-10-27T20:41:16.975239Z,dynamo-sglang-sidecar,1.6.1,0,0,https://github.com/ai-dynamo/dynamo.git,Dynamo SGLang sidecar for an out-of-process engine exposed through its native gRPC service.
+2026-10-27T20:41:19.867594Z,dynamo-trtllm-sidecar,1.6.1,0,0,https://github.com/ai-dynamo/dynamo.git,Dynamo TensorRT-LLM sidecar backend — drives an out-of-process TensorRT-LLM engine over its OpenEngine gRPC service through the backend-common LLMEngine trait.
+2026-10-27T20:44:08.247091Z,qorechain-pq-light-client,0.1.0,0,0,https://github.com/qorechain/qorechain-pq-light-client,"Reference verifier for QoreChain post-quantum light client checkpoints (ML-DSA-87, FIPS 204). Specification draft; requires chain support (not scheduled)."
+2026-10-27T20:46:06.527168Z,skene,0.1.0,0,0,https://github.com/claviron/skene,Symfony application runner for Claviron
+2026-10-27T20:46:18.597098Z,atlatl-core,0.1.0-rc.1,0,0,https://github.com/camconn/atlatl,"atlatl's configuration, planning, templating, observability and shared types"
+2026-10-27T20:46:20.46734Z,atlatl-cdc,0.1.0-rc.1,0,0,https://github.com/camconn/atlatl,atlatl's DuckLake change-feed net changes and delete stamping
+2026-10-27T20:46:20.7099Z,atlatl-conn-clickhouse,0.1.0-rc.1,0,0,https://github.com/camconn/atlatl,atlatl's ClickHouse source over HTTP(S)
+2026-10-27T20:46:20.877321Z,atlatl-conn-sqlite,0.1.0-rc.1,0,0,https://github.com/camconn/atlatl,"atlatl's SQLite, Cloudflare D1 and Turso serving appliers"
+2026-10-27T20:46:21.328377Z,atlatl-engine,0.1.0-rc.1,0,0,https://github.com/camconn/atlatl,"atlatl's in-process DuckDB engine: sessions, memory budgets, extensions"
+2026-10-27T20:47:18.628804Z,switch-case-passbolt-sdk,0.1.0,0,0,https://github.com/scadra/passbolt-rust-sdk,Passbolt SDK — Rust library for the Passbolt API
+2026-10-27T20:47:20.22396Z,switch-case-passbolt-cli,0.1.0,0,0,https://github.com/scadra/passbolt-rust-sdk,Passbolt CLI — Rust alternative to go-passbolt-cli
+2026-10-27T20:48:33.354693Z,structural-lsp,0.1.1,0,0,https://github.com/jbr/structural-lsp,"An MCP server that gives coding agents LSP-backed definition, references and rename"
+2026-10-27T20:49:44.524229Z,zwatty,0.0.1,0,0,https://github.com/luis8h/zwatty.git,An indoor cycling app written in Rust. Work in progress.
+2026-10-27T20:51:00.372164Z,hharness-helper,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,The out-of-process sandbox helper binary + the hh-helper/1 wire codec (S2.1; R-2.5.5/R-2.2.5; ADR-0050 helper layer). Unix-socket session channel with hello/resume; exec/read/probe/cancel/terminate/d…
+2026-10-27T20:51:15.876903Z,hharness-secrets,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C0/Stage-1 credential broker — SecretRef/SecretChannel, the kernel-side CredentialBroker (register/grant/bind/mediate/mint/revoke/rotate/kernel_use/fingerprint), the deny-by-default EnvSpec proje…"
+2026-10-27T20:51:35.573595Z,oj_notify,0.2.48,0,0,https://github.com/lovablelabs/oj,"Fork of notify 9.0.0-rc.6 maintained for oj, carrying the unreleased upstream FSEvents fix that preserves pending events across watch changes (notify-rs/notify#1033). Use upstream notify unless you n…"
+2026-10-27T20:56:38.138018Z,gitview,0.5.0,0,0,https://github.com/barathrajd/gitview,Keyboard-first terminal interface for reviewing Git history and working-tree changes
+2026-10-27T20:57:58.898896Z,ccda-model,0.1.0,0,0,https://github.com/alvinhenrick/ccda2fhir,"Typed, version-neutral model and safe parser for C-CDA documents"
+2026-10-27T20:58:01.337402Z,ccda-terminology,0.1.0,0,0,https://github.com/alvinhenrick/ccda2fhir,Code system helpers for C-CDA to FHIR conversion (OID to URI mapping)
+2026-10-27T20:58:04.674938Z,atlatl-http,0.1.0-rc.1,0,0,https://github.com/camconn/atlatl,"atlatl's declarative REST API engine: auth, pagination, iteration, rate limits"
+2026-10-27T20:58:07.165634Z,fhir-out,0.1.0,0,0,https://github.com/alvinhenrick/ccda2fhir,FHIR R4 output building blocks (Bundle) kept separate from C-CDA parsing and mapping
+2026-10-27T20:58:13.088984Z,ccda-map,0.1.0,0,0,https://github.com/alvinhenrick/ccda2fhir,Maps the typed C-CDA model to FHIR R4 resources and reports anything lossy
+2026-10-27T20:58:17.2902Z,ccda2fhir,0.1.0,0,0,https://github.com/alvinhenrick/ccda2fhir,Convert C-CDA documents to FHIR R4 bundles
+2026-10-27T21:00:33.323628Z,yubikit,1.0.0-alpha.0,0,0,https://github.com/Yubico/yubikey-manager,YubiKey management library
+2026-10-27T21:01:34.520004Z,ykman,1.0.0-alpha.0,0,0,https://github.com/Yubico/yubikey-manager,YubiKey Manager library
+2026-10-27T21:01:46.496602Z,keyline_memory,0.1.0,0,0,https://github.com/inkandswitch/keyhive,The in-memory reference backend for Keyline
+2026-10-27T21:02:31.729249Z,hharness-verification,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C0/Stage-1 verification-plane substrate (spec §5f, R-2.7.2a, R-2.7.1⁰, R-2.7.3⁰; ticket S1.21; ADR-0109…0117). The claim-ledger substrate — `Claim`/`ClaimKind`/`SubjectRef`, `extract`/`validate`…"
+2026-10-27T21:02:38.989884Z,kitty-rc-frame,0.1.0,0,0,https://github.com/rektide/kitty-rc-rs,"Incremental DCS framing for the kitty remote-control protocol: exact frame boundaries, surplus retention, and bounded buffers"
+2026-10-27T21:02:39.328925Z,kitty-rc-key-store,0.1.0,0,0,https://github.com/rektide/kitty-rc-rs,"Persisted kitty public-key record format: TSV parsing with malformed-line reporting, rendering, and per-PID lookup"
+2026-10-27T21:02:39.692356Z,kitty-rc-schema,0.1.0,0,0,https://github.com/rektide/kitty-rc-rs,"Kitty remote-control wire envelope types: plain requests, protected envelopes, responses, and version vocabulary"
+2026-10-27T21:02:40.533183Z,kitty-rc-commands,0.2.0,0,0,https://github.com/rektide/kitty-rc-rs,"Audited typed finite kitty commands, nested action grammar and output models"
+2026-10-27T21:02:40.796726Z,kitty-rc-crypto,0.1.0,0,0,https://github.com/rektide/kitty-rc-rs,One-envelope request protection for kitty remote control: exact X25519 key parsing and AES-256-GCM sealing with explicit inputs
+2026-10-27T21:02:44.029811Z,yip-wire,0.1.0,0,0,https://github.com/femboyisp/yip,Wire format framing and SipHash-CTR keyed header protection for the yip mesh VPN
+2026-10-27T21:02:44.991545Z,ykman-cli,6.0.0-alpha.0,0,0,https://github.com/Yubico/yubikey-manager,YubiKey Manager CLI
+2026-10-27T21:02:51.14717Z,yip-crypto,0.1.0,0,0,https://github.com/femboyisp/yip,Post-quantum hybrid Noise-IKpsk2 + ML-KEM-512 cryptographic handshake and AEAD session ciphers for yip
+2026-10-27T21:03:00.37973Z,yip-device,0.1.0,0,0,https://github.com/femboyisp/yip,Linux TUN/TAP network device interface abstraction and multiqueue descriptor management for yip
+2026-10-27T21:03:08.617542Z,yip-io,0.1.0,0,0,https://github.com/femboyisp/yip,"High-performance I/O engines (AF_XDP zero-copy, io_uring, and vectorized recvmmsg/sendmmsg) for yip"
+2026-10-27T21:03:17.318887Z,yip-transport,0.1.0,0,0,https://github.com/femboyisp/yip,"Cauchy Reed-Solomon proactive FEC erasure coding, zero-alloc in-place reassembly, and thin ARQ for yip"
+2026-10-27T21:03:21.454069Z,lightmime-core,0.1.0,0,0,https://github.com/pataar/lightmime,"Screen capture, colour mapping and Hue Entertainment streaming for lightmime"
+2026-10-27T21:03:23.823734Z,lightmime-gui,0.1.0,0,0,https://github.com/pataar/lightmime,The lightmime window and tray icon
+2026-10-27T21:03:26.298297Z,lightmime,0.1.0,0,0,https://github.com/pataar/lightmime,Sync Philips Hue lights with your screen on Linux
+2026-10-27T21:03:37.296191Z,ykman-svc,1.0.0-alpha.0,0,0,https://github.com/Yubico/yubikey-manager,YubiKey Manager background service
+2026-10-27T21:06:10.604918Z,bass,0.0.1,0,0,https://github.com/iancleary/bass,Command-line client for decision APIs (placeholder)
+2026-10-27T21:06:36.048216Z,atlatl-state,0.1.0-rc.1,0,0,https://github.com/camconn/atlatl,"atlatl's state store: cursors, run records and rejects in DuckLake or DuckDB"
+2026-10-27T21:08:04.26503Z,kitty-rc-endpoint,0.1.0,0,0,https://github.com/rektide/kitty-rc-rs,"Kitty remote-control endpoint setup: explicit Unix/TCP routes, plain or key/password protection, and secret-redacted diagnostics"
+2026-10-27T21:08:16.706467Z,yip-membership,0.1.0,0,0,https://github.com/femboyisp/yip,"Cryptographic membership certificates, RootSets, and epidemic gossip protocol records for yip"
+2026-10-27T21:09:05.878851Z,ccda2fhir-server,0.1.0,0,0,https://github.com/alvinhenrick/ccda2fhir,Command line tool and HTTP service for the C-CDA to FHIR converter
+2026-10-27T21:13:47.453323Z,rueca-model,0.1.0-alpha.2,0,0,https://github.com/DevArKaDiA/rueca,"Core data model for Rueca: identifiers, labels, edges, facts, resolved graphs"
+2026-10-27T21:14:00.596006Z,rueca-extract,0.1.0-alpha.2,0,0,https://github.com/DevArKaDiA/rueca,"Extractor trait, language-pack registry and tree-sitter helpers for Rueca"
+2026-10-27T21:16:38.323159Z,atlatl-conn-postgres,0.1.0-rc.1,0,0,https://github.com/camconn/atlatl,atlatl's Postgres source and serving applier
+2026-10-27T21:17:15.496828Z,spr-api,0.1.0,0,0,https://github.com/helius-labs/zolana,Typed client for the Zolana indexer API.
+2026-10-27T21:17:16.3293Z,spr-indexed-array,0.1.0,0,0,https://github.com/helius-labs/zolana,Implementation of indexed (and concurrent) Merkle tree in Rust
+2026-10-27T21:17:17.975729Z,spr-merkle-tree,0.1.0,0,0,https://github.com/helius-labs/zolana,Non-sparse reference Merkle tree implementation
+2026-10-27T21:17:20.244542Z,spr-zk-macros-core,0.1.0,0,0,https://github.com/helius-labs/zk-tools,Expansion logic shared by the zk DSL derives and the zolana program derives.
+2026-10-27T21:17:41.009087Z,waymaker-drive,0.1.0,0,0,https://github.com/madmax983/waymaker,The synchronous driver of design document §06's explicit kernel boundary: the recovery scan and the two-barrier writer joined to the kernel's transition table.
+2026-10-27T21:17:49.78496Z,waymaker-bridge,0.1.0,0,0,https://github.com/madmax983/waymaker,"The bridge from waymaker-drive's synchronous kernel boundary to waymaker-embassy's Journal, so an async Ctx workflow runs on flash."
+2026-10-27T21:18:04.937761Z,kitty-rc-discovery,0.1.0,0,0,https://github.com/rektide/kitty-rc-rs,"Explicit kitty endpoint discovery: injectable candidate acquisition, native paths, provenance, and deliberate ambiguity policy"
+2026-10-27T21:18:17.097649Z,yip-rendezvous,0.1.0,0,0,https://github.com/femboyisp/yip,"Blind rendezvous protocol, STUN NAT traversal classification, and relay signaling for yip"
+2026-10-27T21:18:17.65323Z,qorechain-qoreseal,0.1.0,0,0,https://github.com/qorechain/qoreseal,"ML-KEM-1024 (FIPS 203) encryption of data to QoreChain accounts: hybrid X25519 mode, multi-recipient envelopes, recipient cards and epoch keys."
