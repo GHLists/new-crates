@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T02:22:11.025397Z,thruput-sdk,0.58.0,0,0,https://github.com/thruputchain/thruput-sdk-rs,Thruput smart-contract SDK for Rust (rv32 guest runtime and native test harness)
+2026-10-28T02:22:13.785467Z,gufi-asgi,0.2.0-alpha.24,0,0,https://github.com/claviron/gufi,"Embeddable Python ASGI engine with lifespan, streaming HTTP and message sessions"
+2026-10-28T02:22:22.919513Z,tv-rs-ir,0.5.0,0,0,https://github.com/Zakarialabib/tv-rs,Universal IR Remote control and scanner for TVs and set-top boxes.
+2026-10-28T02:22:30.186833Z,kavenegar,0.1.0,0,0,https://github.com/goudarz/kavenegar-rs,"Async Rust client for the Kavenegar SMS, OTP and voice-call API"
+2026-10-28T02:23:23.214056Z,tv-rs-spatial-audio,0.5.0,0,0,https://github.com/Zakarialabib/tv-rs,"Spatial audio manager for Bluetooth A2DP sinks, PulseAudio/PipeWire local streams, directional sound domes, and ceiling speakers."
+2026-10-28T02:24:03.271056Z,tv-rs-vision,0.5.0,0,0,https://github.com/Zakarialabib/tv-rs,"Computer vision & edge AI event engine: RTSP camera streams, edge-optimized AI models (YOLO, MediaPipe), zone analytics, and structured JSON event output."
+2026-10-28T02:24:37.245575Z,tv-rs-rules,0.5.0,0,0,https://github.com/Zakarialabib/tv-rs,"Declarative automation and rule engine for turning events into fleet actions: conditions, priorities, cooldowns, schedules, scenes, and conflict resolution."
+2026-10-28T02:26:23.946238Z,iet-authz-cache,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Typed read-through scoped authorization with explicit invalidation.
+2026-10-28T02:32:11.373428Z,thruput-erc20-if,0.1.71,0,0,https://github.com/thruputchain/thruput-sdk-rs,ERC20 standard interface for Thruput smart contracts
+2026-10-28T02:38:48.058783Z,iet-features,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Statically registered feature DAG and scoped availability policy.
+2026-10-28T02:42:10.672132Z,thruput-erc20-metadata-if,0.1.71,0,0,https://github.com/thruputchain/thruput-sdk-rs,"ERC20 metadata (name, symbol, decimals) standard interface for Thruput smart contracts"
+2026-10-28T02:52:10.619331Z,thruput-erc20-controls-if,0.1.71,0,0,https://github.com/thruputchain/thruput-sdk-rs,Optional issuer controls and holder burns for Thruput ERC20 tokens
+2026-10-28T02:59:30.177743Z,spoolframe-test-dir,0.16.1,0,0,https://github.com/Spoolframe/spoolframe-server,"A test's own directory: tmpdir's random name, removed for certain when dropped."
+2026-10-28T02:59:35.443902Z,spoolframe-types,0.16.1,0,0,https://github.com/Spoolframe/spoolframe-server,Spoolframe's client-facing types: the media model and its identifiers.
+2026-10-28T02:59:48.40526Z,spoolframe-protocol,0.16.1,0,0,https://github.com/Spoolframe/spoolframe-server,The spoolframe/client/1 wire protocol.
+2026-10-28T03:00:16.164222Z,spoolframe-client-sdk,0.16.1,0,0,https://github.com/Spoolframe/spoolframe-server,"Client side of Spoolframe: Iroh transport, saved servers, sessions."
+2026-10-28T03:00:21.22179Z,spoolframe-hls-bridge,0.16.1,0,0,https://github.com/Spoolframe/spoolframe-server,"Serves a Spoolframe playback over HTTP as HLS or a ranged file, for players that only take a URL."
+2026-10-28T03:00:23.605504Z,iet-auth-session-redis,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Atomic digest-keyed Redis sessions with explicit operation timeouts.
+2026-10-28T03:02:10.282608Z,thruput-erc20-pausable-if,0.1.71,0,0,https://github.com/thruputchain/thruput-sdk-rs,ERC20 pausable-extension standard interface for Thruput smart contracts
+2026-10-28T03:04:11.408183Z,spoolframe-policy,0.16.1,0,0,https://github.com/Spoolframe/spoolframe-server,Shared watch-state and track-selection policy for Spoolframe applications.
+2026-10-28T03:09:41.16758Z,qppocr-metal,0.4.0,0,0,https://github.com/qinwenhui/qppocr,qppocr 的 Metal 设备后端（Apple GPU 原生直连，仅 macOS）
+2026-10-28T03:10:38.192015Z,iet-auth-tokens,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Opaque scoped API-key and PAT authentication preserving authority limits.
+2026-10-28T03:12:10.342736Z,thruput-signed-op-if,0.1.71,0,0,https://github.com/thruputchain/thruput-sdk-rs,Signed operation (off-chain authorization) standard interface for Thruput smart contracts
+2026-10-28T03:14:44.565035Z,substrate-message,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,Substrate's shared kernel: the user-facing Message (an English template with placeholders) and the macro that declares a module's templates.
+2026-10-28T03:14:56.723803Z,substrate-dap-domain,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"The debug adapter context's vocabulary: the adapters a product knows, the protocol's ids and commands, what an adapter says unasked, and why talking to an adapter fails."
+2026-10-28T03:15:04.532352Z,substrate-framing,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"The framing the Language Server and Debug Adapter protocols share: a Content-Length header, a blank line, then that many bytes of JSON."
+2026-10-28T03:15:08.656274Z,substrate-lock,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"Locks that outlive a panic: Mutex and RwLock guards that ignore poison, for the shared kernel of every context."
+2026-10-28T03:15:26.318408Z,substrate-run-domain,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"Running tools' vocabulary: a task to run, how it ended, log lines, and the named multi-step workflows."
+2026-10-28T03:16:55.290465Z,substrate-run-app,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"Running tools' use cases: spawn a task with its output streamed into a log, run workflows step by step, and the port for starting processes."
