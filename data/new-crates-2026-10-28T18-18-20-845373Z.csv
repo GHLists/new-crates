@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T17:20:07.218069Z,kaja-web-component,1.0.1,0,0,https://github.com/johanmattssonm/kaja-web-component,Web component framework for Rust targeting the WebAssembly
+2026-10-28T17:35:02.169426Z,cf-gears-construct,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,Construct gear: living per-subject profile built from connector records
+2026-10-28T17:35:38.238755Z,holger-dev-narrate,2.0.0,0,0,,Holger's DEV-NARRATE half: the STAGE lines and the sealed boot-log sender's start after the metadata seed lands.
+2026-10-28T17:36:06.200665Z,cf-gears-firebase-authn-plugin,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"AuthN resolver plugin verifying Firebase ID tokens, with configured identity and tenant mappings"
+2026-10-28T17:36:26.079749Z,holger-zip-entry,2.0.0,0,0,https://git.gunnar.rs/nordisk/holger,"Bounded ZIP central-directory reader for holger's archive-backed backends — reads ONE named member out of a .nupkg / Composer dist zip without trusting the declared sizes, refusing traversal paths an…"
+2026-10-28T17:36:40.85585Z,holger-intel,2.0.0,0,0,https://git.gunnar.rs/nordisk/holger,"Holger offline vulnerability intelligence: OSV / NVD / CISA KEV normalized into one advisory set, carried across the airgap as a signed holger.update-bundle/v1 (product holger.intel/v1), verified wit…"
+2026-10-28T17:37:01.014887Z,holger-live,2.0.0,0,0,,"Holger's live slot: a box's (main, twin, front) own A/B app slot over korp-installer `live`, answering the shared nordisk-pairing live door (/live/running, /live/stage), then confirm or roll back. Gu…"
+2026-10-28T17:37:10.747114Z,holger-sandbox,2.0.0,0,0,https://git.gunnar.rs/nordisk/holger,"Holger's scan sandbox: runs the scan worker over one artifact in a hardened rootless podman container (no network, read-only artifact and rootfs, capped tmpfs scratch, CPU/memory/pids limits, a wall-…"
+2026-10-28T17:38:39.797219Z,holger-downstream,2.0.0,0,0,https://git.gunnar.rs/nordisk/holger,"Holger downstream's rules (Holger v2.0 H3): the on-prem, air-gapped gateway takes packages from ONE upstream Holger only. Pure: from a config's facts it decides what the box may dial (its upstream, n…"
+2026-10-28T17:41:26.747797Z,smysl-embed-candle,1.10.0,0,0,https://github.com/vulogov/smysl,"Transformer embeddings for a smysl store (S1): multilingual encoders on candle, from a local model directory."
+2026-10-28T17:41:28.011941Z,smysl-query,1.10.0,0,0,https://github.com/vulogov/smysl,"smysl query language sq/1: lexer, parser, AST, canonical printer and planner"
+2026-10-28T17:41:38.290511Z,smysl-text,1.10.0,0,0,https://github.com/vulogov/smysl,"smysl text library: normalisation, parts, readings, structure, locators, object store"
+2026-10-28T17:41:41.087678Z,smysl-lib,1.10.0,0,0,https://github.com/vulogov/smysl,"smysl library import and export: inclusion closure, canonical collections, round trips"
+2026-10-28T17:41:41.344702Z,smysl-measure,1.10.0,0,0,https://github.com/vulogov/smysl,"smysl measures (RFC SMYSL-2.6): recipes, exact payload numbers and derived data units"
+2026-10-28T17:42:23.485045Z,sorrel-remote,0.2.1,0,0,https://github.com/caniko/sorrel,Remote work protocol for Sorrel: share a dataset with a guest machine over piying/libp2p.
+2026-10-28T17:42:30.61229Z,borrow_lite_derive,0.1.0,0,0,https://github.com/cipansor/Borrow-Lite,The optional `#[derive(Cell)]` for borrow_lite: one struct instead of the two-name `cell!`.
+2026-10-28T17:42:36.480386Z,borrow_lite,0.1.0,0,0,https://github.com/cipansor/Borrow-Lite,"Rc<RefCell<T>> and Arc<RwLock<T>> ergonomics without the pain: one small API, try-first borrowing, and conflicts that tell you who borrowed what and where."
+2026-10-28T17:49:03.642214Z,holger-fleet,2.0.0,0,0,https://git.gunnar.rs/nordisk/holger,"The estate side of the ONE monetize's pull channel for Holger: Holger's order kinds and the executor over holger's own verbs, on the shared pump (monetize-estate-side: the box key, Report/Orders/Ask,…"
+2026-10-28T17:53:45.638171Z,demesne-gocompat,1.0.0,0,0,https://github.com/foir-io/demesne,Byte-exact reproductions of the Go standard library formatting demesne's output depends on.
+2026-10-28T17:53:48.210626Z,demesne-runtime,1.0.0,0,0,https://github.com/foir-io/demesne,"The demesne runtime: the holds resolver, access and grant surfaces, claims, and session SQL, over compiled tables."
+2026-10-28T17:53:48.841686Z,demesne-syntax,1.0.0,0,0,https://github.com/foir-io/demesne,"Lexer, parser and AST for the demesne authorization spec language."
+2026-10-28T17:53:51.299954Z,demesne-model,1.0.0,0,0,https://github.com/foir-io/demesne,"The demesne model: topology, analysis, validation and schema binding over a parsed spec."
+2026-10-28T17:53:53.948709Z,demesne-emit-sql,1.0.0,0,0,https://github.com/foir-io/demesne,"Emits the demesne enforcement floor: RLS policies, the SECURITY DEFINER kernel, triggers and the changelog."
+2026-10-28T17:54:23.56541Z,calimero-app-downloader,1.0.0-rc.1,0,0,https://github.com/calimero-network/core,Core Calimero infrastructure and tools
+2026-10-28T17:57:07.509762Z,aad-core,0.0.1,0,0,https://github.com/lejunyang/ai-auto-desktop,"Descriptor model, expression evaluator and workflow compiler for ai-auto-desktop"
+2026-10-28T17:58:09.74465Z,aad-plugin,0.0.1,0,0,https://github.com/lejunyang/ai-auto-desktop,NDJSON subprocess plugin host for ai-auto-desktop
+2026-10-28T17:59:12.670779Z,aad-runtime,0.0.1,0,0,https://github.com/lejunyang/ai-auto-desktop,Workflow execution engine for ai-auto-desktop
+2026-10-28T18:00:08.180174Z,tm-datalog,0.10.0,0,0,https://github.com/Volland/tiramemsu,"Tiramemsu Datalog: a semi-naive engine with DatalogMTL over valid time, magic-set goals and constraints, over the storage traits"
+2026-10-28T18:00:15.242009Z,aad-ocr,0.0.1,0,0,https://github.com/lejunyang/ai-auto-desktop,Native Tesseract OCR provider for ai-auto-desktop
+2026-10-28T18:01:17.696059Z,aad-atspi,0.0.1,0,0,https://github.com/lejunyang/ai-auto-desktop,Native Rust Linux AT-SPI provider for ai-auto-desktop
+2026-10-28T18:01:33.028274Z,surrealdb-parser-next,4.0.0-beta.1,0,0,https://github.com/surrealdb/surrealdb,"A scalable, distributed, collaborative, document-graph database, for the realtime web"
+2026-10-28T18:01:35.440444Z,surrealdb-sqlfront-derive,4.0.0-beta.1,0,0,https://github.com/surrealdb/surrealdb,Derive macro for SurrealDB SQL front-end AST nodes
+2026-10-28T18:01:37.34523Z,surrealdb-stored-derive,4.0.0-beta.1,0,0,https://github.com/surrealdb/surrealdb,"A scalable, distributed, collaborative, document-graph database, for the realtime web"
+2026-10-28T18:01:39.336125Z,surrealism-verify,0.7.0-beta.1,0,0,https://github.com/surrealdb/surrealdb,Signature verification for Surrealism extension archives
+2026-10-28T18:01:40.149569Z,dfmt_rs,0.1.1,0,0,,A tiny format lib
+2026-10-28T18:01:42.617196Z,surrealdb-pgsql,4.0.0-beta.1,0,0,https://github.com/surrealdb/surrealdb,PostgreSQL language front end for SurrealDB
+2026-10-28T18:02:20.048278Z,aad-macos-ax,0.0.1,0,0,https://github.com/lejunyang/ai-auto-desktop,Native Rust adapter for the macOS Accessibility provider
+2026-10-28T18:03:40.910998Z,surrealdb-mysql,4.0.0-beta.1,0,0,https://github.com/surrealdb/surrealdb,MySQL language front end for SurrealDB
+2026-10-28T18:04:04.817842Z,devpage-core,0.2.3,0,0,https://github.com/andrei512/devpage,"devpage's core: documents, rendering, link checking, comments and designs, with no I/O runtime"
+2026-10-28T18:04:31.685912Z,demesne-emit-rust,1.0.0,0,0,https://github.com/foir-io/demesne,"Emits demesne's Rust surface: a spec's runtime tables as statics, only for the surfaces a crate names, generated from build.rs."
+2026-10-28T18:06:30.096039Z,zgx-3d,0.1.5,0,0,https://github.com/zeronsh/zgx,"Retained 3D scenes for zgx: meshes, a camera, lights and a PBR material, drawn in a GPU view only when they change."
+2026-10-28T18:10:52.655916Z,aad-cdp,0.0.1,0,0,https://github.com/lejunyang/ai-auto-desktop,Read-only Chrome DevTools Protocol client for observing Chromium page text and activity
+2026-10-28T18:13:42.097779Z,surrealdb-sqlplan,4.0.0-beta.1,0,0,https://github.com/surrealdb/surrealdb,"SQL planner, binder, and bound IR for SurrealDB"
+2026-10-28T18:14:21.831606Z,demesne-emit-ts,1.0.0,0,0,https://github.com/foir-io/demesne,Emits demesne's TypeScript surface: projections for @foir/demesne and the typed framework module.
+2026-10-28T18:15:52.599372Z,papermend,0.1.0,0,0,https://github.com/lancylot2004/papermend,"Minimal, CLI-only PaperCut Print Deploy client for macOS and Linux. Nothing runs in the background."
+2026-10-28T18:16:11.924035Z,slain-mlkem,0.1.0,0,0,https://github.com/GodlessVVanderer/slain-cornerstones,"ML-KEM (FIPS 203) post-quantum key encapsulation in pure Rust; no_std, no allocation in the core API."
+2026-10-28T18:16:22.879089Z,slain-mldsa,0.1.0,0,0,https://github.com/GodlessVVanderer/slain-cornerstones,"ML-DSA (FIPS 204) post-quantum digital signatures in pure Rust; no_std, no allocation in the core API."
