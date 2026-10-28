@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T04:22:10.058845Z,thruput-access-control,0.1.71,0,0,https://github.com/thruputchain/thruput-sdk-rs,Embeddable role-based access control implementation for Thruput smart contracts
+2026-10-28T04:22:15.548018Z,iet-auth-tokens-timescale,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Self-contained durable opaque API-key and PAT digest storage.
+2026-10-28T04:24:37.852626Z,agave-memory,0.0.1-reserved,0,0,https://github.com/anza-xyz/agave,reserved for future use
+2026-10-28T04:26:52.529404Z,substrate-lsp-domain,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"The language server context's vocabulary: the languages a product knows and the server each is served by, what a server says unasked, file URIs, and why talking to a server fails."
+2026-10-28T04:32:10.968254Z,thruput-spec-tool,0.58.0,0,0,https://github.com/thruputchain/thruput-sdk-rs,"Tools for reading, writing, and canonicalizing Thruput contract specs"
+2026-10-28T04:33:50.260571Z,iet-features-timescale,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Independent scoped feature-policy persistence.
+2026-10-28T04:34:18.715957Z,providers-kit,0.0.1,0,0,https://github.com/jecsand838/ai-kit,Portable enum-dispatch Kit over multiple model provider APIs.
+2026-10-28T04:34:22.337303Z,storage-kit,0.0.1,0,0,https://github.com/jecsand838/ai-kit,Portable database and transactional state-store Kit.
+2026-10-28T04:34:25.040602Z,tools-kit,0.0.1,0,0,https://github.com/jecsand838/ai-kit,Portable Local and MCP tool execution with narrow extension traits.
+2026-10-28T04:34:28.566956Z,agents-kit,0.0.1,0,0,https://github.com/jecsand838/ai-kit,"Rust agent control Kit for Codex, OpenCode, and provider-backed Custom runtimes"
+2026-10-28T04:34:32.111128Z,app-kit,0.0.1,0,0,https://github.com/jecsand838/ai-kit,Application and durable workflow composition for ai-kit
+2026-10-28T04:35:32.654716Z,biscuit-parser-atestum,0.2.0-r1,0,0,https://github.com/atestum/biscuit-rust,Datalog parser used in the biscuit-auth and biscuit-quote crates
+2026-10-28T04:36:52.940743Z,substrate-project-domain,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"The project model: solutions and projects as an IDE models them, whatever builds them, and the kinds of project a folder holds."
+2026-10-28T04:38:34.281225Z,biscuit-quote-atestum,0.3.0-r1,0,0,https://github.com/atestum/biscuit-rust,macros for compile time datalog parsing for Biscuit authorization tokens
+2026-10-28T04:40:09.822754Z,base-pool,0.1.0,0,0,,Explicit singleplex and multiplex resource pools for Base
+2026-10-28T04:41:23.530811Z,biscuit-auth-atestum,6.0.0-r1,0,0,https://github.com/atestum/biscuit-rust,an authorization token with decentralized verification and offline attenuation
+2026-10-28T04:42:10.74452Z,thruput-erc20-test,0.58.0,0,0,https://github.com/thruputchain/thruput-sdk-rs,Shared ERC20 conformance test suite for Thruput contracts
+2026-10-28T04:44:08.427712Z,iet-messaging-kafka,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Explicit Kafka publication and sequential acknowledged consumption for IET.
+2026-10-28T04:46:53.975672Z,substrate-search-domain,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"Find and Replace in Files' vocabulary: the query, its matcher and file mask, line hits, the project layout and why a search fails."
+2026-10-28T04:52:09.868477Z,thruput-erc20-native-test,0.58.0,0,0,https://github.com/thruputchain/thruput-sdk-rs,Native-execution harness for the ERC20 conformance tests
+2026-10-28T04:54:25.377201Z,iet-messaging-macros,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Explicit transport routing metadata for IET consumer adapters.
+2026-10-28T04:54:51.729703Z,vest_asn1,0.1.0,0,0,https://github.com/secure-foundations/vest,"Generate formally verified, efficient parsers and serializers from ASN.1 schemas"
+2026-10-28T04:56:52.272556Z,substrate-state-json,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"What an IDE remembers between runs as JSON files: atomic writes, reads that never fail, a private folder kept out of version control."
+2026-10-28T05:04:47.518193Z,iet-messaging-redis,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Explicit Redis ephemeral publication and subscription for IET.
+2026-10-28T05:06:54.624081Z,substrate-terminal-domain,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"A terminal's vocabulary: its size, the shells a machine offers, what to start in a session, output decoded as it streams, and why a session fails."
+2026-10-28T05:10:52.149234Z,nms-mcp,0.3.0,0,0,https://github.com/oxur/nms-copilot,Model-backed MCP server and registries for No Man's Sky Copilot
+2026-10-28T05:13:00.944304Z,xur-stub,0.1.2,0,0,https://github.com/pigeonhands/xur,Shared library that embeds the Xur VM — load via LD_PRELOAD or inject into a process
+2026-10-28T05:13:06.878881Z,polkameter-chain,0.2.0,0,0,https://github.com/agustinustheo/polkameter,"A Polkadot SDK node over RPC: typed reads, events and submission"
+2026-10-28T05:13:34.055827Z,polkameter-files,0.2.0,0,0,https://github.com/agustinustheo/polkameter,"The on-disk contract of a Polkameter run: raw files, metric registry, recorded series"
+2026-10-28T05:14:01.579242Z,polkameter-plugin-sdk,0.2.0,0,0,https://github.com/agustinustheo/polkameter,"The SDK for Polkameter plugins: the manifest, JSON-line protocol and setup helpers a plugin binary implements"
+2026-10-28T05:14:27.566283Z,polkameter-checks,0.2.0,0,0,https://github.com/agustinustheo/polkameter,The Polkameter evaluator: outcome checks over a run's recorded series
+2026-10-28T05:15:01.119367Z,polkameter-load,0.2.0,0,0,https://github.com/agustinustheo/polkameter,"The Polkameter load runner: load sources, sender, tracker, ramp, rules and loss check"
+2026-10-28T05:15:06.296835Z,iet-messaging-timescale,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Transactional outbox and inbox integration for IET Timescale sessions.
+2026-10-28T05:15:36.463377Z,polkameter-monitors,0.2.0,0,0,https://github.com/agustinustheo/polkameter,"Monitors of a Polkameter run, each writing its own raw file: scraper, chain recorders and process sampler"
+2026-10-28T05:16:52.407151Z,substrate-workspace-app,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"The workspace's use cases: which folders are open, the project shown now, and checking that a path is inside them, through the port that resolves paths."
+2026-10-28T05:19:20.29613Z,stern4rust-core,0.19.0,0,0,https://github.com/umbgtt10/stern4rust,"The rules behind cargo-stern4rust: a Rust workspace held to its house coding rules, every file that breaks one named"
