@@ -8,40 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 09:18 UTC
+## Latest list — 2026-10-28 10:18 UTC
 
-New crates published between 2026-10-28 08:20 UTC and 2026-10-28 09:18 UTC.
+New crates published between 2026-10-28 09:18 UTC and 2026-10-28 10:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-28T09-18-55-067165Z.csv)
+[Full CSV](data/new-crates-2026-10-28T10-18-26-049776Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-28 08:22:10 | [thruput-cli-macros](https://crates.io/crates/thruput-cli-macros) | 0.42.0 | 0 | Derive for per-variant CLI error metadata (code, hint, JSON details) |
-| 2026-10-28 08:29:10 | [cloakpipe-policy](https://crates.io/crates/cloakpipe-policy) | 0.12.0 | 0 | Cedar policy evaluation and persistent call counters for the CloakPipe tool gate |
-| 2026-10-28 08:29:11 | [cloakpipe-release](https://crates.io/crates/cloakpipe-release) | 0.12.0 | 0 | Agent release manifests for CloakPipe: schema, validation, canonical hashing, t… |
-| 2026-10-28 08:29:12 | [flamsteed](https://crates.io/crates/flamsteed) | 0.1.0 | 0 | Bright stars and their motion in space, from public-domain catalogue data, with… |
-| 2026-10-28 08:29:13 | [cloakpipe-receipt](https://crates.io/crates/cloakpipe-receipt) | 0.12.0 | 0 | DSSE envelopes and signed approval receipts for one exact AI-agent tool call |
-| 2026-10-28 08:29:14 | [cloakpipe-cert](https://crates.io/crates/cloakpipe-cert) | 0.12.0 | 0 | Legacy agent-release certification for CloakPipe (`certification` feature): eva… |
-| 2026-10-28 08:29:15 | [cloakpipe-verify](https://crates.io/crates/cloakpipe-verify) | 0.12.0 | 0 | Standalone verifier for CloakPipe evidence bundles and release audit packs — no… |
-| 2026-10-28 08:30:21 | [dendro-cli](https://crates.io/crates/dendro-cli) | 0.9.0 | 0 | Dendro CLI — local-first AI Fleet Intelligence and Governance engine. |
-| 2026-10-28 08:32:14 | [thruput](https://crates.io/crates/thruput) | 0.42.0 | 0 | Thruput smart contract development tools |
-| 2026-10-28 08:33:21 | [semio-studio-auth](https://crates.io/crates/semio-studio-auth) | 1.1.0 | 0 | Signs Rust clients in to Semio Studio: sign-in by code, enrollment tokens, rene… |
-| 2026-10-28 08:36:21 | [ripbi-app](https://crates.io/crates/ripbi-app) | 0.12.0 | 0 | Front-end neutral application layer for ripbi: target discovery, configuration,… |
-| 2026-10-28 08:41:47 | [lns-fleet-types](https://crates.io/crates/lns-fleet-types) | 0.1.0 | 0 | Rust types for the LNS Fleet API contract |
-| 2026-10-28 08:42:09 | [thruput-cli](https://crates.io/crates/thruput-cli) | 0.42.0 | 0 | Renamed to `thruput`: install the Thruput CLI with `cargo install thruput` |
-| 2026-10-28 08:46:17 | [cloakpipe-anchor](https://crates.io/crates/cloakpipe-anchor) | 0.12.0 | 0 | External anchoring for CloakPipe evidence bundles — Merkle batching, RFC-3161 T… |
-| 2026-10-28 08:46:18 | [cloakpipe-ledger](https://crates.io/crates/cloakpipe-ledger) | 0.12.0 | 0 | Verifiable evidence ledger: hash-chained, signed, no-PII records for CloakPipe |
-| 2026-10-28 08:51:37 | [quik-dsp](https://crates.io/crates/quik-dsp) | 0.4.0 | 0 | DSP primitives for SDR receivers: Goertzel and tone detectors, FM discriminator… |
-| 2026-10-28 08:51:52 | [verwalter](https://crates.io/crates/verwalter) | 0.4.0 | 0 | Changeset-based versioning for single packages and monorepos |
-| 2026-10-28 08:51:58 | [crazyflie-connection-protocol](https://crates.io/crates/crazyflie-connection-protocol) | 0.1.0 | 0 | Wire protocol between the Crazyflie connection server and its clients |
-| 2026-10-28 08:52:01 | [crazyflie-connection-server](https://crates.io/crates/crazyflie-connection-server) | 0.1.0 | 0 | Share Crazyradios and Crazyflie connections between programs, on this machine o… |
-| 2026-10-28 08:52:11 | [thruput-testkit](https://crates.io/crates/thruput-testkit) | 0.42.0 | 0 | Multi-agent integration-test harness for Thruput contract applications |
-| 2026-10-28 08:58:41 | [hangul-overlap](https://crates.io/crates/hangul-overlap) | 0.1.0 | 0 | 한글 문자끼리 겹칠 수 있는지 판정하고, 겹칠 수 있는 글자를 찾는 Rust 라이브러리 |
-| 2026-10-28 09:01:49 | [ofdrw](https://crates.io/crates/ofdrw) | 0.1.0 | 0 | OFD document package and reader written in Rust |
-| 2026-10-28 09:06:40 | [rul](https://crates.io/crates/rul) | 0.1.0 | 0 | Rul (.rl) — Schedule- and Proof-Carrying 128-Bit Binary Programming Language &… |
-| 2026-10-28 09:07:47 | [md2docx](https://crates.io/crates/md2docx) | 0.1.0 | 0 | Convert Markdown (with LaTeX math and Mermaid/Dolphin graphs) into high-fidelit… |
-| 2026-10-28 09:08:04 | [dorm-schema](https://crates.io/crates/dorm-schema) | 0.1.0 | 0 | The `dorm.schema` parser and code generator for DORM — a Prisma-style declarati… |
-| 2026-10-28 09:17:59 | [cnb_cargo_name_probe](https://crates.io/crates/cnb_cargo_name_probe) | 0.3.0-alpha.1 | 0 | Protocol probe crate for CNB artifact registry compatibility testing. Not for u… |
+| 2026-10-28 09:24:09 | [solar-evmir](https://crates.io/crates/solar-evmir) | 0.0.0-reserved | 0 | solar-evmir |
+| 2026-10-28 09:24:56 | [solar-mir](https://crates.io/crates/solar-mir) | 0.0.0-reserved | 0 | solar-mir |
+| 2026-10-28 09:35:08 | [spire-agent](https://crates.io/crates/spire-agent) | 0.8.0 | 0 | Provider-independent model extraction, budgets and caching for Spire |
+| 2026-10-28 09:40:59 | [wyrd-sync](https://crates.io/crates/wyrd-sync) | 0.1.0 | 0 | Poison-resilient synchronization helpers for Wyrd |
+| 2026-10-28 09:41:48 | [wyrd-state](https://crates.io/crates/wyrd-state) | 0.1.0 | 0 | Cross-process atomic state file serialization for Wyrd (theme.toml, wallpaper.t… |
+| 2026-10-28 09:42:43 | [wyrd-graphics](https://crates.io/crates/wyrd-graphics) | 0.1.0 | 0 | 2D rendering, scene graph, text shaping, icons, event bus, and spring animation… |
+| 2026-10-28 09:43:32 | [wyrd-script](https://crates.io/crates/wyrd-script) | 0.1.0 | 0 | Lua 5.4 scripting runtime, host extension trait, and hot-reload watcher for Wyrd |
+| 2026-10-28 09:44:23 | [wyrd-compositor](https://crates.io/crates/wyrd-compositor) | 0.1.0 | 0 | Wayland compositor integrations (Hyprland, Sway, Niri, generic fallback) for Wy… |
+| 2026-10-28 09:47:47 | [oxtrace-common](https://crates.io/crates/oxtrace-common) | 0.1.1 | 0 | Types shared between oxtrace's eBPF programs and userspace |
+| 2026-10-28 09:47:49 | [oxtrace](https://crates.io/crates/oxtrace) | 0.1.1 | 0 | Zero-instrumentation observability powered by eBPF and Rust |
+| 2026-10-28 09:48:50 | [sdp-types-gst](https://crates.io/crates/sdp-types-gst) | 0.0.0 | 0 | GStreamer caps / sdp-types conversion crate (placeholder) |
+| 2026-10-28 09:53:02 | [cf-gears-toolkit-http-proxy](https://crates.io/crates/cf-gears-toolkit-http-proxy) | 0.1.0 | 0 | ToolKit upstream proxy engine: pooled HTTP/1.1 and HTTP/2 client over rustls wi… |
+| 2026-10-28 09:59:15 | [wyrd-widgets](https://crates.io/crates/wyrd-widgets) | 0.1.0 | 0 | Declarative widget tree, Flexbox/Grid/Absolute layout engine, data binding, and… |
+| 2026-10-28 10:00:20 | [wyrd-wayland](https://crates.io/crates/wyrd-wayland) | 0.1.0 | 0 | Wayland wlr-layer-shell surfaces, shm buffer pools, seat input, and surface reg… |
+| 2026-10-28 10:01:50 | [sequence-heap](https://crates.io/crates/sequence-heap) | 0.1.1 | 0 | A cache-efficient priority queue (sequence heap) with the std::collections::Bin… |
+| 2026-10-28 10:02:21 | [wyrd-wasm](https://crates.io/crates/wyrd-wasm) | 0.1.0 | 0 | Sandboxed WebAssembly module host and supervisor for Wyrd |
+| 2026-10-28 10:18:08 | [rpi-durable-core](https://crates.io/crates/rpi-durable-core) | 0.1.0 | 0 | Protocol-neutral durable state schema and journal replay for rpi extensions |
 
 ## Data source
 

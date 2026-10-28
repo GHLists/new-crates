@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T09:24:09.815379Z,solar-evmir,0.0.0-reserved,0,0,,solar-evmir
+2026-10-28T09:24:56.199873Z,solar-mir,0.0.0-reserved,0,0,,solar-mir
+2026-10-28T09:35:08.683108Z,spire-agent,0.8.0,0,0,https://github.com/spire-rs/spire,"Provider-independent model extraction, budgets and caching for Spire"
+2026-10-28T09:40:59.853343Z,wyrd-sync,0.1.0,0,0,https://github.com/xximxxhatedxx/wyrd-engine,Poison-resilient synchronization helpers for Wyrd
+2026-10-28T09:41:48.243106Z,wyrd-state,0.1.0,0,0,https://github.com/xximxxhatedxx/wyrd-engine,"Cross-process atomic state file serialization for Wyrd (theme.toml, wallpaper.toml)"
+2026-10-28T09:42:43.038046Z,wyrd-graphics,0.1.0,0,0,https://github.com/xximxxhatedxx/wyrd-engine,"2D rendering, scene graph, text shaping, icons, event bus, and spring animations for Wyrd"
+2026-10-28T09:43:32.734424Z,wyrd-script,0.1.0,0,0,https://github.com/xximxxhatedxx/wyrd-engine,"Lua 5.4 scripting runtime, host extension trait, and hot-reload watcher for Wyrd"
+2026-10-28T09:44:23.389733Z,wyrd-compositor,0.1.0,0,0,https://github.com/xximxxhatedxx/wyrd-engine,"Wayland compositor integrations (Hyprland, Sway, Niri, generic fallback) for Wyrd"
+2026-10-28T09:47:47.580453Z,oxtrace-common,0.1.1,0,0,https://github.com/aashrith/oxtrace,Types shared between oxtrace's eBPF programs and userspace
+2026-10-28T09:47:49.393849Z,oxtrace,0.1.1,0,0,https://github.com/aashrith/oxtrace,Zero-instrumentation observability powered by eBPF and Rust
+2026-10-28T09:48:50.725631Z,sdp-types-gst,0.0.0,0,0,https://gitlab.freedesktop.org/gstreamer/gstreamer-rs,GStreamer caps / sdp-types conversion crate (placeholder)
+2026-10-28T09:53:02.75669Z,cf-gears-toolkit-http-proxy,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"ToolKit upstream proxy engine: pooled HTTP/1.1 and HTTP/2 client over rustls with ALPN, load balancing and health checks"
+2026-10-28T09:59:15.558476Z,wyrd-widgets,0.1.0,0,0,https://github.com/xximxxhatedxx/wyrd-engine,"Declarative widget tree, Flexbox/Grid/Absolute layout engine, data binding, and scene bridge for Wyrd"
+2026-10-28T10:00:20.400028Z,wyrd-wayland,0.1.0,0,0,https://github.com/xximxxhatedxx/wyrd-engine,"Wayland wlr-layer-shell surfaces, shm buffer pools, seat input, and surface registry for Wyrd"
+2026-10-28T10:01:50.332232Z,sequence-heap,0.1.1,0,0,https://github.com/j-baker/sequence-heap,A cache-efficient priority queue (sequence heap) with the std::collections::BinaryHeap API and no dependencies
+2026-10-28T10:02:21.895719Z,wyrd-wasm,0.1.0,0,0,https://github.com/xximxxhatedxx/wyrd-engine,Sandboxed WebAssembly module host and supervisor for Wyrd
+2026-10-28T10:18:08.193025Z,rpi-durable-core,0.1.0,0,0,https://github.com/pi-rust/rpi-package,Protocol-neutral durable state schema and journal replay for rpi extensions
