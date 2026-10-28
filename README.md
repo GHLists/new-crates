@@ -8,48 +8,65 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 14:18 UTC
+## Latest list — 2026-10-28 15:18 UTC
 
-New crates published between 2026-10-28 13:18 UTC and 2026-10-28 14:18 UTC.
+New crates published between 2026-10-28 14:18 UTC and 2026-10-28 15:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-28T14-18-22-526903Z.csv)
+[Full CSV](data/new-crates-2026-10-28T15-18-24-154608Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-28 13:19:38 | [hydroxy](https://crates.io/crates/hydroxy) | 0.0.1 | 0 | Accessible UI components for Leptos and Dioxus, built on framework-agnostic sta… |
-| 2026-10-28 13:19:43 | [kit-core](https://crates.io/crates/kit-core) | 0.5.0 | 0 | Content-addressed VCS primitives for kit: BLAKE3 hashing, canonical objects, re… |
-| 2026-10-28 13:19:45 | [kit-git-bridge](https://crates.io/crates/kit-git-bridge) | 0.5.0 | 0 | Deterministic kit↔git bridge: export translation (SPEC-GIT-BRIDGE) and importer… |
-| 2026-10-28 13:19:45 | [kit-rpc](https://crates.io/crates/kit-rpc) | 0.5.0 | 0 | Versioned wire protocols for kit cross-system speech: external signers (signer.… |
-| 2026-10-28 13:19:46 | [kit-transport-file](https://crates.io/crates/kit-transport-file) | 0.5.0 | 0 | File-system transport for kit, used in tests and local content-addressed reposi… |
-| 2026-10-28 13:19:46 | [kit-transport-memory](https://crates.io/crates/kit-transport-memory) | 0.5.0 | 0 | In-memory transport for kit, HashMap-backed, used in unit tests and fuzz harnes… |
-| 2026-10-28 13:23:21 | [kit-attest](https://crates.io/crates/kit-attest) | 0.5.0 | 0 | DSSE + in-toto v1 attestations for kit, with multi-algorithm signers (Ed25519,… |
-| 2026-10-28 13:24:21 | [nostar](https://crates.io/crates/nostar) | 0.1.0 | 0 | Shows German gender forms in the generic masculine by patching font copies |
-| 2026-10-28 13:24:22 | [selfie-enrollment-api-types](https://crates.io/crates/selfie-enrollment-api-types) | 0.1.0 | 0 | Defining types for Websocket messaging with host api for selfie enrollment |
-| 2026-10-28 13:27:08 | [selfie-enrollment-sealed-types](https://crates.io/crates/selfie-enrollment-sealed-types) | 0.1.0 | 0 | Sealed request and response payload types for TEE-backed selfie enrollment. |
-| 2026-10-28 13:27:27 | [selfie-enrollment-client](https://crates.io/crates/selfie-enrollment-client) | 0.1.0 | 0 | Native and browser client for attested TEE-backed selfie enrollment. |
-| 2026-10-28 13:29:46 | [ferri-pdf-avif-decode](https://crates.io/crates/ferri-pdf-avif-decode) | 3.0.0 | 0 | Fork of avif-decode for ferri-pdf. Convert AVIF images to PNG or decompressed p… |
-| 2026-10-28 13:29:54 | [ferri-pdf-heic-decoder](https://crates.io/crates/ferri-pdf-heic-decoder) | 0.1.1 | 0 | Fork of heic-decoder for ferri-pdf. Pure-Rust HEIF/HEIC decoder, bit-exact agai… |
-| 2026-10-28 13:30:05 | [ferri-pdf-icu-casemap](https://crates.io/crates/ferri-pdf-icu-casemap) | 2.3.0 | 0 | Fork of icu_casemap for ferri-pdf. Unicode case mapping and folding algorithms |
-| 2026-10-28 13:30:12 | [ghostkey-verify](https://crates.io/crates/ghostkey-verify) | 0.1.0 | 0 | Verify-only Ghost Key certificate chains, small enough to link into a Freenet c… |
-| 2026-10-28 13:30:18 | [ferri-pdf-krilla](https://crates.io/crates/ferri-pdf-krilla) | 0.8.2 | 0 | Fork of krilla for ferri-pdf. A high-level crate for creating PDF files. |
-| 2026-10-28 13:30:28 | [ferri-pdf-selectors](https://crates.io/crates/ferri-pdf-selectors) | 0.38.0 | 0 | Fork of selectors for ferri-pdf. CSS Selectors matching for Rust |
-| 2026-10-28 13:33:08 | [mircup](https://crates.io/crates/mircup) | 0.5.2 | 0 | Model-agnostic Rust CPU execution layer for Mirmir |
-| 2026-10-28 13:34:48 | [kit-client](https://crates.io/crates/kit-client) | 0.5.0 | 0 | Runtime-independent async protocol client for kit servers: reads, signed writes… |
-| 2026-10-28 13:35:08 | [libmir-cpu](https://crates.io/crates/libmir-cpu) | 0.5.2 | 0 | CPU inference backend for libmir |
-| 2026-10-28 13:35:53 | [id-kit](https://crates.io/crates/id-kit) | 0.1.0 | 0 | Zero-ceremony ID toolkit in Rust: format validation, short prefix resolution, L… |
-| 2026-10-28 13:38:30 | [rust-widgets-mobile-services](https://crates.io/crates/rust-widgets-mobile-services) | 2.9.1 | 0 | Optional mobile application services for rust-widgets (BLUE28 B28.44): keep-awa… |
-| 2026-10-28 13:41:39 | [ferri-pdf-zenavif-parse](https://crates.io/crates/ferri-pdf-zenavif-parse) | 0.6.2 | 0 | Fork of zenavif-parse for ferri-pdf. AVIF container parser with zero-copy AvifP… |
-| 2026-10-28 13:42:31 | [holst-macros](https://crates.io/crates/holst-macros) | 0.1.0 | 0 | Attribute macros that declare Holst REST endpoints, and the CommandArgs and Arg… |
-| 2026-10-28 13:42:33 | [holst-core](https://crates.io/crates/holst-core) | 0.1.0 | 0 | Unofficial client for the Holst REST API (app.holst.so) |
-| 2026-10-28 13:42:34 | [holst-cli](https://crates.io/crates/holst-cli) | 0.1.0 | 0 | Unofficial command-line client for Holst (app.holst.so) |
-| 2026-10-28 13:42:35 | [holst-mcp](https://crates.io/crates/holst-mcp) | 0.1.0 | 0 | MCP server for Holst (app.holst.so) |
-| 2026-10-28 13:46:19 | [kit-keystore](https://crates.io/crates/kit-keystore) | 0.5.0 | 0 | Signing-key keystore abstraction for kit |
-| 2026-10-28 13:52:06 | [ferri-pdf](https://crates.io/crates/ferri-pdf) | 0.1.0 | 0 | HTML and CSS to PDF renderer for print, in pure Rust |
-| 2026-10-28 13:53:27 | [pemba-store-postgres](https://crates.io/crates/pemba-store-postgres) | 0.1.0-alpha.3 | 0 | Postgres relationship store for pemba. |
-| 2026-10-28 13:57:44 | [kit-serve](https://crates.io/crates/kit-serve) | 0.5.0 | 0 | Self-host server for kit: the ssh frame session over a repository on disk |
-| 2026-10-28 14:02:05 | [bevyllium](https://crates.io/crates/bevyllium) | 0.1.0 | 0 | A game engine ide for bevy! |
-| 2026-10-28 14:09:04 | [kit-sync](https://crates.io/crates/kit-sync) | 0.5.0 | 0 | Native clone, fetch, pull and push for .kit repositories, as a library that ret… |
-| 2026-10-28 14:14:40 | [kuiper-libvirt-agent](https://crates.io/crates/kuiper-libvirt-agent) | 0.1.0 | 0 | libvirt/KVM agent for CI runner coordination (local Linux host) |
+| 2026-10-28 14:20:22 | [kit-transport-connect](https://crates.io/crates/kit-transport-connect) | 0.5.0 | 0 | Native Transport and host-policy adapter over the kit-client Connect protocol i… |
+| 2026-10-28 14:24:08 | [ruda-tensor-capture](https://crates.io/crates/ruda-tensor-capture) | 0.2.0 | 0 | Non-executing tensor backend for capturing operation graphs and initialized val… |
+| 2026-10-28 14:25:23 | [ruda-tensor-dispatch](https://crates.io/crates/ruda-tensor-dispatch) | 0.2.0 | 0 | Runtime backend dispatch for RUDA tensors. |
+| 2026-10-28 14:29:55 | [mercado_publico](https://crates.io/crates/mercado_publico) | 1.0.1 | 0 | Cliente de la API pública de Mercado Público (ChileCompra): licitaciones, órden… |
+| 2026-10-28 14:31:44 | [kit-transport-s3](https://crates.io/crates/kit-transport-s3) | 0.5.0 | 0 | S3-compatible conditional-write transport for kit, with SigV4 signing over rust… |
+| 2026-10-28 14:31:55 | [pmetal-runtime](https://crates.io/crates/pmetal-runtime) | 0.7.0 | 0 | PMetal's tensor runtime for Apple Silicon: arrays, ops, compiled graphs, native… |
+| 2026-10-28 14:31:57 | [pmetal-cache](https://crates.io/crates/pmetal-cache) | 0.7.0 | 0 | KV caches, prefix reuse and speculative-decoding state for PMetal's decoder mod… |
+| 2026-10-28 14:32:27 | [ruda-onnx](https://crates.io/crates/ruda-onnx) | 0.1.0 | 0 | ONNX graph import and native backend-generic RUDA model generation |
+| 2026-10-28 14:35:20 | [stiles](https://crates.io/crates/stiles) | 0.0.0 | 0 | An empty placeholder of stiles, whose releases come from https://github.com/aon… |
+| 2026-10-28 14:35:23 | [stiles-core](https://crates.io/crates/stiles-core) | 0.0.0 | 0 | An empty placeholder of stiles-core, whose releases come from https://github.co… |
+| 2026-10-28 14:35:25 | [stiles-types](https://crates.io/crates/stiles-types) | 0.0.0 | 0 | An empty placeholder of stiles-types, whose releases come from https://github.c… |
+| 2026-10-28 14:35:28 | [stiles-plugin](https://crates.io/crates/stiles-plugin) | 0.0.0 | 0 | An empty placeholder of stiles-plugin, whose releases come from https://github.… |
+| 2026-10-28 14:35:30 | [stiles-rust](https://crates.io/crates/stiles-rust) | 0.0.0 | 0 | An empty placeholder of stiles-rust, whose releases come from https://github.co… |
+| 2026-10-28 14:35:34 | [ruda-train](https://crates.io/crates/ruda-train) | 0.1.0 | 0 | Backend-generic supervised training and evaluation for Ruda. |
+| 2026-10-28 14:41:05 | [tape-base64](https://crates.io/crates/tape-base64) | 0.1.0 | 0 | Fast base64 encoding and decoding |
+| 2026-10-28 14:42:57 | [kit-transport-ssh](https://crates.io/crates/kit-transport-ssh) | 0.5.0 | 0 | SSH transport for kit using a forced-command server pattern over a system ssh(1… |
+| 2026-10-28 14:42:59 | [libkit](https://crates.io/crates/libkit) | 0.5.0 | 0 | The kit library: one crate that re-exports the kit object model, attestations,… |
+| 2026-10-28 14:45:51 | [velody-merge](https://crates.io/crates/velody-merge) | 7.0.0 | 0 | Pure three-way (diff3) merge engine used by Velody. No I/O, no database. |
+| 2026-10-28 14:46:34 | [velody-core](https://crates.io/crates/velody-core) | 7.0.0 | 0 | Embeddable core of Velody: repository, content-addressed object store, history,… |
+| 2026-10-28 14:46:39 | [reave](https://crates.io/crates/reave) | 0.0.1 | 0 | REAVE - Realtime Engine for Audio, Voices & Events: a cross-platform audio/app… |
+| 2026-10-28 14:49:03 | [velody-tui](https://crates.io/crates/velody-tui) | 7.0.0 | 0 | Interactive hunk-by-hunk conflict resolver for Velody. |
+| 2026-10-28 14:49:27 | [velody-testkit](https://crates.io/crates/velody-testkit) | 7.0.0 | 0 | Test fixtures for Velody: temporary repositories and helpers for downstream tes… |
+| 2026-10-28 14:50:11 | [velody-cli](https://crates.io/crates/velody-cli) | 7.0.0 | 0 | Command-line interface for Velody — a fast, safe, intuitive version control sys… |
+| 2026-10-28 14:50:25 | [zisk-asm](https://crates.io/crates/zisk-asm) | 1.4.0-alpha | 0 | Parser and assembler that turns ZisK assembly (.zisk) source into ROMs for the… |
+| 2026-10-28 14:51:06 | [eccodes-compat](https://crates.io/crates/eccodes-compat) | 0.15.1 | 0 | ScaleWeather eccodes 0.15 API as a drop-in layer over the official eccodes crate |
+| 2026-10-28 14:51:53 | [zisk-transpiler-wasm](https://crates.io/crates/zisk-transpiler-wasm) | 1.4.0-alpha | 0 | Transpiler from WebAssembly to the ZisK instruction set |
+| 2026-10-28 14:52:29 | [zisk-cuda-build](https://crates.io/crates/zisk-cuda-build) | 1.4.0-alpha | 0 | Build-script support for ZisK crates that ship CUDA kernels |
+| 2026-10-28 14:54:11 | [kit-bin](https://crates.io/crates/kit-bin) | 0.5.0 | 0 | The kit command-line tool: a content-addressed VCS with native attestation supp… |
+| 2026-10-28 14:54:32 | [moonbase](https://crates.io/crates/moonbase) | 0.1.0 | 0 | Moonbase license activation for desktop apps and audio plugins: browser and off… |
+| 2026-10-28 14:54:35 | [tauri-plugin-moonbase](https://crates.io/crates/tauri-plugin-moonbase) | 0.1.0 | 0 | Moonbase license activation for Tauri 2 apps, with a finished activation UI: br… |
+| 2026-10-28 14:54:35 | [mdkg-format](https://crates.io/crates/mdkg-format) | 0.7.0 | 0 | Parse and write mdkg markdown + frontmatter nodes. Internal to mdkg, no stable… |
+| 2026-10-28 14:54:36 | [mdkg-graph](https://crates.io/crates/mdkg-graph) | 0.7.0 | 0 | Load, index, query and validate mdkg graphs. Internal to mdkg, no stable API; d… |
+| 2026-10-28 14:54:37 | [mdkg-log](https://crates.io/crates/mdkg-log) | 0.7.0 | 0 | Content-addressed, hash-linked event log with Merkle roots and checkpoint heade… |
+| 2026-10-28 14:54:38 | [mdkg-coord](https://crates.io/crates/mdkg-coord) | 0.7.0 | 0 | Sans-IO coordinator: leases, claims, settlement through git, idempotent request… |
+| 2026-10-28 14:54:38 | [mdkg-index](https://crates.io/crates/mdkg-index) | 0.7.0 | 0 | The derived plane: a rebuildable SQLite index with full-text search, handle res… |
+| 2026-10-28 14:54:39 | [zisk-gpu-witness](https://crates.io/crates/zisk-gpu-witness) | 1.4.0-alpha | 0 | Rust half of the ZisK GPU witness-kernel contract |
+| 2026-10-28 14:55:34 | [zisk-precomp-twisted-edwards](https://crates.io/crates/zisk-precomp-twisted-edwards) | 1.4.0-alpha | 0 | Twisted-Edwards point-addition precompiles for the ZisK zkVM |
+| 2026-10-28 14:56:53 | [rust-widgets-webview](https://crates.io/crates/rust-widgets-webview) | 3.0.0 | 0 | The web model behind rust_widgets' web controls: script engine, browsing histor… |
+| 2026-10-28 14:59:28 | [mezereum](https://crates.io/crates/mezereum) | 0.2.0 | 0 | Tensor computation, model layers, and allocation-free edge inference |
+| 2026-10-28 15:01:30 | [dspk-core](https://crates.io/crates/dspk-core) | 0.0.1 | 0 | Core types for dspk: recordings, buffers, time, masks, windows, and the CubeCL… |
+| 2026-10-28 15:01:32 | [dspk-io](https://crates.io/crates/dspk-io) | 0.0.1 | 0 | Recording file formats for dspk: raw binary and Zarr traces, format detection,… |
+| 2026-10-28 15:01:33 | [dspk-ops](https://crates.io/crates/dspk-ops) | 0.0.1 | 0 | Signal-processing operations for dspk, written once in CubeCL: filters, resampl… |
+| 2026-10-28 15:01:34 | [dspk-view](https://crates.io/crates/dspk-view) | 0.0.1 | 0 | Preparing multi-channel signals for viewing: min/max envelopes and pyramids, lo… |
+| 2026-10-28 15:01:35 | [dspk-stream](https://crates.io/crates/dspk-stream) | 0.0.1 | 0 | Network sessions for continuous multi-channel signals: QUIC + TLS, protobuf mes… |
+| 2026-10-28 15:02:52 | [mdkg-coord-sqlite](https://crates.io/crates/mdkg-coord-sqlite) | 0.7.0 | 0 | The local coordinator backend: SQLite in the git common dir, plus git reads for… |
+| 2026-10-28 15:04:12 | [repoke](https://crates.io/crates/repoke) | 0.1.0 | 0 | Finds the package managers on your system and keeps them up to date, interactiv… |
+| 2026-10-28 15:12:06 | [dspk](https://crates.io/crates/dspk) | 0.0.1 | 0 | Multi-channel signal processing on any GPU or the CPU, written once in CubeCL:… |
+| 2026-10-28 15:12:50 | [mdkg-run](https://crates.io/crates/mdkg-run) | 0.7.0 | 0 | The launcher: wakes Claude Code, Codex and OpenCode agents with their inbox for… |
+| 2026-10-28 15:12:56 | [nano-switch](https://crates.io/crates/nano-switch) | 0.1.1 | 0 | Bring your subscription or API key from any provider to any coding harness — a… |
+| 2026-10-28 15:13:17 | [shemp](https://crates.io/crates/shemp) | 0.1.0 | 0 | A simple mutex/semaphore server. |
+| 2026-10-28 15:17:31 | [nostr-parse](https://crates.io/crates/nostr-parse) | 0.3.0 | 0 | Fast, strict Nostr event (NIP-01 JSON) parser: owned, one allocation, in place,… |
 
 ## Data source
 

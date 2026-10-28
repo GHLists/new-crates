@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T14:20:22.471406Z,kit-transport-connect,0.5.0,0,0,https://github.com/officialunofficial/kit,Native Transport and host-policy adapter over the kit-client Connect protocol implementation
+2026-10-28T14:24:08.80966Z,ruda-tensor-capture,0.2.0,0,0,,Non-executing tensor backend for capturing operation graphs and initialized values.
+2026-10-28T14:25:23.358148Z,ruda-tensor-dispatch,0.2.0,0,0,,Runtime backend dispatch for RUDA tensors.
+2026-10-28T14:29:55.685976Z,mercado_publico,1.0.1,0,0,https://github.com/saraivaruas/mercado-publico-api,"Cliente de la API pública de Mercado Público (ChileCompra): licitaciones, órdenes de compra, convenios marco, Compra Ágil y quién compra / quién vende."
+2026-10-28T14:31:44.087795Z,kit-transport-s3,0.5.0,0,0,https://github.com/officialunofficial/kit,"S3-compatible conditional-write transport for kit, with SigV4 signing over rustls"
+2026-10-28T14:31:55.032919Z,pmetal-runtime,0.7.0,0,0,https://github.com/epistates/pmetal,"PMetal's tensor runtime for Apple Silicon: arrays, ops, compiled graphs, native inference engines and custom Metal kernels"
+2026-10-28T14:31:57.155463Z,pmetal-cache,0.7.0,0,0,https://github.com/epistates/pmetal,"KV caches, prefix reuse and speculative-decoding state for PMetal's decoder models"
+2026-10-28T14:32:27.539556Z,ruda-onnx,0.1.0,0,0,,ONNX graph import and native backend-generic RUDA model generation
+2026-10-28T14:35:20.708747Z,stiles,0.0.0,0,0,https://github.com/aonyx-ai/stiles,"An empty placeholder of stiles, whose releases come from https://github.com/aonyx-ai/stiles"
+2026-10-28T14:35:23.288917Z,stiles-core,0.0.0,0,0,https://github.com/aonyx-ai/stiles,"An empty placeholder of stiles-core, whose releases come from https://github.com/aonyx-ai/stiles"
+2026-10-28T14:35:25.949616Z,stiles-types,0.0.0,0,0,https://github.com/aonyx-ai/stiles,"An empty placeholder of stiles-types, whose releases come from https://github.com/aonyx-ai/stiles"
+2026-10-28T14:35:28.428628Z,stiles-plugin,0.0.0,0,0,https://github.com/aonyx-ai/stiles,"An empty placeholder of stiles-plugin, whose releases come from https://github.com/aonyx-ai/stiles"
+2026-10-28T14:35:30.930745Z,stiles-rust,0.0.0,0,0,https://github.com/aonyx-ai/stiles,"An empty placeholder of stiles-rust, whose releases come from https://github.com/aonyx-ai/stiles"
+2026-10-28T14:35:34.37677Z,ruda-train,0.1.0,0,0,,Backend-generic supervised training and evaluation for Ruda.
+2026-10-28T14:41:05.372692Z,tape-base64,0.1.0,0,0,https://github.com/spool-labs/base64,Fast base64 encoding and decoding
+2026-10-28T14:42:57.249944Z,kit-transport-ssh,0.5.0,0,0,https://github.com/officialunofficial/kit,SSH transport for kit using a forced-command server pattern over a system ssh(1) child process
+2026-10-28T14:42:59.263415Z,libkit,0.5.0,0,0,https://github.com/officialunofficial/kit,"The kit library: one crate that re-exports the kit object model, attestations, keystore, sync engine and optional transports"
+2026-10-28T14:45:51.319229Z,velody-merge,7.0.0,0,0,https://github.com/LucasVascovici/velody,"Pure three-way (diff3) merge engine used by Velody. No I/O, no database."
+2026-10-28T14:46:34.753468Z,velody-core,7.0.0,0,0,https://github.com/LucasVascovici/velody,"Embeddable core of Velody: repository, content-addressed object store, history, merge and sync. No terminal output."
+2026-10-28T14:46:39.73009Z,reave,0.0.1,0,0,,"REAVE - Realtime Engine for Audio, Voices & Events: a cross-platform audio/app core following Web Audio conventions."
+2026-10-28T14:49:03.739152Z,velody-tui,7.0.0,0,0,https://github.com/LucasVascovici/velody,Interactive hunk-by-hunk conflict resolver for Velody.
+2026-10-28T14:49:27.402491Z,velody-testkit,7.0.0,0,0,https://github.com/LucasVascovici/velody,Test fixtures for Velody: temporary repositories and helpers for downstream test suites.
+2026-10-28T14:50:11.440048Z,velody-cli,7.0.0,0,0,https://github.com/LucasVascovici/velody,"Command-line interface for Velody — a fast, safe, intuitive version control system."
+2026-10-28T14:50:25.664666Z,zisk-asm,1.4.0-alpha,0,0,https://github.com/0xPolygonHermez/zisk,Parser and assembler that turns ZisK assembly (.zisk) source into ROMs for the ZisK zkVM
+2026-10-28T14:51:06.204243Z,eccodes-compat,0.15.1,0,0,https://github.com/ecmwf/eccodes,ScaleWeather eccodes 0.15 API as a drop-in layer over the official eccodes crate
+2026-10-28T14:51:53.255375Z,zisk-transpiler-wasm,1.4.0-alpha,0,0,https://github.com/0xPolygonHermez/zisk,Transpiler from WebAssembly to the ZisK instruction set
+2026-10-28T14:52:29.600309Z,zisk-cuda-build,1.4.0-alpha,0,0,https://github.com/0xPolygonHermez/zisk,Build-script support for ZisK crates that ship CUDA kernels
+2026-10-28T14:54:11.154049Z,kit-bin,0.5.0,0,0,https://github.com/officialunofficial/kit,The kit command-line tool: a content-addressed VCS with native attestation support
+2026-10-28T14:54:32.601754Z,moonbase,0.1.0,0,0,https://github.com/Moonbase-sh/moonbase-rs,"Moonbase license activation for desktop apps and audio plugins: browser and offline activation, local RS256 validation, revocation, add-ons, version-limited licenses and the cross-SDK device fingerpr…"
+2026-10-28T14:54:35.335799Z,tauri-plugin-moonbase,0.1.0,0,0,https://github.com/Moonbase-sh/moonbase-rs,"Moonbase license activation for Tauri 2 apps, with a finished activation UI: browser and offline activation, trials, add-ons, upgrades, updates and a license-state event for your own UI."
+2026-10-28T14:54:35.60433Z,mdkg-format,0.7.0,0,0,https://github.com/mdkg-dev/mdkg,"Parse and write mdkg markdown + frontmatter nodes. Internal to mdkg, no stable API; depend on the mdkg binary"
+2026-10-28T14:54:36.771807Z,mdkg-graph,0.7.0,0,0,https://github.com/mdkg-dev/mdkg,"Load, index, query and validate mdkg graphs. Internal to mdkg, no stable API; depend on the mdkg binary"
+2026-10-28T14:54:37.295739Z,mdkg-log,0.7.0,0,0,https://github.com/mdkg-dev/mdkg,"Content-addressed, hash-linked event log with Merkle roots and checkpoint headers. Internal to mdkg, no stable API; depend on the mdkg binary"
+2026-10-28T14:54:38.489283Z,mdkg-coord,0.7.0,0,0,https://github.com/mdkg-dev/mdkg,"Sans-IO coordinator: leases, claims, settlement through git, idempotent requests, sequencing and readable aliases. Internal to mdkg, no stable API; depend on the mdkg binary"
+2026-10-28T14:54:38.913881Z,mdkg-index,0.7.0,0,0,https://github.com/mdkg-dev/mdkg,"The derived plane: a rebuildable SQLite index with full-text search, handle resolution, graph queries and packs. Internal to mdkg, no stable API; depend on the mdkg binary"
+2026-10-28T14:54:39.146835Z,zisk-gpu-witness,1.4.0-alpha,0,0,https://github.com/0xPolygonHermez/zisk,Rust half of the ZisK GPU witness-kernel contract
+2026-10-28T14:55:34.932723Z,zisk-precomp-twisted-edwards,1.4.0-alpha,0,0,https://github.com/0xPolygonHermez/zisk,Twisted-Edwards point-addition precompiles for the ZisK zkVM
+2026-10-28T14:56:53.896004Z,rust-widgets-webview,3.0.0,0,0,https://github.com/mikewolfli/rust-widgets,"The web model behind rust_widgets' web controls: script engine, browsing history, navigation, privacy and plugins"
+2026-10-28T14:59:28.522936Z,mezereum,0.2.0,0,0,https://github.com/MarkTuddenham/mezereum,"Tensor computation, model layers, and allocation-free edge inference"
+2026-10-28T15:01:30.942412Z,dspk-core,0.0.1,0,0,https://github.com/neuro-kitchen/dsp-kitchen,"Core types for dspk: recordings, buffers, time, masks, windows, and the CubeCL compute layer with run-time device choice (wgpu, CUDA, HIP, CPU)"
+2026-10-28T15:01:32.980778Z,dspk-io,0.0.1,0,0,https://github.com/neuro-kitchen/dsp-kitchen,"Recording file formats for dspk: raw binary and Zarr traces, format detection, chunk caching"
+2026-10-28T15:01:33.625769Z,dspk-ops,0.0.1,0,0,https://github.com/neuro-kitchen/dsp-kitchen,"Signal-processing operations for dspk, written once in CubeCL: filters, resampling, linear algebra, statistics, peak finding, spatial operators"
+2026-10-28T15:01:34.331069Z,dspk-view,0.0.1,0,0,https://github.com/neuro-kitchen/dsp-kitchen,"Preparing multi-channel signals for viewing: min/max envelopes and pyramids, local or remote"
+2026-10-28T15:01:35.810313Z,dspk-stream,0.0.1,0,0,https://github.com/neuro-kitchen/dsp-kitchen,"Network sessions for continuous multi-channel signals: QUIC + TLS, protobuf messages"
+2026-10-28T15:02:52.700606Z,mdkg-coord-sqlite,0.7.0,0,0,https://github.com/mdkg-dev/mdkg,"The local coordinator backend: SQLite in the git common dir, plus git reads for settlement. Internal to mdkg, no stable API; depend on the mdkg binary"
+2026-10-28T15:04:12.709506Z,repoke,0.1.0,0,0,https://github.com/paveldelpozo/repoke,"Finds the package managers on your system and keeps them up to date, interactively or unattended"
+2026-10-28T15:12:06.24564Z,dspk,0.0.1,0,0,https://github.com/neuro-kitchen/dsp-kitchen,"Multi-channel signal processing on any GPU or the CPU, written once in CubeCL: filters, resampling, linear algebra, recordings, viewing and streaming"
+2026-10-28T15:12:50.505559Z,mdkg-run,0.7.0,0,0,https://github.com/mdkg-dev/mdkg,"The launcher: wakes Claude Code, Codex and OpenCode agents with their inbox for one headless turn. Internal to mdkg, no stable API; depend on the mdkg binary"
+2026-10-28T15:12:56.331097Z,nano-switch,0.1.1,0,0,https://github.com/petriewong/nano-switch,Bring your subscription or API key from any provider to any coding harness — a lightfast local LLM gateway engine in Rust.
+2026-10-28T15:13:17.131524Z,shemp,0.1.0,0,0,https://codeberg.org/coracoracora/shemp,A simple mutex/semaphore server.
+2026-10-28T15:17:31.627244Z,nostr-parse,0.3.0,0,0,https://github.com/VectorPrivacy/nostr-parse,"Fast, strict Nostr event (NIP-01 JSON) parser: owned, one allocation, in place, or unsigned (NIP-59 rumors)"
