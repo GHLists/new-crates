@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T10:22:28.348737Z,sun-observations-derive,0.1.0,0,0,https://github.com/SunleoSun/SunObservations,Observation metadata derive for sun-observations
+2026-10-28T10:23:49.629919Z,dorm-sqlite,0.2.0,0,0,https://github.com/ngolacloud/dorm,"A SQLite executor for DORM (ADR 0002, brick 2): run a dialect-compiled `Sql` against rusqlite and decode rows to the ORM's `Value`s."
+2026-10-28T10:25:05.668629Z,sun-observations,0.1.1,0,0,https://github.com/SunleoSun/SunObservations,"Typed runtime observations, production capture and generic semantic certification"
+2026-10-28T10:25:38.979492Z,iet-tenancy-timescale,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Self-contained tenant and membership persistence for IET.
+2026-10-28T10:29:11.02737Z,aether-renderer-capture,0.1.0,0,0,https://github.com/madspaaskesen/aether-renderer-capture,"Deterministic HTML -> transparent PNG sequence capture via chrome-headless-shell (BeginFrame + virtual time), the HTML finger of Aether Renderer"
+2026-10-28T10:34:55.528672Z,stav,0.0.0,0,0,,"Stav: a typed, eager and total configuration language. Placeholder release, under active development."
+2026-10-28T10:34:58.964814Z,laft,0.0.0,0,0,,"Laft: a Linux distribution toolchain with a content addressed store, FHS views and atomic generations. Placeholder release, under active development."
+2026-10-28T10:35:16.369995Z,z40-auth,0.1.0,0,0,https://github.com/zweiund40GmbH/auth-sdk,"Relying-party SDK for zwei&40 Login (OpenID Connect / OAuth 2.1, confidential server-side clients)"
+2026-10-28T10:35:56.963925Z,iet-messaging-avro,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Explicit-schema Avro datum codec for IET message adapters.
+2026-10-28T10:40:24.359878Z,oxinsider,0.4.0,0,0,https://github.com/0xinsider/0xinsider-rust,"Official Rust client for the 0xinsider Developer API: Polymarket sports and esports analytics, wallet grades, large trades and sharp-money flow."
+2026-10-28T10:41:08.980017Z,stalmarck,0.1.0,0,0,https://github.com/cryptopatrick/stalmarck,A crate implementing Stålmarck's method for efficiently proving propositional logic formulas and verifying logical validity.
+2026-10-28T10:45:23.594918Z,sealzone-proto,0.1.0,0,0,https://github.com/sealzone/seal,"Seal wire types: ids, policies, blobs, sessions, API messages, signed state, releases. No IO, no crypto."
+2026-10-28T10:45:25.472015Z,sealzone-crypto,0.1.0,0,0,https://github.com/sealzone/seal,"Pure Seal cryptography: key hierarchy, blob AEAD, HPKE, session tokens, signatures. No IO."
+2026-10-28T10:45:25.871242Z,sealzone-net,0.1.0,0,0,https://github.com/sealzone/seal,Outbound network with baked trust anchors. The only way to get a stream a secret may be sent on.
+2026-10-28T10:45:26.819248Z,sealzone-attest,0.1.0,0,0,https://github.com/sealzone/seal,"Checks TEE evidence (Azure SNP ACI, AWS Nitro, GCP Confidential Space, sim). Pure: used by the SDK, guardians and enclaves."
+2026-10-28T10:45:27.252091Z,sealzone-tlog,0.1.0,0,0,https://github.com/sealzone/seal,"Witnessed transparency log: pure verification (inclusion + witness quorum + public-since time), plus a dev log/witness server."
+2026-10-28T10:46:14.254998Z,iet-realtime-axum,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Bounded SSE and WebSocket transport primitives for IET adapters.
+2026-10-28T10:51:47.025602Z,sealzone-verify,0.1.0,0,0,https://github.com/sealzone/seal,"Pure verification of releases and tenant bundles. One implementation shared by the guardian, enclave, SDK and CLI."
+2026-10-28T10:56:30.712045Z,iet-realtime-tonic,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Explicit authenticated gRPC stream adapters for IET.
+2026-10-28T11:01:19.225686Z,formatjs_intl_data,0.1.0,0,0,,Build-selected locale records for native Intl
+2026-10-28T11:01:19.440072Z,formatjs_intl_getcanonicallocales,0.1.0,0,0,https://github.com/formatjs/formatjs,ECMA-402 locale canonicalization with ICU4X
+2026-10-28T11:01:19.657793Z,formatjs_intl_supportedvaluesof,0.1.0,0,0,https://github.com/formatjs/formatjs,ECMA-402 supported value enumeration for FormatJS runtimes
+2026-10-28T11:01:20.670639Z,formatjs_intl_locale,0.1.0,0,0,https://github.com/formatjs/formatjs,ECMA-402 Locale using ICU4X canonicalization and CLDR preferences
+2026-10-28T11:01:22.377606Z,formatjs_intl_collator,0.1.0,0,0,https://github.com/formatjs/formatjs,ECMA-402 Collator with CLDR tailorings and ICU4X normalization
+2026-10-28T11:02:02.674199Z,sealzone-control,0.1.0,0,0,https://github.com/sealzone/seal,Seal's control service: stores and serves signed documents. Untrusted by design: it cannot forge or roll back anything the enclave accepts.
+2026-10-28T11:03:27.158771Z,contime,0.1.0,0,0,https://github.com/humacss/contime,Continuous-time state from unreliable event streams
+2026-10-28T11:05:39.271541Z,formatjs_intl_data_build,0.1.0,0,0,,Rust locale validation and native data compilation
+2026-10-28T11:07:54.873913Z,iet-messaging-adapters,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Static wire-dispatch bridges for Kafka and live IET consumers.
+2026-10-28T11:10:06.138254Z,voff-engine,0.1.1,0,0,,Task orchestration engine for Voff coding agent workflows.
+2026-10-28T11:11:16.298021Z,voff,0.1.1,0,0,,Workflow builder for coding agents 🐶
+2026-10-28T11:14:56.484727Z,oxchart,0.1.0,0,0,https://github.com/alexandretrotel/oxchart,"Fast module graph builder powered by oxc, with pluggable renderers like Mermaid."
+2026-10-28T11:15:40.731239Z,formatjs_intl_displaynames,0.1.0,0,0,https://github.com/formatjs/formatjs,ECMA-402 DisplayNames with caller-loaded CLDR names
