@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T13:19:38.744517Z,hydroxy,0.0.1,0,0,https://github.com/pullcut/hydroxy,"Accessible UI components for Leptos and Dioxus, built on framework-agnostic state machines. Umbrella crate; the hydroxy-* crates are on the way."
+2026-10-28T13:19:43.2185Z,kit-core,0.5.0,0,0,https://github.com/officialunofficial/kit,"Content-addressed VCS primitives for kit: BLAKE3 hashing, canonical objects, refs, packs, and transport traits"
+2026-10-28T13:19:45.370134Z,kit-git-bridge,0.5.0,0,0,https://github.com/officialunofficial/kit,Deterministic kit↔git bridge: export translation (SPEC-GIT-BRIDGE) and importer-signed import (SPEC-GIT-IMPORT)
+2026-10-28T13:19:45.887513Z,kit-rpc,0.5.0,0,0,https://github.com/officialunofficial/kit,"Versioned wire protocols for kit cross-system speech: external signers (signer.proto), SSH transport frames (ssh.proto), shared types (common.proto). Schemas defined in protobuf via buffa, with lengt…"
+2026-10-28T13:19:46.626523Z,kit-transport-file,0.5.0,0,0,https://github.com/officialunofficial/kit,"File-system transport for kit, used in tests and local content-addressed repositories"
+2026-10-28T13:19:46.915801Z,kit-transport-memory,0.5.0,0,0,https://github.com/officialunofficial/kit,"In-memory transport for kit, HashMap-backed, used in unit tests and fuzz harnesses"
+2026-10-28T13:23:21.16002Z,kit-attest,0.5.0,0,0,https://github.com/officialunofficial/kit,"DSSE + in-toto v1 attestations for kit, with multi-algorithm signers (Ed25519, secp256k1, P-256) and an RFC 8785 JCS encoder"
+2026-10-28T13:24:21.608518Z,nostar,0.1.0,0,0,https://github.com/NoahJeanA/nostar,Shows German gender forms in the generic masculine by patching font copies
+2026-10-28T13:24:22.29021Z,selfie-enrollment-api-types,0.1.0,0,0,https://github.com/worldcoin/biometrics-tee,Defining types for Websocket messaging with host api for selfie enrollment
+2026-10-28T13:27:08.967731Z,selfie-enrollment-sealed-types,0.1.0,0,0,https://github.com/worldcoin/biometrics-tee,Sealed request and response payload types for TEE-backed selfie enrollment.
+2026-10-28T13:27:27.436058Z,selfie-enrollment-client,0.1.0,0,0,https://github.com/worldcoin/biometrics-tee,Native and browser client for attested TEE-backed selfie enrollment.
+2026-10-28T13:29:46.34529Z,ferri-pdf-avif-decode,3.0.0,0,0,https://github.com/apollohg/ferri-pdf,Fork of avif-decode for ferri-pdf. Convert AVIF images to PNG or decompressed pixel data
+2026-10-28T13:29:54.793625Z,ferri-pdf-heic-decoder,0.1.1,0,0,https://github.com/apollohg/ferri-pdf,"Fork of heic-decoder for ferri-pdf. Pure-Rust HEIF/HEIC decoder, bit-exact against the HEVC reference decoder. Handles iPhone grid photos, camera 4:2:2, alpha, orientation, ICC/EXIF/XMP. No unsafe, n…"
+2026-10-28T13:30:05.480874Z,ferri-pdf-icu-casemap,2.3.0,0,0,https://github.com/apollohg/ferri-pdf,Fork of icu_casemap for ferri-pdf. Unicode case mapping and folding algorithms
+2026-10-28T13:30:12.257093Z,ghostkey-verify,0.1.0,0,0,https://github.com/freenet/web,"Verify-only Ghost Key certificate chains, small enough to link into a Freenet contract: no key generation, no blinding, no RNG."
+2026-10-28T13:30:18.669491Z,ferri-pdf-krilla,0.8.2,0,0,https://github.com/apollohg/ferri-pdf,Fork of krilla for ferri-pdf. A high-level crate for creating PDF files.
+2026-10-28T13:30:28.253708Z,ferri-pdf-selectors,0.38.0,0,0,https://github.com/apollohg/ferri-pdf,Fork of selectors for ferri-pdf. CSS Selectors matching for Rust
+2026-10-28T13:33:08.754067Z,mircup,0.5.2,0,0,https://github.com/mirmir-tech/mircup,Model-agnostic Rust CPU execution layer for Mirmir
+2026-10-28T13:34:48.135471Z,kit-client,0.5.0,0,0,https://github.com/officialunofficial/kit,"Runtime-independent async protocol client for kit servers: reads, signed writes and ticketed push on native and wasm"
+2026-10-28T13:35:08.197948Z,libmir-cpu,0.5.2,0,0,https://github.com/mirmir-tech/libmir,CPU inference backend for libmir
+2026-10-28T13:35:53.582627Z,id-kit,0.1.0,0,0,https://github.com/techton7/id-kit,"Zero-ceremony ID toolkit in Rust: format validation, short prefix resolution, LCP collision disambiguation, and unique abbreviation."
+2026-10-28T13:38:30.601768Z,rust-widgets-mobile-services,2.9.1,0,0,https://github.com/mikewolfli/rust-widgets,"Optional mobile application services for rust-widgets (BLUE28 B28.44): keep-awake, haptics, permissions, notifications, share, deep links"
+2026-10-28T13:41:39.327812Z,ferri-pdf-zenavif-parse,0.6.2,0,0,https://github.com/apollohg/ferri-pdf,"Fork of zenavif-parse for ferri-pdf. AVIF container parser with zero-copy AvifParser API, grid images, animation, and resource limits. Fork of avif-parse."
+2026-10-28T13:42:31.50673Z,holst-macros,0.1.0,0,0,https://github.com/easymikey/holst-rs,"Attribute macros that declare Holst REST endpoints, and the CommandArgs and ArgumentGroup derives"
+2026-10-28T13:42:33.060216Z,holst-core,0.1.0,0,0,https://github.com/easymikey/holst-rs,Unofficial client for the Holst REST API (app.holst.so)
+2026-10-28T13:42:34.756828Z,holst-cli,0.1.0,0,0,https://github.com/easymikey/holst-rs,Unofficial command-line client for Holst (app.holst.so)
+2026-10-28T13:42:35.306951Z,holst-mcp,0.1.0,0,0,https://github.com/easymikey/holst-rs,MCP server for Holst (app.holst.so)
+2026-10-28T13:46:19.175884Z,kit-keystore,0.5.0,0,0,https://github.com/officialunofficial/kit,Signing-key keystore abstraction for kit
+2026-10-28T13:52:06.466464Z,ferri-pdf,0.1.0,0,0,https://github.com/apollohg/ferri-pdf,"HTML and CSS to PDF renderer for print, in pure Rust"
+2026-10-28T13:53:27.356926Z,pemba-store-postgres,0.1.0-alpha.3,0,0,https://github.com/Joshua-Fields/pemba,Postgres relationship store for pemba.
+2026-10-28T13:57:44.755795Z,kit-serve,0.5.0,0,0,https://github.com/officialunofficial/kit,Self-host server for kit: the ssh frame session over a repository on disk
+2026-10-28T14:02:05.798049Z,bevyllium,0.1.0,0,0,https://github.com/HashTagDefine/bevyllium,A game engine ide for bevy!
+2026-10-28T14:09:04.755259Z,kit-sync,0.5.0,0,0,https://github.com/officialunofficial/kit,"Native clone, fetch, pull and push for .kit repositories, as a library that returns typed reports and prints nothing"
+2026-10-28T14:14:40.021101Z,kuiper-libvirt-agent,0.1.0,0,0,https://github.com/AstroHQ/kuiper-forge,libvirt/KVM agent for CI runner coordination (local Linux host)
