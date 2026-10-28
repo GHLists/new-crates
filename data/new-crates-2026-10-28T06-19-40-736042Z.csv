@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T05:24:14.652738Z,agent-coordinator-runtime-support,0.4.0,0,0,https://github.com/hi-agents/agent-coordinator,两个运行时后端共用的管道：进程树收尾、JSONL 帧、原始报文留档、事件分发与收尾判定
+2026-10-28T05:24:35.330852Z,agent-coordinator-appserver,0.4.0,0,0,https://github.com/hi-agents/agent-coordinator,Codex app-server（JSON-RPC over stdio）运行时：起进程、归一事件、审批桥
+2026-10-28T05:25:22.082119Z,iet-messaging-tokio,0.2.0,0,0,https://github.com/MasLazu/iet-fw,"Bounded live fan-out, subscriber adapters and outbox workers for Tokio."
+2026-10-28T05:26:28.675994Z,polkameter-engine,0.2.0,0,0,https://github.com/agustinustheo/polkameter,"The shared engine: plan parsing, plugin registry, execution, measurement and plots for the CLI and desktop app"
+2026-10-28T05:26:54.438116Z,substrate-workspace-fs,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"The workspace on the real file system: listing and changing folders and files, copying, reading text, watching folders for changes made outside the IDE."
+2026-10-28T05:29:16.202294Z,insight-face-rs-type,4.2.1,0,0,https://github.com/mo7984130/insight-face-rs,"Core data types for insight-face-rs: bounding boxes, facial landmarks and 512-d embeddings"
+2026-10-28T05:35:35.952251Z,iet-realtime,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Explicit identity and authorized realtime delivery contracts.
+2026-10-28T05:36:53.431497Z,substrate-host-contract,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"The contract between Substrate's host and its UI: command and event names, message catalog and the TypeScript copy generated from them."
+2026-10-28T05:37:43.303603Z,polkameter,0.2.0,0,0,https://github.com/agustinustheo/polkameter,"Headless CLI for JMeter-style Polkadot SDK load tests: validate, preflight, run and report XML plans, and serve a remote agent"
+2026-10-28T05:42:19.240896Z,pelorus_core,0.0.9,0,0,https://codeberg.org/stelzo/pelorus,Core Data Structures and Utilities for Pelorus Odometry.
+2026-10-28T05:42:42.319728Z,pelorus_protocol,0.0.9,0,0,https://codeberg.org/stelzo/pelorus,Types for Pelorus's downstream consumer interface.
+2026-10-28T05:43:07.478847Z,pelorus_drivers,0.0.9,0,0,https://codeberg.org/stelzo/pelorus,Optional native sensor drivers and transport-neutral ingress for Pelorus.
+2026-10-28T05:43:34.042843Z,pelorus_localmap,0.0.9,0,0,https://codeberg.org/stelzo/pelorus,Voxel Hash Map and Local Map Registration Primitives for Pelorus Odometry.
+2026-10-28T05:43:59.101255Z,pelorus_cuda,0.0.9,0,0,https://codeberg.org/stelzo/pelorus,CUDA Accelerated Components for Pelorus Odometry.
+2026-10-28T05:44:23.10659Z,pelorus_metal,0.0.9,0,0,https://codeberg.org/stelzo/pelorus,Metal GPU Accelerated Components for Pelorus Odometry.
+2026-10-28T05:46:51.954114Z,substrate-lsp-toml,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,Reads a product's list of languages and their language servers from TOML into the language server context's vocabulary.
+2026-10-28T05:52:21.194157Z,texquill,1.0.0,0,0,https://github.com/Jacky-Lzx/texquill,A LaTeX language server written in Rust
+2026-10-28T05:53:02.630126Z,pelorus_vulkan,0.0.9,0,0,https://codeberg.org/stelzo/pelorus,Vulkan Accelerated Components for Pelorus resource-aware Lidar-Inertial Odometry.
+2026-10-28T05:54:05.740583Z,thruput-build-info,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Build and platform version metadata for Thruput binaries
+2026-10-28T05:54:13.633387Z,thruput-bundle-identity,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Runtime Thruput bundle identity validation
+2026-10-28T05:54:24.632341Z,thruput-encoding,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Canonical base58 and typed address and key text encodings for Thruput
+2026-10-28T05:54:42.949853Z,thruput-json-rpc-types,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Shared JSON-RPC wire types for Thruput
+2026-10-28T05:54:50.961042Z,thruput-open-rpc,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,OpenRPC document generation for the Thruput JSON-RPC API
+2026-10-28T05:56:52.076723Z,substrate-project-app,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,Opens and saves solutions and projects through the formats a product registers.
+2026-10-28T06:02:10.501442Z,thruput-open-rpc-macros,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Proc macro for generating OpenRPC specs from documentation-only API traits
+2026-10-28T06:03:05.536544Z,pelorus_wgpu,0.0.9,0,0,https://codeberg.org/stelzo/pelorus,Experimental WebGPU correspondence search for Pelorus.
+2026-10-28T06:06:53.01997Z,substrate-project-toml,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,Reads a product's list of project standards from TOML into the project model's vocabulary.
+2026-10-28T06:12:11.104149Z,thruput-json-rpc-api,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Method definitions for the Thruput JSON-RPC API
+2026-10-28T06:13:04.140303Z,pelorus_sync,0.0.9,0,0,https://codeberg.org/stelzo/pelorus,"Normalizing and synchronizing Lidar and IMU measurements for odometry estimation, including pre-integration."
+2026-10-28T06:16:53.073652Z,substrate-run-process,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"Starting real processes for substrate-run-app: its own process group, piped output, and killing a whole process tree."
