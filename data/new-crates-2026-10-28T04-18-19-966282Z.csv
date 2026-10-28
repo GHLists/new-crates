@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T03:21:59.494946Z,iet-cache-redis,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Typed Redis cache with atomic generation-fenced invalidation.
+2026-10-28T03:22:11.161627Z,thruput-signed-op,0.1.71,0,0,https://github.com/thruputchain/thruput-sdk-rs,Embeddable signed-operation verification and nonce state for Thruput smart contracts
+2026-10-28T03:26:52.971796Z,substrate-dap-toml,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,Reads a product's list of debug adapters from TOML into the debug adapter context's vocabulary.
+2026-10-28T03:32:11.491794Z,thruput-erc20-permit-if,0.1.71,0,0,https://github.com/thruputchain/thruput-sdk-rs,Wallet-authorized bounded transfers and signed allowances for Thruput ERC20 tokens
+2026-10-28T03:34:10.073765Z,arora-graphics-types,1.0.0,0,0,https://github.com/semio-ai/arora-sdk,Arora's graphics types over its Value: the RGBA colour.
+2026-10-28T03:35:40.114283Z,iet-messaging,0.2.0,0,0,https://github.com/MasLazu/iet-fw,"Static live publication, transactional outbox and inbox contracts."
+2026-10-28T03:36:52.337534Z,substrate-git-domain,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"Source control's vocabulary: repository status, changes, branches, commits, stashes, diffs and why a git operation fails."
+2026-10-28T03:40:17.44277Z,hw-model-io,0.1.0,0,0,https://github.com/shady831213/pdma,"Memory and register IO interfaces, byte-memory models and shared storage"
+2026-10-28T03:41:09.126909Z,hw-model-irq,0.1.0,0,0,https://github.com/shady831213/pdma,Independent interrupt source and handler capabilities
+2026-10-28T03:41:15.122509Z,hw-model-pipeline,0.1.0,0,0,https://github.com/shady831213/pdma,"Deterministic hardware modeling stages, composition, and execution"
+2026-10-28T03:41:30.12386Z,hw-model-schema-macros,0.1.0,0,0,https://github.com/shady831213/pdma,Procedural macro implementation crate for hw-model-schema
+2026-10-28T03:41:43.709691Z,hw-model-schema,0.1.0,0,0,https://github.com/shady831213/pdma,Reusable hardware interface schema vocabulary and scalar codecs
+2026-10-28T03:42:10.147747Z,thruput-erc165-if,0.1.71,0,0,https://github.com/thruputchain/thruput-sdk-rs,ERC165 interface-detection standard interface for Thruput smart contracts
+2026-10-28T03:46:52.282658Z,substrate-git-app,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"Source control's use cases: the ports a git adapter implements, and the write operations that never run at the same time."
+2026-10-28T03:47:02.996823Z,iet-rate-limit-redis,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Atomic single-key Redis fixed-window request admission.
+2026-10-28T03:47:30.784716Z,denki,0.1.1,0,0,https://github.com/kahwee/denki,CLI for controlling TP-Link smart home devices — denki (電気) means electricity in Japanese
+2026-10-28T03:50:18.111011Z,rtcprobe-core,0.1.2,0,0,,"rtcprobe UA core: SIP signaling, RTP/WebRTC media, raw capture"
+2026-10-28T03:50:40.379648Z,hw-model-swenv,0.1.0,0,0,https://github.com/shady831213/pdma,"Software execution environments, interrupt dispatch, and runtime services"
+2026-10-28T03:51:03.353902Z,rtcprobe-py,0.1.2,0,0,,PyO3 bindings for rtcprobe-core
+2026-10-28T03:52:11.136187Z,thruput-erc721-if,0.1.71,0,0,https://github.com/thruputchain/thruput-sdk-rs,ERC721 non-fungible token standard interface for Thruput smart contracts
+2026-10-28T03:53:11.44624Z,florilegium,0.1.0,0,0,https://github.com/cbbldtgthr/florilegium,"A permanent, plain-text archive of your Kindle and calibre highlights, with a stable ID for every one you can cite"
+2026-10-28T03:59:26.31992Z,substrate-process,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"Starting programs with the system's own environment, and opening links and files with the user's default app."
+2026-10-28T03:59:43.127591Z,iet-audit-timescale,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Independent transaction-scoped PostgreSQL audit append provider.
+2026-10-28T04:00:59.729209Z,tc_ascon_hash,0.1.0,0,0,https://github.com/TomiCheng/tc_digest,"Ascon-Hash256, Ascon-XOF128 and Ascon-CXOF128 (NIST SP 800-232), the Ascon v1.2 hashes and ISAP Hash."
+2026-10-28T04:02:10.015858Z,thruput-sep41,0.1.71,0,0,https://github.com/thruputchain/thruput-sdk-rs,SEP-41 token operations as client code over the Thruput ERC20 interfaces
+2026-10-28T04:02:24.783309Z,chinese-ime-lm-ffi,0.1.0,0,0,https://github.com/metasequoiaime/chinese-ime-lm,"C ABI for chinese-ime-lm, a character-level language model for reranking Chinese input method candidates"
+2026-10-28T04:04:46.87617Z,rpi-tidy,0.1.1,0,0,https://github.com/zcg/rpi-tidy,"Port of pi-tidy for the rpi Rust agent: tidy rendering (icons, bash highlighting, rounded frames, split diffs, folded tool summaries) as a Rust cdylib plugin"
+2026-10-28T04:06:52.351061Z,substrate-workspace-domain,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"The workspace's vocabulary: the folders the user opened and what lies inside them, a folder's entries, and how a product's own file kinds read as text."
+2026-10-28T04:11:08.736646Z,emon,0.2.0,0,0,https://github.com/3sln/emon,"PDFs and images to semantic HTML and a JSON model, for scraping and indexing: reading order, tables, lists, footnotes, figures, OCR. One specification, generated; byte-identical to the Go, Java, C#,…"
+2026-10-28T04:11:55.535902Z,klipsch-lumina,0.1.0,0,0,https://github.com/wlof/lumina,Control library for Klipsch ProMedia Lumina speakers
+2026-10-28T04:11:57.523409Z,klipsch-lumina-cli,0.1.0,0,0,https://github.com/wlof/lumina,Command line control for Klipsch ProMedia Lumina speakers
+2026-10-28T04:12:10.460197Z,thruput-access-control-if,0.1.71,0,0,https://github.com/thruputchain/thruput-sdk-rs,Role-based access control standard interface for Thruput smart contracts
+2026-10-28T04:16:54.039886Z,substrate-git-gitcli,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"Source control through the git executable: the adapter of substrate-git-app's ports, and the anticorruption layer for git's porcelain output."

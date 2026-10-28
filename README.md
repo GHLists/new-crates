@@ -8,43 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 03:19 UTC
+## Latest list — 2026-10-28 04:18 UTC
 
-New crates published between 2026-10-28 02:18 UTC and 2026-10-28 03:19 UTC.
+New crates published between 2026-10-28 03:19 UTC and 2026-10-28 04:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-28T03-19-45-238496Z.csv)
+[Full CSV](data/new-crates-2026-10-28T04-18-19-966282Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-28 02:22:11 | [thruput-sdk](https://crates.io/crates/thruput-sdk) | 0.58.0 | 0 | Thruput smart-contract SDK for Rust (rv32 guest runtime and native test harness) |
-| 2026-10-28 02:22:13 | [gufi-asgi](https://crates.io/crates/gufi-asgi) | 0.2.0-alpha.24 | 0 | Embeddable Python ASGI engine with lifespan, streaming HTTP and message sessions |
-| 2026-10-28 02:22:22 | [tv-rs-ir](https://crates.io/crates/tv-rs-ir) | 0.5.0 | 0 | Universal IR Remote control and scanner for TVs and set-top boxes. |
-| 2026-10-28 02:22:30 | [kavenegar](https://crates.io/crates/kavenegar) | 0.1.0 | 0 | Async Rust client for the Kavenegar SMS, OTP and voice-call API |
-| 2026-10-28 02:23:23 | [tv-rs-spatial-audio](https://crates.io/crates/tv-rs-spatial-audio) | 0.5.0 | 0 | Spatial audio manager for Bluetooth A2DP sinks, PulseAudio/PipeWire local strea… |
-| 2026-10-28 02:24:03 | [tv-rs-vision](https://crates.io/crates/tv-rs-vision) | 0.5.0 | 0 | Computer vision & edge AI event engine: RTSP camera streams, edge-optimized AI… |
-| 2026-10-28 02:24:37 | [tv-rs-rules](https://crates.io/crates/tv-rs-rules) | 0.5.0 | 0 | Declarative automation and rule engine for turning events into fleet actions: c… |
-| 2026-10-28 02:26:23 | [iet-authz-cache](https://crates.io/crates/iet-authz-cache) | 0.2.0 | 0 | Typed read-through scoped authorization with explicit invalidation. |
-| 2026-10-28 02:32:11 | [thruput-erc20-if](https://crates.io/crates/thruput-erc20-if) | 0.1.71 | 0 | ERC20 standard interface for Thruput smart contracts |
-| 2026-10-28 02:38:48 | [iet-features](https://crates.io/crates/iet-features) | 0.2.0 | 0 | Statically registered feature DAG and scoped availability policy. |
-| 2026-10-28 02:42:10 | [thruput-erc20-metadata-if](https://crates.io/crates/thruput-erc20-metadata-if) | 0.1.71 | 0 | ERC20 metadata (name, symbol, decimals) standard interface for Thruput smart co… |
-| 2026-10-28 02:52:10 | [thruput-erc20-controls-if](https://crates.io/crates/thruput-erc20-controls-if) | 0.1.71 | 0 | Optional issuer controls and holder burns for Thruput ERC20 tokens |
-| 2026-10-28 02:59:30 | [spoolframe-test-dir](https://crates.io/crates/spoolframe-test-dir) | 0.16.1 | 0 | A test's own directory: tmpdir's random name, removed for certain when dropped. |
-| 2026-10-28 02:59:35 | [spoolframe-types](https://crates.io/crates/spoolframe-types) | 0.16.1 | 0 | Spoolframe's client-facing types: the media model and its identifiers. |
-| 2026-10-28 02:59:48 | [spoolframe-protocol](https://crates.io/crates/spoolframe-protocol) | 0.16.1 | 0 | The spoolframe/client/1 wire protocol. |
-| 2026-10-28 03:00:16 | [spoolframe-client-sdk](https://crates.io/crates/spoolframe-client-sdk) | 0.16.1 | 0 | Client side of Spoolframe: Iroh transport, saved servers, sessions. |
-| 2026-10-28 03:00:21 | [spoolframe-hls-bridge](https://crates.io/crates/spoolframe-hls-bridge) | 0.16.1 | 0 | Serves a Spoolframe playback over HTTP as HLS or a ranged file, for players tha… |
-| 2026-10-28 03:00:23 | [iet-auth-session-redis](https://crates.io/crates/iet-auth-session-redis) | 0.2.0 | 0 | Atomic digest-keyed Redis sessions with explicit operation timeouts. |
-| 2026-10-28 03:02:10 | [thruput-erc20-pausable-if](https://crates.io/crates/thruput-erc20-pausable-if) | 0.1.71 | 0 | ERC20 pausable-extension standard interface for Thruput smart contracts |
-| 2026-10-28 03:04:11 | [spoolframe-policy](https://crates.io/crates/spoolframe-policy) | 0.16.1 | 0 | Shared watch-state and track-selection policy for Spoolframe applications. |
-| 2026-10-28 03:09:41 | [qppocr-metal](https://crates.io/crates/qppocr-metal) | 0.4.0 | 0 | qppocr 的 Metal 设备后端（Apple GPU 原生直连，仅 macOS） |
-| 2026-10-28 03:10:38 | [iet-auth-tokens](https://crates.io/crates/iet-auth-tokens) | 0.2.0 | 0 | Opaque scoped API-key and PAT authentication preserving authority limits. |
-| 2026-10-28 03:12:10 | [thruput-signed-op-if](https://crates.io/crates/thruput-signed-op-if) | 0.1.71 | 0 | Signed operation (off-chain authorization) standard interface for Thruput smart… |
-| 2026-10-28 03:14:44 | [substrate-message](https://crates.io/crates/substrate-message) | 0.1.0 | 0 | Substrate's shared kernel: the user-facing Message (an English template with pl… |
-| 2026-10-28 03:14:56 | [substrate-dap-domain](https://crates.io/crates/substrate-dap-domain) | 0.1.0 | 0 | The debug adapter context's vocabulary: the adapters a product knows, the proto… |
-| 2026-10-28 03:15:04 | [substrate-framing](https://crates.io/crates/substrate-framing) | 0.1.0 | 0 | The framing the Language Server and Debug Adapter protocols share: a Content-Le… |
-| 2026-10-28 03:15:08 | [substrate-lock](https://crates.io/crates/substrate-lock) | 0.1.0 | 0 | Locks that outlive a panic: Mutex and RwLock guards that ignore poison, for the… |
-| 2026-10-28 03:15:26 | [substrate-run-domain](https://crates.io/crates/substrate-run-domain) | 0.1.0 | 0 | Running tools' vocabulary: a task to run, how it ended, log lines, and the name… |
-| 2026-10-28 03:16:55 | [substrate-run-app](https://crates.io/crates/substrate-run-app) | 0.1.0 | 0 | Running tools' use cases: spawn a task with its output streamed into a log, run… |
+| 2026-10-28 03:21:59 | [iet-cache-redis](https://crates.io/crates/iet-cache-redis) | 0.2.0 | 0 | Typed Redis cache with atomic generation-fenced invalidation. |
+| 2026-10-28 03:22:11 | [thruput-signed-op](https://crates.io/crates/thruput-signed-op) | 0.1.71 | 0 | Embeddable signed-operation verification and nonce state for Thruput smart cont… |
+| 2026-10-28 03:26:52 | [substrate-dap-toml](https://crates.io/crates/substrate-dap-toml) | 0.1.0 | 0 | Reads a product's list of debug adapters from TOML into the debug adapter conte… |
+| 2026-10-28 03:32:11 | [thruput-erc20-permit-if](https://crates.io/crates/thruput-erc20-permit-if) | 0.1.71 | 0 | Wallet-authorized bounded transfers and signed allowances for Thruput ERC20 tok… |
+| 2026-10-28 03:34:10 | [arora-graphics-types](https://crates.io/crates/arora-graphics-types) | 1.0.0 | 0 | Arora's graphics types over its Value: the RGBA colour. |
+| 2026-10-28 03:35:40 | [iet-messaging](https://crates.io/crates/iet-messaging) | 0.2.0 | 0 | Static live publication, transactional outbox and inbox contracts. |
+| 2026-10-28 03:36:52 | [substrate-git-domain](https://crates.io/crates/substrate-git-domain) | 0.1.0 | 0 | Source control's vocabulary: repository status, changes, branches, commits, sta… |
+| 2026-10-28 03:40:17 | [hw-model-io](https://crates.io/crates/hw-model-io) | 0.1.0 | 0 | Memory and register IO interfaces, byte-memory models and shared storage |
+| 2026-10-28 03:41:09 | [hw-model-irq](https://crates.io/crates/hw-model-irq) | 0.1.0 | 0 | Independent interrupt source and handler capabilities |
+| 2026-10-28 03:41:15 | [hw-model-pipeline](https://crates.io/crates/hw-model-pipeline) | 0.1.0 | 0 | Deterministic hardware modeling stages, composition, and execution |
+| 2026-10-28 03:41:30 | [hw-model-schema-macros](https://crates.io/crates/hw-model-schema-macros) | 0.1.0 | 0 | Procedural macro implementation crate for hw-model-schema |
+| 2026-10-28 03:41:43 | [hw-model-schema](https://crates.io/crates/hw-model-schema) | 0.1.0 | 0 | Reusable hardware interface schema vocabulary and scalar codecs |
+| 2026-10-28 03:42:10 | [thruput-erc165-if](https://crates.io/crates/thruput-erc165-if) | 0.1.71 | 0 | ERC165 interface-detection standard interface for Thruput smart contracts |
+| 2026-10-28 03:46:52 | [substrate-git-app](https://crates.io/crates/substrate-git-app) | 0.1.0 | 0 | Source control's use cases: the ports a git adapter implements, and the write o… |
+| 2026-10-28 03:47:02 | [iet-rate-limit-redis](https://crates.io/crates/iet-rate-limit-redis) | 0.2.0 | 0 | Atomic single-key Redis fixed-window request admission. |
+| 2026-10-28 03:47:30 | [denki](https://crates.io/crates/denki) | 0.1.1 | 0 | CLI for controlling TP-Link smart home devices — denki (電気) means electricity i… |
+| 2026-10-28 03:50:18 | [rtcprobe-core](https://crates.io/crates/rtcprobe-core) | 0.1.2 | 0 | rtcprobe UA core: SIP signaling, RTP/WebRTC media, raw capture |
+| 2026-10-28 03:50:40 | [hw-model-swenv](https://crates.io/crates/hw-model-swenv) | 0.1.0 | 0 | Software execution environments, interrupt dispatch, and runtime services |
+| 2026-10-28 03:51:03 | [rtcprobe-py](https://crates.io/crates/rtcprobe-py) | 0.1.2 | 0 | PyO3 bindings for rtcprobe-core |
+| 2026-10-28 03:52:11 | [thruput-erc721-if](https://crates.io/crates/thruput-erc721-if) | 0.1.71 | 0 | ERC721 non-fungible token standard interface for Thruput smart contracts |
+| 2026-10-28 03:53:11 | [florilegium](https://crates.io/crates/florilegium) | 0.1.0 | 0 | A permanent, plain-text archive of your Kindle and calibre highlights, with a s… |
+| 2026-10-28 03:59:26 | [substrate-process](https://crates.io/crates/substrate-process) | 0.1.0 | 0 | Starting programs with the system's own environment, and opening links and file… |
+| 2026-10-28 03:59:43 | [iet-audit-timescale](https://crates.io/crates/iet-audit-timescale) | 0.2.0 | 0 | Independent transaction-scoped PostgreSQL audit append provider. |
+| 2026-10-28 04:00:59 | [tc_ascon_hash](https://crates.io/crates/tc_ascon_hash) | 0.1.0 | 0 | Ascon-Hash256, Ascon-XOF128 and Ascon-CXOF128 (NIST SP 800-232), the Ascon v1.2… |
+| 2026-10-28 04:02:10 | [thruput-sep41](https://crates.io/crates/thruput-sep41) | 0.1.71 | 0 | SEP-41 token operations as client code over the Thruput ERC20 interfaces |
+| 2026-10-28 04:02:24 | [chinese-ime-lm-ffi](https://crates.io/crates/chinese-ime-lm-ffi) | 0.1.0 | 0 | C ABI for chinese-ime-lm, a character-level language model for reranking Chines… |
+| 2026-10-28 04:04:46 | [rpi-tidy](https://crates.io/crates/rpi-tidy) | 0.1.1 | 0 | Port of pi-tidy for the rpi Rust agent: tidy rendering (icons, bash highlightin… |
+| 2026-10-28 04:06:52 | [substrate-workspace-domain](https://crates.io/crates/substrate-workspace-domain) | 0.1.0 | 0 | The workspace's vocabulary: the folders the user opened and what lies inside th… |
+| 2026-10-28 04:11:08 | [emon](https://crates.io/crates/emon) | 0.2.0 | 0 | PDFs and images to semantic HTML and a JSON model, for scraping and indexing: r… |
+| 2026-10-28 04:11:55 | [klipsch-lumina](https://crates.io/crates/klipsch-lumina) | 0.1.0 | 0 | Control library for Klipsch ProMedia Lumina speakers |
+| 2026-10-28 04:11:57 | [klipsch-lumina-cli](https://crates.io/crates/klipsch-lumina-cli) | 0.1.0 | 0 | Command line control for Klipsch ProMedia Lumina speakers |
+| 2026-10-28 04:12:10 | [thruput-access-control-if](https://crates.io/crates/thruput-access-control-if) | 0.1.71 | 0 | Role-based access control standard interface for Thruput smart contracts |
+| 2026-10-28 04:16:54 | [substrate-git-gitcli](https://crates.io/crates/substrate-git-gitcli) | 0.1.0 | 0 | Source control through the git executable: the adapter of substrate-git-app's p… |
 
 ## Data source
 
