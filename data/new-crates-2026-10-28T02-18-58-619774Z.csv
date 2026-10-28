@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T01:22:10.466264Z,thruput-macros,0.58.0,0,0,https://github.com/thruputchain/thruput-sdk-rs,Macros for smart contract development
+2026-10-28T01:31:51.159323Z,hharness,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The HarnessHarness umbrella facade (L4.5; ADR-0380) — one crate that re-exports the E1 workspace's public API crates under short module names (`hharness::ledger`, `hharness::hir`, `hharness::embed`,…"
+2026-10-28T01:32:11.089534Z,thruput-domain-separator,0.58.0,0,0,https://github.com/thruputchain/thruput-sdk-rs,"Domain-separated hash derivation for Thruput (pubkey account addresses, etc.)"
+2026-10-28T01:37:14.649383Z,bao-servo-webcodecs,0.5.0,0,0,https://github.com/servo/servo,A component of the servo web-engine.
+2026-10-28T01:42:10.192341Z,thruput-native-exec,0.58.0,0,0,https://github.com/thruputchain/thruput-sdk-rs,Native execution environment for testing Thruput smart contracts
+2026-10-28T01:49:21.337588Z,BREP_instructions,0.1.0,0,0,https://github.com/mmiscool/next.BREP.io_RUST_BREP_KERNEL,"Manufacturing instructions for BREP assemblies: the instructions document model, the step-order wizard, step editing, re-targeting to a new assembly revision, page layout and the self-contained HTML…"
+2026-10-28T01:49:24.442593Z,BREP_simulation,0.1.0,0,0,https://github.com/mmiscool/next.BREP.io_RUST_BREP_KERNEL,"Motion studies for BREP assemblies: the study document model, mates as motors, the timeline's clips and sampling a study at a time"
+2026-10-28T01:49:26.354062Z,BREP_cam,0.1.0,0,0,https://github.com/mmiscool/next.BREP.io_RUST_BREP_KERNEL,"CAM toolpath engine contracts and geometric core for the BREP CAD kernel: setups, tools, operations, typed motion streams, cutter profiles, mesh snapshots and triangle spatial indexing"
+2026-10-28T01:49:34.131722Z,slipway-mcp,0.1.0,0,0,https://github.com/qompassai/slipway,"Slipway — the estate's Android build/sign/verify/install/release MCP server: builds the Owner's own apps from their own trees, verifies and installs them, certifies publish readiness by executing the…"
+2026-10-28T01:49:37.696402Z,rolldown-notify-napi,0.0.0,0,0,https://github.com/notify-rs/notify.git,Node.js bindings for rolldown-notify
+2026-10-28T01:50:16.693083Z,bao-servo-webbundle,0.5.0,0,0,https://github.com/servo/servo,"WICG WebBundle (application/webbundle, draft-2) parser for web bundle subresource loading."
+2026-10-28T01:52:10.694507Z,thruput-u256,0.58.0,0,0,https://github.com/thruputchain/thruput-sdk-rs,"Signed and unsigned 256-bit integers for Thruput contracts, with a 32-bit-native representation and the OpenZeppelin Math/SignedMath surface"
+2026-10-28T01:55:35.771627Z,cssprint,0.1.7,0,0,https://github.com/cipansor/crateworks,"Lay out HTML and CSS for paged output, in pure Rust: the box model and block layout, checked against WeasyPrint's own box tree."
+2026-10-28T01:55:49.127007Z,fipc-sys,1.0.0,0,0,https://github.com/fastipc/fastipc,"Raw FFI bindings to FastIPC: shared-memory streams, broadcasts, work queues and services between local processes"
+2026-10-28T01:55:51.941893Z,fipc,1.0.0,0,0,https://github.com/fastipc/fastipc,"Shared-memory IPC: streams, broadcasts, work queues and services between processes on one machine (FastIPC)"
+2026-10-28T01:57:18.528151Z,tv-rs-sicp,0.5.0,0,0,https://github.com/Zakarialabib/tv-rs,"Philips Serial Information Control Protocol (SICP) over TCP 5000: frames, display IDs, power, input, volume, and display temperature/status."
+2026-10-28T02:02:10.653146Z,thruput-test-vectors,0.58.0,0,0,https://github.com/thruputchain/thruput-sdk-rs,Generate cross-language test vectors for Thruput SDK types
+2026-10-28T02:02:53.470249Z,pithpack,0.0.0,0,0,https://github.com/eckorog2005/pithpack,Compress codebases into token-lean context bundles for LLMs
+2026-10-28T02:07:04.84755Z,spliterator,10.0.0,0,0,https://github.com/sister-software/spliterator,"Streaming readers for delimited text, CSV, TSV and JSONL with transparent zstd/gzip decompression. The Rust counterpart of the spliterator npm package, sharing its semantics."
+2026-10-28T02:07:07.819556Z,iet-audit,0.2.0,0,0,https://github.com/MasLazu/iet-fw,Bounded audit records and caller-transaction append contract.
+2026-10-28T02:10:52.960204Z,stucco-leptos,0.1.0-alpha.1,0,0,https://github.com/mcaveniathor/stucco,Reactive Leptos components using Stucco's existing styles and accessibility conventions.
+2026-10-28T02:12:09.603469Z,thruput-rv32-runtime,0.58.0,0,0,https://github.com/thruputchain/thruput-sdk-rs,"Bare-metal RV32 runtime support for Thruput contracts: _start, panic handler, allocator, linker script"
