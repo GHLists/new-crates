@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T07:22:11.942195Z,thruput-json-rpc-client,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Typed client for the Thruput JSON-RPC API
+2026-10-28T07:23:18.401334Z,gpuicn-cli,0.5.0-beta.5,0,0,https://github.com/devaryakjha/gpuicn,Install editable gpuicn Rust components without Node.js.
+2026-10-28T07:26:52.906255Z,substrate-lsp-app,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"A running language server spoken to over the Language Server Protocol: requests matched to responses, notifications, the document lifecycle and the initialize-to-exit handshake."
+2026-10-28T07:28:33.406242Z,sva-solve,0.17.0,0,0,https://github.com/fredrikryden/scalable-vector-audio,Fits a recording as a composition of sources by minimum description length
+2026-10-28T07:32:12.742098Z,thruput-signing,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Off-chain transaction signing and construction for Thruput
+2026-10-28T07:36:46.073982Z,iron-heart,0.0.1,0,0,https://github.com/nullstalgia/iron-heart,"A BLE Heart Rate Monitor bridge for Social VR, OBS, Data Logging, and more!"
+2026-10-28T07:36:56.139675Z,tauri-plugin-substrate,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"Substrate Platform's host commands for a Tauri app: the workspace boundary, opening links, Source Control, terminals — what Substrate's UI calls, the same in every product."
+2026-10-28T07:42:11.049771Z,thruput-client,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Embeddable Thruput contract invocation client
+2026-10-28T07:46:43.906693Z,lance-jsonb,14.0.1,0,0,https://github.com/lance-format/lance,"JSONB binary encoding, parsing, and JSONPath evaluation for Lance"
+2026-10-28T07:48:14.996655Z,sieve-sundaram-64,0.1.0,0,0,https://github.com/lnlbg/sieve-sundaram-64,"64-bit interval generalized Sundaram sieve library, sequential and parallel implementation."
+2026-10-28T07:52:11.542213Z,thruput-node-supervisor,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Local node supervisor for Thruput development
+2026-10-28T08:02:13.07745Z,thruput-rv32-lower,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Lower a RISC-V rv32im contract ELF to the canonical Thruput RV32 artifact
+2026-10-28T08:08:09.912094Z,dendro-platform-policy,0.9.0,0,0,https://github.com/smota/dendro,"Platform policy, boundary isolation, and path containment validation for Dendro."
+2026-10-28T08:08:24.074398Z,dendro-windows-private-io,0.9.0,0,0,https://github.com/smota/dendro,Private Windows I/O abstractions and handle custody for Dendro.
+2026-10-28T08:11:41.945838Z,dendro-core,0.9.0,0,0,https://github.com/smota/dendro,"Core domain models, storage engine, and telemetry facts for Dendro."
+2026-10-28T08:12:11.026422Z,dendro-connectors,0.9.0,0,0,https://github.com/smota/dendro,"Harness log collectors and session parsers for Claude, Codex, AGY, and OpenRig."
+2026-10-28T08:12:11.061771Z,thruput-toolchain,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Verified hog-devnode toolchain catalog and installation management
+2026-10-28T08:12:29.77351Z,dendro-resolver,0.9.0,0,0,https://github.com/smota/dendro,Seat and session correlation resolver for multi-agent fleets in Dendro.
+2026-10-28T08:15:05.513711Z,warpin-workspace,0.2.10,0,0,https://github.com/time-origin/warpin-rs-common,Fenced workspace reservations and fixed-capacity Linux filesystem allocations
+2026-10-28T08:19:49.663018Z,dendro-watcher,0.9.0,0,0,https://github.com/smota/dendro,Filesystem event watcher and watermark streaming pipeline for Dendro.
