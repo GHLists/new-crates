@@ -1,0 +1,56 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T15:21:55.722901Z,cf-gears-sqlite-event-broker-plugin,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"SQLite storage backend plugin for the event-broker gear: the durable event log, its per-partition bookkeeping, and per-partition retention"
+2026-10-28T15:22:09.052939Z,datadog-telemetry-api,0.0.0,0,0,https://github.com/DataDog/dd-trace-rs,"Reserved future DataDog package, contact info@datadoghq.com if you think this package name shouldn't be used."
+2026-10-28T15:23:30.571464Z,substrate-installer-domain,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"An installer's vocabulary: the catalog of products, workloads and components, sources, releases, selections, changes, plans, compatibility and progress events."
+2026-10-28T15:23:36.830986Z,substrate-installer-app,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"An installer's use cases: list releases, plan a selection, apply a plan; and the ports the work goes through."
+2026-10-28T15:23:44.806841Z,substrate-installer-archive,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"Unpacks an installer's downloads: zip, tar.gz, tar.xz and a Debian package's files, from a file or a stream, never outside the folder."
+2026-10-28T15:23:54.763251Z,substrate-installer-data,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"The installer's own files as Substrate Data: the catalog and a release's compatibility manifest read from text with the line, path and code of every problem, and the records of what is installed kept…"
+2026-10-28T15:24:01.142635Z,substrate-installer-fs,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"An installer on the real file system: where things go under a home folder, moving a staging folder into place, and installing a platform's programs with their launcher."
+2026-10-28T15:26:07.885372Z,senn-cli,0.0.0,0,0,https://github.com/mrbandler/senn,Part of senn. Placeholder: the first release follows from the repository.
+2026-10-28T15:26:30.850492Z,senn-protocol,0.0.0,0,0,https://github.com/mrbandler/senn,Part of senn. Placeholder: the first release follows from the repository.
+2026-10-28T15:26:32.661772Z,ctxd,0.0.1,0,0,,"Desktop context for AI agents. `ctxd now` prints the frontmost app, window title, and browser tab."
+2026-10-28T15:26:43.685551Z,gaugeblock-core,0.1.0-alpha.1,0,0,https://github.com/gaugeblock/common,Meta-harness orchestration engine for gaugeblock
+2026-10-28T15:26:53.687342Z,substrate-installer-http,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"HTTP adapters of the installer ports: GitHub and crates.io release listing with an ETag cache, and a resumable, verified, cancellable downloader."
+2026-10-28T15:27:00.255252Z,gaugeblock-common,0.1.0-alpha.1,0,0,https://github.com/gaugeblock/common,Foundation library for the gaugeblock suite
+2026-10-28T15:27:18.12541Z,gaugeblock-contracts,0.1.0-alpha.1,0,0,https://github.com/gaugeblock/common,Wire contracts shared across the gaugeblock suite
+2026-10-28T15:27:35.465407Z,gaugeblock-git,0.1.0-alpha.1,0,0,https://github.com/gaugeblock/common,Safe git porcelain for gaugeblock tooling
+2026-10-28T15:27:51.516245Z,gaugeblock,0.1.0-alpha.1,0,0,https://github.com/gaugeblock,Meta-harness facade and CLI for the gaugeblock neurosymbolic suite
+2026-10-28T15:31:19.620758Z,klean,1.4.0,0,0,https://github.com/danil0ws/klean,"A safe, efficient, and extensible CLI tool for cleaning development environments"
+2026-10-28T15:31:20.061522Z,gaugeblock-mcp,0.1.0-alpha.1,0,0,https://github.com/gaugeblock/common,Generic JSON-RPC 2.0 MCP stdio engine for gaugeblock
+2026-10-28T15:36:54.876516Z,substrate-installer-process,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"Runs rustup and cargo for the installer context (output streamed, paused and killed with the whole process group) and finds the toolchains and tools already on the machine."
+2026-10-28T15:37:50.638947Z,cf-gears-github-mirror,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,GitHub Mirror module
+2026-10-28T15:40:23.08011Z,pmetal-supervisor,0.7.0,0,0,https://github.com/epistates/pmetal,"Runs pmetal subcommands as supervised child processes for the TUI, MCP server and GUI"
+2026-10-28T15:43:13.047621Z,zincite-check,0.4.0,0,0,https://github.com/zayenz/zincite,Repeated native and WebAssembly candidate checking for FlatZinc
+2026-10-28T15:43:56.761298Z,cargo-jj-release,0.1.0,0,0,https://github.com/faassen/cargo-jj-release,"Release a Rust crate from a jj repository: bump the version, stamp CHANGES.md, publish to crates.io, then commit, tag and push with jj."
+2026-10-28T15:44:29.771701Z,input-pulse,0.1.0,0,0,https://github.com/voiiku/input-pulse,Periodically send input to matching windows or GNU screen sessions
+2026-10-28T15:46:04.484432Z,cf-gears-quota-enforcement-engine-cel,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"Bounded, metered CEL quota resolution engine"
+2026-10-28T15:46:05.615854Z,mcpant,0.0.0,0,0,https://github.com/ThinkersJournal/mcpant,"Reserved name: a Model Context Protocol library (client and server) for Rust. Placeholder, no functionality yet."
+2026-10-28T15:46:12.097054Z,cf-gears-quota-enforcement-engine-most-restrictive,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,Deterministic most-restrictive-wins quota resolution engine
+2026-10-28T15:47:10.921045Z,cf-gears-quota-enforcement,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"Quota Enforcement gear: PDP-gated admission, plugin binding, fail-closed bootstrap, and the REST surface mounted into api-gateway"
+2026-10-28T15:48:05.176931Z,cf-gears-quota-enforcement-storage-plugin,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"Quota Enforcement storage plugin on toolkit-db: foundation schema, bootstrap, configuration tables, and the Quota tables"
+2026-10-28T15:49:27.901839Z,axum-sea-orm-tx,0.1.0,0,0,https://github.com/faassen/axum-sea-orm-tx,Request-scoped SeaORM transactions for axum.
+2026-10-28T15:49:59.423534Z,mailchannels-email-api,0.1.0,0,0,https://github.com/mailchannels/mailchannels-email-api-sdk-rust,Server-side client for the MailChannels Email API
+2026-10-28T15:50:27.855887Z,patchsense-core,0.0.0,0,0,https://github.com/Widyasa/patchsense,"Library for PatchSense lockfile parsing, OSV matching, and priority scoring"
+2026-10-28T15:50:54.299825Z,patchsense,0.1.1,0,0,https://github.com/Widyasa/patchsense,"Prioritize vulnerabilities from lockfiles using OSV, EPSS, and CISA KEV"
+2026-10-28T15:50:56.178351Z,speleodb-api,0.0.0,0,0,,Bootstrap release of the SpeleoDB Rust API SDK.
+2026-10-28T15:56:47.574045Z,cf-gears-toolkit-durable-execution,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"ToolKit library for typed durable workflows: checkpoints, fan-out, retries and saga compensation"
+2026-10-28T15:58:17.378953Z,cf-gears-construct-sdk,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"SDK for the construct gear: client trait, transport-agnostic models and errors"
+2026-10-28T15:58:24.362511Z,ai-catalog-discover,0.3.0,0,0,https://github.com/Agent-Card/ai-catalog-rust,"Find the AI Catalog of a website or domain through Link headers, HTML link elements and the well-known URI"
+2026-10-28T15:58:43.77126Z,proxmint,0.1.0,0,0,https://github.com/proxmint/free-proxy-list,"Free proxy list client: HTTP, HTTPS, SOCKS4 and SOCKS5 proxies, each checked through a real request in the last 30 minutes"
+2026-10-28T16:01:57.742906Z,eyeron,0.8.25,0,0,https://github.com/eyereasoner/eyeron,A native Rust Notation3 reasoner.
+2026-10-28T16:04:56.399927Z,fairspec-metadata,0.0.0,0,0,https://github.com/datisthq/fairspec,"Fairspec metadata: models, profiles and descriptor validation"
+2026-10-28T16:04:58.54517Z,fairspec-dataset,0.0.0,0,0,https://github.com/datisthq/fairspec,Fairspec dataset: file and stream I/O and dataset source plugins
+2026-10-28T16:05:00.849284Z,fairspec-table,0.0.0,0,0,https://github.com/datisthq/fairspec,Fairspec table: the Polars-backed table engine and file-format plugins
+2026-10-28T16:05:02.899577Z,fairspec-library,0.0.0,0,0,https://github.com/datisthq/fairspec,Fairspec library: the plugin registry and the actions every interface calls
+2026-10-28T16:05:05.931875Z,fairspec-mcp-server,0.0.0,0,0,https://github.com/datisthq/fairspec,"Fairspec MCP server: MCP tools over the library actions, served over stdio"
+2026-10-28T16:05:40.667835Z,stiles-macros,0.0.0,0,0,https://github.com/aonyx-ai/stiles,"An empty placeholder of stiles-macros, whose releases come from https://github.com/aonyx-ai/stiles"
+2026-10-28T16:05:43.750838Z,stiles-codegen,0.0.0,0,0,https://github.com/aonyx-ai/stiles,"An empty placeholder of stiles-codegen, whose releases come from https://github.com/aonyx-ai/stiles"
+2026-10-28T16:05:47.242237Z,stiles-typescript,0.0.0,0,0,https://github.com/aonyx-ai/stiles,"An empty placeholder of stiles-typescript, whose releases come from https://github.com/aonyx-ai/stiles"
+2026-10-28T16:05:49.624195Z,stiles-tsrs,0.0.0,0,0,https://github.com/aonyx-ai/stiles,"An empty placeholder of stiles-tsrs, whose releases come from https://github.com/aonyx-ai/stiles"
+2026-10-28T16:05:52.705579Z,stiles-reporting,0.0.0,0,0,https://github.com/aonyx-ai/stiles,"An empty placeholder of stiles-reporting, whose releases come from https://github.com/aonyx-ai/stiles"
+2026-10-28T16:06:04.757101Z,bclaude,0.1.0,0,0,https://github.com/LucaGambaro/bclaude,"Compose Claude Code skills, agents and CLAUDE.md per project, at launch time"
+2026-10-28T16:07:19.821895Z,fairspec-terminal,0.0.0,0,0,https://github.com/datisthq/fairspec,Fairspec terminal: the fairspec command-line interface
+2026-10-28T16:12:01.015273Z,borer-engine,0.2.6,0,0,https://github.com/imjustprism/borer,"borer analysis core: binary loading, disassembly, queries. Sync, pure, MCP-free (wasm-friendly)."
+2026-10-28T16:12:03.302907Z,borer-live,0.2.6,0,0,https://github.com/imjustprism/borer,"Read-only access to a running process for borer's live view: attach, modules, regions, memory."
+2026-10-28T16:12:05.206321Z,borer,0.2.6,0,0,https://github.com/imjustprism/borer,borer MCP server: exposes the borer-engine over stdio JSON-RPC for AI agents.
+2026-10-28T16:17:19.979119Z,fairspec,0.0.0,0,0,https://github.com/datisthq/fairspec,Fairspec: a fast data management framework built on the Fairspec standard and Polars
