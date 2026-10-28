@@ -8,46 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 11:18 UTC
+## Latest list — 2026-10-28 12:18 UTC
 
-New crates published between 2026-10-28 10:18 UTC and 2026-10-28 11:18 UTC.
+New crates published between 2026-10-28 11:18 UTC and 2026-10-28 12:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-28T11-18-20-292957Z.csv)
+[Full CSV](data/new-crates-2026-10-28T12-18-28-386487Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-28 10:22:28 | [sun-observations-derive](https://crates.io/crates/sun-observations-derive) | 0.1.0 | 0 | Observation metadata derive for sun-observations |
-| 2026-10-28 10:23:49 | [dorm-sqlite](https://crates.io/crates/dorm-sqlite) | 0.2.0 | 0 | A SQLite executor for DORM (ADR 0002, brick 2): run a dialect-compiled `Sql` ag… |
-| 2026-10-28 10:25:05 | [sun-observations](https://crates.io/crates/sun-observations) | 0.1.1 | 0 | Typed runtime observations, production capture and generic semantic certificati… |
-| 2026-10-28 10:25:38 | [iet-tenancy-timescale](https://crates.io/crates/iet-tenancy-timescale) | 0.2.0 | 0 | Self-contained tenant and membership persistence for IET. |
-| 2026-10-28 10:29:11 | [aether-renderer-capture](https://crates.io/crates/aether-renderer-capture) | 0.1.0 | 0 | Deterministic HTML -> transparent PNG sequence capture via chrome-headless-shel… |
-| 2026-10-28 10:34:55 | [stav](https://crates.io/crates/stav) | 0.0.0 | 0 | Stav: a typed, eager and total configuration language. Placeholder release, und… |
-| 2026-10-28 10:34:58 | [laft](https://crates.io/crates/laft) | 0.0.0 | 0 | Laft: a Linux distribution toolchain with a content addressed store, FHS views… |
-| 2026-10-28 10:35:16 | [z40-auth](https://crates.io/crates/z40-auth) | 0.1.0 | 0 | Relying-party SDK for zwei&40 Login (OpenID Connect / OAuth 2.1, confidential s… |
-| 2026-10-28 10:35:56 | [iet-messaging-avro](https://crates.io/crates/iet-messaging-avro) | 0.2.0 | 0 | Explicit-schema Avro datum codec for IET message adapters. |
-| 2026-10-28 10:40:24 | [oxinsider](https://crates.io/crates/oxinsider) | 0.4.0 | 0 | Official Rust client for the 0xinsider Developer API: Polymarket sports and esp… |
-| 2026-10-28 10:41:08 | [stalmarck](https://crates.io/crates/stalmarck) | 0.1.0 | 0 | A crate implementing Stålmarck's method for efficiently proving propositional l… |
-| 2026-10-28 10:45:23 | [sealzone-proto](https://crates.io/crates/sealzone-proto) | 0.1.0 | 0 | Seal wire types: ids, policies, blobs, sessions, API messages, signed state, re… |
-| 2026-10-28 10:45:25 | [sealzone-crypto](https://crates.io/crates/sealzone-crypto) | 0.1.0 | 0 | Pure Seal cryptography: key hierarchy, blob AEAD, HPKE, session tokens, signatu… |
-| 2026-10-28 10:45:25 | [sealzone-net](https://crates.io/crates/sealzone-net) | 0.1.0 | 0 | Outbound network with baked trust anchors. The only way to get a stream a secre… |
-| 2026-10-28 10:45:26 | [sealzone-attest](https://crates.io/crates/sealzone-attest) | 0.1.0 | 0 | Checks TEE evidence (Azure SNP ACI, AWS Nitro, GCP Confidential Space, sim). Pu… |
-| 2026-10-28 10:45:27 | [sealzone-tlog](https://crates.io/crates/sealzone-tlog) | 0.1.0 | 0 | Witnessed transparency log: pure verification (inclusion + witness quorum + pub… |
-| 2026-10-28 10:46:14 | [iet-realtime-axum](https://crates.io/crates/iet-realtime-axum) | 0.2.0 | 0 | Bounded SSE and WebSocket transport primitives for IET adapters. |
-| 2026-10-28 10:51:47 | [sealzone-verify](https://crates.io/crates/sealzone-verify) | 0.1.0 | 0 | Pure verification of releases and tenant bundles. One implementation shared by… |
-| 2026-10-28 10:56:30 | [iet-realtime-tonic](https://crates.io/crates/iet-realtime-tonic) | 0.2.0 | 0 | Explicit authenticated gRPC stream adapters for IET. |
-| 2026-10-28 11:01:19 | [formatjs_intl_data](https://crates.io/crates/formatjs_intl_data) | 0.1.0 | 0 | Build-selected locale records for native Intl |
-| 2026-10-28 11:01:19 | [formatjs_intl_getcanonicallocales](https://crates.io/crates/formatjs_intl_getcanonicallocales) | 0.1.0 | 0 | ECMA-402 locale canonicalization with ICU4X |
-| 2026-10-28 11:01:19 | [formatjs_intl_supportedvaluesof](https://crates.io/crates/formatjs_intl_supportedvaluesof) | 0.1.0 | 0 | ECMA-402 supported value enumeration for FormatJS runtimes |
-| 2026-10-28 11:01:20 | [formatjs_intl_locale](https://crates.io/crates/formatjs_intl_locale) | 0.1.0 | 0 | ECMA-402 Locale using ICU4X canonicalization and CLDR preferences |
-| 2026-10-28 11:01:22 | [formatjs_intl_collator](https://crates.io/crates/formatjs_intl_collator) | 0.1.0 | 0 | ECMA-402 Collator with CLDR tailorings and ICU4X normalization |
-| 2026-10-28 11:02:02 | [sealzone-control](https://crates.io/crates/sealzone-control) | 0.1.0 | 0 | Seal's control service: stores and serves signed documents. Untrusted by design… |
-| 2026-10-28 11:03:27 | [contime](https://crates.io/crates/contime) | 0.1.0 | 0 | Continuous-time state from unreliable event streams |
-| 2026-10-28 11:05:39 | [formatjs_intl_data_build](https://crates.io/crates/formatjs_intl_data_build) | 0.1.0 | 0 | Rust locale validation and native data compilation |
-| 2026-10-28 11:07:54 | [iet-messaging-adapters](https://crates.io/crates/iet-messaging-adapters) | 0.2.0 | 0 | Static wire-dispatch bridges for Kafka and live IET consumers. |
-| 2026-10-28 11:10:06 | [voff-engine](https://crates.io/crates/voff-engine) | 0.1.1 | 0 | Task orchestration engine for Voff coding agent workflows. |
-| 2026-10-28 11:11:16 | [voff](https://crates.io/crates/voff) | 0.1.1 | 0 | Workflow builder for coding agents 🐶 |
-| 2026-10-28 11:14:56 | [oxchart](https://crates.io/crates/oxchart) | 0.1.0 | 0 | Fast module graph builder powered by oxc, with pluggable renderers like Mermaid. |
-| 2026-10-28 11:15:40 | [formatjs_intl_displaynames](https://crates.io/crates/formatjs_intl_displaynames) | 0.1.0 | 0 | ECMA-402 DisplayNames with caller-loaded CLDR names |
+| 2026-10-28 11:20:10 | [appstruct-core](https://crates.io/crates/appstruct-core) | 0.2.0 | 0 | Pure naming, query, and resource algorithms shared by AppStruct tools and gener… |
+| 2026-10-28 11:22:02 | [appstruct-schema](https://crates.io/crates/appstruct-schema) | 0.2.0 | 0 | Database schema contracts and deterministic SQL snapshots for AppStruct |
+| 2026-10-28 11:24:49 | [captions](https://crates.io/crates/captions) | 0.1.0 | 0 | Words with timing → cues → SRT, WebVTT, ASS, Premiere Pro transcript |
+| 2026-10-28 11:25:40 | [formatjs_intl_listformat](https://crates.io/crates/formatjs_intl_listformat) | 0.1.0 | 0 | ECMA-402 ListFormat with caller-loaded CLDR patterns |
+| 2026-10-28 11:31:49 | [warpin-transport](https://crates.io/crates/warpin-transport) | 0.2.11 | 0 | Bounded Tokio TCP/UDP transports, framing and verified TLS |
+| 2026-10-28 11:32:02 | [warpin-mqtt](https://crates.io/crates/warpin-mqtt) | 0.2.11 | 0 | Caller-driven MQTT 3.1.1 and 5.0 sessions with bounded queues and TLS |
+| 2026-10-28 11:32:10 | [warpin-modbus](https://crates.io/crates/warpin-modbus) | 0.2.11 | 0 | Validated Modbus TCP and RTU clients with explicit register layouts |
+| 2026-10-28 11:35:40 | [formatjs_intl_pluralrules](https://crates.io/crates/formatjs_intl_pluralrules) | 0.1.0 | 0 | ECMA-402 PluralRules with caller-loaded CLDR data and ICU4X |
+| 2026-10-28 11:43:37 | [nativekt](https://crates.io/crates/nativekt) | 4.0.0 | 0 | Build-time Native-Kt bindings generation with a bundled CLI |
+| 2026-10-28 11:45:40 | [formatjs_intl_numberformat](https://crates.io/crates/formatjs_intl_numberformat) | 0.1.0 | 0 | ECMA-402 NumberFormat with on-demand CLDR locale data |
+| 2026-10-28 11:50:42 | [proofman-pilfflonk](https://crates.io/crates/proofman-pilfflonk) | 1.4.0-alpha | 0 | Prover orchestration for the pilfflonk backend: its file types, instances, stag… |
+| 2026-10-28 11:51:01 | [kernel-btree](https://crates.io/crates/kernel-btree) | 0.1.0 | 0 | Ordered map for no_std that never panics or aborts on allocation failure: atomi… |
+| 2026-10-28 11:51:18 | [ic-call](https://crates.io/crates/ic-call) | 0.7.3 | 0 | Owned and borrowed one-shot IC calls through IC Platform's shared runtime |
+| 2026-10-28 11:55:23 | [zramctl-inspect](https://crates.io/crates/zramctl-inspect) | 1.0.3 | 0 | Strict configuration file inspection for zramctl-rs |
+| 2026-10-28 11:55:41 | [formatjs_intl_datetimeformat](https://crates.io/crates/formatjs_intl_datetimeformat) | 0.1.0 | 0 | DateTimeFormat arithmetic and owned CLDR records |
+| 2026-10-28 11:57:10 | [mdeer](https://crates.io/crates/mdeer) | 0.4.2 | 0 | Lightweight markdown reader and editor |
+| 2026-10-28 11:59:05 | [yamlly-core](https://crates.io/crates/yamlly-core) | 0.0.3 | 0 | Core schema loader, form tree builder, state engine, and YAML emitter for yamlly |
+| 2026-10-28 11:59:20 | [yamlly-cli](https://crates.io/crates/yamlly-cli) | 0.0.3 | 0 | yamlly — An interactive terminal UI (TUI) for building and editing Kubernetes Y… |
+| 2026-10-28 11:59:22 | [midici](https://crates.io/crates/midici) | 0.0.1 | 0 | MIDI Capability Inquiry (MIDI-CI 1.2) and Property Exchange: sans-io, no_std, n… |
+| 2026-10-28 12:03:05 | [minnowop](https://crates.io/crates/minnowop) | 0.1.0 | 0 | A lightweight arithmetic expression evaluator |
+| 2026-10-28 12:05:39 | [formatjs_intl_datetimeformat_calendars](https://crates.io/crates/formatjs_intl_datetimeformat_calendars) | 0.1.0 | 0 | Optional calendar providers for native DateTimeFormat |
+| 2026-10-28 12:05:55 | [quip-id](https://crates.io/crates/quip-id) | 0.1.0 | 0 | Ask id.quip.network whether a provider may run a consumer's job. |
+| 2026-10-28 12:15:39 | [formatjs_intl_durationformat](https://crates.io/crates/formatjs_intl_durationformat) | 0.1.0 | 0 | Native ECMA-402 DurationFormat records and formatting |
+| 2026-10-28 12:16:05 | [nuclei-macros](https://crates.io/crates/nuclei-macros) | 0.5.0 | 0 | Attribute macros for the nuclei runtime |
+| 2026-10-28 12:17:41 | [rpi-edit-diagnostics](https://crates.io/crates/rpi-edit-diagnostics) | 0.1.0 | 0 | Compiler-style edit tool for the rpi agent: exact matching plus copyable diagno… |
+| 2026-10-28 12:17:58 | [omoikane](https://crates.io/crates/omoikane) | 0.2.0 | 0 | Local, hybrid-search memory for AI coding agents. One binary, one SQLite file. |
 
 ## Data source
 

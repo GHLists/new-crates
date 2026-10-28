@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T11:20:10.537742Z,appstruct-core,0.2.0,0,0,https://github.com/wsafight/app-struct,"Pure naming, query, and resource algorithms shared by AppStruct tools and generated backends"
+2026-10-28T11:22:02.971796Z,appstruct-schema,0.2.0,0,0,https://github.com/wsafight/app-struct,Database schema contracts and deterministic SQL snapshots for AppStruct
+2026-10-28T11:24:49.123027Z,captions,0.1.0,0,0,https://github.com/Zelenov/sonisub,"Words with timing → cues → SRT, WebVTT, ASS, Premiere Pro transcript"
+2026-10-28T11:25:40.307362Z,formatjs_intl_listformat,0.1.0,0,0,https://github.com/formatjs/formatjs,ECMA-402 ListFormat with caller-loaded CLDR patterns
+2026-10-28T11:31:49.701109Z,warpin-transport,0.2.11,0,0,https://github.com/time-origin/warpin-rs-common,"Bounded Tokio TCP/UDP transports, framing and verified TLS"
+2026-10-28T11:32:02.6057Z,warpin-mqtt,0.2.11,0,0,https://github.com/time-origin/warpin-rs-common,Caller-driven MQTT 3.1.1 and 5.0 sessions with bounded queues and TLS
+2026-10-28T11:32:10.029433Z,warpin-modbus,0.2.11,0,0,https://github.com/time-origin/warpin-rs-common,Validated Modbus TCP and RTU clients with explicit register layouts
+2026-10-28T11:35:40.974113Z,formatjs_intl_pluralrules,0.1.0,0,0,https://github.com/formatjs/formatjs,ECMA-402 PluralRules with caller-loaded CLDR data and ICU4X
+2026-10-28T11:43:37.607648Z,nativekt,4.0.0,0,0,https://github.com/husker-dev/native-kt,Build-time Native-Kt bindings generation with a bundled CLI
+2026-10-28T11:45:40.25992Z,formatjs_intl_numberformat,0.1.0,0,0,https://github.com/formatjs/formatjs,ECMA-402 NumberFormat with on-demand CLDR locale data
+2026-10-28T11:50:42.472066Z,proofman-pilfflonk,1.4.0-alpha,0,0,https://github.com/0xPolygonHermez/pil2-proofman,"Prover orchestration for the pilfflonk backend: its file types, instances, stage loop and proof output"
+2026-10-28T11:51:01.55183Z,kernel-btree,0.1.0,0,0,https://github.com/radkum/kernel-btree,"Ordered map for no_std that never panics or aborts on allocation failure: atomic try_insert, allocation-free remove, builds with no_global_oom_handling."
+2026-10-28T11:51:18.337961Z,ic-call,0.7.3,0,0,https://github.com/dragginzgame/ic-platform,Owned and borrowed one-shot IC calls through IC Platform's shared runtime
+2026-10-28T11:55:23.727606Z,zramctl-inspect,1.0.3,0,0,https://gitlab.com/celestifyx/zramctl-rs,Strict configuration file inspection for zramctl-rs
+2026-10-28T11:55:41.40983Z,formatjs_intl_datetimeformat,0.1.0,0,0,https://github.com/formatjs/formatjs,DateTimeFormat arithmetic and owned CLDR records
+2026-10-28T11:57:10.474798Z,mdeer,0.4.2,0,0,https://github.com/philippschmalen/mdeer,Lightweight markdown reader and editor
+2026-10-28T11:59:05.427234Z,yamlly-core,0.0.3,0,0,https://github.com/marceleno1717/yamlly,"Core schema loader, form tree builder, state engine, and YAML emitter for yamlly"
+2026-10-28T11:59:20.115993Z,yamlly-cli,0.0.3,0,0,https://github.com/marceleno1717/yamlly,yamlly — An interactive terminal UI (TUI) for building and editing Kubernetes YAML manifests
+2026-10-28T11:59:22.283628Z,midici,0.0.1,0,0,https://github.com/hxphsts/midici,"MIDI Capability Inquiry (MIDI-CI 1.2) and Property Exchange: sans-io, no_std, no-alloc Responder and Initiator"
+2026-10-28T12:03:05.671352Z,minnowop,0.1.0,0,0,https://github.com/Mher-DeLight/minnowrust,A lightweight arithmetic expression evaluator
+2026-10-28T12:05:39.011295Z,formatjs_intl_datetimeformat_calendars,0.1.0,0,0,https://github.com/formatjs/formatjs,Optional calendar providers for native DateTimeFormat
+2026-10-28T12:05:55.628512Z,quip-id,0.1.0,0,0,https://gitlab.com/quip.network/id.quip.network,Ask id.quip.network whether a provider may run a consumer's job.
+2026-10-28T12:15:39.690469Z,formatjs_intl_durationformat,0.1.0,0,0,https://github.com/formatjs/formatjs,Native ECMA-402 DurationFormat records and formatting
+2026-10-28T12:16:05.026349Z,nuclei-macros,0.5.0,0,0,https://github.com/vertexclique/nuclei,Attribute macros for the nuclei runtime
+2026-10-28T12:17:41.593025Z,rpi-edit-diagnostics,0.1.0,0,0,https://github.com/pi-rust/rpi-package,Compiler-style edit tool for the rpi agent: exact matching plus copyable diagnostics
+2026-10-28T12:17:58.368962Z,omoikane,0.2.0,0,0,https://github.com/marcmayol/omoikane,"Local, hybrid-search memory for AI coding agents. One binary, one SQLite file."
