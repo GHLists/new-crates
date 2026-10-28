@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T22:28:02.22187Z,torctl,0.5.8,0,0,,Redirect system traffic through the Tor network
+2026-10-28T22:29:58.569452Z,pautinka-core,0.1.0,0,0,https://github.com/hexqnt/pautinka,"Geometry, placement and routing for network diagrams, independent of egui"
+2026-10-28T22:30:00.449571Z,pautinka-egui,0.1.0,0,0,https://github.com/hexqnt/pautinka,Interactive graph canvas for egui with borrowed graph data
+2026-10-28T22:30:02.373662Z,pautinka,0.1.0,0,0,https://github.com/hexqnt/pautinka,Graph diagram geometry with an optional interactive egui canvas
+2026-10-28T22:31:12.632066Z,zetasketch,0.1.0,0,0,https://github.com/Flip-to/zetasketch-rs,Byte-compatible Rust port of Google ZetaSketch HyperLogLog++ (the sketch format behind BigQuery HLL_COUNT)
+2026-10-28T22:32:16.44855Z,statac-avif-sys,0.1.0,0,0,https://git.statac.dev/statac/statac,"libavif 1.4.2 with libaom 3.15.1, built from vendored source, encode only"
+2026-10-28T22:32:17.996171Z,statac-minijinja,3.0.1,0,0,https://git.statac.dev/statac/statac,"MiniJinja 3.0.1, by Armin Ronacher, changed for Statac"
+2026-10-28T22:33:41.275385Z,tari-libtor-derive,0.1.2,0,0,https://github.com/tari-project/tari-libtor,Internal #[derive] macros for libtor
+2026-10-28T22:33:48.591294Z,tari-libtor-src,49.15.2+0.4.9.15,0,0,https://github.com/tari-project/tari-libtor,Source code of Tor and Libevent for tari-libtor-sys (Tari fork of libtor-src)
+2026-10-28T22:33:52.83947Z,tari-libtor-sys,49.15.2+0.4.9.x,0,0,https://github.com/tari-project/tari-libtor,Rust crate that internally compiles Tor and its dependencies (Tari fork of libtor-sys)
+2026-10-28T22:33:55.313583Z,tari-libtor-core,49.15.2+0.4.9.x,0,0,https://github.com/tari-project/tari-libtor,Bundle and run Tor inside your own project (Tari fork of libtor)
+2026-10-28T22:35:39.780443Z,fuyubot-plugin-api,0.1.1,0,0,https://github.com/CatMoeCircle/FuyuBot-SDK,插件作者门面：fuyubot-abi 的安全包装与版本协商
+2026-10-28T22:35:51.435999Z,fuyubot-sdk-native,0.1.1,0,0,https://github.com/CatMoeCircle/FuyuBot-SDK,脚本插件的原生桥：脚本进程里被 ctypes / bun:ffi 加载，读写 stdio 与宿主通信
+2026-10-28T22:36:07.469453Z,fuyubot-sdk-script,0.1.1,0,0,https://github.com/CatMoeCircle/FuyuBot-SDK,脚本插件桥：把 Python / JS 脚本包成 fuyubot cdylib
+2026-10-28T22:36:24.795692Z,fuyubot-sdk-host,0.1.1,0,0,https://github.com/CatMoeCircle/FuyuBot-SDK,中间插件的宿主侧共享逻辑：扫目录、起脚本进程、stdio 桥接、子作用域
+2026-10-28T22:37:15.187435Z,loft-common,2.3.0-alpha.1,0,0,https://github.com/Ask-Loft/loft,"What Loft's formats share: the reader and writer of their strict YAML subset, the key type and the UTC time"
+2026-10-28T22:37:21.290613Z,loft-ports,2.3.0-alpha.1,0,0,https://github.com/Ask-Loft/loft,"The ports Loft's stores share: a journaled save, the git command runner and the clock"
+2026-10-28T22:37:29.518087Z,yardlog,2.3.0-alpha.1,0,0,https://github.com/Ask-Loft/loft,"The yardlog format: the model of Yard Log, its records and keys, the rules a write is held to, its canonical YAML and the merge of two copies"
+2026-10-28T22:37:34.238678Z,yardlog-store,2.3.0-alpha.1,0,0,https://github.com/Ask-Loft/loft,"The store of Yard Log: a branch's Yard Log under `.yard/`, written one write at a time through a journal in git's own directory, and the machine's state in `~/.yard/`"
+2026-10-28T22:41:33.008499Z,pyskani,0.3.0,0,0,https://github.com/althonos/pyskani,"PyO3 bindings and Python interface to skani, a method for fast fast genomic identity calculation using sparse chaining."
+2026-10-28T22:42:30.595175Z,cubek-attention-backward,0.4.0-pre.1,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-attention-backward,CubeK: Attention Backward Kernels
+2026-10-28T22:43:00.217311Z,florn-guest-network,0.2.0,0,0,https://github.com/nabbisen/florn,"The guest SDK for the router world of RFC 008 (florn:network@0.1.0): bindings, the Router trait, link-info"
+2026-10-28T22:43:09.511437Z,florn-domain-network,0.2.0,0,0,https://github.com/nabbisen/florn,"The network domain of RFC 008: links and lans over interfaces, frames with delay, serialisation, jitter and loss, link and node interventions, the router contract's imports, the blackhole built-in"
+2026-10-28T22:43:44.252471Z,athanor-core,0.1.0,0,0,https://github.com/pinguxx/athanor,"Core alchemical primitives, traits, errors, and context for the Athanor agentic framework"
+2026-10-28T22:44:12.460866Z,athanor-macros,0.1.0,0,0,https://github.com/pinguxx/athanor,Procedural macros synthesizing JSON schemas and Reagents for the Athanor agentic framework
+2026-10-28T22:44:22.003896Z,vino-user-interface,0.1.0,0,0,https://github.com/karanshukla/vinoUserInterface,"The egui theme and widgets shared by vinoSearch, vinoWhisper and vinoSpeak"
+2026-10-28T22:44:46.420204Z,athanor-crucible,0.1.0,0,0,https://github.com/pinguxx/athanor,"SQLite-backed event store, state persistence, and time-travel replay for the Athanor agentic framework"
+2026-10-28T22:45:16.391747Z,athanor-alembic,0.1.0,0,0,https://github.com/pinguxx/athanor,WebAssembly sandboxing runtime with fuel metering and zero-access WASI for Athanor agents
+2026-10-28T22:45:45.284048Z,athanor-mcp,0.1.0,0,0,https://github.com/pinguxx/athanor,Bidirectional Model Context Protocol (MCP 2024-11-05+) gateway for Athanor agents
+2026-10-28T22:45:53.21183Z,walship,0.1.1,0,0,https://github.com/tissue-systems/walship,Ship libSQL WAL frames to a warm replica on another machine
+2026-10-28T22:47:25.797136Z,sm-crates,1.0.0,0,0,https://github.com/slash-mark-dev/crates-suite,"Crates.io Suite: 25 advanced Rust package intelligence tools (soundness, compile-time supply chain, features, build performance, API evolution and ecosystem signals) on live crates.io data."
+2026-10-28T22:53:58.843108Z,athanor-rag,0.1.0,0,0,https://github.com/pinguxx/athanor,Spagyric in-process vector store and embedded RAG subsystem for Athanor agents
+2026-10-28T22:57:24.609218Z,luciola-transfer,0.8.0,0,0,https://github.com/kexuejin/luciola,"Chunked file transfer data plane (offset-addressed writes, ACK prefix, SHA-256 receipt)"
+2026-10-28T22:57:28.065483Z,rs-paste4sqlite,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-paste4sqlite,Paste SQLite rows from stdin to a database.
+2026-10-28T22:58:40.057454Z,luciola-tunnel,0.8.0,0,0,https://github.com/kexuejin/luciola,"LAN TCP multiplexing (mux v2 with per-channel flow control, keepalive, remote forward, UDP mapping and hostname targets over a luciola SecureStream"
+2026-10-28T23:00:40.989592Z,fireline,0.0.0,0,0,https://github.com/ThinkersJournal/fireline,"Reserved name: the interface crates (both sides of each interface) between Fuel and the other ML projects, one crate per interface. Placeholder, no functionality yet."
+2026-10-28T23:03:09.934737Z,tell-tail,0.2.0,0,0,https://github.com/ding-labs/tell-tail,Bounded-memory log throughput and severity monitor
+2026-10-28T23:03:57.825718Z,athanor-opus,0.1.0,0,0,https://github.com/pinguxx/athanor,Durable directed acyclic graph (DAG) workflow engine with event-sourced checkpointing for Athanor
+2026-10-28T23:06:52.393596Z,bun_vt,1.4.7,0,0,https://github.com/aphrody-labs/bun,"Headless VT/ANSI screen (cell grid, scrollback, cursor) behind Bun.TerminalScreen"
+2026-10-28T23:10:09.900915Z,gitrs-mcp,0.1.0,0,0,https://github.com/prasenjit-net/gitrs-mcp,"A local-only Git MCP server built on gitoxide: structured, git-compatible tools, resources and prompts for AI assistants"
+2026-10-28T23:13:58.878114Z,athanor-atelier,0.1.0,0,0,https://github.com/pinguxx/athanor,Embedded Dev Studio visualizer and observability server for Athanor agents
