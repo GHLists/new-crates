@@ -8,46 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 00:18 UTC
+## Latest list — 2026-10-28 01:20 UTC
 
-New crates published between 2026-10-27 23:19 UTC and 2026-10-28 00:18 UTC.
+New crates published between 2026-10-28 00:18 UTC and 2026-10-28 01:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-28T00-18-30-519296Z.csv)
+[Full CSV](data/new-crates-2026-10-28T01-20-58-525147Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-27 23:21:27 | [dorm-core](https://crates.io/crates/dorm-core) | 0.2.0 | 0 | A Django-shaped, compile-time-typed ORM for PostgreSQL on tokio-postgres: Query… |
-| 2026-10-27 23:21:48 | [dorm-derive](https://crates.io/crates/dorm-derive) | 0.2.0 | 0 | The #[derive(Model)] macro for DORM — turns a struct into a model and emits its… |
-| 2026-10-27 23:22:05 | [dorm-migrations](https://crates.io/crates/dorm-migrations) | 0.2.0 | 0 | Migration generation and the versioned migrator for DORM — reviewable DDL from… |
-| 2026-10-27 23:26:25 | [hharness-mcp](https://crates.io/crates/hharness-mcp) | 0.1.0 | 0 | The Stage-3 fixture MCP surface (spec section 7.3, R-2.11.3^0; ticket S3.1; ADR… |
-| 2026-10-27 23:37:43 | [hharness-acp](https://crates.io/crates/hharness-acp) | 0.1.0 | 0 | The ACP session boundary (spec section 5d.4, R-2.5.4 C1; ticket S4.5b): the hh-… |
-| 2026-10-27 23:40:45 | [coworkingview](https://crates.io/crates/coworkingview) | 0.1.0 | 0 | Client and CLI (`cwv`) for the CoworkingView Price Index (flexible-office price… |
-| 2026-10-27 23:41:00 | [tuiscotti](https://crates.io/crates/tuiscotti) | 0.4.0 | 0 | Rust TUI visual-regression toolkit: pure-view capture, versioned samples, froze… |
-| 2026-10-27 23:41:22 | [tuiscotti-cli](https://crates.io/crates/tuiscotti-cli) | 0.4.0 | 0 | Offline CLI for tuiscotti visual snapshots: check, accept, render, report |
-| 2026-10-27 23:41:51 | [dorm-cli](https://crates.io/crates/dorm-cli) | 0.3.0 | 0 | The DORM project manager (binary `dorm`): scaffold a project and manage a live… |
-| 2026-10-27 23:47:08 | [compmd-markdown](https://crates.io/crates/compmd-markdown) | 0.0.1 | 0 | markdown-rs with CompMD's syntax (component lines, inline components, interpola… |
-| 2026-10-27 23:49:02 | [hharness-cli](https://crates.io/crates/hharness-cli) | 0.1.0 | 0 | The C0 attended CLI slice R-2.11.1^0b — a generated client and renderer over hh… |
-| 2026-10-27 23:56:20 | [trusty-architect](https://crates.io/crates/trusty-architect) | 0.1.0 | 0 | Leaf library for the trusty-mpm Architect: tmux access behind a trait and the g… |
-| 2026-10-28 00:00:19 | [hharness-results](https://crates.io/crates/hharness-results) | 0.1.0 | 0 | The C0/Stage-3 results store slice (spec §6.5, R-2.10.5⁰; ticket S3.4b; ADR-016… |
-| 2026-10-28 00:00:29 | [arky](https://crates.io/crates/arky) | 0.1.0 | 0 | Markdown documents as a typed tree |
-| 2026-10-28 00:00:35 | [hharness-analysis](https://crates.io/crates/hharness-analysis) | 0.1.0 | 0 | The C0/Stage-3 §6.4 estimator kernel (R-2.10.4⁰ᵇ; ticket S3.4c; ADR-0157/0158/0… |
-| 2026-10-28 00:01:37 | [arky-store](https://crates.io/crates/arky-store) | 0.1.0 | 0 | Where arky keeps documents: the storage interface and its stores |
-| 2026-10-28 00:02:43 | [rust-widgets-font](https://crates.io/crates/rust-widgets-font) | 2.9.4 | 0 | The embedded font payloads behind rust_widgets' fonts-* features, kept out of t… |
-| 2026-10-28 00:02:53 | [arky-cli](https://crates.io/crates/arky-cli) | 0.1.0 | 0 | The arky command line: get and write markdown documents |
-| 2026-10-28 00:04:49 | [syspm](https://crates.io/crates/syspm) | 0.0.0 | 0 | SysML v2 package manager (under development) |
-| 2026-10-28 00:07:14 | [opensd-ui](https://crates.io/crates/opensd-ui) | 1.2.0 | 0 | UI кит и мост для HTML-страниц плагинов Open Stream Deck |
-| 2026-10-28 00:08:56 | [spr-macros](https://crates.io/crates/spr-macros) | 0.1.0 | 0 | Derive macros for SPR zero-knowledge programs. |
-| 2026-10-28 00:09:00 | [spr-program](https://crates.io/crates/spr-program) | 0.1.0 | 0 | SPP SDK for Solana programs: the spr-instruction builders and derivations, comp… |
-| 2026-10-28 00:09:36 | [seiza-analysis](https://crates.io/crates/seiza-analysis) | 0.1.1 | 0 | Sampled project quality and integration-depth analysis for astrophotography |
-| 2026-10-28 00:10:16 | [tongs](https://crates.io/crates/tongs) | 0.1.0 | 0 | A fast Rust HMMER 3.4, forked from hmmer-pure-rs |
-| 2026-10-28 00:11:59 | [hharness-embed](https://crates.io/crates/hharness-embed) | 0.1.0 | 0 | The hh-embed/1 embedding boundary (spec §7.4, R-2.11.4⁰ᵇ; ticket S1.25). EmbedS… |
-| 2026-10-28 00:14:44 | [biffix-core](https://crates.io/crates/biffix-core) | 0.1.0 | 0 | biffix RunEvent contract and reducers (canonical source of the wire schema). |
-| 2026-10-28 00:14:46 | [biffix-workflow](https://crates.io/crates/biffix-workflow) | 0.1.0 | 0 | biffix workflow authoring and registration: form schema, manifest, validation,… |
-| 2026-10-28 00:14:48 | [biffix-api](https://crates.io/crates/biffix-api) | 0.1.0 | 0 | biffix — the HTTP wire contract (request/response DTOs) shared by the backend a… |
-| 2026-10-28 00:14:50 | [biffix](https://crates.io/crates/biffix) | 0.1.0 | 0 | Command-line client for biffix, a self-hostable control plane for Snakemake and… |
-| 2026-10-28 00:16:50 | [lvgl-rust-sys](https://crates.io/crates/lvgl-rust-sys) | 0.1.0 | 0 | Low-level no_std Rust FFI bindings to LVGL 9, the embedded graphics library |
-| 2026-10-28 00:17:08 | [lvgl-rust-gen](https://crates.io/crates/lvgl-rust-gen) | 0.1.0 | 0 | Build-time generator of the safe LVGL bindings used by lvgl-rust |
-| 2026-10-28 00:18:14 | [lvgl-rust](https://crates.io/crates/lvgl-rust) | 0.1.0 | 0 | Safe, generated no_std Rust bindings to LVGL 9 |
+| 2026-10-28 00:23:23 | [hharness-kernel](https://crates.io/crates/hharness-kernel) | 0.1.0 | 0 | The E1 reference kernel binary (Stage-0 skeleton): schema export, the stdio JSO… |
+| 2026-10-28 00:34:45 | [hharness-mcp-lab](https://crates.io/crates/hharness-mcp-lab) | 0.1.0 | 0 | The C1 `hh-lab/1` MCP server slice (spec §7.3, R-2.11.3¹; ticket S4.11; ADR-017… |
+| 2026-10-28 00:38:39 | [chinese-ime-lm](https://crates.io/crates/chinese-ime-lm) | 0.2.0 | 0 | A character-level language model for reranking Chinese input method candidates |
+| 2026-10-28 00:38:41 | [solana_kit_pyth](https://crates.io/crates/solana_kit_pyth) | 0.0.0 | 0 | Reserved off-chain Pyth client crate for the portable Solana Kit SDK |
+| 2026-10-28 00:39:16 | [hid-debug](https://crates.io/crates/hid-debug) | 0.1.0 | 0 | USB HID debug tool |
+| 2026-10-28 00:41:42 | [signalhouse-sms](https://crates.io/crates/signalhouse-sms) | 1.5.1 | 0 | Official Rust SDK for the SignalHouse platform |
+| 2026-10-28 00:45:00 | [aptove-bridge-core](https://crates.io/crates/aptove-bridge-core) | 0.2.9 | 0 | Core library for the Aptove bridge |
+| 2026-10-28 00:45:09 | [ccfddl-tui](https://crates.io/crates/ccfddl-tui) | 0.2.0 | 0 | Terminal UI for CCF-ranked conference deadlines, with a conference recommendati… |
+| 2026-10-28 00:46:03 | [hharness-subagent](https://crates.io/crates/hharness-subagent) | 0.1.0 | 0 | The C1/Stage-4 subagent kernel slice (spec §5e.3, R-2.6.3¹ + R-2.1.6¹; ticket S… |
+| 2026-10-28 00:49:04 | [async-store](https://crates.io/crates/async-store) | 0.1.0 | 0 | A lightweight, TTL-based, async resource storage adn lifecycle handler created… |
+| 2026-10-28 00:57:14 | [radiacode-lib](https://crates.io/crates/radiacode-lib) | 0.2.0 | 0 | RadiaCode gamma spectrometer protocol, USB and Bluetooth LE transports, device… |
+| 2026-10-28 00:57:33 | [hharness-orchestrator](https://crates.io/crates/hharness-orchestrator) | 0.1.0 | 0 | The C3/Stage-4 sub-agent orchestrator class (spec §5e.3, R-2.6.3; ticket S4.6;… |
+| 2026-10-28 01:05:44 | [thruput-event](https://crates.io/crates/thruput-event) | 0.58.0 | 0 | Event trait and topic types for Thruput smart contracts |
+| 2026-10-28 01:05:50 | [thruput-exn](https://crates.io/crates/thruput-exn) | 0.58.0 | 0 | Exception trait and abort wire format for Thruput smart contracts |
+| 2026-10-28 01:05:56 | [thruput-storage-cost](https://crates.io/crates/thruput-storage-cost) | 0.58.0 | 0 | Storage cost calculation for Thruput smart contracts |
+| 2026-10-28 01:06:01 | [thruput-contract-util](https://crates.io/crates/thruput-contract-util) | 0.58.0 | 0 | Utility functions for contract development |
+| 2026-10-28 01:06:08 | [thruput-contract-spec](https://crates.io/crates/thruput-contract-spec) | 0.58.0 | 0 | Canonical contract spec model for Thruput contracts |
+| 2026-10-28 01:08:52 | [hharness-varhost](https://crates.io/crates/hharness-varhost) | 0.1.0 | 0 | The C0/Stage-2 out-of-process variant host — the kernel side of `plugin_abi/1`… |
+| 2026-10-28 01:12:09 | [thruput-sys](https://crates.io/crates/thruput-sys) | 0.58.0 | 0 | Bindings for the external Thruput test environment |
+| 2026-10-28 01:20:12 | [hharness-web](https://crates.io/crates/hharness-web) | 0.1.0 | 0 | The C1 read-only web instrument (spec §7.2, R-2.11.2¹; S4.10). A pure projectio… |
+| 2026-10-28 01:20:25 | [hharness-xcheck](https://crates.io/crates/hharness-xcheck) | 0.1.0 | 0 | The cross-implementation replay/checker packaging (spec §10.7; ticket R2.21; AD… |
 
 ## Data source
 

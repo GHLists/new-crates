@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T00:23:23.914795Z,hharness-kernel,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The E1 reference kernel binary (Stage-0 skeleton): schema export, the stdio JSON-RPC hello/ContractIdentity negotiation, and self-check subcommands. No runtime logic beyond the boundary skeleton (ADR…"
+2026-10-28T00:34:45.354229Z,hharness-mcp-lab,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C1 `hh-lab/1` MCP server slice (spec §7.3, R-2.11.3¹; ticket S4.11; ADR-0173/0174/0175, ADR-0184 D2, ADR-0303). The kernel-side Lab surface over stdio and Streamable HTTP: the read/launch/experim…"
+2026-10-28T00:38:39.510897Z,chinese-ime-lm,0.2.0,0,0,https://github.com/metasequoiaime/chinese-ime-lm,A character-level language model for reranking Chinese input method candidates
+2026-10-28T00:38:41.452583Z,solana_kit_pyth,0.0.0,0,0,https://github.com/pina-rs/solana_kit,Reserved off-chain Pyth client crate for the portable Solana Kit SDK
+2026-10-28T00:39:16.94958Z,hid-debug,0.1.0,0,0,https://codeberg.org/ericseppanen/usb-hid-utils,USB HID debug tool
+2026-10-28T00:41:42.323296Z,signalhouse-sms,1.5.1,0,0,https://github.com/signalhouse-sms/sdk-rust,Official Rust SDK for the SignalHouse platform
+2026-10-28T00:45:00.427605Z,aptove-bridge-core,0.2.9,0,0,https://github.com/aptove/bridge,Core library for the Aptove bridge
+2026-10-28T00:45:09.21897Z,ccfddl-tui,0.2.0,0,0,https://github.com/tkzzzzzz6/ccfddl-tui-rs,"Terminal UI for CCF-ranked conference deadlines, with a conference recommendation agent"
+2026-10-28T00:46:03.814957Z,hharness-subagent,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C1/Stage-4 subagent kernel slice (spec §5e.3, R-2.6.3¹ + R-2.1.6¹; ticket S4.6): the one kernel operation `spawn` composing delegate + allocate + derive + the child writer lease atomically (idemp…"
+2026-10-28T00:49:04.089288Z,async-store,0.1.0,0,0,https://github.com/coolmint859/async_store,"A lightweight, TTL-based, async resource storage adn lifecycle handler created on top of tokio."
+2026-10-28T00:57:14.888416Z,radiacode-lib,0.2.0,0,0,https://github.com/ngxyzaudax/radiacode-lib,"RadiaCode gamma spectrometer protocol, USB and Bluetooth LE transports, device discovery, and spectrum / dose-rate parsing"
+2026-10-28T00:57:33.655291Z,hharness-orchestrator,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C3/Stage-4 sub-agent orchestrator class (spec §5e.3, R-2.6.3; ticket S4.6; ADR-0186): the `orchestrator` component class binding the closed `TopologyPreset` catalogue (T0 `single`, T1 `orchestrat…"
+2026-10-28T01:05:44.36753Z,thruput-event,0.58.0,0,0,https://github.com/thruputchain/thruput-sdk-rs,Event trait and topic types for Thruput smart contracts
+2026-10-28T01:05:50.71915Z,thruput-exn,0.58.0,0,0,https://github.com/thruputchain/thruput-sdk-rs,Exception trait and abort wire format for Thruput smart contracts
+2026-10-28T01:05:56.421485Z,thruput-storage-cost,0.58.0,0,0,https://github.com/thruputchain/thruput-sdk-rs,Storage cost calculation for Thruput smart contracts
+2026-10-28T01:06:01.763712Z,thruput-contract-util,0.58.0,0,0,https://github.com/thruputchain/thruput-sdk-rs,Utility functions for contract development
+2026-10-28T01:06:08.238184Z,thruput-contract-spec,0.58.0,0,0,https://github.com/thruputchain/thruput-sdk-rs,Canonical contract spec model for Thruput contracts
+2026-10-28T01:08:52.763181Z,hharness-varhost,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C0/Stage-2 out-of-process variant host — the kernel side of `plugin_abi/1` for `subprocess_confined` variants (spec §8.4, R-2.12.2; ticket S2.2; ADR-0180/0181/0182). Session lifecycle over the li…"
+2026-10-28T01:12:09.972317Z,thruput-sys,0.58.0,0,0,https://github.com/thruputchain/thruput-sdk-rs,Bindings for the external Thruput test environment
+2026-10-28T01:20:12.163383Z,hharness-web,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C1 read-only web instrument (spec §7.2, R-2.11.2¹; S4.10). A pure projection client over hh-embed/1 binding (c): no state of record, every view derived through canonical ops, all writes named ker…"
+2026-10-28T01:20:25.984692Z,hharness-xcheck,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,The cross-implementation replay/checker packaging (spec §10.7; ticket R2.21; ADR-0353): the committed golden corpora exported as a language-neutral `hh-xcheck-bundle/1` replay bundle — identity trees…
