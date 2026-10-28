@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T19:22:04.133983Z,officekit,0.1.0,0,0,https://github.com/tixena/officekit,"Office Open XML documents, .docx, .xlsx and .pptx, in either conformance class: their part modules, read, edit, write and validation"
+2026-10-28T19:23:03.930154Z,nux-bindgen,0.1.0,0,0,https://codeberg.org/AntonWetzel/Nux,Use nushell as a command runner
+2026-10-28T19:23:49.717178Z,covalence-lib-config,0.1.0-dev.7,0,0,https://github.com/hiloopai/covalence,Application directories and typed TOML configuration
+2026-10-28T19:24:46.398037Z,rust-tui-manager-core,0.2.0,0,0,https://github.com/polblancoo/tui_comandNote,"Modelos y contratos de API compartidos por rust-tui-manager (servidor, TUI y cliente Tauri)"
+2026-10-28T19:27:25.640889Z,mkdmg,0.1.1,0,0,https://github.com/balthild/mkdmg,Create Apple Disk Image without relying on Finder GUI
+2026-10-28T19:28:22.699864Z,clankerdiff-lspd,0.6.0,0,0,https://github.com/jcarver989/diff,A daemon that shares language servers across clients working in the same workspace
+2026-10-28T19:28:54.809723Z,clankerdiff-symbols,0.6.0,0,0,https://github.com/jcarver989/diff,"Symbol definitions, references and uses across the files in a diff"
+2026-10-28T19:31:42.316443Z,officekit-markdown,0.1.0,0,0,https://github.com/tixena/officekit,"Markdown for officekit: a Word file from a markdown document, and a markdown document from a Word file"
+2026-10-28T19:31:48.103485Z,rust-tui-manager-server,0.2.0,0,0,https://github.com/polblancoo/tui_comandNote,"Servidor multiusuario (axum + SQLite + WebSocket) de rust-tui-manager: equipos, tareas, roles e invitaciones"
+2026-10-28T19:34:17.980512Z,shieldspec-core,0.2.0,0,0,https://github.com/Ay-obami/ShieldSpec,Proposal-level privacy policy and regression oracle for Zcash wallets
+2026-10-28T19:34:38.570688Z,ltk_wwise,0.1.0,0,0,,Wwise bank and WPK package reading/writing for League Toolkit
+2026-10-28T19:36:25.639707Z,tunnr-etcd,0.2.0,0,0,https://git.gunnar.rs/nordisk/tunnr-etcd,"An etcd-shaped key-value store on redb: revisions, transactions, leases, watch from a revision, compaction, and a twin that acks every write before it returns. Built in as a library, or on its own ho…"
+2026-10-28T19:36:44.554431Z,cubecl-tile,0.12.0-pre.1,0,0,https://github.com/tracel-ai/cubecl/tree/main/crates/cubecl-tile,"CubeCL Tile: a space cut into tiles, and the operations on them."
+2026-10-28T19:37:51.895244Z,shieldspec-testkit,0.2.0,0,0,https://github.com/Ay-obami/ShieldSpec,Fixtures and builders for ShieldSpec Zcash privacy regression tests
+2026-10-28T19:38:37.974727Z,sealzone,0.1.1,0,0,https://github.com/sealzone/seal,"Seal: use secrets without holding them. Seal a secret for named apps; apps use it through an attested enclave that injects it, never holding it."
+2026-10-28T19:38:57.796446Z,sealzone-cli,0.1.1,0,0,https://github.com/sealzone/seal,"The `seal` command: seal secrets, administer a Seal tenant (apps, producers, deployments, integrity), verify telemetry, deploy enclaves."
+2026-10-28T19:39:00.406357Z,shieldspec-cli,0.2.0,0,0,https://github.com/Ay-obami/ShieldSpec,CLI and SARIF reporting for ShieldSpec Zcash privacy regression checks
+2026-10-28T19:40:16.838913Z,shieldspec-zcash,0.2.0,0,0,https://github.com/Ay-obami/ShieldSpec,Adapter from real librustzcash proposals to ShieldSpec privacy snapshots
+2026-10-28T19:44:48.003631Z,zmidi-ump,0.1.0-alpha.1,0,0,https://github.com/Zetaohm/zetaohm-midi,"Universal MIDI Packet (UMP) messages for MIDI 2.0 and MIDI 1.0 (M2-104-UM), no_std and no alloc"
+2026-10-28T19:44:54.026814Z,zmidi-ci,0.1.0-alpha.1,0,0,https://github.com/Zetaohm/zetaohm-midi,"MIDI Capability Inquiry (MIDI-CI, M2-101-UM) for MIDI 2.0, no_std and sans-IO"
+2026-10-28T19:44:58.422336Z,zmidi-file,0.1.0-alpha.1,0,0,https://github.com/Zetaohm/zetaohm-midi,MIDI Clip File (MIDI 2.0) and Standard MIDI File 1.0 reader and writer
+2026-10-28T19:45:02.742427Z,zmidi-io,0.1.0-alpha.1,0,0,https://github.com/Zetaohm/zetaohm-midi,"MIDI 1.0 byte streams to and from UMP, UMP Endpoint, Jitter Reduction and Group routing for MIDI 2.0, no_std and no alloc"
+2026-10-28T19:45:07.195743Z,zmidi-net,0.1.0-alpha.1,0,0,https://github.com/Zetaohm/zetaohm-midi,"Network MIDI 2.0 (UDP, M2-124-UM) for MIDI 2.0, no_std, no alloc and sans-IO"
+2026-10-28T19:52:18.885509Z,force-marketingcloud,0.5.0,0,0,https://github.com/madmax983/force-rs,Salesforce Marketing Cloud Engagement REST API client for Rust
+2026-10-28T19:52:20.241628Z,force-lake,0.5.0,0,0,https://github.com/madmax983/force-rs,One-way Salesforce to S3 Tables / Apache Iceberg analytics snapshot sink
+2026-10-28T19:52:41.751035Z,camel-component-mail,0.61.1,0,0,https://github.com/kennycallado/rust-camel,SMTP and IMAP mail component for rust-camel
+2026-10-28T19:53:29.926953Z,zmidi-ble,0.1.0-alpha.1,0,0,https://github.com/Zetaohm/zetaohm-midi,"BLE-MIDI (MIDI over Bluetooth Low Energy) packet codec and GATT data, no_std, no alloc and sans-IO"
+2026-10-28T19:56:18.361695Z,paranoid-auth,0.0.1-pre.0,0,0,https://github.com/vormadev/vorma,Post-quantum authentication with early rejection and authoritative state
+2026-10-28T20:01:37.776892Z,officekit-cli,0.1.0,0,0,https://github.com/tixena/officekit,The officekit command line: inspect and edit Office Open XML documents
+2026-10-28T20:02:39.78568Z,simple-calendar,0.3.0,0,0,https://github.com/andunieee/simple-calendar,A simple desktop calendar application
+2026-10-28T20:03:54.117313Z,zmidi-ci-pe,0.1.0-alpha.1,0,0,https://github.com/Zetaohm/zetaohm-midi,"MIDI-CI Property Exchange (M2-103-UM) for MIDI 2.0, no_std and no alloc"
+2026-10-28T20:04:28.807921Z,invocra-config,0.2.0,0,0,https://github.com/dsszs3333/invocra,"TOML config handling for invocra, a GitLab CI/CD TUI dashboard"
+2026-10-28T20:05:08.539137Z,invocra-storage,0.2.0,0,0,https://github.com/dsszs3333/invocra,"Keyring + offline cache storage for invocra, a GitLab CI/CD TUI dashboard"
+2026-10-28T20:05:16.051644Z,invocra-gitlab,0.2.0,0,0,https://github.com/dsszs3333/invocra,"GitLab REST client used by invocra, a GitLab CI/CD TUI dashboard"
+2026-10-28T20:05:41.115713Z,invocra-tui,0.2.0,0,0,https://github.com/dsszs3333/invocra,"Ratatui dashboard widgets for invocra, a GitLab CI/CD TUI dashboard"
+2026-10-28T20:06:02.886636Z,invocra,0.2.0,0,0,https://github.com/dsszs3333/invocra,Lazygit-style TUI dashboard for GitLab CI/CD pipelines across multiple instances
+2026-10-28T20:14:15.719857Z,zmidi-usb,0.1.0-alpha.1,0,0,https://github.com/Zetaohm/zetaohm-midi,"USB-MIDI 2.0 and 1.0 (USB Device Class Definition for MIDI Devices) codecs and descriptors, no_std, no alloc and sans-IO"
+2026-10-28T20:14:16.187469Z,ehentai,0.1.0,0,0,https://github.com/mnk-works/ehentai-tui,A terminal user interface (TUI) for browsing and viewing e-hentai.org manga
+2026-10-28T20:15:21.166245Z,keyhive_content,0.1.0,0,0,https://github.com/inkandswitch/keyhive,"Keyhive's encrypted content: its format, application secrets, causal envelopes and ciphertext store"
+2026-10-28T20:17:07.568567Z,fuyubot-abi,0.1.0,0,0,https://github.com/CatMoeCircle/Fuyu-Bot,HostApi VTable 定义与插件导出宏
+2026-10-28T20:17:33.952167Z,seyk-embed,0.2.0,0,0,https://github.com/CertaMesh/seyk,Model-independent embedding interfaces and values
+2026-10-28T20:17:37.446769Z,seyk-core,0.2.0,0,0,https://github.com/CertaMesh/seyk,"Local search, evidence and cache engine"
+2026-10-28T20:17:38.631947Z,seyk-embeddinggemma,0.2.0,0,0,https://github.com/CertaMesh/seyk,Local EmbeddingGemma 2 inference
+2026-10-28T20:17:41.136085Z,seyk-stt,0.2.0,0,0,https://github.com/CertaMesh/seyk,"Offline, on-demand Whisper transcription for Seyk"
+2026-10-28T20:17:43.383133Z,seyk,0.2.0,0,0,https://github.com/CertaMesh/seyk,"Local-first hybrid retrieval over private files: meaning, keywords and file names, with exact source locations"
+2026-10-28T20:17:52.622127Z,fuyubot-tdlib-sys,0.1.0,0,0,https://github.com/CatMoeCircle/Fuyu-Bot,TDLib 类型与 FFI 绑定：编译期从 td_api.tl 生成，运行时不做任何生成

@@ -8,65 +8,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 19:19 UTC
+## Latest list — 2026-10-28 20:21 UTC
 
-New crates published between 2026-10-28 18:18 UTC and 2026-10-28 19:19 UTC.
+New crates published between 2026-10-28 19:19 UTC and 2026-10-28 20:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-28T19-19-52-438595Z.csv)
+[Full CSV](data/new-crates-2026-10-28T20-21-29-697442Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-28 18:20:53 | [aad-uia](https://crates.io/crates/aad-uia) | 0.0.1 | 0 | Native Windows UI Automation driver: app discovery, UI description and automati… |
-| 2026-10-28 18:21:15 | [lifeterm](https://crates.io/crates/lifeterm) | 0.1.0 | 0 | Conway's Game of Life in the terminal, with themes, patterns, and configurable… |
-| 2026-10-28 18:23:06 | [webservant](https://crates.io/crates/webservant) | 0.0.0 | 0 | Reserved name: a web server program that works with any Rust web library (built… |
-| 2026-10-28 18:23:42 | [surrealdb-pgwire](https://crates.io/crates/surrealdb-pgwire) | 4.0.0-beta.1 | 0 | PostgreSQL wire protocol (v3.0) server for SurrealDB |
-| 2026-10-28 18:24:20 | [demesne-postgres](https://crates.io/crates/demesne-postgres) | 1.1.0 | 0 | Live-database support for demesne: schema introspection, policy-drift and cover… |
-| 2026-10-28 18:27:37 | [loopbuf](https://crates.io/crates/loopbuf) | 0.1.0 | 0 | A pooled, fixed-capacity ring buffer for feeding bytes to push parsers |
-| 2026-10-28 18:28:53 | [charmander](https://crates.io/crates/charmander) | 0.1.0 | 0 | A hotkey-driven Unicode character picker with favorites and Windows-style Alt c… |
-| 2026-10-28 18:29:25 | [kellnr-cratesio-sync](https://crates.io/crates/kellnr-cratesio-sync) | 6.13.0 | 0 | Kellnr is a self-hosted registry for Rust crates with support for rustdocs and… |
-| 2026-10-28 18:29:36 | [kellnr-filter](https://crates.io/crates/kellnr-filter) | 6.13.0 | 0 | Kellnr is a self-hosted registry for Rust crates with support for rustdocs and… |
-| 2026-10-28 18:30:53 | [aad-probe](https://crates.io/crates/aad-probe) | 0.0.1 | 0 | Read-only capability probes for desktop automation prerequisites |
-| 2026-10-28 18:33:09 | [nespra](https://crates.io/crates/nespra) | 0.1.0 | 0 | Unofficial async Rust client for the Vespa search engine |
-| 2026-10-28 18:33:41 | [surrealdb-mywire](https://crates.io/crates/surrealdb-mywire) | 4.0.0-beta.1 | 0 | MySQL wire protocol server for SurrealDB |
-| 2026-10-28 18:34:16 | [demesne-cli](https://crates.io/crates/demesne-cli) | 1.1.0 | 0 | The demesne command line: validate, emit, introspect, scaffold, check, diff and… |
-| 2026-10-28 18:34:55 | [cudakit](https://crates.io/crates/cudakit) | 0.1.0 | 0 | Driver-only CUDA host stack: context, stream, embedded PTX/cubin modules, buffe… |
-| 2026-10-28 18:34:56 | [cudakit-build](https://crates.io/crates/cudakit-build) | 0.1.0 | 0 | Kernel toolchain for cudakit consumers: builds cuda-oxide kernels to PTX, pins… |
-| 2026-10-28 18:36:39 | [simdlex](https://crates.io/crates/simdlex) | 0.1.1 | 0 | simdjson-style structural indexing as a primitive for any byte-level grammar |
-| 2026-10-28 18:36:44 | [libzwatty](https://crates.io/crates/libzwatty) | 0.0.1 | 0 | Core library powering all zwatty frontends that can also be used indepentently… |
-| 2026-10-28 18:37:41 | [nostr-verify](https://crates.io/crates/nostr-verify) | 0.1.0 | 0 | BIP-340 Schnorr signatures checked in batches, with a cache of parsed keys: Nos… |
-| 2026-10-28 18:37:56 | [zwatty-cli](https://crates.io/crates/zwatty-cli) | 0.0.1 | 0 | Command-line interface for zwatty |
-| 2026-10-28 18:38:17 | [zwatty-tui](https://crates.io/crates/zwatty-tui) | 0.0.1 | 0 | Terminal user interface for zwatty |
-| 2026-10-28 18:40:52 | [aad-control](https://crates.io/crates/aad-control) | 0.0.1 | 0 | Session-scoped desktop and browser control with authenticated stdio transport |
-| 2026-10-28 18:43:16 | [ranma-alacritty-terminal](https://crates.io/crates/ranma-alacritty-terminal) | 0.1.0 | 0 | alacritty_terminal 0.26.0 with emoji presentation (VS16) taking two cells, for… |
-| 2026-10-28 18:44:31 | [demesne-emit-go](https://crates.io/crates/demesne-emit-go) | 1.1.0 | 0 | Emits demesne's Go surface: projections for the Go runtime and the typed framew… |
-| 2026-10-28 18:47:54 | [uison-agent](https://crates.io/crates/uison-agent) | 0.1.1 | 0 | Agent mode for uison programs: an LLM agent reads the meaning of the screen and… |
-| 2026-10-28 18:50:17 | [zhin](https://crates.io/crates/zhin) | 0.1.0-alpha.1 | 0 | Minimal async API wrapper for Lezhin \| metadata, ownership, viewer images, desc… |
-| 2026-10-28 18:50:39 | [zhin-mini](https://crates.io/crates/zhin-mini) | 0.1.0-alpha.1 | 0 | Minimal async API wrapper for Lezhin \| metadata, ownership, viewer images, desc… |
-| 2026-10-28 18:50:54 | [aad-mcp](https://crates.io/crates/aad-mcp) | 0.0.1 | 0 | Model Context Protocol server exposing desktop discovery and automation |
-| 2026-10-28 18:50:57 | [zhin-mini-cli](https://crates.io/crates/zhin-mini-cli) | 0.1.0-alpha.1 | 0 | Minimal async API wrapper for Lezhin \| metadata, ownership, viewer images, desc… |
-| 2026-10-28 18:51:06 | [zhin-cli](https://crates.io/crates/zhin-cli) | 0.1.0-alpha.1 | 0 | Minimal async API wrapper for Lezhin \| metadata, ownership, viewer images, desc… |
-| 2026-10-28 18:51:24 | [zhin-epub](https://crates.io/crates/zhin-epub) | 0.1.0-alpha.1 | 0 | Minimal async API wrapper for Lezhin \| metadata, ownership, viewer images, desc… |
-| 2026-10-28 18:53:04 | [ofdbox-yaserde-derive](https://crates.io/crates/ofdbox-yaserde-derive) | 0.13.1 | 0 | Serialization and deserialization macros |
-| 2026-10-28 18:53:19 | [ofdbox-yaserde](https://crates.io/crates/ofdbox-yaserde) | 0.13.1 | 0 | Serialization and deserialization library |
-| 2026-10-28 18:54:03 | [borg-trace](https://crates.io/crates/borg-trace) | 0.5.0 | 0 | Parse Claude Code / omp transcripts into canonical touch streams |
-| 2026-10-28 18:54:07 | [borg-ai](https://crates.io/crates/borg-ai) | 0.5.0 | 0 | Collective mind for coding-agent drones: CLI and harness hooks |
-| 2026-10-28 18:54:09 | [borg-mesh](https://crates.io/crates/borg-mesh) | 0.5.0 | 0 | The team mind without a server: peer-to-peer sync of a collective's lessons bet… |
-| 2026-10-28 18:54:11 | [borg-web](https://crates.io/crates/borg-web) | 0.5.0 | 0 | A local, live page of a collective's knowledge and usage statistics |
-| 2026-10-28 18:56:38 | [feldera-mtls](https://crates.io/crates/feldera-mtls) | 0.0.1 | 0 | Client certificate identities of Feldera components and the server-side checks |
-| 2026-10-28 18:57:04 | [ossuary-sync](https://crates.io/crates/ossuary-sync) | 0.14.0 | 0 | Copies an ossuary archive to a second place, sending only what the copy lacks |
-| 2026-10-28 18:59:59 | [moonbridge](https://crates.io/crates/moonbridge) | 0.1.2 | 0 | A Debug Adapter Protocol (DAP) wrapper for Lua. |
-| 2026-10-28 19:00:52 | [aad-cli](https://crates.io/crates/aad-cli) | 0.0.1 | 0 | Command line interface for ai-auto-desktop |
-| 2026-10-28 19:05:34 | [ringline-tls](https://crates.io/crates/ringline-tls) | 0.1.0 | 0 | A fork of rustls 0.23 maintained for ringline. |
-| 2026-10-28 19:09:42 | [brokapi-conformance](https://crates.io/crates/brokapi-conformance) | 0.1.0-alpha.9 | 0 | The behaviour scenarios every broker connector of brokapi passes, against its i… |
-| 2026-10-28 19:12:59 | [brokapi-mocks](https://crates.io/crates/brokapi-mocks) | 0.1.0-alpha.9 | 0 | In-process imitations of the brokers of brokapi (BCS, T-Bank, Finam, ALOR, Bybi… |
-| 2026-10-28 19:14:06 | [officekit-xml](https://crates.io/crates/officekit-xml) | 0.1.0 | 0 | The XML and package layer of officekit: element tree, names, values, markup com… |
-| 2026-10-28 19:15:05 | [jgrapht](https://crates.io/crates/jgrapht) | 1.0.0 | 0 | A Rust port of the JGraphT core library, built around graph traits |
-| 2026-10-28 19:15:08 | [officekit-markup-base](https://crates.io/crates/officekit-markup-base) | 0.1.0 | 0 | The typed tree's runtime, and the namespaces the typed tree's cycle depends on |
-| 2026-10-28 19:15:54 | [jgrapht-io](https://crates.io/crates/jgrapht-io) | 1.0.0 | 0 | Graph importers and exporters for jgrapht |
-| 2026-10-28 19:16:16 | [officekit-markup-core](https://crates.io/crates/officekit-markup-core) | 0.1.0 | 0 | The namespaces of the typed tree that reference each other in a cycle |
-| 2026-10-28 19:17:48 | [officekit-markup](https://crates.io/crates/officekit-markup) | 0.1.0 | 0 | The typed tree of officekit: one module per Office Open XML namespace, with rea… |
-| 2026-10-28 19:19:27 | [satlib](https://crates.io/crates/satlib) | 0.1.0 | 0 | My multitool library |
-| 2026-10-28 19:19:50 | [officekit-strict](https://crates.io/crates/officekit-strict) | 0.1.0 | 0 | The Strict conformance class of officekit, the read and write of every node of… |
+| 2026-10-28 19:22:04 | [officekit](https://crates.io/crates/officekit) | 0.1.0 | 0 | Office Open XML documents, .docx, .xlsx and .pptx, in either conformance class:… |
+| 2026-10-28 19:23:03 | [nux-bindgen](https://crates.io/crates/nux-bindgen) | 0.1.0 | 0 | Use nushell as a command runner |
+| 2026-10-28 19:23:49 | [covalence-lib-config](https://crates.io/crates/covalence-lib-config) | 0.1.0-dev.7 | 0 | Application directories and typed TOML configuration |
+| 2026-10-28 19:24:46 | [rust-tui-manager-core](https://crates.io/crates/rust-tui-manager-core) | 0.2.0 | 0 | Modelos y contratos de API compartidos por rust-tui-manager (servidor, TUI y cl… |
+| 2026-10-28 19:27:25 | [mkdmg](https://crates.io/crates/mkdmg) | 0.1.1 | 0 | Create Apple Disk Image without relying on Finder GUI |
+| 2026-10-28 19:28:22 | [clankerdiff-lspd](https://crates.io/crates/clankerdiff-lspd) | 0.6.0 | 0 | A daemon that shares language servers across clients working in the same worksp… |
+| 2026-10-28 19:28:54 | [clankerdiff-symbols](https://crates.io/crates/clankerdiff-symbols) | 0.6.0 | 0 | Symbol definitions, references and uses across the files in a diff |
+| 2026-10-28 19:31:42 | [officekit-markdown](https://crates.io/crates/officekit-markdown) | 0.1.0 | 0 | Markdown for officekit: a Word file from a markdown document, and a markdown do… |
+| 2026-10-28 19:31:48 | [rust-tui-manager-server](https://crates.io/crates/rust-tui-manager-server) | 0.2.0 | 0 | Servidor multiusuario (axum + SQLite + WebSocket) de rust-tui-manager: equipos,… |
+| 2026-10-28 19:34:17 | [shieldspec-core](https://crates.io/crates/shieldspec-core) | 0.2.0 | 0 | Proposal-level privacy policy and regression oracle for Zcash wallets |
+| 2026-10-28 19:34:38 | [ltk_wwise](https://crates.io/crates/ltk_wwise) | 0.1.0 | 0 | Wwise bank and WPK package reading/writing for League Toolkit |
+| 2026-10-28 19:36:25 | [tunnr-etcd](https://crates.io/crates/tunnr-etcd) | 0.2.0 | 0 | An etcd-shaped key-value store on redb: revisions, transactions, leases, watch… |
+| 2026-10-28 19:36:44 | [cubecl-tile](https://crates.io/crates/cubecl-tile) | 0.12.0-pre.1 | 0 | CubeCL Tile: a space cut into tiles, and the operations on them. |
+| 2026-10-28 19:37:51 | [shieldspec-testkit](https://crates.io/crates/shieldspec-testkit) | 0.2.0 | 0 | Fixtures and builders for ShieldSpec Zcash privacy regression tests |
+| 2026-10-28 19:38:37 | [sealzone](https://crates.io/crates/sealzone) | 0.1.1 | 0 | Seal: use secrets without holding them. Seal a secret for named apps; apps use… |
+| 2026-10-28 19:38:57 | [sealzone-cli](https://crates.io/crates/sealzone-cli) | 0.1.1 | 0 | The `seal` command: seal secrets, administer a Seal tenant (apps, producers, de… |
+| 2026-10-28 19:39:00 | [shieldspec-cli](https://crates.io/crates/shieldspec-cli) | 0.2.0 | 0 | CLI and SARIF reporting for ShieldSpec Zcash privacy regression checks |
+| 2026-10-28 19:40:16 | [shieldspec-zcash](https://crates.io/crates/shieldspec-zcash) | 0.2.0 | 0 | Adapter from real librustzcash proposals to ShieldSpec privacy snapshots |
+| 2026-10-28 19:44:48 | [zmidi-ump](https://crates.io/crates/zmidi-ump) | 0.1.0-alpha.1 | 0 | Universal MIDI Packet (UMP) messages for MIDI 2.0 and MIDI 1.0 (M2-104-UM), no_… |
+| 2026-10-28 19:44:54 | [zmidi-ci](https://crates.io/crates/zmidi-ci) | 0.1.0-alpha.1 | 0 | MIDI Capability Inquiry (MIDI-CI, M2-101-UM) for MIDI 2.0, no_std and sans-IO |
+| 2026-10-28 19:44:58 | [zmidi-file](https://crates.io/crates/zmidi-file) | 0.1.0-alpha.1 | 0 | MIDI Clip File (MIDI 2.0) and Standard MIDI File 1.0 reader and writer |
+| 2026-10-28 19:45:02 | [zmidi-io](https://crates.io/crates/zmidi-io) | 0.1.0-alpha.1 | 0 | MIDI 1.0 byte streams to and from UMP, UMP Endpoint, Jitter Reduction and Group… |
+| 2026-10-28 19:45:07 | [zmidi-net](https://crates.io/crates/zmidi-net) | 0.1.0-alpha.1 | 0 | Network MIDI 2.0 (UDP, M2-124-UM) for MIDI 2.0, no_std, no alloc and sans-IO |
+| 2026-10-28 19:52:18 | [force-marketingcloud](https://crates.io/crates/force-marketingcloud) | 0.5.0 | 0 | Salesforce Marketing Cloud Engagement REST API client for Rust |
+| 2026-10-28 19:52:20 | [force-lake](https://crates.io/crates/force-lake) | 0.5.0 | 0 | One-way Salesforce to S3 Tables / Apache Iceberg analytics snapshot sink |
+| 2026-10-28 19:52:41 | [camel-component-mail](https://crates.io/crates/camel-component-mail) | 0.61.1 | 0 | SMTP and IMAP mail component for rust-camel |
+| 2026-10-28 19:53:29 | [zmidi-ble](https://crates.io/crates/zmidi-ble) | 0.1.0-alpha.1 | 0 | BLE-MIDI (MIDI over Bluetooth Low Energy) packet codec and GATT data, no_std, n… |
+| 2026-10-28 19:56:18 | [paranoid-auth](https://crates.io/crates/paranoid-auth) | 0.0.1-pre.0 | 0 | Post-quantum authentication with early rejection and authoritative state |
+| 2026-10-28 20:01:37 | [officekit-cli](https://crates.io/crates/officekit-cli) | 0.1.0 | 0 | The officekit command line: inspect and edit Office Open XML documents |
+| 2026-10-28 20:02:39 | [simple-calendar](https://crates.io/crates/simple-calendar) | 0.3.0 | 0 | A simple desktop calendar application |
+| 2026-10-28 20:03:54 | [zmidi-ci-pe](https://crates.io/crates/zmidi-ci-pe) | 0.1.0-alpha.1 | 0 | MIDI-CI Property Exchange (M2-103-UM) for MIDI 2.0, no_std and no alloc |
+| 2026-10-28 20:04:28 | [invocra-config](https://crates.io/crates/invocra-config) | 0.2.0 | 0 | TOML config handling for invocra, a GitLab CI/CD TUI dashboard |
+| 2026-10-28 20:05:08 | [invocra-storage](https://crates.io/crates/invocra-storage) | 0.2.0 | 0 | Keyring + offline cache storage for invocra, a GitLab CI/CD TUI dashboard |
+| 2026-10-28 20:05:16 | [invocra-gitlab](https://crates.io/crates/invocra-gitlab) | 0.2.0 | 0 | GitLab REST client used by invocra, a GitLab CI/CD TUI dashboard |
+| 2026-10-28 20:05:41 | [invocra-tui](https://crates.io/crates/invocra-tui) | 0.2.0 | 0 | Ratatui dashboard widgets for invocra, a GitLab CI/CD TUI dashboard |
+| 2026-10-28 20:06:02 | [invocra](https://crates.io/crates/invocra) | 0.2.0 | 0 | Lazygit-style TUI dashboard for GitLab CI/CD pipelines across multiple instances |
+| 2026-10-28 20:14:15 | [zmidi-usb](https://crates.io/crates/zmidi-usb) | 0.1.0-alpha.1 | 0 | USB-MIDI 2.0 and 1.0 (USB Device Class Definition for MIDI Devices) codecs and… |
+| 2026-10-28 20:14:16 | [ehentai](https://crates.io/crates/ehentai) | 0.1.0 | 0 | A terminal user interface (TUI) for browsing and viewing e-hentai.org manga |
+| 2026-10-28 20:15:21 | [keyhive_content](https://crates.io/crates/keyhive_content) | 0.1.0 | 0 | Keyhive's encrypted content: its format, application secrets, causal envelopes… |
+| 2026-10-28 20:17:07 | [fuyubot-abi](https://crates.io/crates/fuyubot-abi) | 0.1.0 | 0 | HostApi VTable 定义与插件导出宏 |
+| 2026-10-28 20:17:33 | [seyk-embed](https://crates.io/crates/seyk-embed) | 0.2.0 | 0 | Model-independent embedding interfaces and values |
+| 2026-10-28 20:17:37 | [seyk-core](https://crates.io/crates/seyk-core) | 0.2.0 | 0 | Local search, evidence and cache engine |
+| 2026-10-28 20:17:38 | [seyk-embeddinggemma](https://crates.io/crates/seyk-embeddinggemma) | 0.2.0 | 0 | Local EmbeddingGemma 2 inference |
+| 2026-10-28 20:17:41 | [seyk-stt](https://crates.io/crates/seyk-stt) | 0.2.0 | 0 | Offline, on-demand Whisper transcription for Seyk |
+| 2026-10-28 20:17:43 | [seyk](https://crates.io/crates/seyk) | 0.2.0 | 0 | Local-first hybrid retrieval over private files: meaning, keywords and file nam… |
+| 2026-10-28 20:17:52 | [fuyubot-tdlib-sys](https://crates.io/crates/fuyubot-tdlib-sys) | 0.1.0 | 0 | TDLib 类型与 FFI 绑定：编译期从 td_api.tl 生成，运行时不做任何生成 |
 
 ## Data source
 
