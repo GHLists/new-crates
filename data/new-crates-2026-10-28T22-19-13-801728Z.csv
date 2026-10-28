@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T21:26:58.269332Z,purowser,0.0.0,0,0,,Yet another agent browser.
+2026-10-28T21:34:16.575218Z,retex-diag,1.6.0-beta.3,0,0,https://gitlab.com/severin-lemaignan/retex,"Diagnostics for retex: errors, warnings and hints with their place, help and fixes"
+2026-10-28T21:34:24.094673Z,retex-lsp,1.6.0-beta.3,0,0,https://gitlab.com/severin-lemaignan/retex,"The retex language server: diagnostics, fixes, hover, definitions and completion for LaTeX, from what retex knows after a build"
+2026-10-28T21:38:24.034529Z,axiolid-mesh-hidden-lines-contract,0.1.0,0,0,https://github.com/axiolid/kernel,"Portable orthographic hidden-line drawing request, result, and conformance contract for triangle meshes"
+2026-10-28T21:39:10.460322Z,xgpui,1.0.0,0,0,https://github.com/gpui-luma-dev/xgpui,GPU-accelerated application framework with xgpui rendering extensions
+2026-10-28T21:40:38.221462Z,srz,0.2.0,0,0,https://github.com/NewGuy012/srz,"Fast, modular CLI to summarize webpages, documents, books, and live news using local LLMs"
+2026-10-28T21:53:36.62196Z,moonglass,0.1.0,0,0,https://github.com/BX-Team/moonglass,"BX Team's design system for gpui: themes, window chrome and components on GPUI Kit"
+2026-10-28T21:56:00.865478Z,axiolid-hidden-lines,0.1.0,0,0,https://github.com/axiolid/kernel,Exact scalar hidden-line drawings of triangle meshes in orthographic views
+2026-10-28T21:59:42.071774Z,holger-inspect,2.0.0,0,0,https://git.gunnar.rs/nordisk/holger,"Holger's file and archive inspector: unpacks every ingested artifact under configurable expansion limits and checks for zip bombs, deep nesting, path traversal, escaping symlinks, magic-byte/format m…"
+2026-10-28T21:59:51.425284Z,holger-plugin-allocation,2.0.0,0,0,https://git.gunnar.rs/nordisk/holger,"holger's OPEN meter guest: declares the storage meters, reports how much storage there is and is servable, and cross-checks that figure. No ceiling of any kind."
+2026-10-28T22:01:38.299868Z,sylphx-keel-contracts,0.1.5870,0,0,https://github.com/SylphxAI/keel-engine,"Stable cross-crate types: EntityId, SystemPhase, WorldSnapshot, Port and Asset ids and digests, and the default fixed timestep"
+2026-10-28T22:01:40.932582Z,sylphx-keel-math,0.1.5870,0,0,https://github.com/SylphxAI/keel-engine,"Math: glam re-exports, 2D/3D transforms and projections, spatial primitives (Rect, Aabb3, Obb3, Frustum), spatial indexes (hashed grid, dynamic AABB tree), curves, dual quaternions, transform hierarc…"
+2026-10-28T22:01:43.885083Z,sylphx-keel-gpu-test,0.1.5870,0,0,https://github.com/SylphxAI/keel-engine,"Device-test support: a test skips when the machine has no GPU adapter, and fails instead when KEEL_REQUIRE_GPU is set"
+2026-10-28T22:01:46.52975Z,sylphx-keel-random,0.1.5870,0,0,https://github.com/SylphxAI/keel-engine,"Deterministic randomness: seeded RNG, coherent noise (CPU and WGSL), low-discrepancy sequences, Poisson-disk sampling and blue noise"
+2026-10-28T22:01:49.609961Z,sylphx-keel-anim,0.1.5870,0,0,https://github.com/SylphxAI/keel-engine,"Animation: transform and skeleton clips, flipbooks, players and inertialized transitions, 2D blend spaces, layers, state machines, retargeting, IK and foot placement, spring bones, motion matching, c…"
+2026-10-28T22:06:13.849731Z,envairon_core,0.1.1,0,0,https://github.com/eduardozitinho1/envairon,CLI tool for synchronizing and updating environment files (.env*)
+2026-10-28T22:12:23.009594Z,cells-core,0.1.0,0,0,https://github.com/teamofsilicons/silicon-cells,Shared API types and validation for Silicon Cells
+2026-10-28T22:12:46.353743Z,cubek-microkernel,0.4.0-pre.1,0,0,https://github.com/tracel-ai/cubek/tree/main/crates/cubek-microkernel,CubeK: Microkernels
+2026-10-28T22:13:05.915306Z,cells-execution,0.1.0,0,0,https://github.com/teamofsilicons/silicon-cells,Isolated function execution and broker protocol for Silicon Cells
+2026-10-28T22:15:08.01015Z,silicon-cells-client,0.1.0,0,0,https://github.com/teamofsilicons/silicon-cells,Stateless Rust interface to Silicon Cells

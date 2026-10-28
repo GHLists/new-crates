@@ -8,35 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 21:18 UTC
+## Latest list — 2026-10-28 22:19 UTC
 
-New crates published between 2026-10-28 20:21 UTC and 2026-10-28 21:18 UTC.
+New crates published between 2026-10-28 21:18 UTC and 2026-10-28 22:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-28T21-18-53-129956Z.csv)
+[Full CSV](data/new-crates-2026-10-28T22-19-13-801728Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-28 20:24:41 | [zmidi](https://crates.io/crates/zmidi) | 0.1.0-alpha.1 | 0 | MIDI 2.0 and MIDI 1.0: UMP, MIDI-CI, Property Exchange, MIDI Clip File, Network… |
-| 2026-10-28 20:30:44 | [mindtape-cli](https://crates.io/crates/mindtape-cli) | 0.3.0 | 0 | Command-line interface for Mindtape, a file-based task tracker over Typst |
-| 2026-10-28 20:30:47 | [bbs-core](https://crates.io/crates/bbs-core) | 0.17.0 | 0 | The protocol, database and service shared by the bbs client and server. |
-| 2026-10-28 20:32:08 | [bbs-server](https://crates.io/crates/bbs-server) | 0.17.0 | 0 | The bbs server: gRPC for agents and clients, and an optional web UI for humans. |
-| 2026-10-28 20:33:40 | [opendomain-core](https://crates.io/crates/opendomain-core) | 0.20.26 | 0 | Core engine for the OpenDomain framework: ids, artifacts, traceability graph, q… |
-| 2026-10-28 20:35:03 | [zmidi-ffi](https://crates.io/crates/zmidi-ffi) | 0.1.0-alpha.1 | 0 | C ABI of zetaohm-midi for C, C++ and other languages, no_std and no alloc |
-| 2026-10-28 20:42:02 | [koda-ide](https://crates.io/crates/koda-ide) | 0.1.1 | 0 | A modern, lightweight, terminal-native IDE |
-| 2026-10-28 20:42:41 | [identisure-client](https://crates.io/crates/identisure-client) | 0.1.0 | 0 | API client for the Identisure REST API |
-| 2026-10-28 20:45:24 | [zmidi-usb-device](https://crates.io/crates/zmidi-usb-device) | 0.1.0-alpha.1 | 0 | usb-device 0.3 adapter for the zmidi-usb USB-MIDI 2.0 and 1.0 codecs, no_std, n… |
-| 2026-10-28 20:45:39 | [git-koi](https://crates.io/crates/git-koi) | 1.0.1 | 0 | Draw a pixel-art koi from a GitHub account's public activity, as a looping GIF… |
-| 2026-10-28 20:48:06 | [membrick-extension-api](https://crates.io/crates/membrick-extension-api) | 0.2.0 | 0 | Generic compiled-in extension contract for Membrick hosts |
-| 2026-10-28 20:54:37 | [maplibre-native-ffi-platform](https://crates.io/crates/maplibre-native-ffi-platform) | 0.0.0 | 0 | Platform services that the MapLibre Native FFI C library calls. Depend on mapli… |
-| 2026-10-28 20:55:03 | [pouletb](https://crates.io/crates/pouletb) | 0.1.0 | 0 | Download a single torrent from the command line, then exit |
-| 2026-10-28 20:55:46 | [zmidi-usb-embassy](https://crates.io/crates/zmidi-usb-embassy) | 0.1.0-alpha.1 | 0 | embassy-usb 0.6 adapter for the zmidi-usb USB-MIDI 2.0 and 1.0 codecs, async, n… |
-| 2026-10-28 21:01:49 | [xgpui-macros](https://crates.io/crates/xgpui-macros) | 1.0.0 | 0 | Procedural macros for xgpui actions, elements, and tests |
-| 2026-10-28 21:05:44 | [dengjen-kurmanji-phonemizer](https://crates.io/crates/dengjen-kurmanji-phonemizer) | 3.0.4 | 0 | Kurmanji Kurdish grapheme-to-phoneme conversion for the dengjen-tts speech synt… |
-| 2026-10-28 21:06:07 | [zmidi-ble-trouble](https://crates.io/crates/zmidi-ble-trouble) | 0.1.0-alpha.1 | 0 | trouble-host 0.7 adapter for the zmidi-ble BLE-MIDI codec: GATT service and con… |
-| 2026-10-28 21:09:47 | [tonal-oklch](https://crates.io/crates/tonal-oklch) | 0.1.0 | 0 | A hybrid color space pairing OKLCh perceptual hue & chroma with CIE L* guarante… |
-| 2026-10-28 21:14:21 | [appkit-host](https://crates.io/crates/appkit-host) | 0.1.0 | 0 | Host-agnostic layer for placing real AppKit views inside a GPU-rendered window |
-| 2026-10-28 21:14:37 | [iced-appkit](https://crates.io/crates/iced-appkit) | 0.1.0 | 0 | Real AppKit views (NSTableView, NSTextView) inside Iced windows on macOS |
-| 2026-10-28 21:17:13 | [tokentab](https://crates.io/crates/tokentab) | 0.1.0 | 0 | Replays local AI coding transcripts through a price list and compares what they… |
+| 2026-10-28 21:26:58 | [purowser](https://crates.io/crates/purowser) | 0.0.0 | 0 | Yet another agent browser. |
+| 2026-10-28 21:34:16 | [retex-diag](https://crates.io/crates/retex-diag) | 1.6.0-beta.3 | 0 | Diagnostics for retex: errors, warnings and hints with their place, help and fi… |
+| 2026-10-28 21:34:24 | [retex-lsp](https://crates.io/crates/retex-lsp) | 1.6.0-beta.3 | 0 | The retex language server: diagnostics, fixes, hover, definitions and completio… |
+| 2026-10-28 21:38:24 | [axiolid-mesh-hidden-lines-contract](https://crates.io/crates/axiolid-mesh-hidden-lines-contract) | 0.1.0 | 0 | Portable orthographic hidden-line drawing request, result, and conformance cont… |
+| 2026-10-28 21:39:10 | [xgpui](https://crates.io/crates/xgpui) | 1.0.0 | 0 | GPU-accelerated application framework with xgpui rendering extensions |
+| 2026-10-28 21:40:38 | [srz](https://crates.io/crates/srz) | 0.2.0 | 0 | Fast, modular CLI to summarize webpages, documents, books, and live news using… |
+| 2026-10-28 21:53:36 | [moonglass](https://crates.io/crates/moonglass) | 0.1.0 | 0 | BX Team's design system for gpui: themes, window chrome and components on GPUI… |
+| 2026-10-28 21:56:00 | [axiolid-hidden-lines](https://crates.io/crates/axiolid-hidden-lines) | 0.1.0 | 0 | Exact scalar hidden-line drawings of triangle meshes in orthographic views |
+| 2026-10-28 21:59:42 | [holger-inspect](https://crates.io/crates/holger-inspect) | 2.0.0 | 0 | Holger's file and archive inspector: unpacks every ingested artifact under conf… |
+| 2026-10-28 21:59:51 | [holger-plugin-allocation](https://crates.io/crates/holger-plugin-allocation) | 2.0.0 | 0 | holger's OPEN meter guest: declares the storage meters, reports how much storag… |
+| 2026-10-28 22:01:38 | [sylphx-keel-contracts](https://crates.io/crates/sylphx-keel-contracts) | 0.1.5870 | 0 | Stable cross-crate types: EntityId, SystemPhase, WorldSnapshot, Port and Asset… |
+| 2026-10-28 22:01:40 | [sylphx-keel-math](https://crates.io/crates/sylphx-keel-math) | 0.1.5870 | 0 | Math: glam re-exports, 2D/3D transforms and projections, spatial primitives (Re… |
+| 2026-10-28 22:01:43 | [sylphx-keel-gpu-test](https://crates.io/crates/sylphx-keel-gpu-test) | 0.1.5870 | 0 | Device-test support: a test skips when the machine has no GPU adapter, and fail… |
+| 2026-10-28 22:01:46 | [sylphx-keel-random](https://crates.io/crates/sylphx-keel-random) | 0.1.5870 | 0 | Deterministic randomness: seeded RNG, coherent noise (CPU and WGSL), low-discre… |
+| 2026-10-28 22:01:49 | [sylphx-keel-anim](https://crates.io/crates/sylphx-keel-anim) | 0.1.5870 | 0 | Animation: transform and skeleton clips, flipbooks, players and inertialized tr… |
+| 2026-10-28 22:06:13 | [envairon_core](https://crates.io/crates/envairon_core) | 0.1.1 | 0 | CLI tool for synchronizing and updating environment files (.env*) |
+| 2026-10-28 22:12:23 | [cells-core](https://crates.io/crates/cells-core) | 0.1.0 | 0 | Shared API types and validation for Silicon Cells |
+| 2026-10-28 22:12:46 | [cubek-microkernel](https://crates.io/crates/cubek-microkernel) | 0.4.0-pre.1 | 0 | CubeK: Microkernels |
+| 2026-10-28 22:13:05 | [cells-execution](https://crates.io/crates/cells-execution) | 0.1.0 | 0 | Isolated function execution and broker protocol for Silicon Cells |
+| 2026-10-28 22:15:08 | [silicon-cells-client](https://crates.io/crates/silicon-cells-client) | 0.1.0 | 0 | Stateless Rust interface to Silicon Cells |
 
 ## Data source
 
