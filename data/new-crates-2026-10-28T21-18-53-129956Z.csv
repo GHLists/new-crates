@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T20:24:41.531856Z,zmidi,0.1.0-alpha.1,0,0,https://github.com/Zetaohm/zetaohm-midi,"MIDI 2.0 and MIDI 1.0: UMP, MIDI-CI, Property Exchange, MIDI Clip File, Network MIDI 2.0, USB-MIDI and BLE-MIDI; no_std, no alloc, sans-IO"
+2026-10-28T20:30:44.340439Z,mindtape-cli,0.3.0,0,0,https://github.com/mlavrinenko/mindtape,"Command-line interface for Mindtape, a file-based task tracker over Typst"
+2026-10-28T20:30:47.457877Z,bbs-core,0.17.0,0,0,https://github.com/wbbradley/bbs,"The protocol, database and service shared by the bbs client and server."
+2026-10-28T20:32:08.9695Z,bbs-server,0.17.0,0,0,https://github.com/wbbradley/bbs,"The bbs server: gRPC for agents and clients, and an optional web UI for humans."
+2026-10-28T20:33:40.110132Z,opendomain-core,0.20.26,0,0,https://github.com/GAYENSIS09/OpenDomain,"Core engine for the OpenDomain framework: ids, artifacts, traceability graph, quality gates"
+2026-10-28T20:35:03.595114Z,zmidi-ffi,0.1.0-alpha.1,0,0,https://github.com/Zetaohm/zetaohm-midi,"C ABI of zetaohm-midi for C, C++ and other languages, no_std and no alloc"
+2026-10-28T20:42:02.501939Z,koda-ide,0.1.1,0,0,https://github.com/etokiyra/koda,"A modern, lightweight, terminal-native IDE"
+2026-10-28T20:42:41.72831Z,identisure-client,0.1.0,0,0,https://github.com/identisure/api-client-rust,API client for the Identisure REST API
+2026-10-28T20:45:24.812951Z,zmidi-usb-device,0.1.0-alpha.1,0,0,https://github.com/Zetaohm/zetaohm-midi,"usb-device 0.3 adapter for the zmidi-usb USB-MIDI 2.0 and 1.0 codecs, no_std, no alloc"
+2026-10-28T20:45:39.807279Z,git-koi,1.0.1,0,0,https://github.com/yalongwastaken/git-koi,"Draw a pixel-art koi from a GitHub account's public activity, as a looping GIF for a profile README."
+2026-10-28T20:48:06.884444Z,membrick-extension-api,0.2.0,0,0,https://github.com/RooAGI/membrick-extension-api,Generic compiled-in extension contract for Membrick hosts
+2026-10-28T20:54:37.67081Z,maplibre-native-ffi-platform,0.0.0,0,0,https://github.com/maplibre/maplibre-native-ffi,Platform services that the MapLibre Native FFI C library calls. Depend on maplibre-native-ffi instead.
+2026-10-28T20:55:03.003057Z,pouletb,0.1.0,0,0,https://github.com/jfarcand/pouletb,"Download a single torrent from the command line, then exit"
+2026-10-28T20:55:46.501876Z,zmidi-usb-embassy,0.1.0-alpha.1,0,0,https://github.com/Zetaohm/zetaohm-midi,"embassy-usb 0.6 adapter for the zmidi-usb USB-MIDI 2.0 and 1.0 codecs, async, no_std, no alloc"
+2026-10-28T21:01:49.360769Z,xgpui-macros,1.0.0,0,0,https://github.com/gpui-luma-dev/xgpui,"Procedural macros for xgpui actions, elements, and tests"
+2026-10-28T21:05:44.940462Z,dengjen-kurmanji-phonemizer,3.0.4,0,0,https://github.com/ZirekHQ/dengjen,Kurmanji Kurdish grapheme-to-phoneme conversion for the dengjen-tts speech synthesis engine
+2026-10-28T21:06:07.726391Z,zmidi-ble-trouble,0.1.0-alpha.1,0,0,https://github.com/Zetaohm/zetaohm-midi,"trouble-host 0.7 adapter for the zmidi-ble BLE-MIDI codec: GATT service and connection loop, async, no_std, no alloc"
+2026-10-28T21:09:47.668644Z,tonal-oklch,0.1.0,0,0,https://github.com/SashimiEthan/tonal-oklch,A hybrid color space pairing OKLCh perceptual hue & chroma with CIE L* guaranteed WCAG contrast. Colors at the same tone always have identical contrast ratios.
+2026-10-28T21:14:21.416649Z,appkit-host,0.1.0,0,0,https://github.com/lhassa8/ferrokit,Host-agnostic layer for placing real AppKit views inside a GPU-rendered window
+2026-10-28T21:14:37.115663Z,iced-appkit,0.1.0,0,0,https://github.com/lhassa8/ferrokit,"Real AppKit views (NSTableView, NSTextView) inside Iced windows on macOS"
+2026-10-28T21:17:13.45349Z,tokentab,0.1.0,0,0,https://github.com/frits-v/tokentab,Replays local AI coding transcripts through a price list and compares what they would have cost on each plan
