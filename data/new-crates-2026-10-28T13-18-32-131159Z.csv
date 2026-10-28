@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T12:19:11.595359Z,pilfflonk-wrap-witness,1.4.0-alpha,0,0,https://github.com/0xPolygonHermez/pil2-proofman,"The witness of the pilfflonk wrap: the final circuit's circom witness and its BN128 .exec, as the stage-1 columns of a pilfflonk AIR"
+2026-10-28T12:19:17.774317Z,pilfflonk-wrap-witness-lib,1.4.0-alpha,0,0,https://github.com/0xPolygonHermez/pil2-proofman,"The pilfflonk wrap's witness as a pilfflonk witness library, for `pilfflonk prove -w`"
+2026-10-28T12:19:49.876877Z,pil-info,1.4.0-alpha,0,0,https://github.com/0xPolygonHermez/pil2-proofman,"Field-parameterised symbolic analysis of a pilout, shared by the STARK and pilfflonk setups"
+2026-10-28T12:19:59.238903Z,pilfflonk-setup,1.4.0-alpha,0,0,https://github.com/0xPolygonHermez/pil2-proofman,"Setup for the pilfflonk backend (PIL2 over BN128 with fflonk): validation, grouping, bytecode and keys"
+2026-10-28T12:25:39.93069Z,formatjs_intl_relativetimeformat,0.1.0,0,0,https://github.com/formatjs/formatjs,ECMA-402 RelativeTimeFormat with on-demand CLDR locale data
+2026-10-28T12:33:59.819572Z,pmtiles-wasm,0.1.0,0,0,https://github.com/alex-kennedy/pmtiles-wasm,PMTiles client in rust web assembly
+2026-10-28T12:35:38.817018Z,formatjs_intl_segmenter,0.1.0,0,0,https://github.com/formatjs/formatjs,ECMA-402 Segmenter using ICU4X and UTF-16 boundaries
+2026-10-28T12:35:39.764776Z,zeokeel-cordis,0.4.1,0,0,https://github.com/zeokeel/zeokeel-cordis,Cordis-paradigm pluggable kernel core for Rust: context/service/fiber/effect/events/registry
+2026-10-28T12:42:49.944148Z,curl-runner-core,2.0.0,0,0,https://github.com/alexvcasillas/curl-runner,"Engine behind the curl-runner CLI: YAML request suites, libcurl execution, validation, snapshots and diffs"
+2026-10-28T12:43:06.450144Z,curl-runner,2.0.0,0,0,https://github.com/alexvcasillas/curl-runner,"Run HTTP request suites defined in YAML: validation, retries, parallel runs, snapshots and diffs, on libcurl"
+2026-10-28T12:45:38.980352Z,formatjs_intl_hermes,0.1.0,0,0,https://github.com/formatjs/formatjs,Rust C ABI assembly for FormatJS Hermes extensions
+2026-10-28T12:46:35.401476Z,wyrd-settings,0.1.0,0,0,https://github.com/xximxxhatedxx/wyrd-engine,"Typed shell configuration, surface/widget/layout/style Lua parsers, and config loader for Wyrd"
+2026-10-28T12:47:03.829693Z,rok-data-cli,0.3.0,0,0,https://github.com/ateeq1999/rok-data,Single command-line interface for the rok-data database ecosystem
+2026-10-28T12:47:49.456783Z,drizzle-protocol,1.0.0,0,0,https://opendev.org/drizzle/drizzle-protocol,Low-level protocol implementation for Drizzle and other MySQL derived DBs
+2026-10-28T12:47:54.620778Z,kui-value,0.1.0-alpha.70,0,0,https://github.com/qxuken/kui,"kui's plain-data payload: Value, a strict JSON reader, typed messages over it, and its Lua conversions (docs/adr/0075)"
+2026-10-28T12:47:56.452735Z,kui-channel,0.1.0-alpha.70,0,0,https://github.com/qxuken/kui,"kui's data channel: bulk typed columns a handle names, immutable per revision, read by index from any thread (docs/adr/0065, docs/adr/0075)"
+2026-10-28T12:49:17.283505Z,wyrd-engine,0.1.0,0,0,https://github.com/xximxxhatedxx/wyrd-engine,"Core Wayland, Lua, WASM and rendering engine facade for the Wyrd ecosystem"
+2026-10-28T12:49:22.719422Z,offscript,0.0.0,0,0,,A browser for the future
+2026-10-28T13:03:03.374723Z,mafft-oxide,0.2.0,0,0,https://github.com/Provolut/mafft-oxide,Bit-exact Rust port of MAFFT's multiple-sequence-alignment algorithms
+2026-10-28T13:13:58.09793Z,webhostant,0.0.0,0,0,https://github.com/ThinkersJournal/WebHostAnt,"Reserved name: deploy a web app to common hosts or serve it locally with automatic TLS. Placeholder, no functionality yet."
