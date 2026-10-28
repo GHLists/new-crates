@@ -8,72 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 23:19 UTC
+## Latest list — 2026-10-28 00:18 UTC
 
-New crates published between 2026-10-27 22:18 UTC and 2026-10-27 23:19 UTC.
+New crates published between 2026-10-27 23:19 UTC and 2026-10-28 00:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-27T23-19-31-807243Z.csv)
+[Full CSV](data/new-crates-2026-10-28T00-18-30-519296Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-27 22:25:05 | [uison-ios](https://crates.io/crates/uison-ios) | 0.1.0 | 0 | iOS backend of uison (UIKit, CoreGraphics, CoreText). Internal part of uison: u… |
-| 2026-10-27 22:25:42 | [catpack](https://crates.io/crates/catpack) | 0.2.0 | 0 | Pack your codebase into a single file for LLM context |
-| 2026-10-27 22:26:23 | [rbox-devlib](https://crates.io/crates/rbox-devlib) | 0.3.0 | 0 | Rekordbox Device Library (DeviceSQL) database handler |
-| 2026-10-27 22:26:44 | [atlatl-run](https://crates.io/crates/atlatl-run) | 0.1.0-rc.1 | 0 | atlatl's runner: replications, scheduling, commits, reports |
-| 2026-10-27 22:27:35 | [rind](https://crates.io/crates/rind) | 0.0.0 | 0 | Pure-Rust cryptography for MoQ, forked from graviola. Placeholder; not yet usab… |
-| 2026-10-27 22:28:04 | [kitty-rc-cli](https://crates.io/crates/kitty-rc-cli) | 0.1.0 | 0 | Explicit kitty remote-control CLI and shared public-key store utility |
-| 2026-10-27 22:28:40 | [hharness-eval](https://crates.io/crates/hharness-eval) | 0.1.0 | 0 | The C0/Stage-3 evaluation-first slice (spec §5h.2, R-2.9.2): metric catalogue a… |
-| 2026-10-27 22:28:56 | [hharness-bench](https://crates.io/crates/hharness-bench) | 0.1.0 | 0 | The Stage-3 benchmark-adapter contract (R-2.9.4⁰ᵇ; ADR-0142/0143/0144): out-of-… |
-| 2026-10-27 22:29:10 | [hharness-experiment](https://crates.io/crates/hharness-experiment) | 0.1.0 | 0 | The C0/Stage-3 single-worker experiment engine (spec §6.3 §2.2–§2.5, R-2.10.3⁰ᵇ… |
-| 2026-10-27 22:29:25 | [hharness-evolution](https://crates.io/crates/hharness-evolution) | 0.1.0 | 0 | The C5 §05h evolution pipeline (R-2.9.5; ticket S6.1a; ADR-0195/0196): the clos… |
-| 2026-10-27 22:29:38 | [hharness-telemetry](https://crates.io/crates/hharness-telemetry) | 0.1.0 | 0 | The C0/Stage-1 telemetry, tracing & cost/latency instrumentation — the closed m… |
-| 2026-10-27 22:29:53 | [hharness-bundle](https://crates.io/crates/hharness-bundle) | 0.1.0 | 0 | The C0/Stage-3 reproducible harness bundle — the content-addressed run-bundle p… |
-| 2026-10-27 22:31:01 | [prenatal-tools-ontology](https://crates.io/crates/prenatal-tools-ontology) | 0.1.0 | 0 | Ontology term identifiers and ontology access |
-| 2026-10-27 22:31:03 | [prenatal-tools](https://crates.io/crates/prenatal-tools) | 0.1.0 | 0 | Prenatal and rare-disease phenotype tools |
-| 2026-10-27 22:34:07 | [mugon-sdk-bevy](https://crates.io/crates/mugon-sdk-bevy) | 0.2.0 | 0 | Bevy integration for games running on the Mugon platform |
-| 2026-10-27 22:35:18 | [uison-macos](https://crates.io/crates/uison-macos) | 0.1.0 | 0 | macOS backend of uison (AppKit, CoreGraphics, CoreText). Internal part of uison… |
-| 2026-10-27 22:36:43 | [atlatl-cli](https://crates.io/crates/atlatl-cli) | 0.1.0-rc.1 | 0 | atlatl: pull data into DuckLake or DuckDB, and push lake tables to serving data… |
-| 2026-10-27 22:39:12 | [jtc-utils](https://crates.io/crates/jtc-utils) | 0.1.0 | 0 | Japanese legacy encodings, banking text and mainframe record utilities |
-| 2026-10-27 22:40:03 | [uketuner](https://crates.io/crates/uketuner) | 0.2.0 | 0 | A console utility to tune your ukulele |
-| 2026-10-27 22:41:10 | [hharness-context](https://crates.io/crates/hharness-context) | 0.1.0 | 0 | The C0/Stage-1 context builder / policy engine and C0 memory slices (spec §5c.1… |
-| 2026-10-27 22:43:19 | [rueca-segment](https://crates.io/crates/rueca-segment) | 0.1.0-alpha.2 | 0 | Immutable segment format, content packs and local store for Rueca |
-| 2026-10-27 22:44:08 | [rusticlone-macros](https://crates.io/crates/rusticlone-macros) | 2.0.0 | 0 | Compile-time checked translations for rusticlone |
-| 2026-10-27 22:44:16 | [rueca-index](https://crates.io/crates/rueca-index) | 0.1.0-alpha.2 | 0 | Indexing pipeline for Rueca: walk, extract, resolve, write |
-| 2026-10-27 22:44:37 | [rueca-query](https://crates.io/crates/rueca-query) | 0.1.0-alpha.2 | 0 | Query engine for Rueca segments |
-| 2026-10-27 22:44:57 | [rusticlone](https://crates.io/crates/rusticlone) | 2.0.0 | 0 | Scheduled 3-2-1-1-0 backups for computers and servers built on rustic profiles,… |
-| 2026-10-27 22:45:11 | [mugon-sdk-lightyear](https://crates.io/crates/mugon-sdk-lightyear) | 0.2.0 | 0 | Lightyear transport for games running on the Mugon platform |
-| 2026-10-27 22:45:27 | [otpforge](https://crates.io/crates/otpforge) | 0.1.6 | 0 | 2FA/TOTP authenticator and secret key generator: encrypted local vault, otpauth… |
-| 2026-10-27 22:45:33 | [uison](https://crates.io/crates/uison) | 0.1.0 | 0 | Tiny zero-dependency UI framework: screens described in JSON compile to frames… |
-| 2026-10-27 22:45:42 | [miden-air-definitions](https://crates.io/crates/miden-air-definitions) | 0.0.0 | 0 | Placeholder crate for a Miden VM project |
-| 2026-10-27 22:47:15 | [traitstub](https://crates.io/crates/traitstub) | 0.1.0 | 0 | Production defaults and instance-local dependency overrides for Rust tests. |
-| 2026-10-27 22:52:30 | [hharness-env](https://crates.io/crates/hharness-env) | 0.1.0 | 0 | The C0/Stage-1 execution-environment abstraction + sandboxed tool execution — E… |
-| 2026-10-27 22:55:45 | [uison-gen](https://crates.io/crates/uison-gen) | 0.1.0 | 0 | Typed uison widgets from the screen schema and components JSON: C++ (uison_widg… |
-| 2026-10-27 22:55:46 | [rueca-mcp](https://crates.io/crates/rueca-mcp) | 0.1.0-alpha.2 | 0 | MCP server for Rueca |
-| 2026-10-27 22:58:20 | [panpak](https://crates.io/crates/panpak) | 0.0.1 | 0 | Reserved for the panpak project. See https://panpak.org |
-| 2026-10-27 23:00:46 | [electropaint-core](https://crates.io/crates/electropaint-core) | 0.1.0 | 0 | The simulation behind electropaint, SGI's IRIX demo: its script, sequencer and… |
-| 2026-10-27 23:00:57 | [electropaint-metal](https://crates.io/crates/electropaint-metal) | 0.1.0 | 0 | Metal renderers for electropaint: classic, as an SGI RGB visual drew it, and re… |
-| 2026-10-27 23:01:11 | [electropaint](https://crates.io/crates/electropaint) | 0.1.0 | 0 | SGI's electropaint demo from IRIX, ported to macOS in Rust and Metal: bit-exact… |
-| 2026-10-27 23:03:48 | [hharness-gateway](https://crates.io/crates/hharness-gateway) | 0.1.0 | 0 | The C0/Stage-1 model adapter / gateway and the C0 model-plane slices (spec §5b.… |
-| 2026-10-27 23:06:02 | [uison-player](https://crates.io/crates/uison-player) | 0.1.0 | 0 | Runs a uison program in console mode and shows it: its frames in a window, the… |
-| 2026-10-27 23:06:04 | [rueca](https://crates.io/crates/rueca) | 0.1.0-alpha.2 | 0 | Code intelligence for coding agents: index a repository and query its symbols a… |
-| 2026-10-27 23:06:25 | [diffs-fancy-regex](https://crates.io/crates/diffs-fancy-regex) | 0.1.0 | 0 | Fork of fancy-regex 0.16.2 maintained only for diffs-rs: adds caller-owned sear… |
-| 2026-10-27 23:06:28 | [diffs-syntect](https://crates.io/crates/diffs-syntect) | 0.1.0 | 0 | Fork of syntect 5.3.0 maintained only for diffs-rs: shares compiled regexes wit… |
-| 2026-10-27 23:06:34 | [diffs-two-face](https://crates.io/crates/diffs-two-face) | 0.1.0 | 0 | Fork of two-face 0.5.2 (bat 0.26.1 syntaxes and themes) maintained only for dif… |
-| 2026-10-27 23:06:42 | [diffs-rs](https://crates.io/crates/diffs-rs) | 0.1.0 | 0 | Fast terminal diff viewer and embeddable Rust diff engine |
-| 2026-10-27 23:06:55 | [adl_rt_derive](https://crates.io/crates/adl_rt_derive) | 0.1.0 | 0 | Derive macros supporting adlc generated rust code |
-| 2026-10-27 23:07:07 | [adl_rt](https://crates.io/crates/adl_rt) | 0.1.0 | 0 | Runtime support for adlc generated rust code |
-| 2026-10-27 23:07:10 | [facett-source-link](https://crates.io/crates/facett-source-link) | 0.1.0 | 0 | The one builder of an error code's source link: a repository's public file page… |
-| 2026-10-27 23:07:11 | [spr-zk-dsl](https://crates.io/crates/spr-zk-dsl) | 0.1.0 | 0 | Circuit DSL over BN254 for Groth16 on Solana: circuit types and operations, pro… |
-| 2026-10-27 23:07:14 | [spr-zk-gadgets](https://crates.io/crates/spr-zk-gadgets) | 0.1.0 | 0 | General-purpose gadgets for the zk circuit DSL: Poseidon, hash chains, membersh… |
-| 2026-10-27 23:08:11 | [nordisk-console-switch](https://crates.io/crates/nordisk-console-switch) | 0.1.0 | 0 | The pure half of a nordisk console's administrator switch (the public site, the… |
-| 2026-10-27 23:09:32 | [spr-keypair](https://crates.io/crates/spr-keypair) | 0.1.0 | 0 | TSPP client keypairs: signing, nullifier, and viewing keys with HPKE-style encr… |
-| 2026-10-27 23:09:35 | [spr-transaction](https://crates.io/crates/spr-transaction) | 0.1.0 | 0 | TSPP output UTXO serialization: plaintext and encrypted UTXO layouts for transf… |
-| 2026-10-27 23:09:38 | [spr-client](https://crates.io/crates/spr-client) | 0.1.0 | 0 | Client SDK for building, proving, and submitting Zolana private transactions. |
-| 2026-10-27 23:11:17 | [monetize-site-buy](https://crates.io/crates/monetize-site-buy) | 0.3.0 | 0 | The buy flow a product SITE relays to the ONE monetize: sign-up, private instan… |
-| 2026-10-27 23:12:18 | [rs-git-url2json](https://crates.io/crates/rs-git-url2json) | 0.1.0 | 0 | Convert Git URLs to JSONs |
-| 2026-10-27 23:15:07 | [hharness-control](https://crates.io/crates/hharness-control) | 0.1.0 | 0 | The C0/Stage-1 control plane (spec §5e.1/§5e.2, R-2.6.1/R-2.6.2; ticket S1.20;… |
-| 2026-10-27 23:15:53 | [spr-program-test](https://crates.io/crates/spr-program-test) | 0.1.0 | 0 | Reusable LiteSVM program-test environment for Zolana development. |
-| 2026-10-27 23:17:25 | [uid-prefix](https://crates.io/crates/uid-prefix) | 0.1.0 | 0 | Git-style short UID prefix resolution, LCP collision disambiguation, and dynami… |
+| 2026-10-27 23:21:27 | [dorm-core](https://crates.io/crates/dorm-core) | 0.2.0 | 0 | A Django-shaped, compile-time-typed ORM for PostgreSQL on tokio-postgres: Query… |
+| 2026-10-27 23:21:48 | [dorm-derive](https://crates.io/crates/dorm-derive) | 0.2.0 | 0 | The #[derive(Model)] macro for DORM — turns a struct into a model and emits its… |
+| 2026-10-27 23:22:05 | [dorm-migrations](https://crates.io/crates/dorm-migrations) | 0.2.0 | 0 | Migration generation and the versioned migrator for DORM — reviewable DDL from… |
+| 2026-10-27 23:26:25 | [hharness-mcp](https://crates.io/crates/hharness-mcp) | 0.1.0 | 0 | The Stage-3 fixture MCP surface (spec section 7.3, R-2.11.3^0; ticket S3.1; ADR… |
+| 2026-10-27 23:37:43 | [hharness-acp](https://crates.io/crates/hharness-acp) | 0.1.0 | 0 | The ACP session boundary (spec section 5d.4, R-2.5.4 C1; ticket S4.5b): the hh-… |
+| 2026-10-27 23:40:45 | [coworkingview](https://crates.io/crates/coworkingview) | 0.1.0 | 0 | Client and CLI (`cwv`) for the CoworkingView Price Index (flexible-office price… |
+| 2026-10-27 23:41:00 | [tuiscotti](https://crates.io/crates/tuiscotti) | 0.4.0 | 0 | Rust TUI visual-regression toolkit: pure-view capture, versioned samples, froze… |
+| 2026-10-27 23:41:22 | [tuiscotti-cli](https://crates.io/crates/tuiscotti-cli) | 0.4.0 | 0 | Offline CLI for tuiscotti visual snapshots: check, accept, render, report |
+| 2026-10-27 23:41:51 | [dorm-cli](https://crates.io/crates/dorm-cli) | 0.3.0 | 0 | The DORM project manager (binary `dorm`): scaffold a project and manage a live… |
+| 2026-10-27 23:47:08 | [compmd-markdown](https://crates.io/crates/compmd-markdown) | 0.0.1 | 0 | markdown-rs with CompMD's syntax (component lines, inline components, interpola… |
+| 2026-10-27 23:49:02 | [hharness-cli](https://crates.io/crates/hharness-cli) | 0.1.0 | 0 | The C0 attended CLI slice R-2.11.1^0b — a generated client and renderer over hh… |
+| 2026-10-27 23:56:20 | [trusty-architect](https://crates.io/crates/trusty-architect) | 0.1.0 | 0 | Leaf library for the trusty-mpm Architect: tmux access behind a trait and the g… |
+| 2026-10-28 00:00:19 | [hharness-results](https://crates.io/crates/hharness-results) | 0.1.0 | 0 | The C0/Stage-3 results store slice (spec §6.5, R-2.10.5⁰; ticket S3.4b; ADR-016… |
+| 2026-10-28 00:00:29 | [arky](https://crates.io/crates/arky) | 0.1.0 | 0 | Markdown documents as a typed tree |
+| 2026-10-28 00:00:35 | [hharness-analysis](https://crates.io/crates/hharness-analysis) | 0.1.0 | 0 | The C0/Stage-3 §6.4 estimator kernel (R-2.10.4⁰ᵇ; ticket S3.4c; ADR-0157/0158/0… |
+| 2026-10-28 00:01:37 | [arky-store](https://crates.io/crates/arky-store) | 0.1.0 | 0 | Where arky keeps documents: the storage interface and its stores |
+| 2026-10-28 00:02:43 | [rust-widgets-font](https://crates.io/crates/rust-widgets-font) | 2.9.4 | 0 | The embedded font payloads behind rust_widgets' fonts-* features, kept out of t… |
+| 2026-10-28 00:02:53 | [arky-cli](https://crates.io/crates/arky-cli) | 0.1.0 | 0 | The arky command line: get and write markdown documents |
+| 2026-10-28 00:04:49 | [syspm](https://crates.io/crates/syspm) | 0.0.0 | 0 | SysML v2 package manager (under development) |
+| 2026-10-28 00:07:14 | [opensd-ui](https://crates.io/crates/opensd-ui) | 1.2.0 | 0 | UI кит и мост для HTML-страниц плагинов Open Stream Deck |
+| 2026-10-28 00:08:56 | [spr-macros](https://crates.io/crates/spr-macros) | 0.1.0 | 0 | Derive macros for SPR zero-knowledge programs. |
+| 2026-10-28 00:09:00 | [spr-program](https://crates.io/crates/spr-program) | 0.1.0 | 0 | SPP SDK for Solana programs: the spr-instruction builders and derivations, comp… |
+| 2026-10-28 00:09:36 | [seiza-analysis](https://crates.io/crates/seiza-analysis) | 0.1.1 | 0 | Sampled project quality and integration-depth analysis for astrophotography |
+| 2026-10-28 00:10:16 | [tongs](https://crates.io/crates/tongs) | 0.1.0 | 0 | A fast Rust HMMER 3.4, forked from hmmer-pure-rs |
+| 2026-10-28 00:11:59 | [hharness-embed](https://crates.io/crates/hharness-embed) | 0.1.0 | 0 | The hh-embed/1 embedding boundary (spec §7.4, R-2.11.4⁰ᵇ; ticket S1.25). EmbedS… |
+| 2026-10-28 00:14:44 | [biffix-core](https://crates.io/crates/biffix-core) | 0.1.0 | 0 | biffix RunEvent contract and reducers (canonical source of the wire schema). |
+| 2026-10-28 00:14:46 | [biffix-workflow](https://crates.io/crates/biffix-workflow) | 0.1.0 | 0 | biffix workflow authoring and registration: form schema, manifest, validation,… |
+| 2026-10-28 00:14:48 | [biffix-api](https://crates.io/crates/biffix-api) | 0.1.0 | 0 | biffix — the HTTP wire contract (request/response DTOs) shared by the backend a… |
+| 2026-10-28 00:14:50 | [biffix](https://crates.io/crates/biffix) | 0.1.0 | 0 | Command-line client for biffix, a self-hostable control plane for Snakemake and… |
+| 2026-10-28 00:16:50 | [lvgl-rust-sys](https://crates.io/crates/lvgl-rust-sys) | 0.1.0 | 0 | Low-level no_std Rust FFI bindings to LVGL 9, the embedded graphics library |
+| 2026-10-28 00:17:08 | [lvgl-rust-gen](https://crates.io/crates/lvgl-rust-gen) | 0.1.0 | 0 | Build-time generator of the safe LVGL bindings used by lvgl-rust |
+| 2026-10-28 00:18:14 | [lvgl-rust](https://crates.io/crates/lvgl-rust) | 0.1.0 | 0 | Safe, generated no_std Rust bindings to LVGL 9 |
 
 ## Data source
 

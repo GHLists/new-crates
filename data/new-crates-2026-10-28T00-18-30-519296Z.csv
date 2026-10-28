@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-27T23:21:27.41234Z,dorm-core,0.2.0,0,0,https://github.com/ngolacloud/dorm,"A Django-shaped, compile-time-typed ORM for PostgreSQL on tokio-postgres: QuerySet, a pure query compiler, the model registry, and the connection pool."
+2026-10-27T23:21:48.50939Z,dorm-derive,0.2.0,0,0,https://github.com/ngolacloud/dorm,The #[derive(Model)] macro for DORM — turns a struct into a model and emits its typed field handles and metadata.
+2026-10-27T23:22:05.417589Z,dorm-migrations,0.2.0,0,0,https://github.com/ngolacloud/dorm,Migration generation and the versioned migrator for DORM — reviewable DDL from the same model metadata the queries read.
+2026-10-27T23:26:25.96648Z,hharness-mcp,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The Stage-3 fixture MCP surface (spec section 7.3, R-2.11.3^0; ticket S3.1; ADR-0097 D7/ADR-0173/0174). The hh-mcp-target/1 served-artifact record, the compiled-bundle -> canonical tool-catalogue low…"
+2026-10-27T23:37:43.101286Z,hharness-acp,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The ACP session boundary (spec section 5d.4, R-2.5.4 C1; ticket S4.5b): the hh-acp-target/1 session artefact consumed from hharness-compiler (v2 pin + v1 compatibility profile), render_session over t…"
+2026-10-27T23:40:45.685872Z,coworkingview,0.1.0,0,0,https://github.com/coworkingview/flex-office-data,"Client and CLI (`cwv`) for the CoworkingView Price Index (flexible-office prices by city, CC BY 4.0) and coworking catalogue search."
+2026-10-27T23:41:00.753945Z,tuiscotti,0.4.0,0,0,https://github.com/tailrocks/tuiscotti,"Rust TUI visual-regression toolkit: pure-view capture, versioned samples, frozen checks, approval, reports"
+2026-10-27T23:41:22.69983Z,tuiscotti-cli,0.4.0,0,0,https://github.com/tailrocks/tuiscotti,"Offline CLI for tuiscotti visual snapshots: check, accept, render, report"
+2026-10-27T23:41:51.748791Z,dorm-cli,0.3.0,0,0,https://github.com/ngolacloud/dorm,"The DORM project manager (binary `dorm`): scaffold a project and manage a live PostgreSQL — migrations, schema, and a Studio-style row browser, Prisma-CLI-style."
+2026-10-27T23:47:08.987891Z,compmd-markdown,0.0.1,0,0,https://github.com/comp-markdown/markdown-rs,"markdown-rs with CompMD's syntax (component lines, inline components, interpolation, Pandoc math, wiki links), for the compmd crate. In development."
+2026-10-27T23:49:02.107372Z,hharness-cli,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C0 attended CLI slice R-2.11.1^0b — a generated client and renderer over hh-embed/1 (ADR-0167/0168/0169): attended terminal mode with per-effect approvals, `approval *`, `run resume/fork/cancel/i…"
+2026-10-27T23:56:20.563165Z,trusty-architect,0.1.0,0,0,https://github.com/bobmatnyc/trusty-tools,Leaf library for the trusty-mpm Architect: tmux access behind a trait and the guarded send path that never overwrites a typed draft.
+2026-10-28T00:00:19.897881Z,hharness-results,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C0/Stage-3 results store slice (spec §6.5, R-2.10.5⁰; ticket S3.4b; ADR-0161/0162/0163): ResultsRow/1 + project_row, row versions under the fixed key with head resolution, build_cells/CellTable,…"
+2026-10-28T00:00:29.132761Z,arky,0.1.0,0,0,https://github.com/tixena/arky,Markdown documents as a typed tree
+2026-10-28T00:00:35.149976Z,hharness-analysis,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The C0/Stage-3 §6.4 estimator kernel (R-2.10.4⁰ᵇ; ticket S3.4c; ADR-0157/0158/0159/0160): the pure, versioned, class-aware analyze(spec, rows @ watermark_set) over results rows — A1 summarize, A2 com…"
+2026-10-28T00:01:37.811098Z,arky-store,0.1.0,0,0,https://github.com/tixena/arky,Where arky keeps documents: the storage interface and its stores
+2026-10-28T00:02:43.034295Z,rust-widgets-font,2.9.4,0,0,https://github.com/mikewolfli/rust-widgets,"The embedded font payloads behind rust_widgets' fonts-* features, kept out of the library's crates.io package (10 MiB ceiling)"
+2026-10-28T00:02:53.085673Z,arky-cli,0.1.0,0,0,https://github.com/tixena/arky,The arky command line: get and write markdown documents
+2026-10-28T00:04:49.089727Z,syspm,0.0.0,0,0,https://github.com/thinkse/syspm,SysML v2 package manager (under development)
+2026-10-28T00:07:14.937501Z,opensd-ui,1.2.0,0,0,https://github.com/Open-Stream-Deck/Open-Stream-Deck-SDK,UI кит и мост для HTML-страниц плагинов Open Stream Deck
+2026-10-28T00:08:56.932521Z,spr-macros,0.1.0,0,0,https://github.com/helius-labs/zolana,Derive macros for SPR zero-knowledge programs.
+2026-10-28T00:09:00.17144Z,spr-program,0.1.0,0,0,https://github.com/helius-labs/zolana,"SPP SDK for Solana programs: the spr-instruction builders and derivations, compressed accounts, and ZK programs with their circuits, proofs and transaction client."
+2026-10-28T00:09:36.811565Z,seiza-analysis,0.1.1,0,0,https://github.com/theatrus/seiza,Sampled project quality and integration-depth analysis for astrophotography
+2026-10-28T00:10:16.869433Z,tongs,0.1.0,0,0,https://github.com/rhysnewell/tongs,"A fast Rust HMMER 3.4, forked from hmmer-pure-rs"
+2026-10-28T00:11:59.226672Z,hharness-embed,0.1.0,0,0,https://github.com/SteveVitali/MetaHarness,"The hh-embed/1 embedding boundary (spec §7.4, R-2.11.4⁰ᵇ; ticket S1.25). EmbedService is binding (a) — the in-process service over Store + EnvDriver + the hharness-control Driver; the stdio JSON-RPC…"
+2026-10-28T00:14:44.468305Z,biffix-core,0.1.0,0,0,https://github.com/nh13/biffix,biffix RunEvent contract and reducers (canonical source of the wire schema).
+2026-10-28T00:14:46.613532Z,biffix-workflow,0.1.0,0,0,https://github.com/nh13/biffix,"biffix workflow authoring and registration: form schema, manifest, validation, samples, images and runtimes."
+2026-10-28T00:14:48.416685Z,biffix-api,0.1.0,0,0,https://github.com/nh13/biffix,biffix — the HTTP wire contract (request/response DTOs) shared by the backend and the CLI.
+2026-10-28T00:14:50.148563Z,biffix,0.1.0,0,0,https://github.com/nh13/biffix,"Command-line client for biffix, a self-hostable control plane for Snakemake and Nextflow workflows on AWS Batch."
+2026-10-28T00:16:50.889571Z,lvgl-rust-sys,0.1.0,0,0,https://github.com/AlixANNERAUD/lvgl_rust,"Low-level no_std Rust FFI bindings to LVGL 9, the embedded graphics library"
+2026-10-28T00:17:08.931745Z,lvgl-rust-gen,0.1.0,0,0,https://github.com/AlixANNERAUD/lvgl_rust,Build-time generator of the safe LVGL bindings used by lvgl-rust
+2026-10-28T00:18:14.944159Z,lvgl-rust,0.1.0,0,0,https://github.com/AlixANNERAUD/lvgl_rust,"Safe, generated no_std Rust bindings to LVGL 9"
