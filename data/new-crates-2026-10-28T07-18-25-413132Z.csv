@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T06:22:12.244137Z,thruput-open-rpc-spec,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Thruput JSON-RPC OpenRPC spec generator binary
+2026-10-28T06:23:05.475252Z,pelorus_reg,0.0.9,0,0,https://codeberg.org/stelzo/pelorus,Lidar Scan Registration Module for Pelorus Odometry Library.
+2026-10-28T06:25:24.655265Z,tc_blake,0.1.0,0,0,https://github.com/TomiCheng/tc_digest,"BLAKE2b, BLAKE2s and BLAKE2xs (RFC 7693) and BLAKE3, with x86 vector code for BLAKE2 and an optional backend on the blake3 crate."
+2026-10-28T06:26:52.116921Z,substrate-run-toml,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,Reading a workflow file (TOML) into substrate-run-domain's workflows.
+2026-10-28T06:32:10.079469Z,thruput-x23-transport,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Shared x23 RPC transport helpers for Thruput Rust binaries
+2026-10-28T06:33:05.834155Z,pelorus_syncio,0.0.9,0,0,https://codeberg.org/stelzo/pelorus,IO layer for pelorus_sync
+2026-10-28T06:34:11.159096Z,tedi_utils,0.17.5,0,0,https://github.com/valeratrades/tedi,"Leaf utilities for tedi, independent of its domain model"
+2026-10-28T06:34:25.837249Z,pdftomd-url-tools,0.1.0,0,0,https://github.com/wangneo276-lgtm/pdftomd-url-tools,"Free in-browser pdf to md tool. Drop a text PDF, preview Markdown, copy or download—files stay on your device. No account required."
+2026-10-28T06:36:52.40366Z,substrate-search-app,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"Find and Replace in Files' use cases: search and replace over a project or open documents, and the ports for walking and reading files."
+2026-10-28T06:40:27.178188Z,nitrotpm,0.1.0,0,0,https://github.com/sealzone/nitrotpm,"Retrieve a signed attestation document from an EC2 instance's NitroTPM, in pure Rust (no libtss2)"
+2026-10-28T06:42:10.131836Z,thruput-rv32-artifact,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,"The Thruput RV32 artifact format: constants, fingerprint, writer, and validator"
+2026-10-28T06:43:03.426224Z,pelorus_sdk,0.0.9,0,0,https://codeberg.org/stelzo/pelorus,Rust API for Pelorus Lidar-Inertial Odometry.
+2026-10-28T06:46:52.556847Z,substrate-search-ignore,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"Find and Replace in Files over the file system: a .gitignore-aware walk of a project, and text read and written through the product's text views."
+2026-10-28T06:49:28.509778Z,contime-events,0.1.0,0,0,https://github.com/humacss/contime,Isolated canonical event history storage for ConTime
+2026-10-28T06:49:28.992548Z,contime-lanes,0.1.0,0,0,https://github.com/humacss/contime,Isolated compile-time lane projection and application contracts for ConTime
+2026-10-28T06:49:29.331914Z,contime-progress,0.1.0,0,0,https://github.com/humacss/contime,Policy-independent bounded progress measurement for ConTime
+2026-10-28T06:49:30.025009Z,contime-router,0.1.0,0,0,https://github.com/humacss/contime,Isolated deterministic input routing for ConTime
+2026-10-28T06:52:11.350909Z,thruput-tx-validation,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Pre-submission transaction checks that mirror the bounds hogd enforces at execution
+2026-10-28T06:52:24.099983Z,docparser-odf,0.2.0,0,0,https://github.com/hi-agents/text-docparser,docparser ODF 后端：ODT / ODS / ODP 解析（zip + quick-xml 流式）
+2026-10-28T06:53:05.747806Z,pelorus_tui,0.0.9,0,0,https://codeberg.org/stelzo/pelorus,"Status view of Pelorus Lidar-Inertial Odometry, drawn with ratatui."
+2026-10-28T06:56:52.680151Z,substrate-terminal-app,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"A terminal's use cases: start a shell session whose output arrives as text, and list the shells a machine has, through the ports a pty adapter implements."
+2026-10-28T07:02:10.617667Z,thruput-json-rpc-server,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Reusable JSON-RPC server layer for Thruput
+2026-10-28T07:02:44.251428Z,gpui-icons,0.4.2,0,0,https://github.com/devaryakjha/gpui-icons,"The complete, embedded Lucide icon set for GPUI."
+2026-10-28T07:03:13.903475Z,pelorus_cli,0.0.9,0,0,https://codeberg.org/stelzo/pelorus,Resource-aware Lidar-Inertial Odometry.
+2026-10-28T07:05:55.681885Z,gpuicn,0.5.0-beta.5,0,0,https://github.com/devaryakjha/gpuicn,"shadcn components for GPUI, as a crate or as source you own."
+2026-10-28T07:06:52.937468Z,substrate-terminal-pty,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"A terminal on a real, cross-platform pty (Windows, Linux, macOS) through portable-pty, and shell detection on the search path."
+2026-10-28T07:11:25.353294Z,logsluice-core,0.1.0,0,0,https://github.com/jimmystewpot/logsluice,"High-performance, crash-safe windowed log aggregation and reduction engine backed by Fjall LSM and SIMD kernels."
+2026-10-28T07:12:10.635332Z,thruput-hogd-backend,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Shared hogd x23 backend adapters and XDR-to-JSON-RPC mapping for Thruput
+2026-10-28T07:12:18.128546Z,logsluice,0.1.0,0,0,https://github.com/jimmystewpot/logsluice,"Standalone async Tokio pipeline, OTLP/JSON log router, field normalizers, and slice renderer for logsluice."
+2026-10-28T07:12:43.290866Z,mb-rs,1.2.2,0,0,https://github.com/alfred-hong/mb-rs,Modbus TCP and RTU client (mb_client) and memory server (mb_server)
+2026-10-28T07:12:51.15941Z,avulse-proto,0.0.0,0,0,https://github.com/ffalcinelli/avulse,"Packet parsing (Ethernet, VLAN, ARP, IPv4/6, TCP, UDP, ICMP) and checksums."
+2026-10-28T07:12:53.886347Z,avulse-filter,0.0.0,0,0,https://github.com/ffalcinelli/avulse,"Filter language: parser, type checker, IR, bytecode verifier and interpreter."
+2026-10-28T07:12:56.650705Z,avulse-ebpf,0.0.0,0,0,https://github.com/ffalcinelli/avulse,Filter IR to eBPF code generation and the static BPF programs.
+2026-10-28T07:12:59.222685Z,avulse-cli,0.0.0,0,0,https://github.com/ffalcinelli/avulse,"Command-line tool: capture, inject and filter check/explain/fmt/convert."
+2026-10-28T07:13:01.812407Z,avulse-capi,0.0.0,0,0,https://github.com/ffalcinelli/avulse,C ABI for libavulse.
+2026-10-28T07:13:08.45107Z,logsluice-cli,0.1.0,0,0,https://github.com/jimmystewpot/logsluice,Deterministic crash-recovery replay harness and offline PVC state drain CLI for logsluice.
+2026-10-28T07:13:20.868153Z,avulse-windivert-compat,0.0.0,0,0,https://github.com/ffalcinelli/avulse,WinDivert-compatible API shim over avulse.
+2026-10-28T07:16:54.746319Z,substrate-dap-app,0.1.0,0,0,https://github.com/F000NKKK/Substrate-Platform,"A running debug adapter spoken to over the Debug Adapter Protocol: requests matched to responses, events decoded and passed on, the adapter's own requests answered, and the wire shape of events."
