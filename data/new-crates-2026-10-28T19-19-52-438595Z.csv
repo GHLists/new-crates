@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T18:20:53.288013Z,aad-uia,0.0.1,0,0,https://github.com/lejunyang/ai-auto-desktop,"Native Windows UI Automation driver: app discovery, UI description and automation"
+2026-10-28T18:21:15.257166Z,lifeterm,0.1.0,0,0,https://github.com/plaguss/game-of-life,"Conway's Game of Life in the terminal, with themes, patterns, and configurable rules"
+2026-10-28T18:23:06.225351Z,webservant,0.0.0,0,0,https://github.com/ThinkersJournal/webservant,"Reserved name: a web server program that works with any Rust web library (built on HTTPAnt). Placeholder, no functionality yet."
+2026-10-28T18:23:42.330895Z,surrealdb-pgwire,4.0.0-beta.1,0,0,https://github.com/surrealdb/surrealdb,PostgreSQL wire protocol (v3.0) server for SurrealDB
+2026-10-28T18:24:20.245278Z,demesne-postgres,1.1.0,0,0,https://github.com/foir-io/demesne,"Live-database support for demesne: schema introspection, policy-drift and coverage checks, and the RLS role audit."
+2026-10-28T18:27:37.588092Z,loopbuf,0.1.0,0,0,https://github.com/cpkb-bluezoo/loopbuf,"A pooled, fixed-capacity ring buffer for feeding bytes to push parsers"
+2026-10-28T18:28:53.86947Z,charmander,0.1.0,0,0,https://github.com/Varelion/charmander,A hotkey-driven Unicode character picker with favorites and Windows-style Alt codes
+2026-10-28T18:29:25.61215Z,kellnr-cratesio-sync,6.13.0,0,0,https://github.com/kellnr/kellnr,Kellnr is a self-hosted registry for Rust crates with support for rustdocs and crates.io caching.
+2026-10-28T18:29:36.308173Z,kellnr-filter,6.13.0,0,0,https://github.com/kellnr/kellnr,Kellnr is a self-hosted registry for Rust crates with support for rustdocs and crates.io caching.
+2026-10-28T18:30:53.172376Z,aad-probe,0.0.1,0,0,https://github.com/lejunyang/ai-auto-desktop,Read-only capability probes for desktop automation prerequisites
+2026-10-28T18:33:09.791518Z,nespra,0.1.0,0,0,https://github.com/kriogenia/nespra,Unofficial async Rust client for the Vespa search engine
+2026-10-28T18:33:41.877135Z,surrealdb-mywire,4.0.0-beta.1,0,0,https://github.com/surrealdb/surrealdb,MySQL wire protocol server for SurrealDB
+2026-10-28T18:34:16.719617Z,demesne-cli,1.1.0,0,0,https://github.com/foir-io/demesne,"The demesne command line: validate, emit, introspect, scaffold, check, diff and coverage."
+2026-10-28T18:34:55.773294Z,cudakit,0.1.0,0,0,https://github.com/avencera/cudakit,"Driver-only CUDA host stack: context, stream, embedded PTX/cubin modules, buffers, GEMM and graph capture, without libcudart"
+2026-10-28T18:34:56.594578Z,cudakit-build,0.1.0,0,0,https://github.com/avencera/cudakit,"Kernel toolchain for cudakit consumers: builds cuda-oxide kernels to PTX, pins cubins and checks committed artifacts"
+2026-10-28T18:36:39.03683Z,simdlex,0.1.1,0,0,https://github.com/zacharyvmm/simdlex,simdjson-style structural indexing as a primitive for any byte-level grammar
+2026-10-28T18:36:44.815954Z,libzwatty,0.0.1,0,0,https://github.com/luis8h/zwatty,Core library powering all zwatty frontends that can also be used indepentently for other projects
+2026-10-28T18:37:41.981967Z,nostr-verify,0.1.0,0,0,https://github.com/VectorPrivacy/nostr-verify,"BIP-340 Schnorr signatures checked in batches, with a cache of parsed keys: Nostr events verified 2-3x faster"
+2026-10-28T18:37:56.843988Z,zwatty-cli,0.0.1,0,0,https://github.com/luis8h/zwatty,Command-line interface for zwatty
+2026-10-28T18:38:17.268211Z,zwatty-tui,0.0.1,0,0,https://github.com/luis8h/zwatty,Terminal user interface for zwatty
+2026-10-28T18:40:52.886611Z,aad-control,0.0.1,0,0,https://github.com/lejunyang/ai-auto-desktop,Session-scoped desktop and browser control with authenticated stdio transport
+2026-10-28T18:43:16.378564Z,ranma-alacritty-terminal,0.1.0,0,0,https://github.com/masshirodev/alacritty,"alacritty_terminal 0.26.0 with emoji presentation (VS16) taking two cells, for ranma"
+2026-10-28T18:44:31.315505Z,demesne-emit-go,1.1.0,0,0,https://github.com/foir-io/demesne,Emits demesne's Go surface: projections for the Go runtime and the typed framework package.
+2026-10-28T18:47:54.889211Z,uison-agent,0.1.1,0,0,https://github.com/uisonlab/uison,"Agent mode for uison programs: an LLM agent reads the meaning of the screen and acts on it over JSON lines or MCP, without screenshots"
+2026-10-28T18:50:17.696036Z,zhin,0.1.0-alpha.1,0,0,,"Minimal async API wrapper for Lezhin | metadata, ownership, viewer images, descramble | Extremely minimal."
+2026-10-28T18:50:39.014906Z,zhin-mini,0.1.0-alpha.1,0,0,,"Minimal async API wrapper for Lezhin | metadata, ownership, viewer images, descramble | Extremely minimal."
+2026-10-28T18:50:54.125945Z,aad-mcp,0.0.1,0,0,https://github.com/lejunyang/ai-auto-desktop,Model Context Protocol server exposing desktop discovery and automation
+2026-10-28T18:50:57.786302Z,zhin-mini-cli,0.1.0-alpha.1,0,0,,"Minimal async API wrapper for Lezhin | metadata, ownership, viewer images, descramble | Extremely minimal."
+2026-10-28T18:51:06.405226Z,zhin-cli,0.1.0-alpha.1,0,0,,"Minimal async API wrapper for Lezhin | metadata, ownership, viewer images, descramble | Extremely minimal."
+2026-10-28T18:51:24.856648Z,zhin-epub,0.1.0-alpha.1,0,0,,"Minimal async API wrapper for Lezhin | metadata, ownership, viewer images, descramble | Extremely minimal."
+2026-10-28T18:53:04.363038Z,ofdbox-yaserde-derive,0.13.1,0,0,https://github.com/ofdbox/yaserde,Serialization and deserialization macros
+2026-10-28T18:53:19.63914Z,ofdbox-yaserde,0.13.1,0,0,https://github.com/ofdbox/yaserde,Serialization and deserialization library
+2026-10-28T18:54:03.919385Z,borg-trace,0.5.0,0,0,https://github.com/debe/borg_ai,Parse Claude Code / omp transcripts into canonical touch streams
+2026-10-28T18:54:07.001847Z,borg-ai,0.5.0,0,0,https://github.com/debe/borg_ai,Collective mind for coding-agent drones: CLI and harness hooks
+2026-10-28T18:54:09.98998Z,borg-mesh,0.5.0,0,0,https://github.com/debe/borg_ai,The team mind without a server: peer-to-peer sync of a collective's lessons between signed members
+2026-10-28T18:54:11.18338Z,borg-web,0.5.0,0,0,https://github.com/debe/borg_ai,"A local, live page of a collective's knowledge and usage statistics"
+2026-10-28T18:56:38.626308Z,feldera-mtls,0.0.1,0,0,https://github.com/feldera/feldera,Client certificate identities of Feldera components and the server-side checks
+2026-10-28T18:57:04.19571Z,ossuary-sync,0.14.0,0,0,https://github.com/sniner/ossuary,"Copies an ossuary archive to a second place, sending only what the copy lacks"
+2026-10-28T18:59:59.836197Z,moonbridge,0.1.2,0,0,https://github.com/RubyNova/moonbridge,A Debug Adapter Protocol (DAP) wrapper for Lua.
+2026-10-28T19:00:52.8143Z,aad-cli,0.0.1,0,0,https://github.com/lejunyang/ai-auto-desktop,Command line interface for ai-auto-desktop
+2026-10-28T19:05:34.627168Z,ringline-tls,0.1.0,0,0,https://github.com/ringline-rs/rustls,A fork of rustls 0.23 maintained for ringline.
+2026-10-28T19:09:42.097643Z,brokapi-conformance,0.1.0-alpha.9,0,0,https://github.com/runinfra/brokapi,"The behaviour scenarios every broker connector of brokapi passes, against its imitation: run them on a connector of your own"
+2026-10-28T19:12:59.187909Z,brokapi-mocks,0.1.0-alpha.9,0,0,https://github.com/runinfra/brokapi,"In-process imitations of the brokers of brokapi (BCS, T-Bank, Finam, ALOR, Bybit) for your own tests: servers on 127.0.0.1 that speak the protocol of each broker. Their API may change between version…"
+2026-10-28T19:14:06.462122Z,officekit-xml,0.1.0,0,0,https://github.com/tixena/officekit,"The XML and package layer of officekit: element tree, names, values, markup compatibility, part reader and writer, and the Open Packaging Conventions container with its part names, content types, rel…"
+2026-10-28T19:15:05.210957Z,jgrapht,1.0.0,0,0,https://github.com/d-michail/jgrapht-rs,"A Rust port of the JGraphT core library, built around graph traits"
+2026-10-28T19:15:08.623054Z,officekit-markup-base,0.1.0,0,0,https://github.com/tixena/officekit,"The typed tree's runtime, and the namespaces the typed tree's cycle depends on"
+2026-10-28T19:15:54.236752Z,jgrapht-io,1.0.0,0,0,https://github.com/d-michail/jgrapht-rs,Graph importers and exporters for jgrapht
+2026-10-28T19:16:16.154375Z,officekit-markup-core,0.1.0,0,0,https://github.com/tixena/officekit,The namespaces of the typed tree that reference each other in a cycle
+2026-10-28T19:17:48.718203Z,officekit-markup,0.1.0,0,0,https://github.com/tixena/officekit,"The typed tree of officekit: one module per Office Open XML namespace, with readers, writers and hooks"
+2026-10-28T19:19:27.001448Z,satlib,0.1.0,0,0,,My multitool library
+2026-10-28T19:19:50.122207Z,officekit-strict,0.1.0,0,0,https://github.com/tixena/officekit,"The Strict conformance class of officekit, the read and write of every node of the typed tree in Strict, and the typed tree's traversals: each node's Transform, Visit and WriteThrough"

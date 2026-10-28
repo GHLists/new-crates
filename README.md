@@ -8,61 +8,65 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 18:18 UTC
+## Latest list — 2026-10-28 19:19 UTC
 
-New crates published between 2026-10-28 17:19 UTC and 2026-10-28 18:18 UTC.
+New crates published between 2026-10-28 18:18 UTC and 2026-10-28 19:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-28T18-18-20-845373Z.csv)
+[Full CSV](data/new-crates-2026-10-28T19-19-52-438595Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-28 17:20:07 | [kaja-web-component](https://crates.io/crates/kaja-web-component) | 1.0.1 | 0 | Web component framework for Rust targeting the WebAssembly |
-| 2026-10-28 17:35:02 | [cf-gears-construct](https://crates.io/crates/cf-gears-construct) | 0.1.0 | 0 | Construct gear: living per-subject profile built from connector records |
-| 2026-10-28 17:35:38 | [holger-dev-narrate](https://crates.io/crates/holger-dev-narrate) | 2.0.0 | 0 | Holger's DEV-NARRATE half: the STAGE lines and the sealed boot-log sender's sta… |
-| 2026-10-28 17:36:06 | [cf-gears-firebase-authn-plugin](https://crates.io/crates/cf-gears-firebase-authn-plugin) | 0.1.0 | 0 | AuthN resolver plugin verifying Firebase ID tokens, with configured identity an… |
-| 2026-10-28 17:36:26 | [holger-zip-entry](https://crates.io/crates/holger-zip-entry) | 2.0.0 | 0 | Bounded ZIP central-directory reader for holger's archive-backed backends — rea… |
-| 2026-10-28 17:36:40 | [holger-intel](https://crates.io/crates/holger-intel) | 2.0.0 | 0 | Holger offline vulnerability intelligence: OSV / NVD / CISA KEV normalized into… |
-| 2026-10-28 17:37:01 | [holger-live](https://crates.io/crates/holger-live) | 2.0.0 | 0 | Holger's live slot: a box's (main, twin, front) own A/B app slot over korp-inst… |
-| 2026-10-28 17:37:10 | [holger-sandbox](https://crates.io/crates/holger-sandbox) | 2.0.0 | 0 | Holger's scan sandbox: runs the scan worker over one artifact in a hardened roo… |
-| 2026-10-28 17:38:39 | [holger-downstream](https://crates.io/crates/holger-downstream) | 2.0.0 | 0 | Holger downstream's rules (Holger v2.0 H3): the on-prem, air-gapped gateway tak… |
-| 2026-10-28 17:41:26 | [smysl-embed-candle](https://crates.io/crates/smysl-embed-candle) | 1.10.0 | 0 | Transformer embeddings for a smysl store (S1): multilingual encoders on candle,… |
-| 2026-10-28 17:41:28 | [smysl-query](https://crates.io/crates/smysl-query) | 1.10.0 | 0 | smysl query language sq/1: lexer, parser, AST, canonical printer and planner |
-| 2026-10-28 17:41:38 | [smysl-text](https://crates.io/crates/smysl-text) | 1.10.0 | 0 | smysl text library: normalisation, parts, readings, structure, locators, object… |
-| 2026-10-28 17:41:41 | [smysl-lib](https://crates.io/crates/smysl-lib) | 1.10.0 | 0 | smysl library import and export: inclusion closure, canonical collections, roun… |
-| 2026-10-28 17:41:41 | [smysl-measure](https://crates.io/crates/smysl-measure) | 1.10.0 | 0 | smysl measures (RFC SMYSL-2.6): recipes, exact payload numbers and derived data… |
-| 2026-10-28 17:42:23 | [sorrel-remote](https://crates.io/crates/sorrel-remote) | 0.2.1 | 0 | Remote work protocol for Sorrel: share a dataset with a guest machine over piyi… |
-| 2026-10-28 17:42:30 | [borrow_lite_derive](https://crates.io/crates/borrow_lite_derive) | 0.1.0 | 0 | The optional `#[derive(Cell)]` for borrow_lite: one struct instead of the two-n… |
-| 2026-10-28 17:42:36 | [borrow_lite](https://crates.io/crates/borrow_lite) | 0.1.0 | 0 | Rc<RefCell<T>> and Arc<RwLock<T>> ergonomics without the pain: one small API, t… |
-| 2026-10-28 17:49:03 | [holger-fleet](https://crates.io/crates/holger-fleet) | 2.0.0 | 0 | The estate side of the ONE monetize's pull channel for Holger: Holger's order k… |
-| 2026-10-28 17:53:45 | [demesne-gocompat](https://crates.io/crates/demesne-gocompat) | 1.0.0 | 0 | Byte-exact reproductions of the Go standard library formatting demesne's output… |
-| 2026-10-28 17:53:48 | [demesne-runtime](https://crates.io/crates/demesne-runtime) | 1.0.0 | 0 | The demesne runtime: the holds resolver, access and grant surfaces, claims, and… |
-| 2026-10-28 17:53:48 | [demesne-syntax](https://crates.io/crates/demesne-syntax) | 1.0.0 | 0 | Lexer, parser and AST for the demesne authorization spec language. |
-| 2026-10-28 17:53:51 | [demesne-model](https://crates.io/crates/demesne-model) | 1.0.0 | 0 | The demesne model: topology, analysis, validation and schema binding over a par… |
-| 2026-10-28 17:53:53 | [demesne-emit-sql](https://crates.io/crates/demesne-emit-sql) | 1.0.0 | 0 | Emits the demesne enforcement floor: RLS policies, the SECURITY DEFINER kernel,… |
-| 2026-10-28 17:54:23 | [calimero-app-downloader](https://crates.io/crates/calimero-app-downloader) | 1.0.0-rc.1 | 0 | Core Calimero infrastructure and tools |
-| 2026-10-28 17:57:07 | [aad-core](https://crates.io/crates/aad-core) | 0.0.1 | 0 | Descriptor model, expression evaluator and workflow compiler for ai-auto-desktop |
-| 2026-10-28 17:58:09 | [aad-plugin](https://crates.io/crates/aad-plugin) | 0.0.1 | 0 | NDJSON subprocess plugin host for ai-auto-desktop |
-| 2026-10-28 17:59:12 | [aad-runtime](https://crates.io/crates/aad-runtime) | 0.0.1 | 0 | Workflow execution engine for ai-auto-desktop |
-| 2026-10-28 18:00:08 | [tm-datalog](https://crates.io/crates/tm-datalog) | 0.10.0 | 0 | Tiramemsu Datalog: a semi-naive engine with DatalogMTL over valid time, magic-s… |
-| 2026-10-28 18:00:15 | [aad-ocr](https://crates.io/crates/aad-ocr) | 0.0.1 | 0 | Native Tesseract OCR provider for ai-auto-desktop |
-| 2026-10-28 18:01:17 | [aad-atspi](https://crates.io/crates/aad-atspi) | 0.0.1 | 0 | Native Rust Linux AT-SPI provider for ai-auto-desktop |
-| 2026-10-28 18:01:33 | [surrealdb-parser-next](https://crates.io/crates/surrealdb-parser-next) | 4.0.0-beta.1 | 0 | A scalable, distributed, collaborative, document-graph database, for the realti… |
-| 2026-10-28 18:01:35 | [surrealdb-sqlfront-derive](https://crates.io/crates/surrealdb-sqlfront-derive) | 4.0.0-beta.1 | 0 | Derive macro for SurrealDB SQL front-end AST nodes |
-| 2026-10-28 18:01:37 | [surrealdb-stored-derive](https://crates.io/crates/surrealdb-stored-derive) | 4.0.0-beta.1 | 0 | A scalable, distributed, collaborative, document-graph database, for the realti… |
-| 2026-10-28 18:01:39 | [surrealism-verify](https://crates.io/crates/surrealism-verify) | 0.7.0-beta.1 | 0 | Signature verification for Surrealism extension archives |
-| 2026-10-28 18:01:40 | [dfmt_rs](https://crates.io/crates/dfmt_rs) | 0.1.1 | 0 | A tiny format lib |
-| 2026-10-28 18:01:42 | [surrealdb-pgsql](https://crates.io/crates/surrealdb-pgsql) | 4.0.0-beta.1 | 0 | PostgreSQL language front end for SurrealDB |
-| 2026-10-28 18:02:20 | [aad-macos-ax](https://crates.io/crates/aad-macos-ax) | 0.0.1 | 0 | Native Rust adapter for the macOS Accessibility provider |
-| 2026-10-28 18:03:40 | [surrealdb-mysql](https://crates.io/crates/surrealdb-mysql) | 4.0.0-beta.1 | 0 | MySQL language front end for SurrealDB |
-| 2026-10-28 18:04:04 | [devpage-core](https://crates.io/crates/devpage-core) | 0.2.3 | 0 | devpage's core: documents, rendering, link checking, comments and designs, with… |
-| 2026-10-28 18:04:31 | [demesne-emit-rust](https://crates.io/crates/demesne-emit-rust) | 1.0.0 | 0 | Emits demesne's Rust surface: a spec's runtime tables as statics, only for the… |
-| 2026-10-28 18:06:30 | [zgx-3d](https://crates.io/crates/zgx-3d) | 0.1.5 | 0 | Retained 3D scenes for zgx: meshes, a camera, lights and a PBR material, drawn… |
-| 2026-10-28 18:10:52 | [aad-cdp](https://crates.io/crates/aad-cdp) | 0.0.1 | 0 | Read-only Chrome DevTools Protocol client for observing Chromium page text and… |
-| 2026-10-28 18:13:42 | [surrealdb-sqlplan](https://crates.io/crates/surrealdb-sqlplan) | 4.0.0-beta.1 | 0 | SQL planner, binder, and bound IR for SurrealDB |
-| 2026-10-28 18:14:21 | [demesne-emit-ts](https://crates.io/crates/demesne-emit-ts) | 1.0.0 | 0 | Emits demesne's TypeScript surface: projections for @foir/demesne and the typed… |
-| 2026-10-28 18:15:52 | [papermend](https://crates.io/crates/papermend) | 0.1.0 | 0 | Minimal, CLI-only PaperCut Print Deploy client for macOS and Linux. Nothing run… |
-| 2026-10-28 18:16:11 | [slain-mlkem](https://crates.io/crates/slain-mlkem) | 0.1.0 | 0 | ML-KEM (FIPS 203) post-quantum key encapsulation in pure Rust; no_std, no alloc… |
-| 2026-10-28 18:16:22 | [slain-mldsa](https://crates.io/crates/slain-mldsa) | 0.1.0 | 0 | ML-DSA (FIPS 204) post-quantum digital signatures in pure Rust; no_std, no allo… |
+| 2026-10-28 18:20:53 | [aad-uia](https://crates.io/crates/aad-uia) | 0.0.1 | 0 | Native Windows UI Automation driver: app discovery, UI description and automati… |
+| 2026-10-28 18:21:15 | [lifeterm](https://crates.io/crates/lifeterm) | 0.1.0 | 0 | Conway's Game of Life in the terminal, with themes, patterns, and configurable… |
+| 2026-10-28 18:23:06 | [webservant](https://crates.io/crates/webservant) | 0.0.0 | 0 | Reserved name: a web server program that works with any Rust web library (built… |
+| 2026-10-28 18:23:42 | [surrealdb-pgwire](https://crates.io/crates/surrealdb-pgwire) | 4.0.0-beta.1 | 0 | PostgreSQL wire protocol (v3.0) server for SurrealDB |
+| 2026-10-28 18:24:20 | [demesne-postgres](https://crates.io/crates/demesne-postgres) | 1.1.0 | 0 | Live-database support for demesne: schema introspection, policy-drift and cover… |
+| 2026-10-28 18:27:37 | [loopbuf](https://crates.io/crates/loopbuf) | 0.1.0 | 0 | A pooled, fixed-capacity ring buffer for feeding bytes to push parsers |
+| 2026-10-28 18:28:53 | [charmander](https://crates.io/crates/charmander) | 0.1.0 | 0 | A hotkey-driven Unicode character picker with favorites and Windows-style Alt c… |
+| 2026-10-28 18:29:25 | [kellnr-cratesio-sync](https://crates.io/crates/kellnr-cratesio-sync) | 6.13.0 | 0 | Kellnr is a self-hosted registry for Rust crates with support for rustdocs and… |
+| 2026-10-28 18:29:36 | [kellnr-filter](https://crates.io/crates/kellnr-filter) | 6.13.0 | 0 | Kellnr is a self-hosted registry for Rust crates with support for rustdocs and… |
+| 2026-10-28 18:30:53 | [aad-probe](https://crates.io/crates/aad-probe) | 0.0.1 | 0 | Read-only capability probes for desktop automation prerequisites |
+| 2026-10-28 18:33:09 | [nespra](https://crates.io/crates/nespra) | 0.1.0 | 0 | Unofficial async Rust client for the Vespa search engine |
+| 2026-10-28 18:33:41 | [surrealdb-mywire](https://crates.io/crates/surrealdb-mywire) | 4.0.0-beta.1 | 0 | MySQL wire protocol server for SurrealDB |
+| 2026-10-28 18:34:16 | [demesne-cli](https://crates.io/crates/demesne-cli) | 1.1.0 | 0 | The demesne command line: validate, emit, introspect, scaffold, check, diff and… |
+| 2026-10-28 18:34:55 | [cudakit](https://crates.io/crates/cudakit) | 0.1.0 | 0 | Driver-only CUDA host stack: context, stream, embedded PTX/cubin modules, buffe… |
+| 2026-10-28 18:34:56 | [cudakit-build](https://crates.io/crates/cudakit-build) | 0.1.0 | 0 | Kernel toolchain for cudakit consumers: builds cuda-oxide kernels to PTX, pins… |
+| 2026-10-28 18:36:39 | [simdlex](https://crates.io/crates/simdlex) | 0.1.1 | 0 | simdjson-style structural indexing as a primitive for any byte-level grammar |
+| 2026-10-28 18:36:44 | [libzwatty](https://crates.io/crates/libzwatty) | 0.0.1 | 0 | Core library powering all zwatty frontends that can also be used indepentently… |
+| 2026-10-28 18:37:41 | [nostr-verify](https://crates.io/crates/nostr-verify) | 0.1.0 | 0 | BIP-340 Schnorr signatures checked in batches, with a cache of parsed keys: Nos… |
+| 2026-10-28 18:37:56 | [zwatty-cli](https://crates.io/crates/zwatty-cli) | 0.0.1 | 0 | Command-line interface for zwatty |
+| 2026-10-28 18:38:17 | [zwatty-tui](https://crates.io/crates/zwatty-tui) | 0.0.1 | 0 | Terminal user interface for zwatty |
+| 2026-10-28 18:40:52 | [aad-control](https://crates.io/crates/aad-control) | 0.0.1 | 0 | Session-scoped desktop and browser control with authenticated stdio transport |
+| 2026-10-28 18:43:16 | [ranma-alacritty-terminal](https://crates.io/crates/ranma-alacritty-terminal) | 0.1.0 | 0 | alacritty_terminal 0.26.0 with emoji presentation (VS16) taking two cells, for… |
+| 2026-10-28 18:44:31 | [demesne-emit-go](https://crates.io/crates/demesne-emit-go) | 1.1.0 | 0 | Emits demesne's Go surface: projections for the Go runtime and the typed framew… |
+| 2026-10-28 18:47:54 | [uison-agent](https://crates.io/crates/uison-agent) | 0.1.1 | 0 | Agent mode for uison programs: an LLM agent reads the meaning of the screen and… |
+| 2026-10-28 18:50:17 | [zhin](https://crates.io/crates/zhin) | 0.1.0-alpha.1 | 0 | Minimal async API wrapper for Lezhin \| metadata, ownership, viewer images, desc… |
+| 2026-10-28 18:50:39 | [zhin-mini](https://crates.io/crates/zhin-mini) | 0.1.0-alpha.1 | 0 | Minimal async API wrapper for Lezhin \| metadata, ownership, viewer images, desc… |
+| 2026-10-28 18:50:54 | [aad-mcp](https://crates.io/crates/aad-mcp) | 0.0.1 | 0 | Model Context Protocol server exposing desktop discovery and automation |
+| 2026-10-28 18:50:57 | [zhin-mini-cli](https://crates.io/crates/zhin-mini-cli) | 0.1.0-alpha.1 | 0 | Minimal async API wrapper for Lezhin \| metadata, ownership, viewer images, desc… |
+| 2026-10-28 18:51:06 | [zhin-cli](https://crates.io/crates/zhin-cli) | 0.1.0-alpha.1 | 0 | Minimal async API wrapper for Lezhin \| metadata, ownership, viewer images, desc… |
+| 2026-10-28 18:51:24 | [zhin-epub](https://crates.io/crates/zhin-epub) | 0.1.0-alpha.1 | 0 | Minimal async API wrapper for Lezhin \| metadata, ownership, viewer images, desc… |
+| 2026-10-28 18:53:04 | [ofdbox-yaserde-derive](https://crates.io/crates/ofdbox-yaserde-derive) | 0.13.1 | 0 | Serialization and deserialization macros |
+| 2026-10-28 18:53:19 | [ofdbox-yaserde](https://crates.io/crates/ofdbox-yaserde) | 0.13.1 | 0 | Serialization and deserialization library |
+| 2026-10-28 18:54:03 | [borg-trace](https://crates.io/crates/borg-trace) | 0.5.0 | 0 | Parse Claude Code / omp transcripts into canonical touch streams |
+| 2026-10-28 18:54:07 | [borg-ai](https://crates.io/crates/borg-ai) | 0.5.0 | 0 | Collective mind for coding-agent drones: CLI and harness hooks |
+| 2026-10-28 18:54:09 | [borg-mesh](https://crates.io/crates/borg-mesh) | 0.5.0 | 0 | The team mind without a server: peer-to-peer sync of a collective's lessons bet… |
+| 2026-10-28 18:54:11 | [borg-web](https://crates.io/crates/borg-web) | 0.5.0 | 0 | A local, live page of a collective's knowledge and usage statistics |
+| 2026-10-28 18:56:38 | [feldera-mtls](https://crates.io/crates/feldera-mtls) | 0.0.1 | 0 | Client certificate identities of Feldera components and the server-side checks |
+| 2026-10-28 18:57:04 | [ossuary-sync](https://crates.io/crates/ossuary-sync) | 0.14.0 | 0 | Copies an ossuary archive to a second place, sending only what the copy lacks |
+| 2026-10-28 18:59:59 | [moonbridge](https://crates.io/crates/moonbridge) | 0.1.2 | 0 | A Debug Adapter Protocol (DAP) wrapper for Lua. |
+| 2026-10-28 19:00:52 | [aad-cli](https://crates.io/crates/aad-cli) | 0.0.1 | 0 | Command line interface for ai-auto-desktop |
+| 2026-10-28 19:05:34 | [ringline-tls](https://crates.io/crates/ringline-tls) | 0.1.0 | 0 | A fork of rustls 0.23 maintained for ringline. |
+| 2026-10-28 19:09:42 | [brokapi-conformance](https://crates.io/crates/brokapi-conformance) | 0.1.0-alpha.9 | 0 | The behaviour scenarios every broker connector of brokapi passes, against its i… |
+| 2026-10-28 19:12:59 | [brokapi-mocks](https://crates.io/crates/brokapi-mocks) | 0.1.0-alpha.9 | 0 | In-process imitations of the brokers of brokapi (BCS, T-Bank, Finam, ALOR, Bybi… |
+| 2026-10-28 19:14:06 | [officekit-xml](https://crates.io/crates/officekit-xml) | 0.1.0 | 0 | The XML and package layer of officekit: element tree, names, values, markup com… |
+| 2026-10-28 19:15:05 | [jgrapht](https://crates.io/crates/jgrapht) | 1.0.0 | 0 | A Rust port of the JGraphT core library, built around graph traits |
+| 2026-10-28 19:15:08 | [officekit-markup-base](https://crates.io/crates/officekit-markup-base) | 0.1.0 | 0 | The typed tree's runtime, and the namespaces the typed tree's cycle depends on |
+| 2026-10-28 19:15:54 | [jgrapht-io](https://crates.io/crates/jgrapht-io) | 1.0.0 | 0 | Graph importers and exporters for jgrapht |
+| 2026-10-28 19:16:16 | [officekit-markup-core](https://crates.io/crates/officekit-markup-core) | 0.1.0 | 0 | The namespaces of the typed tree that reference each other in a cycle |
+| 2026-10-28 19:17:48 | [officekit-markup](https://crates.io/crates/officekit-markup) | 0.1.0 | 0 | The typed tree of officekit: one module per Office Open XML namespace, with rea… |
+| 2026-10-28 19:19:27 | [satlib](https://crates.io/crates/satlib) | 0.1.0 | 0 | My multitool library |
+| 2026-10-28 19:19:50 | [officekit-strict](https://crates.io/crates/officekit-strict) | 0.1.0 | 0 | The Strict conformance class of officekit, the read and write of every node of… |
 
 ## Data source
 
