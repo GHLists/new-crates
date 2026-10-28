@@ -8,34 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 08:20 UTC
+## Latest list — 2026-10-28 09:18 UTC
 
-New crates published between 2026-10-28 07:18 UTC and 2026-10-28 08:20 UTC.
+New crates published between 2026-10-28 08:20 UTC and 2026-10-28 09:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-28T08-20-35-047792Z.csv)
+[Full CSV](data/new-crates-2026-10-28T09-18-55-067165Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-28 07:22:11 | [thruput-json-rpc-client](https://crates.io/crates/thruput-json-rpc-client) | 0.42.0 | 0 | Typed client for the Thruput JSON-RPC API |
-| 2026-10-28 07:23:18 | [gpuicn-cli](https://crates.io/crates/gpuicn-cli) | 0.5.0-beta.5 | 0 | Install editable gpuicn Rust components without Node.js. |
-| 2026-10-28 07:26:52 | [substrate-lsp-app](https://crates.io/crates/substrate-lsp-app) | 0.1.0 | 0 | A running language server spoken to over the Language Server Protocol: requests… |
-| 2026-10-28 07:28:33 | [sva-solve](https://crates.io/crates/sva-solve) | 0.17.0 | 0 | Fits a recording as a composition of sources by minimum description length |
-| 2026-10-28 07:32:12 | [thruput-signing](https://crates.io/crates/thruput-signing) | 0.42.0 | 0 | Off-chain transaction signing and construction for Thruput |
-| 2026-10-28 07:36:46 | [iron-heart](https://crates.io/crates/iron-heart) | 0.0.1 | 0 | A BLE Heart Rate Monitor bridge for Social VR, OBS, Data Logging, and more! |
-| 2026-10-28 07:36:56 | [tauri-plugin-substrate](https://crates.io/crates/tauri-plugin-substrate) | 0.1.0 | 0 | Substrate Platform's host commands for a Tauri app: the workspace boundary, ope… |
-| 2026-10-28 07:42:11 | [thruput-client](https://crates.io/crates/thruput-client) | 0.42.0 | 0 | Embeddable Thruput contract invocation client |
-| 2026-10-28 07:46:43 | [lance-jsonb](https://crates.io/crates/lance-jsonb) | 14.0.1 | 0 | JSONB binary encoding, parsing, and JSONPath evaluation for Lance |
-| 2026-10-28 07:48:14 | [sieve-sundaram-64](https://crates.io/crates/sieve-sundaram-64) | 0.1.0 | 0 | 64-bit interval generalized Sundaram sieve library, sequential and parallel imp… |
-| 2026-10-28 07:52:11 | [thruput-node-supervisor](https://crates.io/crates/thruput-node-supervisor) | 0.42.0 | 0 | Local node supervisor for Thruput development |
-| 2026-10-28 08:02:13 | [thruput-rv32-lower](https://crates.io/crates/thruput-rv32-lower) | 0.42.0 | 0 | Lower a RISC-V rv32im contract ELF to the canonical Thruput RV32 artifact |
-| 2026-10-28 08:08:09 | [dendro-platform-policy](https://crates.io/crates/dendro-platform-policy) | 0.9.0 | 0 | Platform policy, boundary isolation, and path containment validation for Dendro. |
-| 2026-10-28 08:08:24 | [dendro-windows-private-io](https://crates.io/crates/dendro-windows-private-io) | 0.9.0 | 0 | Private Windows I/O abstractions and handle custody for Dendro. |
-| 2026-10-28 08:11:41 | [dendro-core](https://crates.io/crates/dendro-core) | 0.9.0 | 0 | Core domain models, storage engine, and telemetry facts for Dendro. |
-| 2026-10-28 08:12:11 | [dendro-connectors](https://crates.io/crates/dendro-connectors) | 0.9.0 | 0 | Harness log collectors and session parsers for Claude, Codex, AGY, and OpenRig. |
-| 2026-10-28 08:12:11 | [thruput-toolchain](https://crates.io/crates/thruput-toolchain) | 0.42.0 | 0 | Verified hog-devnode toolchain catalog and installation management |
-| 2026-10-28 08:12:29 | [dendro-resolver](https://crates.io/crates/dendro-resolver) | 0.9.0 | 0 | Seat and session correlation resolver for multi-agent fleets in Dendro. |
-| 2026-10-28 08:15:05 | [warpin-workspace](https://crates.io/crates/warpin-workspace) | 0.2.10 | 0 | Fenced workspace reservations and fixed-capacity Linux filesystem allocations |
-| 2026-10-28 08:19:49 | [dendro-watcher](https://crates.io/crates/dendro-watcher) | 0.9.0 | 0 | Filesystem event watcher and watermark streaming pipeline for Dendro. |
+| 2026-10-28 08:22:10 | [thruput-cli-macros](https://crates.io/crates/thruput-cli-macros) | 0.42.0 | 0 | Derive for per-variant CLI error metadata (code, hint, JSON details) |
+| 2026-10-28 08:29:10 | [cloakpipe-policy](https://crates.io/crates/cloakpipe-policy) | 0.12.0 | 0 | Cedar policy evaluation and persistent call counters for the CloakPipe tool gate |
+| 2026-10-28 08:29:11 | [cloakpipe-release](https://crates.io/crates/cloakpipe-release) | 0.12.0 | 0 | Agent release manifests for CloakPipe: schema, validation, canonical hashing, t… |
+| 2026-10-28 08:29:12 | [flamsteed](https://crates.io/crates/flamsteed) | 0.1.0 | 0 | Bright stars and their motion in space, from public-domain catalogue data, with… |
+| 2026-10-28 08:29:13 | [cloakpipe-receipt](https://crates.io/crates/cloakpipe-receipt) | 0.12.0 | 0 | DSSE envelopes and signed approval receipts for one exact AI-agent tool call |
+| 2026-10-28 08:29:14 | [cloakpipe-cert](https://crates.io/crates/cloakpipe-cert) | 0.12.0 | 0 | Legacy agent-release certification for CloakPipe (`certification` feature): eva… |
+| 2026-10-28 08:29:15 | [cloakpipe-verify](https://crates.io/crates/cloakpipe-verify) | 0.12.0 | 0 | Standalone verifier for CloakPipe evidence bundles and release audit packs — no… |
+| 2026-10-28 08:30:21 | [dendro-cli](https://crates.io/crates/dendro-cli) | 0.9.0 | 0 | Dendro CLI — local-first AI Fleet Intelligence and Governance engine. |
+| 2026-10-28 08:32:14 | [thruput](https://crates.io/crates/thruput) | 0.42.0 | 0 | Thruput smart contract development tools |
+| 2026-10-28 08:33:21 | [semio-studio-auth](https://crates.io/crates/semio-studio-auth) | 1.1.0 | 0 | Signs Rust clients in to Semio Studio: sign-in by code, enrollment tokens, rene… |
+| 2026-10-28 08:36:21 | [ripbi-app](https://crates.io/crates/ripbi-app) | 0.12.0 | 0 | Front-end neutral application layer for ripbi: target discovery, configuration,… |
+| 2026-10-28 08:41:47 | [lns-fleet-types](https://crates.io/crates/lns-fleet-types) | 0.1.0 | 0 | Rust types for the LNS Fleet API contract |
+| 2026-10-28 08:42:09 | [thruput-cli](https://crates.io/crates/thruput-cli) | 0.42.0 | 0 | Renamed to `thruput`: install the Thruput CLI with `cargo install thruput` |
+| 2026-10-28 08:46:17 | [cloakpipe-anchor](https://crates.io/crates/cloakpipe-anchor) | 0.12.0 | 0 | External anchoring for CloakPipe evidence bundles — Merkle batching, RFC-3161 T… |
+| 2026-10-28 08:46:18 | [cloakpipe-ledger](https://crates.io/crates/cloakpipe-ledger) | 0.12.0 | 0 | Verifiable evidence ledger: hash-chained, signed, no-PII records for CloakPipe |
+| 2026-10-28 08:51:37 | [quik-dsp](https://crates.io/crates/quik-dsp) | 0.4.0 | 0 | DSP primitives for SDR receivers: Goertzel and tone detectors, FM discriminator… |
+| 2026-10-28 08:51:52 | [verwalter](https://crates.io/crates/verwalter) | 0.4.0 | 0 | Changeset-based versioning for single packages and monorepos |
+| 2026-10-28 08:51:58 | [crazyflie-connection-protocol](https://crates.io/crates/crazyflie-connection-protocol) | 0.1.0 | 0 | Wire protocol between the Crazyflie connection server and its clients |
+| 2026-10-28 08:52:01 | [crazyflie-connection-server](https://crates.io/crates/crazyflie-connection-server) | 0.1.0 | 0 | Share Crazyradios and Crazyflie connections between programs, on this machine o… |
+| 2026-10-28 08:52:11 | [thruput-testkit](https://crates.io/crates/thruput-testkit) | 0.42.0 | 0 | Multi-agent integration-test harness for Thruput contract applications |
+| 2026-10-28 08:58:41 | [hangul-overlap](https://crates.io/crates/hangul-overlap) | 0.1.0 | 0 | 한글 문자끼리 겹칠 수 있는지 판정하고, 겹칠 수 있는 글자를 찾는 Rust 라이브러리 |
+| 2026-10-28 09:01:49 | [ofdrw](https://crates.io/crates/ofdrw) | 0.1.0 | 0 | OFD document package and reader written in Rust |
+| 2026-10-28 09:06:40 | [rul](https://crates.io/crates/rul) | 0.1.0 | 0 | Rul (.rl) — Schedule- and Proof-Carrying 128-Bit Binary Programming Language &… |
+| 2026-10-28 09:07:47 | [md2docx](https://crates.io/crates/md2docx) | 0.1.0 | 0 | Convert Markdown (with LaTeX math and Mermaid/Dolphin graphs) into high-fidelit… |
+| 2026-10-28 09:08:04 | [dorm-schema](https://crates.io/crates/dorm-schema) | 0.1.0 | 0 | The `dorm.schema` parser and code generator for DORM — a Prisma-style declarati… |
+| 2026-10-28 09:17:59 | [cnb_cargo_name_probe](https://crates.io/crates/cnb_cargo_name_probe) | 0.3.0-alpha.1 | 0 | Protocol probe crate for CNB artifact registry compatibility testing. Not for u… |
 
 ## Data source
 

@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-28T08:22:10.570802Z,thruput-cli-macros,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,"Derive for per-variant CLI error metadata (code, hint, JSON details)"
+2026-10-28T08:29:10.862058Z,cloakpipe-policy,0.12.0,0,0,https://github.com/rohansx/cloakpipe,Cedar policy evaluation and persistent call counters for the CloakPipe tool gate
+2026-10-28T08:29:11.198581Z,cloakpipe-release,0.12.0,0,0,https://github.com/rohansx/cloakpipe,"Agent release manifests for CloakPipe: schema, validation, canonical hashing, tool contracts and call fingerprints"
+2026-10-28T08:29:12.631676Z,flamsteed,0.1.0,0,0,https://github.com/luofang34/Navigate,"Bright stars and their motion in space, from public-domain catalogue data, with no I/O"
+2026-10-28T08:29:13.300287Z,cloakpipe-receipt,0.12.0,0,0,https://github.com/rohansx/cloakpipe,DSSE envelopes and signed approval receipts for one exact AI-agent tool call
+2026-10-28T08:29:14.762485Z,cloakpipe-cert,0.12.0,0,0,https://github.com/rohansx/cloakpipe,"Legacy agent-release certification for CloakPipe (`certification` feature): evaluation runs, certification decisions, signed attestations"
+2026-10-28T08:29:15.993742Z,cloakpipe-verify,0.12.0,0,0,https://github.com/rohansx/cloakpipe,Standalone verifier for CloakPipe evidence bundles and release audit packs — no dependency on evidence producers
+2026-10-28T08:30:21.682411Z,dendro-cli,0.9.0,0,0,https://github.com/smota/dendro,Dendro CLI — local-first AI Fleet Intelligence and Governance engine.
+2026-10-28T08:32:14.840637Z,thruput,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Thruput smart contract development tools
+2026-10-28T08:33:21.541911Z,semio-studio-auth,1.1.0,0,0,https://github.com/semio-ai/studio-bridge,"Signs Rust clients in to Semio Studio: sign-in by code, enrollment tokens, renewed ID tokens, callables and the encrypted credential directory."
+2026-10-28T08:36:21.091872Z,ripbi-app,0.12.0,0,0,https://github.com/bgarcevic/ripbi,"Front-end neutral application layer for ripbi: target discovery, configuration, and scan orchestration as typed results"
+2026-10-28T08:41:47.488614Z,lns-fleet-types,0.1.0,0,0,,Rust types for the LNS Fleet API contract
+2026-10-28T08:42:09.562425Z,thruput-cli,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Renamed to `thruput`: install the Thruput CLI with `cargo install thruput`
+2026-10-28T08:46:17.083512Z,cloakpipe-anchor,0.12.0,0,0,https://github.com/rohansx/cloakpipe,"External anchoring for CloakPipe evidence bundles — Merkle batching, RFC-3161 TSA, transparency-log submission"
+2026-10-28T08:46:18.864359Z,cloakpipe-ledger,0.12.0,0,0,https://github.com/rohansx/cloakpipe,"Verifiable evidence ledger: hash-chained, signed, no-PII records for CloakPipe"
+2026-10-28T08:51:37.01438Z,quik-dsp,0.4.0,0,0,https://gitlab.com/quikchaos-labs/quik-sdr-rs,"DSP primitives for SDR receivers: Goertzel and tone detectors, FM discriminator, DC blocker, lowpass, and decimator"
+2026-10-28T08:51:52.925864Z,verwalter,0.4.0,0,0,https://github.com/lukasIO/verwalter,Changeset-based versioning for single packages and monorepos
+2026-10-28T08:51:58.883888Z,crazyflie-connection-protocol,0.1.0,0,0,https://github.com/evoggy/crazyflie-connection-server,Wire protocol between the Crazyflie connection server and its clients
+2026-10-28T08:52:01.235192Z,crazyflie-connection-server,0.1.0,0,0,https://github.com/evoggy/crazyflie-connection-server,"Share Crazyradios and Crazyflie connections between programs, on this machine or across the network"
+2026-10-28T08:52:11.539755Z,thruput-testkit,0.42.0,0,0,https://github.com/thruputchain/thruput-tools,Multi-agent integration-test harness for Thruput contract applications
+2026-10-28T08:58:41.935546Z,hangul-overlap,0.1.0,0,0,https://github.com/Imagination12357/hangul-overlap,"한글 문자끼리 겹칠 수 있는지 판정하고, 겹칠 수 있는 글자를 찾는 Rust 라이브러리"
+2026-10-28T09:01:49.781522Z,ofdrw,0.1.0,0,0,https://github.com/lihongjie0209/ofdrw-rs,OFD document package and reader written in Rust
+2026-10-28T09:06:40.484836Z,rul,0.1.0,0,0,https://github.com/rul-lang/rul,Rul (.rl) — Schedule- and Proof-Carrying 128-Bit Binary Programming Language & Execution Engine for AI Agents.
+2026-10-28T09:07:47.932392Z,md2docx,0.1.0,0,0,https://github.com/silvercity-oss/md2docx,Convert Markdown (with LaTeX math and Mermaid/Dolphin graphs) into high-fidelity Word .docx files
+2026-10-28T09:08:04.554056Z,dorm-schema,0.1.0,0,0,https://github.com/ngolacloud/dorm,The `dorm.schema` parser and code generator for DORM — a Prisma-style declarative schema compiled to compile-time Rust `#[derive(Model)]` structs.
+2026-10-28T09:17:59.111422Z,cnb_cargo_name_probe,0.3.0-alpha.1,0,0,,Protocol probe crate for CNB artifact registry compatibility testing. Not for use.
