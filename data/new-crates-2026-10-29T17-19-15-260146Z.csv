@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T16:25:35.528473Z,tok-bpmn,1.0.1,0,0,https://github.com/tok-lang-bpm/tok,"BPMN 2.0 rules, automatic layout and SVG rendering used by tok"
+2026-10-29T16:25:36.12679Z,tok-core,1.0.1,0,0,https://github.com/tok-lang-bpm/tok,"Parser, checker, canonical printer, BPMN 2.0 and DMN 1.5 export and import, and FEEL of the tok process language"
+2026-10-29T16:25:36.910043Z,tok-sim,1.0.1,0,0,https://github.com/tok-lang-bpm/tok,Discrete-event simulator of the tok process language
+2026-10-29T16:25:38.422947Z,tok-cli,1.0.1,0,0,https://github.com/tok-lang-bpm/tok,"The tok command: check, format, export, import, simulate and evaluate process models written in the tok language (BPMN 2.0, DMN 1.5, Camunda forms)"
+2026-10-29T16:25:39.953307Z,tok-lsp,1.0.1,0,0,https://github.com/tok-lang-bpm/tok,Language server of the tok process language (LSP 3.17 over standard input and output)
+2026-10-29T16:26:33.66334Z,laputa-fastrand-contrib,0.2.0,0,0,https://github.com/laputa-systems/smolith,Extension functionality for fastrand
+2026-10-29T16:29:40.711696Z,walrus-skate,0.27.3,0,0,https://github.com/rustwasm/walrus,A library for performing WebAssembly transformations
+2026-10-29T16:31:40.319253Z,riggurly,0.1.0,0,0,https://codeberg.org/KaonQuantum/riggurly.git,"A small, terminal-based GameBoy emulator and emulator core"
+2026-10-29T16:32:44.598001Z,ofdbox-algo,0.1.0,0,0,https://github.com/ofdbox/ofdbox,国产密码算法与 OID 注册表
+2026-10-29T16:33:27.124584Z,mockingbird-auth,0.1.0,0,0,https://github.com/rj-s-org/mockingbird,"Internal crate of Mockingbird (auth, roles and API keys), published for mockingbird-cli; no API stability guarantee. Use mockingbird-cli for the binary and mb-ext for extensions."
+2026-10-29T16:36:58.00434Z,decen,0.1.0,0,0,https://github.com/WangLabCSU/decen,A decoder and encoder (decen) framework for byte streams
+2026-10-29T16:37:13.685807Z,game_script,0.1.0,0,0,https://github.com/ouut/2d_minecraft,Universal two-tier plugin-based Scheme scripting engine for game modding and logic execution
+2026-10-29T16:37:31.992197Z,tok-mcp,1.0.1,0,0,https://github.com/tok-lang-bpm/tok,"MCP server of the tok process language: check, format, export, import, simulate and evaluate models from AI agents"
+2026-10-29T16:37:49.106501Z,laputa-parking,0.2.0,0,0,https://github.com/laputa-systems/smolith,Thread parking and unparking
+2026-10-29T16:40:57.746365Z,appkit-ui,0.1.0,0,0,https://github.com/lhassa8/ferrokit,"A native macOS UI framework for Rust: real AppKit views (tables, outlines, text) updated in place by fine-grained signals"
+2026-10-29T16:43:14.727883Z,tanghole-api,0.2.0,0,0,https://tangled.org/7778777.online/tanghole,Lexicon-generated XRPC client for Tangled and AT Protocol APIs
+2026-10-29T16:43:15.73359Z,tanghole-config,0.2.0,0,0,https://tangled.org/7778777.online/tanghole,"Configuration and secure session management for tanghole, the th command for Tangled"
+2026-10-29T16:43:18.195265Z,tanghole,0.2.0,0,0,https://tangled.org/7778777.online/tanghole,"th: a command-line client for Tangled, the AT Protocol git forge (the maintained fork of tangled-cli)"
+2026-10-29T16:44:04.637183Z,mockingbird-admin,0.1.0,0,0,https://github.com/rj-s-org/mockingbird,"Internal crate of Mockingbird (the Admin API), published for mockingbird-cli; no API stability guarantee. Use mockingbird-cli for the binary and mb-ext for extensions."
+2026-10-29T16:48:11.033237Z,laputa-piper,0.2.0,0,0,https://github.com/laputa-systems/smolith,An asynchronous single-consumer single-producer pipe for bytes.
+2026-10-29T16:51:47.853234Z,waavy,0.3.0,0,0,https://github.com/mega-blastoise/bundt,"Render React pages from Rust with the waavy renderer: HTTP client, one-shot mode, and a process supervisor."
+2026-10-29T16:55:04.794072Z,mockingbird-cli,0.1.0,0,0,https://github.com/rj-s-org/mockingbird,"LLM-backed API mocks from contracts: stateful, every protocol, a zero-edit HTTPS proxy and an MCP server. Installs the `mockingbird` command."
+2026-10-29T16:55:15.007287Z,fin-metrics-rs,0.1.0,0,0,https://github.com/FreaksOnE/fin-metrics-rs,"Financial performance and drawdown metrics — total return, profit factor, Ulcer Index, and Martin ratio — computed with fixed-point decimal arithmetic."
+2026-10-29T16:58:27.778465Z,laputa-polling,0.2.0,0,0,https://github.com/laputa-systems/smolith,"Portable interface to epoll, kqueue, event ports, and poll"
+2026-10-29T17:01:15.438423Z,crabrix,0.3.0,0,0,https://github.com/sergii-ziborov/crabrix-sdk,Rust SDK and MCP launcher for encrypted temporary Crabrix Playgrounds. Shared protocol core; Node.js 22+ required.
+2026-10-29T17:01:41.737319Z,tessaridb-oauth-client,0.1.0,0,0,https://github.com/tessaridb/tessaridb-oauth-client,Validate TessariDB OAuth access tokens and sign users in through a TessariDB OAuth issuer
+2026-10-29T17:03:52.233902Z,meridian-asset-jpeg,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,JPEG adapter for asset-domain: decodes JPEG bytes to RGBA8 on the zune-jpeg crate.
+2026-10-29T17:03:59.025353Z,meridian-asset-png,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,PNG adapter for asset-domain: decodes PNG bytes to RGBA8 on the png crate.
+2026-10-29T17:04:08.778386Z,meridian-asset-symphonia,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Compressed-audio adapter for asset-domain: MP3, OGG/Vorbis, FLAC and OGG/Opus decoding, whole-track or streaming, on symphonia and libopus."
+2026-10-29T17:04:18.46904Z,meridian-diagnostics-fs,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,Diagnostics adapter: the buffered log-file sink (the LogSink port of meridian-diagnostics) and the crash-report panic hook.
+2026-10-29T17:04:22.074824Z,meridian-markup,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Generic tag/attribute/children text parser underlying the SDK's extensible scene DSL — no knowledge of any domain tag (Mesh, RigidBody, ...); see meridian-sdk::dsl for that layer."
+2026-10-29T17:06:10.605026Z,wechat-platform,1.3.0,0,0,https://github.com/thisnick/agent-wechat,Platform support for the agent-wechat protocol and profile libraries
+2026-10-29T17:06:11.417964Z,wechat-media,1.3.0,0,0,https://github.com/thisnick/agent-wechat,Image inspection and decoding support for agent-wechat
+2026-10-29T17:06:13.228749Z,wechat-profile,1.3.0,0,0,https://github.com/thisnick/agent-wechat,Readers and checked writers for supported official WeChat profiles
+2026-10-29T17:06:14.029423Z,wechat-protocol,1.3.0,0,0,https://github.com/thisnick/agent-wechat,"Native WeChat transport, authentication and protocol codecs"
+2026-10-29T17:07:09.775374Z,laputa-waker-fn,0.2.0,0,0,https://github.com/laputa-systems/smolith,Convert closures into wakers
+2026-10-29T17:09:20.985914Z,rust-tui-manager-agent,0.6.0,0,0,https://github.com/polblancoo/Rust_tuiManager,tm-agent: vigila el tablero de comando rust-tui-manager y pone a trabajar a una IA cuando le asignan una tarea
+2026-10-29T17:11:00.980242Z,mnemoloom,0.1.0,0,0,https://github.com/aamirsahmad/mnemoloom,"Search, resume, trim and hand off Claude Code and Codex sessions; watch running agents in tmux"
+2026-10-29T17:14:51.121327Z,zerolith,0.1.0-alpha.1,0,0,https://github.com/molexxxx/zerolith,"The zerolith command line: a dev server for the buildless path, import map generation, and project checks"
+2026-10-29T17:18:58.50062Z,meridian-markup-macros,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,#[dsl_tag] attribute macro implementing meridian_markup::DslTag for a struct — the code-generation half of the SDK's extensible scene DSL; see meridian-markup for the trait and meridian-sdk::dsl for…
+2026-10-29T17:19:03.894601Z,meridian-memory,0.8.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Frame/persistent arenas, resource pools and generational handles; minimizes dynamic allocation across the engine."
+2026-10-29T17:19:15.140545Z,laputa-event-listener,0.2.0,0,0,https://github.com/laputa-systems/smolith,Notify async tasks or threads

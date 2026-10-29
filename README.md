@@ -8,63 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 16:21 UTC
+## Latest list — 2026-10-29 17:19 UTC
 
-New crates published between 2026-10-29 15:20 UTC and 2026-10-29 16:21 UTC.
+New crates published between 2026-10-29 16:21 UTC and 2026-10-29 17:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-29T16-21-24-602404Z.csv)
+[Full CSV](data/new-crates-2026-10-29T17-19-15-260146Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-29 15:20:51 | [iris-nostr](https://crates.io/crates/iris-nostr) | 0.1.1 | 0 | Local-first Nostr event and social graph queries for humans and agents |
-| 2026-10-29 15:24:08 | [fast-redact](https://crates.io/crates/fast-redact) | 0.1.0 | 0 | Redact secrets from a JSON document before logging it: replace the values at na… |
-| 2026-10-29 15:24:33 | [wist-pki](https://crates.io/crates/wist-pki) | 0.1.2 | 0 | Reusable CA / mTLS / peer-identity primitives extracted from wist-center + wist… |
-| 2026-10-29 15:26:28 | [smart-env-core](https://crates.io/crates/smart-env-core) | 0.1.0 | 0 | Type-safe, DX-focused environment configuration loader for Rust. |
-| 2026-10-29 15:26:40 | [smart-env-macros](https://crates.io/crates/smart-env-macros) | 0.1.0 | 0 | Type-safe, DX-focused environment configuration loader for Rust. |
-| 2026-10-29 15:28:07 | [smart-env-cli](https://crates.io/crates/smart-env-cli) | 0.1.0 | 0 | Type-safe, DX-focused environment configuration loader for Rust. |
-| 2026-10-29 15:28:15 | [smart-env](https://crates.io/crates/smart-env) | 0.1.0 | 0 | Type-safe, DX-focused environment configuration loader for Rust. |
-| 2026-10-29 15:32:03 | [neurolayout](https://crates.io/crates/neurolayout) | 0.1.0 | 0 | Content-aware, order-preserving card layout: a beam-search solver that runs the… |
-| 2026-10-29 15:34:14 | [neurolayout-dom](https://crates.io/crates/neurolayout-dom) | 0.1.0 | 0 | Browser engine for NeuroLayout: measures a server-rendered grid, re-solves it w… |
-| 2026-10-29 15:35:22 | [bevy_gradmesh](https://crates.io/crates/bevy_gradmesh) | 0.0.0 | 0 | Procedural mesh generation and gradient materials for Bevy |
-| 2026-10-29 15:39:52 | [mb-ext](https://crates.io/crates/mb-ext) | 1.0.0 | 0 | Extension traits (and self-hosted defaults) that mockingbird-cloud builds again… |
-| 2026-10-29 15:40:45 | [dope-sys](https://crates.io/crates/dope-sys) | 0.20.0 | 0 | Typed operating-system call contracts |
-| 2026-10-29 15:40:45 | [memlineage-core](https://crates.io/crates/memlineage-core) | 0.1.0 | 0 | Provenance and taint checks for agent memory. |
-| 2026-10-29 15:40:52 | [memlineage-cli](https://crates.io/crates/memlineage-cli) | 0.1.0 | 0 | Command line for the memlineage audit log. |
-| 2026-10-29 15:40:54 | [memlineage-mcp-proxy](https://crates.io/crates/memlineage-mcp-proxy) | 0.1.0 | 0 | Stdio proxy that checks MCP memory writes. |
-| 2026-10-29 15:50:05 | [mockingbird-console](https://crates.io/crates/mockingbird-console) | 0.1.0 | 0 | Internal crate of Mockingbird (the embedded web console), published for mocking… |
-| 2026-10-29 15:50:06 | [mockingbird-llm](https://crates.io/crates/mockingbird-llm) | 0.1.0 | 0 | Internal crate of Mockingbird (the LLM provider client), published for mockingb… |
-| 2026-10-29 15:50:07 | [mockingbird-mcm](https://crates.io/crates/mockingbird-mcm) | 0.1.0 | 0 | Internal crate of Mockingbird (the contract model), published for mockingbird-c… |
-| 2026-10-29 15:50:07 | [mockingbird-state](https://crates.io/crates/mockingbird-state) | 0.1.0 | 0 | Internal crate of Mockingbird (session state stores), published for mockingbird… |
-| 2026-10-29 15:50:08 | [mockingbird-import](https://crates.io/crates/mockingbird-import) | 0.1.0 | 0 | Internal crate of Mockingbird (contract importers and smart import), published… |
-| 2026-10-29 15:51:18 | [omhook](https://crates.io/crates/omhook) | 1.0.0 | 0 | Pure Rust PLT/GOT and inline hooking for Linux and Android |
-| 2026-10-29 15:52:09 | [game_net](https://crates.io/crates/game_net) | 0.1.0 | 0 | Universal game networking protocol envelope and dual-mode JSON/binary codec |
-| 2026-10-29 15:52:36 | [game_server](https://crates.io/crates/game_server) | 0.1.0 | 0 | Universal game server session gateway with Axum HTTP static WASM serving and We… |
-| 2026-10-29 15:56:49 | [llrs-morton](https://crates.io/crates/llrs-morton) | 0.1.0 | 0 | Description |
-| 2026-10-29 15:57:01 | [imesh](https://crates.io/crates/imesh) | 0.0.1 | 0 | Connect your computers into one cluster with no central server. Placeholder for… |
-| 2026-10-29 15:57:11 | [imesh-cli](https://crates.io/crates/imesh-cli) | 0.0.1 | 0 | Connect your computers into one cluster with no central server. Placeholder for… |
-| 2026-10-29 15:57:28 | [reactx-core](https://crates.io/crates/reactx-core) | 0.1.0 | 0 | Core node tree, styles, events and wire formats for ReactX |
-| 2026-10-29 15:57:34 | [reactx-macro](https://crates.io/crates/reactx-macro) | 0.1.0 | 0 | JSX syntax macro for ReactX, translating HTML-like tags into Dioxus elements |
-| 2026-10-29 15:57:38 | [reactx-async](https://crates.io/crates/reactx-async) | 0.1.0 | 0 | Async fetch and WebSocket hooks for ReactX |
-| 2026-10-29 15:57:56 | [reactx-tui](https://crates.io/crates/reactx-tui) | 0.1.0 | 0 | Terminal backend and renderer for ReactX, built on Dioxus, Taffy and Ratatui |
-| 2026-10-29 15:58:08 | [reactx-ui](https://crates.io/crates/reactx-ui) | 0.1.0 | 0 | Themed widgets, data charts and layout components for ReactX |
-| 2026-10-29 15:59:43 | [dorm-studio](https://crates.io/crates/dorm-studio) | 0.1.0 | 0 | DORM Studio — a Prisma-Studio-style web UI over your DORM models: browse, filte… |
-| 2026-10-29 16:00:35 | [nerdsynth](https://crates.io/crates/nerdsynth) | 0.1.0 | 0 | A SoundFont 2 synthesizer: complete, sample-accurate and real-time safe |
-| 2026-10-29 16:00:58 | [reactx-router](https://crates.io/crates/reactx-router) | 0.1.0 | 0 | In-memory routing and navigation hooks for ReactX terminal apps |
-| 2026-10-29 16:07:44 | [alpha2-layout](https://crates.io/crates/alpha2-layout) | 0.0.0 | 0 | Placeholder for the alpha2 layout crate; the real crate is published from the a… |
-| 2026-10-29 16:09:21 | [mockingbird-engine](https://crates.io/crates/mockingbird-engine) | 0.1.0 | 0 | Internal crate of Mockingbird (the response engine), published for mockingbird-… |
-| 2026-10-29 16:10:47 | [reactx](https://crates.io/crates/reactx) | 0.1.0 | 0 | A React-style TUI framework built on Dioxus, Taffy and Ratatui |
-| 2026-10-29 16:13:01 | [tc_sm4](https://crates.io/crates/tc_sm4) | 0.1.0 | 0 | SM4 block cipher (GB/T 32907-2016) with a 128-bit key and block. |
-| 2026-10-29 16:15:07 | [laputa-async-task](https://crates.io/crates/laputa-async-task) | 0.2.0 | 0 | Task abstraction for building executors |
-| 2026-10-29 16:15:09 | [laputa-atomic-waker](https://crates.io/crates/laputa-atomic-waker) | 0.2.0 | 0 | A synchronization primitive for task wakeup |
-| 2026-10-29 16:15:12 | [laputa-concurrent-queue](https://crates.io/crates/laputa-concurrent-queue) | 0.2.0 | 0 | Concurrent multi-producer multi-consumer queue |
-| 2026-10-29 16:15:14 | [laputa-easy-parallel](https://crates.io/crates/laputa-easy-parallel) | 0.2.0 | 0 | Run closures in parallel |
-| 2026-10-29 16:15:17 | [laputa-fastrand](https://crates.io/crates/laputa-fastrand) | 0.2.0 | 0 | A simple and fast random number generator |
-| 2026-10-29 16:16:28 | [iroh-mesh](https://crates.io/crates/iroh-mesh) | 0.0.1 | 0 | Connect your computers into one cluster with no central server. Placeholder for… |
-| 2026-10-29 16:16:30 | [iroh-mesh-cli](https://crates.io/crates/iroh-mesh-cli) | 0.0.1 | 0 | Connect your computers into one cluster with no central server. Placeholder for… |
-| 2026-10-29 16:17:05 | [rustdrop](https://crates.io/crates/rustdrop) | 0.2.0 | 0 | Privacy-first, blazing-fast peer-to-peer file transfer for your local network |
-| 2026-10-29 16:19:35 | [id-arena-compact](https://crates.io/crates/id-arena-compact) | 2.3.0 | 0 | A simple, id-based arena. |
-| 2026-10-29 16:21:03 | [mockingbird-protocols](https://crates.io/crates/mockingbird-protocols) | 0.1.0 | 0 | Internal crate of Mockingbird (protocol adapters), published for mockingbird-cl… |
-| 2026-10-29 16:21:03 | [mockingbird-store](https://crates.io/crates/mockingbird-store) | 0.1.0 | 0 | Internal crate of Mockingbird (the control-plane store), published for mockingb… |
+| 2026-10-29 16:25:35 | [tok-bpmn](https://crates.io/crates/tok-bpmn) | 1.0.1 | 0 | BPMN 2.0 rules, automatic layout and SVG rendering used by tok |
+| 2026-10-29 16:25:36 | [tok-core](https://crates.io/crates/tok-core) | 1.0.1 | 0 | Parser, checker, canonical printer, BPMN 2.0 and DMN 1.5 export and import, and… |
+| 2026-10-29 16:25:36 | [tok-sim](https://crates.io/crates/tok-sim) | 1.0.1 | 0 | Discrete-event simulator of the tok process language |
+| 2026-10-29 16:25:38 | [tok-cli](https://crates.io/crates/tok-cli) | 1.0.1 | 0 | The tok command: check, format, export, import, simulate and evaluate process m… |
+| 2026-10-29 16:25:39 | [tok-lsp](https://crates.io/crates/tok-lsp) | 1.0.1 | 0 | Language server of the tok process language (LSP 3.17 over standard input and o… |
+| 2026-10-29 16:26:33 | [laputa-fastrand-contrib](https://crates.io/crates/laputa-fastrand-contrib) | 0.2.0 | 0 | Extension functionality for fastrand |
+| 2026-10-29 16:29:40 | [walrus-skate](https://crates.io/crates/walrus-skate) | 0.27.3 | 0 | A library for performing WebAssembly transformations |
+| 2026-10-29 16:31:40 | [riggurly](https://crates.io/crates/riggurly) | 0.1.0 | 0 | A small, terminal-based GameBoy emulator and emulator core |
+| 2026-10-29 16:32:44 | [ofdbox-algo](https://crates.io/crates/ofdbox-algo) | 0.1.0 | 0 | 国产密码算法与 OID 注册表 |
+| 2026-10-29 16:33:27 | [mockingbird-auth](https://crates.io/crates/mockingbird-auth) | 0.1.0 | 0 | Internal crate of Mockingbird (auth, roles and API keys), published for mocking… |
+| 2026-10-29 16:36:58 | [decen](https://crates.io/crates/decen) | 0.1.0 | 0 | A decoder and encoder (decen) framework for byte streams |
+| 2026-10-29 16:37:13 | [game_script](https://crates.io/crates/game_script) | 0.1.0 | 0 | Universal two-tier plugin-based Scheme scripting engine for game modding and lo… |
+| 2026-10-29 16:37:31 | [tok-mcp](https://crates.io/crates/tok-mcp) | 1.0.1 | 0 | MCP server of the tok process language: check, format, export, import, simulate… |
+| 2026-10-29 16:37:49 | [laputa-parking](https://crates.io/crates/laputa-parking) | 0.2.0 | 0 | Thread parking and unparking |
+| 2026-10-29 16:40:57 | [appkit-ui](https://crates.io/crates/appkit-ui) | 0.1.0 | 0 | A native macOS UI framework for Rust: real AppKit views (tables, outlines, text… |
+| 2026-10-29 16:43:14 | [tanghole-api](https://crates.io/crates/tanghole-api) | 0.2.0 | 0 | Lexicon-generated XRPC client for Tangled and AT Protocol APIs |
+| 2026-10-29 16:43:15 | [tanghole-config](https://crates.io/crates/tanghole-config) | 0.2.0 | 0 | Configuration and secure session management for tanghole, the th command for Ta… |
+| 2026-10-29 16:43:18 | [tanghole](https://crates.io/crates/tanghole) | 0.2.0 | 0 | th: a command-line client for Tangled, the AT Protocol git forge (the maintaine… |
+| 2026-10-29 16:44:04 | [mockingbird-admin](https://crates.io/crates/mockingbird-admin) | 0.1.0 | 0 | Internal crate of Mockingbird (the Admin API), published for mockingbird-cli; n… |
+| 2026-10-29 16:48:11 | [laputa-piper](https://crates.io/crates/laputa-piper) | 0.2.0 | 0 | An asynchronous single-consumer single-producer pipe for bytes. |
+| 2026-10-29 16:51:47 | [waavy](https://crates.io/crates/waavy) | 0.3.0 | 0 | Render React pages from Rust with the waavy renderer: HTTP client, one-shot mod… |
+| 2026-10-29 16:55:04 | [mockingbird-cli](https://crates.io/crates/mockingbird-cli) | 0.1.0 | 0 | LLM-backed API mocks from contracts: stateful, every protocol, a zero-edit HTTP… |
+| 2026-10-29 16:55:15 | [fin-metrics-rs](https://crates.io/crates/fin-metrics-rs) | 0.1.0 | 0 | Financial performance and drawdown metrics — total return, profit factor, Ulcer… |
+| 2026-10-29 16:58:27 | [laputa-polling](https://crates.io/crates/laputa-polling) | 0.2.0 | 0 | Portable interface to epoll, kqueue, event ports, and poll |
+| 2026-10-29 17:01:15 | [crabrix](https://crates.io/crates/crabrix) | 0.3.0 | 0 | Rust SDK and MCP launcher for encrypted temporary Crabrix Playgrounds. Shared p… |
+| 2026-10-29 17:01:41 | [tessaridb-oauth-client](https://crates.io/crates/tessaridb-oauth-client) | 0.1.0 | 0 | Validate TessariDB OAuth access tokens and sign users in through a TessariDB OA… |
+| 2026-10-29 17:03:52 | [meridian-asset-jpeg](https://crates.io/crates/meridian-asset-jpeg) | 0.1.0 | 0 | JPEG adapter for asset-domain: decodes JPEG bytes to RGBA8 on the zune-jpeg cra… |
+| 2026-10-29 17:03:59 | [meridian-asset-png](https://crates.io/crates/meridian-asset-png) | 0.1.0 | 0 | PNG adapter for asset-domain: decodes PNG bytes to RGBA8 on the png crate. |
+| 2026-10-29 17:04:08 | [meridian-asset-symphonia](https://crates.io/crates/meridian-asset-symphonia) | 0.1.0 | 0 | Compressed-audio adapter for asset-domain: MP3, OGG/Vorbis, FLAC and OGG/Opus d… |
+| 2026-10-29 17:04:18 | [meridian-diagnostics-fs](https://crates.io/crates/meridian-diagnostics-fs) | 0.1.0 | 0 | Diagnostics adapter: the buffered log-file sink (the LogSink port of meridian-d… |
+| 2026-10-29 17:04:22 | [meridian-markup](https://crates.io/crates/meridian-markup) | 0.1.0 | 0 | Generic tag/attribute/children text parser underlying the SDK's extensible scen… |
+| 2026-10-29 17:06:10 | [wechat-platform](https://crates.io/crates/wechat-platform) | 1.3.0 | 0 | Platform support for the agent-wechat protocol and profile libraries |
+| 2026-10-29 17:06:11 | [wechat-media](https://crates.io/crates/wechat-media) | 1.3.0 | 0 | Image inspection and decoding support for agent-wechat |
+| 2026-10-29 17:06:13 | [wechat-profile](https://crates.io/crates/wechat-profile) | 1.3.0 | 0 | Readers and checked writers for supported official WeChat profiles |
+| 2026-10-29 17:06:14 | [wechat-protocol](https://crates.io/crates/wechat-protocol) | 1.3.0 | 0 | Native WeChat transport, authentication and protocol codecs |
+| 2026-10-29 17:07:09 | [laputa-waker-fn](https://crates.io/crates/laputa-waker-fn) | 0.2.0 | 0 | Convert closures into wakers |
+| 2026-10-29 17:09:20 | [rust-tui-manager-agent](https://crates.io/crates/rust-tui-manager-agent) | 0.6.0 | 0 | tm-agent: vigila el tablero de comando rust-tui-manager y pone a trabajar a una… |
+| 2026-10-29 17:11:00 | [mnemoloom](https://crates.io/crates/mnemoloom) | 0.1.0 | 0 | Search, resume, trim and hand off Claude Code and Codex sessions; watch running… |
+| 2026-10-29 17:14:51 | [zerolith](https://crates.io/crates/zerolith) | 0.1.0-alpha.1 | 0 | The zerolith command line: a dev server for the buildless path, import map gene… |
+| 2026-10-29 17:18:58 | [meridian-markup-macros](https://crates.io/crates/meridian-markup-macros) | 0.1.0 | 0 | #[dsl_tag] attribute macro implementing meridian_markup::DslTag for a struct —… |
+| 2026-10-29 17:19:03 | [meridian-memory](https://crates.io/crates/meridian-memory) | 0.8.0 | 0 | Frame/persistent arenas, resource pools and generational handles; minimizes dyn… |
+| 2026-10-29 17:19:15 | [laputa-event-listener](https://crates.io/crates/laputa-event-listener) | 0.2.0 | 0 | Notify async tasks or threads |
 
 ## Data source
 
