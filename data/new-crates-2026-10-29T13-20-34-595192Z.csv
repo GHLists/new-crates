@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T12:20:13.486412Z,glory-salvo,0.6.0,0,0,https://github.com/glory-rs/glory,Salvo HTTP responses for Glory semantic SSR
+2026-10-29T12:21:09.60879Z,sylphx-keel-richtext,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Native rich-text editor for websites: a typed document model with a closed schema, markdown storage that round-trips exactly, invertible steps, transactions, undo history, commands, markdown shortcut…"
+2026-10-29T12:22:04.250236Z,cargo-precise-minimal-versions,0.0.0,0,0,,Temporary reservation for this crate name.
+2026-10-29T12:22:48.111373Z,befli,0.1.0,0,0,https://github.com/w1n4a/befli,A simple flags-system packages for Rust
+2026-10-29T12:29:35.63223Z,kui-access,0.0.0-bootstrap.0,0,0,https://github.com/qxuken/kui,"kui's access tree to the platform's accessibility API through AccessKit: the translation every bridge shares, and a bridge a host with its own window attaches (backlog F269)"
+2026-10-29T12:30:09.90874Z,burn-group,0.23.0-pre.1,0,0,https://github.com/tracel-ai/burn/tree/main/crates/burn-group,"Tensors split over a group of devices, with the sharding rule of each op"
+2026-10-29T12:34:13.432404Z,gyrfalcon,0.0.1,0,0,https://github.com/lucasdmarshall/gyrfalcon,"Hybrid retrieval for RAG: BM25 and dense search fused in one Rust engine (name reserved, first release pending)"
+2026-10-29T12:34:18.109891Z,gyrfalcon-ingest,0.0.1,0,0,https://github.com/lucasdmarshall/gyrfalcon,"PDF, HTML and Markdown ingestion for Gyrfalcon (name reserved, first release pending)"
+2026-10-29T12:41:55.518936Z,mdame,0.0.1,0,0,https://github.com/KamalF/mdame,"A local markdown viewer and editor, served to your browser"
+2026-10-29T12:43:33.085603Z,wdog,0.5.0,0,0,https://github.com/FbN/wdog,"Watchdog runner for long shell commands, built for coding agents"
+2026-10-29T12:43:52.568432Z,burn-instrument,0.23.0-pre.1,0,0,https://github.com/tracel-ai/burn/tree/main/crates/burn-instrument,"Measure where a Burn model's device time goes, component by component"
+2026-10-29T12:44:48.952091Z,giraffty-connection,0.6.1,0,0,https://github.com/giraffty/server,"Connection to the Giraffty add-in in Revit: discovery, session, add-in version and a raw client"
+2026-10-29T12:46:27.890318Z,burn-instrument-report,0.23.0-pre.1,0,0,https://github.com/tracel-ai/burn/tree/main/crates/burn-instrument-report,"Read a measurement burn-instrument took, and report where its device time went"
+2026-10-29T12:56:26.64534Z,lds02,0.1.0,0,0,https://github.com/PaulekOfficial/lds02-rs.git,no_std driver for the Xiaomi / Roborock LDS02RR LIDAR with PID motor speed control
+2026-10-29T12:56:40.866519Z,birthdaywebsite-url-tools,0.1.0,0,0,https://github.com/wangneo276-lgtm/birthdaywebsite-url-tools,"Birthday Website Maker helps you create a personalized birthday website with photos, music, and a heartfelt letter. Preview free, then unlock and share with one link."
+2026-10-29T13:04:03.794691Z,exposewatch,0.1.0,0,0,https://github.com/majiayu000/exposewatch,"Find homelab Docker containers that are exposed to the network, run a vulnerable version, and have an actively exploited CVE (CISA KEV, EPSS), ranked with the fix"
+2026-10-29T13:04:26.696131Z,openai-agents-sdk,0.1.0,0,0,https://github.com/ngocthach/openai-agents-rust,"Unofficial Rust port of the OpenAI Agents SDK: agents, tools, handoffs, guardrails, sessions, tracing, MCP"
+2026-10-29T13:04:46.162287Z,clankerdiff-gpui-ui,0.7.1,0,0,https://github.com/jcarver989/diff,"Shared GPUI design system: fonts, rem-based tokens, icons, and components"
+2026-10-29T13:04:48.032524Z,clankerdiff-remote,0.7.1,0,0,https://github.com/jcarver989/diff,"Remote machines apps open terminals and agents on, defined by the commands that list, launch, change and reach them"
+2026-10-29T13:04:48.765047Z,clankerdiff-gpui,0.7.1,0,0,https://github.com/jcarver989/diff,Reusable GPUI diff review component
+2026-10-29T13:04:49.296697Z,clankerdiff-gpui-shell,0.7.1,0,0,https://github.com/jcarver989/diff,"Native desktop bootstrap for GPUI apps: a Tokio runtime, quit semantics and the standard menus"
+2026-10-29T13:18:20.68295Z,ic-logging-stable,0.55.1,0,0,https://github.com/dragginzgame/ic-persistence,Optional governed stable checkpoints for IC Logging
+2026-10-29T13:19:39.033096Z,harn-grammars,0.10.181,0,0,https://github.com/burin-labs/harn,"Tree-sitter grammars for Harn, with each grammar's parse tables compressed at rest and unpacked on first use."
+2026-10-29T13:19:53.968883Z,harn-makefile,0.10.181,0,0,https://github.com/burin-labs/harn,Static Makefile declarations and command facts shared by Harn project scanners
