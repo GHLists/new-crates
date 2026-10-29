@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T13:25:30.837302Z,scp-dev-core,0.4.1,0,0,https://github.com/scphq/scp,"SCP protocol types, limits, addresses and scope rules shared by the relay and broker"
+2026-10-29T13:34:01.228317Z,monochromatic-mpm-shadow,0.1.1,0,0,https://github.com/Aquaticats/Monochromatic.git,"Shadows mpm: runs the real mpm, then deletes the superseded cached versions of this repository's own crates from cargo's registry."
+2026-10-29T13:34:38.317716Z,proxy-addr,0.1.0,0,0,https://github.com/cipansor/crateworks,"Determine the client address behind a reverse proxy: walk X-Forwarded-For from the right, trusting only the proxies you name."
+2026-10-29T13:36:06.969344Z,roundhouse-macros,0.1.0,0,0,https://github.com/strawberyy-coconut/roundhouse,"Proc macros for roundhouse: routes!, mount!, #[handler] and the derives."
+2026-10-29T13:36:07.879934Z,roundhouse-schema,0.1.0,0,0,https://github.com/strawberyy-coconut/roundhouse,"Schema derivation, constraints and validation for roundhouse."
+2026-10-29T13:36:10.344587Z,roundhouse-problem,0.1.0,0,0,https://github.com/strawberyy-coconut/roundhouse,The RFC 9457 problem response shared by roundhouse and its satellites.
+2026-10-29T13:36:12.889514Z,roundhouse-multipart,0.1.0,0,0,https://github.com/strawberyy-coconut/roundhouse,Typed multipart extraction for roundhouse.
+2026-10-29T13:36:15.744102Z,roundhouse,0.1.0,0,0,https://github.com/strawberyy-coconut/roundhouse,"An OpenAPI-first axum framework: declarations in, router and document out."
+2026-10-29T13:39:59.74912Z,recern-vector-client,0.4.0,0,0,https://github.com/recerndata/recern-vector,"Portable embedded, Recern HTTP and Qdrant clients"
+2026-10-29T13:40:00.463101Z,recern-vector-server,0.4.0,0,0,https://github.com/recerndata/recern-vector,Single-node HTTP server for Recern Vector
+2026-10-29T13:42:07.79223Z,rolldown_devtools_metrics,1.2.16,0,0,https://github.com/rolldown/rolldown,In-memory aggregation of Rolldown devtools events into an agent-readable metrics report
+2026-10-29T13:42:20.807067Z,uhoh-macros,0.1.1,0,0,https://github.com/bitshift-systems/bitkit-rs,Derive macros for uhoh application errors
+2026-10-29T13:42:22.242286Z,uhoh,0.1.1,0,0,https://github.com/bitshift-systems/bitkit-rs,Derive consistent application errors with stable codes and optional HTTP responses
+2026-10-29T13:43:11.520045Z,agent-receipt,0.2.0,0,0,https://github.com/majiayu000/receipt,"Claude Code and Codex Stop hook that blocks hallucinated completion: ""tests pass"" / ""committed"" claims need a passing command in the transcript"
+2026-10-29T13:43:18.796113Z,trustsweep,0.2.0,0,0,https://github.com/majiayu000/trustsweep,"Find CA bundles inside venvs, node_modules, wheels, jars, container image layers and binaries that still trust a revoked CA (eMudhra 2026), and the package to upgrade"
+2026-10-29T13:43:26.125393Z,rust1100-check,0.2.0,0,0,https://github.com/majiayu000/rust1100-check,"Check a Rust repo's CI YAML, rust-toolchain inputs, MSRV scripts and Cargo.lock for Rust 1.100 breakage: unquoted 1.100 read as 1.1, string version compares, new beta lints, and a Cargo min-publish-a…"
+2026-10-29T13:43:30.42656Z,bbhost-check,0.1.0,0,0,https://github.com/majiayu000/bbhost-check,"Find Git-over-SSH uses of bitbucket.org (remotes, submodules, ~/.ssh/config, known_hosts, CI, lockfiles) and rewrite them to ssh.bitbucket.org before the Bitbucket Cloud SSH host change"
+2026-10-29T13:43:35.664623Z,clonewatch,0.1.0,0,0,https://github.com/majiayu000/clonewatch,Find fake repos impersonating your GitHub project: non-fork clones that share your git blobs and add archives or executables
+2026-10-29T13:44:48.101361Z,markitdown-core,0.2.0,0,0,https://github.com/majiayu000/markitdown-rs,"Convert PDF, Word, PowerPoint, Excel, HTML, EPUB, Outlook and more to Markdown, byte-for-byte identical to Microsoft's Python markitdown"
+2026-10-29T13:49:36.550336Z,limu-scene,0.1.0,0,0,https://github.com/firede/limu-rs,"The scene limu lays a diagram out as, its style, and the drawing every backend shares."
+2026-10-29T13:49:39.946294Z,limu,0.1.0,0,0,https://github.com/firede/limu-rs,A diagram layout engine. It reads Mermaid and leaves the drawing to your program.
+2026-10-29T13:49:41.778587Z,limu-ascii,0.1.0,0,0,https://github.com/firede/limu-rs,"Draws limu's scenes as text in a grid of cells, for terminals."
+2026-10-29T13:49:43.171685Z,limu-coregraphics,0.1.0,0,0,https://github.com/firede/limu-rs,"Draws limu's scenes with Core Graphics, measuring text with Core Text."
+2026-10-29T13:49:44.591804Z,limu-tiny-skia,0.1.0,0,0,https://github.com/firede/limu-rs,"Draws limu's scenes into tiny-skia pixmaps, with text shaped by rustybuzz."
+2026-10-29T13:54:45.985283Z,markitdown-rs,0.2.0,0,0,https://github.com/majiayu000/markitdown-rs,"markitdown CLI in one binary: convert PDF, DOCX, PPTX, XLSX, HTML, EPUB and URLs to Markdown with the same output as Microsoft's markitdown, no Python"
+2026-10-29T13:56:29.148826Z,contains-match,0.1.0,0,0,https://github.com/A4-Tacks/contains-match-rs,"Similar to shell glob, more simplified, mainly 'contains' matching"
+2026-10-29T14:00:01.117983Z,limu-gpui,0.1.0,0,0,https://github.com/firede/limu-rs,"Draws limu's scenes in GPUI windows, measuring text with GPUI's text system."
+2026-10-29T14:01:41.681822Z,element77,0.0.0,0,0,,"Official Rust SDK for Element 77 (element77.ai). Reserved for the official Element 77 Rust SDK, in development."
+2026-10-29T14:01:56.983363Z,e77,0.0.0,0,0,,"Short alias for the Element 77 Rust SDK (element77.ai). Reserved for the official Element 77 Rust SDK, in development."
+2026-10-29T14:03:33.453723Z,aither-patch,0.0.0,0,0,https://github.com/lexoliu/aither,apply_patch: sandbox-executed compact contextual patch utility
+2026-10-29T14:09:05.346981Z,sirocco-core,0.1.0,0,0,https://github.com/Apich-Organization/sirocco,"Sirocco algorithms: hashing, entropy, delta estimation, planning"
+2026-10-29T14:09:07.302451Z,sirocco-sys,0.1.0,0,0,https://github.com/Apich-Organization/sirocco,"Raw platform layer for Sirocco: direct I/O, IOCP, io_uring, affinity, privileges"
+2026-10-29T14:09:13.95245Z,sirocco-engine,0.1.0,0,0,https://github.com/Apich-Organization/sirocco,Sirocco copy engine: reader/writer/verifier pipeline
+2026-10-29T14:09:20.060903Z,sirocco-cli,0.1.0,0,0,https://github.com/Apich-Organization/sirocco,Sirocco command line interface
+2026-10-29T14:09:22.138729Z,sirocco-gui,0.1.0,0,0,https://github.com/Apich-Organization/sirocco,Sirocco desktop application
+2026-10-29T14:19:33.149258Z,stradler,0.0.0,0,0,https://github.com/camri-org/stradler,"Strata handler: layered data-structure and workflow framework (name reservation, no functionality yet)"
+2026-10-29T14:19:53.181211Z,enkindle-build,1.30.0,0,0,https://git.enlightenment.org/SurenaSKQ/enkindle,Build-time discovery and validation of the EFL for the enkindle crates
+2026-10-29T14:19:56.116264Z,enkindle-sys,1.30.0,0,0,https://git.enlightenment.org/SurenaSKQ/enkindle,Raw FFI declarations for the Enlightenment Foundation Libraries (EFL)
+2026-10-29T14:19:58.897493Z,enkindle,1.30.0,0,0,https://git.enlightenment.org/SurenaSKQ/enkindle,Safe Rust bindings for the Enlightenment Foundation Libraries (EFL)
+2026-10-29T14:19:59.158813Z,tecdsa-core,0.1.0,0,0,https://github.com/amityagov/tecdsa,2PC ECDSA at the cost of 1 OLE: core math and protocols
+2026-10-29T14:20:08.846572Z,buddler,0.0.1,0,0,https://github.com/open4n6/buddler,Buddler – forensic artifact discovery for mobile and desktop images (early placeholder; first release in preparation)
