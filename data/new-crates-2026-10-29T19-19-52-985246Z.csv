@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T18:21:35.291938Z,serve-net,0.3.0,0,0,https://github.com/jamesgober/serve-net,"The network service engine for Rust: listeners over net-io, ingress from direct clients, reverse proxies (PROXY protocol or trusted forwarded headers), Unix sockets, and FastCGI, a per-connection eng…"
+2026-10-29T18:23:36.803418Z,tapes-v2,0.1.0-beta,0,0,https://github.com/futurekismo-oss/tapes-v2,Atomic per-target dotfile switcher
+2026-10-29T18:23:53.980867Z,yandere-core,0.1.0,0,0,https://gitlab.ramon.moe/4G0NYY/YANDERE,"Steam discovery, Wine session lookup and trainer launching for YANDERE"
+2026-10-29T18:24:03.631643Z,yandere,0.1.0,0,0,https://gitlab.ramon.moe/4G0NYY/YANDERE,"Run Windows trainers inside Steam Proton sessions, from a terminal"
+2026-10-29T18:24:09.269968Z,crawlora-dramabox,0.1.0,0,0,https://github.com/Crawlora-org/crawlora-dramabox,Typed Rust client for Crawlora's hosted DramaBox API. Requires a Crawlora API key.
+2026-10-29T18:25:51.246383Z,http-acl-wasmtime,0.14.0,0,0,https://github.com/nethunterslabs/http-acl,"An ACL for wasmtime-wasi-http's outgoing requests, through its overridable send_request."
+2026-10-29T18:25:56.060919Z,seam-rs-rustix,0.6.0,0,0,https://github.com/parzivale/seam,"rustix for seam: Unix effects (mounts, permissions, ownership, links, IDs, signals) performed with rustix."
+2026-10-29T18:26:49.488263Z,laputa-async-lock,0.2.0,0,0,https://github.com/laputa-systems/smolith,Async synchronization primitives
+2026-10-29T18:26:53.978108Z,miresidian_instances,0.14.0,0,0,https://github.com/MyMires/miresidian,Miresidian 的实例策略、对象容器与可选多通道调度。
+2026-10-29T18:31:48.88103Z,predict,0.0.1,0,0,,"Machine learning for Rust with a consistent, scikit-learn-style API (work in progress)."
+2026-10-29T18:33:42.134585Z,crawlora-wallapop,0.1.0,0,0,https://github.com/Crawlora-org/crawlora-wallapop,Typed Rust client for Crawlora's hosted Wallapop API. Requires a Crawlora API key.
+2026-10-29T18:35:55.549377Z,seam-rs-nix,0.6.0,0,0,https://github.com/parzivale/seam,"nix for seam: Unix effects (mounts, permissions, ownership, links, IDs, signals) performed with nix."
+2026-10-29T18:35:58.251459Z,testcontainers-garbagebin,0.5.2-rc1,0,0,https://github.com/camconn/garbagebin,Testcontainers module for the Garbage Bin S3 server
+2026-10-29T18:36:43.702593Z,laputa-async-signal,0.2.0,0,0,https://github.com/laputa-systems/smolith,Async signal handling
+2026-10-29T18:43:29.825454Z,apalis-redb,0.1.0,0,0,,Background task processing for rust using apalis and redb
+2026-10-29T18:45:55.659671Z,seam-rs-rand,0.6.0,0,0,https://github.com/parzivale/seam,"rand for seam: any FillRandom capability as a rand RNG, so rand's distributions run on seam's randomness."
+2026-10-29T18:46:44.122097Z,laputa-blocking,0.2.0,0,0,https://github.com/laputa-systems/smolith,A thread pool for isolating blocking I/O in async programs
+2026-10-29T18:47:03.608295Z,crawlora-jumia,0.1.0,0,0,https://github.com/Crawlora-org/crawlora-jumia,Typed Rust client for Crawlora's hosted Jumia API. Requires a Crawlora API key.
+2026-10-29T18:52:19.444429Z,crawlora-cardmarket,0.1.0,0,0,https://github.com/Crawlora-org/crawlora-cardmarket,Typed Rust client for Crawlora's hosted Cardmarket API. Requires a Crawlora API key.
+2026-10-29T18:53:18.231597Z,arch-indexer-core,0.1.0,0,0,https://github.com/Arch-Network/arch-indexer-framework,"Decoder-side types for Arch program indexers: the arch-rust-indexer transaction export, log attribution, byte reader and Anchor discriminators"
+2026-10-29T18:54:07.493222Z,arch-indexer,0.1.0,0,0,https://github.com/Arch-Network/arch-indexer-framework,"Framework for Arch program indexers over arch-rust-indexer: the ProgramIndexer trait, ingest runner, checkpoints and replays, per-program migrations and the HTTP host"
+2026-10-29T18:55:56.299591Z,seam-rs-reqwest,0.6.0,0,0,https://github.com/parzivale/seam,"HTTP for seam: a Fetch effect over http's types, performed with reqwest, or scripted in tests."
+2026-10-29T18:56:44.462746Z,laputa-smol-macros,0.2.0,0,0,https://github.com/laputa-systems/smolith,Macros for setting up a smol runtime
+2026-10-29T18:58:56.956585Z,crawlora-fanduel,0.1.0,0,0,https://github.com/Crawlora-org/crawlora-fanduel,Typed Rust client for Crawlora's hosted FanDuel API. Requires a Crawlora API key.
+2026-10-29T19:03:53.243645Z,stampeded-ffi,0.4.1,0,0,https://github.com/seuros/stampeded,C ABI for stampeded: enqueue jobs and pull them from any language
+2026-10-29T19:05:55.797592Z,seam-rs-sqlx,0.6.0,0,0,https://github.com/parzivale/seam,"SQL databases for seam: queries and transactions as effects, performed with sqlx, and tested against in-memory SQLite."
+2026-10-29T19:06:11.053623Z,muzzle-cli,0.1.0,0,0,https://github.com/mu-crew/muzzle,"Per-host admission for heavy commands, with a run log that tunes itself."
+2026-10-29T19:06:51.188524Z,laputa-async-dup,0.2.0,0,0,https://github.com/laputa-systems/smolith,Duplicate an async I/O handle
+2026-10-29T19:08:15.733229Z,tlaplus-dsl,0.1.0,0,0,https://github.com/drbh/tlaplus-rs,Experimental typed action language that exports TLA+ models.
+2026-10-29T19:08:15.976573Z,tlaplus-engine,0.1.0,0,0,https://github.com/drbh/tlaplus-rs,Exact breadth-first exploration of transition systems
+2026-10-29T19:08:16.174693Z,tlaplus-ir,0.1.0,0,0,https://github.com/drbh/tlaplus-rs,"Shared expression representation, levels and transformations for tlaplus-rs"
+2026-10-29T19:08:16.439843Z,tlaplus-props,0.1.0,0,0,https://github.com/drbh/tlaplus-rs,Graph algorithms for temporal property checking
+2026-10-29T19:08:16.616598Z,tlaplus-syntax,0.1.0,0,0,https://github.com/drbh/tlaplus-rs,TLA+ syntax tree for tlaplus-rs
+2026-10-29T19:09:24.511245Z,crawlora-fussballde,0.1.0,0,0,https://github.com/Crawlora-org/crawlora-fussballde,Typed Rust client for Crawlora's hosted Fussball.de API. Requires a Crawlora API key.
+2026-10-29T19:10:06.680328Z,tlaplus-values,0.1.0,0,0,https://github.com/drbh/tlaplus-rs,Finite TLA+ values for tlaplus-rs
+2026-10-29T19:13:00.407394Z,xstory,0.1.0,0,0,https://github.com/zx0r/xstory,Minimalist Unix shell history engine
+2026-10-29T19:15:55.66704Z,seam-rs-tracing,0.6.0,0,0,https://github.com/parzivale/seam,"Logging for seam: log records as an effect, sent to tracing, or captured and checked in tests."
+2026-10-29T19:16:45.453545Z,laputa-async-fs,0.2.0,0,0,https://github.com/laputa-systems/smolith,Async filesystem primitives
+2026-10-29T19:18:03.860398Z,crawlora-opendota,0.1.0,0,0,https://github.com/Crawlora-org/crawlora-opendota,Typed Rust client for Crawlora's hosted OpenDota API. Requires a Crawlora API key.
+2026-10-29T19:19:39.09452Z,aux-rs,0.0.0,0,0,https://github.com/polaris-data/connectors,Exchange connectors for Rust
