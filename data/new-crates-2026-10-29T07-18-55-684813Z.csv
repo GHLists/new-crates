@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T06:21:10.9386Z,sylphx-keel-render-wgpu,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Atlas-batched GPU 2D skeletal meshes; wgpu backend: GPU instance packing helpers by default; with wgpu-backend, a shared GpuContext, FrameCompositor, SceneRenderer, UiRenderer, the render graph and s…"
+2026-10-29T06:21:29.398987Z,tools-rag,0.2.0,0,0,https://github.com/Lsh0x/tools-rag,"Semantic tool retrieval for LLM agents: embed tool definitions, search them by intent with MaxSim scoring, and learn from usage feedback."
+2026-10-29T06:23:48.745809Z,urh,0.1.0,0,0,https://github.com/stevenjoezhang/urh-rs,Rust port of the Universal Radio Hacker (URH) signal processing core
+2026-10-29T06:27:37.598097Z,dokime-packaging,0.1.0,0,0,https://github.com/stokker-technologies/dokime,Dokime sidecar and native installer packaging
+2026-10-29T06:29:08.645647Z,mentions,0.1.0,0,0,https://github.com/ernestas-poskus/operator,"Parse and validate @-mention references (files, directories, line ranges, globs) in text."
+2026-10-29T06:29:24.74024Z,xsyd-json,0.1.0,0,0,https://github.com/xsyd-l/json-reader-writer.git,use the tool to analyze or create a format json file.
+2026-10-29T06:31:07.03137Z,sylphx-keel-sequence,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Feel sequencer: one timeline of tweens, UI motion, pooled world-space popups, particle bursts, audio cues, haptics, shake, hit-stop, camera punch and chromatic aberration. A crate of its own because…"
+2026-10-29T06:37:57.67689Z,dokime-server,0.1.0,0,0,https://github.com/stokker-technologies/dokime,Dokime application and runtime packages.
+2026-10-29T06:41:06.606802Z,sylphx-keel-storage,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Storage Ports with conditional whole-snapshot saves, shared memory, Unix atomic envelopes and browser Web Locks"
+2026-10-29T06:49:05.801704Z,gtao-pass-wgpu,0.1.0,0,0,https://github.com/newDINO/gtao-pass-wgpu,Ground truth ambient occlusion (GTAO) render pass for wgpu
+2026-10-29T06:50:59.408361Z,insta360-stitch,0.0.2,0,0,https://github.com/rgryta/insta360-stitch,Stitches Insta360 dual-fisheye photos and videos into equirectangular panoramas
+2026-10-29T06:51:07.201392Z,sylphx-keel-term,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Terminal presenter: PaintOp list to cell grid to minimal ANSI updates, plus the live TTY session and input (feature tty)"
+2026-10-29T06:51:09.728799Z,insta360-stitch-cli,0.0.2,0,0,https://github.com/rgryta/insta360-stitch,A command-line tool that stitches Insta360 dual-fisheye photos and videos
+2026-10-29T06:57:50.522474Z,dm-rust,0.1.0,0,0,https://github.com/daxiangme/dm-rust,"Async Tokio driver for Dameng DM8: wire protocol, connections, optional pool, and optional sqlx-core 0.8"
+2026-10-29T07:05:15.721093Z,timestretch-accelerate,0.1.0,0,0,,Isolated owned Accelerate FFT and vector adapters for timestretch
+2026-10-29T07:05:17.461373Z,timestretch-analysis,0.16.0,0,0,,"Optional beat, key, loudness and waveform analysis"
+2026-10-29T07:06:22.825277Z,timestretch-core,0.16.0,0,0,,timestretch DSP kernel and native scheduling for timestretch
+2026-10-29T07:12:05.556036Z,cargo-undep,0.1.0,0,0,https://github.com/tinglou/oh-my-rust-crates,Find unused workspace dependencies and hoist member dependencies in a Cargo workspace

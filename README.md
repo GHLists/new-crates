@@ -8,36 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 06:20 UTC
+## Latest list — 2026-10-29 07:18 UTC
 
-New crates published between 2026-10-29 05:20 UTC and 2026-10-29 06:20 UTC.
+New crates published between 2026-10-29 06:20 UTC and 2026-10-29 07:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-29T06-20-22-262681Z.csv)
+[Full CSV](data/new-crates-2026-10-29T07-18-55-684813Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-29 05:21:06 | [sylphx-keel-character](https://crates.io/crates/sylphx-keel-character) | 0.1.5880 | 0 | Characters: the versioned keel.character document, body regions with index-rebu… |
-| 2026-10-29 05:21:17 | [cryptainer-derive](https://crates.io/crates/cryptainer-derive) | 2.2.0 | 0 | Derive macro for cryptainer |
-| 2026-10-29 05:26:39 | [clankerdiff-ui-core](https://crates.io/crates/clankerdiff-ui-core) | 0.7.0 | 0 | Renderer-neutral themes, palettes and picker behavior for Diff and sibling apps |
-| 2026-10-29 05:29:49 | [adrlint](https://crates.io/crates/adrlint) | 0.1.0 | 0 | A fast, opinionated linter and formatter for MADR architecture decision records |
-| 2026-10-29 05:31:10 | [sylphx-keel-ui](https://crates.io/crates/sylphx-keel-ui) | 0.1.5880 | 0 | UI: Components, Signals, constraint/flex layout, motion, themes and art skins,… |
-| 2026-10-29 05:40:02 | [aqui](https://crates.io/crates/aqui) | 8.0.0 | 0 | Human-friendly CLI HTTP client |
-| 2026-10-29 05:41:06 | [sylphx-keel-time](https://crates.io/crates/sylphx-keel-time) | 0.1.5880 | 0 | Time services: pause and time scale, timers, host timers with jitter, per-frame… |
-| 2026-10-29 05:51:10 | [sylphx-keel-physics](https://crates.io/crates/sylphx-keel-physics) | 0.1.5880 | 0 | PhysicsPort contract (bodies, shapes, joints, queries, character movement, larg… |
-| 2026-10-29 06:00:04 | [blake3-servil](https://crates.io/crates/blake3-servil) | 0.8.0+b3c5efc7c975d… | 0 | the BLAKE3 hash function, with SME2 and integer + NEON kernels for AArch64 and… |
-| 2026-10-29 06:01:07 | [sylphx-keel-physics-rapier](https://crates.io/crates/sylphx-keel-physics-rapier) | 0.1.5880 | 0 | PhysicsPort backends on Rapier: RapierPhysics (3D) and RapierPhysics2d (2D), wi… |
-| 2026-10-29 06:01:41 | [b3sums](https://crates.io/crates/b3sums) | 0.8.0+b3c5efc7c975d… | 0 | b3sum, the BLAKE3 command-line hasher, on blake3-servil: the same digests, fast… |
-| 2026-10-29 06:04:55 | [dokime-domain](https://crates.io/crates/dokime-domain) | 0.1.0 | 0 | Dokime application and runtime packages. |
-| 2026-10-29 06:05:56 | [dokime-operations](https://crates.io/crates/dokime-operations) | 0.1.0 | 0 | Dokime application and runtime packages. |
-| 2026-10-29 06:06:39 | [bevy_procedural_fx](https://crates.io/crates/bevy_procedural_fx) | 0.1.0 | 0 | Play sprite-sheet effects exported from ProceduralFX Studio in Bevy |
-| 2026-10-29 06:08:19 | [dokime-client](https://crates.io/crates/dokime-client) | 0.1.0 | 0 | Dokime application and runtime packages. |
-| 2026-10-29 06:08:40 | [dokime-host](https://crates.io/crates/dokime-host) | 0.1.0 | 0 | Dokime application and runtime packages. |
-| 2026-10-29 06:08:46 | [dokime-macros](https://crates.io/crates/dokime-macros) | 0.1.0 | 0 | Authoring attributes re-exported by the dokime crate. |
-| 2026-10-29 06:10:50 | [dokime-runtime](https://crates.io/crates/dokime-runtime) | 0.1.0 | 0 | Dokime application and runtime packages. |
-| 2026-10-29 06:11:09 | [sylphx-keel-voxel](https://crates.io/crates/sylphx-keel-voxel) | 0.1.5880 | 0 | Voxel worlds: chunk storage, greedy and LOD meshing through one MeshOptions, ti… |
-| 2026-10-29 06:14:04 | [narrative-lens](https://crates.io/crates/narrative-lens) | 0.2.0 | 0 | Local, deterministic prose and narrative-craft analysis -- readability, pacing,… |
-| 2026-10-29 06:17:33 | [dokime](https://crates.io/crates/dokime) | 0.1.0 | 0 | Dokime application and runtime packages. |
-| 2026-10-29 06:20:05 | [bitrouter-registry](https://crates.io/crates/bitrouter-registry) | 1.0.0-alpha.35 | 0 | Registry v1 validation, synchronization, and exact pricing contracts |
+| 2026-10-29 06:21:10 | [sylphx-keel-render-wgpu](https://crates.io/crates/sylphx-keel-render-wgpu) | 0.1.5880 | 0 | Atlas-batched GPU 2D skeletal meshes; wgpu backend: GPU instance packing helper… |
+| 2026-10-29 06:21:29 | [tools-rag](https://crates.io/crates/tools-rag) | 0.2.0 | 0 | Semantic tool retrieval for LLM agents: embed tool definitions, search them by… |
+| 2026-10-29 06:23:48 | [urh](https://crates.io/crates/urh) | 0.1.0 | 0 | Rust port of the Universal Radio Hacker (URH) signal processing core |
+| 2026-10-29 06:27:37 | [dokime-packaging](https://crates.io/crates/dokime-packaging) | 0.1.0 | 0 | Dokime sidecar and native installer packaging |
+| 2026-10-29 06:29:08 | [mentions](https://crates.io/crates/mentions) | 0.1.0 | 0 | Parse and validate @-mention references (files, directories, line ranges, globs… |
+| 2026-10-29 06:29:24 | [xsyd-json](https://crates.io/crates/xsyd-json) | 0.1.0 | 0 | use the tool to analyze or create a format json file. |
+| 2026-10-29 06:31:07 | [sylphx-keel-sequence](https://crates.io/crates/sylphx-keel-sequence) | 0.1.5880 | 0 | Feel sequencer: one timeline of tweens, UI motion, pooled world-space popups, p… |
+| 2026-10-29 06:37:57 | [dokime-server](https://crates.io/crates/dokime-server) | 0.1.0 | 0 | Dokime application and runtime packages. |
+| 2026-10-29 06:41:06 | [sylphx-keel-storage](https://crates.io/crates/sylphx-keel-storage) | 0.1.5880 | 0 | Storage Ports with conditional whole-snapshot saves, shared memory, Unix atomic… |
+| 2026-10-29 06:49:05 | [gtao-pass-wgpu](https://crates.io/crates/gtao-pass-wgpu) | 0.1.0 | 0 | Ground truth ambient occlusion (GTAO) render pass for wgpu |
+| 2026-10-29 06:50:59 | [insta360-stitch](https://crates.io/crates/insta360-stitch) | 0.0.2 | 0 | Stitches Insta360 dual-fisheye photos and videos into equirectangular panoramas |
+| 2026-10-29 06:51:07 | [sylphx-keel-term](https://crates.io/crates/sylphx-keel-term) | 0.1.5880 | 0 | Terminal presenter: PaintOp list to cell grid to minimal ANSI updates, plus the… |
+| 2026-10-29 06:51:09 | [insta360-stitch-cli](https://crates.io/crates/insta360-stitch-cli) | 0.0.2 | 0 | A command-line tool that stitches Insta360 dual-fisheye photos and videos |
+| 2026-10-29 06:57:50 | [dm-rust](https://crates.io/crates/dm-rust) | 0.1.0 | 0 | Async Tokio driver for Dameng DM8: wire protocol, connections, optional pool, a… |
+| 2026-10-29 07:05:15 | [timestretch-accelerate](https://crates.io/crates/timestretch-accelerate) | 0.1.0 | 0 | Isolated owned Accelerate FFT and vector adapters for timestretch |
+| 2026-10-29 07:05:17 | [timestretch-analysis](https://crates.io/crates/timestretch-analysis) | 0.16.0 | 0 | Optional beat, key, loudness and waveform analysis |
+| 2026-10-29 07:06:22 | [timestretch-core](https://crates.io/crates/timestretch-core) | 0.16.0 | 0 | timestretch DSP kernel and native scheduling for timestretch |
+| 2026-10-29 07:12:05 | [cargo-undep](https://crates.io/crates/cargo-undep) | 0.1.0 | 0 | Find unused workspace dependencies and hoist member dependencies in a Cargo wor… |
 
 ## Data source
 
