@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T07:21:41.542475Z,fluxel-host,0.1.0,0,0,https://github.com/fluxel-project/fluxel-host,Native host primitives for Fluxel applications
+2026-10-29T07:21:41.769596Z,clibrary,0.1.0,0,0,,"A navigable, metadata-aware personal library for EPUB files"
+2026-10-29T07:21:57.29371Z,gpui-auto-update-core,0.1.0-beta.1,0,0,https://github.com/thedavidweng/gpui-auto-update,"Framework-independent update state, feed, verification, and policy contracts for gpui-auto-update."
+2026-10-29T07:21:59.491469Z,gpui-auto-update-cli,0.1.0-beta.1,0,0,https://github.com/thedavidweng/gpui-auto-update,"Release and integration tooling for gpui-auto-update: keys, feeds, verification, and doctor checks."
+2026-10-29T07:22:00.274138Z,gpui-auto-update-linux,0.1.0-beta.1,0,0,https://github.com/thedavidweng/gpui-auto-update,"Linux backend for gpui-auto-update: verified managed-install staging, swap, and rollback."
+2026-10-29T07:22:00.864574Z,gpui-auto-update-macos,0.1.0-beta.1,0,0,https://github.com/thedavidweng/gpui-auto-update,"macOS backend for gpui-auto-update, delegating update mechanics to Sparkle 2."
+2026-10-29T07:22:06.172299Z,gpui-auto-update-windows,0.1.0-beta.1,0,0,https://github.com/thedavidweng/gpui-auto-update,Windows backend for gpui-auto-update: verified installer and portable update handoff.
+2026-10-29T07:25:11.83014Z,clintegrator,0.1.0,0,0,https://github.com/jennraeross/clintegrator,Cross-platform GUI and CLI that opens each file in the terminal command you've mapped to its filetype
+2026-10-29T07:27:08.708899Z,fluxel-rhi-core,0.1.0,0,0,https://github.com/fluxel-project/fluxel-rhi,Portable API and backend contract for Fluxel RHI
+2026-10-29T07:27:22.941763Z,libbot,0.1.0,0,0,,A lightweight LLM and agentic API for Rust.
+2026-10-29T07:27:41.04083Z,fluxel-naga,0.1.0,0,0,https://github.com/fluxel-project/fluxel-rhi,Naga shader translator with Fluxel HLSL storage binding-array fixes
+2026-10-29T07:29:50.225346Z,fluxel-rhi-dx12,0.1.0,0,0,https://github.com/fluxel-project/fluxel-rhi,Direct3D 12 backend for Fluxel RHI
+2026-10-29T07:30:46.371444Z,fluxel-rhi-vulkan,0.1.0,0,0,https://github.com/fluxel-project/fluxel-rhi,Vulkan backend for Fluxel RHI
+2026-10-29T07:32:14.591072Z,gpui-auto-update,0.1.0-beta.1,0,0,https://github.com/thedavidweng/gpui-auto-update,"Sparkle-quality automatic updates for GPUI. Sparkle on macOS, signed native updates on Windows and Linux, one observable GPUI API."
+2026-10-29T07:32:29.087382Z,fluxel-rhi-webgpu,0.1.0,0,0,https://github.com/fluxel-project/fluxel-rhi,Browser WebGPU backend for Fluxel RHI
+2026-10-29T07:32:46.112467Z,desktop-design-system,0.1.0,0,0,https://github.com/khank8476/desktop-design-system-rust-slint,"High-performance native desktop design system, component library, and turnkey CRUD template built with Rust and Slint."
+2026-10-29T07:35:28.602177Z,takia,0.15.0,0,0,https://github.com/glory-rs/takia,Glory-maintained Taffy fork with corrected fractional flex gap layout
+2026-10-29T07:36:14.595395Z,fluxel-rhi-metal,0.1.0,0,0,https://github.com/fluxel-project/fluxel-rhi,Metal backend for Fluxel RHI
+2026-10-29T07:38:47.998279Z,turborel,0.0.0,0,0,https://github.com/turborel/turborel,"The turborel relational database, as a library: its language SQL-86 and SQL-92 now, as one, extended standard by standard through SQL:2023; transactions that survive a crash; plug-ins. Embedded in a…"
+2026-10-29T07:38:50.328333Z,turborel-aes,0.0.0,0,0,https://github.com/turborel/turborel,"AES-256-GCM encryption for turborel, as an encoding (RULES.md D26, D30, D48): files through STORAGE.ENCODINGS, a table's rows and log records through its option ENCODINGS, keys from a pluggable keyri…"
+2026-10-29T07:38:50.660185Z,turborel-lz4,0.0.0,0,0,https://github.com/turborel/turborel,"LZ4 compression for turborel, as an encoding (RULES.md D30, D48): files through STORAGE.ENCODINGS, a table's rows through its option ENCODINGS."
+2026-10-29T07:38:50.979674Z,turborel-protocol,0.0.0,0,0,https://github.com/turborel/turborel,"The turborel server's native wire protocol: its messages and their encoding, without I/O, shared by the server and its clients (RULES.md D42)."
+2026-10-29T07:38:52.445229Z,turborel-client,0.0.0,0,0,https://github.com/turborel/turborel,"A client of the turborel server: a blocking connection over its wire protocol (RULES.md D42). No dependencies beyond the standard library and turborel's, but for TLS with the feature `tls`."
+2026-10-29T07:42:14.952549Z,gpui-auto-update-ui,0.1.0-beta.1,0,0,https://github.com/thedavidweng/gpui-auto-update,"Optional neutral, theme-inheriting GPUI update controls for gpui-auto-update."
+2026-10-29T07:42:42.879072Z,umbriel-mcp,0.1.0,0,0,https://github.com/dot-ASH/umbriel-mcp,"MCP server for the Umbriel Wayland compositor: windows, workspaces, outputs, pointer and keyboard input, screenshots with OCR, and the clipboard."
+2026-10-29T07:43:17.980089Z,wingy-dpi,0.1.2,0,0,https://github.com/glory-rs/wingy,Types for handling UI scaling
+2026-10-29T07:43:23.61034Z,wingy-core,0.31.0-beta.4,0,0,https://github.com/glory-rs/wingy,wingy core API.
+2026-10-29T07:43:27.668286Z,wingy-common,0.31.0-beta.4,0,0,https://github.com/glory-rs/wingy,Wingy implementation helpers
+2026-10-29T07:43:30.283535Z,wingy-android,0.31.0-beta.4,0,0,https://github.com/glory-rs/wingy,Wingy's Android backend
+2026-10-29T07:43:32.799351Z,wingy-appkit,0.31.0-beta.4,0,0,https://github.com/glory-rs/wingy,Wingy's Appkit / macOS backend
+2026-10-29T07:45:42.61645Z,turborel-server,0.0.0,0,0,https://github.com/turborel/turborel,"The turborel server, as a library: the database's sessions over a network, for many clients at once, in any program that serves it (RULES.md D42). Its program is `turboreld`."
+2026-10-29T07:49:15.926697Z,bevy-manual-mcp,0.0.1,0,0,https://github.com/kinkirill/bevy_manual_mcp,Name reservation; the native Bevy MCP server is not published yet.
+2026-10-29T07:50:52.523753Z,wingy-orbital,0.31.0-beta.4,0,0,https://github.com/glory-rs/wingy,Wingy's Orbital/Redox backend
+2026-10-29T07:55:02.042204Z,semantic-registry,0.1.0,0,0,https://github.com/Lsh0x/semantic-registry,"A registry of named entries searched by meaning: tools, skills, prompts or schemas for LLM agents. MaxSim over learned examples, with a guarded feedback loop."
+2026-10-29T07:57:17.92285Z,turborel-cli,0.0.0,0,0,https://github.com/turborel/turborel,"turborel, the command-line client of the turborel server: SQL typed or read from files, run over a connection, results streamed as tables (RULES.md D46)."
+2026-10-29T08:00:54.05895Z,wingy-uikit,0.31.0-beta.4,0,0,https://github.com/glory-rs/wingy,Wingy's UIKit (iOS/tvOS/visionOS) backend
+2026-10-29T08:01:21.519919Z,eigenstyle,1.0.0,0,0,,"MCP stdio server for Matt Porter's voice profile (corpus, fingerprint, draft checker)"
+2026-10-29T08:03:02.72987Z,coreav,0.0.0,0,0,https://github.com/coreav-dev/coreav,"Placeholder for CoreAV, a Rust media toolkit. The first release will be 0.1.0."
+2026-10-29T08:03:10.068258Z,fluxel-rhi-gl,0.1.0,0,0,https://github.com/fluxel-project/fluxel-rhi,"OpenGL, OpenGL ES, and WebGL2 backend for Fluxel RHI"
+2026-10-29T08:03:26.146191Z,eigenstyle-gui,1.0.0,0,0,,"GPUI desktop GUI for the voice-profile corpus, fingerprint, and draft checker"
+2026-10-29T08:05:04.865336Z,fluxel-rhi,0.1.0,0,0,https://github.com/fluxel-project/fluxel-rhi,Fluxel's statically dispatched RHI facade
+2026-10-29T08:05:26.13956Z,turboreld,0.0.0,0,0,https://github.com/turborel/turborel,"turboreld, the turborel server's program: a daemon serving a database, configured by its settings (RULES.md D42)."
+2026-10-29T08:06:15.22565Z,eigenstyle-tui,1.0.0,0,0,,"ratatui terminal UI for the voice-profile corpus, fingerprint, and draft checker"
+2026-10-29T08:06:56.510388Z,ruvel,0.1.0,0,0,,The laravel alternative framework with rust performance
+2026-10-29T08:10:41.066452Z,lombokserde,0.1.0,0,0,https://github.com/codinglombok/LombokSerde,"Zero-dependency JSON, TOML and MessagePack serialization with byte-identical results across languages"
+2026-10-29T08:10:57.104878Z,wingy-wayland,0.31.0-beta.4,0,0,https://github.com/glory-rs/wingy,Wingy's Wayland backend
