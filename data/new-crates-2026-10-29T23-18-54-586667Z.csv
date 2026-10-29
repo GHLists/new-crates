@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T22:19:12.958174Z,infrawrench-bulk-instances,1.0.0,0,0,https://github.com/Infrawrench/bulk-instances-sdks,"AWS EC2 instance attributes and pricing, with full history, from Infrawrench."
+2026-10-29T22:21:31.697289Z,takumi-pdf,0.0.0,0,0,https://github.com/kane50613/takumi,"Placeholder for takumi's vector PDF backend, which will be published here."
+2026-10-29T22:21:34.692412Z,takumi-cli,0.0.0,0,0,https://github.com/kane50613/takumi,"Placeholder for the takumi command-line tool, which will be published here."
+2026-10-29T22:23:05.33302Z,opendomain-cli,0.20.26,0,0,https://github.com/GAYENSIS09/OpenDomain,The `opendomain` command-line interface for OpenDomain
+2026-10-29T22:27:49.130868Z,emend,0.1.0,0,0,https://github.com/thekeoni1/emend,"Read-modify-write of Office Open XML spreadsheets: open an existing .xlsx, change what you were asked to change, and hand the file back with everything else intact."
+2026-10-29T22:42:11.424975Z,bacnet-ops,0.15.0,0,0,https://github.com/jscott3201/rusty-bacnet,"UI-free BACnet operations core shared by the bacnet CLI, its TUI and its MCP server"
+2026-10-29T22:42:12.565891Z,bacnet-mcp,0.15.0,0,0,https://github.com/jscott3201/rusty-bacnet,"A Model Context Protocol server for BACnet sites, over the bacnet-ops engine, read-only unless a profile offers guarded writes"
+2026-10-29T22:43:42.567758Z,mercury-hbc,0.1.0,0,0,https://github.com/azw413/mercury,"A crate to compile, decompile, inspect, and transform Hermes bytecode"
+2026-10-29T22:48:22.904358Z,spline-core,0.1.0,0,0,https://github.com/LabOverWire/network-tests,Robust smoothing spline clock offset estimation algorithm
+2026-10-29T22:55:48.909173Z,aether-client-core,0.0.1,0,0,https://github.com/contextbridge/aether,UI-agnostic Agent Client Protocol (ACP) client core shared by Aether's frontends
+2026-10-29T23:00:15.801279Z,pmon,0.1.1,0,0,https://github.com/rpattn/pmon,Minimal terminal CPU / RAM monitor with an optional history daemon
+2026-10-29T23:02:00.69124Z,typspell,0.1.0,0,0,https://codeberg.org/adamreichold/typspell.git,Hunspell-compatible syntax level spell checking for Typst
+2026-10-29T23:02:40.61646Z,smarthive-geocore,0.1.0,0,0,https://github.com/Smart-Hive-Labs/geocore-sdks,"Rust SDK for SmartHive GeoCore: geocoding, routing, places, community places, weather, pricing/FX, countries, phone and company intel."
+2026-10-29T23:06:05.650289Z,sveltui-macros,0.1.0-alpha.1,0,0,https://github.com/themosthigh/sveltui,The view! JSX macro and #[component] attribute for sveltui.
+2026-10-29T23:06:32.553209Z,sveltui,0.1.0-alpha.1,0,0,https://github.com/themosthigh/sveltui,"A declarative, reactive TUI framework that feels like writing Svelte."
+2026-10-29T23:07:02.062546Z,sveltui-components,0.1.0-alpha.1,0,0,https://github.com/themosthigh/sveltui,"Built-in components (Button, TextInput, Dialog, ...) for sveltui."
+2026-10-29T23:07:40.379004Z,pkiprocmacros,0.1.2,0,0,https://github.com/carl-wallace/rust-pki,Procedural macros supporting the certval certification path validation library
+2026-10-29T23:08:18.774Z,gstreamer-codecs-src,0.0.0,0,0,https://github.com/DEKHTIARJonathan/gstreamer-src,Placeholder for the gstreamer-codecs-src source package; not yet functional
+2026-10-29T23:08:19.283447Z,gstreamer-ffmpeg-src,0.0.0,0,0,https://github.com/DEKHTIARJonathan/gstreamer-src,Placeholder for the gstreamer-ffmpeg-src source package; not yet functional
+2026-10-29T23:08:19.640417Z,gstreamer-native-src,0.0.0,0,0,https://github.com/DEKHTIARJonathan/gstreamer-src,Placeholder for the gstreamer-native-src source package; not yet functional
+2026-10-29T23:09:36.414712Z,rp-unprobe,0.1.0,0,0,https://github.com/hardhus/rp-unprobe,"Probe-less development for RP2040/RP2350: USB serial logging, panic capture and BOOTSEL reboot in debug builds, zero cost in release"
+2026-10-29T23:10:24.4042Z,unprobe-cli,0.1.0,0,0,https://github.com/hardhus/rp-unprobe,Host tool for rp-unprobe: flash RP2040/RP2350 over BOOTSEL without a button and stream the USB log
+2026-10-29T23:10:40.142389Z,small-python-src,0.2.0,0,0,https://github.com/soasme/small-python,"The C sources of Small Python, and how to compile them, for build scripts"
+2026-10-29T23:10:43.360497Z,small-python-sys,0.2.0,0,0,https://github.com/soasme/small-python,"Raw bindings to Small Python, a small embeddable Python engine, compiled from source"
+2026-10-29T23:10:44.505871Z,small-python-worker,0.2.0,0,0,https://github.com/soasme/small-python,Run untrusted Python from Rust: Small Python in a sandboxed worker process
+2026-10-29T23:10:46.27367Z,small-python,0.2.0,0,0,https://github.com/soasme/small-python,"Embed Small Python, a small Python engine written in C11, in Rust"
+2026-10-29T23:15:15.779438Z,zlink-names,0.8.0,0,0,https://github.com/z-galaxy/zlink/,Varlink names and their validation
+2026-10-29T23:17:57.915039Z,rs-sqlite2cel2jsons,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-sqlite2cel2jsons,Convert SQLite rows to JSONs using CEL

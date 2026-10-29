@@ -8,34 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 22:18 UTC
+## Latest list — 2026-10-29 23:18 UTC
 
-New crates published between 2026-10-29 21:20 UTC and 2026-10-29 22:18 UTC.
+New crates published between 2026-10-29 22:18 UTC and 2026-10-29 23:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-29T22-18-53-958882Z.csv)
+[Full CSV](data/new-crates-2026-10-29T23-18-54-586667Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-29 21:22:04 | [wintab-sys](https://crates.io/crates/wintab-sys) | 0.1.0 | 0 | Raw bindings for Wacom's Wintab 1.4 tablet API (WINTAB.H, PKTDEF.H), loaded at… |
-| 2026-10-29 21:23:06 | [skillwright](https://crates.io/crates/skillwright) | 0.3.7 | 0 | A command-line tool that publishes a vault of markdown skill notes into the for… |
-| 2026-10-29 21:24:44 | [retex-mp](https://crates.io/crates/retex-mp) | 1.6.0-beta.6 | 0 | MetaPost for retex: the MetaPost language and its mplib library, in process |
-| 2026-10-29 21:26:45 | [wintab](https://crates.io/crates/wintab) | 0.1.1 | 0 | Safe wrapper for Wacom's Wintab 1.4 tablet API |
-| 2026-10-29 21:31:07 | [tlaplus-cli](https://crates.io/crates/tlaplus-cli) | 0.1.0 | 0 | A TLA+ model checker that gives the same answers as TLC |
-| 2026-10-29 21:31:10 | [skot](https://crates.io/crates/skot) | 1.1.0 | 0 | Manage a patch series against an upstream git repository and build easily produ… |
-| 2026-10-29 21:32:37 | [smarthive-auth](https://crates.io/crates/smarthive-auth) | 0.1.0 | 0 | Rust server SDK for SmartHive Auth: access-token verification (JWKS / HS256), s… |
-| 2026-10-29 21:35:49 | [mulch](https://crates.io/crates/mulch) | 0.1.0 | 0 | Native Rust implementation of the mulch structured-expertise format |
-| 2026-10-29 21:41:09 | [pond-rs](https://crates.io/crates/pond-rs) | 0.1.0 | 0 | Time series analytics: rolling windows, calendar buckets in any time zone, join… |
-| 2026-10-29 21:57:56 | [empowerops-rs-utils](https://crates.io/crates/empowerops-rs-utils) | 0.1.2 | 0 | Shared utilities for EmpowerOps Rust projects: semicolon-CSV reporting, delimit… |
-| 2026-10-29 21:58:05 | [gauger](https://crates.io/crates/gauger) | 0.1.0 | 0 | A terminal resource monitor for Docker and Podman |
-| 2026-10-29 21:59:15 | [polyvisor](https://crates.io/crates/polyvisor) | 0.0.1 | 0 | MicroVM orchestration and control plane for Firecracker |
-| 2026-10-29 22:03:21 | [squint-core](https://crates.io/crates/squint-core) | 0.1.0 | 0 | squint core: jobs, obligations, checklist, run loop, verdict (library) |
-| 2026-10-29 22:03:23 | [squint-testkit](https://crates.io/crates/squint-testkit) | 0.1.0 | 0 | squint test support: scripted fake provider, fake tool, fake MCP server |
-| 2026-10-29 22:03:25 | [squint-providers](https://crates.io/crates/squint-providers) | 0.1.0 | 0 | squint provider adapters, endpoint profiles and model catalog |
-| 2026-10-29 22:03:26 | [squint-tools](https://crates.io/crates/squint-tools) | 0.1.0 | 0 | squint built-in tools and MCP client |
-| 2026-10-29 22:12:11 | [hwdata](https://crates.io/crates/hwdata) | 0.1.0 | 0 | hwdata parsing in pure rust, including runtime to reparse |
-| 2026-10-29 22:12:16 | [squint-eval](https://crates.io/crates/squint-eval) | 0.1.0 | 0 | squint evaluation sets, matrix runner, metrics and gates |
-| 2026-10-29 22:14:50 | [nanosuit](https://crates.io/crates/nanosuit) | 0.0.0 | 0 | A simple coding agent. Built with iced. |
-| 2026-10-29 22:16:51 | [squint-cli](https://crates.io/crates/squint-cli) | 0.1.0 | 0 | Agentic harness for evaluating the integrity of images |
+| 2026-10-29 22:19:12 | [infrawrench-bulk-instances](https://crates.io/crates/infrawrench-bulk-instances) | 1.0.0 | 0 | AWS EC2 instance attributes and pricing, with full history, from Infrawrench. |
+| 2026-10-29 22:21:31 | [takumi-pdf](https://crates.io/crates/takumi-pdf) | 0.0.0 | 0 | Placeholder for takumi's vector PDF backend, which will be published here. |
+| 2026-10-29 22:21:34 | [takumi-cli](https://crates.io/crates/takumi-cli) | 0.0.0 | 0 | Placeholder for the takumi command-line tool, which will be published here. |
+| 2026-10-29 22:23:05 | [opendomain-cli](https://crates.io/crates/opendomain-cli) | 0.20.26 | 0 | The `opendomain` command-line interface for OpenDomain |
+| 2026-10-29 22:27:49 | [emend](https://crates.io/crates/emend) | 0.1.0 | 0 | Read-modify-write of Office Open XML spreadsheets: open an existing .xlsx, chan… |
+| 2026-10-29 22:42:11 | [bacnet-ops](https://crates.io/crates/bacnet-ops) | 0.15.0 | 0 | UI-free BACnet operations core shared by the bacnet CLI, its TUI and its MCP se… |
+| 2026-10-29 22:42:12 | [bacnet-mcp](https://crates.io/crates/bacnet-mcp) | 0.15.0 | 0 | A Model Context Protocol server for BACnet sites, over the bacnet-ops engine, r… |
+| 2026-10-29 22:43:42 | [mercury-hbc](https://crates.io/crates/mercury-hbc) | 0.1.0 | 0 | A crate to compile, decompile, inspect, and transform Hermes bytecode |
+| 2026-10-29 22:48:22 | [spline-core](https://crates.io/crates/spline-core) | 0.1.0 | 0 | Robust smoothing spline clock offset estimation algorithm |
+| 2026-10-29 22:55:48 | [aether-client-core](https://crates.io/crates/aether-client-core) | 0.0.1 | 0 | UI-agnostic Agent Client Protocol (ACP) client core shared by Aether's frontends |
+| 2026-10-29 23:00:15 | [pmon](https://crates.io/crates/pmon) | 0.1.1 | 0 | Minimal terminal CPU / RAM monitor with an optional history daemon |
+| 2026-10-29 23:02:00 | [typspell](https://crates.io/crates/typspell) | 0.1.0 | 0 | Hunspell-compatible syntax level spell checking for Typst |
+| 2026-10-29 23:02:40 | [smarthive-geocore](https://crates.io/crates/smarthive-geocore) | 0.1.0 | 0 | Rust SDK for SmartHive GeoCore: geocoding, routing, places, community places, w… |
+| 2026-10-29 23:06:05 | [sveltui-macros](https://crates.io/crates/sveltui-macros) | 0.1.0-alpha.1 | 0 | The view! JSX macro and #[component] attribute for sveltui. |
+| 2026-10-29 23:06:32 | [sveltui](https://crates.io/crates/sveltui) | 0.1.0-alpha.1 | 0 | A declarative, reactive TUI framework that feels like writing Svelte. |
+| 2026-10-29 23:07:02 | [sveltui-components](https://crates.io/crates/sveltui-components) | 0.1.0-alpha.1 | 0 | Built-in components (Button, TextInput, Dialog, ...) for sveltui. |
+| 2026-10-29 23:07:40 | [pkiprocmacros](https://crates.io/crates/pkiprocmacros) | 0.1.2 | 0 | Procedural macros supporting the certval certification path validation library |
+| 2026-10-29 23:08:18 | [gstreamer-codecs-src](https://crates.io/crates/gstreamer-codecs-src) | 0.0.0 | 0 | Placeholder for the gstreamer-codecs-src source package; not yet functional |
+| 2026-10-29 23:08:19 | [gstreamer-ffmpeg-src](https://crates.io/crates/gstreamer-ffmpeg-src) | 0.0.0 | 0 | Placeholder for the gstreamer-ffmpeg-src source package; not yet functional |
+| 2026-10-29 23:08:19 | [gstreamer-native-src](https://crates.io/crates/gstreamer-native-src) | 0.0.0 | 0 | Placeholder for the gstreamer-native-src source package; not yet functional |
+| 2026-10-29 23:09:36 | [rp-unprobe](https://crates.io/crates/rp-unprobe) | 0.1.0 | 0 | Probe-less development for RP2040/RP2350: USB serial logging, panic capture and… |
+| 2026-10-29 23:10:24 | [unprobe-cli](https://crates.io/crates/unprobe-cli) | 0.1.0 | 0 | Host tool for rp-unprobe: flash RP2040/RP2350 over BOOTSEL without a button and… |
+| 2026-10-29 23:10:40 | [small-python-src](https://crates.io/crates/small-python-src) | 0.2.0 | 0 | The C sources of Small Python, and how to compile them, for build scripts |
+| 2026-10-29 23:10:43 | [small-python-sys](https://crates.io/crates/small-python-sys) | 0.2.0 | 0 | Raw bindings to Small Python, a small embeddable Python engine, compiled from s… |
+| 2026-10-29 23:10:44 | [small-python-worker](https://crates.io/crates/small-python-worker) | 0.2.0 | 0 | Run untrusted Python from Rust: Small Python in a sandboxed worker process |
+| 2026-10-29 23:10:46 | [small-python](https://crates.io/crates/small-python) | 0.2.0 | 0 | Embed Small Python, a small Python engine written in C11, in Rust |
+| 2026-10-29 23:15:15 | [zlink-names](https://crates.io/crates/zlink-names) | 0.8.0 | 0 | Varlink names and their validation |
+| 2026-10-29 23:17:57 | [rs-sqlite2cel2jsons](https://crates.io/crates/rs-sqlite2cel2jsons) | 0.1.0 | 0 | Convert SQLite rows to JSONs using CEL |
 
 ## Data source
 
