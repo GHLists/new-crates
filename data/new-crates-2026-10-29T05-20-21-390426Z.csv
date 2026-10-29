@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T04:19:49.61036Z,nftables-nl,0.1.0,0,0,https://github.com/spacescale/nftables-nl,a rust minimal library to interact with linux nftables
+2026-10-29T04:21:06.801778Z,sylphx-keel-visual,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Pixel comparison of two RGBA images within a noise budget: changed pixels, changed region, SSIM and a diff image, plus lit-shading parity of one scene across shading models"
+2026-10-29T04:28:23.271741Z,neemu,1.0.0,0,0,,Neemu MCP — media extraction for animation and voice (S1: registry + screen/tier gates + image lane)
+2026-10-29T04:29:23.2676Z,turbojet-replica,0.7.0,0,0,https://github.com/jrogers/turbojet,Replicated session state for Turbojet: a hot standby that takes over FIX sessions with no gap
+2026-10-29T04:31:07.573616Z,sylphx-keel-render,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Renderer-neutral scene data: Camera3d / Mesh3d / MeshBillboard3d scene components and their extract into a SceneFrame, cameras, meshes, materials and PBR, lights, shadows, sprites, tilemaps, sky, pos…"
+2026-10-29T04:35:08.530846Z,biternet-client,0.2.1,0,0,https://github.com/bitoolkit/biternet,A small srun client for BIT
+2026-10-29T04:36:22.316804Z,biternet,0.2.1,0,0,https://github.com/bitoolkit/biternet,A desktop client for the BIT SRUN gateway
+2026-10-29T04:41:09.456911Z,sylphx-keel-paint,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Paint display list: PaintOp, node effects, canvas point lights, the SoftwareCanvas CPU rasterizer, the text layout and pixel rules it shares with the GPU UI renderer, paint-list diffs, and standalone…"
+2026-10-29T04:51:09.958684Z,sylphx-keel-brush,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Natural-media brushes: pencils, charcoal, markers, spray, watercolor fills, hatching, flow fields, pigment mixing, film grain and texture overlays"
+2026-10-29T04:52:05.61559Z,irradiance,0.1.1,0,0,https://github.com/jysf/irradiance,"A permissively-licensed, pure-Rust library that reads camera RAW files and develops them into images."
+2026-10-29T05:01:07.610956Z,sylphx-keel-nav,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Navigation: navmesh bake, optimal any-angle and corridor queries, crowds, grid and graph pathfinding, multi-agent path finding, steering"
+2026-10-29T05:07:50.14243Z,ava1-gen,1.0.1,0,0,https://github.com/phantomptr/ava1,"Generates the AVA1 wire protocol's message codecs (Rust and C) from a schema, for the core and for application extensions"
+2026-10-29T05:08:10.675362Z,ava1,1.0.1,0,0,https://github.com/phantomptr/ava1,"AVA1: an encrypted, resumable, multi-lane file-transfer protocol (client and node), designed for sending files to a PlayStation 5, with a C implementation tested against it"
+2026-10-29T05:11:07.81334Z,sylphx-keel-scene,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Hierarchical scenes and prefabs: versioned keel.scene documents validated against a component registry, spawned into and saved from a World, with glTF files as prefabs, Animator playback on imported…"
+2026-10-29T05:15:21.844767Z,narwhalapi,0.2.0,0,0,https://github.com/narwhalapi/narwhalapi-rust,Typed clients for the Narwhal API with exact decimal values
+2026-10-29T05:18:31.350332Z,serkey,0.1.0,0,0,https://github.com/ypsitau/serkey,A simple keycode parser for handling UTF-8 and VT100 terminal ctrl sequences
