@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T02:21:10.052871Z,sylphx-keel-audio,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"AudioPort and the real-time AudioEngine: lock-free mixer, bus graph, effects, HRTF, streaming, granular voices, time-stretch and sfxr sound effects; WAV, Ogg Vorbis and Opus decoding, Ogg Opus encodi…"
+2026-10-29T02:21:35.824108Z,mgui-runtime,0.1.0,0,0,https://gitee.com/qianbai-studio/micagui,mgui 运行时:AppRunner、GPU/软件渲染后端、窗口/无障碍/异步任务集成
+2026-10-29T02:26:40.05773Z,repo-search-server,0.0.0,0,0,https://github.com/May-Agent/repo-search,Embedding server for repo-search
+2026-10-29T02:27:39.555483Z,secs-camilla,0.1.0,0,0,https://github.com/115dkk/Sound-Equalization-and-Correction-System-2R,"CamillaDSP v4 configuration and FIR coefficient writer, reading the engine's signal-chain value."
+2026-10-29T02:28:53.132149Z,laft-config,0.0.0,0,0,https://github.com/QaidVoid/laft,"The Laft system configuration: the Stav prelude, base part, std catalog and conversion. Placeholder release, under active development."
+2026-10-29T02:31:07.343996Z,sylphx-keel-input,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Input mapping from host events to the title's own action enum: ActionSystem<A> with contexts, players, deadzones and tap/hold triggers, the per-step InputState, Actions<A>, rebinding, keyboard shortc…"
+2026-10-29T02:31:35.729655Z,mgui-software,0.1.0,0,0,https://gitee.com/qianbai-studio/micagui,"CPU 软件光栅器:消费 PaintList/FramePaint,用于像素黄金测试与无 GPU 回退"
+2026-10-29T02:37:18.049964Z,montmul,0.1.0,0,0,https://github.com/ShayManor/MontMul,"Batched Montgomery modular multiplication for many odd moduli on CUDA GPUs and CPUs, through an M31 x M61 number-theoretic transform"
+2026-10-29T02:38:32.34749Z,secs-export,0.1.0,0,0,https://github.com/115dkk/Sound-Equalization-and-Correction-System-2R,REW .mdat exports for staged correction responses and measured before/after comparisons.
+2026-10-29T02:38:39.45559Z,secs-filters,0.1.0,0,0,https://github.com/115dkk/Sound-Equalization-and-Correction-System-2R,"Filter-value text and Equalizer APO configuration writers, reading the engine's signal-chain value."
+2026-10-29T02:39:00.733941Z,iced-m3-material-symbols,0.1.0-beta.6,0,0,https://github.com/tvolk131/iced-m3,Official offline Material Symbols asset bundle for iced-m3
+2026-10-29T02:40:35.41272Z,laft-build,0.0.0,0,0,https://github.com/QaidVoid/laft,"The Laft package builder: recipe evaluation, build planning and source fetching. Placeholder release, under active development."
+2026-10-29T02:41:07.4533Z,sylphx-keel-vector,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"2D vector graphics: paths, strokes, gradients, clips, view boxes, hit-testing, tessellation, CPU raster and SVG import"
+2026-10-29T02:41:50.945751Z,mgui-components,0.1.0,0,0,https://gitee.com/qianbai-studio/micagui,mgui 组件库:DataGrid/TreeView/Calendar/SplitPane 等组件与主题集成
+2026-10-29T02:48:30.225197Z,hydroplane-whatcompute,0.1.0,0,0,https://github.com/oh-yes-0-fps/hydroplane,"Identify the compute on a machine for hydroplane's tuning: CPU microarchitecture (Zen 5, Lion Cove, Firestorm, Neoverse V2, ...; no_std, dependency-free) and GPUs through Vulkan (architecture, shader…"
+2026-10-29T02:48:36.621534Z,hydroplane-solvers,0.1.0,0,0,https://github.com/oh-yes-0-fps/hydroplane,"Sparse and dense solvers tuned per device: nested-dissection ordering, supernodal Cholesky on the CPU, multifrontal Cholesky on Vulkan GPUs (rust-gpu kernels in f32, f64, and f64 emulated in f32 pair…"
+2026-10-29T02:49:57.085649Z,secs-project,0.1.0,0,0,https://github.com/115dkk/Sound-Equalization-and-Correction-System-2R,".secs project files, migrations, role vocabulary, measurement plans and the .irs store."
+2026-10-29T02:51:07.889168Z,sylphx-keel-icons,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Icon model, SVG path grammar, and the bundled Lucide and Phosphor icon sets"
+2026-10-29T02:51:36.819738Z,mgui-devtools,0.1.0,0,0,https://gitee.com/qianbai-studio/micagui,开发期 Inspector Overlay:Element/RO 树、layer/paint 统计、atlas/图片占用、帧耗时
+2026-10-29T02:54:17.47165Z,lumen-rig-core,0.2.0,0,0,,"Validating parser and deterministic motion evaluator for the lumen rig format (model and motion assets, format v1)."
+2026-10-29T02:54:27.994043Z,fathom-core,0.1.0,0,0,,"fathom core: config, error contracts, evidence model, policy engine, tool registry, confinement, bounded processes"
+2026-10-29T02:54:34.202843Z,pipedash-plugin-actions,0.6.0,0,0,https://github.com/hcavarsan/pipedash,Shared Actions workflow helpers for Pipedash plugins
+2026-10-29T02:54:40.079143Z,pipedash-plugin-komodo,0.6.0,0,0,https://github.com/hcavarsan/pipedash,Komodo plugin for Pipedash
+2026-10-29T02:54:46.597042Z,eigenstyle-core,0.1.0,0,0,,"Core library for the voice-profile MCP server: corpus store, stylometric fingerprint engine, deterministic draft checker"
+2026-10-29T02:54:57.167327Z,pipedash-plugin-azure-devops,0.6.0,0,0,https://github.com/hcavarsan/pipedash,Azure DevOps Pipelines plugin for Pipedash
+2026-10-29T02:54:59.751855Z,phlow-attention,0.1.0,0,0,,"Grounded joint-attention coordination for phlow agents: shared workspace saliency snapshots, focus advertisement, alignment and coordination decisions (MATE analog, arXiv:2610.06025)"
+2026-10-29T02:57:04.955368Z,cairnkit-core,0.1.0,0,0,,"Cairnkit common infrastructure: dependency injection container, Component trait, and core errors"
+2026-10-29T02:57:16.44294Z,cairnkit-jsonapi,0.1.0,0,0,,"Cairnkit common infrastructure: JSON:API 1.1 documents, resources, errors, pagination, and query parsing"
+2026-10-29T02:57:32.576956Z,cairnkit-migration,0.1.0,0,0,,Cairnkit shared Refinery migration runner for rusqlite services
+2026-10-29T02:57:45.83612Z,cairnkit-settings-fs,0.1.0,0,0,,Cairnkit common infrastructure: TOML settings repository adapter with mtime cache and atomic writes
+2026-10-29T03:01:06.799192Z,sylphx-keel-fx,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Visual effects: CPU particle simulation (emitters with constant, curve or random start values, rate, bursts and cycles, stepped or sampled at a time; modules, collisions and events), effect documents…"
+2026-10-29T03:01:39.216739Z,secs-service,0.1.0,0,0,https://github.com/115dkk/Sound-Equalization-and-Correction-System-2R,"The application service: project session, requests, jobs, stage cache and staleness, export assembly."
+2026-10-29T03:01:47.986956Z,mgui-shell-desktop,0.1.0,0,0,https://gitee.com/qianbai-studio/micagui,桌面 Shell host:winit 事件循环 + 窗口/GPU/AccessKit + 平台无关 Runner 门面
+2026-10-29T03:07:08.77594Z,phlow-compute,0.1.0,0,0,,"Tile-based compute abstractions for phlow: validated tile shapes, disjoint partitions, and launch-ownership discipline (concepts adapted from NVlabs cutile-rs)"
+2026-10-29T03:07:17.026589Z,phlow-compute-cuda,0.1.0,0,0,,"CUDA kernel-target model for phlow: validated PTX modules, kernel descriptors, launch configs, compile-time specialization policies, and a bounded CudaBackend trait with a deterministic CPU simulator…"
+2026-10-29T03:07:27.464702Z,phlow-config,0.1.0,0,0,,Validated operator configuration for the phlow agent runtime
+2026-10-29T03:09:41.576257Z,cairnkit-ipc,0.1.0,0,0,,Low-level IPC primitives for Cairnkit service-to-gateway data transport
+2026-10-29T03:10:17.283006Z,cairnkit-i18n,0.1.0,0,0,,"Cairnkit common infrastructure: locale, catalog, i18n engine, and JSON:API error localization"
+2026-10-29T03:11:06.698538Z,sylphx-keel-manifest,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Canonical keel.toml parser with typed, independently validated sections"
+2026-10-29T03:11:33.320712Z,mgui-shell-headless,0.1.0,0,0,https://gitee.com/qianbai-studio/micagui,无窗口 Shell:确定性时钟 + ElementTree 事件注入 + 软件光栅化快照
+2026-10-29T03:12:50.834337Z,active-rpc-kernel,0.1.0,0,0,https://github.com/Active-Official/active-rpc,"Kernel facade for active-rpc: agents, capabilities, events, promises and providers"
+2026-10-29T03:13:00.925854Z,sound-equalization-and-correction-system-rust-api,0.1.0,0,0,https://github.com/115dkk/Sound-Equalization-and-Correction-System-2R,The supported Rust API for embedding SECS 2R or controlling its authenticated local API.
+2026-10-29T03:13:07.162366Z,webhook-shield,0.1.0,0,0,https://github.com/shellrean/webhook-shield,Resilient async webhook dispatcher and HMAC-SHA256 verifier with replay protection and exponential backoff
+2026-10-29T03:13:38.82451Z,active-rpc-core,0.1.0,0,0,https://github.com/Active-Official/active-rpc,"Core capability, budget, value and wire types for active-rpc"
+2026-10-29T03:14:08.513528Z,active-rpc-client,0.1.0,0,0,https://github.com/Active-Official/active-rpc,"Client facade for active-rpc agents, calls and promises"
+2026-10-29T03:14:37.434974Z,active-rpc-tools,0.1.0,0,0,https://github.com/Active-Official/active-rpc,"Tool adapters for active-rpc: MCP, HTTP and sandboxed local processes"
+2026-10-29T03:15:16.401111Z,active-rpc-transport,0.1.0,0,0,https://github.com/Active-Official/active-rpc,"Transport facade for active-rpc: in-process, TCP, shared memory and QUIC"
+2026-10-29T03:16:44.251736Z,telar-icons-core,0.2.2,0,0,https://github.com/AdrielGBM/telar,"Iconify icon sets for Telar: icon ids, the Iconify JSON format, the icon sources the baker and the runtime both resolve through, and the licence policy over them."
+2026-10-29T03:16:45.409057Z,telar-wire-core,0.2.2,0,0,https://github.com/AdrielGBM/telar,The byte spelling of every value that crosses between a Telar host and a guest library built with its own allocator.
+2026-10-29T03:17:03.398838Z,telar-preferences-core,0.2.2,0,0,https://github.com/AdrielGBM/telar,"The user's system preferences as reactive state for Telar: colour scheme, reduced motion, contrast and preferred locales."
+2026-10-29T03:17:15.953057Z,telar-embed,0.2.2,0,0,https://github.com/AdrielGBM/telar,"Embedding a separately-compiled Telar UI inside a Telar application: the guest half an embedded app exports, and the loader a host drives it through."
