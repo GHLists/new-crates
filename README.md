@@ -8,56 +8,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 17:19 UTC
+## Latest list — 2026-10-29 18:19 UTC
 
-New crates published between 2026-10-29 16:21 UTC and 2026-10-29 17:19 UTC.
+New crates published between 2026-10-29 17:19 UTC and 2026-10-29 18:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-29T17-19-15-260146Z.csv)
+[Full CSV](data/new-crates-2026-10-29T18-19-25-93084Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-29 16:25:35 | [tok-bpmn](https://crates.io/crates/tok-bpmn) | 1.0.1 | 0 | BPMN 2.0 rules, automatic layout and SVG rendering used by tok |
-| 2026-10-29 16:25:36 | [tok-core](https://crates.io/crates/tok-core) | 1.0.1 | 0 | Parser, checker, canonical printer, BPMN 2.0 and DMN 1.5 export and import, and… |
-| 2026-10-29 16:25:36 | [tok-sim](https://crates.io/crates/tok-sim) | 1.0.1 | 0 | Discrete-event simulator of the tok process language |
-| 2026-10-29 16:25:38 | [tok-cli](https://crates.io/crates/tok-cli) | 1.0.1 | 0 | The tok command: check, format, export, import, simulate and evaluate process m… |
-| 2026-10-29 16:25:39 | [tok-lsp](https://crates.io/crates/tok-lsp) | 1.0.1 | 0 | Language server of the tok process language (LSP 3.17 over standard input and o… |
-| 2026-10-29 16:26:33 | [laputa-fastrand-contrib](https://crates.io/crates/laputa-fastrand-contrib) | 0.2.0 | 0 | Extension functionality for fastrand |
-| 2026-10-29 16:29:40 | [walrus-skate](https://crates.io/crates/walrus-skate) | 0.27.3 | 0 | A library for performing WebAssembly transformations |
-| 2026-10-29 16:31:40 | [riggurly](https://crates.io/crates/riggurly) | 0.1.0 | 0 | A small, terminal-based GameBoy emulator and emulator core |
-| 2026-10-29 16:32:44 | [ofdbox-algo](https://crates.io/crates/ofdbox-algo) | 0.1.0 | 0 | 国产密码算法与 OID 注册表 |
-| 2026-10-29 16:33:27 | [mockingbird-auth](https://crates.io/crates/mockingbird-auth) | 0.1.0 | 0 | Internal crate of Mockingbird (auth, roles and API keys), published for mocking… |
-| 2026-10-29 16:36:58 | [decen](https://crates.io/crates/decen) | 0.1.0 | 0 | A decoder and encoder (decen) framework for byte streams |
-| 2026-10-29 16:37:13 | [game_script](https://crates.io/crates/game_script) | 0.1.0 | 0 | Universal two-tier plugin-based Scheme scripting engine for game modding and lo… |
-| 2026-10-29 16:37:31 | [tok-mcp](https://crates.io/crates/tok-mcp) | 1.0.1 | 0 | MCP server of the tok process language: check, format, export, import, simulate… |
-| 2026-10-29 16:37:49 | [laputa-parking](https://crates.io/crates/laputa-parking) | 0.2.0 | 0 | Thread parking and unparking |
-| 2026-10-29 16:40:57 | [appkit-ui](https://crates.io/crates/appkit-ui) | 0.1.0 | 0 | A native macOS UI framework for Rust: real AppKit views (tables, outlines, text… |
-| 2026-10-29 16:43:14 | [tanghole-api](https://crates.io/crates/tanghole-api) | 0.2.0 | 0 | Lexicon-generated XRPC client for Tangled and AT Protocol APIs |
-| 2026-10-29 16:43:15 | [tanghole-config](https://crates.io/crates/tanghole-config) | 0.2.0 | 0 | Configuration and secure session management for tanghole, the th command for Ta… |
-| 2026-10-29 16:43:18 | [tanghole](https://crates.io/crates/tanghole) | 0.2.0 | 0 | th: a command-line client for Tangled, the AT Protocol git forge (the maintaine… |
-| 2026-10-29 16:44:04 | [mockingbird-admin](https://crates.io/crates/mockingbird-admin) | 0.1.0 | 0 | Internal crate of Mockingbird (the Admin API), published for mockingbird-cli; n… |
-| 2026-10-29 16:48:11 | [laputa-piper](https://crates.io/crates/laputa-piper) | 0.2.0 | 0 | An asynchronous single-consumer single-producer pipe for bytes. |
-| 2026-10-29 16:51:47 | [waavy](https://crates.io/crates/waavy) | 0.3.0 | 0 | Render React pages from Rust with the waavy renderer: HTTP client, one-shot mod… |
-| 2026-10-29 16:55:04 | [mockingbird-cli](https://crates.io/crates/mockingbird-cli) | 0.1.0 | 0 | LLM-backed API mocks from contracts: stateful, every protocol, a zero-edit HTTP… |
-| 2026-10-29 16:55:15 | [fin-metrics-rs](https://crates.io/crates/fin-metrics-rs) | 0.1.0 | 0 | Financial performance and drawdown metrics — total return, profit factor, Ulcer… |
-| 2026-10-29 16:58:27 | [laputa-polling](https://crates.io/crates/laputa-polling) | 0.2.0 | 0 | Portable interface to epoll, kqueue, event ports, and poll |
-| 2026-10-29 17:01:15 | [crabrix](https://crates.io/crates/crabrix) | 0.3.0 | 0 | Rust SDK and MCP launcher for encrypted temporary Crabrix Playgrounds. Shared p… |
-| 2026-10-29 17:01:41 | [tessaridb-oauth-client](https://crates.io/crates/tessaridb-oauth-client) | 0.1.0 | 0 | Validate TessariDB OAuth access tokens and sign users in through a TessariDB OA… |
-| 2026-10-29 17:03:52 | [meridian-asset-jpeg](https://crates.io/crates/meridian-asset-jpeg) | 0.1.0 | 0 | JPEG adapter for asset-domain: decodes JPEG bytes to RGBA8 on the zune-jpeg cra… |
-| 2026-10-29 17:03:59 | [meridian-asset-png](https://crates.io/crates/meridian-asset-png) | 0.1.0 | 0 | PNG adapter for asset-domain: decodes PNG bytes to RGBA8 on the png crate. |
-| 2026-10-29 17:04:08 | [meridian-asset-symphonia](https://crates.io/crates/meridian-asset-symphonia) | 0.1.0 | 0 | Compressed-audio adapter for asset-domain: MP3, OGG/Vorbis, FLAC and OGG/Opus d… |
-| 2026-10-29 17:04:18 | [meridian-diagnostics-fs](https://crates.io/crates/meridian-diagnostics-fs) | 0.1.0 | 0 | Diagnostics adapter: the buffered log-file sink (the LogSink port of meridian-d… |
-| 2026-10-29 17:04:22 | [meridian-markup](https://crates.io/crates/meridian-markup) | 0.1.0 | 0 | Generic tag/attribute/children text parser underlying the SDK's extensible scen… |
-| 2026-10-29 17:06:10 | [wechat-platform](https://crates.io/crates/wechat-platform) | 1.3.0 | 0 | Platform support for the agent-wechat protocol and profile libraries |
-| 2026-10-29 17:06:11 | [wechat-media](https://crates.io/crates/wechat-media) | 1.3.0 | 0 | Image inspection and decoding support for agent-wechat |
-| 2026-10-29 17:06:13 | [wechat-profile](https://crates.io/crates/wechat-profile) | 1.3.0 | 0 | Readers and checked writers for supported official WeChat profiles |
-| 2026-10-29 17:06:14 | [wechat-protocol](https://crates.io/crates/wechat-protocol) | 1.3.0 | 0 | Native WeChat transport, authentication and protocol codecs |
-| 2026-10-29 17:07:09 | [laputa-waker-fn](https://crates.io/crates/laputa-waker-fn) | 0.2.0 | 0 | Convert closures into wakers |
-| 2026-10-29 17:09:20 | [rust-tui-manager-agent](https://crates.io/crates/rust-tui-manager-agent) | 0.6.0 | 0 | tm-agent: vigila el tablero de comando rust-tui-manager y pone a trabajar a una… |
-| 2026-10-29 17:11:00 | [mnemoloom](https://crates.io/crates/mnemoloom) | 0.1.0 | 0 | Search, resume, trim and hand off Claude Code and Codex sessions; watch running… |
-| 2026-10-29 17:14:51 | [zerolith](https://crates.io/crates/zerolith) | 0.1.0-alpha.1 | 0 | The zerolith command line: a dev server for the buildless path, import map gene… |
-| 2026-10-29 17:18:58 | [meridian-markup-macros](https://crates.io/crates/meridian-markup-macros) | 0.1.0 | 0 | #[dsl_tag] attribute macro implementing meridian_markup::DslTag for a struct —… |
-| 2026-10-29 17:19:03 | [meridian-memory](https://crates.io/crates/meridian-memory) | 0.8.0 | 0 | Frame/persistent arenas, resource pools and generational handles; minimizes dyn… |
-| 2026-10-29 17:19:15 | [laputa-event-listener](https://crates.io/crates/laputa-event-listener) | 0.2.0 | 0 | Notify async tasks or threads |
+| 2026-10-29 17:22:18 | [scribblecap](https://crates.io/crates/scribblecap) | 0.0.1 | 0 | Cross-platform screenshot, image and PDF annotation tool (in early development) |
+| 2026-10-29 17:29:34 | [laputa-event-listener-strategy](https://crates.io/crates/laputa-event-listener-strategy) | 0.2.0 | 0 | Block or poll on event_listener easily |
+| 2026-10-29 17:30:17 | [meridian-numeric](https://crates.io/crates/meridian-numeric) | 0.8.0 | 0 | Scalar types, SIMD helpers, numeric traits and CPU feature dispatch underlying… |
+| 2026-10-29 17:32:38 | [aerarium](https://crates.io/crates/aerarium) | 0.0.0 | 0 | The Trident ecosystem database: pure Rust, embedded first, built for agents. Na… |
+| 2026-10-29 17:38:47 | [gmo-coin-api-client](https://crates.io/crates/gmo-coin-api-client) | 0.1.0 | 0 | GMOコインの暗号資産取引API (Public/Private REST と WebSocket) を呼び出す非同期クライアント |
+| 2026-10-29 17:39:47 | [ringline-quic-proto](https://crates.io/crates/ringline-quic-proto) | 0.1.0 | 0 | A fork of quinn-proto 0.11 maintained for ringline. |
+| 2026-10-29 17:39:54 | [laputa-futures-lite](https://crates.io/crates/laputa-futures-lite) | 0.2.0 | 0 | Futures, streams, and async I/O combinators |
+| 2026-10-29 17:49:59 | [ci-core](https://crates.io/crates/ci-core) | 0.3.0 | 0 | Core types, configuration hierarchy, and storage primitives for context-init |
+| 2026-10-29 17:50:18 | [ci-llm](https://crates.io/crates/ci-llm) | 0.3.0 | 0 | LLM provider abstractions, routing, and role-based execution for context-init |
+| 2026-10-29 17:50:24 | [laputa-async-broadcast](https://crates.io/crates/laputa-async-broadcast) | 0.2.0 | 0 | Async broadcast channels |
+| 2026-10-29 17:50:42 | [ci-mcp](https://crates.io/crates/ci-mcp) | 0.3.0 | 0 | Model Context Protocol (MCP) server and tool handlers for context-init |
+| 2026-10-29 17:52:04 | [residue-rs](https://crates.io/crates/residue-rs) | 0.1.0 | 0 | Exact integer arithmetic in a Residue Number System (CPU, SIMD-friendly). |
+| 2026-10-29 17:53:18 | [context-init](https://crates.io/crates/context-init) | 0.3.0 | 0 | CLI tool to initialize OpenViking hierarchical L0-L2 context for AI in any proj… |
+| 2026-10-29 17:54:03 | [bun-os-native](https://crates.io/crates/bun-os-native) | 1.4.7 | 0 | Host hardware topology (CPU, RAM, CUDA) and monotonic clock probes. |
+| 2026-10-29 17:56:49 | [bun-os-pkg](https://crates.io/crates/bun-os-pkg) | 1.4.7 | 0 | Package contracts and metadata parsers (npm, Cargo sparse, NuGet, vcpkg, PyPI),… |
+| 2026-10-29 17:57:26 | [rhaml-parser](https://crates.io/crates/rhaml-parser) | 1.0.0 | 0 | Parser for HAML-style templates with embedded Rust |
+| 2026-10-29 17:57:27 | [rhaml-macros](https://crates.io/crates/rhaml-macros) | 1.0.0 | 0 | Proc macros for haml |
+| 2026-10-29 17:57:29 | [rhaml](https://crates.io/crates/rhaml) | 1.0.0 | 0 | HAML-style templates with embedded Rust, compiled at build time |
+| 2026-10-29 17:58:36 | [iris-market-core](https://crates.io/crates/iris-market-core) | 0.1.0 | 0 | Marketplace listings, profiles, private messaging and orders for Iris Market |
+| 2026-10-29 18:00:19 | [iris-market](https://crates.io/crates/iris-market) | 0.1.0 | 0 | Iris Market command-line client and MCP server |
+| 2026-10-29 18:02:22 | [bboxy450-tlc](https://crates.io/crates/bboxy450-tlc) | 0.1.1 | 0 | Experimental pure Rust finite-state model checker with independent TLA+/TLC dif… |
+| 2026-10-29 18:03:42 | [weave-compiler](https://crates.io/crates/weave-compiler) | 0.1.0-rc.3 | 0 | Compiler library for the Weave stylesheet language |
+| 2026-10-29 18:04:05 | [bun-os-git](https://crates.io/crates/bun-os-git) | 1.4.7 | 0 | Native Git (gix) and GitHub (octocrab) integration: repository inspection, hist… |
+| 2026-10-29 18:04:07 | [weave-css](https://crates.io/crates/weave-css) | 0.1.0-rc.3 | 0 | The weavec command: compiles Weave stylesheets (.weave) to standard CSS |
+| 2026-10-29 18:04:37 | [laputa-async-channel](https://crates.io/crates/laputa-async-channel) | 0.2.0 | 0 | Async multi-producer multi-consumer channel |
+| 2026-10-29 18:05:48 | [crawlora-tiktok-mobile](https://crates.io/crates/crawlora-tiktok-mobile) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted TikTok Mobile API. Requires a Crawlora… |
+| 2026-10-29 18:06:04 | [laputa-async-executor](https://crates.io/crates/laputa-async-executor) | 0.2.0 | 0 | Async executor |
+| 2026-10-29 18:06:35 | [crawlora-xiaohongshu](https://crates.io/crates/crawlora-xiaohongshu) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted Xiaohongshu API. Requires a Crawlora AP… |
+| 2026-10-29 18:07:02 | [crawlora-rednote](https://crates.io/crates/crawlora-rednote) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted RedNote API. Requires a Crawlora API ke… |
+| 2026-10-29 18:07:34 | [crawlora-kick](https://crates.io/crates/crawlora-kick) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted Kick API. Requires a Crawlora API key. |
+| 2026-10-29 18:08:08 | [crawlora-wattpad](https://crates.io/crates/crawlora-wattpad) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted Wattpad API. Requires a Crawlora API ke… |
+| 2026-10-29 18:08:31 | [crawlora-reelshort](https://crates.io/crates/crawlora-reelshort) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted ReelShort API. Requires a Crawlora API… |
+| 2026-10-29 18:12:12 | [seam-rs-smol](https://crates.io/crates/seam-rs-smol) | 0.6.0 | 0 | smol backend for seam: async implementations of seam operations over smol. |
+| 2026-10-29 18:12:17 | [seam-rs-dirs](https://crates.io/crates/seam-rs-dirs) | 0.6.0 | 0 | Platform directories for seam: home, config, cache and data dirs (as the dirs a… |
+| 2026-10-29 18:12:18 | [seam-rs-futures](https://crates.io/crates/seam-rs-futures) | 0.6.0 | 0 | futures-rs backend for seam: channels, shared cells and tasks on any executor,… |
+| 2026-10-29 18:12:19 | [seam-rs-jiff](https://crates.io/crates/seam-rs-jiff) | 0.6.0 | 0 | jiff for seam: time zones as effects, read through the root's filesystem, so te… |
+| 2026-10-29 18:12:19 | [seam-rs-notify](https://crates.io/crates/seam-rs-notify) | 0.6.0 | 0 | File watching for seam: a watch scope that yields change events, from the OS (n… |
+| 2026-10-29 18:15:55 | [seam-rs-unix](https://crates.io/crates/seam-rs-unix) | 0.6.0 | 0 | Unix effects for seam: mounts, permissions, ownership, symlinks, user IDs, sign… |
+| 2026-10-29 18:16:48 | [laputa-async-io](https://crates.io/crates/laputa-async-io) | 0.2.0 | 0 | Async I/O and timers |
+| 2026-10-29 18:19:07 | [agave-block-production-scheduler](https://crates.io/crates/agave-block-production-scheduler) | 0.0.1-reserved | 0 | reserved for future use |
 
 ## Data source
 

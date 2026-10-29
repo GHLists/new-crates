@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T17:22:18.344325Z,scribblecap,0.0.1,0,0,https://github.com/ScribbleCap/scribblecap,"Cross-platform screenshot, image and PDF annotation tool (in early development)"
+2026-10-29T17:29:34.638976Z,laputa-event-listener-strategy,0.2.0,0,0,https://github.com/laputa-systems/smolith,Block or poll on event_listener easily
+2026-10-29T17:30:17.16486Z,meridian-numeric,0.8.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Scalar types, SIMD helpers, numeric traits and CPU feature dispatch underlying the GAC — kept separate so gac stays pure geometric algebra."
+2026-10-29T17:32:38.85693Z,aerarium,0.0.0,0,0,https://github.com/IdoBarNir/aerarium,"The Trident ecosystem database: pure Rust, embedded first, built for agents. Name reservation; the engine is in development."
+2026-10-29T17:38:47.897231Z,gmo-coin-api-client,0.1.0,0,0,https://github.com/j5ik2o/gmo-coin-api-client,GMOコインの暗号資産取引API (Public/Private REST と WebSocket) を呼び出す非同期クライアント
+2026-10-29T17:39:47.099293Z,ringline-quic-proto,0.1.0,0,0,https://github.com/ringline-rs/quinn,A fork of quinn-proto 0.11 maintained for ringline.
+2026-10-29T17:39:54.326615Z,laputa-futures-lite,0.2.0,0,0,https://github.com/laputa-systems/smolith,"Futures, streams, and async I/O combinators"
+2026-10-29T17:49:59.310967Z,ci-core,0.3.0,0,0,https://github.com/gidragir/context-init,"Core types, configuration hierarchy, and storage primitives for context-init"
+2026-10-29T17:50:18.844381Z,ci-llm,0.3.0,0,0,https://github.com/gidragir/context-init,"LLM provider abstractions, routing, and role-based execution for context-init"
+2026-10-29T17:50:24.10048Z,laputa-async-broadcast,0.2.0,0,0,https://github.com/laputa-systems/smolith,Async broadcast channels
+2026-10-29T17:50:42.497527Z,ci-mcp,0.3.0,0,0,https://github.com/gidragir/context-init,Model Context Protocol (MCP) server and tool handlers for context-init
+2026-10-29T17:52:04.511549Z,residue-rs,0.1.0,0,0,https://github.com/supportlibrariesp4droid/residue-rs,"Exact integer arithmetic in a Residue Number System (CPU, SIMD-friendly)."
+2026-10-29T17:53:18.454477Z,context-init,0.3.0,0,0,https://github.com/gidragir/context-init,CLI tool to initialize OpenViking hierarchical L0-L2 context for AI in any project
+2026-10-29T17:54:03.484594Z,bun-os-native,1.4.7,0,0,https://github.com/aphrody-labs/bun-os,"Host hardware topology (CPU, RAM, CUDA) and monotonic clock probes."
+2026-10-29T17:56:49.634762Z,bun-os-pkg,1.4.7,0,0,https://github.com/aphrody-labs/bun-os,"Package contracts and metadata parsers (npm, Cargo sparse, NuGet, vcpkg, PyPI), verified blob store, bounded HTTP ingestion and the store command line"
+2026-10-29T17:57:26.577499Z,rhaml-parser,1.0.0,0,0,https://github.com/nixautomatix/rhaml,Parser for HAML-style templates with embedded Rust
+2026-10-29T17:57:27.657966Z,rhaml-macros,1.0.0,0,0,https://github.com/nixautomatix/rhaml,Proc macros for haml
+2026-10-29T17:57:29.510887Z,rhaml,1.0.0,0,0,https://github.com/nixautomatix/rhaml,"HAML-style templates with embedded Rust, compiled at build time"
+2026-10-29T17:58:36.899357Z,iris-market-core,0.1.0,0,0,https://github.com/irislib/iris-market,"Marketplace listings, profiles, private messaging and orders for Iris Market"
+2026-10-29T18:00:19.402324Z,iris-market,0.1.0,0,0,https://github.com/irislib/iris-market,Iris Market command-line client and MCP server
+2026-10-29T18:02:22.862694Z,bboxy450-tlc,0.1.1,0,0,https://github.com/bboxy450/bboxy450-tlc,Experimental pure Rust finite-state model checker with independent TLA+/TLC differential verification
+2026-10-29T18:03:42.734906Z,weave-compiler,0.1.0-rc.3,0,0,https://github.com/ahmadmirzamasood/weave-css,Compiler library for the Weave stylesheet language
+2026-10-29T18:04:05.859114Z,bun-os-git,1.4.7,0,0,https://github.com/aphrody-labs/bun-os,"Native Git (gix) and GitHub (octocrab) integration: repository inspection, history, ingest, search and upstream tracking."
+2026-10-29T18:04:07.288708Z,weave-css,0.1.0-rc.3,0,0,https://github.com/ahmadmirzamasood/weave-css,The weavec command: compiles Weave stylesheets (.weave) to standard CSS
+2026-10-29T18:04:37.681688Z,laputa-async-channel,0.2.0,0,0,https://github.com/laputa-systems/smolith,Async multi-producer multi-consumer channel
+2026-10-29T18:05:48.403375Z,crawlora-tiktok-mobile,0.1.0,0,0,https://github.com/Crawlora-org/crawlora-tiktok-mobile,Typed Rust client for Crawlora's hosted TikTok Mobile API. Requires a Crawlora API key.
+2026-10-29T18:06:04.500465Z,laputa-async-executor,0.2.0,0,0,https://github.com/laputa-systems/smolith,Async executor
+2026-10-29T18:06:35.780835Z,crawlora-xiaohongshu,0.1.0,0,0,https://github.com/Crawlora-org/crawlora-xiaohongshu,Typed Rust client for Crawlora's hosted Xiaohongshu API. Requires a Crawlora API key.
+2026-10-29T18:07:02.834233Z,crawlora-rednote,0.1.0,0,0,https://github.com/Crawlora-org/crawlora-rednote,Typed Rust client for Crawlora's hosted RedNote API. Requires a Crawlora API key.
+2026-10-29T18:07:34.705853Z,crawlora-kick,0.1.0,0,0,https://github.com/Crawlora-org/crawlora-kick,Typed Rust client for Crawlora's hosted Kick API. Requires a Crawlora API key.
+2026-10-29T18:08:08.146547Z,crawlora-wattpad,0.1.0,0,0,https://github.com/Crawlora-org/crawlora-wattpad,Typed Rust client for Crawlora's hosted Wattpad API. Requires a Crawlora API key.
+2026-10-29T18:08:31.409077Z,crawlora-reelshort,0.1.0,0,0,https://github.com/Crawlora-org/crawlora-reelshort,Typed Rust client for Crawlora's hosted ReelShort API. Requires a Crawlora API key.
+2026-10-29T18:12:12.527016Z,seam-rs-smol,0.6.0,0,0,https://github.com/parzivale/seam,smol backend for seam: async implementations of seam operations over smol.
+2026-10-29T18:12:17.857004Z,seam-rs-dirs,0.6.0,0,0,https://github.com/parzivale/seam,"Platform directories for seam: home, config, cache and data dirs (as the dirs and directories crates find them), read from seam's environment."
+2026-10-29T18:12:18.392459Z,seam-rs-futures,0.6.0,0,0,https://github.com/parzivale/seam,"futures-rs backend for seam: channels, shared cells and tasks on any executor, futures-io and Stream adapters, and concurrent async helpers."
+2026-10-29T18:12:19.062833Z,seam-rs-jiff,0.6.0,0,0,https://github.com/parzivale/seam,"jiff for seam: time zones as effects, read through the root's filesystem, so tests control them."
+2026-10-29T18:12:19.7108Z,seam-rs-notify,0.6.0,0,0,https://github.com/parzivale/seam,"File watching for seam: a watch scope that yields change events, from the OS (notify) or by rescanning through seam's filesystem."
+2026-10-29T18:15:55.391796Z,seam-rs-unix,0.6.0,0,0,https://github.com/parzivale/seam,"Unix effects for seam: mounts, permissions, ownership, symlinks, user IDs, signals and the hostname, with a simulated handler for tests."
+2026-10-29T18:16:48.359803Z,laputa-async-io,0.2.0,0,0,https://github.com/laputa-systems/smolith,Async I/O and timers
+2026-10-29T18:19:07.701241Z,agave-block-production-scheduler,0.0.1-reserved,0,0,https://github.com/anza-xyz/agave,reserved for future use
