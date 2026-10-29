@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T00:23:13.455237Z,xgpui-platform,1.0.0,0,0,https://github.com/gpui-luma-dev/xgpui,Native and browser platform selection for xgpui
+2026-10-29T00:33:00.91238Z,tauri-plugin-sign-in,0.1.0-alpha.1,0,0,https://github.com/hoangmirs/tauri-plugins,"Tauri plugin that signs a player in with Google or Apple through the phone's own sheet, and answers the id token"
+2026-10-29T00:34:49.72664Z,near-kit-primitives,0.20.1,0,0,https://github.com/r-near/near-kit-rs,"NEAR Protocol types, keys, signing, and transaction building for near-kit, without an RPC client"
+2026-10-29T00:38:32.996897Z,cryptkeeper,0.2.0,0,0,https://gitlab.com/safteinzz/cryptkeeper,"encryption without the fuss - lock and unlock gocryptfs folders, LUKS drives and age files in one place"
+2026-10-29T00:41:48.799466Z,theodolite,0.2.0,0,0,,"Headless, deterministic LSP bridge MCP server: pinned language-server sessions exposed as bounded read tools for editor-free contexts."
+2026-10-29T00:42:00.571209Z,phaedrus,0.3.0,0,0,,"Research-feed MCP server: literature-watch findings, watchlist, and revenue-candidate drafts."
+2026-10-29T00:42:28.695376Z,pratique,0.2.0,0,0,,Enforcement-gate MCP: a pure decide() core over lane-separated rule packs.
+2026-10-29T00:43:03.835747Z,seahawk,0.2.0,0,0,https://github.com/qompassai/seahawk,"Seahawk — the estate's authenticated broker for Unreal Engine's built-in MCP server (Epic's ModelContextProtocol plugin in UE 5.8): token-authenticated, class-curated, execute-class default-deny, app…"
+2026-10-29T00:43:31.147077Z,diver-mcp-server,0.1.0,0,0,,"Diver's MCP server as a Rust rmcp sidecar: the seven-tool workspace surface (read_file, list_files, search_text, get_diagnostics, write_file, edit_file, run_command) behind the fail-closed policy gat…"
+2026-10-29T00:43:32.061779Z,ggg,0.1.0,0,0,https://github.com/ccc-claude/ggg,"Run any shell command through ggg, e.g. `ggg ls -all` is the same as `ls -all`"
+2026-10-29T00:44:55.869365Z,fbx-rs,0.1.0,0,0,https://github.com/Tavrin/fbx-rs,"Pure-Rust loader for static FBX 7.x scenes, verified against ufbx"
+2026-10-29T00:49:19.233608Z,lumen-factory,0.1.0,0,0,,"Code-first character factory for lumen: one identity record emitted deterministically as 2D and 3D across media formats (Phase 1a: skeleton, base mesh, GLB writer)"
+2026-10-29T00:50:42.417682Z,stav-cli,0.1.0,0,0,https://github.com/QaidVoid/stav,"The stav command: format, check and evaluate Stav programs"
+2026-10-29T00:52:08.650998Z,achievehaus-sdk,0.0.0,0,0,https://github.com/achievehaus/plugin-kit,Reserved for the Achievehaus plugin SDK. The SDK arrives with its first release; do not depend on this version.
+2026-10-29T01:00:06.856957Z,sylphx-keel-debug,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Immediate-mode debug drawing: lines, boxes, spheres, circles, arrows and world-space text, collected per frame and compiled out of release builds"
+2026-10-29T01:00:09.452976Z,sylphx-keel-macro-support,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,Shared path resolution for the Keel procedural macros: which crate an expansion reaches its runtime through
+2026-10-29T01:00:11.833795Z,sylphx-keel-ecs-macros,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Procedural macros for keel-ecs: #[derive(Fragment)], #[derive(SystemSet)] and #[derive(Observe)]"
+2026-10-29T01:00:14.609854Z,sylphx-keel-hotpatch,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Hot-patch runtime for keel dev: the jump table, cached calls through it and loading a patch library into a running title (a port of subsecond's runtime)"
+2026-10-29T01:00:17.397879Z,sylphx-keel-tasks,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Engine task execution: shared browser compute workers with automatic serial build selection, the native IO pool, cancel tokens, caught panics, the UI-thread marker and the host wake"
+2026-10-29T01:00:45.33585Z,rbun-macros,0.1.0,0,0,https://github.com/KeyChord/rbun,#[rbun::class] / #[rbun::methods] — rquickjs-style class macros for rbun
+2026-10-29T01:01:08.530668Z,sylphx-keel-ecs,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Table and sparse-set ECS in safe Rust: generational entities, Fragments, typed queries with per-chunk change detection and slice iteration, Relations, Resources, budgeted cooperative Jobs, events, ob…"
+2026-10-29T01:01:18.072721Z,rbun,0.1.0,0,0,https://github.com/KeyChord/rbun,"Embed Bun's JavaScript runtime (JavaScriptCore + Bun's event loop and module loader) in Rust, with an rquickjs-compatible API"
+2026-10-29T01:04:55.06138Z,laft-core,0.0.0,0,0,https://github.com/QaidVoid/laft,"Identifiers and formats shared by every Laft component. Placeholder release, under active development."
+2026-10-29T01:05:00.339248Z,laft-pkg,0.0.0,0,0,https://github.com/QaidVoid/laft,"Reading and writing Laft package files and payload manifests. Placeholder release, under active development."
+2026-10-29T01:05:05.039311Z,laft-elf,0.0.0,0,0,https://github.com/QaidVoid/laft,"ELF inspection for deriving Laft package dependencies and ABI digests. Placeholder release, under active development."
+2026-10-29T01:05:09.692789Z,laft-store,0.0.0,0,0,https://github.com/QaidVoid/laft,"The Laft package store, views, generations and transactions. Placeholder release, under active development."
+2026-10-29T01:05:13.34791Z,laft-index,0.0.0,0,0,https://github.com/QaidVoid/laft,"Signed Laft repository indexes and the client trust model. Placeholder release, under active development."
+2026-10-29T01:09:36.309396Z,qualia-minigames-core,0.1.0,0,0,https://github.com/QualiaMinigames/QualiaMinigames-Core,The core Rust lib of QualiaMinigames: game rules and state transitions shared by every front end
+2026-10-29T01:11:07.27827Z,sylphx-keel-identity,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Canonical identity codec: CanonicalFrameV1 frames hashed with BLAKE3 into Id64, Id128 and Id256, plus SchemaId, SourceId, KeyDigest, StableKey and the TypeID text form of an entity id"
+2026-10-29T01:13:46.758481Z,pdfcraft-pdf,0.1.0,0,0,https://github.com/JiayiLuoJarvis/pdfcraft,"Lay out DocumentSpec values (flow, bands, layers) and emit vector PDF via a sealed krilla backend"
+2026-10-29T01:13:57.57981Z,pdfcraft-forms,0.1.0,0,0,https://github.com/JiayiLuoJarvis/pdfcraft,Fill AcroForm fields in an existing PDF and flatten the result
+2026-10-29T01:14:07.470204Z,pdfcraft-orgchart,0.1.0,0,0,https://github.com/JiayiLuoJarvis/pdfcraft,Equity and outbound-investment charts. Callers pass FontBytes. Measurement uses skrifa; drawing uses krilla.
+2026-10-29T01:14:15.678128Z,pdfcraft-post,0.1.0,0,0,https://github.com/JiayiLuoJarvis/pdfcraft,"Post-process existing PDF bytes: metadata, encrypt, merge, and pipelines"
+2026-10-29T01:15:25.535397Z,xgpui-color,0.2.0,0,0,https://github.com/gpui-luma-dev/xgpui,"Color science extension for xgpui with standalone CPU conversions, gamut mapping, gradients, and WGSL math"
+2026-10-29T01:15:34.44509Z,xgpui-shader,0.2.0,0,0,https://github.com/gpui-luma-dev/xgpui,"Shader and paint extension for xgpui with gradients, brushes, and portable WGSL shaders"
+2026-10-29T01:15:39.550029Z,laft-resolve,0.0.0,0,0,https://github.com/QaidVoid/laft,"Dependency resolution of Laft views from repository indexes. Placeholder release, under active development."
+2026-10-29T01:15:40.373557Z,xgpui-svg,0.2.0,0,0,https://github.com/gpui-luma-dev/xgpui,Experimental SVG extension for xgpui with progressive elements and shared raster scheduling
+2026-10-29T01:15:46.9201Z,xgpui-parley,0.2.0,0,0,https://github.com/gpui-luma-dev/xgpui,Experimental text extension for xgpui with Parley and HarfRust shaping and rasterization
+2026-10-29T01:16:25.24062Z,xgpui-gamut,0.2.0,0,0,https://github.com/gpui-luma-dev/xgpui,Wide-gamut color extension for xgpui with opt-in linear Display P3 SDR content producers
+2026-10-29T01:16:44.311538Z,navmesh-rs,0.1.0,0,0,https://github.com/Tavrin/navmesh-rs,"Pure-Rust port of recastnavigation's Recast (navmesh generation) and Detour (navmesh queries), bit-exact with upstream"
+2026-10-29T01:18:37.515294Z,qualia-minigames-ffi,0.1.0,0,0,https://github.com/QualiaMinigames/QualiaMinigames-FFI,"UniFFI bindings for the QualiaMinigames core library, so every front end can call the same rules"
