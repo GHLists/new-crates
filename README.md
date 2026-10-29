@@ -8,65 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 03:20 UTC
+## Latest list — 2026-10-29 04:19 UTC
 
-New crates published between 2026-10-29 02:18 UTC and 2026-10-29 03:20 UTC.
+New crates published between 2026-10-29 03:20 UTC and 2026-10-29 04:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-29T03-20-23-561686Z.csv)
+[Full CSV](data/new-crates-2026-10-29T04-19-01-989137Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-29 02:21:10 | [sylphx-keel-audio](https://crates.io/crates/sylphx-keel-audio) | 0.1.5880 | 0 | AudioPort and the real-time AudioEngine: lock-free mixer, bus graph, effects, H… |
-| 2026-10-29 02:21:35 | [mgui-runtime](https://crates.io/crates/mgui-runtime) | 0.1.0 | 0 | mgui 运行时:AppRunner、GPU/软件渲染后端、窗口/无障碍/异步任务集成 |
-| 2026-10-29 02:26:40 | [repo-search-server](https://crates.io/crates/repo-search-server) | 0.0.0 | 0 | Embedding server for repo-search |
-| 2026-10-29 02:27:39 | [secs-camilla](https://crates.io/crates/secs-camilla) | 0.1.0 | 0 | CamillaDSP v4 configuration and FIR coefficient writer, reading the engine's si… |
-| 2026-10-29 02:28:53 | [laft-config](https://crates.io/crates/laft-config) | 0.0.0 | 0 | The Laft system configuration: the Stav prelude, base part, std catalog and con… |
-| 2026-10-29 02:31:07 | [sylphx-keel-input](https://crates.io/crates/sylphx-keel-input) | 0.1.5880 | 0 | Input mapping from host events to the title's own action enum: ActionSystem<A>… |
-| 2026-10-29 02:31:35 | [mgui-software](https://crates.io/crates/mgui-software) | 0.1.0 | 0 | CPU 软件光栅器:消费 PaintList/FramePaint,用于像素黄金测试与无 GPU 回退 |
-| 2026-10-29 02:37:18 | [montmul](https://crates.io/crates/montmul) | 0.1.0 | 0 | Batched Montgomery modular multiplication for many odd moduli on CUDA GPUs and… |
-| 2026-10-29 02:38:32 | [secs-export](https://crates.io/crates/secs-export) | 0.1.0 | 0 | REW .mdat exports for staged correction responses and measured before/after com… |
-| 2026-10-29 02:38:39 | [secs-filters](https://crates.io/crates/secs-filters) | 0.1.0 | 0 | Filter-value text and Equalizer APO configuration writers, reading the engine's… |
-| 2026-10-29 02:39:00 | [iced-m3-material-symbols](https://crates.io/crates/iced-m3-material-symbols) | 0.1.0-beta.6 | 0 | Official offline Material Symbols asset bundle for iced-m3 |
-| 2026-10-29 02:40:35 | [laft-build](https://crates.io/crates/laft-build) | 0.0.0 | 0 | The Laft package builder: recipe evaluation, build planning and source fetching… |
-| 2026-10-29 02:41:07 | [sylphx-keel-vector](https://crates.io/crates/sylphx-keel-vector) | 0.1.5880 | 0 | 2D vector graphics: paths, strokes, gradients, clips, view boxes, hit-testing,… |
-| 2026-10-29 02:41:50 | [mgui-components](https://crates.io/crates/mgui-components) | 0.1.0 | 0 | mgui 组件库:DataGrid/TreeView/Calendar/SplitPane 等组件与主题集成 |
-| 2026-10-29 02:48:30 | [hydroplane-whatcompute](https://crates.io/crates/hydroplane-whatcompute) | 0.1.0 | 0 | Identify the compute on a machine for hydroplane's tuning: CPU microarchitectur… |
-| 2026-10-29 02:48:36 | [hydroplane-solvers](https://crates.io/crates/hydroplane-solvers) | 0.1.0 | 0 | Sparse and dense solvers tuned per device: nested-dissection ordering, supernod… |
-| 2026-10-29 02:49:57 | [secs-project](https://crates.io/crates/secs-project) | 0.1.0 | 0 | .secs project files, migrations, role vocabulary, measurement plans and the .ir… |
-| 2026-10-29 02:51:07 | [sylphx-keel-icons](https://crates.io/crates/sylphx-keel-icons) | 0.1.5880 | 0 | Icon model, SVG path grammar, and the bundled Lucide and Phosphor icon sets |
-| 2026-10-29 02:51:36 | [mgui-devtools](https://crates.io/crates/mgui-devtools) | 0.1.0 | 0 | 开发期 Inspector Overlay:Element/RO 树、layer/paint 统计、atlas/图片占用、帧耗时 |
-| 2026-10-29 02:54:17 | [lumen-rig-core](https://crates.io/crates/lumen-rig-core) | 0.2.0 | 0 | Validating parser and deterministic motion evaluator for the lumen rig format (… |
-| 2026-10-29 02:54:27 | [fathom-core](https://crates.io/crates/fathom-core) | 0.1.0 | 0 | fathom core: config, error contracts, evidence model, policy engine, tool regis… |
-| 2026-10-29 02:54:34 | [pipedash-plugin-actions](https://crates.io/crates/pipedash-plugin-actions) | 0.6.0 | 0 | Shared Actions workflow helpers for Pipedash plugins |
-| 2026-10-29 02:54:40 | [pipedash-plugin-komodo](https://crates.io/crates/pipedash-plugin-komodo) | 0.6.0 | 0 | Komodo plugin for Pipedash |
-| 2026-10-29 02:54:46 | [eigenstyle-core](https://crates.io/crates/eigenstyle-core) | 0.1.0 | 0 | Core library for the voice-profile MCP server: corpus store, stylometric finger… |
-| 2026-10-29 02:54:57 | [pipedash-plugin-azure-devops](https://crates.io/crates/pipedash-plugin-azure-devops) | 0.6.0 | 0 | Azure DevOps Pipelines plugin for Pipedash |
-| 2026-10-29 02:54:59 | [phlow-attention](https://crates.io/crates/phlow-attention) | 0.1.0 | 0 | Grounded joint-attention coordination for phlow agents: shared workspace salien… |
-| 2026-10-29 02:57:04 | [cairnkit-core](https://crates.io/crates/cairnkit-core) | 0.1.0 | 0 | Cairnkit common infrastructure: dependency injection container, Component trait… |
-| 2026-10-29 02:57:16 | [cairnkit-jsonapi](https://crates.io/crates/cairnkit-jsonapi) | 0.1.0 | 0 | Cairnkit common infrastructure: JSON:API 1.1 documents, resources, errors, pagi… |
-| 2026-10-29 02:57:32 | [cairnkit-migration](https://crates.io/crates/cairnkit-migration) | 0.1.0 | 0 | Cairnkit shared Refinery migration runner for rusqlite services |
-| 2026-10-29 02:57:45 | [cairnkit-settings-fs](https://crates.io/crates/cairnkit-settings-fs) | 0.1.0 | 0 | Cairnkit common infrastructure: TOML settings repository adapter with mtime cac… |
-| 2026-10-29 03:01:06 | [sylphx-keel-fx](https://crates.io/crates/sylphx-keel-fx) | 0.1.5880 | 0 | Visual effects: CPU particle simulation (emitters with constant, curve or rando… |
-| 2026-10-29 03:01:39 | [secs-service](https://crates.io/crates/secs-service) | 0.1.0 | 0 | The application service: project session, requests, jobs, stage cache and stale… |
-| 2026-10-29 03:01:47 | [mgui-shell-desktop](https://crates.io/crates/mgui-shell-desktop) | 0.1.0 | 0 | 桌面 Shell host:winit 事件循环 + 窗口/GPU/AccessKit + 平台无关 Runner 门面 |
-| 2026-10-29 03:07:08 | [phlow-compute](https://crates.io/crates/phlow-compute) | 0.1.0 | 0 | Tile-based compute abstractions for phlow: validated tile shapes, disjoint part… |
-| 2026-10-29 03:07:17 | [phlow-compute-cuda](https://crates.io/crates/phlow-compute-cuda) | 0.1.0 | 0 | CUDA kernel-target model for phlow: validated PTX modules, kernel descriptors,… |
-| 2026-10-29 03:07:27 | [phlow-config](https://crates.io/crates/phlow-config) | 0.1.0 | 0 | Validated operator configuration for the phlow agent runtime |
-| 2026-10-29 03:09:41 | [cairnkit-ipc](https://crates.io/crates/cairnkit-ipc) | 0.1.0 | 0 | Low-level IPC primitives for Cairnkit service-to-gateway data transport |
-| 2026-10-29 03:10:17 | [cairnkit-i18n](https://crates.io/crates/cairnkit-i18n) | 0.1.0 | 0 | Cairnkit common infrastructure: locale, catalog, i18n engine, and JSON:API erro… |
-| 2026-10-29 03:11:06 | [sylphx-keel-manifest](https://crates.io/crates/sylphx-keel-manifest) | 0.1.5880 | 0 | Canonical keel.toml parser with typed, independently validated sections |
-| 2026-10-29 03:11:33 | [mgui-shell-headless](https://crates.io/crates/mgui-shell-headless) | 0.1.0 | 0 | 无窗口 Shell:确定性时钟 + ElementTree 事件注入 + 软件光栅化快照 |
-| 2026-10-29 03:12:50 | [active-rpc-kernel](https://crates.io/crates/active-rpc-kernel) | 0.1.0 | 0 | Kernel facade for active-rpc: agents, capabilities, events, promises and provid… |
-| 2026-10-29 03:13:00 | [sound-equalization-and-correction-system-rust-api](https://crates.io/crates/sound-equalization-and-correction-system-rust-api) | 0.1.0 | 0 | The supported Rust API for embedding SECS 2R or controlling its authenticated l… |
-| 2026-10-29 03:13:07 | [webhook-shield](https://crates.io/crates/webhook-shield) | 0.1.0 | 0 | Resilient async webhook dispatcher and HMAC-SHA256 verifier with replay protect… |
-| 2026-10-29 03:13:38 | [active-rpc-core](https://crates.io/crates/active-rpc-core) | 0.1.0 | 0 | Core capability, budget, value and wire types for active-rpc |
-| 2026-10-29 03:14:08 | [active-rpc-client](https://crates.io/crates/active-rpc-client) | 0.1.0 | 0 | Client facade for active-rpc agents, calls and promises |
-| 2026-10-29 03:14:37 | [active-rpc-tools](https://crates.io/crates/active-rpc-tools) | 0.1.0 | 0 | Tool adapters for active-rpc: MCP, HTTP and sandboxed local processes |
-| 2026-10-29 03:15:16 | [active-rpc-transport](https://crates.io/crates/active-rpc-transport) | 0.1.0 | 0 | Transport facade for active-rpc: in-process, TCP, shared memory and QUIC |
-| 2026-10-29 03:16:44 | [telar-icons-core](https://crates.io/crates/telar-icons-core) | 0.2.2 | 0 | Iconify icon sets for Telar: icon ids, the Iconify JSON format, the icon source… |
-| 2026-10-29 03:16:45 | [telar-wire-core](https://crates.io/crates/telar-wire-core) | 0.2.2 | 0 | The byte spelling of every value that crosses between a Telar host and a guest… |
-| 2026-10-29 03:17:03 | [telar-preferences-core](https://crates.io/crates/telar-preferences-core) | 0.2.2 | 0 | The user's system preferences as reactive state for Telar: colour scheme, reduc… |
-| 2026-10-29 03:17:15 | [telar-embed](https://crates.io/crates/telar-embed) | 0.2.2 | 0 | Embedding a separately-compiled Telar UI inside a Telar application: the guest… |
+| 2026-10-29 03:21:08 | [sylphx-keel-platform](https://crates.io/crates/sylphx-keel-platform) | 0.1.5880 | 0 | Device and OS service Ports (display, haptics, geolocation, notifications, shar… |
+| 2026-10-29 03:21:36 | [mgui-editor](https://crates.io/crates/mgui-editor) | 0.1.0 | 0 | 代码编辑器组件:语法高亮(tree-sitter)/ 代码折叠 / 查找替换 / 行跳转 |
+| 2026-10-29 03:22:58 | [active-infinity-core](https://crates.io/crates/active-infinity-core) | 0.1.0 | 0 | Canonical codec facade for active-infinity: encode, decode, validate and hash |
+| 2026-10-29 03:27:42 | [workcell](https://crates.io/crates/workcell) | 0.1.0 | 0 | A sandboxed, git-backed workspace for running untrusted coding agents. |
+| 2026-10-29 03:29:40 | [cairnkit-util](https://crates.io/crates/cairnkit-util) | 0.1.0 | 0 | Cairnkit common infrastructure: cross-platform path helpers, JSON:API error res… |
+| 2026-10-29 03:31:07 | [sylphx-keel-locale](https://crates.io/crates/sylphx-keel-locale) | 0.1.5880 | 0 | Localization: source-text messages (MessageFormat 2), catalogs and the run-time… |
+| 2026-10-29 03:33:00 | [active-infinity-stream](https://crates.io/crates/active-infinity-stream) | 0.1.0 | 0 | Streaming facade for active-infinity: bounded frames and canonical reassembly |
+| 2026-10-29 03:34:20 | [telar-navigate](https://crates.io/crates/telar-navigate) | 0.2.2 | 0 | Page-stack navigation for Telar: a reactive navigator and an animated navigatio… |
+| 2026-10-29 03:34:25 | [telar-expression](https://crates.io/crates/telar-expression) | 0.2.2 | 0 | A small typed expression language for Telar applications: formulas a user write… |
+| 2026-10-29 03:34:27 | [telar-i18n](https://crates.io/crates/telar-i18n) | 0.2.2 | 0 | Locale data for Telar from ICU4X: CLDR plural rules for catalogs, and number an… |
+| 2026-10-29 03:35:19 | [busk](https://crates.io/crates/busk) | 0.1.1 | 0 | A keyboard-driven D-Bus explorer and debugger TUI: browse services and objects,… |
+| 2026-10-29 03:41:07 | [sylphx-keel-text](https://crates.io/crates/sylphx-keel-text) | 0.1.5880 | 0 | Text: measurement, OpenType shaping (HarfRust), font families, weights and fall… |
+| 2026-10-29 03:42:41 | [telar-icons](https://crates.io/crates/telar-icons) | 0.2.2 | 0 | Iconify icons for Telar: an `icon` tag for `set:name` ids, baked at build time… |
+| 2026-10-29 03:43:08 | [active-infinity-interop](https://crates.io/crates/active-infinity-interop) | 0.1.0 | 0 | Interop facade for active-infinity: Active IR, redacted JSON and Protobuf proje… |
+| 2026-10-29 03:47:15 | [geo-precision-guard](https://crates.io/crates/geo-precision-guard) | 1.0.0 | 0 | Uncertainty-aware coordinate checks for property listings: distance bounds, app… |
+| 2026-10-29 03:51:06 | [sylphx-keel-tween](https://crates.io/crates/sylphx-keel-tween) | 0.1.5880 | 0 | Tweens, easings and springs for values, UI and cameras |
+| 2026-10-29 03:51:30 | [torori](https://crates.io/crates/torori) | 0.0.1 | 0 | Torori — the NTRanch estate sound MCP: catalogue serving, OpenNSFW library lane… |
+| 2026-10-29 03:52:09 | [xplit](https://crates.io/crates/xplit) | 0.4.0 | 0 | A minimal terminal splitter with no prefix key and no configuration |
+| 2026-10-29 03:52:39 | [telar-components](https://crates.io/crates/telar-components) | 0.2.2 | 0 | First-party widget catalogue for Telar: buttons, inputs, chips, accordions and… |
+| 2026-10-29 03:53:09 | [active-infinity-wasm](https://crates.io/crates/active-infinity-wasm) | 0.1.0 | 0 | Reserved WebAssembly binding name for active-infinity |
+| 2026-10-29 03:59:50 | [toollens](https://crates.io/crates/toollens) | 0.1.1 | 0 | MCP gateway that shows an agent the few tools it needs from a catalog of thousa… |
+| 2026-10-29 04:01:08 | [sylphx-keel-geometry](https://crates.io/crates/sylphx-keel-geometry) | 0.1.5880 | 0 | Computational geometry: robust predicates, Delaunay/Voronoi, polygon booleans a… |
+| 2026-10-29 04:02:41 | [telar-workshop](https://crates.io/crates/telar-workshop) | 0.2.2 | 0 | The component workshop for Telar: browse an application's previews, render each… |
+| 2026-10-29 04:03:52 | [ache](https://crates.io/crates/ache) | 0.4.0 | 0 | ache — unified haptics MCP stdio server: Lovense Standard API and embedded Butt… |
+| 2026-10-29 04:11:07 | [sylphx-keel-procgen](https://crates.io/crates/sylphx-keel-procgen) | 0.1.5880 | 0 | Procedural generators: wave function collapse, heightfield erosion, dungeons, a… |
+| 2026-10-29 04:12:21 | [mushroomdb-bolt](https://crates.io/crates/mushroomdb-bolt) | 0.10.0 | 0 | Bolt wire protocol (PackStream v1) for mushroomdb |
+| 2026-10-29 04:12:25 | [mushroomdb-backup](https://crates.io/crates/mushroomdb-backup) | 0.10.0 | 0 | Continuous backup of a mushroomdb store to S3-compatible object storage |
+| 2026-10-29 04:12:40 | [telar-watch](https://crates.io/crates/telar-watch) | 0.2.2 | 0 | Filesystem watching for Telar, delivered on the UI thread. |
+| 2026-10-29 04:13:33 | [eclap-derive](https://crates.io/crates/eclap-derive) | 0.1.0 | 0 | Derive macros for eclap |
+| 2026-10-29 04:13:36 | [eclap](https://crates.io/crates/eclap) | 0.1.0 | 0 | Namespaced, env-aware clap derives for reusable config types |
+| 2026-10-29 04:14:05 | [holey-shapes](https://crates.io/crates/holey-shapes) | 2.1.0 | 0 | Avatars with holes: a name becomes a colorful perforated shape, drawn as the sa… |
+| 2026-10-29 04:14:27 | [openlocationcode](https://crates.io/crates/openlocationcode) | 0.1.0 | 0 | Open Location Codes (Plus Codes): encode a latitude and longitude, decode a cod… |
+| 2026-10-29 04:16:09 | [ardor](https://crates.io/crates/ardor) | 0.1.0 | 0 | Ardor — NTRanch game/app maker MCP server: authored project state, cast and can… |
 
 ## Data source
 
