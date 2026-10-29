@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T20:20:33.379542Z,tlaplus-random,0.1.0,0,0,https://github.com/drbh/tlaplus-rs,Randomization module operators for tlaplus-rs
+2026-10-29T20:26:02.231371Z,dspk-pipeline,0.0.4,0,0,https://github.com/neuro-kitchen/dsp-kitchen,"dspk pipelines as data: a versioned node-graph spec (JSON, or TOML to write by hand) and an executor that streams a recording through dspk-ops stages on the device"
+2026-10-29T20:28:20.020462Z,rutis-types,0.19.0,0,0,https://github.com/arcships/rutis,"Generate the TypeScript declarations and Python types of Rust services marked #[rutis::service], from their Rust source, for build scripts"
+2026-10-29T20:29:35.725582Z,skybrush,0.1.0,0,0,https://github.com/skybrush-io/libskybrush-rs,Parsing and playback of Skybrush drone show files
+2026-10-29T20:29:45.717606Z,tlaplus-lower,0.1.0,0,0,https://github.com/drbh/tlaplus-rs,Lowering from TLA+ syntax to the tlaplus-rs IR
+2026-10-29T20:34:09.690363Z,veles-plugin-abi,0.1.4,0,0,https://github.com/77787777778777/veles,The stable C ABI between veles and its native (.so) Rust plugins. No engine code — only #[repr(C)] types both sides agree on.
+2026-10-29T20:34:11.012694Z,veles-textart,0.1.4,0,0,https://github.com/77787777778777/veles,"IRC text art as a picture: mIRC and ANSI formatting parsed into a cell grid and drawn with GNU Unifont into a small PNG. Pure: no IO, no config."
+2026-10-29T20:34:12.180622Z,veles-types,0.1.4,0,0,https://github.com/77787777778777/veles,"What veles and its process plugins both speak: the bus messages, the sender context, the ask shapes and the JSON-RPC peer. No engine code."
+2026-10-29T20:34:14.787839Z,veles-plugin-abi-sdk,0.1.4,0,0,https://github.com/77787777778777/veles,"Write a veles native (.so) plugin in safe Rust: the ABI 4 contract (veles-plugin-abi) wrapped so that registering, platforms, timers, sockets and async tools are closures, and a panic never crosses t…"
+2026-10-29T20:34:15.204449Z,veles-plugin-sdk,0.1.4,0,0,https://github.com/77787777778777/veles,"Write a veles process plugin: the handshake, the dispatch loop, --describe, and a typed client for the gateway."
+2026-10-29T20:35:58.271192Z,astod_core,0.1.0-alpha.1,0,0,https://gitlab.com/astod/maypole_astod,"Shared infrastructure for Maypole protocol crates on Veilid: DHT pool, watches, sealed and signed records, secrets, IPC. Experimental"
+2026-10-29T20:36:00.349635Z,astod_identity,0.1.0-alpha.1,0,0,https://gitlab.com/astod/maypole_astod,"Maypole identity on Veilid (MVP001): root identity, personas, and per app delegated credentials. Experimental"
+2026-10-29T20:36:02.104675Z,astod_contacts,0.1.0-alpha.1,0,0,https://gitlab.com/astod/maypole_astod,"Maypole contacts, invitations, weighted trust, and app channels on Veilid (MVP002, MVP003). Experimental"
+2026-10-29T20:36:04.149539Z,astod_groups,0.1.0-alpha.1,0,0,https://gitlab.com/astod/maypole_astod,"Maypole groups on Veilid (MVP004): membership books, epochs, invites, and shared app data. Experimental"
+2026-10-29T20:40:27.222555Z,tlaplus-runtime,0.1.0,0,0,https://github.com/drbh/tlaplus-rs,Runtime support for evaluating TLA+ in tlaplus-rs
+2026-10-29T20:46:44.103146Z,dioxus-vercel,0.1.0,0,0,https://github.com/nylla8444/dioxus-vercel,Build a Dioxus web app and deploy it to Vercel as a prebuilt static site
+2026-10-29T20:49:13.485442Z,smarthive-storage,0.2.0,0,0,https://github.com/dhopegraphics/Storage_Server-Smarthive,"Async Rust client for the SmartHive Storage API (uploads, files, signed URLs, variants, admin)."
+2026-10-29T20:49:37.777244Z,tlaplus-eval,0.1.0,0,0,https://github.com/drbh/tlaplus-rs,IR interpretation for tlaplus-rs
+2026-10-29T20:50:09.315646Z,nlptoolkit-math,0.0.1,0,0,https://github.com/StarlangSoftware/Math-Rust,Simple Math library
+2026-10-29T20:53:05.906816Z,panweave-hub-cli,0.5.0,0,0,https://github.com/ARyaskov/panweave,Panweave hub: development command-line client for the Panweave Hub Protocol over USB serial
+2026-10-29T20:53:06.704307Z,panweave-mqtt,0.3.0,0,0,https://github.com/ARyaskov/panweave,Panweave hub to MQTT bridge with Home Assistant discovery
+2026-10-29T20:57:31.013261Z,dfe-clickhouse,0.1.4,0,0,https://github.com/hyperi-io/dfe-clickhouse-rs,"HyperI extensions for the official ClickHouse Rust client: TCP transport, dynamic inserts, unified client"
+2026-10-29T20:59:23.729178Z,paynow_zw,0.1.0,0,0,https://github.com/matagaralph/paynow-rust,Client for the Paynow Zimbabwe payment gateway
+2026-10-29T21:00:21.348798Z,tlaplus-model,0.1.0,0,0,https://github.com/drbh/tlaplus-rs,"Configured models, state generation and transition-system hooks"
+2026-10-29T21:07:22.68654Z,faucet-registry,1.0.0,0,0,https://github.com/faucet-hq/faucet-stream,"Build any faucet-stream source or sink from its type name and a JSON config: the by-name connector registry and shared auth catalog, for tools that embed faucet"
+2026-10-29T21:08:12.349565Z,rqm,0.1.0,0,0,https://gitlab.com/cyloncore/rqm,"ReQuirement Manager: a local, deterministic requirements tool where verified is computed from evidence"
+2026-10-29T21:08:23.22671Z,rqm-attr,0.1.0,0,0,https://gitlab.com/cyloncore/rqm,The rqm attribute that binds a test to the requirements it implements
+2026-10-29T21:11:05.369325Z,tlaplus-temporal,0.1.0,0,0,https://github.com/drbh/tlaplus-rs,"Temporal preparation, behavior graphs and liveness checking"
+2026-10-29T21:15:00.659527Z,dejaview-core,0.1.0,0,0,https://github.com/markhayden/dejaview,"dejaview core: jobs, obligations, checklist, run loop, verdict (library)"
+2026-10-29T21:15:02.860168Z,dejaview-testkit,0.1.0,0,0,https://github.com/markhayden/dejaview,"dejaview test support: scripted fake provider, fake tool, fake MCP server"
+2026-10-29T21:15:04.880707Z,dejaview-providers,0.1.0,0,0,https://github.com/markhayden/dejaview,"dejaview provider adapters, endpoint profiles and model catalog"
+2026-10-29T21:15:05.542972Z,dejaview-tools,0.1.0,0,0,https://github.com/markhayden/dejaview,dejaview built-in tools and MCP client
+2026-10-29T21:15:06.724933Z,dejaview-eval,0.1.0,0,0,https://github.com/markhayden/dejaview,"dejaview evaluation sets, matrix runner, metrics and gates"
+2026-10-29T21:19:36.431436Z,sfml3,3.1.0,0,0,https://github.com/jeremyletang/rust-sfml,Rust binding for sfml
+2026-10-29T21:19:52.705569Z,bevy-game-recorder,0.1.0,0,0,https://github.com/cjus/bevy-game-recorder,Opt-in macOS window and application audio recording for Bevy
+2026-10-29T21:20:19.080101Z,tlaplus-checker,0.1.0,0,0,https://github.com/drbh/tlaplus-rs,"The model checker as a library: load, bind, explore and check a specification."
