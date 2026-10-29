@@ -8,30 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 05:20 UTC
+## Latest list — 2026-10-29 06:20 UTC
 
-New crates published between 2026-10-29 04:19 UTC and 2026-10-29 05:20 UTC.
+New crates published between 2026-10-29 05:20 UTC and 2026-10-29 06:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-29T05-20-21-390426Z.csv)
+[Full CSV](data/new-crates-2026-10-29T06-20-22-262681Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-29 04:19:49 | [nftables-nl](https://crates.io/crates/nftables-nl) | 0.1.0 | 0 | a rust minimal library to interact with linux nftables |
-| 2026-10-29 04:21:06 | [sylphx-keel-visual](https://crates.io/crates/sylphx-keel-visual) | 0.1.5880 | 0 | Pixel comparison of two RGBA images within a noise budget: changed pixels, chan… |
-| 2026-10-29 04:28:23 | [neemu](https://crates.io/crates/neemu) | 1.0.0 | 0 | Neemu MCP — media extraction for animation and voice (S1: registry + screen/tie… |
-| 2026-10-29 04:29:23 | [turbojet-replica](https://crates.io/crates/turbojet-replica) | 0.7.0 | 0 | Replicated session state for Turbojet: a hot standby that takes over FIX sessio… |
-| 2026-10-29 04:31:07 | [sylphx-keel-render](https://crates.io/crates/sylphx-keel-render) | 0.1.5880 | 0 | Renderer-neutral scene data: Camera3d / Mesh3d / MeshBillboard3d scene componen… |
-| 2026-10-29 04:35:08 | [biternet-client](https://crates.io/crates/biternet-client) | 0.2.1 | 0 | A small srun client for BIT |
-| 2026-10-29 04:36:22 | [biternet](https://crates.io/crates/biternet) | 0.2.1 | 0 | A desktop client for the BIT SRUN gateway |
-| 2026-10-29 04:41:09 | [sylphx-keel-paint](https://crates.io/crates/sylphx-keel-paint) | 0.1.5880 | 0 | Paint display list: PaintOp, node effects, canvas point lights, the SoftwareCan… |
-| 2026-10-29 04:51:09 | [sylphx-keel-brush](https://crates.io/crates/sylphx-keel-brush) | 0.1.5880 | 0 | Natural-media brushes: pencils, charcoal, markers, spray, watercolor fills, hat… |
-| 2026-10-29 04:52:05 | [irradiance](https://crates.io/crates/irradiance) | 0.1.1 | 0 | A permissively-licensed, pure-Rust library that reads camera RAW files and deve… |
-| 2026-10-29 05:01:07 | [sylphx-keel-nav](https://crates.io/crates/sylphx-keel-nav) | 0.1.5880 | 0 | Navigation: navmesh bake, optimal any-angle and corridor queries, crowds, grid… |
-| 2026-10-29 05:07:50 | [ava1-gen](https://crates.io/crates/ava1-gen) | 1.0.1 | 0 | Generates the AVA1 wire protocol's message codecs (Rust and C) from a schema, f… |
-| 2026-10-29 05:08:10 | [ava1](https://crates.io/crates/ava1) | 1.0.1 | 0 | AVA1: an encrypted, resumable, multi-lane file-transfer protocol (client and no… |
-| 2026-10-29 05:11:07 | [sylphx-keel-scene](https://crates.io/crates/sylphx-keel-scene) | 0.1.5880 | 0 | Hierarchical scenes and prefabs: versioned keel.scene documents validated again… |
-| 2026-10-29 05:15:21 | [narwhalapi](https://crates.io/crates/narwhalapi) | 0.2.0 | 0 | Typed clients for the Narwhal API with exact decimal values |
-| 2026-10-29 05:18:31 | [serkey](https://crates.io/crates/serkey) | 0.1.0 | 0 | A simple keycode parser for handling UTF-8 and VT100 terminal ctrl sequences |
+| 2026-10-29 05:21:06 | [sylphx-keel-character](https://crates.io/crates/sylphx-keel-character) | 0.1.5880 | 0 | Characters: the versioned keel.character document, body regions with index-rebu… |
+| 2026-10-29 05:21:17 | [cryptainer-derive](https://crates.io/crates/cryptainer-derive) | 2.2.0 | 0 | Derive macro for cryptainer |
+| 2026-10-29 05:26:39 | [clankerdiff-ui-core](https://crates.io/crates/clankerdiff-ui-core) | 0.7.0 | 0 | Renderer-neutral themes, palettes and picker behavior for Diff and sibling apps |
+| 2026-10-29 05:29:49 | [adrlint](https://crates.io/crates/adrlint) | 0.1.0 | 0 | A fast, opinionated linter and formatter for MADR architecture decision records |
+| 2026-10-29 05:31:10 | [sylphx-keel-ui](https://crates.io/crates/sylphx-keel-ui) | 0.1.5880 | 0 | UI: Components, Signals, constraint/flex layout, motion, themes and art skins,… |
+| 2026-10-29 05:40:02 | [aqui](https://crates.io/crates/aqui) | 8.0.0 | 0 | Human-friendly CLI HTTP client |
+| 2026-10-29 05:41:06 | [sylphx-keel-time](https://crates.io/crates/sylphx-keel-time) | 0.1.5880 | 0 | Time services: pause and time scale, timers, host timers with jitter, per-frame… |
+| 2026-10-29 05:51:10 | [sylphx-keel-physics](https://crates.io/crates/sylphx-keel-physics) | 0.1.5880 | 0 | PhysicsPort contract (bodies, shapes, joints, queries, character movement, larg… |
+| 2026-10-29 06:00:04 | [blake3-servil](https://crates.io/crates/blake3-servil) | 0.8.0+b3c5efc7c975d… | 0 | the BLAKE3 hash function, with SME2 and integer + NEON kernels for AArch64 and… |
+| 2026-10-29 06:01:07 | [sylphx-keel-physics-rapier](https://crates.io/crates/sylphx-keel-physics-rapier) | 0.1.5880 | 0 | PhysicsPort backends on Rapier: RapierPhysics (3D) and RapierPhysics2d (2D), wi… |
+| 2026-10-29 06:01:41 | [b3sums](https://crates.io/crates/b3sums) | 0.8.0+b3c5efc7c975d… | 0 | b3sum, the BLAKE3 command-line hasher, on blake3-servil: the same digests, fast… |
+| 2026-10-29 06:04:55 | [dokime-domain](https://crates.io/crates/dokime-domain) | 0.1.0 | 0 | Dokime application and runtime packages. |
+| 2026-10-29 06:05:56 | [dokime-operations](https://crates.io/crates/dokime-operations) | 0.1.0 | 0 | Dokime application and runtime packages. |
+| 2026-10-29 06:06:39 | [bevy_procedural_fx](https://crates.io/crates/bevy_procedural_fx) | 0.1.0 | 0 | Play sprite-sheet effects exported from ProceduralFX Studio in Bevy |
+| 2026-10-29 06:08:19 | [dokime-client](https://crates.io/crates/dokime-client) | 0.1.0 | 0 | Dokime application and runtime packages. |
+| 2026-10-29 06:08:40 | [dokime-host](https://crates.io/crates/dokime-host) | 0.1.0 | 0 | Dokime application and runtime packages. |
+| 2026-10-29 06:08:46 | [dokime-macros](https://crates.io/crates/dokime-macros) | 0.1.0 | 0 | Authoring attributes re-exported by the dokime crate. |
+| 2026-10-29 06:10:50 | [dokime-runtime](https://crates.io/crates/dokime-runtime) | 0.1.0 | 0 | Dokime application and runtime packages. |
+| 2026-10-29 06:11:09 | [sylphx-keel-voxel](https://crates.io/crates/sylphx-keel-voxel) | 0.1.5880 | 0 | Voxel worlds: chunk storage, greedy and LOD meshing through one MeshOptions, ti… |
+| 2026-10-29 06:14:04 | [narrative-lens](https://crates.io/crates/narrative-lens) | 0.2.0 | 0 | Local, deterministic prose and narrative-craft analysis -- readability, pacing,… |
+| 2026-10-29 06:17:33 | [dokime](https://crates.io/crates/dokime) | 0.1.0 | 0 | Dokime application and runtime packages. |
+| 2026-10-29 06:20:05 | [bitrouter-registry](https://crates.io/crates/bitrouter-registry) | 1.0.0-alpha.35 | 0 | Registry v1 validation, synchronization, and exact pricing contracts |
 
 ## Data source
 

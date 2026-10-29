@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T05:21:06.69186Z,sylphx-keel-character,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Characters: the versioned keel.character document, body regions with index-rebuilt outfit hiding, joint-scale creator sliders without shear, and the Character fragment that drives an anim set, a join…"
+2026-10-29T05:21:17.541163Z,cryptainer-derive,2.2.0,0,0,https://codeberg.org/mazylol/cryptainer,Derive macro for cryptainer
+2026-10-29T05:26:39.484385Z,clankerdiff-ui-core,0.7.0,0,0,https://github.com/jcarver989/diff,"Renderer-neutral themes, palettes and picker behavior for Diff and sibling apps"
+2026-10-29T05:29:49.637098Z,adrlint,0.1.0,0,0,https://github.com/Goldziher/adrlint,"A fast, opinionated linter and formatter for MADR architecture decision records"
+2026-10-29T05:31:10.293521Z,sylphx-keel-ui,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"UI: Components, Signals, constraint/flex layout, motion, themes and art skins, SVG import, forms, Markdown, paint and vector canvases, accessibility semantics, pooled world-space popups and HUD widge…"
+2026-10-29T05:40:02.422107Z,aqui,8.0.0,0,0,https://github.com/joeledwards/aqui,Human-friendly CLI HTTP client
+2026-10-29T05:41:06.797437Z,sylphx-keel-time,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Time services: pause and time scale, timers, host timers with jitter, per-frame timing (FrameTime), and a discrete scheduled-tick queue"
+2026-10-29T05:51:10.689398Z,sylphx-keel-physics,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"PhysicsPort contract (bodies, shapes, joints, queries, character movement, large-world origin rebasing), rigid bodies as ECS components, skeleton ragdolls with powered pose tracking and animation ble…"
+2026-10-29T06:00:04.993225Z,blake3-servil,0.8.0+b3c5efc7c975d903762dea809066f7c0a0603861,0,0,https://github.com/johnservil/BLAKE3,"the BLAKE3 hash function, with SME2 and integer + NEON kernels for AArch64 and a shared thread pool"
+2026-10-29T06:01:07.125526Z,sylphx-keel-physics-rapier,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"PhysicsPort backends on Rapier: RapierPhysics (3D) and RapierPhysics2d (2D), with large-world origin rebasing, buoyancy, soft-body attachments, debug wireframes of colliders, contacts and joints, and…"
+2026-10-29T06:01:41.74474Z,b3sums,0.8.0+b3c5efc7c975d903762dea809066f7c0a0603861,0,0,https://github.com/johnservil/BLAKE3,"b3sum, the BLAKE3 command-line hasher, on blake3-servil: the same digests, faster"
+2026-10-29T06:04:55.871988Z,dokime-domain,0.1.0,0,0,https://github.com/stokker-technologies/dokime,Dokime application and runtime packages.
+2026-10-29T06:05:56.433928Z,dokime-operations,0.1.0,0,0,https://github.com/stokker-technologies/dokime,Dokime application and runtime packages.
+2026-10-29T06:06:39.617301Z,bevy_procedural_fx,0.1.0,0,0,https://github.com/loksangho/proceduralfx-studio,Play sprite-sheet effects exported from ProceduralFX Studio in Bevy
+2026-10-29T06:08:19.480165Z,dokime-client,0.1.0,0,0,https://github.com/stokker-technologies/dokime,Dokime application and runtime packages.
+2026-10-29T06:08:40.130397Z,dokime-host,0.1.0,0,0,https://github.com/stokker-technologies/dokime,Dokime application and runtime packages.
+2026-10-29T06:08:46.805076Z,dokime-macros,0.1.0,0,0,https://github.com/stokker-technologies/dokime,Authoring attributes re-exported by the dokime crate.
+2026-10-29T06:10:50.041575Z,dokime-runtime,0.1.0,0,0,https://github.com/stokker-technologies/dokime,Dokime application and runtime packages.
+2026-10-29T06:11:09.806267Z,sylphx-keel-voxel,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Voxel worlds: chunk storage, greedy and LOD meshing through one MeshOptions, title-declared block models, block and sky lighting, streaming plans, DDA raycast, swept AABB collision, chunk colliders f…"
+2026-10-29T06:14:04.160464Z,narrative-lens,0.2.0,0,0,https://github.com/writerslogic/narrative-lens,"Local, deterministic prose and narrative-craft analysis -- readability, pacing, voice, foreshadowing, continuity -- extracted from Emathy's meaning engine."
+2026-10-29T06:17:33.39769Z,dokime,0.1.0,0,0,https://github.com/stokker-technologies/dokime,Dokime application and runtime packages.
+2026-10-29T06:20:05.027231Z,bitrouter-registry,1.0.0-alpha.35,0,0,https://github.com/bitrouter/bitrouter,"Registry v1 validation, synchronization, and exact pricing contracts"
