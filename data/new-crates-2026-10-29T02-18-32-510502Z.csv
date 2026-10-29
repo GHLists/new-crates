@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T01:21:06.748249Z,sylphx-keel-net,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Networking Ports: HTTP, WebSocket, streams, nearby peers, online sessions, turn matches, relay allocation and Intent transport, with null, scripted and host-fed implementations and native ureq and tu…"
+2026-10-29T01:21:08.891174Z,mgui-core,0.1.0,0,0,https://gitee.com/qianbai-studio/micagui,mgui 框架核心:Element/RenderObject/Widget 三树、布局与绘制协议、帧管线与响应式原语
+2026-10-29T01:21:17.777273Z,mgui-task,0.1.0,0,0,https://gitee.com/qianbai-studio/micagui,UI 线程本地异步任务执行器(无 wgpu/winit 依赖)
+2026-10-29T01:23:15.959454Z,xgpui-media,0.2.0,0,0,https://github.com/gpui-luma-dev/xgpui,"Experimental media extension for xgpui with image loading, mipmapped textures, and rendering"
+2026-10-29T01:23:50.378288Z,mgui-assets,0.1.0,0,0,https://gitee.com/qianbai-studio/micagui,mgui 内嵌资产:Tabler 图标、Xicons 多库图标、测试夹具
+2026-10-29T01:24:02.488143Z,mgui-store-derive,0.1.0,0,0,https://gitee.com/qianbai-studio/micagui,mgui-store 的 #[derive(Reduce)] proc-macro
+2026-10-29T01:24:10.174809Z,mgui-i18n,0.1.0,0,0,https://gitee.com/qianbai-studio/micagui,mgui 国际化基础:Locale/语言包回退/数字与日期格式化/RTL 判定(零依赖)
+2026-10-29T01:26:06.076157Z,laft-fetch,0.0.0,0,0,https://github.com/QaidVoid/laft,"Transport, mirror failover and download cache for Laft repositories. Placeholder release, under active development."
+2026-10-29T01:28:19.515931Z,secs-compute,0.1.0,0,0,https://github.com/115dkk/Sound-Equalization-and-Correction-System-2R,"Resource rules for heavy work: thread pool, memory budget, cancellation and progress."
+2026-10-29T01:28:25.227638Z,secs-dirac,0.1.0,0,0,https://github.com/115dkk/Sound-Equalization-and-Correction-System-2R,Bounded reader for measured impulse responses in Dirac Live projects.
+2026-10-29T01:29:02.56428Z,secs-dsp,0.1.0,0,0,https://github.com/115dkk/Sound-Equalization-and-Correction-System-2R,"f64 DSP primitives and optimizers shared by the engine, the mdat builder, the CamillaDSP writer and the measurement path."
+2026-10-29T01:29:14.24546Z,secs-audio,0.1.0,0,0,https://github.com/115dkk/Sound-Equalization-and-Correction-System-2R,"Native sweep measurement: sweep design, play-and-record sessions, deconvolution, level check."
+2026-10-29T01:29:20.420287Z,secs-jos,0.1.0,0,0,https://github.com/115dkk/Sound-Equalization-and-Correction-System-2R,"Java Object Serialization stream reader and writer, byte-identical round trip."
+2026-10-29T01:29:28.416029Z,secs-mdat,0.1.0,0,0,https://github.com/115dkk/Sound-Equalization-and-Correction-System-2R,"REW .mdat schema over secs-jos: read measurements, build new projects from an embedded template."
+2026-10-29T01:29:30.015792Z,color-converter,0.0.0,0,0,https://github.com/Dmytro-Svitkin/color-converter,Simple Color Converter
+2026-10-29T01:31:06.794581Z,sylphx-keel-view-grammar,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"The template grammar of Keel's view macros (col!, row!, stack!, children!) as a library: the macros expand through it and tools scan title source with it, so both compute the same templates, node ind…"
+2026-10-29T01:31:35.600309Z,mgui-text,0.1.0,0,0,https://gitee.com/qianbai-studio/micagui,平台无关文本服务:parley 排版 / swash 字形栅格化 / glyph atlas / TextField 布局
+2026-10-29T01:31:54.455344Z,uom-ng,0.39.0,0,0,https://github.com/okhsunrog/uom-ng,Type-safe units of measurement with compile-time conversion factors
+2026-10-29T01:35:45.525289Z,manifold-acoustics,0.7.0,0,0,https://github.com/bageera/acoustics,"ACOUSTICS - Mathematical & Physics-Informed Audio Research Engine: exact reversible audio models ranked by complete serialized description length (MDL), pre-dimensionality battery, compositional echo…"
+2026-10-29T01:36:26.50668Z,clap-cpp,0.1.0,0,0,https://github.com/gorse-io/clap.cpp,Safe CPU Rust bindings for clap.cpp
+2026-10-29T01:36:33.59415Z,laft-sandbox,0.0.0,0,0,https://github.com/QaidVoid/laft,"Namespaces and mounts for Laft build sandboxes and view entry. Placeholder release, under active development."
+2026-10-29T01:39:57.70422Z,secs-rew,0.1.0,0,0,https://github.com/115dkk/Sound-Equalization-and-Correction-System-2R,REW API backend (real REW over HTTP and a fake) behind one measurement seam.
+2026-10-29T01:41:07.90116Z,sylphx-keel-ui-macros,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Procedural macros for Keel UI: #[component], #[derive(StableKey)] and the view templates behind col!, row!, stack! and children!, and the generated-content recipes image!, sfx!, music!, video! and ch…"
+2026-10-29T01:41:32.001412Z,mgui-layout,0.1.0,0,0,https://gitee.com/qianbai-studio/micagui,mgui 布局:taffy 驱动的 Flex/Grid 与 PanelWidget 统一构建器
+2026-10-29T01:47:00.204079Z,laft-svc,0.0.0,0,0,https://github.com/QaidVoid/laft,"The Laft service model, its runit backend and the service launcher. Placeholder release, under active development."
+2026-10-29T01:48:09.926264Z,warmpath,0.1.0,0,0,https://github.com/ernestas-poskus/warmpath,"Provider-agnostic prompt-cache accounting, warm-session decisions, and metric gates for coding agents."
+2026-10-29T01:50:35.530427Z,secs-types,0.1.0,0,0,https://github.com/115dkk/Sound-Equalization-and-Correction-System-2R,"Shared vocabulary of SECS 2R: domain types, error codes and the IPC request and response types (with generated TypeScript bindings)."
+2026-10-29T01:51:07.527445Z,sylphx-keel-assets,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Asset server with typed handles, async imports, a content-addressed cache, hot reload, download packs and generated cells on a web worker; texture pipeline for PNG, JPEG and KTX2 with Basis Universal…"
+2026-10-29T01:51:33.642888Z,mgui-shell,0.1.0,0,0,https://gitee.com/qianbai-studio/micagui,平台无关 Shell 抽象:Clock / ShellMetrics / Clipboard 能力契约
+2026-10-29T01:52:52.120536Z,lomboklocale,0.2.0,0,0,https://github.com/codinglombok/LombokLocale,"BCP 47 negotiation, CLDR 47 plural rules, number/currency/date formatting and an ICU MessageFormat subset with identical results in Rust, TypeScript, Python, Go and PHP. No dependencies."
+2026-10-29T01:57:28.209883Z,laft-activate,0.0.0,0,0,https://github.com/QaidVoid/laft,"Assembly and activation of Laft generations: /etc, accounts, triggers and boot files. Placeholder release, under active development."
+2026-10-29T02:01:07.459965Z,sylphx-keel-infer,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Runs models: the inference Port (InferPort) with on-device null, scripted, host-fed, cascade, dense MLP and tract ONNX backends and per-call limits, typed decision models on candle or ONNX Runtime, c…"
+2026-10-29T02:01:24.76471Z,secs-engine,0.1.0,0,0,https://github.com/115dkk/Sound-Equalization-and-Correction-System-2R,"The SECS 2 correction design: measurement, levels and delays, BA, XO, RC, decay, signal chain, MIMO and scorecard."
+2026-10-29T02:01:35.113109Z,mgui-store,0.1.0,0,0,https://gitee.com/qianbai-studio/micagui,"应用级 Store/Reducer:叠加在 Signal 上,带 action log / 回放 / 选择器"
+2026-10-29T02:07:54.763929Z,laft-boot,0.0.0,0,0,https://github.com/QaidVoid/laft,"The Laft initramfs init that mounts the root and starts a generation. Placeholder release, under active development."
+2026-10-29T02:09:33.733295Z,place-tui,0.0.1,0,0,https://github.com/Drewroen/place-tui,Terminal client for a shared place / world map server
+2026-10-29T02:10:36.064442Z,hipoll,0.1.0,0,0,https://gitcode.com/xuanwu/hipoll,"Minimal no_std, zero-allocation fd polling abstraction"
+2026-10-29T02:11:06.985386Z,sylphx-keel-ai,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Game AI: blackboard, behavior trees, utility AI, hierarchical FSM, budgeted ECS scheduling, decision traces, GOAP, HTN, Monte Carlo tree search, perception, spatial queries, smart objects, influence…"
+2026-10-29T02:11:36.702624Z,mgui-shell-winit,0.1.0,0,0,https://gitee.com/qianbai-studio/micagui,"winit 适配层:Window → WindowShell / ShellEvent,以及软件回退窗口句柄"
+2026-10-29T02:12:10.697033Z,secs-graph,0.1.0,0,0,https://github.com/115dkk/Sound-Equalization-and-Correction-System-2R,The export graph: one validated signal chain with its MIMO paths and the topology every export writer reads.
+2026-10-29T02:18:22.696213Z,laft-enter,0.0.0,0,0,https://github.com/QaidVoid/laft,"The setuid helper that runs a command inside a Laft view. Placeholder release, under active development."
+2026-10-29T02:18:26.098892Z,laft-repo,0.0.0,0,0,https://github.com/QaidVoid/laft,"The build-side tool that indexes, checks, signs and publishes Laft repositories. Placeholder release, under active development."
