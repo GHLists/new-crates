@@ -8,50 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 21:20 UTC
+## Latest list — 2026-10-29 22:18 UTC
 
-New crates published between 2026-10-29 20:19 UTC and 2026-10-29 21:20 UTC.
+New crates published between 2026-10-29 21:20 UTC and 2026-10-29 22:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-29T21-20-43-07957Z.csv)
+[Full CSV](data/new-crates-2026-10-29T22-18-53-958882Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-29 20:20:33 | [tlaplus-random](https://crates.io/crates/tlaplus-random) | 0.1.0 | 0 | Randomization module operators for tlaplus-rs |
-| 2026-10-29 20:26:02 | [dspk-pipeline](https://crates.io/crates/dspk-pipeline) | 0.0.4 | 0 | dspk pipelines as data: a versioned node-graph spec (JSON, or TOML to write by… |
-| 2026-10-29 20:28:20 | [rutis-types](https://crates.io/crates/rutis-types) | 0.19.0 | 0 | Generate the TypeScript declarations and Python types of Rust services marked #… |
-| 2026-10-29 20:29:35 | [skybrush](https://crates.io/crates/skybrush) | 0.1.0 | 0 | Parsing and playback of Skybrush drone show files |
-| 2026-10-29 20:29:45 | [tlaplus-lower](https://crates.io/crates/tlaplus-lower) | 0.1.0 | 0 | Lowering from TLA+ syntax to the tlaplus-rs IR |
-| 2026-10-29 20:34:09 | [veles-plugin-abi](https://crates.io/crates/veles-plugin-abi) | 0.1.4 | 0 | The stable C ABI between veles and its native (.so) Rust plugins. No engine cod… |
-| 2026-10-29 20:34:11 | [veles-textart](https://crates.io/crates/veles-textart) | 0.1.4 | 0 | IRC text art as a picture: mIRC and ANSI formatting parsed into a cell grid and… |
-| 2026-10-29 20:34:12 | [veles-types](https://crates.io/crates/veles-types) | 0.1.4 | 0 | What veles and its process plugins both speak: the bus messages, the sender con… |
-| 2026-10-29 20:34:14 | [veles-plugin-abi-sdk](https://crates.io/crates/veles-plugin-abi-sdk) | 0.1.4 | 0 | Write a veles native (.so) plugin in safe Rust: the ABI 4 contract (veles-plugi… |
-| 2026-10-29 20:34:15 | [veles-plugin-sdk](https://crates.io/crates/veles-plugin-sdk) | 0.1.4 | 0 | Write a veles process plugin: the handshake, the dispatch loop, --describe, and… |
-| 2026-10-29 20:35:58 | [astod_core](https://crates.io/crates/astod_core) | 0.1.0-alpha.1 | 0 | Shared infrastructure for Maypole protocol crates on Veilid: DHT pool, watches,… |
-| 2026-10-29 20:36:00 | [astod_identity](https://crates.io/crates/astod_identity) | 0.1.0-alpha.1 | 0 | Maypole identity on Veilid (MVP001): root identity, personas, and per app deleg… |
-| 2026-10-29 20:36:02 | [astod_contacts](https://crates.io/crates/astod_contacts) | 0.1.0-alpha.1 | 0 | Maypole contacts, invitations, weighted trust, and app channels on Veilid (MVP0… |
-| 2026-10-29 20:36:04 | [astod_groups](https://crates.io/crates/astod_groups) | 0.1.0-alpha.1 | 0 | Maypole groups on Veilid (MVP004): membership books, epochs, invites, and share… |
-| 2026-10-29 20:40:27 | [tlaplus-runtime](https://crates.io/crates/tlaplus-runtime) | 0.1.0 | 0 | Runtime support for evaluating TLA+ in tlaplus-rs |
-| 2026-10-29 20:46:44 | [dioxus-vercel](https://crates.io/crates/dioxus-vercel) | 0.1.0 | 0 | Build a Dioxus web app and deploy it to Vercel as a prebuilt static site |
-| 2026-10-29 20:49:13 | [smarthive-storage](https://crates.io/crates/smarthive-storage) | 0.2.0 | 0 | Async Rust client for the SmartHive Storage API (uploads, files, signed URLs, v… |
-| 2026-10-29 20:49:37 | [tlaplus-eval](https://crates.io/crates/tlaplus-eval) | 0.1.0 | 0 | IR interpretation for tlaplus-rs |
-| 2026-10-29 20:50:09 | [nlptoolkit-math](https://crates.io/crates/nlptoolkit-math) | 0.0.1 | 0 | Simple Math library |
-| 2026-10-29 20:53:05 | [panweave-hub-cli](https://crates.io/crates/panweave-hub-cli) | 0.5.0 | 0 | Panweave hub: development command-line client for the Panweave Hub Protocol ove… |
-| 2026-10-29 20:53:06 | [panweave-mqtt](https://crates.io/crates/panweave-mqtt) | 0.3.0 | 0 | Panweave hub to MQTT bridge with Home Assistant discovery |
-| 2026-10-29 20:57:31 | [dfe-clickhouse](https://crates.io/crates/dfe-clickhouse) | 0.1.4 | 0 | HyperI extensions for the official ClickHouse Rust client: TCP transport, dynam… |
-| 2026-10-29 20:59:23 | [paynow_zw](https://crates.io/crates/paynow_zw) | 0.1.0 | 0 | Client for the Paynow Zimbabwe payment gateway |
-| 2026-10-29 21:00:21 | [tlaplus-model](https://crates.io/crates/tlaplus-model) | 0.1.0 | 0 | Configured models, state generation and transition-system hooks |
-| 2026-10-29 21:07:22 | [faucet-registry](https://crates.io/crates/faucet-registry) | 1.0.0 | 0 | Build any faucet-stream source or sink from its type name and a JSON config: th… |
-| 2026-10-29 21:08:12 | [rqm](https://crates.io/crates/rqm) | 0.1.0 | 0 | ReQuirement Manager: a local, deterministic requirements tool where verified is… |
-| 2026-10-29 21:08:23 | [rqm-attr](https://crates.io/crates/rqm-attr) | 0.1.0 | 0 | The rqm attribute that binds a test to the requirements it implements |
-| 2026-10-29 21:11:05 | [tlaplus-temporal](https://crates.io/crates/tlaplus-temporal) | 0.1.0 | 0 | Temporal preparation, behavior graphs and liveness checking |
-| 2026-10-29 21:15:00 | [dejaview-core](https://crates.io/crates/dejaview-core) | 0.1.0 | 0 | dejaview core: jobs, obligations, checklist, run loop, verdict (library) |
-| 2026-10-29 21:15:02 | [dejaview-testkit](https://crates.io/crates/dejaview-testkit) | 0.1.0 | 0 | dejaview test support: scripted fake provider, fake tool, fake MCP server |
-| 2026-10-29 21:15:04 | [dejaview-providers](https://crates.io/crates/dejaview-providers) | 0.1.0 | 0 | dejaview provider adapters, endpoint profiles and model catalog |
-| 2026-10-29 21:15:05 | [dejaview-tools](https://crates.io/crates/dejaview-tools) | 0.1.0 | 0 | dejaview built-in tools and MCP client |
-| 2026-10-29 21:15:06 | [dejaview-eval](https://crates.io/crates/dejaview-eval) | 0.1.0 | 0 | dejaview evaluation sets, matrix runner, metrics and gates |
-| 2026-10-29 21:19:36 | [sfml3](https://crates.io/crates/sfml3) | 3.1.0 | 0 | Rust binding for sfml |
-| 2026-10-29 21:19:52 | [bevy-game-recorder](https://crates.io/crates/bevy-game-recorder) | 0.1.0 | 0 | Opt-in macOS window and application audio recording for Bevy |
-| 2026-10-29 21:20:19 | [tlaplus-checker](https://crates.io/crates/tlaplus-checker) | 0.1.0 | 0 | The model checker as a library: load, bind, explore and check a specification. |
+| 2026-10-29 21:22:04 | [wintab-sys](https://crates.io/crates/wintab-sys) | 0.1.0 | 0 | Raw bindings for Wacom's Wintab 1.4 tablet API (WINTAB.H, PKTDEF.H), loaded at… |
+| 2026-10-29 21:23:06 | [skillwright](https://crates.io/crates/skillwright) | 0.3.7 | 0 | A command-line tool that publishes a vault of markdown skill notes into the for… |
+| 2026-10-29 21:24:44 | [retex-mp](https://crates.io/crates/retex-mp) | 1.6.0-beta.6 | 0 | MetaPost for retex: the MetaPost language and its mplib library, in process |
+| 2026-10-29 21:26:45 | [wintab](https://crates.io/crates/wintab) | 0.1.1 | 0 | Safe wrapper for Wacom's Wintab 1.4 tablet API |
+| 2026-10-29 21:31:07 | [tlaplus-cli](https://crates.io/crates/tlaplus-cli) | 0.1.0 | 0 | A TLA+ model checker that gives the same answers as TLC |
+| 2026-10-29 21:31:10 | [skot](https://crates.io/crates/skot) | 1.1.0 | 0 | Manage a patch series against an upstream git repository and build easily produ… |
+| 2026-10-29 21:32:37 | [smarthive-auth](https://crates.io/crates/smarthive-auth) | 0.1.0 | 0 | Rust server SDK for SmartHive Auth: access-token verification (JWKS / HS256), s… |
+| 2026-10-29 21:35:49 | [mulch](https://crates.io/crates/mulch) | 0.1.0 | 0 | Native Rust implementation of the mulch structured-expertise format |
+| 2026-10-29 21:41:09 | [pond-rs](https://crates.io/crates/pond-rs) | 0.1.0 | 0 | Time series analytics: rolling windows, calendar buckets in any time zone, join… |
+| 2026-10-29 21:57:56 | [empowerops-rs-utils](https://crates.io/crates/empowerops-rs-utils) | 0.1.2 | 0 | Shared utilities for EmpowerOps Rust projects: semicolon-CSV reporting, delimit… |
+| 2026-10-29 21:58:05 | [gauger](https://crates.io/crates/gauger) | 0.1.0 | 0 | A terminal resource monitor for Docker and Podman |
+| 2026-10-29 21:59:15 | [polyvisor](https://crates.io/crates/polyvisor) | 0.0.1 | 0 | MicroVM orchestration and control plane for Firecracker |
+| 2026-10-29 22:03:21 | [squint-core](https://crates.io/crates/squint-core) | 0.1.0 | 0 | squint core: jobs, obligations, checklist, run loop, verdict (library) |
+| 2026-10-29 22:03:23 | [squint-testkit](https://crates.io/crates/squint-testkit) | 0.1.0 | 0 | squint test support: scripted fake provider, fake tool, fake MCP server |
+| 2026-10-29 22:03:25 | [squint-providers](https://crates.io/crates/squint-providers) | 0.1.0 | 0 | squint provider adapters, endpoint profiles and model catalog |
+| 2026-10-29 22:03:26 | [squint-tools](https://crates.io/crates/squint-tools) | 0.1.0 | 0 | squint built-in tools and MCP client |
+| 2026-10-29 22:12:11 | [hwdata](https://crates.io/crates/hwdata) | 0.1.0 | 0 | hwdata parsing in pure rust, including runtime to reparse |
+| 2026-10-29 22:12:16 | [squint-eval](https://crates.io/crates/squint-eval) | 0.1.0 | 0 | squint evaluation sets, matrix runner, metrics and gates |
+| 2026-10-29 22:14:50 | [nanosuit](https://crates.io/crates/nanosuit) | 0.0.0 | 0 | A simple coding agent. Built with iced. |
+| 2026-10-29 22:16:51 | [squint-cli](https://crates.io/crates/squint-cli) | 0.1.0 | 0 | Agentic harness for evaluating the integrity of images |
 
 ## Data source
 

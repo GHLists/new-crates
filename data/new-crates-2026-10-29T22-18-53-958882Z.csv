@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T21:22:04.745327Z,wintab-sys,0.1.0,0,0,https://github.com/ciart/wintab,"Raw bindings for Wacom's Wintab 1.4 tablet API (WINTAB.H, PKTDEF.H), loaded at run time"
+2026-10-29T21:23:06.472585Z,skillwright,0.3.7,0,0,https://github.com/osdlc/osdlc,"A command-line tool that publishes a vault of markdown skill notes into the formats of coding-agent tools (Claude Code, Codex, Cursor and Pi), checks them for drift, and authors and reorganises the v…"
+2026-10-29T21:24:44.59482Z,retex-mp,1.6.0-beta.6,0,0,https://gitlab.com/severin-lemaignan/retex,"MetaPost for retex: the MetaPost language and its mplib library, in process"
+2026-10-29T21:26:45.383582Z,wintab,0.1.1,0,0,https://github.com/ciart/wintab,Safe wrapper for Wacom's Wintab 1.4 tablet API
+2026-10-29T21:31:07.3543Z,tlaplus-cli,0.1.0,0,0,https://github.com/drbh/tlaplus-rs,A TLA+ model checker that gives the same answers as TLC
+2026-10-29T21:31:10.236383Z,skot,1.1.0,0,0,https://github.com/OmentaElvis/skot,Manage a patch series against an upstream git repository and build easily produce build outputs.
+2026-10-29T21:32:37.557945Z,smarthive-auth,0.1.0,0,0,https://github.com/dhopegraphics/SmartHive-Auth-As-Service,"Rust server SDK for SmartHive Auth: access-token verification (JWKS / HS256), server-side token exchange, and the internal admin API."
+2026-10-29T21:35:49.139583Z,mulch,0.1.0,0,0,https://github.com/denkhaus/mulch,Native Rust implementation of the mulch structured-expertise format
+2026-10-29T21:41:09.313983Z,pond-rs,0.1.0,0,0,https://github.com/pond-ts/pond,"Time series analytics: rolling windows, calendar buckets in any time zone, joins, 109 finance studies and live streams, with Arrow I/O. Same results as pond-ts."
+2026-10-29T21:57:56.154888Z,empowerops-rs-utils,0.1.2,0,0,https://github.com/EmpowerOperations/rs-utils,"Shared utilities for EmpowerOps Rust projects: semicolon-CSV reporting, delimited numeric tables and an FFI locking context."
+2026-10-29T21:58:05.253767Z,gauger,0.1.0,0,0,https://github.com/Adega318/gauger-rs,A terminal resource monitor for Docker and Podman
+2026-10-29T21:59:15.268548Z,polyvisor,0.0.1,0,0,https://github.com/tunahanatalay/polyvisor,MicroVM orchestration and control plane for Firecracker
+2026-10-29T22:03:21.38773Z,squint-core,0.1.0,0,0,https://github.com/markhayden/squint,"squint core: jobs, obligations, checklist, run loop, verdict (library)"
+2026-10-29T22:03:23.501892Z,squint-testkit,0.1.0,0,0,https://github.com/markhayden/squint,"squint test support: scripted fake provider, fake tool, fake MCP server"
+2026-10-29T22:03:25.644694Z,squint-providers,0.1.0,0,0,https://github.com/markhayden/squint,"squint provider adapters, endpoint profiles and model catalog"
+2026-10-29T22:03:26.528305Z,squint-tools,0.1.0,0,0,https://github.com/markhayden/squint,squint built-in tools and MCP client
+2026-10-29T22:12:11.724334Z,hwdata,0.1.0,0,0,https://codeberg.org/kloenk/hwdata-rs,"hwdata parsing in pure rust, including runtime to reparse"
+2026-10-29T22:12:16.866302Z,squint-eval,0.1.0,0,0,https://github.com/markhayden/squint,"squint evaluation sets, matrix runner, metrics and gates"
+2026-10-29T22:14:50.552752Z,nanosuit,0.0.0,0,0,,A simple coding agent. Built with iced.
+2026-10-29T22:16:51.647285Z,squint-cli,0.1.0,0,0,https://github.com/markhayden/squint,Agentic harness for evaluating the integrity of images
