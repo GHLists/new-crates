@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T14:27:05.43624Z,ecat-workflow,8.0.0,0,0,https://github.com/erikwang2013/e-cat,Unified workflow orchestration abstraction for e-cat
+2026-10-29T14:32:29.757487Z,smsant,0.0.0,0,0,https://github.com/ThinkersJournal/smsant,"Placeholder: SMSAnt, a provider-agnostic SMS (and later voice) toolkit, successor to smskit. Not yet released."
+2026-10-29T14:35:51.450513Z,spherical-harmonic-codec,0.1.0,0,0,https://github.com/albbra/spherical-harmonic-codec,"Fast, parallel spherical-harmonic codec for equirectangular RGB images."
+2026-10-29T14:36:34.07018Z,ecat-workflow-airflow,8.0.0,0,0,https://github.com/erikwang2013/e-cat,Apache Airflow workflow adapter for e-cat
+2026-10-29T14:37:01.839177Z,ecat-workflow-dolphinscheduler,8.0.0,0,0,https://github.com/erikwang2013/e-cat,Apache DolphinScheduler workflow adapter for e-cat
+2026-10-29T14:37:41.827008Z,ecat-workflow-azkaban,8.0.0,0,0,https://github.com/erikwang2013/e-cat,Azkaban workflow adapter for e-cat
+2026-10-29T14:38:14.018822Z,qnx2fs,0.1.0,0,0,https://github.com/danifunker/qnx2fs,"Read and write QNX 2 filesystems (QNX 2.x, the Unisys ICON and LEXICON)"
+2026-10-29T14:38:22.193491Z,ecat-workflow-oozie,8.0.0,0,0,https://github.com/erikwang2013/e-cat,Apache Oozie workflow adapter for e-cat
+2026-10-29T14:41:53.961059Z,polaris-tui,0.1.0,0,0,https://github.com/RadiantAILabs/polaris_code,Composable terminal UI for Polaris — plugins contribute in-process ratatui panels to a shared TUI shell.
+2026-10-29T14:41:55.408892Z,polaris_cosmos,0.1.0,0,0,https://github.com/RadiantAILabs/polaris_code,Domain-neutral cognitive models and world-model substrate for Polaris agents
+2026-10-29T14:41:57.477118Z,polaris_ontrace,0.1.0,0,0,https://github.com/RadiantAILabs/polaris_code,Polaris plugin that tails trace streams and builds a temporal knowledge graph via LLM-extracted triples
+2026-10-29T14:42:00.511194Z,polaris_code,0.1.1,0,0,https://github.com/RadiantAILabs/polaris_code,"A composable coding agent: reusable plugins, tools, and graph-driven execution."
+2026-10-29T14:42:28.362435Z,wist-auth,0.1.1,0,0,https://github.com/dayu-sec/wist-auth,Reusable bearer-token authentication + minimal role scopes + failure rate limiting (extracted from wist-center / wist-ingest-ctrl)
+2026-10-29T14:44:07.005981Z,nvim-theme-tui,0.2.0,0,0,https://github.com/MakeMeFifi/nvim-thmepicker-tui,"Interactive Ratatui TUI for browsing, live-previewing, and safely switching LazyVim / Neovim colorschemes from Dotfyle Top & local plugins"
+2026-10-29T14:51:28.568676Z,kap-core,0.1.0,0,0,https://github.com/Manifestro/kap,"Core library for KAP: isolation, history, and decisions for work done by AI agents"
+2026-10-29T14:51:39.012462Z,kap-cli,0.1.0,0,0,https://github.com/Manifestro/kap,Command-line interface for KAP
+2026-10-29T14:52:45.052096Z,meridian-compute-app,0.20.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Compute dispatch runtime: device/context, buffers, and the ComputeKernel interface domain crates (gac-wgpu, future particle-compute/physics-compute/...) implement against. Owns no algorithms of its o…"
+2026-10-29T14:52:48.894825Z,meridian-diagnostics,0.7.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Zero-dependency foundational types shared workspace-wide: error conventions, the log kernel and its LogSink port, feature-detection primitives."
+2026-10-29T14:52:57.212099Z,meridian-asset-domain,0.13.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Loading and decoding of images, meshes, audio, shaders and binary formats. Does not manage ownership or lifetime of loaded data."
+2026-10-29T14:53:17.043606Z,meridian-asset-app,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Asset loading ports: where bytes come from, where background work runs, and the loader that decodes off the frame thread."
+2026-10-29T14:54:06.268965Z,meridian-asset-http,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,HTTP adapter for asset-app: reads asset bytes from a web server over http or https.
+2026-10-29T14:54:24.531875Z,nirs4all-hdf5-reader,0.9.3-nirs4all.1,0,0,https://github.com/GBeurier/nirs4all-formats,nirs4all maintained security backport of hdf5-reader 0.9.3; see PROVENANCE.json
+2026-10-29T14:54:54.610662Z,nirs4all-netcdf-reader,0.9.3-nirs4all.1,0,0,https://github.com/GBeurier/nirs4all-formats,nirs4all maintained security backport of netcdf-reader 0.9.3; see PROVENANCE.json
+2026-10-29T14:55:32.61913Z,tauri-plugin-passkey,0.1.0-alpha.1,0,0,https://github.com/dkackman/tauri-plugin-passkey,"Tauri plugin for WebAuthn / passkey (FIDO2) authentication on macOS, iOS, Windows, Android, and Linux."
+2026-10-29T15:00:16.103567Z,wyrddb,0.0.0,0,0,https://github.com/WyrdDB/wyrddb,"WyrdDB: decentralized, offline-first CRDT property graph database (name reservation; pre-alpha, not yet published)"
+2026-10-29T15:08:42.309049Z,amont-slots,1.62.0,0,0,https://github.com/fredericrous/amont,Host slots: one machine-wide queue every heavy job on the host takes its turn in
+2026-10-29T15:10:59.54559Z,babashka-pod,0.1.0,0,0,https://github.com/joshrotenberg/babashka-pod,Write babashka pods in Rust

@@ -8,55 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 14:21 UTC
+## Latest list — 2026-10-29 15:20 UTC
 
-New crates published between 2026-10-29 13:20 UTC and 2026-10-29 14:21 UTC.
+New crates published between 2026-10-29 14:21 UTC and 2026-10-29 15:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-29T14-21-28-953858Z.csv)
+[Full CSV](data/new-crates-2026-10-29T15-20-32-523435Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-29 13:25:30 | [scp-dev-core](https://crates.io/crates/scp-dev-core) | 0.4.1 | 0 | SCP protocol types, limits, addresses and scope rules shared by the relay and b… |
-| 2026-10-29 13:34:01 | [monochromatic-mpm-shadow](https://crates.io/crates/monochromatic-mpm-shadow) | 0.1.1 | 0 | Shadows mpm: runs the real mpm, then deletes the superseded cached versions of… |
-| 2026-10-29 13:34:38 | [proxy-addr](https://crates.io/crates/proxy-addr) | 0.1.0 | 0 | Determine the client address behind a reverse proxy: walk X-Forwarded-For from… |
-| 2026-10-29 13:36:06 | [roundhouse-macros](https://crates.io/crates/roundhouse-macros) | 0.1.0 | 0 | Proc macros for roundhouse: routes!, mount!, #[handler] and the derives. |
-| 2026-10-29 13:36:07 | [roundhouse-schema](https://crates.io/crates/roundhouse-schema) | 0.1.0 | 0 | Schema derivation, constraints and validation for roundhouse. |
-| 2026-10-29 13:36:10 | [roundhouse-problem](https://crates.io/crates/roundhouse-problem) | 0.1.0 | 0 | The RFC 9457 problem response shared by roundhouse and its satellites. |
-| 2026-10-29 13:36:12 | [roundhouse-multipart](https://crates.io/crates/roundhouse-multipart) | 0.1.0 | 0 | Typed multipart extraction for roundhouse. |
-| 2026-10-29 13:36:15 | [roundhouse](https://crates.io/crates/roundhouse) | 0.1.0 | 0 | An OpenAPI-first axum framework: declarations in, router and document out. |
-| 2026-10-29 13:39:59 | [recern-vector-client](https://crates.io/crates/recern-vector-client) | 0.4.0 | 0 | Portable embedded, Recern HTTP and Qdrant clients |
-| 2026-10-29 13:40:00 | [recern-vector-server](https://crates.io/crates/recern-vector-server) | 0.4.0 | 0 | Single-node HTTP server for Recern Vector |
-| 2026-10-29 13:42:07 | [rolldown_devtools_metrics](https://crates.io/crates/rolldown_devtools_metrics) | 1.2.16 | 0 | In-memory aggregation of Rolldown devtools events into an agent-readable metric… |
-| 2026-10-29 13:42:20 | [uhoh-macros](https://crates.io/crates/uhoh-macros) | 0.1.1 | 0 | Derive macros for uhoh application errors |
-| 2026-10-29 13:42:22 | [uhoh](https://crates.io/crates/uhoh) | 0.1.1 | 0 | Derive consistent application errors with stable codes and optional HTTP respon… |
-| 2026-10-29 13:43:11 | [agent-receipt](https://crates.io/crates/agent-receipt) | 0.2.0 | 0 | Claude Code and Codex Stop hook that blocks hallucinated completion: "tests pas… |
-| 2026-10-29 13:43:18 | [trustsweep](https://crates.io/crates/trustsweep) | 0.2.0 | 0 | Find CA bundles inside venvs, node_modules, wheels, jars, container image layer… |
-| 2026-10-29 13:43:26 | [rust1100-check](https://crates.io/crates/rust1100-check) | 0.2.0 | 0 | Check a Rust repo's CI YAML, rust-toolchain inputs, MSRV scripts and Cargo.lock… |
-| 2026-10-29 13:43:30 | [bbhost-check](https://crates.io/crates/bbhost-check) | 0.1.0 | 0 | Find Git-over-SSH uses of bitbucket.org (remotes, submodules, ~/.ssh/config, kn… |
-| 2026-10-29 13:43:35 | [clonewatch](https://crates.io/crates/clonewatch) | 0.1.0 | 0 | Find fake repos impersonating your GitHub project: non-fork clones that share y… |
-| 2026-10-29 13:44:48 | [markitdown-core](https://crates.io/crates/markitdown-core) | 0.2.0 | 0 | Convert PDF, Word, PowerPoint, Excel, HTML, EPUB, Outlook and more to Markdown,… |
-| 2026-10-29 13:49:36 | [limu-scene](https://crates.io/crates/limu-scene) | 0.1.0 | 0 | The scene limu lays a diagram out as, its style, and the drawing every backend… |
-| 2026-10-29 13:49:39 | [limu](https://crates.io/crates/limu) | 0.1.0 | 0 | A diagram layout engine. It reads Mermaid and leaves the drawing to your progra… |
-| 2026-10-29 13:49:41 | [limu-ascii](https://crates.io/crates/limu-ascii) | 0.1.0 | 0 | Draws limu's scenes as text in a grid of cells, for terminals. |
-| 2026-10-29 13:49:43 | [limu-coregraphics](https://crates.io/crates/limu-coregraphics) | 0.1.0 | 0 | Draws limu's scenes with Core Graphics, measuring text with Core Text. |
-| 2026-10-29 13:49:44 | [limu-tiny-skia](https://crates.io/crates/limu-tiny-skia) | 0.1.0 | 0 | Draws limu's scenes into tiny-skia pixmaps, with text shaped by rustybuzz. |
-| 2026-10-29 13:54:45 | [markitdown-rs](https://crates.io/crates/markitdown-rs) | 0.2.0 | 0 | markitdown CLI in one binary: convert PDF, DOCX, PPTX, XLSX, HTML, EPUB and URL… |
-| 2026-10-29 13:56:29 | [contains-match](https://crates.io/crates/contains-match) | 0.1.0 | 0 | Similar to shell glob, more simplified, mainly 'contains' matching |
-| 2026-10-29 14:00:01 | [limu-gpui](https://crates.io/crates/limu-gpui) | 0.1.0 | 0 | Draws limu's scenes in GPUI windows, measuring text with GPUI's text system. |
-| 2026-10-29 14:01:41 | [element77](https://crates.io/crates/element77) | 0.0.0 | 0 | Official Rust SDK for Element 77 (element77.ai). Reserved for the official Elem… |
-| 2026-10-29 14:01:56 | [e77](https://crates.io/crates/e77) | 0.0.0 | 0 | Short alias for the Element 77 Rust SDK (element77.ai). Reserved for the offici… |
-| 2026-10-29 14:03:33 | [aither-patch](https://crates.io/crates/aither-patch) | 0.0.0 | 0 | apply_patch: sandbox-executed compact contextual patch utility |
-| 2026-10-29 14:09:05 | [sirocco-core](https://crates.io/crates/sirocco-core) | 0.1.0 | 0 | Sirocco algorithms: hashing, entropy, delta estimation, planning |
-| 2026-10-29 14:09:07 | [sirocco-sys](https://crates.io/crates/sirocco-sys) | 0.1.0 | 0 | Raw platform layer for Sirocco: direct I/O, IOCP, io_uring, affinity, privileges |
-| 2026-10-29 14:09:13 | [sirocco-engine](https://crates.io/crates/sirocco-engine) | 0.1.0 | 0 | Sirocco copy engine: reader/writer/verifier pipeline |
-| 2026-10-29 14:09:20 | [sirocco-cli](https://crates.io/crates/sirocco-cli) | 0.1.0 | 0 | Sirocco command line interface |
-| 2026-10-29 14:09:22 | [sirocco-gui](https://crates.io/crates/sirocco-gui) | 0.1.0 | 0 | Sirocco desktop application |
-| 2026-10-29 14:19:33 | [stradler](https://crates.io/crates/stradler) | 0.0.0 | 0 | Strata handler: layered data-structure and workflow framework (name reservation… |
-| 2026-10-29 14:19:53 | [enkindle-build](https://crates.io/crates/enkindle-build) | 1.30.0 | 0 | Build-time discovery and validation of the EFL for the enkindle crates |
-| 2026-10-29 14:19:56 | [enkindle-sys](https://crates.io/crates/enkindle-sys) | 1.30.0 | 0 | Raw FFI declarations for the Enlightenment Foundation Libraries (EFL) |
-| 2026-10-29 14:19:58 | [enkindle](https://crates.io/crates/enkindle) | 1.30.0 | 0 | Safe Rust bindings for the Enlightenment Foundation Libraries (EFL) |
-| 2026-10-29 14:19:59 | [tecdsa-core](https://crates.io/crates/tecdsa-core) | 0.1.0 | 0 | 2PC ECDSA at the cost of 1 OLE: core math and protocols |
-| 2026-10-29 14:20:08 | [buddler](https://crates.io/crates/buddler) | 0.0.1 | 0 | Buddler – forensic artifact discovery for mobile and desktop images (early plac… |
+| 2026-10-29 14:27:05 | [ecat-workflow](https://crates.io/crates/ecat-workflow) | 8.0.0 | 0 | Unified workflow orchestration abstraction for e-cat |
+| 2026-10-29 14:32:29 | [smsant](https://crates.io/crates/smsant) | 0.0.0 | 0 | Placeholder: SMSAnt, a provider-agnostic SMS (and later voice) toolkit, success… |
+| 2026-10-29 14:35:51 | [spherical-harmonic-codec](https://crates.io/crates/spherical-harmonic-codec) | 0.1.0 | 0 | Fast, parallel spherical-harmonic codec for equirectangular RGB images. |
+| 2026-10-29 14:36:34 | [ecat-workflow-airflow](https://crates.io/crates/ecat-workflow-airflow) | 8.0.0 | 0 | Apache Airflow workflow adapter for e-cat |
+| 2026-10-29 14:37:01 | [ecat-workflow-dolphinscheduler](https://crates.io/crates/ecat-workflow-dolphinscheduler) | 8.0.0 | 0 | Apache DolphinScheduler workflow adapter for e-cat |
+| 2026-10-29 14:37:41 | [ecat-workflow-azkaban](https://crates.io/crates/ecat-workflow-azkaban) | 8.0.0 | 0 | Azkaban workflow adapter for e-cat |
+| 2026-10-29 14:38:14 | [qnx2fs](https://crates.io/crates/qnx2fs) | 0.1.0 | 0 | Read and write QNX 2 filesystems (QNX 2.x, the Unisys ICON and LEXICON) |
+| 2026-10-29 14:38:22 | [ecat-workflow-oozie](https://crates.io/crates/ecat-workflow-oozie) | 8.0.0 | 0 | Apache Oozie workflow adapter for e-cat |
+| 2026-10-29 14:41:53 | [polaris-tui](https://crates.io/crates/polaris-tui) | 0.1.0 | 0 | Composable terminal UI for Polaris — plugins contribute in-process ratatui pane… |
+| 2026-10-29 14:41:55 | [polaris_cosmos](https://crates.io/crates/polaris_cosmos) | 0.1.0 | 0 | Domain-neutral cognitive models and world-model substrate for Polaris agents |
+| 2026-10-29 14:41:57 | [polaris_ontrace](https://crates.io/crates/polaris_ontrace) | 0.1.0 | 0 | Polaris plugin that tails trace streams and builds a temporal knowledge graph v… |
+| 2026-10-29 14:42:00 | [polaris_code](https://crates.io/crates/polaris_code) | 0.1.1 | 0 | A composable coding agent: reusable plugins, tools, and graph-driven execution. |
+| 2026-10-29 14:42:28 | [wist-auth](https://crates.io/crates/wist-auth) | 0.1.1 | 0 | Reusable bearer-token authentication + minimal role scopes + failure rate limit… |
+| 2026-10-29 14:44:07 | [nvim-theme-tui](https://crates.io/crates/nvim-theme-tui) | 0.2.0 | 0 | Interactive Ratatui TUI for browsing, live-previewing, and safely switching Laz… |
+| 2026-10-29 14:51:28 | [kap-core](https://crates.io/crates/kap-core) | 0.1.0 | 0 | Core library for KAP: isolation, history, and decisions for work done by AI age… |
+| 2026-10-29 14:51:39 | [kap-cli](https://crates.io/crates/kap-cli) | 0.1.0 | 0 | Command-line interface for KAP |
+| 2026-10-29 14:52:45 | [meridian-compute-app](https://crates.io/crates/meridian-compute-app) | 0.20.0 | 0 | Compute dispatch runtime: device/context, buffers, and the ComputeKernel interf… |
+| 2026-10-29 14:52:48 | [meridian-diagnostics](https://crates.io/crates/meridian-diagnostics) | 0.7.0 | 0 | Zero-dependency foundational types shared workspace-wide: error conventions, th… |
+| 2026-10-29 14:52:57 | [meridian-asset-domain](https://crates.io/crates/meridian-asset-domain) | 0.13.0 | 0 | Loading and decoding of images, meshes, audio, shaders and binary formats. Does… |
+| 2026-10-29 14:53:17 | [meridian-asset-app](https://crates.io/crates/meridian-asset-app) | 0.1.0 | 0 | Asset loading ports: where bytes come from, where background work runs, and the… |
+| 2026-10-29 14:54:06 | [meridian-asset-http](https://crates.io/crates/meridian-asset-http) | 0.1.0 | 0 | HTTP adapter for asset-app: reads asset bytes from a web server over http or ht… |
+| 2026-10-29 14:54:24 | [nirs4all-hdf5-reader](https://crates.io/crates/nirs4all-hdf5-reader) | 0.9.3-nirs4all.1 | 0 | nirs4all maintained security backport of hdf5-reader 0.9.3; see PROVENANCE.json |
+| 2026-10-29 14:54:54 | [nirs4all-netcdf-reader](https://crates.io/crates/nirs4all-netcdf-reader) | 0.9.3-nirs4all.1 | 0 | nirs4all maintained security backport of netcdf-reader 0.9.3; see PROVENANCE.js… |
+| 2026-10-29 14:55:32 | [tauri-plugin-passkey](https://crates.io/crates/tauri-plugin-passkey) | 0.1.0-alpha.1 | 0 | Tauri plugin for WebAuthn / passkey (FIDO2) authentication on macOS, iOS, Windo… |
+| 2026-10-29 15:00:16 | [wyrddb](https://crates.io/crates/wyrddb) | 0.0.0 | 0 | WyrdDB: decentralized, offline-first CRDT property graph database (name reserva… |
+| 2026-10-29 15:08:42 | [amont-slots](https://crates.io/crates/amont-slots) | 1.62.0 | 0 | Host slots: one machine-wide queue every heavy job on the host takes its turn in |
+| 2026-10-29 15:10:59 | [babashka-pod](https://crates.io/crates/babashka-pod) | 0.1.0 | 0 | Write babashka pods in Rust |
 
 ## Data source
 
