@@ -8,73 +8,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 10:21 UTC
+## Latest list — 2026-10-29 11:21 UTC
 
-New crates published between 2026-10-29 09:20 UTC and 2026-10-29 10:21 UTC.
+New crates published between 2026-10-29 10:21 UTC and 2026-10-29 11:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-29T10-21-09-576252Z.csv)
+[Full CSV](data/new-crates-2026-10-29T11-21-02-243412Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-29 09:23:35 | [cpp_formatter](https://crates.io/crates/cpp_formatter) | 0.1.1 | 0 | A C++ formatter with clang-format's configuration surface. |
-| 2026-10-29 09:24:50 | [infr-engine](https://crates.io/crates/infr-engine) | 0.2.0 | 0 | Chat text logic shared by infr's run and serve commands |
-| 2026-10-29 09:27:40 | [zerodds-lang-cst](https://crates.io/crates/zerodds-lang-cst) | 1.0.0-rc.7 | 0 | Concrete syntax trees for the 21 target languages of Language::ALL. Built, neve… |
-| 2026-10-29 09:30:12 | [stylo_takia](https://crates.io/crates/stylo_takia) | 0.3.0-beta.4 | 0 | Interop crate for the stylo and takia crates |
-| 2026-10-29 09:30:16 | [vikron-nt](https://crates.io/crates/vikron-nt) | 0.1.0 | 0 | Vikron Catalog integration compatible with NautilusTrader. Vikron independently… |
-| 2026-10-29 09:30:40 | [t1-cli](https://crates.io/crates/t1-cli) | 0.1.1 | 0 | Agent-first pastebin CLI for t1-paste |
-| 2026-10-29 09:32:43 | [fornace](https://crates.io/crates/fornace) | 0.0.1 | 0 | small models |
-| 2026-10-29 09:32:59 | [fuyubot-sdk-cli](https://crates.io/crates/fuyubot-sdk-cli) | 0.1.2 | 0 | fuyubot-sdk：插件开发 CLI（脚手架 / ABI 绑定 / 静态检查 / TDLib 方法查询） |
-| 2026-10-29 09:34:50 | [crcbl-profile](https://crates.io/crates/crcbl-profile) | 0.13.0 | 0 | Crucible profiler captures: the file a profiling run writes and every viewer re… |
-| 2026-10-29 09:35:25 | [fornace-engine](https://crates.io/crates/fornace-engine) | 0.0.1 | 0 | fornace engine |
-| 2026-10-29 09:37:57 | [omnifind](https://crates.io/crates/omnifind) | 0.1.1 | 0 | Async metasearch and web-content extraction powered by primp |
-| 2026-10-29 09:38:51 | [zerodds-lang-render](https://crates.io/crates/zerodds-lang-render) | 1.0.0-rc.7 | 0 | Renders a language CST to text. Decides nothing: every decision sits in a rule… |
-| 2026-10-29 09:40:17 | [apace-dom](https://crates.io/crates/apace-dom) | 0.3.0-beta.4 | 0 | Apace DOM implementation |
-| 2026-10-29 09:40:53 | [cpp_code_analysis](https://crates.io/crates/cpp_code_analysis) | 0.1.1 | 0 | The analysis layer of cpp_ls: the preprocessor, symbol scopes, type inference a… |
-| 2026-10-29 09:41:10 | [tree-sitter-angular-html](https://crates.io/crates/tree-sitter-angular-html) | 0.2.0 | 0 | Tree-sitter grammar for Angular HTML templates |
-| 2026-10-29 09:41:19 | [cpp_ls](https://crates.io/crates/cpp_ls) | 0.1.1 | 0 | A C, C++ and CUDA language server. |
-| 2026-10-29 09:44:05 | [inset-single-instance](https://crates.io/crates/inset-single-instance) | 0.15.0 | 0 | One instance of an Inset app: later launches hand what they open to the first |
-| 2026-10-29 09:44:51 | [infr-server](https://crates.io/crates/infr-server) | 0.2.0 | 0 | OpenAI-compatible HTTP server for the infr LLM inference engine |
-| 2026-10-29 09:45:25 | [inset-markdown](https://crates.io/crates/inset-markdown) | 0.15.0 | 0 | Markdown widgets for Inset, with flutter_markdown's API ideas and look, built o… |
-| 2026-10-29 09:48:25 | [gpui-rio](https://crates.io/crates/gpui-rio) | 0.1.0 | 0 | Embeddable Rio terminal component for GPUI |
-| 2026-10-29 09:50:12 | [apace-paint](https://crates.io/crates/apace-paint) | 0.3.0-beta.4 | 0 | Paint a Apace Document using anyrender |
-| 2026-10-29 09:53:00 | [pullorg](https://crates.io/crates/pullorg) | 0.1.0 | 0 | A pull parser for Org-mode, in the style of pulldown-cmark, with an HTML render… |
-| 2026-10-29 09:53:46 | [blockcarve](https://crates.io/crates/blockcarve) | 0.1.0 | 0 | Block-wise signature carving for forensic images, live volumes and memory blobs… |
-| 2026-10-29 09:54:55 | [infr-llama](https://crates.io/crates/infr-llama) | 0.2.0 | 0 | Transformer model runner for infr over its CPU, Vulkan and Metal backends |
-| 2026-10-29 09:56:32 | [lapis-ai-app-tools](https://crates.io/crates/lapis-ai-app-tools) | 0.2.0 | 0 | Bounded injectable MCP stdio transport for native application tools |
-| 2026-10-29 09:56:33 | [lapis-ai-capture](https://crates.io/crates/lapis-ai-capture) | 0.2.0 | 0 | Bounded read-only discovery and acquisition of external agent sessions |
-| 2026-10-29 09:56:39 | [lapis-ai-runtime](https://crates.io/crates/lapis-ai-runtime) | 0.2.0 | 0 | Supervised native ACP, agent and compute clients for Rust applications |
-| 2026-10-29 09:56:42 | [lapis-acp-testkit](https://crates.io/crates/lapis-acp-testkit) | 0.2.0 | 0 | Deterministic model-free ACP fixtures for integration testing |
-| 2026-10-29 09:56:42 | [lapis-ai-service](https://crates.io/crates/lapis-ai-service) | 0.2.0 | 0 | Transport-independent host-admitted Lapis ACP session service |
-| 2026-10-29 09:56:48 | [rgrp](https://crates.io/crates/rgrp) | 0.1.0 | 0 | A small, parallel grep-like line search tool that can also search inside zip/ta… |
-| 2026-10-29 09:57:59 | [temple-vault](https://crates.io/crates/temple-vault) | 0.1.0 | 0 | Encrypted storage with plausible deniability: one file, any number of spaces, e… |
-| 2026-10-29 09:58:26 | [kashika-diag](https://crates.io/crates/kashika-diag) | 0.1.0-dev0 | 0 | Diagnostics, severities, source spans and the lint code list for the Kashika di… |
-| 2026-10-29 09:58:27 | [kashika-geom](https://crates.io/crates/kashika-geom) | 0.1.0-dev0 | 0 | Geometry for Kashika: points, rects, path flattening, rounded corners, intersec… |
-| 2026-10-29 09:58:29 | [kashika-syntax](https://crates.io/crates/kashika-syntax) | 0.1.0-dev0 | 0 | Lexer, parser, AST and whitespace-only formatter for the Kashika diagram langua… |
-| 2026-10-29 09:58:30 | [kashika-text](https://crates.io/crates/kashika-text) | 0.1.0-dev0 | 0 | Bundled fonts, inline markup, text measurement, block layout and glyph outlines… |
-| 2026-10-29 09:58:33 | [kashika-model](https://crates.io/crates/kashika-model) | 0.1.0-dev0 | 0 | Resolver that turns Kashika source into a laid-out scene, with built-in shapes,… |
-| 2026-10-29 09:59:49 | [havok-cloth](https://crates.io/crates/havok-cloth) | 0.1.0 | 0 | Havok cloth simulation as Sekiro and Elden Ring run it, from the cloth data hav… |
-| 2026-10-29 10:00:12 | [apace-html](https://crates.io/crates/apace-html) | 0.3.0-beta.4 | 0 | Apace HTML parser |
-| 2026-10-29 10:01:15 | [php-canon](https://crates.io/crates/php-canon) | 0.1.0 | 0 | PHP source → structural canonicalization + file-scope definition scan (tree-sit… |
-| 2026-10-29 10:04:32 | [kashika-check](https://crates.io/crates/kashika-check) | 0.1.0-dev0 | 0 | Geometry lints, suppression and metrics for Kashika diagrams |
-| 2026-10-29 10:04:52 | [infr-cli](https://crates.io/crates/infr-cli) | 0.2.0 | 0 | Pure-Rust LLM inference engine with an OpenAI-compatible server (the infr binar… |
-| 2026-10-29 10:07:37 | [zerodds-wire](https://crates.io/crates/zerodds-wire) | 1.0.0-rc.7 | 0 | The runtime the generated encoders call: XCDR1 and XCDR2 writers and readers, a… |
-| 2026-10-29 10:08:34 | [minuta](https://crates.io/crates/minuta) | 0.1.0 | 0 | Turn meeting recordings into transcripts and minutes |
-| 2026-10-29 10:10:06 | [sylphx-keel-oidc](https://crates.io/crates/sylphx-keel-oidc) | 0.1.5880 | 0 | Sans-I/O OpenID Connect client protocol: PKCE S256, state and nonce, authorizat… |
-| 2026-10-29 10:10:09 | [sylphx-keel-web](https://crates.io/crates/sylphx-keel-web) | 0.1.5880 | 0 | The DOM projection (DomOp, HTML, DOM patches) and websites: nested routes, type… |
-| 2026-10-29 10:10:12 | [apace-net](https://crates.io/crates/apace-net) | 0.3.0-beta.4 | 0 | Apace networking |
-| 2026-10-29 10:10:13 | [sylphx-keel-app](https://crates.io/crates/sylphx-keel-app) | 0.1.5880 | 0 | Application host: ProductRoot sessions, launch and LaunchSpec, the World Runtim… |
-| 2026-10-29 10:10:16 | [sylphx-keel-build](https://crates.io/crates/sylphx-keel-build) | 0.1.5880 | 0 | Interior build mode: grid and free placement with overlap checks, walls with do… |
-| 2026-10-29 10:10:19 | [sylphx-keel-journal](https://crates.io/crates/sylphx-keel-journal) | 0.1.5880 | 0 | Replay journals: a ring buffer of a title's intents with optional snapshots, an… |
-| 2026-10-29 10:11:06 | [sylphx-keel-play](https://crates.io/crates/sylphx-keel-play) | 0.1.5880 | 0 | Pure play contract shared by the CLI, the runtime and the verifier (ADR-0884):… |
-| 2026-10-29 10:14:24 | [kashika-render](https://crates.io/crates/kashika-render) | 0.1.0-dev0 | 0 | Renders Kashika scenes to SVG, PNG, JPEG and WebP |
-| 2026-10-29 10:17:21 | [samlinter](https://crates.io/crates/samlinter) | 0.1.0 | 0 | Syntax gate for Rust code rules clippy cannot express: rest patterns, restricte… |
-| 2026-10-29 10:20:03 | [msime-path-trust](https://crates.io/crates/msime-path-trust) | 0.1.0 | 0 | The one list of system symbolic links a storage path may pass through, and the… |
-| 2026-10-29 10:20:07 | [msime-engine](https://crates.io/crates/msime-engine) | 0.1.0 | 0 | Input method engine for Chinese and other languages: quanpin, shuangpin, nine-k… |
-| 2026-10-29 10:20:09 | [msime-engine-capi](https://crates.io/crates/msime-engine-capi) | 0.1.0 | 0 | C ABI of the 水杉输入法 (Metasequoia IME) input engine: sessions, keys, candidates,… |
-| 2026-10-29 10:20:12 | [apace-shell](https://crates.io/crates/apace-shell) | 0.3.0-beta.4 | 0 | Apace application shell |
-| 2026-10-29 10:20:26 | [wukuro-macro](https://crates.io/crates/wukuro-macro) | 0.3.0 | 0 | Procedural macros of Wukuro |
-| 2026-10-29 10:20:28 | [wukuro](https://crates.io/crates/wukuro) | 0.3.0 | 0 | Guest library of Wukuro, an event scripting framework for Unity based on WaaS |
-| 2026-10-29 10:20:30 | [wukuro-dialog](https://crates.io/crates/wukuro-dialog) | 0.3.0 | 0 | Dialog functions of Wukuro |
+| 2026-10-29 10:21:11 | [sylphx-keel-commerce](https://crates.io/crates/sylphx-keel-commerce) | 0.1.5880 | 0 | Store services: purchases (IapPort, EntitlementPort), ads (AdsPort), sign-in (A… |
+| 2026-10-29 10:22:33 | [datafusion-table-providers-cassandra](https://crates.io/crates/datafusion-table-providers-cassandra) | 0.15.0 | 0 | DataFusion Apache Cassandra table provider |
+| 2026-10-29 10:22:42 | [pagepile](https://crates.io/crates/pagepile) | 0.1.0 | 0 | Client for PagePile, the lists of wiki pages on Wikimedia Toolforge |
+| 2026-10-29 10:23:16 | [polybridge-macros](https://crates.io/crates/polybridge-macros) | 0.0.0 | 0 | placeholder |
+| 2026-10-29 10:24:24 | [kashika-route](https://crates.io/crates/kashika-route) | 0.1.0-dev0 | 0 | Line route suggestions for Kashika diagrams, ranked by the checker's findings |
+| 2026-10-29 10:26:15 | [hyperspace-connect](https://crates.io/crates/hyperspace-connect) | 4.2.0 | 0 | Zero-ETL Universal Data Bridge & Graph/Vector Migrator for HyperspaceDB (Neo4j/… |
+| 2026-10-29 10:26:23 | [hyperspace-otel](https://crates.io/crates/hyperspace-otel) | 4.2.0 | 0 | OpenTelemetry (OTLP) Collector Sink, Microservice KAG Topology Builder & Hyperb… |
+| 2026-10-29 10:26:29 | [duckdb-hyperspace](https://crates.io/crates/duckdb-hyperspace) | 4.2.0 | 0 | DuckDB & Apache Arrow IPC Zero-Copy Analytics Extension for HyperspaceDB |
+| 2026-10-29 10:27:09 | [cardealer](https://crates.io/crates/cardealer) | 0.5.0 | 0 | Fairspec cardealer extension |
+| 2026-10-29 10:28:33 | [clifacet](https://crates.io/crates/clifacet) | 0.0.0 | 0 | placeholder |
+| 2026-10-29 10:28:43 | [clifacet-macros](https://crates.io/crates/clifacet-macros) | 0.0.0 | 0 | placeholder |
+| 2026-10-29 10:29:14 | [hufu](https://crates.io/crates/hufu) | 0.3.0 | 0 | Credential-free, independently verifiable evidence trail for irreversible opera… |
+| 2026-10-29 10:30:12 | [apace](https://crates.io/crates/apace) | 0.3.0-beta.4 | 0 | High-level APIs for rendering HTML with Apace |
+| 2026-10-29 10:30:43 | [zerodds-wire-codec](https://crates.io/crates/zerodds-wire-codec) | 1.0.0-rc.7 | 0 | Executes an ast-layout plan against a value, in both directions, over any value… |
+| 2026-10-29 10:31:08 | [sylphx-keel-update](https://crates.io/crates/sylphx-keel-update) | 0.1.5880 | 0 | Keel desktop app updates: signed update feeds, update packages with binary delt… |
+| 2026-10-29 10:33:04 | [zerodds-idl-compose](https://crates.io/crates/zerodds-idl-compose) | 1.0.0-rc.7 | 0 | The shared IDL composition pipeline: include paths, preprocess, parse, lower an… |
+| 2026-10-29 10:34:22 | [kashika](https://crates.io/crates/kashika) | 0.1.0-dev0 | 0 | A text-to-diagram language for technical designs: check and render .kash files… |
+| 2026-10-29 10:34:24 | [zerodds-lang-rules](https://crates.io/crates/zerodds-lang-rules) | 1.0.0-rc.7 | 0 | Maps the common AST onto the language CSTs through rules that are data, not cod… |
+| 2026-10-29 10:35:42 | [zerodds-build](https://crates.io/crates/zerodds-build) | 1.0.0-rc.7 | 0 | A build.rs helper for ZeroDDS IDL: one Rust module per .idl, with #include depe… |
+| 2026-10-29 10:35:43 | [zzq-disk](https://crates.io/crates/zzq-disk) | 0.4.0 | 0 | Durable append-only journals for zzq, written with Linux AIO. |
+| 2026-10-29 10:36:12 | [es8389](https://crates.io/crates/es8389) | 0.1.0 | 0 | no_std async driver for the Everest Semiconductor ES8389 audio codec |
+| 2026-10-29 10:36:47 | [ic-logging](https://crates.io/crates/ic-logging) | 0.17.1 | 0 | Bounded application logs with explicit retention and scan limits |
+| 2026-10-29 10:37:11 | [spiral-datafusion](https://crates.io/crates/spiral-datafusion) | 0.1.11 | 0 | DataFusion table provider for immutable Spiral SDK tables |
+| 2026-10-29 10:37:59 | [zerodds-proto](https://crates.io/crates/zerodds-proto) | 1.0.0-rc.7 | 0 | Protocol Buffers type reuse for DDS: FileDescriptorSet -> XTypes DynamicType, s… |
+| 2026-10-29 10:41:09 | [sylphx-keel-pack](https://crates.io/crates/sylphx-keel-pack) | 0.1.5880 | 0 | Title packager: desktop bundles, web pages and sites, and Android and iOS proje… |
+| 2026-10-29 10:42:13 | [rostfrei-runtime](https://crates.io/crates/rostfrei-runtime) | 0.1.3 | 0 | Transport-independent application runtime for Rostfrei adapters |
+| 2026-10-29 10:45:20 | [lattice-sql-client](https://crates.io/crates/lattice-sql-client) | 1.10.1 | 0 | Typed Rust client SDK for lattice-sql — SQL frontend for lattice-db |
+| 2026-10-29 10:51:06 | [sylphx-keel-mind](https://crates.io/crates/sylphx-keel-mind) | 0.1.5880 | 0 | Optional, provider-agnostic toolkit for characters driven by language models: a… |
+| 2026-10-29 10:57:57 | [glory-style](https://crates.io/crates/glory-style) | 0.6.0 | 0 | Backend independent style values for Glory semantic UI |
+| 2026-10-29 10:58:02 | [glory-render](https://crates.io/crates/glory-render) | 0.6.0 | 0 | Semantic rendering contracts and reference interpreter for Glory |
+| 2026-10-29 11:00:11 | [glory-resource](https://crates.io/crates/glory-resource) | 0.6.0 | 0 | Explicit request-scoped resource snapshots for Glory |
+| 2026-10-29 11:01:06 | [sylphx-keel-transport](https://crates.io/crates/sylphx-keel-transport) | 0.1.5880 | 0 | Multiplayer wire layer: datagram ports (memory, UDP, WebSocket, QUIC), Endpoint… |
+| 2026-10-29 11:02:17 | [psmc-rs](https://crates.io/crates/psmc-rs) | 0.2.0 | 0 | PSMC (Li and Durbin 2011): infers the history of effective population size from… |
+| 2026-10-29 11:02:31 | [monochromatic-search-shadow](https://crates.io/crates/monochromatic-search-shadow) | 0.1.1 | 0 | Shadows rg, grep and find: runs the real tool at the lowest best-effort disk pr… |
+| 2026-10-29 11:07:44 | [zerodds-opcua-bridge](https://crates.io/crates/zerodds-opcua-bridge) | 1.0.0-rc.7 | 0 | OMG DDS-OPCUA Gateway 1.0 daemon: opc.tcp server + client + Part-14 UADP PubSub… |
+| 2026-10-29 11:10:12 | [glory-i18n](https://crates.io/crates/glory-i18n) | 0.6.0 | 0 | Explicit Fluent catalogs and owned reactive messages for Glory |
+| 2026-10-29 11:11:08 | [sylphx-keel-replicate](https://crates.io/crates/sylphx-keel-replicate) | 0.1.5880 | 0 | Replication: ECS snapshot delta replication, spatial hysteresis and named-group… |
+| 2026-10-29 11:11:10 | [flashblocks](https://crates.io/crates/flashblocks) | 0.1.1 | 0 | Decode Base Flashblocks in real time: Chainlink price updates straight from the… |
+| 2026-10-29 11:17:34 | [cpe-rs-fork](https://crates.io/crates/cpe-rs-fork) | 0.2.0 | 0 | CPE 2.2 and 2.3 handling in Rust |
+| 2026-10-29 11:19:22 | [zerodds-wire-probe](https://crates.io/crates/zerodds-wire-probe) | 1.0.0-rc.7 | 0 | Turns one IDL type and one JSON value into wire bytes, for the interop suite |
+| 2026-10-29 11:20:12 | [glory-ui](https://crates.io/crates/glory-ui) | 0.6.0 | 0 | Pure Rust semantic widgets and windowed lists for Glory |
+| 2026-10-29 11:20:54 | [vanavro](https://crates.io/crates/vanavro) | 0.1.0 | 0 | An Apache Avro-to-Rust code generator |
 
 ## Data source
 

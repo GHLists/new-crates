@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T10:21:11.167193Z,sylphx-keel-commerce,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Store services: purchases (IapPort, EntitlementPort), ads (AdsPort), sign-in (AuthPort), consent, analytics and crash reporting (AnalyticsPort, CrashPort), install attribution (AttributionPort), remo…"
+2026-10-29T10:22:33.241402Z,datafusion-table-providers-cassandra,0.15.0,0,0,https://github.com/datafusion-contrib/datafusion-table-providers,DataFusion Apache Cassandra table provider
+2026-10-29T10:22:42.554534Z,pagepile,0.1.0,0,0,https://codeberg.org/magnusmanske/pagepile,"Client for PagePile, the lists of wiki pages on Wikimedia Toolforge"
+2026-10-29T10:23:16.005519Z,polybridge-macros,0.0.0,0,0,,placeholder
+2026-10-29T10:24:24.367601Z,kashika-route,0.1.0-dev0,0,0,https://github.com/assafvayner/kashika,"Line route suggestions for Kashika diagrams, ranked by the checker's findings"
+2026-10-29T10:26:15.950066Z,hyperspace-connect,4.2.0,0,0,https://github.com/YARlabs/hyperspace-connect,"Zero-ETL Universal Data Bridge & Graph/Vector Migrator for HyperspaceDB (Neo4j/Bolt, Kafka/JSON Streams, Qdrant/Pinecone/Milvus)"
+2026-10-29T10:26:23.491119Z,hyperspace-otel,4.2.0,0,0,https://github.com/YARlabs/hyperspace-otel,"OpenTelemetry (OTLP) Collector Sink, Microservice KAG Topology Builder & Hyperbolic Geodesic Anomaly Detector for HyperspaceDB"
+2026-10-29T10:26:29.584153Z,duckdb-hyperspace,4.2.0,0,0,https://github.com/YARlabs/duckdb_hyperspace,DuckDB & Apache Arrow IPC Zero-Copy Analytics Extension for HyperspaceDB
+2026-10-29T10:27:09.844686Z,cardealer,0.5.0,0,0,https://github.com/datisthq/cardealer,Fairspec cardealer extension
+2026-10-29T10:28:33.246893Z,clifacet,0.0.0,0,0,,placeholder
+2026-10-29T10:28:43.443423Z,clifacet-macros,0.0.0,0,0,,placeholder
+2026-10-29T10:29:14.692779Z,hufu,0.3.0,0,0,https://gitee.com/woye/hufu,"Credential-free, independently verifiable evidence trail for irreversible operations"
+2026-10-29T10:30:12.873201Z,apace,0.3.0-beta.4,0,0,https://github.com/glory-rs/apace,High-level APIs for rendering HTML with Apace
+2026-10-29T10:30:43.060022Z,zerodds-wire-codec,1.0.0-rc.7,0,0,https://github.com/zero-objects/zero-dds,"Executes an ast-layout plan against a value, in both directions, over any value representation"
+2026-10-29T10:31:08.002226Z,sylphx-keel-update,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Keel desktop app updates: signed update feeds, update packages with binary deltas, and the in-app updater"
+2026-10-29T10:33:04.780025Z,zerodds-idl-compose,1.0.0-rc.7,0,0,https://github.com/zero-objects/zero-dds,"The shared IDL composition pipeline: include paths, preprocess, parse, lower and register type objects — one call for every build-time consumer."
+2026-10-29T10:34:22.929963Z,kashika,0.1.0-dev0,0,0,https://github.com/assafvayner/kashika,"A text-to-diagram language for technical designs: check and render .kash files to SVG, with no auto-layout"
+2026-10-29T10:34:24.076324Z,zerodds-lang-rules,1.0.0-rc.7,0,0,https://github.com/zero-objects/zero-dds,"Maps the common AST onto the language CSTs through rules that are data, not code: seesaw v2 rule specifications, comparable and checkable."
+2026-10-29T10:35:42.334478Z,zerodds-build,1.0.0-rc.7,0,0,https://github.com/zero-objects/zero-dds,"A build.rs helper for ZeroDDS IDL: one Rust module per .idl, with #include dependency tracking so cargo re-runs when a header changes."
+2026-10-29T10:35:43.421736Z,zzq-disk,0.4.0,0,0,https://github.com/paddor/zzq,"Durable append-only journals for zzq, written with Linux AIO."
+2026-10-29T10:36:12.998881Z,es8389,0.1.0,0,0,https://github.com/SergioGasquez/es8389,no_std async driver for the Everest Semiconductor ES8389 audio codec
+2026-10-29T10:36:47.516888Z,ic-logging,0.17.1,0,0,https://github.com/dragginzgame/ic-observability,Bounded application logs with explicit retention and scan limits
+2026-10-29T10:37:11.547976Z,spiral-datafusion,0.1.11,0,0,https://github.com/spiraldb/spiraldb,DataFusion table provider for immutable Spiral SDK tables
+2026-10-29T10:37:59.345383Z,zerodds-proto,1.0.0-rc.7,0,0,https://github.com/zero-objects/zero-dds,"Protocol Buffers type reuse for DDS: FileDescriptorSet -> XTypes DynamicType, so a .proto data model rides the DDS-native XCDR wire. Pure-Rust no_std + alloc."
+2026-10-29T10:41:09.359571Z,sylphx-keel-pack,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Title packager: desktop bundles, web pages and sites, and Android and iOS projects with namespaced library assets, declared public root inputs and a hashed pack manifest, per-platform GPU texture enc…"
+2026-10-29T10:42:13.85555Z,rostfrei-runtime,0.1.3,0,0,https://github.com/elbLabs/rostfrei,Transport-independent application runtime for Rostfrei adapters
+2026-10-29T10:45:20.871839Z,lattice-sql-client,1.10.1,0,0,https://github.com/Taika-3D-Oy/lattice-db,Typed Rust client SDK for lattice-sql — SQL frontend for lattice-db
+2026-10-29T10:51:06.896582Z,sylphx-keel-mind,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Optional, provider-agnostic toolkit for characters driven by language models: a short card, layered memory with provenance and erasure, cache-friendly prompts, plans of typed actions played back dete…"
+2026-10-29T10:57:57.205316Z,glory-style,0.6.0,0,0,https://github.com/glory-rs/glory,Backend independent style values for Glory semantic UI
+2026-10-29T10:58:02.798984Z,glory-render,0.6.0,0,0,https://github.com/glory-rs/glory,Semantic rendering contracts and reference interpreter for Glory
+2026-10-29T11:00:11.4985Z,glory-resource,0.6.0,0,0,https://github.com/glory-rs/glory,Explicit request-scoped resource snapshots for Glory
+2026-10-29T11:01:06.777031Z,sylphx-keel-transport,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Multiplayer wire layer: datagram ports (memory, UDP, WebSocket, QUIC), Endpoint connections, channels, fragmentation, RTT and loss measurement"
+2026-10-29T11:02:17.844107Z,psmc-rs,0.2.0,0,0,https://github.com/larryivan/psmc-rs,"PSMC (Li and Durbin 2011): infers the history of effective population size from one diploid genome, with C psmc's model"
+2026-10-29T11:02:31.113469Z,monochromatic-search-shadow,0.1.1,0,0,https://github.com/Aquaticats/Monochromatic.git,"Shadows rg, grep and find: runs the real tool at the lowest best-effort disk priority and refuses repository-wide unrestricted ripgrep walks that stall the NVMe."
+2026-10-29T11:07:44.399121Z,zerodds-opcua-bridge,1.0.0-rc.7,0,0,https://github.com/zero-objects/zero-dds,OMG DDS-OPCUA Gateway 1.0 daemon: opc.tcp server + client + Part-14 UADP PubSub over zerodds-dcps.
+2026-10-29T11:10:12.532234Z,glory-i18n,0.6.0,0,0,https://github.com/glory-rs/glory,Explicit Fluent catalogs and owned reactive messages for Glory
+2026-10-29T11:11:08.756784Z,sylphx-keel-replicate,0.1.5880,0,0,https://github.com/SylphxAI/keel-engine,"Replication: ECS snapshot delta replication, spatial hysteresis and named-group interest management, prediction, clock sync and input-lead control, jitter-adaptive interpolation, lag compensation, ro…"
+2026-10-29T11:11:10.971027Z,flashblocks,0.1.1,0,0,https://github.com/Dimanoshe/flashblocks-rs,"Decode Base Flashblocks in real time: Chainlink price updates straight from the 200 ms pre-confirmation stream, with logs_bloom confirmation"
+2026-10-29T11:17:34.131289Z,cpe-rs-fork,0.2.0,0,0,https://github.com/Gronner/cpe-rs,CPE 2.2 and 2.3 handling in Rust
+2026-10-29T11:19:22.030739Z,zerodds-wire-probe,1.0.0-rc.7,0,0,https://github.com/zero-objects/zero-dds,"Turns one IDL type and one JSON value into wire bytes, for the interop suite"
+2026-10-29T11:20:12.51108Z,glory-ui,0.6.0,0,0,https://github.com/glory-rs/glory,Pure Rust semantic widgets and windowed lists for Glory
+2026-10-29T11:20:54.188163Z,vanavro,0.1.0,0,0,https://github.com/helsing-ai/vanavro,An Apache Avro-to-Rust code generator
