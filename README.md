@@ -8,55 +8,53 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 23:18 UTC
+## Latest list — 2026-10-29 00:18 UTC
 
-New crates published between 2026-10-28 22:19 UTC and 2026-10-28 23:18 UTC.
+New crates published between 2026-10-28 23:18 UTC and 2026-10-29 00:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-28T23-18-51-323195Z.csv)
+[Full CSV](data/new-crates-2026-10-29T00-18-18-335779Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-28 22:28:02 | [torctl](https://crates.io/crates/torctl) | 0.5.8 | 0 | Redirect system traffic through the Tor network |
-| 2026-10-28 22:29:58 | [pautinka-core](https://crates.io/crates/pautinka-core) | 0.1.0 | 0 | Geometry, placement and routing for network diagrams, independent of egui |
-| 2026-10-28 22:30:00 | [pautinka-egui](https://crates.io/crates/pautinka-egui) | 0.1.0 | 0 | Interactive graph canvas for egui with borrowed graph data |
-| 2026-10-28 22:30:02 | [pautinka](https://crates.io/crates/pautinka) | 0.1.0 | 0 | Graph diagram geometry with an optional interactive egui canvas |
-| 2026-10-28 22:31:12 | [zetasketch](https://crates.io/crates/zetasketch) | 0.1.0 | 0 | Byte-compatible Rust port of Google ZetaSketch HyperLogLog++ (the sketch format… |
-| 2026-10-28 22:32:16 | [statac-avif-sys](https://crates.io/crates/statac-avif-sys) | 0.1.0 | 0 | libavif 1.4.2 with libaom 3.15.1, built from vendored source, encode only |
-| 2026-10-28 22:32:17 | [statac-minijinja](https://crates.io/crates/statac-minijinja) | 3.0.1 | 0 | MiniJinja 3.0.1, by Armin Ronacher, changed for Statac |
-| 2026-10-28 22:33:41 | [tari-libtor-derive](https://crates.io/crates/tari-libtor-derive) | 0.1.2 | 0 | Internal #[derive] macros for libtor |
-| 2026-10-28 22:33:48 | [tari-libtor-src](https://crates.io/crates/tari-libtor-src) | 49.15.2+0.4.9.15 | 0 | Source code of Tor and Libevent for tari-libtor-sys (Tari fork of libtor-src) |
-| 2026-10-28 22:33:52 | [tari-libtor-sys](https://crates.io/crates/tari-libtor-sys) | 49.15.2+0.4.9.x | 0 | Rust crate that internally compiles Tor and its dependencies (Tari fork of libt… |
-| 2026-10-28 22:33:55 | [tari-libtor-core](https://crates.io/crates/tari-libtor-core) | 49.15.2+0.4.9.x | 0 | Bundle and run Tor inside your own project (Tari fork of libtor) |
-| 2026-10-28 22:35:39 | [fuyubot-plugin-api](https://crates.io/crates/fuyubot-plugin-api) | 0.1.1 | 0 | 插件作者门面：fuyubot-abi 的安全包装与版本协商 |
-| 2026-10-28 22:35:51 | [fuyubot-sdk-native](https://crates.io/crates/fuyubot-sdk-native) | 0.1.1 | 0 | 脚本插件的原生桥：脚本进程里被 ctypes / bun:ffi 加载，读写 stdio 与宿主通信 |
-| 2026-10-28 22:36:07 | [fuyubot-sdk-script](https://crates.io/crates/fuyubot-sdk-script) | 0.1.1 | 0 | 脚本插件桥：把 Python / JS 脚本包成 fuyubot cdylib |
-| 2026-10-28 22:36:24 | [fuyubot-sdk-host](https://crates.io/crates/fuyubot-sdk-host) | 0.1.1 | 0 | 中间插件的宿主侧共享逻辑：扫目录、起脚本进程、stdio 桥接、子作用域 |
-| 2026-10-28 22:37:15 | [loft-common](https://crates.io/crates/loft-common) | 2.3.0-alpha.1 | 0 | What Loft's formats share: the reader and writer of their strict YAML subset, t… |
-| 2026-10-28 22:37:21 | [loft-ports](https://crates.io/crates/loft-ports) | 2.3.0-alpha.1 | 0 | The ports Loft's stores share: a journaled save, the git command runner and the… |
-| 2026-10-28 22:37:29 | [yardlog](https://crates.io/crates/yardlog) | 2.3.0-alpha.1 | 0 | The yardlog format: the model of Yard Log, its records and keys, the rules a wr… |
-| 2026-10-28 22:37:34 | [yardlog-store](https://crates.io/crates/yardlog-store) | 2.3.0-alpha.1 | 0 | The store of Yard Log: a branch's Yard Log under `.yard/`, written one write at… |
-| 2026-10-28 22:41:33 | [pyskani](https://crates.io/crates/pyskani) | 0.3.0 | 0 | PyO3 bindings and Python interface to skani, a method for fast fast genomic ide… |
-| 2026-10-28 22:42:30 | [cubek-attention-backward](https://crates.io/crates/cubek-attention-backward) | 0.4.0-pre.1 | 0 | CubeK: Attention Backward Kernels |
-| 2026-10-28 22:43:00 | [florn-guest-network](https://crates.io/crates/florn-guest-network) | 0.2.0 | 0 | The guest SDK for the router world of RFC 008 (florn:network@0.1.0): bindings,… |
-| 2026-10-28 22:43:09 | [florn-domain-network](https://crates.io/crates/florn-domain-network) | 0.2.0 | 0 | The network domain of RFC 008: links and lans over interfaces, frames with dela… |
-| 2026-10-28 22:43:44 | [athanor-core](https://crates.io/crates/athanor-core) | 0.1.0 | 0 | Core alchemical primitives, traits, errors, and context for the Athanor agentic… |
-| 2026-10-28 22:44:12 | [athanor-macros](https://crates.io/crates/athanor-macros) | 0.1.0 | 0 | Procedural macros synthesizing JSON schemas and Reagents for the Athanor agenti… |
-| 2026-10-28 22:44:22 | [vino-user-interface](https://crates.io/crates/vino-user-interface) | 0.1.0 | 0 | The egui theme and widgets shared by vinoSearch, vinoWhisper and vinoSpeak |
-| 2026-10-28 22:44:46 | [athanor-crucible](https://crates.io/crates/athanor-crucible) | 0.1.0 | 0 | SQLite-backed event store, state persistence, and time-travel replay for the At… |
-| 2026-10-28 22:45:16 | [athanor-alembic](https://crates.io/crates/athanor-alembic) | 0.1.0 | 0 | WebAssembly sandboxing runtime with fuel metering and zero-access WASI for Atha… |
-| 2026-10-28 22:45:45 | [athanor-mcp](https://crates.io/crates/athanor-mcp) | 0.1.0 | 0 | Bidirectional Model Context Protocol (MCP 2024-11-05+) gateway for Athanor agen… |
-| 2026-10-28 22:45:53 | [walship](https://crates.io/crates/walship) | 0.1.1 | 0 | Ship libSQL WAL frames to a warm replica on another machine |
-| 2026-10-28 22:47:25 | [sm-crates](https://crates.io/crates/sm-crates) | 1.0.0 | 0 | Crates.io Suite: 25 advanced Rust package intelligence tools (soundness, compil… |
-| 2026-10-28 22:53:58 | [athanor-rag](https://crates.io/crates/athanor-rag) | 0.1.0 | 0 | Spagyric in-process vector store and embedded RAG subsystem for Athanor agents |
-| 2026-10-28 22:57:24 | [luciola-transfer](https://crates.io/crates/luciola-transfer) | 0.8.0 | 0 | Chunked file transfer data plane (offset-addressed writes, ACK prefix, SHA-256… |
-| 2026-10-28 22:57:28 | [rs-paste4sqlite](https://crates.io/crates/rs-paste4sqlite) | 0.1.0 | 0 | Paste SQLite rows from stdin to a database. |
-| 2026-10-28 22:58:40 | [luciola-tunnel](https://crates.io/crates/luciola-tunnel) | 0.8.0 | 0 | LAN TCP multiplexing (mux v2 with per-channel flow control, keepalive, remote f… |
-| 2026-10-28 23:00:40 | [fireline](https://crates.io/crates/fireline) | 0.0.0 | 0 | Reserved name: the interface crates (both sides of each interface) between Fuel… |
-| 2026-10-28 23:03:09 | [tell-tail](https://crates.io/crates/tell-tail) | 0.2.0 | 0 | Bounded-memory log throughput and severity monitor |
-| 2026-10-28 23:03:57 | [athanor-opus](https://crates.io/crates/athanor-opus) | 0.1.0 | 0 | Durable directed acyclic graph (DAG) workflow engine with event-sourced checkpo… |
-| 2026-10-28 23:06:52 | [bun_vt](https://crates.io/crates/bun_vt) | 1.4.7 | 0 | Headless VT/ANSI screen (cell grid, scrollback, cursor) behind Bun.TerminalScre… |
-| 2026-10-28 23:10:09 | [gitrs-mcp](https://crates.io/crates/gitrs-mcp) | 0.1.0 | 0 | A local-only Git MCP server built on gitoxide: structured, git-compatible tools… |
-| 2026-10-28 23:13:58 | [athanor-atelier](https://crates.io/crates/athanor-atelier) | 0.1.0 | 0 | Embedded Dev Studio visualizer and observability server for Athanor agents |
+| 2026-10-28 23:21:28 | [hozd](https://crates.io/crates/hozd) | 0.1.0 | 0 | HTTP Client TUI |
+| 2026-10-28 23:22:54 | [lingara-dialogue-ir](https://crates.io/crates/lingara-dialogue-ir) | 0.0.0 | 0 | The Lingara dialogue graph format (dialogue.v1): types, validation and the fact… |
+| 2026-10-28 23:23:55 | [athanor-evals](https://crates.io/crates/athanor-evals) | 0.1.0 | 0 | Verification harness, deterministic metrics, and evaluation guardrails for the… |
+| 2026-10-28 23:25:16 | [omq-webtrans-proto](https://crates.io/crates/omq-webtrans-proto) | 0.1.0 | 0 | WebTransport over HTTP/3 protocol primitives for OMQ, based on webtrans-proto. |
+| 2026-10-28 23:25:26 | [omq-webtrans-quinn](https://crates.io/crates/omq-webtrans-quinn) | 0.1.0 | 0 | WebTransport sessions over Quinn connections for OMQ, based on webtrans-quinn. |
+| 2026-10-28 23:29:36 | [fleetringd](https://crates.io/crates/fleetringd) | 0.0.0 | 0 | The FleetRing daemon: places, replicates, and fails over SQLite databases acros… |
+| 2026-10-28 23:29:38 | [fleetring-client](https://crates.io/crates/fleetring-client) | 0.0.0 | 0 | A FleetRing client that embeds the ring and routes to each database's primary.… |
+| 2026-10-28 23:29:41 | [fleetring-router](https://crates.io/crates/fleetring-router) | 0.0.0 | 0 | A libSQL-compatible router for FleetRing clusters. Reserved for the FleetRing p… |
+| 2026-10-28 23:29:43 | [fleetring-mcp](https://crates.io/crates/fleetring-mcp) | 0.0.0 | 0 | An MCP server that gives agents durable FleetRing databases. Reserved for the F… |
+| 2026-10-28 23:29:45 | [fleetring-cli](https://crates.io/crates/fleetring-cli) | 0.0.0 | 0 | Command-line tools for FleetRing clusters. Reserved for the FleetRing project;… |
+| 2026-10-28 23:30:37 | [keyroost-p12](https://crates.io/crates/keyroost-p12) | 0.14.0 | 0 | Host-side PKCS#12 (.p12/.pfx) reader that turns an entry into key parts for PIV… |
+| 2026-10-28 23:33:55 | [athanor](https://crates.io/crates/athanor) | 0.1.0 | 0 | Ironclad, enterprise-grade agentic framework in Rust with durable workflows, WA… |
+| 2026-10-28 23:39:39 | [pgtk-catalog](https://crates.io/crates/pgtk-catalog) | 0.1.0 | 0 | A semantic Rust model of a PostgreSQL database's system catalog |
+| 2026-10-28 23:40:01 | [pgtk-sql](https://crates.io/crates/pgtk-sql) | 0.1.0 | 0 | A PostgreSQL SQL parser that accepts and rejects exactly what PostgreSQL 14 to… |
+| 2026-10-28 23:40:21 | [pgtk-psql](https://crates.io/crates/pgtk-psql) | 0.1.0 | 0 | psql scripts, read as psql reads them: variable interpolation, meta-commands, c… |
+| 2026-10-28 23:40:22 | [tiny-symmetric](https://crates.io/crates/tiny-symmetric) | 0.1.0 | 0 | tiny symmetric cryptography |
+| 2026-10-28 23:40:34 | [pgtk-analyze](https://crates.io/crates/pgtk-analyze) | 0.1.0 | 0 | PostgreSQL parse analysis in Rust: the types, columns and errors of a statement… |
+| 2026-10-28 23:42:38 | [offbeat](https://crates.io/crates/offbeat) | 0.0.0 | 0 | A browser for the future |
+| 2026-10-28 23:42:38 | [cmh-sdk](https://crates.io/crates/cmh-sdk) | 0.1.0 | 0 | Independent cross-platform SDK for the Cooler Master MasterHUB modular control… |
+| 2026-10-28 23:46:08 | [lan-scanner](https://crates.io/crates/lan-scanner) | 0.1.2 | 0 | Linux LAN IP and MAC address scanner |
+| 2026-10-28 23:48:29 | [sense_bridge](https://crates.io/crates/sense_bridge) | 0.1.0 | 0 | Integração resiliente de dados ambientais locais e externos para sistemas embar… |
+| 2026-10-28 23:50:36 | [fusor-ai-media](https://crates.io/crates/fusor-ai-media) | 0.1.3 | 0 | WAV encoding and decoding, mel spectrograms, and image resampling as vision mod… |
+| 2026-10-28 23:50:38 | [fusor-ai-runtime](https://crates.io/crates/fusor-ai-runtime) | 0.1.3 | 0 | The browser runtime shell of a fusor-ai model: its engine behind a wasm-bindgen… |
+| 2026-10-28 23:50:39 | [fusor-ai-harness](https://crates.io/crates/fusor-ai-harness) | 0.1.3 | 0 | The native host of a fusor-ai model's CLI: the bundle loader, the thread pool,… |
+| 2026-10-28 23:51:14 | [fleetring-control](https://crates.io/crates/fleetring-control) | 0.0.0 | 0 | The FleetRing control plane's deterministic state machine. Reserved for the Fle… |
+| 2026-10-28 23:51:17 | [fleetring-wal](https://crates.io/crates/fleetring-wal) | 0.0.0 | 0 | Read, validate, and mirror SQLite WAL files for FleetRing. Reserved for the Fle… |
+| 2026-10-28 23:54:21 | [mumcord-store](https://crates.io/crates/mumcord-store) | 0.4.3 | 0 | Local persistence for Mumble clients: SQLite database, identity certificates an… |
+| 2026-10-28 23:55:01 | [mumcord-p2p](https://crates.io/crates/mumcord-p2p) | 0.4.3 | 0 | Encrypted direct connections between Mumble clients: QUIC with certificate pinn… |
+| 2026-10-29 00:04:14 | [xgpui-apple](https://crates.io/crates/xgpui-apple) | 1.0.0 | 0 | Apple rendering and platform services for xgpui |
+| 2026-10-29 00:04:19 | [xgpui-wgpu](https://crates.io/crates/xgpui-wgpu) | 1.0.0 | 0 | wgpu rendering backend, texture atlas, and text support for xgpui |
+| 2026-10-29 00:04:22 | [xgpui-windows](https://crates.io/crates/xgpui-windows) | 1.0.0 | 0 | Windows windowing, DirectWrite, and DirectX backend for xgpui |
+| 2026-10-29 00:04:38 | [fleetring-proto](https://crates.io/crates/fleetring-proto) | 0.0.0 | 0 | gRPC services and messages between FleetRing nodes. Reserved for the FleetRing… |
+| 2026-10-29 00:05:30 | [acta-abi](https://crates.io/crates/acta-abi) | 0.8.1 | 0 | Shared implementation for the acta FFI, N-API and WebAssembly bindings |
+| 2026-10-29 00:09:45 | [xgpui-linux](https://crates.io/crates/xgpui-linux) | 1.0.0 | 0 | Linux and FreeBSD windowing and input backend for xgpui |
+| 2026-10-29 00:09:50 | [xgpui-macos](https://crates.io/crates/xgpui-macos) | 1.0.0 | 0 | macOS windowing and input backend for xgpui |
+| 2026-10-29 00:12:36 | [linelog](https://crates.io/crates/linelog) | 0.1.0 | 0 | Structured logging, one line a record: logfmt-style text for people, JSON Lines… |
+| 2026-10-29 00:13:11 | [xgpui-web](https://crates.io/crates/xgpui-web) | 1.0.0 | 0 | Browser windowing and rendering backend for xgpui with WebGPU and WebGL2 |
+| 2026-10-29 00:15:51 | [git-weld](https://crates.io/crates/git-weld) | 0.1.0-rc.1 | 0 | A semantic Git merge driver with a safe manual-conflict fallback |
+| 2026-10-29 00:17:57 | [http-date-field](https://crates.io/crates/http-date-field) | 0.0.0 | 0 | Temporary reservation for this crate name. |
 
 ## Data source
 
