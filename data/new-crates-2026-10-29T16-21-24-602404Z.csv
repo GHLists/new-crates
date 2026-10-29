@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T15:20:51.391751Z,iris-nostr,0.1.1,0,0,https://github.com/irislib/iris-nostr,Local-first Nostr event and social graph queries for humans and agents
+2026-10-29T15:24:08.959695Z,fast-redact,0.1.0,0,0,https://github.com/cipansor/crateworks,"Redact secrets from a JSON document before logging it: replace the values at named paths, with wildcards."
+2026-10-29T15:24:33.591088Z,wist-pki,0.1.2,0,0,,Reusable CA / mTLS / peer-identity primitives extracted from wist-center + wist-gwlinkd
+2026-10-29T15:26:28.915538Z,smart-env-core,0.1.0,0,0,https://github.com/PMStudio-Patryk-Matysiewicz/smart-env,"Type-safe, DX-focused environment configuration loader for Rust."
+2026-10-29T15:26:40.49244Z,smart-env-macros,0.1.0,0,0,https://github.com/PMStudio-Patryk-Matysiewicz/smart-env,"Type-safe, DX-focused environment configuration loader for Rust."
+2026-10-29T15:28:07.421983Z,smart-env-cli,0.1.0,0,0,https://github.com/PMStudio-Patryk-Matysiewicz/smart-env,"Type-safe, DX-focused environment configuration loader for Rust."
+2026-10-29T15:28:15.595365Z,smart-env,0.1.0,0,0,https://github.com/PMStudio-Patryk-Matysiewicz/smart-env,"Type-safe, DX-focused environment configuration loader for Rust."
+2026-10-29T15:32:03.888247Z,neurolayout,0.1.0,0,0,,"Content-aware, order-preserving card layout: a beam-search solver that runs the same on the server (SSR prefill per breakpoint) and in the browser, with 2–3-row spans and a self-calibrating height mo…"
+2026-10-29T15:34:14.519002Z,neurolayout-dom,0.1.0,0,0,,"Browser engine for NeuroLayout: measures a server-rendered grid, re-solves it with the shared solver and refines spans in place. Framework-free; ships a JS API."
+2026-10-29T15:35:22.380025Z,bevy_gradmesh,0.0.0,0,0,https://github.com/xenacool/bevy_gradmesh,Procedural mesh generation and gradient materials for Bevy
+2026-10-29T15:39:52.986651Z,mb-ext,1.0.0,0,0,https://github.com/rj-s-org/mockingbird,Extension traits (and self-hosted defaults) that mockingbird-cloud builds against
+2026-10-29T15:40:45.737804Z,dope-sys,0.20.0,0,0,https://github.com/dope-rs/dope,Typed operating-system call contracts
+2026-10-29T15:40:45.829116Z,memlineage-core,0.1.0,0,0,https://github.com/frdrckj/memlineage,Provenance and taint checks for agent memory.
+2026-10-29T15:40:52.37164Z,memlineage-cli,0.1.0,0,0,https://github.com/frdrckj/memlineage,Command line for the memlineage audit log.
+2026-10-29T15:40:54.837734Z,memlineage-mcp-proxy,0.1.0,0,0,https://github.com/frdrckj/memlineage,Stdio proxy that checks MCP memory writes.
+2026-10-29T15:50:05.871808Z,mockingbird-console,0.1.0,0,0,https://github.com/rj-s-org/mockingbird,"Internal crate of Mockingbird (the embedded web console), published for mockingbird-cli; no API stability guarantee. Use mockingbird-cli for the binary and mb-ext for extensions."
+2026-10-29T15:50:06.631345Z,mockingbird-llm,0.1.0,0,0,https://github.com/rj-s-org/mockingbird,"Internal crate of Mockingbird (the LLM provider client), published for mockingbird-cli; no API stability guarantee. Use mockingbird-cli for the binary and mb-ext for extensions."
+2026-10-29T15:50:07.24538Z,mockingbird-mcm,0.1.0,0,0,https://github.com/rj-s-org/mockingbird,"Internal crate of Mockingbird (the contract model), published for mockingbird-cli; no API stability guarantee. Use mockingbird-cli for the binary and mb-ext for extensions."
+2026-10-29T15:50:07.512663Z,mockingbird-state,0.1.0,0,0,https://github.com/rj-s-org/mockingbird,"Internal crate of Mockingbird (session state stores), published for mockingbird-cli; no API stability guarantee. Use mockingbird-cli for the binary and mb-ext for extensions."
+2026-10-29T15:50:08.305906Z,mockingbird-import,0.1.0,0,0,https://github.com/rj-s-org/mockingbird,"Internal crate of Mockingbird (contract importers and smart import), published for mockingbird-cli; no API stability guarantee. Use mockingbird-cli for the binary and mb-ext for extensions."
+2026-10-29T15:51:18.319421Z,omhook,1.0.0,0,0,https://github.com/qwq233/OhMyHook,Pure Rust PLT/GOT and inline hooking for Linux and Android
+2026-10-29T15:52:09.898231Z,game_net,0.1.0,0,0,https://github.com/ouut/2d_minecraft,Universal game networking protocol envelope and dual-mode JSON/binary codec
+2026-10-29T15:52:36.087053Z,game_server,0.1.0,0,0,https://github.com/ouut/2d_minecraft,Universal game server session gateway with Axum HTTP static WASM serving and WebSocket
+2026-10-29T15:56:49.704964Z,llrs-morton,0.1.0,0,0,https://github.com/c1ph3rc4t/llrs-morton,Description
+2026-10-29T15:57:01.169066Z,imesh,0.0.1,0,0,https://github.com/prabirshrestha/imesh,Connect your computers into one cluster with no central server. Placeholder for the imesh library.
+2026-10-29T15:57:11.356103Z,imesh-cli,0.0.1,0,0,https://github.com/prabirshrestha/imesh,Connect your computers into one cluster with no central server. Placeholder for the imesh command.
+2026-10-29T15:57:28.802147Z,reactx-core,0.1.0,0,0,,"Core node tree, styles, events and wire formats for ReactX"
+2026-10-29T15:57:34.703851Z,reactx-macro,0.1.0,0,0,,"JSX syntax macro for ReactX, translating HTML-like tags into Dioxus elements"
+2026-10-29T15:57:38.704943Z,reactx-async,0.1.0,0,0,,Async fetch and WebSocket hooks for ReactX
+2026-10-29T15:57:56.122749Z,reactx-tui,0.1.0,0,0,,"Terminal backend and renderer for ReactX, built on Dioxus, Taffy and Ratatui"
+2026-10-29T15:58:08.911067Z,reactx-ui,0.1.0,0,0,,"Themed widgets, data charts and layout components for ReactX"
+2026-10-29T15:59:43.616182Z,dorm-studio,0.1.0,0,0,https://github.com/ngolacloud/dorm,"DORM Studio — a Prisma-Studio-style web UI over your DORM models: browse, filter, search and (opt-in) edit the live database, with the models' own relations and types."
+2026-10-29T16:00:35.848613Z,nerdsynth,0.1.0,0,0,https://github.com/firede/nerdsynth,"A SoundFont 2 synthesizer: complete, sample-accurate and real-time safe"
+2026-10-29T16:00:58.668322Z,reactx-router,0.1.0,0,0,,In-memory routing and navigation hooks for ReactX terminal apps
+2026-10-29T16:07:44.045498Z,alpha2-layout,0.0.0,0,0,https://github.com/alpha2-sh/alpha2,Placeholder for the alpha2 layout crate; the real crate is published from the alpha2 repository
+2026-10-29T16:09:21.52445Z,mockingbird-engine,0.1.0,0,0,https://github.com/rj-s-org/mockingbird,"Internal crate of Mockingbird (the response engine), published for mockingbird-cli; no API stability guarantee. Use mockingbird-cli for the binary and mb-ext for extensions."
+2026-10-29T16:10:47.280124Z,reactx,0.1.0,0,0,,"A React-style TUI framework built on Dioxus, Taffy and Ratatui"
+2026-10-29T16:13:01.16592Z,tc_sm4,0.1.0,0,0,https://github.com/TomiCheng/tc_block_cipher,SM4 block cipher (GB/T 32907-2016) with a 128-bit key and block.
+2026-10-29T16:15:07.217551Z,laputa-async-task,0.2.0,0,0,https://github.com/laputa-systems/smolith,Task abstraction for building executors
+2026-10-29T16:15:09.713232Z,laputa-atomic-waker,0.2.0,0,0,https://github.com/laputa-systems/smolith,A synchronization primitive for task wakeup
+2026-10-29T16:15:12.384482Z,laputa-concurrent-queue,0.2.0,0,0,https://github.com/laputa-systems/smolith,Concurrent multi-producer multi-consumer queue
+2026-10-29T16:15:14.850994Z,laputa-easy-parallel,0.2.0,0,0,https://github.com/laputa-systems/smolith,Run closures in parallel
+2026-10-29T16:15:17.101134Z,laputa-fastrand,0.2.0,0,0,https://github.com/laputa-systems/smolith,A simple and fast random number generator
+2026-10-29T16:16:28.17891Z,iroh-mesh,0.0.1,0,0,https://github.com/prabirshrestha/imesh,Connect your computers into one cluster with no central server. Placeholder for the imesh library.
+2026-10-29T16:16:30.113883Z,iroh-mesh-cli,0.0.1,0,0,https://github.com/prabirshrestha/imesh,Connect your computers into one cluster with no central server. Placeholder for the imesh command.
+2026-10-29T16:17:05.369508Z,rustdrop,0.2.0,0,0,https://github.com/hakuxyz/rustdrop,"Privacy-first, blazing-fast peer-to-peer file transfer for your local network"
+2026-10-29T16:19:35.442893Z,id-arena-compact,2.3.0,0,0,https://github.com/fitzgen/id-arena,"A simple, id-based arena."
+2026-10-29T16:21:03.010427Z,mockingbird-protocols,0.1.0,0,0,https://github.com/rj-s-org/mockingbird,"Internal crate of Mockingbird (protocol adapters), published for mockingbird-cli; no API stability guarantee. Use mockingbird-cli for the binary and mb-ext for extensions."
+2026-10-29T16:21:03.926442Z,mockingbird-store,0.1.0,0,0,https://github.com/rj-s-org/mockingbird,"Internal crate of Mockingbird (the control-plane store), published for mockingbird-cli; no API stability guarantee. Use mockingbird-cli for the binary and mb-ext for extensions."
