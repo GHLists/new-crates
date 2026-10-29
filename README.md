@@ -8,54 +8,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 19:19 UTC
+## Latest list — 2026-10-29 20:19 UTC
 
-New crates published between 2026-10-29 18:19 UTC and 2026-10-29 19:19 UTC.
+New crates published between 2026-10-29 19:19 UTC and 2026-10-29 20:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-29T19-19-52-985246Z.csv)
+[Full CSV](data/new-crates-2026-10-29T20-19-00-423417Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-29 18:21:35 | [serve-net](https://crates.io/crates/serve-net) | 0.3.0 | 0 | The network service engine for Rust: listeners over net-io, ingress from direct… |
-| 2026-10-29 18:23:36 | [tapes-v2](https://crates.io/crates/tapes-v2) | 0.1.0-beta | 0 | Atomic per-target dotfile switcher |
-| 2026-10-29 18:23:53 | [yandere-core](https://crates.io/crates/yandere-core) | 0.1.0 | 0 | Steam discovery, Wine session lookup and trainer launching for YANDERE |
-| 2026-10-29 18:24:03 | [yandere](https://crates.io/crates/yandere) | 0.1.0 | 0 | Run Windows trainers inside Steam Proton sessions, from a terminal |
-| 2026-10-29 18:24:09 | [crawlora-dramabox](https://crates.io/crates/crawlora-dramabox) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted DramaBox API. Requires a Crawlora API k… |
-| 2026-10-29 18:25:51 | [http-acl-wasmtime](https://crates.io/crates/http-acl-wasmtime) | 0.14.0 | 0 | An ACL for wasmtime-wasi-http's outgoing requests, through its overridable send… |
-| 2026-10-29 18:25:56 | [seam-rs-rustix](https://crates.io/crates/seam-rs-rustix) | 0.6.0 | 0 | rustix for seam: Unix effects (mounts, permissions, ownership, links, IDs, sign… |
-| 2026-10-29 18:26:49 | [laputa-async-lock](https://crates.io/crates/laputa-async-lock) | 0.2.0 | 0 | Async synchronization primitives |
-| 2026-10-29 18:26:53 | [miresidian_instances](https://crates.io/crates/miresidian_instances) | 0.14.0 | 0 | Miresidian 的实例策略、对象容器与可选多通道调度。 |
-| 2026-10-29 18:31:48 | [predict](https://crates.io/crates/predict) | 0.0.1 | 0 | Machine learning for Rust with a consistent, scikit-learn-style API (work in pr… |
-| 2026-10-29 18:33:42 | [crawlora-wallapop](https://crates.io/crates/crawlora-wallapop) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted Wallapop API. Requires a Crawlora API k… |
-| 2026-10-29 18:35:55 | [seam-rs-nix](https://crates.io/crates/seam-rs-nix) | 0.6.0 | 0 | nix for seam: Unix effects (mounts, permissions, ownership, links, IDs, signals… |
-| 2026-10-29 18:35:58 | [testcontainers-garbagebin](https://crates.io/crates/testcontainers-garbagebin) | 0.5.2-rc1 | 0 | Testcontainers module for the Garbage Bin S3 server |
-| 2026-10-29 18:36:43 | [laputa-async-signal](https://crates.io/crates/laputa-async-signal) | 0.2.0 | 0 | Async signal handling |
-| 2026-10-29 18:43:29 | [apalis-redb](https://crates.io/crates/apalis-redb) | 0.1.0 | 0 | Background task processing for rust using apalis and redb |
-| 2026-10-29 18:45:55 | [seam-rs-rand](https://crates.io/crates/seam-rs-rand) | 0.6.0 | 0 | rand for seam: any FillRandom capability as a rand RNG, so rand's distributions… |
-| 2026-10-29 18:46:44 | [laputa-blocking](https://crates.io/crates/laputa-blocking) | 0.2.0 | 0 | A thread pool for isolating blocking I/O in async programs |
-| 2026-10-29 18:47:03 | [crawlora-jumia](https://crates.io/crates/crawlora-jumia) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted Jumia API. Requires a Crawlora API key. |
-| 2026-10-29 18:52:19 | [crawlora-cardmarket](https://crates.io/crates/crawlora-cardmarket) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted Cardmarket API. Requires a Crawlora API… |
-| 2026-10-29 18:53:18 | [arch-indexer-core](https://crates.io/crates/arch-indexer-core) | 0.1.0 | 0 | Decoder-side types for Arch program indexers: the arch-rust-indexer transaction… |
-| 2026-10-29 18:54:07 | [arch-indexer](https://crates.io/crates/arch-indexer) | 0.1.0 | 0 | Framework for Arch program indexers over arch-rust-indexer: the ProgramIndexer… |
-| 2026-10-29 18:55:56 | [seam-rs-reqwest](https://crates.io/crates/seam-rs-reqwest) | 0.6.0 | 0 | HTTP for seam: a Fetch effect over http's types, performed with reqwest, or scr… |
-| 2026-10-29 18:56:44 | [laputa-smol-macros](https://crates.io/crates/laputa-smol-macros) | 0.2.0 | 0 | Macros for setting up a smol runtime |
-| 2026-10-29 18:58:56 | [crawlora-fanduel](https://crates.io/crates/crawlora-fanduel) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted FanDuel API. Requires a Crawlora API ke… |
-| 2026-10-29 19:03:53 | [stampeded-ffi](https://crates.io/crates/stampeded-ffi) | 0.4.1 | 0 | C ABI for stampeded: enqueue jobs and pull them from any language |
-| 2026-10-29 19:05:55 | [seam-rs-sqlx](https://crates.io/crates/seam-rs-sqlx) | 0.6.0 | 0 | SQL databases for seam: queries and transactions as effects, performed with sql… |
-| 2026-10-29 19:06:11 | [muzzle-cli](https://crates.io/crates/muzzle-cli) | 0.1.0 | 0 | Per-host admission for heavy commands, with a run log that tunes itself. |
-| 2026-10-29 19:06:51 | [laputa-async-dup](https://crates.io/crates/laputa-async-dup) | 0.2.0 | 0 | Duplicate an async I/O handle |
-| 2026-10-29 19:08:15 | [tlaplus-dsl](https://crates.io/crates/tlaplus-dsl) | 0.1.0 | 0 | Experimental typed action language that exports TLA+ models. |
-| 2026-10-29 19:08:15 | [tlaplus-engine](https://crates.io/crates/tlaplus-engine) | 0.1.0 | 0 | Exact breadth-first exploration of transition systems |
-| 2026-10-29 19:08:16 | [tlaplus-ir](https://crates.io/crates/tlaplus-ir) | 0.1.0 | 0 | Shared expression representation, levels and transformations for tlaplus-rs |
-| 2026-10-29 19:08:16 | [tlaplus-props](https://crates.io/crates/tlaplus-props) | 0.1.0 | 0 | Graph algorithms for temporal property checking |
-| 2026-10-29 19:08:16 | [tlaplus-syntax](https://crates.io/crates/tlaplus-syntax) | 0.1.0 | 0 | TLA+ syntax tree for tlaplus-rs |
-| 2026-10-29 19:09:24 | [crawlora-fussballde](https://crates.io/crates/crawlora-fussballde) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted Fussball.de API. Requires a Crawlora AP… |
-| 2026-10-29 19:10:06 | [tlaplus-values](https://crates.io/crates/tlaplus-values) | 0.1.0 | 0 | Finite TLA+ values for tlaplus-rs |
-| 2026-10-29 19:13:00 | [xstory](https://crates.io/crates/xstory) | 0.1.0 | 0 | Minimalist Unix shell history engine |
-| 2026-10-29 19:15:55 | [seam-rs-tracing](https://crates.io/crates/seam-rs-tracing) | 0.6.0 | 0 | Logging for seam: log records as an effect, sent to tracing, or captured and ch… |
-| 2026-10-29 19:16:45 | [laputa-async-fs](https://crates.io/crates/laputa-async-fs) | 0.2.0 | 0 | Async filesystem primitives |
-| 2026-10-29 19:18:03 | [crawlora-opendota](https://crates.io/crates/crawlora-opendota) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted OpenDota API. Requires a Crawlora API k… |
-| 2026-10-29 19:19:39 | [aux-rs](https://crates.io/crates/aux-rs) | 0.0.0 | 0 | Exchange connectors for Rust |
+| 2026-10-29 19:20:46 | [tlaplus-observe](https://crates.io/crates/tlaplus-observe) | 0.1.0 | 0 | Timing and trace instrumentation for tlaplus-rs |
+| 2026-10-29 19:22:01 | [baux](https://crates.io/crates/baux) | 0.0.1 | 0 | Epistemic Nearest Neighbor Bayesian Optimization |
+| 2026-10-29 19:25:56 | [seam-rs-uuid](https://crates.io/crates/seam-rs-uuid) | 0.6.0 | 0 | uuid for seam: random and time-ordered UUIDs from seam's randomness and clock. |
+| 2026-10-29 19:26:52 | [laputa-async-net](https://crates.io/crates/laputa-async-net) | 0.2.0 | 0 | Async networking primitives for TCP/UDP/Unix communication |
+| 2026-10-29 19:27:34 | [tecla](https://crates.io/crates/tecla) | 0.1.0 | 0 | A quiet, fast typing test for the terminal |
+| 2026-10-29 19:28:13 | [crawlora-cricbuzz](https://crates.io/crates/crawlora-cricbuzz) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted Cricbuzz API. Requires a Crawlora API k… |
+| 2026-10-29 19:29:57 | [tlaplus-parser](https://crates.io/crates/tlaplus-parser) | 0.1.0 | 0 | TLA+ parser for tlaplus-rs, built on tree-sitter |
+| 2026-10-29 19:30:58 | [suv](https://crates.io/crates/suv) | 0.0.0 | 0 | . |
+| 2026-10-29 19:32:52 | [usbids](https://crates.io/crates/usbids) | 0.0.1 | 0 | hwdata usb.ids handling in rust |
+| 2026-10-29 19:33:50 | [tabsmith-contracts](https://crates.io/crates/tabsmith-contracts) | 0.2.0 | 0 | Stable cross-stage contracts for Tabsmith: config, schemas, errors, Run and Bun… |
+| 2026-10-29 19:33:52 | [openapitor-runtime](https://crates.io/crates/openapitor-runtime) | 0.1.0 | 0 | Shared runtime support for OpenAPI clients generated by openapitor. |
+| 2026-10-29 19:33:59 | [tabsmith-embedded](https://crates.io/crates/tabsmith-embedded) | 0.2.0 | 0 | The arithmetic of Tabsmith models in no_std Rust: shared by the runtime and by… |
+| 2026-10-29 19:34:06 | [tabsmith-runtime](https://crates.io/crates/tabsmith-runtime) | 0.2.0 | 0 | Lightweight Tabsmith prediction runtime: bundle verification, frozen preprocess… |
+| 2026-10-29 19:34:12 | [neocogi-com-core](https://crates.io/crates/neocogi-com-core) | 0.1.0-alpha.1 | 0 | Experimental core ABI types for neocogi-com |
+| 2026-10-29 19:34:14 | [neocogi-idl](https://crates.io/crates/neocogi-idl) | 0.1.0-alpha.1 | 0 | NeoCogi contract parsing, resolution, Rust generation, and Cargo integration |
+| 2026-10-29 19:34:16 | [neocogi-com-macros](https://crates.io/crates/neocogi-com-macros) | 0.1.0-alpha.1 | 0 | Proc macros for neocogi-com's portable C-ABI interface model |
+| 2026-10-29 19:34:17 | [tabsmith-macros](https://crates.io/crates/tabsmith-macros) | 0.2.0 | 0 | Compiles a Tabsmith bundle into Rust code at build time: typed inputs and outpu… |
+| 2026-10-29 19:34:18 | [neocogi-com](https://crates.io/crates/neocogi-com) | 0.1.0-alpha.1 | 0 | Shared C-ABI COM SDK for interface callers, providers, and host-service clients |
+| 2026-10-29 19:34:22 | [neocogi-com-host](https://crates.io/crates/neocogi-com-host) | 0.1.0-alpha.1 | 0 | Host-owned COM services, plugin registry, and native loader |
+| 2026-10-29 19:35:16 | [tabsmith-workflow](https://crates.io/crates/tabsmith-workflow) | 0.2.0 | 0 | Tabsmith workflow core: data snapshots, splits, fitted preprocessing, training,… |
+| 2026-10-29 19:36:48 | [laputa-async-process](https://crates.io/crates/laputa-async-process) | 0.2.0 | 0 | Async interface for working with processes |
+| 2026-10-29 19:38:06 | [crawlora-gosugamers](https://crates.io/crates/crawlora-gosugamers) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted GosuGamers API. Requires a Crawlora API… |
+| 2026-10-29 19:40:41 | [tlaplus-value-expr](https://crates.io/crates/tlaplus-value-expr) | 0.1.0 | 0 | Deferred set and function expressions over TLA+ values |
+| 2026-10-29 19:41:28 | [neocogi-inspect](https://crates.io/crates/neocogi-inspect) | 0.1.0-alpha.1 | 0 | Inspection CLI for neocogi-com plugin shared libraries |
+| 2026-10-29 19:44:22 | [tabsmith-cli](https://crates.io/crates/tabsmith-cli) | 0.2.0 | 0 | The `tabsmith` command-line tool: a CSV/Parquet file to a trained, verified mod… |
+| 2026-10-29 19:47:00 | [laputa-smol](https://crates.io/crates/laputa-smol) | 0.2.0 | 0 | A small and fast async runtime |
+| 2026-10-29 19:48:06 | [repo-search-client](https://crates.io/crates/repo-search-client) | 0.0.0 | 0 | Client and wire protocol of the repo-search daemon |
+| 2026-10-29 19:48:55 | [crawlora-lolesports](https://crates.io/crates/crawlora-lolesports) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted LoL Esports API. Requires a Crawlora AP… |
+| 2026-10-29 19:49:28 | [pwd_manager](https://crates.io/crates/pwd_manager) | 0.1.0 | 0 | A command line tool to encrypt and decrypt passwords, security question, etc. |
+| 2026-10-29 19:49:55 | [tlaplus-disk](https://crates.io/crates/tlaplus-disk) | 0.1.0 | 0 | Disk-backed exploration and persistent storage for tlaplus-rs |
+| 2026-10-29 19:54:07 | [term-colors](https://crates.io/crates/term-colors) | 0.1.0 | 0 | Semantic terminal styles and stable identity colors |
+| 2026-10-29 19:55:35 | [daytona-rs](https://crates.io/crates/daytona-rs) | 0.1.0 | 0 | Unofficial Daytona SDK with validated types, borrowed sandbox handles, and expl… |
+| 2026-10-29 19:57:25 | [crawlora-vlr](https://crates.io/crates/crawlora-vlr) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted VLR.gg API. Requires a Crawlora API key. |
+| 2026-10-29 19:58:32 | [oxdock-pty](https://crates.io/crates/oxdock-pty) | 0.32.0-alpha | 0 | Shared pseudo-terminal pump for OxDock: spawn under a pty, pump pipes through t… |
+| 2026-10-29 19:59:29 | [krakatau2](https://crates.io/crates/krakatau2) | 0.1.0 | 0 | Java bytecode assembler and disassembler |
+| 2026-10-29 20:00:21 | [mcp-canvas-lms](https://crates.io/crates/mcp-canvas-lms) | 0.1.0 | 0 | A small native MCP server for Canvas LMS students and teachers |
+| 2026-10-29 20:00:40 | [tlaplus-library](https://crates.io/crates/tlaplus-library) | 0.1.0 | 0 | Standard-library operators for tlaplus-rs |
+| 2026-10-29 20:06:46 | [docov](https://crates.io/crates/docov) | 0.1.0 | 0 | JSDoc coverage for JavaScript and TypeScript |
+| 2026-10-29 20:06:50 | [ephyra-macros](https://crates.io/crates/ephyra-macros) | 0.0.1 | 0 | Derive and attribute macros for ephyra (use through the `ephyra` crate) |
+| 2026-10-29 20:06:57 | [ephyra](https://crates.io/crates/ephyra) | 0.0.1 | 0 | Property-based testing built for coding agents: verified generators, shrinkers… |
+| 2026-10-29 20:07:03 | [ephyra-datadog](https://crates.io/crates/ephyra-datadog) | 0.0.1 | 0 | Send ephyra's test cases to Datadog: case counts, feature and timing distributi… |
+| 2026-10-29 20:07:13 | [ephyra-cli](https://crates.io/crates/ephyra-cli) | 0.0.1 | 0 | The ephyra command: runs ephyra properties into one artifact directory, checks… |
+| 2026-10-29 20:07:26 | [crawlora-bo3](https://crates.io/crates/crawlora-bo3) | 0.1.0 | 0 | Typed Rust client for Crawlora's hosted BO3.gg API. Requires a Crawlora API key. |
+| 2026-10-29 20:09:52 | [tlaplus-modules](https://crates.io/crates/tlaplus-modules) | 0.1.0 | 0 | Module loading and the standard TLA+ modules for tlaplus-rs |
+| 2026-10-29 20:12:53 | [anily](https://crates.io/crates/anily) | 0.1.3 | 0 | A fast terminal-based anime streaming and discovery CLI |
+| 2026-10-29 20:14:51 | [faucet-common-redis](https://crates.io/crates/faucet-common-redis) | 1.0.0 | 0 | Shared Redis client building (TLS, private CA, client certificates) for the fau… |
 
 ## Data source
 
