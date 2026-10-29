@@ -1,0 +1,64 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T08:19:43.024395Z,lumen-canon,1.0.0,0,0,,"canon-record/1 — lumen B2 (D-292/D-312): schema, validator, handle protocol, proportion + register band gate, broker refusals. Absorbed from the B1 reference implementation (D-290) without re-derivat…"
+2026-10-29T08:20:50.796134Z,wingy-web,0.31.0,0,0,https://github.com/glory-rs/wingy,Wingy's Web (WebAssembly) backend
+2026-10-29T08:21:15.352203Z,validations_rs,0.1.0,0,0,https://github.com/mdambro/validations_rs,"Generic, ordered business validations (Rust port of mdambro/validations)."
+2026-10-29T08:31:12.878563Z,wingy-win32,0.31.0,0,0,https://github.com/glory-rs/wingy,Wingy's Win32/Windows backend
+2026-10-29T08:33:06.279284Z,infr-plat,0.2.0,0,0,https://github.com/kryptic-sh/infr,Platform seam for infr: every OS-specific capability behind one interface
+2026-10-29T08:33:20.046654Z,holger-provenance,2.0.0,0,0,https://git.gunnar.rs/nordisk/holger,"Holger's provenance verifier: DSSE + in-toto + SLSA provenance, Sigstore bundles, PyPI PEP 740 attestations, npm provenance and cosign image signatures and attestations, verified OFFLINE against a tr…"
+2026-10-29T08:33:30.671893Z,phlow-council,0.1.0,0,0,,"Candidate workflow for phlow: task contracts, candidate lineage, evidence, and council review with keep/revise/reject iteration (workflow methodology adapted from NVlabs kda)"
+2026-10-29T08:33:35.464454Z,infr-prof,0.2.0,0,0,https://github.com/kryptic-sh/infr,#[infr_prof::instrument] — rewrites every fn in the annotated item to record a profiling span (INFR_PROFILE builds)
+2026-10-29T08:33:45.778422Z,phlow-experiment,0.1.0,0,0,,"Staged supervised-self-improvement experiment scaffolding for phlow: control-plane types, lifecycle and promotion gates, evaluator skeletons, manifest validators, and evaluation records. EXPERIMENTAL…"
+2026-10-29T08:33:55.99089Z,phlow-flowguard,0.1.0,0,0,https://github.com/qompassai/phlow,"OpenAPPA-style flow security for phlow: audience x trust labels, monotone by construction, a deterministic pre-dispatch gate over an append-only event log, declarative TOML policy, and machine-readab…"
+2026-10-29T08:33:57.121526Z,holger-sync,2.0.0,0,0,https://git.gunnar.rs/nordisk/holger,"Holger's sync protocol (H4): the signed sync manifest an upstream Holger sends with every pull or USB bundle (generation, packages added, invalidations), the downstream's signed acknowledgement, and…"
+2026-10-29T08:34:02.583364Z,infr-prof-rt,0.2.0,0,0,https://github.com/kryptic-sh/infr,Runtime for INFR_PROFILE build-time instrumentation (thread-local span accounting + exit report)
+2026-10-29T08:34:37.17018Z,infr-core,0.2.0,0,0,https://github.com/kryptic-sh/infr,"Shared types and backend, loader and graph seams for the infr LLM inference engine"
+2026-10-29T08:35:05.988904Z,infr-gguf,0.2.0,0,0,https://github.com/kryptic-sh/infr,Zero-copy GGUF weight loader for the infr LLM inference engine
+2026-10-29T08:35:45.417735Z,infr-hub,0.2.0,0,0,https://github.com/kryptic-sh/infr,Hugging Face Hub model download and cache resolution for infr
+2026-10-29T08:37:04.676162Z,netex-rs,0.7.1,0,0,https://github.com/PROJEKTIONISTEN-GmbH/netex-rs,"CEN NeTEx (CEN/TS 16614) in Rust: reads and writes NeTEx 1.x and 2.0, resolves references across a dataset, and indexes what a routing engine needs"
+2026-10-29T08:37:08.649405Z,netex2gtfs,0.1.2,0,0,https://github.com/PROJEKTIONISTEN-GmbH/netex-rs,"NeTEx to GTFS: a NeTEx delivery, read and resolved by netex-rs, written as a GTFS feed, with a report of everything it could not carry over"
+2026-10-29T08:37:12.356298Z,netex-cli,0.1.2,0,0,https://github.com/PROJEKTIONISTEN-GmbH/netex-rs,"The netex command: a checking report for NeTEx deliveries, their statistics, conversion to GTFS, regional cuts and the merge of several deliveries"
+2026-10-29T08:42:52.632318Z,livr-core,0.1.0,0,0,https://github.com/koorchik/rust-livr,The engine of the livr crate: LIVR 2.0 validation rules at run time
+2026-10-29T08:42:55.337845Z,livr-macros,0.1.0,0,0,https://github.com/koorchik/rust-livr,The schema! macro of the livr crate: typed LIVR 2.0 schemas
+2026-10-29T08:42:57.852972Z,livr,0.1.0,0,0,https://github.com/koorchik/rust-livr,"LIVR 2.0 validator for Rust: all errors at once, rules as JSON, types inferred from schemas"
+2026-10-29T08:43:05.855914Z,livr-axum,0.1.0,0,0,https://github.com/koorchik/rust-livr-axum,"axum extractors for LIVR 2.0 validation with livr: all errors at once as JSON, typed schemas, query strings, forms, schemas loaded at run time"
+2026-10-29T08:44:50.259785Z,infr-chat,0.2.0,0,0,https://github.com/kryptic-sh/infr,Chat prompt rendering and model output parsing for infr
+2026-10-29T08:46:05.756672Z,phlow-inference,0.1.0,0,0,,"Inference-serving primitives for the phlow agent runtime, adapted from DeepSeek-V4.1-Flash (arXiv:2609.19969)"
+2026-10-29T08:46:16.519015Z,phlow-json,0.1.0,0,0,,Checked JSON narrowing at untrusted boundaries for the phlow agent runtime
+2026-10-29T08:51:29.227582Z,zerodds-ast-core,1.0.0-rc.7,0,0,https://github.com/zero-objects/zero-dds,"Generic AST infrastructure: generational arenas, stable node ids, three-valued references, undo-logged transactions, changesets, observers, deterministic snapshots. No DDS knowledge."
+2026-10-29T08:52:35.071087Z,zerodds-ast,1.0.0-rc.7,0,0,https://github.com/zero-objects/zero-dds,Common AST for the ZeroDDS type system: source-neutral node space with per-source typed facets. Implements docs/specs/zerodds-ast-1.0.md.
+2026-10-29T08:54:47.126892Z,zerodds-ast-layout,1.0.0-rc.7,0,0,https://github.com/zero-objects/zero-dds,"Wire layout planning over the common AST: XCDR1/XCDR2 member plans, length codes, key holders. Computes the plan; codecs execute it."
+2026-10-29T08:54:51.927107Z,infr-cpu,0.2.0,0,0,https://github.com/kryptic-sh/infr,CPU reference backend for the infr LLM inference engine
+2026-10-29T08:57:12.069031Z,wingy-x11,0.31.0,0,0,https://github.com/glory-rs/wingy,Wingy's X11 backend
+2026-10-29T08:57:17.810583Z,wingy,0.31.0,0,0,https://github.com/glory-rs/wingy,Cross-platform window creation library.
+2026-10-29T08:58:33.031707Z,cadastre-core,0.1.1,0,0,https://github.com/Jbbouille/cadastre,"Core of the Cadastre compiler: parsing, registry, resolution, views, renderings. No system access, compiles to WebAssembly."
+2026-10-29T08:58:34.894877Z,cadastre-project,0.1.1,0,0,https://github.com/Jbbouille/cadastre,"Reading a Cadastre project from the file system: its cadastre.toml, its sources and its modules."
+2026-10-29T08:58:36.46009Z,cadastre-lsp,0.1.1,0,0,https://github.com/Jbbouille/cadastre,Language server for Cadastre: diagnostics and semantic highlighting in editors.
+2026-10-29T08:58:36.675937Z,cadastre-mcp,0.1.1,0,0,https://github.com/Jbbouille/cadastre,MCP server for Cadastre: AI agents explore a project and write views and checks against it.
+2026-10-29T08:58:38.490221Z,cadastre,0.1.1,0,0,https://github.com/Jbbouille/cadastre,"Your IT landscape, as code: the `cadastre` command, which compiles a project describing an information system, draws its views and runs its checks."
+2026-10-29T08:59:06.109158Z,zerodds-config,1.0.0-rc.7,0,0,https://github.com/zero-objects/zero-dds,"Layered configuration for ZeroDDS: a typed base file, sorted drop-in directories, nested includes with cycle detection, and the origin of every value."
+2026-10-29T09:01:27.521583Z,phlow-seccomp,0.1.0,0,0,,Linux seccomp egress filter for phlow check children: socket(AF_INET/AF_INET6) and io_uring_setup fail with EPERM. The crate's single unsafe block is the pre_exec registration.
+2026-10-29T09:03:52.963308Z,zingo-cli,0.5.0,0,0,https://github.com/zingolabs/zingolib,Zingo command line wallet.
+2026-10-29T09:05:22.269105Z,infr-vulkan,0.2.0,0,0,https://github.com/kryptic-sh/infr,Vulkan compute backend for the infr LLM inference engine
+2026-10-29T09:07:54.93771Z,zerodds-float128,1.0.0-rc.7,0,0,https://github.com/zero-objects/zero-dds,"IEEE 754 binary128 in software: the sixteen bytes CDR gives `long double`, as a value type with exact conversions, IEEE comparison, and round-tripping decimal."
+2026-10-29T09:09:41.397009Z,dilemma,0.1.0,0,0,https://github.com/cryptopatrick/dilemma,Generic engine for the dilemma rule of Stalmarck's method: n-saturation over user-defined logic states.
+2026-10-29T09:11:20.615492Z,paytr,0.0.0,0,0,,Reserved.
+2026-10-29T09:11:45.816359Z,sshd-config,0.3.0-alpha.1,0,0,https://github.com/bhimrazy/vps-ready,"Read sshd_config and its Include files, and parse the output of `sshd -T`."
+2026-10-29T09:12:05.0685Z,scaleset,0.1.0,0,0,https://github.com/imumesh18/scaleset,Autoscale GitHub Actions self-hosted runners: a client for the Runner Scale Set APIs.
+2026-10-29T09:13:16.315844Z,apace_debug_timer,0.1.3,0,0,https://github.com/glory-rs/apace,Utilities for simple timings
+2026-10-29T09:13:17.139888Z,zerodds-idl-cst,1.0.0-rc.7,0,0,https://github.com/zero-objects/zero-dds,"Lossless concrete syntax tree for OMG IDL 4.2: tokens with attached trivia, a green/red tree that reproduces its input byte for byte."
+2026-10-29T09:13:34.526675Z,apace_accesskit,0.2.1,0,0,https://github.com/glory-rs/apace,AccessKit UI accessibility infrastructure: cross-platform adapter
+2026-10-29T09:13:38.152538Z,phlow-trainlab,0.1.0,0,0,,"Executable-reward post-training experiment harness for phlow: frozen task splits, bounded reward execution, RLOO group statistics, pass@k, selection/confirmation discipline, and run receipts. EXPERIM…"
+2026-10-29T09:13:40.5426Z,panweave-lite,0.3.0,0,0,https://github.com/ARyaskov/panweave,Panweave Lite: the Panweave Zigbee stack dimensioned for battery IAS Zone sensors on microcontrollers with 32 KiB of RAM
+2026-10-29T09:13:45.103099Z,sovos,0.0.0,0,0,,Reserved.
+2026-10-29T09:13:50.878241Z,sovos-core,0.0.0,0,0,,Reserved.
+2026-10-29T09:13:53.290416Z,truespeech,1.0.0,0,0,https://github.com/younsabood/truespeech,Stateful Rust implementation of the TrueSpeech encoder with WAV and Windows DLL APIs
+2026-10-29T09:13:57.149304Z,sovos-efatura,0.0.0,0,0,,Reserved.
+2026-10-29T09:14:02.70203Z,sovos-earsiv,0.0.0,0,0,,Reserved.
+2026-10-29T09:14:23.753193Z,zerodds-idl-parse,1.0.0-rc.7,0,0,https://github.com/zero-objects/zero-dds,"Hand-written recursive-descent parser for OMG IDL 4.2, building a lossless CST with error recovery."
+2026-10-29T09:14:50.672701Z,infr-metal,0.2.0,0,0,https://github.com/kryptic-sh/infr,Metal compute backend for the infr LLM inference engine on Apple GPUs
+2026-10-29T09:15:29.929604Z,zerodds-idl-lower,1.0.0-rc.7,0,0,https://github.com/zero-objects/zero-dds,"Lowers the IDL CST into the common AST: scopes, name binding, resolution, completion by specification rule, and IDL validation."
+2026-10-29T09:15:34.166906Z,bitchat-protocol,0.0.1,0,0,https://github.com/hedwig-corp/bitchat-to-sonar,"The bitchat BLE mesh wire protocol: packet framing, TLVs, Noise transport framing, signing — byte-compatible with permissionlesstech/bitchat and bitchat-android"
+2026-10-29T09:16:08.212795Z,sonar-stickers,0.1.0,0,0,https://github.com/hedwig-corp/bitchat-to-sonar,Nostr sticker pack models and validation for Sonar
+2026-10-29T09:16:51.215063Z,systemprompt-engine-loro,0.75.0,0,0,https://github.com/systempromptio/systemprompt-core,Loro CRDT engine for systemprompt.io live document sessions: implements the files domain's DocumentEngine seam with a pinned loro crate.
+2026-10-29T09:20:04.202689Z,cpp_parser,0.1.0,0,0,https://github.com/CppCXY/cpp_ls,A lossless C++ parser over the preprocessed text: the tree every layer above it reads.
+2026-10-29T09:20:11.716826Z,apace-traits,0.3.0-beta.4,0,0,https://github.com/glory-rs/apace,Shared traits and types for Apace

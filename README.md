@@ -8,60 +8,77 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 08:19 UTC
+## Latest list — 2026-10-29 09:20 UTC
 
-New crates published between 2026-10-29 07:18 UTC and 2026-10-29 08:19 UTC.
+New crates published between 2026-10-29 08:19 UTC and 2026-10-29 09:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-29T08-19-18-111288Z.csv)
+[Full CSV](data/new-crates-2026-10-29T09-20-41-168489Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-29 07:21:41 | [fluxel-host](https://crates.io/crates/fluxel-host) | 0.1.0 | 0 | Native host primitives for Fluxel applications |
-| 2026-10-29 07:21:41 | [clibrary](https://crates.io/crates/clibrary) | 0.1.0 | 0 | A navigable, metadata-aware personal library for EPUB files |
-| 2026-10-29 07:21:57 | [gpui-auto-update-core](https://crates.io/crates/gpui-auto-update-core) | 0.1.0-beta.1 | 0 | Framework-independent update state, feed, verification, and policy contracts fo… |
-| 2026-10-29 07:21:59 | [gpui-auto-update-cli](https://crates.io/crates/gpui-auto-update-cli) | 0.1.0-beta.1 | 0 | Release and integration tooling for gpui-auto-update: keys, feeds, verification… |
-| 2026-10-29 07:22:00 | [gpui-auto-update-linux](https://crates.io/crates/gpui-auto-update-linux) | 0.1.0-beta.1 | 0 | Linux backend for gpui-auto-update: verified managed-install staging, swap, and… |
-| 2026-10-29 07:22:00 | [gpui-auto-update-macos](https://crates.io/crates/gpui-auto-update-macos) | 0.1.0-beta.1 | 0 | macOS backend for gpui-auto-update, delegating update mechanics to Sparkle 2. |
-| 2026-10-29 07:22:06 | [gpui-auto-update-windows](https://crates.io/crates/gpui-auto-update-windows) | 0.1.0-beta.1 | 0 | Windows backend for gpui-auto-update: verified installer and portable update ha… |
-| 2026-10-29 07:25:11 | [clintegrator](https://crates.io/crates/clintegrator) | 0.1.0 | 0 | Cross-platform GUI and CLI that opens each file in the terminal command you've… |
-| 2026-10-29 07:27:08 | [fluxel-rhi-core](https://crates.io/crates/fluxel-rhi-core) | 0.1.0 | 0 | Portable API and backend contract for Fluxel RHI |
-| 2026-10-29 07:27:22 | [libbot](https://crates.io/crates/libbot) | 0.1.0 | 0 | A lightweight LLM and agentic API for Rust. |
-| 2026-10-29 07:27:41 | [fluxel-naga](https://crates.io/crates/fluxel-naga) | 0.1.0 | 0 | Naga shader translator with Fluxel HLSL storage binding-array fixes |
-| 2026-10-29 07:29:50 | [fluxel-rhi-dx12](https://crates.io/crates/fluxel-rhi-dx12) | 0.1.0 | 0 | Direct3D 12 backend for Fluxel RHI |
-| 2026-10-29 07:30:46 | [fluxel-rhi-vulkan](https://crates.io/crates/fluxel-rhi-vulkan) | 0.1.0 | 0 | Vulkan backend for Fluxel RHI |
-| 2026-10-29 07:32:14 | [gpui-auto-update](https://crates.io/crates/gpui-auto-update) | 0.1.0-beta.1 | 0 | Sparkle-quality automatic updates for GPUI. Sparkle on macOS, signed native upd… |
-| 2026-10-29 07:32:29 | [fluxel-rhi-webgpu](https://crates.io/crates/fluxel-rhi-webgpu) | 0.1.0 | 0 | Browser WebGPU backend for Fluxel RHI |
-| 2026-10-29 07:32:46 | [desktop-design-system](https://crates.io/crates/desktop-design-system) | 0.1.0 | 0 | High-performance native desktop design system, component library, and turnkey C… |
-| 2026-10-29 07:35:28 | [takia](https://crates.io/crates/takia) | 0.15.0 | 0 | Glory-maintained Taffy fork with corrected fractional flex gap layout |
-| 2026-10-29 07:36:14 | [fluxel-rhi-metal](https://crates.io/crates/fluxel-rhi-metal) | 0.1.0 | 0 | Metal backend for Fluxel RHI |
-| 2026-10-29 07:38:47 | [turborel](https://crates.io/crates/turborel) | 0.0.0 | 0 | The turborel relational database, as a library: its language SQL-86 and SQL-92… |
-| 2026-10-29 07:38:50 | [turborel-aes](https://crates.io/crates/turborel-aes) | 0.0.0 | 0 | AES-256-GCM encryption for turborel, as an encoding (RULES.md D26, D30, D48): f… |
-| 2026-10-29 07:38:50 | [turborel-lz4](https://crates.io/crates/turborel-lz4) | 0.0.0 | 0 | LZ4 compression for turborel, as an encoding (RULES.md D30, D48): files through… |
-| 2026-10-29 07:38:50 | [turborel-protocol](https://crates.io/crates/turborel-protocol) | 0.0.0 | 0 | The turborel server's native wire protocol: its messages and their encoding, wi… |
-| 2026-10-29 07:38:52 | [turborel-client](https://crates.io/crates/turborel-client) | 0.0.0 | 0 | A client of the turborel server: a blocking connection over its wire protocol (… |
-| 2026-10-29 07:42:14 | [gpui-auto-update-ui](https://crates.io/crates/gpui-auto-update-ui) | 0.1.0-beta.1 | 0 | Optional neutral, theme-inheriting GPUI update controls for gpui-auto-update. |
-| 2026-10-29 07:42:42 | [umbriel-mcp](https://crates.io/crates/umbriel-mcp) | 0.1.0 | 0 | MCP server for the Umbriel Wayland compositor: windows, workspaces, outputs, po… |
-| 2026-10-29 07:43:17 | [wingy-dpi](https://crates.io/crates/wingy-dpi) | 0.1.2 | 0 | Types for handling UI scaling |
-| 2026-10-29 07:43:23 | [wingy-core](https://crates.io/crates/wingy-core) | 0.31.0-beta.4 | 0 | wingy core API. |
-| 2026-10-29 07:43:27 | [wingy-common](https://crates.io/crates/wingy-common) | 0.31.0-beta.4 | 0 | Wingy implementation helpers |
-| 2026-10-29 07:43:30 | [wingy-android](https://crates.io/crates/wingy-android) | 0.31.0-beta.4 | 0 | Wingy's Android backend |
-| 2026-10-29 07:43:32 | [wingy-appkit](https://crates.io/crates/wingy-appkit) | 0.31.0-beta.4 | 0 | Wingy's Appkit / macOS backend |
-| 2026-10-29 07:45:42 | [turborel-server](https://crates.io/crates/turborel-server) | 0.0.0 | 0 | The turborel server, as a library: the database's sessions over a network, for… |
-| 2026-10-29 07:49:15 | [bevy-manual-mcp](https://crates.io/crates/bevy-manual-mcp) | 0.0.1 | 0 | Name reservation; the native Bevy MCP server is not published yet. |
-| 2026-10-29 07:50:52 | [wingy-orbital](https://crates.io/crates/wingy-orbital) | 0.31.0-beta.4 | 0 | Wingy's Orbital/Redox backend |
-| 2026-10-29 07:55:02 | [semantic-registry](https://crates.io/crates/semantic-registry) | 0.1.0 | 0 | A registry of named entries searched by meaning: tools, skills, prompts or sche… |
-| 2026-10-29 07:57:17 | [turborel-cli](https://crates.io/crates/turborel-cli) | 0.0.0 | 0 | turborel, the command-line client of the turborel server: SQL typed or read fro… |
-| 2026-10-29 08:00:54 | [wingy-uikit](https://crates.io/crates/wingy-uikit) | 0.31.0-beta.4 | 0 | Wingy's UIKit (iOS/tvOS/visionOS) backend |
-| 2026-10-29 08:01:21 | [eigenstyle](https://crates.io/crates/eigenstyle) | 1.0.0 | 0 | MCP stdio server for Matt Porter's voice profile (corpus, fingerprint, draft ch… |
-| 2026-10-29 08:03:02 | [coreav](https://crates.io/crates/coreav) | 0.0.0 | 0 | Placeholder for CoreAV, a Rust media toolkit. The first release will be 0.1.0. |
-| 2026-10-29 08:03:10 | [fluxel-rhi-gl](https://crates.io/crates/fluxel-rhi-gl) | 0.1.0 | 0 | OpenGL, OpenGL ES, and WebGL2 backend for Fluxel RHI |
-| 2026-10-29 08:03:26 | [eigenstyle-gui](https://crates.io/crates/eigenstyle-gui) | 1.0.0 | 0 | GPUI desktop GUI for the voice-profile corpus, fingerprint, and draft checker |
-| 2026-10-29 08:05:04 | [fluxel-rhi](https://crates.io/crates/fluxel-rhi) | 0.1.0 | 0 | Fluxel's statically dispatched RHI facade |
-| 2026-10-29 08:05:26 | [turboreld](https://crates.io/crates/turboreld) | 0.0.0 | 0 | turboreld, the turborel server's program: a daemon serving a database, configur… |
-| 2026-10-29 08:06:15 | [eigenstyle-tui](https://crates.io/crates/eigenstyle-tui) | 1.0.0 | 0 | ratatui terminal UI for the voice-profile corpus, fingerprint, and draft checker |
-| 2026-10-29 08:06:56 | [ruvel](https://crates.io/crates/ruvel) | 0.1.0 | 0 | The laravel alternative framework with rust performance |
-| 2026-10-29 08:10:41 | [lombokserde](https://crates.io/crates/lombokserde) | 0.1.0 | 0 | Zero-dependency JSON, TOML and MessagePack serialization with byte-identical re… |
-| 2026-10-29 08:10:57 | [wingy-wayland](https://crates.io/crates/wingy-wayland) | 0.31.0-beta.4 | 0 | Wingy's Wayland backend |
+| 2026-10-29 08:19:43 | [lumen-canon](https://crates.io/crates/lumen-canon) | 1.0.0 | 0 | canon-record/1 — lumen B2 (D-292/D-312): schema, validator, handle protocol, pr… |
+| 2026-10-29 08:20:50 | [wingy-web](https://crates.io/crates/wingy-web) | 0.31.0 | 0 | Wingy's Web (WebAssembly) backend |
+| 2026-10-29 08:21:15 | [validations_rs](https://crates.io/crates/validations_rs) | 0.1.0 | 0 | Generic, ordered business validations (Rust port of mdambro/validations). |
+| 2026-10-29 08:31:12 | [wingy-win32](https://crates.io/crates/wingy-win32) | 0.31.0 | 0 | Wingy's Win32/Windows backend |
+| 2026-10-29 08:33:06 | [infr-plat](https://crates.io/crates/infr-plat) | 0.2.0 | 0 | Platform seam for infr: every OS-specific capability behind one interface |
+| 2026-10-29 08:33:20 | [holger-provenance](https://crates.io/crates/holger-provenance) | 2.0.0 | 0 | Holger's provenance verifier: DSSE + in-toto + SLSA provenance, Sigstore bundle… |
+| 2026-10-29 08:33:30 | [phlow-council](https://crates.io/crates/phlow-council) | 0.1.0 | 0 | Candidate workflow for phlow: task contracts, candidate lineage, evidence, and… |
+| 2026-10-29 08:33:35 | [infr-prof](https://crates.io/crates/infr-prof) | 0.2.0 | 0 | #[infr_prof::instrument] — rewrites every fn in the annotated item to record a… |
+| 2026-10-29 08:33:45 | [phlow-experiment](https://crates.io/crates/phlow-experiment) | 0.1.0 | 0 | Staged supervised-self-improvement experiment scaffolding for phlow: control-pl… |
+| 2026-10-29 08:33:55 | [phlow-flowguard](https://crates.io/crates/phlow-flowguard) | 0.1.0 | 0 | OpenAPPA-style flow security for phlow: audience x trust labels, monotone by co… |
+| 2026-10-29 08:33:57 | [holger-sync](https://crates.io/crates/holger-sync) | 2.0.0 | 0 | Holger's sync protocol (H4): the signed sync manifest an upstream Holger sends… |
+| 2026-10-29 08:34:02 | [infr-prof-rt](https://crates.io/crates/infr-prof-rt) | 0.2.0 | 0 | Runtime for INFR_PROFILE build-time instrumentation (thread-local span accounti… |
+| 2026-10-29 08:34:37 | [infr-core](https://crates.io/crates/infr-core) | 0.2.0 | 0 | Shared types and backend, loader and graph seams for the infr LLM inference eng… |
+| 2026-10-29 08:35:05 | [infr-gguf](https://crates.io/crates/infr-gguf) | 0.2.0 | 0 | Zero-copy GGUF weight loader for the infr LLM inference engine |
+| 2026-10-29 08:35:45 | [infr-hub](https://crates.io/crates/infr-hub) | 0.2.0 | 0 | Hugging Face Hub model download and cache resolution for infr |
+| 2026-10-29 08:37:04 | [netex-rs](https://crates.io/crates/netex-rs) | 0.7.1 | 0 | CEN NeTEx (CEN/TS 16614) in Rust: reads and writes NeTEx 1.x and 2.0, resolves… |
+| 2026-10-29 08:37:08 | [netex2gtfs](https://crates.io/crates/netex2gtfs) | 0.1.2 | 0 | NeTEx to GTFS: a NeTEx delivery, read and resolved by netex-rs, written as a GT… |
+| 2026-10-29 08:37:12 | [netex-cli](https://crates.io/crates/netex-cli) | 0.1.2 | 0 | The netex command: a checking report for NeTEx deliveries, their statistics, co… |
+| 2026-10-29 08:42:52 | [livr-core](https://crates.io/crates/livr-core) | 0.1.0 | 0 | The engine of the livr crate: LIVR 2.0 validation rules at run time |
+| 2026-10-29 08:42:55 | [livr-macros](https://crates.io/crates/livr-macros) | 0.1.0 | 0 | The schema! macro of the livr crate: typed LIVR 2.0 schemas |
+| 2026-10-29 08:42:57 | [livr](https://crates.io/crates/livr) | 0.1.0 | 0 | LIVR 2.0 validator for Rust: all errors at once, rules as JSON, types inferred… |
+| 2026-10-29 08:43:05 | [livr-axum](https://crates.io/crates/livr-axum) | 0.1.0 | 0 | axum extractors for LIVR 2.0 validation with livr: all errors at once as JSON,… |
+| 2026-10-29 08:44:50 | [infr-chat](https://crates.io/crates/infr-chat) | 0.2.0 | 0 | Chat prompt rendering and model output parsing for infr |
+| 2026-10-29 08:46:05 | [phlow-inference](https://crates.io/crates/phlow-inference) | 0.1.0 | 0 | Inference-serving primitives for the phlow agent runtime, adapted from DeepSeek… |
+| 2026-10-29 08:46:16 | [phlow-json](https://crates.io/crates/phlow-json) | 0.1.0 | 0 | Checked JSON narrowing at untrusted boundaries for the phlow agent runtime |
+| 2026-10-29 08:51:29 | [zerodds-ast-core](https://crates.io/crates/zerodds-ast-core) | 1.0.0-rc.7 | 0 | Generic AST infrastructure: generational arenas, stable node ids, three-valued… |
+| 2026-10-29 08:52:35 | [zerodds-ast](https://crates.io/crates/zerodds-ast) | 1.0.0-rc.7 | 0 | Common AST for the ZeroDDS type system: source-neutral node space with per-sour… |
+| 2026-10-29 08:54:47 | [zerodds-ast-layout](https://crates.io/crates/zerodds-ast-layout) | 1.0.0-rc.7 | 0 | Wire layout planning over the common AST: XCDR1/XCDR2 member plans, length code… |
+| 2026-10-29 08:54:51 | [infr-cpu](https://crates.io/crates/infr-cpu) | 0.2.0 | 0 | CPU reference backend for the infr LLM inference engine |
+| 2026-10-29 08:57:12 | [wingy-x11](https://crates.io/crates/wingy-x11) | 0.31.0 | 0 | Wingy's X11 backend |
+| 2026-10-29 08:57:17 | [wingy](https://crates.io/crates/wingy) | 0.31.0 | 0 | Cross-platform window creation library. |
+| 2026-10-29 08:58:33 | [cadastre-core](https://crates.io/crates/cadastre-core) | 0.1.1 | 0 | Core of the Cadastre compiler: parsing, registry, resolution, views, renderings… |
+| 2026-10-29 08:58:34 | [cadastre-project](https://crates.io/crates/cadastre-project) | 0.1.1 | 0 | Reading a Cadastre project from the file system: its cadastre.toml, its sources… |
+| 2026-10-29 08:58:36 | [cadastre-lsp](https://crates.io/crates/cadastre-lsp) | 0.1.1 | 0 | Language server for Cadastre: diagnostics and semantic highlighting in editors. |
+| 2026-10-29 08:58:36 | [cadastre-mcp](https://crates.io/crates/cadastre-mcp) | 0.1.1 | 0 | MCP server for Cadastre: AI agents explore a project and write views and checks… |
+| 2026-10-29 08:58:38 | [cadastre](https://crates.io/crates/cadastre) | 0.1.1 | 0 | Your IT landscape, as code: the `cadastre` command, which compiles a project de… |
+| 2026-10-29 08:59:06 | [zerodds-config](https://crates.io/crates/zerodds-config) | 1.0.0-rc.7 | 0 | Layered configuration for ZeroDDS: a typed base file, sorted drop-in directorie… |
+| 2026-10-29 09:01:27 | [phlow-seccomp](https://crates.io/crates/phlow-seccomp) | 0.1.0 | 0 | Linux seccomp egress filter for phlow check children: socket(AF_INET/AF_INET6)… |
+| 2026-10-29 09:03:52 | [zingo-cli](https://crates.io/crates/zingo-cli) | 0.5.0 | 0 | Zingo command line wallet. |
+| 2026-10-29 09:05:22 | [infr-vulkan](https://crates.io/crates/infr-vulkan) | 0.2.0 | 0 | Vulkan compute backend for the infr LLM inference engine |
+| 2026-10-29 09:07:54 | [zerodds-float128](https://crates.io/crates/zerodds-float128) | 1.0.0-rc.7 | 0 | IEEE 754 binary128 in software: the sixteen bytes CDR gives `long double`, as a… |
+| 2026-10-29 09:09:41 | [dilemma](https://crates.io/crates/dilemma) | 0.1.0 | 0 | Generic engine for the dilemma rule of Stalmarck's method: n-saturation over us… |
+| 2026-10-29 09:11:20 | [paytr](https://crates.io/crates/paytr) | 0.0.0 | 0 | Reserved. |
+| 2026-10-29 09:11:45 | [sshd-config](https://crates.io/crates/sshd-config) | 0.3.0-alpha.1 | 0 | Read sshd_config and its Include files, and parse the output of `sshd -T`. |
+| 2026-10-29 09:12:05 | [scaleset](https://crates.io/crates/scaleset) | 0.1.0 | 0 | Autoscale GitHub Actions self-hosted runners: a client for the Runner Scale Set… |
+| 2026-10-29 09:13:16 | [apace_debug_timer](https://crates.io/crates/apace_debug_timer) | 0.1.3 | 0 | Utilities for simple timings |
+| 2026-10-29 09:13:17 | [zerodds-idl-cst](https://crates.io/crates/zerodds-idl-cst) | 1.0.0-rc.7 | 0 | Lossless concrete syntax tree for OMG IDL 4.2: tokens with attached trivia, a g… |
+| 2026-10-29 09:13:34 | [apace_accesskit](https://crates.io/crates/apace_accesskit) | 0.2.1 | 0 | AccessKit UI accessibility infrastructure: cross-platform adapter |
+| 2026-10-29 09:13:38 | [phlow-trainlab](https://crates.io/crates/phlow-trainlab) | 0.1.0 | 0 | Executable-reward post-training experiment harness for phlow: frozen task split… |
+| 2026-10-29 09:13:40 | [panweave-lite](https://crates.io/crates/panweave-lite) | 0.3.0 | 0 | Panweave Lite: the Panweave Zigbee stack dimensioned for battery IAS Zone senso… |
+| 2026-10-29 09:13:45 | [sovos](https://crates.io/crates/sovos) | 0.0.0 | 0 | Reserved. |
+| 2026-10-29 09:13:50 | [sovos-core](https://crates.io/crates/sovos-core) | 0.0.0 | 0 | Reserved. |
+| 2026-10-29 09:13:53 | [truespeech](https://crates.io/crates/truespeech) | 1.0.0 | 0 | Stateful Rust implementation of the TrueSpeech encoder with WAV and Windows DLL… |
+| 2026-10-29 09:13:57 | [sovos-efatura](https://crates.io/crates/sovos-efatura) | 0.0.0 | 0 | Reserved. |
+| 2026-10-29 09:14:02 | [sovos-earsiv](https://crates.io/crates/sovos-earsiv) | 0.0.0 | 0 | Reserved. |
+| 2026-10-29 09:14:23 | [zerodds-idl-parse](https://crates.io/crates/zerodds-idl-parse) | 1.0.0-rc.7 | 0 | Hand-written recursive-descent parser for OMG IDL 4.2, building a lossless CST… |
+| 2026-10-29 09:14:50 | [infr-metal](https://crates.io/crates/infr-metal) | 0.2.0 | 0 | Metal compute backend for the infr LLM inference engine on Apple GPUs |
+| 2026-10-29 09:15:29 | [zerodds-idl-lower](https://crates.io/crates/zerodds-idl-lower) | 1.0.0-rc.7 | 0 | Lowers the IDL CST into the common AST: scopes, name binding, resolution, compl… |
+| 2026-10-29 09:15:34 | [bitchat-protocol](https://crates.io/crates/bitchat-protocol) | 0.0.1 | 0 | The bitchat BLE mesh wire protocol: packet framing, TLVs, Noise transport frami… |
+| 2026-10-29 09:16:08 | [sonar-stickers](https://crates.io/crates/sonar-stickers) | 0.1.0 | 0 | Nostr sticker pack models and validation for Sonar |
+| 2026-10-29 09:16:51 | [systemprompt-engine-loro](https://crates.io/crates/systemprompt-engine-loro) | 0.75.0 | 0 | Loro CRDT engine for systemprompt.io live document sessions: implements the fil… |
+| 2026-10-29 09:20:04 | [cpp_parser](https://crates.io/crates/cpp_parser) | 0.1.0 | 0 | A lossless C++ parser over the preprocessed text: the tree every layer above it… |
+| 2026-10-29 09:20:11 | [apace-traits](https://crates.io/crates/apace-traits) | 0.3.0-beta.4 | 0 | Shared traits and types for Apace |
 
 ## Data source
 
