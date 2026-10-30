@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T03:21:55.010819Z,austringer-intel,0.1.3,0,0,https://github.com/vinaosb/austringer,"Model catalog and routing intelligence for austringer: R2 grids, trap rows, bounded hydration"
+2026-10-30T03:22:39.86441Z,nexia-nextcloud-sdk-request,0.2.1,0,0,https://github.com/Luxuride/nexia-nextcloud-sdk,Per-call lifecycle and retry policy for the Nextcloud Rust SDK
+2026-10-30T03:23:45.123296Z,pantometry-forcefield,0.23.0,0,0,https://github.com/YounghyeonPark/pantometry,"Small molecules as a simulation domain: a wwPDB chemical component typed for the Universal Force Field, in implicit or explicit water, with dynamics and free energies"
+2026-10-30T03:31:53.806247Z,austringer-orchestration,0.1.3,0,0,https://github.com/vinaosb/austringer,"Spec-driven launch, roles, and phases for austringer orchestration"
+2026-10-30T03:32:43.878403Z,nexia-nextcloud-sdk-session,0.2.1,0,0,https://github.com/Luxuride/nexia-nextcloud-sdk,Account lifecycle state machine for the Nextcloud Rust SDK
+2026-10-30T03:44:41.529379Z,openai-agents-sdk-macros,0.3.0,0,0,https://github.com/ngocthach/openai-agents-rust,Procedural macros for openai-agents-sdk (#[function_tool])
+2026-10-30T03:48:02.758125Z,teskeslab-design-system,1.0.0,0,0,https://github.com/TeskesLab/DesignSystem,"Teske's Lab semantic design tokens, fonts, and optional egui and GPUI Kit adapters"
+2026-10-30T03:52:51.665135Z,nexia-nextcloud-talk,0.2.1,0,0,https://github.com/Luxuride/nexia-nextcloud-sdk,Nextcloud Talk (Spreed) API client and domain types
+2026-10-30T04:03:02.977665Z,lock-hook,0.1.1,0,0,https://github.com/dariodaddamio/lock,Lock regions of a repository so coding agents cannot change them without a person's approval.
+2026-10-30T04:03:03.950033Z,nexia-nextcloud-transport,0.2.1,0,0,https://github.com/Luxuride/nexia-nextcloud-sdk,HTTP transport for the Nextcloud Rust SDK
+2026-10-30T04:13:08.315124Z,nexia-nextcloud-trashbin,0.2.1,0,0,https://github.com/Luxuride/nexia-nextcloud-sdk,Nextcloud Trashbin WebDAV API client and domain types
+2026-10-30T04:14:08.100391Z,crumbkit-derive,0.1.0,0,0,https://github.com/crumbkit/crumbkit,The derive macro for crumbkit's Failure trait
+2026-10-30T04:14:10.908876Z,crumbkit,0.1.0,0,0,https://github.com/crumbkit/crumbkit,Conventions for clap command-line tools that people and agents can drill into
+2026-10-30T04:14:13.277019Z,crumbkit-aliases,0.1.0,0,0,https://github.com/crumbkit/crumbkit,"Personal command aliases for crumbkit tools, read from a file in the user's config directory"
+2026-10-30T04:14:13.873109Z,crumbkit-child,0.1.0,0,0,https://github.com/crumbkit/crumbkit,"Hands the terminal to another program, such as an editor or a pager, as a crumbkit command's whole response"
+2026-10-30T04:14:14.470687Z,crumbkit-markdown,0.1.0,0,0,https://github.com/crumbkit/crumbkit,Writes a Markdown reference of every command of a crumbkit tool from its commands list document
+2026-10-30T04:15:14.680987Z,austringer-web,0.1.3,0,0,https://github.com/vinaosb/austringer,Daemon-served web dashboard SPA for austringer (no node server)
+2026-10-30T04:16:26.562393Z,austringer-daemon,0.1.3,0,0,https://github.com/vinaosb/austringer,"The austringer engine daemon: sessions, routing, permissions, cost budgets"
+2026-10-30T04:17:32.945077Z,austringer-cli,0.1.3,0,0,https://github.com/vinaosb/austringer,"Thin terminal client over the austringer daemon (run, capture, REPL, attach, doctor)"
+2026-10-30T04:18:18.534335Z,meridian-project-domain,0.1.0,0,0,https://github.com/F000NKKK/Meridian-CLI,"What a Meridian project is: its name, its templates and the files a template makes."
+2026-10-30T04:18:20.3638Z,meridian-project-app,0.1.0,0,0,https://github.com/F000NKKK/Meridian-CLI,The use cases of projects: make a new project from a template.
+2026-10-30T04:18:22.310259Z,meridian-project-fs,0.1.0,0,0,https://github.com/F000NKKK/Meridian-CLI,The disk adapter of the project files port.
+2026-10-30T04:18:23.398067Z,meridian-project-process,0.1.0,0,0,https://github.com/F000NKKK/Meridian-CLI,"The adapters that run cargo, the installed tools and a built game as processes."
+2026-10-30T04:18:25.998221Z,meridian-cli,0.1.0,0,0,https://github.com/F000NKKK/Meridian-CLI,The `meridian` command-line tool: it alone knows what a Meridian project is.
+2026-10-30T04:18:40.300287Z,austringer-tui,0.1.3,0,0,https://github.com/vinaosb/austringer,Terminal user interface for the austringer daemon (ratatui)
