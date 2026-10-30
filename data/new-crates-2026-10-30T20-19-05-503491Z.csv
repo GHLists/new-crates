@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T19:21:58.469879Z,lattice-serve,0.15.0,0,0,https://github.com/ohdearquant/lattice,"OpenAI-compatible HTTP serving and the lattice CLI, built on lattice-inference"
+2026-10-30T19:25:18.326293Z,keri-kel,0.1.0,0,0,https://github.com/AABelkhiria/keri-kel,KERI key event log validation: accepting events into a log and deriving key state
+2026-10-30T19:25:53.514502Z,tilewright-render-sdl3,0.5.1,0,0,https://github.com/seraphinastudios/tilewright-renderer,Thin SDL3 native-surface adapter for the Tilewright renderer
+2026-10-30T19:26:23.024836Z,gridoxide-gpu,0.3.0,0,0,https://github.com/m-mirz/gridoxide,gridoxide's batched AC power flow for NVIDIA GPUs: an adaptive Newton loop over cuDSS's uniform batch
+2026-10-30T19:28:59.918197Z,aphrody-infra,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Bun OS infrastructure, workflow, development environment and deployment orchestrator"
+2026-10-30T19:32:24.182044Z,gimp-gexiv2-sys,0.1.0,0,0,https://github.com/arma-tools/gimp-rs,"GExiv2 FFI bindings, generated with gir (used by the gimp crate)"
+2026-10-30T19:32:26.784629Z,gimp-gexiv2,0.1.0,0,0,https://github.com/arma-tools/gimp-rs,"GExiv2 Rust bindings, generated with gir (used by the gimp crate)"
+2026-10-30T19:32:27.498722Z,gimp-sys,0.1.0,0,0,https://github.com/arma-tools/gimp-rs,GIMP 3 (libgimp) FFI bindings
+2026-10-30T19:32:30.087182Z,gimp,0.1.0,0,0,https://github.com/arma-tools/gimp-rs,"Rust bindings for libgimp 3, generated with gir, for writing GIMP plug-ins"
+2026-10-30T19:32:34.46541Z,gimp-ui-sys,0.1.0,0,0,https://github.com/arma-tools/gimp-rs,GIMP 3 (libgimpui) FFI bindings
+2026-10-30T19:33:15.163983Z,this-vite,0.0.1,0,0,https://github.com/this-rs/vite-rs,"Tiny Vite-like dev server library: serve a static SPA with hot reload, rebuild-on-change, client error reporting and an AI debugging bridge (browser RPC, console/network capture)."
+2026-10-30T19:35:09.294294Z,netscenario-agent,0.0.0,0,0,https://github.com/leonkrix/netscenario,The traffic generators and probes that run inside the nodes of a netscenario run
+2026-10-30T19:35:10.010292Z,netscenario-model,0.0.0,0,0,https://github.com/leonkrix/netscenario,"Scenario types, units, validation and the JSON Schema of netscenario"
+2026-10-30T19:35:12.1067Z,netscenario-core,0.0.0,0,0,https://github.com/leonkrix/netscenario,"Run lifecycle, timeline, link models, statistics and results of netscenario"
+2026-10-30T19:35:14.283501Z,xsyd-todo,0.1.1,0,0,https://github.com/xsyd-l/CLI_todo.git,A notepad program that interacts via the command line.
+2026-10-30T19:35:14.816499Z,netscenario-backend-kernel,0.0.0,0,0,https://github.com/leonkrix/netscenario,"The Kernel backend of netscenario: network namespaces, virtual Ethernet pairs and netem"
+2026-10-30T19:35:17.445886Z,netscenario-cli,0.0.0,0,0,https://github.com/leonkrix/netscenario,The command line of netscenario
+2026-10-30T19:38:48.733933Z,aphrody-memory,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,aphrody memory SDK — async MemoryBackend (JSONL/HNSW/SQLite) + MemoryProvider (Mem0/Honcho/SqliteLocal Tier-1).
+2026-10-30T19:39:02.512969Z,ofdbox-folio-ofd,0.0.1,0,0,https://github.com/ofdbox/ofdbox-folio,OFD and Fixed IR read/write adapters for OFDBox Folio.
+2026-10-30T19:39:23.844355Z,ofdbox-folio,0.0.1,0,0,https://github.com/ofdbox/ofdbox-folio,OFDBox Folio multi-format document engine facade.
+2026-10-30T19:39:37.503138Z,gimp-ui,0.1.0,0,0,https://github.com/arma-tools/gimp-rs,"Rust bindings for libgimpui 3 (GIMP plug-in dialogs and widgets), generated with gir"
+2026-10-30T19:40:05.364481Z,td,0.1.2,0,0,https://tangled.org/@your-handle/td,Tangled CLI - A command-line interface for Tangled (tangled.org)
+2026-10-30T19:40:58.861985Z,bin-package-manager-trauma,3.0.0,0,0,https://github.com/lxl66566/bpm-rs,"A fork of the trauma crate: simple asynchronous HTTP downloads with progress bars, tailored for bpm"
+2026-10-30T19:41:08.566841Z,qraken,0.0.1,0,0,,Placeholder: name reserved for a future project.
+2026-10-30T19:48:48.465719Z,aphrody-session,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Conversation session tracker for aphrody — turns + tool calls + token usage + cost, persisted as JSONL with atomic writes and deterministic replay; incremental mirror of external agent sessions (Anti…"
+2026-10-30T19:49:59.078261Z,tincan-common,0.1.0,0,0,,Shared message types for the tincan terminal chat
+2026-10-30T19:50:04.518016Z,tincan-tui,0.1.0,0,0,,A very simple terminal chat client
+2026-10-30T19:50:55.172434Z,tincan-server,0.1.0,0,0,,Server for the tincan terminal chat
+2026-10-30T19:52:22.859839Z,chanto-core,0.1.0,0,0,https://github.com/chanto-sh/chanto.git,"The parts of the chanto agent that build for every target, WebAssembly included"
+2026-10-30T19:58:46.026115Z,bun_native,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Host hardware topology (CPU, RAM, CUDA) and monotonic clock probes."
+2026-10-30T19:59:26.050376Z,onyx-cli,0.3.0,0,0,https://github.com/sumdahl/onyx,"Reclaim disk space on Linux, safely: a disk cleaner that dry-runs first"
+2026-10-30T20:08:47.30501Z,bun_pkg,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Package contracts and metadata parsers (npm, Cargo sparse, NuGet, vcpkg, PyPI), verified blob store, bounded HTTP ingestion and the store command line"
+2026-10-30T20:11:33.49345Z,tilewright-jsonc,0.1.0,0,0,https://github.com/seraphinastudios/tilewright-world,"Strict, lossless, bounded JSONC parser for Tilewright world sources"
+2026-10-30T20:12:48.414565Z,ireert,0.1.0,0,0,https://github.com/calebbuffa/iree-rs,Rust API for the IREE runtime
+2026-10-30T20:13:52.71696Z,vulkane-kernels-source,0.16.3,0,0,https://github.com/ciresnave/vulkane,GPU kernel source files (.slang / .glsl) for Vulkane and its consumers. Compile ahead of time with kernels/compile.sh; compiled SPIR-V is the consumer's to build and ship.
+2026-10-30T20:18:48.428527Z,aphrody-terminal-backend,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,Native pty driver and WebSocket server for aphrody-terminal (cross-platform via portable-pty).
