@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T00:19:25.450071Z,regie-core,0.1.0,0,0,https://github.com/danalec/regie,"no_std deterministic regex engine: safe dialect, Thompson NFA, Pike VM, compact DFA"
+2026-10-30T00:19:44.210349Z,certval_stores_webpki_root_certs,1.0.0-rc.1,0,0,https://github.com/carl-wallace/certval-stores,"Mozilla TLS server root certificates for certval, taken from the webpki-root-certs crate"
+2026-10-30T00:19:54.905085Z,regie-codec,0.1.0,0,0,https://github.com/danalec/regie,Serialization of compiled regie automata for embedded firmware
+2026-10-30T00:19:59.322121Z,regie-intent,0.1.0,0,0,https://github.com/danalec/regie,Micro-model that turns natural-language requests into structured regex specifications
+2026-10-30T00:19:59.896665Z,austringer-snapshots,0.1.3,0,0,https://github.com/vinaosb/austringer,Git-ref-backed snapshot store for the austringer daemon: files and history restored together
+2026-10-30T00:20:26.491451Z,austringer-skills,0.1.3,0,0,https://github.com/vinaosb/austringer,"Skills runtime for austringer: quarantine, trust gates, and the lock ledger"
+2026-10-30T00:21:16.283223Z,austringer-test-support,0.1.3,0,0,https://github.com/vinaosb/austringer,Shared hermetic test kits for the austringer workspace
+2026-10-30T00:21:17.01687Z,osst-core,0.0.1-rc.3,0,0,https://gitlab.com/osst-labs/osst-lib,"Core types of OSST threshold identification: ciphersuite trait, share indices, errors"
+2026-10-30T00:21:18.979213Z,osst-prover,0.0.1-rc.3,0,0,https://gitlab.com/osst-labs/osst-lib,OSST prover: proof generation and the key-custody interface
+2026-10-30T00:21:19.42208Z,osst-sharing,0.0.1-rc.3,0,0,https://gitlab.com/osst-labs/osst-lib,"OSST share management: dealing, DKG, refresh, redistribution, repair"
+2026-10-30T00:21:19.83602Z,osst-verifier,0.0.1-rc.3,0,0,https://gitlab.com/osst-labs/osst-lib,"OSST verifier: weights, verification and share inference"
+2026-10-30T00:21:21.208565Z,osst-session,0.0.1-rc.3,0,0,https://gitlab.com/osst-labs/osst-lib,"OSST verification sessions: phases, incremental checks, baseline search"
+2026-10-30T00:21:35.204298Z,nexia-nextcloud-dav,0.2.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,WebDAV client foundation for the Nextcloud Rust SDK
+2026-10-30T00:24:41.545774Z,regie-search,0.1.0,0,0,https://github.com/danalec/regie,Verified hypothesis search over structured regex specifications
+2026-10-30T00:24:59.514515Z,regie-cli,0.1.0,0,0,https://github.com/danalec/regie,Command line front-end for the regie regex engine
+2026-10-30T00:29:36.07986Z,certval_stores_mozilla,1.0.0-rc.1,0,0,https://github.com/carl-wallace/certval-stores-mozilla,"Mozilla root program trust store for certval, generated from the CCADB report Mozilla publishes"
+2026-10-30T00:31:50.446573Z,nexia-nextcloud-deck,0.2.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Nextcloud Deck REST API client and domain models
+2026-10-30T00:31:56.95426Z,austringer-core,0.1.3,0,0,https://github.com/vinaosb/austringer,"The austringer engine: agent loop, events, tool registry, autonomy, budgets, compaction"
+2026-10-30T00:40:39.740152Z,nexia-nextcloud-goa,0.2.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,GNOME Online Accounts integration for the Nextcloud Rust SDK
+2026-10-30T00:41:52.455811Z,austringer-ast,0.1.3,0,0,https://github.com/vinaosb/austringer,Bounded grammar-aware source analysis and deterministic file walking for austringer
+2026-10-30T00:49:58.723014Z,rustgrade-core,0.2.0,0,0,https://github.com/angeldevmobile/rustgrade,"Rule engine for rustgrade. Pure library: no I/O, no transport."
+2026-10-30T00:50:31.662742Z,rustgrade,0.2.0,0,0,https://github.com/angeldevmobile/rustgrade,Systems-level Rust review for AI coding agents and for CI.
+2026-10-30T00:51:06.485694Z,nexia-nextcloud-kaccounts,0.2.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,KDE Plasma Online Accounts (KAccounts / Accounts-SSO) integration for Nextcloud system accounts
+2026-10-30T00:51:53.302892Z,austringer-vfs,0.1.3,0,0,https://github.com/vinaosb/austringer,Shadow-preflight virtual filesystem with hash-verified single-file transactions for austringer
+2026-10-30T00:58:42.652315Z,osor,0.1.0,0,0,https://github.com/doublesharp/osor-rs,Native Rust OSOR SDXL Phase II inference
+2026-10-30T01:00:26.097268Z,osst-brainpoolp256r1,0.0.1-rc.3,0,0,https://gitlab.com/osst-labs/osst-lib,OSST threshold identification over brainpoolP256r1 with SHA-256
+2026-10-30T01:00:28.476002Z,osst-brainpoolp384r1,0.0.1-rc.3,0,0,https://gitlab.com/osst-labs/osst-lib,OSST threshold identification over brainpoolP384r1 with SHA-384
+2026-10-30T01:00:30.782148Z,osst-p256,0.0.1-rc.3,0,0,https://gitlab.com/osst-labs/osst-lib,OSST threshold identification over NIST P-256 with SHA-256
+2026-10-30T01:01:21.454989Z,nexia-nextcloud-notifications,0.2.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Nextcloud Notifications API (v2) client and domain models
+2026-10-30T01:01:34.218065Z,osst-p384,0.0.1-rc.3,0,0,https://gitlab.com/osst-labs/osst-lib,OSST threshold identification over NIST P-384 with SHA-384
+2026-10-30T01:09:31.635649Z,quercus-core,0.5.2,0,0,,"Rust value types mirroring quercuscore (Rational, TimeRange, format enums) (internal; do not depend directly)"
+2026-10-30T01:09:35.731908Z,quercus-ffmpeg-link,0.5.2,0,0,,Quercus Video Editor internal link helper: transitive dependencies of a static FFmpeg (Rust) (internal; do not depend directly)
+2026-10-30T01:09:42.211504Z,quercus-undo,0.5.2,0,0,,Quercus Video Editor undo/redo history module (Rust) (internal; do not depend directly)
+2026-10-30T01:11:38.255877Z,nexia-nextcloud-preview,0.2.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Nextcloud preview and thumbnail generation client
+2026-10-30T01:16:52.338594Z,quercus-codec,0.5.2,0,0,,Quercus Video Editor media codec module (Rust) (internal; do not depend directly)
+2026-10-30T01:16:58.643949Z,quercus-node,0.5.2,0,0,,Quercus Video Editor node graph engine (Rust) (internal; do not depend directly)
