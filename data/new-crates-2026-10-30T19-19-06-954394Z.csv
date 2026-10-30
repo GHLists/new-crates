@@ -1,0 +1,60 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T18:19:48.962734Z,rusty-gpui-runtime,0.4.0,0,0,https://github.com/Ahmdrza/rusty-gpui,GPUI 0.2.2 runtime compatibility distribution for Rusty GPUI
+2026-10-30T18:20:02.973945Z,rusty-gpui-theme,0.4.0,0,0,https://github.com/Ahmdrza/rusty-gpui,Dependency-free semantic theme generation for Rusty GPUI
+2026-10-30T18:20:11.710314Z,lattice-model-qwen3-embedding,0.15.0,0,0,https://github.com/ohdearquant/lattice,"Qwen3 embedding model, tensor assembly and optional Metal acceleration for Lattice"
+2026-10-30T18:21:27.125778Z,rusty-gpui-components,0.4.0,0,0,https://github.com/Ahmdrza/rusty-gpui,Native GPUI component foundations and controls for the Rusty GPUI design system
+2026-10-30T18:22:05.247926Z,rusty-gpui,0.4.0,0,0,https://github.com/Ahmdrza/rusty-gpui,Rusty GPUI native GPUI components and theme integration
+2026-10-30T18:22:56.225141Z,clicmd,0.1.0,0,0,https://github.com/johnstonskj/clicmd,This crate provides some composable components for command-line applications.
+2026-10-30T18:23:52.01549Z,tilewright-render-resources,0.5.1,0,0,https://github.com/seraphinastudios/tilewright-renderer,Bounded content-addressed rendering resources for Tilewright
+2026-10-30T18:24:18.336389Z,nq-verify-bundle,0.1.0,0,0,,Verify ZIP bundle structure and NEXUS-Q Core SHA-256 content manifests
+2026-10-30T18:30:26.235089Z,lattice-model-gemma4,0.15.0,0,0,https://github.com/ohdearquant/lattice,Gemma4 CPU checkpoint assembly and text generation for Lattice
+2026-10-30T18:30:31.886458Z,lionturtle,0.1.0,0,0,https://github.com/danthegoodman1/lionturtle,"An embedded key-value store built on TurtleKV's TurtleTree, with paced checkpoints for high throughput and short tail latency"
+2026-10-30T18:34:08.358953Z,tilewright-render-ui,0.5.1,0,0,https://github.com/seraphinastudios/tilewright-renderer,Renderer-neutral UI and typography seam for Tilewright
+2026-10-30T18:39:25.427765Z,nq-workspace,0.1.0,0,0,,Create and validate safe starter project structures
+2026-10-30T18:39:39.049801Z,timewren,0.0.1,0,0,https://github.com/timewren,"Placeholder for TimeWren, open-source time tracking and prepaid hours by Mahope. Nothing to use yet."
+2026-10-30T18:40:15.08138Z,logquill-core,3.0.0-rc.1,0,0,,"LogQuill core: records, levels, privacy, integrity and pipeline logic. No I/O, no threads."
+2026-10-30T18:40:40.901675Z,logquill-runtime,3.0.0-rc.1,0,0,,"LogQuill runtime: the bounded queue and worker, and the native transports."
+2026-10-30T18:40:41.978591Z,lattice-model-ernie45,0.15.0,0,0,https://github.com/ohdearquant/lattice,ERNIE4.5 decoder for Lattice
+2026-10-30T18:41:00.976162Z,logquill-ffi,3.0.0-rc.1,0,0,,"LogQuill's stable C ABI: a Logger handle and the core's helpers, for hosts that load a shared library."
+2026-10-30T18:41:07.059863Z,logquill-cli,3.0.0-rc.1,0,0,,"The logquill command: tail, trace, dev, serve and verify."
+2026-10-30T18:41:58.061387Z,dtn-wal,0.1.0,0,0,https://github.com/IBEASTMANISH/dtn-wal,"Crash-resilient, append-only SQLite WAL store-and-forward bundle queue for delay-tolerant networks (DTN) and off-grid radio mesh."
+2026-10-30T18:43:09.183872Z,xz-native,0.1.0+xz.5.8.4,0,0,https://github.com/zcsizmadia/xz-native,"Pure Rust XZ/LZMA compression and decompression, compatible with xz/liblzma: byte-identical output, the same strictness on bad input, no C code."
+2026-10-30T18:44:07.665162Z,pliron-mlir-builtin,0.1.0,0,0,https://github.com/calebbuffa/pliron-dialects,"MLIR builtin types and attributes for pliron, with optional textual MLIR interop"
+2026-10-30T18:44:13.153856Z,aphrody-command-pure,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Pure aphrody sub-commands (rag, toolcall, html, text): clap parsing and execution with no network, process, tokio, git or ssh. Shared by the native aphrody-command and the wasm32 targets."
+2026-10-30T18:44:30.659793Z,tilewright-render-world,0.5.1,0,0,https://github.com/seraphinastudios/tilewright-renderer,"Deterministic tile-world compiler: isometric and top-down projection, terrain stretching, draw order and effects"
+2026-10-30T18:44:36.065742Z,bun-os-google,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Google SDK for Bun OS: public search (SERP, discovery, cache), language detection atlas and the Google project contract."
+2026-10-30T18:45:53.344775Z,ofdbox-folio-ir,0.0.1,0,0,https://github.com/ofdbox/ofdbox-folio,"Flow IR, Fixed IR, and reader contracts for OFDBox Folio."
+2026-10-30T18:45:58.101232Z,ofdbox-folio-layout,0.0.1,0,0,https://github.com/ofdbox/ofdbox-folio,One-way typesetting engine from Flow IR to Fixed IR for OFDBox Folio.
+2026-10-30T18:46:16.83939Z,ofdbox-folio-render,0.0.1,0,0,https://github.com/ofdbox/ofdbox-folio,Fixed IR rendering and caching for OFDBox Folio.
+2026-10-30T18:46:18.803225Z,pliron-arith,0.1.0,0,0,https://github.com/calebbuffa/pliron-dialects,MLIR arith dialect for pliron
+2026-10-30T18:46:25.242591Z,ofdbox-folio-docx,0.0.1,0,0,https://github.com/ofdbox/ofdbox-folio,DOCX and Flow IR read/write adapter for OFDBox Folio.
+2026-10-30T18:46:31.765916Z,aphrody-wireguard,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Native WireGuard for Aphrody: keys, wg-quick configuration, Linux kernel/userspace and WireGuardNT backends, private tunnel inventory."
+2026-10-30T18:46:38.832166Z,ofdbox-folio-pdf,0.0.1,0,0,https://github.com/ofdbox/ofdbox-folio,PDF and Fixed IR read/write adapter for OFDBox Folio.
+2026-10-30T18:47:04.204844Z,clarify-kit,0.0.1-alpha.1,0,0,https://github.com/carlos-space/prototype,Markdown documentation toolkit prototype (alpha): generate a table of contents from headings.
+2026-10-30T18:48:45.245416Z,aphrody-remote-desktop,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Cross-platform remote-desktop server (JPEG over WebSocket, embedded browser viewer) for `aphrody infra remote serve`."
+2026-10-30T18:49:25.954534Z,aphrody-terminal-core,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Portable Rio VT terminal state shared by the native PTY backend, WASM and Tauri hosts."
+2026-10-30T18:49:54.690165Z,promptex-kit,0.0.1-alpha.1,0,0,https://github.com/promptex-ai/promptex-prototype,Prompt template toolkit prototype (alpha): fill {{var}} placeholders in a prompt template.
+2026-10-30T18:50:01.401819Z,aphrody-bun-docs,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,Offline Bun documentation (docs/ of oven-sh/bun) and n2b Node-to-Bun equivalents as an Aphrody OS MCP subsystem.
+2026-10-30T18:50:03.163631Z,bevy_gooey,0.1.0,0,0,https://github.com/Ladvien/bevy_gooey,"Game interfaces made easy for Bevy: a skin, ready-made game widgets (buttons, panels, menus, HUD meters, tooltips, modal dialogs) and keyboard and gamepad navigation, on Bevy's own headless widgets."
+2026-10-30T18:50:53.340856Z,pliron-math,0.1.0,0,0,https://github.com/calebbuffa/pliron-dialects,MLIR math dialect for pliron
+2026-10-30T18:50:58.051761Z,lattice-model-qwen35,0.15.0,0,0,https://github.com/ohdearquant/lattice,"Qwen3.5 CPU and Metal model, checkpoint assembly and generation for Lattice"
+2026-10-30T18:53:57.003146Z,pliron-linalg,0.1.0,0,0,https://github.com/calebbuffa/pliron-dialects,MLIR linalg dialect for pliron
+2026-10-30T18:54:52.288098Z,tilewright-render-api,0.5.1,0,0,https://github.com/seraphinastudios/tilewright-renderer,"Renderer-neutral target, lifecycle, and frame contracts for Tilewright"
+2026-10-30T18:58:11.664546Z,pliron-tensor,0.1.0,0,0,https://github.com/calebbuffa/pliron-dialects,MLIR tensor dialect for pliron
+2026-10-30T18:58:53.588464Z,aphrody-kernel,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"The Aphrody OS privileged user-space control plane: administration, MCP tools, skills and bus events over local IPC."
+2026-10-30T19:00:38.161327Z,pliron-iree-linalg-ext,0.1.0,0,0,https://github.com/calebbuffa/pliron-dialects,IREE iree_linalg_ext dialect for pliron
+2026-10-30T19:01:12.305752Z,lattice-router,0.15.0,0,0,https://github.com/ohdearquant/lattice,"Request-level LoRA adapter routing for Lattice: the router gate, its on-disk state, episodes, refit and admission"
+2026-10-30T19:02:33.719034Z,testgeneratedproject9,0.1.0,0,0,https://gitlab.in2p3.fr/CTA-LAPP/PHOENIX_LIBS2/poc/TestGeneratedProject9,A test project for testing project generation
+2026-10-30T19:03:13.030058Z,swig-no-padding,3.0.0,0,0,https://github.com/anagrambuild/swig-wallet,Compile-time padding checks for Swig protocol state
+2026-10-30T19:03:48.962563Z,swig-assertions,3.0.0,0,0,https://github.com/anagrambuild/swig-wallet,Solana program assertion utilities
+2026-10-30T19:03:57.40782Z,swig-compact-instructions,3.0.0,0,0,https://github.com/anagrambuild/swig-wallet,Swig protocol instructions handling
+2026-10-30T19:04:14.398419Z,swig-state,3.0.0,0,0,https://github.com/anagrambuild/swig-wallet,Account state and permissions for the Swig Solana protocol
+2026-10-30T19:05:13.683377Z,tilewright-render-testkit,0.5.1,0,0,https://github.com/seraphinastudios/tilewright-renderer,Deterministic renderer doubles and conformance scenes for Tilewright
+2026-10-30T19:05:22.117818Z,plane_grapher,0.1.0,0,0,,A Binary Crate with useful Structures to use in Maths
+2026-10-30T19:08:49.978587Z,aphrody-diagnostics,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,"Doctor, OS/infra status, resolved config and AI environment shared by the CLI and the desktop app."
+2026-10-30T19:10:22.101052Z,jouet-search,0.0.0,0,0,,Reserved.
+2026-10-30T19:11:26.369005Z,lattice-backward,0.15.0,0,0,https://github.com/ohdearquant/lattice,"Reverse-mode gradients (VJPs) for LoRA training on Lattice transformer layers: GQA attention, GatedDeltaNet, RMSNorm, SwiGLU"
+2026-10-30T19:15:35.970709Z,tilewright-render-wgpu,0.5.1,0,0,https://github.com/seraphinastudios/tilewright-renderer,"Private Vulkan, D3D12, WebGPU and WebGL2 wgpu renderer for Tilewright"
+2026-10-30T19:16:53.136144Z,noqtis,0.1.1,0,0,https://github.com/rootcoder007/noqtis,"Post-quantum signatures (ML-DSA, SLH-DSA), KEMs (ML-KEM, HQC), hashes and sealed file capsules: the noqtis C library, compiled in"
+2026-10-30T19:17:08.285638Z,meshopt-pure,1.3.0,0,0,https://github.com/qbart/meshopt-pure,"Pure Rust port of meshoptimizer: mesh optimization, simplification, clustering and compression"
+2026-10-30T19:18:47.873603Z,aphrody-yolo,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,Sovereign autonomous runtime core for Aphrody ecosystem.
