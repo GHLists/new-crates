@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T15:23:52.464944Z,ollev,0.1.0,0,0,https://github.com/tagtraumen/ollev,"Raster images traced into layered vector scenes: shapes, strokes, gradients, blurs, repeats and translucent layers"
+2026-10-30T15:24:05.615277Z,pipedash-plugin-prow,0.0.0,0,0,https://github.com/hcavarsan/pipedash,Prow plugin for Pipedash
+2026-10-30T15:25:11.855493Z,into-ref,0.1.2,0,0,https://github.com/A4-Tacks/into-ref-rs,"Generic assist traits, consume self into a reference"
+2026-10-30T15:29:24.405261Z,tunlion-overlay,0.1.0,0,0,https://github.com/Abdk4Moura/tunlion,"Self-certifying overlay addresses: an IPv6 address derived from an Ed25519 key, with link-bound announcements"
+2026-10-30T15:29:24.59112Z,tunlion-proto,0.1.0,0,0,https://github.com/Abdk4Moura/tunlion,Wire vocabulary and pure ceremony decisions for peer-to-peer file transfer
+2026-10-30T15:29:24.791374Z,tunlion-signal,0.1.0,0,0,https://github.com/Abdk4Moura/tunlion,"Minimal Engine.IO v4 / Socket.IO v5 websocket client for tunlion's signaling, on rustls."
+2026-10-30T15:29:25.046269Z,tunlion-transfer,0.1.0,0,0,https://github.com/Abdk4Moura/tunlion,Out-of-order chunk reassembly and short-write-safe positional writes for file transfer
+2026-10-30T15:29:27.394909Z,tunlion-transport,0.1.0,0,0,https://github.com/Abdk4Moura/tunlion,Instance-owned transport ladder for tunlion's peer-to-peer connections
+2026-10-30T15:30:36.886808Z,texture-compressor,0.1.1,0,0,https://github.com/Tavrin/texture-compressor,"Deterministic BC1, BC3, BC4, BC5 and BC7 texture encoding for native and WebAssembly"
+2026-10-30T15:31:40.360911Z,tunlion-fleet,0.1.0,0,0,https://github.com/Abdk4Moura/tunlion,Same-owner device auto-mesh: certificate-based admission with per-link possession proofs
+2026-10-30T15:31:48.216594Z,centrality-explorer,0.1.0,0,0,https://github.com/vigna/centrality-explorer-rs,Visual explorer for centrality measures
+2026-10-30T15:32:41.505979Z,sonarithm-compiler,0.1.0-alpha,0,0,https://github.com/DuhItzAniket/SONARITHM,"SONARITHM compiler: pipeline orchestration, engine registry and diagnostics (spec to Score)."
+2026-10-30T15:32:56.732501Z,nq-log-view,0.1.0,0,0,,"Filter text logs by level, text, or ISO date"
+2026-10-30T15:38:49.746655Z,refield-macros,0.1.0,0,0,https://github.com/ZnqbuZ/refield,The procedural macro engine powering the refield crate
+2026-10-30T15:38:51.927006Z,refield,0.1.0,0,0,https://github.com/ZnqbuZ/refield,"Cross-type struct update macros for Rust, with field renaming, conversions, and partial moves"
+2026-10-30T15:39:05.660936Z,rustmpeg-core,0.1.0-alpha.1,0,0,https://github.com/sysv86/rustmpeg-next,"Core traits, time and frame primitives, zero-copy buffers, and base errors for rustmpeg-next"
+2026-10-30T15:39:12.412275Z,rustmpeg-format,0.1.0-alpha.1,0,0,https://github.com/sysv86/rustmpeg-next,ISOBMFF/CMAF and Matroska demuxers/muxers plus MoQ transport for rustmpeg-next
+2026-10-30T15:39:16.606875Z,rustmpeg-audio,0.1.0-alpha.1,0,0,https://github.com/sysv86/rustmpeg-next,"Opus, FLAC, LPCM, LC3 and IAMF audio stack for rustmpeg-next"
+2026-10-30T15:39:20.341666Z,rustmpeg-image,0.1.0-alpha.1,0,0,https://github.com/sysv86/rustmpeg-next,JPEG XL and OpenEXR pipeline with pure-Rust color management for rustmpeg-next
+2026-10-30T15:39:23.955411Z,rustmpeg-video,0.1.0-alpha.1,0,0,https://github.com/sysv86/rustmpeg-next,"Safe Rust software codecs AV1, AV2, H.266/VVC and APV for rustmpeg-next"
+2026-10-30T15:39:37.764779Z,shoco-dyn,0.2.0,0,0,https://github.com/jmccrae/shoco,"Shoco compression for short strings, with models trained on your own text"
+2026-10-30T15:39:49.732985Z,poly-framework,0.4.10,0,0,https://github.com/OpenChatGit/Poly,Experimental custom Rust framework and CLI for building native desktop apps with web frontends
+2026-10-30T15:40:29.771656Z,robit-web,0.1.26,0,0,https://github.com/leexgone/robit,"Web frontend bridge for robit: official AgentEvent wire schema, broadcast fan-out Frontend, tool-confirmation slots and message injection."
+2026-10-30T15:42:09.055761Z,tunlion-peerloop,0.1.0,0,0,https://github.com/Abdk4Moura/tunlion,"The peer loop's engine: connection state, warm-hold, liveness, adoption and the petname rule"
+2026-10-30T15:45:18.1184Z,sonarithm-echometric,0.1.0-alpha,0,0,https://github.com/DuhItzAniket/SONARITHM,"ECHOMETRIC: SONARITHM's evaluation engine (stimulus generators, replication gallery, study runner; analytics and lint from C05)."
+2026-10-30T15:45:19.591303Z,sonarithm-render,0.1.0-alpha,0,0,https://github.com/DuhItzAniket/SONARITHM,"SONARITHM render graph, scheduler, voice pool, transport and offline driver."
+2026-10-30T15:46:14.083737Z,models-catalog,0.1.0,0,0,https://github.com/colinwolff/models-catalog,"Production-grade LLM model and provider catalog normalizer, disk spooler, and runtime token/reasoning calculator with @cline/llms parity."
+2026-10-30T15:48:05.007658Z,nq-manifest,0.1.0,0,0,,Create deterministic read-only file manifests with NEXUS-Q Core hashes
+2026-10-30T15:49:34.737435Z,rustmpeg-vulkan,0.1.0-alpha.1,0,0,https://github.com/sysv86/rustmpeg-next,Vulkan Compute backend for rustmpeg-next
+2026-10-30T15:51:43.48727Z,tunlion,0.9.2,0,0,https://github.com/Abdk4Moura/tunlion,"P2P file transfer between terminals and browsers, no upload, no account. The terminal end of tunlion.autumated.com."
+2026-10-30T15:57:51.956227Z,sonarithm-audio,0.1.0-alpha,0,0,https://github.com/DuhItzAniket/SONARITHM,"SONARITHM audio backends: AudioBackend trait, cpal backend, devices and latency reporting."
+2026-10-30T15:58:45.468813Z,the-beginner-car-wasm-sdk,0.0.1,0,0,,The Beginner Car WASM SDK provides the exposed functions to control the small car.
+2026-10-30T15:59:13.015353Z,katex-native,0.1.0,0,0,https://github.com/garlab/katex-native,"Native layout for katex-rs: KaTeX's CSS applied with its font metrics, as a display list any renderer can draw."
+2026-10-30T15:59:45.924737Z,rustmpeg-cli,0.1.0-alpha.1,0,0,https://github.com/sysv86/rustmpeg-next,Minimal CLI bridge for rustmpeg-core primitives
+2026-10-30T15:59:59.175795Z,signstar-client,0.1.0,0,0,https://gitlab.archlinux.org/archlinux/signstar,"Library and executable for creating, reading and writing of signing requests for files"
+2026-10-30T16:01:20.880431Z,ishikari-wasm,0.5.0,0,0,https://github.com/scrogson/ishikari,Node types for ishikari's workflow definitions uploaded as WebAssembly components or scripts
+2026-10-30T16:02:57.913977Z,qtcloud-media-cli,0.1.0,0,0,https://github.com/quanttide/qtcloud-media,量潮媒体云命令行工具：公众号排版与草稿箱直出
+2026-10-30T16:03:13.801138Z,nq-policy,0.1.0,0,0,,Evaluate read-only artifact manifests against JSON policies
+2026-10-30T16:07:33.45347Z,omniplex,0.1.0,0,0,https://github.com/PlexiOSS/Omniplex,"Official Rust SDK for the Omniplex API: post bot and server stats, check votes and verify webhooks."
+2026-10-30T16:10:03.361521Z,tiktoken-fast,0.1.2,0,0,https://github.com/s3bastiankoch/tiktoken-fast,"Byte-pair encoder for OpenAI's tiktoken vocabularies: the token ids of the reference core, several times faster"
+2026-10-30T16:10:07.583573Z,rustmpeg,0.1.0-alpha.1,0,0,https://github.com/sysv86/rustmpeg-next,Convenience facade for the rustmpeg-next multimedia framework
+2026-10-30T16:10:26.561186Z,sonarithm-export,0.1.0-alpha,0,0,https://github.com/DuhItzAniket/SONARITHM,"SONARITHM export: WAV, FLAC and MIDI writers, render manifest and cue sidecar."
+2026-10-30T16:13:07.294164Z,desk-pilot,0.3.2,0,0,https://github.com/acus9345/desk-pilot,MCP server that gives AI agents eyes and hands on the real Windows desktop. Windows only; needs Node 22.19+.
+2026-10-30T16:14:52.421984Z,wgpu-depth-pyramid,0.1.0,0,0,https://github.com/Tavrin/wgpu-depth-pyramid,"Fast min/max depth (Hi-Z) mip pyramids for wgpu, in WGSL, WebGPU-compatible"
+2026-10-30T16:16:40.013318Z,meada-core,0.1.0,0,0,https://github.com/ClaudioMascaro/meada,"The deterministic core of Meada: the workspace manifest's schema and checks, the ids, the export's types and the text answers, for the CLI and the browser"
+2026-10-30T16:18:21.956323Z,nq-release-notes,0.1.0,0,0,,Extract a release-note section from a Markdown changelog
+2026-10-30T16:18:39.600604Z,meada,0.1.0,0,0,https://github.com/ClaudioMascaro/meada,"LLM-free code graph that links repositories through the contracts they share, served over MCP"
