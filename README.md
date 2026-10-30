@@ -8,50 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 20:19 UTC
+## Latest list — 2026-10-30 21:19 UTC
 
-New crates published between 2026-10-30 19:19 UTC and 2026-10-30 20:19 UTC.
+New crates published between 2026-10-30 20:19 UTC and 2026-10-30 21:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-30T20-19-05-503491Z.csv)
+[Full CSV](data/new-crates-2026-10-30T21-19-52-128571Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-30 19:21:58 | [lattice-serve](https://crates.io/crates/lattice-serve) | 0.15.0 | 0 | OpenAI-compatible HTTP serving and the lattice CLI, built on lattice-inference |
-| 2026-10-30 19:25:18 | [keri-kel](https://crates.io/crates/keri-kel) | 0.1.0 | 0 | KERI key event log validation: accepting events into a log and deriving key sta… |
-| 2026-10-30 19:25:53 | [tilewright-render-sdl3](https://crates.io/crates/tilewright-render-sdl3) | 0.5.1 | 0 | Thin SDL3 native-surface adapter for the Tilewright renderer |
-| 2026-10-30 19:26:23 | [gridoxide-gpu](https://crates.io/crates/gridoxide-gpu) | 0.3.0 | 0 | gridoxide's batched AC power flow for NVIDIA GPUs: an adaptive Newton loop over… |
-| 2026-10-30 19:28:59 | [aphrody-infra](https://crates.io/crates/aphrody-infra) | 1.4.7 | 0 | Bun OS infrastructure, workflow, development environment and deployment orchest… |
-| 2026-10-30 19:32:24 | [gimp-gexiv2-sys](https://crates.io/crates/gimp-gexiv2-sys) | 0.1.0 | 0 | GExiv2 FFI bindings, generated with gir (used by the gimp crate) |
-| 2026-10-30 19:32:26 | [gimp-gexiv2](https://crates.io/crates/gimp-gexiv2) | 0.1.0 | 0 | GExiv2 Rust bindings, generated with gir (used by the gimp crate) |
-| 2026-10-30 19:32:27 | [gimp-sys](https://crates.io/crates/gimp-sys) | 0.1.0 | 0 | GIMP 3 (libgimp) FFI bindings |
-| 2026-10-30 19:32:30 | [gimp](https://crates.io/crates/gimp) | 0.1.0 | 0 | Rust bindings for libgimp 3, generated with gir, for writing GIMP plug-ins |
-| 2026-10-30 19:32:34 | [gimp-ui-sys](https://crates.io/crates/gimp-ui-sys) | 0.1.0 | 0 | GIMP 3 (libgimpui) FFI bindings |
-| 2026-10-30 19:33:15 | [this-vite](https://crates.io/crates/this-vite) | 0.0.1 | 0 | Tiny Vite-like dev server library: serve a static SPA with hot reload, rebuild-… |
-| 2026-10-30 19:35:09 | [netscenario-agent](https://crates.io/crates/netscenario-agent) | 0.0.0 | 0 | The traffic generators and probes that run inside the nodes of a netscenario run |
-| 2026-10-30 19:35:10 | [netscenario-model](https://crates.io/crates/netscenario-model) | 0.0.0 | 0 | Scenario types, units, validation and the JSON Schema of netscenario |
-| 2026-10-30 19:35:12 | [netscenario-core](https://crates.io/crates/netscenario-core) | 0.0.0 | 0 | Run lifecycle, timeline, link models, statistics and results of netscenario |
-| 2026-10-30 19:35:14 | [xsyd-todo](https://crates.io/crates/xsyd-todo) | 0.1.1 | 0 | A notepad program that interacts via the command line. |
-| 2026-10-30 19:35:14 | [netscenario-backend-kernel](https://crates.io/crates/netscenario-backend-kernel) | 0.0.0 | 0 | The Kernel backend of netscenario: network namespaces, virtual Ethernet pairs a… |
-| 2026-10-30 19:35:17 | [netscenario-cli](https://crates.io/crates/netscenario-cli) | 0.0.0 | 0 | The command line of netscenario |
-| 2026-10-30 19:38:48 | [aphrody-memory](https://crates.io/crates/aphrody-memory) | 1.4.7 | 0 | aphrody memory SDK — async MemoryBackend (JSONL/HNSW/SQLite) + MemoryProvider (… |
-| 2026-10-30 19:39:02 | [ofdbox-folio-ofd](https://crates.io/crates/ofdbox-folio-ofd) | 0.0.1 | 0 | OFD and Fixed IR read/write adapters for OFDBox Folio. |
-| 2026-10-30 19:39:23 | [ofdbox-folio](https://crates.io/crates/ofdbox-folio) | 0.0.1 | 0 | OFDBox Folio multi-format document engine facade. |
-| 2026-10-30 19:39:37 | [gimp-ui](https://crates.io/crates/gimp-ui) | 0.1.0 | 0 | Rust bindings for libgimpui 3 (GIMP plug-in dialogs and widgets), generated wit… |
-| 2026-10-30 19:40:05 | [td](https://crates.io/crates/td) | 0.1.2 | 0 | Tangled CLI - A command-line interface for Tangled (tangled.org) |
-| 2026-10-30 19:40:58 | [bin-package-manager-trauma](https://crates.io/crates/bin-package-manager-trauma) | 3.0.0 | 0 | A fork of the trauma crate: simple asynchronous HTTP downloads with progress ba… |
-| 2026-10-30 19:41:08 | [qraken](https://crates.io/crates/qraken) | 0.0.1 | 0 | Placeholder: name reserved for a future project. |
-| 2026-10-30 19:48:48 | [aphrody-session](https://crates.io/crates/aphrody-session) | 1.4.7 | 0 | Conversation session tracker for aphrody — turns + tool calls + token usage + c… |
-| 2026-10-30 19:49:59 | [tincan-common](https://crates.io/crates/tincan-common) | 0.1.0 | 0 | Shared message types for the tincan terminal chat |
-| 2026-10-30 19:50:04 | [tincan-tui](https://crates.io/crates/tincan-tui) | 0.1.0 | 0 | A very simple terminal chat client |
-| 2026-10-30 19:50:55 | [tincan-server](https://crates.io/crates/tincan-server) | 0.1.0 | 0 | Server for the tincan terminal chat |
-| 2026-10-30 19:52:22 | [chanto-core](https://crates.io/crates/chanto-core) | 0.1.0 | 0 | The parts of the chanto agent that build for every target, WebAssembly included |
-| 2026-10-30 19:58:46 | [bun_native](https://crates.io/crates/bun_native) | 1.4.7 | 0 | Host hardware topology (CPU, RAM, CUDA) and monotonic clock probes. |
-| 2026-10-30 19:59:26 | [onyx-cli](https://crates.io/crates/onyx-cli) | 0.3.0 | 0 | Reclaim disk space on Linux, safely: a disk cleaner that dry-runs first |
-| 2026-10-30 20:08:47 | [bun_pkg](https://crates.io/crates/bun_pkg) | 1.4.7 | 0 | Package contracts and metadata parsers (npm, Cargo sparse, NuGet, vcpkg, PyPI),… |
-| 2026-10-30 20:11:33 | [tilewright-jsonc](https://crates.io/crates/tilewright-jsonc) | 0.1.0 | 0 | Strict, lossless, bounded JSONC parser for Tilewright world sources |
-| 2026-10-30 20:12:48 | [ireert](https://crates.io/crates/ireert) | 0.1.0 | 0 | Rust API for the IREE runtime |
-| 2026-10-30 20:13:52 | [vulkane-kernels-source](https://crates.io/crates/vulkane-kernels-source) | 0.16.3 | 0 | GPU kernel source files (.slang / .glsl) for Vulkane and its consumers. Compile… |
-| 2026-10-30 20:18:48 | [aphrody-terminal-backend](https://crates.io/crates/aphrody-terminal-backend) | 1.4.7 | 0 | Native pty driver and WebSocket server for aphrody-terminal (cross-platform via… |
+| 2026-10-30 20:21:58 | [tilewright-source](https://crates.io/crates/tilewright-source) | 0.1.0 | 0 | Loads and validates Tilewright world source trees into a typed, game-neutral mo… |
+| 2026-10-30 20:22:17 | [cdnf](https://crates.io/crates/cdnf) | 0.1.1 | 0 | The Colon Dash and Newline Format: natural text a program reads too, read and w… |
+| 2026-10-30 20:22:58 | [ireec](https://crates.io/crates/ireec) | 0.1.0 | 0 | Rust API for the IREE compiler |
+| 2026-10-30 20:27:17 | [simdly](https://crates.io/crates/simdly) | 0.1.0 | 0 | SIMD implementations of mathematical functions for Rust (AVX2, AVX-512, NEON) w… |
+| 2026-10-30 20:28:47 | [aphrody-accounts](https://crates.io/crates/aphrody-accounts) | 1.4.7 | 0 | Aphrody OS identity layer: Google OAuth 2.0 and Microsoft identity platform (En… |
+| 2026-10-30 20:29:11 | [duckdb-derive-macros](https://crates.io/crates/duckdb-derive-macros) | 0.1.2 | 0 | Procedural macros for duckdb-derive |
+| 2026-10-30 20:29:23 | [duckdb-derive](https://crates.io/crates/duckdb-derive) | 0.1.2 | 0 | Derive macros for DuckDB in Rust. |
+| 2026-10-30 20:31:28 | [jmap-search-types](https://crates.io/crates/jmap-search-types) | 0.0.1 | 0 | JMAP search extension types (early placeholder; full implementation in the crat… |
+| 2026-10-30 20:31:33 | [jmap-object-uri](https://crates.io/crates/jmap-object-uri) | 0.0.1 | 0 | The jmap: URI scheme for JMAP object URIs (draft-atwood-jmap-object-uri-00) |
+| 2026-10-30 20:31:37 | [jmap-mail](https://crates.io/crates/jmap-mail) | 0.0.1 | 0 | JMAP for Mail (RFC 8621): umbrella crate re-exporting jmap-mail-types, -client,… |
+| 2026-10-30 20:31:41 | [jmap-chat](https://crates.io/crates/jmap-chat) | 0.0.1 | 0 | JMAP for Chat: umbrella crate re-exporting jmap-chat-types, -client, and -server |
+| 2026-10-30 20:31:46 | [jmap-calendars](https://crates.io/crates/jmap-calendars) | 0.0.1 | 0 | JMAP for Calendars: umbrella crate re-exporting jmap-calendars-types, -client,… |
+| 2026-10-30 20:32:22 | [tilewright-pack](https://crates.io/crates/tilewright-pack) | 0.1.0 | 0 | Deterministic SQLite content packs for Tilewright worlds: compiler, chunk codec… |
+| 2026-10-30 20:32:51 | [jmap-contacts](https://crates.io/crates/jmap-contacts) | 0.0.1 | 0 | JMAP for Contacts (RFC 9610): umbrella crate re-exporting jmap-contacts-types,… |
+| 2026-10-30 20:38:46 | [aphrody-command-wasm](https://crates.io/crates/aphrody-command-wasm) | 1.4.7 | 0 | wasm-bindgen adapter running the pure aphrody sub-commands (aphrody-command-pur… |
+| 2026-10-30 20:42:48 | [tilewright-edit](https://crates.io/crates/tilewright-edit) | 0.1.0 | 0 | Lossless, deterministic transactions over Tilewright world sources: structural… |
+| 2026-10-30 20:43:07 | [jmap-tasks](https://crates.io/crates/jmap-tasks) | 0.0.1 | 0 | JMAP for Tasks: umbrella crate re-exporting jmap-tasks-types, -client, and -ser… |
+| 2026-10-30 20:43:22 | [opendwg](https://crates.io/crates/opendwg) | 0.1.0 | 0 | Pure-Rust reader and writer for AutoCAD DWG files: reads AutoCAD 2000-2018 (AC1… |
+| 2026-10-30 20:48:46 | [yolo-runtime](https://crates.io/crates/yolo-runtime) | 1.4.7 | 0 | Bun OS build of the YOLO runtime ABI with the GPU provider |
+| 2026-10-30 20:49:16 | [janderscience-skills](https://crates.io/crates/janderscience-skills) | 1.0.0 | 0 | Enterprise Agentic Mesh workforce with 1,330+ skills across 16 corporate depart… |
+| 2026-10-30 20:51:40 | [axum-auth-chained](https://crates.io/crates/axum-auth-chained) | 0.0.1 | 0 | Composable authentication and authorization middleware for Axum |
+| 2026-10-30 20:52:16 | [jmap-blob](https://crates.io/crates/jmap-blob) | 0.0.1 | 0 | JMAP Blob Management Extension (RFC 9404) for Rust: capability identifier (earl… |
+| 2026-10-30 20:53:11 | [tilewright-diff](https://crates.io/crates/tilewright-diff) | 0.1.0 | 0 | Compares the IDs of two Tilewright worlds, source trees or content packs, to ca… |
+| 2026-10-30 20:58:46 | [pdfcraft-crypt](https://crates.io/crates/pdfcraft-crypt) | 0.7.1 | 0 | PDF standard security handler (ISO 32000-2 §7.6): RC4 and AES, revisions 2–6 |
+| 2026-10-30 21:02:30 | [jmap-quotas](https://crates.io/crates/jmap-quotas) | 0.0.1 | 0 | JMAP for Quotas (RFC 9425) for Rust: capability identifier (early placeholder) |
+| 2026-10-30 21:03:11 | [corundum-framework-package](https://crates.io/crates/corundum-framework-package) | 0.4.0 | 0 | A desktop app as a Velopack package: its start and install hooks, told apart fr… |
+| 2026-10-30 21:03:33 | [agentmeter-core](https://crates.io/crates/agentmeter-core) | 0.1.0 | 0 | Normalised usage schema, aggregation and finding rules for agentmeter |
+| 2026-10-30 21:03:36 | [agentmeter-claude](https://crates.io/crates/agentmeter-claude) | 0.1.0 | 0 | Claude Code session-log adapter for agentmeter |
+| 2026-10-30 21:03:36 | [agentmeter-codex](https://crates.io/crates/agentmeter-codex) | 0.1.0 | 0 | Codex CLI session-log adapter for agentmeter |
+| 2026-10-30 21:03:38 | [agentmeter](https://crates.io/crates/agentmeter) | 0.1.0 | 0 | Diagnosis for coding-agent usage: findings with tips from local session logs |
+| 2026-10-30 21:08:01 | [fluidise-relay](https://crates.io/crates/fluidise-relay) | 0.1.0 | 0 | Agent-first Git hook manager with explicit plans and safe process orchestration |
+| 2026-10-30 21:08:46 | [pdfcraft-filters](https://crates.io/crates/pdfcraft-filters) | 0.7.1 | 0 | PDF stream filters (ISO 32000-2 §7.4): Flate, LZW, predictors, ASCII85, ASCIIHe… |
+| 2026-10-30 21:12:43 | [jmap-websocket](https://crates.io/crates/jmap-websocket) | 0.0.1 | 0 | JMAP Subprotocol for WebSocket (RFC 8887) for Rust: capability identifier (earl… |
+| 2026-10-30 21:16:43 | [tgfx](https://crates.io/crates/tgfx) | 0.3.0 | 0 | Run a local fx agent through Telegram |
+| 2026-10-30 21:18:46 | [pdfcraft-cos](https://crates.io/crates/pdfcraft-cos) | 0.7.1 | 0 | PDF object layer: lazy tolerant parsing, copy-on-write edits, incremental and f… |
 
 ## Data source
 

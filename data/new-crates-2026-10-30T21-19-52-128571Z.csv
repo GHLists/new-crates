@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T20:21:58.164379Z,tilewright-source,0.1.0,0,0,https://github.com/seraphinastudios/tilewright-world,"Loads and validates Tilewright world source trees into a typed, game-neutral model"
+2026-10-30T20:22:17.804806Z,cdnf,0.1.1,0,0,https://github.com/SlimiestSlimy/cdnf,"The Colon Dash and Newline Format: natural text a program reads too, read and written"
+2026-10-30T20:22:58.435422Z,ireec,0.1.0,0,0,https://github.com/calebbuffa/iree-rs,Rust API for the IREE compiler
+2026-10-30T20:27:17.785282Z,simdly,0.1.0,0,0,https://github.com/mtantaoui/simdly,"SIMD implementations of mathematical functions for Rust (AVX2, AVX-512, NEON) with documented worst-case ULP bounds."
+2026-10-30T20:28:47.731326Z,aphrody-accounts,1.4.7,0,0,https://github.com/aphrody-labs/bun-os,"Aphrody OS identity layer: Google OAuth 2.0 and Microsoft identity platform (Entra) sign-in with PKCE loopback and device code, scope catalogs, multiple accounts, token refresh and OS keyring storage."
+2026-10-30T20:29:11.408322Z,duckdb-derive-macros,0.1.2,0,0,https://github.com/ss123she/duckdb-derive-workspace,Procedural macros for duckdb-derive
+2026-10-30T20:29:23.213318Z,duckdb-derive,0.1.2,0,0,https://github.com/ss123she/duckdb-derive-workspace,Derive macros for DuckDB in Rust.
+2026-10-30T20:31:28.528492Z,jmap-search-types,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP search extension types (early placeholder; full implementation in the crate-jmap workspace)
+2026-10-30T20:31:33.187472Z,jmap-object-uri,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,The jmap: URI scheme for JMAP object URIs (draft-atwood-jmap-object-uri-00)
+2026-10-30T20:31:37.376564Z,jmap-mail,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP for Mail (RFC 8621): umbrella crate re-exporting jmap-mail-types, -client, and -server"
+2026-10-30T20:31:41.908336Z,jmap-chat,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP for Chat: umbrella crate re-exporting jmap-chat-types, -client, and -server"
+2026-10-30T20:31:46.176046Z,jmap-calendars,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP for Calendars: umbrella crate re-exporting jmap-calendars-types, -client, and -server"
+2026-10-30T20:32:22.533244Z,tilewright-pack,0.1.0,0,0,https://github.com/seraphinastudios/tilewright-world,"Deterministic SQLite content packs for Tilewright worlds: compiler, chunk codec and verified reader"
+2026-10-30T20:32:51.413651Z,jmap-contacts,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP for Contacts (RFC 9610): umbrella crate re-exporting jmap-contacts-types, -client, and -server"
+2026-10-30T20:38:46.181492Z,aphrody-command-wasm,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,wasm-bindgen adapter running the pure aphrody sub-commands (aphrody-command-pure) in the browser; no logic of its own.
+2026-10-30T20:42:48.840175Z,tilewright-edit,0.1.0,0,0,https://github.com/seraphinastudios/tilewright-world,"Lossless, deterministic transactions over Tilewright world sources: structural edits, preview, staged apply with rollback and inverse plans"
+2026-10-30T20:43:07.190673Z,jmap-tasks,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,"JMAP for Tasks: umbrella crate re-exporting jmap-tasks-types, -client, and -server"
+2026-10-30T20:43:22.333391Z,opendwg,0.1.0,0,0,https://github.com/quinnjr/opendwg,"Pure-Rust reader and writer for AutoCAD DWG files: reads AutoCAD 2000-2018 (AC1015-AC1032), writes AutoCAD 2018"
+2026-10-30T20:48:46.403994Z,yolo-runtime,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,Bun OS build of the YOLO runtime ABI with the GPU provider
+2026-10-30T20:49:16.389827Z,janderscience-skills,1.0.0,0,0,https://github.com/Jandersolutions/janderscience-skills,"Enterprise Agentic Mesh workforce with 1,330+ skills across 16 corporate departments"
+2026-10-30T20:51:40.298432Z,axum-auth-chained,0.0.1,0,0,https://github.com/Jankbyte/axum-auth-chained,Composable authentication and authorization middleware for Axum
+2026-10-30T20:52:16.952163Z,jmap-blob,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP Blob Management Extension (RFC 9404) for Rust: capability identifier (early placeholder)
+2026-10-30T20:53:11.737169Z,tilewright-diff,0.1.0,0,0,https://github.com/seraphinastudios/tilewright-world,"Compares the IDs of two Tilewright worlds, source trees or content packs, to catch removals and renames"
+2026-10-30T20:58:46.379035Z,pdfcraft-crypt,0.7.1,0,0,https://github.com/storytold/pdfcraft,"PDF standard security handler (ISO 32000-2 §7.6): RC4 and AES, revisions 2–6"
+2026-10-30T21:02:30.916006Z,jmap-quotas,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP for Quotas (RFC 9425) for Rust: capability identifier (early placeholder)
+2026-10-30T21:03:11.960891Z,corundum-framework-package,0.4.0,0,0,https://github.com/sapphire-turtle/corundum-framework,"A desktop app as a Velopack package: its start and install hooks, told apart from an update"
+2026-10-30T21:03:33.790512Z,agentmeter-core,0.1.0,0,0,https://github.com/casoon/agentmeter,"Normalised usage schema, aggregation and finding rules for agentmeter"
+2026-10-30T21:03:36.425713Z,agentmeter-claude,0.1.0,0,0,https://github.com/casoon/agentmeter,Claude Code session-log adapter for agentmeter
+2026-10-30T21:03:36.792187Z,agentmeter-codex,0.1.0,0,0,https://github.com/casoon/agentmeter,Codex CLI session-log adapter for agentmeter
+2026-10-30T21:03:38.600361Z,agentmeter,0.1.0,0,0,https://github.com/casoon/agentmeter,Diagnosis for coding-agent usage: findings with tips from local session logs
+2026-10-30T21:08:01.562291Z,fluidise-relay,0.1.0,0,0,https://github.com/Fluidise/relay,Agent-first Git hook manager with explicit plans and safe process orchestration
+2026-10-30T21:08:46.189162Z,pdfcraft-filters,0.7.1,0,0,https://github.com/storytold/pdfcraft,"PDF stream filters (ISO 32000-2 §7.4): Flate, LZW, predictors, ASCII85, ASCIIHex, RunLength"
+2026-10-30T21:12:43.181329Z,jmap-websocket,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP Subprotocol for WebSocket (RFC 8887) for Rust: capability identifier (early placeholder)
+2026-10-30T21:16:43.052645Z,tgfx,0.3.0,0,0,https://github.com/molefrog/tgfx,Run a local fx agent through Telegram
+2026-10-30T21:18:46.950124Z,pdfcraft-cos,0.7.1,0,0,,"PDF object layer: lazy tolerant parsing, copy-on-write edits, incremental and full saving"
