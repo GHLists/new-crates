@@ -1,0 +1,51 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T11:23:06.801544Z,mcp-server-web,0.1.0,0,0,https://github.com/haras-unicorn/mcp-server-web,MCP server with web_fetch and web_search tools
+2026-10-30T11:27:25.314836Z,textlane,0.0.0,0,0,https://github.com/datisthq/textlane,Rust-native text processing pipeline — a unified replacement with native and JavaScript plugins
+2026-10-30T11:31:35.228021Z,xgpui-canvas,0.2.0,0,0,https://github.com/gpui-luma-dev/xgpui,"Spatial viewport, f64 camera, scene culling and procedural grids for xgpui"
+2026-10-30T11:32:24.487847Z,austen-libfuzzer,0.0.1,0,0,https://github.com/ZippeyKeys12/austen,libFuzzer in-process delegated-engine and crash-minimization adapters for Austen
+2026-10-30T11:33:09.934828Z,austen,0.0.1,0,0,https://github.com/ZippeyKeys12/austen,"Property-based testing for C code with JSON specifications: the austen CLI, harness generation, and campaign orchestration"
+2026-10-30T11:35:15.338567Z,crypto-profile,0.9.0,0,0,https://github.com/crypto-profile/crypto-profile,"Named cryptographic profiles over the AWS-LC FIPS module: algorithm types, per-module capabilities and a conformance suite"
+2026-10-30T11:35:41.074021Z,crypto-profile-awslc4,0.9.0,0,0,https://github.com/crypto-profile/crypto-profile,"The crypto-profile backend on the AWS-LC FIPS 4.x module, through aws-lc-rs 1.18"
+2026-10-30T11:35:51.149707Z,crypto-profile-awslc3,0.9.0,0,0,https://github.com/crypto-profile/crypto-profile,"The crypto-profile backend on the AWS-LC FIPS 3.x module, through aws-lc-rs 1.17"
+2026-10-30T11:40:14.53401Z,xsyd-command-parser,0.1.0,0,0,,use the crate to deal with cli input.
+2026-10-30T11:42:07.705631Z,dvarapala-engine,0.16.0,0,0,https://github.com/franzramadhan/dvarapala,"Verdict engine for dvarapala: limiters and rules, no I/O"
+2026-10-30T11:42:08.485018Z,dvarapala-xdp-common,0.16.0,0,0,https://github.com/franzramadhan/dvarapala,Packet parser and map layouts shared by the dvarapala XDP program and its loader
+2026-10-30T11:42:11.32628Z,dvarapala-ffi,0.16.0,0,0,https://github.com/franzramadhan/dvarapala,"C ABI over the dvarapala engine for the Go, Python and JavaScript SDKs"
+2026-10-30T11:42:11.933298Z,dvarapala-l4,0.16.0,0,0,https://github.com/franzramadhan/dvarapala,Connection limits and timeouts for dvarapala listeners
+2026-10-30T11:42:13.646462Z,dvarapala-l7,0.16.0,0,0,https://github.com/franzramadhan/dvarapala,HTTP protection layers for dvarapala (tower)
+2026-10-30T11:45:18.884489Z,ruos,0.1.0,0,0,https://github.com/ccc-claude-opus/ruos,"A capability microkernel teaching OS with Docker-like pods, in the browser (WebAssembly) or QEMU (RISC-V, ARM)"
+2026-10-30T11:45:22.258688Z,tianqinglang,0.0.1,0,0,https://github.com/tianqinglang/tianqinglang,"TianQing (tianqinglang) — a self-hosted, relational-ontology programming language. Placeholder release to reserve the name."
+2026-10-30T11:46:13.24605Z,rurqe,0.0.0,0,0,,Reserved.
+2026-10-30T11:46:23.571232Z,tauqe,0.0.0,0,0,,Reserved.
+2026-10-30T11:49:47.203491Z,ws-heartbeat,0.1.0,0,0,https://github.com/anomalous254/ws-heartbeat,Framework-agnostic WebSocket heartbeat tracking with a single background sweeper
+2026-10-30T11:52:38.948031Z,dvarapala-store,0.16.0,0,0,https://github.com/franzramadhan/dvarapala,"Shared state for dvarapala clusters: memory, Redis and PostgreSQL backends"
+2026-10-30T11:53:37.721181Z,grammar-expressions,0.1.1,0,0,https://github.com/link-foundation/grammar-expressions,A small PEG/regular-expression style grammar expression engine
+2026-10-30T11:54:44.381289Z,ruai,2.0.1,0,0,https://github.com/ccc-llm/ruai,"A small PyTorch-like neural network engine in Rust (autograd, CNN/ResNet/ViT, Transformer/GPT/Llama, seq2seq)"
+2026-10-30T11:57:14.831366Z,ifc-lite-geometry-runtime,27.1.0,0,0,https://github.com/LTplus-AG/ifc-lite,"Explicit isolated native geometry worker client for IFC-Lite (opt-in, source-only)"
+2026-10-30T11:58:31.529319Z,yelogin,1.2.0,0,0,https://github.com/mustafaelrasheid/yelogin,A simple login and authentication program.
+2026-10-30T12:00:40.608201Z,exip-sys,0.2.0,0,0,https://github.com/gustavowd/exip-sys,Bindings FFI para a biblioteca EXIP C
+2026-10-30T12:03:08.843804Z,dvarapala-xdp,0.16.0,0,0,https://github.com/franzramadhan/dvarapala,Loader for the dvarapala XDP fast path (Linux)
+2026-10-30T12:03:47.688879Z,quotebook-core,0.1.0,0,0,https://github.com/joaquinbejar/quotebook,"quotebook domain types, canonical signed-quote encoding and nonce replay window: no_std, allocation free"
+2026-10-30T12:03:48.759756Z,rustc-dep-info,0.1.0,0,0,https://github.com/mkovaxx/rustc-dep-info,"Parse, print, and manipulate dep-info files used by rustc and cargo."
+2026-10-30T12:03:50.251813Z,quotebook-sdk,0.1.0,0,0,https://github.com/joaquinbejar/quotebook,"Rust client SDK for quotebook: instruction builders, PDAs and account decoding"
+2026-10-30T12:03:52.678766Z,quotebook-maker,0.1.0,0,0,https://github.com/joaquinbejar/quotebook,"quotebook maker service: prices with market-maker-rs, signs firm quotes, serves takers over WebSocket"
+2026-10-30T12:05:56.992667Z,strati-cli,0.2.0,0,0,https://github.com/ShafSpecs/strati,"The strati command: new, dev, gen, build and package for Strati's native-first apps"
+2026-10-30T12:06:17.685121Z,optfix,0.1.0,0,0,https://github.com/joaquinbejar/optfix,"Fixed-point option pricing: no_std, allocation free, every rounding explicit"
+2026-10-30T12:09:19.54477Z,rueda-bits,0.6.0,0,0,https://github.com/ccc-eda/rueda,Fixed-width bit vectors shared by rueda's netlist tools and HDL front ends
+2026-10-30T12:09:20.597735Z,rueda-fluxa,0.6.0,0,0,https://github.com/ccc-eda/rueda,Behavioral simulator (Kahn process network interpreter) for the Fluxa HLS language
+2026-10-30T12:09:21.89212Z,rueda-rvemu,0.6.0,0,0,https://github.com/ccc-eda/rueda,"An RV64IMAC instruction-set emulator (runs OpenSBI + Linux), with a WebAssembly JIT"
+2026-10-30T12:09:23.434866Z,rueda-rvtools,0.6.0,0,0,https://github.com/ccc-eda/rueda,"RISC-V software tools: a C compiler (RV32 SoC programs, RV64 Linux executables), an assembler and an RV32IMA instruction-set simulator"
+2026-10-30T12:09:28.200114Z,rueda-eda,0.6.0,0,0,https://github.com/ccc-eda/rueda,"Language-independent EDA back end: gate netlist, iCE40 / ECP5 mapping, place & route and bitstream, ASIC standard-cell flow (vlib or SKY130, to GDS)"
+2026-10-30T12:11:21.37485Z,hostkeep,0.1.0,0,0,https://github.com/volodymyr-malishevskyi/hostkeep,"Terminal UI editor for /etc/hosts: toggle, group and edit entries safely, with backups and diff preview"
+2026-10-30T12:12:23.619339Z,aikoql-native,0.2.4,0,0,https://github.com/anckursingh/aikoql,The Aikoql native wire protocol (D-15): the framed binary transport codec — zero dependencies
+2026-10-30T12:12:27.007196Z,docfm,0.1.0,0,0,https://github.com/pepeiborra/fmgrep,"Byte-alphabet FM-index for document search, stored as one zero-copy blob"
+2026-10-30T12:12:44.794802Z,aikoql-kernel,0.2.4,0,0,https://github.com/anckursingh/aikoql,"Aikoql Knowledge Kernel: KOM (MRFC-0001), commit pipeline, KS-ABI Class A syscalls (MRFC-0011). std-only, deterministic."
+2026-10-30T12:12:45.365741Z,fmgrep,0.1.0,0,0,https://github.com/pepeiborra/fmgrep,Indexed grep: ripgrep-compatible search over a persistent FM-index
+2026-10-30T12:12:53.911055Z,aikoql-storage-v2,0.2.4,0,0,https://github.com/anckursingh/aikoql,"AIKOQL v2 storage engine (SE2) — segmented WAL, immutable segments, manifest"
+2026-10-30T12:12:56.211726Z,dvarapala-proxy,0.16.0,0,0,https://github.com/franzramadhan/dvarapala,Reverse proxy core and HTTP server for dvarapala
+2026-10-30T12:12:56.393295Z,aikoql-graph,0.2.4,0,0,https://github.com/anckursingh/aikoql,"Aikoql Graph Engine: relationship traversal, path expansion and edge mutation."
+2026-10-30T12:13:41.0476Z,aikoql-vector,0.2.4,0,0,https://github.com/anckursingh/aikoql,"Aikoql Vector Engine: ANN indexes, text indexes, similarity search. Services around the kernel, never on the commit path."
+2026-10-30T12:13:56.174605Z,pyth-lite,0.1.0,0,0,https://github.com/joaquinbejar/varswap,"no_std reader for Pyth PriceUpdateV2 accounts: owner, discriminator, layout and price checks"
+2026-10-30T12:13:58.595746Z,varswap-core,0.1.0,0,0,https://github.com/joaquinbejar/varswap,"Realized-variance accumulator over canonical Pyth prints: window grid, bucket storage, sampling rules"
+2026-10-30T12:14:21.523384Z,rueda-veryl-sim,0.6.0,0,0,https://github.com/ccc-eda/rueda,"Event-driven simulator for Veryl HDL testbenches ($tb::clock_gen, $assert, VCD)"
+2026-10-30T12:18:54.842325Z,varswap-sdk,0.1.0,0,0,https://github.com/joaquinbejar/varswap,"Client SDK for varswap: instruction builders, PDA helpers and account decoders"
