@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T08:21:22.878987Z,tc_gost28147,0.1.0,0,0,https://github.com/TomiCheng/tc_block_cipher,GOST 28147-89 block cipher with the standard and caller-supplied S-boxes.
+2026-10-30T08:22:48.106784Z,ruststream-core,0.7.7,0,0,https://github.com/powersemmi/ruststream,The broker contract of the RustStream messaging framework; services and broker crates use it through `ruststream`.
+2026-10-30T08:22:56.274389Z,ruststream-runtime,0.7.7,0,0,https://github.com/powersemmi/ruststream,"The application runtime of the RustStream messaging framework: router, dispatch, publishing and codecs; services use it through `ruststream`."
+2026-10-30T08:23:08.252589Z,ruststream-memory,0.7.7,0,0,https://github.com/powersemmi/ruststream,"The in-memory broker of the RustStream messaging framework, its reference broker; services use it through `ruststream`."
+2026-10-30T08:23:14.421749Z,ruststream-asyncapi,0.7.7,0,0,https://github.com/powersemmi/ruststream,The AsyncAPI document generator of the RustStream messaging framework; services use it through `ruststream`.
+2026-10-30T08:23:19.223799Z,ruststream-observability,0.7.7,0,0,https://github.com/powersemmi/ruststream,"Prometheus metrics, logging and OpenTelemetry layers for the RustStream messaging framework; services use them through `ruststream`."
+2026-10-30T08:23:40.936773Z,curd_trait,0.1.0,0,0,https://github.com/feihua/axum-admin/tree/master/crates/curd_trait,简化CRUD操作，基于rbatis
+2026-10-30T08:23:53.124482Z,curd_macro,0.1.0,0,0,https://github.com/feihua/axum-admin/tree/master/crates/curd_macro,简化CRUD操作，基于rbatis
+2026-10-30T08:25:03.01686Z,dfmt_rs,0.1.0,0,0,,A tiny format lib
+2026-10-30T08:26:47.594242Z,meridian-rendering-wgpu,0.18.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Low-level GPU abstraction (device, command queues, buffers, textures, shaders, pipelines, synchronization). Knows nothing about scenes or materials."
+2026-10-30T08:36:38.987359Z,meridian-ui-domain,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"WPF-style retained UI runtime: element tree, typed dependency properties, measure/arrange layout (StackPanel, DockPanel, Grid) and hit testing. Emits no pixels itself; see ADR 018."
+2026-10-30T08:40:24.364437Z,guidwin,0.1.0,0,0,,A supplementary library for r-efi
+2026-10-30T08:40:50.238825Z,b1brain,0.0.1,0,0,https://github.com/b1brain,Name reserved for the B1Brain project family. Coming soon. No code.
+2026-10-30T08:40:51.626627Z,guidwin_macro,0.1.0,0,0,,A supplementary library for r-efi
+2026-10-30T08:40:52.383509Z,b1brain-davinci,0.0.1,0,0,https://github.com/b1brain,Name reserved for the B1Brain project family. Coming soon. No code.
+2026-10-30T08:40:54.330499Z,b1brain-wiki,0.0.1,0,0,https://github.com/b1brain,Name reserved for the B1Brain project family. Coming soon. No code.
+2026-10-30T08:40:56.236948Z,b1brainlabs,0.0.1,0,0,https://github.com/b1brain,Name reserved for the B1Brain project family. Coming soon. No code.
+2026-10-30T08:40:58.167346Z,b1stai,0.0.1,0,0,https://github.com/b1brain,Name reserved for the B1Brain project family. Coming soon. No code.
+2026-10-30T08:44:34.537406Z,panvel,0.0.0-reserved,0,0,https://github.com/panvel-desktop/panvel,A GPU-accelerated modular desktop overlay engine built with Rust.
+2026-10-30T08:46:13.453743Z,ruststream-testing,0.7.7,0,0,https://github.com/powersemmi/ruststream,The TestApp harness of the RustStream messaging framework; services use it through `ruststream`.
+2026-10-30T08:46:19.307812Z,ruststream-conformance,0.7.7,0,0,https://github.com/powersemmi/ruststream,The broker contract suite of the RustStream messaging framework; broker crates use it through `ruststream`.
+2026-10-30T08:46:38.459685Z,meridian-text-domain,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Our own font stack, CPU only: a bounds-checked TrueType parser, an anti-aliasing rasterizer, a glyph atlas and a simple shaper; see ADR 023."
+2026-10-30T08:49:10.844031Z,ruststream-cli,0.7.7,0,0,https://github.com/powersemmi/ruststream,The command-line entry point of RustStream services and the `ruststream` tool; services use it through `ruststream`.
+2026-10-30T08:49:48.975117Z,oxidauth-repository,0.0.0,0,0,https://github.com/oxidauth/oxidauth,repository traits (storage ports) for oxidauth
+2026-10-30T08:51:19.746016Z,yetlet-actions,0.9.0-alpha.4,0,0,https://github.com/bohewu/yetlet,Explicit typed local/HTTP action executor boundaries
+2026-10-30T08:53:09.836388Z,degenprime,2.3.0,0,0,https://github.com/raw-lab/degenprime,"Degenerate PCR primer design from DNA sequences, with a built-in pure-Rust MAFFT aligner: CLI, desktop GUI and WebAssembly engine in one crate"
+2026-10-30T08:54:11.987237Z,oxidauth-services,0.0.0,0,0,https://github.com/oxidauth/oxidauth,service layer for oxidauth
+2026-10-30T08:55:44.786922Z,vti-specs-core,0.1.0,0,0,https://github.com/OpenVTC/verifiable-trust-infrastructure,"VTI's generated Trust Task wire types: every family VTI speaks other than rooms/*, vta/* and vtc/*, at the versions trust-tasks.lock pins"
+2026-10-30T08:56:38.877951Z,meridian-ui-scene2d,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Turns a laid-out meridian-ui-domain element tree into a rendering-domain Scene2d: backgrounds and text today, images next. No GPU, no windowing; see ADR 021."
+2026-10-30T08:57:02.114748Z,b1brainstudio,0.0.1,0,0,https://github.com/b1brain,Name reserved for the B1Brain project family. Coming soon. No code.
+2026-10-30T08:58:13.454861Z,vti-specs-rooms,0.1.0,0,0,https://github.com/OpenVTC/verifiable-trust-infrastructure,"VTI's generated Trust Task wire types: the rooms/* family. Kept alone so vti-rooms-wasm compiles nothing else, at the versions trust-tasks.lock pins"
+2026-10-30T08:59:03.707147Z,vti-specs-vta,0.1.0,0,0,https://github.com/OpenVTC/verifiable-trust-infrastructure,"VTI's generated Trust Task wire types: the vta/* family, at the versions trust-tasks.lock pins"
+2026-10-30T09:00:31.483761Z,vti-specs-vtc,0.1.0,0,0,https://github.com/OpenVTC/verifiable-trust-infrastructure,"VTI's generated Trust Task wire types: the vtc/* family, at the versions trust-tasks.lock pins"
+2026-10-30T09:02:37.013957Z,vti-specs,0.1.0,0,0,https://github.com/OpenVTC/verifiable-trust-infrastructure,"VTI's generated Trust Task wire types, one module per spec family, and a Type URI index over exactly the versions VTI pins"
+2026-10-30T09:06:39.731808Z,meridian-ui-mel,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Build-time .meui generator: turns each .meui document into a generated <name>.g.rs (x:Name ids, typed builder, code-behind aliases) that a code-behind pulls in with meridian_sdk::meui_include!. Used…"
+2026-10-30T09:18:29.140801Z,dm2-magicmap,0.6.0,0,0,https://git.lordran.net/jqueuniet/dm2-tools,Dungeon Master II magic-map rendering of `dungeon.dat` maps to PNG and APNG.
