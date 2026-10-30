@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T04:22:04.701689Z,austringer-bench,0.1.3,0,0,https://github.com/vinaosb/austringer,"Performance gate, budgets, and benchmarks for austringer"
+2026-10-30T04:23:12.437034Z,nexia-nextcloud-uploads,0.2.1,0,0,https://github.com/Luxuride/nexia-nextcloud-sdk,WebDAV Chunked Upload v2 client for the Nextcloud Rust SDK
+2026-10-30T04:24:27.40244Z,crumbkit-test,0.1.0,0,0,https://github.com/crumbkit/crumbkit,"Tests that check a clap tool's command tree and help pages, and a crumbkit tool's failure codes, guide and examples, against the crumbkit conventions"
+2026-10-30T04:33:16.622341Z,nexia-nextcloud-users,0.2.1,0,0,,Nextcloud user provisioning and server capabilities client
+2026-10-30T04:34:26.589295Z,crumbkit-usage,0.1.0,0,0,https://github.com/crumbkit/crumbkit,"A local usage log for crumbkit tools, with the self usage and self figures list commands that read it"
+2026-10-30T04:43:20.778389Z,nexia-nextcloud-versions,0.2.1,0,0,https://github.com/Luxuride/nexia-nextcloud-sdk,WebDAV file versions client for the Nextcloud Rust SDK
+2026-10-30T04:44:27.526723Z,cargo-crumbkit,0.1.0,0,0,https://github.com/crumbkit/crumbkit,"Cargo subcommand that measures what each path through a crumbkit tool's help costs an agent to read, and writes its command reference"
+2026-10-30T04:44:55.624178Z,brz-engineioxide,0.17.7-brz.1,0,0,https://github.com/we-breeze/socket-io,Engine IO server implementation as a Tower Service.
+2026-10-30T04:45:00.010475Z,brz-socketioxide,0.18.7-brz.1,0,0,https://github.com/we-breeze/socket-io,Socket IO server implementation in rust as a Tower Service.
+2026-10-30T04:53:36.506232Z,nexia-nextcloud-sdk,0.2.1,0,0,https://github.com/Luxuride/nexia-nextcloud-sdk,"Unofficial Rust SDK for the Nextcloud APIs: typed clients for every API area plus a managed runtime for mounts, sync, VFS hydration and events"
+2026-10-30T04:53:41.633037Z,sojourn,0.4.2,0,0,https://github.com/groostav/sojourn,Constrained random vector generation over a small expression language
+2026-10-30T04:56:35.969123Z,t4a-cuda-kernels,0.1.0,0,0,https://github.com/tensor4all/t4a-cuda-kernels,Runtime-independent CUDA kernels for tensor4all and external CUDA consumers
+2026-10-30T04:58:47.547872Z,sleepwalk,0.0.1,0,0,,In development.
+2026-10-30T05:03:15.930949Z,closed-proc-macros,0.0.1,0,0,,Internal procedural macros for the `closed` crate.
+2026-10-30T05:07:08.018708Z,t4a-cuda-runtime,0.1.0,0,0,https://github.com/tensor4all/t4a-gpu-backend,"Standalone CUDA execution runtime (streams, memory pools, transfers, NVRTC and kernel launch) for tensor4all"
+2026-10-30T05:08:01.944267Z,rsml-compiler,0.1.0,0,0,https://github.com/uhhJoyz/rsml-lang,"The OCaml-to-Rust translator behind rsml's macros: lexer, parser and code generator"
+2026-10-30T05:08:03.957514Z,rsml-fmt,0.1.0,0,0,https://github.com/uhhJoyz/rsml-lang,Formatter for the OCaml in rsml's `ml!` and `rsml!` blocks
+2026-10-30T05:08:04.473002Z,rsml-macros,0.1.0,0,0,https://github.com/uhhJoyz/rsml-lang,Procedural macros for rsml (use the `rsml-lang` crate instead)
+2026-10-30T05:08:05.684902Z,rsml-lang,0.1.0,0,0,https://github.com/uhhJoyz/rsml-lang,"OCaml expression syntax inside Rust function bodies, lowered at compile time to plain Rust"
+2026-10-30T05:09:21.212939Z,meridian-gac,0.12.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Geometric Algebra Core — vectors, bivectors, multivectors, rotors and motors; the shared spatial math foundation for every other subsystem."
+2026-10-30T05:09:41.804362Z,meridian-ecs,0.15.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Archetype-based, data-oriented Entity Component System with SoA storage, built for cache- and SIMD-friendly iteration."
+2026-10-30T05:09:54.570391Z,meridian-animation-domain,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Skeletal animation vocabulary and math, CPU only: skeletons and joints, keyframed clips, playback, and the joint matrices a skinned mesh is drawn with; see ADR 047."
+2026-10-30T05:10:59.751671Z,meridian-audio-domain,0.19.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Spatial audio built on the GAC: mixer, DSP graph, listener and emitter frames."
+2026-10-30T05:11:11.422553Z,meridian-audio-app,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,Audio use cases and the ports to the outside world: the AudioSink mixed samples leave through.
+2026-10-30T05:12:07.479512Z,qubit-validator,0.1.0,0,0,https://github.com/qubit-ltd/rs-validator,Type-safe validation traits and registries for Qubit applications
+2026-10-30T05:16:41.756982Z,meridian-resource,0.8.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Resource identity: typed handles, versioning, lifetime and dependency tracking for textures/meshes/buffers/shaders. Not a manager — the type system resource lifecycle is built on."
+2026-10-30T05:18:32.839696Z,rsksw2,0.1.0,0,0,https://github.com/keithyin/rsksw2,Rust port of the KSW2 pairwise sequence alignment library

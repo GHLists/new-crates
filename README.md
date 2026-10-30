@@ -8,39 +8,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 04:20 UTC
+## Latest list — 2026-10-30 05:18 UTC
 
-New crates published between 2026-10-30 03:19 UTC and 2026-10-30 04:20 UTC.
+New crates published between 2026-10-30 04:20 UTC and 2026-10-30 05:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-30T04-20-31-059501Z.csv)
+[Full CSV](data/new-crates-2026-10-30T05-18-54-044497Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-30 03:21:55 | [austringer-intel](https://crates.io/crates/austringer-intel) | 0.1.3 | 0 | Model catalog and routing intelligence for austringer: R2 grids, trap rows, bou… |
-| 2026-10-30 03:22:39 | [nexia-nextcloud-sdk-request](https://crates.io/crates/nexia-nextcloud-sdk-request) | 0.2.1 | 0 | Per-call lifecycle and retry policy for the Nextcloud Rust SDK |
-| 2026-10-30 03:23:45 | [pantometry-forcefield](https://crates.io/crates/pantometry-forcefield) | 0.23.0 | 0 | Small molecules as a simulation domain: a wwPDB chemical component typed for th… |
-| 2026-10-30 03:31:53 | [austringer-orchestration](https://crates.io/crates/austringer-orchestration) | 0.1.3 | 0 | Spec-driven launch, roles, and phases for austringer orchestration |
-| 2026-10-30 03:32:43 | [nexia-nextcloud-sdk-session](https://crates.io/crates/nexia-nextcloud-sdk-session) | 0.2.1 | 0 | Account lifecycle state machine for the Nextcloud Rust SDK |
-| 2026-10-30 03:44:41 | [openai-agents-sdk-macros](https://crates.io/crates/openai-agents-sdk-macros) | 0.3.0 | 0 | Procedural macros for openai-agents-sdk (#[function_tool]) |
-| 2026-10-30 03:48:02 | [teskeslab-design-system](https://crates.io/crates/teskeslab-design-system) | 1.0.0 | 0 | Teske's Lab semantic design tokens, fonts, and optional egui and GPUI Kit adapt… |
-| 2026-10-30 03:52:51 | [nexia-nextcloud-talk](https://crates.io/crates/nexia-nextcloud-talk) | 0.2.1 | 0 | Nextcloud Talk (Spreed) API client and domain types |
-| 2026-10-30 04:03:02 | [lock-hook](https://crates.io/crates/lock-hook) | 0.1.1 | 0 | Lock regions of a repository so coding agents cannot change them without a pers… |
-| 2026-10-30 04:03:03 | [nexia-nextcloud-transport](https://crates.io/crates/nexia-nextcloud-transport) | 0.2.1 | 0 | HTTP transport for the Nextcloud Rust SDK |
-| 2026-10-30 04:13:08 | [nexia-nextcloud-trashbin](https://crates.io/crates/nexia-nextcloud-trashbin) | 0.2.1 | 0 | Nextcloud Trashbin WebDAV API client and domain types |
-| 2026-10-30 04:14:08 | [crumbkit-derive](https://crates.io/crates/crumbkit-derive) | 0.1.0 | 0 | The derive macro for crumbkit's Failure trait |
-| 2026-10-30 04:14:10 | [crumbkit](https://crates.io/crates/crumbkit) | 0.1.0 | 0 | Conventions for clap command-line tools that people and agents can drill into |
-| 2026-10-30 04:14:13 | [crumbkit-aliases](https://crates.io/crates/crumbkit-aliases) | 0.1.0 | 0 | Personal command aliases for crumbkit tools, read from a file in the user's con… |
-| 2026-10-30 04:14:13 | [crumbkit-child](https://crates.io/crates/crumbkit-child) | 0.1.0 | 0 | Hands the terminal to another program, such as an editor or a pager, as a crumb… |
-| 2026-10-30 04:14:14 | [crumbkit-markdown](https://crates.io/crates/crumbkit-markdown) | 0.1.0 | 0 | Writes a Markdown reference of every command of a crumbkit tool from its comman… |
-| 2026-10-30 04:15:14 | [austringer-web](https://crates.io/crates/austringer-web) | 0.1.3 | 0 | Daemon-served web dashboard SPA for austringer (no node server) |
-| 2026-10-30 04:16:26 | [austringer-daemon](https://crates.io/crates/austringer-daemon) | 0.1.3 | 0 | The austringer engine daemon: sessions, routing, permissions, cost budgets |
-| 2026-10-30 04:17:32 | [austringer-cli](https://crates.io/crates/austringer-cli) | 0.1.3 | 0 | Thin terminal client over the austringer daemon (run, capture, REPL, attach, do… |
-| 2026-10-30 04:18:18 | [meridian-project-domain](https://crates.io/crates/meridian-project-domain) | 0.1.0 | 0 | What a Meridian project is: its name, its templates and the files a template ma… |
-| 2026-10-30 04:18:20 | [meridian-project-app](https://crates.io/crates/meridian-project-app) | 0.1.0 | 0 | The use cases of projects: make a new project from a template. |
-| 2026-10-30 04:18:22 | [meridian-project-fs](https://crates.io/crates/meridian-project-fs) | 0.1.0 | 0 | The disk adapter of the project files port. |
-| 2026-10-30 04:18:23 | [meridian-project-process](https://crates.io/crates/meridian-project-process) | 0.1.0 | 0 | The adapters that run cargo, the installed tools and a built game as processes. |
-| 2026-10-30 04:18:25 | [meridian-cli](https://crates.io/crates/meridian-cli) | 0.1.0 | 0 | The `meridian` command-line tool: it alone knows what a Meridian project is. |
-| 2026-10-30 04:18:40 | [austringer-tui](https://crates.io/crates/austringer-tui) | 0.1.3 | 0 | Terminal user interface for the austringer daemon (ratatui) |
+| 2026-10-30 04:22:04 | [austringer-bench](https://crates.io/crates/austringer-bench) | 0.1.3 | 0 | Performance gate, budgets, and benchmarks for austringer |
+| 2026-10-30 04:23:12 | [nexia-nextcloud-uploads](https://crates.io/crates/nexia-nextcloud-uploads) | 0.2.1 | 0 | WebDAV Chunked Upload v2 client for the Nextcloud Rust SDK |
+| 2026-10-30 04:24:27 | [crumbkit-test](https://crates.io/crates/crumbkit-test) | 0.1.0 | 0 | Tests that check a clap tool's command tree and help pages, and a crumbkit tool… |
+| 2026-10-30 04:33:16 | [nexia-nextcloud-users](https://crates.io/crates/nexia-nextcloud-users) | 0.2.1 | 0 | Nextcloud user provisioning and server capabilities client |
+| 2026-10-30 04:34:26 | [crumbkit-usage](https://crates.io/crates/crumbkit-usage) | 0.1.0 | 0 | A local usage log for crumbkit tools, with the self usage and self figures list… |
+| 2026-10-30 04:43:20 | [nexia-nextcloud-versions](https://crates.io/crates/nexia-nextcloud-versions) | 0.2.1 | 0 | WebDAV file versions client for the Nextcloud Rust SDK |
+| 2026-10-30 04:44:27 | [cargo-crumbkit](https://crates.io/crates/cargo-crumbkit) | 0.1.0 | 0 | Cargo subcommand that measures what each path through a crumbkit tool's help co… |
+| 2026-10-30 04:44:55 | [brz-engineioxide](https://crates.io/crates/brz-engineioxide) | 0.17.7-brz.1 | 0 | Engine IO server implementation as a Tower Service. |
+| 2026-10-30 04:45:00 | [brz-socketioxide](https://crates.io/crates/brz-socketioxide) | 0.18.7-brz.1 | 0 | Socket IO server implementation in rust as a Tower Service. |
+| 2026-10-30 04:53:36 | [nexia-nextcloud-sdk](https://crates.io/crates/nexia-nextcloud-sdk) | 0.2.1 | 0 | Unofficial Rust SDK for the Nextcloud APIs: typed clients for every API area pl… |
+| 2026-10-30 04:53:41 | [sojourn](https://crates.io/crates/sojourn) | 0.4.2 | 0 | Constrained random vector generation over a small expression language |
+| 2026-10-30 04:56:35 | [t4a-cuda-kernels](https://crates.io/crates/t4a-cuda-kernels) | 0.1.0 | 0 | Runtime-independent CUDA kernels for tensor4all and external CUDA consumers |
+| 2026-10-30 04:58:47 | [sleepwalk](https://crates.io/crates/sleepwalk) | 0.0.1 | 0 | In development. |
+| 2026-10-30 05:03:15 | [closed-proc-macros](https://crates.io/crates/closed-proc-macros) | 0.0.1 | 0 | Internal procedural macros for the `closed` crate. |
+| 2026-10-30 05:07:08 | [t4a-cuda-runtime](https://crates.io/crates/t4a-cuda-runtime) | 0.1.0 | 0 | Standalone CUDA execution runtime (streams, memory pools, transfers, NVRTC and… |
+| 2026-10-30 05:08:01 | [rsml-compiler](https://crates.io/crates/rsml-compiler) | 0.1.0 | 0 | The OCaml-to-Rust translator behind rsml's macros: lexer, parser and code gener… |
+| 2026-10-30 05:08:03 | [rsml-fmt](https://crates.io/crates/rsml-fmt) | 0.1.0 | 0 | Formatter for the OCaml in rsml's `ml!` and `rsml!` blocks |
+| 2026-10-30 05:08:04 | [rsml-macros](https://crates.io/crates/rsml-macros) | 0.1.0 | 0 | Procedural macros for rsml (use the `rsml-lang` crate instead) |
+| 2026-10-30 05:08:05 | [rsml-lang](https://crates.io/crates/rsml-lang) | 0.1.0 | 0 | OCaml expression syntax inside Rust function bodies, lowered at compile time to… |
+| 2026-10-30 05:09:21 | [meridian-gac](https://crates.io/crates/meridian-gac) | 0.12.0 | 0 | Geometric Algebra Core — vectors, bivectors, multivectors, rotors and motors; t… |
+| 2026-10-30 05:09:41 | [meridian-ecs](https://crates.io/crates/meridian-ecs) | 0.15.0 | 0 | Archetype-based, data-oriented Entity Component System with SoA storage, built… |
+| 2026-10-30 05:09:54 | [meridian-animation-domain](https://crates.io/crates/meridian-animation-domain) | 0.1.0 | 0 | Skeletal animation vocabulary and math, CPU only: skeletons and joints, keyfram… |
+| 2026-10-30 05:10:59 | [meridian-audio-domain](https://crates.io/crates/meridian-audio-domain) | 0.19.0 | 0 | Spatial audio built on the GAC: mixer, DSP graph, listener and emitter frames. |
+| 2026-10-30 05:11:11 | [meridian-audio-app](https://crates.io/crates/meridian-audio-app) | 0.1.0 | 0 | Audio use cases and the ports to the outside world: the AudioSink mixed samples… |
+| 2026-10-30 05:12:07 | [qubit-validator](https://crates.io/crates/qubit-validator) | 0.1.0 | 0 | Type-safe validation traits and registries for Qubit applications |
+| 2026-10-30 05:16:41 | [meridian-resource](https://crates.io/crates/meridian-resource) | 0.8.0 | 0 | Resource identity: typed handles, versioning, lifetime and dependency tracking… |
+| 2026-10-30 05:18:32 | [rsksw2](https://crates.io/crates/rsksw2) | 0.1.0 | 0 | Rust port of the KSW2 pairwise sequence alignment library |
 
 ## Data source
 
