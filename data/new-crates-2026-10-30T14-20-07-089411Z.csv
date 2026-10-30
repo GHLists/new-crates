@@ -1,0 +1,53 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T13:21:19.609579Z,cargo-floor,0.1.0,0,0,https://github.com/cartertinney/cargo-floor,Discover source-driven minimum dependency versions
+2026-10-30T13:25:40.892076Z,meari-cli,0.1.0,0,0,https://github.com/modootoday/meari,"Unified `meari` command line: convert, native, build"
+2026-10-30T13:29:10.173048Z,nq-diff,0.1.0,0,0,,Compare NEXUS-Q file manifests and summarize changes
+2026-10-30T13:33:33.269003Z,vbitmap,0.1.0,0,0,https://github.com/msardara/vbitmap,"Fast growable bitmap over generic machine words, with zero-cost borrowed views"
+2026-10-30T13:34:03.307586Z,aiconnect-core,0.3.0,0,0,https://github.com/ACCSCI/AIConnect,Local-first encrypted AI agent communication over iroh
+2026-10-30T13:34:33.034741Z,aiconnect-cli,0.3.0,0,0,https://github.com/ACCSCI/AIConnect,Local-first encrypted peer-to-peer messaging and collaboration for AI agents
+2026-10-30T13:34:55.874322Z,ziyuan-app,1.1.0,0,0,https://github.com/YuuUehara/Ziyuan,应用层（任务、文本项目、作品关注）：紫垣（ZiYuan）的内部组件，供 ziyuan-cli 使用；Rust API 不保证稳定。
+2026-10-30T13:35:22.064038Z,canic-icydb,0.113.0,0,0,https://github.com/dragginzgame/canic,Native IcyDB canister transport and lifecycle adapter
+2026-10-30T13:35:57.584162Z,bjs-menu-nutrition,1.0.0,0,0,https://github.com/nbkdevs/bjs-menu,"Offline BJ's Restaurant meal builder: total calories, protein, carbs, fat and sodium, flag missing values, filter by calories and allergens."
+2026-10-30T13:36:00.297277Z,imc-calculadora,1.0.0,0,0,https://github.com/nbkdevs/imc-calculadora,"Calculadora IMC / BMI calculator: adult BMI with WHO classes (incl. thinness subclasses), healthy-weight range, metric and imperial, Spanish and English."
+2026-10-30T13:39:41.548003Z,raven-gui-build,0.1.3,0,0,https://github.com/oscar-soirey/Raven,"Compiles the .xmlrs files of a crate (Raven XML + Rust) with ravenc, from build.rs"
+2026-10-30T13:40:46.390156Z,quipu-signing,0.1.0,0,0,https://github.com/intigraph/quipu,Shared Quipu v1 verdict signing primitives; trust and keys remain caller-owned
+2026-10-30T13:43:06.235327Z,iced_storage_bar,0.1.0,0,0,https://github.com/Santuzius/iced_storage_bar,A rounded storage-usage bar for iced that colours itself by how full the quota is
+2026-10-30T13:43:39.540705Z,rookery-cli,0.1.0,0,0,https://github.com/sa-es-ir/rookery,"Rookery on your own machine: plan, approve, and let Claude Code implement it task by task."
+2026-10-30T13:44:11.003957Z,iced_fabi,0.1.0,0,0,https://github.com/Santuzius/iced_fabi,iced File cABInet: An iced GUI widget for browsing directories and sorting or selecting items.
+2026-10-30T13:45:09.196821Z,ziyuan-web,1.1.0,0,0,https://github.com/YuuUehara/Ziyuan,Web 界面：紫垣（ZiYuan）的内部组件，供 ziyuan-cli 使用；Rust API 不保证稳定。
+2026-10-30T13:47:00.38157Z,nq-doc-audit,0.1.0,0,0,,Audit Markdown documents for broken local links and required headings
+2026-10-30T13:47:17.987349Z,x6502,0.1.0,0,0,https://github.com/ThePangel/0x6502,A 6502 retro computer lab
+2026-10-30T13:49:32.428077Z,multivalent,0.1.0,0,0,https://github.com/multivalent-labs/multivalent-rs,"Placeholder crate for Multivalent AI - name reserved for future use, do not depend on it."
+2026-10-30T13:49:54.249475Z,weaverbird,0.1.0,0,0,https://github.com/earth-mover/weaverbird,A Rust transliteration of the CuTe layout algebra
+2026-10-30T13:51:27.95367Z,tree-sitter-swi-prolog,0.1.0,0,0,https://github.com/Looted/tree-sitter-swi-prolog,SWI-Prolog grammar for tree-sitter
+2026-10-30T13:53:05.858772Z,mhome-storage-api,0.1.0,0,0,https://github.com/mhome-ai/foundation,Canonical Folder and object storage capability contracts
+2026-10-30T13:53:07.996576Z,neochumby-sys,0.0.1,0,0,https://github.com/johnmerchant/neochumby,"neochumby's raw system calls, behind safe functions: the only crate of ours with unsafe code"
+2026-10-30T13:53:17.475526Z,wire-core,1.0.0,0,0,,"Ultra-low-latency MCP execution runtime: bounded parsing, Ed25519 budgets, schemas and caching."
+2026-10-30T13:53:21.36301Z,neochumby-proto,0.0.1,0,0,https://github.com/johnmerchant/neochumby,How a Chumby and its neochumbyd talk: TLS 1.3 over TCP
+2026-10-30T13:53:28.353986Z,neochumby-macros,0.0.1,0,0,https://github.com/johnmerchant/neochumby,"neochumby's macros: an app's companion, checked against its Cargo.toml as it compiles"
+2026-10-30T13:53:32.923244Z,neochumby-softfloat,0.0.1,0,0,https://github.com/johnmerchant/neochumby,"libgcc's hand-written ARM soft-float routines, for the Chumby Classic's FPU-less ARM926"
+2026-10-30T13:53:40.936902Z,neochumby-sync,0.0.1,0,0,https://github.com/johnmerchant/neochumby,"delivery=sync: a Chumby's tree on its stick, kept in step with its neochumbyd"
+2026-10-30T13:54:25.713174Z,wire-ffi,1.0.0,0,0,,NAPI-RS / C-ABI bindings for wire-core. Flat byte buffers and status codes only.
+2026-10-30T13:56:46.223671Z,olai-storage-credentials,0.0.1,0,0,https://github.com/open-lakehouse/trestle,"Canonical model, storage locations and wire adapters for vended cloud storage credentials"
+2026-10-30T13:57:37.159892Z,supdoc,0.1.0,0,0,https://github.com/aidenzepp/supdoc,Track links from documentation to code and report when the linked code changes
+2026-10-30T14:00:38.354571Z,metewand,0.2.0,0,0,https://github.com/jolars/metewand,Reproducible computational benchmarks across languages
+2026-10-30T14:01:41.548075Z,tc_gost3411,0.1.0,0,0,https://github.com/TomiCheng/tc_digest,GOST R 34.11-94 and GOST R 34.11-2012 (Streebog) message digests.
+2026-10-30T14:02:03.283996Z,tc_sm3,0.1.0,0,0,https://github.com/TomiCheng/tc_digest,"SM3 message digest (GB/T 32905-2016), the Chinese national hash standard."
+2026-10-30T14:02:09.637654Z,nq-doctor,0.1.0,0,0,,Diagnose required and optional development tools
+2026-10-30T14:02:23.204704Z,tc_ripemd,0.1.0,0,0,https://github.com/TomiCheng/tc_digest,"RIPEMD-128, RIPEMD-160, RIPEMD-256 and RIPEMD-320 message digests (ISO/IEC 10118-3)."
+2026-10-30T14:02:38.837212Z,olai-vended-store,0.0.1,0,0,https://github.com/open-lakehouse/trestle,"object_store stores backed by vended, auto-refreshing cloud storage credentials"
+2026-10-30T14:02:45.95235Z,tc_dstu7564,0.1.0,0,0,https://github.com/TomiCheng/tc_digest,"DSTU 7564:2014 (Kupyna) message digest, the Ukrainian national hash standard."
+2026-10-30T14:03:07.037703Z,tc_skein,0.1.0,0,0,https://github.com/TomiCheng/tc_digest,"Skein 1.3 hash function over Threefish, keyed or personalised, with any state and output size."
+2026-10-30T14:06:00.60691Z,olai-credential-vending,0.0.1,0,0,https://github.com/open-lakehouse/trestle,Server-side minting of downscoped cloud storage credentials from registered principals
+2026-10-30T14:06:32.293595Z,seam-rs-ash,0.7.0,0,0,https://github.com/parzivale/seam,"Vulkan for seam: buffers, images and programs as scopes, uploads, draws and dispatches as effects, with synchronization worked out for you; over ash, sync and async, and simulated for tests."
+2026-10-30T14:07:53.316126Z,neochumby,0.0.1,0,0,https://github.com/johnmerchant/neochumby,neochumby: the session and the device library for the Chumby Classic
+2026-10-30T14:09:16.809302Z,boltlang,1.0.0,0,0,https://github.com/boltlang/bolt,Placeholder for the Bolt compiler
+2026-10-30T14:11:34.650792Z,tc_misc_digest,0.1.0,0,0,https://github.com/TomiCheng/tc_digest,"Less common message digests: Haraka, PHOTON-Beetle, ESCH, Tiger, Whirlpool and Xoodyak, one feature each."
+2026-10-30T14:11:50.431369Z,illumitech-forge-domain,0.3.0,0,0,https://github.com/TheZehel/illumitech-forge,Contracts and evidence state for Illumitech Forge
+2026-10-30T14:12:11.232217Z,illumitech-forge-adapters,0.3.0,0,0,https://github.com/TheZehel/illumitech-forge,"Native process, memory and telemetry adapters for Illumitech Forge"
+2026-10-30T14:12:17.370827Z,illumitech-forge-catalog,0.3.0,0,0,https://github.com/TheZehel/illumitech-forge,Local recipe catalog for Illumitech Forge
+2026-10-30T14:13:14.40348Z,illumitech-forge-cli,0.3.0,0,0,https://github.com/TheZehel/illumitech-forge,Evidence-backed agent execution CLI
+2026-10-30T14:14:01.874213Z,vsql-sys,1.0.0,0,0,https://github.com/elliotchance/vsql-rust,"Raw bindings to libvsql (the vsql library), compiled from the vsql amalgamation"
+2026-10-30T14:14:04.160434Z,vsql,1.0.0,0,0,https://github.com/elliotchance/vsql-rust,"An embedded SQL database: vsql, compiled into the crate"
+2026-10-30T14:15:46.602067Z,clean-your-attribution,0.1.0,0,0,https://github.com/Unka-Malloc/Clean-Your-Attribution,"One attribution policy, three enforcement surfaces plus a local agent switch: commit cleaning, server-side push/PR denial, fleet rollout, and turning off agents' own attribution options."
+2026-10-30T14:17:20.55971Z,nq-env,0.1.0,0,0,,Safely summarize runtime environment information
