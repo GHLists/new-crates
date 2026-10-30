@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T17:19:45.649435Z,hyperb-core,0.1.0,0,0,https://github.com/hypereffect/hyperb,"Shared logic for the hyperb renderers: addresses, identity, transports, history and wasm apps"
+2026-10-30T17:23:41.920568Z,nq-sign,0.1.0,0,0,,"Generate Ed25519 keys, sign files, and verify detached signatures using NEXUS-Q Core"
+2026-10-30T17:25:29.498342Z,jouet-edit,0.0.0,0,0,,Reserved.
+2026-10-30T17:25:31.38413Z,jouet-github,0.0.0,0,0,,Reserved.
+2026-10-30T17:25:33.267733Z,jouet-wait,0.0.0,0,0,,Reserved.
+2026-10-30T17:25:35.064673Z,jouet-output,0.0.0,0,0,,Reserved.
+2026-10-30T17:28:28.571767Z,jouet-audit,0.0.0,0,0,,Reserved.
+2026-10-30T17:28:30.635664Z,jouet-git,0.0.0,0,0,,Reserved.
+2026-10-30T17:28:51.799165Z,aikoql-compiler,0.2.4,0,0,https://github.com/anckursingh/aikoql,"Aikoql Compiler: Aikoql JSON query language → Knowledge IR. Frontend-agnostic, compiles to IrPlan."
+2026-10-30T17:28:54.571627Z,lattice-quant,0.15.0,0,0,https://github.com/ohdearquant/lattice,"Quantization for Lattice inference: Walsh-Hadamard and QuaRot rotations, the offline QuaRot conversion of Qwen3.5 checkpoints, and the Q4 checkpoint manifest reader"
+2026-10-30T17:29:01.503805Z,aikoql-runtime,0.2.4,0,0,https://github.com/anckursingh/aikoql,Aikoql Runtime: physical-plan interpreter for Knowledge IR. Executes IR plans against the Knowledge Kernel.
+2026-10-30T17:29:17.238255Z,aikoql-sdk,0.2.4,0,0,https://github.com/anckursingh/aikoql,Rust SDK for Aikoql — the reference implementation of the canonical Database API (D-12): embedded + remote modes
+2026-10-30T17:31:36.078567Z,ikigai-reason,0.3.3,0,0,https://github.com/ikigai-rs/ikigai-linkeddata,Bounded OWL 2 RL closure and inferred triples as cacheable ikigai resources
+2026-10-30T17:35:06.104463Z,orangedb-macros,0.1.0,0,0,https://github.com/andunieee/orangedb,Proc macros for orangedb
+2026-10-30T17:35:31.015417Z,orangedb,0.1.0,0,0,https://github.com/andunieee/orangedb,Typed entities with foreign keys and unique indexes on top of redb
+2026-10-30T17:38:51.902548Z,nq-supply-chain,0.1.0,0,0,,Report local Cargo dependency metadata and declared provenance
+2026-10-30T17:39:11.373096Z,lattice-compute,0.15.0,0,0,https://github.com/ohdearquant/lattice,"Host-side and optional WGPU compute for Lattice inference: rotary position embedding tables (including Gemma 4), KV caches, LoRA hooks, numerical diagnostics, option scoring, attention row semantics…"
+2026-10-30T17:40:37.589065Z,cpufish,0.0.0,0,0,,"Reserved name for CPUFish, a planned vendor-neutral Rust CPU math backend (AOCL, oneMKL and others). No code yet."
+2026-10-30T17:40:40.852274Z,cpufish-sys,0.0.0,0,0,,"Reserved name for CPUFish, a planned vendor-neutral Rust CPU math backend (AOCL, oneMKL and others). No code yet."
+2026-10-30T17:45:33.628807Z,cargo-composure,0.2.0,0,0,https://github.com/BlueFrog130/composure-rs,"`cargo composure dev`: tunnel, endpoint and guild Commands kept up to date while you work on a Composure Discord bot"
+2026-10-30T17:45:38.167857Z,json-ld-testing-derive,0.22.0,0,0,https://github.com/timothee-haudebourg/json-ld,Derive macro for JSON-LD test suite generation
+2026-10-30T17:45:49.513398Z,poulpy-blas,0.0.0,0,0,https://github.com/poulpy-fhe/poulpy,Backend-agnostic encrypted matrix arithmetic (JKLS) on poulpy-ckks
+2026-10-30T17:45:55.594836Z,poulpy-gpu-portable,0.0.0,0,0,https://github.com/poulpy-fhe/poulpy,"A crate providing GPU implementations of poulpy-hal through its open extension points, on CubeCL"
+2026-10-30T17:49:26.343412Z,lattice-forecast,0.15.0,0,0,https://github.com/ohdearquant/lattice,"Native time-series forecasting models (Chronos-2, Reverso, Toto 2.0) and context preparation for Lattice"
+2026-10-30T17:53:59.334948Z,nq-test-runner,0.1.0,0,0,,Run explicitly configured commands without shell interpretation
+2026-10-30T17:59:41.170205Z,lattice-model-embeddinggemma2,0.15.0,0,0,https://github.com/ohdearquant/lattice,EmbeddingGemma 2 text and image encoders with optional Metal execution
+2026-10-30T17:59:53.435035Z,ireetok,0.1.0,0,0,https://github.com/calebbuffa/iree-rs,Rust API for the IREE tokenizer
+2026-10-30T18:09:08.813291Z,nq-vault,0.1.0,0,0,,Manage a local content-addressed artifact vault using NEXUS-Q Core SHA-256
+2026-10-30T18:09:56.776944Z,lattice-model-bert,0.15.0,0,0,https://github.com/ohdearquant/lattice,CPU BERT encoders and cross-encoder rerankers for Lattice
+2026-10-30T18:13:19.437571Z,jsbsim,0.1.0,0,0,https://github.com/luofang34/jsbsim-rs,Unofficial pure-Rust port of the JSBSim flight dynamics model
+2026-10-30T18:13:35.92326Z,tilewright-scene,0.5.1,0,0,https://github.com/seraphinastudios/tilewright-renderer,Renderer-neutral bounded tile-world scene contracts
+2026-10-30T18:16:04.346108Z,flybuffer,0.1.0,0,0,https://github.com/HalFrgrd/flyline,Simple text buffer library
+2026-10-30T18:18:02.463694Z,rusty-gpui-http,0.4.0,0,0,https://github.com/Ahmdrza/rusty-gpui,HTTP compatibility support for the Rusty GPUI runtime
