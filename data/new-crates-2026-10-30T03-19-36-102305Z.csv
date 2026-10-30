@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T02:19:38.697595Z,quercus-ofx-plugin,0.5.2,0,0,,Quercus Video Editor plugin module: self-contained OFX host and plugin bridge (Rust) (internal; do not depend directly)
+2026-10-30T02:22:02.727519Z,austringer-mcp,0.1.3,0,0,https://github.com/vinaosb/austringer,"MCP client, MCP server, and ACP stdio surfaces for austringer"
+2026-10-30T02:22:06.508933Z,nexia-nextcloud-sdk-storage,0.2.1,0,0,https://github.com/Luxuride/nexia-nextcloud-sdk,Encrypted SQLite storage and keychain-held keys for the Nextcloud Rust SDK
+2026-10-30T02:30:19.660881Z,quercus-engine,0.5.2,0,0,https://github.com/OakVideoEditorCommunity/quercus-engine,Quercus video engine: domain facade and the stable C ABI consumed by frontends
+2026-10-30T02:31:55.65779Z,austringer-wasm,0.1.3,0,0,https://github.com/vinaosb/austringer,"Wasm plugin runtime host module for austringer (feature-gated, off by default)"
+2026-10-30T02:32:10.56837Z,nexia-nextcloud-shares,0.2.1,0,0,https://github.com/Luxuride/nexia-nextcloud-sdk,Nextcloud Files Sharing API client and domain types
+2026-10-30T02:34:36.661979Z,int2dds-derive,1.0.0,0,0,https://github.com/IntellectusCorp/int2DDS,Procedural macros for int2DDS - DdsType derive macro for automatic type support generation
+2026-10-30T02:34:40.685733Z,int2dds,1.0.0,0,0,https://github.com/IntellectusCorp/int2DDS,Rust implementation of the Data Distribution Service (DDS) middleware standard with RTPS protocol support
+2026-10-30T02:34:43.514155Z,int2dds-idl,1.0.0,0,0,https://github.com/IntellectusCorp/int2DDS,"IDL code generator for int2DDS - generates Rust, C, Python, C#, Java and XML type definitions from OMG IDL"
+2026-10-30T02:34:44.068451Z,int2dds-rpc,1.0.0,0,0,https://github.com/IntellectusCorp/int2DDS,DDS-RPC (Remote Procedure Call over DDS) implementation for int2DDS
+2026-10-30T02:39:29.5205Z,closed,0.0.0,0,0,https://github.com/vi-is-ramen/suv,.
+2026-10-30T02:40:17.355186Z,sanstun,0.1.0,0,0,https://github.com/firezone/sanstun,"A fast, sans-IO implementation of the WireGuard® protocol"
+2026-10-30T02:40:32.524316Z,quercus-engine-rs,0.5.4,0,0,https://github.com/OakVideoEditorCommunity/quercus-engine,"Safe Rust SDK for the Quercus video engine: editor sessions, semantic edits, preview, media and OFX"
+2026-10-30T02:41:49.038355Z,corten-protocol,0.1.0,0,0,https://github.com/todd-skelton/corten,"Corten's live-data wire protocol: snapshots, numbered patches, cursors and a client replica. No web or async dependencies, so it builds for servers, native apps (through UniFFI) and agents alike."
+2026-10-30T02:41:57.361375Z,austringer-media,0.1.3,0,0,https://github.com/vinaosb/austringer,"Media adapter surface for austringer: ffmpeg, Blender, FreeCAD, GDAL, glTF validation"
+2026-10-30T02:42:15.882831Z,nexia-nextcloud-sync,0.2.1,0,0,https://github.com/Luxuride/nexia-nextcloud-sdk,"Bidirectional synchronization engine, reconciliation logic, and sync journal for Nextcloud"
+2026-10-30T02:42:24.304915Z,corten-macros,0.1.0,0,0,https://github.com/todd-skelton/corten,"Derive macros for Corten. Written against proc_macro alone, so it adds no dependencies."
+2026-10-30T02:42:35.891841Z,corten-cli,0.1.0,0,0,https://github.com/todd-skelton/corten,"The corten command: create, run and check Corten apps."
+2026-10-30T02:44:56.636179Z,corten-feed,0.1.0,0,0,https://github.com/todd-skelton/corten,"The server side of a Corten live feed: keyed rows, numbered patches, replay and resume, served as JSON snapshots and server-sent events on axum."
+2026-10-30T02:46:55.366663Z,imwarp,0.0.1,0,0,https://github.com/sunipkm/imwarp,2-D image warping and interpolation in pure Rust
+2026-10-30T02:47:00.957011Z,accounting-api,0.1.0,0,0,https://github.com/WyattAu/ledger-api,"HTTP API over the WyattAu accounting estate — ledger, reconciliation, reports, tax, all from the released crates"
+2026-10-30T02:50:06.797125Z,axum-auth-gate,0.1.0,0,0,https://github.com/Delnegend/axum-auth-gate,Basic and OIDC authentication middleware for Axum routers
+2026-10-30T02:51:55.90653Z,austringer-providers,0.1.3,0,0,https://github.com/vinaosb/austringer,"Provider adapters for austringer: Anthropic, OpenAI, Google, xAI, and compat transports"
+2026-10-30T02:52:20.353961Z,nexia-nextcloud-theming,0.2.1,0,0,https://github.com/Luxuride/nexia-nextcloud-sdk,"Nextcloud theming, custom branding metadata, and server status client"
+2026-10-30T02:55:12.958617Z,day-part-webdav,0.0.1,0,0,https://github.com/daybrite/day-part-webdav,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-10-30T03:00:16.238738Z,hydromancer,0.1.0,0,0,https://github.com/joshavenue/hydromancer-rs,"Async Rust client for the Hydromancer REST API: Hyperliquid positions, fills, liquidations and candles"
+2026-10-30T03:00:17.013842Z,zahra2,0.0.0,0,0,https://github.com/zahra-lang/zahra,زهراء 2 - لغة برمجة عربية: مترجم موحد (VM + QBE + LLVM) مع مرحلة تحقق ZIR
+2026-10-30T03:01:52.182175Z,austringer-tools,0.1.3,0,0,https://github.com/vinaosb/austringer,"Core tool implementations for austringer: semantic hunks, staged apply, anchors"
+2026-10-30T03:02:32.273085Z,nexia-nextcloud-sdk-orchestrator,0.2.1,0,0,https://github.com/Luxuride/nexia-nextcloud-sdk,"High-level background orchestrator, actor runtime, and multi-mount synchronization engine for Nextcloud"
+2026-10-30T03:08:11.646849Z,zahra,1.0.0,0,0,https://github.com/zahra-lang/zahra,زهراء - لغة برمجة عربية: مترجم موحد (VM + QBE + LLVM) مع مرحلة تحقق ZIR
+2026-10-30T03:08:37.275711Z,any-dialog,0.1.0,0,0,https://github.com/mudhairless/any-dialog,"Simple dialogs via kdialog, zenity, or osascript. Zero dependencies."
+2026-10-30T03:11:52.744416Z,austringer-sessions,0.1.3,0,0,https://github.com/vinaosb/austringer,Encrypted SQLite session store for austringer with FTS search and lazy paging
+2026-10-30T03:12:35.998633Z,nexia-nextcloud-sdk-ratelimit,0.2.1,0,0,https://github.com/Luxuride/nexia-nextcloud-sdk,Bandwidth rate limiting and token-bucket traffic shaping for the Nextcloud Rust SDK
