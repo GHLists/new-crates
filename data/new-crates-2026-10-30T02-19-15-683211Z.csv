@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T01:19:53.043578Z,x0k-sequence,0.1.0,0,0,https://github.com/0k-dot-computer/x0k-folio,"A moment's scene wherever its sequence lives: the scene, a moment's address, the set-scene op and the home that applies it"
+2026-10-30T01:20:17.520773Z,anyseg,0.1.0,0,0,https://github.com/SergeyShk/anySeg,Fast segmentation of text into tokens and sentences with positions in the source text
+2026-10-30T01:21:19.881921Z,quercus-otio,0.5.2,0,0,,"Quercus Video Editor OpenTimelineIO binding crate: pure-Rust serde model of the OTIO JSON format used by project load/save (src/task/src/project/loadotio, saveotio) (internal; do not depend directly)"
+2026-10-30T01:22:10.204739Z,tvm-tirx,0.1.0-alpha.5,0,0,https://github.com/apache/tvm-tirx,Rust bindings for the TVM TIRx compiler
+2026-10-30T01:28:46.740735Z,base-endpoint,0.1.0,0,0,https://github.com/base-rs/base-endpoint,Runtime-independent binding and connecting through Base scheduler capabilities
+2026-10-30T01:30:53.200731Z,quercus-render,0.5.2,0,0,,Quercus Video Editor render engine (Rust) (internal; do not depend directly)
+2026-10-30T01:36:28.07921Z,osst-ristretto255,0.0.1-rc.4,0,0,https://gitlab.com/osst-labs/osst-lib,OSST threshold identification over ristretto255 with SHA-512
+2026-10-30T01:36:30.752146Z,osst-ffi,0.0.1-rc.4,0,0,https://gitlab.com/osst-labs/osst-lib,C ABI of OSST threshold identification
+2026-10-30T01:36:33.419826Z,osst-wasm,0.0.1-rc.4,0,0,https://gitlab.com/osst-labs/osst-lib,WebAssembly bindings of OSST threshold identification
+2026-10-30T01:41:06.948401Z,quercus-audio,0.5.2,0,0,,"Quercus Video Editor audio I/O, processing, synchronization and waveform engine (Rust) (internal; do not depend directly)"
+2026-10-30T01:46:51.449211Z,aft-secret-rules,0.63.3,0,0,,"Placeholder grammar, key location rules, host/path matching and response scrubbing for agent secret use"
+2026-10-30T01:50:32.31367Z,esuiss-sandbox,0.2.2,0,0,https://github.com/e-suiss/access,"Suiss shared process lockdown: prctl, capabilities, Landlock, two-phase seccomp, no io_uring, memfd_secret (SA-22, OP-140)."
+2026-10-30T01:50:48.00101Z,quercus-timeline,0.5.2,0,0,,Quercus Video Editor timeline edit primitives (Rust) (internal; do not depend directly)
+2026-10-30T02:00:23.79628Z,quercus-storage,0.5.2,0,0,,Quercus Video Editor project persistence (Rust) (internal; do not depend directly)
+2026-10-30T02:01:53.215946Z,nexia-nextcloud-sdk-vfs,0.2.1,0,0,https://github.com/Luxuride/nexia-nextcloud-sdk,Transient virtual file system mounting layer for Nextcloud file hierarchies and metadata
+2026-10-30T02:04:19.757294Z,austringer-safety,0.1.3,0,0,https://github.com/vinaosb/austringer,OS-native sandbox backends and egress guards for austringer
+2026-10-30T02:04:30.229042Z,austringer-lsp,0.1.3,0,0,https://github.com/vinaosb/austringer,"Language-server integration surface for austringer (rust-analyzer goldens, semantic context)"
+2026-10-30T02:04:40.164998Z,austringer-launch,0.1.3,0,0,https://github.com/vinaosb/austringer,"Client-side daemon lifecycle for austringer: autospawn, socket handoff, TUI discovery"
+2026-10-30T02:04:52.321429Z,austringer-evals,0.1.3,0,0,https://github.com/vinaosb/austringer,Hermetic conformance and eval sweep runner for austringer
+2026-10-30T02:05:04.942708Z,austringer-repomap,0.1.3,0,0,https://github.com/vinaosb/austringer,CSR + SIMD PageRank repository map for austringer prompts
+2026-10-30T02:06:10.648558Z,htmx_four_actix,0.1.0,0,0,https://github.com/nilswloewen/htmx_four_actix,Actix Web extractors and response headers for htmx 4.
+2026-10-30T02:07:01.420713Z,okbot-chart,0.12.0,0,0,https://github.com/tidusvn05/okbot,"Draws okbot's charts as PNG images, with embedded fonts for Vietnamese, English and Japanese."
+2026-10-30T02:09:54.745059Z,quercus-task,0.5.2,0,0,,Quercus Video Editor task execution module (Rust) (internal; do not depend directly)
+2026-10-30T02:11:55.44485Z,austringer-exec,0.1.3,0,0,https://github.com/vinaosb/austringer,"Process execution for austringer: ConPTY and WSL2 lanes, kill trees, output caps"
+2026-10-30T02:12:02.086076Z,nexia-nextcloud-sdk-fuse,0.2.1,0,0,https://github.com/Luxuride/nexia-nextcloud-sdk,Transient VFS FUSE driver for desktop filesystem mounting
+2026-10-30T02:14:09.040702Z,another-hatchet-core,0.1.0,0,0,https://github.com/christopher-caldwell/hatchet_rust_sdk,Shared types for another-hatchet-sdk
+2026-10-30T02:14:12.3921Z,another-hatchet-macros,0.1.0,0,0,https://github.com/christopher-caldwell/hatchet_rust_sdk,Procedural macros for another-hatchet-sdk
+2026-10-30T02:14:48.570086Z,another-hatchet-sdk,0.1.0,0,0,https://github.com/christopher-caldwell/hatchet_rust_sdk,"An unofficial, idiomatic Rust SDK for Hatchet workflow orchestration"

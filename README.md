@@ -8,50 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 01:18 UTC
+## Latest list — 2026-10-30 02:19 UTC
 
-New crates published between 2026-10-30 00:18 UTC and 2026-10-30 01:18 UTC.
+New crates published between 2026-10-30 01:18 UTC and 2026-10-30 02:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-30T01-18-58-664899Z.csv)
+[Full CSV](data/new-crates-2026-10-30T02-19-15-683211Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-30 00:19:25 | [regie-core](https://crates.io/crates/regie-core) | 0.1.0 | 0 | no_std deterministic regex engine: safe dialect, Thompson NFA, Pike VM, compact… |
-| 2026-10-30 00:19:44 | [certval_stores_webpki_root_certs](https://crates.io/crates/certval_stores_webpki_root_certs) | 1.0.0-rc.1 | 0 | Mozilla TLS server root certificates for certval, taken from the webpki-root-ce… |
-| 2026-10-30 00:19:54 | [regie-codec](https://crates.io/crates/regie-codec) | 0.1.0 | 0 | Serialization of compiled regie automata for embedded firmware |
-| 2026-10-30 00:19:59 | [regie-intent](https://crates.io/crates/regie-intent) | 0.1.0 | 0 | Micro-model that turns natural-language requests into structured regex specific… |
-| 2026-10-30 00:19:59 | [austringer-snapshots](https://crates.io/crates/austringer-snapshots) | 0.1.3 | 0 | Git-ref-backed snapshot store for the austringer daemon: files and history rest… |
-| 2026-10-30 00:20:26 | [austringer-skills](https://crates.io/crates/austringer-skills) | 0.1.3 | 0 | Skills runtime for austringer: quarantine, trust gates, and the lock ledger |
-| 2026-10-30 00:21:16 | [austringer-test-support](https://crates.io/crates/austringer-test-support) | 0.1.3 | 0 | Shared hermetic test kits for the austringer workspace |
-| 2026-10-30 00:21:17 | [osst-core](https://crates.io/crates/osst-core) | 0.0.1-rc.3 | 0 | Core types of OSST threshold identification: ciphersuite trait, share indices,… |
-| 2026-10-30 00:21:18 | [osst-prover](https://crates.io/crates/osst-prover) | 0.0.1-rc.3 | 0 | OSST prover: proof generation and the key-custody interface |
-| 2026-10-30 00:21:19 | [osst-sharing](https://crates.io/crates/osst-sharing) | 0.0.1-rc.3 | 0 | OSST share management: dealing, DKG, refresh, redistribution, repair |
-| 2026-10-30 00:21:19 | [osst-verifier](https://crates.io/crates/osst-verifier) | 0.0.1-rc.3 | 0 | OSST verifier: weights, verification and share inference |
-| 2026-10-30 00:21:21 | [osst-session](https://crates.io/crates/osst-session) | 0.0.1-rc.3 | 0 | OSST verification sessions: phases, incremental checks, baseline search |
-| 2026-10-30 00:21:35 | [nexia-nextcloud-dav](https://crates.io/crates/nexia-nextcloud-dav) | 0.2.1 | 0 | WebDAV client foundation for the Nextcloud Rust SDK |
-| 2026-10-30 00:24:41 | [regie-search](https://crates.io/crates/regie-search) | 0.1.0 | 0 | Verified hypothesis search over structured regex specifications |
-| 2026-10-30 00:24:59 | [regie-cli](https://crates.io/crates/regie-cli) | 0.1.0 | 0 | Command line front-end for the regie regex engine |
-| 2026-10-30 00:29:36 | [certval_stores_mozilla](https://crates.io/crates/certval_stores_mozilla) | 1.0.0-rc.1 | 0 | Mozilla root program trust store for certval, generated from the CCADB report M… |
-| 2026-10-30 00:31:50 | [nexia-nextcloud-deck](https://crates.io/crates/nexia-nextcloud-deck) | 0.2.1 | 0 | Nextcloud Deck REST API client and domain models |
-| 2026-10-30 00:31:56 | [austringer-core](https://crates.io/crates/austringer-core) | 0.1.3 | 0 | The austringer engine: agent loop, events, tool registry, autonomy, budgets, co… |
-| 2026-10-30 00:40:39 | [nexia-nextcloud-goa](https://crates.io/crates/nexia-nextcloud-goa) | 0.2.1 | 0 | GNOME Online Accounts integration for the Nextcloud Rust SDK |
-| 2026-10-30 00:41:52 | [austringer-ast](https://crates.io/crates/austringer-ast) | 0.1.3 | 0 | Bounded grammar-aware source analysis and deterministic file walking for austri… |
-| 2026-10-30 00:49:58 | [rustgrade-core](https://crates.io/crates/rustgrade-core) | 0.2.0 | 0 | Rule engine for rustgrade. Pure library: no I/O, no transport. |
-| 2026-10-30 00:50:31 | [rustgrade](https://crates.io/crates/rustgrade) | 0.2.0 | 0 | Systems-level Rust review for AI coding agents and for CI. |
-| 2026-10-30 00:51:06 | [nexia-nextcloud-kaccounts](https://crates.io/crates/nexia-nextcloud-kaccounts) | 0.2.1 | 0 | KDE Plasma Online Accounts (KAccounts / Accounts-SSO) integration for Nextcloud… |
-| 2026-10-30 00:51:53 | [austringer-vfs](https://crates.io/crates/austringer-vfs) | 0.1.3 | 0 | Shadow-preflight virtual filesystem with hash-verified single-file transactions… |
-| 2026-10-30 00:58:42 | [osor](https://crates.io/crates/osor) | 0.1.0 | 0 | Native Rust OSOR SDXL Phase II inference |
-| 2026-10-30 01:00:26 | [osst-brainpoolp256r1](https://crates.io/crates/osst-brainpoolp256r1) | 0.0.1-rc.3 | 0 | OSST threshold identification over brainpoolP256r1 with SHA-256 |
-| 2026-10-30 01:00:28 | [osst-brainpoolp384r1](https://crates.io/crates/osst-brainpoolp384r1) | 0.0.1-rc.3 | 0 | OSST threshold identification over brainpoolP384r1 with SHA-384 |
-| 2026-10-30 01:00:30 | [osst-p256](https://crates.io/crates/osst-p256) | 0.0.1-rc.3 | 0 | OSST threshold identification over NIST P-256 with SHA-256 |
-| 2026-10-30 01:01:21 | [nexia-nextcloud-notifications](https://crates.io/crates/nexia-nextcloud-notifications) | 0.2.1 | 0 | Nextcloud Notifications API (v2) client and domain models |
-| 2026-10-30 01:01:34 | [osst-p384](https://crates.io/crates/osst-p384) | 0.0.1-rc.3 | 0 | OSST threshold identification over NIST P-384 with SHA-384 |
-| 2026-10-30 01:09:31 | [quercus-core](https://crates.io/crates/quercus-core) | 0.5.2 | 0 | Rust value types mirroring quercuscore (Rational, TimeRange, format enums) (int… |
-| 2026-10-30 01:09:35 | [quercus-ffmpeg-link](https://crates.io/crates/quercus-ffmpeg-link) | 0.5.2 | 0 | Quercus Video Editor internal link helper: transitive dependencies of a static… |
-| 2026-10-30 01:09:42 | [quercus-undo](https://crates.io/crates/quercus-undo) | 0.5.2 | 0 | Quercus Video Editor undo/redo history module (Rust) (internal; do not depend d… |
-| 2026-10-30 01:11:38 | [nexia-nextcloud-preview](https://crates.io/crates/nexia-nextcloud-preview) | 0.2.1 | 0 | Nextcloud preview and thumbnail generation client |
-| 2026-10-30 01:16:52 | [quercus-codec](https://crates.io/crates/quercus-codec) | 0.5.2 | 0 | Quercus Video Editor media codec module (Rust) (internal; do not depend directl… |
-| 2026-10-30 01:16:58 | [quercus-node](https://crates.io/crates/quercus-node) | 0.5.2 | 0 | Quercus Video Editor node graph engine (Rust) (internal; do not depend directly) |
+| 2026-10-30 01:19:53 | [x0k-sequence](https://crates.io/crates/x0k-sequence) | 0.1.0 | 0 | A moment's scene wherever its sequence lives: the scene, a moment's address, th… |
+| 2026-10-30 01:20:17 | [anyseg](https://crates.io/crates/anyseg) | 0.1.0 | 0 | Fast segmentation of text into tokens and sentences with positions in the sourc… |
+| 2026-10-30 01:21:19 | [quercus-otio](https://crates.io/crates/quercus-otio) | 0.5.2 | 0 | Quercus Video Editor OpenTimelineIO binding crate: pure-Rust serde model of the… |
+| 2026-10-30 01:22:10 | [tvm-tirx](https://crates.io/crates/tvm-tirx) | 0.1.0-alpha.5 | 0 | Rust bindings for the TVM TIRx compiler |
+| 2026-10-30 01:28:46 | [base-endpoint](https://crates.io/crates/base-endpoint) | 0.1.0 | 0 | Runtime-independent binding and connecting through Base scheduler capabilities |
+| 2026-10-30 01:30:53 | [quercus-render](https://crates.io/crates/quercus-render) | 0.5.2 | 0 | Quercus Video Editor render engine (Rust) (internal; do not depend directly) |
+| 2026-10-30 01:36:28 | [osst-ristretto255](https://crates.io/crates/osst-ristretto255) | 0.0.1-rc.4 | 0 | OSST threshold identification over ristretto255 with SHA-512 |
+| 2026-10-30 01:36:30 | [osst-ffi](https://crates.io/crates/osst-ffi) | 0.0.1-rc.4 | 0 | C ABI of OSST threshold identification |
+| 2026-10-30 01:36:33 | [osst-wasm](https://crates.io/crates/osst-wasm) | 0.0.1-rc.4 | 0 | WebAssembly bindings of OSST threshold identification |
+| 2026-10-30 01:41:06 | [quercus-audio](https://crates.io/crates/quercus-audio) | 0.5.2 | 0 | Quercus Video Editor audio I/O, processing, synchronization and waveform engine… |
+| 2026-10-30 01:46:51 | [aft-secret-rules](https://crates.io/crates/aft-secret-rules) | 0.63.3 | 0 | Placeholder grammar, key location rules, host/path matching and response scrubb… |
+| 2026-10-30 01:50:32 | [esuiss-sandbox](https://crates.io/crates/esuiss-sandbox) | 0.2.2 | 0 | Suiss shared process lockdown: prctl, capabilities, Landlock, two-phase seccomp… |
+| 2026-10-30 01:50:48 | [quercus-timeline](https://crates.io/crates/quercus-timeline) | 0.5.2 | 0 | Quercus Video Editor timeline edit primitives (Rust) (internal; do not depend d… |
+| 2026-10-30 02:00:23 | [quercus-storage](https://crates.io/crates/quercus-storage) | 0.5.2 | 0 | Quercus Video Editor project persistence (Rust) (internal; do not depend direct… |
+| 2026-10-30 02:01:53 | [nexia-nextcloud-sdk-vfs](https://crates.io/crates/nexia-nextcloud-sdk-vfs) | 0.2.1 | 0 | Transient virtual file system mounting layer for Nextcloud file hierarchies and… |
+| 2026-10-30 02:04:19 | [austringer-safety](https://crates.io/crates/austringer-safety) | 0.1.3 | 0 | OS-native sandbox backends and egress guards for austringer |
+| 2026-10-30 02:04:30 | [austringer-lsp](https://crates.io/crates/austringer-lsp) | 0.1.3 | 0 | Language-server integration surface for austringer (rust-analyzer goldens, sema… |
+| 2026-10-30 02:04:40 | [austringer-launch](https://crates.io/crates/austringer-launch) | 0.1.3 | 0 | Client-side daemon lifecycle for austringer: autospawn, socket handoff, TUI dis… |
+| 2026-10-30 02:04:52 | [austringer-evals](https://crates.io/crates/austringer-evals) | 0.1.3 | 0 | Hermetic conformance and eval sweep runner for austringer |
+| 2026-10-30 02:05:04 | [austringer-repomap](https://crates.io/crates/austringer-repomap) | 0.1.3 | 0 | CSR + SIMD PageRank repository map for austringer prompts |
+| 2026-10-30 02:06:10 | [htmx_four_actix](https://crates.io/crates/htmx_four_actix) | 0.1.0 | 0 | Actix Web extractors and response headers for htmx 4. |
+| 2026-10-30 02:07:01 | [okbot-chart](https://crates.io/crates/okbot-chart) | 0.12.0 | 0 | Draws okbot's charts as PNG images, with embedded fonts for Vietnamese, English… |
+| 2026-10-30 02:09:54 | [quercus-task](https://crates.io/crates/quercus-task) | 0.5.2 | 0 | Quercus Video Editor task execution module (Rust) (internal; do not depend dire… |
+| 2026-10-30 02:11:55 | [austringer-exec](https://crates.io/crates/austringer-exec) | 0.1.3 | 0 | Process execution for austringer: ConPTY and WSL2 lanes, kill trees, output caps |
+| 2026-10-30 02:12:02 | [nexia-nextcloud-sdk-fuse](https://crates.io/crates/nexia-nextcloud-sdk-fuse) | 0.2.1 | 0 | Transient VFS FUSE driver for desktop filesystem mounting |
+| 2026-10-30 02:14:09 | [another-hatchet-core](https://crates.io/crates/another-hatchet-core) | 0.1.0 | 0 | Shared types for another-hatchet-sdk |
+| 2026-10-30 02:14:12 | [another-hatchet-macros](https://crates.io/crates/another-hatchet-macros) | 0.1.0 | 0 | Procedural macros for another-hatchet-sdk |
+| 2026-10-30 02:14:48 | [another-hatchet-sdk](https://crates.io/crates/another-hatchet-sdk) | 0.1.0 | 0 | An unofficial, idiomatic Rust SDK for Hatchet workflow orchestration |
 
 ## Data source
 
