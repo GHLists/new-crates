@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T22:18:28.796441Z,southstar-platform,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,"Southstar's platform layer: GLib, cairo, SQLite, configuration, sandboxing, IPC, shared memory and other system bindings"
+2026-10-30T22:18:46.10796Z,bun-emu-host-sys,0.1.0,0,0,https://github.com/aphrody-labs/bun-distribution,"Raw bindings (bindgen, runtime-loaded) to the Bun OS emulator host C ABI (packages/bun-emu-host/include/bun_emu_host.h)"
+2026-10-30T22:21:00.293408Z,pipeline-analyzer,0.4.0,0,0,https://gitlab.com/loikki/pipeline-visualizer,TUI for analyzing GitLab CI/CD pipeline metrics
+2026-10-30T22:22:25.382022Z,sparse-dist,0.1.0,0,0,https://codeberg.org/sixel1/sparse-dist,Sparse distributed linear algebra library with iterative solvers
+2026-10-30T22:23:21.61302Z,alkssh,0.1.0,0,0,https://git.alk.dev/alkdev/alkssh,"SSH adapter for the alk family: russh-wrapped vanilla-ssh termination bridged to/from alkcall channels — session/pty, tunnels, git exec — with every capability mapping a fail-closed cargo feature (no…"
+2026-10-30T22:24:12.058377Z,kickass-core,0.1.3,0,0,https://git.interhacker.space/protonphoton/kickass-core,Shared conversion between ASS and ProtonPhoton formats for the Kickass laser show editor and player
+2026-10-30T22:25:04.966509Z,rply-codec,0.1.2,0,0,,"Encoder, decoder, and swiss army knife for retroarch emulator replays."
+2026-10-30T22:28:27.731283Z,southstar-audio-helper,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,Southstar's audio helper process: decodes media audio and plays it through SDL2
+2026-10-30T22:28:45.868392Z,bun-emu-host,0.1.0,0,0,https://github.com/aphrody-labs/bun-distribution,"Safe Rust API over the Bun OS emulator host: melonDS, Dolphin, Azahar and Kyty cores as headless libraries"
+2026-10-30T22:30:37.098285Z,osmnxr-core,0.1.0,0,0,https://github.com/StrategicProjects/osmnxr-core,"Street-network graph algorithms (routing, Pareto and constrained paths, centrality, simplification, snapping) behind the R package osmnxr; no dependencies"
+2026-10-30T22:32:10.962659Z,todo-unearther,0.1.1,0,0,https://github.com/bwestlin/todo-unearther,"Fast TODO discovery, flexible reports, and optional GitHub and Git enrichment"
+2026-10-30T22:33:00.65914Z,vulkane-slang-emit,0.16.10,0,0,https://github.com/ciresnave/vulkane,"The Slang compute-shader emitter for Unpopped: IR to Slang source, with HLSL overloaded intrinsics, StructuredBuffer operands and a [numthreads] entry. Moved from unpopped-slang; Vulkane owns Slang."
+2026-10-30T22:38:08.729235Z,rootstock,0.1.0,0,0,https://github.com/bodasooqa/rootstock,Create a project from a versioned git template and update it with a three-way merge
+2026-10-30T22:38:25.080675Z,southstar-html5,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,Southstar's HTML5 parser: a WHATWG tokenizer and tree builder that builds through a TreeSink
+2026-10-30T22:38:46.660238Z,bunos-wsl-core,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"wsl.exe output parsing and types for the Bun OS WSL manager (fixture-tested, platform independent)."
+2026-10-30T22:40:38.283929Z,mcp-gmap-rs,0.1.1,0,0,https://github.com/fcenedes/mcp-gmap-rs,Standalone Google Maps CLI and MCP server with stdio and Streamable HTTP transports
+2026-10-30T22:48:25.214433Z,southstar-url,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,"Southstar's WHATWG URL parser: parsing against a base, the host parser with UTS #46 IDNA, serialization and the URL API setters"
+2026-10-30T22:48:51.058035Z,deckcraft-engine,0.6.1,0,0,,"DeckCraft engine: sessions, undo history, selection, the command registry every frontend dispatches through, and pointer tools"
+2026-10-30T22:54:26.488968Z,jouet-graph,0.0.0,0,0,,Reserved.
+2026-10-30T22:57:01.033373Z,bevy_emerge_solver,0.1.0,0,0,https://github.com/Ladvien/bevy_emerge,"A Boolean satisfiability back-end that answers the same way every run, on every machine: no clock, no threads, no entropy, and a give-up budget counted in conflicts rather than seconds."
+2026-10-30T22:57:39.836488Z,bitview_http,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,Conditional-request helpers shared by Bitview's HTTP servers
+2026-10-30T22:58:28.774836Z,southstar-dom,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,"Southstar's DOM, its HTML and XML tree builders and HTML utilities"
+2026-10-30T22:58:46.141762Z,deckcraft-mcp,0.6.1,0,0,,"DeckCraft MCP server: JSON-RPC 2.0 over stdio, driving a running app or a headless session"
+2026-10-30T23:07:09.200813Z,tunnr-nvme,0.1.0,0,0,https://git.gunnar.rs/nordisk/tunnr-etcd,"A userspace NVMe driver over VFIO, from vroom: admin and I/O queues polled from userspace, PRP lists, DMA memory mapped through the IOMMU, Flush, timeouts. No kernel block layer, no interrupts."
+2026-10-30T23:08:25.834165Z,southstar-unicode,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,Southstar's Unicode support: character properties for text layout and the Unicode Bidirectional Algorithm (UAX #9)
+2026-10-30T23:08:27.206716Z,bevy_emerge_core,0.1.0,0,0,https://github.com/Ladvien/bevy_emerge,"Engine-free world-building core: constraint IR, solvers, WFC, deterministic RNG."
+2026-10-30T23:08:37.430761Z,bevy_emerge_snip,0.1.0,0,0,https://github.com/Ladvien/bevy_emerge,"Cutting one rectangle out of a PNG of the bevy_emerge editor, shared by the editor and the MCP server."
+2026-10-30T23:08:53.694209Z,deckcraft-ui-egui,0.6.1,0,0,,DeckCraft egui frontend (PowerPoint-style UI); swappable — nothing below depends on it
+2026-10-30T23:09:44.991423Z,badterm-core,0.1.17,0,0,https://git.badcluster.dev/arelas/badterm,"Terminal emulation, telnet protocol and dialing directory for the BadTerm BBS client"
+2026-10-30T23:09:57.323014Z,badterm,0.1.17,0,0,https://git.badcluster.dev/arelas/badterm,A cross-platform ANSI-BBS telnet client
+2026-10-30T23:10:00.129945Z,planeter-client,0.5.0,0,0,https://github.com/prikk-vcs/planeter,"A person's own prikk, talking to a planeter forge: clone, fetch and propose, over https (RFC 004 part 9)."
+2026-10-30T23:10:32.06207Z,rs-sql-ident-checker,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-sql-ident-checker,SQL identifier validator
+2026-10-30T23:10:52.517912Z,xslt2,0.1.0,0,0,https://github.com/semyonc/xslt2,Schema-aware XSLT 2.0 processor built on the xsd-schema validator and its XPath 2.0 engine
+2026-10-30T23:10:52.796093Z,bitview_plugin_derive,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,Derive macros for Bitview plugins and compositions
+2026-10-30T23:10:57.572863Z,rangeindex,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,"Ordered range boundaries in shared copy-on-write pages, with reverse lookups"
+2026-10-30T23:11:09.077853Z,statedb,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,Snapshot and diff storage for UTXO state aggregated by creation height
+2026-10-30T23:11:21.817632Z,bitview_primitives,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,"Bitview's index, value and state types"
+2026-10-30T23:11:22.566785Z,brk_cpfp,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,Ancestor-set linearization of CPFP transaction clusters
+2026-10-30T23:11:29.888433Z,bitview_catalog,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,Shared series catalog model and construction metadata for Bitview
+2026-10-30T23:13:23.4875Z,devcontext-core,0.1.0,0,0,https://github.com/Taiizor/DevContext,"Core domain logic, persistence, and search for DevContext"
+2026-10-30T23:13:53.222246Z,devcontext-cli,0.1.0,0,0,https://github.com/Taiizor/DevContext,Command-line interface for DevContext project memory
+2026-10-30T23:18:26.90702Z,southstar-css,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,"Southstar's CSS: tokenizer, grammar, colors, media queries, selectors and the cascade"
+2026-10-30T23:18:53.221769Z,designcraft-doc,0.7.1,0,0,,"DesignCraft document model: spreads, pages, parents, layers, frames, stories, styles, swatches"
