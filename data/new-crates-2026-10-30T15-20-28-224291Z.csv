@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T14:20:51.316912Z,hmac-signer,1.0.0,0,0,https://github.com/cleveng/hmac-signer.git,Hmac Signer By Rust
+2026-10-30T14:24:09.272442Z,jouet,0.0.1,0,0,https://github.com/jdx/jouet,A toolkit CLI for coding agents
+2026-10-30T14:25:16.219595Z,fastnn,0.3.1,0,0,https://github.com/CanReader/FastNN,A small deep learning library in Rust with optional CUDA kernels
+2026-10-30T14:26:59.725018Z,arkade-compiler,0.0.1,0,0,https://github.com/arkade-os/compiler,A compiler for Arkade Script - a language for creating Bitcoin Taproot scripts
+2026-10-30T14:27:01.327203Z,frus-glyphon,0.5.0,0,0,https://github.com/KalybosPro/frus,"frus's copy of glyphon (2D text rendering for wgpu), its shader made to build on OpenGL ES"
+2026-10-30T14:27:16.338359Z,arkade-bindgen,0.0.1,0,0,https://github.com/arkade-os/compiler,Multi-language SDK binding generator for Arkade contract artifacts
+2026-10-30T14:27:16.769722Z,frus-lottie,0.5.0,0,0,https://github.com/KalybosPro/frus,frus — Lottie animations drawn as the framework's own vector paths
+2026-10-30T14:27:34.618222Z,gpui-ios-gpui-unofficial,1.26.2,0,0,https://github.com/gpui-archipelago/gpui-unofficial,Unofficial release of Zed's gpui_ios crate
+2026-10-30T14:29:24.18625Z,grana,0.1.0,0,0,,Microscopy image visualization and analysis platform (name reserved; implementation in progress)
+2026-10-30T14:29:50.347908Z,maplestory-openapi,0.1.0,0,0,https://github.com/nanpuhaha/MapleStory-OpenAPI-Rust,"Production-quality, ergonomic Rust client library for NEXON MapleStory OpenAPI"
+2026-10-30T14:31:01.419105Z,neochumby-ncurses,0.0.1,0,0,https://github.com/johnmerchant/neochumby,"ncurses, built from source as a static library for the Chumby, for the apps that link curses programs"
+2026-10-30T14:31:21.555389Z,ufw-manager-tui,0.1.1,0,0,https://github.com/ernos/ufw-manager-tui,A friendly terminal UI for managing ufw firewall rules without getting locked out
+2026-10-30T14:31:43.231649Z,t4902-rust,0.1.0,0,0,,This project has been written as part of our studies at the DHBW Stuttgart. It is meant as a project where we learn using rust. Therefore we strongly advise against using this for actual passwords or…
+2026-10-30T14:32:26.523173Z,nq-git-audit,0.1.0,0,0,,Summarize local Git repository status without changing it
+2026-10-30T14:35:24.331318Z,bootvine,0.1.0,0,0,https://codeberg.org/wvhulle/bootvine,"Boot and shutdown progress for systemd on the console, with each job nested under the units waiting on it"
+2026-10-30T14:38:45.378245Z,furb,0.0.0,0,0,https://github.com/uael/furb,"The core of an AI harness: the engine in a sandbox, behind an async API, with a World of your own."
+2026-10-30T14:38:47.601836Z,furb-cli,0.0.0,0,0,https://github.com/uael/furb,"furb, the command line: the TUI, a JSON-RPC on stdin and stdout, and one command on one life."
+2026-10-30T14:41:19.618616Z,alux-cli,0.1.0,0,0,https://github.com/alux-network/alux-rust,"Composable, interpreter-independent command-line programs for meaning-first Rust design"
+2026-10-30T14:41:22.488771Z,alux-cli-direct,0.1.0,0,0,https://github.com/alux-network/alux-rust,"Direct command-line interpretation of ALUX CLI programs: parses arguments, applies operations, renders help"
+2026-10-30T14:41:25.102736Z,alux-cli-clap,0.1.0,0,0,https://github.com/alux-network/alux-rust,"clap interpretation of ALUX CLI programs: clap parses and renders help, the program applies operations"
+2026-10-30T14:41:25.444589Z,alux-cli-multicall,0.1.0,0,0,https://github.com/alux-network/alux-rust,Multicall interpretation of ALUX CLI programs: one executable reached by each first-layer command's name
+2026-10-30T14:46:44.882939Z,rgy-launcher,0.1.1,0,0,https://github.com/danalec/rgy,"The launcher's model: the query, the results, the actions, the hotkey"
+2026-10-30T14:46:49.527601Z,rgy-par,0.1.1,0,0,https://github.com/danalec/rgy,"The parallelism rgy carries: split the work, run the pieces, join them"
+2026-10-30T14:46:54.40866Z,rgy-pick,0.1.1,0,0,https://github.com/danalec/rgy,Handing rgy's results to an external picker (fzf and its family)
+2026-10-30T14:47:33.672074Z,nq-hash,0.1.0,0,0,,Calculate SHA-256 hashes for files
+2026-10-30T14:49:18.752347Z,rgy-launcher-windows,0.1.1,0,0,https://github.com/danalec/rgy,"The launcher's window on Windows: a floating overlay, drawn with GDI"
+2026-10-30T14:50:15.897552Z,rgy-adapters,0.1.1,0,0,https://github.com/danalec/rgy,The rgx adapter registry: the formats a search can read into
+2026-10-30T14:51:58.184315Z,rgy-rgxy,0.1.1,0,0,https://github.com/danalec/rgy,rgxy: the floating launcher for the rgy search daemon
+2026-10-30T14:57:01.080033Z,crabcrop,0.9.5,0,0,https://github.com/dayvson/crabcrop,On-demand image optimization service in Rust
+2026-10-30T14:58:44.270443Z,omron-connect,0.1.0,0,0,https://github.com/risan/omron-mcp,Client for the OMRON connect cloud: sign in and read blood pressure readings
+2026-10-30T15:01:34.057275Z,ising-generators,0.0.4-rc2,0,0,https://gitlab.com/quip.network/quip-solver-core,"no_std family descriptors, canonical instances, and ChaCha8 streams for the Quip solver protocol"
+2026-10-30T15:02:02.852645Z,handwired-rs-run,0.1.0,0,0,https://github.com/mighty840/handwired-rs,"Run exported handwired circuits: no_std, no allocation, no dependencies, bit-exact with the CPU reference"
+2026-10-30T15:02:08.260026Z,handwired-rs-sign,0.1.0,0,0,https://github.com/mighty840/handwired-rs,"Ed25519 signatures and a version log for handwired program files: a device checks a program's key, slot and release before running it, and records what it installed; no_std, no allocation"
+2026-10-30T15:02:41.71682Z,nq-integrate,0.1.0,0,0,,Run an isolated integration diagnostic against the public NEXUS-Q Core API
+2026-10-30T15:04:05.146862Z,sync-drive-macro,0.1.0,0,0,https://github.com/NJC2011-10/sync-drive,Proc-macro for sync-drive's #[blocking] attribute
+2026-10-30T15:04:19.197392Z,shipo,0.0.0,0,0,https://github.com/vladkens/shipo,Releases and updates for desktop apps (placeholder: the first release is on its way).
+2026-10-30T15:05:20.838292Z,sync-drive,0.1.0,0,0,https://github.com/NJC2011-10/sync-drive,"Stackful coroutine bridge: sync facade over async, for C API engines"
+2026-10-30T15:06:27.535477Z,ic-platform-runtime-guard,0.9.1,0,0,https://github.com/dragginzgame/ic-platform,Internal Cargo singleton guard for the IC Platform executor
+2026-10-30T15:11:39.863348Z,rudraken,0.0.1,0,0,https://github.com/3NiTiN3/rudraken,Intent-based version control for AI agents
+2026-10-30T15:13:38.389536Z,openmoat-sdk,0.12.0,0,0,https://github.com/crocodile-labs/openmoat,"OpenMoat's policy decisions for your own agent: compile a policy, decide each tool call before it runs. Pure; enforcement stays with the caller."
+2026-10-30T15:15:16.971347Z,sonarithm-core,0.1.0-alpha,0,0,https://github.com/DuhItzAniket/SONARITHM,"Foundational SONARITHM types: units, IDs, Score IR, engine traits, provenance and diagnostics."
+2026-10-30T15:15:18.263716Z,sonarithm-i18n,0.1.0-alpha,0,0,https://github.com/DuhItzAniket/SONARITHM,"SONARITHM's message catalogues and locale formatting: Fluent messages shared with the UI, ICU4X numbers and dates, spoken unit names and the pseudo-locale check."
+2026-10-30T15:15:21.875493Z,sonarithm-data,0.1.0-alpha,0,0,https://github.com/DuhItzAniket/SONARITHM,"Arrow-backed DataBundle, file sources, inference, transforms and downsampling for SONARITHM."
+2026-10-30T15:15:22.595887Z,sonarithm-dsp,0.1.0-alpha,0,0,https://github.com/DuhItzAniket/SONARITHM,"SONARITHM DSP: synthesis nodes, envelopes, filters, panners, loudness compensation and metering."
+2026-10-30T15:15:23.902187Z,sonarithm-spec,0.1.0-alpha,0,0,https://github.com/DuhItzAniket/SONARITHM,"SONARITHM spec types, JSON (de)serialization, JSON Schema export, validation and migrations."
+2026-10-30T15:17:49.802024Z,nq-json-check,0.1.0,0,0,,Check JSON syntax in files or standard input
+2026-10-30T15:19:36.425972Z,qtcloud-cli,0.1.0-alpha.1,0,0,https://github.com/quanttide/qtcloud,量潮云命令行工具
