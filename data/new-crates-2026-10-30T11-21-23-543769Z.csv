@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T10:22:02.976658Z,osmosis_edk2_raw,0.1.0,0,0,,Raw-level Rust definitions for EDK2 packages
+2026-10-30T10:22:34.709974Z,foreverdb-mcp,0.1.3,0,0,https://github.com/meyverick/foreverdb-mcp,MCP server exposing the ForeverDB API to LLM clients
+2026-10-30T10:32:33.168201Z,r2smt-windows-sandbox,0.5.0,0,0,https://github.com/seifreed/r2SMT,Windows Job Object and outbound firewall isolation for r2SMT workers.
+2026-10-30T10:42:36.319303Z,austen-lib,0.0.1,0,0,https://github.com/ZippeyKeys12/austen,"Shared vocabulary for Austen: the specification language, the generator DSL and its passes, the driver/harness wire contract, native object inspection, and run observation"
+2026-10-30T10:42:38.551691Z,austen-aflpp,0.0.1,0,0,https://github.com/ZippeyKeys12/austen,AFL++ delegated-engine and afl-tmin/afl-cmin reduction adapters for Austen
+2026-10-30T10:42:39.127533Z,austen-bennet,0.0.1,0,0,https://github.com/ZippeyKeys12/austen,"Backtracking generator engine for Austen, a port of CN's Bennet runtime with blame-directed retries and ownership repair"
+2026-10-30T10:42:39.95935Z,austen-harness,0.0.1,0,0,https://github.com/ZippeyKeys12/austen,"Runtime library for Austen's generated test harnesses: tape parsing, the specification oracle, and the forkserver and persistent input loops"
+2026-10-30T10:42:40.357391Z,austen-honggfuzz,0.0.1,0,0,https://github.com/ZippeyKeys12/austen,"honggfuzz delegated-engine adapter for Austen with automatic, persistent, and stdin transports"
+2026-10-30T10:43:54.308691Z,ripe4rust-core,0.0.1,0,0,https://github.com/umbgtt10/ripe4rust,"The rules behind cargo-ripe4rust: for every upgrade a Rust workspace could take, whether it is ripe, worth asking about, or not yet"
+2026-10-30T10:43:56.654078Z,cargo-ripe4rust,0.0.1,0,0,https://github.com/umbgtt10/ripe4rust,"Cargo subcommand that decides, for every upgrade a Rust workspace could take, whether it is ripe to apply, worth asking about, or not yet"
+2026-10-30T10:45:29.095618Z,grabcli-core,0.1.0,0,0,https://github.com/macalinao/grabcli,"Shared Grab session, auth, hydra and HTTP plumbing for grabcli"
+2026-10-30T10:45:51.875866Z,grabfood,0.1.0,0,0,https://github.com/macalinao/grabcli,GrabFood API and CLI subcommands for grabcli
+2026-10-30T10:46:07.084453Z,grabmart,0.1.0,0,0,https://github.com/macalinao/grabcli,GrabMart API and CLI subcommands for grabcli
+2026-10-30T10:46:23.598152Z,grabcli,0.1.0,0,0,https://github.com/macalinao/grabcli,Command-line client for Grab services (GrabFood first)
+2026-10-30T10:47:28.94183Z,taao,0.1.0,0,0,https://github.com/LGY07/taao,"A crate that bridges tao and async rust, and also supports winit."
+2026-10-30T11:04:26.457194Z,xerune_css,0.1.0,0,0,https://github.com/spatker/xerune,CSS text handling shared by xerune and its template macro
+2026-10-30T11:05:00.362999Z,xerune_template,0.1.0,0,0,https://github.com/spatker/xerune,"The template language of xerune: parsed once, compiled by its macro or interpreted by its studio"
+2026-10-30T11:05:27.566174Z,xerune_derive,0.1.0,0,0,https://github.com/spatker/xerune,Derive macro for Xerune HTML templates
+2026-10-30T11:06:18.672038Z,mzstd-ffi,0.2.9,0,0,https://github.com/M-Compressors/mzstd,C ABI for mzstd: one-shot and streaming Zstandard compression and decompression
+2026-10-30T11:06:32.782139Z,xerune,0.1.0,0,0,https://github.com/spatker/xerune,"A lightweight, CPU-only native HTML renderer designed for embedded Linux environments"
+2026-10-30T11:07:49.464988Z,xerune_render,0.1.0,0,0,https://github.com/spatker/xerune,"Software rasterizer for Xerune draw commands: rects, borders, shadows, gradients, images and text"
+2026-10-30T11:15:45.336285Z,rok-templates,0.5.0,0,0,https://github.com/ateeq1999/rok-data,The project templates `rok sqlc init --template` copies: actix-web and axum APIs
+2026-10-30T11:15:46.41492Z,austen-darcy,0.0.1,0,0,https://github.com/ZippeyKeys12/austen,Solver-backed generator engine for Austen that repairs sampled inputs against specification constraints with MaxSMT
+2026-10-30T11:15:58.992328Z,qubit-validation-rules,0.1.1,0,0,https://github.com/qubit-ltd/rs-validation-rules,Typed validation rules and validator-registry adapters for Qubit projects.
+2026-10-30T11:16:06.310976Z,austen-radamsa,0.0.1,0,0,https://github.com/ZippeyKeys12/austen,Radamsa 0.7 byte-mutation generator adapter for Austen over a persistent loopback TCP session
+2026-10-30T11:16:21.01136Z,austen-wickham,0.0.1,0,0,https://github.com/ZippeyKeys12/austen,Rejection-sampling generator engine for Austen with sized draws and AUSTIN-style pointer generation
+2026-10-30T11:19:28.782269Z,textlane-core,0.0.0,0,0,https://github.com/datisthq/textlane,"Textlane's core: unist, mdast, hast and nlcst trees, the file and the plugin contract its crates share"
+2026-10-30T11:19:31.321233Z,textlane-html,0.0.0,0,0,https://github.com/datisthq/textlane,"Textlane's HTML plugins: parsing, transforms, sanitizing and serializing"
+2026-10-30T11:19:32.96094Z,textlane-md,0.0.0,0,0,https://github.com/datisthq/textlane,"Textlane's Markdown plugins: parsing, extensions, transforms, serializing and the bridge to HTML"
+2026-10-30T11:19:34.279051Z,textlane-mdx,0.0.0,0,0,https://github.com/datisthq/textlane,"Textlane's MDX compiler: hast into JavaScript, with the MDX transforms and code generation"
+2026-10-30T11:19:35.656934Z,textlane-nl,0.0.0,0,0,https://github.com/datisthq/textlane,"Textlane's natural-language plugins: natural-language parsing, serializing and writing checks"
+2026-10-30T11:21:12.637353Z,tauri-plugin-licensemanager,0.0.0,0,0,https://github.com/licenseman/licensemanager-tauri,"Tauri plugin for licensemanager.dev: license key activation, offline tokens and background renewal"

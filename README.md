@@ -8,29 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 10:21 UTC
+## Latest list — 2026-10-30 11:21 UTC
 
-New crates published between 2026-10-30 09:20 UTC and 2026-10-30 10:21 UTC.
+New crates published between 2026-10-30 10:21 UTC and 2026-10-30 11:21 UTC.
 
-[Full CSV](data/new-crates-2026-10-30T10-21-07-810227Z.csv)
+[Full CSV](data/new-crates-2026-10-30T11-21-23-543769Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-30 09:23:30 | [sofd-icons](https://crates.io/crates/sofd-icons) | 0.1.0 | 0 | The symbolic icon set the reader's shells draw, as the desktop theme's own path… |
-| 2026-10-30 09:23:59 | [spaceheater](https://crates.io/crates/spaceheater) | 1.0.0 | 0 | Controllable CPU and GPU compute load generator |
-| 2026-10-30 09:24:21 | [base-http](https://crates.io/crates/base-http) | 0.1.0 | 0 | Runtime-independent HTTP semantics and bodies for Base |
-| 2026-10-30 09:24:41 | [base-http1](https://crates.io/crates/base-http1) | 0.1.0 | 0 | Native HTTP/1 framing over Base scheduler stream capabilities |
-| 2026-10-30 09:24:50 | [base-http-protocol](https://crates.io/crates/base-http-protocol) | 0.1.0 | 0 | HTTP protocol selection and client/server codec construction |
-| 2026-10-30 09:24:59 | [base-http-server](https://crates.io/crates/base-http-server) | 0.1.0 | 0 | Supervised native HTTP servers for Base scheduler capabilities |
-| 2026-10-30 09:25:10 | [base-http-client](https://crates.io/crates/base-http-client) | 0.1.0 | 0 | Supervised pooled HTTP clients for Base scheduler capabilities |
-| 2026-10-30 09:27:00 | [chard](https://crates.io/crates/chard) | 0.1.0 | 0 | chard: empirical measurement of which C/C++ hardening flags a toolchain actuall… |
-| 2026-10-30 09:36:11 | [originlm-cli](https://crates.io/crates/originlm-cli) | 0.1.0-alpha.21 | 0 | OriginLM native helper CLI: discovery, metadata, execution and the local servic… |
-| 2026-10-30 10:01:21 | [eui-core](https://crates.io/crates/eui-core) | 0.2.0 | 0 | Exponential UI core: the A2UI reducer (core + basic catalog, macros, extensions… |
-| 2026-10-30 10:02:30 | [enet-core](https://crates.io/crates/enet-core) | 0.1.0 | 0 | eNet: Exponential's p2p, end-to-end encrypted networking core on iroh 1.x (chat… |
-| 2026-10-30 10:06:56 | [atxf](https://crates.io/crates/atxf) | 0.1.0 | 0 | ATXF, the Agent Transcript Exchange Format: types, validation, integrity, lossl… |
-| 2026-10-30 10:17:49 | [raana](https://crates.io/crates/raana) | 0.1.0 | 0 | Rust LKM build orchestration for rust_support |
-| 2026-10-30 10:18:49 | [novelai-bridge-prompt](https://crates.io/crates/novelai-bridge-prompt) | 0.1.0 | 0 | Lossless, model-profiled NovelAI image prompt analysis for native and WebAssemb… |
-| 2026-10-30 10:20:14 | [csaf-converter](https://crates.io/crates/csaf-converter) | 0.5.2 | 0 | A converter for the CSAF standard written in Rust (converts 2.0 to 2.1) |
+| 2026-10-30 10:22:02 | [osmosis_edk2_raw](https://crates.io/crates/osmosis_edk2_raw) | 0.1.0 | 0 | Raw-level Rust definitions for EDK2 packages |
+| 2026-10-30 10:22:34 | [foreverdb-mcp](https://crates.io/crates/foreverdb-mcp) | 0.1.3 | 0 | MCP server exposing the ForeverDB API to LLM clients |
+| 2026-10-30 10:32:33 | [r2smt-windows-sandbox](https://crates.io/crates/r2smt-windows-sandbox) | 0.5.0 | 0 | Windows Job Object and outbound firewall isolation for r2SMT workers. |
+| 2026-10-30 10:42:36 | [austen-lib](https://crates.io/crates/austen-lib) | 0.0.1 | 0 | Shared vocabulary for Austen: the specification language, the generator DSL and… |
+| 2026-10-30 10:42:38 | [austen-aflpp](https://crates.io/crates/austen-aflpp) | 0.0.1 | 0 | AFL++ delegated-engine and afl-tmin/afl-cmin reduction adapters for Austen |
+| 2026-10-30 10:42:39 | [austen-bennet](https://crates.io/crates/austen-bennet) | 0.0.1 | 0 | Backtracking generator engine for Austen, a port of CN's Bennet runtime with bl… |
+| 2026-10-30 10:42:39 | [austen-harness](https://crates.io/crates/austen-harness) | 0.0.1 | 0 | Runtime library for Austen's generated test harnesses: tape parsing, the specif… |
+| 2026-10-30 10:42:40 | [austen-honggfuzz](https://crates.io/crates/austen-honggfuzz) | 0.0.1 | 0 | honggfuzz delegated-engine adapter for Austen with automatic, persistent, and s… |
+| 2026-10-30 10:43:54 | [ripe4rust-core](https://crates.io/crates/ripe4rust-core) | 0.0.1 | 0 | The rules behind cargo-ripe4rust: for every upgrade a Rust workspace could take… |
+| 2026-10-30 10:43:56 | [cargo-ripe4rust](https://crates.io/crates/cargo-ripe4rust) | 0.0.1 | 0 | Cargo subcommand that decides, for every upgrade a Rust workspace could take, w… |
+| 2026-10-30 10:45:29 | [grabcli-core](https://crates.io/crates/grabcli-core) | 0.1.0 | 0 | Shared Grab session, auth, hydra and HTTP plumbing for grabcli |
+| 2026-10-30 10:45:51 | [grabfood](https://crates.io/crates/grabfood) | 0.1.0 | 0 | GrabFood API and CLI subcommands for grabcli |
+| 2026-10-30 10:46:07 | [grabmart](https://crates.io/crates/grabmart) | 0.1.0 | 0 | GrabMart API and CLI subcommands for grabcli |
+| 2026-10-30 10:46:23 | [grabcli](https://crates.io/crates/grabcli) | 0.1.0 | 0 | Command-line client for Grab services (GrabFood first) |
+| 2026-10-30 10:47:28 | [taao](https://crates.io/crates/taao) | 0.1.0 | 0 | A crate that bridges tao and async rust, and also supports winit. |
+| 2026-10-30 11:04:26 | [xerune_css](https://crates.io/crates/xerune_css) | 0.1.0 | 0 | CSS text handling shared by xerune and its template macro |
+| 2026-10-30 11:05:00 | [xerune_template](https://crates.io/crates/xerune_template) | 0.1.0 | 0 | The template language of xerune: parsed once, compiled by its macro or interpre… |
+| 2026-10-30 11:05:27 | [xerune_derive](https://crates.io/crates/xerune_derive) | 0.1.0 | 0 | Derive macro for Xerune HTML templates |
+| 2026-10-30 11:06:18 | [mzstd-ffi](https://crates.io/crates/mzstd-ffi) | 0.2.9 | 0 | C ABI for mzstd: one-shot and streaming Zstandard compression and decompression |
+| 2026-10-30 11:06:32 | [xerune](https://crates.io/crates/xerune) | 0.1.0 | 0 | A lightweight, CPU-only native HTML renderer designed for embedded Linux enviro… |
+| 2026-10-30 11:07:49 | [xerune_render](https://crates.io/crates/xerune_render) | 0.1.0 | 0 | Software rasterizer for Xerune draw commands: rects, borders, shadows, gradient… |
+| 2026-10-30 11:15:45 | [rok-templates](https://crates.io/crates/rok-templates) | 0.5.0 | 0 | The project templates `rok sqlc init --template` copies: actix-web and axum APIs |
+| 2026-10-30 11:15:46 | [austen-darcy](https://crates.io/crates/austen-darcy) | 0.0.1 | 0 | Solver-backed generator engine for Austen that repairs sampled inputs against s… |
+| 2026-10-30 11:15:58 | [qubit-validation-rules](https://crates.io/crates/qubit-validation-rules) | 0.1.1 | 0 | Typed validation rules and validator-registry adapters for Qubit projects. |
+| 2026-10-30 11:16:06 | [austen-radamsa](https://crates.io/crates/austen-radamsa) | 0.0.1 | 0 | Radamsa 0.7 byte-mutation generator adapter for Austen over a persistent loopba… |
+| 2026-10-30 11:16:21 | [austen-wickham](https://crates.io/crates/austen-wickham) | 0.0.1 | 0 | Rejection-sampling generator engine for Austen with sized draws and AUSTIN-styl… |
+| 2026-10-30 11:19:28 | [textlane-core](https://crates.io/crates/textlane-core) | 0.0.0 | 0 | Textlane's core: unist, mdast, hast and nlcst trees, the file and the plugin co… |
+| 2026-10-30 11:19:31 | [textlane-html](https://crates.io/crates/textlane-html) | 0.0.0 | 0 | Textlane's HTML plugins: parsing, transforms, sanitizing and serializing |
+| 2026-10-30 11:19:32 | [textlane-md](https://crates.io/crates/textlane-md) | 0.0.0 | 0 | Textlane's Markdown plugins: parsing, extensions, transforms, serializing and t… |
+| 2026-10-30 11:19:34 | [textlane-mdx](https://crates.io/crates/textlane-mdx) | 0.0.0 | 0 | Textlane's MDX compiler: hast into JavaScript, with the MDX transforms and code… |
+| 2026-10-30 11:19:35 | [textlane-nl](https://crates.io/crates/textlane-nl) | 0.0.0 | 0 | Textlane's natural-language plugins: natural-language parsing, serializing and… |
+| 2026-10-30 11:21:12 | [tauri-plugin-licensemanager](https://crates.io/crates/tauri-plugin-licensemanager) | 0.0.0 | 0 | Tauri plugin for licensemanager.dev: license key activation, offline tokens and… |
 
 ## Data source
 
