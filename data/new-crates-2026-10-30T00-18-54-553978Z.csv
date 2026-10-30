@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-29T23:18:54.80387Z,certval,0.2.0-rc.1,0,0,https://github.com/carl-wallace/rust-pki,"Pure Rust implementation of X.509 Public Key Infrastructure Certificate validation as described in [RFC 5280] and as augmented by [RFC 5937], including support for certification path building and rev…"
+2026-10-29T23:26:43.753988Z,certval_stores_provider_core,1.0.0-rc.1,0,0,https://github.com/carl-wallace/certval-stores,The StoreEntry type and TrustStoreProvider trait that certval_stores_* trust-store crates implement
+2026-10-29T23:33:47.160611Z,xrcon,1.0.1,0,0,https://github.com/DerGrumpf/xrcon-rs,"rcon client for Xonotic (DarkPlaces rcon protocol): CLI, Rust library and Python bindings"
+2026-10-29T23:36:57.318563Z,spoolframe-client-ffi,0.16.4-beta.1,0,0,https://github.com/Spoolframe/spoolframe-server,"Spoolframe's client SDK and HLS bridge for Swift and Kotlin, through UniFFI."
+2026-10-29T23:38:02.117867Z,stochology-core,1.0.0,0,0,https://github.com/0b3st4f3r4/stochology,"Core primitives of the Stochology Protocol: L1/L2/L3 layers, bridge mechanics, performativity, Kennedy-O'Hagan GP, Info-Gap + Sniedovich, Phi1-Phi5 invariants, Moulton-Campbell, Chouldechova, and Epi…"
+2026-10-29T23:38:06.55641Z,stochology-lenses,1.0.0,0,0,https://github.com/0b3st4f3r4/stochology,"The Five Transversal Lenses of the Stochology Protocol: Information (DPI/SDPI/Fano), Time (Ito/Kelly/Mixing/Kalman), Scale & Tail (Hill), Structure & Invariance (Pearl/ICP/NILE/Lambda*), and Decision…"
+2026-10-29T23:38:11.29744Z,stochology-siga,1.0.0,0,0,https://github.com/0b3st4f3r4/stochology,"4-Filter Eliminatory Funnel and 8-Step SIGA Operational Roadmap (Survey, Interrogate, Generate, Act) with SBC, SHELF, e-processes, and integer natural frequency memoranda"
+2026-10-29T23:38:12.969635Z,stochology-governance,1.0.0,0,0,https://github.com/0b3st4f3r4/stochology,"Production Governance: Bitemporal Clock (t_disp >= t_ev), Canary Column, Single-Opening Temporal Vault, Murphy-CORP Circuit Breaker, ExTRA-WCP-T + Lei & Candes, and Label Shift (BBSE, MLLS/SLD, DFM,…"
+2026-10-29T23:38:14.473061Z,stochology-cli,1.0.0,0,0,https://github.com/0b3st4f3r4/stochology,Executable CLI laboratories (`labs`) and epistemological gates (`gates`) for the Stochology Protocol
+2026-10-29T23:38:22.187855Z,certval_stores_core,0.1.0-rc.1,0,0,https://github.com/carl-wallace/certval-stores,"Composes certval_stores_* trust-store providers into a certval PkiEnvironment, a serialized store or a reqwest client"
+2026-10-29T23:40:35.801377Z,certval_stores_eca,1.0.0-rc.1,0,0,https://github.com/carl-wallace/certval-stores,ECA (DoD External Certification Authority) trust store for certval
+2026-10-29T23:40:38.207043Z,certval_stores_fpki,1.0.0-rc.1,0,0,https://github.com/carl-wallace/certval-stores,Federal PKI trust store for certval — anchored at the Federal Common Policy CA G2
+2026-10-29T23:40:41.450638Z,certval_stores_msft,1.0.0-rc.1,0,0,https://github.com/carl-wallace/certval-stores,"Microsoft root program trust stores for certval, split by the purposes the program grants"
+2026-10-29T23:40:43.906352Z,certval_stores_nipr,1.0.0-rc.1,0,0,https://github.com/carl-wallace/certval-stores,NIPR (DoD PKI) trust stores for certval — production (nipr) and operational-test (om_nipr) environments
+2026-10-29T23:43:51.661247Z,casthon,0.1.0,0,0,https://github.com/veles-labs/casthon,Build Python smart contracts for Casper
+2026-10-29T23:49:01.655678Z,certval_stores_pbdev,1.0.0-rc.1,0,0,https://github.com/carl-wallace/certval-stores,Development (Purebred dev) trust store for certval
+2026-10-29T23:52:45.447863Z,systemprompt-notifications,0.76.0,0,0,https://github.com/systempromptio/systemprompt-core,"Notification streams, routing rules, per-user feeds and the outbox consumer for systemprompt.io AI governance infrastructure."
+2026-10-29T23:55:21.711962Z,nexia-nextcloud-core,0.2.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Core primitives shared by the Nextcloud Rust SDK crates
+2026-10-29T23:58:18.067148Z,certval_stores_tpm,1.0.0-rc.1,0,0,https://github.com/carl-wallace/certval-stores,"TPM vendor trust store for certval, from Microsoft's TrustedTpm.cab"
+2026-10-30T00:02:28.188871Z,htmx_four,0.1.0,0,0,https://github.com/nilswloewen/htmx_four,"Typed htmx 4 config, header names, and official extension settings."
+2026-10-30T00:03:53.693767Z,nexia-nextcloud-search,0.0.0,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Nextcloud Unified Search OCS API client and domain models
+2026-10-30T00:09:04.87465Z,certval_stores_wcf,1.0.0-rc.1,0,0,https://github.com/carl-wallace/certval-stores,DoD WCF PKI trust store for certval
+2026-10-30T00:12:42.844507Z,nexia-nextcloud-ocs,0.2.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,OCS API envelope and client for the Nextcloud Rust SDK
+2026-10-30T00:13:51.451281Z,nexia-nextcloud-activity,0.2.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Nextcloud Activity API client and domain types
+2026-10-30T00:14:59.306474Z,nexia-nextcloud-auth,0.2.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Credential types for the Nextcloud Rust SDK
+2026-10-30T00:16:16.123811Z,nexia-nextcloud-sdk-keyring,0.2.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,Multi-platform secure keyring abstraction for Nextcloud Rust SDK with Flatpak and native OS support
+2026-10-30T00:17:25.213116Z,nexia-nextcloud-client-config,0.2.1,0,0,https://github.com/Luxuride/nextcloud-rust-sdk,"Desktop configuration and account discovery for the official Nextcloud desktop client across Linux, macOS, and Windows"
