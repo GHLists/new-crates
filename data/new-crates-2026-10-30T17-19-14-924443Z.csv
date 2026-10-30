@@ -1,0 +1,60 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T16:22:57.757054Z,holst-form,0.3.0,0,0,https://github.com/easymikey/holst-rs,"Terminal pieces of the Holst command-line tools: tty settings, detection, color and the signal counter"
+2026-10-30T16:23:02.686537Z,sonarithm-numisona,0.1.0-alpha,0,0,https://github.com/DuhItzAniket/SONARITHM,"NUMISONA: SONARITHM's data-to-sound parameter-mapping engine (scales, pitch spaces, polarity, tone and glide encoders, templates)."
+2026-10-30T16:28:09.95471Z,auto-drive-sdk-macros,0.0.2,0,0,,AutoDrive SDK Macros is a macro library which just makes the main function look pretty in the code to control the RC car.
+2026-10-30T16:28:11.526905Z,auto-drive-sdk,0.0.2,0,0,,The AutoDrive SDK is a library providing functionality to write programs that would be uploaded onto small vehicles in the lab.
+2026-10-30T16:33:31.961659Z,nq-report,0.1.0,0,0,,Assemble read-only Markdown diagnostic reports from text files
+2026-10-30T16:34:46.083341Z,ormify_macro,1.0.1,0,0,https://github.com/Fasterino/ormify/tree/main/proc_macro,Proc macro crate for ormify
+2026-10-30T16:34:59.866984Z,ormify,1.0.1,0,0,https://github.com/Fasterino/ormify,Universal ORM Framework for your database.
+2026-10-30T16:35:15.067865Z,yaxml,0.1.0,0,0,https://github.com/pbdeuchler/yaxml,A safe Rust XML processor pursuing libxml2 compatibility
+2026-10-30T16:36:06.672639Z,churchtools-api,0.1.0,0,0,https://github.com/churchtools-api/churchtools-api,"Synchronous client for the ChurchTools REST API, generated from its OpenAPI description"
+2026-10-30T16:36:06.803852Z,sonarithm-audaxis,0.1.0-alpha,0,0,https://github.com/DuhItzAniket/SONARITHM,"AUDAXIS: SONARITHM's navigation and context engine (navigation tree, cursor, announcements, context tracks, earcons, spatial placement)."
+2026-10-30T16:36:09.652053Z,sonarithm-plotsona,0.1.0-alpha,0,0,https://github.com/DuhItzAniket/SONARITHM,"PLOTSONA: SONARITHM's chart ingestion engine (exact-first extraction from Office charts, chart JSON, SVG and vector PDF; chart templates)."
+2026-10-30T16:38:07.401329Z,rockfish,0.0.0,0,0,,"Reserved name for RockFish, a planned comprehensive Rust ROCm/HIP crate set. No code yet."
+2026-10-30T16:38:13.15398Z,rockfish-sys,0.0.0,0,0,,"Reserved name for RockFish, a planned comprehensive Rust ROCm/HIP crate set. No code yet."
+2026-10-30T16:38:20.94686Z,ormify_postgres,1.0.3,0,0,https://github.com/Fasterino/ormify_postgres,Realization of Postgres for ormify ORM Framework for your PostgreSQL database.
+2026-10-30T16:39:54.578364Z,cargo-ferrokit,0.1.0,0,0,https://github.com/lhassa8/ferrokit,"Make, run, bundle, check and notarize native Mac apps built with appkit-ui"
+2026-10-30T16:40:19.0207Z,ulanzi-d100h-protocol,0.1.0,0,0,https://github.com/kriomant/ulanzi-d100h,Dependency-free Ulanzi D100H packet codec and protocol types
+2026-10-30T16:40:20.781134Z,ulanzi-d100h,0.1.0,0,0,https://github.com/kriomant/ulanzi-d100h,Reverse-engineered Ulanzi D100H BLE protocol and communication library
+2026-10-30T16:40:22.706445Z,ulanzi-d100h-python,0.1.0,0,0,https://github.com/kriomant/ulanzi-d100h,Python bindings for the Ulanzi D100H
+2026-10-30T16:40:29.855444Z,ziyuan-llm,1.1.0,0,0,https://github.com/YuuUehara/Ziyuan,模型服务接入：紫垣（ZiYuan）的内部组件，供 ziyuan-cli 使用；Rust API 不保证稳定。
+2026-10-30T16:40:31.045633Z,ziyuan-tui,1.1.0,0,0,https://github.com/YuuUehara/Ziyuan,终端界面：紫垣（ZiYuan）的内部组件，供 ziyuan-cli 使用；Rust API 不保证稳定。
+2026-10-30T16:40:35.208912Z,ziyuan-cli,1.1.0,0,0,https://github.com/YuuUehara/Ziyuan,紫垣 ZiYuan：用中国古代朝廷角色组织多智能体协作的命令行工具，改动须用户审阅批准才写入文件。
+2026-10-30T16:43:13.871876Z,einfold-ir,0.1.0,0,0,https://github.com/xqlsystems/einfold,"einfold's engine-independent descriptions of tensor computations found in SQL plans: folds over joins, and fold pipelines such as attention"
+2026-10-30T16:43:16.081491Z,einfold-kernels,0.1.0,0,0,https://github.com/xqlsystems/einfold,"einfold's array algorithms for tensor computations written in SQL, from Arrow arrays to Arrow arrays: dense, sorting-based and fused, tiled kernels"
+2026-10-30T16:43:18.329073Z,einfold-datafusion,0.1.0,0,0,https://github.com/xqlsystems/einfold,"einfold for Apache DataFusion: finds matrix products, contractions and attention in DataFusion's plans, and runs them with array algorithms"
+2026-10-30T16:43:49.342912Z,jadix_accesskit_ohos,0.1.0,0,0,https://github.com/Zk3619/Jadix,Pinned AccessKit OpenHarmony adapter backport for Jadix
+2026-10-30T16:43:57.147085Z,jadix_core,0.1.0,0,0,https://github.com/Zk3619/Jadix,"Reactive ownership, signals and stores without a UI or renderer"
+2026-10-30T16:44:06.605909Z,jadix_animation,0.1.0,0,0,https://github.com/Zk3619/Jadix,"Animation timing, spring, inertia, scalar players and timelines"
+2026-10-30T16:44:21.551947Z,jadix_clipboard,0.1.0,0,0,https://github.com/Zk3619/Jadix,"Cross-platform clipboard for Jadix (text, html, rtf, files, optional image). Fork of clipboard-rs aligned to workspace Windows/objc pins."
+2026-10-30T16:44:31.602172Z,jadix_document,0.1.0,0,0,https://github.com/Zk3619/Jadix,"GUI-independent text snapshots, document height indexing and optional diffs"
+2026-10-30T16:47:43.695648Z,bonefish,0.0.0,0,0,,"Reserved name for BoneFish, a planned comprehensive Rust interface to Intel oneAPI / oneMKL GPU computing (SYCL). No code yet."
+2026-10-30T16:47:47.227449Z,bonefish-sys,0.0.0,0,0,,"Reserved name for BoneFish, a planned comprehensive Rust interface to Intel oneAPI / oneMKL GPU computing (SYCL). No code yet."
+2026-10-30T16:48:42.972513Z,sonarithm-sonotrace,0.1.0-alpha,0,0,https://github.com/DuhItzAniket/SONARITHM,"SONOTRACE: SONARITHM's streaming and transport engine (live encoding over stream windows, scrub grains, long-series windows)."
+2026-10-30T16:49:19.267564Z,babbage-core,1.0.0,0,0,https://github.com/jrimmer/babbage,"An exact-arithmetic calculation engine for plain-language lines: percentages, units, money, dates and time zones"
+2026-10-30T16:51:55.636556Z,hya-engine,0.1.0,0,0,https://github.com/raaqimorg/hya,"Pure, offline, no_std Islamic prayer-time calculation. No I/O, no clock, no allocation."
+2026-10-30T16:51:58.169283Z,hya-countries,0.1.0,0,0,https://github.com/raaqimorg/hya,"Country to customary prayer-time method, for hya-engine. no_std, no allocation."
+2026-10-30T16:52:00.909654Z,hya-cli,0.1.0,0,0,https://github.com/raaqimorg/hya,Offline prayer times in the terminal.
+2026-10-30T16:53:23.742409Z,nq-seal,0.1.0,0,0,,Create and verify SHA-256 integrity manifests for local files
+2026-10-30T16:54:00.064443Z,jadix_hot_reload,0.1.0,0,0,https://github.com/Zk3619/Jadix,Framework-neutral hot-reload protocol and receiver
+2026-10-30T16:54:42.564196Z,gcp_tts,0.1.0,0,0,https://github.com/icsboyx/gcp_tts,Minimal async client for the Google Cloud Text-to-Speech REST API
+2026-10-30T16:54:46.283934Z,lita-parser,0.1.0,0,0,https://github.com/lita-oss/lita-parser,Parser APIs that are used in LiTA.
+2026-10-30T16:57:03.419636Z,deltoid-quickcheck-tests,0.13.4,0,0,https://github.com/jjpe/deltoid,Quickcheck property tests for deltoid
+2026-10-30T16:57:51.42266Z,lattice-lora,0.15.0,0,0,https://github.com/ohdearquant/lattice,"LoRA adapter descriptor, target-module checks and blend budget validation for Lattice"
+2026-10-30T16:57:56.585886Z,lattice-simd,0.15.0,0,0,https://github.com/ohdearquant/lattice,"SIMD vector math for Lattice: dot product, cosine, L2 and L1 distance, normalization, and INT8/INT4/binary quantized vectors"
+2026-10-30T16:58:08.180215Z,lattice-grammar,0.15.0,0,0,https://github.com/ohdearquant/lattice,Grammar-constrained decoding for Lattice inference: JSON Schema and GBNF compiled to a byte-level pushdown automaton
+2026-10-30T16:58:10.596726Z,lattice-weights,0.15.0,0,0,https://github.com/ohdearquant/lattice,"Weight storage for Lattice inference: safetensors parsing and validation, q3/q4/q8/f16 weight formats, trusted mmap"
+2026-10-30T16:58:13.039763Z,lattice-metal-runtime,0.15.0,0,0,https://github.com/ohdearquant/lattice,Shared Metal buffer and pipeline helpers for Lattice
+2026-10-30T17:01:18.084847Z,sonarithm,0.1.0-alpha,0,0,https://github.com/DuhItzAniket/SONARITHM,The SONARITHM facade: the stable public API for compiling and rendering sonifications.
+2026-10-30T17:01:38.443438Z,jouet-rules,0.0.0,0,0,,Reserved.
+2026-10-30T17:08:26.56488Z,lattice-model-io,0.15.0,0,0,https://github.com/ohdearquant/lattice,"Model-file cache, checksum-verified downloads and environment switches for Lattice inference crates"
+2026-10-30T17:08:33.423101Z,nq-secure-backup,0.1.0,0,0,,"Create, verify, and restore encrypted local backups using NEXUS-Q Core"
+2026-10-30T17:09:01.314041Z,openclownfish,0.0.0,0,0,,"Reserved name for OpenCLownfish, a planned comprehensive Rust interface to OpenCL. No code yet."
+2026-10-30T17:09:04.889668Z,openclownfish-sys,0.0.0,0,0,,"Reserved name for OpenCLownfish, a planned comprehensive Rust interface to OpenCL. No code yet."
+2026-10-30T17:11:27.812718Z,akhtabooti-core,0.1.0,0,0,,"Scanning library for detecting PIIs within documents, PDFs, and images"
+2026-10-30T17:13:14.672667Z,sonarithm-cli,0.1.0-alpha,0,0,https://github.com/DuhItzAniket/SONARITHM,The `sonarithm` command-line interface.
+2026-10-30T17:15:03.832388Z,cpaq,0.1.1,0,0,https://github.com/jfortez/cpaq,CLIProxyAPI quotas and tokenmaxx management
+2026-10-30T17:17:36.741214Z,fishstringer,0.0.0,0,0,,"Reserved name for FishStringer, a planned set of Rust parsers and emitters for high-level GPU kernel languages (Triton, Mojo and others). No code yet."
+2026-10-30T17:17:40.20381Z,fishstringer-sys,0.0.0,0,0,,"Reserved name for FishStringer, a planned set of Rust parsers and emitters for high-level GPU kernel languages (Triton, Mojo and others). No code yet."
+2026-10-30T17:17:54.035727Z,iree-native,0.1.0,0,0,https://github.com/calebbuffa/iree-rs,C API bindings for IREE's compiler and runtime
+2026-10-30T17:18:40.402607Z,lattice-arch,0.15.0,0,0,https://github.com/ohdearquant/lattice,"Model interface for Lattice inference: generation types, sampling and decode policy, and validated config.json parsing for Qwen3.5, Gemma 4, EmbeddingGemma 2 and BitNet"

@@ -8,61 +8,73 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 16:21 UTC
+## Latest list — 2026-10-30 17:19 UTC
 
-New crates published between 2026-10-30 15:20 UTC and 2026-10-30 16:21 UTC.
+New crates published between 2026-10-30 16:21 UTC and 2026-10-30 17:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-30T16-21-39-252263Z.csv)
+[Full CSV](data/new-crates-2026-10-30T17-19-14-924443Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-30 15:23:52 | [ollev](https://crates.io/crates/ollev) | 0.1.0 | 0 | Raster images traced into layered vector scenes: shapes, strokes, gradients, bl… |
-| 2026-10-30 15:24:05 | [pipedash-plugin-prow](https://crates.io/crates/pipedash-plugin-prow) | 0.0.0 | 0 | Prow plugin for Pipedash |
-| 2026-10-30 15:25:11 | [into-ref](https://crates.io/crates/into-ref) | 0.1.2 | 0 | Generic assist traits, consume self into a reference |
-| 2026-10-30 15:29:24 | [tunlion-overlay](https://crates.io/crates/tunlion-overlay) | 0.1.0 | 0 | Self-certifying overlay addresses: an IPv6 address derived from an Ed25519 key,… |
-| 2026-10-30 15:29:24 | [tunlion-proto](https://crates.io/crates/tunlion-proto) | 0.1.0 | 0 | Wire vocabulary and pure ceremony decisions for peer-to-peer file transfer |
-| 2026-10-30 15:29:24 | [tunlion-signal](https://crates.io/crates/tunlion-signal) | 0.1.0 | 0 | Minimal Engine.IO v4 / Socket.IO v5 websocket client for tunlion's signaling, o… |
-| 2026-10-30 15:29:25 | [tunlion-transfer](https://crates.io/crates/tunlion-transfer) | 0.1.0 | 0 | Out-of-order chunk reassembly and short-write-safe positional writes for file t… |
-| 2026-10-30 15:29:27 | [tunlion-transport](https://crates.io/crates/tunlion-transport) | 0.1.0 | 0 | Instance-owned transport ladder for tunlion's peer-to-peer connections |
-| 2026-10-30 15:30:36 | [texture-compressor](https://crates.io/crates/texture-compressor) | 0.1.1 | 0 | Deterministic BC1, BC3, BC4, BC5 and BC7 texture encoding for native and WebAss… |
-| 2026-10-30 15:31:40 | [tunlion-fleet](https://crates.io/crates/tunlion-fleet) | 0.1.0 | 0 | Same-owner device auto-mesh: certificate-based admission with per-link possessi… |
-| 2026-10-30 15:31:48 | [centrality-explorer](https://crates.io/crates/centrality-explorer) | 0.1.0 | 0 | Visual explorer for centrality measures |
-| 2026-10-30 15:32:41 | [sonarithm-compiler](https://crates.io/crates/sonarithm-compiler) | 0.1.0-alpha | 0 | SONARITHM compiler: pipeline orchestration, engine registry and diagnostics (sp… |
-| 2026-10-30 15:32:56 | [nq-log-view](https://crates.io/crates/nq-log-view) | 0.1.0 | 0 | Filter text logs by level, text, or ISO date |
-| 2026-10-30 15:38:49 | [refield-macros](https://crates.io/crates/refield-macros) | 0.1.0 | 0 | The procedural macro engine powering the refield crate |
-| 2026-10-30 15:38:51 | [refield](https://crates.io/crates/refield) | 0.1.0 | 0 | Cross-type struct update macros for Rust, with field renaming, conversions, and… |
-| 2026-10-30 15:39:05 | [rustmpeg-core](https://crates.io/crates/rustmpeg-core) | 0.1.0-alpha.1 | 0 | Core traits, time and frame primitives, zero-copy buffers, and base errors for… |
-| 2026-10-30 15:39:12 | [rustmpeg-format](https://crates.io/crates/rustmpeg-format) | 0.1.0-alpha.1 | 0 | ISOBMFF/CMAF and Matroska demuxers/muxers plus MoQ transport for rustmpeg-next |
-| 2026-10-30 15:39:16 | [rustmpeg-audio](https://crates.io/crates/rustmpeg-audio) | 0.1.0-alpha.1 | 0 | Opus, FLAC, LPCM, LC3 and IAMF audio stack for rustmpeg-next |
-| 2026-10-30 15:39:20 | [rustmpeg-image](https://crates.io/crates/rustmpeg-image) | 0.1.0-alpha.1 | 0 | JPEG XL and OpenEXR pipeline with pure-Rust color management for rustmpeg-next |
-| 2026-10-30 15:39:23 | [rustmpeg-video](https://crates.io/crates/rustmpeg-video) | 0.1.0-alpha.1 | 0 | Safe Rust software codecs AV1, AV2, H.266/VVC and APV for rustmpeg-next |
-| 2026-10-30 15:39:37 | [shoco-dyn](https://crates.io/crates/shoco-dyn) | 0.2.0 | 0 | Shoco compression for short strings, with models trained on your own text |
-| 2026-10-30 15:39:49 | [poly-framework](https://crates.io/crates/poly-framework) | 0.4.10 | 0 | Experimental custom Rust framework and CLI for building native desktop apps wit… |
-| 2026-10-30 15:40:29 | [robit-web](https://crates.io/crates/robit-web) | 0.1.26 | 0 | Web frontend bridge for robit: official AgentEvent wire schema, broadcast fan-o… |
-| 2026-10-30 15:42:09 | [tunlion-peerloop](https://crates.io/crates/tunlion-peerloop) | 0.1.0 | 0 | The peer loop's engine: connection state, warm-hold, liveness, adoption and the… |
-| 2026-10-30 15:45:18 | [sonarithm-echometric](https://crates.io/crates/sonarithm-echometric) | 0.1.0-alpha | 0 | ECHOMETRIC: SONARITHM's evaluation engine (stimulus generators, replication gal… |
-| 2026-10-30 15:45:19 | [sonarithm-render](https://crates.io/crates/sonarithm-render) | 0.1.0-alpha | 0 | SONARITHM render graph, scheduler, voice pool, transport and offline driver. |
-| 2026-10-30 15:46:14 | [models-catalog](https://crates.io/crates/models-catalog) | 0.1.0 | 0 | Production-grade LLM model and provider catalog normalizer, disk spooler, and r… |
-| 2026-10-30 15:48:05 | [nq-manifest](https://crates.io/crates/nq-manifest) | 0.1.0 | 0 | Create deterministic read-only file manifests with NEXUS-Q Core hashes |
-| 2026-10-30 15:49:34 | [rustmpeg-vulkan](https://crates.io/crates/rustmpeg-vulkan) | 0.1.0-alpha.1 | 0 | Vulkan Compute backend for rustmpeg-next |
-| 2026-10-30 15:51:43 | [tunlion](https://crates.io/crates/tunlion) | 0.9.2 | 0 | P2P file transfer between terminals and browsers, no upload, no account. The te… |
-| 2026-10-30 15:57:51 | [sonarithm-audio](https://crates.io/crates/sonarithm-audio) | 0.1.0-alpha | 0 | SONARITHM audio backends: AudioBackend trait, cpal backend, devices and latency… |
-| 2026-10-30 15:58:45 | [the-beginner-car-wasm-sdk](https://crates.io/crates/the-beginner-car-wasm-sdk) | 0.0.1 | 0 | The Beginner Car WASM SDK provides the exposed functions to control the small c… |
-| 2026-10-30 15:59:13 | [katex-native](https://crates.io/crates/katex-native) | 0.1.0 | 0 | Native layout for katex-rs: KaTeX's CSS applied with its font metrics, as a dis… |
-| 2026-10-30 15:59:45 | [rustmpeg-cli](https://crates.io/crates/rustmpeg-cli) | 0.1.0-alpha.1 | 0 | Minimal CLI bridge for rustmpeg-core primitives |
-| 2026-10-30 15:59:59 | [signstar-client](https://crates.io/crates/signstar-client) | 0.1.0 | 0 | Library and executable for creating, reading and writing of signing requests fo… |
-| 2026-10-30 16:01:20 | [ishikari-wasm](https://crates.io/crates/ishikari-wasm) | 0.5.0 | 0 | Node types for ishikari's workflow definitions uploaded as WebAssembly componen… |
-| 2026-10-30 16:02:57 | [qtcloud-media-cli](https://crates.io/crates/qtcloud-media-cli) | 0.1.0 | 0 | 量潮媒体云命令行工具：公众号排版与草稿箱直出 |
-| 2026-10-30 16:03:13 | [nq-policy](https://crates.io/crates/nq-policy) | 0.1.0 | 0 | Evaluate read-only artifact manifests against JSON policies |
-| 2026-10-30 16:07:33 | [omniplex](https://crates.io/crates/omniplex) | 0.1.0 | 0 | Official Rust SDK for the Omniplex API: post bot and server stats, check votes… |
-| 2026-10-30 16:10:03 | [tiktoken-fast](https://crates.io/crates/tiktoken-fast) | 0.1.2 | 0 | Byte-pair encoder for OpenAI's tiktoken vocabularies: the token ids of the refe… |
-| 2026-10-30 16:10:07 | [rustmpeg](https://crates.io/crates/rustmpeg) | 0.1.0-alpha.1 | 0 | Convenience facade for the rustmpeg-next multimedia framework |
-| 2026-10-30 16:10:26 | [sonarithm-export](https://crates.io/crates/sonarithm-export) | 0.1.0-alpha | 0 | SONARITHM export: WAV, FLAC and MIDI writers, render manifest and cue sidecar. |
-| 2026-10-30 16:13:07 | [desk-pilot](https://crates.io/crates/desk-pilot) | 0.3.2 | 0 | MCP server that gives AI agents eyes and hands on the real Windows desktop. Win… |
-| 2026-10-30 16:14:52 | [wgpu-depth-pyramid](https://crates.io/crates/wgpu-depth-pyramid) | 0.1.0 | 0 | Fast min/max depth (Hi-Z) mip pyramids for wgpu, in WGSL, WebGPU-compatible |
-| 2026-10-30 16:16:40 | [meada-core](https://crates.io/crates/meada-core) | 0.1.0 | 0 | The deterministic core of Meada: the workspace manifest's schema and checks, th… |
-| 2026-10-30 16:18:21 | [nq-release-notes](https://crates.io/crates/nq-release-notes) | 0.1.0 | 0 | Extract a release-note section from a Markdown changelog |
-| 2026-10-30 16:18:39 | [meada](https://crates.io/crates/meada) | 0.1.0 | 0 | LLM-free code graph that links repositories through the contracts they share, s… |
+| 2026-10-30 16:22:57 | [holst-form](https://crates.io/crates/holst-form) | 0.3.0 | 0 | Terminal pieces of the Holst command-line tools: tty settings, detection, color… |
+| 2026-10-30 16:23:02 | [sonarithm-numisona](https://crates.io/crates/sonarithm-numisona) | 0.1.0-alpha | 0 | NUMISONA: SONARITHM's data-to-sound parameter-mapping engine (scales, pitch spa… |
+| 2026-10-30 16:28:09 | [auto-drive-sdk-macros](https://crates.io/crates/auto-drive-sdk-macros) | 0.0.2 | 0 | AutoDrive SDK Macros is a macro library which just makes the main function look… |
+| 2026-10-30 16:28:11 | [auto-drive-sdk](https://crates.io/crates/auto-drive-sdk) | 0.0.2 | 0 | The AutoDrive SDK is a library providing functionality to write programs that w… |
+| 2026-10-30 16:33:31 | [nq-report](https://crates.io/crates/nq-report) | 0.1.0 | 0 | Assemble read-only Markdown diagnostic reports from text files |
+| 2026-10-30 16:34:46 | [ormify_macro](https://crates.io/crates/ormify_macro) | 1.0.1 | 0 | Proc macro crate for ormify |
+| 2026-10-30 16:34:59 | [ormify](https://crates.io/crates/ormify) | 1.0.1 | 0 | Universal ORM Framework for your database. |
+| 2026-10-30 16:35:15 | [yaxml](https://crates.io/crates/yaxml) | 0.1.0 | 0 | A safe Rust XML processor pursuing libxml2 compatibility |
+| 2026-10-30 16:36:06 | [churchtools-api](https://crates.io/crates/churchtools-api) | 0.1.0 | 0 | Synchronous client for the ChurchTools REST API, generated from its OpenAPI des… |
+| 2026-10-30 16:36:06 | [sonarithm-audaxis](https://crates.io/crates/sonarithm-audaxis) | 0.1.0-alpha | 0 | AUDAXIS: SONARITHM's navigation and context engine (navigation tree, cursor, an… |
+| 2026-10-30 16:36:09 | [sonarithm-plotsona](https://crates.io/crates/sonarithm-plotsona) | 0.1.0-alpha | 0 | PLOTSONA: SONARITHM's chart ingestion engine (exact-first extraction from Offic… |
+| 2026-10-30 16:38:07 | [rockfish](https://crates.io/crates/rockfish) | 0.0.0 | 0 | Reserved name for RockFish, a planned comprehensive Rust ROCm/HIP crate set. No… |
+| 2026-10-30 16:38:13 | [rockfish-sys](https://crates.io/crates/rockfish-sys) | 0.0.0 | 0 | Reserved name for RockFish, a planned comprehensive Rust ROCm/HIP crate set. No… |
+| 2026-10-30 16:38:20 | [ormify_postgres](https://crates.io/crates/ormify_postgres) | 1.0.3 | 0 | Realization of Postgres for ormify ORM Framework for your PostgreSQL database. |
+| 2026-10-30 16:39:54 | [cargo-ferrokit](https://crates.io/crates/cargo-ferrokit) | 0.1.0 | 0 | Make, run, bundle, check and notarize native Mac apps built with appkit-ui |
+| 2026-10-30 16:40:19 | [ulanzi-d100h-protocol](https://crates.io/crates/ulanzi-d100h-protocol) | 0.1.0 | 0 | Dependency-free Ulanzi D100H packet codec and protocol types |
+| 2026-10-30 16:40:20 | [ulanzi-d100h](https://crates.io/crates/ulanzi-d100h) | 0.1.0 | 0 | Reverse-engineered Ulanzi D100H BLE protocol and communication library |
+| 2026-10-30 16:40:22 | [ulanzi-d100h-python](https://crates.io/crates/ulanzi-d100h-python) | 0.1.0 | 0 | Python bindings for the Ulanzi D100H |
+| 2026-10-30 16:40:29 | [ziyuan-llm](https://crates.io/crates/ziyuan-llm) | 1.1.0 | 0 | 模型服务接入：紫垣（ZiYuan）的内部组件，供 ziyuan-cli 使用；Rust API 不保证稳定。 |
+| 2026-10-30 16:40:31 | [ziyuan-tui](https://crates.io/crates/ziyuan-tui) | 1.1.0 | 0 | 终端界面：紫垣（ZiYuan）的内部组件，供 ziyuan-cli 使用；Rust API 不保证稳定。 |
+| 2026-10-30 16:40:35 | [ziyuan-cli](https://crates.io/crates/ziyuan-cli) | 1.1.0 | 0 | 紫垣 ZiYuan：用中国古代朝廷角色组织多智能体协作的命令行工具，改动须用户审阅批准才写入文件。 |
+| 2026-10-30 16:43:13 | [einfold-ir](https://crates.io/crates/einfold-ir) | 0.1.0 | 0 | einfold's engine-independent descriptions of tensor computations found in SQL p… |
+| 2026-10-30 16:43:16 | [einfold-kernels](https://crates.io/crates/einfold-kernels) | 0.1.0 | 0 | einfold's array algorithms for tensor computations written in SQL, from Arrow a… |
+| 2026-10-30 16:43:18 | [einfold-datafusion](https://crates.io/crates/einfold-datafusion) | 0.1.0 | 0 | einfold for Apache DataFusion: finds matrix products, contractions and attentio… |
+| 2026-10-30 16:43:49 | [jadix_accesskit_ohos](https://crates.io/crates/jadix_accesskit_ohos) | 0.1.0 | 0 | Pinned AccessKit OpenHarmony adapter backport for Jadix |
+| 2026-10-30 16:43:57 | [jadix_core](https://crates.io/crates/jadix_core) | 0.1.0 | 0 | Reactive ownership, signals and stores without a UI or renderer |
+| 2026-10-30 16:44:06 | [jadix_animation](https://crates.io/crates/jadix_animation) | 0.1.0 | 0 | Animation timing, spring, inertia, scalar players and timelines |
+| 2026-10-30 16:44:21 | [jadix_clipboard](https://crates.io/crates/jadix_clipboard) | 0.1.0 | 0 | Cross-platform clipboard for Jadix (text, html, rtf, files, optional image). Fo… |
+| 2026-10-30 16:44:31 | [jadix_document](https://crates.io/crates/jadix_document) | 0.1.0 | 0 | GUI-independent text snapshots, document height indexing and optional diffs |
+| 2026-10-30 16:47:43 | [bonefish](https://crates.io/crates/bonefish) | 0.0.0 | 0 | Reserved name for BoneFish, a planned comprehensive Rust interface to Intel one… |
+| 2026-10-30 16:47:47 | [bonefish-sys](https://crates.io/crates/bonefish-sys) | 0.0.0 | 0 | Reserved name for BoneFish, a planned comprehensive Rust interface to Intel one… |
+| 2026-10-30 16:48:42 | [sonarithm-sonotrace](https://crates.io/crates/sonarithm-sonotrace) | 0.1.0-alpha | 0 | SONOTRACE: SONARITHM's streaming and transport engine (live encoding over strea… |
+| 2026-10-30 16:49:19 | [babbage-core](https://crates.io/crates/babbage-core) | 1.0.0 | 0 | An exact-arithmetic calculation engine for plain-language lines: percentages, u… |
+| 2026-10-30 16:51:55 | [hya-engine](https://crates.io/crates/hya-engine) | 0.1.0 | 0 | Pure, offline, no_std Islamic prayer-time calculation. No I/O, no clock, no all… |
+| 2026-10-30 16:51:58 | [hya-countries](https://crates.io/crates/hya-countries) | 0.1.0 | 0 | Country to customary prayer-time method, for hya-engine. no_std, no allocation. |
+| 2026-10-30 16:52:00 | [hya-cli](https://crates.io/crates/hya-cli) | 0.1.0 | 0 | Offline prayer times in the terminal. |
+| 2026-10-30 16:53:23 | [nq-seal](https://crates.io/crates/nq-seal) | 0.1.0 | 0 | Create and verify SHA-256 integrity manifests for local files |
+| 2026-10-30 16:54:00 | [jadix_hot_reload](https://crates.io/crates/jadix_hot_reload) | 0.1.0 | 0 | Framework-neutral hot-reload protocol and receiver |
+| 2026-10-30 16:54:42 | [gcp_tts](https://crates.io/crates/gcp_tts) | 0.1.0 | 0 | Minimal async client for the Google Cloud Text-to-Speech REST API |
+| 2026-10-30 16:54:46 | [lita-parser](https://crates.io/crates/lita-parser) | 0.1.0 | 0 | Parser APIs that are used in LiTA. |
+| 2026-10-30 16:57:03 | [deltoid-quickcheck-tests](https://crates.io/crates/deltoid-quickcheck-tests) | 0.13.4 | 0 | Quickcheck property tests for deltoid |
+| 2026-10-30 16:57:51 | [lattice-lora](https://crates.io/crates/lattice-lora) | 0.15.0 | 0 | LoRA adapter descriptor, target-module checks and blend budget validation for L… |
+| 2026-10-30 16:57:56 | [lattice-simd](https://crates.io/crates/lattice-simd) | 0.15.0 | 0 | SIMD vector math for Lattice: dot product, cosine, L2 and L1 distance, normaliz… |
+| 2026-10-30 16:58:08 | [lattice-grammar](https://crates.io/crates/lattice-grammar) | 0.15.0 | 0 | Grammar-constrained decoding for Lattice inference: JSON Schema and GBNF compil… |
+| 2026-10-30 16:58:10 | [lattice-weights](https://crates.io/crates/lattice-weights) | 0.15.0 | 0 | Weight storage for Lattice inference: safetensors parsing and validation, q3/q4… |
+| 2026-10-30 16:58:13 | [lattice-metal-runtime](https://crates.io/crates/lattice-metal-runtime) | 0.15.0 | 0 | Shared Metal buffer and pipeline helpers for Lattice |
+| 2026-10-30 17:01:18 | [sonarithm](https://crates.io/crates/sonarithm) | 0.1.0-alpha | 0 | The SONARITHM facade: the stable public API for compiling and rendering sonific… |
+| 2026-10-30 17:01:38 | [jouet-rules](https://crates.io/crates/jouet-rules) | 0.0.0 | 0 | Reserved. |
+| 2026-10-30 17:08:26 | [lattice-model-io](https://crates.io/crates/lattice-model-io) | 0.15.0 | 0 | Model-file cache, checksum-verified downloads and environment switches for Latt… |
+| 2026-10-30 17:08:33 | [nq-secure-backup](https://crates.io/crates/nq-secure-backup) | 0.1.0 | 0 | Create, verify, and restore encrypted local backups using NEXUS-Q Core |
+| 2026-10-30 17:09:01 | [openclownfish](https://crates.io/crates/openclownfish) | 0.0.0 | 0 | Reserved name for OpenCLownfish, a planned comprehensive Rust interface to Open… |
+| 2026-10-30 17:09:04 | [openclownfish-sys](https://crates.io/crates/openclownfish-sys) | 0.0.0 | 0 | Reserved name for OpenCLownfish, a planned comprehensive Rust interface to Open… |
+| 2026-10-30 17:11:27 | [akhtabooti-core](https://crates.io/crates/akhtabooti-core) | 0.1.0 | 0 | Scanning library for detecting PIIs within documents, PDFs, and images |
+| 2026-10-30 17:13:14 | [sonarithm-cli](https://crates.io/crates/sonarithm-cli) | 0.1.0-alpha | 0 | The `sonarithm` command-line interface. |
+| 2026-10-30 17:15:03 | [cpaq](https://crates.io/crates/cpaq) | 0.1.1 | 0 | CLIProxyAPI quotas and tokenmaxx management |
+| 2026-10-30 17:17:36 | [fishstringer](https://crates.io/crates/fishstringer) | 0.0.0 | 0 | Reserved name for FishStringer, a planned set of Rust parsers and emitters for… |
+| 2026-10-30 17:17:40 | [fishstringer-sys](https://crates.io/crates/fishstringer-sys) | 0.0.0 | 0 | Reserved name for FishStringer, a planned set of Rust parsers and emitters for… |
+| 2026-10-30 17:17:54 | [iree-native](https://crates.io/crates/iree-native) | 0.1.0 | 0 | C API bindings for IREE's compiler and runtime |
+| 2026-10-30 17:18:40 | [lattice-arch](https://crates.io/crates/lattice-arch) | 0.15.0 | 0 | Model interface for Lattice inference: generation types, sampling and decode po… |
 
 ## Data source
 
