@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T06:21:03.094864Z,libmceliece,0.1.4,0,0,https://gitlab.moscito.org/sheldon/libmceliece-rs,Rust bindings for libmceliece
+2026-10-30T06:21:05.850973Z,libntruprime,0.1.4,0,0,https://gitlab.moscito.org/sheldon/libntruprime-rs,Rust bindings for libntruprime
+2026-10-30T06:26:39.562398Z,meridian-asset-gltf,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"glTF 2.0 adapter for asset-domain: decodes .glb and self-contained .gltf models, with skins and joint animations, on the gltf crate."
+2026-10-30T06:29:25.051249Z,tc_threefish,0.1.0,0,0,https://github.com/TomiCheng/tc_block_cipher,"Threefish-256, Threefish-512 and Threefish-1024 tweakable block ciphers, the core of Skein."
+2026-10-30T06:36:45.481121Z,meridian-platform-winit,0.12.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"OS abstraction: window, input, filesystem, time, threading and dynamic library loading."
+2026-10-30T06:41:04.040749Z,microfetch-asm,1.2.2,0,0,https://github.com/notashelf/microfetch,Inline assembly syscall helpers for microfetch
+2026-10-30T06:41:05.582537Z,microfetch-lib,1.2.2,0,0,https://github.com/notashelf/microfetch,Microfetch library crate - exports all functionality including main function
+2026-10-30T06:41:45.505525Z,obex-protocol,0.1.0,0,0,https://github.com/ianmarmour/obex-protocol,"Native OBEX 1.5 (IrDA Object Exchange) implementation in Rust, usable over Bluetooth RFCOMM/L2CAP, IrDA or TCP."
+2026-10-30T06:42:18.834454Z,obex-protocol-map,0.1.0,0,0,https://github.com/ianmarmour/obex-protocol-map,"Bluetooth Message Access Profile (MAP) 1.4 implementation in Rust, built on obex-protocol."
+2026-10-30T06:45:09.480266Z,arcus-sdk,0.1.0,0,0,https://github.com/ocnc/arcus-rust-sdk,"An unofficial, thin asynchronous Rust SDK for the Arcus perpetuals API"
+2026-10-30T06:46:06.10989Z,cent,0.1.0,0,0,https://github.com/centrifugal/rustcent,"Centrifugo server API SDK: every API method, batches, broadcasts with retries, tokens, proxy handlers"
+2026-10-30T06:46:47.245103Z,meridian-audio-cpal,0.12.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Low-level audio device abstraction: output streams, buffers and platform audio backends."
+2026-10-30T06:49:41.212308Z,mgui-dock,0.2.0,0,0,https://gitee.com/qianbai-studio/micagui,IDE 风格 Dock 面板布局组件
+2026-10-30T06:50:13.181725Z,rsray,0.1.2,0,0,https://github.com/sh00von/rsray,X-ray into JavaScript bundles. Find the hidden API surface.
+2026-10-30T06:51:05.156112Z,mgui,0.2.0,0,0,https://gitee.com/qianbai-studio/micagui,mgui 统一门面:聚合 core/components/layout/text/runtime/shell，并提供 prelude
+2026-10-30T06:51:10.77861Z,originlm-transports,0.1.0-alpha.20,0,0,https://github.com/thomaslittle/originlm,Owner-only local transports for the OriginLM service
+2026-10-30T06:51:13.65339Z,originlm-control,0.1.0-alpha.20,0,0,https://github.com/thomaslittle/originlm,Broker client and control views for OriginLM
+2026-10-30T06:51:16.553313Z,originlm-adapters,0.1.0-alpha.20,0,0,https://github.com/thomaslittle/originlm,Native and HTTP provider adapters for OriginLM
+2026-10-30T06:51:19.829842Z,cargo-mgui,0.2.0,0,0,https://gitee.com/qianbai-studio/micagui,mgui 项目生成器：cargo mgui new <path>
+2026-10-30T06:55:40.912479Z,quantion,0.2.0,0,0,https://github.com/phenological/quantion,"Read Ionic (.ion) and mzML files and turn chromatograms into numbers: noise, baseline, peaks, targets and features."
+2026-10-30T06:56:49.078086Z,meridian-gpu-wgpu,0.8.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Shared low-level wgpu device/buffer/shader/compute-pipeline mechanics underneath rendering-wgpu and compute-wgpu. Knows nothing about scenes, materials, or compute-dispatch scheduling policy."
+2026-10-30T06:58:38.342355Z,originlm-kit,0.1.0-alpha.20,0,0,https://github.com/thomaslittle/originlm,In-process OriginLM kit with explicit consent boundaries
+2026-10-30T07:06:53.639164Z,meridian-compute-wgpu,0.18.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Low-level compute dispatch abstraction (CPU SIMD backends, GPU compute queues/buffers). Knows nothing about physics, animation or rendering."
+2026-10-30T07:08:38.339501Z,originlm,0.1.0-alpha.20,0,0,https://github.com/thomaslittle/originlm,"Dependency-first client for the local AI runtime: shared broker, private helper, or in-process"
+2026-10-30T07:12:00.598392Z,const-ttf,1.0.0,0,0,,A TrueType parser that can work at compile time.
+2026-10-30T07:16:45.157219Z,meridian-data-substrate,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Scene serialization on Substrate Data: an application-built component registry, the .mscene (text and binary), .mprefab and .msave formats, and World load/save with path and line/column or byte-offse…"

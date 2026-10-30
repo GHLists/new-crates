@@ -8,39 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 06:19 UTC
+## Latest list — 2026-10-30 07:20 UTC
 
-New crates published between 2026-10-30 05:18 UTC and 2026-10-30 06:19 UTC.
+New crates published between 2026-10-30 06:19 UTC and 2026-10-30 07:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-30T06-19-28-138351Z.csv)
+[Full CSV](data/new-crates-2026-10-30T07-20-12-247607Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-30 05:20:41 | [merman-wasi](https://crates.io/crates/merman-wasi) | 0.9.3 | 0 | Independent scalar WASI reactor transport for headless Merman. |
-| 2026-10-30 05:26:40 | [meridian-physics-domain](https://crates.io/crates/meridian-physics-domain) | 0.25.0 | 0 | Rigid body dynamics built on the GAC: broad/narrow phase collision, constraint… |
-| 2026-10-30 05:35:32 | [kinavis-land](https://crates.io/crates/kinavis-land) | 0.1.3 | 0 | Land navigation for the KINAVIS navigation crates: grid, true and magnetic bear… |
-| 2026-10-30 05:35:38 | [kinavis-terrain](https://crates.io/crates/kinavis-terrain) | 0.1.0 | 0 | Terrain for the KINAVIS navigation crates: SRTM/HGT elevation tiles over borrow… |
-| 2026-10-30 05:35:55 | [uhf-ex10](https://crates.io/crates/uhf-ex10) | 0.1.0 | 0 | EX10 系列 UHF RFID 读卡器(E310/E510/E710/E910)的 no_std Rust 协议栈：全指令覆盖、流式解码器、私有 CRC-1… |
-| 2026-10-30 05:36:39 | [meridian-physics-app](https://crates.io/crates/meridian-physics-app) | 0.1.0 | 0 | Physics use cases: the PhysicsSubsystem world state, the PhysicsStepper port an… |
-| 2026-10-30 05:38:22 | [originlm-contracts](https://crates.io/crates/originlm-contracts) | 0.1.0-alpha.20 | 0 | Evidence-backed, language-neutral OriginLM contracts |
-| 2026-10-30 05:46:41 | [meridian-rendering-domain](https://crates.io/crates/meridian-rendering-domain) | 0.26.0 | 0 | High-level rendering: render graph, scene extraction, visibility/culling, light… |
-| 2026-10-30 05:56:40 | [meridian-runtime-app](https://crates.io/crates/meridian-runtime-app) | 0.31.0 | 0 | Runtime use cases: stages run in dependency order through a job-executor port,… |
-| 2026-10-30 06:01:13 | [vl53l7cx-uld-sys](https://crates.io/crates/vl53l7cx-uld-sys) | 0.1.0 | 0 | Raw FFI bindings (bindgen + cc) to the STMicroelectronics VL53L7CX Ultra Lite D… |
-| 2026-10-30 06:01:25 | [originlm-platform](https://crates.io/crates/originlm-platform) | 0.1.0-alpha.20 | 0 | Owner-scoped local filesystem primitives for OriginLM |
-| 2026-10-30 06:01:28 | [originlm-core](https://crates.io/crates/originlm-core) | 0.1.0-alpha.20 | 0 | Policy projection and selection validation for OriginLM |
-| 2026-10-30 06:01:31 | [originlm-chatgpt-auth](https://crates.io/crates/originlm-chatgpt-auth) | 0.1.0-alpha.20 | 0 | Local ChatGPT sign-in and credential handling for OriginLM |
-| 2026-10-30 06:01:33 | [originlm-discovery](https://crates.io/crates/originlm-discovery) | 0.1.0-alpha.20 | 0 | Passive local AI client and provider discovery for OriginLM |
-| 2026-10-30 06:01:36 | [originlm-runtime](https://crates.io/crates/originlm-runtime) | 0.1.0-alpha.20 | 0 | In-process session, turn, and event runtime for OriginLM |
-| 2026-10-30 06:01:43 | [vl53l7cx-uld](https://crates.io/crates/vl53l7cx-uld) | 0.3.0 | 0 | Blocking embedded-hal wrapper over STMicroelectronics' VL53L7CX Ultra Lite Driv… |
-| 2026-10-30 06:03:33 | [lumenui-build](https://crates.io/crates/lumenui-build) | 0.0.11 | 0 | Lumen UI framework Rust SDK, build-script side: compiles an app's UI into the a… |
-| 2026-10-30 06:06:41 | [meridian-runtime-threads](https://crates.io/crates/meridian-runtime-threads) | 0.7.0 | 0 | Job graph scheduler: worker threads and dependency tracking for parallel frame… |
-| 2026-10-30 06:07:25 | [lumenui-dock](https://crates.io/crates/lumenui-dock) | 0.0.11 | 0 | Lumen's dock module: tab stacks, splits and panels that pop out into windows of… |
-| 2026-10-30 06:07:38 | [lumenui-surface](https://crates.io/crates/lumenui-surface) | 0.0.11 | 0 | Lumen's surface module: a <surface> element showing another renderer's GPU fram… |
-| 2026-10-30 06:12:41 | [seekdb](https://crates.io/crates/seekdb) | 1.4.0 | 0 | Local seekdb lifecycle bindings for Rust |
-| 2026-10-30 06:16:25 | [smarthive-payments](https://crates.io/crates/smarthive-payments) | 1.8.0 | 0 | Official Rust SDK for SmartHive Payments — multi-provider payment processing (P… |
-| 2026-10-30 06:16:42 | [meridian-asset-fs](https://crates.io/crates/meridian-asset-fs) | 0.1.0 | 0 | File-system adapter for asset-app: reads asset bytes from a directory. |
-| 2026-10-30 06:19:13 | [originlm-store](https://crates.io/crates/originlm-store) | 0.1.0-alpha.20 | 0 | Local SQLite persistence for OriginLM |
-| 2026-10-30 06:19:16 | [originlm-service](https://crates.io/crates/originlm-service) | 0.1.0-alpha.20 | 0 | Shared local AI service and JSON-RPC dispatch for OriginLM |
+| 2026-10-30 06:21:03 | [libmceliece](https://crates.io/crates/libmceliece) | 0.1.4 | 0 | Rust bindings for libmceliece |
+| 2026-10-30 06:21:05 | [libntruprime](https://crates.io/crates/libntruprime) | 0.1.4 | 0 | Rust bindings for libntruprime |
+| 2026-10-30 06:26:39 | [meridian-asset-gltf](https://crates.io/crates/meridian-asset-gltf) | 0.1.0 | 0 | glTF 2.0 adapter for asset-domain: decodes .glb and self-contained .gltf models… |
+| 2026-10-30 06:29:25 | [tc_threefish](https://crates.io/crates/tc_threefish) | 0.1.0 | 0 | Threefish-256, Threefish-512 and Threefish-1024 tweakable block ciphers, the co… |
+| 2026-10-30 06:36:45 | [meridian-platform-winit](https://crates.io/crates/meridian-platform-winit) | 0.12.0 | 0 | OS abstraction: window, input, filesystem, time, threading and dynamic library… |
+| 2026-10-30 06:41:04 | [microfetch-asm](https://crates.io/crates/microfetch-asm) | 1.2.2 | 0 | Inline assembly syscall helpers for microfetch |
+| 2026-10-30 06:41:05 | [microfetch-lib](https://crates.io/crates/microfetch-lib) | 1.2.2 | 0 | Microfetch library crate - exports all functionality including main function |
+| 2026-10-30 06:41:45 | [obex-protocol](https://crates.io/crates/obex-protocol) | 0.1.0 | 0 | Native OBEX 1.5 (IrDA Object Exchange) implementation in Rust, usable over Blue… |
+| 2026-10-30 06:42:18 | [obex-protocol-map](https://crates.io/crates/obex-protocol-map) | 0.1.0 | 0 | Bluetooth Message Access Profile (MAP) 1.4 implementation in Rust, built on obe… |
+| 2026-10-30 06:45:09 | [arcus-sdk](https://crates.io/crates/arcus-sdk) | 0.1.0 | 0 | An unofficial, thin asynchronous Rust SDK for the Arcus perpetuals API |
+| 2026-10-30 06:46:06 | [cent](https://crates.io/crates/cent) | 0.1.0 | 0 | Centrifugo server API SDK: every API method, batches, broadcasts with retries,… |
+| 2026-10-30 06:46:47 | [meridian-audio-cpal](https://crates.io/crates/meridian-audio-cpal) | 0.12.0 | 0 | Low-level audio device abstraction: output streams, buffers and platform audio… |
+| 2026-10-30 06:49:41 | [mgui-dock](https://crates.io/crates/mgui-dock) | 0.2.0 | 0 | IDE 风格 Dock 面板布局组件 |
+| 2026-10-30 06:50:13 | [rsray](https://crates.io/crates/rsray) | 0.1.2 | 0 | X-ray into JavaScript bundles. Find the hidden API surface. |
+| 2026-10-30 06:51:05 | [mgui](https://crates.io/crates/mgui) | 0.2.0 | 0 | mgui 统一门面:聚合 core/components/layout/text/runtime/shell，并提供 prelude |
+| 2026-10-30 06:51:10 | [originlm-transports](https://crates.io/crates/originlm-transports) | 0.1.0-alpha.20 | 0 | Owner-only local transports for the OriginLM service |
+| 2026-10-30 06:51:13 | [originlm-control](https://crates.io/crates/originlm-control) | 0.1.0-alpha.20 | 0 | Broker client and control views for OriginLM |
+| 2026-10-30 06:51:16 | [originlm-adapters](https://crates.io/crates/originlm-adapters) | 0.1.0-alpha.20 | 0 | Native and HTTP provider adapters for OriginLM |
+| 2026-10-30 06:51:19 | [cargo-mgui](https://crates.io/crates/cargo-mgui) | 0.2.0 | 0 | mgui 项目生成器：cargo mgui new <path> |
+| 2026-10-30 06:55:40 | [quantion](https://crates.io/crates/quantion) | 0.2.0 | 0 | Read Ionic (.ion) and mzML files and turn chromatograms into numbers: noise, ba… |
+| 2026-10-30 06:56:49 | [meridian-gpu-wgpu](https://crates.io/crates/meridian-gpu-wgpu) | 0.8.0 | 0 | Shared low-level wgpu device/buffer/shader/compute-pipeline mechanics underneat… |
+| 2026-10-30 06:58:38 | [originlm-kit](https://crates.io/crates/originlm-kit) | 0.1.0-alpha.20 | 0 | In-process OriginLM kit with explicit consent boundaries |
+| 2026-10-30 07:06:53 | [meridian-compute-wgpu](https://crates.io/crates/meridian-compute-wgpu) | 0.18.0 | 0 | Low-level compute dispatch abstraction (CPU SIMD backends, GPU compute queues/b… |
+| 2026-10-30 07:08:38 | [originlm](https://crates.io/crates/originlm) | 0.1.0-alpha.20 | 0 | Dependency-first client for the local AI runtime: shared broker, private helper… |
+| 2026-10-30 07:12:00 | [const-ttf](https://crates.io/crates/const-ttf) | 1.0.0 | 0 | A TrueType parser that can work at compile time. |
+| 2026-10-30 07:16:45 | [meridian-data-substrate](https://crates.io/crates/meridian-data-substrate) | 0.1.0 | 0 | Scene serialization on Substrate Data: an application-built component registry,… |
 
 ## Data source
 
