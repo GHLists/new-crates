@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T05:20:41.296484Z,merman-wasi,0.9.3,0,0,https://github.com/Latias94/merman,Independent scalar WASI reactor transport for headless Merman.
+2026-10-30T05:26:40.746608Z,meridian-physics-domain,0.25.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Rigid body dynamics built on the GAC: broad/narrow phase collision, constraint solving and integration."
+2026-10-30T05:35:32.336297Z,kinavis-land,0.1.3,0,0,https://github.com/KINAVIS/kinavis,"Land navigation for the KINAVIS navigation crates: grid, true and magnetic bearings, mils, intersection and resection on a map grid, pace counting, routes by bearing, map matching and geofences, with…"
+2026-10-30T05:35:38.980951Z,kinavis-terrain,0.1.0,0,0,https://github.com/KINAVIS/kinavis,"Terrain for the KINAVIS navigation crates: SRTM/HGT elevation tiles over borrowed bytes, slope and aspect, profiles, line of sight and walking time, without an allocator."
+2026-10-30T05:35:55.088388Z,uhf-ex10,0.1.0,0,0,https://github.com/PR2403/EX10-Protocol-Stack,EX10 系列 UHF RFID 读卡器(E310/E510/E710/E910)的 no_std Rust 协议栈：全指令覆盖、流式解码器、私有 CRC-16，含 std 串口传输层与 CLI
+2026-10-30T05:36:39.338237Z,meridian-physics-app,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Physics use cases: the PhysicsSubsystem world state, the PhysicsStepper port and its sequential implementation."
+2026-10-30T05:38:22.211182Z,originlm-contracts,0.1.0-alpha.20,0,0,https://github.com/thomaslittle/originlm,"Evidence-backed, language-neutral OriginLM contracts"
+2026-10-30T05:46:41.266533Z,meridian-rendering-domain,0.26.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"High-level rendering: render graph, scene extraction, visibility/culling, lighting, materials, camera and post-processing."
+2026-10-30T05:56:40.99121Z,meridian-runtime-app,0.31.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Runtime use cases: stages run in dependency order through a job-executor port, the event system, and the audio, physics and compute step stages."
+2026-10-30T06:01:13.148975Z,vl53l7cx-uld-sys,0.1.0,0,0,https://github.com/petegibson/vl53-8x8-rs,Raw FFI bindings (bindgen + cc) to the STMicroelectronics VL53L7CX Ultra Lite Driver (ULD) C sources.
+2026-10-30T06:01:25.442798Z,originlm-platform,0.1.0-alpha.20,0,0,https://github.com/thomaslittle/originlm,Owner-scoped local filesystem primitives for OriginLM
+2026-10-30T06:01:28.22945Z,originlm-core,0.1.0-alpha.20,0,0,https://github.com/thomaslittle/originlm,Policy projection and selection validation for OriginLM
+2026-10-30T06:01:31.112926Z,originlm-chatgpt-auth,0.1.0-alpha.20,0,0,https://github.com/thomaslittle/originlm,Local ChatGPT sign-in and credential handling for OriginLM
+2026-10-30T06:01:33.896384Z,originlm-discovery,0.1.0-alpha.20,0,0,https://github.com/thomaslittle/originlm,Passive local AI client and provider discovery for OriginLM
+2026-10-30T06:01:36.594811Z,originlm-runtime,0.1.0-alpha.20,0,0,https://github.com/thomaslittle/originlm,"In-process session, turn, and event runtime for OriginLM"
+2026-10-30T06:01:43.635451Z,vl53l7cx-uld,0.3.0,0,0,https://github.com/petegibson/vl53-8x8-rs,Blocking embedded-hal wrapper over STMicroelectronics' VL53L7CX Ultra Lite Driver (ULD) C library
+2026-10-30T06:03:33.502205Z,lumenui-build,0.0.11,0,0,https://github.com/lumen-fx/lumen,"Lumen UI framework Rust SDK, build-script side: compiles an app's UI into the artifact its executable carries."
+2026-10-30T06:06:41.502813Z,meridian-runtime-threads,0.7.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Job graph scheduler: worker threads and dependency tracking for parallel frame execution, and the runtime-app JobExecutor adapter."
+2026-10-30T06:07:25.991348Z,lumenui-dock,0.0.11,0,0,https://github.com/lumen-fx/lumen,"Lumen's dock module: tab stacks, splits and panels that pop out into windows of their own and dock back, with saved layouts. For Rust SDK (lumenui) apps, linked from the release's prebuilt engine."
+2026-10-30T06:07:38.940408Z,lumenui-surface,0.0.11,0,0,https://github.com/lumen-fx/lumen,"Lumen's surface module: a <surface> element showing another renderer's GPU frames in place, fed over the Lumen surface protocol or from in-process code. For Rust SDK (lumenui) apps, linked from the r…"
+2026-10-30T06:12:41.013509Z,seekdb,1.4.0,0,0,https://github.com/oceanbase/seekdb-bindings,Local seekdb lifecycle bindings for Rust
+2026-10-30T06:16:25.494419Z,smarthive-payments,1.8.0,0,0,https://github.com/dhopegraphics/Payment-Sdk,"Official Rust SDK for SmartHive Payments — multi-provider payment processing (Paystack, Hubtel, Moolre, Stripe, ...)"
+2026-10-30T06:16:42.734775Z,meridian-asset-fs,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,File-system adapter for asset-app: reads asset bytes from a directory.
+2026-10-30T06:19:13.304741Z,originlm-store,0.1.0-alpha.20,0,0,https://github.com/thomaslittle/originlm,Local SQLite persistence for OriginLM
+2026-10-30T06:19:16.271956Z,originlm-service,0.1.0-alpha.20,0,0,https://github.com/thomaslittle/originlm,Shared local AI service and JSON-RPC dispatch for OriginLM

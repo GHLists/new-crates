@@ -8,41 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 05:18 UTC
+## Latest list — 2026-10-30 06:19 UTC
 
-New crates published between 2026-10-30 04:20 UTC and 2026-10-30 05:18 UTC.
+New crates published between 2026-10-30 05:18 UTC and 2026-10-30 06:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-30T05-18-54-044497Z.csv)
+[Full CSV](data/new-crates-2026-10-30T06-19-28-138351Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-30 04:22:04 | [austringer-bench](https://crates.io/crates/austringer-bench) | 0.1.3 | 0 | Performance gate, budgets, and benchmarks for austringer |
-| 2026-10-30 04:23:12 | [nexia-nextcloud-uploads](https://crates.io/crates/nexia-nextcloud-uploads) | 0.2.1 | 0 | WebDAV Chunked Upload v2 client for the Nextcloud Rust SDK |
-| 2026-10-30 04:24:27 | [crumbkit-test](https://crates.io/crates/crumbkit-test) | 0.1.0 | 0 | Tests that check a clap tool's command tree and help pages, and a crumbkit tool… |
-| 2026-10-30 04:33:16 | [nexia-nextcloud-users](https://crates.io/crates/nexia-nextcloud-users) | 0.2.1 | 0 | Nextcloud user provisioning and server capabilities client |
-| 2026-10-30 04:34:26 | [crumbkit-usage](https://crates.io/crates/crumbkit-usage) | 0.1.0 | 0 | A local usage log for crumbkit tools, with the self usage and self figures list… |
-| 2026-10-30 04:43:20 | [nexia-nextcloud-versions](https://crates.io/crates/nexia-nextcloud-versions) | 0.2.1 | 0 | WebDAV file versions client for the Nextcloud Rust SDK |
-| 2026-10-30 04:44:27 | [cargo-crumbkit](https://crates.io/crates/cargo-crumbkit) | 0.1.0 | 0 | Cargo subcommand that measures what each path through a crumbkit tool's help co… |
-| 2026-10-30 04:44:55 | [brz-engineioxide](https://crates.io/crates/brz-engineioxide) | 0.17.7-brz.1 | 0 | Engine IO server implementation as a Tower Service. |
-| 2026-10-30 04:45:00 | [brz-socketioxide](https://crates.io/crates/brz-socketioxide) | 0.18.7-brz.1 | 0 | Socket IO server implementation in rust as a Tower Service. |
-| 2026-10-30 04:53:36 | [nexia-nextcloud-sdk](https://crates.io/crates/nexia-nextcloud-sdk) | 0.2.1 | 0 | Unofficial Rust SDK for the Nextcloud APIs: typed clients for every API area pl… |
-| 2026-10-30 04:53:41 | [sojourn](https://crates.io/crates/sojourn) | 0.4.2 | 0 | Constrained random vector generation over a small expression language |
-| 2026-10-30 04:56:35 | [t4a-cuda-kernels](https://crates.io/crates/t4a-cuda-kernels) | 0.1.0 | 0 | Runtime-independent CUDA kernels for tensor4all and external CUDA consumers |
-| 2026-10-30 04:58:47 | [sleepwalk](https://crates.io/crates/sleepwalk) | 0.0.1 | 0 | In development. |
-| 2026-10-30 05:03:15 | [closed-proc-macros](https://crates.io/crates/closed-proc-macros) | 0.0.1 | 0 | Internal procedural macros for the `closed` crate. |
-| 2026-10-30 05:07:08 | [t4a-cuda-runtime](https://crates.io/crates/t4a-cuda-runtime) | 0.1.0 | 0 | Standalone CUDA execution runtime (streams, memory pools, transfers, NVRTC and… |
-| 2026-10-30 05:08:01 | [rsml-compiler](https://crates.io/crates/rsml-compiler) | 0.1.0 | 0 | The OCaml-to-Rust translator behind rsml's macros: lexer, parser and code gener… |
-| 2026-10-30 05:08:03 | [rsml-fmt](https://crates.io/crates/rsml-fmt) | 0.1.0 | 0 | Formatter for the OCaml in rsml's `ml!` and `rsml!` blocks |
-| 2026-10-30 05:08:04 | [rsml-macros](https://crates.io/crates/rsml-macros) | 0.1.0 | 0 | Procedural macros for rsml (use the `rsml-lang` crate instead) |
-| 2026-10-30 05:08:05 | [rsml-lang](https://crates.io/crates/rsml-lang) | 0.1.0 | 0 | OCaml expression syntax inside Rust function bodies, lowered at compile time to… |
-| 2026-10-30 05:09:21 | [meridian-gac](https://crates.io/crates/meridian-gac) | 0.12.0 | 0 | Geometric Algebra Core — vectors, bivectors, multivectors, rotors and motors; t… |
-| 2026-10-30 05:09:41 | [meridian-ecs](https://crates.io/crates/meridian-ecs) | 0.15.0 | 0 | Archetype-based, data-oriented Entity Component System with SoA storage, built… |
-| 2026-10-30 05:09:54 | [meridian-animation-domain](https://crates.io/crates/meridian-animation-domain) | 0.1.0 | 0 | Skeletal animation vocabulary and math, CPU only: skeletons and joints, keyfram… |
-| 2026-10-30 05:10:59 | [meridian-audio-domain](https://crates.io/crates/meridian-audio-domain) | 0.19.0 | 0 | Spatial audio built on the GAC: mixer, DSP graph, listener and emitter frames. |
-| 2026-10-30 05:11:11 | [meridian-audio-app](https://crates.io/crates/meridian-audio-app) | 0.1.0 | 0 | Audio use cases and the ports to the outside world: the AudioSink mixed samples… |
-| 2026-10-30 05:12:07 | [qubit-validator](https://crates.io/crates/qubit-validator) | 0.1.0 | 0 | Type-safe validation traits and registries for Qubit applications |
-| 2026-10-30 05:16:41 | [meridian-resource](https://crates.io/crates/meridian-resource) | 0.8.0 | 0 | Resource identity: typed handles, versioning, lifetime and dependency tracking… |
-| 2026-10-30 05:18:32 | [rsksw2](https://crates.io/crates/rsksw2) | 0.1.0 | 0 | Rust port of the KSW2 pairwise sequence alignment library |
+| 2026-10-30 05:20:41 | [merman-wasi](https://crates.io/crates/merman-wasi) | 0.9.3 | 0 | Independent scalar WASI reactor transport for headless Merman. |
+| 2026-10-30 05:26:40 | [meridian-physics-domain](https://crates.io/crates/meridian-physics-domain) | 0.25.0 | 0 | Rigid body dynamics built on the GAC: broad/narrow phase collision, constraint… |
+| 2026-10-30 05:35:32 | [kinavis-land](https://crates.io/crates/kinavis-land) | 0.1.3 | 0 | Land navigation for the KINAVIS navigation crates: grid, true and magnetic bear… |
+| 2026-10-30 05:35:38 | [kinavis-terrain](https://crates.io/crates/kinavis-terrain) | 0.1.0 | 0 | Terrain for the KINAVIS navigation crates: SRTM/HGT elevation tiles over borrow… |
+| 2026-10-30 05:35:55 | [uhf-ex10](https://crates.io/crates/uhf-ex10) | 0.1.0 | 0 | EX10 系列 UHF RFID 读卡器(E310/E510/E710/E910)的 no_std Rust 协议栈：全指令覆盖、流式解码器、私有 CRC-1… |
+| 2026-10-30 05:36:39 | [meridian-physics-app](https://crates.io/crates/meridian-physics-app) | 0.1.0 | 0 | Physics use cases: the PhysicsSubsystem world state, the PhysicsStepper port an… |
+| 2026-10-30 05:38:22 | [originlm-contracts](https://crates.io/crates/originlm-contracts) | 0.1.0-alpha.20 | 0 | Evidence-backed, language-neutral OriginLM contracts |
+| 2026-10-30 05:46:41 | [meridian-rendering-domain](https://crates.io/crates/meridian-rendering-domain) | 0.26.0 | 0 | High-level rendering: render graph, scene extraction, visibility/culling, light… |
+| 2026-10-30 05:56:40 | [meridian-runtime-app](https://crates.io/crates/meridian-runtime-app) | 0.31.0 | 0 | Runtime use cases: stages run in dependency order through a job-executor port,… |
+| 2026-10-30 06:01:13 | [vl53l7cx-uld-sys](https://crates.io/crates/vl53l7cx-uld-sys) | 0.1.0 | 0 | Raw FFI bindings (bindgen + cc) to the STMicroelectronics VL53L7CX Ultra Lite D… |
+| 2026-10-30 06:01:25 | [originlm-platform](https://crates.io/crates/originlm-platform) | 0.1.0-alpha.20 | 0 | Owner-scoped local filesystem primitives for OriginLM |
+| 2026-10-30 06:01:28 | [originlm-core](https://crates.io/crates/originlm-core) | 0.1.0-alpha.20 | 0 | Policy projection and selection validation for OriginLM |
+| 2026-10-30 06:01:31 | [originlm-chatgpt-auth](https://crates.io/crates/originlm-chatgpt-auth) | 0.1.0-alpha.20 | 0 | Local ChatGPT sign-in and credential handling for OriginLM |
+| 2026-10-30 06:01:33 | [originlm-discovery](https://crates.io/crates/originlm-discovery) | 0.1.0-alpha.20 | 0 | Passive local AI client and provider discovery for OriginLM |
+| 2026-10-30 06:01:36 | [originlm-runtime](https://crates.io/crates/originlm-runtime) | 0.1.0-alpha.20 | 0 | In-process session, turn, and event runtime for OriginLM |
+| 2026-10-30 06:01:43 | [vl53l7cx-uld](https://crates.io/crates/vl53l7cx-uld) | 0.3.0 | 0 | Blocking embedded-hal wrapper over STMicroelectronics' VL53L7CX Ultra Lite Driv… |
+| 2026-10-30 06:03:33 | [lumenui-build](https://crates.io/crates/lumenui-build) | 0.0.11 | 0 | Lumen UI framework Rust SDK, build-script side: compiles an app's UI into the a… |
+| 2026-10-30 06:06:41 | [meridian-runtime-threads](https://crates.io/crates/meridian-runtime-threads) | 0.7.0 | 0 | Job graph scheduler: worker threads and dependency tracking for parallel frame… |
+| 2026-10-30 06:07:25 | [lumenui-dock](https://crates.io/crates/lumenui-dock) | 0.0.11 | 0 | Lumen's dock module: tab stacks, splits and panels that pop out into windows of… |
+| 2026-10-30 06:07:38 | [lumenui-surface](https://crates.io/crates/lumenui-surface) | 0.0.11 | 0 | Lumen's surface module: a <surface> element showing another renderer's GPU fram… |
+| 2026-10-30 06:12:41 | [seekdb](https://crates.io/crates/seekdb) | 1.4.0 | 0 | Local seekdb lifecycle bindings for Rust |
+| 2026-10-30 06:16:25 | [smarthive-payments](https://crates.io/crates/smarthive-payments) | 1.8.0 | 0 | Official Rust SDK for SmartHive Payments — multi-provider payment processing (P… |
+| 2026-10-30 06:16:42 | [meridian-asset-fs](https://crates.io/crates/meridian-asset-fs) | 0.1.0 | 0 | File-system adapter for asset-app: reads asset bytes from a directory. |
+| 2026-10-30 06:19:13 | [originlm-store](https://crates.io/crates/originlm-store) | 0.1.0-alpha.20 | 0 | Local SQLite persistence for OriginLM |
+| 2026-10-30 06:19:16 | [originlm-service](https://crates.io/crates/originlm-service) | 0.1.0-alpha.20 | 0 | Shared local AI service and JSON-RPC dispatch for OriginLM |
 
 ## Data source
 
