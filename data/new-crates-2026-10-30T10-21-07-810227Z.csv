@@ -1,0 +1,16 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T09:23:30.146754Z,sofd-icons,0.1.0,0,0,https://github.com/emfox/sOFD,"The symbolic icon set the reader's shells draw, as the desktop theme's own path data"
+2026-10-30T09:23:59.575546Z,spaceheater,1.0.0,0,0,https://github.com/joeledwards/spaceheater,Controllable CPU and GPU compute load generator
+2026-10-30T09:24:21.336928Z,base-http,0.1.0,0,0,https://github.com/base-rs/base-http,Runtime-independent HTTP semantics and bodies for Base
+2026-10-30T09:24:41.480292Z,base-http1,0.1.0,0,0,https://github.com/base-rs/base-http,Native HTTP/1 framing over Base scheduler stream capabilities
+2026-10-30T09:24:50.216388Z,base-http-protocol,0.1.0,0,0,https://github.com/base-rs/base-http,HTTP protocol selection and client/server codec construction
+2026-10-30T09:24:59.330266Z,base-http-server,0.1.0,0,0,https://github.com/base-rs/base-http,Supervised native HTTP servers for Base scheduler capabilities
+2026-10-30T09:25:10.466554Z,base-http-client,0.1.0,0,0,https://github.com/base-rs/base-http,Supervised pooled HTTP clients for Base scheduler capabilities
+2026-10-30T09:27:00.828892Z,chard,0.1.0,0,0,https://github.com/hexproofdev/chard,"chard: empirical measurement of which C/C++ hardening flags a toolchain actually applies. Measures artifacts and behavior, not packaging specs."
+2026-10-30T09:36:11.363298Z,originlm-cli,0.1.0-alpha.21,0,0,https://github.com/thomaslittle/originlm,"OriginLM native helper CLI: discovery, metadata, execution and the local service."
+2026-10-30T10:01:21.722567Z,eui-core,0.2.0,0,0,https://github.com/Niach/exponential,"Exponential UI core: the A2UI reducer (core + basic catalog, macros, extensions), runtime themes with recipe resolution, taffy layout with batched measurement, overlay layers and windowed lists — the…"
+2026-10-30T10:02:30.266638Z,enet-core,0.1.0,0,0,https://github.com/Niach/exponential,"eNet: Exponential's p2p, end-to-end encrypted networking core on iroh 1.x (chat, blobs, signed gossip records, call datagrams, sealed push payloads)."
+2026-10-30T10:06:56.456142Z,atxf,0.1.0,0,0,https://github.com/leostera/atxf,"ATXF, the Agent Transcript Exchange Format: types, validation, integrity, lossless converters for coding-agent sessions, and reconciliation"
+2026-10-30T10:17:49.008836Z,raana,0.1.0,0,0,https://github.com/raana-inf/raana,Rust LKM build orchestration for rust_support
+2026-10-30T10:18:49.469586Z,novelai-bridge-prompt,0.1.0,0,0,https://github.com/rhnu/novelai-bridge,"Lossless, model-profiled NovelAI image prompt analysis for native and WebAssembly."
+2026-10-30T10:20:14.588451Z,csaf-converter,0.5.2,0,0,https://github.com/csaf-rs/csaf,A converter for the CSAF standard written in Rust (converts 2.0 to 2.1)
