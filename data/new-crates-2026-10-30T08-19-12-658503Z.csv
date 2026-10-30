@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T07:26:40.747743Z,meridian-editor-domain,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"The messages between a running Meridian game and its editor (Meridian IDLE): typed requests, responses and events as Substrate Data frames, append-only."
+2026-10-30T07:28:23.010528Z,painty,0.0.0,0,0,https://github.com/al8n/painty,Renders a diagnostic and its source text to a terminal or HTML.
+2026-10-30T07:33:25.301642Z,invar-falsify,0.2.0,0,0,https://github.com/Ramesh-35/invar,"A contract firewall for CI: judges breaking changes to the promises between repositories, and states what it could not check."
+2026-10-30T07:34:28.88642Z,kasesiki-netstack,0.1.0,0,0,https://github.com/Kasesiki/kasesiki-netstack,A netstack for the special purpose of turning packets from/to a TUN interface into TCP streams and UDP packets. It uses smoltcp-rs as the backend netstack.
+2026-10-30T07:36:39.80304Z,meridian-editor-app,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"The game side of the editor protocol, without I/O: a Session that answers an editor's requests against a World and a ComponentRegistry, and the events they cause."
+2026-10-30T07:46:43.334713Z,meridian-editor-tcp,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Serves the editor protocol to one editor over a local TCP connection: Substrate Data frames in and out, a RequestHandler in the middle."
+2026-10-30T07:49:44.472655Z,docspring,4.2.0,0,0,https://github.com/DocSpring/docspring-rust,"Use DocSpring's API to programmatically fill out PDF forms, convert HTML to PDFs, merge PDFs, or request legally binding e-signatures."
+2026-10-30T07:56:18.666532Z,capsule-emit-artifact,0.0.1,0,0,https://github.com/action-state-group/capsule-emit,"Artifact store for Agent Action Capsules: exact sealed Capsules, Producer Envelopes and originals with retention and purge, on JSONL, memory, SQLite or MySQL."
+2026-10-30T07:57:05.490962Z,meridian-gac-wgpu,0.23.0,0,0,https://github.com/F000NKKK/Meridian-Engine,Batch execution kernels for GAC transforms (Motor3) on CPU-SIMD / GPU compute. The adapter between the pure math in gac and the dispatch runtime in compute-app — neither depends on the other.
+2026-10-30T07:58:20.273132Z,lev-rs,0.6.0,0,0,https://github.com/KarelZe/lev,"An extremely fast Levenshtein distance and similarity ratio, also available for Python."
+2026-10-30T08:03:02.791145Z,rspack-lightningcss-static-self,0.1.1,0,0,https://github.com/rstackjs/lightningcss,A trait for values that can be cloned with a static lifetime
+2026-10-30T08:03:04.420035Z,rspack-lightningcss-selectors,0.1.1,0,0,https://github.com/rstackjs/lightningcss,CSS Selectors matching for Rust - forked for lightningcss
+2026-10-30T08:03:06.794Z,rspack-lightningcss,0.1.1,0,0,https://github.com/rstackjs/lightningcss,"A CSS parser, transformer, and minifier"
+2026-10-30T08:03:09.473771Z,rspack-lightningcss-napi,0.1.1,0,0,https://github.com/rstackjs/lightningcss,Node-API bindings for Lightning CSS
+2026-10-30T08:03:24.80055Z,immich-models,0.1.0,0,0,https://github.com/boul2gom/immich-rs,Generated OpenAPI data models for Immich.
+2026-10-30T08:04:18.357445Z,immich-rs,0.1.0,0,0,https://github.com/boul2gom/immich-rs,Async Rust SDK for the Immich self-hosted photo backup server.
+2026-10-30T08:04:36.158786Z,venue-reader,0.1.0,0,0,https://github.com/sergluka/venue-reader,LSP server for FIX protocol logs
+2026-10-30T08:06:48.090733Z,meridian-physics-wgpu,0.6.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Compute adapter for physics-domain: WGSL soft-body (mass-spring) GPU kernels (float and Fixed flavors), plus compute-runtime-batched rigid-body Integrator and NarrowPhase::test_pair kernels (generic…"
+2026-10-30T08:09:46.548868Z,fitv-freeimagetovideo,0.1.0,0,0,https://github.com/hanshs474/fitv-freeimagetovideo,"Free image to video AI with no daily cap: your first clip needs no sign-up, then a free account keeps going. Every video comes with sound and no watermark."
+2026-10-30T08:10:55.934686Z,cocoon-core,0.1.0,0,0,https://github.com/sunilksundaram/cocoon,Core types and traits for Cocoon sandbox
+2026-10-30T08:11:16.129793Z,cocoon-fs,0.1.0,0,0,https://github.com/sunilksundaram/cocoon,Virtual filesystem and read-only projection layer for Cocoon sandbox
+2026-10-30T08:11:33.663031Z,cocoon-platform,0.1.0,0,0,https://github.com/sunilksundaram/cocoon,Platform-specific sandboxing and isolation drivers for Cocoon
+2026-10-30T08:11:50.886495Z,cocoon-runtimes,0.1.0,0,0,https://github.com/sunilksundaram/cocoon,"Runtime presets and execution helpers for Python, Node, PowerShell, Bash, and Rust"
+2026-10-30T08:12:13.856155Z,cocoon-sandbox,0.1.0,0,0,https://github.com/sunilksundaram/cocoon,Lightweight cross-platform sandbox with virtual and read-only filesystems for AI agents and code execution
+2026-10-30T08:16:09.626897Z,remove-except,0.4.0,0,0,https://github.com/tresuke/remove-except,A Rust CLI to keep selected paths or glob matches and remove everything else under a root.
+2026-10-30T08:16:40.114643Z,meridian-rendering-app,0.1.0,0,0,https://github.com/F000NKKK/Meridian-Engine,"Rendering use cases and the ports to the GPU: FrameRecorder, TextureStore and MeshStore."

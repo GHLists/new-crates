@@ -8,40 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 07:20 UTC
+## Latest list — 2026-10-30 08:19 UTC
 
-New crates published between 2026-10-30 06:19 UTC and 2026-10-30 07:20 UTC.
+New crates published between 2026-10-30 07:20 UTC and 2026-10-30 08:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-30T07-20-12-247607Z.csv)
+[Full CSV](data/new-crates-2026-10-30T08-19-12-658503Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-30 06:21:03 | [libmceliece](https://crates.io/crates/libmceliece) | 0.1.4 | 0 | Rust bindings for libmceliece |
-| 2026-10-30 06:21:05 | [libntruprime](https://crates.io/crates/libntruprime) | 0.1.4 | 0 | Rust bindings for libntruprime |
-| 2026-10-30 06:26:39 | [meridian-asset-gltf](https://crates.io/crates/meridian-asset-gltf) | 0.1.0 | 0 | glTF 2.0 adapter for asset-domain: decodes .glb and self-contained .gltf models… |
-| 2026-10-30 06:29:25 | [tc_threefish](https://crates.io/crates/tc_threefish) | 0.1.0 | 0 | Threefish-256, Threefish-512 and Threefish-1024 tweakable block ciphers, the co… |
-| 2026-10-30 06:36:45 | [meridian-platform-winit](https://crates.io/crates/meridian-platform-winit) | 0.12.0 | 0 | OS abstraction: window, input, filesystem, time, threading and dynamic library… |
-| 2026-10-30 06:41:04 | [microfetch-asm](https://crates.io/crates/microfetch-asm) | 1.2.2 | 0 | Inline assembly syscall helpers for microfetch |
-| 2026-10-30 06:41:05 | [microfetch-lib](https://crates.io/crates/microfetch-lib) | 1.2.2 | 0 | Microfetch library crate - exports all functionality including main function |
-| 2026-10-30 06:41:45 | [obex-protocol](https://crates.io/crates/obex-protocol) | 0.1.0 | 0 | Native OBEX 1.5 (IrDA Object Exchange) implementation in Rust, usable over Blue… |
-| 2026-10-30 06:42:18 | [obex-protocol-map](https://crates.io/crates/obex-protocol-map) | 0.1.0 | 0 | Bluetooth Message Access Profile (MAP) 1.4 implementation in Rust, built on obe… |
-| 2026-10-30 06:45:09 | [arcus-sdk](https://crates.io/crates/arcus-sdk) | 0.1.0 | 0 | An unofficial, thin asynchronous Rust SDK for the Arcus perpetuals API |
-| 2026-10-30 06:46:06 | [cent](https://crates.io/crates/cent) | 0.1.0 | 0 | Centrifugo server API SDK: every API method, batches, broadcasts with retries,… |
-| 2026-10-30 06:46:47 | [meridian-audio-cpal](https://crates.io/crates/meridian-audio-cpal) | 0.12.0 | 0 | Low-level audio device abstraction: output streams, buffers and platform audio… |
-| 2026-10-30 06:49:41 | [mgui-dock](https://crates.io/crates/mgui-dock) | 0.2.0 | 0 | IDE 风格 Dock 面板布局组件 |
-| 2026-10-30 06:50:13 | [rsray](https://crates.io/crates/rsray) | 0.1.2 | 0 | X-ray into JavaScript bundles. Find the hidden API surface. |
-| 2026-10-30 06:51:05 | [mgui](https://crates.io/crates/mgui) | 0.2.0 | 0 | mgui 统一门面:聚合 core/components/layout/text/runtime/shell，并提供 prelude |
-| 2026-10-30 06:51:10 | [originlm-transports](https://crates.io/crates/originlm-transports) | 0.1.0-alpha.20 | 0 | Owner-only local transports for the OriginLM service |
-| 2026-10-30 06:51:13 | [originlm-control](https://crates.io/crates/originlm-control) | 0.1.0-alpha.20 | 0 | Broker client and control views for OriginLM |
-| 2026-10-30 06:51:16 | [originlm-adapters](https://crates.io/crates/originlm-adapters) | 0.1.0-alpha.20 | 0 | Native and HTTP provider adapters for OriginLM |
-| 2026-10-30 06:51:19 | [cargo-mgui](https://crates.io/crates/cargo-mgui) | 0.2.0 | 0 | mgui 项目生成器：cargo mgui new <path> |
-| 2026-10-30 06:55:40 | [quantion](https://crates.io/crates/quantion) | 0.2.0 | 0 | Read Ionic (.ion) and mzML files and turn chromatograms into numbers: noise, ba… |
-| 2026-10-30 06:56:49 | [meridian-gpu-wgpu](https://crates.io/crates/meridian-gpu-wgpu) | 0.8.0 | 0 | Shared low-level wgpu device/buffer/shader/compute-pipeline mechanics underneat… |
-| 2026-10-30 06:58:38 | [originlm-kit](https://crates.io/crates/originlm-kit) | 0.1.0-alpha.20 | 0 | In-process OriginLM kit with explicit consent boundaries |
-| 2026-10-30 07:06:53 | [meridian-compute-wgpu](https://crates.io/crates/meridian-compute-wgpu) | 0.18.0 | 0 | Low-level compute dispatch abstraction (CPU SIMD backends, GPU compute queues/b… |
-| 2026-10-30 07:08:38 | [originlm](https://crates.io/crates/originlm) | 0.1.0-alpha.20 | 0 | Dependency-first client for the local AI runtime: shared broker, private helper… |
-| 2026-10-30 07:12:00 | [const-ttf](https://crates.io/crates/const-ttf) | 1.0.0 | 0 | A TrueType parser that can work at compile time. |
-| 2026-10-30 07:16:45 | [meridian-data-substrate](https://crates.io/crates/meridian-data-substrate) | 0.1.0 | 0 | Scene serialization on Substrate Data: an application-built component registry,… |
+| 2026-10-30 07:26:40 | [meridian-editor-domain](https://crates.io/crates/meridian-editor-domain) | 0.1.0 | 0 | The messages between a running Meridian game and its editor (Meridian IDLE): ty… |
+| 2026-10-30 07:28:23 | [painty](https://crates.io/crates/painty) | 0.0.0 | 0 | Renders a diagnostic and its source text to a terminal or HTML. |
+| 2026-10-30 07:33:25 | [invar-falsify](https://crates.io/crates/invar-falsify) | 0.2.0 | 0 | A contract firewall for CI: judges breaking changes to the promises between rep… |
+| 2026-10-30 07:34:28 | [kasesiki-netstack](https://crates.io/crates/kasesiki-netstack) | 0.1.0 | 0 | A netstack for the special purpose of turning packets from/to a TUN interface i… |
+| 2026-10-30 07:36:39 | [meridian-editor-app](https://crates.io/crates/meridian-editor-app) | 0.1.0 | 0 | The game side of the editor protocol, without I/O: a Session that answers an ed… |
+| 2026-10-30 07:46:43 | [meridian-editor-tcp](https://crates.io/crates/meridian-editor-tcp) | 0.1.0 | 0 | Serves the editor protocol to one editor over a local TCP connection: Substrate… |
+| 2026-10-30 07:49:44 | [docspring](https://crates.io/crates/docspring) | 4.2.0 | 0 | Use DocSpring's API to programmatically fill out PDF forms, convert HTML to PDF… |
+| 2026-10-30 07:56:18 | [capsule-emit-artifact](https://crates.io/crates/capsule-emit-artifact) | 0.0.1 | 0 | Artifact store for Agent Action Capsules: exact sealed Capsules, Producer Envel… |
+| 2026-10-30 07:57:05 | [meridian-gac-wgpu](https://crates.io/crates/meridian-gac-wgpu) | 0.23.0 | 0 | Batch execution kernels for GAC transforms (Motor3) on CPU-SIMD / GPU compute.… |
+| 2026-10-30 07:58:20 | [lev-rs](https://crates.io/crates/lev-rs) | 0.6.0 | 0 | An extremely fast Levenshtein distance and similarity ratio, also available for… |
+| 2026-10-30 08:03:02 | [rspack-lightningcss-static-self](https://crates.io/crates/rspack-lightningcss-static-self) | 0.1.1 | 0 | A trait for values that can be cloned with a static lifetime |
+| 2026-10-30 08:03:04 | [rspack-lightningcss-selectors](https://crates.io/crates/rspack-lightningcss-selectors) | 0.1.1 | 0 | CSS Selectors matching for Rust - forked for lightningcss |
+| 2026-10-30 08:03:06 | [rspack-lightningcss](https://crates.io/crates/rspack-lightningcss) | 0.1.1 | 0 | A CSS parser, transformer, and minifier |
+| 2026-10-30 08:03:09 | [rspack-lightningcss-napi](https://crates.io/crates/rspack-lightningcss-napi) | 0.1.1 | 0 | Node-API bindings for Lightning CSS |
+| 2026-10-30 08:03:24 | [immich-models](https://crates.io/crates/immich-models) | 0.1.0 | 0 | Generated OpenAPI data models for Immich. |
+| 2026-10-30 08:04:18 | [immich-rs](https://crates.io/crates/immich-rs) | 0.1.0 | 0 | Async Rust SDK for the Immich self-hosted photo backup server. |
+| 2026-10-30 08:04:36 | [venue-reader](https://crates.io/crates/venue-reader) | 0.1.0 | 0 | LSP server for FIX protocol logs |
+| 2026-10-30 08:06:48 | [meridian-physics-wgpu](https://crates.io/crates/meridian-physics-wgpu) | 0.6.0 | 0 | Compute adapter for physics-domain: WGSL soft-body (mass-spring) GPU kernels (f… |
+| 2026-10-30 08:09:46 | [fitv-freeimagetovideo](https://crates.io/crates/fitv-freeimagetovideo) | 0.1.0 | 0 | Free image to video AI with no daily cap: your first clip needs no sign-up, the… |
+| 2026-10-30 08:10:55 | [cocoon-core](https://crates.io/crates/cocoon-core) | 0.1.0 | 0 | Core types and traits for Cocoon sandbox |
+| 2026-10-30 08:11:16 | [cocoon-fs](https://crates.io/crates/cocoon-fs) | 0.1.0 | 0 | Virtual filesystem and read-only projection layer for Cocoon sandbox |
+| 2026-10-30 08:11:33 | [cocoon-platform](https://crates.io/crates/cocoon-platform) | 0.1.0 | 0 | Platform-specific sandboxing and isolation drivers for Cocoon |
+| 2026-10-30 08:11:50 | [cocoon-runtimes](https://crates.io/crates/cocoon-runtimes) | 0.1.0 | 0 | Runtime presets and execution helpers for Python, Node, PowerShell, Bash, and R… |
+| 2026-10-30 08:12:13 | [cocoon-sandbox](https://crates.io/crates/cocoon-sandbox) | 0.1.0 | 0 | Lightweight cross-platform sandbox with virtual and read-only filesystems for A… |
+| 2026-10-30 08:16:09 | [remove-except](https://crates.io/crates/remove-except) | 0.4.0 | 0 | A Rust CLI to keep selected paths or glob matches and remove everything else un… |
+| 2026-10-30 08:16:40 | [meridian-rendering-app](https://crates.io/crates/meridian-rendering-app) | 0.1.0 | 0 | Rendering use cases and the ports to the GPU: FrameRecorder, TextureStore and M… |
 
 ## Data source
 
