@@ -1,0 +1,45 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T21:22:17.792225Z,jouet-routines,0.0.0,0,0,,Reserved.
+2026-10-30T21:22:55.958563Z,jmap-search-server,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP search extension server (early placeholder; full implementation in the crate-jmap workspace)
+2026-10-30T21:24:01.206814Z,eyebowl,0.1.2,0,0,,Add observability to your Rust types! In a blocking context.
+2026-10-30T21:28:20.976485Z,southstar-boa-string,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,"Southstar's fork of boa_string: Boa is a Javascript lexer, parser and compiler written in Rust. Currently, it has support for some of the language."
+2026-10-30T21:28:26.245316Z,southstar-boa-gc,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,Southstar's fork of boa_gc: Garbage collector for the Boa JavaScript engine.
+2026-10-30T21:28:29.312881Z,southstar-boa-interner,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,Southstar's fork of boa_interner: String interner for the Boa JavaScript engine.
+2026-10-30T21:28:33.272122Z,southstar-boa-ast,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,Southstar's fork of boa_ast: Abstract Syntax Tree definition for the Boa JavaScript engine.
+2026-10-30T21:28:38.697299Z,southstar-boa-parser,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,Southstar's fork of boa_parser: ECMAScript parser for the Boa JavaScript engine.
+2026-10-30T21:28:45.833399Z,pdfcraft-content,0.7.1,0,0,,"Content streams (ISO 32000-2 §7.8, §8–9): operators with source spans, inline images, serializer, matrices"
+2026-10-30T21:33:08.683627Z,jmap-search-client,0.0.1,0,0,https://github.com/MarkAtwood/crate-jmap,JMAP search extension client (early placeholder; full implementation in the crate-jmap workspace)
+2026-10-30T21:35:27.498635Z,clipper2-rs,0.1.0,0,0,https://github.com/serdarvaran/clipper2-rs,"Pure Rust port of Clipper2: polygon clipping, offsetting and triangulation, tested bit-for-bit against the C++ library"
+2026-10-30T21:38:18.633591Z,thruput-scp-util,2.0.0,0,0,https://github.com/thruputchain/scp,"Hashing, Ed25519 signing and XDR helpers for the Stellar Consensus Protocol (SCP)"
+2026-10-30T21:38:29.718246Z,southstar-boa-engine,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,"Southstar's fork of boa_engine: Boa is a Javascript lexer, parser and compiler written in Rust. Currently, it has support for some of the language."
+2026-10-30T21:38:32.461862Z,thruput-scp-kernel,2.0.0,0,0,https://github.com/thruputchain/scp,"Stellar Consensus Protocol (SCP) kernel: nomination, ballot protocol and quorum sets"
+2026-10-30T21:38:45.766245Z,pdfcraft-model,0.7.1,0,0,,"Typed views over the PDF object graph (page tree with inherited attributes, page geometry)"
+2026-10-30T21:38:51.586815Z,thruput-scp-server,2.0.0,0,0,https://github.com/thruputchain/scp,"scpd, a standalone Stellar Consensus Protocol (SCP) daemon serving the SCP kernel over ONC-RPC"
+2026-10-30T21:43:36.844209Z,towepm,0.1.0,0,0,https://github.com/mustafaelrasheid/towepm,A package manager meant for flattening out complex dependency graphs to a simpler but larger format.
+2026-10-30T21:43:43.247835Z,codemagic,0.1.0,0,0,https://github.com/GBouerat/codemagic-cli,A powerful CLI tool for Codemagic CI/CD service
+2026-10-30T21:44:03.201076Z,risc0-circuit-recursion-control-zkrs,4.0.6-rc.1,0,0,https://github.com/risc0/risc0/,RISC Zero control ZKRs for the circuit for recursion
+2026-10-30T21:44:17.234282Z,disk-core,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Shared base for the rusty-backup filesystem, partition-table and disk-image crates"
+2026-10-30T21:47:36.749335Z,necronomicon,0.1.0,0,0,https://github.com/WahahaYes/necronomicon,"Agent mind control for your codebase: house rules that teach. Pre-commit checks tell coding agents what's wrong, why, and what to do instead."
+2026-10-30T21:48:25.523612Z,southstar-build,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,"Build-script helpers for Southstar: system libraries through pkg-config, and C struct layouts probed from installed headers"
+2026-10-30T21:48:47.696919Z,aphrody-shell-tauri,1.4.7,0,0,https://github.com/aphrody-labs/aphrody,Tauri 3 plugin exposing native PTY shell sessions to the aphrody-shell-web webview client.
+2026-10-30T21:50:58.659672Z,ergo-policy-sentences,0.1.0,0,0,https://github.com/kosli-dev/ergo,"Experimental: reads Ergo's check sentences, without the engine"
+2026-10-30T21:51:24.615389Z,metalbook-core,0.1.0,0,0,https://github.com/joaquinbejar/metalbook,"metalbook domain and payoff math: no_std, allocation free, every rounding explicit"
+2026-10-30T21:51:34.002196Z,metalbook-sdk,0.1.0,0,0,https://github.com/joaquinbejar/metalbook,"Client SDK for metalbook: instruction builders, PDA helpers and account decoders"
+2026-10-30T21:51:38.381746Z,ergo-policy-engine,0.1.0,0,0,https://github.com/kosli-dev/ergo,Experimental: builds Ergo reports
+2026-10-30T21:51:50.496725Z,ergo-policy-cli,0.1.0,0,0,https://github.com/kosli-dev/ergo,"Experimental: prints Ergo reports and violations from policy, input and params files"
+2026-10-30T21:53:51.421783Z,techne-lexicon-check,0.3.0,0,0,https://github.com/technefoundation/lexicons,"The one read-time check every commons reader runs on a record: lexicon validity, trust, placement."
+2026-10-30T21:54:59.740461Z,techne-sdk,0.1.0,0,0,https://github.com/technefoundation/sdk,"TechneSDK's logic written once: version ranking (eventState) and offline record verification over the published check, shipped to TypeScript as WebAssembly; with opt-in atproto plumbing (service auth…"
+2026-10-30T21:55:41.505793Z,vimniscient,1.0.1,0,0,https://github.com/dialectmaterial/Vimniscient,"Get fluent in Vim in fifteen minutes a day, in your own Neovim."
+2026-10-30T21:58:26.39343Z,southstar-codecs,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,"Southstar's media decoders: MPEG-1 video and MP2 (a port of pl_mpeg), MP3 (a port of minimp3) and FFmpeg's libav declarations"
+2026-10-30T21:58:29.111138Z,debian-rust-rdeps,0.1.0,0,0,https://salsa.debian.org/rust-team/debian-rust-rdeps,Helper tool for analyzing dependency relations between crate packages in a Debian repository
+2026-10-30T21:58:46.500149Z,aphrody-shell-web,1.4.7,0,0,https://github.com/aphrody-labs/bun-distribution,"Aphrody terminal for WebAssembly: Rio VT state for browser and Tauri webview terminals, OPFS VFS and wire protocol."
+2026-10-30T22:01:12.504277Z,flyline,0.0.1,0,0,https://github.com/HalFrgrd/flyline,A Bash plugin for modern command line editing
+2026-10-30T22:01:14.669992Z,kernoid-e2e,0.2.0,0,0,https://github.com/kernoid/kernoid,"End-to-end encryption of kernoid's apps: OpenPGP with post-quantum keys, PGP/MIME"
+2026-10-30T22:02:41.215436Z,kernoid-client,0.2.0,0,0,https://github.com/kernoid/kernoid,"kernoid's protocols for clients: JMAP mail, files, calendars, contacts, push and end-to-end encryption"
+2026-10-30T22:04:17.621785Z,kernoid-sync,0.2.0,0,0,https://github.com/kernoid/kernoid,kernoid's file sync: a folder kept in step with a file store over JMAP
+2026-10-30T22:08:25.171591Z,southstar-http,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,"Southstar's HTTP client: HTTP/1.1 and HTTP/2 with HPACK over rustls, proxies, FTP and the sans-I/O wire formats"
+2026-10-30T22:08:46.123321Z,aphrody-themes,1.4.7,0,0,https://github.com/aphrody-labs/bun-os,"Bun OS themes (Material 3 Google Book OS, Windows 11 Fluent, Apple Liquid Glass) generated from packages/themes: palettes, shapes, type, egui Visuals, Tauri window effects and the shared theme select…"
+2026-10-30T22:11:08.605211Z,anxiolytique,10.0.0-rc.0,0,0,https://codeberg.org/selfisekai/anxiolytique,Various utilities for handling Subresource Integrity.
+2026-10-30T22:12:58.58228Z,zivalix,0.0.1,0,0,https://github.com/zivalix/zivalix,Official reserved package for ZIVALIX Agency. Defensive registration.
+2026-10-30T22:13:45.011005Z,ofdrw-svg2pdf,0.13.0-ofdrw.1,0,0,https://github.com/lihongjie0209/ofdrw-rs,"OFD-specific SVG to PDF conversion, forked from svg2pdf"
+2026-10-30T22:16:08.108033Z,document-graphics,0.1.0,0,0,https://github.com/garlab/document-graphics,"Render graphics from untrusted documents to RGBA, with resource limits and isolated workers."
