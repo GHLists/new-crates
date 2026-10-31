@@ -8,62 +8,76 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 18:18 UTC
+## Latest list — 2026-10-31 19:18 UTC
 
-New crates published between 2026-10-31 17:18 UTC and 2026-10-31 18:18 UTC.
+New crates published between 2026-10-31 18:18 UTC and 2026-10-31 19:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-31T18-18-29-116974Z.csv)
+[Full CSV](data/new-crates-2026-10-31T19-18-38-718592Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-31 17:21:10 | [akivili](https://crates.io/crates/akivili) | 0.2.23 | 0 | Plugin SDK for celestia-island — one-line dependency for the plugin registry, t… |
-| 2026-10-31 17:21:38 | [stroma-common](https://crates.io/crates/stroma-common) | 0.0.1 | 0 | Name reserved for the Stroma storage layer of the Fibril message broker. Not us… |
-| 2026-10-31 17:21:42 | [stroma-core](https://crates.io/crates/stroma-core) | 0.0.1 | 0 | Name reserved for the Stroma storage layer of the Fibril message broker. Not us… |
-| 2026-10-31 17:21:46 | [fibril-common](https://crates.io/crates/fibril-common) | 0.0.1 | 0 | Name reserved for the Fibril message broker client. Not usable yet. |
-| 2026-10-31 17:21:48 | [fibril-util](https://crates.io/crates/fibril-util) | 0.0.1 | 0 | Name reserved for the Fibril message broker client. Not usable yet. |
-| 2026-10-31 17:21:51 | [fibril-wire](https://crates.io/crates/fibril-wire) | 0.0.1 | 0 | Name reserved for the Fibril message broker client. Not usable yet. |
-| 2026-10-31 17:26:38 | [formatjs_intl_localematcher](https://crates.io/crates/formatjs_intl_localematcher) | 1.0.0 | 0 | ICU-compatible CLDR locale matching |
-| 2026-10-31 17:28:54 | [bboxy450-term-firehose](https://crates.io/crates/bboxy450-term-firehose) | 0.1.1 | 0 | Embedded synthetic terminal scenes for PTY throughput and fidelity checks |
-| 2026-10-31 17:30:17 | [paginaverto-ocr](https://crates.io/crates/paginaverto-ocr) | 0.1.3 | 0 | Character recognition for paginaverto: page image in, lines of text out. |
-| 2026-10-31 17:30:18 | [paginaverto](https://crates.io/crates/paginaverto) | 0.1.3 | 0 | Reads PDFs and page images and turns them into a structured document, in pure R… |
-| 2026-10-31 17:30:30 | [fibril-client](https://crates.io/crates/fibril-client) | 0.0.1 | 0 | Name reserved for the Rust client of the Fibril message broker. Not usable yet. |
-| 2026-10-31 17:31:26 | [bboxy450-term-desktop-core](https://crates.io/crates/bboxy450-term-desktop-core) | 0.1.1 | 0 | Platform-free desktop action and lifecycle contracts for bboxy450-term |
-| 2026-10-31 17:31:34 | [bboxy450-term-desktop-macos](https://crates.io/crates/bboxy450-term-desktop-macos) | 0.1.1 | 0 | Native AppKit desktop backend for bboxy450-term |
-| 2026-10-31 17:31:39 | [bboxy450-term-desktop](https://crates.io/crates/bboxy450-term-desktop) | 0.1.1 | 0 | OS-agnostic desktop integration facade for bboxy450-term |
-| 2026-10-31 17:31:49 | [bboxy450-term-proto](https://crates.io/crates/bboxy450-term-proto) | 0.1.1 | 0 | Terminal viewport and GUI wire types shared by app and logic |
-| 2026-10-31 17:35:01 | [bboxy450-term-mux](https://crates.io/crates/bboxy450-term-mux) | 0.1.1 | 0 | Local terminal sessions, durable messaging and knowledge-provider coordination |
-| 2026-10-31 17:35:34 | [trak-core](https://crates.io/crates/trak-core) | 0.1.0 | 0 | Repository discovery, file traversal, and the symbol model for trak |
-| 2026-10-31 17:35:35 | [trak-output](https://crates.io/crates/trak-output) | 0.1.0 | 0 | Report model and terminal, JSON, Markdown, Mermaid, and DOT renderers for trak |
-| 2026-10-31 17:35:39 | [trak-analysis](https://crates.io/crates/trak-analysis) | 0.1.0 | 0 | Callers, callees, path finding, impact, and references for trak |
-| 2026-10-31 17:35:40 | [trak-editor](https://crates.io/crates/trak-editor) | 0.1.0 | 0 | Editor detection and file:line opening for trak |
-| 2026-10-31 17:35:41 | [trak-git](https://crates.io/crates/trak-git) | 0.1.0 | 0 | Git history, blame, and diff integrations for trak |
-| 2026-10-31 17:41:37 | [trak-rust](https://crates.io/crates/trak-rust) | 0.1.0 | 0 | A dependency-free heuristic Rust parser for trak |
-| 2026-10-31 17:43:07 | [pleochroma-formats](https://crates.io/crates/pleochroma-formats) | 0.10.0 | 0 | Readers and writers for gemstone faceting design file formats. |
-| 2026-10-31 17:43:08 | [pleochroma-update](https://crates.io/crates/pleochroma-update) | 0.10.0 | 0 | New-version check of the Pleochroma apps against the GitHub releases (`v<versio… |
-| 2026-10-31 17:43:11 | [pleochroma](https://crates.io/crates/pleochroma) | 0.10.0 | 0 | A physically-based spectral gemstone renderer that turns GemCAD-style cutting i… |
-| 2026-10-31 17:43:15 | [pleochroma-cut-core](https://crates.io/crates/pleochroma-cut-core) | 0.10.0 | 0 | Editor-core library for faceting cutting instructions: preform, tiers, undo/red… |
-| 2026-10-31 17:43:17 | [pleochroma-net](https://crates.io/crates/pleochroma-net) | 0.10.0 | 0 | Wire protocol for offloading pleochroma spectral ray samples to a remote render… |
-| 2026-10-31 17:46:28 | [hemplate-fmt](https://crates.io/crates/hemplate-fmt) | 0.1.0 | 0 | Canonical formatter for Hemplate .heml templates |
-| 2026-10-31 17:47:18 | [hwsnap](https://crates.io/crates/hwsnap) | 0.1.1 | 0 | What a Linux machine says about its own hardware: PCI topology, link state, sen… |
-| 2026-10-31 17:51:54 | [mineral-common](https://crates.io/crates/mineral-common) | 0.6.0 | 0 | 跨模块共享的基础类型 |
-| 2026-10-31 17:52:03 | [mineral-channel-apple-music](https://crates.io/crates/mineral-channel-apple-music) | 0.6.0 | 0 | Apple Music catalog and personal library source |
-| 2026-10-31 17:54:19 | [pare-cli](https://crates.io/crates/pare-cli) | 0.2.0 | 0 | Summarize noisy command output (test runs, builds, logs) to a token budget, for… |
-| 2026-10-31 17:55:18 | [yet-core](https://crates.io/crates/yet-core) | 0.1.0 | 0 | Abstract, no_std gaze-tracking essentials for yet-rs |
-| 2026-10-31 17:55:20 | [yet-stim](https://crates.io/crates/yet-stim) | 0.1.0 | 0 | Stimulus, media and presentation protocols for yet-rs (no UI framework) |
-| 2026-10-31 17:55:23 | [yet-egui](https://crates.io/crates/yet-egui) | 0.1.0 | 0 | Egui presenter, console and overlay components for yet-rs |
-| 2026-10-31 17:55:25 | [yet-zero](https://crates.io/crates/yet-zero) | 0.1.0 | 0 | Webcam-based eye-tracking experiment runner with console, presenter and gaze ov… |
-| 2026-10-31 18:06:30 | [autumn-harvest-sandbox-guest](https://crates.io/crates/autumn-harvest-sandbox-guest) | 0.8.0 | 0 | Guest agent for autumn-harvest sandbox microVMs: runs one plan per microVM over… |
-| 2026-10-31 18:06:32 | [autumn-harvest-agent](https://crates.io/crates/autumn-harvest-agent) | 0.8.0 | 0 | Durable agent loop for autumn-harvest: model and tool calls as activities, appr… |
-| 2026-10-31 18:10:25 | [fiscalclock](https://crates.io/crates/fiscalclock) | 0.1.0 | 0 | Fiscal calendar engine: compute any fiscal calendar from a JSON definition |
-| 2026-10-31 18:12:44 | [trak-search](https://crates.io/crates/trak-search) | 0.1.0 | 0 | Repository-wide text search for trak |
-| 2026-10-31 18:13:01 | [trak](https://crates.io/crates/trak) | 0.1.0 | 0 | Navigate and trace unfamiliar Rust codebases: symbols, callers, callees, call p… |
-| 2026-10-31 18:16:13 | [arc-stack](https://crates.io/crates/arc-stack) | 0.9.0 | 0 | Headless event-sourced stack assembly for Arc |
-| 2026-10-31 18:17:14 | [index-tts-rs-core](https://crates.io/crates/index-tts-rs-core) | 0.2.0 | 0 | High-performance IndexTTS-2.5 inference engine and DSP/Frontend library on Appl… |
-| 2026-10-31 18:17:17 | [index-tts-rs-director](https://crates.io/crates/index-tts-rs-director) | 0.2.0 | 0 | Validated speech controls and optional DeepSeek pacing annotation for itts |
-| 2026-10-31 18:17:19 | [index-tts-rs-service](https://crates.io/crates/index-tts-rs-service) | 0.2.0 | 0 | Transport-neutral speech job model, stable error codes, and execution for itts… |
-| 2026-10-31 18:17:20 | [index-tts-rs-cli](https://crates.io/crates/index-tts-rs-cli) | 0.2.0 | 0 | AI-Agent friendly CLI, Unix Domain Socket daemon, and MCP server for IndexTTS-2… |
-| 2026-10-31 18:17:21 | [index-tts-rs-server](https://crates.io/crates/index-tts-rs-server) | 0.2.0 | 0 | HTTP and OpenAI-compatible speech synthesis server for index-tts-rs |
-| 2026-10-31 18:17:32 | [arc-ffi](https://crates.io/crates/arc-ffi) | 0.9.0 | 0 | Async native adapter runtime and shared core registry for Arc |
+| 2026-10-31 18:19:06 | [pleochroma-dispatch](https://crates.io/crates/pleochroma-dispatch) | 0.10.0 | 0 | Sample-range scheduling for pleochroma render lanes: a shared disjoint sample c… |
+| 2026-10-31 18:19:07 | [pleochroma-render-jobs](https://crates.io/crates/pleochroma-render-jobs) | 0.10.0 | 0 | Render jobs for Pleochroma: the frozen job file (scene, material, lighting, cam… |
+| 2026-10-31 18:19:08 | [pleochroma-solid](https://crates.io/crates/pleochroma-solid) | 0.10.0 | 0 | Pure-CPU solid rasterizer and 2D faceting diagram for a design's SolidMesh: ras… |
+| 2026-10-31 18:19:09 | [pleochroma-vault](https://crates.io/crates/pleochroma-vault) | 0.10.0 | 0 | SQLite-backed storage, data models, and local import/export for gemstone faceti… |
+| 2026-10-31 18:22:21 | [acdp-mcp-proxy](https://crates.io/crates/acdp-mcp-proxy) | 0.19.0 | 0 | MCP signing proxy (RFC-ACDP-0019): relays an MCP server unchanged and publishes… |
+| 2026-10-31 18:22:59 | [surfaceant](https://crates.io/crates/surfaceant) | 0.0.0 | 0 | Placeholder reserving the name for SurfaceAnt, a relay that lets a program on y… |
+| 2026-10-31 18:23:03 | [surfaceant-client](https://crates.io/crates/surfaceant-client) | 0.0.0 | 0 | Placeholder reserving the name for SurfaceAnt, a relay that lets a program on y… |
+| 2026-10-31 18:25:14 | [keybind-find-sheet](https://crates.io/crates/keybind-find-sheet) | 0.1.0 | 0 | keybind-find's sheet types, key notation checks and plugin protocol, for plugin… |
+| 2026-10-31 18:25:26 | [keybind-find](https://crates.io/crates/keybind-find) | 1.0.0 | 0 | Search the keybindings for the focused window and run the one you pick |
+| 2026-10-31 18:26:41 | [quanto](https://crates.io/crates/quanto) | 0.1.0 | 0 | Units of measurement as arithmetic: dimensions as exponent vectors, exact ratio… |
+| 2026-10-31 18:33:05 | [miresidian_cli](https://crates.io/crates/miresidian_cli) | 0.2.1 | 0 | Miresidian 独立工具的统一进程调用入口。 |
+| 2026-10-31 18:37:44 | [preloop-gha-expressions](https://crates.io/crates/preloop-gha-expressions) | 0.1.0 | 0 | GitHub Actions expression parser and evaluator |
+| 2026-10-31 18:38:02 | [preloop-gha-authoring](https://crates.io/crates/preloop-gha-authoring) | 0.1.0 | 0 | Source-preserving GitHub Actions workflow authoring document |
+| 2026-10-31 18:38:26 | [preloop-gha-lint](https://crates.io/crates/preloop-gha-lint) | 0.1.0 | 0 | Native GitHub Actions workflow correctness lint |
+| 2026-10-31 18:38:48 | [preloop-gha-sec](https://crates.io/crates/preloop-gha-sec) | 0.1.0 | 0 | Native GitHub Actions workflow security audits |
+| 2026-10-31 18:38:56 | [plana-macros](https://crates.io/crates/plana-macros) | 0.1.52 | 0 | Shared proc macros for the plana agent runtime |
+| 2026-10-31 18:39:02 | [plana-text](https://crates.io/crates/plana-text) | 0.1.52 | 0 | LLM text accumulation and structured streaming abstractions |
+| 2026-10-31 18:39:21 | [plana-core](https://crates.io/crates/plana-core) | 0.1.52 | 0 | Foundation domain types and vocabulary for the plana agent platform |
+| 2026-10-31 18:39:29 | [plana-domain-agent](https://crates.io/crates/plana-domain-agent) | 0.1.52 | 0 | Agent type system — badge, descriptor, kind, and phantom-type markers |
+| 2026-10-31 18:39:51 | [loopt](https://crates.io/crates/loopt) | 0.1.1 | 0 | Author GitHub Actions workflows in TypeScript, Python, Go, or Rust, and generat… |
+| 2026-10-31 18:40:22 | [plana-state-sync](https://crates.io/crates/plana-state-sync) | 0.1.52 | 0 | Wire protocol and state types for the plana agent platform |
+| 2026-10-31 18:45:21 | [fs-8bit](https://crates.io/crates/fs-8bit) | 0.1.0 | 0 | Read and edit 8-bit home-computer disk filesystems: Commodore, Atari, Acorn DFS… |
+| 2026-10-31 18:45:57 | [fs-cpm](https://crates.io/crates/fs-cpm) | 0.1.0 | 0 | Read and edit CP/M 2.2 / 3.0 disk filesystems, with a catalog of machine disk d… |
+| 2026-10-31 18:46:25 | [fs-apple2](https://crates.io/crates/fs-apple2) | 0.1.0 | 0 | Apple II disk filesystems: Apple DOS 3.3, ProDOS and UCSD p-System, plus DOS/Pr… |
+| 2026-10-31 18:47:04 | [fs-qnx](https://crates.io/crates/fs-qnx) | 0.1.0 | 0 | Read QNX 4 and QNX 6 (Power-Safe) filesystems |
+| 2026-10-31 18:47:47 | [fs-xerox](https://crates.io/crates/fs-xerox) | 0.1.0 | 0 | Xerox Alto / D-machine filesystems (BFS, TFS, Pilot/Cedar) and their disk-image… |
+| 2026-10-31 18:47:58 | [plana-domain-skills-permissions](https://crates.io/crates/plana-domain-skills-permissions) | 0.1.52 | 0 | Permission and security model for agent skills and tool execution |
+| 2026-10-31 18:52:57 | [pleochroma-editor](https://crates.io/crates/pleochroma-editor) | 0.10.0 | 0 | GUI-free faceting-design editor logic shared by the desktop editor and the wasm… |
+| 2026-10-31 18:52:59 | [pleochroma-worker](https://crates.io/crates/pleochroma-worker) | 0.10.0 | 0 | Coordinator and render worker for a pleochroma-backed design catalogue. `serve`… |
+| 2026-10-31 18:53:04 | [pleochroma-cut](https://crates.io/crates/pleochroma-cut) | 0.10.0 | 0 | Desktop faceting-design editor: library browsing, spectral 3D rendering, materi… |
+| 2026-10-31 18:53:34 | [oxidian_client](https://crates.io/crates/oxidian_client) | 0.1.0 | 0 | A headless Minecraft client written in Rust, supporting protocol version 776 (M… |
+| 2026-10-31 18:56:49 | [imagoverto](https://crates.io/crates/imagoverto) | 0.1.0 | 0 | Converts still images to WebP, JPEG XL, JPEG and PNG, and reads AVIF, in pure R… |
+| 2026-10-31 18:57:07 | [mitsuami-ffi](https://crates.io/crates/mitsuami-ffi) | 0.0.1 | 0 | mitsuami over a C ABI, for bindings to other languages. A placeholder: build it… |
+| 2026-10-31 18:57:40 | [bare-kit](https://crates.io/crates/bare-kit) | 0.0.0 | 0 | Rust bindings for Bare Kit |
+| 2026-10-31 18:57:41 | [dsk-clonezilla](https://crates.io/crates/dsk-clonezilla) | 0.1.0 | 0 | Read Clonezilla backups: partclone images (zstd, gzip, bzip2, xz, lz4), image-f… |
+| 2026-10-31 18:57:49 | [bare-sidecar](https://crates.io/crates/bare-sidecar) | 0.0.0 | 0 | Start and manage Bare sidecar processes from Rust |
+| 2026-10-31 19:00:19 | [plana-prompt](https://crates.io/crates/plana-prompt) | 0.1.52 | 0 | Prompt loading, templating, and agent soul management |
+| 2026-10-31 19:01:46 | [fs-hpfs](https://crates.io/crates/fs-hpfs) | 0.1.0 | 0 | Read, edit, create and check OS/2 HPFS filesystems |
+| 2026-10-31 19:04:47 | [aitp-experimental](https://crates.io/crates/aitp-experimental) | 0.24.0 | 0 | Agent Identity & Trust Protocol: experimental surface (multi-hop delegation, Se… |
+| 2026-10-31 19:07:00 | [bemtvi](https://crates.io/crates/bemtvi) | 0.0.1 | 0 | Placeholder for the bemtvi crate of bemtvi, a modal, vim-style editor. No funct… |
+| 2026-10-31 19:07:03 | [bemtvi-core](https://crates.io/crates/bemtvi-core) | 0.0.1 | 0 | Placeholder for the bemtvi-core crate of bemtvi, a modal, vim-style editor. No… |
+| 2026-10-31 19:07:05 | [bemtvi-server](https://crates.io/crates/bemtvi-server) | 0.0.1 | 0 | Placeholder for the bemtvi-server crate of bemtvi, a modal, vim-style editor. N… |
+| 2026-10-31 19:07:08 | [bemtvi-lua](https://crates.io/crates/bemtvi-lua) | 0.0.1 | 0 | Placeholder for the bemtvi-lua crate of bemtvi, a modal, vim-style editor. No f… |
+| 2026-10-31 19:07:10 | [bemtvi-rpc](https://crates.io/crates/bemtvi-rpc) | 0.0.1 | 0 | Placeholder for the bemtvi-rpc crate of bemtvi, a modal, vim-style editor. No f… |
+| 2026-10-31 19:08:43 | [ikigai-feed](https://crates.io/crates/ikigai-feed) | 0.4.0 | 0 | RSS 2.0, RSS 1.0 and Atom lifted into one skolemized RDF graph form, as a cache… |
+| 2026-10-31 19:09:05 | [ikigai-html](https://crates.io/crates/ikigai-html) | 0.4.0 | 0 | HTML lifted into skolemized structural RDF (element, attribute, child order, te… |
+| 2026-10-31 19:09:12 | [ikigai-judge](https://crates.io/crates/ikigai-judge) | 0.1.0 | 0 | Judgments as resources for ikigai: classify items as recorded verdicts (person,… |
+| 2026-10-31 19:09:24 | [plana-domain-skills](https://crates.io/crates/plana-domain-skills) | 0.1.52 | 0 | Agent skill framework — tools, skill types, SOC executor, registry |
+| 2026-10-31 19:11:59 | [fs-adfs](https://crates.io/crates/fs-adfs) | 0.1.0 | 0 | Read, edit, create and check Acorn ADFS / FileCore filesystems (new-map E / F /… |
+| 2026-10-31 19:13:54 | [oxiviz-engine](https://crates.io/crates/oxiviz-engine) | 1.0.0 | 0 | Turns per-frame audio data into visualizer frames. No I/O. |
+| 2026-10-31 19:13:56 | [oxiviz-audio](https://crates.io/crates/oxiviz-audio) | 1.0.0 | 0 | Decodes audio with ffmpeg and turns it into per-frame spectrum and waveform dat… |
+| 2026-10-31 19:13:57 | [oxiviz](https://crates.io/crates/oxiviz) | 1.0.0 | 0 | Renders music visualizer videos. |
+| 2026-10-31 19:14:29 | [pleochroma-cli](https://crates.io/crates/pleochroma-cli) | 0.10.0 | 0 | Headless command-line tool for Pleochroma faceting designs: info, solve, metric… |
+| 2026-10-31 19:14:30 | [pleochroma-web-core](https://crates.io/crates/pleochroma-web-core) | 0.10.0 | 0 | The compute side of the pleochroma browser app with no DOM or Slint in it: the… |
+| 2026-10-31 19:17:05 | [fairlead-core](https://crates.io/crates/fairlead-core) | 0.14.0 | 0 | Config, module discovery and the plan model for Fairlead. |
+| 2026-10-31 19:17:16 | [bemtvi-tui](https://crates.io/crates/bemtvi-tui) | 0.0.1 | 0 | Placeholder for the bemtvi-tui crate of bemtvi, a modal, vim-style editor. No f… |
+| 2026-10-31 19:17:22 | [fairlead-lang](https://crates.io/crates/fairlead-lang) | 0.14.0 | 0 | Source scanning and import resolution for Fairlead. |
+| 2026-10-31 19:17:24 | [akivili-wasm-host](https://crates.io/crates/akivili-wasm-host) | 0.2.23 | 0 | Plugin fabric F1 adapter — the thin wasm_host crate over the tairitsu runtime (… |
+| 2026-10-31 19:17:32 | [fairlead-tests](https://crates.io/crates/fairlead-tests) | 0.14.0 | 0 | Test selection for Fairlead: modules, test files, owner rules and the plan. |
+| 2026-10-31 19:17:39 | [fairlead-guard](https://crates.io/crates/fairlead-guard) | 0.14.0 | 0 | Project rules checked as an agent writes, at commit and in CI, for Fairlead. |
+| 2026-10-31 19:17:46 | [fairlead-replay](https://crates.io/crates/fairlead-replay) | 0.14.0 | 0 | Replay of failed CI runs for Fairlead: fetch, extract, attribute and report. |
+| 2026-10-31 19:18:33 | [zl](https://crates.io/crates/zl) | 0.1.0 | 0 | A minimal Zettelkasten CLI for markdown notes |
 
 ## Data source
 

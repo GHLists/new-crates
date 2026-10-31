@@ -1,0 +1,63 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T18:19:06.829164Z,pleochroma-dispatch,0.10.0,0,0,https://github.com/suitable-name/pleochroma,"Sample-range scheduling for pleochroma render lanes: a shared disjoint sample cursor, per-lane rate models, a lane pool that merges chunk sums deterministically. No networking and no GUI types."
+2026-10-31T18:19:07.497924Z,pleochroma-render-jobs,0.10.0,0,0,https://github.com/suitable-name/pleochroma,"Render jobs for Pleochroma: the frozen job file (scene, material, lighting, camera and export settings) shared by the desktop render queue and the command-line renderer, the job state machine, queue…"
+2026-10-31T18:19:08.320806Z,pleochroma-solid,0.10.0,0,0,https://github.com/suitable-name/pleochroma,"Pure-CPU solid rasterizer and 2D faceting diagram for a design's SolidMesh: raster, diagram2d, facet_map, mesh_cache, edges_layer, pixel_font, and the pure replan planner. No GUI toolkit, no threads,…"
+2026-10-31T18:19:09.728311Z,pleochroma-vault,0.10.0,0,0,https://github.com/suitable-name/pleochroma,"SQLite-backed storage, data models, and local import/export for gemstone faceting design libraries."
+2026-10-31T18:22:21.247891Z,acdp-mcp-proxy,0.19.0,0,0,https://github.com/agentcontextdistributionprotocol/acdp-rs,MCP signing proxy (RFC-ACDP-0019): relays an MCP server unchanged and publishes a signed ACDP record of every tools/call
+2026-10-31T18:22:59.462652Z,surfaceant,0.0.0,0,0,https://github.com/ThinkersJournal/surfaceant,"Placeholder reserving the name for SurfaceAnt, a relay that lets a program on your machine receive webhooks and requests over one outbound connection. Not usable yet."
+2026-10-31T18:23:03.380905Z,surfaceant-client,0.0.0,0,0,https://github.com/ThinkersJournal/surfaceant,"Placeholder reserving the name for SurfaceAnt, a relay that lets a program on your machine receive webhooks and requests over one outbound connection. Not usable yet."
+2026-10-31T18:25:14.181518Z,keybind-find-sheet,0.1.0,0,0,https://github.com/Benjmhart/keybind-find,"keybind-find's sheet types, key notation checks and plugin protocol, for plugins written in Rust"
+2026-10-31T18:25:26.531661Z,keybind-find,1.0.0,0,0,https://github.com/Benjmhart/keybind-find,Search the keybindings for the focused window and run the one you pick
+2026-10-31T18:26:41.838033Z,quanto,0.1.0,0,0,https://github.com/deyanovich/quanto-rs,"Units of measurement as arithmetic: dimensions as exponent vectors, exact rational factors, unit text parsed and canonicalized over a table of packs the consumer composes"
+2026-10-31T18:33:05.745179Z,miresidian_cli,0.2.1,0,0,https://github.com/MyMires/miresidian,Miresidian 独立工具的统一进程调用入口。
+2026-10-31T18:37:44.627765Z,preloop-gha-expressions,0.1.0,0,0,https://github.com/preloopdev/loopt,GitHub Actions expression parser and evaluator
+2026-10-31T18:38:02.231365Z,preloop-gha-authoring,0.1.0,0,0,https://github.com/preloopdev/loopt,Source-preserving GitHub Actions workflow authoring document
+2026-10-31T18:38:26.481263Z,preloop-gha-lint,0.1.0,0,0,https://github.com/preloopdev/loopt,Native GitHub Actions workflow correctness lint
+2026-10-31T18:38:48.165136Z,preloop-gha-sec,0.1.0,0,0,https://github.com/preloopdev/loopt,Native GitHub Actions workflow security audits
+2026-10-31T18:38:56.039323Z,plana-macros,0.1.52,0,0,,Shared proc macros for the plana agent runtime
+2026-10-31T18:39:02.06054Z,plana-text,0.1.52,0,0,,LLM text accumulation and structured streaming abstractions
+2026-10-31T18:39:21.082154Z,plana-core,0.1.52,0,0,,Foundation domain types and vocabulary for the plana agent platform
+2026-10-31T18:39:29.861686Z,plana-domain-agent,0.1.52,0,0,,"Agent type system — badge, descriptor, kind, and phantom-type markers"
+2026-10-31T18:39:51.312239Z,loopt,0.1.1,0,0,https://github.com/preloopdev/loopt,"Author GitHub Actions workflows in TypeScript, Python, Go, or Rust, and generate standard workflow YAML from them."
+2026-10-31T18:40:22.181465Z,plana-state-sync,0.1.52,0,0,,Wire protocol and state types for the plana agent platform
+2026-10-31T18:45:21.261191Z,fs-8bit,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Read and edit 8-bit home-computer disk filesystems: Commodore, Atari, Acorn DFS, TR-DOS, CoCo/Dragon, OS-9, TI-99, Oric, ANDOS, Sinclair QL, HP LIF"
+2026-10-31T18:45:57.365703Z,fs-cpm,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Read and edit CP/M 2.2 / 3.0 disk filesystems, with a catalog of machine disk definitions"
+2026-10-31T18:46:25.954892Z,fs-apple2,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Apple II disk filesystems: Apple DOS 3.3, ProDOS and UCSD p-System, plus DOS/ProDOS sector-order handling"
+2026-10-31T18:47:04.062656Z,fs-qnx,0.1.0,0,0,https://github.com/danifunker/rusty-backup,Read QNX 4 and QNX 6 (Power-Safe) filesystems
+2026-10-31T18:47:47.349156Z,fs-xerox,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Xerox Alto / D-machine filesystems (BFS, TFS, Pilot/Cedar) and their disk-image containers"
+2026-10-31T18:47:58.887035Z,plana-domain-skills-permissions,0.1.52,0,0,,Permission and security model for agent skills and tool execution
+2026-10-31T18:52:57.269915Z,pleochroma-editor,0.10.0,0,0,https://github.com/suitable-name/pleochroma,"GUI-free faceting-design editor logic shared by the desktop editor and the wasm web app: the EditorSession (design, undo/redo with caller-supplied coalescing timestamps, selection, dirty tracking), t…"
+2026-10-31T18:52:59.30669Z,pleochroma-worker,0.10.0,0,0,https://github.com/suitable-name/pleochroma,Coordinator and render worker for a pleochroma-backed design catalogue. `serve` (default build) is the coordinator: it serves pleochroma-net's read-only design-library protocol to viewers over mutual…
+2026-10-31T18:53:04.715804Z,pleochroma-cut,0.10.0,0,0,https://github.com/suitable-name/pleochroma,"Desktop faceting-design editor: library browsing, spectral 3D rendering, material retargeting, and a solid inspection view."
+2026-10-31T18:53:34.053232Z,oxidian_client,0.1.0,0,0,https://github.com/Str-F/Oxidian-Client,"A headless Minecraft client written in Rust, supporting protocol version 776 (Minecraft 26.2)"
+2026-10-31T18:56:49.700288Z,imagoverto,0.1.0,0,0,https://github.com/veripublica/imagoverto,"Converts still images to WebP, JPEG XL, JPEG and PNG, and reads AVIF, in pure Rust."
+2026-10-31T18:57:07.284192Z,mitsuami-ffi,0.0.1,0,0,https://github.com/Roboport-Tecnologia/mitsuami,"mitsuami over a C ABI, for bindings to other languages. A placeholder: build it from the repository until its ABI settles."
+2026-10-31T18:57:40.2969Z,bare-kit,0.0.0,0,0,https://github.com/holepunchto/bare-kit-rust,Rust bindings for Bare Kit
+2026-10-31T18:57:41.699217Z,dsk-clonezilla,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Read Clonezilla backups: partclone images (zstd, gzip, bzip2, xz, lz4), image-folder metadata and a block cache"
+2026-10-31T18:57:49.343149Z,bare-sidecar,0.0.0,0,0,https://github.com/holepunchto/bare-sidecar-rust,Start and manage Bare sidecar processes from Rust
+2026-10-31T19:00:19.978023Z,plana-prompt,0.1.52,0,0,,"Prompt loading, templating, and agent soul management"
+2026-10-31T19:01:46.589689Z,fs-hpfs,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Read, edit, create and check OS/2 HPFS filesystems"
+2026-10-31T19:04:47.79028Z,aitp-experimental,0.24.0,0,0,https://github.com/agentidentitytrustprotocol/aitp-rs,"Agent Identity & Trust Protocol: experimental surface (multi-hop delegation, Session Trust Bundles, TCT renewal, SPIFFE identity). No stability promise."
+2026-10-31T19:07:00.916697Z,bemtvi,0.0.1,0,0,https://github.com/bemtvi/bemtvi,"Placeholder for the bemtvi crate of bemtvi, a modal, vim-style editor. No functionality yet."
+2026-10-31T19:07:03.332488Z,bemtvi-core,0.0.1,0,0,https://github.com/bemtvi/bemtvi,"Placeholder for the bemtvi-core crate of bemtvi, a modal, vim-style editor. No functionality yet."
+2026-10-31T19:07:05.742737Z,bemtvi-server,0.0.1,0,0,https://github.com/bemtvi/bemtvi,"Placeholder for the bemtvi-server crate of bemtvi, a modal, vim-style editor. No functionality yet."
+2026-10-31T19:07:08.183806Z,bemtvi-lua,0.0.1,0,0,https://github.com/bemtvi/bemtvi,"Placeholder for the bemtvi-lua crate of bemtvi, a modal, vim-style editor. No functionality yet."
+2026-10-31T19:07:10.766198Z,bemtvi-rpc,0.0.1,0,0,https://github.com/bemtvi/bemtvi,"Placeholder for the bemtvi-rpc crate of bemtvi, a modal, vim-style editor. No functionality yet."
+2026-10-31T19:08:43.555311Z,ikigai-feed,0.4.0,0,0,https://github.com/ikigai-rs/ikigai-linkeddata,"RSS 2.0, RSS 1.0 and Atom lifted into one skolemized RDF graph form, as a cacheable ikigai resource"
+2026-10-31T19:09:05.349207Z,ikigai-html,0.4.0,0,0,https://github.com/ikigai-rs/ikigai-linkeddata,"HTML lifted into skolemized structural RDF (element, attribute, child order, text), as a cacheable ikigai resource"
+2026-10-31T19:09:12.734934Z,ikigai-judge,0.1.0,0,0,https://github.com/ikigai-rs/ikigai-judge,"Judgments as resources for ikigai: classify items as recorded verdicts (person, mapping, model, bayes, pending), with a disagreement signal and correction as the resolution."
+2026-10-31T19:09:24.267874Z,plana-domain-skills,0.1.52,0,0,,"Agent skill framework — tools, skill types, SOC executor, registry"
+2026-10-31T19:11:59.077696Z,fs-adfs,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Read, edit, create and check Acorn ADFS / FileCore filesystems (new-map E / F / HD formats, old-map D format)"
+2026-10-31T19:13:54.641159Z,oxiviz-engine,1.0.0,0,0,https://github.com/daanvangeloven/oxiviz,Turns per-frame audio data into visualizer frames. No I/O.
+2026-10-31T19:13:56.370597Z,oxiviz-audio,1.0.0,0,0,https://github.com/daanvangeloven/oxiviz,Decodes audio with ffmpeg and turns it into per-frame spectrum and waveform data.
+2026-10-31T19:13:57.896955Z,oxiviz,1.0.0,0,0,https://github.com/daanvangeloven/oxiviz,Renders music visualizer videos.
+2026-10-31T19:14:29.368252Z,pleochroma-cli,0.10.0,0,0,https://github.com/suitable-name/pleochroma,"Headless command-line tool for Pleochroma faceting designs: info, solve, metrics, validate, optimize, retarget, sweep and export from scripts, with no window. Reads .psdd, .asc, .gem and .gcs; uses t…"
+2026-10-31T19:14:30.488828Z,pleochroma-web-core,0.10.0,0,0,https://github.com/suitable-name/pleochroma,"The compute side of the pleochroma browser app with no DOM or Slint in it: the Web Worker protocol, the scene spec that builds the desktop's exact render scene, the CPU chunk tracer, pass accumulatio…"
+2026-10-31T19:17:05.860635Z,fairlead-core,0.14.0,0,0,https://github.com/mahkassem/fairlead,"Config, module discovery and the plan model for Fairlead."
+2026-10-31T19:17:16.053933Z,bemtvi-tui,0.0.1,0,0,https://github.com/bemtvi/bemtvi,"Placeholder for the bemtvi-tui crate of bemtvi, a modal, vim-style editor. No functionality yet."
+2026-10-31T19:17:22.44525Z,fairlead-lang,0.14.0,0,0,https://github.com/mahkassem/fairlead,Source scanning and import resolution for Fairlead.
+2026-10-31T19:17:24.303717Z,akivili-wasm-host,0.2.23,0,0,https://github.com/celestia-island/akivili,Plugin fabric F1 adapter — the thin wasm_host crate over the tairitsu runtime (feature-gated; core akivili stays tairitsu-free)
+2026-10-31T19:17:32.821012Z,fairlead-tests,0.14.0,0,0,https://github.com/mahkassem/fairlead,"Test selection for Fairlead: modules, test files, owner rules and the plan."
+2026-10-31T19:17:39.42249Z,fairlead-guard,0.14.0,0,0,https://github.com/mahkassem/fairlead,"Project rules checked as an agent writes, at commit and in CI, for Fairlead."
+2026-10-31T19:17:46.558002Z,fairlead-replay,0.14.0,0,0,https://github.com/mahkassem/fairlead,"Replay of failed CI runs for Fairlead: fetch, extract, attribute and report."
+2026-10-31T19:18:33.720526Z,zl,0.1.0,0,0,https://github.com/peri4n/zl,A minimal Zettelkasten CLI for markdown notes
