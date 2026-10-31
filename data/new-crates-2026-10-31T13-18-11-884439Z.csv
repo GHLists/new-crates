@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T12:21:05.655851Z,evento-turso,2.0.0-alpha.37,0,0,https://github.com/timayz/evento,"Turso (in-process, async SQLite) executor and accord journal for the evento event sourcing library"
+2026-10-31T12:29:20.578934Z,ic-wire-endpoint,0.1.0,0,0,https://github.com/dragginzgame/ic-wire,Typed IC Platform entrypoints for IC Wire contracts
+2026-10-31T12:33:09.987262Z,feather-chart-file,0.1.0,0,0,https://github.com/nimanoori22/feather-charts,Headless versioned Feather Charts JSON documents
+2026-10-31T12:33:13.216172Z,feather-charts-app,0.1.0,0,0,https://github.com/nimanoori22/feather-charts,Native viewer for self-contained .fchart documents
+2026-10-31T12:42:07.369469Z,gunnar-ui,1.6.0,0,0,https://git.gunnar.rs/nordisk/gunnar-ui,"Gunnar's web console: `cargo install gunnar-ui`, point it at a Gunnar with GUNNAR_UI_CONTROL, open http://localhost:3210/login and sign in with a passkey. The console bundle is built in."
+2026-10-31T12:42:42.564602Z,dogma-fs,0.3.1,0,0,https://github.com/dogmatists/dogma.rs,Filesystem operations for Dogma paths.
+2026-10-31T12:46:24.163186Z,auric-types,0.2.5,0,0,https://gitlab.com/megalithic-llc/auric-spa/auric.git,Types shared by the crates of the Ember-inspired Auric SPA framework
+2026-10-31T12:48:41.864594Z,fetchall,1.1.0,0,0,https://github.com/MadAvidCoder/fetchall,"A neofetch inspired system information tool, which compiles information from different sources."
+2026-10-31T12:49:58.961686Z,loredex-core,0.1.0,0,0,https://github.com/zkz098/loredex,"Loredex data model: evidence-backed wiki pages, citation syntax, tokenizer"
+2026-10-31T12:50:12.461026Z,loredex-git,0.1.0,0,0,https://github.com/zkz098/loredex,Read-only git evidence layer for Loredex (libgit2 bindings)
+2026-10-31T12:50:16.319329Z,loredex-engine,0.1.0,0,0,https://github.com/zkz098/loredex,"Loredex engine: freshness checks, snippet verification, drift projection, plans"
+2026-10-31T12:50:24.169275Z,zopra-charts,0.1.0,0,0,,Charts for zopra
+2026-10-31T12:50:29.796704Z,loredex-cli,0.1.0,0,0,https://github.com/zkz098/loredex,Loredex CLI: maintain an evidence-backed repository wiki
+2026-10-31T12:50:33.371703Z,loredex-mcp,0.1.0,0,0,https://github.com/zkz098/loredex,Loredex MCP server: serve an evidence-backed repository wiki to agents
+2026-10-31T12:53:58.772738Z,oxide-cms,0.0.1,0,0,https://github.com/tiborsaas/oxide-cms,"An embeddable, headless Content Management System library for Rust applications built on Axum and SQLite."
+2026-10-31T12:57:23.657548Z,loxone-config,0.3.0,0,0,https://github.com/discostu105/lox,"The Loxone Config program file as a library — lossless .Loxone model, UUIDs, backup ZIPs, semantic diff — and Lox Logic, a text language compiled into it (compile/decompile/adopt, lockfile, simulated…"
+2026-10-31T12:58:36.834485Z,blueprintreview,0.0.1,0,0,,"BlueprintReview: the Blueprint viewer and diff for Unreal Engine, no editor needed. This crate only points to the download; the tool ships as a Windows installer."
+2026-10-31T13:04:02.071592Z,tundish,0.1.0,0,0,https://github.com/cjohnhanson/tundish,A local inbox that agents subscribe to
+2026-10-31T13:07:27.123086Z,tiny-dlna,0.13.0,0,0,https://github.com/mitnk/tiny-dlna,A tiny DLNA sender & receiver
+2026-10-31T13:08:13.322841Z,memfisto,0.0.1,0,0,,Reserved for Memfisto — https://memfisto.com
+2026-10-31T13:15:55.80395Z,omnisan,0.1.0,0,0,https://github.com/omium-framework,RustBridge developer CLI (Omnisan — Laravel Artisan-style workflow for Omium apps)
