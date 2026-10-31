@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T14:19:51.243912Z,incurs-workflows,0.1.0,0,0,https://github.com/douglance/incurs,Durable Code Mode workflows attached to incurs CLIs as first-party commands
+2026-10-31T14:20:05.99433Z,idiomatic-sh-ryo-html,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,HTML language provider for Ryo
+2026-10-31T14:30:06.884423Z,idiomatic-sh-ryo-javascript,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,JavaScript language provider for Ryo
+2026-10-31T14:32:03.421624Z,downorwhat,0.0.1-alpha.0,0,0,https://github.com/downorwhat/downorwhat,DownOrWhat Rust SDK & CLI (placeholder)
+2026-10-31T14:33:44.238701Z,behindaflag,0.0.1-alpha.0,0,0,https://github.com/behindaflag/behindaflag,BehindAFlag Rust SDK & CLI (placeholder)
+2026-10-31T14:34:01.064915Z,facturx,0.1.0,0,0,https://github.com/ynss/facturx,Factur-X for the French e-invoicing reform.
+2026-10-31T14:39:05.067471Z,ontomark-source,0.1.0,0,0,https://github.com/DreamLab-AI/ontomark,"The Source port for Ontomark ingest: local files and (behind a feature) URLs rendered to versioned text, with ledger-based change classification"
+2026-10-31T14:39:52.71215Z,dynamic-color,0.1.0,0,0,,Lightweight cross-platform access to dynamic system accent colors and Material 3 palettes
+2026-10-31T14:40:05.167052Z,idiomatic-sh-ryo-json,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,JSON and JSON with comments language provider for Ryo
+2026-10-31T14:43:30.788268Z,grana-volume,0.1.1,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-10-31T14:44:26.107007Z,grana-gpu,0.1.1,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-10-31T14:44:34.636355Z,grana-object,0.1.1,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-10-31T14:45:04.103621Z,grana-video,0.1.1,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-10-31T14:46:10.726512Z,grana-zarr,0.1.1,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-10-31T14:50:05.859835Z,idiomatic-sh-ryo-markdown,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,Markdown language provider for Ryo
+2026-10-31T14:50:23.072212Z,tamil-core,0.1.0-alpha.1,0,0,https://github.com/abishtakan/tamil-toolkit,"Tamil Unicode primitives, driven by declarative tables"
+2026-10-31T14:51:12.624575Z,tamil-norm,0.1.0-alpha.1,0,0,https://github.com/abishtakan/tamil-toolkit,Shared normalization facade for SDKs and future PostgreSQL integration
+2026-10-31T14:51:58.082675Z,tamil-collate,0.1.0-alpha.1,0,0,https://github.com/abishtakan/tamil-toolkit,Agara Varisai collation and search keys
+2026-10-31T14:52:10.016202Z,grana-render,0.1.1,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-10-31T14:52:36.104234Z,tamil-numerals,0.1.0-alpha.1,0,0,https://github.com/abishtakan/tamil-toolkit,"Tamil numerals, fractions, dates, and LKR/INR currencies"
+2026-10-31T14:53:29.283004Z,tamil-codec,0.1.0-alpha.1,0,0,https://github.com/abishtakan/tamil-toolkit,Versioned legacy encodings and orthography conversion
+2026-10-31T15:00:07.051351Z,idiomatic-sh-ryo-python,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,Python language provider for Ryo
+2026-10-31T15:01:02.941183Z,tamil-toolkit,0.1.0-alpha.1,0,0,https://github.com/abishtakan/tamil-toolkit,Unified Tamil linguistic toolkit and shared FFI dispatcher
+2026-10-31T15:02:53.141918Z,grana-measure,0.1.1,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-10-31T15:10:07.907271Z,idiomatic-sh-ryo-rust,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,Rust language provider for Ryo
+2026-10-31T15:12:53.994675Z,grana-analysis,0.1.1,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-10-31T15:14:21.925799Z,manifold-frame,0.1.0,0,0,https://github.com/bageera/manifold-frame,"MNFX: a versioned lossless image container wrapping Manifold compression streams (alpha, 16-bit, metadata, orientation)"
+2026-10-31T15:15:06.899258Z,esp-dmx,0.1.0,0,0,https://github.com/Drummer08/esp_dmx,DMX512 transmitter for ESP microcontrollers using esp-hal
+2026-10-31T15:15:15.533717Z,release-flow,0.1.0,0,0,https://github.com/nbari/release-flow,Read-only release inspection and a reference for independently recoverable release pipelines

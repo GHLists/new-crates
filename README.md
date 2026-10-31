@@ -8,50 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 14:18 UTC
+## Latest list — 2026-10-31 15:18 UTC
 
-New crates published between 2026-10-31 13:18 UTC and 2026-10-31 14:18 UTC.
+New crates published between 2026-10-31 14:18 UTC and 2026-10-31 15:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-31T14-18-18-798892Z.csv)
+[Full CSV](data/new-crates-2026-10-31T15-18-19-095938Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-31 13:21:39 | [cgm](https://crates.io/crates/cgm) | 0.1.5 | 0 | Convenient GPU Manager |
-| 2026-10-31 13:26:50 | [context-kernel-core](https://crates.io/crates/context-kernel-core) | 0.1.0 | 0 | Core domain types and ports for Context Kernel |
-| 2026-10-31 13:26:52 | [context-kernel-config](https://crates.io/crates/context-kernel-config) | 0.1.0 | 0 | Configuration model and per-user data directory rules for Context Kernel |
-| 2026-10-31 13:26:55 | [context-kernel-memory](https://crates.io/crates/context-kernel-memory) | 0.1.0 | 0 | Memory domain model for Context Kernel |
-| 2026-10-31 13:26:57 | [context-kernel-observability](https://crates.io/crates/context-kernel-observability) | 0.1.0 | 0 | Structured logging setup for Context Kernel |
-| 2026-10-31 13:27:01 | [context-kernel-artifacts](https://crates.io/crates/context-kernel-artifacts) | 0.1.0 | 0 | Artifact storage and provenance for Context Kernel |
-| 2026-10-31 13:27:11 | [lunixi](https://crates.io/crates/lunixi) | 0.1.1 | 0 | Server-side Lunixi payment APIs, Ed25519 authentication and verified webhooks |
-| 2026-10-31 13:33:16 | [olly](https://crates.io/crates/olly) | 0.1.1 | 0 | Observability presets for Rust applications (part of the Bitkit ecosystem) |
-| 2026-10-31 13:36:03 | [nocentraldb](https://crates.io/crates/nocentraldb) | 0.0.0 | 0 | Placeholder for NoCentralDB. Reserved by the NoCentralDB project; contains no f… |
-| 2026-10-31 13:36:06 | [ncdb-core](https://crates.io/crates/ncdb-core) | 0.0.0 | 0 | Placeholder for NoCentralDB. Reserved by the NoCentralDB project; contains no f… |
-| 2026-10-31 13:36:09 | [ncdb](https://crates.io/crates/ncdb) | 0.0.0 | 0 | Placeholder for NoCentralDB. Reserved by the NoCentralDB project; contains no f… |
-| 2026-10-31 13:38:05 | [context-kernel-ranker](https://crates.io/crates/context-kernel-ranker) | 0.1.0 | 0 | Ranking policy for Context Kernel retrieval |
-| 2026-10-31 13:39:08 | [omium-core](https://crates.io/crates/omium-core) | 0.1.2 | 0 | Framework-independent primitives, errors, and configuration contracts |
-| 2026-10-31 13:39:13 | [jj-resolve](https://crates.io/crates/jj-resolve) | 0.1.0 | 0 | Augment the jj resolve experience |
-| 2026-10-31 13:39:31 | [omium-view](https://crates.io/crates/omium-view) | 0.1.2 | 0 | Server-rendered views using Askama |
-| 2026-10-31 13:39:43 | [omium-http](https://crates.io/crates/omium-http) | 0.1.2 | 0 | Axum integration, routing, extractors, and HTTP response abstractions |
-| 2026-10-31 13:40:02 | [omium-db](https://crates.io/crates/omium-db) | 0.1.2 | 0 | SeaORM integration, connection configuration, and repository conventions |
-| 2026-10-31 13:40:15 | [omium-inertia](https://crates.io/crates/omium-inertia) | 0.1.2 | 0 | Inertia protocol integration for Vue/React modes |
-| 2026-10-31 13:47:45 | [studiole-orbit](https://crates.io/crates/studiole-orbit) | 0.1.0 | 0 | Extends `docker compose up` and `run` to deploy local config files and sops-enc… |
-| 2026-10-31 13:48:44 | [omium-cli](https://crates.io/crates/omium-cli) | 0.1.2 | 0 | CLI library, project generator, and development commands (omnisan binary) |
-| 2026-10-31 13:49:49 | [idiomatic-sh-ryo-language](https://crates.io/crates/idiomatic-sh-ryo-language) | 0.1.0 | 0 | Independent language provider contracts for Ryo |
-| 2026-10-31 13:49:52 | [idiomatic-sh-ryo-values](https://crates.io/crates/idiomatic-sh-ryo-values) | 0.1.0 | 0 | Shared source query value types for Ryo |
-| 2026-10-31 13:49:57 | [idiomatic-sh-ryo-query_language](https://crates.io/crates/idiomatic-sh-ryo-query_language) | 0.1.0 | 0 | RyoQL parsing and planning for source queries |
-| 2026-10-31 13:50:07 | [idiomatic-sh-ryo-core](https://crates.io/crates/idiomatic-sh-ryo-core) | 0.1.0 | 0 | Source query execution services for Ryo |
-| 2026-10-31 13:50:15 | [idiomatic-sh-ryo-sdk](https://crates.io/crates/idiomatic-sh-ryo-sdk) | 0.1.0 | 0 | Embed Ryo source queries with independent language providers |
-| 2026-10-31 13:52:12 | [deepdeck-core](https://crates.io/crates/deepdeck-core) | 0.2.0 | 0 | Event log, hook parsing and board fold for DeepDeck. |
-| 2026-10-31 13:52:25 | [deepdeck](https://crates.io/crates/deepdeck) | 0.2.0 | 0 | A terminal task board for people running several AI coding agents at once. |
-| 2026-10-31 13:56:02 | [psn-codec](https://crates.io/crates/psn-codec) | 0.1.0 | 0 | Bounded binary ticket decoding with explicit unverified claims |
-| 2026-10-31 14:00:05 | [idiomatic-sh-ryo-css](https://crates.io/crates/idiomatic-sh-ryo-css) | 0.1.0 | 0 | CSS language provider for Ryo |
-| 2026-10-31 14:02:35 | [debrief-follow](https://crates.io/crates/debrief-follow) | 0.6.5 | 0 | Editor cursor following over Unix sockets, shared by debrief and ramble |
-| 2026-10-31 14:03:18 | [quarb-lib-graph](https://crates.io/crates/quarb-lib-graph) | 0.45.0 | 0 | The graph algorithms behind Quarb's graph: command library and the web level's… |
-| 2026-10-31 14:04:59 | [cratestack-webtransport](https://crates.io/crates/cratestack-webtransport) | 0.17.1 | 0 | Rust-native schema-first framework for typed HTTP APIs, generated clients, and… |
-| 2026-10-31 14:08:14 | [heifer-cli](https://crates.io/crates/heifer-cli) | 0.3.1 | 0 | Convert HEIC/HEIF photos to and from PNG, JPEG and WebP, in pure Rust |
-| 2026-10-31 14:09:00 | [cratestack-auth-conformance](https://crates.io/crates/cratestack-auth-conformance) | 0.17.1 | 0 | The AuthProvider conformance kit (ADR 0021 §6): drives one provider through eve… |
-| 2026-10-31 14:10:02 | [idiomatic-sh-ryo-go](https://crates.io/crates/idiomatic-sh-ryo-go) | 0.1.0 | 0 | Go language provider for Ryo |
-| 2026-10-31 14:13:58 | [tcpdoc](https://crates.io/crates/tcpdoc) | 0.1.0 | 0 | Explains why TCP connections in a packet capture were slow: receiver window, ne… |
+| 2026-10-31 14:19:51 | [incurs-workflows](https://crates.io/crates/incurs-workflows) | 0.1.0 | 0 | Durable Code Mode workflows attached to incurs CLIs as first-party commands |
+| 2026-10-31 14:20:05 | [idiomatic-sh-ryo-html](https://crates.io/crates/idiomatic-sh-ryo-html) | 0.1.0 | 0 | HTML language provider for Ryo |
+| 2026-10-31 14:30:06 | [idiomatic-sh-ryo-javascript](https://crates.io/crates/idiomatic-sh-ryo-javascript) | 0.1.0 | 0 | JavaScript language provider for Ryo |
+| 2026-10-31 14:32:03 | [downorwhat](https://crates.io/crates/downorwhat) | 0.0.1-alpha.0 | 0 | DownOrWhat Rust SDK & CLI (placeholder) |
+| 2026-10-31 14:33:44 | [behindaflag](https://crates.io/crates/behindaflag) | 0.0.1-alpha.0 | 0 | BehindAFlag Rust SDK & CLI (placeholder) |
+| 2026-10-31 14:34:01 | [facturx](https://crates.io/crates/facturx) | 0.1.0 | 0 | Factur-X for the French e-invoicing reform. |
+| 2026-10-31 14:39:05 | [ontomark-source](https://crates.io/crates/ontomark-source) | 0.1.0 | 0 | The Source port for Ontomark ingest: local files and (behind a feature) URLs re… |
+| 2026-10-31 14:39:52 | [dynamic-color](https://crates.io/crates/dynamic-color) | 0.1.0 | 0 | Lightweight cross-platform access to dynamic system accent colors and Material… |
+| 2026-10-31 14:40:05 | [idiomatic-sh-ryo-json](https://crates.io/crates/idiomatic-sh-ryo-json) | 0.1.0 | 0 | JSON and JSON with comments language provider for Ryo |
+| 2026-10-31 14:43:30 | [grana-volume](https://crates.io/crates/grana-volume) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-10-31 14:44:26 | [grana-gpu](https://crates.io/crates/grana-gpu) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-10-31 14:44:34 | [grana-object](https://crates.io/crates/grana-object) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-10-31 14:45:04 | [grana-video](https://crates.io/crates/grana-video) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-10-31 14:46:10 | [grana-zarr](https://crates.io/crates/grana-zarr) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-10-31 14:50:05 | [idiomatic-sh-ryo-markdown](https://crates.io/crates/idiomatic-sh-ryo-markdown) | 0.1.0 | 0 | Markdown language provider for Ryo |
+| 2026-10-31 14:50:23 | [tamil-core](https://crates.io/crates/tamil-core) | 0.1.0-alpha.1 | 0 | Tamil Unicode primitives, driven by declarative tables |
+| 2026-10-31 14:51:12 | [tamil-norm](https://crates.io/crates/tamil-norm) | 0.1.0-alpha.1 | 0 | Shared normalization facade for SDKs and future PostgreSQL integration |
+| 2026-10-31 14:51:58 | [tamil-collate](https://crates.io/crates/tamil-collate) | 0.1.0-alpha.1 | 0 | Agara Varisai collation and search keys |
+| 2026-10-31 14:52:10 | [grana-render](https://crates.io/crates/grana-render) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-10-31 14:52:36 | [tamil-numerals](https://crates.io/crates/tamil-numerals) | 0.1.0-alpha.1 | 0 | Tamil numerals, fractions, dates, and LKR/INR currencies |
+| 2026-10-31 14:53:29 | [tamil-codec](https://crates.io/crates/tamil-codec) | 0.1.0-alpha.1 | 0 | Versioned legacy encodings and orthography conversion |
+| 2026-10-31 15:00:07 | [idiomatic-sh-ryo-python](https://crates.io/crates/idiomatic-sh-ryo-python) | 0.1.0 | 0 | Python language provider for Ryo |
+| 2026-10-31 15:01:02 | [tamil-toolkit](https://crates.io/crates/tamil-toolkit) | 0.1.0-alpha.1 | 0 | Unified Tamil linguistic toolkit and shared FFI dispatcher |
+| 2026-10-31 15:02:53 | [grana-measure](https://crates.io/crates/grana-measure) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-10-31 15:10:07 | [idiomatic-sh-ryo-rust](https://crates.io/crates/idiomatic-sh-ryo-rust) | 0.1.0 | 0 | Rust language provider for Ryo |
+| 2026-10-31 15:12:53 | [grana-analysis](https://crates.io/crates/grana-analysis) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-10-31 15:14:21 | [manifold-frame](https://crates.io/crates/manifold-frame) | 0.1.0 | 0 | MNFX: a versioned lossless image container wrapping Manifold compression stream… |
+| 2026-10-31 15:15:06 | [esp-dmx](https://crates.io/crates/esp-dmx) | 0.1.0 | 0 | DMX512 transmitter for ESP microcontrollers using esp-hal |
+| 2026-10-31 15:15:15 | [release-flow](https://crates.io/crates/release-flow) | 0.1.0 | 0 | Read-only release inspection and a reference for independently recoverable rele… |
 
 ## Data source
 
