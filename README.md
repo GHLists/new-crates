@@ -8,57 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 23:21 UTC
+## Latest list — 2026-10-31 00:20 UTC
 
-New crates published between 2026-10-30 22:18 UTC and 2026-10-30 23:21 UTC.
+New crates published between 2026-10-30 23:21 UTC and 2026-10-31 00:20 UTC.
 
-[Full CSV](data/new-crates-2026-10-30T23-21-20-477464Z.csv)
+[Full CSV](data/new-crates-2026-10-31T00-20-11-938687Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-30 22:18:28 | [southstar-platform](https://crates.io/crates/southstar-platform) | 1.0.5 | 0 | Southstar's platform layer: GLib, cairo, SQLite, configuration, sandboxing, IPC… |
-| 2026-10-30 22:18:46 | [bun-emu-host-sys](https://crates.io/crates/bun-emu-host-sys) | 0.1.0 | 0 | Raw bindings (bindgen, runtime-loaded) to the Bun OS emulator host C ABI (packa… |
-| 2026-10-30 22:21:00 | [pipeline-analyzer](https://crates.io/crates/pipeline-analyzer) | 0.4.0 | 0 | TUI for analyzing GitLab CI/CD pipeline metrics |
-| 2026-10-30 22:22:25 | [sparse-dist](https://crates.io/crates/sparse-dist) | 0.1.0 | 0 | Sparse distributed linear algebra library with iterative solvers |
-| 2026-10-30 22:23:21 | [alkssh](https://crates.io/crates/alkssh) | 0.1.0 | 0 | SSH adapter for the alk family: russh-wrapped vanilla-ssh termination bridged t… |
-| 2026-10-30 22:24:12 | [kickass-core](https://crates.io/crates/kickass-core) | 0.1.3 | 0 | Shared conversion between ASS and ProtonPhoton formats for the Kickass laser sh… |
-| 2026-10-30 22:25:04 | [rply-codec](https://crates.io/crates/rply-codec) | 0.1.2 | 0 | Encoder, decoder, and swiss army knife for retroarch emulator replays. |
-| 2026-10-30 22:28:27 | [southstar-audio-helper](https://crates.io/crates/southstar-audio-helper) | 1.0.5 | 0 | Southstar's audio helper process: decodes media audio and plays it through SDL2 |
-| 2026-10-30 22:28:45 | [bun-emu-host](https://crates.io/crates/bun-emu-host) | 0.1.0 | 0 | Safe Rust API over the Bun OS emulator host: melonDS, Dolphin, Azahar and Kyty… |
-| 2026-10-30 22:30:37 | [osmnxr-core](https://crates.io/crates/osmnxr-core) | 0.1.0 | 0 | Street-network graph algorithms (routing, Pareto and constrained paths, central… |
-| 2026-10-30 22:32:10 | [todo-unearther](https://crates.io/crates/todo-unearther) | 0.1.1 | 0 | Fast TODO discovery, flexible reports, and optional GitHub and Git enrichment |
-| 2026-10-30 22:33:00 | [vulkane-slang-emit](https://crates.io/crates/vulkane-slang-emit) | 0.16.10 | 0 | The Slang compute-shader emitter for Unpopped: IR to Slang source, with HLSL ov… |
-| 2026-10-30 22:38:08 | [rootstock](https://crates.io/crates/rootstock) | 0.1.0 | 0 | Create a project from a versioned git template and update it with a three-way m… |
-| 2026-10-30 22:38:25 | [southstar-html5](https://crates.io/crates/southstar-html5) | 1.0.5 | 0 | Southstar's HTML5 parser: a WHATWG tokenizer and tree builder that builds throu… |
-| 2026-10-30 22:38:46 | [bunos-wsl-core](https://crates.io/crates/bunos-wsl-core) | 1.4.7 | 0 | wsl.exe output parsing and types for the Bun OS WSL manager (fixture-tested, pl… |
-| 2026-10-30 22:40:38 | [mcp-gmap-rs](https://crates.io/crates/mcp-gmap-rs) | 0.1.1 | 0 | Standalone Google Maps CLI and MCP server with stdio and Streamable HTTP transp… |
-| 2026-10-30 22:48:25 | [southstar-url](https://crates.io/crates/southstar-url) | 1.0.5 | 0 | Southstar's WHATWG URL parser: parsing against a base, the host parser with UTS… |
-| 2026-10-30 22:48:51 | [deckcraft-engine](https://crates.io/crates/deckcraft-engine) | 0.6.1 | 0 | DeckCraft engine: sessions, undo history, selection, the command registry every… |
-| 2026-10-30 22:54:26 | [jouet-graph](https://crates.io/crates/jouet-graph) | 0.0.0 | 0 | Reserved. |
-| 2026-10-30 22:57:01 | [bevy_emerge_solver](https://crates.io/crates/bevy_emerge_solver) | 0.1.0 | 0 | A Boolean satisfiability back-end that answers the same way every run, on every… |
-| 2026-10-30 22:57:39 | [bitview_http](https://crates.io/crates/bitview_http) | 0.13.0 | 0 | Conditional-request helpers shared by Bitview's HTTP servers |
-| 2026-10-30 22:58:28 | [southstar-dom](https://crates.io/crates/southstar-dom) | 1.0.5 | 0 | Southstar's DOM, its HTML and XML tree builders and HTML utilities |
-| 2026-10-30 22:58:46 | [deckcraft-mcp](https://crates.io/crates/deckcraft-mcp) | 0.6.1 | 0 | DeckCraft MCP server: JSON-RPC 2.0 over stdio, driving a running app or a headl… |
-| 2026-10-30 23:07:09 | [tunnr-nvme](https://crates.io/crates/tunnr-nvme) | 0.1.0 | 0 | A userspace NVMe driver over VFIO, from vroom: admin and I/O queues polled from… |
-| 2026-10-30 23:08:25 | [southstar-unicode](https://crates.io/crates/southstar-unicode) | 1.0.5 | 0 | Southstar's Unicode support: character properties for text layout and the Unico… |
-| 2026-10-30 23:08:27 | [bevy_emerge_core](https://crates.io/crates/bevy_emerge_core) | 0.1.0 | 0 | Engine-free world-building core: constraint IR, solvers, WFC, deterministic RNG. |
-| 2026-10-30 23:08:37 | [bevy_emerge_snip](https://crates.io/crates/bevy_emerge_snip) | 0.1.0 | 0 | Cutting one rectangle out of a PNG of the bevy_emerge editor, shared by the edi… |
-| 2026-10-30 23:08:53 | [deckcraft-ui-egui](https://crates.io/crates/deckcraft-ui-egui) | 0.6.1 | 0 | DeckCraft egui frontend (PowerPoint-style UI); swappable — nothing below depend… |
-| 2026-10-30 23:09:44 | [badterm-core](https://crates.io/crates/badterm-core) | 0.1.17 | 0 | Terminal emulation, telnet protocol and dialing directory for the BadTerm BBS c… |
-| 2026-10-30 23:09:57 | [badterm](https://crates.io/crates/badterm) | 0.1.17 | 0 | A cross-platform ANSI-BBS telnet client |
-| 2026-10-30 23:10:00 | [planeter-client](https://crates.io/crates/planeter-client) | 0.5.0 | 0 | A person's own prikk, talking to a planeter forge: clone, fetch and propose, ov… |
-| 2026-10-30 23:10:32 | [rs-sql-ident-checker](https://crates.io/crates/rs-sql-ident-checker) | 0.1.0 | 0 | SQL identifier validator |
-| 2026-10-30 23:10:52 | [xslt2](https://crates.io/crates/xslt2) | 0.1.0 | 0 | Schema-aware XSLT 2.0 processor built on the xsd-schema validator and its XPath… |
-| 2026-10-30 23:10:52 | [bitview_plugin_derive](https://crates.io/crates/bitview_plugin_derive) | 0.13.0 | 0 | Derive macros for Bitview plugins and compositions |
-| 2026-10-30 23:10:57 | [rangeindex](https://crates.io/crates/rangeindex) | 0.13.0 | 0 | Ordered range boundaries in shared copy-on-write pages, with reverse lookups |
-| 2026-10-30 23:11:09 | [statedb](https://crates.io/crates/statedb) | 0.13.0 | 0 | Snapshot and diff storage for UTXO state aggregated by creation height |
-| 2026-10-30 23:11:21 | [bitview_primitives](https://crates.io/crates/bitview_primitives) | 0.13.0 | 0 | Bitview's index, value and state types |
-| 2026-10-30 23:11:22 | [brk_cpfp](https://crates.io/crates/brk_cpfp) | 0.13.0 | 0 | Ancestor-set linearization of CPFP transaction clusters |
-| 2026-10-30 23:11:29 | [bitview_catalog](https://crates.io/crates/bitview_catalog) | 0.13.0 | 0 | Shared series catalog model and construction metadata for Bitview |
-| 2026-10-30 23:13:23 | [devcontext-core](https://crates.io/crates/devcontext-core) | 0.1.0 | 0 | Core domain logic, persistence, and search for DevContext |
-| 2026-10-30 23:13:53 | [devcontext-cli](https://crates.io/crates/devcontext-cli) | 0.1.0 | 0 | Command-line interface for DevContext project memory |
-| 2026-10-30 23:18:26 | [southstar-css](https://crates.io/crates/southstar-css) | 1.0.5 | 0 | Southstar's CSS: tokenizer, grammar, colors, media queries, selectors and the c… |
-| 2026-10-30 23:18:53 | [designcraft-doc](https://crates.io/crates/designcraft-doc) | 0.7.1 | 0 | DesignCraft document model: spreads, pages, parents, layers, frames, stories, s… |
+| 2026-10-30 23:24:08 | [telmo](https://crates.io/crates/telmo) | 0.1.0 | 0 | Speech recognition on the CPU in pure Rust, with no dependencies. Runs Granite… |
+| 2026-10-30 23:28:28 | [southstar-support](https://crates.io/crates/southstar-support) | 1.0.5 | 0 | Southstar's storage and support code: the HTTP cache, cookies, history, CSP, In… |
+| 2026-10-30 23:28:44 | [bitview_vecs](https://crates.io/crates/bitview_vecs) | 0.13.0 | 0 | Composable metric vectors, views, shapes and value transforms for Bitview plugi… |
+| 2026-10-30 23:28:48 | [designcraft-idml](https://crates.io/crates/designcraft-idml) | 0.7.1 | 0 | DesignCraft IDML (InDesign Markup Language) import and export |
+| 2026-10-30 23:32:34 | [tquilla-api-types](https://crates.io/crates/tquilla-api-types) | 0.1.0 | 0 | Request/response types, endpoint paths and validators shared by the tquilla.is-… |
+| 2026-10-30 23:36:31 | [bitview_plugin_utxo_set](https://crates.io/crates/bitview_plugin_utxo_set) | 0.13.0 | 0 | The UTXO set: its published history by creation block and its global totals for… |
+| 2026-10-30 23:38:26 | [southstar-text](https://crates.io/crates/southstar-text) | 1.0.5 | 0 | Southstar's text layout, a Rust port of the Pango fork web-text-lib: itemizatio… |
+| 2026-10-30 23:38:46 | [designcraft-textimport](https://crates.io/crates/designcraft-textimport) | 0.7.1 | 0 | DesignCraft text import: plain text, Word (.docx) and RTF into stories |
+| 2026-10-30 23:46:29 | [zzq-cluster](https://crates.io/crates/zzq-cluster) | 0.5.0 | 0 | Viewstamped Replication for zzq clusters (engine crate of zzq-broker). |
+| 2026-10-30 23:48:10 | [pure-editor-dap-types](https://crates.io/crates/pure-editor-dap-types) | 0.1.0 | 0 | Types for interaction with a debug adapaters, using Debug Adapter Protocol |
+| 2026-10-30 23:48:28 | [southstar-woff2](https://crates.io/crates/southstar-woff2) | 1.0.5 | 0 | Southstar's WOFF2 web-font decoder over libbrotlidec |
+| 2026-10-30 23:48:30 | [pure-editor-event](https://crates.io/crates/pure-editor-event) | 0.1.0 | 0 | Event dispatch and background task coordination for the Pure editor |
+| 2026-10-30 23:48:36 | [pure-editor-parsec](https://crates.io/crates/pure-editor-parsec) | 0.1.0 | 0 | Parser combinators for Helix |
+| 2026-10-30 23:52:23 | [bitview_urpd](https://crates.io/crates/bitview_urpd) | 0.13.0 | 0 | Shared UTXO price distribution calculations and metric storage |
+| 2026-10-30 23:52:27 | [bitview_distribution](https://crates.io/crates/bitview_distribution) | 0.13.0 | 0 | Shared cohort accounting and price maps for distribution plugins |
+| 2026-10-30 23:54:50 | [halloween](https://crates.io/crates/halloween) | 0.1.0 | 0 | https://tech.lgbt/@rustaceans@mastodon.social/117532362315688021 |
+| 2026-10-30 23:57:24 | [pure-editor-stdx](https://crates.io/crates/pure-editor-stdx) | 0.1.0 | 0 | Standard library extensions |
+| 2026-10-30 23:58:29 | [southstar-engine](https://crates.io/crates/southstar-engine) | 1.0.5 | 0 | Southstar's browser engine: the JavaScript bindings, style, layout, painting, n… |
+| 2026-10-30 23:59:26 | [soothfast-lang](https://crates.io/crates/soothfast-lang) | 0.5.0 | 0 | Soothfast language engine: declared symbols, spans and fingerprints for non-Rus… |
+| 2026-10-31 00:02:10 | [pure-editor-tree-house-bindings](https://crates.io/crates/pure-editor-tree-house-bindings) | 0.1.0 | 0 | Homey Rust bindings for the tree-sitter C library |
+| 2026-10-31 00:05:20 | [bitview_plugin_addresses](https://crates.io/crates/bitview_plugin_addresses) | 0.13.0 | 0 | Address balances, activity and realized distribution metrics |
+| 2026-10-31 00:05:49 | [fluent-io](https://crates.io/crates/fluent-io) | 0.1.0 | 0 | A library designed to make IO operations involving commands, files and folders… |
+| 2026-10-31 00:08:36 | [southstar-runtime](https://crates.io/crates/southstar-runtime) | 1.0.5 | 0 | Southstar's browser runtime: the browser core, the renderer process and its cli… |
+| 2026-10-31 00:09:24 | [rust-uasset](https://crates.io/crates/rust-uasset) | 0.2.1 | 0 | Reads Unreal Engine .uasset / .umap packages and prints them as compact, LLM fr… |
+| 2026-10-31 00:10:05 | [medias](https://crates.io/crates/medias) | 0.3.2 | 0 | TV media player on bare DRM/KMS: Vulkan UI plane over libmpv video, for local f… |
+| 2026-10-31 00:12:18 | [folioscope](https://crates.io/crates/folioscope) | 0.0.0 | 0 | Reads interactive .fig, .sketch and .penpot prototypes and bakes them into .fol… |
+| 2026-10-31 00:12:34 | [cf-gears-kafka-event-broker-plugin](https://crates.io/crates/cf-gears-kafka-event-broker-plugin) | 0.1.0 | 0 | Apache Kafka storage backend plugin for the event-broker gear: one Kafka topic… |
+| 2026-10-31 00:12:40 | [cf-gears-memory-event-broker-plugin](https://crates.io/crates/cf-gears-memory-event-broker-plugin) | 0.1.0 | 0 | In-process storage backend plugin for the event-broker gear: the backend contra… |
+| 2026-10-31 00:13:21 | [cf-gears-mysql-event-broker-plugin](https://crates.io/crates/cf-gears-mysql-event-broker-plugin) | 0.1.0 | 0 | MySQL and MariaDB storage backend plugin for the event-broker gear: segmented p… |
+| 2026-10-31 00:13:57 | [cf-gears-postgres-event-broker-plugin](https://crates.io/crates/cf-gears-postgres-event-broker-plugin) | 0.1.0 | 0 | PostgreSQL storage backend plugin for the event-broker gear: segmented per-part… |
+| 2026-10-31 00:14:31 | [bitview_plugin_age](https://crates.io/crates/bitview_plugin_age) | 0.13.0 | 0 | Age and creation based Bitcoin distribution metrics |
+| 2026-10-31 00:14:39 | [adi2raw](https://crates.io/crates/adi2raw) | 0.1.0 | 0 | Stream an AOMEI Backupper .adi disk image as a raw disk image to stdout |
+| 2026-10-31 00:18:29 | [southstar-shell](https://crates.io/crates/southstar-shell) | 1.0.5 | 0 | Southstar's GTK 4 shell: windows, tabs, chrome and the GTK bindings it uses |
+| 2026-10-31 00:19:18 | [locale-simple](https://crates.io/crates/locale-simple) | 0.200.0-rc.0 | 0 | Gettext-style translation helpers (l!, ln!, lp!, ld!, ...) with sprintf formatt… |
 
 ## Data source
 

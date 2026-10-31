@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-30T23:24:08.385315Z,telmo,0.1.0,0,0,https://github.com/mesa-hills-research/telmo,"Speech recognition on the CPU in pure Rust, with no dependencies. Runs Granite Speech and Parakeet."
+2026-10-30T23:28:28.111788Z,southstar-support,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,"Southstar's storage and support code: the HTTP cache, cookies, history, CSP, Intl data, image decoders and WebCrypto"
+2026-10-30T23:28:44.945114Z,bitview_vecs,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,"Composable metric vectors, views, shapes and value transforms for Bitview plugins"
+2026-10-30T23:28:48.764277Z,designcraft-idml,0.7.1,0,0,,DesignCraft IDML (InDesign Markup Language) import and export
+2026-10-30T23:32:34.078892Z,tquilla-api-types,0.1.0,0,0,,"Request/response types, endpoint paths and validators shared by the tquilla.is-a.dev site and its API (serde only, wasm32-friendly)."
+2026-10-30T23:36:31.715209Z,bitview_plugin_utxo_set,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,The UTXO set: its published history by creation block and its global totals for Bitview
+2026-10-30T23:38:26.913848Z,southstar-text,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,"Southstar's text layout, a Rust port of the Pango fork web-text-lib: itemization, line breaking, shaping and paragraph layout"
+2026-10-30T23:38:46.686564Z,designcraft-textimport,0.7.1,0,0,,"DesignCraft text import: plain text, Word (.docx) and RTF into stories"
+2026-10-30T23:46:29.74955Z,zzq-cluster,0.5.0,0,0,https://github.com/paddor/zzq,Viewstamped Replication for zzq clusters (engine crate of zzq-broker).
+2026-10-30T23:48:10.432539Z,pure-editor-dap-types,0.1.0,0,0,https://github.com/TsaH0/Pure,"Types for interaction with a debug adapaters, using Debug Adapter Protocol"
+2026-10-30T23:48:28.735503Z,southstar-woff2,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,Southstar's WOFF2 web-font decoder over libbrotlidec
+2026-10-30T23:48:30.741144Z,pure-editor-event,0.1.0,0,0,https://github.com/TsaH0/Pure,Event dispatch and background task coordination for the Pure editor
+2026-10-30T23:48:36.063514Z,pure-editor-parsec,0.1.0,0,0,https://github.com/TsaH0/Pure,Parser combinators for Helix
+2026-10-30T23:52:23.70532Z,bitview_urpd,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,Shared UTXO price distribution calculations and metric storage
+2026-10-30T23:52:27.092039Z,bitview_distribution,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,Shared cohort accounting and price maps for distribution plugins
+2026-10-30T23:54:50.766937Z,halloween,0.1.0,0,0,https://git.disroot.org/blyxyas/,https://tech.lgbt/@rustaceans@mastodon.social/117532362315688021
+2026-10-30T23:57:24.01211Z,pure-editor-stdx,0.1.0,0,0,https://github.com/TsaH0/Pure,Standard library extensions
+2026-10-30T23:58:29.700525Z,southstar-engine,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,"Southstar's browser engine: the JavaScript bindings, style, layout, painting, networking and media"
+2026-10-30T23:59:26.520734Z,soothfast-lang,0.5.0,0,0,https://github.com/Verdenroz/soothfast,"Soothfast language engine: declared symbols, spans and fingerprints for non-Rust sources via tree-sitter"
+2026-10-31T00:02:10.835485Z,pure-editor-tree-house-bindings,0.1.0,0,0,https://github.com/TsaH0/Pure,Homey Rust bindings for the tree-sitter C library
+2026-10-31T00:05:20.284716Z,bitview_plugin_addresses,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,"Address balances, activity and realized distribution metrics"
+2026-10-31T00:05:49.722957Z,fluent-io,0.1.0,0,0,https://github.com/dannywexler/fluent-io,"A library designed to make IO operations involving commands, files and folders easier"
+2026-10-31T00:08:36.500747Z,southstar-runtime,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,"Southstar's browser runtime: the browser core, the renderer process and its client, headless mode and the watchdog"
+2026-10-31T00:09:24.548113Z,rust-uasset,0.2.1,0,0,https://github.com/tera8m4/rust-uasset,"Reads Unreal Engine .uasset / .umap packages and prints them as compact, LLM friendly text or JSON"
+2026-10-31T00:10:05.891812Z,medias,0.3.2,0,0,,"TV media player on bare DRM/KMS: Vulkan UI plane over libmpv video, for local files, UPnP/DLNA servers and YouTube, controlled by HDMI-CEC remote, evdev or terminal"
+2026-10-31T00:12:18.159513Z,folioscope,0.0.0,0,0,https://github.com/baxyz/folioscope,"Reads interactive .fig, .sketch and .penpot prototypes and bakes them into .folio folders for the Folioscope player; the folioscope command-line tool"
+2026-10-31T00:12:34.155426Z,cf-gears-kafka-event-broker-plugin,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,Apache Kafka storage backend plugin for the event-broker gear: one Kafka topic per event-broker topic and fenced deduplication over transactional producers
+2026-10-31T00:12:40.709254Z,cf-gears-memory-event-broker-plugin,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"In-process storage backend plugin for the event-broker gear: the backend contract without external infrastructure, for tests and a standalone run"
+2026-10-31T00:13:21.145372Z,cf-gears-mysql-event-broker-plugin,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,MySQL and MariaDB storage backend plugin for the event-broker gear: segmented per-partition event tables and fenced deduplication
+2026-10-31T00:13:57.671413Z,cf-gears-postgres-event-broker-plugin,0.1.0,0,0,https://github.com/constructorfabric/gears-rust,"PostgreSQL storage backend plugin for the event-broker gear: segmented per-partition event tables, fenced deduplication and LISTEN/NOTIFY head watch"
+2026-10-31T00:14:31.866393Z,bitview_plugin_age,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,Age and creation based Bitcoin distribution metrics
+2026-10-31T00:14:39.415127Z,adi2raw,0.1.0,0,0,https://github.com/dickescheidt/adi2raw,Stream an AOMEI Backupper .adi disk image as a raw disk image to stdout
+2026-10-31T00:18:29.542795Z,southstar-shell,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,"Southstar's GTK 4 shell: windows, tabs, chrome and the GTK bindings it uses"
+2026-10-31T00:19:18.546482Z,locale-simple,0.200.0-rc.0,0,0,https://github.com/Getty/locale-simple,"Gettext-style translation helpers (l!, ln!, lp!, ld!, ...) with sprintf formatting and an own .mo reader. Same API as the Perl, Python, JavaScript, PHP and Go siblings."
