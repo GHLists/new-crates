@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T11:22:31.42565Z,archangel_config,0.0.1,0,0,https://github.com/enhance-labs-builds/archangel,"Bootstrap placeholder for Archangel, the TypeScript architecture linter"
+2026-10-31T11:22:35.703681Z,archangel_graph,0.0.1,0,0,https://github.com/enhance-labs-builds/archangel,"Bootstrap placeholder for Archangel, the TypeScript architecture linter"
+2026-10-31T11:22:38.803597Z,archangel_rules,0.0.1,0,0,https://github.com/enhance-labs-builds/archangel,"Bootstrap placeholder for Archangel, the TypeScript architecture linter"
+2026-10-31T11:22:41.725209Z,archangel_engine,0.0.1,0,0,https://github.com/enhance-labs-builds/archangel,"Bootstrap placeholder for Archangel, the TypeScript architecture linter"
+2026-10-31T11:22:44.768793Z,archangel_lsp,0.0.1,0,0,https://github.com/enhance-labs-builds/archangel,"Bootstrap placeholder for Archangel, the TypeScript architecture linter"
+2026-10-31T11:23:20.092135Z,devdocs-eval,0.1.0,0,0,https://github.com/OWNER/devdocs-mcp,Evaluation harness for devdocs retrieval quality
+2026-10-31T11:23:35.045711Z,devdocs-ingest,0.1.0,0,0,https://github.com/OWNER/devdocs-mcp,"Source adapters, normalization, and symbol extraction for devdocs"
+2026-10-31T11:27:53.855469Z,markers,0.1.0-alpha,0,0,https://github.com/farhnkrnapratma/markers,High-performance HTML to Markdown conversion for LLMs
+2026-10-31T11:28:26.234214Z,markers-cli,0.1.0-alpha,0,0,https://github.com/farhnkrnapratma/markers,CLI for markers HTML to Markdown conversion
+2026-10-31T11:33:06.012438Z,archangel,0.0.1,0,0,https://github.com/enhance-labs-builds/archangel,"Bootstrap placeholder for Archangel, the TypeScript architecture linter"
+2026-10-31T11:36:36.297391Z,hanamori,0.1.0,0,0,https://github.com/licyk/Hanamori,Hanamori standalone MSVC toolchain installer and version manager
+2026-10-31T11:45:15.429981Z,panshi-macros,0.1.32,0,0,https://codeberg.org/quant1x/foundations,panshi 的过程宏: #[cron_cache]
+2026-10-31T11:45:32.082158Z,panshi,0.1.32,0,0,https://codeberg.org/quant1x/foundations,"Quant1X 数据域基础设施 —— 数据口径契约(spec 在 Python, 生产实现在此)"
+2026-10-31T11:46:06.708681Z,ic-platform-types,0.1.0,0,0,https://github.com/dragginzgame/ic-platform,Stable owned IC Principal and Account identities
+2026-10-31T11:47:52.888123Z,devdocs-mcp,0.1.0,0,0,https://github.com/OWNER/devdocs-mcp,MCP server adapter for devdocs
+2026-10-31T11:52:40.879356Z,lodeline,0.0.1,0,0,https://github.com/Ju571nK/lodeline,"Placeholder for Lodeline, a config posture scanner for AI coding agents. It measures and does not block by default."
+2026-10-31T12:02:29.130622Z,loxone-client,0.1.0,0,0,https://github.com/discostu105/lox,"Client for the Loxone Miniserver: HTTP API, token auth (RSA/AES key exchange), WebSocket state stream, FTP backups, statistics"
+2026-10-31T12:03:18.010637Z,rgy-search,0.1.2,0,0,https://github.com/danalec/rgy,The merged name-search CLI (fsearch ergonomics + zen-rs filters)
+2026-10-31T12:05:42.020136Z,prof-macros,1.68.0-beta1,0,0,https://github.com/barebaric/raygeo,Proc macro that instruments functions with raygeo's profiling guard
+2026-10-31T12:07:16.632423Z,mg-srel,0.5.12,0,0,https://github.com/jowharshamshiri/mg-srel,Verifies signed release manifests and registry charters against baked root keys
+2026-10-31T12:08:40.893915Z,raygeo,1.68.0-beta1,0,0,https://github.com/barebaric/raygeo,2D/3D geometry library for CAD/CAM applications with Python bindings
+2026-10-31T12:08:55.600259Z,loremaster-mcp,0.1.0,0,0,https://github.com/sunsided/loremaster,MCP server and proposal endpoints for loremaster projects: `loremaster mcp` (stdio) and `loremaster serve` (local HTTP).
+2026-10-31T12:08:59.072888Z,loremaster,0.1.0,0,0,https://github.com/sunsided/loremaster,Terminal player and checker for loremaster stories.
+2026-10-31T12:10:08.009356Z,hushjot-core,0.1.0,0,0,https://github.com/hushjot/hushjot-rs,"The HushJot note format: envelope encryption, key records, note metadata, search and the derivations every HushJot client must agree on."
+2026-10-31T12:12:21.379273Z,hushjot,0.1.0,0,0,https://github.com/hushjot/hushjot-rs,"End-to-end encrypted HushJot Sync for Rust apps: sign in, unlock, and keep notes in step with the HushJot app."
+2026-10-31T12:16:03.216619Z,wasm-transferable-stream,0.1.1,0,0,https://github.com/RS2700/wasm-transferable,A Stream API-like ecosystem for wasm-transferable
+2026-10-31T12:16:56.400857Z,attos-client,1.3.0,0,0,https://github.com/Attos-Labs/attos-rust,Zero-Latency State Distribution Engine SDK for Rust
