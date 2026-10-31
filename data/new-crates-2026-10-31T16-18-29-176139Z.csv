@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T15:20:05.737506Z,idiomatic-sh-ryo-toml,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,TOML language provider for Ryo
+2026-10-31T15:22:54.584036Z,grana-animation,0.1.1,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-10-31T15:24:04.904344Z,git-agent,0.2.0,0,0,https://github.com/dervism/git-agent,Generate git commit messages from your changes with a local LLM
+2026-10-31T15:24:05.077882Z,graph-tui,0.1.0,0,0,https://github.com/mixsoulgithub/graph-tui,"universal graph render engine and editor for the terminal: box-drawing edges, one true colour per group, orthogonal routing with crossings, pan/zoom, multi-line nodes, edge notes"
+2026-10-31T15:30:06.547783Z,idiomatic-sh-ryo-typescript,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,TypeScript language provider for Ryo
+2026-10-31T15:32:56.49472Z,grana-scene,0.1.1,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-10-31T15:40:07.924549Z,idiomatic-sh-ryo,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,Query source code through independent language providers
+2026-10-31T15:40:16.740994Z,t32,0.2.0,0,0,https://github.com/oddurs/t32,"T32, a compact universal timestamp: atomic seconds in sortable base32, where a stamp's length is its resolution"
+2026-10-31T15:42:45.963468Z,asonb-derive,0.3.0,0,0,https://github.com/hemashushu/asonb,Schema derive macro for ASONB
+2026-10-31T15:42:55.1794Z,grana-pipeline,0.1.1,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-10-31T15:44:34.525819Z,rift-discord-core,0.1.0,0,0,https://github.com/isaim0011/rift,"Zero-dependency Discord primitives: snowflakes, intents, sharding math."
+2026-10-31T15:44:53.75681Z,rift-gateway,0.1.0,0,0,https://github.com/isaim0011/rift,"Sans-IO Discord gateway state machine: heartbeat, resume, identify budget, send limiter."
+2026-10-31T15:45:27.812088Z,rift-http,0.1.0,0,0,https://github.com/isaim0011/rift,"Sans-IO REST rate limiting for Discord: buckets, global limit, invalid-request circuit breaker."
+2026-10-31T15:46:03.425104Z,rift-model,0.1.0,0,0,https://github.com/isaim0011/rift,"Typed Discord Gateway dispatch events and models, parsed lazily."
+2026-10-31T15:48:05.318626Z,rift-voice,0.1.0,0,0,https://github.com/isaim0011/rift,Deterministic sans-I/O Discord Voice Gateway v8 and UDP framing.
+2026-10-31T15:50:09.721553Z,idiomatic-sh-asymptote-core,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,Diagnostic ratchet services for Asymptote
+2026-10-31T15:52:53.966586Z,grana-project,0.1.1,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-10-31T15:53:57.746787Z,fatij,0.1.0,0,0,https://github.com/daddinuz/fatij,"Dependency-free, resizable thread pools and task processing for nightly Rust"
+2026-10-31T15:55:21.009594Z,aptu,0.0.1,0,0,https://github.com/aptu-dev/aptu,Placeholder for aptu.dev: machine-payable API infrastructure for autonomous agents.
+2026-10-31T15:56:00.948321Z,holger-downstream-rules,3.0.0,0,0,https://git.gunnar.rs/nordisk/holger,"Holger downstream's rules (Holger v2.0 H3): the on-prem, air-gapped gateway takes packages from ONE upstream Holger only. Pure: from a config's facts it decides what the box may dial (its upstream, n…"
+2026-10-31T16:00:06.031023Z,idiomatic-sh-asymptote,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,Ratchet diagnostic findings using SARIF
+2026-10-31T16:00:28.595929Z,holger-index-rows,3.0.0,0,0,https://git.gunnar.rs/nordisk/holger,"Holger's index rows (lane HOL-PERF-2): what the scan worker reads out of a package for its format's index (a deb control stanza, an rpm header, a Chart.yaml, a wheel's METADATA, an npm package.json a…"
+2026-10-31T16:01:22.950528Z,holger-job-runner,3.0.0,0,0,https://git.gunnar.rs/nordisk/holger,"Holger's job runners behind the Heimdall job API: ContainerRunner, the interim runner over Holger's own sandbox (podman, its API, crun, the sidecar; a fresh container per job, no network, a read-only…"
+2026-10-31T16:02:56.053906Z,grana-ui,0.1.1,0,0,https://github.com/formetaohy/Grana,Next-generation microscopy image visualization and analysis platform
+2026-10-31T16:13:44.779094Z,morn,0.0.1,0,0,https://github.com/hezhangjian/Morn,Morn is a personal AI agent for everyday work.
+2026-10-31T16:14:28.127682Z,rift-rest,0.1.0,0,0,https://github.com/isaim0011/rift,"Async Discord REST client: rate-limited, retrying, with a swappable transport."
+2026-10-31T16:15:41.227714Z,rift-runtime,0.1.0,0,0,https://github.com/isaim0011/rift,Async Tokio driver that runs rift-gateway over a WebSocket with zstd-stream compression.
+2026-10-31T16:16:12.146545Z,idobata-scanner,0.3.0,0,0,https://github.com/genki/idobata,Deterministic high-entropy substring inspection for idobata
+2026-10-31T16:16:47.626826Z,rift-cache,0.1.0,0,0,https://github.com/isaim0011/rift,"Opt-in, high-performance, obfuscation-safe in-memory state cache for Discord bots."

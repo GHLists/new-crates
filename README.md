@@ -8,43 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 15:18 UTC
+## Latest list — 2026-10-31 16:18 UTC
 
-New crates published between 2026-10-31 14:18 UTC and 2026-10-31 15:18 UTC.
+New crates published between 2026-10-31 15:18 UTC and 2026-10-31 16:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-31T15-18-19-095938Z.csv)
+[Full CSV](data/new-crates-2026-10-31T16-18-29-176139Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-31 14:19:51 | [incurs-workflows](https://crates.io/crates/incurs-workflows) | 0.1.0 | 0 | Durable Code Mode workflows attached to incurs CLIs as first-party commands |
-| 2026-10-31 14:20:05 | [idiomatic-sh-ryo-html](https://crates.io/crates/idiomatic-sh-ryo-html) | 0.1.0 | 0 | HTML language provider for Ryo |
-| 2026-10-31 14:30:06 | [idiomatic-sh-ryo-javascript](https://crates.io/crates/idiomatic-sh-ryo-javascript) | 0.1.0 | 0 | JavaScript language provider for Ryo |
-| 2026-10-31 14:32:03 | [downorwhat](https://crates.io/crates/downorwhat) | 0.0.1-alpha.0 | 0 | DownOrWhat Rust SDK & CLI (placeholder) |
-| 2026-10-31 14:33:44 | [behindaflag](https://crates.io/crates/behindaflag) | 0.0.1-alpha.0 | 0 | BehindAFlag Rust SDK & CLI (placeholder) |
-| 2026-10-31 14:34:01 | [facturx](https://crates.io/crates/facturx) | 0.1.0 | 0 | Factur-X for the French e-invoicing reform. |
-| 2026-10-31 14:39:05 | [ontomark-source](https://crates.io/crates/ontomark-source) | 0.1.0 | 0 | The Source port for Ontomark ingest: local files and (behind a feature) URLs re… |
-| 2026-10-31 14:39:52 | [dynamic-color](https://crates.io/crates/dynamic-color) | 0.1.0 | 0 | Lightweight cross-platform access to dynamic system accent colors and Material… |
-| 2026-10-31 14:40:05 | [idiomatic-sh-ryo-json](https://crates.io/crates/idiomatic-sh-ryo-json) | 0.1.0 | 0 | JSON and JSON with comments language provider for Ryo |
-| 2026-10-31 14:43:30 | [grana-volume](https://crates.io/crates/grana-volume) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-10-31 14:44:26 | [grana-gpu](https://crates.io/crates/grana-gpu) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-10-31 14:44:34 | [grana-object](https://crates.io/crates/grana-object) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-10-31 14:45:04 | [grana-video](https://crates.io/crates/grana-video) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-10-31 14:46:10 | [grana-zarr](https://crates.io/crates/grana-zarr) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-10-31 14:50:05 | [idiomatic-sh-ryo-markdown](https://crates.io/crates/idiomatic-sh-ryo-markdown) | 0.1.0 | 0 | Markdown language provider for Ryo |
-| 2026-10-31 14:50:23 | [tamil-core](https://crates.io/crates/tamil-core) | 0.1.0-alpha.1 | 0 | Tamil Unicode primitives, driven by declarative tables |
-| 2026-10-31 14:51:12 | [tamil-norm](https://crates.io/crates/tamil-norm) | 0.1.0-alpha.1 | 0 | Shared normalization facade for SDKs and future PostgreSQL integration |
-| 2026-10-31 14:51:58 | [tamil-collate](https://crates.io/crates/tamil-collate) | 0.1.0-alpha.1 | 0 | Agara Varisai collation and search keys |
-| 2026-10-31 14:52:10 | [grana-render](https://crates.io/crates/grana-render) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-10-31 14:52:36 | [tamil-numerals](https://crates.io/crates/tamil-numerals) | 0.1.0-alpha.1 | 0 | Tamil numerals, fractions, dates, and LKR/INR currencies |
-| 2026-10-31 14:53:29 | [tamil-codec](https://crates.io/crates/tamil-codec) | 0.1.0-alpha.1 | 0 | Versioned legacy encodings and orthography conversion |
-| 2026-10-31 15:00:07 | [idiomatic-sh-ryo-python](https://crates.io/crates/idiomatic-sh-ryo-python) | 0.1.0 | 0 | Python language provider for Ryo |
-| 2026-10-31 15:01:02 | [tamil-toolkit](https://crates.io/crates/tamil-toolkit) | 0.1.0-alpha.1 | 0 | Unified Tamil linguistic toolkit and shared FFI dispatcher |
-| 2026-10-31 15:02:53 | [grana-measure](https://crates.io/crates/grana-measure) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-10-31 15:10:07 | [idiomatic-sh-ryo-rust](https://crates.io/crates/idiomatic-sh-ryo-rust) | 0.1.0 | 0 | Rust language provider for Ryo |
-| 2026-10-31 15:12:53 | [grana-analysis](https://crates.io/crates/grana-analysis) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
-| 2026-10-31 15:14:21 | [manifold-frame](https://crates.io/crates/manifold-frame) | 0.1.0 | 0 | MNFX: a versioned lossless image container wrapping Manifold compression stream… |
-| 2026-10-31 15:15:06 | [esp-dmx](https://crates.io/crates/esp-dmx) | 0.1.0 | 0 | DMX512 transmitter for ESP microcontrollers using esp-hal |
-| 2026-10-31 15:15:15 | [release-flow](https://crates.io/crates/release-flow) | 0.1.0 | 0 | Read-only release inspection and a reference for independently recoverable rele… |
+| 2026-10-31 15:20:05 | [idiomatic-sh-ryo-toml](https://crates.io/crates/idiomatic-sh-ryo-toml) | 0.1.0 | 0 | TOML language provider for Ryo |
+| 2026-10-31 15:22:54 | [grana-animation](https://crates.io/crates/grana-animation) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-10-31 15:24:04 | [git-agent](https://crates.io/crates/git-agent) | 0.2.0 | 0 | Generate git commit messages from your changes with a local LLM |
+| 2026-10-31 15:24:05 | [graph-tui](https://crates.io/crates/graph-tui) | 0.1.0 | 0 | universal graph render engine and editor for the terminal: box-drawing edges, o… |
+| 2026-10-31 15:30:06 | [idiomatic-sh-ryo-typescript](https://crates.io/crates/idiomatic-sh-ryo-typescript) | 0.1.0 | 0 | TypeScript language provider for Ryo |
+| 2026-10-31 15:32:56 | [grana-scene](https://crates.io/crates/grana-scene) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-10-31 15:40:07 | [idiomatic-sh-ryo](https://crates.io/crates/idiomatic-sh-ryo) | 0.1.0 | 0 | Query source code through independent language providers |
+| 2026-10-31 15:40:16 | [t32](https://crates.io/crates/t32) | 0.2.0 | 0 | T32, a compact universal timestamp: atomic seconds in sortable base32, where a… |
+| 2026-10-31 15:42:45 | [asonb-derive](https://crates.io/crates/asonb-derive) | 0.3.0 | 0 | Schema derive macro for ASONB |
+| 2026-10-31 15:42:55 | [grana-pipeline](https://crates.io/crates/grana-pipeline) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-10-31 15:44:34 | [rift-discord-core](https://crates.io/crates/rift-discord-core) | 0.1.0 | 0 | Zero-dependency Discord primitives: snowflakes, intents, sharding math. |
+| 2026-10-31 15:44:53 | [rift-gateway](https://crates.io/crates/rift-gateway) | 0.1.0 | 0 | Sans-IO Discord gateway state machine: heartbeat, resume, identify budget, send… |
+| 2026-10-31 15:45:27 | [rift-http](https://crates.io/crates/rift-http) | 0.1.0 | 0 | Sans-IO REST rate limiting for Discord: buckets, global limit, invalid-request… |
+| 2026-10-31 15:46:03 | [rift-model](https://crates.io/crates/rift-model) | 0.1.0 | 0 | Typed Discord Gateway dispatch events and models, parsed lazily. |
+| 2026-10-31 15:48:05 | [rift-voice](https://crates.io/crates/rift-voice) | 0.1.0 | 0 | Deterministic sans-I/O Discord Voice Gateway v8 and UDP framing. |
+| 2026-10-31 15:50:09 | [idiomatic-sh-asymptote-core](https://crates.io/crates/idiomatic-sh-asymptote-core) | 0.1.0 | 0 | Diagnostic ratchet services for Asymptote |
+| 2026-10-31 15:52:53 | [grana-project](https://crates.io/crates/grana-project) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-10-31 15:53:57 | [fatij](https://crates.io/crates/fatij) | 0.1.0 | 0 | Dependency-free, resizable thread pools and task processing for nightly Rust |
+| 2026-10-31 15:55:21 | [aptu](https://crates.io/crates/aptu) | 0.0.1 | 0 | Placeholder for aptu.dev: machine-payable API infrastructure for autonomous age… |
+| 2026-10-31 15:56:00 | [holger-downstream-rules](https://crates.io/crates/holger-downstream-rules) | 3.0.0 | 0 | Holger downstream's rules (Holger v2.0 H3): the on-prem, air-gapped gateway tak… |
+| 2026-10-31 16:00:06 | [idiomatic-sh-asymptote](https://crates.io/crates/idiomatic-sh-asymptote) | 0.1.0 | 0 | Ratchet diagnostic findings using SARIF |
+| 2026-10-31 16:00:28 | [holger-index-rows](https://crates.io/crates/holger-index-rows) | 3.0.0 | 0 | Holger's index rows (lane HOL-PERF-2): what the scan worker reads out of a pack… |
+| 2026-10-31 16:01:22 | [holger-job-runner](https://crates.io/crates/holger-job-runner) | 3.0.0 | 0 | Holger's job runners behind the Heimdall job API: ContainerRunner, the interim… |
+| 2026-10-31 16:02:56 | [grana-ui](https://crates.io/crates/grana-ui) | 0.1.1 | 0 | Next-generation microscopy image visualization and analysis platform |
+| 2026-10-31 16:13:44 | [morn](https://crates.io/crates/morn) | 0.0.1 | 0 | Morn is a personal AI agent for everyday work. |
+| 2026-10-31 16:14:28 | [rift-rest](https://crates.io/crates/rift-rest) | 0.1.0 | 0 | Async Discord REST client: rate-limited, retrying, with a swappable transport. |
+| 2026-10-31 16:15:41 | [rift-runtime](https://crates.io/crates/rift-runtime) | 0.1.0 | 0 | Async Tokio driver that runs rift-gateway over a WebSocket with zstd-stream com… |
+| 2026-10-31 16:16:12 | [idobata-scanner](https://crates.io/crates/idobata-scanner) | 0.3.0 | 0 | Deterministic high-entropy substring inspection for idobata |
+| 2026-10-31 16:16:47 | [rift-cache](https://crates.io/crates/rift-cache) | 0.1.0 | 0 | Opt-in, high-performance, obfuscation-safe in-memory state cache for Discord bo… |
 
 ## Data source
 
