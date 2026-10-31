@@ -8,34 +8,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 03:18 UTC
+## Latest list — 2026-10-31 04:18 UTC
 
-New crates published between 2026-10-31 02:19 UTC and 2026-10-31 03:18 UTC.
+New crates published between 2026-10-31 03:18 UTC and 2026-10-31 04:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-31T03-18-29-75459Z.csv)
+[Full CSV](data/new-crates-2026-10-31T04-18-08-060436Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-31 02:27:07 | [noxi-store](https://crates.io/crates/noxi-store) | 0.0.1 | 0 | A local Nix store compatible with CppNix's on-disk format |
-| 2026-10-31 02:35:30 | [phi-wire-protocol](https://crates.io/crates/phi-wire-protocol) | 0.1.0 | 0 | Provider wire protocol for the phi family: versioned requests, replies, and err… |
-| 2026-10-31 02:35:38 | [phi-wire-adapter](https://crates.io/crates/phi-wire-adapter) | 0.1.0 | 0 | Provider contract shared by phi wire clients and platform adapters |
-| 2026-10-31 02:35:45 | [phi-wire-client](https://crates.io/crates/phi-wire-client) | 0.1.0 | 0 | Correlated JSON-lines subprocess transport for the phi family: cancellation nev… |
-| 2026-10-31 02:41:43 | [frust-rs](https://crates.io/crates/frust-rs) | 0.1.1 | 0 | A thin accelerator that sits on top of your installed Rust toolchain: shared co… |
-| 2026-10-31 02:46:05 | [provenance-contract](https://crates.io/crates/provenance-contract) | 0.0.0 | 0 | Internal part of Provenance for the operation wire contract |
-| 2026-10-31 02:50:55 | [sqlx-doris-mysql](https://crates.io/crates/sqlx-doris-mysql) | 0.9.0 | 0 | Doris-compatible MySQL driver implementation for SQLx, bundled with sqlx-doris;… |
-| 2026-10-31 02:51:23 | [sqlx-doris](https://crates.io/crates/sqlx-doris) | 0.1.0 | 0 | SQLx MySQL and Apache Doris connections, native types, and operations |
-| 2026-10-31 02:52:15 | [voltik](https://crates.io/crates/voltik) | 0.16.0 | 0 | CircuiTikZ circuits to SVG and PNG with no TeX install, as a library of tikra. |
-| 2026-10-31 02:52:34 | [voltik-cli](https://crates.io/crates/voltik-cli) | 0.16.0 | 0 | Command line for voltik: CircuiTikZ to SVG and PNG. |
-| 2026-10-31 02:55:27 | [kyln](https://crates.io/crates/kyln) | 0.3.0 | 0 | A guarded TUI for reviewing old caches and diagnostic logs |
-| 2026-10-31 02:56:23 | [autoseek](https://crates.io/crates/autoseek) | 0.1.0 | 0 | 只做一件事的 agent：给定问题、数据和目标，自己写代码、跑实验、分析结果，反复迭代出技术方案 |
-| 2026-10-31 02:59:21 | [hf-fetch](https://crates.io/crates/hf-fetch) | 0.1.0 | 0 | Small blocking Hugging Face model downloader with a Python-compatible cache |
-| 2026-10-31 03:03:40 | [punct-converter](https://crates.io/crates/punct-converter) | 0.1.0 | 0 | Fast CLI & library to convert Chinese full-width punctuation to English/half-wi… |
-| 2026-10-31 03:09:30 | [toskar](https://crates.io/crates/toskar) | 0.4.0 | 0 | The official Rust SDK for Toskar: local AI across your own computers. |
-| 2026-10-31 03:10:38 | [writerslogic-warm](https://crates.io/crates/writerslogic-warm) | 0.6.4 | 0 | Local-first search engine and agent memory: fast approximate nearest-neighbor a… |
-| 2026-10-31 03:15:39 | [buildl-core](https://crates.io/crates/buildl-core) | 0.1.0 | 0 | Domain data, ports, and pure pipeline logic for the buildl build system — no I/… |
-| 2026-10-31 03:15:42 | [buildl-lua](https://crates.io/crates/buildl-lua) | 0.1.0 | 0 | Lua build-file evaluation for buildl, on the airsl embedded runtime. |
-| 2026-10-31 03:15:47 | [buildl](https://crates.io/crates/buildl) | 0.1.0 | 0 | A sandboxed, deterministic build system whose build files are written in Lua an… |
-| 2026-10-31 03:15:51 | [buildl-cli](https://crates.io/crates/buildl-cli) | 0.1.0 | 0 | The `buildl` binary — the command-line entry point to the buildl library. |
+| 2026-10-31 03:26:16 | [jadix_taffy](https://crates.io/crates/jadix_taffy) | 0.1.0 | 0 | A flexible UI layout library |
+| 2026-10-31 03:26:53 | [jadix_layout](https://crates.io/crates/jadix_layout) | 0.1.0 | 0 | CSS dimensions, logical units and grid track algorithms |
+| 2026-10-31 03:27:10 | [jadix_lsp](https://crates.io/crates/jadix_lsp) | 0.1.0 | 0 | GUI-independent LSP transport and UTF-16 text edits for Jadix applications |
+| 2026-10-31 03:29:03 | [sstv-encoder](https://crates.io/crates/sstv-encoder) | 0.1.0 | 0 | High-performance SSTV (Slow Scan Television) encoder, image processor and audio… |
+| 2026-10-31 03:29:15 | [fm-modulator](https://crates.io/crates/fm-modulator) | 0.1.0 | 0 | High-performance FM modulator in Rust: encode WAV and MP3 audio to baseband I/Q… |
+| 2026-10-31 03:30:38 | [sdr-core](https://crates.io/crates/sdr-core) | 0.1.0 | 0 | The shared layer of the sdr-* radio drivers: the sc16 sample, one error type, t… |
+| 2026-10-31 03:30:52 | [am-modulator](https://crates.io/crates/am-modulator) | 0.1.0 | 0 | High-performance AM modulator in Rust: encode WAV and MP3 audio to baseband I/Q… |
+| 2026-10-31 03:31:51 | [lrpt-encoder](https://crates.io/crates/lrpt-encoder) | 0.1.0 | 0 | Encode images into Meteor-M N2-4 LRPT (Low Rate Picture Transmission) digital s… |
+| 2026-10-31 03:32:05 | [warm-rust](https://crates.io/crates/warm-rust) | 0.6.5 | 0 | Local-first search engine and agent memory: fast approximate nearest-neighbor a… |
+| 2026-10-31 03:35:07 | [apt-encoder](https://crates.io/crates/apt-encoder) | 0.1.0 | 0 | High-performance NOAA APT (Automatic Picture Transmission) encoder, AM audio mo… |
+| 2026-10-31 03:38:37 | [sdr-rtl](https://crates.io/crates/sdr-rtl) | 0.1.0 | 0 | A pure-Rust RTL2832U + R820T/R820T2 receiver driver over nusb, written from the… |
+| 2026-10-31 03:39:17 | [vulkane-slang-parse](https://crates.io/crates/vulkane-slang-parse) | 0.17.0 | 0 | The Slang front end for Unpopped: a tree-sitter Slang parser, the Slang residue… |
+| 2026-10-31 03:39:20 | [sdr-hackrf](https://crates.io/crates/sdr-hackrf) | 0.1.0 | 0 | A pure-Rust HackRF One driver over nusb: receive and transmit, no libusb, no li… |
+| 2026-10-31 03:39:45 | [sdr-uhd](https://crates.io/crates/sdr-uhd) | 0.1.0 | 0 | A USRP B2xx driver over libuhd's C API: receive with device timestamps, transmi… |
+| 2026-10-31 03:40:24 | [sdr-driver](https://crates.io/crates/sdr-driver) | 0.1.0 | 0 | One API over the sdr-* radio drivers: RTL-SDR, HackRF and USRP B2xx behind one… |
+| 2026-10-31 03:42:09 | [cosmograph](https://crates.io/crates/cosmograph) | 0.0.1 | 0 | Name reservation. Cosmograph is a simulator: a configurable world, history and… |
+| 2026-10-31 03:43:22 | [sealmesh-mcp](https://crates.io/crates/sealmesh-mcp) | 0.1.0 | 0 | The MCP server a coding agent mounts over stdio to reach sealmesh — Claude Code… |
+| 2026-10-31 03:44:42 | [naspeed](https://crates.io/crates/naspeed) | 0.1.0 | 0 | Transparent RUSTC_WRAPPER that caches registry crate artifacts once per volume… |
+| 2026-10-31 03:52:25 | [memweave](https://crates.io/crates/memweave) | 0.1.0-alpha.1 | 0 | Experimental and unstable: model-driven knowledge graph retrieval that returns… |
+| 2026-10-31 04:02:13 | [shukka](https://crates.io/crates/shukka) | 0.1.0 | 0 | Rust client for the Shukka release API, generated from the OpenAPI contract |
+| 2026-10-31 04:03:32 | [jadix_style_tokens](https://crates.io/crates/jadix_style_tokens) | 0.1.0 | 0 | Shared Tailwind/Uno-style utility token catalog and variant parsing for jadix |
+| 2026-10-31 04:08:55 | [gala](https://crates.io/crates/gala) | 0.0.0 | 0 | All dressed up with somewhere to render. |
+| 2026-10-31 04:12:34 | [storymap](https://crates.io/crates/storymap) | 0.2.1 | 0 | Turn a Markdown outline into a user story map, and render the map as HTML or an… |
+| 2026-10-31 04:16:01 | [mlmodelc-export](https://crates.io/crates/mlmodelc-export) | 0.1.0 | 0 | Compile a CoreML MLProgram protobuf into a runnable .mlmodelc bundle in pure Ru… |
+| 2026-10-31 04:16:14 | [byteflow-io](https://crates.io/crates/byteflow-io) | 0.1.0 | 0 | Host-side I/O integration layer for the Byteflow runtime |
+| 2026-10-31 04:17:13 | [apeireth-core](https://crates.io/crates/apeireth-core) | 2.0.0-rc.4 | 0 | Apeireth 主路径核心类型 (Episode/Note/Session/IdentityCard) — R14 Phase 1 入口 |
+| 2026-10-31 04:17:32 | [apeireth-governance](https://crates.io/crates/apeireth-governance) | 2.0.0-rc.4 | 0 | Canonical governance hook: the decision point the runtime consults before it ac… |
+| 2026-10-31 04:17:41 | [apeireth-image-cms](https://crates.io/crates/apeireth-image-cms) | 2.0.0-rc.4 | 0 | Pure-Rust ICC v2/v4 colour management: profile parsing and writing, transforms,… |
 
 ## Data source
 

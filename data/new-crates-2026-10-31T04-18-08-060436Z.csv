@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T03:26:16.81855Z,jadix_taffy,0.1.0,0,0,https://github.com/Zk3619/Jadix,A flexible UI layout library
+2026-10-31T03:26:53.843208Z,jadix_layout,0.1.0,0,0,https://github.com/Zk3619/Jadix,"CSS dimensions, logical units and grid track algorithms"
+2026-10-31T03:27:10.661481Z,jadix_lsp,0.1.0,0,0,https://github.com/Zk3619/Jadix,GUI-independent LSP transport and UTF-16 text edits for Jadix applications
+2026-10-31T03:29:03.982737Z,sstv-encoder,0.1.0,0,0,https://github.com/tcasaniv/sstv-encoder-rs,"High-performance SSTV (Slow Scan Television) encoder, image processor and audio modulator in Rust"
+2026-10-31T03:29:15.024152Z,fm-modulator,0.1.0,0,0,https://github.com/tcasaniv/fm-modulator-rs,High-performance FM modulator in Rust: encode WAV and MP3 audio to baseband I/Q signals for SDR
+2026-10-31T03:30:38.52791Z,sdr-core,0.1.0,0,0,https://github.com/MimoCAD/sdr-core,"The shared layer of the sdr-* radio drivers: the sc16 sample, one error type, tuning and gain types, a runtime-agnostic IQ stream"
+2026-10-31T03:30:52.58542Z,am-modulator,0.1.0,0,0,https://github.com/tcasaniv/am-modulator-rs,High-performance AM modulator in Rust: encode WAV and MP3 audio to baseband I/Q and RF carrier signals for SDR
+2026-10-31T03:31:51.634969Z,lrpt-encoder,0.1.0,0,0,https://github.com/tcasaniv/lrpt-encoder-rs,Encode images into Meteor-M N2-4 LRPT (Low Rate Picture Transmission) digital signals and OQPSK baseband I/Q
+2026-10-31T03:32:05.072532Z,warm-rust,0.6.5,0,0,https://github.com/writerslogic/warm,"Local-first search engine and agent memory: fast approximate nearest-neighbor and BM25 full-text search, encrypted stores, provable deletion, built on vector-symbolic architectures."
+2026-10-31T03:35:07.798133Z,apt-encoder,0.1.0,0,0,https://github.com/tcasaniv/apt-encoder-rs,"High-performance NOAA APT (Automatic Picture Transmission) encoder, AM audio modulator and FM I/Q synthesizer in Rust"
+2026-10-31T03:38:37.343153Z,sdr-rtl,0.1.0,0,0,https://github.com/MimoCAD/sdr-rtl,"A pure-Rust RTL2832U + R820T/R820T2 receiver driver over nusb, written from the vendor documents and bench records: streams that cannot lose samples unseen, every lost block counted, EEPROM read and…"
+2026-10-31T03:39:17.73237Z,vulkane-slang-parse,0.17.0,0,0,https://github.com/ciresnave/vulkane,"The Slang front end for Unpopped: a tree-sitter Slang parser, the Slang residue list and the `SLANG` Frontend that lifts Slang compute kernels into Unpopped's IR. Vulkane owns Slang."
+2026-10-31T03:39:20.853216Z,sdr-hackrf,0.1.0,0,0,https://github.com/MimoCAD/sdr-hackrf,"A pure-Rust HackRF One driver over nusb: receive and transmit, no libusb, no libhackrf"
+2026-10-31T03:39:45.325626Z,sdr-uhd,0.1.0,0,0,https://github.com/MimoCAD/sdr-uhd,"A USRP B2xx driver over libuhd's C API: receive with device timestamps, transmit, the negotiated USB speed; README builds libuhd from source"
+2026-10-31T03:40:24.305425Z,sdr-driver,0.1.0,0,0,https://github.com/MimoCAD/sdr-driver,"One API over the sdr-* radio drivers: RTL-SDR, HackRF and USRP B2xx behind one Device, one Stream of samples, every change placed and every loss the radio counts reported"
+2026-10-31T03:42:09.959418Z,cosmograph,0.0.1,0,0,https://github.com/merely-made/isocosm,"Name reservation. Cosmograph is a simulator: a configurable world, history and entity generator shared by Isocosm, Mesocosm and Eponym."
+2026-10-31T03:43:22.674435Z,sealmesh-mcp,0.1.0,0,0,https://github.com/SealMesh/sealmesh,The MCP server a coding agent mounts over stdio to reach sealmesh — Claude Code and Codex both
+2026-10-31T03:44:42.090725Z,naspeed,0.1.0,0,0,https://github.com/dacsang97/naspeed,Transparent RUSTC_WRAPPER that caches registry crate artifacts once per volume and clones them copy-on-write into every target/ dir
+2026-10-31T03:52:25.467547Z,memweave,0.1.0-alpha.1,0,0,,Experimental and unstable: model-driven knowledge graph retrieval that returns a tree of knowledge nodes
+2026-10-31T04:02:13.009851Z,shukka,0.1.0,0,0,https://github.com/shukka-app/sdk,"Rust client for the Shukka release API, generated from the OpenAPI contract"
+2026-10-31T04:03:32.278835Z,jadix_style_tokens,0.1.0,0,0,https://github.com/Zk3619/Jadix,Shared Tailwind/Uno-style utility token catalog and variant parsing for jadix
+2026-10-31T04:08:55.407109Z,gala,0.0.0,0,0,,All dressed up with somewhere to render.
+2026-10-31T04:12:34.294005Z,storymap,0.2.1,0,0,https://github.com/sosuisen/storymap,"Turn a Markdown outline into a user story map, and render the map as HTML or an image"
+2026-10-31T04:16:01.228677Z,mlmodelc-export,0.1.0,0,0,https://github.com/rebeckerspecialties/mlmodelc-export,"Compile a CoreML MLProgram protobuf into a runnable .mlmodelc bundle in pure Rust, without invoking Apple's coremlc."
+2026-10-31T04:16:14.423799Z,byteflow-io,0.1.0,0,0,https://github.com/mchael158/byteflow-io,Host-side I/O integration layer for the Byteflow runtime
+2026-10-31T04:17:13.064465Z,apeireth-core,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,Apeireth 主路径核心类型 (Episode/Note/Session/IdentityCard) — R14 Phase 1 入口
+2026-10-31T04:17:32.456601Z,apeireth-governance,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,Canonical governance hook: the decision point the runtime consults before it acts. Depends on core only.
+2026-10-31T04:17:41.613673Z,apeireth-image-cms,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,"Pure-Rust ICC v2/v4 colour management: profile parsing and writing, transforms, rendering intents, black point compensation"
