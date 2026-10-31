@@ -1,0 +1,63 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T16:20:35.729698Z,context-kernel-search-fts,0.1.0,0,0,https://github.com/GodSpeedAI/Context-Kernel,SQLite FTS5 search adapter for Context Kernel
+2026-10-31T16:20:38.365195Z,context-kernel-storage-sqlite,0.1.0,0,0,https://github.com/GodSpeedAI/Context-Kernel,SQLite storage adapter for Context Kernel
+2026-10-31T16:20:40.65346Z,context-kernel-adapter-filesystem,0.1.0,0,0,https://github.com/GodSpeedAI/Context-Kernel,Filesystem source adapter for Context Kernel
+2026-10-31T16:20:43.560041Z,context-kernel-auth,0.1.0,0,0,https://github.com/GodSpeedAI/Context-Kernel,Bearer-token authorization for Context Kernel transports
+2026-10-31T16:20:46.460481Z,context-kernel-embeddings,0.1.0,0,0,https://github.com/GodSpeedAI/Context-Kernel,Embedding provider adapters for Context Kernel
+2026-10-31T16:21:43.109273Z,omochi-protocol,0.2.0,0,0,https://github.com/omochi-ui/omochi,Framing and session contracts for Omochi native services
+2026-10-31T16:21:44.822825Z,omochi-local-discovery,0.2.0,0,0,https://github.com/omochi-ui/omochi,Local SDK service discovery for Omochi
+2026-10-31T16:21:45.214455Z,omochi-transport,0.2.0,0,0,https://github.com/omochi-ui/omochi,Iroh transport and device enrollment for Omochi
+2026-10-31T16:21:46.162154Z,omochi-gateway,0.2.0,0,0,https://github.com/omochi-ui/omochi,Native Omochi application gateway
+2026-10-31T16:21:46.672271Z,omochi-utils,0.2.0,0,0,https://github.com/omochi-ui/omochi,Native Omochi development utilities and MCP server
+2026-10-31T16:24:18.772874Z,rift-discord,0.1.0,0,0,https://github.com/isaim0011/rift,Fast Discord library: one client that runs REST + sharded gateway on a Rust core.
+2026-10-31T16:24:42.905018Z,proviso,0.0.0,0,0,https://github.com/proviso-dev/proviso,"Placeholder for the Proviso project, a local-first access layer between an AI model and an Ethereum wallet. Not yet released."
+2026-10-31T16:24:44.804618Z,optamus,1.0.0,0,0,https://github.com/optamus-ai/optamus-sdk,Optamus SDK — embed a full coding agent (Claude Code engine) in any Rust application
+2026-10-31T16:24:48.694479Z,context-kernel-vector,0.1.0,0,0,https://github.com/GodSpeedAI/Context-Kernel,Vector index adapter for Context Kernel
+2026-10-31T16:25:01.416206Z,proviso-types,0.0.0,0,0,https://github.com/proviso-dev/proviso,"Placeholder for the Proviso project, a local-first access layer between an AI model and an Ethereum wallet. Not yet released."
+2026-10-31T16:25:16.995458Z,proviso-policy,0.0.0,0,0,https://github.com/proviso-dev/proviso,"Placeholder for the Proviso project, a local-first access layer between an AI model and an Ethereum wallet. Not yet released."
+2026-10-31T16:25:36.630884Z,proviso-model,0.0.0,0,0,https://github.com/proviso-dev/proviso,"Placeholder for the Proviso project, a local-first access layer between an AI model and an Ethereum wallet. Not yet released."
+2026-10-31T16:25:54.006153Z,proviso-chain,0.0.0,0,0,https://github.com/proviso-dev/proviso,"Placeholder for the Proviso project, a local-first access layer between an AI model and an Ethereum wallet. Not yet released."
+2026-10-31T16:25:59.987974Z,holger-public-site,3.0.0,0,0,https://git.gunnar.rs/nordisk/holger-ui,"holger.rs's public face for crawlers and AI tools: robots.txt, the sitemap, llms.txt, llms-full.txt and the head tags of the front page. Built only when holger-ui-server's `public-site` feature is on."
+2026-10-31T16:27:25.576985Z,laposta-rs,0.1.1,0,0,https://github.com/robmeijerink/laposta-rs,Unofficial async client for the Laposta email marketing API
+2026-10-31T16:28:09.881739Z,deskbuddy,0.0.1,0,0,https://github.com/hezhangjian/DeskBuddy,DeskBuddy is a desktop productivity companion.
+2026-10-31T16:28:41.178752Z,redis-task-graph,0.1.0,0,0,https://github.com/evandowling/redis-task-graph,"A Redis-backed async task queue with typed task chains, leases, retries and adaptive concurrency"
+2026-10-31T16:28:49.838699Z,holger-scan-worker,3.0.0,0,0,https://git.gunnar.rs/nordisk/holger,"Holger's scan worker: the one program the scan sandbox runs, in a container with no network, over one read-only artifact. It holds holger-inspect (the walk and YARA), the model, licence and SBOM scan…"
+2026-10-31T16:29:42.200984Z,holger-ui-server,3.0.0,0,0,https://git.gunnar.rs/nordisk/holger-ui,The holger console's thin server as a library: the built bundle and a same-origin pass-through to holger (gRPC-web and the passkey door). The program is `cargo install holger-ui`; holger's estate fro…
+2026-10-31T16:30:29.315808Z,bevy_grimoire_rng,0.1.0,0,0,https://github.com/bevy-coven/bevy_grimoire,"One deterministic RNG for a whole simulation: a seeded ChaCha8 stream plus the unbiased integer and float draws generators actually need, reproducible from a single u64 across platforms and thread co…"
+2026-10-31T16:30:32.16801Z,bevy_grimoire_solver,0.1.1,0,0,https://github.com/bevy-coven/bevy_grimoire,"A Boolean satisfiability back-end that answers the same way every run, on every machine: no clock, no threads, no entropy, and a give-up budget counted in conflicts rather than seconds."
+2026-10-31T16:30:42.292003Z,bevy_grimoire_core,0.1.0,0,0,https://github.com/bevy-coven/bevy_grimoire,"Engine-free world-building core: constraint IR, solvers, WFC, deterministic RNG."
+2026-10-31T16:30:45.159824Z,bevy_grimoire_snip,0.1.0,0,0,https://github.com/bevy-coven/bevy_grimoire,"Cutting one rectangle out of a PNG of the bevy_grimoire editor, shared by the editor and the MCP server."
+2026-10-31T16:30:55.959258Z,bevy_grimoire,0.1.0,0,0,https://github.com/bevy-coven/bevy_grimoire,"The runtime half of grimoire: load a library and a map, and put it in a Bevy world."
+2026-10-31T16:33:04.379736Z,omochi-hub,0.2.0,0,0,https://github.com/omochi-ui/omochi,Native Omochi dashboard hub
+2026-10-31T16:33:20.448482Z,bevy_grimoire_anim,0.1.0,0,0,https://github.com/bevy-coven/bevy_grimoire,"Clip-weight blending on a skinned rig's AnimationPlayer — no transitions, one shared gait phase."
+2026-10-31T16:34:39.025207Z,susut,0.1.0,0,0,https://github.com/thetasdev/susut,"Fast CLI to compress, resize and convert images (JPEG, PNG, WebP, AVIF) to a target file size"
+2026-10-31T16:34:49.500398Z,context-kernel-app,0.1.0,0,0,https://github.com/GodSpeedAI/Context-Kernel,Application service layer for Context Kernel
+2026-10-31T16:35:11.387967Z,proviso-bench,0.0.0,0,0,https://github.com/proviso-dev/proviso,"Placeholder for the Proviso project, a local-first access layer between an AI model and an Ethereum wallet. Not yet released."
+2026-10-31T16:35:17.229987Z,testkit-rs,0.1.0,0,0,https://github.com/sibu-github/testkit-rs,"Lightweight, in-process service fakes for unit testing Rust applications with real client libraries."
+2026-10-31T16:35:46.465191Z,letterlock,0.2.0,0,0,https://github.com/pravin/letterlock,A free five-letter word-guessing game for the terminal
+2026-10-31T16:41:50.215066Z,unslice-dst-cast,0.1.0,0,0,https://github.com/fnr1r/unslice-dst,Slice-like DST casting support
+2026-10-31T16:42:43.154583Z,ripeat,0.0.0,0,0,https://github.com/ripeat/ripeat,Repeatable machine setup. Placeholder to reserve the name.
+2026-10-31T16:44:49.293618Z,context-kernel-mcp,0.1.0,0,0,https://github.com/GodSpeedAI/Context-Kernel,MCP protocol surface for Context Kernel
+2026-10-31T16:50:41.837152Z,nativekt-build,4.0.2,0,0,https://github.com/husker-dev/native-kt,Build-time Native-Kt bindings generation with a bundled CLI
+2026-10-31T16:50:49.107091Z,formatjs_java_printf_parser,0.2.0,0,0,https://github.com/formatjs/formatjs,Parser for Java Formatter printf-style format strings
+2026-10-31T16:50:51.058309Z,formatjs_apple_printf_parser,0.1.0,0,0,https://github.com/formatjs/formatjs,Parser for Apple Foundation printf-style format strings
+2026-10-31T16:51:00.261849Z,nativekt-macros,4.0.2,0,0,https://github.com/husker-dev/native-kt,Procedural macros for Native-Kt bindings
+2026-10-31T16:52:37.246371Z,ariad-core,0.2.0,0,0,https://github.com/bavanchun/AriadShift,Core document intermediate representation and deterministic AST types for AriadShift
+2026-10-31T16:52:53.385992Z,hospitalbagchecklist-url-tools,0.1.0,0,0,https://github.com/wangneo276-lgtm/hospitalbagchecklist-url-tools,"A free hospital bag checklist that tracks what you have, what to buy, what’s packed, what to ask your hospital and what to grab last. Saved on your device; print or PDF."
+2026-10-31T16:54:05.777751Z,ariad-typst,0.2.0,0,0,https://github.com/bavanchun/AriadShift,In-memory Typst PDF compiler shared by native and browser surfaces
+2026-10-31T16:54:48.822094Z,context-kernel-transport-stdio,0.1.0,0,0,https://github.com/GodSpeedAI/Context-Kernel,Stdio transport for the Context Kernel MCP server
+2026-10-31T16:55:10.1635Z,ariad-host,0.2.0,0,0,https://github.com/bavanchun/AriadShift,Host engine orchestration and sandboxed document conversion pipeline for AriadShift
+2026-10-31T16:55:53.928279Z,akivili-guard,0.2.23,0,0,https://github.com/celestia-island/akivili,Egress network guard — URL/IP policy enforcement with DNS-rebinding-safe resolution
+2026-10-31T16:56:23.376229Z,ariad-cli,0.2.0,0,0,https://github.com/bavanchun/AriadShift,Command-line interface and Model Context Protocol (MCP) server for AriadShift (ashift)
+2026-10-31T16:56:26.185172Z,akivili-ptc,0.2.23,0,0,https://github.com/celestia-island/akivili,Sandboxed TypeScript to JavaScript execution pipeline (SWC transpile + AST safety validation)
+2026-10-31T16:56:35.743606Z,akivili-registry,0.2.23,0,0,https://github.com/celestia-island/akivili,"Plugin registry — resource discovery, host feeding, handles, and append-only audit"
+2026-10-31T16:57:32.298713Z,graduate,0.1.0,0,0,https://github.com/naatebarber/graduate,Small autograd framework
+2026-10-31T16:58:59.828416Z,mcopts,0.1.0,0,0,https://git.hu-tao.dev/hutao/mcopts,A library for managing your Minecraft options
+2026-10-31T17:01:45.014232Z,iec61850-cmd,0.0.1,0,0,https://github.com/alfred-hong/iec61850-cmd,IEC 61850 library. Published as iec61850-cmd because the crates.io name iec61850 is already taken.
+2026-10-31T17:02:37.609844Z,reprise,0.2.1,0,0,https://github.com/emredagci/reprise,"A second brain for your coding agent: project state, decisions and rules kept as Markdown in a vault you own."
+2026-10-31T17:04:50.297269Z,context-kernel-transport-sse,0.1.0,0,0,https://github.com/GodSpeedAI/Context-Kernel,HTTP and SSE transport for the Context Kernel MCP server
+2026-10-31T17:07:10.924163Z,ziyuan-memory,1.3.0,0,0,https://github.com/YuuUehara/Ziyuan,向量翻译记忆库的派生索引：紫垣（ZiYuan）的内部组件，供 ziyuan-app 使用；Rust API 不保证稳定。
+2026-10-31T17:08:54.7262Z,iec61850-cmd-server,0.0.1,0,0,https://github.com/alfred-hong/iec61850-cmd,iec61850_server command line. Package name avoids the taken crates.io name iec61850-server.
+2026-10-31T17:09:16.93431Z,iec61850-cmd-client,0.0.1,0,0,https://github.com/alfred-hong/iec61850-cmd,iec61850_client command line. Package name avoids the taken crates.io name iec61850-client.
+2026-10-31T17:12:38.765825Z,serde-json-slice,0.1.0,0,0,https://github.com/powersemmi/serde-json-slice,"A no_std, no-alloc JSON serializer for serde that writes into a caller's buffer and never panics"
+2026-10-31T17:14:50.605361Z,context-kernel,0.1.0,0,0,https://github.com/GodSpeedAI/Context-Kernel,"Context Kernel: local, governed context service over MCP (stdio and SSE)"
