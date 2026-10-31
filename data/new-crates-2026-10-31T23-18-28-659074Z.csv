@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T22:22:49.636682Z,fs-tar,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Export any disk-core filesystem to tar / tar.gz / tar.zst, and import a tar into any editable one"
+2026-10-31T22:23:56.969089Z,punctum-macros,0.1.0,0,0,https://github.com/ss123she/punctum,Procedural macros for punctum: #[gpu_kernel] and include_spv!
+2026-10-31T22:24:44.430295Z,fieldglass-aec,0.6.0,0,0,https://github.com/D0ubleD0uble/fieldglass,"Decodes CCSDS adaptive entropy coding (AEC, also called szip) in pure Rust, checked against libaec"
+2026-10-31T22:26:39.841417Z,kixel,0.0.0,0,0,https://github.com/kixelated/kixel.ai,"Kixel: mesh your local network and make it available anywhere, built on MoQ."
+2026-10-31T22:28:00.119275Z,punctum-bundler,0.1.0,0,0,https://github.com/ss123she/punctum,Build-script bundler for punctum: collects #[gpu_kernel] code into a shadow crate and compiles it to SPIR-V with rust-gpu
+2026-10-31T22:29:30.66821Z,permission-guide,0.1.0,0,0,https://github.com/builtby-win/permission-guide,"Rust bindings for the native macOS permission guide panel (Accessibility, Screen Recording, Input Monitoring)"
+2026-10-31T22:29:40.955873Z,rind-dimpl,0.1.0,0,0,https://github.com/moq-dev/rind,dimpl CryptoProvider backed by rind
+2026-10-31T22:29:46.249695Z,rind-rcgen,0.1.0,0,0,https://github.com/moq-dev/rind,rcgen SigningKey backed by rind
+2026-10-31T22:29:47.505208Z,permission-guide-tauri,0.1.0,0,0,https://github.com/builtby-win/permission-guide,build.rs helper for apps using tauri-plugin-permission-guide (Swift runtime rpath)
+2026-10-31T22:29:52.20871Z,rind-rustls,0.1.0,0,0,https://github.com/moq-dev/rind,rustls CryptoProvider backed by rind
+2026-10-31T22:30:02.356349Z,socialpublishkit,0.1.1,0,0,https://github.com/caporalCoder/socialpublishkit,Rust client for the local SocialPublishKit publishing gateway
+2026-10-31T22:30:07.453056Z,tauri-plugin-permission-guide,0.1.0,0,0,https://github.com/builtby-win/permission-guide,"Tauri v2 plugin: docked macOS permission guide panel (Accessibility, Screen Recording, Input Monitoring)"
+2026-10-31T22:30:08.506991Z,rind-object-store,0.1.0,0,0,https://github.com/moq-dev/rind,object_store CryptoProvider backed by rind
+2026-10-31T22:30:17.009592Z,punctum-common,0.1.0,0,0,https://github.com/ss123she/punctum,"Shared shader toolkit for punctum: math, canvas, text, HUD and audio spectrum, usable on both GPU and CPU"
+2026-10-31T22:30:20.439656Z,tnp,0.2.0,0,0,https://github.com/jorgeandrecastro/tinyNetwork,tinyNetwork Protocol (TNP): no_std packet encoding/decoding with CRC16 and 802.11 Action Frame wrapping for raw-frame mesh networking
+2026-10-31T22:31:16.422182Z,punctum,0.1.1,0,0,https://github.com/ss123she/punctum,Minimal framework for writing and launching compute shaders in pure Rust (wgpu + rust-gpu)
+2026-10-31T22:31:45.915626Z,spellchecker,0.1.2,0,0,https://github.com/tomconder/spellchecker,A spell checker based on the probabilistic algorithm described by Peter Norvig in http://norvig.com/spell-correct.html
+2026-10-31T22:32:57.500039Z,rind-jsonwebtoken,0.1.0,0,0,https://github.com/moq-dev/rind,jsonwebtoken CryptoProvider backed by rind
+2026-10-31T22:34:02.020427Z,dsk-tape,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Tape images as browsable, editable trees; first format: Sun QIC tapes (SUN2TAPE .qic)"
+2026-10-31T22:40:20.271373Z,levelize,0.0.1,0,0,https://github.com/FreedomBen/levelize,Adaptive loudness leveling for spoken-word audio — a modern Levelator as a CLI
+2026-10-31T22:47:18.12385Z,tvctl,0.1.0,0,0,https://github.com/yusukeshib/tvctl,"Play YouTube, Spotify and more in windows on your screen and control them from the command line (built for AI agents)"
+2026-10-31T22:47:46.027481Z,toolguard-core,0.1.0,0,0,https://github.com/KarandeepSinghSodhi/toolguard,"Core schema validation, safe coercion, and model-readable error rendering for LLM tool calls"
+2026-10-31T22:47:57.607521Z,toolguard-mcp,0.1.0,0,0,https://github.com/KarandeepSinghSodhi/toolguard,Transparent Model Context Protocol (MCP) stdio and HTTP proxy for LLM tool call validation
+2026-10-31T22:48:11.392702Z,toolguard,0.1.0,0,0,https://github.com/KarandeepSinghSodhi/toolguard,CLI tool and MCP proxy for ToolGuard - auto-repair and validate LLM tool calls
+2026-10-31T22:49:24.280468Z,carrion,0.1.0,0,0,https://github.com/serioscat/carrion,Super customizable overlay
+2026-10-31T22:49:25.305362Z,carrion-api,0.1.0,0,0,https://github.com/serioscat/carrion,API for carrion-overlay
+2026-10-31T22:49:26.430122Z,carrion-config,0.1.0,0,0,https://github.com/serioscat/carrion,Config manager for carrion-overlay
+2026-10-31T22:50:43.403891Z,url-cleaner-site-client,0.12.0,0,0,https://github.com/Scripter17/url-cleaner,A CLI client for URL Cleaner Site.
+2026-10-31T22:55:38.308549Z,kelp-core,0.1.0,0,0,https://github.com/EvanLuo42/kelp,"Core types shared by every Kelp component: ids, depot paths, typemap."
+2026-10-31T22:55:38.840521Z,kelp-plugin,0.1.0,0,0,https://github.com/EvanLuo42/kelp,"WASM component host for chunker, merger, differ and trigger plugins."
+2026-10-31T22:55:39.261285Z,kelp-vfs,0.1.0,0,0,https://github.com/EvanLuo42/kelp,Projected workspaces: files appear immediately and download on first use.
+2026-10-31T22:55:40.230744Z,kelp-cas,0.1.0,0,0,https://github.com/EvanLuo42/kelp,"Content-addressed storage: chunking, file manifests and blob store backends."
+2026-10-31T22:55:40.508745Z,kelp-prolly,0.1.0,0,0,https://github.com/EvanLuo42/kelp,"History-independent, content-defined B-trees (prolly trees) over byte keys."
+2026-10-31T23:01:52.676409Z,r2e-tracing,0.1.0,0,0,https://github.com/plawn/r2e,"Process-global tracing subscriber for R2E - options, formats and the one-shot install"
+2026-10-31T23:05:22.930653Z,kelp-meta,0.1.0,0,0,https://github.com/EvanLuo42/kelp,"Metadata: replicated-log commands, deterministic state machine, Merkle trees, locks."
+2026-10-31T23:06:34.217327Z,kelp-proto,0.1.0,0,0,https://github.com/EvanLuo42/kelp,"The kelp/1 wire protocol: framing, message types and version negotiation."
+2026-10-31T23:12:23.895218Z,magistr-domain,1.0.0-beta.2,0,0,https://github.com/AlrikOlson/magistr,"Deterministic Magistr identities, run rules, policy and verification values"
+2026-10-31T23:12:25.437431Z,magistr-application,1.0.0-beta.2,0,0,https://github.com/AlrikOlson/magistr,Typed Magistr use cases and adapter-owned effect ports
+2026-10-31T23:12:26.581419Z,magistr-process,1.0.0-beta.2,0,0,https://github.com/AlrikOlson/magistr,"Magistr's one owned-process mechanism: a child in its own process group, bounded capture, a timeout and a cancel that end the whole group"
+2026-10-31T23:12:27.642311Z,magistr-acp,1.0.0-beta.2,0,0,https://github.com/AlrikOlson/magistr,"Magistr's ACP (Agent Client Protocol) transport: spawns an ACP agent, drives the session, and bridges permission, filesystem and terminal requests"
+2026-10-31T23:12:29.001913Z,magistr-acp-agent,1.0.0-beta.2,0,0,https://github.com/AlrikOlson/magistr,"Magistr's ACP (Agent Client Protocol) agent side: the session registry, turn queue, permission relay and cancel plumbing every Provider stands on, served by `magistr acp-agent`"
+2026-10-31T23:16:10.88713Z,magistr-workflow-contracts,1.0.0-beta.2,0,0,https://github.com/AlrikOlson/magistr,Canonical workflow records and projection values without storage or runtime effects
+2026-10-31T23:16:41.242615Z,kelp-workspace,0.1.0,0,0,https://github.com/EvanLuo42/kelp,"Client-side workspace model: view mapping, pending changelists, hunk ownership, persisted state."
