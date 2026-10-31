@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T06:19:28.005501Z,jadix_dnd,0.1.0,0,0,https://github.com/Zk3619/Jadix,Independent Jadix UI product with optional macro authoring
+2026-10-31T06:20:36.227862Z,oino-wasm-host,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,Wasmtime component host for oino:extension@2.0.0 components
+2026-10-31T06:21:40.621526Z,stable-flight-sitl-xplane,0.2.0,0,0,https://github.com/wboayue/stable-flight,X-Plane simulator backend for the Stable Flight flight controller
+2026-10-31T06:23:06.512682Z,envira,0.1.0,0,0,https://github.com/ControlNet/envira,"Install, update and track a Linux and macOS toolset from a declarative TOML catalog"
+2026-10-31T06:23:58.891375Z,crush-net,0.9.0,0,0,https://github.com/nixpt/crush-ast,"Portable, std-only TCP/TLS network stack exposed as CRUSH host capabilities."
+2026-10-31T06:27:13.144031Z,apeireth-credentials,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,Apeireth 统一凭据存取层 (TP3/N21): 按服务名读写凭据 (CredentialsStore trait + 文件形态后端) + 权限洋葱衔接 (高危凭据审批门) + 脱敏红线 (明文不入日志/错误). TP20-S3 塞缝批: KeyringBackend trait + 平台 keyring 后端 + EncryptedFileBackend fallback (chacha…
+2026-10-31T06:28:30.362799Z,razorpdf-core,0.1.1,0,0,https://github.com/shridhargsabat/razorpdf,"Core Rust engine for razorpdf: geometry, triage, VLM fallback, output"
+2026-10-31T06:29:05.012756Z,razorpdf,0.1.1,0,0,https://github.com/shridhargsabat/razorpdf,Hybrid local-first PDF parser: deterministic Rust geometry + selective sub-page VLM. CLI + MCP server.
+2026-10-31T06:31:23.852581Z,oino-tui,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,Oino interactive terminal client over oino-client
+2026-10-31T06:31:47.96466Z,jadix_lucide,0.1.0,0,0,https://github.com/Zk3619/Jadix,"Lucide static icons, animated playback and recipes for Jadix"
+2026-10-31T06:39:54.447079Z,apeireth-storage,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,"Canonical storage foundation: SQLite pool, configuration, schema migrations, and storage errors."
+2026-10-31T06:41:06.03502Z,gage-core,0.1.0,0,0,https://github.com/distillerylabs/gage-rs,"gage library: vaults, entries, sessions. No terminal I/O."
+2026-10-31T06:42:25.095746Z,oino-cli,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,"The Oino command-line binary: interactive (TUI), print, JSON, RPC and ACP modes"
+2026-10-31T06:42:28.556957Z,configurant-web,0.0.0,0,0,https://github.com/ThinkersJournal/configurant,Placeholder for the browser renderer of ConfigurAnt's wizard (name claimed; no code yet).
+2026-10-31T06:43:06.063845Z,gage-cli,0.1.0,0,0,https://github.com/distillerylabs/gage-rs,gage command-line frontend (binary: gage)
+2026-10-31T06:44:20.381713Z,jadix_components,0.1.0,0,0,https://github.com/Zk3619/Jadix,Jadix native UI components with optional RSX authoring
+2026-10-31T06:49:56.781851Z,istmo-camera,0.1.1-alpha.5,0,0,https://github.com/SergioRibera/istmo,"Cross-platform camera plugin for the istmo framework — enumerate devices, stream frames in real time, and drive controls through a typed Rust surface."
+2026-10-31T06:52:07.618453Z,jadix_window_state,0.1.0,0,0,https://github.com/Zk3619/Jadix,Cross-platform window state persistence (TOML) for jadix / winit apps
+2026-10-31T06:52:35.011139Z,oino-extension-macros,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,Proc macros for the Oino guest SDK
+2026-10-31T06:53:13.106207Z,apeireth-memory,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,"Apeireth canonical memory: durable storage, ACT-R retrieval, graph primitives, and vector indexing"
+2026-10-31T06:57:28.95735Z,mc-skin-avatar,0.1.0,0,0,,"Image-level helpers for Minecraft skin textures: validation, slim detection, and head avatar rendering."
+2026-10-31T07:00:29.757979Z,oino-extension,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,Guest SDK for Oino WASM component extensions (oino:extension@2.0.0)
+2026-10-31T07:00:45.279826Z,apeireth-provider,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,"Canonical provider capabilities for Anthropic, MiniMax, and OpenAI-compatible APIs"
+2026-10-31T07:10:33.511424Z,apeireth-organ,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,Apeireth 9-organ 真实现 (P-arch 2026-08-28): v1 companion era 9 organ (W1/W2/W3/E4/F4/F1/F6/E7/Memory) 语义对齐到 v2 OrganTrait 抽象边界. v2.0-rc.1 E4/F4/F6/F1 真实现 (确定性无 LLM 器官); 其余 5 organ (W1/W2/W3/E7/Memory)…
+2026-10-31T07:15:15.438455Z,rig-mcp-client,0.46.0,0,0,https://github.com/0xPlaygrounds/rig,"MCP servers' tools for the Rig coding agent: stdio and streamable HTTP servers from mcp.json, project servers only once approved, and /mcp."
+2026-10-31T07:16:26.687059Z,rig-acp,0.46.0,0,0,https://github.com/0xPlaygrounds/rig,"An ACP (Agent Client Protocol) front for the rig coding agent: `rig acp` lets editors such as Zed use rig's models, tools, sessions and commands."
+2026-10-31T07:17:12.846341Z,rig-claude-cloak,0.46.0,0,0,https://github.com/0xPlaygrounds/rig,Opt-in Anthropic subscription OAuth provider for the Rig coding agent
+2026-10-31T07:17:56.477205Z,fountain_transfer_core,2.0.0,0,0,https://github.com/shhyang/fountain_transfer,Library-first transfer facade over RaptorQ and Raptor10 codecs
+2026-10-31T07:18:13.629023Z,fountain_transfer,2.0.0,0,0,https://github.com/shhyang/fountain_transfer,Rateless UDP file transfer CLI built on fountain_transfer_core
