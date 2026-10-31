@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T21:19:37.988962Z,document-graphics-mermaid,0.1.0,0,0,https://github.com/garlab/mermaid-rs-renderer,Mermaid renderer fork with embedded-font metrics and chart-label fixes
+2026-10-31T21:19:54.347138Z,semblance-rng,0.3.1,0,0,https://github.com/miki-przygoda/semblance,"One frozen, auditable random source: SplitMix64 seeding xoshiro256++, with a stability contract backed by test vectors."
+2026-10-31T21:20:03.113854Z,max-empty-circle,0.1.1,0,0,https://github.com/Wolren/MaxEmptyCircle,Finds the largest circle that fits between obstacles
+2026-10-31T21:20:03.279833Z,semblance-flyvis,0.3.1,0,0,https://github.com/miki-przygoda/semblance,"flyvis (Lappalainen et al. 2024) in Rust: reads the published connectome spec, expands it bit-exactly into the realised network, carries flyvis's trained parameters and ground truth (MIT data; see NO…"
+2026-10-31T21:27:52.493851Z,part-tables,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Parse and write disk partition tables and labels: MBR, GPT, Apple APM, BSD, Sun, SGI, NeXT, Amiga RDB, Atari AHDI, X68000, Solaris x86, AIX / HP-UX LVM"
+2026-10-31T21:35:16.185835Z,cortexkit-role-tool-display,0.1.0,0,0,https://github.com/cortexkit/commons,Wire shapes and validators for provider-authored tool-display/v1 data.
+2026-10-31T21:35:41.440792Z,unhood,0.1.0,0,0,,unhood
+2026-10-31T21:39:00.422695Z,fs-mac,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Read, edit, create, check and clone classic Mac filesystems: MFS, HFS (incl. HFV images), HFS+/HFSX and Lisa, plus resource forks and BinHex"
+2026-10-31T21:40:19.520443Z,kiosk-docgen,0.3.0,0,0,https://github.com/thomasschafer/kiosk,Generates the configuration reference in a kiosk product's README from its config types
+2026-10-31T21:47:17.249658Z,rustc-dist,0.1.0,0,0,https://github.com/estokes/rustc-dist,"Schedules rustc on the right cores of each box, and shares builds across boxes over netidx"
+2026-10-31T21:50:07.894122Z,dsk-ghost,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Read Norton Ghost .gho / .ghs images (whole-disk and partition, compressed, spanned, password-protected), including file-aware FAT and NTFS images"
+2026-10-31T21:53:30.433902Z,autumn-plugin-cloudflare,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-cloudflare,"Run an autumn-web application behind Cloudflare: real client IP, origin lock, cache tags, and cache purge"
+2026-10-31T21:54:16.840934Z,pipeglass,0.0.1,0,0,,Local log viewer
+2026-10-31T21:56:58.630607Z,fatresize,0.1.0,0,0,https://github.com/GalaxyGorilla/fatresize-rs,A clean-room Rust implementation of FAT filesystem resizing
+2026-10-31T21:57:02.102014Z,parted,0.1.0,0,0,https://github.com/GalaxyGorilla/parted-rs,"A clean-room, Rust-only disk partitioning tool"
+2026-10-31T21:58:41.26254Z,dc-client-state,0.1.0,0,0,https://github.com/DC-Highs/rust-packages,Access and manage Dragon City Windows client state (UserDefault.xml and local cached assets).
+2026-10-31T22:01:02.258115Z,fs-unix,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Read, edit and check Unix-family filesystems: ext2/3/4, UFS/FFS, SGI EFS, JFS, btrfs, ReiserFS, VxFS, Minix and BeOS BFS"
+2026-10-31T22:10:01.182662Z,benday-dots,0.1.0,0,0,https://github.com/RootInit/benday-dots,"Turn photos into Silver-Age comic prints with Ben-Day dots, as a library and a CLI"
+2026-10-31T22:11:56.011021Z,arc-mac,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Read classic Mac archives: StuffIt 1.5 / 5 / SEA, Compact Pro, MacBinary, BinHex, MacZip and mar, with resource forks and Finder info; write StuffIt and mar"
+2026-10-31T22:18:53.657238Z,filer-api,0.0.0,0,0,https://github.com/artob/filer,Platform-independent Filer API.
+2026-10-31T22:18:56.721836Z,ubifs,0.1.0,0,0,https://github.com/roman901/ubifs-rs,"Pure-Rust UBIFS/UBI image reader, builder and modifier (mkfs.ubifs-compatible)"
+2026-10-31T22:19:00.21522Z,filer-posix,0.0.0,0,0,https://github.com/artob/filer,POSIX backend for the Filer API on Unix platforms.
+2026-10-31T22:19:05.713735Z,filer-wasi,0.0.0,0,0,https://github.com/artob/filer,WASI backend for the Filer API on WebAssembly System Interface targets.
+2026-10-31T22:19:10.458451Z,filer-windows,0.0.0,0,0,https://github.com/artob/filer,Windows backend for the Filer API.
+2026-10-31T22:19:16.847747Z,filer-cli,0.0.0,0,0,https://github.com/artob/filer,Command-line interface for Filer.
