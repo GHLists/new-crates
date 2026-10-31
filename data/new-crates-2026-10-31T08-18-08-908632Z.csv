@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T07:20:42.824419Z,apeireth-runtime,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,"Canonical Apeireth runtime mechanism kernel with abstract ports, registries, approvals, and events"
+2026-10-31T07:21:00.58768Z,rig-traffic,0.46.0,0,0,https://github.com/0xPlaygrounds/rig,Opt-in provider HTTP traffic recording for the Rig coding agent.
+2026-10-31T07:25:32.300357Z,fountain_codec,0.1.0,0,0,https://github.com/shhyang/fountain_codec,OSS C ABI fountain codecs: RaptorQ and Raptor 10 on fountain_engine / fountain_scheme
+2026-10-31T07:34:01.037758Z,phi-cap,0.1.0,0,0,https://github.com/hibuka-labs/phi-cap,"Capability vocabulary for the phi family: one declaration language, one decision vocabulary"
+2026-10-31T07:34:53.14576Z,phi-ns,0.1.0,0,0,https://github.com/hibuka-labs/phi-ns,"NamespaceProvider contract, built-in sh.* pack, and the shared audit Gate for the phi family"
+2026-10-31T07:37:03.656075Z,phi-ns-mobile,0.1.0,0,0,https://github.com/hibuka-labs/phi-ns-mobile,Mobile capability pack (m.*): observe/input/file over the mu broker wire
+2026-10-31T07:37:04.2734Z,phi-ns-desktop,0.1.0,0,0,https://github.com/hibuka-labs/phi-ns-desktop,"Desktop capability pack (desk.*): screen, accessibility, pointer/keyboard over the cua wire stub"
+2026-10-31T07:37:06.470191Z,codexec,0.1.0,0,0,https://github.com/hibuka-labs/codexec,"CodeAct execution layer: code cells as actions, policy-gated and journaled"
+2026-10-31T07:37:57.159946Z,phi-ns-browser,0.1.0,0,0,https://github.com/hibuka-labs/phi-ns-browser,"Browser capability pack (b.*): CDP session, DOM query, screenshots as ImageRef"
+2026-10-31T07:40:21.171512Z,apeireth-tools-canonical,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,"Canonical builtin tool capabilities: filesystem / search / repo (默认启用); shell / fetch (opt-in, 默认关); egress 策略 + 唯一 ProcessExecutor 边界（Windows Job Object + CREATE_SUSPENDED 三 OS 隔离）"
+2026-10-31T07:48:10.206446Z,zandbox,0.1.0,0,0,https://github.com/nixpt/zandbox,"Linux process sandboxing applied from pre_exec: namespaces, capability drop, landlock, seccomp, cgroup v2 limits, a clean environment, fail-closed by choice."
+2026-10-31T07:48:32.96257Z,apeireth,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,Apeireth engine facade — single-dependency entry point that re-exports the core engine modules (no new capabilities)
+2026-10-31T08:03:59.982144Z,grh,0.1.3,0,0,https://github.com/greenharness/grh,"One command to install, audit and remove the Green Harness parts"
+2026-10-31T08:05:29.152779Z,dope-amqp091-fiber,0.20.0,0,0,https://github.com/dope-rs/amqp091,Fiber API for the dope AMQP 0-9-1 manifold client
+2026-10-31T08:08:42.087973Z,apeireth-runtime-assembly,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,Production assembly for the Apeireth runtime kernel
+2026-10-31T08:08:52.535447Z,ormify_sqlite,1.0.1,0,0,https://github.com/Fasterino/ormify_sqlite,Realization of SQLite for ormify ORM Framework for your SQLite database.
+2026-10-31T08:11:39.382356Z,rp2350-hazard3-hal,0.1.1,0,0,https://github.com/alessioMaroni/rp2350-hazard3-hall,Bare-metal MISRA C compliant HAL (Hardware Abstraction Layer) for RP2350 Hazard3 RISC-V

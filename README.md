@@ -8,43 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 07:18 UTC
+## Latest list — 2026-10-31 08:18 UTC
 
-New crates published between 2026-10-31 06:18 UTC and 2026-10-31 07:18 UTC.
+New crates published between 2026-10-31 07:18 UTC and 2026-10-31 08:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-31T07-18-28-457845Z.csv)
+[Full CSV](data/new-crates-2026-10-31T08-18-08-908632Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-31 06:19:28 | [jadix_dnd](https://crates.io/crates/jadix_dnd) | 0.1.0 | 0 | Independent Jadix UI product with optional macro authoring |
-| 2026-10-31 06:20:36 | [oino-wasm-host](https://crates.io/crates/oino-wasm-host) | 1.0.0 | 0 | Wasmtime component host for oino:extension@2.0.0 components |
-| 2026-10-31 06:21:40 | [stable-flight-sitl-xplane](https://crates.io/crates/stable-flight-sitl-xplane) | 0.2.0 | 0 | X-Plane simulator backend for the Stable Flight flight controller |
-| 2026-10-31 06:23:06 | [envira](https://crates.io/crates/envira) | 0.1.0 | 0 | Install, update and track a Linux and macOS toolset from a declarative TOML cat… |
-| 2026-10-31 06:23:58 | [crush-net](https://crates.io/crates/crush-net) | 0.9.0 | 0 | Portable, std-only TCP/TLS network stack exposed as CRUSH host capabilities. |
-| 2026-10-31 06:27:13 | [apeireth-credentials](https://crates.io/crates/apeireth-credentials) | 2.0.0-rc.4 | 0 | Apeireth 统一凭据存取层 (TP3/N21): 按服务名读写凭据 (CredentialsStore trait + 文件形态后端) + 权限洋葱衔接… |
-| 2026-10-31 06:28:30 | [razorpdf-core](https://crates.io/crates/razorpdf-core) | 0.1.1 | 0 | Core Rust engine for razorpdf: geometry, triage, VLM fallback, output |
-| 2026-10-31 06:29:05 | [razorpdf](https://crates.io/crates/razorpdf) | 0.1.1 | 0 | Hybrid local-first PDF parser: deterministic Rust geometry + selective sub-page… |
-| 2026-10-31 06:31:23 | [oino-tui](https://crates.io/crates/oino-tui) | 1.0.0 | 0 | Oino interactive terminal client over oino-client |
-| 2026-10-31 06:31:47 | [jadix_lucide](https://crates.io/crates/jadix_lucide) | 0.1.0 | 0 | Lucide static icons, animated playback and recipes for Jadix |
-| 2026-10-31 06:39:54 | [apeireth-storage](https://crates.io/crates/apeireth-storage) | 2.0.0-rc.4 | 0 | Canonical storage foundation: SQLite pool, configuration, schema migrations, an… |
-| 2026-10-31 06:41:06 | [gage-core](https://crates.io/crates/gage-core) | 0.1.0 | 0 | gage library: vaults, entries, sessions. No terminal I/O. |
-| 2026-10-31 06:42:25 | [oino-cli](https://crates.io/crates/oino-cli) | 1.0.0 | 0 | The Oino command-line binary: interactive (TUI), print, JSON, RPC and ACP modes |
-| 2026-10-31 06:42:28 | [configurant-web](https://crates.io/crates/configurant-web) | 0.0.0 | 0 | Placeholder for the browser renderer of ConfigurAnt's wizard (name claimed; no… |
-| 2026-10-31 06:43:06 | [gage-cli](https://crates.io/crates/gage-cli) | 0.1.0 | 0 | gage command-line frontend (binary: gage) |
-| 2026-10-31 06:44:20 | [jadix_components](https://crates.io/crates/jadix_components) | 0.1.0 | 0 | Jadix native UI components with optional RSX authoring |
-| 2026-10-31 06:49:56 | [istmo-camera](https://crates.io/crates/istmo-camera) | 0.1.1-alpha.5 | 0 | Cross-platform camera plugin for the istmo framework — enumerate devices, strea… |
-| 2026-10-31 06:52:07 | [jadix_window_state](https://crates.io/crates/jadix_window_state) | 0.1.0 | 0 | Cross-platform window state persistence (TOML) for jadix / winit apps |
-| 2026-10-31 06:52:35 | [oino-extension-macros](https://crates.io/crates/oino-extension-macros) | 1.0.0 | 0 | Proc macros for the Oino guest SDK |
-| 2026-10-31 06:53:13 | [apeireth-memory](https://crates.io/crates/apeireth-memory) | 2.0.0-rc.4 | 0 | Apeireth canonical memory: durable storage, ACT-R retrieval, graph primitives,… |
-| 2026-10-31 06:57:28 | [mc-skin-avatar](https://crates.io/crates/mc-skin-avatar) | 0.1.0 | 0 | Image-level helpers for Minecraft skin textures: validation, slim detection, an… |
-| 2026-10-31 07:00:29 | [oino-extension](https://crates.io/crates/oino-extension) | 1.0.0 | 0 | Guest SDK for Oino WASM component extensions (oino:extension@2.0.0) |
-| 2026-10-31 07:00:45 | [apeireth-provider](https://crates.io/crates/apeireth-provider) | 2.0.0-rc.4 | 0 | Canonical provider capabilities for Anthropic, MiniMax, and OpenAI-compatible A… |
-| 2026-10-31 07:10:33 | [apeireth-organ](https://crates.io/crates/apeireth-organ) | 2.0.0-rc.4 | 0 | Apeireth 9-organ 真实现 (P-arch 2026-08-28): v1 companion era 9 organ (W1/W2/W3/E4… |
-| 2026-10-31 07:15:15 | [rig-mcp-client](https://crates.io/crates/rig-mcp-client) | 0.46.0 | 0 | MCP servers' tools for the Rig coding agent: stdio and streamable HTTP servers… |
-| 2026-10-31 07:16:26 | [rig-acp](https://crates.io/crates/rig-acp) | 0.46.0 | 0 | An ACP (Agent Client Protocol) front for the rig coding agent: `rig acp` lets e… |
-| 2026-10-31 07:17:12 | [rig-claude-cloak](https://crates.io/crates/rig-claude-cloak) | 0.46.0 | 0 | Opt-in Anthropic subscription OAuth provider for the Rig coding agent |
-| 2026-10-31 07:17:56 | [fountain_transfer_core](https://crates.io/crates/fountain_transfer_core) | 2.0.0 | 0 | Library-first transfer facade over RaptorQ and Raptor10 codecs |
-| 2026-10-31 07:18:13 | [fountain_transfer](https://crates.io/crates/fountain_transfer) | 2.0.0 | 0 | Rateless UDP file transfer CLI built on fountain_transfer_core |
+| 2026-10-31 07:20:42 | [apeireth-runtime](https://crates.io/crates/apeireth-runtime) | 2.0.0-rc.4 | 0 | Canonical Apeireth runtime mechanism kernel with abstract ports, registries, ap… |
+| 2026-10-31 07:21:00 | [rig-traffic](https://crates.io/crates/rig-traffic) | 0.46.0 | 0 | Opt-in provider HTTP traffic recording for the Rig coding agent. |
+| 2026-10-31 07:25:32 | [fountain_codec](https://crates.io/crates/fountain_codec) | 0.1.0 | 0 | OSS C ABI fountain codecs: RaptorQ and Raptor 10 on fountain_engine / fountain_… |
+| 2026-10-31 07:34:01 | [phi-cap](https://crates.io/crates/phi-cap) | 0.1.0 | 0 | Capability vocabulary for the phi family: one declaration language, one decisio… |
+| 2026-10-31 07:34:53 | [phi-ns](https://crates.io/crates/phi-ns) | 0.1.0 | 0 | NamespaceProvider contract, built-in sh.* pack, and the shared audit Gate for t… |
+| 2026-10-31 07:37:03 | [phi-ns-mobile](https://crates.io/crates/phi-ns-mobile) | 0.1.0 | 0 | Mobile capability pack (m.*): observe/input/file over the mu broker wire |
+| 2026-10-31 07:37:04 | [phi-ns-desktop](https://crates.io/crates/phi-ns-desktop) | 0.1.0 | 0 | Desktop capability pack (desk.*): screen, accessibility, pointer/keyboard over… |
+| 2026-10-31 07:37:06 | [codexec](https://crates.io/crates/codexec) | 0.1.0 | 0 | CodeAct execution layer: code cells as actions, policy-gated and journaled |
+| 2026-10-31 07:37:57 | [phi-ns-browser](https://crates.io/crates/phi-ns-browser) | 0.1.0 | 0 | Browser capability pack (b.*): CDP session, DOM query, screenshots as ImageRef |
+| 2026-10-31 07:40:21 | [apeireth-tools-canonical](https://crates.io/crates/apeireth-tools-canonical) | 2.0.0-rc.4 | 0 | Canonical builtin tool capabilities: filesystem / search / repo (默认启用); shell /… |
+| 2026-10-31 07:48:10 | [zandbox](https://crates.io/crates/zandbox) | 0.1.0 | 0 | Linux process sandboxing applied from pre_exec: namespaces, capability drop, la… |
+| 2026-10-31 07:48:32 | [apeireth](https://crates.io/crates/apeireth) | 2.0.0-rc.4 | 0 | Apeireth engine facade — single-dependency entry point that re-exports the core… |
+| 2026-10-31 08:03:59 | [grh](https://crates.io/crates/grh) | 0.1.3 | 0 | One command to install, audit and remove the Green Harness parts |
+| 2026-10-31 08:05:29 | [dope-amqp091-fiber](https://crates.io/crates/dope-amqp091-fiber) | 0.20.0 | 0 | Fiber API for the dope AMQP 0-9-1 manifold client |
+| 2026-10-31 08:08:42 | [apeireth-runtime-assembly](https://crates.io/crates/apeireth-runtime-assembly) | 2.0.0-rc.4 | 0 | Production assembly for the Apeireth runtime kernel |
+| 2026-10-31 08:08:52 | [ormify_sqlite](https://crates.io/crates/ormify_sqlite) | 1.0.1 | 0 | Realization of SQLite for ormify ORM Framework for your SQLite database. |
+| 2026-10-31 08:11:39 | [rp2350-hazard3-hal](https://crates.io/crates/rp2350-hazard3-hal) | 0.1.1 | 0 | Bare-metal MISRA C compliant HAL (Hardware Abstraction Layer) for RP2350 Hazard… |
 
 ## Data source
 
