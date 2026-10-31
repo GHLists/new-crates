@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T05:20:30.568623Z,lsp-profiler,0.1.0,0,0,https://github.com/Nimblesite/lspkit,"Language-neutral CPU and memory profiling engine for language servers: sample aggregation, hotspots, flame graphs, speedscope/V8 exports, heap snapshots, leak scoring, and one JSON-RPC protocol any e…"
+2026-10-31T05:20:38.661892Z,lsp-profiler-dotnet,0.1.0,0,0,https://github.com/Nimblesite/lspkit,.NET runtime for lsp-profiler: EventPipe CPU sampling and heap snapshots through the lsp-profiler-dotnet-engine
+2026-10-31T05:26:05.094595Z,jadix_winit,0.1.0,0,0,https://github.com/Zk3619/Jadix,Jadix's Winit facade fork with a unified OpenHarmony backend
+2026-10-31T05:27:17.270666Z,apeireth-image-compose,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,CPU reference compositor: flattens a document layer tree into straight-alpha RGBA
+2026-10-31T05:36:10.263692Z,kernsetzer-model,0.1.1,0,0,https://github.com/Kernsetzer/kernsetzer-model,Semantic document model and .kernsetzer project file
+2026-10-31T05:37:26.661106Z,kernsetzer-import,0.1.1,0,0,https://github.com/Kernsetzer/kernsetzer-import,"Manuscript importers (.docx, Markdown) producing the document model"
+2026-10-31T05:37:36.567545Z,jadix_cosmic_text,0.1.0,0,0,https://github.com/Zk3619/Jadix,Pure Rust multi-line text handling
+2026-10-31T05:40:03.134453Z,khive-capability,0.15.0,0,0,https://github.com/ohdearquant/khive,"Sealed grants, durable authenticated envelopes, and attenuating capability delegation."
+2026-10-31T05:40:12.983055Z,apeireth-image-core,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,"Image core facade: neutral, stable interface over the vendored image engine family"
+2026-10-31T05:49:39.38836Z,oino-resources,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,"Resource loading for Oino: context files, skills, prompt templates, system prompt, project trust"
+2026-10-31T05:49:46.681219Z,oino-session,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,"Session format v3 for Oino: entries, migration, context projection, SessionManager"
+2026-10-31T05:49:54.102491Z,apeireth-orchestration,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,"Apeireth orchestration 编排层 (P-arch 2026-08-27, scene-d 例 3 基础): 7 Advisor + Council 多意见评审 + Orchestrator 调度 subagent + SelfAssessmentCache. v2.0 alpha 是 trait + 0 装占位, 真 LLM 实现留 v2.0.0-rc 路线. 详见 v2-u…"
+2026-10-31T05:49:58.838555Z,oino-tools,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,"Built-in tools for Oino agents: read, write, edit, bash, grep, find, ls"
+2026-10-31T05:50:10.864099Z,oino-core,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,"Coding-agent runtime for Oino: AgentSession, extension runner, compaction, retry"
+2026-10-31T05:50:22.95881Z,oino-client,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,"Oino client SDK: SessionBackend contract, RPC command records, in-process and fake backends"
+2026-10-31T05:50:39.133285Z,oino-rpc,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,"Oino JSONL RPC codec, RPC server over a SessionBackend, typed RPC client"
+2026-10-31T05:52:35.762134Z,jadix_glyphon,0.1.0,0,0,https://github.com/Zk3619/Jadix,"Fast, simple 2D text rendering for wgpu"
+2026-10-31T05:58:30.634606Z,jadix,0.1.0,0,0,https://github.com/Zk3619/Jadix,Pure-Rust native UI framework with fine-grained reactivity and optional static UI macros
+2026-10-31T05:59:08.966409Z,apeireth-protocol,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,"Apeireth R17 战役 1-1: LLM 协议归一化层 (OpenAI Chat / OpenAI Responses / Anthropic Messages / Gemini), 字段级对齐同类开源协议桥公开设计. R37-1 bridge facade + R20 阶段 2 WS 8 帧协议. 9 src 模块 + 51 #[test] + 27 集成 (wire_format +…"
+2026-10-31T06:01:30.031043Z,oino-acp,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,ACP v1 (Agent Client Protocol) agent adapter over oino-core sessions
+2026-10-31T06:02:49.908322Z,nazca,0.1.0,0,0,,"A rendering library for geospatial data: interactive maps and layouts, native and wasm."
+2026-10-31T06:06:53.85436Z,minipfs,0.1.0,0,0,,"Fetch the newest valid signed IPNS record from the IPFS DHT, and nothing else"
+2026-10-31T06:07:17.666431Z,rblue,0.0.1,0,0,https://github.com/charles0122/rblue,"Cross-platform async Bluetooth Low Energy (BLE) for Rust: Windows, macOS, Linux, iOS, Android, Web Bluetooth, and HarmonyOS. Name-reservation release; the unified API is in design."
+2026-10-31T06:08:24.879289Z,apeireth-guard,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,Two-stage behavior-chain safety classifier for the Apeireth runtime governance
+2026-10-31T06:08:50.14319Z,cpproio,0.2.0,0,0,https://github.com/SuhaoCoding/cpproio,A library for IO in competitive programming
+2026-10-31T06:12:10.661907Z,oino-view,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,"Frontend-agnostic view models for Oino clients: transcript, extension UI state, tree, sessions, composer, keybindings"
+2026-10-31T06:17:54.478798Z,apeireth-plugin,2.0.0-rc.4,0,0,https://github.com/Apeireth/Apeireth,"Canonical plugin and capability model: a plugin is a capability provider, and the registries here are the single source of truth for what the runtime can do."
