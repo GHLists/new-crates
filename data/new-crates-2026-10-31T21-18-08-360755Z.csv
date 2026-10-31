@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T20:22:49.948724Z,deltaui_vello_common,0.0.7,0,0,https://github.com/linebender/vello,"Core data structures and utilities shared across the Vello rendering, including geometry processing and tiling logic. Fork of vello_common that remembers the strips of clip paths, for deltaui. Import…"
+2026-10-31T20:23:15.358447Z,deltaui_vello_cpu,0.0.7,0,0,https://github.com/linebender/vello,"A CPU-based renderer for Vello, optimized for SIMD and multithreaded execution. Fork of vello_cpu on deltaui_vello_common, for deltaui. Imported as `vello_cpu`."
+2026-10-31T20:23:27.064917Z,dsk-flux,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Decode flux captures to sector images: KryoFlux, SuperCard Pro / Greaseweazle and HxC floppies (IBM MFM / FM, AmigaDOS), Gesswein EMU ST-506 hard disks"
+2026-10-31T20:23:50.359517Z,deltaui_vello_hybrid,0.0.7,0,0,https://github.com/linebender/vello,"A hybrid CPU/GPU renderer for Vello, balancing computation between CPU and GPU for efficiency. Fork of vello_hybrid on deltaui_vello_common, for deltaui. Imported as `vello_hybrid`."
+2026-10-31T20:25:54.24512Z,bemtvi-git,0.0.1,0,0,https://github.com/bemtvi/bemtvi,"Placeholder for the bemtvi-git crate of bemtvi, a modal, vim-style editor. No functionality yet."
+2026-10-31T20:27:16.101196Z,salesforce-template-loader,1.3.0,0,0,https://github.com/RubberDuckHero/sfdl,Salesforce template-based data loader
+2026-10-31T20:28:47.75382Z,ty-zip,0.1.0,0,0,https://github.com/tyleo/tyt,Frames a deflate stream as a single-member zip archive and reads it back.
+2026-10-31T20:34:07.700015Z,dsk-apple,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Apple disk-image containers: DiskCopy 4.2, 2IMG, WOZ (read and write), MOOF and DART"
+2026-10-31T20:36:00.384347Z,bemtvi-regex,0.0.1,0,0,https://github.com/bemtvi/bemtvi,"Placeholder for the bemtvi-regex crate of bemtvi, a modal, vim-style editor. No functionality yet."
+2026-10-31T20:44:52.723035Z,dsk-dmg,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Read Apple disk images: UDIF .dmg (zlib, bzip2, LZFSE, LZMA, ADC), NDIF, .sparseimage, and encrypted DMG (feature `crypto`)"
+2026-10-31T20:46:06.483475Z,bemtvi-sandbox,0.0.1,0,0,https://github.com/bemtvi/bemtvi,"Placeholder for the bemtvi-sandbox crate of bemtvi, a modal, vim-style editor. No functionality yet."
+2026-10-31T20:51:59.129192Z,zyris-capkit,0.3.0,0,0,https://github.com/attacca-cc/zyris-protocol,"Reference implementations of the standard Zyris capabilities, one feature each"
+2026-10-31T20:55:29.210365Z,dsk-floppy,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Vintage floppy and emulator disk-image wrappers: Atari ATR and MSA, Commodore G64, Amstrad EDSK, Sharp D88 / DIM / XDF, PC-98 HDM, Acorn HDF"
+2026-10-31T20:56:13.090189Z,bemtvi-width,0.0.1,0,0,https://github.com/bemtvi/bemtvi,"Placeholder for the bemtvi-width crate of bemtvi, a modal, vim-style editor. No functionality yet."
+2026-10-31T21:03:05.410213Z,penelope-sqlite,0.3.0,0,0,https://github.com/STEXS-Technologies/penelope,Optional single-host SQLite persistence adapter for Penelope.
+2026-10-31T21:03:22.334359Z,penelope-process-runtime,0.3.0,0,0,https://github.com/STEXS-Technologies/penelope,Optional Linux static single-process worker supervision for Penelope.
+2026-10-31T21:03:39.305439Z,music-protocol,0.1.0,0,0,https://github.com/fbiba/rustunes,"Reusable ATC protocol, media and catalogue mechanisms for the native iPhone Music library"
+2026-10-31T21:03:43.416021Z,rustunes,0.1.0,0,0,https://github.com/fbiba/rustunes,"Sync local music (ALAC, AAC, MP3, FLAC, WAV, AIFF) into the stock iPhone Music library from Linux, over USB or Wi-Fi"
+2026-10-31T21:04:23.540376Z,awara,0.0.0,0,0,https://github.com/orbyts/awara,Portable creative workflow recipe schema and validator
+2026-10-31T21:06:26.103626Z,dsk-vm,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Virtual-machine disk images: VHD (fixed / dynamic), VMDK (flat and sparse) and QCOW2, read, write and edit in place"
+2026-10-31T21:09:42.148955Z,tnhl,0.1.0,0,0,https://github.com/rodeokevin/tnhl,"A terminal dashboard for NHL games, standings, team stats, and playoff brackets"
+2026-10-31T21:15:13.369677Z,slither-protocol,0.1.0,0,0,https://github.com/NikitaMGrimm/slither-sim,"Borrowed Slither wire framing, protocol-19 views and client message builders"
+2026-10-31T21:16:58.917783Z,omochi-cli,0.2.0,0,0,https://github.com/omochi-ui/omochi,Native command-line tools for Omochi application UIs
+2026-10-31T21:17:11.054831Z,dsk-imz,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Read WinImage .imz compressed floppy images, including password-protected ones (feature `crypto`)"
