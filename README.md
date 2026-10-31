@@ -8,31 +8,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 08:18 UTC
+## Latest list — 2026-10-31 09:19 UTC
 
-New crates published between 2026-10-31 07:18 UTC and 2026-10-31 08:18 UTC.
+New crates published between 2026-10-31 08:18 UTC and 2026-10-31 09:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-31T08-18-08-908632Z.csv)
+[Full CSV](data/new-crates-2026-10-31T09-19-41-415765Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-31 07:20:42 | [apeireth-runtime](https://crates.io/crates/apeireth-runtime) | 2.0.0-rc.4 | 0 | Canonical Apeireth runtime mechanism kernel with abstract ports, registries, ap… |
-| 2026-10-31 07:21:00 | [rig-traffic](https://crates.io/crates/rig-traffic) | 0.46.0 | 0 | Opt-in provider HTTP traffic recording for the Rig coding agent. |
-| 2026-10-31 07:25:32 | [fountain_codec](https://crates.io/crates/fountain_codec) | 0.1.0 | 0 | OSS C ABI fountain codecs: RaptorQ and Raptor 10 on fountain_engine / fountain_… |
-| 2026-10-31 07:34:01 | [phi-cap](https://crates.io/crates/phi-cap) | 0.1.0 | 0 | Capability vocabulary for the phi family: one declaration language, one decisio… |
-| 2026-10-31 07:34:53 | [phi-ns](https://crates.io/crates/phi-ns) | 0.1.0 | 0 | NamespaceProvider contract, built-in sh.* pack, and the shared audit Gate for t… |
-| 2026-10-31 07:37:03 | [phi-ns-mobile](https://crates.io/crates/phi-ns-mobile) | 0.1.0 | 0 | Mobile capability pack (m.*): observe/input/file over the mu broker wire |
-| 2026-10-31 07:37:04 | [phi-ns-desktop](https://crates.io/crates/phi-ns-desktop) | 0.1.0 | 0 | Desktop capability pack (desk.*): screen, accessibility, pointer/keyboard over… |
-| 2026-10-31 07:37:06 | [codexec](https://crates.io/crates/codexec) | 0.1.0 | 0 | CodeAct execution layer: code cells as actions, policy-gated and journaled |
-| 2026-10-31 07:37:57 | [phi-ns-browser](https://crates.io/crates/phi-ns-browser) | 0.1.0 | 0 | Browser capability pack (b.*): CDP session, DOM query, screenshots as ImageRef |
-| 2026-10-31 07:40:21 | [apeireth-tools-canonical](https://crates.io/crates/apeireth-tools-canonical) | 2.0.0-rc.4 | 0 | Canonical builtin tool capabilities: filesystem / search / repo (默认启用); shell /… |
-| 2026-10-31 07:48:10 | [zandbox](https://crates.io/crates/zandbox) | 0.1.0 | 0 | Linux process sandboxing applied from pre_exec: namespaces, capability drop, la… |
-| 2026-10-31 07:48:32 | [apeireth](https://crates.io/crates/apeireth) | 2.0.0-rc.4 | 0 | Apeireth engine facade — single-dependency entry point that re-exports the core… |
-| 2026-10-31 08:03:59 | [grh](https://crates.io/crates/grh) | 0.1.3 | 0 | One command to install, audit and remove the Green Harness parts |
-| 2026-10-31 08:05:29 | [dope-amqp091-fiber](https://crates.io/crates/dope-amqp091-fiber) | 0.20.0 | 0 | Fiber API for the dope AMQP 0-9-1 manifold client |
-| 2026-10-31 08:08:42 | [apeireth-runtime-assembly](https://crates.io/crates/apeireth-runtime-assembly) | 2.0.0-rc.4 | 0 | Production assembly for the Apeireth runtime kernel |
-| 2026-10-31 08:08:52 | [ormify_sqlite](https://crates.io/crates/ormify_sqlite) | 1.0.1 | 0 | Realization of SQLite for ormify ORM Framework for your SQLite database. |
-| 2026-10-31 08:11:39 | [rp2350-hazard3-hal](https://crates.io/crates/rp2350-hazard3-hal) | 0.1.1 | 0 | Bare-metal MISRA C compliant HAL (Hardware Abstraction Layer) for RP2350 Hazard… |
+| 2026-10-31 08:30:44 | [actix-oauth](https://crates.io/crates/actix-oauth) | 0.0.0 | 0 | OAuth2 authorization code flow with Actix Web |
+| 2026-10-31 08:33:41 | [crcbl-notify](https://crates.io/crates/crcbl-notify) | 0.14.0 | 0 | Crucible system notifications: the desktop's notifications, read and dismissed |
+| 2026-10-31 08:52:55 | [hikari-host](https://crates.io/crates/hikari-host) | 0.4.0 | 0 | Shell-lifecycle guards for hikari hosts: the close-request ack/force-close stat… |
+| 2026-10-31 08:56:00 | [lanternzero](https://crates.io/crates/lanternzero) | 0.0.0 | 0 | Placeholder for Lantern Zero: faster sync and payment notifications for Zcash w… |
+| 2026-10-31 08:58:28 | [yaml-dsl-compiler](https://crates.io/crates/yaml-dsl-compiler) | 0.0.1-snapshot.2026… | 0 | Compiles config-defined YAML DSLs into code: folds layers, expands macros, reso… |
+| 2026-10-31 09:12:44 | [cf-gears-license-enforcement-sdk](https://crates.io/crates/cf-gears-license-enforcement-sdk) | 0.1.0 | 0 | SDK for license_enforcement gear: management contract, grant model, admission p… |
+| 2026-10-31 09:19:06 | [malloc-in-use](https://crates.io/crates/malloc-in-use) | 0.1.0 | 0 | Bytes the C allocator has handed out and not freed, process-wide: malloc's own… |
+| 2026-10-31 09:19:24 | [mcpt-rs](https://crates.io/crates/mcpt-rs) | 0.1.0 | 0 | Monte-Carlo permutation tests for OHLC price data: shuffle bars while preservin… |
 
 ## Data source
 
