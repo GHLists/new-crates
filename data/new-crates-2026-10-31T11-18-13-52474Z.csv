@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T10:28:49.057904Z,lita-parser-cli,0.1.7,0,0,https://github.com/lita-oss/lita-parser,Parser CLI that are used in LiTA.
+2026-10-31T10:34:59.98224Z,my-calculator,0.1.0,0,0,https://github.com/YOUR_USERNAME/my-calculator,A simple calculator library
+2026-10-31T10:36:34.478037Z,addition,1.0.0,0,0,,An addition function
+2026-10-31T10:38:48.938464Z,liminal-bus-protocol,0.1.0,0,0,https://github.com/ablative-io/liminal,"The liminal bus's wire protocol: frames, their codec, envelopes, version and schema negotiation, and stream multiplexing"
+2026-10-31T10:44:56.208628Z,java-canon,0.1.0,0,0,https://github.com/prostomarkeloff/find-dup-defs,Java source → structural canonicalization + definition scan (tree-sitter parser). The Java frontend for find-dup-defs.
+2026-10-31T10:57:49.88713Z,gunnar-cli,1.6.0,0,0,https://git.gunnar.rs/nordisk/gunnar,"Gunnar's command-line tool: `cargo install gunnar-cli`, then `gunnar-cli control …` against a Gunnar server, and git with encrypted (quantum-safe) repositories (`gunnar-cli crypt …`)."
+2026-10-31T10:58:15.496598Z,gunnar-public-site,1.6.0,0,0,https://git.gunnar.rs/nordisk/gunnar-ui,"gunnar.rs's public face for crawlers and AI tools: llms.txt, robots.txt, the sitemap, the head tags, each public repository's readme.md, tree.txt and issues.md, and the cache of the console's pre-ren…"
+2026-10-31T10:58:36.473551Z,gunnar-mcp,1.6.0,0,0,https://git.gunnar.rs/nordisk/gunnar-ui,"Gunnar's MCP connector: a remote MCP server (streamable HTTP) at /mcp that bridges a fixed allowlist of read tools to the control plane, with its own OAuth 2.1 authorization server (dynamic client re…"
+2026-10-31T11:01:34.300328Z,context-chunker,0.1.0,0,0,https://github.com/OWNER/devdocs-mcp,Placeholder for context chunking utilities
+2026-10-31T11:01:37.951126Z,context-file,0.1.0,0,0,https://github.com/OWNER/devdocs-mcp,Placeholder for context file handling utilities
+2026-10-31T11:01:43.585059Z,devdocs-model,0.1.0,0,0,https://github.com/OWNER/devdocs-mcp,"Core types, configuration, and errors for devdocs"
+2026-10-31T11:01:53.719149Z,devdocs-store,0.1.0,0,0,https://github.com/OWNER/devdocs-mcp,"SQLite storage, schema, and migrations for devdocs"
+2026-10-31T11:02:00.42632Z,devdocs-retrieve,0.1.0,0,0,https://github.com/OWNER/devdocs-mcp,"Hybrid retrieval, fusion, and budget packing for devdocs"
+2026-10-31T11:02:49.727856Z,gunnar-ui-server,1.6.0,0,0,https://git.gunnar.rs/nordisk/gunnar-ui,"Backend-for-frontend for the gunnar console: passkey auth, REST/SSE, sshsig-signed gRPC to gunnar"
+2026-10-31T11:13:29.922959Z,bazicalculator-url-tools,0.1.0,0,0,https://github.com/wangneo276-lgtm/bazicalculator-url-tools,"Free BaZi calculator: Four Pillars, Day Master, Ten Gods, Five Elements and Luck Pillars with true solar time. Plus Zi Wei Dou Shu, Liu Yao, Mei Hua, Qi Men and the Chinese Almanac."
+2026-10-31T11:14:18.171881Z,loremaster-model,0.1.0,0,0,https://github.com/sunsided/loremaster,"World model for the loremaster text adventure editor: rooms, things, fragments, rules."
+2026-10-31T11:14:20.55188Z,loremaster-lang,0.1.0,0,0,https://github.com/sunsided/loremaster,Condition expressions and inline text markup for loremaster stories.
+2026-10-31T11:14:23.133577Z,loremaster-project,0.1.0,0,0,https://github.com/sunsided/loremaster,On-disk project format for loremaster stories and the compiler to a story bundle.
+2026-10-31T11:14:25.404932Z,loremaster-runtime,0.1.0,0,0,https://github.com/sunsided/loremaster,"Pure, deterministic runtime for loremaster stories: state, text assembly, rules, verbs."
+2026-10-31T11:14:27.604431Z,loremaster-tools,0.1.0,0,0,https://github.com/sunsided/loremaster,"The operations an AI assistant may do on a loremaster project: read, play and verify. No IO."
+2026-10-31T11:17:55.932273Z,raydriver,1.0.0-beta1,0,0,https://github.com/barebaric/raydriver,"Rust-native machine drivers for Rayforge, with Python bindings"

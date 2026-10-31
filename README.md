@@ -8,30 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 10:19 UTC
+## Latest list — 2026-10-31 11:18 UTC
 
-New crates published between 2026-10-31 09:19 UTC and 2026-10-31 10:19 UTC.
+New crates published between 2026-10-31 10:19 UTC and 2026-10-31 11:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-31T10-19-30-772546Z.csv)
+[Full CSV](data/new-crates-2026-10-31T11-18-13-52474Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-31 09:30:49 | [normalization-rs](https://crates.io/crates/normalization-rs) | 0.1.0 | 0 | Decimal-precision numeric normalization: z-score standardization, min-max scali… |
-| 2026-10-31 09:42:23 | [vulkane-spirv-parse](https://crates.io/crates/vulkane-spirv-parse) | 0.19.0 | 0 | SPIR-V module model and reflection for Vulkane: decode a binary module, list en… |
-| 2026-10-31 09:43:03 | [vulkane-spirv-emit](https://crates.io/crates/vulkane-spirv-emit) | 0.19.0 | 0 | The SPIR-V compute-shader emitter for Unpopped: IR to a binary SPIR-V module (G… |
-| 2026-10-31 09:53:32 | [terraphim-meta-skill](https://crates.io/crates/terraphim-meta-skill) | 0.1.0 | 0 | Local-first skill management and routing with terraphim rolegraph search |
-| 2026-10-31 09:58:50 | [rigorix-client](https://crates.io/crates/rigorix-client) | 0.9.0 | 0 | Protocol-only typed client for the frozen rigorix.* JSON-RPC catalog — governed… |
-| 2026-10-31 10:00:17 | [keri-store-redb](https://crates.io/crates/keri-store-redb) | 0.1.0 | 0 | A keri-kel store on redb: key event logs, escrows and replies kept in an embedd… |
-| 2026-10-31 10:00:18 | [keri-watch](https://crates.io/crates/keri-watch) | 0.1.0 | 0 | A KERI watcher's decisions as pure functions: when to poll, and which witnesses… |
-| 2026-10-31 10:00:18 | [keri-watcher](https://crates.io/crates/keri-watcher) | 0.1.0 | 0 | A KERI watcher: keeps the key event logs it is sent and answers queries about t… |
-| 2026-10-31 10:01:32 | [async-throttle-rs](https://crates.io/crates/async-throttle-rs) | 0.1.1 | 0 | Client side rate limiting |
-| 2026-10-31 10:07:09 | [ontomark-jev](https://crates.io/crates/ontomark-jev) | 0.6.1 | 0 | Host-side Jev option for Ontomark assisted ingest: typed Choice/Noul decisions… |
-| 2026-10-31 10:10:23 | [nordisk-heimdall-seccomp](https://crates.io/crates/nordisk-heimdall-seccomp) | 0.2.0 | 0 | Heimdall is a defensive sandbox: seccomp profile types per workload/arch/libc,… |
-| 2026-10-31 10:10:29 | [nordisk-heimdall-probe](https://crates.io/crates/nordisk-heimdall-probe) | 0.2.0 | 0 | Heimdall is a defensive sandbox: the learning-mode tracer (seccomp USER_NOTIF l… |
-| 2026-10-31 10:10:43 | [nordisk-heimdall-container](https://crates.io/crates/nordisk-heimdall-container) | 0.2.0 | 0 | Heimdall is a defensive sandbox: heimdall-container is the protected native Job… |
-| 2026-10-31 10:11:13 | [wasm-transferable-macro](https://crates.io/crates/wasm-transferable-macro) | 0.1.1 | 0 | Internal proc-macro crate for wasm-transferable. Please use the main wasm-trans… |
-| 2026-10-31 10:14:24 | [git-whoami](https://crates.io/crates/git-whoami) | 0.1.0 | 0 | Verify which Git identity (and git-persona persona) is active |
-| 2026-10-31 10:15:43 | [wasm-transferable](https://crates.io/crates/wasm-transferable) | 0.1.1 | 0 | Serialize Rust structs into JsValue while collecting Transferable Objects |
+| 2026-10-31 10:28:49 | [lita-parser-cli](https://crates.io/crates/lita-parser-cli) | 0.1.7 | 0 | Parser CLI that are used in LiTA. |
+| 2026-10-31 10:34:59 | [my-calculator](https://crates.io/crates/my-calculator) | 0.1.0 | 0 | A simple calculator library |
+| 2026-10-31 10:36:34 | [addition](https://crates.io/crates/addition) | 1.0.0 | 0 | An addition function |
+| 2026-10-31 10:38:48 | [liminal-bus-protocol](https://crates.io/crates/liminal-bus-protocol) | 0.1.0 | 0 | The liminal bus's wire protocol: frames, their codec, envelopes, version and sc… |
+| 2026-10-31 10:44:56 | [java-canon](https://crates.io/crates/java-canon) | 0.1.0 | 0 | Java source → structural canonicalization + definition scan (tree-sitter parser… |
+| 2026-10-31 10:57:49 | [gunnar-cli](https://crates.io/crates/gunnar-cli) | 1.6.0 | 0 | Gunnar's command-line tool: `cargo install gunnar-cli`, then `gunnar-cli contro… |
+| 2026-10-31 10:58:15 | [gunnar-public-site](https://crates.io/crates/gunnar-public-site) | 1.6.0 | 0 | gunnar.rs's public face for crawlers and AI tools: llms.txt, robots.txt, the si… |
+| 2026-10-31 10:58:36 | [gunnar-mcp](https://crates.io/crates/gunnar-mcp) | 1.6.0 | 0 | Gunnar's MCP connector: a remote MCP server (streamable HTTP) at /mcp that brid… |
+| 2026-10-31 11:01:34 | [context-chunker](https://crates.io/crates/context-chunker) | 0.1.0 | 0 | Placeholder for context chunking utilities |
+| 2026-10-31 11:01:37 | [context-file](https://crates.io/crates/context-file) | 0.1.0 | 0 | Placeholder for context file handling utilities |
+| 2026-10-31 11:01:43 | [devdocs-model](https://crates.io/crates/devdocs-model) | 0.1.0 | 0 | Core types, configuration, and errors for devdocs |
+| 2026-10-31 11:01:53 | [devdocs-store](https://crates.io/crates/devdocs-store) | 0.1.0 | 0 | SQLite storage, schema, and migrations for devdocs |
+| 2026-10-31 11:02:00 | [devdocs-retrieve](https://crates.io/crates/devdocs-retrieve) | 0.1.0 | 0 | Hybrid retrieval, fusion, and budget packing for devdocs |
+| 2026-10-31 11:02:49 | [gunnar-ui-server](https://crates.io/crates/gunnar-ui-server) | 1.6.0 | 0 | Backend-for-frontend for the gunnar console: passkey auth, REST/SSE, sshsig-sig… |
+| 2026-10-31 11:13:29 | [bazicalculator-url-tools](https://crates.io/crates/bazicalculator-url-tools) | 0.1.0 | 0 | Free BaZi calculator: Four Pillars, Day Master, Ten Gods, Five Elements and Luc… |
+| 2026-10-31 11:14:18 | [loremaster-model](https://crates.io/crates/loremaster-model) | 0.1.0 | 0 | World model for the loremaster text adventure editor: rooms, things, fragments,… |
+| 2026-10-31 11:14:20 | [loremaster-lang](https://crates.io/crates/loremaster-lang) | 0.1.0 | 0 | Condition expressions and inline text markup for loremaster stories. |
+| 2026-10-31 11:14:23 | [loremaster-project](https://crates.io/crates/loremaster-project) | 0.1.0 | 0 | On-disk project format for loremaster stories and the compiler to a story bundl… |
+| 2026-10-31 11:14:25 | [loremaster-runtime](https://crates.io/crates/loremaster-runtime) | 0.1.0 | 0 | Pure, deterministic runtime for loremaster stories: state, text assembly, rules… |
+| 2026-10-31 11:14:27 | [loremaster-tools](https://crates.io/crates/loremaster-tools) | 0.1.0 | 0 | The operations an AI assistant may do on a loremaster project: read, play and v… |
+| 2026-10-31 11:17:55 | [raydriver](https://crates.io/crates/raydriver) | 1.0.0-beta1 | 0 | Rust-native machine drivers for Rayforge, with Python bindings |
 
 ## Data source
 
