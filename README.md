@@ -8,48 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 01:19 UTC
+## Latest list — 2026-10-31 02:19 UTC
 
-New crates published between 2026-10-31 00:20 UTC and 2026-10-31 01:19 UTC.
+New crates published between 2026-10-31 01:19 UTC and 2026-10-31 02:19 UTC.
 
-[Full CSV](data/new-crates-2026-10-31T01-19-30-873172Z.csv)
+[Full CSV](data/new-crates-2026-10-31T02-19-04-345877Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-31 00:21:27 | [fogvault-i18n-config](https://crates.io/crates/fogvault-i18n-config) | 0.4.8 | 0 | FogVault backend-only fork of i18n-config; limited supported feature closure |
-| 2026-10-31 00:21:31 | [fogvault-i18n-embed-impl](https://crates.io/crates/fogvault-i18n-embed-impl) | 0.8.4 | 0 | FogVault backend-only fork of i18n-embed-impl; limited supported feature closure |
-| 2026-10-31 00:21:38 | [fogvault-i18n-embed](https://crates.io/crates/fogvault-i18n-embed) | 0.16.0 | 0 | FogVault backend-only fork of i18n-embed; limited supported feature closure |
-| 2026-10-31 00:21:51 | [fogvault-i18n-embed-fl](https://crates.io/crates/fogvault-i18n-embed-fl) | 0.10.1 | 0 | FogVault backend-only fork of i18n-embed-fl; limited supported feature closure |
-| 2026-10-31 00:22:12 | [fogvault-age](https://crates.io/crates/fogvault-age) | 0.11.5 | 0 | FogVault backend-only fork of age; limited supported feature closure |
-| 2026-10-31 00:23:49 | [aci_edge_sandboxes_model](https://crates.io/crates/aci_edge_sandboxes_model) | 0.1.0 | 0 | Serializable data model of the edge sandbox lifecycle |
-| 2026-10-31 00:23:56 | [aci_edge_sandboxes](https://crates.io/crates/aci_edge_sandboxes) | 0.1.0 | 0 | Rust interface to the ACI Edge Sandboxes lifecycle |
-| 2026-10-31 00:24:15 | [bitview_plugin_entry](https://crates.io/crates/bitview_plugin_entry) | 0.13.0 | 0 | Bitcoin cohorts classified by creation-time price |
-| 2026-10-31 00:26:47 | [fogvault](https://crates.io/crates/fogvault) | 0.1.0 | 0 | Portable FogVault lifecycle candidate; not production-qualified |
-| 2026-10-31 00:28:30 | [southstar-video-helper](https://crates.io/crates/southstar-video-helper) | 1.0.5 | 0 | Southstar's video helper process: decodes video with libav into a shared-memory… |
-| 2026-10-31 00:33:21 | [bitview_plugin_holders](https://crates.io/crates/bitview_plugin_holders) | 0.13.0 | 0 | Overlapping holder cohorts (all, STH, LTH, age cuts) aggregated from UTXO age r… |
-| 2026-10-31 00:34:23 | [fogvault-backup](https://crates.io/crates/fogvault-backup) | 0.1.0 | 0 | Bounded streaming age/v1 FogVault snapshot export and encrypted import staging |
-| 2026-10-31 00:38:30 | [southstar](https://crates.io/crates/southstar) | 1.0.5 | 0 | Southstar, a web browser written from scratch in Rust with a GTK 4 interface: `… |
-| 2026-10-31 00:43:36 | [bitview_plugin_profitability](https://crates.io/crates/bitview_plugin_profitability) | 0.13.0 | 0 | UTXO profitability bands for shared age filters |
-| 2026-10-31 00:44:10 | [librotenado](https://crates.io/crates/librotenado) | 0.7.3 | 0 | Reference library of the librotenado protocol for accounting data |
-| 2026-10-31 00:44:31 | [fogvault-native](https://crates.io/crates/fogvault-native) | 0.1.0 | 0 | Durable SQLite host adapter for the portable FogVault engine |
-| 2026-10-31 00:53:46 | [bitview_plugin_utxos](https://crates.io/crates/bitview_plugin_utxos) | 0.13.0 | 0 | UTXO amount and output type distribution metrics |
-| 2026-10-31 00:53:52 | [datafog-fogvault-migration](https://crates.io/crates/datafog-fogvault-migration) | 1.0.0 | 0 | Validated Core bundle recovery staging for the optional FogVault integration |
-| 2026-10-31 01:01:42 | [bitviewd_bench](https://crates.io/crates/bitviewd_bench) | 0.13.0 | 0 | End-to-end bootstrap benchmark for bitviewd. |
-| 2026-10-31 01:04:03 | [datafog-fogvault-native](https://crates.io/crates/datafog-fogvault-native) | 1.0.0 | 0 | Optional native persistence integration for DataFog Core workspaces |
-| 2026-10-31 01:06:59 | [archives](https://crates.io/crates/archives) | 0.0.0 | 0 | A fast, content-deduplicating file backup utility |
-| 2026-10-31 01:09:13 | [tunlion-lan](https://crates.io/crates/tunlion-lan) | 0.1.0 | 0 | Server-free local discovery for tunlion: beacons, probes and remembered address… |
-| 2026-10-31 01:09:39 | [typepact](https://crates.io/crates/typepact) | 0.1.0 | 0 | Inspect TypePact contracts in Python source without executing it |
-| 2026-10-31 01:09:55 | [crush-squeeze](https://crates.io/crates/crush-squeeze) | 0.1.0 | 0 | Intuitive one-command build tool for the Crush ecosystem — wraps crush-pkg's ch… |
-| 2026-10-31 01:11:22 | [bevy_emerge](https://crates.io/crates/bevy_emerge) | 0.1.0 | 0 | The runtime half of emerge: load a library and a map, and put it in a Bevy worl… |
-| 2026-10-31 01:12:30 | [ferri-pdf-rav1d](https://crates.io/crates/ferri-pdf-rav1d) | 1.1.1 | 0 | Fork of rav1d for ferri-pdf. Rust port of the dav1d AV1 decoder |
-| 2026-10-31 01:14:01 | [schematic-tree-sitter-c](https://crates.io/crates/schematic-tree-sitter-c) | 0.24.3 | 0 | Schematic fork: C grammar for tree-sitter |
-| 2026-10-31 01:14:15 | [schematic-tree-sitter-rust](https://crates.io/crates/schematic-tree-sitter-rust) | 0.24.3 | 0 | Schematic fork: Rust grammar for tree-sitter |
-| 2026-10-31 01:16:46 | [nordisk-heimdall-core](https://crates.io/crates/nordisk-heimdall-core) | 0.1.0 | 0 | Heimdall is a defensive sandbox: job, policy and signed-result types, per-boot… |
-| 2026-10-31 01:16:53 | [nordisk-heimdall-plain](https://crates.io/crates/nordisk-heimdall-plain) | 0.1.0 | 0 | Heimdall is a defensive sandbox: heimdall-plain is the interim milestone 0 JobR… |
-| 2026-10-31 01:16:59 | [nordisk-heimdall-wasm](https://crates.io/crates/nordisk-heimdall-wasm) | 0.1.0 | 0 | Heimdall is a defensive sandbox: its wasm host, a wasmtime component host with… |
-| 2026-10-31 01:17:08 | [nordisk-heimdall-run](https://crates.io/crates/nordisk-heimdall-run) | 0.1.0 | 0 | Heimdall is a defensive sandbox: heimdall-run ties one job together (input dir,… |
-| 2026-10-31 01:17:14 | [nordisk-heimdall-cli](https://crates.io/crates/nordisk-heimdall-cli) | 0.1.0 | 0 | Heimdall is a defensive sandbox: the heimdall command line (run a wasm job, ver… |
-| 2026-10-31 01:17:40 | [praxo-core](https://crates.io/crates/praxo-core) | 0.1.2 | 0 | Rust SDK for the PRAXO-CORE agent contract |
+| 2026-10-31 01:21:53 | [fluidither](https://crates.io/crates/fluidither) | 0.1.0 | 0 | Dithered, spring-driven UI components for GPUI |
+| 2026-10-31 01:22:44 | [gantz_nodedef](https://crates.io/crates/gantz_nodedef) | 0.0.1 | 0 | Node types defined as data, for the domains of gantz. |
+| 2026-10-31 01:24:38 | [crush-lsp](https://crates.io/crates/crush-lsp) | 0.1.0 | 0 | Language Server Protocol implementation for Crush — real diagnostics via crush-… |
+| 2026-10-31 01:35:07 | [yetlet](https://crates.io/crates/yetlet) | 0.9.0-alpha.5 | 0 | HTML-first Rust framework with explicit optional native capabilities |
+| 2026-10-31 01:35:08 | [yetlet-browser](https://crates.io/crates/yetlet-browser) | 0.9.0-alpha.5 | 0 | Optional browser DOM, action transport and WebGPU integrations for Yetlet |
+| 2026-10-31 01:39:13 | [oino-ai](https://crates.io/crates/oino-ai) | 1.0.0 | 0 | pi-ai compatible message, content, model and streaming types for Oino |
+| 2026-10-31 01:39:15 | [oino-ui](https://crates.io/crates/oino-ui) | 1.0.0 | 0 | Wire types and ratatui-mirroring builder for the Oino extension UI protocol v2… |
+| 2026-10-31 01:39:18 | [oino-agent](https://crates.io/crates/oino-agent) | 1.0.0 | 0 | pi-agent-core: agent loop, tool execution, stateful Agent with queues |
+| 2026-10-31 01:39:20 | [oino-extension-api](https://crates.io/crates/oino-extension-api) | 1.0.0 | 0 | Contracts between oino-core and extension runtimes: instances, host services, m… |
+| 2026-10-31 01:39:22 | [oino-models](https://crates.io/crates/oino-models) | 1.0.0 | 0 | pi model registry, models.json, model resolution, auth storage, virtual models |
+| 2026-10-31 01:40:45 | [oino-settings](https://crates.io/crates/oino-settings) | 1.0.0 | 0 | pi settings manager: global/project merge, typed getters, locking |
+| 2026-10-31 01:44:01 | [zstar](https://crates.io/crates/zstar) | 0.0.1 | 0 | Async indexed tar archive reader and writer |
+| 2026-10-31 01:44:25 | [zstar-cli](https://crates.io/crates/zstar-cli) | 0.0.1 | 0 | Command-line capture, inspection and restoration for Zstar archives |
+| 2026-10-31 01:44:48 | [table-manners](https://crates.io/crates/table-manners) | 0.1.0 | 0 | Types and schemas of table-manners, the shared contract of the waffle tools: on… |
+| 2026-10-31 01:45:17 | [earthsci-astdiff](https://crates.io/crates/earthsci-astdiff) | 0.1.0 | 0 | Analytical sparse Jacobians for EarthSciAST (.esm) models by symbolic different… |
+| 2026-10-31 01:53:01 | [sealmesh-wire](https://crates.io/crates/sealmesh-wire) | 0.1.0 | 0 | The snapshot format the beacon writes, the server stores, and `who` reads |
+| 2026-10-31 01:53:03 | [sealmesh-chat-wire](https://crates.io/crates/sealmesh-chat-wire) | 0.1.0 | 0 | Message shapes for the agent chat protocol: a closed MessageKind, a capped Body… |
+| 2026-10-31 01:53:04 | [sealmesh-proto](https://crates.io/crates/sealmesh-proto) | 0.1.0 | 0 | The frames a sealmesh daemon and router exchange |
+| 2026-10-31 01:53:06 | [sealmesh](https://crates.io/crates/sealmesh) | 0.1.0 | 0 | See what your coding agents are working on across machines, without messaging a… |
+| 2026-10-31 01:53:06 | [sealmesh-server](https://crates.io/crates/sealmesh-server) | 0.1.0 | 0 | Connection registry and query router for sealmesh daemons |
+| 2026-10-31 01:57:45 | [bevy_emerge_anim](https://crates.io/crates/bevy_emerge_anim) | 0.1.0 | 0 | Clip-weight blending on a skinned rig's AnimationPlayer — no transitions, one s… |
+| 2026-10-31 02:03:22 | [grib-aec](https://crates.io/crates/grib-aec) | 0.7.0 | 0 | Safe Rust interface to the CCSDS 121.0 adaptive entropy codec used by GRIB2 |
+| 2026-10-31 02:04:30 | [alignasm](https://crates.io/crates/alignasm) | 1.0.0 | 0 | A column-organized formatter for NASM |
+| 2026-10-31 02:13:07 | [indrajala-math](https://crates.io/crates/indrajala-math) | 0.1.0 | 0 | A 1D/2D f64 array and neural network kernels with the same bits on every machin… |
+| 2026-10-31 02:14:52 | [noxi-hash](https://crates.io/crates/noxi-hash) | 0.0.1 | 0 | Nix hash formats and Nix base32 encoding |
+| 2026-10-31 02:15:04 | [noxi-eval-builtin-macros](https://crates.io/crates/noxi-eval-builtin-macros) | 0.0.1 | 0 | Procedural macros for defining noxi-eval builtins, derived from snix-eval-built… |
+| 2026-10-31 02:15:10 | [noxi-compat-derive](https://crates.io/crates/noxi-compat-derive) | 0.0.1 | 0 | Procedural macros for noxi Nix protocol serialization, derived from Snix |
+| 2026-10-31 02:15:52 | [noxi-flakeref](https://crates.io/crates/noxi-flakeref) | 0.0.1 | 0 | Nix flake reference parser and formatter |
+| 2026-10-31 02:16:18 | [corundum-framework-keys](https://crates.io/crates/corundum-framework-keys) | 0.5.0 | 0 | API keys for an app's server: a store of named keys, one file each, their verif… |
+| 2026-10-31 02:16:20 | [noxi-compat](https://crates.io/crates/noxi-compat) | 0.0.1 | 0 | Nix formats and protocol codecs for noxi, derived from Snix nix-compat |
+| 2026-10-31 02:16:30 | [corundum-framework-service](https://crates.io/crates/corundum-framework-service) | 0.5.0 | 0 | Register an app's background service with the OS service manager: systemd, laun… |
+| 2026-10-31 02:16:53 | [noxi-eval](https://crates.io/crates/noxi-eval) | 0.0.1 | 0 | Nix language parser, compiler and bytecode evaluator for noxi, derived from sni… |
 
 ## Data source
 

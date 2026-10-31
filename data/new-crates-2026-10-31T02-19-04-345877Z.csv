@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T01:21:53.010809Z,fluidither,0.1.0,0,0,https://github.com/vrnrn/fluidither,"Dithered, spring-driven UI components for GPUI"
+2026-10-31T01:22:44.249785Z,gantz_nodedef,0.0.1,0,0,https://github.com/nannou-org/gantz,"Node types defined as data, for the domains of gantz."
+2026-10-31T01:24:38.756447Z,crush-lsp,0.1.0,0,0,https://github.com/nixpt/crush-lsp,"Language Server Protocol implementation for Crush — real diagnostics via crush-frontend, LLM-backed hover/explain via pipefish."
+2026-10-31T01:35:07.486799Z,yetlet,0.9.0-alpha.5,0,0,https://github.com/bohewu/yetlet,HTML-first Rust framework with explicit optional native capabilities
+2026-10-31T01:35:08.641534Z,yetlet-browser,0.9.0-alpha.5,0,0,https://github.com/bohewu/yetlet,"Optional browser DOM, action transport and WebGPU integrations for Yetlet"
+2026-10-31T01:39:13.150189Z,oino-ai,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,"pi-ai compatible message, content, model and streaming types for Oino"
+2026-10-31T01:39:15.229972Z,oino-ui,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,"Wire types and ratatui-mirroring builder for the Oino extension UI protocol v2 (serde-only, wasm32-wasip2-safe)"
+2026-10-31T01:39:18.404352Z,oino-agent,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,"pi-agent-core: agent loop, tool execution, stateful Agent with queues"
+2026-10-31T01:39:20.503481Z,oino-extension-api,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,"Contracts between oino-core and extension runtimes: instances, host services, manifests, permissions"
+2026-10-31T01:39:22.109415Z,oino-models,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,"pi model registry, models.json, model resolution, auth storage, virtual models"
+2026-10-31T01:40:45.578242Z,oino-settings,1.0.0,0,0,https://github.com/Neuron-Mr-White/Oino,"pi settings manager: global/project merge, typed getters, locking"
+2026-10-31T01:44:01.289948Z,zstar,0.0.1,0,0,https://github.com/brian14708/zstar,Async indexed tar archive reader and writer
+2026-10-31T01:44:25.904746Z,zstar-cli,0.0.1,0,0,https://github.com/brian14708/zstar,"Command-line capture, inspection and restoration for Zstar archives"
+2026-10-31T01:44:48.290321Z,table-manners,0.1.0,0,0,https://github.com/markhayden/table-manners,"Types and schemas of table-manners, the shared contract of the waffle tools: one external interface for squint, rascal and the tools after them"
+2026-10-31T01:45:17.093745Z,earthsci-astdiff,0.1.0,0,0,,Analytical sparse Jacobians for EarthSciAST (.esm) models by symbolic differentiation of the expression AST
+2026-10-31T01:53:01.512684Z,sealmesh-wire,0.1.0,0,0,https://github.com/SealMesh/sealmesh,"The snapshot format the beacon writes, the server stores, and `who` reads"
+2026-10-31T01:53:03.01135Z,sealmesh-chat-wire,0.1.0,0,0,https://github.com/SealMesh/sealmesh,"Message shapes for the agent chat protocol: a closed MessageKind, a capped Body and a RoomId scoped by project"
+2026-10-31T01:53:04.80678Z,sealmesh-proto,0.1.0,0,0,https://github.com/SealMesh/sealmesh,The frames a sealmesh daemon and router exchange
+2026-10-31T01:53:06.402147Z,sealmesh,0.1.0,0,0,https://github.com/SealMesh/sealmesh,"See what your coding agents are working on across machines, without messaging anyone"
+2026-10-31T01:53:06.865784Z,sealmesh-server,0.1.0,0,0,https://github.com/SealMesh/sealmesh,Connection registry and query router for sealmesh daemons
+2026-10-31T01:57:45.157603Z,bevy_emerge_anim,0.1.0,0,0,https://github.com/Ladvien/bevy_emerge,"Clip-weight blending on a skinned rig's AnimationPlayer — no transitions, one shared gait phase."
+2026-10-31T02:03:22.873225Z,grib-aec,0.7.0,0,0,https://github.com/roteiro-gis/grib-rust,Safe Rust interface to the CCSDS 121.0 adaptive entropy codec used by GRIB2
+2026-10-31T02:04:30.933613Z,alignasm,1.0.0,0,0,https://github.com/Ch0p5h0p/AlignASM,A column-organized formatter for NASM
+2026-10-31T02:13:07.881262Z,indrajala-math,0.1.0,0,0,https://github.com/davidbarkhuizen/indrajala-math-rust,"A 1D/2D f64 array and neural network kernels with the same bits on every machine, and numpy's generators bit for bit"
+2026-10-31T02:14:52.675062Z,noxi-hash,0.0.1,0,0,https://github.com/SINGH-RAJVEER/nix-rs,Nix hash formats and Nix base32 encoding
+2026-10-31T02:15:04.577589Z,noxi-eval-builtin-macros,0.0.1,0,0,https://github.com/SINGH-RAJVEER/nix-rs,"Procedural macros for defining noxi-eval builtins, derived from snix-eval-builtin-macros"
+2026-10-31T02:15:10.239758Z,noxi-compat-derive,0.0.1,0,0,https://github.com/SINGH-RAJVEER/nix-rs,"Procedural macros for noxi Nix protocol serialization, derived from Snix"
+2026-10-31T02:15:52.604462Z,noxi-flakeref,0.0.1,0,0,https://github.com/SINGH-RAJVEER/nix-rs,Nix flake reference parser and formatter
+2026-10-31T02:16:18.656631Z,corundum-framework-keys,0.5.0,0,0,https://github.com/sapphire-turtle/corundum-framework,"API keys for an app's server: a store of named keys, one file each, their verification, an axum layer and a clap subcommand"
+2026-10-31T02:16:20.584713Z,noxi-compat,0.0.1,0,0,https://github.com/SINGH-RAJVEER/nix-rs,"Nix formats and protocol codecs for noxi, derived from Snix nix-compat"
+2026-10-31T02:16:30.519186Z,corundum-framework-service,0.5.0,0,0,https://github.com/sapphire-turtle/corundum-framework,"Register an app's background service with the OS service manager: systemd, launchd, Task Scheduler"
+2026-10-31T02:16:53.674355Z,noxi-eval,0.0.1,0,0,https://github.com/SINGH-RAJVEER/nix-rs,"Nix language parser, compiler and bytecode evaluator for noxi, derived from snix-eval"
