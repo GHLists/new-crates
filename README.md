@@ -8,42 +8,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 04:18 UTC
+## Latest list — 2026-10-31 05:18 UTC
 
-New crates published between 2026-10-31 03:18 UTC and 2026-10-31 04:18 UTC.
+New crates published between 2026-10-31 04:18 UTC and 2026-10-31 05:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-31T04-18-08-060436Z.csv)
+[Full CSV](data/new-crates-2026-10-31T05-18-38-761809Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-31 03:26:16 | [jadix_taffy](https://crates.io/crates/jadix_taffy) | 0.1.0 | 0 | A flexible UI layout library |
-| 2026-10-31 03:26:53 | [jadix_layout](https://crates.io/crates/jadix_layout) | 0.1.0 | 0 | CSS dimensions, logical units and grid track algorithms |
-| 2026-10-31 03:27:10 | [jadix_lsp](https://crates.io/crates/jadix_lsp) | 0.1.0 | 0 | GUI-independent LSP transport and UTF-16 text edits for Jadix applications |
-| 2026-10-31 03:29:03 | [sstv-encoder](https://crates.io/crates/sstv-encoder) | 0.1.0 | 0 | High-performance SSTV (Slow Scan Television) encoder, image processor and audio… |
-| 2026-10-31 03:29:15 | [fm-modulator](https://crates.io/crates/fm-modulator) | 0.1.0 | 0 | High-performance FM modulator in Rust: encode WAV and MP3 audio to baseband I/Q… |
-| 2026-10-31 03:30:38 | [sdr-core](https://crates.io/crates/sdr-core) | 0.1.0 | 0 | The shared layer of the sdr-* radio drivers: the sc16 sample, one error type, t… |
-| 2026-10-31 03:30:52 | [am-modulator](https://crates.io/crates/am-modulator) | 0.1.0 | 0 | High-performance AM modulator in Rust: encode WAV and MP3 audio to baseband I/Q… |
-| 2026-10-31 03:31:51 | [lrpt-encoder](https://crates.io/crates/lrpt-encoder) | 0.1.0 | 0 | Encode images into Meteor-M N2-4 LRPT (Low Rate Picture Transmission) digital s… |
-| 2026-10-31 03:32:05 | [warm-rust](https://crates.io/crates/warm-rust) | 0.6.5 | 0 | Local-first search engine and agent memory: fast approximate nearest-neighbor a… |
-| 2026-10-31 03:35:07 | [apt-encoder](https://crates.io/crates/apt-encoder) | 0.1.0 | 0 | High-performance NOAA APT (Automatic Picture Transmission) encoder, AM audio mo… |
-| 2026-10-31 03:38:37 | [sdr-rtl](https://crates.io/crates/sdr-rtl) | 0.1.0 | 0 | A pure-Rust RTL2832U + R820T/R820T2 receiver driver over nusb, written from the… |
-| 2026-10-31 03:39:17 | [vulkane-slang-parse](https://crates.io/crates/vulkane-slang-parse) | 0.17.0 | 0 | The Slang front end for Unpopped: a tree-sitter Slang parser, the Slang residue… |
-| 2026-10-31 03:39:20 | [sdr-hackrf](https://crates.io/crates/sdr-hackrf) | 0.1.0 | 0 | A pure-Rust HackRF One driver over nusb: receive and transmit, no libusb, no li… |
-| 2026-10-31 03:39:45 | [sdr-uhd](https://crates.io/crates/sdr-uhd) | 0.1.0 | 0 | A USRP B2xx driver over libuhd's C API: receive with device timestamps, transmi… |
-| 2026-10-31 03:40:24 | [sdr-driver](https://crates.io/crates/sdr-driver) | 0.1.0 | 0 | One API over the sdr-* radio drivers: RTL-SDR, HackRF and USRP B2xx behind one… |
-| 2026-10-31 03:42:09 | [cosmograph](https://crates.io/crates/cosmograph) | 0.0.1 | 0 | Name reservation. Cosmograph is a simulator: a configurable world, history and… |
-| 2026-10-31 03:43:22 | [sealmesh-mcp](https://crates.io/crates/sealmesh-mcp) | 0.1.0 | 0 | The MCP server a coding agent mounts over stdio to reach sealmesh — Claude Code… |
-| 2026-10-31 03:44:42 | [naspeed](https://crates.io/crates/naspeed) | 0.1.0 | 0 | Transparent RUSTC_WRAPPER that caches registry crate artifacts once per volume… |
-| 2026-10-31 03:52:25 | [memweave](https://crates.io/crates/memweave) | 0.1.0-alpha.1 | 0 | Experimental and unstable: model-driven knowledge graph retrieval that returns… |
-| 2026-10-31 04:02:13 | [shukka](https://crates.io/crates/shukka) | 0.1.0 | 0 | Rust client for the Shukka release API, generated from the OpenAPI contract |
-| 2026-10-31 04:03:32 | [jadix_style_tokens](https://crates.io/crates/jadix_style_tokens) | 0.1.0 | 0 | Shared Tailwind/Uno-style utility token catalog and variant parsing for jadix |
-| 2026-10-31 04:08:55 | [gala](https://crates.io/crates/gala) | 0.0.0 | 0 | All dressed up with somewhere to render. |
-| 2026-10-31 04:12:34 | [storymap](https://crates.io/crates/storymap) | 0.2.1 | 0 | Turn a Markdown outline into a user story map, and render the map as HTML or an… |
-| 2026-10-31 04:16:01 | [mlmodelc-export](https://crates.io/crates/mlmodelc-export) | 0.1.0 | 0 | Compile a CoreML MLProgram protobuf into a runnable .mlmodelc bundle in pure Ru… |
-| 2026-10-31 04:16:14 | [byteflow-io](https://crates.io/crates/byteflow-io) | 0.1.0 | 0 | Host-side I/O integration layer for the Byteflow runtime |
-| 2026-10-31 04:17:13 | [apeireth-core](https://crates.io/crates/apeireth-core) | 2.0.0-rc.4 | 0 | Apeireth 主路径核心类型 (Episode/Note/Session/IdentityCard) — R14 Phase 1 入口 |
-| 2026-10-31 04:17:32 | [apeireth-governance](https://crates.io/crates/apeireth-governance) | 2.0.0-rc.4 | 0 | Canonical governance hook: the decision point the runtime consults before it ac… |
-| 2026-10-31 04:17:41 | [apeireth-image-cms](https://crates.io/crates/apeireth-image-cms) | 2.0.0-rc.4 | 0 | Pure-Rust ICC v2/v4 colour management: profile parsing and writing, transforms,… |
+| 2026-10-31 04:18:08 | [apeireth-image-codecs](https://crates.io/crates/apeireth-image-codecs) | 2.0.0-rc.4 | 0 | Symmetric, depth- and metadata-preserving codecs for flat raster image formats |
+| 2026-10-31 04:18:18 | [apeireth-image-color](https://crates.io/crates/apeireth-image-color) | 2.0.0-rc.4 | 0 | Pixel formats, colour models, sample types and blend-mode math for the image co… |
+| 2026-10-31 04:25:27 | [kawi-plugin-sdk](https://crates.io/crates/kawi-plugin-sdk) | 0.1.0 | 0 | Rust SDK for Kawi WebAssembly plugins |
+| 2026-10-31 04:27:34 | [apeireth-image-geom](https://crates.io/crates/apeireth-image-geom) | 2.0.0-rc.4 | 0 | Geometry primitives shared by the image core family: sizes, rects, affines, til… |
+| 2026-10-31 04:34:38 | [quilix](https://crates.io/crates/quilix) | 0.1.0 | 0 | Compiler for Quilix, a frontend layout description language. |
+| 2026-10-31 04:36:24 | [jadix_macros](https://crates.io/crates/jadix_macros) | 0.1.0 | 0 | Proc-macros for the jadix UI framework (`ui!`, `#[component]`) |
+| 2026-10-31 04:36:44 | [jadix_media](https://crates.io/crates/jadix_media) | 0.1.0 | 0 | Backend-neutral media playback contracts for Jadix and external adapters |
+| 2026-10-31 04:37:01 | [jadix_tasks](https://crates.io/crates/jadix_tasks) | 0.1.0 | 0 | Runtime-neutral task cancellation, execution and event contracts for Jadix adap… |
+| 2026-10-31 04:37:18 | [jadix_net](https://crates.io/crates/jadix_net) | 0.1.0 | 0 | Backend-neutral networking contracts for Jadix and external adapters |
+| 2026-10-31 04:40:18 | [apeireth-image-psd](https://crates.io/crates/apeireth-image-psd) | 2.0.0-rc.4 | 0 | Faithful, lossless reader and writer for Adobe Photoshop PSD (v1) and PSB (v2)… |
+| 2026-10-31 04:45:58 | [fountain_operators](https://crates.io/crates/fountain_operators) | 2.0.0 | 0 | High-performance DataOperator implementations for fountain_engine |
+| 2026-10-31 04:47:54 | [codingpad](https://crates.io/crates/codingpad) | 0.0.1 | 0 | Placeholder for the CodingPad runtime library (dump, cache, secret, db). Not fu… |
+| 2026-10-31 04:47:54 | [yetlet-cli](https://crates.io/crates/yetlet-cli) | 0.1.0 | 0 | Source-installable Yetlet developer CLI preview |
+| 2026-10-31 04:48:11 | [cpad](https://crates.io/crates/cpad) | 0.0.1 | 0 | Placeholder for cpad, the CodingPad command-line runner. Not functional yet. |
+| 2026-10-31 04:48:19 | [jadix_wgpu](https://crates.io/crates/jadix_wgpu) | 0.1.0 | 0 | Cross-platform, safe, pure-rust graphics API |
+| 2026-10-31 04:49:02 | [alhazen-ms-core](https://crates.io/crates/alhazen-ms-core) | 0.6.2 | 0 | Memory Seek fork of alhazen-core: a native media engine for Rust with pure-Rust… |
+| 2026-10-31 04:49:26 | [apeireth-image-raster](https://crates.io/crates/apeireth-image-raster) | 2.0.0-rc.4 | 0 | Sparse, copy-on-write tiled pixel surfaces in any pixel format for the image co… |
+| 2026-10-31 04:49:34 | [jadix_renderer](https://crates.io/crates/jadix_renderer) | 0.1.0 | 0 | GPU compute kernels, backdrop blur pipelines and emoji classification |
+| 2026-10-31 04:50:37 | [alhazen-ms-gpui](https://crates.io/crates/alhazen-ms-gpui) | 0.1.2 | 0 | Memory Seek fork of alhazen-gpui, targeting gpui-pre 0.3.10 |
+| 2026-10-31 04:58:52 | [apeireth-image-algo](https://crates.io/crates/apeireth-image-algo) | 2.0.0-rc.4 | 0 | Depth-agnostic, tile-aware CPU image filters (blur, sharpen, noise, distort, st… |
+| 2026-10-31 05:01:26 | [monochromatic-xml-edit](https://crates.io/crates/monochromatic-xml-edit) | 0.1.0 | 0 | Formatting-preserving XML attribute and element edits for Rust: an owned scanne… |
+| 2026-10-31 05:03:35 | [web-core-runners](https://crates.io/crates/web-core-runners) | 0.5.0 | 0 | Remote task runners for web-core apps: protocol, runner runtime and app-side po… |
+| 2026-10-31 05:07:01 | [hoptrace](https://crates.io/crates/hoptrace) | 0.1.0 | 0 | mtr-style path traces over an unprivileged ICMP socket |
+| 2026-10-31 05:07:12 | [ssrf-guard](https://crates.io/crates/ssrf-guard) | 0.1.0 | 0 | Fetch user-supplied URLs from a server without reaching its private network |
+| 2026-10-31 05:08:02 | [apeireth-image-doc](https://crates.io/crates/apeireth-image-doc) | 2.0.0-rc.4 | 0 | Image core document model: layers, adjustments, fills, masks and comps as pure… |
+| 2026-10-31 05:12:31 | [monochromatic-dependency-catalog](https://crates.io/crates/monochromatic-dependency-catalog) | 0.1.0 | 0 | Pure-function library that renders a pnpm-style rust-catalog.toml into each Car… |
+| 2026-10-31 05:12:51 | [monochromatic-browserslist](https://crates.io/crates/monochromatic-browserslist) | 0.1.0 | 0 | Resolves this repository's .browserslistrc to the target list npm browserslist… |
+| 2026-10-31 05:13:08 | [monochromatic-file-enforcer](https://crates.io/crates/monochromatic-file-enforcer) | 0.1.0 | 0 | Rule engine behind file-enforcer: plans every rule against a virtual view of th… |
+| 2026-10-31 05:13:22 | [monochromatic-file-enforcer-cli](https://crates.io/crates/monochromatic-file-enforcer-cli) | 0.1.0 | 0 | The file-enforcer command line: write, check, watch, explain, and the per-user… |
+| 2026-10-31 05:17:37 | [apeireth-image-vector](https://crates.io/crates/apeireth-image-vector) | 2.0.0-rc.4 | 0 | Vector paths, shape layers, strokes and vector masks → anti-aliased coverage an… |
+| 2026-10-31 05:17:48 | [jadix_theme](https://crates.io/crates/jadix_theme) | 0.1.0 | 0 | Theme palettes, design tokens, color parsing and validated overrides |
+| 2026-10-31 05:18:14 | [jadix_tokio](https://crates.io/crates/jadix_tokio) | 0.1.0 | 0 | Bounded Tokio execution adapter for Jadix task contracts |
+| 2026-10-31 05:18:33 | [jadix_window_materials](https://crates.io/crates/jadix_window_materials) | 0.1.0 | 0 | Platform-neutral window backdrop choices and material tuning |
 
 ## Data source
 
