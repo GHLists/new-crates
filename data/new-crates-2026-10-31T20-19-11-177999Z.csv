@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T19:19:53.346372Z,pleochroma-mobile-core,0.10.0,0,0,https://github.com/suitable-name/pleochroma,"The UI-free core of the Pleochroma mobile app: app state, settings and paths, the compute threads (render pool, solve, analysis), file bytes in and out, cutting progress and the platform-service trai…"
+2026-10-31T19:19:59.977038Z,idobata,0.3.0,0,0,https://github.com/genki/idobata,"Signed, inspected P2P knowledge exchange for AI agents"
+2026-10-31T19:20:09.685966Z,bloatrail,0.4.0,0,0,https://github.com/Juuzoe/bloatrail,A developer-aware disk space analyser and safe cleanup tool
+2026-10-31T19:21:43.061461Z,fs-mac-unicode,0.1.0,0,0,https://github.com/danifunker/rusty-backup,HFS and HFS+ catalog-name ordering: Apple's Unicode case-fold and decomposition tables and the Mac Roman sort order
+2026-10-31T19:27:14.776782Z,fairlead,0.14.1,0,0,https://github.com/mahkassem/fairlead,"Guardrails and a guided path for coding agents: rules enforced as the agent works, tests scoped to what a change can reach, capped project memory, and KPIs."
+2026-10-31T19:27:22.104846Z,bemtvi-gui,0.0.1,0,0,https://github.com/bemtvi/bemtvi,"Placeholder for the bemtvi-gui crate of bemtvi, a modal, vim-style editor. No functionality yet."
+2026-10-31T19:29:32.161164Z,rexinator,0.2.0,0,0,https://github.com/alvgaona/rexinator,"Start Rex terminal sessions from YAML project files, like tmuxinator for tmux"
+2026-10-31T19:31:52.942073Z,fs-apfs,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Read Apple APFS volumes, including FileVault-encrypted ones (feature `crypto`)"
+2026-10-31T19:32:47.142375Z,libshimmer-ratatui,0.1.0,0,0,https://github.com/aoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoaoa/libshimmer,Draws libshimmer's animated status lines with ratatui
+2026-10-31T19:34:13.392673Z,pleochroma-web,0.10.0,0,0,https://github.com/suitable-name/pleochroma,"Browser build of pleochroma: open a faceting design (.psdd, .asc, .gem, .gcs), edit it, and save it back -- no design library, no remote worker, no database."
+2026-10-31T19:37:26.930084Z,bemtvi-gpu,0.0.1,0,0,https://github.com/bemtvi/bemtvi,"Placeholder for the bemtvi-gpu crate of bemtvi, a modal, vim-style editor. No functionality yet."
+2026-10-31T19:39:55.071536Z,pleochroma-web-compute,0.10.0,0,0,https://github.com/suitable-name/pleochroma,"The Web Worker entry point of the pleochroma browser app: decodes a message, runs pleochroma-web-core's handler, posts the reply. Built by Trunk as a worker next to apps/pleochroma-web."
+2026-10-31T19:41:47.916889Z,fs-xfs,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Read, edit, check and repair XFS (IRIX v4 through Linux v5) filesystems"
+2026-10-31T19:43:23.880667Z,tm-n3,0.11.0,0,0,https://github.com/Volland/tiramemsu,"Tiramemsu N3 reasoning: eyeron over a scope of a view, aware of valid and transaction time"
+2026-10-31T19:47:32.178298Z,bemtvi-mitsuami,0.0.1,0,0,https://github.com/bemtvi/bemtvi,"Placeholder for the bemtvi-mitsuami crate of bemtvi, a modal, vim-style editor. No functionality yet."
+2026-10-31T19:51:59.482058Z,fs-squashfs,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Read, build, edit and verify SquashFS images (gzip, xz, lzma, lz4, zstd)"
+2026-10-31T19:53:23.799197Z,letterlift,0.1.0,0,0,https://github.com/pravin/letterlift,A free word-ladder puzzle for the terminal: change one letter at a time to reach the goal
+2026-10-31T19:55:36.978491Z,bemtvi-view,0.0.1,0,0,https://github.com/bemtvi/bemtvi,"Placeholder for the bemtvi-view crate of bemtvi, a modal, vim-style editor. No functionality yet."
+2026-10-31T19:56:34.54651Z,unwolf,0.1.0,0,0,https://github.com/KATBlackCoder/unwolf,"Decrypt and extract Wolf RPG Editor archives (.wolf): command line tool and library, a Rust port of UberWolf"
+2026-10-31T19:57:51.08662Z,gpui-jig,0.1.0,0,0,https://github.com/kahwee/gpui-jig,Unstyled GPUI components with composable parts for Rust applications.
+2026-10-31T19:57:56.283407Z,linelight,2026.10.32,0,0,,"Standalone, unprivileged output colorizer with embedded profiles"
+2026-10-31T19:58:16.053388Z,autumn-plugin-gsap,0.1.0,0,0,https://github.com/autumn-foundation/autumn-plugin-gsap,"Autumn plugin: GSAP animations with typed Rust builders, ScrollTrigger, SplitText and htmx support."
+2026-10-31T19:58:16.474784Z,pleochroma-web-gpu,0.10.0,0,0,https://github.com/suitable-name/pleochroma,"The WebGPU render Worker entry point of the pleochroma browser app: decodes a message, runs event-wavefront GPU rendering, posts the reply. Built by Trunk as a worker next to apps/pleochroma-web."
+2026-10-31T20:02:07.108767Z,fs-pc,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Read, edit, create, check and resize PC filesystems: FAT12/16/32, exFAT, NTFS and Sharp X68000 Human68k"
+2026-10-31T20:02:08.500675Z,akivili-plugin-host,0.2.23,0,0,https://github.com/celestia-island/akivili,"Agent plugin host — Boa TypeScript runtime, plugin router and host state"
+2026-10-31T20:05:41.893132Z,bemtvi-ts,0.0.1,0,0,https://github.com/bemtvi/bemtvi,"Placeholder for the bemtvi-ts crate of bemtvi, a modal, vim-style editor. No functionality yet."
+2026-10-31T20:08:43.495089Z,hyprhopd,0.2.0,0,0,https://github.com/magnustymoteus/hyprhopd,"Keyboard-driven pointer control for Hyprland, in the spirit of warpd"
+2026-10-31T20:10:03.722385Z,akivili-loader,0.2.23,0,0,https://github.com/celestia-island/akivili,"Plugin fabric loader — unified lifecycle orchestration over the registry and the F1 wasm host, with a pluggable plugin-list source (evernight topology or own config)"
+2026-10-31T20:11:06.229949Z,enigo-zyris,0.6.1,0,0,https://github.com/ridanit-ruma/enigo-zyris,"Fork of enigo for Zyris: per-output absolute pointer motion on wlroots and Windows, and Shift for level-1 keysyms on libei"
+2026-10-31T20:12:52.788069Z,iso-8583,0.0.1,0,0,https://github.com/tilli-pro/financial-messaging,"Spec-driven ISO 8583 codec: MTI, bitmaps, data elements and per-host field tables."
+2026-10-31T20:12:53.470459Z,fs-amiga,0.1.0,0,0,https://github.com/danifunker/rusty-backup,"Read, edit and check Amiga filesystems: AFFS (OFS/FFS), PFS3 and SFS"
+2026-10-31T20:13:05.466747Z,iso-20022-codegen,0.0.1,0,0,https://github.com/tilli-pro/financial-messaging,Generator that turns official ISO 20022 XSDs into strongly typed Rust for the iso-20022 crate.
+2026-10-31T20:13:07.552201Z,iso-20022,0.0.1,0,0,https://github.com/tilli-pro/financial-messaging,Strongly typed ISO 20022 (MX) messages generated from the official XSDs.
+2026-10-31T20:13:32.031863Z,loki-sdk,0.1.0,0,0,https://github.com/Aspenini/LOKI,Build portable Rust plugins for LOKI with typed host services
+2026-10-31T20:13:49.716344Z,cargo-loki,0.1.0,0,0,https://github.com/Aspenini/LOKI,"Scaffold, build, package, and develop portable LOKI plugins"
+2026-10-31T20:15:48.656165Z,bemtvi-lsp,0.0.1,0,0,https://github.com/bemtvi/bemtvi,"Placeholder for the bemtvi-lsp crate of bemtvi, a modal, vim-style editor. No functionality yet."
