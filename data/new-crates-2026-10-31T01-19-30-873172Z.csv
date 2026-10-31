@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T00:21:27.613465Z,fogvault-i18n-config,0.4.8,0,0,https://github.com/DataFog/fogvault,FogVault backend-only fork of i18n-config; limited supported feature closure
+2026-10-31T00:21:31.783097Z,fogvault-i18n-embed-impl,0.8.4,0,0,https://github.com/DataFog/fogvault,FogVault backend-only fork of i18n-embed-impl; limited supported feature closure
+2026-10-31T00:21:38.691463Z,fogvault-i18n-embed,0.16.0,0,0,https://github.com/DataFog/fogvault,FogVault backend-only fork of i18n-embed; limited supported feature closure
+2026-10-31T00:21:51.847923Z,fogvault-i18n-embed-fl,0.10.1,0,0,https://github.com/DataFog/fogvault,FogVault backend-only fork of i18n-embed-fl; limited supported feature closure
+2026-10-31T00:22:12.971636Z,fogvault-age,0.11.5,0,0,https://github.com/DataFog/fogvault,FogVault backend-only fork of age; limited supported feature closure
+2026-10-31T00:23:49.440734Z,aci_edge_sandboxes_model,0.1.0,0,0,https://github.com/Azure/aci-edge-sandbox,Serializable data model of the edge sandbox lifecycle
+2026-10-31T00:23:56.457655Z,aci_edge_sandboxes,0.1.0,0,0,https://github.com/Azure/aci-edge-sandbox,Rust interface to the ACI Edge Sandboxes lifecycle
+2026-10-31T00:24:15.045462Z,bitview_plugin_entry,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,Bitcoin cohorts classified by creation-time price
+2026-10-31T00:26:47.455956Z,fogvault,0.1.0,0,0,https://github.com/DataFog/fogvault,Portable FogVault lifecycle candidate; not production-qualified
+2026-10-31T00:28:30.022907Z,southstar-video-helper,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,Southstar's video helper process: decodes video with libav into a shared-memory frame ring
+2026-10-31T00:33:21.346753Z,bitview_plugin_holders,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,"Overlapping holder cohorts (all, STH, LTH, age cuts) aggregated from UTXO age ranges"
+2026-10-31T00:34:23.352112Z,fogvault-backup,0.1.0,0,0,https://github.com/DataFog/fogvault,Bounded streaming age/v1 FogVault snapshot export and encrypted import staging
+2026-10-31T00:38:30.806605Z,southstar,1.0.5,0,0,https://github.com/nordstjernen-web/southstar-browser,"Southstar, a web browser written from scratch in Rust with a GTK 4 interface: `cargo install southstar` builds the browser and its renderer and media helpers"
+2026-10-31T00:43:36.291601Z,bitview_plugin_profitability,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,UTXO profitability bands for shared age filters
+2026-10-31T00:44:10.391298Z,librotenado,0.7.3,0,0,https://github.com/librotenado/librotenado,Reference library of the librotenado protocol for accounting data
+2026-10-31T00:44:31.328812Z,fogvault-native,0.1.0,0,0,https://github.com/DataFog/fogvault,Durable SQLite host adapter for the portable FogVault engine
+2026-10-31T00:53:46.708403Z,bitview_plugin_utxos,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,UTXO amount and output type distribution metrics
+2026-10-31T00:53:52.543545Z,datafog-fogvault-migration,1.0.0,0,0,,Validated Core bundle recovery staging for the optional FogVault integration
+2026-10-31T01:01:42.162754Z,bitviewd_bench,0.13.0,0,0,https://github.com/bitcoinresearchkit/mono,End-to-end bootstrap benchmark for bitviewd.
+2026-10-31T01:04:03.630649Z,datafog-fogvault-native,1.0.0,0,0,,Optional native persistence integration for DataFog Core workspaces
+2026-10-31T01:06:59.793031Z,archives,0.0.0,0,0,https://github.com/ankit-chaubey/archives,"A fast, content-deduplicating file backup utility"
+2026-10-31T01:09:13.936434Z,tunlion-lan,0.1.0,0,0,https://github.com/Abdk4Moura/tunlion,"Server-free local discovery for tunlion: beacons, probes and remembered addresses"
+2026-10-31T01:09:39.581323Z,typepact,0.1.0,0,0,https://github.com/eddiethedean/typepact,Inspect TypePact contracts in Python source without executing it
+2026-10-31T01:09:55.953844Z,crush-squeeze,0.1.0,0,0,https://github.com/nixpt/squeeze,Intuitive one-command build tool for the Crush ecosystem — wraps crush-pkg's check/build/run pipeline
+2026-10-31T01:11:22.14045Z,bevy_emerge,0.1.0,0,0,https://github.com/Ladvien/bevy_emerge,"The runtime half of emerge: load a library and a map, and put it in a Bevy world."
+2026-10-31T01:12:30.446874Z,ferri-pdf-rav1d,1.1.1,0,0,https://github.com/apollohg/ferri-pdf,Fork of rav1d for ferri-pdf. Rust port of the dav1d AV1 decoder
+2026-10-31T01:14:01.188343Z,schematic-tree-sitter-c,0.24.3,0,0,https://github.com/schematic-tech/tree-sitter-c,Schematic fork: C grammar for tree-sitter
+2026-10-31T01:14:15.943705Z,schematic-tree-sitter-rust,0.24.3,0,0,https://github.com/schematic-tech/tree-sitter-rust,Schematic fork: Rust grammar for tree-sitter
+2026-10-31T01:16:46.724075Z,nordisk-heimdall-core,0.1.0,0,0,https://gunnar.rs/nordisk/heimdall,"Heimdall is a defensive sandbox: job, policy and signed-result types, per-boot Ed25519 key, canonical encoding and verification"
+2026-10-31T01:16:53.787168Z,nordisk-heimdall-plain,0.1.0,0,0,https://gunnar.rs/nordisk/heimdall,"Heimdall is a defensive sandbox: heimdall-plain is the interim milestone 0 JobRunner, an ordinary youki (libcontainer) container per job with no Heimdall protections, stated truthfully in its feature…"
+2026-10-31T01:16:59.51346Z,nordisk-heimdall-wasm,0.1.0,0,0,https://gunnar.rs/nordisk/heimdall,"Heimdall is a defensive sandbox: its wasm host, a wasmtime component host with no WASI, fuel + wall-clock + memory/table/instance/stack limits, signed guests verified before load"
+2026-10-31T01:17:08.34138Z,nordisk-heimdall-run,0.1.0,0,0,https://gunnar.rs/nordisk/heimdall,"Heimdall is a defensive sandbox: heimdall-run ties one job together (input dir, guest, fresh output dir, signed result)."
+2026-10-31T01:17:14.839142Z,nordisk-heimdall-cli,0.1.0,0,0,https://gunnar.rs/nordisk/heimdall,"Heimdall is a defensive sandbox: the heimdall command line (run a wasm job, verify a signed result)."
+2026-10-31T01:17:40.221395Z,praxo-core,0.1.2,0,0,https://github.com/axisvela/praxo-core,Rust SDK for the PRAXO-CORE agent contract
