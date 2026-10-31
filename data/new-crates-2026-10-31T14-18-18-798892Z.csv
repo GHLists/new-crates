@@ -1,0 +1,37 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T13:21:39.300275Z,cgm,0.1.5,0,0,https://github.com/Ying-Luan/cgm,Convenient GPU Manager
+2026-10-31T13:26:50.137778Z,context-kernel-core,0.1.0,0,0,https://github.com/GodSpeedAI/Context-Kernel,Core domain types and ports for Context Kernel
+2026-10-31T13:26:52.96065Z,context-kernel-config,0.1.0,0,0,https://github.com/GodSpeedAI/Context-Kernel,Configuration model and per-user data directory rules for Context Kernel
+2026-10-31T13:26:55.434256Z,context-kernel-memory,0.1.0,0,0,https://github.com/GodSpeedAI/Context-Kernel,Memory domain model for Context Kernel
+2026-10-31T13:26:57.881155Z,context-kernel-observability,0.1.0,0,0,https://github.com/GodSpeedAI/Context-Kernel,Structured logging setup for Context Kernel
+2026-10-31T13:27:01.74747Z,context-kernel-artifacts,0.1.0,0,0,https://github.com/GodSpeedAI/Context-Kernel,Artifact storage and provenance for Context Kernel
+2026-10-31T13:27:11.327385Z,lunixi,0.1.1,0,0,https://github.com/Lunixi-Payment/lunixi-rust,"Server-side Lunixi payment APIs, Ed25519 authentication and verified webhooks"
+2026-10-31T13:33:16.505131Z,olly,0.1.1,0,0,https://github.com/bitshift-systems/bitkit-rs,Observability presets for Rust applications (part of the Bitkit ecosystem)
+2026-10-31T13:36:03.537398Z,nocentraldb,0.0.0,0,0,https://github.com/nocentraldb/nocentraldb,Placeholder for NoCentralDB. Reserved by the NoCentralDB project; contains no functionality yet.
+2026-10-31T13:36:06.46658Z,ncdb-core,0.0.0,0,0,https://github.com/nocentraldb/nocentraldb,Placeholder for NoCentralDB. Reserved by the NoCentralDB project; contains no functionality yet.
+2026-10-31T13:36:09.312892Z,ncdb,0.0.0,0,0,https://github.com/nocentraldb/nocentraldb,Placeholder for NoCentralDB. Reserved by the NoCentralDB project; contains no functionality yet.
+2026-10-31T13:38:05.187961Z,context-kernel-ranker,0.1.0,0,0,https://github.com/GodSpeedAI/Context-Kernel,Ranking policy for Context Kernel retrieval
+2026-10-31T13:39:08.338723Z,omium-core,0.1.2,0,0,https://github.com/omium-framework,"Framework-independent primitives, errors, and configuration contracts"
+2026-10-31T13:39:13.322428Z,jj-resolve,0.1.0,0,0,https://github.com/Odonno/jj-resolve,Augment the jj resolve experience
+2026-10-31T13:39:31.730123Z,omium-view,0.1.2,0,0,https://github.com/omium-framework,Server-rendered views using Askama
+2026-10-31T13:39:43.337771Z,omium-http,0.1.2,0,0,https://github.com/omium-framework,"Axum integration, routing, extractors, and HTTP response abstractions"
+2026-10-31T13:40:02.298293Z,omium-db,0.1.2,0,0,https://github.com/omium-framework,"SeaORM integration, connection configuration, and repository conventions"
+2026-10-31T13:40:15.758188Z,omium-inertia,0.1.2,0,0,https://github.com/omium-framework,Inertia protocol integration for Vue/React modes
+2026-10-31T13:47:45.618527Z,studiole-orbit,0.1.0,0,0,https://github.com/StudioLE/Orbit,Extends `docker compose up` and `run` to deploy local config files and sops-encrypted secrets to a remote host
+2026-10-31T13:48:44.186526Z,omium-cli,0.1.2,0,0,https://github.com/omium-framework,"CLI library, project generator, and development commands (omnisan binary)"
+2026-10-31T13:49:49.155914Z,idiomatic-sh-ryo-language,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,Independent language provider contracts for Ryo
+2026-10-31T13:49:52.909414Z,idiomatic-sh-ryo-values,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,Shared source query value types for Ryo
+2026-10-31T13:49:57.642676Z,idiomatic-sh-ryo-query_language,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,RyoQL parsing and planning for source queries
+2026-10-31T13:50:07.556417Z,idiomatic-sh-ryo-core,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,Source query execution services for Ryo
+2026-10-31T13:50:15.161623Z,idiomatic-sh-ryo-sdk,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,Embed Ryo source queries with independent language providers
+2026-10-31T13:52:12.121651Z,deepdeck-core,0.2.0,0,0,https://github.com/deeplabua/deepdeck,"Event log, hook parsing and board fold for DeepDeck."
+2026-10-31T13:52:25.346531Z,deepdeck,0.2.0,0,0,https://github.com/deeplabua/deepdeck,A terminal task board for people running several AI coding agents at once.
+2026-10-31T13:56:02.304858Z,psn-codec,0.1.0,0,0,https://github.com/fakeshadow/psn-codec,Bounded binary ticket decoding with explicit unverified claims
+2026-10-31T14:00:05.243839Z,idiomatic-sh-ryo-css,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,CSS language provider for Ryo
+2026-10-31T14:02:35.900035Z,debrief-follow,0.6.5,0,0,https://github.com/martintrojer/debrief,"Editor cursor following over Unix sockets, shared by debrief and ramble"
+2026-10-31T14:03:18.936237Z,quarb-lib-graph,0.45.0,0,0,https://gitlab.com/quarb/engine,"The graph algorithms behind Quarb's graph: command library and the web level's stored rank: PageRank over an edge list, weighted or not, with the dangling mass spread; pure functions, no engine depen…"
+2026-10-31T14:04:59.861582Z,cratestack-webtransport,0.17.1,0,0,https://github.com/cratestack/cratestack,"Rust-native schema-first framework for typed HTTP APIs, generated clients, and backend services."
+2026-10-31T14:08:14.377155Z,heifer-cli,0.3.1,0,0,https://github.com/HarpeLm/Heifer,"Convert HEIC/HEIF photos to and from PNG, JPEG and WebP, in pure Rust"
+2026-10-31T14:09:00.830565Z,cratestack-auth-conformance,0.17.1,0,0,https://github.com/cratestack/cratestack,"The AuthProvider conformance kit (ADR 0021 §6): drives one provider through every CrateStack transport and asserts the same verdict, the same refusal rendering, the canonical request and one call per…"
+2026-10-31T14:10:02.79405Z,idiomatic-sh-ryo-go,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,Go language provider for Ryo
+2026-10-31T14:13:58.860537Z,tcpdoc,0.1.0,0,0,https://github.com/bogdancolceriu/tcpdoc,"Explains why TCP connections in a packet capture were slow: receiver window, network, loss, timeouts or the application"
