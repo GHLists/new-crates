@@ -8,46 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 02:19 UTC
+## Latest list — 2026-10-31 03:18 UTC
 
-New crates published between 2026-10-31 01:19 UTC and 2026-10-31 02:19 UTC.
+New crates published between 2026-10-31 02:19 UTC and 2026-10-31 03:18 UTC.
 
-[Full CSV](data/new-crates-2026-10-31T02-19-04-345877Z.csv)
+[Full CSV](data/new-crates-2026-10-31T03-18-29-75459Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-31 01:21:53 | [fluidither](https://crates.io/crates/fluidither) | 0.1.0 | 0 | Dithered, spring-driven UI components for GPUI |
-| 2026-10-31 01:22:44 | [gantz_nodedef](https://crates.io/crates/gantz_nodedef) | 0.0.1 | 0 | Node types defined as data, for the domains of gantz. |
-| 2026-10-31 01:24:38 | [crush-lsp](https://crates.io/crates/crush-lsp) | 0.1.0 | 0 | Language Server Protocol implementation for Crush — real diagnostics via crush-… |
-| 2026-10-31 01:35:07 | [yetlet](https://crates.io/crates/yetlet) | 0.9.0-alpha.5 | 0 | HTML-first Rust framework with explicit optional native capabilities |
-| 2026-10-31 01:35:08 | [yetlet-browser](https://crates.io/crates/yetlet-browser) | 0.9.0-alpha.5 | 0 | Optional browser DOM, action transport and WebGPU integrations for Yetlet |
-| 2026-10-31 01:39:13 | [oino-ai](https://crates.io/crates/oino-ai) | 1.0.0 | 0 | pi-ai compatible message, content, model and streaming types for Oino |
-| 2026-10-31 01:39:15 | [oino-ui](https://crates.io/crates/oino-ui) | 1.0.0 | 0 | Wire types and ratatui-mirroring builder for the Oino extension UI protocol v2… |
-| 2026-10-31 01:39:18 | [oino-agent](https://crates.io/crates/oino-agent) | 1.0.0 | 0 | pi-agent-core: agent loop, tool execution, stateful Agent with queues |
-| 2026-10-31 01:39:20 | [oino-extension-api](https://crates.io/crates/oino-extension-api) | 1.0.0 | 0 | Contracts between oino-core and extension runtimes: instances, host services, m… |
-| 2026-10-31 01:39:22 | [oino-models](https://crates.io/crates/oino-models) | 1.0.0 | 0 | pi model registry, models.json, model resolution, auth storage, virtual models |
-| 2026-10-31 01:40:45 | [oino-settings](https://crates.io/crates/oino-settings) | 1.0.0 | 0 | pi settings manager: global/project merge, typed getters, locking |
-| 2026-10-31 01:44:01 | [zstar](https://crates.io/crates/zstar) | 0.0.1 | 0 | Async indexed tar archive reader and writer |
-| 2026-10-31 01:44:25 | [zstar-cli](https://crates.io/crates/zstar-cli) | 0.0.1 | 0 | Command-line capture, inspection and restoration for Zstar archives |
-| 2026-10-31 01:44:48 | [table-manners](https://crates.io/crates/table-manners) | 0.1.0 | 0 | Types and schemas of table-manners, the shared contract of the waffle tools: on… |
-| 2026-10-31 01:45:17 | [earthsci-astdiff](https://crates.io/crates/earthsci-astdiff) | 0.1.0 | 0 | Analytical sparse Jacobians for EarthSciAST (.esm) models by symbolic different… |
-| 2026-10-31 01:53:01 | [sealmesh-wire](https://crates.io/crates/sealmesh-wire) | 0.1.0 | 0 | The snapshot format the beacon writes, the server stores, and `who` reads |
-| 2026-10-31 01:53:03 | [sealmesh-chat-wire](https://crates.io/crates/sealmesh-chat-wire) | 0.1.0 | 0 | Message shapes for the agent chat protocol: a closed MessageKind, a capped Body… |
-| 2026-10-31 01:53:04 | [sealmesh-proto](https://crates.io/crates/sealmesh-proto) | 0.1.0 | 0 | The frames a sealmesh daemon and router exchange |
-| 2026-10-31 01:53:06 | [sealmesh](https://crates.io/crates/sealmesh) | 0.1.0 | 0 | See what your coding agents are working on across machines, without messaging a… |
-| 2026-10-31 01:53:06 | [sealmesh-server](https://crates.io/crates/sealmesh-server) | 0.1.0 | 0 | Connection registry and query router for sealmesh daemons |
-| 2026-10-31 01:57:45 | [bevy_emerge_anim](https://crates.io/crates/bevy_emerge_anim) | 0.1.0 | 0 | Clip-weight blending on a skinned rig's AnimationPlayer — no transitions, one s… |
-| 2026-10-31 02:03:22 | [grib-aec](https://crates.io/crates/grib-aec) | 0.7.0 | 0 | Safe Rust interface to the CCSDS 121.0 adaptive entropy codec used by GRIB2 |
-| 2026-10-31 02:04:30 | [alignasm](https://crates.io/crates/alignasm) | 1.0.0 | 0 | A column-organized formatter for NASM |
-| 2026-10-31 02:13:07 | [indrajala-math](https://crates.io/crates/indrajala-math) | 0.1.0 | 0 | A 1D/2D f64 array and neural network kernels with the same bits on every machin… |
-| 2026-10-31 02:14:52 | [noxi-hash](https://crates.io/crates/noxi-hash) | 0.0.1 | 0 | Nix hash formats and Nix base32 encoding |
-| 2026-10-31 02:15:04 | [noxi-eval-builtin-macros](https://crates.io/crates/noxi-eval-builtin-macros) | 0.0.1 | 0 | Procedural macros for defining noxi-eval builtins, derived from snix-eval-built… |
-| 2026-10-31 02:15:10 | [noxi-compat-derive](https://crates.io/crates/noxi-compat-derive) | 0.0.1 | 0 | Procedural macros for noxi Nix protocol serialization, derived from Snix |
-| 2026-10-31 02:15:52 | [noxi-flakeref](https://crates.io/crates/noxi-flakeref) | 0.0.1 | 0 | Nix flake reference parser and formatter |
-| 2026-10-31 02:16:18 | [corundum-framework-keys](https://crates.io/crates/corundum-framework-keys) | 0.5.0 | 0 | API keys for an app's server: a store of named keys, one file each, their verif… |
-| 2026-10-31 02:16:20 | [noxi-compat](https://crates.io/crates/noxi-compat) | 0.0.1 | 0 | Nix formats and protocol codecs for noxi, derived from Snix nix-compat |
-| 2026-10-31 02:16:30 | [corundum-framework-service](https://crates.io/crates/corundum-framework-service) | 0.5.0 | 0 | Register an app's background service with the OS service manager: systemd, laun… |
-| 2026-10-31 02:16:53 | [noxi-eval](https://crates.io/crates/noxi-eval) | 0.0.1 | 0 | Nix language parser, compiler and bytecode evaluator for noxi, derived from sni… |
+| 2026-10-31 02:27:07 | [noxi-store](https://crates.io/crates/noxi-store) | 0.0.1 | 0 | A local Nix store compatible with CppNix's on-disk format |
+| 2026-10-31 02:35:30 | [phi-wire-protocol](https://crates.io/crates/phi-wire-protocol) | 0.1.0 | 0 | Provider wire protocol for the phi family: versioned requests, replies, and err… |
+| 2026-10-31 02:35:38 | [phi-wire-adapter](https://crates.io/crates/phi-wire-adapter) | 0.1.0 | 0 | Provider contract shared by phi wire clients and platform adapters |
+| 2026-10-31 02:35:45 | [phi-wire-client](https://crates.io/crates/phi-wire-client) | 0.1.0 | 0 | Correlated JSON-lines subprocess transport for the phi family: cancellation nev… |
+| 2026-10-31 02:41:43 | [frust-rs](https://crates.io/crates/frust-rs) | 0.1.1 | 0 | A thin accelerator that sits on top of your installed Rust toolchain: shared co… |
+| 2026-10-31 02:46:05 | [provenance-contract](https://crates.io/crates/provenance-contract) | 0.0.0 | 0 | Internal part of Provenance for the operation wire contract |
+| 2026-10-31 02:50:55 | [sqlx-doris-mysql](https://crates.io/crates/sqlx-doris-mysql) | 0.9.0 | 0 | Doris-compatible MySQL driver implementation for SQLx, bundled with sqlx-doris;… |
+| 2026-10-31 02:51:23 | [sqlx-doris](https://crates.io/crates/sqlx-doris) | 0.1.0 | 0 | SQLx MySQL and Apache Doris connections, native types, and operations |
+| 2026-10-31 02:52:15 | [voltik](https://crates.io/crates/voltik) | 0.16.0 | 0 | CircuiTikZ circuits to SVG and PNG with no TeX install, as a library of tikra. |
+| 2026-10-31 02:52:34 | [voltik-cli](https://crates.io/crates/voltik-cli) | 0.16.0 | 0 | Command line for voltik: CircuiTikZ to SVG and PNG. |
+| 2026-10-31 02:55:27 | [kyln](https://crates.io/crates/kyln) | 0.3.0 | 0 | A guarded TUI for reviewing old caches and diagnostic logs |
+| 2026-10-31 02:56:23 | [autoseek](https://crates.io/crates/autoseek) | 0.1.0 | 0 | 只做一件事的 agent：给定问题、数据和目标，自己写代码、跑实验、分析结果，反复迭代出技术方案 |
+| 2026-10-31 02:59:21 | [hf-fetch](https://crates.io/crates/hf-fetch) | 0.1.0 | 0 | Small blocking Hugging Face model downloader with a Python-compatible cache |
+| 2026-10-31 03:03:40 | [punct-converter](https://crates.io/crates/punct-converter) | 0.1.0 | 0 | Fast CLI & library to convert Chinese full-width punctuation to English/half-wi… |
+| 2026-10-31 03:09:30 | [toskar](https://crates.io/crates/toskar) | 0.4.0 | 0 | The official Rust SDK for Toskar: local AI across your own computers. |
+| 2026-10-31 03:10:38 | [writerslogic-warm](https://crates.io/crates/writerslogic-warm) | 0.6.4 | 0 | Local-first search engine and agent memory: fast approximate nearest-neighbor a… |
+| 2026-10-31 03:15:39 | [buildl-core](https://crates.io/crates/buildl-core) | 0.1.0 | 0 | Domain data, ports, and pure pipeline logic for the buildl build system — no I/… |
+| 2026-10-31 03:15:42 | [buildl-lua](https://crates.io/crates/buildl-lua) | 0.1.0 | 0 | Lua build-file evaluation for buildl, on the airsl embedded runtime. |
+| 2026-10-31 03:15:47 | [buildl](https://crates.io/crates/buildl) | 0.1.0 | 0 | A sandboxed, deterministic build system whose build files are written in Lua an… |
+| 2026-10-31 03:15:51 | [buildl-cli](https://crates.io/crates/buildl-cli) | 0.1.0 | 0 | The `buildl` binary — the command-line entry point to the buildl library. |
 
 ## Data source
 

@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T02:27:07.075394Z,noxi-store,0.0.1,0,0,https://github.com/SINGH-RAJVEER/nix-rs,A local Nix store compatible with CppNix's on-disk format
+2026-10-31T02:35:30.09852Z,phi-wire-protocol,0.1.0,0,0,https://github.com/hibuka-labs/phi-wire,"Provider wire protocol for the phi family: versioned requests, replies, and errors"
+2026-10-31T02:35:38.458277Z,phi-wire-adapter,0.1.0,0,0,https://github.com/hibuka-labs/phi-wire,Provider contract shared by phi wire clients and platform adapters
+2026-10-31T02:35:45.025536Z,phi-wire-client,0.1.0,0,0,https://github.com/hibuka-labs/phi-wire,Correlated JSON-lines subprocess transport for the phi family: cancellation never replays a request
+2026-10-31T02:41:43.190161Z,frust-rs,0.1.1,0,0,https://github.com/Seggys116/frust,"A thin accelerator that sits on top of your installed Rust toolchain: shared compile cache, central target directories, queued build locks and a clean build UI."
+2026-10-31T02:46:05.266791Z,provenance-contract,0.0.0,0,0,https://github.com/quality-sh/provenance,Internal part of Provenance for the operation wire contract
+2026-10-31T02:50:55.580501Z,sqlx-doris-mysql,0.9.0,0,0,https://github.com/fieldnote-ops/sqlx-doris,"Doris-compatible MySQL driver implementation for SQLx, bundled with sqlx-doris; not for direct use."
+2026-10-31T02:51:23.345777Z,sqlx-doris,0.1.0,0,0,https://github.com/fieldnote-ops/sqlx-doris,"SQLx MySQL and Apache Doris connections, native types, and operations"
+2026-10-31T02:52:15.35826Z,voltik,0.16.0,0,0,https://github.com/matheusmota-dev-br/voltik,"CircuiTikZ circuits to SVG and PNG with no TeX install, as a library of tikra."
+2026-10-31T02:52:34.508555Z,voltik-cli,0.16.0,0,0,https://github.com/matheusmota-dev-br/voltik,Command line for voltik: CircuiTikZ to SVG and PNG.
+2026-10-31T02:55:27.465447Z,kyln,0.3.0,0,0,https://github.com/Tknott95/KnottStorage,A guarded TUI for reviewing old caches and diagnostic logs
+2026-10-31T02:56:23.734973Z,autoseek,0.1.0,0,0,,只做一件事的 agent：给定问题、数据和目标，自己写代码、跑实验、分析结果，反复迭代出技术方案
+2026-10-31T02:59:21.755429Z,hf-fetch,0.1.0,0,0,https://github.com/avencera/hf-fetch,Small blocking Hugging Face model downloader with a Python-compatible cache
+2026-10-31T03:03:40.216492Z,punct-converter,0.1.0,0,0,https://github.com/5angXR/punct-converter,Fast CLI & library to convert Chinese full-width punctuation to English/half-width equivalents
+2026-10-31T03:09:30.893088Z,toskar,0.4.0,0,0,https://github.com/yeixio/toskar-sdks,The official Rust SDK for Toskar: local AI across your own computers.
+2026-10-31T03:10:38.215331Z,writerslogic-warm,0.6.4,0,0,https://github.com/writerslogic/warm,"Local-first search engine and agent memory: fast approximate nearest-neighbor and BM25 full-text search, encrypted stores, provable deletion, built on vector-symbolic architectures."
+2026-10-31T03:15:39.746842Z,buildl-core,0.1.0,0,0,https://github.com/airsstack/buildl,"Domain data, ports, and pure pipeline logic for the buildl build system — no I/O, no Lua."
+2026-10-31T03:15:42.889219Z,buildl-lua,0.1.0,0,0,https://github.com/airsstack/buildl,"Lua build-file evaluation for buildl, on the airsl embedded runtime."
+2026-10-31T03:15:47.428868Z,buildl,0.1.0,0,0,https://github.com/airsstack/buildl,"A sandboxed, deterministic build system whose build files are written in Lua and evaluated on the airsl embedded runtime."
+2026-10-31T03:15:51.548591Z,buildl-cli,0.1.0,0,0,https://github.com/airsstack/buildl,The `buildl` binary — the command-line entry point to the buildl library.
