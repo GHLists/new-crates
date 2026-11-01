@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T21:19:55.89284Z,nadir-core,0.1.0,0,0,https://github.com/jabbott-iii/Nadir,"Foundation types for the Nadir engine: math, color, rects, time, logging, RNG, hashing and handles."
+2026-11-01T21:19:56.742205Z,nadir-sys,0.1.0,0,0,https://github.com/jabbott-iii/Nadir,"Hand-written raw FFI declarations for the Nadir engine: Win32, Cocoa/objc, X11, EGL and OpenGL."
+2026-11-01T21:19:58.110661Z,nadir-codec,0.1.0,0,0,https://github.com/jabbott-iii/Nadir,"File-format codecs for the Nadir engine: inflate, PNG, QOI, WAV, KLZ, JSON(C), KBJ, BMFont, Aseprite."
+2026-11-01T21:19:59.091552Z,nadir-collision,0.1.0,0,0,https://github.com/jabbott-iii/Nadir,"Collision for the Nadir engine: shapes, a spatial hash, move-and-slide, sweeps and queries."
+2026-11-01T21:19:59.486375Z,nadir-ecs,0.1.0,0,0,https://github.com/jabbott-iii/Nadir,"Entity-component system for the Nadir engine: sparse sets, resources, events, commands, schedule."
+2026-11-01T21:21:21.610217Z,seurust,0.3.0,0,0,https://github.com/NebilI/seurust,Rust native kernels for single-cell analysis (seurust / Seurat backend)
+2026-11-01T21:21:55.967305Z,snelstart-b2b,0.1.0,0,0,https://github.com/robmeijerink/snelstart-b2b,Unofficial async client for the SnelStart B2B API v2
+2026-11-01T21:22:35.273414Z,fml-syntax,0.1.0,0,0,https://github.com/octofhir/fml-rs,Lossless parser and formatter for the FHIR Mapping Language (FML)
+2026-11-01T21:22:36.847317Z,fml-check,0.1.0,0,0,https://github.com/octofhir/fml-rs,"Type checker for the FHIR Mapping Language: element paths, types, variables and group calls"
+2026-11-01T21:22:37.200524Z,fml-model,0.1.0,0,0,https://github.com/octofhir/fml-rs,StructureMap model for the FHIR Mapping Language: compile FML to StructureMap and print it back
+2026-11-01T21:22:38.070172Z,fml-engine,0.1.0,0,0,https://github.com/octofhir/fml-rs,StructureMap engine for the FHIR Mapping Language: run maps over FHIR JSON
+2026-11-01T21:22:39.724778Z,fml-cli,0.1.0,0,0,https://github.com/octofhir/fml-rs,"Command-line tool for the FHIR Mapping Language: format, check, compile, print and run maps"
+2026-11-01T21:23:32.203432Z,mediamaster-bridge,0.1.0,0,0,,Bridge crate: unified API for mediamaster-rs domains (audio + sensors + rf) with device enumerators and event handlers
+2026-11-01T21:23:47.988823Z,ffcine,0.1.0,0,0,https://github.com/macalinao/ffcine,"GPU video finishing: decode, grade (LUTs, tone mapping, scaling) and encode with frames kept in VRAM (facade over the ffcine-* crates)"
+2026-11-01T21:25:05.17998Z,rememberthis,0.1.0,0,0,https://github.com/MissMoonshine/rememberthis,rememberthis is a utility to aid in memorizing snippets of information.
+2026-11-01T21:30:23.300525Z,nadir-assets,0.1.0,0,0,https://github.com/jabbott-iii/Nadir,"Asset management for the Nadir engine: handles, typed storage, the VFS, loaders and hot reload."
+2026-11-01T21:33:45.697833Z,ffcine-cli,0.1.0,0,0,https://github.com/macalinao/ffcine,ffcine command-line interface
+2026-11-01T21:35:28.19388Z,graphity-core,3.0.0,0,0,https://github.com/kaufco/graphity-rust,"Graph analysis algorithms: strongly and weakly connected components, bridges and articulation points, topological order, edge classification, BFS distances, lowest common ancestors and dominators - o…"
+2026-11-01T21:35:29.698784Z,graphity-controlflow,3.0.0,0,0,https://github.com/kaufco/graphity-rust,"Control-flow analyses on Graphity graphs: the loop nesting forest with irreducible loops (Havlak), dominance frontiers and control dependence, and iterated dominance frontiers for SSA phi placement"
+2026-11-01T21:35:30.242728Z,graphity-dot,3.0.0,0,0,https://github.com/kaufco/graphity-rust,"Export of Graphity graphs to DOT (Graphviz), with labels, attributes and clusters taken from caller-owned data by node ID and edge index"
+2026-11-01T21:35:30.624052Z,graphity-mermaid,3.0.0,0,0,https://github.com/kaufco/graphity-rust,"Export of Graphity graphs to Mermaid flowcharts, with labels, shapes, classes and subgraphs taken from caller-owned data by node ID and edge index"
+2026-11-01T21:35:32.414435Z,graphity-all,3.0.0,0,0,https://github.com/kaufco/graphity-rust,"All of Graphity in one dependency: graphity-core, graphity-controlflow, graphity-dot and graphity-mermaid, re-exported under one crate"
+2026-11-01T21:37:28.42918Z,bitspark-horos,0.6.0,0,0,https://github.com/Bitspark/horos,"Types and schemas over ontos values: descriptor well-formedness, conformance and diagnostics."
+2026-11-01T21:40:42.804724Z,nadir-cook,0.1.0,0,0,https://github.com/jabbott-iii/Nadir,"Offline asset pipeline of the Nadir engine: atlases, Aseprite clips, fonts and data, as a library and CLI."
+2026-11-01T21:51:00.770073Z,nadir-platform,0.1.0,0,0,https://github.com/jabbott-iii/Nadir,"OS layer of the Nadir engine: windows, the event loop, input devices, GL surfaces and paths."
+2026-11-01T21:53:52.846959Z,chough,0.1.0,0,0,https://github.com/CorvidLabs/chough,Focused context and honest evidence for an agent-driven development lifecycle
+2026-11-01T22:01:19.334072Z,nadir-gfx,0.1.0,0,0,https://github.com/jabbott-iii/Nadir,"Small render hardware interface for the Nadir engine, with an OpenGL 3.3 core backend."
+2026-11-01T22:10:33.613056Z,lymaille,0.1.0,0,0,https://github.com/sebt3/lymaille,"Library to run an LLM as a durable work agent: persistent sessions, a Rhai scratchpad, lazily discovered toolsets."
+2026-11-01T22:10:36.911358Z,rustpress-cli,0.1.0,0,0,https://github.com/fabriciomichael/rustpress-cli,Official command-line interface for the RustPress web framework
+2026-11-01T22:11:35.866013Z,nadir-input,0.1.0,0,0,https://github.com/jabbott-iii/Nadir,"Input for the Nadir engine: physical keys, device state, action maps, bindings and replays."
+2026-11-01T22:12:26.436268Z,filer-ext4,0.0.1,0,0,https://github.com/artob/filer,"Read-only ext2, ext3, and ext4 file system driver for the Filer API."
+2026-11-01T22:12:30.492947Z,filer-ntfs,0.0.1,0,0,https://github.com/artob/filer,Read-only NTFS file system driver for the Filer API.
+2026-11-01T22:12:34.683154Z,filer-udf,0.0.1,0,0,https://github.com/artob/filer,Read-only UDF file system driver for the Filer API.
+2026-11-01T22:12:38.61634Z,filer-xfs,0.0.1,0,0,https://github.com/artob/filer,Read-only XFS file system driver for the Filer API.
+2026-11-01T22:14:19.763271Z,link-assistant-conversation,0.1.0,0,0,https://github.com/link-assistant/conversation,Portable link graph for AI conversations
+2026-11-01T22:14:37.164291Z,nessie-cas-conformance,0.4.0,0,0,https://github.com/Gilamonster-Foundation/nessie-store,Generic conformance suite every nessie-store CasBackend must pass.
+2026-11-01T22:14:43.148581Z,linear-executable,0.0.0,0,0,,"LE/LX (Linear Executable) format parser for DOS extender, OS/2, and VxD files"
+2026-11-01T22:15:00.609777Z,nessie-ac-conformance,0.4.0,0,0,https://github.com/Gilamonster-Foundation/nessie-store,Generic conformance suite every nessie-store ActionCacheBackend must pass.
+2026-11-01T22:16:35.008693Z,svg2star,0.4.1,0,0,https://github.com/sameer/svg2gcode,"Convert SVGs to machine commands for pen plotters, laser cutters, and more (*)."
+2026-11-01T22:17:34.840549Z,nessie-cas-store,0.4.0,0,0,https://github.com/Gilamonster-Foundation/nessie-store,Retention engine for nessie-store: reachability GC and replica-gated cache eviction over a CasBackend.
+2026-11-01T22:17:57.443938Z,nessie-cas-disk,0.4.0,0,0,https://github.com/Gilamonster-Foundation/nessie-store,"Persistent on-disk CasBackend for nessie-store: write-then-rename commit, verified reads, reclaimable."

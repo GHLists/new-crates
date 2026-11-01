@@ -8,42 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 21:19 UTC
+## Latest list — 2026-11-01 22:18 UTC
 
-New crates published between 2026-11-01 20:18 UTC and 2026-11-01 21:19 UTC.
+New crates published between 2026-11-01 21:19 UTC and 2026-11-01 22:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-01T21-19-06-935213Z.csv)
+[Full CSV](data/new-crates-2026-11-01T22-18-12-038241Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-01 20:19:51 | [protoview](https://crates.io/crates/protoview) | 0.1.0 | 0 | Runtime for protoview-build: zero-copy, allocation-free protobuf view types |
-| 2026-11-01 20:19:59 | [protoview-build](https://crates.io/crates/protoview-build) | 0.1.0 | 0 | Build-time protobuf code generator emitting zero-copy, validate-once view types |
-| 2026-11-01 20:21:54 | [open-rtx](https://crates.io/crates/open-rtx) | 0.0.0-placeholder | 0 | This will be OpenRTX parts migrated to a Rust library, plus any other related R… |
-| 2026-11-01 20:23:41 | [ffcine-import](https://crates.io/crates/ffcine-import) | 0.1.0 | 0 | Timeline importers: edit.yaml, DaVinci Resolve OTIO, FCPXML, Kdenlive/Shotcut M… |
-| 2026-11-01 20:26:03 | [zgx-alacritty-terminal](https://crates.io/crates/zgx-alacritty-terminal) | 0.26.0 | 0 | alacritty_terminal 0.26.0 without comparisons between its grid indices and usiz… |
-| 2026-11-01 20:26:30 | [zgx-zune-jpeg](https://crates.io/crates/zgx-zune-jpeg) | 0.5.15 | 0 | A fast, correct and safe jpeg decoder (zgx's fork: DCT-scaled decoding) |
-| 2026-11-01 20:27:01 | [munet-nn](https://crates.io/crates/munet-nn) | 0.4.0 | 0 | MuNet: run ONNX models (saved .mnet programs) on any Vulkan GPU - AMD, Intel, N… |
-| 2026-11-01 20:28:16 | [zgx-terminal](https://crates.io/crates/zgx-terminal) | 0.1.7 | 0 | Terminal sessions for zgx: a shell on a pseudoterminal (openpty, ConPTY) and it… |
-| 2026-11-01 20:31:05 | [rppd-common](https://crates.io/crates/rppd-common) | 0.2.3 | 0 | RPPD - protibuf types and services |
-| 2026-11-01 20:31:07 | [rppd](https://crates.io/crates/rppd) | 0.2.17 | 0 | RPPD - Rust Python Postgres |
-| 2026-11-01 20:31:39 | [compress-archive-extension](https://crates.io/crates/compress-archive-extension) | 0.1.1 | 0 | Compress Archive eXtension |
-| 2026-11-01 20:33:44 | [ffcine-assembly](https://crates.io/crates/ffcine-assembly) | 0.1.0 | 0 | Final assembly: concat with dissolves, captions and title cards, chapters and c… |
-| 2026-11-01 20:35:58 | [aptove-core](https://crates.io/crates/aptove-core) | 1.0.1 | 0 | Core library for the Aptove bridge |
-| 2026-11-01 20:36:02 | [dtk](https://crates.io/crates/dtk) | 0.2.0 | 0 | Data token killer: a Claude Code hook that turns big tables, CSV, JSON and JSON… |
-| 2026-11-01 20:37:12 | [vibe-pilot](https://crates.io/crates/vibe-pilot) | 0.1.3 | 0 | The context optimizer for AI engineers. Prune your codebase before you feed it… |
-| 2026-11-01 20:39:36 | [agent-mesh-ratchet](https://crates.io/crates/agent-mesh-ratchet) | 0.8.2 | 0 | Signal-style Double Ratchet (Olm) for 1:1 agent-mesh sessions, bound to the mes… |
-| 2026-11-01 20:43:46 | [ffcine-delivery](https://crates.io/crates/ffcine-delivery) | 0.1.0 | 0 | Delivery extras from a timeline: YouTube chapters, music credits, still frames |
-| 2026-11-01 20:46:43 | [cvra-rs](https://crates.io/crates/cvra-rs) | 0.1.0 | 0 | reader and writer for the .cvra scene format |
-| 2026-11-01 20:46:49 | [zkeys](https://crates.io/crates/zkeys) | 0.1.0 | 0 | ZKeys CLI client |
-| 2026-11-01 20:49:21 | [cctv-rtp](https://crates.io/crates/cctv-rtp) | 0.2.0 | 0 | Standalone RTP header parsing and H.264 / H.265 depacketisation into contiguous… |
-| 2026-11-01 20:49:51 | [cctv-rtsp](https://crates.io/crates/cctv-rtsp) | 0.2.0 | 0 | RTSP / RTP / H.264 codecs for cctv-rs: message framing, SDP, RTP headers, acces… |
-| 2026-11-01 20:53:45 | [ffcine-hooks](https://crates.io/crates/ffcine-hooks) | 0.1.0 | 0 | mpv .hook user shaders for the grade pass: adaptive-sharpen, KrigBilateral, FSR… |
-| 2026-11-01 20:54:09 | [cctv-stream-uvc](https://crates.io/crates/cctv-stream-uvc) | 0.2.0 | 0 | UVC and PTP adapters and OS seam for cctv-rs |
-| 2026-11-01 20:56:12 | [cctv-detect](https://crates.io/crates/cctv-detect) | 0.2.0 | 0 | Detection — the device model for motion / AI object detection zones and events. |
-| 2026-11-01 21:03:49 | [ffcine-ingest](https://crates.io/crates/ffcine-ingest) | 0.1.0 | 0 | ffcine card offload (verified copy, backup, manifest), per-camera clock fixes a… |
-| 2026-11-01 21:11:01 | [datamonger](https://crates.io/crates/datamonger) | 0.2.0 | 0 | Standalone Datamonger registry and artifact client |
-| 2026-11-01 21:13:47 | [ffcine-triage](https://crates.io/crates/ffcine-triage) | 0.1.0 | 0 | ffcine triage: clip index from proxies (contact strips, scene cuts, speech map,… |
-| 2026-11-01 21:15:54 | [rigless-rtl](https://crates.io/crates/rigless-rtl) | 0.0.1 | 0 | Exact, faster-than-real-time emulation of SystemVerilog designs |
+| 2026-11-01 21:19:55 | [nadir-core](https://crates.io/crates/nadir-core) | 0.1.0 | 0 | Foundation types for the Nadir engine: math, color, rects, time, logging, RNG,… |
+| 2026-11-01 21:19:56 | [nadir-sys](https://crates.io/crates/nadir-sys) | 0.1.0 | 0 | Hand-written raw FFI declarations for the Nadir engine: Win32, Cocoa/objc, X11,… |
+| 2026-11-01 21:19:58 | [nadir-codec](https://crates.io/crates/nadir-codec) | 0.1.0 | 0 | File-format codecs for the Nadir engine: inflate, PNG, QOI, WAV, KLZ, JSON(C),… |
+| 2026-11-01 21:19:59 | [nadir-collision](https://crates.io/crates/nadir-collision) | 0.1.0 | 0 | Collision for the Nadir engine: shapes, a spatial hash, move-and-slide, sweeps… |
+| 2026-11-01 21:19:59 | [nadir-ecs](https://crates.io/crates/nadir-ecs) | 0.1.0 | 0 | Entity-component system for the Nadir engine: sparse sets, resources, events, c… |
+| 2026-11-01 21:21:21 | [seurust](https://crates.io/crates/seurust) | 0.3.0 | 0 | Rust native kernels for single-cell analysis (seurust / Seurat backend) |
+| 2026-11-01 21:21:55 | [snelstart-b2b](https://crates.io/crates/snelstart-b2b) | 0.1.0 | 0 | Unofficial async client for the SnelStart B2B API v2 |
+| 2026-11-01 21:22:35 | [fml-syntax](https://crates.io/crates/fml-syntax) | 0.1.0 | 0 | Lossless parser and formatter for the FHIR Mapping Language (FML) |
+| 2026-11-01 21:22:36 | [fml-check](https://crates.io/crates/fml-check) | 0.1.0 | 0 | Type checker for the FHIR Mapping Language: element paths, types, variables and… |
+| 2026-11-01 21:22:37 | [fml-model](https://crates.io/crates/fml-model) | 0.1.0 | 0 | StructureMap model for the FHIR Mapping Language: compile FML to StructureMap a… |
+| 2026-11-01 21:22:38 | [fml-engine](https://crates.io/crates/fml-engine) | 0.1.0 | 0 | StructureMap engine for the FHIR Mapping Language: run maps over FHIR JSON |
+| 2026-11-01 21:22:39 | [fml-cli](https://crates.io/crates/fml-cli) | 0.1.0 | 0 | Command-line tool for the FHIR Mapping Language: format, check, compile, print… |
+| 2026-11-01 21:23:32 | [mediamaster-bridge](https://crates.io/crates/mediamaster-bridge) | 0.1.0 | 0 | Bridge crate: unified API for mediamaster-rs domains (audio + sensors + rf) wit… |
+| 2026-11-01 21:23:47 | [ffcine](https://crates.io/crates/ffcine) | 0.1.0 | 0 | GPU video finishing: decode, grade (LUTs, tone mapping, scaling) and encode wit… |
+| 2026-11-01 21:25:05 | [rememberthis](https://crates.io/crates/rememberthis) | 0.1.0 | 0 | rememberthis is a utility to aid in memorizing snippets of information. |
+| 2026-11-01 21:30:23 | [nadir-assets](https://crates.io/crates/nadir-assets) | 0.1.0 | 0 | Asset management for the Nadir engine: handles, typed storage, the VFS, loaders… |
+| 2026-11-01 21:33:45 | [ffcine-cli](https://crates.io/crates/ffcine-cli) | 0.1.0 | 0 | ffcine command-line interface |
+| 2026-11-01 21:35:28 | [graphity-core](https://crates.io/crates/graphity-core) | 3.0.0 | 0 | Graph analysis algorithms: strongly and weakly connected components, bridges an… |
+| 2026-11-01 21:35:29 | [graphity-controlflow](https://crates.io/crates/graphity-controlflow) | 3.0.0 | 0 | Control-flow analyses on Graphity graphs: the loop nesting forest with irreduci… |
+| 2026-11-01 21:35:30 | [graphity-dot](https://crates.io/crates/graphity-dot) | 3.0.0 | 0 | Export of Graphity graphs to DOT (Graphviz), with labels, attributes and cluste… |
+| 2026-11-01 21:35:30 | [graphity-mermaid](https://crates.io/crates/graphity-mermaid) | 3.0.0 | 0 | Export of Graphity graphs to Mermaid flowcharts, with labels, shapes, classes a… |
+| 2026-11-01 21:35:32 | [graphity-all](https://crates.io/crates/graphity-all) | 3.0.0 | 0 | All of Graphity in one dependency: graphity-core, graphity-controlflow, graphit… |
+| 2026-11-01 21:37:28 | [bitspark-horos](https://crates.io/crates/bitspark-horos) | 0.6.0 | 0 | Types and schemas over ontos values: descriptor well-formedness, conformance an… |
+| 2026-11-01 21:40:42 | [nadir-cook](https://crates.io/crates/nadir-cook) | 0.1.0 | 0 | Offline asset pipeline of the Nadir engine: atlases, Aseprite clips, fonts and… |
+| 2026-11-01 21:51:00 | [nadir-platform](https://crates.io/crates/nadir-platform) | 0.1.0 | 0 | OS layer of the Nadir engine: windows, the event loop, input devices, GL surfac… |
+| 2026-11-01 21:53:52 | [chough](https://crates.io/crates/chough) | 0.1.0 | 0 | Focused context and honest evidence for an agent-driven development lifecycle |
+| 2026-11-01 22:01:19 | [nadir-gfx](https://crates.io/crates/nadir-gfx) | 0.1.0 | 0 | Small render hardware interface for the Nadir engine, with an OpenGL 3.3 core b… |
+| 2026-11-01 22:10:33 | [lymaille](https://crates.io/crates/lymaille) | 0.1.0 | 0 | Library to run an LLM as a durable work agent: persistent sessions, a Rhai scra… |
+| 2026-11-01 22:10:36 | [rustpress-cli](https://crates.io/crates/rustpress-cli) | 0.1.0 | 0 | Official command-line interface for the RustPress web framework |
+| 2026-11-01 22:11:35 | [nadir-input](https://crates.io/crates/nadir-input) | 0.1.0 | 0 | Input for the Nadir engine: physical keys, device state, action maps, bindings… |
+| 2026-11-01 22:12:26 | [filer-ext4](https://crates.io/crates/filer-ext4) | 0.0.1 | 0 | Read-only ext2, ext3, and ext4 file system driver for the Filer API. |
+| 2026-11-01 22:12:30 | [filer-ntfs](https://crates.io/crates/filer-ntfs) | 0.0.1 | 0 | Read-only NTFS file system driver for the Filer API. |
+| 2026-11-01 22:12:34 | [filer-udf](https://crates.io/crates/filer-udf) | 0.0.1 | 0 | Read-only UDF file system driver for the Filer API. |
+| 2026-11-01 22:12:38 | [filer-xfs](https://crates.io/crates/filer-xfs) | 0.0.1 | 0 | Read-only XFS file system driver for the Filer API. |
+| 2026-11-01 22:14:19 | [link-assistant-conversation](https://crates.io/crates/link-assistant-conversation) | 0.1.0 | 0 | Portable link graph for AI conversations |
+| 2026-11-01 22:14:37 | [nessie-cas-conformance](https://crates.io/crates/nessie-cas-conformance) | 0.4.0 | 0 | Generic conformance suite every nessie-store CasBackend must pass. |
+| 2026-11-01 22:14:43 | [linear-executable](https://crates.io/crates/linear-executable) | 0.0.0 | 0 | LE/LX (Linear Executable) format parser for DOS extender, OS/2, and VxD files |
+| 2026-11-01 22:15:00 | [nessie-ac-conformance](https://crates.io/crates/nessie-ac-conformance) | 0.4.0 | 0 | Generic conformance suite every nessie-store ActionCacheBackend must pass. |
+| 2026-11-01 22:16:35 | [svg2star](https://crates.io/crates/svg2star) | 0.4.1 | 0 | Convert SVGs to machine commands for pen plotters, laser cutters, and more (*). |
+| 2026-11-01 22:17:34 | [nessie-cas-store](https://crates.io/crates/nessie-cas-store) | 0.4.0 | 0 | Retention engine for nessie-store: reachability GC and replica-gated cache evic… |
+| 2026-11-01 22:17:57 | [nessie-cas-disk](https://crates.io/crates/nessie-cas-disk) | 0.4.0 | 0 | Persistent on-disk CasBackend for nessie-store: write-then-rename commit, verif… |
 
 ## Data source
 
