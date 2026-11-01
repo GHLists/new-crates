@@ -8,44 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 02:19 UTC
+## Latest list — 2026-11-01 03:20 UTC
 
-New crates published between 2026-11-01 01:18 UTC and 2026-11-01 02:19 UTC.
+New crates published between 2026-11-01 02:19 UTC and 2026-11-01 03:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-01T02-19-21-858979Z.csv)
+[Full CSV](data/new-crates-2026-11-01T03-20-40-687681Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-01 01:19:57 | [tv-rs-cast](https://crates.io/crates/tv-rs-cast) | 0.6.0 | 0 | Google Cast sender implementation for smart TVs and Chromecasts |
-| 2026-11-01 01:21:00 | [solana_kit_surfpool](https://crates.io/crates/solana_kit_surfpool) | 0.0.0 | 0 | Portable typed Surfpool cheatcodes for off-chain Solana clients |
-| 2026-11-01 01:24:29 | [insite-sigc](https://crates.io/crates/insite-sigc) | 0.1.0 | 0 | Compiles webappanalyzer technology signatures into the insite detection index |
-| 2026-11-01 01:24:33 | [insite-core](https://crates.io/crates/insite-core) | 0.1.0 | 0 | Collection and analysis engine behind the insite CLI |
-| 2026-11-01 01:24:36 | [insite](https://crates.io/crates/insite) | 0.1.0 | 0 | Full X-ray of a website from the terminal: network, TLS, DNS, stack, security,… |
-| 2026-11-01 01:26:06 | [ferroui-livecharts](https://crates.io/crates/ferroui-livecharts) | 0.4.0 | 0 | LiveCharts2 chart calculation, geometry, interaction and animation for FerroUI |
-| 2026-11-01 01:27:26 | [tv-rs-bluetooth](https://crates.io/crates/tv-rs-bluetooth) | 0.6.0 | 0 | Bluetooth HID keyboard and BLE remote control emulation for TV devices. |
-| 2026-11-01 01:27:45 | [cap-hash](https://crates.io/crates/cap-hash) | 0.1.0 | 0 | 哈希原语：FNV-1a 32 位与 CRC-32/IEEE（字节进→数值出，无状态、零依赖） |
-| 2026-11-01 01:28:21 | [ravenrs-platform-web](https://crates.io/crates/ravenrs-platform-web) | 0.1.0 | 0 | RavenRS browser backend: a <canvas> rendered with WebGPU from WebAssembly. |
-| 2026-11-01 01:30:46 | [pulldeck-core](https://crates.io/crates/pulldeck-core) | 0.1.0 | 0 | GitHub auth and pull request client for pulldeck |
-| 2026-11-01 01:30:48 | [pulldeck](https://crates.io/crates/pulldeck) | 0.1.0 | 0 | KDE-friendly GitHub pull request tracker (Rust + Qt) |
-| 2026-11-01 01:31:46 | [oauth2-actix](https://crates.io/crates/oauth2-actix) | 0.1.0 | 0 | OAuth2 authorization code flow with Actix Web |
-| 2026-11-01 01:36:00 | [heretic-http](https://crates.io/crates/heretic-http) | 0.1.0 | 0 | http utilities for heretic projects |
-| 2026-11-01 01:36:01 | [heretic-lisp](https://crates.io/crates/heretic-lisp) | 0.1.0 | 0 | an unconventional lisp |
-| 2026-11-01 01:36:04 | [heretic-markup](https://crates.io/crates/heretic-markup) | 0.1.0 | 0 | The unholy markup environment |
-| 2026-11-01 01:36:05 | [heretic-posix](https://crates.io/crates/heretic-posix) | 0.1.0 | 0 | POSIX extensions for the heretic lisp |
-| 2026-11-01 01:36:06 | [heretic-webrepl](https://crates.io/crates/heretic-webrepl) | 0.1.0 | 0 | A webrepl for the heretic lisp |
-| 2026-11-01 01:37:23 | [ferroui-pretext-media](https://crates.io/crates/ferroui-pretext-media) | 0.4.0 | 0 | FerroUI font and shaping services for prepared text |
-| 2026-11-01 01:38:59 | [ravenrs](https://crates.io/crates/ravenrs) | 0.1.0 | 0 | RavenRS: beautiful native interfaces, powered by Rust. One declarative UI for d… |
-| 2026-11-01 01:41:33 | [fieldglass-zarr](https://crates.io/crates/fieldglass-zarr) | 0.6.0 | 0 | Zarr v2 and v3 stores: walks a store, reads any region of an array, and decodes… |
-| 2026-11-01 01:41:54 | [fieldglass-fetchplan](https://crates.io/crates/fieldglass-fetchplan) | 0.6.0 | 0 | Works out which bytes of a remote weather file to fetch, from the index publish… |
-| 2026-11-01 01:42:10 | [fieldglass](https://crates.io/crates/fieldglass) | 0.6.0 | 0 | Opens GRIB, NetCDF and Zarr weather data in pure Rust: read its fields, place t… |
-| 2026-11-01 01:46:44 | [bonefish-sycl-emit](https://crates.io/crates/bonefish-sycl-emit) | 0.0.0 | 0 | Reserved name for a SYCL kernel emitter in the BoneFish project. No code yet. |
-| 2026-11-01 01:46:58 | [bonefish-sycl-parse](https://crates.io/crates/bonefish-sycl-parse) | 0.0.0 | 0 | Reserved name for a SYCL front end (parser) in the BoneFish project. No code ye… |
-| 2026-11-01 01:48:26 | [ferroui-protranslate-build](https://crates.io/crates/ferroui-protranslate-build) | 0.4.0 | 0 | Deterministic typed translation catalog generation and localization diagnostics… |
-| 2026-11-01 01:53:44 | [picam-rs](https://crates.io/crates/picam-rs) | 0.1.0 | 0 | A safe Rust wrapper around the Teledyne Princeton Instruments PICam camera API |
-| 2026-11-01 01:54:05 | [nitop](https://crates.io/crates/nitop) | 0.2.1 | 0 | A btop-style terminal monitor for network interfaces |
-| 2026-11-01 01:59:42 | [ferroui-dependency-injection](https://crates.io/crates/ferroui-dependency-injection) | 0.4.0 | 0 | Microsoft.Extensions.DependencyInjection for Rust: thread-local services, scope… |
-| 2026-11-01 02:10:56 | [ferroui-static-view-locator](https://crates.io/crates/ferroui-static-view-locator) | 0.4.0 | 0 | View locators generated at build time for FerroUI: view models mapped to views… |
-| 2026-11-01 02:17:28 | [baijimu-issue-definition-contract](https://crates.io/crates/baijimu-issue-definition-contract) | 2.0.0 | 0 | Immutable Issue definition package identities, documents and member references |
+| 2026-11-01 02:22:14 | [ferroui-xaml-behaviors-animations](https://crates.io/crates/ferroui-xaml-behaviors-animations) | 0.4.0 | 0 | Reusable animations of the FerroUI behaviors: key-frame animation factories and… |
+| 2026-11-01 02:22:35 | [clif-to-wasm](https://crates.io/crates/clif-to-wasm) | 0.1.0 | 0 | A WebAssembly backend for Cranelift IR |
+| 2026-11-01 02:23:32 | [ferroui-controls-charts](https://crates.io/crates/ferroui-controls-charts) | 0.4.0 | 0 | Native FerroUI charts: line, area and bar series, category and calendar axes, l… |
+| 2026-11-01 02:24:09 | [rpi-mcp-core](https://crates.io/crates/rpi-mcp-core) | 0.1.0 | 0 | Caller-owned, ABI-free MCP stdio and Streamable HTTP runtime |
+| 2026-11-01 02:29:35 | [apollinaire-ascii](https://crates.io/crates/apollinaire-ascii) | 0.3.0 | 0 | Static art, block lettering and animation as real ASCII text |
+| 2026-11-01 02:34:36 | [ferroui-controls-livecharts](https://crates.io/crates/ferroui-controls-livecharts) | 0.4.0 | 0 | Native FerroUI chart controls using the LiveCharts2 Rust chart engines |
+| 2026-11-01 02:34:55 | [deep-filter-rt](https://crates.io/crates/deep-filter-rt) | 0.1.0 | 0 | Real-time noise suppression with DeepFilterNet3: the inference part of DeepFilt… |
+| 2026-11-01 02:35:56 | [voice-filter](https://crates.io/crates/voice-filter) | 0.1.0 | 0 | Live voice filter for PipeWire: a virtual microphone that removes background no… |
+| 2026-11-01 02:39:34 | [lattice-engine](https://crates.io/crates/lattice-engine) | 0.1.0 | 0 | Deterministic pairwise and t-way covering arrays with constraints: few rows, ev… |
+| 2026-11-01 02:43:53 | [rustx-compiler](https://crates.io/crates/rustx-compiler) | 0.1.0 | 0 | Turns a .rsx file into ordinary Rust, and keeps the positions. |
+| 2026-11-01 02:43:55 | [rustx-dom](https://crates.io/crates/rustx-dom) | 0.1.0 | 0 | The element tree a rustx component returns, its state and its routes. |
+| 2026-11-01 02:43:58 | [rustx-os](https://crates.io/crates/rustx-os) | 0.1.0 | 0 | What the web cannot do: the clipboard, native dialogs, the tray, global shortcu… |
+| 2026-11-01 02:44:02 | [rustx-cli](https://crates.io/crates/rustx-cli) | 0.1.0 | 0 | rustx new, rustx dev, rustx build, rustx run. |
+| 2026-11-01 02:44:04 | [rustx-engine](https://crates.io/crates/rustx-engine) | 0.1.0 | 0 | The CEF host a rustx window is drawn by: the frame loop, the router, the React… |
+| 2026-11-01 02:45:40 | [ferroui-controls-repeater](https://crates.io/crates/ferroui-controls-repeater) | 0.4.0 | 0 | The ItemsRepeater of FerroUI, a port of the Repeater of WinUI: virtualizing sta… |
+| 2026-11-01 02:45:40 | [rustx-macro](https://crates.io/crates/rustx-macro) | 0.1.0 | 0 | The attribute that writes a rustx application's ceremony: #[rustx::main]. |
+| 2026-11-01 02:54:11 | [rathkit-pack](https://crates.io/crates/rathkit-pack) | 0.1.0-alpha.0 | 0 | A fast, zero-dependency JavaScript and TypeScript bundler |
+| 2026-11-01 02:55:09 | [trit-look](https://crates.io/crates/trit-look) | 0.1.0 | 0 | 风格/画质/光影的观感测量与门自检（六维因子 + Cohen's d） |
+| 2026-11-01 02:56:38 | [rustx-app](https://crates.io/crates/rustx-app) | 0.1.0 | 0 | What an application writes: a window, its pages, and nothing else. |
+| 2026-11-01 02:56:47 | [ferroui-hot-reload](https://crates.io/crates/ferroui-hot-reload) | 0.4.0 | 0 | Development-only FerroUI hot-reload support |
+| 2026-11-01 02:58:03 | [blynx](https://crates.io/crates/blynx) | 0.0.1 | 0 | BPMN-native workflow engine for governed AI agents |
+| 2026-11-01 02:59:10 | [atm-bd-types](https://crates.io/crates/atm-bd-types) | 0.1.1 | 0 | Shared types for ATM bead orchestration |
+| 2026-11-01 03:02:09 | [zakura-sensei-artifacts](https://crates.io/crates/zakura-sensei-artifacts) | 0.0.0 | 0 | Reserved |
+| 2026-11-01 03:02:10 | [zakura-sensei-macros](https://crates.io/crates/zakura-sensei-macros) | 0.0.0 | 0 | Reserved |
+| 2026-11-01 03:02:11 | [zakura-sensei-shared](https://crates.io/crates/zakura-sensei-shared) | 0.0.0 | 0 | Reserved |
+| 2026-11-01 03:06:20 | [rustx-lsp](https://crates.io/crates/rustx-lsp) | 0.1.0 | 0 | What an editor asks about a .rsx: where the mistakes are, and what can be writt… |
+| 2026-11-01 03:07:52 | [ferroui-markup-xaml-winui](https://crates.io/crates/ferroui-markup-xaml-winui) | 0.4.0 | 0 | WinUI XAML compatibility of FerroUI: an opt-in importer from WinUI XAML, its ru… |
+| 2026-11-01 03:10:36 | [blue-lang-senses](https://crates.io/crates/blue-lang-senses) | 0.0.144 | 0 | The host devices a blue program hears, speaks and draws through: audio out and… |
+| 2026-11-01 03:11:58 | [tokenant](https://crates.io/crates/tokenant) | 0.0.0 | 0 | Reserved name for TokenAnt: token counting, budgeting and tokenizer tools for L… |
+| 2026-11-01 03:12:23 | [mzizi-resilience](https://crates.io/crates/mzizi-resilience) | 0.7.0 | 0 | Mzizi N5 resilience: the shared core. Circuit breaker, retry backoff, bulkhead,… |
+| 2026-11-01 03:12:25 | [mzizi-chaos-engine](https://crates.io/crates/mzizi-chaos-engine) | 0.7.0 | 0 | Mzizi N8 chaos engine: a seeded, deterministic fault schedule (errors, latency,… |
+| 2026-11-01 03:18:58 | [ferroui-protranslate](https://crates.io/crates/ferroui-protranslate) | 0.4.0 | 0 | Native FerroUI bindings, attached properties and XAML extensions for ProTransla… |
 
 ## Data source
 
