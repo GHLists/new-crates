@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T05:21:54.643356Z,ferroui-xaml-interactions-draggable,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Draggable behaviors of FerroUI: moving elements in a canvas, in a grid or by a translation, reordering the items of an items control with an optional placeholder, scrolling a scroll viewer while drag…"
+2026-11-01T05:21:57.087697Z,ferroui-xaml-interactions-events,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Behaviors and triggers of the input events of FerroUI: a trigger and an abstract behavior per pointer, key, focus, gesture, text input and drag-and-drop routed event"
+2026-11-01T05:22:34.94646Z,igm-dataset,1.0.0,0,0,,"Dataset fetching, curation, and pipeline for 3D model training data"
+2026-11-01T05:24:20.230223Z,galac,0.0.0,0,0,,The dress code is strictly typed.
+2026-11-01T05:32:38.011246Z,igm-eda,1.0.0,0,0,,"EDA/PCB design interfaces for KiCAD, EM/RF physics simulation, and PCB format ingestion"
+2026-11-01T05:33:00.954186Z,ferroui-xaml-interactions-reactiveui,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"The ReactiveUI behaviors of FerroUI: actions that navigate a ReactiveUI router (navigate, navigate back, navigate and reset, clear the stack, navigate to a view model the service locator resolves) an…"
+2026-11-01T05:33:29.59646Z,rightkit-compositor,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Native wgpu layer compositor for Right Suite video apps: GPU context, layer blending, effect passes and SDF mask feathering, rendering evaluated frame descriptors. Adapted from OpenCut Classic (MIT)."
+2026-11-01T05:36:26.536351Z,rightkit-mesh,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Device mesh for Right Suite apps: iroh live sessions between paired devices, end-to-end encrypted mailbox, sync reconciliation and capped relayed transfers. The host supplies identity and trust throu…"
+2026-11-01T05:42:20.053757Z,tcs-ccsds,0.1.0,0,0,https://github.com/vomlehn/tcs-xtce,"Flight software: CCSDS standards, such as the CCSDS time codes, without allocation; part of tcs-xtce, with matching C, C++ and Python libraries"
+2026-11-01T05:42:33.655071Z,igm-ml,1.0.0,0,0,,Transformer-based model architecture for sequential CAD operation prediction
+2026-11-01T05:43:00.79516Z,rind-ring,0.1.0,0,0,https://github.com/moq-dev/rind,ring 0.17's API backed by rind
+2026-11-01T05:44:04.597821Z,ferroui-xaml-interactions-responsive,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Responsive behaviors of FerroUI: style classes switched by the width, the height and the aspect ratio of a control"
+2026-11-01T05:50:40.173238Z,rightkit-timeline,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Portable video timeline core: tracks, clips, rational time, revisions, ripple edits, titles and visuals, and the render-plan compiler with its FFmpeg argument builder. Pure computation."
+2026-11-01T05:52:32.856039Z,igm-codesign,1.0.0,0,0,,CAD-EDA codesign integration for joint mechanical-electronic DfM optimization
+2026-11-01T05:54:34.241824Z,chanto-sdk,0.0.0,0,0,https://github.com/chanto-sh/chanto,"Name reserved for Chanto, a coding agent that checks its own work. Real releases coming soon."
+2026-11-01T05:54:36.181242Z,chanto-web,0.0.0,0,0,https://github.com/chanto-sh/chanto,"Name reserved for Chanto, a coding agent that checks its own work. Real releases coming soon."
+2026-11-01T05:54:37.754709Z,chanto-desktop,0.0.0,0,0,https://github.com/chanto-sh/chanto,"Name reserved for Chanto, a coding agent that checks its own work. Real releases coming soon."
+2026-11-01T05:55:08.053252Z,njt-mcp,0.1.0,0,0,https://github.com/sohampatwardhan/njt-mcp,"MCP server for NJ Transit rail, bus, and light rail data"
+2026-11-01T05:55:08.849318Z,ferroui-xaml-behaviors,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"The behaviors, triggers and actions of FerroUI in one crate: the object model, the classic interactions, the custom behaviors, events, drag and drop, responsive classes and animations, each behind a…"
+2026-11-01T05:55:20.556644Z,rfetch-cli,1.6.2,0,0,https://github.com/shawarma10/rfetch,"A simple, ergonomic CLI HTTP client - like curl, but with clearer flags and prettier output"
+2026-11-01T05:58:36.945177Z,tailcat-client,0.1.0,0,0,https://github.com/kosumic/whip,"Client-only Tailcat transport with WireGuard, DERP, and userspace TCP"
+2026-11-01T06:02:46.183201Z,igm-gui,1.0.0,0,0,,Interactive CAD front-end for IronGeometryModeler
+2026-11-01T06:03:23.816169Z,bantay,0.1.0,0,0,https://github.com/ralphcajipe/bantay,"A fast, mouse-interactive Windows Security companion and developer redundancy auditor"
+2026-11-01T06:04:35.156542Z,tsc-rs,0.1.0,0,0,https://github.com/yingkitw/compiler.git,A tiny TypeScript-subset compiler that emits native binaries via Cranelift
+2026-11-01T06:04:52.938292Z,ws53-pac,0.1.0-alpha.1,0,0,https://github.com/hispark-rs/ws53-pac,WS53 application-core register access generated from hisi-registers
+2026-11-01T06:05:06.198138Z,hexflex,1.0.1,0,0,https://github.com/shawarma10/hexflex,"A CLI hex editor for dumping, inspecting and manipulating bytes"
+2026-11-01T06:08:06.3915Z,compiler,0.1.1,0,0,https://github.com/yingkitw/compiler.git,A tiny TypeScript-subset compiler that emits native binaries via Cranelift
+2026-11-01T06:08:11.617837Z,metriken-charts,0.1.0,0,0,https://github.com/iopsystems/metriken,"Browser chart modules for metriken recordings, as files a server can embed and serve"
+2026-11-01T06:12:27.421029Z,jsonmax,0.1.0,0,0,https://github.com/pathscale/jsonmax-rs,"JSON parsing, querying, schema validation, and encoding for PathScale"
+2026-11-01T06:12:34.8841Z,igm,1.0.0,0,0,,"IronGeometryModeler: Autonomous Geometry Modeling Engine for Meshes, NURBS, and N-dimensional Operations"
+2026-11-01T06:12:35.997401Z,jsonmax-derive,0.1.0,0,0,https://github.com/pathscale/jsonmax-rs,"Derive macros for jsonmax: JsonDecode, JsonEncode and JsonSchema"
+2026-11-01T06:17:09.05577Z,rightkit-captions,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Captions for Right Suite video apps: caption styles, per-language caption sets, cue layout and placement, font measurement, and swatch rendering through rightkit-typeset."
+2026-11-01T06:17:43.080475Z,pkgsmith-plugin,0.1.0,0,0,https://github.com/kierandrewett/pkgsmith,"The plugin API of pkgsmith: the package description, the C interface and helpers for writing package formats"
+2026-11-01T06:18:58.122537Z,pkgsmith,0.1.0,0,0,https://github.com/kierandrewett/pkgsmith,"Build rpm, deb, Arch, Alpine, OpenWrt, tar and zip packages from one Starlark script"

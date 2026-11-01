@@ -8,42 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 05:18 UTC
+## Latest list — 2026-11-01 06:20 UTC
 
-New crates published between 2026-11-01 04:19 UTC and 2026-11-01 05:18 UTC.
+New crates published between 2026-11-01 05:18 UTC and 2026-11-01 06:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-01T05-18-49-810558Z.csv)
+[Full CSV](data/new-crates-2026-11-01T06-20-12-255611Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-01 04:25:34 | [mcpherd](https://crates.io/crates/mcpherd) | 0.1.0 | 0 | Keep MCP servers in check across coding agent sessions (Claude Code, Codex, Cur… |
-| 2026-11-01 04:26:10 | [ferroui-controls-inking](https://crates.io/crates/ferroui-controls-inking) | 0.4.0 | 0 | The inking controls of FerroUI, a port of WinUI's: InkCanvas, the InkPresenter… |
-| 2026-11-01 04:33:24 | [deadline-machines](https://crates.io/crates/deadline-machines) | 0.1.0 | 0 | Monotonic deadline arithmetic and cooperative cancellation trees - no_std, zero… |
-| 2026-11-01 04:33:30 | [probabilistic-machines](https://crates.io/crates/probabilistic-machines) | 0.1.0 | 0 | Sketches for distinct counts, quantiles and frequencies - no_std, zero dependen… |
-| 2026-11-01 04:36:59 | [merge-machines](https://crates.io/crates/merge-machines) | 0.1.0 | 0 | Conflict-free replicated data types and the clocks they need - counters, regist… |
-| 2026-11-01 04:37:01 | [shed-machines](https://crates.io/crates/shed-machines) | 0.1.0 | 0 | Adaptive concurrency limits and load shedding - AIMD, Vegas, CoDel and retry bu… |
-| 2026-11-01 04:37:04 | [harel-machines](https://crates.io/crates/harel-machines) | 0.1.0 | 0 | Statechart hierarchy - least common ancestor, exit and entry sets, parallel reg… |
-| 2026-11-01 04:37:29 | [iron-file-transfer](https://crates.io/crates/iron-file-transfer) | 3.0.0 | 0 | Iron File Transfer — An agentic-first, high-performance file transfer CLI for h… |
-| 2026-11-01 04:37:35 | [ferroui-xaml-interactivity](https://crates.io/crates/ferroui-xaml-interactivity) | 0.4.0 | 0 | The behaviors object model of FerroUI: attached behavior collections, behaviors… |
-| 2026-11-01 04:38:53 | [igm-core](https://crates.io/crates/igm-core) | 1.0.0 | 0 | Core types, traits, and error handling for IronGeometryModeler |
-| 2026-11-01 04:40:02 | [igm-ontology](https://crates.io/crates/igm-ontology) | 1.0.0 | 0 | Agent-facing ontology, action protocol and self-derived test harness for IronGe… |
-| 2026-11-01 04:40:14 | [igm-ir](https://crates.io/crates/igm-ir) | 1.0.0 | 0 | In-memory intermediate representation for 3D models, NURBS, meshes, and assembl… |
-| 2026-11-01 04:40:30 | [igm-cad-seq](https://crates.io/crates/igm-cad-seq) | 1.0.0 | 0 | CAD operation sequence model: parametric operations, CSG, feature trees, DfM op… |
-| 2026-11-01 04:41:38 | [supervisor-machines](https://crates.io/crates/supervisor-machines) | 0.1.0 | 0 | OTP-style supervision decisions: restart strategies, restart intensity and esca… |
-| 2026-11-01 04:42:43 | [ratin](https://crates.io/crates/ratin) | 0.2.2 | 0 | Custom input field component for Ratatui TUI applications |
-| 2026-11-01 04:43:04 | [igm-formats](https://crates.io/crates/igm-formats) | 1.0.0 | 0 | Import/export for all major 3D model formats (STL, OBJ, STEP, IGES, glTF, FBX,… |
-| 2026-11-01 04:48:39 | [ferroui-xaml-interactions](https://crates.io/crates/ferroui-xaml-interactions) | 0.4.0 | 0 | The classic triggers and actions of the FerroUI behaviors: event, data and time… |
-| 2026-11-01 04:50:19 | [monochromatic-catalog-specifier](https://crates.io/crates/monochromatic-catalog-specifier) | 0.1.0 | 0 | Pure checker for a package manifest's dependency specifiers: every dependency m… |
-| 2026-11-01 04:52:38 | [igm-verify](https://crates.io/crates/igm-verify) | 1.0.0 | 0 | Verification bridge to FreeCAD and OpenSCAD for validating CAD operation sequen… |
-| 2026-11-01 04:55:22 | [keysink](https://crates.io/crates/keysink) | 0.1.1 | 0 | Local credential gateway: virtual key → upstream endpoint + real-credential byt… |
-| 2026-11-01 04:59:43 | [ferroui-xaml-interactions-custom](https://crates.io/crates/ferroui-xaml-interactions-custom) | 0.4.0 | 0 | The custom behaviors, triggers and actions of FerroUI: about 330 behaviors for… |
-| 2026-11-01 05:01:03 | [kelp-cli](https://crates.io/crates/kelp-cli) | 0.1.0 | 0 | The kelp command-line client and the kelpd daemon. |
-| 2026-11-01 05:01:04 | [kelp-server](https://crates.io/crates/kelp-server) | 0.1.0 | 0 | Kelp server: all-in-one, commit or edge role. |
-| 2026-11-01 05:02:37 | [igm-kernel](https://crates.io/crates/igm-kernel) | 1.0.0 | 0 | Geometry kernel abstraction with a mesh/BSP backend for in-process solid modeli… |
-| 2026-11-01 05:03:45 | [idiomatic-sh-tastemaker-core](https://crates.io/crates/idiomatic-sh-tastemaker-core) | 0.1.0 | 0 | Architecture definition and checking services for Tastemaker |
-| 2026-11-01 05:04:11 | [idiomatic-sh-tastemaker](https://crates.io/crates/idiomatic-sh-tastemaker) | 0.1.0 | 0 | Define, scaffold and check software architecture |
-| 2026-11-01 05:10:46 | [ferroui-xaml-interactions-draganddrop](https://crates.io/crates/ferroui-xaml-interactions-draganddrop) | 0.4.0 | 0 | Drag and drop behaviors of FerroUI: dragging context data, typed data, panels a… |
-| 2026-11-01 05:12:32 | [igm-agents](https://crates.io/crates/igm-agents) | 1.0.0 | 0 | Multi-agent system for decomposing 3D models into DfM-optimal CAD sequences |
+| 2026-11-01 05:21:54 | [ferroui-xaml-interactions-draggable](https://crates.io/crates/ferroui-xaml-interactions-draggable) | 0.4.0 | 0 | Draggable behaviors of FerroUI: moving elements in a canvas, in a grid or by a… |
+| 2026-11-01 05:21:57 | [ferroui-xaml-interactions-events](https://crates.io/crates/ferroui-xaml-interactions-events) | 0.4.0 | 0 | Behaviors and triggers of the input events of FerroUI: a trigger and an abstrac… |
+| 2026-11-01 05:22:34 | [igm-dataset](https://crates.io/crates/igm-dataset) | 1.0.0 | 0 | Dataset fetching, curation, and pipeline for 3D model training data |
+| 2026-11-01 05:24:20 | [galac](https://crates.io/crates/galac) | 0.0.0 | 0 | The dress code is strictly typed. |
+| 2026-11-01 05:32:38 | [igm-eda](https://crates.io/crates/igm-eda) | 1.0.0 | 0 | EDA/PCB design interfaces for KiCAD, EM/RF physics simulation, and PCB format i… |
+| 2026-11-01 05:33:00 | [ferroui-xaml-interactions-reactiveui](https://crates.io/crates/ferroui-xaml-interactions-reactiveui) | 0.4.0 | 0 | The ReactiveUI behaviors of FerroUI: actions that navigate a ReactiveUI router… |
+| 2026-11-01 05:33:29 | [rightkit-compositor](https://crates.io/crates/rightkit-compositor) | 0.1.0 | 0 | Native wgpu layer compositor for Right Suite video apps: GPU context, layer ble… |
+| 2026-11-01 05:36:26 | [rightkit-mesh](https://crates.io/crates/rightkit-mesh) | 0.1.0 | 0 | Device mesh for Right Suite apps: iroh live sessions between paired devices, en… |
+| 2026-11-01 05:42:20 | [tcs-ccsds](https://crates.io/crates/tcs-ccsds) | 0.1.0 | 0 | Flight software: CCSDS standards, such as the CCSDS time codes, without allocat… |
+| 2026-11-01 05:42:33 | [igm-ml](https://crates.io/crates/igm-ml) | 1.0.0 | 0 | Transformer-based model architecture for sequential CAD operation prediction |
+| 2026-11-01 05:43:00 | [rind-ring](https://crates.io/crates/rind-ring) | 0.1.0 | 0 | ring 0.17's API backed by rind |
+| 2026-11-01 05:44:04 | [ferroui-xaml-interactions-responsive](https://crates.io/crates/ferroui-xaml-interactions-responsive) | 0.4.0 | 0 | Responsive behaviors of FerroUI: style classes switched by the width, the heigh… |
+| 2026-11-01 05:50:40 | [rightkit-timeline](https://crates.io/crates/rightkit-timeline) | 0.1.0 | 0 | Portable video timeline core: tracks, clips, rational time, revisions, ripple e… |
+| 2026-11-01 05:52:32 | [igm-codesign](https://crates.io/crates/igm-codesign) | 1.0.0 | 0 | CAD-EDA codesign integration for joint mechanical-electronic DfM optimization |
+| 2026-11-01 05:54:34 | [chanto-sdk](https://crates.io/crates/chanto-sdk) | 0.0.0 | 0 | Name reserved for Chanto, a coding agent that checks its own work. Real release… |
+| 2026-11-01 05:54:36 | [chanto-web](https://crates.io/crates/chanto-web) | 0.0.0 | 0 | Name reserved for Chanto, a coding agent that checks its own work. Real release… |
+| 2026-11-01 05:54:37 | [chanto-desktop](https://crates.io/crates/chanto-desktop) | 0.0.0 | 0 | Name reserved for Chanto, a coding agent that checks its own work. Real release… |
+| 2026-11-01 05:55:08 | [njt-mcp](https://crates.io/crates/njt-mcp) | 0.1.0 | 0 | MCP server for NJ Transit rail, bus, and light rail data |
+| 2026-11-01 05:55:08 | [ferroui-xaml-behaviors](https://crates.io/crates/ferroui-xaml-behaviors) | 0.4.0 | 0 | The behaviors, triggers and actions of FerroUI in one crate: the object model,… |
+| 2026-11-01 05:55:20 | [rfetch-cli](https://crates.io/crates/rfetch-cli) | 1.6.2 | 0 | A simple, ergonomic CLI HTTP client - like curl, but with clearer flags and pre… |
+| 2026-11-01 05:58:36 | [tailcat-client](https://crates.io/crates/tailcat-client) | 0.1.0 | 0 | Client-only Tailcat transport with WireGuard, DERP, and userspace TCP |
+| 2026-11-01 06:02:46 | [igm-gui](https://crates.io/crates/igm-gui) | 1.0.0 | 0 | Interactive CAD front-end for IronGeometryModeler |
+| 2026-11-01 06:03:23 | [bantay](https://crates.io/crates/bantay) | 0.1.0 | 0 | A fast, mouse-interactive Windows Security companion and developer redundancy a… |
+| 2026-11-01 06:04:35 | [tsc-rs](https://crates.io/crates/tsc-rs) | 0.1.0 | 0 | A tiny TypeScript-subset compiler that emits native binaries via Cranelift |
+| 2026-11-01 06:04:52 | [ws53-pac](https://crates.io/crates/ws53-pac) | 0.1.0-alpha.1 | 0 | WS53 application-core register access generated from hisi-registers |
+| 2026-11-01 06:05:06 | [hexflex](https://crates.io/crates/hexflex) | 1.0.1 | 0 | A CLI hex editor for dumping, inspecting and manipulating bytes |
+| 2026-11-01 06:08:06 | [compiler](https://crates.io/crates/compiler) | 0.1.1 | 0 | A tiny TypeScript-subset compiler that emits native binaries via Cranelift |
+| 2026-11-01 06:08:11 | [metriken-charts](https://crates.io/crates/metriken-charts) | 0.1.0 | 0 | Browser chart modules for metriken recordings, as files a server can embed and… |
+| 2026-11-01 06:12:27 | [jsonmax](https://crates.io/crates/jsonmax) | 0.1.0 | 0 | JSON parsing, querying, schema validation, and encoding for PathScale |
+| 2026-11-01 06:12:34 | [igm](https://crates.io/crates/igm) | 1.0.0 | 0 | IronGeometryModeler: Autonomous Geometry Modeling Engine for Meshes, NURBS, and… |
+| 2026-11-01 06:12:35 | [jsonmax-derive](https://crates.io/crates/jsonmax-derive) | 0.1.0 | 0 | Derive macros for jsonmax: JsonDecode, JsonEncode and JsonSchema |
+| 2026-11-01 06:17:09 | [rightkit-captions](https://crates.io/crates/rightkit-captions) | 0.1.0 | 0 | Captions for Right Suite video apps: caption styles, per-language caption sets,… |
+| 2026-11-01 06:17:43 | [pkgsmith-plugin](https://crates.io/crates/pkgsmith-plugin) | 0.1.0 | 0 | The plugin API of pkgsmith: the package description, the C interface and helper… |
+| 2026-11-01 06:18:58 | [pkgsmith](https://crates.io/crates/pkgsmith) | 0.1.0 | 0 | Build rpm, deb, Arch, Alpine, OpenWrt, tar and zip packages from one Starlark s… |
 
 ## Data source
 
