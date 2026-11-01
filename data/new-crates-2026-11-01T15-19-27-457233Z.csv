@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T14:21:41.30963Z,rightkit-scheduler,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Agent schedule model: bot profiles, schedule specs (cron, once, interval, monitor), due-minute computation in IANA time zones"
+2026-11-01T14:26:01.024375Z,acop-opencode,0.1.2,0,0,https://github.com/Unka-Malloc/Agent-Context-Operators,"aco codec: the `opencode` (OpenCode) conversation store (`~/.local/share/opencode` data store — jsonl/json/text transcripts and sqlite containers decoded through the shared generic lane) — decode, en…"
+2026-11-01T14:30:01.416813Z,vrc-osc-api,0.0.1,0,0,https://github.com/RichardLexJiang/vrc-osc-api,"A small, personal Rust SDK for sending OSC messages to VRChat over UDP."
+2026-11-01T14:31:43.325824Z,rightkit-agent-engine-tasks,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Agent engine task model: task records, states and transitions for agent hosts"
+2026-11-01T14:32:22.291426Z,opentlv-sys,0.2.0,0,0,https://github.com/OpenTLV/opentlv-rust,Raw FFI bindings to the OpenTLV C API
+2026-11-01T14:32:24.527042Z,opentlv,0.2.0,0,0,https://github.com/OpenTLV/opentlv-rust,Safe Rust bindings for OpenTLV
+2026-11-01T14:32:27.505155Z,fjord-core,0.4.0,0,0,https://github.com/sovereignfs/fjord,"The Fjord repository format: manifests, documents, paths, age encryption."
+2026-11-01T14:32:30.680206Z,fjord-cli,0.4.0,0,0,https://github.com/sovereignfs/fjord,Reference toolchain for the Fjord repository format.
+2026-11-01T14:37:57.125995Z,dazzdesk,0.0.0,0,0,https://github.com/dazzlabs/dazzdesk,Temporary placeholder for the Dazzdesk project
+2026-11-01T14:38:40.728382Z,dazzbuild,0.0.0,0,0,https://github.com/dazzlabs/dazzbuild,Temporary placeholder for the Dazzbuild project
+2026-11-01T14:39:24.106156Z,xr-video,0.1.0,0,0,https://github.com/Josh-Archer/questkit,"Reusable Quest hardware video decoding, Vulkan resources, and audio output"
+2026-11-01T14:40:10.465794Z,shan-shui-wallpaper,0.2.1,0,0,https://github.com/EldinBegano/shan-shui-wallpaper,Endless Chinese landscape painting that slowly scrolls across your Wayland desktop
+2026-11-01T14:40:34.340466Z,acop-pi,0.1.2,0,0,https://github.com/Unka-Malloc/Agent-Context-Operators,"aco codec: the `pi` (Pi coding agent) conversation store (`~/.pi/agent/sessions` JSONL transcripts, `PI_CODING_AGENT_SESSION_DIR` override) — decode, encode, redact and import-path knowledge."
+2026-11-01T14:46:45.001018Z,ic-platform-runtime,0.17.1,0,0,https://github.com/dragginzgame/ic-platform,"Canonical IC system API, executor and raw call runtime"
+2026-11-01T14:48:04.375501Z,tzim,0.16.0,0,0,https://github.com/RUdolf1517/tzim,"Lossless file optimizer: shrink the file, never the information"
+2026-11-01T14:48:08.778235Z,acop-cli,0.1.2,0,0,https://github.com/Unka-Malloc/Agent-Context-Operators,The `aco` binary: codec registry and command-line surface for Agent Context Operators.
+2026-11-01T14:52:09.998936Z,quat_crypto,0.3.0,0,0,https://github.com/strahinjastojanovic826-code/quat_crypto,"A high-performance, memory-efficient Rust library for packing 2-bit quaternary values (quats) into standard bytes, achieving 75% memory savings, with built-in stream cipher capabilities."
+2026-11-01T14:59:16.196793Z,quat_physics,0.3.1,0,0,https://github.com/strahinjastojanovic826-code/quat_physics,A memory-efficient 3D physics library in Rust utilizing quaternary logic (2-bit packing) for optimized particle states and simulation.
+2026-11-01T14:59:24.933283Z,pushharbor-core,0.1.0,0,0,https://github.com/singh-gur/push-harbor,"Pushharbor protocol core: Web Push (RFC 8030/8291/8292) validation, VAPID binding, challenge registration and FCM delivery for a push relay, without I/O (native and wasm32)"
+2026-11-01T14:59:26.779918Z,pushharbor-native,0.1.0,0,0,https://github.com/singh-gur/push-harbor,"Pushharbor relay server: Web Push compatible push notifications for self-hosted apps, end-to-end encrypted, with SQLite or PostgreSQL"
+2026-11-01T15:05:39.67389Z,debcargo-conf-linter,0.1.0,0,0,https://salsa.debian.org/capitol/debcargo-conf-linter,"A linter for the debcargo-conf repository, which holds the Debian Rust team's packaging configuration."
+2026-11-01T15:09:41.666665Z,quat_text,0.3.0,0,0,https://github.com/strahinjastojanovic826-code/quat_text,"A memory-efficient Rust library that packs quaternary logic (quats - 2 bits per value: 00, 01, 10, 11) saving 75% of memory compared to standard byte storage."
