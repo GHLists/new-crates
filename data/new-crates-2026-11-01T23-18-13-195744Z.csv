@@ -1,0 +1,62 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T22:18:30.853764Z,nessie-cas-peer,0.4.1,0,0,https://github.com/Gilamonster-Foundation/nessie-store,"Static-peer swarm for nessie-store's CAS: HTTP fetch-through, durability oracle and replicator."
+2026-11-01T22:19:27.936476Z,nfq-razor-temp-release,0.2.6,0,0,https://github.com/nbdd0121/nfq-rs.git,Rust library for dealing with NetFilter queue
+2026-11-01T22:21:52.281417Z,nadir-render,0.1.0,0,0,https://github.com/jabbott-iii/Nadir,"2D renderer for the Nadir engine: sprite batching, y-sort, tilemap chunks, camera and atlases."
+2026-11-01T22:27:56.50771Z,slapp,0.1.1,0,0,https://github.com/RazorBest/slapp-rs,A framework for developing MitM at the application layer
+2026-11-01T22:28:26.447793Z,rv-fs,0.5.0,0,0,https://github.com/raeva-io/raeva,"Atomic writes, file locks and path helpers for Raeva"
+2026-11-01T22:28:26.948564Z,rv-http,0.5.0,0,0,https://github.com/raeva-io/raeva,"HTTP client construction, TLS roots, retry rules and bounded reads for Raeva"
+2026-11-01T22:28:27.60091Z,rv-maven-types,0.5.0,0,0,https://github.com/raeva-io/raeva,"Maven versions, coordinates and repository layout types for Raeva"
+2026-11-01T22:28:37.565855Z,rv-lock,0.5.0,0,0,https://github.com/raeva-io/raeva,The raeva.lock model and codec for Raeva
+2026-11-01T22:28:42.306018Z,rv-export,0.5.0,0,0,https://github.com/raeva-io/raeva,Write a raeva.lock's artifacts into a Maven local repository
+2026-11-01T22:29:22.449103Z,untwist-core,0.1.0,0,0,https://github.com/Sorte1/untwist,"Parsing, printing and the pass framework shared by the untwist crates"
+2026-11-01T22:29:23.589468Z,untwist-regress,0.12.0,0,0,https://github.com/Sorte1/untwist,"A fork of regress 0.12.0 (ECMAScript regular expressions) that adds a step-budgeted search, used by untwist"
+2026-11-01T22:29:26.68981Z,untwist-eval,0.1.0,0,0,https://github.com/Sorte1/untwist,"Constant folding and a sandboxed, step-budgeted JavaScript interpreter for untwist"
+2026-11-01T22:29:27.757456Z,untwist-jsx,0.1.0,0,0,https://github.com/Sorte1/untwist,Rebuild JSX from React.createElement and the automatic jsx/jsxs runtime
+2026-11-01T22:29:28.704588Z,untwist-unpack,0.1.0,0,0,https://github.com/Sorte1/untwist,"Bundle detection and module extraction for webpack, browserify, esbuild, Parcel and other bundles"
+2026-11-01T22:29:59.001544Z,world-txt,0.1.0,0,0,https://github.com/markryall/world.txt,"A cozy multiplayer text world: wander, chat, garden and craft on a shared island. No battles, just vibes."
+2026-11-01T22:30:28.568364Z,nessie-reapi,0.4.1,0,0,https://github.com/Gilamonster-Foundation/nessie-store,Bazel Remote Execution API v2 (cache subset) gRPC face over the nessie CAS/ActionCache backends.
+2026-11-01T22:31:16.424432Z,nessie-s3,0.4.1,0,0,https://github.com/Gilamonster-Foundation/nessie-store,"S3 object-API face over the nessie content-addressed store, for cache clients that key blobs by their own digest."
+2026-11-01T22:32:07.799808Z,nadir-scene,0.1.0,0,0,https://github.com/jabbott-iii/Nadir,"Scene layer for the Nadir engine: reflection, registries and the components they describe."
+2026-11-01T22:33:09.300684Z,raeva,0.5.0,0,0,https://github.com/raeva-io/raeva,Raeva CLI - lockfile companion for Maven projects
+2026-11-01T22:34:20.492277Z,untwist-unminify,0.1.0,0,0,https://github.com/Sorte1/untwist,Unminify and untranspile passes that turn minified JavaScript back into readable source
+2026-11-01T22:34:34.320604Z,electric-eye-core,0.1.0,0,0,https://github.com/jamesmcm/electric-eye,Shared event types for Electric Eye Linux activity monitoring
+2026-11-01T22:34:35.076225Z,electric-eye-nix,0.1.0,0,0,https://github.com/jamesmcm/electric-eye,Nix store executable provenance for Electric Eye
+2026-11-01T22:34:37.21765Z,electric-eye-cli,0.1.0,0,0,https://github.com/jamesmcm/electric-eye,"Read-only Linux activity CLI, TUI, and MCP bridge for Electric Eye"
+2026-11-01T22:34:38.141526Z,electric-eyed,0.1.0,0,0,https://github.com/jamesmcm/electric-eye,eBPF-based Linux activity monitoring daemon for Electric Eye
+2026-11-01T22:34:57.355322Z,gloc-diff,0.2.0,0,0,https://github.com/NoahSchiro/gloc-diff,CLI that reports churn between git diffs.
+2026-11-01T22:39:24.814462Z,cairnos,0.1.0,0,0,,"Cairn OS core types. Starts with TaggedDigest, the algorithm-tagged hash every Cairn OS format and interface uses."
+2026-11-01T22:40:01.36174Z,groktree,0.1.0,0,0,https://github.com/MaXFalstein/grok-build-wtree,"Read-only inspector for Grok Build worktrees, their origins, and git repos in synced folders"
+2026-11-01T22:42:24.928178Z,NadirGE,0.1.0,0,0,https://github.com/jabbott-iii/Nadir,"A lightweight, cross-platform Rust engine."
+2026-11-01T22:42:43.332988Z,untwist-deobfuscate,0.1.0,0,0,https://github.com/Sorte1/untwist,"Passes that undo javascript-obfuscator string arrays, decoders, control-flow flattening and protections"
+2026-11-01T22:42:45.290116Z,tsv_html,0.8.0,0,0,https://github.com/fuzdev/tsv,HTML spec data: the named character references table (support crate for tsv)
+2026-11-01T22:42:45.716071Z,tsv_ignore,0.8.0,0,0,https://github.com/fuzdev/tsv,"gitignore-faithful hierarchical ignore matching (.gitignore, .formatignore, .prettierignore) behind tsv's file discovery"
+2026-11-01T22:42:46.168414Z,tsv_lang,0.8.0,0,0,https://github.com/fuzdev/tsv,"Shared foundation of tsv's language crates: errors, wire coordinates and the parsers' sized stack (support crate for tsv)"
+2026-11-01T22:42:47.600755Z,tsv_css,0.8.0,0,0,https://github.com/fuzdev/tsv,CSS formatter and parser compatible with Svelte's parseCss — part of tsv
+2026-11-01T22:42:48.158888Z,tsv_discover,0.8.0,0,0,https://github.com/fuzdev/tsv,"tsv's file-discovery policy: safety nets, the build-output heuristic and scope warnings over tsv_ignore (support crate for tsv)"
+2026-11-01T22:45:12.945256Z,rightkit-document-workspace,0.1.1,0,0,https://github.com/bogusyogi/rightkit,"Document workspace store: recent files, pinned files and folders, per-document view state and tab session in one SQLite file, with corruption quarantine and path purge."
+2026-11-01T22:51:01.885552Z,vtcode-desktop-protocol,0.181.0,0,0,https://github.com/vinhnx/vtcode,Versioned JSON-RPC protocol shared by VT Code desktop hosts
+2026-11-01T22:51:52.763499Z,phpz,0.5.0,0,0,https://github.com/CaduVarela/phpz,"PHP version manager with per-project versions and extensions. No sudo, no compiler."
+2026-11-01T22:53:00.197387Z,untwist-rename,0.1.0,0,0,https://github.com/Sorte1/untwist,"Scope-safe identifier renaming for untwist: mangle, simple and unique modes"
+2026-11-01T22:53:40.028499Z,tsv_ts,0.8.0,0,0,https://github.com/fuzdev/tsv,"TypeScript/JS formatter, type stripper and acorn-compatible parser — part of tsv"
+2026-11-01T22:56:34.780431Z,rs-arrow-ipc2sqlite,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-arrow-ipc2sqlite,Convert Arrow IPC stream to SQLite database
+2026-11-01T22:57:17.757843Z,cellar-egress,0.1.1,0,0,https://github.com/crabbuild/cellar,Run-owned network transport for Cellar container interception
+2026-11-01T22:58:05.374335Z,cellar-raft-proto,0.1.1,0,0,https://github.com/crabbuild/cellar,Cellar fork of raft-proto with a self-contained protobuf build
+2026-11-01T22:58:19.676974Z,cellar-raft,0.1.1,0,0,https://github.com/crabbuild/cellar,Cellar fork of raft-rs with host-seeded election randomness
+2026-11-01T22:58:44.355352Z,cellar-raft-engine,0.1.1,0,0,https://github.com/crabbuild/cellar,Cellar fork of raft-engine with injected storage and fail-closed sync errors
+2026-11-01T23:00:45.472658Z,agdirlabs-email,0.1.0,0,0,https://github.com/AgdirAS/agdirlabs-sdks,"Official Rust SDK for Agdir Email: programmatic SMTP for developers, hosted in the EU."
+2026-11-01T23:03:28.923476Z,untwist,0.1.0,0,0,https://github.com/Sorte1/untwist,"Fast JavaScript deobfuscator, unminifier and unbundler that never runs the code it reads"
+2026-11-01T23:03:32.832059Z,tsv_svelte,0.8.0,0,0,https://github.com/fuzdev/tsv,Svelte formatter and parser compatible with Svelte's parse() — part of tsv
+2026-11-01T23:06:20.810117Z,kynora-core,0.8.0,0,0,https://github.com/pmecheverryr/kynora,"Núcleo de Kynora: espacios de trabajo, conocimiento y búsqueda."
+2026-11-01T23:06:24.719736Z,kynora-adapter-sql,0.8.0,0,0,https://github.com/pmecheverryr/kynora,Adaptador SQL pasivo de Kynora: DDL → entidades y relaciones verified.
+2026-11-01T23:06:28.431289Z,kynora-adapter-web,0.8.0,0,0,https://github.com/pmecheverryr/kynora,Adaptador web pasivo de Kynora: HTML (tablas) → grafo verified.
+2026-11-01T23:06:31.954272Z,kynora-models,0.8.0,0,0,https://github.com/pmecheverryr/kynora,"Catálogo, caché, descarga y verificación de modelos de Kynora."
+2026-11-01T23:06:35.667279Z,kynora-generate,0.8.0,0,0,https://github.com/pmecheverryr/kynora,"Motor generativo opcional de Kynora (rasgo, FIM, proveedores)."
+2026-11-01T23:06:47.251617Z,cellar-admin,0.1.1,0,0,https://github.com/crabbuild/cellar,Management API and console for Cellar fleets
+2026-11-01T23:07:22.622713Z,jime,0.1.0,0,0,https://github.com/takumiymd/jime,JIME: Contextual Japanese Input Method Engine and kana-kanji converter for Linux
+2026-11-01T23:07:22.971529Z,cellar-container,0.1.1,0,0,https://github.com/crabbuild/cellar,Container and sandbox provider adapters for Cellar applications
+2026-11-01T23:10:29.000907Z,cellar-guest,0.1.1,0,0,https://github.com/crabbuild/cellar,Shared native operation boundary for Cellar language adapters
+2026-11-01T23:12:41.987983Z,shrinker,0.1.0,0,0,https://github.com/eduardowebdev/shrinker,Lossless image compression for everyone
+2026-11-01T23:13:21.135008Z,tsv_cli,0.8.0,0,0,https://github.com/fuzdev/tsv,"The tsv command-line tool: format, parse and type-strip TypeScript, JavaScript, CSS and Svelte"
+2026-11-01T23:13:53.211979Z,untwist-cli,0.1.0,0,0,https://github.com/Sorte1/untwist,"Command-line JavaScript deobfuscator, unminifier and unbundler"
+2026-11-01T23:15:26.639732Z,rustpress-web,0.1.0,0,0,https://github.com/fabriciomichael/rustpress-web,A lightweight HTTP framework for Rust inspired by Express.js
+2026-11-01T23:16:54.966218Z,kynora-embeddings,0.8.0,0,0,https://github.com/pmecheverryr/kynora,Proveedor de embeddings y tokenizador compacto de Kynora.
