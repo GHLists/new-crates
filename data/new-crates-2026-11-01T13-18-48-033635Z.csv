@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T12:20:22.646299Z,dash-runtime,0.1.0,0,0,https://github.com/fishloa/rust-broadcast,"Sans-IO MPEG-DASH (ISO/IEC 23009-1): MPD model and parser, segment addressing, UTC clock and live-edge arithmetic, and a client for static and dynamic presentations. No I/O, no clock reads."
+2026-11-01T12:25:35.967759Z,rightkit-agent-engine-api-sessions,0.1.0,0,0,https://github.com/bogusyogi/rightkit,Agent engine session HTTP API routes
+2026-11-01T12:26:18.893217Z,rightkit-agent-host-traits,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Host traits for agent runtimes: a skill catalog the host implements and installs, so RightKit agent crates never load skills themselves."
+2026-11-01T12:27:12.743572Z,ssync-core,0.1.0,0,0,https://github.com/ssync/ssync,"Core algorithms, checksums, and delta-transfer engine for ssync"
+2026-11-01T12:27:17.537541Z,ssync-proto,0.1.0,0,0,https://github.com/ssync/ssync,rsync wire protocol 31 implementation and multiplexing for ssync
+2026-11-01T12:27:21.583778Z,ssync-fs,0.1.0,0,0,https://github.com/ssync/ssync,"Filesystem traversal, metadata preservation, and path security for ssync"
+2026-11-01T12:27:27.428963Z,ssync,0.1.0,0,0,https://github.com/ssync/ssync,"A fast, memory-safe, clean-room reimplementation of rsync in Rust"
+2026-11-01T12:28:05.155808Z,oj_tsrs_modulespecifiers,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_modulespecifiers, vendored for oj's type checker"
+2026-11-01T12:31:51.975636Z,tshttp-runtime,0.1.0,0,0,https://github.com/fishloa/rust-broadcast,"Sans-IO TS-over-HTTP pull session client: bytes-in, actions-out state machine over a StreamingTsDemux."
+2026-11-01T12:31:56.585425Z,cranpose-text,0.18.0,0,0,https://github.com/samoylenkodmitry/cranpose,"Text styles, fonts, shaping and paragraph layout for Cranpose"
+2026-11-01T12:35:37.289962Z,rueda-fluxa-synth,0.7.0,0,0,https://github.com/ccc-eda/rueda,"Fluxa synthesis front end: Fluxa tasks and channels to eda's gate netlist (FSM + datapath, valid / ready streams)"
+2026-11-01T12:35:39.621688Z,rueda-fluxa-emu,0.7.0,0,0,https://github.com/ccc-eda/rueda,"fluxa-emu: Fluxa programs compiled for fast simulation (tasks as state machines, channels as ring buffers; a Rust executor and WebAssembly)"
+2026-11-01T12:38:04.857896Z,oj_tsrs_checker,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_checker, vendored for oj's type checker"
+2026-11-01T12:40:37.014062Z,emperor-vikunja,0.1.0,0,0,https://github.com/yarenty/emperor-vikunja,"MCP server for Vikunja: list, read, create and update tasks, comment, list projects; built on emperor-mcp"
+2026-11-01T12:40:46.624105Z,emperor-folder,0.1.0,0,0,https://github.com/yarenty/emperor-folder,"MCP server confined to one folder: list, read, search, stat, write, edit and move files, never outside the root"
+2026-11-01T12:42:10.276773Z,btop-web,1.0.3,0,0,,btop's system telemetry served to a web browser
+2026-11-01T12:43:41.49855Z,rightkit-evidence-report,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Evidence reports: findings report rendering to JSON, SARIF, Markdown and HTML"
+2026-11-01T12:44:19.644191Z,emperor-mail,0.1.0,0,0,https://github.com/yarenty/emperor-mail,"MCP server for email: search, read, draft and (guarded) send over IMAP and SMTP"
+2026-11-01T12:46:26.6298Z,rightkit-mail,0.1.1,0,0,https://github.com/bogusyogi/rightkit,"Mail-domain building blocks: Gmail-style search query compiler, SQL predicates and keyset paging, rank fusion, anti-phishing trust heuristics, and remote-image safety checks with a tracker blocklist."
+2026-11-01T12:46:46.139751Z,broadcast-client,0.1.0,0,0,https://github.com/fishloa/rust-broadcast,"Generic sans-IO client session: auth, redirects, and TS-over-HTTP, HLS, DASH and RTSP sources."
+2026-11-01T12:46:53.276431Z,nestor-satellite,0.1.0,0,0,https://github.com/nestor-home/nestor-satellite-rust,"Rust SDK to write Nestor satellite drivers: pairing, WebRTC audio and the nestor data channel."
+2026-11-01T12:48:11.639506Z,oj_tsrs_transformers,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_transformers, vendored for oj's type checker"
+2026-11-01T12:49:51.327369Z,ravenrs-criteria,26.2.0,0,0,https://github.com/alexkads/RavenRS,"A criteria and expression language: parse, print, evaluate over any rows, validate, and translate to parameterized SQL."
+2026-11-01T12:50:53.793095Z,ravenrs-report,26.2.0,0,0,https://github.com/alexkads/RavenRS,"RavenRS Reporting engine: banded reports from JSON definitions, paginated into documents for viewing and export."
+2026-11-01T12:50:57.306389Z,emperor-pdf,0.1.0,0,0,https://github.com/yarenty/emperor-pdf,"MCP server for PDFs in one folder: read, search, render, merge, extract and create from Markdown"
+2026-11-01T12:52:25.552861Z,rgxy,0.1.3,0,0,https://github.com/danalec/rgy,rgxy: the floating launcher for the rgy search daemon
+2026-11-01T12:58:06.009993Z,oj_tsrs_declarations,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_declarations, vendored for oj's type checker"
+2026-11-01T13:01:24.000083Z,cellix,0.0.1,0,0,https://github.com/quill-27f/cellix,A terminal-native editor for reviewing and correcting agent work (early development)
+2026-11-01T13:01:47.172928Z,rightkit-text-polish,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Transcript polish: deterministic L0 cleanup (numbers, dates, inline edits, formatting, casing), spoken control and AI-transform command parsing, vocabulary replacements and learning."
+2026-11-01T13:06:40.335197Z,rightkit-agent-transcript,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Deterministic agent transcript normalizer (TranscriptEventV1): Claude Code and Codex discovery, raw adapters, stable identities, source binding and provenance."
+2026-11-01T13:07:49.202815Z,oj_tsrs_compiler,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_compiler, vendored for oj's type checker"
+2026-11-01T13:09:00.786376Z,arlix-engine,0.1.0,0,0,https://github.com/boudartjj/arlix,"A lightweight, 2D-first, code-first game engine for Rust"
+2026-11-01T13:09:06.928747Z,arlix-cli,0.1.0,0,0,https://github.com/boudartjj/arlix,"Command-line interface, project scaffolder and packager for the Arlix 2D game engine"
+2026-11-01T13:14:44.052145Z,algocli-endpoint,0.1.5,0,0,https://github.com/algorithco/AlgorithGuard,"Where the AlgorithGuard daemon listens (one definition for the daemon, hook client and CLI)"
+2026-11-01T13:15:19.713073Z,algocli-account-auth,0.1.5,0,0,https://github.com/algorithco/AlgorithGuard,Algorithco account OAuth and native credential storage for AlgorithGuard clients
+2026-11-01T13:16:09.035773Z,rightkit-policy-rules,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Agent policy rules: policy model, evaluator, precedence, frozen scopes and explanations"
+2026-11-01T13:18:04.288145Z,oj_tsrs_incremental,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_incremental, vendored for oj's type checker"
