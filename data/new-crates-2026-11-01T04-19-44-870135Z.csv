@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T03:22:59.368932Z,sageant,0.0.0,0,0,,"Reserved name for SageAnt: a knowledge store for LLM programs (organised, annotated, retrievable knowledge chunks). No code yet."
+2026-11-01T03:30:09.933126Z,ferroui-themes-macos,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"The FerroUI macOS 26 theme: compiled control templates, semantic materials and accessible motion"
+2026-11-01T03:33:48.435332Z,acrux,0.0.0,0,0,https://github.com/ryanfowler/acrux,Image processing library under development. Placeholder release; no functionality yet.
+2026-11-01T03:38:24.04903Z,xirang-multilang,0.2.0,0,0,https://github.com/Nichtigott/xirang,Language adapters for XiRang registration authoring
+2026-11-01T03:41:15.408194Z,irongall,0.1.0,0,0,https://github.com/gregordinary/irongall,"OpenPGP signature verification in safe Rust, with no dependencies"
+2026-11-01T03:41:16.093198Z,ferroui-themes-material,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Android Material 3 Expressive theme for FerroUI with compiled XAML, light and dark color schemes, expressive motion and touch-first control templates"
+2026-11-01T03:47:43.976416Z,fork-rustrtc,0.4.20-preview,0,0,https://github.com/dengxiayehu/rustrtc,Preview fork of rustrtc with TURN recovery and packet-stage transport diagnostics
+2026-11-01T03:51:47.679226Z,opgen,0.13.1,0,0,https://github.com/stylang/stylang/crates/opgen,"A Rust code generation framework for opcode tables, instruction visitors, and dispatch logic"
+2026-11-01T03:52:32.895385Z,ferroui-inspect,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Opt-in application inspection core for FerroUI, shared by its MCP server and its Chrome DevTools Protocol endpoint"
+2026-11-01T03:52:35.177254Z,ferroui-devtools,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,Opt-in Chrome DevTools Protocol target for FerroUI applications
+2026-11-01T03:58:36.820435Z,hindsight-core,0.1.0,0,0,https://github.com/logos-42/hindsight-rust,Hindsight 领域模型、配置与纯函数（切块 / 融合 / 令牌预算）
+2026-11-01T04:02:15.280669Z,hindsight-db,0.1.0,0,0,https://github.com/logos-42/hindsight-rust,Hindsight 的 PostgreSQL + pgvector 存储层（sqlx）
+2026-11-01T04:03:05.136363Z,hindsight-llm,0.1.0,0,0,https://github.com/logos-42/hindsight-rust,Hindsight 的 LLM / Embedding provider 抽象（OpenAI 兼容、Anthropic）
+2026-11-01T04:03:45.430963Z,ferroui-mcp,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,Opt-in application inspection MCP server for FerroUI
+2026-11-01T04:04:27.502232Z,hindsight-engine,0.1.0,0,0,https://github.com/logos-42/hindsight-rust,Hindsight 记忆引擎（进程内原生调用：retain / recall / reflect）
+2026-11-01T04:04:37.061653Z,wcsng-sigmf-derive,0.1.0,0,0,https://github.com/ucsdwcsng/oxidation,Derive macros for SigMF metadata extensions
+2026-11-01T04:04:44.944252Z,wcsng-sigmf,0.1.0,0,0,https://github.com/ucsdwcsng/oxidation,"Read, write, and validate SigMF recordings, metadata, and archives"
+2026-11-01T04:06:13.481303Z,hindsight-api,0.1.0,0,0,https://github.com/logos-42/hindsight-rust,Hindsight 记忆系统的 HTTP 服务端（Axum）
+2026-11-01T04:09:28.619321Z,yaml-dsl-spec,0.0.1,0,0,https://github.com/litebitus/yaml-dsl-spec,"The YAML DSL standard: the JSON Schemas of yaml-dsl.yml and of a DSL's function table, and the types of a DSL's definition."
+2026-11-01T04:14:54.151311Z,ferroui-diagnostics,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"The developer tools of FerroUI: the logical and visual trees, the properties and their value sources, routed events, the layout explorer and screenshots of a running application"
+2026-11-01T04:18:10.344052Z,agentlife-launcher,0.0.0,0,0,https://github.com/ciresnave/agentlife,Reserved name for the launcher policy crate of AgentLife. No code yet.
