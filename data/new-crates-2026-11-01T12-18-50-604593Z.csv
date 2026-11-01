@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T11:18:32.015815Z,dorian_art,0.1.101,0,0,,A simple art library
+2026-11-01T11:20:50.473617Z,pamin-runtime,0.1.0,0,0,https://github.com/pamin-labs/pamin-runtime,"Compute for Pamin modules that run models locally: instruction-set kernels, ONNX Runtime devices, thread budgets and prepared-model keys."
+2026-11-01T11:24:53.267869Z,contractdag,0.1.1,0,0,https://github.com/Etavioxy/contractdag-preview,Model types and parser for .contractdag contract declarations
+2026-11-01T11:28:04.938707Z,oj_tsrs_vfs,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_vfs, vendored for oj's type checker"
+2026-11-01T11:35:24.154979Z,tungsten-codegen,0.2.0,0,0,https://github.com/Tungsten-dev/tungsten-wg,Shared code generation helpers for tungsten backends.
+2026-11-01T11:35:24.800813Z,tungsten-ir,0.2.0,0,0,https://github.com/Tungsten-dev/tungsten-wg,Intermediate representation for tungsten density functions.
+2026-11-01T11:35:26.789076Z,tungsten-interface,0.2.0,0,0,https://github.com/Tungsten-dev/tungsten-wg,Backend-agnostic naming and codegen interface for tungsten.
+2026-11-01T11:35:27.361848Z,tungsten-legacy,0.2.0,0,0,https://github.com/Tungsten-dev/tungsten-wg,Legacy SPMT representation and builder for tungsten.
+2026-11-01T11:35:28.023359Z,tungsten-optimizer,0.2.0,0,0,https://github.com/Tungsten-dev/tungsten-wg,Optimization passes over tungsten IR.
+2026-11-01T11:37:32.833418Z,cursio-app-protocol,0.1.1,0,0,https://github.com/THEROER/cursio-sdk,What an application and the Cursio node on its machine say to each other
+2026-11-01T11:37:34.72307Z,cursio-sdk,0.1.1,0,0,https://github.com/THEROER/cursio-sdk,"Put an application on a Cursio mesh: let the node on its machine carry its logs, and more"
+2026-11-01T11:38:21.85799Z,oj_tsrs_api_transport,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_api_transport, vendored for oj's type checker"
+2026-11-01T11:43:38.795254Z,rightkit-evidence-contracts,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Evidence contracts: plans, providers, findings reports, receipts, traces, source anchors and canonical JSON digests"
+2026-11-01T11:44:23.630938Z,rightkit-voice-commands,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Voice command recognition: typed command actions, spoken-command catalog and matching, app-launch and shortcut queries, external link allowlist check."
+2026-11-01T11:44:53.951631Z,fallow-report-protocol,3.38.1,0,0,https://github.com/fallow-rs/fallow,Language-neutral report contract shared by the fallow CLIs
+2026-11-01T11:45:06.36945Z,rightkit-content-proof,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Exact claim-number reading for content proof review: currency, thousands separators, k/m/bn suffixes, percentages and number words as exact decimals, with tokenization."
+2026-11-01T11:45:50.459218Z,rightkit-agent-engine-api-platform,0.1.0,0,0,https://github.com/bogusyogi/rightkit,Agent engine platform HTTP API types
+2026-11-01T11:46:32.480158Z,jj-push,0.1.0,0,0,https://github.com/Odonno/jj-push,Simplify the jj x push experience
+2026-11-01T11:46:34.693284Z,rightkit-engine-host,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Engine binary framework: one command registry served as a headless JSON CLI and as a stdio sidecar, shared wire types, contract and TypeScript export, isolated-data-folder rule"
+2026-11-01T11:47:17.021896Z,rightkit-agent-engine-cli,0.1.0,0,0,https://github.com/bogusyogi/rightkit,Agent engine command-line argument model
+2026-11-01T11:47:40.597375Z,lunar-tools,0.1.1,0,0,https://github.com/0xlunar/lunar-tools,Various tools used in my own projects
+2026-11-01T11:48:06.710177Z,oj_tsrs_lsproto,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_lsproto, vendored for oj's type checker"
+2026-11-01T11:48:39.593882Z,tungsten-rust,0.2.0,0,0,https://github.com/Tungsten-dev/tungsten-wg,Rust backend for tungsten density functions.
+2026-11-01T11:50:05.884381Z,spatial-grid,0.1.1,0,0,https://codeberg.org/Niko64/spatial-grid,A 2D ID-based Grid for fast spatial queries and constant-time lookup of points
+2026-11-01T11:50:08.297199Z,rexue,0.1.1,0,0,https://github.com/nicholasxjy/rexue,Rex session and Worktrunk worktree management with fzf
+2026-11-01T11:58:08.164457Z,oj_tsrs_module,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_module, vendored for oj's type checker"
+2026-11-01T12:03:16.319944Z,rightkit-device-link-types,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Record types of the device link: device reference, effect classes, principals, paired-device registry records and the signed device-circle records."
+2026-11-01T12:06:15.7325Z,avsmd,2.0.0,0,0,https://github.com/4esv/avsm,"The obedient paperclip maximizer: an agentic daemon that pursues the goals you give it, acts only within the limits you set, and has proof for everything it does."
+2026-11-01T12:06:25.259599Z,rightkit-repo-graph-grammars,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Vendored tree-sitter grammars (ql, systemrdl, vue) for the repository graph, with no crates.io equivalent for tree-sitter-language 0.1."
+2026-11-01T12:07:28.55384Z,tungsten-cuda,0.2.0,0,0,https://github.com/Tungsten-dev/tungsten-wg,CUDA C++ backend for tungsten density functions.
+2026-11-01T12:07:41.68601Z,tungsten-java,0.2.0,0,0,https://github.com/Tungsten-dev/tungsten-wg,Java backend for tungsten density functions.
+2026-11-01T12:08:13.718814Z,oj_tsrs_tsoptions,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_tsoptions, vendored for oj's type checker"
+2026-11-01T12:14:18.996498Z,omium-auth,0.1.5,0,0,https://github.com/omium-framework,"Authentication helpers: password hashing, sessions, CSRF, API tokens"
+2026-11-01T12:15:26.375382Z,omium-mail,0.1.5,0,0,https://github.com/omium-framework,Outbound mail (SMTP + log driver) for Omium applications
+2026-11-01T12:15:34.590769Z,cranpose-opus-pure,0.2.2,0,0,https://github.com/samoylenkodmitry/Cranpose,Cranpose's patched fork of opus-pure 0.2.2 (forks/README.md in the Cranpose repository). Pure-Rust Opus audio codec (RFC 6716) with Ogg encapsulation (RFC 7845)
+2026-11-01T12:18:26.387767Z,oj_tsrs_contentmapper,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_contentmapper, vendored for oj's type checker"
+2026-11-01T12:18:49.388858Z,tungsten-inspect,0.2.0,0,0,https://github.com/Tungsten-dev/tungsten-wg,"Inspection backend for tungsten: diagrams, IR dumps and buffer charts of an optimized program."

@@ -8,53 +8,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 11:18 UTC
+## Latest list — 2026-11-01 12:18 UTC
 
-New crates published between 2026-11-01 10:18 UTC and 2026-11-01 11:18 UTC.
+New crates published between 2026-11-01 11:18 UTC and 2026-11-01 12:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-01T11-18-28-03767Z.csv)
+[Full CSV](data/new-crates-2026-11-01T12-18-50-604593Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-01 10:18:15 | [oj_tsrs_pseudochecker](https://crates.io/crates/oj_tsrs_pseudochecker) | 0.3.3 | 0 | tsrs's tsrs_pseudochecker, vendored for oj's type checker |
-| 2026-11-01 10:19:45 | [rightkit-web-extract](https://crates.io/crates/rightkit-web-extract) | 0.1.0 | 0 | Article extraction without transport: readable-text parsing, title and redirect… |
-| 2026-11-01 10:20:59 | [rightkit-pipeline](https://crates.io/crates/rightkit-pipeline) | 0.1.0 | 0 | Generation pipeline client: drive an installed generation engine (submit, follo… |
-| 2026-11-01 10:21:00 | [ofdrw-resvg](https://crates.io/crates/ofdrw-resvg) | 0.48.1-ofdrw.1 | 0 | OFD-specific SVG rendering, forked from resvg |
-| 2026-11-01 10:21:03 | [yuanme](https://crates.io/crates/yuanme) | 0.0.0 | 0 | A static site generator for Markdown, Org and math. A placeholder until the fir… |
-| 2026-11-01 10:22:30 | [rightkit-transcript-library](https://crates.io/crates/rightkit-transcript-library) | 0.1.0 | 0 | Transcript library: delivery records (outcome, target, timings, source), histor… |
-| 2026-11-01 10:25:37 | [rightkit-agent-engine-protocol](https://crates.io/crates/rightkit-agent-engine-protocol) | 0.1.0 | 0 | Agent engine protocol: events, envelopes, tool calls, trust wrapping and settle… |
-| 2026-11-01 10:26:21 | [break](https://crates.io/crates/break) | 0.1.0 | 0 | Find the HTTP load that breaks your SLA |
-| 2026-11-01 10:26:22 | [rightkit-agent-engine-attention](https://crates.io/crates/rightkit-agent-engine-attention) | 0.1.0 | 0 | Agent attention inbox: unread/needs-input items, snooze, density, quiet hours a… |
-| 2026-11-01 10:27:10 | [rightkit-agent-engine-history](https://crates.io/crates/rightkit-agent-engine-history) | 0.1.0 | 0 | Agent engine conversation history store helpers |
-| 2026-11-01 10:28:03 | [oj_tsrs_scanner](https://crates.io/crates/oj_tsrs_scanner) | 0.3.3 | 0 | tsrs's tsrs_scanner, vendored for oj's type checker |
-| 2026-11-01 10:31:51 | [klaub](https://crates.io/crates/klaub) | 0.4.0 | 0 | Klaub: a terminal code reviewer for AI coding agents. Review changes by functio… |
-| 2026-11-01 10:36:34 | [mosa](https://crates.io/crates/mosa) | 0.1.0-alpha.1 | 0 | HTML/CSS desktop views with native Rust components and no JavaScript runtime |
-| 2026-11-01 10:38:17 | [oj_tsrs_astnav](https://crates.io/crates/oj_tsrs_astnav) | 0.3.3 | 0 | tsrs's tsrs_astnav, vendored for oj's type checker |
-| 2026-11-01 10:38:42 | [sansara](https://crates.io/crates/sansara) | 0.0.0 | 0 | A driver for sans-IO state machines: feed, poll, repeat. |
-| 2026-11-01 10:38:49 | [serde_mpq_derive](https://crates.io/crates/serde_mpq_derive) | 0.1.0 | 0 | The derive macros of serde_mpq: the bit packed and byte aligned encodings of th… |
-| 2026-11-01 10:38:59 | [serde_mpq](https://crates.io/crates/serde_mpq) | 0.1.0 | 0 | The bit packed and byte aligned (versioned) encodings of the StarCraft II repla… |
-| 2026-11-01 10:42:19 | [threadmill](https://crates.io/crates/threadmill) | 0.1.0 | 0 | A lightweight Rust thread pool with priority-based task scheduling and result h… |
-| 2026-11-01 10:42:48 | [rightkit-evidence](https://crates.io/crates/rightkit-evidence) | 0.1.0 | 0 | Evidence and spec records: requirement specs, acceptance evidence and verificat… |
-| 2026-11-01 10:43:48 | [spek](https://crates.io/crates/spek) | 1.0.0 | 0 | A small, read-only view of Git working-tree changes |
-| 2026-11-01 10:44:03 | [camilo](https://crates.io/crates/camilo) | 1.0.0 | 0 | Terminal camera app for Kitty |
-| 2026-11-01 10:45:20 | [t4a-gemm-common](https://crates.io/crates/t4a-gemm-common) | 0.19.0 | 0 | Playground for matrix multiplication algorithms |
-| 2026-11-01 10:45:41 | [t4a-gemm-f32](https://crates.io/crates/t4a-gemm-f32) | 0.19.0 | 0 | Playground for matrix multiplication algorithms |
-| 2026-11-01 10:45:57 | [t4a-gemm-f64](https://crates.io/crates/t4a-gemm-f64) | 0.19.0 | 0 | Playground for matrix multiplication algorithms |
-| 2026-11-01 10:46:13 | [t4a-gemm-c32](https://crates.io/crates/t4a-gemm-c32) | 0.19.0 | 0 | Playground for matrix multiplication algorithms |
-| 2026-11-01 10:46:30 | [t4a-gemm-c64](https://crates.io/crates/t4a-gemm-c64) | 0.19.0 | 0 | Playground for matrix multiplication algorithms |
-| 2026-11-01 10:47:34 | [t4a-gemm-f16](https://crates.io/crates/t4a-gemm-f16) | 0.19.0 | 0 | Playground for matrix multiplication algorithms |
-| 2026-11-01 10:48:18 | [oj_tsrs_binder](https://crates.io/crates/oj_tsrs_binder) | 0.3.3 | 0 | tsrs's tsrs_binder, vendored for oj's type checker |
-| 2026-11-01 10:57:47 | [niceasm-data](https://crates.io/crates/niceasm-data) | 0.0.0 | 0 | Structured instruction set definitions |
-| 2026-11-01 10:58:14 | [oj_tsrs_parser](https://crates.io/crates/oj_tsrs_parser) | 0.3.3 | 0 | tsrs's tsrs_parser, vendored for oj's type checker |
-| 2026-11-01 10:58:53 | [t4a-gemm](https://crates.io/crates/t4a-gemm) | 0.19.0 | 0 | Playground for matrix multiplication algorithms |
-| 2026-11-01 11:07:00 | [cargo-fmu-from-struct](https://crates.io/crates/cargo-fmu-from-struct) | 0.1.0 | 0 | Cargo subcommand that builds a crate using the fmu_from_struct macro and packag… |
-| 2026-11-01 11:07:13 | [dcs-bios-rs-lib](https://crates.io/crates/dcs-bios-rs-lib) | 0.2.0 | 0 | no_std DCS-BIOS protocol library for parsing aircraft data streams |
-| 2026-11-01 11:07:15 | [dcs-bios-codegen](https://crates.io/crates/dcs-bios-codegen) | 0.2.0 | 0 | Code generator for Rust DCS-BIOS aircraft bindings |
-| 2026-11-01 11:07:16 | [dcs-bios-rs-generated](https://crates.io/crates/dcs-bios-rs-generated) | 0.2.0 | 0 | Generated no_std Rust bindings for DCS-BIOS aircraft model definitions |
-| 2026-11-01 11:07:41 | [hydra-chitchat](https://crates.io/crates/hydra-chitchat) | 0.11.1-hydra.1 | 0 | Cluster membership library using gossip with Scuttlebutt reconciliation. |
-| 2026-11-01 11:08:35 | [oj_tsrs_sourcemap](https://crates.io/crates/oj_tsrs_sourcemap) | 0.3.3 | 0 | tsrs's tsrs_sourcemap, vendored for oj's type checker |
-| 2026-11-01 11:10:55 | [bash-peek](https://crates.io/crates/bash-peek) | 1.0.0 | 0 | Interactive TUI debugger, line profiler, and time-travel inspector for Bash scr… |
-| 2026-11-01 11:18:10 | [oj_tsrs_printer](https://crates.io/crates/oj_tsrs_printer) | 0.3.3 | 0 | tsrs's tsrs_printer, vendored for oj's type checker |
+| 2026-11-01 11:18:32 | [dorian_art](https://crates.io/crates/dorian_art) | 0.1.101 | 0 | A simple art library |
+| 2026-11-01 11:20:50 | [pamin-runtime](https://crates.io/crates/pamin-runtime) | 0.1.0 | 0 | Compute for Pamin modules that run models locally: instruction-set kernels, ONN… |
+| 2026-11-01 11:24:53 | [contractdag](https://crates.io/crates/contractdag) | 0.1.1 | 0 | Model types and parser for .contractdag contract declarations |
+| 2026-11-01 11:28:04 | [oj_tsrs_vfs](https://crates.io/crates/oj_tsrs_vfs) | 0.3.3 | 0 | tsrs's tsrs_vfs, vendored for oj's type checker |
+| 2026-11-01 11:35:24 | [tungsten-codegen](https://crates.io/crates/tungsten-codegen) | 0.2.0 | 0 | Shared code generation helpers for tungsten backends. |
+| 2026-11-01 11:35:24 | [tungsten-ir](https://crates.io/crates/tungsten-ir) | 0.2.0 | 0 | Intermediate representation for tungsten density functions. |
+| 2026-11-01 11:35:26 | [tungsten-interface](https://crates.io/crates/tungsten-interface) | 0.2.0 | 0 | Backend-agnostic naming and codegen interface for tungsten. |
+| 2026-11-01 11:35:27 | [tungsten-legacy](https://crates.io/crates/tungsten-legacy) | 0.2.0 | 0 | Legacy SPMT representation and builder for tungsten. |
+| 2026-11-01 11:35:28 | [tungsten-optimizer](https://crates.io/crates/tungsten-optimizer) | 0.2.0 | 0 | Optimization passes over tungsten IR. |
+| 2026-11-01 11:37:32 | [cursio-app-protocol](https://crates.io/crates/cursio-app-protocol) | 0.1.1 | 0 | What an application and the Cursio node on its machine say to each other |
+| 2026-11-01 11:37:34 | [cursio-sdk](https://crates.io/crates/cursio-sdk) | 0.1.1 | 0 | Put an application on a Cursio mesh: let the node on its machine carry its logs… |
+| 2026-11-01 11:38:21 | [oj_tsrs_api_transport](https://crates.io/crates/oj_tsrs_api_transport) | 0.3.3 | 0 | tsrs's tsrs_api_transport, vendored for oj's type checker |
+| 2026-11-01 11:43:38 | [rightkit-evidence-contracts](https://crates.io/crates/rightkit-evidence-contracts) | 0.1.0 | 0 | Evidence contracts: plans, providers, findings reports, receipts, traces, sourc… |
+| 2026-11-01 11:44:23 | [rightkit-voice-commands](https://crates.io/crates/rightkit-voice-commands) | 0.1.0 | 0 | Voice command recognition: typed command actions, spoken-command catalog and ma… |
+| 2026-11-01 11:44:53 | [fallow-report-protocol](https://crates.io/crates/fallow-report-protocol) | 3.38.1 | 0 | Language-neutral report contract shared by the fallow CLIs |
+| 2026-11-01 11:45:06 | [rightkit-content-proof](https://crates.io/crates/rightkit-content-proof) | 0.1.0 | 0 | Exact claim-number reading for content proof review: currency, thousands separa… |
+| 2026-11-01 11:45:50 | [rightkit-agent-engine-api-platform](https://crates.io/crates/rightkit-agent-engine-api-platform) | 0.1.0 | 0 | Agent engine platform HTTP API types |
+| 2026-11-01 11:46:32 | [jj-push](https://crates.io/crates/jj-push) | 0.1.0 | 0 | Simplify the jj x push experience |
+| 2026-11-01 11:46:34 | [rightkit-engine-host](https://crates.io/crates/rightkit-engine-host) | 0.1.0 | 0 | Engine binary framework: one command registry served as a headless JSON CLI and… |
+| 2026-11-01 11:47:17 | [rightkit-agent-engine-cli](https://crates.io/crates/rightkit-agent-engine-cli) | 0.1.0 | 0 | Agent engine command-line argument model |
+| 2026-11-01 11:47:40 | [lunar-tools](https://crates.io/crates/lunar-tools) | 0.1.1 | 0 | Various tools used in my own projects |
+| 2026-11-01 11:48:06 | [oj_tsrs_lsproto](https://crates.io/crates/oj_tsrs_lsproto) | 0.3.3 | 0 | tsrs's tsrs_lsproto, vendored for oj's type checker |
+| 2026-11-01 11:48:39 | [tungsten-rust](https://crates.io/crates/tungsten-rust) | 0.2.0 | 0 | Rust backend for tungsten density functions. |
+| 2026-11-01 11:50:05 | [spatial-grid](https://crates.io/crates/spatial-grid) | 0.1.1 | 0 | A 2D ID-based Grid for fast spatial queries and constant-time lookup of points |
+| 2026-11-01 11:50:08 | [rexue](https://crates.io/crates/rexue) | 0.1.1 | 0 | Rex session and Worktrunk worktree management with fzf |
+| 2026-11-01 11:58:08 | [oj_tsrs_module](https://crates.io/crates/oj_tsrs_module) | 0.3.3 | 0 | tsrs's tsrs_module, vendored for oj's type checker |
+| 2026-11-01 12:03:16 | [rightkit-device-link-types](https://crates.io/crates/rightkit-device-link-types) | 0.1.0 | 0 | Record types of the device link: device reference, effect classes, principals,… |
+| 2026-11-01 12:06:15 | [avsmd](https://crates.io/crates/avsmd) | 2.0.0 | 0 | The obedient paperclip maximizer: an agentic daemon that pursues the goals you… |
+| 2026-11-01 12:06:25 | [rightkit-repo-graph-grammars](https://crates.io/crates/rightkit-repo-graph-grammars) | 0.1.0 | 0 | Vendored tree-sitter grammars (ql, systemrdl, vue) for the repository graph, wi… |
+| 2026-11-01 12:07:28 | [tungsten-cuda](https://crates.io/crates/tungsten-cuda) | 0.2.0 | 0 | CUDA C++ backend for tungsten density functions. |
+| 2026-11-01 12:07:41 | [tungsten-java](https://crates.io/crates/tungsten-java) | 0.2.0 | 0 | Java backend for tungsten density functions. |
+| 2026-11-01 12:08:13 | [oj_tsrs_tsoptions](https://crates.io/crates/oj_tsrs_tsoptions) | 0.3.3 | 0 | tsrs's tsrs_tsoptions, vendored for oj's type checker |
+| 2026-11-01 12:14:18 | [omium-auth](https://crates.io/crates/omium-auth) | 0.1.5 | 0 | Authentication helpers: password hashing, sessions, CSRF, API tokens |
+| 2026-11-01 12:15:26 | [omium-mail](https://crates.io/crates/omium-mail) | 0.1.5 | 0 | Outbound mail (SMTP + log driver) for Omium applications |
+| 2026-11-01 12:15:34 | [cranpose-opus-pure](https://crates.io/crates/cranpose-opus-pure) | 0.2.2 | 0 | Cranpose's patched fork of opus-pure 0.2.2 (forks/README.md in the Cranpose rep… |
+| 2026-11-01 12:18:26 | [oj_tsrs_contentmapper](https://crates.io/crates/oj_tsrs_contentmapper) | 0.3.3 | 0 | tsrs's tsrs_contentmapper, vendored for oj's type checker |
+| 2026-11-01 12:18:49 | [tungsten-inspect](https://crates.io/crates/tungsten-inspect) | 0.2.0 | 0 | Inspection backend for tungsten: diagrams, IR dumps and buffer charts of an opt… |
 
 ## Data source
 
