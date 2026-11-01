@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T04:25:34.547386Z,mcpherd,0.1.0,0,0,https://github.com/Rorogogogo/mcpherd,"Keep MCP servers in check across coding agent sessions (Claude Code, Codex, Cursor)"
+2026-11-01T04:26:10.504819Z,ferroui-controls-inking,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"The inking controls of FerroUI, a port of WinUI's: InkCanvas, the InkPresenter services, stencils, custom drying, InkToolbar with its WinUI theme, the portable ink format and the clipboard, and the i…"
+2026-11-01T04:33:24.618479Z,deadline-machines,0.1.0,0,0,https://github.com/seuros/deadline_machines,"Monotonic deadline arithmetic and cooperative cancellation trees - no_std, zero dependencies"
+2026-11-01T04:33:30.48194Z,probabilistic-machines,0.1.0,0,0,https://github.com/seuros/probabilistic_machines,"Sketches for distinct counts, quantiles and frequencies - no_std, zero dependencies"
+2026-11-01T04:36:59.33509Z,merge-machines,0.1.0,0,0,https://github.com/seuros/merge_machines,"Conflict-free replicated data types and the clocks they need - counters, registers, sets, Lamport and hybrid logical clocks, no_std with zero dependencies"
+2026-11-01T04:37:01.961105Z,shed-machines,0.1.0,0,0,https://github.com/seuros/shed_machines,"Adaptive concurrency limits and load shedding - AIMD, Vegas, CoDel and retry budgets, no_std with zero dependencies"
+2026-11-01T04:37:04.564846Z,harel-machines,0.1.0,0,0,https://github.com/seuros/harel_machines,"Statechart hierarchy - least common ancestor, exit and entry sets, parallel regions and history over a state tree, no_std with zero dependencies"
+2026-11-01T04:37:29.700227Z,iron-file-transfer,3.0.0,0,0,https://github.com/nervosys/IronFileTransfer,"Iron File Transfer — An agentic-first, high-performance file transfer CLI for humans and AI agents"
+2026-11-01T04:37:35.97913Z,ferroui-xaml-interactivity,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"The behaviors object model of FerroUI: attached behavior collections, behaviors, triggers and actions on objects and styled elements, their lifecycle, and the templates that let styles set them"
+2026-11-01T04:38:53.272776Z,igm-core,1.0.0,0,0,,"Core types, traits, and error handling for IronGeometryModeler"
+2026-11-01T04:40:02.554517Z,igm-ontology,1.0.0,0,0,,"Agent-facing ontology, action protocol and self-derived test harness for IronGeometryModeler"
+2026-11-01T04:40:14.372315Z,igm-ir,1.0.0,0,0,,"In-memory intermediate representation for 3D models, NURBS, meshes, and assemblies"
+2026-11-01T04:40:30.61832Z,igm-cad-seq,1.0.0,0,0,,"CAD operation sequence model: parametric operations, CSG, feature trees, DfM optimization"
+2026-11-01T04:41:38.299455Z,supervisor-machines,0.1.0,0,0,https://github.com/seuros/supervisor_machines,"OTP-style supervision decisions: restart strategies, restart intensity and escalation - no_std with zero dependencies"
+2026-11-01T04:42:43.600737Z,ratin,0.2.2,0,0,https://github.com/Fkernel653/ratin,Custom input field component for Ratatui TUI applications
+2026-11-01T04:43:04.610682Z,igm-formats,1.0.0,0,0,,"Import/export for all major 3D model formats (STL, OBJ, STEP, IGES, glTF, FBX, etc.)"
+2026-11-01T04:48:39.322487Z,ferroui-xaml-interactions,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"The classic triggers and actions of the FerroUI behaviors: event, data and timer triggers, property, method and command actions, clipboard actions and storage pickers"
+2026-11-01T04:50:19.16274Z,monochromatic-catalog-specifier,0.1.0,0,0,https://github.com/Aquaticats/Monochromatic.git,"Pure checker for a package manifest's dependency specifiers: every dependency must be catalog:, catalog:<name> or exactly workspace:*. Bytes in, findings out, with no file or process access."
+2026-11-01T04:52:38.661658Z,igm-verify,1.0.0,0,0,,Verification bridge to FreeCAD and OpenSCAD for validating CAD operation sequences
+2026-11-01T04:55:22.80073Z,keysink,0.1.1,0,0,https://github.com/wusende/keysink,"Local credential gateway: virtual key → upstream endpoint + real-credential byte-level passthrough, with an age-encrypted centralized vault"
+2026-11-01T04:59:43.419731Z,ferroui-xaml-interactions-custom,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"The custom behaviors, triggers and actions of FerroUI: about 330 behaviors for specific controls, input, focus, validation, commands, windows, dialogs and services"
+2026-11-01T05:01:03.249463Z,kelp-cli,0.1.0,0,0,https://github.com/EvanLuo42/kelp,The kelp command-line client and the kelpd daemon.
+2026-11-01T05:01:04.188375Z,kelp-server,0.1.0,0,0,https://github.com/EvanLuo42/kelp,"Kelp server: all-in-one, commit or edge role."
+2026-11-01T05:02:37.693298Z,igm-kernel,1.0.0,0,0,,Geometry kernel abstraction with a mesh/BSP backend for in-process solid modeling
+2026-11-01T05:03:45.552676Z,idiomatic-sh-tastemaker-core,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,Architecture definition and checking services for Tastemaker
+2026-11-01T05:04:11.66194Z,idiomatic-sh-tastemaker,0.1.0,0,0,https://github.com/idiomatic-sh/idiomatic,"Define, scaffold and check software architecture"
+2026-11-01T05:10:46.905781Z,ferroui-xaml-interactions-draganddrop,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Drag and drop behaviors of FerroUI: dragging context data, typed data, panels and files between controls and with the system, drop targets with handlers and commands, file and text drops, tree view d…"
+2026-11-01T05:12:32.263539Z,igm-agents,1.0.0,0,0,,Multi-agent system for decomposing 3D models into DfM-optimal CAD sequences
