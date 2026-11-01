@@ -8,37 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 09:18 UTC
+## Latest list — 2026-11-01 10:18 UTC
 
-New crates published between 2026-11-01 08:19 UTC and 2026-11-01 09:18 UTC.
+New crates published between 2026-11-01 09:18 UTC and 2026-11-01 10:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-01T09-18-59-582097Z.csv)
+[Full CSV](data/new-crates-2026-11-01T10-18-13-412637Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-01 08:30:46 | [smut](https://crates.io/crates/smut) | 0.1.0 | 0 | A permissive notebook for an agent's mutable entity graph: declare linked JSON… |
-| 2026-11-01 08:34:03 | [gust-compute](https://crates.io/crates/gust-compute) | 0.0.0 | 0 | Placeholder: GUST, restricted Rust compiled to GPU compute shaders through Slan… |
-| 2026-11-01 08:34:06 | [gust-compute-macros](https://crates.io/crates/gust-compute-macros) | 0.0.0 | 0 | Placeholder: procedural macros for gust-compute. |
-| 2026-11-01 08:34:10 | [gust-compute-wgpu](https://crates.io/crates/gust-compute-wgpu) | 0.0.0 | 0 | Placeholder: wgpu runtime for gust-compute kernels. |
-| 2026-11-01 08:34:11 | [ghfetch-cli](https://crates.io/crates/ghfetch-cli) | 1.2.0 | 0 | Display your github status in a beautiful way |
-| 2026-11-01 08:34:13 | [cargo-gust](https://crates.io/crates/cargo-gust) | 0.0.0 | 0 | Placeholder: the cargo subcommand for gust-compute projects. |
-| 2026-11-01 08:34:17 | [breeze-gfx](https://crates.io/crates/breeze-gfx) | 0.0.0 | 0 | Placeholder: Breeze, a lightweight rendering and interaction framework built on… |
-| 2026-11-01 08:35:56 | [rustorb-cdr](https://crates.io/crates/rustorb-cdr) | 0.1.0 | 0 | CDR (Common Data Representation) encoder and decoder for rustorb |
-| 2026-11-01 08:35:59 | [rustorb-giop](https://crates.io/crates/rustorb-giop) | 0.1.0 | 0 | GIOP/IIOP message types, IOR and corbaloc handling for rustorb |
-| 2026-11-01 08:36:14 | [rustorb-core](https://crates.io/crates/rustorb-core) | 0.1.0 | 0 | ORB core of rustorb: connections, request dispatch and POA |
-| 2026-11-01 08:36:16 | [rustorb-codegen](https://crates.io/crates/rustorb-codegen) | 0.1.0 | 0 | IDL code generator for rustorb (Rust, Python, C++11 and Java) |
-| 2026-11-01 08:36:23 | [rustorb-ffi](https://crates.io/crates/rustorb-ffi) | 0.1.0 | 0 | Stable C ABI layer of rustorb used by the C++ and Java bindings |
-| 2026-11-01 08:42:22 | [mapterm](https://crates.io/crates/mapterm) | 0.1.0 | 0 | A map in your terminal: vector tiles, MapLibre styles, imagery and your own dat… |
-| 2026-11-01 08:47:36 | [hurricane-engine](https://crates.io/crates/hurricane-engine) | 0.0.0 | 0 | Placeholder: Hurricane, a game engine built on gust-compute and breeze-gfx. |
-| 2026-11-01 08:52:40 | [rustorb-naming](https://crates.io/crates/rustorb-naming) | 0.1.0 | 0 | CosNaming (Naming Service) for rustorb |
-| 2026-11-01 08:56:43 | [agent-transcript-core](https://crates.io/crates/agent-transcript-core) | 0.1.0 | 0 | Provider-neutral coding-agent transcript parsing, normalization, incremental up… |
-| 2026-11-01 08:58:45 | [batonpass](https://crates.io/crates/batonpass) | 0.1.0 | 0 | Run a command with a share of the GNU make jobserver's tokens |
-| 2026-11-01 09:02:35 | [rubrowser](https://crates.io/crates/rubrowser) | 0.1.0 | 0 | A browser whose pages are Rust programs compiled to WebAssembly, drawn entirely… |
-| 2026-11-01 09:03:37 | [scientific-method](https://crates.io/crates/scientific-method) | 0.0.1 | 0 | Scientific method primitives for defining experiments. |
-| 2026-11-01 09:03:39 | [experiments](https://crates.io/crates/experiments) | 0.0.1 | 0 | Experiment tooling for use with Custodian. |
-| 2026-11-01 09:07:42 | [forthling](https://crates.io/crates/forthling) | 0.1.0 | 0 | A Forth-2012 system in Rust: no dependencies, a sandbox, JSON words and a tutor… |
-| 2026-11-01 09:07:59 | [forthling-sqlite](https://crates.io/crates/forthling-sqlite) | 0.1.0 | 0 | SQLite words for forthling, a Forth interpreter in Rust |
-| 2026-11-01 09:08:17 | [forthling-mcp](https://crates.io/crates/forthling-mcp) | 0.1.0 | 0 | An MCP server that runs Forth in forthling's sandbox, for AI agents |
+| 2026-11-01 09:19:28 | [defter](https://crates.io/crates/defter) | 0.2.0 | 0 | Self-hosted Zotero sync and file storage server, with metadata in SQLite and at… |
+| 2026-11-01 09:21:26 | [laman](https://crates.io/crates/laman) | 0.0.1 | 0 | A deterministic 2D geometric constraint solver in pure Rust. Early release: the… |
+| 2026-11-01 09:27:43 | [rogue-machines](https://crates.io/crates/rogue-machines) | 0.1.0 | 0 | Fault injection for chaos engineering - armed experiments that make a dependenc… |
+| 2026-11-01 09:28:09 | [asknothingx2-oauth](https://crates.io/crates/asknothingx2-oauth) | 0.1.0 | 0 | asknothing |
+| 2026-11-01 09:28:32 | [herdr-protocol](https://crates.io/crates/herdr-protocol) | 0.1.0 | 0 | Versioned Herdr terminal wire codec, typed control API, and bounded event parsi… |
+| 2026-11-01 09:30:14 | [khalid-core](https://crates.io/crates/khalid-core) | 0.1.0 | 0 | Shared building blocks for every Khalid crate: messages, identifiers, time and… |
+| 2026-11-01 09:31:10 | [khalid-lint](https://crates.io/crates/khalid-lint) | 0.1.0 | 0 | The Khalid linter: rules that refuse a weak post and explain why in plain words. |
+| 2026-11-01 09:37:36 | [oj_tsrs_core](https://crates.io/crates/oj_tsrs_core) | 0.3.3 | 0 | tsrs's tsrs_core, vendored for oj's type checker |
+| 2026-11-01 09:37:37 | [oj_tsrs_diagnostics](https://crates.io/crates/oj_tsrs_diagnostics) | 0.3.3 | 0 | tsrs's tsrs_diagnostics, vendored for oj's type checker |
+| 2026-11-01 09:37:55 | [oj_tsrs_fswatch](https://crates.io/crates/oj_tsrs_fswatch) | 0.3.3 | 0 | tsrs's tsrs_fswatch, vendored for oj's type checker |
+| 2026-11-01 09:37:55 | [oj_tsrs_ipc](https://crates.io/crates/oj_tsrs_ipc) | 0.3.3 | 0 | tsrs's tsrs_ipc, vendored for oj's type checker |
+| 2026-11-01 09:37:56 | [oj_tsrs_projectutil](https://crates.io/crates/oj_tsrs_projectutil) | 0.3.3 | 0 | tsrs's tsrs_projectutil, vendored for oj's type checker |
+| 2026-11-01 09:44:20 | [jj-work](https://crates.io/crates/jj-work) | 0.1.0 | 0 | Augment the usage of jj workspace |
+| 2026-11-01 09:45:25 | [browser_engine](https://crates.io/crates/browser_engine) | 0.1.0 | 0 | A modular, GPU-accelerated, security-first web browser engine built from scratc… |
+| 2026-11-01 09:50:16 | [oj_tsrs_spanmap](https://crates.io/crates/oj_tsrs_spanmap) | 0.3.3 | 0 | tsrs's tsrs_spanmap, vendored for oj's type checker |
+| 2026-11-01 09:52:47 | [jj-squash](https://crates.io/crates/jj-squash) | 0.1.0 | 0 | Simplify the jj squash experience |
+| 2026-11-01 09:54:36 | [jj-find](https://crates.io/crates/jj-find) | 0.1.0 | 0 | Provide a new jj experience to find changes |
+| 2026-11-01 09:58:08 | [oj_tsrs_ast](https://crates.io/crates/oj_tsrs_ast) | 0.3.3 | 0 | tsrs's tsrs_ast, vendored for oj's type checker |
+| 2026-11-01 10:01:22 | [actix-oauth2](https://crates.io/crates/actix-oauth2) | 0.1.0 | 0 | OAuth2 authorization code flow for Actix Web |
+| 2026-11-01 10:04:23 | [kense-kui](https://crates.io/crates/kense-kui) | 0.1.0 | 0 | KUI components for GPUI on native desktop and WASM web |
+| 2026-11-01 10:08:26 | [geg](https://crates.io/crates/geg) | 0.1.0 | 0 | Geg Embeds Gemma: offline semantic grep with EmbeddingGemma 2 and persistent ve… |
+| 2026-11-01 10:08:38 | [oj_tsrs_api_codec](https://crates.io/crates/oj_tsrs_api_codec) | 0.3.3 | 0 | tsrs's tsrs_api_codec, vendored for oj's type checker |
+| 2026-11-01 10:12:36 | [jj-fetch](https://crates.io/crates/jj-fetch) | 0.1.0 | 0 | Simplify the jj x fetch experience |
+| 2026-11-01 10:17:54 | [mosa-desktop](https://crates.io/crates/mosa-desktop) | 0.1.0-alpha.1 | 0 | HTML/CSS desktop views with native Rust components and no JavaScript runtime |
 
 ## Data source
 

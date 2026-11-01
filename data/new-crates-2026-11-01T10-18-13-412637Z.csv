@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T09:19:28.012535Z,defter,0.2.0,0,0,https://codeberg.org/front-matter/defter,"Self-hosted Zotero sync and file storage server, with metadata in SQLite and attachments in S3."
+2026-11-01T09:21:26.35616Z,laman,0.0.1,0,0,https://github.com/arris-labs/laman,A deterministic 2D geometric constraint solver in pure Rust. Early release: the generic rigidity count of bar frameworks (Laman's theorem)
+2026-11-01T09:27:43.178851Z,rogue-machines,0.1.0,0,0,https://github.com/seuros/rogue_machines,"Fault injection for chaos engineering - armed experiments that make a dependency fail, stall or lie, no_std with zero dependencies"
+2026-11-01T09:28:09.832104Z,asknothingx2-oauth,0.1.0,0,0,https://github.com/m3idnotfree/asknothingx2-oauth,asknothing
+2026-11-01T09:28:32.68124Z,herdr-protocol,0.1.0,0,0,https://github.com/kosumic/whip,"Versioned Herdr terminal wire codec, typed control API, and bounded event parsing"
+2026-11-01T09:30:14.720392Z,khalid-core,0.1.0,0,0,https://github.com/thebigasif/khalid,"Shared building blocks for every Khalid crate: messages, identifiers, time and settings."
+2026-11-01T09:31:10.255777Z,khalid-lint,0.1.0,0,0,https://github.com/thebigasif/khalid,The Khalid linter: rules that refuse a weak post and explain why in plain words.
+2026-11-01T09:37:36.452212Z,oj_tsrs_core,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_core, vendored for oj's type checker"
+2026-11-01T09:37:37.897534Z,oj_tsrs_diagnostics,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_diagnostics, vendored for oj's type checker"
+2026-11-01T09:37:55.42447Z,oj_tsrs_fswatch,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_fswatch, vendored for oj's type checker"
+2026-11-01T09:37:55.841707Z,oj_tsrs_ipc,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_ipc, vendored for oj's type checker"
+2026-11-01T09:37:56.303396Z,oj_tsrs_projectutil,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_projectutil, vendored for oj's type checker"
+2026-11-01T09:44:20.976902Z,jj-work,0.1.0,0,0,https://github.com/Odonno/jj-work,Augment the usage of jj workspace
+2026-11-01T09:45:25.633905Z,browser_engine,0.1.0,0,0,https://github.com/rahadbhuiya/browser_engine,"A modular, GPU-accelerated, security-first web browser engine built from scratch in Rust."
+2026-11-01T09:50:16.729042Z,oj_tsrs_spanmap,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_spanmap, vendored for oj's type checker"
+2026-11-01T09:52:47.9696Z,jj-squash,0.1.0,0,0,https://github.com/Odonno/jj-squash,Simplify the jj squash experience
+2026-11-01T09:54:36.106326Z,jj-find,0.1.0,0,0,https://github.com/Odonno/jj-find,Provide a new jj experience to find changes
+2026-11-01T09:58:08.150494Z,oj_tsrs_ast,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_ast, vendored for oj's type checker"
+2026-11-01T10:01:22.152211Z,actix-oauth2,0.1.0,0,0,https://codeberg.org/Konvoy-Dev/actix-oauth2,OAuth2 authorization code flow for Actix Web
+2026-11-01T10:04:23.589257Z,kense-kui,0.1.0,0,0,https://github.com/kense-labs/KUI,KUI components for GPUI on native desktop and WASM web
+2026-11-01T10:08:26.087704Z,geg,0.1.0,0,0,https://github.com/LIghtJUNction/geg,Geg Embeds Gemma: offline semantic grep with EmbeddingGemma 2 and persistent vector caching
+2026-11-01T10:08:38.664634Z,oj_tsrs_api_codec,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_api_codec, vendored for oj's type checker"
+2026-11-01T10:12:36.738265Z,jj-fetch,0.1.0,0,0,https://github.com/Odonno/jj-fetch,Simplify the jj x fetch experience
+2026-11-01T10:17:54.699995Z,mosa-desktop,0.1.0-alpha.1,0,0,https://gitee.com/openkylin/mosa,HTML/CSS desktop views with native Rust components and no JavaScript runtime
