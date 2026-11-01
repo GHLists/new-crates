@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T15:20:44.403611Z,xr-core,0.1.0,0,0,https://github.com/Josh-Archer/questkit,"Reusable OpenXR sessions, composition layers, passthrough, and spatial placement"
+2026-11-01T15:22:20.316896Z,ras-api-explorer-assets,0.1.1,0,0,https://github.com/JedimEmO/rust-api-stack,"HTML, JavaScript and CSS for the API explorer page that the Rust API Stack service macros serve"
+2026-11-01T15:22:23.037255Z,ras-auth-core,0.3.0,0,0,https://github.com/JedimEmO/rust-api-stack,Core authentication and authorization traits for Rust API Stack services
+2026-11-01T15:22:23.698881Z,ras-identity-core,0.1.1,0,0,https://github.com/JedimEmO/rust-api-stack,Core traits and types for identity management and authentication
+2026-11-01T15:22:24.418319Z,ras-openrpc-types,0.1.1,0,0,https://github.com/JedimEmO/rust-api-stack,"Rust types for the OpenRPC 1.3.2 specification with serde support, bon builders, and validation helpers"
+2026-11-01T15:22:25.060394Z,ras-permission-manifest,0.1.0,0,0,https://github.com/JedimEmO/rust-api-stack,Typed permission manifest data structures for Rust API Stack service definitions
+2026-11-01T15:24:21.557389Z,mucad-wasm,0.6.1,0,0,https://codeberg.org/mucad/mucad,µcad toolchain for WebAssembly
+2026-11-01T15:25:52.325511Z,fuzzy-file-finder,0.2.0,0,0,https://github.com/Frankwii/fff,"Interactive terminal file finder with fuzzy filtering, directory navigation and Neovim editing"
+2026-11-01T15:27:32.278659Z,ras-file-core,0.2.1,0,0,https://github.com/JedimEmO/rust-api-stack,Core runtime types for Rust API Stack file upload and download services
+2026-11-01T15:27:58.976468Z,kirby-ocpp-core,0.2.0,0,0,https://github.com/archhaze24/kirby-ocpp,"OCPP 1.6J charge point emulator core: frames, station actor, connection layer (no UI)"
+2026-11-01T15:28:51.278705Z,kirby-ocpp-tui,0.2.0,0,0,https://github.com/archhaze24/kirby-ocpp,Terminal UI for the kirby-ocpp charge point emulator
+2026-11-01T15:29:07.975125Z,kirby-ocpp,0.2.0,0,0,https://github.com/archhaze24/kirby-ocpp,Terminal OCPP 1.6J charge point emulator for CSMS testing
+2026-11-01T15:29:08.377481Z,brynja-hash-core,0.1.0,0,0,https://github.com/valkyoth/brynja,Small no_std fixed-output hash interfaces for Brynja
+2026-11-01T15:29:54.458942Z,brynja-legacy-sha1,0.1.0,0,0,https://github.com/valkyoth/brynja,First-party no_std legacy SHA-1 with explicit hardened ownership; collision-broken
+2026-11-01T15:30:17.320006Z,ravenrs-animation,27.1.0,0,0,https://github.com/alexkads/RavenRS,"RavenRS motion primitives: analytic springs, cubic-bezier easing, OKLab color interpolation and interruptible animated values."
+2026-11-01T15:30:28.075862Z,ravenrs-report-pdf,27.1.0,0,0,https://github.com/alexkads/RavenRS,"PDF export for RavenRS Reporting: vector pages with embedded, subset fonts, in pure Rust."
+2026-11-01T15:30:28.896784Z,ravenrs-report-xlsx,27.1.0,0,0,https://github.com/alexkads/RavenRS,"XLSX and CSV export for RavenRS Reporting: real numbers and dates in cells, laid out as on the page."
+2026-11-01T15:30:37.495203Z,brynja-legacy-md5,0.1.0,0,0,https://github.com/valkyoth/brynja,First-party no_std legacy MD5 with explicit hardened ownership; collision-broken
+2026-11-01T15:31:14.340598Z,brynja-legacy-hmac,0.1.0,0,0,https://github.com/valkyoth/brynja,Explicit legacy-only HMAC-SHA-1 and HMAC-MD5 compatibility
+2026-11-01T15:32:17.718301Z,brynja-hash-sha2,0.1.0,0,0,https://github.com/valkyoth/brynja,First-party no_std SHA-2 implementations for Brynja
+2026-11-01T15:36:57.791218Z,brynja-hash-sha3,0.1.0,0,0,https://github.com/valkyoth/brynja,First-party no_std SHA-3 and SHAKE implementations for Brynja
+2026-11-01T15:37:42.980296Z,ras-identity-local,0.3.0,0,0,https://github.com/JedimEmO/rust-api-stack,Local username/password authentication provider with Argon2 hashing
+2026-11-01T15:39:22.900336Z,ic-platform-pocket-ic,0.17.0,0,0,https://github.com/dragginzgame/ic-platform,Native PocketIC client implementation for the IC Platform facade
+2026-11-01T15:42:38.44195Z,hereticus-project,0.7.0,0,0,https://github.com/wc0x2b/hereticus,"Save a hereticus comparison as a project, and open it again"
+2026-11-01T15:44:01.143751Z,tokenburn-zed,0.1.0,0,0,https://github.com/sorinirimies/zed-tokenburn,"Language server + MCP server behind the TokenBurn Zed extension: AI token and cost usage from local logs (pi, Zed, Claude Code, Codex, …)"
+2026-11-01T15:45:04.419323Z,brynja-mac-kmac,0.1.0,0,0,https://github.com/valkyoth/brynja,First-party no_std KMAC and KMACXOF implementations for Brynja
+2026-11-01T15:47:46.230644Z,ras-identity-session,0.4.0,0,0,https://github.com/JedimEmO/rust-api-stack,JWT session management and authentication provider implementation
+2026-11-01T15:48:06.43067Z,leeway-core,0.1.12,0,0,https://github.com/nathanreyes/leeway,"The budget model, SQLite storage and calculations behind Leeway, with no UI."
+2026-11-01T15:50:15.700082Z,olang1,0.1.0,0,0,,"Basic language, with some fun keywords"
+2026-11-01T15:55:27.952401Z,brynja-mac-hmac,0.1.0,0,0,https://github.com/valkyoth/brynja,First-party no_std HMAC construction over Brynja hardened hash owners
+2026-11-01T15:57:52.754995Z,ras-identity-oauth2,0.3.0,0,0,https://github.com/JedimEmO/rust-api-stack,"OAuth2 authentication provider with Google support, PKCE, and state management"
+2026-11-01T16:03:52.020758Z,tropic,0.1.0,0,0,https://github.com/arclabs561/tropic,Max-plus and min-plus algebra with law-tested semiring matrices and closure
+2026-11-01T16:03:55.103423Z,geomalg,0.1.0,0,0,https://github.com/arclabs561/geomalg,"Geometric algebra primitives: multivectors, geometric product, grade projection, and rotor actions"
+2026-11-01T16:03:55.637298Z,zk-store-crypto,0.1.8,0,0,https://github.com/johnb8005/zk-store,"zk-store's zero-knowledge crypto primitives: AES-GCM, key wrapping, HKDF/PBKDF2 derivation and BIP39 recovery phrases"
+2026-11-01T16:03:57.38598Z,betti,0.1.0,0,0,https://github.com/arclabs561/betti,"Persistent homology over GF(2): boundary matrix reduction, clearing, Betti numbers"
+2026-11-01T16:06:10.637098Z,brynja-hash-tuple,0.1.0,0,0,https://github.com/valkyoth/brynja,First-party no_std TupleHash and TupleHashXOF implementations for Brynja
+2026-11-01T16:07:34.764456Z,ras-observability-core,0.2.0,0,0,https://github.com/JedimEmO/rust-api-stack,Traits and types for request metrics and usage tracking in Rust API Stack services
+2026-11-01T16:16:33.92258Z,cargo-marty,0.1.0,0,0,https://github.com/mknet/marty,"cargo marty: build a musl CGI bundle for shared hosting and deploy it over SFTP/FTPS (hosters differ in data, not code)."
+2026-11-01T16:16:47.204103Z,brynja-legacy-sha1-std,0.1.0,0,0,https://github.com/valkyoth/brynja,Opt-in host detection and fail-closed selection for legacy SHA-1
+2026-11-01T16:17:40.925222Z,ras-observability-otel,0.2.0,0,0,https://github.com/JedimEmO/rust-api-stack,OpenTelemetry implementation for Rust API Stack observability
+2026-11-01T16:18:09.359268Z,rightkit-bench,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Benchmark harness building blocks: warmup-and-percentile timing, SQLite EXPLAIN QUERY PLAN probes, and article-quality corpus scoring with a reference extractor."
