@@ -8,48 +8,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 06:20 UTC
+## Latest list — 2026-11-01 07:18 UTC
 
-New crates published between 2026-11-01 05:18 UTC and 2026-11-01 06:20 UTC.
+New crates published between 2026-11-01 06:20 UTC and 2026-11-01 07:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-01T06-20-12-255611Z.csv)
+[Full CSV](data/new-crates-2026-11-01T07-18-18-107762Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-01 05:21:54 | [ferroui-xaml-interactions-draggable](https://crates.io/crates/ferroui-xaml-interactions-draggable) | 0.4.0 | 0 | Draggable behaviors of FerroUI: moving elements in a canvas, in a grid or by a… |
-| 2026-11-01 05:21:57 | [ferroui-xaml-interactions-events](https://crates.io/crates/ferroui-xaml-interactions-events) | 0.4.0 | 0 | Behaviors and triggers of the input events of FerroUI: a trigger and an abstrac… |
-| 2026-11-01 05:22:34 | [igm-dataset](https://crates.io/crates/igm-dataset) | 1.0.0 | 0 | Dataset fetching, curation, and pipeline for 3D model training data |
-| 2026-11-01 05:24:20 | [galac](https://crates.io/crates/galac) | 0.0.0 | 0 | The dress code is strictly typed. |
-| 2026-11-01 05:32:38 | [igm-eda](https://crates.io/crates/igm-eda) | 1.0.0 | 0 | EDA/PCB design interfaces for KiCAD, EM/RF physics simulation, and PCB format i… |
-| 2026-11-01 05:33:00 | [ferroui-xaml-interactions-reactiveui](https://crates.io/crates/ferroui-xaml-interactions-reactiveui) | 0.4.0 | 0 | The ReactiveUI behaviors of FerroUI: actions that navigate a ReactiveUI router… |
-| 2026-11-01 05:33:29 | [rightkit-compositor](https://crates.io/crates/rightkit-compositor) | 0.1.0 | 0 | Native wgpu layer compositor for Right Suite video apps: GPU context, layer ble… |
-| 2026-11-01 05:36:26 | [rightkit-mesh](https://crates.io/crates/rightkit-mesh) | 0.1.0 | 0 | Device mesh for Right Suite apps: iroh live sessions between paired devices, en… |
-| 2026-11-01 05:42:20 | [tcs-ccsds](https://crates.io/crates/tcs-ccsds) | 0.1.0 | 0 | Flight software: CCSDS standards, such as the CCSDS time codes, without allocat… |
-| 2026-11-01 05:42:33 | [igm-ml](https://crates.io/crates/igm-ml) | 1.0.0 | 0 | Transformer-based model architecture for sequential CAD operation prediction |
-| 2026-11-01 05:43:00 | [rind-ring](https://crates.io/crates/rind-ring) | 0.1.0 | 0 | ring 0.17's API backed by rind |
-| 2026-11-01 05:44:04 | [ferroui-xaml-interactions-responsive](https://crates.io/crates/ferroui-xaml-interactions-responsive) | 0.4.0 | 0 | Responsive behaviors of FerroUI: style classes switched by the width, the heigh… |
-| 2026-11-01 05:50:40 | [rightkit-timeline](https://crates.io/crates/rightkit-timeline) | 0.1.0 | 0 | Portable video timeline core: tracks, clips, rational time, revisions, ripple e… |
-| 2026-11-01 05:52:32 | [igm-codesign](https://crates.io/crates/igm-codesign) | 1.0.0 | 0 | CAD-EDA codesign integration for joint mechanical-electronic DfM optimization |
-| 2026-11-01 05:54:34 | [chanto-sdk](https://crates.io/crates/chanto-sdk) | 0.0.0 | 0 | Name reserved for Chanto, a coding agent that checks its own work. Real release… |
-| 2026-11-01 05:54:36 | [chanto-web](https://crates.io/crates/chanto-web) | 0.0.0 | 0 | Name reserved for Chanto, a coding agent that checks its own work. Real release… |
-| 2026-11-01 05:54:37 | [chanto-desktop](https://crates.io/crates/chanto-desktop) | 0.0.0 | 0 | Name reserved for Chanto, a coding agent that checks its own work. Real release… |
-| 2026-11-01 05:55:08 | [njt-mcp](https://crates.io/crates/njt-mcp) | 0.1.0 | 0 | MCP server for NJ Transit rail, bus, and light rail data |
-| 2026-11-01 05:55:08 | [ferroui-xaml-behaviors](https://crates.io/crates/ferroui-xaml-behaviors) | 0.4.0 | 0 | The behaviors, triggers and actions of FerroUI in one crate: the object model,… |
-| 2026-11-01 05:55:20 | [rfetch-cli](https://crates.io/crates/rfetch-cli) | 1.6.2 | 0 | A simple, ergonomic CLI HTTP client - like curl, but with clearer flags and pre… |
-| 2026-11-01 05:58:36 | [tailcat-client](https://crates.io/crates/tailcat-client) | 0.1.0 | 0 | Client-only Tailcat transport with WireGuard, DERP, and userspace TCP |
-| 2026-11-01 06:02:46 | [igm-gui](https://crates.io/crates/igm-gui) | 1.0.0 | 0 | Interactive CAD front-end for IronGeometryModeler |
-| 2026-11-01 06:03:23 | [bantay](https://crates.io/crates/bantay) | 0.1.0 | 0 | A fast, mouse-interactive Windows Security companion and developer redundancy a… |
-| 2026-11-01 06:04:35 | [tsc-rs](https://crates.io/crates/tsc-rs) | 0.1.0 | 0 | A tiny TypeScript-subset compiler that emits native binaries via Cranelift |
-| 2026-11-01 06:04:52 | [ws53-pac](https://crates.io/crates/ws53-pac) | 0.1.0-alpha.1 | 0 | WS53 application-core register access generated from hisi-registers |
-| 2026-11-01 06:05:06 | [hexflex](https://crates.io/crates/hexflex) | 1.0.1 | 0 | A CLI hex editor for dumping, inspecting and manipulating bytes |
-| 2026-11-01 06:08:06 | [compiler](https://crates.io/crates/compiler) | 0.1.1 | 0 | A tiny TypeScript-subset compiler that emits native binaries via Cranelift |
-| 2026-11-01 06:08:11 | [metriken-charts](https://crates.io/crates/metriken-charts) | 0.1.0 | 0 | Browser chart modules for metriken recordings, as files a server can embed and… |
-| 2026-11-01 06:12:27 | [jsonmax](https://crates.io/crates/jsonmax) | 0.1.0 | 0 | JSON parsing, querying, schema validation, and encoding for PathScale |
-| 2026-11-01 06:12:34 | [igm](https://crates.io/crates/igm) | 1.0.0 | 0 | IronGeometryModeler: Autonomous Geometry Modeling Engine for Meshes, NURBS, and… |
-| 2026-11-01 06:12:35 | [jsonmax-derive](https://crates.io/crates/jsonmax-derive) | 0.1.0 | 0 | Derive macros for jsonmax: JsonDecode, JsonEncode and JsonSchema |
-| 2026-11-01 06:17:09 | [rightkit-captions](https://crates.io/crates/rightkit-captions) | 0.1.0 | 0 | Captions for Right Suite video apps: caption styles, per-language caption sets,… |
-| 2026-11-01 06:17:43 | [pkgsmith-plugin](https://crates.io/crates/pkgsmith-plugin) | 0.1.0 | 0 | The plugin API of pkgsmith: the package description, the C interface and helper… |
-| 2026-11-01 06:18:58 | [pkgsmith](https://crates.io/crates/pkgsmith) | 0.1.0 | 0 | Build rpm, deb, Arch, Alpine, OpenWrt, tar and zip packages from one Starlark s… |
+| 2026-11-01 06:21:12 | [shuyi-alloc-count](https://crates.io/crates/shuyi-alloc-count) | 0.0.0 | 0 | Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here… |
+| 2026-11-01 06:21:19 | [shuyi-playdate](https://crates.io/crates/shuyi-playdate) | 0.0.0 | 0 | Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here… |
+| 2026-11-01 06:30:47 | [cgap-blake3](https://crates.io/crates/cgap-blake3) | 26.10.29 | 0 | Sovereign, zero-dependency #![no_std] BLAKE3 cryptographic tree hash with 4-way… |
+| 2026-11-01 06:30:48 | [cgap-arrow](https://crates.io/crates/cgap-arrow) | 26.10.29 | 0 | Freestanding Apache Arrow columnar substrate: branch-free kernel inner-loop bod… |
+| 2026-11-01 06:35:10 | [cgap-git](https://crates.io/crates/cgap-git) | 26.10.29 | 0 | Git Packfile v2 writer: stored blob objects, .idx v2 generation, in-crate SHA-1… |
+| 2026-11-01 06:37:44 | [kplib](https://crates.io/crates/kplib) | 0.18.3 | 0 | Hardened KDBX database file parser |
+| 2026-11-01 06:44:16 | [rightkit-color](https://crates.io/crates/rightkit-color) | 0.1.0 | 0 | Colour grading for Right Suite video apps: grade parameters, LUTs and FFmpeg fi… |
+| 2026-11-01 06:44:27 | [cgap-parquet](https://crates.io/crates/cgap-parquet) | 26.10.29 | 0 | Parquet persistence kernels with branch-free inner-loop bodies: bit-unpacking,… |
+| 2026-11-01 06:45:52 | [rightkit-reframe](https://crates.io/crates/rightkit-reframe) | 0.1.0 | 0 | Tracked 9:16 reframe for Right Suite video apps: ONNX face detection (YuNet; Co… |
+| 2026-11-01 06:47:18 | [handy-transcribe](https://crates.io/crates/handy-transcribe) | 0.1.1 | 0 | Offline speech-to-text CLI: transcribe audio files or URLs locally with Handy's… |
+| 2026-11-01 06:50:50 | [guth-wayland-dnd](https://crates.io/crates/guth-wayland-dnd) | 0.1.1 | 0 | Native Wayland file drag and drop bridge for Guth |
+| 2026-11-01 06:54:05 | [cgap](https://crates.io/crates/cgap) | 26.10.29 | 0 | cgap umbrella facade: columnar substrate (Arrow), BLAKE3 hashing, Parquet persi… |
+| 2026-11-01 06:57:51 | [olai-uc-handlers](https://crates.io/crates/olai-uc-handlers) | 0.0.1 | 0 | Resource-gated Unity Catalog handler traits and axum route functions, with the… |
+| 2026-11-01 07:00:35 | [wtkill](https://crates.io/crates/wtkill) | 0.1.0 | 0 | Find git worktrees under .worktree/ folders, see their size and state, and dele… |
+| 2026-11-01 07:06:55 | [cli-contract](https://crates.io/crates/cli-contract) | 0.6.0 | 0 | A shared contract for command-line tools: canonical exit codes, a path contract… |
+| 2026-11-01 07:12:46 | [rightkit-video-project](https://crates.io/crates/rightkit-video-project) | 0.1.0 | 0 | Video project layer for Right Suite apps: project files, sources and their inte… |
+| 2026-11-01 07:16:59 | [vrg](https://crates.io/crates/vrg) | 0.1.0 | 0 | Local-first Vault RAG Graph backend |
+| 2026-11-01 07:17:55 | [prts-mcp](https://crates.io/crates/prts-mcp) | 3.2.1 | 0 | Arknights fan-creation MCP server with native Rust runtime |
 
 ## Data source
 

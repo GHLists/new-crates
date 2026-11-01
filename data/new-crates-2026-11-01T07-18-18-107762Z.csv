@@ -1,0 +1,19 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T06:21:12.640322Z,shuyi-alloc-count,0.0.0,0,0,https://github.com/Zafnok/shuyi-engine,"Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here yet: the first release will replace this placeholder."
+2026-11-01T06:21:19.735552Z,shuyi-playdate,0.0.0,0,0,https://github.com/Zafnok/shuyi-engine,"Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here yet: the first release will replace this placeholder."
+2026-11-01T06:30:47.019863Z,cgap-blake3,26.10.29,0,0,https://github.com/seanchatmangpt/cgap,"Sovereign, zero-dependency #![no_std] BLAKE3 cryptographic tree hash with 4-way NEON & 8-way AVX2 parent Merkle reduction."
+2026-11-01T06:30:48.563013Z,cgap-arrow,26.10.29,0,0,https://github.com/seanchatmangpt/cgap,"Freestanding Apache Arrow columnar substrate: branch-free kernel inner-loop bodies, itemized latches/dispatch (no_std, zero dependencies)."
+2026-11-01T06:35:10.393621Z,cgap-git,26.10.29,0,0,https://github.com/seanchatmangpt/cgap,"Git Packfile v2 writer: stored blob objects, .idx v2 generation, in-crate SHA-1 and CRC32 (zero external dependencies)."
+2026-11-01T06:37:44.942094Z,kplib,0.18.3,0,0,https://github.com/pepa65/keepass-rs/tree/new,Hardened KDBX database file parser
+2026-11-01T06:44:16.528987Z,rightkit-color,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Colour grading for Right Suite video apps: grade parameters, LUTs and FFmpeg filter rendering, and video scopes (waveform, vectorscope, histogram)."
+2026-11-01T06:44:27.448885Z,cgap-parquet,26.10.29,0,0,https://github.com/seanchatmangpt/cgap,"Parquet persistence kernels with branch-free inner-loop bodies: bit-unpacking, SWAR RLE, page-to-buffer decode (no_std, zero dependencies)."
+2026-11-01T06:45:52.92604Z,rightkit-reframe,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Tracked 9:16 reframe for Right Suite video apps: ONNX face detection (YuNet; CoreML, DirectML or CPU), subject tracking, a smoothed crop path, and approval-gated crop plans."
+2026-11-01T06:47:18.710121Z,handy-transcribe,0.1.1,0,0,https://github.com/cyub/handy-transcribe,Offline speech-to-text CLI: transcribe audio files or URLs locally with Handy's transcribe.cpp pipeline
+2026-11-01T06:50:50.063157Z,guth-wayland-dnd,0.1.1,0,0,https://github.com/Tknott95/KnottFiles,Native Wayland file drag and drop bridge for Guth
+2026-11-01T06:54:05.12421Z,cgap,26.10.29,0,0,https://github.com/seanchatmangpt/cgap,"cgap umbrella facade: columnar substrate (Arrow), BLAKE3 hashing, Parquet persistence, and Git packfile writing — one dependency for the published cgap kernel crates."
+2026-11-01T06:57:51.660809Z,olai-uc-handlers,0.0.1,0,0,https://github.com/open-lakehouse/mangrove,"Resource-gated Unity Catalog handler traits and axum route functions, with the error and request-context types they need."
+2026-11-01T07:00:35.87023Z,wtkill,0.1.0,0,0,https://github.com/reynandaptr/wtkill,"Find git worktrees under .worktree/ folders, see their size and state, and delete finished ones safely"
+2026-11-01T07:06:55.920777Z,cli-contract,0.6.0,0,0,https://github.com/ComposerChrisF/cli-contract,"A shared contract for command-line tools: canonical exit codes, a path contract that refuses to guess (with a mount-root floor), and BrokenPipe handling."
+2026-11-01T07:12:46.003443Z,rightkit-video-project,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Video project layer for Right Suite apps: project files, sources and their integrity, revisions on the timeline, render jobs, and portable project bundles."
+2026-11-01T07:16:59.761678Z,vrg,0.1.0,0,0,https://github.com/galgo2077/VRG,Local-first Vault RAG Graph backend
+2026-11-01T07:17:55.409726Z,prts-mcp,3.2.1,0,0,https://github.com/3aKHP/prts-mcp,Arknights fan-creation MCP server with native Rust runtime
