@@ -1,0 +1,29 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T20:19:51.87692Z,protoview,0.1.0,0,0,https://github.com/rpcpool/protoview,"Runtime for protoview-build: zero-copy, allocation-free protobuf view types"
+2026-11-01T20:19:59.630967Z,protoview-build,0.1.0,0,0,https://github.com/rpcpool/protoview,"Build-time protobuf code generator emitting zero-copy, validate-once view types"
+2026-11-01T20:21:54.73201Z,open-rtx,0.0.0-placeholder,0,0,,"This will be OpenRTX parts migrated to a Rust library, plus any other related Rust functionality."
+2026-11-01T20:23:41.618262Z,ffcine-import,0.1.0,0,0,https://github.com/macalinao/ffcine,"Timeline importers: edit.yaml, DaVinci Resolve OTIO, FCPXML, Kdenlive/Shotcut MLT"
+2026-11-01T20:26:03.551083Z,zgx-alacritty-terminal,0.26.0,0,0,https://github.com/zeronsh/zgx,"alacritty_terminal 0.26.0 without comparisons between its grid indices and usize, for zgx (see ZGX_PATCH.md): a library for writing terminal emulators"
+2026-11-01T20:26:30.935082Z,zgx-zune-jpeg,0.5.15,0,0,https://github.com/zeronsh/zgx,"A fast, correct and safe jpeg decoder (zgx's fork: DCT-scaled decoding)"
+2026-11-01T20:27:01.119914Z,munet-nn,0.4.0,0,0,https://github.com/bryan-pakulski/munet-releases,"MuNet: run ONNX models (saved .mnet programs) on any Vulkan GPU - AMD, Intel, NVIDIA, mobile - with fp16/int8 kernels"
+2026-11-01T20:28:16.808738Z,zgx-terminal,0.1.7,0,0,https://github.com/zeronsh/zgx,"Terminal sessions for zgx: a shell on a pseudoterminal (openpty, ConPTY) and its screen, kept by alacritty_terminal."
+2026-11-01T20:31:05.276636Z,rppd-common,0.2.3,0,0,,RPPD - protibuf types and services
+2026-11-01T20:31:07.290051Z,rppd,0.2.17,0,0,,RPPD - Rust Python Postgres
+2026-11-01T20:31:39.251194Z,compress-archive-extension,0.1.1,0,0,https://github.com/eduardowebdev/cax,Compress Archive eXtension
+2026-11-01T20:33:44.087127Z,ffcine-assembly,0.1.0,0,0,https://github.com/macalinao/ffcine,"Final assembly: concat with dissolves, captions and title cards, chapters and cover"
+2026-11-01T20:35:58.080996Z,aptove-core,1.0.1,0,0,https://github.com/aptove/aptove,Core library for the Aptove bridge
+2026-11-01T20:36:02.350439Z,dtk,0.2.0,0,0,https://github.com/amaye15/dtk,"Data token killer: a Claude Code hook that turns big tables, CSV, JSON and JSONL tool output into lean summaries. Works with rtk."
+2026-11-01T20:37:12.923318Z,vibe-pilot,0.1.3,0,0,https://github.com/Gatsuke/vibe-pilot,"The context optimizer for AI engineers. Prune your codebase before you feed it to Cursor, Claude Code, or Windsurf."
+2026-11-01T20:39:36.072887Z,agent-mesh-ratchet,0.8.2,0,0,https://github.com/Gilamonster-Foundation/agent-mesh,"Signal-style Double Ratchet (Olm) for 1:1 agent-mesh sessions, bound to the mesh ed25519 identity."
+2026-11-01T20:43:46.935921Z,ffcine-delivery,0.1.0,0,0,https://github.com/macalinao/ffcine,"Delivery extras from a timeline: YouTube chapters, music credits, still frames"
+2026-11-01T20:46:43.538196Z,cvra-rs,0.1.0,0,0,https://github.com/cubevera2/cvra-rs,reader and writer for the .cvra scene format
+2026-11-01T20:46:49.3271Z,zkeys,0.1.0,0,0,https://github.com/jmmv/zkeys,ZKeys CLI client
+2026-11-01T20:49:21.517553Z,cctv-rtp,0.2.0,0,0,https://github.com/Zakarialabib/cctv-rs,"Standalone RTP header parsing and H.264 / H.265 depacketisation into contiguous NAL units, for cctv-rs."
+2026-11-01T20:49:51.919525Z,cctv-rtsp,0.2.0,0,0,https://github.com/Zakarialabib/cctv-rs,"RTSP / RTP / H.264 codecs for cctv-rs: message framing, SDP, RTP headers, access-unit depacketisation and a CameraBackend over interleaved TCP."
+2026-11-01T20:53:45.583191Z,ffcine-hooks,0.1.0,0,0,https://github.com/macalinao/ffcine,"mpv .hook user shaders for the grade pass: adaptive-sharpen, KrigBilateral, FSRCNNX/ArtCNN"
+2026-11-01T20:54:09.349055Z,cctv-stream-uvc,0.2.0,0,0,https://github.com/Zakarialabib/cctv-rs,UVC and PTP adapters and OS seam for cctv-rs
+2026-11-01T20:56:12.260391Z,cctv-detect,0.2.0,0,0,https://github.com/Zakarialabib/cctv-rs,Detection — the device model for motion / AI object detection zones and events.
+2026-11-01T21:03:49.620933Z,ffcine-ingest,0.1.0,0,0,https://github.com/macalinao/ffcine,"ffcine card offload (verified copy, backup, manifest), per-camera clock fixes and the clip catalog with picture profile detection; no GPU, runs on macOS"
+2026-11-01T21:11:01.849324Z,datamonger,0.2.0,0,0,https://github.com/jolars/datamonger,Standalone Datamonger registry and artifact client
+2026-11-01T21:13:47.996254Z,ffcine-triage,0.1.0,0,0,https://github.com/macalinao/ffcine,"ffcine triage: clip index from proxies (contact strips, scene cuts, speech map, word-timed transcripts, runaway flags), search, clip page, word-boundary snapping"
+2026-11-01T21:15:54.419385Z,rigless-rtl,0.0.1,0,0,https://gitlab.com/rigless-labs/rigless-rtl,"Exact, faster-than-real-time emulation of SystemVerilog designs"
