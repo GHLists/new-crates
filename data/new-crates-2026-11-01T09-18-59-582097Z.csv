@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T08:30:46.945358Z,smut,0.1.0,0,0,https://github.com/davidlee/smut,"A permissive notebook for an agent's mutable entity graph: declare linked JSON entities, read them back as JSON or Markdown."
+2026-11-01T08:34:03.273366Z,gust-compute,0.0.0,0,0,https://github.com/nevermemo/gust,"Placeholder: GUST, restricted Rust compiled to GPU compute shaders through Slang."
+2026-11-01T08:34:06.871994Z,gust-compute-macros,0.0.0,0,0,https://github.com/nevermemo/gust,Placeholder: procedural macros for gust-compute.
+2026-11-01T08:34:10.089043Z,gust-compute-wgpu,0.0.0,0,0,https://github.com/nevermemo/gust,Placeholder: wgpu runtime for gust-compute kernels.
+2026-11-01T08:34:11.264333Z,ghfetch-cli,1.2.0,0,0,https://github.com/Yahddyyp/ghfetch,Display your github status in a beautiful way
+2026-11-01T08:34:13.749326Z,cargo-gust,0.0.0,0,0,https://github.com/nevermemo/gust,Placeholder: the cargo subcommand for gust-compute projects.
+2026-11-01T08:34:17.048281Z,breeze-gfx,0.0.0,0,0,https://github.com/nevermemo/gust,"Placeholder: Breeze, a lightweight rendering and interaction framework built on gust-compute."
+2026-11-01T08:35:56.562941Z,rustorb-cdr,0.1.0,0,0,https://github.com/rustorb/rustorb,CDR (Common Data Representation) encoder and decoder for rustorb
+2026-11-01T08:35:59.079722Z,rustorb-giop,0.1.0,0,0,https://github.com/rustorb/rustorb,"GIOP/IIOP message types, IOR and corbaloc handling for rustorb"
+2026-11-01T08:36:14.377276Z,rustorb-core,0.1.0,0,0,https://github.com/rustorb/rustorb,"ORB core of rustorb: connections, request dispatch and POA"
+2026-11-01T08:36:16.660506Z,rustorb-codegen,0.1.0,0,0,https://github.com/rustorb/rustorb,"IDL code generator for rustorb (Rust, Python, C++11 and Java)"
+2026-11-01T08:36:23.547028Z,rustorb-ffi,0.1.0,0,0,https://github.com/rustorb/rustorb,Stable C ABI layer of rustorb used by the C++ and Java bindings
+2026-11-01T08:42:22.00782Z,mapterm,0.1.0,0,0,https://github.com/tlpinney/mapterm,"A map in your terminal: vector tiles, MapLibre styles, imagery and your own data, as a ratatui widget and the mapterm viewer"
+2026-11-01T08:47:36.356922Z,hurricane-engine,0.0.0,0,0,https://github.com/nevermemo/gust,"Placeholder: Hurricane, a game engine built on gust-compute and breeze-gfx."
+2026-11-01T08:52:40.164252Z,rustorb-naming,0.1.0,0,0,https://github.com/rustorb/rustorb,CosNaming (Naming Service) for rustorb
+2026-11-01T08:56:43.81255Z,agent-transcript-core,0.1.0,0,0,https://github.com/kosumic/whip,"Provider-neutral coding-agent transcript parsing, normalization, incremental updates, and checkpoints"
+2026-11-01T08:58:45.886677Z,batonpass,0.1.0,0,0,https://github.com/macalinao/batonpass,Run a command with a share of the GNU make jobserver's tokens
+2026-11-01T09:02:35.243844Z,rubrowser,0.1.0,0,0,https://github.com/ccc-claude-opus/rubrowser,"A browser whose pages are Rust programs compiled to WebAssembly, drawn entirely on a single canvas."
+2026-11-01T09:03:37.508141Z,scientific-method,0.0.1,0,0,,Scientific method primitives for defining experiments.
+2026-11-01T09:03:39.078329Z,experiments,0.0.1,0,0,,Experiment tooling for use with Custodian.
+2026-11-01T09:07:42.239958Z,forthling,0.1.0,0,0,https://github.com/DeSchaker/forthling,"A Forth-2012 system in Rust: no dependencies, a sandbox, JSON words and a tutorial"
+2026-11-01T09:07:59.555756Z,forthling-sqlite,0.1.0,0,0,https://github.com/DeSchaker/forthling,"SQLite words for forthling, a Forth interpreter in Rust"
+2026-11-01T09:08:17.068236Z,forthling-mcp,0.1.0,0,0,https://github.com/DeSchaker/forthling,"An MCP server that runs Forth in forthling's sandbox, for AI agents"

@@ -8,34 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 08:19 UTC
+## Latest list — 2026-11-01 09:18 UTC
 
-New crates published between 2026-11-01 07:18 UTC and 2026-11-01 08:19 UTC.
+New crates published between 2026-11-01 08:19 UTC and 2026-11-01 09:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-01T08-19-10-961198Z.csv)
+[Full CSV](data/new-crates-2026-11-01T09-18-59-582097Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-01 07:22:02 | [tendns](https://crates.io/crates/tendns) | 0.2.0 | 0 | Encrypted TXT discovery and hexadecimal IPv4 resolution, as a library and DNS s… |
-| 2026-11-01 07:25:58 | [whipair-protocol](https://crates.io/crates/whipair-protocol) | 0.1.0 | 0 | WP4 QR pairing codec, enrollment messages, and offline validation for Whip |
-| 2026-11-01 07:27:46 | [cargo-tailor](https://crates.io/crates/cargo-tailor) | 0.1.0-alpha.0 | 0 | Development placeholder for Tailor, semantic transformations for Rust |
-| 2026-11-01 07:27:55 | [cargo-floss](https://crates.io/crates/cargo-floss) | 0.1.0-alpha.0 | 0 | Development placeholder for Floss, semantic cleanup tools for Rust |
-| 2026-11-01 07:28:02 | [floss](https://crates.io/crates/floss) | 0.1.0-alpha.0 | 0 | Development placeholder for Floss, semantic cleanup tools for Rust |
-| 2026-11-01 07:30:00 | [plexus-transport-mcp](https://crates.io/crates/plexus-transport-mcp) | 0.1.0 | 0 | Any Plexus RPC backend as an MCP server: a bridge over the client transport, be… |
-| 2026-11-01 07:30:11 | [godot-dev-tools](https://crates.io/crates/godot-dev-tools) | 0.1.0 | 0 | Library behind gdt: Godot version management, addons and test running. |
-| 2026-11-01 07:30:14 | [gdt](https://crates.io/crates/gdt) | 0.1.0 | 0 | Godot Development Tools: version manager, addon manager and test runner for God… |
-| 2026-11-01 07:30:51 | [plexus-webapp](https://crates.io/crates/plexus-webapp) | 0.2.0 | 0 | Serve a Plexus RPC app's frontend build (from disk or embedded in the binary) b… |
-| 2026-11-01 07:33:25 | [rightkit-autoedit](https://crates.io/crates/rightkit-autoedit) | 0.1.0 | 0 | Automatic editing for Right Suite video apps: transcript-driven cut engine (ret… |
-| 2026-11-01 07:35:16 | [olai-uc-storage-access](https://crates.io/crates/olai-uc-storage-access) | 0.0.1 | 0 | Storage access store for the Unity Catalog server: credentials and the external… |
-| 2026-11-01 07:38:12 | [volo-gen](https://crates.io/crates/volo-gen) | 0.0.1 | 0 | volo-grpc 编译期生成的代码 crate，由 build.rs 依据 idl/*.proto 自动生成 |
-| 2026-11-01 07:41:00 | [git-reflow-api](https://crates.io/crates/git-reflow-api) | 0.1.0 | 0 | Provides the core functionality for the git-reflow tool |
-| 2026-11-01 07:41:03 | [git-reflow](https://crates.io/crates/git-reflow) | 0.1.0 | 0 | A tool for automating sematic releases by raising pull-requests when commits en… |
-| 2026-11-01 07:41:33 | [trace-alloc](https://crates.io/crates/trace-alloc) | 0.0.0 | 0 | Allocator for debugging and tracing |
-| 2026-11-01 07:51:55 | [figfile](https://crates.io/crates/figfile) | 0.1.3 | 0 | Write .fig files directly: blank artboards and rect/text nodes, no Figma requir… |
-| 2026-11-01 08:00:31 | [rightkit-shorts](https://crates.io/crates/rightkit-shorts) | 0.1.0 | 0 | Shorts finder for Right Suite video apps: candidate moments from a long video's… |
-| 2026-11-01 08:05:29 | [agent-browser-control](https://crates.io/crates/agent-browser-control) | 0.1.0 | 0 | Validated browser agent actions, bounded results, and a platform-neutral execut… |
-| 2026-11-01 08:18:21 | [cortexkit-occipital-lang](https://crates.io/crates/cortexkit-occipital-lang) | 0.1.0 | 0 | The rich UI language the CortexKit apps draw agent replies, pages and tool rows… |
-| 2026-11-01 08:18:23 | [cortexkit-occipital-registry](https://crates.io/crates/cortexkit-occipital-registry) | 0.1.0 | 0 | Tool templates for the CortexKit apps: the occipital.template/1 document, its c… |
+| 2026-11-01 08:30:46 | [smut](https://crates.io/crates/smut) | 0.1.0 | 0 | A permissive notebook for an agent's mutable entity graph: declare linked JSON… |
+| 2026-11-01 08:34:03 | [gust-compute](https://crates.io/crates/gust-compute) | 0.0.0 | 0 | Placeholder: GUST, restricted Rust compiled to GPU compute shaders through Slan… |
+| 2026-11-01 08:34:06 | [gust-compute-macros](https://crates.io/crates/gust-compute-macros) | 0.0.0 | 0 | Placeholder: procedural macros for gust-compute. |
+| 2026-11-01 08:34:10 | [gust-compute-wgpu](https://crates.io/crates/gust-compute-wgpu) | 0.0.0 | 0 | Placeholder: wgpu runtime for gust-compute kernels. |
+| 2026-11-01 08:34:11 | [ghfetch-cli](https://crates.io/crates/ghfetch-cli) | 1.2.0 | 0 | Display your github status in a beautiful way |
+| 2026-11-01 08:34:13 | [cargo-gust](https://crates.io/crates/cargo-gust) | 0.0.0 | 0 | Placeholder: the cargo subcommand for gust-compute projects. |
+| 2026-11-01 08:34:17 | [breeze-gfx](https://crates.io/crates/breeze-gfx) | 0.0.0 | 0 | Placeholder: Breeze, a lightweight rendering and interaction framework built on… |
+| 2026-11-01 08:35:56 | [rustorb-cdr](https://crates.io/crates/rustorb-cdr) | 0.1.0 | 0 | CDR (Common Data Representation) encoder and decoder for rustorb |
+| 2026-11-01 08:35:59 | [rustorb-giop](https://crates.io/crates/rustorb-giop) | 0.1.0 | 0 | GIOP/IIOP message types, IOR and corbaloc handling for rustorb |
+| 2026-11-01 08:36:14 | [rustorb-core](https://crates.io/crates/rustorb-core) | 0.1.0 | 0 | ORB core of rustorb: connections, request dispatch and POA |
+| 2026-11-01 08:36:16 | [rustorb-codegen](https://crates.io/crates/rustorb-codegen) | 0.1.0 | 0 | IDL code generator for rustorb (Rust, Python, C++11 and Java) |
+| 2026-11-01 08:36:23 | [rustorb-ffi](https://crates.io/crates/rustorb-ffi) | 0.1.0 | 0 | Stable C ABI layer of rustorb used by the C++ and Java bindings |
+| 2026-11-01 08:42:22 | [mapterm](https://crates.io/crates/mapterm) | 0.1.0 | 0 | A map in your terminal: vector tiles, MapLibre styles, imagery and your own dat… |
+| 2026-11-01 08:47:36 | [hurricane-engine](https://crates.io/crates/hurricane-engine) | 0.0.0 | 0 | Placeholder: Hurricane, a game engine built on gust-compute and breeze-gfx. |
+| 2026-11-01 08:52:40 | [rustorb-naming](https://crates.io/crates/rustorb-naming) | 0.1.0 | 0 | CosNaming (Naming Service) for rustorb |
+| 2026-11-01 08:56:43 | [agent-transcript-core](https://crates.io/crates/agent-transcript-core) | 0.1.0 | 0 | Provider-neutral coding-agent transcript parsing, normalization, incremental up… |
+| 2026-11-01 08:58:45 | [batonpass](https://crates.io/crates/batonpass) | 0.1.0 | 0 | Run a command with a share of the GNU make jobserver's tokens |
+| 2026-11-01 09:02:35 | [rubrowser](https://crates.io/crates/rubrowser) | 0.1.0 | 0 | A browser whose pages are Rust programs compiled to WebAssembly, drawn entirely… |
+| 2026-11-01 09:03:37 | [scientific-method](https://crates.io/crates/scientific-method) | 0.0.1 | 0 | Scientific method primitives for defining experiments. |
+| 2026-11-01 09:03:39 | [experiments](https://crates.io/crates/experiments) | 0.0.1 | 0 | Experiment tooling for use with Custodian. |
+| 2026-11-01 09:07:42 | [forthling](https://crates.io/crates/forthling) | 0.1.0 | 0 | A Forth-2012 system in Rust: no dependencies, a sandbox, JSON words and a tutor… |
+| 2026-11-01 09:07:59 | [forthling-sqlite](https://crates.io/crates/forthling-sqlite) | 0.1.0 | 0 | SQLite words for forthling, a Forth interpreter in Rust |
+| 2026-11-01 09:08:17 | [forthling-mcp](https://crates.io/crates/forthling-mcp) | 0.1.0 | 0 | An MCP server that runs Forth in forthling's sandbox, for AI agents |
 
 ## Data source
 
