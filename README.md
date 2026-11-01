@@ -8,65 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 19:18 UTC
+## Latest list — 2026-11-01 20:18 UTC
 
-New crates published between 2026-11-01 18:18 UTC and 2026-11-01 19:18 UTC.
+New crates published between 2026-11-01 19:18 UTC and 2026-11-01 20:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-01T19-18-11-701902Z.csv)
+[Full CSV](data/new-crates-2026-11-01T20-18-53-235208Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-01 18:18:42 | [tessera-rl-macros](https://crates.io/crates/tessera-rl-macros) | 0.0.1 | 0 | Part of tessera-rl. Placeholder release. |
-| 2026-11-01 18:21:28 | [rasta-rust](https://crates.io/crates/rasta-rust) | 0.1.0 | 0 | Deterministic, transport-independent core primitives for RaSTA |
-| 2026-11-01 18:27:11 | [devdocs](https://crates.io/crates/devdocs) | 0.1.0 | 0 | CLI and MCP server for devdocs |
-| 2026-11-01 18:27:28 | [fuser-iouring](https://crates.io/crates/fuser-iouring) | 0.1.2 | 0 | A FUSE filesystem library for Rust that drives /dev/fuse through io_uring |
-| 2026-11-01 18:27:30 | [ras-rest-macro](https://crates.io/crates/ras-rest-macro) | 0.4.0 | 0 | Procedural macro for type-safe REST APIs with auth integration and OpenAPI docu… |
-| 2026-11-01 18:29:17 | [tessera-rl-engine](https://crates.io/crates/tessera-rl-engine) | 0.0.1 | 0 | Part of tessera-rl. Placeholder release. |
-| 2026-11-01 18:29:48 | [sveltui-code](https://crates.io/crates/sveltui-code) | 0.1.0-alpha.2 | 0 | TextMate syntax-highlighted code preview and editor components for sveltui |
-| 2026-11-01 18:32:38 | [fframes-dylib](https://crates.io/crates/fframes-dylib) | 1.3.1-rc.10 | 0 | Shared fframes engine for fast rebuilds of native videos |
-| 2026-11-01 18:32:51 | [laminapdf-syntax](https://crates.io/crates/laminapdf-syntax) | 0.0.0 | 0 | Reserved for lamina, a PDF library. Not yet released. |
-| 2026-11-01 18:32:54 | [laminapdf-cos](https://crates.io/crates/laminapdf-cos) | 0.0.0 | 0 | Reserved for lamina, a PDF library. Not yet released. |
-| 2026-11-01 18:32:56 | [laminapdf-model](https://crates.io/crates/laminapdf-model) | 0.0.0 | 0 | Reserved for lamina, a PDF library. Not yet released. |
-| 2026-11-01 18:32:59 | [laminapdf-ops](https://crates.io/crates/laminapdf-ops) | 0.0.0 | 0 | Reserved for lamina, a PDF library. Not yet released. |
-| 2026-11-01 18:33:02 | [laminapdf-content](https://crates.io/crates/laminapdf-content) | 0.0.0 | 0 | Reserved for lamina, a PDF library. Not yet released. |
-| 2026-11-01 18:38:22 | [tessera-rl-classic](https://crates.io/crates/tessera-rl-classic) | 0.0.1 | 0 | Part of tessera-rl. Placeholder release. |
-| 2026-11-01 18:43:21 | [gigsift-core](https://crates.io/crates/gigsift-core) | 0.1.0 | 0 | Domain types and the versioned JSON contract for gigsift |
-| 2026-11-01 18:43:24 | [gigsift-platform-macos](https://crates.io/crates/gigsift-platform-macos) | 0.1.0 | 0 | macOS filesystem probes for gigsift |
-| 2026-11-01 18:43:25 | [gigsift-platform-windows](https://crates.io/crates/gigsift-platform-windows) | 0.1.0 | 0 | Windows filesystem probes for gigsift |
-| 2026-11-01 18:43:28 | [gigsift-scanner](https://crates.io/crates/gigsift-scanner) | 0.1.0 | 0 | Parallel directory walk and honest size accounting for gigsift |
-| 2026-11-01 18:43:31 | [gigsift](https://crates.io/crates/gigsift) | 0.1.0 | 0 | Understand every gigabyte. Recover space with confidence. |
-| 2026-11-01 18:43:42 | [laminapdf-text](https://crates.io/crates/laminapdf-text) | 0.0.0 | 0 | Reserved for lamina, a PDF library. Not yet released. |
-| 2026-11-01 18:44:21 | [bigcurve](https://crates.io/crates/bigcurve) | 0.2.0 | 0 | Adaptive densification of lines under a map projection or any forward map |
-| 2026-11-01 18:44:22 | [rust-judge](https://crates.io/crates/rust-judge) | 0.1.0 | 0 | Linux sandbox service and Rust library for running programs with resource limits |
-| 2026-11-01 18:45:03 | [mmuhttpd](https://crates.io/crates/mmuhttpd) | 0.0.0-0000-00-00 | 0 | 0 deps 100% monkey HTTP server |
-| 2026-11-01 18:46:37 | [gaebboss-core](https://crates.io/crates/gaebboss-core) | 0.1.0 | 0 | GAEB DA XML reader, writer and bill-of-quantities model in pure Rust |
-| 2026-11-01 18:46:54 | [gaebboss-cli](https://crates.io/crates/gaebboss-cli) | 0.1.0 | 0 | Command line for GAEB DA XML: inspect, export, validate, round-trip and price t… |
-| 2026-11-01 18:46:55 | [rust-mcp-preflight](https://crates.io/crates/rust-mcp-preflight) | 0.1.0 | 0 | Check an MCP Registry listing before you publish: the README mcp-name line on c… |
-| 2026-11-01 18:48:08 | [ghostcode](https://crates.io/crates/ghostcode) | 0.1.0 | 0 | Finds unreferenced code in Vim9 plugins. |
-| 2026-11-01 18:48:58 | [tessera-rl-py](https://crates.io/crates/tessera-rl-py) | 0.0.1 | 0 | Part of tessera-rl. Placeholder release. |
-| 2026-11-01 18:52:17 | [sego](https://crates.io/crates/sego) | 0.1.0 | 0 | Code search for agents, built on Sourcegraph. |
-| 2026-11-01 18:52:52 | [forthling-http](https://crates.io/crates/forthling-http) | 0.2.0 | 0 | HTTP client words for forthling, a Forth interpreter in Rust |
-| 2026-11-01 18:53:37 | [rustack-lambda-runtime](https://crates.io/crates/rustack-lambda-runtime) | 0.9.0 | 0 | Shared Lambda runtime session and bounded relay protocol for Rustack |
-| 2026-11-01 18:53:37 | [rustack-stepfunctions-model](https://crates.io/crates/rustack-stepfunctions-model) | 0.9.0 | 0 | Generated Step Functions protocol model for Rustack |
-| 2026-11-01 18:53:48 | [knxide-core](https://crates.io/crates/knxide-core) | 0.1.0 | 0 | KNX addressing, cEMI frames, group services and datapoint type codecs. No I/O. |
-| 2026-11-01 18:53:48 | [rustack-stepfunctions-core](https://crates.io/crates/rustack-stepfunctions-core) | 0.9.0 | 0 | Compiled ASL semantics and supervised Step Functions execution for Rustack |
-| 2026-11-01 18:53:48 | [rustack-stepfunctions-http](https://crates.io/crates/rustack-stepfunctions-http) | 0.9.0 | 0 | Bounded typed Step Functions AWS JSON1.0 HTTP transport |
-| 2026-11-01 18:53:50 | [knxide-ip](https://crates.io/crates/knxide-ip) | 0.1.0 | 0 | KNXnet/IP frames and sans-IO state machines for discovery and tunnelling. |
-| 2026-11-01 18:53:51 | [knxide-project](https://crates.io/crates/knxide-project) | 0.1.0 | 0 | Import KNX group addresses and their datapoint types from ETS exports. |
-| 2026-11-01 18:53:53 | [knxide-tokio](https://crates.io/crates/knxide-tokio) | 0.1.0 | 0 | Async tokio client for KNXnet/IP built on knxide-ip. |
-| 2026-11-01 18:53:56 | [knxide](https://crates.io/crates/knxide) | 0.1.0 | 0 | KNX over KNXnet/IP for Rust: one crate that re-exports knxide-core, knxide-ip,… |
-| 2026-11-01 18:53:57 | [refranero-cli](https://crates.io/crates/refranero-cli) | 0.3.0 | 0 | Offline-first command-line proverbs with optional Cervantes and Wayback imports |
-| 2026-11-01 18:54:12 | [systemprompt-brain](https://crates.io/crates/systemprompt-brain) | 0.77.0 | 0 | Organisational memory store: revisioned facts, capture ledgers, recall audit an… |
-| 2026-11-01 18:54:34 | [laminapdf-build](https://crates.io/crates/laminapdf-build) | 0.0.0 | 0 | Reserved for lamina, a PDF library. Not yet released. |
-| 2026-11-01 19:01:11 | [bougie-lock](https://crates.io/crates/bougie-lock) | 0.54.0 | 0 | Versioned bougie.lock model and atomic writer. |
-| 2026-11-01 19:03:07 | [laminapdf-save](https://crates.io/crates/laminapdf-save) | 0.0.0 | 0 | Reserved for lamina, a PDF library. Not yet released. |
-| 2026-11-01 19:03:08 | [hoarfrost](https://crates.io/crates/hoarfrost) | 0.14.0 | 0 | A design system and widget framework built on Iced |
-| 2026-11-01 19:04:24 | [knxide-cli](https://crates.io/crates/knxide-cli) | 0.1.0 | 0 | Command-line tool for discovering, monitoring, reading and writing a KNX bus ov… |
-| 2026-11-01 19:10:56 | [ai-gent-dbrun](https://crates.io/crates/ai-gent-dbrun) | 0.1.0 | 0 | Read-only database runner library of ai-gent: statement classification, plans a… |
-| 2026-11-01 19:10:56 | [rumtk-sanitize](https://crates.io/crates/rumtk-sanitize) | 0.1.1 | 0 | HTML input sanitizer for RUMTK. |
-| 2026-11-01 19:13:56 | [laminapdf](https://crates.io/crates/laminapdf) | 0.0.0 | 0 | Reserved for lamina, a PDF library. Not yet released. |
-| 2026-11-01 19:14:10 | [knxide-monitor](https://crates.io/crates/knxide-monitor) | 0.1.0 | 0 | Web console for a KNX bus: live monitor and sender, built on knxide. |
-| 2026-11-01 19:16:40 | [mtgcolor](https://crates.io/crates/mtgcolor) | 0.1.0 | 0 | Magic: The Gathering colors and color sets: parse Scryfall color syntax, compar… |
+| 2026-11-01 19:20:39 | [bunnysdk](https://crates.io/crates/bunnysdk) | 0.1.0 | 0 | Unofficial async Rust SDK for the bunny.net APIs: CDN, DNS, Storage, Stream, Sh… |
+| 2026-11-01 19:21:39 | [ravenrs-graphics](https://crates.io/crates/ravenrs-graphics) | 27.1.1 | 0 | Vector shapes, chart layout and barcodes for RavenRS: logic shared by reports,… |
+| 2026-11-01 19:21:55 | [ravenrs-report-export](https://crates.io/crates/ravenrs-report-export) | 27.1.1 | 0 | One way to turn a RavenRS report document into a file: PDF, XLSX or CSV, with i… |
+| 2026-11-01 19:21:59 | [ravenrs-report-server](https://crates.io/crates/ravenrs-report-server) | 27.1.1 | 0 | Report server for RavenRS Reporting: stores layouts, renders over HTTP and deli… |
+| 2026-11-01 19:22:00 | [ravenrs-report-viewer](https://crates.io/crates/ravenrs-report-viewer) | 27.1.1 | 0 | Document viewer for RavenRS Reporting: pages, zoom, thumbnails, text search and… |
+| 2026-11-01 19:23:43 | [laminapdf-render](https://crates.io/crates/laminapdf-render) | 0.0.0 | 0 | Reserved for lamina, a PDF library. Not yet released. |
+| 2026-11-01 19:24:10 | [knxide-proxy](https://crates.io/crates/knxide-proxy) | 0.1.0 | 0 | KNXnet/IP tunnelling proxy: one tunnel to a real gateway, shared by any number… |
+| 2026-11-01 19:24:20 | [known-codepages](https://crates.io/crates/known-codepages) | 0.0.1 | 0 | Single-byte DOS and Windows code pages, decoded by table. |
+| 2026-11-01 19:24:26 | [jellyfin-client](https://crates.io/crates/jellyfin-client) | 0.1.0 | 0 | Headless async Jellyfin HTTP client: Quick Connect, library browsing, PlaybackI… |
+| 2026-11-01 19:29:02 | [gedcli](https://crates.io/crates/gedcli) | 0.1.0 | 0 | Browse, check and edit GEDCOM family trees: a terminal UI, ancestor and descend… |
+| 2026-11-01 19:29:17 | [craft-dbstrip](https://crates.io/crates/craft-dbstrip) | 0.1.0 | 0 | Removes personal data (forms, shop, customers, sessions) from a mysqldump of a… |
+| 2026-11-01 19:33:07 | [laminapdf-render-pdfium](https://crates.io/crates/laminapdf-render-pdfium) | 0.0.0 | 0 | Reserved for lamina, a PDF library. Not yet released. |
+| 2026-11-01 19:33:11 | [scriptport](https://crates.io/crates/scriptport) | 0.0.1 | 0 | TypeScript scripting for Rust applications with typed callbacks and streams |
+| 2026-11-01 19:34:37 | [ffcine-core](https://crates.io/crates/ffcine-core) | 0.1.0 | 0 | ffcine core types: errors, colour spaces, 3D LUTs, media info, 2D geometry |
+| 2026-11-01 19:34:45 | [ffcine-timeline](https://crates.io/crates/ffcine-timeline) | 0.1.0 | 0 | ffcine timeline: OTIO JSON model, ffcine metadata namespace, project grade laye… |
+| 2026-11-01 19:35:04 | [ffcine-audio](https://crates.io/crates/ffcine-audio) | 0.1.0 | 0 | Per-timeline audio: recorder sync, clean chain, R128 levelling, buses with duck… |
+| 2026-11-01 19:35:13 | [ffcine-filters](https://crates.io/crates/ffcine-filters) | 0.1.0 | 0 | Frame filters (denoise, grain, ...) as Vulkan compute kernels that fuse into GP… |
+| 2026-11-01 19:35:25 | [ffcine-stabilize](https://crates.io/crates/ffcine-stabilize) | 0.1.0 | 0 | GPU stabilizer: NVIDIA optical-flow detect, trajectory smoothing, warp hook |
+| 2026-11-01 19:42:28 | [sqlx-mssql-rs-core](https://crates.io/crates/sqlx-mssql-rs-core) | 0.1.0 | 0 | Core MSSQL driver for SQLx built on Microsoft's mssql-tds TDS implementation. |
+| 2026-11-01 19:42:31 | [sqlx-mssql-rs-cli](https://crates.io/crates/sqlx-mssql-rs-cli) | 0.1.0 | 0 | CLI tools for sqlx-mssql-rs. |
+| 2026-11-01 19:42:32 | [sqlx-mssql-rs-macros](https://crates.io/crates/sqlx-mssql-rs-macros) | 0.1.0 | 0 | Proc macro support for sqlx-mssql-rs. |
+| 2026-11-01 19:42:34 | [sqlx-mssql-rs](https://crates.io/crates/sqlx-mssql-rs) | 0.1.0 | 0 | MSSQL driver for SQLx built on Microsoft's mssql-tds TDS implementation. |
+| 2026-11-01 19:43:41 | [ffcine-libplacebo-sys](https://crates.io/crates/ffcine-libplacebo-sys) | 0.1.0 | 0 | Raw FFI bindings to libplacebo (bindgen), Vulkan backend |
+| 2026-11-01 19:46:23 | [bentobots](https://crates.io/crates/bentobots) | 0.0.1 | 0 | Building blocks for running autonomous agents on code review tasks. |
+| 2026-11-01 19:46:48 | [gremlink](https://crates.io/crates/gremlink) | 0.0.1 | 0 | Tools for scoring automated security-audit findings against an audit key. |
+| 2026-11-01 19:53:48 | [ffcine-render](https://crates.io/crates/ffcine-render) | 0.1.0 | 0 | ffcine render path: Pipeline, Grade, encoder settings, and the ffmpeg + libplac… |
+| 2026-11-01 19:55:13 | [bloom-macro](https://crates.io/crates/bloom-macro) | 0.2.0 | 0 | Procedural Macros for the bloom ecosystem |
+| 2026-11-01 19:56:43 | [dawkey-listen](https://crates.io/crates/dawkey-listen) | 0.1.0 | 0 | Dawkey's descriptions of audio for agents that can't hear it: spectra, pitch, r… |
+| 2026-11-01 19:56:54 | [laminapdf-source](https://crates.io/crates/laminapdf-source) | 0.0.0 | 0 | Reserved for lamina, a PDF library. Not yet released. |
+| 2026-11-01 19:56:57 | [laminapdf-wasm](https://crates.io/crates/laminapdf-wasm) | 0.0.0 | 0 | Reserved for lamina, a PDF library. Not yet released. |
+| 2026-11-01 19:58:12 | [jackdaw-wf-macros](https://crates.io/crates/jackdaw-wf-macros) | 0.2.0 | 0 | Procedural macros for the jackdaw durable workflow engine (#[task], #[workflow]… |
+| 2026-11-01 19:58:14 | [jackdaw-wf](https://crates.io/crates/jackdaw-wf) | 0.2.0 | 0 | A durable, cached, graph-based execution engine for the Open Workflow DSL (form… |
+| 2026-11-01 19:58:16 | [jackdaw-cli](https://crates.io/crates/jackdaw-cli) | 0.2.0 | 0 | Command-line interface for the jackdaw durable workflow engine |
+| 2026-11-01 20:03:14 | [laminapdf-render-wasm](https://crates.io/crates/laminapdf-render-wasm) | 0.0.0 | 0 | Reserved for lamina, a PDF library. Not yet released. |
+| 2026-11-01 20:03:45 | [ffcine-reframe](https://crates.io/crates/ffcine-reframe) | 0.1.0 | 0 | Keyframed crops: punch-ins, push-ins, pans and vertical aspect windows |
+| 2026-11-01 20:06:26 | [kaniop-radius](https://crates.io/crates/kaniop-radius) | 0.21.0 | 0 | Kanidm RADIUS server management for the Kubernetes operator |
+| 2026-11-01 20:06:43 | [ghfetch-lite](https://crates.io/crates/ghfetch-lite) | 0.1.0 | 0 | A small GitHub profile fetcher for the terminal, with no Cargo dependencies |
+| 2026-11-01 20:06:53 | [olai-uc-sharing](https://crates.io/crates/olai-uc-sharing) | 0.0.1 | 0 | Sharing state for a Delta Sharing provider: shares, recipients, their bearer to… |
+| 2026-11-01 20:08:55 | [smarthive-identity](https://crates.io/crates/smarthive-identity) | 0.1.0 | 0 | Rust SDK for SmartHive IdentityCore: token verification, access checks, catalog… |
+| 2026-11-01 20:13:43 | [ffcine-text](https://crates.io/crates/ffcine-text) | 0.1.0 | 0 | ffcine.text generator clips: styles, cosmic-text layout, GPU overlays; .ass imp… |
+| 2026-11-01 20:14:27 | [procage-policy](https://crates.io/crates/procage-policy) | 0.1.0 | 0 | Portable sandbox policy for procage: the policy IR and its lowering to Seatbelt… |
 
 ## Data source
 

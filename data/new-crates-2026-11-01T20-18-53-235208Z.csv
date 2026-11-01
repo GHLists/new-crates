@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T19:20:39.252221Z,bunnysdk,0.1.0,0,0,https://github.com/rkwap/bunnysdk-rs,"Unofficial async Rust SDK for the bunny.net APIs: CDN, DNS, Storage, Stream, Shield, Edge Scripting, Magic Containers, Database"
+2026-11-01T19:21:39.742563Z,ravenrs-graphics,27.1.1,0,0,https://github.com/alexkads/RavenRS,"Vector shapes, chart layout and barcodes for RavenRS: logic shared by reports, the UI and anything else that draws them."
+2026-11-01T19:21:55.909523Z,ravenrs-report-export,27.1.1,0,0,https://github.com/alexkads/RavenRS,"One way to turn a RavenRS report document into a file: PDF, XLSX or CSV, with its name and media type."
+2026-11-01T19:21:59.801667Z,ravenrs-report-server,27.1.1,0,0,https://github.com/alexkads/RavenRS,"Report server for RavenRS Reporting: stores layouts, renders over HTTP and delivers scheduled reports as PDF, XLSX or CSV."
+2026-11-01T19:22:00.393224Z,ravenrs-report-viewer,27.1.1,0,0,https://github.com/alexkads/RavenRS,"Document viewer for RavenRS Reporting: pages, zoom, thumbnails, text search and a parameter panel, on desktop and the web."
+2026-11-01T19:23:43.193533Z,laminapdf-render,0.0.0,0,0,,"Reserved for lamina, a PDF library. Not yet released."
+2026-11-01T19:24:10.605246Z,knxide-proxy,0.1.0,0,0,https://github.com/pakerfeldt/knxide,"KNXnet/IP tunnelling proxy: one tunnel to a real gateway, shared by any number of clients."
+2026-11-01T19:24:20.316698Z,known-codepages,0.0.1,0,0,https://github.com/artob/filer,"Single-byte DOS and Windows code pages, decoded by table."
+2026-11-01T19:24:26.142748Z,jellyfin-client,0.1.0,0,0,https://github.com/Josh-Archer/questkit,"Headless async Jellyfin HTTP client: Quick Connect, library browsing, PlaybackInfo and device profiles, session reporting"
+2026-11-01T19:29:02.756802Z,gedcli,0.1.0,0,0,https://github.com/oroulet/gedcli,"Browse, check and edit GEDCOM family trees: a terminal UI, ancestor and descendant trees and charts, relationship names, data checks, file comparison and HTML export"
+2026-11-01T19:29:17.955338Z,craft-dbstrip,0.1.0,0,0,https://github.com/chuchi-dev/craft-dbstrip,"Removes personal data (forms, shop, customers, sessions) from a mysqldump of a Craft CMS site"
+2026-11-01T19:33:07.318959Z,laminapdf-render-pdfium,0.0.0,0,0,,"Reserved for lamina, a PDF library. Not yet released."
+2026-11-01T19:33:11.591372Z,scriptport,0.0.1,0,0,,TypeScript scripting for Rust applications with typed callbacks and streams
+2026-11-01T19:34:37.236559Z,ffcine-core,0.1.0,0,0,https://github.com/macalinao/ffcine,"ffcine core types: errors, colour spaces, 3D LUTs, media info, 2D geometry"
+2026-11-01T19:34:45.03224Z,ffcine-timeline,0.1.0,0,0,https://github.com/macalinao/ffcine,"ffcine timeline: OTIO JSON model, ffcine metadata namespace, project grade layering"
+2026-11-01T19:35:04.413057Z,ffcine-audio,0.1.0,0,0,https://github.com/macalinao/ffcine,"Per-timeline audio: recorder sync, clean chain, R128 levelling, buses with ducking, master limiter"
+2026-11-01T19:35:13.679683Z,ffcine-filters,0.1.0,0,0,https://github.com/macalinao/ffcine,"Frame filters (denoise, grain, ...) as Vulkan compute kernels that fuse into GPU passes"
+2026-11-01T19:35:25.297065Z,ffcine-stabilize,0.1.0,0,0,https://github.com/macalinao/ffcine,"GPU stabilizer: NVIDIA optical-flow detect, trajectory smoothing, warp hook"
+2026-11-01T19:42:28.275398Z,sqlx-mssql-rs-core,0.1.0,0,0,https://github.com/strawberyy-coconut/sqlx-mssql-rs,Core MSSQL driver for SQLx built on Microsoft's mssql-tds TDS implementation.
+2026-11-01T19:42:31.212208Z,sqlx-mssql-rs-cli,0.1.0,0,0,https://github.com/strawberyy-coconut/sqlx-mssql-rs,CLI tools for sqlx-mssql-rs.
+2026-11-01T19:42:32.078151Z,sqlx-mssql-rs-macros,0.1.0,0,0,https://github.com/strawberyy-coconut/sqlx-mssql-rs,Proc macro support for sqlx-mssql-rs.
+2026-11-01T19:42:34.859275Z,sqlx-mssql-rs,0.1.0,0,0,https://github.com/strawberyy-coconut/sqlx-mssql-rs,MSSQL driver for SQLx built on Microsoft's mssql-tds TDS implementation.
+2026-11-01T19:43:41.606622Z,ffcine-libplacebo-sys,0.1.0,0,0,https://github.com/macalinao/ffcine,"Raw FFI bindings to libplacebo (bindgen), Vulkan backend"
+2026-11-01T19:46:23.596268Z,bentobots,0.0.1,0,0,,Building blocks for running autonomous agents on code review tasks.
+2026-11-01T19:46:48.299478Z,gremlink,0.0.1,0,0,,Tools for scoring automated security-audit findings against an audit key.
+2026-11-01T19:53:48.246163Z,ffcine-render,0.1.0,0,0,https://github.com/macalinao/ffcine,"ffcine render path: Pipeline, Grade, encoder settings, and the ffmpeg + libplacebo (Vulkan) backend"
+2026-11-01T19:55:13.126114Z,bloom-macro,0.2.0,0,0,https://github.com/mismosmi/bloom/tree/main/bloom-macro,Procedural Macros for the bloom ecosystem
+2026-11-01T19:56:43.369141Z,dawkey-listen,0.1.0,0,0,https://github.com/quonic/dawkey.git,"Dawkey's descriptions of audio for agents that can't hear it: spectra, pitch, rhythm, reports and pictures"
+2026-11-01T19:56:54.121039Z,laminapdf-source,0.0.0,0,0,,"Reserved for lamina, a PDF library. Not yet released."
+2026-11-01T19:56:57.087713Z,laminapdf-wasm,0.0.0,0,0,,"Reserved for lamina, a PDF library. Not yet released."
+2026-11-01T19:58:12.736143Z,jackdaw-wf-macros,0.2.0,0,0,https://github.com/arminhammer/jackdaw,"Procedural macros for the jackdaw durable workflow engine (#[task], #[workflow], #[catalog])"
+2026-11-01T19:58:14.429241Z,jackdaw-wf,0.2.0,0,0,https://github.com/arminhammer/jackdaw,"A durable, cached, graph-based execution engine for the Open Workflow DSL (formerly Serverless Workflow)"
+2026-11-01T19:58:16.660709Z,jackdaw-cli,0.2.0,0,0,https://github.com/arminhammer/jackdaw,Command-line interface for the jackdaw durable workflow engine
+2026-11-01T20:03:14.308608Z,laminapdf-render-wasm,0.0.0,0,0,,"Reserved for lamina, a PDF library. Not yet released."
+2026-11-01T20:03:45.270003Z,ffcine-reframe,0.1.0,0,0,https://github.com/macalinao/ffcine,"Keyframed crops: punch-ins, push-ins, pans and vertical aspect windows"
+2026-11-01T20:06:26.89864Z,kaniop-radius,0.21.0,0,0,https://github.com/pando85/kanidm-operator,Kanidm RADIUS server management for the Kubernetes operator
+2026-11-01T20:06:43.156004Z,ghfetch-lite,0.1.0,0,0,https://github.com/EriksRemess/ghfetch-lite,"A small GitHub profile fetcher for the terminal, with no Cargo dependencies"
+2026-11-01T20:06:53.05256Z,olai-uc-sharing,0.0.1,0,0,https://github.com/open-lakehouse/mangrove,"Sharing state for a Delta Sharing provider: shares, recipients, their bearer tokens and the grants between them, with activation codes and key rotation."
+2026-11-01T20:08:55.844413Z,smarthive-identity,0.1.0,0,0,https://github.com/dhopegraphics/SmartHive-IdentitySDK,"Rust SDK for SmartHive IdentityCore: token verification, access checks, catalog and system registration, and signed Workspace handoffs."
+2026-11-01T20:13:43.353328Z,ffcine-text,0.1.0,0,0,https://github.com/macalinao/ffcine,"ffcine.text generator clips: styles, cosmic-text layout, GPU overlays; .ass import"
+2026-11-01T20:14:27.479618Z,procage-policy,0.1.0,0,0,https://github.com/hupe1980/procage,Portable sandbox policy for procage: the policy IR and its lowering to Seatbelt and Linux plans
