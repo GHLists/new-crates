@@ -1,0 +1,28 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-10-31T23:21:58.016487Z,bibsmith,0.1.1,0,0,https://github.com/marceanlabs/bibsmith,"Write the .bbl biblatex typesets, in Rust, without Perl or a TeX install"
+2026-10-31T23:26:31.560408Z,kelp-client,0.1.0,0,0,https://github.com/EvanLuo42/kelp,"Kelp client library: server connections, content cache and workspace operations."
+2026-10-31T23:31:12.440472Z,triton-ng-client,0.1.0,0,0,https://github.com/rdcm/triton-ng,Async gRPC client for NVIDIA Triton Inference Server.
+2026-10-31T23:31:13.618784Z,triton-ng-macros,0.1.0,0,0,https://github.com/rdcm/triton-ng,Procedural macros for triton-ng.
+2026-10-31T23:31:14.6985Z,triton-ng-sys,0.1.0,0,0,https://github.com/rdcm/triton-ng,Raw FFI bindings to the NVIDIA Triton Inference Server backend C API.
+2026-10-31T23:31:18.531365Z,triton-ng,0.1.0,0,0,https://github.com/rdcm/triton-ng,Safe Rust API for writing custom NVIDIA Triton Inference Server backends.
+2026-10-31T23:34:47.890302Z,viewtally,0.1.0,0,0,https://github.com/nylla8444/viewtally-rust,"A privacy-friendly page-view counter for personal websites, running on Cloudflare Workers and D1"
+2026-10-31T23:35:17.041399Z,rs-bat2sqlite,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-bat2sqlite,Inserts the record batch to the sqlite table.
+2026-10-31T23:35:40.430848Z,epdpi,0.1.0,0,0,https://github.com/melastmohican/epdpi,"no_std embedded-hal 1.0 compatible Rust driver framework, blocking or async, for raw-parallel Electronic Paper Displays (EPD): ED047TC1 on M5Stack PaperDIY"
+2026-10-31T23:37:13.933066Z,satisfy,0.1.0,0,0,https://github.com/miam-miam/satisfy,Trait-based dependency injection container using a compile-time checked dependency graph
+2026-10-31T23:37:41.34264Z,epdpi-esp,0.1.0,0,0,https://github.com/melastmohican/epdpi,ESP32 parallel buses for the epdpi e-paper driver: LCD_CAM with DMA and register-level GPIO (ESP32-S3 tested)
+2026-10-31T23:41:40.137372Z,ibt,2.0.0,0,0,https://github.com/nervosys/IronBlockTransfer,"IronBlockTransfer — agentic-first CLI successor to dd, human-first GUI/TUI successor to balenaEtcher, Ventoy, Rufus, Fedora Media Writer, and rpi-imager"
+2026-10-31T23:42:04.534525Z,itp-core,3.0.0,0,0,https://github.com/nervosys/IronTextProcessor,Core library for the Iron Text Processor
+2026-10-31T23:44:13.199695Z,itp-cli,3.0.0,0,0,https://github.com/nervosys/IronTextProcessor,Iron Text Processor — CLI binary
+2026-10-31T23:45:51.161Z,itp-lsp,3.0.0,0,0,https://github.com/nervosys/IronTextProcessor,Language Server Protocol integration for ITP Query Language
+2026-10-31T23:47:35.299457Z,itp-tui,3.0.0,0,0,https://github.com/nervosys/IronTextProcessor,Iron Text Processor — Terminal User Interface
+2026-10-31T23:49:17.252098Z,itp-gui,3.0.0,0,0,https://github.com/nervosys/IronTextProcessor,Iron Text Processor — Graphical User Interface
+2026-10-31T23:50:36.56503Z,kelp-daemon,0.1.0,0,0,https://github.com/EvanLuo42/kelp,"The engine of kelpd: runs workspace operations, watches workspaces and hosts projections."
+2026-10-31T23:50:37.320351Z,kelp-sdk,0.1.0,0,0,https://github.com/EvanLuo42/kelp,C ABI for engine and DCC integrations.
+2026-10-31T23:51:37.28577Z,raw-ether,0.1.0,0,0,https://github.com/scrambletools/gptp,"Raw Ethernet on Linux, macOS and Windows: MAC addresses, interfaces, frames with hardware time stamps, PTP hardware clocks and captures"
+2026-10-31T23:51:48.588657Z,gptp,0.1.0,0,0,https://github.com/scrambletools/gptp,"IEEE 802.1AS gPTP without I/O: messages, link, relay and end station, grandmaster, the AVB Lite PTP profile, and the time mapping and status gptpd gives applications"
+2026-10-31T23:53:27.050666Z,itp-wasm,3.0.0,0,0,https://github.com/nervosys/IronTextProcessor,WebAssembly bindings for the Iron Text Processor
+2026-11-01T00:13:11.693247Z,mtindo,0.1.0,0,0,https://github.com/Vukabit/mtindo,"Formats Rust files as the standard formatter writes them, and lays out their items on request: std only, every write checked"
+2026-11-01T00:14:23.879585Z,pixcore,0.2.0,0,0,https://github.com/lariocpt/pixelated-papers,"Core pixelation, placement, and library logic for pixelated-papers (no wayland)"
+2026-11-01T00:14:51.055148Z,pixpapers,0.2.0,0,0,https://github.com/lariocpt/pixelated-papers,Forced-pixelation wallpapers for niri and other wayland compositors
+2026-11-01T00:18:37.671347Z,apeireth-ui-core,2.0.0-rc.5,0,0,https://github.com/Apeireth/Apeireth,Apeireth UI 引擎响应式核心：信号 / 派生 / 依赖图 / 调度器 / effect / 作用域
+2026-11-01T00:20:03.42603Z,apeireth-ui-dom,2.0.0-rc.5,0,0,https://github.com/Apeireth/Apeireth,Apeireth UI 引擎 DOM 绑定层：虚拟节点 / 后端抽象 / 差分 / 事件委托 / 双向绑定
