@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T16:19:15.706663Z,blank-web,0.1.0,0,0,https://github.com/its-kyam/blank,"A lightning-fast web framework where DX is as important as UX, Self implemented Co-Routines"
+2026-11-01T16:21:33.775336Z,rightkit-ai-accounts,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"AI assistant account management for Claude: Desktop login slots and switching, chat sync and mirroring between accounts, command-line account folders, and account names."
+2026-11-01T16:22:20.921667Z,rightkit-agent-recipes,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Agent recipes: reusable, parameterised task recipes with validation"
+2026-11-01T16:23:03.321915Z,rightkit-adapt-taste,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Governed behavioural learning from agent transcripts (taste preferences and insights), deterministic and model-free."
+2026-11-01T16:23:12.228359Z,xtws-tui,0.1.1,0,0,https://github.com/bh8guq/xtws-tui,A Rust TUI terminal monitor for FT8/FT4 weak-signal decodes and QSO tracking
+2026-11-01T16:24:27.798077Z,ttfun,0.1.1,0,0,https://github.com/qtfkwk/ttfun,Render text and images to Unicode characters
+2026-11-01T16:24:40.327361Z,brynja-legacy-md5-std,0.1.0,0,0,https://github.com/valkyoth/brynja,Opt-in host detection and fail-closed selection for legacy MD5
+2026-11-01T16:25:28.804021Z,unofficial-osmo-camera,0.1.0,0,0,https://github.com/mcroomp/osmo-gstreamer,Unofficial Rust library for Osmo Nano camera interoperability
+2026-11-01T16:25:33.656545Z,gst-plugin-unofficial-osmo,0.1.0,0,0,https://github.com/mcroomp/osmo-gstreamer,Unofficial Osmo Nano camera GStreamer source
+2026-11-01T16:27:45.529075Z,ras-spec-components,0.1.0,0,0,https://github.com/JedimEmO/rust-api-stack,Schema and example code that the Rust API Stack service macros embed in generated OpenRPC and OpenAPI documents
+2026-11-01T16:28:10.22225Z,zmux-shaping,1.2.5,0,0,https://github.com/zmuxio/zmux-rs,A zmux Shaper driven by state machines read from a versioned definition
+2026-11-01T16:36:00.812937Z,brynja-legacy-hmac-std,0.1.0,0,0,https://github.com/valkyoth/brynja,Explicit hosted protected-memory owners for legacy HMAC compatibility
+2026-11-01T16:37:35.126942Z,poring-macros,0.1.0,0,0,https://github.com/reinacchi/poring,Procedural macros for the poring web framework. Use them through the `poring` crate.
+2026-11-01T16:37:35.449042Z,ras-jsonrpc-types,0.3.0,0,0,https://github.com/JedimEmO/rust-api-stack,JSON-RPC 2.0 protocol types and utilities
+2026-11-01T16:38:10.271246Z,poring,0.1.0,0,0,https://github.com/reinacchi/poring,Ergonomic Rust web framework built on Tokio and Hyper.
+2026-11-01T16:40:11.257388Z,pamin-kit,0.1.0,0,0,https://github.com/pamin-labs/pamin-kit,"The framework every Pamin module is built on: the Module trait, operation registration with entitlements, MCP serving over stdio and Streamable HTTP, and a conformance suite."
+2026-11-01T16:41:00.797185Z,wasmgc-macros,0.0.0,0,0,,Procedural macros for wasmgc
+2026-11-01T16:41:37.178526Z,wasmgc,0.0.0,0,0,https://github.com/Spxg/wasmgc,WasmGC types for Rust with a post-link toolchain
+2026-11-01T16:44:42.87045Z,rightkit-agent-gateway,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Local agent gateway for a mail-style app: pairing registry, append-only audit log, request gate profiles and untrusted-content wrapping, over a host-implemented connection trait."
+2026-11-01T16:45:48.758798Z,rightkit-agent-plugins,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Agent plugin manifests, discovery and loader"
+2026-11-01T16:47:39.778655Z,ras-jsonrpc-bidirectional-types,0.3.0,0,0,https://github.com/JedimEmO/rust-api-stack,Shared types for bidirectional JSON-RPC clients and servers
+2026-11-01T16:55:11.734186Z,rconfig,0.1.0,0,0,https://github.com/Bas3L3ss/rconfig,A configuration language parser and formatter
+2026-11-01T16:57:00.245482Z,boxwhelk,0.1.0,0,0,https://github.com/saimskywalker/boxwhelk,"Parse and build CENC 'pssh' boxes and HLS EXT-X-KEY tags, with optional AES-128-CBC segment helpers"
+2026-11-01T16:57:38.105345Z,ras-jsonrpc-bidirectional-client,0.4.0,0,0,https://github.com/JedimEmO/rust-api-stack,Cross-platform WebSocket client for bidirectional JSON-RPC communication
+2026-11-01T16:59:03.790952Z,nitroget,0.1.0,0,0,https://github.com/pepperoni21/nitroget,A Wayland desktop widget engine with .nitroget components
+2026-11-01T17:01:17.101306Z,alcaide-core,0.2.0,0,0,https://github.com/PabloVeraH/alcaide,"Deterministic, auditable prompt-injection detection for LLM inputs — no network dependencies"
+2026-11-01T17:01:18.714552Z,alcaide-cli,0.2.0,0,0,https://github.com/PabloVeraH/alcaide,"Command-line interface for Alcaide, a deterministic prompt-injection firewall"
+2026-11-01T17:06:56.523538Z,riir-gui-battery-pack,0.1.0,0,0,https://github.com/PacktPublishing/Rewrite-it-in-Rust_Andrew-Gauger,"Part 2 of the riir battery pack: an egui GUI (desktop first, tablets later) backed by Postgres over sqlx -- companion crate curation for Rewrite It in Rust, Part II (The Database)"
+2026-11-01T17:07:39.635927Z,ras-jsonrpc-bidirectional-server,0.4.0,0,0,https://github.com/JedimEmO/rust-api-stack,WebSocket server implementation for bidirectional JSON-RPC communication
+2026-11-01T17:09:38.424576Z,emulatron-chips,0.1.0,0,0,https://github.com/sunsided/emulatron,U855 PIO and U857 CTC (Z80 PIO/CTC clones) with daisy-chain interrupts
+2026-11-01T17:09:46.802406Z,brynja-hash-parallel,0.1.0,0,0,https://github.com/valkyoth/brynja,First-party no_std ParallelHash and ParallelHashXOF implementations for Brynja
+2026-11-01T17:10:17.620337Z,filer-ar,0.0.1,0,0,https://github.com/artob/filer,Read-only ar archive driver for the Filer API.
+2026-11-01T17:10:18.747774Z,filer-cpio,0.0.1,0,0,https://github.com/artob/filer,Read-only cpio archive driver for the Filer API.
+2026-11-01T17:10:19.642429Z,filer-rar,0.0.1,0,0,https://github.com/artob/filer,Read-only RAR archive driver for the Filer API.
+2026-11-01T17:10:24.402846Z,brynja-hash-parallel-std,0.1.0,0,0,https://github.com/valkyoth/brynja,Optional bounded std executor for Brynja ParallelHash
+2026-11-01T17:10:32.311723Z,nat-lab,0.1.0,0,0,https://github.com/lxl66566/punch-hole,Emulated NAT devices for testing UDP traversal code: a deterministic virtual network and a loopback NAT over real OS sockets
+2026-11-01T17:10:45.481174Z,brynja-strict,0.1.0,0,0,https://github.com/valkyoth/brynja,Strict-only protected cryptography facade with fallible platform admission
+2026-11-01T17:10:56.208142Z,punch-hole,0.1.0,0,0,https://github.com/lxl66566/punch-hole,Signaling-agnostic UDP hole punching primitives
+2026-11-01T17:12:47.235733Z,osbrowser,0.5.0,0,0,https://github.com/opensitez/osbrowser,"webcore's API, driving the system browser: the same Document, window, events and canvas, rendered by Chrome, Firefox or Safari"
+2026-11-01T17:17:37.376504Z,ras-jsonrpc-bidirectional-macro,0.3.0,0,0,https://github.com/JedimEmO/rust-api-stack,Procedural macro for bidirectional JSON-RPC services
