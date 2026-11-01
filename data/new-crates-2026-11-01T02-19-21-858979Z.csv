@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T01:19:57.868366Z,tv-rs-cast,0.6.0,0,0,https://github.com/Zakarialabib/tv-rs,Google Cast sender implementation for smart TVs and Chromecasts
+2026-11-01T01:21:00.970015Z,solana_kit_surfpool,0.0.0,0,0,https://github.com/pina-rs/solana_kit/tree/main/crates/solana_kit_surfpool,Portable typed Surfpool cheatcodes for off-chain Solana clients
+2026-11-01T01:24:29.267642Z,insite-sigc,0.1.0,0,0,https://github.com/jospnunes/insite,Compiles webappanalyzer technology signatures into the insite detection index
+2026-11-01T01:24:33.032522Z,insite-core,0.1.0,0,0,https://github.com/jospnunes/insite,Collection and analysis engine behind the insite CLI
+2026-11-01T01:24:36.326529Z,insite,0.1.0,0,0,https://github.com/jospnunes/insite,"Full X-ray of a website from the terminal: network, TLS, DNS, stack, security, SEO and weight"
+2026-11-01T01:26:06.729838Z,ferroui-livecharts,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"LiveCharts2 chart calculation, geometry, interaction and animation for FerroUI"
+2026-11-01T01:27:26.158615Z,tv-rs-bluetooth,0.6.0,0,0,https://github.com/Zakarialabib/tv-rs,Bluetooth HID keyboard and BLE remote control emulation for TV devices.
+2026-11-01T01:27:45.225921Z,cap-hash,0.1.0,0,0,https://github.com/z-biz-tool/z-biz-tool-capability,哈希原语：FNV-1a 32 位与 CRC-32/IEEE（字节进→数值出，无状态、零依赖）
+2026-11-01T01:28:21.589244Z,ravenrs-platform-web,0.1.0,0,0,https://github.com/alexkads/RavenRS,RavenRS browser backend: a <canvas> rendered with WebGPU from WebAssembly.
+2026-11-01T01:30:46.910168Z,pulldeck-core,0.1.0,0,0,https://github.com/bootswithdefer/pulldeck,GitHub auth and pull request client for pulldeck
+2026-11-01T01:30:48.737522Z,pulldeck,0.1.0,0,0,https://github.com/bootswithdefer/pulldeck,KDE-friendly GitHub pull request tracker (Rust + Qt)
+2026-11-01T01:31:46.531297Z,oauth2-actix,0.1.0,0,0,https://codeberg.org/Konvoy-Dev/actix-oauth,OAuth2 authorization code flow with Actix Web
+2026-11-01T01:36:00.91058Z,heretic-http,0.1.0,0,0,https://codeberg.org/jzbor/heretic-lisp,http utilities for heretic projects
+2026-11-01T01:36:01.677569Z,heretic-lisp,0.1.0,0,0,https://codeberg.org/jzbor/heretic-lisp,an unconventional lisp
+2026-11-01T01:36:04.208535Z,heretic-markup,0.1.0,0,0,https://codeberg.org/jzbor/heretic-lisp,The unholy markup environment
+2026-11-01T01:36:05.047303Z,heretic-posix,0.1.0,0,0,https://codeberg.org/jzbor/heretic-lisp,POSIX extensions for the heretic lisp
+2026-11-01T01:36:06.367479Z,heretic-webrepl,0.1.0,0,0,https://codeberg.org/jzbor/heretic-lisp,A webrepl for the heretic lisp
+2026-11-01T01:37:23.373537Z,ferroui-pretext-media,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,FerroUI font and shaping services for prepared text
+2026-11-01T01:38:59.599758Z,ravenrs,0.1.0,0,0,https://github.com/alexkads/RavenRS,"RavenRS: beautiful native interfaces, powered by Rust. One declarative UI for desktop and WebAssembly, drawn on the GPU."
+2026-11-01T01:41:33.802547Z,fieldglass-zarr,0.6.0,0,0,https://github.com/D0ubleD0uble/fieldglass,"Zarr v2 and v3 stores: walks a store, reads any region of an array, and decodes its chunks, including blosc and sharding. Fetches nothing itself."
+2026-11-01T01:41:54.478377Z,fieldglass-fetchplan,0.6.0,0,0,https://github.com/D0ubleD0uble/fieldglass,"Works out which bytes of a remote weather file to fetch, from the index published beside it: a wgrib2 .idx, an ECMWF .index, kerchunk references or Zarr metadata. It does no I/O itself."
+2026-11-01T01:42:10.278433Z,fieldglass,0.6.0,0,0,https://github.com/D0ubleD0uble/fieldglass,"Opens GRIB, NetCDF and Zarr weather data in pure Rust: read its fields, place them on the Earth, and draw them as maps."
+2026-11-01T01:46:44.907007Z,bonefish-sycl-emit,0.0.0,0,0,,Reserved name for a SYCL kernel emitter in the BoneFish project. No code yet.
+2026-11-01T01:46:58.003004Z,bonefish-sycl-parse,0.0.0,0,0,,Reserved name for a SYCL front end (parser) in the BoneFish project. No code yet.
+2026-11-01T01:48:26.718148Z,ferroui-protranslate-build,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,Deterministic typed translation catalog generation and localization diagnostics for FerroUI
+2026-11-01T01:53:44.313634Z,picam-rs,0.1.0,0,0,https://github.com/jewaniuk/picam-rs,A safe Rust wrapper around the Teledyne Princeton Instruments PICam camera API
+2026-11-01T01:54:05.758956Z,nitop,0.2.1,0,0,https://github.com/cpknight/nitop,A btop-style terminal monitor for network interfaces
+2026-11-01T01:59:42.760152Z,ferroui-dependency-injection,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Microsoft.Extensions.DependencyInjection for Rust: thread-local services, scopes, keyed resolution and constructor factories, independent of the user interface"
+2026-11-01T02:10:56.059207Z,ferroui-static-view-locator,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"View locators generated at build time for FerroUI: view models mapped to views by naming convention, contracts and explicit mappings, without reflection"
+2026-11-01T02:17:28.266232Z,baijimu-issue-definition-contract,2.0.0,0,0,https://gitee.com/zxflimit/issue-definition,"Immutable Issue definition package identities, documents and member references"
