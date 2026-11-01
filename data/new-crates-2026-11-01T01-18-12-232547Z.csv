@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T00:21:14.211205Z,apeireth-ui-gpu,2.0.0-rc.5,0,0,https://github.com/Apeireth/Apeireth,Apeireth UI 引擎 GPU 桥：GLSL 前置变换 + uniform 绑定表 + 双后端渲染入口
+2026-11-01T00:21:56.992811Z,apeireth-ui-macro,2.0.0-rc.5,0,0,https://github.com/Apeireth/Apeireth,Apeireth UI 引擎过程宏：#[component] 组件声明宏
+2026-11-01T00:22:47.714533Z,apeireth-ui-kit,2.0.0-rc.5,0,0,https://github.com/Apeireth/Apeireth,Apeireth UI 引擎组件库：共享组件的 Rust 重写 + 组件注册表
+2026-11-01T00:25:02.975029Z,gtfs-mcp,0.2.0,0,0,https://github.com/sohampatwardhan/gtfs-mcp,MCP server for GTFS static schedules and optional GTFS-Realtime feeds
+2026-11-01T00:27:41.046454Z,apeireth-ui,2.0.0-rc.5,0,0,https://github.com/Apeireth/Apeireth,Apeireth UI 引擎门面：re-export 响应式核心 / DOM 绑定 / GPU 桥 / 组件库
+2026-11-01T00:28:26.691945Z,sortant,0.0.0,0,0,,Reserved name for SortAnt: ranking and rank-list integration for Rust. No code yet.
+2026-11-01T00:37:35.304183Z,crawlberg-chromiumoxide-fetcher,0.9.2,0,0,https://github.com/xberg-io/crawlberg,Crawlberg browser fetcher with protected ZIP extraction
+2026-11-01T00:39:24.556723Z,cratebook,0.1.1,0,0,https://github.com/kahwee/cratebook,"An interactive component gallery for Rust and GPUI, on macOS and the web."
+2026-11-01T00:41:09.799365Z,ferroui-pretext-contracts,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,Backend contracts for prepared text and glyph output
+2026-11-01T00:41:12.961386Z,ferroui-pretext,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Reusable text preparation, Unicode wrapping and rich inline layout"
+2026-11-01T00:41:15.316478Z,ferroui-pretext-layout,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,Platform-neutral wrap metrics and obstacle-aware column flow for prepared text
+2026-11-01T00:41:17.51782Z,ferroui-protranslate-core,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Framework-independent translation, culture and globalization services for FerroUI"
+2026-11-01T00:41:19.930576Z,ferroui-protranslate-formats,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,Loss-aware localization catalog import and export for ProTranslate
+2026-11-01T00:47:20.669865Z,ravenrs-core,0.1.0,0,0,https://github.com/alexkads/RavenRS,"Geometry, color, input events and the display list shared by every RavenRS crate."
+2026-11-01T00:47:21.465097Z,ravenrs-reactive,0.1.0,0,0,https://github.com/alexkads/RavenRS,"Single-threaded reactive state for RavenRS: State, Binding, Derived and dependency-tracking observers."
+2026-11-01T00:47:23.859334Z,ravenrs-layout,0.1.0,0,0,https://github.com/alexkads/RavenRS,"RavenRS layout: a small, typed facade over Taffy's flexbox."
+2026-11-01T00:47:24.626039Z,ravenrs-style,0.1.0,0,0,https://github.com/alexkads/RavenRS,"RavenRS design tokens and the Raven Dark, Raven Light and Raven Glass themes."
+2026-11-01T00:47:25.995234Z,ravenrs-text,0.1.0,0,0,https://github.com/alexkads/RavenRS,"RavenRS text: shaping and line layout with Parley, with the Inter font embedded."
+2026-11-01T00:47:46.607127Z,cortexkit-presence,0.1.0,0,0,https://github.com/cortexkit/commons,"Pure presence summaries and notification routing: where the person is, and whether an item goes to the desktop, the phone or nowhere."
+2026-11-01T00:51:41.212478Z,witforge,0.1.0,0,0,https://github.com/asamarts/witforge,A WIT-first contract compiler: generate plain Rust types and traits and a protobuf schema with stable field numbers from one WIT package.
+2026-11-01T00:51:43.102336Z,witforge-cli,0.1.0,0,0,https://github.com/asamarts/witforge,Command-line interface for witforge.
+2026-11-01T00:52:22.662511Z,ferroui-protranslate-studio,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,"Portable localization catalog editing, persistence and AI translation workflow"
+2026-11-01T00:52:30.351731Z,ferroui-static-view-locator-build,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,The generator of ferroui-static-view-locator: the build-script part that maps the view models of a crate to its views and writes the locators
+2026-11-01T00:58:34.863218Z,ravenrs-render,0.1.0,0,0,https://github.com/alexkads/RavenRS,"RavenRS GPU renderer: SDF quads, soft shadows, gradients and an atlas-based text pipeline on wgpu."
+2026-11-01T01:03:33.566292Z,ferroui-static-view-locator-macros,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,The attributes #[static_view_locator] and #[static_view_mapping] of ferroui-static-view-locator
+2026-11-01T01:06:56.567852Z,lasertag,0.2.0,0,0,https://github.com/featherbread/lasertag,Look for container image updates
+2026-11-01T01:07:47.639032Z,tv-rs-sim,0.6.0,0,0,https://github.com/Zakarialabib/tv-rs,Hardware mock server for tv-rs supporting Samsung MDC (TCP 1515) and Philips SICP (TCP 5000) for hardware-free CI testing.
+2026-11-01T01:09:17.978555Z,ravenrs-widgets,0.1.0,0,0,https://github.com/alexkads/RavenRS,"RavenRS declarative views, the extension API for custom components, and the UI runtime."
+2026-11-01T01:12:20.961615Z,cad-kernel,0.1.0,0,0,https://github.com/bmander/geomsolver,"A boundary-representation solid modelling kernel: exact analytic and NURBS faces, Booleans, meshing to a stated sag, STEP."
+2026-11-01T01:15:02.771689Z,ferroui-hot-patch,0.4.0,0,0,https://github.com/wieslawsoltes/FerroUI,Development-only FerroUI hot-patch support
+2026-11-01T01:17:52.872655Z,ravenrs-platform-native,0.1.0,0,0,https://github.com/alexkads/RavenRS,"RavenRS desktop backend: winit windows rendered with wgpu on Windows, macOS and Linux."

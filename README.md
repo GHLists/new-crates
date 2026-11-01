@@ -8,41 +8,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 00:20 UTC
+## Latest list — 2026-11-01 01:18 UTC
 
-New crates published between 2026-10-31 23:18 UTC and 2026-11-01 00:20 UTC.
+New crates published between 2026-11-01 00:20 UTC and 2026-11-01 01:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-01T00-20-40-848685Z.csv)
+[Full CSV](data/new-crates-2026-11-01T01-18-12-232547Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-10-31 23:21:58 | [bibsmith](https://crates.io/crates/bibsmith) | 0.1.1 | 0 | Write the .bbl biblatex typesets, in Rust, without Perl or a TeX install |
-| 2026-10-31 23:26:31 | [kelp-client](https://crates.io/crates/kelp-client) | 0.1.0 | 0 | Kelp client library: server connections, content cache and workspace operations. |
-| 2026-10-31 23:31:12 | [triton-ng-client](https://crates.io/crates/triton-ng-client) | 0.1.0 | 0 | Async gRPC client for NVIDIA Triton Inference Server. |
-| 2026-10-31 23:31:13 | [triton-ng-macros](https://crates.io/crates/triton-ng-macros) | 0.1.0 | 0 | Procedural macros for triton-ng. |
-| 2026-10-31 23:31:14 | [triton-ng-sys](https://crates.io/crates/triton-ng-sys) | 0.1.0 | 0 | Raw FFI bindings to the NVIDIA Triton Inference Server backend C API. |
-| 2026-10-31 23:31:18 | [triton-ng](https://crates.io/crates/triton-ng) | 0.1.0 | 0 | Safe Rust API for writing custom NVIDIA Triton Inference Server backends. |
-| 2026-10-31 23:34:47 | [viewtally](https://crates.io/crates/viewtally) | 0.1.0 | 0 | A privacy-friendly page-view counter for personal websites, running on Cloudfla… |
-| 2026-10-31 23:35:17 | [rs-bat2sqlite](https://crates.io/crates/rs-bat2sqlite) | 0.1.0 | 0 | Inserts the record batch to the sqlite table. |
-| 2026-10-31 23:35:40 | [epdpi](https://crates.io/crates/epdpi) | 0.1.0 | 0 | no_std embedded-hal 1.0 compatible Rust driver framework, blocking or async, fo… |
-| 2026-10-31 23:37:13 | [satisfy](https://crates.io/crates/satisfy) | 0.1.0 | 0 | Trait-based dependency injection container using a compile-time checked depende… |
-| 2026-10-31 23:37:41 | [epdpi-esp](https://crates.io/crates/epdpi-esp) | 0.1.0 | 0 | ESP32 parallel buses for the epdpi e-paper driver: LCD_CAM with DMA and registe… |
-| 2026-10-31 23:41:40 | [ibt](https://crates.io/crates/ibt) | 2.0.0 | 0 | IronBlockTransfer — agentic-first CLI successor to dd, human-first GUI/TUI succ… |
-| 2026-10-31 23:42:04 | [itp-core](https://crates.io/crates/itp-core) | 3.0.0 | 0 | Core library for the Iron Text Processor |
-| 2026-10-31 23:44:13 | [itp-cli](https://crates.io/crates/itp-cli) | 3.0.0 | 0 | Iron Text Processor — CLI binary |
-| 2026-10-31 23:45:51 | [itp-lsp](https://crates.io/crates/itp-lsp) | 3.0.0 | 0 | Language Server Protocol integration for ITP Query Language |
-| 2026-10-31 23:47:35 | [itp-tui](https://crates.io/crates/itp-tui) | 3.0.0 | 0 | Iron Text Processor — Terminal User Interface |
-| 2026-10-31 23:49:17 | [itp-gui](https://crates.io/crates/itp-gui) | 3.0.0 | 0 | Iron Text Processor — Graphical User Interface |
-| 2026-10-31 23:50:36 | [kelp-daemon](https://crates.io/crates/kelp-daemon) | 0.1.0 | 0 | The engine of kelpd: runs workspace operations, watches workspaces and hosts pr… |
-| 2026-10-31 23:50:37 | [kelp-sdk](https://crates.io/crates/kelp-sdk) | 0.1.0 | 0 | C ABI for engine and DCC integrations. |
-| 2026-10-31 23:51:37 | [raw-ether](https://crates.io/crates/raw-ether) | 0.1.0 | 0 | Raw Ethernet on Linux, macOS and Windows: MAC addresses, interfaces, frames wit… |
-| 2026-10-31 23:51:48 | [gptp](https://crates.io/crates/gptp) | 0.1.0 | 0 | IEEE 802.1AS gPTP without I/O: messages, link, relay and end station, grandmast… |
-| 2026-10-31 23:53:27 | [itp-wasm](https://crates.io/crates/itp-wasm) | 3.0.0 | 0 | WebAssembly bindings for the Iron Text Processor |
-| 2026-11-01 00:13:11 | [mtindo](https://crates.io/crates/mtindo) | 0.1.0 | 0 | Formats Rust files as the standard formatter writes them, and lays out their it… |
-| 2026-11-01 00:14:23 | [pixcore](https://crates.io/crates/pixcore) | 0.2.0 | 0 | Core pixelation, placement, and library logic for pixelated-papers (no wayland) |
-| 2026-11-01 00:14:51 | [pixpapers](https://crates.io/crates/pixpapers) | 0.2.0 | 0 | Forced-pixelation wallpapers for niri and other wayland compositors |
-| 2026-11-01 00:18:37 | [apeireth-ui-core](https://crates.io/crates/apeireth-ui-core) | 2.0.0-rc.5 | 0 | Apeireth UI 引擎响应式核心：信号 / 派生 / 依赖图 / 调度器 / effect / 作用域 |
-| 2026-11-01 00:20:03 | [apeireth-ui-dom](https://crates.io/crates/apeireth-ui-dom) | 2.0.0-rc.5 | 0 | Apeireth UI 引擎 DOM 绑定层：虚拟节点 / 后端抽象 / 差分 / 事件委托 / 双向绑定 |
+| 2026-11-01 00:21:14 | [apeireth-ui-gpu](https://crates.io/crates/apeireth-ui-gpu) | 2.0.0-rc.5 | 0 | Apeireth UI 引擎 GPU 桥：GLSL 前置变换 + uniform 绑定表 + 双后端渲染入口 |
+| 2026-11-01 00:21:56 | [apeireth-ui-macro](https://crates.io/crates/apeireth-ui-macro) | 2.0.0-rc.5 | 0 | Apeireth UI 引擎过程宏：#[component] 组件声明宏 |
+| 2026-11-01 00:22:47 | [apeireth-ui-kit](https://crates.io/crates/apeireth-ui-kit) | 2.0.0-rc.5 | 0 | Apeireth UI 引擎组件库：共享组件的 Rust 重写 + 组件注册表 |
+| 2026-11-01 00:25:02 | [gtfs-mcp](https://crates.io/crates/gtfs-mcp) | 0.2.0 | 0 | MCP server for GTFS static schedules and optional GTFS-Realtime feeds |
+| 2026-11-01 00:27:41 | [apeireth-ui](https://crates.io/crates/apeireth-ui) | 2.0.0-rc.5 | 0 | Apeireth UI 引擎门面：re-export 响应式核心 / DOM 绑定 / GPU 桥 / 组件库 |
+| 2026-11-01 00:28:26 | [sortant](https://crates.io/crates/sortant) | 0.0.0 | 0 | Reserved name for SortAnt: ranking and rank-list integration for Rust. No code… |
+| 2026-11-01 00:37:35 | [crawlberg-chromiumoxide-fetcher](https://crates.io/crates/crawlberg-chromiumoxide-fetcher) | 0.9.2 | 0 | Crawlberg browser fetcher with protected ZIP extraction |
+| 2026-11-01 00:39:24 | [cratebook](https://crates.io/crates/cratebook) | 0.1.1 | 0 | An interactive component gallery for Rust and GPUI, on macOS and the web. |
+| 2026-11-01 00:41:09 | [ferroui-pretext-contracts](https://crates.io/crates/ferroui-pretext-contracts) | 0.4.0 | 0 | Backend contracts for prepared text and glyph output |
+| 2026-11-01 00:41:12 | [ferroui-pretext](https://crates.io/crates/ferroui-pretext) | 0.4.0 | 0 | Reusable text preparation, Unicode wrapping and rich inline layout |
+| 2026-11-01 00:41:15 | [ferroui-pretext-layout](https://crates.io/crates/ferroui-pretext-layout) | 0.4.0 | 0 | Platform-neutral wrap metrics and obstacle-aware column flow for prepared text |
+| 2026-11-01 00:41:17 | [ferroui-protranslate-core](https://crates.io/crates/ferroui-protranslate-core) | 0.4.0 | 0 | Framework-independent translation, culture and globalization services for Ferro… |
+| 2026-11-01 00:41:19 | [ferroui-protranslate-formats](https://crates.io/crates/ferroui-protranslate-formats) | 0.4.0 | 0 | Loss-aware localization catalog import and export for ProTranslate |
+| 2026-11-01 00:47:20 | [ravenrs-core](https://crates.io/crates/ravenrs-core) | 0.1.0 | 0 | Geometry, color, input events and the display list shared by every RavenRS crat… |
+| 2026-11-01 00:47:21 | [ravenrs-reactive](https://crates.io/crates/ravenrs-reactive) | 0.1.0 | 0 | Single-threaded reactive state for RavenRS: State, Binding, Derived and depende… |
+| 2026-11-01 00:47:23 | [ravenrs-layout](https://crates.io/crates/ravenrs-layout) | 0.1.0 | 0 | RavenRS layout: a small, typed facade over Taffy's flexbox. |
+| 2026-11-01 00:47:24 | [ravenrs-style](https://crates.io/crates/ravenrs-style) | 0.1.0 | 0 | RavenRS design tokens and the Raven Dark, Raven Light and Raven Glass themes. |
+| 2026-11-01 00:47:25 | [ravenrs-text](https://crates.io/crates/ravenrs-text) | 0.1.0 | 0 | RavenRS text: shaping and line layout with Parley, with the Inter font embedded. |
+| 2026-11-01 00:47:46 | [cortexkit-presence](https://crates.io/crates/cortexkit-presence) | 0.1.0 | 0 | Pure presence summaries and notification routing: where the person is, and whet… |
+| 2026-11-01 00:51:41 | [witforge](https://crates.io/crates/witforge) | 0.1.0 | 0 | A WIT-first contract compiler: generate plain Rust types and traits and a proto… |
+| 2026-11-01 00:51:43 | [witforge-cli](https://crates.io/crates/witforge-cli) | 0.1.0 | 0 | Command-line interface for witforge. |
+| 2026-11-01 00:52:22 | [ferroui-protranslate-studio](https://crates.io/crates/ferroui-protranslate-studio) | 0.4.0 | 0 | Portable localization catalog editing, persistence and AI translation workflow |
+| 2026-11-01 00:52:30 | [ferroui-static-view-locator-build](https://crates.io/crates/ferroui-static-view-locator-build) | 0.4.0 | 0 | The generator of ferroui-static-view-locator: the build-script part that maps t… |
+| 2026-11-01 00:58:34 | [ravenrs-render](https://crates.io/crates/ravenrs-render) | 0.1.0 | 0 | RavenRS GPU renderer: SDF quads, soft shadows, gradients and an atlas-based tex… |
+| 2026-11-01 01:03:33 | [ferroui-static-view-locator-macros](https://crates.io/crates/ferroui-static-view-locator-macros) | 0.4.0 | 0 | The attributes #[static_view_locator] and #[static_view_mapping] of ferroui-sta… |
+| 2026-11-01 01:06:56 | [lasertag](https://crates.io/crates/lasertag) | 0.2.0 | 0 | Look for container image updates |
+| 2026-11-01 01:07:47 | [tv-rs-sim](https://crates.io/crates/tv-rs-sim) | 0.6.0 | 0 | Hardware mock server for tv-rs supporting Samsung MDC (TCP 1515) and Philips SI… |
+| 2026-11-01 01:09:17 | [ravenrs-widgets](https://crates.io/crates/ravenrs-widgets) | 0.1.0 | 0 | RavenRS declarative views, the extension API for custom components, and the UI… |
+| 2026-11-01 01:12:20 | [cad-kernel](https://crates.io/crates/cad-kernel) | 0.1.0 | 0 | A boundary-representation solid modelling kernel: exact analytic and NURBS face… |
+| 2026-11-01 01:15:02 | [ferroui-hot-patch](https://crates.io/crates/ferroui-hot-patch) | 0.4.0 | 0 | Development-only FerroUI hot-patch support |
+| 2026-11-01 01:17:52 | [ravenrs-platform-native](https://crates.io/crates/ravenrs-platform-native) | 0.1.0 | 0 | RavenRS desktop backend: winit windows rendered with wgpu on Windows, macOS and… |
 
 ## Data source
 
