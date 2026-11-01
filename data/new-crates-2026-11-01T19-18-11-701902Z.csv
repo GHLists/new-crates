@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T18:18:42.122268Z,tessera-rl-macros,0.0.1,0,0,https://github.com/joaquinbejar/tessera-rl,Part of tessera-rl. Placeholder release.
+2026-11-01T18:21:28.448386Z,rasta-rust,0.1.0,0,0,https://github.com/rasta-protocol/rasta-rust,"Deterministic, transport-independent core primitives for RaSTA"
+2026-11-01T18:27:11.433776Z,devdocs,0.1.0,0,0,https://github.com/OWNER/devdocs-mcp,CLI and MCP server for devdocs
+2026-11-01T18:27:28.648927Z,fuser-iouring,0.1.2,0,0,https://github.com/sdslabs/fuser-iouring,A FUSE filesystem library for Rust that drives /dev/fuse through io_uring
+2026-11-01T18:27:30.825169Z,ras-rest-macro,0.4.0,0,0,https://github.com/JedimEmO/rust-api-stack,Procedural macro for type-safe REST APIs with auth integration and OpenAPI document generation
+2026-11-01T18:29:17.696295Z,tessera-rl-engine,0.0.1,0,0,https://github.com/joaquinbejar/tessera-rl,Part of tessera-rl. Placeholder release.
+2026-11-01T18:29:48.264541Z,sveltui-code,0.1.0-alpha.2,0,0,https://github.com/themosthigh/sveltui,TextMate syntax-highlighted code preview and editor components for sveltui
+2026-11-01T18:32:38.297787Z,fframes-dylib,1.3.1-rc.10,0,0,https://github.com/dmtrKovalenko/fframes,Shared fframes engine for fast rebuilds of native videos
+2026-11-01T18:32:51.67537Z,laminapdf-syntax,0.0.0,0,0,,"Reserved for lamina, a PDF library. Not yet released."
+2026-11-01T18:32:54.329861Z,laminapdf-cos,0.0.0,0,0,,"Reserved for lamina, a PDF library. Not yet released."
+2026-11-01T18:32:56.893281Z,laminapdf-model,0.0.0,0,0,,"Reserved for lamina, a PDF library. Not yet released."
+2026-11-01T18:32:59.802036Z,laminapdf-ops,0.0.0,0,0,,"Reserved for lamina, a PDF library. Not yet released."
+2026-11-01T18:33:02.666Z,laminapdf-content,0.0.0,0,0,,"Reserved for lamina, a PDF library. Not yet released."
+2026-11-01T18:38:22.805217Z,tessera-rl-classic,0.0.1,0,0,https://github.com/joaquinbejar/tessera-rl,Part of tessera-rl. Placeholder release.
+2026-11-01T18:43:21.760296Z,gigsift-core,0.1.0,0,0,https://github.com/0xdhrv/gigsift,Domain types and the versioned JSON contract for gigsift
+2026-11-01T18:43:24.381358Z,gigsift-platform-macos,0.1.0,0,0,https://github.com/0xdhrv/gigsift,macOS filesystem probes for gigsift
+2026-11-01T18:43:25.428313Z,gigsift-platform-windows,0.1.0,0,0,https://github.com/0xdhrv/gigsift,Windows filesystem probes for gigsift
+2026-11-01T18:43:28.424672Z,gigsift-scanner,0.1.0,0,0,https://github.com/0xdhrv/gigsift,Parallel directory walk and honest size accounting for gigsift
+2026-11-01T18:43:31.589372Z,gigsift,0.1.0,0,0,https://github.com/0xdhrv/gigsift,Understand every gigabyte. Recover space with confidence.
+2026-11-01T18:43:42.606649Z,laminapdf-text,0.0.0,0,0,,"Reserved for lamina, a PDF library. Not yet released."
+2026-11-01T18:44:21.15643Z,bigcurve,0.2.0,0,0,https://github.com/hypertidy/bigcurve-rs,Adaptive densification of lines under a map projection or any forward map
+2026-11-01T18:44:22.475781Z,rust-judge,0.1.0,0,0,https://github.com/criyle/rust-judge,Linux sandbox service and Rust library for running programs with resource limits
+2026-11-01T18:45:03.585117Z,mmuhttpd,0.0.0-0000-00-00,0,0,https://github.com/MaulingMonkey/mmuhttpd,0 deps 100% monkey HTTP server
+2026-11-01T18:46:37.014624Z,gaebboss-core,0.1.0,0,0,https://github.com/4thel00z/gaebboss,"GAEB DA XML reader, writer and bill-of-quantities model in pure Rust"
+2026-11-01T18:46:54.165717Z,gaebboss-cli,0.1.0,0,0,https://github.com/4thel00z/gaebboss,"Command line for GAEB DA XML: inspect, export, validate, round-trip and price tenders"
+2026-11-01T18:46:55.576398Z,rust-mcp-preflight,0.1.0,0,0,https://github.com/Wolfe-Jam/rust-mcp-preflight,"Check an MCP Registry listing before you publish: the README mcp-name line on crates.io, server.json cargo rules, and the server name."
+2026-11-01T18:48:08.376573Z,ghostcode,0.1.0,0,0,https://github.com/Galvarcus/GhostCode,Finds unreferenced code in Vim9 plugins.
+2026-11-01T18:48:58.260269Z,tessera-rl-py,0.0.1,0,0,https://github.com/joaquinbejar/tessera-rl,Part of tessera-rl. Placeholder release.
+2026-11-01T18:52:17.97577Z,sego,0.1.0,0,0,https://github.com/fr1pp/sego,"Code search for agents, built on Sourcegraph."
+2026-11-01T18:52:52.503742Z,forthling-http,0.2.0,0,0,https://github.com/DeSchaker/forthling,"HTTP client words for forthling, a Forth interpreter in Rust"
+2026-11-01T18:53:37.000345Z,rustack-lambda-runtime,0.9.0,0,0,https://github.com/tyrchen/rustack,Shared Lambda runtime session and bounded relay protocol for Rustack
+2026-11-01T18:53:37.670521Z,rustack-stepfunctions-model,0.9.0,0,0,https://github.com/tyrchen/rustack,Generated Step Functions protocol model for Rustack
+2026-11-01T18:53:48.235709Z,knxide-core,0.1.0,0,0,https://github.com/pakerfeldt/knxide,"KNX addressing, cEMI frames, group services and datapoint type codecs. No I/O."
+2026-11-01T18:53:48.482677Z,rustack-stepfunctions-core,0.9.0,0,0,https://github.com/tyrchen/rustack,Compiled ASL semantics and supervised Step Functions execution for Rustack
+2026-11-01T18:53:48.920761Z,rustack-stepfunctions-http,0.9.0,0,0,https://github.com/tyrchen/rustack,Bounded typed Step Functions AWS JSON1.0 HTTP transport
+2026-11-01T18:53:50.860963Z,knxide-ip,0.1.0,0,0,https://github.com/pakerfeldt/knxide,KNXnet/IP frames and sans-IO state machines for discovery and tunnelling.
+2026-11-01T18:53:51.647628Z,knxide-project,0.1.0,0,0,https://github.com/pakerfeldt/knxide,Import KNX group addresses and their datapoint types from ETS exports.
+2026-11-01T18:53:53.655942Z,knxide-tokio,0.1.0,0,0,https://github.com/pakerfeldt/knxide,Async tokio client for KNXnet/IP built on knxide-ip.
+2026-11-01T18:53:56.017485Z,knxide,0.1.0,0,0,https://github.com/pakerfeldt/knxide,"KNX over KNXnet/IP for Rust: one crate that re-exports knxide-core, knxide-ip, knxide-tokio and knxide-project."
+2026-11-01T18:53:57.717004Z,refranero-cli,0.3.0,0,0,https://github.com/yacosta738/refranero,Offline-first command-line proverbs with optional Cervantes and Wayback imports
+2026-11-01T18:54:12.373011Z,systemprompt-brain,0.77.0,0,0,https://github.com/systempromptio/systemprompt-core,"Organisational memory store: revisioned facts, capture ledgers, recall audit and the brain outbox sink for systemprompt.io AI governance infrastructure."
+2026-11-01T18:54:34.149845Z,laminapdf-build,0.0.0,0,0,,"Reserved for lamina, a PDF library. Not yet released."
+2026-11-01T19:01:11.358531Z,bougie-lock,0.54.0,0,0,https://github.com/cresset-tools/bougie,Versioned bougie.lock model and atomic writer.
+2026-11-01T19:03:07.92249Z,laminapdf-save,0.0.0,0,0,,"Reserved for lamina, a PDF library. Not yet released."
+2026-11-01T19:03:08.693505Z,hoarfrost,0.14.0,0,0,https://github.com/MartinKuhne/hoarfrost,A design system and widget framework built on Iced
+2026-11-01T19:04:24.670051Z,knxide-cli,0.1.0,0,0,https://github.com/pakerfeldt/knxide,"Command-line tool for discovering, monitoring, reading and writing a KNX bus over KNXnet/IP."
+2026-11-01T19:10:56.064657Z,ai-gent-dbrun,0.1.0,0,0,https://github.com/lucasvmigotto/ai-gent,"Read-only database runner library of ai-gent: statement classification, plans and engine connectors (name reserved; first release to follow)"
+2026-11-01T19:10:56.581728Z,rumtk-sanitize,0.1.1,0,0,https://github.com/MedicalMasses-L-L-C/rumtk,HTML input sanitizer for RUMTK.
+2026-11-01T19:13:56.140444Z,laminapdf,0.0.0,0,0,,"Reserved for lamina, a PDF library. Not yet released."
+2026-11-01T19:14:10.930385Z,knxide-monitor,0.1.0,0,0,https://github.com/pakerfeldt/knxide,"Web console for a KNX bus: live monitor and sender, built on knxide."
+2026-11-01T19:16:40.349975Z,mtgcolor,0.1.0,0,0,https://github.com/jbowes/mtgcolor,"Magic: The Gathering colors and color sets: parse Scryfall color syntax, compare by containment, encode in one byte"
