@@ -1,0 +1,21 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T07:22:02.776086Z,tendns,0.2.0,0,0,https://github.com/cfal/tendns,"Encrypted TXT discovery and hexadecimal IPv4 resolution, as a library and DNS server"
+2026-11-01T07:25:58.128205Z,whipair-protocol,0.1.0,0,0,https://github.com/kosumic/whip,"WP4 QR pairing codec, enrollment messages, and offline validation for Whip"
+2026-11-01T07:27:46.745478Z,cargo-tailor,0.1.0-alpha.0,0,0,,"Development placeholder for Tailor, semantic transformations for Rust"
+2026-11-01T07:27:55.675476Z,cargo-floss,0.1.0-alpha.0,0,0,,"Development placeholder for Floss, semantic cleanup tools for Rust"
+2026-11-01T07:28:02.877003Z,floss,0.1.0-alpha.0,0,0,,"Development placeholder for Floss, semantic cleanup tools for Rust"
+2026-11-01T07:30:00.918564Z,plexus-transport-mcp,0.1.0,0,0,https://github.com/hypermemetic-ai/plexus-transport-mcp,"Any Plexus RPC backend as an MCP server: a bridge over the client transport, beside a running backend or mounted in one"
+2026-11-01T07:30:11.295146Z,godot-dev-tools,0.1.0,0,0,https://github.com/roxguel/godot-dev-tools,"Library behind gdt: Godot version management, addons and test running."
+2026-11-01T07:30:14.496106Z,gdt,0.1.0,0,0,https://github.com/roxguel/godot-dev-tools,"Godot Development Tools: version manager, addon manager and test runner for Godot."
+2026-11-01T07:30:51.174096Z,plexus-webapp,0.2.0,0,0,https://github.com/hypermemetic-ai/plexus-webapp,"Serve a Plexus RPC app's frontend build (from disk or embedded in the binary) beside its service, and start the whole server as a library call"
+2026-11-01T07:33:25.422737Z,rightkit-autoedit,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Automatic editing for Right Suite video apps: transcript-driven cut engine (retakes, fillers, silences), editorial engine, named cut variants, and scoped editing rules with their resolution matrix."
+2026-11-01T07:35:16.775707Z,olai-uc-storage-access,0.0.1,0,0,https://github.com/open-lakehouse/mangrove,"Storage access store for the Unity Catalog server: credentials and the external locations they govern, with location resolution."
+2026-11-01T07:38:12.341569Z,volo-gen,0.0.1,0,0,https://gitee.com/leijmdas/ruwebframe.git,volo-grpc 编译期生成的代码 crate，由 build.rs 依据 idl/*.proto 自动生成
+2026-11-01T07:41:00.519058Z,git-reflow-api,0.1.0,0,0,https://github.com/axieum/git-reflow,Provides the core functionality for the git-reflow tool
+2026-11-01T07:41:03.87739Z,git-reflow,0.1.0,0,0,https://github.com/axieum/git-reflow,A tool for automating sematic releases by raising pull-requests when commits enter release branches
+2026-11-01T07:41:33.069757Z,trace-alloc,0.0.0,0,0,,Allocator for debugging and tracing
+2026-11-01T07:51:55.511015Z,figfile,0.1.3,0,0,https://github.com/ali-shahabi/fig-cli,"Write .fig files directly: blank artboards and rect/text nodes, no Figma required."
+2026-11-01T08:00:31.671596Z,rightkit-shorts,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Shorts finder for Right Suite video apps: candidate moments from a long video's transcript, scored and ranked (heuristics plus an optional BYOK LLM pass), with hooks, captions and edit plans per shor…"
+2026-11-01T08:05:29.179517Z,agent-browser-control,0.1.0,0,0,https://github.com/kosumic/whip,"Validated browser agent actions, bounded results, and a platform-neutral execution engine"
+2026-11-01T08:18:21.469411Z,cortexkit-occipital-lang,0.1.0,0,0,,"The rich UI language the CortexKit apps draw agent replies, pages and tool rows with: parser, checker, evaluator and layout"
+2026-11-01T08:18:23.978738Z,cortexkit-occipital-registry,0.1.0,0,0,,"Tool templates for the CortexKit apps: the occipital.template/1 document, its canonical JSON and digest, the checks a tool's view must pass, and the occipital-check command"

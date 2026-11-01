@@ -8,32 +8,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 07:18 UTC
+## Latest list — 2026-11-01 08:19 UTC
 
-New crates published between 2026-11-01 06:20 UTC and 2026-11-01 07:18 UTC.
+New crates published between 2026-11-01 07:18 UTC and 2026-11-01 08:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-01T07-18-18-107762Z.csv)
+[Full CSV](data/new-crates-2026-11-01T08-19-10-961198Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-01 06:21:12 | [shuyi-alloc-count](https://crates.io/crates/shuyi-alloc-count) | 0.0.0 | 0 | Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here… |
-| 2026-11-01 06:21:19 | [shuyi-playdate](https://crates.io/crates/shuyi-playdate) | 0.0.0 | 0 | Reserved for Shuyi Engine, an open-source 2D game engine in Rust. Nothing here… |
-| 2026-11-01 06:30:47 | [cgap-blake3](https://crates.io/crates/cgap-blake3) | 26.10.29 | 0 | Sovereign, zero-dependency #![no_std] BLAKE3 cryptographic tree hash with 4-way… |
-| 2026-11-01 06:30:48 | [cgap-arrow](https://crates.io/crates/cgap-arrow) | 26.10.29 | 0 | Freestanding Apache Arrow columnar substrate: branch-free kernel inner-loop bod… |
-| 2026-11-01 06:35:10 | [cgap-git](https://crates.io/crates/cgap-git) | 26.10.29 | 0 | Git Packfile v2 writer: stored blob objects, .idx v2 generation, in-crate SHA-1… |
-| 2026-11-01 06:37:44 | [kplib](https://crates.io/crates/kplib) | 0.18.3 | 0 | Hardened KDBX database file parser |
-| 2026-11-01 06:44:16 | [rightkit-color](https://crates.io/crates/rightkit-color) | 0.1.0 | 0 | Colour grading for Right Suite video apps: grade parameters, LUTs and FFmpeg fi… |
-| 2026-11-01 06:44:27 | [cgap-parquet](https://crates.io/crates/cgap-parquet) | 26.10.29 | 0 | Parquet persistence kernels with branch-free inner-loop bodies: bit-unpacking,… |
-| 2026-11-01 06:45:52 | [rightkit-reframe](https://crates.io/crates/rightkit-reframe) | 0.1.0 | 0 | Tracked 9:16 reframe for Right Suite video apps: ONNX face detection (YuNet; Co… |
-| 2026-11-01 06:47:18 | [handy-transcribe](https://crates.io/crates/handy-transcribe) | 0.1.1 | 0 | Offline speech-to-text CLI: transcribe audio files or URLs locally with Handy's… |
-| 2026-11-01 06:50:50 | [guth-wayland-dnd](https://crates.io/crates/guth-wayland-dnd) | 0.1.1 | 0 | Native Wayland file drag and drop bridge for Guth |
-| 2026-11-01 06:54:05 | [cgap](https://crates.io/crates/cgap) | 26.10.29 | 0 | cgap umbrella facade: columnar substrate (Arrow), BLAKE3 hashing, Parquet persi… |
-| 2026-11-01 06:57:51 | [olai-uc-handlers](https://crates.io/crates/olai-uc-handlers) | 0.0.1 | 0 | Resource-gated Unity Catalog handler traits and axum route functions, with the… |
-| 2026-11-01 07:00:35 | [wtkill](https://crates.io/crates/wtkill) | 0.1.0 | 0 | Find git worktrees under .worktree/ folders, see their size and state, and dele… |
-| 2026-11-01 07:06:55 | [cli-contract](https://crates.io/crates/cli-contract) | 0.6.0 | 0 | A shared contract for command-line tools: canonical exit codes, a path contract… |
-| 2026-11-01 07:12:46 | [rightkit-video-project](https://crates.io/crates/rightkit-video-project) | 0.1.0 | 0 | Video project layer for Right Suite apps: project files, sources and their inte… |
-| 2026-11-01 07:16:59 | [vrg](https://crates.io/crates/vrg) | 0.1.0 | 0 | Local-first Vault RAG Graph backend |
-| 2026-11-01 07:17:55 | [prts-mcp](https://crates.io/crates/prts-mcp) | 3.2.1 | 0 | Arknights fan-creation MCP server with native Rust runtime |
+| 2026-11-01 07:22:02 | [tendns](https://crates.io/crates/tendns) | 0.2.0 | 0 | Encrypted TXT discovery and hexadecimal IPv4 resolution, as a library and DNS s… |
+| 2026-11-01 07:25:58 | [whipair-protocol](https://crates.io/crates/whipair-protocol) | 0.1.0 | 0 | WP4 QR pairing codec, enrollment messages, and offline validation for Whip |
+| 2026-11-01 07:27:46 | [cargo-tailor](https://crates.io/crates/cargo-tailor) | 0.1.0-alpha.0 | 0 | Development placeholder for Tailor, semantic transformations for Rust |
+| 2026-11-01 07:27:55 | [cargo-floss](https://crates.io/crates/cargo-floss) | 0.1.0-alpha.0 | 0 | Development placeholder for Floss, semantic cleanup tools for Rust |
+| 2026-11-01 07:28:02 | [floss](https://crates.io/crates/floss) | 0.1.0-alpha.0 | 0 | Development placeholder for Floss, semantic cleanup tools for Rust |
+| 2026-11-01 07:30:00 | [plexus-transport-mcp](https://crates.io/crates/plexus-transport-mcp) | 0.1.0 | 0 | Any Plexus RPC backend as an MCP server: a bridge over the client transport, be… |
+| 2026-11-01 07:30:11 | [godot-dev-tools](https://crates.io/crates/godot-dev-tools) | 0.1.0 | 0 | Library behind gdt: Godot version management, addons and test running. |
+| 2026-11-01 07:30:14 | [gdt](https://crates.io/crates/gdt) | 0.1.0 | 0 | Godot Development Tools: version manager, addon manager and test runner for God… |
+| 2026-11-01 07:30:51 | [plexus-webapp](https://crates.io/crates/plexus-webapp) | 0.2.0 | 0 | Serve a Plexus RPC app's frontend build (from disk or embedded in the binary) b… |
+| 2026-11-01 07:33:25 | [rightkit-autoedit](https://crates.io/crates/rightkit-autoedit) | 0.1.0 | 0 | Automatic editing for Right Suite video apps: transcript-driven cut engine (ret… |
+| 2026-11-01 07:35:16 | [olai-uc-storage-access](https://crates.io/crates/olai-uc-storage-access) | 0.0.1 | 0 | Storage access store for the Unity Catalog server: credentials and the external… |
+| 2026-11-01 07:38:12 | [volo-gen](https://crates.io/crates/volo-gen) | 0.0.1 | 0 | volo-grpc 编译期生成的代码 crate，由 build.rs 依据 idl/*.proto 自动生成 |
+| 2026-11-01 07:41:00 | [git-reflow-api](https://crates.io/crates/git-reflow-api) | 0.1.0 | 0 | Provides the core functionality for the git-reflow tool |
+| 2026-11-01 07:41:03 | [git-reflow](https://crates.io/crates/git-reflow) | 0.1.0 | 0 | A tool for automating sematic releases by raising pull-requests when commits en… |
+| 2026-11-01 07:41:33 | [trace-alloc](https://crates.io/crates/trace-alloc) | 0.0.0 | 0 | Allocator for debugging and tracing |
+| 2026-11-01 07:51:55 | [figfile](https://crates.io/crates/figfile) | 0.1.3 | 0 | Write .fig files directly: blank artboards and rect/text nodes, no Figma requir… |
+| 2026-11-01 08:00:31 | [rightkit-shorts](https://crates.io/crates/rightkit-shorts) | 0.1.0 | 0 | Shorts finder for Right Suite video apps: candidate moments from a long video's… |
+| 2026-11-01 08:05:29 | [agent-browser-control](https://crates.io/crates/agent-browser-control) | 0.1.0 | 0 | Validated browser agent actions, bounded results, and a platform-neutral execut… |
+| 2026-11-01 08:18:21 | [cortexkit-occipital-lang](https://crates.io/crates/cortexkit-occipital-lang) | 0.1.0 | 0 | The rich UI language the CortexKit apps draw agent replies, pages and tool rows… |
+| 2026-11-01 08:18:23 | [cortexkit-occipital-registry](https://crates.io/crates/cortexkit-occipital-registry) | 0.1.0 | 0 | Tool templates for the CortexKit apps: the occipital.template/1 document, its c… |
 
 ## Data source
 
