@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-01T10:18:15.565232Z,oj_tsrs_pseudochecker,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_pseudochecker, vendored for oj's type checker"
+2026-11-01T10:19:45.948859Z,rightkit-web-extract,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Article extraction without transport: readable-text parsing, title and redirect resolution, blocked-page detection, BM25 fit filtering, and extraction-ladder decisions."
+2026-11-01T10:20:59.164725Z,rightkit-pipeline,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Generation pipeline client: drive an installed generation engine (submit, follow, import), crash-safe journal and recovery, model catalog checks."
+2026-11-01T10:21:00.624869Z,ofdrw-resvg,0.48.1-ofdrw.1,0,0,https://github.com/lihongjie0209/ofdrw-rs,"OFD-specific SVG rendering, forked from resvg"
+2026-11-01T10:21:03.066515Z,yuanme,0.0.0,0,0,https://github.com/yuann3/yuanme,"A static site generator for Markdown, Org and math. A placeholder until the first release."
+2026-11-01T10:22:30.584888Z,rightkit-transcript-library,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Transcript library: delivery records (outcome, target, timings, source), history store contract with filters, paging, retention, scoped deletes and an in-memory store."
+2026-11-01T10:25:37.758018Z,rightkit-agent-engine-protocol,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Agent engine protocol: events, envelopes, tool calls, trust wrapping and settlement types shared by agent hosts"
+2026-11-01T10:26:21.778255Z,break,0.1.0,0,0,https://github.com/iadev09/break,Find the HTTP load that breaks your SLA
+2026-11-01T10:26:22.035361Z,rightkit-agent-engine-attention,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Agent attention inbox: unread/needs-input items, snooze, density, quiet hours and deep links as axum routes"
+2026-11-01T10:27:10.755329Z,rightkit-agent-engine-history,0.1.0,0,0,https://github.com/bogusyogi/rightkit,Agent engine conversation history store helpers
+2026-11-01T10:28:03.412606Z,oj_tsrs_scanner,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_scanner, vendored for oj's type checker"
+2026-11-01T10:31:51.818706Z,klaub,0.4.0,0,0,https://github.com/myrk-kale/klaub,"Klaub: a terminal code reviewer for AI coding agents. Review changes by function, ranked by risk, offline and with no LLM."
+2026-11-01T10:36:34.230185Z,mosa,0.1.0-alpha.1,0,0,https://gitee.com/openkylin/mosa,HTML/CSS desktop views with native Rust components and no JavaScript runtime
+2026-11-01T10:38:17.017347Z,oj_tsrs_astnav,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_astnav, vendored for oj's type checker"
+2026-11-01T10:38:42.055008Z,sansara,0.0.0,0,0,https://github.com/yeoleobun/minipbx,"A driver for sans-IO state machines: feed, poll, repeat."
+2026-11-01T10:38:49.564936Z,serde_mpq_derive,0.1.0,0,0,https://github.com/sebosp/s2protocol-rs,The derive macros of serde_mpq: the bit packed and byte aligned encodings of the StarCraft II replays
+2026-11-01T10:38:59.57021Z,serde_mpq,0.1.0,0,0,https://github.com/sebosp/s2protocol-rs,"The bit packed and byte aligned (versioned) encodings of the StarCraft II replay sections, with derive macros"
+2026-11-01T10:42:19.502056Z,threadmill,0.1.0,0,0,https://github.com/vibhav011/threadmill,A lightweight Rust thread pool with priority-based task scheduling and result handles.
+2026-11-01T10:42:48.165365Z,rightkit-evidence,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Evidence and spec records: requirement specs, acceptance evidence and verification status for agent work"
+2026-11-01T10:43:48.263658Z,spek,1.0.0,0,0,https://github.com/MiguelRegueiro/spek,"A small, read-only view of Git working-tree changes"
+2026-11-01T10:44:03.386701Z,camilo,1.0.0,0,0,https://github.com/MiguelRegueiro/camilo,Terminal camera app for Kitty
+2026-11-01T10:45:20.932802Z,t4a-gemm-common,0.19.0,0,0,https://github.com/tensor4all/t4a-gemm,Playground for matrix multiplication algorithms
+2026-11-01T10:45:41.087271Z,t4a-gemm-f32,0.19.0,0,0,https://github.com/tensor4all/t4a-gemm,Playground for matrix multiplication algorithms
+2026-11-01T10:45:57.487956Z,t4a-gemm-f64,0.19.0,0,0,https://github.com/tensor4all/t4a-gemm,Playground for matrix multiplication algorithms
+2026-11-01T10:46:13.82968Z,t4a-gemm-c32,0.19.0,0,0,https://github.com/tensor4all/t4a-gemm,Playground for matrix multiplication algorithms
+2026-11-01T10:46:30.550867Z,t4a-gemm-c64,0.19.0,0,0,https://github.com/tensor4all/t4a-gemm,Playground for matrix multiplication algorithms
+2026-11-01T10:47:34.937273Z,t4a-gemm-f16,0.19.0,0,0,https://github.com/tensor4all/t4a-gemm,Playground for matrix multiplication algorithms
+2026-11-01T10:48:18.129651Z,oj_tsrs_binder,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_binder, vendored for oj's type checker"
+2026-11-01T10:57:47.027319Z,niceasm-data,0.0.0,0,0,https://github.com/zetaloop/niceasm-data,Structured instruction set definitions
+2026-11-01T10:58:14.43538Z,oj_tsrs_parser,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_parser, vendored for oj's type checker"
+2026-11-01T10:58:53.749144Z,t4a-gemm,0.19.0,0,0,https://github.com/tensor4all/t4a-gemm,Playground for matrix multiplication algorithms
+2026-11-01T11:07:00.663983Z,cargo-fmu-from-struct,0.1.0,0,0,https://github.com/jarlekramer/fmu_from_struct,Cargo subcommand that builds a crate using the fmu_from_struct macro and packages it as an FMU
+2026-11-01T11:07:13.349539Z,dcs-bios-rs-lib,0.2.0,0,0,,no_std DCS-BIOS protocol library for parsing aircraft data streams
+2026-11-01T11:07:15.658684Z,dcs-bios-codegen,0.2.0,0,0,,Code generator for Rust DCS-BIOS aircraft bindings
+2026-11-01T11:07:16.738803Z,dcs-bios-rs-generated,0.2.0,0,0,,Generated no_std Rust bindings for DCS-BIOS aircraft model definitions
+2026-11-01T11:07:41.319169Z,hydra-chitchat,0.11.1-hydra.1,0,0,https://github.com/javaquasar/hydracache,Cluster membership library using gossip with Scuttlebutt reconciliation.
+2026-11-01T11:08:35.932485Z,oj_tsrs_sourcemap,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_sourcemap, vendored for oj's type checker"
+2026-11-01T11:10:55.362221Z,bash-peek,1.0.0,0,0,https://github.com/monji024/peek,"Interactive TUI debugger, line profiler, and time-travel inspector for Bash scripts"
+2026-11-01T11:18:10.101754Z,oj_tsrs_printer,0.3.3,0,0,https://github.com/lovablelabs/oj,"tsrs's tsrs_printer, vendored for oj's type checker"
