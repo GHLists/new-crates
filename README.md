@@ -8,54 +8,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 17:18 UTC
+## Latest list — 2026-11-01 18:18 UTC
 
-New crates published between 2026-11-01 16:18 UTC and 2026-11-01 17:18 UTC.
+New crates published between 2026-11-01 17:18 UTC and 2026-11-01 18:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-01T17-18-08-706409Z.csv)
+[Full CSV](data/new-crates-2026-11-01T18-18-08-51674Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-01 16:19:15 | [blank-web](https://crates.io/crates/blank-web) | 0.1.0 | 0 | A lightning-fast web framework where DX is as important as UX, Self implemented… |
-| 2026-11-01 16:21:33 | [rightkit-ai-accounts](https://crates.io/crates/rightkit-ai-accounts) | 0.1.0 | 0 | AI assistant account management for Claude: Desktop login slots and switching,… |
-| 2026-11-01 16:22:20 | [rightkit-agent-recipes](https://crates.io/crates/rightkit-agent-recipes) | 0.1.0 | 0 | Agent recipes: reusable, parameterised task recipes with validation |
-| 2026-11-01 16:23:03 | [rightkit-adapt-taste](https://crates.io/crates/rightkit-adapt-taste) | 0.1.0 | 0 | Governed behavioural learning from agent transcripts (taste preferences and ins… |
-| 2026-11-01 16:23:12 | [xtws-tui](https://crates.io/crates/xtws-tui) | 0.1.1 | 0 | A Rust TUI terminal monitor for FT8/FT4 weak-signal decodes and QSO tracking |
-| 2026-11-01 16:24:27 | [ttfun](https://crates.io/crates/ttfun) | 0.1.1 | 0 | Render text and images to Unicode characters |
-| 2026-11-01 16:24:40 | [brynja-legacy-md5-std](https://crates.io/crates/brynja-legacy-md5-std) | 0.1.0 | 0 | Opt-in host detection and fail-closed selection for legacy MD5 |
-| 2026-11-01 16:25:28 | [unofficial-osmo-camera](https://crates.io/crates/unofficial-osmo-camera) | 0.1.0 | 0 | Unofficial Rust library for Osmo Nano camera interoperability |
-| 2026-11-01 16:25:33 | [gst-plugin-unofficial-osmo](https://crates.io/crates/gst-plugin-unofficial-osmo) | 0.1.0 | 0 | Unofficial Osmo Nano camera GStreamer source |
-| 2026-11-01 16:27:45 | [ras-spec-components](https://crates.io/crates/ras-spec-components) | 0.1.0 | 0 | Schema and example code that the Rust API Stack service macros embed in generat… |
-| 2026-11-01 16:28:10 | [zmux-shaping](https://crates.io/crates/zmux-shaping) | 1.2.5 | 0 | A zmux Shaper driven by state machines read from a versioned definition |
-| 2026-11-01 16:36:00 | [brynja-legacy-hmac-std](https://crates.io/crates/brynja-legacy-hmac-std) | 0.1.0 | 0 | Explicit hosted protected-memory owners for legacy HMAC compatibility |
-| 2026-11-01 16:37:35 | [poring-macros](https://crates.io/crates/poring-macros) | 0.1.0 | 0 | Procedural macros for the poring web framework. Use them through the `poring` c… |
-| 2026-11-01 16:37:35 | [ras-jsonrpc-types](https://crates.io/crates/ras-jsonrpc-types) | 0.3.0 | 0 | JSON-RPC 2.0 protocol types and utilities |
-| 2026-11-01 16:38:10 | [poring](https://crates.io/crates/poring) | 0.1.0 | 0 | Ergonomic Rust web framework built on Tokio and Hyper. |
-| 2026-11-01 16:40:11 | [pamin-kit](https://crates.io/crates/pamin-kit) | 0.1.0 | 0 | The framework every Pamin module is built on: the Module trait, operation regis… |
-| 2026-11-01 16:41:00 | [wasmgc-macros](https://crates.io/crates/wasmgc-macros) | 0.0.0 | 0 | Procedural macros for wasmgc |
-| 2026-11-01 16:41:37 | [wasmgc](https://crates.io/crates/wasmgc) | 0.0.0 | 0 | WasmGC types for Rust with a post-link toolchain |
-| 2026-11-01 16:44:42 | [rightkit-agent-gateway](https://crates.io/crates/rightkit-agent-gateway) | 0.1.0 | 0 | Local agent gateway for a mail-style app: pairing registry, append-only audit l… |
-| 2026-11-01 16:45:48 | [rightkit-agent-plugins](https://crates.io/crates/rightkit-agent-plugins) | 0.1.0 | 0 | Agent plugin manifests, discovery and loader |
-| 2026-11-01 16:47:39 | [ras-jsonrpc-bidirectional-types](https://crates.io/crates/ras-jsonrpc-bidirectional-types) | 0.3.0 | 0 | Shared types for bidirectional JSON-RPC clients and servers |
-| 2026-11-01 16:55:11 | [rconfig](https://crates.io/crates/rconfig) | 0.1.0 | 0 | A configuration language parser and formatter |
-| 2026-11-01 16:57:00 | [boxwhelk](https://crates.io/crates/boxwhelk) | 0.1.0 | 0 | Parse and build CENC 'pssh' boxes and HLS EXT-X-KEY tags, with optional AES-128… |
-| 2026-11-01 16:57:38 | [ras-jsonrpc-bidirectional-client](https://crates.io/crates/ras-jsonrpc-bidirectional-client) | 0.4.0 | 0 | Cross-platform WebSocket client for bidirectional JSON-RPC communication |
-| 2026-11-01 16:59:03 | [nitroget](https://crates.io/crates/nitroget) | 0.1.0 | 0 | A Wayland desktop widget engine with .nitroget components |
-| 2026-11-01 17:01:17 | [alcaide-core](https://crates.io/crates/alcaide-core) | 0.2.0 | 0 | Deterministic, auditable prompt-injection detection for LLM inputs — no network… |
-| 2026-11-01 17:01:18 | [alcaide-cli](https://crates.io/crates/alcaide-cli) | 0.2.0 | 0 | Command-line interface for Alcaide, a deterministic prompt-injection firewall |
-| 2026-11-01 17:06:56 | [riir-gui-battery-pack](https://crates.io/crates/riir-gui-battery-pack) | 0.1.0 | 0 | Part 2 of the riir battery pack: an egui GUI (desktop first, tablets later) bac… |
-| 2026-11-01 17:07:39 | [ras-jsonrpc-bidirectional-server](https://crates.io/crates/ras-jsonrpc-bidirectional-server) | 0.4.0 | 0 | WebSocket server implementation for bidirectional JSON-RPC communication |
-| 2026-11-01 17:09:38 | [emulatron-chips](https://crates.io/crates/emulatron-chips) | 0.1.0 | 0 | U855 PIO and U857 CTC (Z80 PIO/CTC clones) with daisy-chain interrupts |
-| 2026-11-01 17:09:46 | [brynja-hash-parallel](https://crates.io/crates/brynja-hash-parallel) | 0.1.0 | 0 | First-party no_std ParallelHash and ParallelHashXOF implementations for Brynja |
-| 2026-11-01 17:10:17 | [filer-ar](https://crates.io/crates/filer-ar) | 0.0.1 | 0 | Read-only ar archive driver for the Filer API. |
-| 2026-11-01 17:10:18 | [filer-cpio](https://crates.io/crates/filer-cpio) | 0.0.1 | 0 | Read-only cpio archive driver for the Filer API. |
-| 2026-11-01 17:10:19 | [filer-rar](https://crates.io/crates/filer-rar) | 0.0.1 | 0 | Read-only RAR archive driver for the Filer API. |
-| 2026-11-01 17:10:24 | [brynja-hash-parallel-std](https://crates.io/crates/brynja-hash-parallel-std) | 0.1.0 | 0 | Optional bounded std executor for Brynja ParallelHash |
-| 2026-11-01 17:10:32 | [nat-lab](https://crates.io/crates/nat-lab) | 0.1.0 | 0 | Emulated NAT devices for testing UDP traversal code: a deterministic virtual ne… |
-| 2026-11-01 17:10:45 | [brynja-strict](https://crates.io/crates/brynja-strict) | 0.1.0 | 0 | Strict-only protected cryptography facade with fallible platform admission |
-| 2026-11-01 17:10:56 | [punch-hole](https://crates.io/crates/punch-hole) | 0.1.0 | 0 | Signaling-agnostic UDP hole punching primitives |
-| 2026-11-01 17:12:47 | [osbrowser](https://crates.io/crates/osbrowser) | 0.5.0 | 0 | webcore's API, driving the system browser: the same Document, window, events an… |
-| 2026-11-01 17:17:37 | [ras-jsonrpc-bidirectional-macro](https://crates.io/crates/ras-jsonrpc-bidirectional-macro) | 0.3.0 | 0 | Procedural macro for bidirectional JSON-RPC services |
+| 2026-11-01 17:20:38 | [gitbonsai](https://crates.io/crates/gitbonsai) | 0.1.0 | 0 | Grow a Japanese maple bonsai from your GitHub activity: an animated SVG for you… |
+| 2026-11-01 17:20:49 | [provcfg-sea-orm](https://crates.io/crates/provcfg-sea-orm) | 0.2.0 | 0 | SQLite and PostgreSQL config sources for provcfg, built on SeaORM. |
+| 2026-11-01 17:27:46 | [ras-transport-core](https://crates.io/crates/ras-transport-core) | 0.2.0 | 0 | HTTP transport for generated Rust API Stack clients: reqwest in production, axu… |
+| 2026-11-01 17:29:11 | [smear-lexer](https://crates.io/crates/smear-lexer) | 0.0.1 | 0 | Zero-copy lexers for GraphQL and GraphQLx: a syntactic token stream that skips… |
+| 2026-11-01 17:29:48 | [smear-parser](https://crates.io/crates/smear-parser) | 0.0.1 | 0 | Zero-copy parsers for GraphQL and GraphQLx: atomic combinators over `smear-lexe… |
+| 2026-11-01 17:30:02 | [smear-schema](https://crates.io/crates/smear-schema) | 0.0.1 | 0 | The built-once GraphQL schema: interned names, flat tables and packed type refe… |
+| 2026-11-01 17:30:28 | [sentdm-voice-agents](https://crates.io/crates/sentdm-voice-agents) | 0.1.0 | 0 | Sent Voice Agents for Rust: an AI agent that takes and places phone calls throu… |
+| 2026-11-01 17:30:33 | [smear-compiler](https://crates.io/crates/smear-compiler) | 0.0.1 | 0 | Draft §5 GraphQL document validation over a built schema, with an allocation-fr… |
+| 2026-11-01 17:30:43 | [graphql-proto](https://crates.io/crates/graphql-proto) | 0.0.1 | 0 | The GraphQL protocol machine, Sans-I/O: draft §6 execution as a state machine t… |
+| 2026-11-01 17:31:16 | [cargo-smart-release-core](https://crates.io/crates/cargo-smart-release-core) | 0.1.0 | 0 | Reusable API compatibility checks for Rust workspaces. |
+| 2026-11-01 17:31:28 | [sinfonia](https://crates.io/crates/sinfonia) | 0.1.0 | 0 | Sinfonia — a symphony of GPUs. Contract core for the estate wireless GPU platfo… |
+| 2026-11-01 17:33:23 | [pineforge](https://crates.io/crates/pineforge) | 0.1.1 | 0 | Transform any image to fit the Rose Pine palette |
+| 2026-11-01 17:35:12 | [kitctl-providers](https://crates.io/crates/kitctl-providers) | 2.1.0 | 0 | Model API adapters (Anthropic, OpenAI-compatible) for Kit's own coding agent |
+| 2026-11-01 17:35:39 | [kitctl-loop](https://crates.io/crates/kitctl-loop) | 2.1.0 | 0 | Kit's own coding agent: the loop, its tools and permissions |
+| 2026-11-01 17:37:37 | [ras-file-macro](https://crates.io/crates/ras-file-macro) | 0.3.0 | 0 | Procedural macro for type-safe file upload and download APIs |
+| 2026-11-01 17:41:08 | [fulgur-raikiri](https://crates.io/crates/fulgur-raikiri) | 0.0.0 | 0 | Placeholder — under development |
+| 2026-11-01 17:42:34 | [filer-fat](https://crates.io/crates/filer-fat) | 0.0.1 | 0 | FAT12/16/32 file system driver for the Filer API. |
+| 2026-11-01 17:45:24 | [eqproxy](https://crates.io/crates/eqproxy) | 0.0.1 | 0 | EQProxy - reverse proxy and load balancer that imports your HAProxy/nginx confi… |
+| 2026-11-01 17:47:09 | [reefadmin](https://crates.io/crates/reefadmin) | 0.1.0 | 0 | A Django-inspired, server-rendered admin for Axum and SeaORM, with Loco integra… |
+| 2026-11-01 17:47:42 | [ras-version-core](https://crates.io/crates/ras-version-core) | 0.1.0 | 0 | Core traits for versioned API migrations in Rust API Stack |
+| 2026-11-01 17:49:37 | [compressr](https://crates.io/crates/compressr) | 0.2.0 | 0 | High-performance model conversion and compression suite for LLMs |
+| 2026-11-01 17:54:02 | [exyonq](https://crates.io/crates/exyonq) | 0.0.1 | 0 | ExyonQ - placeholder release; implementation coming soon. |
+| 2026-11-01 17:57:36 | [ras-jsonrpc-core](https://crates.io/crates/ras-jsonrpc-core) | 0.3.0 | 0 | Runtime support for JSON-RPC services generated by ras-jsonrpc-macro |
+| 2026-11-01 17:57:36 | [orbis-core](https://crates.io/crates/orbis-core) | 0.1.0 | 0 | Orbis Finding Model: the universal schema every collector normalizes into |
+| 2026-11-01 17:58:35 | [orbis-risk](https://crates.io/crates/orbis-risk) | 0.1.0 | 0 | Context-aware risk assessment and security scoring |
+| 2026-11-01 17:59:42 | [orbis-scanner](https://crates.io/crates/orbis-scanner) | 0.1.0 | 0 | Collector adapters: wrap existing scanners and normalize their output |
+| 2026-11-01 18:01:50 | [orbis-cli](https://crates.io/crates/orbis-cli) | 0.1.0 | 0 | Security visibility and remediation from your terminal: orchestrates the scanne… |
+| 2026-11-01 18:03:13 | [tm-elpi](https://crates.io/crates/tm-elpi) | 0.12.0 | 0 | Tiramemsu ELPI: λProlog programs run by lean-elpi over a view, with host builti… |
+| 2026-11-01 18:03:22 | [tm-elpi-store](https://crates.io/crates/tm-elpi-store) | 0.12.0 | 0 | Tiramemsu ELPI persistence: stored λProlog programs with includes, commit-time… |
+| 2026-11-01 18:07:39 | [ras-jsonrpc-macro](https://crates.io/crates/ras-jsonrpc-macro) | 0.4.0 | 0 | Procedural macro for type-safe JSON-RPC interfaces with auth integration and Op… |
+| 2026-11-01 18:08:03 | [onde-code-agent](https://crates.io/crates/onde-code-agent) | 1.1.0 | 0 | Onde Code as an embeddable ed-acp agent: the Profile, its Onde sign-in and the… |
+| 2026-11-01 18:09:58 | [kepid](https://crates.io/crates/kepid) | 0.1.0 | 0 | Satellite orbits packed into UUIDv7 |
+| 2026-11-01 18:11:12 | [kepid-cli](https://crates.io/crates/kepid-cli) | 0.1.0 | 0 | Satellite orbits packed into UUIDv7 (CLI tool) |
+| 2026-11-01 18:16:41 | [tessera-rl](https://crates.io/crates/tessera-rl) | 0.0.1 | 0 | Reinforcement learning environments and simulation engine |
+| 2026-11-01 18:16:44 | [margin-rs](https://crates.io/crates/margin-rs) | 0.0.1 | 0 | Risk and margin engine: portfolio greeks, standard and portfolio margin, liquid… |
+| 2026-11-01 18:16:47 | [arbitrage-rs](https://crates.io/crates/arbitrage-rs) | 0.0.1 | 0 | Arbitrage models for spot, futures, perpetuals and options |
+| 2026-11-01 18:16:59 | [tessera-rl-core](https://crates.io/crates/tessera-rl-core) | 0.0.1 | 0 | Part of tessera-rl. Placeholder release. |
+| 2026-11-01 18:17:02 | [tessera-rl-num](https://crates.io/crates/tessera-rl-num) | 0.0.1 | 0 | Part of tessera-rl. Placeholder release. |
+| 2026-11-01 18:17:42 | [ai-gent-core](https://crates.io/crates/ai-gent-core) | 0.1.0 | 0 | Core library of ai-gent, the toolkit of skills, plugins and tools for code agen… |
+| 2026-11-01 18:17:42 | [ras-rest-core](https://crates.io/crates/ras-rest-core) | 0.2.1 | 0 | Runtime types for REST services generated by ras-rest-macro |
+| 2026-11-01 18:17:44 | [ai-gent](https://crates.io/crates/ai-gent) | 0.1.0 | 0 | The ai-gent command-line tool: guards, worktrees, token reports and updates for… |
 
 ## Data source
 
