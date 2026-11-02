@@ -8,38 +8,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 04:18 UTC
+## Latest list — 2026-11-02 05:19 UTC
 
-New crates published between 2026-11-02 03:18 UTC and 2026-11-02 04:18 UTC.
+New crates published between 2026-11-02 04:18 UTC and 2026-11-02 05:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-02T04-18-07-983849Z.csv)
+[Full CSV](data/new-crates-2026-11-02T05-19-03-048528Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-02 03:22:52 | [cgap-bont](https://crates.io/crates/cgap-bont) | 26.11.1 | 0 | Binary ontology (B-ONT) primitives, SHACL bitmask compiler and O-ABI reader for… |
-| 2026-11-02 03:24:48 | [cgap-bosym](https://crates.io/crates/cgap-bosym) | 26.11.1 | 0 | Binary ontology symbol slab (B-OSYM) interned-identifier slab for the cgap sove… |
-| 2026-11-02 03:25:33 | [cgap-crypto](https://crates.io/crates/cgap-crypto) | 26.11.1 | 0 | Sovereign, zero-dependency #![no_std] keyed BLAKE3 cryptography kernel (keyed d… |
-| 2026-11-02 03:25:36 | [gpui-ohos](https://crates.io/crates/gpui-ohos) | 0.0.1-beta.0 | 0 | OpenHarmony platform support for GPUI |
-| 2026-11-02 03:27:05 | [dhabatui](https://crates.io/crates/dhabatui) | 0.1.0 | 0 | Fast, keyboard-first Terminal POS and billing application for dhabas and casual… |
-| 2026-11-02 03:33:20 | [lumen-mcp-server](https://crates.io/crates/lumen-mcp-server) | 1.0.0 | 0 | Lux in motu - cross-platform, cross-media deterministic conversion engine: 2D a… |
-| 2026-11-02 03:33:40 | [cgap-gpu](https://crates.io/crates/cgap-gpu) | 26.11.1 | 0 | GPU execution membrane for the cgap sovereign substrate: Metal Unified Memory z… |
-| 2026-11-02 03:37:46 | [sark-http](https://crates.io/crates/sark-http) | 0.21.0 | 0 | HTTP wire types, semantics, codecs, and ownership invariants for Sark |
-| 2026-11-02 03:37:57 | [sark-h1](https://crates.io/crates/sark-h1) | 0.21.0 | 0 | Fiber-free HTTP/1 ingress, batching, and response protocol engine for sark |
-| 2026-11-02 03:38:09 | [sark-fiber](https://crates.io/crates/sark-fiber) | 0.21.0 | 0 | Fiber execution extension for the Sark facade |
-| 2026-11-02 03:39:32 | [octet-cli](https://crates.io/crates/octet-cli) | 0.1.0 | 0 | Information-design-first hex viewer, binary inspector, and modern xxd / hexdump… |
-| 2026-11-02 03:43:38 | [cgap-cloud](https://crates.io/crates/cgap-cloud) | 26.11.1 | 0 | Cloud ontology O-ABI pack for the cgap sovereign columnar substrate: build-time… |
-| 2026-11-02 03:51:56 | [cargo-craftcheck](https://crates.io/crates/cargo-craftcheck) | 2.0.0-rc6 | 0 | Portable Craftbook v2 policy validator for Cargo workspaces |
-| 2026-11-02 03:53:39 | [cgap-audit](https://crates.io/crates/cgap-audit) | 26.11.1 | 0 | CC=1 branch-audit cdylib: forces every kernel into the artifact so machine code… |
-| 2026-11-02 04:03:24 | [atrium-emotion](https://crates.io/crates/atrium-emotion) | 0.1.0 | 0 | Affective state engine: PAD emotion model with OU drift, circadian rhythm, iner… |
-| 2026-11-02 04:03:44 | [cgap-gate](https://crates.io/crates/cgap-gate) | 26.11.1 | 0 | Campaign boundary gate kernels: fail-closed guard evaluation courts for the cga… |
-| 2026-11-02 04:10:12 | [gigsift-recipes](https://crates.io/crates/gigsift-recipes) | 0.2.0 | 0 | Declarative recipe loader and matcher for gigsift |
-| 2026-11-02 04:10:13 | [gigsift-store](https://crates.io/crates/gigsift-store) | 0.2.0 | 0 | Local SQLite persistence for gigsift plans and the audit log |
-| 2026-11-02 04:10:19 | [gigsift-engine](https://crates.io/crates/gigsift-engine) | 0.2.0 | 0 | Operations shared by the gigsift CLI, MCP server, and Raycast extension |
-| 2026-11-02 04:10:22 | [gigsift-mcp](https://crates.io/crates/gigsift-mcp) | 0.2.0 | 0 | MCP stdio server for gigsift |
-| 2026-11-02 04:10:47 | [chinese-rrule](https://crates.io/crates/chinese-rrule) | 0.1.0 | 0 | Parse Chinese natural-language time expressions into RFC 5545 RRULE strings and… |
-| 2026-11-02 04:11:50 | [robostickies](https://crates.io/crates/robostickies) | 0.1.1-rc.1 | 0 | Small repository-local notes for humans and agents, through CLI and MCP |
-| 2026-11-02 04:12:06 | [threeputt](https://crates.io/crates/threeputt) | 0.0.1 | 0 | Client library for the ExPutt RG putting device over WiFi |
-| 2026-11-02 04:13:45 | [cgap-bn3](https://crates.io/crates/cgap-bn3) | 26.11.1 | 0 | Binary N3 (BN3) reasoning kernel: slab arena, sigil codec, BN3 unifier and proj… |
+| 2026-11-02 04:23:54 | [cabinpkg-credentials](https://crates.io/crates/cabinpkg-credentials) | 0.18.0 | 0 | Registry credential storage for Cabin |
+| 2026-11-02 04:23:59 | [cabinpkg-registry-api](https://crates.io/crates/cabinpkg-registry-api) | 0.18.0 | 0 | Remote registry API client for Cabin |
+| 2026-11-02 04:24:01 | [rightkit-google-apis](https://crates.io/crates/rightkit-google-apis) | 0.1.0 | 0 | Async Google Workspace REST clients: Gmail (sync, history, batch fetch, MIME, c… |
+| 2026-11-02 04:24:11 | [cabinpkg-registry-verify](https://crates.io/crates/cabinpkg-registry-verify) | 0.18.0 | 0 | Registry archive verifier for Cabin |
+| 2026-11-02 04:24:40 | [cgap-p28](https://crates.io/crates/cgap-p28) | 26.11.1 | 0 | P28-SIL v2.1.0 sovereign compliance crate: license attestation (80-byte P28Lice… |
+| 2026-11-02 04:24:41 | [prego-auth](https://crates.io/crates/prego-auth) | 0.1.0 | 0 | Identity sources and the STS token exchange for Prego by k8skill clients. |
+| 2026-11-02 04:24:49 | [metop](https://crates.io/crates/metop) | 0.3.0 | 0 | Linux memory analysis TUI: RSS/PSS/USS per process, VMA drill-down |
+| 2026-11-02 04:24:56 | [cargo-credential-prego](https://crates.io/crates/cargo-credential-prego) | 0.1.0 | 0 | Cargo credential provider for Prego by k8skill registries. Exchanges a machine… |
+| 2026-11-02 04:25:15 | [rightkit-code-audit-provider-sdk](https://crates.io/crates/rightkit-code-audit-provider-sdk) | 0.1.0 | 0 | Code audit provider SDK: provider registry, source and effect interfaces for au… |
+| 2026-11-02 04:25:26 | [meiose](https://crates.io/crates/meiose) | 0.1.0 | 0 | A context-trimming proxy for MCP servers: smaller tool outputs for AI agents, o… |
+| 2026-11-02 04:26:23 | [rightkit-agent-policy](https://crates.io/crates/rightkit-agent-policy) | 0.1.0 | 0 | Agent tool-use policy: permission modes, command classification, path and netwo… |
+| 2026-11-02 04:33:35 | [cgap-core](https://crates.io/crates/cgap-core) | 26.11.1 | 0 | 128-byte sovereign CgapFrameHeader codec and triumvirate isomorphism kernels fo… |
+| 2026-11-02 04:43:42 | [wasm-footprint](https://crates.io/crates/wasm-footprint) | 26.11.1 | 0 | no_std cdylib wrapper supplying the wasm link glue (panic handler + global allo… |
+| 2026-11-02 04:45:10 | [youtube-transcript-api](https://crates.io/crates/youtube-transcript-api) | 0.1.0 | 0 | Fetch YouTube transcripts and subtitles, including auto-generated ones, without… |
+| 2026-11-02 04:45:13 | [plakous-cell](https://crates.io/crates/plakous-cell) | 0.0.3 | 0 | Cell protocol, worker client and session for isolated interpreter workers |
+| 2026-11-02 04:45:19 | [youtube-transcript-api-cli](https://crates.io/crates/youtube-transcript-api-cli) | 0.1.0 | 0 | Command-line tool that fetches YouTube transcripts and subtitles, including aut… |
+| 2026-11-02 04:45:54 | [cua-connections](https://crates.io/crates/cua-connections) | 0.10.0 | 0 | The provider registry behind Settings, Connections and `cua connections`: one T… |
+| 2026-11-02 04:46:04 | [cua-repo-cache](https://crates.io/crates/cua-repo-cache) | 0.10.0 | 0 | A transparent, size-bounded cache of public git repositories owned by the cua d… |
+| 2026-11-02 04:52:58 | [rightkit-agent-engine-storage](https://crates.io/crates/rightkit-agent-engine-storage) | 0.1.0 | 0 | Agent engine SQLite storage: session event journal, transcripts, tasks, artifac… |
+| 2026-11-02 04:53:44 | [cgap-ffi](https://crates.io/crates/cgap-ffi) | 26.11.1 | 0 | C Data Interface cdylib membrane for cgap (Gate 3 wire-parity exports). |
+| 2026-11-02 04:53:48 | [rightkit-terminal-ui](https://crates.io/crates/rightkit-terminal-ui) | 0.1.0 | 0 | Terminal UI for agent sessions: ratatui chat transcript, composer, approvals, d… |
+| 2026-11-02 04:58:42 | [viat-gql](https://crates.io/crates/viat-gql) | 1.0.1 | 0 | Hasura-style GraphQL-to-SQL query engine for PostgreSQL, SQLite and MySQL — one… |
+| 2026-11-02 05:00:44 | [viat-gql-cli](https://crates.io/crates/viat-gql-cli) | 1.0.1 | 0 | CLI to generate and validate viat-gql schema overlays. |
+| 2026-11-02 05:01:32 | [kibo-crypto-core](https://crates.io/crates/kibo-crypto-core) | 0.2.0 | 0 | Public raw-crypto primitives: AES-256-GCM-SIV AEAD, DEK lifecycle, HKDF-SHA-256… |
+| 2026-11-02 05:01:52 | [kibo-kms-rest](https://crates.io/crates/kibo-kms-rest) | 2.14.2 | 0 | On-device REST-direct KMS layer (EaaS) for mobile/IoT/edge: KEK-free customer-K… |
+| 2026-11-02 05:03:46 | [cgap-storage](https://crates.io/crates/cgap-storage) | 26.11.1 | 0 | WAL-framed transactional storage engine (flash model, Txn commit path, differen… |
+| 2026-11-02 05:05:21 | [mumcord-plugin-sdk](https://crates.io/crates/mumcord-plugin-sdk) | 0.6.0 | 0 | SDK for writing Mumcord plugins as WebAssembly components |
+| 2026-11-02 05:08:32 | [mumcord-plugins](https://crates.io/crates/mumcord-plugins) | 0.6.0 | 0 | Plugin host for Mumcord: sandboxed WebAssembly runtime, manifest and package ha… |
+| 2026-11-02 05:11:26 | [mumcord-plugin](https://crates.io/crates/mumcord-plugin) | 0.6.0 | 0 | Command-line tool for Mumcord plugin authors and repository maintainers |
+| 2026-11-02 05:12:35 | [tin-logging](https://crates.io/crates/tin-logging) | 0.1.0 | 0 | Rust tracing file logging with Beijing-time rotation and optional Axum request… |
+| 2026-11-02 05:13:37 | [cgap-fibo](https://crates.io/crates/cgap-fibo) | 26.11.1 | 0 | FIBO O-ABI pack for the cgap sovereign columnar substrate: build-time-emitted b… |
+| 2026-11-02 05:16:59 | [nadir_engine](https://crates.io/crates/nadir_engine) | 0.1.1 | 0 | A lightweight, cross-platform Rust engine. |
 
 ## Data source
 

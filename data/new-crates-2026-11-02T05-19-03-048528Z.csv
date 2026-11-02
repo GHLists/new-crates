@@ -1,0 +1,33 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T04:23:54.630203Z,cabinpkg-credentials,0.18.0,0,0,https://github.com/cabinpkg/cabin,Registry credential storage for Cabin
+2026-11-02T04:23:59.606483Z,cabinpkg-registry-api,0.18.0,0,0,https://github.com/cabinpkg/cabin,Remote registry API client for Cabin
+2026-11-02T04:24:01.873998Z,rightkit-google-apis,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Async Google Workspace REST clients: Gmail (sync, history, batch fetch, MIME, compose, labels, filters, settings, drafts, attachments), Calendar, Drive, People, Tasks and Meet, with desktop OAuth and…"
+2026-11-02T04:24:11.625988Z,cabinpkg-registry-verify,0.18.0,0,0,https://github.com/cabinpkg/cabin,Registry archive verifier for Cabin
+2026-11-02T04:24:40.688036Z,cgap-p28,26.11.1,0,0,,"P28-SIL v2.1.0 sovereign compliance crate: license attestation (80-byte P28LicenseAttestation), ASC-450 control kernels, and sealed evidence for the cgap substrate."
+2026-11-02T04:24:41.233332Z,prego-auth,0.1.0,0,0,https://github.com/group-katskill/prego-clients,Identity sources and the STS token exchange for Prego by k8skill clients.
+2026-11-02T04:24:49.316406Z,metop,0.3.0,0,0,https://github.com/baka-world/mtop,"Linux memory analysis TUI: RSS/PSS/USS per process, VMA drill-down"
+2026-11-02T04:24:56.201957Z,cargo-credential-prego,0.1.0,0,0,https://github.com/group-katskill/prego-clients,Cargo credential provider for Prego by k8skill registries. Exchanges a machine identity for a short-lived registry token.
+2026-11-02T04:25:15.606551Z,rightkit-code-audit-provider-sdk,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Code audit provider SDK: provider registry, source and effect interfaces for audit providers"
+2026-11-02T04:25:26.282562Z,meiose,0.1.0,0,0,https://github.com/yousufmohi/meiose,"A context-trimming proxy for MCP servers: smaller tool outputs for AI agents, originals one call away"
+2026-11-02T04:26:23.994826Z,rightkit-agent-policy,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Agent tool-use policy: permission modes, command classification, path and network rules for agent hosts"
+2026-11-02T04:33:35.913931Z,cgap-core,26.11.1,0,0,,128-byte sovereign CgapFrameHeader codec and triumvirate isomorphism kernels for the cgap substrate.
+2026-11-02T04:43:42.598288Z,wasm-footprint,26.11.1,0,0,https://github.com/seanchatmangpt/cgap,no_std cdylib wrapper supplying the wasm link glue (panic handler + global allocator) around the cgap-arrow / cgap-parquet kernels; the wasm32-wasip1 footprint subject measured by scripts/footprint.sh
+2026-11-02T04:45:10.90128Z,youtube-transcript-api,0.1.0,0,0,https://github.com/bluefielddigital/youtube-transcript-api-rs,"Fetch YouTube transcripts and subtitles, including auto-generated ones, without an API key or a headless browser"
+2026-11-02T04:45:13.903646Z,plakous-cell,0.0.3,0,0,https://github.com/N0xMare/plak,"Cell protocol, worker client and session for isolated interpreter workers"
+2026-11-02T04:45:19.644712Z,youtube-transcript-api-cli,0.1.0,0,0,https://github.com/bluefielddigital/youtube-transcript-api-rs,"Command-line tool that fetches YouTube transcripts and subtitles, including auto-generated ones, without an API key or a headless browser"
+2026-11-02T04:45:54.454516Z,cua-connections,0.10.0,0,0,https://github.com/trycua/cua,"The provider registry behind Settings, Connections and `cua connections`: one TOML file per provider (methods, base URLs, env names, which apps receive what), the generated tables the other crates re…"
+2026-11-02T04:46:04.069395Z,cua-repo-cache,0.10.0,0,0,https://github.com/trycua/cua,"A transparent, size-bounded cache of public git repositories owned by the cua daemon: bare mirrors on this machine's disk, a read-only mount and a git remote helper that give a Space's plain `git clo…"
+2026-11-02T04:52:58.764788Z,rightkit-agent-engine-storage,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Agent engine SQLite storage: session event journal, transcripts, tasks, artifacts, goals and migrations"
+2026-11-02T04:53:44.788987Z,cgap-ffi,26.11.1,0,0,,C Data Interface cdylib membrane for cgap (Gate 3 wire-parity exports).
+2026-11-02T04:53:48.990491Z,rightkit-terminal-ui,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Terminal UI for agent sessions: ratatui chat transcript, composer, approvals, diffs and status widgets"
+2026-11-02T04:58:42.816799Z,viat-gql,1.0.1,0,0,https://github.com/viat-dev/viat-gql,"Hasura-style GraphQL-to-SQL query engine for PostgreSQL, SQLite and MySQL — one SQL per request via JSON aggregation."
+2026-11-02T05:00:44.008953Z,viat-gql-cli,1.0.1,0,0,https://github.com/viat-dev/viat-gql,CLI to generate and validate viat-gql schema overlays.
+2026-11-02T05:01:32.543132Z,kibo-crypto-core,0.2.0,0,0,https://github.com/k9o-dev/kibo-kms-rest,"Public raw-crypto primitives: AES-256-GCM-SIV AEAD, DEK lifecycle, HKDF-SHA-256 KDF, versioned ciphertext envelope format, shared boundary types"
+2026-11-02T05:01:52.076134Z,kibo-kms-rest,2.14.2,0,0,https://github.com/k9o-dev/kibo-kms-rest,"On-device REST-direct KMS layer (EaaS) for mobile/IoT/edge: KEK-free customer-KMS Encrypt/Decrypt over plain HTTPS, no vendor SDKs"
+2026-11-02T05:03:46.199999Z,cgap-storage,26.11.1,0,0,,"WAL-framed transactional storage engine (flash model, Txn commit path, differential erase sweeps) for the cgap substrate."
+2026-11-02T05:05:21.259799Z,mumcord-plugin-sdk,0.6.0,0,0,https://github.com/Mumcord/mumcord,SDK for writing Mumcord plugins as WebAssembly components
+2026-11-02T05:08:32.741939Z,mumcord-plugins,0.6.0,0,0,https://github.com/Mumcord/mumcord,"Plugin host for Mumcord: sandboxed WebAssembly runtime, manifest and package handling"
+2026-11-02T05:11:26.860618Z,mumcord-plugin,0.6.0,0,0,https://github.com/Mumcord/mumcord,Command-line tool for Mumcord plugin authors and repository maintainers
+2026-11-02T05:12:35.347756Z,tin-logging,0.1.0,0,0,https://github.com/JiabinTang/tin-logging,Rust tracing file logging with Beijing-time rotation and optional Axum request tracing
+2026-11-02T05:13:37.689807Z,cgap-fibo,26.11.1,0,0,,"FIBO O-ABI pack for the cgap sovereign columnar substrate: build-time-emitted binary ontology pack, no_std const/types facade."
+2026-11-02T05:16:59.754334Z,nadir_engine,0.1.1,0,0,https://github.com/jabbott-iii/Nadir,"A lightweight, cross-platform Rust engine."
