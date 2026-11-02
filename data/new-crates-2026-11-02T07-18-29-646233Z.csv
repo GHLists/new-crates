@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T06:18:39.988164Z,rightkit-social-publish,0.1.1,0,0,https://github.com/bogusyogi/rightkit,"Social platform publish adapters (X, Bluesky, Mastodon, Threads, Instagram, Facebook, LinkedIn, Pinterest, TikTok, YouTube) with a no-retry HTTP layer, Retry-After parsing, media checks, pinned API v…"
+2026-11-02T06:19:57.971156Z,tauri-plugin-thumbar,0.1.1,0,0,https://github.com/Miaoyww/tauri-plugin-thumbar,Runtime-defined Windows taskbar thumbnail toolbar controls for Tauri apps
+2026-11-02T06:21:42.223414Z,pocket-driver-kit,0.1.0,0,0,https://github.com/pocket-nexus/pocketjs,Reusable driver conformance probes and delayed-device fixtures for PocketJS
+2026-11-02T06:27:08.519351Z,robot2robot,0.0.0,0,0,https://github.com/Duotron/r2r,robot2robot (R2R): an open trust and coordination protocol for robots and physical AI. Name reservation; no functionality yet.
+2026-11-02T06:27:10.190325Z,robot2robot-a2a,0.0.0,0,0,https://github.com/Duotron/r2r,A2A (Agent2Agent) interoperability adapter for robot2robot (R2R). Name reservation; no functionality yet.
+2026-11-02T06:28:27.880931Z,glowcap,0.1.1,0,0,https://github.com/glowcap-org/glowcap,Capability networking and Loam durable state through the glowcap C ABI.
+2026-11-02T06:31:45.870367Z,pocketjs-core,0.1.0,0,0,https://github.com/pocket-nexus/pocketjs,"Retained PocketJS UI tree, layout, animation and DrawList emission"
+2026-11-02T06:33:38.470671Z,smarthive-mailer,0.1.0,0,0,https://github.com/dhopegraphics/Smart-Internal-Mailer-Notification,"Async Rust client for the SmartHive Internal Communications API (mail, notifications, webhooks, scheduler, admin)."
+2026-11-02T06:41:41.872265Z,rightkit-context-protocol,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Context protocol contract: typed scope-grant, candidate-set, packet, receipt and knowledge-emission shapes, their canonical JSON Schemas, and the canonical byte/digest contract."
+2026-11-02T06:41:42.591072Z,pocket-runtime,0.1.0,0,0,https://github.com/pocket-nexus/pocketjs,"PocketJS application instances, profile facts, input encoding, package admission, and frame scheduling"
+2026-11-02T06:45:03.903301Z,fengshuibedroom-url-tools,0.1.0,0,0,https://github.com/wangneo276-lgtm/fengshuibedroom-url-tools,"Upload a bedroom photo for an AI feng shui bedroom check: bed position, door line, mirrors, windows and walkways, with priority fixes. First full report free."
+2026-11-02T06:50:19.641386Z,eidolon-core,0.0.3-alpha,0,0,https://github.com/bingling-sama/eidolon,A Minecraft skin off-screen renderer core engine written in Rust
+2026-11-02T06:51:38.741113Z,pocket-guest-rquickjs,0.1.0,0,0,https://github.com/pocket-nexus/pocketjs,Generated PocketJS UI bindings and guest lifecycle for rquickjs
+2026-11-02T06:51:48.212568Z,eidolon-cli,0.0.3-alpha,0,0,https://github.com/bingling-sama/eidolon,Minecraft skin renderer CLI
+2026-11-02T06:55:47.517638Z,bridgekeeper,1.0.0,0,0,https://github.com/si-ready/wsl-npu-bridge,Zero-dependency resident daemon fronting the WSL NPU bridge (Lemonade + FastFlowLM) behind one honest loopback API with fail-fast upstream health semantics.
+2026-11-02T07:00:05.597985Z,glomar,0.1.0,0,0,,"Hardened, constant-time cryptography in pure Rust with a ring / aws-lc-rs compatible API"
+2026-11-02T07:00:11.034678Z,glomar-rustls,0.1.0,0,0,,rustls crypto provider backed by glomar
+2026-11-02T07:08:51.916776Z,penelope-timeline,0.4.0,0,0,https://github.com/STEXS-Technologies/penelope,"Bounded deterministic correction, scratch replay and atomic timeline publication."
+2026-11-02T07:13:44.722264Z,imc-parser,0.0.1,0,0,https://gitee.com/oime/imc-parser.git,Zero-dependency imc parser library
+2026-11-02T07:17:00.063786Z,espforge-drivers,0.7.0,0,0,https://github.com/mohankumargupta/espforge,a scaffolding++ tool for creating esp32 no_std esphal without the hassle
+2026-11-02T07:17:07.119652Z,aven-ai-contract,0.1.0,0,0,,Provider-neutral Aven AI completion wire contract

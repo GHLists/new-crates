@@ -8,37 +8,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 06:18 UTC
+## Latest list — 2026-11-02 07:18 UTC
 
-New crates published between 2026-11-02 05:19 UTC and 2026-11-02 06:18 UTC.
+New crates published between 2026-11-02 06:18 UTC and 2026-11-02 07:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-02T06-18-27-259627Z.csv)
+[Full CSV](data/new-crates-2026-11-02T07-18-29-646233Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-02 05:21:56 | [pocket-sim](https://crates.io/crates/pocket-sim) | 0.1.0 | 0 | Bounded prediction, reconciliation and snapshot sampling for fixed-step simulat… |
-| 2026-11-02 05:21:58 | [pocket-spec](https://crates.io/crates/pocket-spec) | 0.1.0 | 0 | Generated PocketJS operation codes, data formats, and input constants |
-| 2026-11-02 05:21:59 | [pocket-tex-cache](https://crates.io/crates/pocket-tex-cache) | 0.1.0 | 0 | Versioned driver texture storage with submission-scoped retirement |
-| 2026-11-02 05:22:03 | [pocket-drivers](https://crates.io/crates/pocket-drivers) | 0.1.0 | 0 | Device contracts and borrowed rendering resources for PocketJS |
-| 2026-11-02 05:22:04 | [pocket-media](https://crates.io/crates/pocket-media) | 0.1.0 | 0 | Stream containers, media transport messages, and asset codecs for PocketJS |
-| 2026-11-02 05:23:42 | [rightkit-bot-messaging](https://crates.io/crates/rightkit-bot-messaging) | 0.1.0 | 0 | Bot messaging bridge: remote chat channels (Telegram, Slack, Discord style) rel… |
-| 2026-11-02 05:31:50 | [pocket-draw-ops](https://crates.io/crates/pocket-draw-ops) | 0.1.0 | 0 | Borrowed DrawList decoding and clipping for PocketJS renderers |
-| 2026-11-02 05:40:28 | [nordisk-heimdall-profiles](https://crates.io/crates/nordisk-heimdall-profiles) | 0.3.0 | 0 | Heimdall is a defensive sandbox: the generated, checked-in seccomp profiles (pr… |
-| 2026-11-02 05:40:36 | [nordisk-heimdall-broker](https://crates.io/crates/nordisk-heimdall-broker) | 0.3.0 | 0 | Heimdall is a defensive sandbox: heimdall-broker is the syscall broker (layer 2… |
-| 2026-11-02 05:40:50 | [nordisk-heimdall-trace](https://crates.io/crates/nordisk-heimdall-trace) | 0.3.0 | 0 | Heimdall is a defensive sandbox: the dynamic-trace job (a package's install or… |
-| 2026-11-02 05:40:55 | [nordisk-heimdall-scan](https://crates.io/crates/nordisk-heimdall-scan) | 0.3.0 | 0 | Heimdall is a defensive sandbox: the static-scanner guest contract (scan input… |
-| 2026-11-02 05:41:44 | [pocket-glyph-pages](https://crates.io/crates/pocket-glyph-pages) | 0.1.0 | 0 | Borrowed font coverage expansion, bounded pages, and A8 masks for PocketJS |
-| 2026-11-02 05:51:46 | [pocket-package](https://crates.io/crates/pocket-package) | 0.1.0 | 0 | PocketJS package admission, asset pack readers, and package identity hashing |
-| 2026-11-02 05:57:35 | [sister-h3](https://crates.io/crates/sister-h3) | 0.1.0-rc.1 | 0 | An independent Rust implementation of the H3 hexagonal hierarchical geospatial… |
-| 2026-11-02 05:59:32 | [atalanta](https://crates.io/crates/atalanta) | 0.0.1 | 0 | Fast mobile UI tests from one binary (pre-release; see https://atalanta.sh) |
-| 2026-11-02 06:01:28 | [jupiter-yolo-sdk](https://crates.io/crates/jupiter-yolo-sdk) | 0.4.0 | 0 | Jupiter Yolo SDK |
-| 2026-11-02 06:01:50 | [pocket-raster](https://crates.io/crates/pocket-raster) | 0.1.0 | 0 | Deterministic DrawList software rasterization for PocketJS |
-| 2026-11-02 06:02:18 | [tickertape](https://crates.io/crates/tickertape) | 0.4.0 | 0 | A local, append-only event journal on memory-mapped segment files, with live cr… |
-| 2026-11-02 06:02:27 | [tickertape-cli](https://crates.io/crates/tickertape-cli) | 0.4.0 | 0 | Tools to tail, inspect, verify, export, summarize and archive tickertape journa… |
-| 2026-11-02 06:03:34 | [rightkit-owner-approvals](https://crates.io/crates/rightkit-owner-approvals) | 0.1.0 | 0 | Signed owner approvals for privileged and reserved actions: owner-check and app… |
-| 2026-11-02 06:06:00 | [rightkit-chat-bridge](https://crates.io/crates/rightkit-chat-bridge) | 0.1.0 | 0 | Chat between AI chats: envelopes, linked computers and the device link, native… |
-| 2026-11-02 06:08:14 | [rightkit-research](https://crates.io/crates/rightkit-research) | 0.1.1 | 0 | Research pipeline: sources, claims and evidence with provenance |
-| 2026-11-02 06:11:45 | [pocket-present](https://crates.io/crates/pocket-present) | 0.1.0 | 0 | Damage tracking, composition and presentation transactions for PocketJS |
+| 2026-11-02 06:18:39 | [rightkit-social-publish](https://crates.io/crates/rightkit-social-publish) | 0.1.1 | 0 | Social platform publish adapters (X, Bluesky, Mastodon, Threads, Instagram, Fac… |
+| 2026-11-02 06:19:57 | [tauri-plugin-thumbar](https://crates.io/crates/tauri-plugin-thumbar) | 0.1.1 | 0 | Runtime-defined Windows taskbar thumbnail toolbar controls for Tauri apps |
+| 2026-11-02 06:21:42 | [pocket-driver-kit](https://crates.io/crates/pocket-driver-kit) | 0.1.0 | 0 | Reusable driver conformance probes and delayed-device fixtures for PocketJS |
+| 2026-11-02 06:27:08 | [robot2robot](https://crates.io/crates/robot2robot) | 0.0.0 | 0 | robot2robot (R2R): an open trust and coordination protocol for robots and physi… |
+| 2026-11-02 06:27:10 | [robot2robot-a2a](https://crates.io/crates/robot2robot-a2a) | 0.0.0 | 0 | A2A (Agent2Agent) interoperability adapter for robot2robot (R2R). Name reservat… |
+| 2026-11-02 06:28:27 | [glowcap](https://crates.io/crates/glowcap) | 0.1.1 | 0 | Capability networking and Loam durable state through the glowcap C ABI. |
+| 2026-11-02 06:31:45 | [pocketjs-core](https://crates.io/crates/pocketjs-core) | 0.1.0 | 0 | Retained PocketJS UI tree, layout, animation and DrawList emission |
+| 2026-11-02 06:33:38 | [smarthive-mailer](https://crates.io/crates/smarthive-mailer) | 0.1.0 | 0 | Async Rust client for the SmartHive Internal Communications API (mail, notifica… |
+| 2026-11-02 06:41:41 | [rightkit-context-protocol](https://crates.io/crates/rightkit-context-protocol) | 0.1.0 | 0 | Context protocol contract: typed scope-grant, candidate-set, packet, receipt an… |
+| 2026-11-02 06:41:42 | [pocket-runtime](https://crates.io/crates/pocket-runtime) | 0.1.0 | 0 | PocketJS application instances, profile facts, input encoding, package admissio… |
+| 2026-11-02 06:45:03 | [fengshuibedroom-url-tools](https://crates.io/crates/fengshuibedroom-url-tools) | 0.1.0 | 0 | Upload a bedroom photo for an AI feng shui bedroom check: bed position, door li… |
+| 2026-11-02 06:50:19 | [eidolon-core](https://crates.io/crates/eidolon-core) | 0.0.3-alpha | 0 | A Minecraft skin off-screen renderer core engine written in Rust |
+| 2026-11-02 06:51:38 | [pocket-guest-rquickjs](https://crates.io/crates/pocket-guest-rquickjs) | 0.1.0 | 0 | Generated PocketJS UI bindings and guest lifecycle for rquickjs |
+| 2026-11-02 06:51:48 | [eidolon-cli](https://crates.io/crates/eidolon-cli) | 0.0.3-alpha | 0 | Minecraft skin renderer CLI |
+| 2026-11-02 06:55:47 | [bridgekeeper](https://crates.io/crates/bridgekeeper) | 1.0.0 | 0 | Zero-dependency resident daemon fronting the WSL NPU bridge (Lemonade + FastFlo… |
+| 2026-11-02 07:00:05 | [glomar](https://crates.io/crates/glomar) | 0.1.0 | 0 | Hardened, constant-time cryptography in pure Rust with a ring / aws-lc-rs compa… |
+| 2026-11-02 07:00:11 | [glomar-rustls](https://crates.io/crates/glomar-rustls) | 0.1.0 | 0 | rustls crypto provider backed by glomar |
+| 2026-11-02 07:08:51 | [penelope-timeline](https://crates.io/crates/penelope-timeline) | 0.4.0 | 0 | Bounded deterministic correction, scratch replay and atomic timeline publicatio… |
+| 2026-11-02 07:13:44 | [imc-parser](https://crates.io/crates/imc-parser) | 0.0.1 | 0 | Zero-dependency imc parser library |
+| 2026-11-02 07:17:00 | [espforge-drivers](https://crates.io/crates/espforge-drivers) | 0.7.0 | 0 | a scaffolding++ tool for creating esp32 no_std esphal without the hassle |
+| 2026-11-02 07:17:07 | [aven-ai-contract](https://crates.io/crates/aven-ai-contract) | 0.1.0 | 0 | Provider-neutral Aven AI completion wire contract |
 
 ## Data source
 
