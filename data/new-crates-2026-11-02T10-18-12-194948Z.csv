@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T09:20:27.299519Z,awsctl,1.2.4,0,0,https://github.com/Souldiv/awsctl,"CLI for AWS SSO, EC2, RDS, SSM and EKS operations"
+2026-11-02T09:22:49.373433Z,ffcine-breakdown,0.1.0,0,0,https://github.com/macalinao/ffcine,"ffcine breakdown: shot list of a reference video (cuts, keyframes, camera motion, beat alignment, colour, speech, on-screen text), contact sheet"
+2026-11-02T09:27:07.414851Z,agentscope-extensions-channel,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,"AgentScope Rust - platform channel adapters (DingTalk, Feishu, WeCom, Weixin, GitHub, GitLab)"
+2026-11-02T09:28:34.980723Z,nat3d-cli,0.2.2,0,0,https://github.com/Yatrogenesis/NAT3D,"Command-line interface for NAT3D - batch rendering, format conversion, benchmarks"
+2026-11-02T09:30:15.249728Z,hitop-sync-crypto,0.1.0,0,0,https://github.com/bohdaq/hitop,Client-side end-to-end encryption for hitop sync: HPKE key wrapping and XChaCha20-Poly1305 blobs
+2026-11-02T09:31:45.064391Z,oci-image,0.1.0,0,0,https://git.gunnar.rs/nordisk/edda,"OCI container images on disk: image references, sha256 digests, one-pass layer unpack (whiteouts and opaque directories), gzip (parallel via lgz when the stream allows it, streaming zlib-rs otherwise…"
+2026-11-02T09:33:52.661493Z,rightkit-adapt,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Adaptive agent learning: outcome observation, guidance proposals, application receipts and scoring"
+2026-11-02T09:34:04.628361Z,teanga,0.1.0,0,0,https://github.com/TeangaNLP/teanga.rs,A data model and storage format for annotated text corpora
+2026-11-02T09:36:06.289809Z,substantial-macros,0.2.0-beta.1,0,0,https://github.com/zifeo/substantial,"The attribute macros of Substantial: #[workflow], #[step]"
+2026-11-02T09:36:10.24932Z,cybernode,0.0.1,0,0,https://github.com/cyberia-to/cybernode,"cybernode — rung 7 of the soft3 ladder: the node (chain, wire and sync, mining, genesis, wallet). this version only holds the name; the node installs from its repository until 0.1 is published"
+2026-11-02T09:36:11.074828Z,substantial,0.2.0-beta.1,0,0,https://github.com/zifeo/substantial,Brokerless durable execution: the Rust host of the Substantial core
+2026-11-02T09:37:07.463946Z,agentscope-extensions-mem,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,"AgentScope Rust - long-term memory backends (Mem0, Bailian, ReMe)"
+2026-11-02T09:38:50.371905Z,tunelet,0.1.1,0,0,https://github.com/ByteLandTechnology/tunelet.git,"Safe, portable vocal pitch correction, choir, harmony, formant control and effects"
+2026-11-02T09:39:05.797212Z,nat3d-mobile,0.2.2,0,0,https://github.com/Yatrogenesis/NAT3D,Android/iOS native wrapper for NAT3D - Pure and Secure Version
+2026-11-02T09:39:42.113771Z,git-commitfs,0.1.0,0,0,https://github.com/allypost-org/git-commitfs,Run commands against a disposable checkout of the Git index
+2026-11-02T09:44:37.894926Z,portmapper-plus,0.20.0,0,0,https://github.com/acking-you/net-tools,Portmapping utilities
+2026-11-02T09:47:07.665048Z,agentscope-extensions-mysql,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,"AgentScope Rust - MySQL backed distributed storage, sandbox snapshots and execution guard"
+2026-11-02T09:54:03.976484Z,ignition-macros-rs,1.0.0,0,0,https://github.com/diego-a-orellana/ignition/tree/1.0.0,Supporting macros for Ignition.
+2026-11-02T09:55:27.816974Z,ignition-rs,1.0.0,0,0,https://github.com/diego-a-orellana/ignition/tree/1.0.0,Build-time retrieval of precompiled dependencies.
+2026-11-02T09:57:06.663521Z,agentscope-extensions-postgresql,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - PostgreSQL backed distributed persistence and advisory-lock guard
+2026-11-02T09:57:39.28875Z,teanga-cli,0.1.0,0,0,https://github.com/TeangaNLP/teanga.rs,"Command-line tool to convert, load and view Teanga corpora"
+2026-11-02T10:00:03.208623Z,syntan,0.0.1,0,0,,Rust syntax extractor and wrapper around proc_macro.
+2026-11-02T10:05:21.694439Z,rightcommit,1.0.0,0,0,https://github.com/rightcommit/rightcommit,"Self-hosted, Rust-built orchestration for Claude Code, Codex and Pi Agent. Parallel workflows, full control over every commit, and FinOps that shows exactly what each agent and model costs."
+2026-11-02T10:07:07.412134Z,agentscope-extensions-mongodb,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,"AgentScope Rust - MongoDB backed distributed storage, sandbox snapshots and execution guard"
+2026-11-02T10:17:08.035398Z,agentscope-extensions-redis,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,"AgentScope Rust - Redis backed distributed storage, sandbox snapshots and execution guard"

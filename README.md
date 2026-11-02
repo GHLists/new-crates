@@ -8,37 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 09:18 UTC
+## Latest list — 2026-11-02 10:18 UTC
 
-New crates published between 2026-11-02 08:18 UTC and 2026-11-02 09:18 UTC.
+New crates published between 2026-11-02 09:18 UTC and 2026-11-02 10:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-02T09-18-54-651209Z.csv)
+[Full CSV](data/new-crates-2026-11-02T10-18-12-194948Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-02 08:18:36 | [constlit-macros](https://crates.io/crates/constlit-macros) | 0.1.0 | 0 | Procedural macros for constlit. Use the constlit crate instead. |
-| 2026-11-02 08:18:38 | [constlit](https://crates.io/crates/constlit) | 0.1.0 | 0 | Compile-time checked literals: "1h30m", "64 KiB", "10.0.0.0/8", "*/5 * * * *",… |
-| 2026-11-02 08:25:42 | [nat3d-modeling](https://crates.io/crates/nat3d-modeling) | 0.2.2 | 0 | Modeling tools for NAT3D - polygon modeling, NURBS, sculpting, CAD, modifiers |
-| 2026-11-02 08:27:10 | [agentscope-extensions-jdbc](https://crates.io/crates/agentscope-extensions-jdbc) | 0.1.0-alpha.1 | 0 | AgentScope Rust - multi-database JDBC dialect abstraction and distributed stora… |
-| 2026-11-02 08:36:09 | [nat3d-physics](https://crates.io/crates/nat3d-physics) | 0.2.2 | 0 | Physics simulation for NAT3D - rigid bodies, soft bodies, cloth, fluids (Navier… |
-| 2026-11-02 08:37:23 | [agentscope-extensions-agent-protocol](https://crates.io/crates/agentscope-extensions-agent-protocol) | 0.1.0-alpha.1 | 0 | AgentScope Rust - agent protocol (task lifecycle HTTP+SSE) extension |
-| 2026-11-02 08:46:38 | [nat3d-scripting](https://crates.io/crates/nat3d-scripting) | 0.2.2 | 0 | Scripting interface for NAT3D - Python bindings via PyO3, Rust API |
-| 2026-11-02 08:46:46 | [xref-code](https://crates.io/crates/xref-code) | 0.1.0 | 0 | Ultra blazing fast cross-references, layout recovery, slicing & pseudo-C for x8… |
-| 2026-11-02 08:47:09 | [agentscope-extensions-agui](https://crates.io/crates/agentscope-extensions-agui) | 0.1.0-alpha.1 | 0 | AgentScope Rust - AG-UI protocol extension |
-| 2026-11-02 08:50:11 | [oim-logger](https://crates.io/crates/oim-logger) | 0.0.1 | 0 | A simple, zero-dependency logging library |
-| 2026-11-02 08:57:08 | [nat3d-sync](https://crates.io/crates/nat3d-sync) | 0.2.2 | 0 | Device synchronization for NAT3D - iPad input, Apple Pencil, Bonjour discovery |
-| 2026-11-02 08:57:18 | [agentscope-extensions-acp](https://crates.io/crates/agentscope-extensions-acp) | 0.1.0-alpha.1 | 0 | AgentScope Rust - ACP (Agent Client Protocol) coding agent |
-| 2026-11-02 09:05:58 | [cosys-plugin-conversations](https://crates.io/crates/cosys-plugin-conversations) | 0.1.0 | 0 | The conversations plugin (ADR-21 §7, PLAN M22): replies in threads, reposts and… |
-| 2026-11-02 09:07:12 | [agentscope-extensions-rag](https://crates.io/crates/agentscope-extensions-rag) | 0.1.0-alpha.1 | 0 | AgentScope Rust - RAG knowledge bases, embedding providers and document readers |
-| 2026-11-02 09:07:36 | [nat3d-ui](https://crates.io/crates/nat3d-ui) | 0.2.2 | 0 | User interface for NAT3D - egui-based panels, tools, viewport, input handling |
-| 2026-11-02 09:07:58 | [cosys-plugin-media](https://crates.io/crates/cosys-plugin-media) | 0.1.0 | 0 | The media renderer (ADR-21 §7, ADR-24 §7, PLAN M22-6): reads a sound's or a vid… |
-| 2026-11-02 09:08:19 | [cosys-plugin-pdf](https://crates.io/crates/cosys-plugin-pdf) | 0.1.0 | 0 | The PDF renderer (ADR-21 §7, ADR-24 §7, PLAN M22-6): reads each page's text fro… |
-| 2026-11-02 09:11:51 | [damavand-policy](https://crates.io/crates/damavand-policy) | 0.1.0 | 0 | Deterministic policy gateway (Cedar) for damavand agent-safety crates |
-| 2026-11-02 09:12:13 | [damavand-proto](https://crates.io/crates/damavand-proto) | 0.1.0 | 0 | Versioned out-of-process plugin wire protocol (JSON-RPC 2.0) for damavand agent… |
-| 2026-11-02 09:14:23 | [voicewa](https://crates.io/crates/voicewa) | 0.1.0 | 0 | Dictate a message with your Codex login and send it on WhatsApp from macOS |
-| 2026-11-02 09:16:58 | [ravenrs-ai](https://crates.io/crates/ravenrs-ai) | 27.1.3 | 0 | Local AI models for a RavenRS app: only the ones that fit the machine, download… |
-| 2026-11-02 09:17:10 | [agentscope-extensions-sandbox](https://crates.io/crates/agentscope-extensions-sandbox) | 0.1.0-alpha.1 | 0 | AgentScope Rust - remote sandbox backends (AgentRun, Daytona, E2B, Kubernetes) |
-| 2026-11-02 09:18:06 | [nat3d-app](https://crates.io/crates/nat3d-app) | 0.2.2 | 0 | Main application for NAT3D - desktop GUI application |
+| 2026-11-02 09:20:27 | [awsctl](https://crates.io/crates/awsctl) | 1.2.4 | 0 | CLI for AWS SSO, EC2, RDS, SSM and EKS operations |
+| 2026-11-02 09:22:49 | [ffcine-breakdown](https://crates.io/crates/ffcine-breakdown) | 0.1.0 | 0 | ffcine breakdown: shot list of a reference video (cuts, keyframes, camera motio… |
+| 2026-11-02 09:27:07 | [agentscope-extensions-channel](https://crates.io/crates/agentscope-extensions-channel) | 0.1.0-alpha.1 | 0 | AgentScope Rust - platform channel adapters (DingTalk, Feishu, WeCom, Weixin, G… |
+| 2026-11-02 09:28:34 | [nat3d-cli](https://crates.io/crates/nat3d-cli) | 0.2.2 | 0 | Command-line interface for NAT3D - batch rendering, format conversion, benchmar… |
+| 2026-11-02 09:30:15 | [hitop-sync-crypto](https://crates.io/crates/hitop-sync-crypto) | 0.1.0 | 0 | Client-side end-to-end encryption for hitop sync: HPKE key wrapping and XChaCha… |
+| 2026-11-02 09:31:45 | [oci-image](https://crates.io/crates/oci-image) | 0.1.0 | 0 | OCI container images on disk: image references, sha256 digests, one-pass layer… |
+| 2026-11-02 09:33:52 | [rightkit-adapt](https://crates.io/crates/rightkit-adapt) | 0.1.0 | 0 | Adaptive agent learning: outcome observation, guidance proposals, application r… |
+| 2026-11-02 09:34:04 | [teanga](https://crates.io/crates/teanga) | 0.1.0 | 0 | A data model and storage format for annotated text corpora |
+| 2026-11-02 09:36:06 | [substantial-macros](https://crates.io/crates/substantial-macros) | 0.2.0-beta.1 | 0 | The attribute macros of Substantial: #[workflow], #[step] |
+| 2026-11-02 09:36:10 | [cybernode](https://crates.io/crates/cybernode) | 0.0.1 | 0 | cybernode — rung 7 of the soft3 ladder: the node (chain, wire and sync, mining,… |
+| 2026-11-02 09:36:11 | [substantial](https://crates.io/crates/substantial) | 0.2.0-beta.1 | 0 | Brokerless durable execution: the Rust host of the Substantial core |
+| 2026-11-02 09:37:07 | [agentscope-extensions-mem](https://crates.io/crates/agentscope-extensions-mem) | 0.1.0-alpha.1 | 0 | AgentScope Rust - long-term memory backends (Mem0, Bailian, ReMe) |
+| 2026-11-02 09:38:50 | [tunelet](https://crates.io/crates/tunelet) | 0.1.1 | 0 | Safe, portable vocal pitch correction, choir, harmony, formant control and effe… |
+| 2026-11-02 09:39:05 | [nat3d-mobile](https://crates.io/crates/nat3d-mobile) | 0.2.2 | 0 | Android/iOS native wrapper for NAT3D - Pure and Secure Version |
+| 2026-11-02 09:39:42 | [git-commitfs](https://crates.io/crates/git-commitfs) | 0.1.0 | 0 | Run commands against a disposable checkout of the Git index |
+| 2026-11-02 09:44:37 | [portmapper-plus](https://crates.io/crates/portmapper-plus) | 0.20.0 | 0 | Portmapping utilities |
+| 2026-11-02 09:47:07 | [agentscope-extensions-mysql](https://crates.io/crates/agentscope-extensions-mysql) | 0.1.0-alpha.1 | 0 | AgentScope Rust - MySQL backed distributed storage, sandbox snapshots and execu… |
+| 2026-11-02 09:54:03 | [ignition-macros-rs](https://crates.io/crates/ignition-macros-rs) | 1.0.0 | 0 | Supporting macros for Ignition. |
+| 2026-11-02 09:55:27 | [ignition-rs](https://crates.io/crates/ignition-rs) | 1.0.0 | 0 | Build-time retrieval of precompiled dependencies. |
+| 2026-11-02 09:57:06 | [agentscope-extensions-postgresql](https://crates.io/crates/agentscope-extensions-postgresql) | 0.1.0-alpha.1 | 0 | AgentScope Rust - PostgreSQL backed distributed persistence and advisory-lock g… |
+| 2026-11-02 09:57:39 | [teanga-cli](https://crates.io/crates/teanga-cli) | 0.1.0 | 0 | Command-line tool to convert, load and view Teanga corpora |
+| 2026-11-02 10:00:03 | [syntan](https://crates.io/crates/syntan) | 0.0.1 | 0 | Rust syntax extractor and wrapper around proc_macro. |
+| 2026-11-02 10:05:21 | [rightcommit](https://crates.io/crates/rightcommit) | 1.0.0 | 0 | Self-hosted, Rust-built orchestration for Claude Code, Codex and Pi Agent. Para… |
+| 2026-11-02 10:07:07 | [agentscope-extensions-mongodb](https://crates.io/crates/agentscope-extensions-mongodb) | 0.1.0-alpha.1 | 0 | AgentScope Rust - MongoDB backed distributed storage, sandbox snapshots and exe… |
+| 2026-11-02 10:17:08 | [agentscope-extensions-redis](https://crates.io/crates/agentscope-extensions-redis) | 0.1.0-alpha.1 | 0 | AgentScope Rust - Redis backed distributed storage, sandbox snapshots and execu… |
 
 ## Data source
 
