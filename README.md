@@ -8,43 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 00:19 UTC
+## Latest list — 2026-11-02 01:18 UTC
 
-New crates published between 2026-11-01 23:18 UTC and 2026-11-02 00:19 UTC.
+New crates published between 2026-11-02 00:19 UTC and 2026-11-02 01:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-02T00-19-16-395837Z.csv)
+[Full CSV](data/new-crates-2026-11-02T01-18-28-238298Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-01 23:19:38 | [directory-navigator](https://crates.io/crates/directory-navigator) | 1.1.5 | 0 | Native terminal file manager inspired by DOS Navigator 1.51 |
-| 2026-11-01 23:20:27 | [cellar-javascript](https://crates.io/crates/cellar-javascript) | 0.1.1 | 0 | Optional V8 and Node.js backends for Cellar JavaScript and TypeScript applicati… |
-| 2026-11-01 23:25:04 | [nessie-mtls](https://crates.io/crates/nessie-mtls) | 0.4.2 | 0 | Mutual TLS from agent-mesh keys: node identity, self-signed certificate, author… |
-| 2026-11-01 23:27:10 | [kynora-sdk](https://crates.io/crates/kynora-sdk) | 0.8.0 | 0 | SDK de Kynora: fachada pública sobre el núcleo. |
-| 2026-11-01 23:30:27 | [cellar-python](https://crates.io/crates/cellar-python) | 0.1.1 | 0 | Invocation-scoped embedded CPython adapter for Cellar |
-| 2026-11-01 23:36:02 | [sapphire-bridge-headless](https://crates.io/crates/sapphire-bridge-headless) | 0.24.0 | 0 | Host-wide sapphire daemon: device identity, workgroup authorization and sync ro… |
-| 2026-11-01 23:47:37 | [glory-servo-arc](https://crates.io/crates/glory-servo-arc) | 0.5.0 | 0 | A fork of std::sync::Arc with some extra functionality and without weak referen… |
-| 2026-11-01 23:47:43 | [hon](https://crates.io/crates/hon) | 0.1.0 | 0 | Read manga in your terminal |
-| 2026-11-01 23:47:48 | [glory-stylo-atoms](https://crates.io/crates/glory-stylo-atoms) | 0.22.0 | 0 | Interned string type for the Servo and Stylo projects |
-| 2026-11-01 23:47:58 | [glory-stylo-derive](https://crates.io/crates/glory-stylo-derive) | 0.22.0 | 0 | Derive crate for Stylo CSS engine |
-| 2026-11-01 23:48:06 | [glory-stylo-static-prefs](https://crates.io/crates/glory-stylo-static-prefs) | 0.22.0 | 0 | Configuration for Stylo |
-| 2026-11-01 23:48:09 | [glory-to-shmem-derive](https://crates.io/crates/glory-to-shmem-derive) | 0.2.0 | 0 | Allows deriving the to_shmem trait. |
-| 2026-11-01 23:50:10 | [glory-to-shmem](https://crates.io/crates/glory-to-shmem) | 0.6.0 | 0 | Trait to write to a contiguous chunk of shared memory |
-| 2026-11-01 23:50:30 | [glua_rowan](https://crates.io/crates/glua_rowan) | 1.3.0 | 0 | GLuaLS fork of rowan, a library for generic lossless syntax trees |
-| 2026-11-01 23:51:03 | [glua_codestyle](https://crates.io/crates/glua_codestyle) | 1.3.0 | 0 | GLuaLS fork of emmylua_codestyle, a Lua code formatting lib with EmmyLuaCodeSty… |
-| 2026-11-01 23:54:06 | [triplets-parquet-source](https://crates.io/crates/triplets-parquet-source) | 0.31.0-alpha | 0 | Generic local-parquet row source for the triplets data pipeline framework. Colu… |
-| 2026-11-01 23:57:38 | [itzma-core](https://crates.io/crates/itzma-core) | 0.1.0 | 0 | Vector search on object storage: an embedded library, no server, just your buck… |
-| 2026-11-02 00:00:12 | [glory-selectors](https://crates.io/crates/glory-selectors) | 0.41.0 | 0 | CSS Selectors matching for Rust |
-| 2026-11-02 00:02:25 | [ferrolint-plugin-sdk](https://crates.io/crates/ferrolint-plugin-sdk) | 1.0.0 | 0 | Guest-side SDK for ferrolint WASM plugins |
-| 2026-11-02 00:04:14 | [termblit](https://crates.io/crates/termblit) | 0.1.0 | 0 | Stream RGBA frames to the terminal with Kitty graphics, Sixel or colored charac… |
-| 2026-11-02 00:08:42 | [rightkit-agent-engine-runtime-middleware](https://crates.io/crates/rightkit-agent-engine-runtime-middleware) | 0.1.0 | 0 | Agent engine runtime middleware: request and turn interception hooks |
-| 2026-11-02 00:09:49 | [rightkit-memory](https://crates.io/crates/rightkit-memory) | 0.1.0 | 0 | Agent memory: durable memory store, write screening, adaptive retrieval routing… |
-| 2026-11-02 00:10:04 | [pnc-engine](https://crates.io/crates/pnc-engine) | 0.1.0 | 0 | Core engine for PNC: arbitrary-precision RPN evaluation, units, and persistence |
-| 2026-11-02 00:10:11 | [glory-stylo-malloc-size-of](https://crates.io/crates/glory-stylo-malloc-size-of) | 0.22.0 | 0 | An allocator-agnostic crate for measuring the heap size of a value |
-| 2026-11-02 00:10:14 | [pnc](https://crates.io/crates/pnc) | 0.1.0 | 0 | A fast, fully offline, terminal-only reverse Polish notation (RPN) calculator |
-| 2026-11-02 00:15:43 | [ravenrs-movie](https://crates.io/crates/ravenrs-movie) | 27.1.2 | 0 | Training videos of a RavenRS app: small vector films recorded from a script, ed… |
-| 2026-11-02 00:17:46 | [rightkit-evidence-effects](https://crates.io/crates/rightkit-evidence-effects) | 0.1.0 | 0 | Effect execution with sandboxed child processes and receipts |
-| 2026-11-02 00:18:49 | [swfasm](https://crates.io/crates/swfasm) | 0.1.0 | 0 | A compiler that turns a textual representation into SWF files |
-| 2026-11-02 00:18:52 | [swfasm-cli](https://crates.io/crates/swfasm-cli) | 0.1.0 | 0 | A command line tool that compiles a textual representation into SWF files |
+| 2026-11-02 00:23:34 | [rightkit-apple-ops](https://crates.io/crates/rightkit-apple-ops) | 0.1.1 | 0 | Apple ops: App Store Connect API and upload, build analysis, preflight, profili… |
+| 2026-11-02 00:24:24 | [near-bunker](https://crates.io/crates/near-bunker) | 0.1.1 | 0 | Remote-signing CLI for a NIP-46 bunker DO — pair once, then fire tier-1 reads i… |
+| 2026-11-02 00:30:07 | [fathom-a2a](https://crates.io/crates/fathom-a2a) | 1.0.0 | 0 | fathom A2A surface: signed agent card (JCS canonicalization + Ed25519) per the… |
+| 2026-11-02 00:30:52 | [fathom-art](https://crates.io/crates/fathom-art) | 1.0.0 | 0 | Art/animation style reverse engineering for fathom: measured style specs, nativ… |
+| 2026-11-02 00:32:21 | [fathom-js](https://crates.io/crates/fathom-js) | 1.0.0 | 0 | fathom JavaScript/Electron provider: oxc static analysis and ASAR archives |
+| 2026-11-02 00:33:10 | [fathom-managed](https://crates.io/crates/fathom-managed) | 1.0.0 | 0 | fathom .NET provider: manual ECMA-335 metadata parsing over goblin PE |
+| 2026-11-02 00:33:49 | [fathom-native](https://crates.io/crates/fathom-native) | 1.0.0 | 0 | fathom native-binary provider: Ghidra headless analysis, artifact and layout in… |
+| 2026-11-02 00:35:20 | [tinylang_test_support](https://crates.io/crates/tinylang_test_support) | 0.1.0 | 0 | Shared workspace and assertion helpers for TinyLang crate tests |
+| 2026-11-02 00:35:31 | [tinylang_ralloc](https://crates.io/crates/tinylang_ralloc) | 0.2.0 | 0 | Fixed-capacity arena allocator backing the TinyLang runtime |
+| 2026-11-02 00:38:32 | [tinylang-v2](https://crates.io/crates/tinylang-v2) | 2.0.0 | 0 | TinyLang compiler, verified bytecode runtime, adaptive JIT, and C ABI |
+| 2026-11-02 00:42:49 | [cypherpage](https://crates.io/crates/cypherpage) | 0.2.0 | 0 | Share Markdown pages over Veilid with a CLI and a generic JSON document library |
+| 2026-11-02 00:44:24 | [fathom-observe](https://crates.io/crates/fathom-observe) | 1.0.0 | 0 | fathom observe set: process capture, HAR reading, EVM selectors, browser, firmw… |
+| 2026-11-02 00:46:39 | [hypervisual](https://crates.io/crates/hypervisual) | 0.1.0 | 0 | HyperVisual CLI launcher: downloads and runs the `codi` binary for architecture… |
+| 2026-11-02 00:46:54 | [hypervis](https://crates.io/crates/hypervis) | 0.1.0 | 0 | Short alias for the HyperVisual CLI launcher (`hypervisual`): architecture diag… |
+| 2026-11-02 00:57:02 | [rdreh](https://crates.io/crates/rdreh) | 2.1.0 | 0 | rdreh (command: rdr): keyboard-first terminal multiplexer for running and track… |
+| 2026-11-02 01:03:36 | [orrery-proto](https://crates.io/crates/orrery-proto) | 0.2.1 | 0 | The wire and the shared types, and nothing else. No async, no I/O. |
+| 2026-11-02 01:03:44 | [orrery-agui](https://crates.io/crates/orrery-agui) | 0.2.1 | 0 | The AG-UI encoder: kernel frames out to AG-UI events. Encode only, never decode. |
+| 2026-11-02 01:04:03 | [orrery-audit](https://crates.io/crates/orrery-audit) | 0.2.1 | 0 | The append-only structured stream: three tracing layers, redaction in schema, f… |
+| 2026-11-02 01:04:17 | [orrery-policy](https://crates.io/crates/orrery-policy) | 0.2.1 | 0 | Rules, the selector matcher, check/consent/explain, and the capability-token mi… |
+| 2026-11-02 01:04:25 | [orrery-config](https://crates.io/crates/orrery-config) | 0.2.1 | 0 | The five configuration layers, their TOML merge, provenance, profiles and trust… |
+| 2026-11-02 01:13:45 | [sio-serial](https://crates.io/crates/sio-serial) | 0.4.0 | 0 | Safe, agent-friendly serial I/O: an interactive terminal and an NDJSON session… |
+| 2026-11-02 01:14:59 | [ogzi](https://crates.io/crates/ogzi) | 0.1.0 | 0 | A CLAP sampler plugin for the Ogzi sample library |
+| 2026-11-02 01:15:22 | [orrery-transport](https://crates.io/crates/orrery-transport) | 0.2.1 | 0 | Framing, seq authority, the replay ring, the per-client coalescer and every lis… |
 
 ## Data source
 

@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T00:23:34.716189Z,rightkit-apple-ops,0.1.1,0,0,https://github.com/bogusyogi/rightkit,"Apple ops: App Store Connect API and upload, build analysis, preflight, profiling and SwiftUI traces"
+2026-11-02T00:24:24.659945Z,near-bunker,0.1.1,0,0,https://github.com/Kampouse/bunker-cli,"Remote-signing CLI for a NIP-46 bunker DO — pair once, then fire tier-1 reads instantly and route value transfers through a human Telegram gate."
+2026-11-02T00:30:07.460284Z,fathom-a2a,1.0.0,0,0,,fathom A2A surface: signed agent card (JCS canonicalization + Ed25519) per the estate pattern
+2026-11-02T00:30:52.874826Z,fathom-art,1.0.0,0,0,https://github.com/qompassai/fathom,"Art/animation style reverse engineering for fathom: measured style specs, native palette transforms, and a lumen conversion bridge"
+2026-11-02T00:32:21.88601Z,fathom-js,1.0.0,0,0,,fathom JavaScript/Electron provider: oxc static analysis and ASAR archives
+2026-11-02T00:33:10.889444Z,fathom-managed,1.0.0,0,0,,fathom .NET provider: manual ECMA-335 metadata parsing over goblin PE
+2026-11-02T00:33:49.196861Z,fathom-native,1.0.0,0,0,,"fathom native-binary provider: Ghidra headless analysis, artifact and layout inspection"
+2026-11-02T00:35:20.336384Z,tinylang_test_support,0.1.0,0,0,https://github.com/ConnerAdamsMaine/TinyOne,Shared workspace and assertion helpers for TinyLang crate tests
+2026-11-02T00:35:31.17679Z,tinylang_ralloc,0.2.0,0,0,https://github.com/ConnerAdamsMaine/TinyOne,Fixed-capacity arena allocator backing the TinyLang runtime
+2026-11-02T00:38:32.773494Z,tinylang-v2,2.0.0,0,0,https://github.com/ConnerAdamsMaine/TinyOne,"TinyLang compiler, verified bytecode runtime, adaptive JIT, and C ABI"
+2026-11-02T00:42:49.188965Z,cypherpage,0.2.0,0,0,https://gitlab.com/cypherpage/cypherpage,Share Markdown pages over Veilid with a CLI and a generic JSON document library
+2026-11-02T00:44:24.017635Z,fathom-observe,1.0.0,0,0,,"fathom observe set: process capture, HAR reading, EVM selectors, browser, firmware, and Android providers"
+2026-11-02T00:46:39.287062Z,hypervisual,0.1.0,0,0,https://github.com/hypervisual-io/hypervisual,HyperVisual CLI launcher: downloads and runs the `codi` binary for architecture diagrams as code.
+2026-11-02T00:46:54.223949Z,hypervis,0.1.0,0,0,https://github.com/hypervisual-io/hypervisual,Short alias for the HyperVisual CLI launcher (`hypervisual`): architecture diagrams as code.
+2026-11-02T00:57:02.550475Z,rdreh,2.1.0,0,0,https://github.com/JohnGF/rdreh,rdreh (command: rdr): keyboard-first terminal multiplexer for running and tracking AI coding agents
+2026-11-02T01:03:36.18974Z,orrery-proto,0.2.1,0,0,https://github.com/kouji-dev/orrery,"The wire and the shared types, and nothing else. No async, no I/O."
+2026-11-02T01:03:44.761564Z,orrery-agui,0.2.1,0,0,https://github.com/kouji-dev/orrery,"The AG-UI encoder: kernel frames out to AG-UI events. Encode only, never decode."
+2026-11-02T01:04:03.896747Z,orrery-audit,0.2.1,0,0,https://github.com/kouji-dev/orrery,"The append-only structured stream: three tracing layers, redaction in schema, file and OTLP sinks."
+2026-11-02T01:04:17.300542Z,orrery-policy,0.2.1,0,0,https://github.com/kouji-dev/orrery,"Rules, the selector matcher, check/consent/explain, and the capability-token minter. Fully sync."
+2026-11-02T01:04:25.422209Z,orrery-config,0.2.1,0,0,https://github.com/kouji-dev/orrery,"The five configuration layers, their TOML merge, provenance, profiles and trust gating."
+2026-11-02T01:13:45.895757Z,sio-serial,0.4.0,0,0,https://github.com/grumpydevorg/sio,"Safe, agent-friendly serial I/O: an interactive terminal and an NDJSON session protocol for automation"
+2026-11-02T01:14:59.462498Z,ogzi,0.1.0,0,0,https://github.com/ogzi-music/ogzi,A CLAP sampler plugin for the Ogzi sample library
+2026-11-02T01:15:22.024405Z,orrery-transport,0.2.1,0,0,https://github.com/kouji-dev/orrery,"Framing, seq authority, the replay ring, the per-client coalescer and every listener."
