@@ -8,35 +8,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 07:18 UTC
+## Latest list — 2026-11-02 08:18 UTC
 
-New crates published between 2026-11-02 06:18 UTC and 2026-11-02 07:18 UTC.
+New crates published between 2026-11-02 07:18 UTC and 2026-11-02 08:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-02T07-18-29-646233Z.csv)
+[Full CSV](data/new-crates-2026-11-02T08-18-08-886326Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-02 06:18:39 | [rightkit-social-publish](https://crates.io/crates/rightkit-social-publish) | 0.1.1 | 0 | Social platform publish adapters (X, Bluesky, Mastodon, Threads, Instagram, Fac… |
-| 2026-11-02 06:19:57 | [tauri-plugin-thumbar](https://crates.io/crates/tauri-plugin-thumbar) | 0.1.1 | 0 | Runtime-defined Windows taskbar thumbnail toolbar controls for Tauri apps |
-| 2026-11-02 06:21:42 | [pocket-driver-kit](https://crates.io/crates/pocket-driver-kit) | 0.1.0 | 0 | Reusable driver conformance probes and delayed-device fixtures for PocketJS |
-| 2026-11-02 06:27:08 | [robot2robot](https://crates.io/crates/robot2robot) | 0.0.0 | 0 | robot2robot (R2R): an open trust and coordination protocol for robots and physi… |
-| 2026-11-02 06:27:10 | [robot2robot-a2a](https://crates.io/crates/robot2robot-a2a) | 0.0.0 | 0 | A2A (Agent2Agent) interoperability adapter for robot2robot (R2R). Name reservat… |
-| 2026-11-02 06:28:27 | [glowcap](https://crates.io/crates/glowcap) | 0.1.1 | 0 | Capability networking and Loam durable state through the glowcap C ABI. |
-| 2026-11-02 06:31:45 | [pocketjs-core](https://crates.io/crates/pocketjs-core) | 0.1.0 | 0 | Retained PocketJS UI tree, layout, animation and DrawList emission |
-| 2026-11-02 06:33:38 | [smarthive-mailer](https://crates.io/crates/smarthive-mailer) | 0.1.0 | 0 | Async Rust client for the SmartHive Internal Communications API (mail, notifica… |
-| 2026-11-02 06:41:41 | [rightkit-context-protocol](https://crates.io/crates/rightkit-context-protocol) | 0.1.0 | 0 | Context protocol contract: typed scope-grant, candidate-set, packet, receipt an… |
-| 2026-11-02 06:41:42 | [pocket-runtime](https://crates.io/crates/pocket-runtime) | 0.1.0 | 0 | PocketJS application instances, profile facts, input encoding, package admissio… |
-| 2026-11-02 06:45:03 | [fengshuibedroom-url-tools](https://crates.io/crates/fengshuibedroom-url-tools) | 0.1.0 | 0 | Upload a bedroom photo for an AI feng shui bedroom check: bed position, door li… |
-| 2026-11-02 06:50:19 | [eidolon-core](https://crates.io/crates/eidolon-core) | 0.0.3-alpha | 0 | A Minecraft skin off-screen renderer core engine written in Rust |
-| 2026-11-02 06:51:38 | [pocket-guest-rquickjs](https://crates.io/crates/pocket-guest-rquickjs) | 0.1.0 | 0 | Generated PocketJS UI bindings and guest lifecycle for rquickjs |
-| 2026-11-02 06:51:48 | [eidolon-cli](https://crates.io/crates/eidolon-cli) | 0.0.3-alpha | 0 | Minecraft skin renderer CLI |
-| 2026-11-02 06:55:47 | [bridgekeeper](https://crates.io/crates/bridgekeeper) | 1.0.0 | 0 | Zero-dependency resident daemon fronting the WSL NPU bridge (Lemonade + FastFlo… |
-| 2026-11-02 07:00:05 | [glomar](https://crates.io/crates/glomar) | 0.1.0 | 0 | Hardened, constant-time cryptography in pure Rust with a ring / aws-lc-rs compa… |
-| 2026-11-02 07:00:11 | [glomar-rustls](https://crates.io/crates/glomar-rustls) | 0.1.0 | 0 | rustls crypto provider backed by glomar |
-| 2026-11-02 07:08:51 | [penelope-timeline](https://crates.io/crates/penelope-timeline) | 0.4.0 | 0 | Bounded deterministic correction, scratch replay and atomic timeline publicatio… |
-| 2026-11-02 07:13:44 | [imc-parser](https://crates.io/crates/imc-parser) | 0.0.1 | 0 | Zero-dependency imc parser library |
-| 2026-11-02 07:17:00 | [espforge-drivers](https://crates.io/crates/espforge-drivers) | 0.7.0 | 0 | a scaffolding++ tool for creating esp32 no_std esphal without the hassle |
-| 2026-11-02 07:17:07 | [aven-ai-contract](https://crates.io/crates/aven-ai-contract) | 0.1.0 | 0 | Provider-neutral Aven AI completion wire contract |
+| 2026-11-02 07:19:26 | [capta](https://crates.io/crates/capta) | 0.1.0 | 0 | Microphone capture in pure Rust. On Linux it speaks the PulseAudio protocol tha… |
+| 2026-11-02 07:26:31 | [mousetouch](https://crates.io/crates/mousetouch) | 0.1.7 | 0 | Apple Magic Mouse multitouch gestures (workspace swipes, pinch, taps) for Linux… |
+| 2026-11-02 07:27:26 | [espforge-schema](https://crates.io/crates/espforge-schema) | 0.7.0 | 0 | a scaffolding++ tool for creating esp32 no_std esphal without the hassle |
+| 2026-11-02 07:33:13 | [origincloud-core](https://crates.io/crates/origincloud-core) | 0.1.0 | 0 | The client every service crate of the Origin Cloud SDK uses: credentials, endpo… |
+| 2026-11-02 07:33:19 | [origincloud-location](https://crates.io/crates/origincloud-location) | 0.1.0 | 0 | The Origin Cloud location API: regions and zones, and the services each zone of… |
+| 2026-11-02 07:33:24 | [origincloud-pvs](https://crates.io/crates/origincloud-pvs) | 0.1.0 | 0 | The Origin Cloud persistent volume service (PVS) API: volumes, snapshots and st… |
+| 2026-11-02 07:36:50 | [agentscope-core](https://crates.io/crates/agentscope-core) | 0.1.0-alpha.1 | 0 | AgentScope Rust - Core |
+| 2026-11-02 07:37:48 | [dns-host-config](https://crates.io/crates/dns-host-config) | 0.1.0 | 0 | Push a DNS resolver + routing domain into a host's DNS configuration (systemd-r… |
+| 2026-11-02 07:37:49 | [dns-stack](https://crates.io/crates/dns-stack) | 0.1.1 | 0 | A minimal DNS server and RA/RDNSS (RFC 8106) beacon backed by an application-su… |
+| 2026-11-02 07:37:54 | [espforge-elements](https://crates.io/crates/espforge-elements) | 0.7.0 | 0 | a scaffolding++ tool for creating esp32 no_std esphal without the hassle |
+| 2026-11-02 07:38:13 | [agentscope-extensions-model](https://crates.io/crates/agentscope-extensions-model) | 0.1.0-alpha.1 | 0 | AgentScope Rust - model provider adapters (OpenAI, Responses, Anthropic, DashSc… |
+| 2026-11-02 07:41:09 | [agentscope-harness](https://crates.io/crates/agentscope-harness) | 0.1.0-alpha.1 | 0 | AgentScope Rust - Harness |
+| 2026-11-02 07:42:08 | [agentscope-extensions-a2a-client](https://crates.io/crates/agentscope-extensions-a2a-client) | 0.1.0-alpha.1 | 0 | AgentScope Rust - A2A client protocol extension |
+| 2026-11-02 07:43:23 | [frzz](https://crates.io/crates/frzz) | 0.0.1 | 0 | A small, safe-Rust static byte-key trie with radix path compression, LOUDS, and… |
+| 2026-11-02 07:47:07 | [agentscope-extensions-chat-completions-web](https://crates.io/crates/agentscope-extensions-chat-completions-web) | 0.1.0-alpha.1 | 0 | AgentScope Rust - OpenAI-compatible Chat Completions web adapter |
+| 2026-11-02 07:51:22 | [pxp](https://crates.io/crates/pxp) | 0.1.0 | 0 | FIDO Proximity Exchange Protocol (PXP, formerly CTAP hybrid / caBLE) client for… |
+| 2026-11-02 07:55:36 | [cursbnr](https://crates.io/crates/cursbnr) | 1.0.0 | 0 | BNR reference rates and conversions |
+| 2026-11-02 07:57:09 | [agentscope-extensions-scheduler](https://crates.io/crates/agentscope-extensions-scheduler) | 0.1.0-alpha.1 | 0 | AgentScope Rust - scheduled agent execution (Quartz-style scheduler and XXL-Job… |
+| 2026-11-02 07:58:05 | [flow-lang-value](https://crates.io/crates/flow-lang-value) | 0.1.0 | 0 | The Flow runtime value model: data values, their equality, order and text, and… |
+| 2026-11-02 07:58:06 | [omaphoenix-audit](https://crates.io/crates/omaphoenix-audit) | 0.1.2 | 0 | Security Audit engine and finding contract, shared by Security Audit and OmaPho… |
+| 2026-11-02 07:58:07 | [omaphoenix-contract](https://crates.io/crates/omaphoenix-contract) | 0.1.2 | 0 | OmaPhoenix on-disk contracts: snapshot manifest and selection rules |
+| 2026-11-02 07:58:11 | [omaphoenix-audit-ui](https://crates.io/crates/omaphoenix-audit-ui) | 0.1.2 | 0 | Security Audit: a read-only security audit for Arch and Omarchy |
+| 2026-11-02 07:58:12 | [omaphoenix-core](https://crates.io/crates/omaphoenix-core) | 0.1.2 | 0 | OmaPhoenix engine: detect, capture and restore an Omarchy setup through a git-b… |
+| 2026-11-02 07:58:16 | [omaphoenix](https://crates.io/crates/omaphoenix) | 0.1.2 | 0 | OmaPhoenix: timestamped Omarchy snapshots that survive a reinstall, audited bef… |
+| 2026-11-02 07:58:51 | [flow-abi](https://crates.io/crates/flow-abi) | 0.1.0 | 0 | The value encoding at the host boundary: type-directed JSON encoding and decodi… |
+| 2026-11-02 08:00:37 | [flow-toolkit-macros](https://crates.io/crates/flow-toolkit-macros) | 0.1.0 | 0 | Function and data derives for the Flow Rust toolkit |
+| 2026-11-02 08:01:37 | [flow-toolkit](https://crates.io/crates/flow-toolkit) | 0.1.0 | 0 | Ordinary typed Rust functions and exact native data for Flow Tools, automatical… |
+| 2026-11-02 08:04:08 | [nat3d-core](https://crates.io/crates/nat3d-core) | 0.2.2 | 0 | Core data structures and types for NAT3D - documents, geometry, transforms, sce… |
+| 2026-11-02 08:04:20 | [nat3d-math](https://crates.io/crates/nat3d-math) | 0.2.2 | 0 | Mathematical utilities for NAT3D - linear algebra, FFT, optimization, interpola… |
+| 2026-11-02 08:04:23 | [nat3d-animation](https://crates.io/crates/nat3d-animation) | 0.2.2 | 0 | Animation system for NAT3D - keyframes, curves, rigging, skinning, IK |
+| 2026-11-02 08:04:28 | [nat3d-render](https://crates.io/crates/nat3d-render) | 0.2.2 | 0 | Rendering engine for NAT3D - wgpu backend, PBR, raytracing, post-processing |
+| 2026-11-02 08:04:31 | [nat3d-cloud](https://crates.io/crates/nat3d-cloud) | 0.2.2 | 0 | Cloud rendering integration for NAT3D - AWS, GCP, Azure, custom servers |
+| 2026-11-02 08:07:09 | [agentscope-extensions-a2a-server](https://crates.io/crates/agentscope-extensions-a2a-server) | 0.1.0-alpha.1 | 0 | AgentScope Rust - A2A server protocol extension |
+| 2026-11-02 08:15:13 | [nat3d-io](https://crates.io/crates/nat3d-io) | 0.2.2 | 0 | Import/Export for NAT3D - native format, OBJ, glTF, FBX, STEP, STL, images |
+| 2026-11-02 08:17:09 | [agentscope-extensions-skills](https://crates.io/crates/agentscope-extensions-skills) | 0.1.0-alpha.1 | 0 | AgentScope Rust - skill repository backends (git, MySQL, PostgreSQL) |
 
 ## Data source
 

@@ -1,0 +1,36 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T07:19:26.52509Z,capta,0.1.0,0,0,https://github.com/mesa-hills-research/capta,"Microphone capture in pure Rust. On Linux it speaks the PulseAudio protocol that PulseAudio and PipeWire serve, with no C library."
+2026-11-02T07:26:31.715167Z,mousetouch,0.1.7,0,0,https://github.com/Devace-93/mousetouch,"Apple Magic Mouse multitouch gestures (workspace swipes, pinch, taps) for Linux/Wayland"
+2026-11-02T07:27:26.156124Z,espforge-schema,0.7.0,0,0,https://github.com/mohankumargupta/espforge,a scaffolding++ tool for creating esp32 no_std esphal without the hassle
+2026-11-02T07:33:13.959553Z,origincloud-core,0.1.0,0,0,https://github.com/origincloudhq/sdk-rust,"The client every service crate of the Origin Cloud SDK uses: credentials, endpoints, retries, errors, long-running operations and read-your-writes."
+2026-11-02T07:33:19.0444Z,origincloud-location,0.1.0,0,0,https://github.com/origincloudhq/sdk-rust,"The Origin Cloud location API: regions and zones, and the services each zone offers."
+2026-11-02T07:33:24.701221Z,origincloud-pvs,0.1.0,0,0,https://github.com/origincloudhq/sdk-rust,"The Origin Cloud persistent volume service (PVS) API: volumes, snapshots and storage classes."
+2026-11-02T07:36:50.049061Z,agentscope-core,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - Core
+2026-11-02T07:37:48.72821Z,dns-host-config,0.1.0,0,0,https://github.com/ppetr/dns-announce,"Push a DNS resolver + routing domain into a host's DNS configuration (systemd-resolved, and more to come) and withdraw it again. Independent of any particular DNS server implementation."
+2026-11-02T07:37:49.754415Z,dns-stack,0.1.1,0,0,https://github.com/ppetr/dns-announce,"A minimal DNS server and RA/RDNSS (RFC 8106) beacon backed by an application-supplied resolver. Transport-agnostic: raw packets in and out over channels, no socket or OS API of its own."
+2026-11-02T07:37:54.377029Z,espforge-elements,0.7.0,0,0,https://github.com/mohankumargupta/espforge,a scaffolding++ tool for creating esp32 no_std esphal without the hassle
+2026-11-02T07:38:13.702192Z,agentscope-extensions-model,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,"AgentScope Rust - model provider adapters (OpenAI, Responses, Anthropic, DashScope, Ollama)"
+2026-11-02T07:41:09.216253Z,agentscope-harness,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - Harness
+2026-11-02T07:42:08.178403Z,agentscope-extensions-a2a-client,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - A2A client protocol extension
+2026-11-02T07:43:23.076752Z,frzz,0.0.1,0,0,https://gitee.com/oime/frzz.git,"A small, safe-Rust static byte-key trie with radix path compression, LOUDS, and a string-table wrapper"
+2026-11-02T07:47:07.108818Z,agentscope-extensions-chat-completions-web,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - OpenAI-compatible Chat Completions web adapter
+2026-11-02T07:51:22.695402Z,pxp,0.1.0,0,0,https://github.com/linux-credentials/libwebauthn,"FIDO Proximity Exchange Protocol (PXP, formerly CTAP hybrid / caBLE) client for Linux, written in Rust"
+2026-11-02T07:55:36.27594Z,cursbnr,1.0.0,0,0,https://git.onea.ro/alexandru/pfa,BNR reference rates and conversions
+2026-11-02T07:57:09.57914Z,agentscope-extensions-scheduler,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - scheduled agent execution (Quartz-style scheduler and XXL-Job handlers)
+2026-11-02T07:58:05.460358Z,flow-lang-value,0.1.0,0,0,https://github.com/buttercrab/flow,"The Flow runtime value model: data values, their equality, order and text, and the operations std's built-in types declare."
+2026-11-02T07:58:06.272735Z,omaphoenix-audit,0.1.2,0,0,https://github.com/sumdahl/omaphoenix,"Security Audit engine and finding contract, shared by Security Audit and OmaPhoenix"
+2026-11-02T07:58:07.56956Z,omaphoenix-contract,0.1.2,0,0,https://github.com/sumdahl/omaphoenix,OmaPhoenix on-disk contracts: snapshot manifest and selection rules
+2026-11-02T07:58:11.41745Z,omaphoenix-audit-ui,0.1.2,0,0,https://github.com/sumdahl/omaphoenix,Security Audit: a read-only security audit for Arch and Omarchy
+2026-11-02T07:58:12.268426Z,omaphoenix-core,0.1.2,0,0,https://github.com/sumdahl/omaphoenix,"OmaPhoenix engine: detect, capture and restore an Omarchy setup through a git-backed snapshot store"
+2026-11-02T07:58:16.978754Z,omaphoenix,0.1.2,0,0,https://github.com/sumdahl/omaphoenix,"OmaPhoenix: timestamped Omarchy snapshots that survive a reinstall, audited before backup"
+2026-11-02T07:58:51.934619Z,flow-abi,0.1.0,0,0,https://github.com/buttercrab/flow,"The value encoding at the host boundary: type-directed JSON encoding and decoding, the canonical form and its hash, JSON Schemas, and Tool declaration fingerprints."
+2026-11-02T08:00:37.062171Z,flow-toolkit-macros,0.1.0,0,0,https://github.com/buttercrab/flow,Function and data derives for the Flow Rust toolkit
+2026-11-02T08:01:37.252667Z,flow-toolkit,0.1.0,0,0,https://github.com/buttercrab/flow,"Ordinary typed Rust functions and exact native data for Flow Tools, automatically prepared from direct native imports."
+2026-11-02T08:04:08.905459Z,nat3d-core,0.2.2,0,0,https://github.com/Yatrogenesis/NAT3D,"Core data structures and types for NAT3D - documents, geometry, transforms, scene graph"
+2026-11-02T08:04:20.324857Z,nat3d-math,0.2.2,0,0,https://github.com/Yatrogenesis/NAT3D,"Mathematical utilities for NAT3D - linear algebra, FFT, optimization, interpolation, noise"
+2026-11-02T08:04:23.951827Z,nat3d-animation,0.2.2,0,0,https://github.com/Yatrogenesis/NAT3D,"Animation system for NAT3D - keyframes, curves, rigging, skinning, IK"
+2026-11-02T08:04:28.175189Z,nat3d-render,0.2.2,0,0,https://github.com/Yatrogenesis/NAT3D,"Rendering engine for NAT3D - wgpu backend, PBR, raytracing, post-processing"
+2026-11-02T08:04:31.647238Z,nat3d-cloud,0.2.2,0,0,https://github.com/Yatrogenesis/NAT3D,"Cloud rendering integration for NAT3D - AWS, GCP, Azure, custom servers"
+2026-11-02T08:07:09.721918Z,agentscope-extensions-a2a-server,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - A2A server protocol extension
+2026-11-02T08:15:13.915459Z,nat3d-io,0.2.2,0,0,https://github.com/Yatrogenesis/NAT3D,"Import/Export for NAT3D - native format, OBJ, glTF, FBX, STEP, STL, images"
+2026-11-02T08:17:09.413022Z,agentscope-extensions-skills,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,"AgentScope Rust - skill repository backends (git, MySQL, PostgreSQL)"
