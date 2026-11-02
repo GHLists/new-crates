@@ -8,31 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 13:19 UTC
+## Latest list — 2026-11-02 14:19 UTC
 
-New crates published between 2026-11-02 12:19 UTC and 2026-11-02 13:19 UTC.
+New crates published between 2026-11-02 13:19 UTC and 2026-11-02 14:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-02T13-19-19-358141Z.csv)
+[Full CSV](data/new-crates-2026-11-02T14-19-44-483965Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-02 12:29:44 | [mhome-script-api](https://crates.io/crates/mhome-script-api) | 0.1.0 | 0 | Shared JavaScript resource identity and typed Automation script contracts |
-| 2026-11-02 12:30:48 | [mhome-script-runtime](https://crates.io/crates/mhome-script-runtime) | 0.1.0 | 0 | Shared bounded native QuickJS execution for MeowCore scripts |
-| 2026-11-02 12:48:45 | [hivepack](https://crates.io/crates/hivepack) | 0.1.0 | 0 | Read and write archives and compressed files: ZIP, tar, 7z, RAR, zstd, xz, bzip… |
-| 2026-11-02 12:55:49 | [wyrd-version](https://crates.io/crates/wyrd-version) | 0.4.1 | 0 | Semantic version newtype shared by Wyrd crates. |
-| 2026-11-02 12:56:12 | [kemori](https://crates.io/crates/kemori) | 3.0.0 | 0 | Kemori: a zero-configuration, terminal-native IDE |
-| 2026-11-02 12:56:24 | [finalytics-core](https://crates.io/crates/finalytics-core) | 1.0.0-alpha.0 | 0 | Foundations for Finalytics: dates, calendars, currencies, time series and numer… |
-| 2026-11-02 12:56:26 | [finalytics-ledger](https://crates.io/crates/finalytics-ledger) | 1.0.0-alpha.0 | 0 | Portfolio accounting for Finalytics: instruments, transactions, tax lots, posit… |
-| 2026-11-02 12:56:27 | [finalytics-formats](https://crates.io/crates/finalytics-formats) | 1.0.0-alpha.0 | 0 | CSV and JSON import and export for Finalytics, with validation reports and the… |
-| 2026-11-02 12:56:28 | [finalytics-perf](https://crates.io/crates/finalytics-perf) | 1.0.0-alpha.0 | 0 | Performance measurement for Finalytics: time- and money-weighted returns, perio… |
-| 2026-11-02 12:56:29 | [finalytics-risk](https://crates.io/crates/finalytics-risk) | 1.0.0-alpha.0 | 0 | Risk analytics for Finalytics: statistics, drawdowns, covariance estimation, fa… |
-| 2026-11-02 12:56:33 | [tpt-eng-provenance](https://crates.io/crates/tpt-eng-provenance) | 0.1.0 | 0 | Provenance and validity-range tags for engineering results. |
-| 2026-11-02 12:57:07 | [tpt-eng-sheet](https://crates.io/crates/tpt-eng-sheet) | 0.1.0 | 0 | Declarative calculation sheets: a TOML or JSON file names a calculation and its… |
-| 2026-11-02 12:59:14 | [finalytics-opt](https://crates.io/crates/finalytics-opt) | 1.0.0-alpha.0 | 0 | Portfolio optimisation for Finalytics: convex formulations, risk parity, hierar… |
-| 2026-11-02 13:05:12 | [botstadia-interface](https://crates.io/crates/botstadia-interface) | 0.1.0 | 0 | BotStadia's shared contracts: arena and agent WIT worlds, arena declarations, p… |
-| 2026-11-02 13:07:36 | [finalytics-reports](https://crates.io/crates/finalytics-reports) | 1.0.0-alpha.0 | 0 | Report data for Finalytics: holdings, performance, risk, overview, attribution… |
-| 2026-11-02 13:13:01 | [bonii](https://crates.io/crates/bonii) | 0.1.0 | 0 | ボニー (bonii): check whether a project or package name is already taken across Gi… |
-| 2026-11-02 13:17:00 | [toolnexus](https://crates.io/crates/toolnexus) | 0.22.0 | 0 | Vendor-neutral tool layer for LLM agents: ACP agents, MCP servers, agent skills… |
+| 2026-11-02 13:24:11 | [clap-discovery](https://crates.io/crates/clap-discovery) | 0.1.0 | 0 | Tree and flat-list self-discovery for clap command-line applications |
+| 2026-11-02 13:33:53 | [tpt-engineering](https://crates.io/crates/tpt-engineering) | 0.1.0 | 0 | Umbrella meta-crate re-exporting the tpt-eng-* engineering primitives behind pe… |
+| 2026-11-02 13:36:21 | [keybroker](https://crates.io/crates/keybroker) | 0.1.0 | 0 | a credential handler |
+| 2026-11-02 13:37:43 | [phi-agent-tui](https://crates.io/crates/phi-agent-tui) | 0.1.0 | 0 | Reusable terminal-app shell for LLM agent products: event loop, transcript tran… |
+| 2026-11-02 13:38:37 | [autumn-jira-fake](https://crates.io/crates/autumn-jira-fake) | 0.1.0 | 0 | A stateful in-memory fake of Jira Cloud for tests: issues, workflow, JQL subset… |
+| 2026-11-02 13:38:39 | [autumn-jira](https://crates.io/crates/autumn-jira) | 0.1.0 | 0 | Typed, safe Jira Cloud REST v3 client: issues, transitions, comments, JQL searc… |
+| 2026-11-02 13:38:41 | [autumn-jira-camel](https://crates.io/crates/autumn-jira-camel) | 0.1.0 | 0 | A rust-camel `jira:` producer component: create, get, edit, transition, comment… |
+| 2026-11-02 13:38:43 | [autumn-jira-harvest](https://crates.io/crates/autumn-jira-harvest) | 0.1.0 | 0 | autumn-harvest activities for Jira: safe create, transition, comment; a durable… |
+| 2026-11-02 13:38:43 | [autumn-plugin-jira](https://crates.io/crates/autumn-plugin-jira) | 0.1.0 | 0 | Jira Cloud plugin for autumn-web: a JiraService extractor, a health indicator a… |
+| 2026-11-02 13:38:49 | [rightkit-agent-engine-api-workflows](https://crates.io/crates/rightkit-agent-engine-api-workflows) | 0.1.0 | 0 | Agent engine workflow HTTP API: request/response types, error mapping and OpenA… |
+| 2026-11-02 13:39:35 | [rightkit-context-client](https://crates.io/crates/rightkit-context-client) | 0.1.0 | 0 | Transport-injected client for canonical context v1 operation envelopes. |
+| 2026-11-02 13:41:09 | [cgp-fork-macro-impl](https://crates.io/crates/cgp-fork-macro-impl) | 1.0.0 | 0 | Implementation of the cgp-fork procedural macros. Internal: depend on cgp-fork… |
+| 2026-11-02 13:43:09 | [rightkit-agent-engine-api-integrations](https://crates.io/crates/rightkit-agent-engine-api-integrations) | 0.1.0 | 0 | Agent engine integrations HTTP API: plugin discovery, manifest projection and p… |
+| 2026-11-02 13:43:58 | [autumn-plugin-linear](https://crates.io/crates/autumn-plugin-linear) | 0.1.0 | 0 | Autumn plugin: Linear apps — signed webhooks routed by type and action, OAuth i… |
+| 2026-11-02 13:46:28 | [sent](https://crates.io/crates/sent) | 0.1.0 | 0 | The Sent REST API client: SMS, WhatsApp, RCS and voice from one API, with routi… |
+| 2026-11-02 13:48:53 | [rightkit-disk-cleanup](https://crates.io/crates/rightkit-disk-cleanup) | 0.1.0 | 0 | Disk usage scanning and safe cleanup: symlink-safe bounded scan, cleanup rules… |
+| 2026-11-02 14:03:02 | [rightkit-dictation-core](https://crates.io/crates/rightkit-dictation-core) | 0.2.0 | 0 | Dictation core: engine wire protocol and validation, provider key handoff, reco… |
 
 ## Data source
 
