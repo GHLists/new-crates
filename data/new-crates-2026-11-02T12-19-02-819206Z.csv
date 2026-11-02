@@ -1,0 +1,27 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T11:22:49.512919Z,erpc-skills,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Embedded agent skills and sync for the erpc CLI
+2026-11-02T11:27:07.983792Z,agentscope-extensions-higress,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - Higress AI gateway tool-search integration
+2026-11-02T11:29:03.496151Z,necrassrs-actix,0.1.0,0,0,https://github.com/Necrass-Dev/NecrassRs,Actix Web integration for NecrassRs GraphQL servers.
+2026-11-02T11:31:14.912303Z,ic3-cli,0.1.1,0,0,https://github.com/Jezza/ic3-cli,"A command line for Microsoft Teams chat, for agents: send messages and stream events as JSON. Unofficial; built on ic3-teams."
+2026-11-02T11:32:49.016134Z,erpc-mcp-server,0.0.1,0,0,https://github.com/elsoul/erpc-cli,MCP server exposing erpc CLI operations to AI agents
+2026-11-02T11:37:10.370252Z,agentscope-extensions-judge,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - calibrated decision APIs (TypeSafe JEV and OpenAI Decisions)
+2026-11-02T11:38:11.158309Z,necrassrs-cli,0.1.0,0,0,https://github.com/Necrass-Dev/NecrassRs,Project initializer for NecrassRs GraphQL servers.
+2026-11-02T11:38:19.168242Z,debind,0.0.1,0,0,https://github.com/baboratory/debind,"Turn any document into verified, structured text with paragraph-level provenance."
+2026-11-02T11:42:49.240884Z,erpc-release,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Signed self-update and release verification for the erpc CLI
+2026-11-02T11:45:31.137278Z,cargo-tree-tui,0.1.0,0,0,https://github.com/orhun/cargo-tree-tui,Display an interactive tree visualization of your Rust dependency graph
+2026-11-02T11:47:11.188281Z,agentscope-extensions-protocol,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - protocol extensions (umbrella crate)
+2026-11-02T11:51:01.455699Z,yummy_egui,0.1.1,0,0,https://github.com/gloridifice/yummy-egui,"Backend-independent egui widgets, lists and TOML themes"
+2026-11-02T11:51:33.38747Z,rsgit-web,1.3.2,0,0,https://github.com/utoni/rsgit,rsgit: A hyper-hyperfast web frontend for git repositories written in Rust.
+2026-11-02T11:51:47.267536Z,oidc-caep-risc,0.1.0,0,0,https://github.com/rcbj/oidc-caep-risc-rust,Confidential OpenID Connect relying party and one CAEP/RISC poll stream
+2026-11-02T11:51:49.339118Z,wsfed-caep,0.1.0,0,0,https://github.com/rcbj/wsfed-caep-rust,Server-side WS-Federation relying party
+2026-11-02T11:52:03.94665Z,saml2-sp,0.1.0,0,0,https://github.com/rcbj/saml2-sp-rust,SAML 2.0 service provider
+2026-11-02T11:52:53.497006Z,erpc,0.0.1,0,0,https://github.com/elsoul/erpc-cli,"ERPC command line: multi-chain node operations, account, AI assistant and credits for erpc.global"
+2026-11-02T11:54:06.567375Z,gnap-caep-risc,0.1.0,0,0,https://github.com/rcbj/gnap-caep-risc-rust,Server-side GNAP client with one CAEP and RISC poll receiver
+2026-11-02T11:56:56.215335Z,rixl,1.0.0,0,0,https://github.com/rixlhq/rixl-rust,Official Rust SDK for the Rixl API platform
+2026-11-02T11:57:17.79758Z,agentscope-rs,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,"AgentScope Rust - one-dependency facade: core, harness and every extension module behind opt-in features"
+2026-11-02T12:01:43.77072Z,uzor-devtools,1.5.23,0,0,https://github.com/UZOR-dev/uzor,"Transport for uzor's dev control: loopback HTTP with token checks, the discovery file, the event log and the uzor-dev CLI (apps enable it with uzor-framework's dev-control feature)"
+2026-11-02T12:07:55.020759Z,pakk,0.1.0,0,0,https://github.com/phlx0/pakk,"Create and extract zip, tar.gz and tar.zst archives using every core you have"
+2026-11-02T12:10:20.369552Z,euclid-rdk,0.1.0,0,0,https://github.com/jensvogt/euclid-rdk,Rust client library for the Euclid APIs
+2026-11-02T12:13:22.066098Z,bare-rpc,0.0.0,0,0,https://github.com/holepunchto/bare-rpc-rust,https://github.com/holepunchto/librpc ABI compatible RPC for Rust
+2026-11-02T12:13:32.825996Z,bare-stow-host,0.0.0,0,0,https://github.com/holepunchto/bare-stow-host-rust,Host side of the bare-stow lifecycle for Rust
+2026-11-02T12:15:58.925537Z,peisar_yaml,0.1.0,0,0,https://github.com/suseejs/peisar_yaml.git,A YAML parsing helpers for Rust and an optional N-API interface for Node.js
