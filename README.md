@@ -8,37 +8,39 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 01:18 UTC
+## Latest list — 2026-11-02 02:18 UTC
 
-New crates published between 2026-11-02 00:19 UTC and 2026-11-02 01:18 UTC.
+New crates published between 2026-11-02 01:18 UTC and 2026-11-02 02:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-02T01-18-28-238298Z.csv)
+[Full CSV](data/new-crates-2026-11-02T02-18-08-214715Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-02 00:23:34 | [rightkit-apple-ops](https://crates.io/crates/rightkit-apple-ops) | 0.1.1 | 0 | Apple ops: App Store Connect API and upload, build analysis, preflight, profili… |
-| 2026-11-02 00:24:24 | [near-bunker](https://crates.io/crates/near-bunker) | 0.1.1 | 0 | Remote-signing CLI for a NIP-46 bunker DO — pair once, then fire tier-1 reads i… |
-| 2026-11-02 00:30:07 | [fathom-a2a](https://crates.io/crates/fathom-a2a) | 1.0.0 | 0 | fathom A2A surface: signed agent card (JCS canonicalization + Ed25519) per the… |
-| 2026-11-02 00:30:52 | [fathom-art](https://crates.io/crates/fathom-art) | 1.0.0 | 0 | Art/animation style reverse engineering for fathom: measured style specs, nativ… |
-| 2026-11-02 00:32:21 | [fathom-js](https://crates.io/crates/fathom-js) | 1.0.0 | 0 | fathom JavaScript/Electron provider: oxc static analysis and ASAR archives |
-| 2026-11-02 00:33:10 | [fathom-managed](https://crates.io/crates/fathom-managed) | 1.0.0 | 0 | fathom .NET provider: manual ECMA-335 metadata parsing over goblin PE |
-| 2026-11-02 00:33:49 | [fathom-native](https://crates.io/crates/fathom-native) | 1.0.0 | 0 | fathom native-binary provider: Ghidra headless analysis, artifact and layout in… |
-| 2026-11-02 00:35:20 | [tinylang_test_support](https://crates.io/crates/tinylang_test_support) | 0.1.0 | 0 | Shared workspace and assertion helpers for TinyLang crate tests |
-| 2026-11-02 00:35:31 | [tinylang_ralloc](https://crates.io/crates/tinylang_ralloc) | 0.2.0 | 0 | Fixed-capacity arena allocator backing the TinyLang runtime |
-| 2026-11-02 00:38:32 | [tinylang-v2](https://crates.io/crates/tinylang-v2) | 2.0.0 | 0 | TinyLang compiler, verified bytecode runtime, adaptive JIT, and C ABI |
-| 2026-11-02 00:42:49 | [cypherpage](https://crates.io/crates/cypherpage) | 0.2.0 | 0 | Share Markdown pages over Veilid with a CLI and a generic JSON document library |
-| 2026-11-02 00:44:24 | [fathom-observe](https://crates.io/crates/fathom-observe) | 1.0.0 | 0 | fathom observe set: process capture, HAR reading, EVM selectors, browser, firmw… |
-| 2026-11-02 00:46:39 | [hypervisual](https://crates.io/crates/hypervisual) | 0.1.0 | 0 | HyperVisual CLI launcher: downloads and runs the `codi` binary for architecture… |
-| 2026-11-02 00:46:54 | [hypervis](https://crates.io/crates/hypervis) | 0.1.0 | 0 | Short alias for the HyperVisual CLI launcher (`hypervisual`): architecture diag… |
-| 2026-11-02 00:57:02 | [rdreh](https://crates.io/crates/rdreh) | 2.1.0 | 0 | rdreh (command: rdr): keyboard-first terminal multiplexer for running and track… |
-| 2026-11-02 01:03:36 | [orrery-proto](https://crates.io/crates/orrery-proto) | 0.2.1 | 0 | The wire and the shared types, and nothing else. No async, no I/O. |
-| 2026-11-02 01:03:44 | [orrery-agui](https://crates.io/crates/orrery-agui) | 0.2.1 | 0 | The AG-UI encoder: kernel frames out to AG-UI events. Encode only, never decode. |
-| 2026-11-02 01:04:03 | [orrery-audit](https://crates.io/crates/orrery-audit) | 0.2.1 | 0 | The append-only structured stream: three tracing layers, redaction in schema, f… |
-| 2026-11-02 01:04:17 | [orrery-policy](https://crates.io/crates/orrery-policy) | 0.2.1 | 0 | Rules, the selector matcher, check/consent/explain, and the capability-token mi… |
-| 2026-11-02 01:04:25 | [orrery-config](https://crates.io/crates/orrery-config) | 0.2.1 | 0 | The five configuration layers, their TOML merge, provenance, profiles and trust… |
-| 2026-11-02 01:13:45 | [sio-serial](https://crates.io/crates/sio-serial) | 0.4.0 | 0 | Safe, agent-friendly serial I/O: an interactive terminal and an NDJSON session… |
-| 2026-11-02 01:14:59 | [ogzi](https://crates.io/crates/ogzi) | 0.1.0 | 0 | A CLAP sampler plugin for the Ogzi sample library |
-| 2026-11-02 01:15:22 | [orrery-transport](https://crates.io/crates/orrery-transport) | 0.2.1 | 0 | Framing, seq authority, the replay ring, the per-client coalescer and every lis… |
+| 2026-11-02 01:19:35 | [fathom-video](https://crates.io/crates/fathom-video) | 1.0.0 | 0 | fathom video set: YouTube ingest, local-ASR transcripts, frame sampling, and pr… |
+| 2026-11-02 01:21:58 | [zcash-ffi](https://crates.io/crates/zcash-ffi) | 0.0.2 | 0 | Zcash FFI utilities for use by Dart. |
+| 2026-11-02 01:24:53 | [tk2](https://crates.io/crates/tk2) | 0.1.0 | 0 | Native Rust desktop application framework |
+| 2026-11-02 01:26:16 | [orrery-client](https://crates.io/crates/orrery-client) | 0.2.1 | 0 | The Rust Orrery client SDK: an AG-UI session and a SurfaceStore. Pure data, no… |
+| 2026-11-02 01:36:25 | [orrery-grader](https://crates.io/crates/orrery-grader) | 0.2.1 | 0 | The Grader trait and its input and score types, published so a grader extension… |
+| 2026-11-02 01:46:31 | [orrery-provider](https://crates.io/crates/orrery-provider) | 0.2.1 | 0 | The Provider trait and its request, event and auth types. No concrete providers. |
+| 2026-11-02 01:46:32 | [oime-string-table](https://crates.io/crates/oime-string-table) | 0.0.1 | 0 | A small, pure-Rust static byte-string trie using radix tails, LOUDS topology, a… |
+| 2026-11-02 01:49:17 | [stetdoc-core](https://crates.io/crates/stetdoc-core) | 0.9.0 | 0 | The stetdoc engine: projects a .docx into an agent-editable working copy and ba… |
+| 2026-11-02 01:49:21 | [stetdoc](https://crates.io/crates/stetdoc) | 0.9.0 | 0 | The stetdoc command-line tool: edit Word documents as tracked changes, for peop… |
+| 2026-11-02 01:50:49 | [fathom-mcp-server](https://crates.io/crates/fathom-mcp-server) | 1.0.0 | 0 | fathom MCP transports: rmcp (modern era only) over stdio behind an era guard, a… |
+| 2026-11-02 01:52:57 | [whichever-macros](https://crates.io/crates/whichever-macros) | 0.1.0 | 0 | Procedural macros of the whichever crate |
+| 2026-11-02 01:53:01 | [whichever](https://crates.io/crates/whichever) | 0.1.0 | 0 | Implements a trait for an enum by forwarding to whichever variant it holds |
+| 2026-11-02 01:56:40 | [orrery-session](https://crates.io/crates/orrery-session) | 0.2.1 | 0 | The turn tree, the SessionStore trait, the branch lease, and the pure materiali… |
+| 2026-11-02 02:03:03 | [codegen-macros](https://crates.io/crates/codegen-macros) | 0.1.0 | 0 | The `#[codegen::probe]` attribute, re-exported by the codegen crate |
+| 2026-11-02 02:03:07 | [codegen-probe](https://crates.io/crates/codegen-probe) | 0.1.0 | 0 | Probes for assembly-aware analysis: never-inlined wrappers of a crate's API, co… |
+| 2026-11-02 02:04:45 | [htmlmark](https://crates.io/crates/htmlmark) | 0.1.0 | 0 | Bounded, interruptible HTML to Markdown and text conversion for untrusted pages |
+| 2026-11-02 02:07:02 | [orrery-ext-api](https://crates.io/crates/orrery-ext-api) | 0.2.1 | 0 | The extension-facing API: manifest, instance, tool definitions, call context, a… |
+| 2026-11-02 02:08:50 | [cargo-codegen](https://crates.io/crates/cargo-codegen) | 0.1.0 | 0 | Cargo subcommand for assembly-aware analysis: listings, instruction stats and b… |
+| 2026-11-02 02:13:50 | [viscosity-vir](https://crates.io/crates/viscosity-vir) | 0.0.1 | 0 | VIR: Viscosity's language-neutral SSA intermediate representation. |
+| 2026-11-02 02:13:55 | [viscosity-core](https://crates.io/crates/viscosity-core) | 0.0.1 | 0 | Viscosity core: SSA construction, CFG utilities, the layout analyses, the plann… |
+| 2026-11-02 02:14:02 | [viscosity-frontend-js](https://crates.io/crates/viscosity-frontend-js) | 0.0.1 | 0 | Viscosity's JavaScript plugin: parse with oxc, resolve scopes, lower to VIR, an… |
+| 2026-11-02 02:14:07 | [viscosity-frontend-python](https://crates.io/crates/viscosity-frontend-python) | 0.0.1 | 0 | Viscosity's Python plugin: a Python subset (dataclass records, lists, loops) lo… |
+| 2026-11-02 02:14:15 | [viscosity-cli](https://crates.io/crates/viscosity-cli) | 0.0.1 | 0 | The `viscosity` command: compile and explain JavaScript and Python data layouts. |
+| 2026-11-02 02:16:38 | [rightkit-doctor](https://crates.io/crates/rightkit-doctor) | 0.1.0 | 0 | Doctor framework for RightKit engines and CLIs: check rows, verdicts and exit c… |
+| 2026-11-02 02:17:07 | [orrery-jsonrpc](https://crates.io/crates/orrery-jsonrpc) | 0.2.1 | 0 | JSON-RPC 2.0 with pluggable framing, async correlation, bidirectional calls and… |
 
 ## Data source
 

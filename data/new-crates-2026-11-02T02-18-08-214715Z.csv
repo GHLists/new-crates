@@ -1,0 +1,26 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T01:19:35.072539Z,fathom-video,1.0.0,0,0,,"fathom video set: YouTube ingest, local-ASR transcripts, frame sampling, and procedure-guide extraction (YouTube-RE SPEC)"
+2026-11-02T01:21:58.120658Z,zcash-ffi,0.0.2,0,0,https://github.com/ManyMath/zcash,Zcash FFI utilities for use by Dart.
+2026-11-02T01:24:53.073669Z,tk2,0.1.0,0,0,https://github.com/yingkitw/tkrs,Native Rust desktop application framework
+2026-11-02T01:26:16.703572Z,orrery-client,0.2.1,0,0,https://github.com/kouji-dev/orrery,"The Rust Orrery client SDK: an AG-UI session and a SurfaceStore. Pure data, no drawing."
+2026-11-02T01:36:25.37391Z,orrery-grader,0.2.1,0,0,https://github.com/kouji-dev/orrery,"The Grader trait and its input and score types, published so a grader extension never depends on the runner."
+2026-11-02T01:46:31.903831Z,orrery-provider,0.2.1,0,0,https://github.com/kouji-dev/orrery,"The Provider trait and its request, event and auth types. No concrete providers."
+2026-11-02T01:46:32.082674Z,oime-string-table,0.0.1,0,0,https://gitee.com/oime/oime-string-table.git,"A small, pure-Rust static byte-string trie using radix tails, LOUDS topology, and a string-table wrapper"
+2026-11-02T01:49:17.163737Z,stetdoc-core,0.9.0,0,0,https://github.com/clauseo-ai/stetdoc,The stetdoc engine: projects a .docx into an agent-editable working copy and back
+2026-11-02T01:49:21.553121Z,stetdoc,0.9.0,0,0,https://github.com/clauseo-ai/stetdoc,"The stetdoc command-line tool: edit Word documents as tracked changes, for people and AI agents"
+2026-11-02T01:50:49.311945Z,fathom-mcp-server,1.0.0,0,0,,"fathom MCP transports: rmcp (modern era only) over stdio behind an era guard, and streamable HTTP"
+2026-11-02T01:52:57.908564Z,whichever-macros,0.1.0,0,0,https://github.com/shergin/whichever,Procedural macros of the whichever crate
+2026-11-02T01:53:01.191875Z,whichever,0.1.0,0,0,https://github.com/shergin/whichever,Implements a trait for an enum by forwarding to whichever variant it holds
+2026-11-02T01:56:40.679366Z,orrery-session,0.2.1,0,0,https://github.com/kouji-dev/orrery,"The turn tree, the SessionStore trait, the branch lease, and the pure materialise/compact algebra."
+2026-11-02T02:03:03.935338Z,codegen-macros,0.1.0,0,0,https://github.com/fedemagnani/codegen,"The `#[codegen::probe]` attribute, re-exported by the codegen crate"
+2026-11-02T02:03:07.748041Z,codegen-probe,0.1.0,0,0,https://github.com/fedemagnani/codegen,"Probes for assembly-aware analysis: never-inlined wrappers of a crate's API, compiled as its users compile them"
+2026-11-02T02:04:45.14332Z,htmlmark,0.1.0,0,0,https://github.com/sboily/htmlmark,"Bounded, interruptible HTML to Markdown and text conversion for untrusted pages"
+2026-11-02T02:07:02.948452Z,orrery-ext-api,0.2.1,0,0,https://github.com/kouji-dev/orrery,"The extension-facing API: manifest, instance, tool definitions, call context, and the mock broker extension authors test against."
+2026-11-02T02:08:50.689541Z,cargo-codegen,0.1.0,0,0,https://github.com/fedemagnani/codegen,"Cargo subcommand for assembly-aware analysis: listings, instruction stats and baselines of a crate's probes"
+2026-11-02T02:13:50.233023Z,viscosity-vir,0.0.1,0,0,https://github.com/tariqshams/viscosity,VIR: Viscosity's language-neutral SSA intermediate representation.
+2026-11-02T02:13:55.550731Z,viscosity-core,0.0.1,0,0,https://github.com/tariqshams/viscosity,"Viscosity core: SSA construction, CFG utilities, the layout analyses, the planner and explain."
+2026-11-02T02:14:02.086241Z,viscosity-frontend-js,0.0.1,0,0,https://github.com/tariqshams/viscosity,"Viscosity's JavaScript plugin: parse with oxc, resolve scopes, lower to VIR, and rewrite source from a layout plan."
+2026-11-02T02:14:07.017249Z,viscosity-frontend-python,0.0.1,0,0,https://github.com/tariqshams/viscosity,"Viscosity's Python plugin: a Python subset (dataclass records, lists, loops) lowered to VIR, and rewritten to column storage from a layout plan."
+2026-11-02T02:14:15.725856Z,viscosity-cli,0.0.1,0,0,https://github.com/tariqshams/viscosity,The `viscosity` command: compile and explain JavaScript and Python data layouts.
+2026-11-02T02:16:38.437869Z,rightkit-doctor,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Doctor framework for RightKit engines and CLIs: check rows, verdicts and exit codes, host-supplied checks, the engine doctor report, and neutral probes (toolchains, writable folders, bounded child pr…"
+2026-11-02T02:17:07.288593Z,orrery-jsonrpc,0.2.1,0,0,https://github.com/kouji-dev/orrery,"JSON-RPC 2.0 with pluggable framing, async correlation, bidirectional calls and cancellation."
