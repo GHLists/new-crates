@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T20:19:00.581754Z,rocky-core,0.1.0-alpha.1,0,0,https://github.com/BierDav/rocky,"Shared Rocky identities, operation envelopes, versions and protocol errors"
+2026-11-02T20:19:26.398289Z,rocky-credentials,0.1.0-alpha.1,0,0,https://github.com/BierDav/rocky,"Signed manifests, capabilities and revocations, identities, key providers, issuance and enrollment messages"
+2026-11-02T20:19:34.909031Z,tmux-agent-plane,0.1.1,0,0,https://github.com/zazencodes/tmux-agent-plane,"See and steer every coding agent (Claude Code, Codex) running in your tmux"
+2026-11-02T20:20:39.36569Z,rocky-iroh,0.1.0-alpha.1,0,0,https://github.com/BierDav/rocky,Rocky's network port on iroh: handlers for an application's router and a starter endpoint
+2026-11-02T20:21:08.964187Z,rocky-storage,0.1.0-alpha.1,0,0,https://github.com/BierDav/rocky,"SQLite access, row capture and errors shared by the runtimes"
+2026-11-02T20:21:57.386288Z,rocky-coordinator,0.1.0-alpha.1,0,0,https://github.com/BierDav/rocky,"Generic execution fencing, head confirmation and request deduplication"
+2026-11-02T20:27:51.44569Z,rusty_shell_obfuscation,0.1.0,0,0,https://github.com/LostAquilae/RustyShell,Obfuscation helper for RustyShell
+2026-11-02T20:29:25.193125Z,rocky-runtime,0.1.0-alpha.1,0,0,https://github.com/BierDav/rocky,"Local transactions, operation storage, replication and observable queries"
+2026-11-02T20:31:09.511918Z,cargo-playground,0.0.0,0,0,,A small crate for learning Cargo publish
+2026-11-02T20:31:11.024189Z,hellow_library,0.0.0,0,0,,A small crate for learning Cargo publish
+2026-11-02T20:31:12.217186Z,hellow_world_binary,0.0.0,0,0,,A small crate for learning Cargo publish
+2026-11-02T20:39:35.823829Z,rocky-secure,0.1.0-alpha.1,0,0,https://github.com/BierDav/rocky,"Signed capabilities, encrypted replicas and authenticated live links"
+2026-11-02T20:42:24.600815Z,hooktop-core,0.1.1,0,0,https://github.com/nazliander/hooktop,"Event model, task graph and statistics behind hooktop, a live view of Claude Code's tool calls and hardware use"
+2026-11-02T20:42:26.276371Z,hooktop,0.1.1,0,0,https://github.com/nazliander/hooktop,"See Claude Code's tool calls, subagents and CPU/RAM use, live in your terminal"
+2026-11-02T20:43:36.749137Z,swig,3.0.0,0,0,https://github.com/anagrambuild/swig-wallet,Solana program for the Swig protocol
+2026-11-02T20:43:57.74069Z,swig-interface,3.0.0,0,0,https://github.com/anagrambuild/swig-wallet,Instruction builders using the Swig Solana program types
+2026-11-02T20:44:01.138383Z,apister_core,0.2.0,0,0,https://github.com/sunilksundaram/apister,"High-performance native storage, CRC32, radix topic trie, and compression accelerator for apister"
+2026-11-02T20:44:30.116758Z,loopt-sdk,0.1.2,0,0,https://github.com/preloopdev/loopt,"Rust authoring SDK for GitHub Actions workflows, mirroring sdk/typescript"
+2026-11-02T20:44:42.004395Z,zeyn-cli,0.0.3,0,0,https://github.com/huseyininnc/zeyn,"Command line tool for Zeyn Framework: new projects, generators, checks and an MCP server for agents"
+2026-11-02T20:44:43.203693Z,zeyn-island,0.0.3,0,0,https://github.com/huseyininnc/zeyn,Client side of Zeyn islands: typed action calls and props for Rust components compiled to WebAssembly
+2026-11-02T20:44:44.104272Z,zeyn-macros,0.0.3,0,0,https://github.com/huseyininnc/zeyn,Procedural macros for Zeyn Framework
+2026-11-02T20:44:48.855446Z,zeyn,0.0.3,0,0,https://github.com/huseyininnc/zeyn,"Rust web framework for data heavy applications, written by AI agents and reviewed by people"
+2026-11-02T20:44:51.369459Z,zeyn-desktop,0.0.3,0,0,https://github.com/huseyininnc/zeyn,"Runs a Zeyn app as a desktop app in the system WebView, served from a guarded loopback server"
+2026-11-02T20:50:20.246129Z,rocky-sdk,0.1.0-alpha.1,0,0,https://github.com/BierDav/rocky,"ORM-neutral native SDK lifecycle, generated typed schemas, enrollment and secure sync"
+2026-11-02T20:52:57.481464Z,synthie-ui,0.8.0,0,0,https://github.com/sunsided/synth,Shared neon/retro look and widgets for the synthie terminal front-ends
+2026-11-02T21:01:38.925276Z,adws,0.1.0,0,0,https://github.com/g0h4n/adws,"A Rust ADWS (Active Directory Web Services) client with ldap3-compatible types, a drop-in alternate transport for RustHound-CE."
+2026-11-02T21:08:07.814697Z,ravenrs-app,27.1.7,0,0,https://github.com/alexkads/RavenRS,"The model of a RavenRS business application: entities, a layered application model, object spaces, actions and controllers. No GUI."
+2026-11-02T21:08:38.064271Z,ravenrs-grid-export,27.1.7,0,0,https://github.com/alexkads/RavenRS,"Turns what a RavenRS DataGrid shows into an Excel, PDF or CSV file, through the same exporters as reports."
+2026-11-02T21:08:44.750339Z,ravenrs-app-ui,27.1.7,0,0,https://github.com/alexkads/RavenRS,"Screens for a RavenRS business application: lists, forms, commands and the shell, generated from the application model."
+2026-11-02T21:10:20.735147Z,creamui-appearance,0.3.0,0,0,https://github.com/sammwyy/creamui,"Host appearance queries for CreamUI, without a renderer or toolkit dependency"
+2026-11-02T21:13:12.930597Z,roomkit-tools-core,0.1.0-alpha.16,0,0,https://github.com/roomkit-live/roomkit-tools,Runtime-independent contracts for individually selectable agent tools
+2026-11-02T21:13:14.550444Z,roomkit-tools-agents,0.1.0-alpha.16,0,0,https://github.com/roomkit-live/roomkit-tools,Independent delegation tools with host-injected agent backends
+2026-11-02T21:13:14.782852Z,roomkit-tools-code,0.1.0-alpha.16,0,0,https://github.com/roomkit-live/roomkit-tools,Bounded Rust and Python source outlines for agents
+2026-11-02T21:13:15.045246Z,roomkit-tools-docs,0.1.0-alpha.16,0,0,https://github.com/roomkit-live/roomkit-tools,"Selectable documentation discovery, search and reading"
+2026-11-02T21:13:15.314575Z,roomkit-tools-fs,0.1.0-alpha.16,0,0,https://github.com/roomkit-live/roomkit-tools,"Filesystem tools for agents, independent of RoomKit and Python"
+2026-11-02T21:14:37.788002Z,openlv-ffi,0.0.1,0,0,https://github.com/open-lavatory/openlv-rs,a secure peer-to-peer wallet connectivity protocol
+2026-11-02T21:17:06.592914Z,fbx-reader,0.1.0,0,0,https://github.com/alexanderalber/penumbra,"A reader for FBX 7.x files, binary and ASCII, in safe Rust: meshes, materials, animation curves and layers, linear blend skinning. No panics, budgets checked before allocating."
+2026-11-02T21:17:44.742262Z,typed_hexdump_core,0.1.0,0,0,https://github.com/SoimanVasile/typed_hexdump,Core types and binary decoders for typed-hexdump
+2026-11-02T21:17:55.37649Z,iqrcode-core,0.1.0,0,0,https://github.com/InfinityLib/infinity-qrcode,"Core QR Code encoder: encoding, Reed-Solomon, matrix and trace."
+2026-11-02T21:18:01.914116Z,iqrcode,0.1.0,0,0,https://github.com/InfinityLib/infinity-qrcode,QR Code generator with CLI and optional PNG output.
+2026-11-02T21:18:04.335916Z,iqrcode-learn,0.1.0,0,0,https://github.com/InfinityLib/infinity-qrcode,Language-neutral terminal animation for QR Code construction.
+2026-11-02T21:18:08.394321Z,iqrcode-wasm,0.1.0,0,0,https://github.com/InfinityLib/infinity-qrcode,Minimal WebAssembly wrapper for QR Code generation.
+2026-11-02T21:18:11.568253Z,iqrcode-learn-wasm,0.1.0,0,0,https://github.com/InfinityLib/infinity-qrcode,WebAssembly bindings for the QR Code educational trace.
