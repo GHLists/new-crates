@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T12:29:44.934609Z,mhome-script-api,0.1.0,0,0,https://github.com/mhome-ai/foundation,Shared JavaScript resource identity and typed Automation script contracts
+2026-11-02T12:30:48.305889Z,mhome-script-runtime,0.1.0,0,0,https://github.com/mhome-ai/foundation,Shared bounded native QuickJS execution for MeowCore scripts
+2026-11-02T12:48:45.822072Z,hivepack,0.1.0,0,0,https://github.com/hivepaas/hivepack-rs,"Read and write archives and compressed files: ZIP, tar, 7z, RAR, zstd, xz, bzip2, lz4, deflate, age, ISO, UDF, cpio, XAR and more, in safe Rust"
+2026-11-02T12:55:49.007857Z,wyrd-version,0.4.1,0,0,https://github.com/bohmian-ai/wyrd,Semantic version newtype shared by Wyrd crates.
+2026-11-02T12:56:12.34978Z,kemori,3.0.0,0,0,https://github.com/etokiyra/kemori,"Kemori: a zero-configuration, terminal-native IDE"
+2026-11-02T12:56:24.203771Z,finalytics-core,1.0.0-alpha.0,0,0,https://github.com/sigmafieldlabs/finalytics,"Foundations for Finalytics: dates, calendars, currencies, time series and numerical helpers."
+2026-11-02T12:56:26.086146Z,finalytics-ledger,1.0.0-alpha.0,0,0,https://github.com/sigmafieldlabs/finalytics,"Portfolio accounting for Finalytics: instruments, transactions, tax lots, positions and multi-currency valuation."
+2026-11-02T12:56:27.779891Z,finalytics-formats,1.0.0-alpha.0,0,0,https://github.com/sigmafieldlabs/finalytics,"CSV and JSON import and export for Finalytics, with validation reports and the versioned portfolio document."
+2026-11-02T12:56:28.463769Z,finalytics-perf,1.0.0-alpha.0,0,0,https://github.com/sigmafieldlabs/finalytics,"Performance measurement for Finalytics: time- and money-weighted returns, periods, contribution, benchmark comparison, attribution and households."
+2026-11-02T12:56:29.548394Z,finalytics-risk,1.0.0-alpha.0,0,0,https://github.com/sigmafieldlabs/finalytics,"Risk analytics for Finalytics: statistics, drawdowns, covariance estimation, factor models, VaR and expected shortfall, risk decomposition and scenarios."
+2026-11-02T12:56:33.767215Z,tpt-eng-provenance,0.1.0,0,0,https://github.com/tpt-solutions/tpt-engineering,Provenance and validity-range tags for engineering results.
+2026-11-02T12:57:07.70393Z,tpt-eng-sheet,0.1.0,0,0,https://github.com/tpt-solutions/tpt-engineering,"Declarative calculation sheets: a TOML or JSON file names a calculation and its inputs, and produces a report."
+2026-11-02T12:59:14.729845Z,finalytics-opt,1.0.0-alpha.0,0,0,https://github.com/sigmafieldlabs/finalytics,"Portfolio optimisation for Finalytics: convex formulations, risk parity, hierarchical risk parity, frontiers and rebalancing."
+2026-11-02T13:05:12.432767Z,botstadia-interface,0.1.0,0,0,https://github.com/botstadia/botstadia-interface,"BotStadia's shared contracts: arena and agent WIT worlds, arena declarations, payloads, replay archives, metrics files and player messages."
+2026-11-02T13:07:36.346186Z,finalytics-reports,1.0.0-alpha.0,0,0,https://github.com/sigmafieldlabs/finalytics,"Report data for Finalytics: holdings, performance, risk, overview, attribution and scenario reports with chart-ready series, provenance and export tables."
+2026-11-02T13:13:01.23094Z,bonii,0.1.0,0,0,https://github.com/Sheyiyuan/bonii,"ボニー (bonii): check whether a project or package name is already taken across GitHub, language registries and distro repositories."
+2026-11-02T13:17:00.156922Z,toolnexus,0.22.0,0,0,https://github.com/muthuishere/toolnexus,"Vendor-neutral tool layer for LLM agents: ACP agents, MCP servers, agent skills behind one Tool interface (Rust port of toolnexus)."

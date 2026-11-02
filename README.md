@@ -8,40 +8,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 12:19 UTC
+## Latest list — 2026-11-02 13:19 UTC
 
-New crates published between 2026-11-02 11:19 UTC and 2026-11-02 12:19 UTC.
+New crates published between 2026-11-02 12:19 UTC and 2026-11-02 13:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-02T12-19-02-819206Z.csv)
+[Full CSV](data/new-crates-2026-11-02T13-19-19-358141Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-02 11:22:49 | [erpc-skills](https://crates.io/crates/erpc-skills) | 0.0.1 | 0 | Embedded agent skills and sync for the erpc CLI |
-| 2026-11-02 11:27:07 | [agentscope-extensions-higress](https://crates.io/crates/agentscope-extensions-higress) | 0.1.0-alpha.1 | 0 | AgentScope Rust - Higress AI gateway tool-search integration |
-| 2026-11-02 11:29:03 | [necrassrs-actix](https://crates.io/crates/necrassrs-actix) | 0.1.0 | 0 | Actix Web integration for NecrassRs GraphQL servers. |
-| 2026-11-02 11:31:14 | [ic3-cli](https://crates.io/crates/ic3-cli) | 0.1.1 | 0 | A command line for Microsoft Teams chat, for agents: send messages and stream e… |
-| 2026-11-02 11:32:49 | [erpc-mcp-server](https://crates.io/crates/erpc-mcp-server) | 0.0.1 | 0 | MCP server exposing erpc CLI operations to AI agents |
-| 2026-11-02 11:37:10 | [agentscope-extensions-judge](https://crates.io/crates/agentscope-extensions-judge) | 0.1.0-alpha.1 | 0 | AgentScope Rust - calibrated decision APIs (TypeSafe JEV and OpenAI Decisions) |
-| 2026-11-02 11:38:11 | [necrassrs-cli](https://crates.io/crates/necrassrs-cli) | 0.1.0 | 0 | Project initializer for NecrassRs GraphQL servers. |
-| 2026-11-02 11:38:19 | [debind](https://crates.io/crates/debind) | 0.0.1 | 0 | Turn any document into verified, structured text with paragraph-level provenanc… |
-| 2026-11-02 11:42:49 | [erpc-release](https://crates.io/crates/erpc-release) | 0.0.1 | 0 | Signed self-update and release verification for the erpc CLI |
-| 2026-11-02 11:45:31 | [cargo-tree-tui](https://crates.io/crates/cargo-tree-tui) | 0.1.0 | 0 | Display an interactive tree visualization of your Rust dependency graph |
-| 2026-11-02 11:47:11 | [agentscope-extensions-protocol](https://crates.io/crates/agentscope-extensions-protocol) | 0.1.0-alpha.1 | 0 | AgentScope Rust - protocol extensions (umbrella crate) |
-| 2026-11-02 11:51:01 | [yummy_egui](https://crates.io/crates/yummy_egui) | 0.1.1 | 0 | Backend-independent egui widgets, lists and TOML themes |
-| 2026-11-02 11:51:33 | [rsgit-web](https://crates.io/crates/rsgit-web) | 1.3.2 | 0 | rsgit: A hyper-hyperfast web frontend for git repositories written in Rust. |
-| 2026-11-02 11:51:47 | [oidc-caep-risc](https://crates.io/crates/oidc-caep-risc) | 0.1.0 | 0 | Confidential OpenID Connect relying party and one CAEP/RISC poll stream |
-| 2026-11-02 11:51:49 | [wsfed-caep](https://crates.io/crates/wsfed-caep) | 0.1.0 | 0 | Server-side WS-Federation relying party |
-| 2026-11-02 11:52:03 | [saml2-sp](https://crates.io/crates/saml2-sp) | 0.1.0 | 0 | SAML 2.0 service provider |
-| 2026-11-02 11:52:53 | [erpc](https://crates.io/crates/erpc) | 0.0.1 | 0 | ERPC command line: multi-chain node operations, account, AI assistant and credi… |
-| 2026-11-02 11:54:06 | [gnap-caep-risc](https://crates.io/crates/gnap-caep-risc) | 0.1.0 | 0 | Server-side GNAP client with one CAEP and RISC poll receiver |
-| 2026-11-02 11:56:56 | [rixl](https://crates.io/crates/rixl) | 1.0.0 | 0 | Official Rust SDK for the Rixl API platform |
-| 2026-11-02 11:57:17 | [agentscope-rs](https://crates.io/crates/agentscope-rs) | 0.1.0-alpha.1 | 0 | AgentScope Rust - one-dependency facade: core, harness and every extension modu… |
-| 2026-11-02 12:01:43 | [uzor-devtools](https://crates.io/crates/uzor-devtools) | 1.5.23 | 0 | Transport for uzor's dev control: loopback HTTP with token checks, the discover… |
-| 2026-11-02 12:07:55 | [pakk](https://crates.io/crates/pakk) | 0.1.0 | 0 | Create and extract zip, tar.gz and tar.zst archives using every core you have |
-| 2026-11-02 12:10:20 | [euclid-rdk](https://crates.io/crates/euclid-rdk) | 0.1.0 | 0 | Rust client library for the Euclid APIs |
-| 2026-11-02 12:13:22 | [bare-rpc](https://crates.io/crates/bare-rpc) | 0.0.0 | 0 | https://github.com/holepunchto/librpc ABI compatible RPC for Rust |
-| 2026-11-02 12:13:32 | [bare-stow-host](https://crates.io/crates/bare-stow-host) | 0.0.0 | 0 | Host side of the bare-stow lifecycle for Rust |
-| 2026-11-02 12:15:58 | [peisar_yaml](https://crates.io/crates/peisar_yaml) | 0.1.0 | 0 | A YAML parsing helpers for Rust and an optional N-API interface for Node.js |
+| 2026-11-02 12:29:44 | [mhome-script-api](https://crates.io/crates/mhome-script-api) | 0.1.0 | 0 | Shared JavaScript resource identity and typed Automation script contracts |
+| 2026-11-02 12:30:48 | [mhome-script-runtime](https://crates.io/crates/mhome-script-runtime) | 0.1.0 | 0 | Shared bounded native QuickJS execution for MeowCore scripts |
+| 2026-11-02 12:48:45 | [hivepack](https://crates.io/crates/hivepack) | 0.1.0 | 0 | Read and write archives and compressed files: ZIP, tar, 7z, RAR, zstd, xz, bzip… |
+| 2026-11-02 12:55:49 | [wyrd-version](https://crates.io/crates/wyrd-version) | 0.4.1 | 0 | Semantic version newtype shared by Wyrd crates. |
+| 2026-11-02 12:56:12 | [kemori](https://crates.io/crates/kemori) | 3.0.0 | 0 | Kemori: a zero-configuration, terminal-native IDE |
+| 2026-11-02 12:56:24 | [finalytics-core](https://crates.io/crates/finalytics-core) | 1.0.0-alpha.0 | 0 | Foundations for Finalytics: dates, calendars, currencies, time series and numer… |
+| 2026-11-02 12:56:26 | [finalytics-ledger](https://crates.io/crates/finalytics-ledger) | 1.0.0-alpha.0 | 0 | Portfolio accounting for Finalytics: instruments, transactions, tax lots, posit… |
+| 2026-11-02 12:56:27 | [finalytics-formats](https://crates.io/crates/finalytics-formats) | 1.0.0-alpha.0 | 0 | CSV and JSON import and export for Finalytics, with validation reports and the… |
+| 2026-11-02 12:56:28 | [finalytics-perf](https://crates.io/crates/finalytics-perf) | 1.0.0-alpha.0 | 0 | Performance measurement for Finalytics: time- and money-weighted returns, perio… |
+| 2026-11-02 12:56:29 | [finalytics-risk](https://crates.io/crates/finalytics-risk) | 1.0.0-alpha.0 | 0 | Risk analytics for Finalytics: statistics, drawdowns, covariance estimation, fa… |
+| 2026-11-02 12:56:33 | [tpt-eng-provenance](https://crates.io/crates/tpt-eng-provenance) | 0.1.0 | 0 | Provenance and validity-range tags for engineering results. |
+| 2026-11-02 12:57:07 | [tpt-eng-sheet](https://crates.io/crates/tpt-eng-sheet) | 0.1.0 | 0 | Declarative calculation sheets: a TOML or JSON file names a calculation and its… |
+| 2026-11-02 12:59:14 | [finalytics-opt](https://crates.io/crates/finalytics-opt) | 1.0.0-alpha.0 | 0 | Portfolio optimisation for Finalytics: convex formulations, risk parity, hierar… |
+| 2026-11-02 13:05:12 | [botstadia-interface](https://crates.io/crates/botstadia-interface) | 0.1.0 | 0 | BotStadia's shared contracts: arena and agent WIT worlds, arena declarations, p… |
+| 2026-11-02 13:07:36 | [finalytics-reports](https://crates.io/crates/finalytics-reports) | 1.0.0-alpha.0 | 0 | Report data for Finalytics: holdings, performance, risk, overview, attribution… |
+| 2026-11-02 13:13:01 | [bonii](https://crates.io/crates/bonii) | 0.1.0 | 0 | ボニー (bonii): check whether a project or package name is already taken across Gi… |
+| 2026-11-02 13:17:00 | [toolnexus](https://crates.io/crates/toolnexus) | 0.22.0 | 0 | Vendor-neutral tool layer for LLM agents: ACP agents, MCP servers, agent skills… |
 
 ## Data source
 
