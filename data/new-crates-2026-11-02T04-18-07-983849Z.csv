@@ -1,0 +1,25 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T03:22:52.418384Z,cgap-bont,26.11.1,0,0,https://github.com/seanchatmangpt/cgap,"Binary ontology (B-ONT) primitives, SHACL bitmask compiler and O-ABI reader for the cgap sovereign columnar substrate."
+2026-11-02T03:24:48.366502Z,cgap-bosym,26.11.1,0,0,https://github.com/seanchatmangpt/cgap,Binary ontology symbol slab (B-OSYM) interned-identifier slab for the cgap sovereign columnar substrate.
+2026-11-02T03:25:33.160742Z,cgap-crypto,26.11.1,0,0,,"Sovereign, zero-dependency #![no_std] keyed BLAKE3 cryptography kernel (keyed digest engine, sealed transcripts, Merkle helpers) on the cgap-blake3 substrate."
+2026-11-02T03:25:36.34064Z,gpui-ohos,0.0.1-beta.0,0,0,https://github.com/ohos-rs/gpui-ohos,OpenHarmony platform support for GPUI
+2026-11-02T03:27:05.382217Z,dhabatui,0.1.0,0,0,https://github.com/itsvrushabh/dhabatui,"Fast, keyboard-first Terminal POS and billing application for dhabas and casual eateries"
+2026-11-02T03:33:20.536409Z,lumen-mcp-server,1.0.0,0,0,,"Lux in motu - cross-platform, cross-media deterministic conversion engine: 2D art, 3D models and engine formats from code-first records"
+2026-11-02T03:33:40.013328Z,cgap-gpu,26.11.1,0,0,https://github.com/seanchatmangpt/cgap,GPU execution membrane for the cgap sovereign substrate: Metal Unified Memory zero-copy buffer bridging.
+2026-11-02T03:37:46.312958Z,sark-http,0.21.0,0,0,https://github.com/dope-rs/sark,"HTTP wire types, semantics, codecs, and ownership invariants for Sark"
+2026-11-02T03:37:57.664142Z,sark-h1,0.21.0,0,0,https://github.com/dope-rs/sark,"Fiber-free HTTP/1 ingress, batching, and response protocol engine for sark"
+2026-11-02T03:38:09.737429Z,sark-fiber,0.21.0,0,0,https://github.com/dope-rs/sark,Fiber execution extension for the Sark facade
+2026-11-02T03:39:32.0188Z,octet-cli,0.1.0,0,0,https://github.com/oddurs/octet,"Information-design-first hex viewer, binary inspector, and modern xxd / hexdump replacement."
+2026-11-02T03:43:38.135963Z,cgap-cloud,26.11.1,0,0,,"Cloud ontology O-ABI pack for the cgap sovereign columnar substrate: build-time-emitted binary ontology pack, no_std const/types facade."
+2026-11-02T03:51:56.95106Z,cargo-craftcheck,2.0.0-rc6,0,0,,Portable Craftbook v2 policy validator for Cargo workspaces
+2026-11-02T03:53:39.048677Z,cgap-audit,26.11.1,0,0,,CC=1 branch-audit cdylib: forces every kernel into the artifact so machine code can be inspected.
+2026-11-02T04:03:24.363171Z,atrium-emotion,0.1.0,0,0,https://github.com/chinokoyuki/atrium-emotion,"Affective state engine: PAD emotion model with OU drift, circadian rhythm, inertia, compound emotions, and separation/reunion dynamics"
+2026-11-02T04:03:44.119996Z,cgap-gate,26.11.1,0,0,,Campaign boundary gate kernels: fail-closed guard evaluation courts for the cgap substrate.
+2026-11-02T04:10:12.715922Z,gigsift-recipes,0.2.0,0,0,https://github.com/0xdhrv/gigsift,Declarative recipe loader and matcher for gigsift
+2026-11-02T04:10:13.190871Z,gigsift-store,0.2.0,0,0,https://github.com/0xdhrv/gigsift,Local SQLite persistence for gigsift plans and the audit log
+2026-11-02T04:10:19.782591Z,gigsift-engine,0.2.0,0,0,https://github.com/0xdhrv/gigsift,"Operations shared by the gigsift CLI, MCP server, and Raycast extension"
+2026-11-02T04:10:22.386337Z,gigsift-mcp,0.2.0,0,0,https://github.com/0xdhrv/gigsift,MCP stdio server for gigsift
+2026-11-02T04:10:47.037265Z,chinese-rrule,0.1.0,0,0,https://github.com/chinokoyuki/chinese-rrule,Parse Chinese natural-language time expressions into RFC 5545 RRULE strings and next-trigger timestamps
+2026-11-02T04:11:50.540119Z,robostickies,0.1.1-rc.1,0,0,https://github.com/canardleteer/robostickies,"Small repository-local notes for humans and agents, through CLI and MCP"
+2026-11-02T04:12:06.55923Z,threeputt,0.0.1,0,0,https://github.com/divotmaker/3putt,Client library for the ExPutt RG putting device over WiFi
+2026-11-02T04:13:45.027519Z,cgap-bn3,26.11.1,0,0,,"Binary N3 (BN3) reasoning kernel: slab arena, sigil codec, BN3 unifier and projection for the cgap substrate."

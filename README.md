@@ -8,43 +8,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 03:18 UTC
+## Latest list — 2026-11-02 04:18 UTC
 
-New crates published between 2026-11-02 02:18 UTC and 2026-11-02 03:18 UTC.
+New crates published between 2026-11-02 03:18 UTC and 2026-11-02 04:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-02T03-18-46-198213Z.csv)
+[Full CSV](data/new-crates-2026-11-02T04-18-07-983849Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-02 02:22:25 | [fathom-cli](https://crates.io/crates/fathom-cli) | 1.0.0 | 0 | fathom binary: serve (MCP stdio/HTTP), card, doctor, one-shot tool calls |
-| 2026-11-02 02:26:02 | [viscosity-wasm](https://crates.io/crates/viscosity-wasm) | 0.0.1 | 0 | Viscosity compiled to WebAssembly: compile(source) -> { code, explain }, for Ja… |
-| 2026-11-02 02:27:31 | [orrery-ext-sdk](https://crates.io/crates/orrery-ext-sdk) | 0.2.1 | 0 | Serve an orrery-ext-api extension as its own process: a one-line main, the brok… |
-| 2026-11-02 02:29:17 | [accesskit_ohos_pre](https://crates.io/crates/accesskit_ohos_pre) | 0.0.2 | 0 | AccessKit UI accessibility infrastructure: OpenHarmony adapter |
-| 2026-11-02 02:30:58 | [abstractavatar](https://crates.io/crates/abstractavatar) | 0.1.0 | 0 | Platform-independent procedural activity avatars with optional native/WebAssemb… |
-| 2026-11-02 02:34:28 | [pipetrain](https://crates.io/crates/pipetrain) | 0.1.0 | 0 | Plans the merge order of pull requests across repos, read-only |
-| 2026-11-02 02:36:45 | [baracuda-tensorrt-builder](https://crates.io/crates/baracuda-tensorrt-builder) | 0.1.0-alpha.80 | 0 | Safe Rust API for the NVIDIA TensorRT builder: network definition, builder conf… |
-| 2026-11-02 02:37:44 | [praevis-thetadata-auth](https://crates.io/crates/praevis-thetadata-auth) | 0.1.0-alpha.1 | 0 | Independent Rust client for ThetaData HTTPS authentication: in-memory sessions,… |
-| 2026-11-02 02:37:59 | [orrery-oauth](https://crates.io/crates/orrery-oauth) | 0.2.1 | 0 | OAuth 2 authorization code with PKCE for Orrery provider extensions: loopback c… |
-| 2026-11-02 02:38:07 | [praevis-thetadata-core](https://crates.io/crates/praevis-thetadata-core) | 0.1.0-alpha.1 | 0 | Transport-independent exact prices, timestamps, values, tables and numeric batc… |
-| 2026-11-02 02:38:50 | [praevis-thetadata-proto](https://crates.io/crates/praevis-thetadata-proto) | 0.1.0-alpha.1 | 0 | Generated protobuf types and gRPC bindings recovered from the ThetaData Python… |
-| 2026-11-02 02:39:33 | [praevis-thetadata-client](https://crates.io/crates/praevis-thetadata-client) | 0.1.0-alpha.1 | 0 | Experimental independent Rust gRPC client for ThetaData market data: raw RPC bi… |
-| 2026-11-02 02:39:42 | [praevis-thetadata-cli](https://crates.io/crates/praevis-thetadata-cli) | 0.1.0-alpha.1 | 0 | Independent, unofficial ThetaData authentication CLI with native Windows/Linux… |
-| 2026-11-02 02:48:04 | [orrery-wit](https://crates.io/crates/orrery-wit) | 0.2.1 | 0 | The WIT world as data plus the generated host bindings, including the flat-aren… |
-| 2026-11-02 02:48:07 | [veilid-core-optimized](https://crates.io/crates/veilid-core-optimized) | 0.5.8 | 0 | Internal crate for veilid-core, do not use directly. Monomorphic entry points f… |
-| 2026-11-02 02:51:11 | [passforme-core](https://crates.io/crates/passforme-core) | 0.1.0 | 0 | Vault format, cryptography and password generator; no network, no disk |
-| 2026-11-02 02:51:14 | [passforme](https://crates.io/crates/passforme) | 0.1.0 | 0 | Password manager client: the only place where the vault is decrypted |
-| 2026-11-02 02:51:15 | [passforme-server](https://crates.io/crates/passforme-server) | 0.1.0 | 0 | Sync server: stores ciphertext only and holds no decryption key |
-| 2026-11-02 02:51:23 | [pdf-agent](https://crates.io/crates/pdf-agent) | 0.1.0 | 0 | A pure-Rust, memory-guarded PDF facade for AI agents: structured Markdown extra… |
-| 2026-11-02 02:51:58 | [questkit-fec](https://crates.io/crates/questkit-fec) | 0.1.0 | 0 | Reed-Solomon and XOR forward-error correction for lossy packet transports |
-| 2026-11-02 02:54:24 | [framework-bus](https://crates.io/crates/framework-bus) | 26.11.0 | 0 | lingting framework |
-| 2026-11-02 02:59:34 | [fframes-3d](https://crates.io/crates/fframes-3d) | 1.4.0 | 0 | 3D scenes for fframes: a three.js style scene graph, glTF and STL models, a CPU… |
-| 2026-11-02 03:06:48 | [lingting-gpui-bus](https://crates.io/crates/lingting-gpui-bus) | 26.11.1 | 0 | lingting network control |
-| 2026-11-02 03:07:14 | [gosavetool](https://crates.io/crates/gosavetool) | 1.0.0 | 0 | Parse, convert, shift and repair SRT and WebVTT subtitles; word count, social m… |
-| 2026-11-02 03:08:41 | [sc-config](https://crates.io/crates/sc-config) | 0.1.1 | 0 | Synchronous JSON configuration loader with environment overrides. |
-| 2026-11-02 03:09:57 | [sc-transport](https://crates.io/crates/sc-transport) | 0.1.1 | 0 | Endpoint resolution and local HTTP for a daemon and its CLI. |
-| 2026-11-02 03:11:10 | [sc-command](https://crates.io/crates/sc-command) | 0.1.1 | 0 | Lossless JSON CLI/API response envelope and REST/MCP conversions. |
-| 2026-11-02 03:12:47 | [sc-runtime](https://crates.io/crates/sc-runtime) | 0.1.1 | 0 | Daemon assembly: singleton lock, one router, and graceful shutdown. |
-| 2026-11-02 03:14:07 | [sc-cron](https://crates.io/crates/sc-cron) | 0.1.1 | 0 | SQLite-backed cron scheduler with generation fencing, jitter and missed-tick re… |
+| 2026-11-02 03:22:52 | [cgap-bont](https://crates.io/crates/cgap-bont) | 26.11.1 | 0 | Binary ontology (B-ONT) primitives, SHACL bitmask compiler and O-ABI reader for… |
+| 2026-11-02 03:24:48 | [cgap-bosym](https://crates.io/crates/cgap-bosym) | 26.11.1 | 0 | Binary ontology symbol slab (B-OSYM) interned-identifier slab for the cgap sove… |
+| 2026-11-02 03:25:33 | [cgap-crypto](https://crates.io/crates/cgap-crypto) | 26.11.1 | 0 | Sovereign, zero-dependency #![no_std] keyed BLAKE3 cryptography kernel (keyed d… |
+| 2026-11-02 03:25:36 | [gpui-ohos](https://crates.io/crates/gpui-ohos) | 0.0.1-beta.0 | 0 | OpenHarmony platform support for GPUI |
+| 2026-11-02 03:27:05 | [dhabatui](https://crates.io/crates/dhabatui) | 0.1.0 | 0 | Fast, keyboard-first Terminal POS and billing application for dhabas and casual… |
+| 2026-11-02 03:33:20 | [lumen-mcp-server](https://crates.io/crates/lumen-mcp-server) | 1.0.0 | 0 | Lux in motu - cross-platform, cross-media deterministic conversion engine: 2D a… |
+| 2026-11-02 03:33:40 | [cgap-gpu](https://crates.io/crates/cgap-gpu) | 26.11.1 | 0 | GPU execution membrane for the cgap sovereign substrate: Metal Unified Memory z… |
+| 2026-11-02 03:37:46 | [sark-http](https://crates.io/crates/sark-http) | 0.21.0 | 0 | HTTP wire types, semantics, codecs, and ownership invariants for Sark |
+| 2026-11-02 03:37:57 | [sark-h1](https://crates.io/crates/sark-h1) | 0.21.0 | 0 | Fiber-free HTTP/1 ingress, batching, and response protocol engine for sark |
+| 2026-11-02 03:38:09 | [sark-fiber](https://crates.io/crates/sark-fiber) | 0.21.0 | 0 | Fiber execution extension for the Sark facade |
+| 2026-11-02 03:39:32 | [octet-cli](https://crates.io/crates/octet-cli) | 0.1.0 | 0 | Information-design-first hex viewer, binary inspector, and modern xxd / hexdump… |
+| 2026-11-02 03:43:38 | [cgap-cloud](https://crates.io/crates/cgap-cloud) | 26.11.1 | 0 | Cloud ontology O-ABI pack for the cgap sovereign columnar substrate: build-time… |
+| 2026-11-02 03:51:56 | [cargo-craftcheck](https://crates.io/crates/cargo-craftcheck) | 2.0.0-rc6 | 0 | Portable Craftbook v2 policy validator for Cargo workspaces |
+| 2026-11-02 03:53:39 | [cgap-audit](https://crates.io/crates/cgap-audit) | 26.11.1 | 0 | CC=1 branch-audit cdylib: forces every kernel into the artifact so machine code… |
+| 2026-11-02 04:03:24 | [atrium-emotion](https://crates.io/crates/atrium-emotion) | 0.1.0 | 0 | Affective state engine: PAD emotion model with OU drift, circadian rhythm, iner… |
+| 2026-11-02 04:03:44 | [cgap-gate](https://crates.io/crates/cgap-gate) | 26.11.1 | 0 | Campaign boundary gate kernels: fail-closed guard evaluation courts for the cga… |
+| 2026-11-02 04:10:12 | [gigsift-recipes](https://crates.io/crates/gigsift-recipes) | 0.2.0 | 0 | Declarative recipe loader and matcher for gigsift |
+| 2026-11-02 04:10:13 | [gigsift-store](https://crates.io/crates/gigsift-store) | 0.2.0 | 0 | Local SQLite persistence for gigsift plans and the audit log |
+| 2026-11-02 04:10:19 | [gigsift-engine](https://crates.io/crates/gigsift-engine) | 0.2.0 | 0 | Operations shared by the gigsift CLI, MCP server, and Raycast extension |
+| 2026-11-02 04:10:22 | [gigsift-mcp](https://crates.io/crates/gigsift-mcp) | 0.2.0 | 0 | MCP stdio server for gigsift |
+| 2026-11-02 04:10:47 | [chinese-rrule](https://crates.io/crates/chinese-rrule) | 0.1.0 | 0 | Parse Chinese natural-language time expressions into RFC 5545 RRULE strings and… |
+| 2026-11-02 04:11:50 | [robostickies](https://crates.io/crates/robostickies) | 0.1.1-rc.1 | 0 | Small repository-local notes for humans and agents, through CLI and MCP |
+| 2026-11-02 04:12:06 | [threeputt](https://crates.io/crates/threeputt) | 0.0.1 | 0 | Client library for the ExPutt RG putting device over WiFi |
+| 2026-11-02 04:13:45 | [cgap-bn3](https://crates.io/crates/cgap-bn3) | 26.11.1 | 0 | Binary N3 (BN3) reasoning kernel: slab arena, sigil codec, BN3 unifier and proj… |
 
 ## Data source
 
