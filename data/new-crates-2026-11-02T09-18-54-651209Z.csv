@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T08:18:36.804204Z,constlit-macros,0.1.0,0,0,https://github.com/dahankzter/constlit,Procedural macros for constlit. Use the constlit crate instead.
+2026-11-02T08:18:38.974702Z,constlit,0.1.0,0,0,https://github.com/dahankzter/constlit,"Compile-time checked literals: ""1h30m"", ""64 KiB"", ""10.0.0.0/8"", ""*/5 * * * *"", ""2026-10-30 14:00 Europe/Stockholm"" become typed constants, with errors that suggest the fix."
+2026-11-02T08:25:42.1183Z,nat3d-modeling,0.2.2,0,0,https://github.com/Yatrogenesis/NAT3D,"Modeling tools for NAT3D - polygon modeling, NURBS, sculpting, CAD, modifiers"
+2026-11-02T08:27:10.340386Z,agentscope-extensions-jdbc,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - multi-database JDBC dialect abstraction and distributed storage
+2026-11-02T08:36:09.940041Z,nat3d-physics,0.2.2,0,0,https://github.com/Yatrogenesis/NAT3D,"Physics simulation for NAT3D - rigid bodies, soft bodies, cloth, fluids (Navier-Stokes), particles"
+2026-11-02T08:37:23.761227Z,agentscope-extensions-agent-protocol,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - agent protocol (task lifecycle HTTP+SSE) extension
+2026-11-02T08:46:38.970942Z,nat3d-scripting,0.2.2,0,0,https://github.com/Yatrogenesis/NAT3D,"Scripting interface for NAT3D - Python bindings via PyO3, Rust API"
+2026-11-02T08:46:46.963459Z,xref-code,0.1.0,0,0,https://github.com/alex09x/xref,"Ultra blazing fast cross-references, layout recovery, slicing & pseudo-C for x86-64 ELF binaries"
+2026-11-02T08:47:09.012863Z,agentscope-extensions-agui,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - AG-UI protocol extension
+2026-11-02T08:50:11.772723Z,oim-logger,0.0.1,0,0,https://gitee.com/oime/oim-logger.git,"A simple, zero-dependency logging library"
+2026-11-02T08:57:08.189858Z,nat3d-sync,0.2.2,0,0,https://github.com/Yatrogenesis/NAT3D,"Device synchronization for NAT3D - iPad input, Apple Pencil, Bonjour discovery"
+2026-11-02T08:57:18.829678Z,agentscope-extensions-acp,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - ACP (Agent Client Protocol) coding agent
+2026-11-02T09:05:58.058634Z,cosys-plugin-conversations,0.1.0,0,0,https://github.com/cosys-work/tda,"The conversations plugin (ADR-21 §7, PLAN M22): replies in threads, reposts and reactions over the posts modality, as a WebAssembly module a health app runs in its web page and SOMA under wasmi in it…"
+2026-11-02T09:07:12.387991Z,agentscope-extensions-rag,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,"AgentScope Rust - RAG knowledge bases, embedding providers and document readers"
+2026-11-02T09:07:36.991985Z,nat3d-ui,0.2.2,0,0,https://github.com/Yatrogenesis/NAT3D,"User interface for NAT3D - egui-based panels, tools, viewport, input handling"
+2026-11-02T09:07:58.552776Z,cosys-plugin-media,0.1.0,0,0,https://github.com/cosys-work/tda,"The media renderer (ADR-21 §7, ADR-24 §7, PLAN M22-6): reads a sound's or a video's container, refuses one that is malformed, and says how long it is, how large and in which codec, for the app to pla…"
+2026-11-02T09:08:19.944926Z,cosys-plugin-pdf,0.1.0,0,0,https://github.com/cosys-work/tda,"The PDF renderer (ADR-21 §7, ADR-24 §7, PLAN M22-6): reads each page's text from a PDF in a post, for the app to show beside the pages its own rasteriser draws. A WebAssembly module."
+2026-11-02T09:11:51.704574Z,damavand-policy,0.1.0,0,0,https://github.com/jamshidhq/damavand-policy,Deterministic policy gateway (Cedar) for damavand agent-safety crates
+2026-11-02T09:12:13.575781Z,damavand-proto,0.1.0,0,0,https://github.com/jamshidhq/damavand-proto,Versioned out-of-process plugin wire protocol (JSON-RPC 2.0) for damavand agent-safety crates
+2026-11-02T09:14:23.492148Z,voicewa,0.1.0,0,0,,Dictate a message with your Codex login and send it on WhatsApp from macOS
+2026-11-02T09:16:58.999868Z,ravenrs-ai,27.1.3,0,0,https://github.com/alexkads/RavenRS,"Local AI models for a RavenRS app: only the ones that fit the machine, downloaded when someone asks, checked by hash and easy to remove."
+2026-11-02T09:17:10.51423Z,agentscope-extensions-sandbox,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,"AgentScope Rust - remote sandbox backends (AgentRun, Daytona, E2B, Kubernetes)"
+2026-11-02T09:18:06.918591Z,nat3d-app,0.2.2,0,0,https://github.com/Yatrogenesis/NAT3D,Main application for NAT3D - desktop GUI application
