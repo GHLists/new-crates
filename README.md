@@ -8,75 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 23:18 UTC
+## Latest list — 2026-11-02 00:19 UTC
 
-New crates published between 2026-11-01 22:18 UTC and 2026-11-01 23:18 UTC.
+New crates published between 2026-11-01 23:18 UTC and 2026-11-02 00:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-01T23-18-13-195744Z.csv)
+[Full CSV](data/new-crates-2026-11-02T00-19-16-395837Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-01 22:18:30 | [nessie-cas-peer](https://crates.io/crates/nessie-cas-peer) | 0.4.1 | 0 | Static-peer swarm for nessie-store's CAS: HTTP fetch-through, durability oracle… |
-| 2026-11-01 22:19:27 | [nfq-razor-temp-release](https://crates.io/crates/nfq-razor-temp-release) | 0.2.6 | 0 | Rust library for dealing with NetFilter queue |
-| 2026-11-01 22:21:52 | [nadir-render](https://crates.io/crates/nadir-render) | 0.1.0 | 0 | 2D renderer for the Nadir engine: sprite batching, y-sort, tilemap chunks, came… |
-| 2026-11-01 22:27:56 | [slapp](https://crates.io/crates/slapp) | 0.1.1 | 0 | A framework for developing MitM at the application layer |
-| 2026-11-01 22:28:26 | [rv-fs](https://crates.io/crates/rv-fs) | 0.5.0 | 0 | Atomic writes, file locks and path helpers for Raeva |
-| 2026-11-01 22:28:26 | [rv-http](https://crates.io/crates/rv-http) | 0.5.0 | 0 | HTTP client construction, TLS roots, retry rules and bounded reads for Raeva |
-| 2026-11-01 22:28:27 | [rv-maven-types](https://crates.io/crates/rv-maven-types) | 0.5.0 | 0 | Maven versions, coordinates and repository layout types for Raeva |
-| 2026-11-01 22:28:37 | [rv-lock](https://crates.io/crates/rv-lock) | 0.5.0 | 0 | The raeva.lock model and codec for Raeva |
-| 2026-11-01 22:28:42 | [rv-export](https://crates.io/crates/rv-export) | 0.5.0 | 0 | Write a raeva.lock's artifacts into a Maven local repository |
-| 2026-11-01 22:29:22 | [untwist-core](https://crates.io/crates/untwist-core) | 0.1.0 | 0 | Parsing, printing and the pass framework shared by the untwist crates |
-| 2026-11-01 22:29:23 | [untwist-regress](https://crates.io/crates/untwist-regress) | 0.12.0 | 0 | A fork of regress 0.12.0 (ECMAScript regular expressions) that adds a step-budg… |
-| 2026-11-01 22:29:26 | [untwist-eval](https://crates.io/crates/untwist-eval) | 0.1.0 | 0 | Constant folding and a sandboxed, step-budgeted JavaScript interpreter for untw… |
-| 2026-11-01 22:29:27 | [untwist-jsx](https://crates.io/crates/untwist-jsx) | 0.1.0 | 0 | Rebuild JSX from React.createElement and the automatic jsx/jsxs runtime |
-| 2026-11-01 22:29:28 | [untwist-unpack](https://crates.io/crates/untwist-unpack) | 0.1.0 | 0 | Bundle detection and module extraction for webpack, browserify, esbuild, Parcel… |
-| 2026-11-01 22:29:59 | [world-txt](https://crates.io/crates/world-txt) | 0.1.0 | 0 | A cozy multiplayer text world: wander, chat, garden and craft on a shared islan… |
-| 2026-11-01 22:30:28 | [nessie-reapi](https://crates.io/crates/nessie-reapi) | 0.4.1 | 0 | Bazel Remote Execution API v2 (cache subset) gRPC face over the nessie CAS/Acti… |
-| 2026-11-01 22:31:16 | [nessie-s3](https://crates.io/crates/nessie-s3) | 0.4.1 | 0 | S3 object-API face over the nessie content-addressed store, for cache clients t… |
-| 2026-11-01 22:32:07 | [nadir-scene](https://crates.io/crates/nadir-scene) | 0.1.0 | 0 | Scene layer for the Nadir engine: reflection, registries and the components the… |
-| 2026-11-01 22:33:09 | [raeva](https://crates.io/crates/raeva) | 0.5.0 | 0 | Raeva CLI - lockfile companion for Maven projects |
-| 2026-11-01 22:34:20 | [untwist-unminify](https://crates.io/crates/untwist-unminify) | 0.1.0 | 0 | Unminify and untranspile passes that turn minified JavaScript back into readabl… |
-| 2026-11-01 22:34:34 | [electric-eye-core](https://crates.io/crates/electric-eye-core) | 0.1.0 | 0 | Shared event types for Electric Eye Linux activity monitoring |
-| 2026-11-01 22:34:35 | [electric-eye-nix](https://crates.io/crates/electric-eye-nix) | 0.1.0 | 0 | Nix store executable provenance for Electric Eye |
-| 2026-11-01 22:34:37 | [electric-eye-cli](https://crates.io/crates/electric-eye-cli) | 0.1.0 | 0 | Read-only Linux activity CLI, TUI, and MCP bridge for Electric Eye |
-| 2026-11-01 22:34:38 | [electric-eyed](https://crates.io/crates/electric-eyed) | 0.1.0 | 0 | eBPF-based Linux activity monitoring daemon for Electric Eye |
-| 2026-11-01 22:34:57 | [gloc-diff](https://crates.io/crates/gloc-diff) | 0.2.0 | 0 | CLI that reports churn between git diffs. |
-| 2026-11-01 22:39:24 | [cairnos](https://crates.io/crates/cairnos) | 0.1.0 | 0 | Cairn OS core types. Starts with TaggedDigest, the algorithm-tagged hash every… |
-| 2026-11-01 22:40:01 | [groktree](https://crates.io/crates/groktree) | 0.1.0 | 0 | Read-only inspector for Grok Build worktrees, their origins, and git repos in s… |
-| 2026-11-01 22:42:24 | [NadirGE](https://crates.io/crates/NadirGE) | 0.1.0 | 0 | A lightweight, cross-platform Rust engine. |
-| 2026-11-01 22:42:43 | [untwist-deobfuscate](https://crates.io/crates/untwist-deobfuscate) | 0.1.0 | 0 | Passes that undo javascript-obfuscator string arrays, decoders, control-flow fl… |
-| 2026-11-01 22:42:45 | [tsv_html](https://crates.io/crates/tsv_html) | 0.8.0 | 0 | HTML spec data: the named character references table (support crate for tsv) |
-| 2026-11-01 22:42:45 | [tsv_ignore](https://crates.io/crates/tsv_ignore) | 0.8.0 | 0 | gitignore-faithful hierarchical ignore matching (.gitignore, .formatignore, .pr… |
-| 2026-11-01 22:42:46 | [tsv_lang](https://crates.io/crates/tsv_lang) | 0.8.0 | 0 | Shared foundation of tsv's language crates: errors, wire coordinates and the pa… |
-| 2026-11-01 22:42:47 | [tsv_css](https://crates.io/crates/tsv_css) | 0.8.0 | 0 | CSS formatter and parser compatible with Svelte's parseCss — part of tsv |
-| 2026-11-01 22:42:48 | [tsv_discover](https://crates.io/crates/tsv_discover) | 0.8.0 | 0 | tsv's file-discovery policy: safety nets, the build-output heuristic and scope… |
-| 2026-11-01 22:45:12 | [rightkit-document-workspace](https://crates.io/crates/rightkit-document-workspace) | 0.1.1 | 0 | Document workspace store: recent files, pinned files and folders, per-document… |
-| 2026-11-01 22:51:01 | [vtcode-desktop-protocol](https://crates.io/crates/vtcode-desktop-protocol) | 0.181.0 | 0 | Versioned JSON-RPC protocol shared by VT Code desktop hosts |
-| 2026-11-01 22:51:52 | [phpz](https://crates.io/crates/phpz) | 0.5.0 | 0 | PHP version manager with per-project versions and extensions. No sudo, no compi… |
-| 2026-11-01 22:53:00 | [untwist-rename](https://crates.io/crates/untwist-rename) | 0.1.0 | 0 | Scope-safe identifier renaming for untwist: mangle, simple and unique modes |
-| 2026-11-01 22:53:40 | [tsv_ts](https://crates.io/crates/tsv_ts) | 0.8.0 | 0 | TypeScript/JS formatter, type stripper and acorn-compatible parser — part of tsv |
-| 2026-11-01 22:56:34 | [rs-arrow-ipc2sqlite](https://crates.io/crates/rs-arrow-ipc2sqlite) | 0.1.0 | 0 | Convert Arrow IPC stream to SQLite database |
-| 2026-11-01 22:57:17 | [cellar-egress](https://crates.io/crates/cellar-egress) | 0.1.1 | 0 | Run-owned network transport for Cellar container interception |
-| 2026-11-01 22:58:05 | [cellar-raft-proto](https://crates.io/crates/cellar-raft-proto) | 0.1.1 | 0 | Cellar fork of raft-proto with a self-contained protobuf build |
-| 2026-11-01 22:58:19 | [cellar-raft](https://crates.io/crates/cellar-raft) | 0.1.1 | 0 | Cellar fork of raft-rs with host-seeded election randomness |
-| 2026-11-01 22:58:44 | [cellar-raft-engine](https://crates.io/crates/cellar-raft-engine) | 0.1.1 | 0 | Cellar fork of raft-engine with injected storage and fail-closed sync errors |
-| 2026-11-01 23:00:45 | [agdirlabs-email](https://crates.io/crates/agdirlabs-email) | 0.1.0 | 0 | Official Rust SDK for Agdir Email: programmatic SMTP for developers, hosted in… |
-| 2026-11-01 23:03:28 | [untwist](https://crates.io/crates/untwist) | 0.1.0 | 0 | Fast JavaScript deobfuscator, unminifier and unbundler that never runs the code… |
-| 2026-11-01 23:03:32 | [tsv_svelte](https://crates.io/crates/tsv_svelte) | 0.8.0 | 0 | Svelte formatter and parser compatible with Svelte's parse() — part of tsv |
-| 2026-11-01 23:06:20 | [kynora-core](https://crates.io/crates/kynora-core) | 0.8.0 | 0 | Núcleo de Kynora: espacios de trabajo, conocimiento y búsqueda. |
-| 2026-11-01 23:06:24 | [kynora-adapter-sql](https://crates.io/crates/kynora-adapter-sql) | 0.8.0 | 0 | Adaptador SQL pasivo de Kynora: DDL → entidades y relaciones verified. |
-| 2026-11-01 23:06:28 | [kynora-adapter-web](https://crates.io/crates/kynora-adapter-web) | 0.8.0 | 0 | Adaptador web pasivo de Kynora: HTML (tablas) → grafo verified. |
-| 2026-11-01 23:06:31 | [kynora-models](https://crates.io/crates/kynora-models) | 0.8.0 | 0 | Catálogo, caché, descarga y verificación de modelos de Kynora. |
-| 2026-11-01 23:06:35 | [kynora-generate](https://crates.io/crates/kynora-generate) | 0.8.0 | 0 | Motor generativo opcional de Kynora (rasgo, FIM, proveedores). |
-| 2026-11-01 23:06:47 | [cellar-admin](https://crates.io/crates/cellar-admin) | 0.1.1 | 0 | Management API and console for Cellar fleets |
-| 2026-11-01 23:07:22 | [jime](https://crates.io/crates/jime) | 0.1.0 | 0 | JIME: Contextual Japanese Input Method Engine and kana-kanji converter for Linux |
-| 2026-11-01 23:07:22 | [cellar-container](https://crates.io/crates/cellar-container) | 0.1.1 | 0 | Container and sandbox provider adapters for Cellar applications |
-| 2026-11-01 23:10:29 | [cellar-guest](https://crates.io/crates/cellar-guest) | 0.1.1 | 0 | Shared native operation boundary for Cellar language adapters |
-| 2026-11-01 23:12:41 | [shrinker](https://crates.io/crates/shrinker) | 0.1.0 | 0 | Lossless image compression for everyone |
-| 2026-11-01 23:13:21 | [tsv_cli](https://crates.io/crates/tsv_cli) | 0.8.0 | 0 | The tsv command-line tool: format, parse and type-strip TypeScript, JavaScript,… |
-| 2026-11-01 23:13:53 | [untwist-cli](https://crates.io/crates/untwist-cli) | 0.1.0 | 0 | Command-line JavaScript deobfuscator, unminifier and unbundler |
-| 2026-11-01 23:15:26 | [rustpress-web](https://crates.io/crates/rustpress-web) | 0.1.0 | 0 | A lightweight HTTP framework for Rust inspired by Express.js |
-| 2026-11-01 23:16:54 | [kynora-embeddings](https://crates.io/crates/kynora-embeddings) | 0.8.0 | 0 | Proveedor de embeddings y tokenizador compacto de Kynora. |
+| 2026-11-01 23:19:38 | [directory-navigator](https://crates.io/crates/directory-navigator) | 1.1.5 | 0 | Native terminal file manager inspired by DOS Navigator 1.51 |
+| 2026-11-01 23:20:27 | [cellar-javascript](https://crates.io/crates/cellar-javascript) | 0.1.1 | 0 | Optional V8 and Node.js backends for Cellar JavaScript and TypeScript applicati… |
+| 2026-11-01 23:25:04 | [nessie-mtls](https://crates.io/crates/nessie-mtls) | 0.4.2 | 0 | Mutual TLS from agent-mesh keys: node identity, self-signed certificate, author… |
+| 2026-11-01 23:27:10 | [kynora-sdk](https://crates.io/crates/kynora-sdk) | 0.8.0 | 0 | SDK de Kynora: fachada pública sobre el núcleo. |
+| 2026-11-01 23:30:27 | [cellar-python](https://crates.io/crates/cellar-python) | 0.1.1 | 0 | Invocation-scoped embedded CPython adapter for Cellar |
+| 2026-11-01 23:36:02 | [sapphire-bridge-headless](https://crates.io/crates/sapphire-bridge-headless) | 0.24.0 | 0 | Host-wide sapphire daemon: device identity, workgroup authorization and sync ro… |
+| 2026-11-01 23:47:37 | [glory-servo-arc](https://crates.io/crates/glory-servo-arc) | 0.5.0 | 0 | A fork of std::sync::Arc with some extra functionality and without weak referen… |
+| 2026-11-01 23:47:43 | [hon](https://crates.io/crates/hon) | 0.1.0 | 0 | Read manga in your terminal |
+| 2026-11-01 23:47:48 | [glory-stylo-atoms](https://crates.io/crates/glory-stylo-atoms) | 0.22.0 | 0 | Interned string type for the Servo and Stylo projects |
+| 2026-11-01 23:47:58 | [glory-stylo-derive](https://crates.io/crates/glory-stylo-derive) | 0.22.0 | 0 | Derive crate for Stylo CSS engine |
+| 2026-11-01 23:48:06 | [glory-stylo-static-prefs](https://crates.io/crates/glory-stylo-static-prefs) | 0.22.0 | 0 | Configuration for Stylo |
+| 2026-11-01 23:48:09 | [glory-to-shmem-derive](https://crates.io/crates/glory-to-shmem-derive) | 0.2.0 | 0 | Allows deriving the to_shmem trait. |
+| 2026-11-01 23:50:10 | [glory-to-shmem](https://crates.io/crates/glory-to-shmem) | 0.6.0 | 0 | Trait to write to a contiguous chunk of shared memory |
+| 2026-11-01 23:50:30 | [glua_rowan](https://crates.io/crates/glua_rowan) | 1.3.0 | 0 | GLuaLS fork of rowan, a library for generic lossless syntax trees |
+| 2026-11-01 23:51:03 | [glua_codestyle](https://crates.io/crates/glua_codestyle) | 1.3.0 | 0 | GLuaLS fork of emmylua_codestyle, a Lua code formatting lib with EmmyLuaCodeSty… |
+| 2026-11-01 23:54:06 | [triplets-parquet-source](https://crates.io/crates/triplets-parquet-source) | 0.31.0-alpha | 0 | Generic local-parquet row source for the triplets data pipeline framework. Colu… |
+| 2026-11-01 23:57:38 | [itzma-core](https://crates.io/crates/itzma-core) | 0.1.0 | 0 | Vector search on object storage: an embedded library, no server, just your buck… |
+| 2026-11-02 00:00:12 | [glory-selectors](https://crates.io/crates/glory-selectors) | 0.41.0 | 0 | CSS Selectors matching for Rust |
+| 2026-11-02 00:02:25 | [ferrolint-plugin-sdk](https://crates.io/crates/ferrolint-plugin-sdk) | 1.0.0 | 0 | Guest-side SDK for ferrolint WASM plugins |
+| 2026-11-02 00:04:14 | [termblit](https://crates.io/crates/termblit) | 0.1.0 | 0 | Stream RGBA frames to the terminal with Kitty graphics, Sixel or colored charac… |
+| 2026-11-02 00:08:42 | [rightkit-agent-engine-runtime-middleware](https://crates.io/crates/rightkit-agent-engine-runtime-middleware) | 0.1.0 | 0 | Agent engine runtime middleware: request and turn interception hooks |
+| 2026-11-02 00:09:49 | [rightkit-memory](https://crates.io/crates/rightkit-memory) | 0.1.0 | 0 | Agent memory: durable memory store, write screening, adaptive retrieval routing… |
+| 2026-11-02 00:10:04 | [pnc-engine](https://crates.io/crates/pnc-engine) | 0.1.0 | 0 | Core engine for PNC: arbitrary-precision RPN evaluation, units, and persistence |
+| 2026-11-02 00:10:11 | [glory-stylo-malloc-size-of](https://crates.io/crates/glory-stylo-malloc-size-of) | 0.22.0 | 0 | An allocator-agnostic crate for measuring the heap size of a value |
+| 2026-11-02 00:10:14 | [pnc](https://crates.io/crates/pnc) | 0.1.0 | 0 | A fast, fully offline, terminal-only reverse Polish notation (RPN) calculator |
+| 2026-11-02 00:15:43 | [ravenrs-movie](https://crates.io/crates/ravenrs-movie) | 27.1.2 | 0 | Training videos of a RavenRS app: small vector films recorded from a script, ed… |
+| 2026-11-02 00:17:46 | [rightkit-evidence-effects](https://crates.io/crates/rightkit-evidence-effects) | 0.1.0 | 0 | Effect execution with sandboxed child processes and receipts |
+| 2026-11-02 00:18:49 | [swfasm](https://crates.io/crates/swfasm) | 0.1.0 | 0 | A compiler that turns a textual representation into SWF files |
+| 2026-11-02 00:18:52 | [swfasm-cli](https://crates.io/crates/swfasm-cli) | 0.1.0 | 0 | A command line tool that compiles a textual representation into SWF files |
 
 ## Data source
 
