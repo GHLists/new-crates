@@ -8,45 +8,65 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 15:19 UTC
+## Latest list — 2026-11-02 16:18 UTC
 
-New crates published between 2026-11-02 14:19 UTC and 2026-11-02 15:19 UTC.
+New crates published between 2026-11-02 15:19 UTC and 2026-11-02 16:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-02T15-19-53-220234Z.csv)
+[Full CSV](data/new-crates-2026-11-02T16-18-25-360698Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-02 14:21:08 | [scarletbook-pcm](https://crates.io/crates/scarletbook-pcm) | 0.5.7 | 0 | DSD64 to 24-bit PCM conversion, deterministic per Super Audio CD frame |
-| 2026-11-02 14:21:36 | [scarletbook](https://crates.io/crates/scarletbook) | 0.5.7 | 0 | Clean-room reader for Super Audio CD (Scarletbook) disc images |
-| 2026-11-02 14:23:11 | [pdks](https://crates.io/crates/pdks) | 0.21.1 | 0 | The Polydeukes covenant judge: covenant check, init, explain and docs, with pdk… |
-| 2026-11-02 14:23:12 | [pdks-claude-code](https://crates.io/crates/pdks-claude-code) | 0.21.1 | 0 | The Polydeukes host adapter that connects Claude Code to the pdks covenant judg… |
-| 2026-11-02 14:23:13 | [pdks-codex](https://crates.io/crates/pdks-codex) | 0.21.1 | 0 | The Polydeukes host adapter that connects Codex to the pdks covenant judge. |
-| 2026-11-02 14:23:15 | [pdks-memory](https://crates.io/crates/pdks-memory) | 0.21.1 | 0 | The Polydeukes memory extension, run as pdks memory: answers from the markdown… |
-| 2026-11-02 14:28:33 | [browser-web3-signer-btc](https://crates.io/crates/browser-web3-signer-btc) | 0.7.0 | 0 | Bitcoin browser wallet signer: connect / send / sign-PSBT / sign-message via Un… |
-| 2026-11-02 14:31:15 | [snappea-syntax](https://crates.io/crates/snappea-syntax) | 0.2.0 | 0 | Parser and source locations for the P modeling language |
-| 2026-11-02 14:31:17 | [snappea-lint](https://crates.io/crates/snappea-lint) | 0.2.0 | 0 | Model quality lint rules for P/Snappea |
-| 2026-11-02 14:37:21 | [sara-mcp](https://crates.io/crates/sara-mcp) | 0.12.0 | 0 | Model Context Protocol server for Sara - Requirements Knowledge Graph |
-| 2026-11-02 14:38:31 | [ravenrs-wayland-gestures](https://crates.io/crates/ravenrs-wayland-gestures) | 27.1.6 | 0 | Touchpad pinches on Wayland for RavenRS, until winit delivers them. The one pla… |
-| 2026-11-02 14:39:38 | [vala-drift](https://crates.io/crates/vala-drift) | 0.4.1 | 0 | In-memory drift baseline fit and target scoring for PSI, SPC, and Custom method… |
-| 2026-11-02 14:39:41 | [vala-verify](https://crates.io/crates/vala-verify) | 0.4.1 | 0 | The Verifier engine: building-block steps, requirement checks, operator runtime… |
-| 2026-11-02 14:39:44 | [wyrd-ai](https://crates.io/crates/wyrd-ai) | 0.4.1 | 0 | First-class Rust Wyrd SDK: a thin projection of wyrd-client. |
-| 2026-11-02 14:40:20 | [rightkit-system-monitor](https://crates.io/crates/rightkit-system-monitor) | 0.1.0 | 0 | Live system monitoring: CPU, memory pressure, hang-proof disk listing, per-proc… |
-| 2026-11-02 14:57:23 | [insider](https://crates.io/crates/insider) | 0.1.0 | 0 | Realtime TUI hardware inspector that draws your mainboard and everything plugge… |
-| 2026-11-02 15:05:28 | [rightkit-dictation-telemetry](https://crates.io/crates/rightkit-dictation-telemetry) | 0.1.0 | 0 | Dictation telemetry: local utterance timelines, telemetry writer, crash dump ca… |
-| 2026-11-02 15:06:23 | [snp-pycompat](https://crates.io/crates/snp-pycompat) | 2.0.0 | 0 | CPython stdlib semantics (str/bytes splitting, codecs, repr, shlex, os.path, pr… |
-| 2026-11-02 15:06:25 | [snp-core](https://crates.io/crates/snp-core) | 2.0.0 | 0 | snp vocabulary: stages, languages, brand, Env/EnvPatch, CancelToken, Failure en… |
-| 2026-11-02 15:06:26 | [snp-argparse](https://crates.io/crates/snp-argparse) | 2.0.0 | 0 | CPython 3.13 argparse-compatible parser and HelpFormatter driven by static Pars… |
-| 2026-11-02 15:06:27 | [snp-hooks-data](https://crates.io/crates/snp-hooks-data) | 2.0.0 | 0 | Generated pre-commit-hooks data: tag profiles, manifests, blob table, builtin m… |
-| 2026-11-02 15:06:27 | [snp-os](https://crates.io/crates/snp-os) | 2.0.0 | 0 | Durable filesystem primitives, file locks, terminal and colour decisions, home… |
-| 2026-11-02 15:08:39 | [sheeter-engine](https://crates.io/crates/sheeter-engine) | 0.1.1 | 0 | A CLI tool for converting data files between formats. v0.1.0 supports CSV <-> J… |
-| 2026-11-02 15:11:36 | [ilesta](https://crates.io/crates/ilesta) | 1.5.1 | 0 | De novo genome assembly for long reads using an overlap graph |
-| 2026-11-02 15:12:40 | [cufflink-model](https://crates.io/crates/cufflink-model) | 0.1.0 | 0 | Run small trained text classifiers inside Cufflink services, natively or in WASM |
-| 2026-11-02 15:15:31 | [mind4agent-core](https://crates.io/crates/mind4agent-core) | 0.1.0 | 0 | The mind4agent engine: the memory item model, the store contract, and the lexic… |
-| 2026-11-02 15:15:33 | [mind4agent-api](https://crates.io/crates/mind4agent-api) | 0.1.0 | 0 | Wire types and tool schemas for the mind4agent memory search service. |
-| 2026-11-02 15:15:34 | [mind4agent-codesearch](https://crates.io/crates/mind4agent-codesearch) | 0.1.0 | 0 | The code leg of the four-leg memory search: a lexical index over the sources, a… |
-| 2026-11-02 15:15:35 | [mind4agent-ingest](https://crates.io/crates/mind4agent-ingest) | 0.1.0 | 0 | Readers that turn what an agent already wrote — sessions, memory notes, prompts… |
-| 2026-11-02 15:15:36 | [mind4agent-store-sqlite](https://crates.io/crates/mind4agent-store-sqlite) | 0.1.0 | 0 | A mind4agent store backed by plain SQLite (rusqlite, bundled): FTS5 lexical ind… |
-| 2026-11-02 15:17:09 | [snp-cli](https://crates.io/crates/snp-cli) | 2.0.0 | 0 | pre-commit 4.6.2 and snp-brand ParserSpec tables and the typed Cli facade |
+| 2026-11-02 15:20:31 | [clove1db-derive](https://crates.io/crates/clove1db-derive) | 0.1.0 | 0 | Derive macro for clove1db: #[derive(CloveFields)] generates the typed field con… |
+| 2026-11-02 15:20:54 | [uiharu-core](https://crates.io/crates/uiharu-core) | 0.1.0 | 0 | The runtime of the uiharu streaming protocol decode engine |
+| 2026-11-02 15:20:55 | [uiharu-ir](https://crates.io/crates/uiharu-ir) | 0.1.0 | 0 | The versioned decoder intermediate representation of the uiharu decode engine |
+| 2026-11-02 15:20:57 | [uiharu-codegen](https://crates.io/crates/uiharu-codegen) | 0.1.0 | 0 | A Rust code generator for the uiharu decoder intermediate representation |
+| 2026-11-02 15:20:59 | [uiharu-dsl-protocols](https://crates.io/crates/uiharu-dsl-protocols) | 0.1.0 | 0 | Protocol decoders and contracts generated from the uiharu TypeScript DSL |
+| 2026-11-02 15:21:01 | [uiharu-interp](https://crates.io/crates/uiharu-interp) | 0.1.0 | 0 | An interpreter for the uiharu decoder intermediate representation |
+| 2026-11-02 15:23:04 | [rusttoolz](https://crates.io/crates/rusttoolz) | 0.1.0 | 0 | Lars Rocha's sitoolz in Rust: the prime net, the Pocklington ladder, the twin f… |
+| 2026-11-02 15:23:53 | [uiharu-protocols](https://crates.io/crates/uiharu-protocols) | 0.1.0 | 0 | Composable protocol decoders for the uiharu streaming decode engine |
+| 2026-11-02 15:26:01 | [mind4agent-docsearch](https://crates.io/crates/mind4agent-docsearch) | 0.1.0 | 0 | The documentation leg of the four-leg memory search: the team's own doctrine, p… |
+| 2026-11-02 15:27:35 | [snp-net](https://crates.io/crates/snp-net) | 2.0.0 | 0 | Verified HTTPS downloads, safe archive extraction and the toolchain catalogue |
+| 2026-11-02 15:31:46 | [uiharu-registry](https://crates.io/crates/uiharu-registry) | 0.1.0 | 0 | Named protocol decoders, UI metadata and configurable pipelines for uiharu |
+| 2026-11-02 15:34:29 | [zenkit-rs-core](https://crates.io/crates/zenkit-rs-core) | 0.1.0 | 0 | Shared foundations of zenkit-rs: the byte reader, errors, math types and dates |
+| 2026-11-02 15:34:34 | [zenkit-rs-animation](https://crates.io/crates/zenkit-rs-animation) | 0.1.0 | 0 | Reader and writer for ZenGin skeletal animations (.MAN) |
+| 2026-11-02 15:34:38 | [zenkit-rs-archive](https://crates.io/crates/zenkit-rs-archive) | 0.1.0 | 0 | Reader and writer for ZenGin archives, the object format behind worlds, saves a… |
+| 2026-11-02 15:34:44 | [zenkit-rs-cutscene](https://crates.io/crates/zenkit-rs-cutscene) | 0.1.0 | 0 | Reader and writer for ZenGin cutscene libraries (OU.BIN, OU.CSL), the game's li… |
+| 2026-11-02 15:34:47 | [zenkit-rs-font](https://crates.io/crates/zenkit-rs-font) | 0.1.0 | 0 | Reader and writer for ZenGin fonts (.FNT), where each character sits in the fon… |
+| 2026-11-02 15:36:04 | [miresidian_batch](https://crates.io/crates/miresidian_batch) | 0.1.0 | 0 | Miresidian 参数级顺序批量调用的对齐与输出聚合。 |
+| 2026-11-02 15:36:10 | [mind4agent-notesearch](https://crates.io/crates/mind4agent-notesearch) | 0.1.0 | 0 | The notes leg of the four-leg memory search: what an agent wrote for itself, an… |
+| 2026-11-02 15:38:04 | [snp-proc](https://crates.io/crates/snp-proc) | 2.0.0 | 0 | Process spawning, roles, signals, child registry, JobPool, xargs and executable… |
+| 2026-11-02 15:39:31 | [mison](https://crates.io/crates/mison) | 0.1.2 | 0 | Minimal and simple object notation: JSON-like, token-efficient yet human-friend… |
+| 2026-11-02 15:41:39 | [uiharu](https://crates.io/crates/uiharu) | 0.1.0 | 0 | A streaming protocol decode engine with bounded memory, typed decode graphs and… |
+| 2026-11-02 15:44:56 | [zenkit-rs-material](https://crates.io/crates/zenkit-rs-material) | 0.1.0 | 0 | Reader and writer for ZenGin materials (zCMaterial) |
+| 2026-11-02 15:46:16 | [mind4agent-sessionsearch](https://crates.io/crates/mind4agent-sessionsearch) | 0.1.0 | 0 | The sessions leg of the four-leg memory search: the transcripts of the provider… |
+| 2026-11-02 15:46:35 | [fallow](https://crates.io/crates/fallow) | 3.38.1 | 0 | Codebase intelligence for TypeScript and JavaScript. Installs the fallow comman… |
+| 2026-11-02 15:48:37 | [snp-git](https://crates.io/crates/snp-git) | 2.0.0 | 0 | Every git invocation with pre-commit's exact argv, the GitBackend seam and owne… |
+| 2026-11-02 15:48:37 | [snp-lang](https://crates.io/crates/snp-lang) | 2.0.0 | 0 | Language trait, registry, shared helpers, CmdRunner seam and the 21 language ba… |
+| 2026-11-02 15:48:39 | [pite-physics](https://crates.io/crates/pite-physics) | 0.3.0 | 0 | 2D physics simulation, kinematic character controller, and collision queries fo… |
+| 2026-11-02 15:48:47 | [pite-audio](https://crates.io/crates/pite-audio) | 0.3.0 | 0 | Audio decoding and playback engine for Pite: WAV, OGG, MP3, FLAC. |
+| 2026-11-02 15:49:26 | [pite-render](https://crates.io/crates/pite-render) | 0.3.0 | 0 | Renderer2D seam and pure-Rust wgpu 2D sprite/text batch renderer for Pite. |
+| 2026-11-02 15:49:32 | [pite-assets](https://crates.io/crates/pite-assets) | 0.3.0 | 0 | Asset import pipeline and UID manifest registry for Pite game assets. |
+| 2026-11-02 15:51:34 | [uiharu-cli](https://crates.io/crates/uiharu-cli) | 0.1.0 | 0 | A command line for streaming protocol decoding, synthesis and benchmarks |
+| 2026-11-02 15:52:55 | [pite-script](https://crates.io/crates/pite-script) | 0.3.0 | 0 | Embedded Python 3.12 scripting bridge (PyO3) and game API for Pite. |
+| 2026-11-02 15:53:02 | [pite-runtime](https://crates.io/crates/pite-runtime) | 0.3.0 | 0 | Game runtime engine: windowing, main loop, fixed physics tick, and hot reload. |
+| 2026-11-02 15:53:31 | [trailboss](https://crates.io/crates/trailboss) | 0.1.0 | 0 | Run your coding-agent herd: live fleet, resume, session search, usage and cost… |
+| 2026-11-02 15:55:05 | [zenkit-rs-texture](https://crates.io/crates/zenkit-rs-texture) | 0.1.0 | 0 | Reader and writer for ZenGin textures (.TEX), converting every pixel format to… |
+| 2026-11-02 15:55:15 | [surrealdb-diskann](https://crates.io/crates/surrealdb-diskann) | 0.61.0 | 0 | SurrealDB's build of Microsoft's DiskANN graph index, with support for 32-bit w… |
+| 2026-11-02 15:56:11 | [rustorb-typesupport](https://crates.io/crates/rustorb-typesupport) | 0.2.0 | 0 | DDS type support for code generated by rustorb-idl: XCDR1/XCDR2 serialization,… |
+| 2026-11-02 15:56:37 | [mind4agent](https://crates.io/crates/mind4agent) | 0.1.0 | 0 | Search what an agent already knows: its sessions, the memory notes it wrote for… |
+| 2026-11-02 15:56:37 | [annealer](https://crates.io/crates/annealer) | 0.1.0-alpha.1 | 0 | Reorders HTML/Vue attributes by semantic meaning using swappable YAML profiles. |
+| 2026-11-02 15:59:04 | [snp-pyparsers](https://crates.io/crates/snp-pyparsers) | 2.0.0 | 0 | CPython-compatible validators for native hooks: json, YAML, tomllib, expat, dif… |
+| 2026-11-02 15:59:11 | [rightkit-local-gen](https://crates.io/crates/rightkit-local-gen) | 0.1.0 | 0 | Keyless local image generation: managed sd.cpp server runtime, memory modes, mo… |
+| 2026-11-02 15:59:59 | [metkit-sys](https://crates.io/crates/metkit-sys) | 1.22.0 | 0 | C++ bindings to ECMWF metkit library using cxx |
+| 2026-11-02 16:00:01 | [metkit](https://crates.io/crates/metkit) | 1.22.0 | 0 | Safe Rust wrapper for ECMWF's metkit C++ library |
+| 2026-11-02 16:02:20 | [pite-export](https://crates.io/crates/pite-export) | 0.3.0 | 0 | Cross-platform export packager and standalone player bundler for Pite. |
+| 2026-11-02 16:05:19 | [zenkit-rs-mesh](https://crates.io/crates/zenkit-rs-mesh) | 0.1.0 | 0 | Reader and writer for ZenGin static meshes (.MSH), the format of world geometry |
+| 2026-11-02 16:05:19 | [nat3d](https://crates.io/crates/nat3d) | 0.2.2 | 0 | NAT3D umbrella crate: one dependency that brings in the whole NAT3D 3D modeling… |
+| 2026-11-02 16:05:53 | [hahog](https://crates.io/crates/hahog) | 1.0.0 | 0 | Rust Hessian-and-gradient feature extraction with an OpenCV-compatible image API |
+| 2026-11-02 16:09:28 | [snp-pyre](https://crates.io/crates/snp-pyre) | 2.0.0 | 0 | CPython-3.12 `re` front end lowered to regex (tier 1) and fancy-regex (tier 2) |
+| 2026-11-02 16:13:43 | [ccw](https://crates.io/crates/ccw) | 0.3.0 | 0 | Claude Code multi-account launcher with a TUI picker |
+| 2026-11-02 16:13:44 | [systine](https://crates.io/crates/systine) | 0.10.0 | 0 | Get system information in Rust. |
+| 2026-11-02 16:15:28 | [zenkit-rs-mrm](https://crates.io/crates/zenkit-rs-mrm) | 0.1.0 | 0 | Reader and writer for ZenGin multi-resolution meshes (.MRM), the format of prop… |
 
 ## Data source
 

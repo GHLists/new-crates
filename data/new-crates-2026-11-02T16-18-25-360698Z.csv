@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T15:20:31.725462Z,clove1db-derive,0.1.0,0,0,https://github.com/clove7/clove1db,"Derive macro for clove1db: #[derive(CloveFields)] generates the typed field constants used by queries and indexes, and the sealing code for fields marked #[clove(encrypt)]."
+2026-11-02T15:20:54.113246Z,uiharu-core,0.1.0,0,0,https://github.com/HalfSweet/HSync,The runtime of the uiharu streaming protocol decode engine
+2026-11-02T15:20:55.385539Z,uiharu-ir,0.1.0,0,0,https://github.com/HalfSweet/HSync,The versioned decoder intermediate representation of the uiharu decode engine
+2026-11-02T15:20:57.766873Z,uiharu-codegen,0.1.0,0,0,https://github.com/HalfSweet/HSync,A Rust code generator for the uiharu decoder intermediate representation
+2026-11-02T15:20:59.98348Z,uiharu-dsl-protocols,0.1.0,0,0,https://github.com/HalfSweet/HSync,Protocol decoders and contracts generated from the uiharu TypeScript DSL
+2026-11-02T15:21:01.427133Z,uiharu-interp,0.1.0,0,0,https://github.com/HalfSweet/HSync,An interpreter for the uiharu decoder intermediate representation
+2026-11-02T15:23:04.4243Z,rusttoolz,0.1.0,0,0,https://github.com/oppressionslayer/rusttoolz,"Lars Rocha's sitoolz in Rust: the prime net, the Pocklington ladder, the twin forge, and the XOR difference triangle."
+2026-11-02T15:23:53.462224Z,uiharu-protocols,0.1.0,0,0,https://github.com/HalfSweet/HSync,Composable protocol decoders for the uiharu streaming decode engine
+2026-11-02T15:26:01.475538Z,mind4agent-docsearch,0.1.0,0,0,https://github.com/HATCHERY-lab/mind4agent,"The documentation leg of the four-leg memory search: the team's own doctrine, plans, handoffs and research."
+2026-11-02T15:27:35.419063Z,snp-net,2.0.0,0,0,https://github.com/grok-rs/snp,"Verified HTTPS downloads, safe archive extraction and the toolchain catalogue"
+2026-11-02T15:31:46.1116Z,uiharu-registry,0.1.0,0,0,https://github.com/HalfSweet/HSync,"Named protocol decoders, UI metadata and configurable pipelines for uiharu"
+2026-11-02T15:34:29.095034Z,zenkit-rs-core,0.1.0,0,0,https://github.com/Zira3l137/zenkit-rs,"Shared foundations of zenkit-rs: the byte reader, errors, math types and dates"
+2026-11-02T15:34:34.543281Z,zenkit-rs-animation,0.1.0,0,0,https://github.com/Zira3l137/zenkit-rs,Reader and writer for ZenGin skeletal animations (.MAN)
+2026-11-02T15:34:38.974163Z,zenkit-rs-archive,0.1.0,0,0,https://github.com/Zira3l137/zenkit-rs,"Reader and writer for ZenGin archives, the object format behind worlds, saves and materials"
+2026-11-02T15:34:44.261598Z,zenkit-rs-cutscene,0.1.0,0,0,https://github.com/Zira3l137/zenkit-rs,"Reader and writer for ZenGin cutscene libraries (OU.BIN, OU.CSL), the game's lines of dialogue"
+2026-11-02T15:34:47.447682Z,zenkit-rs-font,0.1.0,0,0,https://github.com/Zira3l137/zenkit-rs,"Reader and writer for ZenGin fonts (.FNT), where each character sits in the font's texture"
+2026-11-02T15:36:04.405883Z,miresidian_batch,0.1.0,0,0,https://github.com/MyMires/miresidian,Miresidian 参数级顺序批量调用的对齐与输出聚合。
+2026-11-02T15:36:10.2149Z,mind4agent-notesearch,0.1.0,0,0,https://github.com/HATCHERY-lab/mind4agent,"The notes leg of the four-leg memory search: what an agent wrote for itself, and the prompts it was given."
+2026-11-02T15:38:04.31799Z,snp-proc,2.0.0,0,0,https://github.com/grok-rs/snp,"Process spawning, roles, signals, child registry, JobPool, xargs and executable resolution"
+2026-11-02T15:39:31.752566Z,mison,0.1.2,0,0,https://github.com/takagiy/mison,"Minimal and simple object notation: JSON-like, token-efficient yet human-friendly"
+2026-11-02T15:41:39.654318Z,uiharu,0.1.0,0,0,https://github.com/HalfSweet/HSync,"A streaming protocol decode engine with bounded memory, typed decode graphs and composable decoders"
+2026-11-02T15:44:56.016206Z,zenkit-rs-material,0.1.0,0,0,https://github.com/Zira3l137/zenkit-rs,Reader and writer for ZenGin materials (zCMaterial)
+2026-11-02T15:46:16.815251Z,mind4agent-sessionsearch,0.1.0,0,0,https://github.com/HATCHERY-lab/mind4agent,"The sessions leg of the four-leg memory search: the transcripts of the providers, in the store's full-text index."
+2026-11-02T15:46:35.636006Z,fallow,3.38.1,0,0,https://github.com/fallow-rs/fallow,Codebase intelligence for TypeScript and JavaScript. Installs the fallow command of fallow-cli
+2026-11-02T15:48:37.097802Z,snp-git,2.0.0,0,0,https://github.com/grok-rs/snp,"Every git invocation with pre-commit's exact argv, the GitBackend seam and owned repositories"
+2026-11-02T15:48:37.675361Z,snp-lang,2.0.0,0,0,https://github.com/grok-rs/snp,"Language trait, registry, shared helpers, CmdRunner seam and the 21 language backends"
+2026-11-02T15:48:39.739557Z,pite-physics,0.3.0,0,0,https://github.com/piteengine/pite,"2D physics simulation, kinematic character controller, and collision queries for Pite."
+2026-11-02T15:48:47.393818Z,pite-audio,0.3.0,0,0,https://github.com/piteengine/pite,"Audio decoding and playback engine for Pite: WAV, OGG, MP3, FLAC."
+2026-11-02T15:49:26.468147Z,pite-render,0.3.0,0,0,https://github.com/piteengine/pite,Renderer2D seam and pure-Rust wgpu 2D sprite/text batch renderer for Pite.
+2026-11-02T15:49:32.964484Z,pite-assets,0.3.0,0,0,https://github.com/piteengine/pite,Asset import pipeline and UID manifest registry for Pite game assets.
+2026-11-02T15:51:34.509163Z,uiharu-cli,0.1.0,0,0,https://github.com/HalfSweet/HSync,"A command line for streaming protocol decoding, synthesis and benchmarks"
+2026-11-02T15:52:55.870312Z,pite-script,0.3.0,0,0,https://github.com/piteengine/pite,Embedded Python 3.12 scripting bridge (PyO3) and game API for Pite.
+2026-11-02T15:53:02.587796Z,pite-runtime,0.3.0,0,0,https://github.com/piteengine/pite,"Game runtime engine: windowing, main loop, fixed physics tick, and hot reload."
+2026-11-02T15:53:31.617844Z,trailboss,0.1.0,0,0,https://github.com/manastalukdar/trailboss,"Run your coding-agent herd: live fleet, resume, session search, usage and cost for Claude Code, Codex, opencode and pi"
+2026-11-02T15:55:05.974411Z,zenkit-rs-texture,0.1.0,0,0,https://github.com/Zira3l137/zenkit-rs,"Reader and writer for ZenGin textures (.TEX), converting every pixel format to and from RGBA8"
+2026-11-02T15:55:15.236958Z,surrealdb-diskann,0.61.0,0,0,https://github.com/surrealdb/DiskANN,"SurrealDB's build of Microsoft's DiskANN graph index, with support for 32-bit wasm targets including wasm32-unknown-unknown."
+2026-11-02T15:56:11.736816Z,rustorb-typesupport,0.2.0,0,0,https://github.com/rustorb/rustorb,"DDS type support for code generated by rustorb-idl: XCDR1/XCDR2 serialization, keys and key hashes"
+2026-11-02T15:56:37.096304Z,mind4agent,0.1.0,0,0,https://github.com/HATCHERY-lab/mind4agent,"Search what an agent already knows: its sessions, the memory notes it wrote for itself, and the prompts it was given."
+2026-11-02T15:56:37.158963Z,annealer,0.1.0-alpha.1,0,0,https://github.com/logue/annealer,Reorders HTML/Vue attributes by semantic meaning using swappable YAML profiles.
+2026-11-02T15:59:04.974529Z,snp-pyparsers,2.0.0,0,0,https://github.com/grok-rs/snp,"CPython-compatible validators for native hooks: json, YAML, tomllib, expat, difflib, INI"
+2026-11-02T15:59:11.041583Z,rightkit-local-gen,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Keyless local image generation: managed sd.cpp server runtime, memory modes, model profiles, durable job store and artifacts"
+2026-11-02T15:59:59.529019Z,metkit-sys,1.22.0,0,0,https://github.com/ecmwf/metkit,C++ bindings to ECMWF metkit library using cxx
+2026-11-02T16:00:01.025124Z,metkit,1.22.0,0,0,https://github.com/ecmwf/metkit,Safe Rust wrapper for ECMWF's metkit C++ library
+2026-11-02T16:02:20.643707Z,pite-export,0.3.0,0,0,https://github.com/piteengine/pite,Cross-platform export packager and standalone player bundler for Pite.
+2026-11-02T16:05:19.080119Z,zenkit-rs-mesh,0.1.0,0,0,https://github.com/Zira3l137/zenkit-rs,"Reader and writer for ZenGin static meshes (.MSH), the format of world geometry"
+2026-11-02T16:05:19.841797Z,nat3d,0.2.2,0,0,https://github.com/Yatrogenesis/NAT3D,"NAT3D umbrella crate: one dependency that brings in the whole NAT3D 3D modeling, simulation and rendering stack"
+2026-11-02T16:05:53.579213Z,hahog,1.0.0,0,0,https://github.com/diego-a-orellana/hahog,Rust Hessian-and-gradient feature extraction with an OpenCV-compatible image API
+2026-11-02T16:09:28.32224Z,snp-pyre,2.0.0,0,0,https://github.com/grok-rs/snp,CPython-3.12 `re` front end lowered to regex (tier 1) and fancy-regex (tier 2)
+2026-11-02T16:13:43.806703Z,ccw,0.3.0,0,0,https://github.com/eiei114/ccw,Claude Code multi-account launcher with a TUI picker
+2026-11-02T16:13:44.138042Z,systine,0.10.0,0,0,https://github.com/ClementTsang/systine,Get system information in Rust.
+2026-11-02T16:15:28.39894Z,zenkit-rs-mrm,0.1.0,0,0,https://github.com/Zira3l137/zenkit-rs,"Reader and writer for ZenGin multi-resolution meshes (.MRM), the format of props, items and armour"
