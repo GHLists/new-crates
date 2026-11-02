@@ -1,0 +1,32 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T14:21:08.090339Z,scarletbook-pcm,0.5.7,0,0,https://github.com/aclater/scarletbook-rs,"DSD64 to 24-bit PCM conversion, deterministic per Super Audio CD frame"
+2026-11-02T14:21:36.131021Z,scarletbook,0.5.7,0,0,https://github.com/aclater/scarletbook-rs,Clean-room reader for Super Audio CD (Scarletbook) disc images
+2026-11-02T14:23:11.466257Z,pdks,0.21.1,0,0,https://github.com/huskyhoochu/polydeukes,"The Polydeukes covenant judge: covenant check, init, explain and docs, with pdks-<name> executables on PATH run as pdks <name>."
+2026-11-02T14:23:12.344346Z,pdks-claude-code,0.21.1,0,0,https://github.com/huskyhoochu/polydeukes,The Polydeukes host adapter that connects Claude Code to the pdks covenant judge.
+2026-11-02T14:23:13.406615Z,pdks-codex,0.21.1,0,0,https://github.com/huskyhoochu/polydeukes,The Polydeukes host adapter that connects Codex to the pdks covenant judge.
+2026-11-02T14:23:15.92671Z,pdks-memory,0.21.1,0,0,https://github.com/huskyhoochu/polydeukes,"The Polydeukes memory extension, run as pdks memory: answers from the markdown files on every run and keeps no index file."
+2026-11-02T14:28:33.039346Z,browser-web3-signer-btc,0.7.0,0,0,https://github.com/nikicat/browser-web3-signer,Bitcoin browser wallet signer: connect / send / sign-PSBT / sign-message via Unisat.
+2026-11-02T14:31:15.852236Z,snappea-syntax,0.2.0,0,0,https://github.com/crowecawcaw/snappea,Parser and source locations for the P modeling language
+2026-11-02T14:31:17.647696Z,snappea-lint,0.2.0,0,0,https://github.com/crowecawcaw/snappea,Model quality lint rules for P/Snappea
+2026-11-02T14:37:21.375371Z,sara-mcp,0.12.0,0,0,https://github.com/cledouarec/sara,Model Context Protocol server for Sara - Requirements Knowledge Graph
+2026-11-02T14:38:31.867212Z,ravenrs-wayland-gestures,27.1.6,0,0,https://github.com/alexkads/RavenRS,"Touchpad pinches on Wayland for RavenRS, until winit delivers them. The one place in the workspace with unsafe code."
+2026-11-02T14:39:38.509656Z,vala-drift,0.4.1,0,0,https://github.com/bohmian-ai/wyrd,"In-memory drift baseline fit and target scoring for PSI, SPC, and Custom methods."
+2026-11-02T14:39:41.291288Z,vala-verify,0.4.1,0,0,https://github.com/bohmian-ai/wyrd,"The Verifier engine: building-block steps, requirement checks, operator runtime, and the decide rule over the wyrd-spec verification contract."
+2026-11-02T14:39:44.455502Z,wyrd-ai,0.4.1,0,0,https://github.com/bohmian-ai/wyrd,First-class Rust Wyrd SDK: a thin projection of wyrd-client.
+2026-11-02T14:40:20.268063Z,rightkit-system-monitor,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Live system monitoring: CPU, memory pressure, hang-proof disk listing, per-process footprint/disk I/O/GPU rows, process groups and inspection, network counters, GPU temperature and drive health."
+2026-11-02T14:57:23.834639Z,insider,0.1.0,0,0,,Realtime TUI hardware inspector that draws your mainboard and everything plugged into it
+2026-11-02T15:05:28.380564Z,rightkit-dictation-telemetry,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Dictation telemetry: local utterance timelines, telemetry writer, crash dump capture, feedback and HTTP client for diagnostics, redacted before anything is written."
+2026-11-02T15:06:23.996501Z,snp-pycompat,2.0.0,0,0,https://github.com/grok-rs/snp,"CPython stdlib semantics (str/bytes splitting, codecs, repr, shlex, os.path, pre-commit composites)"
+2026-11-02T15:06:25.578678Z,snp-core,2.0.0,0,0,https://github.com/grok-rs/snp,"snp vocabulary: stages, languages, brand, Env/EnvPatch, CancelToken, Failure envelope, Printer"
+2026-11-02T15:06:26.99434Z,snp-argparse,2.0.0,0,0,https://github.com/grok-rs/snp,CPython 3.13 argparse-compatible parser and HelpFormatter driven by static ParserSpec tables
+2026-11-02T15:06:27.4098Z,snp-hooks-data,2.0.0,0,0,https://github.com/grok-rs/snp,"Generated pre-commit-hooks data: tag profiles, manifests, blob table, builtin manifest"
+2026-11-02T15:06:27.605409Z,snp-os,2.0.0,0,0,https://github.com/grok-rs/snp,"Durable filesystem primitives, file locks, terminal and colour decisions, home and realpath"
+2026-11-02T15:08:39.605813Z,sheeter-engine,0.1.1,0,0,https://github.com/eduardowebdev/sheeter,A CLI tool for converting data files between formats. v0.1.0 supports CSV <-> JSON.
+2026-11-02T15:11:36.388897Z,ilesta,1.5.1,0,0,https://github.com/yvlaere/Ilesta,De novo genome assembly for long reads using an overlap graph
+2026-11-02T15:12:40.893608Z,cufflink-model,0.1.0,0,0,https://github.com/driftwerk/cufflink,"Run small trained text classifiers inside Cufflink services, natively or in WASM"
+2026-11-02T15:15:31.91523Z,mind4agent-core,0.1.0,0,0,https://github.com/HATCHERY-lab/mind4agent,"The mind4agent engine: the memory item model, the store contract, and the lexical retrieval rules."
+2026-11-02T15:15:33.66738Z,mind4agent-api,0.1.0,0,0,https://github.com/HATCHERY-lab/mind4agent,Wire types and tool schemas for the mind4agent memory search service.
+2026-11-02T15:15:34.428509Z,mind4agent-codesearch,0.1.0,0,0,https://github.com/HATCHERY-lab/mind4agent,"The code leg of the four-leg memory search: a lexical index over the sources, and the symbol graph of the code index."
+2026-11-02T15:15:35.336346Z,mind4agent-ingest,0.1.0,0,0,https://github.com/HATCHERY-lab/mind4agent,"Readers that turn what an agent already wrote — sessions, memory notes, prompts — into memory items."
+2026-11-02T15:15:36.007515Z,mind4agent-store-sqlite,0.1.0,0,0,https://github.com/HATCHERY-lab/mind4agent,"A mind4agent store backed by plain SQLite (rusqlite, bundled): FTS5 lexical index, versioned migrations, WAL."
+2026-11-02T15:17:09.518434Z,snp-cli,2.0.0,0,0,https://github.com/grok-rs/snp,pre-commit 4.6.2 and snp-brand ParserSpec tables and the typed Cli facade
