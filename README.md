@@ -8,57 +8,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 21:20 UTC
+## Latest list — 2026-11-02 22:18 UTC
 
-New crates published between 2026-11-02 20:18 UTC and 2026-11-02 21:20 UTC.
+New crates published between 2026-11-02 21:20 UTC and 2026-11-02 22:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-02T21-20-07-832634Z.csv)
+[Full CSV](data/new-crates-2026-11-02T22-18-36-839979Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-02 20:19:00 | [rocky-core](https://crates.io/crates/rocky-core) | 0.1.0-alpha.1 | 0 | Shared Rocky identities, operation envelopes, versions and protocol errors |
-| 2026-11-02 20:19:26 | [rocky-credentials](https://crates.io/crates/rocky-credentials) | 0.1.0-alpha.1 | 0 | Signed manifests, capabilities and revocations, identities, key providers, issu… |
-| 2026-11-02 20:19:34 | [tmux-agent-plane](https://crates.io/crates/tmux-agent-plane) | 0.1.1 | 0 | See and steer every coding agent (Claude Code, Codex) running in your tmux |
-| 2026-11-02 20:20:39 | [rocky-iroh](https://crates.io/crates/rocky-iroh) | 0.1.0-alpha.1 | 0 | Rocky's network port on iroh: handlers for an application's router and a starte… |
-| 2026-11-02 20:21:08 | [rocky-storage](https://crates.io/crates/rocky-storage) | 0.1.0-alpha.1 | 0 | SQLite access, row capture and errors shared by the runtimes |
-| 2026-11-02 20:21:57 | [rocky-coordinator](https://crates.io/crates/rocky-coordinator) | 0.1.0-alpha.1 | 0 | Generic execution fencing, head confirmation and request deduplication |
-| 2026-11-02 20:27:51 | [rusty_shell_obfuscation](https://crates.io/crates/rusty_shell_obfuscation) | 0.1.0 | 0 | Obfuscation helper for RustyShell |
-| 2026-11-02 20:29:25 | [rocky-runtime](https://crates.io/crates/rocky-runtime) | 0.1.0-alpha.1 | 0 | Local transactions, operation storage, replication and observable queries |
-| 2026-11-02 20:31:09 | [cargo-playground](https://crates.io/crates/cargo-playground) | 0.0.0 | 0 | A small crate for learning Cargo publish |
-| 2026-11-02 20:31:11 | [hellow_library](https://crates.io/crates/hellow_library) | 0.0.0 | 0 | A small crate for learning Cargo publish |
-| 2026-11-02 20:31:12 | [hellow_world_binary](https://crates.io/crates/hellow_world_binary) | 0.0.0 | 0 | A small crate for learning Cargo publish |
-| 2026-11-02 20:39:35 | [rocky-secure](https://crates.io/crates/rocky-secure) | 0.1.0-alpha.1 | 0 | Signed capabilities, encrypted replicas and authenticated live links |
-| 2026-11-02 20:42:24 | [hooktop-core](https://crates.io/crates/hooktop-core) | 0.1.1 | 0 | Event model, task graph and statistics behind hooktop, a live view of Claude Co… |
-| 2026-11-02 20:42:26 | [hooktop](https://crates.io/crates/hooktop) | 0.1.1 | 0 | See Claude Code's tool calls, subagents and CPU/RAM use, live in your terminal |
-| 2026-11-02 20:43:36 | [swig](https://crates.io/crates/swig) | 3.0.0 | 0 | Solana program for the Swig protocol |
-| 2026-11-02 20:43:57 | [swig-interface](https://crates.io/crates/swig-interface) | 3.0.0 | 0 | Instruction builders using the Swig Solana program types |
-| 2026-11-02 20:44:01 | [apister_core](https://crates.io/crates/apister_core) | 0.2.0 | 0 | High-performance native storage, CRC32, radix topic trie, and compression accel… |
-| 2026-11-02 20:44:30 | [loopt-sdk](https://crates.io/crates/loopt-sdk) | 0.1.2 | 0 | Rust authoring SDK for GitHub Actions workflows, mirroring sdk/typescript |
-| 2026-11-02 20:44:42 | [zeyn-cli](https://crates.io/crates/zeyn-cli) | 0.0.3 | 0 | Command line tool for Zeyn Framework: new projects, generators, checks and an M… |
-| 2026-11-02 20:44:43 | [zeyn-island](https://crates.io/crates/zeyn-island) | 0.0.3 | 0 | Client side of Zeyn islands: typed action calls and props for Rust components c… |
-| 2026-11-02 20:44:44 | [zeyn-macros](https://crates.io/crates/zeyn-macros) | 0.0.3 | 0 | Procedural macros for Zeyn Framework |
-| 2026-11-02 20:44:48 | [zeyn](https://crates.io/crates/zeyn) | 0.0.3 | 0 | Rust web framework for data heavy applications, written by AI agents and review… |
-| 2026-11-02 20:44:51 | [zeyn-desktop](https://crates.io/crates/zeyn-desktop) | 0.0.3 | 0 | Runs a Zeyn app as a desktop app in the system WebView, served from a guarded l… |
-| 2026-11-02 20:50:20 | [rocky-sdk](https://crates.io/crates/rocky-sdk) | 0.1.0-alpha.1 | 0 | ORM-neutral native SDK lifecycle, generated typed schemas, enrollment and secur… |
-| 2026-11-02 20:52:57 | [synthie-ui](https://crates.io/crates/synthie-ui) | 0.8.0 | 0 | Shared neon/retro look and widgets for the synthie terminal front-ends |
-| 2026-11-02 21:01:38 | [adws](https://crates.io/crates/adws) | 0.1.0 | 0 | A Rust ADWS (Active Directory Web Services) client with ldap3-compatible types,… |
-| 2026-11-02 21:08:07 | [ravenrs-app](https://crates.io/crates/ravenrs-app) | 27.1.7 | 0 | The model of a RavenRS business application: entities, a layered application mo… |
-| 2026-11-02 21:08:38 | [ravenrs-grid-export](https://crates.io/crates/ravenrs-grid-export) | 27.1.7 | 0 | Turns what a RavenRS DataGrid shows into an Excel, PDF or CSV file, through the… |
-| 2026-11-02 21:08:44 | [ravenrs-app-ui](https://crates.io/crates/ravenrs-app-ui) | 27.1.7 | 0 | Screens for a RavenRS business application: lists, forms, commands and the shel… |
-| 2026-11-02 21:10:20 | [creamui-appearance](https://crates.io/crates/creamui-appearance) | 0.3.0 | 0 | Host appearance queries for CreamUI, without a renderer or toolkit dependency |
-| 2026-11-02 21:13:12 | [roomkit-tools-core](https://crates.io/crates/roomkit-tools-core) | 0.1.0-alpha.16 | 0 | Runtime-independent contracts for individually selectable agent tools |
-| 2026-11-02 21:13:14 | [roomkit-tools-agents](https://crates.io/crates/roomkit-tools-agents) | 0.1.0-alpha.16 | 0 | Independent delegation tools with host-injected agent backends |
-| 2026-11-02 21:13:14 | [roomkit-tools-code](https://crates.io/crates/roomkit-tools-code) | 0.1.0-alpha.16 | 0 | Bounded Rust and Python source outlines for agents |
-| 2026-11-02 21:13:15 | [roomkit-tools-docs](https://crates.io/crates/roomkit-tools-docs) | 0.1.0-alpha.16 | 0 | Selectable documentation discovery, search and reading |
-| 2026-11-02 21:13:15 | [roomkit-tools-fs](https://crates.io/crates/roomkit-tools-fs) | 0.1.0-alpha.16 | 0 | Filesystem tools for agents, independent of RoomKit and Python |
-| 2026-11-02 21:14:37 | [openlv-ffi](https://crates.io/crates/openlv-ffi) | 0.0.1 | 0 | a secure peer-to-peer wallet connectivity protocol |
-| 2026-11-02 21:17:06 | [fbx-reader](https://crates.io/crates/fbx-reader) | 0.1.0 | 0 | A reader for FBX 7.x files, binary and ASCII, in safe Rust: meshes, materials,… |
-| 2026-11-02 21:17:44 | [typed_hexdump_core](https://crates.io/crates/typed_hexdump_core) | 0.1.0 | 0 | Core types and binary decoders for typed-hexdump |
-| 2026-11-02 21:17:55 | [iqrcode-core](https://crates.io/crates/iqrcode-core) | 0.1.0 | 0 | Core QR Code encoder: encoding, Reed-Solomon, matrix and trace. |
-| 2026-11-02 21:18:01 | [iqrcode](https://crates.io/crates/iqrcode) | 0.1.0 | 0 | QR Code generator with CLI and optional PNG output. |
-| 2026-11-02 21:18:04 | [iqrcode-learn](https://crates.io/crates/iqrcode-learn) | 0.1.0 | 0 | Language-neutral terminal animation for QR Code construction. |
-| 2026-11-02 21:18:08 | [iqrcode-wasm](https://crates.io/crates/iqrcode-wasm) | 0.1.0 | 0 | Minimal WebAssembly wrapper for QR Code generation. |
-| 2026-11-02 21:18:11 | [iqrcode-learn-wasm](https://crates.io/crates/iqrcode-learn-wasm) | 0.1.0 | 0 | WebAssembly bindings for the QR Code educational trace. |
+| 2026-11-02 21:21:15 | [roomkit-tools-http](https://crates.io/crates/roomkit-tools-http) | 0.1.0-alpha.16 | 0 | Shared checked HTTP building blocks for agent tools |
+| 2026-11-02 21:22:13 | [ai-gent-compact](https://crates.io/crates/ai-gent-compact) | 0.1.0 | 0 | Token-lean source code reader of ai-gent: compact views and outlines (placehold… |
+| 2026-11-02 21:23:09 | [typed_hexdump_derive](https://crates.io/crates/typed_hexdump_derive) | 0.1.0 | 0 | Derive macro for typed-hexdump |
+| 2026-11-02 21:23:31 | [typed-hexdump](https://crates.io/crates/typed-hexdump) | 0.1.0 | 0 | A structured, schema-aware hex dump library |
+| 2026-11-02 21:28:10 | [stalsync](https://crates.io/crates/stalsync) | 0.1.0 | 0 | Sincronización N-way de discos locales: sin maestro, conflictos por mtime, pape… |
+| 2026-11-02 21:32:59 | [lsp_service](https://crates.io/crates/lsp_service) | 0.0.36 | 0 | A language-agnostic JSON-RPC Language Server Protocol transport, dispatcher, an… |
+| 2026-11-02 21:36:20 | [olai-stack-state](https://crates.io/crates/olai-stack-state) | 0.0.2 | 0 | The shared trestle state store: workspaces, environments, immutable revisions,… |
+| 2026-11-02 21:39:07 | [bevy_siren](https://crates.io/crates/bevy_siren) | 0.1.0 | 0 | Sound for Bevy games: a cue table as data, buses that duck, a voice budget, lay… |
+| 2026-11-02 21:45:53 | [idol-rs](https://crates.io/crates/idol-rs) | 0.1.0 | 0 | Idol: a single image to a 3D Gaussian splat, in Rust (candle on CUDA or Metal) |
+| 2026-11-02 21:48:15 | [pushizo](https://crates.io/crates/pushizo) | 0.1.0 | 0 | Official Rust server SDK for the Pushizo API: push, email, SMS and in-app messa… |
+| 2026-11-02 21:48:44 | [strpack](https://crates.io/crates/strpack) | 0.1.0 | 0 | A tiny, fast, dependency-free binary encoding for strings and counts |
+| 2026-11-02 21:51:38 | [dts6012m](https://crates.io/crates/dts6012m) | 0.1.0 | 0 | Hardware-independent no_std UART driver for the DTS6012M distance sensor |
+| 2026-11-02 21:54:56 | [playnice](https://crates.io/crates/playnice) | 0.1.0 | 0 | Declarative KDL browser specs with Playwright vocabulary, run over chromiumoxide |
+| 2026-11-02 21:55:11 | [mediamaster-rag](https://crates.io/crates/mediamaster-rag) | 0.1.0 | 0 | Acoustic profiles, codec matrix & sensor-context knowledge store for mediamaste… |
+| 2026-11-02 21:55:27 | [mediamaster-engine](https://crates.io/crates/mediamaster-engine) | 0.3.0 | 0 | Engine coordinator: AudioBus (lock-free PCM ring) + TranscodePlan (capability-d… |
+| 2026-11-02 21:56:11 | [tex2speech-mathcat](https://crates.io/crates/tex2speech-mathcat) | 0.0.1 | 0 | MathCAT (MathML to speech) with English rules edited for tex2speech. |
+| 2026-11-02 21:56:14 | [tex2speech](https://crates.io/crates/tex2speech) | 0.0.1 | 0 | Turn LaTeX and Markdown documents into text a speech model can read aloud. |
+| 2026-11-02 21:58:59 | [openapi-axum-macros](https://crates.io/crates/openapi-axum-macros) | 0.1.0 | 0 | Proc macros for openapi-axum. Use the openapi-axum crate. |
+| 2026-11-02 21:59:11 | [openapi-axum](https://crates.io/crates/openapi-axum) | 0.1.0 | 0 | OpenAPI for axum, derived from your handler signatures and enforced at runtime |
+| 2026-11-02 22:04:53 | [ourc-bootstrap](https://crates.io/crates/ourc-bootstrap) | 0.1.1 | 0 | Builds the compiler tower and ourc from the hand-written hex seed, checking eve… |
+| 2026-11-02 22:04:56 | [ourc](https://crates.io/crates/ourc) | 0.1.1 | 0 | A Rust compiler written in Rust that compiles itself, grown from 269 bytes of h… |
+| 2026-11-02 22:07:36 | [deckwright](https://crates.io/crates/deckwright) | 0.1.1 | 0 | Author and inspect editable PowerPoint presentations |
+| 2026-11-02 22:07:43 | [dw-cli](https://crates.io/crates/dw-cli) | 0.1.1 | 0 | Command-line tools for inspecting and checking PowerPoint presentations |
+| 2026-11-02 22:07:45 | [dw-mcp](https://crates.io/crates/dw-mcp) | 0.1.1 | 0 | MCP stdio server for inspecting and checking PowerPoint presentations |
+| 2026-11-02 22:11:49 | [traverse-registry-sync](https://crates.io/crates/traverse-registry-sync) | 0.16.0 | 0 | Shared public-registry index sync for the Traverse CLI and MCP host. |
+| 2026-11-02 22:14:49 | [olai-stack-runtime](https://crates.io/crates/olai-stack-runtime) | 0.0.1 | 0 | Run trestle environments on Docker Compose: a ComposeEngine over the Docker CLI… |
 
 ## Data source
 
