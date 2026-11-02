@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T19:20:46.480325Z,cortexkit-role-compaction,0.1.0,0,0,https://github.com/cortexkit/commons,Wire contract for compaction-provider/v2 and compaction-runner/v1
+2026-11-02T19:24:46.107411Z,oxipoint,0.0.1-beta6,0,0,https://github.com/14096/oxipoint,"A fluent, type-safe Rust SDK for SharePoint REST and Microsoft Graph"
+2026-11-02T19:24:49.624386Z,anomapay-spl-token-forwarder-client,0.11.1,0,0,https://github.com/anoma/anomapay-spl-token-forwarder,"Client bindings for the AnomaPay SPL token forwarder: instruction builders, CPI segments, wire formats, events"
+2026-11-02T19:30:30.825Z,ic-query-text,0.86.0,0,0,https://github.com/dragginzgame/ic-query,Human-facing text presentation of typed IC Query reports
+2026-11-02T19:33:11.859612Z,nytt,0.0.1,0,0,https://codeberg.org/nfnitloop/nytt,"Collect/View/Share/Save news, blogs, etc."
+2026-11-02T19:33:48.018951Z,orthogonal,0.1.0,0,0,,"Classical orthogonal polynomials, associated Legendre functions and Gaussian quadrature"
+2026-11-02T19:42:26.735514Z,shep-sandbox,0.1.0,0,0,https://github.com/shep-pm/shep-sandbox,Run a shep sheep inside a crabpot sandbox
+2026-11-02T19:44:51.421013Z,early_access_oxc_lexer_macros,0.0.1,0,0,https://github.com/oxc-project/oxc,"Proc macros for early_access_oxc_lexer. Unofficial snapshot of oxc_lexer_macros from oxc-project/oxc, not an official Oxc release."
+2026-11-02T19:44:54.549083Z,early_access_oxc_lexer,0.0.1,0,0,https://github.com/oxc-project/oxc,Unofficial point-in-time snapshot of oxc_lexer from oxc-project/oxc (commit bab0206079) with runtime CPU feature detection. Not an official Oxc release.
+2026-11-02T19:48:32.774808Z,forma-app,0.4.0,0,0,https://git.pschulz.at/gntx/forma,"The app API of forma: App, Frame, Context and the services' types, for the runners that run an app (forma-winit, forma-android)."
+2026-11-02T19:49:06.159096Z,forma-android,0.4.0,0,0,https://git.pschulz.at/gntx/forma,"Runs forma apps on Android, through android-activity and GameActivity. Experimental."
+2026-11-02T19:51:58.986473Z,origincloud-compute,0.2.0,0,0,https://github.com/origincloudhq/sdk-rust,"The Origin Cloud compute API: instances, images, key pairs, volume attachments and the instance catalog."
+2026-11-02T19:52:07.067573Z,origincloud-network,0.2.0,0,0,https://github.com/origincloudhq/sdk-rust,"The Origin Cloud network API: VPCs, subnets, routing, gateways, floating IPs, network interfaces, security groups, ACLs and DNS policies."
+2026-11-02T19:52:11.599201Z,origincloud-resourcemanager,0.2.0,0,0,https://github.com/origincloudhq/sdk-rust,"The Origin Cloud resourcemanager API: organizations, projects and their quotas."
+2026-11-02T19:53:43.09744Z,x0k-serialization,0.1.0,0,0,https://github.com/0k-dot-computer/x0k-timeline,Zero-overhead serialization abstraction layer for x0k protocol versioning
+2026-11-02T19:53:43.437741Z,x0k-timeline-store,0.1.0,0,0,https://github.com/0k-dot-computer/x0k-timeline,"The timeline's store: content-addressed Parquet files, queried with DataFusion"
+2026-11-02T19:53:44.410028Z,x0k-ipc-transport,0.1.0,0,0,https://github.com/0k-dot-computer/x0k-timeline,How a client on one machine reaches a service: a Unix socket or Windows named pipe the service owns
+2026-11-02T19:53:44.813776Z,x0k-timeline-record,0.1.0,0,0,https://github.com/0k-dot-computer/x0k-timeline,"The types the timeline's emitter, writer and reader share: the record, spans, ingest and trace overrides."
+2026-11-02T19:53:46.717859Z,x0k-timeline-sink,0.1.0,0,0,https://github.com/0k-dot-computer/x0k-timeline,"The timeline's write path: the flush task, the shared write-ahead log and segment intake"
+2026-11-02T19:55:45.141625Z,inherent-associated-types_proc-macro-definitions,0.1.0-RC.1,0,0,https://github.com/Tamschi/inherent-associated-types,Macro definitions for inherent-associated-types.
+2026-11-02T19:56:29.952125Z,x0k-timeline-emit,0.2.0,0,0,https://github.com/0k-dot-computer/x0k-timeline,"Write to x0k-timeline from a Rust process: a tracing layer, with a crash-durable segment for when the service is down"
+2026-11-02T19:57:38.793547Z,inherent-associated-types,0.1.0-RC.1,0,0,https://github.com/Tamschi/inherent-associated-types,"Clean, ergonomic (emulated) inherent associated types in stable Rust."
+2026-11-02T19:59:11.590703Z,sigilcode,0.1.0+81af550bfd3eb2aff85c3ddf0a21446e78a1809d,0,0,https://github.com/johnservil/sigil,"Bytes of a known length as a sigil: one word of letters, 25 for a 256-bit hash, selected whole by a double-click, no two letters alike, in linear and constant time, with a check that picks the right…"
+2026-11-02T20:00:09.873509Z,jouet-secrets,0.0.2,0,0,https://github.com/jdx/jouet,"Secret scanning with gitleaks' rules, behind jouet secrets scan and jouet commit"
+2026-11-02T20:02:50.833128Z,rusty_shell_obfuscation_proc_macro,0.1.0,0,0,https://github.com/LostAquilae/RustyShell,"Internal crate for rusty_shell_obfuscation, containing only procedural macros"
+2026-11-02T20:03:49.118809Z,reviero,0.1.0,0,0,https://github.com/maslenn1koff/reviero,Portable SIMD operations with runtime CPU dispatch
+2026-11-02T20:08:30.655763Z,x0k-timeline,0.2.0,0,0,https://github.com/0k-dot-computer/x0k-timeline,"One timeline for every process on a machine: OpenTelemetry in, SQL and MCP out"
+2026-11-02T20:10:13.120919Z,rok-tools,0.1.0,0,0,https://github.com/ateeq1999/rok-tools,"Feature-gated developer tools (search, edit, scan, refactor, loc, ...) as plain Rust functions"
+2026-11-02T20:11:51.825193Z,rok-tools-cli,0.1.0,0,0,https://github.com/ateeq1999/rok-tools,"The rok-tools command line: every rok-tools Tool as a subcommand, plus the Payload Runner"
+2026-11-02T20:14:57.552919Z,plumcraft-array,0.1.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft array engine: the research software's general array nodes on the CPU, ported from yapocis's numba kernels with npexact for numpy's own numerics"
+2026-11-02T20:15:02.29706Z,plumcraft-ui,0.1.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft L4: the egui editor shell (menus and shortcuts from the command registry, node canvas over egui-snarl, widgets, palette, run states, the Watched panel); lifted from the research software's…"
+2026-11-02T20:15:03.232717Z,stitch-substrate,0.4.1,0,0,https://github.com/patchwork-quilt/stitch,"A tiny, language-portable substrate primitive for accountable agent state."
+2026-11-02T20:15:05.889055Z,plumcraft-editor,0.1.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft's node editor: open a workflow, edit it on a node canvas and run it on an engine (in-process, a separate process or over HTTP)"
+2026-11-02T20:17:25.142633Z,autotel,0.1.0,0,0,https://github.com/jagreehal/autotel-rust,"Write Once, Observe Everywhere: ergonomic OpenTelemetry for Rust"

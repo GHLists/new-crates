@@ -8,36 +8,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 19:19 UTC
+## Latest list — 2026-11-02 20:18 UTC
 
-New crates published between 2026-11-02 18:18 UTC and 2026-11-02 19:19 UTC.
+New crates published between 2026-11-02 19:19 UTC and 2026-11-02 20:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-02T19-19-52-918911Z.csv)
+[Full CSV](data/new-crates-2026-11-02T20-18-59-934286Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-02 18:21:57 | [significant](https://crates.io/crates/significant) | 0.1.0 | 0 | Sign and verify media files in place, with no sidecar files, using C2PA |
-| 2026-11-02 18:27:16 | [plumcraft-text](https://crates.io/crates/plumcraft-text) | 0.1.0 | 0 | PlumCraft example engine: text nodes, the thin engine the interface is proven o… |
-| 2026-11-02 18:29:59 | [guide-rs](https://crates.io/crates/guide-rs) | 0.2.1 | 0 | Native Rust research implementation of GUIDE-style statistical trees |
-| 2026-11-02 18:30:20 | [rightkit-dictation-app-runtime](https://crates.io/crates/rightkit-dictation-app-runtime) | 0.1.0 | 0 | Dictation app runtime: the shell-side engine supervisor (spawn, launch frame, h… |
-| 2026-11-02 18:37:24 | [plumcraft](https://crates.io/crates/plumcraft) | 0.1.0 | 0 | PlumCraft command line: run a workflow on an engine and watch the interface live |
-| 2026-11-02 18:45:46 | [swig-shank-render](https://crates.io/crates/swig-shank-render) | 0.4.2 | 0 | Renders implementaions derived from shank macros |
-| 2026-11-02 18:45:54 | [swig-shank-macro](https://crates.io/crates/swig-shank-macro) | 0.4.2 | 0 | Provides macros used to annotate Solana Rust programs in order to extract an ID… |
-| 2026-11-02 18:47:29 | [plumcraft-automation](https://crates.io/crates/plumcraft-automation) | 0.1.0 | 0 | PlumCraft L4: the editor's --control JSON channel (loopback transport with toke… |
-| 2026-11-02 18:48:51 | [jetson_jpeg](https://crates.io/crates/jetson_jpeg) | 0.1.0 | 0 | Hardware JPEG encoding on NVIDIA Jetson through L4T's libnvjpeg and the NVJPG e… |
-| 2026-11-02 18:49:15 | [postcard-serializable-types](https://crates.io/crates/postcard-serializable-types) | 0.1.0 | 0 | Trait definitions for postcard serialization validation |
-| 2026-11-02 18:49:17 | [postcard-serializable](https://crates.io/crates/postcard-serializable) | 0.1.0 | 0 | Proc macro for compile-time postcard serialization validation |
-| 2026-11-02 18:50:59 | [rcinel-translate](https://crates.io/crates/rcinel-translate) | 0.1.0 | 0 | Loads a translation set for a language and translates with translate("UUIDv7",… |
-| 2026-11-02 18:54:06 | [procage-proxy](https://crates.io/crates/procage-proxy) | 0.3.0 | 0 | An egress proxy with a domain allowlist (HTTP CONNECT, SOCKS5) for sandboxed pr… |
-| 2026-11-02 18:57:14 | [stochology](https://crates.io/crates/stochology) | 1.0.0 | 0 | Stochology: The Science and Ethics of Aim under Uncertainty — sequential Agent-… |
-| 2026-11-02 18:57:16 | [stochology-cli](https://crates.io/crates/stochology-cli) | 1.0.0 | 0 | Command-line runner and real-dataset laboratories for Stochology |
-| 2026-11-02 18:57:39 | [plumcraft-coordinator](https://crates.io/crates/plumcraft-coordinator) | 0.1.0 | 0 | PlumCraft L2: the coordinator, one engine made of several (docs/research/15-mul… |
-| 2026-11-02 19:05:22 | [vision-embedded-tf](https://crates.io/crates/vision-embedded-tf) | 0.1.0 | 0 | Traitement d'images minimal pour microcontrôleurs avec FPU. #![no_std], sans al… |
-| 2026-11-02 19:05:44 | [history-provider-sources](https://crates.io/crates/history-provider-sources) | 0.56.0 | 0 | Optional provider-native session sources for ai-hist: Claude web, Codex cloud,… |
-| 2026-11-02 19:07:48 | [plumcraft-craft](https://crates.io/crates/plumcraft-craft) | 0.1.0 | 0 | PlumCraft engine: the generic craft MCP adapter (plan 10.6, milestone M); an ar… |
-| 2026-11-02 19:09:32 | [tg-export-parser](https://crates.io/crates/tg-export-parser) | 0.1.1 | 0 | Simple library for parsing a Telegram export file (result.json) |
-| 2026-11-02 19:16:50 | [kondor-cli](https://crates.io/crates/kondor-cli) | 0.1.0 | 0 | Find and clear build leftovers (node_modules, target, caches) across all your p… |
-| 2026-11-02 19:17:58 | [plumcraft-view](https://crates.io/crates/plumcraft-view) | 0.1.0 | 0 | PlumCraft: a minimal native window that runs a workflow on an engine and shows… |
+| 2026-11-02 19:20:46 | [cortexkit-role-compaction](https://crates.io/crates/cortexkit-role-compaction) | 0.1.0 | 0 | Wire contract for compaction-provider/v2 and compaction-runner/v1 |
+| 2026-11-02 19:24:46 | [oxipoint](https://crates.io/crates/oxipoint) | 0.0.1-beta6 | 0 | A fluent, type-safe Rust SDK for SharePoint REST and Microsoft Graph |
+| 2026-11-02 19:24:49 | [anomapay-spl-token-forwarder-client](https://crates.io/crates/anomapay-spl-token-forwarder-client) | 0.11.1 | 0 | Client bindings for the AnomaPay SPL token forwarder: instruction builders, CPI… |
+| 2026-11-02 19:30:30 | [ic-query-text](https://crates.io/crates/ic-query-text) | 0.86.0 | 0 | Human-facing text presentation of typed IC Query reports |
+| 2026-11-02 19:33:11 | [nytt](https://crates.io/crates/nytt) | 0.0.1 | 0 | Collect/View/Share/Save news, blogs, etc. |
+| 2026-11-02 19:33:48 | [orthogonal](https://crates.io/crates/orthogonal) | 0.1.0 | 0 | Classical orthogonal polynomials, associated Legendre functions and Gaussian qu… |
+| 2026-11-02 19:42:26 | [shep-sandbox](https://crates.io/crates/shep-sandbox) | 0.1.0 | 0 | Run a shep sheep inside a crabpot sandbox |
+| 2026-11-02 19:44:51 | [early_access_oxc_lexer_macros](https://crates.io/crates/early_access_oxc_lexer_macros) | 0.0.1 | 0 | Proc macros for early_access_oxc_lexer. Unofficial snapshot of oxc_lexer_macros… |
+| 2026-11-02 19:44:54 | [early_access_oxc_lexer](https://crates.io/crates/early_access_oxc_lexer) | 0.0.1 | 0 | Unofficial point-in-time snapshot of oxc_lexer from oxc-project/oxc (commit bab… |
+| 2026-11-02 19:48:32 | [forma-app](https://crates.io/crates/forma-app) | 0.4.0 | 0 | The app API of forma: App, Frame, Context and the services' types, for the runn… |
+| 2026-11-02 19:49:06 | [forma-android](https://crates.io/crates/forma-android) | 0.4.0 | 0 | Runs forma apps on Android, through android-activity and GameActivity. Experime… |
+| 2026-11-02 19:51:58 | [origincloud-compute](https://crates.io/crates/origincloud-compute) | 0.2.0 | 0 | The Origin Cloud compute API: instances, images, key pairs, volume attachments… |
+| 2026-11-02 19:52:07 | [origincloud-network](https://crates.io/crates/origincloud-network) | 0.2.0 | 0 | The Origin Cloud network API: VPCs, subnets, routing, gateways, floating IPs, n… |
+| 2026-11-02 19:52:11 | [origincloud-resourcemanager](https://crates.io/crates/origincloud-resourcemanager) | 0.2.0 | 0 | The Origin Cloud resourcemanager API: organizations, projects and their quotas. |
+| 2026-11-02 19:53:43 | [x0k-serialization](https://crates.io/crates/x0k-serialization) | 0.1.0 | 0 | Zero-overhead serialization abstraction layer for x0k protocol versioning |
+| 2026-11-02 19:53:43 | [x0k-timeline-store](https://crates.io/crates/x0k-timeline-store) | 0.1.0 | 0 | The timeline's store: content-addressed Parquet files, queried with DataFusion |
+| 2026-11-02 19:53:44 | [x0k-ipc-transport](https://crates.io/crates/x0k-ipc-transport) | 0.1.0 | 0 | How a client on one machine reaches a service: a Unix socket or Windows named p… |
+| 2026-11-02 19:53:44 | [x0k-timeline-record](https://crates.io/crates/x0k-timeline-record) | 0.1.0 | 0 | The types the timeline's emitter, writer and reader share: the record, spans, i… |
+| 2026-11-02 19:53:46 | [x0k-timeline-sink](https://crates.io/crates/x0k-timeline-sink) | 0.1.0 | 0 | The timeline's write path: the flush task, the shared write-ahead log and segme… |
+| 2026-11-02 19:55:45 | [inherent-associated-types_proc-macro-definitions](https://crates.io/crates/inherent-associated-types_proc-macro-definitions) | 0.1.0-RC.1 | 0 | Macro definitions for inherent-associated-types. |
+| 2026-11-02 19:56:29 | [x0k-timeline-emit](https://crates.io/crates/x0k-timeline-emit) | 0.2.0 | 0 | Write to x0k-timeline from a Rust process: a tracing layer, with a crash-durabl… |
+| 2026-11-02 19:57:38 | [inherent-associated-types](https://crates.io/crates/inherent-associated-types) | 0.1.0-RC.1 | 0 | Clean, ergonomic (emulated) inherent associated types in stable Rust. |
+| 2026-11-02 19:59:11 | [sigilcode](https://crates.io/crates/sigilcode) | 0.1.0+81af550bfd3eb… | 0 | Bytes of a known length as a sigil: one word of letters, 25 for a 256-bit hash,… |
+| 2026-11-02 20:00:09 | [jouet-secrets](https://crates.io/crates/jouet-secrets) | 0.0.2 | 0 | Secret scanning with gitleaks' rules, behind jouet secrets scan and jouet commit |
+| 2026-11-02 20:02:50 | [rusty_shell_obfuscation_proc_macro](https://crates.io/crates/rusty_shell_obfuscation_proc_macro) | 0.1.0 | 0 | Internal crate for rusty_shell_obfuscation, containing only procedural macros |
+| 2026-11-02 20:03:49 | [reviero](https://crates.io/crates/reviero) | 0.1.0 | 0 | Portable SIMD operations with runtime CPU dispatch |
+| 2026-11-02 20:08:30 | [x0k-timeline](https://crates.io/crates/x0k-timeline) | 0.2.0 | 0 | One timeline for every process on a machine: OpenTelemetry in, SQL and MCP out |
+| 2026-11-02 20:10:13 | [rok-tools](https://crates.io/crates/rok-tools) | 0.1.0 | 0 | Feature-gated developer tools (search, edit, scan, refactor, loc, ...) as plain… |
+| 2026-11-02 20:11:51 | [rok-tools-cli](https://crates.io/crates/rok-tools-cli) | 0.1.0 | 0 | The rok-tools command line: every rok-tools Tool as a subcommand, plus the Payl… |
+| 2026-11-02 20:14:57 | [plumcraft-array](https://crates.io/crates/plumcraft-array) | 0.1.0 | 0 | PlumCraft array engine: the research software's general array nodes on the CPU,… |
+| 2026-11-02 20:15:02 | [plumcraft-ui](https://crates.io/crates/plumcraft-ui) | 0.1.0 | 0 | PlumCraft L4: the egui editor shell (menus and shortcuts from the command regis… |
+| 2026-11-02 20:15:03 | [stitch-substrate](https://crates.io/crates/stitch-substrate) | 0.4.1 | 0 | A tiny, language-portable substrate primitive for accountable agent state. |
+| 2026-11-02 20:15:05 | [plumcraft-editor](https://crates.io/crates/plumcraft-editor) | 0.1.0 | 0 | PlumCraft's node editor: open a workflow, edit it on a node canvas and run it o… |
+| 2026-11-02 20:17:25 | [autotel](https://crates.io/crates/autotel) | 0.1.0 | 0 | Write Once, Observe Everywhere: ergonomic OpenTelemetry for Rust |
 
 ## Data source
 
