@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T05:21:56.813319Z,pocket-sim,0.1.0,0,0,https://github.com/pocket-nexus/pocketjs,"Bounded prediction, reconciliation and snapshot sampling for fixed-step simulations"
+2026-11-02T05:21:58.28436Z,pocket-spec,0.1.0,0,0,https://github.com/pocket-nexus/pocketjs,"Generated PocketJS operation codes, data formats, and input constants"
+2026-11-02T05:21:59.796896Z,pocket-tex-cache,0.1.0,0,0,https://github.com/pocket-nexus/pocketjs,Versioned driver texture storage with submission-scoped retirement
+2026-11-02T05:22:03.472549Z,pocket-drivers,0.1.0,0,0,https://github.com/pocket-nexus/pocketjs,Device contracts and borrowed rendering resources for PocketJS
+2026-11-02T05:22:04.938031Z,pocket-media,0.1.0,0,0,https://github.com/pocket-nexus/pocketjs,"Stream containers, media transport messages, and asset codecs for PocketJS"
+2026-11-02T05:23:42.006328Z,rightkit-bot-messaging,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Bot messaging bridge: remote chat channels (Telegram, Slack, Discord style) relaying agent sessions with policy-checked commands"
+2026-11-02T05:31:50.284162Z,pocket-draw-ops,0.1.0,0,0,https://github.com/pocket-nexus/pocketjs,Borrowed DrawList decoding and clipping for PocketJS renderers
+2026-11-02T05:40:28.906227Z,nordisk-heimdall-profiles,0.3.0,0,0,https://gunnar.rs/nordisk/heimdall,"Heimdall is a defensive sandbox: the generated, checked-in seccomp profiles (profiles/<workload>/<arch>-<libc>.rs and their OCI seccomp JSON), compiled into the runners that enforce them."
+2026-11-02T05:40:36.518241Z,nordisk-heimdall-broker,0.3.0,0,0,https://gunnar.rs/nordisk/heimdall,"Heimdall is a defensive sandbox: heimdall-broker is the syscall broker (layer 2), a seccomp USER_NOTIF supervisor that checks a worker's openat/socket/connect/bind/execve against the job policy, open…"
+2026-11-02T05:40:50.688786Z,nordisk-heimdall-trace,0.3.0,0,0,https://gunnar.rs/nordisk/heimdall,"Heimdall is a defensive sandbox: the dynamic-trace job (a package's install or import run with no network under a seccomp USER_NOTIF observer; a signed, canonical trace of exec, connect/bind, file ac…"
+2026-11-02T05:40:55.693017Z,nordisk-heimdall-scan,0.3.0,0,0,https://gunnar.rs/nordisk/heimdall,"Heimdall is a defensive sandbox: the static-scanner guest contract (scan input envelope, purl, findings document, in-toto statement)"
+2026-11-02T05:41:44.428883Z,pocket-glyph-pages,0.1.0,0,0,https://github.com/pocket-nexus/pocketjs,"Borrowed font coverage expansion, bounded pages, and A8 masks for PocketJS"
+2026-11-02T05:51:46.742942Z,pocket-package,0.1.0,0,0,https://github.com/pocket-nexus/pocketjs,"PocketJS package admission, asset pack readers, and package identity hashing"
+2026-11-02T05:57:35.735478Z,sister-h3,0.1.0-rc.1,0,0,https://github.com/sister-software/h3,"An independent Rust implementation of the H3 hexagonal hierarchical geospatial index, ported from the H3 C library."
+2026-11-02T05:59:32.962089Z,atalanta,0.0.1,0,0,https://github.com/atalantahq/atalanta,Fast mobile UI tests from one binary (pre-release; see https://atalanta.sh)
+2026-11-02T06:01:28.145372Z,jupiter-yolo-sdk,0.4.0,0,0,https://github.com/ChiefWoods/jupiter-sdk,Jupiter Yolo SDK
+2026-11-02T06:01:50.771991Z,pocket-raster,0.1.0,0,0,https://github.com/pocket-nexus/pocketjs,Deterministic DrawList software rasterization for PocketJS
+2026-11-02T06:02:18.056287Z,tickertape,0.4.0,0,0,https://github.com/thomas0903/tickertape,"A local, append-only event journal on memory-mapped segment files, with live cross-process readers and replay"
+2026-11-02T06:02:27.066675Z,tickertape-cli,0.4.0,0,0,https://github.com/thomas0903/tickertape,"Tools to tail, inspect, verify, export, summarize and archive tickertape journals"
+2026-11-02T06:03:34.770028Z,rightkit-owner-approvals,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Signed owner approvals for privileged and reserved actions: owner-check and approver keys, key bindings, secret redaction and the security audit trail."
+2026-11-02T06:06:00.911895Z,rightkit-chat-bridge,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Chat between AI chats: envelopes, linked computers and the device link, native delivery into running Claude and Codex chats (hooks, desktop), receipts, the chat skill and hook installer. The host app…"
+2026-11-02T06:08:14.597085Z,rightkit-research,0.1.1,0,0,https://github.com/bogusyogi/rightkit,"Research pipeline: sources, claims and evidence with provenance"
+2026-11-02T06:11:45.373303Z,pocket-present,0.1.0,0,0,https://github.com/pocket-nexus/pocketjs,"Damage tracking, composition and presentation transactions for PocketJS"
