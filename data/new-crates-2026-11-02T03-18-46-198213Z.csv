@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T02:22:25.202416Z,fathom-cli,1.0.0,0,0,,"fathom binary: serve (MCP stdio/HTTP), card, doctor, one-shot tool calls"
+2026-11-02T02:26:02.561743Z,viscosity-wasm,0.0.1,0,0,https://github.com/tariqshams/viscosity,"Viscosity compiled to WebAssembly: compile(source) -> { code, explain }, for JavaScript and Python."
+2026-11-02T02:27:31.675093Z,orrery-ext-sdk,0.2.1,0,0,https://github.com/kouji-dev/orrery,"Serve an orrery-ext-api extension as its own process: a one-line main, the broker as an RPC client (decision 0066)."
+2026-11-02T02:29:17.209854Z,accesskit_ohos_pre,0.0.2,0,0,https://github.com/AccessKit/accesskit,AccessKit UI accessibility infrastructure: OpenHarmony adapter
+2026-11-02T02:30:58.776991Z,abstractavatar,0.1.0,0,0,https://github.com/lpalbou/AbstractAvatar,Platform-independent procedural activity avatars with optional native/WebAssembly ABI
+2026-11-02T02:34:28.934418Z,pipetrain,0.1.0,0,0,https://github.com/lucasbp/pipetrain,"Plans the merge order of pull requests across repos, read-only"
+2026-11-02T02:36:45.832013Z,baracuda-tensorrt-builder,0.1.0-alpha.80,0,0,https://github.com/ciresnave/baracuda,"Safe Rust API for the NVIDIA TensorRT builder: network definition, builder config, serialized engines."
+2026-11-02T02:37:44.382012Z,praevis-thetadata-auth,0.1.0-alpha.1,0,0,https://github.com/Praevis-Quant/praevis-thetadata,"Independent Rust client for ThetaData HTTPS authentication: in-memory sessions, with optional (native-store feature) Windows/Linux session persistence. Not affiliated with Theta Data Inc."
+2026-11-02T02:37:59.876177Z,orrery-oauth,0.2.1,0,0,https://github.com/kouji-dev/orrery,"OAuth 2 authorization code with PKCE for Orrery provider extensions: loopback callback, pasted-URL fallback, token exchange and refresh."
+2026-11-02T02:38:07.704958Z,praevis-thetadata-core,0.1.0-alpha.1,0,0,https://github.com/Praevis-Quant/praevis-thetadata,"Transport-independent exact prices, timestamps, values, tables and numeric batches for the independent praevis-thetadata clients"
+2026-11-02T02:38:50.727159Z,praevis-thetadata-proto,0.1.0-alpha.1,0,0,https://github.com/Praevis-Quant/praevis-thetadata,"Generated protobuf types and gRPC bindings recovered from the ThetaData Python distribution (independent, unofficial)"
+2026-11-02T02:39:33.389957Z,praevis-thetadata-client,0.1.0-alpha.1,0,0,https://github.com/Praevis-Quant/praevis-thetadata,"Experimental independent Rust gRPC client for ThetaData market data: raw RPC bindings and a typed, bounded stock EOD stream"
+2026-11-02T02:39:42.849401Z,praevis-thetadata-cli,0.1.0-alpha.1,0,0,https://github.com/Praevis-Quant/praevis-thetadata,"Independent, unofficial ThetaData authentication CLI with native Windows/Linux session storage"
+2026-11-02T02:48:04.982671Z,orrery-wit,0.2.1,0,0,https://github.com/kouji-dev/orrery,"The WIT world as data plus the generated host bindings, including the flat-arena surface encoding."
+2026-11-02T02:48:07.696469Z,veilid-core-optimized,0.5.8,0,0,https://gitlab.com/veilid/veilid,"Internal crate for veilid-core, do not use directly. Monomorphic entry points for the hot dependencies of veilid-core, compiled at full optimization in every build profile"
+2026-11-02T02:51:11.728798Z,passforme-core,0.1.0,0,0,https://github.com/passforme/passforme,"Vault format, cryptography and password generator; no network, no disk"
+2026-11-02T02:51:14.744592Z,passforme,0.1.0,0,0,https://github.com/passforme/passforme,Password manager client: the only place where the vault is decrypted
+2026-11-02T02:51:15.211169Z,passforme-server,0.1.0,0,0,https://github.com/passforme/passforme,Sync server: stores ciphertext only and holds no decryption key
+2026-11-02T02:51:23.726318Z,pdf-agent,0.1.0,0,0,https://github.com/DarmaCahya/unified-crate,"A pure-Rust, memory-guarded PDF facade for AI agents: structured Markdown extraction, visual rasterization, and HTML-to-PDF generation."
+2026-11-02T02:51:58.166728Z,questkit-fec,0.1.0,0,0,https://github.com/Josh-Archer/questkit,Reed-Solomon and XOR forward-error correction for lossy packet transports
+2026-11-02T02:54:24.713081Z,framework-bus,26.11.0,0,0,https://github.com/lingting-projects/lingting-rust-framework,lingting framework
+2026-11-02T02:59:34.925323Z,fframes-3d,1.4.0,0,0,,"3D scenes for fframes: a three.js style scene graph, glTF and STL models, a CPU rasterizer and a wgpu renderer"
+2026-11-02T03:06:48.488698Z,lingting-gpui-bus,26.11.1,0,0,https://github.com/lingting/lingting-gpui-kit,lingting network control
+2026-11-02T03:07:14.316104Z,gosavetool,1.0.0,0,0,https://github.com/mitolocya/gosavetool-rs,"Parse, convert, shift and repair SRT and WebVTT subtitles; word count, social media character limits, Title Case and slugs. No dependencies, with a CLI."
+2026-11-02T03:08:41.769545Z,sc-config,0.1.1,0,0,https://github.com/randlee/sc-runtime,Synchronous JSON configuration loader with environment overrides.
+2026-11-02T03:09:57.673787Z,sc-transport,0.1.1,0,0,https://github.com/randlee/sc-runtime,Endpoint resolution and local HTTP for a daemon and its CLI.
+2026-11-02T03:11:10.758009Z,sc-command,0.1.1,0,0,https://github.com/randlee/sc-runtime,Lossless JSON CLI/API response envelope and REST/MCP conversions.
+2026-11-02T03:12:47.321178Z,sc-runtime,0.1.1,0,0,https://github.com/randlee/sc-runtime,"Daemon assembly: singleton lock, one router, and graceful shutdown."
+2026-11-02T03:14:07.962777Z,sc-cron,0.1.1,0,0,https://github.com/randlee/sc-runtime,"SQLite-backed cron scheduler with generation fencing, jitter and missed-tick replay."
