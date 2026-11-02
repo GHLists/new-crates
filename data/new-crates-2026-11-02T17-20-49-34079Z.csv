@@ -1,0 +1,53 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T16:19:57.010118Z,snp-files,2.0.0,0,0,https://github.com/grok-rs/snp,"File table with tiered lazy identify tags, classifier and hook filters"
+2026-11-02T16:23:43.16468Z,merl,0.1.0,0,0,,Memory Enhancements for Rust Language - A verification tool for Rust
+2026-11-02T16:25:35.01305Z,soroban-fuzzer,0.1.0,0,0,https://github.com/soroban-dev-labs/Soroban-Fuzzer,"Stateful, property-based fuzzing harness for Soroban smart contracts in the test environment"
+2026-11-02T16:25:39.501701Z,zenkit-rs-model,0.1.0,0,0,https://github.com/Zira3l137/zenkit-rs,"Reader and writer for ZenGin skeletons (.MDH), skinned meshes (.MDM) and models (.MDL)"
+2026-11-02T16:30:16.204121Z,snp-hooks,2.0.0,0,0,https://github.com/grok-rs/snp,"Native hooks: framework, pygrep, fail, hazmat, builtin variants and pre-commit-hooks ports"
+2026-11-02T16:31:28.363055Z,spire-sqlx,0.10.0,0,0,https://github.com/spire-rs/spire,SQLx-backed crawl storage for the Spire web scraping framework
+2026-11-02T16:35:49.418126Z,zenkit-rs-model-script,0.1.0,0,0,https://github.com/Zira3l137/zenkit-rs,"Reader and writer for ZenGin model scripts, both source (.MDS) and compiled (.MSB)"
+2026-11-02T16:37:30.530324Z,pite-editor,0.3.0,0,0,https://github.com/piteengine/pite,"Visual game editor for Pite (egui/eframe): viewport, tree, inspector, and LSP code pane."
+2026-11-02T16:37:37.616764Z,furymodel,0.2.0-alpha.1,0,0,https://github.com/infurer/furymodel,FuryModel: a model file format laid out for streaming layers and experts from disk
+2026-11-02T16:37:39.93215Z,furymodel-cli,0.2.0-alpha.1,0,0,https://github.com/infurer/furymodel,"Describe, verify, extend, split and compare FuryModel models"
+2026-11-02T16:38:18.216271Z,pite-player,0.3.0,0,0,https://github.com/piteengine/pite,Lean standalone runner binary for exported Pite games (no editor).
+2026-11-02T16:38:50.777708Z,semaphore-stellar-verifier,0.0.1,0,0,https://github.com/edenbd1/semaphore-stellar,Groth16/BN254 verifier for Semaphore v4 proofs on Soroban/Stellar (reuses Ethereum's ceremony)
+2026-11-02T16:39:05.549975Z,semaphore-stellar,0.0.1,0,0,https://github.com/edenbd1/semaphore-stellar,A faithful Semaphore v4 port to Soroban/Stellar: anonymous membership + nullifier + signal (BN254)
+2026-11-02T16:40:33.217315Z,snp-stash,2.0.0,0,0,https://github.com/grok-rs/snp,Staged-files stash guard (data-safety core) and the DiffOracle
+2026-11-02T16:45:36.070153Z,gamma-scout-gui,0.6.0,0,0,,Read a Gamma-Scout over its (virtual) COM port and show the log in a zoomable graph (egui)
+2026-11-02T16:46:00.466935Z,zenkit-rs-morph,0.1.0,0,0,https://github.com/Zira3l137/zenkit-rs,"Reader and writer for ZenGin morph meshes (.MMB), animated by moving vertices"
+2026-11-02T16:46:47.752949Z,bitweave-core,0.1.0,0,0,https://github.com/Zunetra/bitweave,"Engine-agnostic types, traits and errors shared by the bitweave crates"
+2026-11-02T16:46:50.828591Z,bitweave-bdk,0.1.0,0,0,https://github.com/Zunetra/bitweave,bitweave wallet engine built on bdk_wallet
+2026-11-02T16:46:52.273824Z,bitweave-rpc,0.1.0,0,0,https://github.com/Zunetra/bitweave,"Bitcoin Core RPC chain backend for bitweave: blocks, broadcast and fee estimates"
+2026-11-02T16:46:56.454655Z,bitweave,0.1.0,0,0,https://github.com/Zunetra/bitweave,"Modular, non-custodial Bitcoin toolkit with pluggable wallet engines and chain backends"
+2026-11-02T16:47:00.482529Z,bitweave-cli,0.1.0,0,0,https://github.com/Zunetra/bitweave,The bitweave command-line wallet and terminal UI
+2026-11-02T16:50:50.37437Z,snp-store,2.0.0,0,0,https://github.com/grok-rs/snp,"snp's own cache store: location, layout, keys, markers, locks, config tracking, sweep/clean"
+2026-11-02T16:56:16.246977Z,zenkit-rs-world,0.1.0,0,0,https://github.com/Zira3l137/zenkit-rs,"Reader and writer for ZenGin worlds (.ZEN): the world mesh, BSP tree, way-net and every VOB"
+2026-11-02T16:56:24.827199Z,olai-auth,0.0.1,0,0,https://github.com/open-lakehouse/trestle,Bearer-token authentication for axum services: EdDSA JWT verification and a Principal extractor
+2026-11-02T16:59:19.503098Z,culm,0.1.0,0,0,https://github.com/Zunetra/culm,"Workspace tooling for polyglot repositories: scaffold a workspace from composable layers, then run its tasks with a content-addressed cache."
+2026-11-02T17:01:08.813134Z,snp-yaml,2.0.0,0,0,https://github.com/grok-rs/snp,PyYAML SafeLoader/SafeDumper compatibility over an in-tree libyaml port (ADR-002)
+2026-11-02T17:04:34.518662Z,stucco-blob,0.6.0,0,0,https://github.com/mcaveniathor/stucco,Private blob storage for stucco applications: filesystem and S3-compatible backends behind one interface.
+2026-11-02T17:04:34.958621Z,stucco-image,0.6.0,0,0,https://github.com/mcaveniathor/stucco,"Opt-in, explicitly bounded static PNG/JPEG validation for server-owned uploads"
+2026-11-02T17:04:58.674187Z,optfix-wasm,0.3.0,0,0,https://github.com/joaquinbejar/optfix,"WebAssembly bindings for optfix: exact Q64.64 option pricing in JavaScript, bit-identical to the Rust crate"
+2026-11-02T17:06:30.24592Z,zenkit-rs-save,0.1.0,0,0,https://github.com/Zira3l137/zenkit-rs,"Reader and writer for ZenGin save games: metadata, script state, thumbnail and the worlds visited"
+2026-11-02T17:06:41.29877Z,stance,0.0.1,0,0,https://github.com/divotmaker/stance,"USB camera capture with a pre-roll buffer and trigger-cut MJPEG clips, for golf swing replay"
+2026-11-02T17:08:12.551605Z,rightkit-dictation-models,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Dictation model store: speech model catalog, shared model leases and paths, downloads with grants and verification, on top of rightkit-models."
+2026-11-02T17:09:14.29598Z,otel-arrow-dfe-filelog-checkpoint,0.63.0,0,0,https://github.com/open-telemetry/otel-arrow,"Version-1 codec, replay, and Linux storage for OTAP filelog checkpoints"
+2026-11-02T17:09:15.888436Z,ironav-core,0.1.0,0,0,https://github.com/nervosys/IronAV,"Core types for IronAV: errors, rationals, media descriptions and the traits that codecs, containers and filters implement."
+2026-11-02T17:09:23.008343Z,rightkit-app-manager,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Installed-app management: inventory, icons, usage, updates, safe uninstall with leftovers to the Trash, and app quit/force-quit with system and self protection."
+2026-11-02T17:09:30.510615Z,ironav-codec,0.1.0,0,0,https://github.com/nervosys/IronAV,"Software codecs and filters for IronAV, with the registries that describe what is implemented."
+2026-11-02T17:09:46.301604Z,ironav-analyze,0.1.0,0,0,https://github.com/nervosys/IronAV,Media understanding for IronAV: analyzers that turn packets and decoded frames into typed observations and digests.
+2026-11-02T17:09:52.182169Z,ironav-formats,0.1.0,0,0,https://github.com/nervosys/IronAV,"Container demuxers and muxers for IronAV, and the format registry."
+2026-11-02T17:09:58.930296Z,ironav-hwaccel,0.1.0,0,0,https://github.com/nervosys/IronAV,"Cross-platform hardware acceleration model for IronAV: backend matrix, driver detection and policy-based selection."
+2026-11-02T17:11:29.954096Z,snp-config,2.0.0,0,0,https://github.com/grok-rs/snp,"pre-commit config and manifest schemas on cfgv, typed model, merge, extensions, overlay"
+2026-11-02T17:14:23.78544Z,invoist,1.0.1,0,0,https://github.com/invoisthq/invoist-rust,"Official Rust client for the Invoist API: extract invoices, read a household's bills, verify webhooks."
+2026-11-02T17:15:32.163529Z,fynd-nexus,0.118.6,0,0,https://github.com/propeller-heads/fynd,"Holds the venue connections that Fynd pods would otherwise each open, and serves the latest prices to them"
+2026-11-02T17:15:55.225215Z,peisar_ast,0.1.0,0,0,https://github.com/suseejs/peisar_ast,Markdown into a structured AST
+2026-11-02T17:16:00.349724Z,mediamaster-bus,0.3.0,0,0,https://github.com/Zakarialabib/mediamaster-rs,Concrete tokio event bus for the mediamaster-rs ecosystem (implements core's EventPublisher)
+2026-11-02T17:16:26.671118Z,mediamaster-probe,0.3.0,0,0,,"Pure-Rust container & bitstream inspector (MP4, MKV, WebM) — zero C FFI, zero ffmpeg"
+2026-11-02T17:16:40.320867Z,zenkit-rs-vfs,0.1.0,0,0,https://github.com/Zira3l137/zenkit-rs,"The ZenGin's virtual file system: VDF archives and host directories mounted into one tree, and VDF writing"
+2026-11-02T17:16:43.988534Z,mediamaster-codec,0.3.0,0,0,https://github.com/Zakarialabib/mediamaster-rs,"Capability-aware codec slotting: CapsMatrix consumption, HW slot budgets, and DegradationTier fallback"
+2026-11-02T17:18:55.380875Z,day-webdav,0.0.1,0,0,https://github.com/daybrite/day-webdav,"Part of Day, which builds native apps from one Rust codebase. This placeholder holds the name until the first release."
+2026-11-02T17:19:02.069093Z,turbo-dom-v8,150.4.0,0,0,https://github.com/miaskiewicz/turbo-dom,turbo-dom fork of rusty_v8 (v8 150.4.0) with the interceptor ShouldThrowOnError and isolate weak-teardown fixes: Rust bindings to V8
+2026-11-02T17:19:13.34404Z,mediamaster-agent,0.3.0,0,0,https://github.com/Zakarialabib/mediamaster-rs,"Autonomous reconciliation loop uniting audio ducking, sensor context fusion, and RF signal presence"
+2026-11-02T17:19:34.91438Z,turbo-dom-layout,0.6.0,0,0,https://github.com/miaskiewicz/turbo-dom,"Native HTML/CSS style cascade, layout (block/inline/flex/grid/table) and font engine for turbo-dom: HTML -> positioned Fragment galley + layout snapshots"
+2026-11-02T17:19:59.624407Z,turbo-dom-raster,0.6.0,0,0,https://github.com/miaskiewicz/turbo-dom,"turbo-dom synthetic screenshot tier: HTML snapshot → turbo-dom-layout → PNG/SVG, no browser"
