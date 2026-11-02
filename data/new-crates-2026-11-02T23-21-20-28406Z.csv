@@ -1,0 +1,17 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T22:26:39.137021Z,ops-traits-macros,0.1.0,0,0,https://github.com/erdavila/ops-traits-macros,Macros to simplify expressing std::ops trait bounds and types.
+2026-11-02T22:27:11.463552Z,git_dir,0.1.1,0,0,https://github.com/IrvingWash/git_dir.git,Repo directory downloader
+2026-11-02T22:30:28.084623Z,hanzo-weights,0.1.0,0,0,https://github.com/hanzoai/ml,"Low-level weight surgery primitives: zero-copy safetensors mmap, spectral SVD, rank-k updates, subspace projection, and parameter diffs."
+2026-11-02T22:30:39.553479Z,hanzo-edit,0.1.0,0,0,https://github.com/hanzoai/ml,"Architecture-aware neural circuit editing: attention head repetition suppression, option norm equalization, ROME, and LLM circuit summaries."
+2026-11-02T22:31:18.526393Z,hanzo-mod,0.1.0,0,0,https://github.com/hanzoai/ml,"Weight-Space Programming CLI: inspect, plan, apply, diff, and verify surgical neural network weight edits."
+2026-11-02T22:38:24.625443Z,burnscars,0.1.0,0,0,https://github.com/earth-mover/burnscars,"Sparse rasterization of polygons, lines and points with exact coverage fractions; a Rust port of controlledburn"
+2026-11-02T22:44:00.529057Z,pallet-staking-async-points-converter,0.0.0,0,0,,Reserved by Parity while we work on an official release
+2026-11-02T22:44:33.130463Z,fuzzball,1.0.0,0,0,https://github.com/WeirdBrains/fuzzball,"Encoder and decoder for the Fuzzball terminal protocol (DCS Fz graphics, keyboard, shell and plugin messages)"
+2026-11-02T22:45:40.400584Z,jpeg2000-decoder,0.1.0,0,0,https://github.com/microsoft/jpeg2000_rs,Memory-safe JPEG 2000 decoding with Verus verification
+2026-11-02T22:47:08.113948Z,wgpui-http-client,0.1.0,0,0,https://github.com/Muktidaya/wgpui,"HTTP interfaces, asynchronous bodies and download helpers for WGPUI."
+2026-11-02T22:48:51.990427Z,termstate-core,0.0.2,0,0,https://github.com/linyiru/termstate,"no_std, allocation-free parser, encoder and stream scanner for OSC 7501 (Program Status Protocol)"
+2026-11-02T22:48:53.726681Z,termstate-store,0.0.2,0,0,https://github.com/linyiru/termstate,"Terminal-side record store for OSC 7501 (Program Status Protocol): replacement, clearing, app inheritance, lifetime and eviction rules"
+2026-11-02T22:48:55.362695Z,termstate,0.0.2,0,0,https://github.com/linyiru/termstate,"OSC 7501 (Program Status Protocol) for Rust: report program status to the terminal, or parse and keep it on the terminal side"
+2026-11-02T22:54:46.024181Z,huffman_zandronum,0.1.0,0,0,https://github.com/AndreXi/huffman_zandronum,Huffman codec compatible with the Zandronum net protocol
+2026-11-02T22:57:49.22308Z,termstate-cli,0.0.2,0,0,https://github.com/linyiru/termstate,"termstate: report, detect, decode and strip OSC 7501 (Program Status Protocol) from the shell"
+2026-11-02T22:59:47.060682Z,wgpui-fps,0.8.1,0,0,https://github.com/Muktidaya/wgpui,"Realtime FPS, frame time, CPU, GPU and memory HUD for WGPUI applications."
