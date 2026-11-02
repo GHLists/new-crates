@@ -1,0 +1,47 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T17:20:50.554505Z,turbo-dom-browser-env,0.6.0,0,0,https://github.com/miaskiewicz/turbo-dom,"Browser environment over turbo-dom: the native rtdom <-> V8 DOM binding (window, document, CSSOM, forms, events) used by turbo-test and turbo-surf."
+2026-11-02T17:21:06.623099Z,npexact,0.1.0,0,0,https://github.com/seantrue/yapocis-rs,"Bit-exact ports of the numpy host numerics that yapocis and Virtual Impressionist depend on: the PCG64 generator, reductions, sorts, quantiles, numpy's SIMD transcendentals"
+2026-11-02T17:21:14.459617Z,ironav-live,0.1.0,0,0,https://github.com/nervosys/IronAV,"Live input for IronAV: byte sources (growing files, pipes, TCP, UDP, RTSP) read as they arrive."
+2026-11-02T17:21:49.219249Z,snp-cmd,2.0.0,0,0,https://github.com/grok-rs/snp,"Non-run commands: install, uninstall, autoupdate, gc, clean, validate, doctor, self, cache"
+2026-11-02T17:24:03.002033Z,lavender-render,0.1.0,0,0,https://github.com/ymvk/lavender,"Markdown to themed HTML with syntax highlighting, the core of the lavender viewer"
+2026-11-02T17:24:04.872625Z,lavender,0.1.0,0,0,https://github.com/ymvk/lavender,A fast markdown viewer and editor with selectable themes
+2026-11-02T17:24:11.99971Z,apt-lists,0.1.0,0,0,https://github.com/ak1ra-lab/apt-lists,"Read-only, repository-aware companion to apt list"
+2026-11-02T17:26:42.98655Z,jbig2-decoder,0.1.0,0,0,https://github.com/microsoft/jbig2_rs,Memory-safe JBIG2 decoder under development
+2026-11-02T17:26:58.092392Z,zenkit-rs,0.1.0,0,0,https://github.com/Zira3l137/zenkit-rs,"Pure Rust reader and writer for ZenGin (Gothic, Gothic II) asset formats, ported from ZenKit"
+2026-11-02T17:27:07.796944Z,pite,0.3.0,0,0,https://github.com/piteengine/pite,The Pite 2D scene-tree game engine CLI and visual editor.
+2026-11-02T17:27:22.838656Z,adaptive-admission-core,0.1.0,0,0,https://github.com/jfrz38/adaptive-admission-controller,Portable deterministic admission-control state machine
+2026-11-02T17:27:49.008023Z,merman-model,0.10.0-alpha.1,0,0,https://github.com/Latias94/merman,Canonical Mermaid data and shared controlled execution contracts.
+2026-11-02T17:28:00.182308Z,merman-theme-contract,0.10.0-alpha.1,0,0,https://github.com/Latias94/merman,Versioned authoring and canonical JSON contracts for Merman themes.
+2026-11-02T17:28:06.145635Z,merman-markup,0.10.0-alpha.1,0,0,https://github.com/Latias94/merman,"Shared Mermaid HTML safety, URL normalization, CSS structure, and color operations."
+2026-11-02T17:28:33.934938Z,syncular-authority,0.49.2,0,0,https://github.com/syncular/syncular,Syncular local authority (SPEC.md §12): the server profile a native client runs in-process before it attaches a remote server
+2026-11-02T17:32:01.393457Z,snp-migrate,2.0.0,0,0,https://github.com/grok-rs/snp,`snp migrate lefthook|builtin|upstream` converters
+2026-11-02T17:32:25.867394Z,ironav-ontology,0.1.0,0,0,https://github.com/nervosys/IronAV,"Typed knowledge graph for IronAV describing its codecs, containers, filters, hardware backends and operations."
+2026-11-02T17:32:35.064758Z,ironav-player,0.1.0,0,0,https://github.com/nervosys/IronAV,"Audio and video playback engine for IronAV: pipelined decoding, an audio-driven clock, and a JSON command interface."
+2026-11-02T17:32:48.258041Z,plumcraft-proto,0.1.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft L0: the UI <-> engine interface, protocol 2 (docs/interface.md): handles, data references, sessions, the catalogue, runs, events, displays and errors"
+2026-11-02T17:32:50.720393Z,plumcraft-store,0.1.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft L1: blobs in the commonkit store (key layout, .npy write and read), the same-host proof, and resolving DataRefs"
+2026-11-02T17:32:52.766898Z,plumcraft-svg,0.1.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft's SVG core type: parse (bounded, no external files) and rasterise with resvg, text drawn with the system's fonts; shared by the editor's SVG view and the engine SDK's thumbnails"
+2026-11-02T17:32:55.187495Z,plumcraft-engine,0.1.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft L1: the minimal engine SDK (Node, Cx), the graph executor, and the in-process host (mode 1)"
+2026-11-02T17:32:57.387971Z,plumcraft-scratch,0.1.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft scratch directories: one temp root per process, and the sweep that removes those (and hosts' socket directories) left by processes that have exited"
+2026-11-02T17:33:42.940811Z,solar-evmir-interpreter,0.3.0,0,0,https://github.com/paradigmxyz/solar,Runs the Solar compiler's EVM IR as the EVM runs the bytecode it assembles to
+2026-11-02T17:33:43.270125Z,solar-mir-interpreter,0.3.0,0,0,https://github.com/paradigmxyz/solar,Runs the Solar compiler's lowered MIR as the EVM runs the bytecode it compiles to
+2026-11-02T17:35:01.08702Z,plumcraft-host,0.1.0,0,0,https://github.com/seantrue/plumcraft,PlumCraft L2: the UI side of every binding behind one Connection trait: in-process (mode 1) and a supervised separate process on a Unix socket (mode 2)
+2026-11-02T17:42:14.567471Z,snp-repo,2.0.0,0,0,https://github.com/grok-rs/snp,"Hook resolution, clones, fast-path decisions and environment install orchestration"
+2026-11-02T17:46:56.085428Z,plumcraft-conform,0.1.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft's generic conformance cases (spec 19): what any engine must do on any binding, over a Connection, with graphs built from its catalogue"
+2026-11-02T17:50:46.856873Z,agenterm,0.0.1,0,0,,A toolbox for coding agents on their own machine. This early version reserves the name while the first release is built.
+2026-11-02T17:51:19.62224Z,emu198x-pointer,0.46.2,0,0,https://github.com/emu198x/emu198x,Turning a host cursor into guest mouse counts: relative motion and the closed loop that keeps a guest's pointer under the cursor
+2026-11-02T17:51:23.279659Z,emu198x-win-menu,0.46.2,0,0,https://github.com/emu198x/emu198x,Attaches the shared native menu bar to a window on Windows
+2026-11-02T17:51:32.35864Z,ironav-engine,0.1.0,0,0,https://github.com/nervosys/IronAV,"Engine for IronAV: job specs, planning, threaded execution and the agent tool registry."
+2026-11-02T17:51:32.65699Z,emu198x-app-icon,0.46.2,0,0,https://github.com/emu198x/emu198x,"Emu198x application icon artwork, and the build-script helper that embeds it in each Windows emulator binary"
+2026-11-02T17:51:50.083321Z,emu198x-shell,0.44.2,0,0,https://github.com/emu198x/emu198x,"Cross-system shared control surface, machine registry types, and host I/O contracts"
+2026-11-02T17:52:27.650483Z,snp-run,2.0.0,0,0,https://github.com/grok-rs/snp,"Run pipeline, scheduler, renderer, hook-impl, try-repo, install-hooks, list and meta hooks"
+2026-11-02T17:52:29.47944Z,emu198x-native-video,0.46.2,0,0,https://github.com/emu198x/emu198x,Shared native GPU video presentation for Emu198x frontends
+2026-11-02T17:57:00.243827Z,plumcraft-graph,0.1.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft L1: the graph model (nodes, widget values, positions, typed wires, checks, workflow JSON), lifted from the research software's research-graph"
+2026-11-02T18:03:25.953513Z,ic-metrics-storage,0.66.0,0,0,https://github.com/dragginzgame/ic-storage,Optional single-map stable storage for IC Metrics
+2026-11-02T18:03:27.866947Z,ironav-gui,0.1.0,0,0,https://github.com/nervosys/IronAV,"Native desktop GUI for IronAV (egui/eframe) with a source summary, settings tabs and a job queue."
+2026-11-02T18:03:35.590472Z,ironav-webui,0.1.0,0,0,https://github.com/nervosys/IronAV,"Local browser GUI for IronAV, served by a dependency-free loopback HTTP server over the shared tool registry."
+2026-11-02T18:03:45.075385Z,anoma-pa-solana-client,0.12.1,0,0,https://github.com/anoma/anoma-pa-solana-client,Client bindings for the Solana Anoma Protocol Adapter
+2026-11-02T18:07:03.552025Z,plumcraft-layout,0.1.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft L0: Tidy, the layered node layout (left to right, packed, parameters beside their pins); lifted from the research software's research-layout"
+2026-11-02T18:09:07.021881Z,emu198x-ui,0.46.2,0,0,https://github.com/emu198x/emu198x,Shared native UI harness (winit + wgpu video + audio + input) for Emu198x runners
+2026-11-02T18:15:06.428197Z,duvet-nvim,2.3.29,0,0,https://github.com/chikof/duvet.nvim,"A presence plugin for Neovim that shows your activity in Duvet, powered by Rust."
+2026-11-02T18:15:22.569026Z,ironav-cli,0.1.0,0,0,https://github.com/nervosys/IronAV,Command-line front end for IronAV: every command prints one JSON envelope on stdout and exits non-zero on error.
+2026-11-02T18:17:09.469065Z,plumcraft-session,0.1.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft L3: the editor session and its command registry (every action a command), graph and run commands, run state; lifted from the research software's research-engine"
