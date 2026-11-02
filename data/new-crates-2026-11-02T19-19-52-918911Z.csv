@@ -1,0 +1,23 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T18:21:57.322629Z,significant,0.1.0,0,0,,"Sign and verify media files in place, with no sidecar files, using C2PA"
+2026-11-02T18:27:16.460171Z,plumcraft-text,0.1.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft example engine: text nodes, the thin engine the interface is proven on (in-process now, a separate process next)"
+2026-11-02T18:29:59.832416Z,guide-rs,0.2.1,0,0,https://github.com/bgreenwell/guide-rs,Native Rust research implementation of GUIDE-style statistical trees
+2026-11-02T18:30:20.142563Z,rightkit-dictation-app-runtime,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Dictation app runtime: the shell-side engine supervisor (spawn, launch frame, health, restart, sidecar logs) and engine process handle for a dictation app."
+2026-11-02T18:37:24.028223Z,plumcraft,0.1.0,0,0,https://github.com/seantrue/plumcraft,PlumCraft command line: run a workflow on an engine and watch the interface live
+2026-11-02T18:45:46.436665Z,swig-shank-render,0.4.2,0,0,https://github.com/anagrambuild/shank,Renders implementaions derived from shank macros
+2026-11-02T18:45:54.397721Z,swig-shank-macro,0.4.2,0,0,https://github.com/anagrambuild/shank,Provides macros used to annotate Solana Rust programs in order to extract an IDL with the shank CLI
+2026-11-02T18:47:29.886592Z,plumcraft-automation,0.1.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft L4: the editor's --control JSON channel (loopback transport with token auth, session methods); lifted from the research software's research-automation"
+2026-11-02T18:48:51.737776Z,jetson_jpeg,0.1.0,0,0,https://github.com/IntelligentRoboticsLab/jetson_jpeg,Hardware JPEG encoding on NVIDIA Jetson through L4T's libnvjpeg and the NVJPG engine
+2026-11-02T18:49:15.8434Z,postcard-serializable-types,0.1.0,0,0,https://github.com/0k-dot-computer/postcard-serializable,Trait definitions for postcard serialization validation
+2026-11-02T18:49:17.768667Z,postcard-serializable,0.1.0,0,0,https://github.com/0k-dot-computer/postcard-serializable,Proc macro for compile-time postcard serialization validation
+2026-11-02T18:50:59.889402Z,rcinel-translate,0.1.0,0,0,https://github.com/CodeIsNotEvil/RcinelTranslate,"Loads a translation set for a language and translates with translate(""UUIDv7"", ""English text""). No dependencies."
+2026-11-02T18:54:06.18307Z,procage-proxy,0.3.0,0,0,https://github.com/hupe1980/procage,"An egress proxy with a domain allowlist (HTTP CONNECT, SOCKS5) for sandboxed processes: one canonical host parser, checked resolution, no allow-all"
+2026-11-02T18:57:14.294288Z,stochology,1.0.0,0,0,https://github.com/0b3st4f3r4/stochology,"Stochology: The Science and Ethics of Aim under Uncertainty — sequential Agent-World-Institution loop, epistemic margin, vital margin, and institutional governance in pure Rust"
+2026-11-02T18:57:16.232301Z,stochology-cli,1.0.0,0,0,https://github.com/0b3st4f3r4/stochology,Command-line runner and real-dataset laboratories for Stochology
+2026-11-02T18:57:39.892389Z,plumcraft-coordinator,0.1.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft L2: the coordinator, one engine made of several (docs/research/15-multi-engine.md); a Connection over sub-engine Connections"
+2026-11-02T19:05:22.666445Z,vision-embedded-tf,0.1.0,0,0,https://github.com/jorgeandrecastro/vision-embedded-tf,"Traitement d'images minimal pour microcontrôleurs avec FPU. #![no_std], sans allocation, sans unsafe."
+2026-11-02T19:05:44.269835Z,history-provider-sources,0.56.0,0,0,https://github.com/AgentWorkforce/relayhistory,"Optional provider-native session sources for ai-hist: Claude web, Codex cloud, Devin cloud and Cursor Cloud Agents."
+2026-11-02T19:07:48.522912Z,plumcraft-craft,0.1.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft engine: the generic craft MCP adapter (plan 10.6, milestone M); an artcraft app's MCP server as nodes, VectorCraft first"
+2026-11-02T19:09:32.459874Z,tg-export-parser,0.1.1,0,0,,Simple library for parsing a Telegram export file (result.json)
+2026-11-02T19:16:50.395655Z,kondor-cli,0.1.0,0,0,https://github.com/Blankeos/kondor,"Find and clear build leftovers (node_modules, target, caches) across all your projects"
+2026-11-02T19:17:58.25871Z,plumcraft-view,0.1.0,0,0,https://github.com/seantrue/plumcraft,"PlumCraft: a minimal native window that runs a workflow on an engine and shows node status, progress and data in flight live"

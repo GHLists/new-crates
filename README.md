@@ -8,60 +8,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 18:18 UTC
+## Latest list — 2026-11-02 19:19 UTC
 
-New crates published between 2026-11-02 17:20 UTC and 2026-11-02 18:18 UTC.
+New crates published between 2026-11-02 18:18 UTC and 2026-11-02 19:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-02T18-18-14-098125Z.csv)
+[Full CSV](data/new-crates-2026-11-02T19-19-52-918911Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-02 17:20:50 | [turbo-dom-browser-env](https://crates.io/crates/turbo-dom-browser-env) | 0.6.0 | 0 | Browser environment over turbo-dom: the native rtdom <-> V8 DOM binding (window… |
-| 2026-11-02 17:21:06 | [npexact](https://crates.io/crates/npexact) | 0.1.0 | 0 | Bit-exact ports of the numpy host numerics that yapocis and Virtual Impressioni… |
-| 2026-11-02 17:21:14 | [ironav-live](https://crates.io/crates/ironav-live) | 0.1.0 | 0 | Live input for IronAV: byte sources (growing files, pipes, TCP, UDP, RTSP) read… |
-| 2026-11-02 17:21:49 | [snp-cmd](https://crates.io/crates/snp-cmd) | 2.0.0 | 0 | Non-run commands: install, uninstall, autoupdate, gc, clean, validate, doctor,… |
-| 2026-11-02 17:24:03 | [lavender-render](https://crates.io/crates/lavender-render) | 0.1.0 | 0 | Markdown to themed HTML with syntax highlighting, the core of the lavender view… |
-| 2026-11-02 17:24:04 | [lavender](https://crates.io/crates/lavender) | 0.1.0 | 0 | A fast markdown viewer and editor with selectable themes |
-| 2026-11-02 17:24:11 | [apt-lists](https://crates.io/crates/apt-lists) | 0.1.0 | 0 | Read-only, repository-aware companion to apt list |
-| 2026-11-02 17:26:42 | [jbig2-decoder](https://crates.io/crates/jbig2-decoder) | 0.1.0 | 0 | Memory-safe JBIG2 decoder under development |
-| 2026-11-02 17:26:58 | [zenkit-rs](https://crates.io/crates/zenkit-rs) | 0.1.0 | 0 | Pure Rust reader and writer for ZenGin (Gothic, Gothic II) asset formats, porte… |
-| 2026-11-02 17:27:07 | [pite](https://crates.io/crates/pite) | 0.3.0 | 0 | The Pite 2D scene-tree game engine CLI and visual editor. |
-| 2026-11-02 17:27:22 | [adaptive-admission-core](https://crates.io/crates/adaptive-admission-core) | 0.1.0 | 0 | Portable deterministic admission-control state machine |
-| 2026-11-02 17:27:49 | [merman-model](https://crates.io/crates/merman-model) | 0.10.0-alpha.1 | 0 | Canonical Mermaid data and shared controlled execution contracts. |
-| 2026-11-02 17:28:00 | [merman-theme-contract](https://crates.io/crates/merman-theme-contract) | 0.10.0-alpha.1 | 0 | Versioned authoring and canonical JSON contracts for Merman themes. |
-| 2026-11-02 17:28:06 | [merman-markup](https://crates.io/crates/merman-markup) | 0.10.0-alpha.1 | 0 | Shared Mermaid HTML safety, URL normalization, CSS structure, and color operati… |
-| 2026-11-02 17:28:33 | [syncular-authority](https://crates.io/crates/syncular-authority) | 0.49.2 | 0 | Syncular local authority (SPEC.md §12): the server profile a native client runs… |
-| 2026-11-02 17:32:01 | [snp-migrate](https://crates.io/crates/snp-migrate) | 2.0.0 | 0 | `snp migrate lefthook\|builtin\|upstream` converters |
-| 2026-11-02 17:32:25 | [ironav-ontology](https://crates.io/crates/ironav-ontology) | 0.1.0 | 0 | Typed knowledge graph for IronAV describing its codecs, containers, filters, ha… |
-| 2026-11-02 17:32:35 | [ironav-player](https://crates.io/crates/ironav-player) | 0.1.0 | 0 | Audio and video playback engine for IronAV: pipelined decoding, an audio-driven… |
-| 2026-11-02 17:32:48 | [plumcraft-proto](https://crates.io/crates/plumcraft-proto) | 0.1.0 | 0 | PlumCraft L0: the UI <-> engine interface, protocol 2 (docs/interface.md): hand… |
-| 2026-11-02 17:32:50 | [plumcraft-store](https://crates.io/crates/plumcraft-store) | 0.1.0 | 0 | PlumCraft L1: blobs in the commonkit store (key layout, .npy write and read), t… |
-| 2026-11-02 17:32:52 | [plumcraft-svg](https://crates.io/crates/plumcraft-svg) | 0.1.0 | 0 | PlumCraft's SVG core type: parse (bounded, no external files) and rasterise wit… |
-| 2026-11-02 17:32:55 | [plumcraft-engine](https://crates.io/crates/plumcraft-engine) | 0.1.0 | 0 | PlumCraft L1: the minimal engine SDK (Node, Cx), the graph executor, and the in… |
-| 2026-11-02 17:32:57 | [plumcraft-scratch](https://crates.io/crates/plumcraft-scratch) | 0.1.0 | 0 | PlumCraft scratch directories: one temp root per process, and the sweep that re… |
-| 2026-11-02 17:33:42 | [solar-evmir-interpreter](https://crates.io/crates/solar-evmir-interpreter) | 0.3.0 | 0 | Runs the Solar compiler's EVM IR as the EVM runs the bytecode it assembles to |
-| 2026-11-02 17:33:43 | [solar-mir-interpreter](https://crates.io/crates/solar-mir-interpreter) | 0.3.0 | 0 | Runs the Solar compiler's lowered MIR as the EVM runs the bytecode it compiles… |
-| 2026-11-02 17:35:01 | [plumcraft-host](https://crates.io/crates/plumcraft-host) | 0.1.0 | 0 | PlumCraft L2: the UI side of every binding behind one Connection trait: in-proc… |
-| 2026-11-02 17:42:14 | [snp-repo](https://crates.io/crates/snp-repo) | 2.0.0 | 0 | Hook resolution, clones, fast-path decisions and environment install orchestrat… |
-| 2026-11-02 17:46:56 | [plumcraft-conform](https://crates.io/crates/plumcraft-conform) | 0.1.0 | 0 | PlumCraft's generic conformance cases (spec 19): what any engine must do on any… |
-| 2026-11-02 17:50:46 | [agenterm](https://crates.io/crates/agenterm) | 0.0.1 | 0 | A toolbox for coding agents on their own machine. This early version reserves t… |
-| 2026-11-02 17:51:19 | [emu198x-pointer](https://crates.io/crates/emu198x-pointer) | 0.46.2 | 0 | Turning a host cursor into guest mouse counts: relative motion and the closed l… |
-| 2026-11-02 17:51:23 | [emu198x-win-menu](https://crates.io/crates/emu198x-win-menu) | 0.46.2 | 0 | Attaches the shared native menu bar to a window on Windows |
-| 2026-11-02 17:51:32 | [ironav-engine](https://crates.io/crates/ironav-engine) | 0.1.0 | 0 | Engine for IronAV: job specs, planning, threaded execution and the agent tool r… |
-| 2026-11-02 17:51:32 | [emu198x-app-icon](https://crates.io/crates/emu198x-app-icon) | 0.46.2 | 0 | Emu198x application icon artwork, and the build-script helper that embeds it in… |
-| 2026-11-02 17:51:50 | [emu198x-shell](https://crates.io/crates/emu198x-shell) | 0.44.2 | 0 | Cross-system shared control surface, machine registry types, and host I/O contr… |
-| 2026-11-02 17:52:27 | [snp-run](https://crates.io/crates/snp-run) | 2.0.0 | 0 | Run pipeline, scheduler, renderer, hook-impl, try-repo, install-hooks, list and… |
-| 2026-11-02 17:52:29 | [emu198x-native-video](https://crates.io/crates/emu198x-native-video) | 0.46.2 | 0 | Shared native GPU video presentation for Emu198x frontends |
-| 2026-11-02 17:57:00 | [plumcraft-graph](https://crates.io/crates/plumcraft-graph) | 0.1.0 | 0 | PlumCraft L1: the graph model (nodes, widget values, positions, typed wires, ch… |
-| 2026-11-02 18:03:25 | [ic-metrics-storage](https://crates.io/crates/ic-metrics-storage) | 0.66.0 | 0 | Optional single-map stable storage for IC Metrics |
-| 2026-11-02 18:03:27 | [ironav-gui](https://crates.io/crates/ironav-gui) | 0.1.0 | 0 | Native desktop GUI for IronAV (egui/eframe) with a source summary, settings tab… |
-| 2026-11-02 18:03:35 | [ironav-webui](https://crates.io/crates/ironav-webui) | 0.1.0 | 0 | Local browser GUI for IronAV, served by a dependency-free loopback HTTP server… |
-| 2026-11-02 18:03:45 | [anoma-pa-solana-client](https://crates.io/crates/anoma-pa-solana-client) | 0.12.1 | 0 | Client bindings for the Solana Anoma Protocol Adapter |
-| 2026-11-02 18:07:03 | [plumcraft-layout](https://crates.io/crates/plumcraft-layout) | 0.1.0 | 0 | PlumCraft L0: Tidy, the layered node layout (left to right, packed, parameters… |
-| 2026-11-02 18:09:07 | [emu198x-ui](https://crates.io/crates/emu198x-ui) | 0.46.2 | 0 | Shared native UI harness (winit + wgpu video + audio + input) for Emu198x runne… |
-| 2026-11-02 18:15:06 | [duvet-nvim](https://crates.io/crates/duvet-nvim) | 2.3.29 | 0 | A presence plugin for Neovim that shows your activity in Duvet, powered by Rust. |
-| 2026-11-02 18:15:22 | [ironav-cli](https://crates.io/crates/ironav-cli) | 0.1.0 | 0 | Command-line front end for IronAV: every command prints one JSON envelope on st… |
-| 2026-11-02 18:17:09 | [plumcraft-session](https://crates.io/crates/plumcraft-session) | 0.1.0 | 0 | PlumCraft L3: the editor session and its command registry (every action a comma… |
+| 2026-11-02 18:21:57 | [significant](https://crates.io/crates/significant) | 0.1.0 | 0 | Sign and verify media files in place, with no sidecar files, using C2PA |
+| 2026-11-02 18:27:16 | [plumcraft-text](https://crates.io/crates/plumcraft-text) | 0.1.0 | 0 | PlumCraft example engine: text nodes, the thin engine the interface is proven o… |
+| 2026-11-02 18:29:59 | [guide-rs](https://crates.io/crates/guide-rs) | 0.2.1 | 0 | Native Rust research implementation of GUIDE-style statistical trees |
+| 2026-11-02 18:30:20 | [rightkit-dictation-app-runtime](https://crates.io/crates/rightkit-dictation-app-runtime) | 0.1.0 | 0 | Dictation app runtime: the shell-side engine supervisor (spawn, launch frame, h… |
+| 2026-11-02 18:37:24 | [plumcraft](https://crates.io/crates/plumcraft) | 0.1.0 | 0 | PlumCraft command line: run a workflow on an engine and watch the interface live |
+| 2026-11-02 18:45:46 | [swig-shank-render](https://crates.io/crates/swig-shank-render) | 0.4.2 | 0 | Renders implementaions derived from shank macros |
+| 2026-11-02 18:45:54 | [swig-shank-macro](https://crates.io/crates/swig-shank-macro) | 0.4.2 | 0 | Provides macros used to annotate Solana Rust programs in order to extract an ID… |
+| 2026-11-02 18:47:29 | [plumcraft-automation](https://crates.io/crates/plumcraft-automation) | 0.1.0 | 0 | PlumCraft L4: the editor's --control JSON channel (loopback transport with toke… |
+| 2026-11-02 18:48:51 | [jetson_jpeg](https://crates.io/crates/jetson_jpeg) | 0.1.0 | 0 | Hardware JPEG encoding on NVIDIA Jetson through L4T's libnvjpeg and the NVJPG e… |
+| 2026-11-02 18:49:15 | [postcard-serializable-types](https://crates.io/crates/postcard-serializable-types) | 0.1.0 | 0 | Trait definitions for postcard serialization validation |
+| 2026-11-02 18:49:17 | [postcard-serializable](https://crates.io/crates/postcard-serializable) | 0.1.0 | 0 | Proc macro for compile-time postcard serialization validation |
+| 2026-11-02 18:50:59 | [rcinel-translate](https://crates.io/crates/rcinel-translate) | 0.1.0 | 0 | Loads a translation set for a language and translates with translate("UUIDv7",… |
+| 2026-11-02 18:54:06 | [procage-proxy](https://crates.io/crates/procage-proxy) | 0.3.0 | 0 | An egress proxy with a domain allowlist (HTTP CONNECT, SOCKS5) for sandboxed pr… |
+| 2026-11-02 18:57:14 | [stochology](https://crates.io/crates/stochology) | 1.0.0 | 0 | Stochology: The Science and Ethics of Aim under Uncertainty — sequential Agent-… |
+| 2026-11-02 18:57:16 | [stochology-cli](https://crates.io/crates/stochology-cli) | 1.0.0 | 0 | Command-line runner and real-dataset laboratories for Stochology |
+| 2026-11-02 18:57:39 | [plumcraft-coordinator](https://crates.io/crates/plumcraft-coordinator) | 0.1.0 | 0 | PlumCraft L2: the coordinator, one engine made of several (docs/research/15-mul… |
+| 2026-11-02 19:05:22 | [vision-embedded-tf](https://crates.io/crates/vision-embedded-tf) | 0.1.0 | 0 | Traitement d'images minimal pour microcontrôleurs avec FPU. #![no_std], sans al… |
+| 2026-11-02 19:05:44 | [history-provider-sources](https://crates.io/crates/history-provider-sources) | 0.56.0 | 0 | Optional provider-native session sources for ai-hist: Claude web, Codex cloud,… |
+| 2026-11-02 19:07:48 | [plumcraft-craft](https://crates.io/crates/plumcraft-craft) | 0.1.0 | 0 | PlumCraft engine: the generic craft MCP adapter (plan 10.6, milestone M); an ar… |
+| 2026-11-02 19:09:32 | [tg-export-parser](https://crates.io/crates/tg-export-parser) | 0.1.1 | 0 | Simple library for parsing a Telegram export file (result.json) |
+| 2026-11-02 19:16:50 | [kondor-cli](https://crates.io/crates/kondor-cli) | 0.1.0 | 0 | Find and clear build leftovers (node_modules, target, caches) across all your p… |
+| 2026-11-02 19:17:58 | [plumcraft-view](https://crates.io/crates/plumcraft-view) | 0.1.0 | 0 | PlumCraft: a minimal native window that runs a workflow on an engine and shows… |
 
 ## Data source
 
