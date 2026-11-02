@@ -1,0 +1,50 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T10:19:38.495935Z,erpc-core,0.0.1,0,0,https://github.com/elsoul/erpc-cli,"Shared config, inventory, output and error types for the erpc CLI"
+2026-11-02T10:19:51.464865Z,ceria,0.0.1,0,0,https://github.com/Yluro/ceria,Reciprocal-space exploration and SHELX data preparation for single-crystal diffraction (early placeholder)
+2026-11-02T10:20:01.00559Z,erpc-chain,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Chain and role abstractions for the multi-chain erpc CLI
+2026-11-02T10:20:24.049789Z,erpc-secret,0.0.1,0,0,https://github.com/elsoul/erpc-cli,1Password (op CLI) backed secret handling for the erpc CLI
+2026-11-02T10:20:46.754847Z,erpc-ssh,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Hardened OpenSSH executor with host pinning for the erpc CLI
+2026-11-02T10:20:49.687913Z,kraken,0.0.1,0,0,,Placeholder: name reserved for a future project.
+2026-11-02T10:21:12.281577Z,erpc-auth,0.0.1,0,0,https://github.com/elsoul/erpc-cli,ERPC account authentication (RFC 8628 device flow) and credential stores for the erpc CLI
+2026-11-02T10:24:18.543286Z,erpc-api,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Typed client for the public ERPC user API used by the erpc CLI
+2026-11-02T10:26:53.684208Z,moremath-macros,0.2.0,0,0,https://github.com/Jabberwocky238/moremath,moremath 的 proc-macro：bit! / pack! / pick!（位段取值、位段拼字、条件运算符）
+2026-11-02T10:26:57.179166Z,moremath,0.2.0,0,0,https://github.com/Jabberwocky238/moremath,"Numbers beyond the standard library: bf16, f16, tf32, u1/u4/i4 -- bit patterns, IEEE rounding and conversions (no_std)"
+2026-11-02T10:27:09.685952Z,agentscope-extensions-cos,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,"AgentScope Rust - Tencent Cloud COS backed distributed storage, sandbox snapshots and execution guard"
+2026-11-02T10:32:09.805065Z,rightkit-context-core,0.1.0,0,0,https://github.com/bogusyogi/rightkit,Context budget and lane reconciliation: one cross-provider attention budget whose explicit lanes reconcile every receipt's selected and delivered tokens.
+2026-11-02T10:32:49.894917Z,erpc-ops,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Node operation bundles and remote execution for the erpc CLI
+2026-11-02T10:33:21.897699Z,rightkit-context-provider-sdk,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Context provider SDK: the typed Provider trait, the canonical Fixture shape and the run_conformance harness for adapters implementing context operations."
+2026-11-02T10:33:44.427552Z,nvpn-fips-file-transfer,0.1.0,0,0,https://github.com/mmalmi/fips-tcp,Recipient-approved resumable file streams over TCP/FIPS
+2026-11-02T10:34:43.898011Z,rightkit-memory-store,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Durable memory store: SQLite memory store, installation identity, scopes and durable telemetry."
+2026-11-02T10:37:07.580669Z,agentscope-extensions-oss,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,"AgentScope Rust - S3-compatible object storage, sandbox snapshots and execution guard"
+2026-11-02T10:42:36.652407Z,ed-claude,0.0.1,0,0,https://github.com/ondeinference/ed,Claude as an ed-acp agent: a coding-agent profile that talks to the Anthropic API with the user's own key. Placeholder release; the real crate ships with Ed 1.4.0.
+2026-11-02T10:42:49.226746Z,erpc-chain-solana,0.0.1,0,0,https://github.com/elsoul/erpc-cli,Solana validator and RPC node operations for the erpc CLI
+2026-11-02T10:47:07.81224Z,agentscope-extensions-controlplane,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,"AgentScope Rust - control-plane data plane SDK (session snapshots, event stream, effective context)"
+2026-11-02T10:52:09.96733Z,moiety-core,0.1.0,0,0,https://github.com/fuyu-myk/moiety,"Condensed-formula grammar, valence resolution and interpretation, with no dependencies"
+2026-11-02T10:52:22.092521Z,moiety,0.1.0,0,0,https://github.com/fuyu-myk/moiety,"Condensed organic formula parser with ambiguity reporting, an abbreviation dictionary and an inverse writer"
+2026-11-02T10:52:34.583484Z,moiety-draw,0.1.0,0,0,https://github.com/fuyu-myk/moiety,Skeletal structure layout and SVG rendering for moiety readings
+2026-11-02T10:52:46.894417Z,moiety-cli,0.1.0,0,0,https://github.com/fuyu-myk/moiety,Command-line front end for moiety
+2026-11-02T10:52:49.664979Z,erpc-wallet,0.0.1,0,0,https://github.com/elsoul/erpc-cli,1Password backed wallets and spending policies for the erpc CLI
+2026-11-02T10:53:38.782151Z,cnf-rs,0.0.1,0,0,https://github.com/canonical/cnf-rs,Rust implementation of the cnf configuration file format (spec 1.0rc1).
+2026-11-02T10:53:42.676305Z,proofathome,0.0.1,0,0,https://github.com/proofathome/proofathome,Proof@home: volunteer coding agents writing machine-checked proofs for open-source infrastructure
+2026-11-02T10:53:53.636757Z,png-alpha-benchmark-toolkit,1.0.2,0,0,https://github.com/toppng-source/png-alpha-benchmark-toolkit,"Lossless ISO/IEC 15948 PNG Alpha-Channel Analysis, Scanline Filter Optimization & Cutout Matting Benchmark Suite"
+2026-11-02T10:57:08.821176Z,agentscope-extensions-studio,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,AgentScope Rust - AgentScope Studio integration and OpenTelemetry GenAI telemetry
+2026-11-02T11:00:16.227066Z,serde-cnf,0.0.1,0,0,https://github.com/canonical/serde-cnf,Rust implementation of the cnf configuration file format (spec 1.0rc1).
+2026-11-02T11:02:49.922992Z,erpc-x402,0.0.1,0,0,https://github.com/elsoul/erpc-cli,x402 payment client (EIP-3009) for the erpc CLI
+2026-11-02T11:06:47.202484Z,konklav-core,1.3.0-rc.1,0,0,https://github.com/cstruct/konklav,Identifiers and small value types shared across Konklav software items
+2026-11-02T11:06:49.599633Z,konklav-token,1.3.0-rc.1,0,0,https://github.com/cstruct/konklav,"Konklav access-token claims, EdDSA JWS signing and verification, and JWKS"
+2026-11-02T11:06:51.665151Z,konklav-authz,1.3.0-rc.1,0,0,https://github.com/cstruct/konklav,"Konklav authorization: entitlement compilation and decision evaluation, without I/O"
+2026-11-02T11:06:54.00446Z,konklav-relying,1.3.0-rc.1,0,0,https://github.com/cstruct/konklav,"The sans-I/O relying core: token verification, entitlement and session caches, change-feed state, decisions"
+2026-11-02T11:06:56.538309Z,konklav-relying-client,1.3.0-rc.1,0,0,https://github.com/cstruct/konklav,"Native Rust host binding for the relying core: HTTP, the change feed and background refresh on tokio"
+2026-11-02T11:07:08.469467Z,agentscope-extensions-training,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,"AgentScope Rust - shadow-traffic training support (selection strategies, rewards, Trinity backend)"
+2026-11-02T11:09:13.730107Z,polypus-backend,0.8.0,0,0,https://github.com/Bahia-Software/polypus,"The pyo3-free execution-backend contract for Polypus: the QuantumBackend trait, its circuit/params/error/capabilities types, the transpiler seam and the Planner. A third party can implement a backend…"
+2026-11-02T11:09:16.215372Z,polypus-backend-conformance,0.8.0,0,0,https://github.com/Bahia-Software/polypus,A reusable conformance test battery for polypus-backend QuantumBackend implementations: run it against your backend and get a pass/fail/skip report over the documented execution semantics (error clas…
+2026-11-02T11:09:25.832455Z,polypus-qml,0.8.0,0,0,https://github.com/Bahia-Software/polypus,"Pure-Rust quantum machine learning for Polypus: datasets, layered variational models (encoders, ansatz, convolution, pooling), Pauli readout and losses. Produces polypus-circuit circuits; execution a…"
+2026-11-02T11:09:28.293047Z,polypus-subprocess-backend,0.8.0,0,0,https://github.com/Bahia-Software/polypus,"A pyo3-free QuantumBackend that bridges to a provider's Python SDK running in its own subprocess, over a versioned length-prefixed JSON protocol. Lets a third-party Python backend be used from Polypu…"
+2026-11-02T11:12:00.553869Z,reed-parser,0.1.0,0,0,https://github.com/Necrass-Dev/NecrassRs,A parser for the GraphQL language.
+2026-11-02T11:12:49.257901Z,erpc-ai,0.0.1,0,0,https://github.com/elsoul/erpc-cli,AI assistant console and tool loop for the erpc CLI
+2026-11-02T11:13:50.515308Z,reed-compiler,0.1.0,0,0,https://github.com/Necrass-Dev/NecrassRs,A compiler for the GraphQL query language.
+2026-11-02T11:17:07.295078Z,necrassrs,0.1.0,0,0,https://github.com/Necrass-Dev/NecrassRs,SDL-first GraphQL execution and resolver contracts for Rust.
+2026-11-02T11:17:09.421907Z,agentscope-extensions-nacos,0.1.0-alpha.1,0,0,https://github.com/Endlessworld/agentscope-rust,"AgentScope Rust - Nacos backed A2A registry, prompt and skill extensions"
+2026-11-02T11:17:13.363524Z,necrassrs-build,0.1.0,0,0,https://github.com/Necrass-Dev/NecrassRs,Build-time GraphQL validation and Rust code generation for NecrassRs.
+2026-11-02T11:17:19.771844Z,necrassrs-http,0.1.0,0,0,https://github.com/Necrass-Dev/NecrassRs,Framework-independent GraphQL-over-HTTP helpers for NecrassRs.
+2026-11-02T11:18:47.125008Z,necrassrs-axum,0.1.0,0,0,https://github.com/Necrass-Dev/NecrassRs,Axum integration for NecrassRs GraphQL servers.
