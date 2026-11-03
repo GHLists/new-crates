@@ -1,0 +1,42 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T00:19:11.168746Z,driveleaf-ntfs,0.1.0,0,0,https://github.com/igor-gregori/driveleaf,Fast NTFS Master File Table scanner
+2026-11-03T00:19:15.476008Z,driveleaf-treemap,0.1.0,0,0,https://github.com/igor-gregori/driveleaf,Squarified treemap layout with no GUI dependency
+2026-11-03T00:19:20.181021Z,driveleaf-win,0.1.0,0,0,https://github.com/igor-gregori/driveleaf,Windows file system and shell calls for Driveleaf
+2026-11-03T00:19:26.588982Z,driveleaf-core,0.1.0,0,0,https://github.com/igor-gregori/driveleaf,"Disk usage model, aggregation and directory-walk scanner"
+2026-11-03T00:19:33.075481Z,driveleaf-cli,0.1.0,0,0,https://github.com/igor-gregori/driveleaf,Command line interface for the Driveleaf scan engine
+2026-11-03T00:22:11.071245Z,vitel,0.1.0,0,0,https://github.com/amitpatole/vitel,"Rust companion of the vitel Python package: SLO and error-budget burn-rate grading plus typed vitals models, JSON-compatible with the Python reports."
+2026-11-03T00:22:53.815804Z,sqlview,0.1.0,0,0,https://github.com/sergioia-dev/SQLV,Keyboard-driven terminal ER diagram viewer for live SQL databases
+2026-11-03T00:23:14.862483Z,romi,0.5.0,0,0,https://github.com/TitaniteScale/romi,"Play your games in your terminal: a libretro frontend and game library, with RetroAchievements"
+2026-11-03T00:24:13.907952Z,weft-arrow-store,0.2.0,0,0,https://github.com/basic-automation/weftdb,Read a stored WeftDB aspect range straight into an Apache Arrow RecordBatch.
+2026-11-03T00:29:07.007574Z,tuicalc,0.1.0,0,0,https://github.com/christianhelle/tuicalc,"A terminal spreadsheet editor for Excel .xlsx workbooks, with vim-style keys"
+2026-11-03T00:32:10.334662Z,citel,0.1.0,0,0,,"Rust companion of the citel Python package: certify that every claim in an answer maps to a faithful source span, graded on the agentsensory verdict contract."
+2026-11-03T00:40:35.677403Z,useceleris-client,1.0.2,0,0,https://github.com/useceleris/sdk-rust-client,Client SDK for Celeris realtime channels.
+2026-11-03T00:42:11.147255Z,immel,0.1.0,0,0,,"Rust companion of the immel Python package: boundary-defense sense (hidden-Unicode ingress scan) and a dry-run-by-default, policy-gated response decider on the agentsensory contract."
+2026-11-03T00:46:46.114959Z,sapphire-sync-server,0.25.0,0,0,https://github.com/sapphire-turtle/sapphire-framework,sapphire-sync's app server: the one process per host that serves a workspace and syncs it through sapphire-bridge
+2026-11-03T00:46:49.827901Z,sapphire-sync-cli,0.25.0,0,0,https://github.com/sapphire-turtle/sapphire-framework,"The command line of sapphire-sync's two editions, the headless one and the desktop app: its commands, the framework's and its own, which run the app server or call it"
+2026-11-03T00:46:53.96761Z,sapphire-sync-headless,0.25.0,0,0,https://github.com/sapphire-turtle/sapphire-framework,"A sync-only reference app for sapphire-framework - simple P2P file sync over iroh, CLI with embedded server"
+2026-11-03T00:49:26.858305Z,ferrokit-core,0.4.0,0,0,https://github.com/lhassa8/ferrokit,"The AppKit layer under ferrokit (use that): places real AppKit views in a window and keeps layout, focus and shortcuts in step"
+2026-11-03T00:49:41.419815Z,ferrokit,0.4.0,0,0,https://github.com/lhassa8/ferrokit,"Native Mac apps in Rust: every view a real AppKit view (tables, outlines, text), updated in place by fine-grained signals"
+2026-11-03T00:49:55.101622Z,docspring-cli,1.0.0-rc.1,0,0,https://github.com/DocSpring/docspring-cli,"DocSpring's command-line interface: fill PDF and Word templates, generate PDFs and manage templates from your terminal, scripts and CI"
+2026-11-03T00:50:07.585244Z,sqlx-doris-core,0.2.0,0,0,https://github.com/fieldnote-ops/sqlx-doris,Standalone Apache Doris driver for SQLx
+2026-11-03T00:50:18.017403Z,sqlx-doris-macros,0.2.0,0,0,https://github.com/fieldnote-ops/sqlx-doris,Compile-time implementation for sqlx-doris
+2026-11-03T00:50:21.724162Z,useceleris-server,1.0.1,0,0,https://github.com/useceleris/sdk-rust-server,Server SDK for Celeris realtime channels: signs connection credentials on a trusted server.
+2026-11-03T00:50:30.630858Z,sqlx-doris-ops,0.2.0,0,0,https://github.com/fieldnote-ops/sqlx-doris,Doris operation primitives used by sqlx-doris
+2026-11-03T00:51:52.172963Z,sqlx-doris-cli,0.2.0,0,0,https://github.com/fieldnote-ops/sqlx-doris,Command-line implementation for sqlx-doris
+2026-11-03T00:52:13.143984Z,verel,0.1.0,0,0,https://github.com/amitpatole/verel,"Rust companion of the verel Python package (the brain): the verdict-bus models, gate reducer, fingerprints, and offline verification of signed gate/run receipts."
+2026-11-03T00:55:15.946873Z,mdkg-git,0.0.1,0,0,https://github.com/mdkg-dev/mdkg,Placeholder for mdkg's internal mdkg-git crate; its first real version is 0.7.1. No stable API: depend on the mdkg binary.
+2026-11-03T00:55:17.104531Z,mdkg-ops,0.0.1,0,0,https://github.com/mdkg-dev/mdkg,Placeholder for mdkg's internal mdkg-ops crate; its first real version is 0.7.1. No stable API: depend on the mdkg binary.
+2026-11-03T00:55:18.264204Z,mdkg-presence,0.0.1,0,0,https://github.com/mdkg-dev/mdkg,Placeholder for mdkg's internal mdkg-presence crate; its first real version is 0.7.1. No stable API: depend on the mdkg binary.
+2026-11-03T00:55:20.050686Z,mdkg-serve,0.0.1,0,0,https://github.com/mdkg-dev/mdkg,Placeholder for mdkg's internal mdkg-serve crate; its first real version is 0.7.1. No stable API: depend on the mdkg binary.
+2026-11-03T00:55:20.919461Z,mdkg-wire,0.0.1,0,0,https://github.com/mdkg-dev/mdkg,Placeholder for mdkg's internal mdkg-wire crate; its first real version is 0.7.1. No stable API: depend on the mdkg binary.
+2026-11-03T01:00:17.54471Z,rigless-rtl,0.0.2,0,0,https://gitlab.com/rigless-labs/rigless-rtl,"Exact, faster-than-real-time emulation of SystemVerilog designs"
+2026-11-03T01:02:11.053848Z,agentvision,0.1.0,0,0,https://github.com/amitpatole/agent-vision,"Rust companion of the agentvision Python package (the eyes): typed vision reports, interaction steps, visual-diff and WCAG contrast logic, and a REST client."
+2026-11-03T01:06:53.679021Z,taut-foundation,0.11.0,0,0,https://github.com/owebeeone/taut,"Taut no_std + alloc codec, descriptor and explicit validation foundation"
+2026-11-03T01:07:48.16212Z,tree-sitter-rst-next,0.3.0,0,0,https://github.com/brandon-arrendondo/tree-sitter-rst-next,reStructuredText grammar for tree-sitter
+2026-11-03T01:08:02.657692Z,castellan-client,0.0.1,0,0,https://github.com/merely-made/dramatis,"The application side of Castellan's custody route over Djinn's door: calls, answers, payloads and the custody clients."
+2026-11-03T01:11:37.658035Z,libass-sys-next,0.2.0,0,0,https://github.com/EzeranD/libass-rs,Raw bindings for libass
+2026-11-03T01:11:48.637881Z,libass-next,0.3.0,0,0,https://github.com/EzeranD/libass-rs,Safe bindings for libass
+2026-11-03T01:12:11.493577Z,audel,0.1.0,0,0,https://github.com/amitpatole/audel,"Rust companion of the audel Python package (the ears): typed audio reports, delivery specs, a native loudness/true-peak grader, and a REST client."
+2026-11-03T01:13:50.739014Z,ntru-trapdoor,0.1.0,0,0,https://github.com/etairi/ntru-trapdoor,"NTRU lattice trapdoors (DLP14/Falcon convention): TrapGen, Falcon-style fast-Fourier preimage sampling at arbitrary targets, and exact arithmetic in Z_q[x]/(x^d+1) for any prime q, including q = 5 mo…"
+2026-11-03T01:15:06.791598Z,ek-strategy,0.1.0,0,0,https://cnb.cool/enkeep/ek-strategy,"Strategy trading plugin for the enkeep ek ecosystem: one Strategy trait for conditional orders and portfolio strategies, event-driven dispatch, OMS-backed execution, plugin-owned window described via…"
+2026-11-03T01:16:14.638486Z,uuidnew,0.1.0,0,0,https://github.com/johnstonskj/rust-uuidnew,"Provides a simple cli for generating UUIDs, but with more options than uuidgen."
