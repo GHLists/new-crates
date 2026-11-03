@@ -1,0 +1,43 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T04:20:30.881309Z,channelkit-web,0.1.0-alpha.1,0,0,https://github.com/everruns/channelkit,Authenticated browser conversations and SSE adapter for Channelkit
+2026-11-03T04:23:18.554365Z,oc2_hlapi_v2,0.1.0,0,0,https://gitea.pterpstra.com/pjht/oc2_hlapi_v2,A client for the new version of OpenComputers II's HLAPI
+2026-11-03T04:23:21.774648Z,aauth-rust,0.1.0-alpha.27,0,0,https://gitlab.com/sidecat-dev/aauth-rust,"AAuth for Rust: every role and the shared building blocks, re-exported from one crate"
+2026-11-03T04:23:41.90825Z,bern-backend-web,0.1.0,0,0,https://github.com/AimesSoft/Bern,"The web + browser target: a static page with the Bern theme, virtual windows and the engine in WebAssembly"
+2026-11-03T04:24:06.386103Z,dpc-tau-shell-interaction,0.3.0,0,0,https://github.com/dpc/tau,Endpoint-owned shell interaction protocol for Tau.
+2026-11-03T04:24:31.320802Z,wm-sandbox,10.6.2,0,0,,WhiteMagic Gen3 — Zero-Dependency Linux Landlock ABI 8 + cgroup v2 + Egress Proxy Sandboxing Engine
+2026-11-03T04:24:49.670588Z,roomkit-tools-search,0.1.0-alpha.16,0,0,https://github.com/roomkit-live/roomkit-tools,Selectable web search backends with common typed results
+2026-11-03T04:28:24.352651Z,dpc-tau-provider-chatgpt,0.3.0,0,0,https://github.com/dpc/tau,A minimal Unix-first coding agent.
+2026-11-03T04:33:47.669928Z,bern-backend-gpui,0.1.0,0,0,https://github.com/AimesSoft/Bern,"GPUI target: generates desktop applications drawn with GPUI after Bern's own visual specification, on macOS, Windows and Linux"
+2026-11-03T04:35:00.574129Z,roomkit-tools-web,0.1.0-alpha.16,0,0,https://github.com/roomkit-live/roomkit-tools,Bounded HTTP fetching and HTML conversion for agents
+2026-11-03T04:42:08.924371Z,foctet-storage-wire,0.6.0,0,0,https://github.com/foctal/foctet,Portable signed text records and SQL plans for Worker storage
+2026-11-03T04:42:12.76639Z,foctet-storage,0.6.0,0,0,https://github.com/foctal/foctet,Opaque signed-record storage and atomic replay adapters for Foctet
+2026-11-03T04:43:52.233187Z,bern-backend-gtk,0.1.0,0,0,https://github.com/AimesSoft/Bern,GTK target: generates Linux applications on GTK 4 and libadwaita from the Bern IR
+2026-11-03T04:47:07.624653Z,adash,0.1.0,0,0,https://github.com/Axect/adash,"A local dashboard for running many coding agents (omp, Claude Code, Codex, Antigravity) in tmux: see which agent is waiting on you"
+2026-11-03T04:53:58.312648Z,bern-backend-swiftui,0.1.0,0,0,https://github.com/AimesSoft/Bern,SwiftUI target: generates native macOS apps from the Bern IR
+2026-11-03T04:57:27.504709Z,corundum-framework-audio,0.8.0,0,0,https://github.com/sapphire-turtle/corundum-framework,"Decode and resample audio files without a GUI: FLAC, MP3, AAC, ALAC, Vorbis, WAV and Ogg Opus, with seeking, tags and length"
+2026-11-03T04:57:46.795361Z,corundum-framework-image,0.8.0,0,0,https://github.com/sapphire-turtle/corundum-framework,"Decode an image file or bytes to RGBA8 without a GUI: format detection, EXIF orientation, ICC profiles converted to sRGB, size limits and thumbnails"
+2026-11-03T04:58:07.702833Z,sqltide,0.0.1,0,0,https://github.com/sqlstack-io/sqltide,"Rust core of SQLTide, declarative SQL streaming pipelines for ClickHouse. The Python package is on PyPI; Rust crates are published from the repository later."
+2026-11-03T04:58:10.101673Z,sqlload,0.0.1,0,0,https://github.com/sqlstack-io/sqlload,"Rust core of SQLLoad, SQL data loading tooling. Under development; crates are published from the repository later."
+2026-11-03T04:59:53.424746Z,escope-protocol,0.1.0,0,0,https://github.com/umbrella22/EmbedScope,Allocation-free EmbedScope wire protocol
+2026-11-03T05:00:01.381508Z,escope-agent,0.1.0,0,0,https://github.com/umbrella22/EmbedScope,Allocation-free EmbedScope device agent
+2026-11-03T05:00:06.651629Z,escope-lvgl,0.1.0,0,0,https://github.com/umbrella22/EmbedScope,Host-provided LVGL access bridge for EmbedScope
+2026-11-03T05:00:12.944741Z,escope-c-api,0.1.0,0,0,https://github.com/umbrella22/EmbedScope,Allocation-free C ABI for the EmbedScope device Agent
+2026-11-03T05:00:20.67014Z,escope-host,0.1.0,0,0,https://github.com/umbrella22/EmbedScope,"EmbedScope host SDK, transports and reference device"
+2026-11-03T05:01:03.735118Z,gromnie-events,0.1.0,0,0,https://github.com/amoeba/gromnie.git,Event system traits and types for gromnie
+2026-11-03T05:01:30.007677Z,gromnie-scripting-api,0.1.0,0,0,https://github.com/amoeba/gromnie.git,Script API for writing WASM scripts for gromnie
+2026-11-03T05:02:07.957012Z,escope-cli,0.1.0,0,0,https://github.com/umbrella22/EmbedScope,EmbedScope embedded diagnostics and control CLI
+2026-11-03T05:02:17.275009Z,gromnie-client,0.1.0,0,0,https://github.com/amoeba/gromnie.git,client library for gromnie
+2026-11-03T05:04:03.637964Z,bern-backend-winui3,0.1.0,0,0,https://github.com/AimesSoft/Bern,WinUI 3 target: generates Windows applications on WinUI 3 and the Windows App SDK from the Bern IR
+2026-11-03T05:08:39.790784Z,pagesift-stat,0.90.0,0,0,https://github.com/YOLOW92/pagesift,Mergeable online statistics and decision rules for pagesift's adaptive control (no dependencies).
+2026-11-03T05:09:09.760147Z,pagesift-cluster,0.90.0,0,0,https://github.com/YOLOW92/pagesift,"pagesift multi-server coordination: frame protocol, leases and fencing, HRW site affinity, log-shipping warm standby, stats aggregation."
+2026-11-03T05:10:30.700518Z,gromnie-scripting-host,0.1.0,0,0,https://github.com/amoeba/gromnie.git,Host runtime for loading and executing WASM scripts in gromnie
+2026-11-03T05:10:38.481386Z,gromnie-runner,0.1.0,0,0,https://github.com/amoeba/gromnie.git,Client runner gromnie
+2026-11-03T05:10:42.744614Z,bessel,0.1.0,0,0,https://github.com/p-sira/bessel,"Pure Rust library for Bessel and related special functions, including cylindrical, spherical, Hankel, Kelvin, Struve, and Airy functions."
+2026-11-03T05:10:45.27977Z,gromnie-tui,0.1.0,0,0,https://github.com/amoeba/gromnie.git,TUI game client for gromnie
+2026-11-03T05:10:59.926906Z,pagesift-flow,0.90.0,0,0,https://github.com/YOLOW92/pagesift,pagesift data plane: per-core CPU workers and unified admission.
+2026-11-03T05:11:08.771182Z,pagesift-frontier,0.90.0,0,0,https://github.com/YOLOW92/pagesift,"pagesift crawl frontier and focused-crawl scoring: deduplication, URL traps, link scoring, stop rules."
+2026-11-03T05:11:47.979084Z,pagesift-media,0.90.0,0,0,https://github.com/YOLOW92/pagesift,"pagesift media: HLS/DASH stream download, media items, resumable downloads and post-processing."
+2026-11-03T05:12:00.652085Z,pagesift-plan,0.90.0,0,0,https://github.com/YOLOW92/pagesift,"Execution planning for pagesift: calibrated result quality, executor choice and block-level merging."
+2026-11-03T05:14:07.803505Z,bern-image,0.1.0,0,0,https://github.com/AimesSoft/Bern,"HDR pictures for the targets whose UI toolkit cannot decode them: PQ and HLG PNGs and JPEGs with gain maps, as linear light"
+2026-11-03T05:16:32.388307Z,gromnie-cli,0.1.0,0,0,https://github.com/amoeba/gromnie.git,CLIs for gromnie
+2026-11-03T05:18:10.201218Z,tauri-plugin-share-file,0.1.0-alpha.1,0,0,https://github.com/hoangmirs/tauri-plugins,Tauri plugin that opens Android's share sheet for one file
