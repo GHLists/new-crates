@@ -1,0 +1,64 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T13:20:45.364315Z,arkadia-data,0.3.1,0,0,https://github.com/arkadia-solutions/arkadia-data,"AK-DATA (Arkadia Data Format): Lossless, token-efficient text form of JSON for LLM prompts, tool results and agent memory: a header names each field once, records follow by position. Library and the…"
+2026-11-03T13:21:43.949448Z,a7n-proto,0.8.0,0,0,https://github.com/PuppetMaster2k/apeirogon,"Wire protocol, framing and validation for the Apeirogon software KVM"
+2026-11-03T13:21:53.52292Z,a7n-core,0.8.0,0,0,https://github.com/PuppetMaster2k/apeirogon,Pure state machines for the Apeirogon software KVM
+2026-11-03T13:22:19.416144Z,gpui-koan-refineable,0.2.0+zed.b037f49,0,0,https://github.com/radiosilence/zed,A macro for creating 'refinement' types that can be used to partially initialize or mutate a complex struct (gpui-koan snapshot of zed@b037f49)
+2026-11-03T13:22:19.823815Z,gpui-koan-scheduler,0.2.0+zed.b037f49,0,0,https://github.com/radiosilence/zed,Zed's `scheduler` crate (gpui-koan snapshot of zed@b037f49)
+2026-11-03T13:22:33.351243Z,a7n-platform,0.8.0,0,0,https://github.com/PuppetMaster2k/apeirogon,Native desktop backends for the Apeirogon software KVM
+2026-11-03T13:22:44.512218Z,weft-format,1.0.1,0,0,https://github.com/mossbenchlab/weft,"Weft — AI-first textual data format (Rust reference implementation): parse, byte-identical canonical formatting, lossless JSON bridge"
+2026-11-03T13:22:54.961255Z,a7n-ipc,0.8.0,0,0,https://github.com/PuppetMaster2k/apeirogon,Local daemon API for the Apeirogon software KVM
+2026-11-03T13:23:30.4751Z,apeirogond,0.8.0,0,0,https://github.com/PuppetMaster2k/apeirogon,"Daemon for Apeirogon, a cross-platform software KVM"
+2026-11-03T13:27:23.822094Z,bun_browser_layout,1.4.8,0,0,https://github.com/aphrody-labs/taffy,"Aphrody fork of Taffy, a flexible UI layout library (flexbox, grid, block, float), with local layout fixes; the library is still imported as `taffy`."
+2026-11-03T13:28:22.827617Z,bun_browser_render,1.4.8,0,0,https://github.com/aphrody-labs/bun-obscura,"Optional scoped render layer for BunBrowser: layout (taffy) and, with the paint feature, text and raster output for screenshots."
+2026-11-03T13:29:06.988336Z,bun_browser_js,1.4.8,0,0,https://github.com/aphrody-labs/bun-obscura,Bun browser module bun_browser_js.
+2026-11-03T13:29:20.456417Z,adamo-quinn-proto,0.11.17-adamo.1.0.19,0,0,https://github.com/adamo-tech/adamo,State machine for the QUIC transport protocol
+2026-11-03T13:29:29.729885Z,bun_browser_browser,1.4.8,0,0,https://github.com/aphrody-labs/bun-obscura,Bun browser module bun_browser_browser.
+2026-11-03T13:29:37.718696Z,adamo-quinn,0.11.11-adamo.1.0.19,0,0,https://github.com/adamo-tech/adamo,Versatile QUIC transport protocol implementation
+2026-11-03T13:29:42.884473Z,hushlog-core,0.1.0-alpha.1,0,0,https://github.com/adenijiridwan43/Hushlog,"Pure pipeline core for hushlog: framing, normalization, fingerprinting, block detection and folding. No I/O, no clock, no process spawning."
+2026-11-03T13:29:47.530617Z,bun_browser,1.4.8,0,0,https://github.com/aphrody-labs/bun-obscura,Rust API for the BunBrowser headless browser
+2026-11-03T13:29:55.106091Z,adamo-web-transport-quinn,0.12.1-adamo.1.0.19,0,0,https://github.com/adamo-tech/adamo,WebTransport library for Quinn
+2026-11-03T13:30:12.364213Z,adamo-auth,1.0.19,0,0,https://github.com/adamo-tech/adamo,Internal support library for the Adamo robot SDK: auth
+2026-11-03T13:30:20.431712Z,hushlog-rules,0.1.0-alpha.1,0,0,https://github.com/adenijiridwan43/Hushlog,"TOML rule schema, loader and single-pass RegexSet classifier for hushlog, with built-in packs for cargo, npm, docker and kubectl."
+2026-11-03T13:30:29.696034Z,adamo-bandwidth,1.0.19,0,0,https://github.com/adamo-tech/adamo,Internal support library for the Adamo robot SDK: adamo-bandwidth
+2026-11-03T13:30:39.04892Z,bun_browser_cdp,1.4.8,0,0,https://github.com/aphrody-labs/bun-obscura,Bun browser module bun_browser_cdp.
+2026-11-03T13:30:55.214583Z,hushlog-render,0.1.0-alpha.1,0,0,https://github.com/adenijiridwan43/Hushlog,"Renderers for hushlog: ANSI TTY, plain text, GitHub Actions folds, GitLab collapsible sections, and JSON for machine consumers."
+2026-11-03T13:31:38.722818Z,hushlog,0.1.0-alpha.1,0,0,https://github.com/adenijiridwan43/Hushlog,"The hushlog binary: pipe and wrap modes, byte-exact --tee, and exit-code passthrough."
+2026-11-03T13:33:04.74084Z,alwith-desktop-shell,0.6.0,0,0,https://github.com/ALwith-ai/alwith-desktop-shell,"Default native desktop shell for ALwith applications: menus, window chrome, CLI status and signed application updates"
+2026-11-03T13:33:25.452136Z,dr-strange-web,2.24.5,0,0,https://github.com/wangyingsm/dr-strange,drsg serve — JSON-RPC 2.0 web backend + dashboard for dr-strange (arch/08)
+2026-11-03T13:34:10.290669Z,drsg,2.24.5,0,0,https://github.com/wangyingsm/dr-strange,drsg — command-line tools for dr-strange (arch/05)
+2026-11-03T13:36:43.875333Z,posebake,0.1.0,0,0,https://github.com/xtrinch/posebake,Pose skinned glTF models and bake them into static OBJ or GLB meshes with colours sampled from their textures
+2026-11-03T13:36:48.497108Z,adamo-codec,1.0.19,0,0,https://github.com/adamo-tech/adamo,Structured state and record encoding for Adamo's delivery classes
+2026-11-03T13:37:20.310907Z,alwith-chat,0.6.0,0,0,https://github.com/ALwith-ai/alwith-modules,"ALwith chat: typed Tauri commands for model provider settings and skill documents, backed by the private native chat library for the ALwith account gateway"
+2026-11-03T13:38:33.021008Z,alwith-auth,0.6.0,0,0,https://github.com/ALwith-ai/alwith-modules,"ALwith account: typed Tauri commands for token refresh and the desktop vibemon windows, backed by the private native auth library"
+2026-11-03T13:38:38.754574Z,alwith-store,0.6.0,0,0,https://github.com/ALwith-ai/alwith-modules,ALwith named stores: typed Tauri commands over alwith-module-store's atomic JSON key-value stores
+2026-11-03T13:38:46.256563Z,alwith-fs,0.6.0,0,0,https://github.com/ALwith-ai/alwith-modules,"ALwith filesystem: typed Tauri commands for authorized workspaces, watches and conversation patches, backed by the private native fs library"
+2026-11-03T13:41:18.597902Z,bun_browser_process,1.4.8,0,0,https://github.com/aphrody-labs/bun-obscura,Child processes that never open a console window (Windows); a plain std::process::Command elsewhere.
+2026-11-03T13:41:18.967898Z,longtrader-catalog,0.2.1,0,0,https://github.com/longcipher/longtrader,Built-in strategy descriptor catalog for the LongTrader terminal
+2026-11-03T13:43:40.147468Z,sisyfuzz,0.1.0,0,0,https://github.com/fhenskens/sisyfuzz,A parameter optimisation framework in Rust
+2026-11-03T13:47:57.41656Z,ducy-host,0.4.0,0,0,https://github.com/allenpiscitello/ducy,"Host poker tables and tournaments for remote players: commands in, private views out, clocks, chip requests and snapshots, built on ducy-play."
+2026-11-03T13:49:07.922218Z,alwith-drive,0.6.0,0,0,https://github.com/ALwith-ai/alwith-modules,"ALwith Drive: typed Tauri commands, events and a transactional Rust API, backed by the private native Drive library"
+2026-11-03T13:52:59.734284Z,bun_browser_mcp,1.4.8,0,0,https://github.com/aphrody-labs/bun-obscura,Bun browser module bun_browser_mcp.
+2026-11-03T13:54:57.725017Z,a7n,0.8.0,0,0,https://github.com/PuppetMaster2k/apeirogon,Command-line and terminal interface for the Apeirogon software KVM
+2026-11-03T13:55:08.284386Z,gpui-koan-shared-string,0.2.0+zed.b037f49,0,0,https://github.com/radiosilence/zed,Zed's `gpui_shared_string` crate (gpui-koan snapshot of zed@b037f49)
+2026-11-03T13:55:08.762326Z,gpui-koan-util,0.2.0+zed.b037f49,0,0,https://github.com/radiosilence/zed,Zed's `gpui_util` crate (gpui-koan snapshot of zed@b037f49)
+2026-11-03T13:55:09.041313Z,gpui-koan-ztracing-macro,0.2.0+zed.b037f49,0,0,https://github.com/radiosilence/zed,Zed's `ztracing_macro` crate (gpui-koan snapshot of zed@b037f49)
+2026-11-03T13:56:36.447856Z,a7n-gui,0.8.0,0,0,https://github.com/PuppetMaster2k/apeirogon,Desktop interface for the Apeirogon software KVM
+2026-11-03T13:59:26.961936Z,alwith-editor,0.6.0,0,0,https://github.com/ALwith-ai/alwith-modules,"ALwith editor: typed Tauri commands for document parsing, backed by the private native editor library"
+2026-11-03T14:03:40.353936Z,bun_browser_service,1.4.8,0,0,https://github.com/aphrody-labs/bun-obscura,"Canonical web execution contract for Aphrody OS: OXC analysis, Bun tooling and BunBrowser V8 pages."
+2026-11-03T14:04:06.151689Z,mere-lsm-tree,2.10.4,0,0,https://github.com/merely-made/eidetic,"Merely's LSM-tree fork with bounded reads, carried in Eidetic."
+2026-11-03T14:04:23.712035Z,aicad,1.0.0-rc.1,0,0,https://github.com/AlexandreDubray/aicad,"A library to solve Constraint satisfaction problems with Multi-valued decision diagrams and, optionnaly, neural networks"
+2026-11-03T14:05:00.231584Z,samyama,1.14.0,0,0,https://github.com/samyama-ai/samyama-graph,High-performance distributed graph database with OpenCypher support
+2026-11-03T14:05:09.177225Z,bz,0.5.0,0,0,https://github.com/excelano/bogenzeit,Bogenzeit: time as position on the Sun's arc. The reference engine and the bz command
+2026-11-03T14:06:12.622253Z,samyama-sdk,1.14.0,0,0,https://github.com/samyama-ai/samyama-graph,Client SDK for Samyama Graph Database — embedded and remote modes
+2026-11-03T14:06:24.200464Z,samyama-convert,1.14.0,0,0,https://github.com/samyama-ai/samyama-graph,"Convert graph file formats to and from Samyama's .sgsnap, offline, with a loss report"
+2026-11-03T14:06:42.59661Z,samyama-cli,1.14.0,0,0,https://github.com/samyama-ai/samyama-graph,CLI for Samyama Graph Database
+2026-11-03T14:07:34.892589Z,ukit-derive,0.1.0,0,0,https://codeberg.org/umukka/UKit.git,Derive macros for UKit
+2026-11-03T14:07:35.503726Z,ukit-hash,0.1.8,0,0,https://codeberg.org/umukka/UKit.git,Non-cryptographic hashing utilities for UKit
+2026-11-03T14:07:36.482125Z,ukit-math,0.1.8,0,0,https://codeberg.org/umukka/UKit.git,"Math utilities, vectors, and quaternions for UKit"
+2026-11-03T14:07:37.366908Z,ukit-time,0.1.8,0,0,https://codeberg.org/umukka/UKit.git,Floating-point timestamps and durations for UKit
+2026-11-03T14:07:38.166612Z,ukit-uml,0.1.0,0,0,https://codeberg.org/umukka/UKit.git,Library-agnostic feature encodings for UKit
+2026-11-03T14:08:37.300446Z,bun_browser_engine,1.4.8,0,0,https://github.com/aphrody-labs/bun-obscura,"Bun browser engine commands: CDP server, fetch, scrape, crawl and worker (the `bun web` subcommands)."
+2026-11-03T14:09:53.324595Z,mere-fjall,2.11.2,0,0,https://github.com/merely-made/eidetic,"Merely's Fjall fork with bounded reads and recovery, carried in Eidetic."
+2026-11-03T14:09:55.504048Z,alwith-extension,0.6.0,0,0,https://github.com/ALwith-ai/alwith-modules,"ALwith extensions: typed Tauri commands, native picker grants, window identity and the extension:// protocol, backed by the private native extension library"
+2026-11-03T14:14:05.276054Z,redis-me-rs,1.8.1,0,0,https://github.com/hepengju/redis-rs,Redis driver for Rust. RedisME fork with X.509 v1 client certificates and ConnectionDialer.
+2026-11-03T14:14:59.055783Z,ukit-collections,0.1.8,0,0,https://codeberg.org/umukka/UKit.git,Fixed-capacity and slab-based collection types for UKit
