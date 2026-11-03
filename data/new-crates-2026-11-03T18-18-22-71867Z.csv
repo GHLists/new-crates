@@ -1,0 +1,52 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T17:19:08.900813Z,agave-block-engine-client,0.0.1-reserved,0,0,https://github.com/anza-xyz/agave,reserved for future use
+2026-11-03T17:19:54.835623Z,ferrolint-django,1.0.0,0,0,https://github.com/gajaguar/ferrolint-django,Pylint-django's rules as a ferrolint plugin
+2026-11-03T17:21:22.157809Z,whycodes-session,0.6.29,0,0,https://github.com/whycorporation/whycodes,"Conversation state, history and compaction for WhyCodes"
+2026-11-03T17:27:14.062676Z,supra-verifier-solana,0.1.0,0,0,https://github.com/zdenekbilek/supra-verifier-solana,Independent pair-bound Solana verification of Supra pull-oracle BLS and Merkle proofs
+2026-11-03T17:28:00.626691Z,globtree,0.1.0,0,0,https://codeberg.org/Jomy10/Globtree,Fast glob file matching with support for multiple glob patterns
+2026-11-03T17:31:28.178757Z,zipfs-ng,0.1.0,0,0,https://github.com/sunsided/zipfs,"Read zip archives in memory without copying stored files, or on demand from an async source; optional async Lunchbox filesystem."
+2026-11-03T17:31:54.478251Z,whycodes-agent,0.6.29,0,0,https://github.com/whycorporation/whycodes,"Agent turn loop, tool scheduling, subagents and permission gates for WhyCodes"
+2026-11-03T17:32:55.415422Z,mercs2_bink,0.1.0,0,0,https://github.com/Mercenaries-Fan-Build/notes-on-the-released-game,"Bink 1 (BIKi) movie decoding for the shipped Mercenaries 2 movies, written from the specifications beside it, which were read out of binkw32.dll."
+2026-11-03T17:34:50.605311Z,lctrl-core,0.1.0,0,0,https://github.com/cyjin-yl/vantage-cli,Core domain types and error model for Vantage hardware control
+2026-11-03T17:34:54.90233Z,mercs2_gfx,0.1.0,0,0,https://github.com/Mercenaries-Fan-Build/notes-on-the-released-game,"Mercenaries 2 modernization — the Scaleform GFx movie player: timeline, display list and ActionScript 2, drawing nothing itself."
+2026-11-03T17:35:18.722556Z,lctrl-hal,0.1.0,0,0,https://github.com/cyjin-yl/vantage-cli,Hardware abstraction traits for Vantage
+2026-11-03T17:35:52.315863Z,lctrl-tune,0.1.0,0,0,https://github.com/cyjin-yl/vantage-cli,Panther Lake tuning engine for Vantage
+2026-11-03T17:36:02.813785Z,securom_unwrap,0.1.0,0,0,https://github.com/Mercenaries-Fan-Build/notes-on-the-released-game,"Turn a decrypted Mercenaries 2 PC executable into a SecuROM-free one by restoring the original entry point and a clean import table, keeping every section byte-for-byte."
+2026-11-03T17:36:14.321624Z,lctrl-hal-linux,0.1.0,0,0,https://github.com/cyjin-yl/vantage-cli,Linux HAL backend for Vantage (ideapad/sysfs/RAPL)
+2026-11-03T17:36:29.833428Z,mercs2_exemap,1.0.0,0,0,https://github.com/Mercenaries-Fan-Build/notes-on-the-released-game,"Mercenaries 2 modernization — cross-build exe map: the catalogue of known Mercenaries2.exe builds, their code layouts, and a per-section layout-membership checker."
+2026-11-03T17:37:30.931586Z,lctrl-hal-win,0.1.0,0,0,https://github.com/cyjin-yl/vantage-cli,Windows HAL backend for Vantage (WMI/IOCTL/RPC)
+2026-11-03T17:42:17.891121Z,whycodes-import,0.6.29,0,0,https://github.com/whycorporation/whycodes,"Import MCP, permission, and hook settings from other coding agents"
+2026-11-03T17:46:43.280934Z,filer-apfs,0.0.2,0,0,https://github.com/artob/filer,Read-only APFS file system driver for the Filer API.
+2026-11-03T17:46:43.898244Z,filer-btrfs,0.0.2,0,0,https://github.com/artob/filer,Read-only btrfs file system driver for the Filer API.
+2026-11-03T17:46:44.859816Z,filer-cdfs,0.0.2,0,0,https://github.com/artob/filer,Read-only ISO 9660 (CD-ROM) file system driver for the Filer API.
+2026-11-03T17:46:45.689482Z,filer-exfat,0.0.2,0,0,https://github.com/artob/filer,Read-only exFAT file system driver for the Filer API.
+2026-11-03T17:46:46.260862Z,filer-minix,0.0.2,0,0,https://github.com/artob/filer,Read-only Minix file system driver for the Filer API.
+2026-11-03T17:47:47.856378Z,aplan-core,0.5.0,0,0,https://github.com/asamarts/aplan,"Core types, loader, and validation engine for aplan."
+2026-11-03T17:47:58.448242Z,aplan-output,0.5.0,0,0,https://github.com/asamarts/aplan,Output formats and semantic terminal scenes for aplan.
+2026-11-03T17:48:04.018652Z,aplan-config,0.5.0,0,0,https://github.com/asamarts/aplan,"The `.aplan.yml` configuration: a schema-derived Config, and the trusted test runner."
+2026-11-03T17:48:22.033818Z,aplan-evidence,0.5.0,0,0,https://github.com/asamarts/aplan,"The verification ladder: resolve task evidence (commit, file, test) against the git repository."
+2026-11-03T17:48:31.674011Z,aplan-interop,0.5.0,0,0,https://github.com/asamarts/aplan,Importers for aplan: read other tools' plans and proposal repositories into tasks.
+2026-11-03T17:49:09.278708Z,aither-sed,0.0.0,0,0,https://github.com/May-Agent/aither,aither-sed: the read-only sed that prints line ranges in sandboxed agent scripts
+2026-11-03T17:49:33.600918Z,tychonic,0.9.1,0,0,https://github.com/Tycho887/tychonic,"Passive orbit determination with Doppler, interferometric phase, differential Doppler, and angles."
+2026-11-03T17:49:45.830533Z,veil-proxy-kit,0.10.0,0,0,https://github.com/aofusa/veil-proxy,"Helpers for the veil API server library: cookies, redirects, static files, CORS, auth (JWT), sessions, HTTP/gRPC clients, GraphQL, dependency injection and background tasks"
+2026-11-03T17:50:38.092796Z,whycodes-protocol,0.6.29,0,0,https://github.com/whycorporation/whycodes,Stream/CI envelopes and daemon protocol v1 for WhyCodes
+2026-11-03T17:55:13.966154Z,aplan-attest,0.5.0,0,0,https://github.com/asamarts/aplan,"A tamper-evident record of what a plan proved, bound to a commit."
+2026-11-03T17:57:38.793476Z,filer-refs,0.0.2,0,0,https://github.com/artob/filer,Read-only ReFS file system driver for the Filer API.
+2026-11-03T18:01:08.013507Z,whycodes-server,0.6.29,0,0,https://github.com/whycorporation/whycodes,Local HTTP API server for WhyCodes (`whycodes serve`)
+2026-11-03T18:02:50.879493Z,dfdu-tree,0.4.0,0,0,https://github.com/jordond/dfdu,"Tree of scanned nodes: slots, generational references, sizes and aggregation"
+2026-11-03T18:02:52.766653Z,dfdu-rules,0.4.0,0,0,https://github.com/jordond/dfdu,"Categories and cleanup rules: the rule schema, loader, built-in pack, protected paths and matcher"
+2026-11-03T18:02:53.25361Z,dfdu-sys,0.4.0,0,0,https://github.com/jordond/dfdu,"The OS calls no safe crate provides (btrfs ioctls, FIEMAP, getattrlistbulk and Windows enumeration) behind safe wrappers, the disk list, what storage a directory is on, the usage of mounts the scan d…"
+2026-11-03T18:02:54.641573Z,dfdu-clean,0.4.0,0,0,https://github.com/jordond/dfdu,"Deletion: plans, verification against the scan, trash and permanent delete, journal"
+2026-11-03T18:02:55.205254Z,dfdu-dupes,0.4.0,0,0,https://github.com/jordond/dfdu,"Duplicate file finder over a scanned tree: size, then partial hash, then full hash"
+2026-11-03T18:04:55.064588Z,dfdu-scan,0.4.0,0,0,https://github.com/jordond/dfdu,"Scanner: workers, outboxes, backends, byte budget, watchdog, classification on the workers, and the change journals (FSEvents, USN, btrfs)"
+2026-11-03T18:05:14.743645Z,bymm,0.1.0,0,0,,Cross-platform binary file data storage and manipulation library
+2026-11-03T18:05:16.819058Z,aplan-app,0.5.0,0,0,https://github.com/asamarts/aplan,Typed application operations shared by aplan delivery adapters.
+2026-11-03T18:07:51.901195Z,filer-squashfs,0.0.2,0,0,https://github.com/artob/filer,Read-only SquashFS file system driver for the Filer API.
+2026-11-03T18:11:32.131668Z,whycodes-shell,0.6.29,0,0,https://github.com/whycorporation/whycodes,Embedded bash-compatible shell and coreutils for Windows hosts without Git Bash
+2026-11-03T18:13:01.394319Z,dfdu-engine,0.4.0,0,0,https://github.com/jordond/dfdu,"The applier (single writer of the tree), jobs, hard links, classifier and measurer pools, the resume of a loaded tree from what the change journal says changed, crash reports, the remote agent and wi…"
+2026-11-03T18:13:40.410733Z,crabby_ecs,1.0.0,0,0,https://github.com/bozoslav/crabbyengine,"The entity-component-system behind Crabby Engine: archetype storage, runtime-registered components."
+2026-11-03T18:13:42.521215Z,crabbyengine,1.0.0,0,0,https://github.com/bozoslav/crabbyengine,"A fast 2D game engine for simulating millions of things: ECS on all cores, hot reload, an in-game inspector, AI-agent control, and a C++ API."
+2026-11-03T18:13:44.594332Z,crabby_ffi,1.0.0,0,0,https://github.com/bozoslav/crabbyengine,C API for Crabby Engine; include/crabby.hpp wraps it for C++17.
+2026-11-03T18:13:45.307878Z,crabby_mcp,1.0.0,0,0,https://github.com/bozoslav/crabbyengine,MCP server that lets AI agents inspect and drive running Crabby Engine games
+2026-11-03T18:15:12.466991Z,aplan-tui,0.5.0,0,0,https://github.com/asamarts/aplan,Interactive terminal interface for aplan.
+2026-11-03T18:17:00.79596Z,filer-ufs,0.0.2,0,0,https://github.com/artob/filer,Read-only UFS (BSD FFS) file system driver for the Filer API.

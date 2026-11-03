@@ -8,47 +8,65 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 17:19 UTC
+## Latest list — 2026-11-03 18:18 UTC
 
-New crates published between 2026-11-03 16:20 UTC and 2026-11-03 17:19 UTC.
+New crates published between 2026-11-03 17:19 UTC and 2026-11-03 18:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-03T17-19-08-074783Z.csv)
+[Full CSV](data/new-crates-2026-11-03T18-18-22-71867Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-03 16:22:09 | [udpstp-key-permissions](https://crates.io/crates/udpstp-key-permissions) | 0.0.0 | 0 | Windows Shared Key file permission assessment for udpstp. Placeholder: the impl… |
-| 2026-11-03 16:25:50 | [cpa-core](https://crates.io/crates/cpa-core) | 0.4.1 | 0 | Part of cliproxy: config, credentials, formats and the execution envelope |
-| 2026-11-03 16:25:54 | [cpa-common](https://crates.io/crates/cpa-common) | 0.4.1 | 0 | Part of cliproxy: provider-neutral request helpers shared by translators and ex… |
-| 2026-11-03 16:25:57 | [cpa-home](https://crates.io/crates/cpa-home) | 0.4.1 | 0 | Part of cliproxy: the Home control-plane client |
-| 2026-11-03 16:25:58 | [cpa-translate](https://crates.io/crates/cpa-translate) | 0.4.1 | 0 | Part of cliproxy: request and response translation between the Anthropic, OpenA… |
-| 2026-11-03 16:26:02 | [cpa-exec](https://crates.io/crates/cpa-exec) | 0.4.1 | 0 | Part of cliproxy: upstream provider executors |
-| 2026-11-03 16:29:30 | [flashvsr-4k](https://crates.io/crates/flashvsr-4k) | 0.2.0 | 0 | Official Rust SDK & 30-module workflow toolkit for VideoUpscaler (https://video… |
-| 2026-11-03 16:29:32 | [n8n-videoupscaler](https://crates.io/crates/n8n-videoupscaler) | 0.2.0 | 0 | Official Rust SDK & 30-module workflow toolkit for VideoUpscaler (https://video… |
-| 2026-11-03 16:31:13 | [whycodes-memory](https://crates.io/crates/whycodes-memory) | 0.6.29 | 0 | Cross-session semantic / auto memory for whycodes |
-| 2026-11-03 16:37:37 | [cpa-plugin](https://crates.io/crates/cpa-plugin) | 0.4.1 | 0 | Part of cliproxy: the native plugin host (CLIProxyAPI C ABI 1, registration sch… |
-| 2026-11-03 16:41:36 | [whycodes-plugin](https://crates.io/crates/whycodes-plugin) | 0.6.29 | 0 | Shell and auth plugin discovery for WhyCodes |
-| 2026-11-03 16:45:34 | [xgpui-ios](https://crates.io/crates/xgpui-ios) | 1.26.2 | 0 | Upstream-derived UIKit and Metal backend for xgpui on iOS |
-| 2026-11-03 16:46:01 | [cpa-server](https://crates.io/crates/cpa-server) | 0.4.1 | 0 | Part of cliproxy: HTTP routes, client auth, credential selection and the manage… |
-| 2026-11-03 16:51:57 | [whycodes-skill](https://crates.io/crates/whycodes-skill) | 0.6.29 | 0 | Skill registry and loader for WhyCodes |
-| 2026-11-03 16:54:52 | [flz_transport](https://crates.io/crates/flz_transport) | 0.1.0 | 0 | Flezha shared transport library — QUIC, UDS, binary framing |
-| 2026-11-03 16:55:27 | [flz_core](https://crates.io/crates/flz_core) | 0.1.0 | 0 | Flezha SDK kernel — poll-based dispatch, durable state, retries, timers and tra… |
-| 2026-11-03 16:55:50 | [flz_core_ffi](https://crates.io/crates/flz_core_ffi) | 0.1.0 | 0 | C ABI and JNI bindings over flz_core for non-Rust Flezha SDK hosts |
-| 2026-11-03 16:55:51 | [meowtable](https://crates.io/crates/meowtable) | 0.1.2 | 0 | A ~2x leaner [Option<T>; CAP] using a partially initialized array with an init… |
-| 2026-11-03 16:55:58 | [flezha-macros](https://crates.io/crates/flezha-macros) | 0.1.0 | 0 | Procedural macros for the Flezha Rust SDK |
-| 2026-11-03 16:56:22 | [flezha_runner](https://crates.io/crates/flezha_runner) | 0.1.0 | 0 | Flezha Rust SDK — author flow and steps relays and run them against a Flezha co… |
-| 2026-11-03 16:56:24 | [cpa-store](https://crates.io/crates/cpa-store) | 0.4.1 | 0 | Part of cliproxy: remote config and auth stores (PostgreSQL, S3-compatible obje… |
-| 2026-11-03 16:59:03 | [alpr-sdk](https://crates.io/crates/alpr-sdk) | 0.1.0 | 0 | Alpr.sh's SDK for Rust: license plate recognition from photos, cameras, reading… |
-| 2026-11-03 17:02:34 | [whycodes-tools](https://crates.io/crates/whycodes-tools) | 0.6.29 | 0 | Built-in tools for WhyCodes |
-| 2026-11-03 17:02:56 | [bancaditalia-rates](https://crates.io/crates/bancaditalia-rates) | 0.1.0 | 0 | Typed client for the Banca d'Italia exchange rates REST API |
-| 2026-11-03 17:05:40 | [flake-egui](https://crates.io/crates/flake-egui) | 0.1.0 | 0 | egui integration for the Flake engine |
-| 2026-11-03 17:06:40 | [unpic-rs](https://crates.io/crates/unpic-rs) | 0.1.0 | 0 | Universal image CDN URL detection and transformation |
-| 2026-11-03 17:06:51 | [windwatcher-server](https://crates.io/crates/windwatcher-server) | 0.1.0 | 0 | Official self-hosted server for Windwatcher. |
-| 2026-11-03 17:06:51 | [cliproxy](https://crates.io/crates/cliproxy) | 0.4.1 | 0 | Use DeepSeek, GLM, Kimi, OpenRouter and more in Codex CLI and Claude Code: one… |
-| 2026-11-03 17:11:00 | [whycodes-mcp](https://crates.io/crates/whycodes-mcp) | 0.6.29 | 0 | Model Context Protocol client for whycodes |
-| 2026-11-03 17:13:06 | [extend-docx](https://crates.io/crates/extend-docx) | 0.1.0 | 0 | Rust parser, document model, and serializer for DOCX and legacy Word documents |
-| 2026-11-03 17:13:47 | [apksig-rs](https://crates.io/crates/apksig-rs) | 1.0.0 | 0 | APK signing and verification — a faithful Rust port of AOSP platform/tools/apks… |
-| 2026-11-03 17:13:49 | [apksigner](https://crates.io/crates/apksigner) | 1.0.0 | 0 | APK signer and verifier CLI — a faithful Rust port of AOSP apksigner |
-| 2026-11-03 17:18:39 | [transcreva](https://crates.io/crates/transcreva) | 0.1.0 | 0 | Official Rust SDK & MCP client for Transcreva (https://transcreva.net) — Brazil… |
+| 2026-11-03 17:19:08 | [agave-block-engine-client](https://crates.io/crates/agave-block-engine-client) | 0.0.1-reserved | 0 | reserved for future use |
+| 2026-11-03 17:19:54 | [ferrolint-django](https://crates.io/crates/ferrolint-django) | 1.0.0 | 0 | Pylint-django's rules as a ferrolint plugin |
+| 2026-11-03 17:21:22 | [whycodes-session](https://crates.io/crates/whycodes-session) | 0.6.29 | 0 | Conversation state, history and compaction for WhyCodes |
+| 2026-11-03 17:27:14 | [supra-verifier-solana](https://crates.io/crates/supra-verifier-solana) | 0.1.0 | 0 | Independent pair-bound Solana verification of Supra pull-oracle BLS and Merkle… |
+| 2026-11-03 17:28:00 | [globtree](https://crates.io/crates/globtree) | 0.1.0 | 0 | Fast glob file matching with support for multiple glob patterns |
+| 2026-11-03 17:31:28 | [zipfs-ng](https://crates.io/crates/zipfs-ng) | 0.1.0 | 0 | Read zip archives in memory without copying stored files, or on demand from an… |
+| 2026-11-03 17:31:54 | [whycodes-agent](https://crates.io/crates/whycodes-agent) | 0.6.29 | 0 | Agent turn loop, tool scheduling, subagents and permission gates for WhyCodes |
+| 2026-11-03 17:32:55 | [mercs2_bink](https://crates.io/crates/mercs2_bink) | 0.1.0 | 0 | Bink 1 (BIKi) movie decoding for the shipped Mercenaries 2 movies, written from… |
+| 2026-11-03 17:34:50 | [lctrl-core](https://crates.io/crates/lctrl-core) | 0.1.0 | 0 | Core domain types and error model for Vantage hardware control |
+| 2026-11-03 17:34:54 | [mercs2_gfx](https://crates.io/crates/mercs2_gfx) | 0.1.0 | 0 | Mercenaries 2 modernization — the Scaleform GFx movie player: timeline, display… |
+| 2026-11-03 17:35:18 | [lctrl-hal](https://crates.io/crates/lctrl-hal) | 0.1.0 | 0 | Hardware abstraction traits for Vantage |
+| 2026-11-03 17:35:52 | [lctrl-tune](https://crates.io/crates/lctrl-tune) | 0.1.0 | 0 | Panther Lake tuning engine for Vantage |
+| 2026-11-03 17:36:02 | [securom_unwrap](https://crates.io/crates/securom_unwrap) | 0.1.0 | 0 | Turn a decrypted Mercenaries 2 PC executable into a SecuROM-free one by restori… |
+| 2026-11-03 17:36:14 | [lctrl-hal-linux](https://crates.io/crates/lctrl-hal-linux) | 0.1.0 | 0 | Linux HAL backend for Vantage (ideapad/sysfs/RAPL) |
+| 2026-11-03 17:36:29 | [mercs2_exemap](https://crates.io/crates/mercs2_exemap) | 1.0.0 | 0 | Mercenaries 2 modernization — cross-build exe map: the catalogue of known Merce… |
+| 2026-11-03 17:37:30 | [lctrl-hal-win](https://crates.io/crates/lctrl-hal-win) | 0.1.0 | 0 | Windows HAL backend for Vantage (WMI/IOCTL/RPC) |
+| 2026-11-03 17:42:17 | [whycodes-import](https://crates.io/crates/whycodes-import) | 0.6.29 | 0 | Import MCP, permission, and hook settings from other coding agents |
+| 2026-11-03 17:46:43 | [filer-apfs](https://crates.io/crates/filer-apfs) | 0.0.2 | 0 | Read-only APFS file system driver for the Filer API. |
+| 2026-11-03 17:46:43 | [filer-btrfs](https://crates.io/crates/filer-btrfs) | 0.0.2 | 0 | Read-only btrfs file system driver for the Filer API. |
+| 2026-11-03 17:46:44 | [filer-cdfs](https://crates.io/crates/filer-cdfs) | 0.0.2 | 0 | Read-only ISO 9660 (CD-ROM) file system driver for the Filer API. |
+| 2026-11-03 17:46:45 | [filer-exfat](https://crates.io/crates/filer-exfat) | 0.0.2 | 0 | Read-only exFAT file system driver for the Filer API. |
+| 2026-11-03 17:46:46 | [filer-minix](https://crates.io/crates/filer-minix) | 0.0.2 | 0 | Read-only Minix file system driver for the Filer API. |
+| 2026-11-03 17:47:47 | [aplan-core](https://crates.io/crates/aplan-core) | 0.5.0 | 0 | Core types, loader, and validation engine for aplan. |
+| 2026-11-03 17:47:58 | [aplan-output](https://crates.io/crates/aplan-output) | 0.5.0 | 0 | Output formats and semantic terminal scenes for aplan. |
+| 2026-11-03 17:48:04 | [aplan-config](https://crates.io/crates/aplan-config) | 0.5.0 | 0 | The `.aplan.yml` configuration: a schema-derived Config, and the trusted test r… |
+| 2026-11-03 17:48:22 | [aplan-evidence](https://crates.io/crates/aplan-evidence) | 0.5.0 | 0 | The verification ladder: resolve task evidence (commit, file, test) against the… |
+| 2026-11-03 17:48:31 | [aplan-interop](https://crates.io/crates/aplan-interop) | 0.5.0 | 0 | Importers for aplan: read other tools' plans and proposal repositories into tas… |
+| 2026-11-03 17:49:09 | [aither-sed](https://crates.io/crates/aither-sed) | 0.0.0 | 0 | aither-sed: the read-only sed that prints line ranges in sandboxed agent scripts |
+| 2026-11-03 17:49:33 | [tychonic](https://crates.io/crates/tychonic) | 0.9.1 | 0 | Passive orbit determination with Doppler, interferometric phase, differential D… |
+| 2026-11-03 17:49:45 | [veil-proxy-kit](https://crates.io/crates/veil-proxy-kit) | 0.10.0 | 0 | Helpers for the veil API server library: cookies, redirects, static files, CORS… |
+| 2026-11-03 17:50:38 | [whycodes-protocol](https://crates.io/crates/whycodes-protocol) | 0.6.29 | 0 | Stream/CI envelopes and daemon protocol v1 for WhyCodes |
+| 2026-11-03 17:55:13 | [aplan-attest](https://crates.io/crates/aplan-attest) | 0.5.0 | 0 | A tamper-evident record of what a plan proved, bound to a commit. |
+| 2026-11-03 17:57:38 | [filer-refs](https://crates.io/crates/filer-refs) | 0.0.2 | 0 | Read-only ReFS file system driver for the Filer API. |
+| 2026-11-03 18:01:08 | [whycodes-server](https://crates.io/crates/whycodes-server) | 0.6.29 | 0 | Local HTTP API server for WhyCodes (`whycodes serve`) |
+| 2026-11-03 18:02:50 | [dfdu-tree](https://crates.io/crates/dfdu-tree) | 0.4.0 | 0 | Tree of scanned nodes: slots, generational references, sizes and aggregation |
+| 2026-11-03 18:02:52 | [dfdu-rules](https://crates.io/crates/dfdu-rules) | 0.4.0 | 0 | Categories and cleanup rules: the rule schema, loader, built-in pack, protected… |
+| 2026-11-03 18:02:53 | [dfdu-sys](https://crates.io/crates/dfdu-sys) | 0.4.0 | 0 | The OS calls no safe crate provides (btrfs ioctls, FIEMAP, getattrlistbulk and… |
+| 2026-11-03 18:02:54 | [dfdu-clean](https://crates.io/crates/dfdu-clean) | 0.4.0 | 0 | Deletion: plans, verification against the scan, trash and permanent delete, jou… |
+| 2026-11-03 18:02:55 | [dfdu-dupes](https://crates.io/crates/dfdu-dupes) | 0.4.0 | 0 | Duplicate file finder over a scanned tree: size, then partial hash, then full h… |
+| 2026-11-03 18:04:55 | [dfdu-scan](https://crates.io/crates/dfdu-scan) | 0.4.0 | 0 | Scanner: workers, outboxes, backends, byte budget, watchdog, classification on… |
+| 2026-11-03 18:05:14 | [bymm](https://crates.io/crates/bymm) | 0.1.0 | 0 | Cross-platform binary file data storage and manipulation library |
+| 2026-11-03 18:05:16 | [aplan-app](https://crates.io/crates/aplan-app) | 0.5.0 | 0 | Typed application operations shared by aplan delivery adapters. |
+| 2026-11-03 18:07:51 | [filer-squashfs](https://crates.io/crates/filer-squashfs) | 0.0.2 | 0 | Read-only SquashFS file system driver for the Filer API. |
+| 2026-11-03 18:11:32 | [whycodes-shell](https://crates.io/crates/whycodes-shell) | 0.6.29 | 0 | Embedded bash-compatible shell and coreutils for Windows hosts without Git Bash |
+| 2026-11-03 18:13:01 | [dfdu-engine](https://crates.io/crates/dfdu-engine) | 0.4.0 | 0 | The applier (single writer of the tree), jobs, hard links, classifier and measu… |
+| 2026-11-03 18:13:40 | [crabby_ecs](https://crates.io/crates/crabby_ecs) | 1.0.0 | 0 | The entity-component-system behind Crabby Engine: archetype storage, runtime-re… |
+| 2026-11-03 18:13:42 | [crabbyengine](https://crates.io/crates/crabbyengine) | 1.0.0 | 0 | A fast 2D game engine for simulating millions of things: ECS on all cores, hot… |
+| 2026-11-03 18:13:44 | [crabby_ffi](https://crates.io/crates/crabby_ffi) | 1.0.0 | 0 | C API for Crabby Engine; include/crabby.hpp wraps it for C++17. |
+| 2026-11-03 18:13:45 | [crabby_mcp](https://crates.io/crates/crabby_mcp) | 1.0.0 | 0 | MCP server that lets AI agents inspect and drive running Crabby Engine games |
+| 2026-11-03 18:15:12 | [aplan-tui](https://crates.io/crates/aplan-tui) | 0.5.0 | 0 | Interactive terminal interface for aplan. |
+| 2026-11-03 18:17:00 | [filer-ufs](https://crates.io/crates/filer-ufs) | 0.0.2 | 0 | Read-only UFS (BSD FFS) file system driver for the Filer API. |
 
 ## Data source
 
