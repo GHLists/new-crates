@@ -1,0 +1,54 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T18:21:48.947265Z,whycodes-slop,0.6.29,0,0,https://github.com/whycorporation/whycodes,Deterministic code-sloppiness metrics for WhyCodes
+2026-11-03T18:23:11.481896Z,dfdu-update,0.4.0,0,0,https://github.com/jordond/dfdu,"Updates: the latest release, its assets checked against their published SHA-256, the CLI's archive unpacked, a running binary replaced, and how this copy was installed"
+2026-11-03T18:23:40.673884Z,typedids,0.1.0,0,0,https://github.com/WyattAu/typed-id,Type-safe ID newtypes via derive macro
+2026-11-03T18:25:12.891261Z,aplan-mcp,0.5.0,0,0,https://github.com/asamarts/aplan,MCP server for aplan: a deliberately small tool surface over the same evidence gate.
+2026-11-03T18:27:16.499099Z,filer-zfs,0.0.2,0,0,https://github.com/artob/filer,Read-only ZFS file system driver for the Filer API.
+2026-11-03T18:32:21.6497Z,whycodes-tui,0.6.29,0,0,https://github.com/whycorporation/whycodes,Full-screen terminal UI for WhyCodes (ratatui)
+2026-11-03T18:33:12.49402Z,dfdu-store,0.4.0,0,0,https://github.com/jordond/dfdu,"Persistence: ncdu JSON import and export, snapshots, the scan cache, scan history, zstd, atomic writes"
+2026-11-03T18:35:30.654202Z,aplan,0.5.0,0,0,https://github.com/asamarts/aplan,"Spec-driven plan validator: evidence-gated tasks and an acyclic dependency graph, enforceable in CI."
+2026-11-03T18:37:27.380542Z,parcel-plugin,0.1.0,0,0,https://github.com/parcel-bundler/parcel,Rust SDK for building native Parcel plugins
+2026-11-03T18:38:11.573619Z,hstd,0.2.0,0,0,https://github.com/gubsey/hstd,My own personal standard library with features I feel are missing from std.
+2026-11-03T18:38:51.322396Z,keru_layout,0.1.0,0,0,https://github.com/kekelp/keru_layout,UI layout library
+2026-11-03T18:38:52.835979Z,aiface,0.1.0,0,0,https://github.com/DiegoZaluski/co-sh,"Aiface - unified multi-provider LLM client (Claude, OpenAI, Gemini, Copilot and OpenAI-compatible endpoints)"
+2026-11-03T18:39:36.3976Z,nu_plugin_zip,0.1.0+nu-0.116.0,0,0,https://github.com/ChristianLemer/nu_plugin_zip,"Browse zip archives from Nushell like folders — ls, glob and open inside a zip, in memory, never touching disk."
+2026-11-03T18:40:57.568125Z,whycodes-cli,0.6.29,0,0,https://github.com/whycorporation/whycodes,"WhyCodes: a fast, provider-independent coding agent for the terminal"
+2026-11-03T18:42:19.12354Z,keystore-core,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,"Semantic keystore model (entries, passwords, errors, PEM) shared by the keystore format crates"
+2026-11-03T18:42:24.122131Z,keystore-asn1-extra,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,Bouncy Castle ASN.1 modules not covered by the RustCrypto formats crates
+2026-11-03T18:42:27.197264Z,keystore-crypto,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,"KDFs, ciphers and MACs used by the Java keystore formats, bit-exact with Bouncy Castle"
+2026-11-03T18:42:28.747402Z,keystore-pqc,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,Post-quantum key and signature algorithms with X.509/PKCS#8 encodings
+2026-11-03T18:42:32.979827Z,keystore-crypto-extra,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,"HPKE, FPE, PAKE and BLS surfaces for the keystore stack"
+2026-11-03T18:43:11.496776Z,mboxshell,1.3.0,0,0,https://github.com/dcarrero/mboxshell,"Fast terminal viewer for MBOX files of any size. Open, search and export emails from Gmail Takeout backups (50GB+) without loading them into memory."
+2026-11-03T18:43:13.47467Z,dfdu-session,0.4.0,0,0,https://github.com/jordond/dfdu,"What a front end of dfdu shows besides drawing and input: the state of a browser with the view shown, its marks and name filter, the directory snapshot, tree mode, row order, fuzzy matching, the scan…"
+2026-11-03T18:43:56.16106Z,cspx,0.0.1,0,0,https://codeberg.org/wandrak/cspx,"Library offering general-purpose tools, enumerators and solvers for the manipulation and analysis of relational structures, with emphasis on the constraint satisfaction problem (CSP)"
+2026-11-03T18:45:48.294325Z,game-toolkit-platformer,0.1.0,0,0,https://github.com/sunsided/game-toolkit-platformer,"A pluggable platforming controller for game-toolkit: fluid, snappy movement (jump buffer, coyote time, wall jumps, dashes, climbing, rolls, ...) with presets, and an animation state graph that follow…"
+2026-11-03T18:47:47.478178Z,syncsmith,0.2.0,0,0,,"syncsmith keeps files synchronized between a source (git repo or folder) and a target git repository, driven by a .syncsmith.toml file."
+2026-11-03T18:51:28.904508Z,whycodes-function,0.6.29,0,0,https://github.com/whycorporation/whycodes,Function-tool helpers for WhyCodes
+2026-11-03T18:53:13.606081Z,dfdu-tui,0.4.0,0,0,https://github.com/jordond/dfdu,Terminal browser for dfdu
+2026-11-03T18:53:56.515317Z,keystore-jks,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,"JKS, CaseExactJKS and JCEKS keystore reader and writer"
+2026-11-03T18:55:00.312898Z,opencoders,0.1.0,0,0,https://github.com/a-poor/opencoders,Async Rust client for the OpenCode v2 HTTP API
+2026-11-03T18:56:20.848251Z,tpt-kinetix-kg,0.1.2,0,0,https://github.com/tpt-solutions/tpt-kinetix,"Knowledge-graph ingestion, analysis, and code generation tooling"
+2026-11-03T18:56:24.453981Z,tpt-kinetix-av1,0.1.2,0,0,https://github.com/tpt-solutions/tpt-kinetix,AV1 decoder and encoder for the TPT Kinetix media processing engine
+2026-11-03T18:56:26.14838Z,tpt-kinetix-bitstream,0.1.2,0,0,https://github.com/tpt-solutions/tpt-kinetix,"Shared bitstream primitives (BitReader, rANS) for the TPT Kinetix original codecs (lean/vision/realtime)"
+2026-11-03T18:56:32.307465Z,tpt-kinetix-mux,0.1.2,0,0,https://github.com/tpt-solutions/tpt-kinetix,Container muxers (MP4/ISO-BMFF) for the TPT Kinetix media processing engine
+2026-11-03T18:56:34.104659Z,tpt-kinetix-vp9,0.1.2,0,0,https://github.com/tpt-solutions/tpt-kinetix,VP9 video decoder for the TPT Kinetix media processing engine
+2026-11-03T19:01:50.675251Z,tpt-kinetix-face,0.1.2,0,0,https://github.com/tpt-solutions/tpt-kinetix,Face: an original talking-head/video-conferencing codec using landmark-driven parametric synthesis instead of pixel coding
+2026-11-03T19:01:50.960154Z,whycodes-schema,0.6.29,0,0,https://github.com/whycorporation/whycodes,JSON schema validation for WhyCodes
+2026-11-03T19:03:13.511218Z,dfdu,0.4.0,0,0,https://github.com/jordond/dfdu,Disk usage browser for the terminal
+2026-11-03T19:03:41.851562Z,keystore-pki,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,"RSA, ECDSA, EdDSA and DSA signatures, key generation and X.509 parsing for the keystore port"
+2026-11-03T19:11:35.446133Z,stepmesh,0.1.0,0,0,https://github.com/serdarvaran/stepmesh,Pure Rust STEP (ISO 10303-21) reader that turns B-rep solids into watertight triangle meshes
+2026-11-03T19:11:43.217769Z,laks-auth,0.1.0,0,0,https://github.com/geyerandreas/laks,"We don't have a map, but we have momentum. Let's see where this road goes."
+2026-11-03T19:11:43.614511Z,laks-common,0.1.0,0,0,https://github.com/geyerandreas/laks,"We don't have a map, but we have momentum. Let's see where this road goes."
+2026-11-03T19:11:44.130788Z,laks-settings,0.1.0,0,0,https://github.com/geyerandreas/laks,"We don't have a map, but we have momentum. Let's see where this road goes."
+2026-11-03T19:11:44.367498Z,laks-storage,0.1.0,0,0,https://github.com/geyerandreas/laks,"We don't have a map, but we have momentum. Let's see where this road goes."
+2026-11-03T19:11:45.012254Z,laks-appstate,0.1.0,0,0,https://github.com/geyerandreas/laks,"We don't have a map, but we have momentum. Let's see where this road goes."
+2026-11-03T19:11:54.616813Z,tpt-kinetix-lean,0.1.2,0,0,https://github.com/tpt-solutions/tpt-kinetix,"Lean: an original, embedded-first video codec for the TPT Kinetix media processing engine"
+2026-11-03T19:12:13.827726Z,whycodes-sdk,0.6.29,0,0,https://github.com/whycorporation/whycodes,Thin client for the whycodes local daemon (protocol v1)
+2026-11-03T19:13:31.107093Z,keystore-x509,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,"X.509 structures, certificate builders, extensions and RFC 5280 path validation"
+2026-11-03T19:14:41.2108Z,scruff,0.1.0,0,0,https://github.com/eed3si9n/scruff,Scala code formatter
+2026-11-03T19:14:52.304783Z,vastitas,0.1.0-alpha,0,0,https://github.com/MGYamada/Vastitas,The Vastitas compiler
+2026-11-03T19:15:39.470181Z,maplibre-native-next-harfrust,0.15.0,0,0,https://github.com/louwers/maplibre-native-next,harfrust 0.15.0 with the patches maplibre-native-next needs (in patches/)
+2026-11-03T19:15:41.617995Z,maplibre-native-next,0.0.1,0,0,https://github.com/louwers/maplibre-native-next,A Rust port of the MapLibre Native map rendering core
+2026-11-03T19:18:57.226471Z,outlook-pst-fixed,1.2.0,0,0,https://github.com/lwm-luminx/markdown-extract,"Microsoft's outlook-pst 1.2.0 with two fixes for real-world PST files, until they are released upstream"
+2026-11-03T19:18:59.684789Z,mail-markdown,0.1.0,0,0,https://github.com/lwm-luminx/markdown-extract,"Convert email messages (.eml, Apple Mail .emlx) to Markdown with their headers, sender and attachments listed. Pure Rust."
+2026-11-03T19:19:02.682784Z,pdf-markdown,0.1.0,0,0,https://github.com/lwm-luminx/markdown-extract,"Convert PDF documents to Markdown: headings from font sizes, lists, paragraphs, metadata. Pure Rust."
