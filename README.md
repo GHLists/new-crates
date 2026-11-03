@@ -8,52 +8,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 10:20 UTC
+## Latest list — 2026-11-03 11:18 UTC
 
-New crates published between 2026-11-03 09:18 UTC and 2026-11-03 10:20 UTC.
+New crates published between 2026-11-03 10:20 UTC and 2026-11-03 11:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-03T10-20-34-301587Z.csv)
+[Full CSV](data/new-crates-2026-11-03T11-18-22-547854Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-03 09:18:28 | [ulo-db-seaorm](https://crates.io/crates/ulo-db-seaorm) | 0.1.0-alpha.2 | 0 | SeaORM store for Ulo: a DatabaseConnection with the shared connect, health and… |
-| 2026-11-03 09:19:03 | [cnb_metadata_d22b905762dd](https://crates.io/crates/cnb_metadata_d22b905762dd) | 1.0.0+foo | 0 | Build metadata reverse-order protocol regression test. Not for use. |
-| 2026-11-03 09:19:07 | [cnb_metadata_01fd77f19f8a](https://crates.io/crates/cnb_metadata_01fd77f19f8a) | 1.0.0-beta.1 | 0 | Build metadata reverse-order protocol regression test. Not for use. |
-| 2026-11-03 09:19:10 | [cnb_metadata_16643805f3a4](https://crates.io/crates/cnb_metadata_16643805f3a4) | 1.0.0+foo | 0 | Build metadata reverse-order protocol regression test. Not for use. |
-| 2026-11-03 09:20:20 | [mc683xx-debug](https://crates.io/crates/mc683xx-debug) | 0.3.0 | 0 | Loading images and running init scripts on a CPU32 under debug control, over BD… |
-| 2026-11-03 09:24:27 | [torogao-voice](https://crates.io/crates/torogao-voice) | 0.4.0 | 0 | Voice control for Torogao: a deterministic command grammar over the tool regist… |
-| 2026-11-03 09:27:55 | [sail-portfolio](https://crates.io/crates/sail-portfolio) | 0.2.0-rc.1 | 0 | Seed portfolios, racing and fragility scoring |
-| 2026-11-03 09:28:27 | [ulo-health-grpc](https://crates.io/crates/ulo-health-grpc) | 0.1.0-alpha.2 | 0 | The grpc.health.v1 bridge for Ulo health: the overall status written from readi… |
-| 2026-11-03 09:29:25 | [molerat](https://crates.io/crates/molerat) | 0.1.0-rc.0 | 0 | An accessibility & agentic layer for Rust UI applications 🦫 |
-| 2026-11-03 09:37:56 | [sail-session](https://crates.io/crates/sail-session) | 0.2.0-rc.1 | 0 | Model of an interactive solver session: assertion stack, push and pop, options,… |
-| 2026-11-03 09:38:26 | [ulo-health-http](https://crates.io/crates/ulo-health-http) | 0.1.0-alpha.2 | 0 | The Kubernetes probe routes for Ulo health: liveness, readiness and startup ove… |
-| 2026-11-03 09:42:55 | [hypergeometric](https://crates.io/crates/hypergeometric) | 0.1.0 | 0 | Real hypergeometric and Wright special functions in pure Rust |
-| 2026-11-03 09:45:30 | [storage-transfer-lib](https://crates.io/crates/storage-transfer-lib) | 0.1.0 | 0 | Bounded bucket-to-bucket transfers using Apache OpenDAL |
-| 2026-11-03 09:47:56 | [sail-key](https://crates.io/crates/sail-key) | 0.2.0-rc.1 | 0 | Content-addressed key derivation from session state, options and solver identity |
-| 2026-11-03 09:48:27 | [ulo-otel-otlp](https://crates.io/crates/ulo-otel-otlp) | 0.1.0-alpha.2 | 0 | OTLP export over HTTP with protobuf for ulo-otel, on an HTTP client over ureq b… |
-| 2026-11-03 09:49:50 | [finalytics-backtest](https://crates.io/crates/finalytics-backtest) | 1.0.0-rc.1 | 0 | Backtests for Finalytics: allocation strategies through time, in and out of sam… |
-| 2026-11-03 09:52:52 | [rws-base](https://crates.io/crates/rws-base) | 18.26.0 | 0 | The base layer of rust-web-server (internal: use the rust-web-server crate). |
-| 2026-11-03 09:52:57 | [rws-http](https://crates.io/crates/rws-http) | 18.26.0 | 0 | The HTTP layer of rust-web-server (internal: use the rust-web-server crate). |
-| 2026-11-03 09:53:06 | [rws-server](https://crates.io/crates/rws-server) | 18.26.0 | 0 | The server layer of rust-web-server (internal: use the rust-web-server crate). |
-| 2026-11-03 09:53:44 | [rws-acme](https://crates.io/crates/rws-acme) | 18.26.0 | 0 | ACME for rust-web-server: certificates from Let's Encrypt and other ACME CAs (H… |
-| 2026-11-03 09:53:52 | [rws-storage](https://crates.io/crates/rws-storage) | 18.26.0 | 0 | Object storage for rust-web-server: local files, S3, Azure Blob and Google Clou… |
-| 2026-11-03 09:57:56 | [sail-api](https://crates.io/crates/sail-api) | 0.2.0-rc.1 | 0 | Embeddable library API, daemon wire protocol and structured output schema |
-| 2026-11-03 10:02:10 | [blueprint-monorepo-sdk](https://crates.io/crates/blueprint-monorepo-sdk) | 0.0.0-placeholder.1 | 0 | Placeholder release that reserves the crate name for the carlos-space blueprint… |
-| 2026-11-03 10:04:03 | [vti-vtn](https://crates.io/crates/vti-vtn) | 0.1.0 | 0 | The Verifiable Trust Network (VTN) protocol: listings, membership, DTG credenti… |
-| 2026-11-03 10:07:55 | [sail-cache](https://crates.io/crates/sail-cache) | 0.2.0-rc.1 | 0 | Tiered result cache: in-memory, local disk and shared, with integrity checks an… |
-| 2026-11-03 10:09:40 | [rws-wasm-plugin](https://crates.io/crates/rws-wasm-plugin) | 18.26.0 | 0 | WebAssembly plugins for rust-web-server (wasmtime). (internal: use the rust-web… |
-| 2026-11-03 10:09:48 | [rws-proxy](https://crates.io/crates/rws-proxy) | 18.26.0 | 0 | The proxy and operations layer of rust-web-server: reverse proxy, config-driven… |
-| 2026-11-03 10:12:15 | [technogym](https://crates.io/crates/technogym) | 0.1.0 | 0 | Unofficial async client for the Technogym mywellness API: workouts, sets, per-s… |
-| 2026-11-03 10:12:43 | [technogym-mcp](https://crates.io/crates/technogym-mcp) | 0.1.0 | 0 | MCP server for Technogym mywellness: read your gym workouts, sets and treadmill… |
-| 2026-11-03 10:12:57 | [opentide-falco](https://crates.io/crates/opentide-falco) | 0.8.0 | 0 | opentide engine component: I/O-free Falco rule condition engine (Sysdig Secure)… |
-| 2026-11-03 10:13:25 | [oxilite-elpi](https://crates.io/crates/oxilite-elpi) | 0.10.0 | 0 | λProlog (ELPI) programs over oxilite with lean-elpi: goal queries, constraint c… |
-| 2026-11-03 10:13:26 | [oxilite-n3](https://crates.io/crates/oxilite-n3) | 0.10.0 | 0 | Notation3 rules over oxilite with the eyeron reasoner: read-only reasoning and… |
-| 2026-11-03 10:13:39 | [viewport-lib-axis-gizmo](https://crates.io/crates/viewport-lib-axis-gizmo) | 0.1.0 | 0 | Configurable axes indicator for viewport-lib scenes: builds overlay items, hit-… |
-| 2026-11-03 10:14:09 | [jp2lam](https://crates.io/crates/jp2lam) | 0.3.0 | 0 | Pure Rust JPEG 2000 (JP2 and J2K) encoder and focused Part 1 decoder for docume… |
-| 2026-11-03 10:15:06 | [silver_crypto_simd](https://crates.io/crates/silver_crypto_simd) | 0.1.0 | 0 | BLS12-381 and KZG for Ethereum consensus, optimized for x86-64 CPUs with AVX-51… |
-| 2026-11-03 10:15:58 | [exx-sh](https://crates.io/crates/exx-sh) | 0.2.0 | 0 | Rust SDK for the exx.sh email API |
-| 2026-11-03 10:17:55 | [sail-mcp](https://crates.io/crates/sail-mcp) | 0.2.0-rc.1 | 0 | MCP server exposing verification to agents |
-| 2026-11-03 10:20:33 | [rws-gateway-api](https://crates.io/crates/rws-gateway-api) | 18.26.0 | 0 | The Kubernetes Gateway API controller of rust-web-server (kube). (internal: use… |
+| 2026-11-03 10:22:23 | [uae-gold-calculator](https://crates.io/crates/uae-gold-calculator) | 1.0.0 | 0 | Gold value calculator for the UAE: karat prices per gram/tola/ounce, making cha… |
+| 2026-11-03 10:27:55 | [sail-runtime](https://crates.io/crates/sail-runtime) | 0.2.0-rc.1 | 0 | Exact bounded SMT execution for embedded and service clients |
+| 2026-11-03 10:29:48 | [rws-tower](https://crates.io/crates/rws-tower) | 18.26.0 | 0 | Tower interop for rust-web-server: adapters between rws apps and Tower services… |
+| 2026-11-03 10:36:34 | [koshi](https://crates.io/crates/koshi) | 0.1.0 | 0 | Mouse-led terminal multiplexer |
+| 2026-11-03 10:37:52 | [sail-verus](https://crates.io/crates/sail-verus) | 0.2.0-rc.1 | 0 | Verus integration: invocation, version pinning, query-to-function mapping and d… |
+| 2026-11-03 10:42:23 | [ic-logging-storage](https://crates.io/crates/ic-logging-storage) | 0.64.0 | 0 | Optional governed stable checkpoints for IC Logging |
+| 2026-11-03 10:45:14 | [issuerd-mcp](https://crates.io/crates/issuerd-mcp) | 0.2.1 | 0 | Curated Model Context Protocol tools, policy, and transport primitives for the… |
+| 2026-11-03 10:47:45 | [sail-daemon](https://crates.io/crates/sail-daemon) | 0.2.0-rc.1 | 0 | The long-lived service: scheduling, speculation, cancellation and watch mode |
+| 2026-11-03 10:50:54 | [meerkat-machine-codegen](https://crates.io/crates/meerkat-machine-codegen) | 0.9.9 | 0 | Code generation of Meerkat machine kernels and authority modules from machine s… |
+| 2026-11-03 10:55:57 | [gition](https://crates.io/crates/gition) | 0.1.0 | 0 | A Notion-style notebook for the terminal, stored as markdown in git |
+| 2026-11-03 10:57:27 | [sail-shim](https://crates.io/crates/sail-shim) | 0.2.0-rc.1 | 0 | The Z3-compatible binary Verus invokes; falls back to direct Z3 on any service… |
+| 2026-11-03 10:59:32 | [fluentci-executor](https://crates.io/crates/fluentci-executor) | 0.1.0 | 0 | Dependency-aware host process executor for FluentCI |
+| 2026-11-03 10:59:56 | [fluentci-superconsole](https://crates.io/crates/fluentci-superconsole) | 0.3.0 | 0 | FluentCI BSD-compatible fork of Meta SuperConsole |
+| 2026-11-03 11:00:39 | [fluentci-extism-openbsd](https://crates.io/crates/fluentci-extism-openbsd) | 1.21.0 | 0 | Extism runtime and Rust SDK |
+| 2026-11-03 11:06:07 | [wasmgame-wg](https://crates.io/crates/wasmgame-wg) | 0.1.0 | 0 | The wasmga.me native game ABI (wg.h) and smooth drawing (wgfb.h, wgview.h) for… |
+| 2026-11-03 11:07:21 | [sail-solve](https://crates.io/crates/sail-solve) | 0.2.0-rc.1 | 0 | Fast, cached Verus verification for Rust: standalone files, projects, watch and… |
+| 2026-11-03 11:10:12 | [isnady-core](https://crates.io/crates/isnady-core) | 0.7.4 | 0 | isnady's core in Rust: the same database, the same rules as the Python isnady |
+| 2026-11-03 11:10:21 | [isnady](https://crates.io/crates/isnady) | 0.7.4 | 0 | isnady in Rust: hadith search over isnad chains and narrators — the same data,… |
+| 2026-11-03 11:16:24 | [dr-strange-core](https://crates.io/crates/dr-strange-core) | 2.24.4 | 0 | AI-native embedded graph database — storage, cache, computation, and API layers |
+| 2026-11-03 11:16:31 | [dr-strange-log](https://crates.io/crates/dr-strange-log) | 2.24.4 | 0 | Tracing subscriber setup for dr-strange binaries — stderr + rolling file |
+| 2026-11-03 11:16:42 | [dr-strange-net](https://crates.io/crates/dr-strange-net) | 2.24.4 | 0 | Outbound network policy for dr-strange: the proxy a request goes through, and t… |
+| 2026-11-03 11:16:52 | [dr-strange-parser](https://crates.io/crates/dr-strange-parser) | 2.24.4 | 0 | openCypher-subset query language for dr-strange — parses text into a core Logic… |
+| 2026-11-03 11:17:57 | [guardrail-dv](https://crates.io/crates/guardrail-dv) | 1.0.0 | 0 | Deterministic safety checks for LLM-generated prompts, SQL and Python — a pure… |
 
 ## Data source
 

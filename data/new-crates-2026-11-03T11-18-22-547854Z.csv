@@ -1,0 +1,24 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T10:22:23.920404Z,uae-gold-calculator,1.0.0,0,0,https://github.com/nbkdevs/uae-gold-prices,"Gold value calculator for the UAE: karat prices per gram/tola/ounce, making charges, 5% VAT and zakat (85 g nisab). Library + CLI, no dependencies."
+2026-11-03T10:27:55.645897Z,sail-runtime,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,Exact bounded SMT execution for embedded and service clients
+2026-11-03T10:29:48.056283Z,rws-tower,18.26.0,0,0,https://github.com/bohdaq/rust-web-server,Tower interop for rust-web-server: adapters between rws apps and Tower services and layers. (internal: use the rust-web-server crate).
+2026-11-03T10:36:34.167213Z,koshi,0.1.0,0,0,https://github.com/Melon-cream/koshi,Mouse-led terminal multiplexer
+2026-11-03T10:37:52.293945Z,sail-verus,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,"Verus integration: invocation, version pinning, query-to-function mapping and diagnostics"
+2026-11-03T10:42:23.540849Z,ic-logging-storage,0.64.0,0,0,https://github.com/dragginzgame/ic-storage,Optional governed stable checkpoints for IC Logging
+2026-11-03T10:45:14.034016Z,issuerd-mcp,0.2.1,0,0,https://github.com/issuerd/issuerd,"Curated Model Context Protocol tools, policy, and transport primitives for the Issuerd IAM server"
+2026-11-03T10:47:45.620533Z,sail-daemon,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,"The long-lived service: scheduling, speculation, cancellation and watch mode"
+2026-11-03T10:50:54.582718Z,meerkat-machine-codegen,0.9.9,0,0,https://github.com/lukacf/meerkat,Code generation of Meerkat machine kernels and authority modules from machine schemas
+2026-11-03T10:55:57.523227Z,gition,0.1.0,0,0,https://github.com/berkslv/gition,"A Notion-style notebook for the terminal, stored as markdown in git"
+2026-11-03T10:57:27.560548Z,sail-shim,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,The Z3-compatible binary Verus invokes; falls back to direct Z3 on any service failure
+2026-11-03T10:59:32.096286Z,fluentci-executor,0.1.0,0,0,,Dependency-aware host process executor for FluentCI
+2026-11-03T10:59:56.144863Z,fluentci-superconsole,0.3.0,0,0,https://github.com/facebookincubator/superconsole,FluentCI BSD-compatible fork of Meta SuperConsole
+2026-11-03T11:00:39.994105Z,fluentci-extism-openbsd,1.21.0,0,0,https://github.com/extism/extism,Extism runtime and Rust SDK
+2026-11-03T11:06:07.053406Z,wasmgame-wg,0.1.0,0,0,https://github.com/wasmga-me/wasmgame-wg,"The wasmga.me native game ABI (wg.h) and smooth drawing (wgfb.h, wgview.h) for games written in Rust"
+2026-11-03T11:07:21.675729Z,sail-solve,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,"Fast, cached Verus verification for Rust: standalone files, projects, watch and agent workflows"
+2026-11-03T11:10:12.665584Z,isnady-core,0.7.4,0,0,https://github.com/bayramkotan/isnady-rs,"isnady's core in Rust: the same database, the same rules as the Python isnady"
+2026-11-03T11:10:21.754116Z,isnady,0.7.4,0,0,https://github.com/bayramkotan/isnady-rs,"isnady in Rust: hadith search over isnad chains and narrators — the same data, rules and version as the Python isnady"
+2026-11-03T11:16:24.514332Z,dr-strange-core,2.24.4,0,0,https://github.com/wangyingsm/dr-strange,"AI-native embedded graph database — storage, cache, computation, and API layers"
+2026-11-03T11:16:31.689062Z,dr-strange-log,2.24.4,0,0,https://github.com/wangyingsm/dr-strange,Tracing subscriber setup for dr-strange binaries — stderr + rolling file
+2026-11-03T11:16:42.927174Z,dr-strange-net,2.24.4,0,0,https://github.com/wangyingsm/dr-strange,"Outbound network policy for dr-strange: the proxy a request goes through, and the hosts that bypass it"
+2026-11-03T11:16:52.324858Z,dr-strange-parser,2.24.4,0,0,https://github.com/wangyingsm/dr-strange,"openCypher-subset query language for dr-strange — parses text into a core LogicalPlan (arch/00 §5, arch/03 §2)"
+2026-11-03T11:17:57.312405Z,guardrail-dv,1.0.0,0,0,https://github.com/dview-io/guardrail,"Deterministic safety checks for LLM-generated prompts, SQL and Python — a pure library, evaluated in-process."
