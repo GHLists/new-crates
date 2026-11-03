@@ -8,77 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 14:18 UTC
+## Latest list — 2026-11-03 15:18 UTC
 
-New crates published between 2026-11-03 13:18 UTC and 2026-11-03 14:18 UTC.
+New crates published between 2026-11-03 14:18 UTC and 2026-11-03 15:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-03T14-18-20-282078Z.csv)
+[Full CSV](data/new-crates-2026-11-03T15-18-26-994477Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-03 13:20:45 | [arkadia-data](https://crates.io/crates/arkadia-data) | 0.3.1 | 0 | AK-DATA (Arkadia Data Format): Lossless, token-efficient text form of JSON for… |
-| 2026-11-03 13:21:43 | [a7n-proto](https://crates.io/crates/a7n-proto) | 0.8.0 | 0 | Wire protocol, framing and validation for the Apeirogon software KVM |
-| 2026-11-03 13:21:53 | [a7n-core](https://crates.io/crates/a7n-core) | 0.8.0 | 0 | Pure state machines for the Apeirogon software KVM |
-| 2026-11-03 13:22:19 | [gpui-koan-refineable](https://crates.io/crates/gpui-koan-refineable) | 0.2.0+zed.b037f49 | 0 | A macro for creating 'refinement' types that can be used to partially initializ… |
-| 2026-11-03 13:22:19 | [gpui-koan-scheduler](https://crates.io/crates/gpui-koan-scheduler) | 0.2.0+zed.b037f49 | 0 | Zed's `scheduler` crate (gpui-koan snapshot of zed@b037f49) |
-| 2026-11-03 13:22:33 | [a7n-platform](https://crates.io/crates/a7n-platform) | 0.8.0 | 0 | Native desktop backends for the Apeirogon software KVM |
-| 2026-11-03 13:22:44 | [weft-format](https://crates.io/crates/weft-format) | 1.0.1 | 0 | Weft — AI-first textual data format (Rust reference implementation): parse, byt… |
-| 2026-11-03 13:22:54 | [a7n-ipc](https://crates.io/crates/a7n-ipc) | 0.8.0 | 0 | Local daemon API for the Apeirogon software KVM |
-| 2026-11-03 13:23:30 | [apeirogond](https://crates.io/crates/apeirogond) | 0.8.0 | 0 | Daemon for Apeirogon, a cross-platform software KVM |
-| 2026-11-03 13:27:23 | [bun_browser_layout](https://crates.io/crates/bun_browser_layout) | 1.4.8 | 0 | Aphrody fork of Taffy, a flexible UI layout library (flexbox, grid, block, floa… |
-| 2026-11-03 13:28:22 | [bun_browser_render](https://crates.io/crates/bun_browser_render) | 1.4.8 | 0 | Optional scoped render layer for BunBrowser: layout (taffy) and, with the paint… |
-| 2026-11-03 13:29:06 | [bun_browser_js](https://crates.io/crates/bun_browser_js) | 1.4.8 | 0 | Bun browser module bun_browser_js. |
-| 2026-11-03 13:29:20 | [adamo-quinn-proto](https://crates.io/crates/adamo-quinn-proto) | 0.11.17-adamo.1.0.19 | 0 | State machine for the QUIC transport protocol |
-| 2026-11-03 13:29:29 | [bun_browser_browser](https://crates.io/crates/bun_browser_browser) | 1.4.8 | 0 | Bun browser module bun_browser_browser. |
-| 2026-11-03 13:29:37 | [adamo-quinn](https://crates.io/crates/adamo-quinn) | 0.11.11-adamo.1.0.19 | 0 | Versatile QUIC transport protocol implementation |
-| 2026-11-03 13:29:42 | [hushlog-core](https://crates.io/crates/hushlog-core) | 0.1.0-alpha.1 | 0 | Pure pipeline core for hushlog: framing, normalization, fingerprinting, block d… |
-| 2026-11-03 13:29:47 | [bun_browser](https://crates.io/crates/bun_browser) | 1.4.8 | 0 | Rust API for the BunBrowser headless browser |
-| 2026-11-03 13:29:55 | [adamo-web-transport-quinn](https://crates.io/crates/adamo-web-transport-quinn) | 0.12.1-adamo.1.0.19 | 0 | WebTransport library for Quinn |
-| 2026-11-03 13:30:12 | [adamo-auth](https://crates.io/crates/adamo-auth) | 1.0.19 | 0 | Internal support library for the Adamo robot SDK: auth |
-| 2026-11-03 13:30:20 | [hushlog-rules](https://crates.io/crates/hushlog-rules) | 0.1.0-alpha.1 | 0 | TOML rule schema, loader and single-pass RegexSet classifier for hushlog, with… |
-| 2026-11-03 13:30:29 | [adamo-bandwidth](https://crates.io/crates/adamo-bandwidth) | 1.0.19 | 0 | Internal support library for the Adamo robot SDK: adamo-bandwidth |
-| 2026-11-03 13:30:39 | [bun_browser_cdp](https://crates.io/crates/bun_browser_cdp) | 1.4.8 | 0 | Bun browser module bun_browser_cdp. |
-| 2026-11-03 13:30:55 | [hushlog-render](https://crates.io/crates/hushlog-render) | 0.1.0-alpha.1 | 0 | Renderers for hushlog: ANSI TTY, plain text, GitHub Actions folds, GitLab colla… |
-| 2026-11-03 13:31:38 | [hushlog](https://crates.io/crates/hushlog) | 0.1.0-alpha.1 | 0 | The hushlog binary: pipe and wrap modes, byte-exact --tee, and exit-code passth… |
-| 2026-11-03 13:33:04 | [alwith-desktop-shell](https://crates.io/crates/alwith-desktop-shell) | 0.6.0 | 0 | Default native desktop shell for ALwith applications: menus, window chrome, CLI… |
-| 2026-11-03 13:33:25 | [dr-strange-web](https://crates.io/crates/dr-strange-web) | 2.24.5 | 0 | drsg serve — JSON-RPC 2.0 web backend + dashboard for dr-strange (arch/08) |
-| 2026-11-03 13:34:10 | [drsg](https://crates.io/crates/drsg) | 2.24.5 | 0 | drsg — command-line tools for dr-strange (arch/05) |
-| 2026-11-03 13:36:43 | [posebake](https://crates.io/crates/posebake) | 0.1.0 | 0 | Pose skinned glTF models and bake them into static OBJ or GLB meshes with colou… |
-| 2026-11-03 13:36:48 | [adamo-codec](https://crates.io/crates/adamo-codec) | 1.0.19 | 0 | Structured state and record encoding for Adamo's delivery classes |
-| 2026-11-03 13:37:20 | [alwith-chat](https://crates.io/crates/alwith-chat) | 0.6.0 | 0 | ALwith chat: typed Tauri commands for model provider settings and skill documen… |
-| 2026-11-03 13:38:33 | [alwith-auth](https://crates.io/crates/alwith-auth) | 0.6.0 | 0 | ALwith account: typed Tauri commands for token refresh and the desktop vibemon… |
-| 2026-11-03 13:38:38 | [alwith-store](https://crates.io/crates/alwith-store) | 0.6.0 | 0 | ALwith named stores: typed Tauri commands over alwith-module-store's atomic JSO… |
-| 2026-11-03 13:38:46 | [alwith-fs](https://crates.io/crates/alwith-fs) | 0.6.0 | 0 | ALwith filesystem: typed Tauri commands for authorized workspaces, watches and… |
-| 2026-11-03 13:41:18 | [bun_browser_process](https://crates.io/crates/bun_browser_process) | 1.4.8 | 0 | Child processes that never open a console window (Windows); a plain std::proces… |
-| 2026-11-03 13:41:18 | [longtrader-catalog](https://crates.io/crates/longtrader-catalog) | 0.2.1 | 0 | Built-in strategy descriptor catalog for the LongTrader terminal |
-| 2026-11-03 13:43:40 | [sisyfuzz](https://crates.io/crates/sisyfuzz) | 0.1.0 | 0 | A parameter optimisation framework in Rust |
-| 2026-11-03 13:47:57 | [ducy-host](https://crates.io/crates/ducy-host) | 0.4.0 | 0 | Host poker tables and tournaments for remote players: commands in, private view… |
-| 2026-11-03 13:49:07 | [alwith-drive](https://crates.io/crates/alwith-drive) | 0.6.0 | 0 | ALwith Drive: typed Tauri commands, events and a transactional Rust API, backed… |
-| 2026-11-03 13:52:59 | [bun_browser_mcp](https://crates.io/crates/bun_browser_mcp) | 1.4.8 | 0 | Bun browser module bun_browser_mcp. |
-| 2026-11-03 13:54:57 | [a7n](https://crates.io/crates/a7n) | 0.8.0 | 0 | Command-line and terminal interface for the Apeirogon software KVM |
-| 2026-11-03 13:55:08 | [gpui-koan-shared-string](https://crates.io/crates/gpui-koan-shared-string) | 0.2.0+zed.b037f49 | 0 | Zed's `gpui_shared_string` crate (gpui-koan snapshot of zed@b037f49) |
-| 2026-11-03 13:55:08 | [gpui-koan-util](https://crates.io/crates/gpui-koan-util) | 0.2.0+zed.b037f49 | 0 | Zed's `gpui_util` crate (gpui-koan snapshot of zed@b037f49) |
-| 2026-11-03 13:55:09 | [gpui-koan-ztracing-macro](https://crates.io/crates/gpui-koan-ztracing-macro) | 0.2.0+zed.b037f49 | 0 | Zed's `ztracing_macro` crate (gpui-koan snapshot of zed@b037f49) |
-| 2026-11-03 13:56:36 | [a7n-gui](https://crates.io/crates/a7n-gui) | 0.8.0 | 0 | Desktop interface for the Apeirogon software KVM |
-| 2026-11-03 13:59:26 | [alwith-editor](https://crates.io/crates/alwith-editor) | 0.6.0 | 0 | ALwith editor: typed Tauri commands for document parsing, backed by the private… |
-| 2026-11-03 14:03:40 | [bun_browser_service](https://crates.io/crates/bun_browser_service) | 1.4.8 | 0 | Canonical web execution contract for Aphrody OS: OXC analysis, Bun tooling and… |
-| 2026-11-03 14:04:06 | [mere-lsm-tree](https://crates.io/crates/mere-lsm-tree) | 2.10.4 | 0 | Merely's LSM-tree fork with bounded reads, carried in Eidetic. |
-| 2026-11-03 14:04:23 | [aicad](https://crates.io/crates/aicad) | 1.0.0-rc.1 | 0 | A library to solve Constraint satisfaction problems with Multi-valued decision… |
-| 2026-11-03 14:05:00 | [samyama](https://crates.io/crates/samyama) | 1.14.0 | 0 | High-performance distributed graph database with OpenCypher support |
-| 2026-11-03 14:05:09 | [bz](https://crates.io/crates/bz) | 0.5.0 | 0 | Bogenzeit: time as position on the Sun's arc. The reference engine and the bz c… |
-| 2026-11-03 14:06:12 | [samyama-sdk](https://crates.io/crates/samyama-sdk) | 1.14.0 | 0 | Client SDK for Samyama Graph Database — embedded and remote modes |
-| 2026-11-03 14:06:24 | [samyama-convert](https://crates.io/crates/samyama-convert) | 1.14.0 | 0 | Convert graph file formats to and from Samyama's .sgsnap, offline, with a loss… |
-| 2026-11-03 14:06:42 | [samyama-cli](https://crates.io/crates/samyama-cli) | 1.14.0 | 0 | CLI for Samyama Graph Database |
-| 2026-11-03 14:07:34 | [ukit-derive](https://crates.io/crates/ukit-derive) | 0.1.0 | 0 | Derive macros for UKit |
-| 2026-11-03 14:07:35 | [ukit-hash](https://crates.io/crates/ukit-hash) | 0.1.8 | 0 | Non-cryptographic hashing utilities for UKit |
-| 2026-11-03 14:07:36 | [ukit-math](https://crates.io/crates/ukit-math) | 0.1.8 | 0 | Math utilities, vectors, and quaternions for UKit |
-| 2026-11-03 14:07:37 | [ukit-time](https://crates.io/crates/ukit-time) | 0.1.8 | 0 | Floating-point timestamps and durations for UKit |
-| 2026-11-03 14:07:38 | [ukit-uml](https://crates.io/crates/ukit-uml) | 0.1.0 | 0 | Library-agnostic feature encodings for UKit |
-| 2026-11-03 14:08:37 | [bun_browser_engine](https://crates.io/crates/bun_browser_engine) | 1.4.8 | 0 | Bun browser engine commands: CDP server, fetch, scrape, crawl and worker (the `… |
-| 2026-11-03 14:09:53 | [mere-fjall](https://crates.io/crates/mere-fjall) | 2.11.2 | 0 | Merely's Fjall fork with bounded reads and recovery, carried in Eidetic. |
-| 2026-11-03 14:09:55 | [alwith-extension](https://crates.io/crates/alwith-extension) | 0.6.0 | 0 | ALwith extensions: typed Tauri commands, native picker grants, window identity… |
-| 2026-11-03 14:14:05 | [redis-me-rs](https://crates.io/crates/redis-me-rs) | 1.8.1 | 0 | Redis driver for Rust. RedisME fork with X.509 v1 client certificates and Conne… |
-| 2026-11-03 14:14:59 | [ukit-collections](https://crates.io/crates/ukit-collections) | 0.1.8 | 0 | Fixed-capacity and slab-based collection types for UKit |
+| 2026-11-03 14:20:19 | [alwith-browser](https://crates.io/crates/alwith-browser) | 0.6.0 | 0 | ALwith browser bridge: typed Tauri commands registering the Chromium native mes… |
+| 2026-11-03 14:20:52 | [edgefirst-kernels](https://crates.io/crates/edgefirst-kernels) | 0.38.2 | 0 | Quantized and floating-point compute kernels (softmax, LUT, sigmoid, DFL) for e… |
+| 2026-11-03 14:23:15 | [bun_browser_frames](https://crates.io/crates/bun_browser_frames) | 1.4.8 | 0 | MPEG-7 ColorLayout frame indexing and trace.moe client for Bun. |
+| 2026-11-03 14:25:20 | [clarity-ui](https://crates.io/crates/clarity-ui) | 0.1.0 | 0 | Clarity.UI: Clarity's own UI framework, drawn with Skia, the one library behind… |
+| 2026-11-03 14:30:40 | [alwith-computer](https://crates.io/crates/alwith-computer) | 0.6.0 | 0 | ALwith computer use: typed Tauri commands for the shared computer driver, gatew… |
+| 2026-11-03 14:31:57 | [impish-core](https://crates.io/crates/impish-core) | 0.6.2 | 0 | The Contract's README format, shared by cargo-impish and #[impish::contract] |
+| 2026-11-03 14:31:58 | [impish](https://crates.io/crates/impish) | 0.6.2 | 0 | #[impish::contract]: the attribute that marks a contract test |
+| 2026-11-03 14:32:00 | [cargo-impish](https://crates.io/crates/cargo-impish) | 0.6.2 | 0 | The Contract gate for Rust, after Impatient Programming |
+| 2026-11-03 14:36:52 | [aphrody-mcp-client](https://crates.io/crates/aphrody-mcp-client) | 1.4.7 | 0 | Model Context Protocol client for Aphrody: the single MCP client of the workspa… |
+| 2026-11-03 14:41:01 | [alwith-device](https://crates.io/crates/alwith-device) | 0.6.0 | 0 | ALwith device: typed Tauri commands for managed simulators and emulators, backe… |
+| 2026-11-03 14:42:31 | [gtools](https://crates.io/crates/gtools) | 0.0.1 | 0 | Library offering general-purpose tools, enumerators and algorithms for the mani… |
+| 2026-11-03 14:43:26 | [tendermint-consensus](https://crates.io/crates/tendermint-consensus) | 0.1.0 | 0 | An implementation of the Tendermint state machine in Rust |
+| 2026-11-03 14:47:55 | [aphrody-gemini-runtime](https://crates.io/crates/aphrody-gemini-runtime) | 1.4.7 | 0 | Cross-platform Gemini CLI runtime adapter: detect, version, turn streaming, plu… |
+| 2026-11-03 14:49:01 | [aphrody-google](https://crates.io/crates/aphrody-google) | 1.4.7 | 0 | Aphrody OS Google facade: the Google SDK (bun-os-google) with the Gemini, Antig… |
+| 2026-11-03 14:51:20 | [alwith-gamepad](https://crates.io/crates/alwith-gamepad) | 0.6.0 | 0 | ALwith gamepad: typed Tauri commands for controller mapping, key capture and pe… |
+| 2026-11-03 14:53:20 | [sporran](https://crates.io/crates/sporran) | 0.0.1 | 0 | A persona's wallet on disk: the store adapter for personae's carry model, with… |
+| 2026-11-03 14:54:09 | [smbcloud-ascapi-appgallery](https://crates.io/crates/smbcloud-ascapi-appgallery) | 0.5.1 | 0 | Huawei AppGallery Connect API: Service Account (PS256 JWT) authentication and t… |
+| 2026-11-03 14:54:25 | [smbcloud-ascapi-msstore](https://crates.io/crates/smbcloud-ascapi-msstore) | 0.5.1 | 0 | Microsoft Store submission API v1.0: store listing text on an MSIX app's submis… |
+| 2026-11-03 15:00:36 | [aphrody-webos-protocol](https://crates.io/crates/aphrody-webos-protocol) | 1.4.7 | 0 | Wire contract of aphrody.com shared by the Rust server and the Rust wasm client… |
+| 2026-11-03 15:01:41 | [alwith-installed-apps](https://crates.io/crates/alwith-installed-apps) | 0.6.0 | 0 | ALwith installed apps: typed Tauri commands for discovering and opening install… |
+| 2026-11-03 15:02:53 | [tributary-framework](https://crates.io/crates/tributary-framework) | 0.1.0 | 0 | A mini-blockchain framework, intended for being embedded into applications |
+| 2026-11-03 15:05:24 | [surrealdb-kvs-test](https://crates.io/crates/surrealdb-kvs-test) | 4.0.0 | 0 | A scalable, distributed, collaborative, document-graph database, for the realti… |
+| 2026-11-03 15:09:22 | [kernite-core](https://crates.io/crates/kernite-core) | 0.1.0 | 0 | A kernel as instructions over registers |
+| 2026-11-03 15:09:23 | [kernite-cpu](https://crates.io/crates/kernite-cpu) | 0.1.0 | 0 | What x86 kernels need of the process: the threads a cooperative one runs on, ea… |
+| 2026-11-03 15:09:25 | [kernite-cuda](https://crates.io/crates/kernite-cuda) | 0.1.0 | 0 | The CUDA driver, opened when a GPU is asked for: memory on it, PTX modules, and… |
+| 2026-11-03 15:09:26 | [kernite-lang](https://crates.io/crates/kernite-lang) | 0.1.0 | 0 | The language kernels are written in, in place: a Rust function's body read as i… |
+| 2026-11-03 15:09:31 | [kernite-build](https://crates.io/crates/kernite-build) | 0.1.0 | 0 | What kernite does with a module of kernels: the use cases, and the ports a mach… |
+| 2026-11-03 15:12:00 | [alwith-mobile](https://crates.io/crates/alwith-mobile) | 0.6.0 | 0 | ALwith mobile: typed Tauri commands and host requests for the encrypted phone b… |
+| 2026-11-03 15:13:10 | [aphrody-agent-tools](https://crates.io/crates/aphrody-agent-tools) | 1.4.7 | 0 | Concrete ToolExecutor implementations for the aphrody agent engine: a streaming… |
+| 2026-11-03 15:15:29 | [kernite-compile](https://crates.io/crates/kernite-compile) | 0.1.0 | 0 | The allocator: liveness, register allocation that spills, the frame's layout |
 
 ## Data source
 
