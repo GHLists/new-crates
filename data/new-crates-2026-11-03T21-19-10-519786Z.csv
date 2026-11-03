@@ -1,0 +1,41 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T20:21:11.730109Z,glide-libfabric-sys,0.1.0,0,0,https://github.com/valkey-io/valkey-glide,Libfabric bindings for Valkey GLIDE. This crate isn't intended to be used directly.
+2026-11-03T20:21:21.151225Z,keystore-bc,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,"BKS, BKS v1, UBER and BCFKS keystore reader and writer, including signed BCFKS stores"
+2026-11-03T20:21:22.140785Z,keystore-cmp,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,"CMP, CRMF and CMC certificate management messages"
+2026-11-03T20:21:24.755796Z,keystore-cms,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,"CMS (PKCS#7) structures, signing, verification and enveloped data, including BER input"
+2026-11-03T20:21:26.081189Z,keystore-est,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,RFC 7030 EST protocol with a caller-supplied HTTP transport
+2026-11-03T20:21:27.204748Z,keystore-ocsp,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,"OCSP request, response, responder and verification for RFC 6960"
+2026-11-03T20:21:37.912982Z,tpt-kinetix-pipeline,0.1.2,0,0,https://github.com/tpt-solutions/tpt-kinetix,Lock-free multi-stage processing pipeline for the TPT Kinetix engine
+2026-11-03T20:21:59.846879Z,contractdag,0.1.2,0,0,https://github.com/Etavioxy/contractdag-preview,Model types and parser for .contractdag contract declarations
+2026-11-03T20:22:27.105698Z,rgy-vendored-adapters-office,0.1.8,0,0,https://github.com/danalec/rgy,"rgx adapters for Office/OpenDocument/e-book containers, parsed in-process (zip + XML strip, no external tools)"
+2026-11-03T20:24:57.221976Z,glide-rdma,0.1.0,0,0,https://github.com/valkey-io/valkey-glide,RDMA support for Valkey GLIDE. This crate isn't intended to be used directly.
+2026-11-03T20:27:12.999253Z,wotoi,0.1.0,0,0,https://github.com/RipInPease/wotoi,A very bad and possibly useless issue tracker
+2026-11-03T20:31:38.952261Z,tpt-kinetix-stream,0.1.2,0,0,https://github.com/tpt-solutions/tpt-kinetix,"Async streaming output (RTMP push, HLS packaging) for the TPT Kinetix engine"
+2026-11-03T20:32:03.184623Z,wshapnin-macros,0.1.0,0,0,https://github.com/princteq/wshapnin-sdk,The #[track] attribute of the wshapnin crate.
+2026-11-03T20:32:16.302166Z,wshapnin,0.1.0,0,0,https://github.com/princteq/wshapnin-sdk,"Measure your functions and HTTP routes: p50/p95/p99, errors and what runs inside what, per minute and per version, and find the release that made something slower."
+2026-11-03T20:32:25.266956Z,rgy-vendored-adapters-docs,0.1.8,0,0,https://github.com/danalec/rgy,"rgx adapters that shell out to external tools (soffice, tesseract) when present on PATH"
+2026-11-03T20:35:21.379054Z,pylint-gajaguar,3.0.0,0,0,https://github.com/gajaguar/pylint-gajaguar,The pylint-gajaguar rules as a ferrolint WASM plugin
+2026-11-03T20:38:28.208867Z,outlook-pst-ost,1.3.0,0,0,https://github.com/lwm-luminx/markdown-extract,"Microsoft's outlook-pst 1.2.0 with fixes for real-world PST files and the Outlook 2013 OST layout, until they are released upstream"
+2026-11-03T20:39:22.747206Z,tuffet,0.1.0,0,0,https://github.com/rf-signing-experiment/tuffet,A client library for The Update Framework (TUF)
+2026-11-03T20:39:24.689888Z,tuffet-http,0.1.0,0,0,https://github.com/rf-signing-experiment/tuffet,"An HTTP transport for the tuffet TUF client, built on reqwest"
+2026-11-03T20:41:41.616488Z,tpt-kinetix-cli,0.1.2,0,0,https://github.com/tpt-solutions/tpt-kinetix,Command-line interface for the TPT Kinetix media processing engine
+2026-11-03T20:44:13.223816Z,hadome,0.1.1,0,0,https://github.com/rerorets/hadome,Reports the violations a change adds and the tests it weakens.
+2026-11-03T20:44:22.89458Z,rocky-sqlite-opfs,0.1.0-alpha.1,0,0,https://github.com/BierDav/rocky,Rocky's fork of sqlite-wasm-vfs 0.2: an OPFS SQLite VFS whose WAL works across connections
+2026-11-03T20:44:32.122007Z,rocky-platform,0.1.0-alpha.1,0,0,https://github.com/BierDav/rocky,"Tasks, timers and files on each Rocky target: native, or a browser's dedicated Worker"
+2026-11-03T20:47:23.032655Z,todex,0.1.1,0,0,https://github.com/kaliv0/todex-rs.git,CLI TODO extractor
+2026-11-03T20:50:15.045337Z,keystore-openpgp,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,OpenPGP bridge backed by Sequoia's RustCrypto implementation
+2026-11-03T20:51:42.210403Z,keystore-pqc-extra,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,HQC and Falcon/FN-DSA surfaces built on the available Rust crates
+2026-11-03T20:54:16.193372Z,keystore-tsp,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,RFC 3161 time-stamp protocol and ERS evidence records
+2026-11-03T20:55:37.23815Z,keystore-tls,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,rustls identity and trust-store bridge for keystore-rs
+2026-11-03T20:59:26.660744Z,muman-core,0.0.1,0,0,https://github.com/jeggao/muman,"muman's lowest layer: source keys, paths, platform, atomic writes, the runner and the store. Part of muman; not usable on its own yet."
+2026-11-03T20:59:28.838028Z,muman-media,0.0.1,0,0,https://github.com/jeggao/muman,"muman's media layer: probing, measuring, fingerprints, loudness and tag reading and writing. Part of muman; not usable on its own yet."
+2026-11-03T20:59:30.982734Z,muman-net,0.0.1,0,0,https://github.com/jeggao/muman,"muman's network layer: yt-dlp, aria2c and the lyrics, MusicBrainz, AcoustID and cover providers. Part of muman; not usable on its own yet."
+2026-11-03T20:59:32.124889Z,muman-config,0.0.1,0,0,https://github.com/jeggao/muman,"muman's configuration layer: the song list, its settings, editions and hooks. Part of muman; not usable on its own yet."
+2026-11-03T20:59:34.361118Z,muman-engine,0.0.1,0,0,https://github.com/jeggao/muman,"muman's engine: resolving songs to plans, reconciling and rendering the library. Part of muman; not usable on its own yet."
+2026-11-03T21:03:33.977087Z,sam3rs,0.1.0,0,0,https://github.com/avencera/sam3rs,"Native Rust/CUDA runtime for Meta SAM 3 image segmentation with text, box and point prompts"
+2026-11-03T21:04:45.488083Z,xfetch-api-common,0.3.0,0,0,https://github.com/xfetch-cli/api,"Shared protocol, IO, frame and timeout primitives for the xfetch addon SDKs"
+2026-11-03T21:04:49.278276Z,keystore-mail,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,S/MIME mail bridge: MIME parsing and CMS signing/verification
+2026-11-03T21:06:48.449077Z,guinea-profile,0.35.0,0,0,https://github.com/guinea-rs/guinea,"Record CPU samples, allocations and causal Guinea events in Perfetto"
+2026-11-03T21:12:44.412335Z,keystore,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,"Pure-Rust reader and writer for the Java keystore formats: JKS, JCEKS, PKCS#12, BKS, UBER and BCFKS"
+2026-11-03T21:15:48.250837Z,safelink,0.1.0,0,0,https://github.com/CrupanshuUdani/agent-grafter,"Explicit, non-guessing link materialization for Windows, macOS and Linux"
+2026-11-03T21:15:51.456006Z,agent-grafter,0.1.0,0,0,https://github.com/CrupanshuUdani/agent-grafter,CLI that materializes declared AI agent config/state file pairs across Windows/macOS/Linux
