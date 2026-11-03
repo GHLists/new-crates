@@ -8,51 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 02:18 UTC
+## Latest list — 2026-11-03 03:18 UTC
 
-New crates published between 2026-11-03 01:19 UTC and 2026-11-03 02:18 UTC.
+New crates published between 2026-11-03 02:18 UTC and 2026-11-03 03:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-03T02-18-39-388301Z.csv)
+[Full CSV](data/new-crates-2026-11-03T03-18-43-260195Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-03 01:21:17 | [script-wire](https://crates.io/crates/script-wire) | 0.0.1 | 0 | Runtime for script-witgen's bindings: wRPC's value encoding and blocking transp… |
-| 2026-11-03 01:22:37 | [script-witgen](https://crates.io/crates/script-witgen) | 0.0.1 | 0 | Generates native Rust bindings for a WIT interface over script-wire. A build-de… |
-| 2026-11-03 01:24:05 | [cargo-nuttx](https://crates.io/crates/cargo-nuttx) | 0.0.3 | 0 | A cargo subcommand for building NuttX-based embedded projects into firmware ima… |
-| 2026-11-03 01:34:39 | [htlk-executable](https://crates.io/crates/htlk-executable) | 0.1.0 | 0 | Canonical HTLK executable model, bounded CBOR and JSON, digests, and envelopes |
-| 2026-11-03 01:35:00 | [htlk-analyzer](https://crates.io/crates/htlk-analyzer) | 0.1.0 | 0 | Shared semantic analysis and offline schema preparation for HTLK executables |
-| 2026-11-03 01:35:07 | [htlk-compiler](https://crates.io/crates/htlk-compiler) | 0.1.0 | 0 | HTLK IR compilation, source modules, inspection, and graph composition |
-| 2026-11-03 01:35:57 | [htlk-runtime](https://crates.io/crates/htlk-runtime) | 0.1.0 | 0 | HTLK native runtime admission, checked expression execution, and actor foundati… |
-| 2026-11-03 01:36:09 | [htlk](https://crates.io/crates/htlk) | 0.1.0 | 0 | A facade for the Harness Toolkit compiler and actor-based runtime |
-| 2026-11-03 01:40:31 | [gilia-windows](https://crates.io/crates/gilia-windows) | 0.0.1 | 0 | Windows audio, COM, and synchronization utilities |
-| 2026-11-03 01:40:36 | [gilia-engine](https://crates.io/crates/gilia-engine) | 0.0.1 | 0 | Media playback engine |
-| 2026-11-03 01:40:40 | [gilia](https://crates.io/crates/gilia) | 0.0.1 | 0 | Media playback library |
-| 2026-11-03 01:43:42 | [ravenrs-app-derive](https://crates.io/crates/ravenrs-app-derive) | 27.1.8 | 0 | The derives of ravenrs-app: declare a business object as a Rust struct. |
-| 2026-11-03 01:43:57 | [ravenrs-app-sqlite](https://crates.io/crates/ravenrs-app-sqlite) | 27.1.8 | 0 | Records of a RavenRS business application in SQLite: on tables it creates, or o… |
-| 2026-11-03 01:44:12 | [turnkey_jwt_verify](https://crates.io/crates/turnkey_jwt_verify) | 0.17.1-alpha.0 | 0 | Strict compact JWS parsing and ES256 verification for Turnkey-signed JWTs |
-| 2026-11-03 01:44:25 | [ravenrs-app-report](https://crates.io/crates/ravenrs-app-report) | 27.1.8 | 0 | Reports of the lists of a RavenRS business application: an action that lays out… |
-| 2026-11-03 01:44:32 | [turnkey_jwt_profiles](https://crates.io/crates/turnkey_jwt_profiles) | 0.17.1-alpha.0 | 0 | Verify Turnkey JWT profiles, such as http-authz/v1 request-bound JWTs |
-| 2026-11-03 01:44:38 | [muster-linear](https://crates.io/crates/muster-linear) | 0.1.1 | 0 | A command-line client for Linear, for coding agents first: JSON Lines out, an e… |
-| 2026-11-03 01:50:35 | [jali](https://crates.io/crates/jali) | 0.1.0 | 0 | Lattice-based zero-knowledge proofs in Rust: the LNP22 proof system (ePrint 202… |
-| 2026-11-03 01:57:41 | [aauth-rust-jose](https://crates.io/crates/aauth-rust-jose) | 0.1.0-alpha.26 | 0 | Ed25519, ECDSA and RSA JWKs, signing keys, external signers and thumbprints, an… |
-| 2026-11-03 01:57:51 | [aauth-rust-signature-key](https://crates.io/crates/aauth-rust-signature-key) | 0.1.0-alpha.26 | 0 | Buffered HTTP Message Signatures with inline, JWT, jkt-jwt, self-jwt, direct JW… |
-| 2026-11-03 01:57:56 | [aauth-rust-budgets](https://crates.io/crates/aauth-rust-budgets) | 0.1.0-alpha.26 | 0 | AAuth Budgets: budget objects, narrowing, metering, and usage counters |
-| 2026-11-03 01:58:09 | [aauth-rust-core](https://crates.io/crates/aauth-rust-core) | 0.1.0-alpha.26 | 0 | AAuth identifiers, token verification and trusted issuer key snapshots |
-| 2026-11-03 01:58:23 | [aauth-rust-r3](https://crates.io/crates/aauth-rust-r3) | 0.1.0-alpha.26 | 0 | AAuth Rich Resource Requests: vocabularies, authoritative definitions, document… |
-| 2026-11-03 01:59:17 | [rlx-libm](https://crates.io/crates/rlx-libm) | 0.2.20 | 0 | glibc 2.43's libm (x86_64 FMA variants) reproduced bit-for-bit in pure Rust: ex… |
-| 2026-11-03 01:59:24 | [rlx-mcu](https://crates.io/crates/rlx-mcu) | 0.2.20 | 0 | no_std building blocks for ML models on MCUs: in-place model files, int8/int4 m… |
-| 2026-11-03 01:59:35 | [rlx-fastmath](https://crates.io/crates/rlx-fastmath) | 0.2.20 | 0 | Accurate vectorized f32 exp / log / tanh in pure Rust (NEON on aarch64): <= 1.3… |
-| 2026-11-03 01:59:40 | [rlx-spectral](https://crates.io/crates/rlx-spectral) | 0.2.20 | 0 | Spectral front-ends in pure Rust, generic over precision (f32 / f64): FFT plans… |
-| 2026-11-03 02:01:22 | [bern-protocol](https://crates.io/crates/bern-protocol) | 0.1.0 | 0 | UI-independent schema for Bern commands, state, values and sessions |
-| 2026-11-03 02:01:41 | [bern-command](https://crates.io/crates/bern-command) | 0.1.0 | 0 | Command catalog host shared by the UI, CLI, JSON and MCP entries |
-| 2026-11-03 02:01:45 | [bern-ir](https://crates.io/crates/bern-ir) | 0.1.0 | 0 | Versioned, platform-independent intermediate representation of Bern applications |
-| 2026-11-03 02:01:48 | [bern-media](https://crates.io/crates/bern-media) | 0.1.0 | 0 | Media contract: sources, player identity, standard media commands and state, ex… |
-| 2026-11-03 02:01:55 | [bern-syntax](https://crates.io/crates/bern-syntax) | 0.1.0 | 0 | Shared parser for Bern declarations, used by the macros and the build tool |
-| 2026-11-03 02:08:32 | [aauth-rust-supervision-server](https://crates.io/crates/aauth-rust-supervision-server) | 0.1.0-alpha.26 | 0 | AAuth supervision server: signed decisions, standing reach and event records fo… |
-| 2026-11-03 02:09:39 | [agent-framework-claude](https://crates.io/crates/agent-framework-claude) | 0.15.0 | 0 | Claude Agent SDK agent (the Claude Code CLI as an agent) for agent-framework-rs |
-| 2026-11-03 02:10:12 | [oime-imc](https://crates.io/crates/oime-imc) | 0.0.1 | 0 | Zero-dependency parser and typed conversion for the Imc configuration format |
-| 2026-11-03 02:10:54 | [oime-string](https://crates.io/crates/oime-string) | 0.0.1 | 0 | A small, safe-Rust static byte-key trie with radix path compression, LOUDS, and… |
-| 2026-11-03 02:12:05 | [bern-macros](https://crates.io/crates/bern-macros) | 0.1.0 | 0 | Procedural macros for Bern declarations |
+| 2026-11-03 02:18:42 | [aauth-rust-agent](https://crates.io/crates/aauth-rust-agent) | 0.1.0-alpha.26 | 0 | Sign AAuth Agent requests using caller-owned keys and exact token bytes |
+| 2026-11-03 02:19:40 | [agent-framework-duckdb](https://crates.io/crates/agent-framework-duckdb) | 0.15.0 | 0 | DuckDB vector store for agent-framework (experimental: VECTOR_STORES) |
+| 2026-11-03 02:19:53 | [agent-framework-sql-server](https://crates.io/crates/agent-framework-sql-server) | 0.15.0 | 0 | SQL Server vector store for agent-framework (experimental: VECTOR_STORES) |
+| 2026-11-03 02:20:32 | [agent-framework-mongodb](https://crates.io/crates/agent-framework-mongodb) | 0.15.0 | 0 | MongoDB vector store for agent-framework (experimental: VECTOR_STORES) |
+| 2026-11-03 02:21:15 | [agent-framework-postgres](https://crates.io/crates/agent-framework-postgres) | 0.15.0 | 0 | PostgreSQL + pgvector vector store for agent-framework (experimental: VECTOR_ST… |
+| 2026-11-03 02:21:15 | [raims](https://crates.io/crates/raims) | 0.1.1 | 0 | Official Rust SDK for the Raims public API |
+| 2026-11-03 02:21:21 | [agent-framework-qdrant](https://crates.io/crates/agent-framework-qdrant) | 0.15.0 | 0 | Qdrant vector store for agent-framework (experimental: VECTOR_STORES) |
+| 2026-11-03 02:22:09 | [bern-runtime](https://crates.io/crates/bern-runtime) | 0.1.0 | 0 | UI session runtime: windows, session drafts and session command routing |
+| 2026-11-03 02:24:10 | [wist-cred-peer](https://crates.io/crates/wist-cred-peer) | 0.1.0 | 0 | Verifier-side (X) runtime for wist-cred: receive credential digests over mutual… |
+| 2026-11-03 02:25:42 | [ducy-bots](https://crates.io/crates/ducy-bots) | 0.1.0 | 0 | Poker bots for ducy-play: personality bots, hand reading, a small neural-net bo… |
+| 2026-11-03 02:25:45 | [pencere-editor](https://crates.io/crates/pencere-editor) | 0.4.0 | 0 | The editor of text of pencere's native views: a document, its selections, its h… |
+| 2026-11-03 02:26:22 | [pencere-drive](https://crates.io/crates/pencere-drive) | 0.4.0 | 0 | The drive of a page of pencere's native views: what the person does told to the… |
+| 2026-11-03 02:26:35 | [agent-framework-azure-documentdb](https://crates.io/crates/agent-framework-azure-documentdb) | 0.15.0 | 0 | Azure DocumentDB (MongoDB vCore) vector store for agent-framework (experimental… |
+| 2026-11-03 02:28:48 | [aauth-rust-agent-provider](https://crates.io/crates/aauth-rust-agent-provider) | 0.1.0-alpha.26 | 0 | Host-controlled AAuth Agent token issuance, public discovery documents, the Eve… |
+| 2026-11-03 02:30:59 | [bkmpw](https://crates.io/crates/bkmpw) | 0.2.9 | 0 | Rust CLI for packwiz-style modpack maintenance and distribution |
+| 2026-11-03 02:31:39 | [nego](https://crates.io/crates/nego) | 0.0.1 | 0 | negotiation pipe fork spawn stdin stdout |
+| 2026-11-03 02:32:12 | [bern-script](https://crates.io/crates/bern-script) | 0.1.0 | 0 | Target-selected JavaScript contexts for Bern applications |
+| 2026-11-03 02:34:33 | [rightkit-privileged-helper](https://crates.io/crates/rightkit-privileged-helper) | 0.1.0 | 0 | Elevation broker for root-owned uninstall moves: parks paths for a trusted UI t… |
+| 2026-11-03 02:36:38 | [agent-framework-foundry-hosting](https://crates.io/crates/agent-framework-foundry-hosting) | 0.15.0 | 0 | Host agents and workflows as Azure AI Foundry hosted agents (Responses and Invo… |
+| 2026-11-03 02:38:05 | [boatramp-connect-frame](https://crates.io/crates/boatramp-connect-frame) | 0.52.0 | 0 | Connect / gRPC-web wire-framing codec (5-byte length-prefixed envelope + Connec… |
+| 2026-11-03 02:38:11 | [boatramp-connect-client](https://crates.io/crates/boatramp-connect-client) | 0.52.0 | 0 | boatramp Connect / gRPC-web client shim: invoke a Connect unary / server-stream… |
+| 2026-11-03 02:38:55 | [aauth-rust-access-server](https://crates.io/crates/aauth-rust-access-server) | 0.1.0-alpha.26 | 0 | AAuth Access Server grants and deferred authorization with authenticated Person… |
+| 2026-11-03 02:42:30 | [bern](https://crates.io/crates/bern) | 0.1.0 | 0 | Application-facing interface of the Bern framework |
+| 2026-11-03 02:42:40 | [cursorcraft](https://crates.io/crates/cursorcraft) | 0.1.0 | 0 | Minecraft reimagined for terminals. |
+| 2026-11-03 02:46:30 | [ailinkany](https://crates.io/crates/ailinkany) | 0.0.1 | 0 | Placeholder for AiLinkAny: let ChatGPT/Claude/Grok/Codex control your Windows P… |
+| 2026-11-03 02:49:08 | [aauth-rust-person-server](https://crates.io/crates/aauth-rust-person-server) | 0.1.0-alpha.26 | 0 | AAuth Person binding, authorization and immediate call chaining with host polic… |
+| 2026-11-03 02:52:05 | [genet-events](https://crates.io/crates/genet-events) | 0.0.1 | 0 | Engine-neutral DOM event dispatch: listener registry, event path, phases and co… |
+| 2026-11-03 02:52:34 | [bern-adapter-json](https://crates.io/crates/bern-adapter-json) | 0.1.0 | 0 | JSON encoding of Bern control messages, values and schemas |
+| 2026-11-03 02:53:28 | [oime-logger](https://crates.io/crates/oime-logger) | 0.0.1 | 0 | A simple, zero-dependency logging library |
+| 2026-11-03 02:53:54 | [unplugin-app-config-rust](https://crates.io/crates/unplugin-app-config-rust) | 0.1.0 | 0 | 测试 |
+| 2026-11-03 02:54:19 | [libhac](https://crates.io/crates/libhac) | 0.1.0 | 0 | Nintendo Switch file format library (Rust port of LibHac) |
+| 2026-11-03 02:57:17 | [alumina-datetime](https://crates.io/crates/alumina-datetime) | 0.1.0 | 0 | egui widgets for picking dates, periods, times and timestamps: a calendar, time… |
+| 2026-11-03 02:59:23 | [mediax](https://crates.io/crates/mediax) | 0.0.0 | 0 | Hardware-accelerated, permissively licensed video codecs, containers and stream… |
+| 2026-11-03 02:59:33 | [aauth-rust-person-server-redb](https://crates.io/crates/aauth-rust-person-server-redb) | 0.1.0-alpha.26 | 0 | Transactional pure Rust durable storage for AAuth Person Server bindings and ex… |
+| 2026-11-03 03:00:41 | [nsfw-cli](https://crates.io/crates/nsfw-cli) | 0.1.0 | 0 | Nintendo Switch NSP validation and Standard NSP conversion (Rust port of nsfw) |
+| 2026-11-03 03:00:52 | [fuse-nsz](https://crates.io/crates/fuse-nsz) | 0.1.0 | 0 | Read-only FUSE filesystem that shows NSZ/XCZ files as plain NSP/XCI |
+| 2026-11-03 03:02:42 | [bern-transport-ipc](https://crates.io/crates/bern-transport-ipc) | 0.1.0 | 0 | Local IPC control channel that connects external entries to a running engine |
+| 2026-11-03 03:04:02 | [fixed-hash-table](https://crates.io/crates/fixed-hash-table) | 0.0.2 | 0 | Hash tables whose capacity is fixed when they are made, which refuse an insert… |
+| 2026-11-03 03:04:10 | [rc-errors](https://crates.io/crates/rc-errors) | 0.0.2 | 0 | A shared, reference-counted error for no_std code that must not depend on the g… |
+| 2026-11-03 03:09:19 | [mystic-light](https://crates.io/crates/mystic-light) | 0.1.0 | 0 | Direct per-LED control of MSI Mystic Light addressable-RGB (JARGB) headers over… |
+| 2026-11-03 03:09:42 | [aauth-rust-resource](https://crates.io/crates/aauth-rust-resource) | 0.1.0-alpha.26 | 0 | AAuth Resource identity and Person Server authorization before host admission p… |
+| 2026-11-03 03:12:46 | [bern-adapter-cli](https://crates.io/crates/bern-adapter-cli) | 0.1.0 | 0 | Application command line derived from the Bern command catalog |
+| 2026-11-03 03:14:56 | [mediax-core](https://crates.io/crates/mediax-core) | 0.0.0 | 0 | Name reserved for the mediax core crate |
+| 2026-11-03 03:14:58 | [mediax-codec](https://crates.io/crates/mediax-codec) | 0.0.0 | 0 | Name reserved for the mediax codec crate |
+| 2026-11-03 03:15:01 | [mediax-container](https://crates.io/crates/mediax-container) | 0.0.0 | 0 | Name reserved for the mediax container crate |
+| 2026-11-03 03:15:04 | [mediax-streaming](https://crates.io/crates/mediax-streaming) | 0.0.0 | 0 | Name reserved for the mediax streaming crate |
+| 2026-11-03 03:15:06 | [mediax-processing](https://crates.io/crates/mediax-processing) | 0.0.0 | 0 | Name reserved for the mediax processing crate |
 
 ## Data source
 

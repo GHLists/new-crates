@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T02:18:42.375277Z,aauth-rust-agent,0.1.0-alpha.26,0,0,https://gitlab.com/sidecat-dev/aauth-rust,Sign AAuth Agent requests using caller-owned keys and exact token bytes
+2026-11-03T02:19:40.238224Z,agent-framework-duckdb,0.15.0,0,0,https://github.com/codehalwell/agent-framework-rs,DuckDB vector store for agent-framework (experimental: VECTOR_STORES)
+2026-11-03T02:19:53.248462Z,agent-framework-sql-server,0.15.0,0,0,https://github.com/codehalwell/agent-framework-rs,SQL Server vector store for agent-framework (experimental: VECTOR_STORES)
+2026-11-03T02:20:32.160721Z,agent-framework-mongodb,0.15.0,0,0,https://github.com/codehalwell/agent-framework-rs,MongoDB vector store for agent-framework (experimental: VECTOR_STORES)
+2026-11-03T02:21:15.16607Z,agent-framework-postgres,0.15.0,0,0,https://github.com/codehalwell/agent-framework-rs,PostgreSQL + pgvector vector store for agent-framework (experimental: VECTOR_STORES)
+2026-11-03T02:21:15.449868Z,raims,0.1.1,0,0,https://github.com/raimshq/raims-rust,Official Rust SDK for the Raims public API
+2026-11-03T02:21:21.256506Z,agent-framework-qdrant,0.15.0,0,0,https://github.com/codehalwell/agent-framework-rs,Qdrant vector store for agent-framework (experimental: VECTOR_STORES)
+2026-11-03T02:22:09.227325Z,bern-runtime,0.1.0,0,0,https://github.com/AimesSoft/Bern,"UI session runtime: windows, session drafts and session command routing"
+2026-11-03T02:24:10.548671Z,wist-cred-peer,0.1.0,0,0,https://github.com/dayu-sec/wist-cred-peer,Verifier-side (X) runtime for wist-cred: receive credential digests over mutual TLS and keep their own state
+2026-11-03T02:25:42.636341Z,ducy-bots,0.1.0,0,0,https://github.com/allenpiscitello/ducy,"Poker bots for ducy-play: personality bots, hand reading, a small neural-net bot, duplicate matches and bots in any language over JSON."
+2026-11-03T02:25:45.272802Z,pencere-editor,0.4.0,0,0,https://github.com/bateri/pencere,"The editor of text of pencere's native views: a document, its selections, its history and what an input method composes, laid out and drawn in a page's room, the same in every terminal"
+2026-11-03T02:26:22.946159Z,pencere-drive,0.4.0,0,0,https://github.com/bateri/pencere,"The drive of a page of pencere's native views: what the person does told to the page, its frames laid out with its editors and its scrolling, its replies and wakes handed to the host — and a host wit…"
+2026-11-03T02:26:35.846226Z,agent-framework-azure-documentdb,0.15.0,0,0,https://github.com/codehalwell/agent-framework-rs,Azure DocumentDB (MongoDB vCore) vector store for agent-framework (experimental: VECTOR_STORES)
+2026-11-03T02:28:48.483404Z,aauth-rust-agent-provider,0.1.0-alpha.26,0,0,https://gitlab.com/sidecat-dev/aauth-rust,"Host-controlled AAuth Agent token issuance, public discovery documents, the Events inbox, and Bootstrap enrollment, refresh and sub-agent issuance"
+2026-11-03T02:30:59.387791Z,bkmpw,0.2.9,0,0,https://github.com/bro-know-my-org/BroKnowMyPackwiz,Rust CLI for packwiz-style modpack maintenance and distribution
+2026-11-03T02:31:39.925806Z,nego,0.0.1,0,0,https://github.com/nomissbowling/nego-rs,negotiation pipe fork spawn stdin stdout
+2026-11-03T02:32:12.73284Z,bern-script,0.1.0,0,0,https://github.com/AimesSoft/Bern,Target-selected JavaScript contexts for Bern applications
+2026-11-03T02:34:33.197182Z,rightkit-privileged-helper,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Elevation broker for root-owned uninstall moves: parks paths for a trusted UI that asks the owner and the privileged helper, with bounded waits and in-memory state."
+2026-11-03T02:36:38.928293Z,agent-framework-foundry-hosting,0.15.0,0,0,https://github.com/codehalwell/agent-framework-rs,"Host agents and workflows as Azure AI Foundry hosted agents (Responses and Invocations protocols, Foundry state storage)"
+2026-11-03T02:38:05.838854Z,boatramp-connect-frame,0.52.0,0,0,https://github.com/BoatRamp/BoatRamp,"Connect / gRPC-web wire-framing codec (5-byte length-prefixed envelope + Connect/gRPC-web status vocabulary), shared by the boatramp host serving path and the boatramp-connect guest serving shim. No…"
+2026-11-03T02:38:11.56274Z,boatramp-connect-client,0.52.0,0,0,https://github.com/BoatRamp/BoatRamp,"boatramp Connect / gRPC-web client shim: invoke a Connect unary / server-streaming RPC on a live boatramp Connect service. The client-direction analog of the boatramp-connect serving shim, built on t…"
+2026-11-03T02:38:55.288463Z,aauth-rust-access-server,0.1.0-alpha.26,0,0,https://gitlab.com/sidecat-dev/aauth-rust,AAuth Access Server grants and deferred authorization with authenticated Person Server federation and host policy
+2026-11-03T02:42:30.974746Z,bern,0.1.0,0,0,https://github.com/AimesSoft/Bern,Application-facing interface of the Bern framework
+2026-11-03T02:42:40.018636Z,cursorcraft,0.1.0,0,0,https://github.com/thdxg/cursorcraft,Minecraft reimagined for terminals.
+2026-11-03T02:46:30.931127Z,ailinkany,0.0.1,0,0,https://github.com/AiLinkAnyCom/ailinkany,Placeholder for AiLinkAny: let ChatGPT/Claude/Grok/Codex control your Windows PC via MCP. Does not contain the client.
+2026-11-03T02:49:08.580062Z,aauth-rust-person-server,0.1.0-alpha.26,0,0,https://gitlab.com/sidecat-dev/aauth-rust,"AAuth Person binding, authorization and immediate call chaining with host policy and retained state"
+2026-11-03T02:52:05.212047Z,genet-events,0.0.1,0,0,,"Engine-neutral DOM event dispatch: listener registry, event path, phases and composedPath over the scripted-DOM arena."
+2026-11-03T02:52:34.976408Z,bern-adapter-json,0.1.0,0,0,https://github.com/AimesSoft/Bern,"JSON encoding of Bern control messages, values and schemas"
+2026-11-03T02:53:28.160162Z,oime-logger,0.0.1,0,0,https://gitee.com/oime/oime-logger.git,"A simple, zero-dependency logging library"
+2026-11-03T02:53:54.169249Z,unplugin-app-config-rust,0.1.0,0,0,,测试
+2026-11-03T02:54:19.201731Z,libhac,0.1.0,0,0,https://github.com/nsw-rs/libhac,Nintendo Switch file format library (Rust port of LibHac)
+2026-11-03T02:57:17.088358Z,alumina-datetime,0.1.0,0,0,https://github.com/sapphire-turtle/alumina,"egui widgets for picking dates, periods, times and timestamps: a calendar, time drums and picker buttons"
+2026-11-03T02:59:23.307968Z,mediax,0.0.0,0,0,https://github.com/water-rs/mediax,"Hardware-accelerated, permissively licensed video codecs, containers and streaming"
+2026-11-03T02:59:33.019583Z,aauth-rust-person-server-redb,0.1.0-alpha.26,0,0,https://gitlab.com/sidecat-dev/aauth-rust,Transactional pure Rust durable storage for AAuth Person Server bindings and exact credential lineage
+2026-11-03T03:00:41.712751Z,nsfw-cli,0.1.0,0,0,https://github.com/nsw-rs/nsfw,Nintendo Switch NSP validation and Standard NSP conversion (Rust port of nsfw)
+2026-11-03T03:00:52.652815Z,fuse-nsz,0.1.0,0,0,https://github.com/nsw-rs/fuse-nsz,Read-only FUSE filesystem that shows NSZ/XCZ files as plain NSP/XCI
+2026-11-03T03:02:42.151276Z,bern-transport-ipc,0.1.0,0,0,https://github.com/AimesSoft/Bern,Local IPC control channel that connects external entries to a running engine
+2026-11-03T03:04:02.800636Z,fixed-hash-table,0.0.2,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"Hash tables whose capacity is fixed when they are made, which refuse an insert when full rather than grow: no_std and allocation-free by default, with storage on the heap, allocated once, for clients…"
+2026-11-03T03:04:10.117163Z,rc-errors,0.0.2,0,0,https://github.com/MikeGrier/windows-threadpool-sys,"A shared, reference-counted error for no_std code that must not depend on the global allocator: one count, no weak references, and the allocator that made it recorded beside it. Portable."
+2026-11-03T03:09:19.282034Z,mystic-light,0.1.0,0,0,https://github.com/tweldy/mystic-light,Direct per-LED control of MSI Mystic Light addressable-RGB (JARGB) headers over USB HID.
+2026-11-03T03:09:42.328662Z,aauth-rust-resource,0.1.0-alpha.26,0,0,https://gitlab.com/sidecat-dev/aauth-rust,AAuth Resource identity and Person Server authorization before host admission policy
+2026-11-03T03:12:46.48818Z,bern-adapter-cli,0.1.0,0,0,https://github.com/AimesSoft/Bern,Application command line derived from the Bern command catalog
+2026-11-03T03:14:56.038963Z,mediax-core,0.0.0,0,0,https://github.com/water-rs/mediax,Name reserved for the mediax core crate
+2026-11-03T03:14:58.443697Z,mediax-codec,0.0.0,0,0,https://github.com/water-rs/mediax,Name reserved for the mediax codec crate
+2026-11-03T03:15:01.331788Z,mediax-container,0.0.0,0,0,https://github.com/water-rs/mediax,Name reserved for the mediax container crate
+2026-11-03T03:15:04.427385Z,mediax-streaming,0.0.0,0,0,https://github.com/water-rs/mediax,Name reserved for the mediax streaming crate
+2026-11-03T03:15:06.797579Z,mediax-processing,0.0.0,0,0,https://github.com/water-rs/mediax,Name reserved for the mediax processing crate
