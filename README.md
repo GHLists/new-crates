@@ -8,44 +8,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 06:19 UTC
+## Latest list — 2026-11-03 07:19 UTC
 
-New crates published between 2026-11-03 05:18 UTC and 2026-11-03 06:19 UTC.
+New crates published between 2026-11-03 06:19 UTC and 2026-11-03 07:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-03T06-19-39-290364Z.csv)
+[Full CSV](data/new-crates-2026-11-03T07-19-20-380052Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-03 05:19:34 | [fuxth-core](https://crates.io/crates/fuxth-core) | 0.8.0 | 0 | What fuxth's hosts share without its interpreter: failure codes |
-| 2026-11-03 05:19:36 | [fux-wire](https://crates.io/crates/fux-wire) | 0.37.0 | 0 | fux's shared data: requests, answers, records, error codes and the frame codec… |
-| 2026-11-03 05:19:37 | [fux-server](https://crates.io/crates/fux-server) | 0.37.0 | 0 | fux's server: sessions, workspaces, tabs and panes, their programs, and the loo… |
-| 2026-11-03 05:19:38 | [fuxth-run](https://crates.io/crates/fuxth-run) | 0.1.0 | 0 | fuxth, a small Forth for the shell, as a program: files, pipes and a REPL, with… |
-| 2026-11-03 05:21:45 | [pagesift-sink](https://crates.io/crates/pagesift-sink) | 0.90.0 | 0 | pagesift outputs: envelopes, metadata keys, binary cache format. |
-| 2026-11-03 05:24:12 | [bern-ffi](https://crates.io/crates/bern-ffi) | 0.1.0 | 0 | In-process C ABI between native UI frontends and the Bern runtime |
-| 2026-11-03 05:27:49 | [slackers_unit_macro](https://crates.io/crates/slackers_unit_macro) | 0.1.1 | 0 | The macros for slackers_units |
-| 2026-11-03 05:28:42 | [slackers_units](https://crates.io/crates/slackers_units) | 0.1.1 | 0 | A small SI unit crate with compile time unit macros and generic holding types |
-| 2026-11-03 05:30:29 | [cgap-branchless](https://crates.io/crates/cgap-branchless) | 26.11.2 | 0 | Centralized branchless ALU/SWAR/bit-plane mechanics for cgap |
-| 2026-11-03 05:33:39 | [pagesift-engine](https://crates.io/crates/pagesift-engine) | 0.90.0 | 0 | pagesift engine: single-page scrape pipeline (HTTP, rendering, render decisions… |
-| 2026-11-03 05:34:17 | [bern-transport-ws](https://crates.io/crates/bern-transport-ws) | 0.1.0 | 0 | The engine host's browser channel: the WebUI page over HTTP and JSON control me… |
-| 2026-11-03 05:35:26 | [cgap-integration](https://crates.io/crates/cgap-integration) | 26.11.2 | 0 | Cross-crate integration tests: C-ABI roundtrip, alignment law, format-code tabl… |
-| 2026-11-03 05:36:31 | [rsasync](https://crates.io/crates/rsasync) | 0.1.0-alpha.1 | 0 | Currently being migrated. |
-| 2026-11-03 05:36:33 | [rsauthnz](https://crates.io/crates/rsauthnz) | 0.1.0-alpha.1 | 0 | Currently being migrated. |
-| 2026-11-03 05:36:36 | [rsnetwork](https://crates.io/crates/rsnetwork) | 0.1.0-alpha.1 | 0 | Currently being migrated. |
-| 2026-11-03 05:44:42 | [bern-cli](https://crates.io/crates/bern-cli) | 0.1.0 | 0 | `bern`: builds Bern applications for their configured targets |
-| 2026-11-03 05:47:17 | [nizaam-knowledge-graph](https://crates.io/crates/nizaam-knowledge-graph) | 0.1.0 | 0 | A domain-independent knowledge graph engine for representing, validating, stori… |
-| 2026-11-03 05:48:12 | [seiza-pipeline](https://crates.io/crates/seiza-pipeline) | 0.2.0 | 0 | Distributed stacking for Seiza: partial stacks that describe themselves, combin… |
-| 2026-11-03 05:55:37 | [bern-gtk](https://crates.io/crates/bern-gtk) | 0.1.0 | 0 | GTK 4 runtime of the `gtk + linux` target: libadwaita widgets bound to the Bern… |
-| 2026-11-03 06:01:13 | [adaptif-gatotkaca-monoio-macros](https://crates.io/crates/adaptif-gatotkaca-monoio-macros) | 0.2.0 | 0 | Proc macros for adaptif-gatotkaca-monoio (a fork of Monoio): #[monoio::main], #… |
-| 2026-11-03 06:03:45 | [adaptif-gatotkaca-monoio](https://crates.io/crates/adaptif-gatotkaca-monoio) | 0.3.0 | 0 | Stripped-down, Linux-only, io_uring-only thread-per-core async runtime (a fork… |
-| 2026-11-03 06:11:01 | [zipp-cms](https://crates.io/crates/zipp-cms) | 0.1.0 | 0 | A headless cms where the content model is code: an api, a studio, migrations an… |
-| 2026-11-03 06:11:23 | [zipp-seo](https://crates.io/crates/zipp-seo) | 0.1.0 | 0 | SEO for zipp like the Craft plugin meierlabs-seo: settings, seoJson, sitemaps |
-| 2026-11-03 06:11:31 | [zipp-forms](https://crates.io/crates/zipp-forms) | 0.1.0 | 0 | Forms of the website for zipp, like Craft's Contact Form: declared in code, sen… |
-| 2026-11-03 06:13:39 | [rapidproto-build](https://crates.io/crates/rapidproto-build) | 0.1.0-alpha.1 | 0 | Generate Rust protobuf decoders from .proto files in a build script, no protoc… |
-| 2026-11-03 06:16:29 | [feathrise_font_1](https://crates.io/crates/feathrise_font_1) | 0.1.0 | 0 | Noto Sans CJK SC variable font byte segment 1 of 3 for Feathrise |
-| 2026-11-03 06:16:34 | [feathrise_font_2](https://crates.io/crates/feathrise_font_2) | 0.1.0 | 0 | Noto Sans CJK SC variable font byte segment 2 of 3 for Feathrise |
-| 2026-11-03 06:16:37 | [feathrise_font_3](https://crates.io/crates/feathrise_font_3) | 0.1.0 | 0 | Noto Sans CJK SC variable font byte segment 3 of 3 for Feathrise |
-| 2026-11-03 06:16:42 | [feathrise_font](https://crates.io/crates/feathrise_font) | 0.1.0 | 0 | Complete Noto Sans CJK SC variable font for Feathrise |
-| 2026-11-03 06:18:39 | [dev-cleaner-core](https://crates.io/crates/dev-cleaner-core) | 0.3.0 | 0 | Core library for scanning and cleaning developer build artifacts |
+| 2026-11-03 06:27:37 | [walworm](https://crates.io/crates/walworm) | 0.1.0 | 0 | Single-file write-ahead log (WAL) with one writer and many readers: atomic batc… |
+| 2026-11-03 06:31:06 | [rightkit-social-inbox](https://crates.io/crates/rightkit-social-inbox) | 0.1.1 | 0 | Signed social webhook inbox core: constant-time HMAC-SHA256 signature verificat… |
+| 2026-11-03 06:40:35 | [iit4](https://crates.io/crates/iit4) | 0.1.0 | 0 | Integrated Information Theory (IIT) 4.0 library: system and structure integrate… |
+| 2026-11-03 06:41:02 | [rightkit-remote-gateway](https://crates.io/crates/rightkit-remote-gateway) | 0.1.0 | 0 | Remote tools for agents on this computer: files, documents, terminals, processe… |
+| 2026-11-03 06:43:07 | [privateterms](https://crates.io/crates/privateterms) | 0.1.0 | 0 | The Rust SDK of the private-terms specification: declare private terms, then de… |
+| 2026-11-03 06:52:19 | [skylint](https://crates.io/crates/skylint) | 0.1.0 | 0 | Skyline 小程序迁移检查工具 |
+| 2026-11-03 06:57:18 | [ruf4-stdext](https://crates.io/crates/ruf4-stdext) | 0.1.0 | 0 | Arena allocators, collections, SIMD and Unicode helpers used by ruf4, derived f… |
+| 2026-11-03 06:57:25 | [ruf4-lsh](https://crates.io/crates/ruf4-lsh) | 0.1.0 | 0 | Syntax highlighting definition language for ruf4: compiler, code generator and… |
+| 2026-11-03 06:57:35 | [ruf4-tui](https://crates.io/crates/ruf4-tui) | 0.1.0 | 0 | Immediate mode TUI framework for ruf4, derived from Microsoft Edit |
+| 2026-11-03 06:57:44 | [ruf4](https://crates.io/crates/ruf4) | 0.1.0 | 0 | A dual-panel file commander for the terminal, inspired by FAR Manager |
+| 2026-11-03 06:58:37 | [bakelit-macros](https://crates.io/crates/bakelit-macros) | 0.1.0 | 0 | Procedural macros for bakelit. Use the bakelit crate instead. |
+| 2026-11-03 06:58:39 | [bakelit](https://crates.io/crates/bakelit) | 0.1.0 | 0 | Data files (JSON, YAML, TOML, RON, CSV, KDL and more) baked into typed Rust sta… |
+| 2026-11-03 07:09:20 | [aimux-ops](https://crates.io/crates/aimux-ops) | 0.6.0 | 0 | Transport-independent operation dispatch for aimux bindings |
+| 2026-11-03 07:15:09 | [miresidian_format](https://crates.io/crates/miresidian_format) | 0.2.0 | 0 | Miresidian 显式格式编解码增强。 |
 
 ## Data source
 

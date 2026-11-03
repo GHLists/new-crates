@@ -1,0 +1,15 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T06:27:37.776413Z,walworm,0.1.0,0,0,https://github.com/SF-Zhou/walworm,"Single-file write-ahead log (WAL) with one writer and many readers: atomic batches, CRC32C verification, optional buffered writes and Direct I/O."
+2026-11-03T06:31:06.8131Z,rightkit-social-inbox,0.1.1,0,0,https://github.com/bogusyogi/rightkit,"Signed social webhook inbox core: constant-time HMAC-SHA256 signature verification, bounded body decoding, app-secret handling, Meta delivery parsing into bounded events, and keyword matching for com…"
+2026-11-03T06:40:35.61792Z,iit4,0.1.0,0,0,https://github.com/Yatrogenesis/iit4,"Integrated Information Theory (IIT) 4.0 library: system and structure integrated information (phi_s, Phi), distinctions and relations, following Albantakis et al. (2023)"
+2026-11-03T06:41:02.229233Z,rightkit-remote-gateway,0.1.0,0,0,https://github.com/bogusyogi/rightkit,"Remote tools for agents on this computer: files, documents, terminals, processes, screen, app launch, media, clipboard, chat read and start, saved logins and payments; folder confinement, per-chat un…"
+2026-11-03T06:43:07.118704Z,privateterms,0.1.0,0,0,https://github.com/nickderobertis/privateterms,"The Rust SDK of the private-terms specification: declare private terms, then detect, replace or reject them in public text."
+2026-11-03T06:52:19.535139Z,skylint,0.1.0,0,0,https://github.com/wechat-miniprogram/skylint,Skyline 小程序迁移检查工具
+2026-11-03T06:57:18.183702Z,ruf4-stdext,0.1.0,0,0,https://github.com/kromych/ruf4,"Arena allocators, collections, SIMD and Unicode helpers used by ruf4, derived from Microsoft Edit"
+2026-11-03T06:57:25.663785Z,ruf4-lsh,0.1.0,0,0,https://github.com/kromych/ruf4,"Syntax highlighting definition language for ruf4: compiler, code generator and runtime, derived from Microsoft Edit"
+2026-11-03T06:57:35.447656Z,ruf4-tui,0.1.0,0,0,https://github.com/kromych/ruf4,"Immediate mode TUI framework for ruf4, derived from Microsoft Edit"
+2026-11-03T06:57:44.61509Z,ruf4,0.1.0,0,0,https://github.com/kromych/ruf4,"A dual-panel file commander for the terminal, inspired by FAR Manager"
+2026-11-03T06:58:37.132477Z,bakelit-macros,0.1.0,0,0,https://github.com/dahankzter/bakelit,Procedural macros for bakelit. Use the bakelit crate instead.
+2026-11-03T06:58:39.388692Z,bakelit,0.1.0,0,0,https://github.com/dahankzter/bakelit,"Data files (JSON, YAML, TOML, RON, CSV, KDL and more) baked into typed Rust statics at compile time."
+2026-11-03T07:09:20.060987Z,aimux-ops,0.6.0,0,0,,Transport-independent operation dispatch for aimux bindings
+2026-11-03T07:15:09.191057Z,miresidian_format,0.2.0,0,0,https://github.com/MyMires/miresidian,Miresidian 显式格式编解码增强。
