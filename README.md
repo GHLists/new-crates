@@ -8,54 +8,67 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 21:19 UTC
+## Latest list — 2026-11-03 22:20 UTC
 
-New crates published between 2026-11-03 20:20 UTC and 2026-11-03 21:19 UTC.
+New crates published between 2026-11-03 21:19 UTC and 2026-11-03 22:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-03T21-19-10-519786Z.csv)
+[Full CSV](data/new-crates-2026-11-03T22-20-35-520047Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-03 20:21:11 | [glide-libfabric-sys](https://crates.io/crates/glide-libfabric-sys) | 0.1.0 | 0 | Libfabric bindings for Valkey GLIDE. This crate isn't intended to be used direc… |
-| 2026-11-03 20:21:21 | [keystore-bc](https://crates.io/crates/keystore-bc) | 1.0.0 | 0 | BKS, BKS v1, UBER and BCFKS keystore reader and writer, including signed BCFKS… |
-| 2026-11-03 20:21:22 | [keystore-cmp](https://crates.io/crates/keystore-cmp) | 1.0.0 | 0 | CMP, CRMF and CMC certificate management messages |
-| 2026-11-03 20:21:24 | [keystore-cms](https://crates.io/crates/keystore-cms) | 1.0.0 | 0 | CMS (PKCS#7) structures, signing, verification and enveloped data, including BE… |
-| 2026-11-03 20:21:26 | [keystore-est](https://crates.io/crates/keystore-est) | 1.0.0 | 0 | RFC 7030 EST protocol with a caller-supplied HTTP transport |
-| 2026-11-03 20:21:27 | [keystore-ocsp](https://crates.io/crates/keystore-ocsp) | 1.0.0 | 0 | OCSP request, response, responder and verification for RFC 6960 |
-| 2026-11-03 20:21:37 | [tpt-kinetix-pipeline](https://crates.io/crates/tpt-kinetix-pipeline) | 0.1.2 | 0 | Lock-free multi-stage processing pipeline for the TPT Kinetix engine |
-| 2026-11-03 20:21:59 | [contractdag](https://crates.io/crates/contractdag) | 0.1.2 | 0 | Model types and parser for .contractdag contract declarations |
-| 2026-11-03 20:22:27 | [rgy-vendored-adapters-office](https://crates.io/crates/rgy-vendored-adapters-office) | 0.1.8 | 0 | rgx adapters for Office/OpenDocument/e-book containers, parsed in-process (zip… |
-| 2026-11-03 20:24:57 | [glide-rdma](https://crates.io/crates/glide-rdma) | 0.1.0 | 0 | RDMA support for Valkey GLIDE. This crate isn't intended to be used directly. |
-| 2026-11-03 20:27:12 | [wotoi](https://crates.io/crates/wotoi) | 0.1.0 | 0 | A very bad and possibly useless issue tracker |
-| 2026-11-03 20:31:38 | [tpt-kinetix-stream](https://crates.io/crates/tpt-kinetix-stream) | 0.1.2 | 0 | Async streaming output (RTMP push, HLS packaging) for the TPT Kinetix engine |
-| 2026-11-03 20:32:03 | [wshapnin-macros](https://crates.io/crates/wshapnin-macros) | 0.1.0 | 0 | The #[track] attribute of the wshapnin crate. |
-| 2026-11-03 20:32:16 | [wshapnin](https://crates.io/crates/wshapnin) | 0.1.0 | 0 | Measure your functions and HTTP routes: p50/p95/p99, errors and what runs insid… |
-| 2026-11-03 20:32:25 | [rgy-vendored-adapters-docs](https://crates.io/crates/rgy-vendored-adapters-docs) | 0.1.8 | 0 | rgx adapters that shell out to external tools (soffice, tesseract) when present… |
-| 2026-11-03 20:35:21 | [pylint-gajaguar](https://crates.io/crates/pylint-gajaguar) | 3.0.0 | 0 | The pylint-gajaguar rules as a ferrolint WASM plugin |
-| 2026-11-03 20:38:28 | [outlook-pst-ost](https://crates.io/crates/outlook-pst-ost) | 1.3.0 | 0 | Microsoft's outlook-pst 1.2.0 with fixes for real-world PST files and the Outlo… |
-| 2026-11-03 20:39:22 | [tuffet](https://crates.io/crates/tuffet) | 0.1.0 | 0 | A client library for The Update Framework (TUF) |
-| 2026-11-03 20:39:24 | [tuffet-http](https://crates.io/crates/tuffet-http) | 0.1.0 | 0 | An HTTP transport for the tuffet TUF client, built on reqwest |
-| 2026-11-03 20:41:41 | [tpt-kinetix-cli](https://crates.io/crates/tpt-kinetix-cli) | 0.1.2 | 0 | Command-line interface for the TPT Kinetix media processing engine |
-| 2026-11-03 20:44:13 | [hadome](https://crates.io/crates/hadome) | 0.1.1 | 0 | Reports the violations a change adds and the tests it weakens. |
-| 2026-11-03 20:44:22 | [rocky-sqlite-opfs](https://crates.io/crates/rocky-sqlite-opfs) | 0.1.0-alpha.1 | 0 | Rocky's fork of sqlite-wasm-vfs 0.2: an OPFS SQLite VFS whose WAL works across… |
-| 2026-11-03 20:44:32 | [rocky-platform](https://crates.io/crates/rocky-platform) | 0.1.0-alpha.1 | 0 | Tasks, timers and files on each Rocky target: native, or a browser's dedicated… |
-| 2026-11-03 20:47:23 | [todex](https://crates.io/crates/todex) | 0.1.1 | 0 | CLI TODO extractor |
-| 2026-11-03 20:50:15 | [keystore-openpgp](https://crates.io/crates/keystore-openpgp) | 1.0.0 | 0 | OpenPGP bridge backed by Sequoia's RustCrypto implementation |
-| 2026-11-03 20:51:42 | [keystore-pqc-extra](https://crates.io/crates/keystore-pqc-extra) | 1.0.0 | 0 | HQC and Falcon/FN-DSA surfaces built on the available Rust crates |
-| 2026-11-03 20:54:16 | [keystore-tsp](https://crates.io/crates/keystore-tsp) | 1.0.0 | 0 | RFC 3161 time-stamp protocol and ERS evidence records |
-| 2026-11-03 20:55:37 | [keystore-tls](https://crates.io/crates/keystore-tls) | 1.0.0 | 0 | rustls identity and trust-store bridge for keystore-rs |
-| 2026-11-03 20:59:26 | [muman-core](https://crates.io/crates/muman-core) | 0.0.1 | 0 | muman's lowest layer: source keys, paths, platform, atomic writes, the runner a… |
-| 2026-11-03 20:59:28 | [muman-media](https://crates.io/crates/muman-media) | 0.0.1 | 0 | muman's media layer: probing, measuring, fingerprints, loudness and tag reading… |
-| 2026-11-03 20:59:30 | [muman-net](https://crates.io/crates/muman-net) | 0.0.1 | 0 | muman's network layer: yt-dlp, aria2c and the lyrics, MusicBrainz, AcoustID and… |
-| 2026-11-03 20:59:32 | [muman-config](https://crates.io/crates/muman-config) | 0.0.1 | 0 | muman's configuration layer: the song list, its settings, editions and hooks. P… |
-| 2026-11-03 20:59:34 | [muman-engine](https://crates.io/crates/muman-engine) | 0.0.1 | 0 | muman's engine: resolving songs to plans, reconciling and rendering the library… |
-| 2026-11-03 21:03:33 | [sam3rs](https://crates.io/crates/sam3rs) | 0.1.0 | 0 | Native Rust/CUDA runtime for Meta SAM 3 image segmentation with text, box and p… |
-| 2026-11-03 21:04:45 | [xfetch-api-common](https://crates.io/crates/xfetch-api-common) | 0.3.0 | 0 | Shared protocol, IO, frame and timeout primitives for the xfetch addon SDKs |
-| 2026-11-03 21:04:49 | [keystore-mail](https://crates.io/crates/keystore-mail) | 1.0.0 | 0 | S/MIME mail bridge: MIME parsing and CMS signing/verification |
-| 2026-11-03 21:06:48 | [guinea-profile](https://crates.io/crates/guinea-profile) | 0.35.0 | 0 | Record CPU samples, allocations and causal Guinea events in Perfetto |
-| 2026-11-03 21:12:44 | [keystore](https://crates.io/crates/keystore) | 1.0.0 | 0 | Pure-Rust reader and writer for the Java keystore formats: JKS, JCEKS, PKCS#12,… |
-| 2026-11-03 21:15:48 | [safelink](https://crates.io/crates/safelink) | 0.1.0 | 0 | Explicit, non-guessing link materialization for Windows, macOS and Linux |
-| 2026-11-03 21:15:51 | [agent-grafter](https://crates.io/crates/agent-grafter) | 0.1.0 | 0 | CLI that materializes declared AI agent config/state file pairs across Windows/… |
+| 2026-11-03 21:24:06 | [imgalifier-heif](https://crates.io/crates/imgalifier-heif) | 0.1.0 | 0 | Pure-Rust HEIF/HEIC decoder: ISOBMFF container, shared pipeline (grid, alpha, t… |
+| 2026-11-03 21:24:19 | [imgalifier-avif](https://crates.io/crates/imgalifier-avif) | 0.1.0 | 0 | Pure-Rust AVIF decoder: reuses the HEIF container and pipeline, adds an AV1 sti… |
+| 2026-11-03 21:26:11 | [fluidattacks-snowflake-client-domain](https://crates.io/crates/fluidattacks-snowflake-client-domain) | 0.1.0 | 0 | Snowflake client functional core: the Snowflake statements for tables described… |
+| 2026-11-03 21:27:00 | [keystore-cli](https://crates.io/crates/keystore-cli) | 1.0.0 | 0 | keytool-compatible command line for the keystore crate |
+| 2026-11-03 21:28:53 | [fluidattacks-snowflake-client](https://crates.io/crates/fluidattacks-snowflake-client) | 0.1.0 | 0 | Snowflake client: loads tables described with database-core into Snowflake |
+| 2026-11-03 21:35:49 | [refgraph](https://crates.io/crates/refgraph) | 1.0.0 | 0 | Directed graph library with stronger-than-usual compile-time checks |
+| 2026-11-03 21:41:53 | [xmachines-runtime](https://crates.io/crates/xmachines-runtime) | 0.0.0 | 0 | Reserved for the xmachines runtime, a port of XState's interpreter and actor ru… |
+| 2026-11-03 21:41:58 | [xmachines-runtime-wasi](https://crates.io/crates/xmachines-runtime-wasi) | 0.0.0 | 0 | Reserved for the xmachines runtime, a port of XState's interpreter and actor ru… |
+| 2026-11-03 21:42:02 | [xmachines-runtime-node](https://crates.io/crates/xmachines-runtime-node) | 0.0.0 | 0 | Reserved for the xmachines runtime, a port of XState's interpreter and actor ru… |
+| 2026-11-03 21:42:07 | [xmachines-machine](https://crates.io/crates/xmachines-machine) | 0.0.0 | 0 | Reserved for the xmachines runtime, a port of XState's interpreter and actor ru… |
+| 2026-11-03 21:42:11 | [xmachines-machine-wasi](https://crates.io/crates/xmachines-machine-wasi) | 0.0.0 | 0 | Reserved for the xmachines runtime, a port of XState's interpreter and actor ru… |
+| 2026-11-03 21:45:21 | [hicli-macros](https://crates.io/crates/hicli-macros) | 0.1.0 | 0 | Procedural macros for hicli: `#[command]` (a documented function is a subcomman… |
+| 2026-11-03 21:45:24 | [hicli](https://crates.io/crates/hicli) | 0.1.0 | 0 | CLI-enable your code: a subcommand is a documented function, a group of subcomm… |
+| 2026-11-03 21:49:51 | [ikigai-runtime](https://crates.io/crates/ikigai-runtime) | 0.3.0 | 0 | The engine-neutral, wasm-clean core of the ikigai runtime: budget/capability pl… |
+| 2026-11-03 21:49:53 | [ikigai-runtime-wasmtime](https://crates.io/crates/ikigai-runtime-wasmtime) | 0.3.0 | 0 | The wasmtime implementation of the ikigai runtime: the core-module tier (numeri… |
+| 2026-11-03 21:49:58 | [ikigai-runtime-guest](https://crates.io/crates/ikigai-runtime-guest) | 0.3.0 | 0 | The Rust guest SDK for ikigai modules: the core-module (ikigai-module ABI v1) g… |
+| 2026-11-03 21:50:01 | [ikigai-runtime-wit](https://crates.io/crates/ikigai-runtime-wit) | 0.3.0 | 0 | The ikigai:runtime@0.1.0 WIT package: the imported `kernel` interface (the five… |
+| 2026-11-03 21:51:17 | [ztm-link-cli](https://crates.io/crates/ztm-link-cli) | 0.1.0 | 0 | Terminal picker for quickly opening Zero To Mastery course and career path page… |
+| 2026-11-03 21:51:48 | [sapphire-tally-server](https://crates.io/crates/sapphire-tally-server) | 0.2.0 | 0 | sapphire-tally's app server: the one process that reads and writes the tally, w… |
+| 2026-11-03 21:51:53 | [sapphire-tally-cli](https://crates.io/crates/sapphire-tally-cli) | 0.2.0 | 0 | The command line of sapphire-tally's two editions, the headless one and the des… |
+| 2026-11-03 21:51:59 | [sapphire-tally-headless](https://crates.io/crates/sapphire-tally-headless) | 0.2.0 | 0 | A stamp tracker with GitHub-style heatmaps built on sapphire-framework - file-b… |
+| 2026-11-03 21:51:59 | [xmachines-machine-node](https://crates.io/crates/xmachines-machine-node) | 0.0.0 | 0 | Reserved for the xmachines runtime, a port of XState's interpreter and actor ru… |
+| 2026-11-03 21:53:14 | [cognito-kit](https://crates.io/crates/cognito-kit) | 0.1.0 | 0 | A Rust toolkit for Amazon Cognito |
+| 2026-11-03 21:54:20 | [aimdb-build-info](https://crates.io/crates/aimdb-build-info) | 0.1.0 | 0 | Build identity in the binary: a fixed-layout section readable over AimX, from a… |
+| 2026-11-03 21:54:36 | [aimdb-cdr](https://crates.io/crates/aimdb-cdr) | 0.1.0 | 0 | no_std serde encoding for OMG CDR (XCDR1), the ROS 2 wire format |
+| 2026-11-03 21:55:46 | [alloyd](https://crates.io/crates/alloyd) | 0.0.0 | 0 | Reserved: the alloy daemon — an Apple-Silicon-native agent harness with a pure-… |
+| 2026-11-03 21:56:30 | [cap-hub](https://crates.io/crates/cap-hub) | 0.1.0 | 0 | z-biz-tool 家族统一深链协议：zbiz:// 的构造、解析、待处理队列与产品清单 |
+| 2026-11-03 21:57:58 | [aimdb-zenoh-connector](https://crates.io/crates/aimdb-zenoh-connector) | 0.1.0 | 0 | Zenoh connector for AimDB, with an rmw_zenoh-compatible ROS 2 profile |
+| 2026-11-03 21:59:53 | [phasesmith-hdf5](https://crates.io/crates/phasesmith-hdf5) | 0.8.0 | 0 | Optional bundled HDF5 detector-frame reader for PhaseSmith |
+| 2026-11-03 22:00:00 | [phasesmith-single-crystal](https://crates.io/crates/phasesmith-single-crystal) | 0.8.0 | 0 | Native single-crystal diffraction measurements, lattice discovery and structure… |
+| 2026-11-03 22:00:04 | [sila2-types](https://crates.io/crates/sila2-types) | 0.1.0 | 0 | SiLA 2 framework data types, their conversions to and from gRPC messages, and t… |
+| 2026-11-03 22:00:07 | [sila2-build](https://crates.io/crates/sila2-build) | 0.1.0 | 0 | Build-time code generator for SiLA 2: turns feature definitions (FDL) into Rust… |
+| 2026-11-03 22:00:09 | [sila2-client](https://crates.io/crates/sila2-client) | 0.1.0 | 0 | SiLA 2 clients in Rust: connections, typed errors, observable commands, subscri… |
+| 2026-11-03 22:00:10 | [sila2-server](https://crates.io/crates/sila2-server) | 0.1.0 | 0 | SiLA 2 servers in Rust: gRPC over TLS, observable commands, metadata, errors, d… |
+| 2026-11-03 22:00:30 | [sismo-viewer](https://crates.io/crates/sismo-viewer) | 0.1.1 | 0 | Desktop viewer and headless CLI for sismo sessions and recordings |
+| 2026-11-03 22:01:59 | [xmachines-build](https://crates.io/crates/xmachines-build) | 0.0.0 | 0 | Reserved for the xmachines runtime, a port of XState's interpreter and actor ru… |
+| 2026-11-03 22:02:34 | [kinectrs](https://crates.io/crates/kinectrs) | 0.1.0 | 0 | Xbox 360 Kinect and Kinect for Windows v1 on Windows via WinUSB: depth, color,… |
+| 2026-11-03 22:02:35 | [cap-llm](https://crates.io/crates/cap-llm) | 0.1.0 | 0 | z-biz-tool 统一 AI 接入层：OpenAI 兼容 / Anthropic / Gemini / Ollama 的 chat、流式、模型列表与连通性… |
+| 2026-11-03 22:03:00 | [cap-doc](https://crates.io/crates/cap-doc) | 0.1.0 | 0 | 文档处理原语：PDF 页/文本/合并/拆分/压缩/水印 + EPUB/MOBI 解析（路径进→结构出，无状态） |
+| 2026-11-03 22:03:11 | [cap-sso](https://crates.io/crates/cap-sso) | 0.1.0 | 0 | zBiz 家族统一 SSO 的 IO 胶水：本地回环回调服务器 / 跨平台开浏览器 / OS 密钥库安全存储（不含 OAuth 协议逻辑） |
+| 2026-11-03 22:05:13 | [horned-oml](https://crates.io/crates/horned-oml) | 0.1.0 | 0 | Reader for the Ontological Modeling Language (OML), mapped to OWL, for horned-o… |
+| 2026-11-03 22:06:59 | [zacess-scenes](https://crates.io/crates/zacess-scenes) | 0.6.0 | 0 | Calm animated scenes for the terminal in the Zacess high contrast themes |
+| 2026-11-03 22:07:29 | [filer-msft](https://crates.io/crates/filer-msft) | 0.0.2 | 0 | Conventions of Microsoft's on-disk formats for Filer API drivers. |
+| 2026-11-03 22:07:30 | [filer-pack](https://crates.io/crates/filer-pack) | 0.0.2 | 0 | Shared machinery of archive drivers for the Filer API. |
+| 2026-11-03 22:08:27 | [cap-llm-config](https://crates.io/crates/cap-llm-config) | 0.1.0 | 0 | z-biz-tool 家族统一的 LLM 配置存储：单一落点、OS 密钥库密钥、旧配置迁移 |
+| 2026-11-03 22:08:40 | [cap-meeting](https://crates.io/crates/cap-meeting) | 0.1.0 | 0 | 会议纪要能力层：转写文本 → 结构化纪要（议题/决议/待办/风险）+ Markdown 渲染，无状态 |
+| 2026-11-03 22:10:27 | [libcaca-sys](https://crates.io/crates/libcaca-sys) | 0.1.0 | 0 | Unsafe bindings to libcaca |
+| 2026-11-03 22:11:59 | [xmachines-codec](https://crates.io/crates/xmachines-codec) | 0.0.0 | 0 | Reserved for the xmachines runtime, a port of XState's interpreter and actor ru… |
+| 2026-11-03 22:13:07 | [roomkit-tui-protocol](https://crates.io/crates/roomkit-tui-protocol) | 0.2.0 | 0 | Runtime-independent interaction contracts for RoomKit terminal hosts |
+| 2026-11-03 22:13:09 | [roomkit-tui-transport](https://crates.io/crates/roomkit-tui-transport) | 0.2.0 | 0 | Bounded in-process connections for RoomKit conversation clients |
+| 2026-11-03 22:13:11 | [roomkit-tui](https://crates.io/crates/roomkit-tui) | 0.2.0 | 0 | Embeddable terminal interactions for host-owned AI conversations |
+| 2026-11-03 22:14:03 | [cap-screen](https://crates.io/crates/cap-screen) | 0.1.0 | 0 | 屏幕采集原语：显示器/窗口枚举与截屏（含区域裁剪与编码，无状态） |
+| 2026-11-03 22:16:00 | [libacja-kaka](https://crates.io/crates/libacja-kaka) | 0.1.0 | 0 | Safe bindings to libcaca |
 
 ## Data source
 

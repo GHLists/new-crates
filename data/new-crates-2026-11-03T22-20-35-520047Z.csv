@@ -1,0 +1,54 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T21:24:06.650227Z,imgalifier-heif,0.1.0,0,0,https://github.com/qarmin/imgalifier,"Pure-Rust HEIF/HEIC decoder: ISOBMFF container, shared pipeline (grid, alpha, transforms, YUV to RGB) and an HEVC still-picture decoder"
+2026-11-03T21:24:19.569302Z,imgalifier-avif,0.1.0,0,0,https://github.com/qarmin/imgalifier,"Pure-Rust AVIF decoder: reuses the HEIF container and pipeline, adds an AV1 still-picture backend (vendored rav1d)"
+2026-11-03T21:26:11.718329Z,fluidattacks-snowflake-client-domain,0.1.0,0,0,https://gitlab.com/fluidattacks/universe,Snowflake client functional core: the Snowflake statements for tables described with database-core (no I/O)
+2026-11-03T21:27:00.329038Z,keystore-cli,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,keytool-compatible command line for the keystore crate
+2026-11-03T21:28:53.217356Z,fluidattacks-snowflake-client,0.1.0,0,0,https://gitlab.com/fluidattacks/universe,Snowflake client: loads tables described with database-core into Snowflake
+2026-11-03T21:35:49.181049Z,refgraph,1.0.0,0,0,https://codeberg.org/bannmann/refgraph,Directed graph library with stronger-than-usual compile-time checks
+2026-11-03T21:41:53.319213Z,xmachines-runtime,0.0.0,0,0,https://gitlab.com/xmachin-es/xmachines-rs,"Reserved for the xmachines runtime, a port of XState's interpreter and actor runtime; not affiliated with Stately. The first release follows."
+2026-11-03T21:41:58.210384Z,xmachines-runtime-wasi,0.0.0,0,0,https://gitlab.com/xmachin-es/xmachines-rs,"Reserved for the xmachines runtime, a port of XState's interpreter and actor runtime; not affiliated with Stately. The first release follows."
+2026-11-03T21:42:02.747342Z,xmachines-runtime-node,0.0.0,0,0,https://gitlab.com/xmachin-es/xmachines-rs,"Reserved for the xmachines runtime, a port of XState's interpreter and actor runtime; not affiliated with Stately. The first release follows."
+2026-11-03T21:42:07.136206Z,xmachines-machine,0.0.0,0,0,https://gitlab.com/xmachin-es/xmachines-rs,"Reserved for the xmachines runtime, a port of XState's interpreter and actor runtime; not affiliated with Stately. The first release follows."
+2026-11-03T21:42:11.460584Z,xmachines-machine-wasi,0.0.0,0,0,https://gitlab.com/xmachin-es/xmachines-rs,"Reserved for the xmachines runtime, a port of XState's interpreter and actor runtime; not affiliated with Stately. The first release follows."
+2026-11-03T21:45:21.193758Z,hicli-macros,0.1.0,0,0,https://github.com/johlrogge/hicli,"Procedural macros for hicli: `#[command]` (a documented function is a subcommand), `#[group]` (a documented module, inline or a file, is a group, its children discovered), `commands!` and `#[derive(A…"
+2026-11-03T21:45:24.352448Z,hicli,0.1.0,0,0,https://github.com/johlrogge/hicli,"CLI-enable your code: a subcommand is a documented function, a group of subcommands is a documented module whose children are discovered, an argument is a type — and there is no hand-written dispatch…"
+2026-11-03T21:49:51.428125Z,ikigai-runtime,0.3.0,0,0,https://github.com/ikigai-rs/ikigai-runtime,"The engine-neutral, wasm-clean core of the ikigai runtime: budget/capability plumbing, the grant-to-WASI plan, the CoreEngine trait, the ikigai-module ABI v1 session types, the WIT projection types,…"
+2026-11-03T21:49:53.196436Z,ikigai-runtime-wasmtime,0.3.0,0,0,https://github.com/ikigai-rs/ikigai-runtime,"The wasmtime implementation of the ikigai runtime: the core-module tier (numeric signatures, the ikigai-module ABI v1, WASI p1 command modules) and the component tier (the `endpoint` and `app` worlds…"
+2026-11-03T21:49:58.834479Z,ikigai-runtime-guest,0.3.0,0,0,https://github.com/ikigai-rs/ikigai-runtime,"The Rust guest SDK for ikigai modules: the core-module (ikigai-module ABI v1) guest ABI on ikigai-module-abi's wire types (alloc/free/invoke and the synchronous host_call pump), and the wit-bindgen c…"
+2026-11-03T21:50:01.453263Z,ikigai-runtime-wit,0.3.0,0,0,https://github.com/ikigai-rs/ikigai-runtime,"The ikigai:runtime@0.1.0 WIT package: the imported `kernel` interface (the five verbs on an IRI), the exported `endpoint` interface, and the `endpoint` (no WASI authority) and `app` worlds (R-D2)."
+2026-11-03T21:51:17.405788Z,ztm-link-cli,0.1.0,0,0,https://github.com/markodowd/ztm-link-cli,Terminal picker for quickly opening Zero To Mastery course and career path pages in your browser
+2026-11-03T21:51:48.153902Z,sapphire-tally-server,0.2.0,0,0,https://github.com/sapphire-turtle/sapphire-tally,"sapphire-tally's app server: the one process that reads and writes the tally, with its sync and MCP methods"
+2026-11-03T21:51:53.68094Z,sapphire-tally-cli,0.2.0,0,0,https://github.com/sapphire-turtle/sapphire-tally,"The command line of sapphire-tally's two editions, the headless one and the desktop app: the framework's commands, which run the app server or call it"
+2026-11-03T21:51:59.366974Z,sapphire-tally-headless,0.2.0,0,0,https://github.com/sapphire-turtle/sapphire-tally,"A stamp tracker with GitHub-style heatmaps built on sapphire-framework - file-based, local-first, made for human-agent collaboration"
+2026-11-03T21:51:59.932882Z,xmachines-machine-node,0.0.0,0,0,https://gitlab.com/xmachin-es/xmachines-rs,"Reserved for the xmachines runtime, a port of XState's interpreter and actor runtime; not affiliated with Stately. The first release follows."
+2026-11-03T21:53:14.593948Z,cognito-kit,0.1.0,0,0,https://github.com/sdnit-se/cognito-kit,A Rust toolkit for Amazon Cognito
+2026-11-03T21:54:20.411606Z,aimdb-build-info,0.1.0,0,0,https://github.com/aimdb-dev/aimdb,"Build identity in the binary: a fixed-layout section readable over AimX, from a file and from flash"
+2026-11-03T21:54:36.115978Z,aimdb-cdr,0.1.0,0,0,https://github.com/aimdb-dev/aimdb,"no_std serde encoding for OMG CDR (XCDR1), the ROS 2 wire format"
+2026-11-03T21:55:46.741261Z,alloyd,0.0.0,0,0,https://github.com/LayerDynamics/alloy,Reserved: the alloy daemon — an Apple-Silicon-native agent harness with a pure-Rust MLX engine.
+2026-11-03T21:56:30.771714Z,cap-hub,0.1.0,0,0,https://github.com/z-biz-tool/z-biz-tool-capability,z-biz-tool 家族统一深链协议：zbiz:// 的构造、解析、待处理队列与产品清单
+2026-11-03T21:57:58.166332Z,aimdb-zenoh-connector,0.1.0,0,0,https://github.com/aimdb-dev/aimdb,"Zenoh connector for AimDB, with an rmw_zenoh-compatible ROS 2 profile"
+2026-11-03T21:59:53.44636Z,phasesmith-hdf5,0.8.0,0,0,https://github.com/CPrescher/PhaseSmith,Optional bundled HDF5 detector-frame reader for PhaseSmith
+2026-11-03T22:00:00.348116Z,phasesmith-single-crystal,0.8.0,0,0,https://github.com/CPrescher/PhaseSmith,"Native single-crystal diffraction measurements, lattice discovery and structure search"
+2026-11-03T22:00:04.17909Z,sila2-types,0.1.0,0,0,https://gitlab.com/SiLA2/sila_rust,"SiLA 2 framework data types, their conversions to and from gRPC messages, and the feature definition model"
+2026-11-03T22:00:07.017496Z,sila2-build,0.1.0,0,0,https://gitlab.com/SiLA2/sila_rust,Build-time code generator for SiLA 2: turns feature definitions (FDL) into Rust server and client code
+2026-11-03T22:00:09.894902Z,sila2-client,0.1.0,0,0,https://gitlab.com/SiLA2/sila_rust,"SiLA 2 clients in Rust: connections, typed errors, observable commands, subscriptions and discovery"
+2026-11-03T22:00:10.654767Z,sila2-server,0.1.0,0,0,https://gitlab.com/SiLA2/sila_rust,"SiLA 2 servers in Rust: gRPC over TLS, observable commands, metadata, errors, discovery and the standard features"
+2026-11-03T22:00:30.92214Z,sismo-viewer,0.1.1,0,0,https://github.com/SergioRibera/sismo,Desktop viewer and headless CLI for sismo sessions and recordings
+2026-11-03T22:01:59.354141Z,xmachines-build,0.0.0,0,0,https://gitlab.com/xmachin-es/xmachines-rs,"Reserved for the xmachines runtime, a port of XState's interpreter and actor runtime; not affiliated with Stately. The first release follows."
+2026-11-03T22:02:34.438151Z,kinectrs,0.1.0,0,0,https://github.com/WelllDressedBird/kinect1-rs,"Xbox 360 Kinect and Kinect for Windows v1 on Windows via WinUSB: depth, color, IR, registration, tilt and LED"
+2026-11-03T22:02:35.226267Z,cap-llm,0.1.0,0,0,https://github.com/z-biz-tool/z-biz-tool-capability,z-biz-tool 统一 AI 接入层：OpenAI 兼容 / Anthropic / Gemini / Ollama 的 chat、流式、模型列表与连通性探测
+2026-11-03T22:03:00.987121Z,cap-doc,0.1.0,0,0,https://github.com/z-biz-tool/z-biz-tool-capability,文档处理原语：PDF 页/文本/合并/拆分/压缩/水印 + EPUB/MOBI 解析（路径进→结构出，无状态）
+2026-11-03T22:03:11.820788Z,cap-sso,0.1.0,0,0,https://github.com/z-biz-tool/z-biz-tool-capability,zBiz 家族统一 SSO 的 IO 胶水：本地回环回调服务器 / 跨平台开浏览器 / OS 密钥库安全存储（不含 OAuth 协议逻辑）
+2026-11-03T22:05:13.425984Z,horned-oml,0.1.0,0,0,https://github.com/phillord/horned-owl,"Reader for the Ontological Modeling Language (OML), mapped to OWL, for horned-owl"
+2026-11-03T22:06:59.123883Z,zacess-scenes,0.6.0,0,0,https://github.com/zacesshq/scenes,Calm animated scenes for the terminal in the Zacess high contrast themes
+2026-11-03T22:07:29.366986Z,filer-msft,0.0.2,0,0,https://github.com/artob/filer,Conventions of Microsoft's on-disk formats for Filer API drivers.
+2026-11-03T22:07:30.123826Z,filer-pack,0.0.2,0,0,https://github.com/artob/filer,Shared machinery of archive drivers for the Filer API.
+2026-11-03T22:08:27.346715Z,cap-llm-config,0.1.0,0,0,https://github.com/z-biz-tool/z-biz-tool-capability,z-biz-tool 家族统一的 LLM 配置存储：单一落点、OS 密钥库密钥、旧配置迁移
+2026-11-03T22:08:40.095161Z,cap-meeting,0.1.0,0,0,https://github.com/z-biz-tool/z-biz-tool-capability,会议纪要能力层：转写文本 → 结构化纪要（议题/决议/待办/风险）+ Markdown 渲染，无状态
+2026-11-03T22:10:27.740961Z,libcaca-sys,0.1.0,0,0,https://codeberg.org/pecet/kaka/libcaca-sys,Unsafe bindings to libcaca
+2026-11-03T22:11:59.213892Z,xmachines-codec,0.0.0,0,0,https://gitlab.com/xmachin-es/xmachines-rs,"Reserved for the xmachines runtime, a port of XState's interpreter and actor runtime; not affiliated with Stately. The first release follows."
+2026-11-03T22:13:07.61678Z,roomkit-tui-protocol,0.2.0,0,0,https://github.com/roomkit-live/roomkit-tui,Runtime-independent interaction contracts for RoomKit terminal hosts
+2026-11-03T22:13:09.419129Z,roomkit-tui-transport,0.2.0,0,0,https://github.com/roomkit-live/roomkit-tui,Bounded in-process connections for RoomKit conversation clients
+2026-11-03T22:13:11.29364Z,roomkit-tui,0.2.0,0,0,https://github.com/roomkit-live/roomkit-tui,Embeddable terminal interactions for host-owned AI conversations
+2026-11-03T22:14:03.948982Z,cap-screen,0.1.0,0,0,https://github.com/z-biz-tool/z-biz-tool-capability,屏幕采集原语：显示器/窗口枚举与截屏（含区域裁剪与编码，无状态）
+2026-11-03T22:16:00.29472Z,libacja-kaka,0.1.0,0,0,https://codeberg.org/pecet/kaka/libacja-kaka,Safe bindings to libcaca
