@@ -8,56 +8,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 05:18 UTC
+## Latest list — 2026-11-03 06:19 UTC
 
-New crates published between 2026-11-03 04:19 UTC and 2026-11-03 05:18 UTC.
+New crates published between 2026-11-03 05:18 UTC and 2026-11-03 06:19 UTC.
 
-[Full CSV](data/new-crates-2026-11-03T05-18-46-488954Z.csv)
+[Full CSV](data/new-crates-2026-11-03T06-19-39-290364Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-03 04:20:30 | [channelkit-web](https://crates.io/crates/channelkit-web) | 0.1.0-alpha.1 | 0 | Authenticated browser conversations and SSE adapter for Channelkit |
-| 2026-11-03 04:23:18 | [oc2_hlapi_v2](https://crates.io/crates/oc2_hlapi_v2) | 0.1.0 | 0 | A client for the new version of OpenComputers II's HLAPI |
-| 2026-11-03 04:23:21 | [aauth-rust](https://crates.io/crates/aauth-rust) | 0.1.0-alpha.27 | 0 | AAuth for Rust: every role and the shared building blocks, re-exported from one… |
-| 2026-11-03 04:23:41 | [bern-backend-web](https://crates.io/crates/bern-backend-web) | 0.1.0 | 0 | The web + browser target: a static page with the Bern theme, virtual windows an… |
-| 2026-11-03 04:24:06 | [dpc-tau-shell-interaction](https://crates.io/crates/dpc-tau-shell-interaction) | 0.3.0 | 0 | Endpoint-owned shell interaction protocol for Tau. |
-| 2026-11-03 04:24:31 | [wm-sandbox](https://crates.io/crates/wm-sandbox) | 10.6.2 | 0 | WhiteMagic Gen3 — Zero-Dependency Linux Landlock ABI 8 + cgroup v2 + Egress Pro… |
-| 2026-11-03 04:24:49 | [roomkit-tools-search](https://crates.io/crates/roomkit-tools-search) | 0.1.0-alpha.16 | 0 | Selectable web search backends with common typed results |
-| 2026-11-03 04:28:24 | [dpc-tau-provider-chatgpt](https://crates.io/crates/dpc-tau-provider-chatgpt) | 0.3.0 | 0 | A minimal Unix-first coding agent. |
-| 2026-11-03 04:33:47 | [bern-backend-gpui](https://crates.io/crates/bern-backend-gpui) | 0.1.0 | 0 | GPUI target: generates desktop applications drawn with GPUI after Bern's own vi… |
-| 2026-11-03 04:35:00 | [roomkit-tools-web](https://crates.io/crates/roomkit-tools-web) | 0.1.0-alpha.16 | 0 | Bounded HTTP fetching and HTML conversion for agents |
-| 2026-11-03 04:42:08 | [foctet-storage-wire](https://crates.io/crates/foctet-storage-wire) | 0.6.0 | 0 | Portable signed text records and SQL plans for Worker storage |
-| 2026-11-03 04:42:12 | [foctet-storage](https://crates.io/crates/foctet-storage) | 0.6.0 | 0 | Opaque signed-record storage and atomic replay adapters for Foctet |
-| 2026-11-03 04:43:52 | [bern-backend-gtk](https://crates.io/crates/bern-backend-gtk) | 0.1.0 | 0 | GTK target: generates Linux applications on GTK 4 and libadwaita from the Bern… |
-| 2026-11-03 04:47:07 | [adash](https://crates.io/crates/adash) | 0.1.0 | 0 | A local dashboard for running many coding agents (omp, Claude Code, Codex, Anti… |
-| 2026-11-03 04:53:58 | [bern-backend-swiftui](https://crates.io/crates/bern-backend-swiftui) | 0.1.0 | 0 | SwiftUI target: generates native macOS apps from the Bern IR |
-| 2026-11-03 04:57:27 | [corundum-framework-audio](https://crates.io/crates/corundum-framework-audio) | 0.8.0 | 0 | Decode and resample audio files without a GUI: FLAC, MP3, AAC, ALAC, Vorbis, WA… |
-| 2026-11-03 04:57:46 | [corundum-framework-image](https://crates.io/crates/corundum-framework-image) | 0.8.0 | 0 | Decode an image file or bytes to RGBA8 without a GUI: format detection, EXIF or… |
-| 2026-11-03 04:58:07 | [sqltide](https://crates.io/crates/sqltide) | 0.0.1 | 0 | Rust core of SQLTide, declarative SQL streaming pipelines for ClickHouse. The P… |
-| 2026-11-03 04:58:10 | [sqlload](https://crates.io/crates/sqlload) | 0.0.1 | 0 | Rust core of SQLLoad, SQL data loading tooling. Under development; crates are p… |
-| 2026-11-03 04:59:53 | [escope-protocol](https://crates.io/crates/escope-protocol) | 0.1.0 | 0 | Allocation-free EmbedScope wire protocol |
-| 2026-11-03 05:00:01 | [escope-agent](https://crates.io/crates/escope-agent) | 0.1.0 | 0 | Allocation-free EmbedScope device agent |
-| 2026-11-03 05:00:06 | [escope-lvgl](https://crates.io/crates/escope-lvgl) | 0.1.0 | 0 | Host-provided LVGL access bridge for EmbedScope |
-| 2026-11-03 05:00:12 | [escope-c-api](https://crates.io/crates/escope-c-api) | 0.1.0 | 0 | Allocation-free C ABI for the EmbedScope device Agent |
-| 2026-11-03 05:00:20 | [escope-host](https://crates.io/crates/escope-host) | 0.1.0 | 0 | EmbedScope host SDK, transports and reference device |
-| 2026-11-03 05:01:03 | [gromnie-events](https://crates.io/crates/gromnie-events) | 0.1.0 | 0 | Event system traits and types for gromnie |
-| 2026-11-03 05:01:30 | [gromnie-scripting-api](https://crates.io/crates/gromnie-scripting-api) | 0.1.0 | 0 | Script API for writing WASM scripts for gromnie |
-| 2026-11-03 05:02:07 | [escope-cli](https://crates.io/crates/escope-cli) | 0.1.0 | 0 | EmbedScope embedded diagnostics and control CLI |
-| 2026-11-03 05:02:17 | [gromnie-client](https://crates.io/crates/gromnie-client) | 0.1.0 | 0 | client library for gromnie |
-| 2026-11-03 05:04:03 | [bern-backend-winui3](https://crates.io/crates/bern-backend-winui3) | 0.1.0 | 0 | WinUI 3 target: generates Windows applications on WinUI 3 and the Windows App S… |
-| 2026-11-03 05:08:39 | [pagesift-stat](https://crates.io/crates/pagesift-stat) | 0.90.0 | 0 | Mergeable online statistics and decision rules for pagesift's adaptive control… |
-| 2026-11-03 05:09:09 | [pagesift-cluster](https://crates.io/crates/pagesift-cluster) | 0.90.0 | 0 | pagesift multi-server coordination: frame protocol, leases and fencing, HRW sit… |
-| 2026-11-03 05:10:30 | [gromnie-scripting-host](https://crates.io/crates/gromnie-scripting-host) | 0.1.0 | 0 | Host runtime for loading and executing WASM scripts in gromnie |
-| 2026-11-03 05:10:38 | [gromnie-runner](https://crates.io/crates/gromnie-runner) | 0.1.0 | 0 | Client runner gromnie |
-| 2026-11-03 05:10:42 | [bessel](https://crates.io/crates/bessel) | 0.1.0 | 0 | Pure Rust library for Bessel and related special functions, including cylindric… |
-| 2026-11-03 05:10:45 | [gromnie-tui](https://crates.io/crates/gromnie-tui) | 0.1.0 | 0 | TUI game client for gromnie |
-| 2026-11-03 05:10:59 | [pagesift-flow](https://crates.io/crates/pagesift-flow) | 0.90.0 | 0 | pagesift data plane: per-core CPU workers and unified admission. |
-| 2026-11-03 05:11:08 | [pagesift-frontier](https://crates.io/crates/pagesift-frontier) | 0.90.0 | 0 | pagesift crawl frontier and focused-crawl scoring: deduplication, URL traps, li… |
-| 2026-11-03 05:11:47 | [pagesift-media](https://crates.io/crates/pagesift-media) | 0.90.0 | 0 | pagesift media: HLS/DASH stream download, media items, resumable downloads and… |
-| 2026-11-03 05:12:00 | [pagesift-plan](https://crates.io/crates/pagesift-plan) | 0.90.0 | 0 | Execution planning for pagesift: calibrated result quality, executor choice and… |
-| 2026-11-03 05:14:07 | [bern-image](https://crates.io/crates/bern-image) | 0.1.0 | 0 | HDR pictures for the targets whose UI toolkit cannot decode them: PQ and HLG PN… |
-| 2026-11-03 05:16:32 | [gromnie-cli](https://crates.io/crates/gromnie-cli) | 0.1.0 | 0 | CLIs for gromnie |
-| 2026-11-03 05:18:10 | [tauri-plugin-share-file](https://crates.io/crates/tauri-plugin-share-file) | 0.1.0-alpha.1 | 0 | Tauri plugin that opens Android's share sheet for one file |
+| 2026-11-03 05:19:34 | [fuxth-core](https://crates.io/crates/fuxth-core) | 0.8.0 | 0 | What fuxth's hosts share without its interpreter: failure codes |
+| 2026-11-03 05:19:36 | [fux-wire](https://crates.io/crates/fux-wire) | 0.37.0 | 0 | fux's shared data: requests, answers, records, error codes and the frame codec… |
+| 2026-11-03 05:19:37 | [fux-server](https://crates.io/crates/fux-server) | 0.37.0 | 0 | fux's server: sessions, workspaces, tabs and panes, their programs, and the loo… |
+| 2026-11-03 05:19:38 | [fuxth-run](https://crates.io/crates/fuxth-run) | 0.1.0 | 0 | fuxth, a small Forth for the shell, as a program: files, pipes and a REPL, with… |
+| 2026-11-03 05:21:45 | [pagesift-sink](https://crates.io/crates/pagesift-sink) | 0.90.0 | 0 | pagesift outputs: envelopes, metadata keys, binary cache format. |
+| 2026-11-03 05:24:12 | [bern-ffi](https://crates.io/crates/bern-ffi) | 0.1.0 | 0 | In-process C ABI between native UI frontends and the Bern runtime |
+| 2026-11-03 05:27:49 | [slackers_unit_macro](https://crates.io/crates/slackers_unit_macro) | 0.1.1 | 0 | The macros for slackers_units |
+| 2026-11-03 05:28:42 | [slackers_units](https://crates.io/crates/slackers_units) | 0.1.1 | 0 | A small SI unit crate with compile time unit macros and generic holding types |
+| 2026-11-03 05:30:29 | [cgap-branchless](https://crates.io/crates/cgap-branchless) | 26.11.2 | 0 | Centralized branchless ALU/SWAR/bit-plane mechanics for cgap |
+| 2026-11-03 05:33:39 | [pagesift-engine](https://crates.io/crates/pagesift-engine) | 0.90.0 | 0 | pagesift engine: single-page scrape pipeline (HTTP, rendering, render decisions… |
+| 2026-11-03 05:34:17 | [bern-transport-ws](https://crates.io/crates/bern-transport-ws) | 0.1.0 | 0 | The engine host's browser channel: the WebUI page over HTTP and JSON control me… |
+| 2026-11-03 05:35:26 | [cgap-integration](https://crates.io/crates/cgap-integration) | 26.11.2 | 0 | Cross-crate integration tests: C-ABI roundtrip, alignment law, format-code tabl… |
+| 2026-11-03 05:36:31 | [rsasync](https://crates.io/crates/rsasync) | 0.1.0-alpha.1 | 0 | Currently being migrated. |
+| 2026-11-03 05:36:33 | [rsauthnz](https://crates.io/crates/rsauthnz) | 0.1.0-alpha.1 | 0 | Currently being migrated. |
+| 2026-11-03 05:36:36 | [rsnetwork](https://crates.io/crates/rsnetwork) | 0.1.0-alpha.1 | 0 | Currently being migrated. |
+| 2026-11-03 05:44:42 | [bern-cli](https://crates.io/crates/bern-cli) | 0.1.0 | 0 | `bern`: builds Bern applications for their configured targets |
+| 2026-11-03 05:47:17 | [nizaam-knowledge-graph](https://crates.io/crates/nizaam-knowledge-graph) | 0.1.0 | 0 | A domain-independent knowledge graph engine for representing, validating, stori… |
+| 2026-11-03 05:48:12 | [seiza-pipeline](https://crates.io/crates/seiza-pipeline) | 0.2.0 | 0 | Distributed stacking for Seiza: partial stacks that describe themselves, combin… |
+| 2026-11-03 05:55:37 | [bern-gtk](https://crates.io/crates/bern-gtk) | 0.1.0 | 0 | GTK 4 runtime of the `gtk + linux` target: libadwaita widgets bound to the Bern… |
+| 2026-11-03 06:01:13 | [adaptif-gatotkaca-monoio-macros](https://crates.io/crates/adaptif-gatotkaca-monoio-macros) | 0.2.0 | 0 | Proc macros for adaptif-gatotkaca-monoio (a fork of Monoio): #[monoio::main], #… |
+| 2026-11-03 06:03:45 | [adaptif-gatotkaca-monoio](https://crates.io/crates/adaptif-gatotkaca-monoio) | 0.3.0 | 0 | Stripped-down, Linux-only, io_uring-only thread-per-core async runtime (a fork… |
+| 2026-11-03 06:11:01 | [zipp-cms](https://crates.io/crates/zipp-cms) | 0.1.0 | 0 | A headless cms where the content model is code: an api, a studio, migrations an… |
+| 2026-11-03 06:11:23 | [zipp-seo](https://crates.io/crates/zipp-seo) | 0.1.0 | 0 | SEO for zipp like the Craft plugin meierlabs-seo: settings, seoJson, sitemaps |
+| 2026-11-03 06:11:31 | [zipp-forms](https://crates.io/crates/zipp-forms) | 0.1.0 | 0 | Forms of the website for zipp, like Craft's Contact Form: declared in code, sen… |
+| 2026-11-03 06:13:39 | [rapidproto-build](https://crates.io/crates/rapidproto-build) | 0.1.0-alpha.1 | 0 | Generate Rust protobuf decoders from .proto files in a build script, no protoc… |
+| 2026-11-03 06:16:29 | [feathrise_font_1](https://crates.io/crates/feathrise_font_1) | 0.1.0 | 0 | Noto Sans CJK SC variable font byte segment 1 of 3 for Feathrise |
+| 2026-11-03 06:16:34 | [feathrise_font_2](https://crates.io/crates/feathrise_font_2) | 0.1.0 | 0 | Noto Sans CJK SC variable font byte segment 2 of 3 for Feathrise |
+| 2026-11-03 06:16:37 | [feathrise_font_3](https://crates.io/crates/feathrise_font_3) | 0.1.0 | 0 | Noto Sans CJK SC variable font byte segment 3 of 3 for Feathrise |
+| 2026-11-03 06:16:42 | [feathrise_font](https://crates.io/crates/feathrise_font) | 0.1.0 | 0 | Complete Noto Sans CJK SC variable font for Feathrise |
+| 2026-11-03 06:18:39 | [dev-cleaner-core](https://crates.io/crates/dev-cleaner-core) | 0.3.0 | 0 | Core library for scanning and cleaning developer build artifacts |
 
 ## Data source
 

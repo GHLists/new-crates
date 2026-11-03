@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T05:19:34.471921Z,fuxth-core,0.8.0,0,0,https://github.com/gold-silver-copper/fux,What fuxth's hosts share without its interpreter: failure codes
+2026-11-03T05:19:36.319202Z,fux-wire,0.37.0,0,0,https://github.com/gold-silver-copper/fux,"fux's shared data: requests, answers, records, error codes and the frame codec its server and clients speak"
+2026-11-03T05:19:37.976653Z,fux-server,0.37.0,0,0,https://github.com/gold-silver-copper/fux,"fux's server: sessions, workspaces, tabs and panes, their programs, and the loop that serves clients"
+2026-11-03T05:19:38.727983Z,fuxth-run,0.1.0,0,0,https://github.com/gold-silver-copper/fux,"fuxth, a small Forth for the shell, as a program: files, pipes and a REPL, with words for the terminal, files and the process"
+2026-11-03T05:21:45.254556Z,pagesift-sink,0.90.0,0,0,https://github.com/YOLOW92/pagesift,"pagesift outputs: envelopes, metadata keys, binary cache format."
+2026-11-03T05:24:12.151939Z,bern-ffi,0.1.0,0,0,https://github.com/AimesSoft/Bern,In-process C ABI between native UI frontends and the Bern runtime
+2026-11-03T05:27:49.693071Z,slackers_unit_macro,0.1.1,0,0,https://https://github.com/Slacker201/slackers_units/tree/main/slackers_unit_macro,The macros for slackers_units
+2026-11-03T05:28:42.701069Z,slackers_units,0.1.1,0,0,https://github.com/Slacker201/slackers_units,A small SI unit crate with compile time unit macros and generic holding types
+2026-11-03T05:30:29.027766Z,cgap-branchless,26.11.2,0,0,https://github.com/seanchatmangpt/cgap,Centralized branchless ALU/SWAR/bit-plane mechanics for cgap
+2026-11-03T05:33:39.134738Z,pagesift-engine,0.90.0,0,0,https://github.com/YOLOW92/pagesift,"pagesift engine: single-page scrape pipeline (HTTP, rendering, render decisions, PDF/Office) and the crawl loop."
+2026-11-03T05:34:17.12686Z,bern-transport-ws,0.1.0,0,0,https://github.com/AimesSoft/Bern,The engine host's browser channel: the WebUI page over HTTP and JSON control messages over WebSocket on the loopback interface
+2026-11-03T05:35:26.528118Z,cgap-integration,26.11.2,0,0,https://github.com/seanchatmangpt/cgap,"Cross-crate integration tests: C-ABI roundtrip, alignment law, format-code table, varlen/views roundtrips."
+2026-11-03T05:36:31.837462Z,rsasync,0.1.0-alpha.1,0,0,https://github.com/loadingalias/rsasync,Currently being migrated.
+2026-11-03T05:36:33.929235Z,rsauthnz,0.1.0-alpha.1,0,0,https://github.com/loadingalias/rsauthnz,Currently being migrated.
+2026-11-03T05:36:36.025826Z,rsnetwork,0.1.0-alpha.1,0,0,https://github.com/loadingalias/rsnetwork,Currently being migrated.
+2026-11-03T05:44:42.576695Z,bern-cli,0.1.0,0,0,https://github.com/AimesSoft/Bern,`bern`: builds Bern applications for their configured targets
+2026-11-03T05:47:17.196024Z,nizaam-knowledge-graph,0.1.0,0,0,https://github.com/nizaam-islamic-ecosystem/knowledge-graph-engine,"A domain-independent knowledge graph engine for representing, validating, storing, querying, and reasoning over structured knowledge."
+2026-11-03T05:48:12.320746Z,seiza-pipeline,0.2.0,0,0,https://github.com/theatrus/seiza,"Distributed stacking for Seiza: partial stacks that describe themselves, combined and resumed by key"
+2026-11-03T05:55:37.197609Z,bern-gtk,0.1.0,0,0,https://github.com/AimesSoft/Bern,GTK 4 runtime of the `gtk + linux` target: libadwaita widgets bound to the Bern session runtime
+2026-11-03T06:01:13.627943Z,adaptif-gatotkaca-monoio-macros,0.2.0,0,0,https://github.com/csatrio/monoio-gatotkaca,"Proc macros for adaptif-gatotkaca-monoio (a fork of Monoio): #[monoio::main], #[monoio::test] and select!."
+2026-11-03T06:03:45.336577Z,adaptif-gatotkaca-monoio,0.3.0,0,0,https://github.com/csatrio/monoio-gatotkaca,"Stripped-down, Linux-only, io_uring-only thread-per-core async runtime (a fork of Monoio) used by the adaptif-gatotkaca transport system."
+2026-11-03T06:11:01.915891Z,zipp-cms,0.1.0,0,0,https://github.com/zipp-cms/zipp-next,"A headless cms where the content model is code: an api, a studio, migrations and TypeScript types from a Rust schema"
+2026-11-03T06:11:23.107135Z,zipp-seo,0.1.0,0,0,https://github.com/zipp-cms/zipp-next,"SEO for zipp like the Craft plugin meierlabs-seo: settings, seoJson, sitemaps"
+2026-11-03T06:11:31.009678Z,zipp-forms,0.1.0,0,0,https://github.com/zipp-cms/zipp-next,"Forms of the website for zipp, like Craft's Contact Form: declared in code, sent by mail"
+2026-11-03T06:13:39.342682Z,rapidproto-build,0.1.0-alpha.1,0,0,https://github.com/VeaaC/rapidproto/tree/rust,"Generate Rust protobuf decoders from .proto files in a build script, no protoc needed (RapidProto; work in progress)."
+2026-11-03T06:16:29.907671Z,feathrise_font_1,0.1.0,0,0,,Noto Sans CJK SC variable font byte segment 1 of 3 for Feathrise
+2026-11-03T06:16:34.063502Z,feathrise_font_2,0.1.0,0,0,,Noto Sans CJK SC variable font byte segment 2 of 3 for Feathrise
+2026-11-03T06:16:37.883143Z,feathrise_font_3,0.1.0,0,0,,Noto Sans CJK SC variable font byte segment 3 of 3 for Feathrise
+2026-11-03T06:16:42.296882Z,feathrise_font,0.1.0,0,0,,Complete Noto Sans CJK SC variable font for Feathrise
+2026-11-03T06:18:39.628071Z,dev-cleaner-core,0.3.0,0,0,https://github.com/sonald/dev-clean,Core library for scanning and cleaning developer build artifacts
