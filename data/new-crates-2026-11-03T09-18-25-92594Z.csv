@@ -1,0 +1,48 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T08:35:16.679432Z,rvsz,0.1.0,0,0,https://github.com/drizzt/rvsz,"Writes, verifies and extracts zips byte-identical to RomVault RVZSTD structured zips"
+2026-11-03T08:38:50.276164Z,ulo-config,0.1.0-alpha.2,0,0,https://github.com/ulo-rs/ulo,"Layered configuration for Ulo: TOML, JSON, YAML, .env and the environment read into one tree whose every value knows its origin, and typed sections that report every problem at once"
+2026-11-03T08:38:51.66063Z,ulo-health,0.1.0-alpha.2,0,0,https://github.com/ulo-rs/ulo,"Health for Ulo: checks with bounds, liveness, readiness and startup probes, and the module that turns readiness false before the first refusal at shutdown"
+2026-11-03T08:39:00.145126Z,ulo-db,0.1.0-alpha.2,0,0,https://github.com/ulo-rs/ulo,"The shared database policy for Ulo: connect, retry, close, health and the migration lock written once over the core's readiness API, and the Store trait each driver crate implements"
+2026-11-03T08:39:03.79375Z,ulo-otel,0.1.0-alpha.2,0,0,https://github.com/ulo-rs/ulo,"OpenTelemetry export for Ulo: a tracing layer over the transports' spans, the TraceSource that parents them on the incoming trace, sampling and the flush at shutdown"
+2026-11-03T08:39:10.899044Z,ulo-db-diesel,0.1.0-alpha.2,0,0,https://github.com/ulo-rs/ulo,"Diesel store for Ulo: a deadpool pool of diesel-async connections with the shared connect, health and migration-lock policy"
+2026-11-03T08:39:26.233453Z,lunatic-macros-twitchax-patch,0.13.1,0,0,https://github.com/twitchax/lunatic-rs,Helper macros for the `lunatic` crate
+2026-11-03T08:39:26.626296Z,lunatic-test-twitchax-patch,0.13.1,0,0,https://github.com/twitchax/lunatic-rs,"#[lunatic::test] macro, meant as a drop-in replacement for Rust's #[test]"
+2026-11-03T08:40:07.730281Z,torogao-format,0.4.0,0,0,,INP1 and vendor-extension format records: parsing and byte-stable serialization for Torogao.
+2026-11-03T08:40:41.509458Z,torogao-jam-laws,0.4.0,0,0,,"Validated jam-program laws, ported for torogao"
+2026-11-03T08:41:14.557519Z,torogao-vmc,0.4.0,0,0,,"VMC over OSC for Torogao's live VTuber mode (Stage 3.3): a bounded OSC 1.0 codec, the VMC frame model, the ARKit-to-governed expression mapping, and the tracking driver whose loss policy holds the la…"
+2026-11-03T08:41:54.259239Z,torogao-accel,0.4.0,0,0,,"Torogao's hardware-acceleration policy layer: capability probing, the acceleration settings model, effective-plan evaluation, and the determinism gate harness every offload workload must pass."
+2026-11-03T08:43:40.33873Z,torogao-engine,0.4.0,0,0,,"The Torogao puppet engine: model, parameter and deformer evaluation, physics, and rendering."
+2026-11-03T08:44:56.984889Z,torogao,0.4.0,0,0,,"The Torogao command-line tools: the registry, MCP and A2A servers, scenes, writer, tutorials, toolbox, and conversion."
+2026-11-03T08:46:32.064519Z,polyoxide-rt,0.45.0,0,0,https://github.com/dilettante-trading/polyoxide,"The runtime seam the polyoxide crates share: an injected clock, sleep and spawn, with the tasks, timeouts and intervals built on them"
+2026-11-03T08:46:53.27855Z,runim-derive,0.0.0-alpha1,0,0,https://github.com/denisJaved/Runim/,Derive marcos for runim library
+2026-11-03T08:47:59.633562Z,tc_seed,0.1.0,0,0,https://github.com/TomiCheng/tc_block_cipher,"SEED block cipher (RFC 4269, KISA) with a 128-bit key and block."
+2026-11-03T08:48:10.84635Z,tc_cast,0.1.0,0,0,https://github.com/TomiCheng/tc_block_cipher,CAST5 (RFC 2144) and CAST6 (RFC 2612) block ciphers.
+2026-11-03T08:50:55.882948Z,runim,0.0.0-alpha1,0,0,https://github.com/denisJaved/Runim/,Math animation rendering library
+2026-11-03T08:51:39.812275Z,jhm17,0.1.0,0,0,https://github.com/awxkee/jhm17,JPEG encoder with rate-distortion optimized quantization
+2026-11-03T08:55:42.363638Z,sail-acceptance,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,Source-shared executable evidence validation with direct stock-Verus refinements
+2026-11-03T08:55:42.830605Z,sail-contracts-ir,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,Validated shared syntax for neutral Rust contracts
+2026-11-03T08:55:42.974755Z,sail-ledger,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,"Verdicts, obligation identities, provisional and confirmed tiers, and result provenance"
+2026-11-03T08:55:43.117995Z,sail-solver,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,"Warm solver process pool, session replay, resource limits and crash recovery"
+2026-11-03T08:55:43.866163Z,sail-smtlib,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,"SMT-LIB parsing and printing, faithful to the bytes Z3 sends and receives"
+2026-11-03T08:57:16.925707Z,ulo-db-mongodb,0.1.0-alpha.2,0,0,https://github.com/ulo-rs/ulo,"MongoDB store for Ulo: a Client with the shared connect and health policy, its mongodb+srv lookup retried under the connect bound"
+2026-11-03T08:57:21.321206Z,gazette-ledger,0.0.1,0,0,https://github.com/merely-made/mere,"The contact ledger projection: gazette's Cambium side, over chirograph, incipit and sceno."
+2026-11-03T08:58:27.357764Z,ulo-db-redis,0.1.0-alpha.2,0,0,https://github.com/ulo-rs/ulo,"Redis store for Ulo: a ConnectionManager with the shared connect and health policy, tokio-comp alone"
+2026-11-03T09:00:30.992175Z,radicom-dict,0.1.0,0,0,https://github.com/cocosip/radicom,"Generated DICOM dictionary tables: tag constants, UID constants, dictionary lookups"
+2026-11-03T09:00:44.897913Z,radicom,0.1.0,0,0,https://github.com/cocosip/radicom,"DICOM processing library: data model, file IO, pixel data facade, codec interfaces and transcoder"
+2026-11-03T09:00:52.641252Z,radicom-json,0.1.0,0,0,https://github.com/cocosip/radicom,DICOM JSON (PS3.18) serialization for radicom
+2026-11-03T09:01:04.650525Z,radicom-network,0.1.0,0,0,https://github.com/cocosip/radicom,"DICOM network communication (DIMSE): associations, services, SCU and SCP"
+2026-11-03T09:05:39.915203Z,torogao-author,0.4.0,0,0,,"The Torogao authoring core: project model, canonical RON serializer, op log, and the decide() gate."
+2026-11-03T09:07:12.073774Z,sail-contracts-macros,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,Checked runtime expansion for neutral Rust contracts
+2026-11-03T09:08:16.333215Z,torogao-session,0.4.0,0,0,,"The Torogao editor-state interop core: session state, the torogao-author decide() gate, the tool registry, and the canonical session record."
+2026-11-03T09:08:23.753736Z,ft8rs,0.1.0,0,0,https://github.com/tallcode/ft8rs,"FT8 streaming decoder core: decode/stream/file-input, UI-independent"
+2026-11-03T09:08:29.407154Z,ulo-db-sqlx,0.1.0-alpha.2,0,0,https://github.com/ulo-rs/ulo,"SQLx stores for Ulo: Postgres, MySQL and SQLite pools with the shared connect, health and migration-lock policy"
+2026-11-03T09:14:54.818343Z,mc683xx-target,0.3.0,0,0,https://github.com/charlieh0tel/mc683xx,"A CPU32 under debug control: its registers, sizes, addresses and function codes, for the emulator and for silicon over BDM"
+2026-11-03T09:15:25.859698Z,einheit-plugin-sdk,0.6.0,0,0,https://github.com/einheit-solver/einheit,"einheit-plugin-sdk — write Einheit plugins: the plugin C ABI and its headers, and safe Rust traits over it for the LP, MILP and einheit_form kinds."
+2026-11-03T09:15:35.084094Z,cargo-einheit,0.6.0,0,0,https://github.com/einheit-solver/einheit,"cargo-einheit — installs Einheit plugins: `cargo einheit install <crate>` builds a plugin crate's library into the user plugin folder, where every Einheit host finds it by name."
+2026-11-03T09:16:24.156169Z,torogao-app,0.4.0,0,0,,The Torogao graphical application: the Persona-style stage and the traditional panel mode over the engine.
+2026-11-03T09:16:43.76467Z,telemaco-deno-core,0.350.0,0,0,https://github.com/AlbertoBarrago/telemaco-deno-core,"Fork of deno_core 0.350.0 with per-context module realms, used by the Telemaco headless browser"
+2026-11-03T09:16:49.883949Z,emu198x-common-coleco-colecovision,0.46.2,0,0,https://github.com/emu198x/coleco-colecovision,Shared ColecoVision wiring bound to a concrete board at compile time
+2026-11-03T09:16:52.106359Z,emu198x-machine-coleco-colecovision-ntsc,0.46.2,0,0,https://github.com/emu198x/coleco-colecovision,ColecoVision NTSC board wiring
+2026-11-03T09:16:52.605337Z,emu198x-machine-coleco-colecovision-pal,0.46.2,0,0,https://github.com/emu198x/coleco-colecovision,ColecoVision PAL board wiring
+2026-11-03T09:16:54.139456Z,emu198x-runtime-coleco-colecovision,0.46.2,0,0,https://github.com/emu198x/coleco-colecovision,Coleco ColecoVision family metadata and headless runtime wrapper around concrete ColecoVision boards
+2026-11-03T09:17:57.9934Z,sail-contracts,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,Neutral Rust contracts and checked scalar runtime

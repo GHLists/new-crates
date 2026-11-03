@@ -8,51 +8,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 08:18 UTC
+## Latest list — 2026-11-03 09:18 UTC
 
-New crates published between 2026-11-03 07:19 UTC and 2026-11-03 08:18 UTC.
+New crates published between 2026-11-03 08:18 UTC and 2026-11-03 09:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-03T08-18-32-978936Z.csv)
+[Full CSV](data/new-crates-2026-11-03T09-18-25-92594Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-03 07:19:29 | [arcbox-vhost-user](https://crates.io/crates/arcbox-vhost-user) | 0.11.0 | 0 | vhost-user back-end framework for ArcBox devices served to QEMU on macOS |
-| 2026-11-03 07:22:57 | [lockyard-core](https://crates.io/crates/lockyard-core) | 0.0.1 | 0 | Coordination for coding agents: a shared bus, work zones and tasks. |
-| 2026-11-03 07:22:57 | [viewport-lib-plugins](https://crates.io/crates/viewport-lib-plugins) | 0.1.0 | 0 | Plugins for viewport-lib: the built-in item types (point clouds, sprites, curve… |
-| 2026-11-03 07:23:12 | [lockyard-cloud-client](https://crates.io/crates/lockyard-cloud-client) | 0.0.1 | 0 | Coordination for coding agents: a shared bus, work zones and tasks. |
-| 2026-11-03 07:23:29 | [lockyard](https://crates.io/crates/lockyard) | 0.0.1 | 0 | Coordination for coding agents: a shared bus, work zones and tasks. |
-| 2026-11-03 07:26:07 | [ast-query](https://crates.io/crates/ast-query) | 0.1.0 | 0 | Pick a tree-sitter grammar by file extension, parse, and run named template que… |
-| 2026-11-03 07:26:28 | [arcbox-vz-driver](https://crates.io/crates/arcbox-vz-driver) | 0.11.0 | 0 | The Virtualization.framework adapter for the arcbox-vm-driver port: renders a V… |
-| 2026-11-03 07:27:23 | [phronesis-governance](https://crates.io/crates/phronesis-governance) | 0.40.0 | 0 | Embeddable governance core for the phronesis RETE engine: strict rules parsing,… |
-| 2026-11-03 07:27:45 | [rightkit-content-plan](https://crates.io/crates/rightkit-content-plan) | 0.1.1 | 0 | Store-free content planning rules: manual draft approval gate, first-sentence d… |
-| 2026-11-03 07:28:29 | [rightkit-media-fetch](https://crates.io/crates/rightkit-media-fetch) | 0.1.1 | 0 | Media fetch: yt-dlp download and 16 kHz mono WAV normalize, playlist expansion,… |
-| 2026-11-03 07:28:31 | [mcapdecode-rawjson](https://crates.io/crates/mcapdecode-rawjson) | 0.10.0 | 0 | Pass-through decoder for mcapdecode JSON payloads. |
-| 2026-11-03 07:30:48 | [sacdfs](https://crates.io/crates/sacdfs) | 0.4.0 | 0 | Read-only FUSE filesystem that shows SACD disc images as DSF files, decoded on… |
-| 2026-11-03 07:34:11 | [viewport-lib-gizmo](https://crates.io/crates/viewport-lib-gizmo) | 0.1.0 | 0 | Standalone transform gizmo for viewport-lib scenes: renderer-free hit-testing,… |
-| 2026-11-03 07:39:22 | [agentictracebook](https://crates.io/crates/agentictracebook) | 0.0.1 | 0 | Agentic Tracebook: a reserved name. A product of IO22 Labs, not yet released. |
-| 2026-11-03 07:41:43 | [retex-highlight](https://crates.io/crates/retex-highlight) | 1.8.0-alpha.1 | 0 | Syntax highlighting for retex: what minted asks of Pygments (latexminted), nati… |
-| 2026-11-03 07:43:26 | [observed_destination_core](https://crates.io/crates/observed_destination_core) | 0.29.1 | 0 | Contains shared components for defining various destinations for Observed pipel… |
-| 2026-11-03 07:45:19 | [ferrohealth-session](https://crates.io/crates/ferrohealth-session) | 0.0.0 | 0 | The OpenID Connect sign-in and the session of the FerroHEALTH operator consoles… |
-| 2026-11-03 07:50:39 | [mdview-rs](https://crates.io/crates/mdview-rs) | 0.2.0 | 0 | Terminal Markdown viewer: scroll, search, outline, mermaid diagrams, live reload |
-| 2026-11-03 07:51:18 | [omriss-core](https://crates.io/crates/omriss-core) | 0.17.0 | 0 | Source-preserving Markdown document engine for Omriss (canonical text, outline… |
-| 2026-11-03 07:52:50 | [mirro-core](https://crates.io/crates/mirro-core) | 0.1.0 | 0 | mirro 反射框架核心：静态类型元信息、动态值与可反射调用的方法 |
-| 2026-11-03 08:06:15 | [blenderui-sys](https://crates.io/crates/blenderui-sys) | 0.1.0 | 0 | Raw FFI bindings to the BUI C kit (Blender's UI as a C library) |
-| 2026-11-03 08:06:17 | [blenderui-tailwind](https://crates.io/crates/blenderui-tailwind) | 0.1.0 | 0 | Tailwind CSS v4 class compiler (class name -> CSS) for blenderui |
-| 2026-11-03 08:06:22 | [blenderui-macros](https://crates.io/crates/blenderui-macros) | 0.1.0 | 0 | Compile-time macros for blenderui: rsx!/view!, #[component], css! and tw! |
-| 2026-11-03 08:06:25 | [blenderui](https://crates.io/crates/blenderui) | 0.1.0 | 0 | Blender's UI for Rust: gpui-style syntax, every HTML element and CSS, drawn by… |
-| 2026-11-03 08:07:31 | [mirro-macro](https://crates.io/crates/mirro-macro) | 0.1.0 | 0 | mirro 反射框架的过程宏：#[typed]、#[method] / #[methods] 与 #[interface] |
-| 2026-11-03 08:07:57 | [mirro-validate](https://crates.io/crates/mirro-validate) | 0.1.0 | 0 | mirro 反射框架的校验层：基于施加协议的 range / length / count / regex 等规则 |
-| 2026-11-03 08:08:07 | [arty_tokio](https://crates.io/crates/arty_tokio) | 0.2.0 | 0 | Lets Arty tasks use Tokio-based libraries. |
-| 2026-11-03 08:08:29 | [mirro-openapi](https://crates.io/crates/mirro-openapi) | 0.1.0 | 0 | mirro 反射框架的 OpenAPI 生成层：把接口签名与字段校验约束编译成 3.1 文档 |
-| 2026-11-03 08:08:57 | [mirro](https://crates.io/crates/mirro) | 0.1.0 | 0 | mirro 门面：反射元信息、动态调用、过程宏与校验的一站式入口 |
-| 2026-11-03 08:13:56 | [rpack_core](https://crates.io/crates/rpack_core) | 0.7.0 | 0 | Atlas packing, configuration and data types shared by the rpack tools |
-| 2026-11-03 08:13:57 | [sismo-format](https://crates.io/crates/sismo-format) | 0.1.1 | 0 | Chunked wire and file format shared by the sismo recorder, viewer and CLI |
-| 2026-11-03 08:14:00 | [sismo-macros](https://crates.io/crates/sismo-macros) | 0.1.1 | 0 | Attribute macros for the sismo recorder |
-| 2026-11-03 08:14:40 | [sismo-analysis](https://crates.io/crates/sismo-analysis) | 0.1.1 | 0 | Session model, query language, aggregations and exports for sismo recordings |
-| 2026-11-03 08:14:48 | [sismo](https://crates.io/crates/sismo) | 0.1.1 | 0 | Low-overhead in-app recorder for spans, logs and counters, streamed live or sav… |
-| 2026-11-03 08:15:13 | [sismo-freya](https://crates.io/crates/sismo-freya) | 0.1.1 | 0 | Freya plugin that feeds frame marks, render phases and tree metrics into sismo |
-| 2026-11-03 08:18:12 | [retex-texlive](https://crates.io/crates/retex-texlive) | 1.8.0-alpha.1 | 0 | TeX Live years and package databases for retex |
-| 2026-11-03 08:18:22 | [retex-pdfx](https://crates.io/crates/retex-pdfx) | 1.8.0-alpha.1 | 0 | PDF/X for retex: a finished PDF made into a PDF/X-4 or PDF/X-1a, for the press |
+| 2026-11-03 08:35:16 | [rvsz](https://crates.io/crates/rvsz) | 0.1.0 | 0 | Writes, verifies and extracts zips byte-identical to RomVault RVZSTD structured… |
+| 2026-11-03 08:38:50 | [ulo-config](https://crates.io/crates/ulo-config) | 0.1.0-alpha.2 | 0 | Layered configuration for Ulo: TOML, JSON, YAML, .env and the environment read… |
+| 2026-11-03 08:38:51 | [ulo-health](https://crates.io/crates/ulo-health) | 0.1.0-alpha.2 | 0 | Health for Ulo: checks with bounds, liveness, readiness and startup probes, and… |
+| 2026-11-03 08:39:00 | [ulo-db](https://crates.io/crates/ulo-db) | 0.1.0-alpha.2 | 0 | The shared database policy for Ulo: connect, retry, close, health and the migra… |
+| 2026-11-03 08:39:03 | [ulo-otel](https://crates.io/crates/ulo-otel) | 0.1.0-alpha.2 | 0 | OpenTelemetry export for Ulo: a tracing layer over the transports' spans, the T… |
+| 2026-11-03 08:39:10 | [ulo-db-diesel](https://crates.io/crates/ulo-db-diesel) | 0.1.0-alpha.2 | 0 | Diesel store for Ulo: a deadpool pool of diesel-async connections with the shar… |
+| 2026-11-03 08:39:26 | [lunatic-macros-twitchax-patch](https://crates.io/crates/lunatic-macros-twitchax-patch) | 0.13.1 | 0 | Helper macros for the `lunatic` crate |
+| 2026-11-03 08:39:26 | [lunatic-test-twitchax-patch](https://crates.io/crates/lunatic-test-twitchax-patch) | 0.13.1 | 0 | #[lunatic::test] macro, meant as a drop-in replacement for Rust's #[test] |
+| 2026-11-03 08:40:07 | [torogao-format](https://crates.io/crates/torogao-format) | 0.4.0 | 0 | INP1 and vendor-extension format records: parsing and byte-stable serialization… |
+| 2026-11-03 08:40:41 | [torogao-jam-laws](https://crates.io/crates/torogao-jam-laws) | 0.4.0 | 0 | Validated jam-program laws, ported for torogao |
+| 2026-11-03 08:41:14 | [torogao-vmc](https://crates.io/crates/torogao-vmc) | 0.4.0 | 0 | VMC over OSC for Torogao's live VTuber mode (Stage 3.3): a bounded OSC 1.0 code… |
+| 2026-11-03 08:41:54 | [torogao-accel](https://crates.io/crates/torogao-accel) | 0.4.0 | 0 | Torogao's hardware-acceleration policy layer: capability probing, the accelerat… |
+| 2026-11-03 08:43:40 | [torogao-engine](https://crates.io/crates/torogao-engine) | 0.4.0 | 0 | The Torogao puppet engine: model, parameter and deformer evaluation, physics, a… |
+| 2026-11-03 08:44:56 | [torogao](https://crates.io/crates/torogao) | 0.4.0 | 0 | The Torogao command-line tools: the registry, MCP and A2A servers, scenes, writ… |
+| 2026-11-03 08:46:32 | [polyoxide-rt](https://crates.io/crates/polyoxide-rt) | 0.45.0 | 0 | The runtime seam the polyoxide crates share: an injected clock, sleep and spawn… |
+| 2026-11-03 08:46:53 | [runim-derive](https://crates.io/crates/runim-derive) | 0.0.0-alpha1 | 0 | Derive marcos for runim library |
+| 2026-11-03 08:47:59 | [tc_seed](https://crates.io/crates/tc_seed) | 0.1.0 | 0 | SEED block cipher (RFC 4269, KISA) with a 128-bit key and block. |
+| 2026-11-03 08:48:10 | [tc_cast](https://crates.io/crates/tc_cast) | 0.1.0 | 0 | CAST5 (RFC 2144) and CAST6 (RFC 2612) block ciphers. |
+| 2026-11-03 08:50:55 | [runim](https://crates.io/crates/runim) | 0.0.0-alpha1 | 0 | Math animation rendering library |
+| 2026-11-03 08:51:39 | [jhm17](https://crates.io/crates/jhm17) | 0.1.0 | 0 | JPEG encoder with rate-distortion optimized quantization |
+| 2026-11-03 08:55:42 | [sail-acceptance](https://crates.io/crates/sail-acceptance) | 0.2.0-rc.1 | 0 | Source-shared executable evidence validation with direct stock-Verus refinements |
+| 2026-11-03 08:55:42 | [sail-contracts-ir](https://crates.io/crates/sail-contracts-ir) | 0.2.0-rc.1 | 0 | Validated shared syntax for neutral Rust contracts |
+| 2026-11-03 08:55:42 | [sail-ledger](https://crates.io/crates/sail-ledger) | 0.2.0-rc.1 | 0 | Verdicts, obligation identities, provisional and confirmed tiers, and result pr… |
+| 2026-11-03 08:55:43 | [sail-solver](https://crates.io/crates/sail-solver) | 0.2.0-rc.1 | 0 | Warm solver process pool, session replay, resource limits and crash recovery |
+| 2026-11-03 08:55:43 | [sail-smtlib](https://crates.io/crates/sail-smtlib) | 0.2.0-rc.1 | 0 | SMT-LIB parsing and printing, faithful to the bytes Z3 sends and receives |
+| 2026-11-03 08:57:16 | [ulo-db-mongodb](https://crates.io/crates/ulo-db-mongodb) | 0.1.0-alpha.2 | 0 | MongoDB store for Ulo: a Client with the shared connect and health policy, its… |
+| 2026-11-03 08:57:21 | [gazette-ledger](https://crates.io/crates/gazette-ledger) | 0.0.1 | 0 | The contact ledger projection: gazette's Cambium side, over chirograph, incipit… |
+| 2026-11-03 08:58:27 | [ulo-db-redis](https://crates.io/crates/ulo-db-redis) | 0.1.0-alpha.2 | 0 | Redis store for Ulo: a ConnectionManager with the shared connect and health pol… |
+| 2026-11-03 09:00:30 | [radicom-dict](https://crates.io/crates/radicom-dict) | 0.1.0 | 0 | Generated DICOM dictionary tables: tag constants, UID constants, dictionary loo… |
+| 2026-11-03 09:00:44 | [radicom](https://crates.io/crates/radicom) | 0.1.0 | 0 | DICOM processing library: data model, file IO, pixel data facade, codec interfa… |
+| 2026-11-03 09:00:52 | [radicom-json](https://crates.io/crates/radicom-json) | 0.1.0 | 0 | DICOM JSON (PS3.18) serialization for radicom |
+| 2026-11-03 09:01:04 | [radicom-network](https://crates.io/crates/radicom-network) | 0.1.0 | 0 | DICOM network communication (DIMSE): associations, services, SCU and SCP |
+| 2026-11-03 09:05:39 | [torogao-author](https://crates.io/crates/torogao-author) | 0.4.0 | 0 | The Torogao authoring core: project model, canonical RON serializer, op log, an… |
+| 2026-11-03 09:07:12 | [sail-contracts-macros](https://crates.io/crates/sail-contracts-macros) | 0.2.0-rc.1 | 0 | Checked runtime expansion for neutral Rust contracts |
+| 2026-11-03 09:08:16 | [torogao-session](https://crates.io/crates/torogao-session) | 0.4.0 | 0 | The Torogao editor-state interop core: session state, the torogao-author decide… |
+| 2026-11-03 09:08:23 | [ft8rs](https://crates.io/crates/ft8rs) | 0.1.0 | 0 | FT8 streaming decoder core: decode/stream/file-input, UI-independent |
+| 2026-11-03 09:08:29 | [ulo-db-sqlx](https://crates.io/crates/ulo-db-sqlx) | 0.1.0-alpha.2 | 0 | SQLx stores for Ulo: Postgres, MySQL and SQLite pools with the shared connect,… |
+| 2026-11-03 09:14:54 | [mc683xx-target](https://crates.io/crates/mc683xx-target) | 0.3.0 | 0 | A CPU32 under debug control: its registers, sizes, addresses and function codes… |
+| 2026-11-03 09:15:25 | [einheit-plugin-sdk](https://crates.io/crates/einheit-plugin-sdk) | 0.6.0 | 0 | einheit-plugin-sdk — write Einheit plugins: the plugin C ABI and its headers, a… |
+| 2026-11-03 09:15:35 | [cargo-einheit](https://crates.io/crates/cargo-einheit) | 0.6.0 | 0 | cargo-einheit — installs Einheit plugins: `cargo einheit install <crate>` build… |
+| 2026-11-03 09:16:24 | [torogao-app](https://crates.io/crates/torogao-app) | 0.4.0 | 0 | The Torogao graphical application: the Persona-style stage and the traditional… |
+| 2026-11-03 09:16:43 | [telemaco-deno-core](https://crates.io/crates/telemaco-deno-core) | 0.350.0 | 0 | Fork of deno_core 0.350.0 with per-context module realms, used by the Telemaco… |
+| 2026-11-03 09:16:49 | [emu198x-common-coleco-colecovision](https://crates.io/crates/emu198x-common-coleco-colecovision) | 0.46.2 | 0 | Shared ColecoVision wiring bound to a concrete board at compile time |
+| 2026-11-03 09:16:52 | [emu198x-machine-coleco-colecovision-ntsc](https://crates.io/crates/emu198x-machine-coleco-colecovision-ntsc) | 0.46.2 | 0 | ColecoVision NTSC board wiring |
+| 2026-11-03 09:16:52 | [emu198x-machine-coleco-colecovision-pal](https://crates.io/crates/emu198x-machine-coleco-colecovision-pal) | 0.46.2 | 0 | ColecoVision PAL board wiring |
+| 2026-11-03 09:16:54 | [emu198x-runtime-coleco-colecovision](https://crates.io/crates/emu198x-runtime-coleco-colecovision) | 0.46.2 | 0 | Coleco ColecoVision family metadata and headless runtime wrapper around concret… |
+| 2026-11-03 09:17:57 | [sail-contracts](https://crates.io/crates/sail-contracts) | 0.2.0-rc.1 | 0 | Neutral Rust contracts and checked scalar runtime |
 
 ## Data source
 
