@@ -1,0 +1,35 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T11:18:32.42254Z,dr-strange-llm,2.24.4,0,0,https://github.com/wangyingsm/dr-strange,"LLM helpers for dr-strange: embeddings, digestion, entity resolution (arch/07)"
+2026-11-03T11:20:15.418715Z,dr-strange-mcp,2.24.4,0,0,https://github.com/wangyingsm/dr-strange,MCP server embedding dr-strange-core (arch/06)
+2026-11-03T11:20:21.606826Z,reswho,1.0.1,0,0,https://github.com/noih/reswho,Read-only resource attribution for macOS
+2026-11-03T11:33:07.150161Z,libephemeris-core-data,1.0.0-beta.1,0,0,https://github.com/g-battaglia/libephemeris,Immutable bundled base coefficients for the LibEphemeris engine
+2026-11-03T11:33:16.5418Z,libephemeris-core,1.0.0-beta.1,0,0,https://github.com/g-battaglia/libephemeris,Astrological ephemerides and astronomical calculation engine in Rust
+2026-11-03T11:43:20.227586Z,brevi,0.0.1,0,0,,Brevi: a programming language for AI models that compiles to Rust. Name reserved; the compiler is coming soon.
+2026-11-03T11:48:06.265978Z,pysic-rs,0.2.0,0,0,https://github.com/ThotDjehuty/pysic-rs,High-performance mathematical physics engine with Python bindings
+2026-11-03T11:55:10.249189Z,zalt-codec,0.1.0,0,0,https://github.com/TheRincon/zalt,"Zstandard (RFC 8878) codec core. Modern frames only, no_std, no legacy formats."
+2026-11-03T12:00:57.92856Z,ariad-pdf,0.3.0,0,0,https://github.com/bavanchun/AriadShift,Pure-Rust structural PDF manipulation and inspection for AriadShift
+2026-11-03T12:01:11.150719Z,ariad-engine-io,0.3.0,0,0,https://github.com/bavanchun/AriadShift,Shared NDJSON engine protocol helpers and path validation for AriadShift engines
+2026-11-03T12:01:48.578387Z,zalt-neon,0.1.0,0,0,https://github.com/TheRincon/zalt,aarch64 NEON kernels implementing the zalt-codec backend seam.
+2026-11-03T12:02:02.183251Z,bfcompiler,0.1.1,0,0,https://github.com/kirameku26/bfcompiler,"A Brainfuck AOT compiler for ARM64, x86-64, i386, and RISC-V 64"
+2026-11-03T12:04:28.661264Z,zalt-embed,0.1.0,0,0,https://github.com/TheRincon/zalt,"Embedding layer for zalt: streaming policy, memory bounding, backend selection."
+2026-11-03T12:04:44.533243Z,origincloud-iam,0.4.0,0,0,https://github.com/origincloudhq/sdk-rust,"The Origin Cloud IAM API: users, service accounts, roles, role bindings, permissions and the audit log."
+2026-11-03T12:05:09.630072Z,zalt-recipe,0.1.0,0,0,https://github.com/TheRincon/zalt,"L3 mechanism: tuning manifests and dictionary selection, consumed as data."
+2026-11-03T12:06:08.221372Z,zalt-ztml,0.1.0,0,0,https://github.com/TheRincon/zalt,"The ZTML recipe: a manifest and a content-prefix dictionary, as data."
+2026-11-03T12:06:24.409151Z,zalt-archive,0.1.0,0,0,https://github.com/TheRincon/zalt,ZALT-archives (ZLTA): multi-file archives built entirely from standard zstd frames — a valid .tar.zst that is also randomly accessible.
+2026-11-03T12:07:07.385831Z,emu198x-common-atari-7800,0.46.2,0,0,https://github.com/emu198x/atari-7800,Shared original atari-7800 wiring and state
+2026-11-03T12:07:09.875183Z,emu198x-machine-atari-7800,0.46.2,0,0,https://github.com/emu198x/atari-7800,Fixed Atari 7800 Ntsc board
+2026-11-03T12:07:10.286846Z,emu198x-machine-atari-7800-pal,0.46.2,0,0,https://github.com/emu198x/atari-7800,Fixed Atari 7800 Pal board
+2026-11-03T12:07:11.827549Z,emu198x-runtime-atari-7800,0.46.2,0,0,https://github.com/emu198x/atari-7800,Atari 7800 family metadata and headless runtime wrapper
+2026-11-03T12:07:20.811272Z,cortexkit-tokens,0.1.0,0,0,https://github.com/cortexkit/commons,"Token counts for CortexKit runners and compaction providers: an offline tokenizer per model family, image token rules, and the measurement of replayed reasoning, so every module counts a part the sam…"
+2026-11-03T12:08:03.156347Z,paperpaw-lang,0.6.0-beta.1,0,0,https://github.com/hthoene/paperpaw,"Language tags, text direction and writing mode for PaperPaw (no_std)"
+2026-11-03T12:08:04.148571Z,paperpaw-table,0.6.0-beta.1,0,0,https://github.com/hthoene/paperpaw,The firmware's shared function tables for PaperPaw plugins (no_std)
+2026-11-03T12:08:34.373357Z,paperpaw-plugin-format-docx,1.0.0,0,0,https://github.com/hthoene/paperpaw,"PaperPaw DOCX documents: .docx text, headings, lists, tables, links and pictures"
+2026-11-03T12:08:35.358119Z,paperpaw-plugin-format-images,1.0.0,0,0,https://github.com/hthoene/paperpaw,"PaperPaw pictures as books: a JPEG, PNG or GIF and those after it in its folder, a page each"
+2026-11-03T12:08:35.682209Z,paperpaw-plugin-format-mobi,1.0.0,0,0,https://github.com/hthoene/paperpaw,"PaperPaw Mobipocket format: .mobi and .azw books without DRM, PalmDOC compression"
+2026-11-03T12:09:06.201684Z,ravenrs-report-designer,27.1.9,0,0,https://github.com/alexkads/RavenRS,"The RavenRS report designer, to put inside an application: bands, fields, properties and a live preview."
+2026-11-03T12:09:08.433306Z,ravenrs-app-library,27.1.9,0,0,https://github.com/alexkads/RavenRS,"Records most RavenRS business applications need: people, organizations, addresses, tasks, events, notes and files, ready to use or extend."
+2026-11-03T12:10:20.523588Z,replace_cell,0.1.0,0,0,https://codeberg.org/Innomina/rs-ReplaceCell,WIP cell type
+2026-11-03T12:13:14.904312Z,visioncraft,0.1.0,0,0,https://github.com/DreamLab-AI/visioncraft,"Explicit quality plans, bounded execution receipts and deterministic evidence gates"
+2026-11-03T12:14:25.387639Z,zalt-ffi,0.1.0,0,0,https://github.com/TheRincon/zalt,"C ABI for zalt: in-process embedding from Swift, Objective-C, C and C++."
+2026-11-03T12:15:30.399328Z,load3d,0.1.4,0,0,https://github.com/agmt/load3d-rs,"3D files read in pure Rust, each format a feature: FBX (binary and text, 3.0 to 7.7), OBJ and MTL as ufbx 0.23.1 reads them, ported whole, with animation, skinning, NURBS, triangulation and subdivisi…"
+2026-11-03T12:16:43.094703Z,paperpaw-plugin-end-of-book,1.0.0,0,0,https://github.com/hthoene/paperpaw,"PaperPaw end-of-book screen: the next book of the series, a rating, finished or not"
