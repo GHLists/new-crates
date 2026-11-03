@@ -8,67 +8,59 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 19:19 UTC
+## Latest list — 2026-11-03 20:20 UTC
 
-New crates published between 2026-11-03 18:18 UTC and 2026-11-03 19:19 UTC.
+New crates published between 2026-11-03 19:19 UTC and 2026-11-03 20:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-03T19-19-04-998978Z.csv)
+[Full CSV](data/new-crates-2026-11-03T20-20-27-042169Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-03 18:21:48 | [whycodes-slop](https://crates.io/crates/whycodes-slop) | 0.6.29 | 0 | Deterministic code-sloppiness metrics for WhyCodes |
-| 2026-11-03 18:23:11 | [dfdu-update](https://crates.io/crates/dfdu-update) | 0.4.0 | 0 | Updates: the latest release, its assets checked against their published SHA-256… |
-| 2026-11-03 18:23:40 | [typedids](https://crates.io/crates/typedids) | 0.1.0 | 0 | Type-safe ID newtypes via derive macro |
-| 2026-11-03 18:25:12 | [aplan-mcp](https://crates.io/crates/aplan-mcp) | 0.5.0 | 0 | MCP server for aplan: a deliberately small tool surface over the same evidence… |
-| 2026-11-03 18:27:16 | [filer-zfs](https://crates.io/crates/filer-zfs) | 0.0.2 | 0 | Read-only ZFS file system driver for the Filer API. |
-| 2026-11-03 18:32:21 | [whycodes-tui](https://crates.io/crates/whycodes-tui) | 0.6.29 | 0 | Full-screen terminal UI for WhyCodes (ratatui) |
-| 2026-11-03 18:33:12 | [dfdu-store](https://crates.io/crates/dfdu-store) | 0.4.0 | 0 | Persistence: ncdu JSON import and export, snapshots, the scan cache, scan histo… |
-| 2026-11-03 18:35:30 | [aplan](https://crates.io/crates/aplan) | 0.5.0 | 0 | Spec-driven plan validator: evidence-gated tasks and an acyclic dependency grap… |
-| 2026-11-03 18:37:27 | [parcel-plugin](https://crates.io/crates/parcel-plugin) | 0.1.0 | 0 | Rust SDK for building native Parcel plugins |
-| 2026-11-03 18:38:11 | [hstd](https://crates.io/crates/hstd) | 0.2.0 | 0 | My own personal standard library with features I feel are missing from std. |
-| 2026-11-03 18:38:51 | [keru_layout](https://crates.io/crates/keru_layout) | 0.1.0 | 0 | UI layout library |
-| 2026-11-03 18:38:52 | [aiface](https://crates.io/crates/aiface) | 0.1.0 | 0 | Aiface - unified multi-provider LLM client (Claude, OpenAI, Gemini, Copilot and… |
-| 2026-11-03 18:39:36 | [nu_plugin_zip](https://crates.io/crates/nu_plugin_zip) | 0.1.0+nu-0.116.0 | 0 | Browse zip archives from Nushell like folders — ls, glob and open inside a zip,… |
-| 2026-11-03 18:40:57 | [whycodes-cli](https://crates.io/crates/whycodes-cli) | 0.6.29 | 0 | WhyCodes: a fast, provider-independent coding agent for the terminal |
-| 2026-11-03 18:42:19 | [keystore-core](https://crates.io/crates/keystore-core) | 1.0.0 | 0 | Semantic keystore model (entries, passwords, errors, PEM) shared by the keystor… |
-| 2026-11-03 18:42:24 | [keystore-asn1-extra](https://crates.io/crates/keystore-asn1-extra) | 1.0.0 | 0 | Bouncy Castle ASN.1 modules not covered by the RustCrypto formats crates |
-| 2026-11-03 18:42:27 | [keystore-crypto](https://crates.io/crates/keystore-crypto) | 1.0.0 | 0 | KDFs, ciphers and MACs used by the Java keystore formats, bit-exact with Bouncy… |
-| 2026-11-03 18:42:28 | [keystore-pqc](https://crates.io/crates/keystore-pqc) | 1.0.0 | 0 | Post-quantum key and signature algorithms with X.509/PKCS#8 encodings |
-| 2026-11-03 18:42:32 | [keystore-crypto-extra](https://crates.io/crates/keystore-crypto-extra) | 1.0.0 | 0 | HPKE, FPE, PAKE and BLS surfaces for the keystore stack |
-| 2026-11-03 18:43:11 | [mboxshell](https://crates.io/crates/mboxshell) | 1.3.0 | 0 | Fast terminal viewer for MBOX files of any size. Open, search and export emails… |
-| 2026-11-03 18:43:13 | [dfdu-session](https://crates.io/crates/dfdu-session) | 0.4.0 | 0 | What a front end of dfdu shows besides drawing and input: the state of a browse… |
-| 2026-11-03 18:43:56 | [cspx](https://crates.io/crates/cspx) | 0.0.1 | 0 | Library offering general-purpose tools, enumerators and solvers for the manipul… |
-| 2026-11-03 18:45:48 | [game-toolkit-platformer](https://crates.io/crates/game-toolkit-platformer) | 0.1.0 | 0 | A pluggable platforming controller for game-toolkit: fluid, snappy movement (ju… |
-| 2026-11-03 18:47:47 | [syncsmith](https://crates.io/crates/syncsmith) | 0.2.0 | 0 | syncsmith keeps files synchronized between a source (git repo or folder) and a… |
-| 2026-11-03 18:51:28 | [whycodes-function](https://crates.io/crates/whycodes-function) | 0.6.29 | 0 | Function-tool helpers for WhyCodes |
-| 2026-11-03 18:53:13 | [dfdu-tui](https://crates.io/crates/dfdu-tui) | 0.4.0 | 0 | Terminal browser for dfdu |
-| 2026-11-03 18:53:56 | [keystore-jks](https://crates.io/crates/keystore-jks) | 1.0.0 | 0 | JKS, CaseExactJKS and JCEKS keystore reader and writer |
-| 2026-11-03 18:55:00 | [opencoders](https://crates.io/crates/opencoders) | 0.1.0 | 0 | Async Rust client for the OpenCode v2 HTTP API |
-| 2026-11-03 18:56:20 | [tpt-kinetix-kg](https://crates.io/crates/tpt-kinetix-kg) | 0.1.2 | 0 | Knowledge-graph ingestion, analysis, and code generation tooling |
-| 2026-11-03 18:56:24 | [tpt-kinetix-av1](https://crates.io/crates/tpt-kinetix-av1) | 0.1.2 | 0 | AV1 decoder and encoder for the TPT Kinetix media processing engine |
-| 2026-11-03 18:56:26 | [tpt-kinetix-bitstream](https://crates.io/crates/tpt-kinetix-bitstream) | 0.1.2 | 0 | Shared bitstream primitives (BitReader, rANS) for the TPT Kinetix original code… |
-| 2026-11-03 18:56:32 | [tpt-kinetix-mux](https://crates.io/crates/tpt-kinetix-mux) | 0.1.2 | 0 | Container muxers (MP4/ISO-BMFF) for the TPT Kinetix media processing engine |
-| 2026-11-03 18:56:34 | [tpt-kinetix-vp9](https://crates.io/crates/tpt-kinetix-vp9) | 0.1.2 | 0 | VP9 video decoder for the TPT Kinetix media processing engine |
-| 2026-11-03 19:01:50 | [tpt-kinetix-face](https://crates.io/crates/tpt-kinetix-face) | 0.1.2 | 0 | Face: an original talking-head/video-conferencing codec using landmark-driven p… |
-| 2026-11-03 19:01:50 | [whycodes-schema](https://crates.io/crates/whycodes-schema) | 0.6.29 | 0 | JSON schema validation for WhyCodes |
-| 2026-11-03 19:03:13 | [dfdu](https://crates.io/crates/dfdu) | 0.4.0 | 0 | Disk usage browser for the terminal |
-| 2026-11-03 19:03:41 | [keystore-pki](https://crates.io/crates/keystore-pki) | 1.0.0 | 0 | RSA, ECDSA, EdDSA and DSA signatures, key generation and X.509 parsing for the… |
-| 2026-11-03 19:11:35 | [stepmesh](https://crates.io/crates/stepmesh) | 0.1.0 | 0 | Pure Rust STEP (ISO 10303-21) reader that turns B-rep solids into watertight tr… |
-| 2026-11-03 19:11:43 | [laks-auth](https://crates.io/crates/laks-auth) | 0.1.0 | 0 | We don't have a map, but we have momentum. Let's see where this road goes. |
-| 2026-11-03 19:11:43 | [laks-common](https://crates.io/crates/laks-common) | 0.1.0 | 0 | We don't have a map, but we have momentum. Let's see where this road goes. |
-| 2026-11-03 19:11:44 | [laks-settings](https://crates.io/crates/laks-settings) | 0.1.0 | 0 | We don't have a map, but we have momentum. Let's see where this road goes. |
-| 2026-11-03 19:11:44 | [laks-storage](https://crates.io/crates/laks-storage) | 0.1.0 | 0 | We don't have a map, but we have momentum. Let's see where this road goes. |
-| 2026-11-03 19:11:45 | [laks-appstate](https://crates.io/crates/laks-appstate) | 0.1.0 | 0 | We don't have a map, but we have momentum. Let's see where this road goes. |
-| 2026-11-03 19:11:54 | [tpt-kinetix-lean](https://crates.io/crates/tpt-kinetix-lean) | 0.1.2 | 0 | Lean: an original, embedded-first video codec for the TPT Kinetix media process… |
-| 2026-11-03 19:12:13 | [whycodes-sdk](https://crates.io/crates/whycodes-sdk) | 0.6.29 | 0 | Thin client for the whycodes local daemon (protocol v1) |
-| 2026-11-03 19:13:31 | [keystore-x509](https://crates.io/crates/keystore-x509) | 1.0.0 | 0 | X.509 structures, certificate builders, extensions and RFC 5280 path validation |
-| 2026-11-03 19:14:41 | [scruff](https://crates.io/crates/scruff) | 0.1.0 | 0 | Scala code formatter |
-| 2026-11-03 19:14:52 | [vastitas](https://crates.io/crates/vastitas) | 0.1.0-alpha | 0 | The Vastitas compiler |
-| 2026-11-03 19:15:39 | [maplibre-native-next-harfrust](https://crates.io/crates/maplibre-native-next-harfrust) | 0.15.0 | 0 | harfrust 0.15.0 with the patches maplibre-native-next needs (in patches/) |
-| 2026-11-03 19:15:41 | [maplibre-native-next](https://crates.io/crates/maplibre-native-next) | 0.0.1 | 0 | A Rust port of the MapLibre Native map rendering core |
-| 2026-11-03 19:18:57 | [outlook-pst-fixed](https://crates.io/crates/outlook-pst-fixed) | 1.2.0 | 0 | Microsoft's outlook-pst 1.2.0 with two fixes for real-world PST files, until th… |
-| 2026-11-03 19:18:59 | [mail-markdown](https://crates.io/crates/mail-markdown) | 0.1.0 | 0 | Convert email messages (.eml, Apple Mail .emlx) to Markdown with their headers,… |
-| 2026-11-03 19:19:02 | [pdf-markdown](https://crates.io/crates/pdf-markdown) | 0.1.0 | 0 | Convert PDF documents to Markdown: headings from font sizes, lists, paragraphs,… |
+| 2026-11-03 19:19:05 | [office-markdown](https://crates.io/crates/office-markdown) | 0.1.0 | 0 | Convert Word, PowerPoint and Excel documents (.docx, .pptx, .xlsx, .xls, .ods)… |
+| 2026-11-03 19:19:08 | [messages-markdown](https://crates.io/crates/messages-markdown) | 0.1.0 | 0 | Read Apple Messages' chat.db one conversation at a time, as structured threads… |
+| 2026-11-03 19:20:22 | [davcheck-config](https://crates.io/crates/davcheck-config) | 0.1.0 | 0 | Config-file, .env and environment-variable loading shared by davcheck's front e… |
+| 2026-11-03 19:20:22 | [davcheck-core](https://crates.io/crates/davcheck-core) | 0.1.0 | 0 | WebDAV/CardDAV client, XML request builders and vCard model used by davcheck |
+| 2026-11-03 19:20:24 | [davcheck-runner](https://crates.io/crates/davcheck-runner) | 0.1.0 | 0 | Test registry, DAG executor, assertions and event stream behind davcheck |
+| 2026-11-03 19:20:27 | [davcheck-tui](https://crates.io/crates/davcheck-tui) | 0.1.0 | 0 | Terminal step-debugger for davcheck test runs, with live HTTP/XML inspection |
+| 2026-11-03 19:20:30 | [davcheck](https://crates.io/crates/davcheck) | 0.1.0 | 0 | Conformance test harness and interactive protocol inspector for CardDAV and Web… |
+| 2026-11-03 19:21:37 | [tpt-kinetix-lossless](https://crates.io/crates/tpt-kinetix-lossless) | 0.1.2 | 0 | Lossless, bit-exact reversible codec for high-bit-depth medical/scientific/arch… |
+| 2026-11-03 19:22:59 | [keystore-pkcs12](https://crates.io/crates/keystore-pkcs12) | 1.0.0 | 0 | PKCS#12 (PFX) keystore reader and writer with PBES1, PBES2, PBMAC1 and the Boun… |
+| 2026-11-03 19:23:01 | [excalidraw-render-fonts-xiaolai](https://crates.io/crates/excalidraw-render-fonts-xiaolai) | 0.1.0+excalidraw.0.… | 0 | Xiaolai CJK font chunks (common blocks) for excalidraw-render (internal) |
+| 2026-11-03 19:23:04 | [excalidraw-render-fonts-xiaolai-extended](https://crates.io/crates/excalidraw-render-fonts-xiaolai-extended) | 0.1.0+excalidraw.0.… | 0 | Xiaolai CJK font chunks (extended blocks) for excalidraw-render (internal) |
+| 2026-11-03 19:23:07 | [excalidraw-render-fonts](https://crates.io/crates/excalidraw-render-fonts) | 0.1.0+excalidraw.0.… | 0 | Font payloads and catalog for excalidraw-render (internal; no stability guarant… |
+| 2026-11-03 19:23:11 | [excalidraw-render](https://crates.io/crates/excalidraw-render) | 0.1.0 | 0 | Render Excalidraw drawings to SVG, PNG and PDF in pure Rust, without a browser |
+| 2026-11-03 19:23:14 | [excalidraw-render-cli](https://crates.io/crates/excalidraw-render-cli) | 0.1.0 | 0 | Command-line tool that renders Excalidraw drawings to SVG, PNG and PDF, without… |
+| 2026-11-03 19:24:36 | [turbofan-sbe](https://crates.io/crates/turbofan-sbe) | 0.1.1 | 0 | SBE (Simple Binary Encoding): codecs generated from message schemas, and the ru… |
+| 2026-11-03 19:24:37 | [turbofan-cluster](https://crates.io/crates/turbofan-cluster) | 0.1.1 | 0 | A Raft-replicated state machine framework: a deterministic service, client sess… |
+| 2026-11-03 19:26:40 | [rgy-vendored-core](https://crates.io/crates/rgy-vendored-core) | 0.1.8 | 0 | rgx's engine: the adapter contract, the byte-search kernels, the JSON arena and… |
+| 2026-11-03 19:26:45 | [rgy-vendored-rar-codec](https://crates.io/crates/rgy-vendored-rar-codec) | 0.1.8 | 0 | Pure-Rust, no_std RAR codec: RAR4/RAR5 parsing, LZ+Huffman and PPMd decode (sol… |
+| 2026-11-03 19:27:14 | [rgy-vendored-adapters-archive](https://crates.io/crates/rgy-vendored-adapters-archive) | 0.1.8 | 0 | rgx adapters: zip, tar, cpio, 7z, single-file decompressors |
+| 2026-11-03 19:27:24 | [rgy-vendored-adapters-inspect](https://crates.io/crates/rgy-vendored-adapters-inspect) | 0.1.8 | 0 | rgx adapter: forensic binary inspection — magic identification, embedded-struct… |
+| 2026-11-03 19:27:32 | [rgy-vendored-adapters-mail](https://crates.io/crates/rgy-vendored-adapters-mail) | 0.1.8 | 0 | rgx adapters for e-mail archives (mbox, eml) with MIME attachment recursion |
+| 2026-11-03 19:27:43 | [afri-sms](https://crates.io/crates/afri-sms) | 0.1.0 | 0 | A unified, highly-optimized SMS/OTP adapter library for African telecom provide… |
+| 2026-11-03 19:28:03 | [selu](https://crates.io/crates/selu) | 0.0.1 | 0 | Selu: a TypeScript-style language that compiles to World of Warcraft addon Lua… |
+| 2026-11-03 19:29:23 | [afri-sms-skills](https://crates.io/crates/afri-sms-skills) | 0.1.1 | 0 | LLM agent tool definitions, prompt schemas, and CLI scaffolder for afri-sms. |
+| 2026-11-03 19:29:37 | [pst-markdown](https://crates.io/crates/pst-markdown) | 0.1.0 | 0 | Read Outlook PST and OST files one item at a time, as mail Markdown, over any R… |
+| 2026-11-03 19:30:18 | [agave-block-engine-proto](https://crates.io/crates/agave-block-engine-proto) | 0.0.1-reserved | 0 | reserved for future use |
+| 2026-11-03 19:31:36 | [tpt-kinetix-realtime](https://crates.io/crates/tpt-kinetix-realtime) | 0.1.2 | 0 | Realtime: an original low-latency, loss-resilient video codec for the TPT Kinet… |
+| 2026-11-03 19:32:28 | [rgy-vendored-adapters-media](https://crates.io/crates/rgy-vendored-adapters-media) | 0.1.8 | 0 | rgx adapters for media metadata (EXIF/TIFF, audio tags, FITS, DICOM) |
+| 2026-11-03 19:41:37 | [tpt-kinetix-screen](https://crates.io/crates/tpt-kinetix-screen) | 0.1.2 | 0 | Screen: an original screen/UI-capture codec tuned for sharp edges, flat regions… |
+| 2026-11-03 19:42:25 | [rgy-vendored-adapters-pdf](https://crates.io/crates/rgy-vendored-adapters-pdf) | 0.1.8 | 0 | rgx in-process PDF text adapter (full: classic xref + xref streams + ObjStm + C… |
+| 2026-11-03 19:50:14 | [cifmi](https://crates.io/crates/cifmi) | 0.1.0 | 0 | Reads CIF 1.1 and 2.0 files into crystal structures |
+| 2026-11-03 19:51:37 | [tpt-kinetix-vision](https://crates.io/crates/tpt-kinetix-vision) | 0.1.2 | 0 | Vision: an original video-for-machines codec optimizing ML model accuracy per b… |
+| 2026-11-03 19:52:26 | [rgy-vendored-adapters-tabular](https://crates.io/crates/rgy-vendored-adapters-tabular) | 0.1.8 | 0 | rgx adapters for tabular & geospatial data (SQLite, DBF, Shapefile) |
+| 2026-11-03 20:01:35 | [tpt-kinetix-volumetric](https://crates.io/crates/tpt-kinetix-volumetric) | 0.1.2 | 0 | Volumetric / point-cloud codec for AR-VR content in the TPT Kinetix media proce… |
+| 2026-11-03 20:02:21 | [rs-rich-acp](https://crates.io/crates/rs-rich-acp) | 0.0.1 | 0 | A client for the Agent Client Protocol (ACP): drive coding agents over JSON-RPC… |
+| 2026-11-03 20:02:23 | [cornacai](https://crates.io/crates/cornacai) | 0.0.1 | 0 | A terminal client for coding agents over the Agent Client Protocol: streamed an… |
+| 2026-11-03 20:02:24 | [rgy-vendored-adapters-threed](https://crates.io/crates/rgy-vendored-adapters-threed) | 0.1.8 | 0 | rgx adapters: 3D model formats (glb, stl, ply, fbx, pcd, las, vtk, obj) |
+| 2026-11-03 20:05:59 | [quattro-sqz](https://crates.io/crates/quattro-sqz) | 0.1.0 | 0 | Reader for SQZ! compressed Quattro Pro spreadsheets (.WQ!) |
+| 2026-11-03 20:08:01 | [call_scripters](https://crates.io/crates/call_scripters) | 0.2.0 | 0 | Call scripts as markdown, followed as a clickable conversation graph in one off… |
+| 2026-11-03 20:11:38 | [tpt-kinetix-package](https://crates.io/crates/tpt-kinetix-package) | 0.1.2 | 0 | Just-in-time HLS and DASH packaging of MP4 files for the TPT Kinetix media engi… |
+| 2026-11-03 20:12:12 | [ipc-channel-ns](https://crates.io/crates/ipc-channel-ns) | 0.23.1 | 0 | A multiprocess drop-in replacement for Rust channels |
+| 2026-11-03 20:12:24 | [rgy-vendored-adapters-llm](https://crates.io/crates/rgy-vendored-adapters-llm) | 0.1.8 | 0 | rgx adapters for machine-learning model files (GGUF, safetensors, NumPy, protob… |
+| 2026-11-03 20:15:47 | [crawlforge-rules](https://crates.io/crates/crawlforge-rules) | 0.22.0 | 0 | The audit rule catalog of CrawlForge: rule metadata, SQL site rules over a craw… |
+| 2026-11-03 20:15:50 | [crawlforge-core](https://crates.io/crates/crawlforge-core) | 0.22.0 | 0 | The crawl engine of CrawlForge: HTTP, filesystem and list crawls, HTML extracti… |
+| 2026-11-03 20:15:52 | [crawlforge](https://crates.io/crates/crawlforge) | 0.22.0 | 0 | Technical SEO auditor for sites you own: crawl, audit, store in SQLite and diff… |
 
 ## Data source
 

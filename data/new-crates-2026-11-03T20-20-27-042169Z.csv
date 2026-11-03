@@ -1,0 +1,46 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T19:19:05.364876Z,office-markdown,0.1.0,0,0,https://github.com/lwm-luminx/markdown-extract,"Convert Word, PowerPoint and Excel documents (.docx, .pptx, .xlsx, .xls, .ods) to Markdown. Pure Rust."
+2026-11-03T19:19:08.791376Z,messages-markdown,0.1.0,0,0,https://github.com/lwm-luminx/markdown-extract,"Read Apple Messages' chat.db one conversation at a time, as structured threads or Markdown."
+2026-11-03T19:20:22.400282Z,davcheck-config,0.1.0,0,0,https://github.com/zaettar/davcheck,"Config-file, .env and environment-variable loading shared by davcheck's front ends"
+2026-11-03T19:20:22.871517Z,davcheck-core,0.1.0,0,0,https://github.com/zaettar/davcheck,"WebDAV/CardDAV client, XML request builders and vCard model used by davcheck"
+2026-11-03T19:20:24.882759Z,davcheck-runner,0.1.0,0,0,https://github.com/zaettar/davcheck,"Test registry, DAG executor, assertions and event stream behind davcheck"
+2026-11-03T19:20:27.785915Z,davcheck-tui,0.1.0,0,0,https://github.com/zaettar/davcheck,"Terminal step-debugger for davcheck test runs, with live HTTP/XML inspection"
+2026-11-03T19:20:30.049971Z,davcheck,0.1.0,0,0,https://github.com/zaettar/davcheck,Conformance test harness and interactive protocol inspector for CardDAV and WebDAV servers
+2026-11-03T19:21:37.864565Z,tpt-kinetix-lossless,0.1.2,0,0,https://github.com/tpt-solutions/tpt-kinetix,"Lossless, bit-exact reversible codec for high-bit-depth medical/scientific/archival frames (TPT Kinetix)"
+2026-11-03T19:22:59.543736Z,keystore-pkcs12,1.0.0,0,0,https://github.com/rodroidmods/keystore-rs,"PKCS#12 (PFX) keystore reader and writer with PBES1, PBES2, PBMAC1 and the Bouncy Castle presets"
+2026-11-03T19:23:01.496212Z,excalidraw-render-fonts-xiaolai,0.1.0+excalidraw.0.18.1,0,0,https://github.com/sagikazarmark/excalidraw-render,Xiaolai CJK font chunks (common blocks) for excalidraw-render (internal)
+2026-11-03T19:23:04.575561Z,excalidraw-render-fonts-xiaolai-extended,0.1.0+excalidraw.0.18.1,0,0,https://github.com/sagikazarmark/excalidraw-render,Xiaolai CJK font chunks (extended blocks) for excalidraw-render (internal)
+2026-11-03T19:23:07.973018Z,excalidraw-render-fonts,0.1.0+excalidraw.0.18.1,0,0,https://github.com/sagikazarmark/excalidraw-render,Font payloads and catalog for excalidraw-render (internal; no stability guarantees outside it)
+2026-11-03T19:23:11.118283Z,excalidraw-render,0.1.0,0,0,https://github.com/sagikazarmark/excalidraw-render,"Render Excalidraw drawings to SVG, PNG and PDF in pure Rust, without a browser"
+2026-11-03T19:23:14.05334Z,excalidraw-render-cli,0.1.0,0,0,https://github.com/sagikazarmark/excalidraw-render,"Command-line tool that renders Excalidraw drawings to SVG, PNG and PDF, without a browser"
+2026-11-03T19:24:36.028488Z,turbofan-sbe,0.1.1,0,0,https://github.com/jrogers/turbofan,"SBE (Simple Binary Encoding): codecs generated from message schemas, and the runtime they call"
+2026-11-03T19:24:37.878018Z,turbofan-cluster,0.1.1,0,0,https://github.com/jrogers/turbofan,"A Raft-replicated state machine framework: a deterministic service, client sessions, timers and snapshots"
+2026-11-03T19:26:40.393817Z,rgy-vendored-core,0.1.8,0,0,https://github.com/danalec/rgy,"rgx's engine: the adapter contract, the byte-search kernels, the JSON arena and the pack store -- no_std + alloc, with an opt-in std feature"
+2026-11-03T19:26:45.840155Z,rgy-vendored-rar-codec,0.1.8,0,0,https://github.com/danalec/rgy,"Pure-Rust, no_std RAR codec: RAR4/RAR5 parsing, LZ+Huffman and PPMd decode (solid, multivolume, VM filters), RAR5 store encode. Zero dependencies."
+2026-11-03T19:27:14.623095Z,rgy-vendored-adapters-archive,0.1.8,0,0,https://github.com/danalec/rgy,"rgx adapters: zip, tar, cpio, 7z, single-file decompressors"
+2026-11-03T19:27:24.482099Z,rgy-vendored-adapters-inspect,0.1.8,0,0,https://github.com/danalec/rgy,"rgx adapter: forensic binary inspection — magic identification, embedded-structure carving, strings, entropy"
+2026-11-03T19:27:32.459045Z,rgy-vendored-adapters-mail,0.1.8,0,0,https://github.com/danalec/rgy,"rgx adapters for e-mail archives (mbox, eml) with MIME attachment recursion"
+2026-11-03T19:27:43.885572Z,afri-sms,0.1.0,0,0,https://github.com/sam-c14/afri-sms,"A unified, highly-optimized SMS/OTP adapter library for African telecom providers with automated fallback routing."
+2026-11-03T19:28:03.30907Z,selu,0.0.1,0,0,https://github.com/rennerdo30/selu,Selu: a TypeScript-style language that compiles to World of Warcraft addon Lua (in development; this is a placeholder)
+2026-11-03T19:29:23.42067Z,afri-sms-skills,0.1.1,0,0,https://github.com/sam-c14/afri-sms,"LLM agent tool definitions, prompt schemas, and CLI scaffolder for afri-sms."
+2026-11-03T19:29:37.303424Z,pst-markdown,0.1.0,0,0,https://github.com/lwm-luminx/markdown-extract,"Read Outlook PST and OST files one item at a time, as mail Markdown, over any Read + Seek source with a block cache."
+2026-11-03T19:30:18.099177Z,agave-block-engine-proto,0.0.1-reserved,0,0,https://github.com/anza-xyz/agave,reserved for future use
+2026-11-03T19:31:36.728214Z,tpt-kinetix-realtime,0.1.2,0,0,https://github.com/tpt-solutions/tpt-kinetix,"Realtime: an original low-latency, loss-resilient video codec for the TPT Kinetix media processing engine"
+2026-11-03T19:32:28.823754Z,rgy-vendored-adapters-media,0.1.8,0,0,https://github.com/danalec/rgy,"rgx adapters for media metadata (EXIF/TIFF, audio tags, FITS, DICOM)"
+2026-11-03T19:41:37.654304Z,tpt-kinetix-screen,0.1.2,0,0,https://github.com/tpt-solutions/tpt-kinetix,"Screen: an original screen/UI-capture codec tuned for sharp edges, flat regions, and repeated glyphs"
+2026-11-03T19:42:25.257138Z,rgy-vendored-adapters-pdf,0.1.8,0,0,https://github.com/danalec/rgy,rgx in-process PDF text adapter (full: classic xref + xref streams + ObjStm + CID fonts via ToUnicode CMaps + full filter zoo)
+2026-11-03T19:50:14.135162Z,cifmi,0.1.0,0,0,https://github.com/jcwang587/cifmi,Reads CIF 1.1 and 2.0 files into crystal structures
+2026-11-03T19:51:37.294726Z,tpt-kinetix-vision,0.1.2,0,0,https://github.com/tpt-solutions/tpt-kinetix,Vision: an original video-for-machines codec optimizing ML model accuracy per bit
+2026-11-03T19:52:26.694572Z,rgy-vendored-adapters-tabular,0.1.8,0,0,https://github.com/danalec/rgy,"rgx adapters for tabular & geospatial data (SQLite, DBF, Shapefile)"
+2026-11-03T20:01:35.092093Z,tpt-kinetix-volumetric,0.1.2,0,0,https://github.com/tpt-solutions/tpt-kinetix,Volumetric / point-cloud codec for AR-VR content in the TPT Kinetix media processing engine
+2026-11-03T20:02:21.618753Z,rs-rich-acp,0.0.1,0,0,https://github.com/buchochelliq-labs/rs-rich-cli,"A client for the Agent Client Protocol (ACP): drive coding agents over JSON-RPC on stdio, with typed messages, permission requests and sandboxed file and terminal capabilities"
+2026-11-03T20:02:23.266682Z,cornacai,0.0.1,0,0,https://github.com/buchochelliq-labs/rs-rich-cli,"A terminal client for coding agents over the Agent Client Protocol: streamed answers, permission prompts, reviewed edits and a shell beside them"
+2026-11-03T20:02:24.586813Z,rgy-vendored-adapters-threed,0.1.8,0,0,https://github.com/danalec/rgy,"rgx adapters: 3D model formats (glb, stl, ply, fbx, pcd, las, vtk, obj)"
+2026-11-03T20:05:59.916209Z,quattro-sqz,0.1.0,0,0,https://github.com/jrnold/sqz,Reader for SQZ! compressed Quattro Pro spreadsheets (.WQ!)
+2026-11-03T20:08:01.284334Z,call_scripters,0.2.0,0,0,https://github.com/ev-main/call_scripters,"Call scripts as markdown, followed as a clickable conversation graph in one offline html file"
+2026-11-03T20:11:38.841165Z,tpt-kinetix-package,0.1.2,0,0,https://github.com/tpt-solutions/tpt-kinetix,Just-in-time HLS and DASH packaging of MP4 files for the TPT Kinetix media engine
+2026-11-03T20:12:12.553196Z,ipc-channel-ns,0.23.1,0,0,https://github.com/miruji/ipc-channel,A multiprocess drop-in replacement for Rust channels
+2026-11-03T20:12:24.529166Z,rgy-vendored-adapters-llm,0.1.8,0,0,https://github.com/danalec/rgy,"rgx adapters for machine-learning model files (GGUF, safetensors, NumPy, protobuf, tiktoken vocabularies)"
+2026-11-03T20:15:47.127481Z,crawlforge-rules,0.22.0,0,0,https://github.com/dcarrero/crawlforge,"The audit rule catalog of CrawlForge: rule metadata, SQL site rules over a crawl store, and the Fluent texts of every language"
+2026-11-03T20:15:50.139777Z,crawlforge-core,0.22.0,0,0,https://github.com/dcarrero/crawlforge,"The crawl engine of CrawlForge: HTTP, filesystem and list crawls, HTML extraction and a single-writer SQLite store"
+2026-11-03T20:15:52.976277Z,crawlforge,0.22.0,0,0,https://github.com/dcarrero/crawlforge,"Technical SEO auditor for sites you own: crawl, audit, store in SQLite and diff two crawls"
