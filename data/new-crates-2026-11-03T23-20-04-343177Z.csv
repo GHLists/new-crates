@@ -1,0 +1,31 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T22:21:30.799972Z,best-of-n,0.0.0,0,0,,bon (best-of-N): placeholder reserving the name; not yet usable.
+2026-11-03T22:21:59.883763Z,xmachines-codec-avro,0.0.0,0,0,https://gitlab.com/xmachin-es/xmachines-rs,"Reserved for the xmachines runtime, a port of XState's interpreter and actor runtime; not affiliated with Stately. The first release follows."
+2026-11-03T22:23:43.95483Z,stainless-facts,0.3.0,0,0,https://github.com/johlrogge/stainless_facts,"A simple, immutable fact stream library inspired by Datomic with support for I/O and aggregation"
+2026-11-03T22:31:58.847304Z,xmachines-codec-msgpack,0.0.0,0,0,https://gitlab.com/xmachin-es/xmachines-rs,"Reserved for the xmachines runtime, a port of XState's interpreter and actor runtime; not affiliated with Stately. The first release follows."
+2026-11-03T22:33:45.756186Z,athame-config,0.0.0,0,0,https://gitlab.com/Breached-Skye/athame/athame,Layered config and trust for athame
+2026-11-03T22:36:11.923864Z,athame,0.0.0,0,0,https://gitlab.com/Breached-Skye/athame/athame,"Cast projects, files and commands from templates, with mise-style layered config"
+2026-11-03T22:42:00.304863Z,xmachines-codec-protobuf,0.0.0,0,0,https://gitlab.com/xmachin-es/xmachines-rs,"Reserved for the xmachines runtime, a port of XState's interpreter and actor runtime; not affiliated with Stately. The first release follows."
+2026-11-03T22:42:08.415732Z,spr-gnark-ffi-prover-build,0.8.0,0,0,https://github.com/helius-labs/zolana,Build-script helper that compiles a spr-gnark-ffi-prover circuit package into a Go C archive.
+2026-11-03T22:42:12.252917Z,spr-smart-account-client,0.8.0,0,0,,Client (PDAs + instruction builders) for the Squads smart-account program used to gate Zolana protocol authorities
+2026-11-03T22:42:27.385352Z,spr-protocol-instructions,0.8.0,0,0,https://github.com/helius-labs/zolana,Instruction builders for Zolana protocol administration and maintenance.
+2026-11-03T22:42:36.462015Z,spr-gnark-ffi-prover,0.8.0,0,0,https://github.com/helius-labs/zolana,"In-process gnark Groth16 prover for Zolana ZK programs, linked as a Go C archive."
+2026-11-03T22:47:06.998107Z,peak-blocker,0.1.1,0,0,https://github.com/jesserobertson/peak-blocker,A Claude Code PreToolUse hook that pauses tool calls during Anthropic's weekday peak window.
+2026-11-03T22:52:00.12522Z,xmachines-eval-quickjs,0.0.0,0,0,https://gitlab.com/xmachin-es/xmachines-rs,"Reserved for the xmachines runtime, a port of XState's interpreter and actor runtime; not affiliated with Stately. The first release follows."
+2026-11-03T22:52:35.920053Z,zacess-games,0.3.0,0,0,https://github.com/zacesshq/games,Fourteen original games for the terminal in the Zacess high contrast themes
+2026-11-03T23:01:59.014841Z,xmachines-wasi-host,0.0.0,0,0,https://gitlab.com/xmachin-es/xmachines-rs,"Reserved for the xmachines runtime, a port of XState's interpreter and actor runtime; not affiliated with Stately. The first release follows."
+2026-11-03T23:02:43.864062Z,alpha-time,0.0.1,0,0,https://github.com/Sn0wo2/alpha-time,Alpha build expiration and tamper detection.
+2026-11-03T23:02:49.601755Z,aphrody-hayro-jbig2,0.3.0,0,0,https://github.com/aphrody-labs/bun-os,"A memory-safe, pure-Rust JBIG2 decoder. Aphrody fork of hayro-jbig2 (https://github.com/LaurenzV/hayro) carrying the PdfCraft patches listed in apps/pdfcraft/vendor/README.md of aphrody-labs/bun-os."
+2026-11-03T23:02:54.934967Z,ltk_navgrid,0.1.0,0,0,,Navigation grid (.aimesh_ngrid) and grid overlay reading/writing for League Toolkit
+2026-11-03T23:04:16.408702Z,turbospark-coreml,0.7.0,0,0,https://github.com/whit3rabbit/turbospark,"Apple Core ML runner: load compiled or packaged models, marshal tensors, run stateless and stateful predictions."
+2026-11-03T23:06:52.912952Z,turbospark-embeddings,0.7.0,0,0,https://github.com/whit3rabbit/turbospark,"Portable embedding models (EmbeddingGemma, Snowflake arctic-embed BERT/XLM-R/GTE/Nomic, SigLIP2 NaFlex, CLAP) plus sentence-transformers pooling, normalization, similarity, and late-interaction scori…"
+2026-11-03T23:07:00.259524Z,sapphire-timer-server,0.2.0,0,0,https://github.com/sapphire-turtle/sapphire-timer,"sapphire-timer's app server: the one process that reads and writes the presets and logs, with its sync and MCP methods"
+2026-11-03T23:07:00.621817Z,sapphire-journal-server,0.15.0,0,0,https://github.com/sapphire-turtle/sapphire-journal,"sapphire-journal's app server: the one process that reads and writes the journal, with its sync and MCP methods"
+2026-11-03T23:07:00.734775Z,rs-sqlite2arrow-ipc,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-sqlite2arrow-ipc,Convert SQLite table to Arrow IPC stream
+2026-11-03T23:07:06.122799Z,sapphire-timer-cli,0.2.0,0,0,https://github.com/sapphire-turtle/sapphire-timer,"The command line of sapphire-timer's two editions, the headless one and the desktop app: the framework's commands, which run the app server or call it"
+2026-11-03T23:07:10.022796Z,sapphire-journal-headless,0.15.0,0,0,https://github.com/sapphire-turtle/sapphire-journal,"A task, event and note management app built on sapphire-framework - file-based, local-first, made for human-agent collaboration"
+2026-11-03T23:07:11.459622Z,sapphire-timer-headless,0.2.0,0,0,https://github.com/sapphire-turtle/sapphire-timer,"A preset-based timer built on sapphire-framework - file-based, local-first, made for human-agent collaboration"
+2026-11-03T23:10:20.650581Z,aphrody-hayro-syntax,0.7.2,0,0,https://github.com/aphrody-labs/bun-os,A low-level crate for reading PDF files. Aphrody fork of hayro-syntax (https://github.com/LaurenzV/hayro) carrying the PdfCraft patches listed in apps/pdfcraft/vendor/README.md of aphrody-labs/bun-os.
+2026-11-03T23:11:06.447011Z,av-toolbox-build,0.2.0,0,0,https://github.com/ChillFish8/av-toolbox,Build script helpers that hash the kernel sources of av-toolbox crates.
+2026-11-03T23:12:01.730632Z,xmachines-kafka,0.0.0,0,0,https://gitlab.com/xmachin-es/xmachines-rs,"Reserved for the xmachines runtime, a port of XState's interpreter and actor runtime; not affiliated with Stately. The first release follows."
+2026-11-03T23:17:14.831484Z,pay-respects-rule-engine,0.1.0,0,0,https://github.com/iffse/pay-respects,Rule IR and evaluator for the pay-respects CLI tool
