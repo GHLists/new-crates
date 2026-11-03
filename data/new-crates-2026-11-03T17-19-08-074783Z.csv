@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T16:22:09.755557Z,udpstp-key-permissions,0.0.0,0,0,https://github.com/pederbe/udpstp,Windows Shared Key file permission assessment for udpstp. Placeholder: the implementation is in development and will be published here.
+2026-11-03T16:25:50.557043Z,cpa-core,0.4.1,0,0,https://github.com/vayungodara/cliproxy-rs,"Part of cliproxy: config, credentials, formats and the execution envelope"
+2026-11-03T16:25:54.562402Z,cpa-common,0.4.1,0,0,https://github.com/vayungodara/cliproxy-rs,Part of cliproxy: provider-neutral request helpers shared by translators and executors
+2026-11-03T16:25:57.448329Z,cpa-home,0.4.1,0,0,https://github.com/vayungodara/cliproxy-rs,Part of cliproxy: the Home control-plane client
+2026-11-03T16:25:58.479422Z,cpa-translate,0.4.1,0,0,https://github.com/vayungodara/cliproxy-rs,"Part of cliproxy: request and response translation between the Anthropic, OpenAI and Gemini API formats"
+2026-11-03T16:26:02.358519Z,cpa-exec,0.4.1,0,0,https://github.com/vayungodara/cliproxy-rs,Part of cliproxy: upstream provider executors
+2026-11-03T16:29:30.348523Z,flashvsr-4k,0.2.0,0,0,https://github.com/arkyu2077/ai-video-upscaler,"Official Rust SDK & 30-module workflow toolkit for VideoUpscaler (https://videoupscaler.co) — 4K/8K AI Video Super-Resolution, Denoising, 60FPS Frame Interpolation, Stabilization, n8n, Make, Zapier &…"
+2026-11-03T16:29:32.963871Z,n8n-videoupscaler,0.2.0,0,0,https://github.com/arkyu2077/ai-video-upscaler,"Official Rust SDK & 30-module workflow toolkit for VideoUpscaler (https://videoupscaler.co) — 4K/8K AI Video Super-Resolution, Denoising, 60FPS Frame Interpolation, Stabilization, n8n, Make, Zapier &…"
+2026-11-03T16:31:13.473338Z,whycodes-memory,0.6.29,0,0,https://github.com/whycorporation/whycodes,Cross-session semantic / auto memory for whycodes
+2026-11-03T16:37:37.634554Z,cpa-plugin,0.4.1,0,0,https://github.com/vayungodara/cliproxy-rs,"Part of cliproxy: the native plugin host (CLIProxyAPI C ABI 1, registration schema 6) and plugin store"
+2026-11-03T16:41:36.210177Z,whycodes-plugin,0.6.29,0,0,https://github.com/whycorporation/whycodes,Shell and auth plugin discovery for WhyCodes
+2026-11-03T16:45:34.793134Z,xgpui-ios,1.26.2,0,0,https://github.com/gpui-luma-dev/xgpui,Upstream-derived UIKit and Metal backend for xgpui on iOS
+2026-11-03T16:46:01.477001Z,cpa-server,0.4.1,0,0,https://github.com/vayungodara/cliproxy-rs,"Part of cliproxy: HTTP routes, client auth, credential selection and the management API"
+2026-11-03T16:51:57.714876Z,whycodes-skill,0.6.29,0,0,https://github.com/whycorporation/whycodes,Skill registry and loader for WhyCodes
+2026-11-03T16:54:52.716333Z,flz_transport,0.1.0,0,0,https://github.com/flezha/flezha,"Flezha shared transport library — QUIC, UDS, binary framing"
+2026-11-03T16:55:27.527554Z,flz_core,0.1.0,0,0,https://github.com/flezha/flezha,"Flezha SDK kernel — poll-based dispatch, durable state, retries, timers and transport shared by the Rust and Java SDKs"
+2026-11-03T16:55:50.304408Z,flz_core_ffi,0.1.0,0,0,https://github.com/flezha/flezha,C ABI and JNI bindings over flz_core for non-Rust Flezha SDK hosts
+2026-11-03T16:55:51.499568Z,meowtable,0.1.2,0,0,,A ~2x leaner [Option<T>; CAP] using a partially initialized array with an init bitmask
+2026-11-03T16:55:58.365821Z,flezha-macros,0.1.0,0,0,https://github.com/flezha/flezha_rust_sdk,Procedural macros for the Flezha Rust SDK
+2026-11-03T16:56:22.838761Z,flezha_runner,0.1.0,0,0,https://github.com/flezha/flezha_rust_sdk,Flezha Rust SDK — author flow and steps relays and run them against a Flezha controller
+2026-11-03T16:56:24.553117Z,cpa-store,0.4.1,0,0,https://github.com/vayungodara/cliproxy-rs,"Part of cliproxy: remote config and auth stores (PostgreSQL, S3-compatible object storage, Git)"
+2026-11-03T16:59:03.89861Z,alpr-sdk,0.1.0,0,0,https://github.com/alpr-sh/sdk,"Alpr.sh's SDK for Rust: license plate recognition from photos, cameras, readings and webhooks."
+2026-11-03T17:02:34.228367Z,whycodes-tools,0.6.29,0,0,https://github.com/whycorporation/whycodes,Built-in tools for WhyCodes
+2026-11-03T17:02:56.139775Z,bancaditalia-rates,0.1.0,0,0,https://github.com/LucaCappelletti94/bancaditalia-rates,Typed client for the Banca d'Italia exchange rates REST API
+2026-11-03T17:05:40.705948Z,flake-egui,0.1.0,0,0,https://github.com/creepersaur/flake-egui,egui integration for the Flake engine
+2026-11-03T17:06:40.796249Z,unpic-rs,0.1.0,0,0,https://github.com/getappz/unpic-rs,Universal image CDN URL detection and transformation
+2026-11-03T17:06:51.442824Z,windwatcher-server,0.1.0,0,0,https://github.com/OtavioGonzaga/windwatcher,Official self-hosted server for Windwatcher.
+2026-11-03T17:06:51.508138Z,cliproxy,0.4.1,0,0,https://github.com/vayungodara/cliproxy-rs,"Use DeepSeek, GLM, Kimi, OpenRouter and more in Codex CLI and Claude Code: one local endpoint with API translation and failover. CLIProxyAPI-compatible."
+2026-11-03T17:11:00.079271Z,whycodes-mcp,0.6.29,0,0,https://github.com/whycorporation/whycodes,Model Context Protocol client for whycodes
+2026-11-03T17:13:06.574877Z,extend-docx,0.1.0,0,0,https://github.com/extend-hq/react-docx,"Rust parser, document model, and serializer for DOCX and legacy Word documents"
+2026-11-03T17:13:47.686032Z,apksig-rs,1.0.0,0,0,https://github.com/rodroidmods/apksigner-rs,APK signing and verification — a faithful Rust port of AOSP platform/tools/apksig
+2026-11-03T17:13:49.820273Z,apksigner,1.0.0,0,0,https://github.com/rodroidmods/apksigner-rs,APK signer and verifier CLI — a faithful Rust port of AOSP apksigner
+2026-11-03T17:18:39.987787Z,transcreva,0.1.0,0,0,https://github.com/arkyu2077/transcreva-mcp,"Official Rust SDK & MCP client for Transcreva (https://transcreva.net) — Brazilian Portuguese (PT-BR) AI audio & video to text transcription, WhatsApp voice notes, and SRT/VTT subtitles."
