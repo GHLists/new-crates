@@ -8,55 +8,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 01:19 UTC
+## Latest list — 2026-11-03 02:18 UTC
 
-New crates published between 2026-11-03 00:18 UTC and 2026-11-03 01:19 UTC.
+New crates published between 2026-11-03 01:19 UTC and 2026-11-03 02:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-03T01-19-18-153248Z.csv)
+[Full CSV](data/new-crates-2026-11-03T02-18-39-388301Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-03 00:19:11 | [driveleaf-ntfs](https://crates.io/crates/driveleaf-ntfs) | 0.1.0 | 0 | Fast NTFS Master File Table scanner |
-| 2026-11-03 00:19:15 | [driveleaf-treemap](https://crates.io/crates/driveleaf-treemap) | 0.1.0 | 0 | Squarified treemap layout with no GUI dependency |
-| 2026-11-03 00:19:20 | [driveleaf-win](https://crates.io/crates/driveleaf-win) | 0.1.0 | 0 | Windows file system and shell calls for Driveleaf |
-| 2026-11-03 00:19:26 | [driveleaf-core](https://crates.io/crates/driveleaf-core) | 0.1.0 | 0 | Disk usage model, aggregation and directory-walk scanner |
-| 2026-11-03 00:19:33 | [driveleaf-cli](https://crates.io/crates/driveleaf-cli) | 0.1.0 | 0 | Command line interface for the Driveleaf scan engine |
-| 2026-11-03 00:22:11 | [vitel](https://crates.io/crates/vitel) | 0.1.0 | 0 | Rust companion of the vitel Python package: SLO and error-budget burn-rate grad… |
-| 2026-11-03 00:22:53 | [sqlview](https://crates.io/crates/sqlview) | 0.1.0 | 0 | Keyboard-driven terminal ER diagram viewer for live SQL databases |
-| 2026-11-03 00:23:14 | [romi](https://crates.io/crates/romi) | 0.5.0 | 0 | Play your games in your terminal: a libretro frontend and game library, with Re… |
-| 2026-11-03 00:24:13 | [weft-arrow-store](https://crates.io/crates/weft-arrow-store) | 0.2.0 | 0 | Read a stored WeftDB aspect range straight into an Apache Arrow RecordBatch. |
-| 2026-11-03 00:29:07 | [tuicalc](https://crates.io/crates/tuicalc) | 0.1.0 | 0 | A terminal spreadsheet editor for Excel .xlsx workbooks, with vim-style keys |
-| 2026-11-03 00:32:10 | [citel](https://crates.io/crates/citel) | 0.1.0 | 0 | Rust companion of the citel Python package: certify that every claim in an answ… |
-| 2026-11-03 00:40:35 | [useceleris-client](https://crates.io/crates/useceleris-client) | 1.0.2 | 0 | Client SDK for Celeris realtime channels. |
-| 2026-11-03 00:42:11 | [immel](https://crates.io/crates/immel) | 0.1.0 | 0 | Rust companion of the immel Python package: boundary-defense sense (hidden-Unic… |
-| 2026-11-03 00:46:46 | [sapphire-sync-server](https://crates.io/crates/sapphire-sync-server) | 0.25.0 | 0 | sapphire-sync's app server: the one process per host that serves a workspace an… |
-| 2026-11-03 00:46:49 | [sapphire-sync-cli](https://crates.io/crates/sapphire-sync-cli) | 0.25.0 | 0 | The command line of sapphire-sync's two editions, the headless one and the desk… |
-| 2026-11-03 00:46:53 | [sapphire-sync-headless](https://crates.io/crates/sapphire-sync-headless) | 0.25.0 | 0 | A sync-only reference app for sapphire-framework - simple P2P file sync over ir… |
-| 2026-11-03 00:49:26 | [ferrokit-core](https://crates.io/crates/ferrokit-core) | 0.4.0 | 0 | The AppKit layer under ferrokit (use that): places real AppKit views in a windo… |
-| 2026-11-03 00:49:41 | [ferrokit](https://crates.io/crates/ferrokit) | 0.4.0 | 0 | Native Mac apps in Rust: every view a real AppKit view (tables, outlines, text)… |
-| 2026-11-03 00:49:55 | [docspring-cli](https://crates.io/crates/docspring-cli) | 1.0.0-rc.1 | 0 | DocSpring's command-line interface: fill PDF and Word templates, generate PDFs… |
-| 2026-11-03 00:50:07 | [sqlx-doris-core](https://crates.io/crates/sqlx-doris-core) | 0.2.0 | 0 | Standalone Apache Doris driver for SQLx |
-| 2026-11-03 00:50:18 | [sqlx-doris-macros](https://crates.io/crates/sqlx-doris-macros) | 0.2.0 | 0 | Compile-time implementation for sqlx-doris |
-| 2026-11-03 00:50:21 | [useceleris-server](https://crates.io/crates/useceleris-server) | 1.0.1 | 0 | Server SDK for Celeris realtime channels: signs connection credentials on a tru… |
-| 2026-11-03 00:50:30 | [sqlx-doris-ops](https://crates.io/crates/sqlx-doris-ops) | 0.2.0 | 0 | Doris operation primitives used by sqlx-doris |
-| 2026-11-03 00:51:52 | [sqlx-doris-cli](https://crates.io/crates/sqlx-doris-cli) | 0.2.0 | 0 | Command-line implementation for sqlx-doris |
-| 2026-11-03 00:52:13 | [verel](https://crates.io/crates/verel) | 0.1.0 | 0 | Rust companion of the verel Python package (the brain): the verdict-bus models,… |
-| 2026-11-03 00:55:15 | [mdkg-git](https://crates.io/crates/mdkg-git) | 0.0.1 | 0 | Placeholder for mdkg's internal mdkg-git crate; its first real version is 0.7.1… |
-| 2026-11-03 00:55:17 | [mdkg-ops](https://crates.io/crates/mdkg-ops) | 0.0.1 | 0 | Placeholder for mdkg's internal mdkg-ops crate; its first real version is 0.7.1… |
-| 2026-11-03 00:55:18 | [mdkg-presence](https://crates.io/crates/mdkg-presence) | 0.0.1 | 0 | Placeholder for mdkg's internal mdkg-presence crate; its first real version is… |
-| 2026-11-03 00:55:20 | [mdkg-serve](https://crates.io/crates/mdkg-serve) | 0.0.1 | 0 | Placeholder for mdkg's internal mdkg-serve crate; its first real version is 0.7… |
-| 2026-11-03 00:55:20 | [mdkg-wire](https://crates.io/crates/mdkg-wire) | 0.0.1 | 0 | Placeholder for mdkg's internal mdkg-wire crate; its first real version is 0.7.… |
-| 2026-11-03 01:00:17 | [rigless-rtl](https://crates.io/crates/rigless-rtl) | 0.0.2 | 0 | Exact, faster-than-real-time emulation of SystemVerilog designs |
-| 2026-11-03 01:02:11 | [agentvision](https://crates.io/crates/agentvision) | 0.1.0 | 0 | Rust companion of the agentvision Python package (the eyes): typed vision repor… |
-| 2026-11-03 01:06:53 | [taut-foundation](https://crates.io/crates/taut-foundation) | 0.11.0 | 0 | Taut no_std + alloc codec, descriptor and explicit validation foundation |
-| 2026-11-03 01:07:48 | [tree-sitter-rst-next](https://crates.io/crates/tree-sitter-rst-next) | 0.3.0 | 0 | reStructuredText grammar for tree-sitter |
-| 2026-11-03 01:08:02 | [castellan-client](https://crates.io/crates/castellan-client) | 0.0.1 | 0 | The application side of Castellan's custody route over Djinn's door: calls, ans… |
-| 2026-11-03 01:11:37 | [libass-sys-next](https://crates.io/crates/libass-sys-next) | 0.2.0 | 0 | Raw bindings for libass |
-| 2026-11-03 01:11:48 | [libass-next](https://crates.io/crates/libass-next) | 0.3.0 | 0 | Safe bindings for libass |
-| 2026-11-03 01:12:11 | [audel](https://crates.io/crates/audel) | 0.1.0 | 0 | Rust companion of the audel Python package (the ears): typed audio reports, del… |
-| 2026-11-03 01:13:50 | [ntru-trapdoor](https://crates.io/crates/ntru-trapdoor) | 0.1.0 | 0 | NTRU lattice trapdoors (DLP14/Falcon convention): TrapGen, Falcon-style fast-Fo… |
-| 2026-11-03 01:15:06 | [ek-strategy](https://crates.io/crates/ek-strategy) | 0.1.0 | 0 | Strategy trading plugin for the enkeep ek ecosystem: one Strategy trait for con… |
-| 2026-11-03 01:16:14 | [uuidnew](https://crates.io/crates/uuidnew) | 0.1.0 | 0 | Provides a simple cli for generating UUIDs, but with more options than uuidgen. |
+| 2026-11-03 01:21:17 | [script-wire](https://crates.io/crates/script-wire) | 0.0.1 | 0 | Runtime for script-witgen's bindings: wRPC's value encoding and blocking transp… |
+| 2026-11-03 01:22:37 | [script-witgen](https://crates.io/crates/script-witgen) | 0.0.1 | 0 | Generates native Rust bindings for a WIT interface over script-wire. A build-de… |
+| 2026-11-03 01:24:05 | [cargo-nuttx](https://crates.io/crates/cargo-nuttx) | 0.0.3 | 0 | A cargo subcommand for building NuttX-based embedded projects into firmware ima… |
+| 2026-11-03 01:34:39 | [htlk-executable](https://crates.io/crates/htlk-executable) | 0.1.0 | 0 | Canonical HTLK executable model, bounded CBOR and JSON, digests, and envelopes |
+| 2026-11-03 01:35:00 | [htlk-analyzer](https://crates.io/crates/htlk-analyzer) | 0.1.0 | 0 | Shared semantic analysis and offline schema preparation for HTLK executables |
+| 2026-11-03 01:35:07 | [htlk-compiler](https://crates.io/crates/htlk-compiler) | 0.1.0 | 0 | HTLK IR compilation, source modules, inspection, and graph composition |
+| 2026-11-03 01:35:57 | [htlk-runtime](https://crates.io/crates/htlk-runtime) | 0.1.0 | 0 | HTLK native runtime admission, checked expression execution, and actor foundati… |
+| 2026-11-03 01:36:09 | [htlk](https://crates.io/crates/htlk) | 0.1.0 | 0 | A facade for the Harness Toolkit compiler and actor-based runtime |
+| 2026-11-03 01:40:31 | [gilia-windows](https://crates.io/crates/gilia-windows) | 0.0.1 | 0 | Windows audio, COM, and synchronization utilities |
+| 2026-11-03 01:40:36 | [gilia-engine](https://crates.io/crates/gilia-engine) | 0.0.1 | 0 | Media playback engine |
+| 2026-11-03 01:40:40 | [gilia](https://crates.io/crates/gilia) | 0.0.1 | 0 | Media playback library |
+| 2026-11-03 01:43:42 | [ravenrs-app-derive](https://crates.io/crates/ravenrs-app-derive) | 27.1.8 | 0 | The derives of ravenrs-app: declare a business object as a Rust struct. |
+| 2026-11-03 01:43:57 | [ravenrs-app-sqlite](https://crates.io/crates/ravenrs-app-sqlite) | 27.1.8 | 0 | Records of a RavenRS business application in SQLite: on tables it creates, or o… |
+| 2026-11-03 01:44:12 | [turnkey_jwt_verify](https://crates.io/crates/turnkey_jwt_verify) | 0.17.1-alpha.0 | 0 | Strict compact JWS parsing and ES256 verification for Turnkey-signed JWTs |
+| 2026-11-03 01:44:25 | [ravenrs-app-report](https://crates.io/crates/ravenrs-app-report) | 27.1.8 | 0 | Reports of the lists of a RavenRS business application: an action that lays out… |
+| 2026-11-03 01:44:32 | [turnkey_jwt_profiles](https://crates.io/crates/turnkey_jwt_profiles) | 0.17.1-alpha.0 | 0 | Verify Turnkey JWT profiles, such as http-authz/v1 request-bound JWTs |
+| 2026-11-03 01:44:38 | [muster-linear](https://crates.io/crates/muster-linear) | 0.1.1 | 0 | A command-line client for Linear, for coding agents first: JSON Lines out, an e… |
+| 2026-11-03 01:50:35 | [jali](https://crates.io/crates/jali) | 0.1.0 | 0 | Lattice-based zero-knowledge proofs in Rust: the LNP22 proof system (ePrint 202… |
+| 2026-11-03 01:57:41 | [aauth-rust-jose](https://crates.io/crates/aauth-rust-jose) | 0.1.0-alpha.26 | 0 | Ed25519, ECDSA and RSA JWKs, signing keys, external signers and thumbprints, an… |
+| 2026-11-03 01:57:51 | [aauth-rust-signature-key](https://crates.io/crates/aauth-rust-signature-key) | 0.1.0-alpha.26 | 0 | Buffered HTTP Message Signatures with inline, JWT, jkt-jwt, self-jwt, direct JW… |
+| 2026-11-03 01:57:56 | [aauth-rust-budgets](https://crates.io/crates/aauth-rust-budgets) | 0.1.0-alpha.26 | 0 | AAuth Budgets: budget objects, narrowing, metering, and usage counters |
+| 2026-11-03 01:58:09 | [aauth-rust-core](https://crates.io/crates/aauth-rust-core) | 0.1.0-alpha.26 | 0 | AAuth identifiers, token verification and trusted issuer key snapshots |
+| 2026-11-03 01:58:23 | [aauth-rust-r3](https://crates.io/crates/aauth-rust-r3) | 0.1.0-alpha.26 | 0 | AAuth Rich Resource Requests: vocabularies, authoritative definitions, document… |
+| 2026-11-03 01:59:17 | [rlx-libm](https://crates.io/crates/rlx-libm) | 0.2.20 | 0 | glibc 2.43's libm (x86_64 FMA variants) reproduced bit-for-bit in pure Rust: ex… |
+| 2026-11-03 01:59:24 | [rlx-mcu](https://crates.io/crates/rlx-mcu) | 0.2.20 | 0 | no_std building blocks for ML models on MCUs: in-place model files, int8/int4 m… |
+| 2026-11-03 01:59:35 | [rlx-fastmath](https://crates.io/crates/rlx-fastmath) | 0.2.20 | 0 | Accurate vectorized f32 exp / log / tanh in pure Rust (NEON on aarch64): <= 1.3… |
+| 2026-11-03 01:59:40 | [rlx-spectral](https://crates.io/crates/rlx-spectral) | 0.2.20 | 0 | Spectral front-ends in pure Rust, generic over precision (f32 / f64): FFT plans… |
+| 2026-11-03 02:01:22 | [bern-protocol](https://crates.io/crates/bern-protocol) | 0.1.0 | 0 | UI-independent schema for Bern commands, state, values and sessions |
+| 2026-11-03 02:01:41 | [bern-command](https://crates.io/crates/bern-command) | 0.1.0 | 0 | Command catalog host shared by the UI, CLI, JSON and MCP entries |
+| 2026-11-03 02:01:45 | [bern-ir](https://crates.io/crates/bern-ir) | 0.1.0 | 0 | Versioned, platform-independent intermediate representation of Bern applications |
+| 2026-11-03 02:01:48 | [bern-media](https://crates.io/crates/bern-media) | 0.1.0 | 0 | Media contract: sources, player identity, standard media commands and state, ex… |
+| 2026-11-03 02:01:55 | [bern-syntax](https://crates.io/crates/bern-syntax) | 0.1.0 | 0 | Shared parser for Bern declarations, used by the macros and the build tool |
+| 2026-11-03 02:08:32 | [aauth-rust-supervision-server](https://crates.io/crates/aauth-rust-supervision-server) | 0.1.0-alpha.26 | 0 | AAuth supervision server: signed decisions, standing reach and event records fo… |
+| 2026-11-03 02:09:39 | [agent-framework-claude](https://crates.io/crates/agent-framework-claude) | 0.15.0 | 0 | Claude Agent SDK agent (the Claude Code CLI as an agent) for agent-framework-rs |
+| 2026-11-03 02:10:12 | [oime-imc](https://crates.io/crates/oime-imc) | 0.0.1 | 0 | Zero-dependency parser and typed conversion for the Imc configuration format |
+| 2026-11-03 02:10:54 | [oime-string](https://crates.io/crates/oime-string) | 0.0.1 | 0 | A small, safe-Rust static byte-key trie with radix path compression, LOUDS, and… |
+| 2026-11-03 02:12:05 | [bern-macros](https://crates.io/crates/bern-macros) | 0.1.0 | 0 | Procedural macros for Bern declarations |
 
 ## Data source
 

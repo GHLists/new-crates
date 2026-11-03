@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T01:21:17.163384Z,script-wire,0.0.1,0,0,https://github.com/merely-made/mere,Runtime for script-witgen's bindings: wRPC's value encoding and blocking transports over OS pipes or ipc-channel.
+2026-11-03T01:22:37.734259Z,script-witgen,0.0.1,0,0,https://github.com/merely-made/mere,Generates native Rust bindings for a WIT interface over script-wire. A build-dependency only.
+2026-11-03T01:24:05.71243Z,cargo-nuttx,0.0.3,0,0,https://github.com/kay-lambdadelta/cargo-nuttx,A cargo subcommand for building NuttX-based embedded projects into firmware images
+2026-11-03T01:34:39.26425Z,htlk-executable,0.1.0,0,0,https://github.com/thomasquintana/htlk,"Canonical HTLK executable model, bounded CBOR and JSON, digests, and envelopes"
+2026-11-03T01:35:00.076506Z,htlk-analyzer,0.1.0,0,0,https://github.com/thomasquintana/htlk,Shared semantic analysis and offline schema preparation for HTLK executables
+2026-11-03T01:35:07.31451Z,htlk-compiler,0.1.0,0,0,https://github.com/thomasquintana/htlk,"HTLK IR compilation, source modules, inspection, and graph composition"
+2026-11-03T01:35:57.789238Z,htlk-runtime,0.1.0,0,0,https://github.com/thomasquintana/htlk,"HTLK native runtime admission, checked expression execution, and actor foundations"
+2026-11-03T01:36:09.210237Z,htlk,0.1.0,0,0,https://github.com/thomasquintana/htlk,A facade for the Harness Toolkit compiler and actor-based runtime
+2026-11-03T01:40:31.474278Z,gilia-windows,0.0.1,0,0,https://github.com/EzeranD/gilia,"Windows audio, COM, and synchronization utilities"
+2026-11-03T01:40:36.585111Z,gilia-engine,0.0.1,0,0,https://github.com/EzeranD/gilia,Media playback engine
+2026-11-03T01:40:40.662987Z,gilia,0.0.1,0,0,https://github.com/EzeranD/gilia,Media playback library
+2026-11-03T01:43:42.902708Z,ravenrs-app-derive,27.1.8,0,0,https://github.com/alexkads/RavenRS,The derives of ravenrs-app: declare a business object as a Rust struct.
+2026-11-03T01:43:57.778251Z,ravenrs-app-sqlite,27.1.8,0,0,https://github.com/alexkads/RavenRS,"Records of a RavenRS business application in SQLite: on tables it creates, or on tables that already exist."
+2026-11-03T01:44:12.003803Z,turnkey_jwt_verify,0.17.1-alpha.0,0,0,https://github.com/tkhq/rust-sdk,Strict compact JWS parsing and ES256 verification for Turnkey-signed JWTs
+2026-11-03T01:44:25.719617Z,ravenrs-app-report,27.1.8,0,0,https://github.com/alexkads/RavenRS,Reports of the lists of a RavenRS business application: an action that lays out a list and shows it in the document viewer.
+2026-11-03T01:44:32.817208Z,turnkey_jwt_profiles,0.17.1-alpha.0,0,0,https://github.com/tkhq/rust-sdk,"Verify Turnkey JWT profiles, such as http-authz/v1 request-bound JWTs"
+2026-11-03T01:44:38.686054Z,muster-linear,0.1.1,0,0,https://github.com/appshapes/muster,"A command-line client for Linear, for coding agents first: JSON Lines out, an exit code per failure, the key from a file"
+2026-11-03T01:50:35.028569Z,jali,0.1.0,0,0,https://github.com/etairi/jali,Lattice-based zero-knowledge proofs in Rust: the LNP22 proof system (ePrint 2022/284)
+2026-11-03T01:57:41.72962Z,aauth-rust-jose,0.1.0-alpha.26,0,0,https://gitlab.com/sidecat-dev/aauth-rust,"Ed25519, ECDSA and RSA JWKs, signing keys, external signers and thumbprints, and Ed25519 and ES256 compact JWS primitives for AAuth"
+2026-11-03T01:57:51.075113Z,aauth-rust-signature-key,0.1.0-alpha.26,0,0,https://gitlab.com/sidecat-dev/aauth-rust,"Buffered HTTP Message Signatures with inline, JWT, jkt-jwt, self-jwt, direct JWKS, X.509, cached, and explicit JWKS-URI key conveyance"
+2026-11-03T01:57:56.084883Z,aauth-rust-budgets,0.1.0-alpha.26,0,0,https://gitlab.com/sidecat-dev/aauth-rust,"AAuth Budgets: budget objects, narrowing, metering, and usage counters"
+2026-11-03T01:58:09.025386Z,aauth-rust-core,0.1.0-alpha.26,0,0,https://gitlab.com/sidecat-dev/aauth-rust,"AAuth identifiers, token verification and trusted issuer key snapshots"
+2026-11-03T01:58:23.631829Z,aauth-rust-r3,0.1.0-alpha.26,0,0,https://gitlab.com/sidecat-dev/aauth-rust,"AAuth Rich Resource Requests: vocabularies, authoritative definitions, documents, grants, proposals, hints, and token claims"
+2026-11-03T01:59:17.807495Z,rlx-libm,0.2.20,0,0,https://github.com/MIT-RLX/rlx,"glibc 2.43's libm (x86_64 FMA variants) reproduced bit-for-bit in pure Rust: exp, log, pow, trig, inverse trig, hyperbolic, erf, gamma, f32 and f64"
+2026-11-03T01:59:24.983087Z,rlx-mcu,0.2.20,0,0,https://github.com/MIT-RLX/rlx,"no_std building blocks for ML models on MCUs: in-place model files, int8/int4 matrix kernels, a log-mel frontend, paged weights"
+2026-11-03T01:59:35.486921Z,rlx-fastmath,0.2.20,0,0,https://github.com/MIT-RLX/rlx,"Accurate vectorized f32 exp / log / tanh in pure Rust (NEON on aarch64): <= 1.33 ulp over every f32, faster than the platform libm"
+2026-11-03T01:59:40.309865Z,rlx-spectral,0.2.20,0,0,https://github.com/MIT-RLX/rlx,"Spectral front-ends in pure Rust, generic over precision (f32 / f64): FFT plans, windows, STFT framing, mel filterbanks, whisper log-mel, Kaldi / SeamlessM4T fbank"
+2026-11-03T02:01:22.48252Z,bern-protocol,0.1.0,0,0,https://github.com/AimesSoft/Bern,"UI-independent schema for Bern commands, state, values and sessions"
+2026-11-03T02:01:41.842417Z,bern-command,0.1.0,0,0,https://github.com/AimesSoft/Bern,"Command catalog host shared by the UI, CLI, JSON and MCP entries"
+2026-11-03T02:01:45.986375Z,bern-ir,0.1.0,0,0,https://github.com/AimesSoft/Bern,"Versioned, platform-independent intermediate representation of Bern applications"
+2026-11-03T02:01:48.550327Z,bern-media,0.1.0,0,0,https://github.com/AimesSoft/Bern,"Media contract: sources, player identity, standard media commands and state, executor routing"
+2026-11-03T02:01:55.793936Z,bern-syntax,0.1.0,0,0,https://github.com/AimesSoft/Bern,"Shared parser for Bern declarations, used by the macros and the build tool"
+2026-11-03T02:08:32.335023Z,aauth-rust-supervision-server,0.1.0-alpha.26,0,0,https://gitlab.com/sidecat-dev/aauth-rust,"AAuth supervision server: signed decisions, standing reach and event records for the agents a person routes to it"
+2026-11-03T02:09:39.307325Z,agent-framework-claude,0.15.0,0,0,https://github.com/codehalwell/agent-framework-rs,Claude Agent SDK agent (the Claude Code CLI as an agent) for agent-framework-rs
+2026-11-03T02:10:12.802534Z,oime-imc,0.0.1,0,0,https://gitee.com/oime/oime-imc.git,Zero-dependency parser and typed conversion for the Imc configuration format
+2026-11-03T02:10:54.328286Z,oime-string,0.0.1,0,0,https://gitee.com/oime/oime-string.git,"A small, safe-Rust static byte-key trie with radix path compression, LOUDS, and a string-table wrapper"
+2026-11-03T02:12:05.879296Z,bern-macros,0.1.0,0,0,https://github.com/AimesSoft/Bern,Procedural macros for Bern declarations
