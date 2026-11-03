@@ -1,0 +1,39 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T09:18:28.528209Z,ulo-db-seaorm,0.1.0-alpha.2,0,0,https://github.com/ulo-rs/ulo,"SeaORM store for Ulo: a DatabaseConnection with the shared connect, health and migration-lock policy, its URL validated by SQLx's option parser"
+2026-11-03T09:19:03.6211Z,cnb_metadata_d22b905762dd,1.0.0+foo,0,0,,Build metadata reverse-order protocol regression test. Not for use.
+2026-11-03T09:19:07.364965Z,cnb_metadata_01fd77f19f8a,1.0.0-beta.1,0,0,,Build metadata reverse-order protocol regression test. Not for use.
+2026-11-03T09:19:10.521503Z,cnb_metadata_16643805f3a4,1.0.0+foo,0,0,,Build metadata reverse-order protocol regression test. Not for use.
+2026-11-03T09:20:20.289518Z,mc683xx-debug,0.3.0,0,0,https://github.com/charlieh0tel/mc683xx,"Loading images and running init scripts on a CPU32 under debug control, over BDM or in the emulator"
+2026-11-03T09:24:27.248091Z,torogao-voice,0.4.0,0,0,,"Voice control for Torogao: a deterministic command grammar over the tool registry, author verbs, CLI modes, and app features, with a local-only speech-recognition adapter. Voice is an input surface,…"
+2026-11-03T09:27:55.513117Z,sail-portfolio,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,"Seed portfolios, racing and fragility scoring"
+2026-11-03T09:28:27.734125Z,ulo-health-grpc,0.1.0-alpha.2,0,0,https://github.com/ulo-rs/ulo,"The grpc.health.v1 bridge for Ulo health: the overall status written from readiness at lifecycle transitions and on an interval, through tonic-health"
+2026-11-03T09:29:25.259682Z,molerat,0.1.0-rc.0,0,0,https://github.com/orhun/molerat,An accessibility & agentic layer for Rust UI applications 🦫
+2026-11-03T09:37:56.104852Z,sail-session,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,"Model of an interactive solver session: assertion stack, push and pop, options, and the exact logical state at each check-sat"
+2026-11-03T09:38:26.944043Z,ulo-health-http,0.1.0-alpha.2,0,0,https://github.com/ulo-rs/ulo,"The Kubernetes probe routes for Ulo health: liveness, readiness and startup over HTTP, answered 200 or 503 with an application/health+json body"
+2026-11-03T09:42:55.30635Z,hypergeometric,0.1.0,0,0,https://github.com/p-sira/hypergeometric,Real hypergeometric and Wright special functions in pure Rust
+2026-11-03T09:45:30.289564Z,storage-transfer-lib,0.1.0,0,0,https://github.com/dentiny/storage-transfer-lib,Bounded bucket-to-bucket transfers using Apache OpenDAL
+2026-11-03T09:47:56.272875Z,sail-key,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,"Content-addressed key derivation from session state, options and solver identity"
+2026-11-03T09:48:27.814386Z,ulo-otel-otlp,0.1.0-alpha.2,0,0,https://github.com/ulo-rs/ulo,"OTLP export over HTTP with protobuf for ulo-otel, on an HTTP client over ureq by default and reqwest's blocking client behind a feature"
+2026-11-03T09:49:50.826241Z,finalytics-backtest,1.0.0-rc.1,0,0,https://github.com/sigmafieldlabs/finalytics,"Backtests for Finalytics: allocation strategies through time, in and out of sample, with rebalancing and trading costs."
+2026-11-03T09:52:52.164531Z,rws-base,18.26.0,0,0,https://github.com/bohdaq/rust-web-server,The base layer of rust-web-server (internal: use the rust-web-server crate).
+2026-11-03T09:52:57.838876Z,rws-http,18.26.0,0,0,https://github.com/bohdaq/rust-web-server,The HTTP layer of rust-web-server (internal: use the rust-web-server crate).
+2026-11-03T09:53:06.717847Z,rws-server,18.26.0,0,0,https://github.com/bohdaq/rust-web-server,The server layer of rust-web-server (internal: use the rust-web-server crate).
+2026-11-03T09:53:44.860985Z,rws-acme,18.26.0,0,0,https://github.com/bohdaq/rust-web-server,"ACME for rust-web-server: certificates from Let's Encrypt and other ACME CAs (HTTP-01, TLS-ALPN-01, DNS-01, on-demand, shared storage). (internal: use the rust-web-server crate)."
+2026-11-03T09:53:52.070605Z,rws-storage,18.26.0,0,0,https://github.com/bohdaq/rust-web-server,"Object storage for rust-web-server: local files, S3, Azure Blob and Google Cloud Storage backends. (internal: use the rust-web-server crate)."
+2026-11-03T09:57:56.806984Z,sail-api,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,"Embeddable library API, daemon wire protocol and structured output schema"
+2026-11-03T10:02:10.020689Z,blueprint-monorepo-sdk,0.0.0-placeholder.1,0,0,https://github.com/carlos-space/blueprint-monorepo,Placeholder release that reserves the crate name for the carlos-space blueprint demo. Not for use.
+2026-11-03T10:04:03.928388Z,vti-vtn,0.1.0,0,0,https://github.com/OpenVTC/verifiable-trust-infrastructure,"The Verifiable Trust Network (VTN) protocol: listings, membership, DTG credentials, status lists, network index, group registration, broadcast envelopes, room passes — shared by the VTN service and t…"
+2026-11-03T10:07:55.711571Z,sail-cache,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,"Tiered result cache: in-memory, local disk and shared, with integrity checks and eviction"
+2026-11-03T10:09:40.834608Z,rws-wasm-plugin,18.26.0,0,0,https://github.com/bohdaq/rust-web-server,WebAssembly plugins for rust-web-server (wasmtime). (internal: use the rust-web-server crate).
+2026-11-03T10:09:48.539224Z,rws-proxy,18.26.0,0,0,https://github.com/bohdaq/rust-web-server,"The proxy and operations layer of rust-web-server: reverse proxy, config-driven routes, load balancing, L4 and WebSocket proxies, the admin API, cluster sync, fleet pull, WAF, LLM and A2A gateways, F…"
+2026-11-03T10:12:15.104032Z,technogym,0.1.0,0,0,https://github.com/StephanMeijer/technogym-rs,"Unofficial async client for the Technogym mywellness API: workouts, sets, per-second treadmill and bike analytics, heart rate"
+2026-11-03T10:12:43.238714Z,technogym-mcp,0.1.0,0,0,https://github.com/StephanMeijer/technogym-rs,"MCP server for Technogym mywellness: read your gym workouts, sets and treadmill/bike analytics from Claude and other MCP clients"
+2026-11-03T10:12:57.111207Z,opentide-falco,0.8.0,0,0,https://github.com/opentidehq/language-server,opentide engine component: I/O-free Falco rule condition engine (Sysdig Secure). Depend on opentide-analysis.
+2026-11-03T10:13:25.75713Z,oxilite-elpi,0.10.0,0,0,https://github.com/Volland/oxilite,"λProlog (ELPI) programs over oxilite with lean-elpi: goal queries, constraint checks and materialization"
+2026-11-03T10:13:26.98047Z,oxilite-n3,0.10.0,0,0,https://github.com/Volland/oxilite,Notation3 rules over oxilite with the eyeron reasoner: read-only reasoning and materialization (native and Cloudflare D1)
+2026-11-03T10:13:39.034625Z,viewport-lib-axis-gizmo,0.1.0,0,0,https://github.com/grimandgreedy/viewport-lib-axis-gizmo,"Configurable axes indicator for viewport-lib scenes: builds overlay items, hit-tests its handles, and reports which view was picked."
+2026-11-03T10:14:09.210112Z,jp2lam,0.3.0,0,0,https://github.com/liminalism/lege,"Pure Rust JPEG 2000 (JP2 and J2K) encoder and focused Part 1 decoder for document and photographic images, with lossless, measured-quality, and exact-rate compression"
+2026-11-03T10:15:06.896692Z,silver_crypto_simd,0.1.0,0,0,https://github.com/gattaca-com/silver,"BLS12-381 and KZG for Ethereum consensus, optimized for x86-64 CPUs with AVX-512 IFMA"
+2026-11-03T10:15:58.571065Z,exx-sh,0.2.0,0,0,https://github.com/souravsspace/exx.sh,Rust SDK for the exx.sh email API
+2026-11-03T10:17:55.190173Z,sail-mcp,0.2.0-rc.1,0,0,https://github.com/Chelis-Lang/sail,MCP server exposing verification to agents
+2026-11-03T10:20:33.521777Z,rws-gateway-api,18.26.0,0,0,https://github.com/bohdaq/rust-web-server,The Kubernetes Gateway API controller of rust-web-server (kube). (internal: use the rust-web-server crate).

@@ -8,61 +8,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 09:18 UTC
+## Latest list — 2026-11-03 10:20 UTC
 
-New crates published between 2026-11-03 08:18 UTC and 2026-11-03 09:18 UTC.
+New crates published between 2026-11-03 09:18 UTC and 2026-11-03 10:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-03T09-18-25-92594Z.csv)
+[Full CSV](data/new-crates-2026-11-03T10-20-34-301587Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-03 08:35:16 | [rvsz](https://crates.io/crates/rvsz) | 0.1.0 | 0 | Writes, verifies and extracts zips byte-identical to RomVault RVZSTD structured… |
-| 2026-11-03 08:38:50 | [ulo-config](https://crates.io/crates/ulo-config) | 0.1.0-alpha.2 | 0 | Layered configuration for Ulo: TOML, JSON, YAML, .env and the environment read… |
-| 2026-11-03 08:38:51 | [ulo-health](https://crates.io/crates/ulo-health) | 0.1.0-alpha.2 | 0 | Health for Ulo: checks with bounds, liveness, readiness and startup probes, and… |
-| 2026-11-03 08:39:00 | [ulo-db](https://crates.io/crates/ulo-db) | 0.1.0-alpha.2 | 0 | The shared database policy for Ulo: connect, retry, close, health and the migra… |
-| 2026-11-03 08:39:03 | [ulo-otel](https://crates.io/crates/ulo-otel) | 0.1.0-alpha.2 | 0 | OpenTelemetry export for Ulo: a tracing layer over the transports' spans, the T… |
-| 2026-11-03 08:39:10 | [ulo-db-diesel](https://crates.io/crates/ulo-db-diesel) | 0.1.0-alpha.2 | 0 | Diesel store for Ulo: a deadpool pool of diesel-async connections with the shar… |
-| 2026-11-03 08:39:26 | [lunatic-macros-twitchax-patch](https://crates.io/crates/lunatic-macros-twitchax-patch) | 0.13.1 | 0 | Helper macros for the `lunatic` crate |
-| 2026-11-03 08:39:26 | [lunatic-test-twitchax-patch](https://crates.io/crates/lunatic-test-twitchax-patch) | 0.13.1 | 0 | #[lunatic::test] macro, meant as a drop-in replacement for Rust's #[test] |
-| 2026-11-03 08:40:07 | [torogao-format](https://crates.io/crates/torogao-format) | 0.4.0 | 0 | INP1 and vendor-extension format records: parsing and byte-stable serialization… |
-| 2026-11-03 08:40:41 | [torogao-jam-laws](https://crates.io/crates/torogao-jam-laws) | 0.4.0 | 0 | Validated jam-program laws, ported for torogao |
-| 2026-11-03 08:41:14 | [torogao-vmc](https://crates.io/crates/torogao-vmc) | 0.4.0 | 0 | VMC over OSC for Torogao's live VTuber mode (Stage 3.3): a bounded OSC 1.0 code… |
-| 2026-11-03 08:41:54 | [torogao-accel](https://crates.io/crates/torogao-accel) | 0.4.0 | 0 | Torogao's hardware-acceleration policy layer: capability probing, the accelerat… |
-| 2026-11-03 08:43:40 | [torogao-engine](https://crates.io/crates/torogao-engine) | 0.4.0 | 0 | The Torogao puppet engine: model, parameter and deformer evaluation, physics, a… |
-| 2026-11-03 08:44:56 | [torogao](https://crates.io/crates/torogao) | 0.4.0 | 0 | The Torogao command-line tools: the registry, MCP and A2A servers, scenes, writ… |
-| 2026-11-03 08:46:32 | [polyoxide-rt](https://crates.io/crates/polyoxide-rt) | 0.45.0 | 0 | The runtime seam the polyoxide crates share: an injected clock, sleep and spawn… |
-| 2026-11-03 08:46:53 | [runim-derive](https://crates.io/crates/runim-derive) | 0.0.0-alpha1 | 0 | Derive marcos for runim library |
-| 2026-11-03 08:47:59 | [tc_seed](https://crates.io/crates/tc_seed) | 0.1.0 | 0 | SEED block cipher (RFC 4269, KISA) with a 128-bit key and block. |
-| 2026-11-03 08:48:10 | [tc_cast](https://crates.io/crates/tc_cast) | 0.1.0 | 0 | CAST5 (RFC 2144) and CAST6 (RFC 2612) block ciphers. |
-| 2026-11-03 08:50:55 | [runim](https://crates.io/crates/runim) | 0.0.0-alpha1 | 0 | Math animation rendering library |
-| 2026-11-03 08:51:39 | [jhm17](https://crates.io/crates/jhm17) | 0.1.0 | 0 | JPEG encoder with rate-distortion optimized quantization |
-| 2026-11-03 08:55:42 | [sail-acceptance](https://crates.io/crates/sail-acceptance) | 0.2.0-rc.1 | 0 | Source-shared executable evidence validation with direct stock-Verus refinements |
-| 2026-11-03 08:55:42 | [sail-contracts-ir](https://crates.io/crates/sail-contracts-ir) | 0.2.0-rc.1 | 0 | Validated shared syntax for neutral Rust contracts |
-| 2026-11-03 08:55:42 | [sail-ledger](https://crates.io/crates/sail-ledger) | 0.2.0-rc.1 | 0 | Verdicts, obligation identities, provisional and confirmed tiers, and result pr… |
-| 2026-11-03 08:55:43 | [sail-solver](https://crates.io/crates/sail-solver) | 0.2.0-rc.1 | 0 | Warm solver process pool, session replay, resource limits and crash recovery |
-| 2026-11-03 08:55:43 | [sail-smtlib](https://crates.io/crates/sail-smtlib) | 0.2.0-rc.1 | 0 | SMT-LIB parsing and printing, faithful to the bytes Z3 sends and receives |
-| 2026-11-03 08:57:16 | [ulo-db-mongodb](https://crates.io/crates/ulo-db-mongodb) | 0.1.0-alpha.2 | 0 | MongoDB store for Ulo: a Client with the shared connect and health policy, its… |
-| 2026-11-03 08:57:21 | [gazette-ledger](https://crates.io/crates/gazette-ledger) | 0.0.1 | 0 | The contact ledger projection: gazette's Cambium side, over chirograph, incipit… |
-| 2026-11-03 08:58:27 | [ulo-db-redis](https://crates.io/crates/ulo-db-redis) | 0.1.0-alpha.2 | 0 | Redis store for Ulo: a ConnectionManager with the shared connect and health pol… |
-| 2026-11-03 09:00:30 | [radicom-dict](https://crates.io/crates/radicom-dict) | 0.1.0 | 0 | Generated DICOM dictionary tables: tag constants, UID constants, dictionary loo… |
-| 2026-11-03 09:00:44 | [radicom](https://crates.io/crates/radicom) | 0.1.0 | 0 | DICOM processing library: data model, file IO, pixel data facade, codec interfa… |
-| 2026-11-03 09:00:52 | [radicom-json](https://crates.io/crates/radicom-json) | 0.1.0 | 0 | DICOM JSON (PS3.18) serialization for radicom |
-| 2026-11-03 09:01:04 | [radicom-network](https://crates.io/crates/radicom-network) | 0.1.0 | 0 | DICOM network communication (DIMSE): associations, services, SCU and SCP |
-| 2026-11-03 09:05:39 | [torogao-author](https://crates.io/crates/torogao-author) | 0.4.0 | 0 | The Torogao authoring core: project model, canonical RON serializer, op log, an… |
-| 2026-11-03 09:07:12 | [sail-contracts-macros](https://crates.io/crates/sail-contracts-macros) | 0.2.0-rc.1 | 0 | Checked runtime expansion for neutral Rust contracts |
-| 2026-11-03 09:08:16 | [torogao-session](https://crates.io/crates/torogao-session) | 0.4.0 | 0 | The Torogao editor-state interop core: session state, the torogao-author decide… |
-| 2026-11-03 09:08:23 | [ft8rs](https://crates.io/crates/ft8rs) | 0.1.0 | 0 | FT8 streaming decoder core: decode/stream/file-input, UI-independent |
-| 2026-11-03 09:08:29 | [ulo-db-sqlx](https://crates.io/crates/ulo-db-sqlx) | 0.1.0-alpha.2 | 0 | SQLx stores for Ulo: Postgres, MySQL and SQLite pools with the shared connect,… |
-| 2026-11-03 09:14:54 | [mc683xx-target](https://crates.io/crates/mc683xx-target) | 0.3.0 | 0 | A CPU32 under debug control: its registers, sizes, addresses and function codes… |
-| 2026-11-03 09:15:25 | [einheit-plugin-sdk](https://crates.io/crates/einheit-plugin-sdk) | 0.6.0 | 0 | einheit-plugin-sdk — write Einheit plugins: the plugin C ABI and its headers, a… |
-| 2026-11-03 09:15:35 | [cargo-einheit](https://crates.io/crates/cargo-einheit) | 0.6.0 | 0 | cargo-einheit — installs Einheit plugins: `cargo einheit install <crate>` build… |
-| 2026-11-03 09:16:24 | [torogao-app](https://crates.io/crates/torogao-app) | 0.4.0 | 0 | The Torogao graphical application: the Persona-style stage and the traditional… |
-| 2026-11-03 09:16:43 | [telemaco-deno-core](https://crates.io/crates/telemaco-deno-core) | 0.350.0 | 0 | Fork of deno_core 0.350.0 with per-context module realms, used by the Telemaco… |
-| 2026-11-03 09:16:49 | [emu198x-common-coleco-colecovision](https://crates.io/crates/emu198x-common-coleco-colecovision) | 0.46.2 | 0 | Shared ColecoVision wiring bound to a concrete board at compile time |
-| 2026-11-03 09:16:52 | [emu198x-machine-coleco-colecovision-ntsc](https://crates.io/crates/emu198x-machine-coleco-colecovision-ntsc) | 0.46.2 | 0 | ColecoVision NTSC board wiring |
-| 2026-11-03 09:16:52 | [emu198x-machine-coleco-colecovision-pal](https://crates.io/crates/emu198x-machine-coleco-colecovision-pal) | 0.46.2 | 0 | ColecoVision PAL board wiring |
-| 2026-11-03 09:16:54 | [emu198x-runtime-coleco-colecovision](https://crates.io/crates/emu198x-runtime-coleco-colecovision) | 0.46.2 | 0 | Coleco ColecoVision family metadata and headless runtime wrapper around concret… |
-| 2026-11-03 09:17:57 | [sail-contracts](https://crates.io/crates/sail-contracts) | 0.2.0-rc.1 | 0 | Neutral Rust contracts and checked scalar runtime |
+| 2026-11-03 09:18:28 | [ulo-db-seaorm](https://crates.io/crates/ulo-db-seaorm) | 0.1.0-alpha.2 | 0 | SeaORM store for Ulo: a DatabaseConnection with the shared connect, health and… |
+| 2026-11-03 09:19:03 | [cnb_metadata_d22b905762dd](https://crates.io/crates/cnb_metadata_d22b905762dd) | 1.0.0+foo | 0 | Build metadata reverse-order protocol regression test. Not for use. |
+| 2026-11-03 09:19:07 | [cnb_metadata_01fd77f19f8a](https://crates.io/crates/cnb_metadata_01fd77f19f8a) | 1.0.0-beta.1 | 0 | Build metadata reverse-order protocol regression test. Not for use. |
+| 2026-11-03 09:19:10 | [cnb_metadata_16643805f3a4](https://crates.io/crates/cnb_metadata_16643805f3a4) | 1.0.0+foo | 0 | Build metadata reverse-order protocol regression test. Not for use. |
+| 2026-11-03 09:20:20 | [mc683xx-debug](https://crates.io/crates/mc683xx-debug) | 0.3.0 | 0 | Loading images and running init scripts on a CPU32 under debug control, over BD… |
+| 2026-11-03 09:24:27 | [torogao-voice](https://crates.io/crates/torogao-voice) | 0.4.0 | 0 | Voice control for Torogao: a deterministic command grammar over the tool regist… |
+| 2026-11-03 09:27:55 | [sail-portfolio](https://crates.io/crates/sail-portfolio) | 0.2.0-rc.1 | 0 | Seed portfolios, racing and fragility scoring |
+| 2026-11-03 09:28:27 | [ulo-health-grpc](https://crates.io/crates/ulo-health-grpc) | 0.1.0-alpha.2 | 0 | The grpc.health.v1 bridge for Ulo health: the overall status written from readi… |
+| 2026-11-03 09:29:25 | [molerat](https://crates.io/crates/molerat) | 0.1.0-rc.0 | 0 | An accessibility & agentic layer for Rust UI applications 🦫 |
+| 2026-11-03 09:37:56 | [sail-session](https://crates.io/crates/sail-session) | 0.2.0-rc.1 | 0 | Model of an interactive solver session: assertion stack, push and pop, options,… |
+| 2026-11-03 09:38:26 | [ulo-health-http](https://crates.io/crates/ulo-health-http) | 0.1.0-alpha.2 | 0 | The Kubernetes probe routes for Ulo health: liveness, readiness and startup ove… |
+| 2026-11-03 09:42:55 | [hypergeometric](https://crates.io/crates/hypergeometric) | 0.1.0 | 0 | Real hypergeometric and Wright special functions in pure Rust |
+| 2026-11-03 09:45:30 | [storage-transfer-lib](https://crates.io/crates/storage-transfer-lib) | 0.1.0 | 0 | Bounded bucket-to-bucket transfers using Apache OpenDAL |
+| 2026-11-03 09:47:56 | [sail-key](https://crates.io/crates/sail-key) | 0.2.0-rc.1 | 0 | Content-addressed key derivation from session state, options and solver identity |
+| 2026-11-03 09:48:27 | [ulo-otel-otlp](https://crates.io/crates/ulo-otel-otlp) | 0.1.0-alpha.2 | 0 | OTLP export over HTTP with protobuf for ulo-otel, on an HTTP client over ureq b… |
+| 2026-11-03 09:49:50 | [finalytics-backtest](https://crates.io/crates/finalytics-backtest) | 1.0.0-rc.1 | 0 | Backtests for Finalytics: allocation strategies through time, in and out of sam… |
+| 2026-11-03 09:52:52 | [rws-base](https://crates.io/crates/rws-base) | 18.26.0 | 0 | The base layer of rust-web-server (internal: use the rust-web-server crate). |
+| 2026-11-03 09:52:57 | [rws-http](https://crates.io/crates/rws-http) | 18.26.0 | 0 | The HTTP layer of rust-web-server (internal: use the rust-web-server crate). |
+| 2026-11-03 09:53:06 | [rws-server](https://crates.io/crates/rws-server) | 18.26.0 | 0 | The server layer of rust-web-server (internal: use the rust-web-server crate). |
+| 2026-11-03 09:53:44 | [rws-acme](https://crates.io/crates/rws-acme) | 18.26.0 | 0 | ACME for rust-web-server: certificates from Let's Encrypt and other ACME CAs (H… |
+| 2026-11-03 09:53:52 | [rws-storage](https://crates.io/crates/rws-storage) | 18.26.0 | 0 | Object storage for rust-web-server: local files, S3, Azure Blob and Google Clou… |
+| 2026-11-03 09:57:56 | [sail-api](https://crates.io/crates/sail-api) | 0.2.0-rc.1 | 0 | Embeddable library API, daemon wire protocol and structured output schema |
+| 2026-11-03 10:02:10 | [blueprint-monorepo-sdk](https://crates.io/crates/blueprint-monorepo-sdk) | 0.0.0-placeholder.1 | 0 | Placeholder release that reserves the crate name for the carlos-space blueprint… |
+| 2026-11-03 10:04:03 | [vti-vtn](https://crates.io/crates/vti-vtn) | 0.1.0 | 0 | The Verifiable Trust Network (VTN) protocol: listings, membership, DTG credenti… |
+| 2026-11-03 10:07:55 | [sail-cache](https://crates.io/crates/sail-cache) | 0.2.0-rc.1 | 0 | Tiered result cache: in-memory, local disk and shared, with integrity checks an… |
+| 2026-11-03 10:09:40 | [rws-wasm-plugin](https://crates.io/crates/rws-wasm-plugin) | 18.26.0 | 0 | WebAssembly plugins for rust-web-server (wasmtime). (internal: use the rust-web… |
+| 2026-11-03 10:09:48 | [rws-proxy](https://crates.io/crates/rws-proxy) | 18.26.0 | 0 | The proxy and operations layer of rust-web-server: reverse proxy, config-driven… |
+| 2026-11-03 10:12:15 | [technogym](https://crates.io/crates/technogym) | 0.1.0 | 0 | Unofficial async client for the Technogym mywellness API: workouts, sets, per-s… |
+| 2026-11-03 10:12:43 | [technogym-mcp](https://crates.io/crates/technogym-mcp) | 0.1.0 | 0 | MCP server for Technogym mywellness: read your gym workouts, sets and treadmill… |
+| 2026-11-03 10:12:57 | [opentide-falco](https://crates.io/crates/opentide-falco) | 0.8.0 | 0 | opentide engine component: I/O-free Falco rule condition engine (Sysdig Secure)… |
+| 2026-11-03 10:13:25 | [oxilite-elpi](https://crates.io/crates/oxilite-elpi) | 0.10.0 | 0 | λProlog (ELPI) programs over oxilite with lean-elpi: goal queries, constraint c… |
+| 2026-11-03 10:13:26 | [oxilite-n3](https://crates.io/crates/oxilite-n3) | 0.10.0 | 0 | Notation3 rules over oxilite with the eyeron reasoner: read-only reasoning and… |
+| 2026-11-03 10:13:39 | [viewport-lib-axis-gizmo](https://crates.io/crates/viewport-lib-axis-gizmo) | 0.1.0 | 0 | Configurable axes indicator for viewport-lib scenes: builds overlay items, hit-… |
+| 2026-11-03 10:14:09 | [jp2lam](https://crates.io/crates/jp2lam) | 0.3.0 | 0 | Pure Rust JPEG 2000 (JP2 and J2K) encoder and focused Part 1 decoder for docume… |
+| 2026-11-03 10:15:06 | [silver_crypto_simd](https://crates.io/crates/silver_crypto_simd) | 0.1.0 | 0 | BLS12-381 and KZG for Ethereum consensus, optimized for x86-64 CPUs with AVX-51… |
+| 2026-11-03 10:15:58 | [exx-sh](https://crates.io/crates/exx-sh) | 0.2.0 | 0 | Rust SDK for the exx.sh email API |
+| 2026-11-03 10:17:55 | [sail-mcp](https://crates.io/crates/sail-mcp) | 0.2.0-rc.1 | 0 | MCP server exposing verification to agents |
+| 2026-11-03 10:20:33 | [rws-gateway-api](https://crates.io/crates/rws-gateway-api) | 18.26.0 | 0 | The Kubernetes Gateway API controller of rust-web-server (kube). (internal: use… |
 
 ## Data source
 
