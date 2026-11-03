@@ -1,0 +1,22 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T12:22:31.735658Z,windwatcher,0.1.0,0,0,https://github.com/OtavioGonzaga/windwatcher,Embeddable messaging engine for Rust applications.
+2026-11-03T12:22:37.896669Z,rose-petal,0.11.0,0,0,https://github.com/fathom-x/rose,"The shard holder's client for a rose enclave deployment: Locksmith's recovery protocol in pure Rust, plus a Nitro attestation checker"
+2026-11-03T12:24:46.643171Z,zalt,0.1.0,0,0,https://github.com/TheRincon/zalt,"zalt(1): compress, decompress and inspect zstd frames, and create and extract ZALT-archives, from the shell."
+2026-11-03T12:32:20.339256Z,gaebboss-tui,0.2.0,0,0,https://github.com/4thel00z/gaebboss,"Terminal explorer for GAEB DA XML: bill-of-quantities tree, item inspector, long texts, XML source and validation findings"
+2026-11-03T12:33:31.625054Z,paperpaw-plugin-mail,1.0.0,0,0,https://github.com/hthoene/paperpaw,"PaperPaw mail: read and send e-mail over IMAP and SMTP, with a password or an app password"
+2026-11-03T12:35:34.761375Z,paperpaw-plugin-notes-overview,1.0.0,0,0,https://github.com/hthoene/paperpaw,"PaperPaw notes overview: the bookmarks and highlights of all books, and an export in Kindle's My Clippings.txt form"
+2026-11-03T12:41:33.704732Z,paperpaw-plugin-read-later-cloud,1.0.0,0,0,https://github.com/hthoene/paperpaw,"PaperPaw read-later articles (cloud): articles saved to read later, fetched as books"
+2026-11-03T12:47:21.437119Z,vongola-ech,0.1.0,0,0,,"Safe Rust wrapper for the OpenSSL 4.0 Encrypted Client Hello (ECH, RFC 9849) server APIs: OSSL_ECHSTORE lifecycle, SSL_CTX attachment, and per-connection ECH status."
+2026-11-03T12:48:49.806893Z,vongola,0.2.0,0,0,,"Clean-room reverse proxy and web server on Pingora 0.9: PQ-hybrid TLS, MCP/A2A operator surfaces, NAT traversal, Tor onion services, proxy chains."
+2026-11-03T12:51:38.444238Z,paperpaw-plugin-notes-vault,1.0.0,0,0,https://github.com/hthoene/paperpaw,"PaperPaw notes vault: reads a folder of Markdown notes (works with Obsidian vaults) by folders, tags and recent changes, with home widgets"
+2026-11-03T12:53:16.11661Z,orion-mcp,0.1.0,0,0,https://github.com/anistark/orion-mcp,MCP server tools as Orion agent tools
+2026-11-03T13:01:59.689622Z,pokehi,0.1.0,0,0,https://github.com/dongjay00/pokehi,새 터미널을 열 때마다 포켓몬 한 마리가 인사하는 CLI
+2026-11-03T13:02:37.220113Z,alwith-api,0.1.8,0,0,https://github.com/nyssance/alwith-api,"ALwith from the app side: types of the alwith-runtime-v1 frame protocol, and (feature `client`) a Rust client over a Runtime child's stdio or any byte stream"
+2026-11-03T13:02:48.69364Z,alwith-native-client,0.6.0,0,0,https://github.com/ALwith-ai/alwith-modules,Loads ALwith native module libraries and calls them through the ALwith native ABI
+2026-11-03T13:03:06.822041Z,gpui-koan-bench-metrics,0.2.0+zed.b037f49,0,0,https://github.com/radiosilence/zed,Zed's `bench_metrics` crate (gpui-koan snapshot of zed@b037f49)
+2026-11-03T13:03:07.29535Z,gpui-koan-derive-refineable,0.2.0+zed.b037f49,0,0,https://github.com/radiosilence/zed,A derive macro for creating refinement types in Rust (gpui-koan snapshot of zed@b037f49)
+2026-11-03T13:03:07.551057Z,gpui-koan-http-client,0.2.0+zed.b037f49,0,0,https://github.com/radiosilence/zed,A HTTP client library for Zed and GPUI (gpui-koan snapshot of zed@b037f49)
+2026-11-03T13:03:08.136402Z,gpui-koan-http-client-tls,0.2.0+zed.b037f49,0,0,https://github.com/radiosilence/zed,Zed's `http_client_tls` crate (gpui-koan snapshot of zed@b037f49)
+2026-11-03T13:03:08.446325Z,gpui-koan-macros,0.2.0+zed.b037f49,0,0,https://github.com/radiosilence/zed,Macros used by gpui (gpui-koan snapshot of zed@b037f49)
+2026-11-03T13:08:27.554125Z,vti-specs-vtn,0.1.0,0,0,https://github.com/OpenVTC/verifiable-trust-infrastructure,"VTI's generated Trust Task wire types: the vtn/* family, at the versions trust-tasks.lock pins"
+2026-11-03T13:09:48.541398Z,vti-trust-task-server,0.1.0,0,0,https://github.com/OpenVTC/verifiable-trust-infrastructure,"The receive side of a Trust Task service: size, freshness, recipient, spec policy, proof, sender binding, duplicate-id record, dispatch and signed replies, with an axum handler for POST /v1/trust-tas…"
