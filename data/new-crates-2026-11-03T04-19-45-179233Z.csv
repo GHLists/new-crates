@@ -1,0 +1,34 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T03:19:20.098495Z,konomanoasa-tree-sitter-gyp,0.2.0,0,0,https://github.com/konomanoasa/tree-sitter-gyp,Tree-sitter grammar for GYP.
+2026-11-03T03:20:07.0145Z,aauth-rust-discovery,0.1.0-alpha.26,0,0,https://gitlab.com/sidecat-dev/aauth-rust,"Opt-in HTTPS client for AAuth discovery: admitted metadata and JWKS fetching, a caching key resolver, and revocation cascade delivery"
+2026-11-03T03:22:50.381713Z,bern-adapter-mcp,0.1.0,0,0,https://github.com/AimesSoft/Bern,MCP server derived from the Bern command catalog
+2026-11-03T03:30:01.783768Z,unplugin-app-config,0.1.0,0,0,,测试
+2026-11-03T03:32:53.501744Z,bern-svg,0.1.0,0,0,https://github.com/AimesSoft/Bern,Bern's portable animated SVG document runtime
+2026-11-03T03:35:48.777398Z,fakes3,0.1.1,0,0,https://github.com/AkaraChen/fakes3,"An in-memory S3 server for tests: millisecond startup, no persistence, AWS-compatible behaviour"
+2026-11-03T03:36:05.695007Z,wafu-core,0.1.0,0,0,https://github.com/iorate/wafu,"Internal crate of the wafu file manager (pure model: state, commands, and effects); not intended for standalone use"
+2026-11-03T03:36:08.31982Z,wafu-io,0.1.0,0,0,https://github.com/iorate/wafu,"Internal crate of the wafu file manager (effect runtime: file system, archives, and OS integration); not intended for standalone use"
+2026-11-03T03:36:11.126028Z,wafu,0.1.0,0,0,https://github.com/iorate/wafu,A keyboard-driven dual-pane file manager built with Rust and Slint
+2026-11-03T03:36:43.426448Z,rightkit-social-analytics,0.1.1,0,0,https://github.com/bogusyogi/rightkit,"Store-free social campaign analytics pieces: tracked short links with public-https destination checks, UTM tagging, deterministic link ids and redirect-route rules."
+2026-11-03T03:42:56.365868Z,bern-theme,0.1.0,0,0,https://github.com/AimesSoft/Bern,Bern Theme Algorithm: deterministic semantic colors and control recipes for targets without a native light/dark system
+2026-11-03T03:53:10.49117Z,bern-target-api,0.1.0,0,0,https://github.com/AimesSoft/Bern,Interface between the Bern compiler and independent UI target modules
+2026-11-03T03:54:00.311562Z,aither-connectivity,0.0.0,0,0,https://github.com/May-Agent/aither,Network reachability and sleep/wake notifications for aither agents
+2026-11-03T03:55:20.963891Z,tailrace-ddl,1.2.0,0,0,https://github.com/SeekerGalahad/tailrace,"Pure CREATE TABLE draft generator for Doris/StarRocks (T-A1): schema + key hints in, annotated draft DDL out — no IO, no tokio"
+2026-11-03T03:59:10.525503Z,threers-codec,0.0.10,0,0,https://github.com/eugenehp/threers,"Pure-Rust media codecs: H.264/HEVC/VP9 encoders, H.264/HEVC/VP9/AV1 decoders, AAC/MP3/Opus/Vorbis/FLAC/WAV decoders, MP4/WebM/Matroska/Ogg, GIF/APNG, captions, and VideoToolbox acceleration on macOS"
+2026-11-03T03:59:21.7189Z,threers-softbody,0.0.10,0,0,https://github.com/eugenehp/threers,"Soft bodies that tear and grow back: XPBD on tetrahedral lattices — a bit-for-bit port of Axolotl Jelly's solver — with an optional WebGPU-compute backend; threers' soft-body core, usable on its own"
+2026-11-03T04:02:31.864205Z,threers-animation,0.0.1,0,0,https://github.com/eugenehp/threers,"Tweens, springs, timelines and cinematic camera animation for threers — fly, orbit, paths, shake and shot lists, plus blending an animated pose into a simulated one"
+2026-11-03T04:03:20.664769Z,bern-compiler,0.1.0,0,0,https://github.com/AimesSoft/Bern,"Collects Bern declarations, checks them and produces the shared IR"
+2026-11-03T04:05:54.147436Z,valo-paragraph,0.15.0,0,0,https://github.com/seedeai/valo,"Styled paragraphs for valo: spans, font fallback, bidi, wrapping, and recording into a display list"
+2026-11-03T04:07:42.434294Z,channelkit,0.1.0-alpha.1,0,0,https://github.com/everruns/channelkit,Async messaging channel coordination for application-owned agents
+2026-11-03T04:07:48.101739Z,channelkit-slack,0.1.0-alpha.1,0,0,https://github.com/everruns/channelkit,Slack adapter for Channelkit
+2026-11-03T04:07:52.144004Z,channelkit-whatsapp,0.1.0-alpha.1,0,0,https://github.com/everruns/channelkit,WhatsApp Business Cloud API adapter for Channelkit
+2026-11-03T04:07:56.708711Z,channelkit-discord,0.1.0-alpha.1,0,0,https://github.com/everruns/channelkit,Discord signed interaction and REST adapter for Channelkit
+2026-11-03T04:08:00.795412Z,channelkit-github,0.1.0-alpha.1,0,0,https://github.com/everruns/channelkit,GitHub issue and pull-request conversation adapter for Channelkit
+2026-11-03T04:10:50.73949Z,channelkit-linear,0.1.0-alpha.1,0,0,https://github.com/everruns/channelkit,Linear comment and agent session adapter for Channelkit
+2026-11-03T04:11:15.786873Z,fakes3-opendal,0.1.0,0,0,https://github.com/AkaraChen/fakes3,"OpenDAL operators backed by an in-process fakes3 server, for tests"
+2026-11-03T04:13:36.363925Z,bern-backend-compose,0.1.0,0,0,https://github.com/AimesSoft/Bern,Jetpack Compose target: generates native Android apps from the Bern IR
+2026-11-03T04:16:05.793495Z,modemmanager,0.1.0,0,0,https://github.com/freedesktop-rs/mmrs,A Rust library for ModemManager over D-Bus
+2026-11-03T04:17:05.361215Z,roomkit-tools-image,0.1.0-alpha.16,0,0,https://github.com/roomkit-live/roomkit-tools,Bounded local image preparation for multimodal agent tools
+2026-11-03T04:17:08.211989Z,roomkit-tools-ocr,0.1.0-alpha.16,0,0,https://github.com/roomkit-live/roomkit-tools,Bounded local OCR with an injected recognition backend
+2026-11-03T04:17:12.54487Z,roomkit-tools-ocr-rusto,0.1.0-alpha.16,0,0,https://github.com/roomkit-live/roomkit-tools,Optional local RustO recognition backend for roomkit-tools-ocr
+2026-11-03T04:17:14.752422Z,roomkit-tools-plans,0.1.0-alpha.16,0,0,https://github.com/roomkit-live/roomkit-tools,Selectable plan CRUD contracts and host-owned storage backends
+2026-11-03T04:17:18.181144Z,roomkit-tools-process,0.1.0-alpha.16,0,0,https://github.com/roomkit-live/roomkit-tools,Bounded command execution and owned persistent processes for agents
