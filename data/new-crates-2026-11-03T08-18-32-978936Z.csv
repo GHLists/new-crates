@@ -1,0 +1,38 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-03T07:19:29.538677Z,arcbox-vhost-user,0.11.0,0,0,https://github.com/arcboxlabs/arcbox,vhost-user back-end framework for ArcBox devices served to QEMU on macOS
+2026-11-03T07:22:57.187417Z,lockyard-core,0.0.1,0,0,https://github.com/lockyard-dev/lockyard,"Coordination for coding agents: a shared bus, work zones and tasks."
+2026-11-03T07:22:57.237894Z,viewport-lib-plugins,0.1.0,0,0,https://github.com/grimandgreedy/viewport-lib,"Plugins for viewport-lib: the built-in item types (point clouds, sprites, curves, volumes, vector and tensor fields and the rest) and deformers such as a cut for section views and thresholds"
+2026-11-03T07:23:12.205725Z,lockyard-cloud-client,0.0.1,0,0,https://github.com/lockyard-dev/lockyard,"Coordination for coding agents: a shared bus, work zones and tasks."
+2026-11-03T07:23:29.294094Z,lockyard,0.0.1,0,0,https://github.com/lockyard-dev/lockyard,"Coordination for coding agents: a shared bus, work zones and tasks."
+2026-11-03T07:26:07.690164Z,ast-query,0.1.0,0,0,https://github.com/zaeku/ast-editor,"Pick a tree-sitter grammar by file extension, parse, and run named template queries for line ranges."
+2026-11-03T07:26:28.888069Z,arcbox-vz-driver,0.11.0,0,0,https://github.com/arcboxlabs/arcbox,"The Virtualization.framework adapter for the arcbox-vm-driver port: renders a VmSpec into a VZ configuration, runs the VM in-process, and serves vsock, console, balloon and port forwarding over it."
+2026-11-03T07:27:23.979314Z,phronesis-governance,0.40.0,0,0,https://github.com/awaterma/phronesis,"Embeddable governance core for the phronesis RETE engine: strict rules parsing, validation, compilation, and capsule payload validation, free of filesystem, MCP, and host dependencies."
+2026-11-03T07:27:45.486778Z,rightkit-content-plan,0.1.1,0,0,https://github.com/bogusyogi/rightkit,"Store-free content planning rules: manual draft approval gate, first-sentence disclosure check and per-platform posted-link host table."
+2026-11-03T07:28:29.58365Z,rightkit-media-fetch,0.1.1,0,0,https://github.com/bogusyogi/rightkit,"Media fetch: yt-dlp download and 16 kHz mono WAV normalize, playlist expansion, and a pure URL/file job classifier with a shared media-type table."
+2026-11-03T07:28:31.038978Z,mcapdecode-rawjson,0.10.0,0,0,https://github.com/eduidl/mcapdecode-rs,Pass-through decoder for mcapdecode JSON payloads.
+2026-11-03T07:30:48.51914Z,sacdfs,0.4.0,0,0,https://github.com/aclater/sacdfs,"Read-only FUSE filesystem that shows SACD disc images as DSF files, decoded on demand"
+2026-11-03T07:34:11.062979Z,viewport-lib-gizmo,0.1.0,0,0,https://github.com/grimandgreedy/viewport-lib-gizmo,"Standalone transform gizmo for viewport-lib scenes: renderer-free hit-testing, drag projection, snapping, and overlay building."
+2026-11-03T07:39:22.035597Z,agentictracebook,0.0.1,0,0,https://github.com/IO22LabsConsulting/agentictracebook,"Agentic Tracebook: a reserved name. A product of IO22 Labs, not yet released."
+2026-11-03T07:41:43.890289Z,retex-highlight,1.8.0-alpha.1,0,0,https://gitlab.com/severin-lemaignan/retex,"Syntax highlighting for retex: what minted asks of Pygments (latexminted), natively"
+2026-11-03T07:43:26.280894Z,observed_destination_core,0.29.1,0,0,https://github.com/microsoft/oxidizer/tree/main/crates/observed_destination_core,Contains shared components for defining various destinations for Observed pipeline.
+2026-11-03T07:45:19.978244Z,ferrohealth-session,0.0.0,0,0,https://github.com/FerroHEALTH/FerroAUTH,The OpenID Connect sign-in and the session of the FerroHEALTH operator consoles (name reservation; the crate is built in FerroAUTH)
+2026-11-03T07:50:39.492904Z,mdview-rs,0.2.0,0,0,https://github.com/pengchangg/mdview,"Terminal Markdown viewer: scroll, search, outline, mermaid diagrams, live reload"
+2026-11-03T07:51:18.669701Z,omriss-core,0.17.0,0,0,https://github.com/nabbisen/omriss,"Source-preserving Markdown document engine for Omriss (canonical text, outline index, edit operations)"
+2026-11-03T07:52:50.611968Z,mirro-core,0.1.0,0,0,https://gitee.com/git-lloyd/mirro,mirro 反射框架核心：静态类型元信息、动态值与可反射调用的方法
+2026-11-03T08:06:15.837114Z,blenderui-sys,0.1.0,0,0,https://github.com/ppmpreetham/BUI,Raw FFI bindings to the BUI C kit (Blender's UI as a C library)
+2026-11-03T08:06:17.819021Z,blenderui-tailwind,0.1.0,0,0,https://github.com/ppmpreetham/BUI,Tailwind CSS v4 class compiler (class name -> CSS) for blenderui
+2026-11-03T08:06:22.157387Z,blenderui-macros,0.1.0,0,0,https://github.com/ppmpreetham/BUI,"Compile-time macros for blenderui: rsx!/view!, #[component], css! and tw!"
+2026-11-03T08:06:25.548021Z,blenderui,0.1.0,0,0,https://github.com/ppmpreetham/BUI,"Blender's UI for Rust: gpui-style syntax, every HTML element and CSS, drawn by the BUI C kit"
+2026-11-03T08:07:31.887676Z,mirro-macro,0.1.0,0,0,https://gitee.com/git-lloyd/mirro,mirro 反射框架的过程宏：#[typed]、#[method] / #[methods] 与 #[interface]
+2026-11-03T08:07:57.667029Z,mirro-validate,0.1.0,0,0,https://gitee.com/git-lloyd/mirro,mirro 反射框架的校验层：基于施加协议的 range / length / count / regex 等规则
+2026-11-03T08:08:07.041375Z,arty_tokio,0.2.0,0,0,https://github.com/microsoft/oxidizer/tree/main/crates/arty_tokio,Lets Arty tasks use Tokio-based libraries.
+2026-11-03T08:08:29.248912Z,mirro-openapi,0.1.0,0,0,https://gitee.com/git-lloyd/mirro,mirro 反射框架的 OpenAPI 生成层：把接口签名与字段校验约束编译成 3.1 文档
+2026-11-03T08:08:57.384272Z,mirro,0.1.0,0,0,https://gitee.com/git-lloyd/mirro,mirro 门面：反射元信息、动态调用、过程宏与校验的一站式入口
+2026-11-03T08:13:56.434295Z,rpack_core,0.7.0,0,0,https://github.com/Leinnan/rpack.git,"Atlas packing, configuration and data types shared by the rpack tools"
+2026-11-03T08:13:57.552695Z,sismo-format,0.1.1,0,0,https://github.com/SergioRibera/sismo,"Chunked wire and file format shared by the sismo recorder, viewer and CLI"
+2026-11-03T08:14:00.095269Z,sismo-macros,0.1.1,0,0,https://github.com/SergioRibera/sismo,Attribute macros for the sismo recorder
+2026-11-03T08:14:40.881409Z,sismo-analysis,0.1.1,0,0,https://github.com/SergioRibera/sismo,"Session model, query language, aggregations and exports for sismo recordings"
+2026-11-03T08:14:48.61741Z,sismo,0.1.1,0,0,https://github.com/SergioRibera/sismo,"Low-overhead in-app recorder for spans, logs and counters, streamed live or saved to file"
+2026-11-03T08:15:13.483604Z,sismo-freya,0.1.1,0,0,https://github.com/SergioRibera/sismo,"Freya plugin that feeds frame marks, render phases and tree metrics into sismo"
+2026-11-03T08:18:12.737224Z,retex-texlive,1.8.0-alpha.1,0,0,https://gitlab.com/severin-lemaignan/retex,TeX Live years and package databases for retex
+2026-11-03T08:18:22.923964Z,retex-pdfx,1.8.0-alpha.1,0,0,https://gitlab.com/severin-lemaignan/retex,"PDF/X for retex: a finished PDF made into a PDF/X-4 or PDF/X-1a, for the press"
