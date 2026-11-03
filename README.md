@@ -8,44 +8,70 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 15:18 UTC
+## Latest list — 2026-11-03 16:20 UTC
 
-New crates published between 2026-11-03 14:18 UTC and 2026-11-03 15:18 UTC.
+New crates published between 2026-11-03 15:18 UTC and 2026-11-03 16:20 UTC.
 
-[Full CSV](data/new-crates-2026-11-03T15-18-26-994477Z.csv)
+[Full CSV](data/new-crates-2026-11-03T16-20-53-976468Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-03 14:20:19 | [alwith-browser](https://crates.io/crates/alwith-browser) | 0.6.0 | 0 | ALwith browser bridge: typed Tauri commands registering the Chromium native mes… |
-| 2026-11-03 14:20:52 | [edgefirst-kernels](https://crates.io/crates/edgefirst-kernels) | 0.38.2 | 0 | Quantized and floating-point compute kernels (softmax, LUT, sigmoid, DFL) for e… |
-| 2026-11-03 14:23:15 | [bun_browser_frames](https://crates.io/crates/bun_browser_frames) | 1.4.8 | 0 | MPEG-7 ColorLayout frame indexing and trace.moe client for Bun. |
-| 2026-11-03 14:25:20 | [clarity-ui](https://crates.io/crates/clarity-ui) | 0.1.0 | 0 | Clarity.UI: Clarity's own UI framework, drawn with Skia, the one library behind… |
-| 2026-11-03 14:30:40 | [alwith-computer](https://crates.io/crates/alwith-computer) | 0.6.0 | 0 | ALwith computer use: typed Tauri commands for the shared computer driver, gatew… |
-| 2026-11-03 14:31:57 | [impish-core](https://crates.io/crates/impish-core) | 0.6.2 | 0 | The Contract's README format, shared by cargo-impish and #[impish::contract] |
-| 2026-11-03 14:31:58 | [impish](https://crates.io/crates/impish) | 0.6.2 | 0 | #[impish::contract]: the attribute that marks a contract test |
-| 2026-11-03 14:32:00 | [cargo-impish](https://crates.io/crates/cargo-impish) | 0.6.2 | 0 | The Contract gate for Rust, after Impatient Programming |
-| 2026-11-03 14:36:52 | [aphrody-mcp-client](https://crates.io/crates/aphrody-mcp-client) | 1.4.7 | 0 | Model Context Protocol client for Aphrody: the single MCP client of the workspa… |
-| 2026-11-03 14:41:01 | [alwith-device](https://crates.io/crates/alwith-device) | 0.6.0 | 0 | ALwith device: typed Tauri commands for managed simulators and emulators, backe… |
-| 2026-11-03 14:42:31 | [gtools](https://crates.io/crates/gtools) | 0.0.1 | 0 | Library offering general-purpose tools, enumerators and algorithms for the mani… |
-| 2026-11-03 14:43:26 | [tendermint-consensus](https://crates.io/crates/tendermint-consensus) | 0.1.0 | 0 | An implementation of the Tendermint state machine in Rust |
-| 2026-11-03 14:47:55 | [aphrody-gemini-runtime](https://crates.io/crates/aphrody-gemini-runtime) | 1.4.7 | 0 | Cross-platform Gemini CLI runtime adapter: detect, version, turn streaming, plu… |
-| 2026-11-03 14:49:01 | [aphrody-google](https://crates.io/crates/aphrody-google) | 1.4.7 | 0 | Aphrody OS Google facade: the Google SDK (bun-os-google) with the Gemini, Antig… |
-| 2026-11-03 14:51:20 | [alwith-gamepad](https://crates.io/crates/alwith-gamepad) | 0.6.0 | 0 | ALwith gamepad: typed Tauri commands for controller mapping, key capture and pe… |
-| 2026-11-03 14:53:20 | [sporran](https://crates.io/crates/sporran) | 0.0.1 | 0 | A persona's wallet on disk: the store adapter for personae's carry model, with… |
-| 2026-11-03 14:54:09 | [smbcloud-ascapi-appgallery](https://crates.io/crates/smbcloud-ascapi-appgallery) | 0.5.1 | 0 | Huawei AppGallery Connect API: Service Account (PS256 JWT) authentication and t… |
-| 2026-11-03 14:54:25 | [smbcloud-ascapi-msstore](https://crates.io/crates/smbcloud-ascapi-msstore) | 0.5.1 | 0 | Microsoft Store submission API v1.0: store listing text on an MSIX app's submis… |
-| 2026-11-03 15:00:36 | [aphrody-webos-protocol](https://crates.io/crates/aphrody-webos-protocol) | 1.4.7 | 0 | Wire contract of aphrody.com shared by the Rust server and the Rust wasm client… |
-| 2026-11-03 15:01:41 | [alwith-installed-apps](https://crates.io/crates/alwith-installed-apps) | 0.6.0 | 0 | ALwith installed apps: typed Tauri commands for discovering and opening install… |
-| 2026-11-03 15:02:53 | [tributary-framework](https://crates.io/crates/tributary-framework) | 0.1.0 | 0 | A mini-blockchain framework, intended for being embedded into applications |
-| 2026-11-03 15:05:24 | [surrealdb-kvs-test](https://crates.io/crates/surrealdb-kvs-test) | 4.0.0 | 0 | A scalable, distributed, collaborative, document-graph database, for the realti… |
-| 2026-11-03 15:09:22 | [kernite-core](https://crates.io/crates/kernite-core) | 0.1.0 | 0 | A kernel as instructions over registers |
-| 2026-11-03 15:09:23 | [kernite-cpu](https://crates.io/crates/kernite-cpu) | 0.1.0 | 0 | What x86 kernels need of the process: the threads a cooperative one runs on, ea… |
-| 2026-11-03 15:09:25 | [kernite-cuda](https://crates.io/crates/kernite-cuda) | 0.1.0 | 0 | The CUDA driver, opened when a GPU is asked for: memory on it, PTX modules, and… |
-| 2026-11-03 15:09:26 | [kernite-lang](https://crates.io/crates/kernite-lang) | 0.1.0 | 0 | The language kernels are written in, in place: a Rust function's body read as i… |
-| 2026-11-03 15:09:31 | [kernite-build](https://crates.io/crates/kernite-build) | 0.1.0 | 0 | What kernite does with a module of kernels: the use cases, and the ports a mach… |
-| 2026-11-03 15:12:00 | [alwith-mobile](https://crates.io/crates/alwith-mobile) | 0.6.0 | 0 | ALwith mobile: typed Tauri commands and host requests for the encrypted phone b… |
-| 2026-11-03 15:13:10 | [aphrody-agent-tools](https://crates.io/crates/aphrody-agent-tools) | 1.4.7 | 0 | Concrete ToolExecutor implementations for the aphrody agent engine: a streaming… |
-| 2026-11-03 15:15:29 | [kernite-compile](https://crates.io/crates/kernite-compile) | 0.1.0 | 0 | The allocator: liveness, register allocation that spills, the frame's layout |
+| 2026-11-03 15:22:20 | [alwith-voice](https://crates.io/crates/alwith-voice) | 0.6.2 | 0 | ALwith voice: typed Tauri commands for streaming speech recognition, backed by… |
+| 2026-11-03 15:23:03 | [tkrs](https://crates.io/crates/tkrs) | 0.1.0 | 0 | Native Rust desktop application framework |
+| 2026-11-03 15:23:26 | [steelix-runtime](https://crates.io/crates/steelix-runtime) | 0.1.0 | 0 | Small helpers used by Rust code generated by steelix |
+| 2026-11-03 15:23:30 | [gamespy-proto](https://crates.io/crates/gamespy-proto) | 0.1.0 | 0 | GameSpy wire codecs for embedded game servers |
+| 2026-11-03 15:23:34 | [gamespy-runtime](https://crates.io/crates/gamespy-runtime) | 0.1.0 | 0 | Embeddable GameSpy service runtime |
+| 2026-11-03 15:24:18 | [kernite-ptx](https://crates.io/crates/kernite-ptx) | 0.1.0 | 0 | PTX for NVIDIA GPUs as kernite-lang writes it: each instruction checked against… |
+| 2026-11-03 15:25:40 | [aphrody-agent-runtime](https://crates.io/crates/aphrody-agent-runtime) | 1.4.7 | 0 | Wiring/factory layer that assembles a ready-to-run aphrody agent: builds a Mode… |
+| 2026-11-03 15:26:06 | [simd-cpu](https://crates.io/crates/simd-cpu) | 0.1.0 | 0 | SIMD features of the running CPU as a token for SIMD codecs, no_std and depende… |
+| 2026-11-03 15:26:22 | [filer-7z](https://crates.io/crates/filer-7z) | 0.0.2 | 0 | Read-only 7z archive driver for the Filer API. |
+| 2026-11-03 15:26:30 | [filer-fs](https://crates.io/crates/filer-fs) | 0.0.2 | 0 | Shared machinery of on-disk file system drivers for the Filer API. |
+| 2026-11-03 15:26:44 | [filer-archive](https://crates.io/crates/filer-archive) | 0.0.2 | 0 | Read-only archives of any supported format for the Filer API. |
+| 2026-11-03 15:26:55 | [filer-volume](https://crates.io/crates/filer-volume) | 0.0.2 | 0 | Read-only volumes of any supported file system for the Filer API. |
+| 2026-11-03 15:26:57 | [spatial-id](https://crates.io/crates/spatial-id) | 0.1.0 | 0 | Spatial ID (Ouranos 4D spatio-temporal ID) types, collections, geometry convers… |
+| 2026-11-03 15:27:58 | [cargo-generate-macpkg](https://crates.io/crates/cargo-generate-macpkg) | 0.1.0 | 0 | Generate a macOS installer package (.pkg) from Cargo projects |
+| 2026-11-03 15:28:40 | [cargo-generate-spk](https://crates.io/crates/cargo-generate-spk) | 0.1.0 | 0 | Generate a Synology DiskStation package (.spk) from Cargo projects |
+| 2026-11-03 15:30:37 | [whycodes-command-risk](https://crates.io/crates/whycodes-command-risk) | 0.6.29 | 0 | Deterministic risk classification for shell commands in WhyCodes |
+| 2026-11-03 15:30:41 | [whycodes-index](https://crates.io/crates/whycodes-index) | 0.6.29 | 0 | Fast, gitignore-aware workspace file index for WhyCodes |
+| 2026-11-03 15:30:46 | [whycodes-core](https://crates.io/crates/whycodes-core) | 0.6.29 | 0 | Shared leaf types, tool trait, errors, logging and paths for WhyCodes |
+| 2026-11-03 15:30:51 | [whycodes-config](https://crates.io/crates/whycodes-config) | 0.6.29 | 0 | Configuration load, merge, and validation for WhyCodes |
+| 2026-11-03 15:30:57 | [whycodes-auth](https://crates.io/crates/whycodes-auth) | 0.6.29 | 0 | OAuth login flows and token storage for WhyCodes subscription auth |
+| 2026-11-03 15:38:45 | [aphrody-web](https://crates.io/crates/aphrody-web) | 1.4.7 | 0 | Reusable Rust crawl and browser-rendering API for Aphrody Web. |
+| 2026-11-03 15:39:00 | [flow-autospectral](https://crates.io/crates/flow-autospectral) | 0.1.0 | 0 | Multi-AF spectral library discovery and per-event matching for flow cytometry u… |
+| 2026-11-03 15:41:03 | [kernite-x86](https://crates.io/crates/kernite-x86) | 0.1.0 | 0 | x86-64 for kernite: the typed instruction builder kernels are written in, SysV,… |
+| 2026-11-03 15:41:23 | [whycodes-llm](https://crates.io/crates/whycodes-llm) | 0.6.29 | 0 | LLM provider clients, model catalog and streaming for WhyCodes |
+| 2026-11-03 15:46:10 | [aphrody-nie-game](https://crates.io/crates/aphrody-nie-game) | 1.4.7 | 0 | Hôte GUI natif wgpu — rend les vrais assets IEVR (pilier D1/C4 pixel-perfect) |
+| 2026-11-03 15:48:30 | [emu198x-mullard-zx8401](https://crates.io/crates/emu198x-mullard-zx8401) | 0.1.0 | 0 | Settled pin-level address and CAS logic for the Mullard ZX8401 memory controller |
+| 2026-11-03 15:50:14 | [hench-macros](https://crates.io/crates/hench-macros) | 0.1.0 | 0 | Procedural macros for hench (the #[hench::job] attribute). |
+| 2026-11-03 15:50:20 | [hench](https://crates.io/crates/hench) | 0.1.0 | 0 | Simple, efficient, Redis-backed background job processing for Rust, inspired by… |
+| 2026-11-03 15:50:25 | [hench-web](https://crates.io/crates/hench-web) | 0.1.0 | 0 | The hench web dashboard as an axum Router: live statistics, busy processes, que… |
+| 2026-11-03 15:50:29 | [hench-server](https://crates.io/crates/hench-server) | 0.1.0 | 0 | The hench command: a standalone hench dashboard with authentication, a JSON API… |
+| 2026-11-03 15:51:46 | [whycodes-sandbox](https://crates.io/crates/whycodes-sandbox) | 0.6.29 | 0 | OS sandbox for shell tool execution (bubblewrap on Linux) |
+| 2026-11-03 15:52:41 | [base64-codec](https://crates.io/crates/base64-codec) | 0.1.0 | 0 | Base64 encoder and decoder with SIMD and no_std |
+| 2026-11-03 15:54:02 | [quoted-printable-codec](https://crates.io/crates/quoted-printable-codec) | 0.1.0 | 0 | Quoted-printable encoder and decoder with SIMD and no_std |
+| 2026-11-03 15:54:38 | [egui_stack](https://crates.io/crates/egui_stack) | 0.22.0 | 0 | Docking system for egui, continuing egui_dock |
+| 2026-11-03 15:55:23 | [videoupscaler](https://crates.io/crates/videoupscaler) | 0.1.0 | 0 | Official Rust SDK & CLI for VideoUpscaler (https://videoupscaler.co) — 4K AI Vi… |
+| 2026-11-03 15:55:26 | [fuel-vulkan-dispatch](https://crates.io/crates/fuel-vulkan-dispatch) | 0.0.0 | 0 | Vulkan kernel bindings for the Fuel ML framework (name reservation; the real cr… |
+| 2026-11-03 15:55:27 | [ai-video-upscaler](https://crates.io/crates/ai-video-upscaler) | 0.1.0 | 0 | Cloud-Native 4K AI Video Upscaler, Temporal Video Denoising, 60FPS Frame Interp… |
+| 2026-11-03 15:55:30 | [videoupscaler-mcp](https://crates.io/crates/videoupscaler-mcp) | 0.1.0 | 0 | Official Model Context Protocol (MCP) & n8n/Make/Zapier Workflow Automation Rus… |
+| 2026-11-03 15:55:33 | [fuel-cuda-dispatch](https://crates.io/crates/fuel-cuda-dispatch) | 0.0.0 | 0 | CUDA kernel bindings for the Fuel ML framework (name reservation; the real crat… |
+| 2026-11-03 15:58:27 | [pdfcraft-fonts](https://crates.io/crates/pdfcraft-fonts) | 0.7.1 | 0 | Font metrics and text encoding helpers for generated appearances (standard font… |
+| 2026-11-03 15:59:12 | [aphrody-pdfcraft-forms](https://crates.io/crates/aphrody-pdfcraft-forms) | 0.7.1 | 0 | Interactive forms (AcroForm): field model, filling, appearances, reset (ISO 320… |
+| 2026-11-03 15:59:32 | [servo-script-webcrypto](https://crates.io/crates/servo-script-webcrypto) | 0.0.1 | 0 | placeholder release, coming as part of servo 0.8.0 |
+| 2026-11-03 16:00:38 | [ciclostile](https://crates.io/crates/ciclostile) | 0.0.1 | 0 | Fill .docx templates: replace text, insert images and tables, and keep everythi… |
+| 2026-11-03 16:01:26 | [servo-svg](https://crates.io/crates/servo-svg) | 0.0.1 | 0 | placeholder release, coming as part of servo 0.8.0 |
+| 2026-11-03 16:02:10 | [whycodes-format](https://crates.io/crates/whycodes-format) | 0.6.29 | 0 | Markdown, syntax highlighting, diff and table rendering for WhyCodes |
+| 2026-11-03 16:10:48 | [kernite](https://crates.io/crates/kernite) | 0.1.0 | 0 | Kernels written as instructions over variables, compiled to assembly that chang… |
+| 2026-11-03 16:10:59 | [kernite-macros](https://crates.io/crates/kernite-macros) | 0.1.0 | 0 | Kernels written in place: `#[kernels]` on a module compiles each function in it… |
+| 2026-11-03 16:12:31 | [whycodes-lsp](https://crates.io/crates/whycodes-lsp) | 0.6.29 | 0 | Language Server Protocol client for WhyCodes |
+| 2026-11-03 16:13:53 | [elpriser](https://crates.io/crates/elpriser) | 0.1.0 | 0 | Client for the elpriser.org electricity price API: 40 European zones, current a… |
+| 2026-11-03 16:14:35 | [gotek-core](https://crates.io/crates/gotek-core) | 0.1.0 | 0 | Rust library for managing original-firmware Gotek USB floppy emulator images |
+| 2026-11-03 16:16:12 | [flashback-sys](https://crates.io/crates/flashback-sys) | 0.0.0 | 0 | Native link metadata for Flashback, a Windows memory-analysis library. Name res… |
+| 2026-11-03 16:16:15 | [flashback-rs-macros](https://crates.io/crates/flashback-rs-macros) | 0.0.0 | 0 | Procedural macros for flashback-rs. Name reserved: the first release is pending. |
+| 2026-11-03 16:16:17 | [flashback-rs](https://crates.io/crates/flashback-rs) | 0.0.0 | 0 | Safe Rust API for Flashback, a Windows memory-analysis library. Name reserved:… |
+| 2026-11-03 16:16:21 | [flashback-ui](https://crates.io/crates/flashback-ui) | 0.0.0 | 0 | Terminal UI for Flashback, a Windows memory-analysis library. Name reserved: th… |
+| 2026-11-03 16:16:23 | [nu_plugin_flashback](https://crates.io/crates/nu_plugin_flashback) | 0.0.0 | 0 | Nushell plugin for Flashback, a Windows memory-analysis library. Name reserved:… |
+| 2026-11-03 16:20:48 | [whycodes-storage](https://crates.io/crates/whycodes-storage) | 0.6.29 | 0 | SQLite storage for WhyCodes sessions, messages and memories |
 
 ## Data source
 
