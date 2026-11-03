@@ -1,0 +1,40 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-02T23:24:27.984636Z,ostiary,0.0.1,0,0,https://github.com/merely-made/armillary,"The application door's contract: hello, admission types, framing, envelopes and the native client."
+2026-11-02T23:25:26.411971Z,peer-facts,0.0.1,0,0,https://github.com/merely-made/armillary,"What the operating system says about the other end of a local connection: Unix credentials, Windows token and image, macOS code signature."
+2026-11-02T23:27:02.142538Z,cortexkit-compaction-view,0.1.0,0,0,https://github.com/cortexkit/commons,"The view library of the CortexKit compaction contract: how a runner renders a view and checks it, shared by runners and compaction providers so they never compute it differently."
+2026-11-02T23:28:07.141535Z,cortexkit-compaction-view-wasm,0.1.0,0,0,https://github.com/cortexkit/commons,"WebAssembly build of the compaction view library, for runners written in JavaScript."
+2026-11-02T23:30:25.234186Z,adbtop,0.2.0,0,0,https://github.com/aabolfazl/adbtop,"Live performance for Android apps over adb: a terminal UI, plus JSON and CSV recording for scripts, CI and AI agents"
+2026-11-02T23:35:30.632332Z,kern-model,0.1.0,0,0,https://github.com/chitajohn/Kern,"Kern model gateway: provider trait, gateway policy, and provider adapters."
+2026-11-02T23:38:24.835008Z,kern-tool,0.1.0,0,0,https://github.com/chitajohn/Kern,"Kern tool system: Tool trait, registry, builtins, and execution limits."
+2026-11-02T23:38:44.924556Z,hit-cache,0.1.0,0,0,https://github.com/hardhus/hit,Local SQLite cache for hit
+2026-11-02T23:38:46.086845Z,hit-config,0.1.0,0,0,https://github.com/hardhus/hit,Configuration and platform paths for hit
+2026-11-02T23:38:47.080672Z,hit-core,0.1.0,0,0,https://github.com/hardhus/hit,Forge-agnostic domain model and capability traits for hit
+2026-11-02T23:38:50.392022Z,hit-auth,0.1.0,0,0,https://github.com/hardhus/hit,"Accounts, token storage and device-flow sign-in for hit"
+2026-11-02T23:38:51.397185Z,hit-forge-mock,0.1.0,0,0,https://github.com/hardhus/hit,In-memory demo forge for hit (`hit --demo`)
+2026-11-02T23:39:58.7286Z,kern-core,0.1.0,0,0,https://github.com/chitajohn/Kern,"Kern runtime core: lifecycle, engine, state, events, checkpoints, recovery, permissions, sandbox, scheduler, config, API."
+2026-11-02T23:40:58.710306Z,kern-runtime,0.1.0,0,0,https://github.com/chitajohn/Kern,Kern CLI: daemon and control interface (SPEC.md §16).
+2026-11-02T23:42:04.123909Z,umph,0.0.0,0,0,https://github.com/amitpatole/umph,umph (Universal Memory Fabric): name reservation placeholder for an encrypted remote page cache. No functionality yet.
+2026-11-02T23:42:21.705447Z,hit-github,0.1.0,0,0,https://github.com/hardhus/hit,GitHub provider for hit
+2026-11-02T23:47:40.15508Z,bevy_voxel_gi,0.1.0,0,0,https://github.com/nathanaelneveux/global-illumination,"GPU path-traced diffuse global illumination for voxel worlds in Bevy: sun, sky, emissive blocks and multi-bounce light"
+2026-11-02T23:47:59.951365Z,bevy_voxel_gi_bvw,0.1.0,0,0,https://github.com/nathanaelneveux/global-illumination,"bevy_voxel_world connector for bevy_voxel_gi: page events, voxel source and the lit mesh material"
+2026-11-02T23:48:38.687658Z,bevy_voxel_gi_debug,0.1.0,0,0,https://github.com/nathanaelneveux/global-illumination,Optional HUD and tuning panel for bevy_voxel_gi
+2026-11-02T23:50:40.49421Z,agentsensory,0.1.0,0,0,https://github.com/amitpatole/agentsensory,"Rust companion of the agentsensory Python package: the shared verdict/report/handoff contract for AI-agent graders, JSON-compatible with the Python models."
+2026-11-02T23:56:55.026297Z,latenzy,0.1.0,0,0,https://github.com/amitpatole/latenzy,"Rust companion of the latenzy Python package: typed, validated config and probe-result models plus the latency-classification core for per-model LLM latency monitoring."
+2026-11-02T23:57:00.6637Z,babelagent,0.1.0,0,0,https://github.com/amitpatole/babelagent,"Rust companion of the babelagent Python package: typed A2A message, graph-topology and result models with DAG validation, plus an optional REST client."
+2026-11-02T23:58:52.475292Z,slatedb-mirror,0.18.0,0,0,https://github.com/slatedb/slatedb,Local whole-object mirror for an object store.
+2026-11-02T23:58:59.378183Z,ragproof,0.1.0,0,0,,"Rust companion of the ragproof Python package: typed, JSON-compatible RAG evaluation models plus native retrieval metrics and McNemar test."
+2026-11-02T23:59:03.802238Z,assaylab,0.1.0,0,0,https://github.com/amitpatole/assaylab,"Rust companion of the assaylab Python package: failure-signature clustering, root-cause categorization, flaky-vs-real classification and risk scoring for CI test results."
+2026-11-02T23:59:25.942051Z,rs-sqlite2rbat,0.1.0,0,0,https://github.com/takanoriyanagitani/rs-sqlite2rbat,Converts SQLite rows to a record batch
+2026-11-03T00:00:19.137708Z,hit-tui,0.1.0,0,0,https://github.com/hardhus/hit,Terminal UI for hit
+2026-11-03T00:02:12.110312Z,olfel,0.1.0,0,0,,"Rust companion of the olfel Python package: smell/anomaly sense (code, log, dependency smells) reporting on the agentsensory verdict contract."
+2026-11-03T00:05:27.667032Z,fastmeta,0.1.0,0,0,https://github.com/nixietab/fastmeta,"Fast, consistent website metadata retrieval and extraction"
+2026-11-03T00:09:55.727486Z,weft-line-protocol,0.2.0,0,0,https://github.com/basic-automation/weftdb,"Vendor-neutral InfluxDB Line Protocol (ILP) parser: text in, neutral records / splimes points out. No client, no network, no vendor dependency."
+2026-11-03T00:10:28.577639Z,weft-physical-type,0.2.0,0,0,https://github.com/basic-automation/weftdb,"Declared physical numeric encodings for time-series values. BigDecimal stays the logical type; downcasting is explicit and reports exactness, never a silent precision loss."
+2026-11-03T00:11:02.159917Z,weft-arrow,0.2.0,0,0,https://github.com/basic-automation/weftdb,"Apache Arrow interchange for WeftDB's typed columnar segments: sealed segment to RecordBatch and back, plus Arrow IPC and Parquet bytes."
+2026-11-03T00:11:21.667468Z,code-stats,0.0.1,0,0,https://github.com/FalkZ/code-stats,Explore code size and complexity in an interactive local sunburst chart
+2026-11-03T00:11:34.503657Z,weft-reduce,0.2.0,0,0,https://github.com/basic-automation/weftdb,"Time-series downsampling reductions (min/max/avg/sum/first/last and time-weighted averages) over an epoch-aligned bucket grid, in BigDecimal."
+2026-11-03T00:12:10.733645Z,actel,0.1.0,0,0,,"Rust companion of the actel Python package: a guardrailed Actuator (plan/check/act/watch) that acts, re-perceives via a sense, and reports on the agentsensory verdict contract."
+2026-11-03T00:12:13.803305Z,weftdb,0.2.0,0,0,https://github.com/basic-automation/weftdb,"Time-series database for irregularly sampled data: interpolation is a first-class query, and every returned point is labelled raw, interpolated or extrapolated."
+2026-11-03T00:12:15.425692Z,hit-cli,0.1.0,0,0,https://github.com/hardhus/hit,A keyboard-driven terminal UI for GitHub (other forges planned)
+2026-11-03T00:13:14.728403Z,rust-agent-tool,0.1.0,0,0,https://github.com/nexifle/rust-agent-tool,"Agent tool contract with host-injected read, exec, write, and edit tools."
+2026-11-03T00:13:21.016423Z,weft-orchestration,0.2.0,0,0,https://github.com/basic-automation/weftdb,"Analytics pipeline for WeftDB: batching, pattern extraction, event detection, correlation and signal generation over stored aspects."
