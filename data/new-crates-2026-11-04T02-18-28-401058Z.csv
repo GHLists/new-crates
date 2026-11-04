@@ -1,0 +1,18 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T01:19:00.829793Z,tc_blowfish,0.1.0,0,0,https://github.com/TomiCheng/tc_block_cipher,Blowfish block cipher with 32- to 448-bit keys and a 64-bit block.
+2026-11-04T01:19:09.670998Z,tc_twofish,0.1.0,0,0,https://github.com/TomiCheng/tc_block_cipher,"Twofish block cipher with 128-, 192- and 256-bit keys and a 128-bit block."
+2026-11-04T01:21:24.709816Z,cryptnet-dump,1.0.0,0,0,https://github.com/truekonrads/ocspcryptneturlcache,Standalone CryptnetUrlCache dumper and OCSP certificate-name investigator
+2026-11-04T01:22:33.478236Z,dsh-bot-daemon,0.1.0,0,0,https://github.com/trtyr/dsh-bot-daemon,"BOT team runtime daemon for DeepSeek Harness (dsh): team lifecycle, headless bot spawn with PID-based identity, session isolation per team, pause/resume with atomic snapshots."
+2026-11-04T01:23:24.599769Z,dot-envy,1.0.0,0,0,https://github.com/carvalinh0/envy,"A CLI tool to validate, edit and securely share environment variables."
+2026-11-04T01:41:29.258922Z,zigurate,0.1.5,0,0,https://github.com/G4brielXavier/ziguratelang,"A domain-specific language for game designers, writters and worldbuilders, focused on query and local database. Designed in Rust."
+2026-11-04T01:42:29.327449Z,smart-2fa-manager-tui,0.1.1,0,0,https://github.com/smartlegionlab/smart-2fa-manager-tui-rs,Offline TOTP 2FA manager for Linux with a full-screen terminal interface.
+2026-11-04T01:45:13.691392Z,ufw-guard,0.1.0,0,0,https://github.com/jericbas/ufw-guard,Compiled Rust governance wrapper for UFW enforcing audit comments on firewall rules
+2026-11-04T01:57:35.790636Z,slab-lang,0.2.0,0,0,https://github.com/HeavyLvy/slab,A statically typed language that compiles to Minecraft Java data packs
+2026-11-04T01:58:22.565856Z,ravenrs-lottie,27.1.10,0,0,https://github.com/alexkads/RavenRS,"A Lottie player of our own for RavenRS: reads the JSON, works out each frame's curves and leaves them in the display list. No GPU, no widgets."
+2026-11-04T02:00:49.332859Z,hypsora,0.1.0,0,0,https://github.com/LokiSharp/hypsora,The hypsora library.
+2026-11-04T02:00:57.759594Z,fauna-api,1.0.676,0,0,https://github.com/tyephoenix/Fauna,"The Fauna SDK for Rust: accounts, Drive, groups, calendar, chats, payments, Parrot and live rooms."
+2026-11-04T02:10:29.66906Z,winia-winit-android,0.31.0-beta.4,0,0,https://github.com/GrounzerLiu/winit,Winia's Android backend for the winia-winit fork.
+2026-11-04T02:11:06.974337Z,winia-winit,0.31.0-beta.4,0,0,https://github.com/GrounzerLiu/winit,"Winia's fork of winit, with Android IME support (library name: winit)."
+2026-11-04T02:11:42.390207Z,aurelia-steam-vent-chat,0.5.0,0,0,https://codeberg.org/Drackrath/aurelia-steam-vent-chat,"Steam chat client library (Aurelia fork of steam-vent-chat, ported to steam-vent 0.5)"
+2026-11-04T02:11:45.530332Z,pmc-arrow,0.1.0,0,0,,Convert PMC PDF bytes and source metadata into Apache Arrow batches
+2026-11-04T02:17:37.195469Z,slab-lsp,0.2.0,0,0,https://github.com/HeavyLvy/slab,"Language server for the slab language (diagnostics, hover, completion, formatting)"
