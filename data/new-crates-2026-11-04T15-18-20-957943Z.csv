@@ -1,0 +1,44 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T14:20:01.953708Z,nanoglia-kernels,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoglia,"Pure-Rust kernels of nanoglia, bit-exact with the TFLite reference kernels: shape and quantization operators, the int8 operators CMSIS-NN lacks, and float32 versions of the main operators."
+2026-11-04T14:20:05.421159Z,nanoglia-tflite,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoglia,"Zero-copy, allocation-free and panic-free TensorFlow Lite model verifier and reader for nanoglia."
+2026-11-04T14:20:20.77898Z,nanoglia,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoglia,"Run TensorFlow Lite models loaded at runtime on microcontrollers: one no_std API, CMSIS-NN / ESP-NN accelerated kernels, every byte from your allocator."
+2026-11-04T14:23:02.472971Z,figcraft-format,0.5.1,0,0,,"FigCraft native file format (.figcraft: zip of document.json + images), image import helpers, REST API file JSON import and .fig import"
+2026-11-04T14:23:48.555131Z,fil-transport,0.0.1,0,0,https://github.com/anthonytw/fil,Placeholder for the fil remote shell (github.com/anthonytw/fil); first release coming soon
+2026-11-04T14:24:52.270934Z,foundation_cloudflare_types,0.1.0,0,0,https://github.com/ewe-studios/ewe_platform,Shared Cloudflare D1/R2 wire types for foundation_db and foundation_deployment_cloudflare
+2026-11-04T14:25:00.023251Z,foundation_reactor,0.0.1,0,0,https://github.com/ewe-studios/ewe_platform,Shared I/O readiness reactor: epoll/kqueue/io_uring selector plus the Waker-capable readiness layer
+2026-11-04T14:26:04.357451Z,tor-bin-common,0.48.0,0,0,https://gitlab.torproject.org/tpo/core/arti.git/,Functionality shared among high-level arti binaries
+2026-11-04T14:28:52.330005Z,sight-launcher,0.1.0,0,0,https://github.com/lxsh-S/Sight,A simple lightweight GTK4 application laucher for linux
+2026-11-04T14:30:08.700078Z,slopio-h2,0.1.0,0,0,https://github.com/slopio/slopio-h2,"HTTP/2 server and client with gRPC, for Linux, on the io_uring runtime slopio"
+2026-11-04T14:30:19.976653Z,mahbot-rlx-gpu-host,0.2.18-mahbot.1,0,0,https://github.com/edezhic/mahbot-rlx,Backend-agnostic host-fallback kernels (D2H → CPU → H2D) shared by RLX GPU backends (rlx-cuda / rlx-rocm).
+2026-11-04T14:33:26.719148Z,labguru-cli,0.1.1,0,0,https://github.com/IPNP-BIPN/labguru-cli,"lg: Labguru on the command line (projects, folders, experiments, and your own notebook)"
+2026-11-04T14:33:28.024027Z,figcraft-layout,0.5.1,0,0,,"FigCraft layout: auto layout (horizontal, vertical, wrap, grid; hug/fill/fixed), constraints, layout grid geometry"
+2026-11-04T14:33:52.582595Z,fil-term,0.0.1,0,0,https://github.com/anthonytw/fil,Placeholder for the fil remote shell (github.com/anthonytw/fil); first release coming soon
+2026-11-04T14:34:40.737249Z,bytesreader,0.0.1,0,0,https://github.com/WangLabCSU/bytesreader,A growable buffered reader backed by the bytes crate
+2026-11-04T14:40:39.2511Z,equ,0.1.1,0,0,https://github.com/w1n4a/equ/,A simple data package for Rust by w1n4a
+2026-11-04T14:40:46.284288Z,nanoglia-c,0.1.0,0,0,https://github.com/AlixANNERAUD/nanoglia,"C API of nanoglia: run TensorFlow Lite models loaded at runtime from C or C++, with every byte in one buffer you provide, as a static library with a header and a CMake project."
+2026-11-04T14:40:48.21342Z,mahbot-rlx-wgpu,0.2.18-mahbot.1,0,0,https://github.com/edezhic/mahbot-rlx,Cross-platform GPU backend for RLX via wgpu (Metal/Vulkan/DX12)
+2026-11-04T14:41:17.692104Z,directories_xdg,6.0.11,0,0,https://github.com/eugenesvk/directories-rs,"A tiny mid-level library that provides platform-specific standard locations of directories for config, cache and other data on Linux, Windows and macOS by leveraging the mechanisms defined by the XDG…"
+2026-11-04T14:43:56.322712Z,fil-predict,0.0.1,0,0,https://github.com/anthonytw/fil,Placeholder for the fil remote shell (github.com/anthonytw/fil); first release coming soon
+2026-11-04T14:44:22.681161Z,figcraft-text,0.5.1,0,0,,"FigCraft text: font database (embedded craft-fonts + system fonts), shaping, line layout, glyph outlines"
+2026-11-04T14:46:48.717053Z,nordisk-kernel-evidence,0.1.0,0,0,https://git.gunnar.rs/nordisk/edda,"The schema'd evidence files of the nordisk kernel tooling (kernel needs, runtime needs, possible-syscalls graph, coverage, veto receipts, ledger key) as one set of serde types with validators, shared…"
+2026-11-04T14:49:06.150632Z,leftover,0.0.1,0,0,https://github.com/WangLabCSU/leftover,A BufRead adapter for data spanning buffer boundaries
+2026-11-04T14:49:24.434677Z,jfp-contract,0.1.0,0,0,https://github.com/jarohull-ai/XcratesX,JFP v5.4.0 (JARO Flash Protocol) — text-frame IPC contract for plugin-based TUI workbenches
+2026-11-04T14:52:43.620707Z,mahbot-rlx-runtime,0.2.18-mahbot.1,0,0,https://github.com/edezhic/mahbot-rlx,"RLX runtime — feature-gated backends, session API, compile+execute pipeline"
+2026-11-04T14:53:59.917439Z,fil-forward,0.0.1,0,0,https://github.com/anthonytw/fil,Placeholder for the fil remote shell (github.com/anthonytw/fil); first release coming soon
+2026-11-04T14:55:14.728584Z,figcraft-render,0.5.1,0,0,,"FigCraft renderer: the scene graph to pixels on tiny-skia (fills, gradients, images, aligned strokes, shadows, blurs, masks, blend modes, text)"
+2026-11-04T15:01:49.405947Z,nino-serialization-derive,4.0.0-rc.8,0,0,https://github.com/JasonXuDeveloper/Nino,"#[derive(NinoRead, NinoWrite)] for nino-serialization: the codecs Nino's generator writes, from attributes."
+2026-11-04T15:01:55.215608Z,nino-serialization,4.0.0-rc.8,0,0,https://github.com/JasonXuDeveloper/Nino,Reads and writes Nino's binary wire format (the bytes Nino v4 writes in .NET).
+2026-11-04T15:01:55.2686Z,mosha,0.2.0,0,0,https://github.com/enkyuan/mosha,Browser-rendered website mirroring and hydration-aware editing
+2026-11-04T15:05:13.642255Z,mahbot-inference,0.2.18-mahbot.1,0,0,https://github.com/edezhic/mahbot-rlx,"MahBot inference: ear, recognition, synthesis and transcription, end to end, on our own models."
+2026-11-04T15:05:21.727784Z,mrsf,0.1.0,0,0,https://github.com/wictorwilen/MRSF,Native Markdown Review Sidecar Format (MRSF/Sidemark) library
+2026-11-04T15:06:33.854283Z,oxidevm-bridge,0.1.0,0,0,https://github.com/spacia-ai/oxidevm-sdk-public,"Process identity, native Linux programs and VM sockets for Rust programs running as WebAssembly (wasm32-wasip1) in an OxideVM virtual machine"
+2026-11-04T15:08:00.412549Z,figcraft-pdf,0.5.1,0,0,,"FigCraft PDF export (krilla): vector shapes, gradients, embedded images, aligned strokes as outlines, clips, masks, blend modes, real selectable text, effects as rasters, print options (bleed, marks,…"
+2026-11-04T15:08:32.927895Z,figcraft-plugin,0.5.1,0,0,,"FigCraft plugins: the plugin manifest and the WebAssembly sandbox plugins run in (a metered interpreter with no file system, network or clock)"
+2026-11-04T15:10:25.98671Z,decode-zstd,0.0.2,0,0,https://github.com/artob/filer,"A clean-room, public-domain zstd decoder, in safe Rust."
+2026-11-04T15:10:29.496771Z,decode-bzip2,0.0.2,0,0,https://github.com/artob/filer,"A clean-room, public-domain bzip2 decoder, in safe Rust."
+2026-11-04T15:10:31.153154Z,decode-deflate,0.0.2,0,0,https://github.com/artob/filer,"A clean-room, public-domain Deflate decoder, in safe Rust (planned)."
+2026-11-04T15:10:33.446172Z,decode-gzip,0.0.2,0,0,https://github.com/artob/filer,"A clean-room, public-domain gzip decoder, in safe Rust (planned)."
+2026-11-04T15:10:36.888032Z,decode-zlib,0.0.2,0,0,https://github.com/artob/filer,"A clean-room, public-domain zlib decoder, in safe Rust (planned)."
+2026-11-04T15:10:40.669087Z,octofhir-canonical-core,0.2.11,0,0,https://github.com/octofhir/canonical-manager-rs,"Offline FHIR package storage, canonical resolution and optional HTTP adapters"
+2026-11-04T15:14:49.722968Z,poli-page-rocket,0.13.0,0,0,https://github.com/poli-page/rocketrs,Rocket.rs fairing and responders for the Poli Page PDF rendering API
+2026-11-04T15:16:44.270977Z,decode-lzma,0.0.2,0,0,https://github.com/artob/filer,"A clean-room, public-domain LZMA and LZMA2 decoder, in safe Rust (planned)."
