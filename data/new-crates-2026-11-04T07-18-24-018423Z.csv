@@ -1,0 +1,30 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T06:22:04.590511Z,tachyon-db,0.1.0,0,0,,"Embedded single-file copy-on-write key-value store, with tokio support"
+2026-11-04T06:22:32.28941Z,knobe,0.1.0,0,0,https://github.com/KnobeDev/knobe-rs,KNOBE Protocol v1 verifier and sealer: a Rust sibling of lens.py and knobe-core.js
+2026-11-04T06:25:24.087312Z,effectcraft-color,0.9.2,0,0,https://github.com/aphrody-labs/bun-os,"Colour for EffectCraft: RGBA values, sRGB transfer, HSL/HSV, luminance, the label palette and After Effects compatible blend modes."
+2026-11-04T06:31:42.406126Z,effectcraft-geom,0.9.2,0,0,https://github.com/aphrody-labs/bun-os,"Geometry for EffectCraft: 2D/3D vectors, 3x3 and 4x4 matrices, rectangles and the layer-transform composition used by the compositor."
+2026-11-04T06:31:42.484206Z,docker-credential-prego,0.3.0,0,0,https://github.com/group-katskill/prego-clients,Docker credential helper for Prego by Katskill OCI registries. Gives Docker a machine identity for the Prego token realm.
+2026-11-04T06:31:50.546473Z,prego,0.3.0,0,0,https://github.com/group-katskill/prego-clients,"Command-line tool for Prego by Katskill: registry tokens, whoami, setup for Cargo and Docker, and chunked OCI image push."
+2026-11-04T06:31:52.759674Z,woopwoop-tiles,0.1.0,0,0,https://github.com/Nosdesk/woopwoop,"Turns vector map tiles into SVG, so a browser can draw them as plain images."
+2026-11-04T06:32:53.652106Z,mccode,0.0.1,0,0,https://github.com/microclaw/microclaw,MicroClaw Code (mccode): a terminal coding agent. Placeholder release; install from https://github.com/microclaw/microclaw
+2026-11-04T06:33:40.954682Z,cargoc,0.1.0,0,0,https://github.com/bigfish1913/cargoc,Cargo wrapper with managed intermediate caches and safe disk-pressure cleanup
+2026-11-04T06:35:42.740872Z,effectcraft-time,0.9.2,0,0,https://github.com/aphrody-labs/bun-os,"Exact integer media time for EffectCraft and FilmCraft: ticks, rates, timecode and frame conversion."
+2026-11-04T06:47:42.784305Z,effectcraft-keyframe,0.9.2,0,0,,"Animated values: keyframes, temporal ease (speed/influence), spatial Bezier motion paths, hold/linear/auto interpolation"
+2026-11-04T06:49:29.026532Z,nlptoolkit-sampling,0.0.1,0,0,https://github.com/StarlangSoftware/Sampling-Rust,Simple Sampling library
+2026-11-04T06:54:34.363872Z,monipix,0.1.0,0,0,https://github.com/arkyu2077/ai-image-upscaler,"Official Rust SDK & resolution planner for Monipix (https://monipix.com) — AI Image Upscaler to 4K, 8K & 16K, AI Photo Restoration, Object Removal, and Creative Studio."
+2026-11-04T06:54:37.653677Z,speedpainter,0.1.0,0,0,https://github.com/SpeedPainterOrg/explainer-video,Official Rust SDK & MCP client definitions for SpeedPainter AI (https://www.speedpainter.org/en) — AI Whiteboard Explainer Video Maker & Photo-to-Speedpaint Video Generator.
+2026-11-04T06:55:51.370203Z,abcurves-rs,0.1.0,0,0,,ABCurves continuous movement inference and native count renderer
+2026-11-04T06:58:17.472287Z,effectcraft-project,0.9.2,0,0,,"The EffectCraft document: project items, compositions, layers and the After-Effects-style property tree"
+2026-11-04T06:58:36.803014Z,effectcraft-raster,0.9.2,0,0,,"f32 premultiplied RGBA images: sampling, projective warps, blurs, convolution, compositing (rayon-parallel)"
+2026-11-04T07:01:29.438096Z,kube32-sdk,0.1.0,0,0,https://github.com/arterialist/kube32,no_std Rust bindings for the kube32 WebAssembly pod ABI
+2026-11-04T07:01:42.03911Z,wolfxl-pivot,2.0.0,0,0,https://github.com/SynthGL/wolfxl-oss,Pure Rust OOXML pivot cache and pivot table parsing and serialization
+2026-11-04T07:01:43.94839Z,wolfxl-structural,0.1.0,0,0,https://github.com/SynthGL/wolfxl-oss,Pure Rust XML rewrites for worksheet row and column insertion and deletion
+2026-11-04T07:01:46.006065Z,wolfxl-edit,0.1.0,0,0,https://github.com/SynthGL/wolfxl-oss,Byte-preserving workbook edits for existing XLSX and XLSM files
+2026-11-04T07:03:59.897853Z,vulkan-memory-allocator-sys,0.1.0,0,0,https://github.com/pavlov-net/vulkan-memory-allocator-sys,"Raw Rust bindings to AMD's Vulkan Memory Allocator 3.5.0, built from source with no Vulkan SDK needed."
+2026-11-04T07:09:06.690243Z,origincloud-billing,0.11.0,0,0,https://github.com/origincloudhq/sdk-rust,"The Origin Cloud billing API: billing accounts and the projects they pay for, payment methods, cost and usage, spend limits and the price list."
+2026-11-04T07:09:11.984683Z,origincloud-support,0.11.0,0,0,https://github.com/origincloudhq/sdk-rust,"The Origin Cloud support API: support cases, each a conversation between an organization and Origin Cloud support about a question or a problem."
+2026-11-04T07:09:15.957764Z,origincloud-observability,0.11.0,0,0,https://github.com/origincloudhq/sdk-rust,"The Origin Cloud observability API: the metrics the platform collects for a project's compute instances, volumes and network interfaces."
+2026-11-04T07:11:51.858414Z,effectcraft-segment,0.9.2,0,0,,"Swappable trained models for Roto Brush and face tracking: the MaskModel and FaceModel interfaces, a registry of open-licensed models, PyTorch checkpoint and TensorFlow Lite readers, a pure-Rust Mobi…"
+2026-11-04T07:17:49.368842Z,unlace,0.2.4,0,0,https://github.com/ekhodzitsky/unlace,"Bounded streaming WebM/Matroska audio demuxing, verified seeking and encoded-block writing in pure Rust."
+2026-11-04T07:18:02.142141Z,tpt-av-cadence-core,0.1.0,0,0,https://github.com/tpt-solutions/tpt-cadence,"Core traits and types for the tpt-cadence audio codec suite: the Decoder trait, StreamInfo, format enums, and error handling."
+2026-11-04T07:18:17.467678Z,tpt-av-cadence-ogg,0.1.0,0,0,https://github.com/tpt-solutions/tpt-cadence,Ogg page/packet container layer (RFC 3533) for the tpt-cadence audio codec suite.

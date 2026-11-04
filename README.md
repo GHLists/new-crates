@@ -8,39 +8,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 06:20 UTC
+## Latest list — 2026-11-04 07:18 UTC
 
-New crates published between 2026-11-04 05:18 UTC and 2026-11-04 06:20 UTC.
+New crates published between 2026-11-04 06:20 UTC and 2026-11-04 07:18 UTC.
 
-[Full CSV](data/new-crates-2026-11-04T06-20-32-357626Z.csv)
+[Full CSV](data/new-crates-2026-11-04T07-18-24-018423Z.csv)
 
 | Created (UTC) | Crate | Version | Downloads | Description |
 | :------------ | :---- | :------ | --------: | :---------- |
-| 2026-11-04 05:20:16 | [bun_env_cookie](https://crates.io/crates/bun_env_cookie) | 1.4.7 | 0 | bunos env (.env files) and bunos cookie (cookie jars on disk), imported from th… |
-| 2026-11-04 05:20:46 | [bun_host](https://crates.io/crates/bun_host) | 1.4.7 | 0 | bunos host: host resource inventory and the shared signed host registry, import… |
-| 2026-11-04 05:21:05 | [bunos-nt-proto](https://crates.io/crates/bunos-nt-proto) | 1.4.7 | 0 | Bun OS bunos.sys IOCTL contract: control codes, event records and strict, fuzz-… |
-| 2026-11-04 05:22:23 | [bunos-win11-chrome](https://crates.io/crates/bunos-win11-chrome) | 1.4.7 | 0 | macOS-style window chrome for the Bun OS Windows desktop: DWM rounded corners,… |
-| 2026-11-04 05:22:35 | [bunos-win11-wallpaper](https://crates.io/crates/bunos-win11-wallpaper) | 1.4.7 | 0 | Rust wallpaper engine for the Bun OS Windows desktop: acquires the WorkerW laye… |
-| 2026-11-04 05:23:28 | [pipecircuit-showrunner-switchboard](https://crates.io/crates/pipecircuit-showrunner-switchboard) | 0.0.1 | 0 | Typed browser testing with Pipecircuit |
-| 2026-11-04 05:25:18 | [foldl-core](https://crates.io/crates/foldl-core) | 0.1.0 | 0 | Pure core of foldl: state, events, effects and the step function |
-| 2026-11-04 05:25:19 | [foldl](https://crates.io/crates/foldl) | 0.1.0 | 0 | Run code when a shell enters or leaves a folder |
-| 2026-11-04 05:30:36 | [edgedoc-limit](https://crates.io/crates/edgedoc-limit) | 0.1.0 | 0 | Budgets for EdgeDoc readers |
-| 2026-11-04 05:30:49 | [edgedoc-unit](https://crates.io/crates/edgedoc-unit) | 0.1.0 | 0 | Length units for EdgeDoc |
-| 2026-11-04 05:30:58 | [edgedoc-opc](https://crates.io/crates/edgedoc-opc) | 0.1.0 | 0 | OPC package reader and writer |
-| 2026-11-04 05:31:05 | [edgedoc-model](https://crates.io/crates/edgedoc-model) | 0.1.0 | 0 | In-memory Word document model |
-| 2026-11-04 05:31:24 | [edgedoc-wml](https://crates.io/crates/edgedoc-wml) | 0.1.0 | 0 | WordprocessingML reader and writer |
-| 2026-11-04 05:33:04 | [edgedoc-merge](https://crates.io/crates/edgedoc-merge) | 0.1.0 | 0 | Mail-merge for EdgeDoc templates |
-| 2026-11-04 05:33:29 | [pipecircuit-showrunner-mio](https://crates.io/crates/pipecircuit-showrunner-mio) | 0.0.1 | 0 | Typed browser testing with Pipecircuit |
-| 2026-11-04 05:33:38 | [designcraft-fonts](https://crates.io/crates/designcraft-fonts) | 0.7.1 | 0 | DesignCraft fonts: font database (bundled OFL + system), metrics, glyph outline… |
-| 2026-11-04 05:37:41 | [suricatax-rules](https://crates.io/crates/suricatax-rules) | 0.6.0 | 0 | Suricata Rule Manager |
-| 2026-11-04 05:40:34 | [gunnar-heimdall](https://crates.io/crates/gunnar-heimdall) | 1.7.0 | 0 | Gunnar as a Heimdall user: untrusted packs (mirror imports, pushes) are parsed… |
-| 2026-11-04 05:42:35 | [edgedoc](https://crates.io/crates/edgedoc) | 0.1.0 | 0 | Read, create, edit, merge, and save Word documents |
-| 2026-11-04 05:44:35 | [designcraft-compose](https://crates.io/crates/designcraft-compose) | 0.7.1 | 0 | DesignCraft text composition: paragraph composer (Knuth–Plass), hyphenation, ju… |
-| 2026-11-04 05:51:54 | [txqr](https://crates.io/crates/txqr) | 0.1.0 | 0 | Transfer data via animated QR codes |
-| 2026-11-04 05:51:56 | [txqr-cli](https://crates.io/crates/txqr-cli) | 0.1.0 | 0 | Transfer data via animated QR codes |
-| 2026-11-04 05:55:23 | [designcraft-images](https://crates.io/crates/designcraft-images) | 0.7.1 | 0 | DesignCraft placed-graphic decoding: raster formats (PNG, JPEG, GIF, WebP, TIFF… |
-| 2026-11-04 06:06:18 | [designcraft-tools](https://crates.io/crates/designcraft-tools) | 0.7.1 | 0 | DesignCraft tools: pointer events in, commands and overlays out (Selection, Dir… |
-| 2026-11-04 06:12:19 | [cloudflare-flagship](https://crates.io/crates/cloudflare-flagship) | 0.6.0 | 0 | OpenFeature provider for Cloudflare Flagship feature flags |
+| 2026-11-04 06:22:04 | [tachyon-db](https://crates.io/crates/tachyon-db) | 0.1.0 | 0 | Embedded single-file copy-on-write key-value store, with tokio support |
+| 2026-11-04 06:22:32 | [knobe](https://crates.io/crates/knobe) | 0.1.0 | 0 | KNOBE Protocol v1 verifier and sealer: a Rust sibling of lens.py and knobe-core… |
+| 2026-11-04 06:25:24 | [effectcraft-color](https://crates.io/crates/effectcraft-color) | 0.9.2 | 0 | Colour for EffectCraft: RGBA values, sRGB transfer, HSL/HSV, luminance, the lab… |
+| 2026-11-04 06:31:42 | [effectcraft-geom](https://crates.io/crates/effectcraft-geom) | 0.9.2 | 0 | Geometry for EffectCraft: 2D/3D vectors, 3x3 and 4x4 matrices, rectangles and t… |
+| 2026-11-04 06:31:42 | [docker-credential-prego](https://crates.io/crates/docker-credential-prego) | 0.3.0 | 0 | Docker credential helper for Prego by Katskill OCI registries. Gives Docker a m… |
+| 2026-11-04 06:31:50 | [prego](https://crates.io/crates/prego) | 0.3.0 | 0 | Command-line tool for Prego by Katskill: registry tokens, whoami, setup for Car… |
+| 2026-11-04 06:31:52 | [woopwoop-tiles](https://crates.io/crates/woopwoop-tiles) | 0.1.0 | 0 | Turns vector map tiles into SVG, so a browser can draw them as plain images. |
+| 2026-11-04 06:32:53 | [mccode](https://crates.io/crates/mccode) | 0.0.1 | 0 | MicroClaw Code (mccode): a terminal coding agent. Placeholder release; install… |
+| 2026-11-04 06:33:40 | [cargoc](https://crates.io/crates/cargoc) | 0.1.0 | 0 | Cargo wrapper with managed intermediate caches and safe disk-pressure cleanup |
+| 2026-11-04 06:35:42 | [effectcraft-time](https://crates.io/crates/effectcraft-time) | 0.9.2 | 0 | Exact integer media time for EffectCraft and FilmCraft: ticks, rates, timecode… |
+| 2026-11-04 06:47:42 | [effectcraft-keyframe](https://crates.io/crates/effectcraft-keyframe) | 0.9.2 | 0 | Animated values: keyframes, temporal ease (speed/influence), spatial Bezier mot… |
+| 2026-11-04 06:49:29 | [nlptoolkit-sampling](https://crates.io/crates/nlptoolkit-sampling) | 0.0.1 | 0 | Simple Sampling library |
+| 2026-11-04 06:54:34 | [monipix](https://crates.io/crates/monipix) | 0.1.0 | 0 | Official Rust SDK & resolution planner for Monipix (https://monipix.com) — AI I… |
+| 2026-11-04 06:54:37 | [speedpainter](https://crates.io/crates/speedpainter) | 0.1.0 | 0 | Official Rust SDK & MCP client definitions for SpeedPainter AI (https://www.spe… |
+| 2026-11-04 06:55:51 | [abcurves-rs](https://crates.io/crates/abcurves-rs) | 0.1.0 | 0 | ABCurves continuous movement inference and native count renderer |
+| 2026-11-04 06:58:17 | [effectcraft-project](https://crates.io/crates/effectcraft-project) | 0.9.2 | 0 | The EffectCraft document: project items, compositions, layers and the After-Eff… |
+| 2026-11-04 06:58:36 | [effectcraft-raster](https://crates.io/crates/effectcraft-raster) | 0.9.2 | 0 | f32 premultiplied RGBA images: sampling, projective warps, blurs, convolution,… |
+| 2026-11-04 07:01:29 | [kube32-sdk](https://crates.io/crates/kube32-sdk) | 0.1.0 | 0 | no_std Rust bindings for the kube32 WebAssembly pod ABI |
+| 2026-11-04 07:01:42 | [wolfxl-pivot](https://crates.io/crates/wolfxl-pivot) | 2.0.0 | 0 | Pure Rust OOXML pivot cache and pivot table parsing and serialization |
+| 2026-11-04 07:01:43 | [wolfxl-structural](https://crates.io/crates/wolfxl-structural) | 0.1.0 | 0 | Pure Rust XML rewrites for worksheet row and column insertion and deletion |
+| 2026-11-04 07:01:46 | [wolfxl-edit](https://crates.io/crates/wolfxl-edit) | 0.1.0 | 0 | Byte-preserving workbook edits for existing XLSX and XLSM files |
+| 2026-11-04 07:03:59 | [vulkan-memory-allocator-sys](https://crates.io/crates/vulkan-memory-allocator-sys) | 0.1.0 | 0 | Raw Rust bindings to AMD's Vulkan Memory Allocator 3.5.0, built from source wit… |
+| 2026-11-04 07:09:06 | [origincloud-billing](https://crates.io/crates/origincloud-billing) | 0.11.0 | 0 | The Origin Cloud billing API: billing accounts and the projects they pay for, p… |
+| 2026-11-04 07:09:11 | [origincloud-support](https://crates.io/crates/origincloud-support) | 0.11.0 | 0 | The Origin Cloud support API: support cases, each a conversation between an org… |
+| 2026-11-04 07:09:15 | [origincloud-observability](https://crates.io/crates/origincloud-observability) | 0.11.0 | 0 | The Origin Cloud observability API: the metrics the platform collects for a pro… |
+| 2026-11-04 07:11:51 | [effectcraft-segment](https://crates.io/crates/effectcraft-segment) | 0.9.2 | 0 | Swappable trained models for Roto Brush and face tracking: the MaskModel and Fa… |
+| 2026-11-04 07:17:49 | [unlace](https://crates.io/crates/unlace) | 0.2.4 | 0 | Bounded streaming WebM/Matroska audio demuxing, verified seeking and encoded-bl… |
+| 2026-11-04 07:18:02 | [tpt-av-cadence-core](https://crates.io/crates/tpt-av-cadence-core) | 0.1.0 | 0 | Core traits and types for the tpt-cadence audio codec suite: the Decoder trait,… |
+| 2026-11-04 07:18:17 | [tpt-av-cadence-ogg](https://crates.io/crates/tpt-av-cadence-ogg) | 0.1.0 | 0 | Ogg page/packet container layer (RFC 3533) for the tpt-cadence audio codec suit… |
 
 ## Data source
 
