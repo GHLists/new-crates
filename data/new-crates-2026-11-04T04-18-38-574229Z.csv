@@ -1,0 +1,14 @@
+created_at,crate,version,downloads,recent_downloads,repository,description
+2026-11-04T03:22:42.712052Z,qso-graph-trust-awslc,0.1.0-beta.2,0,0,https://github.com/qso-graph/qso-graph-trust,QSO Graph Trust's one binding to AWS-LC: LoTW's RSA-SHA-1 signature and certificate checks
+2026-11-04T03:22:47.098299Z,qso-graph-trust,0.1.0-beta.2,0,0,https://github.com/qso-graph/qso-graph-trust,Sign ADIF logs for ARRL's Logbook of The World (LoTW)
+2026-11-04T03:24:49.425509Z,woopwoop,0.1.0,0,0,https://github.com/Nosdesk/woopwoop,"A small, fast address geocoder. Finds anywhere, even out in woop woop."
+2026-11-04T03:27:41.970675Z,foil-sandbox,0.4.0,0,0,https://github.com/ai-agentic-tools/foil,"A local sandbox for AI coding agents: instant copy-on-write branches of your repo, reviewed before they are committed"
+2026-11-04T03:28:30.99059Z,pmc-io,0.1.0,0,0,https://github.com/dentiny/pub-medical-arrow-rs,Async PDF and metadata ingestion for PMC Arrow through OpenDAL and byte streams
+2026-11-04T03:29:31.140444Z,lx-capture,0.1.0,0,0,https://github.com/younsabood/lx-capture,Windows DXGI desktop capture with dirty-tile updates and compact rectangle frames
+2026-11-04T03:30:20.272734Z,base-security,0.1.0,0,0,https://github.com/base-rs/base-security,"Security audit and advisory records, with agent skills for reviewing code and handling vulnerabilities"
+2026-11-04T03:56:22.565422Z,wolfxl-formula,0.1.0,0,0,https://github.com/SynthGL/wolfxl-oss,"A1-syntax Excel formula tokenizer and reference translator (port of openpyxl/Bachtal). Pure Rust, no PyO3 — used by both the wolfxl patcher (modify mode) and the native writer."
+2026-11-04T03:56:23.159846Z,wolfxl-rels,0.1.0,0,0,https://github.com/SynthGL/wolfxl-oss,"OOXML *.rels (Open Packaging Conventions Relationships) parser, mutable graph, and serializer shared by the wolfxl writer and patcher."
+2026-11-04T03:56:24.089453Z,wolfxl-reader,0.1.0,0,0,https://github.com/SynthGL/wolfxl-oss,Native WolfXL workbook readers used to replace calamine-backed read paths.
+2026-11-04T03:59:12.254525Z,netblk,0.0.0,0,0,https://github.com/mhambre/netblk,A Rust ublk device backed by heterogeneous remote storage providers.
+2026-11-04T04:03:16.626866Z,tc_serpent,0.1.0,0,0,https://github.com/TomiCheng/tc_block_cipher,"Serpent and Tnepres block ciphers with 32- to 256-bit keys and a 128-bit block, constant time."
+2026-11-04T04:03:23.37973Z,tc_misc_block_cipher,0.1.0,0,0,https://github.com/TomiCheng/tc_block_cipher,"Less common block ciphers: IDEA, Noekeon, Rijndael, SKIPJACK and TEA/XTEA, one feature each."
